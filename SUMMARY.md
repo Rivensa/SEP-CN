@@ -16,3 +16,4 @@
 * [能力 abilities (John Maier)](a/neng-li-abilities-john-maier.md)
 * [布尔戈斯的阿布纳 Abner of Burgos (Shalom Sadik)](a/bu-er-ge-si-deabu-na-abner-of-burgos-shalom-sadik.md)
 * [犹大·莱昂·阿布拉瓦内尔 Abrabanel, Judah (Aaron Hughes)](a/you-da-lai-ang-abu-la-wa-nei-er-abrabanel-judah-aaron-hughes.md)
+* [抽象对象 abstract objects (José L. Falguera, Concha Martínez-Vidal, and Gideon Rosen)](a/chou-xiang-dui-xiang-abstract-objects-jos-l.-falguera-concha-martnezvidal-and-gideon-rosen.md)
