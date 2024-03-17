@@ -1,21 +1,18 @@
 # 彼得·阿伯拉尔 Abelard \[Abailard], Peter (Peter King and Andrew Arlig)
 
-
 第一次发表于2004年8月3日；实质性修订于2022年8月12日
 
-彼得·阿伯拉尔（1079年-1142年4月21日）[也被称为“阿巴拉尔”、“阿贝拉德”、“哈巴拉尔兹”等等] 是12世纪杰出的哲学家和神学家。作为他那一代的教师，他也因为诗人和音乐家而闻名。在亚里士多德的复兴之前，他把拉丁本土哲学传统推向了巅峰。他的天才在他所做的一切中都显而易见。他可以说是中世纪最伟大的逻辑学家，并且同样以第一个伟大的名义主义哲学家而闻名。他提倡在信仰问题上运用理性（他是第一个以现代意义使用“神学”一词的人），他对宗教教义的系统性处理既因其哲学的深刻洞察力和狡黠灵活性而引人注目，又因其大胆而著名。对于他的同时代人来说，阿伯拉尔似乎比生活本身还要宏伟：他敏锐的智慧、尖刻的舌头、完美的记忆和无边限的傲慢使他在辩论中无与伦比——他被支持者和批评者都称为从未输过任何争论——他的个性魅力深深地打动着与他接触的所有人。他与埃洛伊兹的不幸恋情使他成为浪漫的悲剧人物，而与克莱福尔伯纳德关于理性和宗教的冲突使他成为启蒙运动时期的英雄。尽管他有丰富多彩的一生，但他的哲学成就是他名声的基石。
+彼得·阿伯拉尔（1079年-1142年4月21日）\[也被称为“阿巴拉尔”、“阿贝拉德”、“哈巴拉尔兹”等等] 是12世纪杰出的哲学家和神学家。作为他那一代的教师，他也因为诗人和音乐家而闻名。在亚里士多德的复兴之前，他把拉丁本土哲学传统推向了巅峰。他的天才在他所做的一切中都显而易见。他可以说是中世纪最伟大的逻辑学家，并且同样以第一个伟大的名义主义哲学家而闻名。他提倡在信仰问题上运用理性（他是第一个以现代意义使用“神学”一词的人），他对宗教教义的系统性处理既因其哲学的深刻洞察力和狡黠灵活性而引人注目，又因其大胆而著名。对于他的同时代人来说，阿伯拉尔似乎比生活本身还要宏伟：他敏锐的智慧、尖刻的舌头、完美的记忆和无边限的傲慢使他在辩论中无与伦比——他被支持者和批评者都称为从未输过任何争论——他的个性魅力深深地打动着与他接触的所有人。他与埃洛伊兹的不幸恋情使他成为浪漫的悲剧人物，而与克莱福尔伯纳德关于理性和宗教的冲突使他成为启蒙运动时期的英雄。尽管他有丰富多彩的一生，但他的哲学成就是他名声的基石。
 
 * [1. 生平与作品](https://plato.stanford.edu/entries/abelard/#LifWor)
+* [1.1 生平](https://plato.stanford.edu/entries/abelard/#Lif) \* [1.2 作品](https://plato.stanford.edu/entries/abelard/#Wor) \* [2. 形而上学](https://plato.stanford.edu/entries/abelard/#Met) \* [3. 逻辑学](https://plato.stanford.edu/entries/abelard/#Log) \* [4. 语言哲学](https://plato.stanford.edu/entries/abelard/#Lan) \* [5. 心灵哲学](https://plato.stanford.edu/entries/abelard/#Min) \* [6. 伦理学](https://plato.stanford.edu/entries/abelard/#Eth) \* [7. 神学](https://plato.stanford.edu/entries/abelard/#The) \* [参考文献](https://plato.stanford.edu/entries/abelard/#Bib)
+* [拉丁原始文本](https://plato.stanford.edu/entries/abelard/#PriTexLat) \* [英文翻译的原始文本](https://plato.stanford.edu/entries/abelard/#PriTexEngTra) \* [英文选修次要文献](https://plato.stanford.edu/entries/abelard/#SelSecLitEng) \* [学术工具](https://plato.stanford.edu/entries/abelard/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/abelard/#Oth) \* [相关条目](https://plato.stanford.edu/entries/abelard/#Rel)
 
-* [1.1 生平](https://plato.stanford.edu/entries/abelard/#Lif) * [1.2 作品](https://plato.stanford.edu/entries/abelard/#Wor) * [2. 形而上学](https://plato.stanford.edu/entries/abelard/#Met) * [3. 逻辑学](https://plato.stanford.edu/entries/abelard/#Log) * [4. 语言哲学](https://plato.stanford.edu/entries/abelard/#Lan) * [5. 心灵哲学](https://plato.stanford.edu/entries/abelard/#Min) * [6. 伦理学](https://plato.stanford.edu/entries/abelard/#Eth) * [7. 神学](https://plato.stanford.edu/entries/abelard/#The) * [参考文献](https://plato.stanford.edu/entries/abelard/#Bib)
+***
 
-* [拉丁原始文本](https://plato.stanford.edu/entries/abelard/#PriTexLat) * [英文翻译的原始文本](https://plato.stanford.edu/entries/abelard/#PriTexEngTra) * [英文选修次要文献](https://plato.stanford.edu/entries/abelard/#SelSecLitEng) * [学术工具](https://plato.stanford.edu/entries/abelard/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/abelard/#Oth) * [相关条目](https://plato.stanford.edu/entries/abelard/#Rel)
+## [1. 生平与作品](bi-de-abo-la-er-abelard-abailard-peter-peter-king-and-andrew-arlig.md)
 
----
-
-## [1. 生平与作品]()
-
- ### [1.1 生活]()
+### [1.1 生活](bi-de-abo-la-er-abelard-abailard-peter-peter-king-and-andrew-arlig.md)
 
 阿伯拉尔的生活相对而言是众所周知的。除了公开记录中记载的事件外，他的内心生活在他的自传性信件《历史灾难》和与埃洛伊斯的著名通信中得以揭示。
 
@@ -33,22 +30,21 @@
 
 阿伯拉尔的学生们活跃在君王、哲学家、诗人、政治家、神学家和修道士等领域；他们中包括三位教皇和几位国家元首。关于阿伯拉尔思想的明确参考在后期中世纪很少，可能是因为索瓦松斯公会的裁决所带来的阴影，但很明显，他对12世纪哲学产生了重要影响，也可能对14世纪后期的思辨产生了影响。
 
-
 阿伯拉尔的作品的创作日期甚至数量在学者之间仍然大部分是模糊的和有争议的。其中一个原因是阿伯拉尔经常修订和重写，因此同一作品可能有几个不同版本在流传；另一个原因是他的一些著作可能代表了在课程和研讨会中不断演变的“教学笔记”。因此，对于我们现在拥有的阿伯拉尔作品的“创作日期”是否是一个明确定义的概念并不清楚。除了阿伯拉尔的通信可以相对精确地确定日期外，他现存的作品可以分为三类。
 
 第一类是阿伯拉尔关于“辩证法”的作品，涉及逻辑、语言哲学、形而上学和心灵哲学。他的两部杰作是：
 
-* *Logica* ‘*ingredientibus*’, “逻辑”（以“对于那些刚开始的人…”开头）。* *Dialectica*，“辩证法”。
+* _Logica_ ‘_ingredientibus_’, “逻辑”（以“对于那些刚开始的人…”开头）。\* _Dialectica_，“辩证法”。
 
-这两部作品都遵循着“logica vetus”的模式，即古代传承下来的“旧逻辑”：波菲里的亚里士多德导论《Isagoge》；亚里士多德的《范畴学》和《论释义》；博伊斯的《范畴三段论导论》、《范畴三段论》、《假设三段论》、《论主题差异》和《论分割》。阿伯拉尔的作品涵盖了旧逻辑中呈现的内容，尽管它们以不同的方式呈现。他的《逻辑》‘*ingredientibus*’是对旧逻辑的一种密切的文本评论，尽管只有其中的一部分幸存下来，即对《Isagoge》、《范畴学》、《论释义》和《论主题差异》的评论；他的《辩证法》是一部独立的辩证法论文，以主题的方式处理相同的材料，尽管开头（涵盖《Isagoge》和《范畴学》的部分）和结尾（关于分割和定义）都没有保存下来。此外，还有四部较小的辩证法作品：
+这两部作品都遵循着“logica vetus”的模式，即古代传承下来的“旧逻辑”：波菲里的亚里士多德导论《Isagoge》；亚里士多德的《范畴学》和《论释义》；博伊斯的《范畴三段论导论》、《范畴三段论》、《假设三段论》、《论主题差异》和《论分割》。阿伯拉尔的作品涵盖了旧逻辑中呈现的内容，尽管它们以不同的方式呈现。他的《逻辑》‘_ingredientibus_’是对旧逻辑的一种密切的文本评论，尽管只有其中的一部分幸存下来，即对《Isagoge》、《范畴学》、《论释义》和《论主题差异》的评论；他的《辩证法》是一部独立的辩证法论文，以主题的方式处理相同的材料，尽管开头（涵盖《Isagoge》和《范畴学》的部分）和结尾（关于分割和定义）都没有保存下来。此外，还有四部较小的辩证法作品：
 
-* *Introductiones parvulorum*, “初级逻辑。” * *Logica* ‘*nostrorum petitioni sociorum*’, “逻辑”（以“根据我们朋友的要求…”开头）。 * *Tractatus de intellectibus*, “关于理解的论文。” * *Sententiae secundum Magistrum Petrum*, “彼得·阿伯拉尔的观点。”
+* _Introductiones parvulorum_, “初级逻辑。” \* _Logica_ ‘_nostrorum petitioni sociorum_’, “逻辑”（以“根据我们朋友的要求…”开头）。 \* _Tractatus de intellectibus_, “关于理解的论文。” \* _Sententiae secundum Magistrum Petrum_, “彼得·阿伯拉尔的观点。”
 
 其中第一个是一系列关于古老逻辑的初级评论（尽管没有完整保留下来）；它们的简单水平使一些学者认为它们可能来自阿伯拉尔早期的职业生涯，而其他人则否认它们是阿伯拉尔的作品。第二个作品《逻辑》“根据我们朋友的要求…”是一个正在进行中的作品：它假设读者已经了解了阿伯拉尔早期的《逻辑》“ingredientibus”，并讨论了那里没有涉及到的高级问题，但在很长一段时间里，它也是对波尔菲里的《引导》的直接解释或评论；它与阿伯拉尔的其他作品存在文本上的相似之处，并显示出对神学的一些了解。第三个作品涉及到概念或“理解”，既从逻辑的角度（大致提供术语的含义），也从心灵哲学的角度（作为心理内容的载体）来看。最后一部作品可能只是阿伯拉尔一些讲座的记录，涉及到关于整体和部分的逻辑和形而上学难题。
 
 第二类包括阿伯拉尔的伦理学作品：
 
-* *Ethica seu Scito teipsum*，即“伦理学，或者，认识自己。” * *Collationes*，即“对话”或者*Dialogus inter Philosophum, Iudaeum, et Christianum*，即“哲学家与犹太人和基督徒的对话”。
+* _Ethica seu Scito teipsum_，即“伦理学，或者，认识自己。” \* _Collationes_，即“对话”或者_Dialogus inter Philosophum, Iudaeum, et Christianum_，即“哲学家与犹太人和基督徒的对话”。
 
 《伦理学》对道德价值和应该归于行动者及其行为的赞扬或责备程度进行了分析；它在第二卷开始时中断。《对话》是一对辩论（在阿伯拉尔梦中出现的角色之间），讨论幸福和至善的本质：哲学家声称只遵循自然理性，首先与遵循旧法的犹太人进行辩论；然后哲学家与以哲学观点捍卫基督教伦理的基督徒进行辩论。阿伯拉尔还为他的儿子写了一本轻松的实用建议书：
 
@@ -62,11 +58,11 @@
 
 第一版的《神学》似乎是在索瓦松大公会议上被谴责的作品，最后一版是在桑斯大公会议上被谴责的作品。除了这三部以哲学神学问题为主题的作品外，阿伯拉尔还写了几篇评论：
 
-* *Expositio orationis dominicae*, “主祷文的分析。” * *Expositio symboli Apostolorum*, “使徒信经的分析。” * *Expositio fidei in symbolum Athanasii*, “对阿他那修信经的分析。” * *Hexaëmeron*, “创世纪1-2:25的评论。” * *Commentaria in Epistolam Pauli ad Romanos*, “对保罗致罗马人书的评论。”
+* _Expositio orationis dominicae_, “主祷文的分析。” \* _Expositio symboli Apostolorum_, “使徒信经的分析。” \* _Expositio fidei in symbolum Athanasii_, “对阿他那修信经的分析。” \* _Hexaëmeron_, “创世纪1-2:25的评论。” \* _Commentaria in Epistolam Pauli ad Romanos_, “对保罗致罗马人书的评论。”
 
 前三篇评论很简短，但阿伯拉尔对《创世纪》的前几节和保罗的书信进行了广泛而详细的讨论（后者也与阿伯拉尔的伦理学理论相关）。阿伯拉尔还在一部短篇作品中探讨了信仰和理性的问题：
 
-*《独白》，“内心独白。”
+\*《独白》，“内心独白。”
 
 这段简短的内心对话，模仿奥古斯丁的《独白》，让“彼得”与“阿伯拉尔”交流。 埃洛伊斯以她自己和帕拉克利特修女们的名义提出了更为实际的神学问题：
 
@@ -76,12 +72,11 @@
 
 《是与非》。
 
-阿伯拉尔汇集了一系列158个问题，每个问题都附有父教会的引文，这些引文暗示对问题的肯定回答（*是*），以及其他引文暗示否定回答（*非*）。阿伯拉尔并不试图协调这些表面上矛盾的言论，但在序言中，他制定了适当的解释学调查规则：寻找歧义，检查周围的上下文，进行相关的区分等。
+阿伯拉尔汇集了一系列158个问题，每个问题都附有父教会的引文，这些引文暗示对问题的肯定回答（_是_），以及其他引文暗示否定回答（_非_）。阿伯拉尔并不试图协调这些表面上矛盾的言论，但在序言中，他制定了适当的解释学调查规则：寻找歧义，检查周围的上下文，进行相关的区分等。
 
 阿伯拉尔的学生和门徒也记录了他的许多观点，尽管这些材料尚未被仔细探索。阿伯拉尔现存的作品中有对其他我们没有的作品的引用：《语法学》、《修辞学》、在他学习神学初期写的《以西结书》评论等等。这些作品中可能还有一些尚未被发现。
 
-
-阿伯拉尔的形而上学是西方传统中名词主义的第一个伟大例子。虽然他认为普遍概念只是空洞的词语（*nomina*），这一观点证明了这个标签，但名词主义或者更准确地说是非实在主义是阿伯拉尔整个形而上学的特点。他不仅对普遍概念持非实在主义立场，对命题、事件、非现在时刻、自然种类、关系、整体、绝对空间、形质复合体等也持非实在主义立场。相反，阿伯拉尔认为具体的个体，以其丰富多样性，已经足够填满世界。阿伯拉尔更倾向于采用还原主义、原子主义和物质解释，他花了很多精力来批判他的前辈和同时代人的形而上学过度。
+阿伯拉尔的形而上学是西方传统中名词主义的第一个伟大例子。虽然他认为普遍概念只是空洞的词语（_nomina_），这一观点证明了这个标签，但名词主义或者更准确地说是非实在主义是阿伯拉尔整个形而上学的特点。他不仅对普遍概念持非实在主义立场，对命题、事件、非现在时刻、自然种类、关系、整体、绝对空间、形质复合体等也持非实在主义立场。相反，阿伯拉尔认为具体的个体，以其丰富多样性，已经足够填满世界。阿伯拉尔更倾向于采用还原主义、原子主义和物质解释，他花了很多精力来批判他的前辈和同时代人的形而上学过度。
 
 阿伯拉尔为自己的论点辩护，认为普遍概念只是词语而已，因为关于普遍概念的本体论实在主义是不连贯的。更确切地说，他认为世界上不存在任何真实的对象能够满足博伊修斯对普遍概念的标准，即同时完整地存在于许多个体中，以构成它们的实质（即使包含它的个体成为它自身）。因此，阿伯拉尔得出结论，普遍性不是世界的本体特征，而是语言的语义特征。
 
@@ -103,10 +98,9 @@
 
 个体有各自的本性，并且根据其本性，它们属于确定的自然种类。但是，个体的本性并不是与其他个体真正共享或共同拥有的东西；阿伯拉尔对现实主义的驳斥已经表明这是不可能的。相反，阿伯拉尔认为自然种类是一组具有相同特征的事物的明确定义的集合，广义上说，这些特征使它们成为它们自己。为什么某个事物具有某些特征而不是其他特征，是由它是如何变成这样的——创造它的自然过程导致它具有它所具有的特征，即成为它所属的那种事物；类似的过程导致类似的结果。根据这种解读，很明显自然种类没有特殊的地位；它们只不过是离散的整体，其成员原则是相似性，仅仅反映了世界被划分为离散的相似性类别的事实。此外，这种真实的相似关系本身并不超越那些相似的事物。自然种类的划分可能是世界上的一个“表面事实”：如果上帝命令不同，事情本可以有所不同；火可能是冷的，重物体向上掉落，青蛙会推理。如果这些因果能力不同，那么自然种类也可能不同，或者可能没有像现在这样明确地区分开来。鉴于事态的发展，自然种类将世界划分为其关节，但它们是上帝选择的关节。
 
-
 阿伯拉尔是自古以来最伟大的逻辑学家：他设计了一种纯粹的真值功能命题逻辑，承认了我们与弗雷格相关的“力量”和“内容”之间的区别，并制定了一个完整的蕴涵理论，它在论证中起作用（我们现在将其视为逻辑推理的理论）。他的逻辑系统在处理主题推理方面存在缺陷，但这不应妨碍我们对阿伯拉尔的成就的认可。
 
-阿伯拉尔观察到，在不同的语境中可以用不同的力量表达相同的命题内容：命题内容“苏格拉底在房子里”在陈述句“苏格拉底在房子里”中得到表达；在疑问句“苏格拉底在房子里吗？”中得到表达；在祈愿句“要是苏格拉底在房子里就好了！”中得到表达，等等。因此，阿伯拉尔可以特别区分一个句子的断言力量与其命题内容，这种区别使他能够指出条件陈述中的组成句子并不是被断言的，尽管它们在被断言时具有相同的内容——“如果苏格拉底在厨房里，那么苏格拉底就在房子里”并不断言苏格拉底在厨房里或者他在房子里，前提和结论也是如此，尽管在条件范围之外使用相同的措辞可以做出这样的断言。同样，这种区别使阿伯拉尔能够纯粹地基于内容来定义否定和其他命题连接词，因此否定被处理如下：非-*p*为假/真，当且仅当*p*为真/假。
+阿伯拉尔观察到，在不同的语境中可以用不同的力量表达相同的命题内容：命题内容“苏格拉底在房子里”在陈述句“苏格拉底在房子里”中得到表达；在疑问句“苏格拉底在房子里吗？”中得到表达；在祈愿句“要是苏格拉底在房子里就好了！”中得到表达，等等。因此，阿伯拉尔可以特别区分一个句子的断言力量与其命题内容，这种区别使他能够指出条件陈述中的组成句子并不是被断言的，尽管它们在被断言时具有相同的内容——“如果苏格拉底在厨房里，那么苏格拉底就在房子里”并不断言苏格拉底在厨房里或者他在房子里，前提和结论也是如此，尽管在条件范围之外使用相同的措辞可以做出这样的断言。同样，这种区别使阿伯拉尔能够纯粹地基于内容来定义否定和其他命题连接词，因此否定被处理如下：非-_p_为假/真，当且仅当_p_为真/假。
 
 阿伯拉尔认为，论证理论的关键在于“inferentia”，最好翻译为“蕴涵”，因为阿伯拉尔要求所涉及的命题之间的联系既必要又相关。也就是说，结论——更准确地说，是最终陈述的意义——是由前述陈述的意义所要求的，因此不能有其他可能性。阿伯拉尔经常谈到最终陈述的意义“包含”在前述陈述的意义中，就像我们谈论结论包含在前提中一样。当蕴涵是基于所涉及命题的逻辑形式（complexio）时，蕴涵是完全的（perfecta）。阿伯拉尔告诉我们，这意味着蕴涵在其术语的任何统一替换下都成立，这是现在与波尔查诺相关的标准。传统的四种形式和类别三段论的模式源自亚里士多德，以及源自博伊修斯的假设三段论的教义，都是完全蕴涵的实例，或者我们可以说是有效推理。
 
@@ -126,22 +120,21 @@
 
 名字，无论是专有名词还是普通名词，都是指代个别或多个事物。一个名字与它所指代的事物联系在一起，就好像有人设计了这个名字来标记某个事物或某类事物，这个过程被称为“命名”（仿效亚当在《创世纪》2:19中给动物命名），有点像洗礼。这种对指称的理性重建并不要求给予名字的人，即“命名者”，对事物或事物的种类有更多的具体意图，无论它的本质如何：
 
-> [名字的发明者] 打算根据事物的某些性质或独特属性来命名它们，即使他自己不知道如何正确地思考事物的本质或独特属性。
+> \[名字的发明者] 打算根据事物的某些性质或独特属性来命名它们，即使他自己不知道如何正确地思考事物的本质或独特属性。
 
 一个名字“在其施加的本质中有一个定义，即使我们不知道它是什么。”用现代术语来说，阿伯拉尔持有一种“直接指称”的理论，其中一个术语的延伸不取决于其意义。我们经常完全不知道应该与成功施加的术语相关联的适当概念内容。
 
-一个适当的名字——一个主要物质的名字——表示一个具体的个体（*hoc aliquid*），将其承载者与其他所有事物区分开来。因此，适当的名字是语义上的单数指称表达式，与指示代词、演示代词和单数描述（或描述性术语）密切相关。相比之下，普通名字与阿伯拉尔所称的“复数意义”表达式密切相关。一方面，普通名字类似于复数名词；普通名字“人”在语法上是单数形式，但像复数词“人们”一样运作——每个名字都指称每个人，尽管复数词表示个体作为集合的一部分，而普通名字分别指称每个个体。另一方面，普通名字类似于“三人组”或“一对”这样的术语，因为它们只在使用时指称一定数量的个体，但它们的延伸是可变的。
+一个适当的名字——一个主要物质的名字——表示一个具体的个体（_hoc aliquid_），将其承载者与其他所有事物区分开来。因此，适当的名字是语义上的单数指称表达式，与指示代词、演示代词和单数描述（或描述性术语）密切相关。相比之下，普通名字与阿伯拉尔所称的“复数意义”表达式密切相关。一方面，普通名字类似于复数名词；普通名字“人”在语法上是单数形式，但像复数词“人们”一样运作——每个名字都指称每个人，尽管复数词表示个体作为集合的一部分，而普通名字分别指称每个个体。另一方面，普通名字类似于“三人组”或“一对”这样的术语，因为它们只在使用时指称一定数量的个体，但它们的延伸是可变的。
 
 因此，一个普通的名字在分配上指的是具体的个体，尽管不是指它们作为个体。相反，它分别挑选出具有特定性质的个体：例如，“人类”指的是苏格拉底和柏拉图，因为他们每个人都是人类。这不是任何共享的特征；苏格拉底就是他自己，即人类，柏拉图也是他自己，即人类。阿伯拉尔在他的《逻辑学》“ingredientibus”中清楚地陈述了他的贬低立场：
 
-> 现在，我们似乎应该避免接受事物之间根据不存在的东西的一致性——就好像我们在将现在存在的事物合并到虚无中一样！也就是说，当我们说这个[人类]和那个人在人类的地位上一致时，我们的意思是：他们都是人类。但我们的意思是他们都是人类，并且在这方面没有区别——让我重复一遍：[他们没有区别]在于他们都是人类，尽管我们在这个解释中没有引用任何“东西”。
+> 现在，我们似乎应该避免接受事物之间根据不存在的东西的一致性——就好像我们在将现在存在的事物合并到虚无中一样！也就是说，当我们说这个\[人类]和那个人在人类的地位上一致时，我们的意思是：他们都是人类。但我们的意思是他们都是人类，并且在这方面没有区别——让我重复一遍：\[他们没有区别]在于他们都是人类，尽管我们在这个解释中没有引用任何“东西”。
 
 苏格拉底和柏拉图是真实的；他们的一致也是真实的，但不能通过诉诸任何事物来解释他们的一致性，他们的一致仅仅是因为他们都是人类。从形而上学的角度来看，他们和普通人类具有相同的地位；这并不涉及任何形而上学上共同的共享成分，或者实际上诉诸任何成分。这是为什么存在“共同理由”来强加一个共同名称的意义所在。
 
 尽管标志性比指称性是次要的，但名称确实也有标志性。阿伯拉尔德认为，术语的标志性是与听到该术语时与之相关联的概念的信息内容，在正常情况下。由于名称只具有约定性的意义，与给定名称相关联的概念部分取决于语言使用者的心理条件，因此阿伯拉尔德可以将标志性视为因果关系和规范概念：英语的母语者听到“兔子”这个词时应该产生兔子的概念。阿伯拉尔德小心地强调，标志性是概念中所携带的信息内容的问题，纯粹的心理联想，甚至是与特定概念特征相关的心理形象都不是单词的“意义”的一部分。理想情况下，概念将对应于对事物本质的真正定义，比如“有理性的有死亡的动物”被认为是“人类”的真正定义，而不考虑其他相关特征（甚至是必要特征，例如可笑性）或偶然形象（因为任何对人类的心理形象都将是具有明确特征的人）。当然，实现这种概念上的明晰是一项艰巨的任务，需要理解了解理解本身的工作原理（请参阅[第5节](https://plato.stanford.edu/entries/abelard/#Min)中关于阿伯拉尔德心灵哲学的讨论）。然而，从这个例子中应该清楚的一点是，一些名称的意义，如对应于自然类别术语的名称，是抽象的，因为它们只包括该术语所指事物的某些特征。然而，它们并不积极排除所有其他特征，并且能够进一步确定性规定：“有理性的有死亡的动物”作为“人类”的概念内容，意味着所有人类，无论他们的其他特征如何，无论是高矮，胖瘦，男性还是女性等等。
 
-关于名词语义的内容大部分也适用于动词。动词与名词不同的特征，远远超过时态或语法人称，就是动词具有连接力（*vis copulativa*）。这是动词的一个原始且不可归约的特征，只有当它们与名词以语法正确的方式连接时才能发挥作用，有点像弗雷格概念中的“未饱和性”。句子由名词和动词组成，整个句子的意义是其组成部分的函数。也就是说，阿伯拉尔语义在本质上是组合的。组合的工作细节很复杂。阿伯拉尔直接使用一种自然语言（拉丁语），尽管它很人工，但仍然是一种本族的第二语言。因此，阿伯拉尔被迫分析许多语言现象，这在更正式的框架中将是严格禁止的。%%例如，阿伯拉尔指出，大多数动词可以以两种方式作为谓语，即作为有限的动词形式或与辅助连接词结合的名词形式，因此我们可以说“苏格拉底跑步”或“苏格拉底正在跑步”；这对及物谓词也是一样的，例如“苏格拉底打了柏拉图”和“苏格拉底正在打柏拉图”。阿伯拉尔认为通常情况下，纯动词形式是基本形式，这解释和澄清了扩展版本；后者只在简单动词形式缺乏时才是绝对必要的。（名词“is”需要特殊处理。）因此，对于阿伯拉尔来说，对谓语陈述的基本分析是承认基本上有两种不同的语言类别结合在一起：名词 *n* 和简单的动词函数 *V*()，组合成格式良好的句子 *V*(*n*)。
-
+关于名词语义的内容大部分也适用于动词。动词与名词不同的特征，远远超过时态或语法人称，就是动词具有连接力（_vis copulativa_）。这是动词的一个原始且不可归约的特征，只有当它们与名词以语法正确的方式连接时才能发挥作用，有点像弗雷格概念中的“未饱和性”。句子由名词和动词组成，整个句子的意义是其组成部分的函数。也就是说，阿伯拉尔语义在本质上是组合的。组合的工作细节很复杂。阿伯拉尔直接使用一种自然语言（拉丁语），尽管它很人工，但仍然是一种本族的第二语言。因此，阿伯拉尔被迫分析许多语言现象，这在更正式的框架中将是严格禁止的。%%例如，阿伯拉尔指出，大多数动词可以以两种方式作为谓语，即作为有限的动词形式或与辅助连接词结合的名词形式，因此我们可以说“苏格拉底跑步”或“苏格拉底正在跑步”；这对及物谓词也是一样的，例如“苏格拉底打了柏拉图”和“苏格拉底正在打柏拉图”。阿伯拉尔认为通常情况下，纯动词形式是基本形式，这解释和澄清了扩展版本；后者只在简单动词形式缺乏时才是绝对必要的。（名词“is”需要特殊处理。）因此，对于阿伯拉尔来说，对谓语陈述的基本分析是承认基本上有两种不同的语言类别结合在一起：名词 _n_ 和简单的动词函数 _V_()，组合成格式良好的句子 _V_(_n_)。
 
 阿伯拉尔认为，句子（propositiones）必须表示的不仅仅是构成名词和动词的理解。首先，像“苏格拉底跑步”这样的句子涉及到苏格拉底和跑步，而不仅仅是某个人的理解。我们谈论的是世界，而不仅仅是某个人对世界的理解。其次，像“如果某物是人类，那么它是动物”这样的句子如果被理解为关于理解的话是错误的，因为某人可以理解“人类”这个概念而不理解“动物”这个概念，所以前提成立而结论不成立。第三，理解是短暂的个别事物，只是概念的心理表示。但至少有一些结果性的句子是必要的，而必要性不能建立在短暂的事物上，因此也不能建立在理解上。因此，句子必须除了理解之外还表示其他东西，这些东西可以做到纯粹的理解所不能做到的。阿伯拉尔将这称为句子所表示的东西，称为“dictum”（复数“dicta”）。
 
@@ -163,12 +156,11 @@
 
 阿伯拉尔反对符合性的论点如下。考虑一座塔，它是一个具有一定长度、深度和高度的物质对象；假设这些特征构成了它的形式，就像雕像的形状构成了它的形式一样。根据亚里士多德的形而上学，形式在主体中的内在性使主体成为具有该形式特征的东西，例如白色在苏格拉底身上的内在性使他成为白色的东西。塔的形式同样使它们所内在的东西变得高、宽、厚——所有的物理属性。如果这些形式存在于心灵中，那么它们应该使心灵变得高、宽、厚，这是一个荒谬的结论：心灵“无法在长度或宽度上延伸”。然而，符合性理论的一个基本命题是，心灵具有与外部对象塔相同的形式，尽管（比如）长度的形式本质上是物理的。因此，阿伯拉尔得出结论，符合性是不连贯的。
 
-彼得·阿伯拉尔对于相似性理论的主要反对意见是，心理图像 *qua* 图像，像任何符号一样，是惰性的：它们需要解释。符号只是一个对象。它可能在特定的角色中被接受，但不需要被接受。彼得·阿伯拉尔指出，这个区别同样适用于非心理符号：我们可以把雕像看作一块青铜，也可以看作一个相似物。心理图像同样是惰性的。因此，为了使符号具有显著的功能，除了其纯粹的存在外，还需要更多的东西。但是，相似性理论没有意识到需要解释心理图像作为图像的必要性，从而错误地将理解与心理图像在头脑中的纯粹存在等同起来。彼得·阿伯拉尔得出结论，心理图像在思维中只扮演着工具性的角色，将其描述为“事物的中间符号” (*intersigna rerum*)。意向性实际上源于对心理图像的注意力 (*attentio*) 的行为。证据在于这个事实：我们可以通过关注心理图像的不同特点来“改变理解力”：同一图像——比如，一棵无花果树——可以用来思考这棵无花果树本身，或者一般的树木，或者植物生活，或者我迷失的爱人，或任何其他的事物。心理图像没有任何固有的特征使它与某个特定的事物相关；如果有的话，我们可以通过检查来确定符号指的是什么——但我们不能。因此，心理图像不能解释理解的意向性，因为它们的作用只是工具性的。我们与它们一起思考，无法避免它们；但它们并不能解释意向性。
+彼得·阿伯拉尔对于相似性理论的主要反对意见是，心理图像 _qua_ 图像，像任何符号一样，是惰性的：它们需要解释。符号只是一个对象。它可能在特定的角色中被接受，但不需要被接受。彼得·阿伯拉尔指出，这个区别同样适用于非心理符号：我们可以把雕像看作一块青铜，也可以看作一个相似物。心理图像同样是惰性的。因此，为了使符号具有显著的功能，除了其纯粹的存在外，还需要更多的东西。但是，相似性理论没有意识到需要解释心理图像作为图像的必要性，从而错误地将理解与心理图像在头脑中的纯粹存在等同起来。彼得·阿伯拉尔得出结论，心理图像在思维中只扮演着工具性的角色，将其描述为“事物的中间符号” (_intersigna rerum_)。意向性实际上源于对心理图像的注意力 (_attentio_) 的行为。证据在于这个事实：我们可以通过关注心理图像的不同特点来“改变理解力”：同一图像——比如，一棵无花果树——可以用来思考这棵无花果树本身，或者一般的树木，或者植物生活，或者我迷失的爱人，或任何其他的事物。心理图像没有任何固有的特征使它与某个特定的事物相关；如果有的话，我们可以通过检查来确定符号指的是什么——但我们不能。因此，心理图像不能解释理解的意向性，因为它们的作用只是工具性的。我们与它们一起思考，无法避免它们；但它们并不能解释意向性。
 
 彼得·阿伯拉尔得出结论，意向性是心智的一个原始和不可约的特征，是我们注意事物的行为。不同的注意行为本质上彼此不同；它们关于某个事物是因为它们是某种特定的注意行为。因此，彼得·阿伯拉尔采用了现在被称为“副词的”思维理论。
 
 鉴于意向性是原始的，阿伯拉尔采用了一种上下文方法来处理心理内容：他将这些不可约的注意行为嵌入到一个结构中，这个结构的表达有助于定义其组成要素的特征。阿伯拉尔提供的结构是语言的，一种关于心理行为的逻辑：就像词语可以表达思想一样，我们也可以使用语言的逻辑来给出理解的理论。简而言之，阿伯拉尔提供了一种非常类似于语言的心理表征或意向性的解释。为此，他采用了组合性原则，认为理解的对象是其组成理解对象的函数。复杂理解的统一性是其逻辑简单性的函数，这由阿伯拉尔称之为“单一主导连接”（最广泛的逻辑运算符）的存在来描述。因此，复杂理解可以被视为不同理解的复合体，聚合在同一个思想中，其（逻辑）结构由“主导连接”对其组成理解进行控制的其他逻辑运算决定。阿伯拉尔的注意行为因此展示了它们所表达的理解的逻辑结构，并因此给出了书面或口头语言的语义。阿伯拉尔在逻辑和辩证法方面的许多著作都致力于制定一个阐明心理内容的方案的细节。
-
 
 阿伯拉尔认为，传统基督教道德的理性核心是根据以下原则进行的：行动的道德价值仅取决于行动者的意图。他反对后果对道德的相关性的主要论据是基于当代哲学家常常称之为道德运气的概念。假设有两个人都有钱和意图为穷人建立庇护所，但其中一个在行动之前被抢劫了，而第二个能够实现他的意图。根据阿伯拉尔的观点，认为他们之间存在道德差异意味着“越富有的人就越能变得更好...这是疯狂的巅峰！”以行为为中心的道德失去了对可能发生的情况的任何影响力。同样，它也不能提供任何理由来考虑行动者的认知状态，尽管大多数人会承认无知可以在道德上为行动者开脱。阿伯拉尔用以下例子来说明这一观点：想象一对同卵双胞胎，他们在出生时被分开，并且对彼此的存在一无所知；当他们成年后相遇、相爱、合法结婚并发生性行为。从技术上讲，这是乱伦，但阿伯拉尔认为两个人都没有错。
 
@@ -178,7 +170,7 @@
 
 我们的构造使得在某些情况下感受到快感是不可避免的：性交、享用美食等等。如果婚姻中的性快感并非罪恶，那么快感本身，在婚姻内外，也不是罪恶；如果它是罪恶，那么婚姻也无法使其神圣化——如果得出结论认为这些行为应该完全没有快感，那么阿伯拉尔宣称它们根本无法实现，而且（上帝）允许它们只在无法实现的方式中是不合理的。
 
-在积极的一面上，阿伯拉尔认为，除非意图是评估道德价值的关键因素，否则很难看出为什么强迫行为会免除施行者的罪责；对于无知也是一样——尽管阿伯拉尔指出重要的道德概念不仅仅是无知，而严格来说是疏忽。阿伯拉尔举了一个极端的例子来阐明他的观点。他认为钉死基督的人并不邪恶。（这个例子以及其他类似的例子给阿伯拉尔惹来了当局的麻烦，不难理解为什么。）他们对基督的神圣本质的无知本身并不使他们邪恶；以及他们根据（错误和错误的）信仰行事时钉死基督也不使他们邪恶。他们不是疏忽的无知将责任从他们的行为中移除。事实上，阿伯拉尔认为，如果他们认为钉死基督是必要的并且*没有*钉死基督，他们就会犯罪：无论案件的事实如何，未能遵循良心在道德行为上使施行者应受责备。
+在积极的一面上，阿伯拉尔认为，除非意图是评估道德价值的关键因素，否则很难看出为什么强迫行为会免除施行者的罪责；对于无知也是一样——尽管阿伯拉尔指出重要的道德概念不仅仅是无知，而严格来说是疏忽。阿伯拉尔举了一个极端的例子来阐明他的观点。他认为钉死基督的人并不邪恶。（这个例子以及其他类似的例子给阿伯拉尔惹来了当局的麻烦，不难理解为什么。）他们对基督的神圣本质的无知本身并不使他们邪恶；以及他们根据（错误和错误的）信仰行事时钉死基督也不使他们邪恶。他们不是疏忽的无知将责任从他们的行为中移除。事实上，阿伯拉尔认为，如果他们认为钉死基督是必要的并且_没有_钉死基督，他们就会犯罪：无论案件的事实如何，未能遵循良心在道德行为上使施行者应受责备。
 
 对于阿伯拉尔的意向主义有两个明显的反对意见。首先，如何可能自愿犯邪恶？其次，由于意图对于除了施行者以外的任何人都不可见，阿伯拉尔的观点难道不意味着不可能做出伦理判断吗？
 
@@ -196,7 +188,6 @@
 
 哲学家随后与基督徒进行辩论。他最初坚持认为美德包含幸福，因此不需要来世，因为一个有美德的人无论死活都保持在同样的状态。然而，基督徒认为来世更好，因为除了通过生活美德所带来的好处外，行动者的意愿不再受到环境的阻碍。例如，在来世中，我们不再受身体的束缚，因此不受食物、住所、衣物等物质需求的限制。因此，行动者可以像按照美德生活时那样纯粹地幸福，当外部环境无法影响行动者的行为时。哲学家承认，这样理解的来世甚至比这个世界中的美德生活更加明显地改善了，他与基督徒一起合作努力来定义美德和至善的本质。美德是自身的奖赏，在来世中没有任何事物阻止我们尽可能地以美德奖赏自己。
 
-
 阿伯拉尔认为，在信仰问题上，推理的作用是有限的。他给予推理任何作用都与那些我们现在可能称之为“反辩论者”产生了冲突，包括他的同僚克莱尔沃修道院院长伯纳德。他给予推理的作用是有限的，这与他所称之为“伪辩论者”的人产生了冲突，其中包括他的前任老师罗斯塞林。
 
 克莱尔沃修道院院长和其他反辩论者似乎认为，信仰命题的意义，在我们能够理解的范围内是明显的；超出这个明显的意义，我们根本无法理解，这种情况下，推理显然没有帮助。也就是说，反辩论者对宗教句子的明显意义是“语义现实主义者”。因此，他们对阿伯拉尔的不耐烦，不仅是因为他似乎要混淆信仰命题的明显意义，这已经够糟糕了，而且还要通过推理来做到这一点，而推理既不能在理解明显意义时发挥作用（因为明显意义的明显性在于立即理解而无需推理），也不能达到更深刻的理解（因为只有明显意义对我们开放）。
@@ -211,7 +202,7 @@
 
 阿伯拉尔对于拒绝（a）-（c）的论证是复杂而微妙的。对于理性可以有效地应用于特定的信仰文章的主张，阿伯拉尔在自己的著作中提供了一个特定的案例研究。阿伯拉尔在神学上的大部分工作都致力于他对三位一体的辩证调查。他详细阐述了一种关于身份的原创理论，以解决围绕三位一体的问题，这个理论在形而上学中具有更广泛的适用性。他的调查结果是，三位一体的信仰是理性合理的，因为就理性所能达到的范围而言，我们发现这个教义是有意义的，至少在辩证法工具被正确运用之后。
 
-传统的身份观念，源自于博伊修斯，认为事物可以在种类、类别或数量上相同或不同。阿伯拉尔接受了这个观点，但发现它不足以处理三位一体的问题。他在他的《基督神学》中提出的身份理论的核心包括四种额外的身份模式：（1）本质上的相同和不同；（2）数量上的相同和不同，阿伯拉尔将其与本质上的相同和不同紧密联系在一起，允许比博伊修斯更细致的区分；（3）定义上的相同和不同；（4）属性上的相同和不同（*in proprietate*）。大致而言，阿伯拉尔对于本质和数量上的相同的描述旨在改进传统观点中事物的身份条件；他对于定义上的相同的描述旨在为事物的特征提供身份条件；而他对于属性上的相同的描述则打开了一个可能性，即一个事物具有几个不同特征的身份条件可能不同。
+传统的身份观念，源自于博伊修斯，认为事物可以在种类、类别或数量上相同或不同。阿伯拉尔接受了这个观点，但发现它不足以处理三位一体的问题。他在他的《基督神学》中提出的身份理论的核心包括四种额外的身份模式：（1）本质上的相同和不同；（2）数量上的相同和不同，阿伯拉尔将其与本质上的相同和不同紧密联系在一起，允许比博伊修斯更细致的区分；（3）定义上的相同和不同；（4）属性上的相同和不同（_in proprietate_）。大致而言，阿伯拉尔对于本质和数量上的相同的描述旨在改进传统观点中事物的身份条件；他对于定义上的相同的描述旨在为事物的特征提供身份条件；而他对于属性上的相同的描述则打开了一个可能性，即一个事物具有几个不同特征的身份条件可能不同。
 
 阿伯拉尔认为，当两个事物在本质上是相同的时候，它们在数量上是相同的具体事物（essentia），否则在本质上是不同的。例如，晨星在本质上与夜星是相同的，因为它们都是同一个行星金星。同样，构成具体事物的形式要素在本质上是相同的，也与它们所构成的具体事物本身在本质上是相同的：苏格拉底就是他的本质（苏格拉底就是苏格拉底的本质）。然而，对于部分来说，相应的一般命题并不成立。阿伯拉尔认为，部分与其所属的整体在本质上是不同的，他的推理是，给定的部分与其他部分一起完全包含在整体中，因此小于整体的数量。
 
@@ -229,73 +220,73 @@
 
 ### 拉丁文原始文本
 
-* *Carmen ad Astralabium*. Edited by J. M. A. Rubingh-Bosscher in *Peter Abelard: Carmen ad Astralabium, a Critical Edition*. Groningen: phil. diss. Rijksuniversiteit 1987.
-* *Collationes* a.k.a. *Dialogus inter Philosophum, Iudaeum, et Christianum*. Edited by Giovanni Orlandi, with introduction, translation, and notes by John Marenbon, in *Peter Abelard: Collationes*, Oxford University Press 2001.
-* *Commentaria in Epistolam Pauli ad Romanos*. Edited by Eligius M. Buytaert in *Petri Abaelardi opera theologica*. Corpus christianorum (continuatio mediaevalis) Vol. 11. Brepols: Turnholt 1969, 389–340.
-* *Dialectica*. Edited by L. M. De Rijk in *Petrus Abaelardus: Dialectica*, Assen: Van Gorcum 1970 (second edition).
-* *Epistolae*: Ep. 1 edited by Monfrin (see the entry below for the *Historia calamitatum*); Epp. 2–5 edited by J. T. Muckle, *Mediaeval Studies* 15 (1953) 68–94; Epp. 6–7, edited by J. T. Muckle, *Mediaeval Studies* 17 (1955) 241–281; Ep. 8, edited by T. P. McLaughlin, *Mediaeval Studies* 18 (1956) 242–297; Epp. 9–14 edited by E. R. Smits in *Peter Abelard: Letters IX–XIV*, Groningen: Rijksuniversiteit 1983; Ep. 15 edited by Josef Reiners, BGPTM 8 (1910) 63–80; Ep. 16, edited by Victor Cousin and Charles Jourdain, *Petri Abaelardi opera* Vol. 1 (Paris 1849) 703–707, corrected against Van Den Eynde, *Antonianum* 38 (1963) 219; Ep. 17, edited by Charles Burnett, *Mittellateinisch Jahrbuch* 21 (1986), 152–155; *Apologia contra Bernardum (Ne iuxta Boethianum)* , edited by Eligius M. Buytaert in CCCM 12 359–368; *Epistola contra Bernardum* edited by Raymond Klibansky, *Medieval and Renaissance Studies* 5 (1961), 1–27; *Confessio fidei “Uniuersis”*  edited by Charles Burnett, *Mediaeval Studies* 48 (1986), 182–189.
-* *Ethica seu Scito teipsum*. Edited by R. M. Ilgner in *Petri Abaelardi opera theologica*. Corpus christianorum (continuatio mediaevalis) Vol. 190. Brepols: Turnholt 2001.
-* *Expositio orationis dominicae*. Edited by Charles Burnett, “Expositio orationis dominicae ‘Multorum legimus orationes’” in *Révue Benedictine* 95 (1985) 60–72.
-* *Expositio symboli Apostolorum*. Edited by Victor Cousin and Charles Jourdain, *Petri Abaelardi opera* Vol. 1 (Paris 1849) 603–615. [[Available online thanks to the Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/bpt6k69212x?rk=21459;2)].
-* *Expositio fidei in symbolum Athanasii*. Edited by Victor Cousin and Charles Jourdain, *Petri Abaelardi opera* Vol. 1 (Paris 1849) 615–617.
-* *Hexaëmeron*. Edited by Mary F. Romig with the assistance of David Luscombe, in *Corpus christianorum continuatio mediaevalis* Vol.15. Brepols: Turnhout 2004.
-* *Historia calamitatum*. Edited by Jacques Monfrin in *Abélard, Historia calamitatum: texte et commentaires*, J. Vrin: Paris 1974 (fourth edition), 62–109.
-* *Hymnarius Paraclitensis*. Edited by Chrysogonus Waddell in *Hymn Collections from the Paraclete* Vol. 2. Trappist Monastery, Ky.: Gethsemani Abbey (Cistercian Liturgy series) 1987.
-* *Introductiones parvulorum*. Edited by Mario Dal Pra in *Pietro Abelardo: Scritti di logica*, Firenze 1969 (second edition).
-* *Logica* ‘*ingredientibus*’ (LI):
-  * LI 1: Commentary on Porphyry’s *Isagoge*. Edited by Bernhard Geyer in *Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters* 21 (1). Aschendorff: Munster 1919.
-  * LI 2: Commentary on Aristotle’s *Categories*. Edited by Bernhard Geyer in *Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters* 21 (2). Aschendorff: Munster 1921.
-  * LI 3: Commentary on Aristotle’s *De interpretatione*. Edited by Klaus Jacobi and Christian Strub, *Corpus christianorum continuatio mediaevalis* Vol.206. Brepols: Turnhout 2010.
-  * LI 7: Commentary on Boethius’s *De topicis differentiis*. Edited by Mario Dal Pra in *Pietro Abelardo: Scritti di logica*, Firenze 1969 (second edition).
-* *Logica* ‘*nostrorum petitioni sociorum*’. Commentary on Porphyry’s *Isagoge*. Edited by Bernhard Geyer in *Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters* 21 (4). Aschendorff: Munster 1933.
-* *Planctus*. Planctus 1, 4, 6: edited by Peter Dronke, *Poetic Individality in the Middle Ages* (London 1986). Planctus 2, 5: edited by Giuseppe Vecchi, *Pietro Abelardo, I “Planctus”*  (Modena 1951). Planctus 3: edited by Wolfram von den Steinen, *Mittellateinisches Jahrbuch* 4 (1967), 122–144. There are several modern recordings.
-* *Problemata Heloïssae cum Petri Abaelardi solutionibus*. Edited by Victor Cousin and Charles Jourdain, *Petri Abaelardi opera* Vol. 1 (Paris 1849): 237–294.
-* *Sententiae secundum Magistrum Petrum*. Edited by Lorenzo Minio-Paluello in *Twelfth-Century Logic: Texts and Studies* Vol. 2 (Abaelardiana inedita), Roma 1958.
-* *Sermones*. Edited by Paola De Santis in *I sermoni di Abelardo per le monache del Paracleto*, Leuven University Press 2002. (Mediaevalia Lovaniensa ser. 1, studia 31.)
-* *Sic et non*. Edited by Blanche Boyer and Richard McKeon in *Peter Abailard: Sic et Non. A Critical Edition*. University of Chicago Press 1977.
-* *Soliloquium*. Edited by Charles Burnett in “Peter Abelard’s ‘Soliloquium’: A Critical Edition” in *Studi Medievali* 25 (1984), 857–894.
-* *Theologia* ‘*summi boni*’. Edited by Eligius M. Buytaert and Constant Mews in *Petri Abaelardi opera theologica*. Corpus christianorum (continuatio mediaevalis) Vol. 13. Brepols: Turnhout 1987.
-* *Theologia christiana*. Edited by Eligius M. Buytaert in *Petri Abaelardi opera theologica*. Corpus christianorum (continuatio mediaevalis) Vol. 12. Brepols: Turnhout 1969.
-* *Theologia* ‘*scholarium*’. Edited by Eligius M. Buytaert and Constant Mews in *Petri Abaelardi opera theologica*. Corpus christianorum (continuatio mediaevalis) Vol. 13. Brepols: Turnhout 1987.
-* *Tractatus de intellectibus*. Edited by Patrick Morin in *Abélard: Des intellections*. Paris: J. Vrin 1994.
+* _Carmen ad Astralabium_. Edited by J. M. A. Rubingh-Bosscher in _Peter Abelard: Carmen ad Astralabium, a Critical Edition_. Groningen: phil. diss. Rijksuniversiteit 1987.
+* _Collationes_ a.k.a. _Dialogus inter Philosophum, Iudaeum, et Christianum_. Edited by Giovanni Orlandi, with introduction, translation, and notes by John Marenbon, in _Peter Abelard: Collationes_, Oxford University Press 2001.
+* _Commentaria in Epistolam Pauli ad Romanos_. Edited by Eligius M. Buytaert in _Petri Abaelardi opera theologica_. Corpus christianorum (continuatio mediaevalis) Vol. 11. Brepols: Turnholt 1969, 389–340.
+* _Dialectica_. Edited by L. M. De Rijk in _Petrus Abaelardus: Dialectica_, Assen: Van Gorcum 1970 (second edition).
+* _Epistolae_: Ep. 1 edited by Monfrin (see the entry below for the _Historia calamitatum_); Epp. 2–5 edited by J. T. Muckle, _Mediaeval Studies_ 15 (1953) 68–94; Epp. 6–7, edited by J. T. Muckle, _Mediaeval Studies_ 17 (1955) 241–281; Ep. 8, edited by T. P. McLaughlin, _Mediaeval Studies_ 18 (1956) 242–297; Epp. 9–14 edited by E. R. Smits in _Peter Abelard: Letters IX–XIV_, Groningen: Rijksuniversiteit 1983; Ep. 15 edited by Josef Reiners, BGPTM 8 (1910) 63–80; Ep. 16, edited by Victor Cousin and Charles Jourdain, _Petri Abaelardi opera_ Vol. 1 (Paris 1849) 703–707, corrected against Van Den Eynde, _Antonianum_ 38 (1963) 219; Ep. 17, edited by Charles Burnett, _Mittellateinisch Jahrbuch_ 21 (1986), 152–155; _Apologia contra Bernardum (Ne iuxta Boethianum)_ , edited by Eligius M. Buytaert in CCCM 12 359–368; _Epistola contra Bernardum_ edited by Raymond Klibansky, _Medieval and Renaissance Studies_ 5 (1961), 1–27; _Confessio fidei “Uniuersis”_ edited by Charles Burnett, _Mediaeval Studies_ 48 (1986), 182–189.
+* _Ethica seu Scito teipsum_. Edited by R. M. Ilgner in _Petri Abaelardi opera theologica_. Corpus christianorum (continuatio mediaevalis) Vol. 190. Brepols: Turnholt 2001.
+* _Expositio orationis dominicae_. Edited by Charles Burnett, “Expositio orationis dominicae ‘Multorum legimus orationes’” in _Révue Benedictine_ 95 (1985) 60–72.
+* _Expositio symboli Apostolorum_. Edited by Victor Cousin and Charles Jourdain, _Petri Abaelardi opera_ Vol. 1 (Paris 1849) 603–615. \[[Available online thanks to the Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/bpt6k69212x?rk=21459;2)].
+* _Expositio fidei in symbolum Athanasii_. Edited by Victor Cousin and Charles Jourdain, _Petri Abaelardi opera_ Vol. 1 (Paris 1849) 615–617.
+* _Hexaëmeron_. Edited by Mary F. Romig with the assistance of David Luscombe, in _Corpus christianorum continuatio mediaevalis_ Vol.15. Brepols: Turnhout 2004.
+* _Historia calamitatum_. Edited by Jacques Monfrin in _Abélard, Historia calamitatum: texte et commentaires_, J. Vrin: Paris 1974 (fourth edition), 62–109.
+* _Hymnarius Paraclitensis_. Edited by Chrysogonus Waddell in _Hymn Collections from the Paraclete_ Vol. 2. Trappist Monastery, Ky.: Gethsemani Abbey (Cistercian Liturgy series) 1987.
+* _Introductiones parvulorum_. Edited by Mario Dal Pra in _Pietro Abelardo: Scritti di logica_, Firenze 1969 (second edition).
+* _Logica_ ‘_ingredientibus_’ (LI):
+  * LI 1: Commentary on Porphyry’s _Isagoge_. Edited by Bernhard Geyer in _Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters_ 21 (1). Aschendorff: Munster 1919.
+  * LI 2: Commentary on Aristotle’s _Categories_. Edited by Bernhard Geyer in _Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters_ 21 (2). Aschendorff: Munster 1921.
+  * LI 3: Commentary on Aristotle’s _De interpretatione_. Edited by Klaus Jacobi and Christian Strub, _Corpus christianorum continuatio mediaevalis_ Vol.206. Brepols: Turnhout 2010.
+  * LI 7: Commentary on Boethius’s _De topicis differentiis_. Edited by Mario Dal Pra in _Pietro Abelardo: Scritti di logica_, Firenze 1969 (second edition).
+* _Logica_ ‘_nostrorum petitioni sociorum_’. Commentary on Porphyry’s _Isagoge_. Edited by Bernhard Geyer in _Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters_ 21 (4). Aschendorff: Munster 1933.
+* _Planctus_. Planctus 1, 4, 6: edited by Peter Dronke, _Poetic Individality in the Middle Ages_ (London 1986). Planctus 2, 5: edited by Giuseppe Vecchi, _Pietro Abelardo, I “Planctus”_ (Modena 1951). Planctus 3: edited by Wolfram von den Steinen, _Mittellateinisches Jahrbuch_ 4 (1967), 122–144. There are several modern recordings.
+* _Problemata Heloïssae cum Petri Abaelardi solutionibus_. Edited by Victor Cousin and Charles Jourdain, _Petri Abaelardi opera_ Vol. 1 (Paris 1849): 237–294.
+* _Sententiae secundum Magistrum Petrum_. Edited by Lorenzo Minio-Paluello in _Twelfth-Century Logic: Texts and Studies_ Vol. 2 (Abaelardiana inedita), Roma 1958.
+* _Sermones_. Edited by Paola De Santis in _I sermoni di Abelardo per le monache del Paracleto_, Leuven University Press 2002. (Mediaevalia Lovaniensa ser. 1, studia 31.)
+* _Sic et non_. Edited by Blanche Boyer and Richard McKeon in _Peter Abailard: Sic et Non. A Critical Edition_. University of Chicago Press 1977.
+* _Soliloquium_. Edited by Charles Burnett in “Peter Abelard’s ‘Soliloquium’: A Critical Edition” in _Studi Medievali_ 25 (1984), 857–894.
+* _Theologia_ ‘_summi boni_’. Edited by Eligius M. Buytaert and Constant Mews in _Petri Abaelardi opera theologica_. Corpus christianorum (continuatio mediaevalis) Vol. 13. Brepols: Turnhout 1987.
+* _Theologia christiana_. Edited by Eligius M. Buytaert in _Petri Abaelardi opera theologica_. Corpus christianorum (continuatio mediaevalis) Vol. 12. Brepols: Turnhout 1969.
+* _Theologia_ ‘_scholarium_’. Edited by Eligius M. Buytaert and Constant Mews in _Petri Abaelardi opera theologica_. Corpus christianorum (continuatio mediaevalis) Vol. 13. Brepols: Turnhout 1987.
+* _Tractatus de intellectibus_. Edited by Patrick Morin in _Abélard: Des intellections_. Paris: J. Vrin 1994.
 
 ### 英文原文的主要文本翻译
 
-* Fairweather, E. R., 1995, *A Scholastic Miscellany*, Westminster: John Knox Press. (Excerpt from Abelard’s commentary on *Romans*.)
-* King, Peter, 1982, *Peter Abailard and the Problem of Universals in the Twelfth Century*, Ph.D. Dissertation, Philosophy Department, Princeton University. (Volumes 2 contains a complete translation of Abelard’s *Tractatus de intellectibus*.)
-* Luscombe, David, 1971, *Ethics*, Oxford: Oxford University Press. (Complete translation of Abelard’s *Ethica*.)
-* Marenbon, John and Giovanni Orlandi (eds. and trans.), 2001, *Peter Abelard: Collationes*, Oxford: Clarendon. (Complete translation of Abelard’s *Conversations*.)
-* McCallum, James Ramsay, 1948, *Abelard’s Christian Theology*, Oxford: Blackwell. (Includes substantial selections from Abelard’s *Theologia christiana*.)
-* Minnis, A. and Scott, A. B. (eds.), 1988, *Medieval Literary Theory and Criticism 1100–1375*, Oxford: Oxford University Press. (Includes Abelard’s preface to the *Sic et non*.)
-* Payer, Pierre, 1979, *Peter Abelard: A Dialogue of a Philosopher with a Jew and a Christian*, Toronto: The Pontifical Institute of Mediaeval Studies Publications.
-* Radice, Elizabeth, 1974, *The Letters of Abelard and Heloise*, New York: Penguin Books.
-* Spade, Paul Vincent, 1994, *Five Texts on the Mediaeval Problem of Universals*, Indianapolis: Hackett Publishing Company. (Abelard’s discussion of the problem of universals from his *Logica* ‘*ingredientibus*’.)
-* Spade, Paul Vincent, 1995, *Peter Abelard: Ethical Writings*, Indianapolis: Hackett Publishing Company. (Complete translations of Abelard ‘s *Ethics* and *Conversations*.)
-* Tweedale, Martin and Bosley, Richard, 1997, *Issues in Medieval Philosophy*, Peterborough: Broadview Press. (Includes selections from Abelard on foreknowledge, universals, and ethics.)
+* Fairweather, E. R., 1995, _A Scholastic Miscellany_, Westminster: John Knox Press. (Excerpt from Abelard’s commentary on _Romans_.)
+* King, Peter, 1982, _Peter Abailard and the Problem of Universals in the Twelfth Century_, Ph.D. Dissertation, Philosophy Department, Princeton University. (Volumes 2 contains a complete translation of Abelard’s _Tractatus de intellectibus_.)
+* Luscombe, David, 1971, _Ethics_, Oxford: Oxford University Press. (Complete translation of Abelard’s _Ethica_.)
+* Marenbon, John and Giovanni Orlandi (eds. and trans.), 2001, _Peter Abelard: Collationes_, Oxford: Clarendon. (Complete translation of Abelard’s _Conversations_.)
+* McCallum, James Ramsay, 1948, _Abelard’s Christian Theology_, Oxford: Blackwell. (Includes substantial selections from Abelard’s _Theologia christiana_.)
+* Minnis, A. and Scott, A. B. (eds.), 1988, _Medieval Literary Theory and Criticism 1100–1375_, Oxford: Oxford University Press. (Includes Abelard’s preface to the _Sic et non_.)
+* Payer, Pierre, 1979, _Peter Abelard: A Dialogue of a Philosopher with a Jew and a Christian_, Toronto: The Pontifical Institute of Mediaeval Studies Publications.
+* Radice, Elizabeth, 1974, _The Letters of Abelard and Heloise_, New York: Penguin Books.
+* Spade, Paul Vincent, 1994, _Five Texts on the Mediaeval Problem of Universals_, Indianapolis: Hackett Publishing Company. (Abelard’s discussion of the problem of universals from his _Logica_ ‘_ingredientibus_’.)
+* Spade, Paul Vincent, 1995, _Peter Abelard: Ethical Writings_, Indianapolis: Hackett Publishing Company. (Complete translations of Abelard ‘s _Ethics_ and _Conversations_.)
+* Tweedale, Martin and Bosley, Richard, 1997, _Issues in Medieval Philosophy_, Peterborough: Broadview Press. (Includes selections from Abelard on foreknowledge, universals, and ethics.)
 
 ### 英文中的选定次要文献
 
-* Allen, Julie, 1996, *A Commentary on the Second Collatio of Peter Abailard’s Dialogus*, Ph.D. Dissertation, Philosophy Department, University of Toronto.
-* Arlig, Andrew, 2007, “Abelard’s Assault on Everyday Objects”, *American Catholic Philosophical Quarterly*, 81: 209–227.
-* –––, 2012, “Peter Abelard on Material Constitution”, *Archiv fur Geschichte der Philosophie*, 94: 119–146.
-* –––, 2013, “Some Twelfth-century Reflections on Mereological Essentialism”, *Oxford Studies in Medieval Philosophy*, 1: 83–112.
-* –––, 2022, “Abelard and Other Twelfth-Century Thinkers on Social Constructions”, *Philosophies*, 7(4), 84. [[Arlig 2022 available online](https://www.mdpi.com/2409-9287/7/4/84)]
-* Astroh, Michael, 2001, “Abelard on Modalities *de re* and *de dicto*”, in *Potentialität und Possibilität. Modalaussagen in der Geschichte der Metaphysik*, Thomas Buchheim, C. H. Kneepkens, and Kuno Lorenz (eds.), Stuttgart: Frommann Holzboog, 79–95
-* Bejczy, I., 2003, “Deeds Without Value: Exploring a Weak Spot in Abelard’s Ethics”, *Recherches de théologie et philosophie médiévale*, 70: 1–21.
-* Binini, Irene, 2022, *Possibility and Necessity in the Time of Peter Abelard*, Leiden/Boston: Brill.
-* Blackwell, Daniel, 1988, *Non-Ontological Constructs: The Effects of Abaelard’s Logical and Ethical Theories on his Theology*, Berne, Paris, New York: Peter Lang.
-* Boler, John, 1963, “Abailard and the Problem of Universals”, *The Journal of the History of Philosophy*, 1: 104–126.
+* Allen, Julie, 1996, _A Commentary on the Second Collatio of Peter Abailard’s Dialogus_, Ph.D. Dissertation, Philosophy Department, University of Toronto.
+* Arlig, Andrew, 2007, “Abelard’s Assault on Everyday Objects”, _American Catholic Philosophical Quarterly_, 81: 209–227.
+* –––, 2012, “Peter Abelard on Material Constitution”, _Archiv fur Geschichte der Philosophie_, 94: 119–146.
+* –––, 2013, “Some Twelfth-century Reflections on Mereological Essentialism”, _Oxford Studies in Medieval Philosophy_, 1: 83–112.
+* –––, 2022, “Abelard and Other Twelfth-Century Thinkers on Social Constructions”, _Philosophies_, 7(4), 84. \[[Arlig 2022 available online](https://www.mdpi.com/2409-9287/7/4/84)]
+* Astroh, Michael, 2001, “Abelard on Modalities _de re_ and _de dicto_”, in _Potentialität und Possibilität. Modalaussagen in der Geschichte der Metaphysik_, Thomas Buchheim, C. H. Kneepkens, and Kuno Lorenz (eds.), Stuttgart: Frommann Holzboog, 79–95
+* Bejczy, I., 2003, “Deeds Without Value: Exploring a Weak Spot in Abelard’s Ethics”, _Recherches de théologie et philosophie médiévale_, 70: 1–21.
+* Binini, Irene, 2022, _Possibility and Necessity in the Time of Peter Abelard_, Leiden/Boston: Brill.
+* Blackwell, Daniel, 1988, _Non-Ontological Constructs: The Effects of Abaelard’s Logical and Ethical Theories on his Theology_, Berne, Paris, New York: Peter Lang.
+* Boler, John, 1963, “Abailard and the Problem of Universals”, _The Journal of the History of Philosophy_, 1: 104–126.
 
- ### 学术工具
+### 学术工具
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [如何引用此条目](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abelard)。| | ------------------------------------------------------------------------ | ------------------------------------------------------- | | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [预览此条目的PDF版本](https://leibniz.stanford.edu/friends/preview/abelard/)，请访问[SEP协会的朋友们](https://leibniz.stanford.edu/friends/)。| | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [查找与此条目相关的主题和思想家](https://www.inphoproject.org/entity?sep=abelard&redirect=True)，请访问互联网哲学本体项目（InPhO）。| | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [此条目的增强参考文献](https://philpapers.org/sep/abelard/)，请访问[PhilPapers](https://philpapers.org/)，并链接到其数据库。|
+\| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [如何引用此条目](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abelard)。| | ------------------------------------------------------------------------ | ------------------------------------------------------- | | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [预览此条目的PDF版本](https://leibniz.stanford.edu/friends/preview/abelard/)，请访问[SEP协会的朋友们](https://leibniz.stanford.edu/friends/)。| | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [查找与此条目相关的主题和思想家](https://www.inphoproject.org/entity?sep=abelard\&redirect=True)，请访问互联网哲学本体项目（InPhO）。| | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [此条目的增强参考文献](https://philpapers.org/sep/abelard/)，请访问[PhilPapers](https://philpapers.org/)，并链接到其数据库。|
 
 ## 其他互联网资源
 
 * [Pierre Abelard of Le Pallet](https://www.abelard.org/abelard/abel-hi.htm) (information and short biography)
 * [Abelard’s Logic and the Origins of Nominalism](http://www.ontology.co/abelard.htm), by Raul Corazzon, which includes an annotated bibliography.
 * [Peter Abelard](http://justus.anglican.org/resources/bio/142.html), by James E. Kiefer.
-* [Prologue](http://www.fordham.edu/halsall/source/Abelard-SicetNon-Prologue.html) to Abelard’s *Sic et non*, by W.J. Lewis (and S. Barney), online at the Internet History Sourcebooks Project (Fordham).
+* [Prologue](http://www.fordham.edu/halsall/source/Abelard-SicetNon-Prologue.html) to Abelard’s _Sic et non_, by W.J. Lewis (and S. Barney), online at the Internet History Sourcebooks Project (Fordham).
 * [First Lecture on Abelard](https://webarchive.nla.gov.au/wayback/20120503141653/http://pandora.nla.gov.au/pan/98441/20120504-0000/www.humanities.mq.edu.au/Ockham/x52t05.html) and [Second Lecture on Abelard](https://webarchive.nla.gov.au/wayback/20120503141653/http://pandora.nla.gov.au/pan/98441/20120504-0000/www.humanities.mq.edu.au/Ockham/x52t06.html), by R. J. Kilcullen (Politics and International Relations, Macquarie University).
 * [Some older print editions and manuscripts](https://gallica.bnf.fr/accueil/?mode=desktop) (Gallica (gallica.bnf.fr), the website of the Bibliothèque nationale de France, now has images of several older print editions (including Cousin’s still valuable editions) and a few manuscripts, which in some cases are the only known surviving copies of those works)
 * [Logicalia Medievalia](https://pric.unive.it/projects/logicalia-medievalia/home#c2459), website maintained by Caterina Tarlazzi (Ca’ Foscari University of Venice), which aims to draw together recent research on Latin logical texts before 1220 with particular attention to research on William of Champeaux and Peter Abelard.
@@ -304,6 +295,4 @@
 
 亚里士多德，一般主题：逻辑 | 全体论：中世纪 | 关系：中世纪理论 | 三段论：中世纪理论 | 通性：中世纪问题 | 威廉·沙末尔
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by
-[Peter King](http://individual.utoronto.ca/pking/)
-[Andrew Arlig](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=641) <*[aarlig@brooklyn.cuny.edu](mailto:aarlig%40brooklyn%2ecuny%2eedu)*>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by [Peter King](http://individual.utoronto.ca/pking/) [Andrew Arlig](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty\_profile.jsp?faculty=641) <[_aarlig@brooklyn.cuny.edu_](mailto:aarlig%40brooklyn%2ecuny%2eedu)>

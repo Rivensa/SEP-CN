@@ -21,9 +21,6 @@
 * [行动 action (Juan S. Piñeros Glasscock and Sergio Tenenbaum)](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/README.md)
   * [共同行动 joint — see agency: shared](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/gong-tong-hang-dong-joint-see-agency-shared.md)
   * [行动的逻辑 logic of — see logic: action](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/hang-dong-de-luo-ji-logic-of-see-logic-action.md)
-
-***
-
-* [基于行动的感知理论 action-based theories of perception (Robert Briscoe, Rick Grush, and Alison Springle)](ji-yu-hang-dong-de-gan-zhi-li-lun-actionbased-theories-of-perception-robert-briscoe-rick-grush-and-a.md)
-* [超距作用——见量子力学：超距作用 action at a distance — see quantum mechanics: action at a distance in](chao-ju-zuo-yong-jian-liang-zi-li-xue-chao-ju-zuo-yong-action-atadistance-see-quantum-mechanics-acti.md)
-* [现实主义——见现实主义与可能主义辩论 actualism — see possibilism-actualism debate](xian-shi-zhu-yi-jian-xian-shi-zhu-yi-yu-ke-neng-zhu-yi-bian-lun-actualism-see-possibilismactualism-d.md)
+* [基于行动的感知理论 action-based theories of perception (Robert Briscoe, Rick Grush, and Alison Springle)](a/ji-yu-hang-dong-de-gan-zhi-li-lun-actionbased-theories-of-perception-robert-briscoe-rick-grush-and-a.md)
+* [超距作用——见量子力学：超距作用 action at a distance — see quantum mechanics: action at a distance in](a/chao-ju-zuo-yong-jian-liang-zi-li-xue-chao-ju-zuo-yong-action-atadistance-see-quantum-mechanics-acti.md)
+* [现实主义——见现实主义与可能主义辩论 actualism — see possibilism-actualism debate](a/xian-shi-zhu-yi-jian-xian-shi-zhu-yi-yu-ke-neng-zhu-yi-bian-lun-actualism-see-possibilismactualism-d.md)
