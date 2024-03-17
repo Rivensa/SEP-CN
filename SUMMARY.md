@@ -7,3 +7,7 @@
 * [版权说明](qian-yan/ban-quan-shuo-ming.md)
 * [编辑规划](qian-yan/bian-ji-gui-hua.md)
 * [词汇表](qian-yan/ci-hui-biao.md)
+
+## A
+
+* [溯因 abduction (Igor Douven) ](a/su-yin-abduction-igor-douven.md)
