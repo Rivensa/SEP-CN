@@ -310,4 +310,6 @@ Psillos（2000 年）提出了另一种溯因可能会补充贝叶斯确认理�
 
 [认识论：贝叶斯](https://plato.stanford.edu/entries/epistemology-bayesian/) | [归纳：问题](https://plato.stanford.edu/entries/induction-problem/) | [皮尔斯，查尔斯·桑德斯](https://plato.stanford.edu/entries/peirce/) | [科学解释](https://plato.stanford.edu/entries/scientific-explanation/) | [科学实在论](https://plato.stanford.edu/entries/scientific-realism/) | [简单性](https://plato.stanford.edu/entries/simplicity/) | [怀疑论](https://plato.stanford.edu/entries/skepticism/) | [科学理论的不确定性](https://plato.stanford.edu/entries/scientific-underdetermination/)
 
-[版权所有 © 2021](https://plato.stanford.edu/info.html#c) 作者：Igor Douven <*[igor.douven@paris-sorbonne.fr](mailto:igor%2edouven%40paris-sorbonne%2efr)*>
+[版权所有 © 2021](https://plato.stanford.edu/info.html#c) Igor Douven <*[igor.douven@paris-sorbonne.fr](mailto:igor%2edouven%40paris-sorbonne%2efr)*>
+
+
