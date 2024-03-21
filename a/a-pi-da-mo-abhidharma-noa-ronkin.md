@@ -7,8 +7,8 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 阿毘达磨既是一种独立的文学体裁，也是一种思想和探究的分支，与佛陀的教诲体系（梵文为_sūtras_，巴利文为_suttas_）相对应。与早期佛教教诲以口语为特点不同，阿毘达磨方法以技术术语呈现佛陀的教导，这些术语经过精确定义以确保分析的准确性。在内容上，阿毘达磨在努力提供佛教冥想实践的理论对应物以及更广泛地系统地描述有情众生的经验方面具有独特性。它通过分析意识体验（在这个意义上是一个人的“世界”）及其组成的心理和物理事件（梵文为_dharmā_，巴利文为_dhammā_，以下分别称为_dharmas/dhammas_）来实现这一目标。这个总体的探究包括将_dharmas_分析为多个类别，并通过它们之间多样的因果关系将它们综合成一个统一的结构，这被称为“_dharma_理论”。对_dharmas_的性质和相互作用进行的详尽研究延伸到形而上学、认识论和本体论领域，并在不同的佛教派别之间引发了教义争议。阿毘达磨对这些争议的分析和论证方法为中观派和瑜伽行派的大乘佛教学派提供了参考框架，并定义了其议程。因此，作为一个独特的教义运动，阿毘达磨对后来的佛教思想产生了显著影响，并催生了佛教系统哲学和解释学。
 
 * [1. 阿毘达磨：起源和文本](https://plato.stanford.edu/entries/abhidharma/#AbhOriTex)
-* [1.1 文学风格和流派](https://plato.stanford.edu/entries/abhidharma/#LitStyGen) \* [1.2 阿毘达磨解释学：从 ](https://plato.stanford.edu/entries/abhidharma/#AbhExeDhaDha)​\*[法](https://plato.stanford.edu/entries/abhidharma/#AbhExeDhaDha)_​_[ _到_ ](https://plato.stanford.edu/entries/abhidharma/#AbhExeDhaDha)_​_[法门](https://plato.stanford.edu/entries/abhidharma/#AbhExeDhaDha)\* \* [2. 法门分类学：一种经验形而上学](https://plato.stanford.edu/entries/abhidharma/#DhaTaxMetExp) \* [3. 时间：从无常到瞬间性](https://plato.stanford.edu/entries/abhidharma/#TimImpMom) \* [4. 内在本质：在分类和本体论之间](https://plato.stanford.edu/entries/abhidharma/#IntNatBetCatOnt) \* [5. 因果：存在即功能](https://plato.stanford.edu/entries/abhidharma/#CauExiFun) \* [6. 认识论：感知和意识过程理论](https://plato.stanford.edu/entries/abhidharma/#EpiPerTheConPro) \* [参考文献](https://plato.stanford.edu/entries/abhidharma/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/abhidharma/#PriSou) \* [次要来源](https://plato.stanford.edu/entries/abhidharma/#SecSou) \* [学术工具](https://plato.stanford.edu/entries/abhidharma/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/abhidharma/#Oth) \* [相关条目](https://plato.stanford.edu/entries/abhidharma/#Rel)
+* [1.1 文学风格和流派](https://plato.stanford.edu/entries/abhidharma/#LitStyGen) * [1.2 阿毘达磨解释学：从 ](https://plato.stanford.edu/entries/abhidharma/#AbhExeDhaDha)​*[法](https://plato.stanford.edu/entries/abhidharma/#AbhExeDhaDha)_​_[ _到_ ](https://plato.stanford.edu/entries/abhidharma/#AbhExeDhaDha)_​_[法门](https://plato.stanford.edu/entries/abhidharma/#AbhExeDhaDha)* * [2. 法门分类学：一种经验形而上学](https://plato.stanford.edu/entries/abhidharma/#DhaTaxMetExp) * [3. 时间：从无常到瞬间性](https://plato.stanford.edu/entries/abhidharma/#TimImpMom) * [4. 内在本质：在分类和本体论之间](https://plato.stanford.edu/entries/abhidharma/#IntNatBetCatOnt) * [5. 因果：存在即功能](https://plato.stanford.edu/entries/abhidharma/#CauExiFun) * [6. 认识论：感知和意识过程理论](https://plato.stanford.edu/entries/abhidharma/#EpiPerTheConPro) * [参考文献](https://plato.stanford.edu/entries/abhidharma/#Bib)
+* [主要来源](https://plato.stanford.edu/entries/abhidharma/#PriSou) * [次要来源](https://plato.stanford.edu/entries/abhidharma/#SecSou) * [学术工具](https://plato.stanford.edu/entries/abhidharma/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/abhidharma/#Oth) * [相关条目](https://plato.stanford.edu/entries/abhidharma/#Rel)
 
 ***
 
@@ -16,7 +16,7 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 
 印度佛教的早期历史知之甚少，而构建一个一致的历史年表的尝试仍然吸引着当代学者的注意。一个普遍被接受的传统是，大约在公元前三世纪初期，原始佛教团体分裂为两个派别或团体：斯塔维拉（巴利语，Theriyas）和大僧伽（Mahāsāṅghikas），从此以后各自有了自己的戒律传统。在随后的两个多世纪中，这两个派别之间出现了教义争议，导致了各种思想学派（_vāda; ācariyavāda_）和师承（_ācariyakula_）的形成（_Vin_ 51–54；_Mhv_ V 12–13。参见Cousins 1991, 27–28；Frauwallner 1956, 5ff & 130ff；Lamotte 1988, 271ff；Wynne 2019, 269–283）。
 
-根据传统佛教的记载，大乘佛教教义大约在公元前1世纪出现时，有18个斯塔维拉派的分支或学派，这是上座部传统的祖先，即南传佛教（“长老教义的拥护者”）。然而，出于象征和记忆的原因（Obeyesekere 1991），佛教史学中的18这个数字成为常规，实际上，不同的佛教来源保留了不同的学派列表，总数超过18个。很可能是佛教社区的早期形成时期，由于社区在整个印度次大陆的地理范围内扩展，并面临各自的特定问题，产生了多个知识分支（saṅgha）。每个saṅgha倾向于专门从事特定的学科，有自己的实践习俗和与在家信徒的关系，并受到其所处环境中特定领土、经济、语言和方言使用的影响。事实上，“十八学派”的名称表明它们起源于特定的教义、地理位置或特定创始人的遗产：例如，Sarvāstivāda（“一切有为法派”）、Sautrāntikas（“依赖经论的人”）/Dārṣṭāntikas（“运用例证的人”）\[1]，Pudgalavāda（“肯定人存在的人”）；Haimavatas（“雪山之人”）；或Vātsīputrīyas（“与Vātsīputra有关的人”）等。正如Gethin（1998年，52页）所指出的，与基督教的教派或教派不同，“后来佛教传统提到的一些学派很可能是类似于现代哲学史上的‘笛卡尔派’、‘英国经验主义者’或‘康德派’的思想学派。”\[2]
+根据传统佛教的记载，大乘佛教教义大约在公元前1世纪出现时，有18个斯塔维拉派的分支或学派，这是上座部传统的祖先，即南传佛教（“长老教义的拥护者”）。然而，出于象征和记忆的原因（Obeyesekere 1991），佛教史学中的18这个数字成为常规，实际上，不同的佛教来源保留了不同的学派列表，总数超过18个。很可能是佛教社区的早期形成时期，由于社区在整个印度次大陆的地理范围内扩展，并面临各自的特定问题，产生了多个知识分支（saṅgha）。每个saṅgha倾向于专门从事特定的学科，有自己的实践习俗和与在家信徒的关系，并受到其所处环境中特定领土、经济、语言和方言使用的影响。事实上，“十八学派”的名称表明它们起源于特定的教义、地理位置或特定创始人的遗产：例如，Sarvāstivāda（“一切有为法派”）、Sautrāntikas（“依赖经论的人”）/Dārṣṭāntikas（“运用例证的人”）[1]，Pudgalavāda（“肯定人存在的人”）；Haimavatas（“雪山之人”）；或Vātsīputrīyas（“与Vātsīputra有关的人”）等。正如Gethin（1998年，52页）所指出的，与基督教的教派或教派不同，“后来佛教传统提到的一些学派很可能是类似于现代哲学史上的‘笛卡尔派’、‘英国经验主义者’或‘康德派’的思想学派。”[2]
 
 通常认为，多个古代佛教学派传承了自己的阿毗达磨藏经版本，但只有两个完整的正典藏经被保留下来，代表了两个学派：Sarvāstivāda学派从斯塔维拉派中独立出来，大约在公元前2或1世纪，成为印度北部，尤其是西北部的主导学派，并传播到中亚；而僧伽罗南传佛教（Theravāda）是斯塔维拉派的一个分支，传播到印度南部和东南亚的部分地区。这两个现存的藏经集合构成了佛教经典的“三藏”（梵文_tripiṭaka_，巴利文_tipiṭaka_）中的第三部分。Sarvāstivāda和Theravāda的注释传统认为它们各自的阿毗达磨正典由一套七本经典组成，尽管每个学派都指定了不同的经典集合。Sarvāstivāda的阿毗达磨藏经包括《集会论》（_Saṅgītiparyāya_）、《法藏》（_Dharmaskandha_）、《概念论》（_Prajñaptiśāstra_）、《识藏》（_Vijñānakāya_）、《界藏》（_Dhātukāya_）、《论文藏》（_Prakaraṇapāda_）和《���慧根本》（_Jñānaprasthāna_）。这七本经典只有它们的古代中文译本完整地保存下来。Theravāda的阿毗达磨藏经包括《法集》（_Dhammasaṅgaṇi_）、《分析》（_Vibhaṅga_）、《界说》（_Dhātukathā_）、《人名记》（_Puggalapaññatti_）、《论题》（_Kathāvatthu_）、《双对》（_Yamaka_）和《因果论》（_Paṭṭhāna_）。这七本经典以巴利文保存，除了《双对》之外，其他都已经被翻译成英文。
 
@@ -26,7 +26,7 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 
 ### [1.1 文学风格和流派](a-pi-da-mo-abhidharma-noa-ronkin.md)
 
-学者们对于“阿毘达磨”一词的解释一直存在两种不同的观点，这两种观点都与前缀“阿毗”所指的含义有关。首先，将“阿毗”理解为“关于”，则“阿毘达磨”被理解为一门学科，其对象是佛陀的教义。其次，将“阿毗”理解为优势和区别，也有人认为“阿毘达磨”是一种独特的、更高级的教义；它是佛陀教义的本质，或者说超越了佛陀言教的东西，有点类似于“形而上学”的概念（例如，Dhs-a 2-3; Horner 1941; von Hinüber 1994）。佛教传统本身通过对比经论和阿毗达磨两种教法的方式来区分教义的传授方式，经论以部分的、比喻性的术语表达，需要进一步的解释，而阿毗达磨则以非比喻性的术语全面阐述教义（A IV 449-456; Dhs-a 154）。这与传统对于文本的区分相吻合，有些文本具有隐含意义（梵文neyārtha，巴利文neyyattha），而另一些文本具有明确的意义（梵文nītārtha，巴利文nītattha）（A I 60; Ps I 18），还有一些文本以常规术语（梵文saṃvṛti，巴利文sammuti）表达，而另一些文本则以终极术语（梵文paramārtha，巴利文paramattha）表达（Vibh 100-101; Mp I 94-97）\[[4](https://plato.stanford.edu/entries/abhidharma/notes.html#note-4)]^。从阿毗达磨的角度来看，经论是以常规术语传达的，其终极意义需要进一步解释。
+学者们对于“阿毘达磨”一词的解释一直存在两种不同的观点，这两种观点都与前缀“阿毗”所指的含义有关。首先，将“阿毗”理解为“关于”，则“阿毘达磨”被理解为一门学科，其对象是佛陀的教义。其次，将“阿毗”理解为优势和区别，也有人认为“阿毘达磨”是一种独特的、更高级的教义；它是佛陀教义的本质，或者说超越了佛陀言教的东西，有点类似于“形而上学”的概念（例如，Dhs-a 2-3; Horner 1941; von Hinüber 1994）。佛教传统本身通过对比经论和阿毗达磨两种教法的方式来区分教义的传授方式，经论以部分的、比喻性的术语表达，需要进一步的解释，而阿毗达磨则以非比喻性的术语全面阐述教义（A IV 449-456; Dhs-a 154）。这与传统对于文本的区分相吻合，有些文本具有隐含意义（梵文neyārtha，巴利文neyyattha），而另一些文本具有明确的意义（梵文nītārtha，巴利文nītattha）（A I 60; Ps I 18），还有一些文本以常规术语（梵文saṃvṛti，巴利文sammuti）表达，而另一些文本则以终极术语（梵文paramārtha，巴利文paramattha）表达（Vibh 100-101; Mp I 94-97）[[4](https://plato.stanford.edu/entries/abhidharma/notes.html#note-4)]^。从阿毗达磨的角度来看，经论是以常规术语传达的，其终极意义需要进一步解释。
 
 阿毘达磨经典的文本是经过数十年甚至数个世纪的发展而来的，这些文本是在经典的经和律部中已经存在的材料的基础上演变而来的。这在这一流派的两个特点中得到了证明，这两个特点可以追溯到早期佛教文献。第一个特点是文本的分析风格，试图详细总结佛法的重要观点，并提供构成有情众生体验的心理和物质因素的全面分类。这种分析工作包括将材料的主要部分围绕着详细的因素列表和它们的类别组合形成的矩阵（梵文，_mātṛkā_，巴利文，_mātikā_）的教义主题进行安排。在佛陀的经文集合中，某些文本已经按照分类列表进行了安排，提供了对教义项目的公式化处理，这些项目在其他地方已经阐述过。列表显然是强大的记忆工具，在早期佛教文献中的普遍存在可以部分解释为其口头传承的结果。例如，四个主要的阿含经/尼柯耶之一，即“分组”经集（_saṃyukta/saṃyutta_），根据特定的主题对佛陀的教导进行了分组，包括四圣谛、四念处、五蕴、六根、七觉支、八正道、十二因缘等。类似的分类列表构成了南传上座部的《分别辨》和《人品智》以及舍卫城部的《集会说》和《法藏》的目录。
 
@@ -34,15 +34,15 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 
 阿毘达磨文学产生于早期佛教团体对法义的讨论中的两种方法：第一种方法旨在总结和分析佛陀教诲的重要要点，第二种方法则通过僧侣争论来阐释和解释教义（Bronkhorst 2016, 29–46；Cousins 1983, 10；Dessein 2016, 4–7；Gethin 1992b, 165；Gethin 2022, 227–242）。
 
-### [1.2 阿毘达磨的阐释：从 ](a-pi-da-mo-abhidharma-noa-ronkin.md)​\*[法义](a-pi-da-mo-abhidharma-noa-ronkin.md)_​_[ _到_ ](a-pi-da-mo-abhidharma-noa-ronkin.md)_​_[诸法](a-pi-da-mo-abhidharma-noa-ronkin.md)\*
+### [1.2 阿毘达磨的阐释：从 ](a-pi-da-mo-abhidharma-noa-ronkin.md)​*[法义](a-pi-da-mo-abhidharma-noa-ronkin.md)_​_[ _到_ ](a-pi-da-mo-abhidharma-noa-ronkin.md)_​_[诸法](a-pi-da-mo-abhidharma-noa-ronkin.md)*
 
 佛陀在《阿含经/尼柯耶经》中收集的讲论从不同的角度分析了有情众生的体验：以名色（nāma-rūpa）、五蕴（skandha）、十二入（āyatana）或十八界（dhātu）来描述。所有这些分析方式都提供了有情众生体验的描述，将其视为一系列根据各种原因和条件产生和终止的身心过程。《经论》世界观与《阿毘达磨》世界观之间的一个显著差异在于，《阿毘达磨》将这些过程的时间尺度缩小，使其被视为从瞬间到瞬间的运作。换句话说，《阿毘达磨》重新解释了《经》所描绘的顺序过程的术语，将其应用于离散的瞬时事件（Cousins 1983, 7; Ronkin 2005, 66–78）。
 
-这些事件被称为“法”（Pali, dhammas），与表示佛陀教义的单数“法/法”不同。《阿含经/尼柯耶经》使用“法”这个词形式来传达遇到的现象的多元化表达，即我们通过六个感官器官（五个普通的物理感官加上心灵\[manas]）所经历的所有感官现象。然而，经典的《阿毘达磨》论著在心灵范围内进行了微妙的区分，并淡化了多种心灵能力之间的差异。在这个背景下，“法”被视为一种特定的心灵认知意识（Skt., manovijñāṇa, Pali, manoviññāṇa）的对象，被认为是感官知觉过程中的中心认知操作。心灵认知意识是一种特殊类型的意识，它区分了作用于感官器官的刺激，并在必要的条件齐集时出现。法不仅仅是像思想、概念或记忆这样的心理对象。作为心灵认知意识的对象，法可以被视为知觉：快速的意识类型（citta），在顺序流中产生和终止，每个意识类型都有自己的对象，并与五个外向感官模式（视觉、听觉等）的认知意识相互作用。经典的《阿毘达磨》文本将法描绘为具有不同能力的心理物理事件，通过这些能力，心灵将一个特定的感知（尤其是新出现的感知）与已经拥有的一组或一大批思想结合和吸收，从而理解和概念化它。
+这些事件被称为“法”（Pali, dhammas），与表示佛陀教义的单数“法/法”不同。《阿含经/尼柯耶经》使用“法”这个词形式来传达遇到的现象的多元化表达，即我们通过六个感官器官（五个普通的物理感官加上心灵[manas]）所经历的所有感官现象。然而，经典的《阿毘达磨》论著在心灵范围内进行了微妙的区分，并淡化了多种心灵能力之间的差异。在这个背景下，“法”被视为一种特定的心灵认知意识（Skt., manovijñāṇa, Pali, manoviññāṇa）的对象，被认为是感官知觉过程中的中心认知操作。心灵认知意识是一种特殊类型的意识，它区分了作用于感官器官的刺激，并在必要的条件齐集时出现。法不仅仅是像思想、概念或记忆这样的心理对象。作为心灵认知意识的对象，法可以被视为知觉：快速的意识类型（citta），在顺序流中产生和终止，每个意识类型都有自己的对象，并与五个外向感官模式（视觉、听觉等）的认知意识相互作用。经典的《阿毘达磨》文本将法描绘为具有不同能力的心理物理事件，通过这些能力，心灵将一个特定的感知（尤其是新出现的感知）与已经拥有的一组或一大批思想结合和吸收，从而理解和概念化它。
 
 最终，_法_就是一切：所有的经验事件都被理解为_法_的相互作用所产生。虽然原子的类比在这里可能是有用的，但_法_显著地包含了物质和精神现象，并且通常被理解为短暂的事件、发生或动态属性，而不是持久的实体。阿毘达磨的注释试图对每种可能的体验类型进行详尽的描述——每种可能出现在意识中的事件类型——并以其组成的_法_来解释。这个企业涉及将普通感知的对象分解为它们的组成部分、离散的_法_，并澄清它们之间的因果关系。将_法_的分析归入多个类别，并通过它们的多样的因果关系将其综合成一个统一的结构的总体探究被称为“_法_理论”。
 
-## [2. ](a-pi-da-mo-abhidharma-noa-ronkin.md)​\*[法](a-pi-da-mo-abhidharma-noa-ronkin.md)\*​[的分类学：一种经验的形而上学](a-pi-da-mo-abhidharma-noa-ronkin.md)
+## [2. ](a-pi-da-mo-abhidharma-noa-ronkin.md)​*[法](a-pi-da-mo-abhidharma-noa-ronkin.md)*​[的分类学：一种经验的形而上学](a-pi-da-mo-abhidharma-noa-ronkin.md)
 
 阿毘达磨试图个别化和确定每个“法”的独特身份，产生了复杂的交叉分类法，这些分类法根据多个标准或一组特性组织了“法”。不同学派的阿毘达磨文献提出了不同的“法”分类法，列举了更多或更少有限数量的“法”类别。然而，重要的是要记住，“法”一词既表示代表一种发生类型的任何类别，也表示其中任何一个特定的标记或实例。南传上座部佛教引入了一个包含82个“法”类别的系统，这意味着在经验世界中有82种可能的发生类型，而不是82个发生。这些被组织成四个类别。前三个类别包括意识的裸现象（citta），它包含一个单一的“法”类型，其本质特征是认识对象；相关的心理（cetasika），包含52个“法”；以及物质或物理现象（rūpa），包括28个构成所有物理现象的“法”（《阿毘达磨论》1）。这三个广泛类别中的所有81个“法”类型都是有条件的（saṅkhata）。有条件的“法”因众多原因和条件而产生和终止，并构成轮回（saṃsāra）中所有领域的有感知经验。第四个类别包含的第82个“法”是无条件的（asaṅkhata）：它既不通过因果互动产生也不终止。这个第四类别中的单个发生是涅槃（巴利语，nibbāna）。
 
@@ -56,7 +56,7 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 
 各种学者认为，这个系统反映了对法的动态概念的理解：阿毘达磨将法理解为构成一个人世界的属性、活动或相互关联的模式，而不是静态的实体（例如，Cox 2004A, 549ff；Gethin 1992A, 149-150；Karunadasa 2010, 第4章；Nyanaponika 1998, 第2章和第4章；Ronkin 2005, 第4章；Waldron 2002, 2-16）。阿毘达磨的法列表是“明确开放的”，反映了“某种不情愿和犹豫，不敢断言这就是法的明确列表”，为对什么是法和什么不是法的持续辩论留下了空间。对于阿毘达磨和佛教来说，一个人世界的界限是由一个人的生活经验的界限所确定的，而生活经验的因果基础是一个人的认知装置的运作。根据佛教的道路，基于一个人的认知装置的生活经验的本质是通过冥想实践来思考自己心灵的本质。从这个角度来看，阿毘达磨代表了冥想实践的理论对应物。在佛教实践的这个背景下，法是意识瞬间的独特（但相互关联的）功能、能量或因果相关的方面，从这个意义上说是意识瞬间的“组成部分”。
 
-因此，对于“法”的范畴分析是一种辨别“法”的冥想实践：它并不意味着对所有现有的“法”进行封闭的清单，而是“具有两个同时进行的救渡目的”（Cox 2004A, 551）。首先，作为“评估性”分析，法的分类学绘制了心灵的组成和运作，并解释了普通善良意识与觉醒心灵的区别。例如，在达到冥想吸收状态的心灵中产生的意识类型变得越来越精细，可能永远不会涉及某些倾向或玷污，这些倾向或玷污可能在普通（甚至善良）意识中可能发生。根据Gethin（2004, 536）的说法，“观察‘法’作为‘法’，意味着观察它们如何产生和消失，如何放弃自己想要摒弃的特定品质，以及如何发展自己想要发展的特定品质。以这种方式观察‘法’，人们开始理解\[…]关于这些‘法’的某些真理（sacca）——确切地说，有四个真理——关于这些‘法’与苦的关系，它的产生，它的停止以及停止的方法。通过看到这四个真理，人们实现了关于世界的终极真理——‘法’。”^\[^​^[9](https://plato.stanford.edu/entries/abhidharma/notes.html#note-9)^​^]^
+因此，对于“法”的范畴分析是一种辨别“法”的冥想实践：它并不意味着对所有现有的“法”进行封闭的清单，而是“具有两个同时进行的救渡目的”（Cox 2004A, 551）。首先，作为“评估性”分析，法的分类学绘制了心灵的组成和运作，并解释了普通善良意识与觉醒心灵的区别。例如，在达到冥想吸收状态的心灵中产生的意识类型变得越来越精细，可能永远不会涉及某些倾向或玷污，这些倾向或玷污可能在普通（甚至善良）意识中可能发生。根据Gethin（2004, 536）的说法，“观察‘法’作为‘法’，意味着观察它们如何产生和消失，如何放弃自己想要摒弃的特定品质，以及如何发展自己想要发展的特定品质。以这种方式观察‘法’，人们开始理解[…]关于这些‘法’的某些真理（sacca）——确切地说，有四个真理——关于这些‘法’与苦的关系，它的产生，它的停止以及停止的方法。通过看到这四个真理，人们实现了关于世界的终极真理——‘法’。”^[^​^[9](https://plato.stanford.edu/entries/abhidharma/notes.html#note-9)^​^]^
 
 对于“法”的分类化所涉及的第二个“描述性”救度过程揭示了有情体验的流动性质，并验证了基本的佛教教义——无我（梵文：_anātman_，巴利文：_anatta_）。对于“法”的越来越详细的列举表明，在任何现象或其组成部分中都找不到本质或独立的自我，因为所有的经验方面都是无常的，根据众多的原因和条件产生和消失。甚至被归类为无条件的少数“法”（即没有原因和效果）也被证明是无我的。因此，对于“法”的辨别实践破坏了我们情感和智力所抓住的表面坚实的世界，这个世界充满了欲望和执着的对象。“试着‘抓住’《法相论》或《因明》的世界，”Gethin指出（1992B, 165），“它会从你的手指间溜走。”
 
@@ -68,7 +68,7 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 
 佛教各派使用有条件现象的特征作为解释无常的工具，以瞬间论的术语重新解释无常。阿毘达磨派-毗婆沙提提出了一个完整的瞬间论教义，认为所有物质和心理现象都是瞬间的。阿毘达磨派使用术语“瞬间”（_kṣaṇa_）在一个高度技术的意义上，作为最小的、确定的时间单位，不能再细分，其长度被等同于心理事件的持续时间，即最短可想象的实体。关于一个瞬间的长度，阿毘达磨派没有一致的意见，但文献中的数字表明现代术语中介于0.13毫秒到13毫秒之间（Gethin 1998, 221；von Rospatt 1995, 94–110）。这种用法假设了一个原子论的时间观念，因为时间并不被认为是无限可分的。实际上，术语_kṣaṇa_经常与物质原子和音节的概念并列讨论，这些概念同样被理解为不可分割的。
 
-在阿毗达磨的框架内，物质现实（_rūpa-dharma_）被简化为离散的瞬间原子，并且很多注意被引向本体论和认识论问题，比如感官对象在任何时候是否真实，或者原子是否单独或共同对感知的产生做出贡献。原子现实被理解为不断变化的：对我们来说，似乎是由持久物质和不断变化的特质组成的世界，实际上是一系列迅速出现和消逝的瞬间。这个过程并不是随机的，而是根据每个原子的具体能力和功能而运行。对物质现实的这种原子分析精神同样适用于精神现实：意识被理解为一连串迅速出现和停止的离散意识瞬间。^\[^​^[10](https://plato.stanford.edu/entries/abhidharma/notes.html#note-10)^​^]^ 因此，在任何给定时刻，物质和精神现象之间的变化比例是一比一：它们以完美的同步发生（Kim 1999, 54）。在这一点上，须跛多同意了阿毗达磨的看法。
+在阿毗达磨的框架内，物质现实（_rūpa-dharma_）被简化为离散的瞬间原子，并且很多注意被引向本体论和认识论问题，比如感官对象在任何时候是否真实，或者原子是否单独或共同对感知的产生做出贡献。原子现实被理解为不断变化的：对我们来说，似乎是由持久物质和不断变化的特质组成的世界，实际上是一系列迅速出现和消逝的瞬间。这个过程并不是随机的，而是根据每个原子的具体能力和功能而运行。对物质现实的这种原子分析精神同样适用于精神现实：意识被理解为一连串迅速出现和停止的离散意识瞬间。^[^​^[10](https://plato.stanford.edu/entries/abhidharma/notes.html#note-10)^​^]^ 因此，在任何给定时刻，物质和精神现象之间的变化比例是一比一：它们以完美的同步发生（Kim 1999, 54）。在这一点上，须跛多同意了阿毗达磨的看法。
 
 阿毗达磨论者（“主张一切事物实存教义的拥护者”）在其立场上是独特的，他们认为有条件现象的特征作为独立的实体存在于每一个瞬间内。因此，他们的主张是，所有有条件的_dharmas_——无论是过去、现在还是未来——都作为真实实体（_dravyatas_）存在于任何给定瞬间的范围之内。这引发了一系列问题，其中之一是，阿毗达磨对瞬间的定义很难与其作为时间最短单位的概念协调一致（von Rospatt 1995, 44–46 & 97–98）。阿毗达磨对此批评的回应是，有条件现象的四个特征的活动（_kāritra_）是顺序发生的：任何事件的产生和消失之间的限度被称为一个瞬间。然而，这个解决方案意味着在给定的瞬间内，一个事件经历了四个阶段，这必然会侵犯它的瞬间性（Cox 1995, 151; von Rospatt 1995, 52ff）。
 
@@ -84,15 +84,15 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 
 为了保持无常原则并解释普通经验中的连续性和因果条件，佛教学派引入了对_法_本质的新解释。这些解释的核心是内在本质的概念（梵文：_svabhāva_，巴利文：_sabhāva_），它在阿毘达磨思想的系统化中起着重要作用，与_法_理论的巩固密切相关，并被认为是推动阿毘达磨对本体论日益关注的动力所在。
 
-术语_svabhāva/sabhāva_在_经_中并不常见，并且它在其他一些释迦族和声闻族经典文本中的少数出现并未提供关于_dharma_的定义，即作为验证其真实存在的固定内在性质的说明。\[[11](https://plato.stanford.edu/entries/abhidharma/notes.html#note-11)]^ 在后经文献中，情况显著变化，_svabhāva_成为大量用于_dharma_解释的标准概念。从早期_辩论论_汇编起，_解释阿毗达磨_文献中的一个经常出现的想法是，_dharmas_是因其_svabhāva_而被定义。例如，在_阿毗达磨藏毗婆沙论_中传达的定义是：“_dharma_的意思是‘维持’，\[即]维持内在性质（_svabhāva_）”，_大毗婆沙论_说：“内在性质能够维持自身的身份，并且不丧失它\[…]就像能够维持自身身份的无条件的_dharmas_那样”（Cox 2004A, 558–559）。同样，声闻部阿毗达磨评论中普遍的定义是：“所谓_dhammas_是因为它们承载它们的内在本性，或者因为它们由因果条件承载”（例如，_Dhs-a_ 39-40；_Paṭis-a_ I 18；_Vism-mhṭ_ I 347）。评论经文还经常将_dhammas_与其内在本性等同起来，交替使用_dhamma_和_sabhāva_这两个术语。例如，_清净道论_宣称“_dhamma_的意思不过是内在本性”（_Vism_ VIII 246），_法门集要_的说法是“除了由它承载的内在本性，没有其他被称为_dhamma_的东西”和“术语_sabhāva_指的是仅仅作为_dhamma_的事实”（_Dhs-mṭ_ 28 & 94；另见Karunadasa 2010: 第1章）。
+术语_svabhāva/sabhāva_在_经_中并不常见，并且它在其他一些释迦族和声闻族经典文本中的少数出现并未提供关于_dharma_的定义，即作为验证其真实存在的固定内在性质的说明。[[11](https://plato.stanford.edu/entries/abhidharma/notes.html#note-11)]^ 在后经文献中，情况显著变化，_svabhāva_成为大量用于_dharma_解释的标准概念。从早期_辩论论_汇编起，_解释阿毗达磨_文献中的一个经常出现的想法是，_dharmas_是因其_svabhāva_而被定义。例如，在_阿毗达磨藏毗婆沙论_中传达的定义是：“_dharma_的意思是‘维持’，[即]维持内在性质（_svabhāva_）”，_大毗婆沙论_说：“内在性质能够维持自身的身份，并且不丧失它[…]就像能够维持自身身份的无条件的_dharmas_那样”（Cox 2004A, 558–559）。同样，声闻部阿毗达磨评论中普遍的定义是：“所谓_dhammas_是因为它们承载它们的内在本性，或者因为它们由因果条件承载”（例如，_Dhs-a_ 39-40；_Paṭis-a_ I 18；_Vism-mhṭ_ I 347）。评论经文还经常将_dhammas_与其内在本性等同起来，交替使用_dhamma_和_sabhāva_这两个术语。例如，_清净道论_宣称“_dhamma_的意思不过是内在本性”（_Vism_ VIII 246），_法门集要_的说法是“除了由它承载的内在本性，没有其他被称为_dhamma_的东西”和“术语_sabhāva_指的是仅仅作为_dhamma_的事实”（_Dhs-mṭ_ 28 & 94；另见Karunadasa 2010: 第1章）。
 
 这些注释定义_dharmas_为携带它们的内在本性不应当被本体论地解释为暗示_dharmas_是具有固有存在的实体。巴利注释（古德因2004, 533）警告，“常常过于被理解为后来有关_dharmas_精确本体论地位的争议和中观派对_svabhāva_概念‘固有存在’的批判所照亮。”其实，将_dharmas_定义为携带内在本性传达的想法是它们背后没有持久的主体。附加的，_dharmas_由因果条件承载，对抗了由与它们自身不同的基本实体承载的内在本性的想法。正如_dharmas_是在依赖适当的条件和品质上产生的心理物理事件，它们的内在本性是在依赖其他条件和品质上产生的，而不是依赖比它们更真实的基质（_ibid;_ Karunadasa 1996, 13–16; Nyanaponika 1998, 40–41）。
 
-我们还必须注意到，_法_的内在本质所呈现的背景是分类，其中应用多个标准和特性来创建一个全面的分类系统，以区分任何给定_法_的特定特征。Cox（2004A：559-561）已经表明，在北印度阿毘达磨文献的早期时期，如_舍利弗阿毘达磨论_和_大毗婆沙论_的部分所代表的那样，内在本质的概念是在包含方法（_saṃgraha_）的背景下发展起来的，即将_法_包含在特定类别中的过程。_法_是由定义它们的内在本质所确定（_pariniṣpanna_），因此不应被认为具有单独存在的内在本质。“‘确定’意味着_法_的两个进一步特征\[…]首先，就像在一个良好结构的分类模式中的类别是独特且不受波动的一样，所以‘确定’的_法_是清晰且不可改变地区分开来的：它们是独特的个体，因此不会与其他_法_混淆。\[其次，]由内在本质确定的确定不会发生变化或修改，因此，实际上是内在本质的类型或类别的_法_被确定为稳定和不可变的”（_同上_，562）。因此，在早期的舍利弗阿毘达磨注释文献中，_自性_被用作一个不受时间限制的、不变的标准，用来确定_法_是什么，而不一定是_法_是否存在。这里的关注点主要是什么使得_法_的类别类型独特，而不是_法_的本体论地位。
+我们还必须注意到，_法_的内在本质所呈现的背景是分类，其中应用多个标准和特性来创建一个全面的分类系统，以区分任何给定_法_的特定特征。Cox（2004A：559-561）已经表明，在北印度阿毘达磨文献的早期时期，如_舍利弗阿毘达磨论_和_大毗婆沙论_的部分所代表的那样，内在本质的概念是在包含方法（_saṃgraha_）的背景下发展起来的，即将_法_包含在特定类别中的过程。_法_是由定义它们的内在本质所确定（_pariniṣpanna_），因此不应被认为具有单独存在的内在本质。“‘确定’意味着_法_的两个进一步特征[…]首先，就像在一个良好结构的分类模式中的类别是独特且不受波动的一样，所以‘确定’的_法_是清晰且不可改变地区分开来的：它们是独特的个体，因此不会与其他_法_混淆。[其次，]由内在本质确定的确定不会发生变化或修改，因此，实际上是内在本质的类型或类别的_法_被确定为稳定和不可变的”（_同上_，562）。因此，在早期的舍利弗阿毘达磨注释文献中，_自性_被用作一个不受时间限制的、不变的标准，用来确定_法_是什么，而不一定是_法_是否存在。这里的关注点主要是什么使得_法_的类别类型独特，而不是_法_的本体论地位。
 
-然而，从前述的分类理论中，成熟的阿毘达磨从本体论的角度得出了关于_法_的实际性的结论。这种对_法_概念的转变与术语_自性_中固有的歧义相吻合，该术语在逻辑和词源上基于术语_本质_，后者开始表示“存在方式”（_同上_，565-568）。在_vibhāṣā_总汇和同时期的文献中，“对分类本身的明确强调在重要性上退居次要地位，重点转向澄清个别_法_的特性，最终转向个别_法_的本体论地位。因此，术语_自性_获得了“内在本质”的主导意义，指定个别_法_的存在\[…]通过独特的内在本质确定个别_法_也意味着肯定它们的存在，这是术语_自性_的词源意义和_法_作为经验的基本组成部分的作用的自然功能。这导致了一个新术语的突出，该术语表达了这种本体论的关注点，即_dravya_（实际存在）（_同上_，569）。_Dravya_意味着“真实存在”，在舍利弗阿毘达磨的框架内，由内在本质确定的_法_存在为真实实体（_dravyatas_），与临时存在的普通经验对象和相对的时间和地点的概念相对立。内在本质的存在表明，_法_是一个主要的存在，不论其时间状态如何，即过去、现在或未来的_法_，因此舍利弗阿毘达磨宣称“一切事物都存在”。
+然而，从前述的分类理论中，成熟的阿毘达磨从本体论的角度得出了关于_法_的实际性的结论。这种对_法_概念的转变与术语_自性_中固有的歧义相吻合，该术语在逻辑和词源上基于术语_本质_，后者开始表示“存在方式”（_同上_，565-568）。在_vibhāṣā_总汇和同时期的文献中，“对分类本身的明确强调在重要性上退居次要地位，重点转向澄清个别_法_的特性，最终转向个别_法_的本体论地位。因此，术语_自性_获得了“内在本质”的主导意义，指定个别_法_的存在[…]通过独特的内在本质确定个别_法_也意味着肯定它们的存在，这是术语_自性_的词源意义和_法_作为经验的基本组成部分的作用的自然功能。这导致了一个新术语的突出，该术语表达了这种本体论的关注点，即_dravya_（实际存在）（_同上_，569）。_Dravya_意味着“真实存在”，在舍利弗阿毘达磨的框架内，由内在本质确定的_法_存在为真实实体（_dravyatas_），与临时存在的普通经验对象和相对的时间和地点的概念相对立。内在本质的存在表明，_法_是一个主要的存在，不论其时间状态如何，即过去、现在或未来的_法_，因此舍利弗阿毘达磨宣称“一切事物都存在”。
 
-南传佛教拒绝了色声比丘教的本体论模型，声称“法”只存在于当下。但南传佛教的阿毘达磨与色声比丘教共享“法”的分析原则，作为一个区别有感知经验的范畴论理论。在这里，“有性”的分类功能在“法”的描述中引起了存在的本体论含义。作为阿毘达磨分析的最终单位，"法"被认为是经验的最基本组成部分。“没有其他任何东西，无论是一个存在、实体、人或者个体”，一个著名的南传佛经注释摘录宣称（Dhs-a 155）\[12]。虽然这个说法的目的是通过坚持没有除了"法"之外的存在，来反驳对人的现实的对立面，但也出现了这样的观点：在现象世界的底层，是一个由"法"组成的世界：在有感知经验的范围内，除了"法"之外没有其他真实存在，并且任何给定"法"都是作为一个离散的个体的内在本质所构成的。南传佛教在瞬间性理论的构想上阐述了"有性"的概念，并且将其作为对起源与终止瞬间的参照点来解释。在"法"发生之前，它还没有获得内在本质，当它终止时它将被剥夺这种内在本质。然而，作为一个现在的事件，同时拥有其内在本质，它存在于作为绝对现实的状态，并且它的内在本质证明了其作为这样的实际存在（Dhs-a 45; Vism VIII 234, XV 15）。一段注释性的文章甚至将这一瞬间称为“自我的获得”（Vism-mhṭ I 343）。
+南传佛教拒绝了色声比丘教的本体论模型，声称“法”只存在于当下。但南传佛教的阿毘达磨与色声比丘教共享“法”的分析原则，作为一个区别有感知经验的范畴论理论。在这里，“有性”的分类功能在“法”的描述中引起了存在的本体论含义。作为阿毘达磨分析的最终单位，"法"被认为是经验的最基本组成部分。“没有其他任何东西，无论是一个存在、实体、人或者个体”，一个著名的南传佛经注释摘录宣称（Dhs-a 155）[12]。虽然这个说法的目的是通过坚持没有除了"法"之外的存在，来反驳对人的现实的对立面，但也出现了这样的观点：在现象世界的底层，是一个由"法"组成的世界：在有感知经验的范围内，除了"法"之外没有其他真实存在，并且任何给定"法"都是作为一个离散的个体的内在本质所构成的。南传佛教在瞬间性理论的构想上阐述了"有性"的概念，并且将其作为对起源与终止瞬间的参照点来解释。在"法"发生之前，它还没有获得内在本质，当它终止时它将被剥夺这种内在本质。然而，作为一个现在的事件，同时拥有其内在本质，它存在于作为绝对现实的状态，并且它的内在本质证明了其作为这样的实际存在（Dhs-a 45; Vism VIII 234, XV 15）。一段注释性的文章甚至将这一瞬间称为“自我的获得”（Vism-mhṭ I 343）。
 
 ## [5. 因果：存在即运行](a-pi-da-mo-abhidharma-noa-ronkin.md)
 
@@ -104,7 +104,7 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 
 诸法论-分别说部派对于法的活动和能力的区分意味着每个法或意识瞬间会影响其系列中的下一个瞬间，但它也可以作为一个促成条件产生不同类型的效果。活动产生了一个法系列中的下一个瞬间，而能力则产生了不同的效果，并解释了过去法的因果效力。威廉姆斯（1981，246-247）有益地指出，我们可以将这种“水平”和“垂直”的因果关系理解为在一个意识系列内和超越它的因果关系。例如，视觉意识的瞬间水平地产生了下一个视觉意识的瞬间，并且可能或可能不会，取决于其他因素如光等，垂直地产生对物体的视觉。"由此可见，存在就意味着具有水平因果关系，可能或可能不包括垂直因果关系-这一事实提醒我们，我们在这里处理的是经常根据它们的行为在系统中定位的主要实体"（同上）。因此，活动或水平因果关系-一个法引发其自身意识系列的下一个瞬间的功能-将该法作为其特定事件个体化。一个法的能力或垂直因果关系，通过促进其意识系列之外的其他法的发生，将其定位在将其与其他法的不断兴起和消亡相连接的相互关系网络中，并通过展现其独特的质量和强度的运作进一步个体化它作为那个非常特定的法。
 
-阿毘达磨学派和南传上座部佛教发展出了与萨婆多本体论模型的拒绝相结合的因果条件的替代理论，并声称_法_只存在于现在。阿毘达磨学派通过引用“种子”（_bīja_）或后续_法_系列中的修改来解释过去和未来_法_之间的因果互动。阿毘达磨学派的种子理论是后来大乘佛教思想中两个极其重要的概念的先驱，即瑜伽行派的“存识”（_ālayavijñāna_）和佛性（_tathāgatagarbha_）（Cox 1995, 94–95; Gethin 1998, 222）。南传上座部佛教的因果条件理论在《帕他》中提出了一组二十四个条件关系（_paccaya_），解释了现象在影响另一个现象的产生方面的所有可能方式。这二十四个条件关系是：1）根本原因（_hetupaccaya_）；2）对象支持；3）优势；4）接近；5）接触；6）同时性；7）互惠；8）支持；9）决定性支持；10）先前存在；11）后续存在；12）习惯培养；13）业力；14）果报；15）食物；16）控制能力；17）禅定 - 一种特定于禅修成就的关系；18）道 - 一种特定于佛教道路阶段的关系；19）联结；20）分离；21）存在；22）不存在；23）消失；24）不消失。^\[^​^[15](https://plato.stanford.edu/entries/abhidharma/notes.html#note-15)^​^]^ 大多数南传上座部佛教的二十四个条件在萨婆多学派理论中都有对应物，两个体系还显示出其他各种相似的兴趣和相似之处。因此，很可能这两个体系在两个学派分离之前就已经产生，并在分离后继续发展（Conze 1962, 152–153; Kalupahana 1961, 173）。
+阿毘达磨学派和南传上座部佛教发展出了与萨婆多本体论模型的拒绝相结合的因果条件的替代理论，并声称_法_只存在于现在。阿毘达磨学派通过引用“种子”（_bīja_）或后续_法_系列中的修改来解释过去和未来_法_之间的因果互动。阿毘达磨学派的种子理论是后来大乘佛教思想中两个极其重要的概念的先驱，即瑜伽行派的“存识”（_ālayavijñāna_）和佛性（_tathāgatagarbha_）（Cox 1995, 94–95; Gethin 1998, 222）。南传上座部佛教的因果条件理论在《帕他》中提出了一组二十四个条件关系（_paccaya_），解释了现象在影响另一个现象的产生方面的所有可能方式。这二十四个条件关系是：1）根本原因（_hetupaccaya_）；2）对象支持；3）优势；4）接近；5）接触；6）同时性；7）互惠；8）支持；9）决定性支持；10）先前存在；11）后续存在；12）习惯培养；13）业力；14）果报；15）食物；16）控制能力；17）禅定 - 一种特定于禅修成就的关系；18）道 - 一种特定于佛教道路阶段的关系；19）联结；20）分离；21）存在；22）不存在；23）消失；24）不消失。^[^​^[15](https://plato.stanford.edu/entries/abhidharma/notes.html#note-15)^​^]^ 大多数南传上座部佛教的二十四个条件在萨婆多学派理论中都有对应物，两个体系还显示出其他各种相似的兴趣和相似之处。因此，很可能这两个体系在两个学派分离之前就已经产生，并在分离后继续发展（Conze 1962, 152–153; Kalupahana 1961, 173）。
 
 尽管存在差异，但萨婆多学派和南传上座部佛教的因果条件理论都基于_法_是心理物理事件，具有特定功能的观念，并且要定义_法_是什么，就需要确定它的功能（Gethin 1992A, 150）。因此，每个_法_在因果关系网络中的相对位置首先是其个体化的手段。这个网络只是在次要意义上分析因果效力。在这里重新出现的是_法_分析的范畴维度，即以条件关系的相同性为基础的心理事件的形而上学理论。类似于空间-时间坐标系可以帮助我们识别和描述物质对象，条件关系网络可以被看作是一个坐标系，用于定位其中的任何给定_法_，这意味着成为一个_法_就是成为一个在这些关系网中有位置的事件的概念，这与唐纳德·戴维森（Donald Davidson）关于因果关系的相同性作为事件身份的条件的原则相似（2001 119–120 & 154–161）。两个相同类型的_法_实例将以完全相同的方式适应因果条件网络，但然后根据其独特的因果效力程度和模式来区分为个体实例。
 
@@ -112,7 +112,7 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 
 在试图解释什么是解脱的洞见和觉悟心所以建立什么是觉悟心这一问题上，阿毘达磨的探讨扩展到认识论的领域。我们已经知道了，阿毘达磨对有情者的经验进行的分析揭示了我们所感知到的作为一系列时间延续、不间断的现象实际上是一系列迅速发生的因果相连的意识瞬间或称为“心”（即“citta”和“caitta/cetasika”的聚合体），每一个都有其特定的对象。因此，成熟的阿毘达磨将时间中的现象的分析视为由意识所构成，并结合了对意识过程的高度复杂描述，将有序连续的意识瞬间之间的因果关系融入到感知的活动中。如前所述，对阿毘达磨来说，如同佛教认识论一般，感官知觉是感知性有情体验的典范。与每一个意识瞬间一样，感官知觉是一种有意向性的行为，融入了感官器官之间的相互作用，它们对应的类型的辨别意识以及它们适当的感官对象。然而，不同的佛教学派在感知经验的独特性质和感官知觉的特定作用上持有不同的立场。对于南传阿毗达磨和舍卫部-毗婆舍那学派来说，它们都主张一种观点，即感知意识与其感觉对象直接接触，后者被理解为“感性物”，因为我们感知到的不是常识对象本身，而是它们的可感知的品质。我们可以将这种观点描述为现象主义实在论（Dreyfus 1997, 331 & 336）。
 
-南传阿毘达磨在其评论和手册中阐述了其意识过程（citta-vīthi）的理论，主要基于佛陀陀罗尼（公元5世纪）、佛达多（公元5世纪）和阿努鲁达（公元10或11世纪）的著作，这些著作是基于《法集》和《因明》中的早期描述而成的（《维摩诘》第14章111-124，第17章126-145；《法集释》82-106和267-287；《毗婆沙》155-160；《阿毗达磨释》17-21）。这一理论与法相分类和前面第2节中概述的对citta的分析并不是分开的。相反，与存在的概念（无论是范畴还是本体论）一致，它分析了感官知觉是由先前分类所揭示的八十九种citta类型执行的特定功能所导致的。根据这种分析，意识流中的特定功能发生在那个连续体的特定瞬间，因为正常的意识流涉及通过一系列相关心理因素的连续集合来接触和放下感官对象。结果是对心理和物质现象的相当静态的描述，它们在一系列意识瞬间中出现在意识中。^\[^​^[16](https://plato.stanford.edu/entries/abhidharma/notes.html#note-16)^​^]^
+南传阿毘达磨在其评论和手册中阐述了其意识过程（citta-vīthi）的理论，主要基于佛陀陀罗尼（公元5世纪）、佛达多（公元5世纪）和阿努鲁达（公元10或11世纪）的著作，这些著作是基于《法集》和《因明》中的早期描述而成的（《维摩诘》第14章111-124，第17章126-145；《法集释》82-106和267-287；《毗婆沙》155-160；《阿毗达磨释》17-21）。这一理论与法相分类和前面第2节中概述的对citta的分析并不是分开的。相反，与存在的概念（无论是范畴还是本体论）一致，它分析了感官知觉是由先前分类所揭示的八十九种citta类型执行的特定功能所导致的。根据这种分析，意识流中的特定功能发生在那个连续体的特定瞬间，因为正常的意识流涉及通过一系列相关心理因素的连续集合来接触和放下感官对象。结果是对心理和物质现象的相当静态的描述，它们在一系列意识瞬间中出现在意识中。^[^​^[16](https://plato.stanford.edu/entries/abhidharma/notes.html#note-16)^​^]^
 
 将描述限制在普通众生的意识过程中，可以描述两种类型的过程：五门过程（pañcadvāra）和心门过程（manodvāra）。这些过程可以连续发生，或者心门过程可以独立发生。五门过程解释了感官知觉，因为信息直接从五个物理感觉器官的领域中接收到。心门过程将通过感觉器官接收到的信息内化，并描述了陷入思考或记忆中的心灵。在佛教思想中，心灵被视为第六个感觉器官，心灵“门”上的对象可以是过去、现在或未来，纯粹是概念性的，甚至是超越性的。然而，通常情况下，心灵门口的对象要么是过去的记忆，要么是一个概念。如果没有感知活动，如深度无梦睡眠中的情况，心灵处于一种被称为无效模式（bhavaṅga）的休息状态。在一个人的一生中，同一类型的citta执行这种无效心灵的功能，这是心灵恢复到的自然模式。当一个概念或记忆发生时，且没有注意力集中在其他五个感觉领域时，心灵从无效模式切换到简单的心门过程。最简单的心门过程是以下功能的连续：1）注意到思维对象：持续一个瞬间，并作为对象支持内化；2）推动：持续最多七个瞬间，并执行心灵积极地对待对象的善恶业力功能；3）保持：将意识过程的对象保持一两个瞬间。
 
@@ -136,33 +136,33 @@ _首次发表于2010年8月16日；实质性修订于2022年6月1日_
 
 The texts are ordered according to the Pali/Sanskrit alphabet. References to Pali texts are to the editions of the Pali Text Society unless noted otherwise.
 
-* \[A] _Aṅguttara-nikāya_
-* \[Dhs-a] _Atthasālinī_ (_Dhammasaṅgaṇi_ commentary)
-* \[Abhidh-av] _Abhidhammāvatāra_
-* \[Abhidh-s] _Abhidhammatthasaṅgaha_
-* \[Akb] _Abhidharmakośabhāṣya_, P. Pradhan, (ed.), Patna: Jayaswal Research Institute, 1975
-* \[Kv] _Kathāvatthu_
-* \[Dhs] _Dhammasaṅgaṇi_
-* \[Dhs-mṭ] _Dhammasaṅgaṇi-mūlaṭīkā_ (_Dhammasaṅgaṇi_ sub-commentary)
-* \[Nett] _Nettippakaraṇa_
-* \[Paṭis] _Paṭisambhidāmagga_
-* \[Ps] _Papañcasūdanī_ (_Majjhima-nikāya_ commentary)
-* \[Peṭ] _Peṭakopadesa_
-* \[Bv] _Buddhavaṃsa_
-* \[M] _Majjhima-nikāya_
-* \[Mp] _Manorathapūraṇī_ (_Aṅguttara-nikāya_ commentary)
-* \[Mhv] _Mahāvaṃsa_
-* \[Mil] _Milindapañha_
-* \[Vin] _Vinaya-piṭaka_
-* \[Vibh] _Vibhaṅga_
-* \[Vibh-mṭ] _Vibhaṅga-mūlaṭīkā_ (_Vibhaṅga_ sub-commentary)
-* \[Vism] _Visuddhimagga_, H.C. Warren (ed.), Harvard Oriental Series, Cambridge: Harvard University Press, 1950
-* \[Vism-mhṭ] _Visuddhimagga-mahāṭīkā_ (_Visuddhimagga_ commentary)
-* \[S] _Saṃyutta-nikāya_
-* \[Paṭis-a] _Saddhammappakāsinī_ (_Paṭisambhidāmagga_ commentary)
-* \[Vibh-a] _Sammohavinodanī_ (_Vibhaṅga_ commentary)
-* \[Spk] _Sāratthappakāsinī_ (_Saṃyutta-nikāya_ commentary)
-* \[Sv] _Sumaṅgalavilāsinī_ (_Dīgha-nikāya_ commentary)
+* [A] _Aṅguttara-nikāya_
+* [Dhs-a] _Atthasālinī_ (_Dhammasaṅgaṇi_ commentary)
+* [Abhidh-av] _Abhidhammāvatāra_
+* [Abhidh-s] _Abhidhammatthasaṅgaha_
+* [Akb] _Abhidharmakośabhāṣya_, P. Pradhan, (ed.), Patna: Jayaswal Research Institute, 1975
+* [Kv] _Kathāvatthu_
+* [Dhs] _Dhammasaṅgaṇi_
+* [Dhs-mṭ] _Dhammasaṅgaṇi-mūlaṭīkā_ (_Dhammasaṅgaṇi_ sub-commentary)
+* [Nett] _Nettippakaraṇa_
+* [Paṭis] _Paṭisambhidāmagga_
+* [Ps] _Papañcasūdanī_ (_Majjhima-nikāya_ commentary)
+* [Peṭ] _Peṭakopadesa_
+* [Bv] _Buddhavaṃsa_
+* [M] _Majjhima-nikāya_
+* [Mp] _Manorathapūraṇī_ (_Aṅguttara-nikāya_ commentary)
+* [Mhv] _Mahāvaṃsa_
+* [Mil] _Milindapañha_
+* [Vin] _Vinaya-piṭaka_
+* [Vibh] _Vibhaṅga_
+* [Vibh-mṭ] _Vibhaṅga-mūlaṭīkā_ (_Vibhaṅga_ sub-commentary)
+* [Vism] _Visuddhimagga_, H.C. Warren (ed.), Harvard Oriental Series, Cambridge: Harvard University Press, 1950
+* [Vism-mhṭ] _Visuddhimagga-mahāṭīkā_ (_Visuddhimagga_ commentary)
+* [S] _Saṃyutta-nikāya_
+* [Paṭis-a] _Saddhammappakāsinī_ (_Paṭisambhidāmagga_ commentary)
+* [Vibh-a] _Sammohavinodanī_ (_Vibhaṅga_ commentary)
+* [Spk] _Sāratthappakāsinī_ (_Saṃyutta-nikāya_ commentary)
+* [Sv] _Sumaṅgalavilāsinī_ (_Dīgha-nikāya_ commentary)
 
 ### [Secondary Sources](a-pi-da-mo-abhidharma-noa-ronkin.md)
 
@@ -196,7 +196,7 @@ The texts are ordered according to the Pali/Sanskrit alphabet. References to Pal
 * Horner, I.B., 1941, “Abhidhamma abhivinaya,” _The Indian Historical Quarterly_, 17: 291–310.
 * Jayatilleke, K., 1963, _Early Buddhist Theory of Knowledge_, Delhi: Motilal Banarsidass.
 * Kalupahana, D., 1961, “A Prolegomena to the Philosophy of Relations in Buddhism,” _University of Ceylon Review_, 19: 167–194.
-* Karunadasa, Y., 1996, _The Dhamma Theory: Philosophical Cornerstone of the Abhidhamma_, The Wheel Publications No. 412/413, Kandy: Buddhist Publication Society. \[[Preprint available online](http://www.zeh-verlag.de/download/dhammatheory.pdf)]
+* Karunadasa, Y., 1996, _The Dhamma Theory: Philosophical Cornerstone of the Abhidhamma_, The Wheel Publications No. 412/413, Kandy: Buddhist Publication Society. [[Preprint available online](http://www.zeh-verlag.de/download/dhammatheory.pdf)]
 * –––, 2010, _Theravāda Abhidhamma: Its Inquiry into the Nature of Conditioned Reality_, Hong Kong: Centre for Buddhist Studies, University of Hong Kong, HKU: CBS publication series.
 * Kim, W.D., 1999, _The Theravādin Doctrine of Momentariness: A Survey of its Origins and Development_, unpublished D.Phil. thesis, University of Oxford.
 * Kragh, Ulrich T., 2002, “The Extant Abhidharma Literature,” _Indian International Journal of Buddhist Studies_, 3: 123–167.
@@ -217,14 +217,14 @@ The texts are ordered according to the Pali/Sanskrit alphabet. References to Pal
 | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abhidharma).                                                                      |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/abhidharma/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=abhidharma\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=abhidharma&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/abhidharma/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## [Other Internet Resources](a-pi-da-mo-abhidharma-noa-ronkin.md)
 
 Abhidharma translations, information, and lectures:
 
-* [Access to Insight](http://www.accesstoinsight.org/) \[Theravāda only]
+* [Access to Insight](http://www.accesstoinsight.org/) [Theravāda only]
 * [BuddhaNet](http://www.buddhanet.net/)
 
 Abhidhamma/Abhidharma canonical and exegetical texts in digital Pali and Sanskrit Buddhist canons:

@@ -5,9 +5,9 @@ _首次发布于2001年7月19日；实质性修订于2021年8月9日_
 在研究存在的事物时，人们很快就会遇到这样一种观点：每个实体都可以分为两类：_具体对象_或_抽象对象_。这种区分被认为对于形而上学（尤其是本体论）、认识论和形式科学哲学（尤其是数学哲学）具有基本意义；它也与语言哲学、心灵哲学和经验科学哲学的分析相关。本文概述了（a）关于如何划分这种区别的尝试和（b）关于抽象对象的主要理论及相关理论。
 
 * [1. 引言](https://plato.stanford.edu/entries/abstract-objects/#Intr)
-* [1.1 关于“对象”这个表达](https://plato.stanford.edu/entries/abstract-objects/#AbouExprObje) \* [1.2 关于抽象/具体区分](https://plato.stanford.edu/entries/abstract-objects/#AbouAbstDist) \* [2. 历史备注](https://plato.stanford.edu/entries/abstract-objects/#HistRema)
-* [2.1 区分的来源](https://plato.stanford.edu/entries/abstract-objects/#ProvDist) \* [2.2 当代辩论的初步概述](https://plato.stanford.edu/entries/abstract-objects/#InitOverContDeba) \* [3. 什么是抽象对象？](https://plato.stanford.edu/entries/abstract-objects/#WhatAbstObje)
-* [3.1 举例法和原始主义法](https://plato.stanford.edu/entries/abstract-objects/#WayExamWayPrim) \* [3.2 混淆法](https://plato.stanford.edu/entries/abstract-objects/#WayConf) \* [3.3 抽象法](https://plato.stanford.edu/entries/abstract-objects/#WayAbst) \* [3.4 抽象原则法](https://plato.stanford.edu/entries/abstract-objects/#WayAbstPrin) \* [3.5 否定法](https://plato.stanford.edu/entries/abstract-objects/#WaysNega) \* [3.6 编码法](https://plato.stanford.edu/entries/abstract-objects/#WayEnco) \* [3.7 弱化存在法](https://plato.stanford.edu/entries/abstract-objects/#WaysWeakExis) \* [3.8 消除主义](https://plato.stanford.edu/entries/abstract-objects/#Elim) \* [4. 进一步阅读](https://plato.stanford.edu/entries/abstract-objects/#FurtRead) \* [参考文献](https://plato.stanford.edu/entries/abstract-objects/#Bib) \* [学术工具](https://plato.stanford.edu/entries/abstract-objects/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/abstract-objects/#Oth) \* [相关条目](https://plato.stanford.edu/entries/abstract-objects/#Rel)
+* [1.1 关于“对象”这个表达](https://plato.stanford.edu/entries/abstract-objects/#AbouExprObje) * [1.2 关于抽象/具体区分](https://plato.stanford.edu/entries/abstract-objects/#AbouAbstDist) * [2. 历史备注](https://plato.stanford.edu/entries/abstract-objects/#HistRema)
+* [2.1 区分的来源](https://plato.stanford.edu/entries/abstract-objects/#ProvDist) * [2.2 当代辩论的初步概述](https://plato.stanford.edu/entries/abstract-objects/#InitOverContDeba) * [3. 什么是抽象对象？](https://plato.stanford.edu/entries/abstract-objects/#WhatAbstObje)
+* [3.1 举例法和原始主义法](https://plato.stanford.edu/entries/abstract-objects/#WayExamWayPrim) * [3.2 混淆法](https://plato.stanford.edu/entries/abstract-objects/#WayConf) * [3.3 抽象法](https://plato.stanford.edu/entries/abstract-objects/#WayAbst) * [3.4 抽象原则法](https://plato.stanford.edu/entries/abstract-objects/#WayAbstPrin) * [3.5 否定法](https://plato.stanford.edu/entries/abstract-objects/#WaysNega) * [3.6 编码法](https://plato.stanford.edu/entries/abstract-objects/#WayEnco) * [3.7 弱化存在法](https://plato.stanford.edu/entries/abstract-objects/#WaysWeakExis) * [3.8 消除主义](https://plato.stanford.edu/entries/abstract-objects/#Elim) * [4. 进一步阅读](https://plato.stanford.edu/entries/abstract-objects/#FurtRead) * [参考文献](https://plato.stanford.edu/entries/abstract-objects/#Bib) * [学术工具](https://plato.stanford.edu/entries/abstract-objects/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/abstract-objects/#Oth) * [相关条目](https://plato.stanford.edu/entries/abstract-objects/#Rel)
 
 ***
 
@@ -53,7 +53,7 @@ _首次发布于2001年7月19日；实质性修订于2021年8月9日_
 
 奎因的论证引发了一场至今仍在进行的辩论。各种名义主义的回应质疑了他论证中的一个或多个前提。例如，菲尔德（1980年）质疑了数学对我们最好的科学理论的必要性，即否定了上述的（i），因此面临着以名义主义术语重写古典和现代物理学的任务，以维持这一挑战。其他人则承担了稍微不那么艰巨的任务，即接受（i）但否定（ii）和（iii）；他们认为，即使我们最好的科学理论在规范化形式上量化了数学实体，这并不意味着对数学实体的承诺（参见Azzouni 1997a，1997b，2004; Balaguer 1996, 1998; Maddy 1995, 1997; Melia 2000, 2002; Yablo 1998, 2002, 2005, 2009; Leng 2010）。Colyvan（2010）为这第二组人创造了“easy-roaders”这个词，因为他们避免了用非数学术语解释我们最好的科学理论的“艰难之路”。
 
-相比之下，一些数学形而上学家（Colyvan 2001；Baker 2005，2009）通过提出所谓的“增强的不可或缺性论证”来完善奎因的观点（但请参见Saatsi 2011的回应）。一些参与者描述了这场辩论，希望能够解决僵局（有关讨论，请参见Baker 2017，Baron 2016，2020，Knowles＆Saatsi 2019以及Martínez-Vidal＆Rivas-de-Castro 2020）。^\[^​^[3](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-3)^​^]^
+相比之下，一些数学形而上学家（Colyvan 2001；Baker 2005，2009）通过提出所谓的“增强的不可或缺性论证”来完善奎因的观点（但请参见Saatsi 2011的回应）。一些参与者描述了这场辩论，希望能够解决僵局（有关讨论，请参见Baker 2017，Baron 2016，2020，Knowles＆Saatsi 2019以及Martínez-Vidal＆Rivas-de-Castro 2020）。^[^​^[3](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-3)^​^]^
 
 除了对奎因论证的辩论之外，形而上学和名义主义都引发了一些困难的问题。形而上学家不仅需要提供一个关于抽象对象存在的理论，还需要解释我们如何认知地接触和了解非因果的抽象实体。这个后一个问题在Benacerraf（1973）中开始了一场辩论，该辩论对数学对象提出了这样的困境。Benacerraf指出，因果参照理论似乎无法使我们能够知道数学陈述的真值条件，而他的论证适用于更一般的抽象实体。另一方面，名义主义者需要解释我们似乎在语言使用中诉诸这些实体的情况，尤其是那些在科学、数学、语言学和哲学研究中似乎是良好解释的情况（有关科学解释中使用抽象“类型”的讨论，请参见Wetzel 2009，1-22）。尽管名义主义者主张不存在抽象实体，但对它们存在的争议事实表明，形而上学家和名义主义者都承认抽象和具体之间的区别是有意义的。
 
@@ -67,9 +67,9 @@ _首次发布于2001年7月19日；实质性修订于2021年8月9日_
 
 文献中另一个名义主义的线索涉及到关于（假设的）抽象对象的句子是准断言的建议，即不能评估其真假（参见Yablo 2001和Kalderon 2005）。还有人认为，我们不应该相信关于抽象对象的句子，因为它们的功能，就像之前讨论的工具主义一样，是为了确保观察句子的经验充分性（Yablo 1998）。这可能涉及区分表面内容（涉及假设的抽象对象）和真实内容（仅涉及具体对象）之间的区别（Yablo 2001, 2002, 2010, 2014）。（有关这些虚构主义解释的更多信息，请参见Kalderon 2005年第3章和[虚构主义](https://plato.stanford.edu/entries/fictionalism/)词条。）
 
-文献中的最后一组观点代表了一种关于存在或关于成为对象的不可知论。这些观点并不否认外部物质世界的存在，而是从某种问题开始，即我们是否可以直接体验、观察和了解对象，无论是抽象的还是具体的，独立于我们的理论框架。例如，卡尔纳普（Carnap）（1950 \[1956]）从这样一个观念开始，即我们的科学知识必须以语言框架来表达，并且当我们希望提出关于一种新实体的理论时，我们必须有一个用于谈论这些实体的语言框架。然后，他区分了两种存在问题：关于新实体的存在的框架内部问题和关于框架本身的现实性的外部问题。如果框架涉及数字、集合、命题等抽象实体，那么内部问题可以通过对语言规则的逻辑分析来回答，例如它是否包含对抽象对象进行量化的术语或暗示性主张。但是，对于卡尔纳普来说，关于抽象实体是否真实存在的外部问题是一个伪问题，应该被视为一个实用性问题，即框架是否是一个有用的框架，用于科学或其他形式的探究。我们将在\[3.7.1]小节中更详细地讨论卡尔纳普的观点。
+文献中的最后一组观点代表了一种关于存在或关于成为对象的不可知论。这些观点并不否认外部物质世界的存在，而是从某种问题开始，即我们是否可以直接体验、观察和了解对象，无论是抽象的还是具体的，独立于我们的理论框架。例如，卡尔纳普（Carnap）（1950 [1956]）从这样一个观念开始，即我们的科学知识必须以语言框架来表达，并且当我们希望提出关于一种新实体的理论时，我们必须有一个用于谈论这些实体的语言框架。然后，他区分了两种存在问题：关于新实体的存在的框架内部问题和关于框架本身的现实性的外部问题。如果框架涉及数字、集合、命题等抽象实体，那么内部问题可以通过对语言规则的逻辑分析来回答，例如它是否包含对抽象对象进行量化的术语或暗示性主张。但是，对于卡尔纳普来说，关于抽象实体是否真实存在的外部问题是一个伪问题，应该被视为一个实用性问题，即框架是否是一个有用的框架，用于科学或其他形式的探究。我们将在[3.7.1]小节中更详细地讨论卡尔纳普的观点。
 
-有人认为卡尔纳普的观点提供了一种“通货紧缩”的对象观，因为似乎对象的存在与语言无关。在卡尔纳普的开创性文章之后，出现了几种其他通货紧缩的方法（Putnam 1987, 1990; Hirsch 2002, 2011; Sider 2007, 2009; Thomasson 2015），其中许多声称是对卡尔纳普观点的辩护。然而，也有一些通货紧缩的提议与卡尔纳普的方法相悖，其中包括通货紧缩名义主义（Azzouni 2010）或关于抽象对象的不可知论（Bueno 2008a, 2008b, 2020）。此外，受弗雷格（Frege）的工作启发的哲学家们提出了对对象的最小概念（Rayo 2013, Rayo 2020 \[其他互联网资源]；和Linnebo 2018）。我们将在\[3.7.2]小节中更详细地讨论其中一些观点。最后出现的一种不可知论立场是拒绝严格形而上学的版本，但同时指出，对数学实践的仔细分析（Maddy 2011）或对不可或缺性论证的增强版本（Leng 2020）都不足以决定名义主义和温和形而上学的版本之间的选择。在这些观点中，巴拉格尔（Balaguer）（1998）得出结论，这个问题没有答案，因为“充实的”形而上学的论证可以与反形而上学的同样好的论证一一对应。
+有人认为卡尔纳普的观点提供了一种“通货紧缩”的对象观，因为似乎对象的存在与语言无关。在卡尔纳普的开创性文章之后，出现了几种其他通货紧缩的方法（Putnam 1987, 1990; Hirsch 2002, 2011; Sider 2007, 2009; Thomasson 2015），其中许多声称是对卡尔纳普观点的辩护。然而，也有一些通货紧缩的提议与卡尔纳普的方法相悖，其中包括通货紧缩名义主义（Azzouni 2010）或关于抽象对象的不可知论（Bueno 2008a, 2008b, 2020）。此外，受弗雷格（Frege）的工作启发的哲学家们提出了对对象的最小概念（Rayo 2013, Rayo 2020 [其他互联网资源]；和Linnebo 2018）。我们将在[3.7.2]小节中更详细地讨论其中一些观点。最后出现的一种不可知论立场是拒绝严格形而上学的版本，但同时指出，对数学实践的仔细分析（Maddy 2011）或对不可或缺性论证的增强版本（Leng 2020）都不足以决定名义主义和温和形而上学的版本之间的选择。在这些观点中，巴拉格尔（Balaguer）（1998）得出结论，这个问题没有答案，因为“充实的”形而上学的论证可以与反形而上学的同样好的论证一一对应。
 
 　　For additional discussion about the basic positions in the debate about abstract and concrete objects, see Szabó 2003 and the entries on [nominalism in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) and [platonism in metaphysics](https://plato.stanford.edu/entries/platonism/), [nominalism in the philosophy of mathematics](https://plato.stanford.edu/entries/nominalism-mathematics/) and [platonism in the philosophy of mathematics](https://plato.stanford.edu/entries/platonism-mathematics/).
 
@@ -95,7 +95,7 @@ _首次发布于2001年7月19日；实质性修订于2021年8月9日_
 
 另一种方法是刘易斯所称的“抽象方式”。根据哲学心理学的长期传统，抽象是一种独特的心理过程，通过考虑几个对象或观念的共同特征并忽略区分这些对象的无关特征来形成新的思想或概念。例如，如果给定一系列形状和大小各异的白色物品，人们会忽略或“抽象出”它们之间的差异，从而获得抽象的白色概念。这一传统并不要求以这种方式形成的思想代表或对应于一种独特的对象。但可以认为，抽象对象和具体对象之间的区别应该通过参考抽象或类似的心理过程来解释。这种策略的最简单版本是说，如果一个对象是（或可能是）抽象思想的指称物，即通过抽象形成的思想，那么它就是抽象的。因此，所谓的“抽象方式”与过时的心灵哲学相结合。
 
-然而，值得一提的是，“抽象方式”的关键思想已经重新出现（虽然有所改变）在追溯到戴德金的数学结构主义观点中。戴德金通过“抽象方式”思考数字。戴德金提出，在定义一个数论结构时，“我们完全忽略元素的特殊性质，只保留它们的可区分性，并仅考虑它们之间的关系”（戴德金1888 \[1963, 68]）。这种观点导致一些结构主义者否认数字是抽象对象。例如，贝纳塞拉夫得出结论：“数字根本不是对象，因为在给出数字的属性（即必要和充分条件）时，你只是描述了一个‘抽象结构’——区别在于结构的‘元素’除了与同一结构的其他‘元素’相关之外没有其他属性”（1965, 70）。因此，我们将把注意力转向“抽象方式”的一种变体，这种变体导致许多哲学家得出结论，数字确实是抽象对象。
+然而，值得一提的是，“抽象方式”的关键思想已经重新出现（虽然有所改变）在追溯到戴德金的数学结构主义观点中。戴德金通过“抽象方式”思考数字。戴德金提出，在定义一个数论结构时，“我们完全忽略元素的特殊性质，只保留它们的可区分性，并仅考虑它们之间的关系”（戴德金1888 [1963, 68]）。这种观点导致一些结构主义者否认数字是抽象对象。例如，贝纳塞拉夫得出结论：“数字根本不是对象，因为在给出数字的属性（即必要和充分条件）时，你只是描述了一个‘抽象结构’——区别在于结构的‘元素’除了与同一结构的其他‘元素’相关之外没有其他属性”（1965, 70）。因此，我们将把注意力转向“抽象方式”的一种变体，这种变体导致许多哲学家得出结论，数字确实是抽象对象。
 
 ### 3.4 抽象原则的方式
 
@@ -171,9 +171,9 @@ _首次发布于2001年7月19日；实质性修订于2021年8月9日_
 
 在这里，第一个挑战是说一个事物是什么意思的“非心理的”，或者我们更常说的“独立于心灵的”。最简单的方法是说一个事物依赖于心灵，当它如果没有心灵的存在就不会（或者不能）存在。但是这意味着桌子和椅子是依赖于心灵的，而这不是哲学家们使用这个概念时的意思。在形而上学的背景下，称一个对象为“依赖于心灵”是在暗示它以某种方式归因于心智活动，但不是以普通工具的存在归因于心灵的无聊“因果”意义。这是什么意思呢？一个有希望的方法是说一个对象应该被认为是依赖于心灵的，当且仅当它在某个时间存在时，它是某个心理状态或过程的对象或内容。这将把桌子和椅子视为独立于心灵的，因为它们可能在思维物体的消亡后仍然存在。但是，它将典型的心理项目，比如一个人X可能意识到的紫色残影，视为依赖于心灵的，因为它们的存在似乎本质上是在它们存在时成为意识的对象。然而，这种解释是否完全捕捉到了预期概念的全部力量还不清楚。例如，考虑X的残影和Y的头痛的整体融合。如果有什么是心理实体的话，这肯定是一个心理实体。但它不一定是一个心理状态的对象。（即使没有人在思考它，这个融合也可以存在。）更宽容的概念将允许依赖于心灵的对象在某个时间存在，是由于那个时间的心智活动，即使这个对象不是任何单一心理状态或行为的对象。X的残影和Y的头痛的融合在第二个意义上是依赖于心灵的，但不是第一个意义上的。这是偏好第二个依赖于心灵的解释的一个理由。
 
-如果我们以这种方式理解依赖于心灵的概念，坚持认为抽象对象是独立于心灵的是一个错误。为了强调一个主题，人们普遍认为集合和类是抽象实体，即使是那些其元素是具体对象的“不纯”集合。任何将集合论构造，如{Alfred,{Betty,{Charlie,Deborah\}}}这样的放在具体一边的抽象/具体区分的解释都将与标准用法严重不符。考虑一下只有X的残影和Y的头痛作为成员的集合，或者基于这些项目的更复杂的集合论对象。如果我们假设，合理地假设，一个不纯集合只有在其成员在那个时间存在时才存在，那么这将是一个在宽容意义上依赖于心灵的实体。但它也很可能是一个抽象实体。
+如果我们以这种方式理解依赖于心灵的概念，坚持认为抽象对象是独立于心灵的是一个错误。为了强调一个主题，人们普遍认为集合和类是抽象实体，即使是那些其元素是具体对象的“不纯”集合。任何将集合论构造，如{Alfred,{Betty,{Charlie,Deborah}}}这样的放在具体一边的抽象/具体区分的解释都将与标准用法严重不符。考虑一下只有X的残影和Y的头痛作为成员的集合，或者基于这些项目的更复杂的集合论对象。如果我们假设，合理地假设，一个不纯集合只有在其成员在那个时间存在时才存在，那么这将是一个在宽容意义上依赖于心灵的实体。但它也很可能是一个抽象实体。
 
-类似的问题也出现在所谓的“抽象艺术品”上，比如简·奥斯汀的小说和其中的角色。一些哲学家认为这些物品是永恒存在的抽象实体，世俗的作者只是描述而非创造。但当然，常识观点是奥斯汀创造了《傲慢与偏见》和伊丽莎白·贝内特，没有充分的理由否认这一点（Thomasson 1999；参见Sainsbury 2009）。如果我们采取这种常识性的方法，这些物品在存在上就依赖于奥斯汀的思维活动，也许还依赖于后来的读者的思维活动\[^5]。这些物品在上述两种意义上可能不被视为依赖于心智，因为即使在某个时间没有人在思考，傲慢与偏见也可以存在（如果世界短暂地集体打盹，傲慢与偏见不会消失）。但它们在某种非仅仅因果关系的意义上显然是依赖于心智的。然而，它们仍然很可能是抽象对象。因此，坚持抽象对象必须是心智独立的可能是一个错误（有关心智依赖的更多信息，请参见Rosen 1994和条目[数学哲学中的形而上学](https://plato.stanford.edu/entries/platonism/)）。
+类似的问题也出现在所谓的“抽象艺术品”上，比如简·奥斯汀的小说和其中的角色。一些哲学家认为这些物品是永恒存在的抽象实体，世俗的作者只是描述而非创造。但当然，常识观点是奥斯汀创造了《傲慢与偏见》和伊丽莎白·贝内特，没有充分的理由否认这一点（Thomasson 1999；参见Sainsbury 2009）。如果我们采取这种常识性的方法，这些物品在存在上就依赖于奥斯汀的思维活动，也许还依赖于后来的读者的思维活动[^5]。这些物品在上述两种意义上可能不被视为依赖于心智，因为即使在某个时间没有人在思考，傲慢与偏见也可以存在（如果世界短暂地集体打盹，傲慢与偏见不会消失）。但它们在某种非仅仅因果关系的意义上显然是依赖于心智的。然而，它们仍然很可能是抽象对象。因此，坚持抽象对象必须是心智独立的可能是一个错误（有关心智依赖的更多信息，请参见Rosen 1994和条目[数学哲学中的形而上学](https://plato.stanford.edu/entries/platonism/)）。
 
 弗雷格的原始提议在其他方面也失败了。夸克和电子通常被认为既不是可感知的，也不是依赖于心智的。然而，它们也不是抽象对象。弗雷格提议的一个更好版本将会是：
 
@@ -203,7 +203,7 @@ _首次发布于2001年7月19日；实质性修订于2021年8月9日_
 
 一个对象只有在它无法占据任何确定的空间区域（或时空）时，才是抽象的。
 
-这个有前途的想法引发了几个问题。首先，可以想象某些通常被视为抽象的物品可能仍然占据确定的空间和时间。例如，考虑由彼得和保罗组成的各种集合：{彼得，保罗}，{彼得，{彼得，{保罗\}}}等等。我们通常不会问这些东西在哪里，或者占据多少空间。事实上，许多哲学家会说这个问题毫无意义，或者回答是“无处，没有”。但这个答案并不是由集合论或形而上学中的任何东西强加给我们的。即使我们承认纯集合只与空间有最微不足道的关系，我们仍然可以像一些哲学家所做的那样认为，不纯的集合存在于它们的成员所在的地方和时间（Lewis 1986a）。说一个书籍集合位于图书馆的某个书架上并不奇怪，事实上，有一些理论上的原因支持这样说（Maddy 1990）。在这种观点下，我们面临一个选择：我们可以说，由于不纯的集合存在于空间中，它们实际上不是抽象对象；或者我们可以说，由于不纯的集合是抽象的，认为抽象对象不能占据空间是一个错误。
+这个有前途的想法引发了几个问题。首先，可以想象某些通常被视为抽象的物品可能仍然占据确定的空间和时间。例如，考虑由彼得和保罗组成的各种集合：{彼得，保罗}，{彼得，{彼得，{保罗}}}等等。我们通常不会问这些东西在哪里，或者占据多少空间。事实上，许多哲学家会说这个问题毫无意义，或者回答是“无处，没有”。但这个答案并不是由集合论或形而上学中的任何东西强加给我们的。即使我们承认纯集合只与空间有最微不足道的关系，我们仍然可以像一些哲学家所做的那样认为，不纯的集合存在于它们的成员所在的地方和时间（Lewis 1986a）。说一个书籍集合位于图书馆的某个书架上并不奇怪，事实上，有一些理论上的原因支持这样说（Maddy 1990）。在这种观点下，我们面临一个选择：我们可以说，由于不纯的集合存在于空间中，它们实际上不是抽象对象；或者我们可以说，由于不纯的集合是抽象的，认为抽象对象不能占据空间是一个错误。
 
 一种解决这个困难的方法是注意到，即使不纯的集合占据空间，它们也是以派生的方式占据。集合 **{** 彼得 **,** 保罗 **}** {彼得, 保罗} 之所以占据一个位置，是因为它的具体元素彼得和保罗一起占据了那个位置。该集合并不是以自身的权利占据该位置。考虑到这一点，可以说：
 
@@ -247,7 +247,7 @@ Cowling（2017年，86-89页）分析了抽象/具体区分是否有益，尽管
 
 **x**是一个抽象对象，当且仅当不存在一个与**x**在质性上无法区分但与**x**不同的对象。
 
-然而，可以通过考虑两个具体对象的反例来对上述提议进行反驳，这两个对象在其内在质性属性上是无法区分的。Cowling（2017）考虑了一个可能世界的情况，该世界只有两个完全球形的球体，**A**和**B**，它们共享相同的内在质性属性，并且在一定距离上漂浮。因此，**A**和**B**是不同的具体对象，但在其内在质性属性上是无法区分的。^\[^​^[7](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-7)^​^]^ 但是，Lewis指出“如果两个个体无法区分，那么它们的单元集合也无法区分”（1986a，84）。如果这是正确的，**{** A **}** {�}和\*\*{\*\* B **}** {�}将是无法区分的，但（至少对于某些哲学家来说）是不同的抽象对象，与可辨别性准则相矛盾。^\[^​^[8](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-8)^​^]^ 可以提出一个反驳观点，即我们可以愉快地接受不纯的集合作为具体对象；毕竟，它们的分类一直不太清楚。显然，这会导致一些集合（纯集合）被视为抽象对象，而其他集合（不纯集合）被视为具体对象，这是一个有问题的后果。但是，认为抽象对象具有独特的内在本质的想法可以建立一个比可辨别性更弱的准则；如果一个实体具有独特的内在本质，它就不可能有一个重复体。因此，可以提出非重复的下一个准则：
+然而，可以通过考虑两个具体对象的反例来对上述提议进行反驳，这两个对象在其内在质性属性上是无法区分的。Cowling（2017）考虑了一个可能世界的情况，该世界只有两个完全球形的球体，**A**和**B**，它们共享相同的内在质性属性，并且在一定距离上漂浮。因此，**A**和**B**是不同的具体对象，但在其内在质性属性上是无法区分的。^[^​^[7](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-7)^​^]^ 但是，Lewis指出“如果两个个体无法区分，那么它们的单元集合也无法区分”（1986a，84）。如果这是正确的，**{** A **}** {�}和**{** B **}** {�}将是无法区分的，但（至少对于某些哲学家来说）是不同的抽象对象，与可辨别性准则相矛盾。^[^​^[8](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-8)^​^]^ 可以提出一个反驳观点，即我们可以愉快地接受不纯的集合作为具体对象；毕竟，它们的分类一直不太清楚。显然，这会导致一些集合（纯集合）被视为抽象对象，而其他集合（不纯集合）被视为具体对象，这是一个有问题的后果。但是，认为抽象对象具有独特的内在本质的想法可以建立一个比可辨别性更弱的准则；如果一个实体具有独特的内在本质，它就不可能有一个重复体。因此，可以提出非重复的下一个准则：
 
 **x**是一个抽象对象，当且仅当不存在一个与**x**重复但与**x**不同的对象。
 
@@ -255,7 +255,7 @@ Cowling（2017年，86-89页）分析了抽象/具体区分是否有益，尽管
 
 ### 3.6 编码的方式
 
-关于抽象对象的最严格的提议之一是由Zalta（1983年，1988年以及一系列论文）发展而来的。这是一个形式化的、公理化的形而上学对象理论（包括抽象对象和具体对象），还包括了关于属性、关系和命题的理论。该理论明确地定义了“抽象对象”的概念，但也隐含地使用公理来描述它们。\[^​^[9](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-9)^​^]^ 该理论有三个核心方面：（i）一个谓词**E**!�!，适用于具体实体，并用于定义“抽象”和“普通”对象之间的模态区别；（ii）一种区分“举例关系”和“编码属性”（即编码一元关系）的方式；以及（iii）一个包含了抽象对象存在条件的理解模式。
+关于抽象对象的最严格的提议之一是由Zalta（1983年，1988年以及一系列论文）发展而来的。这是一个形式化的、公理化的形而上学对象理论（包括抽象对象和具体对象），还包括了关于属性、关系和命题的理论。该理论明确地定义了“抽象对象”的概念，但也隐含地使用公理来描述它们。[^​^[9](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-9)^​^]^ 该理论有三个核心方面：（i）一个谓词**E**!�!，适用于具体实体，并用于定义“抽象”和“普通”对象之间的模态区别；（ii）一种区分“举例关系”和“编码属性”（即编码一元关系）的方式；以及（iii）一个包含了抽象对象存在条件的理解模式。
 
 　　(i) Since the theory has both a quantifier **∃** ∃ and a predicate **E**!�!, Zalta offers two interpretations of his theory (1983, 51–2; 1988, 103–4). On one interpretation, the quantifier **∃** ∃ simply asserts _there is_ and the predicate **E**!�! asserts _existence_. On this interpretation, a formula such as **∃** x **¬** E **!** x∃�¬�!�, which is implied by the axioms described below, asserts “there is an object that fails to exist”. So, on this interpretation, the theory is Meinongian because it endorses non-existent objects. But there is a Quinean interpretation as well, on which the quantifier **∃** ∃ asserts _existence_ and the predicate **E**!�! asserts _concreteness_. On this interpretation, the formula **∃** x **¬** E **!** x∃�¬�!� asserts “there exists an object that fails to be concrete”. So, on this interpretation, the theory is Platonist, since it doesn’t endorse non-existents but rather asserts the existence of non-concrete objects. We’ll henceforth use the Quinean/Platonist interpretation.
 
@@ -263,7 +263,7 @@ Cowling（2017年，86-89页）分析了抽象/具体区分是否有益，尽管
 
 　　O **!** x **=** d**f**◊**E**!**x**A **!** x **=** d**f**¬**O**!**x**�!�=��◊�!��!�=��¬�!�Thus, the ordinary objects include all the concrete objects (since **E**!**x**�!� implies **◊** E **!** x◊�!�), as well as possible objects that aren’t in fact concrete but might have been. On this theory, therefore, _being abstract_ is not the negation of _being concrete_. Instead, the definition validates an intuition that numbers, sets, etc., aren’t the kind of thing that could be concrete. Though Zalta’s definition of _abstract_ seems to comport with the _way of primitivism_—take _concrete_ as primitive, and then define _abstract_ as _not possibly concrete_—it differs in that (a) axioms are stated that govern the conditions under which abstract objects exist (see below), and (b) the features commonly ascribed to abstract objects are _derived_ from principles that govern the property of being concrete. For example, Zalta accepts principles such as: necessarily, anything with causal powers is concrete (i.e., **□** ∀**x**(**C**x **→** E **!** x **)** ◻∀�(��→�!�)). Then since abstract objects are, by definition, concrete at no possible world, they necessarily fail to have causal powers.
 
-　　(ii) The distinction between _exemplifying_ and _encoding_ is a primitive one and is represented in the theory by two atomic formulas: **F**n**x**1 **…** x**n**���1…�� **(** x**1**, **…** ,**x**n(�1,…,�� _exemplify_ **F**n��) and **x**F**1**��1 **(** x(� _encodes_ **F**1 **)** .�1). While both ordinary and abstract objects exemplify properties, only abstract objects encode properties;^\[^​^[10](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-10)^​^]^ it is axiomatic that ordinary objects necessarily fail to encode properties **(** O **!** x **→** □ **¬** ∃**F**x**F**) **.** (�!�→◻¬∃���). Zalta’s proposal can be seen a positive metaphysical proposal distinct from all the others we have considered; a positive proposal that uses encoding as a key notion to characterize abstract objects. On this reading, the definitions and axioms of the theory convey what is meant by _encoding_ and how it works. Intuitively, an abstract object _encodes_ the properties by which we define or conceive of it, but exemplifies some properties contingently and others necessarily. Thus, the number 1 of Dedekind-Peano number theory encodes all and only its number-theoretic properties, and whereas it contingently exemplifies the property _being thought about by Peano_, it necessarily exemplifies properties such as _being abstract_, _not having a shape_, _not being a building_, etc. The distinction between exemplifying and encoding a property is also used to define identity: ordinary objects are identical whenever they necessarily exemplify the same properties while abstract objects are identical whenever they necessarily encode the same properties.
+　　(ii) The distinction between _exemplifying_ and _encoding_ is a primitive one and is represented in the theory by two atomic formulas: **F**n**x**1 **…** x**n**���1…�� **(** x**1**, **…** ,**x**n(�1,…,�� _exemplify_ **F**n��) and **x**F**1**��1 **(** x(� _encodes_ **F**1 **)** .�1). While both ordinary and abstract objects exemplify properties, only abstract objects encode properties;^[^​^[10](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-10)^​^]^ it is axiomatic that ordinary objects necessarily fail to encode properties **(** O **!** x **→** □ **¬** ∃**F**x**F**) **.** (�!�→◻¬∃���). Zalta’s proposal can be seen a positive metaphysical proposal distinct from all the others we have considered; a positive proposal that uses encoding as a key notion to characterize abstract objects. On this reading, the definitions and axioms of the theory convey what is meant by _encoding_ and how it works. Intuitively, an abstract object _encodes_ the properties by which we define or conceive of it, but exemplifies some properties contingently and others necessarily. Thus, the number 1 of Dedekind-Peano number theory encodes all and only its number-theoretic properties, and whereas it contingently exemplifies the property _being thought about by Peano_, it necessarily exemplifies properties such as _being abstract_, _not having a shape_, _not being a building_, etc. The distinction between exemplifying and encoding a property is also used to define identity: ordinary objects are identical whenever they necessarily exemplify the same properties while abstract objects are identical whenever they necessarily encode the same properties.
 
 (iii) 理解原则断言，对于每个可表达的属性条件，存在一个抽象对象，该对象恰好编码满足该条件的属性。形式上：**∃** x **(** A **!** x **&** ∀**F**(**x**F **≡** ϕ **)** )∃�(�!�&∀�(��≡�))，其中 **ϕ**� 不包含自由的 **x**�。这个模式的每个实例断言了某种类型的抽象对象的存在。例如，当‘**s**�’表示苏格拉底时，实例 **∃** x **(** A **!** x **&** ∀**F**(**x**F **≡** F**s**) **)** ∃�(�!�&∀�(��≡��)) 断言存在一个抽象对象，该对象恰好编码了苏格拉底所具有的属性。Zalta使用这个对象来分析苏格拉底的完整个体概念。但是，任何对属性条件的 **ϕ**�，其中不包含自由的 **x**� 的条件，都可以用来形成理解的实例。事实上，可以证明所断言的对象是唯一的，因为不能存在两个不同的抽象对象，恰好编码满足 **ϕ**� 的属性。
 
@@ -275,13 +275,13 @@ Cowling（2017年，86-89页）分析了抽象/具体区分是否有益，尽管
 
 Zalta使用他的理论来分析柏拉图的形式、概念、可能世界、弗雷格的数和弗雷格的意义、虚构和数学对象以及一般的关系。然而，一些哲学家认为他的理解原则过于包容，因为除了这些对象之外，它还断言存在像“圆方”或“包含所有不是自身成员的集合”的实体。该理论并不断言任何东西是“具有”圆和方的——该理论保留了传统的谓词形式而不引起矛盾。但它确实断言存在一个抽象对象，编码了圆和方的属性，以及存在一个抽象对象，编码了包含所有非自身成员集合的属性。Zalta会回应说，这样的对象不仅需要用来陈述涉及“圆方”和“罗素集合”等表达式的句子的真实条件，并解释不一致故事和不一致理论（例如，弗雷格的外延）的虚构角色，还需要用来分析。
 
-值得注意的是，Zalta对抽象对象的理解原则是无限制的，因此构成了一个“充实”原则。这使得该理论能够为任意数学理论提供对象。对于数学理论T中的术语τ，理解原则产生一个唯一的对象，它编码了T中归属于τ的所有且仅有的属性F（Linsky＆Zalta 1995，Nodelman＆Zalta 2014）。^\[^​^[12](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-12)^​^]^因此，Zalta的理论提供了显著的解释能力，因为它在不同领域的哲学中有多种应用，并推进了一系列难题的解决方案。^\[^​^[13](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-13)^​^]^
+值得注意的是，Zalta对抽象对象的理解原则是无限制的，因此构成了一个“充实”原则。这使得该理论能够为任意数学理论提供对象。对于数学理论T中的术语τ，理解原则产生一个唯一的对象，它编码了T中归属于τ的所有且仅有的属性F（Linsky＆Zalta 1995，Nodelman＆Zalta 2014）。^[^​^[12](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-12)^​^]^因此，Zalta的理论提供了显著的解释能力，因为它在不同领域的哲学中有多种应用，并推进了一系列难题的解决方案。^[^​^[13](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-13)^​^]^
 
 ### 3.7 弱化存在的方式
 
 许多哲学家认为抽象对象以某种薄弱、空洞的方式存在。在本节中，我们考虑了一个观点，即抽象/具体的区别可以通过说抽象对象以比具体对象更脆弱的方式存在来进行_定义_。
 
-传统的柏拉图主义观念是一种现实主义观念：抽象对象以与自然界中的对象存在相同的充实意义存在——它们是独立于心智的，而不是人类努力的产物或以任何方式依赖具体对象。但是，现在已经在文献中确立的一些贬低、元本体论观点基于这样一个观点：传统柏拉图主义者面临的问题与“关于如何指定一个对象所需的一些非常普遍的预设”有关，而不是与“所需对象的抽象性”有关（Linnebo 2018, 42）。这些观点表明，抽象对象以某种较弱的意义存在。因此，各种方法阐述了可能被称为削弱存在方式的方式。一个明显的先例是Carnap 1950 \[1956]，他的贬低方法可能走得最远；Carnap拒绝了对“真正存在的东西”（即使是具体对象的情况下）的形而上学追求，因为他认为问题“**X**是否真的存在？”是伪问题（如果独立于某种语言框架提出）。
+传统的柏拉图主义观念是一种现实主义观念：抽象对象以与自然界中的对象存在相同的充实意义存在——它们是独立于心智的，而不是人类努力的产物或以任何方式依赖具体对象。但是，现在已经在文献中确立的一些贬低、元本体论观点基于这样一个观点：传统柏拉图主义者面临的问题与“关于如何指定一个对象所需的一些非常普遍的预设”有关，而不是与“所需对象的抽象性”有关（Linnebo 2018, 42）。这些观点表明，抽象对象以某种较弱的意义存在。因此，各种方法阐述了可能被称为削弱存在方式的方式。一个明显的先例是Carnap 1950 [1956]，他的贬低方法可能走得最远；Carnap拒绝了对“真正存在的东西”（即使是具体对象的情况下）的形而上学追求，因为他认为问题“**X**是否真的存在？”是伪问题（如果独立于某种语言框架提出）。
 
 但是还有其他方法可以表明抽象对象具有对世界的要求很少的存在条件。例如，Linsky＆Zalta（1995, 532）认为，抽象对象的心智独立性和客观性与物理对象不同：抽象对象不受外观/现实区分的限制，它们不以需要经验调查发现的“稀疏”方式存在，并且它们不是完整的对象（例如，数学对象仅通过它们的数学属性来定义）。他们使用这个概念来“自然化”Zalta对抽象对象的理解原则。
 
@@ -289,19 +289,19 @@ Zalta使用他的理论来分析柏拉图的形式、概念、可能世界、弗
 
 #### 3.7.1 语言规则的标准
 
-卡尔纳普认为关于实体（具体或抽象）的“真实”存在的主张没有认知内容。它们是伪陈述。然而，他承认：（a）科学中有使用指代数学实体（如数字）的术语的句子；和（b）语义分析似乎需要像属性和命题这样的实体。由于数学实体、属性和命题传统上被认为是抽象的，他想澄清如何能够接受涉及抽象实体的语言，而不采用他认为是关于这些实体客观实在性的伪句。卡尔纳普的著名论文（1950 \[1956]）试图展示，在不接受柏拉图主义的情况下，可以使用涉及抽象实体的语言。
+卡尔纳普认为关于实体（具体或抽象）的“真实”存在的主张没有认知内容。它们是伪陈述。然而，他承认：（a）科学中有使用指代数学实体（如数字）的术语的句子；和（b）语义分析似乎需要像属性和命题这样的实体。由于数学实体、属性和命题传统上被认为是抽象的，他想澄清如何能够接受涉及抽象实体的语言，而不采用他认为是关于这些实体客观实在性的伪句。卡尔纳普的著名论文（1950 [1956]）试图展示，在不接受柏拉图主义的情况下，可以使用涉及抽象实体的语言。
 
 为了实现这些目标，卡尔纳普首先指出，在对某种确定类型的实体提出存在问题之前，首先必须有一种语言或“语言框架”，使人们能够谈论所讨论的实体类型。然后，他将在这样的语言框架内表达的“内部”存在问题与关于框架的“外部”存在问题区分开来。只有后者询问该框架的实体是否客观存在。正如我们将在下面看到的，卡尔纳普认为，在框架内部的存在问题可以通过经验调查或逻辑分析来回答，这取决于框架所涉及的实体类型。相比之下，卡尔纳普将外部问题（例如，“X是否存在？”无论是关于语言框架还是独立于语言框架表达）视为伪问题：尽管它们似乎是理论问题，但实际上它们只是关于语言框架在科学中的实用性的实际问题。
 
-Carnap的论文（1950 \[1956]）考虑了各种语言框架，例如：可观察的事物（即，可观察的事物和事件的时空有序系统），自然数和整数，命题，物体属性，有理数和实数，以及时空坐标系统。每个框架都是通过开发一种语言来建立的，该语言通常包括与所讨论的一种或多种实体相关的表达式，与所讨论的实体的属性相关的表达式（包括每种实体的一般类别术语），以及范围涵盖这些实体的变量。因此，用于可观察事物系统的框架具有表示这些事物的表达式（如“地球”，“埃菲尔铁塔”等），表示这些事物属性的表达式（如“行星”，“由金属制成”等），以及范围涵盖可观察事物的变量。自然数的框架具有表示它们的表达式（如“0”，“2+5”），表示数字属性的表达式（如“质数”，“奇数”），包括一般类别术语“数字”的表达式，以及范围涵盖数字的变量。
+Carnap的论文（1950 [1956]）考虑了各种语言框架，例如：可观察的事物（即，可观察的事物和事件的时空有序系统），自然数和整数，命题，物体属性，有理数和实数，以及时空坐标系统。每个框架都是通过开发一种语言来建立的，该语言通常包括与所讨论的一种或多种实体相关的表达式，与所讨论的实体的属性相关的表达式（包括每种实体的一般类别术语），以及范围涵盖这些实体的变量。因此，用于可观察事物系统的框架具有表示这些事物的表达式（如“地球”，“埃菲尔铁塔”等），表示这些事物属性的表达式（如“行星”，“由金属制成”等），以及范围涵盖可观察事物的变量。自然数的框架具有表示它们的表达式（如“0”，“2+5”），表示数字属性的表达式（如“质数”，“奇数”），包括一般类别术语“数字”的表达式，以及范围涵盖数字的变量。
 
-对于Carnap来说，语言框架中的每个陈述都应具有可以通过分析或经验方法确定的真值。如果一个陈述在逻辑上是真（或假），或者如果它的真值仅可以根据语言规则或其组成表达式之间的语义关系来确定，那么它的真值是可以通过分析确定的。当一个陈述在感知到的证据的光下可以被证实（或证伪）时，它是可以通过经验确定的。请注意，试图根据证据来证实关于物理对象的经验性陈述的尝试要求我们采用事物的框架语言。然而，Carnap警告我们，“这不能被解释为接受对事物世界的现实的_信仰_；因为这不是一个理论问题”（1950 \[1956, 208]）。对于Carnap来说，接受本体论“仅仅意味着接受一种特定的语言形式，换句话说，接受形成陈述和测试、接受或拒绝它们的规则”（1950 \[1956, 208]）。
+对于Carnap来说，语言框架中的每个陈述都应具有可以通过分析或经验方法确定的真值。如果一个陈述在逻辑上是真（或假），或者如果它的真值仅可以根据语言规则或其组成表达式之间的语义关系来确定，那么它的真值是可以通过分析确定的。当一个陈述在感知到的证据的光下可以被证实（或证伪）时，它是可以通过经验确定的。请注意，试图根据证据来证实关于物理对象的经验性陈述的尝试要求我们采用事物的框架语言。然而，Carnap警告我们，“这不能被解释为接受对事物世界的现实的_信仰_；因为这不是一个理论问题”（1950 [1956, 208]）。对于Carnap来说，接受本体论“仅仅意味着接受一种特定的语言形式，换句话说，接受形成陈述和测试、接受或拒绝它们的规则”（1950 [1956, 208]）。
 
 Carnap对每个语言框架都采取这种方法，无论它是关于物理、具体事物的框架，还是关于抽象实体（如数字、属性、概念、命题等）的框架。对他来说，接受给定语言框架的实用理由是它具有解释力，统一解释不同类型的数据和现象，更高效地表达主张等。我们经常选择一个框架来达到特定的解释目的。因此，我们可能会选择一个带有关于抽象实体的表达式的框架来进行“阐释”（即概念的阐明）或者为自然语言开发语义。对于Carnap来说，选择哲学上的形而上学或名义主义并不是一个合理的选择；它们都是对外部伪问题的不恰当回答。
 
 如前所述，对于“有桌子”和“有独角兽”等存在性主张，它们是在可观察实体的框架内表达的，其真实性需要通过经验观察和调查来确定，因为需要依赖经验。这些陈述并不是由语言规则决定的真实性。相比之下，像“有数字”（“∃xNx”）这样在数论框架内表达的存在性主张，或者像“存在一个属性F，使得x和y都是F”（“∃F(Fx & Fy)”）这样在属性理论框架内表达的存在性主张，可以通过分析来确定。对于这些陈述，要么是语言规则的一部分（例如，作为控制语言术语的公理），要么可以从语言规则中推导出来。当这些陈述是构成语言框架的规则的一部分时，它们被认为是“分析的”，与从这些规则中推导出来的存在性陈述一样。
 
-所有刚才讨论的存在断言都是各自语言框架内部的。卡尔纳普认为，“存在”一词只能给予内部意义。关于事物或抽象对象存在的内部问题并非关于它们真实的形而上学存在的问题。因此，更适合描述他的观点为包含一种泄气的对象观念。卡尔纳普得出结论：“关于某种类型的实体或关于抽象实体作为指称的可接受性的问题，归结为对这些实体的语言框架的可接受性的问题”（1950 \[1956, 217]）。
+所有刚才讨论的存在断言都是各自语言框架内部的。卡尔纳普认为，“存在”一词只能给予内部意义。关于事物或抽象对象存在的内部问题并非关于它们真实的形而上学存在的问题。因此，更适合描述他的观点为包含一种泄气的对象观念。卡尔纳普得出结论：“关于某种类型的实体或关于抽象实体作为指称的可接受性的问题，归结为对这些实体的语言框架的可接受性的问题”（1950 [1956, 217]）。
 
 因此，对于每个框架（无论是描述经验对象、抽象对象还是两者混合的框架），都可以制定简单和复杂的存在性陈述。根据卡尔纳普的观点，每个简单的存在性陈述要么是经验的，要么是分析的。如果一个简单陈述是经验的，其真值可以通过经验调查和考虑框架规则来确定；如果简单的存在性陈述是分析的，那么它的真值可以简单地通过考虑框架规则来确定。需要经验调查的简单存在性陈述断言了可能的具体实体（如“桌子”或“独角兽”的存在），而分析的简单存在性陈述断言了抽象实体的存在。让我们称这种断言抽象对象存在的标准为“语言规则标准”。
 
@@ -309,11 +309,11 @@ Carnap对每个语言框架都采取这种方法，无论它是关于物理、�
 
 x 是抽象对象当且仅当“x 存在”在相关语言中是分析性的。
 
-但是这个标准表明，_不纯净_的集合、依赖于对象的属性、抽象的艺术品以及其他的东西都不是抽象的。因为这个标准似乎在纯抽象实体和其他一切之间划定了一条界线。关于\*\*{\*\* Bob Dylan **}** {Bob Dylan}或狄更斯的《圣诞颂歌》这样的简单存在性陈述的真实性，并不仅仅取决于语言规则。对于包含一般术语如“小说”、“法规”等的简单和复杂存在性陈述也是如此。
+但是这个标准表明，_不纯净_的集合、依赖于对象的属性、抽象的艺术品以及其他的东西都不是抽象的。因为这个标准似乎在纯抽象实体和其他一切之间划定了一条界线。关于**{** Bob Dylan **}** {Bob Dylan}或狄更斯的《圣诞颂歌》这样的简单存在性陈述的真实性，并不仅仅取决于语言规则。对于包含一般术语如“小说”、“法规”等的简单和复杂存在性陈述也是如此。
 
 　　In the end, though, Carnap doesn’t seem to be either a realist or nominalist about objects (abstract or concrete). Carnap rejects the question whether these objects are real in a metaphysical sense. But, contrary to the nominalist, he rejects the idea that we can truly deny the real existence of abstract objects (i.e., a denial that is external to a linguistic framework). This attitude, which settles the question of which framework to adopt on pragmatic grounds (e.g., which framework best helps us to make sense of the data to be explained), is the reason why we’ve labeled his view as a _way of weakening existence_. See the entry on [Carnap](https://plato.stanford.edu/entries/carnap/) for further details.
 
-其他哲学家的提议与卡纳普的观点有关。Resnik（1997年，第二部分）提出了一种关于数学对象存在的_假设认识论_。根据这个观点，确保数学对象的存在只需要使用一种语言来假设数学对象，并为它们建立一个一致的数学理论。^\[^​^[16](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-16)^​^]^ 然而，它们的存在并不是由于被假设而产生的。相反，我们之所以认识到这些对象的存在，是因为已经发展出了一个一致的数学理论。Resnik要求既要有语言规定来考虑数学对象，又要有一致性条件来认识它们的存在。Thomasson（2015年，30-34页）提倡一种她认为是继承自卡纳普的方法。她称之为_简易本体论_。由于她并不试图找到终极范畴或基本（抽象或具体）对象的明确列表，她更倾向于一种更简单的现实主义（参见Thomasson 2015年，145-158页）。她认为，当存在性陈述在经验证据或仅仅是支配一般术语（例如，分类术语）的使用规则的支持下时，日常存在性陈述提供了可接受的本体论承诺；在这两种情况下，她说“一般术语的应用条件”得到了满足（参见Thomasson 2015年，86、89-95页）。因此，她也提供了一个接受抽象对象的_语言规则标准_。鉴于她对简单现实主义的辩护，她似乎将可观察的对象和科学中的理论实体都视为具体的。
+其他哲学家的提议与卡纳普的观点有关。Resnik（1997年，第二部分）提出了一种关于数学对象存在的_假设认识论_。根据这个观点，确保数学对象的存在只需要使用一种语言来假设数学对象，并为它们建立一个一致的数学理论。^[^​^[16](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-16)^​^]^ 然而，它们的存在并不是由于被假设而产生的。相反，我们之所以认识到这些对象的存在，是因为已经发展出了一个一致的数学理论。Resnik要求既要有语言规定来考虑数学对象，又要有一致性条件来认识它们的存在。Thomasson（2015年，30-34页）提倡一种她认为是继承自卡纳普的方法。她称之为_简易本体论_。由于她并不试图找到终极范畴或基本（抽象或具体）对象的明确列表，她更倾向于一种更简单的现实主义（参见Thomasson 2015年，145-158页）。她认为，当存在性陈述在经验证据或仅仅是支配一般术语（例如，分类术语）的使用规则的支持下时，日常存在性陈述提供了可接受的本体论承诺；在这两种情况下，她说“一般术语的应用条件”得到了满足（参见Thomasson 2015年，86、89-95页）。因此，她也提供了一个接受抽象对象的_语言规则标准_。鉴于她对简单现实主义的辩护，她似乎将可观察的对象和科学中的理论实体都视为具体的。
 
 #### 3.7.2 极简主义的标准
 
@@ -331,7 +331,7 @@ Linnebo（2018）通过修订我们对Frege的双条件抽象原则的理解（�
 
 有时，由条件原则引入的新对象对现实没有要求；当发生这种情况时，它们被称为_薄_（例如，方向只要求存在平行线）。然而，当由充分性陈述引入的新对象对现实提出更实质性的要求时，这些对象被认为是_厚_的。假设**R**a**b**���断言**a**�和**b**�是同一连贯且自然有界整体的时空部分。那么通过以下原则，**a**�和**b**�成为物体的规范：**R**a**b**⇒**B**o**d**y **(** a **)** =**B**o**d**y **(** b **)** ���⇒Body(�)=Body(�)。在这种情况下，这个原则“对世界提出了实质性的要求”，因为它要求检查是否存在构成一个连续的坚实物质的时空部分（仅仅看时空部分是不足以确定它们是否构成一个物体的；参见Linnebo 2018年，45页）。
 
-然而，Linnebo并不将抽象与薄相等同（2012年，147页），因为在相对意义上存在着不是抽象的薄对象，即那些对世界没有超出以某些先前给定的对象为基础引入的实质性要求的对象。你左手和笔记本电脑的整体并不对世界提出超出其部分要求的要求。^\[^​^[19](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-19)^​^]^ 相反，他提出抽象对象是那些薄且具有“浅层本质”的对象。所谓“浅层本质”是指“任何关于**F**的问题都有一个答案，可以根据对这些**F**的任何给定规范来确定”（2018年，192-195页）。例如，方向具有浅层本质，因为关于方向的任何问题（例如，它们是否正交等）都可以仅根据指定它们的线条来确定。形状具有浅层本质，因为关于形状的任何问题（例如，它们是否三角形、圆形等）都可以仅根据它们的基础具体图形来确定。相比之下，具体对象的整体并不是浅层的，因为有关它们的问题不能仅根据它们的规范来回答；例如，你的笔记本电脑和左手的整体的重量不仅取决于它们的组合，还取决于它们所处的重力场。^\[^​^[20](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-20)^​^]^
+然而，Linnebo并不将抽象与薄相等同（2012年，147页），因为在相对意义上存在着不是抽象的薄对象，即那些对世界没有超出以某些先前给定的对象为基础引入的实质性要求的对象。你左手和笔记本电脑的整体并不对世界提出超出其部分要求的要求。^[^​^[19](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-19)^​^]^ 相反，他提出抽象对象是那些薄且具有“浅层本质”的对象。所谓“浅层本质”是指“任何关于**F**的问题都有一个答案，可以根据对这些**F**的任何给定规范来确定”（2018年，192-195页）。例如，方向具有浅层本质，因为关于方向的任何问题（例如，它们是否正交等）都可以仅根据指定它们的线条来确定。形状具有浅层本质，因为关于形状的任何问题（例如，它们是否三角形、圆形等）都可以仅根据它们的基础具体图形来确定。相比之下，具体对象的整体并不是浅层的，因为有关它们的问题不能仅根据它们的规范来回答；例如，你的笔记本电脑和左手的整体的重量不仅取决于它们的组合，还取决于它们所处的重力场。^[^​^[20](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-20)^​^]^
 
 因此，Linnebo将抽象对象（薄且具有浅层本质）与具体对象（没有浅层本质）进行对比。Linnebo在几个方面扩展了这个观点。他通过提供“动态抽象”的集合论重建，构建了一个超越“抽象原则方式”的数学对象的解释（2018年，第3章）。这种形式的极简主义还允许存在具有混合本质的抽象对象，即相对于其他对象而言是薄的对象。例如，字母“A”的类型是抽象的，因为它是薄的且具有浅层本质，但相对于字母“A”的标记而言，它是薄的。
 
@@ -373,7 +373,7 @@ Berto＆Plebani（2015）提供了一份有用的本体论和超本体论简介�
 * –––, 2020, “Contingent Abstract Objects,” in Falguera & Martínez-Vidal (eds.) 2020, pp. 91–109.
 * Burgess, John P., 2005, _Fixing Frege_, Princeton: Princeton University Press.
 * Burgess, John P., and Rosen, Gideon, 1997, _A Subject with No Object: Strategies for Nominalistic Interpretation of Mathematics_, Oxford: Oxford University Press.
-* Carnap, Rudolf, 1950 \[1956], “Empiricism, Semantics, and Ontology,” _Revue Internationale de Philosophie_, 4(11): 20–40; reprinted with revisions in Rudolf Carnap, _Meaning and Necessity_, expanded edition, Chicago: Chicago University Press, 1956, pp. 205–221.
+* Carnap, Rudolf, 1950 [1956], “Empiricism, Semantics, and Ontology,” _Revue Internationale de Philosophie_, 4(11): 20–40; reprinted with revisions in Rudolf Carnap, _Meaning and Necessity_, expanded edition, Chicago: Chicago University Press, 1956, pp. 205–221.
 * Chalmers, David, 1996, _The Conscious Mind_, Oxford: Oxford University Press.
 * Colyvan, Mark, 2001, _The Indispensability of Mathematics_, Oxford: Oxford University Press.
 * –––, 2010, “There Is No Easy Road to Nominalism,” _Mind_, 119(474): 285–306. doi:10.1093/mind/fzq014
@@ -381,7 +381,7 @@ Berto＆Plebani（2015）提供了一份有用的本体论和超本体论简介�
 * Cook, Roy, 2003, “Iteration One More Time,” _Notre Dame Journal of Formal Logic_, 44(2): 63–92.
 * Cowling, Sam, 2017, _Abstract Entities_, London: Routledge.
 * Crane, Tim, and Mellor, D. H., 1990, “There Is No Question of Physicalism,” _Mind_, 99(394): 185–206.
-* Dedekind, Richard, 1888 \[1963], _Was Sind Und Was Sollen Die Zahlen_, Braunschweig: Vieweg und Sohn; English translation, “The Nature and Meaning of Numbers”, in R. Dedekind, _Essays on the Theory of Numbers_, Wooster Woodruff Beman (trans.), New York: Dover, 1963, pp. 29–115.
+* Dedekind, Richard, 1888 [1963], _Was Sind Und Was Sollen Die Zahlen_, Braunschweig: Vieweg und Sohn; English translation, “The Nature and Meaning of Numbers”, in R. Dedekind, _Essays on the Theory of Numbers_, Wooster Woodruff Beman (trans.), New York: Dover, 1963, pp. 29–115.
 * Donato-Rodríguez, Xavier, and Falguera, José L., 2020, “The Nature of Scientific Models: Abstract Artifacts That Determine Fictional Systems,” in Falguera & Martínez-Vidal (eds.) 2020, pp. 151–171.
 * Dummett, Michael, 1973, _Frege: Philosophy of Language,_ London: Duckworth.
 * Enoch, David, 2011, _Taking Morality Seriously: A Defense of Robust Realism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199579969.001.0001
@@ -408,7 +408,7 @@ Berto＆Plebani（2015）提供了一份有用的本体论和超本体论简介�
 * Kalderon, Mark Eli, 2005, _Fictionalism in Metaphysics_, Oxford: Oxford University Press.
 * Katz, Jerrold, 1980, _Language and Other Abstract Objects_, Lanham, MD: Rowman & Littlefield.
 * Knowles, Robert, and Saatsi, Juha, 2019, “Mathematics and Explanatory Generality: Nothing but Cognitive Salience,” _Erkenntnis_. doi:10.1007/s10670-019-00146-x
-* Kripke, Saul, 1973 \[2013], _Reference and Existence: The John Locke Lectures_, Oxford: Oxford University Press, 2013. \[These lectures were given in 1973 but remained unpublished until 2013.]
+* Kripke, Saul, 1973 [2013], _Reference and Existence: The John Locke Lectures_, Oxford: Oxford University Press, 2013. [These lectures were given in 1973 but remained unpublished until 2013.]
 * Leibowitz, Uri D., and Sinclair, Neil (eds.), 2016, _Explanation in Ethics and Mathematics: Debunking and Dispensability_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198778592.001.0001
 * Leng, Mary, 2010, _Mathematics and Reality_, Oxford: Oxford University Press.
 * –––, 2020, “Is There a Fact of the Matter About the Existence of Abstract Objects?” in Falguera & Martínez-Vidal (eds.) 2020, pp. 111–130.
@@ -426,8 +426,8 @@ Berto＆Plebani（2015）提供了一份有用的本体论和超本体论简介�
 * Malament, David, 1982, “Review of Field (1980),” _The Journal of Philosophy_, 79: 523–34.
 * Mally, Ernst, 1912, _Gegenstandstheoretische Grundlagen Der Logik Und Logistik_, Leipzig: Barth.
 * Martínez-Vidal, Concha, and Rivas-de-Castro, Navia, 2020, “Description, Explanation and Ontological Commitment,” in Falguera & Martínez-Vidal (eds.) 2020, pp. 35–57.
-* Meinong, Alexius, 1904, “Über Gegenstandstheorie,” in A. Meinong (ed.), _Untersuchungen Zur Gegenstandstheorie Und Psychologie \[Investigations in Theory of Objects and Psychology]_ , pp. 1–51, Leipzig: Barth.
-* –––, 1915, _Über Möglichkeit Und Wahrscheinlichkeit. Beiträge Zur Gegenstandstheorie Und Erkenntnistheorie \[on Possibility and Probability. Contributions to Object Theory and Epistemology]_ , Leipzig: Barth.
+* Meinong, Alexius, 1904, “Über Gegenstandstheorie,” in A. Meinong (ed.), _Untersuchungen Zur Gegenstandstheorie Und Psychologie [Investigations in Theory of Objects and Psychology]_ , pp. 1–51, Leipzig: Barth.
+* –––, 1915, _Über Möglichkeit Und Wahrscheinlichkeit. Beiträge Zur Gegenstandstheorie Und Erkenntnistheorie [on Possibility and Probability. Contributions to Object Theory and Epistemology]_ , Leipzig: Barth.
 * Melia, Joseph, 2000, “Weaseling Away the Indispensability Argument,” _Mind_, 109(435): 455–479.
 * –––, 2002, “Response to Colyvan,” _Mind_, 111(441): 75–79.
 * Moltmann, Friederike, 2013, _Abstract Objects and the Semantics of Natural Language_, Oxford: Oxford University Press.
@@ -481,7 +481,7 @@ Berto＆Plebani（2015）提供了一份有用的本体论和超本体论简介�
 | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abstract-objects).                                                                      |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/abstract-objects/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=abstract-objects\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=abstract-objects&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/abstract-objects/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
@@ -496,4 +496,4 @@ Berto＆Plebani（2015）提供了一份有用的本体论和超本体论简介�
 
 This entry was revised, updated, and expanded in 2021 by José L. Falguera and Concha Martínez-Vidal. The author of the previous version of this entry, Gideon Rosen, remains credited on this entry since significant content in Sections 1, 2.1, 3.5.1–3.5.3, and 4 has been retained from the previous version.
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by [José L. Falguera](https://doctoradologifici.usal.es/?q=profesor/falguera-lopez-jose-luis) <[_joseluis.falguera@usc.es_](mailto:joseluis%2efalguera%40usc%2ees)> [Concha Martínez-Vidal](https://epimenides.usal.es/?q=profesor/martinez-vidal-concepcion) <[_mconcepcion.martinez@usc.es_](mailto:mconcepcion%2emartinez%40usc%2ees)> [Gideon Rosen](http://philosophy.princeton.edu/index.php?option=com\_faculty\&Itemid=78\&func=fullview\&facultyid=36)
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by [José L. Falguera](https://doctoradologifici.usal.es/?q=profesor/falguera-lopez-jose-luis) <[_joseluis.falguera@usc.es_](mailto:joseluis%2efalguera%40usc%2ees)> [Concha Martínez-Vidal](https://epimenides.usal.es/?q=profesor/martinez-vidal-concepcion) <[_mconcepcion.martinez@usc.es_](mailto:mconcepcion%2emartinez%40usc%2ees)> [Gideon Rosen](http://philosophy.princeton.edu/index.php?option=com_faculty&Itemid=78&func=fullview&facultyid=36)

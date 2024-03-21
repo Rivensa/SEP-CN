@@ -17,13 +17,13 @@
 在[第4节](https://plato.stanford.edu/entries/action-perception/#SkilTheo)中，我们转向了倾向理论，最有影响力的是加雷斯·埃文斯（Gareth Evans）（1982年，1985年）的阐述，但最近由里克·格鲁什（Rick Grush）（2000年，2007年）进行了辩护。埃文斯的理论在其核心上与大胆的外行动准备理论非常相似。然而，也有一些显著的差异。埃文斯的解释在某些哲学方面更加精细。它也没有将感知归纳为行为倾向，而是假设感知输入和行为之间的某些复杂关系提供了空间内容。格鲁什提出了一个非常具体的理论，与埃文斯的理论类似，它也没有进行归纳，但与埃文斯的观点不同，它没有将行为倾向和感觉输入放在一个不可区分的地位上。
 
 * [1.早期基于行动的理论](https://plato.stanford.edu/entries/action-perception/#EarlActiBaseTheo)
-* [1.1 运动和触觉在新视觉理论中](https://plato.stanford.edu/entries/action-perception/#MoveToucNewTheoVisi) \* [1.2 对伯克利理论的反驳](https://plato.stanford.edu/entries/action-perception/#ObjeBerkTheo) \* [1.3 洛策、赫尔姆霍兹和局部符号学说](https://plato.stanford.edu/entries/action-perception/#LotzHelmLocaSignDoct) \* [2. 感觉运动相关理论](https://plato.stanford.edu/entries/action-perception/#SensContTheo)
+* [1.1 运动和触觉在新视觉理论中](https://plato.stanford.edu/entries/action-perception/#MoveToucNewTheoVisi) * [1.2 对伯克利理论的反驳](https://plato.stanford.edu/entries/action-perception/#ObjeBerkTheo) * [1.3 洛策、赫尔姆霍兹和局部符号学说](https://plato.stanford.edu/entries/action-perception/#LotzHelmLocaSignDoct) * [2. 感觉运动相关理论](https://plato.stanford.edu/entries/action-perception/#SensContTheo)
 * [2.1 运动输出和视觉方向恒定性](https://plato.stanford.edu/entries/action-perception/#EffeVisuDireCons)
-* [2.1.1 基于行动的感知理论的反对意见](https://plato.stanford.edu/entries/action-perception/#ObjeEffeCopyTheo) \* [2.1.2 基于行动的感知理论的替代方案](https://plato.stanford.edu/entries/action-perception/#AlteEffeCopyTheo) \* [2.2 反馈理论](https://plato.stanford.edu/entries/action-perception/#ReafTheo)
-* [2.2.1 Held对棱镜适应实验的研究](https://plato.stanford.edu/entries/action-perception/#HeldExpePrisAdap) \* [2.2.2 反馈理论的挑战](https://plato.stanford.edu/entries/action-perception/#ChalReafTheo) \* [2.3 体验性方法](https://plato.stanford.edu/entries/action-perception/#EnacAppr)
-* [2.3.1 基于行动的感知理论的证据](https://plato.stanford.edu/entries/action-perception/#EvidForEnacAppr) \* [2.3.2 对基于行动的感知理论的挑战](https://plato.stanford.edu/entries/action-perception/#ChalEnacAppr) \* [3. 运动成分和外向准备理论](https://plato.stanford.edu/entries/action-perception/#MotoCompEffeReadTheo)
-* [3.1 运动成分理论（具身视觉感知）](https://plato.stanford.edu/entries/action-perception/#MotoCompTheoEmboVisuPerc) \* [3.2 外向准备理论](https://plato.stanford.edu/entries/action-perception/#EffeReadTheo)
-* [3.2.1 谦逊准备理论](https://plato.stanford.edu/entries/action-perception/#ModeReadTheo) \* [3.2.2 大胆准备理论](https://plato.stanford.edu/entries/action-perception/#BoldReadTheo) \* [4. 技能/倾向理论](https://plato.stanford.edu/entries/action-perception/#SkilTheo) \* [参考文献](https://plato.stanford.edu/entries/action-perception/#Bib) \* [学术工具](https://plato.stanford.edu/entries/action-perception/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/action-perception/#Oth) \* [相关条目](https://plato.stanford.edu/entries/action-perception/#Rel)
+* [2.1.1 基于行动的感知理论的反对意见](https://plato.stanford.edu/entries/action-perception/#ObjeEffeCopyTheo) * [2.1.2 基于行动的感知理论的替代方案](https://plato.stanford.edu/entries/action-perception/#AlteEffeCopyTheo) * [2.2 反馈理论](https://plato.stanford.edu/entries/action-perception/#ReafTheo)
+* [2.2.1 Held对棱镜适应实验的研究](https://plato.stanford.edu/entries/action-perception/#HeldExpePrisAdap) * [2.2.2 反馈理论的挑战](https://plato.stanford.edu/entries/action-perception/#ChalReafTheo) * [2.3 体验性方法](https://plato.stanford.edu/entries/action-perception/#EnacAppr)
+* [2.3.1 基于行动的感知理论的证据](https://plato.stanford.edu/entries/action-perception/#EvidForEnacAppr) * [2.3.2 对基于行动的感知理论的挑战](https://plato.stanford.edu/entries/action-perception/#ChalEnacAppr) * [3. 运动成分和外向准备理论](https://plato.stanford.edu/entries/action-perception/#MotoCompEffeReadTheo)
+* [3.1 运动成分理论（具身视觉感知）](https://plato.stanford.edu/entries/action-perception/#MotoCompTheoEmboVisuPerc) * [3.2 外向准备理论](https://plato.stanford.edu/entries/action-perception/#EffeReadTheo)
+* [3.2.1 谦逊准备理论](https://plato.stanford.edu/entries/action-perception/#ModeReadTheo) * [3.2.2 大胆准备理论](https://plato.stanford.edu/entries/action-perception/#BoldReadTheo) * [4. 技能/倾向理论](https://plato.stanford.edu/entries/action-perception/#SkilTheo) * [参考文献](https://plato.stanford.edu/entries/action-perception/#Bib) * [学术工具](https://plato.stanford.edu/entries/action-perception/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/action-perception/#Oth) * [相关条目](https://plato.stanford.edu/entries/action-perception/#Rel)
 
 ***
 
@@ -41,7 +41,7 @@
 
 后来在《人类知识原理论》（1734年：§44）中：
 
-> …严格来说，视觉的观念，当我们通过它们理解距离和远处的事物时，并不向我们暗示或标记实际存在于远处的事物，而只是告诫我们在这样或那样的时间距离内，以及由于这样或那样的行动，我们的思维中将印刻出什么样的触觉观念。…\[V]isible ideas是统治精神用来告知我们，如果我们在自己的身体中引发这样或那样的运动，他将印刻在我们身上的触觉观念。
+> …严格来说，视觉的观念，当我们通过它们理解距离和远处的事物时，并不向我们暗示或标记实际存在于远处的事物，而只是告诫我们在这样或那样的时间距离内，以及由于这样或那样的行动，我们的思维中将印刻出什么样的触觉观念。…[V]isible ideas是统治精神用来告知我们，如果我们在自己的身体中引发这样或那样的运动，他将印刻在我们身上的触觉观念。
 
 伯克利在这些段落中所捍卫的观点在洛克的《人类理解论》（1690年：第二卷，第9章，§§8-10）中有可辨认的前身。洛克认为，视觉的直接对象是“平面的”或者缺乏外在的深度；视觉必须与触觉协调，以便在三维空间中判断物体的位置；可见的观念通过一种类似于词语暗示其含义的联想过程，在心智中“激发”了基于运动的距离观念：“这个过程如此频繁、如此迅速，以至于我们将其视为我们感觉的知觉，而实际上它是我们判断形成的一个观念。”
 
@@ -85,27 +85,27 @@
 
 像伯克利一样，赫尔曼·洛策（1817-1881）和赫尔曼·冯·赫尔姆霍兹（1821-1894）都肯定了主动运动和触觉在三维视觉空间意识的生成中所起的作用
 
-> …在谈论我们感知的任何其他真理时，除了实践真理外，没有可能有其他意义。我们对事物的感知不能是其他任何东西，只能是符号，自然给出的事物的标志，我们学会使用它们来控制我们的动作和行为。当我们学会以正确的方式阅读这些标志时，我们就能够使用它们来定位我们的行动，使其达到预期的效果；也就是说，新的感觉以预期的方式产生（赫尔姆霍兹 2005 \[1924]：19，我们的强调）。
+> …在谈论我们感知的任何其他真理时，除了实践真理外，没有可能有其他意义。我们对事物的感知不能是其他任何东西，只能是符号，自然给出的事物的标志，我们学会使用它们来控制我们的动作和行为。当我们学会以正确的方式阅读这些标志时，我们就能够使用它们来定位我们的行动，使其达到预期的效果；也就是说，新的感觉以预期的方式产生（赫尔姆霍兹 2005 [1924]：19，我们的强调）。
 
 洛策和赫尔姆霍兹在维持身体运动在构建二维视觉场景中的作用方面比伯克利更进一步，这一点在大多数先前的视觉描述中被认为是理所当然的（但也有例外，参见哈特菲尔德1990年：第4章）。
 
-洛策和赫尔姆霍兹对二维空间定位的问题的理解是将唯一的、相对于眼睛的（或“眼球中心”的）方向分配给视野中的每一个点的问题。洛策对心灵-身体二元论的承诺排除了在视觉系统中寻找任何物理或解剖上的空间排序来解决这个问题（洛策1887年\[1879年]：§§276-77）。相反，洛策认为，每一个离散的视觉印象都伴随着一种“特殊的额外感觉”，其现象特征因其在视网膜上的起源而异。总体而言，这些额外的感觉或“局部标记”构成了一个“逐渐、定性的令牌系统”（1887年\[1879年]：§283），它们弥合了无意识视网膜图像的空间结构与意识视觉感知中所代表的空间结构之间的差距。
+洛策和赫尔姆霍兹对二维空间定位的问题的理解是将唯一的、相对于眼睛的（或“眼球中心”的）方向分配给视野中的每一个点的问题。洛策对心灵-身体二元论的承诺排除了在视觉系统中寻找任何物理或解剖上的空间排序来解决这个问题（洛策1887年[1879年]：§§276-77）。相反，洛策认为，每一个离散的视觉印象都伴随着一种“特殊的额外感觉”，其现象特征因其在视网膜上的起源而异。总体而言，这些额外的感觉或“局部标记”构成了一个“逐渐、定性的令牌系统”（1887年[1879年]：§283），它们弥合了无意识视网膜图像的空间结构与意识视觉感知中所代表的空间结构之间的差距。
 
-然而，适合扮演局部符号所归属的个体化角色的是什么样的感觉呢？洛策（Lotze）提到了伴随着眼睛注视运动的肌感觉（1887 \[1879]: §§284–86）。如果 P 是由远处点 d 刺激视网膜的位置，而 F 是中央凹，那么 PF 就是必须穿过的弧线，以使注视方向与 d 对齐。当眼睛通过弧线 PF 移动时，其不断变化的位置会产生相应的肌感觉系列 p0, p1, p2, …pn，而正是这个对 P 独特的有意识的经历系列构成了 P 的局部符号。相比之下，如果 Q 是由 d 刺激视网膜的位置，那么眼睛通过弧线 QF 的凝视运动将引发一系列不同的肌感觉 k0, k1, k2, …kn，这些肌感觉对 Q 是独特的。
+然而，适合扮演局部符号所归属的个体化角色的是什么样的感觉呢？洛策（Lotze）提到了伴随着眼睛注视运动的肌感觉（1887 [1879]: §§284–86）。如果 P 是由远处点 d 刺激视网膜的位置，而 F 是中央凹，那么 PF 就是必须穿过的弧线，以使注视方向与 d 对齐。当眼睛通过弧线 PF 移动时，其不断变化的位置会产生相应的肌感觉系列 p0, p1, p2, …pn，而正是这个对 P 独特的有意识的经历系列构成了 P 的局部符号。相比之下，如果 Q 是由 d 刺激视网膜的位置，那么眼睛通过弧线 QF 的凝视运动将引发一系列不同的肌感觉 k0, k1, k2, …kn，这些肌感觉对 Q 是独特的。
 
 重要的是，洛策允许视网膜刺激并不一定会触发眼睛的明显运动。相反，即使在没有相应的注视运动的情况下，刺激点 P 也会引发肌感觉 p0，而这种感觉反过来会从记忆中召回与之相关联的系列的其余部分 p1, …pn。
 
-因此，尽管眼睛没有移动，但会出现一种必须完成某事的回忆，这个事情可能是更大或更小的，只有当在P和Q处引起的弱感觉能够引起最强烈和清晰的感觉时，才能完成。 （1887 \[1879]：§285）
+因此，尽管眼睛没有移动，但会出现一种必须完成某事的回忆，这个事情可能是更大或更小的，只有当在P和Q处引起的弱感觉能够引起最强烈和清晰的感觉时，才能完成。 （1887 [1879]：§285）
 
 通过这种方式，洛策解释了我们能够同时感知视野中的多个位置的能力。
 
-Helmholtz 2005 \[1924] 充分接受了二维空间定位中局部标记的必要性，但对Lotze的理论进行了重要修改。特别是，他认为局部标记不是起源于眼部肌肉调整的感觉，即一种来自眼睛的感觉“流入”，而是由意愿努力（Willensanstrengung）产生的神经兴奋感（Innervationsgefühlen），即一种运动“流出”。一般来说，视野中的每个可感知位置都与意愿（Willensimpuls）或冲动相关联，以便以所需的方式移动眼睛来固定它。正如恩斯特·马赫后来阐述了Helmholtz的观点：“执行眼睛运动的意愿，或者说是行动的神经兴奋感，本身就是空间感觉”（Mach 1897 \[1886]：59）。
+Helmholtz 2005 [1924] 充分接受了二维空间定位中局部标记的必要性，但对Lotze的理论进行了重要修改。特别是，他认为局部标记不是起源于眼部肌肉调整的感觉，即一种来自眼睛的感觉“流入”，而是由意愿努力（Willensanstrengung）产生的神经兴奋感（Innervationsgefühlen），即一种运动“流出”。一般来说，视野中的每个可感知位置都与意愿（Willensimpuls）或冲动相关联，以便以所需的方式移动眼睛来固定它。正如恩斯特·马赫后来阐述了Helmholtz的观点：“执行眼睛运动的意愿，或者说是行动的神经兴奋感，本身就是空间感觉”（Mach 1897 [1886]：59）。
 
-赫尔姆霍兹更倾向于局部符号学说的运动输出版本，原因有两个。首先，他对眼位的传入登记是否精确到足以扮演洛策理论（2005 \[1924]: 47–49）所赋予的角色持怀疑态度。最近的研究表明，来自眼肌伸展感受器的本体感输入确实在估计凝视方向时起到了可量化的作用，但输出的运动是信息的主要来源（Bridgeman 2010；参见下面的[2.1.1节](https://plato.stanford.edu/entries/action-perception/#ObjeEffeCopyTheo)）。
+赫尔姆霍兹更倾向于局部符号学说的运动输出版本，原因有两个。首先，他对眼位的传入登记是否精确到足以扮演洛策理论（2005 [1924]: 47–49）所赋予的角色持怀疑态度。最近的研究表明，来自眼肌伸展感受器的本体感输入确实在估计凝视方向时起到了可量化的作用，但输出的运动是信息的主要来源（Bridgeman 2010；参见下面的[2.1.1节](https://plato.stanford.edu/entries/action-perception/#ObjeEffeCopyTheo)）。
 
-其次，当眼睛瘫痪或其他方式无法移动时，试图进行眼球运动会导致视觉场景在同一方向上出现移动（Helmholtz 2005 \[1924]: 205–06; Mach 1897 \[1886]: 59–60）。如果眼睛发出的信号被用来确定凝视的方向，这一发现就会有意义：视觉系统“推断”感知到的物体在移动，因为为了保持视网膜刺激的恒定，眼睛方向发生变化时，物体必须移动。
+其次，当眼睛瘫痪或其他方式无法移动时，试图进行眼球运动会导致视觉场景在同一方向上出现移动（Helmholtz 2005 [1924]: 205–06; Mach 1897 [1886]: 59–60）。如果眼睛发出的信号被用来确定凝视的方向，这一发现就会有意义：视觉系统“推断”感知到的物体在移动，因为为了保持视网膜刺激的恒定，眼睛方向发生变化时，物体必须移动。
 
-虽然赫尔姆霍兹主要关注于展示“我们对视觉轴的方向的判断仅仅是试图改变眼睛调整所涉及的意愿努力的结果”（2005 \[1924]: 205–06），他提出的证据也暗示了运出信号在我们对跨视觉运动的世界稳定性的感知中起着关键作用。在下一节中，我们将追溯这个想法对20世纪理论的影响。
+虽然赫尔姆霍兹主要关注于展示“我们对视觉轴的方向的判断仅仅是试图改变眼睛调整所涉及的意愿努力的结果”（2005 [1924]: 205–06），他提出的证据也暗示了运出信号在我们对跨视觉运动的世界稳定性的感知中起着关键作用。在下一节中，我们将追溯这个想法对20世纪理论的影响。
 
 ### 2. 感觉运动相关理论 <a href="#id-2-gan-jue-yun-dong-xiang-guan-li-lun" id="id-2-gan-jue-yun-dong-xiang-guan-li-lun"></a>
 
@@ -123,13 +123,13 @@ VDC问题分为两个问题（MacKay 1973）：首先，确定在两次注视之
 
 对于第一个问题，历史上最有影响力的答案是视觉系统可以访问一个称为“外流”的注视命令信号的副本。这些信号携带着指定眼球运动方向和幅度的信息，可以用来补偿或“抵消”视网膜图像相应的位移。
 
-19世纪，贝尔（1823年），普尔金耶（1825年），赫林（1861 \[1990]年），赫尔姆霍兹（2005 \[1924]年）和马赫（1897 \[1886]年）运用外流副本理论来解释各种实验结果，例如，部分麻痹眼肌的受试者在试图执行注视时会感知到视觉场景的运动（参见Bridgeman 2010年的综述）。然而，该理论最有影响力的阐述来自于埃里希·冯·霍尔斯特（Erich von Holst）和霍斯特·米特尔斯塔特（Horst Mittelstädt）在20世纪50年代初提出的“再感原则”（von Holst＆Mittelstädt 1950年；von Holst 1954年）。根据他们所称的“再感原则”，视觉系统利用眼球运动的运动指令副本来区分由世界变化引起的外感视觉刺激和由注视方向变化引起的再感视觉刺激：
+19世纪，贝尔（1823年），普尔金耶（1825年），赫林（1861 [1990]年），赫尔姆霍兹（2005 [1924]年）和马赫（1897 [1886]年）运用外流副本理论来解释各种实验结果，例如，部分麻痹眼肌的受试者在试图执行注视时会感知到视觉场景的运动（参见Bridgeman 2010年的综述）。然而，该理论最有影响力的阐述来自于埃里希·冯·霍尔斯特（Erich von Holst）和霍斯特·米特尔斯塔特（Horst Mittelstädt）在20世纪50年代初提出的“再感原则”（von Holst＆Mittelstädt 1950年；von Holst 1954年）。根据他们所称的“再感原则”，视觉系统利用眼球运动的运动指令副本来区分由世界变化引起的外感视觉刺激和由注视方向变化引起的再感视觉刺激：
 
 让我们想象一个主动的中枢神经系统发送命令或“指令”...给执行器，并从感觉器官接收信号。在环境中没有发生任何事情时可预测到的信号必然是其自身活动的结果，即再确认信号。在没有给出命令时接收到的所有信号都是外部信号，表示环境或有外部力量引起的有机体状态的变化。...预期作为命令结果的差异与感觉器官报告的总体之间的比例是外部信号的比例....只有这种差异才会有补偿性的反射；只有这种差异才能确定，例如在移动目光时，视觉对象的实际感知方向。因此，这就是我们提出的解决方案，我们称之为“再确认原则”：通过将总体传入与系统状态-“指令”进行比较来区分再确认和外部信号。（Mittelstädt 1971；由Bridgeman等人翻译，1994年：251）。
 
 只有当视网膜图像的位移与基于输出副本的位移预测不同时，即后者未能“抵消”前者时，主体才会在感知到的场景中经历某种变化（参见[图1](https://plato.stanford.edu/entries/action-perception/#fig1)）。相关的结果是，视觉运动补偿具有基本的运动组成部分：物体在世界中的眼相对位置的表观稳定性取决于感知者将传入的视网膜信号与关于即将发生的眼动幅度和方向的外视信息相结合的能力。
 
-!\[\[图1：（a）当眼睛静止时，既没有外向副本（EC），也没有由视网膜图像位移产生的感知（A）。 （b）将眼睛向右转10°会导致视网膜图像相应移动。由于由EC指定的眼动幅度和视网膜图像位移的幅度相互抵消，世界中没有运动或“外部感知”（EA）被注册。
+![[图1：（a）当眼睛静止时，既没有外向副本（EC），也没有由视网膜图像位移产生的感知（A）。 （b）将眼睛向右转10°会导致视网膜图像相应移动。由于由EC指定的眼动幅度和视网膜图像位移的幅度相互抵消，世界中没有运动或“外部感知”（EA）被注册。
 
 **2.1.1 反对外向副本理论的观点**
 
@@ -153,7 +153,7 @@ Deubel和Bridgeman的参照物理论否认了外部复制被用于“抵消”�
 
 斯特拉顿使用一个透镜系统进行了两次戏剧性的实验，该系统在他的右眼中产生了视网膜图像的 180 度旋转（他的左眼被盖住了）。第一次实验涉及在三天内佩戴该设备 21.5 小时（1896）；第二次实验涉及在八天内佩戴该设备 81.5 小时（1897a,b）。在两种情况下，斯特拉顿详细记录了他的视觉、想象和本体感知体验如何随着倒置视觉的结果而发生变化。在 1899 年，他进行了一次较少为人知但同样戏剧性的为期三天的实验，使用一对镜子将他的眼睛呈现给了他自己的身体从空间中直接位于其头顶上方的位置看到的视觉（见 Figure 2）。
 
-​![\[一个站立并向上看的男人的线条图。他的视角大约是45度角。在他上方有一条水平线，左端标记为“A”，右端标记为“B”。第二条线从“B”端以大约-60度角延伸，指向大约与男人的脖子水平的点，该点标记为“D”。在D的右侧是一个虚线图，描绘了一个水平的人，头部最靠近D；脚标记为“E”。从第一个人的眼睛出发，有一条短线，标记为“C”，以大约45度角向上延伸，大致指向标记为“B”的点的方向。\]](https://plato.stanford.edu/entries/action-perception/fig2.png)图2： Stratton（1899）设计的装置。Stratton通过戴在头上的镜子AB的视角看到了自己的身体。
+​![[一个站立并向上看的男人的线条图。他的视角大约是45度角。在他上方有一条水平线，左端标记为“A”，右端标记为“B”。第二条线从“B”端以大约-60度角延伸，指向大约与男人的脖子水平的点，该点标记为“D”。在D的右侧是一个虚线图，描绘了一个水平的人，头部最靠近D；脚标记为“E”。从第一个人的眼睛出发，有一条短线，标记为“C”，以大约45度角向上延伸，大致指向标记为“B”的点的方向。]](https://plato.stanford.edu/entries/action-perception/fig2.png)图2： Stratton（1899）设计的装置。Stratton通过戴在头上的镜子AB的视角看到了自己的身体。
 
 在这两个实验中，Stratton报告了一段短暂的初始视觉混乱和视觉运动技能的崩溃：
 
@@ -161,11 +161,11 @@ Deubel和Bridgeman的参照物理论否认了外部复制被用于“抵消”�
 
 进一步的困惑是由于头部运动时视野的“摇摆”，以及事物所在的位置与人们所“想象”的位置之间的不协调
 
-> 目前在视野之外的物体（例如观察者旁边的东西）最初在心理上被表示为它们在正常视觉中的样子... 实际的当前感知以这种方式完全孤立并与由\[想象]表示组成的更大整体不协调。（1896年：615）
+> 目前在视野之外的物体（例如观察者旁边的东西）最初在心理上被表示为它们在正常视觉中的样子... 实际的当前感知以这种方式完全孤立并与由[想象]表示组成的更大整体不协调。（1896年：615）
 
 经过一段看似短暂的调整期后，斯特拉顿报告称，视觉和触觉之间的和谐逐渐恢复。在他对倒置视觉的实验结束时，斯特拉顿不仅能够流利且无误地执行许多视觉运动动作，视觉世界对他来说通常看起来是“正立的”（1897a：358）和“处于正常位置”（1896年：616）。这可能意味着什么将在下面的[2.2节](https://plato.stanford.edu/entries/action-perception/#ReafTheo)中讨论。
 
-另一个有影响力但不那么戏剧性的实验是由赫尔姆霍兹（2005 \[1924]: §29）进行的，他在佩戴偏移视网膜图像16-18°向左的棱镜时进行了达到目标的练习。最初的倾向是在侧向偏移的方向上达到过远。然而，在进行了一系列试验后，达到逐渐恢复了其原来的准确水平。赫尔姆霍兹还发现了两个额外的发现。首先，存在一种“手间转移效应”：对棱镜的视觉运动适应也扩展到了他未暴露的手。其次，在从眼睛中取下棱镜后，立即出现了相反方向的错误，即在达到目标时，赫尔姆霍兹现在把手移动得太远，向右移动。这种“负后效应”现在通常被用作适应侧向偏移的衡量标准。
+另一个有影响力但不那么戏剧性的实验是由赫尔姆霍兹（2005 [1924]: §29）进行的，他在佩戴偏移视网膜图像16-18°向左的棱镜时进行了达到目标的练习。最初的倾向是在侧向偏移的方向上达到过远。然而，在进行了一系列试验后，达到逐渐恢复了其原来的准确水平。赫尔姆霍兹还发现了两个额外的发现。首先，存在一种“手间转移效应”：对棱镜的视觉运动适应也扩展到了他未暴露的手。其次，在从眼睛中取下棱镜后，立即出现了相反方向的错误，即在达到目标时，赫尔姆霍兹现在把手移动得太远，向右移动。这种“负后效应”现在通常被用作适应侧向偏移的衡量标准。
 
 斯特拉顿和赫尔姆霍兹的研究结果催生了一个关于ORD适应的研究传统，该传统在20世纪60年代和70年代达到了鼎盛时期。在这一时期进行的研究主要集中在两个问题上。首先，适应发生的必要和充分条件是什么？特别是，在适应由ORD引起的各种知觉和感觉运动差异时，被试使用哪些信息？其次，当被试适应感知重排时，会发生什么？相关形式的知觉学习的“最终产品”是什么？
 
@@ -195,7 +195,7 @@ Held对第一个问题的回答是，被试必须通过主动运动接收到视�
 
 > …在早期的一篇论文中提出的原则——我们会感觉到一个物体在我们不断看到它的地方——可以在比我当时打算的更广泛的意义上得到证明…. 我们现在可以安全地包括距离的差异，并断言触觉和视觉的空间重合并不要求在给定触觉位置的物体在任何特定方向或特定距离上出现。无论触觉印象的视觉对应物定期出现在哪个地方，最终它似乎只能在那个地方出现。如果我们总是看到我们的身体在一百码外，我们可能也会感觉到它们在那里。（1899年：498，我们的强调）
 
-根据这种解释，ORDs所揭示的可塑性主要是本体感和运动感知，而不是视觉感知。在适应倒置视网膜图像后，斯特拉顿的世界开始看起来“正常”（1897b: 469），因为物体的位置是根据视觉感知而“感受到”的，而不是因为他的“整个视野翻转了”（Kuhn 2012 \[1962]: 112）。这一点可以从斯特拉顿在八天实验结束时最终摘下倒置镜片后没有出现视觉“负副作用”来明确。
+根据这种解释，ORDs所揭示的可塑性主要是本体感和运动感知，而不是视觉感知。在适应倒置视网膜图像后，斯特拉顿的世界开始看起来“正常”（1897b: 469），因为物体的位置是根据视觉感知而“感受到”的，而不是因为他的“整个视野翻转了”（Kuhn 2012 [1962]: 112）。这一点可以从斯特拉顿在八天实验结束时最终摘下倒置镜片后没有出现视觉“负副作用”来明确。
 
 视觉布局立即被识别为之前实验前的旧布局；然而，一切都颠倒了，与我在过去一周中习惯的顺序相反，给场景带来了令人惊讶、困惑的氛围，持续了几个小时。然而，这并不是感觉一切都颠倒了的感觉。（1897b: 470）
 
@@ -267,9 +267,9 @@ Hurley和Noë并不质疑Stratton、Harris和Rock为本体感知变化理论提�
 
 ### 3. 基于行动的感知理论 <a href="#id-3-ji-yu-hang-dong-de-gan-zhi-li-lun" id="id-3-ji-yu-hang-dong-de-gan-zhi-li-lun"></a>
 
-到目前为止，可以清楚地看出，声称感知是主动的或基于行动的并不是一目了然的。感知可能涉及行动，因为它在本质上与触觉的关联有关（伯克利，1709年），与眼睛位置变化相关的肌肉感觉反馈有关（洛策，1887年\[1879年]），有意识地经历“意志的努力”（赫尔姆霍兹，2005年\[1924年]），或者了解再感觉感官刺激随着运动的变化而变化的方式（赫尔德，1961年；奥雷根和诺埃，2001年；赫利和诺埃，2003年）。
+到目前为止，可以清楚地看出，声称感知是主动的或基于行动的并不是一目了然的。感知可能涉及行动，因为它在本质上与触觉的关联有关（伯克利，1709年），与眼睛位置变化相关的肌肉感觉反馈有关（洛策，1887年[1879年]），有意识地经历“意志的努力”（赫尔姆霍兹，2005年[1924年]），或者了解再感觉感官刺激随着运动的变化而变化的方式（赫尔德，1961年；奥雷根和诺埃，2001年；赫利和诺埃，2003年）。
 
-在本节中，我们将探讨行动在感知中的两个额外概念。根据我们将称之为运动成分理论的理论，眼动系统中产生的外向副本和/或来自眼动的本体感觉反馈与传入的感官输入一起使用，以确定感知对象的空间属性（Helmholtz 2005 \[1924]；Mack 1979；Shebilske 1984, 1987；Ebenholtz 2002；Briscoe 2021）。相比之下，外向准备理论则依赖于感知状态如何准备观察者与环境进行移动和行动的特定方式。我们将其称为谦逊准备理论，它声称在视觉体验中，物体的空间属性有时会受到一种或另一种形式的隐蔽行动规划的调节（Festinger et al. 1967；Coren 1986；Vishton et al. 2007）。大胆准备理论则主张更强的构成性主张，正如J.G. Taylor所说：“感知和多重同时行动准备是同一件事”（1968: 432）。
+在本节中，我们将探讨行动在感知中的两个额外概念。根据我们将称之为运动成分理论的理论，眼动系统中产生的外向副本和/或来自眼动的本体感觉反馈与传入的感官输入一起使用，以确定感知对象的空间属性（Helmholtz 2005 [1924]；Mack 1979；Shebilske 1984, 1987；Ebenholtz 2002；Briscoe 2021）。相比之下，外向准备理论则依赖于感知状态如何准备观察者与环境进行移动和行动的特定方式。我们将其称为谦逊准备理论，它声称在视觉体验中，物体的空间属性有时会受到一种或另一种形式的隐蔽行动规划的调节（Festinger et al. 1967；Coren 1986；Vishton et al. 2007）。大胆准备理论则主张更强的构成性主张，正如J.G. Taylor所说：“感知和多重同时行动准备是同一件事”（1968: 432）。
 
 #### 3.1 运动成分理论（具身视觉感知） <a href="#id-31-yun-dong-cheng-fen-li-lun-ju-shen-shi-jue-gan-zhi" id="id-31-yun-dong-cheng-fen-li-lun-ju-shen-shi-jue-gan-zhi"></a>
 
@@ -305,7 +305,7 @@ Coren（1986）进行了一系列设计精美的实验，研究了外向准备�
 
 COG偏见在[图3](https://plato.stanford.edu/entries/action-perception/#fig3)中有所体现。在第一行（顶部）中，注视目标附近没有多余的刺激物。因此，从注视点到目标的注视是没有偏见的。相比之下，在第二行中，多余刺激物（×）的位置导致从注视点到目标的注视不足，而在第三行中，注视超过了目标。在第四行中，改变多余刺激物的位置消除了COG偏见：因为多余刺激物靠近注视点而不是注视目标，所以注视是准确的。
 
-​![\[每列有4个点，每对点在同一水平线上。左列顶部有“注视点”字样，有一个蓝色箭头从这些字指向该列顶部。右列有“扫视目标”字样和一个类似的蓝色箭头。顶部（或第一对）点有一个箭头从左点弯曲到右点。第二对点在右点的左边有一个“x”，并且有一个箭头从左点弯曲到“x”和右点之间的一个点。第三对点在右点的右边有一个“x”，并且有一个箭头从左点弯曲到右点和“x”之间的一个点。第四对点在左点的左边有一个“x”，并且有一个箭头从左点弯曲到右点。\]](https://plato.stanford.edu/entries/action-perception/fig3.png)图3：起始眼位对扫视编程的影响（参考Coren 1986: 405）
+​![[每列有4个点，每对点在同一水平线上。左列顶部有“注视点”字样，有一个蓝色箭头从这些字指向该列顶部。右列有“扫视目标”字样和一个类似的蓝色箭头。顶部（或第一对）点有一个箭头从左点弯曲到右点。第二对点在右点的左边有一个“x”，并且有一个箭头从左点弯曲到“x”和右点之间的一个点。第三对点在右点的右边有一个“x”，并且有一个箭头从左点弯曲到右点和“x”之间的一个点。第四对点在左点的左边有一个“x”，并且有一个箭头从左点弯曲到右点。]](https://plato.stanford.edu/entries/action-perception/fig3.png)图3：起始眼位对扫视编程的影响（参考Coren 1986: 405）
 
 COG偏见在进化上是适应性的：眼动会将注视点和附近物体都带入高锐度视觉中，从而最大化每次眼动所获取的信息量。然而，Coren发现，执行欠射或过射眼动的运动准备或“外向准备”也会导致相应的“范围错觉”（1986年：404-406）。例如，观察者在目标附近有外部刺激物时（如[图3](https://plato.stanford.edu/entries/action-perception/#fig3)的第二行），会在感知上低估注视点和眼动目标之间的距离的长度；而在目标远侧有外部刺激物时（如[图3](https://plato.stanford.edu/entries/action-perception/#fig3)的第三行），会在感知上高估距离的长度。
 
@@ -470,7 +470,7 @@ Grush（2007；2009）提出了一种关于神经信息处理的倾向理论的�
 * Held, R. and J. Bossom, 1961, “Neonatal Deprivation and Adult Rearrangement: Complementary Techniques for Analyzing Plastic Sensory-Motor Coordinations”, Journal of Comparative and Physiological Psychology, 54(1): 33–37.
 * Held, R. and A. Hein, 1958, “Adaptation of Disarranged Hand-Eye Coordination Contingent upon Re-Afferent Stimulation”, Perceptual and Motor Skills, 8: 87–90.
 * –––, 1963, “Movement-Produced Stimulation in the Development of Visually Guided Behavior”, Journal of Comparative and Physiological Psychology, 56: 872–876.
-* Helmholtz, H, 2005 \[1924], Treatise on Physiological Optics (Volume 3), New York: Dover.
+* Helmholtz, H, 2005 [1924], Treatise on Physiological Optics (Volume 3), New York: Dover.
 * Hering, E., 1861, Beiträge zur Physiologie (Volume 1), Leipzig: Engelman. (Reissued with an introduction by B. Bridgeman, Berlin: Springer, 1990).
 * Hickerson, R., 2007, “Perception as Knowing How to Act: Alva Noë’s Action In Perception”, Philosophical Psychology, 20(4): 505–517.
 * Hill, C., 2022, Perceptual Experience. Oxford: Oxford University Press.
@@ -486,14 +486,14 @@ Grush（2007；2009）提出了一种关于神经信息处理的倾向理论的�
 * Jékely, G., Godfrey-Smith, P., and Keijzer, F., 2021, “Reafference and the Origin of the Self in Early Nervous System Evolution”, Phil. Trans. R. Soc. B 376: 20190764.
 * Kiverstein, J., 2010, “Sensorimotor Knowledge and the Contents of Experience”, in Gangopadhyay et al. 2010: 257–274.
 * Kravitz, J. and H. Wallach, 1966, “Adaptation to Displaced Vision Contingent upon Vibrating Stimulation”, Psychonomic Science, 6: 465–466.
-* Kuhn, T.S., 2012 \[1962], The Structure of Scientific Revolutions, Chicago: University of Chicago Press.
+* Kuhn, T.S., 2012 [1962], The Structure of Scientific Revolutions, Chicago: University of Chicago Press.
 * Lande, K., 2018, “The Perspectival Character of Perception”, The Journal of Philosophy, 115(4): 187–214.
 * Lhermitte, F., 1983, “Utilization Behaviour and its Relation to Lesions of the Frontal Lobes”, Brain, 106(2): 237–255.
 * Linton, P., 2021, “Conflicting Shape Percepts Explained by Perception Cognition Distinction”, Proceedings of the National Academy of Sciences of the United States of America, 118(10), Article e2024195118.
 * Locke, J., 1690, An Essay Concerning Human Understanding, P. Nidditch (ed.), New York: Oxford University Press, 1979.
 * Loomis, J.M., 1992, “Distal Attribution and Presence”, Presence: Teleoperators and Virtual Environments, 1(1): 113–119.
-* Lotze, H., 1887 \[1879], Metaphysics, in Three Books: Ontology, Cosmology, and Psychology (Volume 2), B. Bosanquet (trans.), Oxford: Clarendon.
-* Mach, E., 1897 \[1886], Contributions to the Analysis of the Sensations, C.M. Williams (trans.), Chicago: Open Court, 1897.
+* Lotze, H., 1887 [1879], Metaphysics, in Three Books: Ontology, Cosmology, and Psychology (Volume 2), B. Bosanquet (trans.), Oxford: Clarendon.
+* Mach, E., 1897 [1886], Contributions to the Analysis of the Sensations, C.M. Williams (trans.), Chicago: Open Court, 1897.
 * Mack, A., 1979, “Non-Visual Determinants of Perception”, Behavioral and Brain Sciences, 2(1): 75–76.
 * MacKay, D.M., 1973, “Visual Stability and Voluntary Eye Movements”, in Central Processing of Visual Information A: Integrative Functions and Comparative Data, Berlin: Springer, pp. 307–331.
 * Mandik, P., 2005, “Action-Oriented Representation”, in Cognition and the Brain: The Philosophy and Neuroscience Movement, K. Akins and A. Brook (eds.), Cambridge: Cambridge University Press.
@@ -579,7 +579,7 @@ Grush（2007；2009）提出了一种关于神经信息处理的倾向理论的�
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=action-perception).                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/action-perception/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=action-perception\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=action-perception&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ​![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)​      | [Enhanced bibliography for this entry](https://philpapers.org/sep/action-perception/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ### Other Internet Resources <a href="#other-internet-resources" id="other-internet-resources"></a>
@@ -594,7 +594,7 @@ Grush（2007；2009）提出了一种关于神经信息处理的倾向理论的�
 
 We would like to thank Jason Winning for helping to compose the bibliography and proofreading. We are also grateful to Adrian Alsmith, John Schwenkler, Tom Stoneham, and an anonymous referee for comments that resulted in many improvements.
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Robert Briscoe <[rbriscoe@gmail.com](mailto:rbriscoe%40gmail%2ecom)>\
-[Rick Grush](http://rickgrush.net/) <[rgrush@ucsd.edu](mailto:rgrush%40ucsd%2eedu)>\
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by
+Robert Briscoe <[rbriscoe@gmail.com](mailto:rbriscoe%40gmail%2ecom)>
+[Rick Grush](http://rickgrush.net/) <[rgrush@ucsd.edu](mailto:rgrush%40ucsd%2eedu)>
 Alison Springle <[alisonspringle@gmail.com](mailto:alisonspringle%40gmail%2ecom)>

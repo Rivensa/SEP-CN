@@ -9,11 +9,11 @@ _首次发表于2010年1月26日；实质性修订于2020年10月8日_
 本文分为三个部分。第一部分，第1和第2节，阐述了讨论能力哲学理论的框架。第1节将更多地介绍能力与代理人和对象的其他力量之间的区别。第2节将提出一些有助于构建任何能力理论的形式区分。第二部分，第3至5节，概述了在哲学文献中被辩护的能力理论。第3节涉及最突出的理论类型，即能力应该以一个假设来理解，该假设将代理人的行动与其意志联系起来。第4节涉及那些不以这种方式假设的理论，但仍保留假设理论的基本还原取向。第5节然后讨论了近期文献中提出的各种替代能力理论。第三部分，第6节，转向能力理论与自由意志争论之间的关系。这些争论通常涉及对代理人能力的主张，许多人希望对能力本身有更清晰的认识可以解决或至少能够阐明这些争论。本文最后一节的目的是评估这些希望是否合理。
 
 * [1.分类学](https://plato.stanford.edu/entries/abilities/#Tax)
-* [1.1 倾向和其他能力](https://plato.stanford.edu/entries/abilities/#DisOthPow) \* [1.2 区分能力](https://plato.stanford.edu/entries/abilities/#DemAbi) \* [1.3 “知道如何”和智能能力](https://plato.stanford.edu/entries/abilities/#QueKnoHow) \* [2. 两个基本区别](https://plato.stanford.edu/entries/abilities/#TwoFunDis)
-* [2.1 一般和特定能力](https://plato.stanford.edu/entries/abilities/#GenSpeAbi) \* [2.2 能力和能力归属](https://plato.stanford.edu/entries/abilities/#AbiAbiAsc) \* [3. 能力的假设理论](https://plato.stanford.edu/entries/abilities/#HypTheAbi)
-* [3.1 条件分析](https://plato.stanford.edu/entries/abilities/#ConAna) \* [3.2 条件分析的问题](https://plato.stanford.edu/entries/abilities/#ProForConAna) \* [3.3 条件分析：一些变体](https://plato.stanford.edu/entries/abilities/#ConAnaSomVar) \* [4. 能力的模态理论](https://plato.stanford.edu/entries/abilities/#ModTheAbi)
-* [4.1 模态分析](https://plato.stanford.edu/entries/abilities/#ModAna) \* [4.2 模态分析：逻辑考虑](https://plato.stanford.edu/entries/abilities/#ModAnaLogCon) \* [4.3 模态分析：语言考虑](https://plato.stanford.edu/entries/abilities/#ModAnaLinCon) \* [5. 能力的新方法](https://plato.stanford.edu/entries/abilities/#NewAppAbi)
-* [5.1 “新的倾向性主义”](https://plato.stanford.edu/entries/abilities/#NewDis) \* [5.2 能力作为独特的力量](https://plato.stanford.edu/entries/abilities/#AbiPow) \* [5.3 其他方法](https://plato.stanford.edu/entries/abilities/#OthApp) \* [6. 能力与自由意志争论](https://plato.stanford.edu/entries/abilities/#AbiFreWilDeb) \* [参考文献](https://plato.stanford.edu/entries/abilities/#Bib) \* [学术工具](https://plato.stanford.edu/entries/abilities/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/abilities/#Oth) \* [相关条目](https://plato.stanford.edu/entries/abilities/#Rel)
+* [1.1 倾向和其他能力](https://plato.stanford.edu/entries/abilities/#DisOthPow) * [1.2 区分能力](https://plato.stanford.edu/entries/abilities/#DemAbi) * [1.3 “知道如何”和智能能力](https://plato.stanford.edu/entries/abilities/#QueKnoHow) * [2. 两个基本区别](https://plato.stanford.edu/entries/abilities/#TwoFunDis)
+* [2.1 一般和特定能力](https://plato.stanford.edu/entries/abilities/#GenSpeAbi) * [2.2 能力和能力归属](https://plato.stanford.edu/entries/abilities/#AbiAbiAsc) * [3. 能力的假设理论](https://plato.stanford.edu/entries/abilities/#HypTheAbi)
+* [3.1 条件分析](https://plato.stanford.edu/entries/abilities/#ConAna) * [3.2 条件分析的问题](https://plato.stanford.edu/entries/abilities/#ProForConAna) * [3.3 条件分析：一些变体](https://plato.stanford.edu/entries/abilities/#ConAnaSomVar) * [4. 能力的模态理论](https://plato.stanford.edu/entries/abilities/#ModTheAbi)
+* [4.1 模态分析](https://plato.stanford.edu/entries/abilities/#ModAna) * [4.2 模态分析：逻辑考虑](https://plato.stanford.edu/entries/abilities/#ModAnaLogCon) * [4.3 模态分析：语言考虑](https://plato.stanford.edu/entries/abilities/#ModAnaLinCon) * [5. 能力的新方法](https://plato.stanford.edu/entries/abilities/#NewAppAbi)
+* [5.1 “新的倾向性主义”](https://plato.stanford.edu/entries/abilities/#NewDis) * [5.2 能力作为独特的力量](https://plato.stanford.edu/entries/abilities/#AbiPow) * [5.3 其他方法](https://plato.stanford.edu/entries/abilities/#OthApp) * [6. 能力与自由意志争论](https://plato.stanford.edu/entries/abilities/#AbiFreWilDeb) * [参考文献](https://plato.stanford.edu/entries/abilities/#Bib) * [学术工具](https://plato.stanford.edu/entries/abilities/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/abilities/#Oth) * [相关条目](https://plato.stanford.edu/entries/abilities/#Rel)
 
 ***
 
@@ -333,7 +333,7 @@ Fara 2008提出了这样的分析，并提出了论证：
 * Beebee, Helen, Whittle, Ann, and Svedberg, Maria, 2020. “Nihil Obstat: Lewis’s Compatibilist Account of Abilities,” _The Monist_, 103: 245–261.
 * Bengson, John and Moffett, Marc (eds.), 2011. _Know How: Essays on Mind, Knowledge, and Action_, Oxford: Oxford University Press.
 * Bennett, Jonathan, 2003. _A Philosophical Guide to Conditionals_, Oxford: Oxford University Press.
-* Bhatt, Rajesh, 1999. _Covert Modality in Non-Finite Contexts_, Ph.D. Dissertation, University of Pennsylvania. \[[Bhatt 1999 available online](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1033\&context=ircs\_reports)]
+* Bhatt, Rajesh, 1999. _Covert Modality in Non-Finite Contexts_, Ph.D. Dissertation, University of Pennsylvania. [[Bhatt 1999 available online](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1033&context=ircs_reports)]
 * Brown, Mark, 1988. “On The Logic of Ability,” _Journal of Philosophical Logic_, 17: 1–26.
 * Carnap, Rudolf, 1936 & 1937. “Testability and Meaning,” _Philosophy of Science_, 3: 419–471, 4:1–40.
 * Cartwright, Nancy, 1994. _Nature’s Capacities and Their Measurement_, Oxford: Oxford University Press.
@@ -353,7 +353,7 @@ Fara 2008提出了这样的分析，并提出了论证：
 * Glick, Ephraim. 2012 “Abilities and Know-How Attributions,” in Brown and Gekken (eds.), _Knowledge Ascriptions_, Oxford: Oxford University Press.
 * Goodman, Nelson, 1954. _Fact, Fiction and Forecast_, Cambridge, Mass.: Harvard University Press.
 * Greco, John, 2010. _Achieving Knowledge: A Virtue-Theoretic Account of Epistemic Normativity_, Cambridge: Cambridge University Press.
-* Hacquard, Valentine, 2006. _Aspects of Modality_, Ph.D. Dissertation, Massachusetts Institute of Technology. \[[Hacquard 2006 available online](http://ling.umd.edu/\~hacquard/papers/hacquard\_thesis.pdf)]
+* Hacquard, Valentine, 2006. _Aspects of Modality_, Ph.D. Dissertation, Massachusetts Institute of Technology. [[Hacquard 2006 available online](http://ling.umd.edu/~hacquard/papers/hacquard_thesis.pdf)]
 * Honoré, A.M., 1964. “Can and Can’t,” _Mind_, 73: 463–479.
 * Hume, David, 1748. _An Enquiry Concerning Human Understanding_, Beauchamp (ed.), Oxford: Oxford University Press, 1999.
 * Jackson, Frank, 1998. _From Metaphysics to Ethics_, Oxford: Oxford University Press.
@@ -386,7 +386,7 @@ Fara 2008提出了这样的分析，并提出了论证：
 * Robb, Catherine, forthcoming. “Talent Dispositionalism,” _Synthese_, first online 03 February 2020. doi:10.1007/s11229-020-02559-6
 * Ryle, Gilbert, 1949. _The Concept of Mind_, London: Hutchinson.
 * Scarantino, Andrea, 2003. “Affordances Explained,” _Philosophy of Science_, 70: 949–961.
-* Schwarz, Wolfgang, 2020. “Ability and Possibility,” _Philosophers’ Imprint_, 20(6). \[[Schwarz 2020 available online](http://hdl.handle.net/2027/spo.3521354.0020.006)]
+* Schwarz, Wolfgang, 2020. “Ability and Possibility,” _Philosophers’ Imprint_, 20(6). [[Schwarz 2020 available online](http://hdl.handle.net/2027/spo.3521354.0020.006)]
 * Spencer, Jack, 2017. “Able to Do the Impossible,” _Mind_, 126: 466–497.
 * Smith, Michael, 2003. “Rational Capacities,” in Stroud and Tappolet (eds.), _Weakness of Will and Practical Irrationality_, Oxford: Oxford University Press: 17–38.
 * Sosa, Ernest. 2007. _A Virtue Epistemology: Apt Belief and Reflective Knowledge_ (Volume 1), Oxford: Oxford University Press.
@@ -397,11 +397,11 @@ Fara 2008提出了这样的分析，并提出了论证：
 * Strawson, P.F., 1959. _Individuals: An Essay in Descriptive Metaphysics_, London: Methuen.
 * Taylor, Richard, 1960. “I Can,” _The Philosophical Review_, 69: 78–89.
 * van Inwagen, Peter, 1983. _An Essay on Free Will_, Oxford: Oxford University Press.
-* Vetter, Barbara, 2013. “‘Can’ Without Possible Worlds: Semantics for Anti-Humeans,” _Philosophers’ Imprint_, 13(16). \[[Vetter 2013 available online](http://hdl.handle.net/2027/spo.3521354.0013.016)]
+* Vetter, Barbara, 2013. “‘Can’ Without Possible Worlds: Semantics for Anti-Humeans,” _Philosophers’ Imprint_, 13(16). [[Vetter 2013 available online](http://hdl.handle.net/2027/spo.3521354.0013.016)]
 * –––, 2015. _Potentiality: From Dispositions to Modality_, Oxford: Oxford University Press.
 * Vihvelin, Kadri, 2004. “Free Will Demystified: A Dispositionalist Account,” _Philosophical Topics_, 32: 427–450.
 * –––, 2013. _Causes, Laws, and Free Will: Why Determinism Doesn’t Matter_, Oxford: Oxford University Press.
-* Whittle, Ann, 2010. “Dispositional Abilities,” _Philosophers’ Imprint_, 10(12). \[[Whittle 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.012)]
+* Whittle, Ann, 2010. “Dispositional Abilities,” _Philosophers’ Imprint_, 10(12). [[Whittle 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.012)]
 * Willer, Malte, forthcoming. “Two Puzzles About Ability _Can_,” _Linguistics and Philosophy_, first online 30 March 2020. doi:10.1007/s10988-020-09296-6
 * Wolf, Susan, 1990. _Freedom within Reason_, Oxford: Oxford University Press.
 
@@ -410,7 +410,7 @@ Fara 2008提出了这样的分析，并提出了论证：
 | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abilities).                                                                      |
 | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/abilities/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=abilities\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=abilities&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/abilities/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ### [Other Internet Resources](neng-li-abilities-john-maier.md)

@@ -6,9 +6,9 @@
 
 生物学家和哲学家最近做出了三个重要贡献，这些贡献有助于更好地理解这场辩论。首先，他们界定了各种“适应主义”的不同“风味”，这有助于澄清辩论的生物学和哲学利害关系。其次，他们明确了支持和反对适应主义主张的证据标准；这提供了更清晰的理解如何构建关于自然选择的经验性测试以及测试结果对适应主义的影响。这种澄清有潜力（尚未完全实现）改进科学实践和对科学实践的哲学理解。第三，对非选择性影响对特征进化的潜在作用有了更好的理解。
 
-* [1. 历史](https://plato.stanford.edu/entries/adaptationism/#His) \* [2. 不同的适应主义观点](https://plato.stanford.edu/entries/adaptationism/#DifFlaAda)
-* [2.1 经验适应主义](https://plato.stanford.edu/entries/adaptationism/#EmpAda) \* [2.2 解释适应主义](https://plato.stanford.edu/entries/adaptationism/#ExpAda) \* [2.3 方法论适应主义](https://plato.stanford.edu/entries/adaptationism/#MetAda) \* [3. 测试和证据标准](https://plato.stanford.edu/entries/adaptationism/#TesStaEvi)
-* [3.1 测试适应主义](https://plato.stanford.edu/entries/adaptationism/#TesAda) \* [3.2 测试适应性假设](https://plato.stanford.edu/entries/adaptationism/#TesAdaHyp) \* [3.3 共同祖先和适应](https://plato.stanford.edu/entries/adaptationism/#ComAncAda) \* [4. 最优模型是否描述了进化？](https://plato.stanford.edu/entries/adaptationism/#DoOptModDesEvo) \* [5. 约束假设是否真正与适应性假设竞争？](https://plato.stanford.edu/entries/adaptationism/#ConHypGenRivAdaHyp) \* [6. 结论](https://plato.stanford.edu/entries/adaptationism/#ConRem) \* [参考文献](https://plato.stanford.edu/entries/adaptationism/#Bib) \* [学术工具](https://plato.stanford.edu/entries/adaptationism/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/adaptationism/#Oth) \* [相关条目](https://plato.stanford.edu/entries/adaptationism/#Rel)
+* [1. 历史](https://plato.stanford.edu/entries/adaptationism/#His) * [2. 不同的适应主义观点](https://plato.stanford.edu/entries/adaptationism/#DifFlaAda)
+* [2.1 经验适应主义](https://plato.stanford.edu/entries/adaptationism/#EmpAda) * [2.2 解释适应主义](https://plato.stanford.edu/entries/adaptationism/#ExpAda) * [2.3 方法论适应主义](https://plato.stanford.edu/entries/adaptationism/#MetAda) * [3. 测试和证据标准](https://plato.stanford.edu/entries/adaptationism/#TesStaEvi)
+* [3.1 测试适应主义](https://plato.stanford.edu/entries/adaptationism/#TesAda) * [3.2 测试适应性假设](https://plato.stanford.edu/entries/adaptationism/#TesAdaHyp) * [3.3 共同祖先和适应](https://plato.stanford.edu/entries/adaptationism/#ComAncAda) * [4. 最优模型是否描述了进化？](https://plato.stanford.edu/entries/adaptationism/#DoOptModDesEvo) * [5. 约束假设是否真正与适应性假设竞争？](https://plato.stanford.edu/entries/adaptationism/#ConHypGenRivAdaHyp) * [6. 结论](https://plato.stanford.edu/entries/adaptationism/#ConRem) * [参考文献](https://plato.stanford.edu/entries/adaptationism/#Bib) * [学术工具](https://plato.stanford.edu/entries/adaptationism/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/adaptationism/#Oth) * [相关条目](https://plato.stanford.edu/entries/adaptationism/#Rel)
 
 ***
 
@@ -167,7 +167,7 @@ Orzack和Sober提供了一种特定的协议，用于评估O是否适用于特�
 * Amundson, R., 1988. “Logical adaptationism,” Behavioral and Brain Sciences, 11: 505–506.
 * –––, 1990. “Doctor Dennett and Doctor Pangloss: perfection and selection in psychology and Biology,” Behavioral and Brain Sciences, 13: 577–584.
 * –––, 1994. “Two concepts of constraint: adaptationism and the challenge from developmental biology,” Philosophy of Science, 61: 556–578.
-* Andrews, Paul W., Steven W. Gangestad, and Dan Matthews, 2002, “Adaptationism — how to carry out an exaptationist program”, Behavioral and Brain Sciences, 25(4): 489–553. doi:10.1017/S0140525X02000092 \[[Andrews, Gangestad, and Matthews 2002 available online](http://primate.uchicago.edu/2002BBS.pdf)]
+* Andrews, Paul W., Steven W. Gangestad, and Dan Matthews, 2002, “Adaptationism — how to carry out an exaptationist program”, Behavioral and Brain Sciences, 25(4): 489–553. doi:10.1017/S0140525X02000092 [[Andrews, Gangestad, and Matthews 2002 available online](http://primate.uchicago.edu/2002BBS.pdf)]
 * Beatty, J., and E. C. Desjardins, 2009. “Natural selection and history,” Biology and Philosophy, 24: 231–246.
 * Brandon, R., and M. D. Rausher, 1996. “Testing adaptationism: A comment on Orzack and Sober,” The American Naturalist, 148: 189–201.
 * Brockmann, H. J., and R. Dawkins, 1979. “Joint nesting in a digger wasp as an evolutionarily stable preadaptation to social life,” Behaviour, 71: 203–45.
@@ -287,7 +287,7 @@ Orzack和Sober提供了一种特定的协议，用于评估O是否适用于特�
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=adaptationism).                                                                      |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/adaptationism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=adaptationism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=adaptationism&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ​![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)​      | [Enhanced bibliography for this entry](http://philpapers.org/sep/adaptationism/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ### Other Internet Resources <a href="#other-internet-resources" id="other-internet-resources"></a>
@@ -303,6 +303,6 @@ Orzack和Sober提供了一种特定的协议，用于评估O是否适用于特�
 
 S. O. was partially supported by NIH R01 DA015789–01, NIA P01–AG0225000–01, NICHD R03 HD055685–01, and the National Academies Keck Futures Initiative. We thank Paul Griffiths and Ken Reisman for helpful comments and discussion.
 
-[Copyright © 2010](https://plato.stanford.edu/info.html#c) by\
-[Steven Hecht Orzack](http://www.freshpond.org/)\
+[Copyright © 2010](https://plato.stanford.edu/info.html#c) by
+[Steven Hecht Orzack](http://www.freshpond.org/)
 [Patrick Forber](http://as.tufts.edu/philosophy/people/faculty/forber) <[patrick.forber@tufts.edu](mailto:patrick%2eforber%40tufts%2eedu)>

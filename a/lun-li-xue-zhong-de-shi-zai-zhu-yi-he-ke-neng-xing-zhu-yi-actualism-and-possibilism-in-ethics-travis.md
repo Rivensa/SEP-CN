@@ -5,13 +5,13 @@
 假设你受邀参加前任的婚礼，最好的做法是接受邀请并在婚礼上保持愉快。但是，进一步假设如果你接受邀请，你会自由决定在婚礼上喝醉并毁了一切，这将是最糟糕的结果。第二好的做法是简单地拒绝邀请。考虑到这些事实，你应该接受还是拒绝邀请？（Zimmerman 2006: 153）。对这个问题的回答取决于伦理学中的实在主义/可能性主义辩论，这涉及到一个行动者的自由行为与其道德义务之间的关系。特别是，它关注的是一个行动者在特定情境中如何自由行动的事实是否在确定行动者的道德义务方面起任何作用。从历史上看，这个辩论主要出现在对无私的后果主义者的研究中，他们对德意逻辑有兴趣。然而，它的相关性并不仅限于这种后果主义的版本。这个辩论涉及到对行动者来说哪些行为是相关选项的范围，这是一个贯穿并对广泛的规范伦理观点产生实质性影响的问题。因此，这个辩论将焦点放在了任何规范伦理理论中都非常重要的问题上。
 
 * [1. 辩论的历史起源](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#HistOrigDeba)
-* [1.1 一些背景假设](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#SomeBackAssu) \* [1.2 一个关于功利主义在形式上不一致的论证](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ArguUtilFormInco) \* [1.3 回应和实在主义/可能性主义辩论的兴起](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ReplRiseActuDeba) \* [2. 可能性主义](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Poss)
-* [2.1 辩论的关键](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#CruxDeba) \* [2.2 拖延教授](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ProfProc) \* [2.3 定义可能性主义（和实在主义）](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#PossActuDefi) \* [2.4 可能性主义、实在主义和“能力”的相关意义](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#PossActuReleSensAbil) \* [2.5 对可能性主义的反对意见](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ObjePoss)
-* [2.5.1 最糟糕的结果反对](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#WorsOutcObje) \* [2.5.2 顾问反对](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#AdviObje) \* [2.5.3 不对称反对](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#AsymObje) \* [3. 实在主义](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Actu)
-* [3.1 某些形式的实在主义中的共同无法实现义务问题](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ProbJoinUnfuObliForSomeFormActu) \* [3.2 实在主义的初步阐述](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#PrelFormActu) \* [3.3 实在主义的语境主义阐述](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ContFormActu) \* [3.4 对语境主义实在主义的反驳](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ObjeContActu)
-* [3.4.1 具有无法共同实现的义务但没有义务困境](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#JoinUnfuObliWithObliDile) \* [3.4.2 混合问题](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#LumpProb) \* [3.5 对所有实在主义形式的反对意见](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ObjeAllFormActu)
-* [3.5.1 仅凭恶劣的道德品质来避免义务](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#AvoiObliMereHaviViciMoraChar) \* [3.5.2 对不良行为的制裁](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#SancBadBeha) \* [4. 安全主义观点](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#SecuView)
-* [4.1 一种同步的实在主义-可能性主义案例](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#SyncActuPossCase) \* [4.2 完全指定的即时选择](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#FullSpecImmeOpti) \* [4.3 对即时选择的控制方式](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#KindContOverImmeOpti) \* [5. 非主要义务](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#NonPrimObli) \* [6. 最大主义/全知论争](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#MaxiDeba) \* [7. 结论](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Conc) \* [参考文献](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Bib) \* [学术工具](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Oth) \* [相关条目](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Rel)
+* [1.1 一些背景假设](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#SomeBackAssu) * [1.2 一个关于功利主义在形式上不一致的论证](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ArguUtilFormInco) * [1.3 回应和实在主义/可能性主义辩论的兴起](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ReplRiseActuDeba) * [2. 可能性主义](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Poss)
+* [2.1 辩论的关键](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#CruxDeba) * [2.2 拖延教授](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ProfProc) * [2.3 定义可能性主义（和实在主义）](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#PossActuDefi) * [2.4 可能性主义、实在主义和“能力”的相关意义](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#PossActuReleSensAbil) * [2.5 对可能性主义的反对意见](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ObjePoss)
+* [2.5.1 最糟糕的结果反对](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#WorsOutcObje) * [2.5.2 顾问反对](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#AdviObje) * [2.5.3 不对称反对](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#AsymObje) * [3. 实在主义](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Actu)
+* [3.1 某些形式的实在主义中的共同无法实现义务问题](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ProbJoinUnfuObliForSomeFormActu) * [3.2 实在主义的初步阐述](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#PrelFormActu) * [3.3 实在主义的语境主义阐述](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ContFormActu) * [3.4 对语境主义实在主义的反驳](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ObjeContActu)
+* [3.4.1 具有无法共同实现的义务但没有义务困境](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#JoinUnfuObliWithObliDile) * [3.4.2 混合问题](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#LumpProb) * [3.5 对所有实在主义形式的反对意见](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#ObjeAllFormActu)
+* [3.5.1 仅凭恶劣的道德品质来避免义务](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#AvoiObliMereHaviViciMoraChar) * [3.5.2 对不良行为的制裁](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#SancBadBeha) * [4. 安全主义观点](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#SecuView)
+* [4.1 一种同步的实在主义-可能性主义案例](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#SyncActuPossCase) * [4.2 完全指定的即时选择](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#FullSpecImmeOpti) * [4.3 对即时选择的控制方式](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#KindContOverImmeOpti) * [5. 非主要义务](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#NonPrimObli) * [6. 最大主义/全知论争](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#MaxiDeba) * [7. 结论](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Conc) * [参考文献](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Bib) * [学术工具](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Oth) * [相关条目](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Rel)
 
 ***
 
@@ -25,7 +25,7 @@
 
 辩论的历史起源可以追溯到Lars Bergström和Hector-Neri Castañeda的研究。在他的《对功利主义的一个问题》（1968）中，Castañeda认为，根据一些标准假设，功利主义在形式上是不一致的。他的论点可以相当直接地陈述。首先，Castañeda假设了一种称为“应该通过连接词分配”的道义逻辑原则。这个原则认为，如果一个行动者S应该同时做A和B，那么S应该做A，S也应该做B（1968: 141）。在伦理学文献中，“应该”一词以各种不同的方式使用。然而，在实在主义/可能性主义文献中使用时，它应该被理解为表示道义义务的“应该”。这个想法可以更正式地表示为“应该通过连接词分配”：
 
-（ODC）O（A\&B）→ O（A）\&O（B）O（�&�）→O（�）\&O（�）换句话说，如果一个行动者有义务执行一系列行为，那么该行动者有义务执行该系列中的每一个行为。
+（ODC）O（A&B）→ O（A）&O（B）O（�&�）→O（�）&O（�）换句话说，如果一个行动者有义务执行一系列行为，那么该行动者有义务执行该系列中的每一个行为。
 
 其次，卡斯塔涅达考虑了一个他称之为（U）的原则，他认为这是所有现存形式的功利主义的基本承诺。
 
@@ -41,17 +41,17 @@
 
 最多、也最有影响力的回应是由拉斯·贝格斯特伦撰写的，他认为只有在假设⟨ A ⟩ ⟨�⟩和⟨ B ⟩ ⟨�⟩在相关意义上是可替代的时，才会出现矛盾。他认为⟨ A ⟩ ⟨�⟩和⟨ B ⟩ ⟨�⟩实际上并不是可替代的，因为它们是兼容的（贝格斯特伦1968b: 43）。值得注意的是，这是贝格斯特伦在他的（1966: ch. 2）一书中明确意识到的问题，他在书中认为“只有当两个行动不兼容或互斥时，它们才能被合理地视为可替代（在道德上相关的意义上）”。如果根据假设，S有义务执行⟨ A & B ⟩ ⟨�&�⟩，那么⟨ A ⟩ ⟨�⟩和⟨ B ⟩ ⟨�⟩必须是兼容的，因此它们不是可替代的（1968b: 44）。随后的文献主要是贝格斯特伦和卡斯塔涅达之间的来回辩论，主要围绕着确定道德上相关的可替代集合以及贝格斯特伦试图制定一个避免卡斯塔涅达反对意见的功利主义原则（贝格斯特伦1968a,b, 1971, 1973, 1976；卡斯塔涅达1968, 1969, 1972）。正如后续章节所示，确定道德上相关的可替代集合是实在主义/可能性主义辩论的关键。
 
-Dag Prawitz（1970）和Fred Westphal（1972）都建议通过将行动索引到它们需要执行的时间来修订[(U)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exU)，以实现唯一的最优结果。因此，如果执行联合行动⟨ A\*\* at t1 & B\*\* at t2 ⟩ ⟨� at �1&� at �2⟩将导致最大的净利益，那么S有义务执行⟨ A\*\* at t1 ⟩⟨� at �1⟩和执行⟨\*\* B\*\* at t2 ⟩⟨� at �2⟩，Westphal声称，这样可以避免矛盾。在t1�1，⟨\*\* A⟩⟨�⟩被认为是与t1�1可执行的任何其他行动相比产生最大净利益的行动。在t2�2，⟨ B⟩⟨�⟩被认为是与t2�2可执行的任何其他行动相比产生最大净利益的行动。最后，从t1�1到t2�2可能发生的可执行行动集中，⟨ A\&B⟩⟨�&�⟩是产生最大净利益的行动集。因此，每个行动在执行时都是唯一的最优行动，至少Westphal是这样认为的。值得注意的是，Prawitz（1968，1970）和Westphal（1972）都认为，只有当一个行动是一个行动集的一部分时，它才是可允许的，如果执行，将带来对于代理人可用的任何行动中最大的净利益。在提出这个论点时，Prawitz和Westphal提供了可能性主义的最早的辩护。然而，他们尚未将这个观点称为可能性主义。
+Dag Prawitz（1970）和Fred Westphal（1972）都建议通过将行动索引到它们需要执行的时间来修订[(U)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exU)，以实现唯一的最优结果。因此，如果执行联合行动⟨ A** at t1 & B** at t2 ⟩ ⟨� at �1&� at �2⟩将导致最大的净利益，那么S有义务执行⟨ A** at t1 ⟩⟨� at �1⟩和执行⟨** B** at t2 ⟩⟨� at �2⟩，Westphal声称，这样可以避免矛盾。在t1�1，⟨** A⟩⟨�⟩被认为是与t1�1可执行的任何其他行动相比产生最大净利益的行动。在t2�2，⟨ B⟩⟨�⟩被认为是与t2�2可执行的任何其他行动相比产生最大净利益的行动。最后，从t1�1到t2�2可能发生的可执行行动集中，⟨ A&B⟩⟨�&�⟩是产生最大净利益的行动集。因此，每个行动在执行时都是唯一的最优行动，至少Westphal是这样认为的。值得注意的是，Prawitz（1968，1970）和Westphal（1972）都认为，只有当一个行动是一个行动集的一部分时，它才是可允许的，如果执行，将带来对于代理人可用的任何行动中最大的净利益。在提出这个论点时，Prawitz和Westphal提供了可能性主义的最早的辩护。然而，他们尚未将这个观点称为可能性主义。
 
 尽管可能性主义在文献中仍然是一个可行的观点，但哈罗德·泽尔纳证明了普拉维茨和韦斯特法尔的回应并没有解决卡斯塔涅达为功利主义所指出的特定问题。这是因为，虽然在时间t1执行A并在时间t2执行B可能是唯一的最优选择，但并不意味着在各自的时间执行这两个单独的行为就是唯一的最优选择。例如，如果代理人首先执行A，那么执行A在时间t1可能并不是唯一的最优选择，如果她不执行B在时间t2。泽尔纳（1972年：125）用以下案例说明了这一点。
 
-* 教学、撮合或逃课： 假设汤姆能够执行的最佳行为集是 ⟨ A & B ⟩ ⟨�&�⟩，其中 ⟨ A ⟩ ⟨�⟩ = 上学校，⟨ B ⟩ ⟨�⟩ = 上课。汤姆还可以 ⟨ C ⟩ ⟨�⟩，其中⟨\*\* C ⟩ ⟨�⟩ = 借车给两个人，让他们去约会。最后，假设如果汤姆上学校，他将⟨ ∼B⟩⟨∼�⟩\*\*逃课。这是汤姆能够执行的最差行为集。
+* 教学、撮合或逃课： 假设汤姆能够执行的最佳行为集是 ⟨ A & B ⟩ ⟨�&�⟩，其中 ⟨ A ⟩ ⟨�⟩ = 上学校，⟨ B ⟩ ⟨�⟩ = 上课。汤姆还可以 ⟨ C ⟩ ⟨�⟩，其中⟨** C ⟩ ⟨�⟩ = 借车给两个人，让他们去约会。最后，假设如果汤姆上学校，他将⟨ ∼B⟩⟨∼�⟩**逃课。这是汤姆能够执行的最差行为集。
 
 同样，如果Tom上班并教书，那将是最好的选择；如果他充当丘比特，那将是次好的选择；如果他上班但不上课，那将是最糟糕的选择。因此，行为集的价值可以按照从最好到最差的顺序排列如下。
 
 1. ⟨ A & B ⟩ ⟨�&�⟩ 2. ⟨ C ⟩ ⟨�⟩ 3. ⟨ A & ∼B⟩⟨�&∼�⟩
 
-Zellner指出，由于如果Tom执行A，那么他将不会执行B，即使执行A\&B的价值是唯一的最优。因此，在这种情况下，即使每个行为都与其相应的时间相关联，[(U)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exU)结合[(ODC)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exODC)仍然会产生矛盾。Zellner认为，为了解决这个问题，应该拒绝(U)，因为它与所谓的推理基本原则(NI)不一致，该原则认为如果一个行动者有义务执行A，并且她执行A意味着她执行B，那么她有义务执行B(1972: 125)。这个规则有时被称为规范继承或允许性在蕴涵下封闭。在标准的义务逻辑系统中，它可以更形式化地表示为(Feldman 1986: 41)：
+Zellner指出，由于如果Tom执行A，那么他将不会执行B，即使执行A&B的价值是唯一的最优。因此，在这种情况下，即使每个行为都与其相应的时间相关联，[(U)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exU)结合[(ODC)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exODC)仍然会产生矛盾。Zellner认为，为了解决这个问题，应该拒绝(U)，因为它与所谓的推理基本原则(NI)不一致，该原则认为如果一个行动者有义务执行A，并且她执行A意味着她执行B，那么她有义务执行B(1972: 125)。这个规则有时被称为规范继承或允许性在蕴涵下封闭。在标准的义务逻辑系统中，它可以更形式化地表示为(Feldman 1986: 41)：
 
 如果 ⊢ A → B⊢�→� 那么 ⊢ O ( A ) →O(B)⊢�(�)→�(�)这些关于功利主义的连贯性的文献直接引发了实在主义/可能性主义的文献。最重要的是，（i）它突显了确定对代理人可用的相关行为替代品的重要性，以及（ii）像“教学”，“扮演丘比特”或“逃课”这样的案例引发了关于代理人自由行为与其道德义务之间关系的问题。如下一节所示，实在主义者和可能性主义者在具有这种确切结构的案例上存在分歧。
 
@@ -71,7 +71,7 @@ Procrastinate可以执行的行为集的价值从最好到最差排列如下。
 
 X. ⟨ a ⟩ ⟨�⟩ 同意审查论文并⟨ b ⟩ ⟨�⟩ 审查论文Y. ⟨ ∼a⟩⟨∼�⟩ 拒绝审查论文并⟨ ∼b⟩⟨∼�⟩ 不审查论文Z. ⟨ a ⟩ ⟨�⟩ 同意审查论文并⟨ ∼b⟩⟨∼�⟩ 不审查论文此外，无论Procrastinate是否⟨ a ⟩ ⟨�⟩，她都会⟨ ∼b⟩⟨∼�⟩。换句话说，以下反事实是真实的。
 
-（1）如果拖延症选择⟨ a ⟩ ⟨�⟩，她将⟨\*\* Z ⟩ ⟨�⟩。（2）如果拖延症选择⟨\*\* ∼a⟩⟨∼�⟩，她将⟨\*\* Y ⟩ ⟨�⟩\*\*。根据实在主义的粗略定义，拖延症有义务拒绝审查这篇论文，因为如果她拒绝的话，实际上会发生的事情比如果她同意审查这篇论文要好。相比之下，根据可能性主义，拖延症有义务同意审查这篇论文，因为这样做是拖延症在她一生中可以执行的最佳一系列可能行动的一部分。现在我们已经讨论了这些观点在一般情况下的分歧，我们将在接下来的部分中重点讨论这些观点的更精确的表述。还应该注意，像（1）和（2）这样的反事实假设至少部分上被认为是真实的，因为拖延症的道德品格不完美。然而，这样的反事实假设也可能是由于行动者的无知，由于缺乏执行某个行为的灵巧性，以及由于行动者无法理解某个未来行为（Goldman 1978:198; Bykvist 2002: 50）。为了本条目的目的，我们将重点关注行动者的道德品格不完美，因为这个因素似乎是实在主义者和可能性主义者之间许多分歧的推动力。
+（1）如果拖延症选择⟨ a ⟩ ⟨�⟩，她将⟨** Z ⟩ ⟨�⟩。（2）如果拖延症选择⟨** ∼a⟩⟨∼�⟩，她将⟨** Y ⟩ ⟨�⟩**。根据实在主义的粗略定义，拖延症有义务拒绝审查这篇论文，因为如果她拒绝的话，实际上会发生的事情比如果她同意审查这篇论文要好。相比之下，根据可能性主义，拖延症有义务同意审查这篇论文，因为这样做是拖延症在她一生中可以执行的最佳一系列可能行动的一部分。现在我们已经讨论了这些观点在一般情况下的分歧，我们将在接下来的部分中重点讨论这些观点的更精确的表述。还应该注意，像（1）和（2）这样的反事实假设至少部分上被认为是真实的，因为拖延症的道德品格不完美。然而，这样的反事实假设也可能是由于行动者的无知，由于缺乏执行某个行为的灵巧性，以及由于行动者无法理解某个未来行为（Goldman 1978:198; Bykvist 2002: 50）。为了本条目的目的，我们将重点关注行动者的道德品格不完美，因为这个因素似乎是实在主义者和可能性主义者之间许多分歧的推动力。
 
 #### 2.3 可能性主义（和实在主义）的定义 <a href="#id-23-ke-neng-xing-zhu-yi-he-shi-zai-zhu-yi-de-ding-yi" id="id-23-ke-neng-xing-zhu-yi-he-shi-zai-zhu-yi-de-ding-yi"></a>
 
@@ -81,7 +81,7 @@ X. ⟨ a ⟩ ⟨�⟩ 同意审查论文并⟨ b ⟩ ⟨�⟩ 审查论文Y. �
 
 根据可能性主义，具有直接的道义地位（即它们的道义地位不是由任何其他行为集的道义地位决定）的行为集是代理人在其整个生命过程中可以执行的行为集，我们将其称为最大行为集（Åqvist 1969）。此外，任何非最大行为集都间接地具有其道义地位（即其道义地位由其所属的最大行为集的道义地位决定）。在《拖延教授》中，假设拖延教授在执行⟨ X ⟩ ⟨�⟩、⟨ Y ⟩ ⟨�⟩或⟨ Z ⟩ ⟨�⟩之后不能再执行任何行为，可能性主义者认为拖延教授有义务执行⟨ a ⟩ ⟨�⟩，因为她在其一生中可以执行的最佳最大行为集包括⟨ X ⟩ ⟨�⟩，而⟨ X ⟩ ⟨�⟩-ing需要⟨ a ⟩ ⟨�⟩-ing。
 
-可能性主义在文献中有稍微不同的定义。然而，与下一节讨论的实在主义的不同定义不同，可能性主义的典型定义基本上是同义词。帕特里夏·格林斯潘（1978年）没有给出可能性主义的正式定义，但通过拒绝霍利·戈德曼的实在主义原则（称为G1）来捍卫这一观点。格林斯潘在辩护她（1975年）关于是否应该将应该陈述与它们的对象不同日期以及它们是否从不同的时间观点成立的相关辩论中这样做。弗雷德·费尔德曼用可能世界的术语来定义可能性主义。费尔德曼将他的理论称为（MO）。正如他描述（MO）的方式，S在某个时间点“应该做的事情是确保发生某种情况p”，当且仅当p在某个可被S在t\*时刻访问的世界中发生，并且在任何一个与那个世界一样好（或更好）的可访问世界中，∼ p∼�不发生。（费尔德曼1986年：38）
+可能性主义在文献中有稍微不同的定义。然而，与下一节讨论的实在主义的不同定义不同，可能性主义的典型定义基本上是同义词。帕特里夏·格林斯潘（1978年）没有给出可能性主义的正式定义，但通过拒绝霍利·戈德曼的实在主义原则（称为G1）来捍卫这一观点。格林斯潘在辩护她（1975年）关于是否应该将应该陈述与它们的对象不同日期以及它们是否从不同的时间观点成立的相关辩论中这样做。弗雷德·费尔德曼用可能世界的术语来定义可能性主义。费尔德曼将他的理论称为（MO）。正如他描述（MO）的方式，S在某个时间点“应该做的事情是确保发生某种情况p”，当且仅当p在某个可被S在t*时刻访问的世界中发生，并且在任何一个与那个世界一样好（或更好）的可访问世界中，∼ p∼�不发生。（费尔德曼1986年：38）
 
 迈克尔·齐默尔曼（Michael Zimmerman）在上述简单、标准的意义上定义了伦理学中的可能性主义（2006: 153; 2017: 119）。然而，他还发展和捍卫了受（MO）启发的可能性主义表述。在他的1996年的书中，他提出了他所称之为“世界可能性主义”（WP）的表述，该表述引用了“道义价值”的概念，而不是“内在价值”，以防止可能性主义的表述假设为公正的后果主义。在他的2006年的文章中，他捍卫了（WP）的前瞻性版本，其中所涉及的价值是代理人可以有意进行的所有行为的预期价值，他将其称为“调整后的核心前瞻性价值”。
 
@@ -131,7 +131,7 @@ X. ⟨ a ⟩ ⟨�⟩ 同意审查论文并⟨ b ⟩ ⟨�⟩ 审查论文Y. �
 
 1976 年，Holly Goldman 和 Christopher Woodard（2009）都认为可能性主义倾向于实现不可信的道德和谨慎理由之间的非对称性，而实在主义则对待这样的理由对称地。为了激发这一反驳，Woodard 让我们考虑一个内在人际谨慎案例，它在结构上与典型的实在主义者 / 可能性主义者案例相同。
 
-* 机票：假设史密斯可以采取的最明智的行动是⟨ A & B ⟩ ⟨�&�⟩，其中⟨ A ⟩ ⟨�⟩\*\* = 购买机票，⟨\*\* B ⟩ ⟨�⟩\*\* = 登机。然而，史密斯有点恐飞。如果她⟨\*\* A ⟩ ⟨�⟩购买机票，她将⟨ ∼B⟩⟨∼�⟩不登机（Woodard 2009: 221）。
+* 机票：假设史密斯可以采取的最明智的行动是⟨ A & B ⟩ ⟨�&�⟩，其中⟨ A ⟩ ⟨�⟩** = 购买机票，⟨** B ⟩ ⟨�⟩** = 登机。然而，史密斯有点恐飞。如果她⟨** A ⟩ ⟨�⟩购买机票，她将⟨ ∼B⟩⟨∼�⟩不登机（Woodard 2009: 221）。
 
 假设每个选项在道德上都是同样好的。然而，行为集的实用价值可以按照以下顺序从最好到最差进行排名。
 
@@ -181,7 +181,7 @@ Goldman（1976：467）用以下例子说明了共同无法实现的义务的可
 
 尽管⟨去办公室⟩是获得最佳结果（即跟随⟨支持语言要求⟩的结果）的前提条件，但实际上⟨去办公室⟩会导致最糟糕的结果（即跟随⟨劝阻学生寻求精神医学帮助⟩的结果）。相比之下，⟨待在家里⟩会产生更好的结果（即⟨写讲义笔记⟩的结果）。以下是高德曼的图表，概括了琼斯的处境：
 
-​![决策树：下方链接为详细描述](https://plato.stanford.edu/entries/actualism-possibilism-ethics/figure1.svg)图1： \[附图1的[详细描述](https://plato.stanford.edu/entries/actualism-possibilism-ethics/figdesc.html#f-decisions)请参见附录。]
+​![决策树：下方链接为详细描述](https://plato.stanford.edu/entries/actualism-possibilism-ethics/figure1.svg)图1： [附图1的[详细描述](https://plato.stanford.edu/entries/actualism-possibilism-ethics/figdesc.html#f-decisions)请参见附录。]
 
 根据规定，以 t3�3 结束的行为集合，比起 Jones 在 t1�1 可以选择的其他 t1�1–t3�3 行为集合要好。因此，[(G)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG) 暗示着，在 t1�1，Jones 应该尽力做到最好。然而，(G) 也暗示着，在 t1�1，Jones 应该选择在 t1�1 呆在家里而不是去办公室。这是因为在 t1�1，Jones 都可以选择执行这两个行为，而选择在家里的行为序列要比选择去办公室的行为序列更好。因此，根据 (G)，Jones 至少有两个无法同时实现的义务，A: ⟨去办公室，然后参加教职员会议，然后投票支持语言要求⟩，和 B: ⟨呆在家里⟩。Jones 无法同时执行 ⟨ A & B ⟩ ⟨�&�⟩。没有可能的情景可以同时实现这两个义务。
 
@@ -189,9 +189,9 @@ Goldman（1976：467）用以下例子说明了共同无法实现的义务的可
 
 为了避免共同无法实现的义务问题，Goldman（1976: 473）提出了以下版本的实在主义：
 
-（G1）（A）S 应该在 t1�1时执行 A1�1在 t1�1，当且仅当：（1）S\* 在 t1�1有能力执行 A1�1，并且（2）从 t1�1开始的序列，该序列跟随 A1�1，优于从 t1�1开始的任何替代方案跟随的序列。（B）如果S\* 应该在 t1�1时执行 Ai��在 ti��，那么S\* 应该在 t1�1时执行 Ai��的直接后继 Bj��在 tj��，如果从 tj��开始的序列，该序列跟随 Bj��，优于从 tj��开始的任何其他直接后继跟随的序列 Ai��。与 [(G)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG)，(G]\()1)以程序方式评估行为的义务地位，从代理人立即可用的选项开始，然后继续到下一个立即可用的选项。举例来说，（G1）的第（A）部分以程序方式评估行为的义务地位，从代理人立即可用的选项开始，然后继续到下一个立即可用的选项。举例来说，（G1）的第（A）部分告诉我们首先评估琼斯在 t1�1时可以立即执行的所有选项，而这些选项要么是⟨去办公室⟩，要么是⟨呆在家里⟩。后者是义务的，因为它 would 会导致比琼斯⟨去办公室⟩时会导致的行为集更好的行为集。（G1）的第（B）部分告诉我们，截至 1)告诉我们，截至t1�1，琼斯应该执行⟨呆在家里⟩的直接后继行为集，该行为集会导致比任何其他直接后继选项更好的行为序列。所以，在 1�1，琼斯应该从\*\*\* 1�1，琼斯应该从t1�1开始执行⟨呆在家里然后为讲座做研究⟩，直到 1�1–t2�2。同样，在 2�2，琼斯应该执行以⟨写讲座笔记⟩结束的行为集，假设从\*\*\* 3�3开始的行为集，该行为集跟随⟨写讲座笔记⟩，优于从\*\*\* 3�3开始的行为集跟随⟨准备午餐⟩。
+（G1）（A）S 应该在 t1�1时执行 A1�1在 t1�1，当且仅当：（1）S* 在 t1�1有能力执行 A1�1，并且（2）从 t1�1开始的序列，该序列跟随 A1�1，优于从 t1�1开始的任何替代方案跟随的序列。（B）如果S* 应该在 t1�1时执行 Ai��在 ti��，那么S* 应该在 t1�1时执行 Ai��的直接后继 Bj��在 tj��，如果从 tj��开始的序列，该序列跟随 Bj��，优于从 tj��开始的任何其他直接后继跟随的序列 Ai��。与 [(G)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG)，(G]()1)以程序方式评估行为的义务地位，从代理人立即可用的选项开始，然后继续到下一个立即可用的选项。举例来说，（G1）的第（A）部分以程序方式评估行为的义务地位，从代理人立即可用的选项开始，然后继续到下一个立即可用的选项。举例来说，（G1）的第（A）部分告诉我们首先评估琼斯在 t1�1时可以立即执行的所有选项，而这些选项要么是⟨去办公室⟩，要么是⟨呆在家里⟩。后者是义务的，因为它 would 会导致比琼斯⟨去办公室⟩时会导致的行为集更好的行为集。（G1）的第（B）部分告诉我们，截至 1)告诉我们，截至t1�1，琼斯应该执行⟨呆在家里⟩的直接后继行为集，该行为集会导致比任何其他直接后继选项更好的行为序列。所以，在 1�1，琼斯应该从*** 1�1，琼斯应该从t1�1开始执行⟨呆在家里然后为讲座做研究⟩，直到 1�1–t2�2。同样，在 2�2，琼斯应该执行以⟨写讲座笔记⟩结束的行为集，假设从*** 3�3开始的行为集，该行为集跟随⟨写讲座笔记⟩，优于从*** 3�3开始的行为集跟随⟨准备午餐⟩。
 
-将[(G\*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1)应用于琼斯的案例可以解释为什么(G\*1)不意味着可能存在无法共同实现的义务。尽管琼斯如果在t2时去参加教职员会议会发生什么，比她在t2时做其他任何事情要好，但她在t1时可以做的任何事情，琼斯仍然没有义务在t1时去参加教职员会议。这是因为如果琼斯执行了去参加教职员会议所需的行为之一，即去办公室，最糟糕的结果将发生。在t1时，任何排除了在t1时呆在家里的行为都是不允许的。
+将[(G*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1)应用于琼斯的案例可以解释为什么(G*1)不意味着可能存在无法共同实现的义务。尽管琼斯如果在t2时去参加教职员会议会发生什么，比她在t2时做其他任何事情要好，但她在t1时可以做的任何事情，琼斯仍然没有义务在t1时去参加教职员会议。这是因为如果琼斯执行了去参加教职员会议所需的行为之一，即去办公室，最糟糕的结果将发生。在t1时，任何排除了在t1时呆在家里的行为都是不允许的。
 
 乔丹·霍华德·索贝尔（1976年：196）同样捍卫了一种避免共同无法实现义务的实在主义版本： 乔丹·霍华德·索贝尔（1976年：196）同样捍卫了一种避免共同无法实现义务的实在主义版本
 
@@ -203,7 +203,7 @@ Goldman（1976：467）用以下例子说明了共同无法实现的义务的可
 
 > 应该在确定哪个选项是最佳的并且应该从一组选项中完成的价值中考虑的价值是什么的价值。如果代理人采取或执行该选项，那么将会发生什么情况，其中将会发生的情况当然包括代理人同时或随后实际做的事情：一个选项的（相关）价值是代理人执行该选项时实际发生的情况的价值。
 
-杰克逊和帕吉特（1986年：244-245）认为，存在不同的选项集，从中产生不同的义务。例如，从所有的行为集合中，t1-t3，琼斯在t1可以选择的选项中，具有最高价值的选项是包括⟨琼斯投票支持语言要求⟩的行为集合。因此，在t1-t3行为集合中，琼斯有义务⟨去办公室，然后去参加教职员会议，然后投票支持语言要求⟩。这是因为如果这个行为集合发生，会比其他t1-t3行为集合发生时的情况更好。但另一方面，从琼斯在t1可以立即执行的行为集合中，具有最高价值的选项是琼斯的⟨待在家里⟩，因为如果琼斯选择⟨待在家里⟩，会比琼斯选择⟨去办公室⟩时的情况更好。因此，在t1可以执行的行为中，琼斯有义务⟨待在家里⟩。与（G）类似，杰克逊和帕吉特的观点不以与戈德曼（G\*1）或索贝尔（S）评估行为的义务地位的程序方式相同。此外，与（G）类似，杰克逊和帕吉特的观点暗示了不能共同实现的义务的可能性。因此，我们将他们的观点称为情境主义实在主义，因为一个行动者的义务取决于在某个特定情境中考虑的选项集。
+杰克逊和帕吉特（1986年：244-245）认为，存在不同的选项集，从中产生不同的义务。例如，从所有的行为集合中，t1-t3，琼斯在t1可以选择的选项中，具有最高价值的选项是包括⟨琼斯投票支持语言要求⟩的行为集合。因此，在t1-t3行为集合中，琼斯有义务⟨去办公室，然后去参加教职员会议，然后投票支持语言要求⟩。这是因为如果这个行为集合发生，会比其他t1-t3行为集合发生时的情况更好。但另一方面，从琼斯在t1可以立即执行的行为集合中，具有最高价值的选项是琼斯的⟨待在家里⟩，因为如果琼斯选择⟨待在家里⟩，会比琼斯选择⟨去办公室⟩时的情况更好。因此，在t1可以执行的行为中，琼斯有义务⟨待在家里⟩。与（G）类似，杰克逊和帕吉特的观点不以与戈德曼（G*1）或索贝尔（S）评估行为的义务地位的程序方式相同。此外，与（G）类似，杰克逊和帕吉特的观点暗示了不能共同实现的义务的可能性。因此，我们将他们的观点称为情境主义实在主义，因为一个行动者的义务取决于在某个特定情境中考虑的选项集。
 
 #### 3.4 对情境主义实在主义的反驳 <a href="#id-34-dui-qing-jing-zhu-yi-shi-zai-zhu-yi-de-fan-bo" id="id-34-dui-qing-jing-zhu-yi-shi-zai-zhu-yi-de-fan-bo"></a>
 
@@ -217,7 +217,7 @@ Goldman（1976：467）用以下例子说明了共同无法实现的义务的可
 
 **3.4.2 集中问题**
 
-通过将义务相对化为不同的选择集，情境主义实在主义面临所谓的合并问题。这是将选项O的替代方案合并为单一替代方案（非O）的问题（Wedgwood 2009 \[]; Ross 2012; Cariani 2016）。以下是一个例子。假设以下越来越糟糕的选择对一个行动者A可用：去上班、在家赌博、在家杀人。进一步假设以下四个反事实是真实的。
+通过将义务相对化为不同的选择集，情境主义实在主义面临所谓的合并问题。这是将选项O的替代方案合并为单一替代方案（非O）的问题（Wedgwood 2009 []; Ross 2012; Cariani 2016）。以下是一个例子。假设以下越来越糟糕的选择对一个行动者A可用：去上班、在家赌博、在家杀人。进一步假设以下四个反事实是真实的。
 
 1. 如果A不去上班，那么A会在家杀人。
 
@@ -229,15 +229,15 @@ Goldman（1976：467）用以下例子说明了共同无法实现的义务的可
 
 **3.5.1 仅凭恶劣的道德品质来回避义务3.5.1 仅凭恶劣的道德品质来回避义务**
 
-Goldman的 Goldman的 [(G\*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1) 和Sobel的 和Sobel的 [(S)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exS2) \[通过一次只规定一个义务行为序列而不是同时规定多个无法共同实现的规定，享有理论和实践上的简洁优点。但这种理论优点的代价是可能性主义的反对：他们的观点允许代理人仅凭不完美的道德品质而避免承担道德义务，这使得代理人在道德上轻易逃脱责任 (Jackson & Pargetter 1986: 240; Zimmerman 1996: 193–194, 2006: 156; Portmore 2011: 207; Baker 2012: 642–43; Timmerman 2015; Timmerman & Cohen 2016; Cohen & Timmerman 2016)。例如，Procrastinate仅因为她有恶劣的行为倾向而避免了对学生论文的评论义务。实在主义即使在代理人有恶劣行为倾向的情况下也会坚持这一点，即使代理人之所以有恶劣行为倾向只是因为他们有意这样行事。但是，可能性主义者声称，代理人不能仅因为他们有意这样行事而避免承担ϕ�的义务\* 通过一次只规定一个义务行为序列而不是同时规定多个无法共同实现的规定，享有理论和实践上的简洁优点。但这种理论优点的代价是可能性主义的反对：他们的观点允许代理人仅凭不完美的道德品质而避免承担道德义务，这使得代理人在道德上轻易逃脱责任 (Jackson & Pargetter 1986: 240; Zimmerman 1996: 193–194, 2006: 156; Portmore 2011: 207; Baker 2012: 642–43; Timmerman 2015; Timmerman & Cohen 2016; Cohen & Timmerman 2016)。例如，Procrastinate仅因为她有恶劣的行为倾向而避免了对学生论文的评论义务。实在主义即使在代理人有恶劣行为倾向的情况下也会坚持这一点，即使代理人之所以有恶劣行为倾向只是因为他们有意这样行事。但是，可能性主义者声称，代理人不能仅因为他们有意这样行事而避免承担ϕ�的义务 �的义务。更一般地说，可能性主义者声称，有恶劣行为倾向并不能使人避免承担做好事的义务。
+Goldman的 Goldman的 [(G*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1) 和Sobel的 和Sobel的 [(S)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exS2) [通过一次只规定一个义务行为序列而不是同时规定多个无法共同实现的规定，享有理论和实践上的简洁优点。但这种理论优点的代价是可能性主义的反对：他们的观点允许代理人仅凭不完美的道德品质而避免承担道德义务，这使得代理人在道德上轻易逃脱责任 (Jackson & Pargetter 1986: 240; Zimmerman 1996: 193–194, 2006: 156; Portmore 2011: 207; Baker 2012: 642–43; Timmerman 2015; Timmerman & Cohen 2016; Cohen & Timmerman 2016)。例如，Procrastinate仅因为她有恶劣的行为倾向而避免了对学生论文的评论义务。实在主义即使在代理人有恶劣行为倾向的情况下也会坚持这一点，即使代理人之所以有恶劣行为倾向只是因为他们有意这样行事。但是，可能性主义者声称，代理人不能仅因为他们有意这样行事而避免承担ϕ�的义务* 通过一次只规定一个义务行为序列而不是同时规定多个无法共同实现的规定，享有理论和实践上的简洁优点。但这种理论优点的代价是可能性主义的反对：他们的观点允许代理人仅凭不完美的道德品质而避免承担道德义务，这使得代理人在道德上轻易逃脱责任 (Jackson & Pargetter 1986: 240; Zimmerman 1996: 193–194, 2006: 156; Portmore 2011: 207; Baker 2012: 642–43; Timmerman 2015; Timmerman & Cohen 2016; Cohen & Timmerman 2016)。例如，Procrastinate仅因为她有恶劣的行为倾向而避免了对学生论文的评论义务。实在主义即使在代理人有恶劣行为倾向的情况下也会坚持这一点，即使代理人之所以有恶劣行为倾向只是因为他们有意这样行事。但是，可能性主义者声称，代理人不能仅因为他们有意这样行事而避免承担ϕ�的义务 �的义务。更一般地说，可能性主义者声称，有恶劣行为倾向并不能使人避免承担做好事的义务。
 
-支持者 伦理学中的实在主义和可能性主义 [(G\*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1) 或者 或者 [(S)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exS2) 可能会反驳说，这个看似有问题的推论是考虑到相关的反事实所导致的，而不考虑它们的代价太高。虽然拖延症患者的⟨同意审查论文⟩是她随时间可以执行的最佳行为集合的一部分，但它也是她随时间可以执行的最差行为集合的一部分，如果拖延症患者⟨同意审查论文⟩的话，最差行为集合将会被执行（Jackson & Pargetter 1986: 237）。同样地，琼斯的⟨去办公室⟩是她随时间可以执行的最佳行为集合的一部分，但它也是她随时间可以执行的最差行为集合的一部分，如果琼斯⟨去办公室⟩的话，最差行为集合将会被执行。 可能会反驳说，这个看似有问题的推论是考虑到相关的反事实所导致的，而不考虑它们的代价太高。虽然拖延症患者的⟨同意审查论文⟩是她随时间可以执行的最佳行为集合的一部分，但它也是她随时间可以执行的最差行为集合的一部分，如果拖延症患者⟨同意审查论文⟩的话，最差行为集合将会被执行（Jackson & Pargetter 1986: 237）。同样地，琼斯的⟨去办公室⟩是她随时间可以执行的最佳行为集合的一部分，但它也是她随时间可以执行的最差行为集合的一部分，如果琼斯⟨去办公室⟩的话，最差行为集合将会被执行。
+支持者 伦理学中的实在主义和可能性主义 [(G*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1) 或者 或者 [(S)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exS2) 可能会反驳说，这个看似有问题的推论是考虑到相关的反事实所导致的，而不考虑它们的代价太高。虽然拖延症患者的⟨同意审查论文⟩是她随时间可以执行的最佳行为集合的一部分，但它也是她随时间可以执行的最差行为集合的一部分，如果拖延症患者⟨同意审查论文⟩的话，最差行为集合将会被执行（Jackson & Pargetter 1986: 237）。同样地，琼斯的⟨去办公室⟩是她随时间可以执行的最佳行为集合的一部分，但它也是她随时间可以执行的最差行为集合的一部分，如果琼斯⟨去办公室⟩的话，最差行为集合将会被执行。 可能会反驳说，这个看似有问题的推论是考虑到相关的反事实所导致的，而不考虑它们的代价太高。虽然拖延症患者的⟨同意审查论文⟩是她随时间可以执行的最佳行为集合的一部分，但它也是她随时间可以执行的最差行为集合的一部分，如果拖延症患者⟨同意审查论文⟩的话，最差行为集合将会被执行（Jackson & Pargetter 1986: 237）。同样地，琼斯的⟨去办公室⟩是她随时间可以执行的最佳行为集合的一部分，但它也是她随时间可以执行的最差行为集合的一部分，如果琼斯⟨去办公室⟩的话，最差行为集合将会被执行。
 
 在某种意义上，情境主义实在主义可以回避这种可能性主义的反对意见，因为情境主义实在主义者同意可能性主义者的观点，即一个行动者应该在一段时间内尽力做到最好，并且，此义务应该在前述意义上优先于其他所有义务（Jackson 1985: 194; Jackson & Pargetter 1986: 242–243; Jackson 2014: 636）。可能性主义者可能对这个回应不满意。由于可能性主义者接受ODC，他们推断出拖延症患者有义务同意审查论文，因为拖延症患者有义务同意审查论文并写评论。情境主义实在主义否认拖延症患者有义务同意审查论文，这是以拒绝ODC为代价的。
 
 **3.5.2 制裁不良行为3.5.2 制裁不良行为**
 
-\[所有这些实在主义版本都面临着第二个可能主义者的反对意见：它们规定了行动者可以轻易避免的不良行为(Wedgwood 2009 \[]\() 所有这些实在主义版本都面临着第二个可能主义者的反对意见：它们规定了行动者可以轻易避免的不良行为(Wedgwood 2009 \[[OIR](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Oth)\[]; Ross 2012: 75–76)。例如，拖延教授可以通过同意审查论文来轻松避免⟨拒绝审查论文⟩，一旦拖延教授⟨同意审查论文⟩，她可以轻松地⟨写评论⟩。然而，所有这些实在主义版本都坚持认为拖延教授应该⟨拒绝审查论文⟩而不是⟨同意审查论文⟩。其他极端的实在主义-可能主义情景突显了这一反对意见的力量。假设以下行动集是大规模杀人犯M在t1�1时可用的最佳行动集\* 1�1时可用的最佳行动集M在t\[1�1时可用的最佳行动集和t2�2时可用的最佳行动集是\* 1�1时可用的最佳行动集和t\[2�2时可用的最佳行动集是。然而，假设M的最佳即时可用选项是在t1�1时杀人⟩，这是由以下两个反事实条件的真实性所决定的：“如果\* 2�2时可用的最佳行动集是。然而，假设M的最佳即时可用选项是在t\[1�1时杀人⟩，这是由以下两个反事实条件的真实性所决定的：“如果M在t1�1时杀人⟩，那么\* 1�1时杀人⟩，那么M在t2�2时不杀人”，“如果 1�1时杀人⟩，那么M在t\[2�2时杀十个人”。可能主义者声称M应该在t1�1–\* 1�1–t\[2�2期间不杀人，因此M应该在t\[1�1时不杀人。然而，实在主义者声称M应该在t\[1�1时杀人。至少情境主义实在主义允许人们说，尽管在t\[1�1时杀人是义务的，但这样做违反了M的义务，即在t1�1– 1�1–t2�2期间不杀人。戈德曼和索贝尔的版本无法适应这种安抚的判断。 2�2。戈德曼和索贝尔的版本无法适应这种安抚的判断。
+[所有这些实在主义版本都面临着第二个可能主义者的反对意见：它们规定了行动者可以轻易避免的不良行为(Wedgwood 2009 []() 所有这些实在主义版本都面临着第二个可能主义者的反对意见：它们规定了行动者可以轻易避免的不良行为(Wedgwood 2009 [[OIR](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Oth)[]; Ross 2012: 75–76)。例如，拖延教授可以通过同意审查论文来轻松避免⟨拒绝审查论文⟩，一旦拖延教授⟨同意审查论文⟩，她可以轻松地⟨写评论⟩。然而，所有这些实在主义版本都坚持认为拖延教授应该⟨拒绝审查论文⟩而不是⟨同意审查论文⟩。其他极端的实在主义-可能主义情景突显了这一反对意见的力量。假设以下行动集是大规模杀人犯M在t1�1时可用的最佳行动集* 1�1时可用的最佳行动集M在t[1�1时可用的最佳行动集和t2�2时可用的最佳行动集是* 1�1时可用的最佳行动集和t[2�2时可用的最佳行动集是。然而，假设M的最佳即时可用选项是在t1�1时杀人⟩，这是由以下两个反事实条件的真实性所决定的：“如果* 2�2时可用的最佳行动集是。然而，假设M的最佳即时可用选项是在t[1�1时杀人⟩，这是由以下两个反事实条件的真实性所决定的：“如果M在t1�1时杀人⟩，那么* 1�1时杀人⟩，那么M在t2�2时不杀人”，“如果 1�1时杀人⟩，那么M在t[2�2时杀十个人”。可能主义者声称M应该在t1�1–* 1�1–t[2�2期间不杀人，因此M应该在t[1�1时不杀人。然而，实在主义者声称M应该在t[1�1时杀人。至少情境主义实在主义允许人们说，尽管在t[1�1时杀人是义务的，但这样做违反了M的义务，即在t1�1– 1�1–t2�2期间不杀人。戈德曼和索贝尔的版本无法适应这种安抚的判断。 2�2。戈德曼和索贝尔的版本无法适应这种安抚的判断。
 
 值得注意的是，可能性主义被认为存在一个相关问题。虽然它不允许行为者因为具有恶劣的道德品质而避免承担道德义务，但它允许行为者避免承担减少其恶劣道德品质的道德义务（Timmerman和Swenson 2019）。为了说明这个问题，假设无所谓的安迪可以在一段时间内执行的最优行为集合之一包括《今晚玩电子游戏，明天捐出可支配收入给慈善机构》。然而，安迪非常冷漠。因此，除非他首先阅读彼得·辛格的作品，否则他不会在明天捐出可支配收入给慈善机构。如果他今晚玩电子游戏，他只会加强他自私的本性，并且会用可支配收入购买更多的电子游戏。问题在于，无所谓的安迪可以执行的另一个最优行为集合是《今晚阅读彼得·辛格的作品，明天捐出可支配收入给慈善机构》。而且，如果安迪今晚阅读彼得·辛格的作品，他将会在明天捐出可支配收入给慈善机构。然而，对安迪来说，执行这个最优行为集合并不愉快，因为他觉得阅读哲学很乏味。问题在于，可能性主义认为安迪被允许《今晚玩电子游戏》，这不仅会导致次优的结果，而且会加剧（而不是减少）他的恶劣道德品质。相比之下，实在主义意味着安迪有义务通过《今晚阅读彼得·辛格的作品》来改善他的道德品质，实在主义确保安迪将会在明天捐出可支配收入给慈善机构。因此，无论是可能性主义还是实在主义似乎都太容易放过具有恶劣道德品质的行为者，尽管在不同的情况和不同的方式中。
 
@@ -245,7 +245,7 @@ Goldman的 Goldman的 [(G\*1)](https://plato.stanford.edu/entries/actualism-poss
 
 ### 4. 安全主义观点4. 安全主义观点 <a href="#id-4-an-quan-zhu-yi-guan-dian-4-an-quan-zhu-yi-guan-dian" id="id-4-an-quan-zhu-yi-guan-dian-4-an-quan-zhu-yi-guan-dian"></a>
 
-回想一下，我们一直在讨论的实在主义和可能性主义情景类型——回想一下，我们一直在讨论的实在主义和可能性主义情景类型——拖延教授 和和琼斯的情况，都是涉及不同时间点上进行的不同行为的历时性情景。例如，在拖延教授的情况中，一个相关的反事实是，如果她在t1时同意审查论文，那么她在t2时就不会写评论。前提中的行为和结论中的行为是在不同的时间点上标记的。表面上看，历时性情景似乎会产生与同步性情景相同的结果，即在同一时间进行不同行为的情况。但正如戈德曼（1978年）所示，同步的实在主义和可能性主义情景为实在主义带来了新的困难，包括戈德曼（1976年）[(G\*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1)所提到的困难，解决这些困难的方法是将对某些反事实的真值引入控制条件。]\()
+回想一下，我们一直在讨论的实在主义和可能性主义情景类型——回想一下，我们一直在讨论的实在主义和可能性主义情景类型——拖延教授 和和琼斯的情况，都是涉及不同时间点上进行的不同行为的历时性情景。例如，在拖延教授的情况中，一个相关的反事实是，如果她在t1时同意审查论文，那么她在t2时就不会写评论。前提中的行为和结论中的行为是在不同的时间点上标记的。表面上看，历时性情景似乎会产生与同步性情景相同的结果，即在同一时间进行不同行为的情况。但正如戈德曼（1978年）所示，同步的实在主义和可能性主义情景为实在主义带来了新的困难，包括戈德曼（1976年）[(G*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1)所提到的困难，解决这些困难的方法是将对某些反事实的真值引入控制条件。]()
 
 #### 4.1 一种同步的实在主义-可能性主义案例4.1 一种同步的实在主义-可能性主义案例 <a href="#id-41-yi-zhong-tong-bu-de-shi-zai-zhu-yi-ke-neng-xing-zhu-yi-an-li-41-yi-zhong-tong-bu-de-shi-zai-zhu-y" id="id-41-yi-zhong-tong-bu-de-shi-zai-zhu-yi-ke-neng-xing-zhu-yi-an-li-41-yi-zhong-tong-bu-de-shi-zai-zhu-y"></a>
 
@@ -267,15 +267,15 @@ Goldman的 Goldman的 [(G\*1)](https://plato.stanford.edu/entries/actualism-poss
 
 #### 4.2 完全指定的即时选项4.2 完全指定的即时选项 <a href="#id-42-wan-quan-zhi-ding-de-ji-shi-xuan-xiang-42-wan-quan-zhi-ding-de-ji-shi-xuan-xiang" id="id-42-wan-quan-zhi-ding-de-ji-shi-xuan-xiang-42-wan-quan-zhi-ding-de-ji-shi-xuan-xiang"></a>
 
-Goldman的修订观点仍然采纳了 Goldman的修订观点仍然采纳了 [(G\*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1) 即，为了避免共同无法实现的义务的可能性，义务行为集（或者，正如Goldman所称的，一系列行为）必须是这样的：如果代理人立即执行行为集的第一个行为，那么它将发生，并且代理人能够执行这个行为集的第一个行为。Goldman的修订观点（1978: 202）被称为“4”，但我们在这里将其称为(G+)： 即，为了避免共同无法实现的义务的可能性，义务行为集（或者，正如Goldman所称的，一系列行为）必须是这样的：如果代理人立即执行行为集的第一个行为，那么它将发生，并且代理人能够执行这个行为集的第一个行为。Goldman的修订观点（1978: 202）被称为“4”，但我们在这里将其称为(G+)：
+Goldman的修订观点仍然采纳了 Goldman的修订观点仍然采纳了 [(G*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1) 即，为了避免共同无法实现的义务的可能性，义务行为集（或者，正如Goldman所称的，一系列行为）必须是这样的：如果代理人立即执行行为集的第一个行为，那么它将发生，并且代理人能够执行这个行为集的第一个行为。Goldman的修订观点（1978: 202）被称为“4”，但我们在这里将其称为(G+)： 即，为了避免共同无法实现的义务的可能性，义务行为集（或者，正如Goldman所称的，一系列行为）必须是这样的：如果代理人立即执行行为集的第一个行为，那么它将发生，并且代理人能够执行这个行为集的第一个行为。Goldman的修订观点（1978: 202）被称为“4”，但我们在这里将其称为(G+)：
 
 (G+) (G+)S ought at 应该在 t1�1执行最大序列 1�1执行最大序列 X starting at 从 t 开始1�1 if and only if 1�1当且仅当 S has the ability at 在 t 有能力1�1执行 执行 X, and ，并且 X is better than any alternative maximal sequence starting from 优于从 t 开始的任何其他最大序列1�1 which 1�1，其中 S also has the ability at 也在 t 有能力1�1执行。 执行。
 
-Unlike 不同于 [(G\*1) ](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1), Goldman’s revised view requires the first act to be a fully specific simultaneous act-set. Moreover, the kind of act-set that should be directly assessed is a ，Goldman的修订观点要求第一个行为是一个完全具体的同时行为集。此外，应直接评估的行为集的类型是一个sequence. 序列。 S has the ability at 在 t 有能力1�1执行 执行 X only if 当且仅当 S has the ability at 在 t 有能力1�1立即执行第一个完全具体的同时行为集 。Goldman的（1978年：201）最大序列的概念与可能主义者前述的最大行为集的概念不同，后者延伸到一个人的一生结束。因为根据Goldman（1978年：193-195），在 t an agent can perform an act-set over time if and only if, if at 如果一个代理人可以随着时间的推移执行一个行为集，当且仅当在 t the agent wanted to perform this act-set, then the agent would do so over time. This implies that the performable act-set over time must be such that the agent can, at 代理人想要执行这个行为集，那么代理人将随着时间的推移这样做。这意味着随着时间的推移可执行的行为集必须是这样的，即代理人可以在 t, form an intention to perform this act-set over time that would be causally efficacious if the intention were formed. Goldman’s notion of a maximal sequence is thus more restricted. That is, a maximal sequence ，形成一个意图随着时间的推移执行这个行为集，如果形成了这个意图，它将具有因果效力。因此，Goldman的最大序列的概念更加受限制。也就是说，一个最大序列 X is an act-set available to an agent at 是一个代理人在 t 可用的行为集is such that, at 是这样的，即在 t, the agent can form an intention to perform ，代理人可以形成一个意图执行 X, and no other act-set that at ，并且没有其他行为集在 t the agent can intend to perform is a proper part of 代理人可以打算执行是 X 的一个适当部分. So, henceforth, we will refer to Goldman’s notion of a maximal sequence as an 因此，从现在开始，我们将把Goldman的最大序列的概念称为一个intentionally maximal act-set\* 有意最大行为集，这与最大行为集有所区别。
+Unlike 不同于 [(G*1) ](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1), Goldman’s revised view requires the first act to be a fully specific simultaneous act-set. Moreover, the kind of act-set that should be directly assessed is a ，Goldman的修订观点要求第一个行为是一个完全具体的同时行为集。此外，应直接评估的行为集的类型是一个sequence. 序列。 S has the ability at 在 t 有能力1�1执行 执行 X only if 当且仅当 S has the ability at 在 t 有能力1�1立即执行第一个完全具体的同时行为集 。Goldman的（1978年：201）最大序列的概念与可能主义者前述的最大行为集的概念不同，后者延伸到一个人的一生结束。因为根据Goldman（1978年：193-195），在 t an agent can perform an act-set over time if and only if, if at 如果一个代理人可以随着时间的推移执行一个行为集，当且仅当在 t the agent wanted to perform this act-set, then the agent would do so over time. This implies that the performable act-set over time must be such that the agent can, at 代理人想要执行这个行为集，那么代理人将随着时间的推移这样做。这意味着随着时间的推移可执行的行为集必须是这样的，即代理人可以在 t, form an intention to perform this act-set over time that would be causally efficacious if the intention were formed. Goldman’s notion of a maximal sequence is thus more restricted. That is, a maximal sequence ，形成一个意图随着时间的推移执行这个行为集，如果形成了这个意图，它将具有因果效力。因此，Goldman的最大序列的概念更加受限制。也就是说，一个最大序列 X is an act-set available to an agent at 是一个代理人在 t 可用的行为集is such that, at 是这样的，即在 t, the agent can form an intention to perform ，代理人可以形成一个意图执行 X, and no other act-set that at ，并且没有其他行为集在 t the agent can intend to perform is a proper part of 代理人可以打算执行是 X 的一个适当部分. So, henceforth, we will refer to Goldman’s notion of a maximal sequence as an 因此，从现在开始，我们将把Goldman的最大序列的概念称为一个intentionally maximal act-set* 有意最大行为集，这与最大行为集有所区别。
 
 请回忆，根据 请回忆，根据能力2，一个行动者 ，一个行动者S 只有在以下情况下才能立即执行一个完全具体的行动集，即在一个有意最大的行动集中，如果 只有在以下情况下才能立即执行一个完全具体的行动集，即在一个有意最大的行动集中，如果S 想这样做，我们可以假设琼斯能够执行(1)–(4)中的每一个。在这个假设下， 想这样做，我们可以假设琼斯能够执行(1)–(4)中的每一个。在这个假设下，[(G+)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exGp) 意味着尽管琼斯如果不加速的话会改变车道，但琼斯仍然应该做一些需要她不加速的事情，即不改变车道和不加速。要了解(G+)与 意味着尽管琼斯如果不加速的话会改变车道，但琼斯仍然应该做一些需要她不加速的事情，即不改变车道和不加速。要了解(G+)与[section 3](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#Actu)中的实在主义版本有何不同，考虑以下版本的 中的实在主义版本有何不同，考虑以下版本的拖延教授： ：
 
-* 拖延教授：\*\* 如果拖延教授在t1接受请求，那么拖延教授将通过在t1决定来伤害学生，虚假承诺在t2进行评论。所以如果拖延教授在t1接受请求，那么她将在t2不进行评论。然而，拖延教授可以通过在t2决定来接受并进行评论。此外，如果拖延教授这样做，那么如果拖延教授在t1接受请求，那么她将在t2进行评论（参见Portmore 2011: 204）。
+* 拖延教授：** 如果拖延教授在t1接受请求，那么拖延教授将通过在t1决定来伤害学生，虚假承诺在t2进行评论。所以如果拖延教授在t1接受请求，那么她将在t2不进行评论。然而，拖延教授可以通过在t2决定来接受并进行评论。此外，如果拖延教授这样做，那么如果拖延教授在t1接受请求，那么她将在t2进行评论（参见Portmore 2011: 204）。
 
 根据《G+》，在t1-1时，拖延教授有义务执行一个有意识的最大行为集合M，其中包括接受请求和评论，因为在t1-1时，拖延教授有一个立即可行的具体行为集合，如果执行了该行为集合，M将发生，并且M是拖延教授在t1-1时可以获得的最佳有意识的最大行为集合。相比之下，根据《G1》，在t1-1时，拖延教授有义务不接受请求，因为这将导致在t2-2时执行行为集合M，其中包括不评论，而M优于如果拖延教授在t1-1时接受请求时将发生的行为集合M，因为M包括接受和不评论。
 
@@ -285,19 +285,19 @@ Unlike 不同于 [(G\*1) ](https://plato.stanford.edu/entries/actualism-possibil
 
 即使(i)是真的，拖延所能做的最好的事情是决定接受请求，即决定接受请求并发表评论。这表明，无论我们是根据决策还是明显的身体行为来评估一个行动者的义务，直接评估的行为都是完全具体的同时行为集合，这正是[G+](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exGp)所实现的。
 
-情境主义实在主义和戈德曼的临时但被拒绝的原则 情境主义实在主义和戈德曼的临时但被拒绝的原则 [(G)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG) 同样意味着琼斯有义务执行 同样意味着琼斯有义务执行 t1�1 而不是(2)–(4)中的任何一个，因为这些观点 1�1 而不是(2)–(4)中的任何一个，因为这些观点允许 候选义务行为具体化。但这些观点并不要求 候选义务行为具体化。但这些观点并不要求\* 候选义务行为具体化，因此这些观点还有一个奇特的暗示，在 候选义务行为具体化，因此这些观点还有一个奇特的暗示，在《交通II》中，琼斯有义务进行加速和琼斯有义务不换道。
+情境主义实在主义和戈德曼的临时但被拒绝的原则 情境主义实在主义和戈德曼的临时但被拒绝的原则 [(G)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG) 同样意味着琼斯有义务执行 同样意味着琼斯有义务执行 t1�1 而不是(2)–(4)中的任何一个，因为这些观点 1�1 而不是(2)–(4)中的任何一个，因为这些观点允许 候选义务行为具体化。但这些观点并不要求 候选义务行为具体化。但这些观点并不要求* 候选义务行为具体化，因此这些观点还有一个奇特的暗示，在 候选义务行为具体化，因此这些观点还有一个奇特的暗示，在《交通II》中，琼斯有义务进行加速和琼斯有义务不换道。
 
 #### 4.3 对即时选择的控制类型4.3 对即时选择的控制类型 <a href="#id-43-dui-ji-shi-xuan-ze-de-kong-zhi-lei-xing-43-dui-ji-shi-xuan-ze-de-kong-zhi-lei-xing" id="id-43-dui-ji-shi-xuan-ze-de-kong-zhi-lei-xing-43-dui-ji-shi-xuan-ze-de-kong-zhi-lei-xing"></a>
 
 到目前为止，我们已经看到，同步的实在主义-可能性主义案例表明，首先，一个行动者有义务执行一个完全具体的即时行动，而不是一个不完全具体的即时行动。因此，同步的反事实并不能部分地确定一个行动者执行某个完全具体的即时行动的义务。这仍然留下一个问题，即一个行动者必须具备什么样的能力才能以相关意义上执行某个即时（完全具体）的行动。例如，Goldman（1978: 195, 204–205）的“能力2”是能力条件分析的一种版本。能力条件分析在某些人看来仍然值得怀疑，因为一个行动者对自己的欲望没有直接控制权。鉴于此，可以推断出关于一个行动者如果有不同的欲望会做什么的事实与她的能力无关（Lehrer 1968; Curran 1995: 82）。然而，由于许多实在主义-可能性主义辩论的参与者默认能够做出不同选择的能力与关于一个行动者在特定情况下将要做或愿意做的事实是相容的，一些人沿袭了Goldman（1978）的观点，认为相关的控制类型是不固定行动者心理构成的所有事实。例如，Doug Portmore（2011）和Jacob Ross（2012）的观点。
 
-\[Portmore（2011）理解一个代理人必须对一个选项具有的相关控制类型，即] Portmore（2011）理解一个代理人必须对一个选项具有的相关控制类型为谨慎可保障性。\*\*\*一个行为集（即行为集合）只有在代理人具有一些意图集和一些可允许的背景态度集（包括信念和欲望）的情况下，才能被代理人谨慎地保障（2011: 165）。Portmore（2011: 167）所指的态度类型是对理由判断敏感的态度，即对理由判断敏感的态度（Scanlon 1998: 20）。。一个行为集（即行为集合）只有在代理人具有一些意图集和一些可允许的背景态度集（包括信念和欲望）的情况下，才能被代理人谨慎地保障（2011: 165）。Portmore（2011: 167）所指的态度类型是对理由判断敏感的态度，即对理由判断敏感的态度（Scanlon 1998: 20）。
+[Portmore（2011）理解一个代理人必须对一个选项具有的相关控制类型，即] Portmore（2011）理解一个代理人必须对一个选项具有的相关控制类型为谨慎可保障性。***一个行为集（即行为集合）只有在代理人具有一些意图集和一些可允许的背景态度集（包括信念和欲望）的情况下，才能被代理人谨慎地保障（2011: 165）。Portmore（2011: 167）所指的态度类型是对理由判断敏感的态度，即对理由判断敏感的态度（Scanlon 1998: 20）。。一个行为集（即行为集合）只有在代理人具有一些意图集和一些可允许的背景态度集（包括信念和欲望）的情况下，才能被代理人谨慎地保障（2011: 165）。Portmore（2011: 167）所指的态度类型是对理由判断敏感的态度，即对理由判断敏感的态度（Scanlon 1998: 20）。
 
 这种控制形式类似于条件分析，因为代理人不需要拥有执行行为所需的相关意图和态度，就能够执行该行为。只需要这样的意图和态度存在，代理人就会执行相关行为。Portmore（2011: 166-167）对控制的确切解释如下： 这种控制形式类似于条件分析，因为代理人不需要拥有执行行为所需的相关意图和态度，就能够执行该行为。只需要这样的意图和态度存在，代理人就会执行相关行为。Portmore（2011: 166-167）对控制的确切解释如下：
 
 一组行为， 一组行为，α，在时间 jα，如果且仅如果存在一个时间 t，紧随其后或与之相同， i，一个行为集 i，α，（其中 i，α，可能与 j，α，相同或不同）和一个背景态度集 j，B，满足以下条件：(1) ，满足以下条件：(1) 如果S在t拥有B和执行α的意图，S将执行α；(2) 如果S在t具有继续或达到t的能力，同时拥有B和执行α的意图；(3) 如果S在t知道所有相关的理由构成事实，并且在t以所有和只有规定的方式回应这些事实/理由，从而拥有α的意图（如果α与j不同，也包括执行α的意图），那么S将继续或达到t拥有B，并且根据这些事实，她有充分的理由拥有这些态度。
 
-Portmore（2011年：177）理解一组行为 Portmore（2011年：177）理解一组行为αjα�是一种类似于可能性主义者对最大行为集的概念和Sobel对生活的概念的最大行为集。行为集“ jα�是一种类似于可能性主义者对最大行为集的概念和Sobel对生活的概念的最大行为集。行为集“αiα�”与“ iα�”不相同，例如，当一个人在tj��无法形成执行“ j��无法形成执行“αjα�”的意图时，尽管事实上该代理人将执行 jα�”，尽管事实上该代理人将执行α\[jα�，但如果该代理人在tj��形成执行\* j��形成执行αiα�的意图。例如，对于一个代理人来说，获得博士学位可能是目前可以确保的，尽管她目前无法形成一个意图去做所有获得博士学位所需的事情，至少因为她目前无法打算在她的论文中写关于她尚未学习过的一个想法（Portmore 2011年：169）。因此，无论何时 iα�。例如，对于一个代理人来说，获得博士学位可能是目前可以确保的，尽管她目前无法形成一个意图去做所有获得博士学位所需的事情，至少因为她目前无法打算在她的论文中写关于她尚未学习过的一个想法（Portmore 2011年：169）。因此，无论何时αjα�和 jα�和αiα�不相同，第一部分表明 iα�不相同，第一部分表明S 如果打算执行其他行为集（以及特定的背景态度）如果打算执行其他行为集（以及特定的背景态度）。
+Portmore（2011年：177）理解一组行为 Portmore（2011年：177）理解一组行为αjα�是一种类似于可能性主义者对最大行为集的概念和Sobel对生活的概念的最大行为集。行为集“ jα�是一种类似于可能性主义者对最大行为集的概念和Sobel对生活的概念的最大行为集。行为集“αiα�”与“ iα�”不相同，例如，当一个人在tj��无法形成执行“ j��无法形成执行“αjα�”的意图时，尽管事实上该代理人将执行 jα�”，尽管事实上该代理人将执行α[jα�，但如果该代理人在tj��形成执行* j��形成执行αiα�的意图。例如，对于一个代理人来说，获得博士学位可能是目前可以确保的，尽管她目前无法形成一个意图去做所有获得博士学位所需的事情，至少因为她目前无法打算在她的论文中写关于她尚未学习过的一个想法（Portmore 2011年：169）。因此，无论何时 iα�。例如，对于一个代理人来说，获得博士学位可能是目前可以确保的，尽管她目前无法形成一个意图去做所有获得博士学位所需的事情，至少因为她目前无法打算在她的论文中写关于她尚未学习过的一个想法（Portmore 2011年：169）。因此，无论何时αjα�和 jα�和αiα�不相同，第一部分表明 iα�不相同，第一部分表明S 如果打算执行其他行为集（以及特定的背景态度）如果打算执行其他行为集（以及特定的背景态度）。
 
 上述定义的第二部分指出，代理人必须具备某种态度和意图的能力（或能力）。这使得我们可以回避对能力条件分析提出的困难（参见Portmore 2011: 168）。第三部分指出，代理人的态度必须是可允许的。举例来说，假设Doug在下午2点确保自己在下午6点吃健康餐而不是披萨的唯一方法是持有他的生命依赖于在下午6点吃健康餐的非理性信念。由于似乎他没有义务持有这样的信念，因此可以得出结论，在下午2点，Doug没有义务在下午6点吃健康餐，因为Doug在下午2点无法拥有任何意图和可允许的态度（而不是不可允许的态度）的组合，如果他在下午2点拥有它们，那么他将在下午6点吃健康餐（Portmore 2011: 164–165）。
 
@@ -307,11 +307,11 @@ Portmore（2011: 222）将对控制的概念与适用于道德许可性的理性
 
 安全主义采用自上而下的方法，通过使用规范原则直接评估最大行为集的道义地位，然后将相同的道义地位扩展到包含在相关最大行为集中的非最大行为集（Portmore 2011: 179）。这种方法可以获得Goldman的好处，即避免共同无法实现的义务，并否认任何同步反事实甚至部分决定代理人义务。
 
-Portmore的安全主义——以及其他认为某些固定事实不是目前代理人在某种意义上的观点——因为它没有产生义务尽力而受到批评 Portmore的安全主义——以及其他认为某些固定事实不是目前代理人在某种意义上的观点——因为它没有产生义务尽力而受到批评Ability 1\*\*, 因此安全主义有时要求代理人执行可怕和恶毒的行为，并且它允许人们在面对恶毒或不道德的倾向时避免承担义务（Timmerman 2015; Vessel 2016）。 , 因此安全主义有时要求代理人执行可怕和恶毒的行为，并且它允许人们在面对恶毒或不道德的倾向时避免承担义务（Timmerman 2015; Vessel 2016）。
+Portmore的安全主义——以及其他认为某些固定事实不是目前代理人在某种意义上的观点——因为它没有产生义务尽力而受到批评 Portmore的安全主义——以及其他认为某些固定事实不是目前代理人在某种意义上的观点——因为它没有产生义务尽力而受到批评Ability 1**, 因此安全主义有时要求代理人执行可怕和恶毒的行为，并且它允许人们在面对恶毒或不道德的倾向时避免承担义务（Timmerman 2015; Vessel 2016）。 , 因此安全主义有时要求代理人执行可怕和恶毒的行为，并且它允许人们在面对恶毒或不道德的倾向时避免承担义务（Timmerman 2015; Vessel 2016）。
 
 罗斯（2012年：84）同样认为，代理人可以立即执行需要代理人实际上没有的某种态度的行为，尽管Portmore和Ross在某些情况下存在分歧。以下是罗斯的观点（2012年：91）： 罗斯（2012年：84）同样认为，代理人可以立即执行需要代理人实际上没有的某种态度的行为，尽管Portmore和Ross在某些情况下存在分歧。以下是罗斯的观点（2012年：91）：
 
-* 时刻广义安全主义（MWSS）： 对于任何 对于任何 x 和 和 t，在 ，在 t时刻， 时刻，x 应该是这样的，对于所有 应该是这样的，对于所有 t′�′，如果 ′�′，如果 x \[]\() ΦΦ，无论 Φ，无论 x 在 在 t′�′之后的意图是否对 ′�′之后的意图是否对 x Φ的发生产生因果依赖，以及如果对于每个直接可保证的最优选项 Φ的发生产生因果依赖，以及如果对于每个直接可保证的最优选项 x 在 在 t′�′时刻都涉及 ′�′时刻都涉及 ΦΦ，则 Φ，则 x \[]\() ΦΦ。 Φ。
+* 时刻广义安全主义（MWSS）： 对于任何 对于任何 x 和 和 t，在 ，在 t时刻， 时刻，x 应该是这样的，对于所有 应该是这样的，对于所有 t′�′，如果 ′�′，如果 x []() ΦΦ，无论 Φ，无论 x 在 在 t′�′之后的意图是否对 ′�′之后的意图是否对 x Φ的发生产生因果依赖，以及如果对于每个直接可保证的最优选项 Φ的发生产生因果依赖，以及如果对于每个直接可保证的最优选项 x 在 在 t′�′时刻都涉及 ′�′时刻都涉及 ΦΦ，则 Φ，则 x []() ΦΦ。 Φ。
 
 本质上，MWSS是这样一种观点：“在任何给定的时间，一个行动者有义务在每个未来的时间点上，当前满足史密斯的广义版本。” 本质上，MWSS是这样一种观点：“在任何给定的时间，一个行动者有义务在每个未来的时间点上，当前满足史密斯的广义版本。”[(G+)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exGp) 或者Portmore的安全主义（Ross 2012: 91）。Ross认为，只有MWSS能够解释他核心思想的四个条件（2012: 89, 91）。 或者Portmore的安全主义（Ross 2012: 91）。Ross认为，只有MWSS能够解释他核心思想的四个条件（2012: 89, 91）。
 
@@ -325,8 +325,8 @@ Ross（2012：87-89）希望避免这种暗示。 Ross（2012：87-89）希望�
 
 到目前为止的讨论集中在理解一个代理人应该尽其所能做到（非超额履行）最好的事情的一般概念。但是一些理论认为，一个代理人的道德生活比这更复杂，因为一个代理人能够做到不如（非超额履行）最好的事情也是某种非主要意义上的义务。这种方法部分受到了一些错误行为比其他行为更好的思考的启发。迈克尔·麦金西（1979年：391-392）发展了这种方法，捍卫了多层次义务的观点。他的观点可以如下表述： 到目前为止的讨论集中在理解一个代理人应该尽其所能做到（非超额履行）最好的事情的一般概念。但是一些理论认为，一个代理人的道德生活比这更复杂，因为一个代理人能够做到不如（非超额履行）最好的事情也是某种非主要意义上的义务。这种方法部分受到了一些错误行为比其他行为更好的思考的启发。迈克尔·麦金西（1979年：391-392）发展了这种方法，捍卫了多层次义务的观点。他的观点可以如下表述：
 
-* 义务层次（LO）： \[]\() ϕxx ,t��,� 是一个从 t��,� 是一个从 t 到 到 x的生命序列。每个 的生命序列。每个 ϕxx ,t��,� 都有一个等级 t��,� 都有一个等级 n( (n≥ ≥1)�(�≥1) 相对于从 )�(�≥1) 相对于从 t 到 到 x的其他生命序列。其中 的其他生命序列。其中 n 是一个正整数。如果 是一个正整数。如果 ϕxx ,t��,� 是从 t��,� 是从 t 到 到 x的最佳生命序列之一，那么 的最佳生命序列之一，那么 ϕxx ,tt =1��,�=1；如果 1��,�=1；如果 ϕxx ,t��,� 是第二好的这样的序列之一，那么 t��,� 是第二好的这样的序列之一，那么 ϕxx ,tt =2��,�=2；依此类推。 2��,�=2；依此类推。 x 应该 应该n在 在 t 做 做 Ai�� i�� 当且仅当: :
-* Ai在每个i在每个ϕxx ,t的等级t的等级n.。\* 对于每个对于每个ϕxx ,t的等级t的等级m高于n即，其中即，其中m<\<n)，存在一个存在一个Aj这样j这样ϕxx ,t包含t包含Aj和j和x不会做Aj。j。
+* 义务层次（LO）： []() ϕxx ,t��,� 是一个从 t��,� 是一个从 t 到 到 x的生命序列。每个 的生命序列。每个 ϕxx ,t��,� 都有一个等级 t��,� 都有一个等级 n( (n≥ ≥1)�(�≥1) 相对于从 )�(�≥1) 相对于从 t 到 到 x的其他生命序列。其中 的其他生命序列。其中 n 是一个正整数。如果 是一个正整数。如果 ϕxx ,t��,� 是从 t��,� 是从 t 到 到 x的最佳生命序列之一，那么 的最佳生命序列之一，那么 ϕxx ,tt =1��,�=1；如果 1��,�=1；如果 ϕxx ,t��,� 是第二好的这样的序列之一，那么 t��,� 是第二好的这样的序列之一，那么 ϕxx ,tt =2��,�=2；依此类推。 2��,�=2；依此类推。 x 应该 应该n在 在 t 做 做 Ai�� i�� 当且仅当: :
+* Ai在每个i在每个ϕxx ,t的等级t的等级n.。* 对于每个对于每个ϕxx ,t的等级t的等级m高于n即，其中即，其中m<<n)，存在一个存在一个Aj这样j这样ϕxx ,t包含t包含Aj和j和x不会做Aj。j。
 
 尽管麦肯锡对（LO）的表述相当复杂，但基本思想非常简单。根据（LO），一个行动者的主要义务与可能性主义者所相信的义务是相同的。此外，对于每个最大行动集（或生活），如果在某个时间点，行动者可以执行一个不同于最佳最大行动集但比将要执行的最大行动集更好的行动集，那么行动者有道德义务执行该行动集。为了说明，考虑以下情况：
 
@@ -336,7 +336,7 @@ Ross（2012：87-89）希望避免这种暗示。 Ross（2012：87-89）希望�
 
 麦肯锡公司 的麦肯锡公司（LO）在某种意义上与可能性主义达成一致，因为一个行动者的主要义务与可能性主义的义务是相同的。此外，尽管（LO）可以产生共同无法实现的义务，但（LO）与杰克逊和帕吉特的语境主义实在主义一致，即如果根据（LO）的术语，一个行动者履行了他的主要义务，那么行动者并没有违反任何非主要义务，因为行动者根本没有任何非主要义务。例如，如果本不按下任何按钮，那么根据（LO），本没有按下第一个按钮的次要义务，因此没有违反任何非主要义务。麦肯锡公司的（LO）在某种意义上也与（非语境主义的）实在主义版本达成一致。例如，根据非语境主义版本的实在主义，拖延的义务是⟨拒绝审查论文和不审查论文⟩，而根据麦肯锡公司的观点，这是拖延的次要义务，因为这个行动序列是拖延在一段时间内可以执行的第二最佳行动序列（或第二最佳行动序列的一部分）。
 
-戈德曼（1978年：205-208）认为，义务有两个级别，一个是首要义务，另一个是次要义务，并且履行次要义务比违反两个义务更好。首要义务由戈德曼的[(G+)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exGp)主张调控，次要义务由像戈德曼（1976）主张的伦理原则调控。而次要义务由如戈德曼（1976）主张的伦理原则调控[(G\*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1)。我们在第4节中看到，它不考虑决定某些同时性反事实真值的行动者道德品格。例如，在。【译注：原文缺失部分文本】在tetu教授先拖延的情况下，先拖延的首要义务是协商论文并审查论文，因为存在可以立即执行、具有完全特定的同时行为集的情况，如果执行了，将导致协商并审查论文。相比之下，先拖延的次要义务是拒绝审查论文并不去审查论文，因为先拖延的道德品格使得如果先拖延在t1的时候选择了协商，则会在t2时虚假承诺审查来伤害学生。先拖延的次要义务考虑到了她的道德品格，但没有考虑到她的首要义务。正如戈德曼（1986年:205）所指出的，有时按照我们的实际道德品格进行推理是有用的，而设定次要义务使我们能够以此方式推理。锡默曼（1986:70）也认同非首要义务，并且部分基于关于分离和条件义务的考虑来推动这一立场。。
+戈德曼（1978年：205-208）认为，义务有两个级别，一个是首要义务，另一个是次要义务，并且履行次要义务比违反两个义务更好。首要义务由戈德曼的[(G+)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exGp)主张调控，次要义务由像戈德曼（1976）主张的伦理原则调控。而次要义务由如戈德曼（1976）主张的伦理原则调控[(G*1)](https://plato.stanford.edu/entries/actualism-possibilism-ethics/#exG1)。我们在第4节中看到，它不考虑决定某些同时性反事实真值的行动者道德品格。例如，在。【译注：原文缺失部分文本】在tetu教授先拖延的情况下，先拖延的首要义务是协商论文并审查论文，因为存在可以立即执行、具有完全特定的同时行为集的情况，如果执行了，将导致协商并审查论文。相比之下，先拖延的次要义务是拒绝审查论文并不去审查论文，因为先拖延的道德品格使得如果先拖延在t1的时候选择了协商，则会在t2时虚假承诺审查来伤害学生。先拖延的次要义务考虑到了她的道德品格，但没有考虑到她的首要义务。正如戈德曼（1986年:205）所指出的，有时按照我们的实际道德品格进行推理是有用的，而设定次要义务使我们能够以此方式推理。锡默曼（1986:70）也认同非首要义务，并且部分基于关于分离和条件义务的考虑来推动这一立场。。
 
 ### 6. 最大主义/全主义辩论6. 最大主义/全主义辩论 <a href="#id-6-zui-da-zhu-yi-quan-zhu-yi-bian-lun-6-zui-da-zhu-yi-quan-zhu-yi-bian-lun" id="id-6-zui-da-zhu-yi-quan-zhu-yi-bian-lun-6-zui-da-zhu-yi-quan-zhu-yi-bian-lun"></a>
 
@@ -352,7 +352,7 @@ Ross（2012：87-89）希望避免这种暗示。 Ross（2012：87-89）希望�
 
 在这场辩论中，最大选项简单地被理解为除了自身之外不受任何其他选项所涵盖（Brown 2018: 752）。更准确地说，最大选项可以被理解为“在规范上最具体的选项，因为它仅由规范上等价的选项所涵盖”，其中两个选项在规范相关考虑方面等价，当且仅当它们在所有规范相关考虑方面等价（Portmore 2017a: 428, 2017b: 2955）。任何不是最大选项的选项都将是非最大选项。
 
-为了说明，假设快乐主义行为功利主义是正确的。为了简单起见，假设对于一个行动者S来说，可选择的最大选项是 为了说明，假设快乐主义行为功利主义是正确的。为了简单起见，假设对于一个行动者S来说，可选择的最大选项是 ⟨喝可乐⟩，⟨微笑着不喝任何东西⟩，⟨皱眉不喝任何东西⟩，和⟨喝百事可乐⟩。进一步假设⟨喝可乐⟩会产生5个快乐单位，⟨微笑着不喝任何东西⟩会产生1个快乐单位，⟨皱眉不喝任何东西⟩会产生0个快乐单位，⟨喝百事可乐⟩会产生10个痛苦单位（或-10个快乐单位）。对于S来说，可选择的非最大选项包括]\() ⟨喝可乐⟩，⟨微笑着不喝任何东西⟩，⟨皱眉不喝任何东西⟩，和⟨喝百事可乐⟩。进一步假设⟨喝可乐⟩会产生5个快乐单位，⟨微笑着不喝任何东西⟩会产生1个快乐单位，⟨皱眉不喝任何东西⟩会产生0个快乐单位，⟨喝百事可乐⟩会产生10个痛苦单位（或-10个快乐单位）。对于S\*来说，可选择的非最大选项包括 \*⟨喝苏打水⟩和⟨不喝任何东西⟩。最后，假设以下反事实是真实的。]\() \*⟨喝苏打水⟩和⟨不喝任何东西⟩。最后，假设以下反事实是真实的。
+为了说明，假设快乐主义行为功利主义是正确的。为了简单起见，假设对于一个行动者S来说，可选择的最大选项是 为了说明，假设快乐主义行为功利主义是正确的。为了简单起见，假设对于一个行动者S来说，可选择的最大选项是 ⟨喝可乐⟩，⟨微笑着不喝任何东西⟩，⟨皱眉不喝任何东西⟩，和⟨喝百事可乐⟩。进一步假设⟨喝可乐⟩会产生5个快乐单位，⟨微笑着不喝任何东西⟩会产生1个快乐单位，⟨皱眉不喝任何东西⟩会产生0个快乐单位，⟨喝百事可乐⟩会产生10个痛苦单位（或-10个快乐单位）。对于S来说，可选择的非最大选项包括]() ⟨喝可乐⟩，⟨微笑着不喝任何东西⟩，⟨皱眉不喝任何东西⟩，和⟨喝百事可乐⟩。进一步假设⟨喝可乐⟩会产生5个快乐单位，⟨微笑着不喝任何东西⟩会产生1个快乐单位，⟨皱眉不喝任何东西⟩会产生0个快乐单位，⟨喝百事可乐⟩会产生10个痛苦单位（或-10个快乐单位）。对于S*来说，可选择的非最大选项包括 *⟨喝苏打水⟩和⟨不喝任何东西⟩。最后，假设以下反事实是真实的。]() *⟨喝苏打水⟩和⟨不喝任何东西⟩。最后，假设以下反事实是真实的。
 
 1. 如果S喝一杯苏打，S会喝一杯百事可乐。
 2. 如果S什么都不喝，S会微笑着什么都不喝。
@@ -405,8 +405,8 @@ Ross（2012：87-89）希望避免这种暗示。 Ross（2012：87-89）希望�
 * Curran, Angela, 1995, “Utilitarianism and Future Mistakes: Another Look”, Curran, Angela, 1995, “Utilitarianism and Future Mistakes: Another Look”, Philosophical Studies, 78(1): 71–85. doi:10.1007/BF00989819, 78(1): 71–85. doi:10.1007/BF00989819
 * Feldman, Fred, 1986, Feldman, Fred, 1986, Doing the Best We Can, Boston: D. Reidel Publishing Company., Boston: D. Reidel Publishing Company.
 * Gauthier, David, 1994, “Assure and Threaten”, Gauthier, David, 1994, “Assure and Threaten”, Ethics, 104(4): 690–721. doi:10.1086/293651, 104(4): 690–721. doi:10.1086/293651
-* Goldman, Holly S. \[Holly M. Smith], 1976, “Dated Rightness and Moral Imperfection”, Goldman, Holly S. \[Holly M. Smith], 1976, “Dated Rightness and Moral Imperfection”, The Philosophical Review, 85(4): 449. doi:10.2307/2184275, 85(4): 449. doi:10.2307/2184275
-* –––, 1978, “Doing the Best One Can”, in –––, 1978, “Doing the Best One Can”, in Values and Morals: Essays in Honor of William Frankena, Charles Stevenson, and Richard Brandt, Alvin I. Goldman and Jaegwon Kim (eds.), Dordrecht: Springer Netherlands, 185–214. doi:10.1007/978-94-015-7634-5\_11, Alvin I. Goldman and Jaegwon Kim (eds.), Dordrecht: Springer Netherlands, 185–214. doi:10.1007/978-94-015-7634-5\_11
+* Goldman, Holly S. [Holly M. Smith], 1976, “Dated Rightness and Moral Imperfection”, Goldman, Holly S. [Holly M. Smith], 1976, “Dated Rightness and Moral Imperfection”, The Philosophical Review, 85(4): 449. doi:10.2307/2184275, 85(4): 449. doi:10.2307/2184275
+* –––, 1978, “Doing the Best One Can”, in –––, 1978, “Doing the Best One Can”, in Values and Morals: Essays in Honor of William Frankena, Charles Stevenson, and Richard Brandt, Alvin I. Goldman and Jaegwon Kim (eds.), Dordrecht: Springer Netherlands, 185–214. doi:10.1007/978-94-015-7634-5_11, Alvin I. Goldman and Jaegwon Kim (eds.), Dordrecht: Springer Netherlands, 185–214. doi:10.1007/978-94-015-7634-5_11
 * Greenspan, P. S., 1975, “Conditional Oughts and Hypothetical Imperatives”, Greenspan, P. S., 1975, “Conditional Oughts and Hypothetical Imperatives”, Journal of Philosophy, 72(10): 259–276. doi:10.2307/2024734, 72(10): 259–276. doi:10.2307/2024734
 * –––, 1978, “Oughts and Determinism: A Response to Goldman”, –––, 1978, “Oughts and Determinism: A Response to Goldman”, The Philosophical Review, 87(1): 77–83. doi:10.2307/2184348, 87(1): 77–83. doi:10.2307/2184348
 * Gustafsson, Johan E., 2014, “Combinative Consequentialism and the Problem of Act Versions”, Gustafsson, Johan E., 2014, “Combinative Consequentialism and the Problem of Act Versions”, Philosophical Studies, 167(3): 585–596. doi:10.1007/s11098-013-0114-x, 167(3): 585–596. doi:10.1007/s11098-013-0114-x
@@ -431,7 +431,7 @@ Ross（2012：87-89）希望避免这种暗示。 Ross（2012：87-89）希望�
 * Scanlon, T. M., 1998, Scanlon, T. M., 1998, What We Owe to Each Other, Cambridge, Mass.: Belknap Press., Cambridge, Mass.: Belknap Press.
 * Sobel, Jordan Howard, 1976, “Utilitarianism and Past and Future Mistakes”, Sobel, Jordan Howard, 1976, “Utilitarianism and Past and Future Mistakes”, Noûs, 10(2): 195. doi:10.2307/2214575, 10(2): 195. doi:10.2307/2214575
 * Stalnaker, Robert C., 1968, “A Theory of Conditionals”, in Nicholas Rescher (ed.), Stalnaker, Robert C., 1968, “A Theory of Conditionals”, in Nicholas Rescher (ed.), Studies in Logical Theory, (American Philosophical Quarterly Monograph Series, 2), Oxford: Blackwell, pp. 98–112., (American Philosophical Quarterly Monograph Series, 2), Oxford: Blackwell, pp. 98–112.
-* Thomason, Richmond H., 1981, “Deontic Logic and the Role of Freedom in Moral Deliberation”, in Thomason, Richmond H., 1981, “Deontic Logic and the Role of Freedom in Moral Deliberation”, in New Studies in Deontic Logic, Risto Hilpinen (ed.), Dordrecht: Springer Netherlands, 177–186. doi:10.1007/978-94-009-8484-4\_8, Risto Hilpinen (ed.), Dordrecht: Springer Netherlands, 177–186. doi:10.1007/978-94-009-8484-4\_8
+* Thomason, Richmond H., 1981, “Deontic Logic and the Role of Freedom in Moral Deliberation”, in Thomason, Richmond H., 1981, “Deontic Logic and the Role of Freedom in Moral Deliberation”, in New Studies in Deontic Logic, Risto Hilpinen (ed.), Dordrecht: Springer Netherlands, 177–186. doi:10.1007/978-94-009-8484-4_8, Risto Hilpinen (ed.), Dordrecht: Springer Netherlands, 177–186. doi:10.1007/978-94-009-8484-4_8
 * Timmerman, Travis, 2015, “Does Scrupulous Securitism Stand-up to Scrutiny? Two Problems for Moral Securitism and How We Might Fix Them”, Timmerman, Travis, 2015, “Does Scrupulous Securitism Stand-up to Scrutiny? Two Problems for Moral Securitism and How We Might Fix Them”, Philosophical Studies, 172(6): 1509–1528. doi:10.1007/s11098-014-0362-4, 172(6): 1509–1528. doi:10.1007/s11098-014-0362-4
 * Timmerman, Travis and Yishai Cohen, 2016, “Moral Obligations: Actualist, Possibilist, or Hybridist?”, Timmerman, Travis and Yishai Cohen, 2016, “Moral Obligations: Actualist, Possibilist, or Hybridist?”, Australasian Journal of Philosophy, 94(4): 672–686. doi:10.1080/00048402.2016.1140789, 94(4): 672–686. doi:10.1080/00048402.2016.1140789
 * Timmerman, Travis and Philip Swenson, 2019, “How to be an Actualist and Blame People”, in David Shoemaker (ed.), Timmerman, Travis and Philip Swenson, 2019, “How to be an Actualist and Blame People”, in David Shoemaker (ed.), Oxford Studies in Agency and Responsibility (Volume 6), New York: Oxford University Press. (Volume 6), New York: Oxford University Press.
@@ -453,7 +453,7 @@ Ross（2012：87-89）希望避免这种暗示。 Ross（2012：87-89）希望�
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=actualism-possibilism-ethics)..                                                                                                                        |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/actualism-possibilism-ethics/) at the at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/)..                                            |
-| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=actualism-possibilism-ethics\&redirect=True) at the Internet Philosophy Ontology Project (InPhO). at the Internet Philosophy Ontology Project (InPhO). |
+| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=actualism-possibilism-ethics&redirect=True) at the Internet Philosophy Ontology Project (InPhO). at the Internet Philosophy Ontology Project (InPhO). |
 | ​![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)​      | [Enhanced bibliography for this entry](https://philpapers.org/sep/actualism-possibilism-ethics/) at at [PhilPapers](https://philpapers.org/), with links to its database., with links to its database.                                             |
 
 ### Other Internet Resources <a href="#other-internet-resources" id="other-internet-resources"></a>
@@ -468,6 +468,6 @@ Ross（2012：87-89）希望避免这种暗示。 Ross（2012：87-89）希望�
 
 We wish to thank Andrew Forcehimes, Doug Portmore, and Holly Smith for very helpful input on earlier versions on this entry. Work on this entry was sponsored by a University Research Council grant from Seton Hall University and a grant from the National Endowment for the Humanities. This work is the product of full and equal collaboration between its authors.We wish to thank Andrew Forcehimes, Doug Portmore, and Holly Smith for very helpful input on earlier versions on this entry. Work on this entry was sponsored by a University Research Council grant from Seton Hall University and a grant from the National Endowment for the Humanities. This work is the product of full and equal collaboration between its authors.
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by by\
-[Travis Timmerman](http://www.travistimmerman.com/) < <[travis.timmerman@shu.edu](mailto:travis%2etimmerman%40shu%2eedu)>>\
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by by
+[Travis Timmerman](http://www.travistimmerman.com/) < <[travis.timmerman@shu.edu](mailto:travis%2etimmerman%40shu%2eedu)>>
 [Yishai Cohen](https://usm.maine.edu/directories/people/yishai-cohen/) < <[yishai.cohen@maine.edu](mailto:yishai%2ecohen%40maine%2eedu)>>

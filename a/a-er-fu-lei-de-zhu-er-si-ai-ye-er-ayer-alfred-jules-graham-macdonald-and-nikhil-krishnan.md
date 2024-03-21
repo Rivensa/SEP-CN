@@ -2,4 +2,4 @@
 
 * [**Ayer, Alfred Jules**](https://plato.stanford.edu/entries/ayer/) (Graham Macdonald and Nikhil Krishnan)
 
-\
+

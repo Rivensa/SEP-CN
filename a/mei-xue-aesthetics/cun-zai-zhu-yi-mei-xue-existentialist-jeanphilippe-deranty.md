@@ -12,9 +12,9 @@
 
 一些存在主义者撰写了关于不同艺术形式以及它们如何相互比较的实质性分析，详细阐述了类似于古典美学的“艺术体系”。除了默勒-庞蒂，所有的存在主义思想家都认为戏剧是最能展示艺术启示潜力的形式，其次是小说。
 
-* [1. 存在主义美学的形而上学基础](https://plato.stanford.edu/entries/aesthetics-existentialist/#MetFouExiAes) \* [2. 存在主义美学的现象学核心](https://plato.stanford.edu/entries/aesthetics-existentialist/#PheCorExiAes) \* [3. 艺术作为世界的启示](https://plato.stanford.edu/entries/aesthetics-existentialist/#ArtRevWor) \* [4. 艺术作为人类自由的表达](https://plato.stanford.edu/entries/aesthetics-existentialist/#ArtExpHumFre) \* [5. 艺术与荒谬](https://plato.stanford.edu/entries/aesthetics-existentialist/#ArtAbs) \* [6. 艺术品的本体论](https://plato.stanford.edu/entries/aesthetics-existentialist/#OntArt) \* [7. 表达理论](https://plato.stanford.edu/entries/aesthetics-existentialist/#TheExp) \* [8. 艺术家](https://plato.stanford.edu/entries/aesthetics-existentialist/#Art) \* [9. 观众](https://plato.stanford.edu/entries/aesthetics-existentialist/#Aud) \* [10. 存在主义“艺术体系”](https://plato.stanford.edu/entries/aesthetics-existentialist/#ExiSysArt)
-* [10.1 剧院](https://plato.stanford.edu/entries/aesthetics-existentialist/#The) \* [10.2 小说](https://plato.stanford.edu/entries/aesthetics-existentialist/#Nov) \* [10.3 诗歌](https://plato.stanford.edu/entries/aesthetics-existentialist/#Poe) \* [10.4 非语言艺术：绘画和音乐](https://plato.stanford.edu/entries/aesthetics-existentialist/#NonLinArtPaiMusCin) \* [10.5 电影](https://plato.stanford.edu/entries/aesthetics-existentialist/#Cin) \* [参考文献](https://plato.stanford.edu/entries/aesthetics-existentialist/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/aesthetics-existentialist/#PriSou) \* [精选次要来源](https://plato.stanford.edu/entries/aesthetics-existentialist/#SelSecSou) \* [学术工具](https://plato.stanford.edu/entries/aesthetics-existentialist/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-existentialist/#Oth) \* [相关条目](https://plato.stanford.edu/entries/aesthetics-existentialist/#Rel)
+* [1. 存在主义美学的形而上学基础](https://plato.stanford.edu/entries/aesthetics-existentialist/#MetFouExiAes) * [2. 存在主义美学的现象学核心](https://plato.stanford.edu/entries/aesthetics-existentialist/#PheCorExiAes) * [3. 艺术作为世界的启示](https://plato.stanford.edu/entries/aesthetics-existentialist/#ArtRevWor) * [4. 艺术作为人类自由的表达](https://plato.stanford.edu/entries/aesthetics-existentialist/#ArtExpHumFre) * [5. 艺术与荒谬](https://plato.stanford.edu/entries/aesthetics-existentialist/#ArtAbs) * [6. 艺术品的本体论](https://plato.stanford.edu/entries/aesthetics-existentialist/#OntArt) * [7. 表达理论](https://plato.stanford.edu/entries/aesthetics-existentialist/#TheExp) * [8. 艺术家](https://plato.stanford.edu/entries/aesthetics-existentialist/#Art) * [9. 观众](https://plato.stanford.edu/entries/aesthetics-existentialist/#Aud) * [10. 存在主义“艺术体系”](https://plato.stanford.edu/entries/aesthetics-existentialist/#ExiSysArt)
+* [10.1 剧院](https://plato.stanford.edu/entries/aesthetics-existentialist/#The) * [10.2 小说](https://plato.stanford.edu/entries/aesthetics-existentialist/#Nov) * [10.3 诗歌](https://plato.stanford.edu/entries/aesthetics-existentialist/#Poe) * [10.4 非语言艺术：绘画和音乐](https://plato.stanford.edu/entries/aesthetics-existentialist/#NonLinArtPaiMusCin) * [10.5 电影](https://plato.stanford.edu/entries/aesthetics-existentialist/#Cin) * [参考文献](https://plato.stanford.edu/entries/aesthetics-existentialist/#Bib)
+* [主要来源](https://plato.stanford.edu/entries/aesthetics-existentialist/#PriSou) * [精选次要来源](https://plato.stanford.edu/entries/aesthetics-existentialist/#SelSecSou) * [学术工具](https://plato.stanford.edu/entries/aesthetics-existentialist/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-existentialist/#Oth) * [相关条目](https://plato.stanford.edu/entries/aesthetics-existentialist/#Rel)
 
 ***
 
@@ -92,7 +92,7 @@
 
 对图像意识中“去实在化”方面的强调对艺术作品的本体论地位有重要影响。艺术作品的真实、物质元素，严格来说，并不是审美判断所依附的实际元素。相反，它们依附于一个虚拟对象，即作品的理想品质，其中体现了作品的意义、力量和美感（萨特1940年，213页；参见杜弗雷纳1973年，3页）。根据这种观点，艺术作品的物质方面是理想方面显现的“场合”。萨特坚持在这里要摒弃任何对二元论的怀疑：“没有想象的实现，我们也不能谈论它的客体化”（同上），好像先前的心理表象已经“客体化”并在实际艺术作品中实现了一样。相反，“真实”的艺术作品有两个方面：一个是真实的，一个是“非真实的”（irréel，虚拟的或理想的）。然而，这两者是无法区分的。“因此，绘画应该被看作是一个物质的东西，不时地被一个非真实的东西所访问，这个非真实的东西恰恰就是被绘制的对象”（同上；参见杜弗雷纳1973年，3-18页）。萨特说，真实是理想的“类比”。梅洛-庞蒂用类似的术语来表达，首先是以意义和非意义的术语，后来是以可见和不可见的术语：艺术作品的理想内容“透明地存在于感性之后或感性的核心”。它“在下面加倍了光和声音，是它们的另一面或深度”（梅洛-庞蒂1964a，150-151页，但在1945a，182-183页已经提到）。
 
-艺术作品的这种一般“否定”维度（作为一个理想对象，它不能简化为承载它的物质性）也适用于艺术作品的每个元素及其关系（绘画中的颜色和形状，小说中的词语和句子等）。存在主义美学通常强调艺术表达给世界带来的统一性。由于这种有机统一的强调，它似乎提出了一个相当传统的艺术作品美学品质的形象（例如，从神学角度来看，马塞尔对交响乐和赋格作为自成一体的“完美”示例的讨论\[1960b，53-54页]）。
+艺术作品的这种一般“否定”维度（作为一个理想对象，它不能简化为承载它的物质性）也适用于艺术作品的每个元素及其关系（绘画中的颜色和形状，小说中的词语和句子等）。存在主义美学通常强调艺术表达给世界带来的统一性。由于这种有机统一的强调，它似乎提出了一个相当传统的艺术作品美学品质的形象（例如，从神学角度来看，马塞尔对交响乐和赋格作为自成一体的“完美”示例的讨论[1960b，53-54页]）。
 
 然而，萨特对艺术作品元素之间关系的分析表明，将统一性作为艺术美的标准并不像听起来那么平庸。萨特战前关于想象力的文本对这个主题尤为有启发性。在这些文本中，萨特展示了人类意识的力量与艺术作品的内在连贯性之间的实质关系，人类意识有能力“否定”世界（根据一套存在主义价值观忽视某些方面并强调其他方面），而艺术作品的内在连贯性正是基于这一点：
 
@@ -166,7 +166,7 @@
 
 #### 10.1 剧院 <a href="#id-101-ju-yuan" id="id-101-ju-yuan"></a>
 
-对于大多数存在主义者来说，戏剧是最重要的艺术形式，也就是说，它最能让艺术家利用自己的自由创造一个同时吸引观众自由的虚拟世界（无论我们如何定义这种自由，无论是神学上还是政治上）。对于卡缪、德·博沃亚、马塞尔和萨特来说，哲学活动和作为剧作家的认可是密切相关的（Goldthorpe 1986）。马塞尔将自己定义为“哲学剧作家”（philosophe-dramaturge，参见Lazaron 1978），以坚持他认为哲学冥想和戏剧创作之间的不可分割的统一。事实上，值得注意的是，除了德·博沃亚（她在戏剧创作方面的单次尝试并不成功\[参见德·博沃亚1945b和1962，672-673]）之外，他们在当时都以剧作家和哲学家的身份同样出名。
+对于大多数存在主义者来说，戏剧是最重要的艺术形式，也就是说，它最能让艺术家利用自己的自由创造一个同时吸引观众自由的虚拟世界（无论我们如何定义这种自由，无论是神学上还是政治上）。对于卡缪、德·博沃亚、马塞尔和萨特来说，哲学活动和作为剧作家的认可是密切相关的（Goldthorpe 1986）。马塞尔将自己定义为“哲学剧作家”（philosophe-dramaturge，参见Lazaron 1978），以坚持他认为哲学冥想和戏剧创作之间的不可分割的统一。事实上，值得注意的是，除了德·博沃亚（她在戏剧创作方面的单次尝试并不成功[参见德·博沃亚1945b和1962，672-673]）之外，他们在当时都以剧作家和哲学家的身份同样出名。
 
 可以说，萨特对他所处时代的戏剧的理论反思至今仍然是最广泛阅读的。在描述对他来说存在主义戏剧的定义特征时，萨特也旨在确定戏剧本身的一些主要方面。由于这些特征根植于他的自由理论中，戏剧对于萨特来说是至高无上的艺术。
 
@@ -180,7 +180,7 @@
 
 #### 10.2 小说 <a href="#id-102-xiao-shuo" id="id-102-xiao-shuo"></a>
 
-小说与戏剧非常接近，成为存在主义者选择的艺术形式。对于大多数存在主义者来说，最终的榜样不是哲学家，而是当代小说家；其中两位特别具有典型性，即陀思妥耶夫斯基和卡夫卡。萨特、德波伏尔和卡缪以同等程度看待自己是小说家和哲学家。他们与彼此的小说作品的交流至少与他们的理论作品一样多，甚至更多（卡缪1938b，1939年，萨特1943b）。事实上，正如前面所提到的，小说和自传式的写作是他们哲学观念的直接应用。“思考就是创造一个世界，”卡缪写道，显示了哲学和虚构创作之间的深层联系（卡缪1942b，87-91）。原因与戏剧相同：叙事小说专注于一系列“情境”，在这些情境中，人类面临的基本存在选择可以被精心安排，这是一种强大的方式，可以引发读者自由想象力，并呼唤他们采取行动：“事实上，小说不就是一个赋予行动形式的宇宙吗？”（卡缪1951年，263）。小说是世界的启示，尤其是在其社会和政治紧迫性方面，通过为其他自由赋予自由。正如梅洛-庞蒂在《形而上学与小说》中写道：“知识作品一直关注建立对世界的某种态度，其中文学和哲学，就像政治一样，只是不同的表达方式；但只有现在\[多亏了存在主义哲学]，这种关注才变得明确起来”（梅洛-庞蒂1945c，27；另见卡缪1942b，92和1951年，258-267）。
+小说与戏剧非常接近，成为存在主义者选择的艺术形式。对于大多数存在主义者来说，最终的榜样不是哲学家，而是当代小说家；其中两位特别具有典型性，即陀思妥耶夫斯基和卡夫卡。萨特、德波伏尔和卡缪以同等程度看待自己是小说家和哲学家。他们与彼此的小说作品的交流至少与他们的理论作品一样多，甚至更多（卡缪1938b，1939年，萨特1943b）。事实上，正如前面所提到的，小说和自传式的写作是他们哲学观念的直接应用。“思考就是创造一个世界，”卡缪写道，显示了哲学和虚构创作之间的深层联系（卡缪1942b，87-91）。原因与戏剧相同：叙事小说专注于一系列“情境”，在这些情境中，人类面临的基本存在选择可以被精心安排，这是一种强大的方式，可以引发读者自由想象力，并呼唤他们采取行动：“事实上，小说不就是一个赋予行动形式的宇宙吗？”（卡缪1951年，263）。小说是世界的启示，尤其是在其社会和政治紧迫性方面，通过为其他自由赋予自由。正如梅洛-庞蒂在《形而上学与小说》中写道：“知识作品一直关注建立对世界的某种态度，其中文学和哲学，就像政治一样，只是不同的表达方式；但只有现在[多亏了存在主义哲学]，这种关注才变得明确起来”（梅洛-庞蒂1945c，27；另见卡缪1942b，92和1951年，258-267）。
 
 在存在主义美学中，艺术活动及其作品有着外在的目的：在形而上学和政治意义上向他人揭示世界。正如所指出的，这种美学理论与艺术作品本身就是目的、或风格和形式自证不依的观念相冲突。因此，存在主义者对于当时的一些主要艺术运动，特别是超现实主义，持有深深的怀疑态度，尽管其中一些人赞赏其反叛精神（卡缪斯1951，88-100）；或者，稍后是“新小说”（阿兰·罗布-格里耶、纳塔丽·萨罗特和克洛德·西蒙）和围绕后结构主义期刊“Tel Quel”发展的文学作品（德·波伏儿，见弗朗西斯和冈铁耶226、233-234）。和达达主义、超现实主义以及存在主义时期紧随其后的文学先锋相比，存在主义美学具有过时、几乎保守的氛围。它毫不掩饰地呼吁在形式主义和现实主义之间寻求一种新的古典主义（无论是在自然主义还是社会主义版本中），并超越浪漫主义（卡缪斯1944年和1951年，268-271），因为文学的道德和政治维度不仅在于反抗日常语言和当时的社会政治秩序，而且在于更苛刻（但更谦虚）的任务，即适当地命名世界以揭示在其中统治着的巨大不公，同时也重新发现它的短暂而非人类的美（卡缪斯1951年，272-279）。在他作为文学评论家的繁忙工作中，萨特始终拒绝形式主义和“为艺术而艺术”，即使在法国著名作家如马拉梅或福楼拜的情况下也是如此。然而，也可以从二十世纪政治和艺术关系的角度来看，存在主义要求艺术与日常现实保持强烈联系（以实现其道德和政治角色），这也是完全符合当时的时代的。
 
@@ -198,7 +198,7 @@
 
 #### 10.4 非语言艺术：绘画和音乐 <a href="#id-104-fei-yu-yan-yi-shu-hui-hua-he-yin-le" id="id-104-fei-yu-yan-yi-shu-hui-hua-he-yin-le"></a>
 
-存在主义者对诗歌的不感兴趣（尤其是萨特，他对诗歌甚至持明确的否定态度）是基于他们的观点，即诗人对语言使用的误导。出于同样的原因，其他非论述性的艺术形式吸引的兴趣也几乎和诗歌一样少（然而，参见卡缪1951年第257页）。然而，当讨论它们时，它们比诗歌更受喜爱，因为它们的媒介不是语言，这意味着对诗歌的指责变得无关紧要。强调语言作为表达人类自由的显著媒介复制了已经成为黑格尔美学核心的经典论点（这一点存在主义者完全意识到\[Sartre 1948a，5]）。对其他艺术形式的影响是它们能够产生和传达理想的内容、意义和美，但这些内容不会像语言表达那样被透明地访问。相反，在非语言艺术形式中，理想的内容仍然被困留在艺术品的物质性中：“……用颜色和声音工作是一回事，用语言表达是另一回事。音符、颜色和形式并不是符号。它们不指向自己之外的任何东西。（……）正如梅洛-庞蒂在《感知的现象学》中指出的，没有任何感觉的特质如此单薄以至于它没有包含意义。但是，潜藏在其中的微弱的意义，一种轻盈的喜悦，一种胆怯的悲伤，仍然存在于其中，如同热雾一般。它是颜色或声音。”（Sartre 1948a，1）
+存在主义者对诗歌的不感兴趣（尤其是萨特，他对诗歌甚至持明确的否定态度）是基于他们的观点，即诗人对语言使用的误导。出于同样的原因，其他非论述性的艺术形式吸引的兴趣也几乎和诗歌一样少（然而，参见卡缪1951年第257页）。然而，当讨论它们时，它们比诗歌更受喜爱，因为它们的媒介不是语言，这意味着对诗歌的指责变得无关紧要。强调语言作为表达人类自由的显著媒介复制了已经成为黑格尔美学核心的经典论点（这一点存在主义者完全意识到[Sartre 1948a，5]）。对其他艺术形式的影响是它们能够产生和传达理想的内容、意义和美，但这些内容不会像语言表达那样被透明地访问。相反，在非语言艺术形式中，理想的内容仍然被困留在艺术品的物质性中：“……用颜色和声音工作是一回事，用语言表达是另一回事。音符、颜色和形式并不是符号。它们不指向自己之外的任何东西。（……）正如梅洛-庞蒂在《感知的现象学》中指出的，没有任何感觉的特质如此单薄以至于它没有包含意义。但是，潜藏在其中的微弱的意义，一种轻盈的喜悦，一种胆怯的悲伤，仍然存在于其中，如同热雾一般。它是颜色或声音。”（Sartre 1948a，1）
 
 由于梅洛-庞蒂声称所有艺术形式都像语言一样运作，这似乎在存在主义者之间引入了一些重要的差异。但梅洛-庞蒂在艺术形式之间的重要差异上与萨特达成了一致。《世界的散文》确定了所有表达行为背后的单一来源，使它们可以与语言相提并论，只是要像萨特那样承认语言的特殊性。例如，绘画中的“声音”（绘画的理想内容的隐喻）是一种“沉默之声”，只能讲一种“间接的语言”（马尔罗的著名绘画历史研究的标题）。也就是说，它们仍然与特定的物质性相关联，使艺术品成为一个封闭的世界。在梅洛-庞蒂反复使用的比喻中，每个画家都会重新开始绘画的历史（1960年，309–311），因为同样的可见世界呼唤着无数表达变化，每一种变化在其确定的连贯性中都是独特的。因此，绘画的历史确实由持续回响和交叉组成，每一代都在回顾过去几代的视觉主题和技巧，但作品之间的交流是偶然的，间接的，并不能累积。绘画的历史没有进步。另一方面，语言中过去获得的意义在当前意义中沉淀，允许先前讨论的口语和言语之间的辩证法（梅洛-庞蒂1964b，97-113）。这意味着文学的材料携带着它所说的生活世界的沉淀历史经验。文学也没有进步，不像科学进步那样，但小说通过使用它所产生的生活世界的语言，是广义历史叙述的直接见证。因此，它能够非常有力地描绘伦理和政治情景。
 
@@ -364,16 +364,16 @@
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-existentialist).                                                                      |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/aesthetics-existentialist/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetics-existentialist\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetics-existentialist&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ​![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)​      | [Enhanced bibliography for this entry](http://philpapers.org/sep/aesthetics-existentialist/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ### Other Internet Resources <a href="#other-internet-resources" id="other-internet-resources"></a>
 
-\[Please contact the author with suggestions.]
+[Please contact the author with suggestions.]
 
 ### Related Entries <a href="#related-entries" id="related-entries"></a>
 
 [Beauvoir, Simone de](https://plato.stanford.edu/entries/beauvoir/) | [Camus, Albert](https://plato.stanford.edu/entries/camus/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Marcel, Gabriel (-Honoré)](https://plato.stanford.edu/entries/marcel/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by
 [Jean-Philippe Deranty](http://www.phil.mq.edu.au/staff/deranty.htm) <[jp.deranty@mq.edu.au](mailto:jp%2ederanty%40mq%2eedu%2eau)>

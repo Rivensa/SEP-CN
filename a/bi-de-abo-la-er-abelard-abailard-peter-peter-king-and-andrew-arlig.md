@@ -1,12 +1,12 @@
-# 彼得·阿伯拉尔 Abelard \[Abailard], Peter (Peter King and Andrew Arlig)
+# 彼得·阿伯拉尔 Abelard [Abailard], Peter (Peter King and Andrew Arlig)
 
 第一次发表于2004年8月3日；实质性修订于2022年8月12日
 
-彼得·阿伯拉尔（1079年-1142年4月21日）\[也被称为“阿巴拉尔”、“阿贝拉德”、“哈巴拉尔兹”等等] 是12世纪杰出的哲学家和神学家。作为他那一代的教师，他也因为诗人和音乐家而闻名。在亚里士多德的复兴之前，他把拉丁本土哲学传统推向了巅峰。他的天才在他所做的一切中都显而易见。他可以说是中世纪最伟大的逻辑学家，并且同样以第一个伟大的名义主义哲学家而闻名。他提倡在信仰问题上运用理性（他是第一个以现代意义使用“神学”一词的人），他对宗教教义的系统性处理既因其哲学的深刻洞察力和狡黠灵活性而引人注目，又因其大胆而著名。对于他的同时代人来说，阿伯拉尔似乎比生活本身还要宏伟：他敏锐的智慧、尖刻的舌头、完美的记忆和无边限的傲慢使他在辩论中无与伦比——他被支持者和批评者都称为从未输过任何争论——他的个性魅力深深地打动着与他接触的所有人。他与埃洛伊兹的不幸恋情使他成为浪漫的悲剧人物，而与克莱福尔伯纳德关于理性和宗教的冲突使他成为启蒙运动时期的英雄。尽管他有丰富多彩的一生，但他的哲学成就是他名声的基石。
+彼得·阿伯拉尔（1079年-1142年4月21日）[也被称为“阿巴拉尔”、“阿贝拉德”、“哈巴拉尔兹”等等] 是12世纪杰出的哲学家和神学家。作为他那一代的教师，他也因为诗人和音乐家而闻名。在亚里士多德的复兴之前，他把拉丁本土哲学传统推向了巅峰。他的天才在他所做的一切中都显而易见。他可以说是中世纪最伟大的逻辑学家，并且同样以第一个伟大的名义主义哲学家而闻名。他提倡在信仰问题上运用理性（他是第一个以现代意义使用“神学”一词的人），他对宗教教义的系统性处理既因其哲学的深刻洞察力和狡黠灵活性而引人注目，又因其大胆而著名。对于他的同时代人来说，阿伯拉尔似乎比生活本身还要宏伟：他敏锐的智慧、尖刻的舌头、完美的记忆和无边限的傲慢使他在辩论中无与伦比——他被支持者和批评者都称为从未输过任何争论——他的个性魅力深深地打动着与他接触的所有人。他与埃洛伊兹的不幸恋情使他成为浪漫的悲剧人物，而与克莱福尔伯纳德关于理性和宗教的冲突使他成为启蒙运动时期的英雄。尽管他有丰富多彩的一生，但他的哲学成就是他名声的基石。
 
 * [1. 生平与作品](https://plato.stanford.edu/entries/abelard/#LifWor)
-* [1.1 生平](https://plato.stanford.edu/entries/abelard/#Lif) \* [1.2 作品](https://plato.stanford.edu/entries/abelard/#Wor) \* [2. 形而上学](https://plato.stanford.edu/entries/abelard/#Met) \* [3. 逻辑学](https://plato.stanford.edu/entries/abelard/#Log) \* [4. 语言哲学](https://plato.stanford.edu/entries/abelard/#Lan) \* [5. 心灵哲学](https://plato.stanford.edu/entries/abelard/#Min) \* [6. 伦理学](https://plato.stanford.edu/entries/abelard/#Eth) \* [7. 神学](https://plato.stanford.edu/entries/abelard/#The) \* [参考文献](https://plato.stanford.edu/entries/abelard/#Bib)
-* [拉丁原始文本](https://plato.stanford.edu/entries/abelard/#PriTexLat) \* [英文翻译的原始文本](https://plato.stanford.edu/entries/abelard/#PriTexEngTra) \* [英文选修次要文献](https://plato.stanford.edu/entries/abelard/#SelSecLitEng) \* [学术工具](https://plato.stanford.edu/entries/abelard/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/abelard/#Oth) \* [相关条目](https://plato.stanford.edu/entries/abelard/#Rel)
+* [1.1 生平](https://plato.stanford.edu/entries/abelard/#Lif) * [1.2 作品](https://plato.stanford.edu/entries/abelard/#Wor) * [2. 形而上学](https://plato.stanford.edu/entries/abelard/#Met) * [3. 逻辑学](https://plato.stanford.edu/entries/abelard/#Log) * [4. 语言哲学](https://plato.stanford.edu/entries/abelard/#Lan) * [5. 心灵哲学](https://plato.stanford.edu/entries/abelard/#Min) * [6. 伦理学](https://plato.stanford.edu/entries/abelard/#Eth) * [7. 神学](https://plato.stanford.edu/entries/abelard/#The) * [参考文献](https://plato.stanford.edu/entries/abelard/#Bib)
+* [拉丁原始文本](https://plato.stanford.edu/entries/abelard/#PriTexLat) * [英文翻译的原始文本](https://plato.stanford.edu/entries/abelard/#PriTexEngTra) * [英文选修次要文献](https://plato.stanford.edu/entries/abelard/#SelSecLitEng) * [学术工具](https://plato.stanford.edu/entries/abelard/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/abelard/#Oth) * [相关条目](https://plato.stanford.edu/entries/abelard/#Rel)
 
 ***
 
@@ -34,17 +34,17 @@
 
 第一类是阿伯拉尔关于“辩证法”的作品，涉及逻辑、语言哲学、形而上学和心灵哲学。他的两部杰作是：
 
-* _Logica_ ‘_ingredientibus_’, “逻辑”（以“对于那些刚开始的人…”开头）。\* _Dialectica_，“辩证法”。
+* _Logica_ ‘_ingredientibus_’, “逻辑”（以“对于那些刚开始的人…”开头）。* _Dialectica_，“辩证法”。
 
 这两部作品都遵循着“logica vetus”的模式，即古代传承下来的“旧逻辑”：波菲里的亚里士多德导论《Isagoge》；亚里士多德的《范畴学》和《论释义》；博伊斯的《范畴三段论导论》、《范畴三段论》、《假设三段论》、《论主题差异》和《论分割》。阿伯拉尔的作品涵盖了旧逻辑中呈现的内容，尽管它们以不同的方式呈现。他的《逻辑》‘_ingredientibus_’是对旧逻辑的一种密切的文本评论，尽管只有其中的一部分幸存下来，即对《Isagoge》、《范畴学》、《论释义》和《论主题差异》的评论；他的《辩证法》是一部独立的辩证法论文，以主题的方式处理相同的材料，尽管开头（涵盖《Isagoge》和《范畴学》的部分）和结尾（关于分割和定义）都没有保存下来。此外，还有四部较小的辩证法作品：
 
-* _Introductiones parvulorum_, “初级逻辑。” \* _Logica_ ‘_nostrorum petitioni sociorum_’, “逻辑”（以“根据我们朋友的要求…”开头）。 \* _Tractatus de intellectibus_, “关于理解的论文。” \* _Sententiae secundum Magistrum Petrum_, “彼得·阿伯拉尔的观点。”
+* _Introductiones parvulorum_, “初级逻辑。” * _Logica_ ‘_nostrorum petitioni sociorum_’, “逻辑”（以“根据我们朋友的要求…”开头）。 * _Tractatus de intellectibus_, “关于理解的论文。” * _Sententiae secundum Magistrum Petrum_, “彼得·阿伯拉尔的观点。”
 
 其中第一个是一系列关于古老逻辑的初级评论（尽管没有完整保留下来）；它们的简单水平使一些学者认为它们可能来自阿伯拉尔早期的职业生涯，而其他人则否认它们是阿伯拉尔的作品。第二个作品《逻辑》“根据我们朋友的要求…”是一个正在进行中的作品：它假设读者已经了解了阿伯拉尔早期的《逻辑》“ingredientibus”，并讨论了那里没有涉及到的高级问题，但在很长一段时间里，它也是对波尔菲里的《引导》的直接解释或评论；它与阿伯拉尔的其他作品存在文本上的相似之处，并显示出对神学的一些了解。第三个作品涉及到概念或“理解”，既从逻辑的角度（大致提供术语的含义），也从心灵哲学的角度（作为心理内容的载体）来看。最后一部作品可能只是阿伯拉尔一些讲座的记录，涉及到关于整体和部分的逻辑和形而上学难题。
 
 第二类包括阿伯拉尔的伦理学作品：
 
-* _Ethica seu Scito teipsum_，即“伦理学，或者，认识自己。” \* _Collationes_，即“对话”或者_Dialogus inter Philosophum, Iudaeum, et Christianum_，即“哲学家与犹太人和基督徒的对话”。
+* _Ethica seu Scito teipsum_，即“伦理学，或者，认识自己。” * _Collationes_，即“对话”或者_Dialogus inter Philosophum, Iudaeum, et Christianum_，即“哲学家与犹太人和基督徒的对话”。
 
 《伦理学》对道德价值和应该归于行动者及其行为的赞扬或责备程度进行了分析；它在第二卷开始时中断。《对话》是一对辩论（在阿伯拉尔梦中出现的角色之间），讨论幸福和至善的本质：哲学家声称只遵循自然理性，首先与遵循旧法的犹太人进行辩论；然后哲学家与以哲学观点捍卫基督教伦理的基督徒进行辩论。阿伯拉尔还为他的儿子写了一本轻松的实用建议书：
 
@@ -58,11 +58,11 @@
 
 第一版的《神学》似乎是在索瓦松大公会议上被谴责的作品，最后一版是在桑斯大公会议上被谴责的作品。除了这三部以哲学神学问题为主题的作品外，阿伯拉尔还写了几篇评论：
 
-* _Expositio orationis dominicae_, “主祷文的分析。” \* _Expositio symboli Apostolorum_, “使徒信经的分析。” \* _Expositio fidei in symbolum Athanasii_, “对阿他那修信经的分析。” \* _Hexaëmeron_, “创世纪1-2:25的评论。” \* _Commentaria in Epistolam Pauli ad Romanos_, “对保罗致罗马人书的评论。”
+* _Expositio orationis dominicae_, “主祷文的分析。” * _Expositio symboli Apostolorum_, “使徒信经的分析。” * _Expositio fidei in symbolum Athanasii_, “对阿他那修信经的分析。” * _Hexaëmeron_, “创世纪1-2:25的评论。” * _Commentaria in Epistolam Pauli ad Romanos_, “对保罗致罗马人书的评论。”
 
 前三篇评论很简短，但阿伯拉尔对《创世纪》的前几节和保罗的书信进行了广泛而详细的讨论（后者也与阿伯拉尔的伦理学理论相关）。阿伯拉尔还在一部短篇作品中探讨了信仰和理性的问题：
 
-\*《独白》，“内心独白。”
+*《独白》，“内心独白。”
 
 这段简短的内心对话，模仿奥古斯丁的《独白》，让“彼得”与“阿伯拉尔”交流。 埃洛伊斯以她自己和帕拉克利特修女们的名义提出了更为实际的神学问题：
 
@@ -120,7 +120,7 @@
 
 名字，无论是专有名词还是普通名词，都是指代个别或多个事物。一个名字与它所指代的事物联系在一起，就好像有人设计了这个名字来标记某个事物或某类事物，这个过程被称为“命名”（仿效亚当在《创世纪》2:19中给动物命名），有点像洗礼。这种对指称的理性重建并不要求给予名字的人，即“命名者”，对事物或事物的种类有更多的具体意图，无论它的本质如何：
 
-> \[名字的发明者] 打算根据事物的某些性质或独特属性来命名它们，即使他自己不知道如何正确地思考事物的本质或独特属性。
+> [名字的发明者] 打算根据事物的某些性质或独特属性来命名它们，即使他自己不知道如何正确地思考事物的本质或独特属性。
 
 一个名字“在其施加的本质中有一个定义，即使我们不知道它是什么。”用现代术语来说，阿伯拉尔持有一种“直接指称”的理论，其中一个术语的延伸不取决于其意义。我们经常完全不知道应该与成功施加的术语相关联的适当概念内容。
 
@@ -128,7 +128,7 @@
 
 因此，一个普通的名字在分配上指的是具体的个体，尽管不是指它们作为个体。相反，它分别挑选出具有特定性质的个体：例如，“人类”指的是苏格拉底和柏拉图，因为他们每个人都是人类。这不是任何共享的特征；苏格拉底就是他自己，即人类，柏拉图也是他自己，即人类。阿伯拉尔在他的《逻辑学》“ingredientibus”中清楚地陈述了他的贬低立场：
 
-> 现在，我们似乎应该避免接受事物之间根据不存在的东西的一致性——就好像我们在将现在存在的事物合并到虚无中一样！也就是说，当我们说这个\[人类]和那个人在人类的地位上一致时，我们的意思是：他们都是人类。但我们的意思是他们都是人类，并且在这方面没有区别——让我重复一遍：\[他们没有区别]在于他们都是人类，尽管我们在这个解释中没有引用任何“东西”。
+> 现在，我们似乎应该避免接受事物之间根据不存在的东西的一致性——就好像我们在将现在存在的事物合并到虚无中一样！也就是说，当我们说这个[人类]和那个人在人类的地位上一致时，我们的意思是：他们都是人类。但我们的意思是他们都是人类，并且在这方面没有区别——让我重复一遍：[他们没有区别]在于他们都是人类，尽管我们在这个解释中没有引用任何“东西”。
 
 苏格拉底和柏拉图是真实的；他们的一致也是真实的，但不能通过诉诸任何事物来解释他们的一致性，他们的一致仅仅是因为他们都是人类。从形而上学的角度来看，他们和普通人类具有相同的地位；这并不涉及任何形而上学上共同的共享成分，或者实际上诉诸任何成分。这是为什么存在“共同理由”来强加一个共同名称的意义所在。
 
@@ -227,7 +227,7 @@
 * _Epistolae_: Ep. 1 edited by Monfrin (see the entry below for the _Historia calamitatum_); Epp. 2–5 edited by J. T. Muckle, _Mediaeval Studies_ 15 (1953) 68–94; Epp. 6–7, edited by J. T. Muckle, _Mediaeval Studies_ 17 (1955) 241–281; Ep. 8, edited by T. P. McLaughlin, _Mediaeval Studies_ 18 (1956) 242–297; Epp. 9–14 edited by E. R. Smits in _Peter Abelard: Letters IX–XIV_, Groningen: Rijksuniversiteit 1983; Ep. 15 edited by Josef Reiners, BGPTM 8 (1910) 63–80; Ep. 16, edited by Victor Cousin and Charles Jourdain, _Petri Abaelardi opera_ Vol. 1 (Paris 1849) 703–707, corrected against Van Den Eynde, _Antonianum_ 38 (1963) 219; Ep. 17, edited by Charles Burnett, _Mittellateinisch Jahrbuch_ 21 (1986), 152–155; _Apologia contra Bernardum (Ne iuxta Boethianum)_ , edited by Eligius M. Buytaert in CCCM 12 359–368; _Epistola contra Bernardum_ edited by Raymond Klibansky, _Medieval and Renaissance Studies_ 5 (1961), 1–27; _Confessio fidei “Uniuersis”_ edited by Charles Burnett, _Mediaeval Studies_ 48 (1986), 182–189.
 * _Ethica seu Scito teipsum_. Edited by R. M. Ilgner in _Petri Abaelardi opera theologica_. Corpus christianorum (continuatio mediaevalis) Vol. 190. Brepols: Turnholt 2001.
 * _Expositio orationis dominicae_. Edited by Charles Burnett, “Expositio orationis dominicae ‘Multorum legimus orationes’” in _Révue Benedictine_ 95 (1985) 60–72.
-* _Expositio symboli Apostolorum_. Edited by Victor Cousin and Charles Jourdain, _Petri Abaelardi opera_ Vol. 1 (Paris 1849) 603–615. \[[Available online thanks to the Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/bpt6k69212x?rk=21459;2)].
+* _Expositio symboli Apostolorum_. Edited by Victor Cousin and Charles Jourdain, _Petri Abaelardi opera_ Vol. 1 (Paris 1849) 603–615. [[Available online thanks to the Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/bpt6k69212x?rk=21459;2)].
 * _Expositio fidei in symbolum Athanasii_. Edited by Victor Cousin and Charles Jourdain, _Petri Abaelardi opera_ Vol. 1 (Paris 1849) 615–617.
 * _Hexaëmeron_. Edited by Mary F. Romig with the assistance of David Luscombe, in _Corpus christianorum continuatio mediaevalis_ Vol.15. Brepols: Turnhout 2004.
 * _Historia calamitatum_. Edited by Jacques Monfrin in _Abélard, Historia calamitatum: texte et commentaires_, J. Vrin: Paris 1974 (fourth edition), 62–109.
@@ -270,7 +270,7 @@
 * Arlig, Andrew, 2007, “Abelard’s Assault on Everyday Objects”, _American Catholic Philosophical Quarterly_, 81: 209–227.
 * –––, 2012, “Peter Abelard on Material Constitution”, _Archiv fur Geschichte der Philosophie_, 94: 119–146.
 * –––, 2013, “Some Twelfth-century Reflections on Mereological Essentialism”, _Oxford Studies in Medieval Philosophy_, 1: 83–112.
-* –––, 2022, “Abelard and Other Twelfth-Century Thinkers on Social Constructions”, _Philosophies_, 7(4), 84. \[[Arlig 2022 available online](https://www.mdpi.com/2409-9287/7/4/84)]
+* –––, 2022, “Abelard and Other Twelfth-Century Thinkers on Social Constructions”, _Philosophies_, 7(4), 84. [[Arlig 2022 available online](https://www.mdpi.com/2409-9287/7/4/84)]
 * Astroh, Michael, 2001, “Abelard on Modalities _de re_ and _de dicto_”, in _Potentialität und Possibilität. Modalaussagen in der Geschichte der Metaphysik_, Thomas Buchheim, C. H. Kneepkens, and Kuno Lorenz (eds.), Stuttgart: Frommann Holzboog, 79–95
 * Bejczy, I., 2003, “Deeds Without Value: Exploring a Weak Spot in Abelard’s Ethics”, _Recherches de théologie et philosophie médiévale_, 70: 1–21.
 * Binini, Irene, 2022, _Possibility and Necessity in the Time of Peter Abelard_, Leiden/Boston: Brill.
@@ -279,7 +279,7 @@
 
 ### 学术工具
 
-\| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [如何引用此条目](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abelard)。| | ------------------------------------------------------------------------ | ------------------------------------------------------- | | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [预览此条目的PDF版本](https://leibniz.stanford.edu/friends/preview/abelard/)，请访问[SEP协会的朋友们](https://leibniz.stanford.edu/friends/)。| | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [查找与此条目相关的主题和思想家](https://www.inphoproject.org/entity?sep=abelard\&redirect=True)，请访问互联网哲学本体项目（InPhO）。| | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [此条目的增强参考文献](https://philpapers.org/sep/abelard/)，请访问[PhilPapers](https://philpapers.org/)，并链接到其数据库。|
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [如何引用此条目](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abelard)。| | ------------------------------------------------------------------------ | ------------------------------------------------------- | | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [预览此条目的PDF版本](https://leibniz.stanford.edu/friends/preview/abelard/)，请访问[SEP协会的朋友们](https://leibniz.stanford.edu/friends/)。| | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [查找与此条目相关的主题和思想家](https://www.inphoproject.org/entity?sep=abelard&redirect=True)，请访问互联网哲学本体项目（InPhO）。| | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [此条目的增强参考文献](https://philpapers.org/sep/abelard/)，请访问[PhilPapers](https://philpapers.org/)，并链接到其数据库。|
 
 ## 其他互联网资源
 
@@ -295,4 +295,4 @@
 
 亚里士多德，一般主题：逻辑 | 全体论：中世纪 | 关系：中世纪理论 | 三段论：中世纪理论 | 通性：中世纪问题 | 威廉·沙末尔
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by [Peter King](http://individual.utoronto.ca/pking/) [Andrew Arlig](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty\_profile.jsp?faculty=641) <[_aarlig@brooklyn.cuny.edu_](mailto:aarlig%40brooklyn%2ecuny%2eedu)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by [Peter King](http://individual.utoronto.ca/pking/) [Andrew Arlig](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=641) <[_aarlig@brooklyn.cuny.edu_](mailto:aarlig%40brooklyn%2ecuny%2eedu)>

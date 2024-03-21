@@ -5,9 +5,9 @@
 美学概念在18世纪引入哲学词汇中，如今已经成为指代一种对象、一种判断、一种态度、一种经验和一种价值的术语。在很大程度上，美学理论在以下问题上产生了分歧：艺术作品是否必然是美学对象；如何将美学判断的感知基础与我们为其提供理由的事实相协调；如何最好地捕捉美学态度与实用态度之间难以捉摸的对比；是否根据现象学或再现内容来定义美学经验；如何最好地理解美学价值与美学经验之间的关系。但最近出现了一些更一般性的问题，这些问题往往带有怀疑的色彩：是否可以在不诉诸其他术语的情况下解释“美学”的任何用途；是否就任何用途的一致达成协议足以为有意义的理论协议或分歧提供基础；是否该术语最终回答了任何合法的哲学目的，以证明其被纳入词汇表的合理性。这些一般性问题所表达的怀疑直到20世纪后期才开始占据主导地位，这一事实引发了一个问题：美学概念是否本质上存在问题，只是最近我们才意识到它的问题，还是美学概念本身是好的，只是最近我们变得足够混乱，以致于产生了其他想法。要对这些可能性进行裁决，需要一个能够同时了解早期和晚期美学理论的视角。
 
 * [1. 品味的概念](https://plato.stanford.edu/entries/aesthetic-concept/#ConTas)
-* [1.1 直接性](https://plato.stanford.edu/entries/aesthetic-concept/#Imm) \* [1.2 公正性](https://plato.stanford.edu/entries/aesthetic-concept/#Dis) \* [2. 美学概念](https://plato.stanford.edu/entries/aesthetic-concept/#ConAes)
-* [2.1 美学对象](https://plato.stanford.edu/entries/aesthetic-concept/#AesObj) \* [2.2 美学判断](https://plato.stanford.edu/entries/aesthetic-concept/#AesJud) \* [2.3 美学态度](https://plato.stanford.edu/entries/aesthetic-concept/#AesAtt) \* [2.4 美学体验](https://plato.stanford.edu/entries/aesthetic-concept/#AesExp) \* [2.5 美学价值](https://plato.stanford.edu/entries/aesthetic-concept/#AesVal)
-* [2.5.1 美学问题](https://plato.stanford.edu/entries/aesthetic-concept/#AesQue) \* [2.5.2 规范问题](https://plato.stanford.edu/entries/aesthetic-concept/#NorQue) \* [参考文献](https://plato.stanford.edu/entries/aesthetic-concept/#Bib) \* [学术工具](https://plato.stanford.edu/entries/aesthetic-concept/#Aca) \* [其他网上资源](https://plato.stanford.edu/entries/aesthetic-concept/#Oth) \* [相关条目](https://plato.stanford.edu/entries/aesthetic-concept/#Rel)
+* [1.1 直接性](https://plato.stanford.edu/entries/aesthetic-concept/#Imm) * [1.2 公正性](https://plato.stanford.edu/entries/aesthetic-concept/#Dis) * [2. 美学概念](https://plato.stanford.edu/entries/aesthetic-concept/#ConAes)
+* [2.1 美学对象](https://plato.stanford.edu/entries/aesthetic-concept/#AesObj) * [2.2 美学判断](https://plato.stanford.edu/entries/aesthetic-concept/#AesJud) * [2.3 美学态度](https://plato.stanford.edu/entries/aesthetic-concept/#AesAtt) * [2.4 美学体验](https://plato.stanford.edu/entries/aesthetic-concept/#AesExp) * [2.5 美学价值](https://plato.stanford.edu/entries/aesthetic-concept/#AesVal)
+* [2.5.1 美学问题](https://plato.stanford.edu/entries/aesthetic-concept/#AesQue) * [2.5.2 规范问题](https://plato.stanford.edu/entries/aesthetic-concept/#NorQue) * [参考文献](https://plato.stanford.edu/entries/aesthetic-concept/#Bib) * [学术工具](https://plato.stanford.edu/entries/aesthetic-concept/#Aca) * [其他网上资源](https://plato.stanford.edu/entries/aesthetic-concept/#Oth) * [相关条目](https://plato.stanford.edu/entries/aesthetic-concept/#Rel)
 
 ***
 
@@ -137,7 +137,7 @@ Critics have criticized Bullough for suggesting that aesthetic appreciation requ
 
 Bullough对审美态度的描述是最容易受到攻击的。当我们在悲剧中哭泣，在恐怖电影中惊恐，或者在复杂小说的情节中迷失时，我们不能说我们是超然的，尽管我们可能充分欣赏这些作品的审美特质...而且我们可以欣赏到雾或风暴的审美特性，同时也害怕它们带来的危险。（Goldman 2005, 264）
 
-但是这样的批评似乎忽视了Bullough观点的微妙之处。虽然Bullough确实认为审美欣赏需要“我们自己与情感之间的距离”（Bullough 1995, 298），但他并不认为这要求我们不经历情感，相反，只有当我们经历情感时，我们才有情感可以被超越。因此，例如，对于一个构建良好的悲剧来说，适当距离的观众不是“过度超然”的观众，他不会感到任何怜悯或恐惧，也不是“过度亲近”的观众，她会像对待实际存在的灾难一样感到怜悯和恐惧，而是那个将她所感受到的怜悯和恐惧“不作为\[她]存在的方式，而是作为现象的特征”来解释的观众（Bullough 1995, 299）。我们可以说，一个适当距离的悲剧观众理解她的恐惧和怜悯是悲剧的一部分。
+但是这样的批评似乎忽视了Bullough观点的微妙之处。虽然Bullough确实认为审美欣赏需要“我们自己与情感之间的距离”（Bullough 1995, 298），但他并不认为这要求我们不经历情感，相反，只有当我们经历情感时，我们才有情感可以被超越。因此，例如，对于一个构建良好的悲剧来说，适当距离的观众不是“过度超然”的观众，他不会感到任何怜悯或恐惧，也不是“过度亲近”的观众，她会像对待实际存在的灾难一样感到怜悯和恐惧，而是那个将她所感受到的怜悯和恐惧“不作为[她]存在的方式，而是作为现象的特征”来解释的观众（Bullough 1995, 299）。我们可以说，一个适当距离的悲剧观众理解她的恐惧和怜悯是悲剧的一部分。
 
 美学态度的概念受到了各方的攻击，几乎没有剩下多少同情者。乔治·迪基（George Dickie）被广泛认为在他的论文《美学态度的神话》（Dickie 1964）中给出了决定性的打击，他认为所有所谓的感兴趣的注意力都只是不注意的例子。因此，考虑一下在观看《奥赛罗》表演时，观众对自己的妻子越来越怀疑，或者评估观众规模的演出者，或者为女儿的表演感到自豪的父亲，或者评估戏剧对观众产生的道德影响的道德家的情况。态度理论家将把这些以及所有类似的情况视为对表演的感兴趣的注意力，而实际上它们只是对表演的不注意：嫉妒的丈夫关注的是他的妻子，演出者关注的是收入，父亲关注的是女儿，道德家关注的是戏剧的道德影响。但是，如果他们没有一个人关注表演，那么他们没有一个人对其感兴趣（Dickie 1964, 57–59）。
 
@@ -159,9 +159,9 @@ Bullough对审美态度的描述是最容易受到攻击的。当我们在悲剧
 
 根据解释美学体验的特征类型，美学体验的理论可以分为两种：内在主义理论强调体验内在的特征，通常是现象学特征；而外在主义理论则强调体验外部的特征，通常是所体验对象的特征。（内在主义和外在主义美学体验理论的区别与Gary Iseminger所提出的美学体验的现象学和认识论概念的区别相似，尽管并不完全相同（Iseminger 2003, 100和Iseminger 2004, 27, 36））。尽管在20世纪早期和中期，内在主义理论，特别是约翰·杜威（John Dewey）（1934）和门罗·比尔兹利（Monroe Beardsley）（1958）的理论占主导地位，但自从那时以来，外在主义理论，包括比尔兹利（1982）和乔治·迪基（George Dickie）（1988）的理论，一直处于上升阶段。比尔兹利对美学体验的观点对我们的关注具有重要意义，因为可以说比尔兹利是内在主义理论的最终总结者，也是外在主义理论的奠基人。迪基对比尔兹利的内在主义的批评同样具有重要意义，因为它们使比尔兹利以及其他大多数人从内在主义转向了外在主义。
 
-根据比尔兹利在他的《美学》（1958年）中提出的内在主义版本，所有审美体验都有三个或四个（取决于如何计算）共同特征，“一些作家通过敏锐的内省发现了这些特征，我们每个人都可以通过自己的经验来测试”（比尔兹利，1958年，527页）。这些特征包括焦点（“审美体验是一种注意力牢牢集中在\[对象]上的体验”）、强度和统一性，其中统一性是一种连贯性和完整性的问题（比尔兹利，1958年，527页）。而连贯性则是指元素之间适当连接的问题，使得
+根据比尔兹利在他的《美学》（1958年）中提出的内在主义版本，所有审美体验都有三个或四个（取决于如何计算）共同特征，“一些作家通过敏锐的内省发现了这些特征，我们每个人都可以通过自己的经验来测试”（比尔兹利，1958年，527页）。这些特征包括焦点（“审美体验是一种注意力牢牢集中在[对象]上的体验”）、强度和统一性，其中统一性是一种连贯性和完整性的问题（比尔兹利，1958年，527页）。而连贯性则是指元素之间适当连接的问题，使得
 
-> \[o]ne thing leads to another; continuity of development, without gaps or dead spaces, a sense of overall providential pattern of guidance, an orderly cumulation of energy toward a climax, are present to an unusual degree. (比尔兹利，1958年，528页)
+> [o]ne thing leads to another; continuity of development, without gaps or dead spaces, a sense of overall providential pattern of guidance, an orderly cumulation of energy toward a climax, are present to an unusual degree. (比尔兹利，1958年，528页)
 
 完整性则是一个拥有相互"抵消"或"解决"的元素的问题，以至于整体与其中缺失的元素相抗衡：
 
@@ -201,9 +201,9 @@ Bullough对审美态度的描述是最容易受到攻击的。当我们在悲剧
 
 **2.5.2 规范性问题**
 
-对于规范性问题，目前普遍认同的答案是“美学享乐主义”，即认为艺术价值的存在是因为在体验时会带来愉悦感的事物有它。美学享乐主义在19世纪取得了显著地位，大约在美学正式主义时期。舒那（Schopenhauer）通过重新分配无私的快乐的角色，使其从美学判断的角色重新分配为构建美学价值的角色（Schopenhauer 1818 \[1969]，195–200），在将其推广以上发挥了关键性作用。本丹姆（Bentham）（1789年，第4章）和密尔（Mill）（1863 \[2001]，第2章）通过普及价值享乐主义（即快乐是所有价值的基础的观点）可能发挥了更大的作用。但是，尽管价值享乐主义在伦理学中已经不再占主导地位，而舒那不再在美学中施加太多影响，但美学享乐主义一直占据着它的立场。显然，这是因为美学享乐主义可以很容易地解释我们为什么要寻找具有美学价值的物体。任何对规范性问题的充分回答都必须满足我们可以称之为“规范性约束”的要求，即它必须合理地说明具有美学价值意味着我们有理由做什么。通过将这种原因定位在体验具有美学价值的物体时所感受到的愉悦感中，美学享乐主义可以做到这一点。
+对于规范性问题，目前普遍认同的答案是“美学享乐主义”，即认为艺术价值的存在是因为在体验时会带来愉悦感的事物有它。美学享乐主义在19世纪取得了显著地位，大约在美学正式主义时期。舒那（Schopenhauer）通过重新分配无私的快乐的角色，使其从美学判断的角色重新分配为构建美学价值的角色（Schopenhauer 1818 [1969]，195–200），在将其推广以上发挥了关键性作用。本丹姆（Bentham）（1789年，第4章）和密尔（Mill）（1863 [2001]，第2章）通过普及价值享乐主义（即快乐是所有价值的基础的观点）可能发挥了更大的作用。但是，尽管价值享乐主义在伦理学中已经不再占主导地位，而舒那不再在美学中施加太多影响，但美学享乐主义一直占据着它的立场。显然，这是因为美学享乐主义可以很容易地解释我们为什么要寻找具有美学价值的物体。任何对规范性问题的充分回答都必须满足我们可以称之为“规范性约束”的要求，即它必须合理地说明具有美学价值意味着我们有理由做什么。通过将这种原因定位在体验具有美学价值的物体时所感受到的愉悦感中，美学享乐主义可以做到这一点。
 
-美学享乐主义的倡导者包括舒韦恩豪尔1818 \[1969]，克莱夫·贝尔1914 \[1958]，C. I.刘易斯1946，门罗·比尔兹利1982，乔治·迪基1988，艾伦·戈德曼1990，肯德尔·沃尔顿1993，马尔科姆·巴德1995，杰罗尔德·莱文森1996，2002，加里·伊塞明格2004，罗伯特·斯特克2006，2019，尼克·斯唐2010和莫汉·马森2017。直到最近，才出现了对享乐主义的持续反对，这一事实可能在一定程度上解释了为什么享乐主义者通常不需要为他们的观点辩护，而是选择根据想象中的反对意见来发展它。
+美学享乐主义的倡导者包括舒韦恩豪尔1818 [1969]，克莱夫·贝尔1914 [1958]，C. I.刘易斯1946，门罗·比尔兹利1982，乔治·迪基1988，艾伦·戈德曼1990，肯德尔·沃尔顿1993，马尔科姆·巴德1995，杰罗尔德·莱文森1996，2002，加里·伊塞明格2004，罗伯特·斯特克2006，2019，尼克·斯唐2010和莫汉·马森2017。直到最近，才出现了对享乐主义的持续反对，这一事实可能在一定程度上解释了为什么享乐主义者通常不需要为他们的观点辩护，而是选择根据想象中的反对意见来发展它。
 
 例如，比尔兹利以这个简单的享乐主义表述为开头：
 
@@ -251,7 +251,7 @@ Lopes选择这个例子并非是任意的。有特定的艺术批评理由认为
 * Beardsley, M.C., 1958, Aesthetics, Indianapolis: Hackett.
 * –––, 1962, “On the Generality of Critical Reasons,” The Journal of Philosophy, 59: 477–486.
 * –––, 1982, The Aesthetic Point of View, Ithaca, NY: Cornell University Press
-* Bell, C., 1914 \[1958], Art, New York: Capricorn Books.
+* Bell, C., 1914 [1958], Art, New York: Capricorn Books.
 * Bender, J., 1995, “General but Defeasible Reasons in Aesthetic Evaluation: The Generalist/Particularist Dispute,” The Journal of Aesthetics and Art Criticism, 53: 379–392.
 * Bentham, J., 1789, An Introduction to the Principles of Morals and Legislation, London: T. Payne and Son.
 * Binkley, T., 1970, “Piece: Contra Aesthetics,” The Journal of Aesthetics and Art Criticism, 35: 265–277.
@@ -309,13 +309,13 @@ Lopes选择这个例子并非是任意的。有特定的艺术批评理由认为
 * Hopkins, R., 2000, “Beauty and Testimony” in Philosophy, the Good, the True and the Beautiful, A. O’Hear (ed.), Cambridge: Cambridge University Press, 209–236.
 * –––, 2004, “Critical Reasoning and Critical Perception,” in Knowing Art, M. Kieran and D. Lopes (eds.), Dordrecht: Springer, 137–154.
 * –––, 2011, “How to Be a Pessimist about Aesthetic Testimony,” The Journal of Philosophy, 108: 138–157.
-* Hume, D., 1751 \[1985], Enquiry Concerning the Principles of Morals, in L.A. Selby-Bigge and P. Nidditch (eds.), Enquiries Concerning Human Understanding and Concerning the Principles of Morals, Oxford: Oxford University Press, 1986.
-* –––, 1757 \[1985], “Of the Standard of Taste,” in E. Miller (ed.), Essays Moral, Political, and Literary, Indianapolis: Liberty Fund, 226–249.
-* Hutcheson, F., 1725 \[2004], An Inquiry into the Origin of Our Ideas of Beauty and Virtue, W. Leidhold (ed.), Indianapolis: Liberty Fund.
+* Hume, D., 1751 [1985], Enquiry Concerning the Principles of Morals, in L.A. Selby-Bigge and P. Nidditch (eds.), Enquiries Concerning Human Understanding and Concerning the Principles of Morals, Oxford: Oxford University Press, 1986.
+* –––, 1757 [1985], “Of the Standard of Taste,” in E. Miller (ed.), Essays Moral, Political, and Literary, Indianapolis: Liberty Fund, 226–249.
+* Hutcheson, F., 1725 [2004], An Inquiry into the Origin of Our Ideas of Beauty and Virtue, W. Leidhold (ed.), Indianapolis: Liberty Fund.
 * Iseminger, G., 2003, “Aesthetic Experience,” in The Oxford Handbook of Aesthetics, J. Levinson (ed.), Oxford: Oxford University Press, 99–116.
 * –––, 2004, The Aesthetic Function of Art, Ithaca, NY: Cornell University Press.
 * Isenberg, A., 1949, “Critical Communication,” Philosophical Review, 58(4): 330–344.
-* Kant, I., 1790 \[2000], Critique of the Power of Judgment, trans. P. Guyer, and E. Matthews, Cambridge: Cambridge University Press.
+* Kant, I., 1790 [2000], Critique of the Power of Judgment, trans. P. Guyer, and E. Matthews, Cambridge: Cambridge University Press.
 * Kemp, G., 1999, “The Aesthetic Attitude,” The British Journal of Aesthetics, 39: 392–399.
 * Kieran, M., 2005, Revealing Art, London: Routledge.
 * Kivy, P., 1973, Speaking of Art, The Hague: Martinus Nijhoff.
@@ -333,19 +333,19 @@ Lopes选择这个例子并非是任意的。有特定的艺术批评理由认为
 * –––, 2021, “Normativity, Agency, and Value: A View from Aesthetics,” Philosophy and Phenomenological Research, 102: 232–242.
 * Matherne, S., 2020, “Edith Landmann-Kalischer on Aesthetic Demarcation and Normativity,” British Journal of Aesthetics, 60: 315–334.
 * Matthen, M., 2017, “The Pleasure of Art,” Australasian Philosophical Review, 1: 6–28.
-* Mill, J.S., 1863 \[2001], Utilitarianism, 2nd edition, Indianapolis: Hackett.
+* Mill, J.S., 1863 [2001], Utilitarianism, 2nd edition, Indianapolis: Hackett.
 * Miller, R., 1998, “Three Versions of Objectivity: Aesthetic, Moral, and Scientific,” in J. Levinson (ed.), Aesthetics and Ethics, Cambridge: Cambridge University Press, 26–58.
 * Mothersill, M., 1984, Beauty Restored, Oxford: Oxford Clarendon Press.
 * Nguyen, C.T., 2019, “Autonomy and Aesthetic Engagement,” Mind, 129: 1127–1156.
 * Peacocke, A., 2021, “Let’s be Liberal: An Alternative to Aesthetic Hedonism,” British Journal of Aesthetics, 61: 163–183.
 * Prettejohn, E., 2005, Beauty and Art: 1750–2000, Oxford: Oxford University Press.
 * Railton, P., 1998, “Aesthetic Value, Moral Value, and the Ambitions of Naturalism,” in J. Levinson (ed.), Aesthetics and Ethics, Cambridge: Cambridge University Press, 59–105.
-* Reid, T., 1785 \[1969], Essays on the Intellectual Powers of Man, Cambridge, MA: The M.I.T. Press.
+* Reid, T., 1785 [1969], Essays on the Intellectual Powers of Man, Cambridge, MA: The M.I.T. Press.
 * Riggle, N., 2015, “On the Aesthetic Ideal,” The British Journal of Aesthetics, 55: 433–447.
 * –––, 2016, “On the Interest in Beauty and Disinterest,” Philosophers’ Imprint, 16: 1–14.
 * –––, 2022, “Toward a Communitarian Theory of Aesthetic Value,” Journal of Aesthetics and Art Criticism, 80: 16–30.
 * Rind, M., 2002, “The Concept of Disinterestedness in Eighteenth-Century British Aesthetics,” The Journal of the History of Philosophy, 40: 67–87.
-* Schopenhauer, A., 1819 \[1969], The World as Will and Representation, vol. 1, trans. E. Payne, New York: Dover.
+* Schopenhauer, A., 1819 [1969], The World as Will and Representation, vol. 1, trans. E. Payne, New York: Dover.
 * Sharpe, R.A., 2000, “The Empiricist Theory of Artistic Value,” Journal of Aesthetics and Art Criticism, 58: 312–332.
 * Shelley, J., 2003, “The Problem of Non-Perceptual Art,” The British Journal of Aesthetics, 43: 363–378.
 * –––, 2004, “Critical Compatibilism,” in Knowing Art, D. Lopes and M. Kieran (eds.), Dordrecht: Springer, 125–136.
@@ -382,7 +382,7 @@ Lopes选择这个例子并非是任意的。有特定的艺术批评理由认为
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetic-concept).                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/aesthetic-concept/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetic-concept\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetic-concept&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ​![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)​      | [Enhanced bibliography for this entry](https://philpapers.org/sep/aesthetic-concept/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ### Other Internet Resources <a href="#other-internet-resources" id="other-internet-resources"></a>
@@ -394,5 +394,5 @@ Lopes选择这个例子并非是任意的。有特定的艺术批评理由认为
 
 aesthetics: and the philosophy of art | existentialist-aesthetics | [aesthetics: 19th Century Romantic](https://plato.stanford.edu/entries/aesthetics-19th-romantic/) | [aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [aesthetics: environmental](https://plato.stanford.edu/entries/environmental-aesthetics/) | [aesthetics: French, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-french/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [aesthetics of the everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/) | [Beardsley, Monroe C.: aesthetics](https://plato.stanford.edu/entries/beardsley-aesthetics/) | [Collingwood, Robin George: aesthetics](https://plato.stanford.edu/entries/collingwood-aesthetics/) | [Croce, Benedetto: aesthetics](https://plato.stanford.edu/entries/croce-aesthetics/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [feminist philosophy, interventions: aesthetics](https://plato.stanford.edu/entries/feminism-aesthetics/) | [Gadamer, Hans-Georg: aesthetics](https://plato.stanford.edu/entries/gadamer-aesthetics/) | [Goodman, Nelson: aesthetics](https://plato.stanford.edu/entries/goodman-aesthetics/) | [Hegel, Georg Wilhelm Friedrich: aesthetics](https://plato.stanford.edu/entries/hegel-aesthetics/) | [Heidegger, Martin: aesthetics](https://plato.stanford.edu/entries/heidegger-aesthetics/) | [Hume, David: aesthetics](https://plato.stanford.edu/entries/hume-aesthetics/) | [Japanese Philosophy: aesthetics](https://plato.stanford.edu/entries/japanese-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Plato: aesthetics](https://plato.stanford.edu/entries/plato-aesthetics/) | [Schopenhauer, Arthur: aesthetics](https://plato.stanford.edu/entries/schopenhauer-aesthetics/) | [Wittgenstein, Ludwig: aesthetics](https://plato.stanford.edu/entries/wittgenstein-aesthetics/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by
 [James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/) <[shelljr@auburn.edu](mailto:shelljr%40auburn%2eedu)>

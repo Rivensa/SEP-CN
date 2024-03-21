@@ -6,13 +6,13 @@
 
 认知科学涵盖了心理学、语言学、神经科学和哲学等学科，其相对较短的历史主要围绕着人类信息处理依赖于内部表征并受计算的观点（Boden 2006）。现在，认知科学包括了挑战这一观点的方法，试图用对环境的依赖来替代或增强内部表征。对人类认知结构的关注在一些发展中得到了体现，例如马尔的视觉理论（1982）、布鲁克斯的机器人子系统架构（1986）以及预测处理的感知和认知理论（Friston 2010，详见下文[第3节](https://plato.stanford.edu/entries/aesthetics-cogsci/#PrefJudgReas)）。对于这个广泛领域的调查必须非常有选择性，我们试图为每个主题确定一些关键思想，以便展开讨论。在整个过程中，我们关注的是那些在我们试图确定经验主义心理科学的某些贡献何时对某些审美原则进行重新思考时所面临的问题，两个学科是否提供了互补的视角，以及其中一个学科对另一个学科是否没有特别的相关性的问题。
 
-* [1. 背景](https://plato.stanford.edu/entries/aesthetics-cogsci/#Back) \* [2. 自下而上和自上而下的审美方法](https://plato.stanford.edu/entries/aesthetics-cogsci/#BottUpTopDownApprAest) \* [3. 偏好、判断和理由](https://plato.stanford.edu/entries/aesthetics-cogsci/#PrefJudgReas) \* [4. 艺术、共情和神经美学](https://plato.stanford.edu/entries/aesthetics-cogsci/#ArtEmpaNeur) \* [5. 真实性](https://plato.stanford.edu/entries/aesthetics-cogsci/#Auth) \* [6. 图片、想象和感知](https://plato.stanford.edu/entries/aesthetics-cogsci/#PictImagPerc) \* [7. 情感](https://plato.stanford.edu/entries/aesthetics-cogsci/#Emot) \* [8. 文学和文学语言的审美](https://plato.stanford.edu/entries/aesthetics-cogsci/#AestLiteLiteLang) \* [9. 审美和进化](https://plato.stanford.edu/entries/aesthetics-cogsci/#AestEvol) \* [10. 环境的审美](https://plato.stanford.edu/entries/aesthetics-cogsci/#AestEnvi) \* [参考文献](https://plato.stanford.edu/entries/aesthetics-cogsci/#Bib) \* [学术工具](https://plato.stanford.edu/entries/aesthetics-cogsci/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-cogsci/#Oth) \* [相关条目](https://plato.stanford.edu/entries/aesthetics-cogsci/#Rel)
+* [1. 背景](https://plato.stanford.edu/entries/aesthetics-cogsci/#Back) * [2. 自下而上和自上而下的审美方法](https://plato.stanford.edu/entries/aesthetics-cogsci/#BottUpTopDownApprAest) * [3. 偏好、判断和理由](https://plato.stanford.edu/entries/aesthetics-cogsci/#PrefJudgReas) * [4. 艺术、共情和神经美学](https://plato.stanford.edu/entries/aesthetics-cogsci/#ArtEmpaNeur) * [5. 真实性](https://plato.stanford.edu/entries/aesthetics-cogsci/#Auth) * [6. 图片、想象和感知](https://plato.stanford.edu/entries/aesthetics-cogsci/#PictImagPerc) * [7. 情感](https://plato.stanford.edu/entries/aesthetics-cogsci/#Emot) * [8. 文学和文学语言的审美](https://plato.stanford.edu/entries/aesthetics-cogsci/#AestLiteLiteLang) * [9. 审美和进化](https://plato.stanford.edu/entries/aesthetics-cogsci/#AestEvol) * [10. 环境的审美](https://plato.stanford.edu/entries/aesthetics-cogsci/#AestEnvi) * [参考文献](https://plato.stanford.edu/entries/aesthetics-cogsci/#Bib) * [学术工具](https://plato.stanford.edu/entries/aesthetics-cogsci/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-cogsci/#Oth) * [相关条目](https://plato.stanford.edu/entries/aesthetics-cogsci/#Rel)
 
 ***
 
 ### 1. 背景 <a href="#id-1-bei-jing" id="id-1-bei-jing"></a>
 
-在经验主义传统中，如夏夫茨伯里、休谟和里德等审美学作家将自己的贡献视为广义经验主义（见雪莱2006 \[2020]），而心理学中最早的实验研究之一就是对审美偏好和反应的研究，例如费希纳试图发现“黄金分割”是否特别受人们偏爱于其他比例（1871年）。19世纪末20世纪初充满了这类研究，还有更多关于对建筑结构的“具身”反应的推测性研究，这场辩论将“共情”一词引入了英语中（维舍尔1873年；利普斯1903年）。但在20世纪的大部分时间里，审美学被其支持者和反对者视为一项“坐在椅子上”的项目。维特根斯坦对哲学的理解在该世纪后半叶强烈影响了该领域的发展方向，他说：
+在经验主义传统中，如夏夫茨伯里、休谟和里德等审美学作家将自己的贡献视为广义经验主义（见雪莱2006 [2020]），而心理学中最早的实验研究之一就是对审美偏好和反应的研究，例如费希纳试图发现“黄金分割”是否特别受人们偏爱于其他比例（1871年）。19世纪末20世纪初充满了这类研究，还有更多关于对建筑结构的“具身”反应的推测性研究，这场辩论将“共情”一词引入了英语中（维舍尔1873年；利普斯1903年）。但在20世纪的大部分时间里，审美学被其支持者和反对者视为一项“坐在椅子上”的项目。维特根斯坦对哲学的理解在该世纪后半叶强烈影响了该领域的发展方向，他说：
 
 > 心理学家所做的事与对艺术作品的任何判断似乎没有任何联系。（1967年，19页；关于维特根斯坦自己关于节奏感知的实验工作，请参见古特2020年）
 
@@ -30,7 +30,7 @@
 
 研究新领域的“实验哲学”（关于这个领域的一些概述，如应用于审美学的，请参见Cova和Réhault 2018以及Torregrossa 2020）对这一观点提出了质疑。一项研究（Cova，Olivola等人，2019）在19个国家收集了超过两千个关于关于审美对象是否美丽的想象争议的回答。研究发现，在所有人群中，“最不受欢迎”的观点是“有人是对的，有人是错的”。这项研究本身受到了批评（Zangwill 2018），但无论其成功与否，它都强调了一个普遍观点：我们不应该在没有证据的情况下假设哲学家对民间概念（或民间实践）的理解与民众自己的理解相符，这对于那些将美学家的工作主要涉及阐明民间概念的人，如Dickie，应该引起关注。
 
-上述讨论的问题以及Carroll和Cova团队成员给出的截然不同的答案是一个高阶问题，涉及人们是否认为审美判断具有规范力。我们可以对低层次的判断提出类似的问题。考虑到我们不应该根据他人的陈述形成审美判断的主张，这个主张据说得到了我们避免形成这种判断的实践的支持（康德1790 \[2000: 9]；Nguyen 2020: 1127）。与此相反，Robson（2014）认为，关于我们判断形成实践的这种描述性主张是错误的，如果这是真的，将会削弱规范主张的一个重要动机。
+上述讨论的问题以及Carroll和Cova团队成员给出的截然不同的答案是一个高阶问题，涉及人们是否认为审美判断具有规范力。我们可以对低层次的判断提出类似的问题。考虑到我们不应该根据他人的陈述形成审美判断的主张，这个主张据说得到了我们避免形成这种判断的实践的支持（康德1790 [2000: 9]；Nguyen 2020: 1127）。与此相反，Robson（2014）认为，关于我们判断形成实践的这种描述性主张是错误的，如果这是真的，将会削弱规范主张的一个重要动机。
 
 从完全不同的角度来看，有人认为哲学家在回答关键审美问题方面的作用非常有限，我们应该寻求用更科学的方法来替代而不仅仅是补充传统的哲学方法。塞米尔·泽基展示了这种趋势，他说：
 
@@ -62,11 +62,11 @@
 
 试图通过借助镜像神经元和其他神经过程来阐明审美现象现在已经非常普遍，以至于我们有了大量的神经审美著作（参见Chatterjee 2013，了解该领域30年来的发展）。然而，仍然有争议的是，这种对大脑结构和过程的研究对审美学的意义（如果有的话）。我们已经看到，尽管神经审美学家有时会做出大胆的声明，但一些批评家倾向于将这种工作视为与审美学家关注的那种论断评估无关。Gallese和Freedberg在回应批评者时表示：
 
-> 没有\[…]模拟体验和共情参与的镜像机制，就不可能进行审美判断。（2007: 411）
+> 没有[…]模拟体验和共情参与的镜像机制，就不可能进行审美判断。（2007: 411）
 
 但是要理解关于这些机制的审美意义，我们需要区分两个观点：
 
-* 证据性观点：关于机制的事实可能提供证据来支持或削弱有关审美体验或判断所涉及的主张。 \* 构成性观点：关于机制的事实可能是我们讲述有关审美体验或判断所涉及的故事的构成部分。
+* 证据性观点：关于机制的事实可能提供证据来支持或削弱有关审美体验或判断所涉及的主张。 * 构成性观点：关于机制的事实可能是我们讲述有关审美体验或判断所涉及的故事的构成部分。
 
 证据性主张比构成性主张更有说服力。首先考虑认知和神经机制对审美的证据相关性。我们刚才提到了关于我们对视觉艺术体验有多少依赖于作品倾向于鼓励身体共情的争议。虽然人们有时会报告这些经历，但可能存在着可访问性的差异，有些经历在没有高度注意力的情况下可能会被忽视，但仍对我们对作品的整体喜好/价值做出贡献。对各种艺术刺激的脑活动研究可能表明这些共情反应确实非常普遍，或者相对罕见，因为（假设）共情具有可识别的神经学特征。这样的研究对于支持需要考虑审美体验的主张是有用的。但相关的是共情反应，而不是脑过程（参见Carroll、Moore和Seeley 2012: 54，这些研究被描述为审美理论的“数据”）。
 
@@ -78,7 +78,7 @@
 
 两种表述都暗示了评价作品与评价创作者之间的紧密关联，从而有助于解释作品真实性的兴趣如何属于审美理由的范畴。它还暗示了我们对与某个人或事件有关的普通对象保留和拥有的愿望（比如JFK的毛衣）。一些心理学家认为，将艺术作品和其他有价值的物品归为"接触传染"的范畴，即一个人的非物质品质或"本质"可以通过物理接触传递给一个物体。（Newman, Diesendruck, & Bloom 2011）
 
-一个想法可以追溯到弗雷泽（1890 \[1994]）等人早期人类学工作。正如刚才提到的例子所示，一个人的本质可转移到物体的想法并不取决于物体的审美优点，这严重限制了这个想法在解释艺术中真实性角色方面的有用性（然而，请参见Korsmeyer 2019，认为纯真本身是一种审美属性）。布卢姆和同事强调了接触在传染过程中的作用：“一幅原作品像可能会有价值，因为毕加索实际触碰过它”（Newman & Bloom 2012: 3）。但毕加索可能只离 格尔尼卡 一画笔之遥，而这幅画可能比他后来擦手的餐巾图纸更受到艺术世界的尊重（并因此价格更高）。然而，对艺术家及其创作行为的更普遍、也许相当模糊的“亲密感”似乎可以说明某些艺术世界的做法，比如偏好更低编号（因此较早）的印刷品，即使后来的印刷品质量没有下降（Smith，Newman和Dhar 2016）。
+一个想法可以追溯到弗雷泽（1890 [1994]）等人早期人类学工作。正如刚才提到的例子所示，一个人的本质可转移到物体的想法并不取决于物体的审美优点，这严重限制了这个想法在解释艺术中真实性角色方面的有用性（然而，请参见Korsmeyer 2019，认为纯真本身是一种审美属性）。布卢姆和同事强调了接触在传染过程中的作用：“一幅原作品像可能会有价值，因为毕加索实际触碰过它”（Newman & Bloom 2012: 3）。但毕加索可能只离 格尔尼卡 一画笔之遥，而这幅画可能比他后来擦手的餐巾图纸更受到艺术世界的尊重（并因此价格更高）。然而，对艺术家及其创作行为的更普遍、也许相当模糊的“亲密感”似乎可以说明某些艺术世界的做法，比如偏好更低编号（因此较早）的印刷品，即使后来的印刷品质量没有下降（Smith，Newman和Dhar 2016）。
 
 布卢姆和同事提供了另一种解释我们对真品感兴趣的原因，这更接近上面提到的建议，即审美判断对成就或能力表现敏感的观点:
 
@@ -104,13 +104,13 @@
 
 关于情感的审美重要问题之一是：为什么我们会被描绘和其他能够引发悲伤和恐惧等负面情绪的手段所吸引？对于这个问题，上面提到的我们并不真正害怕德古拉和其他虚构的生物，只是准害怕它们的建议并不令人满意，因为害怕和准害怕被认为在质量上是相同的，所以如果害怕是不愉快的，准害怕也是如此。这个问题可以针对叙事作品和音乐提出；请记住，即使是基维也承认（非规范的）音乐欣赏可能会引发悲伤。然而，虚构作品在这个讨论中占据了更大的部分，并且在这里也是如此。在这个问题上，哲学家们倾向于采取以下三种立场之一（但请参阅Smuts 2009以获取更广泛的选择）：
 
-* 补偿：观众容忍悲剧、恐怖和其他类型的负面情绪，因为他们意识到有补偿性的好处（Carroll 1990；Feagin 1983） \* 转化：在艺术背景下，原本会被认为不愉快的情绪被体验为积极的情绪（Hume 1757 \[1987]） \* 中立：错误地认为悲剧或恐怖引发的所谓“负面情绪”在本质上是不愉快的，因此需要补偿或转化。它们在本质上没有价值，可能在某些情况下被负面地体验，在其他情况下则被积极地体验（Gaut 1993；Walton 1990: 255–8）
+* 补偿：观众容忍悲剧、恐怖和其他类型的负面情绪，因为他们意识到有补偿性的好处（Carroll 1990；Feagin 1983） * 转化：在艺术背景下，原本会被认为不愉快的情绪被体验为积极的情绪（Hume 1757 [1987]） * 中立：错误地认为悲剧或恐怖引发的所谓“负面情绪”在本质上是不愉快的，因此需要补偿或转化。它们在本质上没有价值，可能在某些情况下被负面地体验，在其他情况下则被积极地体验（Gaut 1993；Walton 1990: 255–8）
 
 中立性是关于情绪的一般性主张，在这里与转化论争辩的一种方式。但是，转化论者不一定要坚持中立性。我们在这里关注补偿和转化之间的对比。与转化不同，补偿是诉诸一种几乎没有争议的心理过程；我们接受许多种不愉快的经历，因为避免它们会带来更不可取的后果。转化听起来更有问题：情绪如何“翻转”其快乐价值，却仍然是同一种情绪？对艺术中的负面情绪感兴趣的心理学家引用了一项研究，声称揭示了疼痛的快乐翻转：预期强烈疼痛但只经历了中度疼痛刺激的被试将这种经历描述为“愉快”，而预期非疼痛温暖的被试将同样的刺激描述为不愉快（Leknes等，2013年）。这本身并不能证明在悲剧或恐怖的情况下也会发生同样的事情，但它表明转化主张并不像一开始看起来那么离奇。
 
 虽然补偿可能吸引人们熟悉的一种权衡，但它需要告诉我们从艺术所引发的负面情绪中可以获得什么具体的补偿性好处。哲学家们长期以来一直引用认识论的好处：悲剧中令人痛苦的事件是道德和心理学学习的源泉，有时是关于我们自己的（Collingwood 1938; Schier 1983）。实证科学家们也增加了这个列表：痛苦的情绪产生强烈的亲社会情感，有助于我们与角色和作者建立联系（Bastian, Pe, & Kuppens 2017; Egloff 2017）。
 
-虽然哲学家们长期以来提出了解决这个“悲剧悖论”的理论，但只有一项实证研究声称是以实证研究为基础的。Menninghaus和他的同事提出了他们所称的“疏离-拥抱模型”（Menninghaus，Wagner，Hanich等，2017年），根据这个模型，审美背景，如观看戏剧或电影，使我们与所代表的情境保持距离，并允许悲剧情绪的积极效果，特别是它们集中注意力的能力，来维持它们。虽然有大量相关的实证研究支持这个观点，但它的理论承诺并不清楚。在他们的一些表述中，疏离的功能似乎是减少负面情绪的不愉快程度，以至于它们“与艺术特定的享乐奖励期望不一定不相容”（2017年：6）；这使他们容易受到对赔偿理论的指责，即作品能够产生负面情绪似乎是吸引人们关注该作品的主要因素，而不是我们可以被说服接受的负面因素。在其他表述中，他们谈到了“使负面情绪变得愉悦的因素”（2017年：3），这暗示了转化理论。然而，他们声称他们的理论不属于这两种方法的任何一种（2017年：15；参见S. Davies 1997）。 （有关小说与情感之间关系的更多信息，请参阅Liao＆Gendler 2018 \[2020]的补充说明）。有关小说和情感的进一步评论，请参见下文的[第7节](https://plato.stanford.edu/entries/aesthetics-cogsci/#Emot)。
+虽然哲学家们长期以来提出了解决这个“悲剧悖论”的理论，但只有一项实证研究声称是以实证研究为基础的。Menninghaus和他的同事提出了他们所称的“疏离-拥抱模型”（Menninghaus，Wagner，Hanich等，2017年），根据这个模型，审美背景，如观看戏剧或电影，使我们与所代表的情境保持距离，并允许悲剧情绪的积极效果，特别是它们集中注意力的能力，来维持它们。虽然有大量相关的实证研究支持这个观点，但它的理论承诺并不清楚。在他们的一些表述中，疏离的功能似乎是减少负面情绪的不愉快程度，以至于它们“与艺术特定的享乐奖励期望不一定不相容”（2017年：6）；这使他们容易受到对赔偿理论的指责，即作品能够产生负面情绪似乎是吸引人们关注该作品的主要因素，而不是我们可以被说服接受的负面因素。在其他表述中，他们谈到了“使负面情绪变得愉悦的因素”（2017年：3），这暗示了转化理论。然而，他们声称他们的理论不属于这两种方法的任何一种（2017年：15；参见S. Davies 1997）。 （有关小说与情感之间关系的更多信息，请参阅Liao＆Gendler 2018 [2020]的补充说明）。有关小说和情感的进一步评论，请参见下文的[第7节](https://plato.stanford.edu/entries/aesthetics-cogsci/#Emot)。
 
 在讨论小说的结论中，我们注意到另一个直接针对实证层面的呼吁。Derek Matravers（2014年）认为，最近关于小说的理论化的一个错误是诉诸于想象力。Matravers认为，关于心理模型的研究很好地解释了我们对虚构和非虚构叙述的处理、理解和反应，而无需区分虚构案例与想象力的联系。
 
@@ -156,7 +156,7 @@
 
 许多对环境反应的经验研究的非规定性特征与哲学审美学中的一种观点形成了对比，该观点认为正确的审美欣赏自然需要相当苛刻的认知要求。这个问题与我们已经讨论过的艺术问题相似：除了物体的感官外观之外，还有哪些因素与欣赏、赏识和审美判断相关？在艺术领域，我们看到一个答案是考虑作品的类别——它所属的（艺术）种类（Walton 1970；参见上文[第5节](https://plato.stanford.edu/entries/aesthetics-cogsci/#Auth)）。Allen Carlson（2000）将这个想法扩展到自然美学，认为一个场景或物体必须被理解为属于一种自然类别，并具有该类别特有的因果历史；这是正确感知它的方式，对它的审美判断只有在与该类别相关联时才是正确的。这意味着人类对自然的许多审美体验是完全错误的，因为它们没有考虑相关的科学事实，而且常常充斥着超自然创造的概念。有些人可能会认为这是可以接受的后果；我们习惯于认为许多长期存在的人类伦理判断是完全错误的，审美判断可能也会走上同样的道路。然而，其他人则质疑是否对于欣赏一只飞翔的鸟，审美的愉悦是否取决于对这种生物的自然历史的理解（Budd 2001）。
 
-在识别环境审美欣赏中的独特之处方面，另一种可能更具包容性的方法将古老的思维方式与最近的认知研究联系起来。18世纪将注意力集中在崇高的概念上（尤其是伯克\[1757]，但源自Longinus的思想），以及风景如画的概念（Gilpin 1782，与更古老的pittoresco概念有关）。这些概念，尤其是前者，引发了关于它们与美的关系的争议——它们是美的亚种还是与之不同的范畴？——以及关于它们的范围的争议——只有自然才能崇高吗？问题还出现在这样一个问题上，即诸如“崇高”之类的术语是否指的是一类实际上存在共同审美反应的对象。这听起来像是我们可以从认知科学中获得帮助的事情，Keltner和Haight（2003）的研究工作引起了特别的关注，他们借鉴了一系列经验和反思的来源。他们的研究是关于敬畏的概念而不是崇高，但他们指出了明显的联系，因为崇高涉及对物理或概念上巨大事物的反应。他们认为，敬畏涉及对所关注的对象或场景的表面广阔性的认知，以及主体无法将其融入其现有的心理模式中。其他研究表明，这种情感在非语言表达中具有强烈的跨文化成分（Keltner等，2019），并且与自我感觉减弱有关（Piff等，2015；Tom Cochrane（2012）认为崇高的特点是一种自我否定的感觉）。因此，有人提出，崇高的体验是一种审美形式的敬畏，其中对象是为了它自身而被关注（Clewis 2019；Arcangeli等，2020），这个想法由Shapsay（2021）进一步阐述，他认为崇高有时采取一种认知上复杂的形式，涉及对所面对的场景或对象对现有模式的挑战的反思。
+在识别环境审美欣赏中的独特之处方面，另一种可能更具包容性的方法将古老的思维方式与最近的认知研究联系起来。18世纪将注意力集中在崇高的概念上（尤其是伯克[1757]，但源自Longinus的思想），以及风景如画的概念（Gilpin 1782，与更古老的pittoresco概念有关）。这些概念，尤其是前者，引发了关于它们与美的关系的争议——它们是美的亚种还是与之不同的范畴？——以及关于它们的范围的争议——只有自然才能崇高吗？问题还出现在这样一个问题上，即诸如“崇高”之类的术语是否指的是一类实际上存在共同审美反应的对象。这听起来像是我们可以从认知科学中获得帮助的事情，Keltner和Haight（2003）的研究工作引起了特别的关注，他们借鉴了一系列经验和反思的来源。他们的研究是关于敬畏的概念而不是崇高，但他们指出了明显的联系，因为崇高涉及对物理或概念上巨大事物的反应。他们认为，敬畏涉及对所关注的对象或场景的表面广阔性的认知，以及主体无法将其融入其现有的心理模式中。其他研究表明，这种情感在非语言表达中具有强烈的跨文化成分（Keltner等，2019），并且与自我感觉减弱有关（Piff等，2015；Tom Cochrane（2012）认为崇高的特点是一种自我否定的感觉）。因此，有人提出，崇高的体验是一种审美形式的敬畏，其中对象是为了它自身而被关注（Clewis 2019；Arcangeli等，2020），这个想法由Shapsay（2021）进一步阐述，他认为崇高有时采取一种认知上复杂的形式，涉及对所面对的场景或对象对现有模式的挑战的反思。
 
 
 
@@ -213,7 +213,7 @@
 * Currie, Greg and Xuanqi Zhu, 2021, “Aesthetic Sense and Social Cognition: A Story from the Early Stone Age”, Synthese, 198(7): 6553–6572. doi:10.1007/s11229-019-02476-3
 * Currie, Greg, Matthew Kieran, Aaron Meskin, and Jon Robson (eds.), 2014, Aesthetics and the Sciences of Mind, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199669639.001.0001
 * Cutting, James E., 2003, “Gustave Caillebotte, French Impressionism, and Mere Exposure”, Psychonomic Bulletin & Review, 10(2): 319–343. doi:10.3758/BF03196493
-* –––, 2017, “Mere Exposure and Aesthetic Realism: A Response to Bence Nanay”, Leonardo, 50(1): 64–66. doi:10.1162/LEON\_a\_01081
+* –––, 2017, “Mere Exposure and Aesthetic Realism: A Response to Bence Nanay”, Leonardo, 50(1): 64–66. doi:10.1162/LEON_a_01081
 * Danto, Arthur C., 2001, “The Pigeon within Us All: A Reply to Three Critics”, The Journal of Aesthetics and Art Criticism, 59(1): 39–44. doi:10.1111/0021-8529.00005
 * Davies, David, 2014, “‘This Is Your Brain on Art’: What Can Philosophy of Art Learn from Neuroscience?”, in Currie, Kieran, Meskin, and Robson 2014: 57–74. doi:10.1093/acprof:oso/9780199669639.003.0004
 * Davies, Stephen, 1997, “Why Listen to Sad Music if It Makes One Feel Sad?” in Music and Meaning, Jenefer Robinson (ed.), Ithaca, NY: Cornell University Press, 242–254.
@@ -237,7 +237,7 @@
 * Fodor, J.A., 1983, The Modularity of Mind, Cambridge, MA: MIT Press.
 * –––, 1992, “A Theory of the Child’s Theory of Mind”, Cognition, 44(3): 283–296. doi:10.1016/0010-0277(92)90004-2
 * Foo, Yong Zhi, Leigh W. Simmons, and Gillian Rhodes, 2017, “Predictors of Facial Attractiveness and Health in Humans”, Scientific Reports, 7(1): 39731. doi:10.1038/srep39731
-* Frazer, James George, 1890 \[1994], The Golden Bough: A Study in Comparative Religion, 2 volumes, London: Macmillan. An abridged version of the second and third editions as The Golden Bough: A Study in Magic and Religion, Robert Fraser (ed.), Oxford: Oxford University Press, 1994.
+* Frazer, James George, 1890 [1994], The Golden Bough: A Study in Comparative Religion, 2 volumes, London: Macmillan. An abridged version of the second and third editions as The Golden Bough: A Study in Magic and Religion, Robert Fraser (ed.), Oxford: Oxford University Press, 1994.
 * Freedberg, David and Vittorio Gallese, 2007, “Motion, Emotion and Empathy in Esthetic Experience”, Trends in Cognitive Sciences, 11(5): 197–203. doi:10.1016/j.tics.2007.02.003
 * Friston, Karl, 2010, “The Free-Energy Principle: A Unified Brain Theory?”, Nature Reviews Neuroscience, 11(2): 127–138. doi:10.1038/nrn2787
 * Fuentes, Agustín, 2020, “The Evolution of a Human Imagination”, in The Cambridge Handbook of the Imagination, Anna Abraham (ed.), Cambridge: Cambridge University Press, 13–29. doi:10.1017/9781108580298.002
@@ -247,7 +247,7 @@
 * –––, 2007, Art, Emotion and Ethics, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263219.001.0001
 * Gell, Alfred, 1998, Art and Agency, Oxford: Oxford University Press.
 * Gilpin, William, 1782, Observations on the River Wye, and Several Parts of South Wales, etc. Relative Chiefly to Picturesque Beauty; made in the Summer of the Year 1770, London: R. Blamire. Reprinted Cambridge: Cambridge University Press, 2013.
-* Godfrey-Smith, Peter, 2013, “Review of The Artful Species: Aesthetics, Art, and Evolution, by Stephen Davies”, Notre Dame Philosophical Reviews, August. \[[Godfrey-Smith 2013 available online](https://ndpr.nd.edu/reviews/the-artful-species-aesthetics-art-and-evolution/)]
+* Godfrey-Smith, Peter, 2013, “Review of The Artful Species: Aesthetics, Art, and Evolution, by Stephen Davies”, Notre Dame Philosophical Reviews, August. [[Godfrey-Smith 2013 available online](https://ndpr.nd.edu/reviews/the-artful-species-aesthetics-art-and-evolution/)]
 * Goldman, Alvin I., 1989, “Interpretation Psychologized”, Mind & Language, 4(3): 161–185. doi:10.1111/j.1468-0017.1989.tb00249.x
 * Gordon, Robert M., 1986, “Folk Psychology as Simulation”, Mind & Language, 1(2): 158–171. doi:10.1111/j.1468-0017.1986.tb00324.x
 * Gowlett, John A. J., 2021, “Deep Structure in the Acheulean Adaptation: Technology, Sociality and Aesthetic Emergence”, Adaptive Behavior, 29(2): 197–216. doi:10.1177/1059712320965713
@@ -266,11 +266,11 @@
 * Heyes, Cecilia M. and Chris D. Frith, 2014, “The Cultural Evolution of Mind Reading”, Science, 344(6190): 1243091. doi:10.1126/science.1243091
 * Higuchi, Satomi, Thierry Chaminade, Hiroshi Imamizu, and Mitsuo Kawato, 2009, “Shared Neural Correlates for Language and Tool Use in Broca’s Area”, NeuroReport, 20(15): 1376–1381. doi:10.1097/WNR.0b013e3283315570
 * Hiscock, Peter, 2014, “Learning in Lithic Landscapes: A Reconsideration of the Hominid ‘Toolmaking’ Niche”, Biological Theory, 9(1): 27–41. doi:10.1007/s13752-013-0158-3
-* Hohwy Jacob, 2020, “New directions in predictive processing”, Mind \&Language, 35: 209–223. doi.org/10.1111/mila.12281HOHWY223
+* Hohwy Jacob, 2020, “New directions in predictive processing”, Mind &Language, 35: 209–223. doi.org/10.1111/mila.12281HOHWY223
 * Hopkins, Robert, 1998, Picture, Image and Experience: A Philosophical Inquiry, Cambridge: Cambridge University Press.
 * Huddleston, Andrew, 2012, “In Defense of Artistic Value”, The Philosophical Quarterly, 62(249): 705–714. doi:10.1111/j.1467-9213.2012.00089.x
-* Hume, David, 1757 \[1987], “Of Tragedy”, in his Essays, Moral, Political, and Literary, Part I, Essay 22. Reprinted, Eugene F. Miller (ed.), Indianapolis, IN: Liberty Classics, 1987.
-* Hyman, John, 2010, “Art and Neuroscience”, in Beyond Mimesis and Convention: Representation in Art and Science, Roman Frigg and Matthew Hunter (eds.), (Boston Studies in The Philosophy of Science 262), Dordrecht: Springer Netherlands, 245–261. doi:10.1007/978-90-481-3851-7\_11
+* Hume, David, 1757 [1987], “Of Tragedy”, in his Essays, Moral, Political, and Literary, Part I, Essay 22. Reprinted, Eugene F. Miller (ed.), Indianapolis, IN: Liberty Classics, 1987.
+* Hyman, John, 2010, “Art and Neuroscience”, in Beyond Mimesis and Convention: Representation in Art and Science, Roman Frigg and Matthew Hunter (eds.), (Boston Studies in The Philosophy of Science 262), Dordrecht: Springer Netherlands, 245–261. doi:10.1007/978-90-481-3851-7_11
 * Irvin, Sherri, 2014, “Is Aesthetic Experience Possible?”, in Currie, Kieran, Meskin, and Robson 2014: 37–56. doi:10.1093/acprof:oso/9780199669639.003.0003
 * –––, 2017, “Resisting Body Oppression: An Aesthetic Approach”, Feminist Philosophy Quarterly, 3(4): art. 3. doi:10.5206/fpq/2017.4.3
 * Johnson, Galen A., 2009, The Retrieval of the Beautiful: Thinking Through Merleau-Ponty’s Aesthetics, Evanston, IL: Northwestern University Press.
@@ -280,7 +280,7 @@
 * Kalick, S. Michael, Leslie A. Zebrowitz, Judith H. Langlois, and Robert M. Johnson, 1998, “Does Human Facial Attractiveness Honestly Advertise Health? Longitudinal Data on an Evolutionary Question”, Psychological Science, 9(1): 8–13. doi:10.1111/1467-9280.00002
 * Kamber, Richard, 2011, “Experimental Philosophy of Art”, The Journal of Aesthetics and Art Criticism, 69(2): 197–208. doi:10.1111/j.1540-6245.2011.01461.x
 * Kaplan, Rachel and Janet Frey Talbot, 1988, “Ethnicity and Preference for Natural Settings: A Review and Recent Findings”, Landscape and Urban Planning, 15(1–2): 107–117. doi:10.1016/0169-2046(88)90019-9
-* Kant. Immanuel, 1790 \[2000], Kritik der Urteilskraft, Berlin. Translated as Critique of the Power of Judgment (The Cambridge Edition of the Works of Immanuel Kant), Paul Guyer (ed.), Paul Guyer and Eric Matthews (trans), Cambridge: Cambridge University Press.
+* Kant. Immanuel, 1790 [2000], Kritik der Urteilskraft, Berlin. Translated as Critique of the Power of Judgment (The Cambridge Edition of the Works of Immanuel Kant), Paul Guyer (ed.), Paul Guyer and Eric Matthews (trans), Cambridge: Cambridge University Press.
 * Keltner, Dacher and Jonathan Haidt, 2003, “Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion”, Cognition and Emotion, 17(2): 297–314. doi:10.1080/02699930302297
 * Keltner, Dacher, Disa Sauter, Jessica Tracy, and Alan Cowen, 2019, “Emotional Expression: Advances in Basic Emotion Theory”, Journal of Nonverbal Behavior, 43(2): 133–160. doi:10.1007/s10919-019-00293-3
 * Kesner, Ladislav and Jiří Horáček, 2017, “Empathy-Related Responses to Depicted People in Art Works”, Frontiers in Psychology, 8(24 February): art. 228. doi:10.3389/fpsyg.2017.00228
@@ -303,7 +303,7 @@
 * –––, 2013, “Causal History, Actual and Apparent”, Behavioral and Brain Sciences, 36(2): 150–151. doi:10.1017/S0140525X12001707
 * –––, 2016, “Artistic Achievement and Artistic Value”, in his Aesthetic Pursuits: Essays in Philosophy of Art, Oxford: Oxford University Press, 47–59.
 * Lewis, David K., 1978, “Truth in Fiction”, American Philosophical Quarterly, 15(1): 37–46.
-* Liao, Shen-yi and Tamar Gendler, 2018 \[2020], “Imagination”, in The Stanford Encyclopedia of Philosophy (Summer 2020), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2020/entries/imagination/](https://plato.stanford.edu/archives/sum2020/entries/imagination/)>
+* Liao, Shen-yi and Tamar Gendler, 2018 [2020], “Imagination”, in The Stanford Encyclopedia of Philosophy (Summer 2020), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2020/entries/imagination/](https://plato.stanford.edu/archives/sum2020/entries/imagination/)>
 * Linsen, Sarah, Mieke H. R. Leyssen, Jonathan Sammartino, and Stephen E. Palmer, 2011, “Aesthetic Preferences in the Size of Images of Real-World Objects”, Perception, 40(3): 291–298. doi:10.1068/p6835
 * Lipps, Theodor, 1903, Ästhetik: Psychologie des Schönen und der Kunst: Grundlegung der Ästhetik, Erster Teil, Hamburg, Germany, L Voss.
 * Livingstone, Margaret, 2002, Vision and Art: The Biology of Seeing, New York: Abrams
@@ -347,7 +347,7 @@
 * Prum, Richard O., 2013, “Coevolutionary Aesthetics in Human and Biotic Artworlds”, Biology & Philosophy, 28(5): 811–832. doi:10.1007/s10539-013-9389-8
 * Reber, Rolf, 2012, “Processing Fluency, Aesthetic Pleasure, and Culturally Shared Taste”, in Shimamura and Palmer 2012: 223–249. doi:10.1093/acprof:oso/9780199732142.003.0055
 * Reber, Rolf and Norbert Schwarz, 1999, “Effects of Perceptual Fluency on Judgments of Truth”, Consciousness and Cognition, 8(3): 338–342. doi:10.1006/ccog.1999.0386
-* Reber, Rolf, Norbert Schwarz, and Piotr Winkielman, 2004, “Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver’s Processing Experience?”, Personality and Social Psychology Review, 8(4): 364–382. doi:10.1207/s15327957pspr0804\_3
+* Reber, Rolf, Norbert Schwarz, and Piotr Winkielman, 2004, “Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver’s Processing Experience?”, Personality and Social Psychology Review, 8(4): 364–382. doi:10.1207/s15327957pspr0804_3
 * Robinson, Jenefer, 2005, Deeper than Reason: Emotion and Its Role in Literature, Music, and Art, Oxford: Oxford University Press. doi:10.1093/0199263655.001.0001
 * Robson, Jon, 2014, “A Social Epistemology of Aesthetics: Belief Polarization, Echo Chambers and Aesthetic Judgement”, Synthese, 191(11): 2513–2528. doi:10.1007/s11229-014-0437-y
 * –––, 2018, “Is Perception the Canonical Route to Aesthetic Judgment?”, Australasian Journal of Philosophy, 96(4): 657–668. doi:10.1080/00048402.2017.1389964
@@ -360,7 +360,7 @@
 * Schmarsow, August, 1894, Das Wesen der architektonischen Schöpfung: Antrittsvorlesung, gehalten in der Aula der K. Universität Leipzig am 8. November 1893, Leipzig: Karl W. Hiersemann; translated as “The Essence of Architectural Creation”, in Empathy, Form, and Space: Problems in German Aesthetics, 1873–1893, Harry Francis Mallgrave, and Eleftherios Ikonomou (eds. and trans.), Santa Monica, CA: Getty Center for the History of Art and the Humanities, 1994, 281–297. doi:10.11588/DIGLIT.49891
 * Scruton, Roger, 2014, “Music and Cognitive Science”, Royal Institute of Philosophy Supplement, 75: 231–247. doi:10.1017/S1358246114000277
 * Shapsay, Sandra, 2021, “A Two-Tiered Theory of the Sublime”, The British Journal of Aesthetics, 61(2): 123–143. doi:10.1093/aesthj/ayaa047
-* Shelley, James, 2006 \[2020], “18th Century British Aesthetics”, in The Stanford Encyclopedia of Philosophy (Winter 2020), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2020/entries/aesthetics-18th-british/](https://plato.stanford.edu/archives/win2020/entries/aesthetics-18th-british/)>
+* Shelley, James, 2006 [2020], “18th Century British Aesthetics”, in The Stanford Encyclopedia of Philosophy (Winter 2020), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2020/entries/aesthetics-18th-british/](https://plato.stanford.edu/archives/win2020/entries/aesthetics-18th-british/)>
 * Shimamura, Arthur P. and Stephen E. Palmer, 2012, Aesthetic Science: Connecting Minds, Brains, and Experience, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199732142.001.0001
 * Sibley, Frank, 1959, “Aesthetic Concepts”, The Philosophical Review, 68(4): 421–450. doi:10.2307/2182490
 * –––, 1965, “Aesthetic and Nonaesthetic”, The Philosophical Review, 74(2): 135–159. doi:10.2307/2183262
@@ -420,7 +420,7 @@
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-cogsci).                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/aesthetics-cogsci/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetics-cogsci\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetics-cogsci&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ​![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)​      | [Enhanced bibliography for this entry](https://philpapers.org/sep/aesthetics-cogsci/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ### Other Internet Resources <a href="#other-internet-resources" id="other-internet-resources"></a>
@@ -431,6 +431,6 @@
 
 [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [authenticity](https://plato.stanford.edu/entries/authenticity/) | [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) | [emotion](https://plato.stanford.edu/entries/emotion/) | [empathy](https://plato.stanford.edu/entries/empathy/) | [imagination](https://plato.stanford.edu/entries/imagination/) | [linguistics: philosophy of](https://plato.stanford.edu/entries/linguistics/) | [neuroscience, philosophy of](https://plato.stanford.edu/entries/neuroscience/) | [perception: the contents of](https://plato.stanford.edu/entries/perception-contents/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Jon Robson](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/jonathan.robson) <[jonvrobson@gmail.com](mailto:jonvrobson%40gmail%2ecom)>\
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by
+[Jon Robson](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/jonathan.robson) <[jonvrobson@gmail.com](mailto:jonvrobson%40gmail%2ecom)>
 Gregory Currie <[gregory.currie@york.ac.uk](mailto:gregory%2ecurrie%40york%2eac%2euk)>

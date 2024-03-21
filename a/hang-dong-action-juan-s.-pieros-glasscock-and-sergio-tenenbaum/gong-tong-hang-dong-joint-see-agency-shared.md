@@ -10,13 +10,13 @@
 
 但是，什么是共同行动呢？这个问题在当代行动哲学中得到了持续的讨论。中心关注点是阐明共同行动的独特特征，并调查归约的可能性和范围：共同行动是否可以通过我们从个体行动研究中获得的资源来理解？本条目将重点讨论与行动哲学最密切相关的一些问题。有关集体意向性的更广泛讨论，请参阅集体意向性条目。
 
-* [1. 传统的本体论问题和意图论](https://plato.stanford.edu/entries/shared-agency/#TraOntProIntThe) \* [2. 参与意图的相互关联性](https://plato.stanford.edu/entries/shared-agency/#IntParInt) \* [3. 如何建立相互关联意图的结构？](https://plato.stanford.edu/entries/shared-agency/#HowStrIntIntEst) \* [4. 相互义务](https://plato.stanford.edu/entries/shared-agency/#MutObl) \* [5. 辩论困境和群体心智](https://plato.stanford.edu/entries/shared-agency/#DisDilGroMin) \* [参考文献](https://plato.stanford.edu/entries/shared-agency/#Bib) \* [学术工具](https://plato.stanford.edu/entries/shared-agency/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/shared-agency/#Oth) \* [相关条目](https://plato.stanford.edu/entries/shared-agency/#Rel)
+* [1. 传统的本体论问题和意图论](https://plato.stanford.edu/entries/shared-agency/#TraOntProIntThe) * [2. 参与意图的相互关联性](https://plato.stanford.edu/entries/shared-agency/#IntParInt) * [3. 如何建立相互关联意图的结构？](https://plato.stanford.edu/entries/shared-agency/#HowStrIntIntEst) * [4. 相互义务](https://plato.stanford.edu/entries/shared-agency/#MutObl) * [5. 辩论困境和群体心智](https://plato.stanford.edu/entries/shared-agency/#DisDilGroMin) * [参考文献](https://plato.stanford.edu/entries/shared-agency/#Bib) * [学术工具](https://plato.stanford.edu/entries/shared-agency/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/shared-agency/#Oth) * [相关条目](https://plato.stanford.edu/entries/shared-agency/#Rel)
 
 ***
 
 ### 1. 传统的本体论问题和意图论 <a href="#id-1-chuan-tong-de-ben-ti-lun-wen-ti-he-yi-tu-lun" id="id-1-chuan-tong-de-ben-ti-lun-wen-ti-he-yi-tu-lun"></a>
 
-共同行动有时是共同进行的，例如我们一起散步，几个人一起刷房子，或者一支足球队执行传球战术。\[[1](https://plato.stanford.edu/entries/shared-agency/notes.html#1)] 很少有人争议标签下存在着共同活动、共同或集体行动等现象。争议的是如何理解它。一种方法是问什么区分了个人行动的集合与组成共同行动的个人行动。当我们从（每个人所做的）中减去我们一起做的时，还有什么余下的部分？\[[2](https://plato.stanford.edu/entries/shared-agency/notes.html#2)]
+共同行动有时是共同进行的，例如我们一起散步，几个人一起刷房子，或者一支足球队执行传球战术。[[1](https://plato.stanford.edu/entries/shared-agency/notes.html#1)] 很少有人争议标签下存在着共同活动、共同或集体行动等现象。争议的是如何理解它。一种方法是问什么区分了个人行动的集合与组成共同行动的个人行动。当我们从（每个人所做的）中减去我们一起做的时，还有什么余下的部分？[[2](https://plato.stanford.edu/entries/shared-agency/notes.html#2)]
 
 考虑Searle（1990，402）所讨论的一个场景。许多人在公园里四处散步。突然下起雨来，每个人都跑到中央的庇护所。尽管可能有一些协调（人们往往不会相互撞到），但跑向庇护所不是我们一起做的事情。现在，想象另一种情况，同样的人在同一公园里执行同样的动作，但作为表演现场的舞蹈队成员。在两种情况下，个人行为收集或“总和”没有区别：A跑向庇护所，B跑向庇护所，等等。但舞者们正在进行集体行动，而惊慌失措的露天野餐者则没有。
 
@@ -26,7 +26,7 @@
 
 在这一点上，对于引用意图的另一个保留来自于对无意识集体行动的考虑。像西尔那样诉诸意图似乎排除了一些人认为的真实可能性：在某种强有力的意义下，有一些φ行为是共同完成的，但在任何描述下都不是有意为之。一个可能的例子是我们共同造成了严重的环境破坏。这可能是我们每个人追求自己项目的副作用。没有一个主体在任何描述下都有意造成严重的环境破坏：没有一个单独的个体有足够的影响力去有意为之，作为一个集体，污染者似乎不足以被视为意图的主体。这是否真的构成了一个反例，将取决于我们对环境破坏是否是共同行动、共同行动的真正实践的看法。有关讨论，请参见Ludwig 2007；2016年，182页和Chant 2007年。
 
-撇开这些保留，我们可以问，如果意图的态度要作为共同行动的一个独特标志，它应该如何被理解。一种方法是将其视为一种特殊的、超个体的态度。\[[4](https://plato.stanford.edu/entries/shared-agency/notes.html#4)]“我们正在跑向庇护所”的意图，根据这种观点，是由“我们”所指代的任何实体所持有的一种态度。根据这种观点，无论何时人们一起行动，他们构成了一个在非比喻意义上有意图的群体。这意味着群体可以是真正的行动者和意图的主体。
+撇开这些保留，我们可以问，如果意图的态度要作为共同行动的一个独特标志，它应该如何被理解。一种方法是将其视为一种特殊的、超个体的态度。[[4](https://plato.stanford.edu/entries/shared-agency/notes.html#4)]“我们正在跑向庇护所”的意图，根据这种观点，是由“我们”所指代的任何实体所持有的一种态度。根据这种观点，无论何时人们一起行动，他们构成了一个在非比喻意义上有意图的群体。这意味着群体可以是真正的行动者和意图的主体。
 
 Searle（1990年，406页）明确排除了这种可能性，可以理解为他不愿接受一种观点，即每当个体一起行动时，就会出现大量的超个体意向主体、群体思维或法人实体。这种本体论的浪费部分是由于对我们用来描述共同行动的语言的直接解释，其中复数主语术语仅被理解为一个指称表达式。相反，Ludwig 2016年提出，我们应该将主语术语视为涉及对群体成员的隐含限定量化。这一建议与对行动描述的Davidsonian事件分析相结合，为行动描述的潜在逻辑形式提供了替代的表达方式，这种方式不鼓励超个体观点。相反，所需的是存在某个事件，该事件有多个代理人。
 
@@ -36,7 +36,7 @@ Searle（1990年，406页）明确排除了这种可能性，可以理解为他�
 
 当前关于共同行动的文献讨论中，一些可以理解为关于参与意图的性质的辩论，以及不同个体中这种意图的实例如何相互关联，以便可以说这些个体一起行动，并共享一个意图（可能是前述的我们表述的意图）。
 
-例如，参与意图可以被理解为普通意图的一个实例，这在研究个体行动时是熟悉的；如果我们意图与这些参与意图等同或由其构建而成，那么我们就可以提供一个关于这种我们意图的还原解释，用普通的个体意图来解释。Tuomela和Miller在1988年支持这种观点。以一个属于某个群体的个体为例。根据Tuomela和Miller的观点，如果这个个体打算在X方面尽自己的一份力量，相信X的成功条件已经满足，并且相信群体成员之间存在相互相信，认为成功条件已经满足，那么这个个体就对X有一个参与意图。\[[8](https://plato.stanford.edu/entries/shared-agency/notes.html#8)]（在这个一般性的研究中，还包括Bratman 1992、MacMahon 2001、2005、S. Miller 2001等其他工作。Tuomela的后期工作与此有所不同，将在下文中说明。）
+例如，参与意图可以被理解为普通意图的一个实例，这在研究个体行动时是熟悉的；如果我们意图与这些参与意图等同或由其构建而成，那么我们就可以提供一个关于这种我们意图的还原解释，用普通的个体意图来解释。Tuomela和Miller在1988年支持这种观点。以一个属于某个群体的个体为例。根据Tuomela和Miller的观点，如果这个个体打算在X方面尽自己的一份力量，相信X的成功条件已经满足，并且相信群体成员之间存在相互相信，认为成功条件已经满足，那么这个个体就对X有一个参与意图。[[8](https://plato.stanford.edu/entries/shared-agency/notes.html#8)]（在这个一般性的研究中，还包括Bratman 1992、MacMahon 2001、2005、S. Miller 2001等其他工作。Tuomela的后期工作与此有所不同，将在下文中说明。）
 
 作为反对简化描述的一个例子，西尔想象商学院毕业班级中的每个成员，他们熟悉亚当·斯密所说的“看不见的手”理论，打算追求自己的私利，从而打算做出有助于人类的贡献。这种意图，即使补充了图梅拉和米勒所要求的信仰，直观上也不属于人们在与他人共同行动时所具有的意图，而且这些毕业生继续以集体行动的方式行事是不可信的。然而，这似乎符合图梅拉和米勒的分析。西尔对这个问题的诊断是，简化的方法不能保证合作元素，而合作元素对于共同活动是至关重要的，并且必须体现在参与者的态度中（1990年，406）。不能通过在意图的内容中加入合作元素来回应这一问题，以便代理人的意图是“参与共同行动”。这实际上预设了我们正在寻找解释的概念（1990年，405）。相比之下，西尔坚持认为，个人的参与意图（他所说的“集体意图”）是最原始的。西尔所说的“我们意图”实际上就是个人的参与意图。但尽管它是个体的态度或状态，但它是一种根本不同种类的意图，不是个体行动中所涉及的意图。应该提到的是，这是一个与塞拉斯和后来的图梅拉有相似之处的观点。
 
@@ -58,7 +58,7 @@ Searle（1990年，406页）明确排除了这种可能性，可以理解为他�
 
 同样地，图梅拉要求他最近理论核心的“我们模式”意图必然涉及到所有参与者共享的团体原因。请参考他的2007年著作；第13页、第47页和第98页。
 
-但是，个体可能会参与共同行动（并具有相应的意图），即使他们有不同且不兼容的原因来这样做也是可能的。例如，来自对立政党的代表可能会参与立法过程，导致法律的通过，即使每个人的动机都是对方无法接受的考虑因素。\[[19](https://plato.stanford.edu/entries/shared-agency/notes.html#19)] 然而，可以认为参与者参与共同行动时必须受到某些个体动机或原因的限制。如果我参与共同行动的动机过于操纵或破坏其他参与者（例如，与A一起做某事以更好地控制他/她），那么共同行动或意图的地位可能会受到损害。\[[20](https://plato.stanford.edu/entries/shared-agency/notes.html#20)]
+但是，个体可能会参与共同行动（并具有相应的意图），即使他们有不同且不兼容的原因来这样做也是可能的。例如，来自对立政党的代表可能会参与立法过程，导致法律的通过，即使每个人的动机都是对方无法接受的考虑因素。[[19](https://plato.stanford.edu/entries/shared-agency/notes.html#19)] 然而，可以认为参与者参与共同行动时必须受到某些个体动机或原因的限制。如果我参与共同行动的动机过于操纵或破坏其他参与者（例如，与A一起做某事以更好地控制他/她），那么共同行动或意图的地位可能会受到损害。[[20](https://plato.stanford.edu/entries/shared-agency/notes.html#20)]
 
 不同个体参与意图相关的另一种方式是它们如何形成、修改或搁置。例如，吉尔伯特认为，只有当每个个体公开表达与他人以某种方式共同承诺的准备时，共同行动才会开始。她补充说，撤销或显著修改由此产生的意图，以及解除任何个体的参与，也需要所有人的一致同意。不清楚吉尔伯特本人是否愿意用与不同参与者相关的意图或类似意图的态度来讨论这个“一致同意条件”。但是，考虑到我是否同意你提议修改你的意图将部分取决于我的意图，自然而然地将吉尔伯特的条件视为对不同个体的参与意图之间关系施加动态约束的方式。当然，吉尔伯特的条件可能过于严格。例如，一致同意的标准不允许单方面退出共同行动。有些人可能觉得这不可信。但是放宽吉尔伯特的条件自然会导致另一组可能较弱的动态约束，而不是完全没有约束。例如，回想一下，意图是可推翻的：如果情况变化需要，它们可以被修订或放弃。现在，我们可以想象，共同行动中的每个参与者可能有权单方面根据这些变化情况修订或推翻意图，其他参与者则必须遵守这种变化，除非他们认为犯了错误（罗斯，2004年）。
 
@@ -66,19 +66,19 @@ Searle（1990年，406页）明确排除了这种可能性，可以理解为他�
 
 ### 3. 共同行动的结构是如何建立的？ <a href="#id-3-gong-tong-hang-dong-de-jie-gou-shi-ru-he-jian-li-de" id="id-3-gong-tong-hang-dong-de-jie-gou-shi-ru-he-jian-li-de"></a>
 
-因此，共同行动与仅仅是个体行为的聚合有所区别，它通过不同个体之间适当相关的参与意图的结构来区分。这是一个对于这些个体具有独特规范意义的结构，对于每个个体的基于意图的实践推理产生最直接的影响。\[[23](https://plato.stanford.edu/entries/shared-agency/notes.html#23)]
+因此，共同行动与仅仅是个体行为的聚合有所区别，它通过不同个体之间适当相关的参与意图的结构来区分。这是一个对于这些个体具有独特规范意义的结构，对于每个个体的基于意图的实践推理产生最直接的影响。[[23](https://plato.stanford.edu/entries/shared-agency/notes.html#23)]
 
-自然而然地认为，意图的这种结构是由参与共同行动的个体所带来的，大概是当每个人形成了参与性意图，这是他或她对结构的贡献。但是请记住，参与性意图旨在捕捉每个个体对大家一起做的事情的承诺，而不仅仅是他或她自己在做什么。因此，西尔尔（Searle）对共同行动的一个实例说：“我只是作为我们推动的一部分而推动。”这表明意图的是整个活动，这在布拉特曼（Bratman）的意图中得到了体现，形式为“我打算我们J”。\[[24](https://plato.stanford.edu/entries/shared-agency/notes.html#24)]
+自然而然地认为，意图的这种结构是由参与共同行动的个体所带来的，大概是当每个人形成了参与性意图，这是他或她对结构的贡献。但是请记住，参与性意图旨在捕捉每个个体对大家一起做的事情的承诺，而不仅仅是他或她自己在做什么。因此，西尔尔（Searle）对共同行动的一个实例说：“我只是作为我们推动的一部分而推动。”这表明意图的是整个活动，这在布拉特曼（Bratman）的意图中得到了体现，形式为“我打算我们J”。[[24](https://plato.stanford.edu/entries/shared-agency/notes.html#24)]
 
-但正如维尔曼（Velleman）所示，根据意图的标准理解，很难确定一个人是否可以打算整个活动；或者如果可以，似乎与共享活动不兼容。打算是我为了解决一个思考问题而做的事情：权衡几个选择，我决定选择A，并因此打算A。这表明了解决条件\[[26](https://plato.stanford.edu/entries/shared-agency/notes.html#26)]，即我只能打算我认为是由我来决定或解决的事情。打算某件我认为我无法解决的事情是违反理性要求的，并且因此认为我随后的计划和行动可能会失败。将这一点应用到集体行动上，说我打算我们一起用餐就意味着我们是否一起用餐是由我来决定的。但是，共同活动和意图背后的想法恰恰是，我们做什么不完全由我决定。你对此有发言权；至少你做什么应该由你决定（参见Schmid 2008）。因此，我们的问题是，共同行动似乎既要求又不允许每个参与者具有相同的意图。\[[27](https://plato.stanford.edu/entries/shared-agency/notes.html#27)]
+但正如维尔曼（Velleman）所示，根据意图的标准理解，很难确定一个人是否可以打算整个活动；或者如果可以，似乎与共享活动不兼容。打算是我为了解决一个思考问题而做的事情：权衡几个选择，我决定选择A，并因此打算A。这表明了解决条件[[26](https://plato.stanford.edu/entries/shared-agency/notes.html#26)]，即我只能打算我认为是由我来决定或解决的事情。打算某件我认为我无法解决的事情是违反理性要求的，并且因此认为我随后的计划和行动可能会失败。将这一点应用到集体行动上，说我打算我们一起用餐就意味着我们是否一起用餐是由我来决定的。但是，共同活动和意图背后的想法恰恰是，我们做什么不完全由我决定。你对此有发言权；至少你做什么应该由你决定（参见Schmid 2008）。因此，我们的问题是，共同行动似乎既要求又不允许每个参与者具有相同的意图。[[27](https://plato.stanford.edu/entries/shared-agency/notes.html#27)]
 
-对这个问题出现了几种回应。Velleman提出了一种解决方案，它涉及相互依赖的条件意图。\[[28](https://plato.stanford.edu/entries/shared-agency/notes.html#28)] 每个人都有条件地决定团体将要做的事情，条件是其他人都有类似的承诺并且有相同的意图。因此，我打算J，条件是你也有相同的意图。有人担心，当意图以这种方式相互依赖时，不完全清楚它们是否真正解决了任何问题，因此，是否有人适当地承诺了我们的J。如果每个意图都取决于其他人，那么不采取行动和参与其中一样合理。有关讨论，请参见Roth 2004年，373-80页；Bacharach 2006年，137页以下。Gilbert 2002年在回应Robins 2002年和Roth 2004年的前身时，否认了Velleman、Roth和Robins所归因于她的相互依赖条件观点。另请参见Gilbert 2003年，2009年。Velleman本人对这种担忧有所敏感（1997a，39页），并且这影响了他对条件意图内容的表述方式。\[[29](https://plato.stanford.edu/entries/shared-agency/notes.html#29)]
+对这个问题出现了几种回应。Velleman提出了一种解决方案，它涉及相互依赖的条件意图。[[28](https://plato.stanford.edu/entries/shared-agency/notes.html#28)] 每个人都有条件地决定团体将要做的事情，条件是其他人都有类似的承诺并且有相同的意图。因此，我打算J，条件是你也有相同的意图。有人担心，当意图以这种方式相互依赖时，不完全清楚它们是否真正解决了任何问题，因此，是否有人适当地承诺了我们的J。如果每个意图都取决于其他人，那么不采取行动和参与其中一样合理。有关讨论，请参见Roth 2004年，373-80页；Bacharach 2006年，137页以下。Gilbert 2002年在回应Robins 2002年和Roth 2004年的前身时，否认了Velleman、Roth和Robins所归因于她的相互依赖条件观点。另请参见Gilbert 2003年，2009年。Velleman本人对这种担忧有所敏感（1997a，39页），并且这影响了他对条件意图内容的表述方式。[[29](https://plato.stanford.edu/entries/shared-agency/notes.html#29)]
 
 Bratman（1997）认为，只要个人可以合理地预测相关的其他方会作出适当的反应，他想要的意图可以超出他自己可以解决的范围。即使草率地忽略了正确的医疗建议，我也可以明确地打算今天下午去海滩晒太阳，只要我可以合理地预测到今天会晴朗。同样地，当我合理地相信您具有或将具有适当的意图时，我就可以打算我们要进行共同行动。人们可能会想知道对参与者的意图和行动采取这种预测性态度是否与共享意图并与他们一起行动一致。另一方面，预测行动是否意味着其是非自主的或存在问题并不明显。如果是这样，对他人的预测性态度可能非常适合与他们一起行动，并且可能解释了“我们”的共同行动如何成为“我”的意图对象。
 
 另一个建议是参与者的意图并非整个活动，而只是其中的一部分。这种意图更加谦逊，因为它并不试图决定其他人的行动。根据这种意图来描述共同行动（例如Tuomela和Miller 1998年，Kutz 2000年）并不意味着对他人具有权威或控制，这与共同行动的性质难以调和。但是，这种谦逊的意图只涉及到个人在我们的J-ing中的一部分，并似乎无法解释对我们的J-ing作为一个整体的参与承诺。为了理解为什么不行，可以考虑Gilbert 1990年关于一起散步的案例。我们可以将我的一部分描述为以一定的速度行走。但是，意图这样做完全兼容于破坏我的伙伴的贡献，例如绊倒他。相反，假设我们利用一些强大的“部分”概念，以便每个参与者都意图在共同行动中做出自己的贡献，就其本身而言。这似乎排除了破坏伙伴贡献的企图。但是，这个意图到底是什么？它似乎预设了对共同行动概念的理解，而我们正试图阐明这个概念。
 
-也许这种批评过于仓促了。也许仍有一种方式来描述想要尽自己的一份力所持有的意图，而不需要预设共同行动的概念。一种方法是借助“团队推理”，一种独特形式的战略实践推理。这种推理观点是被开发来解决标准博弈论在解释选择更合作的策略方案的合理性时遇到的一些困难，如囚徒困境和Hi-Lo。这种观点认为，我们通过每个个体处理问自己的情况：不是在别人做什么时我 最好要做什么 ？，而是对我们或整个团队 来说什么最好？\[32]^ 参与意图是通过导致其形成的独特推理方式来表达，而不是通过某些更内在的特征来表达这个意图或其内容。有待看到意图尽自己的一份力，如此理解，是否可以解释共同行动的参与承诺。\[33]^
+也许这种批评过于仓促了。也许仍有一种方式来描述想要尽自己的一份力所持有的意图，而不需要预设共同行动的概念。一种方法是借助“团队推理”，一种独特形式的战略实践推理。这种推理观点是被开发来解决标准博弈论在解释选择更合作的策略方案的合理性时遇到的一些困难，如囚徒困境和Hi-Lo。这种观点认为，我们通过每个个体处理问自己的情况：不是在别人做什么时我 最好要做什么 ？，而是对我们或整个团队 来说什么最好？[32]^ 参与意图是通过导致其形成的独特推理方式来表达，而不是通过某些更内在的特征来表达这个意图或其内容。有待看到意图尽自己的一份力，如此理解，是否可以解释共同行动的参与承诺。[33]^
 
 如何建立参与意图的人际结构是共同行动理论的一个核心问题，也是一个活跃的研究领域。有关更多观点，请参阅 Gilbert 2009（下面有一些讨论），Korsgaard 在她的 2009 年著作中对康德的解释，189页及以后，以及 Roth 2004 年的著作，他对意图的概念使他能够借鉴一种在某些方面类似于命令的人际机制。
 
@@ -86,7 +86,7 @@ Bratman（1997）认为，只要个人可以合理地预测相关的其他方会
 
 吉尔伯特长期以来一直认为，参与共同行动的参与者有责任履行他们在其中的角色。以她著名的一起散步的例子为例，主演是杰克和苏。当杰克做一些与一起散步不兼容的事情时，例如走得太快以至于苏跟不上，苏有权责备杰克。这使吉尔伯特认为，在共同行动（和意图）中，每个参与者都有责任履行他们在活动中（或在实现意图中）的部分。例如，
 
-这种权利的存在\[Sue对责备的权利]表明，实际上，杰克有一个义务去注意和行动（苏也有这个义务）。（Gilbert 1990, 180–1 (1996, 184))\[[34](https://plato.stanford.edu/entries/shared-agency/notes.html#34)]
+这种权利的存在[Sue对责备的权利]表明，实际上，杰克有一个义务去注意和行动（苏也有这个义务）。（Gilbert 1990, 180–1 (1996, 184))[[34](https://plato.stanford.edu/entries/shared-agency/notes.html#34)]
 
 Gilbert使用这种相互义务的标准批评了以“个人意图”（1990, 180ff; 2008,499）为基础的共同行动的简化解释，比如Bratman所辩护的解释。Bratman 1997承认相互义务通常与意图的共享相关，但坚持认为它们并非必要。他认为，当存在这些义务时，可以通过道德原则来解释，即一个人应该履行自己故意在他人中创造的行动期望。这个原则由Scanlon在讨论承诺的背景下提出，通常适用于个体共同行动和共享意图的情况。（Scanlon的F原则在他的1998年著作中，第304页。关于Scanlon和承诺对共同行动的最新讨论，参见Shiffrin 2008。关于Gilbert的另一种简化解释的回应，参见MacMahon 2005, 299ff。关于相互义务的最新讨论，参见Roth 2004, Alonso 2009。）
 
@@ -94,9 +94,9 @@ Gilbert使用这种相互义务的标准批评了以“个人意图”（1990, 1
 
 Gilbert的后来的陈述更明确地说明了这些非道德义务的“指导”性质（Gilbert 1997，75-6）。这个义务将杰克与苏联系在一起，而杰克和一个非参与者之间没有联系（Gilbert 2009；2008，497；这与最近关于“双极规范性”的讨论有关；参见Darwall 2006，Thompson 2004和Wallace 2013）。为了标明规范关系的指导性质，并且不太强烈地暗示它们是道德性质的，我们可以称之为“对侧承诺”（Roth 2004）。因此，杰克对苏有一个对侧承诺，要以一种与他们一起行走相容的方式行走。
 
-吉尔伯特试图通过“所有权”来表达有目标性的感觉：杰克对苏的对侧承诺以适当的步伐行走意味着苏有权利，并且在某种程度上拥有杰克的相关表现（吉尔伯特，2008年，497页）。这可能解释了为什么苏而不是其他人可以通过放弃对杰克行动的要求来解除他履行义务/承诺的原因。在相关的情况下，我们可以尝试通过承诺来表达承诺的有目标性。\[[35](https://plato.stanford.edu/entries/shared-agency/notes.html#35)] 如果我们将杰克的义务理解为对苏的承诺的结果，我们不仅可以看到杰克有一个承诺，而且苏处于一种特殊的位置，以至于她可以释放他履行承诺。至少对于吉尔伯特来说，通过诉诸所有权或承诺来表达有目标义务或对侧承诺的概念的一个缺点是，不清楚这是否允许这些承诺与道德考虑完全隔离，就像吉尔伯特似乎认为的那样（例如，在对布拉特曼的回应中）。进一步的问题是所有权或承诺是否完全捕捉到了对侧或有目标性承诺的全部内容。这些策略可能解释了为什么苏有特殊的地位可以“解除”杰克的承诺。但人们可能会想知道她在与杰克有关的其他方面是否被忽视了。\[[36](https://plato.stanford.edu/entries/shared-agency/notes.html#36)] 此外，承诺的某些方面，特别是义务的有目标性，可能在某种程度上依赖于共同行动或其方面。请参阅吉尔伯特2011年和罗斯2016年。
+吉尔伯特试图通过“所有权”来表达有目标性的感觉：杰克对苏的对侧承诺以适当的步伐行走意味着苏有权利，并且在某种程度上拥有杰克的相关表现（吉尔伯特，2008年，497页）。这可能解释了为什么苏而不是其他人可以通过放弃对杰克行动的要求来解除他履行义务/承诺的原因。在相关的情况下，我们可以尝试通过承诺来表达承诺的有目标性。[[35](https://plato.stanford.edu/entries/shared-agency/notes.html#35)] 如果我们将杰克的义务理解为对苏的承诺的结果，我们不仅可以看到杰克有一个承诺，而且苏处于一种特殊的位置，以至于她可以释放他履行承诺。至少对于吉尔伯特来说，通过诉诸所有权或承诺来表达有目标义务或对侧承诺的概念的一个缺点是，不清楚这是否允许这些承诺与道德考虑完全隔离，就像吉尔伯特似乎认为的那样（例如，在对布拉特曼的回应中）。进一步的问题是所有权或承诺是否完全捕捉到了对侧或有目标性承诺的全部内容。这些策略可能解释了为什么苏有特殊的地位可以“解除”杰克的承诺。但人们可能会想知道她在与杰克有关的其他方面是否被忽视了。[[36](https://plato.stanford.edu/entries/shared-agency/notes.html#36)] 此外，承诺的某些方面，特别是义务的有目标性，可能在某种程度上依赖于共同行动或其方面。请参阅吉尔伯特2011年和罗斯2016年。
 
-虽然所有权或主张权的概念意味着她所考虑的相互义务/对侧承诺的类型，但吉尔伯特所使用的中心解释概念是“共同承诺”，她认为这是原始的。\[37] 这里的一个问题是，共同承诺是否提供了类似于哲学上的相互义务的解释或解释，还是仅仅对其进行了重新描述。通过将其与与个体意图或决策相关的个人承诺进行对比，我们可以对吉尔伯特的想法有一些了解（2009年，180页）。虽然一个人可以独自承担和撤销与个体意图和决策相关的承诺，但共同承诺只能通过每个人表达他们的准备来形成，并且只有在所有当事人一致同意时才能撤销。这引发了上一节的问题，即共同承诺如何生效。即使每个人都表示愿意一起做A，也不能推断出我们都会迈出这一步并实际去做。吉尔伯特本人还提出了一个进一步的担忧，即任何要求表达的条件可能会限制她的观点在给出政治义务的更一般解释时的适用性，这是她的目标之一（例如，在她的2006年的著作中）。吉尔伯特的观点也被指责存在循环论证的问题；似乎需要表达准备来建立共同承诺的行为本身就是共同行动的一个例子，因此预设了共同承诺。有关讨论，请参见图梅拉1992年，托勒森2002年和施密德2014年的著作。
+虽然所有权或主张权的概念意味着她所考虑的相互义务/对侧承诺的类型，但吉尔伯特所使用的中心解释概念是“共同承诺”，她认为这是原始的。[37] 这里的一个问题是，共同承诺是否提供了类似于哲学上的相互义务的解释或解释，还是仅仅对其进行了重新描述。通过将其与与个体意图或决策相关的个人承诺进行对比，我们可以对吉尔伯特的想法有一些了解（2009年，180页）。虽然一个人可以独自承担和撤销与个体意图和决策相关的承诺，但共同承诺只能通过每个人表达他们的准备来形成，并且只有在所有当事人一致同意时才能撤销。这引发了上一节的问题，即共同承诺如何生效。即使每个人都表示愿意一起做A，也不能推断出我们都会迈出这一步并实际去做。吉尔伯特本人还提出了一个进一步的担忧，即任何要求表达的条件可能会限制她的观点在给出政治义务的更一般解释时的适用性，这是她的目标之一（例如，在她的2006年的著作中）。吉尔伯特的观点也被指责存在循环论证的问题；似乎需要表达准备来建立共同承诺的行为本身就是共同行动的一个例子，因此预设了共同承诺。有关讨论，请参见图梅拉1992年，托勒森2002年和施密德2014年的著作。
 
 理解为一种义务，吉尔伯特关于共同行动参与者之间存在一种独特的规范关系的洞察力可能会遭到拒绝。许多人认为义务，尤其是无单方撤回条件，太过强硬。如果我们改为讨论允许单方撤回的承诺，吉尔伯特的一般想法可能会得到更广泛的接受。最后，斯特劳德（2010）提出了一种在某些方面甚至更弱的规范条件。斯特劳德认为，共同活动的参与者拥有一种特权——一种道德许可，可以覆盖或减轻对非参与者（如善行）的道德义务。尚需进一步研究以确定这是否能解决激发吉尔伯特最初和重要洞察力的直觉。
 
@@ -186,7 +186,7 @@ Pettit借鉴了关于判断集合的文献（例如Kornhauser和Sager，1986年�
 * Laurence, Ben, 2010. “An Anscombian Approach to Shared Agency”, in A. Ford, J. Hornsby, and F. Stoutland (Eds.), Essays on Anscombe’s Intention, Cambridge, MA: Harvard University Press: 270–298.
 * Lewis, David, 1969. Convention: a Philosophical Study. Cambridge, MA: Harvard University Press.
 * –––, 1983. Philosophical Papers, (Volume 1), New York: Oxford University Press.
-* List, Christian and Pettit, Philip, 2006. “Group Agency and Supervenience”, in Southern Journal of Philosophy (Spindel Conference 2005), 44: 85–105. \[[Preprint available online](http://www.princeton.edu/\~ppettit/papers/2006/Group%20Agency%20and%20Supervenience.pdf)]
+* List, Christian and Pettit, Philip, 2006. “Group Agency and Supervenience”, in Southern Journal of Philosophy (Spindel Conference 2005), 44: 85–105. [[Preprint available online](http://www.princeton.edu/~ppettit/papers/2006/Group%20Agency%20and%20Supervenience.pdf)]
 * –––, 2002. “Aggregating Sets of Judgements: An Impossibility Result,” Economics and Philosophy, 18: 89–110
 * Ludwig, Kirk, 2007. “Collective Intentional Behavior from the Standpoint of Semantics”, Noûs 41, 3: 355–393.
 * –––, 2016. From Individual to Plural Agency (Collective Action: Volume 1), Oxford: Oxford University Press.
@@ -201,7 +201,7 @@ Pettit借鉴了关于判断集合的文献（例如Kornhauser和Sager，1986年�
 * –––, 2009. “The Reality of Group Agents”, in Philosophy of the social sciences : philosophical theory and scientific practice, C. Mantzavinos (ed.), Cambridge; New York: Cambridge University Press: 67–91.
 * –––, 2014. “Group Agents are Not Expressive, Pragmatic or Theoretical Fictions”, Erkenntnis, 79: 1641–1662
 * Pettit, Philip and Christian List, 2011. Group Agency: The Possibility, Design, and Status of Corporate Agents, Oxford: Oxford University Press.
-* Pettit, Philip and Schweikard, David, 2006. “Joint Actions and Group Agents”, Philosophy of Social Sciences, 36: 18–39. \[[Preprint available online](http://www.princeton.edu/\~ppettit/papers/2006/Joint%20Actions%20and%20Group%20Agents.pdf)]
+* Pettit, Philip and Schweikard, David, 2006. “Joint Actions and Group Agents”, Philosophy of Social Sciences, 36: 18–39. [[Preprint available online](http://www.princeton.edu/~ppettit/papers/2006/Joint%20Actions%20and%20Group%20Agents.pdf)]
 * Quinton, Anthony, 1975–6. “Social Objects”, Proceedings of the Aristotelian Society, 75: 1–27.
 * Robins, Michael H., 2002. “Joint Commitment and Circularity”, in Social Facts & Collective Intentionality, G. Meggle, ed., Frankfurt am Main: DR. Hansel-Hohenhausen AG: 299-321.
 * Roth, Abraham Sesshu, 2003. “Practical Intersubjectivity”, in Socializing Metaphysics: the Nature of Social Reality, F. Schmitt, ed., Lanham, MD: Rowman & Littlefield, 65–91.
@@ -242,7 +242,7 @@ Pettit借鉴了关于判断集合的文献（例如Kornhauser和Sager，1986年�
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=shared-agency).                                                                      |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/shared-agency/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=shared-agency\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=shared-agency&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ​![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)​      | [Enhanced bibliography for this entry](http://philpapers.org/sep/shared-agency/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ### Other Internet Resources <a href="#other-internet-resources" id="other-internet-resources"></a>
@@ -261,5 +261,5 @@ Pettit借鉴了关于判断集合的文献（例如Kornhauser和Sager，1986年�
 
 I would like to thank Michael Bratman for helpful comments on a draft.
 
-[Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
+[Copyright © 2017](https://plato.stanford.edu/info.html#c) by
 [Abraham Sesshu Roth](https://philosophy.osu.edu/people/roth.263/) <[roth.263@osu.edu](mailto:roth%2e263%40osu%2eedu)>

@@ -6,11 +6,11 @@
 
 美是我们生活中重要的一部分，丑陋也同样如此。因此，从古代开始，哲学家们一直对我们对美丽和丑陋的经历和判断感兴趣。他们试图理解这些经历和判断的本质，并想知道这些经历和判断是否合法。这两个项目在20世纪变得尖锐起来，因为我们生活的这一部分在欧洲和北美的知识界受到了持续的攻击。自18世纪以来，关于美的大部分讨论都使用了“审美”这个概念，因此这个概念特别受到了批评。对审美的蔑视可能源于更广泛的文化清教主义，它担心审美与快乐之间的联系。曾经有一段时间，从1960年代到1990年代，甚至暗示艺术品可能因为带来愉悦而被视为好，并不是认知、道德或政治上的有益，也是要冒受嘲笑的风险。（现在情况已经不太一样了。）20世纪对美的概念或审美并不友善。尽管如此，总会有一些思想家——哲学家以及在特定艺术研究中的其他人——坚持认真思考美和审美。在本文的第一部分中，我们将看看伊曼纽尔·康德给我们提供的特别丰富的关于美的判断的描述。 “品味的判断”这个概念对康德的描述以及对传统美学中几乎所有工作都十分重要。因此，我们开始检查康德对品味判断的描述。第二部分中，我们将探讨20世纪思想家们提出的问题。在第三部分中，我们考虑了无私，康德认为这是品味判断的一部分。在第四部分中，我们综合考虑康德关于品味判断的描述，来探讨审美这个概念是否可行。
 
-* [1.1 主观性](https://plato.stanford.edu/entries/aesthetic-judgment/#Subj) \* [1.2 规范性](https://plato.stanford.edu/entries/aesthetic-judgment/#Norm) \* [1.3 重构规范性](https://plato.stanford.edu/entries/aesthetic-judgment/#RecaNorm) \* [1.4 规范性和愉悦](https://plato.stanford.edu/entries/aesthetic-judgment/#NormPlea) \* [1.5 品味判断和大问题](https://plato.stanford.edu/entries/aesthetic-judgment/#JudgTastBigQues) \* [2. 美学判断的其他特征](https://plato.stanford.edu/entries/aesthetic-judgment/#OtheFeatAestJudg)
-* [2.1 美学真理](https://plato.stanford.edu/entries/aesthetic-judgment/#AestTrut) \* [2.2 心智依赖和非美学依赖](https://plato.stanford.edu/entries/aesthetic-judgment/#MindDepeNonaDepe) \* [2.3 美学属性依赖于哪些非美学属性？](https://plato.stanford.edu/entries/aesthetic-judgment/#WhicNonAestPropDoAestPropDepe) \* [2.4 依赖性和无规律性](https://plato.stanford.edu/entries/aesthetic-judgment/#DepeLawl) \* [2.5 正确性的首要性](https://plato.stanford.edu/entries/aesthetic-judgment/#PrimCorr) \* [3. 公正无私](https://plato.stanford.edu/entries/aesthetic-judgment/#Disi)
-* [3.1 无私：更多和更少的雄心壮志](https://plato.stanford.edu/entries/aesthetic-judgment/#DisiLessAmbi) \* [3.2 无私的问题](https://plato.stanford.edu/entries/aesthetic-judgment/#ProbDisi) \* [4. 美学的概念](https://plato.stanford.edu/entries/aesthetic-judgment/#NotiAest)
-* [4.1 一些术语上的备注](https://plato.stanford.edu/entries/aesthetic-judgment/#SomeTermRema) \* [4.2 问题](https://plato.stanford.edu/entries/aesthetic-judgment/#Prob) \* [4.3 一个层次性的提议](https://plato.stanford.edu/entries/aesthetic-judgment/#HierProp) \* [4.4 美和崇高](https://plato.stanford.edu/entries/aesthetic-judgment/#BeauSubl) \* [4.5 美学道德](https://plato.stanford.edu/entries/aesthetic-judgment/#AestMora) \* [参考文献](https://plato.stanford.edu/entries/aesthetic-judgment/#Bib)
-* [参考文献](https://plato.stanford.edu/entries/aesthetic-judgment/#Refe) \* [进一步阅读](https://plato.stanford.edu/entries/aesthetic-judgment/#FurtRead) \* [学术工具](https://plato.stanford.edu/entries/aesthetic-judgment/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/aesthetic-judgment/#Oth) \* [相关条目](https://plato.stanford.edu/entries/aesthetic-judgment/#Rel)
+* [1.1 主观性](https://plato.stanford.edu/entries/aesthetic-judgment/#Subj) * [1.2 规范性](https://plato.stanford.edu/entries/aesthetic-judgment/#Norm) * [1.3 重构规范性](https://plato.stanford.edu/entries/aesthetic-judgment/#RecaNorm) * [1.4 规范性和愉悦](https://plato.stanford.edu/entries/aesthetic-judgment/#NormPlea) * [1.5 品味判断和大问题](https://plato.stanford.edu/entries/aesthetic-judgment/#JudgTastBigQues) * [2. 美学判断的其他特征](https://plato.stanford.edu/entries/aesthetic-judgment/#OtheFeatAestJudg)
+* [2.1 美学真理](https://plato.stanford.edu/entries/aesthetic-judgment/#AestTrut) * [2.2 心智依赖和非美学依赖](https://plato.stanford.edu/entries/aesthetic-judgment/#MindDepeNonaDepe) * [2.3 美学属性依赖于哪些非美学属性？](https://plato.stanford.edu/entries/aesthetic-judgment/#WhicNonAestPropDoAestPropDepe) * [2.4 依赖性和无规律性](https://plato.stanford.edu/entries/aesthetic-judgment/#DepeLawl) * [2.5 正确性的首要性](https://plato.stanford.edu/entries/aesthetic-judgment/#PrimCorr) * [3. 公正无私](https://plato.stanford.edu/entries/aesthetic-judgment/#Disi)
+* [3.1 无私：更多和更少的雄心壮志](https://plato.stanford.edu/entries/aesthetic-judgment/#DisiLessAmbi) * [3.2 无私的问题](https://plato.stanford.edu/entries/aesthetic-judgment/#ProbDisi) * [4. 美学的概念](https://plato.stanford.edu/entries/aesthetic-judgment/#NotiAest)
+* [4.1 一些术语上的备注](https://plato.stanford.edu/entries/aesthetic-judgment/#SomeTermRema) * [4.2 问题](https://plato.stanford.edu/entries/aesthetic-judgment/#Prob) * [4.3 一个层次性的提议](https://plato.stanford.edu/entries/aesthetic-judgment/#HierProp) * [4.4 美和崇高](https://plato.stanford.edu/entries/aesthetic-judgment/#BeauSubl) * [4.5 美学道德](https://plato.stanford.edu/entries/aesthetic-judgment/#AestMora) * [参考文献](https://plato.stanford.edu/entries/aesthetic-judgment/#Bib)
+* [参考文献](https://plato.stanford.edu/entries/aesthetic-judgment/#Refe) * [进一步阅读](https://plato.stanford.edu/entries/aesthetic-judgment/#FurtRead) * [学术工具](https://plato.stanford.edu/entries/aesthetic-judgment/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/aesthetic-judgment/#Oth) * [相关条目](https://plato.stanford.edu/entries/aesthetic-judgment/#Rel)
 
 ***
 
@@ -34,15 +34,15 @@
 
 为了看到美中快乐的特殊之处，我们必须将焦点转回审美判断的特殊之处。对于康德来说，审美判断声称具有“普遍有效性”，他如下所述：
 
-> ……如果\[某人]宣称某物是美的，那么他期望其他人也能得到同样的满足：他不仅仅是为自己做出判断，而是为每个人做出判断，并将美称为事物的属性。因此，他说这个“事物”是美的，并不指望他人与他的满足判断达成一致，因为他经常发现他们与他自己的判断是一致的，而是要求他们这样做。如果他们做出不同的判断，他会责备他们，并否认他们有品味，因为他仍然要求他们应该有品味；在这个意义上，不能说“每个人都有自己的特殊品味”。这就等于说根本没有品味，即没有审美判断能够合理地要求每个人的同意。（康德 1790年，5: 212–213 \[2000: 98]；另见 2000: 164–166–139）
+> ……如果[某人]宣称某物是美的，那么他期望其他人也能得到同样的满足：他不仅仅是为自己做出判断，而是为每个人做出判断，并将美称为事物的属性。因此，他说这个“事物”是美的，并不指望他人与他的满足判断达成一致，因为他经常发现他们与他自己的判断是一致的，而是要求他们这样做。如果他们做出不同的判断，他会责备他们，并否认他们有品味，因为他仍然要求他们应该有品味；在这个意义上，不能说“每个人都有自己的特殊品味”。这就等于说根本没有品味，即没有审美判断能够合理地要求每个人的同意。（康德 1790年，5: 212–213 [2000: 98]；另见 2000: 164–166–139）
 
-康德的观点是，在审美判断中，我们要求或期望其他人的一致，而在对加那利葡萄酒的美好程度的判断中，这只是个人偏好的问题，不需要他人的同意。在很多情况下，对于品味和美感的事物，我们认为其他人“应该”分享我们的判断，如果他们不这样做，我们会责备他们。这是因为审美判断具有普遍有效性的渴望，似乎“好像 \[美] 是事物的属性”。
+康德的观点是，在审美判断中，我们要求或期望其他人的一致，而在对加那利葡萄酒的美好程度的判断中，这只是个人偏好的问题，不需要他人的同意。在很多情况下，对于品味和美感的事物，我们认为其他人“应该”分享我们的判断，如果他们不这样做，我们会责备他们。这是因为审美判断具有普遍有效性的渴望，似乎“好像 [美] 是事物的属性”。
 
 现在，如果以上引文是康德用来阐明审美判断的全部内容，那么他并没有说够。因为以下问题仍然悬而未决：为什么我们要求其他人分享我们的判断？我们可能出于各种奇怪的原因希望其他人分享我们的判断。也许我们会感到更舒适。也许我们会赢得一场赌注。如果我们说他们“应该”以某种方式判断，我们需要更多地解释。这种说法在哪种意义上是正确的？如果有人因为悲伤而无法欣赏某件优秀的艺术作品怎么办？如果这会让某人分心，无法专注于某个有社会价值的项目怎么办？这种“应该”的性质是什么？
 
-我们可以通过以简朴的方式重新阐述我们应该如何进行判断的观点，即我们对品味的判断存在一定的规范约束，而在我们对加纳利酒的美味程度的判断中则不存在这种约束。这种规范性的最原始表达是：有些是正确的，而有些是错误的。或者更谨慎地说：有些判断比其他判断更好。我们不认为某物仅仅是美丽的“对我来说”，就像我们可能会说有些事情只是碰巧给了我感官上的快乐一样。当然，我们可能会说“我认为 X 是美丽的”，因为我们希望表达不确定性，但是当我们自信地进行判断时，我们认为我们的判断是正确的。这意味着我们认为相反的判断是错误的。我们假设并非所有的美的判断都是同样合适的。“各有所好”只适用于对美好和恶劣的判断，康德称之为“令人愉悦的判断”（参见康德1790年，5：212-213，291-292 \[2000年：97-98，171-172]）。
+我们可以通过以简朴的方式重新阐述我们应该如何进行判断的观点，即我们对品味的判断存在一定的规范约束，而在我们对加纳利酒的美味程度的判断中则不存在这种约束。这种规范性的最原始表达是：有些是正确的，而有些是错误的。或者更谨慎地说：有些判断比其他判断更好。我们不认为某物仅仅是美丽的“对我来说”，就像我们可能会说有些事情只是碰巧给了我感官上的快乐一样。当然，我们可能会说“我认为 X 是美丽的”，因为我们希望表达不确定性，但是当我们自信地进行判断时，我们认为我们的判断是正确的。这意味着我们认为相反的判断是错误的。我们假设并非所有的美的判断都是同样合适的。“各有所好”只适用于对美好和恶劣的判断，康德称之为“令人愉悦的判断”（参见康德1790年，5：212-213，291-292 [2000年：97-98，171-172]）。
 
-当然，有些人对食物很懂。有专家和权威人士擅长制作美味的食物，并且知道什么味道好（康德1790年，5：213 \[2000年：98]）。但是这些人所知道的是什么样的味道对某种口味来说是令人愉悦的。在某种程度上，有些东西确实比其他东西更好吃，有些对食物的卓越判断比其他判断更好。甚至可以说有些是正确的，而有些是错误的。然而，这仅仅是相对于“正常”的人类而言。没有一个正确的观念认为那些有非常特殊的喜好和厌恶的人是有错的，或者认为大多数人可能是错误的。（康德说令人愉悦的判断具有“普遍”但不具有“普遍”的有效性；1790年，5：213 \[2000年：213]）。但是在品味或美的判断的情况下，正确性并不取决于大多数人喜欢或判断的东西。我们可以说使用过多的盐或糖是错误的，但这只是因为它淹没了大多数人喜欢的味道。
+当然，有些人对食物很懂。有专家和权威人士擅长制作美味的食物，并且知道什么味道好（康德1790年，5：213 [2000年：98]）。但是这些人所知道的是什么样的味道对某种口味来说是令人愉悦的。在某种程度上，有些东西确实比其他东西更好吃，有些对食物的卓越判断比其他判断更好。甚至可以说有些是正确的，而有些是错误的。然而，这仅仅是相对于“正常”的人类而言。没有一个正确的观念认为那些有非常特殊的喜好和厌恶的人是有错的，或者认为大多数人可能是错误的。（康德说令人愉悦的判断具有“普遍”但不具有“普遍”的有效性；1790年，5：213 [2000年：213]）。但是在品味或美的判断的情况下，正确性并不取决于大多数人喜欢或判断的东西。我们可以说使用过多的盐或糖是错误的，但这只是因为它淹没了大多数人喜欢的味道。
 
 说一个审美判断具有正确性的主张可能只是从一个问题所涉及的“应该”转移到一个问题所涉及的“正确性”或“更好”。这可能是不可避免的。我们正在处理一个规范性概念，虽然有些规范性概念可以用其他规范性概念来解释，但我们不能用非规范性术语来表达规范性概念。
 
@@ -58,19 +58,19 @@
 
 然而，不清楚康德是否会赞同这一点，因为他将规范性描述为与他最终对其可能性的解释相联系的方式。康德以一种非常特殊的方式表达了规范性的观念。他写道：
 
-> \[我们]普遍要求这种同意（康德1790年，5：214 \[2000：99]）
+> [我们]普遍要求这种同意（康德1790年，5：214 [2000：99]）
 
-康德说，审美判断涉及到对每个人的有效性。（康德1790年，5：212 \[2000：97]）
+康德说，审美判断涉及到对每个人的有效性。（康德1790年，5：212 [2000：97]）
 
-相比之下，康德认为，尽管我们有时候会表达出我们对“令人愉快”的判断是普遍有效的（“羊肉加蒜更好吃”），但实际上并非如此：对于“令人愉快”的判断只吸引了大多数人而非所有人（康德1790年，5：213 \[2000：98]）。
+相比之下，康德认为，尽管我们有时候会表达出我们对“令人愉快”的判断是普遍有效的（“羊肉加蒜更好吃”），但实际上并非如此：对于“令人愉快”的判断只吸引了大多数人而非所有人（康德1790年，5：213 [2000：98]）。
 
-然而，这种严肃的描述试图捕捉到一种更基本的规范性思想，这种思想可能成为竞争性解释的目标。为了解释主观普遍性判断如何可能，康德提出了一个关于认知能力（想象力和理解力）之间和谐相互作用的复杂故事，他认为这构成了对美的愉悦（康德1790年，5：219 \[2000：104]）。这种对美的愉悦的“深层”解释非常有争议，也不太可信（参见巴德2001年）。但我们可以理解康德为什么这样做。对于康德来说，对美的判断的规范性要求根源于我们认知能力的更一般运作方式，康德认为我们可以假设他人也具备这些能力。因此，我们开始解释这种愉悦如何能够作为一个提出普遍性主张的判断的基础。然而，康德对于这种被这种推测性的对美的愉悦解释所解释的“普遍性”或规范性的本质并没有多少论述。康德将义务用人际关系的术语来表达并非偶然，考虑到他的目标。他这样做并不是他的过错。但对于我们的目的来说，我们需要将被解释的内容与解释本身分开。因为如果康德的解释行不通，我们希望能够得到他试图解释的规范性的描述。我们需要将康德的问题与他的解决方案分开，以便在后者失败时保留前者。可能存在其他解决方案来解决他的问题。
+然而，这种严肃的描述试图捕捉到一种更基本的规范性思想，这种思想可能成为竞争性解释的目标。为了解释主观普遍性判断如何可能，康德提出了一个关于认知能力（想象力和理解力）之间和谐相互作用的复杂故事，他认为这构成了对美的愉悦（康德1790年，5：219 [2000：104]）。这种对美的愉悦的“深层”解释非常有争议，也不太可信（参见巴德2001年）。但我们可以理解康德为什么这样做。对于康德来说，对美的判断的规范性要求根源于我们认知能力的更一般运作方式，康德认为我们可以假设他人也具备这些能力。因此，我们开始解释这种愉悦如何能够作为一个提出普遍性主张的判断的基础。然而，康德对于这种被这种推测性的对美的愉悦解释所解释的“普遍性”或规范性的本质并没有多少论述。康德将义务用人际关系的术语来表达并非偶然，考虑到他的目标。他这样做并不是他的过错。但对于我们的目的来说，我们需要将被解释的内容与解释本身分开。因为如果康德的解释行不通，我们希望能够得到他试图解释的规范性的描述。我们需要将康德的问题与他的解决方案分开，以便在后者失败时保留前者。可能存在其他解决方案来解决他的问题。
 
 #### 1.4 规范性和快乐 <a href="#id-14-gui-fan-xing-he-kuai-le" id="id-14-gui-fan-xing-he-kuai-le"></a>
 
-如上所述，规范性与审美判断本身相关。这对于美的快乐意味着什么？由于审美判断是基于快乐的反应，如果我们的判断更或者更少合适，但我们的反应却不是，那将没有多大意义。我们对于审美判断的规范性主张必须源于我们认为某些反应比其他反应更好或更适合于它们的对象这一事实。只有反应本身可以更或者更少合适，才能授权判断可以更或者更少合适。如果我从喝加那利酒中得到快乐，而你却没有，我们都不会认为对方是错误的。但是，如果你从莎士比亚的十四行诗中没有得到快乐，我会认为你是错误的，不仅仅是你的判断，而是你的喜好。我认为我有权利有我的反应，而你的反应是有缺陷的。那些认为在某些次等作曲家和J.S.巴赫之间存在“天才的平等”的人，有一个有缺陷的感性（休谟 1757 \[1985: 230]）。罗杰·斯克鲁顿在他说到这一点时表达得很好：
+如上所述，规范性与审美判断本身相关。这对于美的快乐意味着什么？由于审美判断是基于快乐的反应，如果我们的判断更或者更少合适，但我们的反应却不是，那将没有多大意义。我们对于审美判断的规范性主张必须源于我们认为某些反应比其他反应更好或更适合于它们的对象这一事实。只有反应本身可以更或者更少合适，才能授权判断可以更或者更少合适。如果我从喝加那利酒中得到快乐，而你却没有，我们都不会认为对方是错误的。但是，如果你从莎士比亚的十四行诗中没有得到快乐，我会认为你是错误的，不仅仅是你的判断，而是你的喜好。我认为我有权利有我的反应，而你的反应是有缺陷的。那些认为在某些次等作曲家和J.S.巴赫之间存在“天才的平等”的人，有一个有缺陷的感性（休谟 1757 [1985: 230]）。罗杰·斯克鲁顿在他说到这一点时表达得很好：
 
-当我们研究\[爱因斯坦塔和乔托钟楼]时……我们的态度不仅仅是出于好奇，伴随着一些难以定义的愉悦或满足。内心里，我们肯定我们的偏好是有效的……（斯克鲁顿1979年：105）
+当我们研究[爱因斯坦塔和乔托钟楼]时……我们的态度不仅仅是出于好奇，伴随着一些难以定义的愉悦或满足。内心里，我们肯定我们的偏好是有效的……（斯克鲁顿1979年：105）
 
 这就是为什么我们要求他人有同样的感受，即使我们并不期望。我们认为我们的反应比其相反更适合于其对象。反过来，这就是为什么我们认为我们对该对象的判断比其相反更正确。判断的规范性源于感受的规范性。
 
@@ -98,7 +98,7 @@
 
 这样一种关于真理的规范性概念比仅仅作为“语义同意”的工具的真理概念更强大；也就是说，规范性真理不仅仅是薄弱的“引述”真理，根据这种真理概念，真理的概念仅仅是语义上的上升的工具。因此，我们可以说“x是美的”是真的，当且仅当x是美的。甚至对于关于Canary-wine的美好程度的判断，也可以获得一个无关紧要的引述真理的概念。我们可以说“Canary-wine是好的”是真的，当且仅当Canary-wine是好的，而不会引起温度的升高。然而，关于Canary-wine的美好程度的判断并不追求一个规范性的真理概念。关于Canary-wine是否真的好，没有对与错的答案。因此，对于它是好的判断和它不是好的判断，不能说如果它是真的，那么它的相反就是假的。但这正是我们对一些审美判断所说的。
 
-然而，尽管我们可以将审美规范性用真理的术语来解释，但我们不必这样做。实际上，审美的“真理”对我们已经遇到的正确性概念几乎没有什么补充。我们不需要用“真实”这个词。我们可以说某事物不能同时既美丽又丑陋（在同一方面、同一时间），而如果某物是美丽的，则不是丑陋的（在同一方面、同一时间）。\[[1](https://plato.stanford.edu/entries/aesthetic-judgment/notes.html#note-1)]
+然而，尽管我们可以将审美规范性用真理的术语来解释，但我们不必这样做。实际上，审美的“真理”对我们已经遇到的正确性概念几乎没有什么补充。我们不需要用“真实”这个词。我们可以说某事物不能同时既美丽又丑陋（在同一方面、同一时间），而如果某物是美丽的，则不是丑陋的（在同一方面、同一时间）。[[1](https://plato.stanford.edu/entries/aesthetic-judgment/notes.html#note-1)]
 
 #### 2.2 心灵依存性与非审美依存性 <a href="#id-22-xin-ling-yi-cun-xing-yu-fei-shen-mei-yi-cun-xing" id="id-22-xin-ling-yi-cun-xing-yu-fei-shen-mei-yi-cun-xing"></a>
 
@@ -122,13 +122,13 @@
 
 到目前为止，我们一直在对审美判断的特征进行积极的陈述。现在让我们考虑这样一个说法：没有有趣的非审美到审美的法则或原则，以及审美/非审美的依赖关系可以存在，尽管没有这样有趣的法则或原则。在这里，“有趣的”法则或原则指的是这样的概括：某种非审美的事物是某种审美的事物，而且这些概括可以根据对非审美属性的了解来预测审美属性。从这个意义上说，许多人认为没有品味的法则，审美属性是异常的。
 
-审美判断中正确性来源的问题与品味是否存在定律、规则或原则的问题是独立的。没有理由认为正确或真实判断的可能性取决于我们能够推断出正确或真实判断的定律、规则或原则的存在。\[[2](https://plato.stanford.edu/entries/aesthetic-judgment/notes.html#note-2)]
+审美判断中正确性来源的问题与品味是否存在定律、规则或原则的问题是独立的。没有理由认为正确或真实判断的可能性取决于我们能够推断出正确或真实判断的定律、规则或原则的存在。[[2](https://plato.stanford.edu/entries/aesthetic-judgment/notes.html#note-2)]
 
 然而，审美学的反常性本身是值得思考的。许多美学家同意审美在上述意义上是反常的。但他们对反常性的解释并不一致。
 
 一个显著的例外是蒙罗·比尔兹利（Monroe Beardsley），他声称 - 英勇而非凡地 - 存在着三个审美原则：事物要么通过统一、强烈或复杂来达到审美卓越（Beardsley 1958：第十一章）。然而，比尔兹利的“三位一体”立场面临着与诉诸“厚”概念的道德哲学家面临的困难相似。如果比尔兹利坚持他的三个厚实实质审美属性（统一、强度和复杂性）与审美价值之间存在着法律上的联系，那么他只能以放弃三个厚实实质审美属性与非审美属性之间的异常性为代价。有三个层次，人们只能通过失去中间层与底层之间的法律来保持顶层和中间层之间的法律。也许强度总是审美上的好，但是关于什么使事物强烈的法律却没有。
 
-鉴于审美属性的异常性，我们需要解释它。休谟和康德的建议在解释审美的异常性方面有很大的合理性 - 即品味判断的第一个特征，即品味判断本质上是主观的，不同于关于物理、感官或语义属性的普通经验判断（Hume 1757 \[1985：231-232]；Kant 1790, 5：213-216, 281-286 \[2000：99-101, 136-142, 162-167]）。这就是为什么这两种概念不是“为彼此而制定的法则”（正如唐纳德·戴维森\[1970]所说的心理和物理概念）。我们如何将本质上主观的一系列判断与一系列经验判断法则相一致？这两种判断类型对应于完全不同的约束集。弗兰克·西布利观察到，审美概念并不是积极“受条件支配的”（Sibley 1959）。玛丽·莫瑟希尔声称没有审美的法则。但是，他们都没有对这些事实进行解释。对主观性的诉求解释了西布利和莫瑟希尔所注意到和描述的内容。事实上，莫瑟希尔在她的“第一论题”（FT）中写道，没有真正的品味原则或法则：“...FT对美学至关重要，没有比它更基本的东西可以从中推导出来”（Mothersill 1984：143）。但似乎它可以从品味判断的主观性中推导出来。
+鉴于审美属性的异常性，我们需要解释它。休谟和康德的建议在解释审美的异常性方面有很大的合理性 - 即品味判断的第一个特征，即品味判断本质上是主观的，不同于关于物理、感官或语义属性的普通经验判断（Hume 1757 [1985：231-232]；Kant 1790, 5：213-216, 281-286 [2000：99-101, 136-142, 162-167]）。这就是为什么这两种概念不是“为彼此而制定的法则”（正如唐纳德·戴维森[1970]所说的心理和物理概念）。我们如何将本质上主观的一系列判断与一系列经验判断法则相一致？这两种判断类型对应于完全不同的约束集。弗兰克·西布利观察到，审美概念并不是积极“受条件支配的”（Sibley 1959）。玛丽·莫瑟希尔声称没有审美的法则。但是，他们都没有对这些事实进行解释。对主观性的诉求解释了西布利和莫瑟希尔所注意到和描述的内容。事实上，莫瑟希尔在她的“第一论题”（FT）中写道，没有真正的品味原则或法则：“...FT对美学至关重要，没有比它更基本的东西可以从中推导出来”（Mothersill 1984：143）。但似乎它可以从品味判断的主观性中推导出来。
 
 这种异常性是一回事，依赖或随附性是另一回事。尽管审美属性是异常的，但它们依赖于非审美属性并随附于其上。许多人发现这种关系的组合在审美之外的领域，如道德哲学和心灵哲学中令人不舒服。然而，在审美学中似乎有充分的理由同时接受这两个原则。这两个原则都牢固地扎根于普通审美思维中。
 
@@ -138,7 +138,7 @@
 
 #### 3.1 无私：更多和更少的雄心壮志 <a href="#id-31-wu-si-geng-duo-he-geng-shao-de-xiong-xin-zhuang-zhi" id="id-31-wu-si-geng-duo-he-geng-shao-de-xiong-xin-zhuang-zhi"></a>
 
-在康德对审美判断的主观普遍性讨论中，一个起着重要作用的概念是无私；这个概念吸引了许多人。康德提出了两个观点：（a）美的愉悦是“无私的”；（b）只有美的愉悦是“无私的”（康德1790年，5：204-210 \[2000：90-96：42-50]）。这些观点对康德的项目非常重要，因为康德将无私与审美判断的普遍有效性联系在一起。在我们进一步讨论之前，重要的是要认识到德语词“interesse”在18世纪的德语中有特殊的意义，不应与听起来相似的英语词或现代德语词混淆。对于康德来说，interesse意味着一种与欲望无关的愉悦；它既不以欲望为基础，也不产生欲望。
+在康德对审美判断的主观普遍性讨论中，一个起着重要作用的概念是无私；这个概念吸引了许多人。康德提出了两个观点：（a）美的愉悦是“无私的”；（b）只有美的愉悦是“无私的”（康德1790年，5：204-210 [2000：90-96：42-50]）。这些观点对康德的项目非常重要，因为康德将无私与审美判断的普遍有效性联系在一起。在我们进一步讨论之前，重要的是要认识到德语词“interesse”在18世纪的德语中有特殊的意义，不应与听起来相似的英语词或现代德语词混淆。对于康德来说，interesse意味着一种与欲望无关的愉悦；它既不以欲望为基础，也不产生欲望。
 
 我们应该区分康德更雄心勃勃的论点，即只有对美的快乐是无私的，与他较为谦虚的主张，即对美的快乐是无私的——因为原则上似乎还可能存在其他无私的快乐。然而，较为谦虚的主张本身已经引起了争议。
 
@@ -154,7 +154,7 @@
 
 休谟可能会否认康德将美的快乐与引导我们行动的动机分离的观点。像其他英国感性主义者一样，休谟认为情感和激情都属于人类思维的主动方面。因此，情感本身就是主动的。然而，英国感性主义者观点的这一方面似乎是一个普遍的弱点，因为他们没有一个令人信服的实践理性的位置，这意味着他们缺乏对人类行动的可理解的概念（科斯加德1996年，2009年）。休谟的心理学对人类行为没有合理的理解；我们被我们的激情所推动。
 
-在他的《道德的谱系》中，弗里德里希·尼采批评了康德将美的快乐与欲望分离的观点，这种分离旨在使美对所有人都“可获得”（尼采1887年\[1998年]，第3卷，第6节，第一页，但不包括后面针对叔本华的部分）。这种批评与对美的判断对所有人都“有效”的观点的批评是不同的。尼采抗议说，将美的快乐与我们激情生活的特殊性和个性化隔离开来是不现实和不可取的。目前尚不清楚谁是对的。问题的关键在于美的快乐的本质。它的源头是人类共享的东西，还是区别于他们的东西？康德可能会反驳尼采，认为将美的快乐视为源于人与人之间的差异，不仅使人们受制于他们的良好或糟糕的审美教养，而且使美的判断中的正确性或普遍有效性的规范主张变得站不住脚，正如我们通常所理解的那样。“应该”在这种情况下似乎意味着“能够”。如果我们缺乏欣赏某种美的能力，那么就不能要求我们这样做，而且对美的判断的规范性将会丧失。或者看起来是这样。如果美的判断基于可变的快乐或不快乐，那么似乎正确性的主张是虚假的。
+在他的《道德的谱系》中，弗里德里希·尼采批评了康德将美的快乐与欲望分离的观点，这种分离旨在使美对所有人都“可获得”（尼采1887年[1998年]，第3卷，第6节，第一页，但不包括后面针对叔本华的部分）。这种批评与对美的判断对所有人都“有效”的观点的批评是不同的。尼采抗议说，将美的快乐与我们激情生活的特殊性和个性化隔离开来是不现实和不可取的。目前尚不清楚谁是对的。问题的关键在于美的快乐的本质。它的源头是人类共享的东西，还是区别于他们的东西？康德可能会反驳尼采，认为将美的快乐视为源于人与人之间的差异，不仅使人们受制于他们的良好或糟糕的审美教养，而且使美的判断中的正确性或普遍有效性的规范主张变得站不住脚，正如我们通常所理解的那样。“应该”在这种情况下似乎意味着“能够”。如果我们缺乏欣赏某种美的能力，那么就不能要求我们这样做，而且对美的判断的规范性将会丧失。或者看起来是这样。如果美的判断基于可变的快乐或不快乐，那么似乎正确性的主张是虚假的。
 
 但这仅仅是在我们遵循康德的观点，将快乐定位于美丽中，并将我们对美的判断权利定位于所有人类共享的能力时才成立。也许有些高雅的美只有尼采的精英特殊灵魂才能欣赏到。对于康德来说，有一种审美的“应该”，它仅仅因为我们共享了产生这种快乐所需的认知能力，而将所有人类联系在一起。但这并不是唯一可以想象的审美“应该”的来源。一个非康德主义的建议是将审美判断的规范性源头定位于世界，而不是人类所共享的东西。这将是一种“审美现实主义”的呼唤，即美和丑是世界上真实存在的属性，它们使我们的判断更好或更差。这种观点可能看起来在形而上学上有些过分。然而，问题在于如何理解审美“应该”而不需要那种观点。这并不容易！在现实主义观点中，美丽不一定是普遍可得的。但如果是这样，似乎康德关于无私的教义的理由就消失了。康德主义和也许休谟主义的观点将规范性的源头定位于我们所共享的东西。但尼采会问：在我们对美的反应中，是否存在着，也应该存在着某种人类所共享的东西？我们想要贵族式的还是民主式的审美？
 
@@ -162,7 +162,7 @@
 
 让我们现在转向对审美的当代概念。谓语“审美”可以修饰许多不同类型的事物：判断、经验、概念、属性或词。最好将审美判断看作中心。我们可以通过审美判断来理解其他审美类型的事物：审美属性是那些在审美判断中被描述的属性；审美经验是那些支撑审美判断的经验；审美概念是那些在审美判断中被应用的概念；审美词是那些在语言表达审美判断时被使用的词。
 
-审美判断的最常见现代概念将美丑的判断视为范例，即我们在第一部分中所称的“品味判断”。它排除了关于物理属性（如形状和大小）以及感官属性（如颜色和声音）的判断。然而，除了美丑的判断之外，现代审美判断的概念通常用于描述一类判断，其中还包括对精致、矮胖、细腻和优雅的判断。在这方面，现代概念似乎比康德的概念更广泛，因为他只关注美丑的判断。然而，现代概念在某种程度上似乎比康德的概念更狭窄。因为康德使用这个概念来包括对美（或品味）的判断以及对“宜人”的判断，例如判断金丝雀酒好喝（康德1790年，5：203-204，214 \[2000：89-90和99]）。但是，与康德不同，现代概念通常排除了对“宜人”的判断。此外，现代概念通常排除了关于艺术作品的图像和语义内容的判断。例如，判断一幅画代表一朵花可能与对它的审美判断“相关”，但它本身不是一个审美判断。
+审美判断的最常见现代概念将美丑的判断视为范例，即我们在第一部分中所称的“品味判断”。它排除了关于物理属性（如形状和大小）以及感官属性（如颜色和声音）的判断。然而，除了美丑的判断之外，现代审美判断的概念通常用于描述一类判断，其中还包括对精致、矮胖、细腻和优雅的判断。在这方面，现代概念似乎比康德的概念更广泛，因为他只关注美丑的判断。然而，现代概念在某种程度上似乎比康德的概念更狭窄。因为康德使用这个概念来包括对美（或品味）的判断以及对“宜人”的判断，例如判断金丝雀酒好喝（康德1790年，5：203-204，214 [2000：89-90和99]）。但是，与康德不同，现代概念通常排除了对“宜人”的判断。此外，现代概念通常排除了关于艺术作品的图像和语义内容的判断。例如，判断一幅画代表一朵花可能与对它的审美判断“相关”，但它本身不是一个审美判断。
 
 #### 4.2 问题 <a href="#id-42-wen-ti" id="id-42-wen-ti"></a>
 
@@ -229,12 +229,12 @@
 * –––, 1982, The Aesthetic Point of View: Selected Essays, Ithaca, NY: Cornell University Press.A selection of Beardsley’s essays.
 * Blackburn, Simon, 1998, Ruling Passions: A Theory of Practical Reasoning, Oxford: Oxford University Press.A defense of expressivism, a modern version of Hume’s sentimentalism.
 * Budd, Malcolm, 2001, “The Pure Judgement of Taste as an Aesthetic Reflective Judgement”, British Journal of Aesthetics, 41(3): 247–260. doi:10.1093/bjaesthetics/41.3.247Refreshingly less deferential than many writings on Kant.
-* Burke, Edmund, 1757 \[1998], A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful, London: R. and J. Dodsley. Reprinted Harmonsworth: Penguin, 1998.A classic, although it is sometimes eccentric.
+* Burke, Edmund, 1757 [1998], A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful, London: R. and J. Dodsley. Reprinted Harmonsworth: Penguin, 1998.A classic, although it is sometimes eccentric.
 * Burton, Stephan L., 1992, “‘Thick’ Concepts Revised”, Analysis, 52(1): 28–32. doi:10.1093/analys/52.1.28An insightful account of substantive aesthetic descriptions, and also of so-called “thick moral concepts”.
 * Cohen, Ted, 1973, “ Aesthetic/Non-Aesthetic and the Concept of Taste: A Critique of Sibley’s Position”, Theoria, 39(1–3): 113–152. doi:10.1111/j.1755-2567.1973.tb00633.xArgues that Sibley’s account of what makes concepts aesthetic will not do.
 * Cova, Florian and Nicholas Pain, 2012, “Can Folk Aesthetics Ground Aesthetic Realism?”, Monist, 95(2): 241–263. doi:10.5840/monist201295214Argues that folk aesthetic is not normativist.
 * Dickie, George, 1965, “Beardsley’s Phantom Aesthetic Experience”, Journal of Philosophy, 62(5): 129–136. doi:10.2307/2023490Argues that Beardsley’s account of aesthetic experience will not do.
-* Davidson, Donald, 1970 \[1980], “Mental Events”, in Experience and Theory, Lawrence Foster and J. W. Swanson (eds), Amherst, MA: University of Massachusetts Press and Duckworth. Reprinted in Essays on Actions and Events, Oxford: Clarendon Press, 1980, ch. 11. doi:10.1093/0199246270.003.0011A classic paper in the philosophy of mind arguing for a version of materialism without strict laws relating the mental and the physical.
+* Davidson, Donald, 1970 [1980], “Mental Events”, in Experience and Theory, Lawrence Foster and J. W. Swanson (eds), Amherst, MA: University of Massachusetts Press and Duckworth. Reprinted in Essays on Actions and Events, Oxford: Clarendon Press, 1980, ch. 11. doi:10.1093/0199246270.003.0011A classic paper in the philosophy of mind arguing for a version of materialism without strict laws relating the mental and the physical.
 * Fine, Kit, 1994, “Essence and Modality: The Second Philosophical Perspectives Lecture”, Philosophical Perspectives, 8: 1–16. doi:10.2307/2214160Distinguishes essence from modality; of general philosophical importance.
 * Gombrich, Ernst H., 1959, Art and Illusion: A Study in the Psychology of Pictorial Representation, London: Phaiden.Argues for anti-formalism by appeal to indiscernibles.
 * Gorodeisky, Keren and Eric Marcus, 2018, “Aesthetic Rationality”, The Journal of Philosophy, 115(3): 113–140.
@@ -242,8 +242,8 @@
 * Hanslick, Eduard, 1986, On the Musically Beautiful, transl. Geoffrey Payzant, Indianapolis: Hackett.Classic work of musical aesthetics, first published in 1854. Written with panache and wit.
 * Hanslick, Eduard, 1950, Hanslick’s Music Criticism, translated and edited by Henry Pleasants, London: Dover.Critical reviews of Bach and Wagner and others. You almost feel sorry for Wagner reading some of these.
 * Hughes, Brian, 2016, Rethinking Psychology: Good Science, Bad Science, Pseudo-Science, London: Macmillan.Thorough critique of much questionnaire psychology, posing fundamental challenges for so-called “experimental philosophy”.
-* Hume, David, 1757 \[1985], “Of the Standard of Taste”, page reference is to reprint in Essays: Moral, Political and Literary, Eugene Miller (ed.), Indianapolis, IN: Liberty, 1985.Hume’s classic attempt to reconcile sentimentalism with normativity.
-* Kant, Immanuel, 1790 \[2000], Critique of the Power of Judgment (Kritik der Urteilskraft), page reference to the 2000 translation by Paul Guyer and Eric Matthews, Cambridge: Cambridge University Press.Includes the idea that judgments of beauty and ugliness are subjectively universal, and much else.
+* Hume, David, 1757 [1985], “Of the Standard of Taste”, page reference is to reprint in Essays: Moral, Political and Literary, Eugene Miller (ed.), Indianapolis, IN: Liberty, 1985.Hume’s classic attempt to reconcile sentimentalism with normativity.
+* Kant, Immanuel, 1790 [2000], Critique of the Power of Judgment (Kritik der Urteilskraft), page reference to the 2000 translation by Paul Guyer and Eric Matthews, Cambridge: Cambridge University Press.Includes the idea that judgments of beauty and ugliness are subjectively universal, and much else.
 * Kivy, Peter, 1975, “What Makes ‘Aesthetic’ Terms Aesthetic?”, Philosophy and Phenomenological Research, 36(2): 197–211.Argues that Sibley’s unitary notion of the aesthetic has no basis. Kivy also makes a positive suggestion.
 * –––, 1991, “Science and Aesthetic Appreciation”, Midwest Studies in Philosophy, 16(1): 180–195. doi:10.1111/j.1475-4975.1991.tb00238.xSympathetic to mathematical beauty.
 * Korsgaard, Christine M., 1996, The Sources of Normativity, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554476Defends a Kantian view of agency and includes a powerful critique of sentimentalist accounts.
@@ -256,22 +256,22 @@
 * –––, 2018, “Visuality and Aesthetic Formalism”, British Journal of Aesthetics, 58(2): 147–163. doi:10.1093/aesthj/ayy001Explores and defends the psychological basis of visual formalism.
 * Mothersill, Mary, 1984, Beauty Restored, Oxford: Oxford University Press.An exploration of the notion of beauty, with some historical coverage.
 * Nguyen, C Thi, 2020, “Autonomy and Aesthetic Engagement”, Mind, 129(516): 1127–1156.
-* Nietzsche, Friedrich, 1887 \[1998], On the Genealogy of Morals (Zur Genealogie der Moral: Eine Streitschrift), Maudemarie Clarke and Alan J. Swensen (trans.), Indianapolis, IN: Hackett, 1998.Book 3, sections 1–6. An interesting, and not at all uncareful, critique of Kant’s aesthetics. In this passage he is not concerned with Schopenhauer.
+* Nietzsche, Friedrich, 1887 [1998], On the Genealogy of Morals (Zur Genealogie der Moral: Eine Streitschrift), Maudemarie Clarke and Alan J. Swensen (trans.), Indianapolis, IN: Hackett, 1998.Book 3, sections 1–6. An interesting, and not at all uncareful, critique of Kant’s aesthetics. In this passage he is not concerned with Schopenhauer.
 * Scruton, Roger, 1974, Art and Imagination: A Study in the Philosophy of Mind, London: Methuen.A wide-ranging book, in which the role of imagination is highlighted.
 * –––, 1979, The Aesthetics of Architecture, London: Methuen.A superb discussion of architecture, but also contains much material relevant to more central topics in aesthetics.
-* Schellekens, Elisabeth 2007 \[2017], “Conceptual Art”, Stanford Encyclopedia of Philosophy (Winter 2017 edition), Edward N. Zalta (ed.). URL = <[https://plato.stanford.edu/archives/win2017/entries/conceptual-art/](https://plato.stanford.edu/archives/win2017/entries/conceptual-art/)>A sympathetic interpretation of some of the claims of conceptual artists about their work.
+* Schellekens, Elisabeth 2007 [2017], “Conceptual Art”, Stanford Encyclopedia of Philosophy (Winter 2017 edition), Edward N. Zalta (ed.). URL = <[https://plato.stanford.edu/archives/win2017/entries/conceptual-art/](https://plato.stanford.edu/archives/win2017/entries/conceptual-art/)>A sympathetic interpretation of some of the claims of conceptual artists about their work.
 * Sibley, Frank, 1959, “Aesthetic Concepts”, Philosophical Review, 68(4): 421–450; reprinted in Sibley 2001: 1–23. 10.2307/2182490 & doi:10.1093/0198238991.003.0001Sibley’s classic paper, which makes the notion of the aesthetic central. The target of Cohen and Kivy’s critiques.
 * –––, 1965, “Aesthetic and Nonaesthetic”, Philosophical Review, 74(2): 135–159; reprinted in Sibley 2001: 33–51. doi:10.2307/2183262 & doi:10.1093/0198238991.003.0003Explores the dependence of aesthetic features on nonaesthetic features. This paper was originally the second part of Sibley’s paper “Aesthetic Concepts”.
 * –––, 2001, Approach to Aesthetics, John Benson, Betty Redfern, and Jeremy Roxbee Cox (eds.), Oxford University Press. doi:10.1093/0198238991.001.0001
-* Taruskin, Richard, 1989 \[1995], “Resisting the Ninth”, Nineteenth-Century Music, 12(3): 241–256; reprinted in his Text and Act: Essays on Music and Performance, Oxford: Oxford University Press, 1995: 235–261. doi:10.2307/746505Agrees with Wagner about the sublime and the beautiful in Beethoven’s Ninth Symphony.
+* Taruskin, Richard, 1989 [1995], “Resisting the Ninth”, Nineteenth-Century Music, 12(3): 241–256; reprinted in his Text and Act: Essays on Music and Performance, Oxford: Oxford University Press, 1995: 235–261. doi:10.2307/746505Agrees with Wagner about the sublime and the beautiful in Beethoven’s Ninth Symphony.
 * –––, 2019, “Essence or Context”, in Essence and Context, Rima Povilioniene, Rūta Stanevičiūtė, and Nick Zangwill (eds.), New York: Springer-Palgrave-Macmillan. Reprinted in Richard Taruskin, Cursed Questions: On Music and Its Social Practices, University of California Press, 2020.Argues against a Hanslickean view and argues for a Wagnerian conception of the sublime in Beethoven.
-* Wagner, Richard 1870 \[2014], Beethoven, translated by Roger Allen, Boydell Press. Originally published Leipzig: Verlag von E. W. Fritzsche.Makes claims about the sublime in Beethoven.
+* Wagner, Richard 1870 [2014], Beethoven, translated by Roger Allen, Boydell Press. Originally published Leipzig: Verlag von E. W. Fritzsche.Makes claims about the sublime in Beethoven.
 * Walton, Kendall, 1970, “Categories of Art”, Philosophical Review, 79: 334–367.Influential series of anti-formalist arguments.
 * Williams, Jessica J., 2021, “Kant on Aesthetic Attention”, British Journal of Aesthetics 61. No. 4, pp. 421–435.A vigorous recent investigation of Kant’s views.
-* Zangwill, Nick, 1995 \[2001], “The Beautiful, the Dainty and the Dumpy”, British Journal of Aesthetics, 35(4): 317–329; reprinted slightly modified in Zangwill 2001: 9–23. doi:10.1093/bjaesthetics/35.4.317Includes a statement and defense of the centrality of beauty and ugliness among other aesthetic concepts.
-* –––, 1999 \[2001], “Feasible Aesthetic Formalism”, Noûs, 33(4): 610–629; reprinted in Zangwill 2001: 55–81. doi:10.1111/0029-4624.00196Argues for a “moderate” formalist view that allows that things can be “dependently beautiful”, in Kant’s sense.
+* Zangwill, Nick, 1995 [2001], “The Beautiful, the Dainty and the Dumpy”, British Journal of Aesthetics, 35(4): 317–329; reprinted slightly modified in Zangwill 2001: 9–23. doi:10.1093/bjaesthetics/35.4.317Includes a statement and defense of the centrality of beauty and ugliness among other aesthetic concepts.
+* –––, 1999 [2001], “Feasible Aesthetic Formalism”, Noûs, 33(4): 610–629; reprinted in Zangwill 2001: 55–81. doi:10.1111/0029-4624.00196Argues for a “moderate” formalist view that allows that things can be “dependently beautiful”, in Kant’s sense.
 * –––, 2001, The Metaphysics of Beauty, Ithaca, NY: Cornell University Press.
-* –––, 2013, “Nietzsche on Kant on Beauty and Disinterest”, History of Philosophy Quarterly, 30(1): 75–91. \[[Zangwill 2013 available online](http://hpq.press.uillinois.edu/30/1/zangwill.html)]Sympathetically interprets and defends Nietzsche’s criticism of Kant on disinterest.
+* –––, 2013, “Nietzsche on Kant on Beauty and Disinterest”, History of Philosophy Quarterly, 30(1): 75–91. [[Zangwill 2013 available online](http://hpq.press.uillinois.edu/30/1/zangwill.html)]Sympathetically interprets and defends Nietzsche’s criticism of Kant on disinterest.
 * –––, 2019, “Folk Aesthetics and Normativity: A Critique of Experimental Aesthetics”, in Advances in Experimental Philosophy of Aesthetics, Florian Cova and Sébastien Réhault (eds), London: Bloomsbury.Criticizes ‘experimental philosophy’, in general, and in particular the experimental denial that ordinary aesthetic judgments claim correctness.
 * Zemach, Eddy, 1995, Real Beauty, University Park: Penn State Press.Argues for an extreme realist view.
 * Zuckert, Rachel, 2007, Kant on Beauty and Biology: An Interpretation of the Critique of Judgment, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487323An insightful scholarly and philosophical investigation.
@@ -284,7 +284,7 @@
 * Greenberg, Clement, 1999, Homemade Esthetics, Oxford: Oxford University Press.
 * Hopkins, Robert, 2011, “How to Be a Pessimist about Aesthetic Testimony”,, Journal of Philosophy, 108(3): 138–157. doi:10.5840/jphil201110838
 * Kivy, Peter, 1968, “Aesthetic Aspects and Aesthetic Qualities”, Journal of Philosophy, 65(4): 85–93. doi:10.2307/2024481
-* Levinson, Jerrold, 1992 \[1996], “Pleasure and the Value of Works of Art”, The British Journal of Aesthetics, 32(4): 295–306. Reprinted in his The Pleasures of Aesthetics: Philosophical Essays, Ithaca, NY: Cornell University Press, 11–24. doi:10.1093/bjaesthetics/32.4.295
+* Levinson, Jerrold, 1992 [1996], “Pleasure and the Value of Works of Art”, The British Journal of Aesthetics, 32(4): 295–306. Reprinted in his The Pleasures of Aesthetics: Philosophical Essays, Ithaca, NY: Cornell University Press, 11–24. doi:10.1093/bjaesthetics/32.4.295
 * McCloskey, Mary, 1987, Kant’s Aesthetic, New York: SUNY Press.
 * Plato, Hippias Major. In Plato’s Complete Works, edited by John Cooper, Indianapolis: Hackett, 1997.
 * Saito, Yuriko, 2001, “Everyday Aesthetics”, Philosophy and Literature, 25)1): 87–95. doi:10.1353/phl.2001.0018
@@ -296,12 +296,12 @@
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetic-judgment).                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/aesthetic-judgment/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetic-judgment\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetic-judgment&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ​![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)​      | [Enhanced bibliography for this entry](https://philpapers.org/sep/aesthetic-judgment/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ### Other Internet Resources <a href="#other-internet-resources" id="other-internet-resources"></a>
 
-\[Please contact the author with suggestions.]
+[Please contact the author with suggestions.]
 
 * [American Society for Aesthetics](https://www.aesthetics-online.org/)
 
@@ -309,5 +309,5 @@
 
 [aesthetic, concept of the](https://plato.stanford.edu/entries/aesthetic-concept/) | [Aristotle, General Topics: aesthetics](https://plato.stanford.edu/entries/aristotle-aesthetics/) | [Hume, David: aesthetics](https://plato.stanford.edu/entries/hume-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [pleasure](https://plato.stanford.edu/entries/pleasure/) | [relativism](https://plato.stanford.edu/entries/relativism/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by
 Nick Zangwill <[zangwillnick@gmail.com](mailto:zangwillnick%40gmail%2ecom)>
