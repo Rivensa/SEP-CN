@@ -127,7 +127,7 @@
 * [坎特伯雷的安瑟伦 Anselm of Canterbury \[Anselm of Bec\] (Thomas Williams)](a/kan-te-bo-lei-de-an-se-lun-anselm-of-canterbury-anselm-of-bec-thomas-williams.md)
 * [反实在论，道德——请参阅道德反实在论 anti-realism, moral — see moral anti-realism](a/fan-shi-zai-lun-dao-de-qing-can-yue-dao-de-fan-shi-zai-lun-antirealism-moral-see-moral-antirealism.md)
 * [阿什凯隆的安条克 Antiochus of Ascalon (James Allen)](a/a-shi-kai-long-de-an-tiao-ke-antiochus-of-ascalon-james-allen.md)
-* [后验知识——请参阅先验论证和知识 a posteriori knowledge — see a priori justification and knowledge](a/hou-yan-zhi-shi-qing-can-yue-xian-yan-lun-zheng-he-zhi-shi-aposteriori-knowledge-seeapriori-justific.md)
+* [后验知识——见先验论证和知识 a posteriori knowledge — see a priori justification and knowledge](a/hou-yan-zhi-shi-qing-can-yue-xian-yan-lun-zheng-he-zhi-shi-aposteriori-knowledge-seeapriori-justific.md)
 * [现象与实在 appearance vs. reality](a/xian-xiang-yu-shi-zai-appearance-vs.-reality/README.md)
   * [知觉的认识论问题——见知觉的认识论问题 epistemological problems of perception — see perception: epistemological problems of](a/xian-xiang-yu-shi-zai-appearance-vs.-reality/zhi-jue-de-ren-shi-lun-wen-ti-jian-zhi-jue-de-ren-shi-lun-wen-ti-epistemological-problems-of-percept.md)
   * [怀疑论——见怀疑论 skepticism — see skepticism](a/xian-xiang-yu-shi-zai-appearance-vs.-reality/huai-yi-lun-jian-huai-yi-lun-skepticism-see-skepticism.md)
