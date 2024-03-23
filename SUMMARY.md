@@ -171,7 +171,7 @@
   * [辛普利修斯——见辛普利修斯 Simplicius — see Simplicius](a/ya-li-shi-duo-de-de-ping-lun-zhe-aristotle-commentators-on-andrea-falcon/xin-pu-li-xiu-si-jian-xin-pu-li-xiu-si-simplicius-see-simplicius.md)
 * [关于亚里士多德的一般性主题 Aristotle, General Topics](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/README.md)
   * [亚里士多德的美学 aesthetics (Pierre Destrée)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-mei-xue-aesthetics-pierre-destre.md)
-  * [亚里士多德的生物学 Aristotle’s Biology](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-sheng-wu-xue-aristotles-biology.md)
+  * [亚里士多德的生物学 biology (James Lennox)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-sheng-wu-xue-aristotles-biology.md)
   * [亚里士多德的范畴论 categories (Paul Studtmann)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-fan-chou-lun-categories-paul-studtmann.md)
   * [亚里士多德的伦理学 ethics (Richard Kraut)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-lun-li-xue-ethics-richard-kraut.md)
   * [亚里士多德的逻辑学 logic (Robin Smith)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-luo-ji-xue-logic-robin-smith.md)
