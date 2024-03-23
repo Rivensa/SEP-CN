@@ -1,13 +1,14 @@
 # 路易·皮埃尔·阿尔都塞 Althusser, Louis (William Lewis)
-*首次发表于2009年10月16日；实质性修订于2022年8月22日*
+
+_首次发表于2009年10月16日；实质性修订于2022年8月22日_
 
 路易·皮埃尔·阿尔都塞（1918-1990）是20世纪最有影响力的马克思主义哲学家之一。他在20世纪60年代提出的关于马克思主义哲学的观点被认为是对马克思主义思想的更新，并在全球范围内进行了讨论和辩论，使马克思主义在哲学上变得可尊重。然而，由于他理论立场的明显逆转，他个人生活的不幸事实以及20世纪末马克思主义的历史命运，对阿尔都塞对马克思的阅读的浓厚兴趣并未延续到20世纪70年代。尽管在这些事件之后，人们对他的整体工作相对冷淡，但他在其中发展的意识形态理论在社会科学和人文学科中得到广泛应用，并为许多“后马克思主义”哲学提供了基础。此外，阿尔都塞项目的某些方面也为分析马克思主义、批判现实主义和话语分析提供了灵感。尽管这种影响并不总是明确的，但阿尔都塞的工作及其学生的工作仍然影响着文学研究、政治哲学、历史学、经济学和社会学的研究项目。目前，阿尔都塞的整体哲学正在经历学者们对先前未发表文本的汇编所进行的批判性重新评估。他的概念也越来越多地被哲学家、政治理论家和活动家所采用，他们重新回到马克思和马克思主义分析，以解释和构想我们当前社会经济形势的替代方案。
 
-- [1. 生平](https://plato.stanford.edu/entries/althusser/#Life) - [2. 早期工作（1946-1960）](https://plato.stanford.edu/entries/althusser/#EarlWork1946) - [2.1 基督教与马克思主义](https://plato.stanford.edu/entries/althusser/#ChriMarx) - [2.2 黑格尔的马克思主义](https://plato.stanford.edu/entries/althusser/#HegeMarx) - [2.3 马克思而非黑格尔](https://plato.stanford.edu/entries/althusser/#MarxNotHege) - [2.4 历史研究：孟德斯鸠和费尔巴哈](https://plato.stanford.edu/entries/althusser/#HistWorkMontFeue) - [3. 经典工作（1961-1966）](https://plato.stanford.edu/entries/althusser/#ClasWork1961) - [3.1 解释学理论](https://plato.stanford.edu/entries/althusser/#HermTheo) - [3.2 认识论和科学哲学](https://plato.stanford.edu/entries/althusser/#EpisPhilScie) - [3.3 哲学的作用](https://plato.stanford.edu/entries/althusser/#RolePhil) - [3.4 马克思主义哲学](https://plato.stanford.edu/entries/althusser/#MarxPhil) - [3.5 社会和政治哲学、历史学](https://plato.stanford.edu/entries/althusser/#SociPoliPhilHist) - [4. 修改（1966-1978）](https://plato.stanford.edu/entries/althusser/#Revi1966) - [4.1 理论与实践的关系](https://plato.stanford.edu/entries/althusser/#RelaBetwTheoPrac) - [4.2 意识形态理论](https://plato.stanford.edu/entries/althusser/#TheoIdeo) - [4.3 美学理论](https://plato.stanford.edu/entries/althusser/#N43AestTheo) - [4.4 马克思的哲学再现](https://plato.stanford.edu/entries/althusser/#MarxPhilRedu) - [5. 晚期工作（1980-1986）：偶然唯物主义](https://plato.stanford.edu/entries/althusser/#LateWork1980AleaMate) - [参考文献](https://plato.stanford.edu/entries/althusser/#Bib) - [主要文献](https://plato.stanford.edu/entries/althusser/#PrimLite) - [次要文献](https://plato.stanford.edu/entries/althusser/#SecoLite) - [学术工具](https://plato.stanford.edu/entries/althusser/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/althusser/#Oth) - [相关条目](https://plato.stanford.edu/entries/althusser/#Rel)
+* [1. 生平](https://plato.stanford.edu/entries/althusser/#Life) - [2. 早期工作（1946-1960）](https://plato.stanford.edu/entries/althusser/#EarlWork1946) - [2.1 基督教与马克思主义](https://plato.stanford.edu/entries/althusser/#ChriMarx) - [2.2 黑格尔的马克思主义](https://plato.stanford.edu/entries/althusser/#HegeMarx) - [2.3 马克思而非黑格尔](https://plato.stanford.edu/entries/althusser/#MarxNotHege) - [2.4 历史研究：孟德斯鸠和费尔巴哈](https://plato.stanford.edu/entries/althusser/#HistWorkMontFeue) - [3. 经典工作（1961-1966）](https://plato.stanford.edu/entries/althusser/#ClasWork1961) - [3.1 解释学理论](https://plato.stanford.edu/entries/althusser/#HermTheo) - [3.2 认识论和科学哲学](https://plato.stanford.edu/entries/althusser/#EpisPhilScie) - [3.3 哲学的作用](https://plato.stanford.edu/entries/althusser/#RolePhil) - [3.4 马克思主义哲学](https://plato.stanford.edu/entries/althusser/#MarxPhil) - [3.5 社会和政治哲学、历史学](https://plato.stanford.edu/entries/althusser/#SociPoliPhilHist) - [4. 修改（1966-1978）](https://plato.stanford.edu/entries/althusser/#Revi1966) - [4.1 理论与实践的关系](https://plato.stanford.edu/entries/althusser/#RelaBetwTheoPrac) - [4.2 意识形态理论](https://plato.stanford.edu/entries/althusser/#TheoIdeo) - [4.3 美学理论](https://plato.stanford.edu/entries/althusser/#N43AestTheo) - [4.4 马克思的哲学再现](https://plato.stanford.edu/entries/althusser/#MarxPhilRedu) - [5. 晚期工作（1980-1986）：偶然唯物主义](https://plato.stanford.edu/entries/althusser/#LateWork1980AleaMate) - [参考文献](https://plato.stanford.edu/entries/althusser/#Bib) - [主要文献](https://plato.stanford.edu/entries/althusser/#PrimLite) - [次要文献](https://plato.stanford.edu/entries/althusser/#SecoLite) - [学术工具](https://plato.stanford.edu/entries/althusser/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/althusser/#Oth) - [相关条目](https://plato.stanford.edu/entries/althusser/#Rel)
 
----
+***
 
- ## 1. 生活
+&#x20;\## 1. 生活
 
 路易·皮埃尔·阿尔都塞于1918年10月16日出生在阿尔及尔的Bir Mourad Raïs（原名Birmandreis）郊区。他的父亲一方来自阿尔萨斯地区，他的祖父母是选择在阿尔及利亚定居的法国公民。在阿尔都塞出生时，他的父亲是法国军队的中尉。在服役期满后，他的父亲回到阿尔及尔，并继续从事银行业务。除了他的自传中的回顾性描述之外，据所有记载，阿尔都塞在北非的童年时光是幸福的。在那里，他享受地中海环境带来的舒适，也享受着一个稳定的小资产阶级家庭所提供的安定。
 
@@ -15,15 +16,15 @@
 
 1939年，阿尔都塞在全国入学考试中表现出色，被录取进巴黎高等师范学校（ENS）。然而，在学年开始之前，他被征入了军队。不久之后，他和他所在的炮兵团的其他成员一起被俘虏在凡尔赛。他在德国北部的一个战俘营度过了战争的余生。在他的自传性作品中，阿尔都塞将他在营地里找到的团结、政治行动和社区体验归功于他对共产主义思想的接受。事实上，他的战俘期间的写作作品《囚禁日记，Stalag XA 1940–1945》证明了这些经历。它们也证明了从1938年开始的深度抑郁周期，这将在他的余生中一直影响着他。
 
-在战争结束后，1945年从战俘营释放后，阿尔都塞尔进入了ENS。现年27岁的他开始了为了参加法国中学哲学教师资格考试（*agrégation*）而进行的学习计划，这通常是攻读博士学位和在大学就业的门槛。或许并不令人意外的是，一个刚刚在监狱营中度过了半个世纪的年轻人，在为考试做准备和撰写硕士论文的三年间发生了很多事情。尽管他仍然参与天主教团体并视自己为基督徒，但战后阿尔都塞尔所关联的运动在政治上是左翼的，从思想上来说，他开始接纳和综合基督教和马克思主义思想。这种综合以及他的首次发表的作品受到19世纪德国唯心主义哲学（尤其是黑格尔和马克思）的阅读以及与*Jeunesse de l'Église*团体有关的进步基督教思想家的影响。事实上，在ENS学习期间，他最为关注的是19世纪德国唯心主义。与当时许多法国知识分子的兴趣一致，阿尔都塞尔于1947年获得了由加斯东·巴歇拉指导的“关于G.W.F.黑格尔思想中的内容”论文的*diplôme d'études supérieures*学位。1948年，他通过了*agrégation*考试，笔试部分名列第一，口试部分名列第二。在取得这样的成绩后，阿尔都塞尔被提供并接受了ENS的*agrégé répétiteur*（教学主任）职位，负责帮助学生准备他们自己的*agrégation*考试。在这个职位上，他开始就哲学中的特定主题和哲学史上的特定人物开设课程和辅导。由于在这个职责上工作了三十多年，并与法国在此期间涌现的一些最杰出的思想家（包括阿兰·巴迪乌、皮埃尔·布迪厄和米歇尔·福柯）合作，通过他的教学，阿尔都塞尔对一代法国哲学家和法国哲学产生了深远而持久的影响。
+在战争结束后，1945年从战俘营释放后，阿尔都塞尔进入了ENS。现年27岁的他开始了为了参加法国中学哲学教师资格考试（_agrégation_）而进行的学习计划，这通常是攻读博士学位和在大学就业的门槛。或许并不令人意外的是，一个刚刚在监狱营中度过了半个世纪的年轻人，在为考试做准备和撰写硕士论文的三年间发生了很多事情。尽管他仍然参与天主教团体并视自己为基督徒，但战后阿尔都塞尔所关联的运动在政治上是左翼的，从思想上来说，他开始接纳和综合基督教和马克思主义思想。这种综合以及他的首次发表的作品受到19世纪德国唯心主义哲学（尤其是黑格尔和马克思）的阅读以及与_Jeunesse de l'Église_团体有关的进步基督教思想家的影响。事实上，在ENS学习期间，他最为关注的是19世纪德国唯心主义。与当时许多法国知识分子的兴趣一致，阿尔都塞尔于1947年获得了由加斯东·巴歇拉指导的“关于G.W.F.黑格尔思想中的内容”论文的_diplôme d'études supérieures_学位。1948年，他通过了_agrégation_考试，笔试部分名列第一，口试部分名列第二。在取得这样的成绩后，阿尔都塞尔被提供并接受了ENS的_agrégé répétiteur_（教学主任）职位，负责帮助学生准备他们自己的_agrégation_考试。在这个职位上，他开始就哲学中的特定主题和哲学史上的特定人物开设课程和辅导。由于在这个职责上工作了三十多年，并与法国在此期间涌现的一些最杰出的思想家（包括阿兰·巴迪乌、皮埃尔·布迪厄和米歇尔·福柯）合作，通过他的教学，阿尔都塞尔对一代法国哲学家和法国哲学产生了深远而持久的影响。
 
 除了开始与ENS的长期合作关系外，战后在巴黎度过的前几年，阿尔都塞尔还建立了其他三个持久的关系。第一个是与法国共产党的关系，第二个是与他的伴侣和未来的妻子Hélène Rytmann-Légotien的关系，第三个是与法国精神病学的关系。最初是为了治疗反复发作的抑郁症，这最后一个关联持续了他的一生，并包括频繁的住院以及战后法国精神病学提供的最激进的治疗方法，如电抽搐疗法、麻醉分析和精神分析。
 
 阿尔都塞开始的第二段关系比第一段稍微幸福一些，但同样依赖。阿尔都塞与里特曼-莱戈蒂安的关系一开始就很复杂，因为他对女性几乎没有经验，而她比他大八岁。此外，他们在世界经验上存在巨大差异，她与共产党的关系也使事情变得困难。阿尔都塞只知道家庭、学校和战俘营，而里特曼-莱戈蒂安则广泛旅行，并长期活跃于文学和激进圈子。在两人相遇时，她还卷入了与党在二战期间她在抵抗中的角色问题上的争议。
 
-虽然阿尔都塞还不是党员，但像他这一代人中的许多人一样，他在战争中对党的道德目标深感同情。他对党的政治兴趣和与党员的接触在他在ENS的学生时代逐渐增长。然而，ENS对共产主义者的怀疑以及里特曼-莱戈蒂安与党的问题使阿尔都塞与这两个机构的关系变得复杂。然而，在被提供了*agrégé répétiteur*职位（因为他是党员而不会被绕过）后不久，阿尔都塞加入了共产党。在接下来的几年里，阿尔都塞试图推动共产党的目标，同时也努力让埃莱娜·里特曼-莱戈蒂安重新被党接纳。他通过成为一名好的战士（参加小组会议，分发传单等），重新在ENS开设一个马克思主义研究小组（*Cercle Politzer*），并调查埃莱娜·里特曼-莱戈蒂安在战争期间的活动，希望洗刷她的名誉。根据他自己的说法，他是一个糟糕的活动家，也未能恢复她的声誉。尽管如此，在这段时间里，他与党和未来的妻子的关系加深了。
+虽然阿尔都塞还不是党员，但像他这一代人中的许多人一样，他在战争中对党的道德目标深感同情。他对党的政治兴趣和与党员的接触在他在ENS的学生时代逐渐增长。然而，ENS对共产主义者的怀疑以及里特曼-莱戈蒂安与党的问题使阿尔都塞与这两个机构的关系变得复杂。然而，在被提供了_agrégé répétiteur_职位（因为他是党员而不会被绕过）后不久，阿尔都塞加入了共产党。在接下来的几年里，阿尔都塞试图推动共产党的目标，同时也努力让埃莱娜·里特曼-莱戈蒂安重新被党接纳。他通过成为一名好的战士（参加小组会议，分发传单等），重新在ENS开设一个马克思主义研究小组（_Cercle Politzer_），并调查埃莱娜·里特曼-莱戈蒂安在战争期间的活动，希望洗刷她的名誉。根据他自己的说法，他是一个糟糕的活动家，也未能恢复她的声誉。尽管如此，在这段时间里，他与党和未来的妻子的关系加深了。
 
-在1950年代，阿尔都塞过着两种有些相互关联的生活：一种是成功但有些默默无闻的学术哲学家和教育家的生活，另一种是忠诚的共产党党员的生活。这并不意味着阿尔都塞在学校里政治上不活跃，或者他的共产主义没有影响他的哲学工作。相反，阿尔都塞招募同事和学生加入党，并与ENS的共产主义小组密切合作。此外，在中期，他还出版了一些关于马克思主义哲学的导论。然而，在他的教学和指导中，他大多避免引入马克思主义哲学和共产主义政治。相反，他迎合学生的兴趣和每一次新的*agrégation*的要求，与经典哲学文本以及当代哲学和社会科学密切交流。此外，他大部分的学术研究都是关于18世纪的政治哲学。事实上，阿尔都塞在他有生之年只出版了一本关于孟德斯鸠的著作，该书于该十年末出版。在ENS，阿尔都塞的专业精神以及他的机构思维能力使他在1954年晋升为“文学学院秘书”，这个职位使他对学校的管理和方向负有一定责任。
+在1950年代，阿尔都塞过着两种有些相互关联的生活：一种是成功但有些默默无闻的学术哲学家和教育家的生活，另一种是忠诚的共产党党员的生活。这并不意味着阿尔都塞在学校里政治上不活跃，或者他的共产主义没有影响他的哲学工作。相反，阿尔都塞招募同事和学生加入党，并与ENS的共产主义小组密切合作。此外，在中期，他还出版了一些关于马克思主义哲学的导论。然而，在他的教学和指导中，他大多避免引入马克思主义哲学和共产主义政治。相反，他迎合学生的兴趣和每一次新的_agrégation_的要求，与经典哲学文本以及当代哲学和社会科学密切交流。此外，他大部分的学术研究都是关于18世纪的政治哲学。事实上，阿尔都塞在他有生之年只出版了一本关于孟德斯鸠的著作，该书于该十年末出版。在ENS，阿尔都塞的专业精神以及他的机构思维能力使他在1954年晋升为“文学学院秘书”，这个职位使他对学校的管理和方向负有一定责任。
 
 如果阿尔都塞通过他指导的学生、他对政治哲学历史的研究、他组织的哲学家、科学家和历史学家之间的研讨会以及他作为党员的日常工作，以隐晦的方式继续影响法国的政治和哲学生活，那将不会让任何人感到惊讶。然而，在1961年，阿尔都塞以一篇名为《论年轻的马克思》的文章，激烈地参与了关于马克思著作连续性以及什么构成马克思主义哲学核心的辩论。这篇文章出现在法国共产党的领导方向陷入危机的时候，似乎提供了对斯大林主义和当时提出的马克思主义人道主义修正的“科学”替代方案，阿尔都塞提出的理论观点获得了支持者。在这种认可和理论工作实际上可能改变共产党实践的可能性的激励下，阿尔都塞开始定期发表关于马克思主义哲学的文章。这些文章在法国和国外引起了广泛的公开讨论和哲学活动。与此同时，阿尔都塞在ENS改变了他的教学风格，开始提供合作研讨会，他和他的学生试图“回归马克思”和马克思的原始文本。1965年，这些研讨会的成果以《阅读资本》的形式出版。同年，那些引起轰动的关于马克思主义理论的文章被汇集并出版为《为马克思》。超越党内讨论领域，加强了这些书籍的集体影响力的是被称为“结构主义”的文学和社会科学理论的普遍趋势，而阿尔都塞的马克思重新阅读与之相关联。
 
@@ -43,7 +44,7 @@
 
 阿尔都塞在1946年至1961年间的哲学著作大致可以分为四个类别。第一个类别包括那些大部分写于1946年至1951年间的论文，阿尔都塞在这些论文中探讨了基督教与马克思主义之间可能的关系。在这些论文中的第一篇《善感的国际》中，阿尔都塞从他认为的“基督教的真理”出发，反对战后流行的观点，即原子时代人类状况的苦难、罪恶和异化是所有主体共同经历的。对他来说，这种存在主义的诊断是一种偶像崇拜：它用我们在上帝面前的平等取代了我们在死亡恐惧面前的平等。在这样做的过程中，它是两次反基督教的。因为，除了偶像崇拜的罪恶（死亡等于上帝），它还未能承认一个特定的阶级存在，即无产阶级，对于他们来说，苦恼并不是他们的命运，他们实际上有能力通过重新占有人类生产的产品，包括原子弹，从恐惧中解放出来。1947年的另一篇论文《事实问题》继续沿着这个思路，提出实现基督教目标的必要性需要社会主义手段。它还包括对现有天主教会的黑格尔批判，认为教会在没有神学革命的情况下无法与社会主义结盟。这些论文中的每一篇都暗示批判和改革将带来一个更好的教会和一个更真实的基督教。然而，到1949年，阿尔都塞对这种可能性完全悲观，并在给他的导师让·拉克鲁瓦的一封信中辩称，实现基督教价值的唯一可能性是通过共产主义行动。尽管一些批评家认为基督教和天主教的价值观和思维方式贯穿了阿尔都塞的整个哲学，但在阿尔都塞的发展过程中，对两者之间的实践和理论调和的明确考虑在这一点上被放弃了。
 
- ### 2.2 黑格尔主义马克思主义
+&#x20;\### 2.2 黑格尔主义马克思主义
 
 阿尔都塞早期作品的第二类与第一类密切相关，是那些涉及黑格尔的文本。这些文本主要是为学术界写的，它们以批判的方式接近黑格尔的哲学，从其接受和运用的历史角度来审视，或者以注释的方式来考察黑格尔的形而上学、逻辑、政治、认识论和主体性的理解，看它们对于那些对理解和促进社会变革感兴趣的人提供了什么可能性。在1946年至1950年期间，阿尔都塞的注释取得了积极的成果：黑格尔确实有所贡献。这个判断在阿尔都塞1947年的论文《关于G.W.F.黑格尔思想中的内容》中得到了最详细的解释。除了详细阐述黑格尔与康德的关系并批评黑格尔的评论家对辩证法的简化外，阿尔都塞在这篇论文中还提出，辩证法“不能因其形式而受到攻击”（1947年，116页）。相反，黑格尔只能因为形式的内容（如这些内容在黑格尔的历史和政治著作中所具体规定的那样）未能真正实现绝对理念而受到批评。然后，阿尔都塞像年轻黑格尔派一样，利用黑格尔的辩证法来批评《权利哲学》中所提出的普鲁士国家是辩证法的实现。尽管他使用马克思的《对黑格尔的权利哲学的批判》来阐述自己的观点，并且与马克思一致认为黑格尔的概念在思想中实现后现在必须在现实世界中实现，但阿尔都塞在他的论文中并没有暗示马克思的哲学将黑格尔关于历史、逻辑和主体的洞见抛在脑后。相反，他认为马克思犯了与黑格尔相同的错误，将历史内容误认为辩证法的实现。阿尔都塞认为，由于所有的知识都是历史性的，马克思主义者只能通过诉诸辩证法的思想和其在绝对和永恒中的终结来纠正这个错误，以期“当人类整体与其自身的结构和解时”（1947年，156页）。类似这样的论证将再次出现在他的经典作品中，作为对马克思主义哲学中经验主义倾向的批判。
 
@@ -67,7 +68,7 @@
 
 ### 3.1 解释学理论
 
-阿尔都塞给他接近马克思文本的方法所赋的标签是“症候式阅读”。与寻找马克思哲学的“本质”（其中之一便是《资本论》）有关的早期作品不同，也不试图通过解释其中的矛盾并指定某些段落为关键，而是阿尔都塞认为，马克思的真正哲学在1845年之前的作品中，在诸如《资本论》之类的成熟文本中，阿尔都塞认为，马克思的哲学依然主要是隐含的，因为这才是马克思的科学研究需要的背景概念体系。症候式阅读的方法旨在明确这些概念并“建立马克思主义哲学持续存在所不可或缺的最低限度”（1965a [2005]，35）。
+阿尔都塞给他接近马克思文本的方法所赋的标签是“症候式阅读”。与寻找马克思哲学的“本质”（其中之一便是《资本论》）有关的早期作品不同，也不试图通过解释其中的矛盾并指定某些段落为关键，而是阿尔都塞认为，马克思的真正哲学在1845年之前的作品中，在诸如《资本论》之类的成熟文本中，阿尔都塞认为，马克思的哲学依然主要是隐含的，因为这才是马克思的科学研究需要的背景概念体系。症候式阅读的方法旨在明确这些概念并“建立马克思主义哲学持续存在所不可或缺的最低限度”（1965a \[2005]，35）。
 
 阿尔都塞为这种解释方法提供了三个启示，分别是斯宾诺莎、通过拉康传达的弗洛伊德以及马克思自己提供的启示。此外，他还从法国历史认识论传统中汲取了见解，关于科学是如何被构建的。从斯宾诺莎那里借来的一个想法是，文本和作者是其时代和周围社会思想潮流的产物，作者所写下的思想必然会是特定时代需要满足和影响的意识形态洪流的一部分。就像斯宾诺莎在《神学政治论》中主张，通过进行一项唯物史学的圣经研究，可以将那些先知律法和命令从暂时的应变和先知的想象中解脱出来，这些法令和命令只是假的，从而寻找到真正的上帝之言。阿尔都塞认为，人们可以从中分离出马克思文本中仅仅是意识形态的概念，以及由此构成他的真正哲学。
 
@@ -87,7 +88,7 @@
 
 与经验主义的知识生产模式相对立，阿尔都塞提出真正的或科学的知识与意识形态或观点的区别，并不是因为一个历史主体从表象中抽象出了对象的本质。相反，这种知识被理解为由科学知识本身内部的过程产生。尽管这种转变完全发生在思想中，阿尔都塞并不认为科学知识不使用事实。然而，这些事实或材料从来都不是原始的。相反，特定科学从预先存在的概念或范畴开始，如“体液”，“失业”，“类星体”或“无理数”。这些范畴可能在某种程度上或全部上是意识形态的。科学的任务是使这些概念科学化。这种劳动被阿尔都塞称为“理论实践”。这种实践的结果是科学知识。科学知识是通过将科学拥有的用于理解这些范畴的概念或“理论”应用于这些范畴而产生的。这个概念体系可能更或少统一和一致，可能更或少有意识地表达出来。此外，这个理论所包含的个体概念的总和限定了科学所开始的范畴可以被理解的可能方式。
 
-当应用时，科学理论会清除与原始概念或范畴相关的意识形态观念。将理论应用于范畴的结果是将“意识形态的普遍性转化为科学的普遍性”（1963b [2005]，185）。一个例子是医学科学中将“痰湿体液”这样的概念转化为血液传播的病原体的理念，通过循环和传染病理论的努力。一旦产生，这样的科学概念将指导常规的科学实践，使得个别科学领域内的具体研究项目得以进展。阿尔都塞本人举了三个这样的重大转变的例子。第一个是伽利略创立现代物理学，第二个是希腊数学的创立，第三个是马克思将历史唯物主义科学从古典政治经济学中创立出来。每一个创立都被阿尔都塞称为“认识论的突破”，或者说是意识形态概念被科学概念取代的时期。这里与库恩关于革命性和正常科学的思想的相似之处并不令人意外。卡纪耶姆和巴歇拉是阿尔都塞从中汲取灵感的两位学者，他们参与了与亚历山大·科伊雷关于科学革命的研究的对话，而库恩则从中汲取了灵感。
+当应用时，科学理论会清除与原始概念或范畴相关的意识形态观念。将理论应用于范畴的结果是将“意识形态的普遍性转化为科学的普遍性”（1963b \[2005]，185）。一个例子是医学科学中将“痰湿体液”这样的概念转化为血液传播的病原体的理念，通过循环和传染病理论的努力。一旦产生，这样的科学概念将指导常规的科学实践，使得个别科学领域内的具体研究项目得以进展。阿尔都塞本人举了三个这样的重大转变的例子。第一个是伽利略创立现代物理学，第二个是希腊数学的创立，第三个是马克思将历史唯物主义科学从古典政治经济学中创立出来。每一个创立都被阿尔都塞称为“认识论的突破”，或者说是意识形态概念被科学概念取代的时期。这里与库恩关于革命性和正常科学的思想的相似之处并不令人意外。卡纪耶姆和巴歇拉是阿尔都塞从中汲取灵感的两位学者，他们参与了与亚历山大·科伊雷关于科学革命的研究的对话，而库恩则从中汲取了灵感。
 
 通过这种对知识生产和科学哲学的描述，阿尔都塞对法国历史认识论传统的债务现在应该是显而易见的。然而，这种认识论中的马克思主义和斯宾诺莎主义元素可能不太明显。然而，上面采用的词汇既指向了马克思的影响，也指向了斯宾诺莎的影响。对于阿尔都塞来说，马克思创立的历史科学不仅对政治至关重要（将在下文中讨论），而且对理解人类所有活动，包括科学活动，也至关重要。阿尔都塞承认这种认识论理论存在循环逻辑，因为只有历史唯物主义科学才能让我们理解一般科学实践。然而，阿尔都塞对这种循环性感到满意。这是因为，就像其他科学一样，历史唯物主义是一门能够解释个别科学领域如何产生知识的科学。
 
@@ -135,7 +136,7 @@
 
 在1970年代，阿尔都塞继续了1967年开始的修订工作，并发展了他认为尚未充分发展的其他马克思主义思想。这些努力产生的新概念表述中，最为人所知的或许是“意识形态唤醒”的概念。这个关于人如何成为自我意识主体的描述发表在一篇名为《意识形态与意识形态国家机器》（1970年）的文章中。这篇文章是从一篇更大的名为《资本主义再生产》的文章中摘录出来的。这部作品分析了国家与主体之间的必要关系，以使特定的经济生产方式得以存在。它不仅包括对国家及其法律和教育系统的分析，还包括对主体与国家作为意识形态之间存在的心理关系的分析。这种主体化的叙述旨在帮助推进阿尔都塞的论点，即政权或国家能够通过再生产那些相信自己在社会结构中的地位是自然的主体来维持控制。在这个描述中，意识形态或者说我们对世界运行方式以及我们在其中运作的背景观念被理解为始终存在。然而，具体的社会经济结构需要特定的意识形态。这些意识形态由家庭、学校、教堂等机构或者“意识形态国家机器”实现，它们为正在成长的主体提供了她可以认同自己的范畴。只要一个人这样做并接受与这些机构相关的实践，她就已经成功地被“呼唤”或“唤醒”，并认同自己是那种做这些事情的主体。由于这些认同的效果是继续现有的社会关系，阿尔都塞认为无产阶级专政是必要的，以便能够用产生无产阶级或共产主义主体的机构来取代产生资产阶级主体的机构。
 
- ### 4.3 审美理论
+&#x20;\### 4.3 审美理论
 
 阿尔都塞与审美理论的接触并不像与科学哲学和社会哲学那样始终如一。然而，他在上世纪60年代初的戏剧推断对他症状阅读方法的发展以及从上世纪60年代中期开始对视觉艺术批评的冒险同样对他意识形态理论的发展至关重要。特别是，阿尔都塞对布莱希特美学的沉思提供了如何批评现实主义意识形态观念以及发展革命策略的问题的部分答案。阿尔都塞并不认为艺术揭示了未经意识形态过滤的真实社会状况。事实上，他认为艺术主要是再现意识形态。此外，并没有形式上的方法可以区分艺术作品和其他文化产品，如广告。一个人可以和一辆皮卡车的广告“看到自己”，就像一个主体可以将自己误认为戏剧的主角一样容易。然而，阿尔都塞认为一些艺术作品被称为“真实”（1996a），打破了主体与世界之间的常规关系。常规关系指的是世界总是被视为符合和确认主体对“事物的本质”看法。然而，真实的艺术作品使得人们能够感知或了解到现实世界与主体对其常规意识形态观念的距离。在这一刻，批评、调查的空间，以及改变世界的可能性或许就此开启。
 
@@ -159,157 +160,156 @@
 
 ##
 
-
 ## Bibliography
 
 ### Primary Literature
 
-The following list owes much to the comprehensive bibliography of Althusser’s work compiled by Gregory Elliott in *Althusser: The Detour of Theory*, New York: Verso, 2006 [1987].
+The following list owes much to the comprehensive bibliography of Althusser’s work compiled by Gregory Elliott in _Althusser: The Detour of Theory_, New York: Verso, 2006 \[1987].
 
-- (1940–45) *Journal de captivité (Stalag XA 1940–45)*, (Paris: Stock/IMEC, 1992)
-- (1946) “L’internationale des bons sentiments”, in *Ecrits Philosophiques et Politiques I* (Paris: Stock/IMEC 1994), 35–57; tr. as “The International of Decent Feelings,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
-- (1947) “Du contenu dans la pensée de G.W.F. Hegel” in *Ecrits Philosophiques et Politiques I* (Paris: Stock/IMEC 1994), 59–238; tr. as “On Content in the Thought of G.W.F. Hegel,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
-- (1950) “Le retour à Hegel. Dernier mot du révisionisme universitaire,” *La Nouvelle Critique* 20 (1950); tr. as “The Return of Hegel: The Latest Word in Academic Revisionism,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
-- (1953a) “À propos du marxisme,” *Revue de l’enseignement philosophique*, 3:4 (1953): 15–19; tr. as “On Marxism,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
-- (1953b) “Note sur le matérialisme dialectique,” *Revue de l’enseignement philosophique*, 3:5 (1953): 11–17; tr. as “On Marxism,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
-- (1958) *Montesquieu, la politique et l’histoire* (Paris: Presses Universitaires de France, 1959); tr. as “Montesquieu: Politics and History” by Ben Brewster, in *Politics and History: Montesquieu, Rousseau, Marx*, (London: Verso, 2007).
-- (1960) “Les ‘Manifestes philosophiqes’ de Feuerbach,” *La Nouvelle Critique* 121 (1960): 32–38; tr. as “Feuerbach’s Philosophical Manifestoes” by Ben Brewster in Louis Althusser, *For Marx* (London: Verso, 2005).
-- (1961) “Sur le jeune Marx (Questions de théorie),” *La Pensée* 96 (1961):3–26; tr. as “On the Young Marx: Theoretical Questions,” by Ben Brewster in *For Marx* (London: Verso 2005).
-- (1962) “Contradiction et surdetermination (Notes pour un recherche),” *La Pensée* 106 (1962): 3–22; tr. as “Contradiction and Overdetermination: Notes for an Investigation” by Ben Brewster in *For Marx* (London: Verso 2005).
-- (1963a) “Marxisme et humanisme” *Cahiers de l’Institut des Sciences Économique Appliquées* 20 (1964): 109–133; tr. as “Marxism and Humanism” by Ben Brewster in *For Marx* (London: Verso 2005).
-- (1963b) “Sur la dialectique matérialiste (De l’inégalité des origines),” *La Pensée* 110 (1963): 5–46; tr. as “On the Materialist Dialectic: On the Unevenness of Origins,” by Ben Brewster in *For Marx* (London: Verso 2005).
-- (1964) “Freud et Lacan,” *La Nouvelle Critique* 161–162 (1964–1965): 88–108; tr. as “Freud and Lacan” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review, 2002.
-- (1965a) *Lire le Capital, Tome 1 & 2*, with Étienne Balibar, Roger Establet, Pierre Macherey, and Jacques Rancière (Paris: Maspero, coll. “Théorie”); tr. by Ben Brewster as *Reading Capital* with the contributions of Establet, Macherey, and Rancière omitted (London: Verso 2016)
-- (1965b) “Theory, Theoretical Practice and Theoretical Formation” tr. by James Kavanaugh, in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
-- (1966a) “Lettre sur la connaissance de l’art (réponse à André Daspre) (In Ecrits philosophiques et politiques, Tome II, edited by François Matheron, 559–68. Ecrits philosophiques et politiques. Paris: Stock IMEC, 1995.
-- (1966b) “Sur la genèse,” *Décalages* 1(2) (2013). J. Smith (trans.), 2012, “On Genesis”, *Décalages* 1 (2).
-- (1966c) “Sur Lévi-Strauss,” in *Écrits philosophiques et politiques*, Tome 2 (Paris: Stock/IMEC, 1997), 417–432; tr. by G.M. Goshgarian in *The Humanist Controversy and Other Writings* (London: Verso 2003).
-- (1967a) *Philosophie et philosophie spontanée des savants (1967)*, (Maspero, coll. “Théorie”, 1974); tr. Warren Montag as “Philosophy and the Spontaneous Philosophy of the Scientists,” in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
-- (1967b) “La tâche historique de la philosophie marxiste” tr. by G.M. Goshgarian as “The Historical Task of Marxist Philosophy” in in *The Humanist Controversy and Other Writings* (London: Verso 2003).
-- (1968a) “Lenine et la Philosophie,” *Bulleting de la Société de Philosophie* 4 (1968): 127–181; tr. as “Lenin and Philosophy” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review 2002).
-- (1968c) “Sur le rapport de Marx à Hegel,” in Jacques l’Hondt ed. *Hegel et la pensée moderne* (Paris: Presses Universitaires de France, 1970), 85–111; tr. as “Marx’s Relation to Hegel” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review 2002).
-- (1969b) *Ideologie et appareils idéologiques d’État (notes pour une recherche)* *La Pensée* 151 (1970): 3–38; tr. as “Ideology and Ideology and Ideological State Apparatuses: Notes Towards an Investigation” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review 2002).
-- (1969c) *On The Reproduction Of Capitalism: Ideology And Ideological State Apparatuses*, tr. G. M. Goshgarian (London & New York: Verso 2013).
-- (1972a) *Élements d’autocritique* (Paris: Hachette coll. “Analyse”, 1974); tr. as “Elements of Self-Criticism” by Grahame Lock in *Essays in Self-Criticism* (New Left Books, London, 1976).
-- (1973) “Livre sur l’imperialisme” tr. As “Book on Imperialism” by G.M. Goshgarian in History and Imperialism (Cambridge, UK and Medford, MA: Polity Press, 202
-- (1975) “Est-il simple d’être marxiste en philosophie? (Soutenance d’Amiens)” *La Pensée* 183 (1975): 3–31; tr. as “Is it Simple to be a Marxist in Philosophy?” by Grahame Locke in *Essays in Self-Criticism* (New Left Books, London, 1976).
-- (1976a) *22éme Congrés* (Paris: Maspero, 1977); tr. as “On the Twenty-Second Congress of the French Communist Party” by Ben Brewster in *New Left Review* 104 (1977): 3–22.
-- (1976b) Etre marxiste en philsophie (Paris: Presses universitaires de France 2016) tr. as How to Be a Marxist in Philosophy, by G.M. Goshgarian (London: Bloomsbury, 2017).
-- (1976c) “La transformation de la philosophie,” *Sur la philosophie* (Paris: Gallimard, 1994), 139–178; tr. as “The Transformation of Philosophy” by Thomas E. Lewis in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
-- (1977a) “Avant-propos du livre de G. Duménil, ‘Le concept de loi économique dans ‘Le Capital’”, in *Solitude de Machiavel et autres textes*, ed. Yves Sintomer (Paris: Presses Universitaires de France, 1998), 245–266.
-- (1977b) “Enfin la crise du marxisme!” in *Pouvoir et opposition dans les sociétés post-révolutionnaires* (Le Seuil, coll. “Combats”, 1978), 242–253.
-- (1977c) “Solitude de Machiavel” in *Solitude de Machiavel et autres texts* (Paris: Presses Universitaires de France, 1998), 311–324; tr. as “Machiavell’s Solitude” by Ben Brewster in *Machiavelli and Us* (London: Verso, 1999).
-- (1977d) *Les vâches noires: interview imaginaire (le malaise du XXIIe congrès) ce qui ne va pas camarades!*, ed. by G. M. Goshgarian (Paris: Presses Universitaires de France, 2016).
-- (1978a) *“Ce qui ne peut plus durer dans le Parti Communiste,”*(Paris: François Maspero 1978).
-- (1978b) “Marx dans ses limites,” in *Écrits philosophiques et politiques*, Tome 1 (Paris: Stock/IMEC, 1994), 357–524.
-- (1978c) “Le marxisme aujourd’hui,” in *Solitude de Machiavel et autres texts* (Paris: Presses Universitaires de France, 1998), 292–310; tr. as “Marxism Today” by James H. Kavanaugh in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
-- (1978d) *Que Faire* (Paris: Presses Universitaires de France, 2018) tr. as *What Is to Be Done?*, by G. M. Goshgarian (Cambridge [U.K.]: Polity, 2020).
-- (1980) Initiation à la philosophie pour les non-philosophes (Paris: Presses Universitaires de France, 2013) tr. as *Philosophy for Non-Philosophers*, by G.M. Goshgarian (New York: Bloomsbury, 2017).
-- (1982) “Sur la pensée Marxiste,” in *Future anterieur, Sur Althusser. Passages* (Paris: L’Harmattan, 1993), 11–29; and “Le courant souterrain du matérialisme de la rencontre,”in *Écrits philosophiques et politiques*, Tome 1 (Paris: Stock/IMEC, 1994), 583–594; and ‘Notes sur les Thèses sur Feuerbach,’ *Magazine Littéraire*, 324 (1994): 38–42; extracts translated as “The Underground Current of the Materialism of the Encounter” by G.M. Goshgarian in *Philosophy of the Encounter: Later Writings 1978–1987* (London: Verso, 2006).
-- (1984–1987a) “Lettres de Louis Althusser à Fernanda Navarro,” (1984), *Sur la philosophie* (Paris: Gallimard, 1994), 89–138; tr. as “Letters from Louis Althusser to Fernanda Navarro” by G.M. Goshgarian in *Philosophy of the Encounter: Later Writings 1978–1987* (London: Verso, 2006).
-- (1984–1987a) “Philosophie et marxisme: entretiens avec Fernanda Navarra (1984–1987)” in *Sur la philosophie* (Paris: Gallimard, 1994), 13–79.
-- (1985) “L’avenir dure longtemps,” in *L’avenir dure longtemps, suivi de Les Faits* (Paris: Stock/IMEC, 1992), 7–279; tr. as “The Future Lasts Forever” by Richard Veasey in *The Future Lasts Forever: A Memoir* (New York: New Press, 1993).
+* (1940–45) _Journal de captivité (Stalag XA 1940–45)_, (Paris: Stock/IMEC, 1992)
+* (1946) “L’internationale des bons sentiments”, in _Ecrits Philosophiques et Politiques I_ (Paris: Stock/IMEC 1994), 35–57; tr. as “The International of Decent Feelings,” by G.M. Goshgarian in _The Spectre of Hegel: Early Writings_ (London, NY: Verso, 1997).
+* (1947) “Du contenu dans la pensée de G.W.F. Hegel” in _Ecrits Philosophiques et Politiques I_ (Paris: Stock/IMEC 1994), 59–238; tr. as “On Content in the Thought of G.W.F. Hegel,” by G.M. Goshgarian in _The Spectre of Hegel: Early Writings_ (London, NY: Verso, 1997).
+* (1950) “Le retour à Hegel. Dernier mot du révisionisme universitaire,” _La Nouvelle Critique_ 20 (1950); tr. as “The Return of Hegel: The Latest Word in Academic Revisionism,” by G.M. Goshgarian in _The Spectre of Hegel: Early Writings_ (London, NY: Verso, 1997).
+* (1953a) “À propos du marxisme,” _Revue de l’enseignement philosophique_, 3:4 (1953): 15–19; tr. as “On Marxism,” by G.M. Goshgarian in _The Spectre of Hegel: Early Writings_ (London, NY: Verso, 1997).
+* (1953b) “Note sur le matérialisme dialectique,” _Revue de l’enseignement philosophique_, 3:5 (1953): 11–17; tr. as “On Marxism,” by G.M. Goshgarian in _The Spectre of Hegel: Early Writings_ (London, NY: Verso, 1997).
+* (1958) _Montesquieu, la politique et l’histoire_ (Paris: Presses Universitaires de France, 1959); tr. as “Montesquieu: Politics and History” by Ben Brewster, in _Politics and History: Montesquieu, Rousseau, Marx_, (London: Verso, 2007).
+* (1960) “Les ‘Manifestes philosophiqes’ de Feuerbach,” _La Nouvelle Critique_ 121 (1960): 32–38; tr. as “Feuerbach’s Philosophical Manifestoes” by Ben Brewster in Louis Althusser, _For Marx_ (London: Verso, 2005).
+* (1961) “Sur le jeune Marx (Questions de théorie),” _La Pensée_ 96 (1961):3–26; tr. as “On the Young Marx: Theoretical Questions,” by Ben Brewster in _For Marx_ (London: Verso 2005).
+* (1962) “Contradiction et surdetermination (Notes pour un recherche),” _La Pensée_ 106 (1962): 3–22; tr. as “Contradiction and Overdetermination: Notes for an Investigation” by Ben Brewster in _For Marx_ (London: Verso 2005).
+* (1963a) “Marxisme et humanisme” _Cahiers de l’Institut des Sciences Économique Appliquées_ 20 (1964): 109–133; tr. as “Marxism and Humanism” by Ben Brewster in _For Marx_ (London: Verso 2005).
+* (1963b) “Sur la dialectique matérialiste (De l’inégalité des origines),” _La Pensée_ 110 (1963): 5–46; tr. as “On the Materialist Dialectic: On the Unevenness of Origins,” by Ben Brewster in _For Marx_ (London: Verso 2005).
+* (1964) “Freud et Lacan,” _La Nouvelle Critique_ 161–162 (1964–1965): 88–108; tr. as “Freud and Lacan” by Ben Brewster in _Lenin and Philosophy and Other Essays_ (New York: Monthly Review, 2002.
+* (1965a) _Lire le Capital, Tome 1 & 2_, with Étienne Balibar, Roger Establet, Pierre Macherey, and Jacques Rancière (Paris: Maspero, coll. “Théorie”); tr. by Ben Brewster as _Reading Capital_ with the contributions of Establet, Macherey, and Rancière omitted (London: Verso 2016)
+* (1965b) “Theory, Theoretical Practice and Theoretical Formation” tr. by James Kavanaugh, in Gregory Elliott ed. _Philosophy and the Spontaneous Philosophy of the Scientists_ (London: Verso, 1990).
+* (1966a) “Lettre sur la connaissance de l’art (réponse à André Daspre) (In Ecrits philosophiques et politiques, Tome II, edited by François Matheron, 559–68. Ecrits philosophiques et politiques. Paris: Stock IMEC, 1995.
+* (1966b) “Sur la genèse,” _Décalages_ 1(2) (2013). J. Smith (trans.), 2012, “On Genesis”, _Décalages_ 1 (2).
+* (1966c) “Sur Lévi-Strauss,” in _Écrits philosophiques et politiques_, Tome 2 (Paris: Stock/IMEC, 1997), 417–432; tr. by G.M. Goshgarian in _The Humanist Controversy and Other Writings_ (London: Verso 2003).
+* (1967a) _Philosophie et philosophie spontanée des savants (1967)_, (Maspero, coll. “Théorie”, 1974); tr. Warren Montag as “Philosophy and the Spontaneous Philosophy of the Scientists,” in Gregory Elliott ed. _Philosophy and the Spontaneous Philosophy of the Scientists_ (London: Verso, 1990).
+* (1967b) “La tâche historique de la philosophie marxiste” tr. by G.M. Goshgarian as “The Historical Task of Marxist Philosophy” in in _The Humanist Controversy and Other Writings_ (London: Verso 2003).
+* (1968a) “Lenine et la Philosophie,” _Bulleting de la Société de Philosophie_ 4 (1968): 127–181; tr. as “Lenin and Philosophy” by Ben Brewster in _Lenin and Philosophy and Other Essays_ (New York: Monthly Review 2002).
+* (1968c) “Sur le rapport de Marx à Hegel,” in Jacques l’Hondt ed. _Hegel et la pensée moderne_ (Paris: Presses Universitaires de France, 1970), 85–111; tr. as “Marx’s Relation to Hegel” by Ben Brewster in _Lenin and Philosophy and Other Essays_ (New York: Monthly Review 2002).
+* (1969b) _Ideologie et appareils idéologiques d’État (notes pour une recherche)_ _La Pensée_ 151 (1970): 3–38; tr. as “Ideology and Ideology and Ideological State Apparatuses: Notes Towards an Investigation” by Ben Brewster in _Lenin and Philosophy and Other Essays_ (New York: Monthly Review 2002).
+* (1969c) _On The Reproduction Of Capitalism: Ideology And Ideological State Apparatuses_, tr. G. M. Goshgarian (London & New York: Verso 2013).
+* (1972a) _Élements d’autocritique_ (Paris: Hachette coll. “Analyse”, 1974); tr. as “Elements of Self-Criticism” by Grahame Lock in _Essays in Self-Criticism_ (New Left Books, London, 1976).
+* (1973) “Livre sur l’imperialisme” tr. As “Book on Imperialism” by G.M. Goshgarian in History and Imperialism (Cambridge, UK and Medford, MA: Polity Press, 202
+* (1975) “Est-il simple d’être marxiste en philosophie? (Soutenance d’Amiens)” _La Pensée_ 183 (1975): 3–31; tr. as “Is it Simple to be a Marxist in Philosophy?” by Grahame Locke in _Essays in Self-Criticism_ (New Left Books, London, 1976).
+* (1976a) _22éme Congrés_ (Paris: Maspero, 1977); tr. as “On the Twenty-Second Congress of the French Communist Party” by Ben Brewster in _New Left Review_ 104 (1977): 3–22.
+* (1976b) Etre marxiste en philsophie (Paris: Presses universitaires de France 2016) tr. as How to Be a Marxist in Philosophy, by G.M. Goshgarian (London: Bloomsbury, 2017).
+* (1976c) “La transformation de la philosophie,” _Sur la philosophie_ (Paris: Gallimard, 1994), 139–178; tr. as “The Transformation of Philosophy” by Thomas E. Lewis in Gregory Elliott ed. _Philosophy and the Spontaneous Philosophy of the Scientists_ (London: Verso, 1990).
+* (1977a) “Avant-propos du livre de G. Duménil, ‘Le concept de loi économique dans ‘Le Capital’”, in _Solitude de Machiavel et autres textes_, ed. Yves Sintomer (Paris: Presses Universitaires de France, 1998), 245–266.
+* (1977b) “Enfin la crise du marxisme!” in _Pouvoir et opposition dans les sociétés post-révolutionnaires_ (Le Seuil, coll. “Combats”, 1978), 242–253.
+* (1977c) “Solitude de Machiavel” in _Solitude de Machiavel et autres texts_ (Paris: Presses Universitaires de France, 1998), 311–324; tr. as “Machiavell’s Solitude” by Ben Brewster in _Machiavelli and Us_ (London: Verso, 1999).
+* (1977d) _Les vâches noires: interview imaginaire (le malaise du XXIIe congrès) ce qui ne va pas camarades!_, ed. by G. M. Goshgarian (Paris: Presses Universitaires de France, 2016).
+* (1978a) _“Ce qui ne peut plus durer dans le Parti Communiste,”_(Paris: François Maspero 1978).
+* (1978b) “Marx dans ses limites,” in _Écrits philosophiques et politiques_, Tome 1 (Paris: Stock/IMEC, 1994), 357–524.
+* (1978c) “Le marxisme aujourd’hui,” in _Solitude de Machiavel et autres texts_ (Paris: Presses Universitaires de France, 1998), 292–310; tr. as “Marxism Today” by James H. Kavanaugh in Gregory Elliott ed. _Philosophy and the Spontaneous Philosophy of the Scientists_ (London: Verso, 1990).
+* (1978d) _Que Faire_ (Paris: Presses Universitaires de France, 2018) tr. as _What Is to Be Done?_, by G. M. Goshgarian (Cambridge \[U.K.]: Polity, 2020).
+* (1980) Initiation à la philosophie pour les non-philosophes (Paris: Presses Universitaires de France, 2013) tr. as _Philosophy for Non-Philosophers_, by G.M. Goshgarian (New York: Bloomsbury, 2017).
+* (1982) “Sur la pensée Marxiste,” in _Future anterieur, Sur Althusser. Passages_ (Paris: L’Harmattan, 1993), 11–29; and “Le courant souterrain du matérialisme de la rencontre,”in _Écrits philosophiques et politiques_, Tome 1 (Paris: Stock/IMEC, 1994), 583–594; and ‘Notes sur les Thèses sur Feuerbach,’ _Magazine Littéraire_, 324 (1994): 38–42; extracts translated as “The Underground Current of the Materialism of the Encounter” by G.M. Goshgarian in _Philosophy of the Encounter: Later Writings 1978–1987_ (London: Verso, 2006).
+* (1984–1987a) “Lettres de Louis Althusser à Fernanda Navarro,” (1984), _Sur la philosophie_ (Paris: Gallimard, 1994), 89–138; tr. as “Letters from Louis Althusser to Fernanda Navarro” by G.M. Goshgarian in _Philosophy of the Encounter: Later Writings 1978–1987_ (London: Verso, 2006).
+* (1984–1987a) “Philosophie et marxisme: entretiens avec Fernanda Navarra (1984–1987)” in _Sur la philosophie_ (Paris: Gallimard, 1994), 13–79.
+* (1985) “L’avenir dure longtemps,” in _L’avenir dure longtemps, suivi de Les Faits_ (Paris: Stock/IMEC, 1992), 7–279; tr. as “The Future Lasts Forever” by Richard Veasey in _The Future Lasts Forever: A Memoir_ (New York: New Press, 1993).
 
 ### Secondary Literature
 
-- Althusser, Louis, *et al*., 1993. *Sur Althusser: Passages*, Paris: Éditions l’Harmattan.
-- Atkinson, D., 1984. “The Anatomy of Knowledge: Althusser’s Epistemology and its Consequences,” *Philosophical Papers*, 13: 1–19.
-- Balibar, Étienne, 1974. “Sur la dialectique historique. Quelques remarques critiques à propos de Lire le Capital,” in: *Cinq études du matérialisme historique*, Paris: François Maspero: 203–245.
-- Badiou, Alain, 2009. “Louis Althusser,” in *Pocket Pantheon: figures of postwar philosophy* (David Macey trans.), London: Verso: 54–90.
-- –––, 2012. “The Recommencement of Dialectical Materialism”, in *The Adventures of French Philosophy*, Bruno Bosteels (trans.), London: Verso:
-- Balibar, Étienne, 1991. *Écrits pour Althusser*, Paris: Éditions la Découverte.
-- –––, 1994. “Althusser’s object,” *Social Text*, 39: 157–188.
-- Baltas, Aristide, 1993. “*Philosophy and the Spontaneous Philosophy of the Scientists and Other Essays*, by Louis Althusser,” *Philosophy of Science*, 60(4): 647–658.
-- Bargu, Banu, 2015. “Althusser’s Materialist Theater: Ideology and Its Aporias,” *Differences*, 26(3): 81–106.
-- Bargu, Banu, and William S Lewis, 2020. “Disjecta Membra: Althusser’s Aestethics Reconsidered.” *Filozofski Vestnik*, 41(1): 7–59.
-- Benton, Ted, 1984. *The Rise and Fall of Structural Marxism: Althusser and his Influence*, London: McMillan.
-- Bidet, Jacques, 1997. “La Lecture du *Capital* par Louis Althusser,” in P. Raymond (ed.), *Althusser Philosophe*, Paris: Presses Universitaires de France.
-- Boer, Roland, 2007. *Criticism of Heaven: On Marxism and Theology* (Historical Materialism Book Series), New York: Brill Academic.
-- Bourdin, Jean-Claude, 2000. “The Uncertain Materialism of Louis Althusser,” *Graduate Faculty Philosophy Journal*, 22(1): 271–287.
-- Bourgeois, Bernard, 1997. “Althusser et Hegel” in P. Raymond (ed.), *Althusser Philosophe*, Paris: Presses Universitaires de France, 87–104.
-- Breton, Stanislas, 1997. “Althusser et la religion,” in P. Raymond (ed.), *Althusser Philosophe*, Paris: Presses Universitaires de France, 155–166.
-- Bruschi, Fabio, 2020. Le matérialisme politique de Louis Althusser, Paris: Mimesis.
-- Callinicos, Alex, 1976. Althusser’s Marxism (London: Pluto Press).
-- Carmichael, Thomas, 2022. “‘[A]Nother Kind of Rain’: Aesthetic Ontology and Contagious Imaginations in Althusser’s Aleatory Materialism.” Historical Materialism 1: 1–28.
-- Cavazzini, André, 2015. “Althusser/Bachelard: Une Coupure et Ses Enjeux,” Revue Synthèse (Philosophie et mathématique), 136(1-2): 117–33.
-- Crézégut, Anthony, 2016. “Althusser, Étrange Lecteur de Gramsci. Lire «Le Marxisme N’est Pas Un Historicisme»: 1965–2015,” Décalages, 2(1). [[Crézégut 2016 available online](https://web.archive.org/web/20170705001103/http://scholar.oxy.edu/cgi/viewcontent.cgi?article=1096&context=decalages)]
-- Dupuis-Déri, F., 2015. “La banalité du mâle. Louis Althusser a tué sa conjointe, Hélène Rytmann-Legotien, qui voulait le quitter,” *Nouvelles Questions Féministes*, 34(1): 84–101.
-- Erdem, Erdinç, 2019. “Althusser’s Relation to Hegel: French Hegelianism, Marxism, and Aleatory Materialism.” Rethinking Marxism 31(3): 380–401.
-- Ekici, Ekrim, Jörk Nowak, and Freider Otto Wolf (eds.), 2015. *Althusser – Die Reproduktion des Marxismus*, Münster: Westfälisches Dampfboot.
-- Elliot, Gregory, 2006 [1987]. *Althusser: The Detour of Theory*, New York: Verso.
-- ––– (ed.), 1994. *Althusser: A critical Reader*, Oxford: Blackwell.
-- Geerlandt, Robert, 1978. *Garaudy et Althusser: le débate sur l’humanisme dans le Parti Communiste Français et son Enjeu*, Paris: Presses Universitaires de France.
-- Gillot, Pascale, 2009. *Althusser et la psychanalyse*, Paris: Presses universitaires de France.
-- Goshgarian, G.M., 2003. “Introduction,” In *The Humanist Controversy and Other Writings*, London: Verso, xi–lxii.
-- –––, 2006. “Translator’s Introduction,” in *Louis Althusser: Philosophy of the Encounter* (Later Writings 1978–1987), London: Verso, xiii–l
-- –––, 2015a. “A Marxist in Philosophy,” *Diacritics*, 43(2): 24–46.
-- –––, 2015b. “Philosophie et révolution. Althusser sans le théoricisme ,” *Période*, February 19, 2015.
-- Hardy, N., 2014. “Wolff, Althusser, and Hegel: Outlining an Aleatory Materialist Epistemology,” *Rethinking Marxism*, 26(4): 454–71.
-- Hamza, Agon, 2011. *Louis Althusser*, Kosovo: Kolektivi Materializmi Dialektik.
-- Harnecker, Marta, 1994. “Althusser and the Theoretical Anti-Humanism of Marx,” *Nature, Society, and Thought*, 7 (3): 325–329.
-- Lazarus, Sylvain (ed.), 1993. *Politique et Philosophie dans l’oeuvre de Louis Althusser*, Paris: Presses Universitaires de France.
-- Lewis, William S., 2005. *Louis Althusser and the Traditions of French Marxism*, Lanham, MD: Lexington Books.
-- Lewis, William S., 2022. *Concrete Critical Theory: Althusser’s Marxism*, Leiden: Brill.
-- Lindner, Kolja, 2007. “Lire le Capital: Althusser et l’impasse du tournant politiciste,” *Contretemps*, 20: 71–81.
-- Lindner, Urs, 2011. “Repenser la «coupure épistémologigue» lire Marx avec et Contre Althusser,” *Actuel Marx*, 1 (49): 121–139
-- Macey, David, 1994. “Thinking With Borrowed Concepts: Althusser and Lacan,” in Gregory Elliott (ed.), *Althusser: a Critical Reader*, Oxford: Blackwell, 142–158.
-- Macherey, Pierre, 2002. “Althusser et le jeune Marx,” *Actuel-Marx*, 31: 159–175.
-- Malabou, Catherine, 2016. “Où va le matérialisme ? Althusser/Darwin,” *Lignes*, 51: 3–51.
-- Matheron, François, 1998. “The Recurrence of the Void in Louis Althusser,” *Rethinking Marxism*, 10(3): 22–27.
-- Matheron, François, 2004. “Louis Althusser, or, the Impure Purity of the Concept,” *Graduate Faculty Philosophy Journal*, 25(1): 137–159.
-- –––, 2005. “‘des problèmes qu’il faudra bien appeler d’un autre nom et peut-être politique’: Althusser et l’instabilité de la politique,” *Multitudes*, 22: 21–35.
-- Montag, Warren, 1998. “Althusser’s Nominalism: Structure and Singularity (1962–66),” *Rethinking Marxism*, 10(3): 64–73.
-- –––, 2002. *Louis Althusser*, New York: Palgrave.
-- –––, 2005a. “Politics: Transcendent or Immanent?: A response to Miguel Vatter’s ‘Machiavelli after Marx’,” *Theory and Event*, 7(4); doi: 10.1353/tae.2005.0052
-- –––, 2009. *Althusser and His Contemporaries: Philosophy’s Perpetual War*, Durham, NC: Duke University Press.
-- Moreau, Pierre-François, 1997. “Althusser et Spinoza,” in P. Raymond (ed.), *Althusser Philosophe*, Paris: Presses Universitaires de France, 75–86.
-- Morfino, Vitorrio, 2005. “An Althusserian Lexicon,” translated by Jason Smith, *Borderlands e-journal*, 4(2).
-- Morfino, Vittorio, 2022. “The Prince between Gramsci and Althusser” in Machiavelli Then and Now: History, Politics, Literature, ed. by Prasanta Chakravarty and Sukanta Chaudhuri, 296–315. Cambridge [UK]: Cambridge University Press.
-- Moulier-Boutang, Yann, 1992. *Louis Althusser: Une Biographie* *(Tome I: La Formation du mythe, 1918–1956)*, Paris: Bernard Grasset.
-- Negri, Antonio, 2000. *The Savage Anomaly: The Power of Spinoza’s Metaphysics and Politics*, New York: University of Minnesota Press.
-- O’Boyle, B., and T. McDonough, 2016. “Critical Realism and the Althusserian Legacy,” *Journal for the Theory of Social Behaviour*, 46(2): 143–164.
-- Patton, Paul, 1978. “Althusser’s Epistemology: The Limits of the Theory of Theoretical Practice,” *Radical Philosophy*, 19: 8–18.
-- Pfeifer, Geoff., 2015. *The New Materialism: Althusser, Badiou, Zizek*, London: Routledge.
-- Pippa, Stefano., 2020. “A Heap of Splinters On the Floor.” SoftPower 7(1):125–44.
-- Pippa, Stefano., 2019. *Althusser and Contingenc*y, Milan: Mimesis.
-- O’Hagan, Timothy, 1982. “Althusser: How to be a Marxist in Philosophy,” in G. H. R. Parkinson (ed.), *Marx and Marxisms*, Cambridge: Cambridge University Press, 243–264.
-- Rancière, Jacques, 2011. *Althusser’s Lesson*, Emiliano Battista (trans.), Continuum, 2011
-- Raymond, Pierre, 1997. “Le matérialisme d’Althusser,” in P. Raymond (ed.), *Althusser Philosophe*, Paris: Presses Universitaire de France, 167–179; trans. by Ted Stolze, 2015, “Althusser’s Materialism,” *Historical Materialism*, 23(2): 176–88.
-- Resch, Robert Paul, 1992. *Althusser and the Renewal of Marxist Social Theory*, Berkeley: University of California Press.
-- Rodríguez Arriagada, Marcelo, and Starcenbaum, Marcelo, 2017. Lecturas de Althusser En América Santiago de Chile : Doble Ciencia.
-- Romé, Natalia, 2021. *For Theory: Althusser and the Politics of Time*. Lanham (Md.): Rowman & Littlefield.
-- Roudinesco, Elisabeth, 2008. *Philosophy in Turbulent Times: Canguilhem, Sartre, Foucault, Althusser, Deleuze, Derrida*, New York: Columbia University Press.
-- Sanchez Estop, Juan Domingo, and Louis Althusser, 2022. *Althusser et Spinoza, détours et retours: avec trois textes inédits de Louis Althusser sur Spinoza*. Brussels: Editions de l’Université de Bruxelles
-- Sève, Lucien, 1997. “Althusser et la dialectique,” in P. Raymond (ed.), Althusser Philosophe, Paris: Presses Universitaire de France, 105–136.
-- –––, 2004. *Penser avec Marx aujourd’hui*, Paris: La Dispute.
-- Sotiris, Panagiotis, 2020. *A Philosophy for Communism: Rethinking Althusser. A Philosophy for Communism*. Leiden: Brill.
-- Sprinker, Michael, 1995. “The Legacies of Althusser,” *Yale French Studies*, 88: 201–225.
-- Suchtig, Wal, 2004. “Althusser’s Late Thinking About Materialism,” *Historical Materialism*, 12(1): 3–70.
-- Thomas, Peter, 2002. “Philosophical Strategies: Althusser and Spinoza,” *Historical Materialism*, 10(3): 71–113.
-- Thomas, Peter, Gal Kirn, Sara Farris, and Katja Diefenbach (eds.), 2012. *Encountering Althusser: politics and materialism in contemporary radical thought*, London: Continuum.
-- Thomas, Paul, 2008. *Marxism and scientific socialism: from Engels to Althusser*, London: Routledge.
-- Thompson, E. P., 1978. “The Poverty of Theory, or an Orrery of Errors,” *The Poverty of Theory and Other Essays*, London: Merlin.
-- Tosel, André, 2005. “Les aléas du matérialisme aléatoire dans la dernière philo de Louis Althusser,” in E. Kouvelakis, *et al*. (eds.), *Sartre, Lukács, Althusser: des Marxistes en philosophie*, Paris: Presses Universitaires de France, 169–196
-- Vatter, Miguel, 2004. “Machiavelli After Marx: the Self-Overcoming of Marxism in the Late Althusser,” *Theory and Event* 7(4).
-- Viparelli, I., 2015, “Althusser. La nécessité du « tournant » ontologique,” I. Pinto (trans.), *Cahiers du GRM*, 8 (December).
-- Williams, Caroline, 2001. *Contemporary French Philosophy: Modernity and the Persistence of the Subject*, London, Athlone.
-- Wolf, Frieder Otto, 2008. “Reproduktion und Ideologie bei Louis Althusser. Eine aktualisierende Annäherung”, in Frieder O. Wolf and Gerd Peter (eds.), *Welt ist Arbeit. Im Kampf um die neue Ordnung*, Münster: Westfälisches Dampfboot, 41–54.
+* Althusser, Louis, _et al_., 1993. _Sur Althusser: Passages_, Paris: Éditions l’Harmattan.
+* Atkinson, D., 1984. “The Anatomy of Knowledge: Althusser’s Epistemology and its Consequences,” _Philosophical Papers_, 13: 1–19.
+* Balibar, Étienne, 1974. “Sur la dialectique historique. Quelques remarques critiques à propos de Lire le Capital,” in: _Cinq études du matérialisme historique_, Paris: François Maspero: 203–245.
+* Badiou, Alain, 2009. “Louis Althusser,” in _Pocket Pantheon: figures of postwar philosophy_ (David Macey trans.), London: Verso: 54–90.
+* –––, 2012. “The Recommencement of Dialectical Materialism”, in _The Adventures of French Philosophy_, Bruno Bosteels (trans.), London: Verso:
+* Balibar, Étienne, 1991. _Écrits pour Althusser_, Paris: Éditions la Découverte.
+* –––, 1994. “Althusser’s object,” _Social Text_, 39: 157–188.
+* Baltas, Aristide, 1993. “_Philosophy and the Spontaneous Philosophy of the Scientists and Other Essays_, by Louis Althusser,” _Philosophy of Science_, 60(4): 647–658.
+* Bargu, Banu, 2015. “Althusser’s Materialist Theater: Ideology and Its Aporias,” _Differences_, 26(3): 81–106.
+* Bargu, Banu, and William S Lewis, 2020. “Disjecta Membra: Althusser’s Aestethics Reconsidered.” _Filozofski Vestnik_, 41(1): 7–59.
+* Benton, Ted, 1984. _The Rise and Fall of Structural Marxism: Althusser and his Influence_, London: McMillan.
+* Bidet, Jacques, 1997. “La Lecture du _Capital_ par Louis Althusser,” in P. Raymond (ed.), _Althusser Philosophe_, Paris: Presses Universitaires de France.
+* Boer, Roland, 2007. _Criticism of Heaven: On Marxism and Theology_ (Historical Materialism Book Series), New York: Brill Academic.
+* Bourdin, Jean-Claude, 2000. “The Uncertain Materialism of Louis Althusser,” _Graduate Faculty Philosophy Journal_, 22(1): 271–287.
+* Bourgeois, Bernard, 1997. “Althusser et Hegel” in P. Raymond (ed.), _Althusser Philosophe_, Paris: Presses Universitaires de France, 87–104.
+* Breton, Stanislas, 1997. “Althusser et la religion,” in P. Raymond (ed.), _Althusser Philosophe_, Paris: Presses Universitaires de France, 155–166.
+* Bruschi, Fabio, 2020. Le matérialisme politique de Louis Althusser, Paris: Mimesis.
+* Callinicos, Alex, 1976. Althusser’s Marxism (London: Pluto Press).
+* Carmichael, Thomas, 2022. “‘\[A]Nother Kind of Rain’: Aesthetic Ontology and Contagious Imaginations in Althusser’s Aleatory Materialism.” Historical Materialism 1: 1–28.
+* Cavazzini, André, 2015. “Althusser/Bachelard: Une Coupure et Ses Enjeux,” Revue Synthèse (Philosophie et mathématique), 136(1-2): 117–33.
+* Crézégut, Anthony, 2016. “Althusser, Étrange Lecteur de Gramsci. Lire «Le Marxisme N’est Pas Un Historicisme»: 1965–2015,” Décalages, 2(1). \[[Crézégut 2016 available online](https://web.archive.org/web/20170705001103/http://scholar.oxy.edu/cgi/viewcontent.cgi?article=1096\&context=decalages)]
+* Dupuis-Déri, F., 2015. “La banalité du mâle. Louis Althusser a tué sa conjointe, Hélène Rytmann-Legotien, qui voulait le quitter,” _Nouvelles Questions Féministes_, 34(1): 84–101.
+* Erdem, Erdinç, 2019. “Althusser’s Relation to Hegel: French Hegelianism, Marxism, and Aleatory Materialism.” Rethinking Marxism 31(3): 380–401.
+* Ekici, Ekrim, Jörk Nowak, and Freider Otto Wolf (eds.), 2015. _Althusser – Die Reproduktion des Marxismus_, Münster: Westfälisches Dampfboot.
+* Elliot, Gregory, 2006 \[1987]. _Althusser: The Detour of Theory_, New York: Verso.
+* ––– (ed.), 1994. _Althusser: A critical Reader_, Oxford: Blackwell.
+* Geerlandt, Robert, 1978. _Garaudy et Althusser: le débate sur l’humanisme dans le Parti Communiste Français et son Enjeu_, Paris: Presses Universitaires de France.
+* Gillot, Pascale, 2009. _Althusser et la psychanalyse_, Paris: Presses universitaires de France.
+* Goshgarian, G.M., 2003. “Introduction,” In _The Humanist Controversy and Other Writings_, London: Verso, xi–lxii.
+* –––, 2006. “Translator’s Introduction,” in _Louis Althusser: Philosophy of the Encounter_ (Later Writings 1978–1987), London: Verso, xiii–l
+* –––, 2015a. “A Marxist in Philosophy,” _Diacritics_, 43(2): 24–46.
+* –––, 2015b. “Philosophie et révolution. Althusser sans le théoricisme ,” _Période_, February 19, 2015.
+* Hardy, N., 2014. “Wolff, Althusser, and Hegel: Outlining an Aleatory Materialist Epistemology,” _Rethinking Marxism_, 26(4): 454–71.
+* Hamza, Agon, 2011. _Louis Althusser_, Kosovo: Kolektivi Materializmi Dialektik.
+* Harnecker, Marta, 1994. “Althusser and the Theoretical Anti-Humanism of Marx,” _Nature, Society, and Thought_, 7 (3): 325–329.
+* Lazarus, Sylvain (ed.), 1993. _Politique et Philosophie dans l’oeuvre de Louis Althusser_, Paris: Presses Universitaires de France.
+* Lewis, William S., 2005. _Louis Althusser and the Traditions of French Marxism_, Lanham, MD: Lexington Books.
+* Lewis, William S., 2022. _Concrete Critical Theory: Althusser’s Marxism_, Leiden: Brill.
+* Lindner, Kolja, 2007. “Lire le Capital: Althusser et l’impasse du tournant politiciste,” _Contretemps_, 20: 71–81.
+* Lindner, Urs, 2011. “Repenser la «coupure épistémologigue» lire Marx avec et Contre Althusser,” _Actuel Marx_, 1 (49): 121–139
+* Macey, David, 1994. “Thinking With Borrowed Concepts: Althusser and Lacan,” in Gregory Elliott (ed.), _Althusser: a Critical Reader_, Oxford: Blackwell, 142–158.
+* Macherey, Pierre, 2002. “Althusser et le jeune Marx,” _Actuel-Marx_, 31: 159–175.
+* Malabou, Catherine, 2016. “Où va le matérialisme ? Althusser/Darwin,” _Lignes_, 51: 3–51.
+* Matheron, François, 1998. “The Recurrence of the Void in Louis Althusser,” _Rethinking Marxism_, 10(3): 22–27.
+* Matheron, François, 2004. “Louis Althusser, or, the Impure Purity of the Concept,” _Graduate Faculty Philosophy Journal_, 25(1): 137–159.
+* –––, 2005. “‘des problèmes qu’il faudra bien appeler d’un autre nom et peut-être politique’: Althusser et l’instabilité de la politique,” _Multitudes_, 22: 21–35.
+* Montag, Warren, 1998. “Althusser’s Nominalism: Structure and Singularity (1962–66),” _Rethinking Marxism_, 10(3): 64–73.
+* –––, 2002. _Louis Althusser_, New York: Palgrave.
+* –––, 2005a. “Politics: Transcendent or Immanent?: A response to Miguel Vatter’s ‘Machiavelli after Marx’,” _Theory and Event_, 7(4); doi: 10.1353/tae.2005.0052
+* –––, 2009. _Althusser and His Contemporaries: Philosophy’s Perpetual War_, Durham, NC: Duke University Press.
+* Moreau, Pierre-François, 1997. “Althusser et Spinoza,” in P. Raymond (ed.), _Althusser Philosophe_, Paris: Presses Universitaires de France, 75–86.
+* Morfino, Vitorrio, 2005. “An Althusserian Lexicon,” translated by Jason Smith, _Borderlands e-journal_, 4(2).
+* Morfino, Vittorio, 2022. “The Prince between Gramsci and Althusser” in Machiavelli Then and Now: History, Politics, Literature, ed. by Prasanta Chakravarty and Sukanta Chaudhuri, 296–315. Cambridge \[UK]: Cambridge University Press.
+* Moulier-Boutang, Yann, 1992. _Louis Althusser: Une Biographie_ _(Tome I: La Formation du mythe, 1918–1956)_, Paris: Bernard Grasset.
+* Negri, Antonio, 2000. _The Savage Anomaly: The Power of Spinoza’s Metaphysics and Politics_, New York: University of Minnesota Press.
+* O’Boyle, B., and T. McDonough, 2016. “Critical Realism and the Althusserian Legacy,” _Journal for the Theory of Social Behaviour_, 46(2): 143–164.
+* Patton, Paul, 1978. “Althusser’s Epistemology: The Limits of the Theory of Theoretical Practice,” _Radical Philosophy_, 19: 8–18.
+* Pfeifer, Geoff., 2015. _The New Materialism: Althusser, Badiou, Zizek_, London: Routledge.
+* Pippa, Stefano., 2020. “A Heap of Splinters On the Floor.” SoftPower 7(1):125–44.
+* Pippa, Stefano., 2019. _Althusser and Contingenc_y, Milan: Mimesis.
+* O’Hagan, Timothy, 1982. “Althusser: How to be a Marxist in Philosophy,” in G. H. R. Parkinson (ed.), _Marx and Marxisms_, Cambridge: Cambridge University Press, 243–264.
+* Rancière, Jacques, 2011. _Althusser’s Lesson_, Emiliano Battista (trans.), Continuum, 2011
+* Raymond, Pierre, 1997. “Le matérialisme d’Althusser,” in P. Raymond (ed.), _Althusser Philosophe_, Paris: Presses Universitaire de France, 167–179; trans. by Ted Stolze, 2015, “Althusser’s Materialism,” _Historical Materialism_, 23(2): 176–88.
+* Resch, Robert Paul, 1992. _Althusser and the Renewal of Marxist Social Theory_, Berkeley: University of California Press.
+* Rodríguez Arriagada, Marcelo, and Starcenbaum, Marcelo, 2017. Lecturas de Althusser En América Santiago de Chile : Doble Ciencia.
+* Romé, Natalia, 2021. _For Theory: Althusser and the Politics of Time_. Lanham (Md.): Rowman & Littlefield.
+* Roudinesco, Elisabeth, 2008. _Philosophy in Turbulent Times: Canguilhem, Sartre, Foucault, Althusser, Deleuze, Derrida_, New York: Columbia University Press.
+* Sanchez Estop, Juan Domingo, and Louis Althusser, 2022. _Althusser et Spinoza, détours et retours: avec trois textes inédits de Louis Althusser sur Spinoza_. Brussels: Editions de l’Université de Bruxelles
+* Sève, Lucien, 1997. “Althusser et la dialectique,” in P. Raymond (ed.), Althusser Philosophe, Paris: Presses Universitaire de France, 105–136.
+* –––, 2004. _Penser avec Marx aujourd’hui_, Paris: La Dispute.
+* Sotiris, Panagiotis, 2020. _A Philosophy for Communism: Rethinking Althusser. A Philosophy for Communism_. Leiden: Brill.
+* Sprinker, Michael, 1995. “The Legacies of Althusser,” _Yale French Studies_, 88: 201–225.
+* Suchtig, Wal, 2004. “Althusser’s Late Thinking About Materialism,” _Historical Materialism_, 12(1): 3–70.
+* Thomas, Peter, 2002. “Philosophical Strategies: Althusser and Spinoza,” _Historical Materialism_, 10(3): 71–113.
+* Thomas, Peter, Gal Kirn, Sara Farris, and Katja Diefenbach (eds.), 2012. _Encountering Althusser: politics and materialism in contemporary radical thought_, London: Continuum.
+* Thomas, Paul, 2008. _Marxism and scientific socialism: from Engels to Althusser_, London: Routledge.
+* Thompson, E. P., 1978. “The Poverty of Theory, or an Orrery of Errors,” _The Poverty of Theory and Other Essays_, London: Merlin.
+* Tosel, André, 2005. “Les aléas du matérialisme aléatoire dans la dernière philo de Louis Althusser,” in E. Kouvelakis, _et al_. (eds.), _Sartre, Lukács, Althusser: des Marxistes en philosophie_, Paris: Presses Universitaires de France, 169–196
+* Vatter, Miguel, 2004. “Machiavelli After Marx: the Self-Overcoming of Marxism in the Late Althusser,” _Theory and Event_ 7(4).
+* Viparelli, I., 2015, “Althusser. La nécessité du « tournant » ontologique,” I. Pinto (trans.), _Cahiers du GRM_, 8 (December).
+* Williams, Caroline, 2001. _Contemporary French Philosophy: Modernity and the Persistence of the Subject_, London, Athlone.
+* Wolf, Frieder Otto, 2008. “Reproduktion und Ideologie bei Louis Althusser. Eine aktualisierende Annäherung”, in Frieder O. Wolf and Gerd Peter (eds.), _Welt ist Arbeit. Im Kampf um die neue Ordnung_, Münster: Westfälisches Dampfboot, 41–54.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=althusser). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/althusser/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=althusser&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/althusser/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=althusser).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/althusser/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=althusser\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/althusser/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-- [Louis Althusser Archive](http://www.marxists.org/reference/archive/althusser/), at marxists.org.
+* [Louis Althusser Archive](http://www.marxists.org/reference/archive/althusser/), at marxists.org.
 
 ## Related Entries
 
-[epistemology: social](https://plato.stanford.edu/entries/epistemology-social/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [Hegel, Georg Wilhelm Friedrich: dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) | [hermeneutics](https://plato.stanford.edu/entries/hermeneutics/) | ideology | [Lacan, Jacques](https://plato.stanford.edu/entries/lacan/) | [law: and ideology](https://plato.stanford.edu/entries/law-ideology/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [postmodernism](https://plato.stanford.edu/entries/postmodernism/) | [scientific revolutions](https://plato.stanford.edu/entries/scientific-revolutions/) | [social institutions](https://plato.stanford.edu/entries/social-institutions/) | [Spinoza, Baruch: political philosophy](https://plato.stanford.edu/entries/spinoza-political/)
+[epistemology: social](https://plato.stanford.edu/entries/epistemology-social/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [Hegel, Georg Wilhelm Friedrich: dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) | [hermeneutics](https://plato.stanford.edu/entries/hermeneutics/) | ideology | [Lacan, Jacques](https://plato.stanford.edu/entries/lacan/) | [law: and ideology](https://plato.stanford.edu/entries/law-ideology/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [postmodernism](https://plato.stanford.edu/entries/postmodernism/) | [scientific revolutions](https://plato.stanford.edu/entries/scientific-revolutions/) | [social institutions](https://plato.stanford.edu/entries/social-institutions/) | [Spinoza, Baruch: political philosophy](https://plato.stanford.edu/entries/spinoza-political/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-William Lewis <[*wlewis@skidmore.edu*](mailto:wlewis%40skidmore%2eedu)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+William Lewis <[_wlewis@skidmore.edu_](mailto:wlewis%40skidmore%2eedu)>

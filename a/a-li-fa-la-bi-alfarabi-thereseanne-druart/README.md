@@ -1,6 +1,6 @@
 # 阿里·法拉比 al-Farabi (Therese-Anne Druart)
 
-*首次发布于2016年7月15日；实质性修订于2020年7月24日*
+_首次发布于2016年7月15日；实质性修订于2020年7月24日_
 
 我们对阿里·法拉比的生平了解甚少，真正可靠的信息很少。阿布·纳斯尔·法拉比可能于公元870年（伊斯兰历257年）出生在一个叫法拉布或法赖布的地方。他年轻时搬到了伊拉克和巴格达。公元943年（伊斯兰历331年）他去了叙利亚和大马士革。他可能去过埃及，但于公元950年12月或公元951年1月（伊斯兰历339年）在大马士革去世。学者们对他的种族起源存在争议。有人声称他是土耳其人，但最近的研究表明他是波斯人（Rudolph 2017: 536–45）。
 
@@ -12,12 +12,12 @@
 
 可以在Ulrich Rudolph的《阿布·纳斯尔·法拉比》（2017: 526–594）和Philippe Vallat（2004: 379–87）中找到最新和详细的阿里·法拉比作品及其翻译的列表。此外，Jon McGinnis和David. C. Reisman在他们的《古典阿拉伯哲学：源文选集》（2007: 54–120）中翻译了一系列法拉比文本。
 
-* [1. ](https://plato.stanford.edu/entries/al-farabi/#EnumScie)​*[科学的列举](https://plato.stanford.edu/entries/al-farabi/#EnumScie)* * [2. 语言](https://plato.stanford.edu/entries/al-farabi/#Lang) * [3. 逻辑](https://plato.stanford.edu/entries/al-farabi/#Logi) * [4. 数学和音乐](https://plato.stanford.edu/entries/al-farabi/#MathMusi) * [5. 物理学](https://plato.stanford.edu/entries/al-farabi/#Phys) * [6. 形而上学](https://plato.stanford.edu/entries/al-farabi/#Meta) * [7. 伦理学和政治学](https://plato.stanford.edu/entries/al-farabi/#EthandPol) * [8. 结论](https://plato.stanford.edu/entries/al-farabi/#Conc) * [参考文献](https://plato.stanford.edu/entries/al-farabi/#Bib)
-* [研究工具](https://plato.stanford.edu/entries/al-farabi/#ReseTool) * [主要文献](https://plato.stanford.edu/entries/al-farabi/#PrimLite) * [次要文献](https://plato.stanford.edu/entries/al-farabi/#SecoLite) * [学术工具](https://plato.stanford.edu/entries/al-farabi/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/al-farabi/#Oth) * [相关条目](https://plato.stanford.edu/entries/al-farabi/#Rel)
+* [1. ](https://plato.stanford.edu/entries/al-farabi/#EnumScie)​\*[科学的列举](https://plato.stanford.edu/entries/al-farabi/#EnumScie)\* \* [2. 语言](https://plato.stanford.edu/entries/al-farabi/#Lang) \* [3. 逻辑](https://plato.stanford.edu/entries/al-farabi/#Logi) \* [4. 数学和音乐](https://plato.stanford.edu/entries/al-farabi/#MathMusi) \* [5. 物理学](https://plato.stanford.edu/entries/al-farabi/#Phys) \* [6. 形而上学](https://plato.stanford.edu/entries/al-farabi/#Meta) \* [7. 伦理学和政治学](https://plato.stanford.edu/entries/al-farabi/#EthandPol) \* [8. 结论](https://plato.stanford.edu/entries/al-farabi/#Conc) \* [参考文献](https://plato.stanford.edu/entries/al-farabi/#Bib)
+* [研究工具](https://plato.stanford.edu/entries/al-farabi/#ReseTool) \* [主要文献](https://plato.stanford.edu/entries/al-farabi/#PrimLite) \* [次要文献](https://plato.stanford.edu/entries/al-farabi/#SecoLite) \* [学术工具](https://plato.stanford.edu/entries/al-farabi/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/al-farabi/#Oth) \* [相关条目](https://plato.stanford.edu/entries/al-farabi/#Rel)
 
----
+***
 
-## 1. *科学的列举*
+## 1. _科学的列举_
 
 在接下来的内容中，我们将强调过去三十年来重要的学术发展，并为这些列表添加有用的补充。为了突出这些学术发展，我们将按照阿里·法拉比在他的《科学的列举》中提供的亚里士多德科学的传统顺序进行。这是他最著名的著作之一，其中世纪拉丁版本在西方产生了很大影响。目前还没有这本书的完整英文翻译，但Amor Cherni（2015）出版了一本带有法语翻译和评论的版本。最近，一本包含德语翻译的新的批判性版本的中世纪拉丁版本之一已经出版：Dominicus Gundissalinus的《关于科学》（de scientiis）（2006）。Alain Galonnier出版了另一本中世纪拉丁版本的批判性版本、法语翻译和研究：Gerard de Cremone的《阿尔法拉比的科学》（2016）。按照这个传统的理论顺序是有意义的，因为我们对阿里·法拉比作品的时间顺序知之甚少，尽管有一些迹象表明《善良城市的人民的观点》（也被称为《完美的国家》）和《政治制度》（也被称为《存在的原则》）可能是他最后的作品之一。关于阿里·法拉比作品的时间顺序的信息匮乏，这使得确定不同作品之间的一些不一致和紧张关系是他思想的演变（如达米安·雅诺斯（Damien Janos）所声称）还是暗示了外在和内在论文之间的区别，或者仅仅是由于人类本性的局限性而产生的，即使是最伟大的哲学家也受到影响。由于阿里·法拉比将哲学理解为全方位的，并试图提出一致的观点，一些作品涉及多个哲学学科，因此我们将在这种情况下进行指示。阿里·法拉比对亚里士多德的著作有广泛的了解，甚至包括他的一些动物学论文。
 
@@ -53,9 +53,9 @@
 
 ## 6. 形而上学
 
-形而上学是物理学的后续。评估阿里·法拉比对形而上学的理解并不容易。非常简短的论文《亚里士多德形而上学的目标》坚称，与大多数人所认为的相反，形而上学不是一门神学科学，而是研究所有存在的共同之处，如存在和统一性。麦金尼斯和雷斯曼在他们的《古典阿拉伯哲学》（2007年：78-81）中提供了完整的英文翻译。1989年，穆辛·马赫迪出版了一篇名为《论一和统一》的阿拉伯文短篇论文。它仍未翻译，但达米安·贾诺斯（2017年）解释了它的结构和内容，菲利普·瓦拉特（2019b）对其进行了研究。正如斯蒂芬·门恩（2008年）所示，*字母书*的许多段落具有重要的形而上学意义。这些文本引发了逻辑与形而上学之间确切关系的问题，例如，两个学科都涉及范畴（参见特丽丝-安妮·德鲁阿特（2007年）和克里斯特尔·特雷戈（2018年））。这些文本呈现了亚里士多德的观点，侧重于本体论，明确区分了形而上学与卡拉姆，并似乎为哲学神学和新柏拉图主义的衰落留下了有限的空间。
+形而上学是物理学的后续。评估阿里·法拉比对形而上学的理解并不容易。非常简短的论文《亚里士多德形而上学的目标》坚称，与大多数人所认为的相反，形而上学不是一门神学科学，而是研究所有存在的共同之处，如存在和统一性。麦金尼斯和雷斯曼在他们的《古典阿拉伯哲学》（2007年：78-81）中提供了完整的英文翻译。1989年，穆辛·马赫迪出版了一篇名为《论一和统一》的阿拉伯文短篇论文。它仍未翻译，但达米安·贾诺斯（2017年）解释了它的结构和内容，菲利普·瓦拉特（2019b）对其进行了研究。正如斯蒂芬·门恩（2008年）所示，_字母书_的许多段落具有重要的形而上学意义。这些文本引发了逻辑与形而上学之间确切关系的问题，例如，两个学科都涉及范畴（参见特丽丝-安妮·德鲁阿特（2007年）和克里斯特尔·特雷戈（2018年））。这些文本呈现了亚里士多德的观点，侧重于本体论，明确区分了形而上学与卡拉姆，并似乎为哲学神学和新柏拉图主义的衰落留下了有限的空间。
 
-另一方面，*完美城市的人民观点*、*政治制度*或*存在原理*都以一个被称为新柏拉图主义衰落的形而上学部分开始，然后是处理城市或国家组织的第二部分，并不涉及存在和统一作为最普遍的概念。理想国家的等级结构反映了第一部分中呈现的等级发生结构。沃尔泽以《完美国家》（1985年）为题编辑了前者的英文翻译，福兹·M·纳贾尔编辑了后者（1964年）。查尔斯·巴特沃思（2015年）在《政治著作》第二卷中提供了《政治制度》的第一部完整英文翻译，页码为27-94。关于本体论与新柏拉图主义衰落或发出之间的确切关系如何，尚未完全澄清，尽管《科学的列举》涉及了这两个方面。此外，新柏拉图主义衰落是否构成了政治哲学或形而上学的基础，仅仅是一种修辞上的呼吁，旨在使阿里·法拉比的有争议的政治和哲学观点对宗教当局和普通人更具吸引力，这是一个备受争议的问题。李奥·斯特劳斯和穆辛·马赫迪的追随者将阿里·法拉比的观点分为面向广大观众的外部观点和为知识精英撰写的内部观点。外部观点更符合宗教观点，例如提到人类灵魂的不朽，而这些观点在内部著作中被有意地淡化（下面我���将看到，阿里·法拉比的一篇失传论文可能否定了灵魂的不朽）。在这场辩论中，查尔斯·E·巴特沃思提出了最近的“斯特劳斯派”立场，包括《如何阅读阿拉法拉比》（2013年）和《阿拉法拉比的目标：政治哲学而非政治神学》（2011年）两篇论文。最近，菲利普·瓦拉特（2019c）试图澄清阿里·法拉比所指的“内敛主义”。一些其他学者，如迪米特里·古塔斯、S·门恩和特-阿·德鲁阿特，认为法拉比的形而上学，包括新柏拉图主义衰落，是阿里·法拉比作品的核心，即使在他的《亚里士多德哲学》中，阿里·法拉比对形而上学的论述很少。在介绍伦理学和政治学时，我们将对这个争议发表更多意见，根据法拉比对科学的分类，伦理学和政治学紧随形而上学之后。
+另一方面，_完美城市的人民观点_、_政治制度_或_存在原理_都以一个被称为新柏拉图主义衰落的形而上学部分开始，然后是处理城市或国家组织的第二部分，并不涉及存在和统一作为最普遍的概念。理想国家的等级结构反映了第一部分中呈现的等级发生结构。沃尔泽以《完美国家》（1985年）为题编辑了前者的英文翻译，福兹·M·纳贾尔编辑了后者（1964年）。查尔斯·巴特沃思（2015年）在《政治著作》第二卷中提供了《政治制度》的第一部完整英文翻译，页码为27-94。关于本体论与新柏拉图主义衰落或发出之间的确切关系如何，尚未完全澄清，尽管《科学的列举》涉及了这两个方面。此外，新柏拉图主义衰落是否构成了政治哲学或形而上学的基础，仅仅是一种修辞上的呼吁，旨在使阿里·法拉比的有争议的政治和哲学观点对宗教当局和普通人更具吸引力，这是一个备受争议的问题。李奥·斯特劳斯和穆辛·马赫迪的追随者将阿里·法拉比的观点分为面向广大观众的外部观点和为知识精英撰写的内部观点。外部观点更符合宗教观点，例如提到人类灵魂的不朽，而这些观点在内部著作中被有意地淡化（下面我���将看到，阿里·法拉比的一篇失传论文可能否定了灵魂的不朽）。在这场辩论中，查尔斯·E·巴特沃思提出了最近的“斯特劳斯派”立场，包括《如何阅读阿拉法拉比》（2013年）和《阿拉法拉比的目标：政治哲学而非政治神学》（2011年）两篇论文。最近，菲利普·瓦拉特（2019c）试图澄清阿里·法拉比所指的“内敛主义”。一些其他学者，如迪米特里·古塔斯、S·门恩和特-阿·德鲁阿特，认为法拉比的形而上学，包括新柏拉图主义衰落，是阿里·法拉比作品的核心，即使在他的《亚里士多德哲学》中，阿里·法拉比对形而上学的论述很少。在介绍伦理学和政治学时，我们将对这个争议发表更多意见，根据法拉比对科学的分类，伦理学和政治学紧随形而上学之后。
 
 ## 7. 伦理学与政治学
 
@@ -63,7 +63,7 @@
 
 尽管我们没有阿里·法拉比的任何伦理文本，主要依赖于《尼科马科伦理学》，但马尔万·拉希德（2019年）在《追求幸福》中讨论了他的伦理观。我们确实有一份简短的伦理论文，属于希腊化伦理学传统，《引导幸福之道》或《警示》（不要与《追求幸福》或《达赛尔》混淆），这是哲学研究和逻辑学特别是的入门课程（英文翻译见麦金尼斯和雷斯曼的《古典阿拉伯哲学》（2007年：104-20））。这篇论文（1）鼓励学生控制自己的激情，以便能够专注于学习，并（2）鼓励他开始学习哲学和逻辑学。显然，这是一篇前哲学的论文，作为法拉比逻辑学初级入门的引言（马赫迪的版本，1968年；没有英文翻译）。阿里·法拉比对真正哲学伦理的理解仍然不清楚，因为我们几乎没有扩展的文本基础来建立它。詹妮·马蒂拉（2017年）比较了阿里·法拉比和阿尔·拉齐在哲学伦理方面的发展。伦理学在处理我们与他人的关系时涉及主体间性，但阿里·法拉比在涉及这个生活方面并没有太多讨论，但在来世中提供了一个有趣的画面（德鲁阿特，2017年）。
 
-阿里·法拉比的政治哲学取得了很大的进展，并吸引了许多学者的关注。根据《列举》，它还包括*kalâm*，即非哲学神学，和*fiqh*或伊斯兰法。许多法拉比的政治著作已经被翻译成英文。穆辛·马赫迪在《柏拉图和亚里士多德的哲学》（1969b；2001年重印）中翻译了其中三本，包括《追求幸福》、《柏拉图的哲学》和《亚里士多德的哲学》。这三个文本构成了一个三部曲。查尔斯·E·巴特沃斯在《政治著作》第一卷（2001年）中翻译了《选集格言》，《科学列举》第五部分，《宗教之书》和《两位圣人的观点的调和：神圣的柏拉图和亚里士多德》，在第二卷（2015年）中翻译了《政治制度》和《柏拉图法律摘要》。
+阿里·法拉比的政治哲学取得了很大的进展，并吸引了许多学者的关注。根据《列举》，它还包括_kalâm_，即非哲学神学，和_fiqh_或伊斯兰法。许多法拉比的政治著作已经被翻译成英文。穆辛·马赫迪在《柏拉图和亚里士多德的哲学》（1969b；2001年重印）中翻译了其中三本，包括《追求幸福》、《柏拉图的哲学》和《亚里士多德的哲学》。这三个文本构成了一个三部曲。查尔斯·E·巴特沃斯在《政治著作》第一卷（2001年）中翻译了《选集格言》，《科学列举》第五部分，《宗教之书》和《两位圣人的观点的调和：神圣的柏拉图和亚里士多德》，在第二卷（2015年）中翻译了《政治制度》和《柏拉图法律摘要》。
 
 阿里·法拉比并没有从亚里士多德的《政治学》中获得灵感（这本书似乎没有被翻译或总结成阿拉伯语），而是从柏拉图的《理想国》和《法律篇》中获得了一些灵感，尽管他对这两本书的接触可能相当有限，因为有人怀疑它们是否存在完整的阿拉伯语翻译。尽管阿维罗伊斯对《理想国》写了一篇评论，但其简洁和内容并不能证明他对整个文本有深入的了解。然而，大卫·C·雷斯曼（2004年）发现了《理想国》的一段阿拉伯语翻译（VI，506d3–509b10）。至于《法律篇》，我们当然有阿里·法拉比的《柏拉图法律篇摘要》，但这本书（阿拉伯语版由Th.-A. Druart（1998年）编辑，英文翻译由Butterworth在《政治著作》第二卷（2015年：129-73）中）非常简短，只涵盖了前八卷。目前还无法确定这个摘要是基于《法律篇》的完整或部分阿拉伯语翻译，还是基于希腊摘要的翻译，可能是迦伦的摘要（在希腊语中已经失传）。关于阿拉伯语翻译柏拉图作品及其稀缺性的最新状况，请参阅迪米特里·古塔斯（2012年）的著作。阿里·法拉比自己的简短著作《柏拉图哲学》并没有展示出对柏拉图作品的详细了解。
 
@@ -87,16 +87,16 @@
 
 #### Bibliographies
 
-* *Al-Mawrid* (Special Issue on Al-Farabi), 4(3), 1975.
-* Chavooshi, Jafar Aghayani, *Al-Fârâbî: An Annotated Bibliography*, Tehran, 1976.
-* Cunbur, Müjgan, Ismet Ninark & Nejat Sefercioglu, *Fârâbî Bibliyografyasi*, Ankara: Bashakanhk Basimevi, 1973.
-* Daiber, Hans, *Bibliography of Islamic Philosophy* (from the 15^th^ Century to 1999) 2 vol., Leiden: Brill, 1999 and its *Supplement*, Leiden: Brill, 2007, much complete and update these pioneers works.
-* Druart, Thérèse-Anne, *[Brief Bibliographical Guide in Medieval and Post-Classical Islamic Philosophy and Theology](http://philosophy.cua.edu/faculty/druart/bibliographical-guide.cfm)*, available online in yearly installments and includes a section on al-Fârâbî.
-* Rescher, Nicholas, *Al-Fârâbî: An Annotated Bibliography*, Pittsburgh: University of Pittsburgh Press, 1962.
+* _Al-Mawrid_ (Special Issue on Al-Farabi), 4(3), 1975.
+* Chavooshi, Jafar Aghayani, _Al-Fârâbî: An Annotated Bibliography_, Tehran, 1976.
+* Cunbur, Müjgan, Ismet Ninark & Nejat Sefercioglu, _Fârâbî Bibliyografyasi_, Ankara: Bashakanhk Basimevi, 1973.
+* Daiber, Hans, _Bibliography of Islamic Philosophy_ (from the 15^th^ Century to 1999) 2 vol., Leiden: Brill, 1999 and its _Supplement_, Leiden: Brill, 2007, much complete and update these pioneers works.
+* Druart, Thérèse-Anne, [_Brief Bibliographical Guide in Medieval and Post-Classical Islamic Philosophy and Theology_](http://philosophy.cua.edu/faculty/druart/bibliographical-guide.cfm), available online in yearly installments and includes a section on al-Fârâbî.
+* Rescher, Nicholas, _Al-Fârâbî: An Annotated Bibliography_, Pittsburgh: University of Pittsburgh Press, 1962.
 
 #### Dictionary
 
-* Alon, Ilai and Shukri B. Abed, *Al-Fârâbî’s Philosophical Lexicon*, 2 volumes (volume I: Arabic Text; volume II: English translation). Cambridge: Cambridge University Press, 2002 (provides al-Fârâbî’s own definitions of technical philosophical terms).
+* Alon, Ilai and Shukri B. Abed, _Al-Fârâbî’s Philosophical Lexicon_, 2 volumes (volume I: Arabic Text; volume II: English translation). Cambridge: Cambridge University Press, 2002 (provides al-Fârâbî’s own definitions of technical philosophical terms).
 
 ### Primary Literature
 
@@ -104,106 +104,106 @@
 
 The following are listed by editors/translators:
 
-* al-‘Ajam, Rafîq & Majid Fakhry (eds.), 1985–87, al-Fârâbî, *al-mantiq ‘inda al-Fârâbî*, in 4 volumes, Beirut: Dar al-Mashriq.
-* Badawi, ‘Abdurrahman, 1983, *Traites philosophiques par al-Kindi, al-Farabi, Ibn Bajjah &amp; Ibn ‘Adyy*, 3rd edition, Beirut: Dar Al-Andaloss.
-* Bonadeo, Cecilia Martini (ed.), 2008, al-Fârâbî, *L’armonia delle opinioni dei due sapienti, il divino Platone e Aristotele*, Pisa: Plus.
-* Bouyges, Maurice (trans. and ed.), 1983, Alfarabi, *Risalat fi’l-‘Aql*, 2^nd^ edition, Beirut: Imprimerie Catholique.
-* Butterworth, Charles E. (ed. and trans.), 2001, Alfarabi, *The Political Writings: “Selected Aphorisms” and Other Texts* (Volume I), Ithaca, NY: Cornell University Press.
-* ––– (ed. and trans.), 2015, Alfarabi, *The Political Writings: “Political Regime” and “Summary of Plato’s Laws”*  (Volume II), Ithaca, NY: Cornell University Press.
+* al-‘Ajam, Rafîq & Majid Fakhry (eds.), 1985–87, al-Fârâbî, _al-mantiq ‘inda al-Fârâbî_, in 4 volumes, Beirut: Dar al-Mashriq.
+* Badawi, ‘Abdurrahman, 1983, _Traites philosophiques par al-Kindi, al-Farabi, Ibn Bajjah & Ibn ‘Adyy_, 3rd edition, Beirut: Dar Al-Andaloss.
+* Bonadeo, Cecilia Martini (ed.), 2008, al-Fârâbî, _L’armonia delle opinioni dei due sapienti, il divino Platone e Aristotele_, Pisa: Plus.
+* Bouyges, Maurice (trans. and ed.), 1983, Alfarabi, _Risalat fi’l-‘Aql_, 2^nd^ edition, Beirut: Imprimerie Catholique.
+* Butterworth, Charles E. (ed. and trans.), 2001, Alfarabi, _The Political Writings: “Selected Aphorisms” and Other Texts_ (Volume I), Ithaca, NY: Cornell University Press.
+* ––– (ed. and trans.), 2015, Alfarabi, _The Political Writings: “Political Regime” and “Summary of Plato’s Laws”_ (Volume II), Ithaca, NY: Cornell University Press.
 * ––– (ed. and trans.), forthcoming, Alfarabi, Book of Letters, Ithaca, NY: Cornell University Press.
-* Chatti, Saloua & Hodges, Wilfrid (trans.), forthcoming, *Al-Farabi, Syllogism: An Abdrigement of Aristotle’s Prior Analytics*, London: Bloomsbury.
-* Cherni, Amor (trans. and ed.), 2015, al-Fârâbî, *Le recensement des sciences*, Paris: Al Bouraq.
-* Dânishpazuh, Muhammad Taqî (ed.), 1987–89, *al-Fârâbî, al-mantiqiyyât lilfârâbî*, 3 volumes, Qumm: Matba‘at Bahman.
-* Diebler, Stéphane (trans), 2007, al-Fârâbî, *Philosopher à Bagdad au Xe siècle*, introduction by Ali Benmakhlouf, glossary by Pauline Koetschet, Paris: Seuil.
-* DiPasquale, David M. (trans.), 2019, *Alfarabi’s Book of Dialectic* (Kitab al-Jadal): *On the Starting Point of Islamic Philosophy*, Cambridge: Cambridge University Press.
-* Druart, Thérèse-Anne (ed.), 1998, “Le Sommaire du livre des ‘Lois’ de Platon”, *Bulletin d’Études Orientales*, 50: 109–55;
-* d’Erlanger, Rodolphe (trans.), 1930–35, *La musique arabe: Al-Fârâbî, Grand Traité de la Musique*, vol. I–II, Paris: Geuthner, reprint (Paris: 2001).
-* Ezzaher, Lahcen E. (ed.), 2008, “Alfarabi’s *Book of Rhetoric*: An Arabic-English translation of Alfarabi’s Commentary on Aristotle’s *Rhetoric*”, *Rhetorica*, 26(4): 347–91.
-* ––– (transl.), 2015, *Three Arabic Treatises on Aristotle’s “Rhetoric”*  (translation, introduction, & notes), Carbondale: Southern Illinois University Press , pp. 12–49.
-* Galonnier, A. (ed. and trans.), 2016, *Le ‘De scientiis Alfarabii’ de Gérarde de Crémone: Contributions aux problèmes de l’acculturation au XIIe siècle. Étude introductive et édition critique, traduite et annotée*, Turnhout: Brepols.
-* van Gelder, Geert Jan & Marlé Hammond (trans. and eds), 2008, *Takhyîl: The Imaginary in Classical Arabic Poetics*, Exeter: Gibb Memorial Trust, pp. 15–23.
-* Gundissalinus, Dominicus [ca. 1150] (transl.), 2006, al-Fârâbî, *Über die Wissenschaften (de scientiis)* , Jakob Hans Josef Schneider (ed.), Freiburg: Herder .
-* Khalidi, Muhammad Ali (ed. and trans.), 2005, al-Fârâbî, “The Book of Letters”, in his *Medieval Islamic Philosophical Writings*, Cambridge: Cambridge University Press, pp. 1–26.
-* Lugal, Necati & Aydin Sayili, 1951, “Maqâla fî l-Khalâ”, *Belleten (Türk Tarih Kurumu)* , 15: 1–16 & 21–36.
-* Mahdi, Muhsin (ed.), 1968, al-Fârâbi, *Utterances Employed in Logic*, introduction and notes, Beirut: Dar el-Mashreq.
-* ––– (ed.), 1969a, *Alfarabi’s Book of Letters* (Kitab al-Huruf), Arabic text, introduction and notes, Beirut: Dar el-Mashreq.
-* ––– (ed.), 1969b, *Alfarabi’s Philosophy of Plato and Aristotle*, translated with an introduction, 2^nd^ edition, Ithaca, NY: Cornell University Press; reprinted 2002.
-* ––– (ed.), 1989, *Alfarabi’s On One and Unity*, Casablanca: Toubkal .
-* McGinnis, Jon & David C. Reisman (eds.), 2007, *Classical Arabic Philosophy: An Anthology of Sources*, Indianapolis: Hackett Publishing, pp. 54–120.
-* Najjar, Fauzi M. (ed.), 1964, *Al-Fârâbî’s The Political Regime*, with introduction & notes, Beirut: Imprimerie Catholique .
-* Neria, Cahim Meir, 2013, “Al-Fârâbî’s Lost Commentary on the Ethics: New Textual Evidence”, *Arabic Sciences and Philosophy*, 23(1): 69–99.
-* Rashed, Marwan, 2008, “Al-Fârâbî’s lost treatise *On changing beings* and the possibility of a demonstration of the eternity of the world”, *Arabic Sciences and Philosophy*, 18(1): 19–58.
-* Sawa, George Dimitri, 2009, *Rhythmic Theories and Practices in Arabic Writings to 339 AH/950 CE : Annotated translations and commentaries*, Ottawa: The Institute of Mediaeval Music.
-* Sayili, Aydin, 1951, “Al-Farabi’s Article on Vacuum”, *Belleten* (Turk Tarih Kurumu), 15: 151–74.
-* Walzer, Richard (ed. and trans.), 1985, *Al-Faradi on the Perfect State*, with introduction and commentary, Oxford: Oxford University Press.
-* Zimmerman, F.W., 1981, *Al-Farabi’s Commentary and Short Treatise on Aristotle’s “De interpretatione”*  (translation, introduction & notes), London: British Academy.
+* Chatti, Saloua & Hodges, Wilfrid (trans.), forthcoming, _Al-Farabi, Syllogism: An Abdrigement of Aristotle’s Prior Analytics_, London: Bloomsbury.
+* Cherni, Amor (trans. and ed.), 2015, al-Fârâbî, _Le recensement des sciences_, Paris: Al Bouraq.
+* Dânishpazuh, Muhammad Taqî (ed.), 1987–89, _al-Fârâbî, al-mantiqiyyât lilfârâbî_, 3 volumes, Qumm: Matba‘at Bahman.
+* Diebler, Stéphane (trans), 2007, al-Fârâbî, _Philosopher à Bagdad au Xe siècle_, introduction by Ali Benmakhlouf, glossary by Pauline Koetschet, Paris: Seuil.
+* DiPasquale, David M. (trans.), 2019, _Alfarabi’s Book of Dialectic_ (Kitab al-Jadal): _On the Starting Point of Islamic Philosophy_, Cambridge: Cambridge University Press.
+* Druart, Thérèse-Anne (ed.), 1998, “Le Sommaire du livre des ‘Lois’ de Platon”, _Bulletin d’Études Orientales_, 50: 109–55;
+* d’Erlanger, Rodolphe (trans.), 1930–35, _La musique arabe: Al-Fârâbî, Grand Traité de la Musique_, vol. I–II, Paris: Geuthner, reprint (Paris: 2001).
+* Ezzaher, Lahcen E. (ed.), 2008, “Alfarabi’s _Book of Rhetoric_: An Arabic-English translation of Alfarabi’s Commentary on Aristotle’s _Rhetoric_”, _Rhetorica_, 26(4): 347–91.
+* ––– (transl.), 2015, _Three Arabic Treatises on Aristotle’s “Rhetoric”_ (translation, introduction, & notes), Carbondale: Southern Illinois University Press , pp. 12–49.
+* Galonnier, A. (ed. and trans.), 2016, _Le ‘De scientiis Alfarabii’ de Gérarde de Crémone: Contributions aux problèmes de l’acculturation au XIIe siècle. Étude introductive et édition critique, traduite et annotée_, Turnhout: Brepols.
+* van Gelder, Geert Jan & Marlé Hammond (trans. and eds), 2008, _Takhyîl: The Imaginary in Classical Arabic Poetics_, Exeter: Gibb Memorial Trust, pp. 15–23.
+* Gundissalinus, Dominicus \[ca. 1150] (transl.), 2006, al-Fârâbî, _Über die Wissenschaften (de scientiis)_ , Jakob Hans Josef Schneider (ed.), Freiburg: Herder .
+* Khalidi, Muhammad Ali (ed. and trans.), 2005, al-Fârâbî, “The Book of Letters”, in his _Medieval Islamic Philosophical Writings_, Cambridge: Cambridge University Press, pp. 1–26.
+* Lugal, Necati & Aydin Sayili, 1951, “Maqâla fî l-Khalâ”, _Belleten (Türk Tarih Kurumu)_ , 15: 1–16 & 21–36.
+* Mahdi, Muhsin (ed.), 1968, al-Fârâbi, _Utterances Employed in Logic_, introduction and notes, Beirut: Dar el-Mashreq.
+* ––– (ed.), 1969a, _Alfarabi’s Book of Letters_ (Kitab al-Huruf), Arabic text, introduction and notes, Beirut: Dar el-Mashreq.
+* ––– (ed.), 1969b, _Alfarabi’s Philosophy of Plato and Aristotle_, translated with an introduction, 2^nd^ edition, Ithaca, NY: Cornell University Press; reprinted 2002.
+* ––– (ed.), 1989, _Alfarabi’s On One and Unity_, Casablanca: Toubkal .
+* McGinnis, Jon & David C. Reisman (eds.), 2007, _Classical Arabic Philosophy: An Anthology of Sources_, Indianapolis: Hackett Publishing, pp. 54–120.
+* Najjar, Fauzi M. (ed.), 1964, _Al-Fârâbî’s The Political Regime_, with introduction & notes, Beirut: Imprimerie Catholique .
+* Neria, Cahim Meir, 2013, “Al-Fârâbî’s Lost Commentary on the Ethics: New Textual Evidence”, _Arabic Sciences and Philosophy_, 23(1): 69–99.
+* Rashed, Marwan, 2008, “Al-Fârâbî’s lost treatise _On changing beings_ and the possibility of a demonstration of the eternity of the world”, _Arabic Sciences and Philosophy_, 18(1): 19–58.
+* Sawa, George Dimitri, 2009, _Rhythmic Theories and Practices in Arabic Writings to 339 AH/950 CE : Annotated translations and commentaries_, Ottawa: The Institute of Mediaeval Music.
+* Sayili, Aydin, 1951, “Al-Farabi’s Article on Vacuum”, _Belleten_ (Turk Tarih Kurumu), 15: 151–74.
+* Walzer, Richard (ed. and trans.), 1985, _Al-Faradi on the Perfect State_, with introduction and commentary, Oxford: Oxford University Press.
+* Zimmerman, F.W., 1981, _Al-Farabi’s Commentary and Short Treatise on Aristotle’s “De interpretatione”_ (translation, introduction & notes), London: British Academy.
 
 #### Works by other authors
 
-* [Aristotle] Akasoy, A.A. & A. Fidora (eds.), 2005, *The Arabic Version of the “Nicomachean Ethics”* , with an English translation by D.M. Dunlop, Leiden: Brill.
-* [al-Kindî] Adamson, Peter and Peter E. Pormann (ed.), 2012, *The Philosophical Works of al-Kindi* (Studies in Islamic Philosophy), Karachi: Oxford University Press.
+* \[Aristotle] Akasoy, A.A. & A. Fidora (eds.), 2005, _The Arabic Version of the “Nicomachean Ethics”_ , with an English translation by D.M. Dunlop, Leiden: Brill.
+* \[al-Kindî] Adamson, Peter and Peter E. Pormann (ed.), 2012, _The Philosophical Works of al-Kindi_ (Studies in Islamic Philosophy), Karachi: Oxford University Press.
 
 ### Secondary Literature
 
-* Abed, Shukri B., 1991, *Aristotelian Logic and the Arabic Language in Alfârâbî*, Albany, NY: SUNY Press.
-* Adamson, Peter, 2006, “The Arabic Sea Battle: al-Fârâbî on the Problem of future Contingents”, *Archiv für Geschichte der Philosophie*, 88: 163–88.
-* –––, forthcoming, “Plotinus Arabus and Proclus Arabus in the Harmony of the Two Philosophers Attributed to al-Farabi,” in *Reading Proclus and the Book of Causes* (Volume II: Translations and Acculturations), Dragos Calma (ed.), Leiden: Brill.
-* Black, Deborah L., 1990, *Logic and Aristotle’s “Rhetoric” and “Poetics” in Medieval Arabic Philosophy*, Leiden: Brill.
-* Butterworth, Charles E., 2011, “Alfarabi’s Goal: Political Philosophy, Not Political Theology”, in *Islam, the State, and Political Authority: Medieval Issues and Modern Concerns*, Asma Afsaruddin (ed.), New York, NY: Palgrave McMillan US, pp. 53–74.
-* –––, 2013, “How to Read Alafarabi”, in *More Modoque: Festschrift for Miklós Maróth*, edited by P. Fodor et alii, Budapest: Research Centre for the Humanities of the Hungarian Academy of Sciences, pp. 33–41.
-* Chatti, Saloua, 2019, *Arabic Logic from al-Farabi to Averroes: A Study of the Early Arabic Categorical, Modal and Hypothetical Syllogistics*, Basel: Birkhhauser.
-* Cherni, Amor, 2015, *La cité et ses opinions: Politique et métaphysique chez Abû Nasr al-Fârâbî*, Paris: Albouraq.
-* Daiber, Hans, 1983, “Fârâbîs Abhandlung über das Vakuum: Quellen und Stellung in der islamischen Wissenschaftsgeschichte”, *Der Islam*, 60(1): 37–47.
-* Druart, Thérèse-Anne, 2007, “Al-Fârâbî, the categories, metaphysics, and *The Book of Letters*”, *Medioevo*, 32: 15–37.
-* –––, 2010, “Al-Fârâbî: An Arabic Account of the Origin of Language and of Philosophical Vocabulary”, *Proceedings of the American Catholic Philosophical Association*, 84: 1–17.
-* –––, 2017, “Al-Farabi on Intersubjectivity in This Life and Thereafter,” in *Promisa nec aspera currans*, Georgio Rahal & Heinz-Otto Luthe (eds.), Toulouse: Les Presses Universitaires, pp. 341–54.
-* –––, 2020, “What Does Music Have to Do with Language, Logic, and Rulership? Al-Farabi’s Answer,” in *The Origin and Nature of Language and Logic: Perspectives in Medieval Islamic, Jewish, and Christian Thought*, Nadja Germann & Steven Harvey (eds.), Turnhout: Brepols, pp. 193–210.
+* Abed, Shukri B., 1991, _Aristotelian Logic and the Arabic Language in Alfârâbî_, Albany, NY: SUNY Press.
+* Adamson, Peter, 2006, “The Arabic Sea Battle: al-Fârâbî on the Problem of future Contingents”, _Archiv für Geschichte der Philosophie_, 88: 163–88.
+* –––, forthcoming, “Plotinus Arabus and Proclus Arabus in the Harmony of the Two Philosophers Attributed to al-Farabi,” in _Reading Proclus and the Book of Causes_ (Volume II: Translations and Acculturations), Dragos Calma (ed.), Leiden: Brill.
+* Black, Deborah L., 1990, _Logic and Aristotle’s “Rhetoric” and “Poetics” in Medieval Arabic Philosophy_, Leiden: Brill.
+* Butterworth, Charles E., 2011, “Alfarabi’s Goal: Political Philosophy, Not Political Theology”, in _Islam, the State, and Political Authority: Medieval Issues and Modern Concerns_, Asma Afsaruddin (ed.), New York, NY: Palgrave McMillan US, pp. 53–74.
+* –––, 2013, “How to Read Alafarabi”, in _More Modoque: Festschrift for Miklós Maróth_, edited by P. Fodor et alii, Budapest: Research Centre for the Humanities of the Hungarian Academy of Sciences, pp. 33–41.
+* Chatti, Saloua, 2019, _Arabic Logic from al-Farabi to Averroes: A Study of the Early Arabic Categorical, Modal and Hypothetical Syllogistics_, Basel: Birkhhauser.
+* Cherni, Amor, 2015, _La cité et ses opinions: Politique et métaphysique chez Abû Nasr al-Fârâbî_, Paris: Albouraq.
+* Daiber, Hans, 1983, “Fârâbîs Abhandlung über das Vakuum: Quellen und Stellung in der islamischen Wissenschaftsgeschichte”, _Der Islam_, 60(1): 37–47.
+* Druart, Thérèse-Anne, 2007, “Al-Fârâbî, the categories, metaphysics, and _The Book of Letters_”, _Medioevo_, 32: 15–37.
+* –––, 2010, “Al-Fârâbî: An Arabic Account of the Origin of Language and of Philosophical Vocabulary”, _Proceedings of the American Catholic Philosophical Association_, 84: 1–17.
+* –––, 2017, “Al-Farabi on Intersubjectivity in This Life and Thereafter,” in _Promisa nec aspera currans_, Georgio Rahal & Heinz-Otto Luthe (eds.), Toulouse: Les Presses Universitaires, pp. 341–54.
+* –––, 2020, “What Does Music Have to Do with Language, Logic, and Rulership? Al-Farabi’s Answer,” in _The Origin and Nature of Language and Logic: Perspectives in Medieval Islamic, Jewish, and Christian Thought_, Nadja Germann & Steven Harvey (eds.), Turnhout: Brepols, pp. 193–210.
 * El-Fekkak, Badr, 2017, “Cosmic, Corporeal and Civil Regencies: al-Farabi’s anti-Galenic Defence of Hierarchical Cardiocentrism,” in Philosophy and Medicine in the Formative Period of Islam, Peter Adamson & Peter E. Pormann (eds.), London: The Warburg Institute, pp. 255–68.
-* Freudenthal, Gad, 1988, “La philosophie de la géométrie d’al-Fârâbî. Son commentaire sur le début du Ier et le début du Ve livre des *Éléments* d’Euclide”, *Jerusalem Studies in Arabic and Islam*, 11: 104–219.
-* Galston, Miriam, 2019, “The Origin of the Primary Principles: The Role of Nature and Experience,” in *The Pilgrimage of Philosophy*, Rene M. Paddags, Waseem El-Rayes & Gregory A. McGrayer (eds.), South Bend, IN: St. Augustine’s Press, pp. 114–35.
-* Genequand, Charles, 2012, “Théologie et philosophie. La providence chez al-Fârâbî et l’authenticité de l’*Harmonie des opinions des deux sages*”, *Mélanges de l’Université Saint-Joseph*, 64: 195–211.
-* –––, 2013, “Le Platon d’al-Fârâbî”, in *Lire les dialogues, mais lesquels et dans quel ordre? Définitions du corpus et interprétations de Platon*, A. Balansard & I. Koch (eds.), Sankt Augustin: Academia Verlag, pp. 105–15.
-* Germann, Nadja, 2015–16, “Imitation–Ambiguity–Discourse: Some Remarks on al–Farabi’s Philosophy of Language,” *Melanges de l’Universite Saint–Joseph*, 66: 135–66.
-* –––, 2015, “Logic as the Path to Happiness: Al-Farabi and the Divisions of the Sciences,” *Quaestio*, 15: 15–30.
-* Gutas, Dimitri, 2012 “Platon: Tradition arabe”, in *Dictionnaire des philosophes antiques*, vol. V-b, Richard Goulet (ed.), Paris: CNRS, pp. 854–63.
-* Jabbour, Jawdath, 2018, “La structure du Contre Galien de Farabi et son epitre sur la medicine,”* Documenti e Studi*, 29: 89–123.
-* Janos, Damien, 2012, *Method, Structure, and Development in al-Fârâbî’s Cosmology*, Leiden: Brill.
-* –––, 2017, “Al-Farabi’s (d. 950) On the One and Oneness: Some Preliminary Remarks on Its Structure, Contents, and Theological Implications,” in *The Oxford Handbook of Islamic Philosophy*, Khaled El-Rouayheb & Sabine Schmidtke (eds.), Oxford: Oxford University Press, pp. 101–28.
-* –––, 2019, “The Role of Developmentalism in the Study of Arabic Philosophy: Overview and Some Methodological Insights,” in *La Philosophie arabe a l’etude. Sens, limites et defis d’une discipline modern* (*Studying Arabic Philosophy: Meaning, Limits, and Challenges of a Modern Discipline*), Jean-Baptiste Brenet & Olga Lizzini (eds.), Paris: Vrin, pp. 113–78.
-* Karimullah, Kamran, 2014, “Alfarabi on Conditionals”, *Arabic Sciences and Philosophy*, 24(2): 211–67.
-* Kleven, Terrence F., 2013, “Alfarabi’s Commentary on Porphyry’s Isagoge (Kitab Isaguji),” *Schede Medievali*, 51: 41–52.
-* –––, 2019, “Alfarabi’s Account of Poetry as a Logical Art in A Treatise on the Cannons of the Art of Poetry,” in *The Pilgrimage of Philosophy*, Rene M. Paddags, Waseem El-Rayes & Gregory A. McGrayer (eds.), South Bend, IN: St. Augustine’s Press, pp. 136–52.
-* Lameer, Joep, 1994, *Al-Fârâbî &amp; Aristotelian Syllogistics: Greek Theory &amp; Islamic Practice*, Leiden: Brill.
-* Lettinck, Paul, 1994, *Aristotle’s Physics and its Reception in the Arabic World*, Leiden: Brill.
-* Madian, Azza Abd al-Hamid, 1992, *Language-music relationships in al-Fârâbî’s “Grand Book of Music”* , Ph.D. dissertation for Cornell University.
-* Mattila, Janne, 2017, “The Ethical Progression of the Philosopher in al-Razi and al-Farabi,” *Arabic Sciences and Philosophy*, 27(1): 115–37.
-* Menn, Stephen, 2008, “Al-Fârâbî’s *Kitâb al-Hurûf* and his analysis of the Senses of Being”, *Arabic Sciences and Philosophy*, 18(1): 59–97.
-* Orwin, Alexander, 2017, *Redifining the Muslim Community: Ethnicoity, Religion, and Politics in the Thought of Alfarabi*, Philadelphia: University of Pennsylvania Press.
-* Parens, Joshua, 1995, *Metaphysics as Rhetoric: Alfarabi’s “Summary of Plato’s ‘Laws’”* , Albany, NY: SUNY Press.
-* Rashed, Marwan, 2009, “On the Authorship of the Treatise *On the Harmonization of the Opinions of the Two Sages* Attributed to al-Fârâbî”, *Arabic Sciences &amp; Philosophy*, 19(1): 43–82.
-* –––, 2019, “Al-Farabi et le parachevement de l’Ethique a Nicomaque,” in *Ethike Theoria*, F. Masi, St. Maso & C. Viano (eds.), Rome: Edizioni di storia e letteratura, pp. 301–38.
-* Reisman, David C., 2004, “Plato’s *Republic* in Arabic: A Newly Discovered Passage”, *Arabic Sciences and Philosophy*, 14(2): 263–300.
-* Rudolph, Ulrich, 2017, “Abû Nasr al-Fârâbî”, in *Philosophy in the Islamic World,*  (Volume 1: *8th-–10th Centuries*), Ulrich Rudolph, Rotraud Hansberger & Peter Adamson (eds.), Leiden: Brill, pp. 526–654.
-* Shehadi, Fadlou, 1995, *Philosophies of Music in Medieval Islam*, Leiden: Brill.
-* Taylor, Richard C., 2006, “Abstraction in al-Fârâbî”, *Proceedings of the American Catholic Association*, 80: 151–68
-* –––, 2010, “The Agent Intellect as ”Form for Us“ and Averroes’s Critique of al-Fârâbî”, in *Universal Representation and the Ontology of Individuation*, Gyula Klima & Alexander W. Hall (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing , pp. 25–44.
-* Strobino, Riccardo, 2019, “Varieties of Demonstration in Alfarabi,” *History &amp; Philosophy of Logic*, 40(1): 22–41.
-* Thomann, Johannes, 2010–11, “Ein al-Fârâbî zugeschriebener Kommentar zum Almagest (Ms. Tehran Maglis 6531)”, *Zeitschrift für Geschichte der arabisch-islamischen Wissenschaften*, 19: 35–76.
-* Vallat, Philippe, 2004: *Farabi et l’École d’Alexandrie. Des prémisses de la connaissance à la philosophie politique*, Paris: Vrin.
-* –––, 2019a, “L’intellect selon Farabi. La transformation du connaitre en etre,” in *Noetique et theorie de la connaissance dans la philosophie arabe du IXe au XIIe siècle*, Meryem Sebti & Daniel De Smet (eds.), Paris: Vrin, pp. 211–41.
-* –––, 2019b, “Le Livre del’Un et de l’Unite de Farabi: l’invention persane de la doctrine des transcendantaux,” in *Commenter au Moyen Age*, Pascale Bermon & Isabelle Moulin, Paris: Vrin, pp. 211–41.
-* –––, 2019c, “L’esoterisme de Farabi explique par lui-meme: nature et fonctions,” in *La philosophie arabe a l’etude*, J.-B. Brent & O. Lizzini (eds.), Paris: Vrin, pp. 545–611.
-* Watt, John, 2008, “Al-Farabi and the History of the Syriac Organon”, in *Malphono w-Rabo d-Malphone* (Gorgias Eastern Christian Studies), George Anton Kiraz (ed.), Piscataway, NJ: Gorgias Press, pp. 751–78. Reprinted separately in 2009, (Analecta Gorgiana 129), Piscataway, NJ: Gorgias Press.
-* Woerther, Frederique, 2018, “Al-Farabi commentateur d’Aristote dans les Didascalia in Rethoricam Aristotelis ex glosa Alpharabii,” in *Commenting on Aristotle’s Rhetoric from Antiquity to the Present*, F. Woerther (ed.), Leiden: Brill, pp. 41–63.
-* Zonta, Mauro, 2006, “Al-Fârâbî’s *Long Commentary* on Aristotle’s *Categories* in Hebrew and Arabic. A Critical Edition and English Translation of the Newly-found Fragments”, in *Studies in Arabic and Islamic Culture, II*, B. Abrahamov (ed.), Ramat-Gan: Bar-Ilan University Press , pp. 185–254.
+* Freudenthal, Gad, 1988, “La philosophie de la géométrie d’al-Fârâbî. Son commentaire sur le début du Ier et le début du Ve livre des _Éléments_ d’Euclide”, _Jerusalem Studies in Arabic and Islam_, 11: 104–219.
+* Galston, Miriam, 2019, “The Origin of the Primary Principles: The Role of Nature and Experience,” in _The Pilgrimage of Philosophy_, Rene M. Paddags, Waseem El-Rayes & Gregory A. McGrayer (eds.), South Bend, IN: St. Augustine’s Press, pp. 114–35.
+* Genequand, Charles, 2012, “Théologie et philosophie. La providence chez al-Fârâbî et l’authenticité de l’_Harmonie des opinions des deux sages_”, _Mélanges de l’Université Saint-Joseph_, 64: 195–211.
+* –––, 2013, “Le Platon d’al-Fârâbî”, in _Lire les dialogues, mais lesquels et dans quel ordre? Définitions du corpus et interprétations de Platon_, A. Balansard & I. Koch (eds.), Sankt Augustin: Academia Verlag, pp. 105–15.
+* Germann, Nadja, 2015–16, “Imitation–Ambiguity–Discourse: Some Remarks on al–Farabi’s Philosophy of Language,” _Melanges de l’Universite Saint–Joseph_, 66: 135–66.
+* –––, 2015, “Logic as the Path to Happiness: Al-Farabi and the Divisions of the Sciences,” _Quaestio_, 15: 15–30.
+* Gutas, Dimitri, 2012 “Platon: Tradition arabe”, in _Dictionnaire des philosophes antiques_, vol. V-b, Richard Goulet (ed.), Paris: CNRS, pp. 854–63.
+* Jabbour, Jawdath, 2018, “La structure du Contre Galien de Farabi et son epitre sur la medicine,”\* Documenti e Studi\*, 29: 89–123.
+* Janos, Damien, 2012, _Method, Structure, and Development in al-Fârâbî’s Cosmology_, Leiden: Brill.
+* –––, 2017, “Al-Farabi’s (d. 950) On the One and Oneness: Some Preliminary Remarks on Its Structure, Contents, and Theological Implications,” in _The Oxford Handbook of Islamic Philosophy_, Khaled El-Rouayheb & Sabine Schmidtke (eds.), Oxford: Oxford University Press, pp. 101–28.
+* –––, 2019, “The Role of Developmentalism in the Study of Arabic Philosophy: Overview and Some Methodological Insights,” in _La Philosophie arabe a l’etude. Sens, limites et defis d’une discipline modern_ (_Studying Arabic Philosophy: Meaning, Limits, and Challenges of a Modern Discipline_), Jean-Baptiste Brenet & Olga Lizzini (eds.), Paris: Vrin, pp. 113–78.
+* Karimullah, Kamran, 2014, “Alfarabi on Conditionals”, _Arabic Sciences and Philosophy_, 24(2): 211–67.
+* Kleven, Terrence F., 2013, “Alfarabi’s Commentary on Porphyry’s Isagoge (Kitab Isaguji),” _Schede Medievali_, 51: 41–52.
+* –––, 2019, “Alfarabi’s Account of Poetry as a Logical Art in A Treatise on the Cannons of the Art of Poetry,” in _The Pilgrimage of Philosophy_, Rene M. Paddags, Waseem El-Rayes & Gregory A. McGrayer (eds.), South Bend, IN: St. Augustine’s Press, pp. 136–52.
+* Lameer, Joep, 1994, _Al-Fârâbî & Aristotelian Syllogistics: Greek Theory & Islamic Practice_, Leiden: Brill.
+* Lettinck, Paul, 1994, _Aristotle’s Physics and its Reception in the Arabic World_, Leiden: Brill.
+* Madian, Azza Abd al-Hamid, 1992, _Language-music relationships in al-Fârâbî’s “Grand Book of Music”_ , Ph.D. dissertation for Cornell University.
+* Mattila, Janne, 2017, “The Ethical Progression of the Philosopher in al-Razi and al-Farabi,” _Arabic Sciences and Philosophy_, 27(1): 115–37.
+* Menn, Stephen, 2008, “Al-Fârâbî’s _Kitâb al-Hurûf_ and his analysis of the Senses of Being”, _Arabic Sciences and Philosophy_, 18(1): 59–97.
+* Orwin, Alexander, 2017, _Redifining the Muslim Community: Ethnicoity, Religion, and Politics in the Thought of Alfarabi_, Philadelphia: University of Pennsylvania Press.
+* Parens, Joshua, 1995, _Metaphysics as Rhetoric: Alfarabi’s “Summary of Plato’s ‘Laws’”_ , Albany, NY: SUNY Press.
+* Rashed, Marwan, 2009, “On the Authorship of the Treatise _On the Harmonization of the Opinions of the Two Sages_ Attributed to al-Fârâbî”, _Arabic Sciences & Philosophy_, 19(1): 43–82.
+* –––, 2019, “Al-Farabi et le parachevement de l’Ethique a Nicomaque,” in _Ethike Theoria_, F. Masi, St. Maso & C. Viano (eds.), Rome: Edizioni di storia e letteratura, pp. 301–38.
+* Reisman, David C., 2004, “Plato’s _Republic_ in Arabic: A Newly Discovered Passage”, _Arabic Sciences and Philosophy_, 14(2): 263–300.
+* Rudolph, Ulrich, 2017, “Abû Nasr al-Fârâbî”, in _Philosophy in the Islamic World,_ (Volume 1: _8th-–10th Centuries_), Ulrich Rudolph, Rotraud Hansberger & Peter Adamson (eds.), Leiden: Brill, pp. 526–654.
+* Shehadi, Fadlou, 1995, _Philosophies of Music in Medieval Islam_, Leiden: Brill.
+* Taylor, Richard C., 2006, “Abstraction in al-Fârâbî”, _Proceedings of the American Catholic Association_, 80: 151–68
+* –––, 2010, “The Agent Intellect as ”Form for Us“ and Averroes’s Critique of al-Fârâbî”, in _Universal Representation and the Ontology of Individuation_, Gyula Klima & Alexander W. Hall (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing , pp. 25–44.
+* Strobino, Riccardo, 2019, “Varieties of Demonstration in Alfarabi,” _History & Philosophy of Logic_, 40(1): 22–41.
+* Thomann, Johannes, 2010–11, “Ein al-Fârâbî zugeschriebener Kommentar zum Almagest (Ms. Tehran Maglis 6531)”, _Zeitschrift für Geschichte der arabisch-islamischen Wissenschaften_, 19: 35–76.
+* Vallat, Philippe, 2004: _Farabi et l’École d’Alexandrie. Des prémisses de la connaissance à la philosophie politique_, Paris: Vrin.
+* –––, 2019a, “L’intellect selon Farabi. La transformation du connaitre en etre,” in _Noetique et theorie de la connaissance dans la philosophie arabe du IXe au XIIe siècle_, Meryem Sebti & Daniel De Smet (eds.), Paris: Vrin, pp. 211–41.
+* –––, 2019b, “Le Livre del’Un et de l’Unite de Farabi: l’invention persane de la doctrine des transcendantaux,” in _Commenter au Moyen Age_, Pascale Bermon & Isabelle Moulin, Paris: Vrin, pp. 211–41.
+* –––, 2019c, “L’esoterisme de Farabi explique par lui-meme: nature et fonctions,” in _La philosophie arabe a l’etude_, J.-B. Brent & O. Lizzini (eds.), Paris: Vrin, pp. 545–611.
+* Watt, John, 2008, “Al-Farabi and the History of the Syriac Organon”, in _Malphono w-Rabo d-Malphone_ (Gorgias Eastern Christian Studies), George Anton Kiraz (ed.), Piscataway, NJ: Gorgias Press, pp. 751–78. Reprinted separately in 2009, (Analecta Gorgiana 129), Piscataway, NJ: Gorgias Press.
+* Woerther, Frederique, 2018, “Al-Farabi commentateur d’Aristote dans les Didascalia in Rethoricam Aristotelis ex glosa Alpharabii,” in _Commenting on Aristotle’s Rhetoric from Antiquity to the Present_, F. Woerther (ed.), Leiden: Brill, pp. 41–63.
+* Zonta, Mauro, 2006, “Al-Fârâbî’s _Long Commentary_ on Aristotle’s _Categories_ in Hebrew and Arabic. A Critical Edition and English Translation of the Newly-found Fragments”, in _Studies in Arabic and Islamic Culture, II_, B. Abrahamov (ed.), Ramat-Gan: Bar-Ilan University Press , pp. 185–254.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-farabi).                                                     |
-> | -------------------------------------------------------------------- | ------------------------------------------------------- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/al-farabi/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/).                                             |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=al-farabi&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/al-farabi/) at [PhilPapers](http://philpapers.org/), with links to its database.                     |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-farabi).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/al-farabi/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=al-farabi\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/al-farabi/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
@@ -213,5 +213,4 @@ The following are listed by editors/translators:
 
 [al-Farabi: philosophy of society and religion](https://plato.stanford.edu/entries/al-farabi-soc-rel/) | [al-Farabi: psychology and epistemology](https://plato.stanford.edu/entries/al-farabi-psych/) | [Arabic and Islamic Philosophy, disciplines in: metaphysics](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/) | [music, philosophy of](https://plato.stanford.edu/entries/music/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by
-[Therese-Anne Druart](http://philosophy.cua.edu/faculty/druart/) <*[druart@cua.edu](mailto:druart%40cua%2eedu)*>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by [Therese-Anne Druart](http://philosophy.cua.edu/faculty/druart/) <[_druart@cua.edu_](mailto:druart%40cua%2eedu)>

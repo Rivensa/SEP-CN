@@ -1,16 +1,16 @@
 # 死后生命 afterlife (William Hasker and Charles Taliaferro)
 
-*首次发表于2005年12月26日；实质性修订于2023年2月27日*
+_首次发表于2005年12月26日；实质性修订于2023年2月27日_
 
 在许多哲学家的兴趣与各种人的兴趣之间，有一个重要且持久的交集，涉及到死亡的本质和意义。我们应该如何理解所有生物的必死性，更接近我们自己的死亡又该如何理解？人们是否有可能在生物死亡后存活？这是二十世纪分析哲学和大陆哲学都关注的一个主题（例如，弗雷德·费尔德曼、马丁·海德格尔）。当死亡这个话题在流行文化中被忽视或否认时，一些哲学家、神学家、社会和政治批评家会对忽视我们生活中最重要的事实之一的不真实安逸进行抨击（例如，苏伦·基尔凯郭尔的文章《在墓地旁》或厄内斯特·贝克尔1974年的著名著作《死亡的否认》）。但是死亡的确切事实是什么？一个人死亡时是否真的被消灭了，还是有可能甚至很可能在死亡后存活下来？从哲学角度来看，任何宗教对来世的构想是否有前景？
 
 本文分为五个部分。在第一部分中，我们提出对死亡和来世可能性的信仰之所以具有持久的重要性，是因为我们关心此时此地的人，因此也关心他们的未来和我们自己的未来。就像我们有理由希望我们所爱的人在此生有一个充实的未来一样，自然而然地会考虑这个生命是否是唯一的生命，如果有理由相信有来世（或者超越此生的生命），那么希望这可能涉及一个新的、有价值的环境，或者至少不是地狱般的环境，是合理的。我们还提出了其他一些理由，解释为什么来世的话题在哲学上是有趣的。在第二和第三部分中，我们考虑了在两种重要的心灵哲学观念——二元论（第二部分）和唯物主义（第三部分）的光线下，人们在死亡后是否存活的概念和可能性。第四部分从经验证据的角度讨论了来世。在第五部分，我们提出了一些理由，认为对来世的信仰的合理性取决于形而上学信念的合理性。
 
-* [1. 生存及其替代方案](https://plato.stanford.edu/entries/afterlife/#SurAlt) * [2. 生存的可能性-二元论](https://plato.stanford.edu/entries/afterlife/#PosSur) * [3. 对生存可能性的反对-唯物主义](https://plato.stanford.edu/entries/afterlife/#ObjPosSurMat) * [4. 超心理学和临死体验](https://plato.stanford.edu/entries/afterlife/#ParNeaDeaExp) * [5. 关于生存的形而上学考虑](https://plato.stanford.edu/entries/afterlife/#MetConConSur) * [参考文献](https://plato.stanford.edu/entries/afterlife/#Bib) * [学术工具](https://plato.stanford.edu/entries/afterlife/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/afterlife/#Oth) * [相关条目](https://plato.stanford.edu/entries/afterlife/#Rel)
+* [1. 生存及其替代方案](https://plato.stanford.edu/entries/afterlife/#SurAlt) \* [2. 生存的可能性-二元论](https://plato.stanford.edu/entries/afterlife/#PosSur) \* [3. 对生存可能性的反对-唯物主义](https://plato.stanford.edu/entries/afterlife/#ObjPosSurMat) \* [4. 超心理学和临死体验](https://plato.stanford.edu/entries/afterlife/#ParNeaDeaExp) \* [5. 关于生存的形而上学考虑](https://plato.stanford.edu/entries/afterlife/#MetConConSur) \* [参考文献](https://plato.stanford.edu/entries/afterlife/#Bib) \* [学术工具](https://plato.stanford.edu/entries/afterlife/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/afterlife/#Oth) \* [相关条目](https://plato.stanford.edu/entries/afterlife/#Rel)
 
----
+***
 
-## [1. 生存及其替代方案]()
+## [1. 生存及其替代方案](si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 
 在古代西方哲学中，柏拉图肯定了灵魂的前生和身体死后灵魂的持续存在。在柏拉图的《费多篇》中，苏格拉底提出了哲学家为什么应该欢迎死亡的理由（尽管不允许或鼓励自杀），因为死亡将使那些在此生中善良的灵魂得到解放，进入伟大的来世。另一方面，在埃比克泰德的著作中，死亡被认为是一个人停止存在。埃比克泰德并不主张我们应该欢迎死亡，但他认为我们不应该害怕死亡，因为死后我们将不存在。对于这些问题的哲学评估一直延续到现在，关于我们是否能够在死后存活的争论也在继续。为什么呢？
 
@@ -20,7 +20,7 @@
 
 > 假设我们参与了一个项目，帮助一个发展中国家的小社区摆脱债务，实现自给自足的食物。该项目取得了巨大的成功，村民们更健康、更幸福、接受了更好的教育，经济也更加安全，他们的孩子也更少。现在有人可能会说：“你做了什么好事？一千年后人们都会死去，他们的子孙也会死去，你所做的一切都不会有任何影响。”（Singer 1993: 274）
 
- 歌手回应：
+歌手回应：
 
 > 然而，我们不应该认为我们的努力是徒劳的，除非它们能够永远持续下去，甚至是很长一段时间。（1993年：274）
 
@@ -54,19 +54,19 @@ Nagel的评论（由Wielenberg引用）值得注意。他的评论表明，我�
 
 当我们转向问题，即是否有可能人死后继续存在时，自然而然地要从人类哲学的角度寻求答案。下一部分将从心灵-物质二元论的角度考虑生存问题。
 
-## [2. 生存的可能性——二元论]()
+## [2. 生存的可能性——二元论](si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 
 起初，二元论似乎是一种“有利于生存”的观点。如果我们仅仅是我们的身体，那么死亡摧毁了我们的身体，我们作为人就被摧毁了，没有任何留下的东西——尽管我们身体的一部分和构成它的粒子可能会散落，并且（暂时地）成为其他生物体的一部分。然而，如果我们是非物质（或非物质）的心灵、灵魂或人，我们是有身体的，那么即使我们的物理身体完全被消灭，也不意味着我们作为人的消亡。事实上，二元论的几个论证之一是基于我们在没有身体的情况下的可想象性。然而，如果二元论是真实的，这并不一定意味着人会在身体死亡后存活下来。可能我们对身体的功能依赖是如此重要，以至于只有当我们的身体达到一定的形成和构成时，我们才成为有身体的人，然后当这种形成和构成被摧毁时，我们就不再存在了。但是，至少二元论为我们声称我们对身体的依赖是偶然的（不是必然的）或者仅仅是根据当前的自然法则（这些法则可能被上帝违背）打开了大门。然而，对于存活的二元论解释已经受到了严重的质疑。
 
 一些哲学家认为，二元论对于无身体人的存活解释失败，因为我们没有“身份的标准”。当我们对人的身份做出判断时，我们并不是在对灵魂的身份做出判断。有人认为，我们无法对灵魂的身份做出判断，因为据说灵魂是无法感知和非空间的。正因为如此，一个人随着时间的推移的身份不能仅仅由灵魂的身份来构成。我们能够识别和重新识别的是一个人的身体。但是一旦人死亡，身体就会在坟墓中分解，不能成为我们识别那个据说存活下来的人的依据（Perry 1978: 6–18）。
 
-Hasker声称这个反对意见是混淆了两个完全不同的问题（Hasker 1989:208–09）。一个是形而上学问题：*说一个人在某个时间是同一个人*是什么意思？（或者，如果你愿意，可以问一个形而上学问题：在*t*​~1~时刻，*x*是不是与*t*​~2~时刻的*y*是同一个φ？）第二个是认识论问题：我们如何能够判断一个人在某个时间是同一个人？（或者我们如何能够判断在*t*​~1~时刻的*x*与*t*​~2~时刻的*y*是同一个φ？）没有区分这些问题（这种失败可能部分归因于维特根斯坦）是严重哲学混淆的根源。对于第一个问题的简短回答是，通常情况下，当我们知道一个φ是什么时，我们也知道在*t*​~1~时刻的φ是与在*t*​~2~时刻的φ是同一个个体φ。异常情况是那些在*t*​~1~时刻的φ发生了变化的情况，我们不确定这些变化是否导致了φ的破坏，或者φ被另一个对象替代，以至于同一个φ不可能一直存在到*t*​~2~时刻。经典的例子是忒修斯之船，^[^​^[1](https://plato.stanford.edu/entries/afterlife/notes.html#note-1)^​^]^ 但还有许多其他例子。在这种情况下，我们首先要做的是更准确地理解φ的概念——例如，我们对船的概念是否允许船的所有部分逐渐被替换，还是不允许？但有时可能没有明确的答案。毕竟，我们的概念是为了处理通常出现的情况而发展起来的，有时可能会发明场景（甚至在经验上发现它们），这些场景在我们对一个概念的普通使用中没有提供。在这种情况下，我们要么为自己提供涵盖新情况的标准（从而修改我们以前对φ的概念），要么承认我们提出的问题没有答案。
+Hasker声称这个反对意见是混淆了两个完全不同的问题（Hasker 1989:208–09）。一个是形而上学问题：_说一个人在某个时间是同一个人_是什么意思？（或者，如果你愿意，可以问一个形而上学问题：在_t_​~~1~~时刻，_x_是不是与_t_​~~2~~时刻的_y_是同一个φ？）第二个是认识论问题：我们如何能够判断一个人在某个时间是同一个人？（或者我们如何能够判断在_t_​~~1~~时刻的_x_与_t_​~~2~~时刻的_y_是同一个φ？）没有区分这些问题（这种失败可能部分归因于维特根斯坦）是严重哲学混淆的根源。对于第一个问题的简短回答是，通常情况下，当我们知道一个φ是什么时，我们也知道在_t_​~~1~~时刻的φ是与在_t_​~~2~~时刻的φ是同一个个体φ。异常情况是那些在_t_​~~1~~时刻的φ发生了变化的情况，我们不确定这些变化是否导致了φ的破坏，或者φ被另一个对象替代，以至于同一个φ不可能一直存在到_t_​~~2~~时刻。经典的例子是忒修斯之船，^\[^​^[1](https://plato.stanford.edu/entries/afterlife/notes.html#note-1)^​^]^ 但还有许多其他例子。在这种情况下，我们首先要做的是更准确地理解φ的概念——例如，我们对船的概念是否允许船的所有部分逐渐被替换，还是不允许？但有时可能没有明确的答案。毕竟，我们的概念是为了处理通常出现的情况而发展起来的，有时可能会发明场景（甚至在经验上发现它们），这些场景在我们对一个概念的普通使用中没有提供。在这种情况下，我们要么为自己提供涵盖新情况的标准（从而修改我们以前对φ的概念），要么承认我们提出的问题没有答案。
 
-当我们将这个问题提出来，涉及到非物质灵魂的持续性时，我们发现没有需要解决的问题。我们知道作为经验的主体是什么意思——作为一个思考、相信和渴望各种事物的存在，例如——*prima facie*至少这并不意味着必须有肉体，更不用说是在同一个身体中持续存在。如果我们用笛卡尔的术语来思考非物质灵魂，根本没有任何事情可以发生在这样的灵魂上（除非它不再由上帝维持存在），使得灵魂停止存在；笛卡尔的灵魂是“自然不朽的”。其他一些二元论观点可能不选择灵魂的自然不朽性，如果是这样，他们将需要对灵魂能够承受和不能承受的变化类型发表一些观点，以使其作为个体继续存在。但对于作为非物质灵魂的一般存活假设来说，这里没有问题（Hasker 1999: 206–11）。
+当我们将这个问题提出来，涉及到非物质灵魂的持续性时，我们发现没有需要解决的问题。我们知道作为经验的主体是什么意思——作为一个思考、相信和渴望各种事物的存在，例如——_prima facie_至少这并不意味着必须有肉体，更不用说是在同一个身体中持续存在。如果我们用笛卡尔的术语来思考非物质灵魂，根本没有任何事情可以发生在这样的灵魂上（除非它不再由上帝维持存在），使得灵魂停止存在；笛卡尔的灵魂是“自然不朽的”。其他一些二元论观点可能不选择灵魂的自然不朽性，如果是这样，他们将需要对灵魂能够承受和不能承受的变化类型发表一些观点，以使其作为个体继续存在。但对于作为非物质灵魂的一般存活假设来说，这里没有问题（Hasker 1999: 206–11）。
 
 在解决了形而上学问题之后，人们会发现认识论问题并不像表面看起来那么重要。我们如何在时间中重新辨认无形的灵魂？在正常情况下，我们通过重新辨认灵魂的具体化身来实现这一点，但这并非总是可能的：在至少DNA测试出现之前，争议身份的案件并不总能通过重新辨认身体来解决。有时，主体对事件的记忆是一个重要线索，虽然当然不是一个绝对可靠的线索。但是，有没有任何测试可以确定一个完全无体的主体的身份？显然，非具体化主体的身份问题对一些人来说是有意义的：那些请教灵媒的人肯定能理解这个问题，无论他们是与亲爱的已故的苏西姨妈交谈，还是与一个善于操纵的从业者交谈。但是，再次强调，一旦清楚了这里没有形而上学问题，认识论问题就纯粹是一个实际问题，只有在实践中需要进行此类鉴定时才需要回答。
 
-还值得注意的是，反对二元论的个体连续性的异议也可以用来反对物质主义的个体连续性。一种反对二元论的异议（可以追溯到康德）是，二元论者无法解释灵魂或非物质自我不断被不同的个体自我替换的可能性，（具有完整更新的"记忆"和心理特质），从而创造出自我连续性的*幻觉*。如果自我是非物质的，我们怎么会注意到这种连续替换？这可以称为未检测到（也许是无法检测的）灵魂转换的问题。这个异议面临许多障碍，其中一个是，如果我们在时间上不是相同的个体，我们将无法正确解释连续状态的经验（我们先听到大本钟响两次，然后再听到三次）。但更重要的是，从连续性的角度来看，物质身体每一纳秒都可以进行交换。如果交换（或破坏和创造）在瞬间完成（而不是一个间隔），就不会有持续时间，没有我们可以衡量的事件能够揭示这个转换。如果无法检测到的物质对象交换不是一个问题，那么无法检测到的灵魂转换也不应该是一个问题。
+还值得注意的是，反对二元论的个体连续性的异议也可以用来反对物质主义的个体连续性。一种反对二元论的异议（可以追溯到康德）是，二元论者无法解释灵魂或非物质自我不断被不同的个体自我替换的可能性，（具有完整更新的"记忆"和心理特质），从而创造出自我连续性的_幻觉_。如果自我是非物质的，我们怎么会注意到这种连续替换？这可以称为未检测到（也许是无法检测的）灵魂转换的问题。这个异议面临许多障碍，其中一个是，如果我们在时间上不是相同的个体，我们将无法正确解释连续状态的经验（我们先听到大本钟响两次，然后再听到三次）。但更重要的是，从连续性的角度来看，物质身体每一纳秒都可以进行交换。如果交换（或破坏和创造）在瞬间完成（而不是一个间隔），就不会有持续时间，没有我们可以衡量的事件能够揭示这个转换。如果无法检测到的物质对象交换不是一个问题，那么无法检测到的灵魂转换也不应该是一个问题。
 
 对于一个关于来世的二元论解释仍然可能存在异议，即使它认为无身体生存的想法在逻辑上并不矛盾，但我们对此并没有足够的理解，不能将其视为真正可能性。无论如何，这种生存到底意味着什么呢？当然，如果假设逝者的灵魂立即配备复活的身体，这个困难就大大减轻了。但是，如果无物质灵魂的概念要在哲学上发挥作用，我们需要能够思考这样一个灵魂独立存在的可能性。
 
@@ -76,9 +76,9 @@ H.H. Price（1953）在一篇有趣的文章中提出了这个挑战。Price详�
 
 认真考虑普莱斯对这一观点的发展的人将不得不承认，已经提出了一个足够清晰的描述无形存在可能是什么样子的帐户。（而对于一本更近期的论述我们实际世界是伯克利传统中的唯心主义的作品，请参见福斯特2007年。）我们不必像普莱斯（或福斯特）那样（似乎）假设这是已经死去的人的实际状态的一个合理的描述。如果他提供了一个能够清楚说明无形生存概念的可理解性的描述，那么信仰来世的人可以说：“如果不是以这种方式，那就以其他方式”。
 
-如果有理由认为心灵-身体二元论是真实的，那么就有理由认为一个人死后的生存在逻辑上是可能的。但是，二元论最近遇到了困境，并被广泛认为是不可信的。无论这是否合理，二元论无疑面临着一系列的反对意见，尽管这些反对意见不一定比唯物主义所面临的困难更严重（参见[二元论](https://plato.stanford.edu/entries/dualism/)条目，还有Koons和Bealer（编）2010年的著作）。关于二元论的正面案例，请参见Loose、Menuge和Moreland 2018年的《物质二元论黑威尔伴侣》。鉴于此，让我们也考虑一下在某种唯物主义形式下的生存可能性。^[^​^[2](https://plato.stanford.edu/entries/afterlife/notes.html#note-2)^​^]^
+如果有理由认为心灵-身体二元论是真实的，那么就有理由认为一个人死后的生存在逻辑上是可能的。但是，二元论最近遇到了困境，并被广泛认为是不可信的。无论这是否合理，二元论无疑面临着一系列的反对意见，尽管这些反对意见不一定比唯物主义所面临的困难更严重（参见[二元论](https://plato.stanford.edu/entries/dualism/)条目，还有Koons和Bealer（编）2010年的著作）。关于二元论的正面案例，请参见Loose、Menuge和Moreland 2018年的《物质二元论黑威尔伴侣》。鉴于此，让我们也考虑一下在某种唯物主义形式下的生存可能性。^\[^​^[2](https://plato.stanford.edu/entries/afterlife/notes.html#note-2)^​^]^
 
-## [3. 对生存可能性的反对意见——唯物主义]()
+## [3. 对生存可能性的反对意见——唯物主义](si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 
 对于唯物主义个体观，生存的前景如何？认为唯物主义并不对来世的前景产生敌意的一个可能原因是，从历史上看，主要神学传统中对来世的标准观点是涉及身体复活。虽然长期以来存在一种将信仰身体复活与二元论联系在一起的神学传统（库尔曼，1955年），但很多神学家和一些哲学家认为二元论是普拉托式的，是被引入神学传统中的（库尔曼，1955年），而了解来世的身体生活更符合希伯来、基督教和伊斯兰教对身体生活的强调。
 
@@ -86,15 +86,15 @@ H.H. Price（1953）在一篇有趣的文章中提出了这个挑战。Price详�
 
 毫无疑问，这里最受欢迎的唯物主义选择是“再创造”理论，根据这个理论，在一个人死后的某个时候，上帝通过创造一个具有与死去的身体完全相同特征的身体来重新创造这个人（Hick 1983: 125–26）。虽然在暴力死亡的情况下可能看起来相当可怕，但没有理由认为上帝不能纠正任何伤害并恢复身体的青春，等等。但是，这种再创造能否保留身份关系的必要性（你作为你的持续性是严格的而不是偶然的这个事实）？如果你被重新创造，重新创造中出现的“你”不能仅仅偶然地发生在你身上（好像其他人也可以扮演你的角色）。怀疑身份关系没有被保留的一个原因（这不仅仅是一个认识论问题）是，如果上帝能够创造一个与死去的身体完全相似的身体，为什么不能创造两个或更多个？对此的一个令人满意的答案不是说上帝，作为善良的存在，不会（也许不能）做这样的事情。在所讨论的观点中，复活所必需的仅仅是物质粒子以正确的方式排列，而且只有上帝才能做到这一点并不是一个必要的真理（也许一个非常聪明的流氓天使可以做到！）。通过要求死去身体中存在的相同粒子组成复活的身体来保证唯一性也是不可行的。一方面，身体在生命中无疑脱落了足够的粒子来组成几个身体，而且很难相信，在死亡前几秒钟，用身体脱落的一个原子替换死亡时存在的一个原子意味着我们有一个不同的身体（假设其他要求得到满足）。另一方面，只能使用死亡时身体中的粒子，存在已经被长期认可的关于这些粒子的可用性问题，这些粒子在几年内可能已经进入了大量其他人的身体。无论如何，有一种难以抑制的直觉，即重新组装，无论多么熟练地完成，最多只能产生一个复制品，而不是死去的身体的完全相同的身体。彼得·范·因瓦根提供了一个令人信服的例子：
 
-> 假设某个修道院声称他们拥有一份由圣奥古斯丁亲笔写的手稿。假设这个修道院的修士们进一步声称，这个手稿在457年被阿里乌斯派烧毁。我们立刻会想到问这个问题：我们能触摸的这个手稿怎么可能是在457年被烧毁的那个手稿。假设他们对这个问题的回答是，上帝在458年奇迹般地重新创造了奥古斯丁的手稿。我们对这个回答的反应应该是：它所描述的行为似乎是不可能的，即使是全能者的成就也是如此。上帝当然可以创造一个完美的原手稿的复制品，但它不会是那个手稿；它存在的最早时刻将是在奥古斯丁去世后；它永远不会知道他的手的印记；它在他活着的时候不是世界的一部分；等等。现在假设我们的修士们简单地断言，他们现在拥有的手稿确实知道奥古斯丁的手的印记；它确实是奥古斯丁活着时世界的一部分；当上帝重新创造或恢复它时，上帝（作为完成这个任务的一个不可或缺的组成部分）确保了上帝所产生的对象具有所有这些属性。[段落分隔符在1978年] > > 我们承认我们不知道如何对待这个。我们必须告诉修士们，我们不明白他们所相信的东西怎么可能是真的。（范·因瓦根1992: 242–43）
+> 假设某个修道院声称他们拥有一份由圣奥古斯丁亲笔写的手稿。假设这个修道院的修士们进一步声称，这个手稿在457年被阿里乌斯派烧毁。我们立刻会想到问这个问题：我们能触摸的这个手稿怎么可能是在457年被烧毁的那个手稿。假设他们对这个问题的回答是，上帝在458年奇迹般地重新创造了奥古斯丁的手稿。我们对这个回答的反应应该是：它所描述的行为似乎是不可能的，即使是全能者的成就也是如此。上帝当然可以创造一个完美的原手稿的复制品，但它不会是那个手稿；它存在的最早时刻将是在奥古斯丁去世后；它永远不会知道他的手的印记；它在他活着的时候不是世界的一部分；等等。现在假设我们的修士们简单地断言，他们现在拥有的手稿确实知道奥古斯丁的手的印记；它确实是奥古斯丁活着时世界的一部分；当上帝重新创造或恢复它时，上帝（作为完成这个任务的一个不可或缺的组成部分）确保了上帝所产生的对象具有所有这些属性。\[段落分隔符在1978年] > > 我们承认我们不知道如何对待这个。我们必须告诉修士们，我们不明白他们所相信的东西怎么可能是真的。（范·因瓦根1992: 242–43）
 
 鉴于对再创造观点的困难，人们试图寻找其他以唯物主义术语解释复活的方式。其中一个更有趣的方式是林恩·拉德·贝克（Lynne Rudder Baker）提出的人的构成观（Baker 2000, 2001, 2005）。在这种观点中，人不是与身体相同，而是由身体构成的。（她详细讨论了构成关系，但这些细节在这里并不相关。）人的独特之处在于“第一人称视角”，大致上是指能够将自己视为自己的能力。这种能力是人类所拥有的，但其他动物似乎缺乏，它是道德责任以及我们规划未来和执行许多其他独特个人活动和功能的重要组成部分。根据贝克的观点，构成观为避免再创造理论的困难开辟了道路。由于人不是与身体相同，因此不必坚持复活的身体与死去的身体是同一个身体。然而，所要求的是复活身体的第一人称视角是相同的：“如果一个人的第一人称视角被熄灭，那个人就会消失”（2005: 385）。因此，第一人称视角必须以某种方式从原始身体转移到复活身体：
 
-> 如果在*t*1时刻的人*P*1与在*t*2时刻的人*P*2具有相同的第一人称视角，那么*P*1和*P*2是同一个人。（2000: 132）
+> 如果在_t_1时刻的人_P_1与在_t_2时刻的人_P_2具有相同的第一人称视角，那么_P_1和_P_2是同一个人。（2000: 132）
 
 贝克认为，确实存在一个事实，即一个未来的人是否具有与我现在相同的第一人称视角，尽管没有“信息量大”的方式来指定两者之间的身份标准。
 
-尽管贝克的观点很有趣，但当我们更仔细地看第一人称视角的概念时，它似乎存在问题。可以说，要拥有第一人称视角，一个人必须是一个人。拥有第一人称视角意味着具备体验事物的能力；以有意识地行动、思考、说话等等。这些行为在不同的思考者和说话者中原则上可以在质上相同；区分它们的是进行思考或说话的*人*。换句话说，有意识的行为从执行它们的人那里获得其身份。但如果这对于行为本身是真实的，那么对于第一人称视角也是真实的，它们只是各种人执行这些行为的能力。因此，说*P*1和*P*2具有相同的第一人称视角就是说*P*1和*P*2是同一个人，而标准归结为一个重言式。遗憾的是，我们还没有得到任何帮助来理解一个人如何在拥有她的第一人称视角的情况下，先后占据一个身体和另一个身体。
+尽管贝克的观点很有趣，但当我们更仔细地看第一人称视角的概念时，它似乎存在问题。可以说，要拥有第一人称视角，一个人必须是一个人。拥有第一人称视角意味着具备体验事物的能力；以有意识地行动、思考、说话等等。这些行为在不同的思考者和说话者中原则上可以在质上相同；区分它们的是进行思考或说话的_人_。换句话说，有意识的行为从执行它们的人那里获得其身份。但如果这对于行为本身是真实的，那么对于第一人称视角也是真实的，它们只是各种人执行这些行为的能力。因此，说_P_1和_P_2具有相同的第一人称视角就是说_P_1和_P_2是同一个人，而标准归结为一个重言式。遗憾的是，我们还没有得到任何帮助来理解一个人如何在拥有她的第一人称视角的情况下，先后占据一个身体和另一个身体。
 
 另一个提议是由Kevin Corcoran（2005年）提出的。Corcoran和Baker一样，是一个宪法理论家，但与Baker不同的是，他不相信人可以从一个身体转移到另一个身体。Corcoran提出，一个复活的人的身体确实需要与他死亡时的身体相同。Corcoran提出了几个关于如何实现这一点的建议。这里要注意的一个是可以称之为“蛮力”解决方案：
 
@@ -108,13 +108,13 @@ H.H. Price（1953）在一篇有趣的文章中提出了这个挑战。Price详�
 
 因此，通过保存尸体（或者关键的身体部位，比如大脑），连续性得以保持，当复活的时刻到来时，上帝会使这具尸体恢复生命，人们的复活生活就可以开始了。公平地说，应该指出范·因瓦根最初提出这个建议只是为了证明唯物主义复活的逻辑可能性。在这方面，他可能成功了。但作为一个被认为代表上帝使人类再次活着的实际方式的建议，这个观点几乎没有什么可推荐的。在这个观点中，上帝扮演了当代人类冷冻技术的从业者的角色，保存死者的尸体，直到它被复活并恢复健康的时候。但对于实际的从业者来说，这是个坏消息，因为他们保存的“尸体”只是虚拟体，即使所有技术都完美运作，也无法复活。此外，使这个观点不可接受的特点——上帝“神秘地带走”了人体的关键部分，留下了一个仿真体——对于描绘一种可能的复活方式来说是必不可少的。在1992年附加的作者注释中，范·因瓦根写道：
 
-如果我今天要写一篇关于这个主题的论文，我不应该做出明确的陈述：“我认为这是这样一个存在能够实现它的*唯一*方式。”我现在倾向于认为可能还有其他方式，这些方式我甚至无法形成一个概念，因为我缺乏概念资源来做到这一点。（1992年：246）
+如果我今天要写一篇关于这个主题的论文，我不应该做出明确的陈述：“我认为这是这样一个存在能够实现它的_唯一_方式。”我现在倾向于认为可能还有其他方式，这些方式我甚至无法形成一个概念，因为我缺乏概念资源来做到这一点。（1992年：246）
 
-从唯物主义的角度来看，迪恩·齐默尔曼提出了一个更近期且非常巧妙的关于来世的解释。这个提议大致如下：在死亡的瞬间，一个人体内的每个基本粒子都会“分裂”，产生另一种相同类型的粒子。新产生的粒子会在一个复活的“空间”中占据其位置，成为一个复活的身体；与此同时，原始粒子仍然保持原位，成为尸体的一部分。由于是复活的身体而不是尸体继续了主体的生命，所以复活的身体而不是尸体是前死亡身体的“最接近的延续者”。因此，复活的身体而不是尸体才是与之前生活的那个身体相同的身体，个人身份得以保留。这个提议放弃了严格的（莱布尼茨式的）同一性，而采用了“最接近的延续者”理论。它还与范·因瓦根的解释有一个有趣的特点：剩下的尸体*不是与之前生活的那个身体相同*。（齐默尔曼1999年和2010年；哈斯克尔2011年）。关于齐默尔曼和范·因瓦根思想实验的批判性分析，请参见塔利亚费罗和克努斯2017年以及克努斯2018年。
+从唯物主义的角度来看，迪恩·齐默尔曼提出了一个更近期且非常巧妙的关于来世的解释。这个提议大致如下：在死亡的瞬间，一个人体内的每个基本粒子都会“分裂”，产生另一种相同类型的粒子。新产生的粒子会在一个复活的“空间”中占据其位置，成为一个复活的身体；与此同时，原始粒子仍然保持原位，成为尸体的一部分。由于是复活的身体而不是尸体继续了主体的生命，所以复活的身体而不是尸体是前死亡身体的“最接近的延续者”。因此，复活的身体而不是尸体才是与之前生活的那个身体相同的身体，个人身份得以保留。这个提议放弃了严格的（莱布尼茨式的）同一性，而采用了“最接近的延续者”理论。它还与范·因瓦根的解释有一个有趣的特点：剩下的尸体_不是与之前生活的那个身体相同_。（齐默尔曼1999年和2010年；哈斯克尔2011年）。关于齐默尔曼和范·因瓦根思想实验的批判性分析，请参见塔利亚费罗和克努斯2017年以及克努斯2018年。
 
 尚未有确凿的证据表明保持身份的唯物主义复活是不可能的，但正如上文所述，困难重重（Hasker 1999: 211–31）。看起来，拥护来世的人似乎更好地选择支持某种形式的心灵-身体二元论。本条目无法对二元论和唯物主义的比较优劣进行评估。然而，值得注意的是，近年来哲学界在某些领域对唯物主义观点所带来的困难有了更多的认识，并对不同（不一定是笛卡尔式的）形式的二元论产生了兴趣。（参见Koons＆Bealer（eds。）2010年；Batthyany＆Elitzur（eds。）2009年；Loose，Menuge＆Moreland 2018年；和Lofton 2017年。）即使是在二元论中，人与其身体是有偶然联系的，（在形而上学上，更难以争辩说已知身体的消亡意味着个体的消亡）。
 
-## [4.超心理学和临死体验]()
+## [4.超心理学和临死体验](si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 
 在20世纪逻辑实证主义鼎盛时期，有趣的是，莫里茨·施利克提出，其对经验验证的要求会使关于上帝的命题变得无意义，但只要涉及到有经验的主体，它不会排除关于死后生活的命题的无意义性。有趣的是，在上个世纪，一些最严格的唯物主义者，如威拉德·范·奥曼·奎因和保罗·丘奇兰，允许存在有关超心理能力甚至鬼魂的令人信服的经验证据的可能性。在本节中，让我们考虑一下是否有经验支持对来世的信仰。
 
@@ -134,7 +134,7 @@ H.H. Price（1953）在一篇有趣的文章中提出了这个挑战。Price详�
 
 另一方面，将NDE解释为对来世的真实启示，尽管在流行文学中很常见，但是极具问题。卡罗尔·扎莱斯基通过她对中世纪和现代NDE的比较研究表明，这些经历的许多特征在各种方式上都与文化期望相对应（扎莱斯基，1987年）。一个引人注目的例子是现代NDE中审判和诅咒所起的作用很小；与中世纪的情况不同，现代的生命回顾更强调治疗而不是判断。鉴于此，扎莱斯基将这些经历归因于宗教想象力，并坚持这样做会增强而不是减弱它们的重要性。关于现代NDE的跨文化不变性的主张也是有问题的。大部分研究是在基督教占主导地位的文化中进行的，但在其他文化中进行的研究揭示了明显不同的模式。一个有趣的差异出现在决定经历者是否返回到有身体的生活而不是留在来世的情节中。在西方的NDE中，通常会有一个“灵魂向导”告诉经历者，他或她应该返回生活更好。而在印度，经常会被告知在文件工作中发生了一次文书错误，所以他或她来到这个地方是错误的！（K.奥古斯丁，2008年，[其他互联网资源](https://plato.stanford.edu/entries/afterlife/#Oth)，请参阅“文化差异”部分）。
 
-这些经历的因果关系是有问题的。一些经历的方面是通过药物的使用有意诱发的（参见詹森，1997年）；这表明这样的现象可以通过对大脑的化学改变来产生，但在大多数NDE案例中，无法确定这样的化学原因。一些研究人员得出结论，NDE的触发原因仅仅是对死亡的感知接近。（NDE也被那些认为自己接近死亡但实际上并没有处于任何危险生命状况的人所经历（K.奥古斯丁，2008年，[其他互联网资源](https://plato.stanford.edu/entries/afterlife/#Oth)，请参阅Pam Reynolds部分）。）NDE的具体内容可以分为*平凡*内容，其中所经历的是或类似于普通世界的典型特征，以及*超越*内容，描绘了与普通经验世界完全不同的“另一个领域”。超越内容的来源是有问题的，尽管文化变异表明文化对来世的期望必须扮演重要角色。
+这些经历的因果关系是有问题的。一些经历的方面是通过药物的使用有意诱发的（参见詹森，1997年）；这表明这样的现象可以通过对大脑的化学改变来产生，但在大多数NDE案例中，无法确定这样的化学原因。一些研究人员得出结论，NDE的触发原因仅仅是对死亡的感知接近。（NDE也被那些认为自己接近死亡但实际上并没有处于任何危险生命状况的人所经历（K.奥古斯丁，2008年，[其他互联网资源](https://plato.stanford.edu/entries/afterlife/#Oth)，请参阅Pam Reynolds部分）。）NDE的具体内容可以分为_平凡_内容，其中所经历的是或类似于普通世界的典型特征，以及_超越_内容，描绘了与普通经验世界完全不同的“另一个领域”。超越内容的来源是有问题的，尽管文化变异表明文化对来世的期望必须扮演重要角色。
 
 最后，有一种被加里·哈贝马斯称为“证据性”的NDEs方面。这些现象，只要它们可以被验证，就会强烈表明发生了一些无法用普通自然解释来解释的事情。如果目标是得出一个客观令人信服的NDEs评估，这似乎是最有帮助的方向。如果事实证明可以客观地验证NDEs的某些超自然方面，完全自然主义的解释就可以排除，进一步探索经验意义的方式将会打开。另一方面，如果所有这些证据方面都可以用普通自然过程完全解释，那么NDEs声称揭示了任何形而上学上重要的东西的主张将会大大削弱。
 
@@ -144,13 +144,13 @@ NDEs的证据方面可以分为几个类别。首先，有一些离体感官体�
 
 其次，有关于感官体验的描述，准确地报告了在主体的心脏停止跳动期间发生的事件，甚至在“平坦脑电图”期间，即没有可检测到的脑活动的时候。最后，在NDE期间与已经去世的朋友和亲人的“意外相遇”中，主体在经历之前并不知道对方已经去世。在这里，关键问题是，主体是从哪里获得了对对方死亡的知识？如果可以排除普通的交流渠道，最自然的结论似乎是这种知识是从仍然活着的已故人士那里获得的。
 
-所有关于NDE的证据价值的主张都受到了质疑。其中最详尽的讨论之一是由Keith Augustine（[其他互联网资源](https://plato.stanford.edu/entries/afterlife/#Oth)，2008年）进行的，他引用了许多其他研究人员的工作。正如前面所提到的，有压倒性的证据表明NDE并不能提供一个关于来世条件的字面体验；这一点可以从不同时间和不同文化中这些经历的显著变化中得到证实。在这里还有一个相关的事实，即有时候类似的经历也会发生在错误地认为自己处于危险境地的人身上。显然，触发这些经历的是与死亡的*感知*的接近，而不是与来世的实际接近。与最近去世的人的相遇，在体验者意识到这些人的死亡之前是未知的情况下，就会变得不那么令人印象深刻了。这些仍然活着的人在NDE发生时有其他事情要忙；他们不可能真实地存在于被遇见的超自然领域中。而且考虑到仍然活着的人可以出现在NDE中，偶尔也会遇到最近去世但对体验者来说是未知的人，这就变得在统计上是可能的。
+所有关于NDE的证据价值的主张都受到了质疑。其中最详尽的讨论之一是由Keith Augustine（[其他互联网资源](https://plato.stanford.edu/entries/afterlife/#Oth)，2008年）进行的，他引用了许多其他研究人员的工作。正如前面所提到的，有压倒性的证据表明NDE并不能提供一个关于来世条件的字面体验；这一点可以从不同时间和不同文化中这些经历的显著变化中得到证实。在这里还有一个相关的事实，即有时候类似的经历也会发生在错误地认为自己处于危险境地的人身上。显然，触发这些经历的是与死亡的_感知_的接近，而不是与来世的实际接近。与最近去世的人的相遇，在体验者意识到这些人的死亡之前是未知的情况下，就会变得不那么令人印象深刻了。这些仍然活着的人在NDE发生时有其他事情要忙；他们不可能真实地存在于被遇见的超自然领域中。而且考虑到仍然活着的人可以出现在NDE中，偶尔也会遇到最近去世但对体验者来说是未知的人，这就变得在统计上是可能的。
 
 关于NDE发生在没有脑活动的时期的主张被反驳说，脑电图可能无法揭示脑内的所有活动。例如，功能性磁共振成像可以揭示脑电图所错过的活动。在脑活动确实停止的病人中，NDE可能发生在停止之前或者在正常脑活动恢复之后；不需要假设NDE和脑的非活动是同时发生的（“Living Persons”）。关于在NDE期间学到的其他不可得知的信息的主张，有多种可能的答案。首先要注意的是，经常报告的“信息”往往是不准确的（“Out-of-Body Discrepancies”）。在一些信息得到确认的情况下，我们可能在处理后续的增强，这是由于故事反复讲述的结果。（这不一定涉及故意欺骗；众所周知，经常重复的故事往往在讲述中获得新的有趣特点。）在其他情况下，有人认为这些信息实际上是通过普通的感官渠道获得的，通常是通过体验者在医疗程序中听到的话语，当时他们显然是无意识和无反应的。（有相当多的证据表明，“无意识”的人在显然对周围环境毫不知觉的情况下确实听到并记录了说过的话。）（“Veridical Paranormal Perception During OBEs?”）然而，值得注意的是，Augustine很少努力证明他的自然主义解释中引用的因素实际上在各种NDE案例中起作��。他似乎认为，证明的重担几乎完全落在那些声称NDE具有证据价值的人的肩上。
 
 关于这整个证据体系，无论是来自超心理学还是来自NDEs，我们可能接近了一个僵局。支持这些经历的证据价值的人会争辩说，已经提出的自然解释是不足够的，它们对经过充分证实的描述表现出过度的怀疑，并且在许多情况下是高度推测性的。拒绝这些现象的证据价值的人（包括一些信仰来世的人）会争辩说，证据不足以支持所提出的非凡主张，自然解释在整体上是有效的，并且对于最令人困惑的案例的完整解释需要详细了解事件和周围环境，而在许多情况下我们并没有这样的信息。进一步对个别案例进行仔细研究可能会带来一些进展的希望，但似乎不太可能解决根本性的分歧，特别是当不同的观点受到不同的世界观支持时。关于NDEs和超自然现象作为来世证据的深思熟虑的论述，请参阅Lund 2009（第二部分）。
 
-## [5.关于生存的形而上学考虑]()
+## [5.关于生存的形而上学考虑](si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 
 撇开这样的经验证据不谈，哪些一般的形而上学考虑与对生存的信仰相关？虽然一些哲学家试图边缘化形而上学（例如，参见Hadot 1995），但这种贬值的观点在许多哲学家看来是不足的（例如，参见Wynn 2020）。我们已经看到，唯物主义对人的解释产生了一些严重的障碍。正如范·因瓦根（van Inwagen）和其他人所主张的，上帝可以以与唯物主义心灵哲学一致的方式为人类带来来世。但在没有上帝的情况下，唯物主义、自然主义的世界观似乎对生存并不具有吸引力。正如前面所提到的，心灵-身体二元论将为生存的可能性提供一些支持，但二元论并不保证生存；关于灵魂的简单性和所谓的不可摧毁性的旧论点已经不再流行。正如康德所观察到的那样，一个“简单”的灵魂，即不能分解为其组成部分的灵魂，可能会逐渐消失直到完全消失。然而，通常没有得到足够的重视的是神论与对来世的信仰之间的紧密联系。问题不仅仅是神论宗教包含了许多人因为宗教背景而接受的对来世的信仰。这种联系更为紧密，并且在两个方向上都具有相当的力量。
 
@@ -166,7 +166,7 @@ NDEs的证据方面可以分为几个类别。首先，有一些离体感官体�
 
 传统上，佛教徒相信一个人的转世情况在很大程度上取决于他们的业力，也就是他们在这一生和前世所做的善恶行为。然而，这似乎需要存在一种像“程序”一样的东西，安排你的基因、你出生的家庭条件等，以与你过去行为的道德价值相对应（Collins 1999: 206）。
 
-对于诸神论者，比如许多（但不是所有）印度教徒，将一个人的生活环境微妙地安排与其业力相匹配可以看作是神的作为。只要我们承认神圣行动的可理解性，转世的“管理”原则上应该不会比其他神学解释更难接受。但在没有神学意义上的解释的情况下，“业力程序”是如何运作的，它是如何启动的呢？我们今天知道，通过古代印度教徒和佛教徒所不具备的手段，所谓的“自然”——即在自然科学中所知和研究的自然——根本不是这样运作的。自然法则是微妙而奇妙复杂的（尽管在某种程度上也是“简单”的），但很明显，它们不会按照人的道德价值或任何道德考虑来决定物理情况。我们可以说，自然法则不偏袒任何人，也不偏袒道德。相反，它们具有非人格化的特点，并且在许多情况下可以用远离贯穿人类存在的目的论的数学公式来表达。因此，如果印度传统所假设的“业力道德秩序”存在，那么它必须是与（就科学所能辨别的）统治世界物理过程的自然秩序截然不同的东西。然而，这两种秩序必须密切相关，因为据说最终是这些物理过程根据一个人的业力来安排。这样两个不同的宇宙秩序如此巧合地从无关的来源产生并相互结合是完全不可信的；因此，它们必须有一个共同的来源。如果自然秩序和业力秩序的共同来源是非人格化的，我们仍然需要一些解释，说明为什么它会产生这两种完全不同的宇宙秩序。这些问题似乎更容易回答，如果我们假设自然和道德秩序的共同来源是*个人*——也就是说，一个希望创造人类并希望提供一个稳定的自然秩序供他们生活和发挥各种能力的上帝。
+对于诸神论者，比如许多（但不是所有）印度教徒，将一个人的生活环境微妙地安排与其业力相匹配可以看作是神的作为。只要我们承认神圣行动的可理解性，转世的“管理”原则上应该不会比其他神学解释更难接受。但在没有神学意义上的解释的情况下，“业力程序”是如何运作的，它是如何启动的呢？我们今天知道，通过古代印度教徒和佛教徒所不具备的手段，所谓的“自然”——即在自然科学中所知和研究的自然——根本不是这样运作的。自然法则是微妙而奇妙复杂的（尽管在某种程度上也是“简单”的），但很明显，它们不会按照人的道德价值或任何道德考虑来决定物理情况。我们可以说，自然法则不偏袒任何人，也不偏袒道德。相反，它们具有非人格化的特点，并且在许多情况下可以用远离贯穿人类存在的目的论的数学公式来表达。因此，如果印度传统所假设的“业力道德秩序”存在，那么它必须是与（就科学所能辨别的）统治世界物理过程的自然秩序截然不同的东西。然而，这两种秩序必须密切相关，因为据说最终是这些物理过程根据一个人的业力来安排。这样两个不同的宇宙秩序如此巧合地从无关的来源产生并相互结合是完全不可信的；因此，它们必须有一个共同的来源。如果自然秩序和业力秩序的共同来源是非人格化的，我们仍然需要一些解释，说明为什么它会产生这两种完全不同的宇宙秩序。这些问题似乎更容易回答，如果我们假设自然和道德秩序的共同来源是_个人_——也就是说，一个希望创造人类并希望提供一个稳定的自然秩序供他们生活和发挥各种能力的上帝。
 
 这当然只是一个简略的论证草图，需要更多的空间来完整发展。我们提供上述推理线索作为一个例子，说明如何比较关于来世的替代解释的优劣。同时，我们也提出这一观点，即支持或反对来世的论据最好是在整体形而上学的背景下理解。为了进一步了解哲学对来世的思考如何受到形而上学考虑的指导，简要考虑一下所谓的欲望论证。毫无疑问，许多人强烈希望有来世，并且基本上完全出于这个原因而相信来世的存在。同样毫无疑问，大多数哲学家会认为这是一种典型的一厢情愿的思维方式。但这个结论过于仓促，实际上犯了乞求问题的谬误。确实，如果宇宙是自然主义的，那么许多人对来世的渴望并不构成任何来世存在的证据。人们可以探究这种渴望的原因，并且考虑到它的普遍存在，可能会对其可能的达尔文生存价值产生疑问。但在自然主义的假设下，这种渴望不会具有任何证据的重量。
 
@@ -176,88 +176,88 @@ NDEs的证据方面可以分为几个类别。首先，有一些离体感官体�
 
 关于来世的一些最近的哲学研究涉及到超越本文的问题。例如，如果有天堂，人（灵魂）是否会有自由意志？他们的生活会是动态的（受变化影响）还是静态的或不变的？天堂中的个体认知会是什么样子？天堂中会有痛苦吗？根据亚伯拉罕信仰的基本教义，是否有理由相信一些非人类动物享有来世？关于这些问题的有趣研究，请参阅Byerly＆Silverman（编辑）2017年的著作。
 
-## [Bibliography]()
+## [Bibliography](si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 
-* Bailey, Lee W. and Jenny Yates (eds.), 1996, *The Near Death Experience: A Reader*, New York: Routledge.
-* Baker, Lynne Rudder, 2000, *Persons and Bodies: A Constitution View*, Cambridge: Cambridge University Press.
-* –––, 2001, “Material Persons and the Doctrine of Resurrection”, *Faith and Philosophy*, 18 (2): 151–67.
-* –––, 2005, “Death and the Afterlife”, in William Wainwright (ed.), 2001, *The Oxford Handbook of Philosophy of Religion*, Oxford: Oxford University Press, pp. 366–91.
-* Batthyany, Alexander and Avshalom Elitzur (eds.), 2009, *Irreducibly Conscious: Selected Papers on Consciousness*, Heidelberg: Universitaetsverlag Winter.
-* Becker, Ernest, 1973, *The Denial of Death*, New York: The Free Press.
-* Blackmore, Susan, 1993, *Dying to Live*, Buffalo: Prometheus Books.
-* Blum, Deborah, 2006, *Ghost Hunters: William James and the Search for Scientific Proof of Life After Death*, New York: Penguin Press.
-* Braude, Stephen A., 2002, “The Problem of Super Psi”, in F. Steinkamp (ed.), 2002, *Parapsychology, Philosophy, and the Mind: Essays Honoring John Beloff*, London: McFarland and Company.
-* Broad, C.D., 1953, *Religion, Philosophy, and Psychical Research*, New York: Harcourt, Brace, and Company.
-* Byerly, T. Ryan and Eric J. Silverman (eds.), 2017, *Paradise Understood; New Philosophical Essays about Heaven*, Oxford: Oxford University Press.
-* Corcoran, Kevin, 2005, “The Constitution View of Persons”, in Joel B. Green and Stuart Palmer, eds., 2005, *In Search of the Soul: Four Views of the Mind-Body Problem*, Downers Grove: InterVarsity Press, pp. 153–76.
-* Collins, Robin, 1999, “Eastern Religions”, in Michael Murray (ed.), 1999, *Reason for the Hope Within*, Grand Rapids: Eerdmans, pp. 182–216.
-* Cullman, Oscar, 1955, “Immortality of the Soul or Resurrection of the Dead: The Witness of the New Testament”, in Krister Stendahl (ed.), 1965, *Immortality and Resurrection: Death in the Western World: Two Conflicting Currents of Thought*, New York: Macmillan, pp. 9–53.
-* Dworkin, Ronald, 2013, *Religion without God*, Cambridge: Harvard University Press.
-* Eddebo, Johan, 2017, *Death and the Self: A metaphysical investigation of the rationality of Afterlife Belief in the current Intellectual Climate*, Uppsala: University of Uppsala Press.
-* Foster, John, 2007, *A World For Us: The case for Phenomenalistic Idealism*, Oxford: Oxford University Press.
-* Gallup, G. and W. Proctor, 1982, *Adventures in immortality: a look beyond the threshold of death*. New York, McGraw Hill, pp. 198–200. “Have you, yourself, ever been on the verge of death or had a ‘close call’ which involved any unusual experience at that time?”. Nationally 15% responded “yes”.
-* Griffin, David Ray, 1997, *Parapsychology, Philosophy, and Spirituality: A Postmodern Exploration*. Albany, NY: SUNY Press.
-* Habermas, Gary R., 1996, “Near Death Experiences and the Evidence—A Review Essay”, *Christian Scholar’s Review*, 26(1): 78–85.
-* Hadot, Pierre, 1995, *Philosophy as a Way of Life*, Oxford: Blackwell.
-* Hartshorne, Charles, 1962, *The Logic of Perfection and Other Essays in Neoclassical Metaphysics*, La Salle, Ill.: Open Court.
-* Hasker, William, 1989, *God, Time and Knowledge*, Ithaca: Cornell University Press.
-* –––, 1999, *The Emergent Self*, Ithaca: Cornell University Press
-* –––, 2011, “Materialism and the Resurrection: Are the Prospects Improving?”, *European Journal for the Philosophy of Religion*, 3(1): 83–103.
-* Heim, Albert von st. Gallen, 1892, “Notizen über den Tod durch absturz”, *Jahrbuch des Schweizer Alpenclub*, 27: 327–37; translated, with an introduction, by Roy Kletti and Russell Noyes, Jr., “The Experiences of Dying from Falls”, *Omega*, 3 (1972): 45–52.
-* Hick, John, 1983, *Philosophy of Religion*, 3rd edition, Englewood Cliffs: Prentice-Hall.
-* Hick, John, 1976, *Death and Eternal Life*, New York: Harper & Row.
-* Jansen, K.L.R., 1997, “The ketamine model of the near-death experience: A central role for the N-methyl-D-aspartate receptor”, *Journal of Near-Death Studies*, 16: 5–26.
-* Kierkegaard, Søren, 1845, “At a Graveside”, Howard Hong and Edna Hong (trans.), *Three Discourses on Imagined Occasions*, Princeton: Princeton University Press, 1993, pp. 69–102.
-* Knine, David M., 2010, “Hindu Eschatology”, in *The Oxford Handbook of Eschatoloy*, Jerry Walls (ed.), Oxford: Oxford University Press, pp. 170–190.
-* Knuths, Elliot, 2018, “A Problem for Christian Materialism”, *The European Journal for Philosophy of Religion*, 10(3): 205–213. doi:10.24204/ejpr.v10i3.2631
-* Koons, Robert C. and George Bealer (eds.), 2010, *The Waning of Materialism*, Oxford: Oxford University Press.
-* Lofton, Keith, 2017, *Christian Physicalism? Philosophical theological criticism*, Anham, MD: Lexington Books.
-* Loose, Jonathan, Angus J.L. Menuge, and J.P. Moreland (eds.), 2018, *The Blackwell Companion to Substance Dualism*, Oxford: Wiley-Blackwell Publishers.
-* Lund, David, 2009, *Persons, Souls and Death*, London: McFarland & Company.
-* Martin, Michael and Keith Augustine (eds.), 2015, *The Myth of an Afterlife: The Case against Life after Death*, Anham, MD: Roman and Littlefield.
-* Mawson, T.J., 2019, “Does anything we do matter forever?” *Religious Studies*, 57(1): 83–100.
-* Mawson, T.J., 2020, “Why heaven doesn’t make earth absolutely meaningless, just relatively”, *Religious Studies*, 6: 1–20.
+* Bailey, Lee W. and Jenny Yates (eds.), 1996, _The Near Death Experience: A Reader_, New York: Routledge.
+* Baker, Lynne Rudder, 2000, _Persons and Bodies: A Constitution View_, Cambridge: Cambridge University Press.
+* –––, 2001, “Material Persons and the Doctrine of Resurrection”, _Faith and Philosophy_, 18 (2): 151–67.
+* –––, 2005, “Death and the Afterlife”, in William Wainwright (ed.), 2001, _The Oxford Handbook of Philosophy of Religion_, Oxford: Oxford University Press, pp. 366–91.
+* Batthyany, Alexander and Avshalom Elitzur (eds.), 2009, _Irreducibly Conscious: Selected Papers on Consciousness_, Heidelberg: Universitaetsverlag Winter.
+* Becker, Ernest, 1973, _The Denial of Death_, New York: The Free Press.
+* Blackmore, Susan, 1993, _Dying to Live_, Buffalo: Prometheus Books.
+* Blum, Deborah, 2006, _Ghost Hunters: William James and the Search for Scientific Proof of Life After Death_, New York: Penguin Press.
+* Braude, Stephen A., 2002, “The Problem of Super Psi”, in F. Steinkamp (ed.), 2002, _Parapsychology, Philosophy, and the Mind: Essays Honoring John Beloff_, London: McFarland and Company.
+* Broad, C.D., 1953, _Religion, Philosophy, and Psychical Research_, New York: Harcourt, Brace, and Company.
+* Byerly, T. Ryan and Eric J. Silverman (eds.), 2017, _Paradise Understood; New Philosophical Essays about Heaven_, Oxford: Oxford University Press.
+* Corcoran, Kevin, 2005, “The Constitution View of Persons”, in Joel B. Green and Stuart Palmer, eds., 2005, _In Search of the Soul: Four Views of the Mind-Body Problem_, Downers Grove: InterVarsity Press, pp. 153–76.
+* Collins, Robin, 1999, “Eastern Religions”, in Michael Murray (ed.), 1999, _Reason for the Hope Within_, Grand Rapids: Eerdmans, pp. 182–216.
+* Cullman, Oscar, 1955, “Immortality of the Soul or Resurrection of the Dead: The Witness of the New Testament”, in Krister Stendahl (ed.), 1965, _Immortality and Resurrection: Death in the Western World: Two Conflicting Currents of Thought_, New York: Macmillan, pp. 9–53.
+* Dworkin, Ronald, 2013, _Religion without God_, Cambridge: Harvard University Press.
+* Eddebo, Johan, 2017, _Death and the Self: A metaphysical investigation of the rationality of Afterlife Belief in the current Intellectual Climate_, Uppsala: University of Uppsala Press.
+* Foster, John, 2007, _A World For Us: The case for Phenomenalistic Idealism_, Oxford: Oxford University Press.
+* Gallup, G. and W. Proctor, 1982, _Adventures in immortality: a look beyond the threshold of death_. New York, McGraw Hill, pp. 198–200. “Have you, yourself, ever been on the verge of death or had a ‘close call’ which involved any unusual experience at that time?”. Nationally 15% responded “yes”.
+* Griffin, David Ray, 1997, _Parapsychology, Philosophy, and Spirituality: A Postmodern Exploration_. Albany, NY: SUNY Press.
+* Habermas, Gary R., 1996, “Near Death Experiences and the Evidence—A Review Essay”, _Christian Scholar’s Review_, 26(1): 78–85.
+* Hadot, Pierre, 1995, _Philosophy as a Way of Life_, Oxford: Blackwell.
+* Hartshorne, Charles, 1962, _The Logic of Perfection and Other Essays in Neoclassical Metaphysics_, La Salle, Ill.: Open Court.
+* Hasker, William, 1989, _God, Time and Knowledge_, Ithaca: Cornell University Press.
+* –––, 1999, _The Emergent Self_, Ithaca: Cornell University Press
+* –––, 2011, “Materialism and the Resurrection: Are the Prospects Improving?”, _European Journal for the Philosophy of Religion_, 3(1): 83–103.
+* Heim, Albert von st. Gallen, 1892, “Notizen über den Tod durch absturz”, _Jahrbuch des Schweizer Alpenclub_, 27: 327–37; translated, with an introduction, by Roy Kletti and Russell Noyes, Jr., “The Experiences of Dying from Falls”, _Omega_, 3 (1972): 45–52.
+* Hick, John, 1983, _Philosophy of Religion_, 3rd edition, Englewood Cliffs: Prentice-Hall.
+* Hick, John, 1976, _Death and Eternal Life_, New York: Harper & Row.
+* Jansen, K.L.R., 1997, “The ketamine model of the near-death experience: A central role for the N-methyl-D-aspartate receptor”, _Journal of Near-Death Studies_, 16: 5–26.
+* Kierkegaard, Søren, 1845, “At a Graveside”, Howard Hong and Edna Hong (trans.), _Three Discourses on Imagined Occasions_, Princeton: Princeton University Press, 1993, pp. 69–102.
+* Knine, David M., 2010, “Hindu Eschatology”, in _The Oxford Handbook of Eschatoloy_, Jerry Walls (ed.), Oxford: Oxford University Press, pp. 170–190.
+* Knuths, Elliot, 2018, “A Problem for Christian Materialism”, _The European Journal for Philosophy of Religion_, 10(3): 205–213. doi:10.24204/ejpr.v10i3.2631
+* Koons, Robert C. and George Bealer (eds.), 2010, _The Waning of Materialism_, Oxford: Oxford University Press.
+* Lofton, Keith, 2017, _Christian Physicalism? Philosophical theological criticism_, Anham, MD: Lexington Books.
+* Loose, Jonathan, Angus J.L. Menuge, and J.P. Moreland (eds.), 2018, _The Blackwell Companion to Substance Dualism_, Oxford: Wiley-Blackwell Publishers.
+* Lund, David, 2009, _Persons, Souls and Death_, London: McFarland & Company.
+* Martin, Michael and Keith Augustine (eds.), 2015, _The Myth of an Afterlife: The Case against Life after Death_, Anham, MD: Roman and Littlefield.
+* Mawson, T.J., 2019, “Does anything we do matter forever?” _Religious Studies_, 57(1): 83–100.
+* Mawson, T.J., 2020, “Why heaven doesn’t make earth absolutely meaningless, just relatively”, _Religious Studies_, 6: 1–20.
 * Merricks, Trenton, 2022, “Self and Identity; On Survial”, Oxford: Oxford University Press.
-* Moody, Raymond, 1975, *Life After Life*, New York: Bantam/Mockingbird.
-* Moreland, J. P. and Gary Habermas, 1998, *Beyond Death: Exploring the Evidence for Immortality*, Wheaton, IL: Crossway Books.
-* Nattier, Jan, 2010, “Buddhist Eschatology”, in *The Oxford Companion to Eschatology*, Jerry Walls (ed.), Oxford: Oxford University Press, pp. 151–169.
-* Nagasawa, Yujin and Benjamin Matheson (eds.), 2017, *The Palgrave Handbook of the Afterlife*, London: Palgrave Macmillan.
-* Noyes, R., 1972, “The experience of dying”, *Psychiatry*, 35: 174–184.
-* Parry, Robin and Christopher Partridge (eds.), 2003, *Universal Salvation? The Current Debate*, Carlisle, UK: Paternoster.
-* Perry, John, 1978, *A Dialogue on Personal Identity and Immortality*, Indianapolis: Hackett.
-* Potts, Michael, 2002, “The Evidential Value of Near-Death Experiences for Belief in Life after Death”, *Journal of Near-Death Studies*, 20(4): 233–258.
-* Price, H.H., 1953, “Survival and the Idea of ‘Another World’”, *Proceedings of the Society for Psychical Research*, 50 (182): 1–25; reprinted in John Hick (ed.), *Classical and Contemporary Readings in the Philosophy of Religion*, second edition, Englewood Cliffs: Prentice-Hall, 1970, pp. 370–93 (page references to Hick 1970).
-* Ring, Kenneth, 1980, *Life at Death: A Scientific Investigation of the Near-Death Experience*, New York: Coward, McCann, and Geoghegan.
-* Sabom, Michael, 1982, *Recollections of Death: A Medical Investigation*, New York: Harper and Row.
-* –––, 1998, *Light and Death: One Doctor’s Fascinating Account of Near-Death Experiences*, Grand Rapids, MI: Zondervan.
-* Scheffler, Samuel, 2016, *Death and the Afterlife*, Oxford: Oxford University Press.
-* Schlick, Moritz, 1936, “Meaning and Verification”, *The Philosophical Review*, 45: 339–369.
-* Singer, Peter, 1993, *How are we to live?*  New South Wales: Random House Australia.
-* Steinkamp, Fiona (ed.), 2002, *Parapsychology, Philosophy, and the Mind: Essays Honoring John Beloff*, London: McFarland and Company.
-* Taliaferro, Charles and Elliot Knuths, 2017, “Thought Experiments in Philosophy of Religion: The Virtues of phenomenological realism and values”, *Open Theology*, 3(1): 167–173.
-* van Inwagen, Peter, 1992 [1978], “The Possibility of Resurrection”, *International Journal for the Philosophy of Religion*, 9 (1978): 114–21; reprinted in Paul Edwards (ed.), *Immortality*, New York: Macmillan, 1992, pp. 242–46 (page references are to Edwards (ed.) 1992).
-* van Lommel, Pim, Ruud van Wees, Vincent Meyers, and Ingrid Elfferich, 2001, “Near-Death Experiences in Survivors of Cardiac Arrest: A Prospective Study in the Netherlands”. *Lancet*, 358 (9298): 2039–2045.
-* Walls, Jerry (ed.), 2010, *The Oxford Handbook to Eschatology*, Oxford: Oxford University Press.
-* Wielenberg, Erik J., 2013, “God and the Meaning of Life”, in Joshua W. Seachris (ed.), *Exploring the Meaning of Life: An Anthology and Guide*, Madden, MA: Wiley-Blackwell, pp. 335–352.
-* Wynn, Mark, 2020, *Spiritual Traditions and the Virtues*, Oxford: Oxford University Press.
-* Zaleski, Carol, 1987, *Otherworld Journeys: Accounts of Near-Death Experiences in Medieval and Modern Times*, New York: Oxford University Press.
-* Zimmerman, Dean A., 1999, “The Compatibility of Materialism and Survival: The ‘Falling Elevator’ Model”, *Faith and Philosophy*, 16(2): 194–212.
-* –––, 2010, “Bodily Resurrection: The Falling Elevator Model Revisited”, in George Gasser (ed.), *Personal Identity and Resurrection: How Do We Survive Our Death?*  Farnham, England: Ashgate Publishing, pp. 51–66.
+* Moody, Raymond, 1975, _Life After Life_, New York: Bantam/Mockingbird.
+* Moreland, J. P. and Gary Habermas, 1998, _Beyond Death: Exploring the Evidence for Immortality_, Wheaton, IL: Crossway Books.
+* Nattier, Jan, 2010, “Buddhist Eschatology”, in _The Oxford Companion to Eschatology_, Jerry Walls (ed.), Oxford: Oxford University Press, pp. 151–169.
+* Nagasawa, Yujin and Benjamin Matheson (eds.), 2017, _The Palgrave Handbook of the Afterlife_, London: Palgrave Macmillan.
+* Noyes, R., 1972, “The experience of dying”, _Psychiatry_, 35: 174–184.
+* Parry, Robin and Christopher Partridge (eds.), 2003, _Universal Salvation? The Current Debate_, Carlisle, UK: Paternoster.
+* Perry, John, 1978, _A Dialogue on Personal Identity and Immortality_, Indianapolis: Hackett.
+* Potts, Michael, 2002, “The Evidential Value of Near-Death Experiences for Belief in Life after Death”, _Journal of Near-Death Studies_, 20(4): 233–258.
+* Price, H.H., 1953, “Survival and the Idea of ‘Another World’”, _Proceedings of the Society for Psychical Research_, 50 (182): 1–25; reprinted in John Hick (ed.), _Classical and Contemporary Readings in the Philosophy of Religion_, second edition, Englewood Cliffs: Prentice-Hall, 1970, pp. 370–93 (page references to Hick 1970).
+* Ring, Kenneth, 1980, _Life at Death: A Scientific Investigation of the Near-Death Experience_, New York: Coward, McCann, and Geoghegan.
+* Sabom, Michael, 1982, _Recollections of Death: A Medical Investigation_, New York: Harper and Row.
+* –––, 1998, _Light and Death: One Doctor’s Fascinating Account of Near-Death Experiences_, Grand Rapids, MI: Zondervan.
+* Scheffler, Samuel, 2016, _Death and the Afterlife_, Oxford: Oxford University Press.
+* Schlick, Moritz, 1936, “Meaning and Verification”, _The Philosophical Review_, 45: 339–369.
+* Singer, Peter, 1993, _How are we to live?_ New South Wales: Random House Australia.
+* Steinkamp, Fiona (ed.), 2002, _Parapsychology, Philosophy, and the Mind: Essays Honoring John Beloff_, London: McFarland and Company.
+* Taliaferro, Charles and Elliot Knuths, 2017, “Thought Experiments in Philosophy of Religion: The Virtues of phenomenological realism and values”, _Open Theology_, 3(1): 167–173.
+* van Inwagen, Peter, 1992 \[1978], “The Possibility of Resurrection”, _International Journal for the Philosophy of Religion_, 9 (1978): 114–21; reprinted in Paul Edwards (ed.), _Immortality_, New York: Macmillan, 1992, pp. 242–46 (page references are to Edwards (ed.) 1992).
+* van Lommel, Pim, Ruud van Wees, Vincent Meyers, and Ingrid Elfferich, 2001, “Near-Death Experiences in Survivors of Cardiac Arrest: A Prospective Study in the Netherlands”. _Lancet_, 358 (9298): 2039–2045.
+* Walls, Jerry (ed.), 2010, _The Oxford Handbook to Eschatology_, Oxford: Oxford University Press.
+* Wielenberg, Erik J., 2013, “God and the Meaning of Life”, in Joshua W. Seachris (ed.), _Exploring the Meaning of Life: An Anthology and Guide_, Madden, MA: Wiley-Blackwell, pp. 335–352.
+* Wynn, Mark, 2020, _Spiritual Traditions and the Virtues_, Oxford: Oxford University Press.
+* Zaleski, Carol, 1987, _Otherworld Journeys: Accounts of Near-Death Experiences in Medieval and Modern Times_, New York: Oxford University Press.
+* Zimmerman, Dean A., 1999, “The Compatibility of Materialism and Survival: The ‘Falling Elevator’ Model”, _Faith and Philosophy_, 16(2): 194–212.
+* –––, 2010, “Bodily Resurrection: The Falling Elevator Model Revisited”, in George Gasser (ed.), _Personal Identity and Resurrection: How Do We Survive Our Death?_ Farnham, England: Ashgate Publishing, pp. 51–66.
 
-## [Academic Tools]()
+## [Academic Tools](si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=afterlife).                                                     |
-> | -------------------------------------------------------------------- | ------------------------------------------------------- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/afterlife/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/).                                             |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=afterlife&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/afterlife/) at [PhilPapers](http://philpapers.org/), with links to its database.                     |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=afterlife).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/afterlife/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=afterlife\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/afterlife/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
-## [Other Internet Resources]()
+## [Other Internet Resources](si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 
-* Augustine, Keith, 2008, [Hallucinatory Near-Death Experiences](http://www.infidels.org/library/modern/keith_augustine/HNDEs.html), extensive critical survey of the evidence concerning NDEs.
+* Augustine, Keith, 2008, [Hallucinatory Near-Death Experiences](http://www.infidels.org/library/modern/keith\_augustine/HNDEs.html), extensive critical survey of the evidence concerning NDEs.
 * [Near-Death Experience](http://www.skepdic.com/nde.html), a brief presentation of a skeptical view of NDEs.
 
-## [Related Entries]()
+## [Related Entries](si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 
 [death](https://plato.stanford.edu/entries/death/) | [dualism](https://plato.stanford.edu/entries/dualism/) | [heaven and hell in Christian thought](https://plato.stanford.edu/entries/heaven-hell/) | [mind: in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/) | [physicalism](https://plato.stanford.edu/entries/physicalism/) | [religion: philosophy of](https://plato.stanford.edu/entries/philosophy-religion/) | [soul, ancient theories of](https://plato.stanford.edu/entries/ancient-soul/)
 
@@ -265,6 +265,4 @@ NDEs的证据方面可以分为几个类别。首先，有一些离体感官体�
 
 The authors thank Meredith Varie and Samuel Benson for their assisting us in editing this entry.
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by
-[William Hasker](http://www.huntington.edu/philosophy/#faculty)
-Charles Taliaferro <*[taliafer@stolaf.edu](mailto:taliafer%40stolaf%2eedu)*>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by [William Hasker](http://www.huntington.edu/philosophy/#faculty) Charles Taliaferro <[_taliafer@stolaf.edu_](mailto:taliafer%40stolaf%2eedu)>

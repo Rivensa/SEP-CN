@@ -1,13 +1,14 @@
 # 逻辑代数的发展 algebra of logic tradition (Stanley Burris and Javier Legris)
-*首次发表于2009年3月2日；实质性修订于2021年2月12日*
 
-作为显示逻辑的基础数学结构的*逻辑代数*，是由乔治·布尔（1815-1864）在他的书籍《逻辑的数学分析》（1847年）中引入的一个*明确的*代数系统。因此，它与更一般的*代数逻辑*方法有所区别。布尔所开创的方法在19世纪得到了成功的延续，由威廉·斯坦利·杰文斯（1835-1882）、查尔斯·桑德斯·皮尔斯（1839-1914）、恩斯特·施罗德（1841-1902）等人的工作中继续发展，从而在（数学）逻辑中建立了一种传统。从布尔的第一本书开始，直到阿尔弗雷德·诺思·怀特海德（1861-1947）和伯特兰·罗素（1872-1970）在第一次世界大战后的影响下出版的巨著《数学原理》（1910-1913），逻辑代数的各种版本一直是最发达的数学逻辑形式，尤其是在施罗德的三卷本《逻辑代数讲义》（1890-1905）中所呈现的形式。此外，这一传统激发了莱奥波德·勒文海姆（1878-1957）的研究，最终催生了模型论。此外，1941年，阿尔弗雷德·塔斯基（1901-1983）在他的论文《关系演算》中回到了皮尔斯在施罗德的《逻辑代数》中所呈现的关系代数。逻辑代数的传统在“逻辑作为演算”概念与“逻辑作为通用语言”概念之间起到了关键作用。除了塔斯基的关系代数之外，逻辑代数传统的影响还可以在其他数学理论中找到，例如范畴论。然而，这种影响超出了本条目的范围，本条目分为10个部分。
+_首次发表于2009年3月2日；实质性修订于2021年2月12日_
 
-- [1. 引言](https://plato.stanford.edu/entries/algebra-logic-tradition/#Int) - [2. 1847年-现代逻辑代数的起步](https://plato.stanford.edu/entries/algebra-logic-tradition/#a184BegModVerAlgLog) - [3. 1854年-布尔关于他的逻辑代数的最终呈现](https://plato.stanford.edu/entries/algebra-logic-tradition/#a185FinPreHisAlgLog) - [4. 杰文斯：基于总操作的逻辑代数](https://plato.stanford.edu/entries/algebra-logic-tradition/#JevAlgLogBasTotOpe) - [5. 皮尔斯：基于包容的逻辑代数](https://plato.stanford.edu/entries/algebra-logic-tradition/#PeiBasAlgLogSub) - [6. 德摩根和皮尔斯：逻辑代数中的关系和量词](https://plato.stanford.edu/entries/algebra-logic-tradition/#DeMorPeiRelQuaAlgLog) - [7. 施罗德对逻辑代数的系统化](https://plato.stanford.edu/entries/algebra-logic-tradition/#SchSysAlgLog) - [8. 亨廷顿：逻辑代数的公理研究](https://plato.stanford.edu/entries/algebra-logic-tradition/#HunAxiInvAlgLog) - [9. 斯通：逻辑代数的模型](https://plato.stanford.edu/entries/algebra-logic-tradition/#StoModForAlgLog) - [10. 斯科勒姆：量词消除和可决定性](https://plato.stanford.edu/entries/algebra-logic-tradition/#SkoQuaEliDec) - [11. 塔斯基与代数逻辑的复兴](https://plato.stanford.edu/entries/algebra-logic-tradition/#TarRevAlgLog) - [参考文献](https://plato.stanford.edu/entries/algebra-logic-tradition/#Bib) - [主要来源](https://plato.stanford.edu/entries/algebra-logic-tradition/#PriSou) - [次要来源](https://plato.stanford.edu/entries/algebra-logic-tradition/#SecSou) - [学术工具](https://plato.stanford.edu/entries/algebra-logic-tradition/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/algebra-logic-tradition/#Oth) - [相关条目](https://plato.stanford.edu/entries/algebra-logic-tradition/#Rel)
+作为显示逻辑的基础数学结构的_逻辑代数_，是由乔治·布尔（1815-1864）在他的书籍《逻辑的数学分析》（1847年）中引入的一个_明确的_代数系统。因此，它与更一般的_代数逻辑_方法有所区别。布尔所开创的方法在19世纪得到了成功的延续，由威廉·斯坦利·杰文斯（1835-1882）、查尔斯·桑德斯·皮尔斯（1839-1914）、恩斯特·施罗德（1841-1902）等人的工作中继续发展，从而在（数学）逻辑中建立了一种传统。从布尔的第一本书开始，直到阿尔弗雷德·诺思·怀特海德（1861-1947）和伯特兰·罗素（1872-1970）在第一次世界大战后的影响下出版的巨著《数学原理》（1910-1913），逻辑代数的各种版本一直是最发达的数学逻辑形式，尤其是在施罗德的三卷本《逻辑代数讲义》（1890-1905）中所呈现的形式。此外，这一传统激发了莱奥波德·勒文海姆（1878-1957）的研究，最终催生了模型论。此外，1941年，阿尔弗雷德·塔斯基（1901-1983）在他的论文《关系演算》中回到了皮尔斯在施罗德的《逻辑代数》中所呈现的关系代数。逻辑代数的传统在“逻辑作为演算”概念与“逻辑作为通用语言”概念之间起到了关键作用。除了塔斯基的关系代数之外，逻辑代数传统的影响还可以在其他数学理论中找到，例如范畴论。然而，这种影响超出了本条目的范围，本条目分为10个部分。
 
----
+* [1. 引言](https://plato.stanford.edu/entries/algebra-logic-tradition/#Int) - [2. 1847年-现代逻辑代数的起步](https://plato.stanford.edu/entries/algebra-logic-tradition/#a184BegModVerAlgLog) - [3. 1854年-布尔关于他的逻辑代数的最终呈现](https://plato.stanford.edu/entries/algebra-logic-tradition/#a185FinPreHisAlgLog) - [4. 杰文斯：基于总操作的逻辑代数](https://plato.stanford.edu/entries/algebra-logic-tradition/#JevAlgLogBasTotOpe) - [5. 皮尔斯：基于包容的逻辑代数](https://plato.stanford.edu/entries/algebra-logic-tradition/#PeiBasAlgLogSub) - [6. 德摩根和皮尔斯：逻辑代数中的关系和量词](https://plato.stanford.edu/entries/algebra-logic-tradition/#DeMorPeiRelQuaAlgLog) - [7. 施罗德对逻辑代数的系统化](https://plato.stanford.edu/entries/algebra-logic-tradition/#SchSysAlgLog) - [8. 亨廷顿：逻辑代数的公理研究](https://plato.stanford.edu/entries/algebra-logic-tradition/#HunAxiInvAlgLog) - [9. 斯通：逻辑代数的模型](https://plato.stanford.edu/entries/algebra-logic-tradition/#StoModForAlgLog) - [10. 斯科勒姆：量词消除和可决定性](https://plato.stanford.edu/entries/algebra-logic-tradition/#SkoQuaEliDec) - [11. 塔斯基与代数逻辑的复兴](https://plato.stanford.edu/entries/algebra-logic-tradition/#TarRevAlgLog) - [参考文献](https://plato.stanford.edu/entries/algebra-logic-tradition/#Bib) - [主要来源](https://plato.stanford.edu/entries/algebra-logic-tradition/#PriSou) - [次要来源](https://plato.stanford.edu/entries/algebra-logic-tradition/#SecSou) - [学术工具](https://plato.stanford.edu/entries/algebra-logic-tradition/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/algebra-logic-tradition/#Oth) - [相关条目](https://plato.stanford.edu/entries/algebra-logic-tradition/#Rel)
 
- ## 1. 简介
+***
+
+&#x20;\## 1. 简介
 
 布尔的《逻辑数学分析》中介绍了许多有趣的逻辑创新：它标志着19世纪逻辑的数学化起步，并通过对传统逻辑的一些微小修改，提供了一种算法性的替代方法（即使后者中也有简化过程）。它不是基于有效的推理形式的列表，而是根据一般原则和规则来确定论证的有效性。此外，它提供了一种在公设系统上证明逻辑法则的有效方法。正如布尔后来所写，它是一门正确的“推理科学”，而不是传统修辞学（布尔1997：136）。在本书完成对三段论逻辑的讨论后的四分之三时，布尔开始开发通用工具，这些工具将在他的《思维法则》（1854）中被广泛应用，以允许一个论证有多个前提并涉及多个类别。为了处理这种扩展逻辑中可能的无限多个逻辑论证，他提出了一些定理，为算法分析提供了关键工具（目录已不再可行）。
 
@@ -15,9 +16,9 @@
 
 这种方法与通常所称的“代数逻辑”不同；尽管存在一些重叠，但这两个领域的历史发展是不同的。代数逻辑被理解为：
 
-*一种逻辑风格*，其中概念和关系通过数学符号来表达[...] 以便可以应用数学技术。在这里，数学主要指代数学，即与某个集合上的有限操作有关的数学部分。（Hailperin 2004: 323）
+_一种逻辑风格_，其中概念和关系通过数学符号来表达\[...] 以便可以应用数学技术。在这里，数学主要指代数学，即与某个集合上的有限操作有关的数学部分。（Hailperin 2004: 323）
 
-代数逻辑已经可以在莱布尼兹、雅各布·伯努利和其他现代思想家的作品中找到，它无疑构成了布尔方法的重要前身。从更广泛的视角来看，两者都是形式科学中*符号知识*传统的一部分，这个传统最初由莱布尼兹构思（参见Esquisabel 2012）。这种代数逻辑的思想在法国启蒙时期在康迪亚克和孔多塞的作品中得到了一定程度的延续（参见Grattan-Guinness 2000: 14 ff.）。
+代数逻辑已经可以在莱布尼兹、雅各布·伯努利和其他现代思想家的作品中找到，它无疑构成了布尔方法的重要前身。从更广泛的视角来看，两者都是形式科学中_符号知识_传统的一部分，这个传统最初由莱布尼兹构思（参见Esquisabel 2012）。这种代数逻辑的思想在法国启蒙时期在康迪亚克和孔多塞的作品中得到了一定程度的延续（参见Grattan-Guinness 2000: 14 ff.）。
 
 布尔处理逻辑问题的方法可以描述如下：
 
@@ -41,7 +42,7 @@
 
 布尔从完全不同的角度来看待逻辑，即如何将亚里士多德逻辑转化为符号代数的形式。使用符号代数是他在微分方程研究中熟悉的主题，也是他年轻朋友和导师邓肯·法夸尔森·格雷戈里（1813-1844）的各种论文中的尝试，他试图将几何等其他学科转化为符号代数的语言。由于将符号代数应用于微分方程是通过引入微分算子进行的，所以布尔自然会寻找适用于亚里士多德逻辑领域的算子。他很快想到了使用“选择”算子的想法，例如，红色的选择算子将从一个类中选择红色成员。在他的1854年的书中，布尔意识到省略选择算子并直接使用类更为简单。（然而，他保留了选择算子，以证明他的逻辑法则并不是最终基于对语言使用的观察，而是深深扎根于人类思维的过程。）从现在开始，在本文讨论布尔的1847年的书时，选择算子已被更简单的直接表述使用类的方式取代。
 
-由于符号代数只是普通代数的句法方面，布尔需要找到解释代数的常规运算和常数的方法，以创建他的逻辑代数。乘法被解释为交集，导致了他的一个新法则，幂等律 XX=X ，这是莱布尼兹已经提出的一个逻辑法则。加法被定义为并集，前提是处理的是*不相交*的类；减法被定义为类的差集，前提是从一个类中减去一个子类。在其他情况下，加法和减法运算是未定义的，或者如布尔所写的，*无法解释的*。算术的通常法则告诉布尔，1必须是全集，而 1−X 必须是 X 的补集。
+由于符号代数只是普通代数的句法方面，布尔需要找到解释代数的常规运算和常数的方法，以创建他的逻辑代数。乘法被解释为交集，导致了他的一个新法则，幂等律 XX=X ，这是莱布尼兹已经提出的一个逻辑法则。加法被定义为并集，前提是处理的是_不相交_的类；减法被定义为类的差集，前提是从一个类中减去一个子类。在其他情况下，加法和减法运算是未定义的，或者如布尔所写的，_无法解释的_。算术的通常法则告诉布尔，1必须是全集，而 1−X 必须是 X 的补集。
 
 布尔系统的下一步是将四种范畴命题翻译成方程，例如“所有的X都是Y”变成了X=XY，而“一些X是Y”变成了V=XY，其中V是一个新的符号。为了消除三段论中的中项，布尔从普通代数中借用了一个消除定理，但对于他的逻辑代数来说，这个定理太弱了。这个问题在他1854年的书中得到了解决。布尔发现，他不能总是通过上述特定命题的翻译（即具有存在意义的命题）推导出所需的结论，因此他添加了变体X=VY，Y=VX和VX=VY（参见[布尔](https://plato.stanford.edu/entries/boole/)条目）。
 
@@ -79,19 +80,19 @@
 
 杰文斯用总运算取代了布尔的基本运算，并在多年的时间里致力于他的系统的公理和规则。我们现在认为理所当然的一些等式逻辑元素，杰文斯花了很多年才解决：
 
-*反身律*（A=A）。1864年，杰文斯将其列为一个公设（1890年，第11页），然后在第24节中将A=A称为“无用的同一命题”。在他1869年关于替代的论文中，它成为了“同一律”。在《科学原理》（1874年）中，它是三个“思维基本定律”之一。
+_反身律_（A=A）。1864年，杰文斯将其列为一个公设（1890年，第11页），然后在第24节中将A=A称为“无用的同一命题”。在他1869年关于替代的论文中，它成为了“同一律”。在《科学原理》（1874年）中，它是三个“思维基本定律”之一。
 
-*对称律*（B=A推导自A=B）。1864年，杰文斯写道“A=B和B=A是同一命题”。这是他坚持的立场。1874年，他写道
+_对称律_（B=A推导自A=B）。1864年，杰文斯写道“A=B和B=A是同一命题”。这是他坚持的立场。1874年，他写道
 
 我将考虑两种形式A=B和B=A，它们表达了完全相同的身份，只是以不同的方式书写。
 
 对于他的逻辑代数的最终形式，我们转向他在《科学原理》（1874年）中分散在40页上的定律，他用⋅∣⋅取代了之前使用的+，显然是为了进一步远离与数字代数的任何联系
 
- 组合法则
+&#x20;组合法则
 
-AABA⋅∣⋅AA⋅∣⋅BA(B⋅∣⋅C)=AA=AAA=&c=BA=A=B⋅∣⋅A=AB⋅∣⋅AC简易法则（第33页）交换律（第35页）统一法则（第72页）交换律（第72页）（未给出名称）（第76页）
+AABA⋅∣⋅AA⋅∣⋅BA(B⋅∣⋅C)=AA=AAA=\&c=BA=A=B⋅∣⋅A=AB⋅∣⋅AC简易法则（第33页）交换律（第35页）统一法则（第72页）交换律（第72页）（未给出名称）（第76页）
 
- 思维定律
+&#x20;思维定律
 
 AAaA=A=o=AB⋅∣⋅Ab同一律（第74页）矛盾律（第74页）对偶律（第74页）
 
@@ -111,7 +112,7 @@ AAaA=A=o=AB⋅∣⋅Ab同一律（第74页）矛盾律（第74页）对偶律（
 
 在德摩根的论文之后，皮尔斯在他的1870年的论文《关系逻辑符号的描述，源于布尔逻辑演算法概念的扩展》中，将布尔的工作推广到了二元关系的领域——在二元关系中，除了并、交和补之外，还有组合和逆的自然运算。二元关系被定义为一组有序对（见3.328）。他在1870年至1883年间致力于这个新的演算法。与德摩根一样，皮尔斯还考虑了许多其他关系的自然运算。皮尔斯在这个主题上的主要论文是《关于逻辑代数》（1880年）。通过使用无限制的并集（用Σ表示）和无限制的交集（用Π表示），皮尔斯在他的逻辑代数中引入了量词。
 
-在1882年的一篇论文《关系代数的简要描述》中，重新印刷于德摩根1966年的著作中，他使用这些量词通过对某种系数的操作来定义关系的操作。德摩根因引入关系的概念而受到赞誉，但皮尔斯被认为是关系理论的真正创造者（参见，例如，塔斯基1941年：73）。然而，皮尔斯并没有发展这个理论。正如卡利克斯托·巴德萨所写的那样，“关系的演算从来不是皮尔斯所喜欢的”（巴德萨2004年：32）。他认为由于类操作与关系操作的结合，它过于复杂。相反，他从1885年开始更喜欢发展一个包括量词但不包括关系操作的“一般代数”。通过这种方式，他得到了现在称为一阶逻辑的基础和非正式的表达（参见巴德萨2004年，*loc. cit.*）。
+在1882年的一篇论文《关系代数的简要描述》中，重新印刷于德摩根1966年的著作中，他使用这些量词通过对某种系数的操作来定义关系的操作。德摩根因引入关系的概念而受到赞誉，但皮尔斯被认为是关系理论的真正创造者（参见，例如，塔斯基1941年：73）。然而，皮尔斯并没有发展这个理论。正如卡利克斯托·巴德萨所写的那样，“关系的演算从来不是皮尔斯所喜欢的”（巴德萨2004年：32）。他认为由于类操作与关系操作的结合，它过于复杂。相反，他从1885年开始更喜欢发展一个包括量词但不包括关系操作的“一般代数”。通过这种方式，他得到了现在称为一阶逻辑的基础和非正式的表达（参见巴德萨2004年，_loc. cit._）。
 
 ## 7. 施罗德对逻辑代数的系统化
 
@@ -127,7 +128,7 @@ AAaA=A=o=AB⋅∣⋅Ab同一律（第74页）矛盾律（第74页）对偶律（
 
 受Peirce的工作的主要启发，Schröder在他的《逻辑代数讲义》第三卷中研究了二元关系的逻辑代数。正如Tarski曾指出的那样，Peirce的工作在Schröder那里得到了非常全面和系统的延续和扩展。对他来说，一个特别迷人的问题是：在这个代数中给定一个方程E(x,y,z,...)=0，找到一个关系符号（比如x）的一般解，用其他关系符号表示。他设法在给定一个特定解x=x0的情况下，找到一个非凡的术语S(t,y,z,...)，具有以下特性：(1) x=S(t,y,z,...)对于任何关系t的选择都是方程E=0的解，(2) 方程E=0的每个解x都可以通过选择适当的t以这种方式获得。Peirce对Schröder对解方程问题的过度关注并不感到印象深刻，并指出Schröder的参数解是一个小把戏——逻辑代数对于关系的表达能力非常强大，通过评估术语S(t,y,z,...)实际上就是执行检查E(t,y,z,...)=0的步骤；如果答案是肯定的，那么S(t,y,z,...)返回值t，否则返回值x0。
 
-总结一下，Schröder构建了现代谓词逻辑的代数版本，还构建了关系理论。他将其应用于不同领域（例如，康托尔的集合论），并将他的代数符号视为一种通用或普遍语言（*pasigraphy*，参见Peckhaus 2004和Legris 2012）。值得注意的是，Löwenheim在1940年仍然认为这与集合论一样合理。根据他的观点，Schröder解决关系方程的想法是Skolem函数的先驱，而Schröder启发了Löwenheim对著名定理的表述和证明，即每个具有无限模型的“算术”句子都有一个可数模型。Schröder的关系演算是Norbert Wiener（1894-1964）在哈佛大学的博士论文的基础（Wiener 1913）。根据Brady的说法，Wiener首次对关系演算进行了公理化处理，比Tarski的公理化处理早了二十多年（参见Brady 2000: 165）。
+总结一下，Schröder构建了现代谓词逻辑的代数版本，还构建了关系理论。他将其应用于不同领域（例如，康托尔的集合论），并将他的代数符号视为一种通用或普遍语言（_pasigraphy_，参见Peckhaus 2004和Legris 2012）。值得注意的是，Löwenheim在1940年仍然认为这与集合论一样合理。根据他的观点，Schröder解决关系方程的想法是Skolem函数的先驱，而Schröder启发了Löwenheim对著名定理的表述和证明，即每个具有无限模型的“算术”句子都有一个可数模型。Schröder的关系演算是Norbert Wiener（1894-1964）在哈佛大学的博士论文的基础（Wiener 1913）。根据Brady的说法，Wiener首次对关系演算进行了公理化处理，比Tarski的公理化处理早了二十多年（参见Brady 2000: 165）。
 
 ## 8. Huntington: 逻辑代数的公理研究
 
@@ -137,11 +138,11 @@ a+b(a+b)+c(a′+b′)′+(a′+b)′=b+a=a+(b+c)=a.
 
 在此之后不久，Herbert Robbins（1915-2001）猜测第三个方程可以被稍微简化为
 
-[(a+b)′+(a+b′)′]′=a.
+\[(a+b)′+(a+b′)′]′=a.
 
 亨廷顿和罗宾斯都无法证明这一点，后来它经受住了许多其他人的努力，包括塔尔斯基和他在伯克利的才华横溢的学派。基于温克尔的部分结果，由阿贡国家实验室的威廉·麦克肯设计的自动定理证明器EQP在1996年证明了罗宾斯猜想。这一成就在科拉塔2010年的著作中得到了广泛宣传。
 
-根据亨廷顿（1933: 278）的说法，“布尔代数”一词是由亨利·M·谢弗（1882-1964）在他的论文中引入的，他在该论文中展示了可以使用联合排除的单一基本运算（现在被称为谢弗符号）给出布尔代数的五方程公理化。怀特海德和罗素在《*原理*》第二版的前言中声称，谢弗符号是自《原理》出版以来逻辑学的最大进展。（希尔伯特和阿克曼（1928）则表示谢弗符号只是一种奇特的现象。）两位都没有意识到几十年前，舒尔德尔已经发现了谢弗符号的对偶也是一种运算——舒尔德尔的符号是双刃剑的形状。
+根据亨廷顿（1933: 278）的说法，“布尔代数”一词是由亨利·M·谢弗（1882-1964）在他的论文中引入的，他在该论文中展示了可以使用联合排除的单一基本运算（现在被称为谢弗符号）给出布尔代数的五方程公理化。怀特海德和罗素在《_原理_》第二版的前言中声称，谢弗符号是自《原理》出版以来逻辑学的最大进展。（希尔伯特和阿克曼（1928）则表示谢弗符号只是一种奇特的现象。）两位都没有意识到几十年前，舒尔德尔已经发现了谢弗符号的对偶也是一种运算——舒尔德尔的符号是双刃剑的形状。
 
 在1930年代，加勒特·伯克霍夫（1911-1996）确立了等式逻辑的基本结果，即（1）代数的等式类恰好是在同态、子代数和直积下封闭的类，以及（2）等式逻辑基于五个规则：自反性、对称性、传递性、替换和代入。在1940年代，塔斯基加入了这一等式逻辑的发展；从1950年代至今，这个学科取得了快速进展。
 
@@ -165,110 +166,109 @@ Skolem（1920年）对Schröder提出的类演算的消除问题提供了一个�
 
 ## 11. 塔斯基与代数逻辑的复兴
 
-模型论可以被看作是希尔伯特的元数学方法和逻辑代数传统的产物，特别是由Löwenheim和Skolem的结果所代表的。但是塔斯基给予了这门学科其经典的基础。模型论是研究形式语言与其在“实现”中的解释之间的关系（即，语言变量的域和其原始符号的解释）。如果解释恰好使得语言的一个句子陈述某个真实的事情，那么这个解释就是该句子的一个*模型*（参见[model theory](https://plato.stanford.edu/entries/model-theory/)条目）。模型基本上由代数结构组成，模型论成为一门独立的数学学科，其根源不仅在于逻辑代数，还在于抽象代数（参见Sinaceur 1999）。
+模型论可以被看作是希尔伯特的元数学方法和逻辑代数传统的产物，特别是由Löwenheim和Skolem的结果所代表的。但是塔斯基给予了这门学科其经典的基础。模型论是研究形式语言与其在“实现”中的解释之间的关系（即，语言变量的域和其原始符号的解释）。如果解释恰好使得语言的一个句子陈述某个真实的事情，那么这个解释就是该句子的一个_模型_（参见[model theory](https://plato.stanford.edu/entries/model-theory/)条目）。模型基本上由代数结构组成，模型论成为一门独立的数学学科，其根源不仅在于逻辑代数，还在于抽象代数（参见Sinaceur 1999）。
 
 除了模型论之外，塔斯基在他1941年的论文《关系演算》中复兴了关系代数。首先，他概述了一个基于对元素和关系进行量化的形式逻辑，然后他转向对该系统中仅涉及关系变量的无量词公式的更详细研究。在提出了一系列在关系代数中显然成立的公理之后，他证明了这些公理使得可以将无量词关系公式化简为方程。因此，他的关系演算成为了对某种等式理论的研究，他指出这种理论与对集合上的所有二元关系进行研究的布尔代数的等式理论具有相同的关系。这引发了与布尔代数已经提出并解决的问题类似的问题，例如，他关系代数的公理模型是否同构于一个关于集合上的关系代数？其中一个问题已经由阿尔温·科塞尔特（1864-1947）回答，即在二元关系理论中存在一阶句子，它们与关系演算中的方程不等价-因此，关系演算的表达能力明显比关系的一阶理论要弱。实际上，关系代数的表达能力与仅具有三个变量的一阶逻辑完全等价。然而，如果在关系代数（关系演算）中想要形式化一个具有诸如对偶公理之类的集合论，那么可以将许多变量化简为三个变量，因此可以通过方程来表达该理论的任何一阶陈述。蒙克证明了，与类的演算不同，二元关系的演算没有有限的等式基础（参见蒙克1964年）。塔斯基和吉万特（1987年）表明，关系代数的等式逻辑是如此表达能力强大，以至于可以在其中进行一阶集合论。
 
 此外，圆柱代数是在1948年至1952年间由塔斯基与他的学生Louise Chin和Frederick Thompson（参见Henkin＆Tarski 1961年）引入的，它是基于布尔代数的一元圆柱操作Cx的代数，旨在捕捉存在量词（∃x）。多元代数是另一种用于一阶逻辑的逻辑代数的方法-它是由Halmos（1956c）创建的。在这些系统中的工作重点再次是看在多大程度上可以与上世纪30年代布尔代数的著名结果相媲美。
-## [Bibliography]()
 
-### [Primary Sources]()
+## [Bibliography](luo-ji-dai-shu-de-fa-zhan-algebra-of-logic-tradition-stanley-burris-and-javier-legris.md)
 
-* Boole, G., 1847, *The Mathematical Analysis of Logic, Being an Essay Towards a Calculus of Deductive Reasoning*, Cambridge: Macmillan, Barclay, & Macmillan; reprinted Oxford: Basil Blackwell, 1951.
-* –––, 1854, *An Investigation of The Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities*, London: Macmillan; reprint by Dover 1958.
-* –––, 1997. *Selected Manuscripts on Logic and its Philosophy*, Ivor Grattan-Guinness and Gérard Bornet (eds.), Basel, Boston, Berlin, Birkhäuser: Springer.
-* Couturat, Louis, 1905, *L’Algèbre de la Logique*, Paris: Gauthier-Villars; 2^nd^ edition, Paris: Blanchard 1980.
-* Dedekind, R., 1897, “Über Zerlegungen von Zahlen durch ihre grössten gemeinsamen Teiler”, reprinted in *Gesammelte mathematische Werke* (1930–1932), 2: 103–147.
-* –––, 1930–1932, *Gesammelte mathematische Werke*, Robert Fricke, Emmy Noether, Öystein Ore (eds.), Braunschweig: Friedr. Vieweg & Sohn.
-* De Morgan, A., 1847, *Formal Logic: or, the Calculus of Inference, Necessary and Probable*, London: Taylor and Walton; reprinted London: The Open Court Company 1926.
-* –––, 1966, *On the Syllogism and Other Logical Writings*, a posthumous collection of De Morgan’s papers on logic, edited by Peter Heath, New Haven: Yale University Press.
-* Feferman, S. and R.L. Vaught, 1959, “The first order properties of products of algebraic systems”, *Fundamenta Mathematica*, 47: 57–103.
-* Frege, F., 1879, *Begriffsschrift: eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle a. S.: Louis Nebert.
-* –––, 1884, *Die Grundlagen der Arithmetik:eine logisch-mathematische Untersuchung über den Begriff der Zahl*, Breslau: W. Koebner.
-* –––, 1893/1903, *Grundgesetze der Arithmetik, begriffsschriftlich abgeleitet*, 2 vols, Jena: Verlag Hermann Pohle.
-* Halmos, P.R., 1956a, “Algebraic logic. I. Monadic Boolean algebras”, *Compositio Mathematica*, 12: 217–249.
-* –––, 1956b, “The basic concepts of algebraic logic”, *American Mathematical Monthly*, 63: 363–387.
-* –––, 1956c, “Algebraic logic. II. Homogeneous locally finite polyadic Boolean algebras of infinite degree”, *Fundamenta Mathematica*, 43: 255–325.
-* –––, 1956d, “Algebraic logic. III. Predicates, terms, and operations in polyadic algebras”, *Transactions of the American Mathematical Society*, 83: 430–470.
-* –––, 1957, “Algebraic logic. IV. Equality in polyadic algebras”, *Transactions of the American Mathematical Society*, 86: 1–27.
-* –––, 1962, *Algebraic logic*, New York: Chelsea Publishing Co.
-* Henkin, L. and J.D. Monk, 1974, “Cylindric algebras and related structures”, in L. Henkin et al. (eds.), *Proceedings of the Tarski Symposium*, Proceedings of Symposia in Pure Mathematics, vol. XXV, Providence, RI: American Mathematical Society, pp. 105–121.
-* Henkin, L. and A. Tarski, 1961, “Cylindric algebras”, in *Lattice Theory, Proceedings of Symposia in Pure Mathematics 2*, R. P. Dilworth (ed.), Providence, RI: American Mathematical Society, pp. 83–113.
-* Hilbert, D., 1899, *The Foundations of Geometry*; reprinted Chicago: Open Court 1980, 2^nd^ edition.
-* Hilbert, D. and W. Ackermann, 1928, *Grundzüge der theoretischen Logik*, Berlin: Springer.
-* Huntington, E.V., 1904, “Sets of independent postulates for the algebra of logic”, *Transactions of the American Mathematical Society*, 5: 288–309.
-* –––, 1933, “New sets of independent postulates for the algebra of logic, with special reference to Whitehead and Russell’s Principia Mathematica”, *Transactions of the American Mathematical Society*, 35(1): 274–304.
-* Jevons, W.S., 1869, *The Substitution of Similars, the True Principle of Reasoning, Derived from a Modification of Aristotle’s Dictum*, London: Macmillan and Co.
-* –––, 1870, *Elementary Lessons in Logic, Deductive and Inductive*, London: Macmillan & Co.; reprinted 1957.
-* –––, 1874, *The Principles of Science, A Treatise on Logic and the Scientific Method*, London and New York: Macmillan and Co.; reprinted 1892.
-* –––, 1880, *Studies in Deductive Logic. A Manual for Students*, London and New York: Macmillan and Co.
-* –––, 1883, *The Elements of Logic*, New York and Chicago: Sheldon & Co.
-* –––, 1890, *Pure Logic and Other Minor Works*, Robert Adamson and Harriet A. Jevons (eds), New York: Lennox Hill Pub. & Dist. Co.; reprinted 1971.
-* Jónsson, B. and A. Tarski, 1951, “Boolean Algebras with Operators. Part I”, *American Journal of Mathematics*, 73(4): 891–939.
-* Kolata, G., 1996, “Computer Math Proof Shows Reasoning Power”, *The New York Times*, December 10 (Technology Section, Cybertimes Column). [[Available Online](http://www.nytimes.com/library/cyber/week/1210math.html)]
-* Löwenheim, L., 1915, “Über möglichkeiten im Relativkalül”, *Mathematische Annalen*, 76(4): 447–470.
-* –––, 1940, “Einkleidung der Mathematik in Schröderschen Relativkalkul”, *Journal of Symbolic Logic*, 5: 1–17.
-* Macfarlane, A., 1879, *Principles of the Algebra of Logic. With Examples*, Edinburgh: David Douglas.
-* Monk, J. D., 1964, “On Representable Relation Algebras”, *The Michigan Mathematical Journal*, 11: 207–210.
-* Mostowski, A., 1952, “On direct products of theories”, *Journal of Symbolic Logic*, 17: 1–31.
-* Peirce, C.S., 1867, “On an Improvement in Boole’s Calculus of Logic”, *Proceedings of the American Academy of Arts and Sciences*, 7: 250–261; reprinted in Peirce 1933 [CP], vol. III, pp. 1–19.
-* Peirce, C.S., 1870, “Description of a notation for the logic of relatives, resulting from an amplification of the conceptions of Boole’s calculus of logic”, *Memoirs of the American Academy*, 9: 317–378; reprinted in *Collected Papers* 1933: Volume III, 27–98.
-* –––, 1880, “On the algebra of logic. Chapter I: Syllogistic. Chapter II: The logic of non-relative terms. Chapter III: The logic of relatives”, *American Journal of Mathematics*, 3: 15–57; reprinted in *Collected Papers* 1933: Volume III, 104–157.
-* –––, 1885, “On the Algebra of Logic: A Contribution to the Philosophy of Notation”, *American Journal of Mathematics* 7(2): 180–202; reprinted in *Collected Papers* 1933: Volume III, 359–403.
-* –––, 1933 [CP], *Collected Papers*, Charles Hartshorne and Paul Weiss (eds.), Cambridge: Harvard University Press.
-* Schröder, E., 1890–1910, *Algebra der Logik, Vols. I–III*; reprint Chelsea 1966.
-* Sheffer, H.M., 1913, “A set of five independent postulates for Boolean algebras, with application to logical constants”, *Transactions of the American Mathematical Society*, 14(4): 481–488.
-* Skolem, T., 1919, “Untersuchungen über die Axiome des Klassenkalküls und Über Produktations- und Summationsprobleme, welche gewisse Klassen von Aussagen betreffen”, *Videnskapsselskapets skrifter, I. Matematisk-naturvidenskabelig*, klasse 3; reprinted in Skolem 1970: 66–101.
-* –––, 1920, “Logisch-kombinatorische Untersuchungen über die Erfülbarkeit oder Beweisbarkeit mathematischer Sätze nebst einem Theoreme über dichte Menge”, *Videnskapsselskapets skrifter, I. Matematisk-naturvidenskabelig*, klasse 6: 1–36.
-* –––, 1922, “Einige Bemerkungen zur axiomatischen Begrundung der Mengenlehre”, *Matematikerkongressen i Helsingfors den 4–7 Juli 1922, Den femte skandinaviska matematikerkongressen, Redogörelse*, Helsinki: Akademiska Bokhandeln; reprinted in Skolem 1970: 189–206.
-* –––, 1928, “Über die mathematische Logik”, *Norsk Mathematisk Tidsskrift*, 10: 125–142; in van Heijenoort 1967: 508–524.
-* –––, 1970, *Selected Works in Logic*, Oslo: Universitetsforlaget.
-* Stone, M.H., 1936, “The theory of representations for Boolean algebras”, *Transactions of the American Mathematical Society*, 40(1): 37–111.
-* –––, 1937, “Applications of the theory of Boolean rings to general topology”, *Transactions of the American Mathematical Society*, 41(3): 375–481.
-* Tarski, A., 1941, “On the calculus of relations”, *The Journal of Symbolic Logic*, 6(3): 73–89
-* Tarski, A. and S. Givant, 1987, *Set Theory Without Variables*, (Series: Colloquium Publications, Volume 1), Providence: American Mathematical Society.
-* Whitehead, A.N., and B. Russell, 1910–1913, *Principia Mathematica I–III*, Cambridge: Cambridge University Press.
-* Whitman, P.M., 1941, “Free lattices”, *Annals of Mathematics*, second series, 42(1): 325–330.
-* Wiener, N., 1913, *A Comparison between the treatment of the algebra of relatives by Schroeder and that by Whitehead and Russell*, Ph.D. thesis, Harvard University (Norbert Wiener Papers. MC 22. Institute Archives and Special Collections, MIT Libraries, Cambridge, Massachusetts).
+### [Primary Sources](luo-ji-dai-shu-de-fa-zhan-algebra-of-logic-tradition-stanley-burris-and-javier-legris.md)
 
-### [Secondary Sources]()
+* Boole, G., 1847, _The Mathematical Analysis of Logic, Being an Essay Towards a Calculus of Deductive Reasoning_, Cambridge: Macmillan, Barclay, & Macmillan; reprinted Oxford: Basil Blackwell, 1951.
+* –––, 1854, _An Investigation of The Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities_, London: Macmillan; reprint by Dover 1958.
+* –––, 1997. _Selected Manuscripts on Logic and its Philosophy_, Ivor Grattan-Guinness and Gérard Bornet (eds.), Basel, Boston, Berlin, Birkhäuser: Springer.
+* Couturat, Louis, 1905, _L’Algèbre de la Logique_, Paris: Gauthier-Villars; 2^nd^ edition, Paris: Blanchard 1980.
+* Dedekind, R., 1897, “Über Zerlegungen von Zahlen durch ihre grössten gemeinsamen Teiler”, reprinted in _Gesammelte mathematische Werke_ (1930–1932), 2: 103–147.
+* –––, 1930–1932, _Gesammelte mathematische Werke_, Robert Fricke, Emmy Noether, Öystein Ore (eds.), Braunschweig: Friedr. Vieweg & Sohn.
+* De Morgan, A., 1847, _Formal Logic: or, the Calculus of Inference, Necessary and Probable_, London: Taylor and Walton; reprinted London: The Open Court Company 1926.
+* –––, 1966, _On the Syllogism and Other Logical Writings_, a posthumous collection of De Morgan’s papers on logic, edited by Peter Heath, New Haven: Yale University Press.
+* Feferman, S. and R.L. Vaught, 1959, “The first order properties of products of algebraic systems”, _Fundamenta Mathematica_, 47: 57–103.
+* Frege, F., 1879, _Begriffsschrift: eine der arithmetischen nachgebildete Formelsprache des reinen Denkens_, Halle a. S.: Louis Nebert.
+* –––, 1884, _Die Grundlagen der Arithmetik:eine logisch-mathematische Untersuchung über den Begriff der Zahl_, Breslau: W. Koebner.
+* –––, 1893/1903, _Grundgesetze der Arithmetik, begriffsschriftlich abgeleitet_, 2 vols, Jena: Verlag Hermann Pohle.
+* Halmos, P.R., 1956a, “Algebraic logic. I. Monadic Boolean algebras”, _Compositio Mathematica_, 12: 217–249.
+* –––, 1956b, “The basic concepts of algebraic logic”, _American Mathematical Monthly_, 63: 363–387.
+* –––, 1956c, “Algebraic logic. II. Homogeneous locally finite polyadic Boolean algebras of infinite degree”, _Fundamenta Mathematica_, 43: 255–325.
+* –––, 1956d, “Algebraic logic. III. Predicates, terms, and operations in polyadic algebras”, _Transactions of the American Mathematical Society_, 83: 430–470.
+* –––, 1957, “Algebraic logic. IV. Equality in polyadic algebras”, _Transactions of the American Mathematical Society_, 86: 1–27.
+* –––, 1962, _Algebraic logic_, New York: Chelsea Publishing Co.
+* Henkin, L. and J.D. Monk, 1974, “Cylindric algebras and related structures”, in L. Henkin et al. (eds.), _Proceedings of the Tarski Symposium_, Proceedings of Symposia in Pure Mathematics, vol. XXV, Providence, RI: American Mathematical Society, pp. 105–121.
+* Henkin, L. and A. Tarski, 1961, “Cylindric algebras”, in _Lattice Theory, Proceedings of Symposia in Pure Mathematics 2_, R. P. Dilworth (ed.), Providence, RI: American Mathematical Society, pp. 83–113.
+* Hilbert, D., 1899, _The Foundations of Geometry_; reprinted Chicago: Open Court 1980, 2^nd^ edition.
+* Hilbert, D. and W. Ackermann, 1928, _Grundzüge der theoretischen Logik_, Berlin: Springer.
+* Huntington, E.V., 1904, “Sets of independent postulates for the algebra of logic”, _Transactions of the American Mathematical Society_, 5: 288–309.
+* –––, 1933, “New sets of independent postulates for the algebra of logic, with special reference to Whitehead and Russell’s Principia Mathematica”, _Transactions of the American Mathematical Society_, 35(1): 274–304.
+* Jevons, W.S., 1869, _The Substitution of Similars, the True Principle of Reasoning, Derived from a Modification of Aristotle’s Dictum_, London: Macmillan and Co.
+* –––, 1870, _Elementary Lessons in Logic, Deductive and Inductive_, London: Macmillan & Co.; reprinted 1957.
+* –––, 1874, _The Principles of Science, A Treatise on Logic and the Scientific Method_, London and New York: Macmillan and Co.; reprinted 1892.
+* –––, 1880, _Studies in Deductive Logic. A Manual for Students_, London and New York: Macmillan and Co.
+* –––, 1883, _The Elements of Logic_, New York and Chicago: Sheldon & Co.
+* –––, 1890, _Pure Logic and Other Minor Works_, Robert Adamson and Harriet A. Jevons (eds), New York: Lennox Hill Pub. & Dist. Co.; reprinted 1971.
+* Jónsson, B. and A. Tarski, 1951, “Boolean Algebras with Operators. Part I”, _American Journal of Mathematics_, 73(4): 891–939.
+* Kolata, G., 1996, “Computer Math Proof Shows Reasoning Power”, _The New York Times_, December 10 (Technology Section, Cybertimes Column). \[[Available Online](http://www.nytimes.com/library/cyber/week/1210math.html)]
+* Löwenheim, L., 1915, “Über möglichkeiten im Relativkalül”, _Mathematische Annalen_, 76(4): 447–470.
+* –––, 1940, “Einkleidung der Mathematik in Schröderschen Relativkalkul”, _Journal of Symbolic Logic_, 5: 1–17.
+* Macfarlane, A., 1879, _Principles of the Algebra of Logic. With Examples_, Edinburgh: David Douglas.
+* Monk, J. D., 1964, “On Representable Relation Algebras”, _The Michigan Mathematical Journal_, 11: 207–210.
+* Mostowski, A., 1952, “On direct products of theories”, _Journal of Symbolic Logic_, 17: 1–31.
+* Peirce, C.S., 1867, “On an Improvement in Boole’s Calculus of Logic”, _Proceedings of the American Academy of Arts and Sciences_, 7: 250–261; reprinted in Peirce 1933 \[CP], vol. III, pp. 1–19.
+* Peirce, C.S., 1870, “Description of a notation for the logic of relatives, resulting from an amplification of the conceptions of Boole’s calculus of logic”, _Memoirs of the American Academy_, 9: 317–378; reprinted in _Collected Papers_ 1933: Volume III, 27–98.
+* –––, 1880, “On the algebra of logic. Chapter I: Syllogistic. Chapter II: The logic of non-relative terms. Chapter III: The logic of relatives”, _American Journal of Mathematics_, 3: 15–57; reprinted in _Collected Papers_ 1933: Volume III, 104–157.
+* –––, 1885, “On the Algebra of Logic: A Contribution to the Philosophy of Notation”, _American Journal of Mathematics_ 7(2): 180–202; reprinted in _Collected Papers_ 1933: Volume III, 359–403.
+* –––, 1933 \[CP], _Collected Papers_, Charles Hartshorne and Paul Weiss (eds.), Cambridge: Harvard University Press.
+* Schröder, E., 1890–1910, _Algebra der Logik, Vols. I–III_; reprint Chelsea 1966.
+* Sheffer, H.M., 1913, “A set of five independent postulates for Boolean algebras, with application to logical constants”, _Transactions of the American Mathematical Society_, 14(4): 481–488.
+* Skolem, T., 1919, “Untersuchungen über die Axiome des Klassenkalküls und Über Produktations- und Summationsprobleme, welche gewisse Klassen von Aussagen betreffen”, _Videnskapsselskapets skrifter, I. Matematisk-naturvidenskabelig_, klasse 3; reprinted in Skolem 1970: 66–101.
+* –––, 1920, “Logisch-kombinatorische Untersuchungen über die Erfülbarkeit oder Beweisbarkeit mathematischer Sätze nebst einem Theoreme über dichte Menge”, _Videnskapsselskapets skrifter, I. Matematisk-naturvidenskabelig_, klasse 6: 1–36.
+* –––, 1922, “Einige Bemerkungen zur axiomatischen Begrundung der Mengenlehre”, _Matematikerkongressen i Helsingfors den 4–7 Juli 1922, Den femte skandinaviska matematikerkongressen, Redogörelse_, Helsinki: Akademiska Bokhandeln; reprinted in Skolem 1970: 189–206.
+* –––, 1928, “Über die mathematische Logik”, _Norsk Mathematisk Tidsskrift_, 10: 125–142; in van Heijenoort 1967: 508–524.
+* –––, 1970, _Selected Works in Logic_, Oslo: Universitetsforlaget.
+* Stone, M.H., 1936, “The theory of representations for Boolean algebras”, _Transactions of the American Mathematical Society_, 40(1): 37–111.
+* –––, 1937, “Applications of the theory of Boolean rings to general topology”, _Transactions of the American Mathematical Society_, 41(3): 375–481.
+* Tarski, A., 1941, “On the calculus of relations”, _The Journal of Symbolic Logic_, 6(3): 73–89
+* Tarski, A. and S. Givant, 1987, _Set Theory Without Variables_, (Series: Colloquium Publications, Volume 1), Providence: American Mathematical Society.
+* Whitehead, A.N., and B. Russell, 1910–1913, _Principia Mathematica I–III_, Cambridge: Cambridge University Press.
+* Whitman, P.M., 1941, “Free lattices”, _Annals of Mathematics_, second series, 42(1): 325–330.
+* Wiener, N., 1913, _A Comparison between the treatment of the algebra of relatives by Schroeder and that by Whitehead and Russell_, Ph.D. thesis, Harvard University (Norbert Wiener Papers. MC 22. Institute Archives and Special Collections, MIT Libraries, Cambridge, Massachusetts).
 
-* Badesa, Calixto, 2004, *The Birth of Model Theory. Löwenheim Theorem in the Frame of the Theory of Relations*, Princeton & Oxford: Princeton University Press.
-* Brady, Geraldine, 2000, *From Peirce to Skolem*, Amsterdam et al.: North-Holland.
-* Burris. Stanley & H.P. Sankappanavar, 2013, “The Horn Theory of Boole’s Partial Algebras”, *The Bulletin of Symbolic Logic*, 19(1): 97–105.
-* Esquisabel, Oscar M., 2012, “Representing and Abstracting. An Analysis of Leibniz’s Concept of Symbolic Knowledge”, in Abel Lassalle Casanave (ed.), *Symbolic Knowledge from Leibniz to Husserl*, London: College Publications, pp. 1–49.
-* Gabbay, Dov. M. & John Woods (eds.), 2004, *Handbook of the History of Logic. Volume 3, The Rise of Modern Logic: From Leibniz to Frege*, Amsterdam et al.: Elsevier North Holland.
-* Grattan-Guinness, Ivor, 1991, “The Correspondence between George Boole and Stanley Jevons, 1863–1864”, *History and Philosophy of Logic*, 12(1): 15–35
-* –––, 2000, *The Search for Mathematical Roots,1870–1940. Logic, Set Theories and the Foundations of Mathematics from Cantor trough Russell to Gödel*, Princeton & Oxford: Princeton University Press.
+### [Secondary Sources](luo-ji-dai-shu-de-fa-zhan-algebra-of-logic-tradition-stanley-burris-and-javier-legris.md)
+
+* Badesa, Calixto, 2004, _The Birth of Model Theory. Löwenheim Theorem in the Frame of the Theory of Relations_, Princeton & Oxford: Princeton University Press.
+* Brady, Geraldine, 2000, _From Peirce to Skolem_, Amsterdam et al.: North-Holland.
+* Burris. Stanley & H.P. Sankappanavar, 2013, “The Horn Theory of Boole’s Partial Algebras”, _The Bulletin of Symbolic Logic_, 19(1): 97–105.
+* Esquisabel, Oscar M., 2012, “Representing and Abstracting. An Analysis of Leibniz’s Concept of Symbolic Knowledge”, in Abel Lassalle Casanave (ed.), _Symbolic Knowledge from Leibniz to Husserl_, London: College Publications, pp. 1–49.
+* Gabbay, Dov. M. & John Woods (eds.), 2004, _Handbook of the History of Logic. Volume 3, The Rise of Modern Logic: From Leibniz to Frege_, Amsterdam et al.: Elsevier North Holland.
+* Grattan-Guinness, Ivor, 1991, “The Correspondence between George Boole and Stanley Jevons, 1863–1864”, _History and Philosophy of Logic_, 12(1): 15–35
+* –––, 2000, _The Search for Mathematical Roots,1870–1940. Logic, Set Theories and the Foundations of Mathematics from Cantor trough Russell to Gödel_, Princeton & Oxford: Princeton University Press.
 * Hailperin, Theodore, 2004, “Algebraical Logic 1685–1900”, in Gabbay & Woods 2004: 323–388.
-* Haaparanta, Leila (ed.), 2009, *The Development of Modern Logic*, New York and Oxford: Oxford University Press.
-* Heinemann, Anna-Sophie, 2015, *Quantifikation des Prädikats und numerisch definiter Syllogismus*, Münster: Mentis 2015.
-* Legris, Javier, 2012, “Universale Sprache und Grundlagen der Mathematik bei Ernst Schröder”, in G. von Löffladt (ed.), *Mathematik – Logik – Philosophie. Ideen und ihre historischen Wechselwirkungen*, Frankfurt a. M.: Harri Deutsch, pp. 255–269.
+* Haaparanta, Leila (ed.), 2009, _The Development of Modern Logic_, New York and Oxford: Oxford University Press.
+* Heinemann, Anna-Sophie, 2015, _Quantifikation des Prädikats und numerisch definiter Syllogismus_, Münster: Mentis 2015.
+* Legris, Javier, 2012, “Universale Sprache und Grundlagen der Mathematik bei Ernst Schröder”, in G. von Löffladt (ed.), _Mathematik – Logik – Philosophie. Ideen und ihre historischen Wechselwirkungen_, Frankfurt a. M.: Harri Deutsch, pp. 255–269.
 * Mancosu, Paolo, Richard Zach, and Calixto Badesa, 2009, “The Development of Mathematical Logic from Russell to Tarski: 1900–1935”, in Haaparanta 2009: 318–471
-* Peckhaus, Volker, 1997, *Logik, Mathesis universalis und allgemeine Wissenschaft*, Berlin: Akademie Verlag.
+* Peckhaus, Volker, 1997, _Logik, Mathesis universalis und allgemeine Wissenschaft_, Berlin: Akademie Verlag.
 * –––, 2004, “Schröder’s Logic”, in Gabbay & Woods 2004: pp. 557–609.
 * –––, 2009, “The Mathematical Origins of Nineteenth-Century Algebra of Logic”, in Haaparanta 2009: 159–195.
 * Sánchez Valencia, Victor, 2004, “The Algebra of Logic”, in Gabbay & Woods 2004: pp. 389–544.
-* Sinaceur, Hourya, 1999, *Corps et Modèles. Essai sur l’histoire de l’algèbre réelle*, 2^nd^ ed., Paris: Vrin.
-* Styazhkin, N. I., 1969, *History of Mathematical Logic from Leibniz to Peano*, Cambridge, MA: MIT Press.
-* Van Heijenoort, Jean, 1967, “Logic as Calculus and Logic as Language”, *Synthese*, 17: 324–330
+* Sinaceur, Hourya, 1999, _Corps et Modèles. Essai sur l’histoire de l’algèbre réelle_, 2^nd^ ed., Paris: Vrin.
+* Styazhkin, N. I., 1969, _History of Mathematical Logic from Leibniz to Peano_, Cambridge, MA: MIT Press.
+* Van Heijenoort, Jean, 1967, “Logic as Calculus and Logic as Language”, _Synthese_, 17: 324–330
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=algebra-logic-tradition).                                                     |
-> | -------------------------------------------------------------------- | ------------------------------------------------------- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/algebra-logic-tradition/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/).                                             |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=algebra-logic-tradition&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/algebra-logic-tradition/) at [PhilPapers](https://philpapers.org/), with links to its database.                     |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=algebra-logic-tradition).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/algebra-logic-tradition/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=algebra-logic-tradition\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/algebra-logic-tradition/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
-## [Other Internet Resources]()
+## [Other Internet Resources](luo-ji-dai-shu-de-fa-zhan-algebra-of-logic-tradition-stanley-burris-and-javier-legris.md)
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
-## [Related Entries]()
+## [Related Entries](luo-ji-dai-shu-de-fa-zhan-algebra-of-logic-tradition-stanley-burris-and-javier-legris.md)
 
 [algebra](https://plato.stanford.edu/entries/algebra/) | [Boole, George](https://plato.stanford.edu/entries/boole/) | [Leibniz, Gottfried Wilhelm: influence on 19th century logic](https://plato.stanford.edu/entries/leibniz-logic-influence/) | [model theory](https://plato.stanford.edu/entries/model-theory/) | [model theory: first-order](https://plato.stanford.edu/entries/modeltheory-fo/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by
-[Stanley Burris](http://www.math.uwaterloo.ca/~snburris/)
-Javier Legris <*[javier.legris@gmail.com](mailto:javier%2elegris%40gmail%2ecom)*>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by [Stanley Burris](http://www.math.uwaterloo.ca/\~snburris/) Javier Legris <[_javier.legris@gmail.com_](mailto:javier%2elegris%40gmail%2ecom)>

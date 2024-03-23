@@ -1,12 +1,12 @@
 # 无政府主义 anarchism (Andrew Fiala)
 
-*首次发布于2017年10月3日；实质性修订于2021年10月26日*
+_首次发布于2017年10月3日；实质性修订于2021年10月26日_
 
 无政府主义是一种对权威和权力合理性持怀疑态度的政治理论。无政府主义通常基于关于个体自由重要性的道德主张，常被理解为摆脱统治的自由。无政府主义者还提出了一个关于人类繁荣的积极理论，基于平等、社区和非强制性的共识建设理想。无政府主义激发了建立乌托邦社区、激进和革命政治议程以及各种形式的直接行动的实践努力。本条目主要描述了“哲学无政府主义”：它侧重于无政府主义作为一种理论观念，而不是作为一种政治行动形式。虽然哲学无政府主义描述了一种对政治合法性的怀疑理论，但无政府主义也是一个在哲学和文学理论中被用来描述一种反基础主义的概念。哲学无政府主义既可以指对试图证明国家权威的理论生活持怀疑态度，也可以指对试图为知识断言坚定基础的哲学理论持怀疑态度。
 
-- [1. 无政府主义的种类](https://plato.stanford.edu/entries/anarchism/#VariAnar) - [1.1 政治无政府主义](https://plato.stanford.edu/entries/anarchism/#PoliAnar) - [1.2 宗教无政府主义](https://plato.stanford.edu/entries/anarchism/#ReliAnar) - [1.3 理论无政府主义](https://plato.stanford.edu/entries/anarchism/#TheoAnar) - [1.4 应用无政府主义](https://plato.stanford.edu/entries/anarchism/#ApplAnar) - [1.5 黑人、土著和去殖民化无政府主义](https://plato.stanford.edu/entries/anarchism/#BlackAnar) - [2. 政治哲学中的无政府主义](https://plato.stanford.edu/entries/anarchism/#AnarPoliPhil) - [2.1 无政府主义在政治哲学史上的地位](https://plato.stanford.edu/entries/anarchism/#AnarHistPoliPhil) - [2.2 绝对主义、义务论和先验无政府主义](https://plato.stanford.edu/entries/anarchism/#AbsoDeonPrioAnar) - [2.3 偶然主义、后果论和后验无政府主义](https://plato.stanford.edu/entries/anarchism/#ContConsPostAnar) - [2.4 个人主义、自由主义和社会主义无政府主义](https://plato.stanford.edu/entries/anarchism/#IndiLibeSociAnar) - [3. 无政府主义与政治行动](https://plato.stanford.edu/entries/anarchism/#AnarPoliActi) - [3.1 非暴力、暴力和犯罪](https://plato.stanford.edu/entries/anarchism/#NonvViolCrim) - [3.2 不服从、革命和改革](https://plato.stanford.edu/entries/anarchism/#DisoRevoRefo) - [3.3 乌托邦社区和非革命性无政府主义](https://plato.stanford.edu/entries/anarchism/#UtopCommNonRevoAnar) - [4. 反驳与回应](https://plato.stanford.edu/entries/anarchism/#ObjeRepl) - [4.1 无政府主义是虚无主义和破坏性的](https://plato.stanford.edu/entries/anarchism/#AnarNihiDest) - [4.2 无政府主义将永远演变回国家](https://plato.stanford.edu/entries/anarchism/#AnarWillAlwaEvolBackStat) - [4.3 无政府主义是乌托邦主义](https://plato.stanford.edu/entries/anarchism/#AnarUtop) - [4.4 无政府主义是不连贯的](https://plato.stanford.edu/entries/anarchism/#AnarInco) - [4.5 哲学无政府主义是“无力”的](https://plato.stanford.edu/entries/anarchism/#PhilAnarToot) - [参考文献](https://plato.stanford.edu/entries/anarchism/#Bib) - [学术工具](https://plato.stanford.edu/entries/anarchism/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/anarchism/#Oth) - [相关条目](https://plato.stanford.edu/entries/anarchism/#Rel)
+* [1. 无政府主义的种类](https://plato.stanford.edu/entries/anarchism/#VariAnar) - [1.1 政治无政府主义](https://plato.stanford.edu/entries/anarchism/#PoliAnar) - [1.2 宗教无政府主义](https://plato.stanford.edu/entries/anarchism/#ReliAnar) - [1.3 理论无政府主义](https://plato.stanford.edu/entries/anarchism/#TheoAnar) - [1.4 应用无政府主义](https://plato.stanford.edu/entries/anarchism/#ApplAnar) - [1.5 黑人、土著和去殖民化无政府主义](https://plato.stanford.edu/entries/anarchism/#BlackAnar) - [2. 政治哲学中的无政府主义](https://plato.stanford.edu/entries/anarchism/#AnarPoliPhil) - [2.1 无政府主义在政治哲学史上的地位](https://plato.stanford.edu/entries/anarchism/#AnarHistPoliPhil) - [2.2 绝对主义、义务论和先验无政府主义](https://plato.stanford.edu/entries/anarchism/#AbsoDeonPrioAnar) - [2.3 偶然主义、后果论和后验无政府主义](https://plato.stanford.edu/entries/anarchism/#ContConsPostAnar) - [2.4 个人主义、自由主义和社会主义无政府主义](https://plato.stanford.edu/entries/anarchism/#IndiLibeSociAnar) - [3. 无政府主义与政治行动](https://plato.stanford.edu/entries/anarchism/#AnarPoliActi) - [3.1 非暴力、暴力和犯罪](https://plato.stanford.edu/entries/anarchism/#NonvViolCrim) - [3.2 不服从、革命和改革](https://plato.stanford.edu/entries/anarchism/#DisoRevoRefo) - [3.3 乌托邦社区和非革命性无政府主义](https://plato.stanford.edu/entries/anarchism/#UtopCommNonRevoAnar) - [4. 反驳与回应](https://plato.stanford.edu/entries/anarchism/#ObjeRepl) - [4.1 无政府主义是虚无主义和破坏性的](https://plato.stanford.edu/entries/anarchism/#AnarNihiDest) - [4.2 无政府主义将永远演变回国家](https://plato.stanford.edu/entries/anarchism/#AnarWillAlwaEvolBackStat) - [4.3 无政府主义是乌托邦主义](https://plato.stanford.edu/entries/anarchism/#AnarUtop) - [4.4 无政府主义是不连贯的](https://plato.stanford.edu/entries/anarchism/#AnarInco) - [4.5 哲学无政府主义是“无力”的](https://plato.stanford.edu/entries/anarchism/#PhilAnarToot) - [参考文献](https://plato.stanford.edu/entries/anarchism/#Bib) - [学术工具](https://plato.stanford.edu/entries/anarchism/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/anarchism/#Oth) - [相关条目](https://plato.stanford.edu/entries/anarchism/#Rel)
 
----
+***
 
 ## 1. 无政府主义的多样性
 
@@ -14,11 +14,11 @@
 
 ### 1.1 无政府主义
 
-无政府主义主要被理解为一种对政治合法性的怀疑论理论。无政府主义一词源自希腊词*arché*的否定，该词意为第一原则、基础或统治权力。因此，无政府主义意味着无人统治或非统治。有人认为，非统治发生在所有人都参与统治的情况下，通过共识或一致性来实现一个乐观的目标（参见Depuis-Déri 2010）。
+无政府主义主要被理解为一种对政治合法性的怀疑论理论。无政府主义一词源自希腊词_arché_的否定，该词意为第一原则、基础或统治权力。因此，无政府主义意味着无人统治或非统治。有人认为，非统治发生在所有人都参与统治的情况下，通过共识或一致性来实现一个乐观的目标（参见Depuis-Déri 2010）。
 
 政治无政府主义者将他们的批评集中在国家权力上，将集中、垄断、强制性的权力视为非法。因此，无政府主义者批评“国家”。巴库宁提供了一个典型的历史例子，他说：
 
-> 如果有国家存在，就必然存在一种阶级对另一种阶级的统治，结果就是奴役；没有奴役的国家是不可想象的，这就是为什么我们是国家的敌人。（巴库宁 1873 [1990: 178]）
+> 如果有国家存在，就必然存在一种阶级对另一种阶级的统治，结果就是奴役；没有奴役的国家是不可想象的，这就是为什么我们是国家的敌人。（巴库宁 1873 \[1990: 178]）
 
 一个更近期的例子来自Gerard Casey的写作，“国家是犯罪组织。所有国家，不仅仅是明显的极权主义或压迫性的国家”（Casey 2012: 1）。
 
@@ -26,33 +26,33 @@
 
 ### 1.2 宗教无政府主义
 
-无政府主义的批判已经扩展到对非政治集中和权威的拒绝。巴库宁将他的批判扩展到宗教领域，反对上帝和国家。巴库宁拒绝上帝作为绝对主宰，他著名地说：“如果上帝真的存在，就有必要废除他”（巴库宁 1882 [1970: 28]）。
+无政府主义的批判已经扩展到对非政治集中和权威的拒绝。巴库宁将他的批判扩展到宗教领域，反对上帝和国家。巴库宁拒绝上帝作为绝对主宰，他著名地说：“如果上帝真的存在，就有必要废除他”（巴库宁 1882 \[1970: 28]）。
 
 然而，无政府主义也有宗教版本，它从认真对待宗教的立场批判政治权威。Rapp（2012）展示了无政府主义在道教中的存在。Ramnath（2011）在伊斯兰苏菲主义、印度教的bhakti运动、锡克教的反种姓努力以及佛教中发现了无政府主义的线索。我们将在下文中讨论甘地与无政府主义的关系。但我们在这里专注于基督教无政府主义。
 
-基督教无政府主义神学认为上帝的国度超越了任何人类的结构或秩序原则。基督教无政府主义者对教会和政治权力提出反教权的批评。托尔斯泰提供了一个有影响力的例子。托尔斯泰认为基督徒有责任不服从政治权力，并拒绝对政治权威宣誓效忠（参见托尔斯泰1894年）。托尔斯泰也是一个和平主义者。基督教无政府主义和平主义将国家视为不道德和不可支持的，因为它与军事力量有关（参见Christoyannopoulos 2011年）。但也有非和平主义的基督教无政府主义者。例如，贝尔杰耶夫在托尔斯泰的基础上，以自己对基督教神学的解释进行了发展。贝尔杰耶夫得出结论：“上帝的国度是无政府状态”（Berdyaev 1940 [1944: 148]）。
+基督教无政府主义神学认为上帝的国度超越了任何人类的结构或秩序原则。基督教无政府主义者对教会和政治权力提出反教权的批评。托尔斯泰提供了一个有影响力的例子。托尔斯泰认为基督徒有责任不服从政治权力，并拒绝对政治权威宣誓效忠（参见托尔斯泰1894年）。托尔斯泰也是一个和平主义者。基督教无政府主义和平主义将国家视为不道德和不可支持的，因为它与军事力量有关（参见Christoyannopoulos 2011年）。但也有非和平主义的基督教无政府主义者。例如，贝尔杰耶夫在托尔斯泰的基础上，以自己对基督教神学的解释进行了发展。贝尔杰耶夫得出结论：“上帝的国度是无政府状态”（Berdyaev 1940 \[1944: 148]）。
 
-基督教无政府主义者甚至成立了与国家结构分离的分离主义社区。著名的例子包括新英格兰的超验主义者，如威廉·加里森和阿丁·巴卢。这些超验主义者对托尔斯泰产生了影响（参见佩里1973 [1995]）。
+基督教无政府主义者甚至成立了与国家结构分离的分离主义社区。著名的例子包括新英格兰的超验主义者，如威廉·加里森和阿丁·巴卢。这些超验主义者对托尔斯泰产生了影响（参见佩里1973 \[1995]）。
 
-其他有无政府主义倾向的著名基督徒包括天主教工人运动的彼得·莫林和多萝西·戴。近年来，雅克·埃卢尔捍卫了基督教无政府主义，将其与广泛的社会批判联系在一起。埃卢尔表示，除了要持和平主义立场外，基督教无政府主义还应该是“反民族主义、反资本主义、道德和反民主”的（埃卢尔1988 [1991: 13]）。基督教无政府主义者应该致力于“真正颠覆各种权威”（埃卢尔1988 [1991: 14]）。当被问及基督教无政府主义者是否应该投票时，埃卢尔回答是否定的。他说，“无政府主义首先意味着良心上的抗议”（埃卢尔1988 [1991: 15]）。
+其他有无政府主义倾向的著名基督徒包括天主教工人运动的彼得·莫林和多萝西·戴。近年来，雅克·埃卢尔捍卫了基督教无政府主义，将其与广泛的社会批判联系在一起。埃卢尔表示，除了要持和平主义立场外，基督教无政府主义还应该是“反民族主义、反资本主义、道德和反民主”的（埃卢尔1988 \[1991: 13]）。基督教无政府主义者应该致力于“真正颠覆各种权威”（埃卢尔1988 \[1991: 14]）。当被问及基督教无政府主义者是否应该投票时，埃卢尔回答是否定的。他说，“无政府主义首先意味着良心上的抗议”（埃卢尔1988 \[1991: 15]）。
 
 ### 1.3 理论无政府主义
 
-无政府主义者对权威的拒绝在认识论、哲学和文学理论中有应用。这个术语的一个重要用法出现在美国实用主义中。威廉·詹姆斯将他的实用主义哲学理论描述为一种无政府主义：“一个激进的实用主义者是一种快乐无忧的无政府主义者”（詹姆斯1907 [1981: 116]）。詹姆斯对无政府主义持有同情态度，与对系统哲学的一般批评有关（参见Fiala 2013b）。实用主义，像其他反系统和后黑格尔哲学一样，放弃了对*arché*或基础的追求。
+无政府主义者对权威的拒绝在认识论、哲学和文学理论中有应用。这个术语的一个重要用法出现在美国实用主义中。威廉·詹姆斯将他的实用主义哲学理论描述为一种无政府主义：“一个激进的实用主义者是一种快乐无忧的无政府主义者”（詹姆斯1907 \[1981: 116]）。詹姆斯对无政府主义持有同情态度，与对系统哲学的一般批评有关（参见Fiala 2013b）。实用主义，像其他反系统和后黑格尔哲学一样，放弃了对_arché_或基础的追求。
 
-无政府主义因此成为对现行方法的一般批评。一个有影响力的例子可以在保罗·费耶拉本德的作品中找到，他的《反方法》提供了一个在认识论和科学哲学中的“理论无政府主义”的例子（费耶拉本德1975 [1993]）。费耶拉本德解释道：
+无政府主义因此成为对现行方法的一般批评。一个有影响力的例子可以在保罗·费耶拉本德的作品中找到，他的《反方法》提供了一个在认识论和科学哲学中的“理论无政府主义”的例子（费耶拉本德1975 \[1993]）。费耶拉本德解释道：
 
-> 科学是一项本质上无政府的事业：理论无政府主义比起法治秩序的替代方案更加人道主义，更有可能促进进步。（费耶拉本德1975 [1993: 9]）
+> 科学是一项本质上无政府的事业：理论无政府主义比起法治秩序的替代方案更加人道主义，更有可能促进进步。（费耶拉本德1975 \[1993: 9]）
 
 他的观点是科学不应受到等级制约的原则和严格的规则遵循的限制。
 
-后结构主义、后现代主义和大陆哲学的趋势也可以是无政府主义的（参见1994年的梅伊）。所谓的“后无政府主义”是一种去中心化和自由流动的话语，它解构权力，质疑本质主义，并破坏权威体系。在德里达、德勒兹、福柯等作者的解构和批判性工作之后，对于*arché*的批判一直延伸至底层。如果没有*arché*或基础，那么我们只剩下了无数的可能性。全球化、网络空间和后人类主义的新趋势使得对“国家”的无政府主义批判变得更加复杂，因为无政府主义传统上对自由和自治的赞美可以受到批判性的审视和解构（参见纽曼2016年）。
+后结构主义、后现代主义和大陆哲学的趋势也可以是无政府主义的（参见1994年的梅伊）。所谓的“后无政府主义”是一种去中心化和自由流动的话语，它解构权力，质疑本质主义，并破坏权威体系。在德里达、德勒兹、福柯等作者的解构和批判性工作之后，对于_arché_的批判一直延伸至底层。如果没有_arché_或基础，那么我们只剩下了无数的可能性。全球化、网络空间和后人类主义的新趋势使得对“国家”的无政府主义批判变得更加复杂，因为无政府主义传统上对自由和自治的赞美可以受到批判性的审视和解构（参见纽曼2016年）。
 
 传统的无政府主义者主要关注持久而专注的政治行动，以实现废除国家的目标。自由流动的后无政府主义与传统无政府主义的区别可以在道德领域中看出来。无政府主义传统上对集中的道德权威持批判态度，但这种批判往往基于基本原则和传统价值观，如自治或自由。然而，后结构主义以及一些女权主义者、批判种族理论家和对欧洲中心主义持批评态度的人对这些价值观和原则提出了质疑。
 
 ### 1.4 应用无政府主义
 
-无政府主义对权威的批判提供了一个广泛的批判框架，为社会批判提供了一个有用的理论或方法论。在最近的演变中，无政府主义被用来批判性别等级制度、种族等级制度，以及人类对自然的统治，包括对人类对自然的统治的批判。因此，无政府主义还包括以下几种变体：无政府女权主义或女性主义无政府主义（参见科内格尔1975年），酷儿无政府主义或无政府主义酷儿理论（参见达林等人2010年），绿色无政府主义或生态无政府主义，也与无政府社会生态学有关（参见布克钦1971年[1986年]），黑人和土著无政府主义以及其他对白人至上主义和欧洲中心主义的无政府主义批判（将在下文讨论）；甚至还有无政府素食主义或“素食无政府主义”（参见诺塞拉、怀特和卡德沃思2015年）。在无政府素食主义文献中，我们可以找到以下对广泛而包容的无政府主义的描述：
+无政府主义对权威的批判提供了一个广泛的批判框架，为社会批判提供了一个有用的理论或方法论。在最近的演变中，无政府主义被用来批判性别等级制度、种族等级制度，以及人类对自然的统治，包括对人类对自然的统治的批判。因此，无政府主义还包括以下几种变体：无政府女权主义或女性主义无政府主义（参见科内格尔1975年），酷儿无政府主义或无政府主义酷儿理论（参见达林等人2010年），绿色无政府主义或生态无政府主义，也与无政府社会生态学有关（参见布克钦1971年\[1986年]），黑人和土著无政府主义以及其他对白人至上主义和欧洲中心主义的无政府主义批判（将在下文讨论）；甚至还有无政府素食主义或“素食无政府主义”（参见诺塞拉、怀特和卡德沃思2015年）。在无政府素食主义文献中，我们可以找到以下对广泛而包容的无政府主义的描述：
 
 > 无政府主义是一种社会政治理论，反对一切统治和压迫体制，如种族主义、残疾主义、性别歧视、反LGBTTQIA、年龄歧视、体型歧视、政府、竞争、资本主义、殖民主义、帝国主义和惩罚性司法，并提倡直接民主、合作、相互依赖、互助、多样性、和平、转型正义和公平。（诺塞拉等人2015年：7）
 
@@ -74,11 +74,11 @@
 
 尽管受制于国家法律，但由于黑人被排除在自由社会契约之外，可以将黑人美国视为一个超国家实体。由于这种超国家的位置，黑人身份在许多方面都具有无政府主义的特征。（安德森和萨穆齐 2017：无页码）
 
-这意味着黑人的经历发生在一个由于被排除在权力之外而定义的社会和政治世界中。对于土著人民来说，情况也类似，他们被殖民权力所征服和统治。解放运动因此源于一种在某种意义上是无政府主义的社会经验（即在与权力结构的排斥和对抗中发展起来）。因此，一些解放活动家支持并肯定无政府主义并不奇怪。例如，美国活动家洛伦佐·科姆博·厄文（Lorenzo Kom'boa Ervin）在追求黑人解放时肯定了无政府主义（厄文 1997 [2016]）。他解释说，黑人无政府主义与他所描述的黑豹党的更加威权主义的等级制度不同。他还反对宗教导向的黑人解放运动的威权结构，例如由马丁·路德·金领导的运动。
+这意味着黑人的经历发生在一个由于被排除在权力之外而定义的社会和政治世界中。对于土著人民来说，情况也类似，他们被殖民权力所征服和统治。解放运动因此源于一种在某种意义上是无政府主义的社会经验（即在与权力结构的排斥和对抗中发展起来）。因此，一些解放活动家支持并肯定无政府主义并不奇怪。例如，美国活动家洛伦佐·科姆博·厄文（Lorenzo Kom'boa Ervin）在追求黑人解放时肯定了无政府主义（厄文 1997 \[2016]）。他解释说，黑人无政府主义与他所描述的黑豹党的更加威权主义的等级制度不同。他还反对宗教导向的黑人解放运动的威权结构，例如由马丁·路德·金领导的运动。
 
 在黑人和土著无政府主义中，一个重要问题是去殖民化无政府主义本身。无政府主义传统中的许多关键人物都是白人、男性和欧洲人。克鲁泡特金或巴库宁等无政府主义者的关注点可能与非裔美国人或拉丁美洲或其他地区土著人民的关注点不同。解决这个问题的一个方法是从传统中找回被遗忘的声音。在这方面，我们可以考虑露西·帕森斯（也被称为露西·冈萨雷斯），她是一位曾经做过奴隶的无政府主义者。帕森斯解释说，她支持无政府主义是因为政治现状只给人类大众带来了痛苦和饥饿。为了解决这个问题，需要进行一场无政府主义革命。帕森斯说：
 
-> 大多数无政府主义者相信即将到来的变革只能通过革命来实现，因为占有阶级不会允许和平变革的发生；尽管如此，我们愿意以任何代价为和平努力，唯独不愿以自由为代价。（帕森斯1905 [2010]）
+> 大多数无政府主义者相信即将到来的变革只能通过革命来实现，因为占有阶级不会允许和平变革的发生；尽管如此，我们愿意以任何代价为和平努力，唯独不愿以自由为代价。（帕森斯1905 \[2010]）
 
 ## 2. 政治哲学中的无政府主义
 
@@ -86,7 +86,7 @@
 
 ### 2.1 无政府主义在政治哲学史上的地位
 
-无政府主义有着悠久的历史。在古代世界中，可以在伊壁鸠鲁学派和犬儒学派的思想中找到某种形式的无政府主义。克鲁波特金在他1910年的百科全书文章中指出了这一点。虽然他们没有使用无政府主义这个词，但伊壁鸠鲁学派和犬儒学派避免从事政治活动，建议远离政治生活，追求宁静（*ataraxia*）和自我控制（*autarkeai*）。犬儒学派还以倡导世界主义而闻名：在没有对任何特定国家或法律体系效忠的情况下，根据道德原则与人类建立联系，超越传统的国家结构。犬儒学派的狄奥根尼斯对政治或宗教权威几乎没有什么尊重。他的一个主要观念是“破坏货币”。这不仅意味着贬值或破坏货币，还意味着对文明社会规范的普遍拒绝（参见马歇尔2010年：69）。狄奥根尼斯经常嘲笑政治权威，并未表现出尊重的迹象。而伊壁鸠鲁则主张退隐。他建议低调生活，避免从事政治生活（用反政治的忠告来理解短语*me politeuesthai*）。
+无政府主义有着悠久的历史。在古代世界中，可以在伊壁鸠鲁学派和犬儒学派的思想中找到某种形式的无政府主义。克鲁波特金在他1910年的百科全书文章中指出了这一点。虽然他们没有使用无政府主义这个词，但伊壁鸠鲁学派和犬儒学派避免从事政治活动，建议远离政治生活，追求宁静（_ataraxia_）和自我控制（_autarkeai_）。犬儒学派还以倡导世界主义而闻名：在没有对任何特定国家或法律体系效忠的情况下，根据道德原则与人类建立联系，超越传统的国家结构。犬儒学派的狄奥根尼斯对政治或宗教权威几乎没有什么尊重。他的一个主要观念是“破坏货币”。这不仅意味着贬值或破坏货币，还意味着对文明社会规范的普遍拒绝（参见马歇尔2010年：69）。狄奥根尼斯经常嘲笑政治权威，并未表现出尊重的迹象。而伊壁鸠鲁则主张退隐。他建议低调生活，避免从事政治生活（用反政治的忠告来理解短语_me politeuesthai_）。
 
 假设无政府主义会不幸或不稳定，这导致了对政治权力的辩护。霍布斯著名的说法是，在无政府状态下，即“自然状态”，人类的生活将是孤独、贫穷、恶劣和短暂的。霍布斯的社会契约理论以及洛克或卢梭等其他版本的社会契约理论，都试图解释政治国家是如何从无政府状态中产生的，以及为什么会产生。
 
@@ -106,7 +106,7 @@
 
 鉴于对公共组织的强调，政治无政府主义与共产主义有着密切的历史联系，尽管与自由市场资本主义有上述联系。巴库宁、克鲁泡特金和戈德曼等作者将他们的无政府主义发展为对马克思和马克思主义的回应。最早明确肯定无政府主义的作者之一，皮埃尔·普鲁东，捍卫了一种他理解为以分散的联合、公社和互助社会为基础的“共产主义”。普鲁东认为私有财产造成了专制。他认为自由需要无政府状态，并得出结论：
 
-> 以人治人（无论以何种名义）都是压迫。社会在秩序与无政府的结合中达到最高的完善。（普鲁东 1840 [1876: 286]）
+> 以人治人（无论以何种名义）都是压迫。社会在秩序与无政府的结合中达到最高的完善。（普鲁东 1840 \[1876: 286]）
 
 继循普鲁东、巴库宁、克鲁波特金等所谓的“古典无政府主义者”之后，无政府主义被视为政治哲学和行动主义的焦点。
 
@@ -114,17 +114,17 @@
 
 ### 2.2 绝对主义、德性论和先验无政府主义
 
-无政府主义者经常对此作出绝对的断言，声称没有任何国家是合法的，或者说没有任何政治国家是可以被证明合理的。作为一个绝对或先验的主张，无政府主义认为所有的国家在任何时候和任何地方都是非法和不公正的。术语“先验无政府主义”出现在西蒙斯的2001年著作中，但克鲁泡特金在他有影响力的1910年关于无政府主义的文章中已经使用了这个术语，他声称无政府主义者并不是那些从先验的方式反对国家的乌托邦主义者（克鲁泡特金 1927 [2002: 285]）。尽管克鲁泡特金的说法，一些无政府主义者确实提出了对国家的先验论证。这种主张基于对权威正当性的解释，通常根植于某种形式的德性论道德主张，关于个人自由的重要性以及关于国家权威性质的逻辑主张。
+无政府主义者经常对此作出绝对的断言，声称没有任何国家是合法的，或者说没有任何政治国家是可以被证明合理的。作为一个绝对或先验的主张，无政府主义认为所有的国家在任何时候和任何地方都是非法和不公正的。术语“先验无政府主义”出现在西蒙斯的2001年著作中，但克鲁泡特金在他有影响力的1910年关于无政府主义的文章中已经使用了这个术语，他声称无政府主义者并不是那些从先验的方式反对国家的乌托邦主义者（克鲁泡特金 1927 \[2002: 285]）。尽管克鲁泡特金的说法，一些无政府主义者确实提出了对国家的先验论证。这种主张基于对权威正当性的解释，通常根植于某种形式的德性论道德主张，关于个人自由的重要性以及关于国家权威性质的逻辑主张。
 
 这个论点的一个典型且著名的例子可以在罗伯特·保罗·沃尔夫的著作中找到。沃尔夫指出，合法权威建立在对命令服从权的主张上（沃尔夫1970年）。与此相关的是服从的义务：人们有义务服从合法权威。正如沃尔夫解释的那样，通过借鉴康德和卢梭的思想，服从的义务与自治、责任和理性的概念相关联。但对于沃尔夫和其他无政府主义者来说，问题在于国家没有合法权威。正如沃尔夫所说的无政府主义者，“他永远不会将国家的命令视为合法的，具有约束力的道德力量”（沃尔夫1970年：16）。这一主张的绝对性表明了绝对无政府主义的一种版本。如果国家的命令从未合法，并且没有产生服从的道德义务，那么就永远不可能有一个合法的国家。沃尔夫设想可能存在一个以“一致直接民主”为基础的合法国家，但他指出一致直接民主将“在其应用范围上如此受限，以至于无法真正体现在一个实际的国家中”（沃尔夫1970年：55）。沃尔夫得出结论：
 
 > 如果所有人都有持续的义务追求最高程度的自治，那么似乎没有一个国家的公民有道德义务服从其命令。因此，合法国家的概念似乎是空洞的，而哲学上的无政府主义似乎是一个开明人的唯一合理的政治信仰。（沃尔夫1970年：17）
 
-正如沃尔夫在这里所说，似乎没有一个合法的“国家”。这个主张是以绝对和*先验*的方式陈述的，这一点被雷曼在他对沃尔夫的批评中指出（雷曼1972年）。顺便说一下，沃尔夫并不否认存在事实上合法的国家：政府通常确实得到了他们统治的人民的批准和支持。但这种批准和支持仅仅是一种惯例，并没有根植于道义责任；批准和支持是由国家的强制力量、宣传和意识形态制造和操纵的。
+正如沃尔夫在这里所说，似乎没有一个合法的“国家”。这个主张是以绝对和_先验_的方式陈述的，这一点被雷曼在他对沃尔夫的批评中指出（雷曼1972年）。顺便说一下，沃尔夫并不否认存在事实上合法的国家：政府通常确实得到了他们统治的人民的批准和支持。但这种批准和支持仅仅是一种惯例，并没有根植于道义责任；批准和支持是由国家的强制力量、宣传和意识形态制造和操纵的。
 
-我们在这里指出，沃尔夫的无政府主义与康德有关。但康德并不是无政府主义者：他捍卫了启蒙共和政府的理念，其中自治将得到保留。卢梭在他的一些言论中可能更接近于支持无政府主义，尽管这些言论远非系统化（参见麦克劳林2007年）。一些作者认为卢梭支持的是接近“*后验*哲学无政府主义”的观点（参见伯特拉姆2010年[2017]）-我们将在下一节中对其进行定义。在古典政治哲学家中，我们还可以考虑洛克与“自由主义无政府主义”（参见瓦登2015年）或洛克提供的“处于无政府主义边缘的理论”，正如西蒙斯所说（西蒙斯1993年）。但尽管他坚决捍卫个人权利，严格描述自愿同意的方式，并主张革命，洛克认为可以根据社会契约理论来捍卫国家。
+我们在这里指出，沃尔夫的无政府主义与康德有关。但康德并不是无政府主义者：他捍卫了启蒙共和政府的理念，其中自治将得到保留。卢梭在他的一些言论中可能更接近于支持无政府主义，尽管这些言论远非系统化（参见麦克劳林2007年）。一些作者认为卢梭支持的是接近“_后验_哲学无政府主义”的观点（参见伯特拉姆2010年\[2017]）-我们将在下一节中对其进行定义。在古典政治哲学家中，我们还可以考虑洛克与“自由主义无政府主义”（参见瓦登2015年）或洛克提供的“处于无政府主义边缘的理论”，正如西蒙斯所说（西蒙斯1993年）。但尽管他坚决捍卫个人权利，严格描述自愿同意的方式，并主张革命，洛克认为可以根据社会契约理论来捍卫国家。
 
-将西方政治哲学的经典作者置于一边，最有可能找到德行论和*先验*无政府主义的地方是基督教无政府主义者中。当然，大多数基督徒并不是无政府主义者。但那些信奉无政府主义的基督徒通常会以托尔斯泰、别尔杰耶夫和埃吕等人所提出的绝对的、德行论的和*先验*的主张来支持无政府主义，正如上文所述。
+将西方政治哲学的经典作者置于一边，最有可能找到德行论和_先验_无政府主义的地方是基督教无政府主义者中。当然，大多数基督徒并不是无政府主义者。但那些信奉无政府主义的基督徒通常会以托尔斯泰、别尔杰耶夫和埃吕等人所提出的绝对的、德行论的和_先验_的主张来支持无政府主义，正如上文所述。
 
 ### 2.3 偶然的、后验的无政府主义
 
@@ -160,7 +160,7 @@ Chomsky并不否认举证的重担可以被承担起来。相反，他的观点�
 
 无政府主义的形式也在理论内容、批判焦点和无政府主义的想象实际影响方面存在差异。社会主义形式的无政府主义包括与克鲁泡特金（Kropotkin）相关的共产主义无政府主义和社区主义无政府主义（参见克拉克2013年）。社会主义的方法侧重于社会和社区团体的发展，这些团体被认为能够在等级制度和集权政治结构之外繁荣发展。个人主义形式的无政府主义包括一些形式的自由主义或无政府资本主义，以及以自我为导向的反法律主义和非从众主义。个人主义的焦点是拒绝群体身份和关于社会/社区利益的观念，同时坚定地根植于关于个体自主性的道德主张（参见凯西2012年）。
 
-个人无政府主义在历史上与斯蒂尔纳的思想有关，他说过：“每个国家都是专制主义”（斯蒂尔纳1844 [1995: 175]）。他认为没有义务服从国家和法律，因为法律和国家会妨碍个人的自我发展和自我意志。国家试图驯服我们的欲望，与教会一起破坏了自我享受和独特个性的发展。斯蒂尔纳甚至对社会组织和政党持批评态度。虽然不否认个人可以加入这些组织，但他坚持个人对党派或社会组织保留权利和身份：他拥抱党派，但不应让自己被党派“拥抱和吸纳”（斯蒂尔纳1844 [1995: 211]）。个人无政府主义经常被归因于包括乔赛亚·沃伦、本杰明·塔克和梭罗在内的各种思想家。
+个人无政府主义在历史上与斯蒂尔纳的思想有关，他说过：“每个国家都是专制主义”（斯蒂尔纳1844 \[1995: 175]）。他认为没有义务服从国家和法律，因为法律和国家会妨碍个人的自我发展和自我意志。国家试图驯服我们的欲望，与教会一起破坏了自我享受和独特个性的发展。斯蒂尔纳甚至对社会组织和政党持批评态度。虽然不否认个人可以加入这些组织，但他坚持个人对党派或社会组织保留权利和身份：他拥抱党派，但不应让自己被党派“拥抱和吸纳”（斯蒂尔纳1844 \[1995: 211]）。个人无政府主义经常被归因于包括乔赛亚·沃伦、本杰明·塔克和梭罗在内的各种思想家。
 
 个人无政府主义似乎也与艾恩·兰德所倡导的利己主义有一些共同之处。但兰德将无政府主义视为“天真的漂浮抽象”，在现实中无法存在；她认为政府的存在是为了保护人们的权利（兰德1964年）。穆雷·罗斯巴德则辩护了一种更强大的资本主义无政府主义，他拒绝了与共产主义相关的“左翼无政府主义”，同时赞赏塔克的个人无政府主义（罗斯巴德2008年）。罗斯巴德继续解释说，由于无政府主义通常被认为是主要是左翼共产主义现象，自由主义应该通过称之为“非无政府主义”来与无政府主义区分开来（罗斯巴德2008年）。文献中还使用了一个相关的术语“迷你无政府主义”，用来描述自由主义者允许的最小国家（参见马钦2002年）。自由主义者仍然是个人主义者，强调个人自由的重要性，尽管他们在国家权力可以被正当化的程度上与彻底的无政府主义者存在分歧。
 
@@ -168,9 +168,9 @@ Chomsky并不否认举证的重担可以被承担起来。相反，他的观点�
 
 我们可以看到，只关注负面自由的个人主义无政府主义经常被那些有兴趣重新构想社区并以更加平等的方式重组社会的无政府主义者所拒绝。事实上，个人主义无政府主义被批评为仅仅是一种“生活方式”（在Bookchin 1995中受到批评），它关注着服装、行为和其他个人主义的选择和偏好。Bookchin和其他对生活方式个人主义持批评态度的人会认为，仅仅不遵从规范对改变现状、推翻统治和权威结构几乎没有什么作用。不遵从规范和生活方式无政府主义也无法创造和维持肯定自由和平等的体系。但生活方式不遵从的支持者会认为，通过个人的生活方式选择，摒弃文化规范并表现出对一致性的蔑视，是有价值的。
 
-一种更强大的个人主义无政府主义将专注于诸如自治和自决等关键价值观，主张个人权利优先于社会群体。个人主义无政府主义者可以承认集体行动的重要性，并认为个体之间的自愿合作可以带来有益的、维护自治的社区。剩下的争议将考虑个体合作所产生的结果是一种资本主义形式还是一种社会共享或共产主义形式。另一方面，社会主义或共产主义取向的无政府主义将更加关注共享经济。这可以是一种大规模的互助主义，也可以是一些具体的、本地化的事物，比如家庭生活的共享或传统的盛宴。但这些想法仍然是无政府主义的，因为它们希望避免集中控制和建立等级制度的发展。与马克思主义者发展的以国家为中心的共产主义不同，无政府共产主义主张分权化。这种方法的座右铭来自克鲁泡特金：“一切为了一切”。在《征服面包》（1892年）中，克鲁泡特金批评了垄断集中化，阻止人们获得社会创造的财富。解决方案是“一切为了一切”：“我们宣称的是享受幸福的权利：幸福属于所有人！”（克鲁泡特金1892年[1995年：20]）。共产主义的理念是所有人都应该享受集体人类产品的成果，这与马克思主义的“各尽所能”（马克思1875年）的理念有些相似。但克鲁泡特金主张超越集中式的共产主义控制——他批评为纯粹的“集体主义”——朝着无政府共产主义发展：
+一种更强大的个人主义无政府主义将专注于诸如自治和自决等关键价值观，主张个人权利优先于社会群体。个人主义无政府主义者可以承认集体行动的重要性，并认为个体之间的自愿合作可以带来有益的、维护自治的社区。剩下的争议将考虑个体合作所产生的结果是一种资本主义形式还是一种社会共享或共产主义形式。另一方面，社会主义或共产主义取向的无政府主义将更加关注共享经济。这可以是一种大规模的互助主义，也可以是一些具体的、本地化的事物，比如家庭生活的共享或传统的盛宴。但这些想法仍然是无政府主义的，因为它们希望避免集中控制和建立等级制度的发展。与马克思主义者发展的以国家为中心的共产主义不同，无政府共产主义主张分权化。这种方法的座右铭来自克鲁泡特金：“一切为了一切”。在《征服面包》（1892年）中，克鲁泡特金批评了垄断集中化，阻止人们获得社会创造的财富。解决方案是“一切为了一切”：“我们宣称的是享受幸福的权利：幸福属于所有人！”（克鲁泡特金1892年\[1995年：20]）。共产主义的理念是所有人都应该享受集体人类产品的成果，这与马克思主义的“各尽所能”（马克思1875年）的理念有些相似。但克鲁泡特金主张超越集中式的共产主义控制——他批评为纯粹的“集体主义”——朝着无政府共产主义发展：
 
-无政府主义导致共产主义，而共产主义导致无政府主义，两者都是现代社会中主导趋势的表达，即追求平等。（克鲁泡特金 1892 [1995: 31]）
+无政府主义导致共产主义，而共产主义导致无政府主义，两者都是现代社会中主导趋势的表达，即追求平等。（克鲁泡特金 1892 \[1995: 31]）
 
 克鲁泡特金认为，共同体的冲动已经存在，并且个人主义资本主义的社会财富增长使得我们有可能朝着共享的方向发展。他认为历史的趋势是远离集中权力，朝着平等和自由的方向发展，并废除国家。克鲁泡特金的共产主义无政府主义基于一些历史和经验性的主张：关于事物是否可以在没有国家干预的情况下更加令人满意地安排；以及国家是否真的体现了不公正和压迫。古典自由主义和无政府资本主义也认为自由市场将能够充分最大化人类福祉，并帮助个人实现自主权。但对于社会主义和共产主义无政府主义者来说，个人自我实现的问题不如社会发展的理念重要。克鲁泡特金的“一切为了一切”表明了一种道德和本体论的关注，与个人主义者的观点不同。
 
@@ -188,23 +188,23 @@ Chomsky并不否认举证的重担可以被承担起来。相反，他的观点�
 
 ### 3.1 非暴力、暴力和犯罪
 
-对于参与政治的无政府主义者来说，一个重要的哲学和伦理问题是如何避免在没有集中政治权力的情况下持续发生的权力和暴力循环。如上所述，一个建议是无政府主义者通常会强调手段和目的的统一。这个想法说明了为什么无政府主义和和平主义之间存在一些重叠和共同之处。和平主义者通常强调手段和目的的统一。但并不是所有的和平主义者都是无政府主义者。然而，如上所述，无政府主义和基督教和平主义之间存在联系，比如托尔斯泰。甘地受到了托尔斯泰和无政府主义者的影响。尽管甘地更为人所知的是作为一个反殖民主义活动家，马歇尔将甘地列为无政府主义者之一（马歇尔2010年：第26章）。可以将反殖民主义运动和关于自决和自治的论述重构为一种无政府主义（旨在摧毁殖民权力和帝国国家）。甘地指出，在他的时代，印度有许多无政府主义者在工作。甘地用无政府主义这个词来形容主张暴力的投弹者。他说：“我自己是一个无政府主义者，但是另一种类型的”（甘地1916年[1956年：134]）。如果存在甘地式的无政府主义，它将拥抱非暴力。总的来说，托尔斯泰-甘地-金恩传统中发展起来的非暴力抵抗与一种远离政治权力、将国家视为战争的传播者和平等与人类发展的障碍的方法相吻合。
+对于参与政治的无政府主义者来说，一个重要的哲学和伦理问题是如何避免在没有集中政治权力的情况下持续发生的权力和暴力循环。如上所述，一个建议是无政府主义者通常会强调手段和目的的统一。这个想法说明了为什么无政府主义和和平主义之间存在一些重叠和共同之处。和平主义者通常强调手段和目的的统一。但并不是所有的和平主义者都是无政府主义者。然而，如上所述，无政府主义和基督教和平主义之间存在联系，比如托尔斯泰。甘地受到了托尔斯泰和无政府主义者的影响。尽管甘地更为人所知的是作为一个反殖民主义活动家，马歇尔将甘地列为无政府主义者之一（马歇尔2010年：第26章）。可以将反殖民主义运动和关于自决和自治的论述重构为一种无政府主义（旨在摧毁殖民权力和帝国国家）。甘地指出，在他的时代，印度有许多无政府主义者在工作。甘地用无政府主义这个词来形容主张暴力的投弹者。他说：“我自己是一个无政府主义者，但是另一种类型的”（甘地1916年\[1956年：134]）。如果存在甘地式的无政府主义，它将拥抱非暴力。总的来说，托尔斯泰-甘地-金恩传统中发展起来的非暴力抵抗与一种远离政治权力、将国家视为战争的传播者和平等与人类发展的障碍的方法相吻合。
 
 对这种无政府主义和和平主义的方法提出异议的是更激进的活动家，他们主张直接行动，包括破坏和其他形式的政治暴力，包括恐怖主义。例如，艾玛·戈尔德曼解释说，反资本主义的破坏行为破坏了私有财产的概念。虽然法律体系认为这是犯罪行为，但戈尔德曼认为不是。她解释道：
 
-> 从最好的意义上讲，这是道德的，因为它帮助社会摆脱最坏的敌人，社会生活中最有害的因素。破坏主要是通过各种可能的方法阻碍正常的生产过程，从而展示工人们按照他们所得到的给予回报，而不再多给。（戈尔德曼1913年[1998年：94]）
+> 从最好的意义上讲，这是道德的，因为它帮助社会摆脱最坏的敌人，社会生活中最有害的因素。破坏主要是通过各种可能的方法阻碍正常的生产过程，从而展示工人们按照他们所得到的给予回报，而不再多给。（戈尔德曼1913年\[1998年：94]）
 
 戈德曼在她的职业生涯中一直在思考暴力的问题。早期她更加积极地支持革命暴力。后来她开始重新思考这个问题。尽管如此，像她这一代的其他无政府主义者一样，她将暴力归因于国家，而她反对国家。她写道：
 
-> 我相信无政府主义是唯一的和平哲学，是唯一的重视人类生命的社会关系理论。我知道一些无政府主义者曾经实施过暴力行为，但这是可怕的经济不平等和巨大的政治不公正引发了这些行为，而不是无政府主义本身。今天的每个制度都建立在暴力之上；我们的整个社会氛围都充斥着暴力。（戈德曼 1913 [1998: 59]）
+> 我相信无政府主义是唯一的和平哲学，是唯一的重视人类生命的社会关系理论。我知道一些无政府主义者曾经实施过暴力行为，但这是可怕的经济不平等和巨大的政治不公正引发了这些行为，而不是无政府主义本身。今天的每个制度都建立在暴力之上；我们的整个社会氛围都充斥着暴力。（戈德曼 1913 \[1998: 59]）
 
 Goldman认为无政府主义的暴力只是一种反应。对于国家暴力的回应，无政府主义者经常辩称他们只是在自卫中使用暴力。另一个暴力的辩护者是马拉泰斯塔，他写道，对统治阶级暴力的革命必须是暴力的。他解释道：
 
-> 我认为，一个以暴力诞生并以暴力继续存在的政权，只有通过相应和相称的暴力才能被推翻。（马拉泰斯塔 1925 [2015: 48]）
+> 我认为，一个以暴力诞生并以暴力继续存在的政权，只有通过相应和相称的暴力才能被推翻。（马拉泰斯塔 1925 \[2015: 48]）
 
 像戈尔德曼一样，马拉泰斯塔也警告说，暴力不能成为目的本身，也不能为了自己而变得残暴和凶残。他还将无政府主义者描述为爱的传道者和和平的倡导者。他说：
 
-> 无政府主义者与其他人的区别实际上在于他们对暴力的恐惧，他们希望并打算从人际关系中消除身体上的暴力。（马拉泰斯塔 1924 [2015: 46]）
+> 无政府主义者与其他人的区别实际上在于他们对暴力的恐惧，他们希望并打算从人际关系中消除身体上的暴力。（马拉泰斯塔 1924 \[2015: 46]）
 
 但尽管拒绝使用暴力，马拉泰斯塔却主张暴力是一种必要的邪恶。
 
@@ -220,9 +220,9 @@ Goldman认为无政府主义的暴力只是一种反应。对于国家暴力的�
 
 一个重要的例子可以在梭罗身上找到，他以拒绝纳税的方式来解释他的不服从行为，如下所述：
 
-> 实际上，我以我自己的方式，悄悄地向国家宣战，尽管在这种情况下，我仍然会尽可能地利用她，从她那里获得好处。（梭罗 1849 [1937: 687]）
+> 实际上，我以我自己的方式，悄悄地向国家宣战，尽管在这种情况下，我仍然会尽可能地利用她，从她那里获得好处。（梭罗 1849 \[1937: 687]）
 
-梭罗的不服从是有原则的。他承认对国家宣战是一种犯罪行为。他愿意去监狱。但他也承认，在其他情况下他会与国家合作——因为合作有利可图。这表明了合作、抗议和不服从问题的复杂性。梭罗的文章《公民不服从》（1849年）经常被视为无政府主义宣言。克鲁泡特金将他视为无政府主义者（克鲁泡特金1927 [2002]）。托尔斯泰也钦佩他的公民不服从行为，甘地也是如此。
+梭罗的不服从是有原则的。他承认对国家宣战是一种犯罪行为。他愿意去监狱。但他也承认，在其他情况下他会与国家合作——因为合作有利可图。这表明了合作、抗议和不服从问题的复杂性。梭罗的文章《公民不服从》（1849年）经常被视为无政府主义宣言。克鲁泡特金将他视为无政府主义者（克鲁泡特金1927 \[2002]）。托尔斯泰也钦佩他的公民不服从行为，甘地也是如此。
 
 无政府主义者继续讨论不服从的策略和战术。在这个讨论中的一个问题是不服从的有效程度。如果要有成功的无政府主义不服从运动，它们必须组织起来并广泛传播。这样的运动是否真的能够成功解体国家机器仍然是一个悬而未决的问题。
 
@@ -264,7 +264,7 @@ Goldman认为无政府主义的暴力只是一种反应。对于国家暴力的�
 
 **回复**：理想理论总是与非理想理论对立。但乌托邦的思考可以用于明确价值观。因此，哲学上的无政府主义可能是有用的锻炼，可以帮助我们理解我们的价值观和承诺，尽管政治上的无政府主义没有成功的希望。此外，有一些成功的无政府主义社区在小范围内取得了成功（例如上面讨论的分离主义社区）。这些具体例子可以被看作是对无政府主义理论和实践的实验。
 
-**异议**：这个异议认为废除政治结构的政治理论毫无意义。当无政府主义被视为对任何情况和所有意义下权威的批判时，会引发相关的担忧。如果无政府主义者否认存在任何*arché*，那么这个说法就自相矛盾：我们将会有一个宣称没有统治理论的统治理论。这种批评与对相对主义和虚无主义的标准批评有关。与此相关的是一个更具体和平凡的异议，认为无政府主义运动或集体行动是不可能的，因为无政府主义在宪法上反对运动或集体的概念（因为在无政府主义下，没有权威的统治者或一套规则）。
+**异议**：这个异议认为废除政治结构的政治理论毫无意义。当无政府主义被视为对任何情况和所有意义下权威的批判时，会引发相关的担忧。如果无政府主义者否认存在任何_arché_，那么这个说法就自相矛盾：我们将会有一个宣称没有统治理论的统治理论。这种批评与对相对主义和虚无主义的标准批评有关。与此相关的是一个更具体和平凡的异议，认为无政府主义运动或集体行动是不可能的，因为无政府主义在宪法上反对运动或集体的概念（因为在无政府主义下，没有权威的统治者或一套规则）。
 
 **回复**：只有当无政府主义被视为绝对主义的全盘理论时，这个异议才成立。政治无政府主义者不一定同意怀疑性的后基础批判，即认为根本不存在统治原则或权威。相反，政治无政府主义者认为存在合法的权威，但政治权力很快失去了其权威性和合法性。此外，无政府主义者倾向于提倡基于自愿和互助、一致性和/或共识的组织原则和程序。从这个观点来看，只要避免强制性权威，无政府主义社区可以运作得很好。为了支持这一观点，无政府主义者会指向成功的无政府主义公社的历史例子。他们还会指向普通人际关系——在家庭和公民社会关系中——这些关系在没有强制性和等级性政治权威的情况下运作得很好。
 
@@ -276,105 +276,105 @@ Goldman认为无政府主义的暴力只是一种反应。对于国家暴力的�
 
 ## Bibliography
 
-- Anderson, William C. and Zoé Samudzi, 2017, “The Anarchism of Blackness” at *The Anarchist Library* [[Anderson and Samudzi 2017 available online](https://theanarchistlibrary.org/library/william-c-anderson-zoe-samudzi-the-anarchism-of-blackness)]
-- Bakunin, Mikhail, 1873 [1990], *Statism and Anarchy* (*Gosudarstvennost’ i anarkhii͡a*), Marshall S. Shatz (trans.), Cambridge: Cambridge University Press.
-- –––, 1882/1908 [1910/1970], *God and the State* (*Dieu et l’État*), New York: Dover Publishing.
-- Ben-Dor, Oren, 2000, *Constitutional Limits and the Public Sphere: A Critical Study of Bentham’s Constitutionalism*, Oxford: Hart Publishing.
-- Bentham, Jeremy, 1843, “Anarchical Fallacies”, in *The Works of Jeremy Bentham*, Volume 2. Edinburgh: Tait. [[Bentham 1843 available online](http://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-2)]
-- Berdyaev, Nicolas, 1940 [1944], *Slavery and Freedom* (*O rabstve i svobode cheloveka*), R.M. French (trans.), London: Geoffrey Bless.
-- Berlin, Isaiah, 1969, “Two Concepts of Liberty” in I. Berlin, *Four Essays on Liberty*, Oxford: Oxford University Press.
-- Bertram, Christopher, 2010 [2017], “Jean Jacques Rousseau”, *The Stanford Encyclopedia of Philosophy* (Summer 2017 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/sum2017/entries/rousseau/
-- Bey, Hakim, 1985, *The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism*, Anti-Copyright. [[Bey 1985 available online](https://hermetic.com/bey/taz_cont)]
-- Bookchin, Murray, 1971 [1986], *Post-Scarcity Anarchism*, Montreal: Black Rose.
-- –––, 1995, *Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm*, Oakland, CA: AK Press.
-- Camus, Albert, 1951 [1991], *The Rebel* (*L’homme révolté*), Anthony Bower (trans.), New York: Vintage
-- Casey, Gerard, 2012, *Libertarian Anarchy: Against the State*, London: Bloomsbury.
-- Chomsky, Noam, 2005, *Chomsky on Anarchism*, Barry Paterman (ed.), Oakland: AK Press.
-- Clark, John P., 2013, *The Impossible Community: Realizing Communitarian Anarchism*, London: Bloomsbury.
-- Christoyannopoulos, Alexandre J.M.E., 2010, “Christian Anarchism: A Revolutionary Reading of the Bible”, in Jun & Wahl 2010: 149–168.
-- –––, 2011, *Christian Anarchism: A Political Commentary on the Gospel* (Abridged Edition). Charlottesville, VA: Imprint Academic/Philosophy Documentation Center.
-- Croeser, Sky, 2019, “Post-Industrial and Digital Society” in Carl Levy and Matthew S. Adams, (eds.), *The Palgrave Handbook of Anarchism*, New York: Palgrave MacMillan.
-- Daring, C.B., J. Rogue, Deric Shannon, and Abbey Volcano (eds.), 2010, *Queering Anarchism: Addressing and Undressing Power and Desire*, Oakland, CA: AK Press.
-- Davis, Laurence, 2012, “Anarchism and the Future of Revolution”, in Ruth Kinna (ed.), *The Continuum Companion to Anarchism*, London: Continuum.
-- Davis, Richard A, 2009, “Love, Hate, and Kierkegaard’s Christian Politics of Indifference”, in Alexandre J.M.E. Christoyannopoulos, (ed.), *Religious Anarchism: New Perspectives*, Newcastle upon Tyne: Cambridge Scholars, pp. 82–105.
-- Depuis-Déri, Francis, 2010, “Anarchy in Political Philosophy”, in Jun & Wahl 2010: 9–24.
-- Ellul, Jacques, 1988 [1991], *Anarchy and Christianity* (*Anarchie et christianisme*), Geoffrey W. Bromiley (trans.), Grand Rapids, MI: Eerdmans
-- Ervin, Lorenzo Kom’boa, 1997 [2016], “Anarchism and the Black Revolution” in *Black Anarchism: A Reader*, Black Rose Anarchist Federation, at *The Anarchist Library* [[Ervin 1997 [2016] available online](https://theanarchistlibrary.org/library/black-rose-anarchist-federation-black-anarchism-a-reader#toc48)]
-- Feyerabend, Paul, 1975 [1993], *Against Method: Outline of an Anarchist Theory of Knowledge*, third edition, London: Verso. First edition is 1975.
-- Fiala, Andrew, 2013a, *Against Religions, Wars, and States: Enlightenment Atheism, Just War Pacifism, and Liberal-Democratic Anarchism*, Lanham, MD: Rowman and Littlefield.
-- –––, 2013b, “Political Skepticism and Anarchist Themes in the American Tradition”, *European Journal of Pragmatism and American Philosophy*, V(2). doi:10.4000/ejpap.545
-- –––, 2015, “Sovereignty”, in Andrew Fiala (ed.), *Bloomsbury Companion to Political Philosophy*, London: Bloomsbury Publishing, chapter 2.
-- Franks, Benjamin, 2003, “Direct Action Ethic”, *Anarchist Studies*, 11(1): 13–41.
-- Franks, Benjamin and Matthew Wilson (eds.), 2010, *Anarchism and Moral Philosophy*, New York: Palgrave MacMillan.
-- Franks, Benjamin, Nathan Jun, and Leonard Wilson (eds.), 2018, *Anarchism: A Conceptual Approach*, London: Routledge.
-- Gandhi, Mohandas K, 1916 [1956], “Benares University Speech, February 4, 1916”, in *The Gandhi Reader: A Sourcebook of His Life and Writings*, Homer A. Jack (ed.), New York: Grove Press, pp. 128–135.
-- Gans, Chaim, 1992, *Philosophical Anarchism and Political Disobedience*, Cambridge: Cambridge University Press.
-- Godwin, William, 1793, *An Enquiry Concerning Political Justice*, volume 2, London: G. G. J. and J. Robinson. [[Godwin 1793 available online](http://oll.libertyfund.org/titles/godwin-an-enquiry-concerning-political-justice-vol-ii)]
-- Goldman, Emma, 1913 [1996], “Syndicalism: Its Theory and Practice”, in *Red Emma Speaks: An Emma Goldman Reader*, third edition, Alix Kates Shulman (ed.), Atlantic Highlands, NJ: Humanities Press, pp. 87–100.
-- Graeber, David, 2004, *Fragments of an Anarchist Anthropology*, Chicago: Prickly Paradigm.
-- James, William, 1907 [1981], *Pragmatism*, Indianapolis: Hackett.
-- Jensen, Derick, 2006, *Endgame*, 2 volumes, New York: Seven Stories Press.
-- Johnson, Kahal and Kathy E. Ferguson, 2019, “Anarchism and Indigeneity”, in Carl Levy and Matthew S. Adams, (eds.), *The Palgrave Handbook of Anarchism*, New York: Palgrave MacMillan.
-- Jun, Nathan J. and Shane Wahl, (eds.), 2010, *New Perspectives on Anarchism*, Lanham, MD: Rowman and Littlefield.
-- Jun, Nathan J. (ed.), 2017, *Brill’s Companion to Anarchism and Philosophy*, Leiden, NL: Brill.
-- King, Martin Luther Jr, 1961 [1991], “Love, Law, and Civil Disobedience”, reprinted in *A Testament of Hope: The Essential Writings and Speeches of Martin Luther King, Jr.*, James Melvin Washington (ed.), San Francisco: HarperCollins, pp. 43–53.
-- Kornegger, Peggy, 1975, “Anarchism: The Feminist Connection”, *The Second Wave*, Spring. [[Kornegger 1975 available online](https://theanarchistlibrary.org/library/peggy-kornegger-anarchism-the-feminist-connection)]
-- Kropotkin, Peter, 1892 [1995], *The Conquest of Bread* (*La Conquête du Pain*) reprinted in *The Conquest of Bread and Other Anarchist Writings*, Marshall Shatz (ed.), Cambridge: Cambridge University Press, pp. 1–202.
-- –––, 1910, “Anarchism”, in *The Encyclopaedia Britannica*, 1910 edition. Reprinted in Kropotkin 1927. [[Kropotkin 1910 available online](http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/britanniaanarchy.html)]
-- –––, 1927 [2002], *Anarchism: A Collection of Revolutionary Writings*, Roger N. Baldwin (ed.), New York: Vanguard Press. Reprinted 2002 New York: Dover.
-- Lazar, Hilary, 2018, “Intersectionality”, in Benjamine Franks, Nathan Jun, and Leonard Wilson (eds.), *Anarchism: A Conceptual Approach*, London: Routledge.
-- Levy, Carl and Matthew S. Adams, (eds.), *The Palgrave Handbook of Anarchism*, New York: Palgrave MacMillan.
-- Machan, Tibor, R., 2002, “Anarchism and Minarchism: A Rapprochement”, From *Journal des Économistes et des Études Humaines* 12(4): 569–588.
-- Malatesta, Errico, 2015, *Life and Ideas: The Anarchist Writings of Enrico Malatesta*, Vernon Richards (ed.), Oakland, CA: PM Press.
-- Marshall, Peter H., 2010, *Demanding the Impossible: A History of Anarchism*, updated edition, Oakland, CA: PM Press.
-- Marx, Karl, 1875, *Critique of the Gotha Program* (Part I, Section 3), abridged version first published in *Die Neue Zeit*, 1(18) (1890–91). For the famous quote, see Section 3 in Part I, of the [version available online](https://www.marxists.org/archive/marx/works/1875/gotha/).
-- May, Todd, 1994, *The Political Philosophy of Poststructuralist Anarchism*, University Park, PA: Pennsylvania State University Press.
-- McLaughlin, Paul, 2007, *Anarchism and Authority: A Philosophical Introduction to Classical Anarchism*, New York: Routledge.
-- Newman, Saul, 2016, *Postanarchism*, Cambridge: Polity.
-- Nocella, Anthony J. II, Richard J. White, and Erika Cudworth (eds.), 2015, *Anarchism and Animal Liberation: Essays on Complementary Elements of Total Liberation*, Jefferson, NC: McFarland.
-- Nozick, Robert, 1974, *Anarchy, State, Utopia*, New York: Basic Books.
-- Ostrom, Elinor, 1990, *Governing the Commons: The Evolution of Institutions for Collective Action*, Cambridge: Cambridge University Press.
-- Perry, Lewis Wayne, 1973 [1995], *Radical Abolitionism: Anarchy and the Government of God in Antislavery Thought*, Knoxville, TN: University of Tennessee Press.
-- Parsons, Lucy, 1905 [2010] “The Principles of Anarchism”, at *The Anarchist Library* [[Parsons 1905 [2010] available online](https://theanarchistlibrary.org/library/lucy-e-parsons-the-principles-of-anarchism)]
-- Prichard, Alex, 2018, “Freedom” in Carl Levy and Matthew S. Adams, (eds.), *The Palgrave Handbook of Anarchism*, New York: Palgrave MacMillan.
-- Proudhon, Pierre-Joseph, 1840 [1876], *What is Property? First Memoir*, Benjamin R. Tucker (trans.), Princeton, MA: Benjamin R. Tucker.
-- Ramnath, Maia, 2011, *Decolonizing Anarchism: An Antiauthoritarian History of India’s Liberation Struggle*, Oakland, CA: AK Press.
-- Rand, Ayn, 1964, “The Nature of Government”, in *The Virtue of Selfishness*, New York: Penguin.
-- Rapp, John A., 2012, *Daoism and Anarchism: Critiques of State Autonomy in Ancient and Modern China*, London: Continuum.
-- Reiman, Jeffrey, 1972, *In Defense of Political Philosophy: A Reply to Robert Paul Wolff’s “In Defense of Anarchism”*, New York: Harper & Row.
-- Rothbard, Murray N., 1977, “Robert Nozick and the Immaculate Conception of the State”, *Journal of Libertarian Studies* 1(1): 45–57.
-- –––, 2008, “Are Libertarians ‘Anarchists’?”, at *Mises Daily*: Friday, January 04, 2008. URL = <[Are Libertarians &quot;Anarchists&quot;? | Mises Institute](https://mises.org/library/are-libertarians-anarchists)>
-- Sartwell, Crispin, 2008, *Against the State: An Introduction to Anarchist Political Theory*, Albany, NY: SUNY Press.
-- Scrivener, Michael Henry, 1982, *Radical Shelley: The Philosophical Anarchism and Utopian Thought of Percy Bysshe Shelley*, Princeton, NJ: Princeton University Press.
-- Simmons, A. John, 1980, *Moral Principles and Political Obligations*, Princeton, NJ: Princeton University Press.
-- –––, 1993, *On The Edge of Anarchy: Locke, Consent, and the Limits of Society*, Princeton, NJ: Princeton University Press.
-- –––, 2001, *Justification and Legitimacy: Essays on Rights and Obligations*, Cambridge: Cambridge University Press.
-- Stirner, Max, 1844 [1995], *The Ego and Its Own* (*Der Einzige und sein Eigentum*), David Leopold (ed.), Cambridge: Cambridge University Press. doi:9780511815959
-- Stringham, Edward P., 2007, *Anarchy and the Law: The Political Economy of Choice*, New Brunswick, NJ: Transaction.
-- Thoreau, Henry David, 1849 [1937], “Civil Disobedience” in *Walden and Other Writings*, Brooks Atkinson (ed.), New York: Modern Library, pp. 667–693.
-- Tolstoy, Leo, 1894, *The Kingdom of God is Within You* (*T͡Sarstvo Bozhie vnutri vas*), London: William Heinemann.
-- Varden, Helga, 2015, “John Locke: Libertarian Anarchism”, in *Philosophie de la justice/Philosophy of Justice*, Guttorm Fløistad (ed.), Netherlands: Springer, pp. 157–176.
-- Wolff, Robert Paul, 1970, *In Defense of Anarchism*, New York: Harper and Row.
-- Zerzan, John, 2008, *Running on Emptiness: The Pathology of Civilization*, Port Townsend, WA: Feral House.
-- –––, 2012, *Future Primitive: Revisited*, Port Townsend, WA: Feral House.
+* Anderson, William C. and Zoé Samudzi, 2017, “The Anarchism of Blackness” at _The Anarchist Library_ \[[Anderson and Samudzi 2017 available online](https://theanarchistlibrary.org/library/william-c-anderson-zoe-samudzi-the-anarchism-of-blackness)]
+* Bakunin, Mikhail, 1873 \[1990], _Statism and Anarchy_ (_Gosudarstvennost’ i anarkhii͡a_), Marshall S. Shatz (trans.), Cambridge: Cambridge University Press.
+* –––, 1882/1908 \[1910/1970], _God and the State_ (_Dieu et l’État_), New York: Dover Publishing.
+* Ben-Dor, Oren, 2000, _Constitutional Limits and the Public Sphere: A Critical Study of Bentham’s Constitutionalism_, Oxford: Hart Publishing.
+* Bentham, Jeremy, 1843, “Anarchical Fallacies”, in _The Works of Jeremy Bentham_, Volume 2. Edinburgh: Tait. \[[Bentham 1843 available online](http://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-2)]
+* Berdyaev, Nicolas, 1940 \[1944], _Slavery and Freedom_ (_O rabstve i svobode cheloveka_), R.M. French (trans.), London: Geoffrey Bless.
+* Berlin, Isaiah, 1969, “Two Concepts of Liberty” in I. Berlin, _Four Essays on Liberty_, Oxford: Oxford University Press.
+* Bertram, Christopher, 2010 \[2017], “Jean Jacques Rousseau”, _The Stanford Encyclopedia of Philosophy_ (Summer 2017 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/sum2017/entries/rousseau/
+* Bey, Hakim, 1985, _The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism_, Anti-Copyright. \[[Bey 1985 available online](https://hermetic.com/bey/taz\_cont)]
+* Bookchin, Murray, 1971 \[1986], _Post-Scarcity Anarchism_, Montreal: Black Rose.
+* –––, 1995, _Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm_, Oakland, CA: AK Press.
+* Camus, Albert, 1951 \[1991], _The Rebel_ (_L’homme révolté_), Anthony Bower (trans.), New York: Vintage
+* Casey, Gerard, 2012, _Libertarian Anarchy: Against the State_, London: Bloomsbury.
+* Chomsky, Noam, 2005, _Chomsky on Anarchism_, Barry Paterman (ed.), Oakland: AK Press.
+* Clark, John P., 2013, _The Impossible Community: Realizing Communitarian Anarchism_, London: Bloomsbury.
+* Christoyannopoulos, Alexandre J.M.E., 2010, “Christian Anarchism: A Revolutionary Reading of the Bible”, in Jun & Wahl 2010: 149–168.
+* –––, 2011, _Christian Anarchism: A Political Commentary on the Gospel_ (Abridged Edition). Charlottesville, VA: Imprint Academic/Philosophy Documentation Center.
+* Croeser, Sky, 2019, “Post-Industrial and Digital Society” in Carl Levy and Matthew S. Adams, (eds.), _The Palgrave Handbook of Anarchism_, New York: Palgrave MacMillan.
+* Daring, C.B., J. Rogue, Deric Shannon, and Abbey Volcano (eds.), 2010, _Queering Anarchism: Addressing and Undressing Power and Desire_, Oakland, CA: AK Press.
+* Davis, Laurence, 2012, “Anarchism and the Future of Revolution”, in Ruth Kinna (ed.), _The Continuum Companion to Anarchism_, London: Continuum.
+* Davis, Richard A, 2009, “Love, Hate, and Kierkegaard’s Christian Politics of Indifference”, in Alexandre J.M.E. Christoyannopoulos, (ed.), _Religious Anarchism: New Perspectives_, Newcastle upon Tyne: Cambridge Scholars, pp. 82–105.
+* Depuis-Déri, Francis, 2010, “Anarchy in Political Philosophy”, in Jun & Wahl 2010: 9–24.
+* Ellul, Jacques, 1988 \[1991], _Anarchy and Christianity_ (_Anarchie et christianisme_), Geoffrey W. Bromiley (trans.), Grand Rapids, MI: Eerdmans
+* Ervin, Lorenzo Kom’boa, 1997 \[2016], “Anarchism and the Black Revolution” in _Black Anarchism: A Reader_, Black Rose Anarchist Federation, at _The Anarchist Library_ \[[Ervin 1997 \[2016\] available online](https://theanarchistlibrary.org/library/black-rose-anarchist-federation-black-anarchism-a-reader#toc48)]
+* Feyerabend, Paul, 1975 \[1993], _Against Method: Outline of an Anarchist Theory of Knowledge_, third edition, London: Verso. First edition is 1975.
+* Fiala, Andrew, 2013a, _Against Religions, Wars, and States: Enlightenment Atheism, Just War Pacifism, and Liberal-Democratic Anarchism_, Lanham, MD: Rowman and Littlefield.
+* –––, 2013b, “Political Skepticism and Anarchist Themes in the American Tradition”, _European Journal of Pragmatism and American Philosophy_, V(2). doi:10.4000/ejpap.545
+* –––, 2015, “Sovereignty”, in Andrew Fiala (ed.), _Bloomsbury Companion to Political Philosophy_, London: Bloomsbury Publishing, chapter 2.
+* Franks, Benjamin, 2003, “Direct Action Ethic”, _Anarchist Studies_, 11(1): 13–41.
+* Franks, Benjamin and Matthew Wilson (eds.), 2010, _Anarchism and Moral Philosophy_, New York: Palgrave MacMillan.
+* Franks, Benjamin, Nathan Jun, and Leonard Wilson (eds.), 2018, _Anarchism: A Conceptual Approach_, London: Routledge.
+* Gandhi, Mohandas K, 1916 \[1956], “Benares University Speech, February 4, 1916”, in _The Gandhi Reader: A Sourcebook of His Life and Writings_, Homer A. Jack (ed.), New York: Grove Press, pp. 128–135.
+* Gans, Chaim, 1992, _Philosophical Anarchism and Political Disobedience_, Cambridge: Cambridge University Press.
+* Godwin, William, 1793, _An Enquiry Concerning Political Justice_, volume 2, London: G. G. J. and J. Robinson. \[[Godwin 1793 available online](http://oll.libertyfund.org/titles/godwin-an-enquiry-concerning-political-justice-vol-ii)]
+* Goldman, Emma, 1913 \[1996], “Syndicalism: Its Theory and Practice”, in _Red Emma Speaks: An Emma Goldman Reader_, third edition, Alix Kates Shulman (ed.), Atlantic Highlands, NJ: Humanities Press, pp. 87–100.
+* Graeber, David, 2004, _Fragments of an Anarchist Anthropology_, Chicago: Prickly Paradigm.
+* James, William, 1907 \[1981], _Pragmatism_, Indianapolis: Hackett.
+* Jensen, Derick, 2006, _Endgame_, 2 volumes, New York: Seven Stories Press.
+* Johnson, Kahal and Kathy E. Ferguson, 2019, “Anarchism and Indigeneity”, in Carl Levy and Matthew S. Adams, (eds.), _The Palgrave Handbook of Anarchism_, New York: Palgrave MacMillan.
+* Jun, Nathan J. and Shane Wahl, (eds.), 2010, _New Perspectives on Anarchism_, Lanham, MD: Rowman and Littlefield.
+* Jun, Nathan J. (ed.), 2017, _Brill’s Companion to Anarchism and Philosophy_, Leiden, NL: Brill.
+* King, Martin Luther Jr, 1961 \[1991], “Love, Law, and Civil Disobedience”, reprinted in _A Testament of Hope: The Essential Writings and Speeches of Martin Luther King, Jr._, James Melvin Washington (ed.), San Francisco: HarperCollins, pp. 43–53.
+* Kornegger, Peggy, 1975, “Anarchism: The Feminist Connection”, _The Second Wave_, Spring. \[[Kornegger 1975 available online](https://theanarchistlibrary.org/library/peggy-kornegger-anarchism-the-feminist-connection)]
+* Kropotkin, Peter, 1892 \[1995], _The Conquest of Bread_ (_La Conquête du Pain_) reprinted in _The Conquest of Bread and Other Anarchist Writings_, Marshall Shatz (ed.), Cambridge: Cambridge University Press, pp. 1–202.
+* –––, 1910, “Anarchism”, in _The Encyclopaedia Britannica_, 1910 edition. Reprinted in Kropotkin 1927. \[[Kropotkin 1910 available online](http://dwardmac.pitzer.edu/anarchist\_archives/kropotkin/britanniaanarchy.html)]
+* –––, 1927 \[2002], _Anarchism: A Collection of Revolutionary Writings_, Roger N. Baldwin (ed.), New York: Vanguard Press. Reprinted 2002 New York: Dover.
+* Lazar, Hilary, 2018, “Intersectionality”, in Benjamine Franks, Nathan Jun, and Leonard Wilson (eds.), _Anarchism: A Conceptual Approach_, London: Routledge.
+* Levy, Carl and Matthew S. Adams, (eds.), _The Palgrave Handbook of Anarchism_, New York: Palgrave MacMillan.
+* Machan, Tibor, R., 2002, “Anarchism and Minarchism: A Rapprochement”, From _Journal des Économistes et des Études Humaines_ 12(4): 569–588.
+* Malatesta, Errico, 2015, _Life and Ideas: The Anarchist Writings of Enrico Malatesta_, Vernon Richards (ed.), Oakland, CA: PM Press.
+* Marshall, Peter H., 2010, _Demanding the Impossible: A History of Anarchism_, updated edition, Oakland, CA: PM Press.
+* Marx, Karl, 1875, _Critique of the Gotha Program_ (Part I, Section 3), abridged version first published in _Die Neue Zeit_, 1(18) (1890–91). For the famous quote, see Section 3 in Part I, of the [version available online](https://www.marxists.org/archive/marx/works/1875/gotha/).
+* May, Todd, 1994, _The Political Philosophy of Poststructuralist Anarchism_, University Park, PA: Pennsylvania State University Press.
+* McLaughlin, Paul, 2007, _Anarchism and Authority: A Philosophical Introduction to Classical Anarchism_, New York: Routledge.
+* Newman, Saul, 2016, _Postanarchism_, Cambridge: Polity.
+* Nocella, Anthony J. II, Richard J. White, and Erika Cudworth (eds.), 2015, _Anarchism and Animal Liberation: Essays on Complementary Elements of Total Liberation_, Jefferson, NC: McFarland.
+* Nozick, Robert, 1974, _Anarchy, State, Utopia_, New York: Basic Books.
+* Ostrom, Elinor, 1990, _Governing the Commons: The Evolution of Institutions for Collective Action_, Cambridge: Cambridge University Press.
+* Perry, Lewis Wayne, 1973 \[1995], _Radical Abolitionism: Anarchy and the Government of God in Antislavery Thought_, Knoxville, TN: University of Tennessee Press.
+* Parsons, Lucy, 1905 \[2010] “The Principles of Anarchism”, at _The Anarchist Library_ \[[Parsons 1905 \[2010\] available online](https://theanarchistlibrary.org/library/lucy-e-parsons-the-principles-of-anarchism)]
+* Prichard, Alex, 2018, “Freedom” in Carl Levy and Matthew S. Adams, (eds.), _The Palgrave Handbook of Anarchism_, New York: Palgrave MacMillan.
+* Proudhon, Pierre-Joseph, 1840 \[1876], _What is Property? First Memoir_, Benjamin R. Tucker (trans.), Princeton, MA: Benjamin R. Tucker.
+* Ramnath, Maia, 2011, _Decolonizing Anarchism: An Antiauthoritarian History of India’s Liberation Struggle_, Oakland, CA: AK Press.
+* Rand, Ayn, 1964, “The Nature of Government”, in _The Virtue of Selfishness_, New York: Penguin.
+* Rapp, John A., 2012, _Daoism and Anarchism: Critiques of State Autonomy in Ancient and Modern China_, London: Continuum.
+* Reiman, Jeffrey, 1972, _In Defense of Political Philosophy: A Reply to Robert Paul Wolff’s “In Defense of Anarchism”_, New York: Harper & Row.
+* Rothbard, Murray N., 1977, “Robert Nozick and the Immaculate Conception of the State”, _Journal of Libertarian Studies_ 1(1): 45–57.
+* –––, 2008, “Are Libertarians ‘Anarchists’?”, at _Mises Daily_: Friday, January 04, 2008. URL = <[Are Libertarians "Anarchists"? | Mises Institute](https://mises.org/library/are-libertarians-anarchists)>
+* Sartwell, Crispin, 2008, _Against the State: An Introduction to Anarchist Political Theory_, Albany, NY: SUNY Press.
+* Scrivener, Michael Henry, 1982, _Radical Shelley: The Philosophical Anarchism and Utopian Thought of Percy Bysshe Shelley_, Princeton, NJ: Princeton University Press.
+* Simmons, A. John, 1980, _Moral Principles and Political Obligations_, Princeton, NJ: Princeton University Press.
+* –––, 1993, _On The Edge of Anarchy: Locke, Consent, and the Limits of Society_, Princeton, NJ: Princeton University Press.
+* –––, 2001, _Justification and Legitimacy: Essays on Rights and Obligations_, Cambridge: Cambridge University Press.
+* Stirner, Max, 1844 \[1995], _The Ego and Its Own_ (_Der Einzige und sein Eigentum_), David Leopold (ed.), Cambridge: Cambridge University Press. doi:9780511815959
+* Stringham, Edward P., 2007, _Anarchy and the Law: The Political Economy of Choice_, New Brunswick, NJ: Transaction.
+* Thoreau, Henry David, 1849 \[1937], “Civil Disobedience” in _Walden and Other Writings_, Brooks Atkinson (ed.), New York: Modern Library, pp. 667–693.
+* Tolstoy, Leo, 1894, _The Kingdom of God is Within You_ (_T͡Sarstvo Bozhie vnutri vas_), London: William Heinemann.
+* Varden, Helga, 2015, “John Locke: Libertarian Anarchism”, in _Philosophie de la justice/Philosophy of Justice_, Guttorm Fløistad (ed.), Netherlands: Springer, pp. 157–176.
+* Wolff, Robert Paul, 1970, _In Defense of Anarchism_, New York: Harper and Row.
+* Zerzan, John, 2008, _Running on Emptiness: The Pathology of Civilization_, Port Townsend, WA: Feral House.
+* –––, 2012, _Future Primitive: Revisited_, Port Townsend, WA: Feral House.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=anarchism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/anarchism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=anarchism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/anarchism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=anarchism).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/anarchism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=anarchism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/anarchism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-- [The Anarchist Library](https://theanarchistlibrary.org/)
-- [Oxford Bibliographies: Philosophical Anarchism](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0194.xml)
-- [Marxist Internet Archive](https://www.marxists.org/)
+* [The Anarchist Library](https://theanarchistlibrary.org/)
+* [Oxford Bibliographies: Philosophical Anarchism](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0194.xml)
+* [Marxist Internet Archive](https://www.marxists.org/)
 
 ## Related Entries
 
-[authority](https://plato.stanford.edu/entries/authority/) | [autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [Feyerabend, Paul](https://plato.stanford.edu/entries/feyerabend/) | [Godwin, William](https://plato.stanford.edu/entries/godwin/) | [libertarianism](https://plato.stanford.edu/entries/libertarianism/) | [Nozick, Robert: political philosophy](https://plato.stanford.edu/entries/nozick-political/) | [pacifism](https://plato.stanford.edu/entries/pacifism/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/) | [sovereignty](https://plato.stanford.edu/entries/sovereignty/) | [Stirner, Max](https://plato.stanford.edu/entries/max-stirner/)
+[authority](https://plato.stanford.edu/entries/authority/) | [autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [Feyerabend, Paul](https://plato.stanford.edu/entries/feyerabend/) | [Godwin, William](https://plato.stanford.edu/entries/godwin/) | [libertarianism](https://plato.stanford.edu/entries/libertarianism/) | [Nozick, Robert: political philosophy](https://plato.stanford.edu/entries/nozick-political/) | [pacifism](https://plato.stanford.edu/entries/pacifism/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/) | [sovereignty](https://plato.stanford.edu/entries/sovereignty/) | [Stirner, Max](https://plato.stanford.edu/entries/max-stirner/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Andrew Fiala](http://zimmer.csufresno.edu/~afiala) <[*afiala@csufresno.edu*](mailto:afiala%40csufresno%2eedu)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Andrew Fiala](http://zimmer.csufresno.edu/\~afiala) <[_afiala@csufresno.edu_](mailto:afiala%40csufresno%2eedu)>

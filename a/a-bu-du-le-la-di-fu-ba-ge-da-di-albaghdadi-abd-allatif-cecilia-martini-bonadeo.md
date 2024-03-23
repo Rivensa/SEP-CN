@@ -1,27 +1,27 @@
 # 阿卜杜勒·拉蒂夫·巴格达迪 al-Baghdadi, ‘Abd al-Latif (Cecilia Martini Bonadeo)
 
-*首次发布于2015年9月9日，实质修订于2023年9月28日*
+_首次发布于2015年9月9日，实质修订于2023年9月28日_
 
 希腊-阿拉伯科学在公元8-10世纪间通过翻译家的大规模活动以及al-Kindi对知识的追求，以及亚里士多德记录团队对其解释活动的介入下渗透到了伊斯兰世界。从10世纪末到11世纪以及12世纪初，将原创哲学文学翻译成阿拉伯语和波斯语成为了阿拉伯-伊斯兰哲学的主流，其与希腊翻译的阿拉伯哲学源自越来越远。阿维森纳的作品充分证明了这一现象，并促进了12世纪的净化主义潮流，由Averroes在穆斯林西部提出，这类似但并不相同的现象也发生在穆斯林东部，由Muwaffaq al-Din Muhammad Abd al-Latif ibn Yusuf al-Baghdadi所代表。
 
 阿卜杜勒·拉蒂夫·巴格达迪是一位哲学家和博学家，生活在第二次十字军东征（1147-1149年）和第五次十字军东征末期（1217-1231年）之间（杰克逊2017）。他于1162年出生在巴格达，在经历了超过40年的朝圣之旅后于1231年11月9日在那里去世，旅行期间他走遍了伊拉克，叙利亚和埃及，寻找着好的哲学老师。他在一个拥有与Nizamiyya madrasa密切联系的Shafi‘i家庭中长大，并接受了伊斯兰科学的扎实教育。随后他转向了自然科学，医学，哲学，以及重要的炼金术。他对知识的痴迷搜索使他通过他们的著作结识了阿维森纳，al-Ghazali和al-Suhrawardi。阿卜杜勒·拉蒂夫有许多慷慨的赞助人，并与他那个时代最重要的人物保持着联系，包括萨拉丁和开罗的Maimonides。对于阿卜杜勒·拉蒂夫来说，开罗代表着他期望已久的朝圣目标，那里是他最终见到亚里士多德及其哲学以及其评论家Themistius和Alexander的地方，也是他第一次接触东方最伟大的阿拉伯亚里士多德评论家al-Farabi的工作的地方。对于阿卜杜勒·拉蒂夫来说，开罗还意味着渐进地放弃阿维森纳的哲学，在他教育早期，他认为阿维森纳的哲学是唯一可能的哲学。阿卜杜勒·拉蒂夫是一位尖锐的批评家，独立思考者，以及哲学和医学的多产作家。他的口头智力计划是回到阿拉伯语翻译的原始希腊著作，特别是回到哲学的亚里士多德和医学的希波克拉底（经由盖伦）。但他只能通过al-Kindi和al-Farabi之前的哲学家对这些来源的再创作来回到这些来源。
 
 * [生平与作品](https://plato.stanford.edu/entries/al-baghdadi/#LifeWork)
-* [1.1 生平](https://plato.stanford.edu/entries/al-baghdadi/#Life) * [1.2 作品](https://plato.stanford.edu/entries/al-baghdadi/#Work) * [2. 哲学研究是什么](https://plato.stanford.edu/entries/al-baghdadi/#WhatPhilRese) * [3. 对现代人的批评](https://plato.stanford.edu/entries/al-baghdadi/#CritAgaiMode)
-* [3.1 反对阿维森纳](https://plato.stanford.edu/entries/al-baghdadi/#AgaiAvic) * [3.2 反对法赫鲁丁·拉齐](https://plato.stanford.edu/entries/al-baghdadi/#AgaiFakhAlDinAlRazi) * [4. 形而上学](https://plato.stanford.edu/entries/al-baghdadi/#Meta)
-* [4.1 形而上学作为对原因和第一哲学的研究](https://plato.stanford.edu/entries/al-baghdadi/#MetaReseCausFirsPhil) * [4.2 天意](https://plato.stanford.edu/entries/al-baghdadi/#Prov) * [4.3 知性和第一因](https://plato.stanford.edu/entries/al-baghdadi/#InteFirsCaus) * [4.4 形而上学科学作为主权科学](https://plato.stanford.edu/entries/al-baghdadi/#MetaScieScieSove) * [5. 良好和不良的认识论和实践](https://plato.stanford.edu/entries/al-baghdadi/#GoodBadEpisPrac)
-* [5.1 医学认识论](https://plato.stanford.edu/entries/al-baghdadi/#MediEpis) * [5.2 反对炼金术](https://plato.stanford.edu/entries/al-baghdadi/#AgaiAlch) * [参考文献](https://plato.stanford.edu/entries/al-baghdadi/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/al-baghdadi/#PrimSour) * [次要来源](https://plato.stanford.edu/entries/al-baghdadi/#SecoSour) * [学术工具](https://plato.stanford.edu/entries/al-baghdadi/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/al-baghdadi/#Oth) * [相关条目](https://plato.stanford.edu/entries/al-baghdadi/#Rel)
+* [1.1 生平](https://plato.stanford.edu/entries/al-baghdadi/#Life) \* [1.2 作品](https://plato.stanford.edu/entries/al-baghdadi/#Work) \* [2. 哲学研究是什么](https://plato.stanford.edu/entries/al-baghdadi/#WhatPhilRese) \* [3. 对现代人的批评](https://plato.stanford.edu/entries/al-baghdadi/#CritAgaiMode)
+* [3.1 反对阿维森纳](https://plato.stanford.edu/entries/al-baghdadi/#AgaiAvic) \* [3.2 反对法赫鲁丁·拉齐](https://plato.stanford.edu/entries/al-baghdadi/#AgaiFakhAlDinAlRazi) \* [4. 形而上学](https://plato.stanford.edu/entries/al-baghdadi/#Meta)
+* [4.1 形而上学作为对原因和第一哲学的研究](https://plato.stanford.edu/entries/al-baghdadi/#MetaReseCausFirsPhil) \* [4.2 天意](https://plato.stanford.edu/entries/al-baghdadi/#Prov) \* [4.3 知性和第一因](https://plato.stanford.edu/entries/al-baghdadi/#InteFirsCaus) \* [4.4 形而上学科学作为主权科学](https://plato.stanford.edu/entries/al-baghdadi/#MetaScieScieSove) \* [5. 良好和不良的认识论和实践](https://plato.stanford.edu/entries/al-baghdadi/#GoodBadEpisPrac)
+* [5.1 医学认识论](https://plato.stanford.edu/entries/al-baghdadi/#MediEpis) \* [5.2 反对炼金术](https://plato.stanford.edu/entries/al-baghdadi/#AgaiAlch) \* [参考文献](https://plato.stanford.edu/entries/al-baghdadi/#Bib)
+* [主要来源](https://plato.stanford.edu/entries/al-baghdadi/#PrimSour) \* [次要来源](https://plato.stanford.edu/entries/al-baghdadi/#SecoSour) \* [学术工具](https://plato.stanford.edu/entries/al-baghdadi/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/al-baghdadi/#Oth) \* [相关条目](https://plato.stanford.edu/entries/al-baghdadi/#Rel)
 
----
+***
 
 ## 生平与作品
 
 ### 1.1 生平
 
-阿卜杜勒·拉蒂夫的思想立场在他的自传（*sira*）中得以体现。这似乎是他为他的儿子沙拉夫·阿尔丁·尤素夫写的一部已经不存在的更大作品的一部分。*sira*包含在伊本·阿比·乌赛比亚（Ibn Abi Usaybi'a）的《医生类别信息来源》（Ibn Abi Usaybi'a，约1242年[1882-1884]，*Kitab 'Uyun al-anba' fi tabaqat al-atibba'* ，A. Müller（ed.），al-Qahira：al-Matba'at al-wahbiyya，1882-1884：II. 201-213；Martini Bonadeo 2013）中。19世纪初，它由穆斯利（Mousley 1808）编辑并翻译成拉丁语，然后由德·萨西（de Sacy 1810）重新编辑并翻译成法语。第二部自传包含在1225年在埃尔津詹创作的《两个忠告之书》中，保存在布尔萨的Bursa，Il Halk Kütüphanesi，Huseyin Çelebi 823手稿中（参见Stern 1962；Dietrich 1964；Gutas 2011；Martini Bonadeo 2013；Joosse 2014；Jad 2017；Fedouache - Ajoun - Ben Ahmed 2018）。我们失去的第三部自传可能由他的学生伊本·哈利坎（Ibn Khallikan）引用（Ibn Khallikan，Shams al-Din Ahmad ibn Muhammad，d. 1282 [1968-1977]，*Wafayat al-a'yan wa-anba' abna' al-zaman*，I. Abbas（ed.），贝鲁特：达尔萨迪尔，1968-1977：IV.76-77）。阿卜杜·拉蒂夫自传的其他段落被阿尔扎哈比（al-Dhahabi）的《伊斯兰史》（Von Somogyi 1937；Cahen 1970）保存。最后，关于阿卜杜·拉蒂夫的更多信息可以在他在埃及的旅行报告《我所目睹的事物和在埃及土地上看到的事件的报告书》中找到，这是从他自己的埃及历史著作《关于埃及的长篇书》中提取的一本汇编（Wahl 1790；de Sacy 1810；Zand，Videan和Videan 1965；Malallah 1987；Martini Bonadeo 2017；Kzzo-Bellucci 2020）。
+阿卜杜勒·拉蒂夫的思想立场在他的自传（_sira_）中得以体现。这似乎是他为他的儿子沙拉夫·阿尔丁·尤素夫写的一部已经不存在的更大作品的一部分。_sira_包含在伊本·阿比·乌赛比亚（Ibn Abi Usaybi'a）的《医生类别信息来源》（Ibn Abi Usaybi'a，约1242年\[1882-1884]，_Kitab 'Uyun al-anba' fi tabaqat al-atibba'_ ，A. Müller（ed.），al-Qahira：al-Matba'at al-wahbiyya，1882-1884：II. 201-213；Martini Bonadeo 2013）中。19世纪初，它由穆斯利（Mousley 1808）编辑并翻译成拉丁语，然后由德·萨西（de Sacy 1810）重新编辑并翻译成法语。第二部自传包含在1225年在埃尔津詹创作的《两个忠告之书》中，保存在布尔萨的Bursa，Il Halk Kütüphanesi，Huseyin Çelebi 823手稿中（参见Stern 1962；Dietrich 1964；Gutas 2011；Martini Bonadeo 2013；Joosse 2014；Jad 2017；Fedouache - Ajoun - Ben Ahmed 2018）。我们失去的第三部自传可能由他的学生伊本·哈利坎（Ibn Khallikan）引用（Ibn Khallikan，Shams al-Din Ahmad ibn Muhammad，d. 1282 \[1968-1977]，_Wafayat al-a'yan wa-anba' abna' al-zaman_，I. Abbas（ed.），贝鲁特：达尔萨迪尔，1968-1977：IV.76-77）。阿卜杜·拉蒂夫自传的其他段落被阿尔扎哈比（al-Dhahabi）的《伊斯兰史》（Von Somogyi 1937；Cahen 1970）保存。最后，关于阿卜杜·拉蒂夫的更多信息可以在他在埃及的旅行报告《我所目睹的事物和在埃及土地上看到的事件的报告书》中找到，这是从他自己的埃及历史著作《关于埃及的长篇书》中提取的一本汇编（Wahl 1790；de Sacy 1810；Zand，Videan和Videan 1965；Malallah 1987；Martini Bonadeo 2017；Kzzo-Bellucci 2020）。
 
-他于1162年2月至4月间在巴格达出生，出生于一户来自摩苏尔的上层家庭，并在巴格达度过了他的成长岁月，直到1189年。他的同时代人亚库特写道，他以他的血统（*qadim*​*^an^*）而闻名，被称为伊本·阿尔·拉巴德，一种家族姓氏（Yaqut al-Hamawi al-Rumi，d. 1229 [1993]，*Mu'jam al-udaba'. Irshad al-arib ila ma'rifat al-adib*，I. Abbas（ed.），贝鲁特：达尔·加尔布·阿尔·伊斯兰尼，1993：IV.1571）。在巴格达的青年时期，在他的父亲阿布·尔·伊兹·伊本·穆罕默德·阿尔·莫斯利的指导下，他与许多著名学者一起学习伊斯兰科学和医学，包括卡马勒·阿迪尔·拉赫曼·阿尔·安巴里（d.1181），尼扎米耶学院的法学（法律），文学，传统和阿拉伯语法教授，瓦吉赫·瓦西提（d.1215），扎菲里亚清真寺的教授，伊本·法德兰（d.1199），一位杰出的法学学者，精通法律的分歧和辩证法，并领导伊拉克的沙菲派，阿卜杜拉·伊本·艾哈迈德·伊本·阿尔-卡什沙卜（d.1171），传统学家，语法学家，数学家，遗产法和家谱学专家，Radi al-Dawla Abu Nasr（d.ca.1182），著名医生Amin al-Dawla Ibn al-Tilmidh的儿子，医学科目教授。
+他于1162年2月至4月间在巴格达出生，出生于一户来自摩苏尔的上层家庭，并在巴格达度过了他的成长岁月，直到1189年。他的同时代人亚库特写道，他以他的血统（_qadim_​\*^an^\*）而闻名，被称为伊本·阿尔·拉巴德，一种家族姓氏（Yaqut al-Hamawi al-Rumi，d. 1229 \[1993]，_Mu'jam al-udaba'. Irshad al-arib ila ma'rifat al-adib_，I. Abbas（ed.），贝鲁特：达尔·加尔布·阿尔·伊斯兰尼，1993：IV.1571）。在巴格达的青年时期，在他的父亲阿布·尔·伊兹·伊本·穆罕默德·阿尔·莫斯利的指导下，他与许多著名学者一起学习伊斯兰科学和医学，包括卡马勒·阿迪尔·拉赫曼·阿尔·安巴里（d.1181），尼扎米耶学院的法学（法律），文学，传统和阿拉伯语法教授，瓦吉赫·瓦西提（d.1215），扎菲里亚清真寺的教授，伊本·法德兰（d.1199），一位杰出的法学学者，精通法律的分歧和辩证法，并领导伊拉克的沙菲派，阿卜杜拉·伊本·艾哈迈德·伊本·阿尔-卡什沙卜（d.1171），传统学家，语法学家，数学家，遗产法和家谱学专家，Radi al-Dawla Abu Nasr（d.ca.1182），著名医生Amin al-Dawla Ibn al-Tilmidh的儿子，医学科目教授。
 
 在他的故乡，阿卜杜勒·拉蒂夫首次接触哲学，并研究了阿尔加扎里的《哲学意图》、《逻辑艺术中的科学尺度》、《伦理行动准则》和《逻辑推理的试金石》。然后，他转向阿维森纳（Avicenna）的著作，包括巴赫马尼亚尔（Bahmanyar）的《救赎》、《疗法》、《经典》和《验证》。最后，在巴格达，他学习了印度数学、欧几里德几何和贾比尔·伊本·海扬的许多炼金术书籍，但后来他放弃了这门他认为是非理性的学科。
 
@@ -29,43 +29,43 @@
 
 他在埃及的目标是与Yasin al-Simiya'i会面，他是一位不太知名的炼金术士，以及著名的犹太哲学家、神学家和医生摩西·迈蒙尼德斯，他于1135年出生在科尔多瓦。‘Abd al-Latif拒绝与前者合作，因为他的教学毫无意义，而发现后者很出色，但受到超越欲望和政治野心的支配。‘Abd al-Latif读过迈蒙尼德斯的《迷惑者的指南》，发现这是一本糟糕的书，腐蚀了信仰和宗教的原则。
 
-‘Abd al-Latif与伊本·鲁什德学派的接触发生在开罗这个充满活力的文化环境中，在那里他遇到了谢里'al-Shari'i，他精通“古代”作品和阿布·纳斯尔·法拉比的作品。也许他是著名的*传承学*（*hadith*）大师阿布·卡西姆·布斯里（或者布赛里，去世于1202年），如德·薩西（de Sacy 1810）谨慎地暗示的那样。但由于‘Abd al-Latif的九位当代人使用了“谢里”这个姓氏，其中大多数是开罗的学术世家的成员，其中两人还使用*昆雅*（*kunya*）阿布·卡西姆。此外，布斯里以及九位使用“谢里”这个姓氏的人并没有以他们精通哲学知识而闻名（Griffel 2023）。在开罗，‘Abd al-Latif首次研究了“古代”著作，即亚里士多德、亚历山大·阿菲罗迪修斯和忒密斯提乌斯的著作，并在这些著作的基础上开始检验伊本·西那（Avicenna）学说的合理性。因此他得出了伊本·西那的工作的劣势结论。然而，‘Abd al-Latif内心深处非常不愿放弃曾经是他的导师和研究启发的人。
+‘Abd al-Latif与伊本·鲁什德学派的接触发生在开罗这个充满活力的文化环境中，在那里他遇到了谢里'al-Shari'i，他精通“古代”作品和阿布·纳斯尔·法拉比的作品。也许他是著名的_传承学_（_hadith_）大师阿布·卡西姆·布斯里（或者布赛里，去世于1202年），如德·薩西（de Sacy 1810）谨慎地暗示的那样。但由于‘Abd al-Latif的九位当代人使用了“谢里”这个姓氏，其中大多数是开罗的学术世家的成员，其中两人还使用_昆雅_（_kunya_）阿布·卡西姆。此外，布斯里以及九位使用“谢里”这个姓氏的人并没有以他们精通哲学知识而闻名（Griffel 2023）。在开罗，‘Abd al-Latif首次研究了“古代”著作，即亚里士多德、亚历山大·阿菲罗迪修斯和忒密斯提乌斯的著作，并在这些著作的基础上开始检验伊本·西那（Avicenna）学说的合理性。因此他得出了伊本·西那的工作的劣势结论。然而，‘Abd al-Latif内心深处非常不愿放弃曾经是他的导师和研究启发的人。
 
-1192年9月13日，阿尤布王朝与法兰克人达成停战协议之后，阿卜杜勒·拉蒂夫搬到了耶路撒冷，在那里与萨拉丁面谈，并获得了丰厚的津贴，在大马士革乌玛亚清真寺教书。萨拉丁去世后（1193年），阿卜杜·拉蒂夫的晚年变成了一系列长途旅行，不再是为了寻求知识、教导、师资和书籍，而是出于或应主保需求的动机：在大马士革是萨拉丁的长子马利克·阿夫达勒，开罗是马利克·阿齐兹，在耶路撒冷是马利克·阿迪勒_塞义夫·阿丁·阿布·巴克尔·伊本·艾尤卜，在厄尔津詹是马利克·阿拉·阿丁·道德·伊本·巴赫拉姆，在阿纳托利亚的其他地方（埃尔祖鲁姆，喀玛，德夫里吉，马拉特亚）是塞尔柱人的赞助人，在阿勒波尔是阿达宁·图格里勒。他在许多不同的玛德拉萨和清真寺教书，包括耶路撒冷的阿克萨清真寺、开罗的阿兹哈尔清真寺、大马士革的阿齐兹尼亚玛德拉萨。他同时代的阿尔-基夫提报告说，在他生命的最后阶段，他试图从事医学实践，但因为他不够熟练而没有成功（Ibn al-Qifti, d.1248 [1950–1955], *Inbah al-ruwat ‘ala anbah al-nuhat*, M. Abu l-Fadl Ibrahim (ed.), al-Qahira: Dar al-Kutub al-Misriyya, 1950–55: II.196; Griffel 2023）。他在阿勒波尔时，于1231年秋季想去朝觐麦加，并开始前往巴格达，将他的一些作品留给阿巴斯王朝哈里发阿尔-穆斯塔恩西尔·伊本·阿尔-扎希尔（在位1226-1242）。一旦他到达巴格达，阿卜杜勒·拉蒂夫生病并于1231年11月9日去世，享年69岁。他被埋葬在华尔迪娅公墓，与父亲葬在一起。
+1192年9月13日，阿尤布王朝与法兰克人达成停战协议之后，阿卜杜勒·拉蒂夫搬到了耶路撒冷，在那里与萨拉丁面谈，并获得了丰厚的津贴，在大马士革乌玛亚清真寺教书。萨拉丁去世后（1193年），阿卜杜·拉蒂夫的晚年变成了一系列长途旅行，不再是为了寻求知识、教导、师资和书籍，而是出于或应主保需求的动机：在大马士革是萨拉丁的长子马利克·阿夫达勒，开罗是马利克·阿齐兹，在耶路撒冷是马利克·阿迪勒\_塞义夫·阿丁·阿布·巴克尔·伊本·艾尤卜，在厄尔津詹是马利克·阿拉·阿丁·道德·伊本·巴赫拉姆，在阿纳托利亚的其他地方（埃尔祖鲁姆，喀玛，德夫里吉，马拉特亚）是塞尔柱人的赞助人，在阿勒波尔是阿达宁·图格里勒。他在许多不同的玛德拉萨和清真寺教书，包括耶路撒冷的阿克萨清真寺、开罗的阿兹哈尔清真寺、大马士革的阿齐兹尼亚玛德拉萨。他同时代的阿尔-基夫提报告说，在他生命的最后阶段，他试图从事医学实践，但因为他不够熟练而没有成功（Ibn al-Qifti, d.1248 \[1950–1955], _Inbah al-ruwat ‘ala anbah al-nuhat_, M. Abu l-Fadl Ibrahim (ed.), al-Qahira: Dar al-Kutub al-Misriyya, 1950–55: II.196; Griffel 2023）。他在阿勒波尔时，于1231年秋季想去朝觐麦加，并开始前往巴格达，将他的一些作品留给阿巴斯王朝哈里发阿尔-穆斯塔恩西尔·伊本·阿尔-扎希尔（在位1226-1242）。一旦他到达巴格达，阿卜杜勒·拉蒂夫生病并于1231年11月9日去世，享年69岁。他被埋葬在华尔迪娅公墓，与父亲葬在一起。
 
 阿卜杜勒·拉蒂夫的学生有：圣训学者扎基·阿尔-比尔扎利（逝于1239年），植物学家伊本·苏里（逝于1242年），法官阿尔-提法兹（逝于1253年），伊本·阿迪姆（逝于1262年）和传记作家伊本·哈里坎（逝于1282年）。阿卜杜·拉蒂夫最严厉的批评者是阿尔-基夫提，他指控他是一位不能实践医学的理论家和抄袭者。阿尔-基夫提对他的敌意可能是由于阿卜杜·拉蒂夫向约瑟夫·本·犹大·本·西蒙提出的治疗欺诈和谋杀的指控所引起的（Josse 2007; Griffel 2023）。
 
 ### 1.2 作品
 
-‘Abd al-Latif的作品最早的列表是由Yaqut（Yaqut al-Hamawi al-Rumi，1229年 [1993年]，*Mu‘jam al-udaba’. Irshad al-arib ila ma‘rifat al-adib*，I. Abbas (ed.)，贝鲁特：Dar al-Gharb al-Islami，1993年：IV.1572–1573）和Ibn Abi Usaybi‘a在《医生类别信息来源》（Ibn Abi Usaybi‘a，1242年 [1882–84]：II. 211–213）的条目末尾给出的。稍后的列表可以在Ibn Shakir al-Kutubi的《讣告中被遗漏的内容》（Ibn Shakir al-Kutubi，1363年之前 [1974年]，*Fawat al-wafayat*，I. ‘Abbas (ed.)，贝鲁特：Dar al-Sadir，1974年：II. 385–388）和al-Safadi（al-Safadi，Salah al-Din khalil ibn Aybak，1363年 [1929–2013]，*Al-Wafi bi-l-wafayat*，H. Ritter et alii (eds.)，贝鲁特：XIX.109–111）中找到。
+‘Abd al-Latif的作品最早的列表是由Yaqut（Yaqut al-Hamawi al-Rumi，1229年 \[1993年]，_Mu‘jam al-udaba’. Irshad al-arib ila ma‘rifat al-adib_，I. Abbas (ed.)，贝鲁特：Dar al-Gharb al-Islami，1993年：IV.1572–1573）和Ibn Abi Usaybi‘a在《医生类别信息来源》（Ibn Abi Usaybi‘a，1242年 \[1882–84]：II. 211–213）的条目末尾给出的。稍后的列表可以在Ibn Shakir al-Kutubi的《讣告中被遗漏的内容》（Ibn Shakir al-Kutubi，1363年之前 \[1974年]，_Fawat al-wafayat_，I. ‘Abbas (ed.)，贝鲁特：Dar al-Sadir，1974年：II. 385–388）和al-Safadi（al-Safadi，Salah al-Din khalil ibn Aybak，1363年 \[1929–2013]，_Al-Wafi bi-l-wafayat_，H. Ritter et alii (eds.)，贝鲁特：XIX.109–111）中找到。
 
 伊本·阿比·乌赛比亚列出了一百七十三部作品，包括简短的论文和专著。这些作品涵盖了阿卜杜勒·拉蒂夫的各种兴趣领域。其中列出了十三篇关于阿拉伯语言、词典学和语法的作品，两篇关于法学，九篇关于文学批评，五十三篇关于医学，十篇关于动物学，三篇关于一神论科学，三篇关于历史，三篇关于数学及相关学科，两篇关于魔法和矿物学，以及二十七篇关于其他主题的作品。其中有四十八篇关于哲学的作品：十九篇关于逻辑，其中两篇反对伊本·西那和条件推理理论，十篇关于物理学，八篇关于形而上学，九篇关于政治学。还提到了两部综合性的作品，分为逻辑、物理学和形而上学三个部分；其中一部共有十卷，作者用了二十年时间完成。
 
 伊本·沙基尔·库图比的列表较短。其中列出了十五篇阿卜杜勒·拉蒂夫的演讲，这些在伊本·阿比·乌赛比亚的列表中没有提到，还有八十一部作品，除了一篇关于解毒剂的作品外，其他都在之前的列表中提到过。
 
-我们所知道的作品，或者至少是迄今已经确认的手稿中包含的作品（Martini Bonadeo 2013，Fedouache - Ajoun - Ben Ahmed 2018），涉及到*圣训*、词典学和语法的有
+我们所知道的作品，或者至少是迄今已经确认的手稿中包含的作品（Martini Bonadeo 2013，Fedouache - Ajoun - Ben Ahmed 2018），涉及到_圣训_、词典学和语法的有
 
-* *圣训语言概要*（al-Radi 1977, 1979）；* *从《先知之剑上的冠饰论文》中摘录*；* ‘Abd al-Latif对哈里发al-Nasir的传统文集《Rawh al-‘arifin》的评论；* *从先知和先知的同伴以及他的追随者的言辞中摘录*。
+* _圣训语言概要_（al-Radi 1977, 1979）；\* _从《先知之剑上的冠饰论文》中摘录_；\* ‘Abd al-Latif对哈里发al-Nasir的传统文集《Rawh al-‘arifin》的评论；\* _从先知和先知的同伴以及他的追随者的言辞中摘录_。
 
-关于*fiqh*（法律）有
+关于_fiqh_（法律）有
 
-* *埃及法典中的法律简要研究*；* *阿布·亚希亚·阿卜杜勒·拉希姆·本·努巴塔·法里基的集合评论*。
+* _埃及法典中的法律简要研究_；\* _阿布·亚希亚·阿卜杜勒·拉希姆·本·努巴塔·法里基的集合评论_。
 
 关于数学有
 
- *《印度数学中显而易见的事物之书》* 。
+_《印度数学中显而易见的事物之书》_ 。
 
 在医学方面，一些作品幸存下来：
 
-* 《根据希波克拉底的预后评论》（Joosse＆Pormann 2012）；* 《根据希波克拉底格言的评论》（Joosse＆Pormann 2012）；* 《胡奈因医学问题评论》；* 《卢特法拉·阿尔·米斯里解剖学评论》；* 《修订评论解剖学的注释》；* 《关于简单医学物质及其自然特性原理》。
+* 《根据希波克拉底的预后评论》（Joosse＆Pormann 2012）；\* 《根据希波克拉底格言的评论》（Joosse＆Pormann 2012）；\* 《胡奈因医学问题评论》；\* 《卢特法拉·阿尔·米斯里解剖学评论》；\* 《修订评论解剖学的注释》；\* 《关于简单医学物质及其自然特性原理》。
 
 关于哲学，有：
 
- *《论感官和其功能的两个问题》（Ghalioungui＆Abdou 1972;重印Ghalioungui 1985）；* 《自然科学问题》（Ghalioungui＆Abdou 1972;重印Ghalioungui 1985）；*《形而上学科学书》（Badawi 1955a，b; Neuwirth 1976, 1977–78, 1978; Ajoun 2017; Martini Bonadeo 2017）。
+_《论感官和其功能的两个问题》（Ghalioungui＆Abdou 1972;重印Ghalioungui 1985）；_ 《自然科学问题》（Ghalioungui＆Abdou 1972;重印Ghalioungui 1985）；\*《形而上学科学书》（Badawi 1955a，b; Neuwirth 1976, 1977–78, 1978; Ajoun 2017; Martini Bonadeo 2017）。
 
-除了这些作品外，还保存了其他十一篇论文，其中包括已经提到的《两个忠告的书》在杂录手稿Bursa中，*Hüseyin Çelebi* 823（Stern 1962; Jad 2017; Fedouache - Ajoun - Ben Ahmed 2018, 3–236）：
+除了这些作品外，还保存了其他十一篇论文，其中包括已经提到的《两个忠告的书》在杂录手稿Bursa中，_Hüseyin Çelebi_ 823（Stern 1962; Jad 2017; Fedouache - Ajoun - Ben Ahmed 2018, 3–236）：
 
-* ‘Abd al-Latif对法赫鲁丁·拉齐在阿维森纳的《伊本·西那的总论》（fols 1v–19v和28r–34r）中几个段落的注释进行了批评；* ‘Abd al-Latif对法赫鲁丁·拉齐关于《纯意的苏拉》的论文进行了批评（fols 34r–38v和20r–23r）；*关于伊本·海塔姆的《空间的本质》的论文（fols 23v–27v和39r–52r；参见Rashed 2002, 4, 908–53），其中‘Abd al-Latif试图驳斥伊本·海塔姆对空间的几何化，并恢复亚里士多德的定义，这是一种捍卫哲学在数学面前的首要地位的辩护（El-Bizri 2007）；* 关于化合物中各种元素的组合的论文（fols 52v–62r）； *《炼金术士与理论哲学家之争》（fols 100v–123v；Josse 2008, 2014; Jad 2019）；* 关于矿物和驳斥炼金术的论文（fols 124r–132r）； *‘Abd al-Latif选择的来自哲学家作品的摘录（fols 132v–135v；Rashed 2004），与亚历山大·阿弗洛狄西亚斯的《问题》（I 11a，II 28，III 9）以及伊本·阿比·乌赛比亚所列的亚历山大作品清单中归属于亚历山大·阿弗洛狄西亚斯的阿拉伯语《问题》（第39号作品）有关；* ‘Abd al-Latif选择的来自医学作品的摘录（fols 138r–140v），以药理学手册的形式呈现了三十一个不同植物的治疗效果；*关于糖尿病的论文（fols 140v–149r；Thies 1971；Degen 1977）。
+* ‘Abd al-Latif对法赫鲁丁·拉齐在阿维森纳的《伊本·西那的总论》（fols 1v–19v和28r–34r）中几个段落的注释进行了批评；\* ‘Abd al-Latif对法赫鲁丁·拉齐关于《纯意的苏拉》的论文进行了批评（fols 34r–38v和20r–23r）；_关于伊本·海塔姆的《空间的本质》的论文（fols 23v–27v和39r–52r；参见Rashed 2002, 4, 908–53），其中‘Abd al-Latif试图驳斥伊本·海塔姆对空间的几何化，并恢复亚里士多德的定义，这是一种捍卫哲学在数学面前的首要地位的辩护（El-Bizri 2007）；_ 关于化合物中各种元素的组合的论文（fols 52v–62r）； _《炼金术士与理论哲学家之争》（fols 100v–123v；Josse 2008, 2014; Jad 2019）；_ 关于矿物和驳斥炼金术的论文（fols 124r–132r）； _‘Abd al-Latif选择的来自哲学家作品的摘录（fols 132v–135v；Rashed 2004），与亚历山大·阿弗洛狄西亚斯的《问题》（I 11a，II 28，III 9）以及伊本·阿比·乌赛比亚所列的亚历山大作品清单中归属于亚历山大·阿弗洛狄西亚斯的阿拉伯语《问题》（第39号作品）有关；_ ‘Abd al-Latif选择的来自医学作品的摘录（fols 138r–140v），以药理学手册的形式呈现了三十一个不同植物的治疗效果；\*关于糖尿病的论文（fols 140v–149r；Thies 1971；Degen 1977）。
 
 ## 2. 哲学研究是什么
 
@@ -107,7 +107,7 @@
 
 其次，根据阿卜杜勒·拉蒂夫的观点，阿维森纳似乎扭曲或没有了解到亚里士多德的基本认识论标准，即研究必须从我们更容易了解的事物开始（参见亚里士多德《物理学》I.1, 184a16–21；《尼科马科伦伦理学》I.4, 1095b3–4）。这就是为什么，例如，阿维森纳错误地将动物学放在他对灵魂的论述之后的原因。
 
-接下来，阿卜杜勒·拉蒂夫指出，阿维森纳创作了许多作品，这些作品彼此之间相互抄袭，就像《治愈之书》和《救赎之书》一样。他观察到阿维森纳决定在他的所有论文中引入亚里士多德在《后分析》（ll，71a1-3）开头提出的关于各种知识形式的论述。但这就是阿维森纳对《后分析》的了解。事实上，他没有涉及逻辑的终点，也就是《后分析》、《论题》、《诡辩》、《修辞学》和《诗学》这五门逻辑艺术的对象，并且他详细分析了《入门》、《范畴学》、《解释学》和《前分析》的内容，而这些内容在阿卜杜勒·拉蒂夫看来构成了真正逻辑的准备性介绍。即使是更详细地讨论逻辑的《治愈之书》也呈现出混乱的论述。阿卜杜勒·拉蒂夫提供了一些例子来加强他的批评。首先，令他惊讶的是阿维森纳没有澄清“拥有”这个范畴（对于它的阿拉伯语翻译，请参见Afnan 1964: 89-90）。事实上，在《治愈之书》的“范畴”（al-Maqulat）部分中，阿维森纳只用了很少的文字来解释这个范畴的含义和价值。他认为这不是一个清晰的范畴，并承认他没有设法理解它，因为他不明白它如何能包含物种。此外，阿卜杜勒·拉蒂夫对阿维森纳将天空的运动归类为“处于位置中”（κεῖσθαι）的事实感到惊讶，尽管他自己写过《论天体和世界》和《物理学》的书。阿维森纳在《治愈之书》和《救赎之书》中都解释了*κεῖσθαι*的概念，即身体作为一个整体与所处位置的方向和部分之间存在倾斜和平行关系，例如站立和坐下。阿卜杜勒·拉蒂夫的第三个批评是针对阿维森纳声称他可以在不借助其他条件的情况下定义两个相对术语中的一个。阿卜杜勒·拉蒂夫强调，在《入门》中，阿维森纳分别定义了属和种，父亲和儿子。然后在他将父亲定义为“通过他的精子创造出与他相似的生物”的定义中，阿维森纳发现自己不得不求助于四种不同的关系。
+接下来，阿卜杜勒·拉蒂夫指出，阿维森纳创作了许多作品，这些作品彼此之间相互抄袭，就像《治愈之书》和《救赎之书》一样。他观察到阿维森纳决定在他的所有论文中引入亚里士多德在《后分析》（ll，71a1-3）开头提出的关于各种知识形式的论述。但这就是阿维森纳对《后分析》的了解。事实上，他没有涉及逻辑的终点，也就是《后分析》、《论题》、《诡辩》、《修辞学》和《诗学》这五门逻辑艺术的对象，并且他详细分析了《入门》、《范畴学》、《解释学》和《前分析》的内容，而这些内容在阿卜杜勒·拉蒂夫看来构成了真正逻辑的准备性介绍。即使是更详细地讨论逻辑的《治愈之书》也呈现出混乱的论述。阿卜杜勒·拉蒂夫提供了一些例子来加强他的批评。首先，令他惊讶的是阿维森纳没有澄清“拥有”这个范畴（对于它的阿拉伯语翻译，请参见Afnan 1964: 89-90）。事实上，在《治愈之书》的“范畴”（al-Maqulat）部分中，阿维森纳只用了很少的文字来解释这个范畴的含义和价值。他认为这不是一个清晰的范畴，并承认他没有设法理解它，因为他不明白它如何能包含物种。此外，阿卜杜勒·拉蒂夫对阿维森纳将天空的运动归类为“处于位置中”（κεῖσθαι）的事实感到惊讶，尽管他自己写过《论天体和世界》和《物理学》的书。阿维森纳在《治愈之书》和《救赎之书》中都解释了_κεῖσθαι_的概念，即身体作为一个整体与所处位置的方向和部分之间存在倾斜和平行关系，例如站立和坐下。阿卜杜勒·拉蒂夫的第三个批评是针对阿维森纳声称他可以在不借助其他条件的情况下定义两个相对术语中的一个。阿卜杜勒·拉蒂夫强调，在《入门》中，阿维森纳分别定义了属和种，父亲和儿子。然后在他将父亲定义为“通过他的精子创造出与他相似的生物”的定义中，阿维森纳发现自己不得不求助于四种不同的关系。
 
 阿卜杜勒·拉蒂夫继续批评阿维森纳的三段论理论，特别是他对假设三段论的承认。最后，阿卜杜勒·拉蒂夫对阿维森纳提出了一系列进一步的批评，但没有详细讨论每一个。阿维森纳将《诗学》一书扩充了一些实际上来自《修辞学》的材料。由于阿维森纳的《治愈之书》，尽管有许多错误，已经成为阿卜杜勒·拉蒂夫同时代人中的哲学百科全书，他认为阿维森纳间接导致了哲学错误的广泛传播，例如混淆了《物理学》的本质即自然与《形而上学》的本质。
 
@@ -121,19 +121,19 @@
 
 阿卜杜勒·拉蒂夫的主要作品《形而上学科学书》有两份手稿：第一份是开罗达尔库图布图书馆的《艾哈迈德·泰穆尔·帕夏智慧》117号手稿，16-178页，可能于1529年在埃及制作；第二份是伊斯坦布尔苏莱曼尼耶库图布图书馆的卡鲁拉1279号手稿，140v-187v页，大约于1477年由一位书商和抄写员穆罕默德·本·哈桑·尼赫米（1480年后去世）在也门的萨达制作，他为个人使用收集了40种不同的哲学文本（Rosenthal 1955; Griffel 2023）。
 
-在《形而上学科学书》的二十四章中，阿卜杜勒·拉蒂夫对形而上学的一系列论文进行了解释和总结（Zimmermann 1986），这些论文在*falsafa*的形成时期被吸收并成为规范。《形而上学科学书》的编辑计划遵循了阿尔法拉比的《科学分类》中形而上学和神学科学的排序。实际上，它由三个不同的部分组成，反映了阿尔法拉比的三分法：第一部分包括前四章，研究存在和其属性；第二部分从第五章到第十二章，涉及定义和证明的原则；第三部分，包括第十三章到第二十四章，致力于描述非物质和可理解的实体的等级，直到达到第一动因、第一原则、第一原因、唯一的上帝，即《古兰经》中的上帝，全能的创造者，这是亚里士多德形而上学、新柏拉图形而上学和伊斯兰一神论的综合（Neuwirth 1976）。
+在《形而上学科学书》的二十四章中，阿卜杜勒·拉蒂夫对形而上学的一系列论文进行了解释和总结（Zimmermann 1986），这些论文在_falsafa_的形成时期被吸收并成为规范。《形而上学科学书》的编辑计划遵循了阿尔法拉比的《科学分类》中形而上学和神学科学的排序。实际上，它由三个不同的部分组成，反映了阿尔法拉比的三分法：第一部分包括前四章，研究存在和其属性；第二部分从第五章到第十二章，涉及定义和证明的原则；第三部分，包括第十三章到第二十四章，致力于描述非物质和可理解的实体的等级，直到达到第一动因、第一原则、第一原因、唯一的上帝，即《古兰经》中的上帝，全能的创造者，这是亚里士多德形而上学、新柏拉图形而上学和伊斯兰一神论的综合（Neuwirth 1976）。
 
 阿卜杜勒·拉蒂夫·巴格达迪在24章中有16章专门讨论亚里士多德的《形而上学》，他可能知道不止一种翻译版本。他自由地解释了《形而上学》中的以下书籍：《Alpha Elatton/Alpha Meizon》、《Beta》、《Delta》、《Gamma》、《Epsilon》、《Zeta》、《Eta》、《Theta》、《Iota》和《Lambda》（Neuwirth 1976, 1977–78; Martini Bonadeo 2001, 2010, 2013, 2018; Ajoun 2017）。后三章（13-15章）专门讨论了《Lambda》。在阅读《Lambda》时，‘Abd al-Latif受到了Themistius的解释的强烈影响（Brague 1999）。《Lambda》的介绍以整整一章（第16章）结束，其中包含了Alexander Arabus的著作《宇宙原理》的摘要（Badawi 1947; Genequand 2001; Endress 2002; Ajoun 2017）。‘Abd al-Latif对《形而上学》的使用反映了其最早的阿拉伯解释者的使用方式，特别是al-Kindi，他关注《Alpha Elatton》、《Epsilon》和《Lambda》的内容，并与希腊形而上学的教义统一性标准相联系：《Lambda》的自然神学只是对第一原理的表述，而这一原理明显源自新柏拉图主义（D’Ancona 1996）。
 
-这一点在《形而上学科学书》的开头就特别明确。事实上，对于阿卜杜勒·拉蒂夫来说，不同的存在形式有不同的原因，不同的原因有不同的科学，但有一种科学是引导其他所有科学的第一科学，原因有两个不同的原因。首先，正如al-Farabi所教导的，它能够证明其他科学的原理，因为只有这种科学才能研究绝对存在的事物，并从中解释包含在其中和以下的特定科学的原理。其次，这种科学包括对第一原理的思考，而其他一切事物都需要这个原理才能存在。阿卜杜勒·拉蒂夫声称，这个第一原理是绝对的最终原因，而对这个原因的研究是超越其他所有知识的智慧（*hikma*）（Martini Bonadeo 2010; 2017a）。
+这一点在《形而上学科学书》的开头就特别明确。事实上，对于阿卜杜勒·拉蒂夫来说，不同的存在形式有不同的原因，不同的原因有不同的科学，但有一种科学是引导其他所有科学的第一科学，原因有两个不同的原因。首先，正如al-Farabi所教导的，它能够证明其他科学的原理，因为只有这种科学才能研究绝对存在的事物，并从中解释包含在其中和以下的特定科学的原理。其次，这种科学包括对第一原理的思考，而其他一切事物都需要这个原理才能存在。阿卜杜勒·拉蒂夫声称，这个第一原理是绝对的最终原因，而对这个原因的研究是超越其他所有知识的智慧（_hikma_）（Martini Bonadeo 2010; 2017a）。
 
-第一原则被阿卜杜勒·拉蒂夫描述为纯粹存在（*al-wujud al-mujarrad*），一切的目标和第一不动者，纯粹的行动，永恒不变，即我们探究的终点。第一不动者不仅产生事物的运动，而且是它们的完美，即典范性的原因和最终原因。阿卜杜勒·拉蒂夫引入了法律的例子，他从忒米斯提乌斯的释义中得出（关于阿卜杜勒·拉蒂夫对忒米斯提乌斯对亚里士多德《形而上学》书*Lambda*的释义的使用：Meyrav 2019）。法律在被选择为自身时推动政治。第一原则作为上帝，是世界存在和按照其美丽和持久性进行排序的原因，它是与他的科学相等的实体。第一原则也被描述为真实的一（*al-wahid al-haqq*），本质上的一，没有任何形式的多样性。了解这个真实的一的方法是从具有一定程度的统一性的事物上升。因此，我们说一个军队，一个城市，扎伊德是一个，天球是一个，世界是一个。然后我们通过灵魂和智慧，通过在这个上升过程中失去多样性并获得统一性的事物，直到我们达到绝对一（*al-wahid al-mutlaq*），即一切事物的建筑原则和使世界存在、保持其存在和秩序的至高无上的可理解的原则。对于阿卜杜勒·拉蒂夫来说，第一原因是纯粹新柏拉图主义的原因，其中包含了所有事物。因此，不足为奇的是，在释义《Lambda》的第10章时，他谈到了从第一原则中的流出。
+第一原则被阿卜杜勒·拉蒂夫描述为纯粹存在（_al-wujud al-mujarrad_），一切的目标和第一不动者，纯粹的行动，永恒不变，即我们探究的终点。第一不动者不仅产生事物的运动，而且是它们的完美，即典范性的原因和最终原因。阿卜杜勒·拉蒂夫引入了法律的例子，他从忒米斯提乌斯的释义中得出（关于阿卜杜勒·拉蒂夫对忒米斯提乌斯对亚里士多德《形而上学》书_Lambda_的释义的使用：Meyrav 2019）。法律在被选择为自身时推动政治。第一原则作为上帝，是世界存在和按照其美丽和持久性进行排序的原因，它是与他的科学相等的实体。第一原则也被描述为真实的一（_al-wahid al-haqq_），本质上的一，没有任何形式的多样性。了解这个真实的一的方法是从具有一定程度的统一性的事物上升。因此，我们说一个军队，一个城市，扎伊德是一个，天球是一个，世界是一个。然后我们通过灵魂和智慧，通过在这个上升过程中失去多样性并获得统一性的事物，直到我们达到绝对一（_al-wahid al-mutlaq_），即一切事物的建筑原则和使世界存在、保持其存在和秩序的至高无上的可理解的原则。对于阿卜杜勒·拉蒂夫来说，第一原因是纯粹新柏拉图主义的原因，其中包含了所有事物。因此，不足为奇的是，在释义《Lambda》的第10章时，他谈到了从第一原则中的流出。
 
 新柏拉图主义的一的特征因此被嫁接到了亚里士多德对第一原则的描述中。融合的关键在于神圣思想的自我反思的教义，对于受忒米斯提乌斯的解释影响的阿卜杜勒·拉蒂夫来说，这不是第一原则内部的组合和多样性的原因，就像普罗提诺斯那样。如果思维原则、思维行为和思维对象在现在被称为上帝的第一原则中重合，那么它就没有多样性。
 
 ### 4.2 宿命
 
-*Lambda*的阐述之后，接下来的三章讨论了第一原理的宿命（πρόνοια）主题。阿卜杜勒·拉蒂夫的主要来源是亚历山大·阿弗洛迪西亚斯的《论宿命》（Ruland 1976, 1979; Zimmermann 1986; Thillet 2003; Martini Bonadeo 2017a）。因此，阿卜杜勒·拉蒂夫相互协调了两种解决方案，实际上彼此非常不同，可以说是替代的：亚历山大提出的关于神的宿命问题的解决方案——第一原理主要只思考和了解自己，但它也永远了解世界上的事件，这些事件是变化的，因为它通过天体秩序对它们进行自己的引导；以及Themistius的解决方案，阿卜杜勒·拉蒂夫在解释*Lambda*时已经接受了这个解决方案，即上帝知道与他不同的事物，但并不因此离开自己，因为他内含着所有事物的所有观念，并且是世界可理解性的规范和条件。
+_Lambda_的阐述之后，接下来的三章讨论了第一原理的宿命（πρόνοια）主题。阿卜杜勒·拉蒂夫的主要来源是亚历山大·阿弗洛迪西亚斯的《论宿命》（Ruland 1976, 1979; Zimmermann 1986; Thillet 2003; Martini Bonadeo 2017a）。因此，阿卜杜勒·拉蒂夫相互协调了两种解决方案，实际上彼此非常不同，可以说是替代的：亚历山大提出的关于神的宿命问题的解决方案——第一原理主要只思考和了解自己，但它也永远了解世界上的事件，这些事件是变化的，因为它通过天体秩序对它们进行自己的引导；以及Themistius的解决方案，阿卜杜勒·拉蒂夫在解释_Lambda_时已经接受了这个解决方案，即上帝知道与他不同的事物，但并不因此离开自己，因为他内含着所有事物的所有观念，并且是世界可理解性的规范和条件。
 
 阿卜杜勒·拉蒂夫认为，上帝的恩惠既体现在上界，也体现在下界；但是，如果在第一种情况下，上帝的恩惠与上界的关系是直接的，那么在第二种情况下，它则通过上界来斡旋。然而，接受上帝恩惠的人与上帝之间的关系不能被视为一种因果关系，因为在这种情况下，“高贵之物会因为卑贱之物的存在而出现，早者会因为晚者而存在” （Rosenthal 1975: 156），这是可耻的，这种关系也不能被视为纯粹偶然的。这两种情况都不适用于第一原理，因此它不能以其作为首要行动行使恩惠，但也不能被认为是恩惠仅仅偶然派生的源泉。阿卜杜勒·拉蒂夫随后肯定存在和事物的秩序源自上帝的存在，上帝是绝对的善，并回到能温暖一切的火的形象：上帝准许所有现有的事物得到他们能以近他而获得的那么多善。亚月界世界的物体能够享受从上帝发出的能力，因此它们倾向于向他靠拢。在亚月界世界的现有事物中，人类被赋予了理性的能力，由此能够进行促使他获得适合他的幸福的那些行动。同样的理性能力使他能够认识神圣的事物，并且凭借这种知识，人类优于所有其他临时而有限的事物。然而，有时候，他会利用这种理性能力，而不是追求善和美德，而是恶习。这可能是因为上帝准许人类获得获得美德的能力，但这个企图的成功取决于人类自己的意愿和选择。
 
@@ -143,9 +143,9 @@
 
 阿卜杜勒·拉蒂夫随后在他的论文中概括了《纯善之书》（即拉丁中世纪的《原因之书》）第54命题，讨论了永恒和时间的区别（Endress 1973; Jolivet 1979: 55–75; Zimmermann 1994: 9–51），这些内容来自普罗克洛斯的《神学要素》、《形而上学拉姆达》以及伪《神学》（Martini Bonadeo 2017b, Ajoun 2017）。阿卜杜勒·拉蒂夫复述了《原因之书》的所有命题，除了第4、10、18和20号，而且按照相同的顺序进行了排列（Badawi 1955b; Anawati 1956: 73–110; Taylor 1984: 236–248）。阿卜杜勒·拉蒂夫的目的是在法拉比模型的基础上，建立起《原因之书》中的第一原因、一和纯善与亚里士多德的第一原理、不动动者和实际智慧之间的对应关系，这些内容在他对《形而上学拉姆达》的释义中有所描述。
 
-阿卜杜勒·拉蒂夫强调最普遍的原因的首要性，因此，与靠近效果的原因相比，它与其效果的距离更远，因此显然更重要。第一原因超越了我们任何可能的认识。如果事实上了解事物的真正本质意味着了解它们的原因，那么根据定义，第一原因没有先于它的原因，它的真正本质是无法知道的。它只能通过近似来了解，通过对次要原因的描述。在这个关于第一原因的超越无法言说性的理论之后，还有一个长篇章节描述了智力。智力与永恒同在，超越时间，并且不受分割的限制，因为可分割的一切都是在时间之下可分割的，无论是在大小、数量还是运动方面。智力是一的，因为它是从第一原因产生的第一件事物，但是它在于从第一原因获得的各种恩赐的多样性方面是多样的。智力知道在它之上的东西——从第一原因获得的恩赐，以及在它之下的东西——它所引起的事物。但是智力通过其实质来了解其原因和效果，也就是说，它以智力方式感知事物。它以智力方式理解智力的事物或感性的事物。第一原因，即纯善，将一切善良都倾注到智力中，并通过智力的中介将其倾注到所有存在的事物中。然而，在阿卜杜勒·拉蒂夫试图在《因果论》中所呈现的第一原因与他在专门解释《形而上学拉姆达》章节中所呈现的第一原理之间建立完美一致性的努力中，存在一定的波动。根据阿卜杜勒·拉蒂夫的观点，上帝在统治事物时超越了智力：他命令智力来统治。但是，在声明自体实质不是由其他事物生成之后，阿卜杜勒·拉蒂夫坚持认为智力在概念化和形成（*tasawwuri-hi wa taswiri-hi*）方面不需要任何其他东西，它是完美和永恒的，它是自身的原因。
+阿卜杜勒·拉蒂夫强调最普遍的原因的首要性，因此，与靠近效果的原因相比，它与其效果的距离更远，因此显然更重要。第一原因超越了我们任何可能的认识。如果事实上了解事物的真正本质意味着了解它们的原因，那么根据定义，第一原因没有先于它的原因，它的真正本质是无法知道的。它只能通过近似来了解，通过对次要原因的描述。在这个关于第一原因的超越无法言说性的理论之后，还有一个长篇章节描述了智力。智力与永恒同在，超越时间，并且不受分割的限制，因为可分割的一切都是在时间之下可分割的，无论是在大小、数量还是运动方面。智力是一的，因为它是从第一原因产生的第一件事物，但是它在于从第一原因获得的各种恩赐的多样性方面是多样的。智力知道在它之上的东西——从第一原因获得的恩赐，以及在它之下的东西——它所引起的事物。但是智力通过其实质来了解其原因和效果，也就是说，它以智力方式感知事物。它以智力方式理解智力的事物或感性的事物。第一原因，即纯善，将一切善良都倾注到智力中，并通过智力的中介将其倾注到所有存在的事物中。然而，在阿卜杜勒·拉蒂夫试图在《因果论》中所呈现的第一原因与他在专门解释《形而上学拉姆达》章节中所呈现的第一原理之间建立完美一致性的努力中，存在一定的波动。根据阿卜杜勒·拉蒂夫的观点，上帝在统治事物时超越了智力：他命令智力来统治。但是，在声明自体实质不是由其他事物生成之后，阿卜杜勒·拉蒂夫坚持认为智力在概念化和形成（_tasawwuri-hi wa taswiri-hi_）方面不需要任何其他东西，它是完美和永恒的，它是自身的原因。
 
-在这一点上，阿卜杜勒·拉蒂夫介绍了主权科学（ *‘ilm al-rububiyya*）的描述，这与《亚里士多德神学》第一章的描述相呼应：它不是一门仅限于从效果到原因的物理科学，而是一门科学，当它接近原因时，能够深入考虑效果，接近对事物的神圣知识。
+在这一点上，阿卜杜勒·拉蒂夫介绍了主权科学（ _‘ilm al-rububiyya_）的描述，这与《亚里士多德神学》第一章的描述相呼应：它不是一门仅限于从效果到原因的物理科学，而是一门科学，当它接近原因时，能够深入考虑效果，接近对事物的神圣知识。
 
 此外，阿卜杜勒·拉蒂夫在内容上总结了一些普罗克鲁斯的命题（1-3、5、62、86、15-17、21、54、76、78、91、79、80、167和72-74：参见Zimmermann 1986），亚历山大·阿弗罗迪西亚斯的四个问题（Van Ess 1966；Fazzo & Wiesner 1993）以及约翰·菲洛波诺斯的《论世界的永恒性对抗普罗克鲁斯》第九章第8节和第11节的改编（Hasnawi 1994），题为《亚历山大·阿弗罗迪西亚斯从亚里士多德的《神学》一书中提取的关于神圣主权的教义》（Endress 1973）。在这样做的过程中，阿卜杜勒·拉蒂夫给自己设定了三个目标。首先，他想强调作为一个的第一原因的关键方面，这在前几章中已经提到。其次，他讨论了一个和多个之间的关系，并且不是偶然地在一系列（16-20）专门讨论第一原因与世界之间的关系的章节之后这样做。关于这两个目标，他强调了第一原因的基本特征：它是一个，它赋予多元的统一性；它本身是一个，是没有组合的真正的一个；它是一切多元的原因，尽管它本质上是一个，但它的因果作用在多种效果中传播；它超越永恒和时间；它是不会终结的生命，不会熄灭的光，它是纯粹的存在，是第一位的行动者，是无法言喻的，没有任何东西可以适当地被归属于它，它是无法知晓的，是由智力、可理解的实体、灵魂、灵魂和最后的自然实体组成的存在等级的顶点。然后，他转向第一原因对其效果的关怀：这种关怀存在，通过星球来传达，并在地球上保护物种。神圣的力量通过接触对亚月界施加影响，并且从火的第一个球开始，神圣的力量根据各种物质的接受能力存在于物质中。
 
@@ -175,133 +175,132 @@
 
 阿卜杜勒·拉蒂夫的生活和作品证明了许多穆斯林学者和科学家在12世纪和13世纪之间参与伊斯兰学校的环境中所扮演的关键角色，在传播希腊哲学和医学知识方面起到了重要作用，这些知识在培养有学问的穆斯林方面仍然被视为必不可少的。
 
-
 ## Bibliography
 
 ### Primary Sources
 
-* Ajoun, Y., 2017, *Ma ba‘d al-tabi‘a*, *ta’alif Muwaffaq al-Din ‘Abd al-Latif ibn Yunus al-Bagdadi* (Metaphysics by Muwaffaq al-Din ‘Abd al-Latif ibn Yunus al-Bagdadi), Beirut: Dar al-Kutub al-‘ilmiyya.
-* al-Anbari, *Nuzhat al-alibba’ fi tabaqat al-udaba’*  (Intelligent Scholars Promenade in the Classes of Men of Letter), A. Amer (ed.), Stockholm-Göteborg-Uppsala: Almquist and Wiksell, 1963.
-* Badawi, ‘A., 1947, *Aristu ‘inda al-‘arab* (Aristoteles Apud Arabes), al-Qahira: Maktaba al-Nahda al-Misriyya.
-* –––, 1955a, *Aflutin ‘inda al-‘arab* (Plotinus Apud Arabes), al-Qahira: Maktaba al-Nahda al-Misriyya.
-* –––, 1955b, *Al-Aflatuniyya al-muhdatha ‘inda l-‘arab* (Neoplatonici Apud Arabes), al-Qahira: Maktaba al-nahda al-misriyya.
-* Bardenhewer, O., 1882, *Die pseudo-aristotelische Schrift Über das reine Gute bekannt unter dem Namen Liber de causis*, Freiburg im Breisgau: Herder (Reprint Frankfurt am Main: Publications of the Institute for the History of Arabic-Islamic Science at the Johann Wolfgang Goethe University, 1961).
-* Brague, R., 1999, *Thémistius. Paraphrase de la Métaphysique d’Aristote (Livre Lambda), traduit de l’hébreu et de l’arabe*, Vrin: Paris.
-* Cahen, C., 1970, “‘Abdallatif al-Baghdadi, portratiste et historien de son temps, Extraits inédits de ses *Mémoires*”, *Bulletin d’Études orientales*, 23: 101–128.
-* De Sacy, S., 1810, *Relation de l’Égypte par Abd-Allatif, médecin arabe de Bagdad [1162–1231 AD]* , Paris: Imprimerie Impériale (Reprint Frankfurt am Main: Publications of the Institute for the History of Arabic-Islamic Science at the Johann Wolfgang Goethe University, 1992).
-* Fedouache, N., Y. Ajoun and F. Ben Ahmed, 2018, *Muwaffaq al-Din ‘Abd al-Latif ibn Yunus al-Bagdadi.Al-A‘mal al-falsafiyya al-kamila*, *al-juz’ al-awwal*, Beirut Borj El Kiffan: Edition Difaf & Edition El-ikhtilef.
-* Genequand, C., 2001, *Alexander of Aphrodisias on the Cosmos, Arabic Text with English Translation, Introduction and Commentary*, Leiden: Brill.
-* Ghalioungui, P. and S. Abdou, 1972,‘Abd al-Latif al-Baghdadi, *Maqala fi-l-Hawass wa-masa’il tabi‘iyya, Risala li-l-Iskandar, Risala fi l-marad al-musamma diyabita* (Essay on the Senses and Two Questions on their Function, Questions on Natural History, On Specific Difference, On Diabetes), Kuwait: Government Press.
-* Ghalioungui, P.,  *‘Abd al-Latif al-Baghdadi. Tabib al-qarn al-sadis al-hijri. Shakhsiyyatuhu injazatuhu*, Cairo: al-Hayʼah al-Misriyah al-ʻAmmah lil-Kitab 1985.
-* Gibb, H.A.R., 1927, “Life of Muwaffiq ad-Din Abd al-Latif of Baghdad by Ibn Abi Usaybiya”, in *Healing through Spirit Agency by the Great Persian Physician Abduhl Latif (‘The Man of Baghdad’) and Information concerning the Life Hereafter of the deepest Interest to all Enquirers and Students of Psychic Phenomena*, R.H. Saunders (ed.), London: Hutchinson & Co.
-* Ibn Abi Usaybi‘a, *Kitab ‘Uyun al-anba’ fi tabaqat al-atibba’*  (Sources of Information on the Classes of Physicians), A. Müller (ed.), al-Qahira: al-Matba‘at al-wahbiyya, 1882–1884.
-* –––,  *‘Uyun al-anba’ fi tabaqat al-atibba’*  (Sources of Information on the Classes of Physicians), A.R. Nizar Rida (ed.), Bayrut: Dar al-Maktabat al-Hayat, 1965.
-* Ibn Khallikan, Shams al-Din Ahmad ibn Muhammad, *Wafayat al-a‘yan wa-anba’ abna’ al-zaman* (Deaths of Eminent Men and History of the Sons of the Epoch), I. Abbas (ed.), Beirut: Dar Sadir, 1968–1977.
-* al-Safadi (al-Safadi, Salah al-Din khalil ibn Aybak, d. 1363, *Al-Wafi bi-l-wafayat* (Obituaries), H. Ritter et alii (eds.), Beirut: Orient-Institut Beirut, 2013).
-* Ibn Shakir al-Kutubi, *Fawat al-wafayat* (What was omitted in the Obituaries), I. ‘Abbas (ed.), Bayrut: Dar al-Sadir, 1973–1974.
-* Ibn al-Nadim, *Kitab al-fihrist* (Catalogue), in G. Flügel, J. Rödiger, and A. Müller (eds), Leipzig: Vogel, 1871–72.
-* –––, *Kitab al-fihrist* (Catalogue), R. Tagaddud (ed.), Tihran: Marvi Offset Printing, 1973.
-* Ibn al-Qifti, *Inbah al-ruwat ‘ala anbah al-nuhat* (Information of the Narrators on Renowned Grammarians), M. Abu l-Fadl Ibrahim (ed.), al-Qahira: Dar al-Kutub al-Misriyya, 1950–55.
-* –––, *Ta’rikh al-hukama’*  (History of Learned Men), J. Lippert (ed.), Leipzig: Dieterich’sche Verlagsbuchhandlung, 1903.
-* Jad, M. K., 2017, *Abd al-Latif al-Baghdadi. Kitab al-Nasihatayn li-l-atibba’ wa-l-hukama’* , Cairo: Maʻhad al-Makhtutat al-ʻArabiyah.
-* –––, 2019, *al-Mujadalah bayna al-hakimayn al-kimiyaʼi wa-al-nazari, wa-maʻahu Risalah fi al-maʻadin wa-ibtal al-kimiyāʼ*, Caito: Jamiʻat al-Duwal al-ʻArabiyah, Maʻhad al-Makhtutat al-ʻArabiyah, al-Munazzamah al-ʻArabiyah lil-Tarbiyah wa-al-Thaqafah wa-al-ʻUlum.
-* Joosse, N.P., 2014, *The Physician as a Rebellious Intellectual. The Book of the two Pieces of Advice or Kitab al-Nasihatayn by ‘Abd al-Latif ibn Ibn Yusuf al-Baghdadi (1162–1231). Introduction, Edition and Translation of the Medical Section*, Frankfurt am Main: Peter Lang.
-* Kzzo, A. F. and Bellucci, N.D., *Racconto d’Egitto. Trascrizione e traduzione del manoscritto di ‘Abd al-Latif al-Baghdadi (con brevi note di commento)* , Oxford: Archaeopress Publishing LTD 2020.
-* Mahdi, M., 1961, al-Farabi, *Philosophy of Aristotle*, Beirut: Dar majallat Shi‘r.
-* –––, 2001, *Alfarabi’s Philosophy of Plato and Aristotle*, Ithaca NY: Cornell University Press.
-* Malallah, ‘A.M. ‘I., *Al-Ifada wa-l-iʻtibar fi-l-umur al-mushahada wa-l-hhwadit al-muʻayana bi-ard Misr* (*Book of the Report and Account of the Things which I Witnessed and the Events Seen in the Land of Egypt*), Baghdad: Wizarat at-Taʻlim al-ʻAli wa-l-Baht al-ʻIlmi, Jamiʻat Baghdad, 1987.
-* Martini Bonadeo, 2017b, “The First ‘Proclean’ Section (Chapter 20) of ‘Abd al Latif al-Baghdadi’s *Book on the Science of Metaphysics*. It the Pure Good of the *Mahd al-khayr* Aristotle’s First Principle, Intellect in Actuality?”, *Oriens*, 45 (3-4), 259–305.
-* –––, 2018, “Una parafrasi araba di *Metafisica Iota*. Il capitolo undicesimo dal *Libro sulla scienza della Metafisica* di ‘Abd al Latif al-Baghdadi”, *Studia graeco-arabica*, 8, 269–286.
-* Mousley, J., 1808, *Abdollatiphi bagdadensis vita, auctore Ibn Abi Osaibia.*  *E codicibus MSS. Bodleianis descripsit, et Latine vertit*, Oxford: E Typographeo Claredoniano.
-* Neuwirth, A., 1976,  *‘Abd al Latif al-Baghdadi’s Bearbeitung von Buch Lambda der aristotelischen Metaphysik*, Wiesbaden: Franz Steiner Verlag GMBH.
-* –––, 1977–78, “Neue Materialen zur Arabischen Tradition der beiden ersten *Metaphysik*-Bücher”, *Die Welt des Islams*, 18 (1–2): 84–100.
-* al-Radi, F.H., 1977,‘Abd al-Latif ibn Yusuf al-Baghdadi, *Al-mujarrad li-lughat al-hadith* (Compendium for the Language of Hadith), Baghdad: Matba‘a al-Sa‘b.
-* –––, 1979, “‘Abd al-Latif ibn Yusuf al-Baghdadi, Min kitab al-mujarrad li-lughat al-hadith”, *al-Maurid*, 8 (2): 121–136.
-* Rashed, R., 2002, “‘Abd al-Latif ibn Yusuf al-Baghdadi, *Fi l-Radd ‘ala Ibn Haytham fi l-makan*; *La réfutation du lieu d’Ibn Haytham*”, in *Les mathématiques infinitésimales du IXe au XIe siècle*, R. Rashed (ed.), London: Al-Furqan Islamic Heritage Foundation, IV, pp. 908–53.
-* Rosenthal, F., 1975, *The Classical Heritge in Islam*, New York London: Routledge & Kegan Paul.
-* Rosenthal, F. and R. Walzer, 1943, *Alfarabius De Platonis philosophia*, London: The Warburg Institute.
-* Ruland, H.J., 1976, *Die arabischen Fassungen von zwei Schriften des Alexanders von Aphrodisias. Über die Vorsehung und Über das liberum Arbitrium*, diss., Saarbrucken.
-* –––, 1979, *Zwei arabische Fassungen der Abhandlung des Alexander von Aphrodisias über die universalia (Quaestio I 11a)* , Göttingen: Vandenhoeck & Ruprecht.
-* Savage-Smith, E. *et alii* (eds.), *A literary history of medicine. The ‘Uyūn al-anbā’ fī ṭabaqāt al-aṭibbā’ of Ibn Abī Uṣaybi‘ah*, Leiden: Brill, 2020.
-* Taylor, R.C., 1984, “‘Abd al Latif al-Baghdadi’s *Epitome of the Kalam fi Mahd al-Khayr* (*Liber de Causis*)”, in *Islamic Theology and Philosophy: Studies in Honor of George F. Hourani*, M.E. Marmura (ed.), Albany NY: State of New York Press, pp. 286–323.
-* Thies, H.J., 1971, *Der Diabetestraktat ‘Abd al-Latif al-Baghdadi’s Untersuchungen zur Geschichte des Krankheitsbildes in der arabischen Medizin*, Bonn: Sebstverlag des Orientalischen Seminars der Universität.
-* Thillet, P., 2003, *Alexandre d’Aphrodise. Traité de la Providence. Περὶ Προνοίας. Version arabe d’Abu Bishr Matta Ibn Yunus: édition et traduction*, Paris: Verdier.
-* Wahl, S.F.G., 1790,  *‘Abd al-Latif’s eines arabischen Arztes Denkwürdigkeiten Ëgyptens*, Halle.
-* White, J., 1800, *Abdollatiphi historiae Aegypti compendium, ar. et lat. partim ipse vertit, partim a Pocockes versum edendum curavit notisque illustravit*, Oxford.
-* Yaqut al-Hamawi al-Rumi, *Mu‘jam al-udaba’.*  *Irshad al-arib ila ma‘rifat al-adib*  **(**​*Dictionary of Learned Men*), I. Abbas (ed.), I-VII, Beirut: Dar al-Gharb al-Islami, 1993.
-* Zand, K.H., J.A. Videan, and I.E. Videan, 1965, *The Eastern key: Kitab al-Ifadah wa-l-i‘tibar of ‘Abd al-Latif al-Baghdadi (‘Abd al-Latif Ibn-Yusuf Ibn-Muhammad al-Baghdadi)* , London: George Allen and Unwin Ltd.
+* Ajoun, Y., 2017, _Ma ba‘d al-tabi‘a_, _ta’alif Muwaffaq al-Din ‘Abd al-Latif ibn Yunus al-Bagdadi_ (Metaphysics by Muwaffaq al-Din ‘Abd al-Latif ibn Yunus al-Bagdadi), Beirut: Dar al-Kutub al-‘ilmiyya.
+* al-Anbari, _Nuzhat al-alibba’ fi tabaqat al-udaba’_ (Intelligent Scholars Promenade in the Classes of Men of Letter), A. Amer (ed.), Stockholm-Göteborg-Uppsala: Almquist and Wiksell, 1963.
+* Badawi, ‘A., 1947, _Aristu ‘inda al-‘arab_ (Aristoteles Apud Arabes), al-Qahira: Maktaba al-Nahda al-Misriyya.
+* –––, 1955a, _Aflutin ‘inda al-‘arab_ (Plotinus Apud Arabes), al-Qahira: Maktaba al-Nahda al-Misriyya.
+* –––, 1955b, _Al-Aflatuniyya al-muhdatha ‘inda l-‘arab_ (Neoplatonici Apud Arabes), al-Qahira: Maktaba al-nahda al-misriyya.
+* Bardenhewer, O., 1882, _Die pseudo-aristotelische Schrift Über das reine Gute bekannt unter dem Namen Liber de causis_, Freiburg im Breisgau: Herder (Reprint Frankfurt am Main: Publications of the Institute for the History of Arabic-Islamic Science at the Johann Wolfgang Goethe University, 1961).
+* Brague, R., 1999, _Thémistius. Paraphrase de la Métaphysique d’Aristote (Livre Lambda), traduit de l’hébreu et de l’arabe_, Vrin: Paris.
+* Cahen, C., 1970, “‘Abdallatif al-Baghdadi, portratiste et historien de son temps, Extraits inédits de ses _Mémoires_”, _Bulletin d’Études orientales_, 23: 101–128.
+* De Sacy, S., 1810, _Relation de l’Égypte par Abd-Allatif, médecin arabe de Bagdad \[1162–1231 AD]_ , Paris: Imprimerie Impériale (Reprint Frankfurt am Main: Publications of the Institute for the History of Arabic-Islamic Science at the Johann Wolfgang Goethe University, 1992).
+* Fedouache, N., Y. Ajoun and F. Ben Ahmed, 2018, _Muwaffaq al-Din ‘Abd al-Latif ibn Yunus al-Bagdadi.Al-A‘mal al-falsafiyya al-kamila_, _al-juz’ al-awwal_, Beirut Borj El Kiffan: Edition Difaf & Edition El-ikhtilef.
+* Genequand, C., 2001, _Alexander of Aphrodisias on the Cosmos, Arabic Text with English Translation, Introduction and Commentary_, Leiden: Brill.
+* Ghalioungui, P. and S. Abdou, 1972,‘Abd al-Latif al-Baghdadi, _Maqala fi-l-Hawass wa-masa’il tabi‘iyya, Risala li-l-Iskandar, Risala fi l-marad al-musamma diyabita_ (Essay on the Senses and Two Questions on their Function, Questions on Natural History, On Specific Difference, On Diabetes), Kuwait: Government Press.
+* Ghalioungui, P., _‘Abd al-Latif al-Baghdadi. Tabib al-qarn al-sadis al-hijri. Shakhsiyyatuhu injazatuhu_, Cairo: al-Hayʼah al-Misriyah al-ʻAmmah lil-Kitab 1985.
+* Gibb, H.A.R., 1927, “Life of Muwaffiq ad-Din Abd al-Latif of Baghdad by Ibn Abi Usaybiya”, in _Healing through Spirit Agency by the Great Persian Physician Abduhl Latif (‘The Man of Baghdad’) and Information concerning the Life Hereafter of the deepest Interest to all Enquirers and Students of Psychic Phenomena_, R.H. Saunders (ed.), London: Hutchinson & Co.
+* Ibn Abi Usaybi‘a, _Kitab ‘Uyun al-anba’ fi tabaqat al-atibba’_ (Sources of Information on the Classes of Physicians), A. Müller (ed.), al-Qahira: al-Matba‘at al-wahbiyya, 1882–1884.
+* –––, _‘Uyun al-anba’ fi tabaqat al-atibba’_ (Sources of Information on the Classes of Physicians), A.R. Nizar Rida (ed.), Bayrut: Dar al-Maktabat al-Hayat, 1965.
+* Ibn Khallikan, Shams al-Din Ahmad ibn Muhammad, _Wafayat al-a‘yan wa-anba’ abna’ al-zaman_ (Deaths of Eminent Men and History of the Sons of the Epoch), I. Abbas (ed.), Beirut: Dar Sadir, 1968–1977.
+* al-Safadi (al-Safadi, Salah al-Din khalil ibn Aybak, d. 1363, _Al-Wafi bi-l-wafayat_ (Obituaries), H. Ritter et alii (eds.), Beirut: Orient-Institut Beirut, 2013).
+* Ibn Shakir al-Kutubi, _Fawat al-wafayat_ (What was omitted in the Obituaries), I. ‘Abbas (ed.), Bayrut: Dar al-Sadir, 1973–1974.
+* Ibn al-Nadim, _Kitab al-fihrist_ (Catalogue), in G. Flügel, J. Rödiger, and A. Müller (eds), Leipzig: Vogel, 1871–72.
+* –––, _Kitab al-fihrist_ (Catalogue), R. Tagaddud (ed.), Tihran: Marvi Offset Printing, 1973.
+* Ibn al-Qifti, _Inbah al-ruwat ‘ala anbah al-nuhat_ (Information of the Narrators on Renowned Grammarians), M. Abu l-Fadl Ibrahim (ed.), al-Qahira: Dar al-Kutub al-Misriyya, 1950–55.
+* –––, _Ta’rikh al-hukama’_ (History of Learned Men), J. Lippert (ed.), Leipzig: Dieterich’sche Verlagsbuchhandlung, 1903.
+* Jad, M. K., 2017, _Abd al-Latif al-Baghdadi. Kitab al-Nasihatayn li-l-atibba’ wa-l-hukama’_ , Cairo: Maʻhad al-Makhtutat al-ʻArabiyah.
+* –––, 2019, _al-Mujadalah bayna al-hakimayn al-kimiyaʼi wa-al-nazari, wa-maʻahu Risalah fi al-maʻadin wa-ibtal al-kimiyāʼ_, Caito: Jamiʻat al-Duwal al-ʻArabiyah, Maʻhad al-Makhtutat al-ʻArabiyah, al-Munazzamah al-ʻArabiyah lil-Tarbiyah wa-al-Thaqafah wa-al-ʻUlum.
+* Joosse, N.P., 2014, _The Physician as a Rebellious Intellectual. The Book of the two Pieces of Advice or Kitab al-Nasihatayn by ‘Abd al-Latif ibn Ibn Yusuf al-Baghdadi (1162–1231). Introduction, Edition and Translation of the Medical Section_, Frankfurt am Main: Peter Lang.
+* Kzzo, A. F. and Bellucci, N.D., _Racconto d’Egitto. Trascrizione e traduzione del manoscritto di ‘Abd al-Latif al-Baghdadi (con brevi note di commento)_ , Oxford: Archaeopress Publishing LTD 2020.
+* Mahdi, M., 1961, al-Farabi, _Philosophy of Aristotle_, Beirut: Dar majallat Shi‘r.
+* –––, 2001, _Alfarabi’s Philosophy of Plato and Aristotle_, Ithaca NY: Cornell University Press.
+* Malallah, ‘A.M. ‘I., _Al-Ifada wa-l-iʻtibar fi-l-umur al-mushahada wa-l-hhwadit al-muʻayana bi-ard Misr_ (_Book of the Report and Account of the Things which I Witnessed and the Events Seen in the Land of Egypt_), Baghdad: Wizarat at-Taʻlim al-ʻAli wa-l-Baht al-ʻIlmi, Jamiʻat Baghdad, 1987.
+* Martini Bonadeo, 2017b, “The First ‘Proclean’ Section (Chapter 20) of ‘Abd al Latif al-Baghdadi’s _Book on the Science of Metaphysics_. It the Pure Good of the _Mahd al-khayr_ Aristotle’s First Principle, Intellect in Actuality?”, _Oriens_, 45 (3-4), 259–305.
+* –––, 2018, “Una parafrasi araba di _Metafisica Iota_. Il capitolo undicesimo dal _Libro sulla scienza della Metafisica_ di ‘Abd al Latif al-Baghdadi”, _Studia graeco-arabica_, 8, 269–286.
+* Mousley, J., 1808, _Abdollatiphi bagdadensis vita, auctore Ibn Abi Osaibia._ _E codicibus MSS. Bodleianis descripsit, et Latine vertit_, Oxford: E Typographeo Claredoniano.
+* Neuwirth, A., 1976, _‘Abd al Latif al-Baghdadi’s Bearbeitung von Buch Lambda der aristotelischen Metaphysik_, Wiesbaden: Franz Steiner Verlag GMBH.
+* –––, 1977–78, “Neue Materialen zur Arabischen Tradition der beiden ersten _Metaphysik_-Bücher”, _Die Welt des Islams_, 18 (1–2): 84–100.
+* al-Radi, F.H., 1977,‘Abd al-Latif ibn Yusuf al-Baghdadi, _Al-mujarrad li-lughat al-hadith_ (Compendium for the Language of Hadith), Baghdad: Matba‘a al-Sa‘b.
+* –––, 1979, “‘Abd al-Latif ibn Yusuf al-Baghdadi, Min kitab al-mujarrad li-lughat al-hadith”, _al-Maurid_, 8 (2): 121–136.
+* Rashed, R., 2002, “‘Abd al-Latif ibn Yusuf al-Baghdadi, _Fi l-Radd ‘ala Ibn Haytham fi l-makan_; _La réfutation du lieu d’Ibn Haytham_”, in _Les mathématiques infinitésimales du IXe au XIe siècle_, R. Rashed (ed.), London: Al-Furqan Islamic Heritage Foundation, IV, pp. 908–53.
+* Rosenthal, F., 1975, _The Classical Heritge in Islam_, New York London: Routledge & Kegan Paul.
+* Rosenthal, F. and R. Walzer, 1943, _Alfarabius De Platonis philosophia_, London: The Warburg Institute.
+* Ruland, H.J., 1976, _Die arabischen Fassungen von zwei Schriften des Alexanders von Aphrodisias. Über die Vorsehung und Über das liberum Arbitrium_, diss., Saarbrucken.
+* –––, 1979, _Zwei arabische Fassungen der Abhandlung des Alexander von Aphrodisias über die universalia (Quaestio I 11a)_ , Göttingen: Vandenhoeck & Ruprecht.
+* Savage-Smith, E. _et alii_ (eds.), _A literary history of medicine. The ‘Uyūn al-anbā’ fī ṭabaqāt al-aṭibbā’ of Ibn Abī Uṣaybi‘ah_, Leiden: Brill, 2020.
+* Taylor, R.C., 1984, “‘Abd al Latif al-Baghdadi’s _Epitome of the Kalam fi Mahd al-Khayr_ (_Liber de Causis_)”, in _Islamic Theology and Philosophy: Studies in Honor of George F. Hourani_, M.E. Marmura (ed.), Albany NY: State of New York Press, pp. 286–323.
+* Thies, H.J., 1971, _Der Diabetestraktat ‘Abd al-Latif al-Baghdadi’s Untersuchungen zur Geschichte des Krankheitsbildes in der arabischen Medizin_, Bonn: Sebstverlag des Orientalischen Seminars der Universität.
+* Thillet, P., 2003, _Alexandre d’Aphrodise. Traité de la Providence. Περὶ Προνοίας. Version arabe d’Abu Bishr Matta Ibn Yunus: édition et traduction_, Paris: Verdier.
+* Wahl, S.F.G., 1790, _‘Abd al-Latif’s eines arabischen Arztes Denkwürdigkeiten Ëgyptens_, Halle.
+* White, J., 1800, _Abdollatiphi historiae Aegypti compendium, ar. et lat. partim ipse vertit, partim a Pocockes versum edendum curavit notisque illustravit_, Oxford.
+* Yaqut al-Hamawi al-Rumi, _Mu‘jam al-udaba’._ _Irshad al-arib ila ma‘rifat al-adib_ \*\*(\*\*​_Dictionary of Learned Men_), I. Abbas (ed.), I-VII, Beirut: Dar al-Gharb al-Islami, 1993.
+* Zand, K.H., J.A. Videan, and I.E. Videan, 1965, _The Eastern key: Kitab al-Ifadah wa-l-i‘tibar of ‘Abd al-Latif al-Baghdadi (‘Abd al-Latif Ibn-Yusuf Ibn-Muhammad al-Baghdadi)_ , London: George Allen and Unwin Ltd.
 
 ### Secondary Sources
 
-* Afnan, S.M., 1964, *Philosophical Terminology in Arabic and Persian*, Leiden: Brill.
-* Anawati, G., 1956,“Prolégomènes à une nouvelle édition du *De causis* arabe (*Kitab al-khayr al-mahd*), in *Mélanges Louis Massignon*, Damas: Institut Français, pp. 73–110.
-* Ben Ahmed, F., 2019, “Fi munahadat Ibn Sina wa as-sinawiyya: ‘Abd-Allatif al-Baghdadi wa islah al-falsafa fi al-qarn at-thalith ‘ashar al-miladi” (Challenging Ibn Sina and the Avicennism. ‘Abd al Laṭif al-Baghdadi and the Reform of Philosophy in the 13th Century), *Hespéris-Tamuda*, 54: 129–164.
-* Bellucci, N. 2019, “Le menzioni di Aristotele nel Kitab al-ifada wa-l-i‘tibar di ‘Abd al-Latif”, *Folia Orientalia*, 56: 11–28.
-* Butterworth, C., 1980, “Review to A. Neuwirth, ‘Abd al Laṭif al-Baġdadi’s Bearbeitung von Buch Lambda der aristotelischen Metaphysik, Franz Steiner Verlag GMBH, Wiesbaden 1976”, *Journal Asiatique*, 268: 198–199.
-* D’Ancona, C., 1995, *Recherches sur le Liber de Causis*, Paris: Vrin.
-* –––, 1996, *La casa della sapienza. La trasmissione della metafisica greca e la formazione della filosofia araba*, Milano: Guerini e Associati (Revised Arabic Translation by I. Marjani, Casablanca: Éditions Toubkal, 2014).
-* Degen, R., 1977, “Zum Diabetestraktat des ‘Abd al-Latif al-Baghdadi”, *Annali dell’Istituto Orientale di Napoli*, 37: 455–462.
-* Dietrich, A., 1967, “Ein Arzneimittelverzeichnis des ‘Abdallatif ibn Yusuf al-Baghdadi”, in *Der Orient in der Forscung. Festschrift für Otto Spies zum 5. April 1966*, W. Hoenerbach (ed.), Wiesbaden: O. Harrassowitz, pp. 42–60.
-* El-Bizri, N., 2007, “In Defence of the Sovereignty of Philosophy: al-Baghdadi’s Critique of Ibn Haytham’s Geometrisation of Place”, *Arabic Sciences and Philosophy*, 17: 57–80.
-* Endress, G., 1973, *Proclus Arabus. Zwanzig Abschnitte aus der Institutio Theologica in Arabischer Übersetzung*, Wiesbaden: Franz Steiner Verlag.
-* –––, 2002, “Alexander Arabus on the First Cause, Aristotle’s First Mover in an Arabic treatise attributed to Alexander of Aphrodisias”, in *Aristotele e Alessandro di Afrodisia nella tradizione araba. Atti del colloquio La ricezione araba ed ebraica della filosofia e della scienza greche, Padova, 14–15 maggio 1999*, C. D’Ancona and G. Serra (eds), Padova: Il Poligrafo, pp. 19–74.
-* Ephrat, D., 2000, *A Learned Society in a Period of Transition. The Sunni ‘Ulama’ of Eleventh-Century Baghdad*, Albany NY: State University of New York Press.
-* Fazzo, S. and H. Wiesner, 1993, “Alexander of Aphrodisias in the Kindi-Circle and in al-Kindi’s Cosmology”, *Arabic Sciences and Philosophy*, 3: 119–153.
-* Fenton, P., 1986, “The Arabic and Hebrew Version of *Theology of Aristotle*”, in *Pseudo-Aristotle in the Middle Ages. The Theology and other texts*, J. Kraye, W.F. Ryan, and C.B. Schmitt (eds), London: The Warburg Institute, pp. 241–264.
-* Gannagé, E., 2011, “Médecine et philosophie à Damas à l’aube du XIIIème siècle: un tournant post-avicennien?”, *Oriens*, 39: 227–256.
-* Genequand, C., 1978, “Review to A. Neuwirth, ‘Abd al Latif al-Baghdadi’s Bearbeitung von Buch *Lambda* der aristotelischen *Metaphysik*, Franz Steiner Verlag GMBH, Wiesbaden 1976”, *Der Islam*, 55: 362–364.
-* Griffel, F., *Abd al-Latif al-Baghdadi*, in *Philosophy in the Islamic World. Volume 2–1: 11*​*^th^*  *– Centuries Central and Eastern Regions*, U. Rudolph and P. Adamson, Leiden – Boston: Brill, pp. 507–521; 531–533.
-* Gutas, D., 1980, “Editing Arabic Philosophical Texts”, *Orientalistische Literaturzeitung*, 75: 214–222.
-* –––, 1998, *Greek Thought, Arabic Culture. The Graeco-Arabic Translation Movement in Baghdad and Early ‘Abbasid Society (2nd–4th/8th–10th centuries)* , London New York: Routledge.
-* –––, 2002, “The Heritage of Avicenna: the Golden Age of Arabic Philosophy, 1000–ca.1350”, in *Avicenna and his Heritage. Acts of the International Colloquium, Leuven—Louvain-La-Neuve September 8–September 11, 1999*, J. Janssens and D. De Smet (eds), Leuven: University Press, pp. 81–97.
-* –––, 2011, “Philosophy in the Twelfth Century: one View from Baghdad, or the Repudiation of al-Ghazali”, in *In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century*, P. Adamson (ed.), London Turin: The Warburg Institute - Nino Aragno Editore, pp. 9–26.
-* Hasnawi, A., 1994, “Alexandre d’Aphrodise vs Jean Philopon: Notes sur quelques traités d’Alexandre “perdus” en Grec, conservés en Arabe”, *Arabic Sciences and Philosophy*, 4, 53–109.
-* Jackson, P., *The Mongols and the Islamic World. From Conquest to Conversion*, New Haven: Yale University Press 2017.
-* Jolivet, J., 1979, “Pour le dossier du Proclus Arabe: al-Kindi et la *Théologie* platonicienne”, *Studia Islamica*, 49: 55–75.
-* Joosse, N.P., 2007, “‘Pride and Prejudice, Praise and Blame’ ‘Abd al-Latif al-Baghdadi’s View on Bad and Good Medical Practioners”, in *O ye Gentlemen: Arabic Studies on Science and Literary Culture in Honour of Remke Kruk*, A. Vrolijk and J.P. Hogendijk (eds), Leiden Boston: Brill, pp. 129–141.
-* –––, 2008, “Unmasking the Craft: ‘Abd al-Latif al-Baghdadi’s views on Alchemy and Alchemists”, in *Islamic Thought in the Middle Ages. Studies in Text, Transmission and Translation, in Honour of Hans Daiber*, A. Akasoy and W. Raven (eds), Leiden Boston: Brill, pp. 301–317.
-* –––, 2011, “‘Abd al-Latif al-Baghdadi as a Philosopher and a Physician: Myth or Reality, Topos or Truth?”, in *In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century*, P. Adamson (ed.), London Turin: The Warburg Institute—Nino Aragno Editore, pp. 27–43.
-* Joosse, N.P. and P.E. Pormann, 2008, “Archery, Mathematics, and Conceptualizing Inaccuracies in Medicine in 13th Century Iraq and Syria”, *Journal of the Royal Society of Medicine*, 101: 425–427.
-* –––, 2010, “Decline and Decadence in Iraq and Syria after the Age of Avicenna? ‘Abd al-Latif al-Baghdadi (1162–1231) between Myth and History”, *Bulletin of the History of Medicine*, 84 (1): 1–29.
-* –––, 2012, “‘Abd al-Latif al-Baghdadi’s *Commentary on Hippocrates’ Prognostic*: A Preliminary Exploration”, in  *&gt;Epidemics&lt;*  *in Context. Greek Commentaries on Hippocrates in the Arabic Tradition*, P.E. Pormann (ed.), Berlin Boston: de Gruyter, pp. 251–283.
-* Kruk, R., 2008, “‘Abd al-Latif al-Baghdadi’s *Kitab al-Ḥayawan*: a Chimaera?”, in *Islamic Thought in the Middle Ages. Studies in Text, Transmission and Translation, in Honour of Hans Daiber*, A. Akasoy and W. Raven (eds), Leiden Boston: Brill, pp. 345–362.
-* Kzzo, A. F., 2018, “A description before the “Description de l’Égypte”: ‘Abd al-Latif Al-Baghdadi’s book On Egypt, *Contributi e Materiali di Archeologia Orientale*, 18: 287–294.
-* Makdisi, G., 1981, *The Rise of Colleges, Istitutions of Learning in Islam and the West*, Edinburgh: University Press.
-* Martini Bonadeo, C., 2001, “The Arabic version of book *Alpha Meizon* of Aristotle’s *Metaphysics* and the testimony of. MS: Bibl. Apostolica Vaticana, Ott. Lat. 2048”, in *Les traducters au travail. leur manuscripts et leur méthodes. Actes du Colloque international organisé par le “Ettore Majorana Centre for Scientific Culture” (Erice 30 septembre–6 octobre 1999)* , J. Hamesse (ed.), Turnout: Brepols, 2001, pp. 173–206.
-* –––, 2002, “La tradizione araba della *Metafisica* di Aristotele. Libri a–A”, in *Aristotele e Alessandro di Afrodisia nella tradizione araba. Atti del colloquio La ricezione araba ed ebraica della filosofia e della scienza greche, Padova, 14–15 maggio 1999*, C. D’Ancona and G. Serra (eds), Padova: Il Poligrafo, pp. 75–112.
-* –––, 2005, “Avicenna: seguaci e critici”, in *Storia della filosofia nell’Islam medievale*, C. D’Ancona (ed.), Torino: Einaudi, II, pp. 627–668.
-* –––, 2010, “‘Abd al-Latif al-Baghdadi’s Reception of Book *Beta* of Aristotle’s *Metaphysics* against the Background of the Competing Readings by Avicenna and Averroes”, *Documenti e studi sulla tradizione filosofica medievale*, 21: 411–431.
-* –––, 2013,  *‘Abd al-Latif al-Baghdadi’s Philosophical Journey. From Aristotle’s Metaphysics to the ‘Metaphysical Science’* , Leiden Boston: Brill.
-* –––, 2016, “L’antico Egitto, I suoi monumenti e i suoi idoli nelle riflessioni di un intellettuale musulmano vissuto tra XII e XIII secolo”, in *Pensiero e formazione. Stidi in onore di Giuseppe Micheli*, G. Piaia and G. Zago (eds.), Padova: CLEUP, pp. 171–186.
-* –––, 2017, “ “Vi racconterò delle meraviglie che ho veduto con i miei occhi”. Un intellettuale musulmano al tempo del Saladino racconta l’Egitto ” ”, in *Atti e memorie dell’accademia galileiana di scienze, lettere ed arti in Padova*, parte i. atti 129: 43–57.
-* –––, 2017a, “God’s Will and the Origin of the World. ‘Abd al-Latif al-Baghdadi’s Sources and Arguments”, *The Muslim World*, 107: 482–495.
-* –––, 2017b, “The first ‘Proclean’ section (Chapter 20) of ʻAbd al-Laṭīf al-Baġdādī’s *Book on the Science of Metaphysics*. Is the Pure Good of the Maḥḍ al-ḫayr Aristotle’s First Principle, Intellect in Actuality?”, *Oriens*, 45 (2017), pp. 259–305.
-* –––, 2018, “Una parafrasi araba di Metafisica Iota. Il capitolo undicesimo dal Libro sulla scienza della Metafisica di ʻAbd al-Laṭīf al-Baġdādī”, *Studia graeco-arabica*, 8 (2018), pp. 269–286.
-* Meyrav, Y., *Themistius’ paraphrase of Aristotle’s Metaphysics 12: a critical Hebrew-Arabic edition of the surviving textual evidence, with an introduction, preliminary studies, and a commentary*, Leiden: Brill.
-* Rashed, M., 2004, “Priorité de l’ΕΙΔΟΣ ou du ΓΕΝΟΣ entre Andronicos et Alexandre: vestiges arabes et grecs inédits”, *Arabic Sciences and Philosophy*, 14: 9–63.
-* Rosenthal, F., “From Arabic Book and Manuscripts V: A one-volume library of Arabic philosophical and scientific texts in Istanbul”, *Journal of the American Oriental Society* 75 (1955): 14–23.
-* Shalem, A., 2015, “Experientia and Auctoritas: ‘Abd Al-Latif al-Bagjdadi’s Kitab Al-Ifada Wa-l-I‘tibar and the Birth of the Critical Gaze, *Muqarnas Online*, 32 (1): 197–212.
-* Stern, S.M., 1962, “A Collection of Treatises by ‘Abd al-Latif al-Baghdadi”, *Islamic Studies*, 1(1): 53–70.
-* Taylor, R.C., 1981, *The Liber de Causis (Kalam fi mahd al-khayr). A study of Medieval Neoplatonism*, PhD Thesis, Toronto.
-* –––, 1982, “Neoplatonic Texts in Turkey: Two Manuscripts Containing Ibn Tufayl’s *Hayy Ibn Yaqzan*, Ibn al-Sid’s *Kitab al-Hada’iq*, Ibn Bajja’s *Ittisal al-‘aql bi-l-insan*, *the Liber de causis* and an Anonymous Neoplatonic *Treatise on Motion*”, *Mélanges de l’Institut Dominican d’Etudes Orientales*, 15: 251–264.
-* Toorawa, S.M., 1996, “The educational background of ‘Abd al-Latif al-Baghdadi”, *Muslim Education Quarterly*, 13 (1996), pp. 35–53.
-* –––, 1997, Language and male homosocial desire in the autobiography of ‘Abd al-Latif al-Baghdadi (d. 629/1231)”, *Edebiyat. The Journal of Middle Easter Literatures*, 7(1997), pp. 45–59.
-* –––, 2001, “The Autobiography of ‘Abd al-Latif al-Baghdadi (1162–1231)”, in *Interpreting the Self. Autobiography in the Arabic Literary Tradition*, D.F. Reynolds (ed.), Berkeley Los Angeles London: University of California Press, pp. 156–164.
-* –––, 2004, “A Portrait of ‘Abd al-Latif al-Baghdadi’s Education and Instruction”, in *Law and Education in Medieval Islam. Studies in memory of Professor G. Makdisi*, J.E. Lowry, D.J. Stewart, and S.M. Toorawa (eds.), Oxford: E.J.W. Gibb Memorial Trust Series, pp. 91–109.
-* –––, 2004a, “Travel in medieval Islamic World: the Importance of Patronage as illustrated by ‘Abd al-Latif al-Baghdadi (d. 629/1231) (and others littérateurs)”, in *Eastward Bound. Travel and travellers 1050–1550*, R. Allen (ed.), Manchester New York: Manchester University Press, pp. 53–70.
-* Van Ess, J., 1966, “Über einige neue Fragmente des Alexander von Aphrodisias und des Proklos in arabischer Übersetzung”, *Der Islam*, 42: 148–68.
-* Von Somogyi, J., 1937, “Ein arabischer Bericht über die Tataren im *Ta’rikh al-Islam* von al-Dhahabi”, *Der Islam*, 24(2): 105–130.
-* Wiedeman, E., 1907, “Zur Alchemie bei den Arabern”, *Separatabdruck aus dem Journal für praktische Chemie*, 76: 65–123.
-* Zimmermann, F.W., 1986, “The Origins of the So-called Theology of Aristotle”, in *Pseudo- Aristotle in the Middle Ages. The Theology and other texts*, J. Kraye, W.F. Ryan, and C.B. Schmitt (eds), London: The Warburg Institute, pp. 110–240.
-* –––, 1994, “Proclus Arabus Rides Again”, *Arabic Sciences and Philosophy*, 4: 9–51.
+* Afnan, S.M., 1964, _Philosophical Terminology in Arabic and Persian_, Leiden: Brill.
+* Anawati, G., 1956,“Prolégomènes à une nouvelle édition du _De causis_ arabe (_Kitab al-khayr al-mahd_), in _Mélanges Louis Massignon_, Damas: Institut Français, pp. 73–110.
+* Ben Ahmed, F., 2019, “Fi munahadat Ibn Sina wa as-sinawiyya: ‘Abd-Allatif al-Baghdadi wa islah al-falsafa fi al-qarn at-thalith ‘ashar al-miladi” (Challenging Ibn Sina and the Avicennism. ‘Abd al Laṭif al-Baghdadi and the Reform of Philosophy in the 13th Century), _Hespéris-Tamuda_, 54: 129–164.
+* Bellucci, N. 2019, “Le menzioni di Aristotele nel Kitab al-ifada wa-l-i‘tibar di ‘Abd al-Latif”, _Folia Orientalia_, 56: 11–28.
+* Butterworth, C., 1980, “Review to A. Neuwirth, ‘Abd al Laṭif al-Baġdadi’s Bearbeitung von Buch Lambda der aristotelischen Metaphysik, Franz Steiner Verlag GMBH, Wiesbaden 1976”, _Journal Asiatique_, 268: 198–199.
+* D’Ancona, C., 1995, _Recherches sur le Liber de Causis_, Paris: Vrin.
+* –––, 1996, _La casa della sapienza. La trasmissione della metafisica greca e la formazione della filosofia araba_, Milano: Guerini e Associati (Revised Arabic Translation by I. Marjani, Casablanca: Éditions Toubkal, 2014).
+* Degen, R., 1977, “Zum Diabetestraktat des ‘Abd al-Latif al-Baghdadi”, _Annali dell’Istituto Orientale di Napoli_, 37: 455–462.
+* Dietrich, A., 1967, “Ein Arzneimittelverzeichnis des ‘Abdallatif ibn Yusuf al-Baghdadi”, in _Der Orient in der Forscung. Festschrift für Otto Spies zum 5. April 1966_, W. Hoenerbach (ed.), Wiesbaden: O. Harrassowitz, pp. 42–60.
+* El-Bizri, N., 2007, “In Defence of the Sovereignty of Philosophy: al-Baghdadi’s Critique of Ibn Haytham’s Geometrisation of Place”, _Arabic Sciences and Philosophy_, 17: 57–80.
+* Endress, G., 1973, _Proclus Arabus. Zwanzig Abschnitte aus der Institutio Theologica in Arabischer Übersetzung_, Wiesbaden: Franz Steiner Verlag.
+* –––, 2002, “Alexander Arabus on the First Cause, Aristotle’s First Mover in an Arabic treatise attributed to Alexander of Aphrodisias”, in _Aristotele e Alessandro di Afrodisia nella tradizione araba. Atti del colloquio La ricezione araba ed ebraica della filosofia e della scienza greche, Padova, 14–15 maggio 1999_, C. D’Ancona and G. Serra (eds), Padova: Il Poligrafo, pp. 19–74.
+* Ephrat, D., 2000, _A Learned Society in a Period of Transition. The Sunni ‘Ulama’ of Eleventh-Century Baghdad_, Albany NY: State University of New York Press.
+* Fazzo, S. and H. Wiesner, 1993, “Alexander of Aphrodisias in the Kindi-Circle and in al-Kindi’s Cosmology”, _Arabic Sciences and Philosophy_, 3: 119–153.
+* Fenton, P., 1986, “The Arabic and Hebrew Version of _Theology of Aristotle_”, in _Pseudo-Aristotle in the Middle Ages. The Theology and other texts_, J. Kraye, W.F. Ryan, and C.B. Schmitt (eds), London: The Warburg Institute, pp. 241–264.
+* Gannagé, E., 2011, “Médecine et philosophie à Damas à l’aube du XIIIème siècle: un tournant post-avicennien?”, _Oriens_, 39: 227–256.
+* Genequand, C., 1978, “Review to A. Neuwirth, ‘Abd al Latif al-Baghdadi’s Bearbeitung von Buch _Lambda_ der aristotelischen _Metaphysik_, Franz Steiner Verlag GMBH, Wiesbaden 1976”, _Der Islam_, 55: 362–364.
+* Griffel, F., _Abd al-Latif al-Baghdadi_, in _Philosophy in the Islamic World. Volume 2–1: 11_​\*^th^\* _– Centuries Central and Eastern Regions_, U. Rudolph and P. Adamson, Leiden – Boston: Brill, pp. 507–521; 531–533.
+* Gutas, D., 1980, “Editing Arabic Philosophical Texts”, _Orientalistische Literaturzeitung_, 75: 214–222.
+* –––, 1998, _Greek Thought, Arabic Culture. The Graeco-Arabic Translation Movement in Baghdad and Early ‘Abbasid Society (2nd–4th/8th–10th centuries)_ , London New York: Routledge.
+* –––, 2002, “The Heritage of Avicenna: the Golden Age of Arabic Philosophy, 1000–ca.1350”, in _Avicenna and his Heritage. Acts of the International Colloquium, Leuven—Louvain-La-Neuve September 8–September 11, 1999_, J. Janssens and D. De Smet (eds), Leuven: University Press, pp. 81–97.
+* –––, 2011, “Philosophy in the Twelfth Century: one View from Baghdad, or the Repudiation of al-Ghazali”, in _In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century_, P. Adamson (ed.), London Turin: The Warburg Institute - Nino Aragno Editore, pp. 9–26.
+* Hasnawi, A., 1994, “Alexandre d’Aphrodise vs Jean Philopon: Notes sur quelques traités d’Alexandre “perdus” en Grec, conservés en Arabe”, _Arabic Sciences and Philosophy_, 4, 53–109.
+* Jackson, P., _The Mongols and the Islamic World. From Conquest to Conversion_, New Haven: Yale University Press 2017.
+* Jolivet, J., 1979, “Pour le dossier du Proclus Arabe: al-Kindi et la _Théologie_ platonicienne”, _Studia Islamica_, 49: 55–75.
+* Joosse, N.P., 2007, “‘Pride and Prejudice, Praise and Blame’ ‘Abd al-Latif al-Baghdadi’s View on Bad and Good Medical Practioners”, in _O ye Gentlemen: Arabic Studies on Science and Literary Culture in Honour of Remke Kruk_, A. Vrolijk and J.P. Hogendijk (eds), Leiden Boston: Brill, pp. 129–141.
+* –––, 2008, “Unmasking the Craft: ‘Abd al-Latif al-Baghdadi’s views on Alchemy and Alchemists”, in _Islamic Thought in the Middle Ages. Studies in Text, Transmission and Translation, in Honour of Hans Daiber_, A. Akasoy and W. Raven (eds), Leiden Boston: Brill, pp. 301–317.
+* –––, 2011, “‘Abd al-Latif al-Baghdadi as a Philosopher and a Physician: Myth or Reality, Topos or Truth?”, in _In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century_, P. Adamson (ed.), London Turin: The Warburg Institute—Nino Aragno Editore, pp. 27–43.
+* Joosse, N.P. and P.E. Pormann, 2008, “Archery, Mathematics, and Conceptualizing Inaccuracies in Medicine in 13th Century Iraq and Syria”, _Journal of the Royal Society of Medicine_, 101: 425–427.
+* –––, 2010, “Decline and Decadence in Iraq and Syria after the Age of Avicenna? ‘Abd al-Latif al-Baghdadi (1162–1231) between Myth and History”, _Bulletin of the History of Medicine_, 84 (1): 1–29.
+* –––, 2012, “‘Abd al-Latif al-Baghdadi’s _Commentary on Hippocrates’ Prognostic_: A Preliminary Exploration”, in _>Epidemics<_ _in Context. Greek Commentaries on Hippocrates in the Arabic Tradition_, P.E. Pormann (ed.), Berlin Boston: de Gruyter, pp. 251–283.
+* Kruk, R., 2008, “‘Abd al-Latif al-Baghdadi’s _Kitab al-Ḥayawan_: a Chimaera?”, in _Islamic Thought in the Middle Ages. Studies in Text, Transmission and Translation, in Honour of Hans Daiber_, A. Akasoy and W. Raven (eds), Leiden Boston: Brill, pp. 345–362.
+* Kzzo, A. F., 2018, “A description before the “Description de l’Égypte”: ‘Abd al-Latif Al-Baghdadi’s book On Egypt, _Contributi e Materiali di Archeologia Orientale_, 18: 287–294.
+* Makdisi, G., 1981, _The Rise of Colleges, Istitutions of Learning in Islam and the West_, Edinburgh: University Press.
+* Martini Bonadeo, C., 2001, “The Arabic version of book _Alpha Meizon_ of Aristotle’s _Metaphysics_ and the testimony of. MS: Bibl. Apostolica Vaticana, Ott. Lat. 2048”, in _Les traducters au travail. leur manuscripts et leur méthodes. Actes du Colloque international organisé par le “Ettore Majorana Centre for Scientific Culture” (Erice 30 septembre–6 octobre 1999)_ , J. Hamesse (ed.), Turnout: Brepols, 2001, pp. 173–206.
+* –––, 2002, “La tradizione araba della _Metafisica_ di Aristotele. Libri a–A”, in _Aristotele e Alessandro di Afrodisia nella tradizione araba. Atti del colloquio La ricezione araba ed ebraica della filosofia e della scienza greche, Padova, 14–15 maggio 1999_, C. D’Ancona and G. Serra (eds), Padova: Il Poligrafo, pp. 75–112.
+* –––, 2005, “Avicenna: seguaci e critici”, in _Storia della filosofia nell’Islam medievale_, C. D’Ancona (ed.), Torino: Einaudi, II, pp. 627–668.
+* –––, 2010, “‘Abd al-Latif al-Baghdadi’s Reception of Book _Beta_ of Aristotle’s _Metaphysics_ against the Background of the Competing Readings by Avicenna and Averroes”, _Documenti e studi sulla tradizione filosofica medievale_, 21: 411–431.
+* –––, 2013, _‘Abd al-Latif al-Baghdadi’s Philosophical Journey. From Aristotle’s Metaphysics to the ‘Metaphysical Science’_ , Leiden Boston: Brill.
+* –––, 2016, “L’antico Egitto, I suoi monumenti e i suoi idoli nelle riflessioni di un intellettuale musulmano vissuto tra XII e XIII secolo”, in _Pensiero e formazione. Stidi in onore di Giuseppe Micheli_, G. Piaia and G. Zago (eds.), Padova: CLEUP, pp. 171–186.
+* –––, 2017, “ “Vi racconterò delle meraviglie che ho veduto con i miei occhi”. Un intellettuale musulmano al tempo del Saladino racconta l’Egitto ” ”, in _Atti e memorie dell’accademia galileiana di scienze, lettere ed arti in Padova_, parte i. atti 129: 43–57.
+* –––, 2017a, “God’s Will and the Origin of the World. ‘Abd al-Latif al-Baghdadi’s Sources and Arguments”, _The Muslim World_, 107: 482–495.
+* –––, 2017b, “The first ‘Proclean’ section (Chapter 20) of ʻAbd al-Laṭīf al-Baġdādī’s _Book on the Science of Metaphysics_. Is the Pure Good of the Maḥḍ al-ḫayr Aristotle’s First Principle, Intellect in Actuality?”, _Oriens_, 45 (2017), pp. 259–305.
+* –––, 2018, “Una parafrasi araba di Metafisica Iota. Il capitolo undicesimo dal Libro sulla scienza della Metafisica di ʻAbd al-Laṭīf al-Baġdādī”, _Studia graeco-arabica_, 8 (2018), pp. 269–286.
+* Meyrav, Y., _Themistius’ paraphrase of Aristotle’s Metaphysics 12: a critical Hebrew-Arabic edition of the surviving textual evidence, with an introduction, preliminary studies, and a commentary_, Leiden: Brill.
+* Rashed, M., 2004, “Priorité de l’ΕΙΔΟΣ ou du ΓΕΝΟΣ entre Andronicos et Alexandre: vestiges arabes et grecs inédits”, _Arabic Sciences and Philosophy_, 14: 9–63.
+* Rosenthal, F., “From Arabic Book and Manuscripts V: A one-volume library of Arabic philosophical and scientific texts in Istanbul”, _Journal of the American Oriental Society_ 75 (1955): 14–23.
+* Shalem, A., 2015, “Experientia and Auctoritas: ‘Abd Al-Latif al-Bagjdadi’s Kitab Al-Ifada Wa-l-I‘tibar and the Birth of the Critical Gaze, _Muqarnas Online_, 32 (1): 197–212.
+* Stern, S.M., 1962, “A Collection of Treatises by ‘Abd al-Latif al-Baghdadi”, _Islamic Studies_, 1(1): 53–70.
+* Taylor, R.C., 1981, _The Liber de Causis (Kalam fi mahd al-khayr). A study of Medieval Neoplatonism_, PhD Thesis, Toronto.
+* –––, 1982, “Neoplatonic Texts in Turkey: Two Manuscripts Containing Ibn Tufayl’s _Hayy Ibn Yaqzan_, Ibn al-Sid’s _Kitab al-Hada’iq_, Ibn Bajja’s _Ittisal al-‘aql bi-l-insan_, _the Liber de causis_ and an Anonymous Neoplatonic _Treatise on Motion_”, _Mélanges de l’Institut Dominican d’Etudes Orientales_, 15: 251–264.
+* Toorawa, S.M., 1996, “The educational background of ‘Abd al-Latif al-Baghdadi”, _Muslim Education Quarterly_, 13 (1996), pp. 35–53.
+* –––, 1997, Language and male homosocial desire in the autobiography of ‘Abd al-Latif al-Baghdadi (d. 629/1231)”, _Edebiyat. The Journal of Middle Easter Literatures_, 7(1997), pp. 45–59.
+* –––, 2001, “The Autobiography of ‘Abd al-Latif al-Baghdadi (1162–1231)”, in _Interpreting the Self. Autobiography in the Arabic Literary Tradition_, D.F. Reynolds (ed.), Berkeley Los Angeles London: University of California Press, pp. 156–164.
+* –––, 2004, “A Portrait of ‘Abd al-Latif al-Baghdadi’s Education and Instruction”, in _Law and Education in Medieval Islam. Studies in memory of Professor G. Makdisi_, J.E. Lowry, D.J. Stewart, and S.M. Toorawa (eds.), Oxford: E.J.W. Gibb Memorial Trust Series, pp. 91–109.
+* –––, 2004a, “Travel in medieval Islamic World: the Importance of Patronage as illustrated by ‘Abd al-Latif al-Baghdadi (d. 629/1231) (and others littérateurs)”, in _Eastward Bound. Travel and travellers 1050–1550_, R. Allen (ed.), Manchester New York: Manchester University Press, pp. 53–70.
+* Van Ess, J., 1966, “Über einige neue Fragmente des Alexander von Aphrodisias und des Proklos in arabischer Übersetzung”, _Der Islam_, 42: 148–68.
+* Von Somogyi, J., 1937, “Ein arabischer Bericht über die Tataren im _Ta’rikh al-Islam_ von al-Dhahabi”, _Der Islam_, 24(2): 105–130.
+* Wiedeman, E., 1907, “Zur Alchemie bei den Arabern”, _Separatabdruck aus dem Journal für praktische Chemie_, 76: 65–123.
+* Zimmermann, F.W., 1986, “The Origins of the So-called Theology of Aristotle”, in _Pseudo- Aristotle in the Middle Ages. The Theology and other texts_, J. Kraye, W.F. Ryan, and C.B. Schmitt (eds), London: The Warburg Institute, pp. 110–240.
+* –––, 1994, “Proclus Arabus Rides Again”, _Arabic Sciences and Philosophy_, 4: 9–51.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-baghdadi).                                                     |
-> | -------------------------------------------------------------------- | ------------------------------------------------------- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/al-baghdadi/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/).                                             |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=al-baghdadi&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/al-baghdadi/) at [PhilPapers](https://philpapers.org/), with links to its database.                     |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-baghdadi).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/al-baghdadi/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=al-baghdadi\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/al-baghdadi/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -311,7 +310,6 @@
 
 ## Related Entries
 
-[al-Farabi](https://plato.stanford.edu/entries/al-farabi/) | [al-Kindi](https://plato.stanford.edu/entries/al-kindi/) | [Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Ibn Rushd [Averroes]](https://plato.stanford.edu/entries/ibn-rushd/) | [Ibn Sina [Avicenna]](https://plato.stanford.edu/entries/ibn-sina/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [Proclus](https://plato.stanford.edu/entries/proclus/) | [Theology of Aristotle](https://plato.stanford.edu/entries/theology-aristotle/)
+[al-Farabi](https://plato.stanford.edu/entries/al-farabi/) | [al-Kindi](https://plato.stanford.edu/entries/al-kindi/) | [Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Ibn Rushd \[Averroes\]](https://plato.stanford.edu/entries/ibn-rushd/) | [Ibn Sina \[Avicenna\]](https://plato.stanford.edu/entries/ibn-sina/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [Proclus](https://plato.stanford.edu/entries/proclus/) | [Theology of Aristotle](https://plato.stanford.edu/entries/theology-aristotle/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by
-Cecilia Martini Bonadeo <*[cecilia.martini@unipd.it](mailto:cecilia%2emartini%40unipd%2eit)*>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by Cecilia Martini Bonadeo <[_cecilia.martini@unipd.it_](mailto:cecilia%2emartini%40unipd%2eit)>

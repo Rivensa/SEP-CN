@@ -1,11 +1,12 @@
 # 分析 analysis (Michael Beaney)
-*首次发布于2003年4月7日；实质性修订于2014年3月19日*
+
+_首次发布于2003年4月7日；实质性修订于2014年3月19日_
 
 分析一直是哲学方法的核心，但它被理解和实践的方式千差万别。或许，从最广义上讲，它可以被定义为通过将某个最初被视为已知的事物分离或追溯到更基本的事物，从而解释或重建它。解释或重建通常会在相应的综合过程中展示出来。然而，具体的方法可以有很大的变化。目标可能是回归基本原理，但实现这一目标的方式可能有各种各样，每一种方式都可以称为“分析”。英语世界中“分析”哲学的主导地位，以及现在在世界其他地方的日益增长，可能表明已经形成了关于分析的作用和重要性的共识。然而，这假设了对“分析”一词的含义达成了一致，而事实远非如此。另一方面，维特根斯坦在分析哲学的早期（逻辑原子主义）时期对分析的批评，以及奎因对分析-综合区别的攻击，例如，导致一些人声称我们现在处于一个“后分析”时代。然而，这些批评只针对特定的分析概念。如果我们看一下哲学的历史，甚至只是看一下分析哲学的历史，我们会发现哲学家们不断借鉴和重新配置各种各样的分析概念。正是因为涉及到各种分析概念，分析哲学才依然充满活力。它可能已经分裂成各种相互关联的子传统，但这些子传统通过它们共同的历史和方法论联系而保持在一起。本文旨在指出哲学史上分析概念的范围及其相互关系，并为那些希望探索分析方法论和相关哲学问题的人提供参考资源。
 
-- [1. 总体介绍](https://plato.stanford.edu/entries/analysis/#1) - [1.1 分析的特征](https://plato.stanford.edu/entries/analysis/#1.1) - [1.2 本条目指南](https://plato.stanford.edu/entries/analysis/#1.2) - [补充文档：分析的定义和描述](https://plato.stanford.edu/entries/analysis/s1.html) - [2. 古代对分析的理解和回归观念的出现](https://plato.stanford.edu/entries/analysis/#AncConc) - [补充文档：古代对分析的理解](https://plato.stanford.edu/entries/analysis/s2.html) - [1. 引言](https://plato.stanford.edu/entries/analysis/s2.html#1) - [2. 古希腊几何学](https://plato.stanford.edu/entries/analysis/s2.html#2) - [3. 柏拉图](https://plato.stanford.edu/entries/analysis/s2.html#3) - [4. 亚里士多德](https://plato.stanford.edu/entries/analysis/s2.html#4) - [3. 中世纪和文艺复兴时期对分析的理解](https://plato.stanford.edu/entries/analysis/#3) - [补充文档：中世纪和文艺复兴时期对分析的理解](https://plato.stanford.edu/entries/analysis/s3.html) - [1. 中世纪哲学](https://plato.stanford.edu/entries/analysis/s3.html#1) - [2. 文艺复兴哲学](https://plato.stanford.edu/entries/analysis/s3.html#2) - [4. 早期现代对分析的理解和分解观念的发展](https://plato.stanford.edu/entries/analysis/#4) - [补充文档：早期现代对分析的理解](https://plato.stanford.edu/entries/analysis/s4.html) - [1. 引言](https://plato.stanford.edu/entries/analysis/s4.html#1) - [2. 笛卡尔和解析几何](https://plato.stanford.edu/entries/analysis/s4.html#2) - [3. 英国经验主义](https://plato.stanford.edu/entries/analysis/s4.html#3) - [4. 莱布尼兹](https://plato.stanford.edu/entries/analysis/s4.html#4) - [5. 康德](https://plato.stanford.edu/entries/analysis/s4.html#5) - [5. 现代对分析的理解，分析哲学之外](https://plato.stanford.edu/entries/analysis/#5) - [6. 分析哲学中的分析观念和逻辑（变革性）观念的引入](https://plato.stanford.edu/entries/analysis/#6) - [补充文档：分析哲学中的分析观念](https://plato.stanford.edu/entries/analysis/s6.html) - [1. 引言](https://plato.stanford.edu/entries/analysis/s6.html#1) - [2. 弗雷格](https://plato.stanford.edu/entries/analysis/s6.html#2) - [3. 罗素](https://plato.stanford.edu/entries/analysis/s6.html#3) - [4. 摩尔](https://plato.stanford.edu/entries/analysis/s6.html#4) - [5. 维特根斯坦](https://plato.stanford.edu/entries/analysis/s6.html#5) - [6. 剑桥分析学派](https://plato.stanford.edu/entries/analysis/s6.html#6) - [7. 卡尔纳普和逻辑实证主义](https://plato.stanford.edu/entries/analysis/s6.html#7) - [8. 牛津语言哲学](https://plato.stanford.edu/entries/analysis/s6.html#8) - [9. 当代分析哲学](https://plato.stanford.edu/entries/analysis/s6.html#9) - [7. 结论](https://plato.stanford.edu/entries/analysis/#7) - [参考文献](https://plato.stanford.edu/entries/analysis/#Bib) - [学术工具](https://plato.stanford.edu/entries/analysis/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/analysis/#Oth) - [相关条目](https://plato.stanford.edu/entries/analysis/#Rel)
+* [1. 总体介绍](https://plato.stanford.edu/entries/analysis/#1) - [1.1 分析的特征](https://plato.stanford.edu/entries/analysis/#1.1) - [1.2 本条目指南](https://plato.stanford.edu/entries/analysis/#1.2) - [补充文档：分析的定义和描述](https://plato.stanford.edu/entries/analysis/s1.html) - [2. 古代对分析的理解和回归观念的出现](https://plato.stanford.edu/entries/analysis/#AncConc) - [补充文档：古代对分析的理解](https://plato.stanford.edu/entries/analysis/s2.html) - [1. 引言](https://plato.stanford.edu/entries/analysis/s2.html#1) - [2. 古希腊几何学](https://plato.stanford.edu/entries/analysis/s2.html#2) - [3. 柏拉图](https://plato.stanford.edu/entries/analysis/s2.html#3) - [4. 亚里士多德](https://plato.stanford.edu/entries/analysis/s2.html#4) - [3. 中世纪和文艺复兴时期对分析的理解](https://plato.stanford.edu/entries/analysis/#3) - [补充文档：中世纪和文艺复兴时期对分析的理解](https://plato.stanford.edu/entries/analysis/s3.html) - [1. 中世纪哲学](https://plato.stanford.edu/entries/analysis/s3.html#1) - [2. 文艺复兴哲学](https://plato.stanford.edu/entries/analysis/s3.html#2) - [4. 早期现代对分析的理解和分解观念的发展](https://plato.stanford.edu/entries/analysis/#4) - [补充文档：早期现代对分析的理解](https://plato.stanford.edu/entries/analysis/s4.html) - [1. 引言](https://plato.stanford.edu/entries/analysis/s4.html#1) - [2. 笛卡尔和解析几何](https://plato.stanford.edu/entries/analysis/s4.html#2) - [3. 英国经验主义](https://plato.stanford.edu/entries/analysis/s4.html#3) - [4. 莱布尼兹](https://plato.stanford.edu/entries/analysis/s4.html#4) - [5. 康德](https://plato.stanford.edu/entries/analysis/s4.html#5) - [5. 现代对分析的理解，分析哲学之外](https://plato.stanford.edu/entries/analysis/#5) - [6. 分析哲学中的分析观念和逻辑（变革性）观念的引入](https://plato.stanford.edu/entries/analysis/#6) - [补充文档：分析哲学中的分析观念](https://plato.stanford.edu/entries/analysis/s6.html) - [1. 引言](https://plato.stanford.edu/entries/analysis/s6.html#1) - [2. 弗雷格](https://plato.stanford.edu/entries/analysis/s6.html#2) - [3. 罗素](https://plato.stanford.edu/entries/analysis/s6.html#3) - [4. 摩尔](https://plato.stanford.edu/entries/analysis/s6.html#4) - [5. 维特根斯坦](https://plato.stanford.edu/entries/analysis/s6.html#5) - [6. 剑桥分析学派](https://plato.stanford.edu/entries/analysis/s6.html#6) - [7. 卡尔纳普和逻辑实证主义](https://plato.stanford.edu/entries/analysis/s6.html#7) - [8. 牛津语言哲学](https://plato.stanford.edu/entries/analysis/s6.html#8) - [9. 当代分析哲学](https://plato.stanford.edu/entries/analysis/s6.html#9) - [7. 结论](https://plato.stanford.edu/entries/analysis/#7) - [参考文献](https://plato.stanford.edu/entries/analysis/#Bib) - [学术工具](https://plato.stanford.edu/entries/analysis/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/analysis/#Oth) - [相关条目](https://plato.stanford.edu/entries/analysis/#Rel)
 
----
+***
 
 ## 1. 总体介绍
 
@@ -19,9 +20,9 @@
 
 这三个概念不应被视为竞争关系。在实际的分析实践中，这些实践通常比所提供的描述更加丰富，所有三个概念通常都会得到反映，尽管程度和形式各不相同。为了分析某个事物，我们可能首先需要以某种方式对其进行解释，将初始陈述转化为逻辑、数学或科学的特权语言，然后明确相关的要素和结构，所有这些都是为了通过识别基本原则来解释它。这个概要描述所暗示的复杂性只有通过考虑特定类型的分析才能得到体会。
 
-理解分析的概念不仅仅是关注“分析”一词及其同源词的使用，或者其他语言中明显的等价词，比如希腊语中的“*analusis*”或德语中的“*Analyse*”。苏格拉底的定义可以说是一种概念分析，然而在柏拉图的对话录中并没有出现“*analusis*”这个词（参见[第2节](https://plato.stanford.edu/entries/analysis/#AncConc)）。事实上，在欧几里得的《几何原本》中也找不到这个词，该书是理解古希腊几何学的经典著作：欧几里得在呈现他的证明时预设了后来被称为分析方法的方法。在拉丁语中，“*resolutio*”被用来翻译希腊词“*analusis*”，尽管“resolution”有不同的意义范围，但它经常与“analysis”同义使用（参见[Renaissance Philosophy](https://plato.stanford.edu/entries/analysis/s3.html#2)中的补充部分）。在亚里士多德的三段论理论中，尤其是从笛卡尔时代开始，分析的形式也涉及“还原”；在早期的分析哲学中，“还原”被视为哲学分析的目标（尤其参见[The Cambridge School of Analysis](https://plato.stanford.edu/entries/analysis/s6.html#6)中的补充部分）。
+理解分析的概念不仅仅是关注“分析”一词及其同源词的使用，或者其他语言中明显的等价词，比如希腊语中的“_analusis_”或德语中的“_Analyse_”。苏格拉底的定义可以说是一种概念分析，然而在柏拉图的对话录中并没有出现“_analusis_”这个词（参见[第2节](https://plato.stanford.edu/entries/analysis/#AncConc)）。事实上，在欧几里得的《几何原本》中也找不到这个词，该书是理解古希腊几何学的经典著作：欧几里得在呈现他的证明时预设了后来被称为分析方法的方法。在拉丁语中，“_resolutio_”被用来翻译希腊词“_analusis_”，尽管“resolution”有不同的意义范围，但它经常与“analysis”同义使用（参见[Renaissance Philosophy](https://plato.stanford.edu/entries/analysis/s3.html#2)中的补充部分）。在亚里士多德的三段论理论中，尤其是从笛卡尔时代开始，分析的形式也涉及“还原”；在早期的分析哲学中，“还原”被视为哲学分析的目标（尤其参见[The Cambridge School of Analysis](https://plato.stanford.edu/entries/analysis/s6.html#6)中的补充部分）。
 
-在哲学史上提出的关于分析的进一步特征描述的详细信息，包括所有经典段落和备注（本条目中出现的“[[Quotation](https://plato.stanford.edu/entries/analysis/s1.html#motto)]”所指的内容），可以在附加文档中找到：
+在哲学史上提出的关于分析的进一步特征描述的详细信息，包括所有经典段落和备注（本条目中出现的“\[[Quotation](https://plato.stanford.edu/entries/analysis/s1.html#motto)]”所指的内容），可以在附加文档中找到：
 
 > [分析的定义和描述](https://plato.stanford.edu/entries/analysis/s1.html)。
 
@@ -37,13 +38,13 @@
 
 ## 2. 古代对分析的理解与回归概念的出现
 
-单词“分析”源自古希腊词汇“*analusis*”。前缀“*ana*”意为“向上”，“*lusis*”意为“解开”，“释放”或“分离”，因此“*analusis*”意味着“解开”或“溶解”。这个术语很容易被扩展到解决或解散问题的意义上，并且在古希腊几何学和哲学中被使用。在古希腊几何学中发展起来的分析方法对柏拉图和亚里士多德都产生了影响。然而，苏格拉底对定义的关注也很重要，现代概念分析的根源可以在这里找到。因此，古希腊思想中存在着一种复杂的方法论网络，其中最重要的是苏格拉底的定义方法，柏拉图将其发展为他的分割方法，以及他借鉴几何分析的相关假设方法，以及亚里士多德在他的《分析学》中发展的方法。在过去的两千年中，并没有形成共识，这些方法之间的关系如今正成为日益争议的话题。而在所有这些方法的核心，都存在着由孟诺悖论引发的哲学问题，这个悖论预示了我们现在所知的分析悖论，涉及到分析如何既正确又具有信息性（请参阅关于[摩尔](https://plato.stanford.edu/entries/analysis/s6.html#4)的补充部分），以及柏拉图通过追忆理论来解决这个问题，这一理论已经产生了大量的文献。
+单词“分析”源自古希腊词汇“_analusis_”。前缀“_ana_”意为“向上”，“_lusis_”意为“解开”，“释放”或“分离”，因此“_analusis_”意味着“解开”或“溶解”。这个术语很容易被扩展到解决或解散问题的意义上，并且在古希腊几何学和哲学中被使用。在古希腊几何学中发展起来的分析方法对柏拉图和亚里士多德都产生了影响。然而，苏格拉底对定义的关注也很重要，现代概念分析的根源可以在这里找到。因此，古希腊思想中存在着一种复杂的方法论网络，其中最重要的是苏格拉底的定义方法，柏拉图将其发展为他的分割方法，以及他借鉴几何分析的相关假设方法，以及亚里士多德在他的《分析学》中发展的方法。在过去的两千年中，并没有形成共识，这些方法之间的关系如今正成为日益争议的话题。而在所有这些方法的核心，都存在着由孟诺悖论引发的哲学问题，这个悖论预示了我们现在所知的分析悖论，涉及到分析如何既正确又具有信息性（请参阅关于[摩尔](https://plato.stanford.edu/entries/analysis/s6.html#4)的补充部分），以及柏拉图通过追忆理论来解决这个问题，这一理论已经产生了大量的文献。
 
 “分析”一词最早在古希腊几何学中以方法论的意义被使用，而欧几里得几何学提供的模型自那时起一直是一种启发。尽管欧几里得的《几何原本》约写于公元前300年左右，因此在柏拉图和亚里士多德之后，但很明显它借鉴了许多先前几何学家的工作，尤其是与柏拉图和亚里士多德密切合作的忒泰特和欧多克索斯。柏拉图甚至被狄奥根尼斯·拉尔提乌斯（《希腊哲学家传》第一卷第299页）认为是发明分析方法的人，但无论真相如何，几何学的影响开始在他的中期对话中显现，他确实鼓励在他的学院进行几何学研究。
 
 我们对古希腊几何分析的理解的经典来源是帕普斯的《数学集》，该书约于公元300年编写，因此借鉴了自欧几里得《几何原本》以来六个世纪的几何学研究成果：
 
-现在分析是从所寻求的东西开始的方式——仿佛它已经被承认——通过它的伴随物（*akolouthôn*）来达到某种已经被承认的综合。因为在分析中，我们假设所寻求的已经完成，并且我们询问它是从什么结果中得出的，再次询问后者的前因，直到我们在回溯的过程中遇到已知且首先按顺序的东西。我们将这种方法称为分析，因为它是一种向后解决问题的方法（*anapalin lysin*）。
+现在分析是从所寻求的东西开始的方式——仿佛它已经被承认——通过它的伴随物（_akolouthôn_）来达到某种已经被承认的综合。因为在分析中，我们假设所寻求的已经完成，并且我们询问它是从什么结果中得出的，再次询问后者的前因，直到我们在回溯的过程中遇到已知且首先按顺序的东西。我们将这种方法称为分析，因为它是一种向后解决问题的方法（_anapalin lysin_）。
 
 另一方面，在综合中，我们假设在分析中最后达到的东西已经完成，并且按照它们的自然顺序将前面的前因和它们相互连接，最终我们得到了所寻求的事物的构造。我们将这个过程称为综合。
 
@@ -63,7 +64,7 @@
 
 中世纪和文艺复兴时期的分析观念在很大程度上受到古希腊观念的影响。但对这些观念的了解往往是间接的，经过各种评论和不总是可靠的文本的过滤。中世纪和文艺复兴时期的方法论往往是柏拉图、亚里士多德、斯多噶派、伽利略和新柏拉图主义元素的混合体，其中许多声称在几何分析和综合的概念中有一些根源。然而，在中世纪晚期，更清晰和更原创的分析形式开始形成。例如，在所谓的“同类词”和“解释性词”文献中，我们可以追溯到对解释性分析概念的发展。例如，“一些驴子每个人都看到”的句子被认为是含糊不清的，需要“解释”来澄清。
 
-在约翰·布里丹（John Buridan）14世纪中期的杰作《逻辑学小纲》（*Summulae de Dialectica*）中，我们可以找到上述[1.1节](https://plato.stanford.edu/entries/analysis/#1.1)中概述的三种观念。他明确区分了划分、定义和证明，分别对应分解、解释和回归分析。在这里，我们特别可以看到现代分析哲学的预期，同时也是对古代哲学的改编。然而，不幸的是，尽管对原始希腊文献的兴趣日益增长，这些更清晰的分析形式在文艺复兴时期被掩盖了。就理解分析方法论而言，人文主义对学院派逻辑的否定使情况变得模糊不清。
+在约翰·布里丹（John Buridan）14世纪中期的杰作《逻辑学小纲》（_Summulae de Dialectica_）中，我们可以找到上述[1.1节](https://plato.stanford.edu/entries/analysis/#1.1)中概述的三种观念。他明确区分了划分、定义和证明，分别对应分解、解释和回归分析。在这里，我们特别可以看到现代分析哲学的预期，同时也是对古代哲学的改编。然而，不幸的是，尽管对原始希腊文献的兴趣日益增长，这些更清晰的分析形式在文艺复兴时期被掩盖了。就理解分析方法论而言，人文主义对学院派逻辑的否定使情况变得模糊不清。
 
 更多讨论可在附加文件中找到
 
@@ -81,23 +82,23 @@
 
 有一份由伽利略撰写的手稿，大约写于1589年，是对亚里士多德《后分析》的适当评论，显示了他对方法论的关注，特别是回归分析（参见Wallace 1992a和1992b）。霍布斯在1655年出版的《论身体》第一部分中写了一章关于方法的内容，提供了他对分析和综合方法的解释，其中分解形式的分析与回归形式并列（见[引文](https://plato.stanford.edu/entries/analysis/s1.html#Hobbes)）。但也许从17世纪中期直到19世纪末，最有影响力的方法论论述是《波尔图瓦尔逻辑学》的第四部分，第一版于1662年出版，最终修订版于1683年出版。第2章（第一版中的第一章）开头如下：
 
-> 适当地安排一系列思想的艺术，无论是为了在我们不知道真相时发现真相，还是为了向他人证明我们已经知道的事实，通常可以称为方法。> > 因此，有两种方法，一种是用于发现真相的方法，称为*分析*或*分解方法*，也可以称为*发现方法*。另一种是在找到真相后让他人理解真相的方法。这被称为*综合*或*组合方法*，也可以称为*教学方法*。[[完整引文](https://plato.stanford.edu/entries/analysis/s1.html#Arnauld)]
+> 适当地安排一系列思想的艺术，无论是为了在我们不知道真相时发现真相，还是为了向他人证明我们已经知道的事实，通常可以称为方法。> > 因此，有两种方法，一种是用于发现真相的方法，称为_分析_或_分解方法_，也可以称为_发现方法_。另一种是在找到真相后让他人理解真相的方法。这被称为_综合_或_组合方法_，也可以称为_教学方法_。\[[完整引文](https://plato.stanford.edu/entries/analysis/s1.html#Arnauld)]
 
-这里可能吸收了许多不同的方法，尽管文本确实继续区分了四种主要类型的“关于事物的问题”：通过效果寻找原因，通过原因寻找效果，从部分中找到整体，以及从整体和给定部分中寻找另一个部分（*同上*，234页）。前两种方法涉及回归分析和综合，而第三和第四种方法涉及分解分析和综合。
+这里可能吸收了许多不同的方法，尽管文本确实继续区分了四种主要类型的“关于事物的问题”：通过效果寻找原因，通过原因寻找效果，从部分中找到整体，以及从整体和给定部分中寻找另一个部分（_同上_，234页）。前两种方法涉及回归分析和综合，而第三和第四种方法涉及分解分析和综合。
 
-正如《逻辑学》的作者们明确指出的那样，他们文本的这一部分主要来源于笛卡尔于1627年撰写的《思维指导原则》，但直到1684年才在他去世后出版。四种类型的具体规定很可能是在详细阐述笛卡尔的第十三条规则时提出的，该规则指出：“如果我们完全理解一个问题，我们必须将其从每个多余的概念中抽象出来，将其简化为最简单的术语，并通过列举的方式将其分解为可能的最小部分。”（*PW*，I，51页。参见*PW*，I，54页，77页的编辑评论。）这里明确了分解分析的概念，如果我们继续阅读于1637年出版的《方法论演讲》，可以明显看出焦点已从回归分析转向分解分析。在早期作品中提供的所有规则现在已经减少到只有四条。这是笛卡尔报告他在科学和哲学工作中采用的规则的方式：
+正如《逻辑学》的作者们明确指出的那样，他们文本的这一部分主要来源于笛卡尔于1627年撰写的《思维指导原则》，但直到1684年才在他去世后出版。四种类型的具体规定很可能是在详细阐述笛卡尔的第十三条规则时提出的，该规则指出：“如果我们完全理解一个问题，我们必须将其从每个多余的概念中抽象出来，将其简化为最简单的术语，并通过列举的方式将其分解为可能的最小部分。”（_PW_，I，51页。参见_PW_，I，54页，77页的编辑评论。）这里明确了分解分析的概念，如果我们继续阅读于1637年出版的《方法论演讲》，可以明显看出焦点已从回归分析转向分解分析。在早期作品中提供的所有规则现在已经减少到只有四条。这是笛卡尔报告他在科学和哲学工作中采用的规则的方式：
 
-第一条是永远不接受任何没有明确知识证明其真实性的东西：也就是说，要小心避免草率的结论和先入为主的观念，在判断中只包括那些在我的思维中清晰明确地呈现出来，以至于我没有理由怀疑的东西。 第二条是将我所考察的每个困难分解为尽可能多的部分，并根据需要进行分解，以便更好地解决它们。 第三条是按照有序的方式引导我的思维，从最简单和最容易了解的对象开始，逐渐递进，一步一步地了解最复杂的知识，并假设那些没有自然顺序的对象之间也存在一定的顺序。 最后一条是要进行完整的列举和全面的回顾，以确保没有遗漏任何东西。(*PW*, I, 120.)
+第一条是永远不接受任何没有明确知识证明其真实性的东西：也就是说，要小心避免草率的结论和先入为主的观念，在判断中只包括那些在我的思维中清晰明确地呈现出来，以至于我没有理由怀疑的东西。 第二条是将我所考察的每个困难分解为尽可能多的部分，并根据需要进行分解，以便更好地解决它们。 第三条是按照有序的方式引导我的思维，从最简单和最容易了解的对象开始，逐渐递进，一步一步地了解最复杂的知识，并假设那些没有自然顺序的对象之间也存在一定的顺序。 最后一条是要进行完整的列举和全面的回顾，以确保没有遗漏任何东西。(_PW_, I, 120.)
 
-前两条是分析的规则，后两条是综合的规则。但尽管分析/综合的结构仍然存在，这里涉及的是分解/组合而不是回归/进展。然而，笛卡尔坚持认为是几何学在这里对他产生了影响：“那些由非常简单和容易的推理组成的长链，几何学家通常用来得出最困难的证明，使我有理由认为，所有可以成为人类知识对象的事物都以同样的方式相互联系。”(*Ibid*. [[Further Quotations](https://plato.stanford.edu/entries/analysis/s1.html#Descartes)])
+前两条是分析的规则，后两条是综合的规则。但尽管分析/综合的结构仍然存在，这里涉及的是分解/组合而不是回归/进展。然而，笛卡尔坚持认为是几何学在这里对他产生了影响：“那些由非常简单和容易的推理组成的长链，几何学家通常用来得出最困难的证明，使我有理由认为，所有可以成为人类知识对象的事物都以同样的方式相互联系。”(_Ibid_. \[[Further Quotations](https://plato.stanford.edu/entries/analysis/s1.html#Descartes)])
 
-笛卡尔的几何确实涉及将复杂问题分解为简单问题。然而，更重要的是他在发展所谓的“分析几何”时使用了代数，这使得几何问题可以转化为算术问题并更容易解决。通过用“*x*”表示要找到的“未知数”，我们可以看到分析中“假设某物并从中推导”的核心作用，这使得将代数视为“分析的艺术”似乎是合适的，这暗示了古代人对逆向概念的理解。然后，在其发展形式的分析几何中，我们可以看到上述[1.1节](https://plato.stanford.edu/entries/analysis/#1.1)中概述的分析的三个概念，尽管笛卡尔自己强调了分解概念。有关此问题的进一步讨论，请参阅附加部分[笛卡尔与分析几何](https://plato.stanford.edu/entries/analysis/s4.html#2)。
+笛卡尔的几何确实涉及将复杂问题分解为简单问题。然而，更重要的是他在发展所谓的“分析几何”时使用了代数，这使得几何问题可以转化为算术问题并更容易解决。通过用“_x_”表示要找到的“未知数”，我们可以看到分析中“假设某物并从中推导”的核心作用，这使得将代数视为“分析的艺术”似乎是合适的，这暗示了古代人对逆向概念的理解。然后，在其发展形式的分析几何中，我们可以看到上述[1.1节](https://plato.stanford.edu/entries/analysis/#1.1)中概述的分析的三个概念，尽管笛卡尔自己强调了分解概念。有关此问题的进一步讨论，请参阅附加部分[笛卡尔与分析几何](https://plato.stanford.edu/entries/analysis/s4.html#2)。
 
 然而，笛卡尔对分解分析的强调并非没有先例。它不仅已经涉及到古希腊几何学，而且还隐含在柏拉图的收集和分割方法中。我们可以通过以下方式解释从逆向到分解（概念）分析的转变，以及两者之间的联系。考虑一个简单的例子，如下图所示，将所有动物“收集”起来，并将它们分为“有理的”和“非有理的”，以便将人定义为有理动物。
 
-> ![division](https://plato.stanford.edu/entries/analysis/Diagplat.jpg)
+> <img src="https://plato.stanford.edu/entries/analysis/Diagplat.jpg" alt="division" data-size="original">
 
-根据这个模型，在寻求定义任何事物时，我们会沿着适当的分类层次结构向上寻找更高级别（即更基本或更一般）的“形式”，通过这些形式我们可以确立定义。尽管柏拉图本人并没有使用“分析”这个词——“分割”的词是“*dihairesis*”——但寻找适当的“形式”本质上就是分析。作为苏格拉底寻求定义的延伸，我们可以清楚地看到这是概念分析的起源。关于“人类是理性动物”的定义，我们寻求的就是这种类型的定义，通过其他概念（即“理性”和“动物”）来定义一个概念（即“人类”）。但是，对于这个定义提供的解释存在一些问题。从分类层次的外延理解，也就是根据所指事物的类别来理解，上层的类别显然更大，作为子类别包含了下层的类别（例如，动物类别包含人类作为其子类之一）。然而，从内涵的角度来看，“包含”的关系被认为是相反的。如果有人理解了“人类”这个概念，至少在强烈的意义上知道它的定义，那么他们必须理解“动物”和“理性”这两个概念；因此，自然而然地会说“人类”这个概念“包含”了“理性”和“动物”这两个概念。在“分析”（在回归的意义上）中向上追溯分类层次，就可以被视为将一个概念“拆解”或“分解”为其“组成”概念（在分解的意义上进行“分析”）。当然，严格来说，将一个概念“分解”为其“组成”概念只是一种隐喻（正如奎因在《经验主义的两个谬论》第1节中所著名地指出的），但在早期现代时期，人们开始更加字面地理解这一点。
+根据这个模型，在寻求定义任何事物时，我们会沿着适当的分类层次结构向上寻找更高级别（即更基本或更一般）的“形式”，通过这些形式我们可以确立定义。尽管柏拉图本人并没有使用“分析”这个词——“分割”的词是“_dihairesis_”——但寻找适当的“形式”本质上就是分析。作为苏格拉底寻求定义的延伸，我们可以清楚地看到这是概念分析的起源。关于“人类是理性动物”的定义，我们寻求的就是这种类型的定义，通过其他概念（即“理性”和“动物”）来定义一个概念（即“人类”）。但是，对于这个定义提供的解释存在一些问题。从分类层次的外延理解，也就是根据所指事物的类别来理解，上层的类别显然更大，作为子类别包含了下层的类别（例如，动物类别包含人类作为其子类之一）。然而，从内涵的角度来看，“包含”的关系被认为是相反的。如果有人理解了“人类”这个概念，至少在强烈的意义上知道它的定义，那么他们必须理解“动物”和“理性”这两个概念；因此，自然而然地会说“人类”这个概念“包含”了“理性”和“动物”这两个概念。在“分析”（在回归的意义上）中向上追溯分类层次，就可以被视为将一个概念“拆解”或“分解”为其“组成”概念（在分解的意义上进行“分析”）。当然，严格来说，将一个概念“分解”为其“组成”概念只是一种隐喻（正如奎因在《经验主义的两个谬论》第1节中所著名地指出的），但在早期现代时期，人们开始更加字面地理解这一点。
 
 有关进一步讨论，请参阅附加文档：
 
@@ -129,11 +130,11 @@
 
 ## 6. 分析的概念在分析哲学中以及逻辑（转化）概念的引入
 
-如果有什么能够表征“分析”哲学的话，那么它很可能是对分析的强调。但正如前面的章节所展示的，对于分析有着广泛的概念，因此这样的表征并不能将分析哲学与之前或与之并行发展的许多内容区分开来。鉴于分解概念通常被提供为主要概念，可能会认为这是分析哲学的特征。但是，这个概念在早期现代时期就很普遍，例如英国经验主义者和莱布尼兹都持有这个概念。然而，考虑到康德否认了分解分析的重要性，可以提出分析哲学的特征是它对这种分析的*价值*的重视。这可能适用于摩尔早期的工作和分析哲学中的一个流派，但并不普遍适用。分析哲学的特征是由弗雷格和罗素创立的，它的特点是*逻辑分析*的作用，这依赖于现代逻辑的发展。尽管其他形式的分析，如语言分析，与形式逻辑系统的联系较少，但逻辑分析的核心洞察力仍然存在。
+如果有什么能够表征“分析”哲学的话，那么它很可能是对分析的强调。但正如前面的章节所展示的，对于分析有着广泛的概念，因此这样的表征并不能将分析哲学与之前或与之并行发展的许多内容区分开来。鉴于分解概念通常被提供为主要概念，可能会认为这是分析哲学的特征。但是，这个概念在早期现代时期就很普遍，例如英国经验主义者和莱布尼兹都持有这个概念。然而，考虑到康德否认了分解分析的重要性，可以提出分析哲学的特征是它对这种分析的_价值_的重视。这可能适用于摩尔早期的工作和分析哲学中的一个流派，但并不普遍适用。分析哲学的特征是由弗雷格和罗素创立的，它的特点是_逻辑分析_的作用，这依赖于现代逻辑的发展。尽管其他形式的分析，如语言分析，与形式逻辑系统的联系较少，但逻辑分析的核心洞察力仍然存在。
 
 帕普斯对古希腊几何学方法的描述表明，分析的回归观念在当时占主导地位，尽管其他观念可能也隐含其中（参见附录中的[古希腊几何学](https://plato.stanford.edu/entries/analysis/s2.html#2)部分）。在近代早期，分解观念变得普遍（参见[第4节](https://plato.stanford.edu/entries/analysis/#4)）。表征分析哲学的特点——或者至少是起源于弗雷格和罗素的那个核心流派的特点——是对分析的“转化”或“解释”维度的认识（参见[第1.1节](https://plato.stanford.edu/entries/analysis/#1.1)）。任何分析都预设了一种特定的解释框架，并且在回归和分解的过程中，对我们所寻求分析的内容进行“解释”的工作是必不可少的。这可能涉及以某种方式对其进行“转化”，以便利用给定理论或概念框架的资源。欧几里得几何学提供了一个很好的例证。但在分析几何学的情况下更加明显，其中几何问题首先被“翻译”成代数和算术的语言，以便更容易地解决它（参见附录中的[笛卡尔和分析几何学](https://plato.stanford.edu/entries/analysis/s4.html#2)部分）。笛卡尔和费马为分析几何学所做的，弗雷格和罗素为分析哲学所做的。分析哲学之所以“分析”，更多地是指分析几何学之所谓“分析”，而不是康德所理解的粗糙的分解观念。
 
-现代哲学分析的解释维度也可以看作是中世纪学院哲学的先兆（参见附录中的[中世纪哲学](https://plato.stanford.edu/entries/analysis/s3.html#1)部分），令人惊讶的是，现代关于命题、意义、指称等问题在中世纪文献中也能找到很多。解释性分析也可以在19世纪的本丹姆对“释义”的概念中找到例证，他将其描述为“通过将一个没有其他虚构实体作为主语的命题转化为一个以某个真实实体为主语的命题所提供的那种阐述”[[完整引文](https://plato.stanford.edu/entries/analysis/s1.html#Bentham)]。他将这个想法应用于“分析掉”对“义务”的讨论，而我们可以在这里看到对罗素的描述理论的预见，这一点已经被维斯顿（1931年）和奎因在《经验主义的五个里程碑》中指出[[引文](https://plato.stanford.edu/entries/analysis/s1.html#Quine)]。
+现代哲学分析的解释维度也可以看作是中世纪学院哲学的先兆（参见附录中的[中世纪哲学](https://plato.stanford.edu/entries/analysis/s3.html#1)部分），令人惊讶的是，现代关于命题、意义、指称等问题在中世纪文献中也能找到很多。解释性分析也可以在19世纪的本丹姆对“释义”的概念中找到例证，他将其描述为“通过将一个没有其他虚构实体作为主语的命题转化为一个以某个真实实体为主语的命题所提供的那种阐述”\[[完整引文](https://plato.stanford.edu/entries/analysis/s1.html#Bentham)]。他将这个想法应用于“分析掉”对“义务”的讨论，而我们可以在这里看到对罗素的描述理论的预见，这一点已经被维斯顿（1931年）和奎因在《经验主义的五个里程碑》中指出\[[引文](https://plato.stanford.edu/entries/analysis/s1.html#Quine)]。
 
 然而，在20世纪分析哲学的出现中，至关重要的是量化理论的发展，它提供了一个比以往任何东西都更强大的解释系统。在弗雷格和罗素的情况下，被“翻译”成的系统是谓词逻辑，由此引发的语法和逻辑形式之间的分歧意味着翻译过程本身成为了一个哲学关注的问题。这引发了对我们使用语言及其可能误导我们的潜力的更大自觉，并不可避免地提出了关于语言、逻辑、思维和现实之间关系的语义学、认识论和形而上学问题，这些问题自那时以来一直是分析哲学的核心。
 
@@ -141,7 +142,7 @@
 
 （AN）一个真理如果只依赖于一般的逻辑定律和定义来证明，那么它就是“分析性的”。
 
-关于算术真理是否是分析性的问题，实际上就是是否可以纯粹逻辑地推导出它们。（在这里，我们已经在理论层面上有了“转化”，涉及到对分析性概念的重新解读。）为了证明这一点，弗雷格意识到他需要发展逻辑理论，以便形式化数学陈述，这些陈述通常涉及多种普遍性（例如，“每个自然数都有一个后继者”，即“对于每个自然数*x*，都存在另一个自然数*y*是*x*的后继数”）。这一发展，通过将函数-参数分析在数学中扩展到逻辑，并提供量化的符号表示，基本上是他的第一本书《概念写作》（1879年）的成就，在这本书中他不仅创造了一种谓词逻辑系统，而且通过使用它，成功地进行了数学归纳的逻辑分析（参见弗雷格《FR》，47-78页）。
+关于算术真理是否是分析性的问题，实际上就是是否可以纯粹逻辑地推导出它们。（在这里，我们已经在理论层面上有了“转化”，涉及到对分析性概念的重新解读。）为了证明这一点，弗雷格意识到他需要发展逻辑理论，以便形式化数学陈述，这些陈述通常涉及多种普遍性（例如，“每个自然数都有一个后继者”，即“对于每个自然数_x_，都存在另一个自然数_y_是_x_的后继数”）。这一发展，通过将函数-参数分析在数学中扩展到逻辑，并提供量化的符号表示，基本上是他的第一本书《概念写作》（1879年）的成就，在这本书中他不仅创造了一种谓词逻辑系统，而且通过使用它，成功地进行了数学归纳的逻辑分析（参见弗雷格《FR》，47-78页）。
 
 在他的第二本书《算术的基础》（1884年）中，弗雷格继续对数字陈述进行了逻辑分析。他的核心思想是，数字陈述包含了对一个概念的断言。像“木星有四颗卫星”这样的陈述不应该被理解为对木星具有四颗卫星的属性进行断言，而是对概念“木星的卫星”进行断言，该概念具有第二级属性“有四个实例”，可以在逻辑上定义。通过考虑否定存在陈述（与涉及数字0的数字陈述等价），可以突显出这种解释的重要性。考虑以下否定存在陈述：
 
@@ -149,7 +150,7 @@
 
 如果我们试图以分解的方式进行分析，将其语法形式视为逻辑形式的镜像，那么我们会发现自己在问这些具有不存在属性的独角兽是什么。我们可能会被迫假设独角兽的存在，而不是存在，就像迈农和早期的罗素所做的那样，为了有一个可以作为我们陈述的主题的东西。然而，在弗雷格的观点中，否认某物的存在意味着说相关的概念没有实例：没有必要假设任何神秘的对象。弗雷格对（0a）的分析在于将其改写为（0b），然后可以在新逻辑中轻松地形式化为（0c）：
 
-> （0b）概念“独角兽”没有实例化。 > > （0c）~(∃x) Fx。
+> （0b）概念“独角兽”没有实例化。 > > （0c）\~(∃x) Fx。
 
 同样，说上帝存在就是说概念“上帝”被（唯一地）实例化了，也就是否认该概念有0个实例（或2个或更多个实例）。在这种观点下，存在不再被看作是（一级）谓词，而是以（二级）谓词“被实例化”来分析存在性陈述，通过存在量词来表示。正如弗雷格所指出的，这为本体论争论的问题提供了一个巧妙的诊断，至少在其传统形式下（《逻辑》第53节）。如果我们尝试应用分解分析（至少一开始是直接的），所有出现的问题都会消失，尽管当然还需要解释概念和量词。
 
@@ -165,7 +166,7 @@
 
 在这些表述中，根本没有提到“不准时”或“思想”，因此没有任何诱使我们假设存在相应实体的东西。因此，其他可能出现的问题已经被“分析掉”。
 
-在莱尔撰写《系统性误导性表达》时，他也假设每个陈述都有一个潜在的逻辑形式，应该在其“正确”的表述中展示出来[[引用](https://plato.stanford.edu/entries/analysis/s1.html#Ryle)]。但是当他放弃了这个假设（原因在附录中有所说明，见[剑桥分析学派](https://plato.stanford.edu/entries/analysis/s6.html#6)），他并没有放弃逻辑分析的动机思想——即展示误导性表达的错误之处。例如，在《心灵的概念》（1949）中，他试图解释将心灵视为一种“机器中的幽灵”的说法所涉及的“范畴错误”。他写道，他的目标是“纠正我们已经拥有的知识的逻辑地理”（1949年，9），这个想法导致了“连接性”而不是“还原性”概念的阐述，重点是阐明概念之间的关系，而不假设存在一组特权的基本概念（见附录中的[牛津语言哲学](https://plato.stanford.edu/entries/analysis/s6.html#8)）。
+在莱尔撰写《系统性误导性表达》时，他也假设每个陈述都有一个潜在的逻辑形式，应该在其“正确”的表述中展示出来\[[引用](https://plato.stanford.edu/entries/analysis/s1.html#Ryle)]。但是当他放弃了这个假设（原因在附录中有所说明，见[剑桥分析学派](https://plato.stanford.edu/entries/analysis/s6.html#6)），他并没有放弃逻辑分析的动机思想——即展示误导性表达的错误之处。例如，在《心灵的概念》（1949）中，他试图解释将心灵视为一种“机器中的幽灵”的说法所涉及的“范畴错误”。他写道，他的目标是“纠正我们已经拥有的知识的逻辑地理”（1949年，9），这个想法导致了“连接性”而不是“还原性”概念的阐述，重点是阐明概念之间的关系，而不假设存在一组特权的基本概念（见附录中的[牛津语言哲学](https://plato.stanford.edu/entries/analysis/s6.html#8)）。
 
 这些不同形式的逻辑分析所暗示的是，在分析哲学中，分析的特点远远超出了将概念“分解”为其“组成部分”的简单意义。但这并不意味着分解的分析观念完全没有作用。例如，在摩尔的早期作品中可以找到这种观念（参见有关[摩尔](https://plato.stanford.edu/entries/analysis/s6.html#4)的补充部分）。它也可以被看作是反映在对概念分析的方法中，寻求指定其正确运用的必要和充分条件。在这个意义上的概念分析可以追溯到柏拉图早期对话中的苏格拉底（参见有关[柏拉图](https://plato.stanford.edu/entries/analysis/s2.html#3)的补充部分）。但可以说，它在20世纪50年代和60年代达到了鼎盛时期。正如上文的[第2节](https://plato.stanford.edu/entries/analysis/#AncConc)中提到的，将“知识”定义为“合理的真实信念”可能是最著名的例子；而这个定义在1963年的盖蒂尔经典论文中受到了批评。（有关详细信息，请参阅本百科全书中关于[知识分析](https://plato.stanford.edu/entries/knowledge-analysis/)的条目。）对必要和充分条件的具体规定可能不再被视为概念分析的主要目标，特别是在像“知识”这样备受争议的哲学概念的情况下；但考虑这些条件仍然是分析哲学家工具箱中的一个有用工具。
 
@@ -177,10 +178,9 @@
 
 [注释书目，§6](https://plato.stanford.edu/entries/analysis/bib6.html)。
 
- ## 7. 结论
+&#x20;\## 7. 结论
 
 哲学的历史揭示了分析概念的丰富源泉。它们的起源可能可以追溯到古希腊几何学，从这个角度来看，分析方法论的历史可以被视为对欧几里得的一系列注释。但是，分析在源自柏拉图和亚里士多德的两个传统中以不同但相关的方式发展，前者基于对定义的追求，后者基于回归到第一原因的思想。这些传统所代表的两个极点在早期现代时期之前一直定义了方法论空间，并在某种程度上今天仍然有所反映。17世纪分析几何的创立引入了一种更为简化的分析形式，而类似的、甚至更为强大的形式在20世纪初弗雷格和罗素的逻辑工作中引入。尽管概念分析从莱布尼茨和康德时代开始就被理解为分解的构造，通过摩尔的工作进行了中介，常常被视为分析哲学的特征，但逻辑分析，即涉及到将其转化为逻辑系统的翻译，是开创了分析传统的东西。分析也经常被视为还原主义的，但连接形式的分析同样重要。历史上有影响的连接分析似乎特别适用于理解分析本身。
-
 
 ## Bibliography
 
@@ -188,57 +188,57 @@ What follows here is a selection of thirty classic and recent works published ov
 
 > [Annotated Bibliography on Analysis](https://plato.stanford.edu/entries/analysis/bib1.html)
 
-- Baker, Gordon, 2004, *Wittgenstein's Method*, Oxford: Blackwell, especially essays 1, 3, 4, 10, 12
-- Baldwin, Thomas, 1990, *G.E. Moore*, London: Routledge, ch. 7
-- Beaney, Michael, 2004, ‘Carnap's Conception of Explication: From Frege to Husserl?’, in S. Awodey and C. Klein, (eds.), *Carnap Brought Home: The View from Jena*, Chicago: Open Court, pp. 117-50
-- –––, 2005, ‘Collingwood's Conception of Presuppositional Analysis’, *Collingwood and British Idealism Studies* 11, no. 2, 41-114
-- –––, (ed.), 2007, *The Analytic Turn: Analysis in Early Analytic Philosophy and Phenomenology*, London: Routledge [includes papers on Frege, Russell, Wittgenstein, C.I. Lewis, Bolzano, Husserl]
-- Byrne, Patrick H., 1997, *Analysis and Science in Aristotle*, Albany: State University of New York Press
-- Cohen, L. Jonathan, 1986, *The Dialogue of Reason: An Analysis of Analytical Philosophy*, Oxford: Oxford University Press, chs. 1-2
-- Dummett, Michael, 1991, *Frege: Philosophy of Mathematics*, London: Duckworth, chs. 3-4, 9-16
-- Engfer, Hans-Jürgen, 1982, *Philosophie als Analysis*, Stuttgart-Bad Cannstatt: Frommann-Holzboog [Descartes, Leibniz, Wolff, Kant]
-- Garrett, Aaron V., 2003, *Meaning in Spinoza's Method*, Cambridge: Cambridge University Press, ch. 4
-- Gaukroger, Stephen, 1989, *Cartesian Logic*, Oxford: Oxford University Press, ch. 3
-- Gentzler, Jyl, (ed.), 1998, *Method in Ancient Philosophy*, Oxford: Oxford University Press [includes papers on Socrates, Plato, Aristotle, mathematics and medicine]
-- Gilbert, Neal W., 1960, *Renaissance Concepts of Method*, New York: Columbia University Press
-- Hacker, P.M.S., 1996, *Wittgenstein's Place in Twentieth-Century Analytic Philosophy*, Oxford: Blackwell
-- Hintikka, Jaakko and Remes, Unto, 1974, *The Method of Analysis*, Dordrecht: D. Reidel [ancient Greek geometrical analysis]
-- Hylton, Peter, 2005, *Propositions, Functions, Analysis: Selected Essays on Russell's Philosophy*, Oxford: Oxford University Press
-- –––, 2007, *Quine*, London: Routledge, ch. 9
-- Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Oxford University Press, chs. 2-3
-- Kretzmann, Norman, 1982, ‘Syncategoremata, exponibilia, sophistimata’, in N. Kretzmann *et al.*, (eds.), *The Cambridge History of Later Medieval Philosophy*, Cambridge: Cambridge University Press, 211-45
-- Menn, Stephen, 2002, ‘Plato and the Method of Analysis’, *Phronesis* 47, 193-223
-- Otte, Michael and Panza, Marco, (eds.), 1997, *Analysis and Synthesis in Mathematics*, Dordrecht: Kluwer
-- Rorty, Richard, (ed.), 1967, *The Linguistic Turn*, Chicago: University of Chicago Press [includes papers on analytic methodology]
-- Rosen, Stanley, 1980, *The Limits of Analysis*, New York: Basic Books, repr. Indiana: St. Augustine's Press, 2000 [critique of analytic philosophy from a ‘continental’ perspective]
-- Sayre, Kenneth M., 1969, *Plato's Analytic Method*, Chicago: University of Chicago Press
-- –––, 2006, *Metaphysics and Method in Plato's Statesman*, Cambridge: Cambridge University Press, Part I
-- Soames, Scott, 2003, *Philosophical Analysis in the Twentieth Century*, Volume 1: *The Dawn of Analysis*, Volume 2: *The Age of Meaning*, New Jersey: Princeton University Press [includes chapters on Moore, Russell, Wittgenstein, logical positivism, Quine, ordinary language philosophy, Davidson, Kripke]
-- Strawson, P.F., 1992, *Analysis and Metaphysics: An Introduction to Philosophy*, Oxford: Oxford University Press, chs. 1-2
-- Sweeney, Eileen C., 1994, ‘Three Notions of *Resolutio* and the Structure of Reasoning in Aquinas’, *The Thomist* 58, 197-243
-- Timmermans, Benoît, 1995, *La résolution des problèmes de Descartes à Kant*, Paris: Presses Universitaires de France
-- Urmson, J.O., 1956, *Philosophical Analysis: Its Development between the Two World Wars*, Oxford: Oxford University Press
+* Baker, Gordon, 2004, _Wittgenstein's Method_, Oxford: Blackwell, especially essays 1, 3, 4, 10, 12
+* Baldwin, Thomas, 1990, _G.E. Moore_, London: Routledge, ch. 7
+* Beaney, Michael, 2004, ‘Carnap's Conception of Explication: From Frege to Husserl?’, in S. Awodey and C. Klein, (eds.), _Carnap Brought Home: The View from Jena_, Chicago: Open Court, pp. 117-50
+* –––, 2005, ‘Collingwood's Conception of Presuppositional Analysis’, _Collingwood and British Idealism Studies_ 11, no. 2, 41-114
+* –––, (ed.), 2007, _The Analytic Turn: Analysis in Early Analytic Philosophy and Phenomenology_, London: Routledge \[includes papers on Frege, Russell, Wittgenstein, C.I. Lewis, Bolzano, Husserl]
+* Byrne, Patrick H., 1997, _Analysis and Science in Aristotle_, Albany: State University of New York Press
+* Cohen, L. Jonathan, 1986, _The Dialogue of Reason: An Analysis of Analytical Philosophy_, Oxford: Oxford University Press, chs. 1-2
+* Dummett, Michael, 1991, _Frege: Philosophy of Mathematics_, London: Duckworth, chs. 3-4, 9-16
+* Engfer, Hans-Jürgen, 1982, _Philosophie als Analysis_, Stuttgart-Bad Cannstatt: Frommann-Holzboog \[Descartes, Leibniz, Wolff, Kant]
+* Garrett, Aaron V., 2003, _Meaning in Spinoza's Method_, Cambridge: Cambridge University Press, ch. 4
+* Gaukroger, Stephen, 1989, _Cartesian Logic_, Oxford: Oxford University Press, ch. 3
+* Gentzler, Jyl, (ed.), 1998, _Method in Ancient Philosophy_, Oxford: Oxford University Press \[includes papers on Socrates, Plato, Aristotle, mathematics and medicine]
+* Gilbert, Neal W., 1960, _Renaissance Concepts of Method_, New York: Columbia University Press
+* Hacker, P.M.S., 1996, _Wittgenstein's Place in Twentieth-Century Analytic Philosophy_, Oxford: Blackwell
+* Hintikka, Jaakko and Remes, Unto, 1974, _The Method of Analysis_, Dordrecht: D. Reidel \[ancient Greek geometrical analysis]
+* Hylton, Peter, 2005, _Propositions, Functions, Analysis: Selected Essays on Russell's Philosophy_, Oxford: Oxford University Press
+* –––, 2007, _Quine_, London: Routledge, ch. 9
+* Jackson, Frank, 1998, _From Metaphysics to Ethics: A Defence of Conceptual Analysis_, Oxford: Oxford University Press, chs. 2-3
+* Kretzmann, Norman, 1982, ‘Syncategoremata, exponibilia, sophistimata’, in N. Kretzmann _et al._, (eds.), _The Cambridge History of Later Medieval Philosophy_, Cambridge: Cambridge University Press, 211-45
+* Menn, Stephen, 2002, ‘Plato and the Method of Analysis’, _Phronesis_ 47, 193-223
+* Otte, Michael and Panza, Marco, (eds.), 1997, _Analysis and Synthesis in Mathematics_, Dordrecht: Kluwer
+* Rorty, Richard, (ed.), 1967, _The Linguistic Turn_, Chicago: University of Chicago Press \[includes papers on analytic methodology]
+* Rosen, Stanley, 1980, _The Limits of Analysis_, New York: Basic Books, repr. Indiana: St. Augustine's Press, 2000 \[critique of analytic philosophy from a ‘continental’ perspective]
+* Sayre, Kenneth M., 1969, _Plato's Analytic Method_, Chicago: University of Chicago Press
+* –––, 2006, _Metaphysics and Method in Plato's Statesman_, Cambridge: Cambridge University Press, Part I
+* Soames, Scott, 2003, _Philosophical Analysis in the Twentieth Century_, Volume 1: _The Dawn of Analysis_, Volume 2: _The Age of Meaning_, New Jersey: Princeton University Press \[includes chapters on Moore, Russell, Wittgenstein, logical positivism, Quine, ordinary language philosophy, Davidson, Kripke]
+* Strawson, P.F., 1992, _Analysis and Metaphysics: An Introduction to Philosophy_, Oxford: Oxford University Press, chs. 1-2
+* Sweeney, Eileen C., 1994, ‘Three Notions of _Resolutio_ and the Structure of Reasoning in Aquinas’, _The Thomist_ 58, 197-243
+* Timmermans, Benoît, 1995, _La résolution des problèmes de Descartes à Kant_, Paris: Presses Universitaires de France
+* Urmson, J.O., 1956, _Philosophical Analysis: Its Development between the Two World Wars_, Oxford: Oxford University Press
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=analysis). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/analysis/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=analysis&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/analysis/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=analysis).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/analysis/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=analysis\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/analysis/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-- [Analysis](http://analysis.oxfordjournals.org/), a journal in philosophy.
-- [Bertrand Russell Archives](http://www.mcmaster.ca/russdocs/russell.htm)
+* [Analysis](http://analysis.oxfordjournals.org/), a journal in philosophy.
+* [Bertrand Russell Archives](http://www.mcmaster.ca/russdocs/russell.htm)
 
 ## Related Entries
 
-[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Bolzano, Bernard](https://plato.stanford.edu/entries/bolzano/) | [Buridan, John [Jean]](https://plato.stanford.edu/entries/buridan/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [necessary and sufficient conditions](https://plato.stanford.edu/entries/necessary-sufficient/) | [Ockham [Occam], William](https://plato.stanford.edu/entries/ockham/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
+[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Bolzano, Bernard](https://plato.stanford.edu/entries/bolzano/) | [Buridan, John \[Jean\]](https://plato.stanford.edu/entries/buridan/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [necessary and sufficient conditions](https://plato.stanford.edu/entries/necessary-sufficient/) | [Ockham \[Occam\], William](https://plato.stanford.edu/entries/ockham/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
 
 ### Acknowledgments
 
-In first composing this entry (in 2002-3) and then revising the main entry and bibliography (in 2007), I have drawn on a number of my published writings (especially Beaney 1996, 2000, 2002, 2007b, 2007c; see Annotated Bibliography [§6.1](https://plato.stanford.edu/entries/analysis/bib6.html#6.1), [§6.2](https://plato.stanford.edu/entries/analysis/bib6.html#6.2)). I am grateful to the respective publishers for permission to use this material. Research on conceptions of analysis in the history of philosophy was initially undertaken while a Research Fellow at the Institut für Philosophie of the University of Erlangen-Nürnberg during 1999-2000, and further work was carried out while a Research Fellow at the Institut für Philosophie of the University of Jena during 2006-7, in both cases funded by the Alexander von Humboldt-Stiftung. In the former case, the account was written up while at the Open University (UK), and in the latter case, I had additional research leave from the University of York. I acknowledge the generous support given to me by all five institutions. I am also grateful to the editors of this Encyclopedia, and to Gideon Rosen and Edward N. Zalta, in particular, for comments and suggestions on the content and organisation of this entry in both its initial and revised form. I would like to thank John Ongley, too, for reviewing the first version of this entry, which has helped me to improve it (see Annotated Bibliography [§1.3](https://plato.stanford.edu/entries/analysis/bib1.html#1.3)). In updating the bibliography (in 2007), I am indebted to various people who have notified me of relevant works, and especially, Gyula Klima (regarding §2.1), Anna-Sophie Heinemann (regarding §§ 4.2 and 4.4), and Jan Wolenski (regarding §5.3). I invite anyone who has further suggestions of items to be included or comments on the article itself to email me at the address given below.
+In first composing this entry (in 2002-3) and then revising the main entry and bibliography (in 2007), I have drawn on a number of my published writings (especially Beaney 1996, 2000, 2002, 2007b, 2007c; see Annotated Bibliography [§6.1](https://plato.stanford.edu/entries/analysis/bib6.html#6.1), [§6.2](https://plato.stanford.edu/entries/analysis/bib6.html#6.2)). I am grateful to the respective publishers for permission to use this material. Research on conceptions of analysis in the history of philosophy was initially undertaken while a Research Fellow at the Institut für Philosophie of the University of Erlangen-Nürnberg during 1999-2000, and further work was carried out while a Research Fellow at the Institut für Philosophie of the University of Jena during 2006-7, in both cases funded by the Alexander von Humboldt-Stiftung. In the former case, the account was written up while at the Open University (UK), and in the latter case, I had additional research leave from the University of York. I acknowledge the generous support given to me by all five institutions. I am also grateful to the editors of this Encyclopedia, and to Gideon Rosen and Edward N. Zalta, in particular, for comments and suggestions on the content and organisation of this entry in both its initial and revised form. I would like to thank John Ongley, too, for reviewing the first version of this entry, which has helped me to improve it (see Annotated Bibliography [§1.3](https://plato.stanford.edu/entries/analysis/bib1.html#1.3)). In updating the bibliography (in 2007), I am indebted to various people who have notified me of relevant works, and especially, Gyula Klima (regarding §2.1), Anna-Sophie Heinemann (regarding §§ 4.2 and 4.4), and Jan Wolenski (regarding §5.3). I invite anyone who has further suggestions of items to be included or comments on the article itself to email me at the address given below.
 
-[Copyright © 2014](https://plato.stanford.edu/info.html#c) by  
-[Michael Beaney](https://www.philosophie.hu-berlin.de/de/lehrbereiche/geschichte-analytische-phil) <[*michael.beaney@hu-berlin.de*](mailto:michael%2ebeaney%40hu-berlin%2ede)>
+[Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
+[Michael Beaney](https://www.philosophie.hu-berlin.de/de/lehrbereiche/geschichte-analytische-phil) <[_michael.beaney@hu-berlin.de_](mailto:michael%2ebeaney%40hu-berlin%2ede)>

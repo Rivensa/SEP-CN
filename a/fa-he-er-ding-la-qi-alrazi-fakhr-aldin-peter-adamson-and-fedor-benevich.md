@@ -1,13 +1,13 @@
 # 法赫尔丁·拉齐 al-Razi, Fakhr al-Din (Peter Adamson and Fedor Benevich)
 
-*首次发布于2023年2月5日*
+_首次发布于2023年2月5日_
 
 法赫尔丁·拉齐（1149-1210）是伊斯兰思想“后古典”阶段最具创新和影响力的思想家之一。与12世纪伊斯兰东方的其他重要思想家（尤其是阿布·巴拉卡特·巴格达迪和苏赫拉瓦迪）一起，法赫尔丁·拉齐对伊本·西那（阿维森纳）的哲学进行了批判性反应。他创作了大量的著作，这些著作在传达法赫尔丁·拉齐自己的观点方面常常难以捉摸，但却充满了对伊本·西那思想几乎每个方面的微妙哲学论证。法赫尔丁·拉齐也确立了自己独特的立场，例如在提供真实定义的问题上，本质与存在的区别，物理学原理，人类灵魂的统一以及道德规范的来源等方面。这种丰富的哲学产出只是他一生工作的一部分，他还撰写了关于伊斯兰法律、神学、占星术以及历史上最重要的《古兰经》注释之一的文本。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/al-din-al-razi/#LifeWork) * [2. 逻辑与认识论](https://plato.stanford.edu/entries/al-din-al-razi/#LogiEpis) * [3. 物理学](https://plato.stanford.edu/entries/al-din-al-razi/#Phys) * [4. 形而上学](https://plato.stanford.edu/entries/al-din-al-razi/#Meta) * [5. 心理学](https://plato.stanford.edu/entries/al-din-al-razi/#Psyc) * [6. 伦理学](https://plato.stanford.edu/entries/al-din-al-razi/#Ethi) * [参考文献](https://plato.stanford.edu/entries/al-din-al-razi/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/al-din-al-razi/#PrimLite) * [次要文献](https://plato.stanford.edu/entries/al-din-al-razi/#SecoLite) * [学术工具](https://plato.stanford.edu/entries/al-din-al-razi/#Aca) * [其他互联网资源](https://plato.stanford.edu/entries/al-din-al-razi/#Oth) * [相关条目](https://plato.stanford.edu/entries/al-din-al-razi/#Rel)
+* [1. 生平与作品](https://plato.stanford.edu/entries/al-din-al-razi/#LifeWork) \* [2. 逻辑与认识论](https://plato.stanford.edu/entries/al-din-al-razi/#LogiEpis) \* [3. 物理学](https://plato.stanford.edu/entries/al-din-al-razi/#Phys) \* [4. 形而上学](https://plato.stanford.edu/entries/al-din-al-razi/#Meta) \* [5. 心理学](https://plato.stanford.edu/entries/al-din-al-razi/#Psyc) \* [6. 伦理学](https://plato.stanford.edu/entries/al-din-al-razi/#Ethi) \* [参考文献](https://plato.stanford.edu/entries/al-din-al-razi/#Bib)
+* [主要文献](https://plato.stanford.edu/entries/al-din-al-razi/#PrimLite) \* [次要文献](https://plato.stanford.edu/entries/al-din-al-razi/#SecoLite) \* [学术工具](https://plato.stanford.edu/entries/al-din-al-razi/#Aca) \* [其他互联网资源](https://plato.stanford.edu/entries/al-din-al-razi/#Oth) \* [相关条目](https://plato.stanford.edu/entries/al-din-al-razi/#Rel)
 
----
+***
 
 ## 1. 生平与作品
 
@@ -29,83 +29,83 @@
 
 ## 2. 逻辑与认识论
 
-在伊斯兰世界中，*法赫尔丁·拉齐*的代表们在很大程度上接受了传统的亚里士多德式的知识获取方式。这就是亚里士多德的《逻辑学》（Peripatetic Organon），它从可述性开始，经过演绎推理到证明科学和本质定义。然而，法赫尔丁·拉齐提出了一种不同的逻辑和认识论结构，摒弃了《逻辑学》的传统组织形式。这种新的结构围绕着两种获取知识的方式展开，即概念化（*taṣawwur*）和同意（*taṣdīq*）（El-Rouayheb 2019: 29）。"概念化"指的是在心理上娱乐一个概念，比如"人类"或"理性动物"，而不赋予它任何真值；而"同意"则表示在现实世界中声称人类是理性动物（Lameer 2006）。法赫尔丁·拉齐对逻辑和认识论的重新组织可能成为后来重新定义逻辑主题为"概念和同意的对象"的作者的灵感之一（El-Rouayheb 2012）。
+在伊斯兰世界中，_法赫尔丁·拉齐_的代表们在很大程度上接受了传统的亚里士多德式的知识获取方式。这就是亚里士多德的《逻辑学》（Peripatetic Organon），它从可述性开始，经过演绎推理到证明科学和本质定义。然而，法赫尔丁·拉齐提出了一种不同的逻辑和认识论结构，摒弃了《逻辑学》的传统组织形式。这种新的结构围绕着两种获取知识的方式展开，即概念化（_taṣawwur_）和同意（_taṣdīq_）（El-Rouayheb 2019: 29）。"概念化"指的是在心理上娱乐一个概念，比如"人类"或"理性动物"，而不赋予它任何真值；而"同意"则表示在现实世界中声称人类是理性动物（Lameer 2006）。法赫尔丁·拉齐对逻辑和认识论的重新组织可能成为后来重新定义逻辑主题为"概念和同意的对象"的作者的灵感之一（El-Rouayheb 2012）。
 
-法赫尔丁·拉齐通过对定义的批判来补充这一观点，拒绝通过概念化来有意识地获取知识（Falaturi 1969，Ibrahim 2013，Özturan 2018，Jacobsen Ben Hammed 2020，Benevich 2022a）。根据传统的亚里士多德认识论，被伊本·西那完全接受，我们通过获取关于人类本质的完整定义来了解人是什么，通过所有固有的一般和特定的方面的结合，例如“作为动物”和“具有理性”。法赫尔丁·拉齐否认这就是我们学习事物本质的方式。对他来说，就像他的同时代人阿布·巴拉卡特和阿尔·苏赫拉瓦尔迪一样，我们用传统的亚里士多德-伊本·西那方法所能希望达到的最好结果是名义定义，即我们心中所拥有的意义的阐释（*Muḥaṣṣal*，84；*Mulakhkhaṣ*：*Manṭiq*，106）。通过将人定义为“理性动物”，我们并没有对真实的人类有任何新的了解。相反，我们只是解释了我们一开始所指的“人类”的含义。
+法赫尔丁·拉齐通过对定义的批判来补充这一观点，拒绝通过概念化来有意识地获取知识（Falaturi 1969，Ibrahim 2013，Özturan 2018，Jacobsen Ben Hammed 2020，Benevich 2022a）。根据传统的亚里士多德认识论，被伊本·西那完全接受，我们通过获取关于人类本质的完整定义来了解人是什么，通过所有固有的一般和特定的方面的结合，例如“作为动物”和“具有理性”。法赫尔丁·拉齐否认这就是我们学习事物本质的方式。对他来说，就像他的同时代人阿布·巴拉卡特和阿尔·苏赫拉瓦尔迪一样，我们用传统的亚里士多德-伊本·西那方法所能希望达到的最好结果是名义定义，即我们心中所拥有的意义的阐释（_Muḥaṣṣal_，84；_Mulakhkhaṣ_：_Manṭiq_，106）。通过将人定义为“理性动物”，我们并没有对真实的人类有任何新的了解。相反，我们只是解释了我们一开始所指的“人类”的含义。
 
-法赫尔丁·拉齐对真实定义的主要论据是对一个古老认识论问题的重新应用，这个问题可以追溯到柏拉图的《梅诺篇》（*Meno*，80d6–10）。拉齐将其表述如下：
+法赫尔丁·拉齐对真实定义的主要论据是对一个古老认识论问题的重新应用，这个问题可以追溯到柏拉图的《梅诺篇》（_Meno_，80d6–10）。拉齐将其表述如下：
 
-如果一个人不知道询问的对象，那么就不可能进行询问。因为，如果一个人对某事完全不知道，灵魂就不会对其进行任何的询问。另一方面，如果一个人对某事是知晓的，那么询问同样是不可能的，因为在某物已经可用的情况下再去提供它是荒谬的（*taḥṣīl al-ḥāṣil*）。
+如果一个人不知道询问的对象，那么就不可能进行询问。因为，如果一个人对某事完全不知道，灵魂就不会对其进行任何的询问。另一方面，如果一个人对某事是知晓的，那么询问同样是不可能的，因为在某物已经可用的情况下再去提供它是荒谬的（_taḥṣīl al-ḥāṣil_）。
 
-*如果有人说*：[询问者]在某种程度上对[询问的对象]是知晓的，*我回答*：他对它的知晓程度与他对它的不知晓是不同的。[82] 他不能对第一个[程度]进行询问，因为它已经是[可用的]了。他也不能对第二个[程度]进行询问，因为他对它是完全不知情的（*Muḥaṣṣal*，81-82）。
+_如果有人说_：\[询问者]在某种程度上对\[询问的对象]是知晓的，_我回答_：他对它的知晓程度与他对它的不知晓是不同的。\[82] 他不能对第一个\[程度]进行询问，因为它已经是\[可用的]了。他也不能对第二个\[程度]进行询问，因为他对它是完全不知情的（_Muḥaṣṣal_，81-82）。
 
 如果我们甚至不知道要寻找什么，我们如何学到新东西呢？如果我们已经知道我们要寻找什么，那么学到关于它的新东西有什么意义呢？阿尔法拉比和伊本·西那大多接受了亚里士多德对这个悖论的解决方案，即我们可以在一个方面了解某事物，并在另一个方面进行探究和学习关于它的新东西（Black 2008，Marmura 2009）。法赫尔丁·拉齐拒绝了这个解决方案，理由是这个问题可以分别应用于每个方面。如果我们不了解一个方面，但已经了解另一个方面，那么对于两个方面来说，新的探究都是不可能的，两个方面都会陷入这个悖论的两个不同角度。
 
-在他对知识获取的分析中，法赫尔丁·拉齐讨论了从*卡拉姆*传承下来的“必要”（*ḍarūrī*）和“获得”（*iktisābī*）知识之间的传统认识论区别。我们接受“必要”的知识项目，无论我们是否愿意。例如，当我看着一个红苹果时，我无法控制看到苹果是红色的。我不能决定将其视为蓝色。相比之下，获得的知识意味着我们有意参与知识的获取。例如，我可能试图了解为什么人类具有属于他们的某些特征，尽管我不需要这样做（详见Abrahamov 1993，Radhi Ibrahim 2013，Benevich 2022b）。法赫尔丁·拉齐通过否认第二类知识来反对这种标准的*卡拉姆*观点。根据他的观点，我们对事物的概念化以及由概念化产生的任何信念都没有任何控制力（*Arbaʿīn*，卷1，330-332）。相反，所有的概念化和同意都是给予我们的，在偶然主义的阿什'阿里派框架中，这意味着直接由上帝给予（Jacobsen Ben Hammed 2020，Benevich 2022a）。因此，我们“被迫”拥有我们最终拥有的任何知识。所知对象的性质并不那么清楚：有人认为对于法赫尔丁·拉齐来说，我们只能接触到现象经验的对象（Ibrahim 2013），也有人认为对于他来说，我们可以接触到事物本身（Benevich 2022a）。无论如何，必要的知识项目是认识主体的主要数据。我们不是通过探究和产生基本定义来了解人类是什么。我们通过直接经验来了解人类是什么，这不由我们决定。
+在他对知识获取的分析中，法赫尔丁·拉齐讨论了从_卡拉姆_传承下来的“必要”（_ḍarūrī_）和“获得”（_iktisābī_）知识之间的传统认识论区别。我们接受“必要”的知识项目，无论我们是否愿意。例如，当我看着一个红苹果时，我无法控制看到苹果是红色的。我不能决定将其视为蓝色。相比之下，获得的知识意味着我们有意参与知识的获取。例如，我可能试图了解为什么人类具有属于他们的某些特征，尽管我不需要这样做（详见Abrahamov 1993，Radhi Ibrahim 2013，Benevich 2022b）。法赫尔丁·拉齐通过否认第二类知识来反对这种标准的_卡拉姆_观点。根据他的观点，我们对事物的概念化以及由概念化产生的任何信念都没有任何控制力（_Arbaʿīn_，卷1，330-332）。相反，所有的概念化和同意都是给予我们的，在偶然主义的阿什'阿里派框架中，这意味着直接由上帝给予（Jacobsen Ben Hammed 2020，Benevich 2022a）。因此，我们“被迫”拥有我们最终拥有的任何知识。所知对象的性质并不那么清楚：有人认为对于法赫尔丁·拉齐来说，我们只能接触到现象经验的对象（Ibrahim 2013），也有人认为对于他来说，我们可以接触到事物本身（Benevich 2022a）。无论如何，必要的知识项目是认识主体的主要数据。我们不是通过探究和产生基本定义来了解人类是什么。我们通过直接经验来了解人类是什么，这不由我们决定。
 
-对于那些否认我们可以通过概念化或同意自愿获得知识的人来说，法赫尔丁·拉齐竟然花了很多精力来讨论获得同意的方式。他在阿维森纳的命题类型和演绎逻辑理论中引入了一些重要的创新。事实上，法赫尔丁·拉齐引入了几个概念和区分，在阿拉伯逻辑的后续历史中成为标准。其中大部分根源于伊本·西那的逻辑装置，但法赫尔丁·拉齐努力进行了批判性的修订和重新组织，奠定了所谓的“修正主义阿维森纳逻辑”的基础（El-Rouayheb 2019: 68–69）。其中最重要的创新之一是法赫尔丁·拉齐提出伊本·西那未能区分必然性的真理和时间理解。 “每个*A*必然是*B*”不需要意味着与“每个*A*总是*B*”相同。通过这种区分，法赫尔丁·拉齐创造了Street所称的“命题类型的丰富性”，这在后期阿拉伯逻辑中得到了广泛讨论（Street 2014, 2016；进一步参见Strobino & Thom 2016）。
+对于那些否认我们可以通过概念化或同意自愿获得知识的人来说，法赫尔丁·拉齐竟然花了很多精力来讨论获得同意的方式。他在阿维森纳的命题类型和演绎逻辑理论中引入了一些重要的创新。事实上，法赫尔丁·拉齐引入了几个概念和区分，在阿拉伯逻辑的后续历史中成为标准。其中大部分根源于伊本·西那的逻辑装置，但法赫尔丁·拉齐努力进行了批判性的修订和重新组织，奠定了所谓的“修正主义阿维森纳逻辑”的基础（El-Rouayheb 2019: 68–69）。其中最重要的创新之一是法赫尔丁·拉齐提出伊本·西那未能区分必然性的真理和时间理解。 “每个_A_必然是_B_”不需要意味着与“每个_A_总是_B_”相同。通过这种区分，法赫尔丁·拉齐创造了Street所称的“命题类型的丰富性”，这在后期阿拉伯逻辑中得到了广泛讨论（Street 2014, 2016；进一步参见Strobino & Thom 2016）。
 
-逻辑学中的另一个重要贡献是法赫尔丁·拉齐对命题的主语术语进行的两种解读的区分：外在主义（*khārijī*）和本质主义（*ḥaqīqī*）。当我们在外在主义的解读中说“每个*A*是*B*”时，我们的意思是在现实世界中每一个实际上是*A*的事物都是*B*。在本质主义的解读中，“每个*A*是*B*”意味着“一切，如果被描述为*A*，都将是*B*”（*Mulakhkhaṣ: Manṭiq*，141–42）。外在主义和本质主义解读之间的区别是法赫尔丁·拉齐对阿尔法拉比和伊本·西那早期阿拉伯主语术语讨论的回应。阿尔法拉比被认为扩大了主语术语的范围到可能性。换句话说，对他来说，“每个*A*是*B*”意味着“一切可能是*A*的东西都是*B*”。伊本·西那更为严格：“每个*A*是*B*”意味着“一切实际上是*A*的东西都是*B*”。这不一定意味着“在现实世界中实际上是*A*的一切”，而也可以指任何在思维中实际上被描述为*A*的东西（Street 2005, 2010, 2014和2016，参见Chatti 2016）。法赫尔丁·拉齐对主语术语的本质主义和外在主义解读的区分可能是对伊本·西那将主语术语扩展到心理领域的回应。正如我们将在[第4节](https://plato.stanford.edu/entries/al-din-al-razi/)中看到的那样，法赫尔丁·拉齐否认了心理存在，因此需要不涉及现实世界实际性的主语术语解读的不同表述方式。
+逻辑学中的另一个重要贡献是法赫尔丁·拉齐对命题的主语术语进行的两种解读的区分：外在主义（_khārijī_）和本质主义（_ḥaqīqī_）。当我们在外在主义的解读中说“每个_A_是_B_”时，我们的意思是在现实世界中每一个实际上是_A_的事物都是_B_。在本质主义的解读中，“每个_A_是_B_”意味着“一切，如果被描述为_A_，都将是_B_”（_Mulakhkhaṣ: Manṭiq_，141–42）。外在主义和本质主义解读之间的区别是法赫尔丁·拉齐对阿尔法拉比和伊本·西那早期阿拉伯主语术语讨论的回应。阿尔法拉比被认为扩大了主语术语的范围到可能性。换句话说，对他来说，“每个_A_是_B_”意味着“一切可能是_A_的东西都是_B_”。伊本·西那更为严格：“每个_A_是_B_”意味着“一切实际上是_A_的东西都是_B_”。这不一定意味着“在现实世界中实际上是_A_的一切”，而也可以指任何在思维中实际上被描述为_A_的东西（Street 2005, 2010, 2014和2016，参见Chatti 2016）。法赫尔丁·拉齐对主语术语的本质主义和外在主义解读的区分可能是对伊本·西那将主语术语扩展到心理领域的回应。正如我们将在[第4节](https://plato.stanford.edu/entries/al-din-al-razi/)中看到的那样，法赫尔丁·拉齐否认了心理存在，因此需要不涉及现实世界实际性的主语术语解读的不同表述方式。
 
 ## 3. 物理学
 
 法赫尔丁·拉齐对物理学原理的处理为他的哲学方法提供了一个启示性的例子。在他的各种总论中，他讨论了与伊本·西那的物理学相同的一系列问题，这些问题最终是亚里士多德的《物理学》已经讨论过的问题。因此，我们得到了关于物体、运动、时间、位置和虚空的考虑。然而，他也将伊斯兰神学传统中的思想融入其中，并有时允许其占主导地位。因此，他通常支持穆泰齐派和阿什阿里派伊斯兰神学学派共同持有的原子论，而反对伊本·西那的连续论。在其他情况下，法赫尔丁·拉齐似乎在追随阿布·巴克尔·拉齐（他本人也是一个原子论者）的领导，因为他接受了一种“柏拉图式”的时间和位置理解，根据这种理解，时间和位置是独立的原则，而不是物体及其运动的度量和限制。
 
-*卡拉姆*物理学中的基本区别在于原子物质（*贾瓦尔*）或“不可分割的部分”与属于这些原子的偶然属性（*阿拉德*）之间的区别（Dhanani 1994，Sabra 2006）。早在希腊哲学传入阿拉伯语的初期，*法拉斯法*（falāsifa）如al-Kindī（在一部失传的作品中）就已经拒绝了原子论，而支持亚里士多德的连续性。这个观点认为，每个物体的每个部分，无论多么小，原则上都可以被分成更小的子部分。伊本·西那（Ibn Sīnā）也是原子论的坚决反对者（Lettinck 1988，McGinnis 2013，Dhanani 2015），他的论点引发了十二世纪许多作者的讨论（例如，McGinnis 2019）。因此，法赫尔丁在讨论原子论的合理性时加入了一场长期的辩论。他在这个问题上的陈述呈现出一个典型的混乱局面。他似乎在他的“哲学”（*falsafī*，*ḥikmī*）作品中拒绝了原子论，但在他的*卡拉姆*作品中接受了它（Zarkān 1963: 67–98）。然而，他晚期的总结性著作《Maṭālib》可能表明他接受了*卡拉姆*原子论作为他自己的考虑之见（Dhanani 2015；另请参阅Setia 2004和2006，以及Baffioni 1982: 211–75；关于他反对物质形而上学的立场，请参阅Ibrahim 2020）。
+_卡拉姆_物理学中的基本区别在于原子物质（_贾瓦尔_）或“不可分割的部分”与属于这些原子的偶然属性（_阿拉德_）之间的区别（Dhanani 1994，Sabra 2006）。早在希腊哲学传入阿拉伯语的初期，_法拉斯法_（falāsifa）如al-Kindī（在一部失传的作品中）就已经拒绝了原子论，而支持亚里士多德的连续性。这个观点认为，每个物体的每个部分，无论多么小，原则上都可以被分成更小的子部分。伊本·西那（Ibn Sīnā）也是原子论的坚决反对者（Lettinck 1988，McGinnis 2013，Dhanani 2015），他的论点引发了十二世纪许多作者的讨论（例如，McGinnis 2019）。因此，法赫尔丁在讨论原子论的合理性时加入了一场长期的辩论。他在这个问题上的陈述呈现出一个典型的混乱局面。他似乎在他的“哲学”（_falsafī_，_ḥikmī_）作品中拒绝了原子论，但在他的_卡拉姆_作品中接受了它（Zarkān 1963: 67–98）。然而，他晚期的总结性著作《Maṭālib》可能表明他接受了_卡拉姆_原子论作为他自己的考虑之见（Dhanani 2015；另请参阅Setia 2004和2006，以及Baffioni 1982: 211–75；关于他反对物质形而上学的立场，请参阅Ibrahim 2020）。
 
-作为支持原子论的决定性考虑，他在这里指出，如果连续性是真实的，每个物体将有无限多的部分，以至于芥末种子可以“拉伸”以与整个宇宙重合（*Maṭālib* vol.6, 71；有关该段落，请参阅Dhanani 2015: 102）。另一个原子论的论点是，如果一个真正的球体与一个真正的表面相遇，它们将在一个不可分割的点上接触。我们可以进一步如下论证：
+作为支持原子论的决定性考虑，他在这里指出，如果连续性是真实的，每个物体将有无限多的部分，以至于芥末种子可以“拉伸”以与整个宇宙重合（_Maṭālib_ vol.6, 71；有关该段落，请参阅Dhanani 2015: 102）。另一个原子论的论点是，如果一个真正的球体与一个真正的表面相遇，它们将在一个不可分割的点上接触。我们可以进一步如下论证：
 
 一旦确定接触点是不可分割的东西，就必须承认个体原子的存在。因为如果我们在平面上完整地将一个球体滚动一圈，毫无疑问，一旦一个接触点停止，就会与另一个接触点建立联系（《Maṭālib》第6卷，48-9）。
 
 正如这个论点所表明的，这里考虑的原子类似于几何点，而不是古希腊原子论和早期的阿布·巴克尔·拉齐提出的非常小的、延展但不可分割的物体。这本身就是从卡拉姆传统中继承下来的。一些人还使用几何学来反驳原子论，所以在《Maṭālib》和专门致力于这个问题的一篇独立论文（Altaş 2015）中，法赫尔丁提出了反对原子论的几何论证，并提供了反驳意见。
 
-如果他确实是一个原子论者，那么他相信虚空的可能性是有道理的，因为在古典和*卡拉姆*原子论中，这两个教义通常是一起出现的。阿布·巴克尔·拉齐和阿布·巴拉卡特·巴格达迪也是虚空的支持者，他们对法赫尔丁都有影响力。在这个话题上，他似乎相当一致地支持虚空的可能性，反对亚里士多德和伊本·西那主张虚空不可能性的论据（亚当森2018a）。例如，他驳斥了亚里士多德的论证，即如果运动速度与介质密度成反比，那么在虚空中的运动将是无限快的：
+如果他确实是一个原子论者，那么他相信虚空的可能性是有道理的，因为在古典和_卡拉姆_原子论中，这两个教义通常是一起出现的。阿布·巴克尔·拉齐和阿布·巴拉卡特·巴格达迪也是虚空的支持者，他们对法赫尔丁都有影响力。在这个话题上，他似乎相当一致地支持虚空的可能性，反对亚里士多德和伊本·西那主张虚空不可能性的论据（亚当森2018a）。例如，他驳斥了亚里士多德的论证，即如果运动速度与介质密度成反比，那么在虚空中的运动将是无限快的：
 
-> 如果我们假设所需时间的一部分是为了适应运动本身，另一部分是为了适应阻碍，那么在纯粹的虚空中的运动将在与运动本身相适应的时间内发生。而在充满物质的环境中发生的运动则会在此基础上再增加一段时间，以适应提供阻碍的间隔中的任何事物。所以，这就确定了他们试图强加给支持虚空的人的结论[在完全没有阻力情况下，运动在虚空中将是无限快的]是不能成立的（《马塔利布》，第5卷，174.19-175.1）。
+> 如果我们假设所需时间的一部分是为了适应运动本身，另一部分是为了适应阻碍，那么在纯粹的虚空中的运动将在与运动本身相适应的时间内发生。而在充满物质的环境中发生的运动则会在此基础上再增加一段时间，以适应提供阻碍的间隔中的任何事物。所以，这就确定了他们试图强加给支持虚空的人的结论\[在完全没有阻力情况下，运动在虚空中将是无限快的]是不能成立的（《马塔利布》，第5卷，174.19-175.1）。
 
 换句话说，媒介的密度只是减慢了它在真空中本来应有的固有速度，这个速度是有限的。
 
-虚空的定义可以是两个物体之间没有接触，中间没有物体的情况（《阿尔巴因》第2卷，32页），也可以是一个没有任何东西放置在其中的空间（《马塔利布》第5卷，155页）。物理论证提供了证据，表明虚空实际上不仅是可能的，而且确实存在，比如当两个平面表面被拉开时：尽管时间可能很短暂，但空气还是会涌入填满空白的空间（《阿尔巴因》第2卷，35页）。刚才提到的虚空的第二个定义将我们引入法赫尔丁对空间或位置的概念，并且已经暗示了他的观点，即位置并不依赖于物体，正如伊本·西那所声称的那样（Adamson 2017）。对于伊本·西那来说，遵循亚里士多德的观点，位置是包含物体的内部边界，例如围绕着放在壶中的水的壶的内表面（Lammer 2018: §5.3）。法赫尔丁对这个概念进行了一系列的批评，例如，袋子里的宝石即使在被运送到另一个城市的过程中仍然保持在同一个“位置”（《马塔利布》第5卷，147页）。相反，对他来说，位置确实是“空间”（*faḍāʾ*，*ḥayyiz*），它独立于物体，可以被物体占据或不被占据。
+虚空的定义可以是两个物体之间没有接触，中间没有物体的情况（《阿尔巴因》第2卷，32页），也可以是一个没有任何东西放置在其中的空间（《马塔利布》第5卷，155页）。物理论证提供了证据，表明虚空实际上不仅是可能的，而且确实存在，比如当两个平面表面被拉开时：尽管时间可能很短暂，但空气还是会涌入填满空白的空间（《阿尔巴因》第2卷，35页）。刚才提到的虚空的第二个定义将我们引入法赫尔丁对空间或位置的概念，并且已经暗示了他的观点，即位置并不依赖于物体，正如伊本·西那所声称的那样（Adamson 2017）。对于伊本·西那来说，遵循亚里士多德的观点，位置是包含物体的内部边界，例如围绕着放在壶中的水的壶的内表面（Lammer 2018: §5.3）。法赫尔丁对这个概念进行了一系列的批评，例如，袋子里的宝石即使在被运送到另一个城市的过程中仍然保持在同一个“位置”（《马塔利布》第5卷，147页）。相反，对他来说，位置确实是“空间”（_faḍāʾ_，_ḥayyiz_），它独立于物体，可以被物体占据或不被占据。
 
-我们发现这个关于空间的观念与他对时间的描述存在相似之处（Setia 2008，Adamson 2018b，Adamson＆Lammer 2020）。对于伊本·西那来说，时间是运动的度量（ʿAbd al-Mutaʿāl 2003，McGinnis 2003和2008）。首先，它是最外层天体的运动的度量，因为这是宇宙中最快的运动，这解释了围绕地球的固定星星的表观日旋转。这对于法赫尔丁来说是关于时间的“游荡”观点。在他的《Maṭālib》中，他反驳了这一观点，还反驳了阿布·巴拉卡特的一种观点，即时间是对“存在”而不是运动的度量。法赫尔丁至少同意时间是真实存在的。为了证明这一点，他引用了一个古老的“卡拉姆”观念，即时间提供了独立事件之间的协调（*Mabāḥith* vol.1, 761; *Maṭālib* vol.5, 47），这就是为什么我可以安排明天与你见面（一个事件），当太阳升起时（另一个事件）。但是时间的存在并不依赖于运动或存在的情况。如果是这样的话，那么对于各种运动，我们将会有多个同时存在的时间，这将需要一个上级时间来协调它们。
+我们发现这个关于空间的观念与他对时间的描述存在相似之处（Setia 2008，Adamson 2018b，Adamson＆Lammer 2020）。对于伊本·西那来说，时间是运动的度量（ʿAbd al-Mutaʿāl 2003，McGinnis 2003和2008）。首先，它是最外层天体的运动的度量，因为这是宇宙中最快的运动，这解释了围绕地球的固定星星的表观日旋转。这对于法赫尔丁来说是关于时间的“游荡”观点。在他的《Maṭālib》中，他反驳了这一观点，还反驳了阿布·巴拉卡特的一种观点，即时间是对“存在”而不是运动的度量。法赫尔丁至少同意时间是真实存在的。为了证明这一点，他引用了一个古老的“卡拉姆”观念，即时间提供了独立事件之间的协调（_Mabāḥith_ vol.1, 761; _Maṭālib_ vol.5, 47），这就是为什么我可以安排明天与你见面（一个事件），当太阳升起时（另一个事件）。但是时间的存在并不依赖于运动或存在的情况。如果是这样的话，那么对于各种运动，我们将会有多个同时存在的时间，这将需要一个上级时间来协调它们。
 
 法赫尔丁对时间的讨论为我们提供了一个很好的例子，展示了他的观点是如何发展的，即使围绕着同一组论点（Adamson＆Lammer 2020）。在《Mabāḥith》中，他表达了一个不可知论的观点：
 
-我尚未达到对时间真理的认识，所以请将您对这本书的期望视为对时间的全面考察和报告（*Mabāḥith* vol.1, 761）。
+我尚未达到对时间真理的认识，所以请将您对这本书的期望视为对时间的全面考察和报告（_Mabāḥith_ vol.1, 761）。
 
-然而，当他写《Mulakhkhaṣ》时，他开始认同“先前性”和“后来性”是“考虑事项”（*umūr iʿtibāriyya*）。然而，在他职业生涯的最后阶段，他采取了相反的观点。现在，他支持他所说的柏拉图对时间的观点：时间是“一种独立于自身的物质”（*Maṭālib* vol.6, 76）。对柏拉图的提及可能指的是《柏拉图对话录》中的《时间篇》。他显然在追随他的同胞雷伊哲学家阿布·巴克尔·拉齐的观点，既接受时间和空间的独立性，又将柏拉图视为该物理理论的权威（Adamson 2021a: ch.5）。然而，两位拉齐之间的一个区别是，法赫尔丁·拉齐明确表示时间和空间都是上帝创造的，并非“永恒”的原则。因此，他对物理学的整体描述构想了一个由上帝创造的时空框架，物体可以存在于其中，但不一定存在。
+然而，当他写《Mulakhkhaṣ》时，他开始认同“先前性”和“后来性”是“考虑事项”（_umūr iʿtibāriyya_）。然而，在他职业生涯的最后阶段，他采取了相反的观点。现在，他支持他所说的柏拉图对时间的观点：时间是“一种独立于自身的物质”（_Maṭālib_ vol.6, 76）。对柏拉图的提及可能指的是《柏拉图对话录》中的《时间篇》。他显然在追随他的同胞雷伊哲学家阿布·巴克尔·拉齐的观点，既接受时间和空间的独立性，又将柏拉图视为该物理理论的权威（Adamson 2021a: ch.5）。然而，两位拉齐之间的一个区别是，法赫尔丁·拉齐明确表示时间和空间都是上帝创造的，并非“永恒”的原则。因此，他对物理学的整体描述构想了一个由上帝创造的时空框架，物体可以存在于其中，但不一定存在。
 
 ## 4. 形而上学
 
-正如“实体”（*ousia*）可以正当地被称为亚里士多德形而上学的核心概念一样，“存在”（*wujūd*）是阿维森纳形而上学的核心概念。伊本·西那的形而上学研究不同种类事物之间的关系及其存在方式，最终得出一个特殊而必要的存在方式，只属于一个存在，即上帝（例如，参见Bertolacci 2016）。伊本·西那的形而上学有两个核心教义，在他之后在伊斯兰世界广泛讨论，并且法赫尔丁详细讨论了这两个教义：本质与存在的区别，以及上帝是纯粹的存在，在各个方面都是必要的。
+正如“实体”（_ousia_）可以正当地被称为亚里士多德形而上学的核心概念一样，“存在”（_wujūd_）是阿维森纳形而上学的核心概念。伊本·西那的形而上学研究不同种类事物之间的关系及其存在方式，最终得出一个特殊而必要的存在方式，只属于一个存在，即上帝（例如，参见Bertolacci 2016）。伊本·西那的形而上学有两个核心教义，在他之后在伊斯兰世界广泛讨论，并且法赫尔丁详细讨论了这两个教义：本质与存在的区别，以及上帝是纯粹的存在，在各个方面都是必要的。
 
 “存在”对于伊本·西那来说，指的是事物的实际存在，而不论它们是什么。例如，一个红苹果是一个红苹果，这是一回事，而红苹果的“存在”则完全是另一回事。为了区分事物的本质（即它们是什么）和它们的存在（即它们是否存在）之间的区别，伊本·西那使用了一个从可想象性的论证。我们可以想象一个红苹果，而不知道它是否存在，因此它的存在必须与它的本质不同（《指示》，《纳马特》4，266）。但是我们应该如何理解本质和存在之间的区别呢？在阿维森纳之后的传统中，对这个问题有两个主要的答案：本质和存在之间的区别是真实的（ḥaqīqī）或者仅仅是概念上的（iʿtibārī）。第一个答案要求在思维之外存在两个不同的事物，它们共同构成了存在的红苹果。第二个回答意味着在外在世界中只有一个事物，即存在的红苹果；但我们可以在概念上将其分析为“存在”和“红苹果”（Wisnovsky 2012，Eichner 2011b）。
 
 在这个辩论中，法赫尔丁似乎采取了本体论者的立场，即本质和存在在思维之外是不同的（Benevich 2017）。例如，他感到有必要解决本体论者面临的一个最紧迫的问题。如果本质和存在在现实中是不同的，这是否意味着所有的本质在存在附着于它们之前已经以某种方式存在？法赫尔丁对这个困难并不感到困惑：
 
-本质本身（*min ḫayṯu hiya hiya*）是一种与存在和不存在不同的本质。这并不意味着在不存在的东西中存在着某种存在的东西（*Arbaʿīn*，卷1，88）。
+本质本身（_min ḫayṯu hiya hiya_）是一种与存在和不存在不同的本质。这并不意味着在不存在的东西中存在着某种存在的东西（_Arbaʿīn_，卷1，88）。
 
-红苹果的本质本身（*min ḥaythu hiya hiya*）确实先于其存在。事物的本质，作为本质本身，处于一种不同的第三种存在状态，既非存在也非不存在（*Mabāḥith*，卷1，129）。当然，这并不意味着在红苹果变得存在之前，就有红苹果的本质存在。就像伊本·西那（Ibn Sīnā）一样，法赫尔丁·拉齐（Fakhr al-Dīn）认同本质和存在在外延上是相同的：所有的本质实例也是存在的实例（Wisnovsky 2012）。但是，法赫尔丁·拉齐通过引入本质优先于存在的明确观点，对亚维中派的区分提出了现实主义的看法；对于这是否忠实于伊本·西那自己的形而上学，近期的解释者存在分歧（Bertolacci 2012，Benevich 2019b，Janos 2020）。
+红苹果的本质本身（_min ḥaythu hiya hiya_）确实先于其存在。事物的本质，作为本质本身，处于一种不同的第三种存在状态，既非存在也非不存在（_Mabāḥith_，卷1，129）。当然，这并不意味着在红苹果变得存在之前，就有红苹果的本质存在。就像伊本·西那（Ibn Sīnā）一样，法赫尔丁·拉齐（Fakhr al-Dīn）认同本质和存在在外延上是相同的：所有的本质实例也是存在的实例（Wisnovsky 2012）。但是，法赫尔丁·拉齐通过引入本质优先于存在的明确观点，对亚维中派的区分提出了现实主义的看法；对于这是否忠实于伊本·西那自己的形而上学，近期的解释者存在分歧（Bertolacci 2012，Benevich 2019b，Janos 2020）。
 
-法赫尔丁·拉齐始终使用他关于本质优先于存在的理论来讨论伊本·西那认为是一个特殊情况的上帝。在法赫尔丁·拉齐的理解中，对于伊本·西那来说，上帝的本质就是与他的存在完全相同的。对于伊本·西那来说，这将是确保上帝必然存在的唯一方式。因为，如果*A*和*B*有任何组合，*A*可能不是*B*，*B*可能无法附着在*A*上；需要进一步的原因来保证两者之间的联系。因此，确保*A*必然是*B*的唯一方法就是说*A*就是*B*。这意味着上帝的本质甚至在概念上与上帝的存在都没有区别。然而，这个教义存在一个明显的问题。如果上帝的本质就是纯粹的存在，但存在也属于例如一个红苹果，那么红苹果的存在与神圣本质有何不同？伊本·西那的回答依赖于存在的类比或调节（*taskīk*）的概念，其中一种存在属于红苹果，另一种存在属于或者更确切地说，就是上帝（Treiger 2012，De Haan 2015，Druart 2014，Zamboni 2020，Janos 2021）。但是，法赫尔丁·拉齐，再次像将近一个世纪后的邓斯·斯科特一样，拒绝采取这种方式。相反，他坚持存在的单一性。一切存在的方式都是相同的。因此，法赫尔丁·拉齐也被迫否认上帝的本质和存在的一致性。上帝的存在仍然是必然的，因为他的本质意味着自己的存在。所以在上帝的本质优先于存在。这种优先性不应该困扰我们，或者确实让我们感到惊讶，因为我们刚刚学到*所有*本质都优先于它们的存在。总之，上帝的特殊之处在于他的本质，而不是一种独特的存在方式（*Muḥaṣṣal*，67；进一步参见Mayer 2003，Benevich 2020a）。
+法赫尔丁·拉齐始终使用他关于本质优先于存在的理论来讨论伊本·西那认为是一个特殊情况的上帝。在法赫尔丁·拉齐的理解中，对于伊本·西那来说，上帝的本质就是与他的存在完全相同的。对于伊本·西那来说，这将是确保上帝必然存在的唯一方式。因为，如果_A_和_B_有任何组合，_A_可能不是_B_，_B_可能无法附着在_A_上；需要进一步的原因来保证两者之间的联系。因此，确保_A_必然是_B_的唯一方法就是说_A_就是_B_。这意味着上帝的本质甚至在概念上与上帝的存在都没有区别。然而，这个教义存在一个明显的问题。如果上帝的本质就是纯粹的存在，但存在也属于例如一个红苹果，那么红苹果的存在与神圣本质有何不同？伊本·西那的回答依赖于存在的类比或调节（_taskīk_）的概念，其中一种存在属于红苹果，另一种存在属于或者更确切地说，就是上帝（Treiger 2012，De Haan 2015，Druart 2014，Zamboni 2020，Janos 2021）。但是，法赫尔丁·拉齐，再次像将近一个世纪后的邓斯·斯科特一样，拒绝采取这种方式。相反，他坚持存在的单一性。一切存在的方式都是相同的。因此，法赫尔丁·拉齐也被迫否认上帝的本质和存在的一致性。上帝的存在仍然是必然的，因为他的本质意味着自己的存在。所以在上帝的本质优先于存在。这种优先性不应该困扰我们，或者确实让我们感到惊讶，因为我们刚刚学到_所有_本质都优先于它们的存在。总之，上帝的特殊之处在于他的本质，而不是一种独特的存在方式（_Muḥaṣṣal_，67；进一步参见Mayer 2003，Benevich 2020a）。
 
-法赫尔丁·拉齐对形而上学历史的贡献不仅让人想起邓斯·斯科特，还有托马斯·阿奎那。像阿奎那一样，他提供了一种对上帝存在的证明的分类法，在他之后成为伊斯兰世界哲学中的标准。法赫尔丁·拉齐在他的时代区分了四种对上帝存在的主要证明：从本质的偶然性；从本质的时间起源（*ḥudūth*）；从属性的偶然性；以及从属性的时间起源。第一个论证可以很容易地与伊本·西那对上帝存在的证明相对应，通过推理世界上所有存在的偶然性来证明必然存在的存在者的存在（Marmura 1980；Mayer 2001；Zarepour 2022）。第二个论证是*kalām*宇宙学论证。它根据世界在某个时刻开始存在的事实来论证存在一个创造者的存在。第三个论证，从属性的偶然性，暗示了世界上的一切存在以某种方式存在，而它本可以很容易地是另一种方式。因此，需要有某种决定事物如何存在的因素。最后，第四个论证最接近我们所称之为设计论的内容。世界上事物的属性不仅在可以是不同的方式时是一种方式，而且是以最好的方式存在的。因此，必须有一个明智的代理人为世界选择了这些奇妙的特征。法赫尔丁·拉齐认为，第一个论证，即伊本·西那对必然存在的存在者的论证，比其他所有论证更为基本（*Maʿālim*，42）。
+法赫尔丁·拉齐对形而上学历史的贡献不仅让人想起邓斯·斯科特，还有托马斯·阿奎那。像阿奎那一样，他提供了一种对上帝存在的证明的分类法，在他之后成为伊斯兰世界哲学中的标准。法赫尔丁·拉齐在他的时代区分了四种对上帝存在的主要证明：从本质的偶然性；从本质的时间起源（_ḥudūth_）；从属性的偶然性；以及从属性的时间起源。第一个论证可以很容易地与伊本·西那对上帝存在的证明相对应，通过推理世界上所有存在的偶然性来证明必然存在的存在者的存在（Marmura 1980；Mayer 2001；Zarepour 2022）。第二个论证是_kalām_宇宙学论证。它根据世界在某个时刻开始存在的事实来论证存在一个创造者的存在。第三个论证，从属性的偶然性，暗示了世界上的一切存在以某种方式存在，而它本可以很容易地是另一种方式。因此，需要有某种决定事物如何存在的因素。最后，第四个论证最接近我们所称之为设计论的内容。世界上事物的属性不仅在可以是不同的方式时是一种方式，而且是以最好的方式存在的。因此，必须有一个明智的代理人为世界选择了这些奇妙的特征。法赫尔丁·拉齐认为，第一个论证，即伊本·西那对必然存在的存在者的论证，比其他所有论证更为基本（_Maʿālim_，42）。
 
 所以，虽然法赫尔丁·拉齐不同意伊本·西那关于上帝的本质和存在是否相同的观点，但他确实接受上帝是必然存在的。然而，可能由于他对伊斯兰神学的忠诚，他不愿意接受上帝在所有方面都是必然存在的观点。例如，伊本·西那的上帝无法知道特定的个体。如果上帝知道你在阅读这篇文章，那么他需要改变，因为他需要在你转到下一句时停止知道你正在阅读这句话。但是，如果上帝改变了，那么他在所有方面都不是必然存在的，因为必然性意味着不变性。因此，上帝了解世界发生的事情的唯一方法是构想普遍规律、自然法则和因果关系，而不知道这些规则中的哪些正在起作用（Marmura 2005，Adamson 2005；参见Acar 2004和Nusseibeh 2009）。法赫尔丁·拉齐拒绝了阿布·巴拉卡特和阿尔·加扎利的这种推理方式，理由是上帝知识的变化仅仅是相对的（《阿尔巴伊因》第1卷，198页）。想象一下你站在原地，有东西从右边经过你到左边；在这种情况下，你并没有改变，但你与那个移动的东西的关系确实改变了。现在，我们需要想象同样的情况发生在上帝的知识上：它经过上帝，上帝观察它，而上帝本质上并没有改变。
 
 这种关于神知识的描述需要对知识和认知有非常具体的理解。法赫尔丁·拉齐再次遵循阿布·巴拉卡特和阿尔·加扎利的观点，将认知定义为一种关系状态（ḥāla iḍāfiyya）。法赫尔丁·拉齐将这一理论与当时普遍归因于伊本·西那的认知表象论相对立起来。
 
-感知不仅仅是产生印象。事实上，它是一种关系连接状态。因为我们明显知道我们看到了扎伊德，因为我们的视觉能力与他有一定的关系。任何声称所看到的对象不是扎伊德的人，他在外部存在且根本没有被看到，而所看到的对象实际上是他的表象（*miṯāl*）和相似物（*šabaḥ*）的人，已经对必要知识的最重要和最强大的要素产生了怀疑（《Šarḥ al-Išārāt》第2卷，233页）。
+感知不仅仅是产生印象。事实上，它是一种关系连接状态。因为我们明显知道我们看到了扎伊德，因为我们的视觉能力与他有一定的关系。任何声称所看到的对象不是扎伊德的人，他在外部存在且根本没有被看到，而所看到的对象实际上是他的表象（_miṯāl_）和相似物（_šabaḥ_）的人，已经对必要知识的最重要和最强大的要素产生了怀疑（《Šarḥ al-Išārāt》第2卷，233页）。
 
 根据再现主义，认知涉及认知对象在认知对象中的内在性。例如，当我想到一个红苹果时，红苹果的概念必须“印在”我的脑海中。对于法赫尔丁来说，认知是认知主体与认知对象本身之间的直接关系，也就是红苹果本身。如果有任何表象存在的话，它们并不是认知的对象（Benevich 2019a, 2020b; Griffel 2021: 341–84）。
 
-有人可能会想知道这个理论如何解释对不存在对象的认知。当我想到凤凰或者方圆时，我的思维与什么相关呢？伊本·西那提出了心理存在的概念来回应这种问题。凤凰可能在思维之外不存在，但在我思考它的时候，它存在于我的思维中，并在我的思维中留下印记（Black 1997）。正如法赫尔丁·拉齐拒绝了认知的再现论理论，他一贯反对亚维森纳的心理存在概念（*wujūd dhihnī*）。对他来说，当我思考不存在的存在时，我只是在思考构成这些存在的元素，并且这些元素在世界中是可观察的。例如，思考方圆意味着将方形和圆形视为结合在一起（Benevich 2018；关于“未知悖论”相关问题，请参见Lameer 2014）。
+有人可能会想知道这个理论如何解释对不存在对象的认知。当我想到凤凰或者方圆时，我的思维与什么相关呢？伊本·西那提出了心理存在的概念来回应这种问题。凤凰可能在思维之外不存在，但在我思考它的时候，它存在于我的思维中，并在我的思维中留下印记（Black 1997）。正如法赫尔丁·拉齐拒绝了认知的再现论理论，他一贯反对亚维森纳的心理存在概念（_wujūd dhihnī_）。对他来说，当我思考不存在的存在时，我只是在思考构成这些存在的元素，并且这些元素在世界中是可观察的。例如，思考方圆意味着将方形和圆形视为结合在一起（Benevich 2018；关于“未知悖论”相关问题，请参见Lameer 2014）。
 
-有了这种认知关系理论，法赫尔丁能够解决上帝如何了解变化事物的难题。认知的对象是认知主体外部的，因此这些对象的变化以及随之而来的认知过程的变化并不涉及认知主体的任何变化。因此，我们可以说上帝是一个必然存在的存在，但在某些方面并非必然存在，因为他对当前事件的关系认知不断发生变化。然而，这并不意味着上帝的本质发生了变化。此外，我们已经看到伊本·西那认为上帝具有普遍因果规律和自然法则的知识。法赫尔丁认为，正是伊本·西那归因于上帝的这种知识，即普遍规则和因果关系的知识，导致了他在事件发生时对世界上每一个事件的了解（*Maṭālib*，卷3，163-164）。
+有了这种认知关系理论，法赫尔丁能够解决上帝如何了解变化事物的难题。认知的对象是认知主体外部的，因此这些对象的变化以及随之而来的认知过程的变化并不涉及认知主体的任何变化。因此，我们可以说上帝是一个必然存在的存在，但在某些方面并非必然存在，因为他对当前事件的关系认知不断发生变化。然而，这并不意味着上帝的本质发生了变化。此外，我们已经看到伊本·西那认为上帝具有普遍因果规律和自然法则的知识。法赫尔丁认为，正是伊本·西那归因于上帝的这种知识，即普遍规则和因果关系的知识，导致了他在事件发生时对世界上每一个事件的了解（_Maṭālib_，卷3，163-164）。
 
 法赫尔丁·拉齐在这里的推理假设了世界的严格决定论解释。每个事件都有一个因果解释，上帝知道它。事实上，法赫尔丁·拉齐愿意完全接受决定论。例如，关于人类行为，他认为它们是由我们的动机、信念和能力的组合决定的。我们对这些都没有控制权（正如我们在第1节中看到的，法赫尔丁·拉齐坚持认为我们的信念不取决于我们）；因此，我们对自己的行为也没有任何控制权（《马塔利布》第9卷，35-43页）。法赫尔丁·拉齐的决定论有两个重要前提，都借鉴自伊本·西那。一是对于存在但本可以不存在的一切事物，必须有一个存在的原因；这被认为是“占优势”，使事物存在而不是不存在。第二，当存在这个原因时，现象必然发生。因此，在我们的能力和动机存在的情况下，我们别无选择，只能行动，并且是必然的（《马塔利布》第9卷，21-23页；《马巴西斯》第2卷，517页；关于拉齐的行动理论，详见Shihadeh 2006年）。
 
-亚里士多德心理学的一个基本假设是，所有生物的灵魂都具有一系列的“力量”或“能力”（希腊语*dunameis*，阿拉伯语*quwan*）。这些力量解释了植物、动物和人类之间的区别：植物具有营养、生长和繁殖的“植物性”力量；动物具有感知、运动和想象的力量；人类（在有身体的生物中）独有理性或智力的力量。伊本·西那对这一体系进行了重大改变，尤其是引入了“内部感觉”的理论，以解释介于感知和完全的理性之间的认知能力。但总体而言，他仍坚持能力心理学的传统。法赫尔丁的同时代人阿布·巴拉卡特·巴格达迪则拒绝了这种整体方法。对他来说，灵魂是一个统一体，是所有认知的单一主体（Kaukua 2016）。
+亚里士多德心理学的一个基本假设是，所有生物的灵魂都具有一系列的“力量”或“能力”（希腊语_dunameis_，阿拉伯语_quwan_）。这些力量解释了植物、动物和人类之间的区别：植物具有营养、生长和繁殖的“植物性”力量；动物具有感知、运动和想象的力量；人类（在有身体的生物中）独有理性或智力的力量。伊本·西那对这一体系进行了重大改变，尤其是引入了“内部感觉”的理论，以解释介于感知和完全的理性之间的认知能力。但总体而言，他仍坚持能力心理学的传统。法赫尔丁的同时代人阿布·巴拉卡特·巴格达迪则拒绝了这种整体方法。对他来说，灵魂是一个统一体，是所有认知的单一主体（Kaukua 2016）。
 
 法赫尔丁同意这一观点，并在他的几部作品中提出了旨在证实阿布·巴拉卡特的论点的论证。其中最有力的论证是，灵魂能够进行我们可以称之为“混合判断”的能力。这些判断是基于亚里士多德已经考虑过的一种情况，即蜂蜜既是白色又是甜的：在这里，视觉和味觉似乎在对同一对象进行判断，这表明它们属于一个单一的主体，可能是整个灵魂。然而，正是由于亚里士多德对能力心理学的承诺，他引入了灵魂内部的一种新力量（“共同感觉”）来负责涉及多个感官模态的判断。或者至少，这是后来的传统对他的理解。
 
@@ -117,21 +117,21 @@
 
 这并没有阻止法赫尔丁使用伊本·西那的方法来证明人的灵魂是一种非物质的实体（Adamson 2021b，Alpina 2021）。伊本·西那的证明从理性灵魂的对象的本质推断出其本质：由于它能够理解不可分割的可理解形式，它本身必须是不可分割的，因此不是一个物体。在这种情况下，法赫尔丁选择不反驳阿维森纳的论证线路，而是改进它，通过添加进一步的论证来显示可理解形式确实是不可分割的（《Mabāḥith》卷2，362-5，还有《Sharḥ》卷2，285-8）。他仍然担心这个论证是不完整的：理性灵魂可能是不可分割的，但如果它是一个原子，那么它就不是非物质的（《Maṭālib》卷7，62），因此论证的有效性将取决于证明原子论是不连贯的（见上文第3节）。即使我们拒绝原子论，阿维森纳的原始物质也可以说是不可分割的（《Sharḥ》卷2，295）。尽管如此，法赫尔丁似乎至少对灵魂能够理解可理解形式从而证明其非物质性持有良好的态度。
 
-由于这种能力属于整个统一的灵魂，而不仅仅是一个可以独立存在的“能力”，因此这应该确保人类灵魂的非物质性，从而使其具有不朽的前景。当他谈到人类灵魂的本质时，他有时说它是一种与身体融合的发光物质，就像玫瑰花瓣中的玫瑰水或芝麻中的油一样，这似乎使它成为一种非常微妙的身体，但他说，并不像那些可以被感官感知的身体（有关段落请参见贾弗尔2015年：192）。但在其他情况下，法赫尔丁·拉齐似乎准备接受完全的物质二元论。为了得出这个结论，他通常使用基于内省的论证，例如他对伊本·西那的“飞行人”论证的版本，或者对个人身份随时间的直接意识（参见，例如，*Maṭālib*，第7卷，101；105）。
+由于这种能力属于整个统一的灵魂，而不仅仅是一个可以独立存在的“能力”，因此这应该确保人类灵魂的非物质性，从而使其具有不朽的前景。当他谈到人类灵魂的本质时，他有时说它是一种与身体融合的发光物质，就像玫瑰花瓣中的玫瑰水或芝麻中的油一样，这似乎使它成为一种非常微妙的身体，但他说，并不像那些可以被感官感知的身体（有关段落请参见贾弗尔2015年：192）。但在其他情况下，法赫尔丁·拉齐似乎准备接受完全的物质二元论。为了得出这个结论，他通常使用基于内省的论证，例如他对伊本·西那的“飞行人”论证的版本，或者对个人身份随时间的直接意识（参见，例如，_Maṭālib_，第7卷，101；105）。
 
-那么动物的灵魂呢？到目前为止提出的论点明显模糊了伊本·西那和其他*法拉斯法*之间对人类和动物灵魂之间的明显区别。但法赫尔丁·拉齐更进一步。在他的《Mulakhkhaṣ》和《Maṭālib》中，他提出非人类动物具有与人类理性不同的智慧（Adamson＆Somma即将出版，Virgi 2022）。动物具有自我意识，知道它们通过时间持续存在，理解普遍规律，并能制定计划和解决问题。这并不意味着动物在智力上与人类相等。相反，认知能力可能存在一个连续体，一些动物离人类更远，而另一些动物离人类更近。但
+那么动物的灵魂呢？到目前为止提出的论点明显模糊了伊本·西那和其他_法拉斯法_之间对人类和动物灵魂之间的明显区别。但法赫尔丁·拉齐更进一步。在他的《Mulakhkhaṣ》和《Maṭālib》中，他提出非人类动物具有与人类理性不同的智慧（Adamson＆Somma即将出版，Virgi 2022）。动物具有自我意识，知道它们通过时间持续存在，理解普遍规律，并能制定计划和解决问题。这并不意味着动物在智力上与人类相等。相反，认知能力可能存在一个连续体，一些动物离人类更远，而另一些动物离人类更近。但
 
-如果“理性”所指的是任何类型的智能，那么这种智能应该归属于[非人类]动物。（《马塔利布》第7卷，311页）
+如果“理性”所指的是任何类型的智能，那么这种智能应该归属于\[非人类]动物。（《马塔利布》第7卷，311页）
 
 他可能认为这个观点在某种程度上是可信的，因为他再次遵循阿布·巴拉卡特的观点，他接受即使在人类“物种”内部，我们也有区别于本质的差异（《马塔利布》第7卷，141页）。因此，从这个观点来看，几乎没有理由去接受人类和非人类动物之间的鲜明对立。
 
 ## 6. 伦理学
 
-其中一段表达这一观点的文字可以在他的《论灵魂与精神之书》（*Kitāb al-Nafs wa-l-rūḥ* 86–7）中找到：人类在性格特征上的差异如此之大，以至于人们可能怀疑他们并不共享相同的本质。这体现了这本独立论文的方法，即对伦理学和灵魂进行联合研究。其中一个主题是改善我们的“性格特征（*akhlāq*）”。这并不令人意外：阿拉伯道德思维中这个概念的核心地位是如此之高，以至于伦理学本身被称为*ʿilm al-akhlāq*（字面意思是“性格特征的科学”）。在法赫尔丁之前的哲学家，如米斯卡威赫（Miskawayh，1040年去世）和亚希亚·伊本·阿迪（Yaḥyā Ibn ʿAdī，974年去世），以及在他之后的哲学家，如纳西尔·丁·图西（Naṣīr al-Dīn al-Ṭūsī，1274年去世），都将性格特征放在他们关于伦理学的著作的主题焦点和标题中。这些著作是广泛的亚里士多德式的德行伦理学传统的一部分，鼓励读者追求卓越而不是卑劣的性格。伊本·西那（Ibn Sīnā）也为这一传统做出了贡献，比如他的两部短篇作品《论伦理学》（再次，*Fī l-ʿilm al-akhāq*）和《论治理》（*Fī l-Siyāsa*；关于伊本·西那对后来实践哲学的影响，请参见Kaya 2014）。
+其中一段表达这一观点的文字可以在他的《论灵魂与精神之书》（_Kitāb al-Nafs wa-l-rūḥ_ 86–7）中找到：人类在性格特征上的差异如此之大，以至于人们可能怀疑他们并不共享相同的本质。这体现了这本独立论文的方法，即对伦理学和灵魂进行联合研究。其中一个主题是改善我们的“性格特征（_akhlāq_）”。这并不令人意外：阿拉伯道德思维中这个概念的核心地位是如此之高，以至于伦理学本身被称为_ʿilm al-akhlāq_（字面意思是“性格特征的科学”）。在法赫尔丁之前的哲学家，如米斯卡威赫（Miskawayh，1040年去世）和亚希亚·伊本·阿迪（Yaḥyā Ibn ʿAdī，974年去世），以及在他之后的哲学家，如纳西尔·丁·图西（Naṣīr al-Dīn al-Ṭūsī，1274年去世），都将性格特征放在他们关于伦理学的著作的主题焦点和标题中。这些著作是广泛的亚里士多德式的德行伦理学传统的一部分，鼓励读者追求卓越而不是卑劣的性格。伊本·西那（Ibn Sīnā）也为这一传统做出了贡献，比如他的两部短篇作品《论伦理学》（再次，_Fī l-ʿilm al-akhāq_）和《论治理》（_Fī l-Siyāsa_；关于伊本·西那对后来实践哲学的影响，请参见Kaya 2014）。
 
-法赫尔丁·拉齐当然意识到了这种伦理学方法，并对美德的主题产生了兴趣（al-Shaar 2012）。但他并不是亚里士多德主义者。从历史上看，我们可以说他更多地回应了*卡拉姆*伦理学；从哲学上看，我们可以说他是一位后果论者，而不是美德论者（关于这一点，必读的是Shihadeh 2006；还可以参考他的2016年作品）。首先从历史的角度来看，作为一位阿什阿里派，他坚持现在被称为“神命令理论”的观点。也就是说，正确的行为是上帝所命令的，错误的行为是被禁止的。阿什阿里派的立场是对穆塔齐拉派立场的批判，穆塔齐拉派认为某些类型的行为是错误的，不需要依赖启示，例如说谎。我们总是可以想象出某些情况下，“本质上错误”的行为类型最终被证明是正确的，比如对暴君撒谎以避免背叛先知（*阿尔巴伊因*第一卷，348页）。因此，这种穆塔齐拉派的理论是站不住脚的。
+法赫尔丁·拉齐当然意识到了这种伦理学方法，并对美德的主题产生了兴趣（al-Shaar 2012）。但他并不是亚里士多德主义者。从历史上看，我们可以说他更多地回应了_卡拉姆_伦理学；从哲学上看，我们可以说他是一位后果论者，而不是美德论者（关于这一点，必读的是Shihadeh 2006；还可以参考他的2016年作品）。首先从历史的角度来看，作为一位阿什阿里派，他坚持现在被称为“神命令理论”的观点。也就是说，正确的行为是上帝所命令的，错误的行为是被禁止的。阿什阿里派的立场是对穆塔齐拉派立场的批判，穆塔齐拉派认为某些类型的行为是错误的，不需要依赖启示，例如说谎。我们总是可以想象出某些情况下，“本质上错误”的行为类型最终被证明是正确的，比如对暴君撒谎以避免背叛先知（_阿尔巴伊因_第一卷，348页）。因此，这种穆塔齐拉派的理论是站不住脚的。
 
-法赫尔丁·拉齐早期的作品支持了一种直接的神命令理论。但他将这一理论与享乐主义和后果论伦理学相结合，认为快乐对人类有益，痛苦对人类有害。为了避免规范解释的无限循环，必须有一些基本规范，在法赫尔丁·拉齐看来，享乐主义提供了这一规范。享乐主义与阿什阿里派伦理学的联系在于，如果我们遵循上帝的命令，上帝向我们承诺快乐；如果我们不遵循，就会受到痛苦。因此，神命令理论在以自我为中心、后果论的基础上得到了证明（Shihadeh 2016: 66）。这也为在没有神命令的情况下确定我们应该做什么提供了可能性：无论对于个体来说，什么是“有益的”，换句话说，就是最大化快乐。由于快乐现在在他的伦理学理论中如此核心，他对其本质进行了重要的探讨，驳斥了最初的柏拉图式的“恢复理论”，即所有的快乐都是从有害或痛苦的状态中恢复到自然状态（*沙尔赫*第二卷，552-4页）。这种分析可能适用于食物或性的基本快乐，但对于像获取知识这样的更高级的快乐则不适用（参见他的《谴责这个世界的快乐》一文，收录于Shihadeh 2016）。
+法赫尔丁·拉齐早期的作品支持了一种直接的神命令理论。但他将这一理论与享乐主义和后果论伦理学相结合，认为快乐对人类有益，痛苦对人类有害。为了避免规范解释的无限循环，必须有一些基本规范，在法赫尔丁·拉齐看来，享乐主义提供了这一规范。享乐主义与阿什阿里派伦理学的联系在于，如果我们遵循上帝的命令，上帝向我们承诺快乐；如果我们不遵循，就会受到痛苦。因此，神命令理论在以自我为中心、后果论的基础上得到了证明（Shihadeh 2016: 66）。这也为在没有神命令的情况下确定我们应该做什么提供了可能性：无论对于个体来说，什么是“有益的”，换句话说，就是最大化快乐。由于快乐现在在他的伦理学理论中如此核心，他对其本质进行了重要的探讨，驳斥了最初的柏拉图式的“恢复理论”，即所有的快乐都是从有害或痛苦的状态中恢复到自然状态（_沙尔赫_第二卷，552-4页）。这种分析可能适用于食物或性的基本快乐，但对于像获取知识这样的更高级的快乐则不适用（参见他的《谴责这个世界的快乐》一文，收录于Shihadeh 2016）。
 
 如果我们再次以他的晚期作品《Maṭālib》作为法赫尔丁最终哲学观点的最佳证据，那么我们可以推断他对后果主义的承诺仍然存在。典型地，他列举了反对自己立场的论点，并逐一驳斥它们（《Maṭālib》第3卷，66-9页）。例如，你可能会在一个无人陪伴的荒地上遇到一个生病的人，并帮助他们。你从中得到了什么快乐？似乎没有，然而你仍然会并且应该这样做。法赫尔丁解释说，你这样做是基于这样一个原则，即如果你处于不幸的人的同样境地，你希望以同样的方式被对待。这不是对某种康德式的范畴命令的呼吁，而更像是我们现在所称的“规则功利主义”。也就是说，我们应该以这样的方式行事，如果人们普遍都像这样行事，快乐将被最大化，痛苦将被最小化（有关类似解释，请参见Shihadeh 2016: 80，他强调这种动机“既不是利他主义的，也不是基于责任感...而是一种以自我为中心的、谨慎的动机”）。
 
@@ -141,147 +141,147 @@
 
 For a full bibliography see:
 
-* Janos, Damien and Muhammad Fariduddin Attar, 2023, *A Comprehensive, Annotated, and Indexed Bibliography of the Modern Scholarship on Fakhr al-Dīn al-Rāzī*, (Handbook of Oriental Studies. Section 1 the Near and Middle East, 171), Leiden/Boston: Brill.
+* Janos, Damien and Muhammad Fariduddin Attar, 2023, _A Comprehensive, Annotated, and Indexed Bibliography of the Modern Scholarship on Fakhr al-Dīn al-Rāzī_, (Handbook of Oriental Studies. Section 1 the Near and Middle East, 171), Leiden/Boston: Brill.
 
 ### Primary literature
 
-* Ibn Sīnā [Avicenna], *al-Ishārāt wa-l-tanbīhāt*, Mujtabā l-Zārʿī (ed.), Qom: Bustān-i Kitāb, 2008.
-* Plato, *Meno*, in John Burnet (ed.) *Platonis opera*, vol. 3, Oxford: Clarendon Press, 1903.
-* al-Rāzī, Fakhr al-Dīn, *al-Arbaʿīn fī uṣūl al-dīn*, Aḥmad Ḥigjāzī al-Saqqā (ed.), 2 volumes, Cairo: Maktabat al-kullīyāt al-azharīya, 1986.
-* –––, *al-Maʿālim*, in *Asʾila Naǧm al-Dīn al-Kātibī ʿan al-Maʿālim li-Fakhr al-Dīn al-Rāzī maʿa taʿālīq ʿIzz al-Dawla b. Kammūna*, Sabine Schmidtke and Reza Pourjavadi (eds.), Tehran: Iranian Institute of Philosophy & Institute of Islamic Studies, Free University of Berlin, 2007.
-* –––, *al-Mabāḥith al-mashriqiyya fī ʿilm al-ilāhiyyāt wa-l-ṭabīʿiyyāt*, Muḥammad al-Muʿtaṣim bi-llāh al-Baghdādī (ed.), 2 vols, Beirut: Dār al-kitāb al-ʿarabī, 1990.
-* –––, *al-Maṭālib al-ʿāliya min al-ʿilm al-ilāhī*, ed. Aḥmad Ḥijāzī al-Saqqā (ed.), 9 vols, Beirut: Dār al-kitāb al-ʿarabī, 1987.
-* –––, *Muḥaṣṣal afkār al-mutaqaddimīn wa-l-mutaʾakhkhirīn min al-ʿulamāʾ wa-l-ḥukamāʾ wa-l-mutakallimīn*, Ḥusayn Atay (ed.), Cairo: al-Maktaba al-azhariyya li-l-turāth, 1991.
-* –––, *al-Mulakhkhaṣ: al-Manṭiq*, A. Qarāmalkī and A. Ashgarīnizhād (eds.), Tehran: Dānišgāh-i Imām Ṣādiq, 2003.
-* –––, *Al-nafs wa-l-rūḥ*, Muhammad Ṣaghīr Ḥasan al-Maʿṣūmī (ed.), Tehran, 1970.
-* –––, *Sharḥ al-Ishārāt wa-l-tanbīhāt*, ʿAlī Reża Najafzādah (ed.), 2 vols, Tehran: Anjuman-i sār va-Mafākhir-i Farhangī, 2004-6.
+* Ibn Sīnā \[Avicenna], _al-Ishārāt wa-l-tanbīhāt_, Mujtabā l-Zārʿī (ed.), Qom: Bustān-i Kitāb, 2008.
+* Plato, _Meno_, in John Burnet (ed.) _Platonis opera_, vol. 3, Oxford: Clarendon Press, 1903.
+* al-Rāzī, Fakhr al-Dīn, _al-Arbaʿīn fī uṣūl al-dīn_, Aḥmad Ḥigjāzī al-Saqqā (ed.), 2 volumes, Cairo: Maktabat al-kullīyāt al-azharīya, 1986.
+* –––, _al-Maʿālim_, in _Asʾila Naǧm al-Dīn al-Kātibī ʿan al-Maʿālim li-Fakhr al-Dīn al-Rāzī maʿa taʿālīq ʿIzz al-Dawla b. Kammūna_, Sabine Schmidtke and Reza Pourjavadi (eds.), Tehran: Iranian Institute of Philosophy & Institute of Islamic Studies, Free University of Berlin, 2007.
+* –––, _al-Mabāḥith al-mashriqiyya fī ʿilm al-ilāhiyyāt wa-l-ṭabīʿiyyāt_, Muḥammad al-Muʿtaṣim bi-llāh al-Baghdādī (ed.), 2 vols, Beirut: Dār al-kitāb al-ʿarabī, 1990.
+* –––, _al-Maṭālib al-ʿāliya min al-ʿilm al-ilāhī_, ed. Aḥmad Ḥijāzī al-Saqqā (ed.), 9 vols, Beirut: Dār al-kitāb al-ʿarabī, 1987.
+* –––, _Muḥaṣṣal afkār al-mutaqaddimīn wa-l-mutaʾakhkhirīn min al-ʿulamāʾ wa-l-ḥukamāʾ wa-l-mutakallimīn_, Ḥusayn Atay (ed.), Cairo: al-Maktaba al-azhariyya li-l-turāth, 1991.
+* –––, _al-Mulakhkhaṣ: al-Manṭiq_, A. Qarāmalkī and A. Ashgarīnizhād (eds.), Tehran: Dānišgāh-i Imām Ṣādiq, 2003.
+* –––, _Al-nafs wa-l-rūḥ_, Muhammad Ṣaghīr Ḥasan al-Maʿṣūmī (ed.), Tehran, 1970.
+* –––, _Sharḥ al-Ishārāt wa-l-tanbīhāt_, ʿAlī Reża Najafzādah (ed.), 2 vols, Tehran: Anjuman-i sār va-Mafākhir-i Farhangī, 2004-6.
 
 ### Secondary literature
 
-* ʿAbd al-Mutaʿāl, ʿA.D.M., 2003, *Taṣawwur Ibn Sīnā li-l-zamān wa-uṣūluhū al-yūnānīya*, Alexandria: Dār al-wafāʾ li-dunyā l-ṭibāʿa wa-l-našr.
-* Abrahamov, Binyamin, 1992, “Fakhr Al-Dīn al-Rāzī on God’s Knowledge of the Particulars”, *Oriens*, 33: 133–155. doi:10.1163/1877837292X00051
-* –––, 1993, “Necessary Knowledge in Islamic Theology”, *British Journal of Middle Eastern Studies*, 20(1): 20–32.
-* Acar, Rahim, 2004, “Reconsidering Avicenna’s Position on God’s Knowledge of Particulars”, in *Interpreting Avicenna: Science and Philosophy in Medieval Islam*, Jon McGinnis and David C. Reisman (eds), Leiden: Brill, 142–156. doi:10.1163/9789047405818_011
-* Adamson, Peter, 2005, “On Knowledge of Particulars”, *Proceedings of the Aristotelian Society*, 105(1): 257–278. doi:10.1111/j.0066-7373.2004.00114.x
+* ʿAbd al-Mutaʿāl, ʿA.D.M., 2003, _Taṣawwur Ibn Sīnā li-l-zamān wa-uṣūluhū al-yūnānīya_, Alexandria: Dār al-wafāʾ li-dunyā l-ṭibāʿa wa-l-našr.
+* Abrahamov, Binyamin, 1992, “Fakhr Al-Dīn al-Rāzī on God’s Knowledge of the Particulars”, _Oriens_, 33: 133–155. doi:10.1163/1877837292X00051
+* –––, 1993, “Necessary Knowledge in Islamic Theology”, _British Journal of Middle Eastern Studies_, 20(1): 20–32.
+* Acar, Rahim, 2004, “Reconsidering Avicenna’s Position on God’s Knowledge of Particulars”, in _Interpreting Avicenna: Science and Philosophy in Medieval Islam_, Jon McGinnis and David C. Reisman (eds), Leiden: Brill, 142–156. doi:10.1163/9789047405818\_011
+* Adamson, Peter, 2005, “On Knowledge of Particulars”, _Proceedings of the Aristotelian Society_, 105(1): 257–278. doi:10.1111/j.0066-7373.2004.00114.x
 * –––, 2011a, “Avicenna and his Commentators on Self-Intellective Substances”, in Hasse and Bertolacci 2011: 97–122.
-* ––– (ed.), 2011b, *In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century*, (Warburg Institute Colloquia 16), London: Warburg Institute, School of Advanced Study, University of London.
-* –––, 2017, “Fakhr Al-Dīn al-Rāzī on Place”, *Arabic Sciences and Philosophy*, 27(2): 205–236. doi:10.1017/S0957423917000029
-* –––, 2018a, “Fakhr al-Dīn al-Rāzī on Void”, in *Islamic Philosophy from the 12*​*^th^* *to the 14*​*^th^* *Century*, Abdelkader Al Ghouz (ed.), Bonn: Bonn University Press, 307–324.
-* –––, 2018b, “The Existence of Time in Fakhr Al-Dīn al-Rāzī’s *Maṭālib al-ʿāliya*”, in *The Arabic, Hebrew, and Latin Reception of Avicenna’s Physics and Cosmology*, Dag Nikolaus Hasse and Amos Bertolacci (eds.), (Scientia Graeco-Arabica 23), Boston: De Gruyter, 65–99. doi:10.1515/9781614516972
-* –––, 2018c, “The Simplicity of Self-Knowledge after Avicenna”, *Arabic Sciences and Philosophy*, 28(2): 257–277. doi:10.1017/S0957423918000048
-* –––, 2021a, *Al-Rāzī*, (Great Medieval Thinkers), New York: Oxford University Press. doi:10.1093/oso/9780197555033.001.0001 [Note: this book concerns Abū Bakr al-Rāzī, not Fakhr al-Dīn al-Rāzī, but the latter is often mentioned as a source for the former.]
-* –––, 2021b, “From Known to Knower: Affinity Arguments for the Mind’s Incorporeality in the Islamic World”, in *Oxford Studies in Philosophy of Mind, Volume 1*, Uriah Kriegel (ed.), Oxford: Oxford University Press, 373–396. doi:10.1093/oso/9780198845850.003.0013
+* ––– (ed.), 2011b, _In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century_, (Warburg Institute Colloquia 16), London: Warburg Institute, School of Advanced Study, University of London.
+* –––, 2017, “Fakhr Al-Dīn al-Rāzī on Place”, _Arabic Sciences and Philosophy_, 27(2): 205–236. doi:10.1017/S0957423917000029
+* –––, 2018a, “Fakhr al-Dīn al-Rāzī on Void”, in _Islamic Philosophy from the 12_​\*^th^\* _to the 14_​\*^th^\* _Century_, Abdelkader Al Ghouz (ed.), Bonn: Bonn University Press, 307–324.
+* –––, 2018b, “The Existence of Time in Fakhr Al-Dīn al-Rāzī’s _Maṭālib al-ʿāliya_”, in _The Arabic, Hebrew, and Latin Reception of Avicenna’s Physics and Cosmology_, Dag Nikolaus Hasse and Amos Bertolacci (eds.), (Scientia Graeco-Arabica 23), Boston: De Gruyter, 65–99. doi:10.1515/9781614516972
+* –––, 2018c, “The Simplicity of Self-Knowledge after Avicenna”, _Arabic Sciences and Philosophy_, 28(2): 257–277. doi:10.1017/S0957423918000048
+* –––, 2021a, _Al-Rāzī_, (Great Medieval Thinkers), New York: Oxford University Press. doi:10.1093/oso/9780197555033.001.0001 \[Note: this book concerns Abū Bakr al-Rāzī, not Fakhr al-Dīn al-Rāzī, but the latter is often mentioned as a source for the former.]
+* –––, 2021b, “From Known to Knower: Affinity Arguments for the Mind’s Incorporeality in the Islamic World”, in _Oxford Studies in Philosophy of Mind, Volume 1_, Uriah Kriegel (ed.), Oxford: Oxford University Press, 373–396. doi:10.1093/oso/9780198845850.003.0013
 * Adamson, Peter and Andreas Lammer, 2020, “Fakhr al-Dīn al-Rāzī’s Platonist Account of the Essence of Time”, in Shihadeh and Thiele 2020: 95–122.
-* Adamson, Peter and Bethany Somma, forthcoming, “Faḫr Al-Dīn al-Rāzī on Animal Cognition and Immortality”, *Archiv Für Geschichte Der Philosophie*, first online: 14 July 2022. doi:10.1515/agph-2021-0171
-* Ahmed, Asad Q., 2016, “The Reception of Avicenna’s Theory of Motion in the Twelfth Century”, *Arabic Sciences and Philosophy*, 26(2): 215–243. doi:10.1017/S0957423916000023
-* Alpina, Tommaso, 2021, *Subject, Definition, Activity: Framing Avicenna’s Science of the Soul*, Berlin, Boston: De Gruyter. doi:10.1515/9783110706840
-* Altaş, Eşref, 2009, *Fahreddin er-Râzî’nin İbn Sînâ yorumu ve eleştirisi*, İstanbul: İz Yayıncılık.
-* –––, 2013a, “Fahreddin er-Râzî’nin Hayati, Hāmileri İilmī ve Siyasī İlişkileri”, in Ö. Türker and O. Demir (eds.), *İslam düşüncesinin dönüşüm çağında Fahreddin er-Râzî*, Istanbul, İsam Yayınları, 41–90.
-* –––, 2013b, “Fahreddin er-Râzî’nin eserlerinin kronolojisi”, in Ö. Türker and O. Demir (eds.), *İslam düşüncesinin dönüşüm çağında Fahreddin er-Râzî*, Istanbul: İsam Yayınları, 91–164.
-* –––, 2015, “An Analysis and Editio Princeps of Faḫr al-Dīn al-Rāzī’s Risālah: *Al-Jawhar al-Fard*”, *Nazariyat*, 1(3): 77–178. doi:10.15808/Nazariyat.2.3.M0018
-* Arnaldez, Roger, 2002, *Fakhr al-Dîn al-Râzî: commentateur du Coran et philosophe*, Paris: J. Vrin.
-* Baffioni, Carmela, 1982, *Atomismo e antiatomismo nel pensiero islamico*, Naples: Instituto Universitario Orientale.
-* Başoğlu, Tuncay, 2014, *Fıkıh Usulünde Fahreddin er-Razi Mektebi*, İstanbul: İsam Yayınları.
-* Benevich, Fedor, 2017, “The Essence-Existence Distinction: Four Elements of the Post-Avicennian Metaphysical Dispute (11–13th Centuries)”, *Oriens*, 45(3–4): 203–258. doi:10.1163/18778372-04503004
-* –––, 2018, “The Reality of the Non-Existent Object of Thought: The Possible, the Impossible, and Mental Existence in Islamic Philosophy (Eleventh–Thirteenth Centuries)”, *Oxford Studies in Medieval Philosophy* 6: 1–34
-* –––, 2019a, “God’s Knowledge of Particulars: Avicenna, *Kalām*, and the Post-Avicennian Synthesis”, *Recherches de Théologie et Philosophie Médiévales*, 86(1): 1–47. doi:10.2143/RTPM.86.1.3285913
-* –––, 2019b, “The Priority of Natures against The Identity of Indiscernibles: Alexander of Aphrodisias, Yaḥyā b. ʿAdī, and Avicenna on Genus as Matter”, *Journal of the History of Philosophy*, 57(2): 205–234. doi:10.1353/hph.2019.0023
-* –––, 2020a, “The Necessary Existent (*wājib al-wujūd*): from Avicenna to Faḫr al-Dīn al-Rāzī”, in Shihadeh and Thiele 2020: 123–155.
-* –––, 2020b, “Perceiving Things in Themselves: Abū l-Barakāt al-Baġdādī’s Critique of Representationalism”, *Arabic Sciences and Philosophy*, 30(2): 229–264. doi:10.1017/S095742392000003X
-* –––, 2022a, “Meaning and Definition: Scepticism and Semantics in Twelfth‐Century Arabic Philosophy”, *Theoria*, 88(1): 72–108. doi:10.1111/theo.12272
-* –––, 2022b, “Knowledge as a Mental State in Muʿtazilite Kalām”, *Oriens*, 50(3–4): 244–279. doi:10.1163/18778372-12340016
-* Bertolacci, Amos, 2006, *The Reception of Aristotle’s* **Metaphysics** *in Avicenna’s* Kitāb al-Šifā’ *: A Milestone of Western Metaphysical Thought*, Leiden: Brill. doi:10.1163/9789047408710
-* –––, 2012, “The Distinction of Essence and Existence in Avicenna’s Metaphysics: The Text and Its Context”, in Opwis and Reisman 2012: 257–288. doi:10.1163/9789004217768_014
+* Adamson, Peter and Bethany Somma, forthcoming, “Faḫr Al-Dīn al-Rāzī on Animal Cognition and Immortality”, _Archiv Für Geschichte Der Philosophie_, first online: 14 July 2022. doi:10.1515/agph-2021-0171
+* Ahmed, Asad Q., 2016, “The Reception of Avicenna’s Theory of Motion in the Twelfth Century”, _Arabic Sciences and Philosophy_, 26(2): 215–243. doi:10.1017/S0957423916000023
+* Alpina, Tommaso, 2021, _Subject, Definition, Activity: Framing Avicenna’s Science of the Soul_, Berlin, Boston: De Gruyter. doi:10.1515/9783110706840
+* Altaş, Eşref, 2009, _Fahreddin er-Râzî’nin İbn Sînâ yorumu ve eleştirisi_, İstanbul: İz Yayıncılık.
+* –––, 2013a, “Fahreddin er-Râzî’nin Hayati, Hāmileri İilmī ve Siyasī İlişkileri”, in Ö. Türker and O. Demir (eds.), _İslam düşüncesinin dönüşüm çağında Fahreddin er-Râzî_, Istanbul, İsam Yayınları, 41–90.
+* –––, 2013b, “Fahreddin er-Râzî’nin eserlerinin kronolojisi”, in Ö. Türker and O. Demir (eds.), _İslam düşüncesinin dönüşüm çağında Fahreddin er-Râzî_, Istanbul: İsam Yayınları, 91–164.
+* –––, 2015, “An Analysis and Editio Princeps of Faḫr al-Dīn al-Rāzī’s Risālah: _Al-Jawhar al-Fard_”, _Nazariyat_, 1(3): 77–178. doi:10.15808/Nazariyat.2.3.M0018
+* Arnaldez, Roger, 2002, _Fakhr al-Dîn al-Râzî: commentateur du Coran et philosophe_, Paris: J. Vrin.
+* Baffioni, Carmela, 1982, _Atomismo e antiatomismo nel pensiero islamico_, Naples: Instituto Universitario Orientale.
+* Başoğlu, Tuncay, 2014, _Fıkıh Usulünde Fahreddin er-Razi Mektebi_, İstanbul: İsam Yayınları.
+* Benevich, Fedor, 2017, “The Essence-Existence Distinction: Four Elements of the Post-Avicennian Metaphysical Dispute (11–13th Centuries)”, _Oriens_, 45(3–4): 203–258. doi:10.1163/18778372-04503004
+* –––, 2018, “The Reality of the Non-Existent Object of Thought: The Possible, the Impossible, and Mental Existence in Islamic Philosophy (Eleventh–Thirteenth Centuries)”, _Oxford Studies in Medieval Philosophy_ 6: 1–34
+* –––, 2019a, “God’s Knowledge of Particulars: Avicenna, _Kalām_, and the Post-Avicennian Synthesis”, _Recherches de Théologie et Philosophie Médiévales_, 86(1): 1–47. doi:10.2143/RTPM.86.1.3285913
+* –––, 2019b, “The Priority of Natures against The Identity of Indiscernibles: Alexander of Aphrodisias, Yaḥyā b. ʿAdī, and Avicenna on Genus as Matter”, _Journal of the History of Philosophy_, 57(2): 205–234. doi:10.1353/hph.2019.0023
+* –––, 2020a, “The Necessary Existent (_wājib al-wujūd_): from Avicenna to Faḫr al-Dīn al-Rāzī”, in Shihadeh and Thiele 2020: 123–155.
+* –––, 2020b, “Perceiving Things in Themselves: Abū l-Barakāt al-Baġdādī’s Critique of Representationalism”, _Arabic Sciences and Philosophy_, 30(2): 229–264. doi:10.1017/S095742392000003X
+* –––, 2022a, “Meaning and Definition: Scepticism and Semantics in Twelfth‐Century Arabic Philosophy”, _Theoria_, 88(1): 72–108. doi:10.1111/theo.12272
+* –––, 2022b, “Knowledge as a Mental State in Muʿtazilite Kalām”, _Oriens_, 50(3–4): 244–279. doi:10.1163/18778372-12340016
+* Bertolacci, Amos, 2006, _The Reception of Aristotle’s_ **Metaphysics** _in Avicenna’s_ Kitāb al-Šifā’ _: A Milestone of Western Metaphysical Thought_, Leiden: Brill. doi:10.1163/9789047408710
+* –––, 2012, “The Distinction of Essence and Existence in Avicenna’s Metaphysics: The Text and Its Context”, in Opwis and Reisman 2012: 257–288. doi:10.1163/9789004217768\_014
 * –––, 2016, “The Distinction of Essence and Existence in Avicenna’s Metaphysics: The Text and Its Context,” Islamic Philosophy, Science, Culture, and Religion: Studies in Honor of Dimitri Gutas, Felicitas Opwis and David C. Reisman (eds), Leiden: Brill, 257–88.
-* Black, Deborah L., 1997, “Avicenna on the Ontological and Epistemic Status of Fictional Beings”, *Documenti e studi sulla tradizione filosofica medievale*, 8: 425–453.
-* –––, 2008, “Al-Fārābī on Meno’s Paradox”, in *In the Age of al-Fārābī: Arabic Philosophy in the Fourth/Tenth Century*, Peter Adamson (ed.), (Warburg Institute Colloquia 12), London: Warburg Institute, 15–34
-* Chatti, Saloua, 2016, “Existential Import in Avicenna’s Modal Logic”, *Arabic Sciences and Philosophy*, 26(1): 45–71. doi:10.1017/S0957423915000119
-* Damāvandī, Dāryūsh, 2012, *Fakhr-i Rāzī*, Tehran: Intishārāt-i Ṭāhir.
-* De Haan, Daniel D., 2015, “The Doctrine of the Analogy of Being in Avicenna’s *Metaphysics of the Healing*”, *The Review of Metaphysics*, 69(2): 261–286.
-* Dhanani, Alnoor, 1994, *The Physical Theory of Kalām: Atoms, Space, and Void in Basrian Muʿtazilī Cosmology*, Leiden: Brill.
-* –––, 2015, “The Impact of Ibn Sīnā’s Critique of Atomism on Subsequent Kalām Discussions of Atomism”, *Arabic Sciences and Philosophy*, 25(1): 79–104. doi:10.1017/S0957423914000101
-* Druart, Thérèse-Anne, 2014, “Ibn Sina and the Ambiguity of Being’s Univocity”, in Mokdad Arfa Mensia (ed.), *Views on the Philosophy of Ibn Sina and Mulla Sadra Shirazi*, Carthage: The Tunisian Academy of Sciences, Letters and Arts *Beit al-Hikma*, 15–24.
-* Eichner, Heidrun, 2007, “Dissolving the unity of metaphysics: From Fakhr al-Dīn al-Rāzī to Mullā Sadrā al-Shīrāzī”, *Medioevo*, 32: 139–197.
-* –––, 2009, *The Post-Avicennian Philosophical Tradition and Islamic Orthodoxy: Philosophical and Theological Summae in Context*, Habilitationsschrift, Universität Halle-Wittenberg.
+* Black, Deborah L., 1997, “Avicenna on the Ontological and Epistemic Status of Fictional Beings”, _Documenti e studi sulla tradizione filosofica medievale_, 8: 425–453.
+* –––, 2008, “Al-Fārābī on Meno’s Paradox”, in _In the Age of al-Fārābī: Arabic Philosophy in the Fourth/Tenth Century_, Peter Adamson (ed.), (Warburg Institute Colloquia 12), London: Warburg Institute, 15–34
+* Chatti, Saloua, 2016, “Existential Import in Avicenna’s Modal Logic”, _Arabic Sciences and Philosophy_, 26(1): 45–71. doi:10.1017/S0957423915000119
+* Damāvandī, Dāryūsh, 2012, _Fakhr-i Rāzī_, Tehran: Intishārāt-i Ṭāhir.
+* De Haan, Daniel D., 2015, “The Doctrine of the Analogy of Being in Avicenna’s _Metaphysics of the Healing_”, _The Review of Metaphysics_, 69(2): 261–286.
+* Dhanani, Alnoor, 1994, _The Physical Theory of Kalām: Atoms, Space, and Void in Basrian Muʿtazilī Cosmology_, Leiden: Brill.
+* –––, 2015, “The Impact of Ibn Sīnā’s Critique of Atomism on Subsequent Kalām Discussions of Atomism”, _Arabic Sciences and Philosophy_, 25(1): 79–104. doi:10.1017/S0957423914000101
+* Druart, Thérèse-Anne, 2014, “Ibn Sina and the Ambiguity of Being’s Univocity”, in Mokdad Arfa Mensia (ed.), _Views on the Philosophy of Ibn Sina and Mulla Sadra Shirazi_, Carthage: The Tunisian Academy of Sciences, Letters and Arts _Beit al-Hikma_, 15–24.
+* Eichner, Heidrun, 2007, “Dissolving the unity of metaphysics: From Fakhr al-Dīn al-Rāzī to Mullā Sadrā al-Shīrāzī”, _Medioevo_, 32: 139–197.
+* –––, 2009, _The Post-Avicennian Philosophical Tradition and Islamic Orthodoxy: Philosophical and Theological Summae in Context_, Habilitationsschrift, Universität Halle-Wittenberg.
 * –––, 2011a, “‘Knowledge by Presence,’ Apperception and the Mind-Body Relationship. Fakhr al-Dīn al-Rāzī and al-Suhrawardī as Representatives of a Thirteenth Century Discussion”, in Adamson 2011b: 117–40.
 * –––, 2011b, “Essence and Existence. Thirteenth-Century Perspectives in Arabic-Islamic Philosophy and Theology”, in Hasse and Bertolacci 2011: 123–52.
-* El Rouayheb, Khaled, 2012, “Post-Avicennan Logicians on the Subject Matter of Logic: Some Thirteenth- and Fourteenth-Century Discussions,” *Arabic Sciences and Philosophy* 22: 69–90.
-* –––, 2019, *The Development of Arabic Logic (1200–1800)* , Basel: Schwabe.
-* Falaturi, A. Djavad, 1969, “Fakhr al-Din al-Razi’s Critical Logic”, in M. Minuvi (ed.), *Yādnāmah-yi īranī-yi Minorsky*, Tehran: Intishārāt-i dānishgah-i Tihrān, 51–79.
-* Griffel, Frank, 2007, “On Fakhr al-Dīn al-Rāzī’s Life and the Patronage He Received”, *Journal of Islamic Studies*, 18(3): 313–344. doi:10.1093/jis/etm029
+* El Rouayheb, Khaled, 2012, “Post-Avicennan Logicians on the Subject Matter of Logic: Some Thirteenth- and Fourteenth-Century Discussions,” _Arabic Sciences and Philosophy_ 22: 69–90.
+* –––, 2019, _The Development of Arabic Logic (1200–1800)_ , Basel: Schwabe.
+* Falaturi, A. Djavad, 1969, “Fakhr al-Din al-Razi’s Critical Logic”, in M. Minuvi (ed.), _Yādnāmah-yi īranī-yi Minorsky_, Tehran: Intishārāt-i dānishgah-i Tihrān, 51–79.
+* Griffel, Frank, 2007, “On Fakhr al-Dīn al-Rāzī’s Life and the Patronage He Received”, _Journal of Islamic Studies_, 18(3): 313–344. doi:10.1093/jis/etm029
 * –––, 2011, “Between al-Ghazālī and Abū l-Barakāt al-Baghdādī. The dialectical turn in the philosophy of Iraq and Iran during the 6th/12th century”, in Adamson 2011b: 45–75.
-* –––, 2021, *The Formation of Post-Classical Philosophy in Islam*, Oxford: Oxford University Press. doi:10.1093/oso/9780190886325.001.0001
-* Gutas, Dimitri, 2002, “The Heritage of Avicenna: the Golden Age of Arabic Philosophy, 900–ca.1350”, in Jules Janssens and Daniel De Smet (eds), *Avicenna and his Heritage*, Leuven: Leuven University Press, 81–98.
-* Hasse, Dag Nikolaus and Amos Bertolacci (eds.), 2011, *The Arabic, Hebrew and Latin Reception of Avicenna’s Metaphysics*, (Scientia Graeco-Arabica 7), Berlin: De Gruyter. doi:10.1515/9783110215762
-* Ibrahim, Bilal, 2013, “Faḫr Ad-Dīn Ar-Rāzī, Ibn al-Hayṯam and Aristotelian Science: Essentialism versus Phenomenalism in Post-Classical Islamic Thought”, *Oriens*, 41(3–4): 379–431. doi:10.1163/18778372-13413407
-* –––, 2020, “Beyond Atoms and Accidents: Fakhr al-Dīn al-Rāzī and the New Ontology of Postclassical Kalām”, *Oriens*, 48(1–2): 67–122. doi:10.1163/18778372-04801004
-* Jacobsen Ben Hammed, Nora, 2020, “Meno’s Paradox and First Principles in Fakhr al-Dīn al-Rāzī”, *Oriens*, 48(3–4): 320–344. doi:10.1163/18778372-04801101
-* Jaffer, Tariq, 2015, *Rāzī: Master of Qurʼānic Interpretation and Theological Reasoning*, Oxford/New York: Oxford University Press.
-* Janos, Damien, 2015, “Intuition, Intellection, and Mystical Knowledge: Delineating Fakhr al-Dīn al-Rāzī’s Cognitive Theories”, in *Islam and Rationality, The Impact of al-Ghazālī. Papers Collected on His 900th Anniversary*, vol. 2, Frank Griffel (ed.), Leiden: Brill, 189–228.
-* –––, 2020, *Avicenna on the Ontology of Pure Quiddity*, Berlin: De Gruyter. doi:10.1515/9783110652086
-* –––, 2021, “Avicenna on Equivocity and Modulation: A Reconsideration of the *asmāʾ mushakkika* (and *tashkīk al-wujūd*)”, *Oriens*, 50(1–2): 1–62. doi:10.1163/18778372-12340003
-* Kaya, Mehmet Cüneyt, 2014, “In the Shadow of ‘Prophetic Legislation’: The Venture of Practical Philosophy after Avicenna”, *Arabic Sciences and Philosophy*, 24(2): 269–296. doi:10.1017/S0957423914000034
-* Kholeif, Fathalla, 1966, *A Study on Fakhr al-Dīn al-Rāzī and his Controversies in Transoxiana*, Beirut: Dar el-Machreq.
-* –––, 1969, *Fakhr al-Dīn al-Rāzī*, Cairo: al-Jāmiʿāt al-Miṣriyya.
-* Kaukua, Jari, 2016, “Self, Agent, Soul: Abū al-Barakāt al-Baghdādī’s Critical Reception of Avicennian Psychology”, in *Subjectivity and Selfhood in Medieval and Early Modern Philosophy*, Jari Kaukua and Tomas Ekenberg (eds.), (Studies in the History of Philosophy of Mind 16), Cham: Springer International Publishing, 75–89. doi:10.1007/978-3-319-26914-6_6
-* –––, 2020, “Post-Classical Islamic Philosophy ? A Contradiction in Terms?”, *Nazariyat: Journal for the History of Islamic Philosophy and Sciences*, 6(2): 1–21. doi:10.12658/nazariyat.6.2.m0110
-* Lameer, Joep, 2006, *Conception and Belief in Sadr al-Din Shirazi*, Tehran: Iranian Institute of Philosophy.
-* –––, 2014, “‮غیر المعلوم یمتنع الحکم علیه‬ (*Ghayr al-maʿlūm yamtaniʿ al-ḥukm ʿalayhi*): An Exploratory Anthology of a False Paradox in Medieval Islamic Philosophy”, *Oriens*, 42(3–4): 397–453. doi:10.1163/18778372-04203005
-* Lammer, Andreas, 2018, *The Elements of Avicenna’s Physics: Greek Sources and Arabic Innovations*, (Scientia Graeco-Arabica 20), Berlin/Boston: De Gruyter. doi:10.1515/9783110546798
-* Lettinck, Paul, 1988, “Ibn Sīnā on Atomism: Translation of Ibn Sīnā’s *Kitāb al-Shifāʾ, al-Ṭabīʿiyyāt 1: al-Samāʿ al-ṭabīʿī* Third Treatise, Chapters 3–5”, *Al-Shajarrah*, 4: 1–51.
-* Marmura, Michael E., 1980, “Avicenna’s Proof from Contingency for God’s Existence in the Metaphysics of the ‘Shifā’’”, *Mediaeval Studies*, 42: 337–352. doi:10.1484/J.MS.2.306261
-* –––, 1991, “Fakhr al-Dīn al-Rāzī’s Critique of an Avicennan *Tanbīh*”, in Burkhard Mojsisch and Olaf Pluta (eds), *Historia Philosophiae Medii Aevi: Studien zur Geschichte der Philosophie des Mittelalters*, vol. 2, Amsterdam: B. R. Grüner, 627–41.
-* –––, 2005, “Some Aspects of Avicenna’s Theory of God’s Knowledge of Particulars”, in *Probing in Islamic Philosophy: Studies in The Philosophies of Ibn Sina, Al-Ghazali and Other Major Muslim Thinkers*, Michael Marmura (ed.), New York, Global Academic Publishing, Binghamton University, 71–96.
-* –––, 2009, “Avicenna on Meno’s Paradox: On Apprehending Unknown Things Through Known Things”, *Mediaeval Studies*, 71: 47–62.
-* Mayer, Toby, 2001, “Ibn Sīnā’s *Burhān al-Ṣiddīqīn*”, *Journal of Islamic Studies*, 12(1): 18–39. doi:10.1093/jis/12.1.18
-* –––, 2003, “Faḫr ad-Dīn ar-Rāzī’s Critique of Ibn Sīnā’s Argument for the Unity of God in the *Išārāt* and Naṣīr ad-Dīn aṭ-Ṭūsī’s Defence”, in Before and After Avicenna: Proceedings of the First Conference of the Avicenna Study Group, David Colum Reisman and Ahmed H. Al-Rahim (eds.), Leiden: Brill, 199–218. doi:10.1163/9789047402022_012
-* –––, 2007, “Avicenna Against Time Beginning: The Debate between the Commentators on the *Ishārāt*”, in *Classical Arabic Philosophy: Sources and Reception*, Peter Adamson (ed.), London: Warburg Institute, 125–149.
-* McGinnis, Jon, 2003, “The Topology of Time: An Analysis of Medieval Islamic Accounts of Discrete and Continuous Time”:, *The Modern Schoolman*, 81(1): 5–25. doi:10.5840/schoolman20038111
-* –––, 2008, “Time to Change: Time, Motion and Possibility in Ibn Sīnā”, in Mehmet Mazak and Nevzat Özkaya (eds), *Uluslararası İbn Sînâ Sempozyumu Bildirileri*, Istanbul: Istanbul Büyükşehır Belediyesi, vol. 1, 251–7.
-* –––, 2013, “Avicenna’s Natural Philosophy”, in *Interpreting Avicenna: Critical Essays*, Peter Adamson (ed.), Cambridge: Cambridge University Press, 71–90. doi:10.1017/CBO9781139047890.005
-* –––, 2019, “A Continuation of Atomism: Shahrastānī on the Atom and Continuity”, *Journal of the History of Philosophy*, 57(4): 595–619. doi:10.1353/hph.2019.0068
-* Noble, Michael-Sebastian, 2021, *Philosophising the Occult: Avicennan Psychology and “The Hidden Secret” of Fakhr al-Dīn al-Rāzī*, Berlin: De Gruyter. doi:10.1515/9783110648096
-* Nusseibeh, Sari, 2009, “Avicenna: Providence and God’s Knowledge of Particulars”, in *Avicenna and His Legacy: A Golden Age of Science and Philosophy*, Y. Tzvi Langermann (ed.), (Cultural Encounters in Late Antiquity and the Middle Ages 8), Turnhout, Belgium: Brepols, 275–288.
-* Opwis, Felicitas, 2012, “Attributing Causality to God’s Law: The Solution of Faḫr ad-Dīn ar-Rāzī”, in Opwis and Reisman 2012: 397–418. doi:10.1163/9789004217768_019
-* Opwis, Felicitas and David Reisman (eds.), 2012, *Islamic Philosophy, Science, Culture, and Religion: Studies in Honor of Dimitri Gutas*, Leiden: Brill. doi:10.1163/9789004217768
-* Özturan, Mehmet, 2018, “An Introduction to the Critique of the Theory of Definition in Arabic Logic: Is Complete Definition Circular?”, *Nazariyat İslam Felsefe ve Bilim Tarihi Araştırmaları Dergisi (Journal for the History of Islamic Philosophy and Sciences)* , 4(3): 85–117. doi:10.12658/Nazariyat.4.3.M0062en
-* Radhi Ibrahim, Mohd, 2013, “Immediate Knowledge According to Al-Qāḍī ʿAbd al-Jabbār”, *Arabic Sciences and Philosophy*, 23(1): 101–115. doi:10.1017/S0957423912000094
-* Sabra, Abdelhamid I., 2006, “*Kalām* Atomism as an Alternative Philosophy to Hellenizing *Falsafa*”, in *Arabic Theology, Arabic Philosophy: From the Many to the One: Essays in Celebration of Richard M. Frank*, James E. Montgomery (ed.), (Orientalia Lovaniensia Analecta 152), Leuven/Dudley, MA: Uitgeverij Peeters en Department Ossterse Studies, 199–272.
-* Setia, Adi, 2004, “Fakhr al-Dīn al-Rāzī on Physics and the Nature of the Physical World: A Preliminary Survey”, *Islam &amp; Science* (now *Islamic Sciences*), 2(2): 161–180.
-* –––, 2006, “Atomism Versus Hylomorphism in the *Kalām* of al-Fakhr al-Dīn al-Rāzī: A Preliminary Survey of the *Maṭālib al-ʿāliyyah*”, *Islam &amp; Science*, 4(2): 113–140.
-* –––, 2008, “Time, Motion, Distance, and Change in the *Kalām* of Fakhr al-Dīn al-Rāzī: A Preliminary Survey with Special Reference to the *Maṭālib ʿāliyyah*”, *Islam &amp; Science*, 6(1): 13–29.
-* Al-Shaar, Nuha, 2012, “An Islamic Approach to Moral Virtue: Fakhr al-Dīn al-Rāzī’s Treatment of *Birr* (Virtue) in his *al-Tafsīr al-Kabīr*”, *Mélanges de l’Université Saint-Joseph*, 64: 87–100.
-* Shihadeh, Ayman, 2005, “From Al-Ghazālī to al-Rāzī: 6th/12th Century Developments in Muslim Philosophical Theology”, *Arabic Sciences and Philosophy*, 15(1): 141–179. doi:10.1017/S0957423905000159
-* –––, 2006, *The Teleological Ethics of Fakhr al-Dīn al-Rāzī*, Leiden: Brill. doi:10.1163/9789047409007
-* –––, 2014, “Fakhr al-Dīn al-Rāzī’s response to Sharaf al-Dīn al-Masʿūdī’s critical commentary on Avicenna’s *Ishārāt*”, *The Muslim World*, 104(1–2): 1–61. doi:10.1111/muwo.12037
-* –––, 2016, “Theories of Ethical Value in Kalām: A New Interpretation”, in *The Oxford Handbook of Islamic Theology*, Sabine Schmidtke (ed.), Oxford: Oxford University Press, 384–407.
-* –––, 2017, “Al-Rāzī’s (d. 1210) commentary on Avicenna’s *Pointers*: The confluence of exegesis and aporetics”, in *The Oxford Handbook of Islamic Philosophy*, Khaled El-Rouayheb and Sabine Schmidtke (eds), Oxford: Oxford University Press, 286–325.
-* –––, 2019, “Avicenna’s Theodicy and al-Rāzī’s Anti-Theodicy”, *Intellectual History of the Islamicate World*, 7: 61–84. doi:10.1163/2212943X-00701004
-* –––, 2022, “Fakhr al-Dīn al-Rāzī and Ghūrid Self-Fashioning”, *Afghanistan*, 5(2): 253–292. doi:10.3366/afg.2022.0095
-* Shihadeh, Ayman and Jan Thiele (eds), 2020, *Philosophical Theology in Islam: Later Ashʻarism East and West*, (Islamicate Intellectual History 5), Leiden/Boston: Brill.
-* Street, Tony, 1997, “Concerning the Life and Works of Fakhr al-Dīn al-Rāzī”, in *Islam: Essays on Scripture, Thought and Society: A Festschrift in Honour of Anthony H. Johns*, Peter Riddell and Tony Street (eds), Leiden: Brill, 135–146. doi:10.1163/9789004452091_013
-* –––, 2005, “Faḫraddin ar-Rāzī’s Critique of Avicennan Logic”, in *Logik und Theologie: Das Organon im arabischen und im lateinischen Mittelalter*, Dominik Perler and Ulrich Rudolph (eds), Leiden: Brill, 99–116. doi:10.1163/9789047403982_007
-* –––, 2010, “Appendix: Readings of the Subject Term”, *Arabic Sciences and Philosophy*, 20(1): 119–124. doi:10.1017/S0957423909990117
-* –––, 2014, “Afḍal Al-Dīn al-Khūnajī (d. 1248) on the Conversion of Modal Propositions”, *Oriens*, 42(3–4): 454–513. doi:10.1163/18778372-04203006
-* –––, 2016, “Al-ʿAllāma al-Ḥillī (d. 1325) and the Early Reception of Kātibī’s *Shamsīya*: Notes towards a Study of the Dynamics of Post-Avicennan Logical Commentary”, *Oriens*, 44(3–4): 267–300. doi:10.1163/18778372-04403004
-* Strobino, Riccardo and Paul Thom, 2016, “The Logic of Modality”, in *The Cambridge Companion to Medieval Logic*, Catarina Dutilh Novaes and Stephen Read (eds), Cambridge: Cambridge University Press, 342–369. doi:10.1017/CBO9781107449862.015
-* Treiger, Alexander, 2012, “Avicenna’s Notion of Transcendental Modulation of Existence (taškīk al-wujūd, analogia entis) and its Greek and Arabic Sources,” in *Islamic Philosophy, Science, Culture, and Religion: Studies in Honor of Dimitri Gutas*, Felicitas Opwis and David C. Reisman (eds), Leiden: Brill, 327–63.
-* Türker, Ömer and Osman Demir, 2011, *İslâm Düşüncesinin Dönüşüm Çağında Fahreddin er-Râzî*, İstanbul: İsam Yayınları. [Collection of articles on Fakhr al-Dīn.]
-* Virgi, Sarah, 2022, “The Mouse’s Tale: Al-Jāḥiẓ, Abū Bakr al-Rāzī, and Fakhr al-Dīn al-Rāzī on Animal Thinking”, *British Journal for the History of Philosophy*, 30(5): 751–772. doi:10.1080/09608788.2022.2049203
-* Wisnovsky, Robert, 2004, “One Aspect of the Avicennian Turn in Sunnī Theology”, *Arabic Sciences and Philosophy* 14: 65–100.
-* –––, 2012, “Essence and Existence in the Eleventh- and Twelfth-Century Islamic East (*Mašriq*): A Sketch”, in Hasse and Bertolacci 2011: 27–50.
-* –––, 2013, “Avicennism and Exegetical Practice in the Early Commentaries on the *Ishārāt*”, *Oriens*, 41(3–4): 349–378. doi:10.1163/18778372-13413406
-* Zamboni, Francesco, 2020, “Is Existence One or Manifold? Avicenna and His Early Interpreters on the Modulation of Existence (*taškīk al-wuǧūd*)”, *Documenti e studi sulla tradizione filosofica medievale*, 31: 121–149.
-* Zarepour, Mohammad Saleh, 2022, *Necessary Existence and Monotheism: An Avicennian Account of the Islamic Conception of Divine Unity*, Cambridge: Cambridge University Press. doi:10.1017/9781108938112
-* al-Zarkān, Muḥammad Ṣ., 1963, *Fakhr al-Dīn al-Rāzī wa-ārāʾuhū al-kalāmiyya wa-l-falsafiyya*, Cairo: Dār al-Fikr li-l-Ṭabāʿa wa-l-Nashr wa-l-Tawzīʿ.
+* –––, 2021, _The Formation of Post-Classical Philosophy in Islam_, Oxford: Oxford University Press. doi:10.1093/oso/9780190886325.001.0001
+* Gutas, Dimitri, 2002, “The Heritage of Avicenna: the Golden Age of Arabic Philosophy, 900–ca.1350”, in Jules Janssens and Daniel De Smet (eds), _Avicenna and his Heritage_, Leuven: Leuven University Press, 81–98.
+* Hasse, Dag Nikolaus and Amos Bertolacci (eds.), 2011, _The Arabic, Hebrew and Latin Reception of Avicenna’s Metaphysics_, (Scientia Graeco-Arabica 7), Berlin: De Gruyter. doi:10.1515/9783110215762
+* Ibrahim, Bilal, 2013, “Faḫr Ad-Dīn Ar-Rāzī, Ibn al-Hayṯam and Aristotelian Science: Essentialism versus Phenomenalism in Post-Classical Islamic Thought”, _Oriens_, 41(3–4): 379–431. doi:10.1163/18778372-13413407
+* –––, 2020, “Beyond Atoms and Accidents: Fakhr al-Dīn al-Rāzī and the New Ontology of Postclassical Kalām”, _Oriens_, 48(1–2): 67–122. doi:10.1163/18778372-04801004
+* Jacobsen Ben Hammed, Nora, 2020, “Meno’s Paradox and First Principles in Fakhr al-Dīn al-Rāzī”, _Oriens_, 48(3–4): 320–344. doi:10.1163/18778372-04801101
+* Jaffer, Tariq, 2015, _Rāzī: Master of Qurʼānic Interpretation and Theological Reasoning_, Oxford/New York: Oxford University Press.
+* Janos, Damien, 2015, “Intuition, Intellection, and Mystical Knowledge: Delineating Fakhr al-Dīn al-Rāzī’s Cognitive Theories”, in _Islam and Rationality, The Impact of al-Ghazālī. Papers Collected on His 900th Anniversary_, vol. 2, Frank Griffel (ed.), Leiden: Brill, 189–228.
+* –––, 2020, _Avicenna on the Ontology of Pure Quiddity_, Berlin: De Gruyter. doi:10.1515/9783110652086
+* –––, 2021, “Avicenna on Equivocity and Modulation: A Reconsideration of the _asmāʾ mushakkika_ (and _tashkīk al-wujūd_)”, _Oriens_, 50(1–2): 1–62. doi:10.1163/18778372-12340003
+* Kaya, Mehmet Cüneyt, 2014, “In the Shadow of ‘Prophetic Legislation’: The Venture of Practical Philosophy after Avicenna”, _Arabic Sciences and Philosophy_, 24(2): 269–296. doi:10.1017/S0957423914000034
+* Kholeif, Fathalla, 1966, _A Study on Fakhr al-Dīn al-Rāzī and his Controversies in Transoxiana_, Beirut: Dar el-Machreq.
+* –––, 1969, _Fakhr al-Dīn al-Rāzī_, Cairo: al-Jāmiʿāt al-Miṣriyya.
+* Kaukua, Jari, 2016, “Self, Agent, Soul: Abū al-Barakāt al-Baghdādī’s Critical Reception of Avicennian Psychology”, in _Subjectivity and Selfhood in Medieval and Early Modern Philosophy_, Jari Kaukua and Tomas Ekenberg (eds.), (Studies in the History of Philosophy of Mind 16), Cham: Springer International Publishing, 75–89. doi:10.1007/978-3-319-26914-6\_6
+* –––, 2020, “Post-Classical Islamic Philosophy ? A Contradiction in Terms?”, _Nazariyat: Journal for the History of Islamic Philosophy and Sciences_, 6(2): 1–21. doi:10.12658/nazariyat.6.2.m0110
+* Lameer, Joep, 2006, _Conception and Belief in Sadr al-Din Shirazi_, Tehran: Iranian Institute of Philosophy.
+* –––, 2014, “‮غیر المعلوم یمتنع الحکم علیه‬ (_Ghayr al-maʿlūm yamtaniʿ al-ḥukm ʿalayhi_): An Exploratory Anthology of a False Paradox in Medieval Islamic Philosophy”, _Oriens_, 42(3–4): 397–453. doi:10.1163/18778372-04203005
+* Lammer, Andreas, 2018, _The Elements of Avicenna’s Physics: Greek Sources and Arabic Innovations_, (Scientia Graeco-Arabica 20), Berlin/Boston: De Gruyter. doi:10.1515/9783110546798
+* Lettinck, Paul, 1988, “Ibn Sīnā on Atomism: Translation of Ibn Sīnā’s _Kitāb al-Shifāʾ, al-Ṭabīʿiyyāt 1: al-Samāʿ al-ṭabīʿī_ Third Treatise, Chapters 3–5”, _Al-Shajarrah_, 4: 1–51.
+* Marmura, Michael E., 1980, “Avicenna’s Proof from Contingency for God’s Existence in the Metaphysics of the ‘Shifā’’”, _Mediaeval Studies_, 42: 337–352. doi:10.1484/J.MS.2.306261
+* –––, 1991, “Fakhr al-Dīn al-Rāzī’s Critique of an Avicennan _Tanbīh_”, in Burkhard Mojsisch and Olaf Pluta (eds), _Historia Philosophiae Medii Aevi: Studien zur Geschichte der Philosophie des Mittelalters_, vol. 2, Amsterdam: B. R. Grüner, 627–41.
+* –––, 2005, “Some Aspects of Avicenna’s Theory of God’s Knowledge of Particulars”, in _Probing in Islamic Philosophy: Studies in The Philosophies of Ibn Sina, Al-Ghazali and Other Major Muslim Thinkers_, Michael Marmura (ed.), New York, Global Academic Publishing, Binghamton University, 71–96.
+* –––, 2009, “Avicenna on Meno’s Paradox: On Apprehending Unknown Things Through Known Things”, _Mediaeval Studies_, 71: 47–62.
+* Mayer, Toby, 2001, “Ibn Sīnā’s _Burhān al-Ṣiddīqīn_”, _Journal of Islamic Studies_, 12(1): 18–39. doi:10.1093/jis/12.1.18
+* –––, 2003, “Faḫr ad-Dīn ar-Rāzī’s Critique of Ibn Sīnā’s Argument for the Unity of God in the _Išārāt_ and Naṣīr ad-Dīn aṭ-Ṭūsī’s Defence”, in Before and After Avicenna: Proceedings of the First Conference of the Avicenna Study Group, David Colum Reisman and Ahmed H. Al-Rahim (eds.), Leiden: Brill, 199–218. doi:10.1163/9789047402022\_012
+* –––, 2007, “Avicenna Against Time Beginning: The Debate between the Commentators on the _Ishārāt_”, in _Classical Arabic Philosophy: Sources and Reception_, Peter Adamson (ed.), London: Warburg Institute, 125–149.
+* McGinnis, Jon, 2003, “The Topology of Time: An Analysis of Medieval Islamic Accounts of Discrete and Continuous Time”:, _The Modern Schoolman_, 81(1): 5–25. doi:10.5840/schoolman20038111
+* –––, 2008, “Time to Change: Time, Motion and Possibility in Ibn Sīnā”, in Mehmet Mazak and Nevzat Özkaya (eds), _Uluslararası İbn Sînâ Sempozyumu Bildirileri_, Istanbul: Istanbul Büyükşehır Belediyesi, vol. 1, 251–7.
+* –––, 2013, “Avicenna’s Natural Philosophy”, in _Interpreting Avicenna: Critical Essays_, Peter Adamson (ed.), Cambridge: Cambridge University Press, 71–90. doi:10.1017/CBO9781139047890.005
+* –––, 2019, “A Continuation of Atomism: Shahrastānī on the Atom and Continuity”, _Journal of the History of Philosophy_, 57(4): 595–619. doi:10.1353/hph.2019.0068
+* Noble, Michael-Sebastian, 2021, _Philosophising the Occult: Avicennan Psychology and “The Hidden Secret” of Fakhr al-Dīn al-Rāzī_, Berlin: De Gruyter. doi:10.1515/9783110648096
+* Nusseibeh, Sari, 2009, “Avicenna: Providence and God’s Knowledge of Particulars”, in _Avicenna and His Legacy: A Golden Age of Science and Philosophy_, Y. Tzvi Langermann (ed.), (Cultural Encounters in Late Antiquity and the Middle Ages 8), Turnhout, Belgium: Brepols, 275–288.
+* Opwis, Felicitas, 2012, “Attributing Causality to God’s Law: The Solution of Faḫr ad-Dīn ar-Rāzī”, in Opwis and Reisman 2012: 397–418. doi:10.1163/9789004217768\_019
+* Opwis, Felicitas and David Reisman (eds.), 2012, _Islamic Philosophy, Science, Culture, and Religion: Studies in Honor of Dimitri Gutas_, Leiden: Brill. doi:10.1163/9789004217768
+* Özturan, Mehmet, 2018, “An Introduction to the Critique of the Theory of Definition in Arabic Logic: Is Complete Definition Circular?”, _Nazariyat İslam Felsefe ve Bilim Tarihi Araştırmaları Dergisi (Journal for the History of Islamic Philosophy and Sciences)_ , 4(3): 85–117. doi:10.12658/Nazariyat.4.3.M0062en
+* Radhi Ibrahim, Mohd, 2013, “Immediate Knowledge According to Al-Qāḍī ʿAbd al-Jabbār”, _Arabic Sciences and Philosophy_, 23(1): 101–115. doi:10.1017/S0957423912000094
+* Sabra, Abdelhamid I., 2006, “_Kalām_ Atomism as an Alternative Philosophy to Hellenizing _Falsafa_”, in _Arabic Theology, Arabic Philosophy: From the Many to the One: Essays in Celebration of Richard M. Frank_, James E. Montgomery (ed.), (Orientalia Lovaniensia Analecta 152), Leuven/Dudley, MA: Uitgeverij Peeters en Department Ossterse Studies, 199–272.
+* Setia, Adi, 2004, “Fakhr al-Dīn al-Rāzī on Physics and the Nature of the Physical World: A Preliminary Survey”, _Islam & Science_ (now _Islamic Sciences_), 2(2): 161–180.
+* –––, 2006, “Atomism Versus Hylomorphism in the _Kalām_ of al-Fakhr al-Dīn al-Rāzī: A Preliminary Survey of the _Maṭālib al-ʿāliyyah_”, _Islam & Science_, 4(2): 113–140.
+* –––, 2008, “Time, Motion, Distance, and Change in the _Kalām_ of Fakhr al-Dīn al-Rāzī: A Preliminary Survey with Special Reference to the _Maṭālib ʿāliyyah_”, _Islam & Science_, 6(1): 13–29.
+* Al-Shaar, Nuha, 2012, “An Islamic Approach to Moral Virtue: Fakhr al-Dīn al-Rāzī’s Treatment of _Birr_ (Virtue) in his _al-Tafsīr al-Kabīr_”, _Mélanges de l’Université Saint-Joseph_, 64: 87–100.
+* Shihadeh, Ayman, 2005, “From Al-Ghazālī to al-Rāzī: 6th/12th Century Developments in Muslim Philosophical Theology”, _Arabic Sciences and Philosophy_, 15(1): 141–179. doi:10.1017/S0957423905000159
+* –––, 2006, _The Teleological Ethics of Fakhr al-Dīn al-Rāzī_, Leiden: Brill. doi:10.1163/9789047409007
+* –––, 2014, “Fakhr al-Dīn al-Rāzī’s response to Sharaf al-Dīn al-Masʿūdī’s critical commentary on Avicenna’s _Ishārāt_”, _The Muslim World_, 104(1–2): 1–61. doi:10.1111/muwo.12037
+* –––, 2016, “Theories of Ethical Value in Kalām: A New Interpretation”, in _The Oxford Handbook of Islamic Theology_, Sabine Schmidtke (ed.), Oxford: Oxford University Press, 384–407.
+* –––, 2017, “Al-Rāzī’s (d. 1210) commentary on Avicenna’s _Pointers_: The confluence of exegesis and aporetics”, in _The Oxford Handbook of Islamic Philosophy_, Khaled El-Rouayheb and Sabine Schmidtke (eds), Oxford: Oxford University Press, 286–325.
+* –––, 2019, “Avicenna’s Theodicy and al-Rāzī’s Anti-Theodicy”, _Intellectual History of the Islamicate World_, 7: 61–84. doi:10.1163/2212943X-00701004
+* –––, 2022, “Fakhr al-Dīn al-Rāzī and Ghūrid Self-Fashioning”, _Afghanistan_, 5(2): 253–292. doi:10.3366/afg.2022.0095
+* Shihadeh, Ayman and Jan Thiele (eds), 2020, _Philosophical Theology in Islam: Later Ashʻarism East and West_, (Islamicate Intellectual History 5), Leiden/Boston: Brill.
+* Street, Tony, 1997, “Concerning the Life and Works of Fakhr al-Dīn al-Rāzī”, in _Islam: Essays on Scripture, Thought and Society: A Festschrift in Honour of Anthony H. Johns_, Peter Riddell and Tony Street (eds), Leiden: Brill, 135–146. doi:10.1163/9789004452091\_013
+* –––, 2005, “Faḫraddin ar-Rāzī’s Critique of Avicennan Logic”, in _Logik und Theologie: Das Organon im arabischen und im lateinischen Mittelalter_, Dominik Perler and Ulrich Rudolph (eds), Leiden: Brill, 99–116. doi:10.1163/9789047403982\_007
+* –––, 2010, “Appendix: Readings of the Subject Term”, _Arabic Sciences and Philosophy_, 20(1): 119–124. doi:10.1017/S0957423909990117
+* –––, 2014, “Afḍal Al-Dīn al-Khūnajī (d. 1248) on the Conversion of Modal Propositions”, _Oriens_, 42(3–4): 454–513. doi:10.1163/18778372-04203006
+* –––, 2016, “Al-ʿAllāma al-Ḥillī (d. 1325) and the Early Reception of Kātibī’s _Shamsīya_: Notes towards a Study of the Dynamics of Post-Avicennan Logical Commentary”, _Oriens_, 44(3–4): 267–300. doi:10.1163/18778372-04403004
+* Strobino, Riccardo and Paul Thom, 2016, “The Logic of Modality”, in _The Cambridge Companion to Medieval Logic_, Catarina Dutilh Novaes and Stephen Read (eds), Cambridge: Cambridge University Press, 342–369. doi:10.1017/CBO9781107449862.015
+* Treiger, Alexander, 2012, “Avicenna’s Notion of Transcendental Modulation of Existence (taškīk al-wujūd, analogia entis) and its Greek and Arabic Sources,” in _Islamic Philosophy, Science, Culture, and Religion: Studies in Honor of Dimitri Gutas_, Felicitas Opwis and David C. Reisman (eds), Leiden: Brill, 327–63.
+* Türker, Ömer and Osman Demir, 2011, _İslâm Düşüncesinin Dönüşüm Çağında Fahreddin er-Râzî_, İstanbul: İsam Yayınları. \[Collection of articles on Fakhr al-Dīn.]
+* Virgi, Sarah, 2022, “The Mouse’s Tale: Al-Jāḥiẓ, Abū Bakr al-Rāzī, and Fakhr al-Dīn al-Rāzī on Animal Thinking”, _British Journal for the History of Philosophy_, 30(5): 751–772. doi:10.1080/09608788.2022.2049203
+* Wisnovsky, Robert, 2004, “One Aspect of the Avicennian Turn in Sunnī Theology”, _Arabic Sciences and Philosophy_ 14: 65–100.
+* –––, 2012, “Essence and Existence in the Eleventh- and Twelfth-Century Islamic East (_Mašriq_): A Sketch”, in Hasse and Bertolacci 2011: 27–50.
+* –––, 2013, “Avicennism and Exegetical Practice in the Early Commentaries on the _Ishārāt_”, _Oriens_, 41(3–4): 349–378. doi:10.1163/18778372-13413406
+* Zamboni, Francesco, 2020, “Is Existence One or Manifold? Avicenna and His Early Interpreters on the Modulation of Existence (_taškīk al-wuǧūd_)”, _Documenti e studi sulla tradizione filosofica medievale_, 31: 121–149.
+* Zarepour, Mohammad Saleh, 2022, _Necessary Existence and Monotheism: An Avicennian Account of the Islamic Conception of Divine Unity_, Cambridge: Cambridge University Press. doi:10.1017/9781108938112
+* al-Zarkān, Muḥammad Ṣ., 1963, _Fakhr al-Dīn al-Rāzī wa-ārāʾuhū al-kalāmiyya wa-l-falsafiyya_, Cairo: Dār al-Fikr li-l-Ṭabāʿa wa-l-Nashr wa-l-Tawzīʿ.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-din-al-razi).                                                     |
-> | -------------------------------------------------------------------- | ------------------------------------------------------- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/al-din-al-razi/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/).                                             |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=al-din-al-razi&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/al-din-al-razi/) at [PhilPapers](https://philpapers.org/), with links to its database.                     |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-din-al-razi).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/al-din-al-razi/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=al-din-al-razi\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/al-din-al-razi/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -290,12 +290,10 @@ For a full bibliography see:
 
 ## Related Entries
 
-Abū l-Barakāt | [Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Ibn Sina [Avicenna]](https://plato.stanford.edu/entries/ibn-sina/) | [Ibn Sina [Avicenna]: metaphysics](https://plato.stanford.edu/entries/ibn-sina-metaphysics/) | [Suhrawardi](https://plato.stanford.edu/entries/suhrawardi/)
+Abū l-Barakāt | [Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Ibn Sina \[Avicenna\]](https://plato.stanford.edu/entries/ibn-sina/) | [Ibn Sina \[Avicenna\]: metaphysics](https://plato.stanford.edu/entries/ibn-sina-metaphysics/) | [Suhrawardi](https://plato.stanford.edu/entries/suhrawardi/)
 
 ### Acknowledgments
 
 Our thanks to Hanif Amin Beidokhti, Merve Boz, Damien Janos, Andreas Lammer, Michael Sebastian Noble, and Sarah Virgi for help with this article.
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by
-[Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie_6/personen/adamson/index.html) <*[peter.adamson@lrz.uni-muenchen.de](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)*>
-Fedor Benevich <*[Fedor.Benevich@ed.ac.uk](mailto:Fedor%2eBenevich%40ed%2eac%2euk)*>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by [Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie\_6/personen/adamson/index.html) <[_peter.adamson@lrz.uni-muenchen.de_](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)> Fedor Benevich <[_Fedor.Benevich@ed.ac.uk_](mailto:Fedor%2eBenevich%40ed%2eac%2euk)>

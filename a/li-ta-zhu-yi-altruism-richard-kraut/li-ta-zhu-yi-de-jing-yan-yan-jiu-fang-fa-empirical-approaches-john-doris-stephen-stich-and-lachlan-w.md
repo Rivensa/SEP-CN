@@ -1,11 +1,12 @@
 # 利他主义的经验研究方法 empirical approaches (John Doris, Stephen Stich, and Lachlan Walmsley)
-*首次发布于2020年1月6日*
+
+_首次发布于2020年1月6日_
 
 许多哲学家认为利他主义是道德的重要组成部分，并且人们经常表现出利他行为。其他哲学家以及许多生物学家和社会科学家声称，关于人类心理学或塑造人类心理学的进化过程的事实表明，没有人类行为是真正的利他主义。这种分歧部分可以追溯到哲学家和科学家都使用“利他主义”一词具有许多不同的含义。第2、3和4节介绍了一些广泛使用的利他主义解释。其中之一，“标准解释”，是哲学界关于利他主义存在性的大部分辩论的焦点。第5和6节回顾了一些最重要的经验研究，旨在确定人类是否确实可以按照标准解释表现出利他行为。
 
-- [1.一些哲学背景](https://plato.stanford.edu/entries/altruism-empirical/#SomePhilBack) - [2.定义“利己主义”和“利他主义”——标准解释](https://plato.stanford.edu/entries/altruism-empirical/#DefiEgoiAltrStanAcco) - [3.利他主义与进化](https://plato.stanford.edu/entries/altruism-empirical/#AltrEvol) - [4.社会科学中的利他主义](https://plato.stanford.edu/entries/altruism-empirical/#AltrSociScie) - [5.心理学中的利己主义与利他主义辩论](https://plato.stanford.edu/entries/altruism-empirical/#EgoiVsAltrDebaPsyc) - [5.1社会惩罚假设](https://plato.stanford.edu/entries/altruism-empirical/#SociPuniHypo) - [5.2厌恶-激活减少假设](https://plato.stanford.edu/entries/altruism-empirical/#AverArouReduHypo) - [5.3“自我与他人融合”所带来的挑战](https://plato.stanford.edu/entries/altruism-empirical/#ChalPoseSelfOtheMerg) - [5.4巴森的研究是否为人类利他主义的存在提供了令人信服的证据？](https://plato.stanford.edu/entries/altruism-empirical/#HaveBatsStudMadeConvCaseForExisAltrHuma) - [6.超越利己主义与利他主义](https://plato.stanford.edu/entries/altruism-empirical/#BeyoEgoiVsAltr) - [7.最终结论](https://plato.stanford.edu/entries/altruism-empirical/#BottLine) - [参考文献](https://plato.stanford.edu/entries/altruism-empirical/#Bib) - [学术工具](https://plato.stanford.edu/entries/altruism-empirical/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/altruism-empirical/#Oth) - [相关条目](https://plato.stanford.edu/entries/altruism-empirical/#Rel)
+* [1.一些哲学背景](https://plato.stanford.edu/entries/altruism-empirical/#SomePhilBack) - [2.定义“利己主义”和“利他主义”——标准解释](https://plato.stanford.edu/entries/altruism-empirical/#DefiEgoiAltrStanAcco) - [3.利他主义与进化](https://plato.stanford.edu/entries/altruism-empirical/#AltrEvol) - [4.社会科学中的利他主义](https://plato.stanford.edu/entries/altruism-empirical/#AltrSociScie) - [5.心理学中的利己主义与利他主义辩论](https://plato.stanford.edu/entries/altruism-empirical/#EgoiVsAltrDebaPsyc) - [5.1社会惩罚假设](https://plato.stanford.edu/entries/altruism-empirical/#SociPuniHypo) - [5.2厌恶-激活减少假设](https://plato.stanford.edu/entries/altruism-empirical/#AverArouReduHypo) - [5.3“自我与他人融合”所带来的挑战](https://plato.stanford.edu/entries/altruism-empirical/#ChalPoseSelfOtheMerg) - [5.4巴森的研究是否为人类利他主义的存在提供了令人信服的证据？](https://plato.stanford.edu/entries/altruism-empirical/#HaveBatsStudMadeConvCaseForExisAltrHuma) - [6.超越利己主义与利他主义](https://plato.stanford.edu/entries/altruism-empirical/#BeyoEgoiVsAltr) - [7.最终结论](https://plato.stanford.edu/entries/altruism-empirical/#BottLine) - [参考文献](https://plato.stanford.edu/entries/altruism-empirical/#Bib) - [学术工具](https://plato.stanford.edu/entries/altruism-empirical/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/altruism-empirical/#Oth) - [相关条目](https://plato.stanford.edu/entries/altruism-empirical/#Rel)
 
----
+***
 
 ## 1. 一些哲学背景
 
@@ -15,33 +16,33 @@
 
 像霍布斯这样的观点被称为"利己主义"，这种对人类动机的悲观看法似乎在某种形式上得到了一些杰出的哲学支持者的青睐，包括边沁、J.S.密尔和尼采等人。利己主义在20世纪社会科学中也可以说是关于人类动机的主流观点（皮利文和张 1990: 28；格兰特 1997）。然而，持异议的声音，虽然可能较少，但同样令人瞩目。巴特勒、休谟、卢梭和亚当·斯密都认为，人类动机有时是真正利他的。
 
-尽管自我主义和利他主义对人类动机的解释存在争议，但很容易理解为什么哲学家们认为这些竞争性答案对道德理论有重要影响。例如，康德曾著名地主张一个人应该“不出于倾向，而出于责任行事，这样他的行为才能获得真正的道德价值”（1785 [1949]: Sec. 1, parag. 12）。但自我主义认为，*所有*人类动机最终都是自私的，因此人们无法像康德所敦促的那样“出于责任”行事。因此，如果自我主义成立，康德的观点将意味着没有任何行为具有“真正的道德价值”。此外，如果自我主义成立，它似乎会对道德理论如何回答那个古老问题“我为什么要做道德”的问题施加严格限制，因为正如霍布斯明确看到的那样，答案必须以行动者的自身利益为基础。
+尽管自我主义和利他主义对人类动机的解释存在争议，但很容易理解为什么哲学家们认为这些竞争性答案对道德理论有重要影响。例如，康德曾著名地主张一个人应该“不出于倾向，而出于责任行事，这样他的行为才能获得真正的道德价值”（1785 \[1949]: Sec. 1, parag. 12）。但自我主义认为，_所有_人类动机最终都是自私的，因此人们无法像康德所敦促的那样“出于责任”行事。因此，如果自我主义成立，康德的观点将意味着没有任何行为具有“真正的道德价值”。此外，如果自我主义成立，它似乎会对道德理论如何回答那个古老问题“我为什么要做道德”的问题施加严格限制，因为正如霍布斯明确看到的那样，答案必须以行动者的自身利益为基础。
 
-这对政治哲学也有相关影响。如果自我主义者是正确的，那么激励亲社会行为的*唯一*方法就是给人们一个自私的理由来参与这种行为，这限制了旨在鼓励公民意识行为的政治制度的设计。约翰·斯图尔特·密尔既是功利主义者又是自我主义者，他主张采取各种操纵性的社会干预措施，以使自我主义的道德行为者遵守功利主义的道德标准。[3]
+这对政治哲学也有相关影响。如果自我主义者是正确的，那么激励亲社会行为的_唯一_方法就是给人们一个自私的理由来参与这种行为，这限制了旨在鼓励公民意识行为的政治制度的设计。约翰·斯图尔特·密尔既是功利主义者又是自我主义者，他主张采取各种操纵性的社会干预措施，以使自我主义的道德行为者遵守功利主义的道德标准。\[3]
 
-很容易找到哲学家们提出利他主义对于道德是必需的，或者自我主义与道德不相容，而且更容易找到声称*其他*哲学家这样认为的哲学家。以下是从一本恰好在手边的标准参考书中摘录的几个例子：
+很容易找到哲学家们提出利他主义对于道德是必需的，或者自我主义与道德不相容，而且更容易找到声称_其他_哲学家这样认为的哲学家。以下是从一本恰好在手边的标准参考书中摘录的几个例子：
 
-> 在最一般的层面上，道德行为是利他行为，是出于促进我们自己和他人福祉的愿望而激发的。（Rachels 2000: 81） > > [O]ne central assumption motivating ethical theory in the Analytic tradition is that the function of ethics is to combat the inherent egoism or selfishness of individuals. Indeed, many thinkers define the basic goal of morality as “selflessness” or “altruism”. (W. Schroeder 2000: 396) > > 自苏格拉底以来，哲学家们一直担心人类只能为了促进自身利益而行动。但如果我们只能做到这一点，那么道德似乎是不可能的。（LaFollette 2000a: 5） [[4](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-4)]
+> 在最一般的层面上，道德行为是利他行为，是出于促进我们自己和他人福祉的愿望而激发的。（Rachels 2000: 81） > > \[O]ne central assumption motivating ethical theory in the Analytic tradition is that the function of ethics is to combat the inherent egoism or selfishness of individuals. Indeed, many thinkers define the basic goal of morality as “selflessness” or “altruism”. (W. Schroeder 2000: 396) > > 自苏格拉底以来，哲学家们一直担心人类只能为了促进自身利益而行动。但如果我们只能做到这一点，那么道德似乎是不可能的。（LaFollette 2000a: 5） \[[4](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-4)]
 
 尽管自我主义/利他主义的辩论在历史上一直是哲学界的重要关注点，但这个问题主要涉及到有关人类动机本质的心理学问题，因此心理学家们进行了大量的经验研究，旨在确定哪种观点是正确的。心理学文献将在本条目的最长部分——[第5节](https://plato.stanford.edu/entries/altruism-empirical/#EgoiVsAltrDebaPsyc)和[第6节](https://plato.stanford.edu/entries/altruism-empirical/#BeyoEgoiVsAltr)中占据中心舞台。但在考虑经验文献之前，明确辩论的内容是很重要的。
 
 ## 2. 定义“自我主义”和“利他主义”——标准解释
 
-提供“利己主义”和“利他主义”的定义是一个有争议的问题，因为这些术语在哲学、生物学和社会科学中的理解方式截然不同。在本文中，重点将放在哲学中对人类心理学的描述性主张的最普遍解释上，我们将其称为“标准解释”。许多作者都提出了这种解释，包括Broad（1950）、Feinberg（1965 [1999]）、Sober和Wilson（1998：第6章和第7章）、Rachels（2003：第6章）、Joyce（2006：第1章）、Kitcher（2010、2011：第1章）、May（2011a）等等。毫不奇怪，这些作者提供的解释之间存在细微差异，这些差异有时会在文献中引发争议。但它们都与我们即将概述的解释有着明显的相似之处。
+提供“利己主义”和“利他主义”的定义是一个有争议的问题，因为这些术语在哲学、生物学和社会科学中的理解方式截然不同。在本文中，重点将放在哲学中对人类心理学的描述性主张的最普遍解释上，我们将其称为“标准解释”。许多作者都提出了这种解释，包括Broad（1950）、Feinberg（1965 \[1999]）、Sober和Wilson（1998：第6章和第7章）、Rachels（2003：第6章）、Joyce（2006：第1章）、Kitcher（2010、2011：第1章）、May（2011a）等等。毫不奇怪，这些作者提供的解释之间存在细微差异，这些差异有时会在文献中引发争议。但它们都与我们即将概述的解释有着明显的相似之处。
 
 在本节结束时，我们将简要讨论哲学中提出的另一种利他主义解释。生物学对利他主义的解释将在[第3节](https://plato.stanford.edu/entries/altruism-empirical/#AltrEvol)中进行考虑，社会科学家提出的解释将在[第4节](https://plato.stanford.edu/entries/altruism-empirical/#AltrSociScie)中进行讨论。但我们目前的重点是标准哲学解释。
 
 正如已经提到的，利他主义和利己主义的支持者都同意人们经常帮助他人，但他们对于为什么这样做存在分歧。在标准观点中，利他主义的辩护者坚持认为，至少有时候，人们的动机是出于对他人福祉的终极渴望，而利己主义的辩护者则认为所有的终极渴望都是自私的。这种表述引发了以下问题：(1) 什么是行为“出于终极渴望的动机”，以及(2) “自私的渴望”和“为他人福祉的渴望”之间的区别。
 
-关于终极渴望的第一个问题，可以借助一个熟悉的“实践推理”解释来有益地阐明[[6](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-6)]。根据这种解释，实践推理是一个因果过程，通过这个过程，一个渴望和一个信念会产生或维持另一个渴望。例如，渴望喝一杯浓咖啡和相信在主街上的咖啡吧是最好的地方可以导致渴望去主街上的咖啡吧。这个渴望然后可以与另一个信念结合，产生第三个渴望，依此类推。有时，这个过程会导致渴望执行一个相对简单或“基本”的行动，而这个渴望反过来会导致行动者执行基本行动，而无需进一步的渴望介入。由实践推理过程产生或维持的渴望是“工具性”渴望——行动者拥有这些渴望，是因为她认为满足这些渴望将导致她渴望的其他事物。但并非所有的渴望都可以是工具性渴望。为了避免循环论证或无限回归，必须存在一些不是因为行动者认为满足它们将促进满足其他渴望而产生的渴望。这些不是由实践推理产生或维持的渴望是行动者的终极渴望，而终极渴望的对象——所渴望的状态——通常被称为“为了自身的缘故而渴望”。当这种渴望是导致行为的实践推理过程的一部分时，行为就是由特定的终极渴望“驱动”的。
+关于终极渴望的第一个问题，可以借助一个熟悉的“实践推理”解释来有益地阐明\[[6](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-6)]。根据这种解释，实践推理是一个因果过程，通过这个过程，一个渴望和一个信念会产生或维持另一个渴望。例如，渴望喝一杯浓咖啡和相信在主街上的咖啡吧是最好的地方可以导致渴望去主街上的咖啡吧。这个渴望然后可以与另一个信念结合，产生第三个渴望，依此类推。有时，这个过程会导致渴望执行一个相对简单或“基本”的行动，而这个渴望反过来会导致行动者执行基本行动，而无需进一步的渴望介入。由实践推理过程产生或维持的渴望是“工具性”渴望——行动者拥有这些渴望，是因为她认为满足这些渴望将导致她渴望的其他事物。但并非所有的渴望都可以是工具性渴望。为了避免循环论证或无限回归，必须存在一些不是因为行动者认为满足它们将促进满足其他渴望而产生的渴望。这些不是由实践推理产生或维持的渴望是行动者的终极渴望，而终极渴望的对象——所渴望的状态——通常被称为“为了自身的缘故而渴望”。当这种渴望是导致行为的实践推理过程的一部分时，行为就是由特定的终极渴望“驱动”的。
 
-虽然第二个问题，即自利欲望与他人福祉欲望之间的区别，在对自我主义者和利他主义者之间的辩论进行全面处理时需要进行详细讨论，但在这里，一些粗略的例子就足够了。希望拯救他人生命、减轻他人痛苦或使他人快乐的欲望是他人福祉欲望的典型案例，而希望体验快乐、变得富有和出名的欲望则是自利欲望的典型例子。体验快乐和避免痛苦的自利欲望在这场辩论中起着特别重要的作用，因为自利主义的一种版本，通常被称为“享乐主义”，认为这些是我们*唯一*的终极欲望。Stich等人（2010）认为，一些欲望，比如我*自己*成为减轻朋友痛苦的人的欲望，很难分类，他们得出结论，自利主义和利他主义最好被视为有些模糊。
+虽然第二个问题，即自利欲望与他人福祉欲望之间的区别，在对自我主义者和利他主义者之间的辩论进行全面处理时需要进行详细讨论，但在这里，一些粗略的例子就足够了。希望拯救他人生命、减轻他人痛苦或使他人快乐的欲望是他人福祉欲望的典型案例，而希望体验快乐、变得富有和出名的欲望则是自利欲望的典型例子。体验快乐和避免痛苦的自利欲望在这场辩论中起着特别重要的作用，因为自利主义的一种版本，通常被称为“享乐主义”，认为这些是我们_唯一_的终极欲望。Stich等人（2010）认为，一些欲望，比如我_自己_成为减轻朋友痛苦的人的欲望，很难分类，他们得出结论，自利主义和利他主义最好被视为有些模糊。
 
-无论这是否正确，显然有*许多*既不是自利的欲望，也不是为他人福祉的欲望。最早的例子之一是由约瑟夫·巴特勒主教（1726 [1887]）提供的，他指出报复常常引发恶意的欲望，比如希望他人受到伤害的欲望，这显然不是为他人福祉的欲望，也不是自利的欲望。其他例子包括希望保留伟大的艺术作品和希望进行太空探索的欲望。对于道德理论来说，更有趣的是履行道义责任的欲望和遵守上帝的诫命的欲望。如果人们有这样的*终极*欲望，那么自利主义是错误的。但是，当然，这些终极欲望的存在并不能证明利他主义是正确的。从这些案例中可以得出的结论是，在标准观点上，自利主义和利他主义可能*都*是错误的。
+无论这是否正确，显然有_许多_既不是自利的欲望，也不是为他人福祉的欲望。最早的例子之一是由约瑟夫·巴特勒主教（1726 \[1887]）提供的，他指出报复常常引发恶意的欲望，比如希望他人受到伤害的欲望，这显然不是为他人福祉的欲望，也不是自利的欲望。其他例子包括希望保留伟大的艺术作品和希望进行太空探索的欲望。对于道德理论来说，更有趣的是履行道义责任的欲望和遵守上帝的诫命的欲望。如果人们有这样的_终极_欲望，那么自利主义是错误的。但是，当然，这些终极欲望的存在并不能证明利他主义是正确的。从这些案例中可以得出的结论是，在标准观点上，自利主义和利他主义可能_都_是错误的。
 
 尽管在哲学文献中，“利他主义”一词通常被解释为标准账户家族中的概念，但一些哲学家以非常不同的方式使用这个术语。Thomas Schramme（2017）的一篇论文提供了一个明确的例子。
 
-> [A]利他主义不必被简化为与利己主义的对立。在本章中，利他主义被讨论为道德行为的心理基础，不仅仅是为了造福他人的动机。在这里，“利他主义”代表了具备道德观点并愿意相应行动的能力……从这个角度来看，利他主义是道德内化现象的简称……（2017：203-204）。> > 利他主义基本上等同于采取道德观点，即个体对道德规范力量的认可。（2017：209）。[[10](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-10)]
+> \[A]利他主义不必被简化为与利己主义的对立。在本章中，利他主义被讨论为道德行为的心理基础，不仅仅是为了造福他人的动机。在这里，“利他主义”代表了具备道德观点并愿意相应行动的能力……从这个角度来看，利他主义是道德内化现象的简称……（2017：203-204）。> > 利他主义基本上等同于采取道德观点，即个体对道德规范力量的认可。（2017：209）。\[[10](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-10)]
 
 当然，Schramme意识到许多作者拒绝“将一般道德动机与利他动机紧密联系在一起”，但他坚持认为这种利他主义的解释“在哲学辩论中确实可以找到”（2017: 209）。Badhwar也提出了类似的观点（1993: 90）：
 
@@ -49,7 +50,7 @@
 
 Schramme无疑是对的，
 
-> [t]我们既可以将利他主义理解为一般道德行为，也可以将其限定为更具体的帮助行为，这可能会导致混淆。(2017: 204)
+> \[t]我们既可以将利他主义理解为一般道德行为，也可以将其限定为更具体的帮助行为，这可能会导致混淆。(2017: 204)
 
 尽管一些哲学家可能认为关于利他主义的正确解释存在实质性争议，但其他人认为这个问题纯粹是术语上的。正如前面所提到的，本文的主要关注点是本文所称的“标准解释”利他主义。但在接下来的两个部分中，将考虑一些与标准解释和Schramme和Badhwar讨论的解释都不同的解释。
 
@@ -57,7 +58,7 @@ Schramme无疑是对的，
 
 熟悉近几十年来关于道德进化的一些流行文献的读者可能会怀疑，进化生物学的最新研究已经解决了自我主义者和利他主义者之间的争论。因为一些读者和一些作家似乎将进化理论解释为利他主义在生物学上是不可能的。这些文献有时暗示，如果利他的有机体以某种方式出现，它们将在生存和繁殖竞争中输给自私的同类，并很快灭绝。从这个观点来看，任何利他主义的表现只是一种幻觉。正如生物学家迈克尔·吉塞林（1974: 247）所说的那样，“挖掘一个‘利他主义者’，你会看到一个‘伪君子’在流血”。
 
-但正如索伯和威尔逊（1998）以极大的清晰度所辩称的那样，进化理论与自我主义和利他主义之间的哲学争论之间没有*简单*的联系。这是因为在进化理论中重要的利他主义概念与哲学争论中所引用的标准利他主义概念相当不同。对于生物学家来说，只有当某种行为减少了有机体自身的适应度，同时增加了一个或多个其他有机体的适应度时，该有机体才表现出利他主义行为。粗略地说，有机体的适应度是其后代数量的衡量标准。正如索伯和威尔逊所指出的，根据这种进化对利他主义的解释，即使一个有机体没有能力拥有信念和欲望的心智，它仍然可以表现出利他主义。因此，从生物利他主义推导出心理利他主义并不容易。反过来也不成立。为了说明这一点，索伯和威尔逊（第10章）指出，自然选择可能会在某些情况下赋予人类或其他心理复杂的有机体最终的欲望，以促进他们后代的福祉。具有这些最终欲望的有机体将是心理上的利他主义者，尽管这些欲望产生的行为通常不是进化上的利他主义，因为通过帮助他们的后代，有机体通常是在增加自身的适应度。因此，与进化生物学已经解决了自我主义者和利他主义者之间的争论，支持自我主义的推论相反，进化理论似乎没有提供支持这一结论的证据。
+但正如索伯和威尔逊（1998）以极大的清晰度所辩称的那样，进化理论与自我主义和利他主义之间的哲学争论之间没有_简单_的联系。这是因为在进化理论中重要的利他主义概念与哲学争论中所引用的标准利他主义概念相当不同。对于生物学家来说，只有当某种行为减少了有机体自身的适应度，同时增加了一个或多个其他有机体的适应度时，该有机体才表现出利他主义行为。粗略地说，有机体的适应度是其后代数量的衡量标准。正如索伯和威尔逊所指出的，根据这种进化对利他主义的解释，即使一个有机体没有能力拥有信念和欲望的心智，它仍然可以表现出利他主义。因此，从生物利他主义推导出心理利他主义并不容易。反过来也不成立。为了说明这一点，索伯和威尔逊（第10章）指出，自然选择可能会在某些情况下赋予人类或其他心理复杂的有机体最终的欲望，以促进他们后代的福祉。具有这些最终欲望的有机体将是心理上的利他主义者，尽管这些欲望产生的行为通常不是进化上的利他主义，因为通过帮助他们的后代，有机体通常是在增加自身的适应度。因此，与进化生物学已经解决了自我主义者和利他主义者之间的争论，支持自我主义的推论相反，进化理论似乎没有提供支持这一结论的证据。
 
 ## 4. 社会科学中的利他主义
 
@@ -81,11 +82,11 @@ Piccinini和Schulz（2019）结合哲学、生物学和社会科学的观点，�
 
 与利己主义对利他主义的辩论相关的心理学文献非常丰富；为了简洁起见，本文将重点关注丹尼尔·巴森（Daniel Batson）及其合作者的研究，他们在这一领域做出了一些最有影响力和哲学上复杂的工作。
 
-巴森与许多其他研究人员一起，开始借鉴了在利他主义的哲学讨论中根深蒂固的思想。尽管细节和术语在不同的作者之间有很大的差异，但核心思想是利他主义往往是对他人困扰的情感反应的产物。例如，阿奎那（1270 [1917]：II-II，30，3）认为，
+巴森与许多其他研究人员一起，开始借鉴了在利他主义的哲学讨论中根深蒂固的思想。尽管细节和术语在不同的作者之间有很大的差异，但核心思想是利他主义往往是对他人困扰的情感反应的产物。例如，阿奎那（1270 \[1917]：II-II，30，3）认为，
 
 利他主义的经验研究方法是对他人困境的真诚同情，驱使我们在可能的情况下帮助他。
 
-而亚当·斯密（1759 [1853]：I，I，1.1）告诉我们，
+而亚当·斯密（1759 \[1853]：I，I，1.1）告诉我们，
 
 利他主义的经验研究方法是我们对他人痛苦所感受到的怜悯或同情，当我们看到或被强烈地意识到时。%%这些情感
 
@@ -95,9 +96,9 @@ Batson（1991年：58）将这种反应称为“共情”，他将其描述为�
 
 包括感同身受、同情心、温暖、心软、温柔等等，根据共情利他假设，它引发了利他动机
 
-尽管这种动机并不总是导致行为。巴森（1991: 117）将共情与他所称之为“个人困扰”的一系列情感反应进行对比，后者由更多以自我为中心的情感组成，如不安、警惕、焦虑和困扰。[14]
+尽管这种动机并不总是导致行为。巴森（1991: 117）将共情与他所称之为“个人困扰”的一系列情感反应进行对比，后者由更多以自我为中心的情感组成，如不安、警惕、焦虑和困扰。\[14]
 
-如果暗示共情利他主义假设的哲学传统是正确的，而巴森相信它是正确的，那么人们在感受到共情时会希望帮助那些引发这种情感的人，因此比那些没有感受到共情的人更倾向于参与帮助行为。这并不意味着人们在感受到共情时会*总是*参与帮助行为，因为人们可能经常有冲突的欲望，并且并不是所有的冲突都会以共情的呼唤为导向解决。这也不意味着当人们感受到很少或没有共情时，他们就不会参与帮助行为，因为帮助的愿望也可以通过各种过程产生，其中共情并不起作用。但我们应该期望通常感受到共情的人更有可能提供帮助，而他们对共情的感受越强烈，他们参与帮助行为的可能性就越大。
+如果暗示共情利他主义假设的哲学传统是正确的，而巴森相信它是正确的，那么人们在感受到共情时会希望帮助那些引发这种情感的人，因此比那些没有感受到共情的人更倾向于参与帮助行为。这并不意味着人们在感受到共情时会_总是_参与帮助行为，因为人们可能经常有冲突的欲望，并且并不是所有的冲突都会以共情的呼唤为导向解决。这也不意味着当人们感受到很少或没有共情时，他们就不会参与帮助行为，因为帮助的愿望也可以通过各种过程产生，其中共情并不起作用。但我们应该期望通常感受到共情的人更有可能提供帮助，而他们对共情的感受越强烈，他们参与帮助行为的可能性就越大。
 
 为了对这一主张进行经验测试，有必要在实验室中引发共情的方法，并且有大量的文献提出了如何做到这一点。例如，斯托兰德（1969）表明，被指示“想象”在接受被试认为是痛苦的医疗程序时，指定的人（通常称为“目标”）“感受到”的被试报告了更强烈的共情感受和更大的生理激活，而被指示观察目标人的动作的被试则没有这种情况。相关地，克雷布斯（1975）证明，观察到与自己相似的人经历痛苦经历的被试显示出更多的生理激活，报告更强烈地认同目标，并在等待痛苦刺激开始时感觉更糟糕，而观察到相同痛苦经历施加给与自己不相似的人的被试则没有这种情况。克雷布斯还表明，当受苦者与自己相似时，被试更愿意以一些个人代价提供帮助。巴森（1991：82-87）解释这些发现表明人们更倾向于对那些他们认为与自己相似的人产生共情，因此共情通常可以通过向一个人提供她与目标人相似的证据来引发。
 
@@ -111,7 +112,7 @@ Batson（1991年：58）将这种反应称为“共情”，他将其描述为�
 
 对于利他主义的可能性，有一类完全不同的自我主义可能性，它们关注的是帮助所带来的回报和不帮助所带来的惩罚。如果人们相信在某些情况下，他们帮助或不帮助他人会得到奖励或受到制裁，并且共情的感觉标志着社会制裁或奖励最有可能发生的情况，那么即使他们的最终动机纯粹是自我主义的，我们也会期望人们在感受到共情时更愿意提供帮助。这一主题的一个变种是关注自我施加的奖励或惩罚。如果人们相信帮助他人会让他们感觉良好，或者不帮助他人会让他们感觉不好，并且这些感觉最有可能发生在他们感受到共情的情况下，那么我们再次会期望那些共情的人更愿意提供帮助，尽管他们的动机可能一点也不利他主义。
 
-在过去的四十年里，巴森（Batson）及其合作者系统地探索了这些自我主义假设和其他许多假设。他们的策略是设计实验，通过比较利他主义解释与某种特定的自我主义解释之间的联系，来验证共情与帮助之间的关系。回顾所有这些实验需要更长的篇幅。[[16](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-16)]因此，重点将放在两个实验群组上，这些实验群组说明了在这个领域设计和解释实验的哲学价值，以及一些项目中的困难。
+在过去的四十年里，巴森（Batson）及其合作者系统地探索了这些自我主义假设和其他许多假设。他们的策略是设计实验，通过比较利他主义解释与某种特定的自我主义解释之间的联系，来验证共情与帮助之间的关系。回顾所有这些实验需要更长的篇幅。\[[16](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-16)]因此，重点将放在两个实验群组上，这些实验群组说明了在这个领域设计和解释实验的哲学价值，以及一些项目中的困难。
 
 ### 5.1 社会惩罚假设
 
@@ -119,13 +120,13 @@ Batson（1991年：58）将这种反应称为“共情”，他将其描述为�
 
 为了测试这个假设，巴森称之为“社会管理的特定于共情的惩罚假设”，巴森和他的合作者（Fultz等人，1986年）设计了一个实验，他们在实验中操纵了被试对目标的共情水平以及任何人是否知道被试是否选择帮助需要帮助的人的可能性。只有当他们知道你面临的选择和你做出的决定时，其他人才会对你不帮助的决定形成负面评价；如果你的决定是秘密的，你就不必担心社会制裁。因此，社会管理的特定于共情的惩罚假设预测，在某个特定场合表现出高度共情的被试在相信其他人会知道他们不帮助时更有可能提供帮助。相比之下，根据共情-利他主义假设，高度共情的被试受到一种最终帮助他人的愿望的驱动，因此无论其他人是否会知道他们决定不帮助，他们的帮助水平都应该很高。在低共情条件下，两个假设都预测帮助水平会很低。这些预测总结在表1和表2中。
 
-| | | | | --- | --- | --- | | *可能受到负面社会评价的潜力* | *共情* | | | *低* | *高* | | | *高* | 低 | 高 | | *低* | 低 | 低 |
+\| | | | | --- | --- | --- | | _可能受到负面社会评价的潜力_ | _共情_ | | | _低_ | _高_ | | | _高_ | 低 | 高 | | _低_ | 低 | 低 |
 
 ←**共情水平**←**帮助水平**
 
 表1. 对于社会施加的共情特定惩罚假设下的帮助数量（低或高）的预测。
 
-| | | | | --- | --- | --- | | *负面社会评价的潜力* | *共情* | | | *低* | *高* | | | *高* | 低 | 高 | | *低* | 低 | 高 |
+\| | | | | --- | --- | --- | | _负面社会评价的潜力_ | _共情_ | | | _低_ | _高_ | | | _高_ | 低 | 高 | | _低_ | 低 | 高 |
 
 ←**共情水平**←**帮助水平**
 
@@ -141,17 +142,17 @@ Batson（1991年：58）将这种反应称为“共情”，他将其描述为�
 
 > 仔细阅读传达者笔记中的信息，试图从写笔记的个体的角度来理解。试着想象这个个体对自己所写的内容的感受。（1991年：132）
 
-采取了四个步骤来操纵对负面社会评价的感知潜力。在*低潜力*条件下（1991年：132）：
+采取了四个步骤来操纵对负面社会评价的感知潜力。在_低潜力_条件下（1991年：132）：
 
 1. 告诉被试他们将是唯一一个阅读沟通者笔记的人，并且笔记是在密封信封中交付的。 2. 向被试保证，他们对珍妮特笔记的反应将是匿名的。 3. 被试对参与长期关系研究的邀请的回应被放在密封信封中交还给教授，这样就没有人会知道他们是否不愿意帮助珍妮特。（由于他们相信教授没有阅读珍妮特的笔记，可以预期他们会推测他不会知道珍妮特需要一个朋友。） 4. 在邀请他们参与关系研究的信中，被试被告知只有在他们想要会面时才会联系珍妮特；如果不想会面，我们将不会联系沟通者，他或她也不会知道你是否被问过是否真的想要会面。
 
-在*高潜力*条件下（1991年：133）：
+在_高潜力_条件下（1991年：133）：
 
 1. 受试者被告知实验员将会阅读传达者的笔记。另外，当受试者完成问卷并将其交回时，实验员会将笔记的内容与受试者的印象进行比较。 2. 对于参加长期关系研究的邀请，没有提供回复的信封，因此受试者可以推断实验员会了解到珍妮特需要朋友的情况，以及他们对珍妮特的情感反应，还会知道他们是否同意帮助珍妮特。 3. 受试者被告知如果他们决定不帮助，珍妮特会知道。
 
 正如巴森所指出的那样，高潜力条件下的程序旨在突出强调，如果参与者决定不自愿与珍妮特共度时间，可能会面临负面社会评价的可能性
 
-| | | | | --- | --- | --- | | *负面社会评价的潜力* | *共情* | | | *低* | *高* | | | *高* | 0.67 | 1.71 | | *低* | 1.29 | 2.44 |
+\| | | | | --- | --- | --- | | _负面社会评价的潜力_ | _共情_ | | | _低_ | _高_ | | | _高_ | 0.67 | 1.71 | | _低_ | 1.29 | 2.44 |
 
 ←**共情水平**←**帮助水平**
 
@@ -165,17 +166,17 @@ Batson（1991年：58）将这种反应称为“共情”，他将其描述为�
 
 ### 5.2 令人厌恶的情绪减轻假设
 
-另一种用于解释同理心与帮助行为之间关系的流行利己策略是"令人厌恶的情绪减轻假设"，该理论认为目击到有人需要帮助以及引发的同理心是一种不愉快或厌恶的经历，并且帮助是出于减轻这种令人厌恶的经历的欲望[[17](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-17)]。如果这是正确的，巴森认为，在高同理心条件下，人们有时会有两种完全不同的方式来减轻令人厌恶的经历 - 他们可以帮助需要帮助的人，或者他们可以简单地离开。一个人采取哪种策略，部分取决于离开现场的困难程度和代价。如果离开容易，人们更有可能选择这个选项，而如果离开困难，人们更有可能帮助，因为这是一种更低成本的结束令人厌恶的经历的方式。另一方面，如果同理心利他假设是正确的，同理心会真正引导利他动机，我们会期望高同理心条件下的人们无论离开容易还是困难，都会提供帮助，因为只有帮助才能满足利他的欲望。
+另一种用于解释同理心与帮助行为之间关系的流行利己策略是"令人厌恶的情绪减轻假设"，该理论认为目击到有人需要帮助以及引发的同理心是一种不愉快或厌恶的经历，并且帮助是出于减轻这种令人厌恶的经历的欲望\[[17](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-17)]。如果这是正确的，巴森认为，在高同理心条件下，人们有时会有两种完全不同的方式来减轻令人厌恶的经历 - 他们可以帮助需要帮助的人，或者他们可以简单地离开。一个人采取哪种策略，部分取决于离开现场的困难程度和代价。如果离开容易，人们更有可能选择这个选项，而如果离开困难，人们更有可能帮助，因为这是一种更低成本的结束令人厌恶的经历的方式。另一方面，如果同理心利他假设是正确的，同理心会真正引导利他动机，我们会期望高同理心条件下的人们无论离开容易还是困难，都会提供帮助，因为只有帮助才能满足利他的欲望。
 
 利他主义和利己主义都认为，即使没有共情，情感上困扰的需求情境也会产生个人困扰的感觉，因此它们都预测，在共情能力较低的情况下，当逃避困难时，人们更倾向于提供帮助，而当逃避容易时，人们更不倾向于提供帮助。Batson在表4和表5中总结了这些预测（Batson 1991: 111）。
 
-| | | | | --- | --- | --- | | *逃避* | *共情* | | | *低* | *高* | | | *容易* | 低 | 低 | | *困难* | 高 | 高/非常高 |
+\| | | | | --- | --- | --- | | _逃避_ | _共情_ | | | _低_ | _高_ | | | _容易_ | 低 | 低 | | _困难_ | 高 | 高/非常高 |
 
 ←**共情水平**←**帮助水平**
 
 表4. 逃避X共情设计中，基于厌恶-激活减少假设对帮助率的预测
 
-| | | | | --- | --- | --- | | *逃避* | *共情* | | | *低* | *高* | | | *容易* | 低 | 高 | | *困难* | 高 | 高 |
+\| | | | | --- | --- | --- | | _逃避_ | _共情_ | | | _低_ | _高_ | | | _容易_ | 低 | 高 | | _困难_ | 高 | 高 |
 
 ←**共情水平**←**帮助水平**
 
@@ -185,23 +186,23 @@ Batson（1991年：58）将这种反应称为“共情”，他将其描述为�
 
 结果在表6中给出，清楚地展示了利他主义的经验研究方法所预测的模式，而不是厌恶-唤起减少假设所预测的模式。
 
-| | | | | --- | --- | --- | | *逃避* | *共情* | | | *低* | *高* | | | *容易* | 0.18 | 0.91 | | *困难* | 0.64 | 0.82 |
+\| | | | | --- | --- | --- | | _逃避_ | _共情_ | | | _低_ | _高_ | | | _容易_ | 0.18 | 0.91 | | _困难_ | 0.64 | 0.82 |
 
 ←**共情水平**←**帮助水平**
 
-表6. 同意为伊莱恩承受电击的受试者比例（Batson, Duncan等人，1981年，实验1）
+表6. 同意为伊莱恩承受电击的受试者比例（Batson, Duncan等人，1981年，实验1）
 
 在其他实验中，巴森和他的同事们使用了四种不同的技术来创建低和高共情条件，两种技术用于操纵逃避的便利性，以及两种不同的需求情境（Batson，Duncan等，1981年; Toi和Batson，1982年; Batson，O'Quin等，1983年）。所有这些实验的结果都呈现出相同的模式。有趣的是，在另一个实验中，巴森和同事们试图通过告诉被试者他们将不得不忍受的电击水平是四个选项中最高的，"明显痛苦但不会造成伤害"，来打破这种模式。他们推理，在这种情况下，即使高共情的被试者有一个最终帮助的愿望，这个愿望可能会被避免一系列非常痛苦的电击的愿望所取代。正如预期的那样，这个实验的结果模式与[表4](https://plato.stanford.edu/entries/altruism-empirical/#table4)中的模式相吻合。
 
 这些是令人印象深刻的发现。一次又一次，在设计良好和精心进行的实验中，巴森和他的同事们产生了与共情利他假设的预测明显相符的结果，如[表5](https://plato.stanford.edu/entries/altruism-empirical/#table5)所述，并且与厌恶-唤起减少假设的预测明显不相符，如[表4](https://plato.stanford.edu/entries/altruism-empirical/#table4)所述。即使是"明显痛苦的电击"实验，其结果与表4的模式相符，也与共情利他假设相容；正如前面所提到的，共情利他假设允许高共情的被试者可能有比帮助目标更强烈的欲望，而避免痛苦的电击的欲望是一个非常合理的候选者。
 
-然而，在得出结论说“厌恶情绪减少假说”无法解释Batson及其合作者报告的发现之前，还有一个问题需要克服。在证明[表4](https://plato.stanford.edu/entries/altruism-empirical/#table4)反映了厌恶情绪减少假设的预测时，Batson必须假设逃避行为将减轻低和高移情状况下的厌恶情绪，并且受试者*相信*这一点（尽管这种信念可能无法轻易从内省中获取）。我们可以称之为“眼不见心不烦”的假设。借鉴Hoffman（1991）和Hornstein（1991）的观点，一个自我中心主义者可以提出这样的主张：尽管受试者在对目标对象缺乏移情时确实相信这一点，但当受试者对目标对象有很强的移情时，他们却不相信这一点。也许高移情的受试者相信，即使逃离了现场，他们仍会为窘迫的目标而困扰，因此身体上的逃避并不会导致心理上的逃避。事实上，当移情很强且由依恋引发时，我们会合理地预料到这种情况。你真的相信如果你母亲陷入严重困境，你离开而不去帮助她，你就不会继续为她仍处于困境中而感到困扰吗？我们猜想你不会这样认为。但是，如果Batson的实验中的高移情受试者相信即使在他们离开之后，他们仍会被关于目标对象令人痛苦的想法所困扰，那么自我中心主义的厌恶情绪减少假设会预测这些受试者在易于逃避和困难逃避条件下都倾向于提供帮助，因为他们相信只有帮助行为才能有效降低厌恶情绪。因此，不管是[表6](https://plato.stanford.edu/entries/altruism-empirical/#table6)中报告的结果，还是Batson的其他实验结果，都不能给我们一个理由去支持移情-利他假设胜过厌恶情绪减少假设，因为两种假设做出了相同的预测。
+然而，在得出结论说“厌恶情绪减少假说”无法解释Batson及其合作者报告的发现之前，还有一个问题需要克服。在证明[表4](https://plato.stanford.edu/entries/altruism-empirical/#table4)反映了厌恶情绪减少假设的预测时，Batson必须假设逃避行为将减轻低和高移情状况下的厌恶情绪，并且受试者_相信_这一点（尽管这种信念可能无法轻易从内省中获取）。我们可以称之为“眼不见心不烦”的假设。借鉴Hoffman（1991）和Hornstein（1991）的观点，一个自我中心主义者可以提出这样的主张：尽管受试者在对目标对象缺乏移情时确实相信这一点，但当受试者对目标对象有很强的移情时，他们却不相信这一点。也许高移情的受试者相信，即使逃离了现场，他们仍会为窘迫的目标而困扰，因此身体上的逃避并不会导致心理上的逃避。事实上，当移情很强且由依恋引发时，我们会合理地预料到这种情况。你真的相信如果你母亲陷入严重困境，你离开而不去帮助她，你就不会继续为她仍处于困境中而感到困扰吗？我们猜想你不会这样认为。但是，如果Batson的实验中的高移情受试者相信即使在他们离开之后，他们仍会被关于目标对象令人痛苦的想法所困扰，那么自我中心主义的厌恶情绪减少假设会预测这些受试者在易于逃避和困难逃避条件下都倾向于提供帮助，因为他们相信只有帮助行为才能有效降低厌恶情绪。因此，不管是[表6](https://plato.stanford.edu/entries/altruism-empirical/#table6)中报告的结果，还是Batson的其他实验结果，都不能给我们一个理由去支持移情-利他假设胜过厌恶情绪减少假设，因为两种假设做出了相同的预测。
 
 在像Batson的实验中，高移情受试者是否认为，除非他们提供帮助，否则他们将继续思考目标对象，并因此继续感觉痛苦，而这种信念导致帮助行为，因为它产生了一种自私的工具性帮助欲望？当然，这是一个实证问题，Stocks及其合作者进行了巧妙设计的实验（Stocks et al. 2009）表明，在像Batson的实验中所使用的情境中，高移情受试者认为他们会继续思考目标对象并不起到促使他们提供帮助行为的重要作用。
 
 Batson对厌恶-唤起减少假设的研究，得到了Stocks等人的发现的支持，这是自利主义与利他主义辩论中的一项重大进展。厌恶-唤起减少假设一直是解释帮助行为的最流行的自利主义策略之一。但实验结果强烈表明，在像Batson和他的合作者所研究的情境中，共情-利他主义假设比厌恶-唤起减少假设更能解释受试者的行为。
 
-正如前面所提到的，Batson和他的同事还设计了一系列实验，将共情-利他主义假设与其他自利主义解释联系起来。在每种情况下，证据似乎都挑战了自利主义的替代方案，尽管在这类实证研究中，总会有一些研究人员仍然不信服。[18]然而，对Batson的研究提出了有影响力的批评，挑战了他关于共情-利他主义假设的所有实验工作。该批评认为，共情及其前因会以一种方式改变人们的自我概念，从而削弱了他们的帮助行为是真正利他主义的主张。
+正如前面所提到的，Batson和他的同事还设计了一系列实验，将共情-利他主义假设与其他自利主义解释联系起来。在每种情况下，证据似乎都挑战了自利主义的替代方案，尽管在这类实证研究中，总会有一些研究人员仍然不信服。\[18]然而，对Batson的研究提出了有影响力的批评，挑战了他关于共情-利他主义假设的所有实验工作。该批评认为，共情及其前因会以一种方式改变人们的自我概念，从而削弱了他们的帮助行为是真正利他主义的主张。
 
 ### 5.3 “自我他者融合”所带来的挑战
 
@@ -219,7 +220,7 @@ Batson对厌恶-唤起减少假设的研究，得到了Stocks等人的发现的�
 
 > 如果自我和他人之间的区别消失了，那么利他主义和利己主义之间的区别也会消失，至少在共情-利他主义假设中使用这些术语时是如此。（2011年：148）
 
-心理学家们对于一个相当惊人的主张进行了辩论，即帮助他人的人往往会失去自己和被帮助者之间的区别。他们提出了几种不同的方法来确定是否发生了这种“自他融合”。然而，在考虑这些方法之前，我们应该提醒自己一个重要的哲学区别，这个区别在评估自他融合测试时至关重要。这个区别通常用“质的同一性”和“数量的同一性”这两个标签来表示。质的同一性是指同一家公司制造的两台电视之间经常存在的关系。它们共享大部分重要属性。数量的同一性是指一个人在生命中的某个时间与同一个人在生命中的另一个时间之间的关系。如果时间间隔很长，较早时间的人可能在许多方面与较晚时间的人不同。当你还是个婴儿的时候，你的体重不到10公斤，不会说任何语言，也不能走路。但是你现在与婴儿是数量上的同一个人。数量的同一性在法律和道德上非常重要，这一点在约翰·德姆扬尼克（John Demjanuk）的审判中得到了很好的说明。约翰·德姆扬尼克是乌克兰出生的汽车工人，被指控是那个被他的受害者称为“可怕的伊凡”的虐待狂纳粹集中营看守。1988年审判中的这个人在许多方面与集中营看守不同：他年龄更大，体重更重，秃头，会说英语。显然，他与伊凡的罪行的质的同一性差得远。法庭需要确定的不是伊凡和德姆扬尼克是否在质的上相同，而是在数量上是否相同。对于目前的目的来说，这个区别的重要性在于，对于自我主义者和利他主义者之间的辩论而言，相关的身份是数量上的同一性，而不是质的同一性。如果30岁的索菲亚存下一大笔钱，将在70岁时支付给她自己，年轻的索菲亚并不是在表现利他主义。如果她的最终目标是确保老年的索菲亚有生活的资本，那么年轻的索菲亚的行为就是明显的自我主义。这里的要点是，如果用于确定人*A*是否认为自己与人*B*相同的测试要与自我主义与利他主义的辩论相关，那么这个测试必须提供证据表明人*A*认为自己在数量上与人*B*相同，而不是在质的上相同。
+心理学家们对于一个相当惊人的主张进行了辩论，即帮助他人的人往往会失去自己和被帮助者之间的区别。他们提出了几种不同的方法来确定是否发生了这种“自他融合”。然而，在考虑这些方法之前，我们应该提醒自己一个重要的哲学区别，这个区别在评估自他融合测试时至关重要。这个区别通常用“质的同一性”和“数量的同一性”这两个标签来表示。质的同一性是指同一家公司制造的两台电视之间经常存在的关系。它们共享大部分重要属性。数量的同一性是指一个人在生命中的某个时间与同一个人在生命中的另一个时间之间的关系。如果时间间隔很长，较早时间的人可能在许多方面与较晚时间的人不同。当你还是个婴儿的时候，你的体重不到10公斤，不会说任何语言，也不能走路。但是你现在与婴儿是数量上的同一个人。数量的同一性在法律和道德上非常重要，这一点在约翰·德姆扬尼克（John Demjanuk）的审判中得到了很好的说明。约翰·德姆扬尼克是乌克兰出生的汽车工人，被指控是那个被他的受害者称为“可怕的伊凡”的虐待狂纳粹集中营看守。1988年审判中的这个人在许多方面与集中营看守不同：他年龄更大，体重更重，秃头，会说英语。显然，他与伊凡的罪行的质的同一性差得远。法庭需要确定的不是伊凡和德姆扬尼克是否在质的上相同，而是在数量上是否相同。对于目前的目的来说，这个区别的重要性在于，对于自我主义者和利他主义者之间的辩论而言，相关的身份是数量上的同一性，而不是质的同一性。如果30岁的索菲亚存下一大笔钱，将在70岁时支付给她自己，年轻的索菲亚并不是在表现利他主义。如果她的最终目标是确保老年的索菲亚有生活的资本，那么年轻的索菲亚的行为就是明显的自我主义。这里的要点是，如果用于确定人_A_是否认为自己与人_B_相同的测试要与自我主义与利他主义的辩论相关，那么这个测试必须提供证据表明人_A_认为自己在数量上与人_B_相同，而不是在质的上相同。
 
 现在让我们考虑心理学家们如何尝试评估实验参与者是否与可能需要帮助的人产生身份认同感。在一项最有影响力的研究中，Cialdini等人（1997年）使用了一对测试来显���帮助往往是一种一体感的产物。
 
@@ -235,7 +236,7 @@ Batson对厌恶-唤起减少假设的研究，得到了Stocks等人的发现的�
 
 巴森对这个问题的回答是明确的。
 
-综述了对利他主义和利己主义六种替代假说进行测试的研究实证后，现在是时候做出结论了，尽管它可能是暂时的结论。认为移情产生利他动机可能似乎不太可能，因为西方思想主导着普遍的利己主义教条。然而，用福尔摩斯的话说，“当你排除了不可能的，剩下的无论多么不可能，必然是真相”。任何已知的利己主义解释都似乎无法解释我们所回顾过的研究证据中的关系。那么剩下的是什么呢？利他主义移情假说。在没有新证据或对现有证据的合理新的利己主义解释之前，我们似乎被迫接受这个不太可能的假说为真实。（Batson 2011: 160）[21]
+综述了对利他主义和利己主义六种替代假说进行测试的研究实证后，现在是时候做出结论了，尽管它可能是暂时的结论。认为移情产生利他动机可能似乎不太可能，因为西方思想主导着普遍的利己主义教条。然而，用福尔摩斯的话说，“当你排除了不可能的，剩下的无论多么不可能，必然是真相”。任何已知的利己主义解释都似乎无法解释我们所回顾过的研究证据中的关系。那么剩下的是什么呢？利他主义移情假说。在没有新证据或对现有证据的合理新的利己主义解释之前，我们似乎被迫接受这个不太可能的假说为真实。（Batson 2011: 160）\[21]
 
 Batson的研究计划很有说服力，他确实表明了利他主义移情假说是“在追求中”，但他的研究结果并不具有决定性。对于Batson研究中的方法和结论，存在着一些合理的质疑。详细列出这些质疑是一个庞大的项目（参见Stich，Doris和Roedder 2010）。但也存在一个有道理的利己主义假说尚未被系统地探索。
 
@@ -253,7 +254,7 @@ Batson使用术语“原则主义”来描述一类既不支持利己主义也�
 
 在某些情况下，这些原则中的一个或另一个可能需要帮助行为，尽管这种帮助行为不是无私的，因为激发行为的最终欲望是维护原则。在巴森的观点中，我们对原则主义了解甚少。
 
-> 据我所知，目前没有清晰的经验证据表明维护正义（或任何其他道德原则）作为终极目标的效果。[[25](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-25)] 也没有明确的经验证据排除了这种可能性。（巴森，2011: 224）
+> 据我所知，目前没有清晰的经验证据表明维护正义（或任何其他道德原则）作为终极目标的效果。\[[25](https://plato.stanford.edu/entries/altruism-empirical/notes.html#note-25)] 也没有明确的经验证据排除了这种可能性。（巴森，2011: 224）
 
 但如果这是正确的，那么巴森的结论即同理心利他主义假设是正确的，人们有时是利他的，就过于草率了。即使我们承认所有合理的利己主义替代方案都被排除在外，测试同理心利他主义与原则主义替代方案的工作也仅仅刚刚开始。此外，这个项目的范围可能比巴森想象的要大得多。
 
@@ -267,130 +268,129 @@ Batson和他的合作者取得了很大的成就。他们提出了一个复杂�
 
 更积极的是，看起来Batson和他的合作者已经相当确凿地证明了实验心理学的方法可以推动辩论的进展。事实上，可以说在过去的四十年里，Batson在这个领域取得的进展比使用传统的先验论证方法和直觉支持的哲学家在前两千年中取得的进展还要大。他们的工作有力地证明了实证方法在道德心理学中的实用性；哲学道德心理学家在利他主义-利己主义问题上的辩论总是提出实证主张，现在明显人类科学具备了资源来帮助我们对这些实证主张进行实证评估。
 
-
 ## Bibliography
 
-- Aquinas, Thomas, 1270 [1917], *The Summa Theologica*, Vol 2, Part II, New York: Benziger Brothers.
-- Aron, Arthur, Elaine N. Aron, and Danny Smollan, 1992, “Inclusion of Other in the Self Scale and the Structure of Interpersonal Closeness”, *Journal of Personality and Social Psychology*, 63(4): 596–612. doi:10.1037/0022-3514.63.4.596
-- Aron, Arthur, Elaine N. Aron, Michael Tudor, and Greg Nelson, 1991, “Close Relationships as Including Other in the Self”, *Journal of Personality and Social Psychology*, 60(2): 241–253. doi:10.1037/0022-3514.60.2.241
-- Aubrey, John, 1650–1695 [1949], *Brief Lives*, Oliver Lawson Dick (ed.), Boston: David R. Godine. Aubrey’s sketch of Hobbes is available online at https://mathshistory.st-andrews.ac.uk/Obituaries/Hobbes_Aubrey/
-- Badhwar, Neera Kapur, 1993, “Altruism Versus Self-Interest: Sometimes a False Dichotomy”, *Social Philosophy and Policy*, 10(1): 90–117. doi:10.1017/S0265052500004039
-- Batson, C. Daniel, 1991, *The Altruism Question: Toward a Social-Psychological Answer*, Hillsdale, NJ: Lawrence Erlbaum Associates.
-- –––, 1998, “Altruism and Prosocial Behavior”, in Daniel T. Gilbert, Susan T. Fiske, and Gardner Lindzey (eds.), *The Handbook of Social Psychology*, volume 2, fourth edition, Boston: McGraw-Hill, pp. 282–316.
-- –––, 2011, *Altruism in Humans*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195341065.001.0001
-- –––, 2012, “A History of Prosocial Behavior Research”, in Arie W. Kruglanski and Wolfgang Stroebe, (eds.), *Handbook of the History of Social Psychology*, New York: Psychology Press, pp. 243–264. doi:10.4324/9780203808498.ch12
-- –––, 2015, “Testing the Empathy-Altruism Hypothesis Against Egoistic Alternatives”, in Lorraine L. Besser-Jones and Michael Slote (eds.), *The Routledge Companion to Virtue Ethics*, New York: Routledge, pp. 385–400.
-- Batson, C. Daniel, Bruce D. Duncan, Paula Ackerman, Terese Buckley, and Kimberly Birch, 1981, “Is Empathic Emotion a Source of Altruistic Motivation?” *Journal of Personality and Social Psychology*, 40(2): 290–302. doi:10.1037/0022-3514.40.2.290
-- Batson, C. Daniel, Patricia Schoenrade, and W. Larry Ventis, 1993. *Religion and the Individual: A Social-Psychological Perspective*, New York: Oxford University Press.
-- Batson, C. Daniel, Karen O’Quin, Jim Fultz, Mary Vanderplas, and Alice M. Isen, 1983, “Influence of Self-Reported Distress and Empathy on Egoistic versus Altruistic Motivation to Help”, *Journal of Personality and Social Psychology*, 45(3): 706–718. doi:10.1037/0022-3514.45.3.706
-- Batson, C. Daniel, Karen Sager, Eric Garst, Misook Kang, Kostia Rubchinsky, and Karen Dawson, 1997, “Is Empathy-induced Helping Due to Self-other Merging?”, *Journal of Personality and Social Psychology*, 73(3): 495–509. doi:10.1037/0022-3514.73.3.495
-- Batson, C. Daniel, Kathryn C. Oleson, Joy L. Weeks, Sean P. Healy, Penny J. Reeves, Patrick Jennings, and Thomas Brown, 1989, “Religious Prosocial Motivation: Is It Altruistic or Egoistic?”, *Journal of Personality and Social Psychology*, 57(5): 873–884. doi:10.1037/0022-3514.57.5.873
-- Baumeister, Roy F., 1998, “The Self”, in *The Handbook of Social Psychology*, fourth edition, Daniel T. Gilbert, Susan T. Fiske, and Gardner Lindzey (eds.), Boston: McGraw-Hill, vol. 1, 680–740.
-- Beatty, John, 1992, “Fitness: Theoretical Contexts”, in *Keywords in Evolutionary Biology*, Evelyn Fox Keller and Elisabeth A. Lloyd (eds.), Cambridge, MA: Harvard University Press.
-- Boyd, Robert, 2018, *A Different Kind of Animal: How Culture Transformed Our Species*, Princeton, NJ: Princeton University Press.
-- Broad, C.D., 1930, *Five Types of Ethical Theory*, New York: Harcourt, Brace.
-- –––, 1950, “Egoism as a Theory of Human Motives”, *The Hibbert Journal*, 48: 105–114. Reprinted in his *Ethics and the History of Philosophy: Selected Essays*, London: Routledge and Kegan Paul, 1952, 218–231.
-- Butler, Joseph, 1726 [1887], *Human Nature and Other Sermons*, Henry Morley (ed.), London: Cassell & Company, Limited, 1887. [[Butler 1726 [1887] available online](http://www.gutenberg.org/ebooks/3150)]
-- Chambers, Chris, 2017, *The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice*, Princeton, NJ: Princeton University Press.
-- Cialdini, Robert B., Stephanie L. Brown, Brian P. Lewis, Carol Luce and Stephen L. Neuberg, 1997, “Reinterpreting the Empathy-Altruism Relationship: When One into One Equals Oneness”, *Journal of Personality and Social Psychology*, 73(3), 481– 494. doi:10.1037/0022-3514.73.3.481
-- Clavien, Christine and Rebekka A. Klein, 2010, “Eager for Fairness or for Revenge? Psychological Altruism in Economics”, *Economics and Philosophy*, 26(3): 267–290. doi:10.1017/S0266267110000374
-- Clavien, Christine and Michel Chapuisat, 2013, “Altruism across Disciplines: One Word, Multiple Meanings”, *Biology & Philosophy*, 28(1): 125–140. doi:10.1007/s10539-012-9317-3
-- De Waal, Frans B.M., 2008, “Putting the Altruism Back Into Altruism: The Evolution of Empathy”, *Annual Review of Psychology*, 59(1): 279–300. doi:10.1146/annurev.psych.59.103006.093625
-- Dixon, Thomas, 2008, *The Invention of Altruism: Making Moral Meanings in Victorian Britain*, Oxford: Oxford University Press. doi:10.5871/bacad/9780197264263.001.0001
-- Dovidio, John F., Judith Allen, and David A. Schroeder, 1990, “Specificity of Empathy-induced Helping: Evidence for Altruistic Motivation”, *Journal of Personality and Social Psychology*, 59(2): 249–60. doi:10.1037/0022-3514.59.2.249
-- Eisenberg, Nancy and Paul A. Miller, 1987, “The Relation of Empathy to Prosocial and Related Behaviors”, *Psychological Bulletin*, 101(1): 91–119. doi:10.1037/0033-2909.101.1.91
-- Feigin, Svetlana, Glynn Owens, and Felicity Goodyear-Smith, 2014, “Theories of Human Altruism: A Systematic Review”, *Journal of Psychiatry and Brain Functions*, 1: art. 5. doi:10.7243/2055-3447-1-5
-- Feinberg, Joel, 1965 [1999], “Psychological Egoism”, in *Reason and Responsibility*, Joel Feinberg (ed.), Belmont, CA: Dickenson Publishing. Reprinted in various editions including the tenth, co-edited with Russ Shafer-Landau, Belmont, CA: Wadsworth, 1999. Based on materials composed for philosophy students at Brown University, 1958.
-- Frankena, William K., 1967, “The Concept of Morality”, in *University of Colorado Studies: Series in Philosophy*, 3, Boulder, CO: University of Colorado Press, 1–22. Reprinted in *The Definition of Morality*, Gerald Wallace and Arthur David McKinnon Walker (eds.), London: Methuen, 1970, 146–173.
-- Fultz, Jim, C. Daniel Batson, Victoria A. Fortenbach, Patricia M. McCarthy, and Laurel L. Varney, 1986, “Social Evaluation and the Empathy-Altruism Hypothesis”, *Journal of Personality and Social Psychology*, 50(4): 761–769. doi:10.1037/0022-3514.50.4.761
-- Gęsiarz, Filip and Molly J. Crockett, 2015, “Goal-directed, Habitual and Pavlovian Prosocial Behavior”, *Frontiers in Behavioral Neuroscience*, 9: 135. doi:10.3389/fnbeh.2015.00135
-- Ghiselin, Michael, 1974, *The Economy of Nature and the Evolution of Sex*, Berkeley: University of California Press.
-- Goldman, Alvin I., 1970, *A Theory of Human Action*, Englewood-Cliffs, NJ: Prentice-Hall.
-- Grant, Colin, 1997, “Altruism: A Social Science Chameleon”, *Zygon*, 32(3): 321–40. doi:10.1111/0591-2385.00094/
-- Henrich, Joseph, 2015, *The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter*, Princeton, NJ: Princeton University Press.
-- Hobbes, Thomas, 1651 [1981], *Leviathan: Edited with an Introduction by C.B. Macpherson*, London: Penguin Books.
-- Hoffman, Martin L., 1991, “Is Empathy Altruistic?” *Psychological Inquiry*, 2(2): 131–133. doi:10.1207/s15327965pli0202_6
-- Hornstein, Harvey A., 1991, “Empathic Distress and Altruism: Still Inseparable”, *Psychological Inquiry*, 2, 133–135. doi:10.1207/s15327965pli0202_7
-- Joyce, Richard, 2006, *The Evolution of Morality*, Cambridge, MA: MIT Press.
-- Kant, Immanuel, 1785 [1949], *Fundamental Principles of the Metaphysics of Morals*, translated by Thomas K. Abbott. Englewood Cliffs, NJ: Prentice Hall/Library of Liberal Arts.
-- Kelly, Daniel and Taylor Davis, 2018, “Social Norms and Human Normative Psychology”, *Social Philosophy and Policy*, 35(1): 54–76. doi:10.1017/S0265052518000122
-- Kerr, Benjamin, Peter Godfrey-Smith, and Marcus W. Feldman, 2004, “What Is Altruism?”, *Trends in Ecology & Evolution*, 19(3): 135–140. doi:10.1016/j.tree.2003.10.004
-- Kihlstrom, John F. and Nancy Cantor, 1984, “Mental Representations of the Self”, in *Advances in Experimental Social Psychology*, volume 17, Leonard Berkowitz (ed.), New York: Academic Press. 1–47. doi:10.1016/S0065-2601(08)60117-3
-- Kitcher, Philip, 2010, “Varieties of Altruism”, *Economics and Philosophy*, 26(2): 121–148. doi:10.1017/S0266267110000167
-- –––, 2011, *The Ethical Project*, Cambridge, MA: Harvard University Press.
-- Krebs, Dennis, 1975, “Empathy and Altruism”, *Journal of Personality and Social Psychology*, 32(6): 1134–1146. doi:10.1037/0022-3514.32.6.1134
-- LaFollette, Hugh, 2000a, “Introduction”, in LaFollette 2000b: 1–12.
-- ––– (ed.), 2000b, *The Blackwell Guide to Ethical Theory*, Oxford: Blackwell Publishing.
-- Lerner, Melvin J., 1980, *The Belief in a Just World: A Fundamental Delusion*. New York: Plenum.
-- Ma, Vaunne and Thomas J. Schoeneman, 1997, “Individualism Versus Collectivism: A Comparison of Kenyan and American Self-Concepts”, *Basic and Applied Social Psychology*, 19(2): 261–273. doi:10.1207/s15324834basp1902_7
-- MacIntyre, Alasdair, 1967, “Egoism and Altruism”, in Paul Edwards (ed.), *The Encyclopedia of Philosophy*, vol. 2, first edition, New York: Macmillan, pp. 462–466.
-- Markus, Hazel and Elissa Wurf, 1987, “The Dynamic Self-Concept: A Social Psychological Perspective”, *Annual Review of Psychology*, 38(1): 299–337. doi:10.1146/annurev.ps.38.020187.001503
-- Markus, Hazel R. and Shinobu Kitayama, 1991, “Culture and the Self: Implications for Cognition, Emotion, and Motivation”, *Psychological Review*, 98(2): 224–253. doi:10.1037/0033-295X.98.2.224
-- May, Joshua, 2011a, “Psychological Egoism”, *Internet Encyclopedia of Philosophy*, URL = <https://www.iep.utm.edu/psychego/>
-- –––, 2011b, “Egoism, Empathy, and Self-Other Merging”, *Southern Journal of Philosophy*, 49(s1): 25–39. doi:10.1111/j.2041-6962.2011.00055.x
-- –––, 2011c, “Relational Desires and Empirical Evidence against Psychological Egoism: On Psychological Egoism”, *European Journal of Philosophy*, 19(1): 39–58. doi:10.1111/j.1468-0378.2009.00379.x
-- McAuliffe, William H. B., Daniel E. Forster, Joachner Philippe, and Michael E. McCullough, 2018, “Digital Altruists: Resolving Key Questions about the Empathy–Altruism Hypothesis in an Internet Sample”, *Emotion*, 18(4): 493–506. doi:10.1037/emo0000375
-- Mill, John Stuart, 1861 [2011], *Utilitarianism*, first published as three articles in *Fraser’s Magazine*. Printed as a book London: Parker, Son & Bourn, 1863. Reprinted 2011, George Sher (ed.), Indianapolis, IN: Hackett.
-- Nagel, Thomas, 1970, *The Possibility of Altruism*, Oxford: Clarendon Press.
-- –––, 1986, *The View From Nowhere*, New York and Oxford: Oxford University Press.
-- Norenzayan, Ara, Azim F. Shariff, Will M. Gervais, Aiyana K. Willard, Rita A. McNamara, Edward Slingerland, and Joseph Henrich, 2016, “The Cultural Evolution of Prosocial Religions”, *Behavioral and Brain Sciences*, 39: e1. doi:10.1017/S0140525X14001356
-- Piccinini, Gualtiero and Armin W. Schulz, 2019, “The Ways of Altruism”, *Evolutionary Psychological Science*, 5(1): 58–70. doi:10.1007/s40806-018-0167-3
-- Piliavin, Jane Allyn and Hong-Wen Charng, 1990, “Altruism: A Review of Recent Theory and Research”, *Annual Review of Sociology*, 16: 27–65. doi:10.1146/annurev.so.16.080190.000331
-- Purzycki, Benjamin Grant, Coren Apicella, Quentin D. Atkinson, Emma Cohen, Rita Anne McNamara, Aiyana K. Willard, Dimitris Xygalatas, Ara Norenzayan, and Joseph Henrich, 2016, “Moralistic Gods, Supernatural Punishment and the Expansion of Human Sociality”, *Nature*, 530(7590): 327–330. doi:10.1038/nature16980
-- Purzycki, Benjamin Grant, Joseph Henrich, Coren Apicella, Quentin D. Atkinson, Adam Baimel, Emma Cohen, Rita Anne McNamara, Aiyana K. Willard, Dimitris Xygalatas, and Ara Norenzayan, 2018, “The Evolution of Religion and Morality: A Synthesis of Ethnographic and Experimental Evidence from Eight Societies”, *Religion, Brain & Behavior*, 8(2): 101–132. doi:10.1080/2153599X.2016.1267027
-- Rachels, James, 2000, “Naturalism”, in LaFollette 2000b: 74–91.
-- –––, 2003, *The Elements of Moral Philosophy*, fourth edition, New York: McGraw-Hill.
-- Ramsey, Grant, 2006, “Block Fitness”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(3): 484–498. doi:10.1016/j.shpsc.2006.06.009
-- –––, 2016, “Can Altruism Be Unified?”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 56: 32–38. doi:10.1016/j.shpsc.2015.10.007
-- Ramsey, Grant and Robert Brandon, 2011, “Why Reciprocal Altruism Is Not a Kind of Group Selection”, *Biology & Philosophy*, 26(3): 385–400. doi:10.1007/s10539-011-9261-7
-- Schramme, Thomas, 2017, “Empathy and Altruism”, in *The Routledge Handbook of Philosophy of Empathy*. Heidi Maibom (ed.), New York: Routledge, 203–214.
-- Schroeder, David A., Louis A. Penner, John F. Dovidio, and Jane A. Piliavin, 1995, *The Psychology of Helping and Altruism: Problems and Puzzles*, New York: McGraw-Hill.
-- Schroeder, William, 2000, “Continental Ethics”, in LaFollette 2000b: 375–399.
-- Schulz, Armin W., 2011, “Sober and Wilson’s Evolutionary Arguments for Psychological Altruism: A Reassessment”, *Biology and Philosophy*, 26(2): 251–260. doi:10.1007/s10539-009-9179-5
-- Shariff, Azim F. and Ara Norenzayan, 2007, “God is Watching You”, *Pyschological Science*, 18(9), 803–809.
-- Shariff, Azim F., Aiyana K. Willard, Teresa Andersen, and Ara Norenzayan, 2016, “Religious Priming: A Meta-Analysis With a Focus on Prosociality”, *Personality and Social Pyschology Review*, 20(1):27–48. doi:10.1177/1088868314568811
-- Slote, Michael Anthony, 1964, “An Empirical Basis for Psychological Egoism”, *Journal of Philosophy*, 61(18): 530–537. doi:10.2307/2023495
-- –––, 2013, “Egoism and Emotion”, *Philosophia*, 41(2): 313–335. doi:10.1007/s11406-013-9434-5
-- Smith, Adam, 1759 [1853], *The Theory of Moral Sentiments*, London: Henry G. Bohn. Originally published 1759,
-- Sober, Elliott and David Sloan Wilson, 1998, *Unto Others: The Evolution and Psychology of Unselfish Behavior*, Cambridge, MA: Harvard University Press.
-- Sripada, Chandra Sekhar, 2008, “Adaptationism, Culture, and the Malleability of Human Nature”, in *The Innate Mind, Volume 3: Foundations and the Future*, Peter Carruthers, Stephen Laurence, and Stephen Stich (eds.), New York: Oxford University Press. doi:10.1093/acprof:oso/9780195332834.003.0016
-- Sripada, Chandra Sekhar and Stephen Stich, 2007, “A Framework for the Psychology of Norms”, in *The Innate Mind: Volume 2: Culture and Cognition, Peter Carruthers*, Stephen Laurence, and Stephen Stich (eds.), New York: Oxford University Press. doi:10.1093/acprof:oso/9780195310139.003.0017
-- Stich, Stephen, 2007, “Evolution, Altruism and Cognitive Architecture: A Critique of Sober and Wilson’s Argument for Psychological Altruism”, *Biology and Philosophy*, 22(2): 267–281. doi:10.1007/s10539-006-9030-1
-- –––, 2018, “The Quest for the Boundaries of Morality”, in *The Routledge Handbook of Moral Epistemology*, Aaron Zimmerman, Karen Jones, and Mark Timmons (eds.), New York: Routledge, 15–37. doi:10.4324/9781315719696-2
-- Stich, Stephen, John M. Doris, and Erica Roedder, 2010, “Altruism”, in *The Moral Psychology Handbook*, John M. Doris and The Moral Psychology Research Group (eds.)., Oxford: Oxford University Press, 147–205.
-- Stich, Stephen and Tom Donaldson, 2018, *Philosophy: Asking Questions—Seeking Answers*, New York: Oxfrod University Press.
-- Stocks, Eric L., David A. Lishner and Stephanie K. Decker, 2009, “Altruism or Psychological Escape: Why Does Empathy Promote Prosocial Behavior?” *European Journal of Social Psychology*, 39(5): 649–665. doi:10.1002/ejsp.561
-- Stotland, Ezra, 1969, “Exploratory Investigations of Empathy”, in *Advances in Experimental Social Psychology*, volume 4, Leonard Berkowitz (ed.), New York: Academic Press, 271–314. doi:10.1016/S0065-2601(08)60080-5
-- Toi, Miho and C. Daniel Batson, 1982, “More Evidence that Empathy is a Source of Altruistic Motivation”, *Journal of Personality and Social Psychology*, 43(2): 281–292. doi:10.1037/0022-3514.43.2.281
-- Warneken, Felix and Michael Tomasello, 2008, “Extrinsic Rewards Undermine Altruistic Tendencies in 20-Month-Olds”, *Developmental Psychology*, 44(6): 1785–1788. doi:10.1037/a0013860
-- Yilmaz, Onurcan and Hasan G. Bahçekapili, 2016, “Supernatural and Secular Monitors Promote Human Cooperation Only If They Remind of Punishment”, *Evolution and Human Behavior*, 37(1): 79–84. doi:10.1016/j.evolhumbehav.2015.09.005
+* Aquinas, Thomas, 1270 \[1917], _The Summa Theologica_, Vol 2, Part II, New York: Benziger Brothers.
+* Aron, Arthur, Elaine N. Aron, and Danny Smollan, 1992, “Inclusion of Other in the Self Scale and the Structure of Interpersonal Closeness”, _Journal of Personality and Social Psychology_, 63(4): 596–612. doi:10.1037/0022-3514.63.4.596
+* Aron, Arthur, Elaine N. Aron, Michael Tudor, and Greg Nelson, 1991, “Close Relationships as Including Other in the Self”, _Journal of Personality and Social Psychology_, 60(2): 241–253. doi:10.1037/0022-3514.60.2.241
+* Aubrey, John, 1650–1695 \[1949], _Brief Lives_, Oliver Lawson Dick (ed.), Boston: David R. Godine. Aubrey’s sketch of Hobbes is available online at https://mathshistory.st-andrews.ac.uk/Obituaries/Hobbes\_Aubrey/
+* Badhwar, Neera Kapur, 1993, “Altruism Versus Self-Interest: Sometimes a False Dichotomy”, _Social Philosophy and Policy_, 10(1): 90–117. doi:10.1017/S0265052500004039
+* Batson, C. Daniel, 1991, _The Altruism Question: Toward a Social-Psychological Answer_, Hillsdale, NJ: Lawrence Erlbaum Associates.
+* –––, 1998, “Altruism and Prosocial Behavior”, in Daniel T. Gilbert, Susan T. Fiske, and Gardner Lindzey (eds.), _The Handbook of Social Psychology_, volume 2, fourth edition, Boston: McGraw-Hill, pp. 282–316.
+* –––, 2011, _Altruism in Humans_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195341065.001.0001
+* –––, 2012, “A History of Prosocial Behavior Research”, in Arie W. Kruglanski and Wolfgang Stroebe, (eds.), _Handbook of the History of Social Psychology_, New York: Psychology Press, pp. 243–264. doi:10.4324/9780203808498.ch12
+* –––, 2015, “Testing the Empathy-Altruism Hypothesis Against Egoistic Alternatives”, in Lorraine L. Besser-Jones and Michael Slote (eds.), _The Routledge Companion to Virtue Ethics_, New York: Routledge, pp. 385–400.
+* Batson, C. Daniel, Bruce D. Duncan, Paula Ackerman, Terese Buckley, and Kimberly Birch, 1981, “Is Empathic Emotion a Source of Altruistic Motivation?” _Journal of Personality and Social Psychology_, 40(2): 290–302. doi:10.1037/0022-3514.40.2.290
+* Batson, C. Daniel, Patricia Schoenrade, and W. Larry Ventis, 1993. _Religion and the Individual: A Social-Psychological Perspective_, New York: Oxford University Press.
+* Batson, C. Daniel, Karen O’Quin, Jim Fultz, Mary Vanderplas, and Alice M. Isen, 1983, “Influence of Self-Reported Distress and Empathy on Egoistic versus Altruistic Motivation to Help”, _Journal of Personality and Social Psychology_, 45(3): 706–718. doi:10.1037/0022-3514.45.3.706
+* Batson, C. Daniel, Karen Sager, Eric Garst, Misook Kang, Kostia Rubchinsky, and Karen Dawson, 1997, “Is Empathy-induced Helping Due to Self-other Merging?”, _Journal of Personality and Social Psychology_, 73(3): 495–509. doi:10.1037/0022-3514.73.3.495
+* Batson, C. Daniel, Kathryn C. Oleson, Joy L. Weeks, Sean P. Healy, Penny J. Reeves, Patrick Jennings, and Thomas Brown, 1989, “Religious Prosocial Motivation: Is It Altruistic or Egoistic?”, _Journal of Personality and Social Psychology_, 57(5): 873–884. doi:10.1037/0022-3514.57.5.873
+* Baumeister, Roy F., 1998, “The Self”, in _The Handbook of Social Psychology_, fourth edition, Daniel T. Gilbert, Susan T. Fiske, and Gardner Lindzey (eds.), Boston: McGraw-Hill, vol. 1, 680–740.
+* Beatty, John, 1992, “Fitness: Theoretical Contexts”, in _Keywords in Evolutionary Biology_, Evelyn Fox Keller and Elisabeth A. Lloyd (eds.), Cambridge, MA: Harvard University Press.
+* Boyd, Robert, 2018, _A Different Kind of Animal: How Culture Transformed Our Species_, Princeton, NJ: Princeton University Press.
+* Broad, C.D., 1930, _Five Types of Ethical Theory_, New York: Harcourt, Brace.
+* –––, 1950, “Egoism as a Theory of Human Motives”, _The Hibbert Journal_, 48: 105–114. Reprinted in his _Ethics and the History of Philosophy: Selected Essays_, London: Routledge and Kegan Paul, 1952, 218–231.
+* Butler, Joseph, 1726 \[1887], _Human Nature and Other Sermons_, Henry Morley (ed.), London: Cassell & Company, Limited, 1887. \[[Butler 1726 \[1887\] available online](http://www.gutenberg.org/ebooks/3150)]
+* Chambers, Chris, 2017, _The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice_, Princeton, NJ: Princeton University Press.
+* Cialdini, Robert B., Stephanie L. Brown, Brian P. Lewis, Carol Luce and Stephen L. Neuberg, 1997, “Reinterpreting the Empathy-Altruism Relationship: When One into One Equals Oneness”, _Journal of Personality and Social Psychology_, 73(3), 481– 494. doi:10.1037/0022-3514.73.3.481
+* Clavien, Christine and Rebekka A. Klein, 2010, “Eager for Fairness or for Revenge? Psychological Altruism in Economics”, _Economics and Philosophy_, 26(3): 267–290. doi:10.1017/S0266267110000374
+* Clavien, Christine and Michel Chapuisat, 2013, “Altruism across Disciplines: One Word, Multiple Meanings”, _Biology & Philosophy_, 28(1): 125–140. doi:10.1007/s10539-012-9317-3
+* De Waal, Frans B.M., 2008, “Putting the Altruism Back Into Altruism: The Evolution of Empathy”, _Annual Review of Psychology_, 59(1): 279–300. doi:10.1146/annurev.psych.59.103006.093625
+* Dixon, Thomas, 2008, _The Invention of Altruism: Making Moral Meanings in Victorian Britain_, Oxford: Oxford University Press. doi:10.5871/bacad/9780197264263.001.0001
+* Dovidio, John F., Judith Allen, and David A. Schroeder, 1990, “Specificity of Empathy-induced Helping: Evidence for Altruistic Motivation”, _Journal of Personality and Social Psychology_, 59(2): 249–60. doi:10.1037/0022-3514.59.2.249
+* Eisenberg, Nancy and Paul A. Miller, 1987, “The Relation of Empathy to Prosocial and Related Behaviors”, _Psychological Bulletin_, 101(1): 91–119. doi:10.1037/0033-2909.101.1.91
+* Feigin, Svetlana, Glynn Owens, and Felicity Goodyear-Smith, 2014, “Theories of Human Altruism: A Systematic Review”, _Journal of Psychiatry and Brain Functions_, 1: art. 5. doi:10.7243/2055-3447-1-5
+* Feinberg, Joel, 1965 \[1999], “Psychological Egoism”, in _Reason and Responsibility_, Joel Feinberg (ed.), Belmont, CA: Dickenson Publishing. Reprinted in various editions including the tenth, co-edited with Russ Shafer-Landau, Belmont, CA: Wadsworth, 1999. Based on materials composed for philosophy students at Brown University, 1958.
+* Frankena, William K., 1967, “The Concept of Morality”, in _University of Colorado Studies: Series in Philosophy_, 3, Boulder, CO: University of Colorado Press, 1–22. Reprinted in _The Definition of Morality_, Gerald Wallace and Arthur David McKinnon Walker (eds.), London: Methuen, 1970, 146–173.
+* Fultz, Jim, C. Daniel Batson, Victoria A. Fortenbach, Patricia M. McCarthy, and Laurel L. Varney, 1986, “Social Evaluation and the Empathy-Altruism Hypothesis”, _Journal of Personality and Social Psychology_, 50(4): 761–769. doi:10.1037/0022-3514.50.4.761
+* Gęsiarz, Filip and Molly J. Crockett, 2015, “Goal-directed, Habitual and Pavlovian Prosocial Behavior”, _Frontiers in Behavioral Neuroscience_, 9: 135. doi:10.3389/fnbeh.2015.00135
+* Ghiselin, Michael, 1974, _The Economy of Nature and the Evolution of Sex_, Berkeley: University of California Press.
+* Goldman, Alvin I., 1970, _A Theory of Human Action_, Englewood-Cliffs, NJ: Prentice-Hall.
+* Grant, Colin, 1997, “Altruism: A Social Science Chameleon”, _Zygon_, 32(3): 321–40. doi:10.1111/0591-2385.00094/
+* Henrich, Joseph, 2015, _The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter_, Princeton, NJ: Princeton University Press.
+* Hobbes, Thomas, 1651 \[1981], _Leviathan: Edited with an Introduction by C.B. Macpherson_, London: Penguin Books.
+* Hoffman, Martin L., 1991, “Is Empathy Altruistic?” _Psychological Inquiry_, 2(2): 131–133. doi:10.1207/s15327965pli0202\_6
+* Hornstein, Harvey A., 1991, “Empathic Distress and Altruism: Still Inseparable”, _Psychological Inquiry_, 2, 133–135. doi:10.1207/s15327965pli0202\_7
+* Joyce, Richard, 2006, _The Evolution of Morality_, Cambridge, MA: MIT Press.
+* Kant, Immanuel, 1785 \[1949], _Fundamental Principles of the Metaphysics of Morals_, translated by Thomas K. Abbott. Englewood Cliffs, NJ: Prentice Hall/Library of Liberal Arts.
+* Kelly, Daniel and Taylor Davis, 2018, “Social Norms and Human Normative Psychology”, _Social Philosophy and Policy_, 35(1): 54–76. doi:10.1017/S0265052518000122
+* Kerr, Benjamin, Peter Godfrey-Smith, and Marcus W. Feldman, 2004, “What Is Altruism?”, _Trends in Ecology & Evolution_, 19(3): 135–140. doi:10.1016/j.tree.2003.10.004
+* Kihlstrom, John F. and Nancy Cantor, 1984, “Mental Representations of the Self”, in _Advances in Experimental Social Psychology_, volume 17, Leonard Berkowitz (ed.), New York: Academic Press. 1–47. doi:10.1016/S0065-2601(08)60117-3
+* Kitcher, Philip, 2010, “Varieties of Altruism”, _Economics and Philosophy_, 26(2): 121–148. doi:10.1017/S0266267110000167
+* –––, 2011, _The Ethical Project_, Cambridge, MA: Harvard University Press.
+* Krebs, Dennis, 1975, “Empathy and Altruism”, _Journal of Personality and Social Psychology_, 32(6): 1134–1146. doi:10.1037/0022-3514.32.6.1134
+* LaFollette, Hugh, 2000a, “Introduction”, in LaFollette 2000b: 1–12.
+* ––– (ed.), 2000b, _The Blackwell Guide to Ethical Theory_, Oxford: Blackwell Publishing.
+* Lerner, Melvin J., 1980, _The Belief in a Just World: A Fundamental Delusion_. New York: Plenum.
+* Ma, Vaunne and Thomas J. Schoeneman, 1997, “Individualism Versus Collectivism: A Comparison of Kenyan and American Self-Concepts”, _Basic and Applied Social Psychology_, 19(2): 261–273. doi:10.1207/s15324834basp1902\_7
+* MacIntyre, Alasdair, 1967, “Egoism and Altruism”, in Paul Edwards (ed.), _The Encyclopedia of Philosophy_, vol. 2, first edition, New York: Macmillan, pp. 462–466.
+* Markus, Hazel and Elissa Wurf, 1987, “The Dynamic Self-Concept: A Social Psychological Perspective”, _Annual Review of Psychology_, 38(1): 299–337. doi:10.1146/annurev.ps.38.020187.001503
+* Markus, Hazel R. and Shinobu Kitayama, 1991, “Culture and the Self: Implications for Cognition, Emotion, and Motivation”, _Psychological Review_, 98(2): 224–253. doi:10.1037/0033-295X.98.2.224
+* May, Joshua, 2011a, “Psychological Egoism”, _Internet Encyclopedia of Philosophy_, URL = [https://www.iep.utm.edu/psychego/](https://www.iep.utm.edu/psychego/)
+* –––, 2011b, “Egoism, Empathy, and Self-Other Merging”, _Southern Journal of Philosophy_, 49(s1): 25–39. doi:10.1111/j.2041-6962.2011.00055.x
+* –––, 2011c, “Relational Desires and Empirical Evidence against Psychological Egoism: On Psychological Egoism”, _European Journal of Philosophy_, 19(1): 39–58. doi:10.1111/j.1468-0378.2009.00379.x
+* McAuliffe, William H. B., Daniel E. Forster, Joachner Philippe, and Michael E. McCullough, 2018, “Digital Altruists: Resolving Key Questions about the Empathy–Altruism Hypothesis in an Internet Sample”, _Emotion_, 18(4): 493–506. doi:10.1037/emo0000375
+* Mill, John Stuart, 1861 \[2011], _Utilitarianism_, first published as three articles in _Fraser’s Magazine_. Printed as a book London: Parker, Son & Bourn, 1863. Reprinted 2011, George Sher (ed.), Indianapolis, IN: Hackett.
+* Nagel, Thomas, 1970, _The Possibility of Altruism_, Oxford: Clarendon Press.
+* –––, 1986, _The View From Nowhere_, New York and Oxford: Oxford University Press.
+* Norenzayan, Ara, Azim F. Shariff, Will M. Gervais, Aiyana K. Willard, Rita A. McNamara, Edward Slingerland, and Joseph Henrich, 2016, “The Cultural Evolution of Prosocial Religions”, _Behavioral and Brain Sciences_, 39: e1. doi:10.1017/S0140525X14001356
+* Piccinini, Gualtiero and Armin W. Schulz, 2019, “The Ways of Altruism”, _Evolutionary Psychological Science_, 5(1): 58–70. doi:10.1007/s40806-018-0167-3
+* Piliavin, Jane Allyn and Hong-Wen Charng, 1990, “Altruism: A Review of Recent Theory and Research”, _Annual Review of Sociology_, 16: 27–65. doi:10.1146/annurev.so.16.080190.000331
+* Purzycki, Benjamin Grant, Coren Apicella, Quentin D. Atkinson, Emma Cohen, Rita Anne McNamara, Aiyana K. Willard, Dimitris Xygalatas, Ara Norenzayan, and Joseph Henrich, 2016, “Moralistic Gods, Supernatural Punishment and the Expansion of Human Sociality”, _Nature_, 530(7590): 327–330. doi:10.1038/nature16980
+* Purzycki, Benjamin Grant, Joseph Henrich, Coren Apicella, Quentin D. Atkinson, Adam Baimel, Emma Cohen, Rita Anne McNamara, Aiyana K. Willard, Dimitris Xygalatas, and Ara Norenzayan, 2018, “The Evolution of Religion and Morality: A Synthesis of Ethnographic and Experimental Evidence from Eight Societies”, _Religion, Brain & Behavior_, 8(2): 101–132. doi:10.1080/2153599X.2016.1267027
+* Rachels, James, 2000, “Naturalism”, in LaFollette 2000b: 74–91.
+* –––, 2003, _The Elements of Moral Philosophy_, fourth edition, New York: McGraw-Hill.
+* Ramsey, Grant, 2006, “Block Fitness”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(3): 484–498. doi:10.1016/j.shpsc.2006.06.009
+* –––, 2016, “Can Altruism Be Unified?”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 56: 32–38. doi:10.1016/j.shpsc.2015.10.007
+* Ramsey, Grant and Robert Brandon, 2011, “Why Reciprocal Altruism Is Not a Kind of Group Selection”, _Biology & Philosophy_, 26(3): 385–400. doi:10.1007/s10539-011-9261-7
+* Schramme, Thomas, 2017, “Empathy and Altruism”, in _The Routledge Handbook of Philosophy of Empathy_. Heidi Maibom (ed.), New York: Routledge, 203–214.
+* Schroeder, David A., Louis A. Penner, John F. Dovidio, and Jane A. Piliavin, 1995, _The Psychology of Helping and Altruism: Problems and Puzzles_, New York: McGraw-Hill.
+* Schroeder, William, 2000, “Continental Ethics”, in LaFollette 2000b: 375–399.
+* Schulz, Armin W., 2011, “Sober and Wilson’s Evolutionary Arguments for Psychological Altruism: A Reassessment”, _Biology and Philosophy_, 26(2): 251–260. doi:10.1007/s10539-009-9179-5
+* Shariff, Azim F. and Ara Norenzayan, 2007, “God is Watching You”, _Pyschological Science_, 18(9), 803–809.
+* Shariff, Azim F., Aiyana K. Willard, Teresa Andersen, and Ara Norenzayan, 2016, “Religious Priming: A Meta-Analysis With a Focus on Prosociality”, _Personality and Social Pyschology Review_, 20(1):27–48. doi:10.1177/1088868314568811
+* Slote, Michael Anthony, 1964, “An Empirical Basis for Psychological Egoism”, _Journal of Philosophy_, 61(18): 530–537. doi:10.2307/2023495
+* –––, 2013, “Egoism and Emotion”, _Philosophia_, 41(2): 313–335. doi:10.1007/s11406-013-9434-5
+* Smith, Adam, 1759 \[1853], _The Theory of Moral Sentiments_, London: Henry G. Bohn. Originally published 1759,
+* Sober, Elliott and David Sloan Wilson, 1998, _Unto Others: The Evolution and Psychology of Unselfish Behavior_, Cambridge, MA: Harvard University Press.
+* Sripada, Chandra Sekhar, 2008, “Adaptationism, Culture, and the Malleability of Human Nature”, in _The Innate Mind, Volume 3: Foundations and the Future_, Peter Carruthers, Stephen Laurence, and Stephen Stich (eds.), New York: Oxford University Press. doi:10.1093/acprof:oso/9780195332834.003.0016
+* Sripada, Chandra Sekhar and Stephen Stich, 2007, “A Framework for the Psychology of Norms”, in _The Innate Mind: Volume 2: Culture and Cognition, Peter Carruthers_, Stephen Laurence, and Stephen Stich (eds.), New York: Oxford University Press. doi:10.1093/acprof:oso/9780195310139.003.0017
+* Stich, Stephen, 2007, “Evolution, Altruism and Cognitive Architecture: A Critique of Sober and Wilson’s Argument for Psychological Altruism”, _Biology and Philosophy_, 22(2): 267–281. doi:10.1007/s10539-006-9030-1
+* –––, 2018, “The Quest for the Boundaries of Morality”, in _The Routledge Handbook of Moral Epistemology_, Aaron Zimmerman, Karen Jones, and Mark Timmons (eds.), New York: Routledge, 15–37. doi:10.4324/9781315719696-2
+* Stich, Stephen, John M. Doris, and Erica Roedder, 2010, “Altruism”, in _The Moral Psychology Handbook_, John M. Doris and The Moral Psychology Research Group (eds.)., Oxford: Oxford University Press, 147–205.
+* Stich, Stephen and Tom Donaldson, 2018, _Philosophy: Asking Questions—Seeking Answers_, New York: Oxfrod University Press.
+* Stocks, Eric L., David A. Lishner and Stephanie K. Decker, 2009, “Altruism or Psychological Escape: Why Does Empathy Promote Prosocial Behavior?” _European Journal of Social Psychology_, 39(5): 649–665. doi:10.1002/ejsp.561
+* Stotland, Ezra, 1969, “Exploratory Investigations of Empathy”, in _Advances in Experimental Social Psychology_, volume 4, Leonard Berkowitz (ed.), New York: Academic Press, 271–314. doi:10.1016/S0065-2601(08)60080-5
+* Toi, Miho and C. Daniel Batson, 1982, “More Evidence that Empathy is a Source of Altruistic Motivation”, _Journal of Personality and Social Psychology_, 43(2): 281–292. doi:10.1037/0022-3514.43.2.281
+* Warneken, Felix and Michael Tomasello, 2008, “Extrinsic Rewards Undermine Altruistic Tendencies in 20-Month-Olds”, _Developmental Psychology_, 44(6): 1785–1788. doi:10.1037/a0013860
+* Yilmaz, Onurcan and Hasan G. Bahçekapili, 2016, “Supernatural and Secular Monitors Promote Human Cooperation Only If They Remind of Punishment”, _Evolution and Human Behavior_, 37(1): 79–84. doi:10.1016/j.evolhumbehav.2015.09.005
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=altruism-empirical). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/altruism-empirical/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=altruism-empirical&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/altruism-empirical/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=altruism-empirical).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/altruism-empirical/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=altruism-empirical\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/altruism-empirical/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-- [Moral Psychology Research Group](http://www.moralpsychology.net/group/)
-- [Papers on Altruism and Psychological Egoism](http://www.philpapers.org/browse/altruism-and-psychological-egoism/), at PhilPapers.org
-- [Papers on Evolution of Altruism](https://philpapers.org/browse/evolution-of-altruism) at PhilPapers.org
-- [Papers on Empathy & Sympathy](https://philpapers.org/browse/empathy-and-sympathy/) at PhilPapers.ord
+* [Moral Psychology Research Group](http://www.moralpsychology.net/group/)
+* [Papers on Altruism and Psychological Egoism](http://www.philpapers.org/browse/altruism-and-psychological-egoism/), at PhilPapers.org
+* [Papers on Evolution of Altruism](https://philpapers.org/browse/evolution-of-altruism) at PhilPapers.org
+* [Papers on Empathy & Sympathy](https://philpapers.org/browse/empathy-and-sympathy/) at PhilPapers.ord
 
 ## Related Entries
 
-[altruism](https://plato.stanford.edu/entries/altruism/) | [altruism: biological](https://plato.stanford.edu/entries/altruism-biological/) | [Comte, Auguste](https://plato.stanford.edu/entries/comte/) | [culture: and cognitive science](https://plato.stanford.edu/entries/culture-cogsci/) | [egoism](https://plato.stanford.edu/entries/egoism/) | [empathy](https://plato.stanford.edu/entries/empathy/) | [experimental moral philosophy](https://plato.stanford.edu/entries/experimental-moral/) | [hedonism](https://plato.stanford.edu/entries/hedonism/) | [personal identity: and ethics](https://plato.stanford.edu/entries/identity-ethics/) | [social norms](https://plato.stanford.edu/entries/social-norms/)
+[altruism](https://plato.stanford.edu/entries/altruism/) | [altruism: biological](https://plato.stanford.edu/entries/altruism-biological/) | [Comte, Auguste](https://plato.stanford.edu/entries/comte/) | [culture: and cognitive science](https://plato.stanford.edu/entries/culture-cogsci/) | [egoism](https://plato.stanford.edu/entries/egoism/) | [empathy](https://plato.stanford.edu/entries/empathy/) | [experimental moral philosophy](https://plato.stanford.edu/entries/experimental-moral/) | [hedonism](https://plato.stanford.edu/entries/hedonism/) | [personal identity: and ethics](https://plato.stanford.edu/entries/identity-ethics/) | [social norms](https://plato.stanford.edu/entries/social-norms/)
 
 ### Acknowledgments
 
-This entry expands and updates the “Egoism and Altruism” section in Doris, Stich, Phillips and Walmsley, “Moral Psychology: Empirical Approaches”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2017/entries/moral-psych-emp/>. Some material in this entry is borrowed from Stich, Doris and Roedder (2010).
+This entry expands and updates the “Egoism and Altruism” section in Doris, Stich, Phillips and Walmsley, “Moral Psychology: Empirical Approaches”, _The Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/moral-psych-emp/](https://plato.stanford.edu/archives/win2017/entries/moral-psych-emp/). Some material in this entry is borrowed from Stich, Doris and Roedder (2010).
 
 For helpful suggestions, we are grateful to Mark Alfano, C. Daniel Batson, William J. FitzPatrick, Adam Lerner, Joshua May, Samir Okasha, Gualtiero Piccinini, Alejandro Rosas, Thomas Schramme, Armin Schulz, Elliott Sober, Kim Sterelny, Valerie Tiberius and David Sloan Wilson. Our thanks to Zhao Wang who helped assemble and check the references.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[John Doris](https://philosophy.cornell.edu/john-m-doris) <[*jmd378@cornell.edu*](mailto:jmd378%40cornell%2eedu)>  
-[Stephen Stich](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/635-stich-stephen) <[*stich.steve@gmail.com*](mailto:stich%2esteve%40gmail%2ecom)>  
-Lachlan Walmsley <[*ldw917@gmail.com*](mailto:ldw917%40gmail%2ecom)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[John Doris](https://philosophy.cornell.edu/john-m-doris) <[_jmd378@cornell.edu_](mailto:jmd378%40cornell%2eedu)>\
+[Stephen Stich](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/635-stich-stephen) <[_stich.steve@gmail.com_](mailto:stich%2esteve%40gmail%2ecom)>\
+Lachlan Walmsley <[_ldw917@gmail.com_](mailto:ldw917%40gmail%2ecom)>

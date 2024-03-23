@@ -186,7 +186,7 @@
   * [亚里士多德论无矛盾律 on non-contradiction (Paula Gottlieb)](a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/ya-li-shi-duo-de-lun-wu-mao-dun-lv-on-noncontradiction-paula-gottlieb.md)
 * [安托万·阿尔诺 Arnauld, Antoine (Elmar Kremer)](a/an-tuo-wan-aer-nuo-arnauld-antoine-elmar-kremer.md)
 * [弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire](a/fu-lang-suo-wa-ma-li-alu-ai-jian-fu-er-tai-arouet-franoismarie-see-voltaire.md)
-* [阿罗不可能性 Arrow’s theorem (Michael Morreau)](a/a-luo-bu-ke-neng-xing-arrows-theorem-michael-morreau.md)
+* [阿罗悖论 Arrow’s theorem (Michael Morreau)](a/a-luo-bei-lun-arrows-theorem-michael-morreau.md)
 * [艺术 art](a/yi-shu-art/README.md)
   * [情色艺术 erotic (Hans Maes)](a/yi-shu-art/qing-se-yi-shu-erotic-hans-maes.md)
 * [概念艺术 art, conceptual (Elisabeth Schellekens)](a/gai-nian-yi-shu-art-conceptual-elisabeth-schellekens.md)

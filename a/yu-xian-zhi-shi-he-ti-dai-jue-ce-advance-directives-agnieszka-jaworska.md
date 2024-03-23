@@ -1,6 +1,6 @@
 # 预先指示和替代决策 advance directives (Agnieszka Jaworska)
 
-*首次发布于2009年3月24日*
+_首次发布于2009年3月24日_
 
 在医学伦理学中，关于对患者[自主权](https://plato.stanford.edu/entries/personal-autonomy/)的尊重要求存在着大致的共识：医生必须最终服从患者对其医疗护理管理的决定，只要患者被认为具有足够的心智能力来做出相关决定。对于在决策时缺乏相关决策能力的患者，需要进行代理决策：必须委托他人代表他们做出决定。曾经具备相关决策能力的患者可能已经预见到了能力的丧失，并留下了关于未来医疗决策应该如何进行的指示。这些指示被称为预先指示。一种类型的预先指示仅指定代理决策者应该是谁。更具实质性的预先指示，通常称为生前遗嘱，具体规定了特定原则或考虑因素，旨在指导代理决策者在各种情况下的决策，例如，“如果我陷入持续植物状态，请不要延长我的生命”，或者“我是一个斗士：无论发生什么事情，都不要停止维持生命的治疗。”
 
@@ -10,13 +10,12 @@ Q1. 谁应该成为代理决策者？ Q2. 代理人应该根据什么基础做�
 
 本文关注哲学对最后两个问题的贡献。
 
-* [1.正统法律观点](https://plato.stanford.edu/entries/advance-directives/#OrtLegVie) * [2. 对于从未具备能力者的正统观点的挑战](https://plato.stanford.edu/entries/advance-directives/#ChaOrtVieRegNevCom) * [3. 刚刚具备能力者中的时间冲突](https://plato.stanford.edu/entries/advance-directives/#ConAcrTimForCom)
+* [1.正统法律观点](https://plato.stanford.edu/entries/advance-directives/#OrtLegVie) \* [2. 对于从未具备能力者的正统观点的挑战](https://plato.stanford.edu/entries/advance-directives/#ChaOrtVieRegNevCom) \* [3. 刚刚具备能力者中的时间冲突](https://plato.stanford.edu/entries/advance-directives/#ConAcrTimForCom)
+* [3.1 权威门槛方法](https://plato.stanford.edu/entries/advance-directives/#ThrAutApp) \* [3.2 挑战I：呼吁前瞻性决策的观点](https://plato.stanford.edu/entries/advance-directives/#Cha1AppForLooPerDecMak) \* [3.3 挑战II：意愿行使作为自主的要点](https://plato.stanford.edu/entries/advance-directives/#Cha2ExeWilPoiAut) \* [3.4 挑战III：个人身份的丧失](https://plato.stanford.edu/entries/advance-directives/#Cha3LosPerIde) \* [3.5 挑战IV：经济关切的脱离](https://plato.stanford.edu/entries/advance-directives/#Cha4SevPruCon) \* [参考书目](https://plato.stanford.edu/entries/advance-directives/#Bib) \* [学术工具](https://plato.stanford.edu/entries/advance-directives/#Aca) \* [其他网络资源](https://plato.stanford.edu/entries/advance-directives/#Oth) \* [相关文章](https://plato.stanford.edu/entries/advance-directives/#Rel)
 
-* [3.1 权威门槛方法](https://plato.stanford.edu/entries/advance-directives/#ThrAutApp) * [3.2 挑战I：呼吁前瞻性决策的观点](https://plato.stanford.edu/entries/advance-directives/#Cha1AppForLooPerDecMak) * [3.3 挑战II：意愿行使作为自主的要点](https://plato.stanford.edu/entries/advance-directives/#Cha2ExeWilPoiAut) * [3.4 挑战III：个人身份的丧失](https://plato.stanford.edu/entries/advance-directives/#Cha3LosPerIde) * [3.5 挑战IV：经济关切的脱离](https://plato.stanford.edu/entries/advance-directives/#Cha4SevPruCon) * [参考书目](https://plato.stanford.edu/entries/advance-directives/#Bib) * [学术工具](https://plato.stanford.edu/entries/advance-directives/#Aca) * [其他网络资源](https://plato.stanford.edu/entries/advance-directives/#Oth) * [相关文章](https://plato.stanford.edu/entries/advance-directives/#Rel)
+***
 
----
-
-## [1. 正统的法律观点]()
+## [1. 正统的法律观点](yu-xian-zhi-shi-he-ti-dai-jue-ce-advance-directives-agnieszka-jaworska.md)
 
 在法律背景下，对于问题Q2，已经发展出了两种一般的标准或方法：
 
@@ -38,7 +37,7 @@ Q1. 谁应该成为代理决策者？ Q2. 代理人应该根据什么基础做�
 
 这个正统观点正确吗？
 
-## [2. 对于从未有能力的正统观点的挑战]()
+## [2. 对于从未有能力的正统观点的挑战](yu-xian-zhi-shi-he-ti-dai-jue-ce-advance-directives-agnieszka-jaworska.md)
 
 关于从未具备能力的患者，正统观点在某些情况下可能会产生误导。通过推荐“最佳利益”标准而不是“代替判断”标准，正统观点可能会给人一种印象，即对于那些从未具备决策能力的人来说，只能进行一种“一刀切”的客观评估，基于如延长生命或避免痛苦等通用目标。然而，一个人可能缺乏决策能力，但仍然具备决策的适当起点，以便代理人可以代表其重建深层个人和特殊的选择。比如，考虑一个缺乏能力做出复杂医疗决策的儿童或轻度智力障碍患者，因为她无法完全理解可选方案的复杂后果，或者因为如果由她自己决定，她只会冲动地选择。然而，对于这个个体来说，可能存在非常有意义和个人独特的问题：例如，不同的治疗方法可能会对她与亲人的关系产生不同的影响，或者对她继续参与绘画或舞蹈等深受重视的活动的能力产生不同的影响。在这种情况下，为了最好地服务于患者的利益，可以说代理人需要重建患者的主观观点，而不仅仅是依赖于“在这种情况下一个理智的人”会做出的通用选择。简而言之，有时候，尤其是在处理内心丰富而决策能力受损的患者时，最佳利益标准的应用可能看起来非常类似于代替判断的行为。
 
@@ -48,13 +47,13 @@ Q1. 谁应该成为代理决策者？ Q2. 代理人应该根据什么基础做�
 
 正如已经指出的，对如何应用最佳利益标准的不同观点大致对应于不同的幸福理论。然而，幸福理论通常是以普通完全能力的人为基础进行发展的，因此，当应用于那些由于与这一范例存在重大偏差而导致无能力的人时，一些理论需要进行调整，以适应那些在当时或永远不具备这些理论所假设的范例能力的人（例如，智力愉悦的能力或欲望的能力）。在这种情况下，对幸福的理解以及在这些情况下应用最佳利益标准的具体细节必须根据每个特定的现实条件和相应的心理功能水平进行调整。儿童的利益，包括婴儿的利益，在文献中已经得到一些关注（Buchanan和Brock 1990年，第5章，Schapiro 1999年）；类似的量身定制的分析也需要针对个体的精神疾病和脑功能缺陷进行。
 
-## [3. 以前有能力的人之间的冲突]()
+## [3. 以前有能力的人之间的冲突](yu-xian-zhi-shi-he-ti-dai-jue-ce-advance-directives-agnieszka-jaworska.md)
 
 关于以前有能力的人的正统观点面临着更深层次的挑战。在优先考虑预先指示和替代判断的情况下，正统观点忽视了以前有能力的自我和当前无能力的自我可能存在利益冲突的可能性。预先指示和替代判断最适合于它们在法律中首次发展的情境——涉及意识丧失的条件，如持续植物人状态，其中处于当前无能力状态的患者的利益可能与他曾经的人的利益有所不同。然而，决策能力的丧失通常发生在不那么严重但永久的情况下，这可能会使当前无能力的患者在他的新生活阶段拥有看似强大的新利益。这种情况经典案例发生在阿尔茨海默病、其他形式的痴呆症和中风中。在丧失能力之前，通常患者有许多与他丰富的精神生活和相应复杂的价值观相关的利益。一旦精神恶化进展，患者的利益范围缩小，新的利益可能占主导地位。有时两组利益可能发生冲突。例如，想象一下，一个完全有能力的患者，他预期会患上阿尔茨海默病，坚定地表达了一个强烈的信念，也许在预先指示中有所记录，即她不希望在痴呆状态下延长生命。她深深地认同自己的智力，因此将患有痴呆症的生活视为非常有辱人格的。但一旦她患上痴呆症，她对自己的智力的认同就不再是一个关注点，因此她失去了不延长生命的相应愿望。与此同时，她仍然能够享受简单的乐趣——她喜欢园艺或听音乐——甚至可能继续保持有意义的人际关系。她当前被截断的利益范围似乎更有利于继续生活。这样的情景引发了关于如何在代理决策中平衡以前和当前自我的利益的困难问题。鉴于存在这种冲突，优先考虑预先指示和通过替代判断重新判断以前自我的解决方案已不再是显而易见的解决方案。
 
 在代理决策方面，哲学文献中的大部分内容都集中在这种冲突上。然而，对于这种冲突的概念化存在微妙的差异，更具体地说，是对早期自我的利益如何被看待的差异，有时源于对冲突范例的不同理解。一种观点认为，早期自我的相关利益是自主权利益：重要的是要尊重早期自我的选择。在这种强调下，冲突是早期自主权与当前自身福祉之间的冲突。另一种观念认为，早期自我的利益是福祉利益：重要的是早期自身整体上过得好。因此，冲突是早期自身福祉与当前自身福祉之间的冲突。也可以考虑将冲突的两个方面都视为相关。下面的论证适用于这三种对冲突的解释。
 
-拯救前自我及其利益应具有优先权的一种方法是诉诸前自我对当前自我的特殊*权威*。这种权威的基础在不同的观点中有不同的解释，但基本思想是前自我的优越能力使她有资格统治当前自我。一旦当前自我下降到一定的能力门槛以下，她在当前状态下的利益变得如此边缘，以至于不再具有权威性，而前自我的利益则优先。
+拯救前自我及其利益应具有优先权的一种方法是诉诸前自我对当前自我的特殊_权威_。这种权威的基础在不同的观点中有不同的解释，但基本思想是前自我的优越能力使她有资格统治当前自我。一旦当前自我下降到一定的能力门槛以下，她在当前状态下的利益变得如此边缘，以至于不再具有权威性，而前自我的利益则优先。
 
 已经有几条论证线路用于证明前自我对当前自我的权威性。其中一种是完全否认当前自我利益的独立性。根据这种解释，上述冲突只是表面上的。一旦当前自我下降到相关能力门槛以下，她就无法产生自己独立的利益，尽管表面上看起来不同，但她的根本利益实际上是由前自我定义的。当前自我的利益显然没有权威性，因为它们只是表面上的利益。此外，即使我们接受当前自我具有自己独立的利益，也有其他理由认为这些利益缺乏权威性。如果坚持尊重自主权优先于善行，或者将自主能力视为个人的核心要素，那么前自我的利益将被视为对当前自我具有权威性，因为只有前自我具备自主能力。罗纳德·德沃金（Ronald Dworkin）的分析结合了所有这些论证线路（德沃金，1993年）。
 
@@ -66,7 +65,7 @@ Q1. 谁应该成为代理决策者？ Q2. 代理人应该根据什么基础做�
 
 我刚刚讨论的这两种观点共享一个底层思想，即超过某个能力门槛后，个体当前的利益失去权威性。这个思想已经以多种方式受到挑战。
 
-### [3.2 挑战一：呼吁决策的前瞻性视角]()
+### [3.2 挑战一：呼吁决策的前瞻性视角](yu-xian-zhi-shi-he-ti-dai-jue-ce-advance-directives-agnieszka-jaworska.md)
 
 最直接的挑战强调决策本质上涉及现在和未来的视角：代理人必须为面前的患者做出最佳决策，关于如何从现在开始管理这位患者的生活。患者过去可能有不同的利益，但这些利益如何与当前的决策相关呢？当前的决策只能影响现在和未来，而不能影响过去。这种方法可能会认为患者过去的利益未能得到满足是不幸的，但坚持认为这个不幸的事实无法弥补，并且在当前的决策中迎合过去的利益是没有意义的（Dresser 1986）。
 
@@ -80,7 +79,7 @@ Q1. 谁应该成为代理决策者？ Q2. 代理人应该根据什么基础做�
 
 阈值观的支持者可能会承认通过意志行动来控制自己的经历的重要性，但仍然坚持更健全的自主能力——例如，不仅仅是关于简单偏好，而是涉及价值观表达的能力——具有完全不同层次的道德重要性。然后，这种差异可以支持这样的立场：在早期具有如此健全自主性的自我与当前仅具备意志行为能力的自我的冲突情况下，早期自我保留权威，她的利益应该被重视。
 
-### [3.4 挑战III：个人身份的丧失]()
+### [3.4 挑战III：个人身份的丧失](yu-xian-zhi-shi-he-ti-dai-jue-ce-advance-directives-agnieszka-jaworska.md)
 
 根据门槛观点，早期的自我有权决定患者的整体利益，因为当前的自我丧失了关键的能力，无法重新确立这些整体利益。这种画面假定早期和当前的自我是一个实体生命中的阶段，因此，尽管与每个生命阶段相关的局部利益的谈话，两者之间存在着利益的潜在连续性。但这是一个非常重要的假设，它已经通过对随时间的个人身份的形而上学的影响力账户的辩驳而受到争议，即心理连续性账户。粗略地说，这个想法是，在心理上发生剧烈的转变，如阿尔茨海默病之后，一个人不会作为数值相同的个体生存下来，因此，无论前任在身体中的利益是什么，都不能成为代表经历过转变之后出现的新个体做出决定的合适依据（Dresser 1986）。早期和当前自我的缺乏身份削弱了前者对后者的权威。
 
@@ -92,11 +91,11 @@ Q1. 谁应该成为代理决策者？ Q2. 代理人应该根据什么基础做�
 
 从一种观点来看，如果一个人在晚期痴呆症阶段变成了一个新的个体，这本身就削弱了早期个体对其继任者的权威，无论继任者是否是一个人。毕竟，为什么一个完全不同的个体要决定如何对待当前的自我？然而，在文献中也可以找到更微妙的立场。布坎南和布洛克（1990）认为，在数值身份丧失的情况下，早期自我的权威性关键取决于当前自我是否仍然是一个人。他们认为，如果当前自我是一个人，允许另一个个体接管她的事务将侵犯她作为一个人的权利。然而，如果当前自我不再是一个人，他就没有同样的权利。而且，正如布坎南和布洛克所看到的，早期自我对于决定发生在他的非人继任者身上的事情有“类似于财产权的权利”（166）。也就是说，如果一个人通过变成一个非人而停止存在，他仍然保留着对控制结果非人的准财产权，可能与当一个人通过变成一个尸体而停止存在时，他对控制结果尸体有准财产权的方式相似。因此，在这种方法中，即使早期自我和当前自我是不同的个体，只要当前自我被剥夺了人格，早期自我就有权决定当前自我的事务。这样，尽管早期自我和当前自我不是同一个个体，但是这种权威的基础是不同的：它不是建立在两个自我之间整体利益的连续性上，而是建立在早期自我的准财产权上。然而，请注意，声称准财产权可以延伸到仍然是有意识的继任者的权利是有争议的，并需要进一步的辩护。
 
-### [3.5 挑战四：放弃谨慎关注]()
+### [3.5 挑战四：放弃谨慎关注](yu-xian-zhi-shi-he-ti-dai-jue-ce-advance-directives-agnieszka-jaworska.md)
 
 在不接受先前自我和当前自我在数值上是不同实体的形而上观点的情况下，我们仍然可以保留心理联系的薄弱性削弱了先前自我对当前自我的权威的直观观念。假设我们坚持认为即使是最严重的心智退化也不等同于死亡——同一个个体在阿尔茨海默病的摧残下仍然存在。我们仍然可以通过考察先前自我和当前自我对彼此的关注来质疑两者之间的利益连续性（麦克马汉 2002）。
 
-通常，我们每个人对自己过去和未来的关注都是非常独特的：对于你来说，发生在*你*身上的事情，*你*经历的经历，*你*的行为等等，现在、将来和过去都非常重要。将这种特殊的关注称为*谨慎关注*。我们通常认为，谨慎关注严格追踪个人身份：一个人只对自己有谨慎关注，并且总是以这种方式关注自己。相比之下，杰夫·麦克马汉认为（至少在数值身份的范围内），谨慎关注还应该追踪心理联系的程度：不同生活阶段的两个自我对彼此的谨慎关注应该随着心理联系的减弱而减弱（麦克马汉2002年，69-82页）。在像阿尔茨海默病这样引起严重心理变化的疾病的背景下，这意味着早期和当前自我的谨慎关注水平应该相对较低。这两个自我没有足够强烈的共同谨慎利益，因此人的早期利益，无论多么重要，都不会作为她当前心理上脱离联系的自我的特别重要利益转移。两个自我的利益之间的任何潜在冲突现在类似于两个完全独立利益的实体之间的冲突。
+通常，我们每个人对自己过去和未来的关注都是非常独特的：对于你来说，发生在_你_身上的事情，_你_经历的经历，_你_的行为等等，现在、将来和过去都非常重要。将这种特殊的关注称为_谨慎关注_。我们通常认为，谨慎关注严格追踪个人身份：一个人只对自己有谨慎关注，并且总是以这种方式关注自己。相比之下，杰夫·麦克马汉认为（至少在数值身份的范围内），谨慎关注还应该追踪心理联系的程度：不同生活阶段的两个自我对彼此的谨慎关注应该随着心理联系的减弱而减弱（麦克马汉2002年，69-82页）。在像阿尔茨海默病这样引起严重心理变化的疾病的背景下，这意味着早期和当前自我的谨慎关注水平应该相对较低。这两个自我没有足够强烈的共同谨慎利益，因此人的早期利益，无论多么重要，都不会作为她当前心理上脱离联系的自我的特别重要利益转移。两个自我的利益之间的任何潜在冲突现在类似于两个完全独立利益的实体之间的冲突。
 
 大卫·德格拉齐亚试图通过提出，除了麦克马汉讨论的因素之外，早期自我的谨慎关注对当前自我的适当程度可以通过早期自我自主形成的自我叙述来提升：如果早期自我认同当前自我，即将当前自我视为她生活展开复杂叙述的真实阶段，那么就有理由有强烈的谨慎关注（德格拉齐亚2005年，196页）。奇怪的是，这种观点使得对未来的谨慎关注在理性上在一定程度上成为早期自我的选择问题。然而，与我们对具体计划、项目、他人等的普通关注不同，这些关注是由我们决定的，谨慎关注是理性的要求，不应该是选择的问题。就像我们不能仅仅因为我们碰巧（也许是妄想地）将他们的生活纳入我们的自我叙述中，就理性地对别人有谨慎关注一样，如果我们没有其他理由对自己的未来自我有谨慎关注，我们不能仅仅因为我们碰巧构建了自己的自我叙述而改变这一点。
 
@@ -107,8 +106,6 @@ Q1. 谁应该成为代理决策者？ Q2. 代理人应该根据什么基础做�
 麦克马汉本人建议，在一个早期人和一个现在的非人之间的冲突中，早期人的利益应该胜出（麦克马汉2002年，502-03页）。他强调，早期的自我是一个“更高的自我”，“理性和自治”，她的利益与生活的主导、更实质和更长的部分相关联，通过其各个阶段之间的强大的谨慎联系融入一个统一的生命片段。但麦克马汉的推理部分也是基于他所分析的冲突示例的具体情况（我们之前看到的“偏好死亡”示例的一个版本），以及一个有争议的主张，即一个严重痴呆的患者不会对继续生活有强烈的兴趣。
 
 虽然麦克马汉可能是对的，早期人的强烈利益胜过现在的非人的相对微不足道的利益，但他的答案只涵盖了早期和现在自我的可能冲突的一个子集。当现在的非人的利益也是实质性的时，两个自我之间的仲裁就更加困难。我曾经提出（Jaworska未发表）的论点是，当早期人的利益相对较小，现在的非人的实质性利益应该胜出。因此，例如，如果早期的自我只是相对较弱地偏好死亡——比如说她只是不想进一步复杂化与她并不太在乎的家人的关系——现在的自我对继续生活的实质性利益应该占上风。更有争议的是，我还提出，现在的非人的高度重要利益应该胜过早期人的一些非微不足道、相当严重的利益。因此，在“偏好死亡”情景的标准版本中，早期自我的利益在于维护她生命叙事的完整性，这是相当严重的利益。然而，这种利益并没有达到高度重要的水平，因为在生命的最后阶段出现的痴呆只会对一个本来成功的生命叙事造成有限的损害。相比之下，现在的自我对自身的生存利益更加重要。而且，与早期自我的利益不同，这是一个积极的利益——一个持续存在的利益主体有理由在其中投入更多的谨慎。在这种情况下，这些因素共同赋予现在的自我的利益优先权。
-
-
 
 ### Bibliography <a href="#bibliography" id="bibliography"></a>
 
@@ -130,14 +127,14 @@ Q1. 谁应该成为代理决策者？ Q2. 代理人应该根据什么基础做�
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=advance-directives).                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ​![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)​ | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/advance-directives/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=advance-directives&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ​![inpho icon](https://plato.stanford.edu/symbols/inpho.png)​         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=advance-directives\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ​![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)​      | [Enhanced bibliography for this entry](http://philpapers.org/sep/advance-directives/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ### Other Internet Resources <a href="#other-internet-resources" id="other-internet-resources"></a>
 
 * [Sample Advance Directive](http://www.aafp.org/afp/990201ap/617.html), American Academy of Family Physicians
 * [Papers on Advanced Directives](http://philpapers.org/browse/4425/), in philpapers.org.
-* [The Limited Wisdom of Advance Directives](https://bioethicsarchive.georgetown.edu/pcbe/reports/taking_care/chapter2.html), Chapter 2 of Taking Care: Ethical Caregiving in Our Aging Society, The President's Council on Bioethics Report.
+* [The Limited Wisdom of Advance Directives](https://bioethicsarchive.georgetown.edu/pcbe/reports/taking\_care/chapter2.html), Chapter 2 of Taking Care: Ethical Caregiving in Our Aging Society, The President's Council on Bioethics Report.
 
 ### Related Entries <a href="#related-entries" id="related-entries"></a>
 
@@ -147,5 +144,4 @@ Q1. 谁应该成为代理决策者？ Q2. 代理人应该根据什么基础做�
 
 Special thanks to Jennifer Hawkins and Govind Persad for very helpful comments on earlier drafts of this entry. Thanks also to Caleb Perl for research assistance.
 
-[Copyright © 2009](https://plato.stanford.edu/info.html#c) by
-[Agnieszka Jaworska](http://philosophy.ucr.edu/agnieszka-jaworska/) <[jaworska@ucr.edu](mailto:jaworska%40ucr%2eedu)>
+[Copyright © 2009](https://plato.stanford.edu/info.html#c) by [Agnieszka Jaworska](http://philosophy.ucr.edu/agnieszka-jaworska/) <[jaworska@ucr.edu](mailto:jaworska%40ucr%2eedu)>

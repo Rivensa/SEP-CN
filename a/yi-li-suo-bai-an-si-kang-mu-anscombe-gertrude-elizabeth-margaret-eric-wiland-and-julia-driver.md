@@ -1,12 +1,12 @@
 # 伊丽莎白·安斯康姆 Anscombe, Gertrude Elizabeth Margaret (Eric Wiland and Julia Driver)
 
-*首次发表于2009年7月21日；实质性修订于2022年5月30日*
+_首次发表于2009年7月21日；实质性修订于2022年5月30日_
 
 伊丽莎白·安斯康姆是二十世纪最重要的哲学家之一。她涉猎广泛，研究领域包括哲学史的整个范围（古代、中世纪、现代、近代）、形而上学、认识论、语言哲学、心灵哲学/心理学、行动哲学、道德哲学、政治哲学和宗教哲学。因此，本文将不得不进行非常有选择性的介绍。尽管她的作品常常晦涩难懂，但对行动理论、道德哲学和心灵哲学领域的哲学家产生了深远的影响。与她的导师路德维希·维特根斯坦的作品一样，研究安斯康姆的作品需要经过反复的学习和探索才能获得洞见。
 
-- [1. 生平](https://plato.stanford.edu/entries/anscombe/#Lif) - [2. 道德和政治哲学](https://plato.stanford.edu/entries/anscombe/#MoPoPh) - [3. 形而上学](https://plato.stanford.edu/entries/anscombe/#Met) - [4. 行动理论](https://plato.stanford.edu/entries/anscombe/#ActThe) - [5. 知觉哲学](https://plato.stanford.edu/entries/anscombe/#PhoP) - [6. 证言](https://plato.stanford.edu/entries/anscombe/#Testimony) - [7. 结论](https://plato.stanford.edu/entries/anscombe/#Con) - [参考文献](https://plato.stanford.edu/entries/anscombe/#Bib) - [安斯康姆的著作](https://plato.stanford.edu/entries/anscombe/#PriLit) - [安斯康姆的翻译](https://plato.stanford.edu/entries/anscombe/#TraAns) - [一般参考文献](https://plato.stanford.edu/entries/anscombe/#SecLit) - [学术工具](https://plato.stanford.edu/entries/anscombe/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/anscombe/#Oth) - [相关条目](https://plato.stanford.edu/entries/anscombe/#Rel)
+* [1. 生平](https://plato.stanford.edu/entries/anscombe/#Lif) - [2. 道德和政治哲学](https://plato.stanford.edu/entries/anscombe/#MoPoPh) - [3. 形而上学](https://plato.stanford.edu/entries/anscombe/#Met) - [4. 行动理论](https://plato.stanford.edu/entries/anscombe/#ActThe) - [5. 知觉哲学](https://plato.stanford.edu/entries/anscombe/#PhoP) - [6. 证言](https://plato.stanford.edu/entries/anscombe/#Testimony) - [7. 结论](https://plato.stanford.edu/entries/anscombe/#Con) - [参考文献](https://plato.stanford.edu/entries/anscombe/#Bib) - [安斯康姆的著作](https://plato.stanford.edu/entries/anscombe/#PriLit) - [安斯康姆的翻译](https://plato.stanford.edu/entries/anscombe/#TraAns) - [一般参考文献](https://plato.stanford.edu/entries/anscombe/#SecLit) - [学术工具](https://plato.stanford.edu/entries/anscombe/#Aca) - [其他互联网资源](https://plato.stanford.edu/entries/anscombe/#Oth) - [相关条目](https://plato.stanford.edu/entries/anscombe/#Rel)
 
----
+***
 
 ## 1. 生活
 
@@ -44,13 +44,13 @@
 
 她指出，故意杀害某人，要么是为了自身的利益，要么是为了达到某种进一步的目的。这样的杀戮是有意的。相比之下，安斯康姆声称，有意和仅仅是预见之间的区别对于基督教伦理来说是“绝对必要的”。某些行为（例如谋杀）基督教伦理始终禁止或不允许，而故意杀害无辜者就在这个列表上。
 
-有些人认为，一个人可以通过特定的意图来达到所期望的结果，而在道德上不受惩罚。例如，如果一个人告诉自己通过做*y*实际上只是想要*x*，那么即使*y*是被禁止的，他也可以摆脱责任。
+有些人认为，一个人可以通过特定的意图来达到所期望的结果，而在道德上不受惩罚。例如，如果一个人告诉自己通过做_y_实际上只是想要_x_，那么即使_y_是被禁止的，他也可以摆脱责任。
 
 > 虔诚的天主教炸弹袭击者通过“意图的方向”确保任何无辜血液的流失都是“意外的”。我认识一个天主教男孩，他对他的老师告诉他广岛和长崎的人们被杀是一个“意外”感到困惑；事实上，无论多么荒谬，这样的想法在知道自己被神圣法律禁止为直接杀害无辜辩护的神父中是常见的（WAM，59）。
 
 这种教导让安斯康姆感到非常荒谬。她将这种误解归因于“笛卡尔式”的心理学，这是一种她在其他地方努力反对的心理学哲学。
 
-对意图的哲学理解（因此不仅仅是天主教教义）是必要的，以*展示*杀害无辜人民作为结束战争（或其他事情）的手段*就是*有意杀害无辜人民，尽管杀人者当时脑海中可能有各种想法。因此，她主张对阿奎那的观点进行适当理解，即某个行为的效果是有意还是仅仅是预见的，这是我们必须理解的，如果我们要看到是什么激励了双重效应原则或教义（有关双重效应原则的利弊更多信息，请参见SEP条目）。安斯康姆并不是那么多为这个原则辩护，而是坚持认为它还没有被充分理解。因此，要捍卫双重效应原则，一项伦理原则，我们首先需要对行动和意图的概念有一个正确的理解。关于这一点，详见第4节。
+对意图的哲学理解（因此不仅仅是天主教教义）是必要的，以_展示_杀害无辜人民作为结束战争（或其他事情）的手段_就是_有意杀害无辜人民，尽管杀人者当时脑海中可能有各种想法。因此，她主张对阿奎那的观点进行适当理解，即某个行为的效果是有意还是仅仅是预见的，这是我们必须理解的，如果我们要看到是什么激励了双重效应原则或教义（有关双重效应原则的利弊更多信息，请参见SEP条目）。安斯康姆并不是那么多为这个原则辩护，而是坚持认为它还没有被充分理解。因此，要捍卫双重效应原则，一项伦理原则，我们首先需要对行动和意图的概念有一个正确的理解。关于这一点，详见第4节。
 
 我们将通过研究她最著名的论文《现代道德哲学》（MMP）来理解行动和意图的概念的需要。安斯康姆提出了三个命题。首先，进行道德哲学是无用的，并且在我们拥有充分的心理哲学之前将始终如此，而这还有很长的路要走。其次，无论如何，道德哲学家应该放弃道德义务、道德责任和道德“应该”的概念，因为这些概念只在几种伦理学观念中有意义，而这些观念没有一个普遍存在。第三，从西奇威克以来，著名的英国道德哲学家之间没有重要的区别。安斯康姆的三个命题都很大胆；综合起来，它们令人震惊。
 
@@ -72,13 +72,13 @@ MMP的第二个论点是道德哲学家应该放弃“道德”义务、“道�
 
 她所指的“心理哲学”是什么意思呢？在《MMP》中，她列举了几个我们首先需要更好概念的主题：“行动”、“意图”、“快乐”、“欲望”，也许将来还有“德性”和“繁荣”。她从未发展出一个足够的德性或繁荣的概念，因此她甚至没有开始进行道德哲学。但是，她当然对行动和意图的概念发展做出了贡献。
 
-关于安斯康姆是否真诚地主张我们应该停止进行道德哲学的争议存在。Crisp 2004怀疑她暗中主张基于上帝的道德哲学优于*任何*世俗的道德哲学，甚至包括亚里士多德的哲学。他担心安斯康姆认为道德哲学家应该转向道德心理学问题的观点只适用于那些否认神圣法的人，而像她这样的基督徒可以继续从事道德哲学。
+关于安斯康姆是否真诚地主张我们应该停止进行道德哲学的争议存在。Crisp 2004怀疑她暗中主张基于上帝的道德哲学优于_任何_世俗的道德哲学，甚至包括亚里士多德的哲学。他担心安斯康姆认为道德哲学家应该转向道德心理学问题的观点只适用于那些否认神圣法的人，而像她这样的基督徒可以继续从事道德哲学。
 
 在某种意义上，Crisp是正确的。安斯康姆确实相信有一种神圣的道德法则，因此必然认为有神论的道德哲学比其他任何哲学都有优势。当然，安斯康姆对于如何生活有自己的观点，对于其中一些观点有自己的论证，并且反复反对时代精神，比如抗议使用原子弹和堕胎。
 
 但是当安斯康姆说我们（世俗的或至少是不统一的哲学家）应该在我们有一个充分的心理学哲学之前停止进行道德哲学时，她并不是说我们应该放弃我们所有的道德思考和交流。这有两个原因。首先，一个人不需要认为进行道德哲学是有益的，才能对如何生活或一致地支持或反对各种行动有观点。她呼吁停止进行道德哲学并不意味着她对反对什么有强烈的观点，就像一个人可能对什么是合法和非法有各种观点，即使从不进行任何法律哲学一样。回应卢梭，你不需要成为一个哲学家才能反对（或支持！）不公正。
 
-其次，她确实认为某些行为（例如谋杀）是“绝对被排除的”（MTD 71），出于我们所称的道德原因。但是她在这些主题上的大部分论证性著作都是针对那些已经与她共享观点的听众，即一个人不需要道德哲学的结果来过好生活。在一本遗稿集的前言中，卢克·戈马利解释说，她在那本书中的大部分演讲是给天主教听众的，她假设“接受权威教会教义”[FHG，x]。如果你和你的听众相信上帝已经向你们每个人承诺，避免不公正对你们有利，那么你们不需要深入理解繁荣或美德的概念，就可以相互讨论如何生活。比较一下：如果你相信你的旅行社代理人说，在你看来是一个无政府状态的岛上饮酒实际上是非法的，那么你不需要进行政治哲学，就可以与你的同伴讨论是否将酒留在家里。
+其次，她确实认为某些行为（例如谋杀）是“绝对被排除的”（MTD 71），出于我们所称的道德原因。但是她在这些主题上的大部分论证性著作都是针对那些已经与她共享观点的听众，即一个人不需要道德哲学的结果来过好生活。在一本遗稿集的前言中，卢克·戈马利解释说，她在那本书中的大部分演讲是给天主教听众的，她假设“接受权威教会教义”\[FHG，x]。如果你和你的听众相信上帝已经向你们每个人承诺，避免不公正对你们有利，那么你们不需要深入理解繁荣或美德的概念，就可以相互讨论如何生活。比较一下：如果你相信你的旅行社代理人说，在你看来是一个无政府状态的岛上饮酒实际上是非法的，那么你不需要进行政治哲学，就可以与你的同伴讨论是否将酒留在家里。
 
 最后，正如阿奎那所示，我们可以认为道德是基于上帝的，同时也相信我们需要了解我们心理的本质才能充分理解道德。她呼吁我们在更好地理解心理哲学之前，先让道德哲学休息一下，这个呼吁是针对我们所有人的，而不仅仅是道德哲学家的一个子集。
 
@@ -94,7 +94,7 @@ MMP的第二个论点是道德哲学家应该放弃“道德”义务、“道�
 
 她对行动自由也持不确定论立场。行动大多是物理运动，“如果这些物理运动是由我无法控制的过程物理决定的，那么我的自由就是完全虚幻的”（CAD，146）。我们的行动肯定是有原因的，但并非是确定的，因此仍然有自由的空间。然而，她也认识到不确定性并不足以确立自由；在讨论她对行动的观点时，我们需要了解还需要什么。
 
-在她的论文《第一人称》（TFP）中，最初发表于1975年，安斯康姆提出了一个似乎显然错误的论点：词语“I”不是一个指称表达式。也就是说，像“伊丽莎白·安斯康姆”、“艾伦·安斯康姆的女儿”、“*那个*女人”、“她”这样的术语是指称性的，但“我”这个术语并不以同样的方式发挥作用。“我”因此并不指称任何东西。（与思想“下雪了”中的‘它’的用法相比。）《第一人称》可能是安斯康姆最难的文章 - 这是说得不少 - 即使是有同情心的学者们对这个论证的意图也存在分歧。她显然受到了吉奇（Geach）1957年的影响，以及卡斯特尼亚达（Casteñada）关于第一人称的各种论文。后来，刘易斯（Lewis）1979年以一种独特但当时已经熟悉的方式讨论了这个问题。
+在她的论文《第一人称》（TFP）中，最初发表于1975年，安斯康姆提出了一个似乎显然错误的论点：词语“I”不是一个指称表达式。也就是说，像“伊丽莎白·安斯康姆”、“艾伦·安斯康姆的女儿”、“_那个_女人”、“她”这样的术语是指称性的，但“我”这个术语并不以同样的方式发挥作用。“我”因此并不指称任何东西。（与思想“下雪了”中的‘它’的用法相比。）《第一人称》可能是安斯康姆最难的文章 - 这是说得不少 - 即使是有同情心的学者们对这个论证的意图也存在分歧。她显然受到了吉奇（Geach）1957年的影响，以及卡斯特尼亚达（Casteñada）关于第一人称的各种论文。后来，刘易斯（Lewis）1979年以一种独特但当时已经熟悉的方式讨论了这个问题。
 
 安斯康姆赞同地关注了笛卡尔在《冥想集》中对“我”的使用的某些方面。众所周知，他无法怀疑“我存在”。但是基于同样的理由，他可以怀疑“我有一个身体”，他也可以怀疑“我是笛卡尔”。毕竟，“笛卡尔”只是一个人的名字，他可以怀疑自己是否是任何一个人 - 他可以想知道自己是否是一个罐子里的大脑。因此，如果这个论证确实建立了他与这个身体的非同一性，它也建立了他与笛卡尔的非同一性！
 
@@ -104,7 +104,7 @@ MMP的第二个论点是道德哲学家应该放弃“道德”义务、“道�
 
 > “当约翰·史密斯谈到詹姆斯·罗宾逊时，他是在谈论他的兄弟，但他并不知道这一点。”这是一种可能的情况。同样，“当约翰·史密斯谈到约翰·霍雷肖·奥伯龙·史密斯（也许是在遗嘱中）时，他是在谈论自己，但他并不知道这一点。”如果是这样的话，那么“谈论”或“指代”自己与不知道自己所谈论的对象是自己是相容的。（TFP，47）
 
-我们可能希望说：“史密斯可以谈论自己，而不意识到他正在谈论*自己*。”这表明有两种不同类型的反身代词：普通反身代词和间接反身代词。上面立即出现的“自己”是普通反身代词，只有在它选择与其先行词相同的对象时才能成功指代。它选择的方式并不重要，也不必要求先行词和代词共享一个意义。当我们说“史密斯谈论了自己”时，我们使用的是普通反身代词，因为史密斯所指的人确实是说话的人。
+我们可能希望说：“史密斯可以谈论自己，而不意识到他正在谈论_自己_。”这表明有两种不同类型的反身代词：普通反身代词和间接反身代词。上面立即出现的“自己”是普通反身代词，只有在它选择与其先行词相同的对象时才能成功指代。它选择的方式并不重要，也不必要求先行词和代词共享一个意义。当我们说“史密斯谈论了自己”时，我们使用的是普通反身代词，因为史密斯所指的人确实是说话的人。
 
 如果我们诱使说：“‘我’这个词是我们每个人在谈论自己时使用的词。”这个“自己”的用法不能是普通反身代词，因为正如我们刚才看到的，一个人在谈论自己的情况下，他不会同时使用词语“我”来指代同一事物。这个新的解释“我”这个词的“自己”从词语“我”的意义中获得其独特的意义。但是，由于间接反身代词“自己”的意义取决于词语“我”的意义，我们不能独立地理解间接反身代词来解释词语“我”。事情恰恰相反。这个讨论展示了“我”所带来的问题，但并没有解决它。
 
@@ -126,7 +126,7 @@ MMP的第二个论点是道德哲学家应该放弃“道德”义务、“道�
 
 在可以合理地被认为是该书论证的结论的地方，她写道，“‘有意’一词是指对事件的一种描述形式”（INT，84）。为了解开这个神秘的思想，首先要注意的是，她所指的事件是我们人类所涉及的一些事件。它不是指那些仅仅发生在我们身上的事情。
 
-其次，要注意的是，一个行为可以用多种方式描述。他是在抬起手臂上下移动吗？在抽水吗？在做他的工作吗？在点击出稳定的节奏吗？在岩石后面制造一个有趣的影子吗？嗯，可能*所有*这些描述都是正确的。
+其次，要注意的是，一个行为可以用多种方式描述。他是在抬起手臂上下移动吗？在抽水吗？在做他的工作吗？在点击出稳定的节奏吗？在岩石后面制造一个有趣的影子吗？嗯，可能_所有_这些描述都是正确的。
 
 第三，注意即使同一行为可以用多种方式描述，通常并不是每一种描述都是有意的。例如，即使一个人有意地打水，他可能并不是有意地在他身后的岩石上制造一个有趣的影子。但是，是什么决定了他行为的哪些描述是有意的呢？
 
@@ -192,17 +192,17 @@ MMP的第二个论点是道德哲学家应该放弃“道德”义务、“道�
 
 因此，她反对关于理由的认识论连贯主义，或者至少是某种流行版本的连贯主义。关于凯撒生活的众多信息来源本身同样容易受到怀疑，因此我们无法在信任后者的同时实际测试前者。如果不信任我们所学到的东西，我们几乎没有历史知识。
 
-在C. A. J. Coady于1992年发表的关于证词的杰作之前，引起了广泛的兴趣之前，安斯康姆发表了一篇名为《相信某人是什么意思？》的小论文，预示了他和其他人后来发展的许多观点。她写道，在她所处的哲学讨论中，相信某人的话题不仅被忽视，而且实际上是未知的。然而，她断言这在哲学和生活中“非常重要”，因为“我们对现实的大部分知识都建立在我们对所学和所听到的事物的信任之上”。那么，相对于命题而言，一个*人*成为信仰的对象是什么意思呢？
+在C. A. J. Coady于1992年发表的关于证词的杰作之前，引起了广泛的兴趣之前，安斯康姆发表了一篇名为《相信某人是什么意思？》的小论文，预示了他和其他人后来发展的许多观点。她写道，在她所处的哲学讨论中，相信某人的话题不仅被忽视，而且实际上是未知的。然而，她断言这在哲学和生活中“非常重要”，因为“我们对现实的大部分知识都建立在我们对所学和所听到的事物的信任之上”。那么，相对于命题而言，一个_人_成为信仰的对象是什么意思呢？
 
 安斯康姆区分了相信一个人和相信一个人所说的话，因为你可以在没有前者的情况下做到后者 - 当你已经相信所说的内容时，以及当你相信这个人既被误导又试图欺骗你时。安斯康姆描述了许多“前提”，以相信某人：注意到相关的声音或文字，将其理解为一种交流的尝试，注意到它是针对自己的，正确理解它，理解它确实是由该人产生的，以及许多其他因素。只有当所有这些都到位后，我们才能问：“他相信她吗？”
 
-人们相信你告诉他们的事情是一件非常重要的事情。安斯康姆声称：“不被相信是一种侮辱，也可能是一种伤害”（WBS，9）。虽然她没有详细说明侮辱和伤害的性质，但她的说法预示了当代关于认识不公正的讨论。有趣的是，她指出，甚至不被当作在告诉别人某事也是一种侮辱。例如，如果你告诉我*p*，但我没有注意到你在告诉我任何事情——也许我以为你只是在自言自语——你可能会合理地说我没有尊重地不相信你。我们可以通过拒绝接受彼此的话语来伤害彼此，这个想法最近在认识论和伦理学的交叉领域广泛讨论。
+人们相信你告诉他们的事情是一件非常重要的事情。安斯康姆声称：“不被相信是一种侮辱，也可能是一种伤害”（WBS，9）。虽然她没有详细说明侮辱和伤害的性质，但她的说法预示了当代关于认识不公正的讨论。有趣的是，她指出，甚至不被当作在告诉别人某事也是一种侮辱。例如，如果你告诉我_p_，但我没有注意到你在告诉我任何事情——也许我以为你只是在自言自语——你可能会合理地说我没有尊重地不相信你。我们可以通过拒绝接受彼此的话语来伤害彼此，这个想法最近在认识论和伦理学的交叉领域广泛讨论。
 
 在关于证言的第三篇论文《道德中的权威》，安斯康姆再次考虑了一些最近才广泛讨论的相关问题：一个人是否能够恰当地告诉另一个人如何看待道德，听者是否能够恰当地相信所被告知的内容？考虑到这篇论文最初是在一个修道院的会议上发表的，她的讨论大部分涉及对宗教权威在道德真理方面的信任。但她的观点是普遍适用的。
 
-安斯康姆将道德教育与数学教育进行比较：在这两种情况下，人们必须*去做*某事才能真正学到所教的东西，而不仅仅是接受某些东西作为信仰。因此，教授道德或数学给某人不仅仅涉及信仰的形成。即便如此，她否认自主权的适当理解与信任道德证词不相容：决定相信告诉你某个道德真理的人可以是一种自我思考的方式。这样做并根据这个证词行动的人仍然是“自己的领航员”（AIM，49）。
+安斯康姆将道德教育与数学教育进行比较：在这两种情况下，人们必须_去做_某事才能真正学到所教的东西，而不仅仅是接受某些东西作为信仰。因此，教授道德或数学给某人不仅仅涉及信仰的形成。即便如此，她否认自主权的适当理解与信任道德证词不相容：决定相信告诉你某个道德真理的人可以是一种自我思考的方式。这样做并根据这个证词行动的人仍然是“自己的领航员”（AIM，49）。
 
-然而，道德证词也有其限制。尽管她认为某些教条真理是宗教启示并且不能以其他方式知晓，但道德真理并非如此。道德真理只能以*偶然*的方式通过宗教启示知晓。换句话说，道德真理*总是*可以通过其他途径知晓，而不仅仅是通过信任某个来源。似乎没有道德真理可以*本质上*只通过信任来接受的空间。
+然而，道德证词也有其限制。尽管她认为某些教条真理是宗教启示并且不能以其他方式知晓，但道德真理并非如此。道德真理只能以_偶然_的方式通过宗教启示知晓。换句话说，道德真理_总是_可以通过其他途径知晓，而不仅仅是通过信任某个来源。似乎没有道德真理可以_本质上_只通过信任来接受的空间。
 
 道德真理被意外地揭示的一种方式是当某人依赖权威来支持一个道德主张，而他们在某种意义上本可以自己思考，但却没有。安斯康姆并不意味着这种依赖是懒惰的表现；相反，她认为不同的人已经掌握了道德法则的不同部分（AIM，45），因此她似乎认为分享道德真理就像分享其他真理一样。例如，如果你告诉我你午餐吃了什么，即使原则上我可以偷偷监视你来找出答案，我也可以合理地相信你。同样，如果你告诉我一些我自己没有想明白的道德真理，我也可以合理地相信你（尽管理论上我也可以自己思考出来）。
 
@@ -222,117 +222,117 @@ When abbreviations are used to cite Anscombe’s works in the text, the abbrevia
 
 Anscombe’s monographs include the following:
 
-- [IWT] *An Introduction to Wittgenstein’s Tractatus*, London: Hutchinson, 1959; 2nd edition, 1963; 3rd edition, 1971.
-- [INT] *Intention*, Oxford: Basil Blackwell, 1957; 2nd edition, 1963. Reprinted in 2000 by Harvard University Press.
-- [THP] *Three Philosophers: Aristotle, Aquinas, Frege*, with Peter Geach, Oxford: Basil Blackwell, 2002.
+* \[IWT] _An Introduction to Wittgenstein’s Tractatus_, London: Hutchinson, 1959; 2nd edition, 1963; 3rd edition, 1971.
+* \[INT] _Intention_, Oxford: Basil Blackwell, 1957; 2nd edition, 1963. Reprinted in 2000 by Harvard University Press.
+* \[THP] _Three Philosophers: Aristotle, Aquinas, Frege_, with Peter Geach, Oxford: Basil Blackwell, 2002.
 
 Anscombe’s principal essays are collected in the following six volumes.
 
-- [FPW] *From Parmenides to Wittgenstein (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 1)*, Minneapolis, MN: University of Minnesota Press, 1981.
-- [MPM] *Metaphysics and the Philosophy of Mind (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 2)*, Minneapolis, MN: University of Minnesota Press, 1981.
-- [ERP] *Ethics, Religion and Politics (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 3)*, Minneapolis, MN: University of Minnesota Press, 1981.
-- [HAE] *Human Life, Action, and Ethics: Essays by G. E. M. Anscombe (St. Andrews Studies in Philosophy and Public Affairs, Volume IV)*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2005.
-- [FPW] *From Plato to Wittgenstein: Essays by G. E. M. Anscombe*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
-- [LTM] *Logic, Truth and Meaning: Writings by G. E. M. Anscombe*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
+* \[FPW] _From Parmenides to Wittgenstein (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 1)_, Minneapolis, MN: University of Minnesota Press, 1981.
+* \[MPM] _Metaphysics and the Philosophy of Mind (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 2)_, Minneapolis, MN: University of Minnesota Press, 1981.
+* \[ERP] _Ethics, Religion and Politics (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 3)_, Minneapolis, MN: University of Minnesota Press, 1981.
+* \[HAE] _Human Life, Action, and Ethics: Essays by G. E. M. Anscombe (St. Andrews Studies in Philosophy and Public Affairs, Volume IV)_, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2005.
+* \[FPW] _From Plato to Wittgenstein: Essays by G. E. M. Anscombe_, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
+* \[LTM] _Logic, Truth and Meaning: Writings by G. E. M. Anscombe_, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
 
 Individual essays by Anscombe cited in the text, with page numbers referring to the reprinted version contained in the above collected volumes:
 
-- [MTD] “Mr. Truman’s Degree” (privately produced pamphlet); reprinted in [MPM], 62–71.
-- [WAM] “War and Murder,” in *Nuclear Weapons: a Catholic Response*, Walter Stein (ed.), London: Merlin, 1961, 43–62; reprinted in [ERP], 51–61.
-- [SAS] “On the Source of the Authority of the State,” *Ratio* 20 (1978); reprinted in [MPM], 130–155.
-- [MMP] “Modern Moral Philosophy,” *Philosophy* 33 (1958): 1–19; reprinted in [ERP], 26–42. [CAD] Causality and Determination: An Inaugural Lecture, Cambridge: Cambridge University Press, 1971; reprinted in [MPM], 133–147.
-- [TFP] “The First Person,” in *Mind and Language: Wolfson College Lectures 1974*, Oxford: Clarendon Press, 1975, 45–64; reprinted in [MPM], 21–36.
-- [IOS] “The Immortality of the Soul” in [FHG], 69–83; previously unpublished. [CSL] “A Reply to Mr. C.S. Lewis’s Argument that ‘Naturalism’ is Self-Refuting,” Socratic Digest 4:2 (1948), 7–16; reprinted in [MPM], 224–232.
-- [CAC] “Contraception and Chastity,” The Human World 9 (1972): 41–51; reprinted in [FHG], 170–192.
-- [IOS] “The Intentionality of Sensation: A Grammatical Feature,” *Analytical Philosophy* (second series), R. J. Butler (ed.), Oxford: Oxford University Press, 1965; reprinted in [MPM], 3–20.
-- [HJC] “Hume and Julius Caesar,” *Analysis* 34 (1973): 1–7; reprinted in [FPW], 86–93.
-- [WBS] “What Is It to Believe Someone?” in *Rationality and Religious Belief*, C. F. Delaney (ed.), Notre Dame, IN: University of Notre Dame Press, 1979, 141–151; reprinted in [FHG], 1–10.
-- [AIM] “Authority in Morals” in *Problems of Authority*, J. Todd (ed.), London: Darton, Longman and Todd, 1962; reprinted in [ERP], 43–50.
+* \[MTD] “Mr. Truman’s Degree” (privately produced pamphlet); reprinted in \[MPM], 62–71.
+* \[WAM] “War and Murder,” in _Nuclear Weapons: a Catholic Response_, Walter Stein (ed.), London: Merlin, 1961, 43–62; reprinted in \[ERP], 51–61.
+* \[SAS] “On the Source of the Authority of the State,” _Ratio_ 20 (1978); reprinted in \[MPM], 130–155.
+* \[MMP] “Modern Moral Philosophy,” _Philosophy_ 33 (1958): 1–19; reprinted in \[ERP], 26–42. \[CAD] Causality and Determination: An Inaugural Lecture, Cambridge: Cambridge University Press, 1971; reprinted in \[MPM], 133–147.
+* \[TFP] “The First Person,” in _Mind and Language: Wolfson College Lectures 1974_, Oxford: Clarendon Press, 1975, 45–64; reprinted in \[MPM], 21–36.
+* \[IOS] “The Immortality of the Soul” in \[FHG], 69–83; previously unpublished. \[CSL] “A Reply to Mr. C.S. Lewis’s Argument that ‘Naturalism’ is Self-Refuting,” Socratic Digest 4:2 (1948), 7–16; reprinted in \[MPM], 224–232.
+* \[CAC] “Contraception and Chastity,” The Human World 9 (1972): 41–51; reprinted in \[FHG], 170–192.
+* \[IOS] “The Intentionality of Sensation: A Grammatical Feature,” _Analytical Philosophy_ (second series), R. J. Butler (ed.), Oxford: Oxford University Press, 1965; reprinted in \[MPM], 3–20.
+* \[HJC] “Hume and Julius Caesar,” _Analysis_ 34 (1973): 1–7; reprinted in \[FPW], 86–93.
+* \[WBS] “What Is It to Believe Someone?” in _Rationality and Religious Belief_, C. F. Delaney (ed.), Notre Dame, IN: University of Notre Dame Press, 1979, 141–151; reprinted in \[FHG], 1–10.
+* \[AIM] “Authority in Morals” in _Problems of Authority_, J. Todd (ed.), London: Darton, Longman and Todd, 1962; reprinted in \[ERP], 43–50.
 
 ### Translations by Anscombe
 
 Major translations by Anscombe include:
 
-- Descartes, René, *Philosophical Writings*, translated by G. E. M. Anscombe and Peter Geach, London: Thomas Nelson and Sons, 1954.
-- Wittgenstein, Ludwig, *Philosophical Investigations*, translated by G. E. M. Anscombe, Oxford: Basil Blackwell, 1953.
-- –––, *Notebooks 1914–1916*, translated by G. E. M. Anscombe, Oxford: Basil Blackwell, 1961.
-- –––, *On Certainty*, translated by Denis Paul and G. E. M. Anscombe and edited by G. H. von Wright and G. E. M. Anscombe, Oxford: Basil Blackwell, 1969.
-- –––, *Remarks on the Foundation of Mathematics*, translated by G. E. M. Anscombe and edited by G. H. von Wright and R. Rhees, Oxford: Basil Blackwell, 1956.
-- –––, *Zettel*, translated by G. E. M. Anscombe, Oxford: Blackwell, 1967.
+* Descartes, René, _Philosophical Writings_, translated by G. E. M. Anscombe and Peter Geach, London: Thomas Nelson and Sons, 1954.
+* Wittgenstein, Ludwig, _Philosophical Investigations_, translated by G. E. M. Anscombe, Oxford: Basil Blackwell, 1953.
+* –––, _Notebooks 1914–1916_, translated by G. E. M. Anscombe, Oxford: Basil Blackwell, 1961.
+* –––, _On Certainty_, translated by Denis Paul and G. E. M. Anscombe and edited by G. H. von Wright and G. E. M. Anscombe, Oxford: Basil Blackwell, 1969.
+* –––, _Remarks on the Foundation of Mathematics_, translated by G. E. M. Anscombe and edited by G. H. von Wright and R. Rhees, Oxford: Basil Blackwell, 1956.
+* –––, _Zettel_, translated by G. E. M. Anscombe, Oxford: Blackwell, 1967.
 
 ### Secondary Literature
 
-- Bennett, Jonathan, 1966. “Whatever the Consequences,” *Analysis*, 26: 83–102.
-- –––, 1995. *The Act Itself*, Oxford: Oxford University Press.
-- Boyle, Joseph, 1980. “Toward Understanding the Principle of Double Effect,” *Ethics*, 90: 527–538.
-- Bratman, Michael, 1987. *Intention, Plans, and Practical Reason*, Cambridge, MA: Harvard University Press.
-- Coady, C. A. J., 1995. *Testimony: A Philosophical Study*, Oxford: Oxford University Press.
-- Crisp, Roger and Michael Slote, 1996. *Introduction to Virtue Ethics*, Roger Crisp and Michael Slote (eds.), Oxford: Oxford University Press.
-- Crisp, Roger, 2004. “Does Modern Moral Philosophy Rest on a Mistake?,” in *Modern Moral Philosophy* (Royal Institute of Philosophy, Supplement 54), Cambridge: Cambridge University Press, 75–94.
-- Davidson, Donald, 1963. “Actions, Reasons, and Causes,” *Journal of Philosophy*, 60: 685–700.
-- Diamond, Cora, 2019. *Reading Wittgenstein with Anscombe, Going on to Ethics*, Cambridge, MA: Harvard University Press.
-- ––– and Jenny Teichman (eds), 1979. *Intention and Intentionality: Essays in Honour of G. E. M. Anscombe*, Harvester Press.
-- Doyle, James, 2017. *No Morality, No Self: Anscombe’s Radical Skepticism*, Cambridge, MA: Harvard University Press.
-- Ford, Anton, 2015. “The Arithmetic of Intention,” *American Philosophical Quarterly*, 52: 129–143.
-- –––, Jennifer Hornsby, and Frederick Stoutland (eds.), 2011. *Essays on Anscombe’s Intention*, Cambridge, MA: Harvard University Press.
-- Foot, Philippa, 2002. *Virtues and Vices: And Other Essays in Moral Philosophy*, Oxford, Oxford University Press.
-- Frey, Christopher & Frey, Jennifer A, 2017. “G. E. M. Anscombe on the Analogical Unity of Intention in Perception and Action,” *Analytic Philosophy* 58, 3: 202–247.
-- Frey, Jennifer A., 2019. “Anscombe on Practical Knowledge and the Good,” *Ergo: An Open Access Journal of Philosophy*, 6.
-- Frost, Kim, 2014. “On the Very Idea of Direction of Fit,” *The Philosophical Review* 123: 429–484.
-- Geach, Peter, 1957. “On Belief About Oneself,” *Analysis* 18: 23–24.
-- –––, 2006. “The Labels,” *Analysis*, 66: 266–67.
-- Gormally, Luke, David Albert Jones, and Roger Teichmann (eds.), 2016. *The Moral Philosophy of Elizabeth Anscombe*. Imprint Academic.
-- Haldane, John, 2000. “In Memoriam, G. E. M. Anscombe (1919–2001),” *The Review of Metaphysics*, 53: 1019–1021.
-- ––– (ed.), 2019. *The Life and Philosophy of Elizabeth Anscombe*. Imprint Academic.
-- Hlobil, Ulf & Nieswandt, Katharina, 2016. “On Anscombe’s Philosophical Method,” *Klēsis Revue Philosophique* 35: 180–198.
-- Hursthouse, Rosalind, 2000. “Intention” in *Logic, Cause and Action: Essays in Honour of Elizabeth Anscombe*, ed. Teichmann, Cambridge: Cambridge University Press, 83–105.
-- Lavin, Douglas, 2015. “Action as a form of temporal unity: on Anscombe’s Intention,” *Canadian Journal of Philosophy* 45:609–629.
-- Lewis, C. S., 1960. *Miracles: A Preliminary Study*, 2nd edition. London, Fontana.
-- Lewis, David, 1979. “Attitudes de dicto and de se,” *Philosophical Review* 88: 513–543.
-- Mac Cumhaill, Clare & Wiseman, Rachael, 2022. *Metaphysical Animals*, New York: Doubleday.
-- Mackie, J. L., 1977. *Ethics: Inventing Right and Wrong*, Harmondsworth: Penguin.
-- Monk, Ray, 1991. *Ludwig Wittgenstein: The Duty of Genius*, London: Vintage.
-- Moran, Richard & Stone, Martin J., 2011. “Anscombe on expression of intention: an exegesis” in *Essays on Anscombe’s Intention*, eds. Anton Ford, Jennifer Hornsby & Frederick Stoutland, Harvard University Press.
-- Murdoch, Iris, 1971. *The Sovereignty of Good.* Routledge.
-- Nagel, Thomas, 1979. “War and Massacre,” in *Mortal Questions*, New York: Cambridge University Press, 53–74.
-- O’Brien, Lucy, 1994. “Anscombe and the Self-Reference Rule,” *Analysis* 54: 277–281.
-- Passmore, John, 1966. *A Hundred Years of Philosophy*, 2nd edition, New York: Basic Books.
-- Rödl, Sebastian, 2007. *Self-Consciousness*, Cambridge, MA: Harvard University Press.
-- Schwenkler, John, 2019. *Anscombe’s Intention: A Guide*. New York, USA: Oxford University Press.
-- Searle, John R., 1975. “A Taxonomy of Illocutionary Acts,” In *Language, Mind and Knowledge*, ed. K. Gunderson, University of Minnesota Press, 344–369.
-- Teichman, Jenny, 2002. “Gertrude Elizabeth Margaret Anscombe: 1919–2001,” in *Biographical Memoirs of Fellows I* (Proceedings of the British Academy, Volume 115), Oxford: Oxford University Press, 31–50.
-- Teichmann, Roger (ed.), 2000. *Logic, Cause and Action: Essays in Honour of Elizabeth Anscombe*, Cambridge: Cambridge University Press.
-- –––, 2008. *The Philosophy of Elizabeth Anscombe*, Oxford: Oxford University Press.
-- Thompson, Michael, 2011. “Anscombe’s Intention and practical knowledge,” in *Essays on Anscombe’s Intention*, eds. Anton Ford, Jennifer Hornsby & Frederick Stoutland, Harvard University Press.
-- Vogler, Candace, 2006. “Modern Moral Philosophy Again: Isolating the Promulgation Problem,” *Proceedings of the Aristotelian Society* 106: 347–364.
-- –––, 2016. “Nothing Added: Intention §§19 and 20,” *American Catholic Philosophical Quarterly* 90: 229–247.
-- Williams, Bernard, 1985. *Ethics and the Limits of Philosophy*, Oxford: Oxford University Press.
-- ––– and Michael Tanner, 1972. “Comment on Contraception and Chastity,” *The Human World*, 9: 41–51.
-- Wilson, George, 1989. *The Intentionality of Human Action*, Stanford: Stanford University Press.
-- Wiseman, Rachael, 2016. *Routledge Philosophy Guidebook to Anscombe’s Intention*. Routledge.
-- Wittgenstein, Ludwig, 1980. *Philosophical Remarks*, Chicago: University of Chicago Press.
+* Bennett, Jonathan, 1966. “Whatever the Consequences,” _Analysis_, 26: 83–102.
+* –––, 1995. _The Act Itself_, Oxford: Oxford University Press.
+* Boyle, Joseph, 1980. “Toward Understanding the Principle of Double Effect,” _Ethics_, 90: 527–538.
+* Bratman, Michael, 1987. _Intention, Plans, and Practical Reason_, Cambridge, MA: Harvard University Press.
+* Coady, C. A. J., 1995. _Testimony: A Philosophical Study_, Oxford: Oxford University Press.
+* Crisp, Roger and Michael Slote, 1996. _Introduction to Virtue Ethics_, Roger Crisp and Michael Slote (eds.), Oxford: Oxford University Press.
+* Crisp, Roger, 2004. “Does Modern Moral Philosophy Rest on a Mistake?,” in _Modern Moral Philosophy_ (Royal Institute of Philosophy, Supplement 54), Cambridge: Cambridge University Press, 75–94.
+* Davidson, Donald, 1963. “Actions, Reasons, and Causes,” _Journal of Philosophy_, 60: 685–700.
+* Diamond, Cora, 2019. _Reading Wittgenstein with Anscombe, Going on to Ethics_, Cambridge, MA: Harvard University Press.
+* ––– and Jenny Teichman (eds), 1979. _Intention and Intentionality: Essays in Honour of G. E. M. Anscombe_, Harvester Press.
+* Doyle, James, 2017. _No Morality, No Self: Anscombe’s Radical Skepticism_, Cambridge, MA: Harvard University Press.
+* Ford, Anton, 2015. “The Arithmetic of Intention,” _American Philosophical Quarterly_, 52: 129–143.
+* –––, Jennifer Hornsby, and Frederick Stoutland (eds.), 2011. _Essays on Anscombe’s Intention_, Cambridge, MA: Harvard University Press.
+* Foot, Philippa, 2002. _Virtues and Vices: And Other Essays in Moral Philosophy_, Oxford, Oxford University Press.
+* Frey, Christopher & Frey, Jennifer A, 2017. “G. E. M. Anscombe on the Analogical Unity of Intention in Perception and Action,” _Analytic Philosophy_ 58, 3: 202–247.
+* Frey, Jennifer A., 2019. “Anscombe on Practical Knowledge and the Good,” _Ergo: An Open Access Journal of Philosophy_, 6.
+* Frost, Kim, 2014. “On the Very Idea of Direction of Fit,” _The Philosophical Review_ 123: 429–484.
+* Geach, Peter, 1957. “On Belief About Oneself,” _Analysis_ 18: 23–24.
+* –––, 2006. “The Labels,” _Analysis_, 66: 266–67.
+* Gormally, Luke, David Albert Jones, and Roger Teichmann (eds.), 2016. _The Moral Philosophy of Elizabeth Anscombe_. Imprint Academic.
+* Haldane, John, 2000. “In Memoriam, G. E. M. Anscombe (1919–2001),” _The Review of Metaphysics_, 53: 1019–1021.
+* ––– (ed.), 2019. _The Life and Philosophy of Elizabeth Anscombe_. Imprint Academic.
+* Hlobil, Ulf & Nieswandt, Katharina, 2016. “On Anscombe’s Philosophical Method,” _Klēsis Revue Philosophique_ 35: 180–198.
+* Hursthouse, Rosalind, 2000. “Intention” in _Logic, Cause and Action: Essays in Honour of Elizabeth Anscombe_, ed. Teichmann, Cambridge: Cambridge University Press, 83–105.
+* Lavin, Douglas, 2015. “Action as a form of temporal unity: on Anscombe’s Intention,” _Canadian Journal of Philosophy_ 45:609–629.
+* Lewis, C. S., 1960. _Miracles: A Preliminary Study_, 2nd edition. London, Fontana.
+* Lewis, David, 1979. “Attitudes de dicto and de se,” _Philosophical Review_ 88: 513–543.
+* Mac Cumhaill, Clare & Wiseman, Rachael, 2022. _Metaphysical Animals_, New York: Doubleday.
+* Mackie, J. L., 1977. _Ethics: Inventing Right and Wrong_, Harmondsworth: Penguin.
+* Monk, Ray, 1991. _Ludwig Wittgenstein: The Duty of Genius_, London: Vintage.
+* Moran, Richard & Stone, Martin J., 2011. “Anscombe on expression of intention: an exegesis” in _Essays on Anscombe’s Intention_, eds. Anton Ford, Jennifer Hornsby & Frederick Stoutland, Harvard University Press.
+* Murdoch, Iris, 1971. _The Sovereignty of Good._ Routledge.
+* Nagel, Thomas, 1979. “War and Massacre,” in _Mortal Questions_, New York: Cambridge University Press, 53–74.
+* O’Brien, Lucy, 1994. “Anscombe and the Self-Reference Rule,” _Analysis_ 54: 277–281.
+* Passmore, John, 1966. _A Hundred Years of Philosophy_, 2nd edition, New York: Basic Books.
+* Rödl, Sebastian, 2007. _Self-Consciousness_, Cambridge, MA: Harvard University Press.
+* Schwenkler, John, 2019. _Anscombe’s Intention: A Guide_. New York, USA: Oxford University Press.
+* Searle, John R., 1975. “A Taxonomy of Illocutionary Acts,” In _Language, Mind and Knowledge_, ed. K. Gunderson, University of Minnesota Press, 344–369.
+* Teichman, Jenny, 2002. “Gertrude Elizabeth Margaret Anscombe: 1919–2001,” in _Biographical Memoirs of Fellows I_ (Proceedings of the British Academy, Volume 115), Oxford: Oxford University Press, 31–50.
+* Teichmann, Roger (ed.), 2000. _Logic, Cause and Action: Essays in Honour of Elizabeth Anscombe_, Cambridge: Cambridge University Press.
+* –––, 2008. _The Philosophy of Elizabeth Anscombe_, Oxford: Oxford University Press.
+* Thompson, Michael, 2011. “Anscombe’s Intention and practical knowledge,” in _Essays on Anscombe’s Intention_, eds. Anton Ford, Jennifer Hornsby & Frederick Stoutland, Harvard University Press.
+* Vogler, Candace, 2006. “Modern Moral Philosophy Again: Isolating the Promulgation Problem,” _Proceedings of the Aristotelian Society_ 106: 347–364.
+* –––, 2016. “Nothing Added: Intention §§19 and 20,” _American Catholic Philosophical Quarterly_ 90: 229–247.
+* Williams, Bernard, 1985. _Ethics and the Limits of Philosophy_, Oxford: Oxford University Press.
+* ––– and Michael Tanner, 1972. “Comment on Contraception and Chastity,” _The Human World_, 9: 41–51.
+* Wilson, George, 1989. _The Intentionality of Human Action_, Stanford: Stanford University Press.
+* Wiseman, Rachael, 2016. _Routledge Philosophy Guidebook to Anscombe’s Intention_. Routledge.
+* Wittgenstein, Ludwig, 1980. _Philosophical Remarks_, Chicago: University of Chicago Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=anscombe). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/anscombe/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=anscombe&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/anscombe/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=anscombe).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/anscombe/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=anscombe\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/anscombe/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-- [Obituary](http://www.guardian.co.uk/Archive/Article/0,4273,4115443,00.html), in *The Guardian*, January 11, 2001, by Jane O’Grady
-- [Anscombe Papers Project](https://www.collegiuminstitute.org/anscombe-papers-project), Collegium Institute for Catholic Thought & Culture.
+* [Obituary](http://www.guardian.co.uk/Archive/Article/0,4273,4115443,00.html), in _The Guardian_, January 11, 2001, by Jane O’Grady
+* [Anscombe Papers Project](https://www.collegiuminstitute.org/anscombe-papers-project), Collegium Institute for Catholic Thought & Culture.
 
 ## Related Entries
 
-abortion, ethics of | [action](https://plato.stanford.edu/entries/action/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [double effect, doctrine of](https://plato.stanford.edu/entries/double-effect/) | [epistemology: social](https://plato.stanford.edu/entries/epistemology-social/) | [ethics: natural law tradition](https://plato.stanford.edu/entries/natural-law-ethics/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [Foot, Philippa](https://plato.stanford.edu/entries/philippa-foot/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [Murdoch, Iris](https://plato.stanford.edu/entries/murdoch/) | [war](https://plato.stanford.edu/entries/war/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
+abortion, ethics of | [action](https://plato.stanford.edu/entries/action/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [double effect, doctrine of](https://plato.stanford.edu/entries/double-effect/) | [epistemology: social](https://plato.stanford.edu/entries/epistemology-social/) | [ethics: natural law tradition](https://plato.stanford.edu/entries/natural-law-ethics/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [Foot, Philippa](https://plato.stanford.edu/entries/philippa-foot/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [Murdoch, Iris](https://plato.stanford.edu/entries/murdoch/) | [war](https://plato.stanford.edu/entries/war/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
 
 ### Acknowledgments
 
-We would like to thank an editor for the *Stanford Encyclopedia of Philosophy* for his or her extremely helpful comments on earlier drafts. We would also like to thank Simon Blackburn, Roger Crisp, and John Schwenkler for their very helpful feedback on this essay.
+We would like to thank an editor for the _Stanford Encyclopedia of Philosophy_ for his or her extremely helpful comments on earlier drafts. We would also like to thank Simon Blackburn, Roger Crisp, and John Schwenkler for their very helpful feedback on this essay.
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Eric Wiland](https://sites.google.com/site/wiland/) <[*wiland@gmail.com*](mailto:wiland%40gmail%2ecom)>  
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Eric Wiland](https://sites.google.com/site/wiland/) <[_wiland@gmail.com_](mailto:wiland%40gmail%2ecom)>\
 Julia Driver
