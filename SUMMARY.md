@@ -232,6 +232,10 @@
 * [阿维森纳——见伊本·西那 Avicenna — see Ibn Sina](a/a-wei-sen-na-jian-yi-ben-xi-na-avicenna-see-ibn-sina/README.md)
   * [逻辑学——见伊本·西那的逻辑学 logic — see Ibn Sina: logic](a/a-wei-sen-na-jian-yi-ben-xi-na-avicenna-see-ibn-sina/luo-ji-xue-jian-yi-ben-xi-na-de-luo-ji-xue-logic-see-ibn-sina-logic.md)
   * [形而上学——见伊本·西那的形而上学 metaphysics — see Ibn Sina: metaphysics](a/a-wei-sen-na-jian-yi-ben-xi-na-avicenna-see-ibn-sina/xing-er-shang-xue-jian-yi-ben-xi-na-de-xing-er-shang-xue-metaphysics-see-ibn-sina-metaphysics.md)
-  * [自然哲学——伊本·西那的自然哲学 natural philosophy — see Ibn Sina: natural philosophy](a/a-wei-sen-na-jian-yi-ben-xi-na-avicenna-see-ibn-sina/zi-ran-zhe-xue-yi-ben-xi-na-de-zi-ran-zhe-xue-natural-philosophy-see-ibn-sina-natural-philosophy.md)
+  * [自然哲学——见伊本·西那的自然哲学 natural philosophy — see Ibn Sina: natural philosophy](a/a-wei-sen-na-jian-yi-ben-xi-na-avicenna-see-ibn-sina/zi-ran-zhe-xue-yi-ben-xi-na-de-zi-ran-zhe-xue-natural-philosophy-see-ibn-sina-natural-philosophy.md)
 * [身体意识——见身体意识 awareness, bodily — see bodily awareness](a/shen-ti-yi-shi-jian-shen-ti-yi-shi-awareness-bodily-see-bodily-awareness.md)
 * [阿尔弗雷德·朱尔斯·艾耶尔 Ayer, Alfred Jules (Graham Macdonald and Nikhil Krishnan)](a/a-er-fu-lei-de-zhu-er-si-ai-ye-er-ayer-alfred-jules-graham-macdonald-and-nikhil-krishnan.md)
+
+## B
+
+* [弗朗西斯·培根 Bacon, Francis (Jürgen Klein)](b/fu-lang-xi-si-pei-gen-bacon-francis-jrgen-klein.md)
