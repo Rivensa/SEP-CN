@@ -321,4 +321,4 @@ Psillos（2000）提出了另一种溯因可能补充贝叶斯证实理论的方
 [epistemology: Bayesian](https://plato.stanford.edu/entries/epistemology-bayesian/) | [induction: problem of](https://plato.stanford.edu/entries/induction-problem/) | [Peirce, Charles Sanders](https://plato.stanford.edu/entries/peirce/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [underdetermination, of scientific theories](https://plato.stanford.edu/entries/scientific-underdetermination/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-Igor Douven <[*igor.douven@paris-sorbonne.
+Igor Douven <[*igor.douven@paris-sorbonne.fr*](mailto:igor%2edouven%40paris-sorbonne%2efr)>
