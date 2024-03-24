@@ -1,8 +1,6 @@
 # 存在主义美学 existentialist (Jean-Philippe Deranty)
 
-
-
-*首次发表于 2009 年 6 月 26 日；实质性修订于 2019 年 3 月 4 日*
+_首次发表于 2009 年 6 月 26 日；实质性修订于 2019 年 3 月 4 日_
 
 许多被普遍描述为“存在主义者”的哲学家对美学思维做出了独创性和决定性的贡献。在大多数情况下，对艺术实践（如小说家、剧作家或音乐家）的深入参与滋养了他们对美学体验的思考。这一点已经在启发 20 世纪存在主义的两位重要哲学家苏伦·基尔克戈尔和弗里德里希·尼采身上得到了证实。然而，由于篇幅限制，本文仅限于 20 世纪的思想家，他们在某个时刻或另一个时刻接受了“存在主义者”这个标签，并对美学做出了最重要的贡献：阿尔贝·加缪、西蒙娜·德·波伏娃、加布里埃尔·马塞尔、莫里斯·梅洛-庞蒂和让-保罗·萨特。
 
@@ -36,7 +34,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-existentialist/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/aesthetics-existentialist/#Rel)
 
----
+***
 
 ## 1. 存在主义美学的形而上学基础
 
@@ -70,7 +68,7 @@
 
 ## 4. 艺术作为人类自由的表达
 
-人类自由的形而上学和伦理维度密切相关。这是存在主义者与胡塞尔现象学之间最重要的区别：存在主义者将揭示世界的能力与人类决定自己应该成为谁（以指导一个人生活的基本价值观）的必要性联系在一起。"存在"的概念恰恰指代了人类生活的伦理维度。存在主义者认为，在世界上存在的所有生物中，人类是唯一能够决定自己应该成为什么的生物；事实上，它被迫这样做，因为它没有固定的本性。正如存在主义的座右铭所说，"人类被判定为自由"。在这里，自由不仅仅是独立的意义上的独立*自由*，而是指能够决定自己应该成为谁和什么的能力。自由的伦理维度作为自决的力量（也包括使用它的责任）解释了"参与"（承诺）概念的核心地位。在指代特定情境中的选择之前，"参与"指的是人类个体的基本立场，其存在本身就在于必须利用自己的自由。从存在主义者的观点来看，"人类现实"严格来说唯一的积极特征是对他人、对自己（对基督教存在主义者来说，对上帝）的责任。许多人拒绝承担这个负担，并通过接受预先给定的角色来逃避他们的本体论责任。这就是萨特的"虚伪"和马塞尔的"功能人"所指代的。
+人类自由的形而上学和伦理维度密切相关。这是存在主义者与胡塞尔现象学之间最重要的区别：存在主义者将揭示世界的能力与人类决定自己应该成为谁（以指导一个人生活的基本价值观）的必要性联系在一起。"存在"的概念恰恰指代了人类生活的伦理维度。存在主义者认为，在世界上存在的所有生物中，人类是唯一能够决定自己应该成为什么的生物；事实上，它被迫这样做，因为它没有固定的本性。正如存在主义的座右铭所说，"人类被判定为自由"。在这里，自由不仅仅是独立的意义上的独立_自由_，而是指能够决定自己应该成为谁和什么的能力。自由的伦理维度作为自决的力量（也包括使用它的责任）解释了"参与"（承诺）概念的核心地位。在指代特定情境中的选择之前，"参与"指的是人类个体的基本立场，其存在本身就在于必须利用自己的自由。从存在主义者的观点来看，"人类现实"严格来说唯一的积极特征是对他人、对自己（对基督教存在主义者来说，对上帝）的责任。许多人拒绝承担这个负担，并通过接受预先给定的角色来逃避他们的本体论责任。这就是萨特的"虚伪"和马塞尔的"功能人"所指代的。
 
 形而上学和伦理维度之间的联系是什么，这与美学有什么关系？
 
@@ -110,9 +108,9 @@
 
 萨特早期关于想象力的文本已经提供了重要的见解（特别是在杜弗雷纳的《审美体验的现象学》（1973）中对它们进行了详细讨论）。人类主体性所具有的自由最生动地体现在一种特定类型的意向性中：对对象的想象。想象力是人类意识的力量的典范，因为它是一种意向性，它在同一行为中既假定了对象的存在，又假定了它的不存在，因为它将其"意向"为一种虚拟对象。在想象中，对象确实被意识所意向，但"作为缺席"，"包含一定部分的虚无"，因为它被假定为此时此地不存在（萨特 1940 年）。这使得它与感知所涉及的意向性类型有所区别，其中一个关键方面正是将其对象假定为存在的。
 
-对图像意识中“去实在化”方面的强调对艺术作品的本体论地位有重要影响。艺术作品的真实、物质元素，严格来说，并不是审美判断所依附的实际元素。相反，审美判断依附于一个虚拟对象，即作品的理想品质，其中体现了作品的意义、力量和美感（萨特，1940 年，213 页；参见杜弗雷纳，1973 年，3 页）。根据这种观点，艺术作品的物质方面是理想方面显现的“场合”。萨特坚持在这里要摒弃任何对二元论的怀疑：“没有想象的实现，我们也不能谈论它的客体化”（同上），好像先前的心理表象已经“客体化”并在实际的艺术作品中实现了一样。相反，“真实”的艺术作品有两个方面：一个是真实的，一个是“非真实的”（*irréel*，虚拟的或理想的）。然而，这两者是无法区分的。“因此，绘画应该被看作是一个物质的东西，不时地被一个非真实的东西所访问，这个非真实的东西恰恰就是被绘制的对象”（同上；参见杜弗雷纳，1973 年，3-18 页）。萨特说，真实是理想的“类比”。梅洛-庞蒂用类似的术语来表达，首先是以意义和非意义的术语，后来是以可见和不可见的术语：艺术作品的理想内容“透明地存在于感性之后或感性的核心”。它“在下面加倍了光和声音，是它们的另一面或深度”（梅洛-庞蒂，1964 年，150-151 页，但在 1945 年，182-183 页已经提到）。
+对图像意识中“去实在化”方面的强调对艺术作品的本体论地位有重要影响。艺术作品的真实、物质元素，严格来说，并不是审美判断所依附的实际元素。相反，审美判断依附于一个虚拟对象，即作品的理想品质，其中体现了作品的意义、力量和美感（萨特，1940 年，213 页；参见杜弗雷纳，1973 年，3 页）。根据这种观点，艺术作品的物质方面是理想方面显现的“场合”。萨特坚持在这里要摒弃任何对二元论的怀疑：“没有想象的实现，我们也不能谈论它的客体化”（同上），好像先前的心理表象已经“客体化”并在实际的艺术作品中实现了一样。相反，“真实”的艺术作品有两个方面：一个是真实的，一个是“非真实的”（_irréel_，虚拟的或理想的）。然而，这两者是无法区分的。“因此，绘画应该被看作是一个物质的东西，不时地被一个非真实的东西所访问，这个非真实的东西恰恰就是被绘制的对象”（同上；参见杜弗雷纳，1973 年，3-18 页）。萨特说，真实是理想的“类比”。梅洛-庞蒂用类似的术语来表达，首先是以意义和非意义的术语，后来是以可见和不可见的术语：艺术作品的理想内容“透明地存在于感性之后或感性的核心”。它“在下面加倍了光和声音，是它们的另一面或深度”（梅洛-庞蒂，1964 年，150-151 页，但在 1945 年，182-183 页已经提到）。
 
-艺术作品的这种一般“否定”维度（作为一个理想对象，它不能简化为承载它的物质性）也适用于艺术作品的每个元素及其关系（绘画中的颜色和形状，小说中的词语和句子等）。存在主义美学通常强调艺术表达给世界带来的统一性。由于这种对有机统一的强调，它似乎提出了一个相当传统的艺术作品审美品质的形象（例如，从神学角度来看，马塞尔对交响乐和赋格作为自成一体的“完美”示例的讨论[1960b，53-54 页]）。
+艺术作品的这种一般“否定”维度（作为一个理想对象，它不能简化为承载它的物质性）也适用于艺术作品的每个元素及其关系（绘画中的颜色和形状，小说中的词语和句子等）。存在主义美学通常强调艺术表达给世界带来的统一性。由于这种对有机统一的强调，它似乎提出了一个相当传统的艺术作品审美品质的形象（例如，从神学角度来看，马塞尔对交响乐和赋格作为自成一体的“完美”示例的讨论\[1960b，53-54 页]）。
 
 然而，萨特对艺术作品元素之间关系的分析表明，将统一性作为艺术美的标准并不像听起来那么平庸。萨特关于想象力的战前文本对这个主题尤为有启发性。在这些文本中，萨特展示了人类意识的力量与艺术作品的内在连贯性之间的实质关系，人类意识有能力“否定”世界（根据一套存在主义价值观忽视其中的某些方面并强调其他方面），而艺术作品的内在连贯性正是基于这一点：
 
@@ -166,9 +164,9 @@
 
 除了他们自己的个人实践之外，存在主义者还在伟大艺术家的生活中找到了哲学意义，并对他们选择成为艺术家的时刻以及这一原始选择如何在他们的一生中展开感兴趣。艺术家为“存在”和“表达”的悖论提供了范例性的案例研究（萨特 1947b，1971）。事实上，这不仅适用于作家和画家，也适用于演员。对于卡缪来说，实际上演员是那些“从人类存在的形而上学真理中得出最好结论”的人（1942b，107）。
 
-2. 艺术家的活动在表达一个连贯的世界方面也具有深刻的意义。每个人都必须做出存在选择并有表达的需求，但艺术家呈现了人类存在这些方面的特别纯粹和强大的典范。他们的成就值得钦佩，因为它们涉及虚拟世界的创造。每个意识，每个存在于世界中的存在都是有表达力的，但这种表达很少是真正的*新颖*。大多数时候，人类的表达只是制定的意义的重复，就像口语的准自动使用一样。只有伟大的艺术家展示了表达的力量的纯粹性、新颖性和连贯性。重新创造一个能够恰如其分地展现现实世界复杂性的虚拟世界是一种几乎“奇迹般”的事实，正如梅洛-庞蒂在谈到塞尚时所说的那样。正如我们所看到的，存在主义者在强调天才方面与浪漫主义者并不相距。
+2. 艺术家的活动在表达一个连贯的世界方面也具有深刻的意义。每个人都必须做出存在选择并有表达的需求，但艺术家呈现了人类存在这些方面的特别纯粹和强大的典范。他们的成就值得钦佩，因为它们涉及虚拟世界的创造。每个意识，每个存在于世界中的存在都是有表达力的，但这种表达很少是真正的_新颖_。大多数时候，人类的表达只是制定的意义的重复，就像口语的准自动使用一样。只有伟大的艺术家展示了表达的力量的纯粹性、新颖性和连贯性。重新创造一个能够恰如其分地展现现实世界复杂性的虚拟世界是一种几乎“奇迹般”的事实，正如梅洛-庞蒂在谈到塞尚时所说的那样。正如我们所看到的，存在主义者在强调天才方面与浪漫主义者并不相距。
 
-由于真正艺术家的表达世界是对世界的新视角，与艺术家整个独特的存在方式相同，因此在他或她的作品中会有深层次的连续性。艺术作品在时间和空间上建立的交流首先在作品本身内部进行，其中主题和风格特点在整个作品中回响（卡缪斯 1942b，102-103；梅洛-庞蒂 1964b，67）。但艺术活动中存在着固有的宿命论。表达活动只能是一种表达的*尝试*，并且在结构上注定会失败，因为世界上有太多要揭示的东西。表达的手段是有限的，并且它们以扭曲的方式运作，既通过直接指称，也通过省略和暗示。这导致卡缪斯得出结论，创造性活动，就像所有自由活动一样，最终只是另一种荒谬的尝试来应对人类生活的荒谬性（1942b，130）。
+由于真正艺术家的表达世界是对世界的新视角，与艺术家整个独特的存在方式相同，因此在他或她的作品中会有深层次的连续性。艺术作品在时间和空间上建立的交流首先在作品本身内部进行，其中主题和风格特点在整个作品中回响（卡缪斯 1942b，102-103；梅洛-庞蒂 1964b，67）。但艺术活动中存在着固有的宿命论。表达活动只能是一种表达的_尝试_，并且在结构上注定会失败，因为世界上有太多要揭示的东西。表达的手段是有限的，并且它们以扭曲的方式运作，既通过直接指称，也通过省略和暗示。这导致卡缪斯得出结论，创造性活动，就像所有自由活动一样，最终只是另一种荒谬的尝试来应对人类生活的荒谬性（1942b，130）。
 
 ## 9. 观众
 
@@ -182,11 +180,11 @@
 
 ## 10. 存在主义的“艺术体系”
 
-这种将艺术作为表达和交流的特权媒介的观念（在存在主义哲学中，这些词的实质性和形而上学意义上）导致了对不同艺术形式的相对一致的处理，类似于一种宽松的存在主义“艺术体系”。艺术体系不仅解释了艺术的本质，寻求艺术的定义并确定其社会、政治或哲学功能。它还对艺术进行了层次排列，说明每种形式如何使用特定的材料和表现手段来实现这些功能。最后，通常会将一种特定的艺术形式视为特权，作为实现艺术使命方式的典范。从康德及其直接追随者到阿兰，所有经典的哲学美学都提出了自己的“*美术体系*”（阿兰 1920 年，纳坦森 1968 年）。
+这种将艺术作为表达和交流的特权媒介的观念（在存在主义哲学中，这些词的实质性和形而上学意义上）导致了对不同艺术形式的相对一致的处理，类似于一种宽松的存在主义“艺术体系”。艺术体系不仅解释了艺术的本质，寻求艺术的定义并确定其社会、政治或哲学功能。它还对艺术进行了层次排列，说明每种形式如何使用特定的材料和表现手段来实现这些功能。最后，通常会将一种特定的艺术形式视为特权，作为实现艺术使命方式的典范。从康德及其直接追随者到阿兰，所有经典的哲学美学都提出了自己的“_美术体系_”（阿兰 1920 年，纳坦森 1968 年）。
 
 ### 10.1 戏剧
 
-对于大多数存在主义者来说，戏剧是最重要的艺术形式，即最能让艺术家利用自由创造一个同时吸引观众自由的虚拟世界（无论我们如何定义这种自由，无论是神学上还是政治上）。对于卡缪、德·博沃亚、马塞尔和萨特来说，哲学活动和作为剧作家的认可是密切相关的（Goldthorpe 1986）。马塞尔将自己定义为“哲学剧作家”（philosophe-dramaturge，参见 Lazaron 1978），坚持认为哲学冥想和戏剧创作之间存在着不可分割的统一。事实上，值得注意的是，除了德·博沃亚（她在戏剧创作方面的单次尝试并不成功[参见德·博沃亚 1945b 和 1962，672-673]）之外，他们在当时都以剧作家和哲学家的身份同样出名。
+对于大多数存在主义者来说，戏剧是最重要的艺术形式，即最能让艺术家利用自由创造一个同时吸引观众自由的虚拟世界（无论我们如何定义这种自由，无论是神学上还是政治上）。对于卡缪、德·博沃亚、马塞尔和萨特来说，哲学活动和作为剧作家的认可是密切相关的（Goldthorpe 1986）。马塞尔将自己定义为“哲学剧作家”（philosophe-dramaturge，参见 Lazaron 1978），坚持认为哲学冥想和戏剧创作之间存在着不可分割的统一。事实上，值得注意的是，除了德·博沃亚（她在戏剧创作方面的单次尝试并不成功\[参见德·博沃亚 1945b 和 1962，672-673]）之外，他们在当时都以剧作家和哲学家的身份同样出名。
 
 可以说，萨特对他所处时代的戏剧的理论反思至今仍然是最广泛阅读的。在描述对他来说存在主义戏剧的定义特征时，萨特也旨在确定戏剧本身的一些主要方面。由于这些特征根植于他对自由的理论，戏剧对于萨特来说是至高无上的艺术。
 
@@ -200,7 +198,7 @@
 
 ### 10.2 小说
 
-小说与戏剧非常接近，是存在主义者选择的艺术形式。对于大多数存在主义者来说，最终的榜样不是哲学家，而是当代小说家；其中两位特别具有典型性，即陀思妥耶夫斯基和卡夫卡。萨特、德波伏尔和卡缪以同等程度的小说家和哲学家自居。他们与彼此的小说作品的交流至少与他们的理论作品一样多，甚至更多（卡缪 1938b，1939 年，萨特 1943b）。事实上，正如前面所提到的，小说和自传体写作是他们哲学观念的直接应用。“思考就是创造一个世界，”卡缪写道，显示了哲学和虚构创作之间的深层联系（卡缪 1942b，87-91）。原因与戏剧相同：叙事小说专注于一系列“情境”，在这些情境中，人类面临的基本存在选择可以被精心安排，这是一种强大的方式，可以引发读者自由想象力，并呼唤他们采取行动：“事实上，小说不就是一个赋予行动形式的宇宙吗？”（卡缪 1951 年，263）。小说是世界的启示，尤其是在其社会和政治紧迫性方面，通过为其他自由赋予自由。正如梅洛-庞蒂在《形而上学与小说》中写道：“知识作品一直关注于建立对世界的某种态度，其中文学和哲学，就像政治一样，只是不同的表达方式；但是现在[多亏了存在主义哲学]，这种关注已经变得明确起来”（梅洛-庞蒂 1945c，27；另见卡缪 1942b，92 和 1951 年，258-267）。
+小说与戏剧非常接近，是存在主义者选择的艺术形式。对于大多数存在主义者来说，最终的榜样不是哲学家，而是当代小说家；其中两位特别具有典型性，即陀思妥耶夫斯基和卡夫卡。萨特、德波伏尔和卡缪以同等程度的小说家和哲学家自居。他们与彼此的小说作品的交流至少与他们的理论作品一样多，甚至更多（卡缪 1938b，1939 年，萨特 1943b）。事实上，正如前面所提到的，小说和自传体写作是他们哲学观念的直接应用。“思考就是创造一个世界，”卡缪写道，显示了哲学和虚构创作之间的深层联系（卡缪 1942b，87-91）。原因与戏剧相同：叙事小说专注于一系列“情境”，在这些情境中，人类面临的基本存在选择可以被精心安排，这是一种强大的方式，可以引发读者自由想象力，并呼唤他们采取行动：“事实上，小说不就是一个赋予行动形式的宇宙吗？”（卡缪 1951 年，263）。小说是世界的启示，尤其是在其社会和政治紧迫性方面，通过为其他自由赋予自由。正如梅洛-庞蒂在《形而上学与小说》中写道：“知识作品一直关注于建立对世界的某种态度，其中文学和哲学，就像政治一样，只是不同的表达方式；但是现在\[多亏了存在主义哲学]，这种关注已经变得明确起来”（梅洛-庞蒂 1945c，27；另见卡缪 1942b，92 和 1951 年，258-267）。
 
 在存在主义美学中，艺术活动及其作品具有外在目标：在形而上学和政治意义上向他人展示世界。正如前面所提到的，这种美学理论与艺术作品本身就是一个目标，或者说风格和形式自证其正的观念相冲突。因此，存在主义者对当时的一些主要艺术运动持有深深的怀疑，特别是超现实主义，即使其中一些人欣赏其反叛精神（卡缪 1951，88-100）；或者后来的“新小说”（阿兰·罗布-格里耶、娜塔莉·萨罗特和克洛德·西蒙）以及围绕后结构主义期刊“Tel Quel”发展起来的文学作品（德·波伏娃，见弗朗西斯和冈蒂埃尔，226，233-234）。与达达主义、超现实主义和紧随存在主义时代的文学先锋相比，存在主义美学显得过时，几乎保守。它毫不掩饰地呼吁在形式主义和现实主义之间找到一种新的古典主义（无论是自然主义还是社会主义版本），超越浪漫主义（卡缪 1944 和 1951，268-271），因为文学的道德和政治维度不仅仅是反抗日常语言和当时的社会政治秩序，而且还包括更具要求（但谦逊）的任务，即适当地命名世界，以揭示其中存在的巨大不公正，并重新发现其瞬息万变和非人类的美（卡缪 1951，272-279）。在他作为文学评论家的多产工作中，萨特始终坚决反对形式主义和“为艺术而艺术”，即使是对于像马拉美或福楼拜这样的法国著名作家。然而，也可以认为，从 20 世纪政治与艺术的关系的角度来看，存在主义对艺术保持与日常现实的紧密联系（以履行其道德和政治角色）的要求也完全符合当时的时代背景。
 
@@ -218,7 +216,7 @@
 
 ### 10.4 非语言艺术：绘画和音乐
 
-存在主义者对诗歌的不感兴趣（尤其是萨特，他对诗歌的态度几乎是完全否定的），是基于他们认为诗人对语言的使用是错误的观点。出于同样的原因，其他非言语性的艺术形式吸引的兴趣也几乎与诗歌一样少（然而，参见卡缪斯 1951 年，257 页）。然而，当它们被讨论时，它们比诗歌更受到青睐，因为它们不以语言为媒介，这意味着对诗歌的指责变得无关紧要。将语言作为表现人类自由的卓越媒介的强调，再次重申了一个古典论证，这个论证已经成为黑格尔美学的核心（这是存在主义者完全意识到的事实[萨特 1948a，5 页]）。对其他艺术形式的影响是，它们能够产生和传达理想的内容、意义和美，但这些内容从来没有像语言表达那样透明地被访问。相反，非语言艺术形式中的理想内容仍然被困在艺术作品的物质性中，就像被胶粘住一样：“……用颜色和声音工作是一回事，用文字表达自己是另一回事。音符、颜色和形式不是符号。它们不指向任何外在的东西。（……）正如梅洛-庞蒂在《感知的现象学》中指出的那样，没有一种感觉的质量是如此贫瘠，以至于它没有被意义所渗透。但是，它内在的微弱意义，一种轻快的喜悦，一种羞怯的悲伤，仍然是内在的，或者像热雾一样颤动；它就是颜色或声音”（萨特 1948a，1 页）。
+存在主义者对诗歌的不感兴趣（尤其是萨特，他对诗歌的态度几乎是完全否定的），是基于他们认为诗人对语言的使用是错误的观点。出于同样的原因，其他非言语性的艺术形式吸引的兴趣也几乎与诗歌一样少（然而，参见卡缪斯 1951 年，257 页）。然而，当它们被讨论时，它们比诗歌更受到青睐，因为它们不以语言为媒介，这意味着对诗歌的指责变得无关紧要。将语言作为表现人类自由的卓越媒介的强调，再次重申了一个古典论证，这个论证已经成为黑格尔美学的核心（这是存在主义者完全意识到的事实\[萨特 1948a，5 页]）。对其他艺术形式的影响是，它们能够产生和传达理想的内容、意义和美，但这些内容从来没有像语言表达那样透明地被访问。相反，非语言艺术形式中的理想内容仍然被困在艺术作品的物质性中，就像被胶粘住一样：“……用颜色和声音工作是一回事，用文字表达自己是另一回事。音符、颜色和形式不是符号。它们不指向任何外在的东西。（……）正如梅洛-庞蒂在《感知的现象学》中指出的那样，没有一种感觉的质量是如此贫瘠，以至于它没有被意义所渗透。但是，它内在的微弱意义，一种轻快的喜悦，一种羞怯的悲伤，仍然是内在的，或者像热雾一样颤动；它就是颜色或声音”（萨特 1948a，1 页）。
 
 这似乎在存在主义者中引入了一些重要的差异，因为例如梅洛-庞蒂声称所有艺术形式都像语言一样发挥作用。但梅洛-庞蒂在艺术形式之间的重要差异上与萨特达成了一致。《世界的散文》确立了所有表达行为背后的单一来源，使它们与语言相提并论，只是承认了语言的特殊性，这与萨特的观点类似。例如，绘画中的“声音”——绘画的理想内容的隐喻——是“沉默的声音”，只能说出一种“间接的语言”（马尔罗的著名绘画历史研究的标题）。也就是说，它们仍然与它们特定的物质性相连，使作品成为一个封闭的世界。在梅洛-庞蒂反复使用的隐喻中，每个画家都重新开始绘画的历史（1960 年，309-311 页），因为同样的可见世界呼唤着无数表达变化，每个变化在其确定的连贯性中都是独特的。因此，绘画的历史确实由不断的回声和交叉组成，每一代都重新审视过去几代的视觉主题和技巧，但作品之间的交流是偶然的、间接的，不能积累。绘画的历史没有进步。另一方面，语言中从过去获得的意义沉淀在当前的意义中，并允许早先讨论过的口语和言说之间的辩证法（梅洛-庞蒂 1964b，97-113 页）。这意味着文学的材料携带着它所讲述的生活世界的沉淀历史经验。文学也没有进步，不像科学进步那样，但是小说仅仅通过使用它所产生的生活世界的语言，就是广泛历史叙事的直接见证。因此，它能够非常有力地描绘伦理和政治情境。
 
@@ -242,157 +240,156 @@
 
 在战争期间，萨特曾为一家制片公司担任编剧，为他们写了八个剧本。其中两个在战后出版（萨特 1947c，1948b），其中两个被拍成了电影。当这些作品无法实现时，大部分剧本成为了萨特戏剧和小说的素材。1958 年，他还为弗洛伊德和约瑟夫·勒邦的两部电影编写了剧本。萨特总共还写了十二篇关于电影的文章，特别是 1945 年对《公民凯恩》的批评，这激发了安德烈·巴赞的回应，成为他最著名的一篇文章之一（巴赞 1947 年）。德·博沃亚尔还回忆了电影体验对萨特本体论观点的深刻影响。根据她的说法，电影对人类行动受制于世界抵抗力量的表现是他成熟本体论的重要灵感来源，特别是对他对世界偶然性固有荒谬性的看法（德·博沃亚尔 1960 年）。
 
-尽管与电影有着密切的联系，但在 1933 年他在德国学习一年后发现现象学后，早期文本中明显的热情逐渐消退到背景中（de Beauvoir 1962, 231）。在那之后，电影不再是他美学著作中的重要艺术形式。事实上，在 1958 年的一次会议上，萨特明确将戏剧排在电影之上，因为它“更自由”，因为“电影描绘了生活在世界中并受其制约的人”，而“戏剧则通过舞台上的一个人对观众中的人的行动来呈现，通过这个行动，他所生活的世界和行动的表演者”（Sartre 1976, 60–61）。换句话说，戏剧是处境中真正的自由艺术。同样，在后来的岁月里，de Beauvoir 明确将小说排在电影之上，因为它能够“将人类存在的存在呈现给人类存在”（de Beauvoir 引用自 Francis and Gontier 1979, 200）。与“新小说”一样，萨特和 de Beauvoir 对 60 年代的法国新电影“新浪潮”持保留态度（*ibid*.）。
+尽管与电影有着密切的联系，但在 1933 年他在德国学习一年后发现现象学后，早期文本中明显的热情逐渐消退到背景中（de Beauvoir 1962, 231）。在那之后，电影不再是他美学著作中的重要艺术形式。事实上，在 1958 年的一次会议上，萨特明确将戏剧排在电影之上，因为它“更自由”，因为“电影描绘了生活在世界中并受其制约的人”，而“戏剧则通过舞台上的一个人对观众中的人的行动来呈现，通过这个行动，他所生活的世界和行动的表演者”（Sartre 1976, 60–61）。换句话说，戏剧是处境中真正的自由艺术。同样，在后来的岁月里，de Beauvoir 明确将小说排在电影之上，因为它能够“将人类存在的存在呈现给人类存在”（de Beauvoir 引用自 Francis and Gontier 1979, 200）。与“新小说”一样，萨特和 de Beauvoir 对 60 年代的法国新电影“新浪潮”持保留态度（_ibid_.）。
 
-与萨特相比，梅洛-庞蒂在巴黎的*国立电影学院*（1947b）的一次会议上对电影与存在主义哲学之间的明显联系进行了最清晰的阐述。然而，与戏剧、小说和绘画这些被晚期梅洛-庞蒂赋予真正“形而上学”艺术形式的卓越哲学地位相比，电影在最重要的存在主义美学著作中显得异常缺失。
-
+与萨特相比，梅洛-庞蒂在巴黎的_国立电影学院_（1947b）的一次会议上对电影与存在主义哲学之间的明显联系进行了最清晰的阐述。然而，与戏剧、小说和绘画这些被晚期梅洛-庞蒂赋予真正“形而上学”艺术形式的卓越哲学地位相比，电影在最重要的存在主义美学著作中显得异常缺失。
 
 ## Bibliography
 
 ### Primary Sources
 
-* Alain, 1920, *Système des Beaux-Arts*, Paris: Gallimard, 1983.
-* Bazin, André, 1947 ‘The technique of Citizen Kane’, trans. by Alain Piette and Bert Cardullo, in Ronald Gottesman (ed.), *Perspectives on Citizen Kane*, New York: G.K. Hall & Co., 1996, 229–37; first published in *Les Temps Modernes*, 2 (1947).
-* Camus, Albert, 1965, *Essais*, Paris: Gallimard.
-* –––, 1932–1933, *Youthful Writings*, New York: Marlowe and Company, 1994.
-* –––, 1933, “Poème sur la Méditerranée”, in *Essais*, Paris: Gallimard, 1207.
-* –––, 1938a, “Nuptials”, in *Lyrical and Critical Essays*, trans. by Ellen Kennedy, London: Vintage, 1970, 63–105.
-* –––, 1938b, “‘La Nausée’ de Jean-Paul Sartre”, in *Essais*, Paris: Gallimard, 1417–1419.
-* –––, 1939, “‘Le Mur’ de Jean-Paul Sartre”, in *Essais*, Paris: Gallimard, 1419–1421.
-* –––, 1942a, *The Outsider*, trans. by Joseph Laredo, London: Penguin, 1982.
-* –––, 1942b, *The Myth of Sisyphus, and Other Essays*, trans. by Justin O’Brien, London: Hamish Hamilton, 1979.
-* –––, 1943, “Lettre au sujet du ‘Parti pris’ de Francis Ponge”, in *Essais*, Paris: Gallimard, 1662–1668.
-* –––, 1944, “‘On the Philosophy of Expression’ by Brice Parain”, in *Lyrical and Critical Essays*, London: Vintage, 228–241.
-* –––, 1945, “Non, je ne suis pas existentialiste”, in *Essais*, Paris: Gallimard, 1424–1426.
-* –––, 1951, *The Rebel. An Essay on Man in Revolt*, trans. by Anthony Bowen, London: Vintage, 1992.
-* –––, 1935–1951, *Notebooks*, New York: Marlowe and Company, 1998.
-* –––, 1995, *Resistance, Rebellion and Death*, London: Vintage.
-* de Beauvoir, Simone, 1943, *She Came to Stay*, trans. by Roger Senhouse and Yvonne Moyse, New York: W. W. Norton & Co., 1954.
-* –––, 1944, *Pyrrhus et Cinéas*, in *Philosophical Writings*, Chicago: University of Illinois Press, 2005.
-* –––, 1945a, *Who Shall Die?*, trans. by Claude Francis and Fernande Gontier, Florissant: River Press, 1983.
-* –––, 1945b, *Les Bouches Inutiles*, Paris: Gallimard.
-* –––, 1946, “Literature and Metaphysics”, in *Simone de Beauvoir: Philosophical Writings*, M. Simons (with M. Timmerman and M.B. Mader) ed., Champaign: University of Illinois Press, 2004, 261–278.
-* –––, 1947, *The Ethics of Ambiguity*, trans. by Bernard Frechtman, New York: Philosophical Library, 1948.
-* –––, 1948, *Existentialism and Popular Wisdom*, in *Simone de Beauvoir: Philosophical Writings*, M. Simons (with M. Timmerman and M.B. Mader) ed., Champaign: University of Illinois Press, 2004, 195–220.
-* –––, 1960, *The Prime of Life*, trans. by Peter Green, Cleveland: World Publishing Company, 1962.
-* –––, 1965, “Que peut la littérature ?”, in Yves Buin (ed.), *Que peut la Littérature ?*, Paris: UGE, 73–92.
-* Dufrenne, Mikel, 1953, *The Phenomenology of Aesthetic Experience*, trans. by Edward Casey, Evanston: Northwestern University Press, 1973.
-* Husserl, Edmund, 1937, *The Crisis of European Sciences and Transcendental Phenomenology*, trans. by David Carr Evanston, Northwestern University Press, 1970.
-* Ingarden, Roman, 1962, *The Ontology of Art: The Musical Work, Painting, Architecture, the Film*, Athens, Ohio: Ohio University Press, 1989.
-* –––, 1965, *The Literary Work of Art*, trans. by George Grabowicz, Evanston: Northwestern University Press, 1973.
-* Malraux, André, 1951, *The Voices of Silence*, trans. by Stuart Gilbert, Garden City: Doubleday, 1953.
-* Marcel, Gabriel, 1927, *Metaphysical Journal*, trans. by Bernard Wall, Chicago: Henry Regnery, 1952.
-* –––, 1935, *Being and Having*, trans. by K. Farrer, Westminster: Dacre Press, 1949.
-* –––, 1945, *Homo Viator. Introduction to a Metaphysics of Hope*, trans. by E. Craufurd, Chicago: Henry Regnery, 1951.
-* –––, 1947, *Regard en arrière*, in E. Gilson (ed.), *L’existentialisme chrétien*, Paris: Plon.
-* –––, 1951, *Man against Mass Society*, trans. by G.S. Fraser, London: Harvill Press, 1952.
-* –––, 1954, *The Decline of Wisdom*, trans. by M. Harari, London: Harvill Press.
-* –––, 1960a,b, *The Mystery of Being*, 2 volumes, (*Reflection and Mystery* = 1960a, and *Faith and Reality* = 1960b), trans. by G.S. Fraser and R. Hague, Chicago: Henry Regnery.
-* –––, 1973, *Tragic Wisdom and Beyond*, trans. by S. Jolin and P. McCormick, Evanston: Northwestern University Press.
-* Merleau-Ponty, Maurice, 1945a, *Phenomenology of Perception*, trans. by Colin Smith, New York: Humanities Press.
-* –––, 1945b, “Cézanne’s Doubt”, in *Sense and Non-Sense*, trans. by Hubert Dreyfus & Patricia Allen Dreyfus, Evanston: Northwestern University Press, 1964, pp. 9–25.
-* –––, 1945c, “Metaphysics and the Novel”, in *Sense and Non-Sense*, trans. by Hubert Dreyfus & Patricia Allen Dreyfus, Evanston: Northwestern University Press, 1964, pp. 26–40.
-* –––, 1947a, *Humanism and Terror*, trans. by John O’Neill, Boston: Beacon Press, 1969.
-* –––, 1947b, “The Film and the New Psychology”, in *Sense and Non-Sense*, trans. by Hubert Dreyfus & Patricia Allen Dreyfus, Evanston: Northwestern University Press, 1964, pp. 48–62.
-* –––, 1955, *Adventures of the Dialectic*, trans. by Joseph Bien, Evanston: Northwestern University Press, 1973.
-* –––, 1954/1955, *L’Institution. La Passivité. Notes de Cours au Collège de France*, Paris: Belin, 2003.
-* –––, 1956/1957, *Nature*, trans. by Robert Vallier, Evanston: Northwestern University Press, 2003.
-* –––, 1960, “Eye and Mind”, trans. by Carleton Dallery, in *Phenomenology, Language and Sociology*, John O’Neill (ed.), London: Heinemann, 1974, pp. 280–311.
-* –––, 1964a, *The Visible and the Invisible*, trans. by Alphonso Lingis, Evanston: Northwestern Univ. Press, 1968.
-* –––, 1964b, *The Prose of the World*, trans. by John O’Neill, Evanston: Northwestern University Press, 1973.
-* Sartre, Jean-Paul, 1924, “Apologie pour le Cinéma”, in *Ecrits de Jeunesse*, Paris: Gallimard, 1990.
-* –––, 1931, “L’Art cinématographique”, in Michel Contat and Michel Rybalka, *Ecrits de Sartre*, Paris, Gallimard, 1970, 546–552.
-* –––, 1938, *Nausea*, trans. by L. Alexander, New York: New Directions Books, 1969.
-* –––, 1940, *The Psychology of Imagination*, London: Rider and Company, 1950.
-* –––, 1943a, *Being and Nothingness*, trans. by Hazel Barnes, New York: Philosophical Library, 1948.
-* –––, 1943b, “Camus’ ‘The Outsider’”, in *Literary and Philosophical Essays*, trans. by Annette Michelson, New York: Crowell-Collier, 1955.
-* –––, 1944] “L’Homme et les Choses”, in *Situations I*, 226–270.
-* –––, 1947a, *Situations* I, Paris: Gallimard.
-* –––, 1947b, *Baudelaire*, London: French & European Publications, 1988.
-* –––, 1947c, *Les Jeux sont faits*, Paris: Gallimard, 1996.
-* –––, 1948a, *What is Literature?*, trans. by Bernard Frechtman, London: Methuen, 1967.
-* –––, 1948b, *L’Engrenage*, Paris: Gallimard, 1996.
-* –––, 1952a, *Saint Genet. Actor and Martyr*, trans. by Bernard Frechtman, Allen, 1963.
-* –––, 1952b, *Mallarmé, or the Poet of Nothingness*, trans. by Ernest Sturm, Pennsylvania University Press, 1991.
-* –––, 1963, *Essays in Aesthetics*, trans. by Wade Baskin, London: Peter Owen.
-* –––, 1964, *The Words*, trans. by Bernard Frechtman, New York: Braziller.
-* –––, 1971/72, *The Family Idiot*, trans. by Carol Cosman, 5 volumes, Chicago: University of Chicago Press, 1981–93.
-* –––, 1976, *Sartre on Theatre*, Michel Contat and Michel Rybalka (eds.), New York: Pantheon.
+* Alain, 1920, _Système des Beaux-Arts_, Paris: Gallimard, 1983.
+* Bazin, André, 1947 ‘The technique of Citizen Kane’, trans. by Alain Piette and Bert Cardullo, in Ronald Gottesman (ed.), _Perspectives on Citizen Kane_, New York: G.K. Hall & Co., 1996, 229–37; first published in _Les Temps Modernes_, 2 (1947).
+* Camus, Albert, 1965, _Essais_, Paris: Gallimard.
+* –––, 1932–1933, _Youthful Writings_, New York: Marlowe and Company, 1994.
+* –––, 1933, “Poème sur la Méditerranée”, in _Essais_, Paris: Gallimard, 1207.
+* –––, 1938a, “Nuptials”, in _Lyrical and Critical Essays_, trans. by Ellen Kennedy, London: Vintage, 1970, 63–105.
+* –––, 1938b, “‘La Nausée’ de Jean-Paul Sartre”, in _Essais_, Paris: Gallimard, 1417–1419.
+* –––, 1939, “‘Le Mur’ de Jean-Paul Sartre”, in _Essais_, Paris: Gallimard, 1419–1421.
+* –––, 1942a, _The Outsider_, trans. by Joseph Laredo, London: Penguin, 1982.
+* –––, 1942b, _The Myth of Sisyphus, and Other Essays_, trans. by Justin O’Brien, London: Hamish Hamilton, 1979.
+* –––, 1943, “Lettre au sujet du ‘Parti pris’ de Francis Ponge”, in _Essais_, Paris: Gallimard, 1662–1668.
+* –––, 1944, “‘On the Philosophy of Expression’ by Brice Parain”, in _Lyrical and Critical Essays_, London: Vintage, 228–241.
+* –––, 1945, “Non, je ne suis pas existentialiste”, in _Essais_, Paris: Gallimard, 1424–1426.
+* –––, 1951, _The Rebel. An Essay on Man in Revolt_, trans. by Anthony Bowen, London: Vintage, 1992.
+* –––, 1935–1951, _Notebooks_, New York: Marlowe and Company, 1998.
+* –––, 1995, _Resistance, Rebellion and Death_, London: Vintage.
+* de Beauvoir, Simone, 1943, _She Came to Stay_, trans. by Roger Senhouse and Yvonne Moyse, New York: W. W. Norton & Co., 1954.
+* –––, 1944, _Pyrrhus et Cinéas_, in _Philosophical Writings_, Chicago: University of Illinois Press, 2005.
+* –––, 1945a, _Who Shall Die?_, trans. by Claude Francis and Fernande Gontier, Florissant: River Press, 1983.
+* –––, 1945b, _Les Bouches Inutiles_, Paris: Gallimard.
+* –––, 1946, “Literature and Metaphysics”, in _Simone de Beauvoir: Philosophical Writings_, M. Simons (with M. Timmerman and M.B. Mader) ed., Champaign: University of Illinois Press, 2004, 261–278.
+* –––, 1947, _The Ethics of Ambiguity_, trans. by Bernard Frechtman, New York: Philosophical Library, 1948.
+* –––, 1948, _Existentialism and Popular Wisdom_, in _Simone de Beauvoir: Philosophical Writings_, M. Simons (with M. Timmerman and M.B. Mader) ed., Champaign: University of Illinois Press, 2004, 195–220.
+* –––, 1960, _The Prime of Life_, trans. by Peter Green, Cleveland: World Publishing Company, 1962.
+* –––, 1965, “Que peut la littérature ?”, in Yves Buin (ed.), _Que peut la Littérature ?_, Paris: UGE, 73–92.
+* Dufrenne, Mikel, 1953, _The Phenomenology of Aesthetic Experience_, trans. by Edward Casey, Evanston: Northwestern University Press, 1973.
+* Husserl, Edmund, 1937, _The Crisis of European Sciences and Transcendental Phenomenology_, trans. by David Carr Evanston, Northwestern University Press, 1970.
+* Ingarden, Roman, 1962, _The Ontology of Art: The Musical Work, Painting, Architecture, the Film_, Athens, Ohio: Ohio University Press, 1989.
+* –––, 1965, _The Literary Work of Art_, trans. by George Grabowicz, Evanston: Northwestern University Press, 1973.
+* Malraux, André, 1951, _The Voices of Silence_, trans. by Stuart Gilbert, Garden City: Doubleday, 1953.
+* Marcel, Gabriel, 1927, _Metaphysical Journal_, trans. by Bernard Wall, Chicago: Henry Regnery, 1952.
+* –––, 1935, _Being and Having_, trans. by K. Farrer, Westminster: Dacre Press, 1949.
+* –––, 1945, _Homo Viator. Introduction to a Metaphysics of Hope_, trans. by E. Craufurd, Chicago: Henry Regnery, 1951.
+* –––, 1947, _Regard en arrière_, in E. Gilson (ed.), _L’existentialisme chrétien_, Paris: Plon.
+* –––, 1951, _Man against Mass Society_, trans. by G.S. Fraser, London: Harvill Press, 1952.
+* –––, 1954, _The Decline of Wisdom_, trans. by M. Harari, London: Harvill Press.
+* –––, 1960a,b, _The Mystery of Being_, 2 volumes, (_Reflection and Mystery_ = 1960a, and _Faith and Reality_ = 1960b), trans. by G.S. Fraser and R. Hague, Chicago: Henry Regnery.
+* –––, 1973, _Tragic Wisdom and Beyond_, trans. by S. Jolin and P. McCormick, Evanston: Northwestern University Press.
+* Merleau-Ponty, Maurice, 1945a, _Phenomenology of Perception_, trans. by Colin Smith, New York: Humanities Press.
+* –––, 1945b, “Cézanne’s Doubt”, in _Sense and Non-Sense_, trans. by Hubert Dreyfus & Patricia Allen Dreyfus, Evanston: Northwestern University Press, 1964, pp. 9–25.
+* –––, 1945c, “Metaphysics and the Novel”, in _Sense and Non-Sense_, trans. by Hubert Dreyfus & Patricia Allen Dreyfus, Evanston: Northwestern University Press, 1964, pp. 26–40.
+* –––, 1947a, _Humanism and Terror_, trans. by John O’Neill, Boston: Beacon Press, 1969.
+* –––, 1947b, “The Film and the New Psychology”, in _Sense and Non-Sense_, trans. by Hubert Dreyfus & Patricia Allen Dreyfus, Evanston: Northwestern University Press, 1964, pp. 48–62.
+* –––, 1955, _Adventures of the Dialectic_, trans. by Joseph Bien, Evanston: Northwestern University Press, 1973.
+* –––, 1954/1955, _L’Institution. La Passivité. Notes de Cours au Collège de France_, Paris: Belin, 2003.
+* –––, 1956/1957, _Nature_, trans. by Robert Vallier, Evanston: Northwestern University Press, 2003.
+* –––, 1960, “Eye and Mind”, trans. by Carleton Dallery, in _Phenomenology, Language and Sociology_, John O’Neill (ed.), London: Heinemann, 1974, pp. 280–311.
+* –––, 1964a, _The Visible and the Invisible_, trans. by Alphonso Lingis, Evanston: Northwestern Univ. Press, 1968.
+* –––, 1964b, _The Prose of the World_, trans. by John O’Neill, Evanston: Northwestern University Press, 1973.
+* Sartre, Jean-Paul, 1924, “Apologie pour le Cinéma”, in _Ecrits de Jeunesse_, Paris: Gallimard, 1990.
+* –––, 1931, “L’Art cinématographique”, in Michel Contat and Michel Rybalka, _Ecrits de Sartre_, Paris, Gallimard, 1970, 546–552.
+* –––, 1938, _Nausea_, trans. by L. Alexander, New York: New Directions Books, 1969.
+* –––, 1940, _The Psychology of Imagination_, London: Rider and Company, 1950.
+* –––, 1943a, _Being and Nothingness_, trans. by Hazel Barnes, New York: Philosophical Library, 1948.
+* –––, 1943b, “Camus’ ‘The Outsider’”, in _Literary and Philosophical Essays_, trans. by Annette Michelson, New York: Crowell-Collier, 1955.
+* –––, 1944] “L’Homme et les Choses”, in _Situations I_, 226–270.
+* –––, 1947a, _Situations_ I, Paris: Gallimard.
+* –––, 1947b, _Baudelaire_, London: French & European Publications, 1988.
+* –––, 1947c, _Les Jeux sont faits_, Paris: Gallimard, 1996.
+* –––, 1948a, _What is Literature?_, trans. by Bernard Frechtman, London: Methuen, 1967.
+* –––, 1948b, _L’Engrenage_, Paris: Gallimard, 1996.
+* –––, 1952a, _Saint Genet. Actor and Martyr_, trans. by Bernard Frechtman, Allen, 1963.
+* –––, 1952b, _Mallarmé, or the Poet of Nothingness_, trans. by Ernest Sturm, Pennsylvania University Press, 1991.
+* –––, 1963, _Essays in Aesthetics_, trans. by Wade Baskin, London: Peter Owen.
+* –––, 1964, _The Words_, trans. by Bernard Frechtman, New York: Braziller.
+* –––, 1971/72, _The Family Idiot_, trans. by Carol Cosman, 5 volumes, Chicago: University of Chicago Press, 1981–93.
+* –––, 1976, _Sartre on Theatre_, Michel Contat and Michel Rybalka (eds.), New York: Pantheon.
 
 ### Selected Secondary Sources
 
-* Boule, J.-P., and E. McCaffrey (eds.), 2011, *Existentialism and Cinema: A Sartrean Perspective*, New York: Berghahn.
-* Boule, J.-P., and U. Tidd (eds.), 2012, *Existentialism and Cinema: A Beauvoirian Perspective*, New York: Berghahn.
-* Chenu, Joseph, 1948, *Le théâtre de Gabriel Marcel et sa signification métaphysique*, Paris: Aubier.
-* Connor, J.D., 2001, “Sartre and Cinema: The Grammar of Commitment”, *Comparative Literature Issue*, 116(5): 1045–1068.
-* Cooper, David, 1964, “Sartre on Genet”, *New Left Review*, 25: 69–73.
-* Cox, Gary, 2009, *Sartre and Fiction*, London: Continuum.
-* Dreyfus, Hubert & Wrathall, Marx, 2006, *A Companion to Phenomenology and Existentialism*, Oxford: Blackwell.
-* Fallaize, Elizabeth, 1988, *The Novels of Simone de Beauvoir*, London: Routledge.
-* Foti, Veronique, 1980, “Painting and the Re-orientation of Philosophical Thought in Merleau-Ponty”, *Philosophy Today*, 24 (Summer): 114–120.
-* –––, 1986, “Heidegger’s and Merleau-Ponty’s Turn from Technicity to Art”, *Philosophy Today*, 30 (Winter): 306–316.
-* –––, 1988, “Merleau-Ponty on Silence” in *The Horizons of Continental Philosophy*, H. Silverman *et al*. (eds.), Dordrecht: Kluwer, 272–288.
-* –––, 1996, “The Evidences of Paintings: Merleau-Ponty and Contemporary Abstraction”, in *Merleau-Ponty: Difference, Materiality, Painting*, V. Foti (ed.), New Jersey: Humanities Press.
-* ––– (ed.), 1996, *Merleau-Ponty: Difference, Materiality, Painting*, New Jersey: Humanities Press.
-* Francis, Claude and Gontier, Fernande, 1979, *Les Ecrits de Simone de Beauvoir*, Paris: Gallimard.
-* Goldthorpe, Rhiannon, 1986, *Sartre: Literature and Theory*, Cambridge University Press.
-* –––, 1992, “Understanding the Committed Writer”, in *The Cambridge Companion to Sartre*, Cambridge: Cambridge University Press, pp. 140–176.
-* Grene, Marjorie, 1998, “The Aesthetic Dialogue of Sartre and Merleau-Ponty”, in *The Debate between Sartre and Merleau-Ponty*, Evanston: Northwestern University Press, pp. 293–314.
-* Haar, Michel, 1996, “Painting, Perception, Affectivity”, in *Merleau-Ponty*: *Difference, Materiality, Painting*, V. Foti (ed.), New Jersey: Humanities Press, 1996.
-* Harvey, Robert, 1991, “Sartre/Cinema: Spectator/Art That is Not One”, *Cinema Journal*, 30(3): 43–59.
-* Johnson, Galen, 1994, “The Colors of Fire: Depth and Desire in Merleau-Ponty’s ‘Eye and Mind’”, *Journal of the British Society for Phenomenology*, 25(1): 53–63.
-* ––– (ed.), 1994, *The Merleau-Ponty Aesthetic Reader: Philosophy and Painting*, Evanston: Northwestern University Press.
-* ––– 2010, *The Retrieval of the Beautiful. Thinking through Merleau-Ponty’s Aesthetics*, Evanston: Northwestern University Press.
-* Johnson, Patricia, 1984, “Art against Art: The Cinema and Sartre’s *La Nausée*”, *The French Review*, 58(1): 68–76.
-* Kaelin, Eugene, 1962, *An Existential Aesthetic: the Theories of Sartre and Merleau-Ponty*, Madison: University of Wisconsin Press.
-* Kaushik, Rajiv, 2011, *Art and Institution: Aesthetics in the Late Works of Merleau-Ponty*, London: Continuum.
-* Kearney, Richard, 1991, *Poetics of Imagining: From Husserl to Lyotard*, New York: Routledge.
-* Lapointe, Francois, 1973, Selected Bibliography on Art and Aesthetics in Merleau-Ponty, *Philosophy Today*, 17: 292-296.
-* Lazaron, Hilda, 1978, *Gabriel Marcel the Dramatist*, London: Colin Smythe.
-* McBride, Joseph, 1992, *Albert Camus, Philosopher and Littérateur*, New York: St. Martin’s Press.
-* McBride, William, 1996a, *Sartre’s Life, Times and Vision du Monde*, London: Routledge.
-* –––, 1996b, *Existentialist Background: Kierkegaard, Dostoevsky, Nietzsche, Jaspers, Heidegger*, London: Routledge.
-* –––, 1997, *Existentialist Literature and Aesthetics*, New York: Garland.
-* Macquarrie, John, 1972, *Existentialism*, London: Penguin Books.
-* Mancini, Sandro, 1996, “Merleau-Ponty’s Phenomenology as a Dialectical Philosophy of Expression”,*International Philosophical Quarterly*, 36(40): 389–398.
-* Menase, Stéphanie, 2003, *Passivité et Création: Merleau-Ponty et L’Art Moderne*, Paris: Presses Universitaires de France.
-* Natanson, Maurice, 1968, *Literature, Philosophy and the Social Sciences: Essays in Existentialism and Phenomenology*, The Hague: Martinus Nijhoff, 1968 (3rd edition).
-* O’Neill, John, 1970, *Perception, Expression, History: The Social Phenomenology of Merleau-Ponty*, Evanston: Northwestern Univ. Press.
-* Pilardi, Jo-Anne, 1999, *Writing the Self: Philosophy becomes Autobiography*, Westport: Praeger Paperback.
-* Pingaud, Bernard, 1971, “Merleau-Ponty, Sartre et la Littérature”, *L’Arc*, 46: 80–87.
-* Place, James, 1973, “Merleau-Ponty and the Spirit of Painting”, *Philosophy Today*, 17: 280–290.
-* –––, 1976, “The Painting and the Natural Thing in the Philosophy of Merleau-Ponty”, *Cultural Hermeneutics*, 4: 75–92.
-* Polan, Dana, 1987, “Sartre and Cinema”, *Post-Script*, 7(1): 66–88.
-* Pollmann, Leo, 1970, *Sartre and Camus: Literature of Existence*, trans. by Helen and Gregor Sebba, New York: F. Ungar Publishing Co.
-* Sallis, John, 1973, *Phenomenology and the Return to Beginnings*, Pittsburgh: Duquesne University Press.
-* ––– (ed.), 1981, *Merleau-Ponty: Perception, Structure, Language*. New Jersey: Humanities Press.
-* Sepp, Hans Rainer, Embree, Lester (ed.), 2010, *Handbook of Phenomenological Aesthetics*, Dordrecht: Springer.
-* Silverman, Hugh, *et al*. (eds.), 1988, *The Horizons of Continental Philosophy: Essays on Husserl, Heidegger, Merleau-Ponty*, Dordrecht: Kluwer.
-* Sirridge, Mary, 2003, “Philosophy in Beauvoir’s Fiction”, in *Cambridge Companion to Simone de Beauvoir*, Cambridge: Cambridge University Press.
-* Slatman, Jenny, 2003, *L’Expression au-delà de la Representation: Sur L’Aisthesis et L’Esthétique chez Merleau-Ponty*, Paris: Vrin.
-* Smith, Michael, 1988, “L’Esthétique de Merleau-Ponty”. *Les Etudes Philosophiques*, 1: 73–98.
-* Solomon, Robert, 2006, *Grim Thoughts: Experience and Reflection in Camus and Sartre*, New York: Oxford University Press.
-* Sprintzen, David & Van den Hoven, Adrian (eds.), 2004, *Sartre and Camus: A Historic Confrontation*, Amherst: Humanity Books.
-* Stewart, Jon (ed.), 1998, *The Debate between Sartre and Merleau-Ponty*, Evanston: Northwestern University Press.
-* Troisfontaines, Roger, 1953, *De l’Existence à l’Être*, Paris: Vrin.
-* Vintges, Karen, 1996, *Philosophy as Passion: The Thinking of Simone de Beauvoir*, trans. by Anne Lavelle, Bloomington: Indiana University Press.
-* Witkus, Jessica, 2013, *The Rhythm of Thought: Art, Literature and Music After Merleau-Ponty*, Chicago: Chicago University Press.
+* Boule, J.-P., and E. McCaffrey (eds.), 2011, _Existentialism and Cinema: A Sartrean Perspective_, New York: Berghahn.
+* Boule, J.-P., and U. Tidd (eds.), 2012, _Existentialism and Cinema: A Beauvoirian Perspective_, New York: Berghahn.
+* Chenu, Joseph, 1948, _Le théâtre de Gabriel Marcel et sa signification métaphysique_, Paris: Aubier.
+* Connor, J.D., 2001, “Sartre and Cinema: The Grammar of Commitment”, _Comparative Literature Issue_, 116(5): 1045–1068.
+* Cooper, David, 1964, “Sartre on Genet”, _New Left Review_, 25: 69–73.
+* Cox, Gary, 2009, _Sartre and Fiction_, London: Continuum.
+* Dreyfus, Hubert & Wrathall, Marx, 2006, _A Companion to Phenomenology and Existentialism_, Oxford: Blackwell.
+* Fallaize, Elizabeth, 1988, _The Novels of Simone de Beauvoir_, London: Routledge.
+* Foti, Veronique, 1980, “Painting and the Re-orientation of Philosophical Thought in Merleau-Ponty”, _Philosophy Today_, 24 (Summer): 114–120.
+* –––, 1986, “Heidegger’s and Merleau-Ponty’s Turn from Technicity to Art”, _Philosophy Today_, 30 (Winter): 306–316.
+* –––, 1988, “Merleau-Ponty on Silence” in _The Horizons of Continental Philosophy_, H. Silverman _et al_. (eds.), Dordrecht: Kluwer, 272–288.
+* –––, 1996, “The Evidences of Paintings: Merleau-Ponty and Contemporary Abstraction”, in _Merleau-Ponty: Difference, Materiality, Painting_, V. Foti (ed.), New Jersey: Humanities Press.
+* ––– (ed.), 1996, _Merleau-Ponty: Difference, Materiality, Painting_, New Jersey: Humanities Press.
+* Francis, Claude and Gontier, Fernande, 1979, _Les Ecrits de Simone de Beauvoir_, Paris: Gallimard.
+* Goldthorpe, Rhiannon, 1986, _Sartre: Literature and Theory_, Cambridge University Press.
+* –––, 1992, “Understanding the Committed Writer”, in _The Cambridge Companion to Sartre_, Cambridge: Cambridge University Press, pp. 140–176.
+* Grene, Marjorie, 1998, “The Aesthetic Dialogue of Sartre and Merleau-Ponty”, in _The Debate between Sartre and Merleau-Ponty_, Evanston: Northwestern University Press, pp. 293–314.
+* Haar, Michel, 1996, “Painting, Perception, Affectivity”, in _Merleau-Ponty_: _Difference, Materiality, Painting_, V. Foti (ed.), New Jersey: Humanities Press, 1996.
+* Harvey, Robert, 1991, “Sartre/Cinema: Spectator/Art That is Not One”, _Cinema Journal_, 30(3): 43–59.
+* Johnson, Galen, 1994, “The Colors of Fire: Depth and Desire in Merleau-Ponty’s ‘Eye and Mind’”, _Journal of the British Society for Phenomenology_, 25(1): 53–63.
+* ––– (ed.), 1994, _The Merleau-Ponty Aesthetic Reader: Philosophy and Painting_, Evanston: Northwestern University Press.
+* ––– 2010, _The Retrieval of the Beautiful. Thinking through Merleau-Ponty’s Aesthetics_, Evanston: Northwestern University Press.
+* Johnson, Patricia, 1984, “Art against Art: The Cinema and Sartre’s _La Nausée_”, _The French Review_, 58(1): 68–76.
+* Kaelin, Eugene, 1962, _An Existential Aesthetic: the Theories of Sartre and Merleau-Ponty_, Madison: University of Wisconsin Press.
+* Kaushik, Rajiv, 2011, _Art and Institution: Aesthetics in the Late Works of Merleau-Ponty_, London: Continuum.
+* Kearney, Richard, 1991, _Poetics of Imagining: From Husserl to Lyotard_, New York: Routledge.
+* Lapointe, Francois, 1973, Selected Bibliography on Art and Aesthetics in Merleau-Ponty, _Philosophy Today_, 17: 292-296.
+* Lazaron, Hilda, 1978, _Gabriel Marcel the Dramatist_, London: Colin Smythe.
+* McBride, Joseph, 1992, _Albert Camus, Philosopher and Littérateur_, New York: St. Martin’s Press.
+* McBride, William, 1996a, _Sartre’s Life, Times and Vision du Monde_, London: Routledge.
+* –––, 1996b, _Existentialist Background: Kierkegaard, Dostoevsky, Nietzsche, Jaspers, Heidegger_, London: Routledge.
+* –––, 1997, _Existentialist Literature and Aesthetics_, New York: Garland.
+* Macquarrie, John, 1972, _Existentialism_, London: Penguin Books.
+* Mancini, Sandro, 1996, “Merleau-Ponty’s Phenomenology as a Dialectical Philosophy of Expression”,_International Philosophical Quarterly_, 36(40): 389–398.
+* Menase, Stéphanie, 2003, _Passivité et Création: Merleau-Ponty et L’Art Moderne_, Paris: Presses Universitaires de France.
+* Natanson, Maurice, 1968, _Literature, Philosophy and the Social Sciences: Essays in Existentialism and Phenomenology_, The Hague: Martinus Nijhoff, 1968 (3rd edition).
+* O’Neill, John, 1970, _Perception, Expression, History: The Social Phenomenology of Merleau-Ponty_, Evanston: Northwestern Univ. Press.
+* Pilardi, Jo-Anne, 1999, _Writing the Self: Philosophy becomes Autobiography_, Westport: Praeger Paperback.
+* Pingaud, Bernard, 1971, “Merleau-Ponty, Sartre et la Littérature”, _L’Arc_, 46: 80–87.
+* Place, James, 1973, “Merleau-Ponty and the Spirit of Painting”, _Philosophy Today_, 17: 280–290.
+* –––, 1976, “The Painting and the Natural Thing in the Philosophy of Merleau-Ponty”, _Cultural Hermeneutics_, 4: 75–92.
+* Polan, Dana, 1987, “Sartre and Cinema”, _Post-Script_, 7(1): 66–88.
+* Pollmann, Leo, 1970, _Sartre and Camus: Literature of Existence_, trans. by Helen and Gregor Sebba, New York: F. Ungar Publishing Co.
+* Sallis, John, 1973, _Phenomenology and the Return to Beginnings_, Pittsburgh: Duquesne University Press.
+* ––– (ed.), 1981, _Merleau-Ponty: Perception, Structure, Language_. New Jersey: Humanities Press.
+* Sepp, Hans Rainer, Embree, Lester (ed.), 2010, _Handbook of Phenomenological Aesthetics_, Dordrecht: Springer.
+* Silverman, Hugh, _et al_. (eds.), 1988, _The Horizons of Continental Philosophy: Essays on Husserl, Heidegger, Merleau-Ponty_, Dordrecht: Kluwer.
+* Sirridge, Mary, 2003, “Philosophy in Beauvoir’s Fiction”, in _Cambridge Companion to Simone de Beauvoir_, Cambridge: Cambridge University Press.
+* Slatman, Jenny, 2003, _L’Expression au-delà de la Representation: Sur L’Aisthesis et L’Esthétique chez Merleau-Ponty_, Paris: Vrin.
+* Smith, Michael, 1988, “L’Esthétique de Merleau-Ponty”. _Les Etudes Philosophiques_, 1: 73–98.
+* Solomon, Robert, 2006, _Grim Thoughts: Experience and Reflection in Camus and Sartre_, New York: Oxford University Press.
+* Sprintzen, David & Van den Hoven, Adrian (eds.), 2004, _Sartre and Camus: A Historic Confrontation_, Amherst: Humanity Books.
+* Stewart, Jon (ed.), 1998, _The Debate between Sartre and Merleau-Ponty_, Evanston: Northwestern University Press.
+* Troisfontaines, Roger, 1953, _De l’Existence à l’Être_, Paris: Vrin.
+* Vintges, Karen, 1996, _Philosophy as Passion: The Thinking of Simone de Beauvoir_, trans. by Anne Lavelle, Bloomington: Indiana University Press.
+* Witkus, Jessica, 2013, _The Rhythm of Thought: Art, Literature and Music After Merleau-Ponty_, Chicago: Chicago University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-existentialist). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/aesthetics-existentialist/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetics-existentialist&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/aesthetics-existentialist/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-existentialist).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/aesthetics-existentialist/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetics-existentialist\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/aesthetics-existentialist/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Beauvoir, Simone de](https://plato.stanford.edu/entries/beauvoir/) | [Camus, Albert](https://plato.stanford.edu/entries/camus/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Marcel, Gabriel (-Honoré)](https://plato.stanford.edu/entries/marcel/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/)
+[Beauvoir, Simone de](https://plato.stanford.edu/entries/beauvoir/) | [Camus, Albert](https://plato.stanford.edu/entries/camus/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Marcel, Gabriel (-Honoré)](https://plato.stanford.edu/entries/marcel/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Jean-Philippe Deranty](http://www.phil.mq.edu.au/staff/deranty.htm) <[*jp.deranty@mq.edu.a
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Jean-Philippe Deranty](http://www.phil.mq.edu.au/staff/deranty.htm) <\[\*jp.deranty@mq.edu.a

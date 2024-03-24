@@ -1,16 +1,15 @@
 # 汉娜·阿伦特 Arendt, Hannah (Tatjana Tömmel and Maurizio Passerin d’Entreves)
 
+_首次发表于 2006 年 7 月 27 日；实质性修订于 2024 年 2 月 12 日_
 
-*首次发表于 2006 年 7 月 27 日；实质性修订于 2024 年 2 月 12 日*
-
-汉娜·阿伦特（1906-1975）是二十世纪最有影响力的政治哲学家之一。她出生在一个德国犹太家庭，被迫于 1933 年离开德国，在接下来的八年里居住在巴黎，为一些犹太难民组织工作。1941 年，她移民到美国，并很快成为纽约一个活跃的知识界圈子的一部分。她在美国的各个大学担任过多个学术职位，直到 1975 年去世。她最著名的作品有三部，对学术界内外都产生了重大影响。第一部是 1951 年出版的《极权主义的起源》，这是一部研究纳粹和斯大林主义政权的著作，引发了关于极权现象的本质和历史先例的广泛讨论。第二部是 1958 年出版的《人的境况》，这是一部原创的哲学研究，探讨了*vita activa*（劳动、工作、行动）的基本范畴。第三部是《耶路撒冷的艾希曼》，报道了一位纳粹主要罪犯的审判，并创造了有争议的“邪恶的平庸”一词。除了这些重要的作品外，阿伦特还发表了许多有影响力的论文，涉及革命的本质、自由、权威、传统和现代时代等主题。在 1975 年去世时，她已经完成了她最后一部重要哲学著作《心灵的生活》的前两卷，该著作探讨了*vita contemplativa*（思考、意愿、判断）的三个基本能力。
+汉娜·阿伦特（1906-1975）是二十世纪最有影响力的政治哲学家之一。她出生在一个德国犹太家庭，被迫于 1933 年离开德国，在接下来的八年里居住在巴黎，为一些犹太难民组织工作。1941 年，她移民到美国，并很快成为纽约一个活跃的知识界圈子的一部分。她在美国的各个大学担任过多个学术职位，直到 1975 年去世。她最著名的作品有三部，对学术界内外都产生了重大影响。第一部是 1951 年出版的《极权主义的起源》，这是一部研究纳粹和斯大林主义政权的著作，引发了关于极权现象的本质和历史先例的广泛讨论。第二部是 1958 年出版的《人的境况》，这是一部原创的哲学研究，探讨了_vita activa_（劳动、工作、行动）的基本范畴。第三部是《耶路撒冷的艾希曼》，报道了一位纳粹主要罪犯的审判，并创造了有争议的“邪恶的平庸”一词。除了这些重要的作品外，阿伦特还发表了许多有影响力的论文，涉及革命的本质、自由、权威、传统和现代时代等主题。在 1975 年去世时，她已经完成了她最后一部重要哲学著作《心灵的生活》的前两卷，该著作探讨了_vita contemplativa_（思考、意愿、判断）的三个基本能力。
 
 * [1. 传略](https://plato.stanford.edu/entries/arendt/#BiogSket)
 * [2. 引言](https://plato.stanford.edu/entries/arendt/#Intr)
 * [3. 阿伦特对极权主义的概念](https://plato.stanford.edu/entries/arendt/#ArenConcTota)
 * [4. 人的境况](https://plato.stanford.edu/entries/arendt/#HumaCond)
 * [4.1 阿伦特对现代性的理解](https://plato.stanford.edu/entries/arendt/#ArenConcMode)
-* [4.2 汉娜·阿伦特的](https://plato.stanford.edu/entries/arendt/#VitaActiLaboWorkActi)​*[行动生活](https://plato.stanford.edu/entries/arendt/#VitaActiLaboWorkActi)*​[: 劳动、工作和行动](https://plato.stanford.edu/entries/arendt/#VitaActiLaboWorkActi)
+* [4.2 汉娜·阿伦特的](https://plato.stanford.edu/entries/arendt/#VitaActiLaboWorkActi)​\*[行动生活](https://plato.stanford.edu/entries/arendt/#VitaActiLaboWorkActi)\*​[: 劳动、工作和行动](https://plato.stanford.edu/entries/arendt/#VitaActiLaboWorkActi)
 * [4.3 自由、出生和多元性](https://plato.stanford.edu/entries/arendt/#FreeNataPlur)
 * [4.4 行动、叙事和记忆](https://plato.stanford.edu/entries/arendt/#ActiNarrReme)
 * [4.5 行动与出现的空间](https://plato.stanford.edu/entries/arendt/#ActiSpacAppe)
@@ -20,7 +19,7 @@
 * [5.1 公民身份与公共领域](https://plato.stanford.edu/entries/arendt/#CitiPublSphe)
 * [5.2 公民身份、行动能力和集体认同](https://plato.stanford.edu/entries/arendt/#CitiAgenCollIden)
 * [6. 智慧的生命及其道德意义](https://plato.stanford.edu/entries/arendt/#LifeMindMoraSign)
-* [6.1 ](https://plato.stanford.edu/entries/arendt/#EichJeruArenRecoEvil)​*[耶路撒冷的艾希曼](https://plato.stanford.edu/entries/arendt/#EichJeruArenRecoEvil)*​[: 阿伦特对邪恶的重新构想](https://plato.stanford.edu/entries/arendt/#EichJeruArenRecoEvil)
+* [6.1 ](https://plato.stanford.edu/entries/arendt/#EichJeruArenRecoEvil)​\*[耶路撒冷的艾希曼](https://plato.stanford.edu/entries/arendt/#EichJeruArenRecoEvil)\*​[: 阿伦特对邪恶的重新构想](https://plato.stanford.edu/entries/arendt/#EichJeruArenRecoEvil)
 * [6.2 思考和判断的道德意义](https://plato.stanford.edu/entries/arendt/#MoraSignThinJudg)
 * [6.3 自我意识、社会压力和自治](https://plato.stanford.edu/entries/arendt/#SelfConsSociPresAuto)
 * [6.4 判断和政治：两种模式](https://plato.stanford.edu/entries/arendt/#JudgPoliTwoMode)
@@ -32,7 +31,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/arendt/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/arendt/#Rel)
 
----
+***
 
 ## 1. 个人简介
 
@@ -40,11 +39,11 @@
 
 ## 2. 引言
 
-汉娜·阿伦特是二十世纪最重要的政治思想家之一。从一开始，她的兴趣不在于个体的人类，而在于众多人类以及他们共同生活的条件和形式。尽管阿伦特在她的论文之后才对政治感兴趣，但在这部首部作品中，她已经开始探讨人类社群的可能性条件。通过分析奥古斯丁的爱的概念，她批评了哲学传统的无世界性。从她的论文开始，如何将世界从一个最初陌生的自然*kosmos*转变为所有人共享的*polis*，这个问题贯穿了阿伦特的著作。因此，她的作品的主题是人们如何在一个共同的世界中共同生活的问题。
+汉娜·阿伦特是二十世纪最重要的政治思想家之一。从一开始，她的兴趣不在于个体的人类，而在于众多人类以及他们共同生活的条件和形式。尽管阿伦特在她的论文之后才对政治感兴趣，但在这部首部作品中，她已经开始探讨人类社群的可能性条件。通过分析奥古斯丁的爱的概念，她批评了哲学传统的无世界性。从她的论文开始，如何将世界从一个最初陌生的自然_kosmos_转变为所有人共享的_polis_，这个问题贯穿了阿伦特的著作。因此，她的作品的主题是人们如何在一个共同的世界中共同生活的问题。
 
 她的思想的力量和独创性在《极权主义的起源》、《人的条件》和《心灵的生活》等作品中得以体现。在这些书籍和众多的文章中，她努力理解她所处时代最重要的政治事件的意义和历史意义，并展示它们如何影响我们的道德和政治判断的范畴。在她的政治著作中，尤其是在《极权主义的起源》中，阿伦特声称，极权主义现象已经打破了西方历史的连续性，并使我们大部分的道德和政治范畴变得无意义。面对大屠杀和古拉格的事件，我们不能再回到传统的概念和价值观，以便通过先例来解释前所未有的事情，或者通过熟悉的事物来理解怪物般的事情。我们必须在没有传统的帮助下面对我们这个时代的重担，正如阿伦特曾经说过的，“没有扶手”（RPW, 336）。在她看来，所需要的是一个能够让我们应对二十世纪的双重恐怖主义（纳粹主义和斯大林主义）的新框架。她在她关于极权主义的书中提供了这样的框架，并继续发展了一套新的哲学范畴，可以阐明人类的条件，并对政治生活的本质提供新的视角。
 
-对传统线索不可逆地中断的假设影响了阿伦特的方法：她采用的解释策略既受到瓦尔特·本雅明的影响，也受到马丁·海德格尔的影响。她从本雅明那里借鉴了片段式的历史学方法，寻求在历史中找到断裂、位移和错位的时刻。这种片段式的历史学方法使人能够在希望中恢复过去的潜力，以便在现在实现。她从海德格尔那里借鉴了对西方哲学传统的解构性阅读的思想，寻求揭示我们范畴的原始意义，并将其从传统的扭曲中解放出来。这种解构性的解释学方法使人能够恢复那些被哲学传统所遮蔽或遗忘的原始经验（*Urphänomene*），从而恢复我们哲学概念和范畴的失落起源。
+对传统线索不可逆地中断的假设影响了阿伦特的方法：她采用的解释策略既受到瓦尔特·本雅明的影响，也受到马丁·海德格尔的影响。她从本雅明那里借鉴了片段式的历史学方法，寻求在历史中找到断裂、位移和错位的时刻。这种片段式的历史学方法使人能够在希望中恢复过去的潜力，以便在现在实现。她从海德格尔那里借鉴了对西方哲学传统的解构性阅读的思想，寻求揭示我们范畴的原始意义，并将其从传统的扭曲中解放出来。这种解构性的解释学方法使人能够恢复那些被哲学传统所遮蔽或遗忘的原始经验（_Urphänomene_），从而恢复我们哲学概念和范畴的失落起源。
 
 通过依靠这两种解释策略，阿伦特希望从过去中赎回其失落或“被遗忘的宝藏”，也就是那些过去的碎片，它们可能对我们仍然具有重要意义。在她看来，传统的崩溃之后，不再可能将整个过去保存下来；相反，任务是从遗忘中赎回那些仍能为我们的现状提供启示的过去元素。只有通过这种批判性的重新拥有，我们才能重新发现过去，赋予它对现在的相关性和意义，并使其成为未来的灵感之源。事实上，传统的崩溃可能为我们提供了一个重大机会，以“没有任何传统扭曲的眼光，以罗马文明接受希腊思想的权威以来，西方的阅读和听觉已经消失的直接性”（BPF，28-9）来审视过去。阿伦特对希腊城邦最初经历的回归，在这个意义上，代表了一种打破陈旧传统束缚的尝试，并重新发现一个传统不再拥有主张的过去。
 
@@ -74,7 +73,7 @@
 
 阿伦特对极权主义的分析“凸显了……政治境况本身。”（Canovan（2000 年，35 页）。换句话说，它揭示了政治的基本条件，阿伦特在她的重要哲学著作《人的境况》中转向了这些条件。该书于 1958 年出版，包含了她对现代时代的批判性概念，即劳动、工作和行动的三分法，以及阿伦特的政治理论，它考察了政治行动的基本条件。
 
-阿伦特关于行动的理论和她对古代“实践”概念的复兴，是 20 世纪政治思想中最独特的贡献之一。通过区分行动（*praxis*）和制造（*poiesis*），将其与自由和多元性联系起来，并展示其与言论和记忆的关联，阿伦特能够以新颖独特的方式阐述政治的概念，其中可以探讨意义和身份的问题。此外，通过将行动视为人类共同体的一种方式，阿伦特能够发展一种参与式民主的概念，与现代时代典型的官僚化和精英主义政治形式形成鲜明对比。
+阿伦特关于行动的理论和她对古代“实践”概念的复兴，是 20 世纪政治思想中最独特的贡献之一。通过区分行动（_praxis_）和制造（_poiesis_），将其与自由和多元性联系起来，并展示其与言论和记忆的关联，阿伦特能够以新颖独特的方式阐述政治的概念，其中可以探讨意义和身份的问题。此外，通过将行动视为人类共同体的一种方式，阿伦特能够发展一种参与式民主的概念，与现代时代典型的官僚化和精英主义政治形式形成鲜明对比。
 
 ### 4.1 汉娜·阿伦特对现代性的理解
 
@@ -98,13 +97,13 @@
 
 在《人的条件》中，阿伦特反复强调行动主要具有象征性，并且人际关系的网络是通过交流互动来维系的（HC，178–9，184–6，199–200）。因此，行动涉及言语：通过语言，我们能够表达我们行动的意义，并协调多个行动者的行动。相反，言语涉及行动，不仅在于言语本身是一种行动形式，或者大多数行动是以言语的方式进行的，而且在于行动通常是我们检验说话者真诚性的手段。因此，就像没有言语的行动可能是毫无意义的，并且无法与他人的行动协调一样，没有行动的言语将缺乏我们确认说话者真实性的手段之一。正如我们将看到的，行动和言语之间的这种联系是阿伦特对权力的特征化的核心，当人们“协同行动”时，权力就会在他们之间产生，并且只有在“言行不离”的地方才会实现，“言辞不空洞，行动不残暴，言辞不用来掩盖意图，而是用来揭示现实，行动不用来违背和破坏，而是用来建立关系和创造新的现实”（HC，200）。
 
-对于阿伦特来说，行动构成了*vita activa*的最高实现。在《人的条件》中关于行动的章节的开头部分，阿伦特讨论了其中一个核心功能，即揭示行动者的身份。她认为，在行动和言语中，个体展示了他们作为独特个体的自我，向世界展示了他们独特的个性。从阿伦特的区分来看，他们揭示了他们作为“谁”而不是“什么”的身份——后者指的是个体的能力和才能，以及缺陷和不足，这些都是所有人类共有的特征。劳动和工作都不能使个体揭示他们的身份，揭示他们作为“谁”而不是“什么”的身份。在劳动中，每个人的个性都被束缚在一系列自然需求中，受到生物生存所强加的限制。当我们从事劳动时，我们只能展示我们的相同之处，即我们都属于人类物种，并且必须满足我们身体的需求。在这个领域，我们确实“行为”，“扮演角色”和“履行职能”，因为我们都遵守相同的命令。在工作中，个性有更多的发挥空间，因为每件艺术品或产品都带有制作者的标记；但制作者仍然服从于最终产品，既在被模型引导的意义上，也在产品通常比制作者更持久的意义上。此外，最终产品除了表明制作者有能力制作它之外，几乎没有透露出制作者的信息。它不能告诉我们创作者是谁，只能告诉我们他或她具有某些能力和才能。因此，只有在行动和言语中，通过言行与他人互动，个体才能揭示他们个人是谁，并肯定他们独特的身份。行动和言语在这个意义上非常密切相关，因为两者都包含了对每个新来者提出的问题的答案：“你是谁？”这种“谁”的揭示是通过行动和言语两者共同实现的，但其中更接近揭示的是言语。如果没有言语的陪伴，行动将失去其揭示性质，无法再与行动者联系起来。它将缺乏作为行动主体的归属条件。
+对于阿伦特来说，行动构成了_vita activa_的最高实现。在《人的条件》中关于行动的章节的开头部分，阿伦特讨论了其中一个核心功能，即揭示行动者的身份。她认为，在行动和言语中，个体展示了他们作为独特个体的自我，向世界展示了他们独特的个性。从阿伦特的区分来看，他们揭示了他们作为“谁”而不是“什么”的身份——后者指的是个体的能力和才能，以及缺陷和不足，这些都是所有人类共有的特征。劳动和工作都不能使个体揭示他们的身份，揭示他们作为“谁”而不是“什么”的身份。在劳动中，每个人的个性都被束缚在一系列自然需求中，受到生物生存所强加的限制。当我们从事劳动时，我们只能展示我们的相同之处，即我们都属于人类物种，并且必须满足我们身体的需求。在这个领域，我们确实“行为”，“扮演角色”和“履行职能”，因为我们都遵守相同的命令。在工作中，个性有更多的发挥空间，因为每件艺术品或产品都带有制作者的标记；但制作者仍然服从于最终产品，既在被模型引导的意义上，也在产品通常比制作者更持久的意义上。此外，最终产品除了表明制作者有能力制作它之外，几乎没有透露出制作者的信息。它不能告诉我们创作者是谁，只能告诉我们他或她具有某些能力和才能。因此，只有在行动和言语中，通过言行与他人互动，个体才能揭示他们个人是谁，并肯定他们独特的身份。行动和言语在这个意义上非常密切相关，因为两者都包含了对每个新来者提出的问题的答案：“你是谁？”这种“谁”的揭示是通过行动和言语两者共同实现的，但其中更接近揭示的是言语。如果没有言语的陪伴，行动将失去其揭示性质，无法再与行动者联系起来。它将缺乏作为行动主体的归属条件。
 
 ### 4.3 自由、出生和多样性
 
 行动的两个核心特征是“自由”和“多样性”。阿伦特所说的自由并不是指在一组可能的选择中进行选择的能力，而是指自发性，即开始、开始新事物、做出意外举动的能力，这是所有人类天生具备的。行动作为自由的实现因此根植于“出生”，即每一次出生都代表着新的开始和新事物的引入世界。“开始的本质就是开始一些新的事物，这些事物不能从之前发生的任何事情中预料到。这种令人惊讶的新奇性特征存在于所有开始中……人类能够行动的事实意味着我们可以从他身上期待意想不到的事情，他能够完成无限不可能的事情。而这又仅仅因为每个人都是独一无二的，所以每一次出生都带来了独特的新事物”（HC，177-8）。行动意味着能够做出意想不到的事情；与这一概念完全一致的是，阿伦特讨论的现代时代行动的大部分具体例子都是革命和民众起义的案例。她的观点是，“革命是唯一直接而必然地让我们面对开始问题的政治事件”（OR，21），因为它们代表着创立一个新的政治空间的尝试，一个自由可以作为世俗现实出现的空间。阿伦特最喜欢的例子是美国革命，因为那里的创立行为采取了自由的宪法形式。她的其他例子包括法国革命的革命俱乐部、1871 年的巴黎公社、俄国革命期间的苏维埃创立、法国对抗希特勒的第二次世界大战抵抗运动以及 1956 年的匈牙利起义。在所有这些情况下，个人男女都有勇气中断他们的日常活动，走出他们的私人生活，创造一个自由可以出现的公共空间，并以这样的方式行动，使他们的行为记忆成为未来的灵感来源。
 
-*多元性*，我们现在可以转向这个问题，是行动的另一个核心特征。对于阿伦特来说，多元性是所有政治生活的必要条件（HC，7）。因为如果行动意味着采取主动，引入新事物和意外的因素到世界中，那么它也意味着行动不能孤立地完成，也就是说，不能独立于其他人的存在之外，也就是不能独立于从不同角度来判断所实施行动质量的多元行动者的存在之外。在这方面，行动需要多元性，就像表演艺术家需要观众一样；没有他人的存在和认可，行动将不再是一种有意义的活动。行动需要出现在公众场合，通过言行让自己被人知晓，并获得他人的同意，只能在由多元性定义的背景下存在。
+_多元性_，我们现在可以转向这个问题，是行动的另一个核心特征。对于阿伦特来说，多元性是所有政治生活的必要条件（HC，7）。因为如果行动意味着采取主动，引入新事物和意外的因素到世界中，那么它也意味着行动不能孤立地完成，也就是说，不能独立于其他人的存在之外，也就是不能独立于从不同角度来判断所实施行动质量的多元行动者的存在之外。在这方面，行动需要多元性，就像表演艺术家需要观众一样；没有他人的存在和认可，行动将不再是一种有意义的活动。行动需要出现在公众场合，通过言行让自己被人知晓，并获得他人的同意，只能在由多元性定义的背景下存在。
 
 阿伦特通过人类学的论证建立了行动与多元性之间的联系。在她看来，就像生命是对应于劳动活动的条件，世俗性是对应于工作活动的条件一样，多元性是对应于行动的条件。她将多元性定义为“人们而不是人类生活在地球上并居住在世界上的事实”，并说它是人类行动的条件，“因为我们都是相同的，也就是说，人类，以一种没有任何一个人与曾经生活过、正在生活或将来会生活的其他人相同的方式存在”（HC，7-8）。因此，多元性既涉及平等又涉及差异，即所有人类属于同一物种，并且彼此足够相似以相互理解，但没有两个人是可以互换的，因为每个人都是一个具有独特传记和对世界的观点的个体。正是通过多元性，我们每个人才能以独特和独特的方式行动和与他人相处，并通过这样做对行动和关系网络做出无限复杂和不可预测的贡献。
 
@@ -152,9 +151,9 @@
 
 ### 5.1 公民身份与公共领域
 
-对于阿伦特来说，*公共领域*包括两个不同但相互关联的维度。第一个是*出现的空间*，这是一个政治自由和平等的空间，只要公民们通过言辞和说服的方式共同行动，它就会出现。第二个是*共同世界*，一个共享的、公共的人类制品、机构和环境的世界，它将我们与自然分隔开，并为我们的活动提供一个相对永久和持久的背景。这两个维度对于公民身份的实践都是必不可少的，前者提供了它可以茁壮成长的空间，后者提供了一个稳定的背景，使公共行动和思考的空间得以产生。对于阿伦特来说，现代世界中公民身份的重新激活取决于共同、共享世界的恢复以及创造许多出现的空间，个体可以在其中展示自己的身份，并建立互惠和团结的关系。
+对于阿伦特来说，_公共领域_包括两个不同但相互关联的维度。第一个是_出现的空间_，这是一个政治自由和平等的空间，只要公民们通过言辞和说服的方式共同行动，它就会出现。第二个是_共同世界_，一个共享的、公共的人类制品、机构和环境的世界，它将我们与自然分隔开，并为我们的活动提供一个相对永久和持久的背景。这两个维度对于公民身份的实践都是必不可少的，前者提供了它可以茁壮成长的空间，后者提供了一个稳定的背景，使公共行动和思考的空间得以产生。对于阿伦特来说，现代世界中公民身份的重新激活取决于共同、共享世界的恢复以及创造许多出现的空间，个体可以在其中展示自己的身份，并建立互惠和团结的关系。
 
-公共领域和政治领域的三个特征是阿伦特对公民身份概念的核心。这些特征是：首先，它的*人为*或构建性质；其次，它的*空间*性质；第三，*公共*和*私人*利益之间的区别。
+公共领域和政治领域的三个特征是阿伦特对公民身份概念的核心。这些特征是：首先，它的_人为_或构建性质；其次，它的_空间_性质；第三，_公共_和_私人_利益之间的区别。
 
 关于第一个特征，阿伦特始终强调公共生活和政治活动的人为性，即它们是人造的和构建的，而不是自然的或给定的。她认为这种人为性应该被庆祝而不是被哀叹。对她来说，政治不是某种自然倾向的结果，也不是人类本性固有特征的实现。相反，它是一项文化成就，使个体能够超越生活的必要性，塑造一个可以自由进行政治行动和对话的世界。
 
@@ -218,11 +217,11 @@
 
 阿伦特试图通过以两种方式将思考活动与判断活动联系起来来回答这个问题。首先，思考——我和自己之间的默契对话——会消解我们固定的思维习惯和被接受的行为规则，从而为不依赖预先建立的普遍规则来判断个别事物的活动铺平道路。并不是说思考为判断提供了将个别事物归入普遍规则的新规则。相反，它减弱了普遍规则对个别事物的控制，从而使判断能够摆脱僵化的思维范畴和传统的评估标准。在历史危机时期，思考不再是一个边缘的事务，因为它通过动摇所有既定的标准和价值观，使个体能够自行判断，而不是被大多数人的行动和观点所带动。
 
-汉娜·阿伦特将思考的活动与判断联系起来的第二种方式是通过展示思考的实际化，即在意识中给出的我和自己的对话，产生了*良心*作为副产品。
+汉娜·阿伦特将思考的活动与判断联系起来的第二种方式是通过展示思考的实际化，即在意识中给出的我和自己的对话，产生了_良心_作为副产品。
 
 ### 6.3 自我意识、社会压力和自治
 
-艾希曼审判的影响迫使阿伦特提出一个问题，即我们是否有权假设“一种独立于法律和舆论支持的人类能力，每当情况出现时都能全然自发地重新判断每一个行为和意图”（PRD，187）。在 20 世纪 60 年代和 70 年代的各种论文中，阿伦特探讨了心智能力在道德自治和社会压力之间的冲突中的作用。在《独裁统治下的个人责任》一文中，她讨论了纳粹时代自愿服从的问题，并询问了拒绝合作的少数人的特点（RJ，43）。她发现答案在于能够自行判断，这源于明确的自我关系：“[非参与者……]是唯一敢于自行判断的人，他们之所以能够这样做，不是因为对对错的旧标准牢牢根植于他们的头脑和良心，而是因为他们问自己，在完成某些行为之后，他们还能与自己和平共处的程度有多大”（RJ，44）。因此，道德自治的先决条件不是教育或坚定的道德信念，而是确信作为一个自我意识的存在，一个无法逃避自己的存在：“如果我与他人意见不合，我可以离开；但我无法逃离自己，因此在考虑其他人之前，最好先试着与自己达成一致”（RJ，90）。
+艾希曼审判的影响迫使阿伦特提出一个问题，即我们是否有权假设“一种独立于法律和舆论支持的人类能力，每当情况出现时都能全然自发地重新判断每一个行为和意图”（PRD，187）。在 20 世纪 60 年代和 70 年代的各种论文中，阿伦特探讨了心智能力在道德自治和社会压力之间的冲突中的作用。在《独裁统治下的个人责任》一文中，她讨论了纳粹时代自愿服从的问题，并询问了拒绝合作的少数人的特点（RJ，43）。她发现答案在于能够自行判断，这源于明确的自我关系：“\[非参与者……]是唯一敢于自行判断的人，他们之所以能够这样做，不是因为对对错的旧标准牢牢根植于他们的头脑和良心，而是因为他们问自己，在完成某些行为之后，他们还能与自己和平共处的程度有多大”（RJ，44）。因此，道德自治的先决条件不是教育或坚定的道德信念，而是确信作为一个自我意识的存在，一个无法逃避自己的存在：“如果我与他人意见不合，我可以离开；但我无法逃离自己，因此在考虑其他人之前，最好先试着与自己达成一致”（RJ，90）。
 
 根据阿伦特的观点，拥有对自己与自己的关系的意识是思考的结果，即与自己进行的无声对话（JR，44f）。因此，道德不是关于我们与他人的关系，而是关于我们与自己的关系的问题（RJ，67）。继承康德的观点，阿伦特将这种明确的自我关系理解为对自己自治的意识，即意识到自己不是大机器中的一个小齿轮，而是每个人都是负有责任的立法者：“如果我是立法者，罪恶和犯罪就不再被定义为违抗他人法律的行为，而是作为拒绝履行自己作为世界立法者的角色”（RJ，69）。对康德的绝对命令的引用表明，在阿伦特的道德哲学中，自我不能像在她的政治理论中那样被孤立思考（参见 EU，441）。道德负责的自我不必做出真实的，而是可普遍化的，代表性的决策。
 
@@ -236,17 +235,17 @@
 
 阿伦特关于判断主题的著作可以看作是分为两个或多或少不同的阶段，一个早期阶段，其中判断是政治行动者在公共领域中行动的能力，以及一个后期阶段，其中判断是非参与的旁观者，主要是诗人和历史学家的特权，他们试图理解过去的意义并使我们与所发生的事情和解。在这个后期的表述中，阿伦特不再关注判断作为政治生活本身的特征，即行动者在公共领域中决定如何行动的能力，而是将判断视为心灵生活中的一个组成部分，是特权旁观者从过去中恢复意义并因此与时间和回顾性地与悲剧和解的能力。
 
-关于第一个观点：在论文《文化危机》和《真理与政治》中，阿伦特将判断视为一种能力，使政治行为者能够决定在公共领域采取何种行动，追求何种目标最为适当或值得，以及对过去行动或过去决策的后果应该赞扬或责备谁。在这个模型中，判断被视为一种特定的政治能力，即“能够从自己的观点以及在场的所有人的观点来看待事物的能力”，并且被视为“作为一个政治存在的人的基本能力之一，因为它使他能够在公共领域、在共同的世界中定位自己”（BPF，221）。与思辨性思维相比，判断根源于常识。因此，判断“是这种与他人共享世界的最重要的活动之一，如果不是最重要的活动”（BPF，221）。此外，阿伦特强调了判断的非强制性特征，即它只能呼吁而不能强迫他人的同意，她声称“这种‘求爱’或说服与希腊人所称的*peithein*（说服）非常相似，他们将其视为人们相互交谈的典型政治形式”（BPF，222）。
+关于第一个观点：在论文《文化危机》和《真理与政治》中，阿伦特将判断视为一种能力，使政治行为者能够决定在公共领域采取何种行动，追求何种目标最为适当或值得，以及对过去行动或过去决策的后果应该赞扬或责备谁。在这个模型中，判断被视为一种特定的政治能力，即“能够从自己的观点以及在场的所有人的观点来看待事物的能力”，并且被视为“作为一个政治存在的人的基本能力之一，因为它使他能够在公共领域、在共同的世界中定位自己”（BPF，221）。与思辨性思维相比，判断根源于常识。因此，判断“是这种与他人共享世界的最重要的活动之一，如果不是最重要的活动”（BPF，221）。此外，阿伦特强调了判断的非强制性特征，即它只能呼吁而不能强迫他人的同意，她声称“这种‘求爱’或说服与希腊人所称的_peithein_（说服）非常相似，他们将其视为人们相互交谈的典型政治形式”（BPF，222）。
 
 对于第二个观点，阿伦特基于康德在《判断力批判》中的美学理论，她声称其中包含了康德未写下的政治哲学（参见 BPF，219-20）。对于阿伦特来说，观众有特权能够客观公正地进行判断，而在这个过程中，他们运用了两个关键的能力，即“想象力”和“共同感”。通过想象力，人们可以描绘不再存在的对象，从而建立起客观判断所需的距离。一旦产生了这种距离，人们就能够从多个不同的角度反思这些表象，并由此对一个对象的适当价值做出判断。康德认为，为了使我们的判断有效，我们必须超越私人或主观的条件，转而采用公共和主观间的条件，而我们能够通过诉诸我们的共同感，即“共同感”，来实现这一点。判断的标准是“可交流性”，判断我们的判断是否确实可交流的标准是看它们是否符合他人的“共同感”。阿伦特指出，对品味判断的可交流性的强调以及与之相关的扩展心态的概念与康德关于一个生活在永恒和平中的团结人类的想法完美契合。她认为，“正是凭借这个存在于每个人内心的人类理念，人们才是人类，只有当这个理念不仅成为他们判断的原则，而且成为他们行动的原则时，他们才能被称为文明或人道。在这一点上，演员和观众合二为一；演员的准则和观众判断世界景象的准则成为一个”（LKPP，75）。
 
 ### 6.5 政治中的观点和真理
 
-对于贬低政治事务中观点作用的柏拉图和霍布斯，阿伦特重新强调了政治辩论、思辨和说服的价值和重要性，从而强调了承认差异和观点多样性的政治。然而，这引发了一个问题，即哪些观点是合理的，哪些判断可以声称具有*有效性*。
+对于贬低政治事务中观点作用的柏拉图和霍布斯，阿伦特重新强调了政治辩论、思辨和说服的价值和重要性，从而强调了承认差异和观点多样性的政治。然而，这引发了一个问题，即哪些观点是合理的，哪些判断可以声称具有_有效性_。
 
 对于阿伦特来说，政治判断的有效性取决于我们能否“代表性地”思考，也就是说，从其他人的立场出发，以便我们能够从多个不同的角度看待世界：“当我思考一个特定问题时，我脑海中存在的人们的立场越多，我越能想象如果我处于他们的位置上，我会有怎样的感受和思考方式，我的代表性思维能力就越强，我的最终结论，我的观点就越有效。”（BPF，241）这种能力只能在公共论坛中获得和测试，在这里个体有机会交换他们对特定事务的观点，并看看它们是否与他人的观点一致。在这方面，观点形成的过程从来都不是一种孤立的活动；相反，它需要与不同观点真正相遇，以便从每个可能的立场来审视特定问题，直到如她所说，“它被人类理解的充分光明所淹没和透明化”（BPF，242）。辩论和讨论，以及扩大自己视角的能力，确实对形成可以声称超越主观有效性的观点至关重要；个体可能对许多主题持有个人观点，但只有通过扩大自己的立场以纳入他人的立场，才能形成代表性观点。在这方面，形成观点时永远不会孤单；正如阿伦特所指出的，“即使我在形成观点时避开所有人，或者在哲学思考的孤独中完全孤立，我仍然处于这个普遍相互依存的世界中，在这里我可以成为每个人的代表”（BPF，242）。
 
-判断和观点的*代表性*对于有效性的问题具有重要意义。阿伦特始终强调，形成有效观点需要一个公共空间，个体可以通过相互辩论和启蒙的过程来测试和净化他们的观点。然而，她对观点应该按照真理标准来衡量，或者辩论应该根据严格的科学有效性标准进行的观点持有相反的态度。在她看来，真理属于认知领域，即逻辑、数学和严格科学的领域，并且始终带有一种强制性的因素，因为它排除了辩论，并且必须被每个具有理性能力的个体接受。与观点的多样性相对立，真理具有专制的特征：它强制普遍同意，限制了思维的自由运动，消除了观点的多样性，减少了人类对话的丰富性。在这方面，真理是反政治的，因为通过消除辩论和多样性，它消除了政治生活的基本原则。正如阿伦特所写，“问题在于，事实真理，就像其他一切真理一样，断然要求被承认，并排除了辩论，而辩论构成了政治生活的本质。从政治角度看，处理真理的思维和交流方式必然是专制的；它们不考虑他人的观点，而考虑他人观点是所有严格政治思维的标志”（BPF，241）。
+判断和观点的_代表性_对于有效性的问题具有重要意义。阿伦特始终强调，形成有效观点需要一个公共空间，个体可以通过相互辩论和启蒙的过程来测试和净化他们的观点。然而，她对观点应该按照真理标准来衡量，或者辩论应该根据严格的科学有效性标准进行的观点持有相反的态度。在她看来，真理属于认知领域，即逻辑、数学和严格科学的领域，并且始终带有一种强制性的因素，因为它排除了辩论，并且必须被每个具有理性能力的个体接受。与观点的多样性相对立，真理具有专制的特征：它强制普遍同意，限制了思维的自由运动，消除了观点的多样性，减少了人类对话的丰富性。在这方面，真理是反政治的，因为通过消除辩论和多样性，它消除了政治生活的基本原则。正如阿伦特所写，“问题在于，事实真理，就像其他一切真理一样，断然要求被承认，并排除了辩论，而辩论构成了政治生活的本质。从政治角度看，处理真理的思维和交流方式必然是专制的；它们不考虑他人的观点，而考虑他人观点是所有严格政治思维的标志”（BPF，241）。
 
 阿伦特对“观点”的辩护不仅源于她的信念，即真理不容许辩论、异议或对差异的承认，而且还源于她坚信我们的推理能力只能在对话的背景下得以发展。她引用了康德的话：“剥夺人们公开交流思想的外部力量同时也剥夺了他思考的自由”，并强调康德的观点，即我们思考的正确性的唯一保证是“我们可以说，我们与他人共同思考，我们向他们传达我们的思想，他们也向我们传达他们的思想”（BPF，234-5）。
 
@@ -260,106 +259,106 @@
 
 ### Works by Arendt
 
-| [LA] | *Der Liebesbegriff bei Augustin*. Berlin: Julius Springer Verlag, 1929. Translation as *Love and Saint Augustine*, with an interpretive essay by Joanna V. Scott and Judith C. Stark. Chicago: University of Chicago Press, 1996. |
-| --- | --- |
-| [RV] | *Rahel Varnhagen: The Life of a Jewish Woman*. Revised edition translated into English by Richard and Clara Winston. New York: Harcourt Brace Jovanovich, 1974. Critical edition edited by Liliane Weissberg. Baltimore: Johns Hopkins University Press, 1997. |
-| [OT] | *The Origins of Totalitarianism*. New York: Harcourt Brace Jovanovich, 1951. Third edition with new prefaces, 1973. |
-| [HC] | *The Human Condition*. Chicago: University of Chicago Press, 1958. |
-| [EJ] | *Eichmann in Jerusalem: A Report on the Banality of Evil*. New York: Viking Press, 1963. Revised and enlarged edition, 1965. |
-| [OR] | *On Revolution*. New York: Viking Press, 1963. Revised second edition, 1965. |
-| [BPF] | *Between Past and Future*. New York: Viking Press, 1961. Revised edition, 1968. |
-| [MDT] | *Men in Dark Times*. New York: Harcourt Brace Jovanovich, 1968. |
-| [OV] | *On Violence*. New York: Harcourt Brace Jovanovich, 1970. |
-| [CR] | *Crises of the Republic*. New York: Harcourt Brace Jovanovich, 1972. |
-| [JP] | *The Jew as Pariah*. Edited and with an introduction by Ron H. Feldman. New York: Grove Press, 1978. |
-| [JW] | *The Jewish Writings*. Edited by Jerome Kohn and Ron H. Feldman. New York: Schocken Books, 2007. |
-| [LM] | *The Life of the Mind*. New York: Harcourt Brace Jovanovich, 1978. |
-| [LKPP] | *Lectures on Kant’s Political Philosophy*. Edited and with an interpretive essay by Ronald Beiner. Chicago: University of Chicago Press, 1982. |
-| [EU] | *Essays in Understanding: 1930–1954*. Edited and with an introduction by Jerome Kohn. New York: Harcourt Brace & Company, 1994. |
-| [RJ] | *Responsibility and Judgment*. Edited and with an introduction by Jerome Kohn. New York: Schocken Books, 2003. |
-| [PP] | *The Promise of Politics*. Edited and with an introduction by Jerome Kohn. New York: Schocken Books, 2005. |
-| [RPW] | *Hannah Arendt: The Recovery of the Public World.* Edited by Melvyn A. Hill. New York: St. Martin’s Press, 1979. |
-| [DT] | *Denktagebuch 1950–1973.* Edited by Ursula Ludz and Ingeborg Nordmann. Munich and Zurich: Pieper 2002. |
-| [UP] | “Understanding and Politics.” *Partisan Review*, vol. 20, no. 4 (July–August 1953): 377–92. Reprinted in *Essays in Understanding: 1930–1954*. |
-| [PRD] | “Personal Responsibility under Dictatorship.” *The Listener*, (6 August 1964): 185–205. Reprinted in *Responsibility and Judgment*. |
-| [TMC] | “Thinking and Moral Considerations: A Lecture.” *Social Research*, 38(3) (Autumn 1971): 417–46. Reprinted in *Social Research*, 51(1) (Spring 1984): 7–37, and in *Responsibility and Judgment*. |
-| [PRPI] | “Public Rights and Private Interests.” In M. Mooney and F. Stuber, eds., *Small Comforts for Hard Times: Humanists on Public Policy*. New York: Columbia University Press, 1977. |
+| \[LA]   | _Der Liebesbegriff bei Augustin_. Berlin: Julius Springer Verlag, 1929. Translation as _Love and Saint Augustine_, with an interpretive essay by Joanna V. Scott and Judith C. Stark. Chicago: University of Chicago Press, 1996.                              |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \[RV]   | _Rahel Varnhagen: The Life of a Jewish Woman_. Revised edition translated into English by Richard and Clara Winston. New York: Harcourt Brace Jovanovich, 1974. Critical edition edited by Liliane Weissberg. Baltimore: Johns Hopkins University Press, 1997. |
+| \[OT]   | _The Origins of Totalitarianism_. New York: Harcourt Brace Jovanovich, 1951. Third edition with new prefaces, 1973.                                                                                                                                            |
+| \[HC]   | _The Human Condition_. Chicago: University of Chicago Press, 1958.                                                                                                                                                                                             |
+| \[EJ]   | _Eichmann in Jerusalem: A Report on the Banality of Evil_. New York: Viking Press, 1963. Revised and enlarged edition, 1965.                                                                                                                                   |
+| \[OR]   | _On Revolution_. New York: Viking Press, 1963. Revised second edition, 1965.                                                                                                                                                                                   |
+| \[BPF]  | _Between Past and Future_. New York: Viking Press, 1961. Revised edition, 1968.                                                                                                                                                                                |
+| \[MDT]  | _Men in Dark Times_. New York: Harcourt Brace Jovanovich, 1968.                                                                                                                                                                                                |
+| \[OV]   | _On Violence_. New York: Harcourt Brace Jovanovich, 1970.                                                                                                                                                                                                      |
+| \[CR]   | _Crises of the Republic_. New York: Harcourt Brace Jovanovich, 1972.                                                                                                                                                                                           |
+| \[JP]   | _The Jew as Pariah_. Edited and with an introduction by Ron H. Feldman. New York: Grove Press, 1978.                                                                                                                                                           |
+| \[JW]   | _The Jewish Writings_. Edited by Jerome Kohn and Ron H. Feldman. New York: Schocken Books, 2007.                                                                                                                                                               |
+| \[LM]   | _The Life of the Mind_. New York: Harcourt Brace Jovanovich, 1978.                                                                                                                                                                                             |
+| \[LKPP] | _Lectures on Kant’s Political Philosophy_. Edited and with an interpretive essay by Ronald Beiner. Chicago: University of Chicago Press, 1982.                                                                                                                 |
+| \[EU]   | _Essays in Understanding: 1930–1954_. Edited and with an introduction by Jerome Kohn. New York: Harcourt Brace & Company, 1994.                                                                                                                                |
+| \[RJ]   | _Responsibility and Judgment_. Edited and with an introduction by Jerome Kohn. New York: Schocken Books, 2003.                                                                                                                                                 |
+| \[PP]   | _The Promise of Politics_. Edited and with an introduction by Jerome Kohn. New York: Schocken Books, 2005.                                                                                                                                                     |
+| \[RPW]  | _Hannah Arendt: The Recovery of the Public World._ Edited by Melvyn A. Hill. New York: St. Martin’s Press, 1979.                                                                                                                                               |
+| \[DT]   | _Denktagebuch 1950–1973._ Edited by Ursula Ludz and Ingeborg Nordmann. Munich and Zurich: Pieper 2002.                                                                                                                                                         |
+| \[UP]   | “Understanding and Politics.” _Partisan Review_, vol. 20, no. 4 (July–August 1953): 377–92. Reprinted in _Essays in Understanding: 1930–1954_.                                                                                                                 |
+| \[PRD]  | “Personal Responsibility under Dictatorship.” _The Listener_, (6 August 1964): 185–205. Reprinted in _Responsibility and Judgment_.                                                                                                                            |
+| \[TMC]  | “Thinking and Moral Considerations: A Lecture.” _Social Research_, 38(3) (Autumn 1971): 417–46. Reprinted in _Social Research_, 51(1) (Spring 1984): 7–37, and in _Responsibility and Judgment_.                                                               |
+| \[PRPI] | “Public Rights and Private Interests.” In M. Mooney and F. Stuber, eds., _Small Comforts for Hard Times: Humanists on Public Policy_. New York: Columbia University Press, 1977.                                                                               |
 
 ### Secondary Literature
 
-* Aschheim, S. (ed.), 2001, *Hannah Arendt in Jerusalem*, Berkeley: University of California Press.
-* Baehr, P., 2010, *Hannah Arendt, Totalitarianism, and the Social Sciences*, Stanford: Stanford University Press.
-* Baluch, F., 2014, “Arendt’s Machiavellian Moment”, *European Journal of Political Theory*, 13 (2): 154–177.
-* Barnouw, D., 1990, *Visible Spaces: Hannah Arendt and the German-Jewish Experience*, Baltimore: Johns Hopkins University Press.
-* Benhabib, S., 1996, *The Reluctant Modernism of Hannah Arendt*, London: Sage Publications.
-* –––, 2000, “Arendt’s Eichmann in Jerusalem”, D. Villa (ed.), *The Cambridge Companion to Hannah Arendt (Cambridge Companions to Philosophy)*, Cambridge: Cambridge University Press.
-* –––, 2003, *The Reluctant Modernism of Hannah Arendt. New Edition with a New Preface and an Appendix*, New York: Rowman and Littlefield Publishers.
-* ––– (ed.), 2010, *Politics in Dark Times: Encounters with Hannah Arendt*, Cambridge: Cambridge University Press.
-* Berkowitz, R., Keenan, T. and Katz, J. (eds.), 2009, *Thinking in Dark Times: Hannah Arendt on Ethics and Politics*, New York: Fordham University Press.
-* Bernauer, J. (ed.), 1987, *Amor Mundi: Explorations in the Faith and Thought of Hannah Arendt*, Dordrecht: Martinus Nijhoff.
-* Bernstein, R., 1986, *Philosophical Profiles*, Cambridge: Polity Press.
-* –––, 1996, *Hannah Arendt and the Jewish Question*, Cambridge: Polity Press.
-* –––, 2000, “Arendt on thinking”, D. Villa (ed.), *The Cambridge Companion to Hannah Arendt*, Cambridge: Cambridge University Press.
-* –––, 2018, *Why Read Hannah Arendt Now?*, Cambridge: Polity Press.
-* Birmingham, P., 2006, *Hannah Arendt and Human Rights: The Predicament of Common Responsibility*, Bloomington: Indiana University Press.
-* Bowen-Moore, P., 1989, *Hannah Arendt’s Philosophy of Natality*, London: Macmillan.
-* Bradshaw, L., 1989, *Acting and Thinking: The Political Thought of Hannah Arendt*, Toronto: University of Toronto Press.
-* Calhoun, C. and McGowan, J. (eds.), 1997, *Hannah Arendt and the Meaning of Politics*, Minneapolis: University of Minnesota Press.
-* Canovan, M., 1974, *The Political Thought of Hannah Arendt*, London: J. M. Dent.
-* –––, 1992, *Hannah Arendt: A Reinterpretation of Her Political Thought*, Cambridge: Cambridge University Press.
-* Cesarani, D., 2006, *Becoming Eichmann: Rethinking the Life, Crimes and Trial of a “Desk Murderer”*, Cambridge, MA: Da Capo Press.
-* Dietz, M., 2002, *Turning Operations: Feminism, Arendt, and Politics*, New York and London: Routledge.
-* Disch, L., 1994, *Hannah Arendt and the Limits of Philosophy*, Ithaca: Cornell University Press.
-* Dossa, S., 1988, *The Public Realm and The Public Self: The Political Theory of Hannah Arendt*, Waterloo, Ontario: Wilfred Laurier University Press.
-* Ettinger, E., 1995, *Hannah Arendt/Martin Heidegger*, New Haven, CT: Yale University Press.
-* Gottsegen, M., 1993, *The Political Thought of Hannah Arendt*, Albany, NY: State University of New York Press.
-* Hansen, P., 1993, *Hannah Arendt: Politics, History and Citizenship*, Cambridge: Polity Press.
-* Hill, M. (ed.), 1979, *Hannah Arendt: The Recovery of the Public World*, New York: St. Martin’s Press.
-* Hinchman, L. and Hinchman, S. (eds.), 1994, *Hannah Arendt: Critical Essays*, Albany, NY: State University of New York Press.
-* Honig, B. (ed.), 1995, *Feminist Interpretations of Hannah Arendt*, University Park, PA: Pennsylvania State University Press.
-* Isaac, J., 1992, *Arendt, Camus, and Modern Rebellion*, New Haven, CT: Yale University Press.
-* Kaplan, G. and Kessler, C. (eds.), 1989, *Hannah Arendt: Thinking, Judging, Freedom*, Sydney: Allen & Unwin.
-* Kateb. G., 1984, *Hannah Arendt: Politics, Conscience, Evil*, Oxford: Martin Robertson.
-* Kielmansegg, P., Mewes, H. and Glaser-Schmidt, E. (eds.), 1995, *Hannah Arendt and Leo Strauss: German Emigrés and American Political Thought after World War II*, Cambridge: Cambridge University Press.
-* Kohn, J. and May, L. (eds.), 1996, *Hannah Arendt: Twenty Years Later*, Cambridge, MA: MIT Press.
-* Kristeva, J., 2001, *Hannah Arendt*, New York: Columbia University Press.
-* Lederman, S., 2016, “Philosophy, Politics and Participatory Democracy in Hannah Arendt’s Political Thought”, *History of Political Thought*, 37 (3): 480–508.
-* May, D., 1986, *Hannah Arendt*, Harmondsworth: Penguin Books.
-* McGowan, J., 1998, *Hannah Arendt: An Introduction*, Minneapolis: University of Minnesota Press.
-* Nedelsky, J., and Beiner, R. (eds.), 2001, *Judgment, Imagination, and Politics: Themes from Kant and Arendt*, New York: Rowman and Littlefield Publishers.
-* Parekh, B., 1981, *Hannah Arendt and the Search for a New Political Philosophy*, London: Macmillan.
-* Passerin d’Entrèves, M., 1994, *The Political Philosophy of Hannah Arendt*, New York and London: Routledge.
-* Pitkin, H., 1998, *The Attack of the Blob: Hannah Arendt’s Concept of the Social*, Chicago: University of Chicago Press.
-* Ring, J., 1997, *The Political Consequences of Thinking*, Albany, NY: State University of New York Press.
-* Stangneth, B., 2014, *Eichmann Before Jerusalem: The Unexamined Life of a Mass Murderer*, New York: Knopf Doubleday Publishing Group.
-* Taminiaux, J., 1997, *The Thracian Maid and the Professional Thinker: Arendt and Heidegger*, Albany, NY: State University of New York Press.
-* Tömmel, T. N., 2013, *Wille und Passion. Der Liebesbegriff bei Heidegger und Arendt*, Berlin: Suhrkamp.
-* Villa, D., 1996, *Arendt and Heidegger: The Fate of the Political*, Princeton: Princeton University Press.
-* –––, 1999, *Politics, Philosophy, Terror: Essays on the Thought of Hannah Arendt*, Princeton: Princeton University Press.
-* ––– (ed.), 2000, *The Cambridge Companion to Hannah Arendt*, Cambridge: Cambridge University Press.
-* Watson, D., 1992, *Hannah Arendt*, London: Fontana Press.
-* Whitfield, S., 1980, *Into the Dark: Hannah Arendt and Totalitarianism*, Philadelphia: Temple University Press.
-* Wolin, S., 1977, “Hannah Arendt and the Ordinance of Time,” *Social Research*, 44(1): 91–105.
-* Young-Bruehl, E., 1982, *Hannah Arendt: For Love of the World*, New Haven: Yale University Press. Second edition, 2004.
-* –––, 2006, *Why Arendt Matters*, New Haven, CT: Yale University Press.
+* Aschheim, S. (ed.), 2001, _Hannah Arendt in Jerusalem_, Berkeley: University of California Press.
+* Baehr, P., 2010, _Hannah Arendt, Totalitarianism, and the Social Sciences_, Stanford: Stanford University Press.
+* Baluch, F., 2014, “Arendt’s Machiavellian Moment”, _European Journal of Political Theory_, 13 (2): 154–177.
+* Barnouw, D., 1990, _Visible Spaces: Hannah Arendt and the German-Jewish Experience_, Baltimore: Johns Hopkins University Press.
+* Benhabib, S., 1996, _The Reluctant Modernism of Hannah Arendt_, London: Sage Publications.
+* –––, 2000, “Arendt’s Eichmann in Jerusalem”, D. Villa (ed.), _The Cambridge Companion to Hannah Arendt (Cambridge Companions to Philosophy)_, Cambridge: Cambridge University Press.
+* –––, 2003, _The Reluctant Modernism of Hannah Arendt. New Edition with a New Preface and an Appendix_, New York: Rowman and Littlefield Publishers.
+* ––– (ed.), 2010, _Politics in Dark Times: Encounters with Hannah Arendt_, Cambridge: Cambridge University Press.
+* Berkowitz, R., Keenan, T. and Katz, J. (eds.), 2009, _Thinking in Dark Times: Hannah Arendt on Ethics and Politics_, New York: Fordham University Press.
+* Bernauer, J. (ed.), 1987, _Amor Mundi: Explorations in the Faith and Thought of Hannah Arendt_, Dordrecht: Martinus Nijhoff.
+* Bernstein, R., 1986, _Philosophical Profiles_, Cambridge: Polity Press.
+* –––, 1996, _Hannah Arendt and the Jewish Question_, Cambridge: Polity Press.
+* –––, 2000, “Arendt on thinking”, D. Villa (ed.), _The Cambridge Companion to Hannah Arendt_, Cambridge: Cambridge University Press.
+* –––, 2018, _Why Read Hannah Arendt Now?_, Cambridge: Polity Press.
+* Birmingham, P., 2006, _Hannah Arendt and Human Rights: The Predicament of Common Responsibility_, Bloomington: Indiana University Press.
+* Bowen-Moore, P., 1989, _Hannah Arendt’s Philosophy of Natality_, London: Macmillan.
+* Bradshaw, L., 1989, _Acting and Thinking: The Political Thought of Hannah Arendt_, Toronto: University of Toronto Press.
+* Calhoun, C. and McGowan, J. (eds.), 1997, _Hannah Arendt and the Meaning of Politics_, Minneapolis: University of Minnesota Press.
+* Canovan, M., 1974, _The Political Thought of Hannah Arendt_, London: J. M. Dent.
+* –––, 1992, _Hannah Arendt: A Reinterpretation of Her Political Thought_, Cambridge: Cambridge University Press.
+* Cesarani, D., 2006, _Becoming Eichmann: Rethinking the Life, Crimes and Trial of a “Desk Murderer”_, Cambridge, MA: Da Capo Press.
+* Dietz, M., 2002, _Turning Operations: Feminism, Arendt, and Politics_, New York and London: Routledge.
+* Disch, L., 1994, _Hannah Arendt and the Limits of Philosophy_, Ithaca: Cornell University Press.
+* Dossa, S., 1988, _The Public Realm and The Public Self: The Political Theory of Hannah Arendt_, Waterloo, Ontario: Wilfred Laurier University Press.
+* Ettinger, E., 1995, _Hannah Arendt/Martin Heidegger_, New Haven, CT: Yale University Press.
+* Gottsegen, M., 1993, _The Political Thought of Hannah Arendt_, Albany, NY: State University of New York Press.
+* Hansen, P., 1993, _Hannah Arendt: Politics, History and Citizenship_, Cambridge: Polity Press.
+* Hill, M. (ed.), 1979, _Hannah Arendt: The Recovery of the Public World_, New York: St. Martin’s Press.
+* Hinchman, L. and Hinchman, S. (eds.), 1994, _Hannah Arendt: Critical Essays_, Albany, NY: State University of New York Press.
+* Honig, B. (ed.), 1995, _Feminist Interpretations of Hannah Arendt_, University Park, PA: Pennsylvania State University Press.
+* Isaac, J., 1992, _Arendt, Camus, and Modern Rebellion_, New Haven, CT: Yale University Press.
+* Kaplan, G. and Kessler, C. (eds.), 1989, _Hannah Arendt: Thinking, Judging, Freedom_, Sydney: Allen & Unwin.
+* Kateb. G., 1984, _Hannah Arendt: Politics, Conscience, Evil_, Oxford: Martin Robertson.
+* Kielmansegg, P., Mewes, H. and Glaser-Schmidt, E. (eds.), 1995, _Hannah Arendt and Leo Strauss: German Emigrés and American Political Thought after World War II_, Cambridge: Cambridge University Press.
+* Kohn, J. and May, L. (eds.), 1996, _Hannah Arendt: Twenty Years Later_, Cambridge, MA: MIT Press.
+* Kristeva, J., 2001, _Hannah Arendt_, New York: Columbia University Press.
+* Lederman, S., 2016, “Philosophy, Politics and Participatory Democracy in Hannah Arendt’s Political Thought”, _History of Political Thought_, 37 (3): 480–508.
+* May, D., 1986, _Hannah Arendt_, Harmondsworth: Penguin Books.
+* McGowan, J., 1998, _Hannah Arendt: An Introduction_, Minneapolis: University of Minnesota Press.
+* Nedelsky, J., and Beiner, R. (eds.), 2001, _Judgment, Imagination, and Politics: Themes from Kant and Arendt_, New York: Rowman and Littlefield Publishers.
+* Parekh, B., 1981, _Hannah Arendt and the Search for a New Political Philosophy_, London: Macmillan.
+* Passerin d’Entrèves, M., 1994, _The Political Philosophy of Hannah Arendt_, New York and London: Routledge.
+* Pitkin, H., 1998, _The Attack of the Blob: Hannah Arendt’s Concept of the Social_, Chicago: University of Chicago Press.
+* Ring, J., 1997, _The Political Consequences of Thinking_, Albany, NY: State University of New York Press.
+* Stangneth, B., 2014, _Eichmann Before Jerusalem: The Unexamined Life of a Mass Murderer_, New York: Knopf Doubleday Publishing Group.
+* Taminiaux, J., 1997, _The Thracian Maid and the Professional Thinker: Arendt and Heidegger_, Albany, NY: State University of New York Press.
+* Tömmel, T. N., 2013, _Wille und Passion. Der Liebesbegriff bei Heidegger und Arendt_, Berlin: Suhrkamp.
+* Villa, D., 1996, _Arendt and Heidegger: The Fate of the Political_, Princeton: Princeton University Press.
+* –––, 1999, _Politics, Philosophy, Terror: Essays on the Thought of Hannah Arendt_, Princeton: Princeton University Press.
+* ––– (ed.), 2000, _The Cambridge Companion to Hannah Arendt_, Cambridge: Cambridge University Press.
+* Watson, D., 1992, _Hannah Arendt_, London: Fontana Press.
+* Whitfield, S., 1980, _Into the Dark: Hannah Arendt and Totalitarianism_, Philadelphia: Temple University Press.
+* Wolin, S., 1977, “Hannah Arendt and the Ordinance of Time,” _Social Research_, 44(1): 91–105.
+* Young-Bruehl, E., 1982, _Hannah Arendt: For Love of the World_, New Haven: Yale University Press. Second edition, 2004.
+* –––, 2006, _Why Arendt Matters_, New Haven, CT: Yale University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arendt). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/arendt/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=arendt&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/arendt/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arendt).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/arendt/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=arendt\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/arendt/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* “[Hannah Arendt](http://www.iep.utm.edu/a/arendt.htm)”, entry by Majid Yar, in *The Internet Encyclopedia of Philosophy*
-* “[Hannah Arendt](http://www.wikipedia.org/wiki/Hannah_Arendt)”, entry in the Wikipedia.
+* “[Hannah Arendt](http://www.iep.utm.edu/a/arendt.htm)”, entry by Majid Yar, in _The Internet Encyclopedia of Philosophy_
+* “[Hannah Arendt](http://www.wikipedia.org/wiki/Hannah\_Arendt)”, entry in the Wikipedia.
 
 ## Related Entries
 
-[Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Benjamin, Walter](https://plato.stanford.edu/entries/benjamin/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Heidegger, Martin](https://plato.stanford.edu/entries/heidegger/) | [Hobbes, Thomas](https://plato.stanford.edu/entries/hobbes/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [Jaspers, Karl](https://plato.stanford.edu/entries/jaspers/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Machiavelli, Niccolò](https://plato.stanford.edu/entries/machiavelli/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Plato](https://plato.stanford.edu/entries/plato/)
+[Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Benjamin, Walter](https://plato.stanford.edu/entries/benjamin/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Heidegger, Martin](https://plato.stanford.edu/entries/heidegger/) | [Hobbes, Thomas](https://plato.stanford.edu/entries/hobbes/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [Jaspers, Karl](https://plato.stanford.edu/entries/jaspers/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Machiavelli, Niccolò](https://plato.stanford.edu/entries/machiavelli/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Plato](https://plato.stanford.edu/entries/plato/)
 
-[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
-Tatjana Tömmel <[*tatjana.noemi@gmx.de*](mailto:tatjana%2enoemi%40gmx%2ede)>  
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
+Tatjana Tömmel <[_tatjana.noemi@gmx.de_](mailto:tatjana%2enoemi%40gmx%2ede)>\
 Maurizio Passerin d’Entreves

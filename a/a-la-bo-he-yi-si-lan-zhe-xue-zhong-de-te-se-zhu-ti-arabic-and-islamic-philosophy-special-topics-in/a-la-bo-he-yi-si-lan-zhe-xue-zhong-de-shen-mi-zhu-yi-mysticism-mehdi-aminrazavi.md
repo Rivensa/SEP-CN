@@ -1,8 +1,8 @@
 # 阿拉伯和伊斯兰哲学中的神秘主义 mysticism (Mehdi Aminrazavi)
 
-*首次发表于 2009 年 3 月 7 日；实质性修订于 2021 年 1 月 19 日*
+_首次发表于 2009 年 3 月 7 日；实质性修订于 2021 年 1 月 19 日_
 
-在伊斯兰教的背景下，神秘主义传统上与*Ḥikmah*的概念交织在一起，后者既是智慧又是哲学（Nasr 1996）。神秘主义的源头和伊斯兰教中的神秘元素可以追溯到《古兰经》和伊斯兰教义本身。一些《古兰经》的经文被伊斯兰教的神秘主义者和哲学家-神秘主义者视为寓言和深奥的暗示，只有那些能够理解的人才能看到。“真主是外在的，也是内在的”（《古兰经》57:3），“给予智慧的人，他确实得到了丰富的善报”（《古兰经》2:269），以及著名的光明经文
+在伊斯兰教的背景下，神秘主义传统上与_Ḥikmah_的概念交织在一起，后者既是智慧又是哲学（Nasr 1996）。神秘主义的源头和伊斯兰教中的神秘元素可以追溯到《古兰经》和伊斯兰教义本身。一些《古兰经》的经文被伊斯兰教的神秘主义者和哲学家-神秘主义者视为寓言和深奥的暗示，只有那些能够理解的人才能看到。“真主是外在的，也是内在的”（《古兰经》57:3），“给予智慧的人，他确实得到了丰富的善报”（《古兰经》2:269），以及著名的光明经文
 
 > 真主是天地的光，他的光好像一个灯笼，灯笼里有一盏灯，灯笼好像一颗明亮的星，点燃于一棵受赐福的树上，这棵树既不属于东方，也不属于西方，它的油几乎可以发光，即使没有火接触；光明上加光明；真主引导他所愿意的人走向他的光明。真主为人类设立比喻，真主对万物都有知识。（《古兰经》24:35）
 
@@ -12,7 +12,7 @@
 
 * [1. 新柏拉图主义和苏菲主义](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#NeopSufi)
 * [2. 伊斯玛仪派传统](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#IsmaTrad)
-* [3. 哲学衰落时期和设拉子学派](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#)
+* [3. 哲学衰落时期和设拉子学派](https://plato.stanford.edu/entries/arabic-islamic-mysticism/)
 * [4. 伊斯法罕学派和穆拉·萨德拉](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#SchoIsfaMullSadr)
 * [5. 鲁米的案例](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#TheCase)
 * [6. 结论](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#Conc)
@@ -21,7 +21,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#Rel)
 
----
+***
 
 ## 1. 新柏拉图主义和苏菲主义
 
@@ -43,17 +43,17 @@
 
 加扎利是一位正统法学家，也是基于信仰的神学（阿什阿里派）的主要代表者，曾经学习过哲学，他认为辩证推理是建立在坚实基础上的，但很快就反对了哲学，并在他的《哲学家的无理性》（Tahāfut al-falāsifah）中对理性进行了毁灭性的批评。在对知识科学感到幻灭后，他在隐居中修行了多年，最终在苏菲传统中找到了答案。加扎利从正统法学家转变为苏菲的精神之旅，是一个非常引人注目的穆斯林智者从外在转向内在的伊斯兰生活，并发现苏菲主义是通往真理的唯一途径。他的后半生都在教学、写作和实践苏菲主义。
 
-加齐是为数不多的神秘主义者之一，他的苏菲主义包含了宗教正统、诺斯底智慧框架以及更实践和禁欲的灵性之路。与违反伊斯兰法（*Shari‘ah*）和其他苏菲主义者更放松的态度相反，加齐是伊斯兰法的严格和热心遵守者。
+加齐是为数不多的神秘主义者之一，他的苏菲主义包含了宗教正统、诺斯底智慧框架以及更实践和禁欲的灵性之路。与违反伊斯兰法（_Shari‘ah_）和其他苏菲主义者更放松的态度相反，加齐是伊斯兰法的严格和热心遵守者。
 
-他广泛地写作神秘主义，认为这是通往真理的唯一正确之路。他在神秘主义著作中的一部重要作品是《光之穴》（*Mishkāt al-anwār*），这是一部重要的启蒙主义作品，影响了苏赫拉瓦尔迪（Aminrazavi 1996）对启蒙主义教义的形成。此外，他的巨著《宗教科学的复兴》（*Iḥyā’ al-‘ulūm al-dīnī*）中的部分内容，如《宗教科学的复兴》第三十五卷：关于信仰上帝的统一和信任上帝的安排的书，基本上是对苏菲主义教义的阐释。他还写了许多关于禁食、祈祷、神圣名字和属性的呼唤，以及灵性音乐作为净化灵魂的工具的简短评论。
+他广泛地写作神秘主义，认为这是通往真理的唯一正确之路。他在神秘主义著作中的一部重要作品是《光之穴》（_Mishkāt al-anwār_），这是一部重要的启蒙主义作品，影响了苏赫拉瓦尔迪（Aminrazavi 1996）对启蒙主义教义的形成。此外，他的巨著《宗教科学的复兴》（_Iḥyā’ al-‘ulūm al-dīnī_）中的部分内容，如《宗教科学的复兴》第三十五卷：关于信仰上帝的统一和信任上帝的安排的书，基本上是对苏菲主义教义的阐释。他还写了许多关于禁食、祈祷、神圣名字和属性的呼唤，以及灵性音乐作为净化灵魂的工具的简短评论。
 
 ## 2. 伊斯玛仪派传统
 
-在伊斯梅利派方面，伊斯梅利派哲学家采用了赫密士主义的秘传教义和希腊-亚历山大的神秘教导。从一而生、禁欲主义、身体作为监狱，灵魂作为囚犯，进入诺斯教奥秘（*马里法*），层次解释属灵解释学（*塔维尔*），神圣几何学及其神秘象征主义，预言周期，以及什叶派伊玛目的启蒙作用，都是伊斯梅利哲学传统中许多神秘主题的一部分。在公元 10 至 11 世纪的伊斯梅利派中，最著名的人物之一是贾比尔·伊本·海扬（约 721 年-约 815 年），他更多地是一位科学家和化学家，因此在他的《石头之书》（*Kitāb al-aḥjār*）中，他对字母科学和受到毕达哥拉斯几何学影响的秘传数学概念进行了神秘解释。值得注意的是，他是一个名下可能收集了许多不同思想家作品的人物。阿布·亚库布·锡吉斯塔尼也是该运动中的一位著名人物，他在《揭示隐藏之物》（*Kashf al-maḥjūb*）和《泉水之书》（*Kitāb al-yanābi‘* ）中提供了对主要哲学和宗教问题的秘传评论（见纳斯尔和阿敏拉扎维 1999/2001）。锡吉斯塔尼的著作应被视为对灵魂飞向天堂状态的诺斯教义的精神评论，重点是上帝的唯一性、神圣和人类的智慧，以及不同类型的灵魂及其与身体的关系。在上述作品中，锡吉斯塔尼系统地处理了创造的概念、先知作为灵性导师的角色以及他们教导的隐藏象征主义。当一个人从伊斯兰教的外在层面走向内在和秘传层面时，他获得了理解先知教导象征主义的关键意识。在这方面，其他重要人物和秘传神秘文本包括阿布·哈辛·拉兹（811 年-891 年）的《预言科学》（*A‘lām al-nubuwwah*），他在其中将流出的概念应用于宇宙学的“成为”（*kun*），并对人类灵魂如何成为完美的更高灵魂进行了神秘评论。
+在伊斯梅利派方面，伊斯梅利派哲学家采用了赫密士主义的秘传教义和希腊-亚历山大的神秘教导。从一而生、禁欲主义、身体作为监狱，灵魂作为囚犯，进入诺斯教奥秘（_马里法_），层次解释属灵解释学（_塔维尔_），神圣几何学及其神秘象征主义，预言周期，以及什叶派伊玛目的启蒙作用，都是伊斯梅利哲学传统中许多神秘主题的一部分。在公元 10 至 11 世纪的伊斯梅利派中，最著名的人物之一是贾比尔·伊本·海扬（约 721 年-约 815 年），他更多地是一位科学家和化学家，因此在他的《石头之书》（_Kitāb al-aḥjār_）中，他对字母科学和受到毕达哥拉斯几何学影响的秘传数学概念进行了神秘解释。值得注意的是，他是一个名下可能收集了许多不同思想家作品的人物。阿布·亚库布·锡吉斯塔尼也是该运动中的一位著名人物，他在《揭示隐藏之物》（_Kashf al-maḥjūb_）和《泉水之书》（_Kitāb al-yanābi‘_ ）中提供了对主要哲学和宗教问题的秘传评论（见纳斯尔和阿敏拉扎维 1999/2001）。锡吉斯塔尼的著作应被视为对灵魂飞向天堂状态的诺斯教义的精神评论，重点是上帝的唯一性、神圣和人类的智慧，以及不同类型的灵魂及其与身体的关系。在上述作品中，锡吉斯塔尼系统地处理了创造的概念、先知作为灵性导师的角色以及他们教导的隐藏象征主义。当一个人从伊斯兰教的外在层面走向内在和秘传层面时，他获得了理解先知教导象征主义的关键意识。在这方面，其他重要人物和秘传神秘文本包括阿布·哈辛·拉兹（811 年-891 年）的《预言科学》（_A‘lām al-nubuwwah_），他在其中将流出的概念应用于宇宙学的“成为”（_kun_），并对人类灵魂如何成为完美的更高灵魂进行了神秘评论。
 
-此外，还必须提到哈米德·丁·克尔马尼（996 年-1021 年），以及他关于苏菲主义和诺斯教义的众多著作，其中最著名的是他的《智慧的安息》（*Rāḥat al-‘aql*）。作为一位杰出的伊斯梅利派哲学家，他被一些人视为“伊斯梅利派的伊本·西那”，他认为真理的理解基于两个前提。首先，一个人必须过上道德美德的生活，其次，修行者必须在哲学上做好准备。《智慧的安息》的章节被称为“墙”（*aswar*），段落被称为“路径”（*mash*​***ā***​*ri*‘）。新手必须穿越七堵墙内的五十六条路径，以使灵魂获得对真实的认知。根据克尔马尼的观点，真实分为四个不同的层次：第一是神圣创造的世界或非物质世界（ *‘al*​***ā***​*m al-ibd*​***ā***​ *‘* ），第二是有形世界（ *‘*​***ā***​*lam al-jism*），第三是宗教领域（ *‘al*​***ā***​*m al-d*​***ī***​*n*），最后是世界回归到与上帝的原初统一（Baumstark 1932；Corbin 1961；Corbin 1964, 130–1；Hunzai 1986）。
+此外，还必须提到哈米德·丁·克尔马尼（996 年-1021 年），以及他关于苏菲主义和诺斯教义的众多著作，其中最著名的是他的《智慧的安息》（_Rāḥat al-‘aql_）。作为一位杰出的伊斯梅利派哲学家，他被一些人视为“伊斯梅利派的伊本·西那”，他认为真理的理解基于两个前提。首先，一个人必须过上道德美德的生活，其次，修行者必须在哲学上做好准备。《智慧的安息》的章节被称为“墙”（_aswar_），段落被称为“路径”（_mash_​_**ā**_​_ri_‘）。新手必须穿越七堵墙内的五十六条路径，以使灵魂获得对真实的认知。根据克尔马尼的观点，真实分为四个不同的层次：第一是神圣创造的世界或非物质世界（ _‘al_​_**ā**_​_m al-ibd_​_**ā**_​ _‘_ ），第二是有形世界（ _‘​**ā**_​_lam al-jism_），第三是宗教领域（ _‘al_​_**ā**_​_m al-d_​_**ī**_​_n_），最后是世界回归到与上帝的原初统一（Baumstark 1932；Corbin 1961；Corbin 1964, 130–1；Hunzai 1986）。
 
-也许伊斯梅利派传统中最重要的人物，既是诗人又是哲学家，是纳西尔·库斯劳（1004 年-约 1072 年）。无论是在他的神秘和教诲诗集《迪凡》中，还是在他的神秘东方作品《两种智慧之总和》（*Jāmi‘ al-ḥikmattayīn*）和《知识与解脱》（*Gushāyesh wa rahāyesh*）中，他都不知疲倦地提供有关灵魂净化和追求灵性之旅的建议。纳西尔·库斯劳试图在他的《两种智慧之总和》中调和苏菲主义和理性，他认为“真正宗教的智者”（*ḥukamāy-i dīn-i ḥaqq*）和哲学家是一致的。对于纳西尔·库斯劳来说，灵魂科学是获得真正知识的途径，这种知识超越了感知者和感知之间的差异。他写道：
+也许伊斯梅利派传统中最重要的人物，既是诗人又是哲学家，是纳西尔·库斯劳（1004 年-约 1072 年）。无论是在他的神秘和教诲诗集《迪凡》中，还是在他的神秘东方作品《两种智慧之总和》（_Jāmi‘ al-ḥikmattayīn_）和《知识与解脱》（_Gushāyesh wa rahāyesh_）中，他都不知疲倦地提供有关灵魂净化和追求灵性之旅的建议。纳西尔·库斯劳试图在他的《两种智慧之总和》中调和苏菲主义和理性，他认为“真正宗教的智者”（_ḥukamāy-i dīn-i ḥaqq_）和哲学家是一致的。对于纳西尔·库斯劳来说，灵魂科学是获得真正知识的途径，这种知识超越了感知者和感知之间的差异。他写道：
 
 在认识者和被认识者之间。
 
@@ -63,7 +63,7 @@
 
 纳西尔·胡斯劳提供了具体的指导，告诉新手如何遵循精神之路，并依靠特定的禁欲修行。与圣奥古斯丁和圣方济各的形象类似，纳西尔·胡斯劳在生命的早期过着享乐主义的生活，但经历了一次精神上的变化，并将自己奉献给苏菲之道。他的作品中可以看到他生活的两个阶段的回响（Hunsburger 2000）。
 
-还有一些伊斯玛仪派传统的百科全书作品，作者不详。其中许多涉及神秘和苏菲思想。在传播诺斯底思想方面有影响的作品包括《纯洁兄弟会》（*Ikhwān al-ṣafā*）和《书之母（Umm al-kitāb*）》（Daftary 1990; Nasr & Aminrazavi 1999/2001）。
+还有一些伊斯玛仪派传统的百科全书作品，作者不详。其中许多涉及神秘和苏菲思想。在传播诺斯底思想方面有影响的作品包括《纯洁兄弟会》（_Ikhwān al-ṣafā_）和《书之母（Umm al-kitāb\*）》（Daftary 1990; Nasr & Aminrazavi 1999/2001）。
 
 ## 3. “哲学衰落时期”和设拉子学派
 
@@ -71,7 +71,7 @@
 
 在西班牙出生的哲学神秘主义大师中，伊本·马萨拉（883-931 年）是最杰出的一位。他是一个苦行者，他对灵魂与上帝的合一的神秘追求的观点是他哲学神秘主义的一个重要主题。其他人包括伊本·哈兹姆（994-1064 年），他强调神秘的爱；伊本·巴贾（1095-1138 年），他将智性和神秘直觉的概念视为体验神圣实相的能力；巴达霍斯的伊本·西德（1052-1127 年），他发展了一种被一些人称为数学神秘主义的理论；以及伊本·图费尔（约 1105-1185 年），他的神秘寓言《醒来的生命之子》（Ḥayy ibn Yaqẓān）和他关于主动智性的概念，使他成为伊斯兰哲学传统中神秘主义的主要代表。最后还有苏菲哲学家伊本·萨布因（1217-1268 年），他努力在系统地处理神秘主题中实现哲学和苏菲主义的和解。
 
-尽管上述人物的重要性不容忽视，但他们中没有人达到诗人和哲学家苏菲主义大师谢赫·穆希丁·伊本·阿拉伯（1165-1240 年）的卓越地位，他经常被称为谢赫·阿克巴尔（伟大的大师）。伊本·阿拉伯的百科全书式著作《智慧的镶嵌物》（*Fuṣūṣ al-ḥakam*）和《麦加的胜利》（*Futuḥāt al-Makkiyah*）为我们提供了伊斯兰神秘文学中最复杂的神秘范式之一。伊本·阿拉伯的哲学神秘主义提供了一个广泛的诗人和苏菲思想的综合，以及一种哲学论述形式，首次明确阐述了苏菲教义。在伊本·阿拉伯的著作中，我们看到了一种关于诗人、宇宙学和心理学各个方面的完整形而上学评论的巨大努力，从而提供了一个实现需要修行苏菲之路的现实愿景。伊本·阿拉伯的哲学神秘主义建筑是一种精神诠释学（*ta’wīl*）的过程，它依靠象征语言引导初学者从外在（*ẓāhir*）走向内在（*bāṭin*）。对于伊本·阿拉伯来说，整个宇宙都代表着能够进行象征解释的符号（*ayāt*），这个过程的顶峰是普遍人（*al-insān al-kāmil*）。伊本·阿拉伯的存在统一学（*waḥdat al-wūjūd*）被许多人解释为泛神论，但他仍然小心地辩称，尽管上帝存在于万物之中，但世界“并不”存在于上帝之中。对于伊本·阿拉伯来说，人类是小宇宙，宇宙是大宇宙；普遍人是那个实现了他所有内在潜能的人，包括《古兰经》所说的上帝在创世之初吹入人体的神圣气息。对于伊本·阿拉伯来说，灵魂内部对上帝的精神实现导致与上帝的合一（参见纳斯尔 1964 年；奇蒂克 1989 年和 2007 年）。
+尽管上述人物的重要性不容忽视，但他们中没有人达到诗人和哲学家苏菲主义大师谢赫·穆希丁·伊本·阿拉伯（1165-1240 年）的卓越地位，他经常被称为谢赫·阿克巴尔（伟大的大师）。伊本·阿拉伯的百科全书式著作《智慧的镶嵌物》（_Fuṣūṣ al-ḥakam_）和《麦加的胜利》（_Futuḥāt al-Makkiyah_）为我们提供了伊斯兰神秘文学中最复杂的神秘范式之一。伊本·阿拉伯的哲学神秘主义提供了一个广泛的诗人和苏菲思想的综合，以及一种哲学论述形式，首次明确阐述了苏菲教义。在伊本·阿拉伯的著作中，我们看到了一种关于诗人、宇宙学和心理学各个方面的完整形而上学评论的巨大努力，从而提供了一个实现需要修行苏菲之路的现实愿景。伊本·阿拉伯的哲学神秘主义建筑是一种精神诠释学（_ta’wīl_）的过程，它依靠象征语言引导初学者从外在（_ẓāhir_）走向内在（_bāṭin_）。对于伊本·阿拉伯来说，整个宇宙都代表着能够进行象征解释的符号（_ayāt_），这个过程的顶峰是普遍人（_al-insān al-kāmil_）。伊本·阿拉伯的存在统一学（_waḥdat al-wūjūd_）被许多人解释为泛神论，但他仍然小心地辩称，尽管上帝存在于万物之中，但世界“并不”存在于上帝之中。对于伊本·阿拉伯来说，人类是小宇宙，宇宙是大宇宙；普遍人是那个实现了他所有内在潜能的人，包括《古兰经》所说的上帝在创世之初吹入人体的神圣气息。对于伊本·阿拉伯来说，灵魂内部对上帝的精神实现导致与上帝的合一（参见纳斯尔 1964 年；奇蒂克 1989 年和 2007 年）。
 
 在公元 12 世纪的“哲学活动衰退期”中，最显著的人物是哲学家兼神秘主义者沙赫·希哈·丁·苏赫拉瓦迪，他是启蒙学派（伊斯哈克）的创始人。苏赫拉瓦迪是一个经院派哲学家，他主要以亚里士多德传统为基础写作了四部重要著作。他还以一种特殊的秘传传统写作了许多作品，使用他所称的“启蒙之语”（lisān al-ishrāq）。在他的启蒙主义著作中，苏赫拉瓦迪依赖于新柏拉图主义，但用光明和照明等概念取代了存在和实在等概念，从而提供了一种可以称之为阿维森哲学的诺斯底启蒙主义版本（Aminrazavi 2003）。他在他的主要著作《启蒙哲学》（Ḥikmat al-ishrāq）中阐述了他的启蒙主义教义。
 
@@ -97,11 +97,11 @@
 
 在接下来的两个世纪里，尽管出现了几个王朝的兴衰，印度哲学家的赞助总体上没有改变。苏菲的赞助在蒙古时期达到了新的高度，蒙古统治者对苏菲传统的各种表现形式特别感兴趣，尤其是哲学、诗歌和视觉艺术。著名的波斯哲学家塔夫塔扎尼（约 1322-1390 年）和朱尔加尼（1097-1127 年）在此时前往印度。他们之后又有米尔·法特·阿拉·希拉兹（Mir Fatḥ Allāh Shirāzī）等人，他改革了教育课程，强调了他波斯老师的神秘哲学教义。
 
-哲学的神秘主义在印度北部的伊斯兰哲学传统中延续下来，代表人物包括哈吉·穆罕默德·巴基·比拉（1563 年出生），一位著名的神秘主义者和纳克什班迪苏菲教派的创始人，以及他的学生谢赫·艾哈迈德·西林迪（1564-1624 年），他是“意识的统一”（*waḥdat al-shuhūd*）学说的倡导者，也是《书信集》（*Maktubāt*）的作者。印巴地区的其他穆斯林哲学家也融入了神秘主义，包括穆拉·阿卜杜勒·哈基姆·锡亚尔科蒂、穆拉·马哈茂德·朱普里·法鲁基和米尔扎·穆罕默德·扎希德·哈拉维（1603-1652 年），他成为苏赫拉瓦尔迪的启蒙哲学的倡导者；而最著名的哲学家兼神秘主义者可能是沙·瓦利乌拉，他生活在公元 18 世纪。瓦利乌拉试图调和伊本·阿拉比的“存在的统一”（*waḥdat al-wūjūd*）学说和西林迪的“意识的统一”（*waḥdat al-shuhūd*）学说。除了他关于苏菲形而上学基础的众多著作外，瓦利乌拉还应该因为使神秘主义学说合法化而受到赞誉，尽管正统法学家将苏菲主义视为异端。
+哲学的神秘主义在印度北部的伊斯兰哲学传统中延续下来，代表人物包括哈吉·穆罕默德·巴基·比拉（1563 年出生），一位著名的神秘主义者和纳克什班迪苏菲教派的创始人，以及他的学生谢赫·艾哈迈德·西林迪（1564-1624 年），他是“意识的统一”（_waḥdat al-shuhūd_）学说的倡导者，也是《书信集》（_Maktubāt_）的作者。印巴地区的其他穆斯林哲学家也融入了神秘主义，包括穆拉·阿卜杜勒·哈基姆·锡亚尔科蒂、穆拉·马哈茂德·朱普里·法鲁基和米尔扎·穆罕默德·扎希德·哈拉维（1603-1652 年），他成为苏赫拉瓦尔迪的启蒙哲学的倡导者；而最著名的哲学家兼神秘主义者可能是沙·瓦利乌拉，他生活在公元 18 世纪。瓦利乌拉试图调和伊本·阿拉比的“存在的统一”（_waḥdat al-wūjūd_）学说和西林迪的“意识的统一”（_waḥdat al-shuhūd_）学说。除了他关于苏菲形而上学基础的众多著作外，瓦利乌拉还应该因为使神秘主义学说合法化而受到赞誉，尽管正统法学家将苏菲主义视为异端。
 
 ## 4. 伊斯法罕学派和穆拉·萨德拉
 
-回到波斯，16 世纪伊斯法罕学派的出现，其创始人是与伟大的苏菲大师萨菲·阿尔丁·阿尔达比利（1252-1334 年）有关的苏菲修行者。在那里，苏菲教义、哲学和禁欲主义在一个哲学范式中达到了巅峰。所谓“伊斯法罕学派”的最重要问题是“存在的实在”（*ḥaqiqat al-wūjūd*）与“存在的概念”（*mafhūm al-wūjūd*）的对立。
+回到波斯，16 世纪伊斯法罕学派的出现，其创始人是与伟大的苏菲大师萨菲·阿尔丁·阿尔达比利（1252-1334 年）有关的苏菲修行者。在那里，苏菲教义、哲学和禁欲主义在一个哲学范式中达到了巅峰。所谓“伊斯法罕学派”的最重要问题是“存在的实在”（_ḥaqiqat al-wūjūd_）与“存在的概念”（_mafhūm al-wūjūd_）的对立。
 
 伊斯法罕学派的创始人米尔达玛德（公元 1631 或 1632 年去世）是苏赫拉瓦尔迪（Suhrawardī）启蒙哲学的追随者，甚至选择了笔名“ishrāq”（照明）。他不仅在他的主要作品《火花》（al-Qabasāt）中广泛论述了神秘主义的形而上学基础，还在他的《狂喜》（Al-Jadhawāt）、《天堂神秘状态》（Khalsat al-malakūt）和《分离》（al-Khl‘iyyāt）中写了神秘主义诗歌。尽管米尔达玛德广泛地写了关于周游哲学，特别是时间概念的著作，但他对亚维哲学进行了一种诺斯底解释，这是值得称赞的。他的哲学-神秘结构基于本质的首要性，为灵魂的上升和最终与其源的统一提供了知识框架。
 
@@ -109,11 +109,11 @@
 
 他的巨著《智慧的四个旅程》（al-Asfār al-arba‘āt al-‘aqliyyah）是一部哲学和诺斯底学的高水平阐述，详细讨论了灵魂从上帝到上帝的下降和上升之旅。这部作品是诺斯底学、哲学和神秘主义的百科全书，包含了伊本·阿拉伯和其他哲学家-神秘主义者迄今为止的许多成果。对于穆拉·萨德拉来说，创造代表着四个旅程：第一是降落，其中统一变为多样性，接着是人类的旅程，在这个旅程中，分离的痛苦引发了对原始住所的存在渴望。根据穆拉·萨德拉的观点，人通过苏菲主义和诺斯底主义的道路进行精神上的上升，构成了这个旅程的第三部分，直到再次实现统一。最后是在神圣领域中的逗留，从真理（ḥaqq）到真理，只有少数精神精英才能体验到的境地。
 
-穆拉·萨德拉可以被视为通过神秘主义和不脱离理性的智慧来复兴真正的神秘主义智慧的人。穆拉·萨德拉广泛运用逻辑分析和证明，这些分析和证明基于他所称的“启示原则”（*qā‘idah ishraqiyyah*）；也就是说，已经进入心灵的东西（*al-varidāt al-qalbiyyah*），或者是“神圣实现的知识”（*taḥqīq ‘arshī*）。
+穆拉·萨德拉可以被视为通过神秘主义和不脱离理性的智慧来复兴真正的神秘主义智慧的人。穆拉·萨德拉广泛运用逻辑分析和证明，这些分析和证明基于他所称的“启示原则”（_qā‘idah ishraqiyyah_）；也就是说，已经进入心灵的东西（_al-varidāt al-qalbiyyah_），或者是“神圣实现的知识”（_taḥqīq ‘arshī_）。
 
-一些表明他致力于哲学神秘主义的作品有《形而上学的洞察》（*al-Mashāri‘* ）、《宝座的智慧》（*Ḥikmat al-‘arshiyah*）、《知者与所知的统一》（*Ittiḥād al-‘āqil wa’l-ma‘qūl*）和《古兰经经文的奥秘》（*Asrār al-āyāt*），这是对著名光明经文的灵性注释。
+一些表明他致力于哲学神秘主义的作品有《形而上学的洞察》（_al-Mashāri‘_ ）、《宝座的智慧》（_Ḥikmat al-‘arshiyah_）、《知者与所知的统一》（_Ittiḥād al-‘āqil wa’l-ma‘qūl_）和《古兰经经文的奥秘》（_Asrār al-āyāt_），这是对著名光明经文的灵性注释。
 
-穆拉·萨德拉对伊斯兰哲学产生了不可磨灭的影响，尤其是对哲学和神秘主义之间的关系产生了影响，使神秘主义的整合成为哲学的一部分。他的学生们将他的哲学遗产延续到了现代。阿卜杜勒·拉扎克·拉希吉（公元 1661-1662 年去世）对《花园的奥秘》（*Sharḥ-i gulshan-i rāz*）进行了评论，这是对灵性之路以及一个人在苏菲之路的状态和阶段迷宫中的旅程的详细阐述。米尔·芬迪里斯基（公元 1640-1641 年去世）对《瑜伽瓦伊希舍》进行了神秘的评论，穆拉·穆赫辛·费德·卡沙尼（公元 1680 年去世）写了一篇神秘论文，题为《隐藏的话语》（*Kalimāt-i maknunah*），以及《神圣的认识》（*al-Ma‘ārif al-ilāhiyyah*）。卡迪·赛义德·库米（公元 1696 年去世），穆拉·萨德拉的另一位学生，也是一个坚定的新柏拉图主义者，撰写了许多神秘论文，如《崇拜的奥秘》（*Asrār al-‘ibādāt*）以及一部名为《对恩尼阿德的评论》（*Ta‘liqāt bar Uthūlūjiyā*）的重要的灵性作品，即伪亚里士多德的《亚里士多德神学》，源自普罗提诺斯的《恩尼阿德》（参见彼得·亚当森的《亚里士多德神学》）。
+穆拉·萨德拉对伊斯兰哲学产生了不可磨灭的影响，尤其是对哲学和神秘主义之间的关系产生了影响，使神秘主义的整合成为哲学的一部分。他的学生们将他的哲学遗产延续到了现代。阿卜杜勒·拉扎克·拉希吉（公元 1661-1662 年去世）对《花园的奥秘》（_Sharḥ-i gulshan-i rāz_）进行了评论，这是对灵性之路以及一个人在苏菲之路的状态和阶段迷宫中的旅程的详细阐述。米尔·芬迪里斯基（公元 1640-1641 年去世）对《瑜伽瓦伊希舍》进行了神秘的评论，穆拉·穆赫辛·费德·卡沙尼（公元 1680 年去世）写了一篇神秘论文，题为《隐藏的话语》（_Kalimāt-i maknunah_），以及《神圣的认识》（_al-Ma‘ārif al-ilāhiyyah_）。卡迪·赛义德·库米（公元 1696 年去世），穆拉·萨德拉的另一位学生，也是一个坚定的新柏拉图主义者，撰写了许多神秘论文，如《崇拜的奥秘》（_Asrār al-‘ibādāt_）以及一部名为《对恩尼阿德的评论》（_Ta‘liqāt bar Uthūlūjiyā_）的重要的灵性作品，即伪亚里士多德的《亚里士多德神学》，源自普罗提诺斯的《恩尼阿德》（参见彼得·亚当森的《亚里士多德神学》）。
 
 上述作品都是萨德里哲学的延续，进一步阐述了超越论神秘学的细微之处，这种神秘学坚定地基于存在优于本质、分级和多样性中呈现的统一性的原则。问题是如何超越作为众多物体的世界，看到多样性核心的统一性。苏赫拉瓦尔迪和萨德里的回答是，实践智慧和超越辩证推理的直觉相结合，使人能够看到多样性核心的统一性。
 
@@ -176,7 +176,7 @@
 * 从那个年幼的孩子那里，一个思想会涌现出来
 * 而一个有着丰富经验的智者却毫无察觉 (尼科尔森, III: 1539–43)
 
- 再次，鲁米断言：
+再次，鲁米断言：
 
 > 通过欺骗和狡诈而知晓的动物人……
 
@@ -236,9 +236,9 @@
 
 > 这些狂野的幻想在人们的头脑中产生（尼科尔森，I：3278-81）
 
-鲁米和一些哲学家所认同的是直觉能力的存在，这种能力通常与普遍智慧联系在一起。根据鲁米的说法，这种能力必须通过修行神秘之路的艰难过程来“唤醒”，从而导致五个*内在的灵性感官*的觉醒，这些感官与五个外在的物理感官相辅相成。所有的十个感官都受到象征性的“心脏”的控制，这是超感官知觉的器官。
+鲁米和一些哲学家所认同的是直觉能力的存在，这种能力通常与普遍智慧联系在一起。根据鲁米的说法，这种能力必须通过修行神秘之路的艰难过程来“唤醒”，从而导致五个_内在的灵性感官_的觉醒，这些感官与五个外在的物理感官相辅相成。所有的十个感官都受到象征性的“心脏”的控制，这是超感官知觉的器官。
 
-> 除了这五个[物理]感官之外，还有五个[灵性]感官
+> 除了这五个\[物理]感官之外，还有五个\[灵性]感官
 
 > 前者就像红金，后者就像铜。
 
@@ -273,60 +273,61 @@
 成为伊斯兰世界哲学中神秘主义哲学倡导者的穆斯林哲学家数量太多，无法在此一一列举，但显然神秘主义是一种活跃的传统，继续在穆斯林世界的哲学中占据中心舞台。要完全概括伊斯兰哲学传统中所有神秘主义传统几乎是不可能的，然而这样的传统在几乎每个穆斯林国家今天都存在（参见 Kiliç 1996）。
 
 神秘主义对伊斯兰哲学的影响是如此深远，以至于它改变了哲学的本质和定义。在伊斯兰传统中，哲学的事业被大多数人视为不仅仅是一种智力锻炼，而是灵魂在追求真理的精神旅程中的智力维度。根据穆斯林哲学家-神秘主义者的观点，真正的哲学因此致力于对那些传统上属于神秘领域的问题提供理性的评论。
+
 ## Bibliography
 
 ### Primary Works
 
-* Ashtiyānī, Mehdi, 1973. *Commentary on Sabzawārī’s “Sharḥ-i manẓumah”*, A. Falaturi and M. Mohaghegh (eds.), Tehran.
-* Sabzavārī, M. H., 1969. *Sharḥ-i manẓumah*, Toshihiko Izutsu and Mehdi Mohaghegh (eds.), Tehran: Tehran University Press.
-* Shirazi, Mullā Ṣadrā, 2004. *On the Hermeneutics of the Light Verse of the Quran*, translated, introduced and commentary by Latimah-Parvin Peerwani, London: Islamic College for Advanced Studies Press.
+* Ashtiyānī, Mehdi, 1973. _Commentary on Sabzawārī’s “Sharḥ-i manẓumah”_, A. Falaturi and M. Mohaghegh (eds.), Tehran.
+* Sabzavārī, M. H., 1969. _Sharḥ-i manẓumah_, Toshihiko Izutsu and Mehdi Mohaghegh (eds.), Tehran: Tehran University Press.
+* Shirazi, Mullā Ṣadrā, 2004. _On the Hermeneutics of the Light Verse of the Quran_, translated, introduced and commentary by Latimah-Parvin Peerwani, London: Islamic College for Advanced Studies Press.
 
 ### Secondary Works
 
-* Afifi, A.E., 1951. “The Influence of Hermetic Literature on Moslem Thought.” *Bulletin of the School of Oriental and African Studies*, 13 (4): 840–855.
-* Aminrazavi, M., 1994. “The Significance of Suhrawardī’s Persian Sufi Writings in the Philosophy of Illumination.” in *Classical* *Persian Sufism: From Its Origin to Rumi*, ed. L. Lewisohn, London: KNP Press, pp. 259–283.
-* –––, 1996. *Suhrawardī and the School of Illumination*, London: Curzon Press.
-* –––, 2003. “The Logic of Orientals: Whose Logic and Which Orient?” in *Beacon of Knowledge: Essays in Honor of S. H. Nasr*, M. H. Faghfouri (ed.), Louisville, KY: Fons Vitae, pp. 41–49.
-* –––, 2003. “How Avicennian was Suhrawardī’s Theory of Knowledge?” *Philosophy, East & West*, 53 (2): 203–214.
-* Baumstark, A., 1932. “Zu den Schriftzitaten al-Kirmānīs”, in *Der Islam*, 20: 308–13; in C. Brockelmann, *Geschichte der Arabischen Litteratur*, Volume I, Leiden: Brill, 1943, pp. 325–6.
-* Chittick, W. C., 2007. Ibn Arabī, *Ibn Arabī’s Metaphysics of Imagination*, Oxford: Oneworld Press.
-* –––, 1989. *The Sufi Path of Knowledge*, Albany, NY: SUNY Press.
-* –––, 2001. *The Heart of Islamic Philosophy: The Quest for Self-Knowledge in the Teachings of Afḍal al-Dīn Kāshanī*. New York: Oxford University Press, 2001.
-* Corbin, H., 1980. *Avicenna and the Visionary Recital*. W.R. Trask (trans.), Princeton: Princeton University Press.
-* –––, 1961. *Trilogie ismaelienne*, Tehran-Paris: L’Institut Franco-Iranien and Adrien-Maisonneuve.
-* –––, 1964. *Histoire de la philosophie islamique*, Paris: Gallimard.
-* Daftary, F., 1990. *The Ismā‘īlīs: Their History and Doctrine*, Cambridge: Cambridge University Press.
-* Gutas, D., 2000. “Avicenna’s Eastern (‘Oriental’) Philosophy: Nature Contents, Transmission.” *Arabic Sciences and Philosophy*, 10: 159–180.
-* –––, 2006. “Intellect Without Limits: The Absence of Mysticism in Avicenna,” in M. Cândida-Pacheco and J. Francisco-Meirinhos (eds), *Intellect et Imagination dans la Philosophie Médiévale*, Brepols: Turnhout, Volume 1, 351–72.
-* Ha’irī, Y. M., 1992. *Principles of Epistemology in Islamic Philosophy: Knowledge by Presence*, Albany, NY: SUNY Press.
-* Houben, J.J., 1956. “Avicenna on Mysticism,” *Avicenna Commemoration Volume*, Calcutta: Iran Society.
-* Hunzai, F. M., 1986. *The Concept of Tawḥid in the Thought of Ḥamid al-Dīn al-Kirmānī*, Ph.D. Dissertation, McGill University.
-* Hunsburger, A.C., 2000. *Nasir Khusraw:The Ruby of Badakhshan*, London: I.B. Tauris.
-* Inati, Sh., 1996. *Ibn Sina and Mysticism*, New York, London: Kegan Paul International.
-* Kiliç, M. E., 1996. “Mysticism” in *History of Islamic Philosophy*, Part I, S.H. Nasr and O. Leaman (eds.), London: Routledge Press, pp. 947–958.
-* Nwyia, P., 1970. *Exègése coranique et langage mystique*, Beirut.
-* Nasr, S.H. & Aminrazavi, M., 1999/2001. *An Anthology of Philosophy in Persia*, Volumes 1 & 2, New York: Oxford University Press.
-* –––, 1996. “Introduction to the Mystical Tradition” in *History of Islamic Philosophy*, Part I, S.H. Nasr and O. Leaman (eds.), London: Routledge, pp. 367–373.
-* –––, 1964, *Three Muslim Sages*, Cambridge, MA: Harvard University Press.
-* –––, 1967. “Hermes and Hermetic Writings in the Islamic World.” *Islamic Studies*, Beirut.
-* Nasr, S.H. and Leaman, O., 1996. *History of Islamic Philosophy*, London and New York: Routledge.
-* Schimmel, A., 1975. *Mystical Dimensions of Islam*. Chapel Hill: University of North Carolina Press.
+* Afifi, A.E., 1951. “The Influence of Hermetic Literature on Moslem Thought.” _Bulletin of the School of Oriental and African Studies_, 13 (4): 840–855.
+* Aminrazavi, M., 1994. “The Significance of Suhrawardī’s Persian Sufi Writings in the Philosophy of Illumination.” in _Classical_ _Persian Sufism: From Its Origin to Rumi_, ed. L. Lewisohn, London: KNP Press, pp. 259–283.
+* –––, 1996. _Suhrawardī and the School of Illumination_, London: Curzon Press.
+* –––, 2003. “The Logic of Orientals: Whose Logic and Which Orient?” in _Beacon of Knowledge: Essays in Honor of S. H. Nasr_, M. H. Faghfouri (ed.), Louisville, KY: Fons Vitae, pp. 41–49.
+* –––, 2003. “How Avicennian was Suhrawardī’s Theory of Knowledge?” _Philosophy, East & West_, 53 (2): 203–214.
+* Baumstark, A., 1932. “Zu den Schriftzitaten al-Kirmānīs”, in _Der Islam_, 20: 308–13; in C. Brockelmann, _Geschichte der Arabischen Litteratur_, Volume I, Leiden: Brill, 1943, pp. 325–6.
+* Chittick, W. C., 2007. Ibn Arabī, _Ibn Arabī’s Metaphysics of Imagination_, Oxford: Oneworld Press.
+* –––, 1989. _The Sufi Path of Knowledge_, Albany, NY: SUNY Press.
+* –––, 2001. _The Heart of Islamic Philosophy: The Quest for Self-Knowledge in the Teachings of Afḍal al-Dīn Kāshanī_. New York: Oxford University Press, 2001.
+* Corbin, H., 1980. _Avicenna and the Visionary Recital_. W.R. Trask (trans.), Princeton: Princeton University Press.
+* –––, 1961. _Trilogie ismaelienne_, Tehran-Paris: L’Institut Franco-Iranien and Adrien-Maisonneuve.
+* –––, 1964. _Histoire de la philosophie islamique_, Paris: Gallimard.
+* Daftary, F., 1990. _The Ismā‘īlīs: Their History and Doctrine_, Cambridge: Cambridge University Press.
+* Gutas, D., 2000. “Avicenna’s Eastern (‘Oriental’) Philosophy: Nature Contents, Transmission.” _Arabic Sciences and Philosophy_, 10: 159–180.
+* –––, 2006. “Intellect Without Limits: The Absence of Mysticism in Avicenna,” in M. Cândida-Pacheco and J. Francisco-Meirinhos (eds), _Intellect et Imagination dans la Philosophie Médiévale_, Brepols: Turnhout, Volume 1, 351–72.
+* Ha’irī, Y. M., 1992. _Principles of Epistemology in Islamic Philosophy: Knowledge by Presence_, Albany, NY: SUNY Press.
+* Houben, J.J., 1956. “Avicenna on Mysticism,” _Avicenna Commemoration Volume_, Calcutta: Iran Society.
+* Hunzai, F. M., 1986. _The Concept of Tawḥid in the Thought of Ḥamid al-Dīn al-Kirmānī_, Ph.D. Dissertation, McGill University.
+* Hunsburger, A.C., 2000. _Nasir Khusraw:The Ruby of Badakhshan_, London: I.B. Tauris.
+* Inati, Sh., 1996. _Ibn Sina and Mysticism_, New York, London: Kegan Paul International.
+* Kiliç, M. E., 1996. “Mysticism” in _History of Islamic Philosophy_, Part I, S.H. Nasr and O. Leaman (eds.), London: Routledge Press, pp. 947–958.
+* Nwyia, P., 1970. _Exègése coranique et langage mystique_, Beirut.
+* Nasr, S.H. & Aminrazavi, M., 1999/2001. _An Anthology of Philosophy in Persia_, Volumes 1 & 2, New York: Oxford University Press.
+* –––, 1996. “Introduction to the Mystical Tradition” in _History of Islamic Philosophy_, Part I, S.H. Nasr and O. Leaman (eds.), London: Routledge, pp. 367–373.
+* –––, 1964, _Three Muslim Sages_, Cambridge, MA: Harvard University Press.
+* –––, 1967. “Hermes and Hermetic Writings in the Islamic World.” _Islamic Studies_, Beirut.
+* Nasr, S.H. and Leaman, O., 1996. _History of Islamic Philosophy_, London and New York: Routledge.
+* Schimmel, A., 1975. _Mystical Dimensions of Islam_. Chapel Hill: University of North Carolina Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arabic-islamic-mysticism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/arabic-islamic-mysticism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=arabic-islamic-mysticism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/arabic-islamic-mysticism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arabic-islamic-mysticism).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/arabic-islamic-mysticism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=arabic-islamic-mysticism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/arabic-islamic-mysticism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Islamic Philosophy Online](http://www.muslimphilosophy.com/), host for *The Journal of Islamic Philosophy*.
+* [Islamic Philosophy Online](http://www.muslimphilosophy.com/), host for _The Journal of Islamic Philosophy_.
 
 ## Related Entries
 
-[al-Farabi](https://plato.stanford.edu/entries/al-farabi/) | [al-Ghazali](https://plato.stanford.edu/entries/al-ghazali/) | [Ibn ‘Arabî](https://plato.stanford.edu/entries/ibn-arabi/) | [Ibn Sina [Avicenna]](https://plato.stanford.edu/entries/ibn-sina/) | [Ikhwân al-Safâ’](https://plato.stanford.edu/entries/ikhwan-al-safa/) | [Mulla Sadra](https://plato.stanford.edu/entries/mulla-sadra/) | [mysticism](https://plato.stanford.edu/entries/mysticism/) | [Suhrawardi](https://plato.stanford.edu/entries/suhrawardi/)
+[al-Farabi](https://plato.stanford.edu/entries/al-farabi/) | [al-Ghazali](https://plato.stanford.edu/entries/al-ghazali/) | [Ibn ‘Arabî](https://plato.stanford.edu/entries/ibn-arabi/) | [Ibn Sina \[Avicenna\]](https://plato.stanford.edu/entries/ibn-sina/) | [Ikhwân al-Safâ’](https://plato.stanford.edu/entries/ikhwan-al-safa/) | [Mulla Sadra](https://plato.stanford.edu/entries/mulla-sadra/) | [mysticism](https://plato.stanford.edu/entries/mysticism/) | [Suhrawardi](https://plato.stanford.edu/entries/suhrawardi/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Mehdi Aminrazavi](http://www.umw.edu/directory/employee/mehdi-aminrazavi/) <[*maminraz@umw.edu*](mailto:maminraz%40umw%2eedu)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Mehdi Aminrazavi](http://www.umw.edu/directory/employee/mehdi-aminrazavi/) <[_maminraz@umw.edu_](mailto:maminraz%40umw%2eedu)>

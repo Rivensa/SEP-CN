@@ -1,10 +1,10 @@
 # 让·鲍德里亚 Baudrillard, Jean (Douglas Kellner)
 
-*首次发表于 2005 年 4 月 22 日；实质性修订于 2019 年 12 月 18 日*
+_首次发表于 2005 年 4 月 22 日；实质性修订于 2019 年 12 月 18 日_
 
 与后现代主义和后结构主义理论相关的让·鲍德里亚（1929-2007）很难与传统和当代哲学联系起来。他的作品结合了哲学、社会理论和独特的文化形而上学，反思时代的重要事件和现象。作为对当代社会、文化和思想的尖锐批评家，鲍德里亚往往被视为法国后现代理论的重要导师，尽管他也可以被看作是一位以独特而挑衅的方式结合社会和文化批评的思想家，以及一位发展了自己的写作风格和形式的作家。他是一位极其多产的作家，已经出版了五十多本书，并评论了当代时代最显著的文化和社会现象，包括在新的后现代消费、媒体和高科技社会中消除了性别、种族和阶级的区别；艺术和美学的变异角色；政治、文化和人类的根本变化；以及新媒体、信息和控制论技术在创造一种质变的社会秩序中的影响，提供了人类和社会生活的根本变异。
 
-多年来，鲍德里亚一直是后现代理论的崇拜对象，从 20 世纪 80 年代初到 2007 年去世，他在后期的著作中发展出了一种高度独特的哲学和文化分析方式。本文重点关注鲍德里亚独特思维方式的发展，以及他是如何从社会理论转向后现代理论，进而发展出一种挑衅性的哲学分析方法的。[1] 回顾来看，鲍德里亚可以被视为一位以独特方式追踪符号生活和技术对社会生活的影响的理论家，并系统地批评了主要的现代思想模式，同时发展了自己的哲学观点。
+多年来，鲍德里亚一直是后现代理论的崇拜对象，从 20 世纪 80 年代初到 2007 年去世，他在后期的著作中发展出了一种高度独特的哲学和文化分析方式。本文重点关注鲍德里亚独特思维方式的发展，以及他是如何从社会理论转向后现代理论，进而发展出一种挑衅性的哲学分析方法的。\[1] 回顾来看，鲍德里亚可以被视为一位以独特方式追踪符号生活和技术对社会生活的影响的理论家，并系统地批评了主要的现代思想模式，同时发展了自己的哲学观点。
 
 * [1. 早期著作：从《物的系统》到《生产的镜像》](https://plato.stanford.edu/entries/baudrillard/#EarlWritSystObjeMirrProd)
 * [2. 符号交换与后现代的突破](https://plato.stanford.edu/entries/baudrillard/#SymbExchPostBrea)
@@ -12,19 +12,14 @@
 * [4. 进入 1990 年代：从内在逆转到不可能的交换](https://plato.stanford.edu/entries/baudrillard/#N199ImmaReveImpoExch)
 * [5. 理论虚构：让·鲍德里亚在当代时刻](https://plato.stanford.edu/entries/baudrillard/#TheoFictBaudContMome)
 * [6. 结论评估](https://plato.stanford.edu/entries/baudrillard/#ConcAsse)
-
 * [Bibliography](https://plato.stanford.edu/entries/baudrillard/#Bib)
-
 * [Primary Literature](https://plato.stanford.edu/entries/baudrillard/#PrimLite)
-
 * [二级文献](https://plato.stanford.edu/entries/baudrillard/#SecoLite)
 * [学术工具](https://plato.stanford.edu/entries/baudrillard/#Aca)
-
 * [Other Internet Resources](https://plato.stanford.edu/entries/baudrillard/#Oth)
-
 * [相关条目](https://plato.stanford.edu/entries/baudrillard/#Rel)
 
----
+***
 
 ## 1. 早期著作：从《物的系统》到《生产的镜像》
 
@@ -32,11 +27,11 @@
 
 1966 年，鲍德里亚进入巴黎纳特尔大学，成为勒菲弗的助手，同时学习语言、哲学、社会学和其他学科。他在 1966 年在纳特尔获得社会学的“第三周期论文”学位，论文题目是《物体系统》，并于同年十月开始教授社会学。在 1960 年代，鲍德里亚反对法国和美国在阿尔及利亚和越南战争中的干预，他与法国左翼结盟。纳特尔大学是激进政治的重要场所，“3 月 22 日运动”与丹尼尔·科恩-贝迪和“愤怒者”有关，该运动始于纳特尔社会学系。鲍德里亚后来说他参与了 1968 年五月的事件，这导致了大规模的学生起义和一次几乎推翻戴高乐的大罢工。
 
-在 1960 年代末，鲍德里亚出版了一系列最终使他成为世界闻名的书籍。受勒菲弗、巴特和一系列法国思想家的影响，鲍德里亚在 1960 年代在社会理论、符号学和精神分析领域进行了认真的研究，并在 1968 年出版了他的第一本书《物体系统》（1996 年），随后是一本关于《消费社会》的书（1970 年）（1998 年），以及《对政治经济学的批判》（1972 年）（1981 年）[[2](https://plato.stanford.edu/entries/baudrillard/notes.html#note-2)]。这些早期出版物是在批判性社会学的框架内的尝试，将勒菲弗（1971 年和 1991 年[1947 年]）发起的日常生活研究与社会符号学相结合。这个项目受到巴特（1967 年[1964 年]、1972 年[1958 年]和 1983 年[1967 年]）的影响，重点研究消费社会中的物体系统（他的前两本书的重点），以及政治经济学和符号学之间的界面（他的第三本书的核心）[[3](https://plato.stanford.edu/entries/baudrillard/notes.html#note-3)]。鲍德里亚的早期工作是最早将符号学应用于分析物体如何被编码为构成当代媒体和消费社会的符号和意义系统的研究之一。鲍德里亚将符号学研究、马克思主义政治经济学和消费社会社会学相结合，开始了他终身探索构成我们日常生活的物体和符号系统的任务。
+在 1960 年代末，鲍德里亚出版了一系列最终使他成为世界闻名的书籍。受勒菲弗、巴特和一系列法国思想家的影响，鲍德里亚在 1960 年代在社会理论、符号学和精神分析领域进行了认真的研究，并在 1968 年出版了他的第一本书《物体系统》（1996 年），随后是一本关于《消费社会》的书（1970 年）（1998 年），以及《对政治经济学的批判》（1972 年）（1981 年）\[[2](https://plato.stanford.edu/entries/baudrillard/notes.html#note-2)]。这些早期出版物是在批判性社会学的框架内的尝试，将勒菲弗（1971 年和 1991 年\[1947 年]）发起的日常生活研究与社会符号学相结合。这个项目受到巴特（1967 年\[1964 年]、1972 年\[1958 年]和 1983 年\[1967 年]）的影响，重点研究消费社会中的物体系统（他的前两本书的重点），以及政治经济学和符号学之间的界面（他的第三本书的核心）\[[3](https://plato.stanford.edu/entries/baudrillard/notes.html#note-3)]。鲍德里亚的早期工作是最早将符号学应用于分析物体如何被编码为构成当代媒体和消费社会的符号和意义系统的研究之一。鲍德里亚将符号学研究、马克思主义政治经济学和消费社会社会学相结合，开始了他终身探索构成我们日常生活的物体和符号系统的任务。
 
-早期的让·鲍德里亚描述了日常生活中物体所投入的意义（例如，通过驾驶汽车与之身份认同所积累的权力）以及将物体组织成新的现代社会的结构系统（例如，新型跑车的声望或*符号价值*）。在他的前三本书中，鲍德里亚认为，政治经济学的古典马克思主义批判需要补充符号学理论，这些理论将符号所指示的多样化意义组织成语言，并形成有意义的系统。鲍德里亚继续巴特和其他人的观点，认为时尚、体育、媒体和其他符号化方式产生了由特定规则、代码和逻辑组成的意义系统（鲍德里亚有时将这些术语用于互换，下面将更详细地阐述）。
+早期的让·鲍德里亚描述了日常生活中物体所投入的意义（例如，通过驾驶汽车与之身份认同所积累的权力）以及将物体组织成新的现代社会的结构系统（例如，新型跑车的声望或_符号价值_）。在他的前三本书中，鲍德里亚认为，政治经济学的古典马克思主义批判需要补充符号学理论，这些理论将符号所指示的多样化意义组织成语言，并形成有意义的系统。鲍德里亚继续巴特和其他人的观点，认为时尚、体育、媒体和其他符号化方式产生了由特定规则、代码和逻辑组成的意义系统（鲍德里亚有时将这些术语用于互换，下面将更详细地阐述）。
 
-鲍德里亚将他对符号、语言和日常生活的分析置于历史框架中，认为从竞争性市场资本主义的早期阶段过渡到垄断资本主义阶段需要更加关注需求管理，以增加和引导消费。在这个历史阶段，从大约 1920 年到 1960 年代，加强需求的需要补充了降低生产成本和扩大生产的关注。在这个资本主义发展时代，经济集中、新的生产技术和新技术的发展加速了大规模生产的能力，资本主义公司更加关注管理消费和创造对新的显赫商品的需求，从而产生了鲍德里亚所称的*符号价值*的制度。
+鲍德里亚将他对符号、语言和日常生活的分析置于历史框架中，认为从竞争性市场资本主义的早期阶段过渡到垄断资本主义阶段需要更加关注需求管理，以增加和引导消费。在这个历史阶段，从大约 1920 年到 1960 年代，加强需求的需要补充了降低生产成本和扩大生产的关注。在这个资本主义发展时代，经济集中、新的生产技术和新技术的发展加速了大规模生产的能力，资本主义公司更加关注管理消费和创造对新的显赫商品的需求，从而产生了鲍德里亚所称的_符号价值_的制度。
 
 根据鲍德里亚的分析，广告、包装、展示、时尚、"解放"性别、大众媒体和文化以及商品的泛滥增加了符号和景观的数量，并产生了符号价值的泛滥。因此，鲍德里亚声称，商品不仅仅应该以使用价值和交换价值来描述，如马克思的商品理论所述，而是符号价值——风格、声望、奢侈、权力等的表达和标志——成为商品和消费的越来越重要的一部分（参见戈德曼和帕普森 1996 年）。
 
@@ -46,13 +41,13 @@
 
 《鲍德里亚与新马克思主义》
 
-到了 1970 年，鲍德里亚已经与马克思主义革命理论区分开来，而是提出了只有在“不可预见但确定的”形式下反抗消费社会的可能性。在 1960 年代末，他与《乌托邦》杂志周围的一群知识分子结盟，试图超越学科界限，以盖·德波尔和局势主义国际的精神结合对替代社会、建筑和日常生活方式的思考[[4](https://plato.stanford.edu/entries/baudrillard/notes.html#note-4)]。鲍德里亚和他的伙伴们将建筑、城市规划、文化批评和社会理论的边缘人士聚集在一起，与其他政治和理论团体区分开来，并在既定学科和政治倾向的边界之外发展出独特而边缘的论述。他与《乌托邦》的关系只持续到 1970 年代初，但可能帮助他产生了一种在边缘工作、置身于当前趋势和时尚之外、发展自己的理论立场的愿望。他在这个项目中的文章已经以英文翻译的形式收集在《推迟的乌托邦》（2006a）中。
+到了 1970 年，鲍德里亚已经与马克思主义革命理论区分开来，而是提出了只有在“不可预见但确定的”形式下反抗消费社会的可能性。在 1960 年代末，他与《乌托邦》杂志周围的一群知识分子结盟，试图超越学科界限，以盖·德波尔和局势主义国际的精神结合对替代社会、建筑和日常生活方式的思考\[[4](https://plato.stanford.edu/entries/baudrillard/notes.html#note-4)]。鲍德里亚和他的伙伴们将建筑、城市规划、文化批评和社会理论的边缘人士聚集在一起，与其他政治和理论团体区分开来，并在既定学科和政治倾向的边界之外发展出独特而边缘的论述。他与《乌托邦》的关系只持续到 1970 年代初，但可能帮助他产生了一种在边缘工作、置身于当前趋势和时尚之外、发展自己的理论立场的愿望。他在这个项目中的文章已经以英文翻译的形式收集在《推迟的乌托邦》（2006a）中。
 
 因此，到了 1970 年代初，鲍德里亚对古典马克思主义存在着矛盾的关系。一方面，他继承了马克思主义对商品生产的批判，揭示和批评了资本主义产生的各种异化、统治和剥削形式。在这个阶段，他的批判似乎是从标准的新马克思主义观点出发的，这种观点认为资本主义是应受责备的，因为它使社会生活同质化、控制和统治，同时剥夺了个体的自由、创造力、时间和人的潜能。另一方面，他无法指出任何革命力量，尤其是没有讨论工人阶级作为消费社会变革的主体的情况和潜力。事实上，鲍德里亚没有任何关于主体作为社会变革的积极行动者的理论，因此遵循了结构主义和后结构主义对笛卡尔、康德和萨特所归类的哲学和实践主体的批判，这在法国思想中长期占主导地位。结构主义者和后结构主义者认为，主体性是由语言、社会制度和文化形式产生的，并且与其在这些制度和实践中的构建无关。
 
 鲍德里亚也没有发展出阶级或群体反抗的理论，也没有任何关于政治组织、斗争或策略的理论，这在 20 世纪 60 年代后的法国很常见。然而，鲍德里亚在这里的工作与法兰克福学派的工作特别接近，尤其是赫伯特·马库塞的工作，他已经对消费社会进行了一些最早的马克思主义批判（参见凯尔纳 1984 年和 1989b 年）。像卢卡奇（1971 年）和法兰克福学派一样，鲍德里亚分析了商品和商品化如何渗透社会生活，并主导个体的思想和行为。按照批判性马克思主义的总体思路，鲍德里亚认为社会同质化、异化和剥削的过程构成了商品、技术和事物（即“对象”）在支配人们（“主体”）的同时剥夺了他们的人类品质和能力的过程。
 
-对于卢卡奇、法兰克福学派和让·鲍德里亚来说，*再物化*——人类被物质所统治，自身也变得更像物质——成为社会生活的统治方式。劳动条件强加了对人类生活的支配和标准化，同时剥削工人并使他们远离自由和自主的生活。在媒体和消费社会中，文化和消费也变得同质化，剥夺了个体培养个性和自主性的可能性。
+对于卢卡奇、法兰克福学派和让·鲍德里亚来说，_再物化_——人类被物质所统治，自身也变得更像物质——成为社会生活的统治方式。劳动条件强加了对人类生活的支配和标准化，同时剥削工人并使他们远离自由和自主的生活。在媒体和消费社会中，文化和消费也变得同质化，剥夺了个体培养个性和自主性的可能性。
 
 从某种意义上讲，让·鲍德里亚的作品可以被看作是对再物化和社会统治的进一步阶段的描述，而不仅仅是法兰克福学派所描述的个体受统治机构和思维方式控制的阶段。让·鲍德里亚通过应用符号学理论来描述商品、媒体和技术如何提供一个充满幻觉和幻想的宇宙，使个体被消费价值观、媒体意识形态和角色模型以及计算机等诱人的技术所压倒。最终，他将他对符号统治和物体系统的分析推向了更加悲观的结论，他认为法兰克福学派所描绘的“个体的终结”主题已经在人类主体性被物体世界彻底击败的过程中实现（见[第 3 节](https://plato.stanford.edu/entries/baudrillard/#PataMetaTriuObje)）。
 
@@ -68,7 +63,7 @@
 
 《生产的镜像》和他的下一本书《符号交换与死亡》（1976 年），这本重要的著作在 1993 年终于被翻译出版，试图提供超激进的观点，克服经济唯物主义马克思主义传统的局限性。鲍德里亚的超左派阶段虽然短暂，但在《符号交换与死亡》中，他提出了他最重要和最具戏剧性的挑战之一。这本书以一篇序言开篇，概括了他试图提供一种显著不同的社会和文化方法的努力。在法国文化理论家乔治·巴塔耶、马塞尔·莫斯和阿尔弗雷德·贾里的基础上，他倡导“符号交换”，抵制资本主义价值观的实用性和货币利润，转而追求文化价值。鲍德里亚认为，在巴塔耶声称消费和过度与主权有关、莫斯描述了前现代社会中礼物赠予的社会威望、贾里嘲笑法国文化的戏剧以及索绪尔的字谜中，都与资本主义交换和生产的价值观存在分歧，或者说与语言交换中的意义生产存在分歧。鲍德里亚认为，这些“符号交换”的案例打破了生产的价值观，描述了诗意交流和创造性文化活动，为资本主义生产和交换的价值观提供了替代方案。
 
-“符号交换”一词源于乔治·巴塔耶关于“一般经济”的概念，其中消费、浪费、牺牲和破坏被认为比生产和实用经济更为基本（1988 年[1967]）。巴塔耶的模型是自由消耗能量的太阳，不求任何回报。他认为，如果个体想要真正主权（例如，摆脱资本主义的命令），他们应该追求一种“一般经济”，即消费、给予、牺牲和破坏，以摆脱现有实用性命令的决定。
+“符号交换”一词源于乔治·巴塔耶关于“一般经济”的概念，其中消费、浪费、牺牲和破坏被认为比生产和实用经济更为基本（1988 年\[1967]）。巴塔耶的模型是自由消耗能量的太阳，不求任何回报。他认为，如果个体想要真正主权（例如，摆脱资本主义的命令），他们应该追求一种“一般经济”，即消费、给予、牺牲和破坏，以摆脱现有实用性命令的决定。
 
 对于巴塔伊，人类是具有过度能量、幻想、驱动力、需求和异质欲望的存在。在这一点上，鲍德里亚假定了巴塔伊的人类学和一般经济的真理。在 1976 年对巴塔伊的《完全作品集》的评论中，鲍德里亚写道：“中心思想是，统治我们社会的经济是由于对基本人类原则的错误运用，这个原则是一种太阳的支出原则”（1987 年：57）。在 1970 年代初，鲍德里亚接管了巴塔伊的人类学立场和他所称的巴塔伊对资本主义的“贵族批判”，他现在声称这种批判是基于粗俗的功利和储蓄观念，而不是更崇高的“贵族”观念的过度和支出。巴塔伊和鲍德里亚在这里假设人性与资本主义之间存在矛盾。他们认为人类“本性”从支出、浪费、庆典、牺牲等方面获得快乐，在这些方面他们是至高无上的，可以自由地支出他们能量的过剩（从而遵循他们的“真实本性”）。劳动、功利和储蓄的资本主义命令是“不自然的”，违背了人性。
 
@@ -76,7 +71,7 @@
 
 > 马克思主义因此只是一种有限的小资产阶级批判，是生活朝着社会的“良好使用” banalization 的又一步！相反，巴塔伊从贵族的角度扫除了所有这些奴隶辩证法，这是一个与死亡搏斗的主人的观点。可以指责这种观点是前马克思主义还是后马克思主义。无论如何，马克思主义只是资本的被魅惑的地平线——在它之前或之后，都比它更激进（1987 年：60）。
 
-这段文字非常具有启示性，标志着鲍德里亚转向了一种深受巴塔耶和尼采影响的“贵族批判”政治经济学。因为巴塔耶和鲍德里亚呈现了尼采贵族“主人道德”的版本，其中“优越”的个体创造自己的价值观，他们的生活表达了创造性和性爱能量的过剩、溢出和强化。尼采是鲍德里亚一生的重要影响[[5](https://plato.stanford.edu/entries/baudrillard/notes.html#note-5)]，特别是在他工作的最后几十年里，尼采的主题、思维方式和写作实践越来越多地影响了他的工作。鲍德里亚越来越激进和“非当代”，以一种激烈的个人主义思维方式独自站在当前趋势和时尚的对立面。尼采式的命运、逆转、不确定性和对传统智慧的贵族冲击开始塑造他的作品，这些作品常常以格言或短文的形式呈现，就像尼采一样。
+这段文字非常具有启示性，标志着鲍德里亚转向了一种深受巴塔耶和尼采影响的“贵族批判”政治经济学。因为巴塔耶和鲍德里亚呈现了尼采贵族“主人道德”的版本，其中“优越”的个体创造自己的价值观，他们的生活表达了创造性和性爱能量的过剩、溢出和强化。尼采是鲍德里亚一生的重要影响\[[5](https://plato.stanford.edu/entries/baudrillard/notes.html#note-5)]，特别是在他工作的最后几十年里，尼采的主题、思维方式和写作实践越来越多地影响了他的工作。鲍德里亚越来越激进和“非当代”，以一种激烈的个人主义思维方式独自站在当前趋势和时尚的对立面。尼采式的命运、逆转、不确定性和对传统智慧的贵族冲击开始塑造他的作品，这些作品常常以格言或短文的形式呈现，就像尼采一样。
 
 在一段时间里，鲍德里亚将继续攻击资产阶级、资本和政治经济学，但从一个倡导“贵族”消费和奢侈、审美和象征价值的角度。他在理论和政治上转变立场的阴暗面是对牺牲和死亡的价值化（即赋予或分配价值），这一观念贯穿了《象征交换与死亡》（其中牺牲提供了一种颠覆资产阶级功利和自我保存价值观的给予），在自杀式爆炸和恐怖主义盛行的时代，这个观念具有不祥的含义。
 
@@ -96,11 +91,11 @@
 
 从现在开始，资本和政治经济从鲍德里亚的故事中消失，或以根本性的新形式回归。从此，符号和代码不断繁殖，并产生其他符号和新的符号机器，形成不断扩张和螺旋循环。因此，在这个故事中，技术取代了资本，而符号学（被鲍德里亚解释为图像、信息和符号的繁殖）取代了生产。他的后现代转向因此与一种技术决定论和对政治经济的拒绝联系在一起，这是他的许多批评家所反对的（参见 Kellner 1989，Norris 1992 以及 Kellner 1994 中的研究）。
 
-《象征交换与死亡》以及随后的《模拟与模拟》（1994 [1981]）阐明了现代社会与后现代社会之间的根本断裂原则，并标志着鲍德里亚离开了现代社会理论的问题。对他来说，现代社会是围绕商品的生产和消费组织起来的，而后现代社会则是围绕着“模拟”和图像与符号的游戏组织起来的，这意味着代码、模型和符号是新社会秩序的组织形式，其中模拟统治着。在模拟社会中，身份是通过对图像的占有来构建的，而代码和模型决定了个体如何看待自己和与他人的关系。经济、政治、社会生活和文化都受到模拟方式的统治，代码和模型决定了商品如何被消费和使用，政治如何展开，文化如何产生和消费，以及日常生活如何被生活。
+《象征交换与死亡》以及随后的《模拟与模拟》（1994 \[1981]）阐明了现代社会与后现代社会之间的根本断裂原则，并标志着鲍德里亚离开了现代社会理论的问题。对他来说，现代社会是围绕商品的生产和消费组织起来的，而后现代社会则是围绕着“模拟”和图像与符号的游戏组织起来的，这意味着代码、模型和符号是新社会秩序的组织形式，其中模拟统治着。在模拟社会中，身份是通过对图像的占有来构建的，而代码和模型决定了个体如何看待自己和与他人的关系。经济、政治、社会生活和文化都受到模拟方式的统治，代码和模型决定了商品如何被消费和使用，政治如何展开，文化如何产生和消费，以及日常生活如何被生活。
 
 鲍德里亚的后现代世界也是一个先前重要的界限和区别（如社会阶级、性别、政治倾向和曾经自治的社会和文化领域）失去权力的世界。对于古典社会理论来说，现代社会的特征是差异化，而对于鲍德里亚来说，后现代社会的特征是去差异化，即（权力的）区别的“崩溃”或“内爆”。在他的模拟社会中，经济、政治、文化、性别和社会的领域相互融合。在这种内爆的混合中，经济基本上受到文化、政治和其他领域的塑造，而艺术，曾经是潜在差异和对立的领域，被吸收到经济和政治中，而性别则无处不在。在这种情况下，个体和群体之间的差异在社会和先前社会理论关注的边界和结构的迅速变异或变化中内爆。
 
-此外，他的后现代宇宙是一个*超现实*的世界，在这个世界中，娱乐、信息和通信技术提供的体验比平凡的日常生活更加强烈和引人入胜，以及构建日常生活的代码和模式。超现实的领域（例如媒体对现实的模拟、迪士尼乐园和游乐场、购物中心和消费幻想乐园、电视体育、虚拟现实游戏、社交网络网站和其他进入理想世界的冒险）比真实更真实，超现实的模型、图像和代码开始控制思想和行为。然而，在一个非线性世界中，决定本身是随机的，在这种情况下，个体面对着压倒性的图像、代码和模式的流动，不可能绘制因果机制。
+此外，他的后现代宇宙是一个_超现实_的世界，在这个世界中，娱乐、信息和通信技术提供的体验比平凡的日常生活更加强烈和引人入胜，以及构建日常生活的代码和模式。超现实的领域（例如媒体对现实的模拟、迪士尼乐园和游乐场、购物中心和消费幻想乐园、电视体育、虚拟现实游戏、社交网络网站和其他进入理想世界的冒险）比真实更真实，超现实的模型、图像和代码开始控制思想和行为。然而，在一个非线性世界中，决定本身是随机的，在这种情况下，个体面对着压倒性的图像、代码和模式的流动，不可能绘制因果机制。
 
 在这个后现代世界中，个体逃离“真实的沙漠”，追求超现实和计算机、媒体和技术体验的狂喜。在这个宇宙中，主体性被分裂和迷失，出现了一种新的体验领域，对于鲍德里亚来说，这使得以前的社会理论和政治变得过时和无关紧要。追踪当代社会中主体的变迁，鲍德里亚声称，当代主体不再受到类似歇斯底里或偏执狂的现代病理的困扰。相反，他们存在于“一种恐怖状态，这是精神分裂症的特征，一切事物的过于接近，一切事物的肮脏混杂围攻并渗透他，没有任何抵抗，没有光环，没有氛围，甚至没有他自己身体的光环保护他。尽管他自己，精神分裂症患者对一切都敞开心扉，生活在最极端的混乱中”（1988 年：27）。对于鲍德里亚来说，“沟通的狂喜”意味着主体与即时图像和信息密切接触，处于一个过度暴露和透明的世界中。在这种情况下，主体“成为一个纯粹的屏幕，一个纯粹的吸收和再吸收的网络输入表面”（1988 年：27）。换句话说，在后现代世界中，个体只是受到媒体、技术体验和超现实影响的实体。
 
@@ -122,7 +117,7 @@
 
 从 1970 年代中期到 2007 年去世，鲍德里亚的思想挑战了各种学科的理论。在 1980 年代，他在 1970 年代的主要作品被翻译成多种语言，而 1980 年代的新书则迅速被翻译成英语和其他主要语言。因此，他成为了世界闻名的后现代思想家之一。鲍德里亚成为了一位学术名人，他周游世界推广自己的作品，并赢得了大量的追随者，尽管这些追随者更多来自学术理论领域之外。
 
-与他的作品变得极为流行的同时，鲍德里亚自己的写作变得越来越难以理解和晦涩。1979 年，他出版了《诱惑》（1990），这是一本难以理解的著作，标志着他思想的重大转变。这本书从他早期作品中的更多社会学话语转向了更多的哲学和文学话语。在《象征交换与死亡》（1993a [1976]）中，鲍德里亚勾勒出了超革命的观点作为一种激进的替代方案，以象征交换为理想，而现在他将诱惑作为他对生产和交流互动的替代方案。然而，诱惑并不会削弱、颠覆或改变现有的社会关系或制度，而是一种柔和的替代方案，一种对外表的玩弄，一种与女权主义的游戏，一种引发尖锐批评回应的挑衅。[[7](https://plato.stanford.edu/entries/baudrillard/notes.html#note-7)] 鲍德里亚对诱惑的概念是独特的，它涉及到与符号的游戏，将诱惑设定为一种贵族的“符号和仪式秩序”，与生产的资产阶级理想形成对比，同时倡导人为、外表、游戏和挑战，以对抗严肃的生产劳动。他将诱惑主要解释为一种具有自己规则、魅力、陷阱和诱饵的仪式和游戏。在这一点上，他的写作变异为一种致力于风格化思维和写作的新贵族美学，呈现出一系列的范畴——可逆性、挑战、决斗——这些范畴将鲍德里亚的思想引向一种贵族美学和形而上学的形式。
+与他的作品变得极为流行的同时，鲍德里亚自己的写作变得越来越难以理解和晦涩。1979 年，他出版了《诱惑》（1990），这是一本难以理解的著作，标志着他思想的重大转变。这本书从他早期作品中的更多社会学话语转向了更多的哲学和文学话语。在《象征交换与死亡》（1993a \[1976]）中，鲍德里亚勾勒出了超革命的观点作为一种激进的替代方案，以象征交换为理想，而现在他将诱惑作为他对生产和交流互动的替代方案。然而，诱惑并不会削弱、颠覆或改变现有的社会关系或制度，而是一种柔和的替代方案，一种对外表的玩弄，一种与女权主义的游戏，一种引发尖锐批评回应的挑衅。\[[7](https://plato.stanford.edu/entries/baudrillard/notes.html#note-7)] 鲍德里亚对诱惑的概念是独特的，它涉及到与符号的游戏，将诱惑设定为一种贵族的“符号和仪式秩序”，与生产的资产阶级理想形成对比，同时倡导人为、外表、游戏和挑战，以对抗严肃的生产劳动。他将诱惑主要解释为一种具有自己规则、魅力、陷阱和诱饵的仪式和游戏。在这一点上，他的写作变异为一种致力于风格化思维和写作的新贵族美学，呈现出一系列的范畴——可逆性、挑战、决斗——这些范畴将鲍德里亚的思想引向一种贵族美学和形而上学的形式。
 
 鲍德里亚的形而上学推测在《致命策略》（1983 年，1990 年翻译）中显而易见，这是他职业生涯的又一个转折点。这本书提出了一个奇异的形而上学情景，涉及到物体在“淫秽”的繁殖中战胜主体的胜利，物体世界的无法控制的完全失控使其超越了所有理解、概念化和控制的尝试。他的情景涉及到物体对主体的繁殖和日益占主导地位以及物体的最终胜利。在讨论“狂喜与惰性”时，鲍德里亚讨论了当代社会中物体和事件不断超越自身、不断增长和扩展力量的情况。物体的“狂喜”是它们的大量繁殖和扩展；狂喜是超越自我或超越自身的形式：时尚中的美比美更美，电视中的真实比真实更真实，色情片中的性比性更性感。因此，狂喜是鲍德里亚早期描述的超现实的形式（完全明确，没有隐藏）的淫秽和超现实的形式，被再次加倍和加强。他对当代社会的愿景展示了一种增长和扩张的失控状态，不断产生和排泄更多的商品、服务、信息、信息或需求，超越一切理性目标和界限，形成一种螺旋式的无控制增长和复制。
 
@@ -130,7 +125,7 @@
 
 回顾起来，物体世界对主体的不断增长的力量一直是鲍德里亚的主题，从一开始就指向了他项目中的潜在连续性。在他早期的著作中，他探讨了商品如何在消费社会中迷住个体，以及物品世界通过符号价值和代码（作为物品世界和物体系统的一部分）获得新的更高价值的方式。他对马克思主义的抨击是基于这样的信念：符号价值和代码比交换价值、使用价值、生产等传统政治经济学要素更为基本，构成了当代社会。然后，对媒体的思考进入了他的思想前沿：电视物体是鲍德里亚早期思想中家庭的中心，媒体、模拟、超现实和内爆最终消除了私人与公共、内部与外部、媒体与现实之间的区别。此后，一切都变得公开、透明和超现实，在物体世界中，随着岁月的流逝，它变得越来越迷人、诱人。
 
-在《致命策略》和随后的著作中，客体主导或“击败”主体。这些“致命策略”表明个体应该简单地顺从客体的策略和诡计。在“平凡策略”中，“主体相信自己总是比客体更聪明，而在其他[致命策略]中，客体总是被认为比主体更狡猾、更愤世嫉俗、更聪明”（1983: 259-260）。以前，在平凡策略中，主体相信自己比客体更有能力和主权。相比之下，致命策略承认客体的至高无上，并因此站在客体一边，向其策略、诡计和规则屈服。
+在《致命策略》和随后的著作中，客体主导或“击败”主体。这些“致命策略”表明个体应该简单地顺从客体的策略和诡计。在“平凡策略”中，“主体相信自己总是比客体更聪明，而在其他\[致命策略]中，客体总是被认为比主体更狡猾、更愤世嫉俗、更聪明”（1983: 259-260）。以前，在平凡策略中，主体相信自己比客体更有能力和主权。相比之下，致命策略承认客体的至高无上，并因此站在客体一边，向其策略、诡计和规则屈服。
 
 在这些作品中，鲍德里亚似乎将他的理论引入了形而上学的领域，但这是一种特定类型的形而上学，深受阿尔弗雷德·贾里发展的“巴塔物理学”的启发。对于贾里来说：
 
@@ -144,15 +139,15 @@
 
 ## 4. 进入 1990 年代：从内在逆转到不可能的交换
 
-在 1980 年代，鲍德里亚提出了一种“内在逆转”，即意义和效果的翻转或反向，物事变成它们的对立面。因此，根据鲍德里亚的观点，生产社会正在转变为模拟和诱惑；福柯理论中的全视和压制权力正在转变为媒体和信息社会的愤世嫉俗和诱惑性权力；60 年代倡导的解放已经变成了一种自愿奴役的形式；主权已经从主体一侧转移到客体一侧；革命和解放已经变成了它们的对立面，将个体困在模拟和虚拟的秩序中。鲍德里亚的“内在逆转”概念因此提供了霍克海默和阿多诺的“启蒙辩证法”（1972 年[1947]）的一种扭曲形式，其中一切都变成了它们的对立面。对于阿多诺和霍克海默来说，在有组织的高科技资本主义的转变中，启蒙的方式变成了统治，文化变成了文化工业，民主变成了一种大众操控的形式，科学和技术成为社会统治装置的重要组成部分。
+在 1980 年代，鲍德里亚提出了一种“内在逆转”，即意义和效果的翻转或反向，物事变成它们的对立面。因此，根据鲍德里亚的观点，生产社会正在转变为模拟和诱惑；福柯理论中的全视和压制权力正在转变为媒体和信息社会的愤世嫉俗和诱惑性权力；60 年代倡导的解放已经变成了一种自愿奴役的形式；主权已经从主体一侧转移到客体一侧；革命和解放已经变成了它们的对立面，将个体困在模拟和虚拟的秩序中。鲍德里亚的“内在逆转”概念因此提供了霍克海默和阿多诺的“启蒙辩证法”（1972 年\[1947]）的一种扭曲形式，其中一切都变成了它们的对立面。对于阿多诺和霍克海默来说，在有组织的高科技资本主义的转变中，启蒙的方式变成了统治，文化变成了文化工业，民主变成了一种大众操控的形式，科学和技术成为社会统治装置的重要组成部分。
 
 鲍德里亚将这种逆转概念以及他矛盾和虚无主义的形而上学视野延续到了 1990 年代和 2000 年代，他的思想变得越来越隐晦、零碎和困难。在这十年中，鲍德里亚继续扮演学术和媒体超级巨星的角色，周游世界进行讲座和参加知识界的活动。
 
-1987 年从南特大学退休后，鲍德里亚成为一名独立的知识分子，致力于对我们当代时刻的尖锐反思和哲学思考，培养他独特而不断发展的理论。从 1987 年 6 月到 1997 年 5 月，他在巴黎报纸《解放报》上发表了对当天事件和现象的反思，这些文章被收集在《被屏蔽的》（2002 [2000]）中，并为他后来的著作提供了一个实验室。
+1987 年从南特大学退休后，鲍德里亚成为一名独立的知识分子，致力于对我们当代时刻的尖锐反思和哲学思考，培养他独特而不断发展的理论。从 1987 年 6 月到 1997 年 5 月，他在巴黎报纸《解放报》上发表了对当天事件和现象的反思，这些文章被收集在《被屏蔽的》（2002 \[2000]）中，并为他后来的著作提供了一个实验室。
 
 在 1990 年代直至去世之前，鲍德里亚继续写作短篇日记，并在 2007 年出版了五卷《酷记忆》。这些文字结合了他的旅行和经历的反思，以及他（经常回收利用的）思想和感知的发展。鲍德里亚的碎片化日记经常提供了对他个人生活和心理的深入洞察，同时捕捉到产生或体现他的一些思想的经历和场景。尽管经常重复，他的“酷记忆”小册子直接展示了这个人和他的思想，同时证明了他作为一个环球知识分子的价值，他环游世界，他的每一条日记记录都值得出版和关注。
 
-鲍德里亚还对当代问题进行了反思，如海湾战争、2001 年 9 月的恐怖袭击（他认为这是过去几十年来唯一真正的“事件”）、全球化、美国入侵伊拉克以及其他当天发生的事件。鲍德里亚还在《邪恶的透明度》（1993 [1990]）、《终结的幻象》（1994b [1992]）、《完美犯罪》（1996b [1995]）、《不可能的交换》（2001 [1999]）、《邪恶的智慧或透明契约》（2005）和《艺术的阴谋》（2005）等作品中继续进行他的形而上学思考。这些文字继续探索他的思想并/或评论当代事件，它们继续假设在后现代的“断裂”中存在一个历史的分界，尽管鲍德里亚本人通常与其他版本的后现代理论保持距离。
+鲍德里亚还对当代问题进行了反思，如海湾战争、2001 年 9 月的恐怖袭击（他认为这是过去几十年来唯一真正的“事件”）、全球化、美国入侵伊拉克以及其他当天发生的事件。鲍德里亚还在《邪恶的透明度》（1993 \[1990]）、《终结的幻象》（1994b \[1992]）、《完美犯罪》（1996b \[1995]）、《不可能的交换》（2001 \[1999]）、《邪恶的智慧或透明契约》（2005）和《艺术的阴谋》（2005）等作品中继续进行他的形而上学思考。这些文字继续探索他的思想并/或评论当代事件，它们继续假设在后现代的“断裂”中存在一个历史的分界，尽管鲍德里亚本人通常与其他版本的后现代理论保持距离。
 
 鲍德里亚从社会学教职退休后，似乎释放了他的哲学冲动。除了他的日记集和偶尔涉足当今问题的尝试外，鲍德里亚还创作了一系列越来越哲学和理论密集的文本。1990 年后的文本延续了碎片化的风格和短篇随笔、格言、故事和领悟的使用，这些都是鲍德里亚在 1980 年代开始采用的，并经常重复一些相同的思想和故事。虽然这些书籍发展了 20 世纪 80 年代准形而上学的观点，但也产生了一些新的思想和立场。它们通常很有趣，尽管有时也会令人震惊和引起争议。这些著作可以看作是对原创理论观点的培养，同时不断评论当前社会状况，并与马克思主义、后结构主义理论和其他形式的当代思想进行对话。然而，在他在 1970 年代对抗竞争思想模式的激烈而专注的抨击之后，鲍德里亚与理论的后来对话主要是偶尔的旁白和对先前思想的回收，这或许具有讽刺意味，说明了他关于当代理论和政治衰落的论点。
 
@@ -162,7 +157,7 @@
 
 然而，作为图像、形式、线条、色彩、设计的大量扩散，艺术对当代社会秩序来说比以往任何时候都更为基础：“我们的社会已经引发了一种普遍的审美化：所有形式的文化——包括反文化的形式——都得到了推广，所有的表现和反表现模式都被接纳”（第 16 页）。因此，鲍德里亚得出结论：“人们常说，西方的伟大事业是商业化整个世界，将一切命运与商品的命运紧密相连。而这个伟大事业实际上更多地是整个世界的审美化——它的世界性壮观化，它变成图像的过程，它的符号学组织”（第 16 页）。
 
-在后现代的媒体和消费社会中，一切都变成了图像、符号、景观、超美学对象——就像一切也变成了超经济、超政治和超性别的。这种“美学的物质化”伴随着对艺术的拼凑模拟和复制的绝望尝试，以及对图像和艺术品的不断生产。但是，这种形式和愉悦的“令人眩晕的折衷主义”导致了一种情况，即艺术不再是古典或现代主义意义上的艺术，而只是图像、制品、物体、模拟或商品（鲍德里亚意识到艺术作品的价格越来越高，但他将此视为艺术在价值的轨道高超空间中变成了其他东西的证据，一种“太空歌剧的狂喜”[第 19 页]）。
+在后现代的媒体和消费社会中，一切都变成了图像、符号、景观、超美学对象——就像一切也变成了超经济、超政治和超性别的。这种“美学的物质化”伴随着对艺术的拼凑模拟和复制的绝望尝试，以及对图像和艺术品的不断生产。但是，这种形式和愉悦的“令人眩晕的折衷主义”导致了一种情况，即艺术不再是古典或现代主义意义上的艺术，而只是图像、制品、物体、模拟或商品（鲍德里亚意识到艺术作品的价格越来越高，但他将此视为艺术在价值的轨道高超空间中变成了其他东西的证据，一种“太空歌剧的狂喜”\[第 19 页]）。
 
 鲍德里亚的哲学思考中充满了悖论和讽刺的风格，这在《完美犯罪》（1996b）中尤为明显。鲍德里亚声称，在当前媒体和技术社会中，对超验现实的否定是一种“完美犯罪”，涉及“现实的毁灭”。在一个充满表象、图像和幻觉的世界中，鲍德里亚认为，现实消失了，尽管它的痕迹继续滋养着对真实的幻想。在高科技社会中朝着虚拟化前进，人类生活和世界的所有不完美都在虚拟现实中被消除，但这是对现实本身的消除，是完美犯罪。鲍德里亚暗示，这种“后批判”的和“灾难性”的局面使我们以前的概念世界变得无关紧要，他敦促批判转向讽刺，并将现实的消亡转化为一种艺术形式。
 
@@ -172,19 +167,19 @@
 
 回顾起来，鲍德里亚对主体/客体区分的哲学游戏，他对主体的放弃，转向客体一方，是他思想的一个关键方面。他将这种二分法与善恶的二元性联系起来，在西方思想中，培养主体并主宰客体被视为善，而客体的主权和一方则与邪恶的原则交织在一起。鲍德里亚的思想是根本的二元论，他在一系列西方思想的二分法中选择了通常被嘲笑为低劣的一方，比如选择表象而非现实，幻觉而非真理，邪恶而非善良，女性而非男性。在《完美犯罪》（1996b）中，鲍德里亚宣称现实已经被摧毁，人们从此生活在一个纯粹表象的世界中。在这个宇宙中，确定性和真理是不可能的，鲍德里亚选择了幻觉的一方，在《不可能的交换》（2001）中提出：“幻觉是基本规则”（第 6 页）。
 
-让·鲍德里亚还认为世界是没有意义的，而肯定无意义是解放的：“如果我们能接受这个世界的无意义，那么我们就可以玩弄形式、外表和冲动，而不必担心它们的最终目的……正如西奥兰所说，只有当我们相信生活有意义时，我们才是失败者——从那一刻起，我们就是失败者，因为生活并没有意义”（2001: 128）。最具争议的是，让·鲍德里亚还将自己与邪恶的原则联系起来，那是与善相对立和对抗的东西。他的思想中确实有一种曼纳海和诺斯底主义的维度，夹杂着怀疑主义、愤世嫉俗和虚无主义。[10]然而，解构主义打破了主体/客体二分法，表明无法站在主体或客体一边，也无法站在善恶一边，因为它们彼此相互联系，没有纯粹的客体和主体，这是阿多诺提出的一个论点。[11]让·鲍德里亚的思想本质上是二元的，而不是辩证的。他的思想自称是对抗性的，与对立的理论和立场并列，攻击它们。矛盾并不困扰让·鲍德里亚，因为他确实肯定了矛盾。因此，从严格的哲学观点来与让·鲍德里亚争论是棘手的，人们需要理解他的写作方式、他对理论虚构的概念（见第 5 节）并参与其中，理解它们的重要性和影响。
+让·鲍德里亚还认为世界是没有意义的，而肯定无意义是解放的：“如果我们能接受这个世界的无意义，那么我们就可以玩弄形式、外表和冲动，而不必担心它们的最终目的……正如西奥兰所说，只有当我们相信生活有意义时，我们才是失败者——从那一刻起，我们就是失败者，因为生活并没有意义”（2001: 128）。最具争议的是，让·鲍德里亚还将自己与邪恶的原则联系起来，那是与善相对立和对抗的东西。他的思想中确实有一种曼纳海和诺斯底主义的维度，夹杂着怀疑主义、愤世嫉俗和虚无主义。\[10]然而，解构主义打破了主体/客体二分法，表明无法站在主体或客体一边，也无法站在善恶一边，因为它们彼此相互联系，没有纯粹的客体和主体，这是阿多诺提出的一个论点。\[11]让·鲍德里亚的思想本质上是二元的，而不是辩证的。他的思想自称是对抗性的，与对立的理论和立场并列，攻击它们。矛盾并不困扰让·鲍德里亚，因为他确实肯定了矛盾。因此，从严格的哲学观点来与让·鲍德里亚争论是棘手的，人们需要理解他的写作方式、他对理论虚构的概念（见第 5 节）并参与其中，理解它们的重要性和影响。
 
 ## 5. 理论虚构：鲍德里亚在当代时刻
 
 让·鲍德里亚发展了他所称之为“理论虚构”的概念，或者他也称之为“模拟理论”和“预期理论”。这样的“理论”意图模拟、把握和预测历史事件，他认为这些事件不断超越了所有当代理论。他声称，当前的情况比最奇幻的科幻小说或未来社会的理论投射更为奇幻。因此，理论只能试图在奔跑中把握现在，并试图预测未来。然而，作为社会和政治分析家和预测家，他的记录是参差不齐的。作为一个政治分析家，他经常表面化并且离谱。在 1989 年发表的一篇名为“厌食症废墟”的文章中，他将柏林墙解读为冻结的历史的标志，一种厌食的历史，其中不会再发生任何事情，以及历史的终结，将柏林墙视为共产主义和资本主义之间的停滞标志。然而，不久之后，相当重大的事件摧毁了让·鲍德里亚认为是永久的柏林墙，开启了一个新的历史时代。
 
-冷战僵局长期以来一直被鲍德里亚视为建立了一个冻结的历史，其中没有重大变化可以发生。早在他 70 年代中期的反思中，他将越南战争视为将中国、俄罗斯和最终越南纳入更加合理化和现代化的世界经济和政治秩序的“托辞”（鲍德里亚 1983a：66f），在他关于海湾战争的书中，他重申了这一观点（1995：85），因此未能看到越南战争的实际政治利害和原因，以及资本主义和共产主义阵营之间的斗争的重要性。[[12](https://plato.stanford.edu/entries/baudrillard/notes.html#note-12)]
+冷战僵局长期以来一直被鲍德里亚视为建立了一个冻结的历史，其中没有重大变化可以发生。早在他 70 年代中期的反思中，他将越南战争视为将中国、俄罗斯和最终越南纳入更加合理化和现代化的世界经济和政治秩序的“托辞”（鲍德里亚 1983a：66f），在他关于海湾战争的书中，他重申了这一观点（1995：85），因此未能看到越南战争的实际政治利害和原因，以及资本主义和共产主义阵营之间的斗争的重要性。\[[12](https://plato.stanford.edu/entries/baudrillard/notes.html#note-12)]
 
 对于鲍德里亚来说，纽约世界贸易中心的双子塔也象征着资本主义和共产主义两个体系之间的冻结历史和停滞状态。总体而言，他将历史视为不断扩展的技术理性的展开，逐渐转变为其相反面，随着系统吸纳越来越多的元素，产生了一个改进的技术秩序，然后通过其过度、幻觉和产生意想不到的后果而变得非理性。然而，这种高度抽象的分析方式掩盖了更具体的历史决定因素，这些因素将分析技术理性的构建和运作以及其出现故障的方式和原因。它还掩盖了由全球资本主义危机和重组、原教旨主义的崛起、种族冲突和全球恐怖主义等因素引发的混乱和动荡，这些因素在某种程度上是对市场体系全球化合理化和双极世界秩序瓦解的回应。
 
-鲍德里亚对海湾战争的反思采取了类似的立场，认为这是新世界秩序进一步合理化世界的尝试，认为海湾战争实际上是为了将伊斯兰教引入新世界秩序（1995：19）。第一篇名为“海湾战争不会发生”的研究最初是在实际爆发军事敌对行动的几天前发表的，重申了他早期的“弱事件”和冻结历史的概念。与鲍德里亚相反，海湾战争确实发生了，但这并没有阻止他在事件期间发表声称它“实际上没有发生”以及战后声称它“没有发生”的研究，他认为这是一个媒体场景而不是真正的战争。鲍德里亚并没有帮助我们更好地理解事件，甚至没有帮助我们把握媒体在当代政治场景中的作用。将战争等复杂事件简化为模拟或超现实的范畴，揭示了媒体事件的虚拟和高科技维度，但抹去了它们所有具体的决定因素。然而，鲍德里亚式的后现代范畴有助于理解生活在媒体和计算机世界中的文化动力，人们似乎喜欢沉浸在模拟事件中（例如 1991 年的海湾战争、1994-1996 年的 O.J.辛普森审判、克林顿性丑闻以及 1990 年代各种其他媒体场景，以及第三个千年初的 9/11 恐怖袭击）。[[13](https://plato.stanford.edu/entries/baudrillard/notes.html#note-13)]
+鲍德里亚对海湾战争的反思采取了类似的立场，认为这是新世界秩序进一步合理化世界的尝试，认为海湾战争实际上是为了将伊斯兰教引入新世界秩序（1995：19）。第一篇名为“海湾战争不会发生”的研究最初是在实际爆发军事敌对行动的几天前发表的，重申了他早期的“弱事件”和冻结历史的概念。与鲍德里亚相反，海湾战争确实发生了，但这并没有阻止他在事件期间发表声称它“实际上没有发生”以及战后声称它“没有发生”的研究，他认为这是一个媒体场景而不是真正的战争。鲍德里亚并没有帮助我们更好地理解事件，甚至没有帮助我们把握媒体在当代政治场景中的作用。将战争等复杂事件简化为模拟或超现实的范畴，揭示了媒体事件的虚拟和高科技维度，但抹去了它们所有具体的决定因素。然而，鲍德里亚式的后现代范畴有助于理解生活在媒体和计算机世界中的文化动力，人们似乎喜欢沉浸在模拟事件中（例如 1991 年的海湾战争、1994-1996 年的 O.J.辛普森审判、克林顿性丑闻以及 1990 年代各种其他媒体场景，以及第三个千年初的 9/11 恐怖袭击）。\[[13](https://plato.stanford.edu/entries/baudrillard/notes.html#note-13)]
 
-在《幻象的终结》（1994b）中，让·鲍德里亚直接抨击了他所认为的当前历史、政治和形而上学的幻象，并试图解释他自己的政治错误预测，即当代历史呈现出一种冰冻、冰川化的状态，东西方陷入僵局，威慑体系凝固，确保以后不会发生任何戏剧性事件，海湾战争无法发生，历史已经终结。鲍德里亚动用他全部的修辞技巧和哲学分析，试图在 1989 年至 1991 年的戏剧性事件面前维持这些假设，他声称这些事件实际上是“弱事件”，事件仍然处于停工状态，历史确实消失了。[14] 他继续主张，现代性作为一个历史时代已经结束，它的政治冲突和动荡、创新和革命、自治和创造性主体以及进步、民主、启蒙等神话已经耗尽，从此后，平庸的折衷主义、惯性内爆和永恒的循环成为了定义性特征。
+在《幻象的终结》（1994b）中，让·鲍德里亚直接抨击了他所认为的当前历史、政治和形而上学的幻象，并试图解释他自己的政治错误预测，即当代历史呈现出一种冰冻、冰川化的状态，东西方陷入僵局，威慑体系凝固，确保以后不会发生任何戏剧性事件，海湾战争无法发生，历史已经终结。鲍德里亚动用他全部的修辞技巧和哲学分析，试图在 1989 年至 1991 年的戏剧性事件面前维持这些假设，他声称这些事件实际上是“弱事件”，事件仍然处于停工状态，历史确实消失了。\[14] 他继续主张，现代性作为一个历史时代已经结束，它的政治冲突和动荡、创新和革命、自治和创造性主体以及进步、民主、启蒙等神话已经耗尽，从此后，平庸的折衷主义、惯性内爆和永恒的循环成为了定义性特征。
 
 对于鲍德里亚来说，随着共产主义的崩溃，20 世纪 90 年代末，强大思想的时代，革命和普遍解放的冲突世界已经结束。根据他的观点，共产主义因其自身的惯性而崩溃，它从内部自我毁灭，而不是在意识形态斗争或军事战争中灭亡。随着其异议人士被吸收到权力中，再也没有强大思想的冲突，没有反对和抵抗，没有批判性超越。随着前共产主义政权融入资本主义世界市场和自由民主体系，西方不再有对抗的他者，不再有创造性或意识形态的紧张，不再有对西方世界的全球替代方案。
 
@@ -198,13 +193,13 @@
 
 在鲍德里亚看来，9/11 袭击代表着“全球化的胜利与自身战争的冲突”，并展开了一场“第四次世界大战”：“第一次结束了欧洲的霸权和殖民主义时代；第二次结束了纳粹主义；第三次结束了共产主义。每一次都使我们逐渐接近今天的单一世界秩序，现在它正接近尾声，到处都面临着敌对势力的抵抗。这是一场具有分形复杂性的战争，全球范围内对抗叛逆的个体，它们像抗体一样在每个细胞中发起抵抗。”（Sokal 和 Bricmont（1998）批评鲍德里亚对科学术语的隐喻使用。）
 
-在他的回应最初在法国报纸上发表并立即被翻译成英语和其他语言之后，鲍德里亚本人被指责为辩护恐怖主义，当他在《世界报》的一篇文章中说：“因为正是这个令人无法忍受的超级大国（即美国）引发了如今在全世界蔓延的暴力和（我们不知道的）潜藏在我们内心的恐怖想象。全世界无一例外都曾梦想过这一事件，无人能够不梦想摧毁如此强大的霸权国家——这个事实对西方的道德良心来说是无法接受的。然而，这确实是一个事实，一个抵抗所有掩盖它的情感暴力的事实。最终，是他们做到了，但我们却希望这样。”[15]
+在他的回应最初在法国报纸上发表并立即被翻译成英语和其他语言之后，鲍德里亚本人被指责为辩护恐怖主义，当他在《世界报》的一篇文章中说：“因为正是这个令人无法忍受的超级大国（即美国）引发了如今在全世界蔓延的暴力和（我们不知道的）潜藏在我们内心的恐怖想象。全世界无一例外都曾梦想过这一事件，无人能够不梦想摧毁如此强大的霸权国家——这个事实对西方的道德良心来说是无法接受的。然而，这确实是一个事实，一个抵抗所有掩盖它的情感暴力的事实。最终，是他们做到了，但我们却希望这样。”\[15]
 
-鲍德里亚为自己被指责为激烈的反美主义或恐怖主义合法化进行了辩护，声称：“我不赞美杀人袭击——那将是愚蠢的。恐怖主义不是一种反对压迫和资本主义的当代革命形式。没有意识形态，没有为目标而斗争，甚至伊斯兰原教旨主义也无法解释它。……我没有美化任何事物，指责任何人，合理化任何事情。不应该混淆信使和他的信息。我努力分析了全球化的无限扩张如何创造了自身毁灭的条件。”[16]
+鲍德里亚为自己被指责为激烈的反美主义或恐怖主义合法化进行了辩护，声称：“我不赞美杀人袭击——那将是愚蠢的。恐怖主义不是一种反对压迫和资本主义的当代革命形式。没有意识形态，没有为目标而斗争，甚至伊斯兰原教旨主义也无法解释它。……我没有美化任何事物，指责任何人，合理化任何事情。不应该混淆信使和他的信息。我努力分析了全球化的无限扩张如何创造了自身毁灭的条件。”\[16]
 
-事实上，让·鲍德里亚也提出了一些关于全球化的引人思考的观点。在《全球的暴力》一文中，他区分了全球与普遍，将全球化与技术、市场、旅游和信息联系起来，与普遍性的认同相对应，普遍性包括“人权、自由、文化和民主”[[17](https://plato.stanford.edu/entries/baudrillard/notes.html#note-17)]。虽然“全球化似乎是不可逆转的，...普遍化可能正在走向消亡。”在其他地方，鲍德里亚写道：“...自由的概念，一种新的而最近的概念，已经从思想和风俗中逐渐消失，而自由化的全球化正在以完全相反的形式出现——一种警察国家的全球化，一种完全控制，一种基于‘法律和秩序’措施的恐怖。去除管制最终导致了最大限度的限制和约束，类似于一个原教旨主义社会。”[[18](https://plato.stanford.edu/entries/baudrillard/notes.html#note-18)]
+事实上，让·鲍德里亚也提出了一些关于全球化的引人思考的观点。在《全球的暴力》一文中，他区分了全球与普遍，将全球化与技术、市场、旅游和信息联系起来，与普遍性的认同相对应，普遍性包括“人权、自由、文化和民主”\[[17](https://plato.stanford.edu/entries/baudrillard/notes.html#note-17)]。虽然“全球化似乎是不可逆转的，...普遍化可能正在走向消亡。”在其他地方，鲍德里亚写道：“...自由的概念，一种新的而最近的概念，已经从思想和风俗中逐渐消失，而自由化的全球化正在以完全相反的形式出现——一种警察国家的全球化，一种完全控制，一种基于‘法律和秩序’措施的恐怖。去除管制最终导致了最大限度的限制和约束，类似于一个原教旨主义社会。”\[[18](https://plato.stanford.edu/entries/baudrillard/notes.html#note-18)]
 
-许多人将全球化视为市场经济、民主、技术、移民和旅游以及思想和文化的全球流通的矩阵。有趣的是，鲍德里亚采取了反全球化运动中那些谴责全球化与民主和人权相反的立场。对他来说，全球化基本上是一种同质化和标准化的过程，压制了“独特性”和多样性。然而，这种立场未能注意到全球化同时产生同质化、混合化和差异化的矛盾，以及反企业全球化运动正在为社会正义、民主和权利的增加而奋斗，而这些因素与鲍德里亚将其与即将消亡的普遍化联系起来。事实上，权利和正义的斗争是全球化的重要组成部分，而鲍德里亚将人权、民主和正义作为被全球化抹去的过时普遍化的一部分，从理论和政治上都存在问题[[19](https://plato.stanford.edu/entries/baudrillard/notes.html#note-19)]
+许多人将全球化视为市场经济、民主、技术、移民和旅游以及思想和文化的全球流通的矩阵。有趣的是，鲍德里亚采取了反全球化运动中那些谴责全球化与民主和人权相反的立场。对他来说，全球化基本上是一种同质化和标准化的过程，压制了“独特性”和多样性。然而，这种立场未能注意到全球化同时产生同质化、混合化和差异化的矛盾，以及反企业全球化运动正在为社会正义、民主和权利的增加而奋斗，而这些因素与鲍德里亚将其与即将消亡的普遍化联系起来。事实上，权利和正义的斗争是全球化的重要组成部分，而鲍德里亚将人权、民主和正义作为被全球化抹去的过时普遍化的一部分，从理论和政治上都存在问题\[[19](https://plato.stanford.edu/entries/baudrillard/notes.html#note-19)]
 
 在 911 事件之前，鲍德里亚认为全球化和技术发展正在产生标准化和虚拟化，这种标准化和虚拟化正在抹去个体性、社会斗争、批判和现实本身，越来越多的人沉浸在媒体、网络空间和虚拟文化的超现实和虚拟现实中。现实的消失构成了《完美犯罪》一书的主题，这一主题在《生命的幻觉》（2000 年）中得到了详细阐述。鲍德里亚在这里将自己描绘成一位侦探，寻找“完美犯罪”的肇事者，即现实的谋杀，“现代历史上最重要的事件”。他反复强调的主题是在信息和仿真的领域中真实的破坏和消失，以及随后幻觉和表象的统治。以尼采的方式，他暗示从此以后真理和现实都是幻觉，幻觉统治着一切，因此人们应该尊重幻觉和表象，放弃对真理和现实的虚幻追求。
 
@@ -216,7 +211,7 @@
 
 让·鲍德里亚最重要的地方可能是作为后现代转向现代社会及其学科的一部分。他的工作跨越学科，并促进跨学科思考。他挑战标准智慧，对接受的教条和方法提出质疑。虽然他早期关于消费社会、符号的政治经济学、模拟和仿真以及以前分离的现象的内爆的工作可以在批判哲学和社会理论中使用，但他 80 年代后期以后的大部分工作都自觉超越了古典传统，在过去十年的大多数采访中，鲍德里亚都与批判哲学和社会理论保持距离，声称批判的能量已经消散。
 
-因此，回顾起来，鲍德里亚是现代性终结的跨学科理论家，他为后现代时代提供了指引，并且是一个重要但不太可靠的新时代导向者。人们可以将鲍德里亚 20 世纪 70 年代以后的作品看作是科幻小说，通过夸大现有趋势来预测未来，并提前警告如果现有趋势继续下去可能会发生的事情（Kellner 1995）。鲍德里亚是科幻小说的爱好者并非偶然，他本人影响了许多当代科幻作家和电影制片人，包括《黑客帝国》（1999 年），其中引用了他的作品。[[21](https://plato.stanford.edu/entries/baudrillard/notes.html#note-21)]
+因此，回顾起来，鲍德里亚是现代性终结的跨学科理论家，他为后现代时代提供了指引，并且是一个重要但不太可靠的新时代导向者。人们可以将鲍德里亚 20 世纪 70 年代以后的作品看作是科幻小说，通过夸大现有趋势来预测未来，并提前警告如果现有趋势继续下去可能会发生的事情（Kellner 1995）。鲍德里亚是科幻小说的爱好者并非偶然，他本人影响了许多当代科幻作家和电影制片人，包括《黑客帝国》（1999 年），其中引用了他的作品。\[[21](https://plato.stanford.edu/entries/baudrillard/notes.html#note-21)]
 
 然而，鉴于他对与现代性的所谓决裂的夸张，不清楚鲍德里亚最后二十年的工作最好是被视为科幻小说还是理论。他显然希望以两种方式来看待社会理论家，认为他提供了对当代社会现实的显著观点，揭示了鲍德里亚认为真实发生的事情，他如实地讲述了事实。然而，更加愤世嫉俗的反社会学家被鼓励享受鲍德里亚的虚构作品、他的实验性言辞、他的游戏和玩耍。同样，他有时鼓励文化形而上学家将他的作品视为对我们时代现实的认真思考，同时对那些对此类事业持怀疑态度的人眨眼示意。鲍德里亚的哲学著作激发哲学家们捍卫他们的立场，并在当代现实的光芒下重新思考某些传统问题。
 
@@ -230,83 +225,83 @@
 
 Major Theoretical Works by Baudrillard:
 
-* 1968 [1996c], *The System of Objects*, London: Verso.
-* 1970 [1998], *The Consumer Society*, Paris: Gallimard.
-* 1973 [1975], *The Mirror of Production*, St. Louis: Telos Press.
-* 1973 [1981], *For a Critique of the Political Economy of the Sign*, St. Louis: Telos Press.
-* 1983a, *Simulations*, New York: Semiotext(e).
-* 1983b, *In the Shadow of the Silent Majorities*, New York: Semiotext(e).
-* 1983c, “The Ecstacy of Communication,” in *The Anti-Aesthetic*, Hal Foster (ed.), Washington: Bay Press.
-* 1987, “When Bataille Attacked the Metaphysical Principle of Economy,” D.J. Miller (trans.), *Canadian Journal of Political and Social Theory*, 11: 57–62.
-* 1988, *America*, London: Verso.
-* 1990a, *Cool Memories*, London: Verso.
-* 1990b, *Fatal Strategies*, New York: Semiotext(e).
-* 1993a, *Symbolic Exchange and Death*, London: Sage.
-* 1993b, *The Transparency of Evil*, London: Verso.
-* 1994a, *Simulacra and Simulation*, Ann Arbor: The University of Michigan Press.
-* 1994b, *The Illusion of the End*, Oxford: Polity Press.
-* 1995, *The Gulf War Did Not Take Place*, P. Patton (trans.), Sydney: Power Publications, and Bloomington: Indiana University Press.
-* 1996a, *Cool Memories II*, Oxford: Polity Press.
-* 1996b, *The Perfect Crime*, London and New York: Verso Books.
-* 1997, *Fragments: Cool Memories III, 1990–1995*, London and New York: Verso Books.
-* 2000, *The Vital Illusion*, New York: Columbia University Press.
-* 2001, *Impossible Exchange*, London: Verso.
-* 2002a, *The Spirit of Terrorism: And Requiem for the Twin Towers*, London: Verso.
-* 2002b, *Screened Out*, London: Verso.
-* 2005a, *The Intelligence of Evil or the Lucicity Pact*. London: Verson.
-* 2005b, *The Conspiracy of Art*. New York: Semiotext(e).
-* 2006a, *Utopia Deferred. Writing from Utopie (1967–1978)*. New York: Semiotext(e).
-* 2006b, “The Pyres of Autumn”, *New Left Review* II (37), Jan/Feb. [[Baudrillard 2006b available online](http://newleftreview.org/II/37/jean-baudrillard-the-pyres-of-autumn)].
+* 1968 \[1996c], _The System of Objects_, London: Verso.
+* 1970 \[1998], _The Consumer Society_, Paris: Gallimard.
+* 1973 \[1975], _The Mirror of Production_, St. Louis: Telos Press.
+* 1973 \[1981], _For a Critique of the Political Economy of the Sign_, St. Louis: Telos Press.
+* 1983a, _Simulations_, New York: Semiotext(e).
+* 1983b, _In the Shadow of the Silent Majorities_, New York: Semiotext(e).
+* 1983c, “The Ecstacy of Communication,” in _The Anti-Aesthetic_, Hal Foster (ed.), Washington: Bay Press.
+* 1987, “When Bataille Attacked the Metaphysical Principle of Economy,” D.J. Miller (trans.), _Canadian Journal of Political and Social Theory_, 11: 57–62.
+* 1988, _America_, London: Verso.
+* 1990a, _Cool Memories_, London: Verso.
+* 1990b, _Fatal Strategies_, New York: Semiotext(e).
+* 1993a, _Symbolic Exchange and Death_, London: Sage.
+* 1993b, _The Transparency of Evil_, London: Verso.
+* 1994a, _Simulacra and Simulation_, Ann Arbor: The University of Michigan Press.
+* 1994b, _The Illusion of the End_, Oxford: Polity Press.
+* 1995, _The Gulf War Did Not Take Place_, P. Patton (trans.), Sydney: Power Publications, and Bloomington: Indiana University Press.
+* 1996a, _Cool Memories II_, Oxford: Polity Press.
+* 1996b, _The Perfect Crime_, London and New York: Verso Books.
+* 1997, _Fragments: Cool Memories III, 1990–1995_, London and New York: Verso Books.
+* 2000, _The Vital Illusion_, New York: Columbia University Press.
+* 2001, _Impossible Exchange_, London: Verso.
+* 2002a, _The Spirit of Terrorism: And Requiem for the Twin Towers_, London: Verso.
+* 2002b, _Screened Out_, London: Verso.
+* 2005a, _The Intelligence of Evil or the Lucicity Pact_. London: Verson.
+* 2005b, _The Conspiracy of Art_. New York: Semiotext(e).
+* 2006a, _Utopia Deferred. Writing from Utopie (1967–1978)_. New York: Semiotext(e).
+* 2006b, “The Pyres of Autumn”, _New Left Review_ II (37), Jan/Feb. \[[Baudrillard 2006b available online](http://newleftreview.org/II/37/jean-baudrillard-the-pyres-of-autumn)].
 * 2010, The Agony of Power. Semiotext(e) Intervention Series. Vol. 6. Cambridge, MA: Semiotext(e).
-* 2015, *Jean Baudrillard: From Hyperreality to Disappearance: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
-* 2017, *Jean Baudrillard: The Disappearance of Culture: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
+* 2015, _Jean Baudrillard: From Hyperreality to Disappearance: Uncollected Interviews_, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
+* 2017, _Jean Baudrillard: The Disappearance of Culture: Uncollected Interviews_, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
 
 ## Secondary Literature
 
-* Best, Steven, and Kellner, Douglas, 1991, *Postmodern Theory: Critical Interrogations*, London and New York: MacMillan and Guilford Press.
-* –––, 1997, *The Postmodern Turn*, New York: Guilford Press.
-* –––, 2001, *The Postmodern Adventure*, New York: Guilford Press.
-* Bishop, Ryan (ed.), 2009, *Baudrillard Now: Current Perspectives in Baudrillard Studies*. Cambridge, UK: Polity Press.
-* Butler, Rex, 1999, *Jean Baudrillard: The Defense of the Real*, London and Thousand Oaks: Sage.
-* Clarke, D.B., Doel, M.A., Merrin, William, and Smith, R.G. (eds), 2009, *Jean Baudrillard. Fatal Theories*. London and New York: Routledge.
-* Debord, Guy, 1970, *The Society of the Spectacle*, Detroit: Black and Red.
-* Frankovits, Alan, 1984, editor *Seduced and Abandoned: The Baudrillard Scene*, Glebe, New South Wales: Stonemoss.
-* Gane, Mike, 1991, *Baudrillard. Critical and Fatal Theory*, London: Routledge.
-* –––, 2000, *Jean Baudrillard: In Radical Uncertainty*. London: Pluto Press.
-* ––– (ed.), 1993, *Baudrillard Live. Selected Interviews*, London: Routledge.
-* Genosko, Gary, 1994, *Baudrillard and Signs*, London: Routledge.
-* Grace, V., 2000, *Baudrillard’s Challenge: A Feminist Reading*, London: Routledge.
-* Jarry, Alfred, 1963, “What is Pataphysics?,” *Evergreen Review*, 13: 131–151.
-* –––, 1969, *The Ubu Plays*, New York: Grove press.
-* Kellner, Douglas, 1989a, *Jean Baudrillard: From Marxism to Postmodernism and Beyond*, Cambridge and Palo Alto: Polity Press and Stanford University Press.
-* –––, 1989b, *Critical Theory, Marxism, and Modernity*, Cambridge, UK and Baltimore, MD: Polity Press and John Hopkins University Press, 1989.
-* ––– (ed.), 1994, *Jean Baudrillard. A Critical Reader*, Oxford: Basil Blackwell.
-* –––, 1995, *Media Culture. Cultural Studies, Identity and Politics Between the Modern and the Postmodern*, London and New York: Routledge.
-* –––, 2003a, *Media Spectacle*, London and New York: Routledge.
-* –––, 2003b, *From September 11 to Terror War: The Dangers of the Bush Legacy*, Lanham, Md.: Rowman and Littlefield.
-* Lefebvre, Henri, 1971 [1968], *Everyday Life in the Modern World*, New Brunswick: Transaction Books.
-* –––, 1991 [1947; 1958], *Critique of Everyday Life*, London: Verso.
-* Norris, Christopher, 1998 *Uncritical Theory: Postmodernism, Intellectuals and the Gulf War.* Amhearst: Univ of Massachusetts Press.
-* Rokek, Chris and Bryan Turner, 1993, editors *Forget Baudrillard*, London: Routledge.
-* Smith, Jonathan, 2004, “The Gnostic Baudrillard: A Philosophy of Terrorism Seeking Pure Appearance,” in *International Journal of Baudrillard Studies*, Volume 1/No. 1 (January).
-* Sokal, A. and J. Bricmont, 1998, “Jean Baudrillard” in *Fashionable Nonsense: Postmodern Intellectuals’ Abuse of Science*, New York: Picador, pp. 147–153.
-* Stearns, William and William Chaloupka (eds.), 1992, *The Disappearence of Art and Politics*, New York and London: Saint Martins and Macmillan Press.
-* Woodward, Ashley, 2009, *Nihilism in postmodernity: Lyotard, Baudrillard, Vattimo*, Aurora, Colo,: Davies Group, Publishers.
+* Best, Steven, and Kellner, Douglas, 1991, _Postmodern Theory: Critical Interrogations_, London and New York: MacMillan and Guilford Press.
+* –––, 1997, _The Postmodern Turn_, New York: Guilford Press.
+* –––, 2001, _The Postmodern Adventure_, New York: Guilford Press.
+* Bishop, Ryan (ed.), 2009, _Baudrillard Now: Current Perspectives in Baudrillard Studies_. Cambridge, UK: Polity Press.
+* Butler, Rex, 1999, _Jean Baudrillard: The Defense of the Real_, London and Thousand Oaks: Sage.
+* Clarke, D.B., Doel, M.A., Merrin, William, and Smith, R.G. (eds), 2009, _Jean Baudrillard. Fatal Theories_. London and New York: Routledge.
+* Debord, Guy, 1970, _The Society of the Spectacle_, Detroit: Black and Red.
+* Frankovits, Alan, 1984, editor _Seduced and Abandoned: The Baudrillard Scene_, Glebe, New South Wales: Stonemoss.
+* Gane, Mike, 1991, _Baudrillard. Critical and Fatal Theory_, London: Routledge.
+* –––, 2000, _Jean Baudrillard: In Radical Uncertainty_. London: Pluto Press.
+* ––– (ed.), 1993, _Baudrillard Live. Selected Interviews_, London: Routledge.
+* Genosko, Gary, 1994, _Baudrillard and Signs_, London: Routledge.
+* Grace, V., 2000, _Baudrillard’s Challenge: A Feminist Reading_, London: Routledge.
+* Jarry, Alfred, 1963, “What is Pataphysics?,” _Evergreen Review_, 13: 131–151.
+* –––, 1969, _The Ubu Plays_, New York: Grove press.
+* Kellner, Douglas, 1989a, _Jean Baudrillard: From Marxism to Postmodernism and Beyond_, Cambridge and Palo Alto: Polity Press and Stanford University Press.
+* –––, 1989b, _Critical Theory, Marxism, and Modernity_, Cambridge, UK and Baltimore, MD: Polity Press and John Hopkins University Press, 1989.
+* ––– (ed.), 1994, _Jean Baudrillard. A Critical Reader_, Oxford: Basil Blackwell.
+* –––, 1995, _Media Culture. Cultural Studies, Identity and Politics Between the Modern and the Postmodern_, London and New York: Routledge.
+* –––, 2003a, _Media Spectacle_, London and New York: Routledge.
+* –––, 2003b, _From September 11 to Terror War: The Dangers of the Bush Legacy_, Lanham, Md.: Rowman and Littlefield.
+* Lefebvre, Henri, 1971 \[1968], _Everyday Life in the Modern World_, New Brunswick: Transaction Books.
+* –––, 1991 \[1947; 1958], _Critique of Everyday Life_, London: Verso.
+* Norris, Christopher, 1998 _Uncritical Theory: Postmodernism, Intellectuals and the Gulf War._ Amhearst: Univ of Massachusetts Press.
+* Rokek, Chris and Bryan Turner, 1993, editors _Forget Baudrillard_, London: Routledge.
+* Smith, Jonathan, 2004, “The Gnostic Baudrillard: A Philosophy of Terrorism Seeking Pure Appearance,” in _International Journal of Baudrillard Studies_, Volume 1/No. 1 (January).
+* Sokal, A. and J. Bricmont, 1998, “Jean Baudrillard” in _Fashionable Nonsense: Postmodern Intellectuals’ Abuse of Science_, New York: Picador, pp. 147–153.
+* Stearns, William and William Chaloupka (eds.), 1992, _The Disappearence of Art and Politics_, New York and London: Saint Martins and Macmillan Press.
+* Woodward, Ashley, 2009, _Nihilism in postmodernity: Lyotard, Baudrillard, Vattimo_, Aurora, Colo,: Davies Group, Publishers.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=baudrillard). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/baudrillard/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=baudrillard&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/baudrillard/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=baudrillard).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/baudrillard/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=baudrillard\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/baudrillard/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [International Journal of Baudrillard Studies](https://baudrillardstudies.ubishops.ca/), hosted at Bishop’s University.
-* Baudrillard, J., 2003, “[The Matrix Decoded: *Le Nouvel Observateur* Interview with Jean Baudrillard,](https://baudrillardstudies.ubishops.ca/the-matrix-decoded-le-nouvel-observateur-interview-with-jean-baudrillard/)” translated by Gary Genosko.
-* Baudrillard, J., 2004, “[This is the Fourth World War: The *Der Spiegel* Interview with Jean Baudrillard,](https://baudrillardstudies.ubishops.ca/this-is-the-fourth-world-war-the-der-spiegel-interview-with-jean-baudrillard/)” translated by Samir Gandesha, in *International Journal of Baudrillard Studies*, Volume 1/No. 1 (January).
-* Goldblatt, M., 2001, [America *wanted* Sept. 11.](http://www.nationalreview.com/article/220366/french-toast-mark-goldblatt), French Toast column, *National Review Online*, (December 13, 2001).
+* Baudrillard, J., 2003, “[The Matrix Decoded: _Le Nouvel Observateur_ Interview with Jean Baudrillard,](https://baudrillardstudies.ubishops.ca/the-matrix-decoded-le-nouvel-observateur-interview-with-jean-baudrillard/)” translated by Gary Genosko.
+* Baudrillard, J., 2004, “[This is the Fourth World War: The _Der Spiegel_ Interview with Jean Baudrillard,](https://baudrillardstudies.ubishops.ca/this-is-the-fourth-world-war-the-der-spiegel-interview-with-jean-baudrillard/)” translated by Samir Gandesha, in _International Journal of Baudrillard Studies_, Volume 1/No. 1 (January).
+* Goldblatt, M., 2001, [America _wanted_ Sept. 11.](http://www.nationalreview.com/article/220366/french-toast-mark-goldblatt), French Toast column, _National Review Online_, (December 13, 2001).
 * Kellner, Douglas, 2005, “[Baudrillard, Globalization and Terrorism: Some Comments on Recent Adventures of the Image and Spectacle on the Occasion of Baudrillard’s 75th Birthday,](https://baudrillardstudies.ubishops.ca/baudrillard-globalization-and-terrorism-some-comments-on-recent-adventures-of-the-image-and-spectacle-on-the-occasion-of-baudrillards-75th-birthday/)” International Journal of Baudrillard Studies, Volume 2, Number 1.
 * [Jean Baudrillard Bibliography](https://egs.edu/faculty/jean-baudrillard/bibliography), maintained at the European Graduate School.
 * [Postmodern Theory](https://pages.gseis.ucla.edu/faculty/kellner/pomo/index.html), maintained by Douglas Kellner (UCLA).
@@ -314,11 +309,11 @@ Major Theoretical Works by Baudrillard:
 
 ## Related Entries
 
-[critical theory](https://plato.stanford.edu/entries/critical-theory/) | [Marcuse, Herbert](https://plato.stanford.edu/entries/marcuse/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [postmodernism](https://plato.stanford.edu/entries/postmodernism/)
+[critical theory](https://plato.stanford.edu/entries/critical-theory/) | [Marcuse, Herbert](https://plato.stanford.edu/entries/marcuse/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [postmodernism](https://plato.stanford.edu/entries/postmodernism/)
 
 ### Acknowledgments
 
 For critical commentary that helped with the revision of this entry, I am grateful to Edward N. Zalta and Uri Nodelman.
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Douglas Kellner](https://pages.gseis.ucla.edu/faculty/kellner/) <[*kellner@ucla.edu*](mailto:kellner%40ucla%2eedu)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Douglas Kellner](https://pages.gseis.ucla.edu/faculty/kellner/) <[_kellner@ucla.edu_](mailto:kellner%40ucla%2eedu)>

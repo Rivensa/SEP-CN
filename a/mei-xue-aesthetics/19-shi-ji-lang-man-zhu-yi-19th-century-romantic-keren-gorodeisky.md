@@ -1,7 +1,6 @@
 # 19 世纪浪漫主义 19th Century Romantic (Keren Gorodeisky)
 
-
-*首次发布于 2016 年 6 月 14 日*
+_首次发布于 2016 年 6 月 14 日_
 
 理解浪漫美学并不是一项简单的任务，原因在于这个主题的本质内在的复杂性。杰出的学者，如阿瑟·洛夫乔伊、诺斯罗普·弗莱和以赛亚·柏林，都曾提到定义浪漫主义的任何尝试都面临着困难。例如，洛夫乔伊声称浪漫主义是“文学史和批评的丑闻”（1960: 234）。根据他的观点，研究浪漫主义的主要困难在于缺乏任何“单一的真实实体或实体类型”来指代“浪漫主义”这个概念。洛夫乔伊得出结论：“‘浪漫’这个词已经意味着太多的东西，以至于它本身什么也不意味着”（1960: 235）。
 
@@ -9,7 +8,7 @@
 
 然而，尽管面临这些挑战，对浪漫主义审美进行表征的任务既不是不可能的，也不是不可取的，正如许多哲学家对洛夫乔伊的激进怀疑所做的回应所指出的那样。例如，柏林在警告不要简化定义浪漫主义的同时，仍然强调了对其进行一般性表征的必要性：
 
-> [虽然]人们对洛夫乔伊的绝望有一定的同情心...[他在这个例子中]是错误的。确实存在着一个浪漫主义运动；它确实有一些核心内容；它确实在意识上引发了一场伟大的革命，发现其中的重要性是很重要的。(1999: 20)
+> \[虽然]人们对洛夫乔伊的绝望有一定的同情心...\[他在这个例子中]是错误的。确实存在着一个浪漫主义运动；它确实有一些核心内容；它确实在意识上引发了一场伟大的革命，发现其中的重要性是很重要的。(1999: 20)
 
 近年来，对浪漫主义进行特征化并强调其当代的相关性的尝试遵循这一路径。这些研究并不忽视洛夫乔伊所强调的不同国家的浪漫主义之间不可否认的差异，而是试图以“特定的哲学问题和关注点”（纳萨尔 2014b：10，注 9）来特征化浪漫主义，而不是以单一定义、特定时间或特定地点来界定。
 
@@ -19,17 +18,17 @@
 
 * [1. 美的首要性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#PrimAest)
 * [2. 审美体验与理性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestReas)
-* [2.1 启蒙运动与](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#EnliSturUndDran)​*[风暴与激情](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#EnliSturUndDran)*
+* [2.1 启蒙运动与](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#EnliSturUndDran)​\*[风暴与激情](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#EnliSturUndDran)\*
 * [2.2 浪漫主义诗歌与浪漫讽刺](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#RomaPoetRomaIron)
 * [3. 美学、认识论和形而上学](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestEpisMeta)
 * [3.1 绝对](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Abso)
 * [3.2 审美体验](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestFeel)
-* [3.3 ](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)​*[独特的](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)*​[ 规范性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)
+* [3.3 ](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)​\*[独特的](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)\*​[ 规范性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)
 * [3.4 具体个体性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#ConcIndi)
 * [3.5 开放性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#OpenEnde)
 * [4. 美学、伦理学和政治学](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestEthiPoli)
 * [4.1 自主性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Auto)
-* [4.2 ](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Bild)​*[Bildung](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Bild)*
+* [4.2 ](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Bild)​\*[Bildung](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Bild)\*
 * [4.3 个体性与社会性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#IndiSoci)
 * [4.4 政治共同体](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#PoliComm)
 * [4.5 晚期浪漫主义](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#LateRoma)
@@ -45,15 +44,15 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Rel)
 
----
+***
 
 ## 1. 审美的首要性
 
-一个共同的关注点显著地统一了不同的浪漫主义贡献。无论是早期还是晚期，德国、英国和法国的浪漫主义者都主张可以合理地称之为“审美的首要性”。在浪漫主义中，“审美”——最广泛地涉及美和艺术的事物——不仅仅是人类生活的一个方面，也不仅仅是人文学科的一个分支。相反，如果浪漫主义的理想要实现，审美应该渗透并塑造人类生活。弗里德里希·施莱格尔（Friedrich Schlegel）是早期德国浪漫主义的主要人物之一，他用几句令人难忘的话表达了这个观点：“浪漫主义的命令要求[那些]自然和科学都应该成为艺术[而]艺术应该成为自然和科学”（FLP：#586）；“诗歌和哲学应该合二为一”（CF：#115），并且“生活和社会应该变得富有诗意”（AF：#16）。
+一个共同的关注点显著地统一了不同的浪漫主义贡献。无论是早期还是晚期，德国、英国和法国的浪漫主义者都主张可以合理地称之为“审美的首要性”。在浪漫主义中，“审美”——最广泛地涉及美和艺术的事物——不仅仅是人类生活的一个方面，也不仅仅是人文学科的一个分支。相反，如果浪漫主义的理想要实现，审美应该渗透并塑造人类生活。弗里德里希·施莱格尔（Friedrich Schlegel）是早期德国浪漫主义的主要人物之一，他用几句令人难忘的话表达了这个观点：“浪漫主义的命令要求\[那些]自然和科学都应该成为艺术\[而]艺术应该成为自然和科学”（FLP：#586）；“诗歌和哲学应该合二为一”（CF：#115），并且“生活和社会应该变得富有诗意”（AF：#16）。
 
 Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪漫主义的宣言《最古老的纲领》中稍早之前也有表达：
 
-> 联结每个人的理念是“美”的理念……我现在确信，最高的理性行为是审美行为，通过包容所有理念，而“真理和善良”只有在“美”中才是兄弟姐妹。（霍尔德林，引自 Bernstein 2003: 186）[[3](https://plato.stanford.edu/entries/aesthetics-19th-romantic/notes.html#note-3)]
+> 联结每个人的理念是“美”的理念……我现在确信，最高的理性行为是审美行为，通过包容所有理念，而“真理和善良”只有在“美”中才是兄弟姐妹。（霍尔德林，引自 Bernstein 2003: 186）\[[3](https://plato.stanford.edu/entries/aesthetics-19th-romantic/notes.html#note-3)]
 
 英国浪漫主义者们接受并发展了这种观点，即审美是知识和追求真理的基础。济慈在《希腊古瓮颂》（1820 年，第 49-50 行）中著名地宣称：“‘美即真，真即美’，这就是你们在地球上所知道的，也是你们所需要知道的一切。”而在柯勒律治和华兹华斯的《抒情长诗集》（1800 年）的前言中，我们读到：“诗歌是所有知识的首尾，它与人类的心灵一样永恒。”（第 20 段，第 141 页）
 
@@ -63,7 +62,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 ## 2. 审美体验与理性
 
-### 2.1 启蒙运动与*Sturm und Drang*
+### 2.1 启蒙运动与_Sturm und Drang_
 
 一个多世纪以来，浪漫主义通常被视为对启蒙运动的一种反应（例如，Haym 1870）。美学的首要地位似乎支持这个说法，因为根据这种解释，浪漫主义者用艺术的主权和涉及审美体验的情感和想象力能力取代了启蒙运动对理性主权的信仰。根据传统解释，浪漫主义是反理性主义或非理性主义的。然而，尽管浪漫主义对美学的首要追求标志着与启蒙运动的分道扬镳，但将浪漫主义美学视为反理性或非理性，并将其视为与核心启蒙价值观对立的是不合理的，有许多原因可以证明（参见 Beiser 2003，Engell 1981，Gregory 2005）。
 
@@ -75,7 +74,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 这样的宣言挑战了启蒙运动与浪漫主义之间所谓的断裂，也挑战了对浪漫主义的另一种标准解释，即将其视为直接源自于“风暴与激情”（Sturm und Drang），这是在 18 世纪 60 年代和 70 年代盛行的反启蒙运动。简而言之，这种对启蒙运动的回应在文学、戏剧、音乐和造型艺术作品中表达，宣扬个体主观性和自由表达无拘束感情作为启蒙运动价值的适当替代品。
 
-毫无疑问，浪漫主义与这一运动共同信仰“回归感觉”。但是将浪漫主义简单地视为*风暴与激情*的延续，在浪漫主义文本中找不到依据。在他对弗里德里希·雅各比的评论中，雅各比是*风暴与激情*的主要影响源之一，舒莱格宣称：“只有在追求*真理*和*知识*时，一个精神才能被称为哲学精神”（《雅各比的沃尔达默评论》KA II: 71–2）。在同一篇评论中，舒莱格严厉批评了雅各比所谓的“信仰飞跃”：这是雅各比的观点，即在启蒙运动的局限面前，挽救我们的伦理和宗教信仰的唯一途径是放弃理性，转而追求*纯粹的*感觉和信仰。与雅各比相反，德国浪漫主义者从未试图用信仰、感觉、无拘束的感觉或直觉来*取代*理性。相反，他们希望展现激情的理性性和理性的激情性，作为人类生活统一而平衡的一部分。因此，浪漫主义不是*风暴与激情*的直接发展，而更好地理解为试图将运动中的真理与启蒙哲学中的真理综合起来，或者简单地说，综合理性和感性。
+毫无疑问，浪漫主义与这一运动共同信仰“回归感觉”。但是将浪漫主义简单地视为_风暴与激情_的延续，在浪漫主义文本中找不到依据。在他对弗里德里希·雅各比的评论中，雅各比是_风暴与激情_的主要影响源之一，舒莱格宣称：“只有在追求_真理_和_知识_时，一个精神才能被称为哲学精神”（《雅各比的沃尔达默评论》KA II: 71–2）。在同一篇评论中，舒莱格严厉批评了雅各比所谓的“信仰飞跃”：这是雅各比的观点，即在启蒙运动的局限面前，挽救我们的伦理和宗教信仰的唯一途径是放弃理性，转而追求_纯粹的_感觉和信仰。与雅各比相反，德国浪漫主义者从未试图用信仰、感觉、无拘束的感觉或直觉来_取代_理性。相反，他们希望展现激情的理性性和理性的激情性，作为人类生活统一而平衡的一部分。因此，浪漫主义不是_风暴与激情_的直接发展，而更好地理解为试图将运动中的真理与启蒙哲学中的真理综合起来，或者简单地说，综合理性和感性。
 
 同样，英国和法国的浪漫主义者并不是要否定理性并用激情和想象力取而代之，而是追求“理性和激情的结合”（华兹华斯，《墓志铭论文 1810》在《华兹华斯诗文集》中）。因此，例如，柯勒律治所钦佩的华兹华斯并不仅仅是想象力和感觉，而是
 
@@ -87,7 +86,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 对于浪漫主义者来说，我们的接受和自发能力只能在思想中抽象出来，而不能在现实中分离：“行动和激情是不可分割的，就像南北极一样”（Novalis，FS：#317）。人的尊严既根植于理性和规范约束的接受能力，也根植于自发性。
 
-不安的追求活动，作为判断的最高准则，并不排除所有接受性的美德，而是*只能与它们共存*。（F. Schlegel, KA 12: 130）
+不安的追求活动，作为判断的最高准则，并不排除所有接受性的美德，而是_只能与它们共存_。（F. Schlegel, KA 12: 130）
 
 浪漫主义者并非完全否定理性的作用和意义，而是仅仅挑战了某些对理性的使用方式，例如教条主义的理性使用、绝对基础的确立和系统建构。并且以康德式的方式，他们关注揭示理性的限制并将其使用限制在合法的范围内。但即使是浪漫主义对限制的揭示，也是一种“审美”的。有人可能会问：“审美？”是的，审美在于浪漫主义揭示理性限制的一些核心手段（最初）是“审美的”，“艺术的”或“文学的”。“浪漫主义诗歌”就是其中一种手段，“讽刺”是另一种手段。
 
@@ -115,13 +114,13 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 ## 3. 美学、认识论和形而上学
 
-即使只是粗略地浏览浪漫主义作家的著作，也能让读者确信他们对艺术和审美的兴趣与他们的认识论和形而上学问题密切相关。浪漫主义者赋予审美的首要地位可以通过以下方式解释（但不仅限于此）：艺术和美的角色可能在追求认识论和形而上学目标时发挥作用。其中一个目标涉及德国浪漫主义者和随后的柯勒律治所称之为“绝对”（*das Absolute*）的概念。
+即使只是粗略地浏览浪漫主义作家的著作，也能让读者确信他们对艺术和审美的兴趣与他们的认识论和形而上学问题密切相关。浪漫主义者赋予审美的首要地位可以通过以下方式解释（但不仅限于此）：艺术和美的角色可能在追求认识论和形而上学目标时发挥作用。其中一个目标涉及德国浪漫主义者和随后的柯勒律治所称之为“绝对”（_das Absolute_）的概念。
 
 简而言之，这是解释的大致内容：在康德哲学之后，浪漫主义者关注的是绝对，即被理解为无条件的所有条件的总体。与康德一样，他们认为这样一个无条件的总体对于演绎理性来说是无法接触的，从某种程度上说，对于人类来说是无法知晓的。但是，理性对于这个“绝对”的自然驱动力仍然是重要和有价值的（[§3.1](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Abso)）。在审美中，他们找到了一种最接近（即使永远无法达到或把握）绝对的生活方式，因为审美方法对艺术作品的处理方式（a）包括不确定的情感方面（[§3.2](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestFeel)），（b）涉及一种独特的规范性，构成了与所面对的艺术作品相协调的自身规范（[§3.3](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)），（c）特别适合处理个体的统一性（[§3.4](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#ConcIndi)），以及（d）是开放性的（[§3.5](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#OpenEnde)）。
 
 ### 3.1 绝对
 
-最广义上，浪漫主义者所指的“绝对”是指所有条件的无条件总体。虽然绝对本身不受任何条件限制，但它却制约了世界上所有有限的物质和精神表现。受康德对“现实的全部”（*omnitudo realitatis*）的讨论以及斯宾诺莎的包罗万象的“实体”启发，浪漫主义的绝对是一个整体，而不是一个集合，它包含了一切其他的物质和精神：“只有整体才是绝对的”（诺瓦利斯，AB：#454）；“宇宙是绝对的主体，或者说是所有谓词的总体”（AB：#633）。在形而上学上，每一个有限的事物只是无条件总体的一种表现：只是整体的一个视角。因此，它既是有限的，又是无限的，作为无限整体的一部分。
+最广义上，浪漫主义者所指的“绝对”是指所有条件的无条件总体。虽然绝对本身不受任何条件限制，但它却制约了世界上所有有限的物质和精神表现。受康德对“现实的全部”（_omnitudo realitatis_）的讨论以及斯宾诺莎的包罗万象的“实体”启发，浪漫主义的绝对是一个整体，而不是一个集合，它包含了一切其他的物质和精神：“只有整体才是绝对的”（诺瓦利斯，AB：#454）；“宇宙是绝对的主体，或者说是所有谓词的总体”（AB：#633）。在形而上学上，每一个有限的事物只是无条件总体的一种表现：只是整体的一个视角。因此，它既是有限的，又是无限的，作为无限整体的一部分。
 
 这个绝对的概念并不是独特的浪漫主义。德国唯心主义者费希特、舍林和黑格尔也关注与绝对相关的概念。但浪漫主义对绝对的处理与唯心主义的处理有着明显的区别。正是浪漫主义对绝对的独特处理解释了浪漫主义美学中的许多内容：唯心主义者认为绝对是透明的，可以概念化地代表，并与其他知识项有推理关系，而浪漫主义者则将其视为（1）无法用概念把握（即“非言说性的”）和（2）非基础性的。
 
@@ -131,7 +130,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 浪漫主义者进一步认为，试图将整个知识体系建立在绝对之上的尝试是徒劳的。他们熟悉费希特的项目，对其既钦佩又严厉批评。与康德一样，他们认为理性自然而必然地驱使人们追求无条件的东西，但这种追求永远无法完全实现。经验的无条件完整性是一个“规范性的思想”（Novalis, FS: #472）：它不能作为经验的系统性基础。正如 Novalis 所言：
 
-我们寻求无条件的（*Das Ubedingte*），但总是只找到有条件的事物（*Dinge*）。（*Blüthenstaub*，NS 2: 413，#1）
+我们寻求无条件的（_Das Ubedingte_），但总是只找到有条件的事物（_Dinge_）。（_Blüthenstaub_，NS 2: 413，#1）
 
 尽管浪漫主义者对绝对的辞说可及性以及其作为所有知识基础的能力持怀疑态度，但他们从未质疑其存在或（无限地）追求它的价值
 
@@ -139,15 +138,15 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 因此，哲学的第一个定理是“一切都是一体的，一体就是一切”（F. Schlegel，ITP: 244），必须是“一种努力”（ITP: 244）。尽管哲学无法从绝对中系统地推导出所有知识，但它必须追求逼近。但如果不是通过概念，如何逼近绝对？
 
-这就是审美体验的出现之处。尽管浪漫主义学者对于浪漫主义对绝对的精确本质存在争议[[4](https://plato.stanford.edu/entries/aesthetics-19th-romantic/notes.html#note-4)]，但他们普遍认为它包括与审美相关的各种感受，如审美愉悦、诗意感觉，“对无限的渴望[*Sehnsucht nach dem Unendlichen*]”和“爱”，并且它依赖于批判性概念的运用，如“浪漫诗歌”、机智、讽刺、寓言、神话和创造性想象：
+这就是审美体验的出现之处。尽管浪漫主义学者对于浪漫主义对绝对的精确本质存在争议\[[4](https://plato.stanford.edu/entries/aesthetics-19th-romantic/notes.html#note-4)]，但他们普遍认为它包括与审美相关的各种感受，如审美愉悦、诗意感觉，“对无限的渴望\[_Sehnsucht nach dem Unendlichen_]”和“爱”，并且它依赖于批判性概念的运用，如“浪漫诗歌”、机智、讽刺、寓言、神话和创造性想象：
 
-> 如果我们抽象出所有的知识和意志……我们仍然会发现更多的东西，那就是*感觉*和*追求*。我们想看看是否在这里能找到类似于无限意识的东西……（F. Schlegel, ITP: 244–45）。
+> 如果我们抽象出所有的知识和意志……我们仍然会发现更多的东西，那就是_感觉_和_追求_。我们想看看是否在这里能找到类似于无限意识的东西……（F. Schlegel, ITP: 244–45）。
 
- 诗歌通过与整体的特定结合，提升了每一个单独的事物，使个体在整体中生活，整体在个体中生活。（诺瓦利斯，《诗歌》，NS 2: 533，#31）
+诗歌通过与整体的特定结合，提升了每一个单独的事物，使个体在整体中生活，整体在个体中生活。（诺瓦利斯，《诗歌》，NS 2: 533，#31）
 
 浪漫主义者认为，这些审美和情感态度使我们无法否认存在着一种“既不是我，也不来自我，也不仅仅是非我”的东西（F.舒莱格尔，《思想》，KA 18：#83）。波德莱尔总结了这些浪漫主义情感，宣称：
 
-> 说浪漫主义就是说现代艺术——也就是说亲密、灵性、色彩、对无限的渴望——通过艺术的所有资源来表达。（《1846 年沙龙展》[1981]）
+> 说浪漫主义就是说现代艺术——也就是说亲密、灵性、色彩、对无限的渴望——通过艺术的所有资源来表达。（《1846 年沙龙展》\[1981]）
 
 审美体验与艺术和美的亲密接触有什么特别适合于近似绝对的特点？本节的其余部分将对这个问题提出几个可能的答案。
 
@@ -161,9 +160,9 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 > 不是艺术和艺术作品造就了艺术家，而是感受、灵感和冲动。（F.舒莱格尔，CF：#63）
 
- 诗歌是激情。（华兹华斯，《荆棘的注释》）
+诗歌是激情。（华兹华斯，《荆棘的注释》）
 
- 所有优秀的诗歌都源自强烈感情的自然溢出。（华兹华斯，《抒情歌谣集》（1800 年）前言第 26 段，收录于《抒情歌谣集》）
+所有优秀的诗歌都源自强烈感情的自然溢出。（华兹华斯，《抒情歌谣集》（1800 年）前言第 26 段，收录于《抒情歌谣集》）
 
 如果情感和激情构成了艺术，而审美或诗意的感受是追求绝对的关键因素，那么哲学应该变得诗意，并且“诗与哲学应该合二为一”（F. Schlegel, CF: #115）。我们现在可以理解，这种浪漫的要求部分是因为哲学不能仅仅归结为概念和命题，而必须还包括某些类型的情感心理状态。用维特根斯坦的话来说，演绎推理到此为止。
 
@@ -175,15 +174,15 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 批评由相关特征的组合构成。虽然它不基于任何先前的规则，但它也对所涉及的作品持开放和接受的态度。通过与作品的互动，每个批评判断都构成了自己的规范。虽然我们可以并且应该合理化我们对美和艺术的评判，但我们不能通过诉诸于任何与所涉及的作品无关的概念或规范来这样做。在这个画面上，艺术作品是独特的，它提供了自己的欣赏标准：“诗是一种共和国的言论：一种以自身为法律和目标的言论”（F. Schlegel, CF: #65）。批评家应该努力以忠实于作品的个体性的方式来表达作品，并对其构成的特定规范作出回应：
 
-> 根据从习俗和信仰、偶然经历和任意要求中得出的类型观念来评判[歌德的《威廉·迈斯特》]，就像一个孩子试图用手抓住星星和月亮，把它们装进书包一样……幸运的是，[这部小说]事实证明是那些内含自己判断的书籍之一。（F. Schlegel, WM: 275）
+> 根据从习俗和信仰、偶然经历和任意要求中得出的类型观念来评判\[歌德的《威廉·迈斯特》]，就像一个孩子试图用手抓住星星和月亮，把它们装进书包一样……幸运的是，\[这部小说]事实证明是那些内含自己判断的书籍之一。（F. Schlegel, WM: 275）
 
 这意味着美对我们提出了要求，根据浪漫主义者的观点，这些要求类似于其他人对我们的要求。美丽的事物要求我们按照它们自己的方式回应它们，将它们视为独特的个体：“看看你的雕像、你的画作、你的朋友，看看它们的真实面貌”（狄德罗，《1767 年沙龙》）。因此，浪漫主义者宣称：“只有用诗的语言才能真正谈论诗歌”（F. 施莱格尔，《DP》）。
 
-这种没有法律的合法性符合绝对的要求。因为，如果我们在追求绝对的过程中采用这种规范性和表达性的结构，我们可以以一种规范性的方式接近它，而不是根据任何给定的法律、原则或概念来决定和限制它。因此，这是哲学应该变得诗意的另一个原因，真正的哲学家不仅仅是一个“半批评家”（正如浪漫主义者对康德的指责），而是一个完整的批评家：哲学应该对绝对开放和敏感，而不试图将其纳入任何理性原则之下，就像批评对每个作品都开放和敏感，而不将其纳入任何外部法律之下。[5]
+这种没有法律的合法性符合绝对的要求。因为，如果我们在追求绝对的过程中采用这种规范性和表达性的结构，我们可以以一种规范性的方式接近它，而不是根据任何给定的法律、原则或概念来决定和限制它。因此，这是哲学应该变得诗意的另一个原因，真正的哲学家不仅仅是一个“半批评家”（正如浪漫主义者对康德的指责），而是一个完整的批评家：哲学应该对绝对开放和敏感，而不试图将其纳入任何理性原则之下，就像批评对每个作品都开放和敏感，而不将其纳入任何外部法律之下。\[5]
 
 ### 3.4 具体个体
 
-像斯宾诺莎的上帝和康德的*omnitudo realitatis*（现实的全部），绝对是一个包罗万象的*个体*：虽然它包含了一切，但绝对也是具体的。它是一个整体个体 - 一个完整性，其部分只能以否定的方式理解，作为其限制。为了接近绝对，我们需要一种特别适合识别个体整体性的意识模式。虽然[§5.3](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#ArtsNatuNatuArt)讨论了理解整体性所需的条件，以及艺术作品和自然美的整体性，本节重点讨论艺术作品和自然美的个体特征。
+像斯宾诺莎的上帝和康德的_omnitudo realitatis_（现实的全部），绝对是一个包罗万象的_个体_：虽然它包含了一切，但绝对也是具体的。它是一个整体个体 - 一个完整性，其部分只能以否定的方式理解，作为其限制。为了接近绝对，我们需要一种特别适合识别个体整体性的意识模式。虽然[§5.3](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#ArtsNatuNatuArt)讨论了理解整体性所需的条件，以及艺术作品和自然美的整体性，本节重点讨论艺术作品和自然美的个体特征。
 
 在浪漫的画面上，一件不以“活生生的个体”（诺瓦利斯，《诗歌》，NS 2: 534，#35）呈现自己的艺术品不值得被称为艺术品的称号，而那些不将艺术品视为独特个体的人不是真正的审美评论家：“任何将诗歌或哲学视为个体的人都对它们有感觉”（F.谢莱格尔，AF: #415）。审美对美的方法，因此，是一种对那些不可归约为个体的事物的方法，不应仅仅将其视为众多事物之一，而是作为具体的个体：“一切需要批评的东西都必须是一个‘个体’”（F.谢莱格尔，FLP: #634）。而这正是在追求绝对的过程中所需要的方法，因为绝对具有其独特的本质。
 
@@ -215,9 +214,9 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 这两个职责，因此，构成了之前提到的“天才的范畴命令”的另一个解释——要求每个人都成为一个天才。因为如果每个人都要自主，她应该以艺术家为榜样塑造自己。
 
-### 4.2 *Bildung*
+### 4.2 _Bildung_
 
-*Bildung*（培养）是另一个浪漫主义价值观，每个个体都应该在自己身上发展。虽然字面上意思是“形成”，但*Bildung*最好理解为一种伦理和文化的培养方式，或者说是自我实现，使个体能够成熟为独立和负责任的人。“关于*Bildung*，我们谈论的不是外在的文化，而是独立的发展”（F. Schlegel, TPL II: 148）。*Bildung*是一个特别的现代价值观，至少在某种程度上形成了对浪漫主义者认为现代生活中感性和理性之间裂痕的挑战。为了实现*Bildung*，每个个体都必须构建自己作为一个统一整体，协调感性和理性之间的平衡：“人类的目标是……在认知、行动和享受中实现和谐”（F. Schlegel，《论希腊诗歌的研究》，KA I, 627）。
+_Bildung_（培养）是另一个浪漫主义价值观，每个个体都应该在自己身上发展。虽然字面上意思是“形成”，但_Bildung_最好理解为一种伦理和文化的培养方式，或者说是自我实现，使个体能够成熟为独立和负责任的人。“关于_Bildung_，我们谈论的不是外在的文化，而是独立的发展”（F. Schlegel, TPL II: 148）。_Bildung_是一个特别的现代价值观，至少在某种程度上形成了对浪漫主义者认为现代生活中感性和理性之间裂痕的挑战。为了实现_Bildung_，每个个体都必须构建自己作为一个统一整体，协调感性和理性之间的平衡：“人类的目标是……在认知、行动和享受中实现和谐”（F. Schlegel，《论希腊诗歌的研究》，KA I, 627）。
 
 艺术作品是这种理想的良好模范，因为根据浪漫主义者的观点，它是一个有机而和谐的整体，由多样甚至相互冲突的部分组成：
 
@@ -237,7 +236,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 ### 4.3 个体性与社会性
 
-对自主权和*Bildung*的忠诚似乎表明了个人主义。确实如此，但只是在一定程度上。尽管个性确实是一种浪漫的价值观，但反社群个人主义并非如此。浪漫主义者从未赞美过无拘无束的个性，而是呼吁在个性和社会性之间保持平衡：“个性和普遍性之间的一定调节互动……构成了道德幸福的第一个条件”（F. Schlegel, OP: 427）。
+对自主权和_Bildung_的忠诚似乎表明了个人主义。确实如此，但只是在一定程度上。尽管个性确实是一种浪漫的价值观，但反社群个人主义并非如此。浪漫主义者从未赞美过无拘无束的个性，而是呼吁在个性和社会性之间保持平衡：“个性和普遍性之间的一定调节互动……构成了道德幸福的第一个条件”（F. Schlegel, OP: 427）。
 
 毫无疑问，浪漫主义者批评康德的范畴命题，认为它提出了一个问题性的普遍主义伦理，阻碍了独特个性的自由表达。他们认为这种普遍主义伦理是有问题的，因为他们认为个体表达和独特、特征和统一自我的发展在本质上具有道德价值。然而，浪漫主义者也对极端个人主义持批评态度，比如他们发现一些启蒙思想家所推崇的个人主义。换句话说，他们挑战那些批评任何形式的社会和群体参与可能是对外部权威的被动屈从的个人主义者。
 
@@ -247,7 +246,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 在浪漫的画面上，自由、完全形成的个性的实现是不可能独立于强大的社交性和反之亦然的。如果社交性的理想没有为每个个体的独特表达和自由提供空间，那么它就是不完善的；而个体只有在与他人自由互动的程度上才能最真实地成为自己：“一个人只能在人群中成为一个人”（TPL II: 145）。
 
-在浪漫的画面上，社交性和个性不仅是相容的，而且是自然和谐的，它们根植于人的本性：[[6](https://plato.stanford.edu/entries/aesthetics-19th-romantic/notes.html#note-6)]
+在浪漫的画面上，社交性和个性不仅是相容的，而且是自然和谐的，它们根植于人的本性：\[[6](https://plato.stanford.edu/entries/aesthetics-19th-romantic/notes.html#note-6)]
 
 没有一个人仅仅是一个人，但是...与此同时，他可以并且应该真正地成为全人类。因此，人类在一次又一次地超越自己，寻求并在他人的深处找到自己内心最深处的补充时，必然会回到自己。（F. Schlegel, DP: 54）
 
@@ -265,11 +264,11 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 > 他的一部分与整个诗歌体系……他可以通过与那些从不同角度、以不同方式找到自己中心点的人进行交流来实现这一点。爱需要回应的爱。事实上，对于真正的诗人的交流……是有益的和有教育意义的。（DP: 55）
 
-遵循“天才的绝对命令”是必要的，因为它也适用于在社会中实现* Bildung *和自主个性：这也是一种伦理和社会要求。
+遵循“天才的绝对命令”是必要的，因为它也适用于在社会中实现\* Bildung \*和自主个性：这也是一种伦理和社会要求。
 
 ### 4.4 政治共同体
 
-社交性和社群精神在伦理上对于实现自主和*Bildung*是必需的，但社群也是一种浪漫的*政治*理想。这样的理想要求浪漫主义者挑战他们所认为的现代异化——自我与他人的疏离，这可以通过三种方式实现：通过促进爱（如上所述），发展一个自由社交互动的领域，以及追求整体的社会团结。
+社交性和社群精神在伦理上对于实现自主和_Bildung_是必需的，但社群也是一种浪漫的_政治_理想。这样的理想要求浪漫主义者挑战他们所认为的现代异化——自我与他人的疏离，这可以通过三种方式实现：通过促进爱（如上所述），发展一个自由社交互动的领域，以及追求整体的社会团结。
 
 理想的政治社群必须提供一个社会生活的领域，这个领域是自由且独立于政治控制的，因为自由的社交和对话，作为这个领域的目标，既有自身的价值，也是对外部法律的最佳替代。浪漫主义者认为社会纽带不应该依靠从外部强加给个体公民的法律来维系，而是依靠共同文化和自由互动所鼓励的爱。浪漫主义诗歌是实现这种自由领域的典范模型，因为它是“一种共和国的言论……其中所有部分都是自由公民并且有投票权”（Schlegel, CF: #65）。
 
@@ -291,13 +290,13 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 也因为现代国家的机械结构导致了宗教的衰落，人们呼吁有机国家的出现。根据浪漫主义者的观点，这种结构导致了一种“奴役”，以及对唯物主义和工具主义的信仰，这两者都阻碍了人们培养自己的灵性和与神的关系。浪漫主义者早期和晚期都认为诗歌是激发灵性和宗教性的最佳途径。F. Schlegel 在《思想》（第 44 号）中写道：“每个艺术家都是所有其他人的中介者”，将这个“中介者”视为人与上帝之间的中介者。当谈到诗人时，Schleiermacher 确认并发展了这种联系：
 
-> “真正的最高祭司……他们将天上的和永恒的事物放在他们面前，作为一种愉悦和统一的对象，作为他们的诗歌指向的唯一无尽的源泉。他们努力……点燃对最高的爱……这是宣扬所有灵性秘密内在意义的更高级的祭司，并从上帝的国度中说话。”（Schleiermacher，《论宗教》[翻译已修改]）
+> “真正的最高祭司……他们将天上的和永恒的事物放在他们面前，作为一种愉悦和统一的对象，作为他们的诗歌指向的唯一无尽的源泉。他们努力……点燃对最高的爱……这是宣扬所有灵性秘密内在意义的更高级的祭司，并从上帝的国度中说话。”（Schleiermacher，《论宗教》\[翻译已修改]）
 
 正是出于这些原因，“在共和国时期，艺术家将不再是一个特殊的阶级”（F. Schlegel, PF: #749）。在这样一个理想的共和国中，每个人都必须成为一个艺术家，通过诗意的爱的精神与其他公民建立起艺术家之间的关系。
 
 ### 4.5 后期浪漫主义
 
-像布莱克声称的那样，“王子们……和下议院和上议院[是]除了人类生活之外的东西”（《公共演讲》（1809）在《布莱克诗歌与书信集》中），清楚地显示了浪漫主义者的革命性质。但浪漫主义者从更自由的框架过渡到更保守的框架，主要是由于他们对法国大革命的恐惧所解释的。尽管许多浪漫主义者一直忠于革命，直到相当晚的时候（1798 年），但他们承认其失败以及任何革命行为所涉及的危险，使他们修改了，但并未放弃，他们的共和主义理想。即使在他们发展的这个阶段，浪漫主义者仍然认为共和国提供了最好的政治结构。但是，虽然仍然涉及民主元素，但他们认为一个合适的共和国也应该包括贵族和君主元素，因为受过教育的人应该统治未受教育的人：
+像布莱克声称的那样，“王子们……和下议院和上议院\[是]除了人类生活之外的东西”（《公共演讲》（1809）在《布莱克诗歌与书信集》中），清楚地显示了浪漫主义者的革命性质。但浪漫主义者从更自由的框架过渡到更保守的框架，主要是由于他们对法国大革命的恐惧所解释的。尽管许多浪漫主义者一直忠于革命，直到相当晚的时候（1798 年），但他们承认其失败以及任何革命行为所涉及的危险，使他们修改了，但并未放弃，他们的共和主义理想。即使在他们发展的这个阶段，浪漫主义者仍然认为共和国提供了最好的政治结构。但是，虽然仍然涉及民主元素，但他们认为一个合适的共和国也应该包括贵族和君主元素，因为受过教育的人应该统治未受教育的人：
 
 > 一个完美的共和国必须同时是民主的、贵族的和君主的：为了公正自由地立法，受过教育的人必须超过和引导未受教育的人，一切都必须组织成一个绝对的整体。（F.舒莱格尔，《诗歌与哲学》：#214）
 
@@ -315,11 +314,11 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 霍尔德林在这里表达了一种普遍存在的浪漫情感。现代性不仅通过强制理性和感性之间的二元对立，使人与自己分离，并割裂了个体与其自然社会关系（第 4 节），而且还使人与自然疏离。现代科学被视为主要的罪魁祸首（埃德加·爱伦·坡，《十四行诗—致科学》），它是一只“翅膀沉闷的秃鹫”。
 
-透过现代科学的镜头，自然被视为一个无生命、机械化的领域，由分离的原子组成，并完全受到效果因果性的决定。现代科学“像解剖尸体一样原子化地解剖[自然]”（艾肯多夫，《全集》第 5 卷：423）。浪漫主义者认为这种对待自然的方式既是还原主义的，也是“解剖”的：它将自然还原为纯粹的物质，剥夺了浪漫主义者认为对自然至关重要的特征，如整体统一、自我组织和生命。人类对自然环境的疏离感日益增长被视为这种对自然的还原的产物：人类似乎与自然疏离，正是因为通常与人类相关联的理性、有灵魂和有意义的特征与机械化和决定论的领域相对立。
+透过现代科学的镜头，自然被视为一个无生命、机械化的领域，由分离的原子组成，并完全受到效果因果性的决定。现代科学“像解剖尸体一样原子化地解剖\[自然]”（艾肯多夫，《全集》第 5 卷：423）。浪漫主义者认为这种对待自然的方式既是还原主义的，也是“解剖”的：它将自然还原为纯粹的物质，剥夺了浪漫主义者认为对自然至关重要的特征，如整体统一、自我组织和生命。人类对自然环境的疏离感日益增长被视为这种对自然的还原的产物：人类似乎与自然疏离，正是因为通常与人类相关联的理性、有灵魂和有意义的特征与机械化和决定论的领域相对立。
 
-这种对自然的处理方式带来了许多麻烦后果。首先，有心理和存在危机，诺瓦利斯的说法很好地概括了这一点：“哲学实际上是一种思乡病——*渴望在任何地方都感到宾至如归的冲动*”（《总草案》：#45），并由浪漫主义的里程碑作品所纪念，比如卡斯帕·大卫·弗里德里希的《雾中漫步者》（1818 年）。
+这种对自然的处理方式带来了许多麻烦后果。首先，有心理和存在危机，诺瓦利斯的说法很好地概括了这一点：“哲学实际上是一种思乡病——_渴望在任何地方都感到宾至如归的冲动_”（《总草案》：#45），并由浪漫主义的里程碑作品所纪念，比如卡斯帕·大卫·弗里德里希的《雾中漫步者》（1818 年）。
 
-在认识论和形而上学领域，各种怀疑的疑虑在现代对待自然的方式背后占据重要地位。如果现代科学是正确的，那么自然与规范性之间的关系就不清楚了。但如果自然无法提供理性规范，那么我们如何解释和证明我们对知识（人类经验）的经验性主张呢？在这种认识论的担忧的另一面是对主体性质的形而上学关注。对于主体来说，作为意义的源泉，它被视为*仅仅*是这样一个非物质化的意义源泉，不仅没有身体（正如笛卡尔强调的），而且如果康德是正确的，根本没有任何实质性（参见伯恩斯坦 2003 年）。
+在认识论和形而上学领域，各种怀疑的疑虑在现代对待自然的方式背后占据重要地位。如果现代科学是正确的，那么自然与规范性之间的关系就不清楚了。但如果自然无法提供理性规范，那么我们如何解释和证明我们对知识（人类经验）的经验性主张呢？在这种认识论的担忧的另一面是对主体性质的形而上学关注。对于主体来说，作为意义的源泉，它被视为_仅仅_是这样一个非物质化的意义源泉，不仅没有身体（正如笛卡尔强调的），而且如果康德是正确的，根本没有任何实质性（参见伯恩斯坦 2003 年）。
 
 第三个后果是对世界的敬畏立场的威胁。不仅自然界曾经被赋予的神性不再存在，而且现代科学也被视为对任何试图替代宗教的世俗选择的挑战。自然界被视为完全可以被人类思维的计算部分所理解，变得透明而没有任何神秘或超越人类的力量。在我们现代世界中，我们是否没有了令人惊叹、敬畏或崇敬的源泉？
 
@@ -345,7 +344,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 但是，有机体也是自我组织和自我形成的。虽然人造物品的组织是由生产者从外部强加给它们的，但任何有机体的特定组织和生命形式都是自我产生的。因此，将自然视为有机体是以动态方式看待它——不是作为死物，而是作为自我形成和自我生成的。实际上，对于浪漫主义者来说，自然是一种生命力，其不同的部分——不仅是自觉的哲学家、有创造力的艺术家、动物、植物和矿物，而且是物质的种类——是其组织的不同阶段。
 
-从苔藓中，其中组织的痕迹几乎不可见，到似乎已经摆脱了物质束缚的高贵形式[*Gestalt*]，同一驱动力统治着一切，这种驱动力努力按照同一目的性的理想工作，努力表达着无限的同一原型[*Urbild*]，即我们精神的纯粹形式。（舍林，《最新哲学文献评论，1796 年》）
+从苔藓中，其中组织的痕迹几乎不可见，到似乎已经摆脱了物质束缚的高贵形式\[_Gestalt_]，同一驱动力统治着一切，这种驱动力努力按照同一目的性的理想工作，努力表达着无限的同一原型\[_Urbild_]，即我们精神的纯粹形式。（舍林，《最新哲学文献评论，1796 年》）
 
 ### 5.3 艺术的本质，自然的艺术
 
@@ -363,7 +362,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 浪漫主义者在这个问题上似乎与康德有所分歧。对他们来说，伟大的诗歌是实质上而不仅仅是形式上有机的：
 
-> 这部作品[*威廉·迈斯特*]的内在冲动，从最细微的细节到整体的组织和组织。没有任何中断是偶然或微不足道的；……一切同时既是手段又是目的。（F. 施莱格尔，WM：273-74）
+> 这部作品\[_威廉·迈斯特_]的内在冲动，从最细微的细节到整体的组织和组织。没有任何中断是偶然或微不足道的；……一切同时既是手段又是目的。（F. 施莱格尔，WM：273-74）
 
 这意味着浪漫主义者将艺术作品比作有机体，但更强烈的是从整体统一性和生命的角度来看，即自我组织和自我判断的角度。回想一下艺术作品的独特性（在[§3.2](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestFeel)中讨论过）：每件作品都构成了唯一能够对其进行适当评判的规范。从浪漫主义的角度来看，每件作品都有自己的自我判断。从这个角度来看，艺术作品不仅仅是一件普通的人造品，而是一种类似有机体的存在，它能够自我组织和调节。就像自然界的其他有机产物一样，作品也有着自己的生命，尽管它在严格意义上并非自我组织的：
 
@@ -397,7 +396,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 华兹华斯对自然的描述可能是最有力的描绘，展示了诗意想象所揭示的自然的令人敬畏的特质：
 
- 一种崇高的感觉
+一种崇高的感觉
 
 某种更深入交织的东西
 
@@ -413,7 +412,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 并且在所有事物中流转。
 
- 我，如此长久
+我，如此长久
 
 一个自然的崇拜者，来到这里，
 
@@ -439,7 +438,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 > 人类穿越符号的森林
 
-> 它们用熟悉的眼光观察着他) (波德莱尔，《通信》，1861 [2000])
+> 它们用熟悉的眼光观察着他) (波德莱尔，《通信》，1861 \[2000])
 
 这是一种解放和重新魅力的体验，但它也对我们提出了一些要求，例如，要像我们爱其他人类一样爱护自然：
 
@@ -463,7 +462,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 近几十年来，大量浪漫主义学者认为，浪漫主义总体上以及浪漫主义对审美的优先性特别是后现代主义和后结构主义观点的基本观点的先驱（例如，Lacoue-Labarthe 和 Nancy 1988，Bowie 2003，Bowman 2014 和 Gasche 1991）。这种解读基于浪漫主义者对第一原则和系统性的怀疑，对人类创造和语言的强调，历史主义和解释学，他们对现代生活的碎片化性质的看法，以及对审美优先性的某些表述，这些表述最初似乎抹去了“真实”和“诗意”之间的任何区别，这是创造性想象的产物。例如，弗里德里希·施莱格尔宣称：“没有诗歌，就没有现实……尽管有所有的感官，但没有想象力就没有外部世界”（AF：＃350），并且“一切建立在表象与现实之间的对立上的……并不纯粹是诗意的”（FLP：＃146）。
 
-这些宣言似乎暗示着“创造性建构”或“文本”“没有出路”，或者“艺术……不需要指向超越自身的东西”（Bowie 2003: 53），仿佛浪漫主义美学预示了后现代主义和后结构主义的核心趋势。[8] 但是，对于这种“后现代主义”的阅读有理由担忧。浪漫主义中的一些观点——对基础主义哲学和体系建构的怀疑，对人类创造力、语言以及历史主义和解释学角色的强调——确实与后现代主义中的某些思潮相关。但是，将浪漫主义美学解读为原始后现代主义是有限的，原因有很多。
+这些宣言似乎暗示着“创造性建构”或“文本”“没有出路”，或者“艺术……不需要指向超越自身的东西”（Bowie 2003: 53），仿佛浪漫主义美学预示了后现代主义和后结构主义的核心趋势。\[8] 但是，对于这种“后现代主义”的阅读有理由担忧。浪漫主义中的一些观点——对基础主义哲学和体系建构的怀疑，对人类创造力、语言以及历史主义和解释学角色的强调——确实与后现代主义中的某些思潮相关。但是，将浪漫主义美学解读为原始后现代主义是有限的，原因有很多。
 
 首先，浪漫主义对与艺术的创作和接受相关的想象力和情感能力的信仰，以及对绝对原则和哲学体系的怀疑，并没有使他们对理性持怀疑态度，而后现代主义思想家们却是如此（参见[§2.1](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#EnliSturUndDran)和 Beiser 2003: 3）。即使是对绝对原则的怀疑（参见[§3.1](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Abso)），也不能等同于对所有原则和规则的拒绝。例如，尽管艺术和艺术欣赏不能简化为任何给定的先前规则，但它们并不是无法无天的，而是自身规范性的源泉（参见[§3.3](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)）。
 
@@ -471,7 +470,7 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 > 对于哲学家来说，艺术是至高无上的，因为它为他打开了最神圣的圣所，在那里，自然和历史中被分离的东西，无论是在生活和行动中还是在思想中，都像在一个永恒而原初的统一中燃烧着一样。（舍林，《超越哲学体系》，1800 年，引自希思 1978 年：231）
 
-第三，浪漫主义者对绝对的渴望和追求（在第 3 节中讨论）是拒绝后现代主义解释的另一个理由。对于大多数后现代主义思想家来说，这种渴望是令人厌恶的，他们抵制并回避了*任何*绝对现实的可能性（和可取性）。
+第三，浪漫主义者对绝对的渴望和追求（在第 3 节中讨论）是拒绝后现代主义解释的另一个理由。对于大多数后现代主义思想家来说，这种渴望是令人厌恶的，他们抵制并回避了_任何_绝对现实的可能性（和可取性）。
 
 此外，如果一个人反对“没有逃离文本的出路”的观念，或者现实“无非是建构”，那么后现代主义对浪漫主义的解读就显得不友善。幸运的是，这种解释并不强加于我们，因为还有许多其他友善的（在历史、文本和哲学上有根据的）解读，可以解释刚才提到的宣言以及浪漫主义对审美的首要性。在这个形式主义的观点下，浪漫主义者并不声称“现实”和“虚构”之间没有区别，或者“没有逃离想象建构”的出路，而是敦促人们出于认识论、形而上学、伦理学、政治学和科学的原因，在日常生活和哲学中审美地塑造自己。
 
@@ -485,141 +484,141 @@ Schlegel 在这个问题上并不孤单。类似的情感和口号在德国浪�
 
 #### German Romanticism
 
-* Eichendorff, J. von, 1993, *Joseph von Eichendorff Werke*, H. Schultz (hrs.), Frankfurt a. M.: Deautscher Klassiker Verlag. **[EW]**
-* Hardenberg, F.L. von [Novalis], 1960–88, *Novalis Schriften*, H.J. and G. Schulz (hrs.), Stuttgart: Verlag W. Kohlhammer. **[NS]**
-* Hölderlin, F., 1975, *Sämtliche Werke*: Historisch-Kritische Ausgabe. D.E. Sattler (hrs.), Frankfurt/Basel: Verlag Roter Stern. **[HSA]**
-* Kant, I., 1902–, *Akademie Ausgabe: Kants gesammelte Schriften*, hrsg. von der Königlisch Preußischen Akademie der Wissenschaften, Berlin: de Gruyter. **[AK]**
-* Ritter, J.W., 1810, *Fragmente aus dem Nachlasse eines jungen Phyiskers*, Heidelberg: Schneider. **[*Fragmente*]**
-* Schelling, F.W.J von, 1856–61, *Sämtliche Werke*, Schelling, K.F.A. (hrs.), Stuttgart: Cotta. **[SW]**
-* Schlegel, F., 1958–, *Kritische Friedrich-Schlegel-Ausgabe*, E. Behler, J.J. Anstett, and H. Eichner (hrs.), Paderborn: Ferdinand Schöningen. **[KA]**
+* Eichendorff, J. von, 1993, _Joseph von Eichendorff Werke_, H. Schultz (hrs.), Frankfurt a. M.: Deautscher Klassiker Verlag. **\[EW]**
+* Hardenberg, F.L. von \[Novalis], 1960–88, _Novalis Schriften_, H.J. and G. Schulz (hrs.), Stuttgart: Verlag W. Kohlhammer. **\[NS]**
+* Hölderlin, F., 1975, _Sämtliche Werke_: Historisch-Kritische Ausgabe. D.E. Sattler (hrs.), Frankfurt/Basel: Verlag Roter Stern. **\[HSA]**
+* Kant, I., 1902–, _Akademie Ausgabe: Kants gesammelte Schriften_, hrsg. von der Königlisch Preußischen Akademie der Wissenschaften, Berlin: de Gruyter. **\[AK]**
+* Ritter, J.W., 1810, _Fragmente aus dem Nachlasse eines jungen Phyiskers_, Heidelberg: Schneider. **\[**_**Fragmente**_**]**
+* Schelling, F.W.J von, 1856–61, _Sämtliche Werke_, Schelling, K.F.A. (hrs.), Stuttgart: Cotta. **\[SW]**
+* Schlegel, F., 1958–, _Kritische Friedrich-Schlegel-Ausgabe_, E. Behler, J.J. Anstett, and H. Eichner (hrs.), Paderborn: Ferdinand Schöningen. **\[KA]**
 
 All citations from these German editions are cited by these abbreviations, and are followed by the volume, page and, when relevant, fragment numbers.
 
 #### German Romanticism in English
 
-* Behler E. and Struc R. (eds.)1968, *Friedrich Schlegel: Dialogue on Poetry and Literary Aphorisms*, University Park: Pennsylvania State University Press.
-* Beiser, F. (ed. and trans.), 1996, *The Early Political Writings of the German Romantics*, Cambridge: Cambridge University Press.
-* Bernstein, J.M. (ed.), 2003, *Classic and Romantic German Aesthetics*, Cambridge: Cambridge University Press.
-* Firchow, P. (ed. and trans.), 1991, *Friedrich Schlegel: Philosophical Fragments*, Minneapolis: University of Minnesota Press.
+* Behler E. and Struc R. (eds.)1968, _Friedrich Schlegel: Dialogue on Poetry and Literary Aphorisms_, University Park: Pennsylvania State University Press.
+* Beiser, F. (ed. and trans.), 1996, _The Early Political Writings of the German Romantics_, Cambridge: Cambridge University Press.
+* Bernstein, J.M. (ed.), 2003, _Classic and Romantic German Aesthetics_, Cambridge: Cambridge University Press.
+* Firchow, P. (ed. and trans.), 1991, _Friedrich Schlegel: Philosophical Fragments_, Minneapolis: University of Minnesota Press.
 * Hölderlin, F., 1797, “Das älteste Systemprogramm des deutschen Idealismus,” translated as “Oldest Programme for a System of German Idealism”, in Bernstein 2003.
-* Novalis, *Logological Fragments I*, in Stoljar 1997.
-* –––, *Last Fragments*, in Stoljar 1997.
-* –––, *General Draft*, in Stoljar 1997.
-* –––, *Faith and Love*, in Stoljar 1997.
-* Novalis, 2003, *Novalis: Fichte Studies*, J. Kneller (ed. and trans.), Cambridge: Cambridge University Press. **[FS]**
-* Schulte-Sasse, J., H. Horne, and E. Mittman (eds. and trans.), 1997, *Theory as Practice: A Critical Anthology of Early German Romantic Writings*, Minneapolis: University of Minnesota Press.
-* Schlegel, F., “Introduction to Transcendental Philosophy”, in Schulte-Sasse et al. 1997. **[ITP]**
-* –––, “Fragments on Literature and Poesy”, in Schulte-Sasse et al. 1997. **[FLP]**
-* –––, “Philosophical Fragments”, in Schulte-Sasse et al. 1997. **[PF]**
-* –––, “Concerning The Essence of Critique (1804)”, in Schulte-Sasse et al. 1997. **[Critique]**
-* –––, “On Philosophy: To Dorothea”, in Schulte-Sasse et al. 1997. **[OP]**
-* –––, “Philosophical Lectures: Transcendental Philosophy, Part II”, in Beiser 1996. **[TPL II]**
-* –––, “On Goethe’s *Meister*”, in Bernstein 2003. **[WM]**
+* Novalis, _Logological Fragments I_, in Stoljar 1997.
+* –––, _Last Fragments_, in Stoljar 1997.
+* –––, _General Draft_, in Stoljar 1997.
+* –––, _Faith and Love_, in Stoljar 1997.
+* Novalis, 2003, _Novalis: Fichte Studies_, J. Kneller (ed. and trans.), Cambridge: Cambridge University Press. **\[FS]**
+* Schulte-Sasse, J., H. Horne, and E. Mittman (eds. and trans.), 1997, _Theory as Practice: A Critical Anthology of Early German Romantic Writings_, Minneapolis: University of Minnesota Press.
+* Schlegel, F., “Introduction to Transcendental Philosophy”, in Schulte-Sasse et al. 1997. **\[ITP]**
+* –––, “Fragments on Literature and Poesy”, in Schulte-Sasse et al. 1997. **\[FLP]**
+* –––, “Philosophical Fragments”, in Schulte-Sasse et al. 1997. **\[PF]**
+* –––, “Concerning The Essence of Critique (1804)”, in Schulte-Sasse et al. 1997. **\[Critique]**
+* –––, “On Philosophy: To Dorothea”, in Schulte-Sasse et al. 1997. **\[OP]**
+* –––, “Philosophical Lectures: Transcendental Philosophy, Part II”, in Beiser 1996. **\[TPL II]**
+* –––, “On Goethe’s _Meister_”, in Bernstein 2003. **\[WM]**
 * –––,“On Incomprehensibility”, in Bernstein 2003.
-* –––, “Critical Fragments”, in Firchow 1991. **[CF]**
-* –––, “Athenaeum fragments”, in Firchow 1991. **[AF]**
-* –––, “Ideas”, in Firchow 1991. **[*Ideas*]**
-* –––,“Dialogue on Poetry”, in Behler and Struc 1968. **[DP]**
-* Schelling, F.W.J, 1978 [1800], *System of Transcendental Philosophy*, P. Heath (trans.), Charlottesville: University Press of Virginia.
+* –––, “Critical Fragments”, in Firchow 1991. **\[CF]**
+* –––, “Athenaeum fragments”, in Firchow 1991. **\[AF]**
+* –––, “Ideas”, in Firchow 1991. **\[**_**Ideas**_**]**
+* –––,“Dialogue on Poetry”, in Behler and Struc 1968. **\[DP]**
+* Schelling, F.W.J, 1978 \[1800], _System of Transcendental Philosophy_, P. Heath (trans.), Charlottesville: University Press of Virginia.
 * Schleiermacher, F., “Monologue II”, in Beiser 1996.
-* Schleiermacher, F., 1996 [1799], *On Religion*, R. Crouter (ed. and trans.), Cambridge: Cambridge University Press.
-* Stoljar, M.M. (ed. and trans.), 1997, *Novalis: Philosophical Writings*, Albany, NY: SUNY Press.
-* Wood, D.W. (ed. and trans.), 2007, *Notes for a Romantic Encyclopedia: Das Allgemeine Brouillon*, Albany, New York: SUNY Press. **[AB]**
+* Schleiermacher, F., 1996 \[1799], _On Religion_, R. Crouter (ed. and trans.), Cambridge: Cambridge University Press.
+* Stoljar, M.M. (ed. and trans.), 1997, _Novalis: Philosophical Writings_, Albany, NY: SUNY Press.
+* Wood, D.W. (ed. and trans.), 2007, _Notes for a Romantic Encyclopedia: Das Allgemeine Brouillon_, Albany, New York: SUNY Press. **\[AB]**
 
 #### British Romanticism
 
-* Blake, W., 1982, *The Complete Poetry and Prose of William Blake*, D.V. Erdman (ed., rev.edn.), Berkeley and Los Angeles: University of California Press. **[PPWB]**
-* Coleridge, S.T., 1987, *Lectures 1808–1819 On Literature*, R.A. Foakes (ed.), NJ: Princeton University Press. **[CLL]**
-* –––, 1983, *Biographia Literaria*, J. Engell and W.J. Bate (eds.). NJ: Princeton University Press. **[BL]**
-* Coleridge, S.T. and W. Wordsworth, 2008, *Lyrical Ballads: 1798 and 1800*, M. Gamer and D. Porter (eds.), Peterborough, Ontario: Broadview. **[LB]**
-* Keats, J., 1978, *The Poems of John Keats*, J. Stillinger (ed.), Cambridge, Massachusetts: Harvard University Press. **[PJK]**
-* –––, 1970, *Letters of John Keats*, R. Gittings (ed.), Oxford: Oxford University Press. **[LJK]**
-* Shelley, P.B., 1964, *The Letter of Percy Bysshe Shelley*, Frederick L. Jones (eds.), Oxford: Clarendon Press. **[LS]**
-* –––, 2002, *Shelley’s Poetry and Prose*, D.H. Reiman and N. Fraistat (eds.), New York: Norton. **[SPP]**
-* Wordsworth, W., 1974, *The Prose Works of William Wordsworth*, W.J.B. Owen and J. Smyser (eds.), Oxford: Clarendon Press. **[PWWW]**
-* –––, 1974, *The Prelude: the 1805 Text*, Gill, S. (ed.), Oxford: Oxford University Press.
+* Blake, W., 1982, _The Complete Poetry and Prose of William Blake_, D.V. Erdman (ed., rev.edn.), Berkeley and Los Angeles: University of California Press. **\[PPWB]**
+* Coleridge, S.T., 1987, _Lectures 1808–1819 On Literature_, R.A. Foakes (ed.), NJ: Princeton University Press. **\[CLL]**
+* –––, 1983, _Biographia Literaria_, J. Engell and W.J. Bate (eds.). NJ: Princeton University Press. **\[BL]**
+* Coleridge, S.T. and W. Wordsworth, 2008, _Lyrical Ballads: 1798 and 1800_, M. Gamer and D. Porter (eds.), Peterborough, Ontario: Broadview. **\[LB]**
+* Keats, J., 1978, _The Poems of John Keats_, J. Stillinger (ed.), Cambridge, Massachusetts: Harvard University Press. **\[PJK]**
+* –––, 1970, _Letters of John Keats_, R. Gittings (ed.), Oxford: Oxford University Press. **\[LJK]**
+* Shelley, P.B., 1964, _The Letter of Percy Bysshe Shelley_, Frederick L. Jones (eds.), Oxford: Clarendon Press. **\[LS]**
+* –––, 2002, _Shelley’s Poetry and Prose_, D.H. Reiman and N. Fraistat (eds.), New York: Norton. **\[SPP]**
+* Wordsworth, W., 1974, _The Prose Works of William Wordsworth_, W.J.B. Owen and J. Smyser (eds.), Oxford: Clarendon Press. **\[PWWW]**
+* –––, 1974, _The Prelude: the 1805 Text_, Gill, S. (ed.), Oxford: Oxford University Press.
 
 #### French Romanticism in English
 
-* Baudelaire, C., 2000, *Selected Poems from Les Fleurs du Mal: a Bilingual Edition*, N. Shapiro (trans.), Chicago: University of Chicago Press). Includes: *Correspondences* 1861.
-* –––, 1981, *Art in Paris, 1845–1862: Salons and Other Exhibitions Reviewed by Charles Baudelaire*, J. Mayne (ed.), Ithaca, NY: Cornell University Press. Includes: *Salon of 1846*.
-* –––, 1995, *The Painter of Modern Life and Other Essays*, J. Mayne (ed.), London: Phaidon.
-* Diderot, D., 1995, *Diderot on Art*, J. Goodman (ed.), New Haven, CT: Yale University Press. Includes: *Salon of 1767*.
-* Nerval, G. de, 1957, *Selected Writings*, G. Geoffrey Wagner (ed.), Ann Arbor: The University of Michigan Press.
+* Baudelaire, C., 2000, _Selected Poems from Les Fleurs du Mal: a Bilingual Edition_, N. Shapiro (trans.), Chicago: University of Chicago Press). Includes: _Correspondences_ 1861.
+* –––, 1981, _Art in Paris, 1845–1862: Salons and Other Exhibitions Reviewed by Charles Baudelaire_, J. Mayne (ed.), Ithaca, NY: Cornell University Press. Includes: _Salon of 1846_.
+* –––, 1995, _The Painter of Modern Life and Other Essays_, J. Mayne (ed.), London: Phaidon.
+* Diderot, D., 1995, _Diderot on Art_, J. Goodman (ed.), New Haven, CT: Yale University Press. Includes: _Salon of 1767_.
+* Nerval, G. de, 1957, _Selected Writings_, G. Geoffrey Wagner (ed.), Ann Arbor: The University of Michigan Press.
 
 #### American Romanticism
 
-* Poe, E.A., 1984, *Edgar Allen Poe: Poetry and Tales*, P.F. Quinn (ed.), New York: Library of America. Includes: “Sonnet: To Science” (1829).
+* Poe, E.A., 1984, _Edgar Allen Poe: Poetry and Tales_, P.F. Quinn (ed.), New York: Library of America. Includes: “Sonnet: To Science” (1829).
 
 ### Secondary Literature
 
-* Abrams, M.H., 1971, *Natural Supernaturalism: Tradition and Revolution in Romantic Literature*, New York: W.W. Norton & Company.
-* Ameriks, K., 2006, *Kant and the Historical Turn*, Oxford: Clarendon Press.
-* –––, (ed.), 2000, *The Cambridge Companion to German Idealism*, Cambridge: Cambridge University Press.
-* Behler, E., 1993, *German Romantic Literary Theory*, Cambridge: Cambridge University Press.
-* –––, 1992, *Frühromantik*, Berlin: de Gruyter.
-* Beiser, F.C., 2002, *German Idealism: The Struggle Against Subjectivity 1781–1801*, Cambridge, Mass: Harvard University Press.
-* –––, 2003, *The Romantic Imperative*, Cambridge, Mass: Harvard University Press.
-* –––, 1987, *The Fate of Reason: German Philosophy from Kant to Fichte*, Cambridge, Mass: Harvard University Press.
-* –––, 1992, *Enlightenment, Revolution and Romanticism*, Cambridge, Mass: Harvard University Press.
-* Benjamin, W., 1996, “*The Concept of Criticism in German Romanticism*”, *Selected Writings, vol. 1, 1913–1926*, M.W. Jennings and M. Bullock (eds.), Cambridge, Mass: The Belknap Press, 116–200.
-* Berlin, I., 1999, *The Roots of Romanticism*, H. Hardy (ed.), Princeton: Princeton University Press.
-* Bernstein, J.M., 2003, “Introduction”, in *Classic and Romantic German Aesthetics*, Cambridge: Cambridge University Press.
-* Bowie, A., 2003, *Aesthetics and Subjectivity: From Kant to Nietzsche*, Manchester, England: Manchester University Press.
+* Abrams, M.H., 1971, _Natural Supernaturalism: Tradition and Revolution in Romantic Literature_, New York: W.W. Norton & Company.
+* Ameriks, K., 2006, _Kant and the Historical Turn_, Oxford: Clarendon Press.
+* –––, (ed.), 2000, _The Cambridge Companion to German Idealism_, Cambridge: Cambridge University Press.
+* Behler, E., 1993, _German Romantic Literary Theory_, Cambridge: Cambridge University Press.
+* –––, 1992, _Frühromantik_, Berlin: de Gruyter.
+* Beiser, F.C., 2002, _German Idealism: The Struggle Against Subjectivity 1781–1801_, Cambridge, Mass: Harvard University Press.
+* –––, 2003, _The Romantic Imperative_, Cambridge, Mass: Harvard University Press.
+* –––, 1987, _The Fate of Reason: German Philosophy from Kant to Fichte_, Cambridge, Mass: Harvard University Press.
+* –––, 1992, _Enlightenment, Revolution and Romanticism_, Cambridge, Mass: Harvard University Press.
+* Benjamin, W., 1996, “_The Concept of Criticism in German Romanticism_”, _Selected Writings, vol. 1, 1913–1926_, M.W. Jennings and M. Bullock (eds.), Cambridge, Mass: The Belknap Press, 116–200.
+* Berlin, I., 1999, _The Roots of Romanticism_, H. Hardy (ed.), Princeton: Princeton University Press.
+* Bernstein, J.M., 2003, “Introduction”, in _Classic and Romantic German Aesthetics_, Cambridge: Cambridge University Press.
+* Bowie, A., 2003, _Aesthetics and Subjectivity: From Kant to Nietzsche_, Manchester, England: Manchester University Press.
 * Bowman, B., 2014, “On the Defense of Literary Value”, in Nassar 2014b: 147–162.
-* Cavell, S. 1979, *The World Viewed*, Cambridge, Mass.: Harvard University Press.
-* –––, 1988, *In Quest of the Ordinary*, Chicago: Chicago University Press.
-* Davy, H., 1858, *Fragmentary Remains*, Forgotten Books.
-* Eichner, H., 1970, *Friedrich Schlegel*, New York: Twayne Publishers.
-* Eldridge, R., 2001, *The Persistence of Romanticism*, Cambridge: Cambridge University Press.
-* Engell, J. 1981, *The Creative Imagination: Enlightenment to Romanticism*, Cambridge: Cambridge University Press.
-* Forster, M., 2011, *German Philosophy of Language*, Oxford: Oxford University Press.
-* –––, 2010, *After Hereder: Philosophy of Language in the German Tradition*, Oxford: Oxford University Press.
-* Frank, M., 1997a, *Einführung in die frühromantische Ästhetik*, Frankfurt: Suhrkamp.
-* –––, 1997b, *Unendliche Annäherung: Die Anfänge der Philosophischen Frühromantik*, Frankfurt: Suhrkamp
-* –––, 1997c “Wie Reaktionär war eigentlich die Frühromantik”, *Athenäum*, 7: 141–66.
-* Frye, N., 1968, *A Study of English Romanticism*, Random House.
-* –––, 1963, *Romanticism Reconsidered*, New York: Columbia University Press.
-* Gasche, R., 1991, “Forward: Ideality in Fragmentation”, in *Friedrich Schlegel: Philosophical Fragments*, P. Firchow (ed.).
-* Gjesdal, K., 2009, *Gadamer and the Legacy of German Idealism*, Cambridge: Cambridge University Press.
-* Gorodeisky, K., 2011, “(Re)encountering Individuality: Schlegel’s Romantic Imperative as a Response to Nihilism”, *Inquiry*, 54 (6): 567–90.
-* Gregory, A., 2005, “Philosophy and Religion”, in *Oxford Guide to Romanticism*, R. Nicholas (ed.), Oxford: Oxford University Press.
-* Haym, R., 1882, *Die romantische Schule*, Berlin: Gaertner.
-* Heine, H., 1985, *The Romantic School and Other Essays*, J. Hermand and R.C. Holub (eds.), New York: Continuum.
-* Henrich, D., 1997, *The Course of Remembrance and Other Essays on Hölderlin*, E. Förster (ed.), Stanford: Stanford University Press.
-* Kneller, J., 2007, *Kant and the Power of the Imagination*, Cambridge: Cambridge University Press.
-* Kompridis, N., 2006, *Philosophical Romanticism*, New York: Routledge.
-* Lacoue-Labarth, P. and J.L. Nancy, 1988, *The Literary Absolute*, P. Barnard and C. Lester (trans.), Albany, New York: SUNY Press.
-* Larmore, C. 1996, *The Romantic Legacy*, New York: Columbia University Press.
-* Lovejoy, A., 1960, *Essays in the History of Ideas*, New York: Capricorn.
-* Millán-Zaibert, E., 2007, *Friedrich Schlegel and the Emergence of Romantic Philosophy*, Albany, NY: SUNY Press.
-* Nassar, D., 2014a, *The Romantic Absolute*, Chicago: University of Chicago Press.
-* ––– (ed.), 2014b, *The Relevance of Romanticism: Essays on German Romantic Philosophy*, Oxford: Oxford University Press.
-* Pinkard, T., 2002, *German Philosophy 1760–1860*, Cambridge: Cambridge University Press.
-* Richards, R., 2002, *The Romantic Conception of Life*, Chicago: Chicago University Press.
+* Cavell, S. 1979, _The World Viewed_, Cambridge, Mass.: Harvard University Press.
+* –––, 1988, _In Quest of the Ordinary_, Chicago: Chicago University Press.
+* Davy, H., 1858, _Fragmentary Remains_, Forgotten Books.
+* Eichner, H., 1970, _Friedrich Schlegel_, New York: Twayne Publishers.
+* Eldridge, R., 2001, _The Persistence of Romanticism_, Cambridge: Cambridge University Press.
+* Engell, J. 1981, _The Creative Imagination: Enlightenment to Romanticism_, Cambridge: Cambridge University Press.
+* Forster, M., 2011, _German Philosophy of Language_, Oxford: Oxford University Press.
+* –––, 2010, _After Hereder: Philosophy of Language in the German Tradition_, Oxford: Oxford University Press.
+* Frank, M., 1997a, _Einführung in die frühromantische Ästhetik_, Frankfurt: Suhrkamp.
+* –––, 1997b, _Unendliche Annäherung: Die Anfänge der Philosophischen Frühromantik_, Frankfurt: Suhrkamp
+* –––, 1997c “Wie Reaktionär war eigentlich die Frühromantik”, _Athenäum_, 7: 141–66.
+* Frye, N., 1968, _A Study of English Romanticism_, Random House.
+* –––, 1963, _Romanticism Reconsidered_, New York: Columbia University Press.
+* Gasche, R., 1991, “Forward: Ideality in Fragmentation”, in _Friedrich Schlegel: Philosophical Fragments_, P. Firchow (ed.).
+* Gjesdal, K., 2009, _Gadamer and the Legacy of German Idealism_, Cambridge: Cambridge University Press.
+* Gorodeisky, K., 2011, “(Re)encountering Individuality: Schlegel’s Romantic Imperative as a Response to Nihilism”, _Inquiry_, 54 (6): 567–90.
+* Gregory, A., 2005, “Philosophy and Religion”, in _Oxford Guide to Romanticism_, R. Nicholas (ed.), Oxford: Oxford University Press.
+* Haym, R., 1882, _Die romantische Schule_, Berlin: Gaertner.
+* Heine, H., 1985, _The Romantic School and Other Essays_, J. Hermand and R.C. Holub (eds.), New York: Continuum.
+* Henrich, D., 1997, _The Course of Remembrance and Other Essays on Hölderlin_, E. Förster (ed.), Stanford: Stanford University Press.
+* Kneller, J., 2007, _Kant and the Power of the Imagination_, Cambridge: Cambridge University Press.
+* Kompridis, N., 2006, _Philosophical Romanticism_, New York: Routledge.
+* Lacoue-Labarth, P. and J.L. Nancy, 1988, _The Literary Absolute_, P. Barnard and C. Lester (trans.), Albany, New York: SUNY Press.
+* Larmore, C. 1996, _The Romantic Legacy_, New York: Columbia University Press.
+* Lovejoy, A., 1960, _Essays in the History of Ideas_, New York: Capricorn.
+* Millán-Zaibert, E., 2007, _Friedrich Schlegel and the Emergence of Romantic Philosophy_, Albany, NY: SUNY Press.
+* Nassar, D., 2014a, _The Romantic Absolute_, Chicago: University of Chicago Press.
+* ––– (ed.), 2014b, _The Relevance of Romanticism: Essays on German Romantic Philosophy_, Oxford: Oxford University Press.
+* Pinkard, T., 2002, _German Philosophy 1760–1860_, Cambridge: Cambridge University Press.
+* Richards, R., 2002, _The Romantic Conception of Life_, Chicago: Chicago University Press.
 * Rush, F., 2006, “Irony and Romantic Subjectivity”, in Kompridis 2006: 173–96.
-* Saul, N. (ed.), 2009, *German Romanticism*, Cambridge: Cambridge University Press.
-* Schmitt, C., 1986, *Political Romanticism*, G. Oakes (trans.), Cambridge, Mass: The MIT Press.
-* Schmidt, R., 2009, “From Early to Late Romanticism”, in *German Romanticism*, N. Sould (ed.), 21–40.
-* Stone, A., 2005, “Friedrich Schlegel, Romanticism, and the Re-enchantment of Nature”, *Inquiry*, 48: 3–25.
-* –––, 2008, “Being, Knowledge, and Nature in Novalis”, *Journal of the History of Philosophy*, 46: 141–64.
-* –––, 2011, “The Romantic Asbolute”, *British Journal of the History of Philosophy*, 19: 497–517.
+* Saul, N. (ed.), 2009, _German Romanticism_, Cambridge: Cambridge University Press.
+* Schmitt, C., 1986, _Political Romanticism_, G. Oakes (trans.), Cambridge, Mass: The MIT Press.
+* Schmidt, R., 2009, “From Early to Late Romanticism”, in _German Romanticism_, N. Sould (ed.), 21–40.
+* Stone, A., 2005, “Friedrich Schlegel, Romanticism, and the Re-enchantment of Nature”, _Inquiry_, 48: 3–25.
+* –––, 2008, “Being, Knowledge, and Nature in Novalis”, _Journal of the History of Philosophy_, 46: 141–64.
+* –––, 2011, “The Romantic Asbolute”, _British Journal of the History of Philosophy_, 19: 497–517.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-19th-romantic). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/aesthetics-19th-romantic/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetics-19th-romantic&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/aesthetics-19th-romantic/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-19th-romantic).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/aesthetics-19th-romantic/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=aesthetics-19th-romantic\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/aesthetics-19th-romantic/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Enlightenment](https://plato.stanford.edu/entries/enlightenment/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Novalis [Georg Friedrich Philipp von Hardenberg]](https://plato.stanford.edu/entries/novalis/) | [Schlegel, Friedrich](https://plato.stanford.edu/entries/schlegel/) | [Schleiermacher, Friedrich Daniel Ernst](https://plato.stanford.edu/entries/schleiermacher/)
+[Enlightenment](https://plato.stanford.edu/entries/enlightenment/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Novalis \[Georg Friedrich Philipp von Hardenberg\]](https://plato.stanford.edu/entries/novalis/) | [Schlegel, Friedrich](https://plato.stanford.edu/entries/schlegel/) | [Schleiermacher, Friedrich Daniel Ernst](https://plato.stanford.edu/entries/schleiermacher/)
 
-[Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
-Keren Gorodeisky <[*kzg0003@auburn.edu*](mailto:kzg0003%40auburn%2eedu)>
+[Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
+Keren Gorodeisky <[_kzg0003@auburn.edu_](mailto:kzg0003%40auburn%2eedu)>

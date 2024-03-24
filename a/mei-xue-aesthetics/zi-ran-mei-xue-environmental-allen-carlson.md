@@ -1,6 +1,6 @@
 # 自然美学 environmental (Allen Carlson)
 
-*首次发布于 2007 年 1 月 29 日；实质性修订于 2019 年 4 月 9 日*
+_首次发布于 2007 年 1 月 29 日；实质性修订于 2019 年 4 月 9 日_
 
 自然美学是哲学美学的一个相对较新的子领域。它在二十世纪的最后三分之一内兴起于分析美学中。在它出现之前，分析传统中的美学主要关注艺术哲学。自然美学起源于对这种强调的反应，转而追求对自然环境的审美欣赏的研究。自其早期阶段以来，自然美学的范围已经扩大，不仅包括自然环境，还包括人类和人类影响的环境。与此同时，该学科还包括对这些环境中的事物的研究，从而产生了所谓的日常生活美学。这个领域涉及的不仅仅是更常见的物体和环境的美学，还包括一系列日常活动。因此，在二十一世纪初，自然美学涵盖了除艺术以外几乎所有事物的审美意义的研究。随着自然美学范围的扩大，二十一世纪还出现了对自然美学与环境主义之间关系的重新和更深入的研究，以及几个新的兴趣和方向。
 
@@ -24,7 +24,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/environmental-aesthetics/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/environmental-aesthetics/#Rel)
 
----
+***
 
 ## 1. 历史
 
@@ -56,7 +56,7 @@
 
 ### 2.2 自然美学的出现
 
-在二十世纪的最后三分之一，人们对自然美学重新产生了兴趣。这种复兴是由几个不同的因素引起的。部分原因是对环境的明显退化引起了公众日益关注，无论是在美学方面还是其他方面。这也是学术界意识到环境运动的重要性的结果，无论是在理论讨论还是实际行动的层面上。值得注意的是，环境伦理学的哲学研究也起源于这个时期。环境美学的一些早期工作侧重于对公众对环境美学状况的担忧进行的实证研究。对这些研究的批评者认为，环境管理中使用的景观评估和规划技术不足以强调主要的形式特征，而忽视了表达和其他种类的美学品质（Sagoff 1974，Carlson 1976）。实证方法也被指责过于关注“风景美”并过度受到如风景画等观念的影响（Carlson 1977）。总的来说，人们认为这个领域受到了理论问题的困扰（Sparshott 1972），特别是实证研究被认为缺乏充分的概念框架，常常在一个批评家所称的“理论真空”中进行（Appleton 1975b）。填补这一真空的尝试促使了自然美学的审美欣赏具有社会生物学基础的想法，比如“前景-避难理论”（Appleton 1975a 1982），以及其他与进化相关的解释（Orians and Heerwagen 1986 1992），这些想法最近在一些哲学家中引起了更多的关注（Davies 2012，Paden *et al* 2012，Paden 2015a 2016，Bartalesi and Portera 2015）。此外，这一时期的关注还促使了各种基于发展心理学和环境心理学的审美反应理论模型的发展（Kaplan and Kaplan 1989，Bourassa 1991）。有关这种研究及其相关研究的综述（Zube 1984，Cats-Baril and Gibson 1986，Daniel 2001）和文集（Saarinen *et al* 1984，Nasar 1988，Sheppard and Harshaw 2001），以及最近的一些研究，虽然本质上是以实证为导向，但具有相当大的理论兴趣（Porteous 1996，Bell 1999，Parsons and Daniel 2002，Gobster *et al* 2007，Hill and Daniel 2008，Gobster 2008 2013）。一篇综合性的对这类研究的综述还包括了一些关于它与环境美学哲学工作的关系的讨论（Thompson and Tarvlou 2009）。
+在二十世纪的最后三分之一，人们对自然美学重新产生了兴趣。这种复兴是由几个不同的因素引起的。部分原因是对环境的明显退化引起了公众日益关注，无论是在美学方面还是其他方面。这也是学术界意识到环境运动的重要性的结果，无论是在理论讨论还是实际行动的层面上。值得注意的是，环境伦理学的哲学研究也起源于这个时期。环境美学的一些早期工作侧重于对公众对环境美学状况的担忧进行的实证研究。对这些研究的批评者认为，环境管理中使用的景观评估和规划技术不足以强调主要的形式特征，而忽视了表达和其他种类的美学品质（Sagoff 1974，Carlson 1976）。实证方法也被指责过于关注“风景美”并过度受到如风景画等观念的影响（Carlson 1977）。总的来说，人们认为这个领域受到了理论问题的困扰（Sparshott 1972），特别是实证研究被认为缺乏充分的概念框架，常常在一个批评家所称的“理论真空”中进行（Appleton 1975b）。填补这一真空的尝试促使了自然美学的审美欣赏具有社会生物学基础的想法，比如“前景-避难理论”（Appleton 1975a 1982），以及其他与进化相关的解释（Orians and Heerwagen 1986 1992），这些想法最近在一些哲学家中引起了更多的关注（Davies 2012，Paden _et al_ 2012，Paden 2015a 2016，Bartalesi and Portera 2015）。此外，这一时期的关注还促使了各种基于发展心理学和环境心理学的审美反应理论模型的发展（Kaplan and Kaplan 1989，Bourassa 1991）。有关这种研究及其相关研究的综述（Zube 1984，Cats-Baril and Gibson 1986，Daniel 2001）和文集（Saarinen _et al_ 1984，Nasar 1988，Sheppard and Harshaw 2001），以及最近的一些研究，虽然本质上是以实证为导向，但具有相当大的理论兴趣（Porteous 1996，Bell 1999，Parsons and Daniel 2002，Gobster _et al_ 2007，Hill and Daniel 2008，Gobster 2008 2013）。一篇综合性的对这类研究的综述还包括了一些关于它与环境美学哲学工作的关系的讨论（Thompson and Tarvlou 2009）。
 
 在哲学美学领域内，对自然美学的重新关注也受到了另一个发展的推动：罗纳德·赫本（Ronald Hepburn）发表的开创性文章《当代美学与对自然美的忽视》（Hepburn 1966）（Brook 2010，Saito 2010，Sepänmaa 2010，Carlson 2014b）。赫本的文章被普遍认为为二十世纪后期的自然美学设定了议程。他指出，通过将所有美学基本上归结为艺术哲学，分析美学几乎忽视了自然界。然而，他观察到，在对自然的审美欣赏中，就像对艺术的欣赏一样，存在着只是琐碎和肤浅的欣赏与认真和深入的欣赏之间的区别。他进一步提出，对于自然来说，这种认真的欣赏可能需要新的和不同的方法，既能适应自然的不确定和多变的特性，又能适应我们的多感官体验和多样化的理解。通过关注自然美，赫本证明了除了艺术世界之外，对世界审美体验的哲学研究也是有意义的。因此，他不仅引发了对自然美学的重新关注，还为环境美学和日常生活美学奠定了基础。
 
@@ -104,7 +104,7 @@
 
 当代环保主义与环境美学的关系源于 18 世纪和 19 世纪发展起来的自然美学。正如已经指出的，早期的环保运动，尤其是在北美，受到了一种审美欣赏方式的推动，这种方式不仅受到了风景如画的概念的影响，还受到了诸如缪尔（Hargrove 1979，Callicott 1994，Wattles 2013，Brady 2018）等思想家的理念的影响。然而，最近环境美学与环保主义之间的关系似乎有些棘手（Carlson 2010）。一些关注自然和人类遗产环境的保护与保护的人士认为，传统的自然美学并没有提供他们认为在执行环保议程所需的资源（Loftis 2003）。其他人则研究了具有独特特征的环境所带来的问题，例如孤立性，因为似乎很难从审美的角度来证明孤立的自然环境的保护是必要的，因为这些环境基本上对人类的审美欣赏是隐藏的（Parsons 2015）。这个问题在涉及到不符合传统风景美的概念的环境，如湿地，尤其严重（Rolston 2000，Callicott 2003）。此外，与早期批评观点一致，即景观评估和规划中的大部分实证工作仅关注风景如画的环境，对自然美的审美欣赏的许多历史传统也受到了质疑。自然美学中的各种主题，如基于风景如画概念的欣赏，已经以多种方式受到了批评：作为人类中心主义（Godlovitch 1994），过于关注风景（Saito 1998a），琐碎（Callicott 1994），主观（Thompson 1995）和/或道德上空洞（Andrews 1998）。同样，与参与美学对无私理论的批评一致，一些人认为从环境的角度来看，这个概念是值得怀疑的（Rolston 1998）。
 
-对于对传统自然美学以及无私和风景画观念的批评，有各种不同的回应。一些人重新评估并捍卫了风景画的概念，认为它以及 18 世纪传统的其他一些方面被一些当代美学家误解了（Brook 2008，Paden *et al* 2013，Paden 2013 2015a 2015b，Earle 2015）。其他人则转向研究原始 18 世纪美、崇高和风景画三位一体中被长期忽视的崇高，从中找到了新的资源来接近对自然世界的审美欣赏（Brady 2012 2013，Shapshay 2013，Mahoney 2016）。然而，无论对于风景画和崇高的重要性的最终评判如何，非认知方法的资源，尤其是参与美学，被认为可以对抗那些认为由于风景画等观念的影响，对自然的审美体验必须是人类中心主义和景观迷恋的批评（Rolston 1998 2002）。人类中心主义的指责也被神秘主义方法明确地解决，该方法试图为对自然的审美欣赏提供一个“非中心主义”的基础（Godlovitch 1994）。关于无私的概念，一些哲学家仍然认为无私理论的某种形式是必要的，因为没有它，审美本身的概念就缺乏概念基础（Budd 2002），而其他人则声称，通过无私概念对审美体验进行分析有助于应对传统美学是人类中心主义和主观主义的指责，因为这样的分析支持审美判断的客观性（Brady 2003）。同样，认知观点也对其中一些指责提供了回应。特别是科学认知主义，以其关注地质学和生态学等科学知识，被认为有助于解决环境保护和保护中对环境的审美欣赏的重要性的担忧，因为审美欣赏是微不足道和主观的（Hettinger 2005，Parsons 2006a 2008a）。然而，科学认知主义和相关的生态学依赖观点能否成功地解决关于自然和人类环境的适当审美欣赏的问题和疑虑，在各种方面也受到了质疑（Budd 2002，Hettinger 2007，Berleant 2010a 2016，Bannon 2011，Stecker 2012，Herguedas 2018，Mikkonen 2018）。
+对于对传统自然美学以及无私和风景画观念的批评，有各种不同的回应。一些人重新评估并捍卫了风景画的概念，认为它以及 18 世纪传统的其他一些方面被一些当代美学家误解了（Brook 2008，Paden _et al_ 2013，Paden 2013 2015a 2015b，Earle 2015）。其他人则转向研究原始 18 世纪美、崇高和风景画三位一体中被长期忽视的崇高，从中找到了新的资源来接近对自然世界的审美欣赏（Brady 2012 2013，Shapshay 2013，Mahoney 2016）。然而，无论对于风景画和崇高的重要性的最终评判如何，非认知方法的资源，尤其是参与美学，被认为可以对抗那些认为由于风景画等观念的影响，对自然的审美体验必须是人类中心主义和景观迷恋的批评（Rolston 1998 2002）。人类中心主义的指责也被神秘主义方法明确地解决，该方法试图为对自然的审美欣赏提供一个“非中心主义”的基础（Godlovitch 1994）。关于无私的概念，一些哲学家仍然认为无私理论的某种形式是必要的，因为没有它，审美本身的概念就缺乏概念基础（Budd 2002），而其他人则声称，通过无私概念对审美体验进行分析有助于应对传统美学是人类中心主义和主观主义的指责，因为这样的分析支持审美判断的客观性（Brady 2003）。同样，认知观点也对其中一些指责提供了回应。特别是科学认知主义，以其关注地质学和生态学等科学知识，被认为有助于解决环境保护和保护中对环境的审美欣赏的重要性的担忧，因为审美欣赏是微不足道和主观的（Hettinger 2005，Parsons 2006a 2008a）。然而，科学认知主义和相关的生态学依赖观点能否成功地解决关于自然和人类环境的适当审美欣赏的问题和疑虑，在各种方面也受到了质疑（Budd 2002，Hettinger 2007，Berleant 2010a 2016，Bannon 2011，Stecker 2012，Herguedas 2018，Mikkonen 2018）。
 
 就像朝着更加生态学启发的审美欣赏的运动一样，将自然美学与积极美学联系起来的思路也引起了争议。认为未经触动的原始自然只具有或主要具有积极美学特质的观点与科学认知主义相关联，暗示将自然的欣赏与科学知识联系起来可以解释积极美学欣赏是如何由科学世界观培养出来的，科学世界观越来越将自然界解释为具有积极美学特质，如秩序、平衡、统一和和谐（卡尔森 1984）。其他哲学家则相反地看待科学认知主义与积极美学之间的关系，认为后者应该被假定存在，从而为前者提供支持（帕森斯 2002），或者简单地认为积极美学传统实际上比当代科学认知主义更早有源头（费米斯特和斯特里克兰 2015）。尽管如何被证明，一些积极美学立场的版本得到了几位环境哲学家的支持（罗尔斯顿 1988，哈格罗夫 1989，赫廷格 2017，程 2017a），而其他人则认为它存在问题，要么因为它似乎削弱了环境规划和保护所需的比较评估的可能性（汤普森 1995，戈德洛维奇 1998a），要么因为这个想法本身似乎不直观、晦涩和/或不充分地被证明（戈德洛维奇 1998b，斋藤 1998a，巴德 2002，斯特克尔 2012）。即使是对积极美学的想法持有一定开放态度的哲学家也对其最初的表述有所保留，认为它过于依赖现在过时的生态学概念和/或不足够强调将自然作为审美欣赏的基本组成部分的进化理解（西姆斯 2008a，帕登等 2012，帕登 2015a 2016）。这些考虑可能指向一个更有说服力的积极美学版本。
 
@@ -112,339 +112,339 @@
 
 尽管对于各种认知主义方法存在上述保留意见，但考虑到地质学、生物学和尤其是生态学对于对自然美学的审美欣赏似乎具有相关性，科学认知主义有时被解释为阿尔多·利奥波德传统上的“生态美学”，他将自然之美与生态完整性和稳定性联系在一起（Callicott 1994 2003，Gobster 1995）。然而，尽管它显然源于利奥波德的思想，但“生态美学”的明确概念，或者有时被称为“生态美学”，似乎有着更晚的起源（Meeker 1872，Koh 1988）。此外，尽管这个想法在分析性环境美学中有一段时间的地位，最好由科学认知主义来填补，但最近它也被一些在“大陆传统”中工作的哲学家所采纳。例如，有人声称，尽管在“生态美学”方面的现象学工作“仍处于初级阶段”，但胡塞尔、海德格尔和梅洛-庞蒂的工作对其发展是适用的。此外，有人建议，参与美学是第一个且目前最强大的“综合现象学理论的生态美学”，并且它与科学认知主义相结合将构成一个更强大的生态美学（Toadvine 2010）。还有其他最近的环境美学研究，或多或少地借鉴了分析和大陆传统（Tafalla 2011，Leddy 2012b，Maskit 2014，Paetzold 2014，Seel 2015，Jóhannesdóttir 2016）。
 
-此外，东方对环境美学也有相当大的兴趣，它同样借鉴了分析和大陆传统，以及东方哲学（程 2010 年 2013b 2017b，岳迪 2014 年，陈 2015 年）。最近在这个领域的研究中涉及了关于自然环境和人类环境的几个不同主题，其中包括东方学者和西方学者的研究（薛 2008 年 2018 年，薛和卡尔森 2010 年，斋藤 2014a，Aota 2016 年，Berleant 2013a 2016 年，卡尔森 2017 年，奥丁 2017 年，曾 Y. 2017 年，布鲁贝克 2018 年，钟 2018 年，帕森斯和张 2018 年）。还有一些包含相关论文的专题集（程*et al* 2013 年，岳迪和卡特 2014a，卡利科特和麦克雷 2017 年，阮 2018 年），以及一些专门致力于东方美学最新研究的期刊专辑，例如《批判理论》1, 2（2017 年）和《当代美学》特刊 6（2018 年）。在这些研究中，也许最主要的兴趣领域是生态美学，这是由几位中国美学家追求的，他们发展了强大的生态美学版本（程 2013a 2016 年，曾 F. 2017 年）。除了这里引用的来源外，这些研究大部分只有中文版本。然而，一种著名的生态美学版本，可以用英文阅读，它将“生态美学欣赏的四个关键要素”定义为生态知识的核心、拒绝人类与自然界的二元对立，以及生态系统生物多样性和健康的超越性价值，以及生态伦理的持续指导（程 2013c 年）。这四个“关键要素”中的前两个反映了科学认知主义和参与美学，而后两个则远远超越了这些西方立场。通过将生态系统健康和生态伦理置于生态美学的框架之中，中国生态美学直接而有力地回答了环境美学与环境伦理之间的关系问题（卡尔森 2018 年）。这一举措与西方美学家试图将对自然和人类环境的美学欣赏与维护环境和生态健康的道德义务相一致的努力相媲美，甚至更为成功（罗尔斯顿 1995 年，伊顿 1997 年 1998 年，林托特 2006 年，斋藤 2007 年 2008 年，瓦兰达斯 2015 年），并在自然美学欣赏与自然保护和保护之间建立强有力的积极联系（罗尔斯顿 2002 年，布雷迪 2003 年，卡尔森和林托特 2007 年，帕森斯 2008a，卡尔森 2010 年，林托特和卡尔森 2014 年，帕森斯 2018 年）。然而，美学欣赏自然和人类环境以及伦理考虑之间的关系程度仍然是一个需要调查、讨论和辩论的问题（洛夫蒂斯 2003 年，班农 2011 年，斯特克尔 2012 年，卡尔森 2018 年，斯图尔特和约翰逊 2018 年）。
+此外，东方对环境美学也有相当大的兴趣，它同样借鉴了分析和大陆传统，以及东方哲学（程 2010 年 2013b 2017b，岳迪 2014 年，陈 2015 年）。最近在这个领域的研究中涉及了关于自然环境和人类环境的几个不同主题，其中包括东方学者和西方学者的研究（薛 2008 年 2018 年，薛和卡尔森 2010 年，斋藤 2014a，Aota 2016 年，Berleant 2013a 2016 年，卡尔森 2017 年，奥丁 2017 年，曾 Y. 2017 年，布鲁贝克 2018 年，钟 2018 年，帕森斯和张 2018 年）。还有一些包含相关论文的专题集（程_et al_ 2013 年，岳迪和卡特 2014a，卡利科特和麦克雷 2017 年，阮 2018 年），以及一些专门致力于东方美学最新研究的期刊专辑，例如《批判理论》1, 2（2017 年）和《当代美学》特刊 6（2018 年）。在这些研究中，也许最主要的兴趣领域是生态美学，这是由几位中国美学家追求的，他们发展了强大的生态美学版本（程 2013a 2016 年，曾 F. 2017 年）。除了这里引用的来源外，这些研究大部分只有中文版本。然而，一种著名的生态美学版本，可以用英文阅读，它将“生态美学欣赏的四个关键要素”定义为生态知识的核心、拒绝人类与自然界的二元对立，以及生态系统生物多样性和健康的超越性价值，以及生态伦理的持续指导（程 2013c 年）。这四个“关键要素”中的前两个反映了科学认知主义和参与美学，而后两个则远远超越了这些西方立场。通过将生态系统健康和生态伦理置于生态美学的框架之中，中国生态美学直接而有力地回答了环境美学与环境伦理之间的关系问题（卡尔森 2018 年）。这一举措与西方美学家试图将对自然和人类环境的美学欣赏与维护环境和生态健康的道德义务相一致的努力相媲美，甚至更为成功（罗尔斯顿 1995 年，伊顿 1997 年 1998 年，林托特 2006 年，斋藤 2007 年 2008 年，瓦兰达斯 2015 年），并在自然美学欣赏与自然保护和保护之间建立强有力的积极联系（罗尔斯顿 2002 年，布雷迪 2003 年，卡尔森和林托特 2007 年，帕森斯 2008a，卡尔森 2010 年，林托特和卡尔森 2014 年，帕森斯 2018 年）。然而，美学欣赏自然和人类环境以及伦理考虑之间的关系程度仍然是一个需要调查、讨论和辩论的问题（洛夫蒂斯 2003 年，班农 2011 年，斯特克尔 2012 年，卡尔森 2018 年，斯图尔特和约翰逊 2018 年）。
 
-目前在自然美学领域的研究，借鉴了大陆传统和东方学者对生态美学的广泛研究，这些都是自然美学全球化的例子。最近，东方和西方都呼吁对美学进行全球化的研究（Li and Cauvel 2006, Higgins 2017），尤其是对环境美学的全球化研究（Saito 2010, Yuedi and Carter 2014b）。这样的呼吁对于该领域的持续发展至关重要，但同时也要注意，尽管大陆传统中的生态美学研究及其在东方的发展相对较新，但自然美学本身早已具有全球化的取向。自从它的诞生以来，就有广泛的学者对该领域产生了兴趣，他们探索不同的哲学传统和/或在不同国家工作。例如，借鉴大陆哲学对于自然美学并不新鲜（Berleant 1985）。同样，在自然美学发展的早期，对日本自然美学进行了重要的研究（Saito 1985 1992 1996），并延续到了本世纪（Saito 2002 2014a）。另一个例子是芬兰的研究成果，在 20 世纪 90 年代和 2000 年代举办了许多会议，每次会议后都出版了一系列文章，例如（Sepänmaa and Heikkilä-Palo 2005, Sepänmaa *et al* 2007）。同样，近年来中国也举办了几次会议，邀请了西方学者，并出版了一系列文章（Cheng *et al* 2013, Yuedi and Carter 2014a）。类似的文章集还出版了在欧洲和北美举办的会议上发表的论文（Drenthen and Keulartz 2014），其中一些论文被收录在最近一期的《审美与艺术批评杂志》特刊中（Shapshay and Tenen 2018a）。环境美学的全球吸引力的另一个体现是，许多环境美学的文章和书籍已经被翻译成多种其他语言，包括几种欧洲语言以及韩语和尤其是中文，其中一些基本的西方环境美学文本已经被翻译成中文。此外，这种全球吸引力还体现在目前在多个不同国家和语言中发表的大量研究成果。
+目前在自然美学领域的研究，借鉴了大陆传统和东方学者对生态美学的广泛研究，这些都是自然美学全球化的例子。最近，东方和西方都呼吁对美学进行全球化的研究（Li and Cauvel 2006, Higgins 2017），尤其是对环境美学的全球化研究（Saito 2010, Yuedi and Carter 2014b）。这样的呼吁对于该领域的持续发展至关重要，但同时也要注意，尽管大陆传统中的生态美学研究及其在东方的发展相对较新，但自然美学本身早已具有全球化的取向。自从它的诞生以来，就有广泛的学者对该领域产生了兴趣，他们探索不同的哲学传统和/或在不同国家工作。例如，借鉴大陆哲学对于自然美学并不新鲜（Berleant 1985）。同样，在自然美学发展的早期，对日本自然美学进行了重要的研究（Saito 1985 1992 1996），并延续到了本世纪（Saito 2002 2014a）。另一个例子是芬兰的研究成果，在 20 世纪 90 年代和 2000 年代举办了许多会议，每次会议后都出版了一系列文章，例如（Sepänmaa and Heikkilä-Palo 2005, Sepänmaa _et al_ 2007）。同样，近年来中国也举办了几次会议，邀请了西方学者，并出版了一系列文章（Cheng _et al_ 2013, Yuedi and Carter 2014a）。类似的文章集还出版了在欧洲和北美举办的会议上发表的论文（Drenthen and Keulartz 2014），其中一些论文被收录在最近一期的《审美与艺术批评杂志》特刊中（Shapshay and Tenen 2018a）。环境美学的全球吸引力的另一个体现是，许多环境美学的文章和书籍已经被翻译成多种其他语言，包括几种欧洲语言以及韩语和尤其是中文，其中一些基本的西方环境美学文本已经被翻译成中文。此外，这种全球吸引力还体现在目前在多个不同国家和语言中发表的大量研究成果。
 
 自然美学的持续全球化以及当今在生态美学等各种观点的研究中所进行的富有成果的讨论，表明对于促进和支持各种环境（包括自然环境和人类环境）的审美欣赏和保护最具生产力的工作，并不仅仅依赖于任何一种特定的环境美学方法，而是试图将多种不同的取向和传统的资源结合起来（Nassauer 1997，Lintott 2006，Carlson 2009，Moore 2008，Cheng 等人 2013，Carlson 2018）。例如，除了中国在生态美学方面的研究外，正如前面提到的，西方学者也在努力将认知和非认知观点的元素结合起来（Rolston 1998 2002，Saito 2007，Toadvine 2010）。此外，许多思想家还探索与环境美学有建设性关联的其他主题，例如女性主义理论（Lee 2006，Lintott 2010，Lintott 和 Irvin 2016），政治和社会问题（Berleant 2005 2012，Ross 2005，Simus 2008b，McShane 2018，Saito 2018），生物哲学（Parsons 和 Carlson 2008），动物待遇和保护（Parsons 2007，Hettinger 2010，Semczyszyn 2013，Brady 2014a，Tafalla 2017，Cross 2018），天气和气候变化（Brady 2014b，Diaconu 2015，Nomikos 2018），以及也许最重要的是丰富人类生活质量（Saito 2017a 2018，Jamieson 2018）。这种工作还可以将这些相关主题应用于环境政策和实践（Saito 2007，Berleant 2010b 2012，Parsons 2010，Sepänmaa 2010，Robinson 和 Elliott 2011，Cheng 等人 2013，Brady 2014b）。通过这种方式，这些贡献将继续塑造环境美学的未来方向（Saito 2010 2014b，Blanc 2012，Drenthen 和 Keulartz 2014，Shapshay 和 Tenen 2018b）。这种创新的、折衷的方法，加上环境美学的全球化，有望不仅进一步推动各种环境目标和实践，而且促进对我们所生活的世界的审美潜力的更深入的理解和欣赏。
 
 ## Bibliography
 
-* Alvarez, A. L., (ed.), 2017, *Aesthetics between Art and Society: Perspectives of Arnold Berleant’s Postkantian Aesthetics of Engagement*, *Espes*, 6, 2.
-* Andrews, M., 1989, *The Search for the Picturesque*, Stanford: Stanford University Press.
-* –––, 2007, “The View from the Road and the Picturesque,” in *The Aesthetics of Human Environments*, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
-* Aota, M. 2016, “On the Differences between Categories of Artworks and Nature,” *Postgraduate Journal of Aesthetics*, 12: 19–30.
-* Appleton, J., 1975a, *The Experience of Landscape*, London: John Wiley and Sons.
-* –––, 1975b, “Landscape Evaluation: The Theoretical Vacuum,” *Transactions of the Institute of British Geographers*, 66: 120–123.
-* –––, 1982, “Pleasure and the Perception of Habitat: A Conceptual Framework,” in *Environmental Aesthetics: Essays in Interpretation*, B. Sadler and A. Carlson (ed.), Victoria: University of Victoria.
-* Arntzen, S. and Brady E., (ed.), 2008, *Humans in the Land: The Ethics and Aesthetics of the Cultural Landscape*, Oslo: Oslo Academic Press.
-* Bannon, B. E., 2011, “Re-Envisioning Nature: The Role of Aesthetics in Environmental Ethics,” *Environmental Ethics*, 33: 415–436.
-* Bartalesi, L. and Portera M., 2015, “Beyond the Nature-Culture Dichotomy: A Proposal for Evolutionary Aesthetics,” *Aisthesis*, 8: 101–111.
-* Beardsley, M. C., 1958, *Aesthetics: Problems in the Philosophy of Criticism*, New York: Harcourt, Brace & World.
-* Bell, S., 1999, *Landscape: Pattern, Perception and Process*, London: Routledge.
-* Benovsky, J., 2016, “Aesthetic Appreciation of Landscapes,” *Journal of Value Inquiry*, 50: 325–340.
-* Benson, J., 2008, “Aesthetic and Other Values in the Rural Landscape,” *Environmental Values*, 17: 221–238.
-* Berleant, A. 1978, “Aesthetic Paradigms for an Urban Ecology,” *Diogenes*, 103: l–28.
-* –––, 1984, “Aesthetic Participation and the Urban Environment,” *Urban Resources*, 1: 37–42.
-* –––, 1985, “Toward a Phenomenological Aesthetics of Environment,” in *Descriptions*, H. Silverman and D. Idhe (ed.), Albany: SUNY Press.
-* –––, 1986, “Cultivating an Urban Aesthetic,” *Diogenes*, 136: 1–18.
-* –––, 1988, “Environment as an Aesthetic Paradigm,” *Dialectics and Humanism*, 15: 95–106.
-* –––, 1991, *Art and Engagement*, Philadelphia: Temple University Press.
-* –––, 1992, *The Aesthetics of Environment*, Philadelphia: Temple University Press.
-* –––, 1997, *Living in the Landscape: Toward an Aesthetics of Environment*, Lawrence: University Press of Kansas.
-* –––, 2004, *Re-thinking Aesthetics: Rogue Essays on Aesthetics and the Arts*, Aldershot: Ashgate.
-* –––, 2005, *Aesthetics and Environment: Variations on a Theme*, Aldershot: Ashgate.
-* –––, 2010a, “Reconsidering Scenic Beauty,” *Environmental Values*, 19: 335–350.
-* –––, 2010b, *Sensibility and Sense: The Aesthetic Transformation of the Human World*, Exeter: Imprint Academic.
-* –––, 2012, *Aesthetics Beyond the Arts: New and Recent Essays*, Aldershot: Ashgate.
-* –––, 2013a, “Ideas for an Ecological Aesthetics,” in *Ecological Aesthetics and Ecological Assessment and Planning*, X. Cheng, A., Berleant, P. Gobster, and X. Wang (ed.), Zhengzhou: Henan People’s Press.
-* –––, 2013b, “What is Aesthetic Engagement?” *Contemporary Aesthetics*, 11, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=684)].
-* –––, 2016, “Some Questions for Ecological Aesthetics,” *Environmental Philosophy*, 13: 123–135
-* ––– and Carlson, A., (ed.), 2007, *The Aesthetics of Human Environments*, Peterborough: Broadview Press.
-* Biese, A., 1905, *The Development of the Feeling for Nature in the Middle Ages and Modern Times*, New York: Burt Franklin.
-* Blanc, N., 2012, “From Environmental Aesthetics to Narratives of Change,” *Contemporary Aesthetics*, 10, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=655)].
-* –––, 2013, “Aesthetic Engagement in the City,” *Contemporary Aesthetics*, 11, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=683)].
-* Bourassa, S. C., 1991, *The Aesthetics of Landscape*, London: Belhaven.
-* Brady, E., 1998, “Imagination and the Aesthetic Appreciation of Nature,” *Journal of Aesthetics and Art Criticism*, 56: 139–147.
-* –––, 2003, *Aesthetics of the Natural Environment*, Edinburgh: Edinburgh University Press.
-* –––, 2006, “The Aesthetics of Agricultural Landscapes and the Relationship between Humans and Nature,” *Ethics, Place and Environment*, 9: 1–19.
-* –––, 2007, “Aesthetic Regard for Nature in Environmental and Land Art,” *Ethics, Place and Environment*, 10: 287–300.
-* –––, 2012, “Reassessing Aesthetic Appreciation of Nature in the Kantian Sublime,” *Journal of Aesthetic Education*, 46: 91–109.
-* –––, 2013, *The Sublime in Modern Philosophy: Aesthetics, Ethics, and Nature*, Cambridge: Cambridge University Press.
-* –––, 2014a, “Aesthetic Value and Wild Animals,” in *Environmental Aesthetics: Crossing Divides and Breaking Ground*, M. Drenthen and J. Keulartz, (ed.), New York: Fordham University Press.
-* –––, 2014b, “Aesthetic Value, Ethics, and Climate Change,” *Environmental Values*, 23: 551–570.
-* –––, 2018, “John Muir’s Environmental Aesthetics: Interweaving the Aesthetic, Religious, and Scientific,” *Journal of Aesthetics and Art Criticism*, 76: 463–472.
-* –––, Brook, I., and Prior, J., 2018, *Between Nature and Culture: The Aesthetics of Modified Environments*, Lanham, MD: Rowman and Littlefield.
-* Brook, I., 2007, “Aesthetic Aspects of Unauthorised Environmental Interventions,” *Ethics, Place and Environment*, 10: 307–318.
-* –––, 2008, “Wilderness in the English Garden Tradition: A Reassessment of the Picturesque from Environmental Philosophy,” *Ethics and the Environment*, 13: 105–119.
-* –––, 2010, “Ronald Hepburn and the Humanising of Environmental Aesthetics,” *Environmental Values*, 19: 265–271.
-* –––, 2013, “Aesthetic Appreciation of Landscape,” in *Routledge Companion to Landscape Studies*, 2nd Edition, P. Howard, I. Thompson, E. Waterton, and M. Atha, (ed.), London: Routledge.
-* Brottman, M., 2007, “The Last Stop of Desire: The Aesthetics of the Shopping Center,” in *The Aesthetics of Human Environments*, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
-* Brubaker, D. A., 2018, “The Private Character of Natural Beauty: Shanshui Painting as a Model for Unity of Self and Natural Environment,”*Contemporary Aesthetics*, Special Volume 6, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=655)].
-* Budd, M., 2002, *The Aesthetic Appreciation of Nature*, Oxford: Oxford University Press.
-* Callicott, J. B., 1994, “The Land Aesthetic,” in *Ecological Prospects: Scientific, Religious, and Aesthetic Perspectives*, C. K. Chapple (ed.), Albany: SUNY Press.
-* –––, 2003, “Wetland Gloom and Wetland Glory,” *Philosophy and Geography*, 6: 33–45.
-* ––– and McRae, J., (ed.), 2017 *Japanese Environmental Philosophy*, Oxford: Oxford University Press.
-* Carlson, A., 1976, “Environmental Aesthetics and the Dilemma of Aesthetic Education,” *Journal of Aesthetic Education*, 10: 69–82.
-* –––, 1977, “On the Possibility of Quantifying Scenic Beauty,” *Landscape Planning*, 4: 131–172.
-* –––, 1979, “Appreciation and the Natural Environment,” *Journal of Aesthetics and Art Criticism*, 37: 267–276.
-* –––, 1981, “Nature, Aesthetic Judgment, and Objectivity,” *Journal of Aesthetics and Art Criticism*, 40: 15–27.
-* –––, 1984, “Nature and Positive Aesthetics,” *Environmental Ethics*, 6: 5–34.
-* –––, 1985, “On Appreciating Agricultural Landscapes,” *Journal of Aesthetics and Art Criticism*, 43: 301–312.
-* –––, 1986, “Is Environmental Art an Aesthetic Affront to Nature?” *Canadian Journal of Philosophy*, 16: 635–650.
-* –––, 1997, “On the Aesthetic Appreciation of Japanese Gardens,” *British Journal of Aesthetics*, 37: 47–56.
-* –––, 2000, *Aesthetics and the Environment: The Appreciation of Nature, Art and Architecture*, London: Routledge.
-* –––, 2001, “On Aesthetically Appreciating Human Environments,” *Philosophy and Geography*, 4: 9–24.
-* –––, 2007, “The Requirements for an Adequate Aesthetics of Nature,” *Environmental Philosophy*, 4: 1–12.
-* –––, 2009, *Nature and Landscape: An Introduction to Environmental Aesthetics*, New York: Columbia University Press.
-* –––, 2010, “Contemporary Environmental Aesthetics and the Requirements of Environmentalism,” *Environmental Values*, 19: 289–314.
-* –––, 2014a, “The Dilemma of Everyday Aesthetics,” in *Aesthetics of Everyday Life: East and West*, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
-* –––, 2014b, “Ten Steps in the Development of Western Environmental Aesthetics,” in *Environmental Aesthetics: Crossing Divides and Breaking Ground*, M. Drenthen and J. Keulartz, (ed.), New York: Fordham University Press.
-* –––, 2017, “The Relationship between Eastern Ecoaesthetics and Western Environmental Aesthetics,” *Philosophy East and West*, 67: 117–139.
-* –––, 2018, “Environmental Aesthetics, Ethics, and Ecoaesthetics,” *Journal of Aesthetics and Art Criticism*, 76: 399–410.
-* ––– and Berleant, A., (ed.), 2004, *The Aesthetics of Natural Environments*, Peterborough: Broadview Press.
-* ––– and Lintott, S., (ed.), 2007, *Nature, Aesthetics, and Environmentalism: From Beauty to Duty*, New York: Columbia University Press.
-* Carroll, N., 1993, “On Being Moved By Nature: Between Religion and Natural History,” in *Landscape, Natural Beauty and the Arts*, S. Kemal and I. Gaskell (ed.), Cambridge: Cambridge University Press.
-* Cats-Baril, W. L. and Gibson, L., 1986, “Evaluating Aesthetics: The Major Issues and a Bibliography,” *Landscape Journal*, 5: 93–102.
-* Chen, W., 2015, *Chinese Environmental Aesthetics*, F. Su (trans.), G. Cipriani (ed.), London: Routledge.
-* Cheng, X., 2010, “Ecoaesthetics and Ecocriticism,” *ISLE: Interdisciplinary Studies in Literature and Environment* 17: 785–789.
-* –––, 2013a, “Aesthetic Engagement, Ecosophy C, and Ecological Appreciation,” *Contemporary Aesthetics*, 11, [[available online](https://contempaesthetics.org/newvolume/pages/article.php?articleID=680)].
-* –––, 2013b, “Environmental Aesthetics and Ecological Aesthetics: Connections and Differences,” in *Ecological Aesthetics and Ecological Assessment and Planning*, X. Cheng, A., Berleant, P. Gobster, and X. Wang (ed.), Zhengzhou: Henan People’s Press.
-* –––, 2013c, “On the Four Keystones of Ecological Aesthetic Appreciation,” in *East Asian Ecocriticisms: A Critical Reader*, S. C. Estok and W. Kim (ed.), New York: Palgrave Macmillan.
-* –––, 2016, “Ecosophy and Ecoaesthetics: A Chinese Perspective,” in *Handbook of* *Ecocriticism and Cultural Ecology*, H. Zapf, (ed.), Berlin: de Gruyter.
-* –––, 2017a, “A Reflection on the Hazy Weather from the perspective of Ecoaesthetics,” R. Guo (trans.), *Critical Theory*, 1, 2: 91–108.
-* –––, 2017b, “Introduction: Special Issue on Chinese Ecoaesthetics,” *Critical Theory*, 1, 2: 5–7.
-* –––, Berleant, A., Gobster, P., and Wang, X., 2013, *Ecological Aesthetics and Ecological Assessment and Planning*, Zhengzhou: Henan People’s Press.
-* Chung, J., 2018, “Moral Cultivation: Japanese Gardens, Personal Ideals, and Ecological Citizenship,” *Journal of Aesthetics and Art Criticism*, 76: 507–518.
-* Conron, J., 2000, *American Picturesque*, University Park: Pennsylvania State University Press.
-* Cooper, D., 2006, *A Philosophy of Gardens*, Oxford: Oxford University Press.
-* Crawford, D., 1983, “Nature and Art: Some Dialectical Relationships,” *Journal of Aesthetics and Art Criticism*, 62: 49–58.
-* –––, 2004, “Scenery and the Aesthetics of Nature,” in *The Aesthetics of Natural Environments*, A. Carlson and A. Berleant (ed.), Peterborough: Broadview Press.
-* Cross, A., 2018, “The Animal Is Present: The Ethics of Animal Use in Contemporary Art,” *Journal of Aesthetics and Art Criticism*, 76: 519–528.
-* Daniel, T. C., 2001, “Whither Scenic Beauty? Visual Landscape Quality Assessment in the 21st Century,” *Landscape and Urban Planning*, 54: 276–281.
-* Davies, D., 2015, “Sibley and the Limits of Everyday Aesthetics,” *Journal of Aesthetic Education*, 49: 50–65.
-* Davies, S., 2012, *The Artful Species: Aesthetics, Art, and Evolution*, Oxford: Oxford University Press.
-* –––, 2014, “The Aesthetics of Adornments,” in *Aesthetics of Everyday Life: East and West*, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
-* Diaconu, M., 2015, “Longing for Clouds–––Does Beautiful Weather Have To Be Fine?” *Contemporary Aesthetics*, 13, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=654)].
-* Dickie, G., 1974, *Art and the Aesthetic: An Institutional Analysis*, Ithaca: Cornell University Press.
-* Dowling, C., 2010, “The Aesthetics of Daily Life,” *British Journal of Aesthetics*, 50: 225–242.
-* Drenthen, M. and Keulartz, J., (ed.), 2014, *Environmental Aesthetics: Crossing Divides and Breaking Ground*, New York: Fordham University Press.
-* Earle, R., 2015, “Is Natural Beauty the Given?” *Environmental Ethics*, 37: 3–19.
-* Eaton, M. M., 1997, “The Beauty that Requires Health,” in *Placing Nature: Culture and Landscape Ecology*, J. I. Nassauer (ed.), Washington, D.C.: Island Press.
-* –––, 1998, “Fact and Fiction in the Aesthetic Appreciation of Nature,” *Journal of Aesthetics and Art Criticism*, 56: 149–156.
-* Edgar, A., 2013, “The Aesthetics of Sport,” *Sport, Ethics and Philosophy*, 7: 80–99.
-* Erzen, J. and Milani, R., (ed.), 2013, *Nature and the City: Beauty is Taking on a New Form* (International Yearbook of Aesthetics, 7), Sassari: Edzione Edes.
-* Firth, D., 2008, “The Role of Aesthetic Considerations in a Narrative Based Approach to Nature Conservation,” *Ethics and the Environment*, 13: 77–100.
-* Fisher, J. A., 1998, “What the Hills Are Alive With: In Defense of the Sounds of Nature,” *Journal of Aesthetics and Art Criticism*, 56: 167–179.
-* –––, 2007, “Performing Nature,” *Environmental Philosophy*, 4: 15–28.
-* Forsey, J., 2013, *The Aesthetics of Design*, Oxford: Oxford University Press.
-* Foster, C., 1998, “The Narrative and the Ambient in Environmental Aesthetics,” *Journal of Aesthetics and Art Criticism*, 56: 127–137.
-* Frydryczak, B., 2015, “Is the City a Cultural Landscape? An Attempt to Analyze the City From the Perspective of Landscape Aesthetics,” *Argument: Biannual Philosophical Journal*, 5: 359–372.
-* Fudge, R., 2001, “Imagination and the Science-based Aesthetic Appreciation of Unscenic Nature,” *Journal of Aesthetics and Art Criticism*, 59: 275–285.
-* Gobster, P. H., 1995, “Aldo Leopold’s Ecological Esthetic: Integrating Esthetic and Biodiversity Values,” *Journal of Forestry*, 93: 6–10.
-* –––, 2008, “Yellowstone Hotspot: Reflections on Scenic Beauty, Ecology, and the Aesthetic Experience of Landscape,” *Landscape Journal*, 27: 291–308.
-* –––, 2013, “Ecological Aesthetics and Landscape Perception and Assessment,” in *Ecological Aesthetics and Ecological Assessment and Planning*, X. Cheng, A., Berleant, P. Gobster, and X. Wang (ed.), Zhengzhou: Henan People’s Press.
-* –––, Nassauer, J. I., Daniel, T. C., and Fry, G., 2007, “The Shared Landscape: What does Aesthetics have to do with Ecology?” *Landscape Ecology*, 22: 959–972.
-* Godlovitch, S., 1994, “Icebreakers: Environmentalism and Natural Aesthetics,” *Journal of Applied Philosophy*, 11: 15–30.
-* –––, 1998a, “Evaluating Nature Aesthetically,” *Journal of Aesthetics and Art Criticism*, 56: 113–125.
-* –––, 1998b, “Valuing Nature and the Autonomy of Natural Aesthetics,” *British Journal of Aesthetics*, 38: 180–197.
-* Haapala, A., (ed.), 1998, *The City as Cultural Metaphor: Studies in Urban Aesthetics*, Lahti: International Institute of Applied Aesthetics.
-* –––, 2005, “On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place,” in *The Aesthetics of Everyday Life*, A. Light and J. M. Smith (ed.), New York: Columbia University Press.
-* Hargrove, E. C., 1979, “The Historical Foundations of American Environmental Attitudes,” *Environmental Ethics*, 1: 209–240.
-* –––, 1989, *Foundations of Environmental Ethics*, Englewood Cliffs: Prentice Hall.
-* Hepburn, R. W., 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty,” in *British Analytical Philosophy*, B. Williams and A. Montefiore (ed.), London: Routledge and Kegan Paul.
-* –––, 1993, “Trivial and Serious in Aesthetic Appreciation of Nature,” in *Landscape, Natural Beauty and the Arts*, S. Kemal and I. Gaskell (ed.), Cambridge: Cambridge University Press.
-* –––, 1996, “Landscape and the Metaphysical Imagination,” *Environmental Values*, 5: 191–204.
-* Herguedas, F. A., 2018, “Are Poplar Plantations Really Beautiful? On Allen Carlson’s Aesthetics of Agricultural Landscapes and Environmentalism,” *Environmental Values*, 27: 159–178.
-* Herrington, S., 2009, *On Landscapes*, London: Routledge.
-* Hettinger, N., 2005, “Carlson’s Environmental Aesthetics and the Protection of the Environment,” *Environmental Ethics*, 27: 57–76.
-* –––, 2007, “Objectivity in Environmental Aesthetics and Protection of the Environment,” in *Nature, Aesthetics, and Environmentalism: From Beauty to Duty*, A. Carlson and S. Lintott (ed.), New York: Columbia University Press.
-* –––, 2010, “Animal Beauty, Ethics, and Environmental Preservation,” *Environmental Ethics*, 32: 115–134.
-* –––, 2017, “Evaluating Positive Aesthetics,” *Journal of Aesthetic Education*, 51: 26–41.
-* Heyd, T., 2001, “Aesthetic Appreciation and the Many Stories about Nature,” *British Journal of Aesthetics*, 41: 125–137.
-* –––, 2002, “Nature Restoration without Dissimulation: Learning from Japanese Gardens and Earthworks,” *Essays in Philosophy*, 2 [available online].
-* Higgins, K. M., 2017, “Global Aesthetics—What Can We Do?” *Journal of Aesthetics and Art Criticism*, 75: 339–349.
-* Hill, D. and Daniel, T. C., 2008, “Foundations for an Ecological Aesthetic: Can Information Alter Landscape Preferences?” *Society and Natural Resources*, 21: 34–49.
-* Irvin, S., 2008a, “The Pervasiveness of the Aesthetic in Everyday Experience,” *British Journal of Aesthetics*, 48: 486–500.
-* –––, 2008b, “Scratching an Itch,” *Journal of Aesthetics and Art Criticism*, 66: 25–35.
-* –––, 2016a, (ed.), *Body Aesthetics*, Oxford: Oxford University Press.
-* –––, 2016b, “Why Body Aesthetics?” in *Body Aesthetics*, S. Irvin (ed.), Oxford: Oxford University Press.
-* Jamieson, D., 2018, “Loving Nature,” *Journal of Aesthetics and Art Criticism*, 76: 485–495.
-* Jóhannesdóttir, G. R., 2016, “Phenomenological Aesthetics of Landscape and Beauty,” in *Nature and Experience: Phenomenology and the Environment*, B. E. Bannon (ed.), Lanham, MD: Rowman and Littlefield.
-* Kaplan, R. and Kaplan, S., 1989, *The Experience of Nature: A Psychological Perspective*, Cambridge: Cambridge University Press.
-* Kemal, S. and Gaskell, I., (ed.), 1993, *Landscape, Natural Beauty and the Arts*, Cambridge: Cambridge University Press.
-* Koh, J., 1988, “An Ecological Aesthetic,” *Landscape Journal*, 7: 177–191.
-* Korsmeyer, C., 1999, *Making Sense of Taste: Food and Philosophy*, Ithaca: Cornell University Press.
-* Kover, T. R., 2014, “Are the Oil Sands Sublime? Edward Burtynsky and the Vicissitudes of the Sublime,” in *Found in Alberta: Environmental Themes for the Anthropocene*, R. Boschman and M. Trono (ed.), Waterloo: Wilfrid Laurier University Press.
-* Leddy, T., 1995, “Everyday Surface Qualities: ‘Neat’, ‘Messy’, ‘Clean’, ‘Dirty’,” *Journal of Aesthetics and Art Criticism*, 53: 259–268.
-* –––, 2005a, “A Defense of Arts-Based Appreciation of Nature,” *Environmental Ethics*, 27: 299–315.
-* –––, 2005b, “The Nature of Everyday Aesthetics,” in *The Aesthetics of Everyday Life*, A. Light and J. M. Smith (ed.), New York: Columbia University Press.
-* –––, 2008, “The Aesthetics of Junkyards and Roadside Clutter,” *Contemporary Aesthetics*, 6, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=511)].
-* –––, 2012a, “Defending Everyday Aesthetics and the Concept of ‘Pretty’,” *Contemporary Aesthetics*, 10, [available online].
-* –––, 2012b, *The Extraordinary in the Ordinary: The Aesthetics of Everyday Life*, Peterborough: Broadview.
-* –––, 2014, “Everyday Aesthetics and Happiness,” in *Aesthetics of Everyday Life: East and West*, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
-* –––, 2015, “Experience of Awe: An Expansive Approach to Everyday Aesthetics,” *Contemporary Aesthetics*, 13, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=654)].
-* Lee, J. J., 2010, “Home Life: Cultivating a Domestic Aesthetic,” *Contemporary Aesthetics*, 8, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=587)].
-* Lee, W. L., 2006, “On Ecology and Aesthetic Experience: A Feminist Theory of Value and Praxis,” *Ethics and the Environment*, 11: 21–41.
-* Li, Z. and Cauvel, J., 2006, *Four Essays on Aesthetics: Toward a Global Perspective*, Lanham, MD: Rowman and Littlefield.
-* Light, A. and Smith, J. M., (ed.), 2005, *The Aesthetics of Everyday Life*, New York: Columbia University Press.
-* Lintott, S., 2006, “Toward Eco-Friendly Aesthetics,” *Environmental Ethics*, 28: 57–76.
-* –––, 2007, “Ethically Evaluating Land Art: Is It Worth It?” *Ethics, Place and Environment*, 10: 263–277.
-* –––, 2010, “Feminist Aesthetics and the Neglect of Natural Beauty,” *Environmental Values*, 19: 315–333.
-* ––– and Carlson, A., 2014, “The Link between Aesthetic Appreciation and the Preservation Imperative,” in *Linking Ecology and Ethics for a Changing World: Values, Philosophy, and Action*, R. Rozzi, S. T. A. Pickett, C. Palmer, J. J. Armesto, and J. B. Callicott, (ed.), New York/Heidelberg: Springer.
-* –––and Irvin, S., 2016, “Sex Objects and Sexy Subjects: A Feminist Reclamation of Sexiness,” in *Body Aesthetics*, S. Irvin (ed.), Oxford: Oxford University Press.
-* Loftis, R. J., 2003, “Three Problems for the Aesthetic Foundations of Environmental Ethics,” *Philosophy in the Contemporary World*, 10: 41–50.
-* Macauley, D., 2007, “Walking the City,” in *The Aesthetics of Human Environments*, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
-* Mahoney, B., 2016, “Engaging the Sublime without Distance: Environmental Ethics and Aesthetic Experience,” *Environmental Ethics*, 38:463–481.
-* Mandoki, K., 2007, *Everyday Aesthetics: Prosaics, the Play of Culture and Social Identities*, Aldershot: Ashgate.
-* –––, 2010, “The Third Tear in Everyday Aesthetics,” *Contemporary Aesthetics*, 8, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=663)].
-* Mannison, D., 1980, “A Prolegomenon to a Human Chauvinistic Aesthetic,” in *Environmental Philosophy*, D. Mannison, M. McRobbie, and R. Routley (ed.), Canberra: Australian National University.
-* Marsh, G. P., 1865, *Man and Nature; or Physical Geography as Modified by Human Action*, New York: Charles Scribner.
-* Maskit, J., 2007, “‘Line of Wreckage’: Toward a Postindustrial Environmental Aesthetics,” *Ethics, Place and Environment*, 10: 323–337.
-* –––, 2011, “The Aesthetics of Elsewhere: An Environmentalist Everyday Aesthetics,” *Aesthetic Pathways*, 1: 92–107.
-* –––, 2014, “On Universalism and Cultural Historicism in Environmental Aesthetics,” in *Environmental Aesthetics: Crossing Divides and Breaking Ground*, M. Drenthen and J. Keulartz, (ed.), New York: Fordham University Press.
-* Matthews, P., 2002, “Scientific Knowledge and the Aesthetic Appreciation of Nature,” *Journal of Aesthetics and Art Criticism*, 60: 37–48.
-* McShane, K., 2018, “The Role of Awe in Environmental Ethics,” *Journal of Aesthetics and Art Criticism*, 76: 473–484.
-* Meeker, J., 1972, “Notes Toward an Ecological Esthetic,” *Canadian Fiction Magazine*, 2: 4–15.
-* Melchionne, K., 1998, “Living in Glass Houses: Domesticity, Interior Decoration, and Environmental Aesthetics,” *Journal of Aesthetics and Art Criticism*, 56: 191–200.
-* –––, 2002, “Front Yards,” in *Environment and the Arts: Perspectives on Environmental Aesthetics*, A. Berleant (ed.), Aldershot: Ashgate.
-* –––, 2011, “Aesthetic Experience in Everyday Life: A Reply to Dowling,” *British Journal of Aesthetics*, 51: 437–442.
-* –––, 2013, “The Definition of Everyday Aesthetics,” *Contemporary Aesthetics*, 11, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=663)].
-* –––, 2014, “The Point of Everyday Aesthetics,” *Contemporary Aesthetics*, 12, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=700)].
-* Mikkonen, J., 2018, “Knowledge, Imagination, and Stories in the Aesthetic Experience of Forests,” *Estetika*, 55: 3–24.
-* Miller, M., 1993, *The Garden As Art*, Albany: SUNY Press.
-* Moore, R., 1999, “Appreciating Natural Beauty as Natural,” *Journal of Aesthetic Education*, 33: 42–59.
-* –––, 2006, “The Framing Paradox,” *Ethics, Place and Environment*, 9: 249–267.
-* –––, 2008, *Natural Beauty: A Theory of Aesthetics Beyond the Arts*, Peterborough: Broadview Press.
-* Muir, J., 1894, “A View of the High Sierra,” in *The Mountains of California*, New York: The Century Company.
-* Mullis, E. C., 2014, “Fitness for Function and Dance Aesthetics,” *Contemporary Aesthetics*, 12, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=693)].
-* Nannicelli, T., 2018, “The Interaction of Ethics and Aesthetics in Environmental Art,” *Journal of Aesthetics and Art Criticism*, 76: 497–506.
-* Nasar, J. L., (ed.), 1988, *Environmental Aesthetics: Theory, Research, and Applications*, Cambridge: Cambridge University Press.
-* Nassauer, J. I., 1997, “Cultural Sustainability: Aligning Aesthetics and Ecology,” in *Placing Nature: Culture and Landscape Ecology*, J. I. Nassauer (ed.), Washington, D.C.: Island Press.
-* Naukkarinen, O., 2013, “What is ‘Everyday’ in Everyday Aesthetics?” *Contemporary Aesthetics*, 11, [available online].
-* –––, 2017, “Everyday Aesthetics and Everyday Behavior,” *Contemporary Aesthetics*, 15, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=693)].
-* Nguyen, A. M., (ed.), 2018, *New Essays in Japanese Aesthetics*, Lanham, MD: Rowman and Littlefield.
-* Nicolson, M. H., 1959, *Mountain Gloom and Mountain Glory*, Ithaca: Cornell University Press.
-* Nomikos, A., 2018, “Place *Matters*,” *Journal of Aesthetics and Art Criticism*, 76: 453–462.
-* Odin, S., 2017, “Whitehead’s Perspectivism as a Basis for Environmental Ethics and Aesthetics: A Process View on the Japanese Concept of Nature,” in *Japanese Environmental Philosophy*, J. B. Callicott and J. McRae (ed.), Oxford: Oxford University Press
-* Orians, G. H. and Heerwagen J. H., 1986, “An Ecological and Evolutionary Approach to Landscape Aesthetics,” in *Landscape Meanings and Values*, E. C. Penning-Rowsell and D. Lowenthal (ed.), London: Allen and Unwin.
-* –––, 1992, “Evolved Responses to Landscapes,” in *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, J. Barkow, L. Cosmides, and J. Tooby (ed.), New York: Oxford University Press.
-* Paden, R., 2013. “A Defense of the Picturesque,” *Environmental Philosophy*, 10: 1–21.
-* –––, 2015a, “Nature, Disorder, and Tragedy: Towards an Evolutionary Aesthetic,” *Environmental Philosophy*, 12: 45–66.
-* –––, 2015b, “Picturesque Landscape Painting and Environmental Aesthetics,” *Journal of Aesthetic Education*, 49: 39–61.
-* –––, 2016, “Landscapes and Evolutionary Aesthetics,” *Environment, Space, Place*, 8: 33–55.
-* Paden, R., Harmon, L. K., and Milling, C. R., 2012, “Ecology, Evolution, and Aesthetics: Towards an Evolutionary Aesthetics of Nature,” *British Journal of Aesthetics*, 52: 124–139.
-* –––, 2013, “Philosophical Histories of the Aesthetics of Nature,” *Environmental Ethics*, 35: 57–77.
-* Paetzold, H., 2013, “The Aesthetics of City Strolling,” *Contemporary Aesthetics*, 11, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=666)].
-* –––, 2014, “Foucault’s Aesthetics of Existence and the Ethics of Authenticity,” in *Aesthetics of Everyday Life: East and West*, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
-* Parsons, G., 2002, “Nature Appreciation, Science, and Positive Aesthetics,” *British Journal of Aesthetics*, 42: 279–295.
-* –––, 2004, “Natural Functions and the Aesthetic Appreciation of Inorganic Nature,” *British Journal of Aesthetics*, 44: 44–56.
-* –––, 2006a, “Freedom and Objectivity in the Aesthetic Appreciation of Nature,” *British Journal of Aesthetics*, 46: 17–37.
-* –––, 2006b, “Theory, Observation, and the Role of Scientific Understanding in the Aesthetic Appreciation of Nature,” *Canadian Journal of Philosophy*, 36: 165–186.
-* –––, 2007, “The Aesthetic Value of Animals,” *Environmental Ethics*, 29: 151–169.
-* –––, 2008a, *Aesthetics and Nature*, London: Continuum Press.
-* –––, 2008b, “Nature, Aesthetic Values and Urban Design: Building the Natural City,” in *Philosophy and Design: From Engineering to Architecture*, P. Vermaas, P. Kroes, and A. Light (ed.), New York/Heidelberg: Springer.
-* –––, 2010, “Beauty and Public Policy,” *People and Places*, London: The Commission for Architecture and the Built Environment, [[available online](http://webarchive.nationalarchives.gov.uk/20110118095356/http:/www.cabe.org.uk/files/people-places-glenn-parsons.pdf)].
-* –––, 2011, “Fact and Function in Architectural Criticism,” *Journal of Aesthetics and Art Criticism*, 69: 21–30.
-* –––, 2015, “Why Should We Save Nature’s Hidden Gems?” *Journal of Applied Philosophy*, 32: 98–110.
-* –––, 2016, *The Philosophy of Design*, Cambridge: Polity Press.
-* –––, 2018, “Nature Aesthetics and the Respect Argument,” *Journal of Aesthetics and Art Criticism*, 76: 411–418.
-* ––– and Carlson, A., 2004, “New Formalism and the Aesthetic Appreciation of Nature,” *Journal of Aesthetics and Art Criticism*, 62: 363–376.
-* ––– and Carlson, A., 2008, *Functional Beauty*, Oxford: Oxford University Press.
-* ––– and Zhang, X., 2018, “Appreciating Nature and Art: Recent Western and Chinese Perspectives,” *Contemporary Aesthetics*, 16, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=693)].
-* Parsons, R. and Daniel T. C., 2002, “Good Looking: In Defense of Scenic Landscape Aesthetics,” *Landscape and Urban Planning*, 60: 43–56.
-* Phemister, P. and Strickland, L., 2015, “Leibniz’s Monadological Positive Aesthetics,” *British Journal for the History of Philosophy*, 23: 1214–1234.
-* Porteous, D. J., 1996, *Environmental Aesthetics: Ideas, Politics and Planning*, London: Routledge.
-* Prior, J. and Brady, E., 2017, “Environmental Aesthetics and Rewilding,” *Environmental Values*, 26: 31–51.
-* Puolakka, K., 2018, “On Habits and Functions in Everyday Aesthetics,” *Contemporary Aesthetics*, 16, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=693)].
-* Ravasio, M., 2018, “Food Landscapes: An Object-Centered Model of Food Appreciation,” *Monist*, 101: 309–323.
-* Robinson, K. W. and Elliott, K. C., 2011, “Environmental Aesthetics and Public Environmental Philosophy,” *Ethics, Policy and Environment*, 14: 175–191.
-* Rolston, H., 1988, *Environmental Ethics: Duties to and Values in the Natural World*, Philadelphia: Temple University Press.
-* –––, 1995, “Does Aesthetic Appreciation of Nature Need to be Science Based?” *British Journal of Aesthetics*, 35: 374–386.
-* –––, 1998, “Aesthetic Experience in Forests,” *Journal of Aesthetics and Art Criticism*, 56: 157–166.
-* –––, 2000, “Aesthetics in the Swamps,” *Perspectives in Biology and Medicine*, 43: 584–597.
-* –––, 2002, “From Beauty to Duty: Aesthetics of Nature and Environmental Ethics,” in *Environment and the Arts: Perspectives on Environmental Aesthetics*, A. Berleant, (ed.), Aldershot: Ashgate.
-* Ross, S., 1993, “Gardens, Earthworks, and Environmental Art,” in *Landscape, Natural Beauty and the Arts*, S. Kemal and I. Gaskell (ed.), Cambridge: Cambridge University Press.
-* –––, 1998, *What Gardens Mean*, Chicago: University of Chicago Press.
-* –––, 2005, “Landscape Perception: Theory-Laden, Emotionally Resonant, Politically Correct,” *Environmental Ethics*, 27: 245–263.
-* Saarinen, T. F., Seamon, D., and Sell, J. L., (ed.), 1984, *Environmental Perception and Behavior: An Inventory and Prospect*, Chicago: Department of Geography, University of Chicago.
-* Sagoff, M., 1974, “On Preserving the Natural Environment,” *Yale Law Journal*, 84: 205–267.
-* Saito, Y., 1985, “The Japanese Appreciation of Nature,” *British Journal of Aesthetics*, 25: 239–251.
-* –––, 1992, “The Japanese Love of Nature: a Paradox,” *Landscape*, 31: 1–8.
-* –––, 1996, “Japanese Gardens: the Art of Improving Nature,” *Chanoyu Quarterly*, 83: 40–61.
-* –––, 1998a, “The Aesthetics of Unscenic Nature,” *Journal of Aesthetics and Art Criticism*, 56: 101–111.
-* –––, 1998b, “Appreciating Nature on its Own Terms,” *Environmental Ethics*, 20: 135–149.
-* –––, 2001, “Everyday Aesthetics,” *Philosophy and Literature*, 25: 87–95.
-* –––, 2002, “Scenic National Landscapes: Common Themes in Japan and the United States,” *Essays in Philosophy*, 3 [available online].
-* –––, 2004, “Machines in the Ocean: The Aesthetics of Wind Farms,” *Contemporary Aesthetics*, 2, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=247)].
-* –––, 2007, “The Role of Aesthetics in Civic Environmentalism,” in *The Aesthetics of Human Environments*, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
-* –––, 2008, *Everyday Aesthetics*, Oxford: Oxford University Press.
-* –––, 2010, “Future Directions for Environmental Aesthetics,” *Environmental Values*, 19: 373–391.
-* –––, 2012, “Everyday Aesthetics and Artification,” *Contemporary Aesthetics*, 4 [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=640)].
-* –––, 2014a, “Everyday Aesthetics in the Japanese Tradition,” in *Aesthetics of Everyday Life: East and West*, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
-* –––, 2014b, “Future Directions for Environmental Aesthetics,” in *Environmental Aesthetics: Crossing Divides and Breaking Ground*, M. Drenthen and J. Keulartz, (ed.), New York: Fordham University Press.
-* –––, 2016, “Body Aesthetics and the Cultivation of Moral Virtues,” in *Body Aesthetics*, S. Irvin (ed.), Oxford: Oxford University Press.
-* –––, 2017a, *Aesthetics of the Familiar: Everyday Life and World-Making*, Oxford: Oxford University Press.
-* –––, 2017b, “The Role of Imperfection in Everyday Aesthetics,” *Contemporary Aesthetics*, 15, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=640)].
-* –––, 2018, “Consumer Aesthetics and Environmental Ethics: Problems and Possibilities,” *Journal of Aesthetics and Art Criticism*, 76: 429–439.
-* Sandrisser, B., 2007, “Cultivating Commonplaces: Sophisticated Vernacularism in Japan,” in *The Aesthetics of Human Environments*, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
-* Seel, M., 2015, “Landscapes of Human Experience,” *Contemporary Aesthetics*, 13, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=348)].
-* Semczyszyn, N., 2013, “Public Aquariums and Marine Aesthetics,” *Contemporary Aesthetics*, 11, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=668)].
-* Sepänmaa, Y., 1993, *The Beauty of Environment: A General Model for Environmental Aesthetics*, Second Edition, Denton: Environmental Ethics Books.
-* –––, 2004, “Environmental Stories: Speaking and Writing Nature,” in *The Aesthetics of Natural Environments*, A. Carlson and A. Berleant (ed.), Peterborough: Broadview Press.
-* –––, 2005, “The Aesthetics of the Road, Road Art, and Road Traffic,” *Contemporary Aesthetics*, 1, [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=348)].
-* –––, 2007, “Multi-sensoriness and the City,” in *The Aesthetics of Human Environments*, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
-* –––, 2010, “From Theoretical to Applied Environmental Aesthetics: Academic Aesthetics Meets Real-World Demands,” *Environmental Values*, 19: 393–405.
-* ––– and Heikkilä-Palo, L., (ed.), 2005, *Pellossa perihopeat* (Fields–The Family Silver), Helsinki: Maahenki Oy.
-* –––, Heikkilä-Palo, L., and Kaukio, V., (ed.), 2007, *Maiseman kanssa kasvokkain* (Face to Face with the Landscape), Helsinki: Maahenki Oy.
-* Shapshay, S. 2013, “Contemporary Environmental Aesthetics and the Neglect of the Sublime,” *British Journal of Aesthetics*, 53: 181–198.
-* ––– and Tenen, L., (ed.), 2018a, *The Good, the Beautiful, the Green: Environmentalism and Aesthetics*, Special issue of *Journal of Aesthetics and Art Criticism*, 76, 4.
-* –––and Tenen, L, 2018b, “Introduction to *The Good, the Beautiful, the Green: Environmentalism and Aesthetics*,” *Journal of Aesthetics and Art Criticism*, 76: 391–397.
-* Sheppard, S. and Harshaw, H., (ed.), 2001, *Forests and Landscapes: Linking Ecology, Sustainability and Aesthetics*, New York: CAB International Publishers.
-* Simus, J. B., 2008a, “Aesthetic Implications of the New Paradigm in Ecology,” *Journal of Aesthetic Education*, 42: 63–79.
-* –––, 2008b, “Environmental Art and Ecological Citizenship,” *Environmental Ethics*, 30: 21–36.
-* Sparshott, F., 1972, “Figuring the Ground: Notes on some Theoretical Problems of the Aesthetic Environment,” *Journal of Aesthetic Education*, 6: 11–23.
-* Stecker, R., 1997, “The Correct and the Appropriate in the Appreciation of Nature,” *British Journal of Aesthetics*, 37: 393–402.
-* –––, 1999, “Reflections on Architecture: Buildings as Artworks, Aesthetic Objects, and Artificial Environments,” in *Architecture and Civilization*, M. Mitias (ed.), Amsterdam: Rodopi.
-* –––, 2012, “Epistemic Norms, Moral Norms, and Nature Appreciation,” *Environmental Ethics*, 34: 247–264.
-* Stewart, D. C. and Johnson, T. N., 2018, “Complicating Aesthetic Environmentalism: Four Criticisms of Aesthetic Motivations for Environmental Action,” *Journal of Aesthetics and Art Criticism*, 76: 441–451.
-* Stolnitz, J., 1961, “Of the Origins of ‘Aesthetic Disinterestedness’,” *Journal of Aesthetics and Art Criticism*, 20: 131–143.
-* Svabo, C. and Ekelund, K, 2015, “Environmental Aesthetics: Notes for Design Ecology,” *Nordes 2015: Design Ecologies*, 6: 1–9.
-* Sweeney, K., 2017, *The Aesthetics of Food: The Philosophical Debate About What We Eat and Drink*, Lanham, MD: Rowman and Littlefield.
-* Tafalla, M., 2010, “From Allen Carlson to Richard Long: The Art-Based Appreciation of Nature,” *Proceedings of the European Society for Aesthetics*, 2: 491–515.
-* –––2011, “Rehabilitating the Aesthetics of Nature: Hepburn and Adorno,” *Environmental Ethics*, 33: 45–56.
-* –––2017, “The Aesthetic Appreciation of Animals in Zoological Parks,” Contemporary Aesthetics, 15 [[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=325)].
-* Thompson, C. W. and Tarvlou, P., 2009, *A Critical Review of Research in Landscape and Woodland Perceptions, Aesthetics, Affordances and Experience* (A Report for the Forestry Commission), Edinburgh: Edinburgh College of Art, OPENspace: The Research Centre for Inclusive Access to Outdoor Environments.
-* Thompson, J., 1995, “Aesthetics and the Value of Nature,” *Environmental Ethics*, 17: 291–305.
-* Toadvine, T., 2010, “Ecological Aesthetics,” in *Handbook of Phenomenological Aesthetics*, H. R. Sepp and L. Embree (ed.), New York/Heidelberg: Springer.
-* van Etteger, R., Thompson, I. H., and Vicenzotti, V., 2016, “Aesthetic Creation Theory and Landscape Architecture,” *Journal of Landscape Architecture*, 11: 80–89.
-* Varandas, M. J., 2015, “The Land Aesthetic, Holmes Rolston’s Insight,” *Environmental Values*, 24: 209–226.
-* Vogel, S., 2015, *Thinking like a Mall: Environmental Philosophy after the End of Nature*, Cambridge: MIT Press.
-* von Bonsdorff, P., 2002, “Urban Richness and the Art of Building,” in *Environment and the Arts: Perspectives on Environmental Aesthetics*, A Berleant (ed.), Aldershot: Ashgate.
-* –––, 2005, “Agriculture, Aesthetic Appreciation and the Worlds of Nature,” *Contemporary Aesthetics*, 3, [available online].
-* ––– and Haapala, A., (ed.), 1999, *Aesthetics in the Human Environment*, Lahti: International Institute of Applied Aesthetics.
-* Walton, K., 1970, “Categories of Art,” *Philosophical Review*, 79: 334–367.
-* Wattles, J., 2013, “John Muir as a Guide to Education in Environmental Aesthetics,” *Journal of Aesthetic Education*, 47: 56–71.
-* Welchman, J., 2018, “Aesthetics of Nature, Constitutive Goods, and Environmental Conservation: A Defense of Moderate Formalist Aesthetics,” *Journal of Aesthetics and Art Criticism*, 76: 419–428
-* Welsch, W., 2005, “Sport Viewed Aesthetically, or Even as Art,” in *The Aesthetics of Everyday Life*, A. Light and J. M. Smith (ed.), New York: Columbia University Press.
-* Xue, F., 2008, “The Universal Significance of China Natural Aesthetic Tradition,” *Nankai Journal* (Humanities and Social Science Edition), 2: 88–96.
-* –––, 2018, “Two Types of a Doctrine of Objectivity in the Aesthetic Appreciation of Nature,” *Contemporary Aesthetics*, Special Volume 6, [[available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol0/iss6/2/)].
-* ––– and Carlson, A., 2010, “Scientific Understanding of Environmental Aesthetics in Perspective,” in *Aesthetics International*–*Contemporary International Aestheticians Interviews*, L. Yuedi (ed.), Beijing: China Social Sciences Press.
-* Yuedi, L., 2014, “‘Living Aesthetics’ from the Perspective of the Intercultural Turn,” in *Aesthetics of Everyday Life: East and West*, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
-* ––– and Carter, C. L., (ed.), 2014a, *Aesthetics of Everyday Life: East and West*, Newcastle upon Tyne: Cambridge Scholars Publishing.
-* ––– and Carter, C. L., 2014b, “Introduction,” in *Aesthetics of Everyday Life: East and West*, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
-* Zangwill, N., 2001, “Formal Natural Beauty,” *Proceedings of the Aristotelian Society*, 101: 209–224.
-* –––, 2013, “Clouds of Illusion in the Aesthetics of Nature,” *Philosophical Quarterly*, 63: 576–596.
-* Zeng, F., 2017 “Ecological Aesthetics: A New Aesthetic Conception of Ecological Existence in the Post-modern Context,” L. Huang (trans.) *Critical Theory*, 1, 2: 8–31.
-* Zeng, Y., 2017, “The Human-oriented Ecological view and its Aesthetics as the ‘Self-Consciousness of Nature’,” *Critical Theory*, 1, 2: 43–58.
-* Ziff, P., 1979, “Anything Viewed,” in *Essays in Honour of Jaakko Hintikka On the Occasion of His Fiftieth Birthday on January 12, 1979*, E. Saarinen, R. Hilpinen, I. Niiniluoto, and M. Hintikka (ed.), Dordrecht: Reidel.
-* Zube, E. H., 1984, “Themes in Landscape Assessment Theory,” *Landscape Journal*, 3: 104–110.
+* Alvarez, A. L., (ed.), 2017, _Aesthetics between Art and Society: Perspectives of Arnold Berleant’s Postkantian Aesthetics of Engagement_, _Espes_, 6, 2.
+* Andrews, M., 1989, _The Search for the Picturesque_, Stanford: Stanford University Press.
+* –––, 2007, “The View from the Road and the Picturesque,” in _The Aesthetics of Human Environments_, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
+* Aota, M. 2016, “On the Differences between Categories of Artworks and Nature,” _Postgraduate Journal of Aesthetics_, 12: 19–30.
+* Appleton, J., 1975a, _The Experience of Landscape_, London: John Wiley and Sons.
+* –––, 1975b, “Landscape Evaluation: The Theoretical Vacuum,” _Transactions of the Institute of British Geographers_, 66: 120–123.
+* –––, 1982, “Pleasure and the Perception of Habitat: A Conceptual Framework,” in _Environmental Aesthetics: Essays in Interpretation_, B. Sadler and A. Carlson (ed.), Victoria: University of Victoria.
+* Arntzen, S. and Brady E., (ed.), 2008, _Humans in the Land: The Ethics and Aesthetics of the Cultural Landscape_, Oslo: Oslo Academic Press.
+* Bannon, B. E., 2011, “Re-Envisioning Nature: The Role of Aesthetics in Environmental Ethics,” _Environmental Ethics_, 33: 415–436.
+* Bartalesi, L. and Portera M., 2015, “Beyond the Nature-Culture Dichotomy: A Proposal for Evolutionary Aesthetics,” _Aisthesis_, 8: 101–111.
+* Beardsley, M. C., 1958, _Aesthetics: Problems in the Philosophy of Criticism_, New York: Harcourt, Brace & World.
+* Bell, S., 1999, _Landscape: Pattern, Perception and Process_, London: Routledge.
+* Benovsky, J., 2016, “Aesthetic Appreciation of Landscapes,” _Journal of Value Inquiry_, 50: 325–340.
+* Benson, J., 2008, “Aesthetic and Other Values in the Rural Landscape,” _Environmental Values_, 17: 221–238.
+* Berleant, A. 1978, “Aesthetic Paradigms for an Urban Ecology,” _Diogenes_, 103: l–28.
+* –––, 1984, “Aesthetic Participation and the Urban Environment,” _Urban Resources_, 1: 37–42.
+* –––, 1985, “Toward a Phenomenological Aesthetics of Environment,” in _Descriptions_, H. Silverman and D. Idhe (ed.), Albany: SUNY Press.
+* –––, 1986, “Cultivating an Urban Aesthetic,” _Diogenes_, 136: 1–18.
+* –––, 1988, “Environment as an Aesthetic Paradigm,” _Dialectics and Humanism_, 15: 95–106.
+* –––, 1991, _Art and Engagement_, Philadelphia: Temple University Press.
+* –––, 1992, _The Aesthetics of Environment_, Philadelphia: Temple University Press.
+* –––, 1997, _Living in the Landscape: Toward an Aesthetics of Environment_, Lawrence: University Press of Kansas.
+* –––, 2004, _Re-thinking Aesthetics: Rogue Essays on Aesthetics and the Arts_, Aldershot: Ashgate.
+* –––, 2005, _Aesthetics and Environment: Variations on a Theme_, Aldershot: Ashgate.
+* –––, 2010a, “Reconsidering Scenic Beauty,” _Environmental Values_, 19: 335–350.
+* –––, 2010b, _Sensibility and Sense: The Aesthetic Transformation of the Human World_, Exeter: Imprint Academic.
+* –––, 2012, _Aesthetics Beyond the Arts: New and Recent Essays_, Aldershot: Ashgate.
+* –––, 2013a, “Ideas for an Ecological Aesthetics,” in _Ecological Aesthetics and Ecological Assessment and Planning_, X. Cheng, A., Berleant, P. Gobster, and X. Wang (ed.), Zhengzhou: Henan People’s Press.
+* –––, 2013b, “What is Aesthetic Engagement?” _Contemporary Aesthetics_, 11, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=684)].
+* –––, 2016, “Some Questions for Ecological Aesthetics,” _Environmental Philosophy_, 13: 123–135
+* ––– and Carlson, A., (ed.), 2007, _The Aesthetics of Human Environments_, Peterborough: Broadview Press.
+* Biese, A., 1905, _The Development of the Feeling for Nature in the Middle Ages and Modern Times_, New York: Burt Franklin.
+* Blanc, N., 2012, “From Environmental Aesthetics to Narratives of Change,” _Contemporary Aesthetics_, 10, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=655)].
+* –––, 2013, “Aesthetic Engagement in the City,” _Contemporary Aesthetics_, 11, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=683)].
+* Bourassa, S. C., 1991, _The Aesthetics of Landscape_, London: Belhaven.
+* Brady, E., 1998, “Imagination and the Aesthetic Appreciation of Nature,” _Journal of Aesthetics and Art Criticism_, 56: 139–147.
+* –––, 2003, _Aesthetics of the Natural Environment_, Edinburgh: Edinburgh University Press.
+* –––, 2006, “The Aesthetics of Agricultural Landscapes and the Relationship between Humans and Nature,” _Ethics, Place and Environment_, 9: 1–19.
+* –––, 2007, “Aesthetic Regard for Nature in Environmental and Land Art,” _Ethics, Place and Environment_, 10: 287–300.
+* –––, 2012, “Reassessing Aesthetic Appreciation of Nature in the Kantian Sublime,” _Journal of Aesthetic Education_, 46: 91–109.
+* –––, 2013, _The Sublime in Modern Philosophy: Aesthetics, Ethics, and Nature_, Cambridge: Cambridge University Press.
+* –––, 2014a, “Aesthetic Value and Wild Animals,” in _Environmental Aesthetics: Crossing Divides and Breaking Ground_, M. Drenthen and J. Keulartz, (ed.), New York: Fordham University Press.
+* –––, 2014b, “Aesthetic Value, Ethics, and Climate Change,” _Environmental Values_, 23: 551–570.
+* –––, 2018, “John Muir’s Environmental Aesthetics: Interweaving the Aesthetic, Religious, and Scientific,” _Journal of Aesthetics and Art Criticism_, 76: 463–472.
+* –––, Brook, I., and Prior, J., 2018, _Between Nature and Culture: The Aesthetics of Modified Environments_, Lanham, MD: Rowman and Littlefield.
+* Brook, I., 2007, “Aesthetic Aspects of Unauthorised Environmental Interventions,” _Ethics, Place and Environment_, 10: 307–318.
+* –––, 2008, “Wilderness in the English Garden Tradition: A Reassessment of the Picturesque from Environmental Philosophy,” _Ethics and the Environment_, 13: 105–119.
+* –––, 2010, “Ronald Hepburn and the Humanising of Environmental Aesthetics,” _Environmental Values_, 19: 265–271.
+* –––, 2013, “Aesthetic Appreciation of Landscape,” in _Routledge Companion to Landscape Studies_, 2nd Edition, P. Howard, I. Thompson, E. Waterton, and M. Atha, (ed.), London: Routledge.
+* Brottman, M., 2007, “The Last Stop of Desire: The Aesthetics of the Shopping Center,” in _The Aesthetics of Human Environments_, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
+* Brubaker, D. A., 2018, “The Private Character of Natural Beauty: Shanshui Painting as a Model for Unity of Self and Natural Environment,”_Contemporary Aesthetics_, Special Volume 6, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=655)].
+* Budd, M., 2002, _The Aesthetic Appreciation of Nature_, Oxford: Oxford University Press.
+* Callicott, J. B., 1994, “The Land Aesthetic,” in _Ecological Prospects: Scientific, Religious, and Aesthetic Perspectives_, C. K. Chapple (ed.), Albany: SUNY Press.
+* –––, 2003, “Wetland Gloom and Wetland Glory,” _Philosophy and Geography_, 6: 33–45.
+* ––– and McRae, J., (ed.), 2017 _Japanese Environmental Philosophy_, Oxford: Oxford University Press.
+* Carlson, A., 1976, “Environmental Aesthetics and the Dilemma of Aesthetic Education,” _Journal of Aesthetic Education_, 10: 69–82.
+* –––, 1977, “On the Possibility of Quantifying Scenic Beauty,” _Landscape Planning_, 4: 131–172.
+* –––, 1979, “Appreciation and the Natural Environment,” _Journal of Aesthetics and Art Criticism_, 37: 267–276.
+* –––, 1981, “Nature, Aesthetic Judgment, and Objectivity,” _Journal of Aesthetics and Art Criticism_, 40: 15–27.
+* –––, 1984, “Nature and Positive Aesthetics,” _Environmental Ethics_, 6: 5–34.
+* –––, 1985, “On Appreciating Agricultural Landscapes,” _Journal of Aesthetics and Art Criticism_, 43: 301–312.
+* –––, 1986, “Is Environmental Art an Aesthetic Affront to Nature?” _Canadian Journal of Philosophy_, 16: 635–650.
+* –––, 1997, “On the Aesthetic Appreciation of Japanese Gardens,” _British Journal of Aesthetics_, 37: 47–56.
+* –––, 2000, _Aesthetics and the Environment: The Appreciation of Nature, Art and Architecture_, London: Routledge.
+* –––, 2001, “On Aesthetically Appreciating Human Environments,” _Philosophy and Geography_, 4: 9–24.
+* –––, 2007, “The Requirements for an Adequate Aesthetics of Nature,” _Environmental Philosophy_, 4: 1–12.
+* –––, 2009, _Nature and Landscape: An Introduction to Environmental Aesthetics_, New York: Columbia University Press.
+* –––, 2010, “Contemporary Environmental Aesthetics and the Requirements of Environmentalism,” _Environmental Values_, 19: 289–314.
+* –––, 2014a, “The Dilemma of Everyday Aesthetics,” in _Aesthetics of Everyday Life: East and West_, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
+* –––, 2014b, “Ten Steps in the Development of Western Environmental Aesthetics,” in _Environmental Aesthetics: Crossing Divides and Breaking Ground_, M. Drenthen and J. Keulartz, (ed.), New York: Fordham University Press.
+* –––, 2017, “The Relationship between Eastern Ecoaesthetics and Western Environmental Aesthetics,” _Philosophy East and West_, 67: 117–139.
+* –––, 2018, “Environmental Aesthetics, Ethics, and Ecoaesthetics,” _Journal of Aesthetics and Art Criticism_, 76: 399–410.
+* ––– and Berleant, A., (ed.), 2004, _The Aesthetics of Natural Environments_, Peterborough: Broadview Press.
+* ––– and Lintott, S., (ed.), 2007, _Nature, Aesthetics, and Environmentalism: From Beauty to Duty_, New York: Columbia University Press.
+* Carroll, N., 1993, “On Being Moved By Nature: Between Religion and Natural History,” in _Landscape, Natural Beauty and the Arts_, S. Kemal and I. Gaskell (ed.), Cambridge: Cambridge University Press.
+* Cats-Baril, W. L. and Gibson, L., 1986, “Evaluating Aesthetics: The Major Issues and a Bibliography,” _Landscape Journal_, 5: 93–102.
+* Chen, W., 2015, _Chinese Environmental Aesthetics_, F. Su (trans.), G. Cipriani (ed.), London: Routledge.
+* Cheng, X., 2010, “Ecoaesthetics and Ecocriticism,” _ISLE: Interdisciplinary Studies in Literature and Environment_ 17: 785–789.
+* –––, 2013a, “Aesthetic Engagement, Ecosophy C, and Ecological Appreciation,” _Contemporary Aesthetics_, 11, \[[available online](https://contempaesthetics.org/newvolume/pages/article.php?articleID=680)].
+* –––, 2013b, “Environmental Aesthetics and Ecological Aesthetics: Connections and Differences,” in _Ecological Aesthetics and Ecological Assessment and Planning_, X. Cheng, A., Berleant, P. Gobster, and X. Wang (ed.), Zhengzhou: Henan People’s Press.
+* –––, 2013c, “On the Four Keystones of Ecological Aesthetic Appreciation,” in _East Asian Ecocriticisms: A Critical Reader_, S. C. Estok and W. Kim (ed.), New York: Palgrave Macmillan.
+* –––, 2016, “Ecosophy and Ecoaesthetics: A Chinese Perspective,” in _Handbook of_ _Ecocriticism and Cultural Ecology_, H. Zapf, (ed.), Berlin: de Gruyter.
+* –––, 2017a, “A Reflection on the Hazy Weather from the perspective of Ecoaesthetics,” R. Guo (trans.), _Critical Theory_, 1, 2: 91–108.
+* –––, 2017b, “Introduction: Special Issue on Chinese Ecoaesthetics,” _Critical Theory_, 1, 2: 5–7.
+* –––, Berleant, A., Gobster, P., and Wang, X., 2013, _Ecological Aesthetics and Ecological Assessment and Planning_, Zhengzhou: Henan People’s Press.
+* Chung, J., 2018, “Moral Cultivation: Japanese Gardens, Personal Ideals, and Ecological Citizenship,” _Journal of Aesthetics and Art Criticism_, 76: 507–518.
+* Conron, J., 2000, _American Picturesque_, University Park: Pennsylvania State University Press.
+* Cooper, D., 2006, _A Philosophy of Gardens_, Oxford: Oxford University Press.
+* Crawford, D., 1983, “Nature and Art: Some Dialectical Relationships,” _Journal of Aesthetics and Art Criticism_, 62: 49–58.
+* –––, 2004, “Scenery and the Aesthetics of Nature,” in _The Aesthetics of Natural Environments_, A. Carlson and A. Berleant (ed.), Peterborough: Broadview Press.
+* Cross, A., 2018, “The Animal Is Present: The Ethics of Animal Use in Contemporary Art,” _Journal of Aesthetics and Art Criticism_, 76: 519–528.
+* Daniel, T. C., 2001, “Whither Scenic Beauty? Visual Landscape Quality Assessment in the 21st Century,” _Landscape and Urban Planning_, 54: 276–281.
+* Davies, D., 2015, “Sibley and the Limits of Everyday Aesthetics,” _Journal of Aesthetic Education_, 49: 50–65.
+* Davies, S., 2012, _The Artful Species: Aesthetics, Art, and Evolution_, Oxford: Oxford University Press.
+* –––, 2014, “The Aesthetics of Adornments,” in _Aesthetics of Everyday Life: East and West_, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
+* Diaconu, M., 2015, “Longing for Clouds–––Does Beautiful Weather Have To Be Fine?” _Contemporary Aesthetics_, 13, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=654)].
+* Dickie, G., 1974, _Art and the Aesthetic: An Institutional Analysis_, Ithaca: Cornell University Press.
+* Dowling, C., 2010, “The Aesthetics of Daily Life,” _British Journal of Aesthetics_, 50: 225–242.
+* Drenthen, M. and Keulartz, J., (ed.), 2014, _Environmental Aesthetics: Crossing Divides and Breaking Ground_, New York: Fordham University Press.
+* Earle, R., 2015, “Is Natural Beauty the Given?” _Environmental Ethics_, 37: 3–19.
+* Eaton, M. M., 1997, “The Beauty that Requires Health,” in _Placing Nature: Culture and Landscape Ecology_, J. I. Nassauer (ed.), Washington, D.C.: Island Press.
+* –––, 1998, “Fact and Fiction in the Aesthetic Appreciation of Nature,” _Journal of Aesthetics and Art Criticism_, 56: 149–156.
+* Edgar, A., 2013, “The Aesthetics of Sport,” _Sport, Ethics and Philosophy_, 7: 80–99.
+* Erzen, J. and Milani, R., (ed.), 2013, _Nature and the City: Beauty is Taking on a New Form_ (International Yearbook of Aesthetics, 7), Sassari: Edzione Edes.
+* Firth, D., 2008, “The Role of Aesthetic Considerations in a Narrative Based Approach to Nature Conservation,” _Ethics and the Environment_, 13: 77–100.
+* Fisher, J. A., 1998, “What the Hills Are Alive With: In Defense of the Sounds of Nature,” _Journal of Aesthetics and Art Criticism_, 56: 167–179.
+* –––, 2007, “Performing Nature,” _Environmental Philosophy_, 4: 15–28.
+* Forsey, J., 2013, _The Aesthetics of Design_, Oxford: Oxford University Press.
+* Foster, C., 1998, “The Narrative and the Ambient in Environmental Aesthetics,” _Journal of Aesthetics and Art Criticism_, 56: 127–137.
+* Frydryczak, B., 2015, “Is the City a Cultural Landscape? An Attempt to Analyze the City From the Perspective of Landscape Aesthetics,” _Argument: Biannual Philosophical Journal_, 5: 359–372.
+* Fudge, R., 2001, “Imagination and the Science-based Aesthetic Appreciation of Unscenic Nature,” _Journal of Aesthetics and Art Criticism_, 59: 275–285.
+* Gobster, P. H., 1995, “Aldo Leopold’s Ecological Esthetic: Integrating Esthetic and Biodiversity Values,” _Journal of Forestry_, 93: 6–10.
+* –––, 2008, “Yellowstone Hotspot: Reflections on Scenic Beauty, Ecology, and the Aesthetic Experience of Landscape,” _Landscape Journal_, 27: 291–308.
+* –––, 2013, “Ecological Aesthetics and Landscape Perception and Assessment,” in _Ecological Aesthetics and Ecological Assessment and Planning_, X. Cheng, A., Berleant, P. Gobster, and X. Wang (ed.), Zhengzhou: Henan People’s Press.
+* –––, Nassauer, J. I., Daniel, T. C., and Fry, G., 2007, “The Shared Landscape: What does Aesthetics have to do with Ecology?” _Landscape Ecology_, 22: 959–972.
+* Godlovitch, S., 1994, “Icebreakers: Environmentalism and Natural Aesthetics,” _Journal of Applied Philosophy_, 11: 15–30.
+* –––, 1998a, “Evaluating Nature Aesthetically,” _Journal of Aesthetics and Art Criticism_, 56: 113–125.
+* –––, 1998b, “Valuing Nature and the Autonomy of Natural Aesthetics,” _British Journal of Aesthetics_, 38: 180–197.
+* Haapala, A., (ed.), 1998, _The City as Cultural Metaphor: Studies in Urban Aesthetics_, Lahti: International Institute of Applied Aesthetics.
+* –––, 2005, “On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place,” in _The Aesthetics of Everyday Life_, A. Light and J. M. Smith (ed.), New York: Columbia University Press.
+* Hargrove, E. C., 1979, “The Historical Foundations of American Environmental Attitudes,” _Environmental Ethics_, 1: 209–240.
+* –––, 1989, _Foundations of Environmental Ethics_, Englewood Cliffs: Prentice Hall.
+* Hepburn, R. W., 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty,” in _British Analytical Philosophy_, B. Williams and A. Montefiore (ed.), London: Routledge and Kegan Paul.
+* –––, 1993, “Trivial and Serious in Aesthetic Appreciation of Nature,” in _Landscape, Natural Beauty and the Arts_, S. Kemal and I. Gaskell (ed.), Cambridge: Cambridge University Press.
+* –––, 1996, “Landscape and the Metaphysical Imagination,” _Environmental Values_, 5: 191–204.
+* Herguedas, F. A., 2018, “Are Poplar Plantations Really Beautiful? On Allen Carlson’s Aesthetics of Agricultural Landscapes and Environmentalism,” _Environmental Values_, 27: 159–178.
+* Herrington, S., 2009, _On Landscapes_, London: Routledge.
+* Hettinger, N., 2005, “Carlson’s Environmental Aesthetics and the Protection of the Environment,” _Environmental Ethics_, 27: 57–76.
+* –––, 2007, “Objectivity in Environmental Aesthetics and Protection of the Environment,” in _Nature, Aesthetics, and Environmentalism: From Beauty to Duty_, A. Carlson and S. Lintott (ed.), New York: Columbia University Press.
+* –––, 2010, “Animal Beauty, Ethics, and Environmental Preservation,” _Environmental Ethics_, 32: 115–134.
+* –––, 2017, “Evaluating Positive Aesthetics,” _Journal of Aesthetic Education_, 51: 26–41.
+* Heyd, T., 2001, “Aesthetic Appreciation and the Many Stories about Nature,” _British Journal of Aesthetics_, 41: 125–137.
+* –––, 2002, “Nature Restoration without Dissimulation: Learning from Japanese Gardens and Earthworks,” _Essays in Philosophy_, 2 \[available online].
+* Higgins, K. M., 2017, “Global Aesthetics—What Can We Do?” _Journal of Aesthetics and Art Criticism_, 75: 339–349.
+* Hill, D. and Daniel, T. C., 2008, “Foundations for an Ecological Aesthetic: Can Information Alter Landscape Preferences?” _Society and Natural Resources_, 21: 34–49.
+* Irvin, S., 2008a, “The Pervasiveness of the Aesthetic in Everyday Experience,” _British Journal of Aesthetics_, 48: 486–500.
+* –––, 2008b, “Scratching an Itch,” _Journal of Aesthetics and Art Criticism_, 66: 25–35.
+* –––, 2016a, (ed.), _Body Aesthetics_, Oxford: Oxford University Press.
+* –––, 2016b, “Why Body Aesthetics?” in _Body Aesthetics_, S. Irvin (ed.), Oxford: Oxford University Press.
+* Jamieson, D., 2018, “Loving Nature,” _Journal of Aesthetics and Art Criticism_, 76: 485–495.
+* Jóhannesdóttir, G. R., 2016, “Phenomenological Aesthetics of Landscape and Beauty,” in _Nature and Experience: Phenomenology and the Environment_, B. E. Bannon (ed.), Lanham, MD: Rowman and Littlefield.
+* Kaplan, R. and Kaplan, S., 1989, _The Experience of Nature: A Psychological Perspective_, Cambridge: Cambridge University Press.
+* Kemal, S. and Gaskell, I., (ed.), 1993, _Landscape, Natural Beauty and the Arts_, Cambridge: Cambridge University Press.
+* Koh, J., 1988, “An Ecological Aesthetic,” _Landscape Journal_, 7: 177–191.
+* Korsmeyer, C., 1999, _Making Sense of Taste: Food and Philosophy_, Ithaca: Cornell University Press.
+* Kover, T. R., 2014, “Are the Oil Sands Sublime? Edward Burtynsky and the Vicissitudes of the Sublime,” in _Found in Alberta: Environmental Themes for the Anthropocene_, R. Boschman and M. Trono (ed.), Waterloo: Wilfrid Laurier University Press.
+* Leddy, T., 1995, “Everyday Surface Qualities: ‘Neat’, ‘Messy’, ‘Clean’, ‘Dirty’,” _Journal of Aesthetics and Art Criticism_, 53: 259–268.
+* –––, 2005a, “A Defense of Arts-Based Appreciation of Nature,” _Environmental Ethics_, 27: 299–315.
+* –––, 2005b, “The Nature of Everyday Aesthetics,” in _The Aesthetics of Everyday Life_, A. Light and J. M. Smith (ed.), New York: Columbia University Press.
+* –––, 2008, “The Aesthetics of Junkyards and Roadside Clutter,” _Contemporary Aesthetics_, 6, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=511)].
+* –––, 2012a, “Defending Everyday Aesthetics and the Concept of ‘Pretty’,” _Contemporary Aesthetics_, 10, \[available online].
+* –––, 2012b, _The Extraordinary in the Ordinary: The Aesthetics of Everyday Life_, Peterborough: Broadview.
+* –––, 2014, “Everyday Aesthetics and Happiness,” in _Aesthetics of Everyday Life: East and West_, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
+* –––, 2015, “Experience of Awe: An Expansive Approach to Everyday Aesthetics,” _Contemporary Aesthetics_, 13, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=654)].
+* Lee, J. J., 2010, “Home Life: Cultivating a Domestic Aesthetic,” _Contemporary Aesthetics_, 8, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=587)].
+* Lee, W. L., 2006, “On Ecology and Aesthetic Experience: A Feminist Theory of Value and Praxis,” _Ethics and the Environment_, 11: 21–41.
+* Li, Z. and Cauvel, J., 2006, _Four Essays on Aesthetics: Toward a Global Perspective_, Lanham, MD: Rowman and Littlefield.
+* Light, A. and Smith, J. M., (ed.), 2005, _The Aesthetics of Everyday Life_, New York: Columbia University Press.
+* Lintott, S., 2006, “Toward Eco-Friendly Aesthetics,” _Environmental Ethics_, 28: 57–76.
+* –––, 2007, “Ethically Evaluating Land Art: Is It Worth It?” _Ethics, Place and Environment_, 10: 263–277.
+* –––, 2010, “Feminist Aesthetics and the Neglect of Natural Beauty,” _Environmental Values_, 19: 315–333.
+* ––– and Carlson, A., 2014, “The Link between Aesthetic Appreciation and the Preservation Imperative,” in _Linking Ecology and Ethics for a Changing World: Values, Philosophy, and Action_, R. Rozzi, S. T. A. Pickett, C. Palmer, J. J. Armesto, and J. B. Callicott, (ed.), New York/Heidelberg: Springer.
+* –––and Irvin, S., 2016, “Sex Objects and Sexy Subjects: A Feminist Reclamation of Sexiness,” in _Body Aesthetics_, S. Irvin (ed.), Oxford: Oxford University Press.
+* Loftis, R. J., 2003, “Three Problems for the Aesthetic Foundations of Environmental Ethics,” _Philosophy in the Contemporary World_, 10: 41–50.
+* Macauley, D., 2007, “Walking the City,” in _The Aesthetics of Human Environments_, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
+* Mahoney, B., 2016, “Engaging the Sublime without Distance: Environmental Ethics and Aesthetic Experience,” _Environmental Ethics_, 38:463–481.
+* Mandoki, K., 2007, _Everyday Aesthetics: Prosaics, the Play of Culture and Social Identities_, Aldershot: Ashgate.
+* –––, 2010, “The Third Tear in Everyday Aesthetics,” _Contemporary Aesthetics_, 8, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=663)].
+* Mannison, D., 1980, “A Prolegomenon to a Human Chauvinistic Aesthetic,” in _Environmental Philosophy_, D. Mannison, M. McRobbie, and R. Routley (ed.), Canberra: Australian National University.
+* Marsh, G. P., 1865, _Man and Nature; or Physical Geography as Modified by Human Action_, New York: Charles Scribner.
+* Maskit, J., 2007, “‘Line of Wreckage’: Toward a Postindustrial Environmental Aesthetics,” _Ethics, Place and Environment_, 10: 323–337.
+* –––, 2011, “The Aesthetics of Elsewhere: An Environmentalist Everyday Aesthetics,” _Aesthetic Pathways_, 1: 92–107.
+* –––, 2014, “On Universalism and Cultural Historicism in Environmental Aesthetics,” in _Environmental Aesthetics: Crossing Divides and Breaking Ground_, M. Drenthen and J. Keulartz, (ed.), New York: Fordham University Press.
+* Matthews, P., 2002, “Scientific Knowledge and the Aesthetic Appreciation of Nature,” _Journal of Aesthetics and Art Criticism_, 60: 37–48.
+* McShane, K., 2018, “The Role of Awe in Environmental Ethics,” _Journal of Aesthetics and Art Criticism_, 76: 473–484.
+* Meeker, J., 1972, “Notes Toward an Ecological Esthetic,” _Canadian Fiction Magazine_, 2: 4–15.
+* Melchionne, K., 1998, “Living in Glass Houses: Domesticity, Interior Decoration, and Environmental Aesthetics,” _Journal of Aesthetics and Art Criticism_, 56: 191–200.
+* –––, 2002, “Front Yards,” in _Environment and the Arts: Perspectives on Environmental Aesthetics_, A. Berleant (ed.), Aldershot: Ashgate.
+* –––, 2011, “Aesthetic Experience in Everyday Life: A Reply to Dowling,” _British Journal of Aesthetics_, 51: 437–442.
+* –––, 2013, “The Definition of Everyday Aesthetics,” _Contemporary Aesthetics_, 11, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=663)].
+* –––, 2014, “The Point of Everyday Aesthetics,” _Contemporary Aesthetics_, 12, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=700)].
+* Mikkonen, J., 2018, “Knowledge, Imagination, and Stories in the Aesthetic Experience of Forests,” _Estetika_, 55: 3–24.
+* Miller, M., 1993, _The Garden As Art_, Albany: SUNY Press.
+* Moore, R., 1999, “Appreciating Natural Beauty as Natural,” _Journal of Aesthetic Education_, 33: 42–59.
+* –––, 2006, “The Framing Paradox,” _Ethics, Place and Environment_, 9: 249–267.
+* –––, 2008, _Natural Beauty: A Theory of Aesthetics Beyond the Arts_, Peterborough: Broadview Press.
+* Muir, J., 1894, “A View of the High Sierra,” in _The Mountains of California_, New York: The Century Company.
+* Mullis, E. C., 2014, “Fitness for Function and Dance Aesthetics,” _Contemporary Aesthetics_, 12, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=693)].
+* Nannicelli, T., 2018, “The Interaction of Ethics and Aesthetics in Environmental Art,” _Journal of Aesthetics and Art Criticism_, 76: 497–506.
+* Nasar, J. L., (ed.), 1988, _Environmental Aesthetics: Theory, Research, and Applications_, Cambridge: Cambridge University Press.
+* Nassauer, J. I., 1997, “Cultural Sustainability: Aligning Aesthetics and Ecology,” in _Placing Nature: Culture and Landscape Ecology_, J. I. Nassauer (ed.), Washington, D.C.: Island Press.
+* Naukkarinen, O., 2013, “What is ‘Everyday’ in Everyday Aesthetics?” _Contemporary Aesthetics_, 11, \[available online].
+* –––, 2017, “Everyday Aesthetics and Everyday Behavior,” _Contemporary Aesthetics_, 15, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=693)].
+* Nguyen, A. M., (ed.), 2018, _New Essays in Japanese Aesthetics_, Lanham, MD: Rowman and Littlefield.
+* Nicolson, M. H., 1959, _Mountain Gloom and Mountain Glory_, Ithaca: Cornell University Press.
+* Nomikos, A., 2018, “Place _Matters_,” _Journal of Aesthetics and Art Criticism_, 76: 453–462.
+* Odin, S., 2017, “Whitehead’s Perspectivism as a Basis for Environmental Ethics and Aesthetics: A Process View on the Japanese Concept of Nature,” in _Japanese Environmental Philosophy_, J. B. Callicott and J. McRae (ed.), Oxford: Oxford University Press
+* Orians, G. H. and Heerwagen J. H., 1986, “An Ecological and Evolutionary Approach to Landscape Aesthetics,” in _Landscape Meanings and Values_, E. C. Penning-Rowsell and D. Lowenthal (ed.), London: Allen and Unwin.
+* –––, 1992, “Evolved Responses to Landscapes,” in _The Adapted Mind: Evolutionary Psychology and the Generation of Culture_, J. Barkow, L. Cosmides, and J. Tooby (ed.), New York: Oxford University Press.
+* Paden, R., 2013. “A Defense of the Picturesque,” _Environmental Philosophy_, 10: 1–21.
+* –––, 2015a, “Nature, Disorder, and Tragedy: Towards an Evolutionary Aesthetic,” _Environmental Philosophy_, 12: 45–66.
+* –––, 2015b, “Picturesque Landscape Painting and Environmental Aesthetics,” _Journal of Aesthetic Education_, 49: 39–61.
+* –––, 2016, “Landscapes and Evolutionary Aesthetics,” _Environment, Space, Place_, 8: 33–55.
+* Paden, R., Harmon, L. K., and Milling, C. R., 2012, “Ecology, Evolution, and Aesthetics: Towards an Evolutionary Aesthetics of Nature,” _British Journal of Aesthetics_, 52: 124–139.
+* –––, 2013, “Philosophical Histories of the Aesthetics of Nature,” _Environmental Ethics_, 35: 57–77.
+* Paetzold, H., 2013, “The Aesthetics of City Strolling,” _Contemporary Aesthetics_, 11, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=666)].
+* –––, 2014, “Foucault’s Aesthetics of Existence and the Ethics of Authenticity,” in _Aesthetics of Everyday Life: East and West_, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
+* Parsons, G., 2002, “Nature Appreciation, Science, and Positive Aesthetics,” _British Journal of Aesthetics_, 42: 279–295.
+* –––, 2004, “Natural Functions and the Aesthetic Appreciation of Inorganic Nature,” _British Journal of Aesthetics_, 44: 44–56.
+* –––, 2006a, “Freedom and Objectivity in the Aesthetic Appreciation of Nature,” _British Journal of Aesthetics_, 46: 17–37.
+* –––, 2006b, “Theory, Observation, and the Role of Scientific Understanding in the Aesthetic Appreciation of Nature,” _Canadian Journal of Philosophy_, 36: 165–186.
+* –––, 2007, “The Aesthetic Value of Animals,” _Environmental Ethics_, 29: 151–169.
+* –––, 2008a, _Aesthetics and Nature_, London: Continuum Press.
+* –––, 2008b, “Nature, Aesthetic Values and Urban Design: Building the Natural City,” in _Philosophy and Design: From Engineering to Architecture_, P. Vermaas, P. Kroes, and A. Light (ed.), New York/Heidelberg: Springer.
+* –––, 2010, “Beauty and Public Policy,” _People and Places_, London: The Commission for Architecture and the Built Environment, \[[available online](http://webarchive.nationalarchives.gov.uk/20110118095356/http:/www.cabe.org.uk/files/people-places-glenn-parsons.pdf)].
+* –––, 2011, “Fact and Function in Architectural Criticism,” _Journal of Aesthetics and Art Criticism_, 69: 21–30.
+* –––, 2015, “Why Should We Save Nature’s Hidden Gems?” _Journal of Applied Philosophy_, 32: 98–110.
+* –––, 2016, _The Philosophy of Design_, Cambridge: Polity Press.
+* –––, 2018, “Nature Aesthetics and the Respect Argument,” _Journal of Aesthetics and Art Criticism_, 76: 411–418.
+* ––– and Carlson, A., 2004, “New Formalism and the Aesthetic Appreciation of Nature,” _Journal of Aesthetics and Art Criticism_, 62: 363–376.
+* ––– and Carlson, A., 2008, _Functional Beauty_, Oxford: Oxford University Press.
+* ––– and Zhang, X., 2018, “Appreciating Nature and Art: Recent Western and Chinese Perspectives,” _Contemporary Aesthetics_, 16, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=693)].
+* Parsons, R. and Daniel T. C., 2002, “Good Looking: In Defense of Scenic Landscape Aesthetics,” _Landscape and Urban Planning_, 60: 43–56.
+* Phemister, P. and Strickland, L., 2015, “Leibniz’s Monadological Positive Aesthetics,” _British Journal for the History of Philosophy_, 23: 1214–1234.
+* Porteous, D. J., 1996, _Environmental Aesthetics: Ideas, Politics and Planning_, London: Routledge.
+* Prior, J. and Brady, E., 2017, “Environmental Aesthetics and Rewilding,” _Environmental Values_, 26: 31–51.
+* Puolakka, K., 2018, “On Habits and Functions in Everyday Aesthetics,” _Contemporary Aesthetics_, 16, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=693)].
+* Ravasio, M., 2018, “Food Landscapes: An Object-Centered Model of Food Appreciation,” _Monist_, 101: 309–323.
+* Robinson, K. W. and Elliott, K. C., 2011, “Environmental Aesthetics and Public Environmental Philosophy,” _Ethics, Policy and Environment_, 14: 175–191.
+* Rolston, H., 1988, _Environmental Ethics: Duties to and Values in the Natural World_, Philadelphia: Temple University Press.
+* –––, 1995, “Does Aesthetic Appreciation of Nature Need to be Science Based?” _British Journal of Aesthetics_, 35: 374–386.
+* –––, 1998, “Aesthetic Experience in Forests,” _Journal of Aesthetics and Art Criticism_, 56: 157–166.
+* –––, 2000, “Aesthetics in the Swamps,” _Perspectives in Biology and Medicine_, 43: 584–597.
+* –––, 2002, “From Beauty to Duty: Aesthetics of Nature and Environmental Ethics,” in _Environment and the Arts: Perspectives on Environmental Aesthetics_, A. Berleant, (ed.), Aldershot: Ashgate.
+* Ross, S., 1993, “Gardens, Earthworks, and Environmental Art,” in _Landscape, Natural Beauty and the Arts_, S. Kemal and I. Gaskell (ed.), Cambridge: Cambridge University Press.
+* –––, 1998, _What Gardens Mean_, Chicago: University of Chicago Press.
+* –––, 2005, “Landscape Perception: Theory-Laden, Emotionally Resonant, Politically Correct,” _Environmental Ethics_, 27: 245–263.
+* Saarinen, T. F., Seamon, D., and Sell, J. L., (ed.), 1984, _Environmental Perception and Behavior: An Inventory and Prospect_, Chicago: Department of Geography, University of Chicago.
+* Sagoff, M., 1974, “On Preserving the Natural Environment,” _Yale Law Journal_, 84: 205–267.
+* Saito, Y., 1985, “The Japanese Appreciation of Nature,” _British Journal of Aesthetics_, 25: 239–251.
+* –––, 1992, “The Japanese Love of Nature: a Paradox,” _Landscape_, 31: 1–8.
+* –––, 1996, “Japanese Gardens: the Art of Improving Nature,” _Chanoyu Quarterly_, 83: 40–61.
+* –––, 1998a, “The Aesthetics of Unscenic Nature,” _Journal of Aesthetics and Art Criticism_, 56: 101–111.
+* –––, 1998b, “Appreciating Nature on its Own Terms,” _Environmental Ethics_, 20: 135–149.
+* –––, 2001, “Everyday Aesthetics,” _Philosophy and Literature_, 25: 87–95.
+* –––, 2002, “Scenic National Landscapes: Common Themes in Japan and the United States,” _Essays in Philosophy_, 3 \[available online].
+* –––, 2004, “Machines in the Ocean: The Aesthetics of Wind Farms,” _Contemporary Aesthetics_, 2, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=247)].
+* –––, 2007, “The Role of Aesthetics in Civic Environmentalism,” in _The Aesthetics of Human Environments_, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
+* –––, 2008, _Everyday Aesthetics_, Oxford: Oxford University Press.
+* –––, 2010, “Future Directions for Environmental Aesthetics,” _Environmental Values_, 19: 373–391.
+* –––, 2012, “Everyday Aesthetics and Artification,” _Contemporary Aesthetics_, 4 \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=640)].
+* –––, 2014a, “Everyday Aesthetics in the Japanese Tradition,” in _Aesthetics of Everyday Life: East and West_, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
+* –––, 2014b, “Future Directions for Environmental Aesthetics,” in _Environmental Aesthetics: Crossing Divides and Breaking Ground_, M. Drenthen and J. Keulartz, (ed.), New York: Fordham University Press.
+* –––, 2016, “Body Aesthetics and the Cultivation of Moral Virtues,” in _Body Aesthetics_, S. Irvin (ed.), Oxford: Oxford University Press.
+* –––, 2017a, _Aesthetics of the Familiar: Everyday Life and World-Making_, Oxford: Oxford University Press.
+* –––, 2017b, “The Role of Imperfection in Everyday Aesthetics,” _Contemporary Aesthetics_, 15, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=640)].
+* –––, 2018, “Consumer Aesthetics and Environmental Ethics: Problems and Possibilities,” _Journal of Aesthetics and Art Criticism_, 76: 429–439.
+* Sandrisser, B., 2007, “Cultivating Commonplaces: Sophisticated Vernacularism in Japan,” in _The Aesthetics of Human Environments_, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
+* Seel, M., 2015, “Landscapes of Human Experience,” _Contemporary Aesthetics_, 13, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=348)].
+* Semczyszyn, N., 2013, “Public Aquariums and Marine Aesthetics,” _Contemporary Aesthetics_, 11, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=668)].
+* Sepänmaa, Y., 1993, _The Beauty of Environment: A General Model for Environmental Aesthetics_, Second Edition, Denton: Environmental Ethics Books.
+* –––, 2004, “Environmental Stories: Speaking and Writing Nature,” in _The Aesthetics of Natural Environments_, A. Carlson and A. Berleant (ed.), Peterborough: Broadview Press.
+* –––, 2005, “The Aesthetics of the Road, Road Art, and Road Traffic,” _Contemporary Aesthetics_, 1, \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=348)].
+* –––, 2007, “Multi-sensoriness and the City,” in _The Aesthetics of Human Environments_, A. Berleant and A. Carlson (ed.), Peterborough: Broadview Press.
+* –––, 2010, “From Theoretical to Applied Environmental Aesthetics: Academic Aesthetics Meets Real-World Demands,” _Environmental Values_, 19: 393–405.
+* ––– and Heikkilä-Palo, L., (ed.), 2005, _Pellossa perihopeat_ (Fields–The Family Silver), Helsinki: Maahenki Oy.
+* –––, Heikkilä-Palo, L., and Kaukio, V., (ed.), 2007, _Maiseman kanssa kasvokkain_ (Face to Face with the Landscape), Helsinki: Maahenki Oy.
+* Shapshay, S. 2013, “Contemporary Environmental Aesthetics and the Neglect of the Sublime,” _British Journal of Aesthetics_, 53: 181–198.
+* ––– and Tenen, L., (ed.), 2018a, _The Good, the Beautiful, the Green: Environmentalism and Aesthetics_, Special issue of _Journal of Aesthetics and Art Criticism_, 76, 4.
+* –––and Tenen, L, 2018b, “Introduction to _The Good, the Beautiful, the Green: Environmentalism and Aesthetics_,” _Journal of Aesthetics and Art Criticism_, 76: 391–397.
+* Sheppard, S. and Harshaw, H., (ed.), 2001, _Forests and Landscapes: Linking Ecology, Sustainability and Aesthetics_, New York: CAB International Publishers.
+* Simus, J. B., 2008a, “Aesthetic Implications of the New Paradigm in Ecology,” _Journal of Aesthetic Education_, 42: 63–79.
+* –––, 2008b, “Environmental Art and Ecological Citizenship,” _Environmental Ethics_, 30: 21–36.
+* Sparshott, F., 1972, “Figuring the Ground: Notes on some Theoretical Problems of the Aesthetic Environment,” _Journal of Aesthetic Education_, 6: 11–23.
+* Stecker, R., 1997, “The Correct and the Appropriate in the Appreciation of Nature,” _British Journal of Aesthetics_, 37: 393–402.
+* –––, 1999, “Reflections on Architecture: Buildings as Artworks, Aesthetic Objects, and Artificial Environments,” in _Architecture and Civilization_, M. Mitias (ed.), Amsterdam: Rodopi.
+* –––, 2012, “Epistemic Norms, Moral Norms, and Nature Appreciation,” _Environmental Ethics_, 34: 247–264.
+* Stewart, D. C. and Johnson, T. N., 2018, “Complicating Aesthetic Environmentalism: Four Criticisms of Aesthetic Motivations for Environmental Action,” _Journal of Aesthetics and Art Criticism_, 76: 441–451.
+* Stolnitz, J., 1961, “Of the Origins of ‘Aesthetic Disinterestedness’,” _Journal of Aesthetics and Art Criticism_, 20: 131–143.
+* Svabo, C. and Ekelund, K, 2015, “Environmental Aesthetics: Notes for Design Ecology,” _Nordes 2015: Design Ecologies_, 6: 1–9.
+* Sweeney, K., 2017, _The Aesthetics of Food: The Philosophical Debate About What We Eat and Drink_, Lanham, MD: Rowman and Littlefield.
+* Tafalla, M., 2010, “From Allen Carlson to Richard Long: The Art-Based Appreciation of Nature,” _Proceedings of the European Society for Aesthetics_, 2: 491–515.
+* –––2011, “Rehabilitating the Aesthetics of Nature: Hepburn and Adorno,” _Environmental Ethics_, 33: 45–56.
+* –––2017, “The Aesthetic Appreciation of Animals in Zoological Parks,” Contemporary Aesthetics, 15 \[[available online](http://www.contempaesthetics.org/newvolume/pages/article.php?articleID=325)].
+* Thompson, C. W. and Tarvlou, P., 2009, _A Critical Review of Research in Landscape and Woodland Perceptions, Aesthetics, Affordances and Experience_ (A Report for the Forestry Commission), Edinburgh: Edinburgh College of Art, OPENspace: The Research Centre for Inclusive Access to Outdoor Environments.
+* Thompson, J., 1995, “Aesthetics and the Value of Nature,” _Environmental Ethics_, 17: 291–305.
+* Toadvine, T., 2010, “Ecological Aesthetics,” in _Handbook of Phenomenological Aesthetics_, H. R. Sepp and L. Embree (ed.), New York/Heidelberg: Springer.
+* van Etteger, R., Thompson, I. H., and Vicenzotti, V., 2016, “Aesthetic Creation Theory and Landscape Architecture,” _Journal of Landscape Architecture_, 11: 80–89.
+* Varandas, M. J., 2015, “The Land Aesthetic, Holmes Rolston’s Insight,” _Environmental Values_, 24: 209–226.
+* Vogel, S., 2015, _Thinking like a Mall: Environmental Philosophy after the End of Nature_, Cambridge: MIT Press.
+* von Bonsdorff, P., 2002, “Urban Richness and the Art of Building,” in _Environment and the Arts: Perspectives on Environmental Aesthetics_, A Berleant (ed.), Aldershot: Ashgate.
+* –––, 2005, “Agriculture, Aesthetic Appreciation and the Worlds of Nature,” _Contemporary Aesthetics_, 3, \[available online].
+* ––– and Haapala, A., (ed.), 1999, _Aesthetics in the Human Environment_, Lahti: International Institute of Applied Aesthetics.
+* Walton, K., 1970, “Categories of Art,” _Philosophical Review_, 79: 334–367.
+* Wattles, J., 2013, “John Muir as a Guide to Education in Environmental Aesthetics,” _Journal of Aesthetic Education_, 47: 56–71.
+* Welchman, J., 2018, “Aesthetics of Nature, Constitutive Goods, and Environmental Conservation: A Defense of Moderate Formalist Aesthetics,” _Journal of Aesthetics and Art Criticism_, 76: 419–428
+* Welsch, W., 2005, “Sport Viewed Aesthetically, or Even as Art,” in _The Aesthetics of Everyday Life_, A. Light and J. M. Smith (ed.), New York: Columbia University Press.
+* Xue, F., 2008, “The Universal Significance of China Natural Aesthetic Tradition,” _Nankai Journal_ (Humanities and Social Science Edition), 2: 88–96.
+* –––, 2018, “Two Types of a Doctrine of Objectivity in the Aesthetic Appreciation of Nature,” _Contemporary Aesthetics_, Special Volume 6, \[[available online](https://digitalcommons.risd.edu/liberalarts\_contempaesthetics/vol0/iss6/2/)].
+* ––– and Carlson, A., 2010, “Scientific Understanding of Environmental Aesthetics in Perspective,” in _Aesthetics International_–_Contemporary International Aestheticians Interviews_, L. Yuedi (ed.), Beijing: China Social Sciences Press.
+* Yuedi, L., 2014, “‘Living Aesthetics’ from the Perspective of the Intercultural Turn,” in _Aesthetics of Everyday Life: East and West_, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
+* ––– and Carter, C. L., (ed.), 2014a, _Aesthetics of Everyday Life: East and West_, Newcastle upon Tyne: Cambridge Scholars Publishing.
+* ––– and Carter, C. L., 2014b, “Introduction,” in _Aesthetics of Everyday Life: East and West_, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
+* Zangwill, N., 2001, “Formal Natural Beauty,” _Proceedings of the Aristotelian Society_, 101: 209–224.
+* –––, 2013, “Clouds of Illusion in the Aesthetics of Nature,” _Philosophical Quarterly_, 63: 576–596.
+* Zeng, F., 2017 “Ecological Aesthetics: A New Aesthetic Conception of Ecological Existence in the Post-modern Context,” L. Huang (trans.) _Critical Theory_, 1, 2: 8–31.
+* Zeng, Y., 2017, “The Human-oriented Ecological view and its Aesthetics as the ‘Self-Consciousness of Nature’,” _Critical Theory_, 1, 2: 43–58.
+* Ziff, P., 1979, “Anything Viewed,” in _Essays in Honour of Jaakko Hintikka On the Occasion of His Fiftieth Birthday on January 12, 1979_, E. Saarinen, R. Hilpinen, I. Niiniluoto, and M. Hintikka (ed.), Dordrecht: Reidel.
+* Zube, E. H., 1984, “Themes in Landscape Assessment Theory,” _Landscape Journal_, 3: 104–110.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=environmental-aesthetics). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/environmental-aesthetics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=environmental-aesthetics&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/environmental-aesthetics/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=environmental-aesthetics).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/environmental-aesthetics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=environmental-aesthetics\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/environmental-aesthetics/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[aesthetic, concept of the](https://plato.stanford.edu/entries/aesthetic-concept/) | [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [aesthetics of the everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/) | [architecture, philosophy of](https://plato.stanford.edu/entries/architecture/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [ethics: environmental](https://plato.stanford.edu/entries/ethics-environmental/)
+[aesthetic, concept of the](https://plato.stanford.edu/entries/aesthetic-concept/) | [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [aesthetics of the everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/) | [architecture, philosophy of](https://plato.stanford.edu/entries/architecture/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [ethics: environmental](https://plato.stanford.edu/entries/ethics-environmental/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Allen Carlson](http://allencarlson.com/)

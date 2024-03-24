@@ -1,13 +1,12 @@
 # 建筑美学 architecture, philosophy of (Saul Fisher)
 
-
-*首次发布于 2015 年 9 月 9 日*
+_首次发布于 2015 年 9 月 9 日_
 
 本文概述了建筑美学中的问题。其中的核心问题包括关于以下方面的基础性问题：
 
 1. 建筑作为一种艺术形式、设计媒介或其他产品或实践的本质。
 2. 建筑物的本质——它们是什么样的东西；它们与其他类型的物体有何不同；以及我们如何定义这类物体的范围。
-3. 建筑的特殊属性，如结构完整性（*firmitas*）、美感和实用性，或者空间、光线和形式；以及它们在建筑中可能具有的特殊性。
+3. 建筑的特殊属性，如结构完整性（_firmitas_）、美感和实用性，或者空间、光线和形式；以及它们在建筑中可能具有的特殊性。
 4. 建筑类型——如何考虑抽象的建筑对象群体及其实例。
 5. 建筑及其对象中的意义和其他类似语言的现象。
 6. 建筑对象的基本理解和审视判断的形成和保证。
@@ -47,7 +46,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/architecture/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/architecture/#Rel)
 
----
+***
 
 ## 1. 引言
 
@@ -103,7 +102,7 @@
 
 **建筑是否包括所有建筑结构。** 在这里提到的问题中，最重要的问题是什么被视为建筑物。在包容性的概念中，建筑物是指设计的对象，涵盖整个建筑环境；在排他性的概念中，范围仅描述了整个建筑环境中的一些连贯子集。排他性子集的例子包括（a）只有人们可以占用的建筑结构（通常是：房屋、寺庙、办公楼、工厂等），或者（b）仅以主要审美（而不是纯粹功能）为设计的建筑结构。包容性的概念涉及到一个更广阔的建筑对象领域，以及实践和研究的领域。
 
-专门主张独占性（S. Davies 1994，Scruton 1979/2013）的人渴望将建筑保护为仅限于那些具有丰富、明显和可欣赏的美学特质的建筑环境中的对象；明确的创作者意图以产生艺术；或高艺术的炫耀和与艺术历史轨迹的接触。Stecker（2010）提供了一种假设的变体，允许建筑作为一种更广泛的创造性媒介具有包容性的特征，尽管作为一种*艺术形式*，建筑是排他性的。Scruton 则认为，建筑具有特定的*崇高*意图：作为一种追求，建筑具有崇高的目标或目的，因此建筑物也是如此。排他性的一个常识性的理由与制度主义的观点重叠：普通人和鉴赏家都能区分建筑师的杰出作品和绘图员的平庸、千篇一律的建筑设计。
+专门主张独占性（S. Davies 1994，Scruton 1979/2013）的人渴望将建筑保护为仅限于那些具有丰富、明显和可欣赏的美学特质的建筑环境中的对象；明确的创作者意图以产生艺术；或高艺术的炫耀和与艺术历史轨迹的接触。Stecker（2010）提供了一种假设的变体，允许建筑作为一种更广泛的创造性媒介具有包容性的特征，尽管作为一种_艺术形式_，建筑是排他性的。Scruton 则认为，建筑具有特定的_崇高_意图：作为一种追求，建筑具有崇高的目标或目的，因此建筑物也是如此。排他性的一个常识性的理由与制度主义的观点重叠：普通人和鉴赏家都能区分建筑师的杰出作品和绘图员的平庸、千篇一律的建筑设计。
 
 包容性的论点包括 Carlson（1999）的呼吁，认为建筑物的类别与更广泛的日常设计物品的类别是连续的，其中一切都可以被可能的审美欣赏所接受。然后，与 Stecker 相反，我们可以轻松地将所有建筑结构都计算为建筑，尽管其中一些东西——如车库门或排水沟——既不像艺术品，也不是艺术品。另一种攻击方式是回应排他主义者的观点，即建筑师只是有意创造在某个方面上是艺术的对象，而它们可能在艺术方面失败并不重要。此外，承认意图对判断一个建筑结构是否为建筑是无关紧要的，就像我们判断外国文化的民间建筑为建筑一样。对于 Scruton 的崇高标准，包容主义者可能会指出，在所有艺术形式中，通常都有无数没有这样的目标——甚至可能没有目标的对象。最后，包容主义有其自己的常识性理由：我们通常将平凡建筑结构的创作者称为建筑师，这似乎不仅仅是一种语言上的捷径，而是对建筑物创作者所附带的培训和精神的认可。
 
@@ -121,7 +120,7 @@
 
 **建筑对象的本体论特殊性。** 另一种区分建筑对象与其他艺术对象或工艺品的方法是将它们与其他艺术本体论区分开来。假设存在不止一种艺术本体论（参见 Livingston 2013），我们可以通过参考特定的建筑特质来定义一个独特的建筑本体论，例如“质量”（重量和轻重的程度）或“指向性”（在循环路径中的指向性）；或者考虑实用性设计、使用和变化等实用性考虑因素；或者日常工艺品特征。一个包容主义者可能会添加超出建筑领域的建筑环境特有的特征。
 
-**建筑本体论的种类。**  建筑的独特特质可以帮助区分候选的本体论。其中一种选择是具体主义，根据标准的因果效应主张和建筑师、客户和用户的表达意图，建议建筑物要么是建筑结构，要么是另一种物理实例化的设计（例如模型）。具体主义得到了将建筑物体归入意图、设计和选择的对象类别的人工本体论的支持（根据这种观点，所有艺术品都最好这样理解，参见达顿 1979 年、S.戴维斯 1991 年、托马森 1999 年和莱文森 2007 年）。建筑人工本体论的一个版本将建筑物视为系统（Handler 1970）。与具体主义相对，意图可能是物质构成的、设计的建筑物体的标志，但这并不意味着我们只承认它们的存在或将它们置于这类物体之中的首要地位。此外，将意图视为决定性的会让具体主义者面临随时间变化的意图转变和附着在建筑结构上的非预期目标的问题。
+**建筑本体论的种类。** 建筑的独特特质可以帮助区分候选的本体论。其中一种选择是具体主义，根据标准的因果效应主张和建筑师、客户和用户的表达意图，建议建筑物要么是建筑结构，要么是另一种物理实例化的设计（例如模型）。具体主义得到了将建筑物体归入意图、设计和选择的对象类别的人工本体论的支持（根据这种观点，所有艺术品都最好这样理解，参见达顿 1979 年、S.戴维斯 1991 年、托马森 1999 年和莱文森 2007 年）。建筑人工本体论的一个版本将建筑物视为系统（Handler 1970）。与具体主义相对，意图可能是物质构成的、设计的建筑物体的标志，但这并不意味着我们只承认它们的存在或将它们置于这类物体之中的首要地位。此外，将意图视为决定性的会让具体主义者面临随时间变化的意图转变和附着在建筑结构上的非预期目标的问题。
 
 抽象主义的替代方案在美学领域已经有了很多研究（Kivy 1983；Dodd 2007；批评者包括 S.戴维斯 1991；Trivedi 2002；Kania 2008；D.戴维斯 2009），并且适应了一个广泛的建筑领域，包括历史、幻想和未建成的作品。根据经典的柏拉图主义，抽象主义允许通过参照单一、固定和不变的背景源来确定建筑物体和具体对应物（包括多个复制品），以确定真实世界结构（或幻想结构）的样子。
 
@@ -147,17 +146,17 @@
 
 核心思想，在其最突出的形式中，是建筑作为设计思想的集合体（无论是否实现）具有一组基本的设计和风格元素，可以根据一组规则（语法）进行组合和关联，能够构成或传达意义（语义），并受到上下文敏感性和部署和实现的内部或关系约束（语用学）。除了与自然语言的基本要素存在结构上的相似之外，人们认为建筑的目的和可能性作为语言产生了进一步的相似之处，最好通过建筑具有或甚至是一种语言的概念来解释。
 
-支持这种观点的人往往倾向于订阅与语言的某种特征有关的辩护。在受到语法启发的观点中，即最受到维特鲁威斯的影响的观点中，至少存在一种建筑语法或一套规则，用于指导部件的正确组装和整体建筑对象的定位、关系和组合。20 世纪后期的一些建筑理论采用了语法框架（亚历山大等，1977 年；希利尔和汉森，1984 年）；这种观点也为 CAAD（计算机辅助建筑设计）提供了一个形式主义的愿景（米切尔，1990 年）。这种观点的支持者（萨默森，1966 年）将自己的中心任务定为确定这些规则。即使这一目标实现了，一个更大的难题是是否存在可辨认的*更可取的*语法，以及这些标准应该是什么样的。
+支持这种观点的人往往倾向于订阅与语言的某种特征有关的辩护。在受到语法启发的观点中，即最受到维特鲁威斯的影响的观点中，至少存在一种建筑语法或一套规则，用于指导部件的正确组装和整体建筑对象的定位、关系和组合。20 世纪后期的一些建筑理论采用了语法框架（亚历山大等，1977 年；希利尔和汉森，1984 年）；这种观点也为 CAAD（计算机辅助建筑设计）提供了一个形式主义的愿景（米切尔，1990 年）。这种观点的支持者（萨默森，1966 年）将自己的中心任务定为确定这些规则。即使这一目标实现了，一个更大的难题是是否存在可辨认的_更可取的_语法，以及这些标准应该是什么样的。
 
 在以语义为灵感的观点中，建筑对象或其组成部分具有意义。这种观点的一个主要动机是，像其他艺术形式的对象一样，建筑对象是有表达性的，这表明它们所表达的是意义（多诺霍，1987 年）。支持者指出了一系列与建筑有关的意义，无论是内部的还是外部的。前者告诉我们一些关于建筑对象的信息（其功能或内部构成）或者它如何与其他建筑对象相关（风格惯例）；后者告诉我们一些关于世界的信息，例如国家或文化的关联（根据地理变体的设计词汇），神学或精神的意义（根据宗教的设计词汇），或者根据黑格尔（1826 年）的观点，绝对精神。一个更有雄心的提议（贝尔德，1969 年）认为建筑对象展示了隐喻、转喻或模糊等语义现象。
 
-Goodman (1985) 提出，建筑物在功能上与属性、感受或思想相关，有意义，有时通过“标准”的指示，例如在世界中代表其他物体（无论是作为建筑部分还是整体）的象征性表示。然而，建筑物主要通过实例化（字面或明确的指示）或表达（隐喻实例化）来象征性地表达思想、情感或世界中的物体的属性。在 Goodman 看来，只有在这些方式中的一种或多种方式上承载意义的建筑物才构成建筑*本身*。虽然 Goodman 可能已经确定了建筑物的指示作用，但这并不明确是一种语义角色。
+Goodman (1985) 提出，建筑物在功能上与属性、感受或思想相关，有意义，有时通过“标准”的指示，例如在世界中代表其他物体（无论是作为建筑部分还是整体）的象征性表示。然而，建筑物主要通过实例化（字面或明确的指示）或表达（隐喻实例化）来象征性地表达思想、情感或世界中的物体的属性。在 Goodman 看来，只有在这些方式中的一种或多种方式上承载意义的建筑物才构成建筑_本身_。虽然 Goodman 可能已经确定了建筑物的指示作用，但这并不明确是一种语义角色。
 
 第三种方法，根植于符号学，强调建筑物作为促使观众行为的符号或指示其自身的方面（Koenig 1964, 1970）的角色，或者指示其功能（Eco 1968）的角色。在任何一种情况下，建筑物被视为运作的传达系统（Donougho 1987）。符号学方案被 20 世纪后期的建筑后现代主义运动所接受（Venturi, Scott Brown, and Izenour, 1972/1977; Jencks 1977）。
 
-建筑语言论在近期的建筑哲学中被广泛质疑。首先，建筑具有一些特质和现象，类似于自然语言，但这些相似之处既不全面也不完全令人信服。在句法方面，建筑可能具有某种组合性，但建筑物的不同部分似乎不像短语或从句那样起作用（Donougho 1987）。句法的“整体”也不好，因为没有建筑断言（Scruton 1979/2013）。至于语义学，没有一个可能的建筑词汇候选者能够定期产生任何特定的意义类别或实例。例如，对于维特鲁威斯（Vitruvius）来说，爱奥尼亚式秩序意味着女性的感性，对于文艺复兴时期的建筑师来说，它具有学术或审议的意义，对于纽约市政厅的建筑师来说，它意味着“庄重”（Blondel 1675-1683），对于纽约市政厅的建筑师来说，它意味着良好的治理。也没有像能够提供明确定义的建筑序列的意义的真实条件（Taurens 2008）。甚至不清楚建筑交流最好是理解为*顺序*的；例如，Langer（1967）认为，建筑物的象征性交流实际上是整体的。至于语用学，建筑与含义推导或相关现象没有明显的类似之处，因此建筑无法达到我们与语言相关的准确性或简洁性（Clarke and Crossley 2000）。最后，相对于符号学，不是所有的建筑物都具有意义，我们只*希望*其中一些具有意义。
+建筑语言论在近期的建筑哲学中被广泛质疑。首先，建筑具有一些特质和现象，类似于自然语言，但这些相似之处既不全面也不完全令人信服。在句法方面，建筑可能具有某种组合性，但建筑物的不同部分似乎不像短语或从句那样起作用（Donougho 1987）。句法的“整体”也不好，因为没有建筑断言（Scruton 1979/2013）。至于语义学，没有一个可能的建筑词汇候选者能够定期产生任何特定的意义类别或实例。例如，对于维特鲁威斯（Vitruvius）来说，爱奥尼亚式秩序意味着女性的感性，对于文艺复兴时期的建筑师来说，它具有学术或审议的意义，对于纽约市政厅的建筑师来说，它意味着“庄重”（Blondel 1675-1683），对于纽约市政厅的建筑师来说，它意味着良好的治理。也没有像能够提供明确定义的建筑序列的意义的真实条件（Taurens 2008）。甚至不清楚建筑交流最好是理解为_顺序_的；例如，Langer（1967）认为，建筑物的象征性交流实际上是整体的。至于语用学，建筑与含义推导或相关现象没有明显的类似之处，因此建筑无法达到我们与语言相关的准确性或简洁性（Clarke and Crossley 2000）。最后，相对于符号学，不是所有的建筑物都具有意义，我们只_希望_其中一些具有意义。
 
-在光明的一面，我们并不清楚我们是否应该希望建筑更像语言。关于语义学，无论我们在给建筑物赋予特定含义方面获得了什么，我们都可能在其形式的可替代性方面失去。关于句法，遵循语法规则带来了标准的实用性和社区声音的模板，但对于某些人来说，可能代表了对审美想象力的压抑性限制（*参见* Scruton 和 Harries）。
+在光明的一面，我们并不清楚我们是否应该希望建筑更像语言。关于语义学，无论我们在给建筑物赋予特定含义方面获得了什么，我们都可能在其形式的可替代性方面失去。关于句法，遵循语法规则带来了标准的实用性和社区声音的模板，但对于某些人来说，可能代表了对审美想象力的压抑性限制（_参见_ Scruton 和 Harries）。
 
 最后，询问建筑作为语言论题能够发挥什么作用是有益的。一种观点（Alexander 等人，1977 年; Alexander，1979 年）认为，该论题强调了设计模式和已知设计解决方案的稳健性，以及对于给定文化而言，共同的词汇表（Donougho，1987 年）。然而，突出建筑物与语言的相似之处可能已经足够，尽管它们并不能构成一种建筑语言（Forty，2000 年）。如果是这样，那么该论题最好作为一个强有力的隐喻，而不是字面上的真理。
 
@@ -167,9 +166,9 @@ Goodman 提出了一种对建筑中语言现象的替代看法（1968 年），�
 
 ### 5.1 形式主义
 
-从最一般的意义上讲，形式主义在建筑中的作用与其他艺术形式一样（或者不一样）。因此，建筑形式主义认为建筑物的美学特性的总和或者产生于形式特性，我们的审美判断是基于对这些特性的经验和评估而得出的。由于建筑物通常是非表象性的，并且设计时以形式的操纵和关系为主要任务，因此自然而然地，它们的形式特性被视为在我们对它们的审美欣赏中起着核心作用。对于传统的（“硬”）形式主义者来说，问题是这些特性是否是*独特的*或者至少是主导的美学特性和判断的驱动因素，这个问题突出了历史、风格和其他背景在我们对建筑事业和个别建筑物的理解中的重要作用。我们对贝聿铭设计的卢浮宫金字塔的审美判断无疑在某种程度上是对它们“纯粹”的形式的反应，但对于一个有意识的观众来说，也可能同样程度上是对它们与历史背景（吉萨金字塔作为建筑中金字塔形式的象征，以及整个宏伟建筑的象征）或者环境（与周围华丽的新巴洛克式卢浮宫建筑形成对比，但与传统的法国几何形式设计强调相符）的关系的反应。
+从最一般的意义上讲，形式主义在建筑中的作用与其他艺术形式一样（或者不一样）。因此，建筑形式主义认为建筑物的美学特性的总和或者产生于形式特性，我们的审美判断是基于对这些特性的经验和评估而得出的。由于建筑物通常是非表象性的，并且设计时以形式的操纵和关系为主要任务，因此自然而然地，它们的形式特性被视为在我们对它们的审美欣赏中起着核心作用。对于传统的（“硬”）形式主义者来说，问题是这些特性是否是_独特的_或者至少是主导的美学特性和判断的驱动因素，这个问题突出了历史、风格和其他背景在我们对建筑事业和个别建筑物的理解中的重要作用。我们对贝聿铭设计的卢浮宫金字塔的审美判断无疑在某种程度上是对它们“纯粹”的形式的反应，但对于一个有意识的观众来说，也可能同样程度上是对它们与历史背景（吉萨金字塔作为建筑中金字塔形式的象征，以及整个宏伟建筑的象征）或者环境（与周围华丽的新巴洛克式卢浮宫建筑形成对比，但与传统的法国几何形式设计强调相符）的关系的反应。
 
-建筑形式主义的变体将形式特性视为建筑结构的物质或物理特性（与具体主义相一致），或将其视为与建筑对象相关的一组形式参数所指定的总特性的特性（与抽象主义相一致）。进一步的建筑流派以温和为特征（*参见* Zangwill 2001），表明某些建筑对象最好通过诉诸其形式特性来理解，而其他对象则不然；或通过将经典非形式特性纳入形式主义方案（如 Levinson 的“指示结构”；参见 S. Fisher 2000b）；或通过“部分整体论”观点，其中给定建筑对象的某些*部分*可以通过其形式特性来最好地理解和评判，而其他部分则不然。对于部分整体形式主义者来说，将这些部分视为独立的建筑对象，我们可以仅基于形式来评判这些部分，这可能有利于考虑这些部分。
+建筑形式主义的变体将形式特性视为建筑结构的物质或物理特性（与具体主义相一致），或将其视为与建筑对象相关的一组形式参数所指定的总特性的特性（与抽象主义相一致）。进一步的建筑流派以温和为特征（_参见_ Zangwill 2001），表明某些建筑对象最好通过诉诸其形式特性来理解，而其他对象则不然；或通过将经典非形式特性纳入形式主义方案（如 Levinson 的“指示结构”；参见 S. Fisher 2000b）；或通过“部分整体论”观点，其中给定建筑对象的某些_部分_可以通过其形式特性来最好地理解和评判，而其他部分则不然。对于部分整体形式主义者来说，将这些部分视为独立的建筑对象，我们可以仅基于形式来评判这些部分，这可能有利于考虑这些部分。
 
 形式主义在一些传统的建筑理论中作为规范性的实践或批评指导出现，即我们最好的设计思维将建筑对象的形状、颜色和其他形式元素作为核心。建筑对象的其他非形式方面被视为对其成功的贡献不足。Mitrovic（2011, 2013）采用规范性形式主义方法进行批评，理由是大部分认知的深层视觉性质使得我们难以仅或主要基于通过非视觉手段理解的特征（如上下文或历史所提供的特征）来欣赏或评价建筑对象。
 
@@ -217,11 +216,11 @@ Goodman 提出了一种对建筑中语言现象的替代看法（1968 年），�
 
 建筑信念和知识也具有完全独特的特点，反映了该领域、其实践和对象的特殊特征。这些特点包括：
 
-*关于系统的信念。*  建筑物（作为整体）是系统或类似系统，因为它们构成了一组相互关联的结构组件，具有特定的行为或过程，从输入产生输出，并且部件通过独特的结构和行为关系相连（Boyce 1969）。我们认为整个建筑物是系统或类似系统，这表明建筑信念在艺术作品的信念中是独特的。特别是，我们对建筑物的信念反映了以下方面的功能和相互作用：（1）组件个别地以及作为系统整体的一部分，（2）系统作为更广泛环境背景的一部分，以及（3）人在系统中的行为。虽然前两个功能和相互作用特征对所有设计都是典型的，但第三个特征将建筑定义为一种艺术形式，它通过提供沉浸式和系统化的物理环境，强烈地影响和塑造社会、心理和经济体验的特征。我们对建筑物的信念以及与之的相互作用相应地被塑造，这种塑造方式在与其他艺术形式的接触中是不存在的。
+_关于系统的信念。_ 建筑物（作为整体）是系统或类似系统，因为它们构成了一组相互关联的结构组件，具有特定的行为或过程，从输入产生输出，并且部件通过独特的结构和行为关系相连（Boyce 1969）。我们认为整个建筑物是系统或类似系统，这表明建筑信念在艺术作品的信念中是独特的。特别是，我们对建筑物的信念反映了以下方面的功能和相互作用：（1）组件个别地以及作为系统整体的一部分，（2）系统作为更广泛环境背景的一部分，以及（3）人在系统中的行为。虽然前两个功能和相互作用特征对所有设计都是典型的，但第三个特征将建筑定义为一种艺术形式，它通过提供沉浸式和系统化的物理环境，强烈地影响和塑造社会、心理和经济体验的特征。我们对建筑物的信念以及与之的相互作用相应地被塑造，这种塑造方式在与其他艺术形式的接触中是不存在的。
 
-*部分和完整信息。*  建筑中的表达包括多种模式，包括建筑物、物理模型、虚拟模型、数据数组、平面图、草图、照片和绘画。只要某种模式能够充分、准确、规律地、最佳地表达建筑物的一些特征，它就可以作为代表建筑物的有效方式。这种对建筑中有效表达的观点与其他艺术形式中的标准相悖。以《蒙娜丽莎》的表达为例。如果你无法通过表达（从任何可接受的角度）完全看到整个画面，那么可以说你对这幅作品的了解不够全面，因此你对《蒙娜丽莎》的美学信念可能会受到质疑。相比之下，如果建筑信念要求对对象有类似“完全”了解或“完全知情”的证词才能成立，我们的建筑信念通常不会是有效的或频繁的。即使是我们最熟悉的人，比如建筑结构的设计师或开发者，也很少能够完全了解或完全知情。
+_部分和完整信息。_ 建筑中的表达包括多种模式，包括建筑物、物理模型、虚拟模型、数据数组、平面图、草图、照片和绘画。只要某种模式能够充分、准确、规律地、最佳地表达建筑物的一些特征，它就可以作为代表建筑物的有效方式。这种对建筑中有效表达的观点与其他艺术形式中的标准相悖。以《蒙娜丽莎》的表达为例。如果你无法通过表达（从任何可接受的角度）完全看到整个画面，那么可以说你对这幅作品的了解不够全面，因此你对《蒙娜丽莎》的美学信念可能会受到质疑。相比之下，如果建筑信念要求对对象有类似“完全”了解或“完全知情”的证词才能成立，我们的建筑信念通常不会是有效的或频繁的。即使是我们最熟悉的人，比如建筑结构的设计师或开发者，也很少能够完全了解或完全知情。
 
-*社会构建的知识。*  在建筑学中，与其他设计领域一样，设计问题不是一次性或由任何特定个体完全阐述的。设计知识的主要组成部分——问题及其可能的解决方案——分布在不同的人之间。这一事实关于建筑生产以及在一定程度上关于其使用的事实表明，我们对建筑物形成的信念是在这样的社会关系中形成的，并受到其影响（[参见§8.1](https://plato.stanford.edu/entries/architecture/#SocConFeaArc)）。艺术和建筑世界本身无疑不是认识规范的唯一来源。然而，建筑的利益相关者之间的社会关系和环境为广泛的建筑信念提供了构成条件，至少表明了适度的社会建构主义。
+_社会构建的知识。_ 在建筑学中，与其他设计领域一样，设计问题不是一次性或由任何特定个体完全阐述的。设计知识的主要组成部分——问题及其可能的解决方案——分布在不同的人之间。这一事实关于建筑生产以及在一定程度上关于其使用的事实表明，我们对建筑物形成的信念是在这样的社会关系中形成的，并受到其影响（[参见§8.1](https://plato.stanford.edu/entries/architecture/#SocConFeaArc)）。艺术和建筑世界本身无疑不是认识规范的唯一来源。然而，建筑的利益相关者之间的社会关系和环境为广泛的建筑信念提供了构成条件，至少表明了适度的社会建构主义。
 
 可能有人认为建筑的特质，如系统性和学科的深度社会性，与审美信念无关。然而，建筑是一个整体性的事业：设计决策，如悬挑露台，既具有审美意义，又具有工程意义。同样，建筑物构成系统对于塑造审美信念也是相关的，因为在建筑结构中，有更有吸引力的方式来塑造人流，甚至是电流的流动。而建筑物是通过社会过程来设计的，这对应的审美信念也具有重要意义。例如，给定设计的审美特性受到批评的影响，批评的目的就是影响创作者对同一设计的进一步审美信念。
 
@@ -231,13 +230,13 @@ Goodman 提出了一种对建筑中语言现象的替代看法（1968 年），�
 
 建筑物的欣赏和评判通常被认为反映了审美和实用性的考虑，并涉及个人的观点、经验、推理和反思，就像我们在欣赏和评判其他艺术形式时所关联的那样。在建筑欣赏和评判中，与其他艺术形式不同的特殊因素包括社会框架和环境心理因素，这是建筑作为公共性极强的艺术形式的结果。
 
-**例外主义。**  关于欣赏的一个问题是是否存在与建筑物相关的特殊模式。我们可能认为是这样，因为与大多数艺术形式（尽管与其他设计形式非常相似）不同，建筑欣赏既具有审美性又具有实用性导向。由此产生的一个难题是，在什么情况下我们可以有其中之一而没有另一种。例如，我们可能认为，即使没有对罗马斗兽场的预期功能或实际使用的任何欣赏，我们仍然可以欣赏其庄严和古老的特点。另一方面，一个包含功能美学理论的欣赏观点可能会暗示，斗兽场的功能美和自由美至少是同等重要的，或者斗兽场的庄严审美和其作为举办表演的露天剧场的角色（例如）不能完全分离。
+**例外主义。** 关于欣赏的一个问题是是否存在与建筑物相关的特殊模式。我们可能认为是这样，因为与大多数艺术形式（尽管与其他设计形式非常相似）不同，建筑欣赏既具有审美性又具有实用性导向。由此产生的一个难题是，在什么情况下我们可以有其中之一而没有另一种。例如，我们可能认为，即使没有对罗马斗兽场的预期功能或实际使用的任何欣赏，我们仍然可以欣赏其庄严和古老的特点。另一方面，一个包含功能美学理论的欣赏观点可能会暗示，斗兽场的功能美和自由美至少是同等重要的，或者斗兽场的庄严审美和其作为举办表演的露天剧场的角色（例如）不能完全分离。
 
 关于欣赏的进一步问题涉及个人对建筑体验、社会因素和环境因素在欣赏中的相对作用。
 
-**个体欣赏。**  建筑欣赏的主流哲学观点是一种心理学解释，受到康德传统的影响：个体对建筑物的直接、即时的审美体验构成了欣赏的基础。（Iseminger 1981 提供了这种观点的一般美学解释。）一个主要的变体认为，建筑欣赏是个体对建筑物的内容、形式、特性和关系的认知产物。最近的一个变化认为，除了（或者代替）认知反应之外，生理体验（本体感知）是与建筑欣赏相关的信念的一个核心来源。无论是哪种模式，个体的经验都是滋养和影响欣赏的来源。
+**个体欣赏。** 建筑欣赏的主流哲学观点是一种心理学解释，受到康德传统的影响：个体对建筑物的直接、即时的审美体验构成了欣赏的基础。（Iseminger 1981 提供了这种观点的一般美学解释。）一个主要的变体认为，建筑欣赏是个体对建筑物的内容、形式、特性和关系的认知产物。最近的一个变化认为，除了（或者代替）认知反应之外，生理体验（本体感知）是与建筑欣赏相关的信念的一个核心来源。无论是哪种模式，个体的经验都是滋养和影响欣赏的来源。
 
-**建筑欣赏中的社会和环境作用。**  直接、即时的个体经验并不是塑造建筑欣赏的唯一信息来源。考虑到建筑事业的广度，它可能甚至不是最好的信息来源。其他来源包括通过标准的表现方式（例如绘图或照片）获得有关作品的信息，通过学徒学习传递隐性工作知识，以及通过客户简报和工作室批评形成集体信念。
+**建筑欣赏中的社会和环境作用。** 直接、即时的个体经验并不是塑造建筑欣赏的唯一信息来源。考虑到建筑事业的广度，它可能甚至不是最好的信息来源。其他来源包括通过标准的表现方式（例如绘图或照片）获得有关作品的信息，通过学徒学习传递隐性工作知识，以及通过客户简报和工作室批评形成集体信念。
 
 建筑欣赏在于建立在我们对建筑物的理解上，它在与其他个体和群体共同体验和关系中发展和成熟。（Scruton 1979/2013）它也是社会性的，因为我们从与我们分享这种经验的人中学习欣赏的标志，或者（根据 Scruton 1979/2013）想象自己与他们分享这种经验。事实上，建筑教育的一个核心目标是有组织地传授集体智慧，以便最好地对建筑物进行分类，并与实践知识相结合，同时也了解欣赏的标志是什么样的，或者应该是什么样的。
 
@@ -249,9 +248,9 @@ Goodman 提出了一种对建筑中语言现象的替代看法（1968 年），�
 
 作为建筑实践规范伦理的概念先验，建筑的元伦理评估了建筑伦理的替代模式，例如建筑是否可以相对于其对象（建筑结构）或作为一组机构或社会现象的实践而被认为是道德的或不道德的。另一个元伦理问题涉及美学与伦理的关系，即美学与伦理在建筑中的相互作用。
 
-**建筑的伦理模式。**  建筑伦理有三种典型的候选模式。首先，建立企业伦理规范的标准，例如建筑师在实践中可能遵守的规范。例如，建筑师可以以降低成本超支和增强安全性的方式设计。在人际关系方面，建筑师可以诚实地向客户或承包商展示他们的工作。另一种模式是超越企业定义的伦理规范，追求评估建筑师作为道德主体在世界上广泛产生或做出善恶的标准。例如，建筑师可以创造能够提升或限制个体用户和居民的物体；其他建筑师可以通过为需要住房的人设计住房来促进社会效益。最后，还有一种模式是寻求评判建筑物是否在道德上好坏的标准，因为它们直接产生快乐或痛苦。作为一个间接的例子，医院设计旨在通过营造有利于卓越医疗和患者福祉的环境条件来减少疼痛。作为一个更直接的例子，公交候车亭旨在减少暴露于外界环境和相应的不适。如果我们将建筑主要视为产品而不是实践，这个最后的候选模式可能是有吸引力的；如果我们不愿将道德价值赋予物品，就像我们赋予行为或其属性一样，那么它就是有害的。一个建筑结构可能是不人道的，因为它是荒凉的或不适宜居住的，尽管这并不意味着结构本身具有不人道的价值。
+**建筑的伦理模式。** 建筑伦理有三种典型的候选模式。首先，建立企业伦理规范的标准，例如建筑师在实践中可能遵守的规范。例如，建筑师可以以降低成本超支和增强安全性的方式设计。在人际关系方面，建筑师可以诚实地向客户或承包商展示他们的工作。另一种模式是超越企业定义的伦理规范，追求评估建筑师作为道德主体在世界上广泛产生或做出善恶的标准。例如，建筑师可以创造能够提升或限制个体用户和居民的物体；其他建筑师可以通过为需要住房的人设计住房来促进社会效益。最后，还有一种模式是寻求评判建筑物是否在道德上好坏的标准，因为它们直接产生快乐或痛苦。作为一个间接的例子，医院设计旨在通过营造有利于卓越医疗和患者福祉的环境条件来减少疼痛。作为一个更直接的例子，公交候车亭旨在减少暴露于外界环境和相应的不适。如果我们将建筑主要视为产品而不是实践，这个最后的候选模式可能是有吸引力的；如果我们不愿将道德价值赋予物品，就像我们赋予行为或其属性一样，那么它就是有害的。一个建筑结构可能是不人道的，因为它是荒凉的或不适宜居住的，尽管这并不意味着结构本身具有不人道的价值。
 
-**价值互动。**  建筑理论中的维特鲁威原则表明了将美学与促进实用性联系起来的倾向。同样，功能美学理论建议在建筑中将美学和伦理考虑联系在一起。为了明确这个问题，我们可以问一个问题，即一个建筑结构是否可能是好的，尽管在美学上并非如此。关于美学和伦理价值如何相关的问题是一个更广泛关注的主题，有一种“道德主义”立场认为这两种价值是或应该是相互关联的（Carroll 1996，Gaut 1998），还有一种“自主主义”立场认为这两种价值是（或更好地是）独立的（Anderson and Dean 1998，Kieran 2001）。
+**价值互动。** 建筑理论中的维特鲁威原则表明了将美学与促进实用性联系起来的倾向。同样，功能美学理论建议在建筑中将美学和伦理考虑联系在一起。为了明确这个问题，我们可以问一个问题，即一个建筑结构是否可能是好的，尽管在美学上并非如此。关于美学和伦理价值如何相关的问题是一个更广泛关注的主题，有一种“道德主义”立场认为这两种价值是或应该是相互关联的（Carroll 1996，Gaut 1998），还有一种“自主主义”立场认为这两种价值是（或更好地是）独立的（Anderson and Dean 1998，Kieran 2001）。
 
 在这场辩论中，建筑似乎是一个有希望找到稳固关系的领域。在道德主义的极端观点中，有一种建议（得到了建筑理论中的一些传统支持，如普金 1841 年，拉斯金 1849 年），即建筑美学任务就是伦理任务，反映了伦理选择。一种突出的道德主义观点认为，建筑美学选择的伦理要素在于对一种诚实的义务，即设计作品准确地代表潜在的结构原理或操作能力。哈里斯（1997 年）和斯克鲁顿（1979/2013 年）得出了类似的伦理承诺，认为建筑设计是以一种特定方式表达共同社区价值观，而不是功能或结构特征。从另一个角度来看，道德主义者指出建筑环境的情感影响表明了美学和道德的结合（金斯伯格 1994 年），尽管可以注意到，即使我们发现了这种结合，我们也不需要根据所传达的任何伦理意义来评判建筑物的美学。
 
@@ -259,11 +258,11 @@ Goodman 提出了一种对建筑中语言现象的替代看法（1968 年），�
 
 第三种立场则提出了多元主义。有时伦理和美学价值是相辅相成的，而其他时候则不是，它们的匹配方式多种多样，方向各异。因此，一个建筑设计可能在美学上令人信服，因为它反映了其道德高尚的特质，而另一个设计可能在美学上令人信服，因为它反映了其道德不足的特质。对于这种情况，评估者需要能够根据功能美学理论，将美学的成功与结构的道德不足功能有效地表达联系起来（Sauchelli 2012b）。更广义的多元主义会认为，不同的美学和伦理价值可以以不同的方式匹配；我们可能会因为战争纪念碑以悲惨的方式表达了战争的恐怖而赋予其价值。
 
-**建筑伦理的传统问题。**  建筑伦理学对建筑美学的哲学至关重要的一个原因是，建筑师的行为对他人的道德生活产生了巨大的影响。建筑师为人们设计建筑和环境，对个人行为、选择行动的能力以及满足偏好、造成伤害、产生利益或行使权利的能力产生了相应的影响。由于建筑师的行为塑造了个体行为和社会行为的空间、界限和路径，因此它们引发了沿着传统道德伦理学线索的规范伦理探索。
+**建筑伦理的传统问题。** 建筑伦理学对建筑美学的哲学至关重要的一个原因是，建筑师的行为对他人的道德生活产生了巨大的影响。建筑师为人们设计建筑和环境，对个人行为、选择行动的能力以及满足偏好、造成伤害、产生利益或行使权利的能力产生了相应的影响。由于建筑师的行为塑造了个体行为和社会行为的空间、界限和路径，因此它们引发了沿着传统道德伦理学线索的规范伦理探索。
 
 首先，传统的建筑伦理学需要对建筑师的责任进行说明。这样的说明应该概述建筑师对他人的义务，这些义务可能基于哪些伦理标准，如何确保这些标准能够得到满足，以及建筑师可能具有的其他义务，例如对历史保护或环境保护的义务。就对个人的义务而言，建筑中的利益相关者范围很广，因此伦理责任是分散的。
 
-另一组问题涉及到 *权利*。在建筑领域，谈论作者或社区的权利是相对较新的；业主或客户的权利在历史上是依附于财产或主权权利的。其他可能性包括开发商、建筑师、工程师、环境和社会的权利。随着这个列表的增长，还有两个进一步的问题，即可以归属于这些当事方或实体的权利类型，以及在考虑美学和道德因素时分配和优先考虑这些权利的标准。
+另一组问题涉及到 _权利_。在建筑领域，谈论作者或社区的权利是相对较新的；业主或客户的权利在历史上是依附于财产或主权权利的。其他可能性包括开发商、建筑师、工程师、环境和社会的权利。随着这个列表的增长，还有两个进一步的问题，即可以归属于这些当事方或实体的权利类型，以及在考虑美学和道德因素时分配和优先考虑这些权利的标准。
 
 建筑的实用性作为维特鲁威概念而为人所熟知，但在以代理为中心的规范伦理学中，它具有完全不同的意义，可能具有在经典建筑理论中找不到的道德权重。需要准则来确定建筑物、修复、重建或计划等建筑产品的有用性。这些准则可能包括它们的社会性质，或者建筑师、业主、最终用户或公众的个人偏好。建筑伦理学的功利主义方法在捕捉建筑的目标以促进幸福和依赖于建筑价值的明显标志方面具有吸引力。然而，它也忽视了其他传统建筑要求，如维特鲁威式多元主义者可能尊重的美和结构完整性（Spector 2001）。
 
@@ -271,17 +270,17 @@ Goodman 提出了一种对建筑中语言现象的替代看法（1968 年），�
 
 **面向未来的建筑伦理学。** 伦理权利和责任在建筑学中的焦点通常是相对于现在或过去的。因此，我们谈论对以伦理负责的方式进行设计和建造的义务，或者保护过去的建筑物。也存在面向未来的义务。可持续设计是前瞻性的，即使它以我们今天设计和建造的内容为中心。与未来建筑物相关的伦理问题可能会出现。至于对未来建筑物的义务，我们在规划近期建筑物周围的短期实例中可以看到。更令人困惑的是，除了功利或谨慎考虑之外，我们是否可能有“长期”面向未来的义务，例如规划新城市或适应气候变化的住宿。
 
-**建筑的特殊伦理问题。**  建筑实践产生了特殊的道德问题，因为它具有独特的特点，与艺术、职业和社会实践有所不同。特别是，建筑对创造社会有益和功能性艺术的承诺引发了一系列与社会相关的伦理问题。这些问题包括“更好”的住房的性质（在不同条件下），住房是否是一种义务，以及这种义务如何归属于建筑师或由建筑师满足。然而，建筑的其他伦理问题涉及个人和社会空间及其表达的各种问题，包括围绕隐私、无障碍性（对公众和残障人士特别是）、尊重社区和邻里偏好以及促进公民价值观的设计标准。
+**建筑的特殊伦理问题。** 建筑实践产生了特殊的道德问题，因为它具有独特的特点，与艺术、职业和社会实践有所不同。特别是，建筑对创造社会有益和功能性艺术的承诺引发了一系列与社会相关的伦理问题。这些问题包括“更好”的住房的性质（在不同条件下），住房是否是一种义务，以及这种义务如何归属于建筑师或由建筑师满足。然而，建筑的其他伦理问题涉及个人和社会空间及其表达的各种问题，包括围绕隐私、无障碍性（对公众和残障人士特别是）、尊重社区和邻里偏好以及促进公民价值观的设计标准。
 
 建筑的其他伦理问题在全球范围内尤为明显。例如，在发达国家和发展中国家之间存在住房分配不公平的问题，其中一部分解决方案可能是建筑（Caicco 2005）。此外，由于浪费和退化会受到建筑设计的影响，建筑业承担着特殊的环境义务。可持续性对建筑师的一个概念性挑战是确定发展是否原则上是一种相抵触的利益。这就是问一旦定义了环境义务，如何将其纳入或权衡基础设施和设计利益和偏好。
 
-**职业伦理。**  建筑职业伦理关注建筑师在实践背景下的道德选择（Wasserman、Sullivan 和 Palermo 2000；T. Fisher 2010）。职业道德准则规范建筑职业的行为（从而保护），并避免与业务、受托、保险或责任职能相关的问题；设计职能是与残疾有关的伦理关注点。建筑法强调了与财产、责任和诚信有关的职业伦理问题。法律明确了建筑实践各方之间的责任；定义了商业建筑互动中具有道德代理权的人或事物；并描述了建筑中分配的效用或财务措施。法律法规和判决引发了有关建筑中知识产权、建筑师作为仲裁人以及建筑师对他人责任的概念性问题（S. Fisher 2000a）。
+**职业伦理。** 建筑职业伦理关注建筑师在实践背景下的道德选择（Wasserman、Sullivan 和 Palermo 2000；T. Fisher 2010）。职业道德准则规范建筑职业的行为（从而保护），并避免与业务、受托、保险或责任职能相关的问题；设计职能是与残疾有关的伦理关注点。建筑法强调了与财产、责任和诚信有关的职业伦理问题。法律明确了建筑实践各方之间的责任；定义了商业建筑互动中具有道德代理权的人或事物；并描述了建筑中分配的效用或财务措施。法律法规和判决引发了有关建筑中知识产权、建筑师作为仲裁人以及建筑师对他人责任的概念性问题（S. Fisher 2000a）。
 
-*知识产权*。关于建筑知识产权的一个概念问题是如何权衡这些权利与其他类型的财产权利，如国内或商业权利。另一个问题是基于判断建筑是一种服务还是产品。将建筑视为*服务*意味着建筑师没有版权的利益，因为他们将成为合同创作者；传统认为，对于这些创意表达的权利归属于合同方。将建筑视为*产品*则支持建筑师对版权的主张，因为创意表达是他们的创作，无论进行了哪些服务（Greenstreet 1998；Cushman and Hedemann 1995）。版权引发其他问题。尽管法律可能允许创建一个反映不同建筑师创作的另一个建筑物的核心设计方面的建筑物，但我们可能会认为任何有意识的“借用”而没有归属或许可是道德上应受谴责的。或者，我们可以将其视为建筑复制历史中常见的没有归属或许可的例行事件。挑战在于定义一个建筑师对其他人的相关义务，无论是现在还是过去。
+_知识产权_。关于建筑知识产权的一个概念问题是如何权衡这些权利与其他类型的财产权利，如国内或商业权利。另一个问题是基于判断建筑是一种服务还是产品。将建筑视为_服务_意味着建筑师没有版权的利益，因为他们将成为合同创作者；传统认为，对于这些创意表达的权利归属于合同方。将建筑视为_产品_则支持建筑师对版权的主张，因为创意表达是他们的创作，无论进行了哪些服务（Greenstreet 1998；Cushman and Hedemann 1995）。版权引发其他问题。尽管法律可能允许创建一个反映不同建筑师创作的另一个建筑物的核心设计方面的建筑物，但我们可能会认为任何有意识的“借用”而没有归属或许可是道德上应受谴责的。或者，我们可以将其视为建筑复制历史中常见的没有归属或许可的例行事件。挑战在于定义一个建筑师对其他人的相关义务，无论是现在还是过去。
 
-*建筑师作为业主和承包商争议的裁判*。建筑师有着双重角色，既是建筑项目的设计师，也是管理者，在这个能力下，他们可以在业主和承包商之间裁决争议。标准问题涉及利益冲突、裁决的依据和公平标准。特别是在*建筑*方面的伦理问题包括规范的不满足程度，如保证计算；在维护业主利益的同时，对承包商和自己设计的满意实现的公平性的维护；以及确定与设计相关的争议中适当的判断品质和建筑师的特质，以及促进（或限制）这些品质的方面。
+_建筑师作为业主和承包商争议的裁判_。建筑师有着双重角色，既是建筑项目的设计师，也是管理者，在这个能力下，他们可以在业主和承包商之间裁决争议。标准问题涉及利益冲突、裁决的依据和公平标准。特别是在_建筑_方面的伦理问题包括规范的不满足程度，如保证计算；在维护业主利益的同时，对承包商和自己设计的满意实现的公平性的维护；以及确定与设计相关的争议中适当的判断品质和建筑师的特质，以及促进（或限制）这些品质的方面。
 
-*对他人设计的责任*。建筑物通常以累积和可变的方式随着时间的推移发展，通过增加和改变，这些改变可能比不改变设计的情况更频繁，这些设计可能是不同的原始建筑师（或之前的改变）的设计。对于任何特定的变化，或者考虑整体设计的变化，我们可以规定尊重原始或之前意图和执行的义务。这类义务的一种类型，在历史保护和地标法中得到承认，要求公共利益中的审美关注优先于私人利益。关键的概念问题涉及如何确定任何这种义务的来源和条件，以及建筑师对现有结构应该承担的责任类型。这些责任可能延伸到对同行建筑师作品完整性的承诺。
+_对他人设计的责任_。建筑物通常以累积和可变的方式随着时间的推移发展，通过增加和改变，这些改变可能比不改变设计的情况更频繁，这些设计可能是不同的原始建筑师（或之前的改变）的设计。对于任何特定的变化，或者考虑整体设计的变化，我们可以规定尊重原始或之前意图和执行的义务。这类义务的一种类型，在历史保护和地标法中得到承认，要求公共利益中的审美关注优先于私人利益。关键的概念问题涉及如何确定任何这种义务的来源和条件，以及建筑师对现有结构应该承担的责任类型。这些责任可能延伸到对同行建筑师作品完整性的承诺。
 
 ## 8. 建筑与社会政治哲学
 
@@ -291,7 +290,7 @@ Goodman 提出了一种对建筑中语言现象的替代看法（1968 年），�
 
 第一个候选原因的成立与否取决于建筑是否在满足社会需求的同时成为了一门社会艺术。对于一种艺术形式来说，任何满足的需求都应该是关键性的，而不是可选择性的或奢侈的。因此，例如，满足住房需求整体上符合关键性测试——而满足第三套住房的设计需求则不符合。第一个原因看起来是正确的，因为建筑师经常将社会需求融入到设计思维中。他们以社会意识为武器，创造出能够服务于各种社会目标的建筑结构。然而，一个困难出现了，就是如何始终将这种意图作为社会的标志来坚持，如果(a)这种意图在体验建筑物、实例或其表现形式时不明确，(b)建筑结构被重新利用，或者(c)存在没有相应相关意图的建筑物。（例如，我们可以考虑“发现”的建筑物，如有人居住的洞穴。）
 
-建筑是一门社会艺术的第二个候选原因是，建筑制作过程是彻底而不可避免的社会现象，由社会约定和安排所创造和管理的社会群体的互动所构成。从这个观点来看，建筑的社会性在于学科的地位是由社会约定所塑造的，而这种约定由建筑师和其他相关人员指定并指导行动。（这个原因直接将建筑的社会性与其社会影响联系起来，因此与建筑社会学有关；参见[§8.2](https://plato.stanford.edu/entries/architecture/#SocEffFeaArc)。）建筑现象是社会的，因为它们是建筑师和其他建筑利益相关者的各种常规和约定性的目的行动和群体行动的结果，这些行动和群体行动包括合同、会议、公司、讨论会、评论、评审、项目、竞赛、展览、合作伙伴关系、专业组织、谈判、工作流组织、分工以及其他各种常规和约定性的目的行动和建筑师和其他建筑利益相关者的群体行动。有人可能会反对说，在制度理论中，*所有*艺术形式都是以这些方式社会的。然而，正如在艺术世界中所展现的那样，制度理论告诉我们什么是艺术对象，而不是这些对象最初是如何构成的。这个候选人必须排除一种*天真的建筑*情景，即一个没有与之相关的社会重要参与的孤立建筑师的可能性。
+建筑是一门社会艺术的第二个候选原因是，建筑制作过程是彻底而不可避免的社会现象，由社会约定和安排所创造和管理的社会群体的互动所构成。从这个观点来看，建筑的社会性在于学科的地位是由社会约定所塑造的，而这种约定由建筑师和其他相关人员指定并指导行动。（这个原因直接将建筑的社会性与其社会影响联系起来，因此与建筑社会学有关；参见[§8.2](https://plato.stanford.edu/entries/architecture/#SocEffFeaArc)。）建筑现象是社会的，因为它们是建筑师和其他建筑利益相关者的各种常规和约定性的目的行动和群体行动的结果，这些行动和群体行动包括合同、会议、公司、讨论会、评论、评审、项目、竞赛、展览、合作伙伴关系、专业组织、谈判、工作流组织、分工以及其他各种常规和约定性的目的行动和建筑师和其他建筑利益相关者的群体行动。有人可能会反对说，在制度理论中，_所有_艺术形式都是以这些方式社会的。然而，正如在艺术世界中所展现的那样，制度理论告诉我们什么是艺术对象，而不是这些对象最初是如何构成的。这个候选人必须排除一种_天真的建筑_情景，即一个没有与之相关的社会重要参与的孤立建筑师的可能性。
 
 无论哪种观点都是与时间相关的。这些参数以及它们如何构成建筑的社会性将随着社会需求、约定和关系的变化而改变。
 
@@ -315,15 +314,15 @@ Goodman 提出了一种对建筑中语言现象的替代看法（1968 年），�
 
 即使在一般自由或开放的社会环境中，建筑在城市规划层面间接地以政治塑造的方式决定行为。建筑师和其他规划城市或其他密集居住环境的人员考虑到诸如尊重社区价值观、促进公民美德、最大化社会效益、履行专业或公共责任以及尊重公民或领导者偏好等政治目标（Haldane 1990，Paden 2001，Thompson 2012）。这种规划和设计努力的政治色彩结果，无论是在权威、咨询还是参与性过程中进行，都是改变、鼓励或奖励特定行为的建筑物。
 
-**意识形态和代理。** 建筑还被用来传达权力、民族主义、解放、合作、正义或其他政治主题或概念的象征性信息，以推广政治观点、文化或控制（Wren c1670s）。一个问题涉及到建筑师在推广官方政治意识形态方面的代理权。在政府委托中，建筑师通常在某个时刻将设计控制权交给政府。然而，建筑师是记录的创作者。这就引发了一个问题，即从审美角度来看，设计是建筑师*X*的作品，但从政治角度来看，同样的设计并不归功于*X*。
+**意识形态和代理。** 建筑还被用来传达权力、民族主义、解放、合作、正义或其他政治主题或概念的象征性信息，以推广政治观点、文化或控制（Wren c1670s）。一个问题涉及到建筑师在推广官方政治意识形态方面的代理权。在政府委托中，建筑师通常在某个时刻将设计控制权交给政府。然而，建筑师是记录的创作者。这就引发了一个问题，即从审美角度来看，设计是建筑师_X_的作品，但从政治角度来看，同样的设计并不归功于_X_。
 
 建筑师在政治层面上的代理权是建筑师代理权相对于客户的更一般问题的特殊版本，包括企业和个人客户。建筑师对客户的审美和实用问题有义务，基于这些义务，对于某个具体的建筑物，责任、指责和赞扬不能完全归于建筑师一人。一个问题是在实现建筑物的设计和建造阶段，需要什么样的情景或条件来证明将更多或更少的代理权以及相应的政治或道德责任分配给建筑师或客户。阶段很重要。设计阶段似乎起初是建筑师的代理权领域，而任何后建阶段似乎普遍属于客户和任何相关用户群体（直到发生任何翻新或重新利用）。然而，在后建阶段之前的阶段发生了什么是更加模糊的。
 
 ## 9. 建筑美学的进一步问题
 
-**建筑失败。**  失败的建筑并不是失败的艺术或失败的物品的一个简单的亚种。建筑物体可能在美学上是灾难性的，但在某种整体意义上却是成功的，与非建筑艺术物体不同。建筑物体可能停止发挥功能，或者根本没有发挥功能，但在整体上仍然被认为是成功的，与一系列（尽管不是全部）非建筑物品不同。建筑失败的另一个特点——与一般设计现象一致——是建筑物体可能根据不同的情况、背景或微小的差异而被认为是成功或失败。因此，一个给定的建筑物体可能作为一个活跃和完整的建筑结构而失败，但作为废墟却不是（或者反之亦然）。这表明背景意图在早期阶段可能很重要，在建筑结构的生命周期的后期阶段可能不那么重要，并且失败可能对于建筑抽象体有一个标准，对于相应的具体体则有其他标准。此外，在具有标准的、密切相关的变体的建筑物体中，有些可能失败，而其他一些可能成功——也许是因为微小的区别，比如过于鲜艳的外观。对于建筑失败的一个可行解释要么包容这些特征，要么将失败降低到建筑物体的某个单一维度，比如它们作为艺术物体的假设性本质（无论是失败还是其他）。
+**建筑失败。** 失败的建筑并不是失败的艺术或失败的物品的一个简单的亚种。建筑物体可能在美学上是灾难性的，但在某种整体意义上却是成功的，与非建筑艺术物体不同。建筑物体可能停止发挥功能，或者根本没有发挥功能，但在整体上仍然被认为是成功的，与一系列（尽管不是全部）非建筑物品不同。建筑失败的另一个特点——与一般设计现象一致——是建筑物体可能根据不同的情况、背景或微小的差异而被认为是成功或失败。因此，一个给定的建筑物体可能作为一个活跃和完整的建筑结构而失败，但作为废墟却不是（或者反之亦然）。这表明背景意图在早期阶段可能很重要，在建筑结构的生命周期的后期阶段可能不那么重要，并且失败可能对于建筑抽象体有一个标准，对于相应的具体体则有其他标准。此外，在具有标准的、密切相关的变体的建筑物体中，有些可能失败，而其他一些可能成功——也许是因为微小的区别，比如过于鲜艳的外观。对于建筑失败的一个可行解释要么包容这些特征，要么将失败降低到建筑物体的某个单一维度，比如它们作为艺术物体的假设性本质（无论是失败还是其他）。
 
-**腐败、废墟和保护。**  作为物理实体的建筑物体会随着时间的推移而腐败或破损，并可能以破败或废墟的形式发展出新的形态。从包容主义、具体主义的立场来看，废墟并不比相应的新建结构更低级的建筑物体。抽象主义者也可以接受包容主义，尽管她不会将它们视为同一物体，并且会认为它们都比原始物体要低级。如果我们将它们视为同一建筑物体，我们需要解释它们如何相互关联——显然不能通过意图来解释。即使建筑师设计了一条通向废墟状态的路径，实际的废墟状态很可能会采取完全不同的形状。有些人可能认为这是反对包容主义的一个论据。
+**腐败、废墟和保护。** 作为物理实体的建筑物体会随着时间的推移而腐败或破损，并可能以破败或废墟的形式发展出新的形态。从包容主义、具体主义的立场来看，废墟并不比相应的新建结构更低级的建筑物体。抽象主义者也可以接受包容主义，尽管她不会将它们视为同一物体，并且会认为它们都比原始物体要低级。如果我们将它们视为同一建筑物体，我们需要解释它们如何相互关联——显然不能通过意图来解释。即使建筑师设计了一条通向废墟状态的路径，实际的废墟状态很可能会采取完全不同的形状。有些人可能认为这是反对包容主义的一个论据。
 
 建筑师通常秉持维特鲁威的坚固性原则，并合理地假设建筑物应该持久存在，并且能够按照预期的功能使用。这种设计思维中的两种假设与具体主义相矛盾，因为物理结构的腐败和衰败以及建筑结构在生活中的常规再利用。第一个假设与永恒建筑物的抽象主义愿景一致。按照预期功能的持久性是另一回事：对于建筑抽象物来说，再利用的规定可能不会改变给定的、相同的对象的性质。根据定义对象参数的严格程度，设计上的相应变化可能会带来一个全新的对象或相似的对应物。
 
@@ -339,219 +338,219 @@ Goodman 提出了一种对建筑中语言现象的替代看法（1968 年），�
 
 ## Bibliography
 
-* Acharya, Prasanna Kumar, 1928, *Indian Architecture according to Mānasāra-śilpaśāstra* [*Mānasāra* English trans.] London: Oxford University Press.
-* Alberti, Leon Battista, 1485, *On the Art of Building in Ten Books* (*De re aedificatoria*, Florence: Niccolò di Lorenzo), Joseph Rykwert, Robert Tavernor, and Neil Leach (trans.), Cambridge, MA: The MIT Press, 1988.
-* Alexander, Christopher, 1979, *The Timeless Way of Building*. Oxford: Oxford University Press.
-* Alexander, Christopher, Sara Ishikawa, and Murray Silverstein, 1977, *A Pattern Language: Towns, Buildings, Construction*, Oxford: Oxford University Press.
-* Anderson, James C. and Jeffrey T. Dean, 1998, “Moderate Autonomism”, *British Journal of Aesthetics*, 38(2): 150–166.
-* Bacon, Francis, 1625, *The Essays or Counsels Civil and Moral* (London: Iohn Haviland for Hanna Barret), Brian Vickers (ed.), Oxford: Oxford University Press, 1999.
+* Acharya, Prasanna Kumar, 1928, _Indian Architecture according to Mānasāra-śilpaśāstra_ \[_Mānasāra_ English trans.] London: Oxford University Press.
+* Alberti, Leon Battista, 1485, _On the Art of Building in Ten Books_ (_De re aedificatoria_, Florence: Niccolò di Lorenzo), Joseph Rykwert, Robert Tavernor, and Neil Leach (trans.), Cambridge, MA: The MIT Press, 1988.
+* Alexander, Christopher, 1979, _The Timeless Way of Building_. Oxford: Oxford University Press.
+* Alexander, Christopher, Sara Ishikawa, and Murray Silverstein, 1977, _A Pattern Language: Towns, Buildings, Construction_, Oxford: Oxford University Press.
+* Anderson, James C. and Jeffrey T. Dean, 1998, “Moderate Autonomism”, _British Journal of Aesthetics_, 38(2): 150–166.
+* Bacon, Francis, 1625, _The Essays or Counsels Civil and Moral_ (London: Iohn Haviland for Hanna Barret), Brian Vickers (ed.), Oxford: Oxford University Press, 1999.
 * Baird, George, 1969, “‘La Dimension Amoureuse’ in Architecture”, in Jencks and Baird 1969: 78–99.
-* Batteux, Charles, 1746, *Les Beaux-Arts réduits à un même principe* (Paris: Durand), reprint of 1746 ed., Paris: Amateurs des livres, 1989.
-* Beardsley, Monroe, 1958/1981, *Aesthetics: Problems in the Philosophy of Criticism*, Harcourt, Brace & World, 1st edition; Indianapolis: Hackett Publishing Company, Inc., 2nd edition.
-* Bentham, Jeremy, 1787, “Panopticon; or, The Inspection-House”, in John Bowring (ed.), *The Works of Jeremy Bentham, 4*, Edinburgh: William Tait, 1843; also in Miran Božovič (ed.), *The Panopticon Writings*, London: Verso, 1995.
-* Berkeley, George, 1732, *Alciphron, or the Minute Philosopher*, in *Alciphron or the Minute Philosopher in Focus*, David Berman (ed.), London: Routledge, 1993.
-* Berleant Arnold, 2007, “Cultivating an Urban Aesthetic”, in Arnold Berleant and Allen Carlson (eds.), *The Aesthetics of Human Environments*, Peterborough: Broadview Press, pp. 79–91.
-* Bicknell, Jeanette, 2014, “Architectural Ghosts”, *Journal of Aesthetics and Art Criticism*, 72(4): 435–441.
-* Blondel, François, 1675–1683, *Cours d’architecture enseigné dans l’Académie royale d’architecture*, Paris: P. Auboin et F. Clouzier.
-* Borissavliévitch, Miloutine [Borisavljevic, Milutin], 1923, *Prolégomènes a une Esthétique Scientifique de l’Architecture*, Paris: Fischbacher.
-* –––, 1954, *Traite d’Esthétique Scientifique de l’Architecture*, Paris: Albert Blanchard.
-* Bosse, Abraham, 1643, *La manière universelle de Mr. Desargues, Lyonnais*, Paris: Pierre Des-Hayes.
-* Boyce, James R., 1969, “What is the Systems Approach”, *Progressive Architecture*, 50(11): 118–121.
-* Buchenau, Stefanie, 2013, *The Founding of Aesthetics in the German Enlightenment*, Cambridge: Cambridge University Press.
-* Burry, Jane and Mark Burry, 2012, *The New Mathematics of Architecture*, London: Thames & Hudson.
-* Caicco, Gregory, 2005, “Architectural Ethics”, in Carl Mitcham (ed.), *Encyclopedia of Science, Technology and Ethics*, Detroit: Macmillan Reference, pp. 97–102.
-* Capdevila-Werning, Remei, 2013, “Constructing the Absent—Preservation and Restoration of Architecture”, *Proceedings of the European Society for Aesthetics*, *5*: 163–177.
+* Batteux, Charles, 1746, _Les Beaux-Arts réduits à un même principe_ (Paris: Durand), reprint of 1746 ed., Paris: Amateurs des livres, 1989.
+* Beardsley, Monroe, 1958/1981, _Aesthetics: Problems in the Philosophy of Criticism_, Harcourt, Brace & World, 1st edition; Indianapolis: Hackett Publishing Company, Inc., 2nd edition.
+* Bentham, Jeremy, 1787, “Panopticon; or, The Inspection-House”, in John Bowring (ed.), _The Works of Jeremy Bentham, 4_, Edinburgh: William Tait, 1843; also in Miran Božovič (ed.), _The Panopticon Writings_, London: Verso, 1995.
+* Berkeley, George, 1732, _Alciphron, or the Minute Philosopher_, in _Alciphron or the Minute Philosopher in Focus_, David Berman (ed.), London: Routledge, 1993.
+* Berleant Arnold, 2007, “Cultivating an Urban Aesthetic”, in Arnold Berleant and Allen Carlson (eds.), _The Aesthetics of Human Environments_, Peterborough: Broadview Press, pp. 79–91.
+* Bicknell, Jeanette, 2014, “Architectural Ghosts”, _Journal of Aesthetics and Art Criticism_, 72(4): 435–441.
+* Blondel, François, 1675–1683, _Cours d’architecture enseigné dans l’Académie royale d’architecture_, Paris: P. Auboin et F. Clouzier.
+* Borissavliévitch, Miloutine \[Borisavljevic, Milutin], 1923, _Prolégomènes a une Esthétique Scientifique de l’Architecture_, Paris: Fischbacher.
+* –––, 1954, _Traite d’Esthétique Scientifique de l’Architecture_, Paris: Albert Blanchard.
+* Bosse, Abraham, 1643, _La manière universelle de Mr. Desargues, Lyonnais_, Paris: Pierre Des-Hayes.
+* Boyce, James R., 1969, “What is the Systems Approach”, _Progressive Architecture_, 50(11): 118–121.
+* Buchenau, Stefanie, 2013, _The Founding of Aesthetics in the German Enlightenment_, Cambridge: Cambridge University Press.
+* Burry, Jane and Mark Burry, 2012, _The New Mathematics of Architecture_, London: Thames & Hudson.
+* Caicco, Gregory, 2005, “Architectural Ethics”, in Carl Mitcham (ed.), _Encyclopedia of Science, Technology and Ethics_, Detroit: Macmillan Reference, pp. 97–102.
+* Capdevila-Werning, Remei, 2013, “Constructing the Absent—Preservation and Restoration of Architecture”, _Proceedings of the European Society for Aesthetics_, _5_: 163–177.
 * Carlson, Allen, 1994, “Existence, Location, and Function: The Appreciation of Architecture”, in Mitias 1994: 141–164.
-* –––, 1999, “The Aesthetic Appreciation of Everyday Architecture”, *Architecture and Civilization*, in Mitias 1999a: 107–121.
-* –––, 2000, *Aesthetics and the Environment: The Appreciation of Nature, Art and Architecture*, London: Routledge.
-* Carroll, Noël, 1996, “Moderate Moralism”, *British Journal of Aesthetics*, 36(3): 223–238.
-* Clarke, Georgia and Paul Crossley (eds.), 2000, *Architecture and Language: Constructing Identity in European Architecture c. 1000–1650*, Cambridge: Cambridge University Press.
-* Currie, Gregory, 1989, *An Ontology of Art*. London: Palgrave Macmillan.
-* Cushman, Robert F. and G. Christian Hedemann, 1995, *Architect and Engineer Liability: Claims Against Design Professionals*, New York: Wiley Law Publications.
-* Danto, Arthur, 1964, “The Artworld”,*The Journal of Philosophy*, 61(19): 571–584.
-* –––, 1993, “Responses and Replies”, in Mark Rollins (ed.), *Danto and His Critics*, Oxford: Blackwell, pp. 193–216.
-* Davies, David, 2004, *Art as Performance*. Malden, MA: Blackwell.
-* Davies, Stephen, 1991, *Definitions of Art*, Ithaca, NY: Cornell University Press.
+* –––, 1999, “The Aesthetic Appreciation of Everyday Architecture”, _Architecture and Civilization_, in Mitias 1999a: 107–121.
+* –––, 2000, _Aesthetics and the Environment: The Appreciation of Nature, Art and Architecture_, London: Routledge.
+* Carroll, Noël, 1996, “Moderate Moralism”, _British Journal of Aesthetics_, 36(3): 223–238.
+* Clarke, Georgia and Paul Crossley (eds.), 2000, _Architecture and Language: Constructing Identity in European Architecture c. 1000–1650_, Cambridge: Cambridge University Press.
+* Currie, Gregory, 1989, _An Ontology of Art_. London: Palgrave Macmillan.
+* Cushman, Robert F. and G. Christian Hedemann, 1995, _Architect and Engineer Liability: Claims Against Design Professionals_, New York: Wiley Law Publications.
+* Danto, Arthur, 1964, “The Artworld”,_The Journal of Philosophy_, 61(19): 571–584.
+* –––, 1993, “Responses and Replies”, in Mark Rollins (ed.), _Danto and His Critics_, Oxford: Blackwell, pp. 193–216.
+* Davies, David, 2004, _Art as Performance_. Malden, MA: Blackwell.
+* Davies, Stephen, 1991, _Definitions of Art_, Ithaca, NY: Cornell University Press.
 * –––, 1994, “Is Architecture Art?” in Mitias 1994: 31–47.
-* –––, 2006, “Aesthetic Judgment, Artworks and Functional Beauty”, *Philosophical Quarterly*, 56(223): 224–241.
-* Day, Henry Noble, 1872/1888, *The Science of Aesthetics, or the nature, kinds, laws, and uses of Beauty*, New York: Putnam, 3rd Edition.
-* De Clercq, Rafael, 2008, “Lopes on the Ontology of Japanese Shrines”, *Journal of Aesthetics and Art Criticism*, 66(2): 193–194.
-* –––, 2009, “Scruton on Rightness of Proportion in Architecture”,*British Journal of Aesthetics*, 49(4): 405–414.
-* –––, 2012, “Architecture”, in Anna Christina Ribeiro (ed.), *The Continuum Companion to Aesthetics*, London: Continuum, pp. 201–214.
-* Desargues, Girard, 1642, *La Perspective practique necessaire a tous peintres, sculpteurs, graveurs, architectes, orphevres, brodeurs, tapissiers, et autres se servans du dessein*, Paris: Melchior Tavernier et François Langlois, dit Chartres.
-* Dodd, Julian, 2007, *Works of Music: An Essay in Ontology*, Oxford: Oxford University Press.
-* Donougho, Martin, 1987, “The Language of Architecture”, *Journal of Aesthetic Education*, 21(3): 53–67.
-* Dutton, Denis, 1979, “Artistic Crimes”, *British Journal of Aesthetics*, 19(4): 302–314.
-* Eaton, Ruth, 2002, *Ideal Cities: Utopianism and the (Un)built Environment*, London: Thames & Hudson.
-* Eco, Umberto, 1968, “Function and Sign: Semiotics of Architecture”, (“La funzione e il segno (semiologia dell’architettura)”, in *La struttura assente: Introduzione alla ricerca semiologica*, Milan: Bompiani), in *Rethinking Architecture: A Reader in Cultural Theory*, Neil Leach (ed.), New York: Routledge, 1977, pp. 166–204.
-* Eisenman, Peter, 2004, *Eisenman Inside Out: Selected Writings, 1963–1988*, New Haven: Yale University Press.
-* Essbach, Wolfgang, 2004, “In Gesellschaft der Dinge. Einleitung”, in Stefan Kaufmann, Wolfgang Essbach, Dirk Verdicchio, Wolfram Lutterer, Silke Bellanger, and Gereon Uerz (eds.), *Landschaft, Geschlecht, Artefakte*, *Zur Soziologie naturaler und artifizieller Alterität*, Würzburg: Ergon-Verlag, pp. 17–24.
-* Fechner, Gustav, 1876, *Vorschule der Ästhetik*, Leipzig: Breitkopf und Härtel.
-* Feng Jiren, 2012, *Chinese Architecture and Metaphor: Song Culture in the Yingzao Fashi Building Manual*, Honolulu: University of Hawai’i Press.
-* Fisher, Saul, 2000a, “How to Think About the Ethics of Architecture”, Warwick Fox (ed.), *Ethics and the Built Environment*, London: Routledge, pp. 170–182.
-* –––, 2000b, “Architectural Notation and Computer Aided Design”, *Journal of Aesthetics and Art Criticism*, 58(3): 273–289.
-* –––, 2002, “Why Is Architecture a ‘Social’ Art”, in C. Gould (ed.), *Constructivism and Practice: Towards a Historical Epistemology*, Lanham, MD: Rowman and Littlefield, pp. 193–203.
-* Fisher, Thomas, 2010, *Ethics for Architects: 50 Dilemmas of Professional Practice*, Princeton: Princeton Architectural Press.
-* Forty, Adrian, 2000, *Words and Buildings: A Vocabulary of Modern Architecture*, London: Thames and Hudson.
-* Foucault, Michel, 1975, *Discipline and Punish: The Birth of the Prison* (*Surveiller et punir: Naissance de la prison*; Paris: Gallimard) Alan Sheridan (trans.), New York: Vintage Books, 1979.
-* Frampton, Kenneth, 2001, *Studies in Tectonic Culture: The Poetics of Construction in Nineteenth and Twentieth Century Architecture*, Cambridge, MA: The MIT Press.
-* Gadamer, Hans-Georg, 1960, *Truth and Method*, Joel Weinsheimer and Donald G. Marshall (rev. trans.), London and NY: Continuum, 2nd edition, 1989.
-* Gaut, Berys, 1998, “The Ethical Criticism of Art”, in Jerrold Levinson (ed.), *Aesthetics and Ethics: Essays at the Intersection*, Cambridge: Cambridge University Press, pp. 182–203.
-* Gieryn, Thomas F., 2002, “What Buildings Do”, *Theory and Society*, 31(1): 35–74.
+* –––, 2006, “Aesthetic Judgment, Artworks and Functional Beauty”, _Philosophical Quarterly_, 56(223): 224–241.
+* Day, Henry Noble, 1872/1888, _The Science of Aesthetics, or the nature, kinds, laws, and uses of Beauty_, New York: Putnam, 3rd Edition.
+* De Clercq, Rafael, 2008, “Lopes on the Ontology of Japanese Shrines”, _Journal of Aesthetics and Art Criticism_, 66(2): 193–194.
+* –––, 2009, “Scruton on Rightness of Proportion in Architecture”,_British Journal of Aesthetics_, 49(4): 405–414.
+* –––, 2012, “Architecture”, in Anna Christina Ribeiro (ed.), _The Continuum Companion to Aesthetics_, London: Continuum, pp. 201–214.
+* Desargues, Girard, 1642, _La Perspective practique necessaire a tous peintres, sculpteurs, graveurs, architectes, orphevres, brodeurs, tapissiers, et autres se servans du dessein_, Paris: Melchior Tavernier et François Langlois, dit Chartres.
+* Dodd, Julian, 2007, _Works of Music: An Essay in Ontology_, Oxford: Oxford University Press.
+* Donougho, Martin, 1987, “The Language of Architecture”, _Journal of Aesthetic Education_, 21(3): 53–67.
+* Dutton, Denis, 1979, “Artistic Crimes”, _British Journal of Aesthetics_, 19(4): 302–314.
+* Eaton, Ruth, 2002, _Ideal Cities: Utopianism and the (Un)built Environment_, London: Thames & Hudson.
+* Eco, Umberto, 1968, “Function and Sign: Semiotics of Architecture”, (“La funzione e il segno (semiologia dell’architettura)”, in _La struttura assente: Introduzione alla ricerca semiologica_, Milan: Bompiani), in _Rethinking Architecture: A Reader in Cultural Theory_, Neil Leach (ed.), New York: Routledge, 1977, pp. 166–204.
+* Eisenman, Peter, 2004, _Eisenman Inside Out: Selected Writings, 1963–1988_, New Haven: Yale University Press.
+* Essbach, Wolfgang, 2004, “In Gesellschaft der Dinge. Einleitung”, in Stefan Kaufmann, Wolfgang Essbach, Dirk Verdicchio, Wolfram Lutterer, Silke Bellanger, and Gereon Uerz (eds.), _Landschaft, Geschlecht, Artefakte_, _Zur Soziologie naturaler und artifizieller Alterität_, Würzburg: Ergon-Verlag, pp. 17–24.
+* Fechner, Gustav, 1876, _Vorschule der Ästhetik_, Leipzig: Breitkopf und Härtel.
+* Feng Jiren, 2012, _Chinese Architecture and Metaphor: Song Culture in the Yingzao Fashi Building Manual_, Honolulu: University of Hawai’i Press.
+* Fisher, Saul, 2000a, “How to Think About the Ethics of Architecture”, Warwick Fox (ed.), _Ethics and the Built Environment_, London: Routledge, pp. 170–182.
+* –––, 2000b, “Architectural Notation and Computer Aided Design”, _Journal of Aesthetics and Art Criticism_, 58(3): 273–289.
+* –––, 2002, “Why Is Architecture a ‘Social’ Art”, in C. Gould (ed.), _Constructivism and Practice: Towards a Historical Epistemology_, Lanham, MD: Rowman and Littlefield, pp. 193–203.
+* Fisher, Thomas, 2010, _Ethics for Architects: 50 Dilemmas of Professional Practice_, Princeton: Princeton Architectural Press.
+* Forty, Adrian, 2000, _Words and Buildings: A Vocabulary of Modern Architecture_, London: Thames and Hudson.
+* Foucault, Michel, 1975, _Discipline and Punish: The Birth of the Prison_ (_Surveiller et punir: Naissance de la prison_; Paris: Gallimard) Alan Sheridan (trans.), New York: Vintage Books, 1979.
+* Frampton, Kenneth, 2001, _Studies in Tectonic Culture: The Poetics of Construction in Nineteenth and Twentieth Century Architecture_, Cambridge, MA: The MIT Press.
+* Gadamer, Hans-Georg, 1960, _Truth and Method_, Joel Weinsheimer and Donald G. Marshall (rev. trans.), London and NY: Continuum, 2nd edition, 1989.
+* Gaut, Berys, 1998, “The Ethical Criticism of Art”, in Jerrold Levinson (ed.), _Aesthetics and Ethics: Essays at the Intersection_, Cambridge: Cambridge University Press, pp. 182–203.
+* Gieryn, Thomas F., 2002, “What Buildings Do”, _Theory and Society_, 31(1): 35–74.
 * Ginsburg Robert, 1994, “Aesthetics in Hiroshima”, in Mitias 1994: 221–234.
-* Göller, Adolf, 1887, “What is the Cause of the Perpetual Style Change in Architecture”, (“Was ist die Ursache der immerwährenden Stilveränderung in der Architectur”, in *Zur Aesthetik der Architektur: Vorträge und Studien*, Stuttgart: Konrad Wittwer, 1887, pp. 1–48), in Mallgrave and Ikonomou 1994, pp. 193–225.
-* Goodman, Nelson, 1968/1976, *Languages of Art*, Indianapolis, IN: Hackett Publishing Company, 2nd edition.
-* –––, 1985, “How Buildings Mean”, *Critical Inquiry*, 11(4): 642–653.
-* Graham, Gordon, 1989, “Art and Architecture”, *British Journal of Aesthetics*, 29(3): 248–257.
-* –––, 2012, “Scruton on Architecture”, in Andy Hamilton, Nick Zangwill (eds.), *Scruton’s Aesthetics*, London: Palgrave Macmillan, pp. 164–176.
-* Greenstreet, Robert, 1998, “The Case for Copyright: Protecting Originality and the Architect’s Rights of Ownership”, *AIArchitect*, (March): 20.
-* Gutman, Robert, 1988, *Architectural Practice: A Critical View*, Princeton: Princeton Architectural Press.
-* Guyer, Paul, 2014, “18th Century German Aesthetics” (Spring 2014 Edition), Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy*, URL = <https://plato.stanford.edu/archives/spr2014/entries/aesthetics-18th-german/>
-* –––, 2011, “Kant and the Philosophy of Architecture”, *Journal of Aesthetics and Art Criticism*, 69: 7–19.
-* Halbwachs, Maurice, 1938,*Population and society: introduction to social morphology* (*Morphologie sociale*, Paris: Librairie Armand Colin), Otis Dudley Duncan and Harold W. Pfautz (trans.), Glencoe, Ill., Free Press, 1960.
-* Haldane, John, 1990, “Architecture, Philosophy and the Public World”, *British Journal of Aesthetics*, 30: 207–213.
-* Handler, A. Benjamin, 1970, *Systems Approach to Architecture*, New York: American Elsevier Pub. Co.
-* Hansell, Mike, 2007, *Built by Animals*, Oxford: Oxford University Press.
-* Harries, Karsten, 1997, *The Ethical Function of Architecture*, Cambridge, MA: The MIT Press.
-* Hartmann, Nicolai, 1953, *Ästhetik*, Berlin: De Gruyter.
-* Hatfield, Gary, 1993, “Helmholtz and Classicism: The Science of Aesthetics and the Aesthetics of Science”, in David Cahan (ed.), *Hermann von Helmholtz and the Foundations of Nineteenth-Century Science*, Berkeley: University of California Press, pp. 522–58.
-* Hegel, G.W.F., 1826, *Aesthetics: Lectures on Fine Art*, T.M. Knox (trans.), Oxford: Clarendon Press, 1975.
-* Heidegger, Martin, 1951, “Building, dwelling, thinking”, in *Poetry, Language, Thought*, Albert Hofstadter (trans.), New York: Harper and Row, 1975, pp. 145–161.
-* Hillier, Bill and Julienne Hanson, 1984, *The Social Logic of Space*, Cambridge: Cambridge University Press.
-* Hintikka, Jaakko, 1974, “Practical vs. Theoretical Reason—An Ambiguous Legacy”, in Stephan Körner (ed.), *Practical Reason*, Oxford: Basil Blackwell, pp. 83–102.
-* Holl, Steven, Juhani Pallasmaa, and Alberto Pérez-Gómez, 1994, “Questions of Perception: Phenomenology of Architecture”, special issue of *Architecture and Urbanism*, (July), Tokyo: A + U Publishing.
-* Hume, David, 1739-40, *A Treatise of Human Nature*, L. A. Selby-Bigge (ed.), Oxford: Oxford University Press, 1960.
-* Ingarden, Roman, 1962, *The Ontology of the Work of Art* (*Untersuchungen zur Ontologie der Kunst: Musikwerk. Bild. Architektur. Film.*, Tübingen: Max Niemeyer), Raymond Meyer with John T. Goldthwait (trans.), Athens, Ohio: Ohio University Press, 1989.
-* Iseminger, Gary, 1981, “Aesthetic Appreciation”, *Journal of Aesthetics and Art Criticism*, 39(4): 389–397
+* Göller, Adolf, 1887, “What is the Cause of the Perpetual Style Change in Architecture”, (“Was ist die Ursache der immerwährenden Stilveränderung in der Architectur”, in _Zur Aesthetik der Architektur: Vorträge und Studien_, Stuttgart: Konrad Wittwer, 1887, pp. 1–48), in Mallgrave and Ikonomou 1994, pp. 193–225.
+* Goodman, Nelson, 1968/1976, _Languages of Art_, Indianapolis, IN: Hackett Publishing Company, 2nd edition.
+* –––, 1985, “How Buildings Mean”, _Critical Inquiry_, 11(4): 642–653.
+* Graham, Gordon, 1989, “Art and Architecture”, _British Journal of Aesthetics_, 29(3): 248–257.
+* –––, 2012, “Scruton on Architecture”, in Andy Hamilton, Nick Zangwill (eds.), _Scruton’s Aesthetics_, London: Palgrave Macmillan, pp. 164–176.
+* Greenstreet, Robert, 1998, “The Case for Copyright: Protecting Originality and the Architect’s Rights of Ownership”, _AIArchitect_, (March): 20.
+* Gutman, Robert, 1988, _Architectural Practice: A Critical View_, Princeton: Princeton Architectural Press.
+* Guyer, Paul, 2014, “18th Century German Aesthetics” (Spring 2014 Edition), Edward N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_, URL = [https://plato.stanford.edu/archives/spr2014/entries/aesthetics-18th-german/](https://plato.stanford.edu/archives/spr2014/entries/aesthetics-18th-german/)
+* –––, 2011, “Kant and the Philosophy of Architecture”, _Journal of Aesthetics and Art Criticism_, 69: 7–19.
+* Halbwachs, Maurice, 1938,_Population and society: introduction to social morphology_ (_Morphologie sociale_, Paris: Librairie Armand Colin), Otis Dudley Duncan and Harold W. Pfautz (trans.), Glencoe, Ill., Free Press, 1960.
+* Haldane, John, 1990, “Architecture, Philosophy and the Public World”, _British Journal of Aesthetics_, 30: 207–213.
+* Handler, A. Benjamin, 1970, _Systems Approach to Architecture_, New York: American Elsevier Pub. Co.
+* Hansell, Mike, 2007, _Built by Animals_, Oxford: Oxford University Press.
+* Harries, Karsten, 1997, _The Ethical Function of Architecture_, Cambridge, MA: The MIT Press.
+* Hartmann, Nicolai, 1953, _Ästhetik_, Berlin: De Gruyter.
+* Hatfield, Gary, 1993, “Helmholtz and Classicism: The Science of Aesthetics and the Aesthetics of Science”, in David Cahan (ed.), _Hermann von Helmholtz and the Foundations of Nineteenth-Century Science_, Berkeley: University of California Press, pp. 522–58.
+* Hegel, G.W.F., 1826, _Aesthetics: Lectures on Fine Art_, T.M. Knox (trans.), Oxford: Clarendon Press, 1975.
+* Heidegger, Martin, 1951, “Building, dwelling, thinking”, in _Poetry, Language, Thought_, Albert Hofstadter (trans.), New York: Harper and Row, 1975, pp. 145–161.
+* Hillier, Bill and Julienne Hanson, 1984, _The Social Logic of Space_, Cambridge: Cambridge University Press.
+* Hintikka, Jaakko, 1974, “Practical vs. Theoretical Reason—An Ambiguous Legacy”, in Stephan Körner (ed.), _Practical Reason_, Oxford: Basil Blackwell, pp. 83–102.
+* Holl, Steven, Juhani Pallasmaa, and Alberto Pérez-Gómez, 1994, “Questions of Perception: Phenomenology of Architecture”, special issue of _Architecture and Urbanism_, (July), Tokyo: A + U Publishing.
+* Hume, David, 1739-40, _A Treatise of Human Nature_, L. A. Selby-Bigge (ed.), Oxford: Oxford University Press, 1960.
+* Ingarden, Roman, 1962, _The Ontology of the Work of Art_ (_Untersuchungen zur Ontologie der Kunst: Musikwerk. Bild. Architektur. Film._, Tübingen: Max Niemeyer), Raymond Meyer with John T. Goldthwait (trans.), Athens, Ohio: Ohio University Press, 1989.
+* Iseminger, Gary, 1981, “Aesthetic Appreciation”, _Journal of Aesthetics and Art Criticism_, 39(4): 389–397
 * Jencks, Charles, 1969, “Semiology and Architecture”, in Jencks and Baird 1969: 10–25.
-* –––, 1977, *The Language of Post-Modern Architecture*, New York: Rizzoli.
-* Jencks, Charles and George Baird (eds.), 1969, *Meaning in Architecture*, London: Barrie and Jenkins.
-* Johnson, Paul-Allen, 1994, *The Theory of Architecture—Concepts, Themes, and Practices*. New York: Van Nostrand Reinhold.
-* Kania, Andrew, 2008, “New Waves in Musical Ontology”, in *New Waves in Aesthetics*, Kathleen Stock and Katherine Thomson-Jones (ed.), Houndmills: Palgrave Macmillan, pp. 20–40.
-* Kant, Immanuel, 1790, *Critique of the Power of Judgment*, Paul Guyer (ed.); Paul Guyer and Eric Mathews (trans.), Cambridge: Cambridge University Press, 2000.
-* Kieran, Matthew, 2001, “In Defence of the Ethical Evaluation of Art”, *British Journal of Aesthetics*, 41: 337–351.
-* Kieran, Matthew and Dominic McIver Lopes (eds.), 2006, *Knowing Art: Essays in Aesthetics and Epistemology*, Dordrecht: Springer.
-* Kivy, Peter, 1983, “Platonism in Music: A Kind of Defense”, *Grazer Philosophische Studien*, 19: 109–129.
-* Koenig, Giovanni Klaus, 1964, *Analisi del linguaggio architettonico*, Firenze: Libreria editrice fiorentina.
-* –––, 1970, *Architettura e communicazione*, Firenze: Libreria editrice fiorentina.
-* Koolhaas Rem, 1978, *Delirious New York: a retroactive manifesto for Manhattan*, Oxford: Oxford University Press.
-* Korab-Karpowicz, W. Julian, 2012, “Schopenhauer’s Theory of Architecture”, in Bart Vandenabeele (ed.), *A Companion to Schopenhauer*, London: Blackwell Publishing, pp. 178–192.
-* Krier, Léon, 2009, *The Architecture of Community*, Dhiru A. Thadani & Peter J. Hetzel (eds.), Washington, DC: Island Press.
-* Kruft, Hanno-Walter, 1994, *A History of Architectural Theory: From Vitruvius to the Present*, Princeton: Princeton Architectural Press.
-* Langer, Susanne K., 1953, *Feeling and Form*, New York: Macmillan Publishing Company.
-* –––, 1967, *Mind: An Essay on Human Feeling*, Baltimore: The Johns Hopkins University Press.
-* Laugier, Marc Antoine, 1753/1755, *Essai sur l’architecture*, Paris: Duchesne.
-* Lavin, Sylvia, 1992, *Quatremère de Quincy and the Invention of a Modern Language of Architecture*, Cambridge, MA: The MIT Press.
-* –––, 2004, *Form Follows Libido: Architecture and Richard Neutra in a Psychoanalytic Culture*, Cambridge, MA: The MIT Press.
-* Le Corbusier, 1923, *Toward A New Architecture* (*Vers Une Architecture*, Paris: G. Crès et Cie), Frederick Etchells (trans.), New York: Praeger, 1960; John Goodman (trans.) Santa Monica, CA: Getty Publications, 2007.
-* Leder, Helmut; Benno Belke; Andries Oeberst; and Dorothee Augustin, 2004, “A Model of Aesthetic Appreciation and Aesthetic Judgments”, *British Journal of Psychology*, 95(4): 489–508.
-* Lefebvre, Henri, 1970, *The Urban Revolution* (*La révolution urbaine*, Paris: Gallimard), Robert Bononno (trans.), Minneapolis: University of Minnesota Press, 2003.
-* –––, 1974, *The Production of Space* (*La production de l’espace*, Paris: Anthropos), Donald Nicholson-Smith (trans.), Oxford: Basil Blackwell, 1991.
-* Levinson, Jerrold, 2007, “Artworks as Artifacts”, in Eric Margolis and Stephen Laurence (eds.), *Creations of the Mind: Theories of Artifacts and Their Representation*, Oxford: Oxford University Press, pp. 74–84.
-* Livingston, Paisley, 2011, revised 2013, “History of the Ontology of Art” (Summer 2013 Edition), Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy*, URL= <[History of the Ontology of Art (Stanford Encyclopedia of Philosophy/Summer 2013 Edition)](https://plato.stanford.edu/archives/sum2013/entries/art-ontology-history/)>
-* Loos, Adolf, 1913, “Ornament and Crime” (“Ornement et crime”, *Cahiers d'aujourd'hui* (5): 247–256), in Ulrich Conrads (ed.), *Programs and Manifestoes on 20th Century Architecture*, Cambridge, MA: The MIT Press, 1970, pp. 19–24.
-* Lopes, Dominic Mciver, 2007, “Shikinen Sengu and the Ontology of Architecture in Japan”, *Journal of Aesthetics and Art Criticism*, 65(1): 77–84.
-* Mallgrave, Harry Francis, 2005, *Modern Architectural Theory: A Historical Survey, 1673–1969*, Cambridge: Cambridge University Press.
-* Mallgrave, Harry Francis and Eleftherios Ikonomou (eds. and trans.), 1994, *Empathy, Form and Space: Problems in German Aesthetics, 1873–1893*, Santa Monica: Getty Centre for the History of Art and the Humanities.
+* –––, 1977, _The Language of Post-Modern Architecture_, New York: Rizzoli.
+* Jencks, Charles and George Baird (eds.), 1969, _Meaning in Architecture_, London: Barrie and Jenkins.
+* Johnson, Paul-Allen, 1994, _The Theory of Architecture—Concepts, Themes, and Practices_. New York: Van Nostrand Reinhold.
+* Kania, Andrew, 2008, “New Waves in Musical Ontology”, in _New Waves in Aesthetics_, Kathleen Stock and Katherine Thomson-Jones (ed.), Houndmills: Palgrave Macmillan, pp. 20–40.
+* Kant, Immanuel, 1790, _Critique of the Power of Judgment_, Paul Guyer (ed.); Paul Guyer and Eric Mathews (trans.), Cambridge: Cambridge University Press, 2000.
+* Kieran, Matthew, 2001, “In Defence of the Ethical Evaluation of Art”, _British Journal of Aesthetics_, 41: 337–351.
+* Kieran, Matthew and Dominic McIver Lopes (eds.), 2006, _Knowing Art: Essays in Aesthetics and Epistemology_, Dordrecht: Springer.
+* Kivy, Peter, 1983, “Platonism in Music: A Kind of Defense”, _Grazer Philosophische Studien_, 19: 109–129.
+* Koenig, Giovanni Klaus, 1964, _Analisi del linguaggio architettonico_, Firenze: Libreria editrice fiorentina.
+* –––, 1970, _Architettura e communicazione_, Firenze: Libreria editrice fiorentina.
+* Koolhaas Rem, 1978, _Delirious New York: a retroactive manifesto for Manhattan_, Oxford: Oxford University Press.
+* Korab-Karpowicz, W. Julian, 2012, “Schopenhauer’s Theory of Architecture”, in Bart Vandenabeele (ed.), _A Companion to Schopenhauer_, London: Blackwell Publishing, pp. 178–192.
+* Krier, Léon, 2009, _The Architecture of Community_, Dhiru A. Thadani & Peter J. Hetzel (eds.), Washington, DC: Island Press.
+* Kruft, Hanno-Walter, 1994, _A History of Architectural Theory: From Vitruvius to the Present_, Princeton: Princeton Architectural Press.
+* Langer, Susanne K., 1953, _Feeling and Form_, New York: Macmillan Publishing Company.
+* –––, 1967, _Mind: An Essay on Human Feeling_, Baltimore: The Johns Hopkins University Press.
+* Laugier, Marc Antoine, 1753/1755, _Essai sur l’architecture_, Paris: Duchesne.
+* Lavin, Sylvia, 1992, _Quatremère de Quincy and the Invention of a Modern Language of Architecture_, Cambridge, MA: The MIT Press.
+* –––, 2004, _Form Follows Libido: Architecture and Richard Neutra in a Psychoanalytic Culture_, Cambridge, MA: The MIT Press.
+* Le Corbusier, 1923, _Toward A New Architecture_ (_Vers Une Architecture_, Paris: G. Crès et Cie), Frederick Etchells (trans.), New York: Praeger, 1960; John Goodman (trans.) Santa Monica, CA: Getty Publications, 2007.
+* Leder, Helmut; Benno Belke; Andries Oeberst; and Dorothee Augustin, 2004, “A Model of Aesthetic Appreciation and Aesthetic Judgments”, _British Journal of Psychology_, 95(4): 489–508.
+* Lefebvre, Henri, 1970, _The Urban Revolution_ (_La révolution urbaine_, Paris: Gallimard), Robert Bononno (trans.), Minneapolis: University of Minnesota Press, 2003.
+* –––, 1974, _The Production of Space_ (_La production de l’espace_, Paris: Anthropos), Donald Nicholson-Smith (trans.), Oxford: Basil Blackwell, 1991.
+* Levinson, Jerrold, 2007, “Artworks as Artifacts”, in Eric Margolis and Stephen Laurence (eds.), _Creations of the Mind: Theories of Artifacts and Their Representation_, Oxford: Oxford University Press, pp. 74–84.
+* Livingston, Paisley, 2011, revised 2013, “History of the Ontology of Art” (Summer 2013 Edition), Edward N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_, URL= <[History of the Ontology of Art (Stanford Encyclopedia of Philosophy/Summer 2013 Edition)](https://plato.stanford.edu/archives/sum2013/entries/art-ontology-history/)>
+* Loos, Adolf, 1913, “Ornament and Crime” (“Ornement et crime”, _Cahiers d'aujourd'hui_ (5): 247–256), in Ulrich Conrads (ed.), _Programs and Manifestoes on 20th Century Architecture_, Cambridge, MA: The MIT Press, 1970, pp. 19–24.
+* Lopes, Dominic Mciver, 2007, “Shikinen Sengu and the Ontology of Architecture in Japan”, _Journal of Aesthetics and Art Criticism_, 65(1): 77–84.
+* Mallgrave, Harry Francis, 2005, _Modern Architectural Theory: A Historical Survey, 1673–1969_, Cambridge: Cambridge University Press.
+* Mallgrave, Harry Francis and Eleftherios Ikonomou (eds. and trans.), 1994, _Empathy, Form and Space: Problems in German Aesthetics, 1873–1893_, Santa Monica: Getty Centre for the History of Art and the Humanities.
 * Malo, Paul, 1999, Personal correspondence.
-* Margolis, Joseph, 1958, “The Mode of Existence of a Work of Art”, *Review of Metaphysics*, 12(1): 26–34.
-* Matravers, Derek, 1999, “Revising Principles of Architecture”, *The Journal of Architecture*, 4(1): 39–45.
-* Merleau-Ponty, Maurice, 1945, *Phénoménologie de la perception*, Paris: Gallimard, 1998.
-* Mitchell, William J., 1990, *The Logic of Architecture: Design, Computation, and Cognition*, Cambridge, MA: The MIT Press.
-* Mitias, Michael (ed.), 1994, *Philosophy and Architecture*, Amsterdam and Atlanta: Rodopi.
-* ––– (ed.), 1999a, *Architecture and Civilization*, Amsterdam and Atlanta: Rodopi.
-* –––, 1999b, “The Aesthetic Experience of the Architectural Work”, *Journal of Aesthetic Education*, 33(3): 61–77.
-* Mitrovic, Branko, 2011, *Philosophy for Architects*, Princeton: Princeton Architectural Press.
-* –––, 2013, *Visuality for Architects: Architectural Creativity and Modern Theories of Perception and Imagination*, Charlottesville, VA: University of Virginia Press.
-* Norberg-Schulz, Christian, 1965, *Intentions in Architecture*, Cambridge, MA, MIT Press.
-* –––, 1980, *Genius Loci: Towards a Phenomenology of Architecture*, London: Academy Editions; New York: Rizzoli.
-* Oliver, Paul (ed.), 1969, *Shelter and Society*, New York: Praeger.
-* Paden, Roger, 2001, “The Two Professions of Hippodamus of Miletus”, *Philosophy and Geography*, 4(1): 25–48.
-* Palladio Andrea, 1570, *The Four Books of Architecture* (*I Quattro Libri dell’Architecttura*, Venice: Dominico de’ Franceschi), Richard Schofield and Robert Tavernor (trans.), Cambridge, MA: The MIT Press, 2002.
-* Pallasmaa, Juhani, 2005, *The Eyes of the Skin: Architecture and the Senses*, Chichester: Wiley-Academy.
-* –––, 2012, *Encounters 1: Architectural Essays*, Peter MacKeith (ed.), Diana C. Tullberg, Michael Wynne-Ellis (trans.), Helsinki, Finland: Rakennustieto Oy.
-* Parsons, Glenn, 2008, “Nature, Aesthetic Values and Urban Design: Building the Natural City”, in Peter Vermaas, Pieter Kroes, Andrew Light, and Steven A. Moore (ed.), *Philosophy and Design: From Engineering to Architecture*, New York/Heidelberg: Springer, pp. 341–354.
-* Parsons, Glenn, and Allen Carlson, 2008, *Functional Beauty*, Oxford: Clarendon Press.
-* Pérez-Gómez, Alberto, 1983, *Architecture and the Crisis of Modern Science*, Cambridge, MA: The MIT Press.
-* Portoghesi, Paolo, 2000, *Nature and Architecture*, Erika G. Young (trans.), Thames & Hudson.
-* Pugin, A.W.N., 1841, *The True Principles of Christian or Pointed Architecture*, London: John Weale.
-* –––, 1843, *An Apology for the Revival of Christian Architecture in England*, London: John Weale.
-* Quatremère de Quincy, Antoine-Chrysostome, 1803, *De l’Architecture égyptienne considérée dans son origine, ses principes et son goût, et comparée sous les mêmes rapports à l’architecture grecque*, Paris: Barrois l’aîné et Fils.
-* Rapoport, Amos, 1969, *House Form and Culture*, Englewood Cliffs, NJ: Prentice Hall.
-* Rasmussen, Steen Eiler, 1959, *Experiencing Architecture*, Cambridge, MA: The MIT Press.
-* Robinson, Jenefer, 2012, “On Being Moved By Architecture”, *Journal of Aesthetics and Art Criticism*, 70(4): 337–353.
-* Robinson, Julia Williams, 2001, “The Form and Structure of Architectural Knowledge: From Practice to Discipline”, in Andrzej Piotrowski and Julia Williams Robinson (eds.), *The Discipline of Architecture*, Minneapolis, MN: University of Minnesota Press, pp. 61–82.
-* Ruskin, John, 1849, *The Seven Lamps of Architecture* (London: Smith, Elder, and Co.), New York: Dover Publications, 1989.
-* Sauchelli, Andrea, 2012a, “The Structure and Content of Architectural Experience: Scruton on Architecture as Art”, *Estetika, The Central European Journal of Aesthetics*, 49/5(1): 26–44.
-* –––, 2012b, “Functional Beauty, Architecture, and Morality: A Beautiful *Konzentrationslager*?”, *The Philosophical Quarterly*, 62(246): 128–147.
-* Schopenhauer, Arthur, 1818/1844 [*WWR*], *The World as Will and Representation*, Two volumes (*Die Welt als Wille und Vorstellung*), E. F. J. Payne (trans.), New York: Dover Publications, 1958/1969.
-* Schwarzer, Mitchell, 1996, “Schopenhauer’s Philosophy of Architecture”, in Dale Jacquette (ed.), *Schopenhauer, Philosophy and the Arts*, Cambridge: Cambridge University Press, pp. 277–298.
-* Scott, Geoffrey, 1914/1924, *The Architecture of Humanism*. New York: C. Scribner’s Sons, 2nd edition; reprint edition, Garden City, NY: Doubleday, 1954.
-* Scruton, Roger, 1979/2013, *The Aesthetics of Architecture*, Princeton: Princeton University Press. 2nd edition.
-* –––, 1994, *The Classical Vernacular: Architectural Principles in an Age of Nihilism*, New York: St. Martin’s Press.
-* Semper, Gottfried, 1860, *Style in the Technical and Tectonic Arts; or, Practical Aesthetics* (*Der Stil in der technischen und tektonischen Künsten*, 1860), Harry Francis Mallgrave and Michael Robinson (trans.), Santa Monica, Getty Center for the History of Art and the Humanities, 2004.
-* Simmel, Georg, 1903, “The Metropolis and Mental Life”, (“Die Großstädte und das Geistesleben”, in Thomas Petermann (ed.), *Die Grossstadt. Vorträge und Aufsätze zur Städteausstellung* (*Jahrbuch der Gehe-Stiftung Dresden, 9*), Dresden, pp. 185–206), in Kurt Wolff (trans.) *The Sociology of Georg Simmel*, New York: Free Press, 1950, pp. 409–424.
-* Sitte, Camillo, 1889, *City Planning According to Artistic Principles* (*Der Städtebau: nach seinen künstlerischen Grundsätzen*, Vienna: Graeser), in *Camillo Sitte: The Birth of Modern City Planning*, George R. Collins and Christiane Crasemann Collins (trans.), New York: Rizzoli, 1986.
-* Smith, Korydon (ed.), 2012, *Introducing Architectural Theory: Debating a Discipline*, New York: Routledge.
+* Margolis, Joseph, 1958, “The Mode of Existence of a Work of Art”, _Review of Metaphysics_, 12(1): 26–34.
+* Matravers, Derek, 1999, “Revising Principles of Architecture”, _The Journal of Architecture_, 4(1): 39–45.
+* Merleau-Ponty, Maurice, 1945, _Phénoménologie de la perception_, Paris: Gallimard, 1998.
+* Mitchell, William J., 1990, _The Logic of Architecture: Design, Computation, and Cognition_, Cambridge, MA: The MIT Press.
+* Mitias, Michael (ed.), 1994, _Philosophy and Architecture_, Amsterdam and Atlanta: Rodopi.
+* ––– (ed.), 1999a, _Architecture and Civilization_, Amsterdam and Atlanta: Rodopi.
+* –––, 1999b, “The Aesthetic Experience of the Architectural Work”, _Journal of Aesthetic Education_, 33(3): 61–77.
+* Mitrovic, Branko, 2011, _Philosophy for Architects_, Princeton: Princeton Architectural Press.
+* –––, 2013, _Visuality for Architects: Architectural Creativity and Modern Theories of Perception and Imagination_, Charlottesville, VA: University of Virginia Press.
+* Norberg-Schulz, Christian, 1965, _Intentions in Architecture_, Cambridge, MA, MIT Press.
+* –––, 1980, _Genius Loci: Towards a Phenomenology of Architecture_, London: Academy Editions; New York: Rizzoli.
+* Oliver, Paul (ed.), 1969, _Shelter and Society_, New York: Praeger.
+* Paden, Roger, 2001, “The Two Professions of Hippodamus of Miletus”, _Philosophy and Geography_, 4(1): 25–48.
+* Palladio Andrea, 1570, _The Four Books of Architecture_ (_I Quattro Libri dell’Architecttura_, Venice: Dominico de’ Franceschi), Richard Schofield and Robert Tavernor (trans.), Cambridge, MA: The MIT Press, 2002.
+* Pallasmaa, Juhani, 2005, _The Eyes of the Skin: Architecture and the Senses_, Chichester: Wiley-Academy.
+* –––, 2012, _Encounters 1: Architectural Essays_, Peter MacKeith (ed.), Diana C. Tullberg, Michael Wynne-Ellis (trans.), Helsinki, Finland: Rakennustieto Oy.
+* Parsons, Glenn, 2008, “Nature, Aesthetic Values and Urban Design: Building the Natural City”, in Peter Vermaas, Pieter Kroes, Andrew Light, and Steven A. Moore (ed.), _Philosophy and Design: From Engineering to Architecture_, New York/Heidelberg: Springer, pp. 341–354.
+* Parsons, Glenn, and Allen Carlson, 2008, _Functional Beauty_, Oxford: Clarendon Press.
+* Pérez-Gómez, Alberto, 1983, _Architecture and the Crisis of Modern Science_, Cambridge, MA: The MIT Press.
+* Portoghesi, Paolo, 2000, _Nature and Architecture_, Erika G. Young (trans.), Thames & Hudson.
+* Pugin, A.W.N., 1841, _The True Principles of Christian or Pointed Architecture_, London: John Weale.
+* –––, 1843, _An Apology for the Revival of Christian Architecture in England_, London: John Weale.
+* Quatremère de Quincy, Antoine-Chrysostome, 1803, _De l’Architecture égyptienne considérée dans son origine, ses principes et son goût, et comparée sous les mêmes rapports à l’architecture grecque_, Paris: Barrois l’aîné et Fils.
+* Rapoport, Amos, 1969, _House Form and Culture_, Englewood Cliffs, NJ: Prentice Hall.
+* Rasmussen, Steen Eiler, 1959, _Experiencing Architecture_, Cambridge, MA: The MIT Press.
+* Robinson, Jenefer, 2012, “On Being Moved By Architecture”, _Journal of Aesthetics and Art Criticism_, 70(4): 337–353.
+* Robinson, Julia Williams, 2001, “The Form and Structure of Architectural Knowledge: From Practice to Discipline”, in Andrzej Piotrowski and Julia Williams Robinson (eds.), _The Discipline of Architecture_, Minneapolis, MN: University of Minnesota Press, pp. 61–82.
+* Ruskin, John, 1849, _The Seven Lamps of Architecture_ (London: Smith, Elder, and Co.), New York: Dover Publications, 1989.
+* Sauchelli, Andrea, 2012a, “The Structure and Content of Architectural Experience: Scruton on Architecture as Art”, _Estetika, The Central European Journal of Aesthetics_, 49/5(1): 26–44.
+* –––, 2012b, “Functional Beauty, Architecture, and Morality: A Beautiful _Konzentrationslager_?”, _The Philosophical Quarterly_, 62(246): 128–147.
+* Schopenhauer, Arthur, 1818/1844 \[_WWR_], _The World as Will and Representation_, Two volumes (_Die Welt als Wille und Vorstellung_), E. F. J. Payne (trans.), New York: Dover Publications, 1958/1969.
+* Schwarzer, Mitchell, 1996, “Schopenhauer’s Philosophy of Architecture”, in Dale Jacquette (ed.), _Schopenhauer, Philosophy and the Arts_, Cambridge: Cambridge University Press, pp. 277–298.
+* Scott, Geoffrey, 1914/1924, _The Architecture of Humanism_. New York: C. Scribner’s Sons, 2nd edition; reprint edition, Garden City, NY: Doubleday, 1954.
+* Scruton, Roger, 1979/2013, _The Aesthetics of Architecture_, Princeton: Princeton University Press. 2nd edition.
+* –––, 1994, _The Classical Vernacular: Architectural Principles in an Age of Nihilism_, New York: St. Martin’s Press.
+* Semper, Gottfried, 1860, _Style in the Technical and Tectonic Arts; or, Practical Aesthetics_ (_Der Stil in der technischen und tektonischen Künsten_, 1860), Harry Francis Mallgrave and Michael Robinson (trans.), Santa Monica, Getty Center for the History of Art and the Humanities, 2004.
+* Simmel, Georg, 1903, “The Metropolis and Mental Life”, (“Die Großstädte und das Geistesleben”, in Thomas Petermann (ed.), _Die Grossstadt. Vorträge und Aufsätze zur Städteausstellung_ (_Jahrbuch der Gehe-Stiftung Dresden, 9_), Dresden, pp. 185–206), in Kurt Wolff (trans.) _The Sociology of Georg Simmel_, New York: Free Press, 1950, pp. 409–424.
+* Sitte, Camillo, 1889, _City Planning According to Artistic Principles_ (_Der Städtebau: nach seinen künstlerischen Grundsätzen_, Vienna: Graeser), in _Camillo Sitte: The Birth of Modern City Planning_, George R. Collins and Christiane Crasemann Collins (trans.), New York: Rizzoli, 1986.
+* Smith, Korydon (ed.), 2012, _Introducing Architectural Theory: Debating a Discipline_, New York: Routledge.
 * Sparshott, Francis, 1994, “The Aesthesis of Architecture and the Politics of Space”, in Mitias 1994: 3–20.
-* Spector, Tom, 2001, *The Ethical Architect: The Dilemma of Contemporary Practice*, New York: Princeton Architectural Press.
-* Stecker, Robert, 2010, *Aesthetics and the Philosophy of Art*, Lanham, MD: Rowman & Littlefield.
-* Sullivan, Louis, 1896, “The Tall Office Building Artistically Considered”, *Lippincott’s Magazine*, 57(March): 403–409.
-* Summerson, John, 1966, *The Classical Language of Architecture*, Cambridge, MA: The MIT Press.
-* Suppes, Patrick, 1991, “Rules of Proportion in Architecture”, *Midwest Studies in Philosophy*, 16(1): 352–358.
-* Tafuri, Manfredo, 1973, *Architecture and Utopia. Design and Capitalist Development* (*Progetto e utopia: Architettura e sviluppo capitalistico*. Bari, Laterza), Barbara Luigia La Penta (trans.), Cambridge, MA: The MIT Press, 1976.
-* Taurens, Jānis, 2008, “‘Meaning’ and ‘Context’ in the Language of Architecture”, *KOHT ja PAIK / PLACE and LOCATION - Studies in Environmental Aesthetics and Semiotics, VI*: 71–82.
-* Thomasson, Amie, 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
-* –––, 2005, “The Ontology of Art and Knowledge in Aesthetics”, *Journal of Aesthetics and Art Criticism*, 63(3): 221–229.
-* Thompson, J. Phillip, 2012, “The Politics of Planning”, in Randall Crane and Rachel Weber (eds.), *The Oxford Handbook of Urban Planning*, pp. 739–760.
-* Trivedi, Saam, 2002, “Against Musical Works as Eternal Types”, *British Journal of Aesthetics*, 42(1): 73–82.
-* van Eck, Caroline, 2000, “Architecture, language, and rhetoric in Alberti’s *De re aedificatoria*”, in Georgia Clarke and Paul Crossley (eds.), *Architecture and language: constructing identity in European architecture, c. 1000-c. 1650*, Cambridge: Cambridge University Press, pp. 72–81.
-* Venturi, Robert, Denise Scott Brown, & Steven Izenour, 1972/1977, *Learning from Las Vegas: The Forgotten Symbolism of Architectural Form*, Cambridge, MA: The MIT Press, revised edition.
-* Vesely, Dalibor, 2004, *Architecture in the Age of Divided Representation: The Question of Creativity in the Shadow of Production*, Cambridge, MA: The MIT Press.
-* Viollet-le-Duc, Eugène-Emmanuel, 1863–1872, *Entretiens sur l’architecture*, Paris: A. Morel.
-* Vitruvius, 15 BCE, *De architectura*; *Ten Books on Architecture*, Morris H. Morgan (trans.), Cambridge, MA: Harvard University Press, 1914; New York: Dover, 1960.
-* Volkelt, Johannnes I., 1905, *System der Ästhetik, I*, Munich: Beck.
-* Wagner, Otto, 1896, *Modern Architecture: A Guidebook for His Students to This Field of Art* (*Moderne Architektur*, 1896), Harry Francis Mallgrave (trans.), Santa Monica, CA: Getty Center for the History of Art and the Humanities, 1988.
-* Walton, Kendall L., 1970, “Categories of Art”, *The Philosophical Review 79* (3): 334–367.
-* Wasserman, Barry, Patrick J. Sullivan, and Gregory Palermo, 2000, *Ethics and the Practice of Architecture*, New York: John Wiley.
-* Watkin, David, 1984/2001, *Morality and Architecture Revisited*, Chicago: University of Chicago Press.
-* Wicks, Robert, 1994, “Architectural Restoration: Resurrection or Replication?”, *British Journal of Aesthetics*,34(2): 163–169.
-* Wigley, Mark, 1993, *The Architecture of Deconstruction: Derrida’s Haunt*, Cambridge, MA: The MIT Press.
-* Winckelmann, Johann Joachim, 1764, *Geschichte der Kunst des Alterthums*, Dresden: Walther.
-* Winters, Edward, 2007, *Aesthetics and Architecture*, London and New York: Continuum.
-* –––, 2011, “A Dance to the Music of Architecture”, *The Journal of Aesthetics and Art Criticism*, 69(1): 61–67.
-* Wolff, Christian, 1746, *Discursus praeliminaris de philosophia in genere: Philosophia rationalis; sive, Logica, methodo scientii ca pertractata …*, modern edition in Jean École, et al. (eds.), *Gesammelte Werke II.1, 1–3*, Hildesheim: G. Olms, 1983; *Preliminary Discourse on Philosophy in General*, Richard Blackwell (trans.), Indianapolis: Bobbs-Merrill, 1963.
-* –––, 1750–57, *Anfangsgründe der Baukunst* (*The Principles of Architecture*), in *Die Anfangsgründe aller Mathematischen Wissenschaften: Welcher die Baukunst, Artillerie und Fortification in sich enthält*, *bande 2*, Frankfurt, Leipzig, and Halle: Renger; modern edition in Jean École, et al. (eds.), *Gesammelte Werke I.12*, Hildesheim: G. Olms, 1999.
-* –––, 1751, *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen* (*German Metaphysics*), modern edition in Jean École, et al. (eds.), *Gesammelte Werke I.2, 1–2*, Hildesheim: G. Olms, 1997.
+* Spector, Tom, 2001, _The Ethical Architect: The Dilemma of Contemporary Practice_, New York: Princeton Architectural Press.
+* Stecker, Robert, 2010, _Aesthetics and the Philosophy of Art_, Lanham, MD: Rowman & Littlefield.
+* Sullivan, Louis, 1896, “The Tall Office Building Artistically Considered”, _Lippincott’s Magazine_, 57(March): 403–409.
+* Summerson, John, 1966, _The Classical Language of Architecture_, Cambridge, MA: The MIT Press.
+* Suppes, Patrick, 1991, “Rules of Proportion in Architecture”, _Midwest Studies in Philosophy_, 16(1): 352–358.
+* Tafuri, Manfredo, 1973, _Architecture and Utopia. Design and Capitalist Development_ (_Progetto e utopia: Architettura e sviluppo capitalistico_. Bari, Laterza), Barbara Luigia La Penta (trans.), Cambridge, MA: The MIT Press, 1976.
+* Taurens, Jānis, 2008, “‘Meaning’ and ‘Context’ in the Language of Architecture”, _KOHT ja PAIK / PLACE and LOCATION - Studies in Environmental Aesthetics and Semiotics, VI_: 71–82.
+* Thomasson, Amie, 1999, _Fiction and Metaphysics_, Cambridge: Cambridge University Press.
+* –––, 2005, “The Ontology of Art and Knowledge in Aesthetics”, _Journal of Aesthetics and Art Criticism_, 63(3): 221–229.
+* Thompson, J. Phillip, 2012, “The Politics of Planning”, in Randall Crane and Rachel Weber (eds.), _The Oxford Handbook of Urban Planning_, pp. 739–760.
+* Trivedi, Saam, 2002, “Against Musical Works as Eternal Types”, _British Journal of Aesthetics_, 42(1): 73–82.
+* van Eck, Caroline, 2000, “Architecture, language, and rhetoric in Alberti’s _De re aedificatoria_”, in Georgia Clarke and Paul Crossley (eds.), _Architecture and language: constructing identity in European architecture, c. 1000-c. 1650_, Cambridge: Cambridge University Press, pp. 72–81.
+* Venturi, Robert, Denise Scott Brown, & Steven Izenour, 1972/1977, _Learning from Las Vegas: The Forgotten Symbolism of Architectural Form_, Cambridge, MA: The MIT Press, revised edition.
+* Vesely, Dalibor, 2004, _Architecture in the Age of Divided Representation: The Question of Creativity in the Shadow of Production_, Cambridge, MA: The MIT Press.
+* Viollet-le-Duc, Eugène-Emmanuel, 1863–1872, _Entretiens sur l’architecture_, Paris: A. Morel.
+* Vitruvius, 15 BCE, _De architectura_; _Ten Books on Architecture_, Morris H. Morgan (trans.), Cambridge, MA: Harvard University Press, 1914; New York: Dover, 1960.
+* Volkelt, Johannnes I., 1905, _System der Ästhetik, I_, Munich: Beck.
+* Wagner, Otto, 1896, _Modern Architecture: A Guidebook for His Students to This Field of Art_ (_Moderne Architektur_, 1896), Harry Francis Mallgrave (trans.), Santa Monica, CA: Getty Center for the History of Art and the Humanities, 1988.
+* Walton, Kendall L., 1970, “Categories of Art”, _The Philosophical Review 79_ (3): 334–367.
+* Wasserman, Barry, Patrick J. Sullivan, and Gregory Palermo, 2000, _Ethics and the Practice of Architecture_, New York: John Wiley.
+* Watkin, David, 1984/2001, _Morality and Architecture Revisited_, Chicago: University of Chicago Press.
+* Wicks, Robert, 1994, “Architectural Restoration: Resurrection or Replication?”, _British Journal of Aesthetics_,34(2): 163–169.
+* Wigley, Mark, 1993, _The Architecture of Deconstruction: Derrida’s Haunt_, Cambridge, MA: The MIT Press.
+* Winckelmann, Johann Joachim, 1764, _Geschichte der Kunst des Alterthums_, Dresden: Walther.
+* Winters, Edward, 2007, _Aesthetics and Architecture_, London and New York: Continuum.
+* –––, 2011, “A Dance to the Music of Architecture”, _The Journal of Aesthetics and Art Criticism_, 69(1): 61–67.
+* Wolff, Christian, 1746, _Discursus praeliminaris de philosophia in genere: Philosophia rationalis; sive, Logica, methodo scientii ca pertractata …_, modern edition in Jean École, et al. (eds.), _Gesammelte Werke II.1, 1–3_, Hildesheim: G. Olms, 1983; _Preliminary Discourse on Philosophy in General_, Richard Blackwell (trans.), Indianapolis: Bobbs-Merrill, 1963.
+* –––, 1750–57, _Anfangsgründe der Baukunst_ (_The Principles of Architecture_), in _Die Anfangsgründe aller Mathematischen Wissenschaften: Welcher die Baukunst, Artillerie und Fortification in sich enthält_, _bande 2_, Frankfurt, Leipzig, and Halle: Renger; modern edition in Jean École, et al. (eds.), _Gesammelte Werke I.12_, Hildesheim: G. Olms, 1999.
+* –––, 1751, _Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen_ (_German Metaphysics_), modern edition in Jean École, et al. (eds.), _Gesammelte Werke I.2, 1–2_, Hildesheim: G. Olms, 1997.
 * Wölfflin, Heinrich, 1886, “Prolegomena to a Psychology of Architecture”, (“Prolegomena zu einer Psychologie der Architektur”.), in Mallgrave and Ikonomou 1994, pp. 149–187.
-* Wotton, Henry, 1624, *The Elements of Architecture*, London: I. Bill.
-* Wren, Christopher, c1670s, “Of Architecture, Tract I-V”, (*Parentalia*, London: T. Osborn and R. Dodsley, 1750), in Lydia M. Soo, 2007, *Wren’s “Tracts” on Architecture and Other Writings*, Cambridge: Cambridge University Press, pp. 153-195.
-* Wundt, Wilhelm, 1896/1907, *Outlines of Psychology* [*Grundriss der Psychologie*, Leipzig: Engelmann], C. H. Judd (trans.), St. Clair Shores, MI: Scholarly Press, 1969.
-* Yeang, Ken, 2006, *Ecodesign: A Manual for Ecological Design*, London: Wiley-Academy.
-* Zangwill, Nick, 2001, *The Metaphysics of Beauty*, Ithaca: Cornell University Press.
-* Zevi, Bruno, 1978, *The Modern Language of Architecture*, Seattle: University of Washington Press.
+* Wotton, Henry, 1624, _The Elements of Architecture_, London: I. Bill.
+* Wren, Christopher, c1670s, “Of Architecture, Tract I-V”, (_Parentalia_, London: T. Osborn and R. Dodsley, 1750), in Lydia M. Soo, 2007, _Wren’s “Tracts” on Architecture and Other Writings_, Cambridge: Cambridge University Press, pp. 153-195.
+* Wundt, Wilhelm, 1896/1907, _Outlines of Psychology_ \[_Grundriss der Psychologie_, Leipzig: Engelmann], C. H. Judd (trans.), St. Clair Shores, MI: Scholarly Press, 1969.
+* Yeang, Ken, 2006, _Ecodesign: A Manual for Ecological Design_, London: Wiley-Academy.
+* Zangwill, Nick, 2001, _The Metaphysics of Beauty_, Ithaca: Cornell University Press.
+* Zevi, Bruno, 1978, _The Modern Language of Architecture_, Seattle: University of Washington Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=architecture). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/architecture/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=architecture&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/architecture/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=architecture).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/architecture/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=architecture\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/architecture/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
 * [International Society for the Philosophy of Architecture](http://isparchitecture.com/)
 * [International Society for Architecture and Philosophy](http://www.archiphil.org/index.php/en/the-society)
-* [*Architecture Philosophy*](http://ojs.library.okstate.edu/osu/index.php/jispa/issue/archive)
+* [_Architecture Philosophy_](http://ojs.library.okstate.edu/osu/index.php/jispa/issue/archive)
 
 ## Related Entries
 
-[aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: environmental](https://plato.stanford.edu/entries/environmental-aesthetics/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [art, definition of](https://plato.stanford.edu/entries/art-definition/) | [artifact](https://plato.stanford.edu/entries/artifact/) | [beauty](https://plato.stanford.edu/entries/beauty/) | [Goodman, Nelson: aesthetics](https://plato.stanford.edu/entries/goodman-aesthetics/) | [Ingarden, Roman](https://plato.stanford.edu/entries/ingarden/) | [ontology of art, history of](https://plato.stanford.edu/entries/art-ontology-history/) | [Schopenhauer, Arthur: aesthetics](https://plato.stanford.edu/entries/schopenhauer-aesthetics/) | [Wolff, Christian](https://plato.stanford.edu/entries/wolff-christian/)
+[aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: environmental](https://plato.stanford.edu/entries/environmental-aesthetics/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [art, definition of](https://plato.stanford.edu/entries/art-definition/) | [artifact](https://plato.stanford.edu/entries/artifact/) | [beauty](https://plato.stanford.edu/entries/beauty/) | [Goodman, Nelson: aesthetics](https://plato.stanford.edu/entries/goodman-aesthetics/) | [Ingarden, Roman](https://plato.stanford.edu/entries/ingarden/) | [ontology of art, history of](https://plato.stanford.edu/entries/art-ontology-history/) | [Schopenhauer, Arthur: aesthetics](https://plato.stanford.edu/entries/schopenhauer-aesthetics/) | [Wolff, Christian](https://plato.stanford.edu/entries/wolff-christian/)
 
 ### Acknowledgments
 
-I thank reviewers of the *Stanford Encyclopedia of Philosophy* for critical comments on previous drafts of this article, and the Graham Foundation for Advanced Studies in the Fine Arts for a generous grant in support of this work.
+I thank reviewers of the _Stanford Encyclopedia of Philosophy_ for critical comments on previous drafts of this article, and the Graham Foundation for Advanced Studies in the Fine Arts for a generous grant in support of this work.
 
-[Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
-Saul Fisher <[*sfisher@mercy.edu*](mailto:sfisher%40mercy%2eedu)>
+[Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
+Saul Fisher <[_sfisher@mercy.edu_](mailto:sfisher%40mercy%2eedu)>

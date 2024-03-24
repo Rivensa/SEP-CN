@@ -1,6 +1,6 @@
 # 联想主义理论 associationist theories of thought (Eric Mandelbaum)
 
-*首次发布于 2015 年 3 月 17 日；实质性修订于 2020 年 6 月 24 日*
+_首次发布于 2015 年 3 月 17 日；实质性修订于 2020 年 6 月 24 日_
 
 联想主义是最古老的思维理论之一，而且以某种形式广泛流传。几个世纪以来，联想主义一直是经验主义的推动力量，从英国经验主义者到行为主义者再到现代的连接主义者。然而，“联想主义”并不是指特定的认知理论本身，而是一系列相关但可分离的命题。这些命题的共同点在于对思维的某种非理性的承诺：一个生物的心理状态之间存在关联，是由于其因果历史的某些事实，而且这些心理状态的关联意味着将一对关联中的一个想起来将会在其他情况不变的情况下激活另一个。
 
@@ -33,11 +33,11 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/associationist-thought/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/associationist-thought/#Rel)
 
----
+***
 
 ## 1. 什么是联想主义？
 
-联想主义是一种将学习与思维联系起来的理论，基于有机体的因果历史原则。自其早期起源以来，联想主义者一直试图将有机体的经验历史作为认知结构的主要塑造者。在其最基本的形式中，联想主义声称，思维对通过有机体的过去经验而形成的思维进行关联。因此，例如，联想主义的基本形式（如休谟的观点）可能声称，有机体在环境中接触到*X*和*Y*的频率决定了有关*X*和有关*Y*的思维在有机体的未来中一起出现的频率。
+联想主义是一种将学习与思维联系起来的理论，基于有机体的因果历史原则。自其早期起源以来，联想主义者一直试图将有机体的经验历史作为认知结构的主要塑造者。在其最基本的形式中，联想主义声称，思维对通过有机体的过去经验而形成的思维进行关联。因此，例如，联想主义的基本形式（如休谟的观点）可能声称，有机体在环境中接触到_X_和_Y_的频率决定了有关_X_和有关_Y_的思维在有机体的未来中一起出现的频率。
 
 联想主义之所以受欢迎，部分原因在于它可以服务于许多不同的主人。特别是，联想主义可以用作学习的理论（例如，行为主义理论），思维的理论（如詹姆斯的“思维流”），心理结构的理论（例如，概念对），以及思维实施的理论（例如，连接主义）。所有这些理论是可以分开的，但它们共享一个相关的经验主义友好的核心。在这里使用的“纯粹的联想主义者”将指的是那些持有联想主义学习、思维、心理结构和实施理论的人。这个“纯粹的联想主义者”是一个有些理想化的立场，可能没有任何特定的理论家曾经持有过，但许多人以不同程度接近了这个立场（例如，洛克 1690/1975；休谟 1738/1975；桑代克 1911；斯金纳 1953；赫尔 1943；柴契林 1986, 1989；柴契林和塞诺夫斯基 1990；斯莫伦斯基 1988；埃尔曼 1991；埃尔曼等人 1996；麦克莱兰等人 2010；瑞德尔和麦康奈尔 2006；法齐奥 2007）。
 
@@ -45,27 +45,27 @@
 
 ## 2. 联想主义作为心理过程理论：经验主义的联系
 
-经验主义是一种普遍的理论观点，倾向于提供一种学习理论，以尽可能解释我们的心智生活。从英国经验主义者到斯金纳和行为主义者（参见[行为主义](https://plato.stanford.edu/entries/behaviorism/)条目），主要关注的是通过学习获得概念（对于经验主义者来说是“观念”，对于行为主义者来说是“反应”）。然而，支持这种学习的心智过程本身几乎从未被认为是可以学习的。[[1](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-1)]因此，缩减所需假设的心智过程的数量限制了理论家所负担的先天机制的数量。联想主义在其最初形式中，如休谟（1738/1975）所述，被提出作为一种心智过程的理论。联想主义者试图通过假设只有一个心智过程来回答有多少心智过程的问题：联想观念的能力。[[2](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-2)]
+经验主义是一种普遍的理论观点，倾向于提供一种学习理论，以尽可能解释我们的心智生活。从英国经验主义者到斯金纳和行为主义者（参见[行为主义](https://plato.stanford.edu/entries/behaviorism/)条目），主要关注的是通过学习获得概念（对于经验主义者来说是“观念”，对于行为主义者来说是“反应”）。然而，支持这种学习的心智过程本身几乎从未被认为是可以学习的。\[[1](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-1)]因此，缩减所需假设的心智过程的数量限制了理论家所负担的先天机制的数量。联想主义在其最初形式中，如休谟（1738/1975）所述，被提出作为一种心智过程的理论。联想主义者试图通过假设只有一个心智过程来回答有多少心智过程的问题：联想观念的能力。\[[2](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-2)]
 
 当然，思想家执行许多不同类型的认知行为，因此如果只有一个心智过程，即联想能力，那么这个过程必须足够灵活，能够完成广泛的认知工作。特别是，它必须能够解释学习和思考。因此，联想主义在这两个方面都得到了应用。我们将首先讨论学习理论，然后在分析该理论并了解所谓的学习内容之后，我们将回到联想主义的思考理论。
 
 ## 3. 关联主义作为学习理论
 
-在某种意义上，“关联主义”是指一种关于有机体如何获得概念、关联结构、反应偏好甚至命题知识的理论。众所周知，关联主义在约翰·洛克的《人类理解论》（1690/1975）出版后开始流行。[[3](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-3)]然而，洛克对关联主义的评论简洁（但富有成果），并没有在很大程度上涉及学习。第一个认真尝试详细阐述关联主义作为学习理论的是休谟在《人性论》（1738/1975）中。[[4](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-4)]休谟的关联主义首先是一种连接感知（“印象”）如何决定思维链（“观念”连续）的理论。休谟的经验主义，如复制原则所规定的那样，[[5](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-5)]要求心灵中没有不是先在经验中给出的观念。对于休谟来说，关联的原则限制了观念一旦从印象中复制出来后的功能角色：如果印象 IM1 和 IM2 在感知中关联，那么它们对应的观念 ID1 和 ID2 也会成为关联的。换句话说，观念的排序是由引起观念产生的印象的排序决定的。
+在某种意义上，“关联主义”是指一种关于有机体如何获得概念、关联结构、反应偏好甚至命题知识的理论。众所周知，关联主义在约翰·洛克的《人类理解论》（1690/1975）出版后开始流行。\[[3](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-3)]然而，洛克对关联主义的评论简洁（但富有成果），并没有在很大程度上涉及学习。第一个认真尝试详细阐述关联主义作为学习理论的是休谟在《人性论》（1738/1975）中。\[[4](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-4)]休谟的关联主义首先是一种连接感知（“印象”）如何决定思维链（“观念”连续）的理论。休谟的经验主义，如复制原则所规定的那样，\[[5](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-5)]要求心灵中没有不是先在经验中给出的观念。对于休谟来说，关联的原则限制了观念一旦从印象中复制出来后的功能角色：如果印象 IM1 和 IM2 在感知中关联，那么它们对应的观念 ID1 和 ID2 也会成为关联的。换句话说，观念的排序是由引起观念产生的印象的排序决定的。
 
 休谟的理论需要分析印象之间的哪些联想关系对于确定观念的排序是重要的。休谟的分析包括三种类型的联想关系：因果关系、接触性和相似性。如果两个印象实例化了这些联想关系之一，那么它们对应的观念将模仿相同的实例化。例如，如果印象 IM1 与印象 IM2 同时发生，那么它们对应的观念 ID1 和 ID2 将会关联起来。
 
 正如所述，休谟的联想主义主要是一种确定观念功能特征的方式。但我们还没有说过两个观念如何关联（请参见[第 4 节](https://plato.stanford.edu/entries/associationist-thought/#AssTheMenStr)）。相反，我们可以将休谟的贡献看作是引入了一种非常有影响力的学习方式——联想学习，因为休谟的理论旨在解释我们如何学会关联某些观念。我们可以抽象出休谟的观念框架和他所阐述的潜在联想关系的具体解释，更一般地陈述联想学习理论：如果经验的两个内容 X 和 Y 实例化了某种联想关系 R，那么这些内容将会关联起来，以至于将来激活 X 的时候往往会引起 Y 的激活。然后，联想主义者必须解释 R 关系的具体含义。休谟式的联想学习（其中 R 等同于因果关系、接触性或相似性）具有巨大的影响力，影响了杰里米·边沁、约翰·斯图尔特·密尔和亚历山大·贝恩等人的观点（参见[约翰·斯图尔特·密尔](https://plato.stanford.edu/entries/mill/)和[19 世纪苏格兰哲学](https://plato.stanford.edu/entries/scottish-19th/)的条目）。
 
-联想学习直到伊凡·巴甫洛夫的工作才开始兴起，这推动了心理学中行为主义运动的后续发展。巴甫洛夫引入了古典条件作为联想学习的现代化版本。对巴甫洛夫来说，古典条件在某种程度上是一种实验范式，用于教导动物学习刺激之间的新联想。学习的一般方法是将一个无条件刺激（US）与一个新刺激配对。无条件刺激只是一种在没有训练的情况下本能地引发有机体反应的刺激。由于这种反应本身并没有被学习，所以称之为“无条件反应”（UR）。在巴甫洛夫的经典实验中，无条件刺激是肉粉，因为肉的气味会自动引起他的犬类实验对象的流涎反应（UR）。然后，将无条件刺激与中性刺激（如铃声）配对。随着时间的推移，无条件刺激和中性刺激之间的接触使得中性刺激引发与无条件刺激相同的反应。一旦铃声开始引发流涎反应，铃声就成为“条件刺激”（CS），当仅仅由铃声引发流涎反应时，流涎反应就成为“条件反应”（CR）。这里的联想学习是学习在铃声和流涎之间形成新的刺激-反应对。[8]
+联想学习直到伊凡·巴甫洛夫的工作才开始兴起，这推动了心理学中行为主义运动的后续发展。巴甫洛夫引入了古典条件作为联想学习的现代化版本。对巴甫洛夫来说，古典条件在某种程度上是一种实验范式，用于教导动物学习刺激之间的新联想。学习的一般方法是将一个无条件刺激（US）与一个新刺激配对。无条件刺激只是一种在没有训练的情况下本能地引发有机体反应的刺激。由于这种反应本身并没有被学习，所以称之为“无条件反应”（UR）。在巴甫洛夫的经典实验中，无条件刺激是肉粉，因为肉的气味会自动引起他的犬类实验对象的流涎反应（UR）。然后，将无条件刺激与中性刺激（如铃声）配对。随着时间的推移，无条件刺激和中性刺激之间的接触使得中性刺激引发与无条件刺激相同的反应。一旦铃声开始引发流涎反应，铃声就成为“条件刺激”（CS），当仅仅由铃声引发流涎反应时，流涎反应就成为“条件反应”（CR）。这里的联想学习是学习在铃声和流涎之间形成新的刺激-反应对。\[8]
 
-古典条件是一个相当有限的过程。它是一种“刺激替代”范式，其中一个刺激可以被另一个刺激替代以引发反应。然而，被引发的反应应该保持不变；改变的只是与反应相关联的刺激。因此，对于一些人来说，古典条件似乎过于局限，无法解释有机体表现出的各种新行为。[10]
+古典条件是一个相当有限的过程。它是一种“刺激替代”范式，其中一个刺激可以被另一个刺激替代以引发反应。然而，被引发的反应应该保持不变；改变的只是与反应相关联的刺激。因此，对于一些人来说，古典条件似乎过于局限，无法解释有机体表现出的各种新行为。\[10]
 
 爱德华·索恩戴克在猫的谜题盒实验中扩展了联想学习理论，引入了后果的概念。索恩戴克将联想学习的范围扩大到了本能行为和感官替代之外的全新行为。索恩戴克的实验最初探究了猫如何学会抬起杠杆来逃离被困在“谜题盒”（即“斯金纳盒子”的前身）中的情况。猫的行为，例如试图抬起杠杆，不像巴甫洛夫实验中的条件反射行为那样是本能行为。此外，猫的行为是由其带来的后果所塑造的。对于索恩戴克来说，猫学会了杠杆和门之间的联系，是因为抬起杠杆会导致门打开。这种新的学习观点，即操作性条件反射（因为有机体在其环境中“操作”），不仅仅是巴甫洛夫的被动学习，而是一种物种非特定的、普遍的、主动的学习理论。
 
-这项研究最终形成了索恩戴克著名的“效应定律”（1911 年），这是第一个经典的心理学联想学习定律。它断言，伴随着有机体感到满意的反应，*其他条件不变*，更有可能与执行该行为的情境相关联，而伴随着动物感到不适的反应，*其他条件不变*，在有机体再次遇到相同情境时，该反应发生的可能性将降低。产生的积极或消极感受越强烈，行为出现的可能性就越大。索恩戴克还提出了“锻炼定律”，即根据过去情境和反应的配对频率，反应与情境之间的联系将*其他条件不变*地更加紧密。索恩戴克的范式被 B.F.斯金纳（例如斯金纳 1953 年）推广和扩展，他强调形成联想的基础不仅仅是后果，还有*强化*。对于斯金纳来说，行为将根据行为所产生的强化的频率和强度与情境相关联。
+这项研究最终形成了索恩戴克著名的“效应定律”（1911 年），这是第一个经典的心理学联想学习定律。它断言，伴随着有机体感到满意的反应，_其他条件不变_，更有可能与执行该行为的情境相关联，而伴随着动物感到不适的反应，_其他条件不变_，在有机体再次遇到相同情境时，该反应发生的可能性将降低。产生的积极或消极感受越强烈，行为出现的可能性就越大。索恩戴克还提出了“锻炼定律”，即根据过去情境和反应的配对频率，反应与情境之间的联系将_其他条件不变_地更加紧密。索恩戴克的范式被 B.F.斯金纳（例如斯金纳 1953 年）推广和扩展，他强调形成联想的基础不仅仅是后果，还有_强化_。对于斯金纳来说，行为将根据行为所产生的强化的频率和强度与情境相关联。
 
-自从斯金纳的时代以来，联想学习已经有了许多不同的变体。但是，所有的变体都应该与它们的历史前辈分享的是，联想学习应该反映世界上的相关性，而不会给它们增加额外的结构（参见第 9 节，了解一些所谓的联想理论如何夹带额外的结构的例子）。关于联想学习检测到的相关性是什么（也就是，对于联想关系*R*的首选分析），这是一个有争议的问题，并且在理论家之间会有所变化。
+自从斯金纳的时代以来，联想学习已经有了许多不同的变体。但是，所有的变体都应该与它们的历史前辈分享的是，联想学习应该反映世界上的相关性，而不会给它们增加额外的结构（参见第 9 节，了解一些所谓的联想理论如何夹带额外的结构的例子）。关于联想学习检测到的相关性是什么（也就是，对于联想关系_R_的首选分析），这是一个有争议的问题，并且在理论家之间会有所变化。
 
 联想学习的最后一个广泛共享的，虽然不太核心的特性涉及到联想学习的领域普遍性。领域普遍性在联想主义者中的普遍存在，很大程度上是由于他们传统经验主义的忠诚：剔除领域特定的学习机制会限制一个人必须假设的先天心理过程的数量。因此，毫不奇怪的是，休谟和巴甫洛夫都认为，联想学习可以用来获取任何内容之间的关联，而不管这些内容的类型是什么。例如，巴甫洛夫写道，
 
@@ -75,7 +75,7 @@
 
 ## 4. 联想主义作为心智结构的理论
 
-联想学习是一系列相关观点的总称，将学习解释为将刺激与反应（在操作性条件作用中），或将刺激与其他刺激（在经典条件作用中），或将刺激与价值（在评价性条件作用中）相联结。[[13](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-13)] 联想学习理论引发了一个问题：当一个人学会将内容*X*和*Y*关联起来时，例如，通过之前与*X*和*Y*实例化的*R*的经验，他们是如何存储*X*和*Y*关联的信息的？[[14](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-14)] 对于这个问题，一个高度假设的样本答案可能是，思考者学会了一个明确表示的无意识条件规则，即“当一个*x*的标记被激活时，也激活一个*y*的标记”。除了这种高度理性化的回答之外，联想主义者还发现了一种自然的（虽然不是必然的，参见[第 4.2 节](https://plato.stanford.edu/entries/associationist-thought/#ActMapAssStr)）互补观点，即信息存储在一个*联想结构*中。
+联想学习是一系列相关观点的总称，将学习解释为将刺激与反应（在操作性条件作用中），或将刺激与其他刺激（在经典条件作用中），或将刺激与价值（在评价性条件作用中）相联结。\[[13](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-13)] 联想学习理论引发了一个问题：当一个人学会将内容_X_和_Y_关联起来时，例如，通过之前与_X_和_Y_实例化的_R_的经验，他们是如何存储_X_和_Y_关联的信息的？\[[14](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-14)] 对于这个问题，一个高度假设的样本答案可能是，思考者学会了一个明确表示的无意识条件规则，即“当一个_x_的标记被激活时，也激活一个_y_的标记”。除了这种高度理性化的回答之外，联想主义者还发现了一种自然的（虽然不是必然的，参见[第 4.2 节](https://plato.stanford.edu/entries/associationist-thought/#ActMapAssStr)）互补观点，即信息存储在一个_联想结构_中。
 
 关联结构描述了连接两个不同心理状态的类型的联系。这种结构的一个例子是关联对“盐/胡椒”。关联结构在功能上首先被定义为：如果 X 和 Y 形成一个关联结构，那么在其他心理状态的中介下，X 的激活会引起 Y 的心理状态，反之亦然（例如，明确表示的规则告诉系统激活一个概念，因为它的关联已经被激活）。换句话说，说两个概念是关联的意味着它们之间存在一个可靠的、心理上基本的因果关系——一个概念的激活会导致另一个概念的激活。因此，说某人心中存在“盐/胡椒”的结构，意味着盐的激活会导致胡椒的激活（反之亦然），而不需要任何其他认知状态的帮助。
 
@@ -85,25 +85,25 @@
 
 ### 4.1 关联对称性
 
-关联结构的分析意味着，*其他条件不变*，关联在其因果效应上是对称的：如果一个思考者在盐/胡椒之间有一种联系，那么盐应该能够像胡椒一样引起胡椒，就像胡椒引起盐一样（有关对称点的广泛讨论，请参见 Quilty-Dunn 和 Mandelbaum 2019）。但是其他条件很少相等。例如，行为主义者如 Thorndike、Hull 和 Skinner 知道学习的顺序会影响回忆的因果序列：如果总是听到“盐和胡椒”，那么盐比胡椒更容易激活胡椒，而不是胡椒激活盐。因此，在关联结构的分析中，*其他条件不变*的子句中包括了这样一个理想化假设，即关联元素的学习是等概率随机的。
+关联结构的分析意味着，_其他条件不变_，关联在其因果效应上是对称的：如果一个思考者在盐/胡椒之间有一种联系，那么盐应该能够像胡椒一样引起胡椒，就像胡椒引起盐一样（有关对称点的广泛讨论，请参见 Quilty-Dunn 和 Mandelbaum 2019）。但是其他条件很少相等。例如，行为主义者如 Thorndike、Hull 和 Skinner 知道学习的顺序会影响回忆的因果序列：如果总是听到“盐和胡椒”，那么盐比胡椒更容易激活胡椒，而不是胡椒激活盐。因此，在关联结构的分析中，_其他条件不变_的子句中包括了这样一个理想化假设，即关联元素的学习是等概率随机的。
 
 同样，当个体关联元素之间的关联连接数量不同时，关联对称性就会被违反。例如，在绿色/巨嘴鸟的情况下，大多数思考者与绿色相关的关联要比与巨嘴鸟相关的关联多得多。假设我们有一个只将巨嘴鸟与绿色关联起来，但将绿色与许多其他概念（如草、蔬菜、茶、克米特、晕船、苔藓、霉菌、灯笼、爱尔兰等）关联起来的思考者。在这种情况下，可以预期巨嘴鸟会比绿色更快地激活绿色，因为前者的联系强度在其他关联中受到的削弱要比后者小。
 
 ### 4.2 关联结构的激活图
 
-关联激活图（有时也称为“扩散激活”图，Collins 和 Luftus 1975）是一个单个思考者的所有概念之间的关联连接的映射。[[18](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-18)] 有许多操作关联连接的方法。在抽象层面上，心理学家将尝试探索哪些概念（或其他心理要素）激活了哪些其他概念（或要素）。想象一个被要求判断一串字母是否构成一个单词的被试者，这是在“词汇决策任务”中通常给予被试者的目标。如果一个被试者刚刚看到了单词“mouse”，我们可以假设概念“mouse”被激活了。如果被试者比较快地说出“cursor”是一个单词，而比较慢地说出“toaster”是一个单词，那么我们可以推断出在这个思考者中，“cursor”被启动了，并且与“mouse”有关联。同样，如果我们发现“rodent”也被更快地回应，那么我们知道“rodent”与“mouse”有关联。使用这个过程，我们可以生成一个思考者思维的关联映射。这样的映射将构成一个人所拥有的关联结构的映射。然而，要成为一个真正的激活图——一个真正的概念促进什么的映射——该映射还需要包括关于概念之间对称性违规的信息。
+关联激活图（有时也称为“扩散激活”图，Collins 和 Luftus 1975）是一个单个思考者的所有概念之间的关联连接的映射。\[[18](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-18)] 有许多操作关联连接的方法。在抽象层面上，心理学家将尝试探索哪些概念（或其他心理要素）激活了哪些其他概念（或要素）。想象一个被要求判断一串字母是否构成一个单词的被试者，这是在“词汇决策任务”中通常给予被试者的目标。如果一个被试者刚刚看到了单词“mouse”，我们可以假设概念“mouse”被激活了。如果被试者比较快地说出“cursor”是一个单词，而比较慢地说出“toaster”是一个单词，那么我们可以推断出在这个思考者中，“cursor”被启动了，并且与“mouse”有关联。同样，如果我们发现“rodent”也被更快地回应，那么我们知道“rodent”与“mouse”有关联。使用这个过程，我们可以生成一个思考者思维的关联映射。这样的映射将构成一个人所拥有的关联结构的映射。然而，要成为一个真正的激活图——一个真正的概念促进什么的映射——该映射还需要包括关于概念之间对称性违规的信息。
 
 ### 4.3 关联学习与关联结构之间的关系
 
-英国经验主义者希望拥有一个彻底的纯关联主义理论，因为这使得他们能够减少需要假设的先天机制的负担。同样，行为主义者也倾向于希望有一个纯关联主义理论（有时出于类似经验主义的倾向，有时是因为他们是像斯金纳这样的激进行为主义者，禁止所有关于心理表征的讨论）。纯关联主义者倾向于偏爱弗多尔（2003）所称的“裸骨关联”。这个想法是，*X*和*Y*之间的关联连接的当前强度是由*X*和*Y*的过去关联的频率决定的，其他条件不变。正如所述，裸骨关联假设关联结构至少隐含地编码了*X*和*Y*的过去关联的频率，并且该关联的强度由有机体以前经历*X*和*Y*的历史决定。[[19](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-19)]换句话说，过去关联的学习历史决定了相应关联结构的当前功能特征。[[20](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-20)]
+英国经验主义者希望拥有一个彻底的纯关联主义理论，因为这使得他们能够减少需要假设的先天机制的负担。同样，行为主义者也倾向于希望有一个纯关联主义理论（有时出于类似经验主义的倾向，有时是因为他们是像斯金纳这样的激进行为主义者，禁止所有关于心理表征的讨论）。纯关联主义者倾向于偏爱弗多尔（2003）所称的“裸骨关联”。这个想法是，_X_和_Y_之间的关联连接的当前强度是由_X_和_Y_的过去关联的频率决定的，其他条件不变。正如所述，裸骨关联假设关联结构至少隐含地编码了_X_和_Y_的过去关联的频率，并且该关联的强度由有机体以前经历_X_和_Y_的历史决定。\[[19](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-19)]换句话说，过去关联的学习历史决定了相应关联结构的当前功能特征。\[[20](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-20)]
 
 虽然上面描绘的情景，即联想学习导致联想结构，对许多人来说很有吸引力，但并不是强制性的，因为没有先验的理由来阻止任何类型的结构从特定类型的学习中产生。例如，一个人可以通过联想学习获得命题结构（参见 Mitchell 等人 2009 年和 Mandelbaum 2016 年的论证，这不仅仅是一种逻辑上的可能性）。这可以通过两种方式实现。首先，一个人可以获得一个具有命题作为其关联之一的联想结构。假设每次一个人的父亲回家后立即做晚餐。在这种情况下，一个人可能将命题“爸爸在家”与概念“晚餐”关联起来（也就是说，一个人可能会获得：“爸爸在家/晚餐”）。然而，一个人也可能仅仅通过联想学习得到一个命题结构。如果每次一个人的父亲回家后都会做晚餐，那么一个人可能最终只会学到“如果爸爸在家，晚餐很快就会来”的命题结构。
 
 ### 4.4 消退和反条件化
 
-关于如何调节联想的关联结构，联想学习和关联结构之间存在着一种不同、更紧密的关系。从巴甫洛夫开始，联想理论家们对于调节已经形成的联想所必需的功能特征非常清楚。一般认为有两种被广泛认可的途径：*消退*和*反条件化*。假设通过联想学习，你已经学会将一个条件刺激（CS）与一个无条件刺激（US）关联起来。我们如何打破这种关联呢？联想主义者认为，通过两种不同类型的联想学习（/取消学习），可以打破关联结构。*消退*是其中一种过程的名称。在消退过程中，通过只呈现 CS 而不呈现 US（有时也会只呈现 US 而不呈现 CS），将 CS 和 US 的外部呈现解耦。随着时间的推移，生物体将学会断开 CS 和 US 之间的关联。
+关于如何调节联想的关联结构，联想学习和关联结构之间存在着一种不同、更紧密的关系。从巴甫洛夫开始，联想理论家们对于调节已经形成的联想所必需的功能特征非常清楚。一般认为有两种被广泛认可的途径：_消退_和_反条件化_。假设通过联想学习，你已经学会将一个条件刺激（CS）与一个无条件刺激（US）关联起来。我们如何打破这种关联呢？联想主义者认为，通过两种不同类型的联想学习（/取消学习），可以打破关联结构。_消退_是其中一种过程的名称。在消退过程中，通过只呈现 CS 而不呈现 US（有时也会只呈现 US 而不呈现 CS），将 CS 和 US 的外部呈现解耦。随着时间的推移，生物体将学会断开 CS 和 US 之间的关联。
 
-*反条件化*是一种与消退类似的过程，但其方法略有不同。只有当生物体在评价条件化范式中获得了心理表征和价值的关联时，反条件化才能发生。假设一个人将鸭子与积极价值关联起来。通过反条件化打破这种关联时，引入的鸭子不是缺乏积极价值（如在消退中发生的情况），而是具有相反的价值，即负价值。经过多次接触，最初的表征/价值关联会减弱，甚至可能完全消失。[[21](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-21)]
+_反条件化_是一种与消退类似的过程，但其方法略有不同。只有当生物体在评价条件化范式中获得了心理表征和价值的关联时，反条件化才能发生。假设一个人将鸭子与积极价值关联起来。通过反条件化打破这种关联时，引入的鸭子不是缺乏积极价值（如在消退中发生的情况），而是具有相反的价值，即负价值。经过多次接触，最初的表征/价值关联会减弱，甚至可能完全消失。\[[21](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-21)]
 
 灭绝和反条件化的成功程度以及它们的工作原理是一些争议的来源，并且有一些理由认为这两种方法都非常无效（Bouton 2004）。尽管传统观点认为灭绝打破了联想的纽带，但灭绝是通过打破先前建立的联想纽带还是通过保持该纽带不变但在条件刺激（CS）和其他心理状态之间创建新的、更显著（也许是特定于环境的）联想而进行的，这是一个开放的经验问题（Bouton 2002，Bendana 和 Mandelbaum 即将出版）。此外，在许多情境中观察到了重新出现的现象，即在看似成功的灭绝之后，联想纽带会自发地重新出现（例如，参见 Dirikx 等人 2004 年关于人类恐惧的重新出现）。
 
@@ -115,11 +115,11 @@
 
 ## 5. 关联转换
 
-到目前为止，我们已经讨论了学习和心理结构，但还没有讨论*思考*。纯粹的联想主义者希望有一个理论，不仅涵盖了获取和认知结构，还涵盖了思维之间的转换。关联转换是一种特殊类型的思考，类似于威廉·詹姆斯所称的“思维流”（詹姆斯 1890 年）。关联转换是在思维之间的移动，不是基于连接的思维元素之间的先前逻辑关系。从这个意义上讲，关联转换与计算理论心灵（Fodor 2001; Quilty-Dunn 和 Mandelbaum 2018,2019; 参见[计算心灵理论](https://plato.stanford.edu/entries/computational-mind/)）中分析的计算转换形成对比。计算理论心灵将*推理*理解为思维中基于形式/句法属性的保真移动。例如，仅根据主要前提和次要前提的形式，而不是前提的内容，就可以推断出*假言三段论*中的结论。关联转换是一种不基于思维的逻辑-句法属性的思维转换。相反，它们是基于独立思维之间的关联关系而发生的思维转换。
+到目前为止，我们已经讨论了学习和心理结构，但还没有讨论_思考_。纯粹的联想主义者希望有一个理论，不仅涵盖了获取和认知结构，还涵盖了思维之间的转换。关联转换是一种特殊类型的思考，类似于威廉·詹姆斯所称的“思维流”（詹姆斯 1890 年）。关联转换是在思维之间的移动，不是基于连接的思维元素之间的先前逻辑关系。从这个意义上讲，关联转换与计算理论心灵（Fodor 2001; Quilty-Dunn 和 Mandelbaum 2018,2019; 参见[计算心灵理论](https://plato.stanford.edu/entries/computational-mind/)）中分析的计算转换形成对比。计算理论心灵将_推理_理解为思维中基于形式/句法属性的保真移动。例如，仅根据主要前提和次要前提的形式，而不是前提的内容，就可以推断出_假言三段论_中的结论。关联转换是一种不基于思维的逻辑-句法属性的思维转换。相反，它们是基于独立思维之间的关联关系而发生的思维转换。
 
-想象一种不纯的联想主义心智模型，其中包含命题和联想结构。计算推理可能是这样的，从思想中推断出你是*g*，思想是如果你是*f*，那么你是*g*，而且你是*f*。然而，联想转换只是一串思想的流动，它们之间不必有任何形式上的，甚至是理性上的关系，比如从这家咖啡店很冷到俄罗斯应该吞并爱达荷州的转变，中间没有任何干预的思想。这种转变可能仅仅是由于一个人将爱达荷州和寒冷联系在一起，或者是因为这两个思想过去倾向于同时出现，它们的时间上的紧密接触导致了这两个思想之间的联想产生（或者是由于其他很多原因）。无论起因如何，这种转变并不是基于思想的形式属性。[24]
+想象一种不纯的联想主义心智模型，其中包含命题和联想结构。计算推理可能是这样的，从思想中推断出你是_g_，思想是如果你是_f_，那么你是_g_，而且你是_f_。然而，联想转换只是一串思想的流动，它们之间不必有任何形式上的，甚至是理性上的关系，比如从这家咖啡店很冷到俄罗斯应该吞并爱达荷州的转变，中间没有任何干预的思想。这种转变可能仅仅是由于一个人将爱达荷州和寒冷联系在一起，或者是因为这两个思想过去倾向于同时出现，它们的时间上的紧密接触导致了这两个思想之间的联想产生（或者是由于其他很多原因）。无论起因如何，这种转变并不是基于思想的形式属性。\[24]
 
-根据这个分类法，谈论“联想推理”（例如，安德森等人，1994 年；阿姆斯特朗等人，2012 年）是一个边缘的矛盾修饰语。给出对联想推理的理解的最简单方法是，它涉及到思想中的转变，这些转变起初是纯粹推理的（如计算心理学理论所理解的），但随着时间的推移变得相关联。例如，起初，一个人可能进行*假言三段论*推理，因为一系列特定的思想实例化了*假言三段论*的形式。随着时间的推移，这个*假言三段论*推理的前提和结论通过在推理中的持续使用而相互关联，现在思考者只是将前提与结论联系在一起。也就是说，前提和结论之间的持续接触是因为推理经常进行，但最初推理经常进行并不是因为前提和结论之间的联想关系，而是因为思想的形式（以及思考者的特定动机）。这种持续的接触然后形成了前提和结论之间的联想联系的基础。[25]
+根据这个分类法，谈论“联想推理”（例如，安德森等人，1994 年；阿姆斯特朗等人，2012 年）是一个边缘的矛盾修饰语。给出对联想推理的理解的最简单方法是，它涉及到思想中的转变，这些转变起初是纯粹推理的（如计算心理学理论所理解的），但随着时间的推移变得相关联。例如，起初，一个人可能进行_假言三段论_推理，因为一系列特定的思想实例化了_假言三段论_的形式。随着时间的推移，这个_假言三段论_推理的前提和结论通过在推理中的持续使用而相互关联，现在思考者只是将前提与结论联系在一起。也就是说，前提和结论之间的持续接触是因为推理经常进行，但最初推理经常进行并不是因为前提和结论之间的联想关系，而是因为思想的形式（以及思考者的特定动机）。这种持续的接触然后形成了前提和结论之间的联想联系的基础。\[25]
 
 与联想结构一样，思维中的联想转换不仅仅是一种逻辑可能性。联想转换与推理转换相关联的经验差异是特定的。联想转换往往跨越不同的内容领域，而推理转换则更倾向于停留在一个更专注的内容集合上。这些差异已被观察到在情绪上产生可测量的差异：与在单一主题上进行逻辑思考相比，跨主题的联想思维能够增强情绪（Mason 和 Bar 2012）。
 
@@ -127,7 +127,7 @@
 
 到目前为止，联想主义的立场对于如何实现联想并没有明确的立场。实现可以在表征（即心理学）的解释层面上看到，也可以在神经层面上看到。纯粹的联想主义观点会在这两个层面中的一个或两个上假设一个联想实现基础。
 
-最著名的联想实例化基础是一类称为连接主义网络的网络（参见[连接主义](https://plato.stanford.edu/entries/connectionism/)）。连接主义网络有时被定位在心理层面上（例如，Elman 1991; Elman et al. 1996; Smolensky 1988）。这意味着嵌入在网络中的算法模型捕捉到了某些心理过程的本质，例如联想学习。有时候，连接主义网络被称为神经活动的模型（“神经网络”）。连接主义网络由一组节点组成，通常包括输入节点、隐藏节点和输出节点。输入节点被视为感觉神经元（或亚符号感觉表征）的类比，输出节点类比于运动神经元（或亚符号行为表征），而隐藏节点则代表其他所有神经元。网络中的这些节点通过不同的强度相互连接。连接的拓扑结构给出了系统的联想映射，其中联想权重被理解为连接的不同强度。在心理学解读中，这些联想是功能定义的；在神经学解读中，它们通常被理解为代表突触传导（并且是树突的类比）。 *Prima facie*，这些网络纯粹是联想的，不包含命题元素，节点本身也不能等同于单一的表征状态（例如概念；参见，例如，Gallistel and King 2009）。
+最著名的联想实例化基础是一类称为连接主义网络的网络（参见[连接主义](https://plato.stanford.edu/entries/connectionism/)）。连接主义网络有时被定位在心理层面上（例如，Elman 1991; Elman et al. 1996; Smolensky 1988）。这意味着嵌入在网络中的算法模型捕捉到了某些心理过程的本质，例如联想学习。有时候，连接主义网络被称为神经活动的模型（“神经网络”）。连接主义网络由一组节点组成，通常包括输入节点、隐藏节点和输出节点。输入节点被视为感觉神经元（或亚符号感觉表征）的类比，输出节点类比于运动神经元（或亚符号行为表征），而隐藏节点则代表其他所有神经元。网络中的这些节点通过不同的强度相互连接。连接的拓扑结构给出了系统的联想映射，其中联想权重被理解为连接的不同强度。在心理学解读中，这些联想是功能定义的；在神经学解读中，它们通常被理解为代表突触传导（并且是树突的类比）。 _Prima facie_，这些网络纯粹是联想的，不包含命题元素，节点本身也不能等同于单一的表征状态（例如概念；参见，例如，Gallistel and King 2009）。
 
 然而，联结主义网络可以实现经典的图灵机架构（参见，例如，Fodor 和 McLaughlin 1990; Chalmers 1993）。许多经典计算的拥护者，例如 CTM 的支持者，认为大脑是一个联想网络，它实现了一个经典的计算程序。一些 CTM 的拥护者确实否认大脑运行一个联想网络（参见，例如，Gallistel 和 King 2009，他们似乎否认有任何科学层面的解释与联想密切相关），但他们这样做是基于不同的经验基础，而不是因为与实现经典思维的联想大脑存在逻辑上的不一致。
 
@@ -137,7 +137,7 @@
 
 这四种关联主义类型在某种经验主义精神上有一定的相似性，但在逻辑上和经验上是可分离的。纯粹的关联主义者希望提出最少数量的领域通用心理过程，他们认为心灵由通过关联学习获得的关联结构组成，这些结构参与关联转换并在关联实例化基础上实现。然而，许多混合观点是可行的，经常会混合和匹配不同的关联主义立场，特别是一旦经验主义、领域特异性和渐进学习的问题出现。下面是一部分分类，列出了一些著名理论家在关联主义和其他相关学说方面的立场。
 
-Prinz（2002）和 Karmiloff-Smith（1995）是经验主义的非联想主义者的例子。很少能找到一个联想主义者是先天主义者，但很多先天主义者在自己的工作中有联想主义的一些方面。例如，即使是强烈的先天主义者 Jerry Fodor 也认为模块内的词汇表包含联想结构（Fodor 1983）。同样，有许多非行为主义者（至少是非激进的、分析的或方法论的行为主义者）的联想主义者，如 Elman（1991）、Smolensky（1988）、Baeyens（De Houwer 和 Baeyens 2001）以及现代双过程理论家如 Evans 和 Stanovich（2013）。很难找到一个非联想主义的行为主义者，尽管 Tolman 接近这样一个角色（Tolman 1948）。Elman 和 Smolensky 也符合表征主义的联想主义者的资格，而 Van Gelder（1995）则是反表征主义的非联想主义者。Karmiloff-Smith（1995）可以被解释为，在某些学习领域上，支持渐进学习而不是联想主义的倡导者（一些人可能还会将当代贝叶斯理论家，如 Tenenbaum 等人 2011 年和 Chater 等人 2006 年，解读为在某些学习领域上持有类似立场）。Rescorla（1988）和 Heyes（2012）声称自己是联想主义者，支持逐步、一次性学习（尽管 Rescorla 将自己的项目视为经典条件反射计划的延续，其他人则将他的数据视为反联想主义者、支持计算主义者的证据，参见 Gallistel 和 King 2009；Quilty-Dunn 和 Mandelbaum 2019）。最后，Tenenbaum 和他的当代贝叶斯同事有时也被认为持有一种非联想主义的领域通用学习立场。[[29](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-29)]
+Prinz（2002）和 Karmiloff-Smith（1995）是经验主义的非联想主义者的例子。很少能找到一个联想主义者是先天主义者，但很多先天主义者在自己的工作中有联想主义的一些方面。例如，即使是强烈的先天主义者 Jerry Fodor 也认为模块内的词汇表包含联想结构（Fodor 1983）。同样，有许多非行为主义者（至少是非激进的、分析的或方法论的行为主义者）的联想主义者，如 Elman（1991）、Smolensky（1988）、Baeyens（De Houwer 和 Baeyens 2001）以及现代双过程理论家如 Evans 和 Stanovich（2013）。很难找到一个非联想主义的行为主义者，尽管 Tolman 接近这样一个角色（Tolman 1948）。Elman 和 Smolensky 也符合表征主义的联想主义者的资格，而 Van Gelder（1995）则是反表征主义的非联想主义者。Karmiloff-Smith（1995）可以被解释为，在某些学习领域上，支持渐进学习而不是联想主义的倡导者（一些人可能还会将当代贝叶斯理论家，如 Tenenbaum 等人 2011 年和 Chater 等人 2006 年，解读为在某些学习领域上持有类似立场）。Rescorla（1988）和 Heyes（2012）声称自己是联想主义者，支持逐步、一次性学习（尽管 Rescorla 将自己的项目视为经典条件反射计划的延续，其他人则将他的数据视为反联想主义者、支持计算主义者的证据，参见 Gallistel 和 King 2009；Quilty-Dunn 和 Mandelbaum 2019）。最后，Tenenbaum 和他的当代贝叶斯同事有时也被认为持有一种非联想主义的领域通用学习立场。\[[29](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-29)]
 
 ## 8. 社会心理学中的联想主义
 
@@ -155,7 +155,7 @@ Prinz（2002）和 Karmiloff-Smith（1995）是经验主义的非联想主义者
 
 关联结构和转换在一种特定类型的有影响力的双过程理论中被广泛涉及。虽然社会心理学中有许多双过程理论（参见 Chaiken 和 Trope 1999 的论文，或 Evans 和 Stanovich 2013 的讨论），但与联想主义最相关的理论也是最受欢迎的。它源于推理心理学的研究，并经常在启发式和偏见传统中被引用（参见 Kahneman 2011）。它由许多不同的心理学理论家发展而来（Sloman 1996; Smith 和 Decoster 2000; Wilson 等人 2000; Evans 和 Stanovich 2013），在某些方面也被哲学家们接受（参见 Gendler 2008; Frankish 2009; 还可以参考 Evans 和 Frankish 2009 中的一些论文）。
 
-与当前讨论最相关的双过程理论认为存在两个系统，一个是进化古老的直觉系统，负责无意识、自动、快速、并行和联想处理，另一个是进化较新的反思系统，具有有意识、受控、缓慢、“受规则控制”的串行过程（参见 Evans 和 Stanovich 2013）。这个古老的系统有时被称为“系统 1”，通常被理解为包括一组自治的、独立的子系统，每个子系统被招募来处理不同类型的问题（参见 Stanovich 2011 关于“TASS-一组自治系统”的讨论）。尽管关于系统 1 如何与系统 2 互动的理论存在差异，[[30](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-30)] 系统 1 的理论核心是认为它的处理本质上是联想的。与隐性态度辩论类似，双系统模型最近受到了批评（参见 Kruglanski 2013; Osman 2013; Mandelbaum 2016; De Houwer 2019），尽管它们仍然非常受欢迎。
+与当前讨论最相关的双过程理论认为存在两个系统，一个是进化古老的直觉系统，负责无意识、自动、快速、并行和联想处理，另一个是进化较新的反思系统，具有有意识、受控、缓慢、“受规则控制”的串行过程（参见 Evans 和 Stanovich 2013）。这个古老的系统有时被称为“系统 1”，通常被理解为包括一组自治的、独立的子系统，每个子系统被招募来处理不同类型的问题（参见 Stanovich 2011 关于“TASS-一组自治系统”的讨论）。尽管关于系统 1 如何与系统 2 互动的理论存在差异，\[[30](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-30)] 系统 1 的理论核心是认为它的处理本质上是联想的。与隐性态度辩论类似，双系统模型最近受到了批评（参见 Kruglanski 2013; Osman 2013; Mandelbaum 2016; De Houwer 2019），尽管它们仍然非常受欢迎。
 
 ## 9. 对联想主义的批评
 
@@ -163,7 +163,7 @@ Prinz（2002）和 Karmiloff-Smith（1995）是经验主义的非联想主义者
 
 ### 9.1 学习曲线
 
-基本的联想学习理论暗示，无论是明确还是隐含，都是关于联想的缓慢、渐进的学习（Baeyens 等，1995 年）。学习过程可以用学习曲线来总结，该曲线将条件反应的频率（或幅度）作为反馈次数的函数进行绘制（Gallistel 等，2004 年：13124）。CR（条件反应）和 US（无条件刺激）之间的映射是在许多试验（在实验室中）或经验（在现实世界中）中逐渐建立起来的。渐进、缓慢的学习受到了各个领域的批评（参见第 9.3 节和第 9.4.1 节）。然而，在这里我们只关注行为数据。在重新分析动物行为的一系列研究中，Gallistel（Gallistel 等，2004 年；Gallistel 和 King，2009 年）认为，尽管*群体层面*的学习曲线显示出负加速度和逐渐发展的特性，但这些曲线是误导性的，因为没有*个体的*学习曲线具有这些特性。Gallistel 认为，个体的学习通常是阶梯状的、快速的和突然的。一个个体从低水平的反应到渐近反应的学习非常迅速。有时，学习是如此迅速，以至于可以称之为一次性学习。例如，通过分析动物学习空间位置的多个实验，Gallistel 写道：
+基本的联想学习理论暗示，无论是明确还是隐含，都是关于联想的缓慢、渐进的学习（Baeyens 等，1995 年）。学习过程可以用学习曲线来总结，该曲线将条件反应的频率（或幅度）作为反馈次数的函数进行绘制（Gallistel 等，2004 年：13124）。CR（条件反应）和 US（无条件刺激）之间的映射是在许多试验（在实验室中）或经验（在现实世界中）中逐渐建立起来的。渐进、缓慢的学习受到了各个领域的批评（参见第 9.3 节和第 9.4.1 节）。然而，在这里我们只关注行为数据。在重新分析动物行为的一系列研究中，Gallistel（Gallistel 等，2004 年；Gallistel 和 King，2009 年）认为，尽管_群体层面_的学习曲线显示出负加速度和逐渐发展的特性，但这些曲线是误导性的，因为没有_个体的_学习曲线具有这些特性。Gallistel 认为，个体的学习通常是阶梯状的、快速的和突然的。一个个体从低水平的反应到渐近反应的学习非常迅速。有时，学习是如此迅速，以至于可以称之为一次性学习。例如，通过分析动物学习空间位置的多个实验，Gallistel 写道：
 
 学习一个空间位置通常只需要一次经验。然而，可能需要多次尝试才能使被试相信该位置在每次尝试中都是可预测的。（Gallistel 等人，2004 年：13130）
 
@@ -173,15 +173,15 @@ Gallistel 认为，群体学习曲线看起来平稳而逐渐的原因是在开�
 
 断言问题本质上是一个关于联想机制如何导致主语/谓语结构的问题，许多理论家认为这种结构在语言、思维和判断中都有出现。这个问题的首次重要讨论出现在康德（1781/1787）的著作中，但基于康德批判的变体可以在当代文献中看到（例如，查看 Chomsky 1959; Fodor and Pylyshyn 1988; Fodor 2003; Mandelbaum 2013a; 有关康德论证的详细信息，请参阅[Kant’s Transcendental Argument](https://plato.stanford.edu/entries/kant-transcendental/)）。
 
-对于一个纯粹的联想主义者来说，联想是“语义透明的”（参见 Fodor 2003），即它声称对思维没有添加任何额外的结构。当一个简单的概念*X*和一个简单的概念*Y*关联起来时，就会产生关联结构*X*/*Y*。但*X*/*Y*在其内容之上没有额外的结构。知道*X*和*Y*是关联的意味着知道一个因果事实：激活*X*将导致*Y*的激活，反之亦然。然而，据说我们的一些思维似乎比这更具结构性：思维“鸟会飞”将飞行的属性附加到鸟身上。联想主义者的任务是解释关联结构如何区分一个拥有单一（复杂）思维“鸟会飞”的思考者和一个将两个简单思维结合在一起的思考者，其中一个思维“鸟”紧接着另一个思维“飞”。只要这两个简单的思维可靠地因果相关，以至于对于一个思考者来说，激活“鸟”经常导致“飞”，那么该思考者就具有关联结构“鸟/飞”。然而，似乎该思考者还没有思考过“鸟会飞”。谓词化问题是解释纯粹的联想机制如何导致复杂思维的问题。用 Fodor 的话来说，问题归结为联想，即心理表征之间的因果关系如何影响谓词化，即意向内容之间的关系（Fodor 2003）。
+对于一个纯粹的联想主义者来说，联想是“语义透明的”（参见 Fodor 2003），即它声称对思维没有添加任何额外的结构。当一个简单的概念_X_和一个简单的概念_Y_关联起来时，就会产生关联结构_X_/_Y_。但_X_/_Y_在其内容之上没有额外的结构。知道_X_和_Y_是关联的意味着知道一个因果事实：激活_X_将导致_Y_的激活，反之亦然。然而，据说我们的一些思维似乎比这更具结构性：思维“鸟会飞”将飞行的属性附加到鸟身上。联想主义者的任务是解释关联结构如何区分一个拥有单一（复杂）思维“鸟会飞”的思考者和一个将两个简单思维结合在一起的思考者，其中一个思维“鸟”紧接着另一个思维“飞”。只要这两个简单的思维可靠地因果相关，以至于对于一个思考者来说，激活“鸟”经常导致“飞”，那么该思考者就具有关联结构“鸟/飞”。然而，似乎该思考者还没有思考过“鸟会飞”。谓词化问题是解释纯粹的联想机制如何导致复杂思维的问题。用 Fodor 的话来说，问题归结为联想，即心理表征之间的因果关系如何影响谓词化，即意向内容之间的关系（Fodor 2003）。
 
 一系列与联想主义相关的反对意见可以解释为这个主题的变体。例如，关于联想主义理论的生产力、组合性和系统性问题似乎是谓词化问题的变体（有关这些具体问题的更多信息，请参见《思维语言假说》和《组合性》的条目）。如果联想不为被关联的心理表征添加任何额外的结构，那么很难看出它如何解释思维的组合性，而组合性依赖于指定意向内容之间关系的结构。组合性要求复杂思维的意义由其简单成分的意义以及它们的句法排列确定。对联想主义的挑战是解释联想机制如何产生必要的句法结构，以区分复杂思维如“鸟会飞”和两个简单思维“鸟”和“飞”的时间顺序。由于思维的组合性被假定为思维的生产力的基础（思考者能够思考任意长度的新句子，例如“绿色的鸟会飞”、“巨大的绿色的鸟会飞”、“可爱的巨大的绿色的鸟会飞”等），联想主义在解释生产力方面存在问题。
 
-系统性是一个命题，即思想者能够接受的思想之间存在可预测的模式。能够接受某种结构的思想者总是能够接受具有相关结构的不同思想。例如，任何能够思考形式为“*X*及物动词*Y*”的复杂思想的思想者都能够思考“*Y*及物动词*X*”。系统性意味着我们不会找到只能思考这两种思想中的一种的思想者，否则我们将找不到一个能够思考奥黛丽冤枉了马克斯但没有马克斯冤枉了奥黛丽的人。当然，这两种思想在一个人的认知经济中产生非常不同的影响。联想主义者面临的挑战是解释联想结构奥黛丽/冤枉/马克斯如何与冤枉/马克斯/奥黛丽的结构区分开来，同时捕捉到这些思想的差异。
+系统性是一个命题，即思想者能够接受的思想之间存在可预测的模式。能够接受某种结构的思想者总是能够接受具有相关结构的不同思想。例如，任何能够思考形式为“_X_及物动词_Y_”的复杂思想的思想者都能够思考“_Y_及物动词_X_”。系统性意味着我们不会找到只能思考这两种思想中的一种的思想者，否则我们将找不到一个能够思考奥黛丽冤枉了马克斯但没有马克斯冤枉了奥黛丽的人。当然，这两种思想在一个人的认知经济中产生非常不同的影响。联想主义者面临的挑战是解释联想结构奥黛丽/冤枉/马克斯如何与冤枉/马克斯/奥黛丽的结构区分开来，同时捕捉到这些思想的差异。
 
 对于这个问题，联想主义者有不同的回应。有些人否认人类思维实际上是组合性的、生产性的和系统性的，而其他非联想主义者则同意这一批评。例如，普林兹和克拉克声称“概念大部分时间不会组合”（2002: 62），约翰逊（2004）认为系统性标准是错误的（有关这些问题的详细讨论，请参见艾德迪 1997 年的论述）。拉梅尔哈特等人提出了“图式”的连接主义解释，旨在涵盖本节中提到的一些现象（拉梅尔哈特等人 1986 年）。其他人则致力于展示经典条件反射确实能够产生复杂的联想结构（Rescorla 1988）。为了捍卫联想主义对复杂联想的解释，Rescorla 写道，
 
-显然，动物们并不仅仅是通过与其元素的并行关联来编码 RH [复合]化合物。相反，它们参与了一些更具层次性的情境构建，形成了化合物的表征并将其用作关联物。（Rescorla 1988: 156）
+显然，动物们并不仅仅是通过与其元素的并行关联来编码 RH \[复合]化合物。相反，它们参与了一些更具层次性的情境构建，形成了化合物的表征并将其用作关联物。（Rescorla 1988: 156）
 
 关于联想主义是否具备自身解释这种复杂化合物的理论工具仍存在争议（参见，例如，Fodor 2003; Mitchell 2009; Gallistel and King 2009; Quilty-Dunn and Mandelbaum 2019）。
 
@@ -209,7 +209,7 @@ Gallistel 认为，群体学习曲线看起来平稳而逐渐的原因是在开�
 
 对“味觉厌恶”和“避开诱饵”进行的研究，在经典条件反射的联想学习传统中提供了各种与接触性的问题。加西亚观察到，味觉刺激（例如喝水或吃热狗），而不是视听刺激（光和声音），会自然地与恶心感联系在一起。例如，加西亚和科林（1966）将视听刺激（光和声音）与味觉刺激（调味水）配对。然后，这两种刺激与接受辐射的大鼠配对，使大鼠感到恶心。大鼠将恶心感与水联系在一起，而不是与声音联系在一起，尽管声音与水是连续的。此外，摄入味觉刺激和感到恶心之间的延迟可能相当长，直到 12 小时后才出现恶心感（Roll 和 Smith 1972），并且有机体在出现负面感觉时甚至不需要有意识。（有关综述，请参见 Seligman 1970；Garcia 等人 1974）。时间延迟表明，为了进行学习，CS（调味水）与 US（恶心感）之间不必连续，从而表明连续性对于联想学习并非必要。
 
-加西亚的研究还揭示了联想主义的领域通用性问题。在上述研究中，大鼠准备将恶心感与味觉刺激联系起来，但不会将其与视听刺激联系起来。然而，如果将 US 从感到恶心改为与视听和味觉刺激完全连续接收电击，则大鼠将将电击与视听刺激联系起来，而不是与味觉刺激联系起来。也就是说，大鼠准备将视听刺激与电击联系起来，但对将电击与味觉刺激联系起来则不准备。因此，学习似乎并非完全领域通用（有关人类中类似内容特异性效应，请参见 Baeyens 等人 1990）。[33]
+加西亚的研究还揭示了联想主义的领域通用性问题。在上述研究中，大鼠准备将恶心感与味觉刺激联系起来，但不会将其与视听刺激联系起来。然而，如果将 US 从感到恶心改为与视听和味觉刺激完全连续接收电击，则大鼠将将电击与视听刺激联系起来，而不是与味觉刺激联系起来。也就是说，大鼠准备将视听刺激与电击联系起来，但对将电击与味觉刺激联系起来则不准备。因此，学习似乎并非完全领域通用（有关人类中类似内容特异性效应，请参见 Baeyens 等人 1990）。\[33]
 
 最后，“加西亚效应”也被用来展示学习曲线中的问题（见[第 9.1 节](https://plato.stanford.edu/entries/associationist-thought/#LeaCur)）。“味道厌恶”是一种现象，有机体因摄入刺激物而感到恶心，并将该刺激物的味道（或气味，加西亚等人，1974 年）与恶心的感觉联系起来。正如任何曾经食物中毒的人所能证明的那样，这种学习可以一次性进行，不需要在许多次试验中逐渐上升（味道厌恶也在人类中观察到，例如，Bernstein 和 Webster 1980 年；Bernsetin 1985 年；Logue 等人 1981 年；Rozin 1986 年）。
 
@@ -219,186 +219,186 @@ Kamin（1969）的著名阻断实验表明，并非所有连续结构都会导�
 
 同样，Rescorla（1968）证明了 CS 只有在 US 出现时才出现，但它们之间的关联仍无法被学习。如果一个音调只在有电击时响起，但即使没有音调时仍有电击（即 CS 只与 US 同时出现，但 US 有时没有 CS），CS 和 US 之间不会发生联想学习。相反，被试者（在 Rescorla 1968 中是大鼠）只会学习到电击和实验环境之间的联系，例如实验进行的房间。
 
-在很大程度上，由于 9.4 中讨论的问题，许多经典条件反射理论家放弃了传统的方案。一些人，比如加西亚，似乎完全放弃了经典的理论框架（加西亚等人，1974 年），而其他人，比如雷斯科拉和瓦格纳，试图将这个框架引入到现代时代（参见雷斯科拉和瓦格纳，1972 年；雷斯科拉，1988 年），在这个框架中，条件反射被视为对基础率敏感并由信息获取驱动。[[36](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-36)] 这种运动是被解释为经典条件反射的实质性修订（雷斯科拉，1988 年；海斯，2012 年），还是完全放弃它（加利斯特尔和金，2009 年），这是有争议的。
+在很大程度上，由于 9.4 中讨论的问题，许多经典条件反射理论家放弃了传统的方案。一些人，比如加西亚，似乎完全放弃了经典的理论框架（加西亚等人，1974 年），而其他人，比如雷斯科拉和瓦格纳，试图将这个框架引入到现代时代（参见雷斯科拉和瓦格纳，1972 年；雷斯科拉，1988 年），在这个框架中，条件反射被视为对基础率敏感并由信息获取驱动。\[[36](https://plato.stanford.edu/entries/associationist-thought/notes.html#note-36)] 这种运动是被解释为经典条件反射的实质性修订（雷斯科拉，1988 年；海斯，2012 年），还是完全放弃它（加利斯特尔和金，2009 年），这是有争议的。
 
 ### 9.5 同时扩展性
 
-Rescorla 实验还展示了联想理论中的另一个问题：为什么某个属性被单独作为条件刺激（CS），而不是其他同样同时存在的属性。换句话说，我们需要一个原则来说明在像 Thorndike 的定律这样的概括中，“相同情境”是什么意思。例如，如果一个 CS 和一个 US，比如一个音调和一个电击，完全配对，以至于它们要么同时存在要么同时不存在，那么生物体不会将接收到电击的位置（例如实验环境）与受到电击联系起来，它只会将音调与电击联系起来。但是在 US 没有 CS 的情况下，CS 没有 US 的情况下，生物体将会在电击和位置之间建立联系。然而，在这两种情况下，位置在每次试验中都存在。[37]与电击相比，X 射线辐射作为 US 时，即使它们总是完全配对，似乎也不会与位置相关联[38]。
+Rescorla 实验还展示了联想理论中的另一个问题：为什么某个属性被单独作为条件刺激（CS），而不是其他同样同时存在的属性。换句话说，我们需要一个原则来说明在像 Thorndike 的定律这样的概括中，“相同情境”是什么意思。例如，如果一个 CS 和一个 US，比如一个音调和一个电击，完全配对，以至于它们要么同时存在要么同时不存在，那么生物体不会将接收到电击的位置（例如实验环境）与受到电击联系起来，它只会将音调与电击联系起来。但是在 US 没有 CS 的情况下，CS 没有 US 的情况下，生物体将会在电击和位置之间建立联系。然而，在这两种情况下，位置在每次试验中都存在。\[37]与电击相比，X 射线辐射作为 US 时，即使它们总是完全配对，似乎也不会与位置相关联\[38]。
 
-当多个属性同时存在时，确定哪些属性会相互关联的问题有时被称为“信用分配问题”（参见，例如，Gallistel 和 King 2009）。[39]有人认为，这个问题是一个更大问题的症状：试图使用外延标准来指定内涵内容（参见，例如，Fodor 2003）。联想主义者需要一个标准来确定哪些共同存在的属性实际上会被学习，哪些不会。
+当多个属性同时存在时，确定哪些属性会相互关联的问题有时被称为“信用分配问题”（参见，例如，Gallistel 和 King 2009）。\[39]有人认为，这个问题是一个更大问题的症状：试图使用外延标准来指定内涵内容（参见，例如，Fodor 2003）。联想主义者需要一个标准来确定哪些共同存在的属性实际上会被学习，哪些不会。
 
 另一个担忧源于观察到有时缺乏某个属性的实例化是所学内容的一个重要组成部分。为了解决缺失属性的问题，当代联想主义者引入了一个重要的理论元素：抑制。例如，如果只有在另一个不存在时，美国（US）和条件刺激（CS）才出现，生物体将学习到它们之间存在负相关关系；也就是说，生物体将学习到 CS 的缺失预测了 US 的出现。在这种情况下，CS 成为 US 的“条件性抑制物”。抑制，使用联想作为调节因子而不仅仅是激活因子，是当前联想主义思想的核心部分。例如，在连接主义网络中，抑制是通过某些节点的激活来抑制其他节点的激活实现的。连接权重可以是正数或负数，负权重代表了联想关系的抑制强度。
 
 ## Bibliography
 
-* Anderson, J., K. Spoehr, and D. Bennett, 1994, “A Study in Numerical Perversity: Teaching Arithmetic to a Neural Network”, in *Neural Networks for Knowledge Representation and Inference*, D. Levine and M. Aparicio IV (eds.), East Sussex: Psychology Press, pp. 311–335.
-* Armstrong, K., S. Kose, L. Williams, A. Woolard, and S. Heckers, 2012, “Impaired Associative Inference in Patients with Schizophrenia”, *Schizophrenia Bulletin*, 38(3): 622–629.
-* Asch, S., 1962, “A Problem in the Theory of Associations”, *Psychologische Beitrage*, (6): 553–563.
-* –––, 1969, “A Reformulation of the Problem of Association”, *American Psychologist*, 24(2): 92–102.
-* Aydede, M., 1997, “Language of Thought: The Connectionist Contribution”, *Minds and Machines*, *7*(1): 57–101.
-* Baeyens, F., P. Eelen, O. Van den Bergh, and G. Crombez, 1990, “Flavor-Flavor and Color-Flavor Conditioning in Humans”, *Learning and Motivation*, 21(4): 434–455.
-* Baeyens,F., P. Eelen, and G. Crombez, 1995, “Pavlovian Associations are Forever: On Classical Conditioning and Extinction”, *Journal of Psychophysiology*, 9(2): 127–141.
-* Bar-Anan Y., B. Nosek, and M. Vianello, 2009, “The Sorting Paired Features Task: A Measure of Association Strengths”, *Experimental Psychology*, 56(5): 329–343.
-* Bates, E. and B. MacWhinney, 1987, “Competition, Variation, and Language Learning”, in B. MacWhinney (ed.), *Mechanisms of Language Acquisition*, Hillsdale, N.J.: Lawrence Erlbaum Associates, pp. 157–193.
-* Bendana, J. and E. Mandelbaum, forthcoming, “The Fragmentation of Belief”, in D. Kindermann, C. Borgoni, and A. Onofri (eds.), *The Fragmented Mind*, Oxford: Oxford University Press.
-* Berger, J., 2020, “Implicit attitudes and awareness”, *Synthese*, 197(3): 1291–1312.
-* Bernstein, I. and M. Webster, 1980, “Learned Taste Aversions in Humans”, *Physiology and Behavior*, 25(3): 363–366.
-* Bernstein, I., 1985, “Learned Food Aversions in the Progression of Cancer and its Treatment”, in N. Braveman and P. Bronstein, (eds.), *Experimental Assessments and Clinical Applications of Conditioned Food Aversions*, New York: New York Academy of Sciences, pp. 365–80.
-* Black, W. and W. Prokasy (eds.), 1972, *Classical Conditioning II: Current Research and Theory*, New York: Appleton-Century-Crofts.
-* Bloom, P., 2000, *How Children Learn the Meanings of Words*, Cambridge, MA: MIT Press.
-* Bouton, M., 2002, “Context, Ambiguity, and Unlearning: Sources of Relapse after Behavioral Extinction”, *Biological Psychiatry*, 52(10): 976–986.
-* –––, 2004, “Context and Behavioral Processes in Extinction”, *Learning and Memory*, 11(5): 485–494.
-* Brett, L., W. Hankins, and J. Garcia, 1976, “Prey-Lithium Aversions. III: Buteo hawks”, *Behavioral Biology*, 17(1): 87–98.
-* Camp, L., 2007, “Thinking with Maps”, *Philosophical Perspectives*, 21(1): 145–182.
-* Carey, S., 1978a, “Less May Never Mean More”, in R. Campbell and P. Smith, (eds.), *Recent Advances in the Psychology of Language*, New York: Plenum Press, p. 109–132.
-* –––, 1978b, “The Child as Word Learner”, in J. Bresnan, G. Miller, and M. Halle, (eds.), *Linguistic Theory and Psychological Reality*, Cambridge, MA: MIT Press, pp. 264–293.
-* –––, 2010, “Beyond Fast Mapping”, *Language Learning and Development*, 6(3): 184–205.
-* Carey, S. and E. Bartlett, 1978, “Acquiring a Single New Word”, *Proceedings of the Stanford Child Language Conference*, 15: 17–29.
-* Caselli, M.C., E. Bates, P. Casadio, J. Fenson, L. Fenson, L. Sanderl, and J. Weir, 1995, “A Cross-linguistic Study of Early Lexical Development”, *Cognitive Development*, 10(2): 159–199.
-* Chaiken, S. and Y. Trope (eds.), 1999, *Dual-Process Theories in Social Psychology*, New York: Guilford Press.
-* Chalmers, D., 1993, “Connectionism and Compositionality: Why Fodor and Pylyshyn Were Wrong”, *Philosophical Psychology*, 6(3): 305–319.
-* Chater, N., 2009, “Rational Models of Conditioning”, *Behavioral and Brain Sciences*, 32(2): 204–205.
-* –––, J. Tenenbaum, and A. Yuille, 2006, “Probabilistic Models of Cognition: Conceptual Foundations”, *Trends in Cognitive Sciences*, 10(7): 287–291.
-* Chomsky, N., 1959, “A Review of B.F. Skinner’s Verbal Behavior”, *Language*, 35(1): 26–58.
-* Churchland, P., 1986, “Some Reductive Strategies in Cognitive Neurobiology”, *Mind*, 95(379): 279–309.
-* –––, 1989, *A Neurocomputational Perspective: The Nature of Mind and the Structure of Science*, Cambridge, MA: MIT.
-* Churchland, P. and T. Sejnowski, 1990, “Neural Representation and Neural Computation”, *Philosophical Perspectives*, 4: 343–382.
-* Collins, A. and E. Loftus, 1975, “A Spreading-Activation Theory of Semantic Processing”, *Psychological Review*, 82(6): 407–428.
-* Danks D., 2013, “Moving from Levels and Reduction to Dimensions and Constraints”, *Proceedings of the 35th Annual Conference of the Cognitive Science Society*, 35: 2124–2129.
-* De Houwer, J., 2009, “The Propositional Approach to Associative Learning as an Alternative for Association Formation Models”, *Learning & Behavior*, 37(1): 1–20.
-* –––, 2011, “Evaluative Conditioning: A Review of Procedure Knowledge and Mental Process Theories”, in T. Schachtman and S. Reilly (eds.), *Associative Learning and Conditioning Theory: Human and Non-Human Applications*, New York: Oxford University Press, pp. 399–416.
-* –––, 2014, “A Propositional of Implicit Evaluation”, *Social and Personality Psychology Compass*, 8(7): 342–353.
-* –––, 2018, “Propositional Models of Evaluative Conditioning”, *Social Psychological Bulletin*, 13(2): 1–21.
-* –––, 2019, “Moving Beyond System 1 and System 2: Conditioning, Implicit Evaluation, and Habitual Responding Might Be Mediated by Relational Knowledge”, *Experiental Psychology*, 66(4): 257–265.
-* De Houwer, J., S. Thomas, and F. Baeyens, 2001, “Association Learning of Likes and Dislikes: A Review of 25 years of Research on Human Evaluative Conditioning”, *Psychological Bulletin*, 127(6): 853–869.
-* Dehaene, S., 2011, *The Number Sense: How the Mind Creates Mathematics*, Oxford: Oxford University Press.
-* Diaz, E., G. Ruis, and F. Baeyens, 2005, “Resistance to Extinction of Human Evaluative Conditioning Using a Between-Subjects Design”, *Cognition and Emotion*, 19(2): 245–268.
-* Dickinson, A., D. Shanks, and J. Evenden, 1984, “Judgment of Act-Outcome Contingency: The role of Selective Attribution”, *The Quarterly Journal of Experimental Psychology*, *36*(1): 29–50.
-* Dirikx, T., D. Hermans, D. Vansteenwegen, F. Baeyens, and P. Eelen, 2004, “Reinstatement of Extinguished Conditioned Responses and Negative Stimulus Valence as a Pathway to Return of Fear in Humans”, *Learning and Memory*, 11: 549–54.
-* Elman, J., 1991, “Distributed Representations, Simple Recurrent Networks, and Grammatical Structure”, *Machine learning*, 7(2–3): 195–225.
-* Elman, J., E. Bates, M. Johnson, A. Karmiloff-Smith, D. Parisi, and K. Plunkett, 1996, *Rethinking Innateness: A Connectionist Perspective on Development*, Cambridge, MA: MIT Press.
-* Evans, G., 1982, *The Varieties of Reference*, J. McDowell (ed.), Oxford: Clarendon Press.
-* Evans, J., and K. Frankish (eds.), 2009, *In Two Minds: Dual Processes and Beyond*, Oxford: Oxford University Press.
-* –––, and K. Stanovich, 2013, “Dual-Process Theories of Higher Cognition: Advancing the Debate,” *Perspectives on Psychological Science*, 8(3): 223–241.
-* Fazio, R., 2007, “Attitudes as Object-Evaluation Associations of Varying Strength”, *Social Cognition*, 25(5): 603–637.
-* Festinger, L. and J. Carlsmith, 1959, “Cognitive Consequences of Forced Compliance”, *The Journal of Abnormal and Social Psychology*, 58(2): 203–210.
-* Field, A. and G. Davey, 1999, “Reevaluating Evaluative Conditioning: A Nonassociative Explanation of Conditioning Effects in the Visual Evaluative Conditioning Paradigm”, *Journal of Experimental Psychology: Animal Behavior Processes*, 25(2): 211–224.
-* Fodor, J., 1983, *The Modularity of Mind*, Cambridge, MA: MIT Press.
-* –––, 2001, *The Mind Doesn’t Work that Way*, Cambridge, MA: MIT Press.
-* –––, 2003, *Hume Variations*, Oxford: Clarendon Press.
-* Fodor, J., and B. McLaughlin, 1990, “Connectionism and the Problem of Systematicity: Why Smolensky’s Solution Doesn’t Work”, *Cognition*, 35(2): 183–204.
-* Fodor, J., and Z. Pylyshyn, 1988, “Connectionism and Cognitive Architecture: A Critical Analysis”, *Cognition*, 28(1–2): 3–71.
+* Anderson, J., K. Spoehr, and D. Bennett, 1994, “A Study in Numerical Perversity: Teaching Arithmetic to a Neural Network”, in _Neural Networks for Knowledge Representation and Inference_, D. Levine and M. Aparicio IV (eds.), East Sussex: Psychology Press, pp. 311–335.
+* Armstrong, K., S. Kose, L. Williams, A. Woolard, and S. Heckers, 2012, “Impaired Associative Inference in Patients with Schizophrenia”, _Schizophrenia Bulletin_, 38(3): 622–629.
+* Asch, S., 1962, “A Problem in the Theory of Associations”, _Psychologische Beitrage_, (6): 553–563.
+* –––, 1969, “A Reformulation of the Problem of Association”, _American Psychologist_, 24(2): 92–102.
+* Aydede, M., 1997, “Language of Thought: The Connectionist Contribution”, _Minds and Machines_, _7_(1): 57–101.
+* Baeyens, F., P. Eelen, O. Van den Bergh, and G. Crombez, 1990, “Flavor-Flavor and Color-Flavor Conditioning in Humans”, _Learning and Motivation_, 21(4): 434–455.
+* Baeyens,F., P. Eelen, and G. Crombez, 1995, “Pavlovian Associations are Forever: On Classical Conditioning and Extinction”, _Journal of Psychophysiology_, 9(2): 127–141.
+* Bar-Anan Y., B. Nosek, and M. Vianello, 2009, “The Sorting Paired Features Task: A Measure of Association Strengths”, _Experimental Psychology_, 56(5): 329–343.
+* Bates, E. and B. MacWhinney, 1987, “Competition, Variation, and Language Learning”, in B. MacWhinney (ed.), _Mechanisms of Language Acquisition_, Hillsdale, N.J.: Lawrence Erlbaum Associates, pp. 157–193.
+* Bendana, J. and E. Mandelbaum, forthcoming, “The Fragmentation of Belief”, in D. Kindermann, C. Borgoni, and A. Onofri (eds.), _The Fragmented Mind_, Oxford: Oxford University Press.
+* Berger, J., 2020, “Implicit attitudes and awareness”, _Synthese_, 197(3): 1291–1312.
+* Bernstein, I. and M. Webster, 1980, “Learned Taste Aversions in Humans”, _Physiology and Behavior_, 25(3): 363–366.
+* Bernstein, I., 1985, “Learned Food Aversions in the Progression of Cancer and its Treatment”, in N. Braveman and P. Bronstein, (eds.), _Experimental Assessments and Clinical Applications of Conditioned Food Aversions_, New York: New York Academy of Sciences, pp. 365–80.
+* Black, W. and W. Prokasy (eds.), 1972, _Classical Conditioning II: Current Research and Theory_, New York: Appleton-Century-Crofts.
+* Bloom, P., 2000, _How Children Learn the Meanings of Words_, Cambridge, MA: MIT Press.
+* Bouton, M., 2002, “Context, Ambiguity, and Unlearning: Sources of Relapse after Behavioral Extinction”, _Biological Psychiatry_, 52(10): 976–986.
+* –––, 2004, “Context and Behavioral Processes in Extinction”, _Learning and Memory_, 11(5): 485–494.
+* Brett, L., W. Hankins, and J. Garcia, 1976, “Prey-Lithium Aversions. III: Buteo hawks”, _Behavioral Biology_, 17(1): 87–98.
+* Camp, L., 2007, “Thinking with Maps”, _Philosophical Perspectives_, 21(1): 145–182.
+* Carey, S., 1978a, “Less May Never Mean More”, in R. Campbell and P. Smith, (eds.), _Recent Advances in the Psychology of Language_, New York: Plenum Press, p. 109–132.
+* –––, 1978b, “The Child as Word Learner”, in J. Bresnan, G. Miller, and M. Halle, (eds.), _Linguistic Theory and Psychological Reality_, Cambridge, MA: MIT Press, pp. 264–293.
+* –––, 2010, “Beyond Fast Mapping”, _Language Learning and Development_, 6(3): 184–205.
+* Carey, S. and E. Bartlett, 1978, “Acquiring a Single New Word”, _Proceedings of the Stanford Child Language Conference_, 15: 17–29.
+* Caselli, M.C., E. Bates, P. Casadio, J. Fenson, L. Fenson, L. Sanderl, and J. Weir, 1995, “A Cross-linguistic Study of Early Lexical Development”, _Cognitive Development_, 10(2): 159–199.
+* Chaiken, S. and Y. Trope (eds.), 1999, _Dual-Process Theories in Social Psychology_, New York: Guilford Press.
+* Chalmers, D., 1993, “Connectionism and Compositionality: Why Fodor and Pylyshyn Were Wrong”, _Philosophical Psychology_, 6(3): 305–319.
+* Chater, N., 2009, “Rational Models of Conditioning”, _Behavioral and Brain Sciences_, 32(2): 204–205.
+* –––, J. Tenenbaum, and A. Yuille, 2006, “Probabilistic Models of Cognition: Conceptual Foundations”, _Trends in Cognitive Sciences_, 10(7): 287–291.
+* Chomsky, N., 1959, “A Review of B.F. Skinner’s Verbal Behavior”, _Language_, 35(1): 26–58.
+* Churchland, P., 1986, “Some Reductive Strategies in Cognitive Neurobiology”, _Mind_, 95(379): 279–309.
+* –––, 1989, _A Neurocomputational Perspective: The Nature of Mind and the Structure of Science_, Cambridge, MA: MIT.
+* Churchland, P. and T. Sejnowski, 1990, “Neural Representation and Neural Computation”, _Philosophical Perspectives_, 4: 343–382.
+* Collins, A. and E. Loftus, 1975, “A Spreading-Activation Theory of Semantic Processing”, _Psychological Review_, 82(6): 407–428.
+* Danks D., 2013, “Moving from Levels and Reduction to Dimensions and Constraints”, _Proceedings of the 35th Annual Conference of the Cognitive Science Society_, 35: 2124–2129.
+* De Houwer, J., 2009, “The Propositional Approach to Associative Learning as an Alternative for Association Formation Models”, _Learning & Behavior_, 37(1): 1–20.
+* –––, 2011, “Evaluative Conditioning: A Review of Procedure Knowledge and Mental Process Theories”, in T. Schachtman and S. Reilly (eds.), _Associative Learning and Conditioning Theory: Human and Non-Human Applications_, New York: Oxford University Press, pp. 399–416.
+* –––, 2014, “A Propositional of Implicit Evaluation”, _Social and Personality Psychology Compass_, 8(7): 342–353.
+* –––, 2018, “Propositional Models of Evaluative Conditioning”, _Social Psychological Bulletin_, 13(2): 1–21.
+* –––, 2019, “Moving Beyond System 1 and System 2: Conditioning, Implicit Evaluation, and Habitual Responding Might Be Mediated by Relational Knowledge”, _Experiental Psychology_, 66(4): 257–265.
+* De Houwer, J., S. Thomas, and F. Baeyens, 2001, “Association Learning of Likes and Dislikes: A Review of 25 years of Research on Human Evaluative Conditioning”, _Psychological Bulletin_, 127(6): 853–869.
+* Dehaene, S., 2011, _The Number Sense: How the Mind Creates Mathematics_, Oxford: Oxford University Press.
+* Diaz, E., G. Ruis, and F. Baeyens, 2005, “Resistance to Extinction of Human Evaluative Conditioning Using a Between-Subjects Design”, _Cognition and Emotion_, 19(2): 245–268.
+* Dickinson, A., D. Shanks, and J. Evenden, 1984, “Judgment of Act-Outcome Contingency: The role of Selective Attribution”, _The Quarterly Journal of Experimental Psychology_, _36_(1): 29–50.
+* Dirikx, T., D. Hermans, D. Vansteenwegen, F. Baeyens, and P. Eelen, 2004, “Reinstatement of Extinguished Conditioned Responses and Negative Stimulus Valence as a Pathway to Return of Fear in Humans”, _Learning and Memory_, 11: 549–54.
+* Elman, J., 1991, “Distributed Representations, Simple Recurrent Networks, and Grammatical Structure”, _Machine learning_, 7(2–3): 195–225.
+* Elman, J., E. Bates, M. Johnson, A. Karmiloff-Smith, D. Parisi, and K. Plunkett, 1996, _Rethinking Innateness: A Connectionist Perspective on Development_, Cambridge, MA: MIT Press.
+* Evans, G., 1982, _The Varieties of Reference_, J. McDowell (ed.), Oxford: Clarendon Press.
+* Evans, J., and K. Frankish (eds.), 2009, _In Two Minds: Dual Processes and Beyond_, Oxford: Oxford University Press.
+* –––, and K. Stanovich, 2013, “Dual-Process Theories of Higher Cognition: Advancing the Debate,” _Perspectives on Psychological Science_, 8(3): 223–241.
+* Fazio, R., 2007, “Attitudes as Object-Evaluation Associations of Varying Strength”, _Social Cognition_, 25(5): 603–637.
+* Festinger, L. and J. Carlsmith, 1959, “Cognitive Consequences of Forced Compliance”, _The Journal of Abnormal and Social Psychology_, 58(2): 203–210.
+* Field, A. and G. Davey, 1999, “Reevaluating Evaluative Conditioning: A Nonassociative Explanation of Conditioning Effects in the Visual Evaluative Conditioning Paradigm”, _Journal of Experimental Psychology: Animal Behavior Processes_, 25(2): 211–224.
+* Fodor, J., 1983, _The Modularity of Mind_, Cambridge, MA: MIT Press.
+* –––, 2001, _The Mind Doesn’t Work that Way_, Cambridge, MA: MIT Press.
+* –––, 2003, _Hume Variations_, Oxford: Clarendon Press.
+* Fodor, J., and B. McLaughlin, 1990, “Connectionism and the Problem of Systematicity: Why Smolensky’s Solution Doesn’t Work”, _Cognition_, 35(2): 183–204.
+* Fodor, J., and Z. Pylyshyn, 1988, “Connectionism and Cognitive Architecture: A Critical Analysis”, _Cognition_, 28(1–2): 3–71.
 * Frankish, K., 2009, “Systems and Levels: Dual-System Theories and the Personal-Subpersonal Distinction”, in Evans and Frankish 2009: pp.89–107.
-* Gagliano, M., V. Vyazovsky, A. Borbely, M. Grimonprez, and M. Depczynski, 2016, “Learning by Association in Plants”, *Scientific Reports*, 6(38427): 1–8.
-* Gallistel, C., S. Fairhurst, and P. Balsam, 2004, “The Learning Curve: Implications of a Quantitative Analysis”, *Proceedings of the National Academy of Sciences of the United States of America*, 101(36): 13124–13131.
-* Gallistel, C., and A. King, 2009, *Memory and the Computational Brain: Why Cognitive Science Will Transform Neuroscience*, West Sussex: Wiley Blackwell.
-* Garcia, J., 1981, “Tilting at the Paper Mills of Academe”, *American Psychologist*, 36(2): 149–158.
-* Garcia, J., R. Kovner, and K. Green, 1970, “Cue Properties vs Palatability of Flavors in Avoidance Learning”, *Psychonomic Science*, 20(5): 313–314.
+* Gagliano, M., V. Vyazovsky, A. Borbely, M. Grimonprez, and M. Depczynski, 2016, “Learning by Association in Plants”, _Scientific Reports_, 6(38427): 1–8.
+* Gallistel, C., S. Fairhurst, and P. Balsam, 2004, “The Learning Curve: Implications of a Quantitative Analysis”, _Proceedings of the National Academy of Sciences of the United States of America_, 101(36): 13124–13131.
+* Gallistel, C., and A. King, 2009, _Memory and the Computational Brain: Why Cognitive Science Will Transform Neuroscience_, West Sussex: Wiley Blackwell.
+* Garcia, J., 1981, “Tilting at the Paper Mills of Academe”, _American Psychologist_, 36(2): 149–158.
+* Garcia, J., R. Kovner, and K. Green, 1970, “Cue Properties vs Palatability of Flavors in Avoidance Learning”, _Psychonomic Science_, 20(5): 313–314.
 * Garcia, J., B. McGowan, and K. Green, 1972, “Biological Constraints on Conditioning II”, in Black and Prokasy 1972: pp.3–27.
-* Garcia, J., W. Hankins, and K. Rusiniak, 1974, “Behavioral Regulation of the Milieu Interne in Man and Rat”, *Science*, 185(4154): 824–831.
-* Garcia, J., R.A. Koelling, 1966, “Relationship of cue to consequence in avoidance learning”, *Psychonomic Science*, 4: 123–124.
-* Gendler, T., 2008, “Alief and Belief”, *Journal of Philosophy*, 105(10): 634–63.
-* Gleitman, L., K. Cassidy, R. Nappa, A. Papafragou, and J. Trueswell, 2005, “Hard Words”, *Language Learning and Development*, 1(1): 23–64.
-* Glosser, G. and R. Freidman, 1991, “Lexical but not Semantic Priming in Alzheimer’s Disease”, *Psychology and Aging*, 6(4): 522–27.
-* Goldin-Meadow, S., M. Seligman, and S. Gelman, 1976, “Language in the Two-Year Old”, *Cognition*, 4(2): 189–202.
-* Greenwald, A., D. McGhee, and J. Schwartz, 1998, “Measuring Individual Differences in Implicit Cognition: The Implicit Association Test”, *Journal of Personality and Social Psychology*, 74(6): 1464–1480.
-* Hahn, A., C. Judd, H. Hirsch, and I. Blair, 2014, “Awareness of Implicit Attitudes”, *Journal of Experimental Psychology: General*, 143(3): 1369–1392.
-* Heyes, C., 2012, “Simple Minds: A Qualified Defence of Associative Learning”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 367(1603): 2695–2703.
-* Hughes, S., Y. Ye, P. Van Dessel, and J. De Houwer, 2019, “When people co occur with good or bad events: Graded effects of relational qualifiers on evaluative conditioning.”, *Personality and Social Psychology Bulletin*, 45(2): 196–208.
-* Hull, C., 1943, *Principles of Behavior*, New York: Appleton-Century-Crofts.
-* Hume, D., 1738, *A Treatise of Human Nature*, L.A. Selby-Bigge (ed.), 2nd ed., revised by P.H. Nidditch, Oxford: Clarendon Press, 1975.
-* James, W., 1890, *The Principles of Psychology* (Vol. 1), New York: Holt.
-* Johnson, K., 2004, “On the Systematicity of Language and Thought”, *Journal of Philosophy*, 101(3): 111–139.
-* Kahneman, D., 2011, *Thinking, Fast and Slow*, New York: Farrar, Straus and Giroux.
-* Kamin, L., 1969, “Predictability, Surprise, Attention, and Conditioning”, in B. Campbell and R. Church (eds.), *Punishment and Aversive Behavior*, New York: Appleton-Century-Crofts, pp. 279–296.
-* Kant, I., 1781/1787, *Critique of Pure Reason*, in P. Guyer and A. Wood (eds.), *Critique of Pure Reason*, New York: Cambridge University Press.
-* Karmiloff-Smith, A., 1995, *Beyond Modularity: A Developmental Perspective on Cognitive Science*, Cambridge, MA: MIT Press/Bradford Books.
-* Kruglanski, A., 2013, “Only One? The Default Interventionist Perspective as a Unimodel—Commentary on Evans & Stanovich”, *Perspectives on Psychological Science*, 8(3): 242–247.
-* Kurdi, B., and M. Banaji, 2017, “Repeated evaluative pairings and evaluative statements: How effectively do they shift implicit attitudes?”, *Journal of Experimental Psychology: General*, 146(2): 194–213.
-* –––, 2019, “Attitude change via repeated evaluative pairings versus evaluative statements: Shared and unique features”, *Journal of Personality and Social Psychology*, 116(5): 681–703.
-* Locke, J., 1690, *An Essay Concerning Human Understanding*, in Peter H. Nidditch (ed.), *An Essay Concerning Human Understanding*, Oxford: Clarendon Press, 1975,
-* Logue, A., I. Ophir, and K. Strauss, 1981, “The Acquisition of Taste Aversion in Humans”, *Behavioral Research and Therapy*, 19(4): 319–33.
-* Luka, B., and L. Barsalou, 2005, “Structural facilitation: Mere exposure effects for grammatical acceptability as evidence for syntactic priming in comprehension”, *Journal of Memory and Language*, 52: 444–467.
-* Lycan, W, 1990, “The Continuity of the Levels of Nature”, in W. Lycan (ed.), *Mind and Cognition: A Reader*, Cambridge: Basil Blackwell, pp. 77–96.
-* Madva, A., and M. Brownstein, 2018, “Stereotypes, Prejudice, and the Taxonomy of the Implicit Social Mind”, *Nous*, 52(3): 611–644.
-* Mandelbaum, E., 2013a, “Against Alief”, *Philosophical Studies*, 165(1): 197–211.
-* –––, 2013b, “Numerical Architecture”, *Topics in Cognitive Science*, 5(2): 367–386.
-* –––, 2016, “Attitude, Inference, Association: On the Propositional Structure of Implicit Attitudes”, *Nous*, 50(3): 629–658.
-* –––, 2017, “Seeing and Conceptualizing: Modularity and the Shallow Contents of Vision”, *Philosophy and Phenomenological Research*, 97(2): 267–283.
-* –––, 2019, “Troubles with Bayesianism: An Introduction to the Psychological Immune System”, *Mind & Language*, 34(2): 141–157.
-* Mann, T., and M. Ferguson, 2015, “Can we undo our first impressions? The role of reinterpretation in reversing implicit evaluations”, *Journal of Social and Personality Psychology*, 108(6): 823–849.
-* –––, 2017, “Reversing implicit first impressions through reinterpretation after a two-day delay.”, *Journal of Experimental Social Psychology*, 68: 122–127.
-* Mann, T., B. Kurdi, and M. Banaji, 2019, “ How effectively can implicit evaluations be updated? Using evaluative statements after aversive repeated evaluative pairings”, *Journal of Experimental Psychology: General*, doi: 10.1037/xge0000701.
-* Markman, E., 1989, *Categorization and Naming in Children: Problems of Induction*, Cambridge, MA: MIT Press.
-* Markson, L. and P. Bloom, 1997, “Evidence Against a Dedicated System for Word Learning in Children”, *Nature*, 385(6619): 813–815.
-* Marr, D., 1982, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*, NY: W.H. Freeman and Co.
-* Mason, M. and M. Bar, 2012, “The Effect of Mental Progression on Mood”, *Journal of Experimental Psychology: General*, 141(2): 217–221. doi:10.1037/a0025035
-* McClelland, J., M. Botvinick, D. Noelle, D. Plaut, T. Rogers, M. Seidenberg, and L. Smith, 2010, “Letting Structure Emerge: Connectionist and Dynamic Systems Approaches to Cognition”, *Trends in Cognitive Sciences*, 14(8): 348–356.
-* Minsky, M., 1963, “Steps toward Artificial Intelligence”, in E. Feigenbaum and J. Feldman (eds.), *Computers And Thought*, New York, NY: McGraw-Hill, pp. 406–450.
-* Mitchell, C., J. De Houwer, and P. Lovibond, 2009, “The Propositional Nature of Human Associative Learning”, *Behavioral and Brain Sciences*, 32(2): 183–246.
-* Nosek, B. and M. Banaji, 2001, “The Go/No-Go Association Task”, *Social Cognition*, 19(6): 625–66.
-* Osman, M., 2013, “A Case Study Dual-Process Theories of Higher Cognition—Commentary on Evans & Stanovich”, *Perspectives on Psychological Science*, 8(3): 248–252.
-* Pavlov, I., 1906, “The Scientific Investigation of the Psychical Faculties or Processes in the Higher Animals”, *Science*, 24(620): 613–619.
-* –––, 1927, *Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex*, Oxford: Oxford University Press.
-* Payne, B., Cheng, C., Govorun, O., and Stewart, B., 2005, “An Inkblot for Attitudes: Affect Misattribution as Implicit Measurement”, *Journal of Personality and Social Psychology*, 89(3): 277–293.
-* Perea, M. and E. Rosa, 2002, “The Effects of Associative and Semantic Priming in the Lexical Decision Task”, *Psychological Research*, 66(3): 180–194.
-* Prinz, J., 2002, *Furnishing the Mind: Concepts and their Perceptual Basis*, Cambridge, MA: MIT Press.
-* ––– and A. Clark, 2004, “Putting Concepts to Work: Some Thoughts for the 21st Century”, *Mind & Language*, 19(1): 57–69.
-* Quilty-Dunn, J. forthcoming, “Perceptual Pluralism”, *Nous*, 1–41.
-* Quilty-Dunn, J. and E. Mandelbaum, 2018, “Inferential Transitions”, *Australasian Journal of Philosophy*, 96(3): 532–547.
-* –––, 2019, “Non-Inferential Transitions: Imagery and Association”, in T. Chan and A. Nes (eds.),*Inference and Consciousness*, New York: Routledge, pp. 151–171.
-* Rescorla, R., 1968, “Probability of Shock in the Presence and Absence of CS in Fear Conditioning”, *Journal of Comparative and Physiological Psychology*, 66(1): 1–5.
-* –––, 1988, “Pavlovian Conditioning: It’s Not What You Think It Is”, *American Psychologist*, 43(3): 151–160.
+* Garcia, J., W. Hankins, and K. Rusiniak, 1974, “Behavioral Regulation of the Milieu Interne in Man and Rat”, _Science_, 185(4154): 824–831.
+* Garcia, J., R.A. Koelling, 1966, “Relationship of cue to consequence in avoidance learning”, _Psychonomic Science_, 4: 123–124.
+* Gendler, T., 2008, “Alief and Belief”, _Journal of Philosophy_, 105(10): 634–63.
+* Gleitman, L., K. Cassidy, R. Nappa, A. Papafragou, and J. Trueswell, 2005, “Hard Words”, _Language Learning and Development_, 1(1): 23–64.
+* Glosser, G. and R. Freidman, 1991, “Lexical but not Semantic Priming in Alzheimer’s Disease”, _Psychology and Aging_, 6(4): 522–27.
+* Goldin-Meadow, S., M. Seligman, and S. Gelman, 1976, “Language in the Two-Year Old”, _Cognition_, 4(2): 189–202.
+* Greenwald, A., D. McGhee, and J. Schwartz, 1998, “Measuring Individual Differences in Implicit Cognition: The Implicit Association Test”, _Journal of Personality and Social Psychology_, 74(6): 1464–1480.
+* Hahn, A., C. Judd, H. Hirsch, and I. Blair, 2014, “Awareness of Implicit Attitudes”, _Journal of Experimental Psychology: General_, 143(3): 1369–1392.
+* Heyes, C., 2012, “Simple Minds: A Qualified Defence of Associative Learning”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 367(1603): 2695–2703.
+* Hughes, S., Y. Ye, P. Van Dessel, and J. De Houwer, 2019, “When people co occur with good or bad events: Graded effects of relational qualifiers on evaluative conditioning.”, _Personality and Social Psychology Bulletin_, 45(2): 196–208.
+* Hull, C., 1943, _Principles of Behavior_, New York: Appleton-Century-Crofts.
+* Hume, D., 1738, _A Treatise of Human Nature_, L.A. Selby-Bigge (ed.), 2nd ed., revised by P.H. Nidditch, Oxford: Clarendon Press, 1975.
+* James, W., 1890, _The Principles of Psychology_ (Vol. 1), New York: Holt.
+* Johnson, K., 2004, “On the Systematicity of Language and Thought”, _Journal of Philosophy_, 101(3): 111–139.
+* Kahneman, D., 2011, _Thinking, Fast and Slow_, New York: Farrar, Straus and Giroux.
+* Kamin, L., 1969, “Predictability, Surprise, Attention, and Conditioning”, in B. Campbell and R. Church (eds.), _Punishment and Aversive Behavior_, New York: Appleton-Century-Crofts, pp. 279–296.
+* Kant, I., 1781/1787, _Critique of Pure Reason_, in P. Guyer and A. Wood (eds.), _Critique of Pure Reason_, New York: Cambridge University Press.
+* Karmiloff-Smith, A., 1995, _Beyond Modularity: A Developmental Perspective on Cognitive Science_, Cambridge, MA: MIT Press/Bradford Books.
+* Kruglanski, A., 2013, “Only One? The Default Interventionist Perspective as a Unimodel—Commentary on Evans & Stanovich”, _Perspectives on Psychological Science_, 8(3): 242–247.
+* Kurdi, B., and M. Banaji, 2017, “Repeated evaluative pairings and evaluative statements: How effectively do they shift implicit attitudes?”, _Journal of Experimental Psychology: General_, 146(2): 194–213.
+* –––, 2019, “Attitude change via repeated evaluative pairings versus evaluative statements: Shared and unique features”, _Journal of Personality and Social Psychology_, 116(5): 681–703.
+* Locke, J., 1690, _An Essay Concerning Human Understanding_, in Peter H. Nidditch (ed.), _An Essay Concerning Human Understanding_, Oxford: Clarendon Press, 1975,
+* Logue, A., I. Ophir, and K. Strauss, 1981, “The Acquisition of Taste Aversion in Humans”, _Behavioral Research and Therapy_, 19(4): 319–33.
+* Luka, B., and L. Barsalou, 2005, “Structural facilitation: Mere exposure effects for grammatical acceptability as evidence for syntactic priming in comprehension”, _Journal of Memory and Language_, 52: 444–467.
+* Lycan, W, 1990, “The Continuity of the Levels of Nature”, in W. Lycan (ed.), _Mind and Cognition: A Reader_, Cambridge: Basil Blackwell, pp. 77–96.
+* Madva, A., and M. Brownstein, 2018, “Stereotypes, Prejudice, and the Taxonomy of the Implicit Social Mind”, _Nous_, 52(3): 611–644.
+* Mandelbaum, E., 2013a, “Against Alief”, _Philosophical Studies_, 165(1): 197–211.
+* –––, 2013b, “Numerical Architecture”, _Topics in Cognitive Science_, 5(2): 367–386.
+* –––, 2016, “Attitude, Inference, Association: On the Propositional Structure of Implicit Attitudes”, _Nous_, 50(3): 629–658.
+* –––, 2017, “Seeing and Conceptualizing: Modularity and the Shallow Contents of Vision”, _Philosophy and Phenomenological Research_, 97(2): 267–283.
+* –––, 2019, “Troubles with Bayesianism: An Introduction to the Psychological Immune System”, _Mind & Language_, 34(2): 141–157.
+* Mann, T., and M. Ferguson, 2015, “Can we undo our first impressions? The role of reinterpretation in reversing implicit evaluations”, _Journal of Social and Personality Psychology_, 108(6): 823–849.
+* –––, 2017, “Reversing implicit first impressions through reinterpretation after a two-day delay.”, _Journal of Experimental Social Psychology_, 68: 122–127.
+* Mann, T., B. Kurdi, and M. Banaji, 2019, “ How effectively can implicit evaluations be updated? Using evaluative statements after aversive repeated evaluative pairings”, _Journal of Experimental Psychology: General_, doi: 10.1037/xge0000701.
+* Markman, E., 1989, _Categorization and Naming in Children: Problems of Induction_, Cambridge, MA: MIT Press.
+* Markson, L. and P. Bloom, 1997, “Evidence Against a Dedicated System for Word Learning in Children”, _Nature_, 385(6619): 813–815.
+* Marr, D., 1982, _Vision: A Computational Investigation into the Human Representation and Processing of Visual Information_, NY: W.H. Freeman and Co.
+* Mason, M. and M. Bar, 2012, “The Effect of Mental Progression on Mood”, _Journal of Experimental Psychology: General_, 141(2): 217–221. doi:10.1037/a0025035
+* McClelland, J., M. Botvinick, D. Noelle, D. Plaut, T. Rogers, M. Seidenberg, and L. Smith, 2010, “Letting Structure Emerge: Connectionist and Dynamic Systems Approaches to Cognition”, _Trends in Cognitive Sciences_, 14(8): 348–356.
+* Minsky, M., 1963, “Steps toward Artificial Intelligence”, in E. Feigenbaum and J. Feldman (eds.), _Computers And Thought_, New York, NY: McGraw-Hill, pp. 406–450.
+* Mitchell, C., J. De Houwer, and P. Lovibond, 2009, “The Propositional Nature of Human Associative Learning”, _Behavioral and Brain Sciences_, 32(2): 183–246.
+* Nosek, B. and M. Banaji, 2001, “The Go/No-Go Association Task”, _Social Cognition_, 19(6): 625–66.
+* Osman, M., 2013, “A Case Study Dual-Process Theories of Higher Cognition—Commentary on Evans & Stanovich”, _Perspectives on Psychological Science_, 8(3): 248–252.
+* Pavlov, I., 1906, “The Scientific Investigation of the Psychical Faculties or Processes in the Higher Animals”, _Science_, 24(620): 613–619.
+* –––, 1927, _Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex_, Oxford: Oxford University Press.
+* Payne, B., Cheng, C., Govorun, O., and Stewart, B., 2005, “An Inkblot for Attitudes: Affect Misattribution as Implicit Measurement”, _Journal of Personality and Social Psychology_, 89(3): 277–293.
+* Perea, M. and E. Rosa, 2002, “The Effects of Associative and Semantic Priming in the Lexical Decision Task”, _Psychological Research_, 66(3): 180–194.
+* Prinz, J., 2002, _Furnishing the Mind: Concepts and their Perceptual Basis_, Cambridge, MA: MIT Press.
+* ––– and A. Clark, 2004, “Putting Concepts to Work: Some Thoughts for the 21st Century”, _Mind & Language_, 19(1): 57–69.
+* Quilty-Dunn, J. forthcoming, “Perceptual Pluralism”, _Nous_, 1–41.
+* Quilty-Dunn, J. and E. Mandelbaum, 2018, “Inferential Transitions”, _Australasian Journal of Philosophy_, 96(3): 532–547.
+* –––, 2019, “Non-Inferential Transitions: Imagery and Association”, in T. Chan and A. Nes (eds.),_Inference and Consciousness_, New York: Routledge, pp. 151–171.
+* Rescorla, R., 1968, “Probability of Shock in the Presence and Absence of CS in Fear Conditioning”, _Journal of Comparative and Physiological Psychology_, 66(1): 1–5.
+* –––, 1988, “Pavlovian Conditioning: It’s Not What You Think It Is”, _American Psychologist_, 43(3): 151–160.
 * Rescorla, E., and A. Wagner, 1972, “A Theory of Pavlovian Conditioning: Variations in the Effectiveness of Reinforcement and Nonreinforcement”, in Black and Prokasy 1972, pp. 64–99.
-* Roll, D. and J. Smith, 1972, “Conditioned Taste Aversion in Anesthetized Rats”, in M. Hager and J. Seligman (eds.), *Biological Boundaries of Learning. New York: Appleton-Century-Crofts*, pp. 98–102.
-* Rozin, P., 1986, “One-Trial Acquired Likes and Dislikes in Humans: Disgust as a US, Food Predominance, and Negative Learning Predominance”, *Learning and Motivation*, 17(2): 180–189.
-* Rumelhart, D., P. Smolensky, J. McClelland, and G. Hinton, 1986, “Sequential Thought Processes in PDP Models”, in J.McClelland and D. Rumelhart (eds.), *Parallel Distributed Processing Vol. 2: Explorations in the Microstructure of Cognition: Psychological and Biological Models*, Cambridge, MA: MIT Press, pp. 7–57.
-* Rusiniak, K., W. Hankins, J. Garcia, and L. Brett, 1979, “Flavor-illness Aversions: Potentiation of Odor by Taste in Rats”, *Behavioral and Neural Biology*, 25(1): 1–17.
-* Rydell, R. and A. McConnell, 2006, “Understanding Implicit and Explicit Attitude Change: A Systems of Reasoning Analysis”, *Journal of Personality and Social Psychology*, 91(6): 995–1008.
-* Sandhoffer, C., L. Smith, and J. Luo, 2000, “Counting Nouns and Verbs in the Input: Differential Frequencies, Different Kinds of Learning?”, *Journal of Child Language*, 27(3): 561–585.
-* Seligman, M., 1970, “On the Generality of the Laws of Learning”, *Psychological Review*, 77(5): 406–418.
-* Shanks, D., 2010, “Learning: From Association to Cognition”, *Annual Review of Psychology*, 1, 273–301.
-* Skinner, B., 1938, *The Behavior of Organisms: An Experimental Analysis*, Oxford: Appleton-Century.
-* –––, 1953, *Science and Human Behavior*, New York: Simon and Schuster.
-* Sloman, S., 1996, “The Empirical Case for Two Systems of Reasoning”, *Psychological Bulletin*, 119(1): 3–22.
-* Smith, E. R. and J. DeCoster, 2000, “Dual-Process Models in Social and Cognitive Psychology: Conceptual Integration and Links to Underlying Memory Systems”, *Personality and Social Psychology Review*, 4(2): 108–131.
-* Smith, J. and D. Roll, 1967, “Trace Conditioning with X-rays as an Aversive Stimulus”, *Psychonomic Science*, 9(1): 11–12.
-* Smolensky, P., 1988, “On the Proper Treatment of Connectionism”, *Behavioral and Bruin Sciences*, 11(1): l–23.
-* Snedeker, J. and L. Gleitman, 2004, “Why it is Hard to Label Our Concepts”, in D. Hall and S. Waxman (eds.), *Weaving a Lexicon*, Cambridge, MA: MIT Press, pp. 257–294.
-* Stanovich, K., 2011, *Rationality and the Reflective Mind*, New York: Oxford University Press.
-* Tenenbaum, J., C. Kemp, T. Griffiths, and N. Goodman, 2011, “How to Grow a Mind: Statistics, Structure, and Abstraction”, *Science*, 331(6022): 1279–1285.
-* Thorndike, E., 1911, *Animal intelligence: Experimental studies*, New York: Macmillan.
-* Todrank, J., D. Byrnes, A. Wrzesniewski, and P. Rozin, 1995, “Odors can Change Preferences for People in Photographs: A Cross-Modal Evaluative Conditioning Study with Olfactory USs and Visual CSs”, *Learning and Motivation*, 26(2): 116–140.
-* Tolman, E., 1948, “Cognitive Maps in Rats and Men”, *Psychological Review*, 55(4): 189–208.
-* Van Dessel, P., Y. Ye, and J. De Houwer 2019, “Chaning deep-rooted implicit evaluation in the blink of an eye: engative verbal information shifts automatic liking of Gandhi”, *Social Psychological and Personality Science*, 10(2): 266–273.
-* Van Gelder, T., 1995, “What Might Cognition Be, If not Computation?”, *The Journal of Philosophy*, 91(7): 345–381.
-* Vansteenwegen, D., G. Francken, B. Vervliet, A. De Clercq, and P. Eelen, 2006, “Resistance to Extinction in Evaluative Conditioning”, *Journal of Experimental Psychology: Animal Behavior Processes*, 32(1): 71–79.
-* Wilson, T., S. Lindsey, and T. Schooler, 2000, “A Model of Dual Attitudes”, *Psychological Review*, 107(1): 101–26. [[Wilson, Lindsey, and Schooler 2000 available online](http://people.virginia.edu/~tdw/dual.attitudes.pr.pdf)]
+* Roll, D. and J. Smith, 1972, “Conditioned Taste Aversion in Anesthetized Rats”, in M. Hager and J. Seligman (eds.), _Biological Boundaries of Learning. New York: Appleton-Century-Crofts_, pp. 98–102.
+* Rozin, P., 1986, “One-Trial Acquired Likes and Dislikes in Humans: Disgust as a US, Food Predominance, and Negative Learning Predominance”, _Learning and Motivation_, 17(2): 180–189.
+* Rumelhart, D., P. Smolensky, J. McClelland, and G. Hinton, 1986, “Sequential Thought Processes in PDP Models”, in J.McClelland and D. Rumelhart (eds.), _Parallel Distributed Processing Vol. 2: Explorations in the Microstructure of Cognition: Psychological and Biological Models_, Cambridge, MA: MIT Press, pp. 7–57.
+* Rusiniak, K., W. Hankins, J. Garcia, and L. Brett, 1979, “Flavor-illness Aversions: Potentiation of Odor by Taste in Rats”, _Behavioral and Neural Biology_, 25(1): 1–17.
+* Rydell, R. and A. McConnell, 2006, “Understanding Implicit and Explicit Attitude Change: A Systems of Reasoning Analysis”, _Journal of Personality and Social Psychology_, 91(6): 995–1008.
+* Sandhoffer, C., L. Smith, and J. Luo, 2000, “Counting Nouns and Verbs in the Input: Differential Frequencies, Different Kinds of Learning?”, _Journal of Child Language_, 27(3): 561–585.
+* Seligman, M., 1970, “On the Generality of the Laws of Learning”, _Psychological Review_, 77(5): 406–418.
+* Shanks, D., 2010, “Learning: From Association to Cognition”, _Annual Review of Psychology_, 1, 273–301.
+* Skinner, B., 1938, _The Behavior of Organisms: An Experimental Analysis_, Oxford: Appleton-Century.
+* –––, 1953, _Science and Human Behavior_, New York: Simon and Schuster.
+* Sloman, S., 1996, “The Empirical Case for Two Systems of Reasoning”, _Psychological Bulletin_, 119(1): 3–22.
+* Smith, E. R. and J. DeCoster, 2000, “Dual-Process Models in Social and Cognitive Psychology: Conceptual Integration and Links to Underlying Memory Systems”, _Personality and Social Psychology Review_, 4(2): 108–131.
+* Smith, J. and D. Roll, 1967, “Trace Conditioning with X-rays as an Aversive Stimulus”, _Psychonomic Science_, 9(1): 11–12.
+* Smolensky, P., 1988, “On the Proper Treatment of Connectionism”, _Behavioral and Bruin Sciences_, 11(1): l–23.
+* Snedeker, J. and L. Gleitman, 2004, “Why it is Hard to Label Our Concepts”, in D. Hall and S. Waxman (eds.), _Weaving a Lexicon_, Cambridge, MA: MIT Press, pp. 257–294.
+* Stanovich, K., 2011, _Rationality and the Reflective Mind_, New York: Oxford University Press.
+* Tenenbaum, J., C. Kemp, T. Griffiths, and N. Goodman, 2011, “How to Grow a Mind: Statistics, Structure, and Abstraction”, _Science_, 331(6022): 1279–1285.
+* Thorndike, E., 1911, _Animal intelligence: Experimental studies_, New York: Macmillan.
+* Todrank, J., D. Byrnes, A. Wrzesniewski, and P. Rozin, 1995, “Odors can Change Preferences for People in Photographs: A Cross-Modal Evaluative Conditioning Study with Olfactory USs and Visual CSs”, _Learning and Motivation_, 26(2): 116–140.
+* Tolman, E., 1948, “Cognitive Maps in Rats and Men”, _Psychological Review_, 55(4): 189–208.
+* Van Dessel, P., Y. Ye, and J. De Houwer 2019, “Chaning deep-rooted implicit evaluation in the blink of an eye: engative verbal information shifts automatic liking of Gandhi”, _Social Psychological and Personality Science_, 10(2): 266–273.
+* Van Gelder, T., 1995, “What Might Cognition Be, If not Computation?”, _The Journal of Philosophy_, 91(7): 345–381.
+* Vansteenwegen, D., G. Francken, B. Vervliet, A. De Clercq, and P. Eelen, 2006, “Resistance to Extinction in Evaluative Conditioning”, _Journal of Experimental Psychology: Animal Behavior Processes_, 32(1): 71–79.
+* Wilson, T., S. Lindsey, and T. Schooler, 2000, “A Model of Dual Attitudes”, _Psychological Review_, 107(1): 101–26. \[[Wilson, Lindsey, and Schooler 2000 available online](http://people.virginia.edu/\~tdw/dual.attitudes.pr.pdf)]
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=associationist-thought). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/associationist-thought/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=associationist-thought&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/associationist-thought/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=associationist-thought).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/associationist-thought/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=associationist-thought\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/associationist-thought/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-* [John Locke’s Chapter on the Association of Ideas from *An Essay Concerning Human Understanding*](http://enlightenment.supersaturated.com/johnlocke/BOOKIIChapterXXXIII.html)
-* [David Hume’s *A Treatise of Human Nature*](http://www.earlymoderntexts.com/authors/hume.html)
+* [John Locke’s Chapter on the Association of Ideas from _An Essay Concerning Human Understanding_](http://enlightenment.supersaturated.com/johnlocke/BOOKIIChapterXXXIII.html)
+* [David Hume’s _A Treatise of Human Nature_](http://www.earlymoderntexts.com/authors/hume.html)
 * [Williams James “The Stream of Consciousness”](http://psychclassics.yorku.ca/James/jimmy11.htm)
-* [William James “The Stream of Thought”: (chapter from his *Principles of Psychology*)](http://psychclassics.yorku.ca/James/Principles/prin9.htm)
-* [Edward Thorndike on the Law of Effect (from his book *Animal Intelligence*)](http://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm)
+* [William James “The Stream of Thought”: (chapter from his _Principles of Psychology_)](http://psychclassics.yorku.ca/James/Principles/prin9.htm)
+* [Edward Thorndike on the Law of Effect (from his book _Animal Intelligence_)](http://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm)
 * [Ivan Pavlov’s “Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex”](http://psychclassics.yorku.ca/Pavlov/)
 
 ## Related Entries
 
-[behaviorism](https://plato.stanford.edu/entries/behaviorism/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [connectionism](https://plato.stanford.edu/entries/connectionism/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Kant, Immanuel: transcendental arguments](https://plato.stanford.edu/entries/kant-transcendental/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [Scottish Philosophy: in the 19th century](https://plato.stanford.edu/entries/scottish-19th/)
+[behaviorism](https://plato.stanford.edu/entries/behaviorism/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [connectionism](https://plato.stanford.edu/entries/connectionism/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Kant, Immanuel: transcendental arguments](https://plato.stanford.edu/entries/kant-transcendental/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [Scottish Philosophy: in the 19th century](https://plato.stanford.edu/entries/scottish-19th/)
 
 ### Acknowledgments
 
 Helpful feedback was received from Michael Brownstein, Bryce Huebner, Zoe Jenkin, Jake Quilty-Dunn, Shaun Nichols, and Susanna Siegel who are hereby thanked for their efforts.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Eric Mandelbaum <[*eric.mandelbaum@gmail.com*](mailto:eric%2emandelbaum%40gmail%2ecom)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Eric Mandelbaum <[_eric.mandelbaum@gmail.com_](mailto:eric%2emandelbaum%40gmail%2ecom)>

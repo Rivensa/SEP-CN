@@ -24,7 +24,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/art-definition/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/art-definition/#Rel)
 
----
+***
 
 ## 1. 对艺术定义的限制
 
@@ -34,7 +34,7 @@
 
 对于艺术定义而言，有两个普遍的限制特别相关。首先，鉴于接受某事物无法解释通常是哲学上的最后手段，并且承认外延充足性的重要性，如果可能的话，应避免使用类似列表或枚举的定义。众所周知，枚举定义缺乏解释为何列表中的事物在列表中的原则，不适用于发展变化的被定义对象，并且对于下一个或一般情况没有任何线索（例如，塔斯基关于真理的定义通常被批评为缺乏启发性，因为它基于原始指称的类似列表的定义；参见 Field 1972；Devitt 2001；Davidson 2005）。推论：当其他条件相等时（在艺术定义的情况下是否满足该条件是有争议的），非分离定义优于分离定义。其次，鉴于数学以外的大多数类别都是模糊的，并且边界情况的存在是模糊类别的特征，将艺术作品类别视为具有边界情况的定义优于不具有边界情况的定义（Davies 1991 和 2006；Stecker 2005）。
 
-任何艺术定义是否能解释这些事实并满足这些限制，或者是否*能够*解释这些事实并满足这些限制，都是美学和艺术哲学的关键问题。
+任何艺术定义是否能解释这些事实并满足这些限制，或者是否_能够_解释这些事实并满足这些限制，都是美学和艺术哲学的关键问题。
 
 ## 2. 哲学史中的定义
 
@@ -48,7 +48,7 @@
 
 康德对艺术和美术有一个定义；后者，康德称之为天才的艺术，是“一种自身具有目的性的表象，虽然没有目的，但仍然促进了为了社交交流而培养心智能力”（康德，《判断力批判》，Guyer 译，第 44、46 节）。当完全解开时，这个定义具有表象、形式主义和表达主义的元素，并且与艺术天才的创造性活动（根据康德的说法，艺术天才具有“天生的心智才能，通过这种才能，自然规定了艺术的规则”）以及由此活动产生的艺术作品一样重要。康德的美学理论并不专注于艺术，而是属于更广泛的审美判断范畴，包括对美的判断、对崇高的判断以及对自然有机体和自然本身的目的论判断。因此，康德对艺术的定义只是他的审美判断理论的一个相对较小的部分。而康德的审美判断理论本身则位于一个雄心勃勃的理论结构中，旨在解释和探讨科学知识、道德和宗教信仰之间的相互关系（参见《康德的美学与目的论》条目和《伊曼努尔·康德》总条目）。
 
-黑格尔对艺术的阐述融入了他对美的观点；他将美定义为绝对真理的感性/知觉外观或表达。最好的艺术作品通过感性/知觉手段传达出最深层的形而上学真理。根据黑格尔的观点，最深层的形而上学真理是宇宙是概念或理性的具体实现。也就是说，概念或理性是真实的，并且是自觉发展的宇宙所具有的内在力量。宇宙是概念或理性的具体实现，而理性或概念优于感性。因此，由于只有心灵及其产物才能具备真理，艺术美在形而上学上优于自然美（黑格尔，《讲演》，[1886, 4]）。美丽艺术作品的一个核心和定义特征是，通过感官的媒介，每一个作品呈现出其文明的最基本价值观。 因此，作为一种文化表达，艺术与宗教和哲学在同一领域中运作，并表达相同的内容。但是艺术以一种不同于宗教和哲学的方式“向意识揭示了人类最深层的利益”，因为艺术是唯一一种通过感性手段工作的方式。因此，鉴于概念对非概念的优越性，以及艺术作为表达/展示文化最深层价值观的媒介是感性或知觉的事实，与宗教用于表达相同内容的媒介即心灵意象相比，艺术的媒介是有限且较低劣的。艺术和宗教在这方面都不及哲学，后者使用概念媒介来呈现其内容。在每个文明中，艺术最初占主导地位，作为文化表达的至高方式，随后依次是宗教和哲学。同样，由于艺术、宗教和哲学之间的广泛“逻辑”关系决定了艺术、宗教和哲学的实际结构，并且由于关于内在价值的文化观念从感性到非感性概念的发展，历史被划分为反映从感性到概念的目的论发展的时期。总的来说，艺术的发展也与从感性概念到非感性概念的历史增长相一致，每种个别的艺术形式也以同样的方式历史发展（黑格尔，《讲演》；Wicks 1993，另请参阅关于[黑格尔](https://plato.stanford.edu/entries/hegel/)和[黑格尔美学](https://plato.stanford.edu/entries/hegel-aesthetics/)的条目）。
+黑格尔对艺术的阐述融入了他对美的观点；他将美定义为绝对真理的感性/知觉外观或表达。最好的艺术作品通过感性/知觉手段传达出最深层的形而上学真理。根据黑格尔的观点，最深层的形而上学真理是宇宙是概念或理性的具体实现。也就是说，概念或理性是真实的，并且是自觉发展的宇宙所具有的内在力量。宇宙是概念或理性的具体实现，而理性或概念优于感性。因此，由于只有心灵及其产物才能具备真理，艺术美在形而上学上优于自然美（黑格尔，《讲演》，\[1886, 4]）。美丽艺术作品的一个核心和定义特征是，通过感官的媒介，每一个作品呈现出其文明的最基本价值观。 因此，作为一种文化表达，艺术与宗教和哲学在同一领域中运作，并表达相同的内容。但是艺术以一种不同于宗教和哲学的方式“向意识揭示了人类最深层的利益”，因为艺术是唯一一种通过感性手段工作的方式。因此，鉴于概念对非概念的优越性，以及艺术作为表达/展示文化最深层价值观的媒介是感性或知觉的事实，与宗教用于表达相同内容的媒介即心灵意象相比，艺术的媒介是有限且较低劣的。艺术和宗教在这方面都不及哲学，后者使用概念媒介来呈现其内容。在每个文明中，艺术最初占主导地位，作为文化表达的至高方式，随后依次是宗教和哲学。同样，由于艺术、宗教和哲学之间的广泛“逻辑”关系决定了艺术、宗教和哲学的实际结构，并且由于关于内在价值的文化观念从感性到非感性概念的发展，历史被划分为反映从感性到概念的目的论发展的时期。总的来说，艺术的发展也与从感性概念到非感性概念的历史增长相一致，每种个别的艺术形式也以同样的方式历史发展（黑格尔，《讲演》；Wicks 1993，另请参阅关于[黑格尔](https://plato.stanford.edu/entries/hegel/)和[黑格尔美学](https://plato.stanford.edu/entries/hegel-aesthetics/)的条目）。
 
 有关其他有影响力的艺术定义的处理，与它们所属的复杂哲学体系或文集密不可分，请参阅例如关于[18 世纪德国美学](https://plato.stanford.edu/entries/aesthetics-18th-german/)、[亚瑟·叔本华](https://plato.stanford.edu/entries/schopenhauer/)、[弗里德里希·尼采](https://plato.stanford.edu/entries/nietzsche/)和[杜威的美学](https://plato.stanford.edu/entries/dewey-aesthetics/)的条目。
 
@@ -72,13 +72,13 @@
 
 第七个由女性主义艺术哲学提出的怀疑论色彩浓厚的复杂论证的成员，从以下前提开始，即艺术和与艺术相关的概念和实践已经被性别或性别倾向系统地扭曲。这些前提得到了各种考虑的支持。（a）西方艺术经典所认可的艺术作品主要由男性为中心的观点和刻板印象所主导，几乎所有被经典认可为伟大的艺术家都是男性——这并不奇怪，因为经济、社会和制度上的障碍阻止了女性从事艺术创作。此外，天才的概念在历史上发展成一种排除女性艺术家的方式（Battersby, 1989, Korsmeyer 2004）。 （b）美术的重点是纯粹的审美、非实用价值，导致了女性为家庭实际用途制作和使用的具有相当审美趣味的物品被边缘化为“手工艺品”。此外，由于所有审美判断都是具体和特定的，就不存在无私的品味。如果不存在无私的品味，那么很难看出是否存在普遍的审美卓越标准。普遍的审美卓越标准的不存在削弱了艺术经典的概念（以及定义艺术的项目）。因此，历史上构成的艺术以及与艺术相关的实践和概念反映了假设和延续对女性的支配地位的观点和实践。艺术定义所要解释的数据是有偏见、腐败和不完整的。因此，目前的艺术定义，包含或预设了一个包含了对艺术和与艺术相关的现象和概念的历史上系统性有偏见、等级制度、片面和错误理解的框架，可能是如此男性中心主义以至于难以维持。一些理论家提出不同的性别具有系统性独特的艺术风格、方法或欣赏和价值艺术的方式。如果是这样，那么需要一个单独的经典和以女性为中心的艺术定义（Battersby 1989, Frueh 1991）。无论如何，在面对这些事实时，以传统方式定义艺术的项目应该被视为可疑的（Brand, 2000）。
 
-第八个怀疑论的论证类型认为，几乎所有当代定义都强调艺术*作品*的性质，而不是（大多数？全部？）艺术所属的个体*艺术*，因此在哲学上没有生产力（Lopes，2014）[[2](https://plato.stanford.edu/entries/art-definition/notes.html#note-2)]。这个结论的依据是标准定义之间对于那些理论上不明确的实体的艺术地位存在争议，例如普通的瓶架（杜尚的*Bottlerack*）和寂静（约翰·凯奇的*4′33″* ）。如果这些棘手的案例是艺术作品，那么在它们明显缺乏传统艺术作品的任何特性的情况下，是什么使它们成为艺术作品呢？它们最多只是边缘案例吗？另一方面，如果它们不是艺术作品，那么为什么几代专家（艺术史学家、评论家和收藏家）将它们归类为艺术作品？还有谁可以确定艺术的真正本质呢？（据称，几乎没有关于艺术的实证研究，尽管有关于个体艺术的实证研究很多。）这些争议最终陷入僵局。僵局的原因是，（a）以艺术作品为重点的标准艺术定义支持不同的理论选择标准，以及（b）基于他们偏好的标准，对于这些理论上棘手案例的地位有不兼容的直觉。因此，强调艺术作品的标准艺术定义之间的分歧是无法解决的。为了避免这种僵局，需要采用一种强调艺术而不是个体艺术作品的替代定义策略（见第 4.5 节）。
+第八个怀疑论的论证类型认为，几乎所有当代定义都强调艺术_作品_的性质，而不是（大多数？全部？）艺术所属的个体_艺术_，因此在哲学上没有生产力（Lopes，2014）\[[2](https://plato.stanford.edu/entries/art-definition/notes.html#note-2)]。这个结论的依据是标准定义之间对于那些理论上不明确的实体的艺术地位存在争议，例如普通的瓶架（杜尚的_Bottlerack_）和寂静（约翰·凯奇的_4′33″_ ）。如果这些棘手的案例是艺术作品，那么在它们明显缺乏传统艺术作品的任何特性的情况下，是什么使它们成为艺术作品呢？它们最多只是边缘案例吗？另一方面，如果它们不是艺术作品，那么为什么几代专家（艺术史学家、评论家和收藏家）将它们归类为艺术作品？还有谁可以确定艺术的真正本质呢？（据称，几乎没有关于艺术的实证研究，尽管有关于个体艺术的实证研究很多。）这些争议最终陷入僵局。僵局的原因是，（a）以艺术作品为重点的标准艺术定义支持不同的理论选择标准，以及（b）基于他们偏好的标准，对于这些理论上棘手案例的地位有不兼容的直觉。因此，强调艺术作品的标准艺术定义之间的分歧是无法解决的。为了避免这种僵局，需要采用一种强调艺术而不是个体艺术作品的替代定义策略（见第 4.5 节）。
 
 ### 3.2 怀疑论的一些后裔
 
 受到上述温和的维特根斯坦主义限制影响的哲学家们提出了概念艺术的家族相似性解释，它们自称为非定义，因此在这一点上可以被有益地考虑。将考虑两种家族相似性观点：类似范例版本和群集版本。
 
-在类似范例版本中，如果某物以正确的方式类似于某些典范艺术品，那么它就是艺术品，或者可以被识别为艺术品，这些典范艺术品具有艺术的大部分特征，尽管不一定具备全部特征。（“可以被识别为”这一限定旨在使家族相似性观点更具认识论性质，而不是定义，尽管目前尚不清楚这是否真正避免了对艺术本质的构成性主张的承诺。）对于这一观点的反对意见是：由于事物不是*简单地*相似，而是在至少某一方面相似，所以这一解释要么过于包容，因为一切事物在某一方面都与其他事物相似，要么，如果相似性的种类被指定，那么它等同于定义，因为在这一方面的相似性要么是成为艺术品的必要条件，要么是充分条件。此外，家族相似性观点还引发了关于典范艺术品的成员资格和统一性的问题。如果这一解释没有解释为什么某些项目而不是其他项目被列入典范作品的清单中，那么它似乎在解释上存在缺陷。但是，如果它包含了一个管理清单成员资格的原则，或者如果需要专业知识来构成清单，那么这个原则，或者专家判断所追踪的任何属性，似乎正在进行哲学工作。
+在类似范例版本中，如果某物以正确的方式类似于某些典范艺术品，那么它就是艺术品，或者可以被识别为艺术品，这些典范艺术品具有艺术的大部分特征，尽管不一定具备全部特征。（“可以被识别为”这一限定旨在使家族相似性观点更具认识论性质，而不是定义，尽管目前尚不清楚这是否真正避免了对艺术本质的构成性主张的承诺。）对于这一观点的反对意见是：由于事物不是_简单地_相似，而是在至少某一方面相似，所以这一解释要么过于包容，因为一切事物在某一方面都与其他事物相似，要么，如果相似性的种类被指定，那么它等同于定义，因为在这一方面的相似性要么是成为艺术品的必要条件，要么是充分条件。此外，家族相似性观点还引发了关于典范艺术品的成员资格和统一性的问题。如果这一解释没有解释为什么某些项目而不是其他项目被列入典范作品的清单中，那么它似乎在解释上存在缺陷。但是，如果它包含了一个管理清单成员资格的原则，或者如果需要专业知识来构成清单，那么这个原则，或者专家判断所追踪的任何属性，似乎正在进行哲学工作。
 
 概念艺术的集群版本已经得到了许多哲学家的支持（Bond 1975，Dissanayake 1990，Dutton 2006，Gaut 2000）。这种观点通常提供了一系列的特征，其中没有一个是作为艺术品的必要条件，但是它们共同足够构成一个艺术品，并且至少有一个子集足够构成一个艺术品。提供的列表各不相同，但有很大的重叠。以下是 Gaut 提出的一个列表：（1）具有积极的审美特性；（2）表达情感；（3）具有知识挑战性；（4）形式上复杂而连贯；（5）具有传达复杂含义的能力；（6）展示个人观点；（7）具有原创性；（8）是高技能的产品或表演；（9）属于已建立的艺术形式；（10）是有意创作艺术品的产物（Gaut 2000）。集群观点受到了几方面的批评。首先，鉴于其逻辑结构，实际上等同于一个长而复杂但有限的析取，这使得人们很难理解为什么它不是一个定义（Davies 2006）。其次，如果属性列表是不完整的，正如一些集群理论家所认为的，那么需要一些理由或原则来扩展它。第三，列表中包含的第九个属性“属于已建立的艺术形式”似乎是在回避而不是回答定义性问题。最后，值得注意的是，尽管集群理论家强调他们认为艺术品类别的杂乱多样性，但他们在提出这些属性时往往不自觉地给予审美特性一种特殊的、可能是统一的地位。例如，一个集群理论家给出了一个与上述讨论类似的列表（包括表现性特征、创造力、展示高技能、属于已建立的艺术形式），但基于这个列表中的其他项目在艺术作品的体验中的组合，才是作品的审美特质（Dutton 2006）。Gaut 在上面引用的列表中将审美特性作为一个单独的项目，但对其进行了非常狭义的解释；这两种表达集群观点的方式之间的区别似乎主要是名义上的。而一个早期的集群理论家将艺术品定义为属于任何艺术形式实例化的所有事物，并提供了一个包含七个属性的列表，这些属性共同旨在捕捉艺术形式的核心，尽管没有一个是必要或充分的，然后声称具有与山脉、日落、数学定理相同类型的审美价值是“艺术的目的”（Bond 1975）。
 
@@ -132,112 +132,112 @@ Monroe Beardsley 的定义认为，艺术品是“一种旨在提供具有明显
 
 其中一种这样的分离定义是 Longworth 和 Scarantino 的定义，它改编了 Gaut 的十个聚类属性列表，其中该列表（见上文 3.5）包括机构属性（例如，属于已建立的艺术形式）和传统属性（例如，具有积极的审美属性）；另请参阅 Longworth 和 Scarantino 2010。其核心思想是艺术通过最小充分和分离必要条件的分离来定义；说一个分离是艺术性的最小充分构成条件，就是说它的每个真子集对于艺术性来说都是不充分的。还提供了一个关于概念具有分离定义条件的解释。艺术本身的定义如下：∃Z∃Y（艺术当且仅当（Z∨Y）），其中（a）Z 和 Y 是由 Gaut 的聚类列表上的属性组成的非空合取或非空合取的合取或个体属性；（b）对于哪些分离是充分的存在一些不确定性；（c）Z 不蕴含 Y，Y 不蕴含 Z；（d）Z 不蕴含艺术，Y 不蕴含艺术。实例化 Z 或 Y 中的任何一个都足以成为艺术；只有当 Z 或 Y 中至少有一个被实例化时，某物才能成为艺术；第三个条件是为了防止定义崩溃为经典定义。关于概念 C 具有分离定义条件的解释如下：C 当且仅当（Z∨Y），其中（i）Z 和 Y 是由非空合取或非空合取的合取或个体属性组成的非空合取或非空合取；（ii）Z 不蕴含 Y，Y 不蕴含 Z；（iii）Z 不蕴含 C，Y 不蕴含 C。一个担忧是关于条件（iii）：按照书面表述，它似乎使得分离定义条件的解释自相矛盾。因为如果 Z 和 Y 对于 C 来说都是最小充分的，那么 Z 不蕴含 C 且 Y 不蕴含 C 是不可能的。如果是这样，那么没有什么能够满足被说成是概念具有分离定义条件所必要和充分的条件。
 
-第二个分离的混合定义，带有历史色彩，罗伯特·斯特克尔的历史功能主义认为，如果一个物品在时间*t*（不早于该物品制作的时间）是某个中心艺术形式之一，并且是为了实现*t*时艺术所具有的功能而制作的，或者是在实现这种功能方面取得卓越成就的工艺品，那么它就是一个艺术品（斯特克尔，2005 年）。对斯特克尔观点的一个问题是，它是否能够充分解释什么是艺术功能，以及是否能够容纳反美学或非美学艺术。认为它能够容纳的理由是，尽管艺术的最初功能是美学的，但这些功能以及制作艺术的意图可以以不可预见的方式发生变化。此外，美学属性并不总是在艺术的前身概念中占主导地位（斯特克尔，2000 年）。一个担忧是，如果操作的假设是，如果*x*属于*T*的前身传统，那么*x*就属于*T*，那么就不能排除这样的可能性，即如果例如魔法传统是科学传统的前身传统，那么属于魔法传统但缺乏科学的标志的实体就是科学实体。
+第二个分离的混合定义，带有历史色彩，罗伯特·斯特克尔的历史功能主义认为，如果一个物品在时间_t_（不早于该物品制作的时间）是某个中心艺术形式之一，并且是为了实现_t_时艺术所具有的功能而制作的，或者是在实现这种功能方面取得卓越成就的工艺品，那么它就是一个艺术品（斯特克尔，2005 年）。对斯特克尔观点的一个问题是，它是否能够充分解释什么是艺术功能，以及是否能够容纳反美学或非美学艺术。认为它能够容纳的理由是，尽管艺术的最初功能是美学的，但这些功能以及制作艺术的意图可以以不可预见的方式发生变化。此外，美学属性并不总是在艺术的前身概念中占主导地位（斯特克尔，2000 年）。一个担忧是，如果操作的假设是，如果_x_属于_T_的前身传统，那么_x_就属于_T_，那么就不能排除这样的可能性，即如果例如魔法传统是科学传统的前身传统，那么属于魔法传统但缺乏科学的标志的实体就是科学实体。
 
-第三个混合定义，也是分离的，是斯蒂芬·戴维斯所辩护的分类学定义。他认为，如果某物展示了卓越的技巧和实现重要美学目标的成就，并且这样做是其主要的、识别的功能，或者这样做对实现其主要的、识别的功能起到了重要贡献，那么它就是艺术（戴维斯，2015 年）。如果它属于在艺术传统中建立并公认的艺术流派或艺术形式，或者如果它是由其制作者/展示者意图成为艺术，并且其制作者/展示者采取了必要和适当的措施来实现这一意图，那么它也是艺术（戴维斯，2015 年）。（在生物学中，*clade*是生命树上的一个分支：一组有共同祖先的生物体）。艺术世界应该以其起源来描述：它们始于史前艺术祖先，并发展成为艺术世界。因此，所有艺术品都来自其史前艺术祖先的血脉；这条血脉构成了一个艺术传统，逐渐发展成为一个艺术世界。因此，这个定义是自下而上的，坚决以人为中心的。一个担忧是，这个观点似乎意味着艺术传统可以经历任何变化而仍然保持艺术传统的身份，因为无论多么遥远，正确的血脉中的每个成员都是艺术传统的一部分。这似乎意味着只要它们仍然是传统，艺术传统就不会消亡。关于艺术在这个意义上是否不朽，这个问题还有待讨论。第二个担忧是，每个艺术传统和艺术世界都必须与史前人类的血脉有关，这使得任何非人类物种在树的位置不正确的情况下都无法创作艺术。虽然识别非人类创作的艺术品可能带来的认识论挑战可能非常大，但分类学定义强调血统而不是特征的这个结果引发了对过度封闭性的担忧。
+第三个混合定义，也是分离的，是斯蒂芬·戴维斯所辩护的分类学定义。他认为，如果某物展示了卓越的技巧和实现重要美学目标的成就，并且这样做是其主要的、识别的功能，或者这样做对实现其主要的、识别的功能起到了重要贡献，那么它就是艺术（戴维斯，2015 年）。如果它属于在艺术传统中建立并公认的艺术流派或艺术形式，或者如果它是由其制作者/展示者意图成为艺术，并且其制作者/展示者采取了必要和适当的措施来实现这一意图，那么它也是艺术（戴维斯，2015 年）。（在生物学中，_clade_是生命树上的一个分支：一组有共同祖先的生物体）。艺术世界应该以其起源来描述：它们始于史前艺术祖先，并发展成为艺术世界。因此，所有艺术品都来自其史前艺术祖先的血脉；这条血脉构成了一个艺术传统，逐渐发展成为一个艺术世界。因此，这个定义是自下而上的，坚决以人为中心的。一个担忧是，这个观点似乎意味着艺术传统可以经历任何变化而仍然保持艺术传统的身份，因为无论多么遥远，正确的血脉中的每个成员都是艺术传统的一部分。这似乎意味着只要它们仍然是传统，艺术传统就不会消亡。关于艺术在这个意义上是否不朽，这个问题还有待讨论。第二个担忧是，每个艺术传统和艺术世界都必须与史前人类的血脉有关，这使得任何非人类物种在树的位置不正确的情况下都无法创作艺术。虽然识别非人类创作的艺术品可能带来的认识论挑战可能非常大，但分类学定义强调血统而不是特征的这个结果引发了对过度封闭性的担忧。
 
-第四个混合定义是 Lopes 的“推卸责任”观点，它试图通过采用一种策略，将艺术作品为中心的定义与前卫反美学案例之间的僵局分开，将艺术定义的焦点从艺术作品转移到其他问题上。这种策略是将哲学努力重新集中在不同的问题上，这些问题无论如何都需要关注：(a)解释每个艺术形式的问题，以及(b)定义什么是艺术的问题，后者通过解释艺术（和一些非艺术）所属的规范/欣赏类别的问题。因为对于每个艺术形式的定义，以及对于什么是艺术的定义，如果每件艺术作品至少属于一个艺术形式（如果它不属于任何现有的艺术形式，那么它就是一种新的艺术形式的先驱），那么艺术作品的定义就会出现：*x*是一件艺术作品，当且仅当*x*是 K 的作品，其中 K 是一种艺术形式（Lopes 2014）。当完全阐述时，这个定义是分离的：*x*是一件艺术作品，当且仅当*x*是属于艺术形式 1 的作品，或者*x*是属于艺术形式 2 的作品，或者*x*是属于艺术形式 3 的作品...。大部分解释工作由各个艺术形式的理论完成，因为在假设每件艺术作品至少属于一个艺术形式的前提下，拥有各个艺术形式的理论将是确定任何边缘案例的艺术或非艺术地位的必要和充分条件，一旦确定了给定作品属于哪种艺术形式。至于什么使一种实践成为艺术，Lopes 更倾向于迪基式的制度主义：艺术是一个机构，艺术家（参与理解艺术品制作的人）在其中制作艺术品以展示给艺术界公众（Lopes 2014，Dickie 1984）。因此，在这种观点下，哪些活动是艺术界的系统是任意的：对于音乐成为艺术的原因，没有比它具有正确的制度结构更深层次的答案。[[4](https://plato.stanford.edu/entries/art-definition/notes.html#note-4)]因此，哪些活动是艺术是任意的。有两个担忧。首先，关键的观点是每个不属于现有艺术形式的艺术作品都是新艺术的先驱，可以通过以下理由进行辩护：任何认为不属于现有艺术形式的作品是艺术品的理由都是认为它是新艺术形式的理由。作为回应，有人指出，只有在有先前的理由认为某物是艺术品时，才会出现是否某物属于艺术的问题。因此，似乎什么是艺术品在某种意义上是先于什么是艺术的。其次，在推卸责任理论的艺术制度理论中，哪些活动是艺术是任意的。这引发了一个问题，即关于分类定义能否解释我们（人类）传统之外的艺术存在的问题。假设实践特征与其作为艺术的地位之间的联系是完全偶然的。那么，另一个文化中的一种实践，虽然不属于我们自己的传统，但具有我们自己某种艺术的大部分特征，这并不意味着我们认为该实践是艺术，也不意味着我们认为属于它的对象是艺术品。目前还不清楚我们在确定外来文化或传统中的实践是否是艺术时是否真的如此无知。
+第四个混合定义是 Lopes 的“推卸责任”观点，它试图通过采用一种策略，将艺术作品为中心的定义与前卫反美学案例之间的僵局分开，将艺术定义的焦点从艺术作品转移到其他问题上。这种策略是将哲学努力重新集中在不同的问题上，这些问题无论如何都需要关注：(a)解释每个艺术形式的问题，以及(b)定义什么是艺术的问题，后者通过解释艺术（和一些非艺术）所属的规范/欣赏类别的问题。因为对于每个艺术形式的定义，以及对于什么是艺术的定义，如果每件艺术作品至少属于一个艺术形式（如果它不属于任何现有的艺术形式，那么它就是一种新的艺术形式的先驱），那么艺术作品的定义就会出现：_x_是一件艺术作品，当且仅当_x_是 K 的作品，其中 K 是一种艺术形式（Lopes 2014）。当完全阐述时，这个定义是分离的：_x_是一件艺术作品，当且仅当_x_是属于艺术形式 1 的作品，或者_x_是属于艺术形式 2 的作品，或者_x_是属于艺术形式 3 的作品...。大部分解释工作由各个艺术形式的理论完成，因为在假设每件艺术作品至少属于一个艺术形式的前提下，拥有各个艺术形式的理论将是确定任何边缘案例的艺术或非艺术地位的必要和充分条件，一旦确定了给定作品属于哪种艺术形式。至于什么使一种实践成为艺术，Lopes 更倾向于迪基式的制度主义：艺术是一个机构，艺术家（参与理解艺术品制作的人）在其中制作艺术品以展示给艺术界公众（Lopes 2014，Dickie 1984）。因此，在这种观点下，哪些活动是艺术界的系统是任意的：对于音乐成为艺术的原因，没有比它具有正确的制度结构更深层次的答案。\[[4](https://plato.stanford.edu/entries/art-definition/notes.html#note-4)]因此，哪些活动是艺术是任意的。有两个担忧。首先，关键的观点是每个不属于现有艺术形式的艺术作品都是新艺术的先驱，可以通过以下理由进行辩护：任何认为不属于现有艺术形式的作品是艺术品的理由都是认为它是新艺术形式的理由。作为回应，有人指出，只有在有先前的理由认为某物是艺术品时，才会出现是否某物属于艺术的问题。因此，似乎什么是艺术品在某种意义上是先于什么是艺术的。其次，在推卸责任理论的艺术制度理论中，哪些活动是艺术是任意的。这引发了一个问题，即关于分类定义能否解释我们（人类）传统之外的艺术存在的问题。假设实践特征与其作为艺术的地位之间的联系是完全偶然的。那么，另一个文化中的一种实践，虽然不属于我们自己的传统，但具有我们自己某种艺术的大部分特征，这并不意味着我们认为该实践是艺术，也不意味着我们认为属于它的对象是艺术品。目前还不清楚我们在确定外来文化或传统中的实践是否是艺术时是否真的如此无知。
 
-传统主义的定义对现代艺术有很好的解释，但难以解释艺术的普遍性，尤其是与“我们”（西方）的机构、传统和我们的物种无关的艺术。它们也难以解释相同的审美术语常常被应用于艺术作品、自然物体、人类和抽象物之间的事实。审美定义更好地解释了艺术的传统普遍特征，但至少根据批评家们的观点，对于革命性的现代艺术解释得不够好；它们进一步的辩护需要一个能够以原则性方式扩展到概念艺术和其他激进艺术的审美定义。（审美定义和传统主义定义可以简单地结合在一起。但这只会提出而不回答艺术作品类别的统一性或不统一性的根本问题。）哪个缺陷更严重取决于哪些*explananda*更重要。在这个层面上的论证很难得到，因为立场很难以不依赖于先前的传统主义和功能主义的共鸣来激发。如果类似列表的定义因为缺乏信息而有缺陷，那么无论是机构的还是历史的传统主义定义也是如此。当然，如果艺术作品或艺术的类别只是一个混乱的堆积，缺乏任何真正的统一性，那么列举式的定义就不能因为缺乏信息而受到责备：它们做出了所有可能的解释，因为它们捕捉到了所有可以捕捉到的统一性。在这种情况下，一个著名美学家所表达的担忧需要认真对待，他早些时候写道：“‘什么是艺术？’这些词是否表达了类似于一个单一问题的东西，以及是否给出了竞争性的答案，或者哲学家们提出的答案是否甚至参与了同样的辩论……所提出的定义的多样性应该让我们停下来思考。人不禁要想，它们是否以任何方式试图……澄清相同的文化实践，或者解决相同的问题”（Walton 2007）。
+传统主义的定义对现代艺术有很好的解释，但难以解释艺术的普遍性，尤其是与“我们”（西方）的机构、传统和我们的物种无关的艺术。它们也难以解释相同的审美术语常常被应用于艺术作品、自然物体、人类和抽象物之间的事实。审美定义更好地解释了艺术的传统普遍特征，但至少根据批评家们的观点，对于革命性的现代艺术解释得不够好；它们进一步的辩护需要一个能够以原则性方式扩展到概念艺术和其他激进艺术的审美定义。（审美定义和传统主义定义可以简单地结合在一起。但这只会提出而不回答艺术作品类别的统一性或不统一性的根本问题。）哪个缺陷更严重取决于哪些_explananda_更重要。在这个层面上的论证很难得到，因为立场很难以不依赖于先前的传统主义和功能主义的共鸣来激发。如果类似列表的定义因为缺乏信息而有缺陷，那么无论是机构的还是历史的传统主义定义也是如此。当然，如果艺术作品或艺术的类别只是一个混乱的堆积，缺乏任何真正的统一性，那么列举式的定义就不能因为缺乏信息而受到责备：它们做出了所有可能的解释，因为它们捕捉到了所有可以捕捉到的统一性。在这种情况下，一个著名美学家所表达的担忧需要认真对待，他早些时候写道：“‘什么是艺术？’这些词是否表达了类似于一个单一问题的东西，以及是否给出了竞争性的答案，或者哲学家们提出的答案是否甚至参与了同样的辩论……所提出的定义的多样性应该让我们停下来思考。人不禁要想，它们是否以任何方式试图……澄清相同的文化实践，或者解决相同的问题”（Walton 2007）。
 
 ## Bibliography
 
-* Abell, Catharine, 2012, “Art: What It Is and Why It Matters,” *Philosophy and Phenomenological Research*, 85: 671–691.
-* Adajian, Thomas, 2005, “On the Prototype Theory of Concepts and the Definition of Art,” *Journal of Aesthetics and Art Criticism*, 63: 231–236.
+* Abell, Catharine, 2012, “Art: What It Is and Why It Matters,” _Philosophy and Phenomenological Research_, 85: 671–691.
+* Adajian, Thomas, 2005, “On the Prototype Theory of Concepts and the Definition of Art,” _Journal of Aesthetics and Art Criticism_, 63: 231–236.
 * –––, 2012, “Defining Art,” in A. Ribeiro (ed.) 2012, pp. 39–56.
-* Battersby, Christine, 1989, *Gender and Genius: Towards a Feminist Aesthetics*, London: The Women’s Press.
-* Beardsley, Monroe, 1982, *The Aesthetic Point of View*, Ithaca, New York: Cornell University Press.
-* Bond, E. J., 1975, “The Essential Nature of Art.” *American Philosophical Quarterly*, 12: 177–183.
+* Battersby, Christine, 1989, _Gender and Genius: Towards a Feminist Aesthetics_, London: The Women’s Press.
+* Beardsley, Monroe, 1982, _The Aesthetic Point of View_, Ithaca, New York: Cornell University Press.
+* Bond, E. J., 1975, “The Essential Nature of Art.” _American Philosophical Quarterly_, 12: 177–183.
 * Brand, Peggy Zeglin, 2000, “Glaring Omissions in Traditional Theories of Art,” in N. Carroll (ed.) 2000, pp. 175–198.
-* Carroll, Noel, 1993, “Historical Narratives and the Philosophy of Art”, *The Journal of Aesthetics and Art Criticism*, 51(3): 313–26.
-* –––, 2001, *Beyond Aesthetics*, Cambridge: Cambridge University Press.
-* –––, 2004, “Non-Perceptual Aesthetic Properties.” *British Journal of Aesthetics*, 44: 413–423.
-* Carroll, Noel (ed.), 2000, *Theories of Art Today*, Madison: University of Wisconsin Press.
-* Cohen, Ted, 1973, “Aesthetic/Non-aesthetic and the concept of taste: a critique of Sibley’s position”, *Theoria*, 39(1–3): 113–152.
-* Danto, Arthur, 1981, *The Transfiguration of the Commonplace*, Cambridge, MA: Harvard University Press.
-* Davidson, Donald, 2005, *Truth and Predication*, Cambridge, MA: Harvard University Press.
-* Davies, David, 2004, *Art as Performance*, Oxford: Blackwell Publishing.
-* Davies, Stephen, 1991, *Definitions of Art*, Ithaca: Cornell University Press.
-* –––, 1997, “First Art and Art’s Definition,” *Southern Journal of Philosophy*, 35: 19–34
+* Carroll, Noel, 1993, “Historical Narratives and the Philosophy of Art”, _The Journal of Aesthetics and Art Criticism_, 51(3): 313–26.
+* –––, 2001, _Beyond Aesthetics_, Cambridge: Cambridge University Press.
+* –––, 2004, “Non-Perceptual Aesthetic Properties.” _British Journal of Aesthetics_, 44: 413–423.
+* Carroll, Noel (ed.), 2000, _Theories of Art Today_, Madison: University of Wisconsin Press.
+* Cohen, Ted, 1973, “Aesthetic/Non-aesthetic and the concept of taste: a critique of Sibley’s position”, _Theoria_, 39(1–3): 113–152.
+* Danto, Arthur, 1981, _The Transfiguration of the Commonplace_, Cambridge, MA: Harvard University Press.
+* Davidson, Donald, 2005, _Truth and Predication_, Cambridge, MA: Harvard University Press.
+* Davies, David, 2004, _Art as Performance_, Oxford: Blackwell Publishing.
+* Davies, Stephen, 1991, _Definitions of Art_, Ithaca: Cornell University Press.
+* –––, 1997, “First Art and Art’s Definition,” _Southern Journal of Philosophy_, 35: 19–34
 * –––, 2000, “Non-Western Art and Art’s Definition,” in N. Carroll (ed.) 2000, pp. 199–217 .
-* –––, 2006, *The Philosophy of Art*, Oxford: Basil Blackwell.
-* –––, 2012, *The Artful Species*, Oxford: Oxford University Press.
-* –––, 2015, “ Defining Art and Artworlds,” *Journal of Aesthetics and Art Criticism* 73(4): 375–384.
-* Davies, Stephen, and Sukla, Ananta (eds.), 2003, *Art and Essence*, Westport, CT: Praeger.
-* Dean, Jeffery, 2003, “The Nature of Concepts and the Definition of Art,” *Journal of Aesthetics and Art Criticism*, 61: 29–35.
-* Devitt, Michael, 2001, “The Metaphysics of Truth,” in Michael Lynch (ed.), *The Nature of Truth*, Cambridge, MA: MIT Press, pp. 579–611.
-* DeClerq, Rafael, 2002, “The Concept of an Aesthetic Property,” *Journal of Aesthetics and Art Criticism*, 60: 167–172.
-* Dickie, George, 1965, “Beardsley’s Phantom Aesthetic Experience”, *Journal of Philosophy*, 62(5): 129–136.
-* –––, 1974, *Art and the Aesthetic: An Institutional Analysis*, Ithaca, NY: Cornell University Press.
-* –––, 1984, *The Art Circle*, New York: Haven.
-* –––, 2001, *Art and Value*, Oxford: Blackwell Publishing.
-* Dissanayake, Ellen, 1990, *What is Art For?*, Bellingham: University of Washington Press.
-* Dutton, Denis, 2006, “A Naturalist Definition of Art,” *Journal of Aesthetics and Art Criticism*, 64: 367–377.
-* –––, 2008, *The Art Instinct*, New York: Bloomsbury Press.
-* Eagleton, Terry, 1990,*The Ideology of the Aesthetic*, London: Basil Blackwell.
-* Eldridge, Richard, 1985, “Form and Content: An Aesthetic Theory of Art,” *British Journal of Aesthetics*, 25(4): 303–316.
-* Field, Hartry, 1972, “Tarski’s Theory of Truth,” *The Journal of Philosophy*, 69: 347–375.
-* Frueh, Joanna, 1991, “Towards a Feminist Theory of Art,” in *Feminist Art Criticism: An Anthology*, A. Raven, C. Langer and J. Frueh (eds.), Boulder: Westview Press, pp. 153–165.
+* –––, 2006, _The Philosophy of Art_, Oxford: Basil Blackwell.
+* –––, 2012, _The Artful Species_, Oxford: Oxford University Press.
+* –––, 2015, “ Defining Art and Artworlds,” _Journal of Aesthetics and Art Criticism_ 73(4): 375–384.
+* Davies, Stephen, and Sukla, Ananta (eds.), 2003, _Art and Essence_, Westport, CT: Praeger.
+* Dean, Jeffery, 2003, “The Nature of Concepts and the Definition of Art,” _Journal of Aesthetics and Art Criticism_, 61: 29–35.
+* Devitt, Michael, 2001, “The Metaphysics of Truth,” in Michael Lynch (ed.), _The Nature of Truth_, Cambridge, MA: MIT Press, pp. 579–611.
+* DeClerq, Rafael, 2002, “The Concept of an Aesthetic Property,” _Journal of Aesthetics and Art Criticism_, 60: 167–172.
+* Dickie, George, 1965, “Beardsley’s Phantom Aesthetic Experience”, _Journal of Philosophy_, 62(5): 129–136.
+* –––, 1974, _Art and the Aesthetic: An Institutional Analysis_, Ithaca, NY: Cornell University Press.
+* –––, 1984, _The Art Circle_, New York: Haven.
+* –––, 2001, _Art and Value_, Oxford: Blackwell Publishing.
+* Dissanayake, Ellen, 1990, _What is Art For?_, Bellingham: University of Washington Press.
+* Dutton, Denis, 2006, “A Naturalist Definition of Art,” _Journal of Aesthetics and Art Criticism_, 64: 367–377.
+* –––, 2008, _The Art Instinct_, New York: Bloomsbury Press.
+* Eagleton, Terry, 1990,_The Ideology of the Aesthetic_, London: Basil Blackwell.
+* Eldridge, Richard, 1985, “Form and Content: An Aesthetic Theory of Art,” _British Journal of Aesthetics_, 25(4): 303–316.
+* Field, Hartry, 1972, “Tarski’s Theory of Truth,” _The Journal of Philosophy_, 69: 347–375.
+* Frueh, Joanna, 1991, “Towards a Feminist Theory of Art,” in _Feminist Art Criticism: An Anthology_, A. Raven, C. Langer and J. Frueh (eds.), Boulder: Westview Press, pp. 153–165.
 * Gaut, Berys, 2000, “The Cluster Account of Art,” in N. Carroll (ed.) 2000, pp. 25–45.
-* Goehr, Lydia, 1994, *The Imaginary Museum of Musical Works*, Oxford: Oxford University Press.
-* Goldman, Alan, 1995, *Aesthetic Value*, Boulder, CO: Westview Press.
-* Goodman, Nelson, 1968, *Languages of Art: An Approach to a Theory of Symbols*, Indianapolis: The Bobbs-Merrill Company.
-* Hegel, G.W.F., *Lectures*, translated by Bernard Bosanquet in *The Introduction to Hegel's Philosophy of Fine Art*, London: Kegan Paul, Trench, & Co., 1886; reprinted as *Introductory Lectures on Aesthetics*, edited and with an Introduction by Michael Inwood, London: Penguin, 1993. [Page reference is to the 1886 translation.]
-* Iseminger, Gary, 2004, *The Aesthetic Function of Art*, Ithaca: Cornell University Press.
-* Janaway, Christopher, 1998, *Images of Excellence: Plato’s Critique of the Arts*, Oxford: Oxford University Press.
-* Kant, Immanuel, 2000, *Critique of the Power of Judgment*, Paul Guyer and Eric Matthews (trans.), Cambridge: Cambridge University Press.
-* Khalidi, Muhammed, 2013, “Three Kinds of Social Kinds,” *Philosophy and Phenomenological Research*, 90(1): 96–112.
-* Kivy, Peter, 1975, “What Makes ‘Aesthetic’ Terms Aesthetic?” *Philosophy and Phenomenological Research*, 36(2): 197–211.
-* –––, 1997, *Philosophies of the Arts*, Cambridge: Cambridge University Press.
-* Kristeller, Paul, 1951, “The Modern System of the Arts,” *Journal of the History of Ideas*, 12: 496–527.
-* Levinson, Jerrold, 1990, *Music, Art, and Metaphysics*, Ithaca: Cornell University Press.
-* –––, 2002, “The Irreducible Historicality of the Concept of Art”, *British Journal of Aesthetics*, 42(4): 367–379.
-* –––, 2005, “What Are Aesthetic Properties?” *Proceedings of the Aristotelian Society*, 79: 191–210.
-* Longworth, F., and A. Scarantino, 2010, “The Disjunctive Theory of Art: The Cluster Account Reformulated,” *British Journal of Aesthetics*, 50(2): 151–167.
-* Lopes, D.M., 2008,“Nobody Needs a Theory of Art” *Journal of Philosophy*, 105: 109–127.
-* –––, 2014, *Beyond Art*, Oxford: Oxford University Press.
-* McFee, Graham, 2011, *Artistic Judgment: A Framework for Philosophical Aesthetics*, London: Springer.
-* Mag Uidhir, C. and Magnus, P. D., 2011, “Art Concept Pluralism” *Metaphilosophy*, 42: 183–97.
-* Matravers, Derek, 2000, “The Institutional Theory: A Protean Creature,” *British Journal of Aesthetics*, 40: 242–250.
+* Goehr, Lydia, 1994, _The Imaginary Museum of Musical Works_, Oxford: Oxford University Press.
+* Goldman, Alan, 1995, _Aesthetic Value_, Boulder, CO: Westview Press.
+* Goodman, Nelson, 1968, _Languages of Art: An Approach to a Theory of Symbols_, Indianapolis: The Bobbs-Merrill Company.
+* Hegel, G.W.F., _Lectures_, translated by Bernard Bosanquet in _The Introduction to Hegel's Philosophy of Fine Art_, London: Kegan Paul, Trench, & Co., 1886; reprinted as _Introductory Lectures on Aesthetics_, edited and with an Introduction by Michael Inwood, London: Penguin, 1993. \[Page reference is to the 1886 translation.]
+* Iseminger, Gary, 2004, _The Aesthetic Function of Art_, Ithaca: Cornell University Press.
+* Janaway, Christopher, 1998, _Images of Excellence: Plato’s Critique of the Arts_, Oxford: Oxford University Press.
+* Kant, Immanuel, 2000, _Critique of the Power of Judgment_, Paul Guyer and Eric Matthews (trans.), Cambridge: Cambridge University Press.
+* Khalidi, Muhammed, 2013, “Three Kinds of Social Kinds,” _Philosophy and Phenomenological Research_, 90(1): 96–112.
+* Kivy, Peter, 1975, “What Makes ‘Aesthetic’ Terms Aesthetic?” _Philosophy and Phenomenological Research_, 36(2): 197–211.
+* –––, 1997, _Philosophies of the Arts_, Cambridge: Cambridge University Press.
+* Kristeller, Paul, 1951, “The Modern System of the Arts,” _Journal of the History of Ideas_, 12: 496–527.
+* Levinson, Jerrold, 1990, _Music, Art, and Metaphysics_, Ithaca: Cornell University Press.
+* –––, 2002, “The Irreducible Historicality of the Concept of Art”, _British Journal of Aesthetics_, 42(4): 367–379.
+* –––, 2005, “What Are Aesthetic Properties?” _Proceedings of the Aristotelian Society_, 79: 191–210.
+* Longworth, F., and A. Scarantino, 2010, “The Disjunctive Theory of Art: The Cluster Account Reformulated,” _British Journal of Aesthetics_, 50(2): 151–167.
+* Lopes, D.M., 2008,“Nobody Needs a Theory of Art” _Journal of Philosophy_, 105: 109–127.
+* –––, 2014, _Beyond Art_, Oxford: Oxford University Press.
+* McFee, Graham, 2011, _Artistic Judgment: A Framework for Philosophical Aesthetics_, London: Springer.
+* Mag Uidhir, C. and Magnus, P. D., 2011, “Art Concept Pluralism” _Metaphilosophy_, 42: 183–97.
+* Matravers, Derek, 2000, “The Institutional Theory: A Protean Creature,” _British Journal of Aesthetics_, 40: 242–250.
 * Meskin, Aaron, 2008,“From Defining Art to Defining the Individual Arts: The Role of Theory in the Philosophies of Arts” in Stock and Thomson-Jones (eds.) 2008, pp. 125–150.
-* Plato, 1997, *Complete Works*, John M. Cooper (ed.), Indianapolis: Hackett.
-* Rey, Georges, 1983, “Concepts and Stereotypes,” *Cognition*, 15: 237–262.
-* Ribeiro, Anna Christina (ed.), 2012, *Continuum Companion to Aesthetics*, London: Continuum.
-* Shelley, James, 2003, “The Problem of Non-Perceptual Art.” *British Journal of Aesthetics*, 43: 363–378.
-* Sibley, Frank, 1959, “Aesthetic Concepts,” *Philosophical Review*, 74: 135–159.
-* Shiner, Larry, 2001, *The Invention of Art*, Chicago: University of Chicago Press.
+* Plato, 1997, _Complete Works_, John M. Cooper (ed.), Indianapolis: Hackett.
+* Rey, Georges, 1983, “Concepts and Stereotypes,” _Cognition_, 15: 237–262.
+* Ribeiro, Anna Christina (ed.), 2012, _Continuum Companion to Aesthetics_, London: Continuum.
+* Shelley, James, 2003, “The Problem of Non-Perceptual Art.” _British Journal of Aesthetics_, 43: 363–378.
+* Sibley, Frank, 1959, “Aesthetic Concepts,” _Philosophical Review_, 74: 135–159.
+* Shiner, Larry, 2001, _The Invention of Art_, Chicago: University of Chicago Press.
 * –––, 2003, “Western and Non-Western Concepts of Art: Universality and Authenticity” in S. Davies and A. Sukla (eds.) 2003, pp. 143–157.
-* Stecker, Robert, 1997, *Artworks: Definition, Meaning, Value*, University Park, PA: Pennsylvania State University Press.
+* Stecker, Robert, 1997, _Artworks: Definition, Meaning, Value_, University Park, PA: Pennsylvania State University Press.
 * Stecker, Robert, 2000, “Is It Reasonable to Attempt to Define Art” in N. Carroll (ed.) 2000, pp. 45–64.
-* –––, 2005, *Aesthetics and the Philosophy of Art*, Lanham, MD: Rowman and Littlefield.
-* Stock, Kathleen, and Thomson-Jones, Katherine, 2008, *New Waves in Aesthetics*, London: Palgrave Macmillan.
-* Tilghman, Benjamin, 1984, *But Is It Art?*, Oxford: Blackwell.
-* Walton, Kendall, 1997, “Review of *Art and the Aesthetic*,” *Philosophical Review*, 86: 97–101.
-* –––, 2007, “Aesthetics – What?, Why?, and Wherefore?” *Journal of Aesthetics and Art Criticism*, 65(2): 147–162.
-* Wicks, R., 1993, “ Hegel’s Aesthetics,” in F. Beiser (ed.), *Cambridge Companion to Hegel*, Cambridge: Cambridge University Press, pp. 348–377.
-* Wittgenstein, Ludwig, 1953, *Philosophical Investigations*, G.E.M. Anscombe and R. Rhees (eds.), G.E.M. Anscombe (trans.), Oxford: Blackwell.
-* –––, 1968, *Philosophical Investigations*, Oxford: Blackwell.
-* Weitz, Morris, 1956, “The Role of Theory in Aesthetics,” *Journal of Aesthetics and Art Criticism*, 15: 27–35.
-* Zangwill, Nick, 1995a, “Groundrules in the Philosophy of Art,” *Philosophy*, 70: 533–544.
-* –––, 1995b, “The Creative Theory of Art,” *American Philosophical Quarterly*, 32: 315–332
-* –––, 2001, *The Metaphysics of Beauty*, Ithaca: Cornell University Press.
-* Zemach, Eddy, 1997, *Real Beauty*, University Park, PA: Pennsylvania State University Press.
+* –––, 2005, _Aesthetics and the Philosophy of Art_, Lanham, MD: Rowman and Littlefield.
+* Stock, Kathleen, and Thomson-Jones, Katherine, 2008, _New Waves in Aesthetics_, London: Palgrave Macmillan.
+* Tilghman, Benjamin, 1984, _But Is It Art?_, Oxford: Blackwell.
+* Walton, Kendall, 1997, “Review of _Art and the Aesthetic_,” _Philosophical Review_, 86: 97–101.
+* –––, 2007, “Aesthetics – What?, Why?, and Wherefore?” _Journal of Aesthetics and Art Criticism_, 65(2): 147–162.
+* Wicks, R., 1993, “ Hegel’s Aesthetics,” in F. Beiser (ed.), _Cambridge Companion to Hegel_, Cambridge: Cambridge University Press, pp. 348–377.
+* Wittgenstein, Ludwig, 1953, _Philosophical Investigations_, G.E.M. Anscombe and R. Rhees (eds.), G.E.M. Anscombe (trans.), Oxford: Blackwell.
+* –––, 1968, _Philosophical Investigations_, Oxford: Blackwell.
+* Weitz, Morris, 1956, “The Role of Theory in Aesthetics,” _Journal of Aesthetics and Art Criticism_, 15: 27–35.
+* Zangwill, Nick, 1995a, “Groundrules in the Philosophy of Art,” _Philosophy_, 70: 533–544.
+* –––, 1995b, “The Creative Theory of Art,” _American Philosophical Quarterly_, 32: 315–332
+* –––, 2001, _The Metaphysics of Beauty_, Ithaca: Cornell University Press.
+* Zemach, Eddy, 1997, _Real Beauty_, University Park, PA: Pennsylvania State University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=art-definition). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/art-definition/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=art-definition&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/art-definition/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=art-definition).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/art-definition/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=art-definition\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/art-definition/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [Aristotle, General Topics: aesthetics](https://plato.stanford.edu/entries/aristotle-aesthetics/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Nietzsche, Friedrich](https://plato.stanford.edu/entries/nietzsche/) | [Plato: rhetoric and poetry](https://plato.stanford.edu/entries/plato-rhetoric/) | [Schopenhauer, Arthur](https://plato.stanford.edu/entries/schopenhauer/)
+[aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [Aristotle, General Topics: aesthetics](https://plato.stanford.edu/entries/aristotle-aesthetics/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Nietzsche, Friedrich](https://plato.stanford.edu/entries/nietzsche/) | [Plato: rhetoric and poetry](https://plato.stanford.edu/entries/plato-rhetoric/) | [Schopenhauer, Arthur](https://plato.stanford.edu/entries/schopenhauer/)
 
-[Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
-Thomas Adajian <[*adajiatr@jmu.edu*](mailto:adajiatr%40jmu%2eedu)>
+[Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
+Thomas Adajian <[_adajiatr@jmu.edu_](mailto:adajiatr%40jmu%2eedu)>

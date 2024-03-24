@@ -1,7 +1,6 @@
 # 现代非洲哲学 contemporary (Paul C. Taylor)
 
-
-*首次发布于 2021 年 8 月 9 日星期一*
+_首次发布于 2021 年 8 月 9 日星期一_
 
 非洲哲学近年来已成为专业学术哲学家关注的焦点。什么被视为对这个领域的贡献，以及这个领域是否足够统一以被视为一个领域，这些问题存在一些争议，部分原因是非洲哲学学者致力于探索这些问题。毫无争议的是，有声誉的出版商现在出版这个领域的作品，有声誉的机构也开始寻求雇佣在这个领域有专长的学者，这些情况在短短几年前是不存在的。（这些学者有时也会探讨另一个问题：什么被视为有声誉，以及为什么？）
 
@@ -32,7 +31,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/africana-contemporary/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/africana-contemporary/#Rel)
 
----
+***
 
 ## 1. 框定主题：界定话题
 
@@ -60,17 +59,17 @@ Gordon 的附加语言可能会有所帮助。他解释道：
 
 首先，负责任地应对非洲及其散居地所面临的实际问题非常重要。有许多明显的例子，从帝国侵略和强迫迁徙到不对称地融入世界经济和独立后的威权统治。哲学探究者可以将这些条件作为他们的研究对象，但他们也必须应对这些条件如何塑造和限制知识工作的前景。
 
-其次，同样重要的是，要指出并纠正一种倾向，即认为非洲社区不仅面临问题，而且在某种程度上本质上容易出现问题。这里的思想是，非洲性的状态不仅仅是面临问题，而且在某种程度上也是一个问题。我借用了非洲思想的经典人物之一的一个重要表述。在他的职业生涯早期，W.E.B.杜波依斯曾经邀请他的读者代表被种族化为黑人的人们思考一个令人困惑的问题：*成为一个问题是什么感觉*？（杜波依斯“我们精神的奋斗”[1903] 1986 年，363 页）。这部分地意味着：作为一个社会伦理失误和认识能力不足的活生生的代表，以及应对社会压力，将自己视为这些问题的根源，生活中是什么感觉？考虑到非洲性和黑人之间的重叠，将“黑人视为一个问题人群”的倾向对非洲及其散居地来说非常重要（韦斯特 1999 年，104 页）。
+其次，同样重要的是，要指出并纠正一种倾向，即认为非洲社区不仅面临问题，而且在某种程度上本质上容易出现问题。这里的思想是，非洲性的状态不仅仅是面临问题，而且在某种程度上也是一个问题。我借用了非洲思想的经典人物之一的一个重要表述。在他的职业生涯早期，W.E.B.杜波依斯曾经邀请他的读者代表被种族化为黑人的人们思考一个令人困惑的问题：_成为一个问题是什么感觉_？（杜波依斯“我们精神的奋斗”\[1903] 1986 年，363 页）。这部分地意味着：作为一个社会伦理失误和认识能力不足的活生生的代表，以及应对社会压力，将自己视为这些问题的根源，生活中是什么感觉？考虑到非洲性和黑人之间的重叠，将“黑人视为一个问题人群”的倾向对非洲及其散居地来说非常重要（韦斯特 1999 年，104 页）。
 
-这种问题性的现象深度指向第三种模式，它不仅涉及面对或成为问题，还涉及*提出*问题。我们已经在非洲思想在形而上学、伦理学和认识论中引发问题的方式中看到了这一点。但非洲性还引发了关于方法和世界观以及某种意义上的本体论的更深层次的问题。V. Y. Mudimbe（1988）所称的“非洲的发明”这一辞说事件使得某些标准的现代哲学态度变得复杂或者可以说是短路，或者更准确地说，迫使哲学的欧洲现代性误解和可能误解其实际的激励要素。这种复杂性导致黑格尔将非洲从他的世界历史舞台中排除在外，同时对实际历史和地理造成了相当大的伤害。它使得托马斯·杰斐逊和约翰·洛克这样的人物在他们的作品和生活中反映了现代政治思想的矛盾。它使得法农（在非洲思想的另一个重要贡献中）指出，当他进入房间时，理性就离开了。这样的思想激发了戈登（2000）和其他人围绕“改变理性的地理”和将人文科学应用于那些成员往往被脆弱地视为人类的人群的认识论挑战来组织大量富有成果的哲学工作。[[2](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-2)]
+这种问题性的现象深度指向第三种模式，它不仅涉及面对或成为问题，还涉及_提出_问题。我们已经在非洲思想在形而上学、伦理学和认识论中引发问题的方式中看到了这一点。但非洲性还引发了关于方法和世界观以及某种意义上的本体论的更深层次的问题。V. Y. Mudimbe（1988）所称的“非洲的发明”这一辞说事件使得某些标准的现代哲学态度变得复杂或者可以说是短路，或者更准确地说，迫使哲学的欧洲现代性误解和可能误解其实际的激励要素。这种复杂性导致黑格尔将非洲从他的世界历史舞台中排除在外，同时对实际历史和地理造成了相当大的伤害。它使得托马斯·杰斐逊和约翰·洛克这样的人物在他们的作品和生活中反映了现代政治思想的矛盾。它使得法农（在非洲思想的另一个重要贡献中）指出，当他进入房间时，理性就离开了。这样的思想激发了戈登（2000）和其他人围绕“改变理性的地理”和将人文科学应用于那些成员往往被脆弱地视为人类的人群的认识论挑战来组织大量富有成果的哲学工作。\[[2](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-2)]
 
 （明确一点：这里的观点并不是非洲裔人和文化在本质上有问题。对经验证据和“本质上”的合理含义的冷静思考无法支持这种观点。观点是，a）欧洲现代性在某种程度上是建立在非洲裔人天生有问题的信念上，以及 b）抵制这种信念的哲学干预成为问题，对霸权主义的哲学方法产生问题。）
 
 从这些框架主题开始的目的是为了标记非洲哲学反思的某些重要背景。研究非洲哲学首先是要做其他哲学领域的事情：考虑一系列特定的问题和难题，研究一群经典人物和文本，参与围绕熟悉的修辞和动作组织的活跃辩论等等。但也要在由基础问题定义的背景下进行这些事情，这些问题涉及哲学探究的本质、知识生产的具体机制的结构和影响，甚至是探究者的人性，这在相当程度上是相当不寻常的。作为这一点的象征，可以考虑到非洲哲学作为一个受人尊重的研究课题的确立（在下文中将详细阐述“受人尊重”的意义）始于对一个单一、简单、现已过时的问题的辩论：非洲人能否从事哲学？
 
-通过研究从戈登的看似简单的非洲哲学定义中出现的主题，我们现在更能理解一个类似但更详细的定义。奥特劳将“非洲哲学”描述为“一个第三阶段的、元哲学的、伞形概念……[该名字]不指代特定的哲学、哲学体系、方法或传统”（奥特劳 2017 年，§1，第 1 段）。它指的是一门研究领域，它起源于产生和涉及非洲及其散居地的独特条件，认真对待那些最直接受到和涉及这些条件影响的人民的经历和思考，并且由于前两个因素的结果，倾向于出现某些反复出现的关注点或主题。其中一些关注点和主题在上面已经出现，并将在接下来的章节中得到更多关注，同时还会涉及几个额外的主题。
+通过研究从戈登的看似简单的非洲哲学定义中出现的主题，我们现在更能理解一个类似但更详细的定义。奥特劳将“非洲哲学”描述为“一个第三阶段的、元哲学的、伞形概念……\[该名字]不指代特定的哲学、哲学体系、方法或传统”（奥特劳 2017 年，§1，第 1 段）。它指的是一门研究领域，它起源于产生和涉及非洲及其散居地的独特条件，认真对待那些最直接受到和涉及这些条件影响的人民的经历和思考，并且由于前两个因素的结果，倾向于出现某些反复出现的关注点或主题。其中一些关注点和主题在上面已经出现，并将在接下来的章节中得到更多关注，同时还会涉及几个额外的主题。
 
-（Outlaw 还确定了一些“关键启发性假设”，可以帮助防止容易产生误解[Outlaw 2017，§1，第 2 段]。其中最重要的假设是：a）有负责任的方法来解释承载“非洲哲学”谓词的现象的统一性和独特性；b）这些解释不预设非洲人民和文化之间的一致性和同质性，也不需要追求或规定这种一致性；c）“对非洲哲学的贡献者不必是非洲人或非洲血统的人”（Outlaw 2017，§1，第 5 段）。如上所述，本条目不会进一步探讨这些假设。对于这些问题寻求保证的读者可以参考 Outlaw（2017）和 Gordon（2008）在他们对该领域的概述中探讨的基础文本。）
+（Outlaw 还确定了一些“关键启发性假设”，可以帮助防止容易产生误解\[Outlaw 2017，§1，第 2 段]。其中最重要的假设是：a）有负责任的方法来解释承载“非洲哲学”谓词的现象的统一性和独特性；b）这些解释不预设非洲人民和文化之间的一致性和同质性，也不需要追求或规定这种一致性；c）“对非洲哲学的贡献者不必是非洲人或非洲血统的人”（Outlaw 2017，§1，第 5 段）。如上所述，本条目不会进一步探讨这些假设。对于这些问题寻求保证的读者可以参考 Outlaw（2017）和 Gordon（2008）在他们对该领域的概述中探讨的基础文本。）
 
 ## 2. 框架条件：殖民性、异端和历史性
 
@@ -90,9 +89,9 @@ Gordon 的附加语言可能会有所帮助。他解释道：
 
 因此，接下来的讨论将遵循三个原则。首先，这项研究将把非洲哲学作为一个“领域”来关注。这意味着个别思想家的贡献，无论多么引人注目或有洞察力，只有在它们与知识交流网络和机构认证的关系上具有相关性时，才在这里具有意义，这些关系可以用“学科”和“传统”等术语来描述。这也意味着要区分非洲哲学作为一项事业的历史和非洲裔哲学家作为一个群体的历史。当然，这个群体的许多成员对该领域做出了有价值的、开创性的贡献，从亚历山大·克鲁梅尔这样的重要人物开始，他建立了美国黑人学院，这是早期建立这些网络的一次尝试。但正如斯蒂芬·C·弗格森二世指出的那样，“不需要（也没有）专门将非洲经验作为研究领域”（弗格森，2009 年，23 页）。前者将成为这里讲述的故事的一部分；后者则不会。
 
-其次，这项研究将在一定程度上关注*专业*学术工作。学术界以外的哲学活动——在其他机构空间或现代大学及其专业学者出现之前——在这里不会被断然排除，但只要与在学院内或附近发生的工作有关，就会成为相关因素。学院当然不是负责知识生产的唯一场所，但它是一种机制，可以将其中某些尝试系统地确立为更多工作的资源。这就是我在这里要探讨的非洲哲学的方面。
+其次，这项研究将在一定程度上关注_专业_学术工作。学术界以外的哲学活动——在其他机构空间或现代大学及其专业学者出现之前——在这里不会被断然排除，但只要与在学院内或附近发生的工作有关，就会成为相关因素。学院当然不是负责知识生产的唯一场所，但它是一种机制，可以将其中某些尝试系统地确立为更多工作的资源。这就是我在这里要探讨的非洲哲学的方面。
 
-第三，讨论将以*跨学科形式*来看待这个领域，也就是说，它将关注在哲学系内或附近发生的工作。在这里提到与哲学系的接近，我主要是指捕捉两个重叠的思想家类别：在英语系或政治科学系等部门从事可辨认的哲学主题或资源的学者；以及没有像现在这样的部门隶属关系，但他们做出了那些鼓励哲学家邀请他们参与该领域叙述的举动和声音的历史人物。也就是说：如果社会科学哲学可以有克利福德·吉尔茨和广义哲学可以有休谟、基尔克高斯、爱默生和简·亚当斯，那么非洲哲学可以有帕特里夏·希尔·科林斯和亚历山大·克鲁梅尔（他们两人将在下文中回归）。
+第三，讨论将以_跨学科形式_来看待这个领域，也就是说，它将关注在哲学系内或附近发生的工作。在这里提到与哲学系的接近，我主要是指捕捉两个重叠的思想家类别：在英语系或政治科学系等部门从事可辨认的哲学主题或资源的学者；以及没有像现在这样的部门隶属关系，但他们做出了那些鼓励哲学家邀请他们参与该领域叙述的举动和声音的历史人物。也就是说：如果社会科学哲学可以有克利福德·吉尔茨和广义哲学可以有休谟、基尔克高斯、爱默生和简·亚当斯，那么非洲哲学可以有帕特里夏·希尔·科林斯和亚历山大·克鲁梅尔（他们两人将在下文中回归）。
 
 保持在哲学学科的轨道上至关重要，原因有三：一是为了保留对非洲哲学所提出的独特哲学问题的反思空间，二是培养处理这些问题的独特哲学资源，三是赞赏那些在该领域确立自身作为一个关注点之前从事工作的少数非洲裔哲学家的贡献和职业轨迹。然而，仅关注持证哲学家的工作将过于局限。首先，这个学科和职业长期以来一直对定义该领域的问题进行持续反思持敌对态度，并以相当具体的方式对试图进行这种反思的人持敌对态度。因此，这种反思的很大一部分发生在其他地方——在政治理论、社会学、文学理论、艺术实践等领域。此外，作为相关问题，非洲哲学在实践中一直非常包容，这一点在关键参考文献的贡献者名单中可以清楚地看出。排除政治理论家、社会学家、黑人研究学者和其他与专业哲学家进行对话以推动该领域发展的人，不仅会不必要地限制可用资源，而且会与持续的实践相悖。
 
@@ -122,7 +121,7 @@ Gordon 的附加语言可能会有所帮助。他解释道：
 
 非洲哲学当然涉及的主题远不止这些。但是，在这一点上，扩展列表并减少解释列表含义的空间，比起考虑这一事业根植于重叠的社会历史背景意味着什么更为有用。这需要从统一主题的研究转向对离心力的思考，这些离心力将非洲哲学家引向独特的区域和方法论关注。
 
-在进入这些更狭窄的地区和方法的考虑之前，还有一个最终的总体主题需要提及。阿德什纳·阿福拉扬（Adeshina Afolayan）和托因·法洛拉（Toyin Falola）在他们对优秀的《非洲哲学帕尔格雷夫手册》（*Palgrave Handbook of African Philosophy*）的引言中指出了一种新的迫切需求，这种需求影响了他们的编辑方法。他们说，非洲哲学家长期以来一直专注于巩固自己的专业地位和应对内部学术辩论。然而，阿福拉扬和法洛拉建议，现在是时候让“非洲哲学走上街头，让他们的理论被大陆上的困境所玷污”（Afolayan and Falola 2017, 12）。换句话说，非洲哲学应该拥抱它作为 Outlaw（2017）所称的“斗争哲学”的身份，这一点是显而易见的，Outlaw 在这里是指 Leonard Harris（继 Frederick Douglass 之后）的观点。这显然是整个非洲哲学的一个主题，并应该被添加到列表中。
+在进入这些更狭窄的地区和方法的考虑之前，还有一个最终的总体主题需要提及。阿德什纳·阿福拉扬（Adeshina Afolayan）和托因·法洛拉（Toyin Falola）在他们对优秀的《非洲哲学帕尔格雷夫手册》（_Palgrave Handbook of African Philosophy_）的引言中指出了一种新的迫切需求，这种需求影响了他们的编辑方法。他们说，非洲哲学家长期以来一直专注于巩固自己的专业地位和应对内部学术辩论。然而，阿福拉扬和法洛拉建议，现在是时候让“非洲哲学走上街头，让他们的理论被大陆上的困境所玷污”（Afolayan and Falola 2017, 12）。换句话说，非洲哲学应该拥抱它作为 Outlaw（2017）所称的“斗争哲学”的身份，这一点是显而易见的，Outlaw 在这里是指 Leonard Harris（继 Frederick Douglass 之后）的观点。这显然是整个非洲哲学的一个主题，并应该被添加到列表中。
 
 8. 斗争哲学（因为哲学思考不是一种用于解开抽象难题的休闲活动，或者不仅仅是如此，或者不是最重要的。它是（除其他外）一种将哲学冲动和资源应用于某些紧迫生活问题的实践，并且在频繁出现问题的情况下，也能够进行与这些问题无关的哲学冲动的实践，比如与美或知识理论相关的冲动）
 
@@ -156,7 +155,7 @@ Gordon 的附加语言可能会有所帮助。他解释道：
 
 20 世纪 90 年代和 21 世纪初是巩固的年代。这是一个更加稳固地定位于学术专业人士的浪潮，他们的作品比之前时代的作品更具影响力。在这里可以想到 Kwame Anthony Appiah 的《在我父亲的家中》（1993 年），Charles W. Mills 的《种族契约》（1997 年），Lucius T. Outlaw Jr.的《论种族和哲学》（1996 年），Lewis R. Gordon 的《虚伪和反黑种族主义》（1995 年），Paget Henry 的《卡利班的理性》（2000 年），Kwame Gyekye 的《传统与现代性》（1997 年），Patricia Hill Collins 的《黑人女性主义思想》第一版（1990 年）和 Bernard R. Boxill 的修订版《黑人和社会正义》（1992 年）。
 
-随着非洲哲学成为一个被专业认可的领域（与充满活力但异端的企业或传统相对，与主流知识生产只有少许重叠），工作开始，可以说，对该学科的公认运动和学派进行了改编。非洲专业哲学家将主流专业资源与早期哲学的关注和创新相结合。这不仅仅是将复杂的资源应用于非哲学的原始材料，而是将两种哲学反思模式融合在一起。其中一种享受主流认可，而另一种则通过在其对应的领域中的应用进行测试和完善；原则上，每种模式都可以弥补另一种模式的不足。结果是一种作品，往往像 Moten 所说的黑人激进马克思主义一样，涉及到“保留和打破、原创和回应”（Moten 2017, 9–10）。[[3](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-3)]（这也可以说是非洲裔散居音乐实践在欧洲传统中产生的差异，产生了像桑巴和爵士乐这样的新形式。因此，才会提到“改编”。）
+随着非洲哲学成为一个被专业认可的领域（与充满活力但异端的企业或传统相对，与主流知识生产只有少许重叠），工作开始，可以说，对该学科的公认运动和学派进行了改编。非洲专业哲学家将主流专业资源与早期哲学的关注和创新相结合。这不仅仅是将复杂的资源应用于非哲学的原始材料，而是将两种哲学反思模式融合在一起。其中一种享受主流认可，而另一种则通过在其对应的领域中的应用进行测试和完善；原则上，每种模式都可以弥补另一种模式的不足。结果是一种作品，往往像 Moten 所说的黑人激进马克思主义一样，涉及到“保留和打破、原创和回应”（Moten 2017, 9–10）。\[[3](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-3)]（这也可以说是非洲裔散居音乐实践在欧洲传统中产生的差异，产生了像桑巴和爵士乐这样的新形式。因此，才会提到“改编”。）
 
 理解这种变革性的即兴关系是正确定位出现和巩固时期的贡献的先决条件。在这种情况下，人们可以承认戴维斯和奥特劳都对批判理论传统做出了贡献，并从中汲取了营养，而不会削弱他们的独创性或传统流利性。同样，韦斯特和哈里斯在实用主义传统上进行了改编，穆迪姆贝和格利桑特创造性地借用和运用了后结构主义的资源，戈登和亨利则在威廉·R·琼斯和其他人的基础上发展了非洲哲学的存在主义现象学形式，阿皮亚和博克西尔则代表了非洲哲学的分析主义观点。
 
@@ -188,7 +187,7 @@ Gordon 的附加语言可能会有所帮助。他解释道：
 
 一个关注点是拒绝将非洲散居地仅限于加勒比海和美国，并探索相对被低估的非洲社区。其中一种方法是由 Chike Jeffers（2012）、Peter James Hudson 和 Aaron Kamugisha（2014）等人提倡的，考虑到特别是加拿大形式的非洲思想的前景。另一种方法则关注欧洲的非洲散居地。Alanna Lockward（2013）的 BEBoP（黑人欧洲身体政治）策展项目是这项工作的一个显著例子，Barnor Hesse（2009）和其他人对《黑人欧洲与非洲散居地》一书的贡献也是如此。
 
-第二个领域关注标准种族地理的某些内部复杂性。这是一个日益增长的思想家群体在探讨非洲白人居民问题时所持的精神。这些殖民地后裔在殖民入侵的一定程度上成长，出生在非洲大陆上，并且尤其在南非，他们的命运和自我意识与非洲的前景以复杂的方式紧密相连。因此，他们在非洲大陆上的地位以及在学科中的地位已成为哲学思考的主题，正如我们将在下文中看到的。Samantha Vice（2010）的开创性论文《我该如何生活在这个陌生的地方？》将这一讨论的版本锚定在南非。[[5](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-5)]
+第二个领域关注标准种族地理的某些内部复杂性。这是一个日益增长的思想家群体在探讨非洲白人居民问题时所持的精神。这些殖民地后裔在殖民入侵的一定程度上成长，出生在非洲大陆上，并且尤其在南非，他们的命运和自我意识与非洲的前景以复杂的方式紧密相连。因此，他们在非洲大陆上的地位以及在学科中的地位已成为哲学思考的主题，正如我们将在下文中看到的。Samantha Vice（2010）的开创性论文《我该如何生活在这个陌生的地方？》将这一讨论的版本锚定在南非。\[[5](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-5)]
 
 ## 7. 阅读当代——不断演变的主题
 
@@ -206,17 +205,17 @@ Gordon 的附加语言可能会有所帮助。他解释道：
 
 尽管 Dotson 关注 Collins 在“批判社会理论”中的认识论维度（Collins 1989, xiv），Belle 则关注其存在主义和现象学维度。她解释说 Collins 的工作“强调了为黑人女性提供自由发言的安全空间作为抵抗和赋权的必要条件的重要性”（Belle 2015, 2345）。这种对代理性、发声和话语社区的取向显然影响了 Belle 作为学者的工作（Davidson, Gines, and Marcano 2010）。但它也塑造了她作为一个机构建设者的工作，最明显的是作为黑人女性哲学家学院的推动力量，自 2007 年以来，该学院的目标是“为黑人女性哲学家创造一个安全的空间……以相互支持、鼓励和学习”（Belle 2015, 2345）。
 
-如果有机会“继承”Patricia Hill Collins 的工作（正如 Dotson [2015]在她关于 Collins 的文章标题中所说），这已经激发了当代美国黑人女性主义哲学中两位有影响力的人物，而另一位作者的基础性文本所涉及的问题则推动了非洲哲学研究中关于性别和性取向的另一种流派。尼日利亚社会学家 Oyeronke Oyewumi 的《女性的发明》（1997）使她成为非洲女性主义思想中“最著名且备受争议的学者之一”（Coetzee and Halsema 2018, 179），正如 Azille Coetzee 和 Annemie Halsema 所说。Douglas Ficek 解释说，她的“核心观点是，在约鲁巴地区，性别不是一个本土的组织原则，西方的‘身体推理’和‘生物逻辑’既不在语言中，也不在约鲁巴的认识论中存在”（Ficek 2006, 543）。这个观点立即引起了相当大的反对意见，包括 2006 年出版的《Quest: A Journal of African Philosophy》特刊中多位作者对非洲女性主义的持续审视。Oyewumi 的论点仍然有助于构建对非洲生活中性别角色的当代思考，正如她在最近的《Palgrave Companion》中关于性别和女性主义的文章中所展示的（例如 du Toit and Coetzee 2017）。
+如果有机会“继承”Patricia Hill Collins 的工作（正如 Dotson \[2015]在她关于 Collins 的文章标题中所说），这已经激发了当代美国黑人女性主义哲学中两位有影响力的人物，而另一位作者的基础性文本所涉及的问题则推动了非洲哲学研究中关于性别和性取向的另一种流派。尼日利亚社会学家 Oyeronke Oyewumi 的《女性的发明》（1997）使她成为非洲女性主义思想中“最著名且备受争议的学者之一”（Coetzee and Halsema 2018, 179），正如 Azille Coetzee 和 Annemie Halsema 所说。Douglas Ficek 解释说，她的“核心观点是，在约鲁巴地区，性别不是一个本土的组织原则，西方的‘身体推理’和‘生物逻辑’既不在语言中，也不在约鲁巴的认识论中存在”（Ficek 2006, 543）。这个观点立即引起了相当大的反对意见，包括 2006 年出版的《Quest: A Journal of African Philosophy》特刊中多位作者对非洲女性主义的持续审视。Oyewumi 的论点仍然有助于构建对非洲生活中性别角色的当代思考，正如她在最近的《Palgrave Companion》中关于性别和女性主义的文章中所展示的（例如 du Toit and Coetzee 2017）。
 
-法律理论家金伯莱·克伦肖为当代对性别和性取向的反思提供了另一个基石，但其重要性（以及被低估的重要性）远远超出了这些领域。在 1989 年和 1991 年的两篇开创性文章中，她提出了交叉性的概念，激发了“很少有理论能够引发的”“跨学科和全球参与”的热潮（Carbado 等人，2013 年，303 页）。她在这两篇文章的第二篇中说，她开始使用交叉性的概念来描述种族和性别相互作用对塑造黑人女性就业经历的多个维度的影响（Crenshaw，1991 年，1244 页）[7]。从这个简单的起点开始，出现了大量的评论和分析，学者、艺术家、评论家和活动家们几乎与使用交叉性的方式一样，对“交叉性”的含义和正确使用进行了激烈的辩论。交叉性仍然是一个备受争议的概念，部分原因是它引发了许多深层次的哲学问题。学者们问道，交叉性对个人身份理论意味着什么，它是否足够捕捉到人类经验的复杂性，它对联盟政治的前景有何影响，为什么这个概念在社会理论中与其他相关的、更古老的概念相比显得与众不同，标准的交叉性方法是否足够认真地对待了黑人男性，以及还有许多其他问题。
+法律理论家金伯莱·克伦肖为当代对性别和性取向的反思提供了另一个基石，但其重要性（以及被低估的重要性）远远超出了这些领域。在 1989 年和 1991 年的两篇开创性文章中，她提出了交叉性的概念，激发了“很少有理论能够引发的”“跨学科和全球参与”的热潮（Carbado 等人，2013 年，303 页）。她在这两篇文章的第二篇中说，她开始使用交叉性的概念来描述种族和性别相互作用对塑造黑人女性就业经历的多个维度的影响（Crenshaw，1991 年，1244 页）\[7]。从这个简单的起点开始，出现了大量的评论和分析，学者、艺术家、评论家和活动家们几乎与使用交叉性的方式一样，对“交叉性”的含义和正确使用进行了激烈的辩论。交叉性仍然是一个备受争议的概念，部分原因是它引发了许多深层次的哲学问题。学者们问道，交叉性对个人身份理论意味着什么，它是否足够捕捉到人类经验的复杂性，它对联盟政治的前景有何影响，为什么这个概念在社会理论中与其他相关的、更古老的概念相比显得与众不同，标准的交叉性方法是否足够认真地对待了黑人男性，以及还有许多其他问题。
 
-结束本节的最佳方式是讨论酷儿理论对非洲哲学的日益影响，但可惜的是，我们很少有什么可以说的。许多哲学之外的研究展示了相当深入的哲学深度，从政治学家凯西·科恩的开创性工作开始，继续到 C·莱利·斯诺顿等人的工作[8]。迄今为止，出于上述原则性的理由，我愿意将持有哲学家身份的人与学科之外的思想家进行对话；但在这种情况下，学科内外的工作之间的差距如此明显，以至于它值得特别评论。
+结束本节的最佳方式是讨论酷儿理论对非洲哲学的日益影响，但可惜的是，我们很少有什么可以说的。许多哲学之外的研究展示了相当深入的哲学深度，从政治学家凯西·科恩的开创性工作开始，继续到 C·莱利·斯诺顿等人的工作\[8]。迄今为止，出于上述原则性的理由，我愿意将持有哲学家身份的人与学科之外的思想家进行对话；但在这种情况下，学科内外的工作之间的差距如此明显，以至于它值得特别评论。
 
 非洲哲学尚未认真面对过去十五年来困扰黑人研究和相关领域的挑战。德怀特·麦克布赖德在 2007 年清楚地提出了这个挑战：
 
 > 在美国讲述黑人生活的真相需要多元的声音。它需要投身于黑人男性和女性的故事和经历的声音；黑人异性恋者和黑人同性恋者、双性恋者和跨性别者的声音……黑人单亲家庭的声音……以及更多。当我们让自己被黑人尊严的形式所概括，只讲述了我们故事的一部分。（麦克布赖德，2007 年，438-439）
 
-麦克布赖德在提出“新的黑人研究”之前，提出了对种族内多样性问题更加关注的观点。这种呼吁的某种版本无疑对非洲哲学具有相关性。因此，V. Denise James 和 Anika Simpson 在美国背景下的即将出版的作品尤为受欢迎。（我将留给对其他背景有更深入了解的评论者对其他地方的有希望的发展进行评论。）詹姆斯正在研究奥德丽·洛德的哲学论述，而辛普森正在准备一项研究，该研究要求对标准哲学方法在家庭、性别、性取向和政治生活方面进行异化，以负责任地参与单身黑人母亲的问题。[9]
+麦克布赖德在提出“新的黑人研究”之前，提出了对种族内多样性问题更加关注的观点。这种呼吁的某种版本无疑对非洲哲学具有相关性。因此，V. Denise James 和 Anika Simpson 在美国背景下的即将出版的作品尤为受欢迎。（我将留给对其他背景有更深入了解的评论者对其他地方的有希望的发展进行评论。）詹姆斯正在研究奥德丽·洛德的哲学论述，而辛普森正在准备一项研究，该研究要求对标准哲学方法在家庭、性别、性取向和政治生活方面进行异化，以负责任地参与单身黑人母亲的问题。\[9]
 
 民族哲学的概念在关于非洲哲学的适当内容和方法的辩论中产生，并且最常见的是由保林·洪通吉（Paulin Hountondji）提出的“作为对非洲哲学传统主义方法的一种负面描述”（Wiredu 2004, 3）。哈伦（Hallen）描述了这种方法的令人担忧的版本：
 
@@ -224,15 +223,15 @@ Gordon 的附加语言可能会有所帮助。他解释道：
 
 我将这称为传统主义令人担忧的版本，因为洪通吉和其他人为较不令人担忧、更具批判性的传统主义留出了空间。例如，帕吉特·亨利重新提出了民族哲学的概念，以指代对非洲哲学统一过度抽象的历史和文化根源的修正。他这样表达：“尽管关于民族哲学实践的争议不断，但我认为它是所有非洲导向哲学的必要组成部分”（亨利，2000 年，154 页）。
 
-亨利在这里与阿皮亚（1993 年）一起呼吁一种“批判性”的民族哲学，它挖掘非洲文化的洞见，并使其在哲学上可知，而不是将其与批判性审查隔离或冻结在前殖民时期的琥珀中[[10](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-10)]。这种工作前景继续吸引关注并激发研究人员的灵感。除了亨利对加勒比非洲哲学的方法之外，最明显的例子之一就是越来越多的文献试图将特定的非洲哲学概念引入当代伦理学和政治哲学的辩论中。乌班图的概念可能是最常见和突出的接受者，这种做法引发了相当大的争议（我们将在后面回顾）。但还有许多其他例子。例如，考虑姆比·杰罗姆·托萨姆（2014 年）对科姆谚语哲学基础的研究，或阿德博拉·B·埃卡诺拉（2017 年）对约鲁巴人对和平的理解的考察。在非洲大陆之外，与亨利对传统主义的重新运用并行的是越来越多的作品，如林赛·斯图尔特（2017 年）对胡杜爱情仪式作为自由实践模式的研究。
+亨利在这里与阿皮亚（1993 年）一起呼吁一种“批判性”的民族哲学，它挖掘非洲文化的洞见，并使其在哲学上可知，而不是将其与批判性审查隔离或冻结在前殖民时期的琥珀中\[[10](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-10)]。这种工作前景继续吸引关注并激发研究人员的灵感。除了亨利对加勒比非洲哲学的方法之外，最明显的例子之一就是越来越多的文献试图将特定的非洲哲学概念引入当代伦理学和政治哲学的辩论中。乌班图的概念可能是最常见和突出的接受者，这种做法引发了相当大的争议（我们将在后面回顾）。但还有许多其他例子。例如，考虑姆比·杰罗姆·托萨姆（2014 年）对科姆谚语哲学基础的研究，或阿德博拉·B·埃卡诺拉（2017 年）对约鲁巴人对和平的理解的考察。在非洲大陆之外，与亨利对传统主义的重新运用并行的是越来越多的作品，如林赛·斯图尔特（2017 年）对胡杜爱情仪式作为自由实践模式的研究。
 
-在批判性民族哲学的重要辩论中，围绕着对南非 ubuntu 的研究以及白人哲学家在这项工作中的角色，产生了一系列的辩论。塔迪乌斯·梅茨（2007 年）和莫戈贝·拉莫塞（2015 年）可能是对于当前目的而言，这场辩论的最清晰的发言人。一方面，有学者旨在将 ubuntu 的概念视为伦理学和政治哲学工作的另一种资源，并将这种方法视为对非洲土著资源的尊重的表达。另一方面，有学者对非洲概念的突然“主流化”持极度怀疑态度，往往出于与对审美体验相关的文化实践被滥用的担忧类似的原因。对这种担忧的简短而温和的版本可能是这样的：在一个黑人占多数的国家里，白人哲学教授占多数，教授队伍的形成并非自然力量或偶然性所致，而是通过沿着种族线慎重保留资源和机会而形成的。在没有首先改变其机构结构以授予来自这些文化的人们实质性接触的情况下，白人哲学家开始从非洲文化中开采资源是不合适的，甚至可能是应受谴责的（拉莫塞[2015 年]指出，通常还没有学习相关语言，就像他们会学习希腊语来认真研究斯多亚派一样）。当然，有各种方法来发展这种担忧并对其进行回应；现在的重点只是将围绕它的辩论作为非洲哲学领域近期关注的一个例子。
+在批判性民族哲学的重要辩论中，围绕着对南非 ubuntu 的研究以及白人哲学家在这项工作中的角色，产生了一系列的辩论。塔迪乌斯·梅茨（2007 年）和莫戈贝·拉莫塞（2015 年）可能是对于当前目的而言，这场辩论的最清晰的发言人。一方面，有学者旨在将 ubuntu 的概念视为伦理学和政治哲学工作的另一种资源，并将这种方法视为对非洲土著资源的尊重的表达。另一方面，有学者对非洲概念的突然“主流化”持极度怀疑态度，往往出于与对审美体验相关的文化实践被滥用的担忧类似的原因。对这种担忧的简短而温和的版本可能是这样的：在一个黑人占多数的国家里，白人哲学教授占多数，教授队伍的形成并非自然力量或偶然性所致，而是通过沿着种族线慎重保留资源和机会而形成的。在没有首先改变其机构结构以授予来自这些文化的人们实质性接触的情况下，白人哲学家开始从非洲文化中开采资源是不合适的，甚至可能是应受谴责的（拉莫塞\[2015 年]指出，通常还没有学习相关语言，就像他们会学习希腊语来认真研究斯多亚派一样）。当然，有各种方法来发展这种担忧并对其进行回应；现在的重点只是将围绕它的辩论作为非洲哲学领域近期关注的一个例子。
 
 当代工作中的第三个主题也明显源于较早的趋势。作为一项“诞生于斗争”的事业，非洲哲学以非同寻常的频率和一致性关注其探究者所面临的伦理和政治问题。几乎在每个领域的研究中，包括形而上学（例如与人的概念相关的问题）和认识论（例如与证词不公正问题相关的问题），伦理学的含义很少离开视野。但直接的政治哲学仍然是一个活跃的研究领域，就像奥德拉·奥鲁卡（Odera Oruka）在 1981 年著名地将“民族主义意识形态”理论化认定为非洲哲学活动的四个主要领域之一时一样（奥鲁卡，1981 年，无页码）。
 
 非洲政治哲学的非洲哲学构成了一个庞大的领域，在这里无法负责任地进行全面覆盖。此外，这是一个地区和地方差异特别大的领域，从而使任何广泛的概括变得复杂。然而，值得注意的是三个趋势。
 
-首先，对标志性人物的评论仍然是一项常见的工作，尽管随着时间的推移，可供进行此类评论的人物范围当然发生了变化。每个地区的标志性人物仍然是研究的活选项，正如最近《非洲哲学杂志》对恩克鲁马和阿齐奎的专题报道所证明的那样，对杜波依斯和库珀的各种场合的持续关注，以及对森戈尔和塞萨尔遗产重新思考的最新尝试。[[12](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-12)] 当代的不同之处在于，这项工作现在更常与对克劳德·麦克斯·克尔和贝尔·胡克斯等人的研究共享空间。[[13](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-13)]
+首先，对标志性人物的评论仍然是一项常见的工作，尽管随着时间的推移，可供进行此类评论的人物范围当然发生了变化。每个地区的标志性人物仍然是研究的活选项，正如最近《非洲哲学杂志》对恩克鲁马和阿齐奎的专题报道所证明的那样，对杜波依斯和库珀的各种场合的持续关注，以及对森戈尔和塞萨尔遗产重新思考的最新尝试。\[[12](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-12)] 当代的不同之处在于，这项工作现在更常与对克劳德·麦克斯·克尔和贝尔·胡克斯等人的研究共享空间。\[[13](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-13)]
 
 其次，类似地，尽管学者们继续进行与特定地区相关的调查研究，但在某些具有划时代意义的地缘政治变化之后，这些问题已经发生了变化。这里涉及的问题范围之广令人望而生畏，但伊万·卡普和 D·A·马索洛提供了一个有益的广泛框架。他们提出了独立后非洲哲学发展的三个大致十年阶段。他们说，20 世纪 70 年代是关于民族哲学的辩论，而 20 世纪 80 年代是关于批评非洲文化生产方式的，从传统实践到精英知识工作。与此同时，20 世纪 90 年代提出了一个新的挑战：
 
@@ -248,137 +247,137 @@ Karp 和 Masolo（2000 年）对这个新的后乌托邦阶段的描述追踪了
 
 现代非洲哲学中的最后一个主题以某种方式将我们带回到了起点。它反映了一种由斗争而生的哲学的必然性，它深入挖掘并建立在问题性的核心思想上，并反映了刚刚讨论过的不断努力，以寻找更加充分的概念工具来应对深层次问题。这个主题——可以称之为关注黑人生活和社会死亡——将几种不同的思想和行动潮流联系在一起，它们都是根本不同的，但都对黑人生活在一个仍然反黑人的世界中的伦理和存在的利害关系感兴趣，这种反黑人不仅仅存在于个体偏见的层面，还存在于社会政治、认识论、价值论和本体论结构的层面。
 
-这项工作的一种方法导致了弗兰克·威尔德森（Frank Wilderson）、赛迪娅·哈特曼（Saidiya Hartman）等人的非洲悲观主义，或者导致了关于这一观点的支持者和拒绝主张的人之间的辩论，比如莫滕（Moten）。这是一种难以捉摸的方法，部分原因是因为在国际关系中比在政治理论和哲学中更为突出的一种截然不同的观点也被称为非洲悲观主义。关于我们在这里关心的哲学观点，贾里德·塞克斯顿（Jared Sexton）引用布莱恩·瓦格纳（Bryan Wagner）的话来描述它：“在其他方面，它试图在‘没有超越的安慰’的情况下，制定一个[黑人]苦难的解释”（瓦格纳 2009 年，2，引自塞克斯顿 2016 年，第 8 段）。在这篇引人注目的文章的其他地方，旨在消除围绕这一观点的误解和错误批评，塞克斯顿解释道：
+这项工作的一种方法导致了弗兰克·威尔德森（Frank Wilderson）、赛迪娅·哈特曼（Saidiya Hartman）等人的非洲悲观主义，或者导致了关于这一观点的支持者和拒绝主张的人之间的辩论，比如莫滕（Moten）。这是一种难以捉摸的方法，部分原因是因为在国际关系中比在政治理论和哲学中更为突出的一种截然不同的观点也被称为非洲悲观主义。关于我们在这里关心的哲学观点，贾里德·塞克斯顿（Jared Sexton）引用布莱恩·瓦格纳（Bryan Wagner）的话来描述它：“在其他方面，它试图在‘没有超越的安慰’的情况下，制定一个\[黑人]苦难的解释”（瓦格纳 2009 年，2，引自塞克斯顿 2016 年，第 8 段）。在这篇引人注目的文章的其他地方，旨在消除围绕这一观点的误解和错误批评，塞克斯顿解释道：
 
 > 非洲悲观主义不是一种干预，而是一种阅读或元评论……它是对在尝试中获得和失去的东西的阅读，对于限定黑人生活的“坏消息”，确定其确切的范围和规模，寻找超越或之前的边缘，以便真正的生活展开。（塞克斯顿 2016 年，第 16 段）
 
 这篇阅读的内容和动机涉及到“既有认识论的项目，也有伦理学的项目”（Sexton 2016，第 15 段）。伦理学的项目涉及到抵制一种懒散、虚伪的乐观主义，该乐观主义将斗争和行动建立在希望而不是对黑人在反黑人世界中面临挑战的清醒对抗上。认识论的项目涉及到找到实现这种清醒对抗的工具。在哈特曼（Hartman）和克里斯蒂娜·夏普（Christina Sharpe）等人手中，这意味着实施某些重要的概念重定向，比如坚持大西洋奴隶贸易的余波在当代社会组织方式中的存在。
 
-第二种以哲学方式凝结黑人生活和社会死亡的方式体现在构成“黑人命也是命”运动的各种组织形式和反组织倾向中。当然，这不是一个学术企业，但它在智识和伦理上与这里考虑的许多工作有着相同的根源。运动背后的推动力量——像艾丽西亚·加尔扎（Alicia Garza）、帕特里斯·库洛斯-汗（Patrice Cullors-Khan）和奥帕尔·托梅蒂（Opal Tometi）这样的人，他们是这个运动命名的短语兼社交媒体存档工具的作者——明确提出了哲学问题，例如正义的要求、国家的角色（以及国家暴力的合法性）、权力的运作和人类的意义。而且，他们经常以范农（Fanon）、奥德丽·洛德（Audre Lorde）、史蒂夫·比科（Steve Biko）和塞德里克·罗宾逊（Cedric Robinson）等人的观点为基础进行思考。这就是哲学的实践：它是“寻找、阐述和推广对哲学问题的答案”的同时，也是“对人类奋斗条件的哲学回应方式的建模”——可以称之为积极参与的良好生活的强有力版本（Taylor 2019，297）。[15]
+第二种以哲学方式凝结黑人生活和社会死亡的方式体现在构成“黑人命也是命”运动的各种组织形式和反组织倾向中。当然，这不是一个学术企业，但它在智识和伦理上与这里考虑的许多工作有着相同的根源。运动背后的推动力量——像艾丽西亚·加尔扎（Alicia Garza）、帕特里斯·库洛斯-汗（Patrice Cullors-Khan）和奥帕尔·托梅蒂（Opal Tometi）这样的人，他们是这个运动命名的短语兼社交媒体存档工具的作者——明确提出了哲学问题，例如正义的要求、国家的角色（以及国家暴力的合法性）、权力的运作和人类的意义。而且，他们经常以范农（Fanon）、奥德丽·洛德（Audre Lorde）、史蒂夫·比科（Steve Biko）和塞德里克·罗宾逊（Cedric Robinson）等人的观点为基础进行思考。这就是哲学的实践：它是“寻找、阐述和推广对哲学问题的答案”的同时，也是“对人类奋斗条件的哲学回应方式的建模”——可以称之为积极参与的良好生活的强有力版本（Taylor 2019，297）。\[15]
 
 第三种对黑人生活和社会死亡问题的处理方式实际上贯穿了前面提到的两种方法。研究黑人美学和非洲衍生文化实践已经成为学术增长领域，部分原因是美学实践在反种族主义抵抗工作中起到了核心作用。我说“部分原因”是因为在这个领域中一些最有趣的工作明显抵制了将美学降低为反种族主义的诱惑。非洲裔人士和其他被种族化为黑人的社区生活，就像任何地方一样，具有不可避免的美学维度和资源。这些资源有时被投入到防御性努力中，以抵御对黑人或非洲人类的攻击。但更常见的是将这些资源投入到对生活的庆祝、对社区的思考、对爱的寓言、对思维和感官的挑衅等方面。事实上，对于跨国、跨历史的黑人美学传统的合理解读表明，这种工作通常围绕着负责任地面对生活问题和庆祝和享受生活可能性之间的紧张关系（泰勒 2016）。这种紧张关系激发了阿尔伯特·默里对托尼·莫里森（和其他人）的指责，激发了韦斯特对杜波依斯的批评，并贯穿于莫滕对非洲悲观主义的拒绝之中，尽管没有完全定义。
 
-当代对非洲思想中的美学的关注延续了悠久的传统。例如，弗雷德里克·道格拉斯通过摄影积极努力构建自己的公众形象，从而为现代跨大西洋视觉文化做出了重要贡献（盖茨 2016）。美国的“新黑人”运动（通常与哈莱姆文艺复兴有关），黑人文化运动以及世界各地的各种黑人艺术运动都受到哲学承诺的激励，并在前两种情况下突出展示了哲学家（阿兰·洛克和利奥波德·森戈尔）的作品。接近现在，标志着非洲哲学建立的伴随卷中，Nzegwu（2004）和其他人对艺术和美学做出了贡献。当代思想家们紧随其后，出版了关于种族和美学的专题，举办了关于黑人美学的座谈会，并研究了纪念碑和纪念物在种族化空间中的哲学意义。[16]
+当代对非洲思想中的美学的关注延续了悠久的传统。例如，弗雷德里克·道格拉斯通过摄影积极努力构建自己的公众形象，从而为现代跨大西洋视觉文化做出了重要贡献（盖茨 2016）。美国的“新黑人”运动（通常与哈莱姆文艺复兴有关），黑人文化运动以及世界各地的各种黑人艺术运动都受到哲学承诺的激励，并在前两种情况下突出展示了哲学家（阿兰·洛克和利奥波德·森戈尔）的作品。接近现在，标志着非洲哲学建立的伴随卷中，Nzegwu（2004）和其他人对艺术和美学做出了贡献。当代思想家们紧随其后，出版了关于种族和美学的专题，举办了关于黑人美学的座谈会，并研究了纪念碑和纪念物在种族化空间中的哲学意义。\[16]
 
 ## 8. 结论
 
 在本条目的背景下讨论黑人生活和社会死亡的研究，意味着回到非洲哲学领域中的一个经常出现的紧张关系。非洲哲学不仅仅是斗争的产物，也是从种族化的坩埚中崛起的。非洲哲学与负责任的哲学种族理论有重要关联，但并不能简化为种族理论：它是一系列观点、方法、传统、问题、辩论和人物的组合，其存在至少在某种程度上归功于种族构建的实践，但它深入到特定社区的生活中，超越了种族理论所能达到的程度，产生了一些不依赖于种族理论分析的重要结果，比如对约鲁巴人对和平的理解的研究。
 
-这个研究当然比它包含的要多得多。例如，这里没有提到 Nkiru Nzegwu 与国际非洲哲学与研究学会（ISAPS）[[17](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-17)]和非洲知识项目的创新机构建设努力，也没有提到 Sylvia Wynter 在去殖民化和非洲加勒比哲学中的有影响力的干预[[18](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-18)]。也没有空间来探索 Achille Mbembe 对死亡政治的研究，George Yancy 对批判现象学的卓越再创造，Molefi Asante 的非洲学的长期阴影，Tommy Curry 的黑人男性研究的创新，Anita Allen-Castellitto 对隐私的深入研究以及她对这个职业的雄辩评论，或者从 Sun-Ra 到 Janelle Monae 的动态非洲未来主义。
+这个研究当然比它包含的要多得多。例如，这里没有提到 Nkiru Nzegwu 与国际非洲哲学与研究学会（ISAPS）\[[17](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-17)]和非洲知识项目的创新机构建设努力，也没有提到 Sylvia Wynter 在去殖民化和非洲加勒比哲学中的有影响力的干预\[[18](https://plato.stanford.edu/entries/africana-contemporary/notes.html#note-18)]。也没有空间来探索 Achille Mbembe 对死亡政治的研究，George Yancy 对批判现象学的卓越再创造，Molefi Asante 的非洲学的长期阴影，Tommy Curry 的黑人男性研究的创新，Anita Allen-Castellitto 对隐私的深入研究以及她对这个职业的雄辩评论，或者从 Sun-Ra 到 Janelle Monae 的动态非洲未来主义。
 
 在对相关领域的研究进行简短的研究时，沉默和疏忽是不可避免的。因此，以 Outlaw 对类似研究的版本的语言作为结束是合适的。可以说这篇文章与 Outlaw 的文章一样，它“并不意味着详尽无遗”，而是“提供示例并征求更多的贡献，以使描述更全面准确”（Outlaw 2017，§2，第 23 段）。
 
 ## Bibliography
 
-* Abdel-Shehid, G., and Kolia, Z., 2017, “In Light of the Master: Re-reading Césaire and Fanon,” *C.L.R. James Journal*, 23 (1–2): 175–192.
-* Afolayan, A., and Falola, T., 2017, “Introduction: Rethinking African Philosophy in the Age of Globalization,” in A. Afolayan and T. Falola (eds.), *The Palgrave Handbook of African Philosophy*, New York: Palgrave Macmillan, pp. 1–16.
-* Anderson, L., 2015, “Racist Humor,” *Philosophy Compass*, 10 (8): 501–509.
-* Appiah, K. A., 1993, *In My Father’s House: Africa in the Philosophy of Culture*, Oxford: Oxford University Press.
-* Apusigah, A. A., 2006, “Is Gender Yet Another Colonial Project? A Critique of Oyeronke Oyewumi’s Proposal,” *Quest: An African Journal of Philosophy/Revue Africaine De Philosophie*, 20 (1–2): 23–44.
-* Balakrishnan, B., 2017, “The Afropolitan Idea: New Perspectives on Cosmopolitanism in African Studies,” *History Compass*, 15 (2): e12362. [[Available online](https://doi.org/10.1111/hic3.12362)].
-* Belle, K. S. (as Gines, K. T.), 2015, “Ruminations on Twenty-Five Years of Patricia Hill Collins’s *Black Feminist Thought: Knowledge, Consciousness and the Politics of Empowerment*,” *Ethnic and Racial Studies*, 38 (13): 2341–2348.
-* Boxill, B., 1992, *Blacks and Social Justice*, Revised Edition, Lanham, MD: Rowman & Littlefield Publishers.
-* Bulmer, M., and Solomos, J., 2015, “Introduction: Symposium on Patricia Hill Collins’s *Black Feminist Thought: Knowledge, Consciousness and the Politics of Empowerment*,” *Ethnic and Racial Studies*, 38 (13): 2314.
-* Carbado, D. W., K. W. Crenshaw, V. M. Mays, and B. Tomlinson, 2013, “INTERSECTIONALITY: Mapping the Movements of a Theory,” *Du Bois Review: Social Science Research on Race*, 10 (2): 303–312.
-* Coetzee, A., and Halsema, A., 2018, “Sexual Difference and Decolonization: Oyĕwùmí and Irigaray in Dialogue About Western Culture,” *Hypatia*, 33 (2): 178–194.
-* Cohen, C. J., 1997, “Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics?” *GLQ*, 3 (4): 437–465.
-* Collins, P. H., 1989, *Fighting Words: Black Women and the Search for Justice*, Minneapolis, MN: University of Minnesota Press.
-* –––, 1990, *Black Feminist Thought*, Boston: Unwin Hyman.
-* Cooper, B., 2017, *Beyond Respectability: The Intellectual Thought of Race Women*, Urbana, IL: University of Illinois Press.
-* Crenshaw, K. W., 1989, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics,” *University of Chicago Legal Forum*, 1989, Article 8. [[Available online](http://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8)].
-* –––, 1991, “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color,” *Stanford Law Review*, 43 (6): 1241–1299.
-* Davidson, M. d. G., K. S. Belle (as K. T. Gines), and D-D. L. Marcano (eds.), 2010, *Convergences: Black Feminism and Continental Philosophy*, Albany, NY: SUNY Press.
-* Davis, A., 1983, *Women, Race, and Class*, New York: Vintage Books.
-* de Allen, G. J. G., 2012, “In Search of Epistemic Freedom: Afro-Caribbean Philosophy’s Contributions to Continental Philosophy,” *Journal of Speculative Philosophy*, 26 (2): 394–403.
-* Diagne, S. B., 2001, “Africanity as an Open Question,” in S. B. Diagne, A. Mama, H. Melber, and F. B. Nyamnjoh (eds.), *Identity and Beyond: Rethinking Africanity*, Upsala, Sweden: Nordiska Afrikainstitutet, pp. 19–24.
-* –––, 2012, *African Art as Philosophy: Senghor, Bergson and the Idea of Negritude*, C. Jeffers (trans.), Chicago, IL: University of Chicago Press.
-* Dladla, N., 2017, “Towards an African Critical Philosophy of Race: Ubuntu as a Philo-Praxis of Liberation,” *Filosofia Theoretica: Journal of African Philosophy, Culture and Religions*, 6 (1): 39–68.
-* Dotson, K., 2012, “How Is This Paper Philosophy?” *Comparative Philosophy*, 3 (1): 3–29.
-* –––, 2015, “Inheriting Patricia Hill Collins’s Black Feminist Epistemology,” *Ethnic and Racial Studies*, 38 (13): 2322–2328.
-* –––, 2017, “Theorizing Jane Crow, Theorizing Unknowability,” *Social Epistemology*, 31 (5): 417–430.
-* Du Bois, W.E.B., [1903] 1986, “Of Our Spiritual Strivings,” in N. Huggins (ed.), *W.E.B. Du Bois: Writings*, New York: Library of America, pp. 363–371.
-* du Toit, L., and A. Coetzee, 2017, “Gendering African Philosophy, or: African Feminism as Decolonizing Force,” in A. Afolayan and T. Falola (eds.), *The Palgrave Handbook of African Philosophy*, New York: Palgrave Macmillan, pp. 333–347.
-* Ekanola, A., 2017, “Yorùbá Conception of Peace,” in A. Afolayan and T. Falola (eds.), *The Palgrave Handbook of African Philosophy*, New York: Palgrave Macmillan, pp. 671–80.
-* Eze, C., 2006, “African Feminism: Resistance or Resentment?” *Quest: An African Journal of Philosophy/Revue Africaine De Philosophie*, 20 (1–2): 97–118.
-* Fatima, S., K. Dotson, R. Seodu Herr, S. J. Khader, and S. Nyanzi, 2017, “Contested Terrains of Women of Color and Third World Women,” *Hypatia*, 32 (3): 731–742.
-* Ferguson, S., 2009, “Review of Lewis Gordon’s *Introduction to Africana Philosophy*,” *APA Newsletter*, 9 (1): 22–25.
-* Ficek, D., 2006, “Review Essay: Distinction Without Difference (Under Consideration: Oyèrónké Oyewùmí’s *The Invention of Women*),” *Philosophy & Social Criticism*, 32 (4): 543–549.
-* Frankowski, A., 2015, *The Post-Racial Limits of Memorialization: Toward a Political Sense of Mourning*, Lanham, MA: Lexington Books.
-* Gates, H. L., 2016, “Frederick Douglass’s Camera Obscura,” *Aperture*, 223: 25–29.
-* Glaude, E., 2007, *In a Shade of Blue: Pragmatism and the Politics of Black America*, Chicago, IL: University of Chicago Press.
-* Glissant, E., 1989, *Caribbean Discourses*, M. Dash (trans.), Charlottesville, VA: University of Virginia Press.
-* Goodin, P. L., 2000, “On the Very Idea of an Afro-Caribbeana Philosophy,” *African Philosophy*, 13 (2): 143–152.
-* Gooding-Williams, R., 2009, *In the Shadow of Du Bois: Afro-Modern Political Thought in America*, Cambridge, MA: Harvard University Press.
-* Gordon, L. R., 1995, *Bad Faith and Antiblack Racism*, Atlantic Highlands, NJ: Humanities Press.
-* –––, 2000, *Existentia* *Africana*, New York: Routledge.
-* –––, 2006, “African American Philosophy, Race, and the Geography of Reason,” in L.R. Gordon and J. A. Gordon (eds.), *Not Only the Master’s Tools: African American Studies in Theory and Practice*, Boulder, CO: Paradigm, pp. 3–50.
-* –––, 2008, *An Introduction to Africana Philosophy*, Cambridge: Cambridge University Press.
-* Gyekye, K., 1997, *Tradition and Modernity: Philosophical Reflections on the African Experience*, New York: Oxford University Press.
-* Hallen, B., 2004, “Contemporary Anglophone African Philosophy: A Survey,” in K. Wiredu (ed.), *A Companion to African Philosophy*, Malden, MA: Blackwell, pp. 99–148.
-* Harney, S., and F. Moten, 2013, *The Undercommons: Fugitive Planning and Black Study*, New York: Minor Compositions.
-* Harris, L. (ed.), 1983, *Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917*, Dubuque, Iowa: Kendall/Hunt.
-* Henry, P., 2000, *Caliban’s Reason*, New York: Routledge.
-* Hesse, B., 2009, “Afterword: Black Europe’s Undecidability,” in D. C. Hine, T. D. Keaton, and S. Small (eds.), *Black Europe and the African Diaspora*, Urbana, IL: University of Illinois Press, pp. 291–304.
-* Hudson, P. J., and A. Kamugisha, 2014, “On Black Canadian Thought,” *C.L.R. James Journal*, 20 (1–2): 3–20.
-* James, V. D., 2014, “Musing: A Black Feminist Philosopher: Is That Possible?” *Hypatia*, 29 (1): 179–186.
-* Jeffers, C., 2012, “Do We Need African Canadian Philosophy?” *Dialogue: Canadian Philosophical Review/Revue Canadienne De Philosophie*, 51: 643–666.
-* Johnson, C. G., forthcoming, “Huey P. Newton and the Last Days of the Black Colony,” in M. L. Rogers and J. Turner (eds.), *African American Political Thought: A Collected History*, Chicago, IL: University of Chicago Press, pp. 1045–1091.
-* Jones, W. R., 1973 [1998], *Is God a White Racist?*, New York: Beacon.
-* Karp, I., and D. A. Masolo, 2000, “Introduction,” in I. Karp and D. A. Masolo (eds.), *African Philosophy as Cultural Inquiry*, Bloomington, IN: Indiana University Press.
-* Kiros, T., 2004, “Zera Yacob and Traditional Ethiopian Philosophy,” in K. Wiredu (ed.), *A Companion to African Philosophy*, Malden, MA: Blackwell, pp. 183–190.
-* Lamola, M. J., 2016, “Senghor, Globalism, and Africanity,” *Phronimon* (South Africa), 17 (2): 51–67.
-* Lockward, A., 2013, “Black Europe Body Politics: Towards an Afropean Decolonial Aesthetics,” *Social Text Online* [[Available online](https://socialtextjournal.org/periscope_article/black-europe-body-politics-towards-an-afropean-decolonial-aesthetics/)].
-* Lott, T. L., and J. P. Pittman (eds.), 2003, *A Companion to African-American Philosophy*, Malden, MA: Blackwell.
-* McBride, D. A., 2007, “Toward the New Black Studies: Or Beyond the Old Race Man,” in V. O. Okafor (ed.), *Journal of Black Studies* (Special Issue: Sustaining Black Studies), 37 (3): 428–444.
-* McClendon, J. H., and Ferguson, S. C., 2019, *African American Philosophers and Philosophy: An Introduction to the History, Concepts, and Contemporary Issues*, London: Bloomsbury Academic.
-* Metz, T., 2007, “Toward an African Moral Theory,” *Journal of Political Philosophy*, 15 (3): 321–341.
-* –––, 2011, “Ubuntu as a Moral Theory and Human Rights in South Africa,” *African Human Rights Law Journal*,11 (1): 532–559.
-* Mills, C., 1997, *The Racial Contract*, Ithaca: Cornell University Press.
-* –––, 2007, “Black Radical Kantianism,” *Res Philosophica*, 95 (1): 1–33.
-* –––, 2017, *Black Rights/White Wrongs: The Critique of Racial Liberalism*, New York: Oxford University Press.
-* Moten, F., 2017, *Black and Blur (consent not to be a single being)*, Durham, NC: Duke University Press.
-* Movement for Black Lives, n.d., “A Vision for Black Lives: Policy Demands for Black Power, Freedom & Justice,” viewed on January 13, 2018 [[Available online](https://web.archive.org/web/20180113144653/https://policy.m4bl.org/)].
-* Mudimbe, V. Y., 1988, *The Invention of Africa: Gnosis, Philosophy, and the Order of Knowledge*, Bloomington, IN: Indiana University Press.
-* Nzegwu, A., 2016, “Interview with Professor Nkiru Nzegwu,” *Journal on African Philosophy*, 14: 25–42.
-* Nzegwu, N., 2004, “Art and Community: A Social Conception of Beauty and Individuality,” in K. Wiredu (ed.), *A Companion to African Philosophy*, Malden, MA: Blackwell, pp. 415–24.
-* Onwudiwe, E., 2005, “Afropessimism,” in M. C. Horowitz (ed.), *New Dictionary of the History of Ideas* (Volume 1), Detroit, MI: Charles Scribner’s Sons, pp. 33–35.
-* Oruka, O., 1981, “Four Trends in Current African Philosophy,” in A. A. Diemer (ed.), *Philosophy in the Present Situation of Africa*, Wiesbaden: Steiner. n.p.
-* Outlaw Jr., L. T., 1996, *On Race and Philosophy*, New York and London: Routledge.
-* –––, 2004, “Africana Philosophy: Origins and Prospects,” in K. Wiredu (ed.), *A Companion to African Philosophy*, Malden, MA: Blackwell, pp. 90–98.
-* –––, 2017, “Africana Philosophy,” *The Stanford Encyclopedia of Philosophy* (Summer 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2017/entries/africana/>.
-* Oyeleye, O., 2017, “Feminism(s) and Oppression: Rethinking Gender from a Yoruba Perspective,” in A. Afolayan and T. Falola (eds.), *The Palgrave Handbook of African Philosophy*, New York: Palgrave Macmillan, pp. 349–369.
-* Oyewumi, O., 1997, *The Invention of Women: Making an African Sense of Western Gender Discourses*, Minneapolis, MN: University of Minnesota Press.
-* Perry, I., 2018, *Looking for Lorraine: The Radiant and Radical Life of Lorraine Hansberry*, Boston, MA: Beacon Press.
-* Ramose, M., 2015, “On the Contested Meaning of ‘Philosophy,’” *South African Journal of Philosophy*, 34 (4): 551–558.
-* Ruíz, E. F., 2018, “The Hermeneutics of Mexican-American Philosophy,” *Inter-American Journal of Philosophy*, 9 (2): 45–57.
-* Sexton, J., 2016, “Afro-Pessimism: The Unclear Word,” *Rhizomes*, 29 [[Available online](http://www.rhizomes.net/issue29/sexton.html)].
-* Shelby, T., 2005, *We Who Are Dark: The Philosophical Foundations of Black Solidarity*, Cambridge, MA: Harvard University Press.
-* –––, 2016, *Dark Ghettos: Injustice, Dissent, and Reform*, Cambridge, MA: Harvard University Press.
-* Shelby, T., and B. Terry (eds.), 2018, *To Shape a New World: Essays on the Political Philosophy of Martin Luther King, Jr.*, Cambridge, MA: Harvard University Press.
-* Simpson, A., 2013, “Black Philosophy and the Erotic,” *The Black Scholar* (Special Issue: The Role of Black Philosophy) 43, (4): 74–79.
-* Snorton, C. R., 2017, *Black on Both Sides: A Racial History of Trans Identity*, Minneapolis, MN: University of Minnesota Press.
-* Stewart, L., 2017, “Work the Root: Black Feminism, Hoodoo Love Rituals, and Practices of Freedom,” *Hypatia*, 32 (1): 103–118.
-* Taiwo, O., 2000, “Presidential Address,” 6th Annual Conference of the International Society for African Philosophy and Studies, University of Nairobi, Nairobi, Kenya, March 10–12, 2000 [[Available online](https://www.pdcnet.org/collection/fshow?id=sixth-isaps_2002_R009_R010&file_type=pdf)].
-* –––, 2004, “Post-Independence African Political Philosophy,” in K. Wiredu (ed.), *A Companion to African Philosophy*, Malden, MA: Blackwell, pp. 243–59.
-* Taylor, P. C., 2009, “A Future for Africana (Post-)Analytic Philosophy,” *South Atlantic Quarterly*, 108 (3): 501–17.
-* –––, 2016, *Black Is Beautiful: A Philosophy of Black Aesthetics*, Malden, MA: John Wiley & Sons.
-* –––, 2019, “Black Lives Matter and the Ferguson Moment: Toward a Philosophy of Urban Relegation,” in S. M. Meagher, S. Noll, and J. S. Biehl (eds.), *Routledge Handbook of Philosophy of the City*, New York: Routledge, pp. 291–300.
-* Tosam, M. J., 2014, “The Philosophical Foundation of Kom Proverbs,” *Journal on African Philosophy*, 9: n.p.
-* Vice, S., 2010, “How Do I Live in this Strange Place?”, *Journal of Social Philosophy*, 41 (3): 323–342.
-* Wagner, B., 2009, *Disturbing the Peace: Black Culture and the Police Power After Slavery*, Cambridge, MA: Harvard University Press.
-* West, C., 1982, *Prophecy Deliverance! An Afro-American Revolutionary Christianity*, Philadelphia, PA: The Westminster Press.
-* –––, 1999, “Black Strivings in a Twilight Civilization,” in *The Cornel West Reader*, New York: Basic—Civitas, pp. 87–118.
-* Wiredu, K. (ed.), 2004, *A Companion to African Philosophy*, Malden, MA: Blackwell.
-* –––, 2004, “Introduction: African Philosophy in Our Time,” in K. Wiredu (ed.), *A Companion to African Philosophy*, Malden, MA: Blackwell, pp. 1–27.
-* Wright, R. (ed.), 1984, *African Philosophy: An Introduction*, New York: University Press of America.
+* Abdel-Shehid, G., and Kolia, Z., 2017, “In Light of the Master: Re-reading Césaire and Fanon,” _C.L.R. James Journal_, 23 (1–2): 175–192.
+* Afolayan, A., and Falola, T., 2017, “Introduction: Rethinking African Philosophy in the Age of Globalization,” in A. Afolayan and T. Falola (eds.), _The Palgrave Handbook of African Philosophy_, New York: Palgrave Macmillan, pp. 1–16.
+* Anderson, L., 2015, “Racist Humor,” _Philosophy Compass_, 10 (8): 501–509.
+* Appiah, K. A., 1993, _In My Father’s House: Africa in the Philosophy of Culture_, Oxford: Oxford University Press.
+* Apusigah, A. A., 2006, “Is Gender Yet Another Colonial Project? A Critique of Oyeronke Oyewumi’s Proposal,” _Quest: An African Journal of Philosophy/Revue Africaine De Philosophie_, 20 (1–2): 23–44.
+* Balakrishnan, B., 2017, “The Afropolitan Idea: New Perspectives on Cosmopolitanism in African Studies,” _History Compass_, 15 (2): e12362. \[[Available online](https://doi.org/10.1111/hic3.12362)].
+* Belle, K. S. (as Gines, K. T.), 2015, “Ruminations on Twenty-Five Years of Patricia Hill Collins’s _Black Feminist Thought: Knowledge, Consciousness and the Politics of Empowerment_,” _Ethnic and Racial Studies_, 38 (13): 2341–2348.
+* Boxill, B., 1992, _Blacks and Social Justice_, Revised Edition, Lanham, MD: Rowman & Littlefield Publishers.
+* Bulmer, M., and Solomos, J., 2015, “Introduction: Symposium on Patricia Hill Collins’s _Black Feminist Thought: Knowledge, Consciousness and the Politics of Empowerment_,” _Ethnic and Racial Studies_, 38 (13): 2314.
+* Carbado, D. W., K. W. Crenshaw, V. M. Mays, and B. Tomlinson, 2013, “INTERSECTIONALITY: Mapping the Movements of a Theory,” _Du Bois Review: Social Science Research on Race_, 10 (2): 303–312.
+* Coetzee, A., and Halsema, A., 2018, “Sexual Difference and Decolonization: Oyĕwùmí and Irigaray in Dialogue About Western Culture,” _Hypatia_, 33 (2): 178–194.
+* Cohen, C. J., 1997, “Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics?” _GLQ_, 3 (4): 437–465.
+* Collins, P. H., 1989, _Fighting Words: Black Women and the Search for Justice_, Minneapolis, MN: University of Minnesota Press.
+* –––, 1990, _Black Feminist Thought_, Boston: Unwin Hyman.
+* Cooper, B., 2017, _Beyond Respectability: The Intellectual Thought of Race Women_, Urbana, IL: University of Illinois Press.
+* Crenshaw, K. W., 1989, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics,” _University of Chicago Legal Forum_, 1989, Article 8. \[[Available online](http://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8)].
+* –––, 1991, “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color,” _Stanford Law Review_, 43 (6): 1241–1299.
+* Davidson, M. d. G., K. S. Belle (as K. T. Gines), and D-D. L. Marcano (eds.), 2010, _Convergences: Black Feminism and Continental Philosophy_, Albany, NY: SUNY Press.
+* Davis, A., 1983, _Women, Race, and Class_, New York: Vintage Books.
+* de Allen, G. J. G., 2012, “In Search of Epistemic Freedom: Afro-Caribbean Philosophy’s Contributions to Continental Philosophy,” _Journal of Speculative Philosophy_, 26 (2): 394–403.
+* Diagne, S. B., 2001, “Africanity as an Open Question,” in S. B. Diagne, A. Mama, H. Melber, and F. B. Nyamnjoh (eds.), _Identity and Beyond: Rethinking Africanity_, Upsala, Sweden: Nordiska Afrikainstitutet, pp. 19–24.
+* –––, 2012, _African Art as Philosophy: Senghor, Bergson and the Idea of Negritude_, C. Jeffers (trans.), Chicago, IL: University of Chicago Press.
+* Dladla, N., 2017, “Towards an African Critical Philosophy of Race: Ubuntu as a Philo-Praxis of Liberation,” _Filosofia Theoretica: Journal of African Philosophy, Culture and Religions_, 6 (1): 39–68.
+* Dotson, K., 2012, “How Is This Paper Philosophy?” _Comparative Philosophy_, 3 (1): 3–29.
+* –––, 2015, “Inheriting Patricia Hill Collins’s Black Feminist Epistemology,” _Ethnic and Racial Studies_, 38 (13): 2322–2328.
+* –––, 2017, “Theorizing Jane Crow, Theorizing Unknowability,” _Social Epistemology_, 31 (5): 417–430.
+* Du Bois, W.E.B., \[1903] 1986, “Of Our Spiritual Strivings,” in N. Huggins (ed.), _W.E.B. Du Bois: Writings_, New York: Library of America, pp. 363–371.
+* du Toit, L., and A. Coetzee, 2017, “Gendering African Philosophy, or: African Feminism as Decolonizing Force,” in A. Afolayan and T. Falola (eds.), _The Palgrave Handbook of African Philosophy_, New York: Palgrave Macmillan, pp. 333–347.
+* Ekanola, A., 2017, “Yorùbá Conception of Peace,” in A. Afolayan and T. Falola (eds.), _The Palgrave Handbook of African Philosophy_, New York: Palgrave Macmillan, pp. 671–80.
+* Eze, C., 2006, “African Feminism: Resistance or Resentment?” _Quest: An African Journal of Philosophy/Revue Africaine De Philosophie_, 20 (1–2): 97–118.
+* Fatima, S., K. Dotson, R. Seodu Herr, S. J. Khader, and S. Nyanzi, 2017, “Contested Terrains of Women of Color and Third World Women,” _Hypatia_, 32 (3): 731–742.
+* Ferguson, S., 2009, “Review of Lewis Gordon’s _Introduction to Africana Philosophy_,” _APA Newsletter_, 9 (1): 22–25.
+* Ficek, D., 2006, “Review Essay: Distinction Without Difference (Under Consideration: Oyèrónké Oyewùmí’s _The Invention of Women_),” _Philosophy & Social Criticism_, 32 (4): 543–549.
+* Frankowski, A., 2015, _The Post-Racial Limits of Memorialization: Toward a Political Sense of Mourning_, Lanham, MA: Lexington Books.
+* Gates, H. L., 2016, “Frederick Douglass’s Camera Obscura,” _Aperture_, 223: 25–29.
+* Glaude, E., 2007, _In a Shade of Blue: Pragmatism and the Politics of Black America_, Chicago, IL: University of Chicago Press.
+* Glissant, E., 1989, _Caribbean Discourses_, M. Dash (trans.), Charlottesville, VA: University of Virginia Press.
+* Goodin, P. L., 2000, “On the Very Idea of an Afro-Caribbeana Philosophy,” _African Philosophy_, 13 (2): 143–152.
+* Gooding-Williams, R., 2009, _In the Shadow of Du Bois: Afro-Modern Political Thought in America_, Cambridge, MA: Harvard University Press.
+* Gordon, L. R., 1995, _Bad Faith and Antiblack Racism_, Atlantic Highlands, NJ: Humanities Press.
+* –––, 2000, _Existentia_ _Africana_, New York: Routledge.
+* –––, 2006, “African American Philosophy, Race, and the Geography of Reason,” in L.R. Gordon and J. A. Gordon (eds.), _Not Only the Master’s Tools: African American Studies in Theory and Practice_, Boulder, CO: Paradigm, pp. 3–50.
+* –––, 2008, _An Introduction to Africana Philosophy_, Cambridge: Cambridge University Press.
+* Gyekye, K., 1997, _Tradition and Modernity: Philosophical Reflections on the African Experience_, New York: Oxford University Press.
+* Hallen, B., 2004, “Contemporary Anglophone African Philosophy: A Survey,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 99–148.
+* Harney, S., and F. Moten, 2013, _The Undercommons: Fugitive Planning and Black Study_, New York: Minor Compositions.
+* Harris, L. (ed.), 1983, _Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917_, Dubuque, Iowa: Kendall/Hunt.
+* Henry, P., 2000, _Caliban’s Reason_, New York: Routledge.
+* Hesse, B., 2009, “Afterword: Black Europe’s Undecidability,” in D. C. Hine, T. D. Keaton, and S. Small (eds.), _Black Europe and the African Diaspora_, Urbana, IL: University of Illinois Press, pp. 291–304.
+* Hudson, P. J., and A. Kamugisha, 2014, “On Black Canadian Thought,” _C.L.R. James Journal_, 20 (1–2): 3–20.
+* James, V. D., 2014, “Musing: A Black Feminist Philosopher: Is That Possible?” _Hypatia_, 29 (1): 179–186.
+* Jeffers, C., 2012, “Do We Need African Canadian Philosophy?” _Dialogue: Canadian Philosophical Review/Revue Canadienne De Philosophie_, 51: 643–666.
+* Johnson, C. G., forthcoming, “Huey P. Newton and the Last Days of the Black Colony,” in M. L. Rogers and J. Turner (eds.), _African American Political Thought: A Collected History_, Chicago, IL: University of Chicago Press, pp. 1045–1091.
+* Jones, W. R., 1973 \[1998], _Is God a White Racist?_, New York: Beacon.
+* Karp, I., and D. A. Masolo, 2000, “Introduction,” in I. Karp and D. A. Masolo (eds.), _African Philosophy as Cultural Inquiry_, Bloomington, IN: Indiana University Press.
+* Kiros, T., 2004, “Zera Yacob and Traditional Ethiopian Philosophy,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 183–190.
+* Lamola, M. J., 2016, “Senghor, Globalism, and Africanity,” _Phronimon_ (South Africa), 17 (2): 51–67.
+* Lockward, A., 2013, “Black Europe Body Politics: Towards an Afropean Decolonial Aesthetics,” _Social Text Online_ \[[Available online](https://socialtextjournal.org/periscope\_article/black-europe-body-politics-towards-an-afropean-decolonial-aesthetics/)].
+* Lott, T. L., and J. P. Pittman (eds.), 2003, _A Companion to African-American Philosophy_, Malden, MA: Blackwell.
+* McBride, D. A., 2007, “Toward the New Black Studies: Or Beyond the Old Race Man,” in V. O. Okafor (ed.), _Journal of Black Studies_ (Special Issue: Sustaining Black Studies), 37 (3): 428–444.
+* McClendon, J. H., and Ferguson, S. C., 2019, _African American Philosophers and Philosophy: An Introduction to the History, Concepts, and Contemporary Issues_, London: Bloomsbury Academic.
+* Metz, T., 2007, “Toward an African Moral Theory,” _Journal of Political Philosophy_, 15 (3): 321–341.
+* –––, 2011, “Ubuntu as a Moral Theory and Human Rights in South Africa,” _African Human Rights Law Journal_,11 (1): 532–559.
+* Mills, C., 1997, _The Racial Contract_, Ithaca: Cornell University Press.
+* –––, 2007, “Black Radical Kantianism,” _Res Philosophica_, 95 (1): 1–33.
+* –––, 2017, _Black Rights/White Wrongs: The Critique of Racial Liberalism_, New York: Oxford University Press.
+* Moten, F., 2017, _Black and Blur (consent not to be a single being)_, Durham, NC: Duke University Press.
+* Movement for Black Lives, n.d., “A Vision for Black Lives: Policy Demands for Black Power, Freedom & Justice,” viewed on January 13, 2018 \[[Available online](https://web.archive.org/web/20180113144653/https://policy.m4bl.org/)].
+* Mudimbe, V. Y., 1988, _The Invention of Africa: Gnosis, Philosophy, and the Order of Knowledge_, Bloomington, IN: Indiana University Press.
+* Nzegwu, A., 2016, “Interview with Professor Nkiru Nzegwu,” _Journal on African Philosophy_, 14: 25–42.
+* Nzegwu, N., 2004, “Art and Community: A Social Conception of Beauty and Individuality,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 415–24.
+* Onwudiwe, E., 2005, “Afropessimism,” in M. C. Horowitz (ed.), _New Dictionary of the History of Ideas_ (Volume 1), Detroit, MI: Charles Scribner’s Sons, pp. 33–35.
+* Oruka, O., 1981, “Four Trends in Current African Philosophy,” in A. A. Diemer (ed.), _Philosophy in the Present Situation of Africa_, Wiesbaden: Steiner. n.p.
+* Outlaw Jr., L. T., 1996, _On Race and Philosophy_, New York and London: Routledge.
+* –––, 2004, “Africana Philosophy: Origins and Prospects,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 90–98.
+* –––, 2017, “Africana Philosophy,” _The Stanford Encyclopedia of Philosophy_ (Summer 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2017/entries/africana/](https://plato.stanford.edu/archives/sum2017/entries/africana/).
+* Oyeleye, O., 2017, “Feminism(s) and Oppression: Rethinking Gender from a Yoruba Perspective,” in A. Afolayan and T. Falola (eds.), _The Palgrave Handbook of African Philosophy_, New York: Palgrave Macmillan, pp. 349–369.
+* Oyewumi, O., 1997, _The Invention of Women: Making an African Sense of Western Gender Discourses_, Minneapolis, MN: University of Minnesota Press.
+* Perry, I., 2018, _Looking for Lorraine: The Radiant and Radical Life of Lorraine Hansberry_, Boston, MA: Beacon Press.
+* Ramose, M., 2015, “On the Contested Meaning of ‘Philosophy,’” _South African Journal of Philosophy_, 34 (4): 551–558.
+* Ruíz, E. F., 2018, “The Hermeneutics of Mexican-American Philosophy,” _Inter-American Journal of Philosophy_, 9 (2): 45–57.
+* Sexton, J., 2016, “Afro-Pessimism: The Unclear Word,” _Rhizomes_, 29 \[[Available online](http://www.rhizomes.net/issue29/sexton.html)].
+* Shelby, T., 2005, _We Who Are Dark: The Philosophical Foundations of Black Solidarity_, Cambridge, MA: Harvard University Press.
+* –––, 2016, _Dark Ghettos: Injustice, Dissent, and Reform_, Cambridge, MA: Harvard University Press.
+* Shelby, T., and B. Terry (eds.), 2018, _To Shape a New World: Essays on the Political Philosophy of Martin Luther King, Jr._, Cambridge, MA: Harvard University Press.
+* Simpson, A., 2013, “Black Philosophy and the Erotic,” _The Black Scholar_ (Special Issue: The Role of Black Philosophy) 43, (4): 74–79.
+* Snorton, C. R., 2017, _Black on Both Sides: A Racial History of Trans Identity_, Minneapolis, MN: University of Minnesota Press.
+* Stewart, L., 2017, “Work the Root: Black Feminism, Hoodoo Love Rituals, and Practices of Freedom,” _Hypatia_, 32 (1): 103–118.
+* Taiwo, O., 2000, “Presidential Address,” 6th Annual Conference of the International Society for African Philosophy and Studies, University of Nairobi, Nairobi, Kenya, March 10–12, 2000 \[[Available online](https://www.pdcnet.org/collection/fshow?id=sixth-isaps\_2002\_R009\_R010\&file\_type=pdf)].
+* –––, 2004, “Post-Independence African Political Philosophy,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 243–59.
+* Taylor, P. C., 2009, “A Future for Africana (Post-)Analytic Philosophy,” _South Atlantic Quarterly_, 108 (3): 501–17.
+* –––, 2016, _Black Is Beautiful: A Philosophy of Black Aesthetics_, Malden, MA: John Wiley & Sons.
+* –––, 2019, “Black Lives Matter and the Ferguson Moment: Toward a Philosophy of Urban Relegation,” in S. M. Meagher, S. Noll, and J. S. Biehl (eds.), _Routledge Handbook of Philosophy of the City_, New York: Routledge, pp. 291–300.
+* Tosam, M. J., 2014, “The Philosophical Foundation of Kom Proverbs,” _Journal on African Philosophy_, 9: n.p.
+* Vice, S., 2010, “How Do I Live in this Strange Place?”, _Journal of Social Philosophy_, 41 (3): 323–342.
+* Wagner, B., 2009, _Disturbing the Peace: Black Culture and the Police Power After Slavery_, Cambridge, MA: Harvard University Press.
+* West, C., 1982, _Prophecy Deliverance! An Afro-American Revolutionary Christianity_, Philadelphia, PA: The Westminster Press.
+* –––, 1999, “Black Strivings in a Twilight Civilization,” in _The Cornel West Reader_, New York: Basic—Civitas, pp. 87–118.
+* Wiredu, K. (ed.), 2004, _A Companion to African Philosophy_, Malden, MA: Blackwell.
+* –––, 2004, “Introduction: African Philosophy in Our Time,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 1–27.
+* Wright, R. (ed.), 1984, _African Philosophy: An Introduction_, New York: University Press of America.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=africana-contemporary). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/africana-contemporary/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=africana-contemporary&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/africana-contemporary/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=africana-contemporary).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/africana-contemporary/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=africana-contemporary\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/africana-contemporary/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -386,7 +385,7 @@ Karp 和 Masolo（2000 年）对这个新的后乌托邦阶段的描述追踪了
 
 ## Related Entries
 
-[Africana Philosophy](https://plato.stanford.edu/entries/africana/) | Afro-Caribbean Philosophy | [Cooper, Anna Julia](https://plato.stanford.edu/entries/anna-julia-cooper/) | [critical philosophy of race](https://plato.stanford.edu/entries/critical-phil-race/) | [Du Bois, W.E.B.](https://plato.stanford.edu/entries/dubois/) | [Fanon, Frantz](https://plato.stanford.edu/entries/frantz-fanon/) | feminist philosophy, approaches: Black feminist philosophy | [Négritude](https://plato.stanford.edu/entries/negritude/) | [race](https://plato.stanford.edu/entries/race/)
+[Africana Philosophy](https://plato.stanford.edu/entries/africana/) | Afro-Caribbean Philosophy | [Cooper, Anna Julia](https://plato.stanford.edu/entries/anna-julia-cooper/) | [critical philosophy of race](https://plato.stanford.edu/entries/critical-phil-race/) | [Du Bois, W.E.B.](https://plato.stanford.edu/entries/dubois/) | [Fanon, Frantz](https://plato.stanford.edu/entries/frantz-fanon/) | feminist philosophy, approaches: Black feminist philosophy | [Négritude](https://plato.stanford.edu/entries/negritude/) | [race](https://plato.stanford.edu/entries/race/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-Paul C. Taylor <[*pcttwo@gmail.com*](mailto:pcttwo%40gmail%2ecom)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+Paul C. Taylor <[_pcttwo@gmail.com_](mailto:pcttwo%40gmail%2ecom)>
