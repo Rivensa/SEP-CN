@@ -246,7 +246,7 @@
 * [布鲁诺·鲍威尔 Bauer, Bruno (Douglas Moggach)](b/bu-lu-nuo-bao-wei-er-bauer-bruno-douglas-moggach.md)
 * [贝叶斯定理 Bayes’ Theorem (James Joyce)](b/bei-ye-si-ding-li-bayes-theorem-james-joyce.md)
 * [皮埃尔·贝尔 Bayle, Pierre (Michael Hickson)](b/pi-ai-er-bei-er-bayle-pierre-michael-hickson.md)
-* [\*门罗·C.比厄斯利 Beardsley, Monroe C.](b/men-luo-c.-biesi-li-beardsley-monroe-c./README.md)
+* [\*门罗·C.比厄斯利 Beardsley, Monroe C](b/men-luo-c.-biesi-li-beardsley-monroe-c./README.md)
   * [门罗·C.比厄斯利的美学 aesthetics (Michael Wreen)](b/men-luo-c.-biesi-li-beardsley-monroe-c./men-luo-c.-biesi-li-de-mei-xue-aesthetics-michael-wreen.md)
 * [\*詹姆斯·比蒂——见 18 世纪的苏格兰哲学Beattie, James — see Scottish Philosophy: in the 18th Century](b/zhan-mu-si-bi-di-jian-18-shi-ji-de-su-ge-lan-zhe-xue-beattie-james-see-scottish-philosophy-in-the-18.md)
 * [美 beauty (Crispin Sartwell)](b/mei-beauty-crispin-sartwell.md)
