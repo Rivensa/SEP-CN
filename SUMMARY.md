@@ -56,7 +56,7 @@
   * [\*休谟——见大卫·休谟的美学 Hume — see Hume, David: aesthetics](a/mei-xue-aesthetics/xiu-mo-jian-da-wei-xiu-mo-de-mei-xue-hume-see-hume-david-aesthetics.md)
   * [\*日本——见日本美学 Japanese — see Japanese Philosophy: aesthetics](a/mei-xue-aesthetics/ri-ben-jian-ri-ben-mei-xue-japanese-see-japanese-philosophy-aesthetics.md)
   * [\*柏拉图——见柏拉图的美学 Plato — see Plato: aesthetics](a/mei-xue-aesthetics/bai-la-tu-jian-bai-la-tu-de-mei-xue-plato-see-plato-aesthetics.md)
-  * [叔本华——见阿图尔·叔本华的美学 Schopenhauer — see Schopenhauer, Arthur: aesthetics](a/mei-xue-aesthetics/shu-ben-hua-jianatu-er-shu-ben-hua-de-mei-xue-schopenhauer-see-schopenhauer-arthur-aesthetics.md)
+  * [\*叔本华——见阿图尔·叔本华的美学 Schopenhauer — see Schopenhauer, Arthur: aesthetics](a/mei-xue-aesthetics/shu-ben-hua-jianatu-er-shu-ben-hua-de-mei-xue-schopenhauer-see-schopenhauer-arthur-aesthetics.md)
   * [\*维特根斯坦——见路德维希·维特根斯坦的美学 Wittgenstein — see Wittgenstein, Ludwig: aesthetics](a/mei-xue-aesthetics/wei-te-gen-si-tan-jian-lu-de-wei-xi-wei-te-gen-si-tan-de-mei-xue-wittgenstein-see-wittgenstein-ludwi.md)
 * [日常生活美学 aesthetics of the everyday (Yuriko Saito)](a/ri-chang-sheng-huo-mei-xue-aesthetics-of-the-everyday-yuriko-saito.md)
 * [审美见证 aesthetic testimony (Jon Robson and Rebecca Wallbank)](a/shen-mei-jian-zheng-aesthetic-testimony-jon-robson-and-rebecca-wallbank.md)
