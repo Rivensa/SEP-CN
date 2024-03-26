@@ -1,11 +1,11 @@
 # Table of contents
 
-* [SEP-CN](README.md)
+* [斯坦福哲学百科全书简体中文版](README.md)
 
 ## 前言
 
 * [版权说明](qian-yan/ban-quan-shuo-ming.md)
-* [编辑规划](qian-yan/bian-ji-gui-hua.md)
+* [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
 * [词汇表](qian-yan/ci-hui-biao.md)
 
 ## A
