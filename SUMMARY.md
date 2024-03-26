@@ -334,3 +334,12 @@
 * [\*约瑟夫·巴特勒 Butler, Joseph](b/yue-se-fu-ba-te-le-butler-joseph/README.md)
   * [约瑟夫·巴特勒的伦理学 moral philosophy (Aaron Garrett)](b/yue-se-fu-ba-te-le-butler-joseph/yue-se-fu-ba-te-le-de-lun-li-xue-moral-philosophy-aaron-garrett.md)
 * [拜占庭哲学 Byzantine Philosophy (Katerina Ierodiakonou and Börje Bydén)](b/bai-zhan-ting-zhe-xue-byzantine-philosophy-katerina-ierodiakonou-and-brje-bydn.md)
+
+***
+
+* [C](c.md)
+* [\*爱德华·凯尔德——见 19 世纪苏格兰哲学 Caird, Edward — see Scottish Philosophy: in the 19th century](ai-de-hua-kai-er-de-jian-19-shi-ji-su-ge-lan-zhe-xue-caird-edward-see-scottish-philosophy-in-the-19t.md)
+* [\*卡利克勒斯——见柏拉图：卡利克勒斯和塞拉西马柯 Callicles — see Plato: Callicles and Thrasymachus](ka-li-ke-le-si-jian-bai-la-tu-ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-see-plato-callicles-and-th.md)
+* [剑桥柏拉图派 Cambridge Platonists (Sarah Hutton)](jian-qiao-bai-la-tu-pai-cambridge-platonists-sarah-hutton.md)
+* [托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)](tuo-ma-si-kang-pa-nei-la-campanella-tommaso-germana-ernst-and-jeanpaul-de-lucca.md)
+* [乔治·坎贝尔——见 18 世纪苏格兰哲学 Campbell, George — see Scottish Philosophy: in the 18th Century](qiao-zhi-kan-bei-er-jian-18-shi-ji-su-ge-lan-zhe-xue-campbell-george-see-scottish-philosophy-in-the.md)
