@@ -1,6 +1,6 @@
 # 乔治·贝克莱 Berkeley, George (Lisa Downing)
 
-*首次发表于 2004 年 9 月 10 日；实质性修订于 2011 年 1 月 19 日*
+_首次发表于 2004 年 9 月 10 日；实质性修订于 2011 年 1 月 19 日_
 
 乔治·贝克莱，克洛因主教，是早期现代哲学家中的一位伟大人物。他是他的前辈，特别是笛卡尔、马勒布朗什和洛克的杰出批评家。他是一位才华横溢的形而上学家，以捍卫唯心主义而闻名，即现实仅由思想和意识构成的观点。贝克莱的体系虽然让许多人感到违反直觉，但足够强大和灵活，能够应对大多数反对意见。他最受研究的作品《人类知识原理论》（简称《原理》）和《海拉斯与菲洛纳斯之间的三个对话》（简称《对话》）写得精美，充满了令当代哲学家欣喜的论证。他还是一位广泛思考的学者，对宗教（这对他的哲学动机至关重要）、视觉心理学、数学、物理学、道德、经济学和医学都有兴趣。尽管贝克莱的最初读者对他的作品感到难以理解，但他影响了休谟和康德，并且在我们今天也被广泛阅读（尽管很少有人追随他的观点）。
 
@@ -13,7 +13,7 @@
 * [2.1.4 唯物主义解释了什么？](https://plato.stanford.edu/entries/berkeley/#2.1.4)
 * [2.2 反对直接现实主义唯物主义](https://plato.stanford.edu/entries/berkeley/#2.2)
 * [2.2.1 主要论据？](https://plato.stanford.edu/entries/berkeley/#2.2.1)
-* [2.2.2 第一次](https://plato.stanford.edu/entries/berkeley/#2.2.2)​*[对话](https://plato.stanford.edu/entries/berkeley/#2.2.2)*​[和相对论论据](https://plato.stanford.edu/entries/berkeley/#2.2.2)
+* [2.2.2 第一次](https://plato.stanford.edu/entries/berkeley/#2.2.2)​\*[对话](https://plato.stanford.edu/entries/berkeley/#2.2.2)\*​[和相对论论据](https://plato.stanford.edu/entries/berkeley/#2.2.2)
 * [3. 贝克莱的积极计划：唯心主义和常识](https://plato.stanford.edu/entries/berkeley/#3)
 * [3.1 乔治·贝克莱本体论的基础](https://plato.stanford.edu/entries/berkeley/#3.1)
 * [3.1.1 普通物体的地位](https://plato.stanford.edu/entries/berkeley/#3.1.1)
@@ -21,29 +21,23 @@
 * [3.1.3 上帝的存在](https://plato.stanford.edu/entries/berkeley/#3.1.3)
 * [3.2 对异议的回应](https://plato.stanford.edu/entries/berkeley/#3.2)
 * [3.2.1 真实的事物与想象的事物](https://plato.stanford.edu/entries/berkeley/#3.2.1)
-
 * [3.2.2 Hidden structures and internal mechanisms](https://plato.stanford.edu/entries/berkeley/#3.2.2)
-
 * [3.2.3 科学解释](https://plato.stanford.edu/entries/berkeley/#3.2.3)
 * [3.2.4 未被感知的对象——《原理》与《对话》](https://plato.stanford.edu/entries/berkeley/#3.2.4)
 * [3.2.5 错误的可能性](https://plato.stanford.edu/entries/berkeley/#3.2.5)
 * [3.2.6 灵魂与因果关系](https://plato.stanford.edu/entries/berkeley/#3.2.6)
-* 4. 其他重要的哲学作品 [暂不可用]
+*
+  4. 其他重要的哲学作品 \[暂不可用]
 * 4.1 贝克莱关于视觉的作品
-* 4.2 *De Motu* 和 乔治·贝克莱 的牛顿主义
-
-* 4.3 *Alciphron*
-
-* 4.4 *Siris*
-
+* 4.2 _De Motu_ 和 乔治·贝克莱 的牛顿主义
+* 4.3 _Alciphron_
+* 4.4 _Siris_
 * [参考文献](https://plato.stanford.edu/entries/berkeley/#Bib)
 * [学术工具](https://plato.stanford.edu/entries/berkeley/#Aca)
-
 * [Other Internet Resources](https://plato.stanford.edu/entries/berkeley/#Oth)
-
 * [相关条目](https://plato.stanford.edu/entries/berkeley/#Rel)
 
----
+***
 
 ## 1. 生平与哲学作品
 
@@ -51,9 +45,9 @@
 
 贝克莱的第一部重要著作是《论视觉新理论》（1709 年），它对视觉心理学做出了有影响力的贡献，并发展了与他的唯心主义项目相关的学说。在他二十多岁时，他发表了他最持久的作品，《人类知识原理论》（1710 年）和《海拉斯与菲洛努斯的三次对话》（1713 年），我们将在下面探讨它们的核心学说。
 
-在 1720 年，当作为一名年轻人的导师完成了为期四年的欧洲之旅时，伯克利撰写了《论运动》（*De Motu*），这是一篇关于力学哲学基础的论文，阐述了他对科学哲学的观点，并提出了一种工具主义的牛顿力学方法。欧洲之旅结束后，伯克利回到爱尔兰，并在三一学院恢复了他的职位，直到 1724 年，他被任命为德里主教。此时，伯克利开始制定他在百慕大建立一所学院的计划。他相信欧洲正在精神上衰败，而新大陆为新的黄金时代提供了希望。在获得英国议会的特许状和资金承诺后，伯克利于 1728 年与新婚妻子安妮·福斯特一起启航前往美洲。他们在罗德岛的纽波特度过了三年，等待承诺的资金，但伯克利的政治支持已经崩溃，他们被迫放弃了这个项目，并于 1731 年返回英国。在美国期间，伯克利撰写了《阿尔西弗隆》（*Alciphron*），这是一部针对他认为是英国国教的敌人的“自由思想家”的基督教辩护作品。《阿尔西弗隆》也是一部重要的哲学作品，是伯克利关于语言观点的重要来源。
+在 1720 年，当作为一名年轻人的导师完成了为期四年的欧洲之旅时，伯克利撰写了《论运动》（_De Motu_），这是一篇关于力学哲学基础的论文，阐述了他对科学哲学的观点，并提出了一种工具主义的牛顿力学方法。欧洲之旅结束后，伯克利回到爱尔兰，并在三一学院恢复了他的职位，直到 1724 年，他被任命为德里主教。此时，伯克利开始制定他在百慕大建立一所学院的计划。他相信欧洲正在精神上衰败，而新大陆为新的黄金时代提供了希望。在获得英国议会的特许状和资金承诺后，伯克利于 1728 年与新婚妻子安妮·福斯特一起启航前往美洲。他们在罗德岛的纽波特度过了三年，等待承诺的资金，但伯克利的政治支持已经崩溃，他们被迫放弃了这个项目，并于 1731 年返回英国。在美国期间，伯克利撰写了《阿尔西弗隆》（_Alciphron_），这是一部针对他认为是英国国教的敌人的“自由思想家”的基督教辩护作品。《阿尔西弗隆》也是一部重要的哲学作品，是伯克利关于语言观点的重要来源。
 
-返回伦敦后不久，伯克利撰写了《视觉的理论，被证明和解释》（*Theory of Vision, Vindicated and Explained*），这是对他早期关于视觉的工作的辩护，以及《分析家》（*Analyst*），对牛顿微积分基础的敏锐而有影响力的批评。1734 年，他被任命为克洛因主教，因此返回爱尔兰。正是在这里，伯克利写下了他最后、最奇特且在他有生之年最畅销的哲学作品。《塔尔水》（*Siris*）（1744）有三个目标：建立松香水（一种将松香浸泡在水中制成的液体）作为医学万灵药的优点，提供支持松香水功效的科学背景，并通过逐步引导读者的思维，使其沉思上帝。伯克利于 1753 年去世，不久之前他搬到牛津监督他的儿子乔治的教育，他的七个孩子中只有三个幸存到了成年。
+返回伦敦后不久，伯克利撰写了《视觉的理论，被证明和解释》（_Theory of Vision, Vindicated and Explained_），这是对他早期关于视觉的工作的辩护，以及《分析家》（_Analyst_），对牛顿微积分基础的敏锐而有影响力的批评。1734 年，他被任命为克洛因主教，因此返回爱尔兰。正是在这里，伯克利写下了他最后、最奇特且在他有生之年最畅销的哲学作品。《塔尔水》（_Siris_）（1744）有三个目标：建立松香水（一种将松香浸泡在水中制成的液体）作为医学万灵药的优点，提供支持松香水功效的科学背景，并通过逐步引导读者的思维，使其沉思上帝。伯克利于 1753 年去世，不久之前他搬到牛津监督他的儿子乔治的教育，他的七个孩子中只有三个幸存到了成年。
 
 ## 2. 伯克利在《原理》和《对话》中对唯物主义的批判
 
@@ -73,15 +67,15 @@
 
 > （1）我们感知到普通的物体（房屋、山等）。
 
- %%
+%%
 
 (2) 我们只能感知到思想。
 
 >
 
- 因此，
+因此，
 
- %% >（3）普通物体是思想
+%% >（3）普通物体是思想
 
 这个论证是有效的，前提（1）似乎很难否认。那么前提（2）呢？伯克利认为这个前提被所有现代哲学家接受。在《原理》中，伯克利运用了 17 世纪和 18 世纪的思想论传统。特别是，伯克利认为这个前提的某个版本被他的主要目标，有影响力的哲学家笛卡尔和洛克接受了。
 
@@ -125,17 +119,17 @@
 
 #### 2.2.1 主要论证？
 
-然而，一个可能自然而然地寻找这样一个论证的地方实际上并不像最初看起来那么有希望。在《原理》（22-3 页）和《对话》（200 页）中，贝克莱提出了一个被称为“主要论证”的版本[[5](https://plato.stanford.edu/entries/berkeley/notes.html#5)]，因为他对它的支持似乎非常坚定。
+然而，一个可能自然而然地寻找这样一个论证的地方实际上并不像最初看起来那么有希望。在《原理》（22-3 页）和《对话》（200 页）中，贝克莱提出了一个被称为“主要论证”的版本\[[5](https://plato.stanford.edu/entries/berkeley/notes.html#5)]，因为他对它的支持似乎非常坚定。
 
 ……我愿意将整个问题放在这个问题上；如果你能够想象一个扩展的可移动物质，或者一般来说，任何一个思想或类似思想的东西，能够以不在一个感知它的心灵中存在的方式存在，我将乐意放弃这个理由……但是你说，想象一棵树在公园里，或者书籍存在于一个壁橱中，而没有人来感知它们，这是再容易不过了。我回答说，你可以这样做，这没有任何困难：但是，我恳求你，这一切究竟是什么，除了在你的脑海中构建一些你称之为“书籍”和“树”的思想之外，同时又省略了构建任何一个可能感知它们的思想的思想？但是你自己不是一直在感知或思考它们吗？因此，这与问题无关：它只是表明你有能力在你的脑海中想象或形成思想；但它并没有表明你能够想象它们的对象在没有心灵的情况下存在：要证明这一点，你必须想象它们在未被构想或未被思考的情况下存在，这是一个明显的矛盾。当我们尽力想象外部物体的存在时，我们一直只是在思考我们自己的思想。但是心灵没有注意到自己，被欺骗以为它能够并且确实能够想象存在于未被思考或没有心灵的物体；尽管同时它们被它自己所理解或存在。（PHK 22–23）
 
-这个论点似乎旨在证明我们实际上无法想象独立于心灵的对象，也就是说，存在于未被感知和未被思考的对象。为什么呢？简单地说，为了想象任何这样的事物，我们必须自己在构想，也就是思考它们。然而，正如 Pitcher（1977，113）巧妙地观察到的那样，这样的论证似乎混淆了“表象”（我们构想“用”的东西）和“被表象”（我们构想“关于”的东西——我们思想的内容）。一旦我们做出这个区分，我们就意识到，虽然我们必须有一些构想或表象才能构想某事，而且“那个表象”在某种意义上是被思考的，但这并不意味着（与伯克利相反）我们构想的“关于”的东西必须是一个被思考的对象。也就是说，当我们想象一棵树独自站在森林中时，我们（可以说）构想了一个未被思考的对象，尽管当然我们必须使用思想才能完成这个壮举。[[6](https://plato.stanford.edu/entries/berkeley/notes.html#6)]因此（正如许多评论家所观察到的那样），这个论证失败了。
+这个论点似乎旨在证明我们实际上无法想象独立于心灵的对象，也就是说，存在于未被感知和未被思考的对象。为什么呢？简单地说，为了想象任何这样的事物，我们必须自己在构想，也就是思考它们。然而，正如 Pitcher（1977，113）巧妙地观察到的那样，这样的论证似乎混淆了“表象”（我们构想“用”的东西）和“被表象”（我们构想“关于”的东西——我们思想的内容）。一旦我们做出这个区分，我们就意识到，虽然我们必须有一些构想或表象才能构想某事，而且“那个表象”在某种意义上是被思考的，但这并不意味着（与伯克利相反）我们构想的“关于”的东西必须是一个被思考的对象。也就是说，当我们想象一棵树独自站在森林中时，我们（可以说）构想了一个未被思考的对象，尽管当然我们必须使用思想才能完成这个壮举。\[[6](https://plato.stanford.edu/entries/berkeley/notes.html#6)]因此（正如许多评论家所观察到的那样），这个论证失败了。
 
-对这个论证的更加宽容的解读（参见 Winkler 1989，184–7；Lennon 1988）表明伯克利的观点是我们无法代表未被构想的状态，因为我们从未经历过，也永远无法经历。[[7](https://plato.stanford.edu/entries/berkeley/notes.html#7)]因为我们无法代表未被构想的状态，所以我们无法想象独立于心灵的对象。虽然这是一个更有希望的论证，但它显然预设了再现主义，就像伯克利早期的《原理》论证一样。[[8](https://plato.stanford.edu/entries/berkeley/notes.html#8)]（然而，这并不一定是解释的缺陷，因为正如我们上面看到的，《原理》是针对再现主义的，而在《对话篇》中，主要论证只在海拉斯被转变为再现主义之后才出现（见下文）。）[[9](https://plato.stanford.edu/entries/berkeley/notes.html#9)]
+对这个论证的更加宽容的解读（参见 Winkler 1989，184–7；Lennon 1988）表明伯克利的观点是我们无法代表未被构想的状态，因为我们从未经历过，也永远无法经历。\[[7](https://plato.stanford.edu/entries/berkeley/notes.html#7)]因为我们无法代表未被构想的状态，所以我们无法想象独立于心灵的对象。虽然这是一个更有希望的论证，但它显然预设了再现主义，就像伯克利早期的《原理》论证一样。\[[8](https://plato.stanford.edu/entries/berkeley/notes.html#8)]（然而，这并不一定是解释的缺陷，因为正如我们上面看到的，《原理》是针对再现主义的，而在《对话篇》中，主要论证只在海拉斯被转变为再现主义之后才出现（见下文）。）\[[9](https://plato.stanford.edu/entries/berkeley/notes.html#9)]
 
 #### 2.2.2 第一次对话和相对论论证
 
-因此，如果我们寻求对直接现实主义唯物主义的挑战，我们必须转向《三次对话》，在这里，角色海拉斯（想成为唯物主义者）从一种天真的现实主义出发，根据这种现实主义，我们直接感知到物质对象本身。菲洛努斯（精神的爱好者——贝克莱的代言人）反对这个立场，试图论证感知到的感性品质——由感官直接感知到的品质——必须是理想的，而不是属于物质对象的。（对这些第一次对话论证的分析受到玛格丽特·威尔逊在《贝克莱论颜色的心灵依赖性》中的论述的影响，威尔逊 1999 年，229-242 页。[10]）
+因此，如果我们寻求对直接现实主义唯物主义的挑战，我们必须转向《三次对话》，在这里，角色海拉斯（想成为唯物主义者）从一种天真的现实主义出发，根据这种现实主义，我们直接感知到物质对象本身。菲洛努斯（精神的爱好者——贝克莱的代言人）反对这个立场，试图论证感知到的感性品质——由感官直接感知到的品质——必须是理想的，而不是属于物质对象的。（对这些第一次对话论证的分析受到玛格丽特·威尔逊在《贝克莱论颜色的心灵依赖性》中的论述的影响，威尔逊 1999 年，229-242 页。\[10]）
 
 菲洛努斯通过主张感性品质（如热）与快乐或痛苦并无区别来开始他的第一个论证。菲洛努斯认为，所有人都认可快乐和痛苦仅存在于心灵中；因此，对于感性品质也必须是如此。这个论证的最大困难在于（1）我们是否应该在伯克利所提到的特定感官品质的情况下接受“没有区别”的前提（为什么不假设我可以区分热和痛苦？）以及（2）如果我们接受了这个前提，我们是否应该像伯克利所希望的那样将其推广到所有感官品质。
 
@@ -157,13 +151,13 @@
 
 > 任何一个审视人类知识对象的人都能明显看出，它们要么是实际印在感官上的观念，要么是通过关注心灵的情感和运作而感知到的观念，要么是通过记忆和想象力形成的观念，这些观念可以是将最初通过前述方式感知到的观念进行组合、分割或简单地再现。通过视觉，我能够获得光线和颜色的观念，以及它们的不同程度和变化。通过触觉，例如，我能感知到硬和软、热和冷、运动和阻力，以及所有这些观念的多与少，无论是在数量上还是程度上。嗅觉提供给我气味；味觉提供给我味道；听觉以各种音调和组合将声音传达给心灵。由于观察到其中几个观念彼此伴随出现，它们被赋予一个名称，并被认为是一件事物。例如，某种颜色、味道、气味、形状和质地被观察到一起，被视为一个独特的事物，用苹果这个名称来表示。其他一些观念的集合构成了石头、树木、书籍等可感知的事物；它们因为令人愉悦或不愉悦，而引发爱、恨、喜悦、悲伤等情感。
 
-正如本段所示，伯克利并不否认石头、树木、书籍和苹果等普通物体的存在。相反，正如上面所指出的，他认为只有对这些物体进行非物质主义的描述才能避免对它们存在和本质的怀疑。根据他的观点，这些物体实际上是一系列或一组观念的结合体。苹果是视觉观念（包括颜色和视觉形状的感性特质）、可触摸的观念、味道、气味等观念的组合[[12](https://plato.stanford.edu/entries/berkeley/notes.html#12)]。关于这些观念如何结合的问题是一个哲学上有趣的问题，伯克利并没有详细讨论。他确实明确指出，将观念捆绑成物体的过程有两个方面：（1）共同出现，这是一个客观事实，关于我们的经验中哪些类型的观念往往伴随彼此出现；（2）当我们决定将一组共同出现的观念单独提出并用特定的名称指代时，我们所做的事情（NTV 109）。
+正如本段所示，伯克利并不否认石头、树木、书籍和苹果等普通物体的存在。相反，正如上面所指出的，他认为只有对这些物体进行非物质主义的描述才能避免对它们存在和本质的怀疑。根据他的观点，这些物体实际上是一系列或一组观念的结合体。苹果是视觉观念（包括颜色和视觉形状的感性特质）、可触摸的观念、味道、气味等观念的组合\[[12](https://plato.stanford.edu/entries/berkeley/notes.html#12)]。关于这些观念如何结合的问题是一个哲学上有趣的问题，伯克利并没有详细讨论。他确实明确指出，将观念捆绑成物体的过程有两个方面：（1）共同出现，这是一个客观事实，关于我们的经验中哪些类型的观念往往伴随彼此出现；（2）当我们决定将一组共同出现的观念单独提出并用特定的名称指代时，我们所做的事情（NTV 109）。
 
-因此，虽然对于伯克利来说没有物质世界，但存在着一个物理世界，一个普通物体的世界。这个世界是依赖于心灵的，因为它由观念组成，其存在就在于被感知。对于观念和物理世界来说，*存在即被感知*。
+因此，虽然对于伯克利来说没有物质世界，但存在着一个物理世界，一个普通物体的世界。这个世界是依赖于心灵的，因为它由观念组成，其存在就在于被感知。对于观念和物理世界来说，_存在即被感知_。
 
 #### 3.1.2 作为主动实体的灵魂
 
-乔治·贝克莱的本体论并不仅限于理念。除了感知的事物（理念）之外，他还假设存在感知者，即心智或*灵魂*，他经常这样称呼它们。他强调，灵魂在本质上与理念完全不同，因为它们是主动的，而理念是被动的。这表明贝克莱用心智和理念的二元论取代了心智和物质的另一种二元论。贝克莱拒绝详细阐述主动心智和被动理念之间的关系，这一点是有道理的。在《原理》第 49 条中，他以著名的方式驳斥了关于理念如何存在于心智中（当这些可感知的品质“存在于”它们时，心智是否有颜色和延展性？）的争论，他宣称“这些品质只有在心智中被感知时才存在于其中，也就是说，并非通过*模式*或*属性*的方式，而仅仅通过*理念*的方式”。然而，贝克莱的二元论是在依赖于心智的领域内的二元论。
+乔治·贝克莱的本体论并不仅限于理念。除了感知的事物（理念）之外，他还假设存在感知者，即心智或_灵魂_，他经常这样称呼它们。他强调，灵魂在本质上与理念完全不同，因为它们是主动的，而理念是被动的。这表明贝克莱用心智和理念的二元论取代了心智和物质的另一种二元论。贝克莱拒绝详细阐述主动心智和被动理念之间的关系，这一点是有道理的。在《原理》第 49 条中，他以著名的方式驳斥了关于理念如何存在于心智中（当这些可感知的品质“存在于”它们时，心智是否有颜色和延展性？）的争论，他宣称“这些品质只有在心智中被感知时才存在于其中，也就是说，并非通过_模式_或_属性_的方式，而仅仅通过_理念_的方式”。然而，贝克莱的二元论是在依赖于心智的领域内的二元论。
 
 #### 3.1.3 上帝的存在
 
@@ -175,13 +169,13 @@
 
 > (2) 但由于思想依赖于心灵的状态，它们不能具有任何未被感知到的特征。
 
- 因此，
+因此，
 
 >
 
 > （3）思想是被动的，也就是说，它们没有因果力。
 
-值得注意的是，前提（2）相当强烈；菲利普·卡明斯（1990）将其称为伯克利的“显性特质论”，并认为这使伯克利承认思想在根本上和完全上依赖于感知者，就像快乐和痛苦的感觉通常被认为是一样。[[13](https://plato.stanford.edu/entries/berkeley/notes.html#13)]
+值得注意的是，前提（2）相当强烈；菲利普·卡明斯（1990）将其称为伯克利的“显性特质论”，并认为这使伯克利承认思想在根本上和完全上依赖于感知者，就像快乐和痛苦的感觉通常被认为是一样。\[[13](https://plato.stanford.edu/entries/berkeley/notes.html#13)]
 
 第二个选项被排除了，因为观察到虽然我显然可以随意引起一些思想（例如想象的思想），感官思想是无意识的；它们无论我是否希望感知它们，都会呈现出来，我无法控制它们的内容。这里隐藏的假设是，心灵所做的任何引起必须是出于意愿，并且这种意愿必须是可意识到的。伯克利在假设这种心理模型方面并不孤立；例如，笛卡尔也做出了类似的一系列假设。
 
@@ -193,7 +187,7 @@
 
 #### 3.2.1 真实的事物与想象的事物
 
-也许对唯心主义最明显的反对意见是，它使得真实的事物与想象的事物没有区别——两者都似乎是我们自己心灵中短暂的幻象，而不是唯物主义者所说的坚实的物体。伯克利回应道，在他的观点上，真实事物与虚构事物之间的区别仍然具有完全的力量。一种区分的方法是通过他上面讨论的对上帝存在的论证提出的：依赖于我们有限的人类意志的观念不是（真实事物的组成部分）。因此，不自愿是成为真实事物的必要条件，但显然不足以成为充分条件，因为幻觉和梦境并不依赖于我们的意志，但仍然不是真实的。伯克利指出，构成真实事物的观念表现出一种稳定性、生动性和清晰性，而虚构的观念则没有。然而，他指出的最关键的特征是*秩序*。自然之作者印刻在*rerum natura*中的观念按照自然法则（“我们依赖的心灵在我们身上激发感官观念的设定规则或既定方法被称为自然法则”PHK 30）出现在规律的模式中。因此，它们是规律和连贯的，也就是说，它们构成了一个连贯的真实世界。
+也许对唯心主义最明显的反对意见是，它使得真实的事物与想象的事物没有区别——两者都似乎是我们自己心灵中短暂的幻象，而不是唯物主义者所说的坚实的物体。伯克利回应道，在他的观点上，真实事物与虚构事物之间的区别仍然具有完全的力量。一种区分的方法是通过他上面讨论的对上帝存在的论证提出的：依赖于我们有限的人类意志的观念不是（真实事物的组成部分）。因此，不自愿是成为真实事物的必要条件，但显然不足以成为充分条件，因为幻觉和梦境并不依赖于我们的意志，但仍然不是真实的。伯克利指出，构成真实事物的观念表现出一种稳定性、生动性和清晰性，而虚构的观念则没有。然而，他指出的最关键的特征是_秩序_。自然之作者印刻在_rerum natura_中的观念按照自然法则（“我们依赖的心灵在我们身上激发感官观念的设定规则或既定方法被称为自然法则”PHK 30）出现在规律的模式中。因此，它们是规律和连贯的，也就是说，它们构成了一个连贯的真实世界。
 
 #### 3.2.2 Hidden structures and internal mechanisms
 
@@ -201,7 +195,7 @@
 
 ……人们会问，植物那奇妙的结构和动物身体部分的精巧机制有何用处？蔬菜难道不能生长、长出叶子和花朵吗？动物难道不能进行所有运动，无论是有还是没有那些精心设计和组装的内部部件，这些部件只是思想，并没有任何实际或操作上的力量，也与所归因的效果没有任何必然联系吗？……还有，为什么每当手表走时出现故障时，运动中就会出现相应的混乱，而由熟练的手修复后，一切又恢复正常呢？自然界的所有钟表机械也可以这样说，其中很大一部分是如此精细和微妙，以至于最好的显微镜也很难辨别。简而言之，人们会问，根据我们的原则，如何能够给出一个合理的解释，或者为无数个体和机器的存在指定一个最终目的，这些个体和机器都是以最精湛的艺术制造的，在普通哲学中，它们都被赋予了非常恰当的用途，并用来解释大量现象。
 
-贝克莱的回答，他受到了马勒布朗奇的启发，[[14](https://plato.stanford.edu/entries/berkeley/notes.html#14)]是这样的，虽然上帝可以让手表运行（也就是在我们产生手表运行的思想）而不需要手表有任何内部机制（也就是说，如果我们打开手表，我们不会产生关于内部机制的思想），但是如果上帝要按照他为我们制定的自然法则行事，使世界变得规律可预测，他就不能这样做。因此，无论我们对一个运行中的手表有什么样的思想，我们会发现，如果我们打开它，[[15](https://plato.stanford.edu/entries/berkeley/notes.html#15)]我们会看到（产生关于）一个适当的内部机制的思想。同样，当我们对一朵活着的郁金香有思想时，我们会发现，如果我们把它拆开，我们会观察到这类植物的通道组织、生殖部分等通常的内部结构。
+贝克莱的回答，他受到了马勒布朗奇的启发，\[[14](https://plato.stanford.edu/entries/berkeley/notes.html#14)]是这样的，虽然上帝可以让手表运行（也就是在我们产生手表运行的思想）而不需要手表有任何内部机制（也就是说，如果我们打开手表，我们不会产生关于内部机制的思想），但是如果上帝要按照他为我们制定的自然法则行事，使世界变得规律可预测，他就不能这样做。因此，无论我们对一个运行中的手表有什么样的思想，我们会发现，如果我们打开它，\[[15](https://plato.stanford.edu/entries/berkeley/notes.html#15)]我们会看到（产生关于）一个适当的内部机制的思想。同样，当我们对一朵活着的郁金香有思想时，我们会发现，如果我们把它拆开，我们会观察到这类植物的通道组织、生殖部分等通常的内部结构。
 
 上述答案中隐含了伯克利对科学解释和科学目标的深刻见解。为了理解为什么这个问题对伯克利来说是一个特殊的挑战，需要一些背景知识。传统上，科学的理解源自亚里士多德，认为科学的目标是确定事物的原因。现代自然哲学家如笛卡尔将科学的领域缩小到有效原因，并认为科学应该揭示自然事物、过程和事件的有效原因。伯克利认为这是《原理》第 51 条提出的一个反对意见的根源：
 
@@ -213,7 +207,7 @@
 
 > 因此，如果我们考虑自然哲学家与其他人在对现象的认识上的差异，我们会发现，这种差异并不在于对产生现象的有效原因有更准确的了解，因为那只能是一个精神的意愿，而只在于对事物的更广泛的理解，通过这种理解，我们可以发现自然作品中的类比、和谐和一致，并解释特定的效果，即将其归纳为一般规则，见第 62 节，这些规则是基于类比和在自然效果的产生中观察到的一致性，它们是最令人满意的，也是心灵所追求的；因为它们将我们的视野扩展到超越当前和接近我们的范围之外，并使我们能够对可能发生在非常长的时间和地点的事情作出非常有可能的猜测，以及对未来事物的预测....（PHK 105）
 
-因此，自然哲学家考虑的是符号，而不是原因（PHK 108），但他们的结果与唯物主义体系下的结果一样有用。此外，他们发现的规律性提供了科学所需的解释，通过使其所包含的特定事件变得不足为奇（PHK 104）。因此，科学所需的解释不是因果解释，而是归纳为规律性。[17]
+因此，自然哲学家考虑的是符号，而不是原因（PHK 108），但他们的结果与唯物主义体系下的结果一样有用。此外，他们发现的规律性提供了科学所需的解释，通过使其所包含的特定事件变得不足为奇（PHK 104）。因此，科学所需的解释不是因果解释，而是归纳为规律性。\[17]
 
 #### 3.2.4 未被感知的对象——《原理》与《对话》
 
@@ -233,7 +227,7 @@
 
 所以，当我说我离开办公室后，我的桌子仍然存在，也许我只是指如果我在办公室里，我会感知到它，或者更广泛地说，如果有一个有限的心灵处于适当的环境中（在我的办公室里，灯亮着，眼睛睁开等等），它会感知到桌子的存在。这是为了对未被感知的物体的持续存在提供一种反事实分析。所涉及的反事实的真实性是以规律性为基础的：因为上帝在引发思想的方式上遵循固定的模式，如果我在办公室里，我会有一个桌子的想法。
 
-然而，当与“存在即被感知”（*esse est percipi*）的教义结合时，这种分析会产生违反直觉的后果（McCracken 1979, 286）。如果存在就是被感知，正如伯克利坚持的那样，那么未被感知的桌子就不存在，尽管如果有人打开办公室的门，它将被感知并且存在。因此，在这种观点下，桌子不会持续存在，而是会不断地出现和消失，尽管这样做是相当可预测的。对这个担忧的一种回应是将其驳回——如果桌子在未被感知时停止存在，只要我们需要它时它存在，那又有什么关系呢？伯克利在《原理》第 45-46 条中表现出了这种态度的迹象，他试图证明他的唯物主义对手和学院派前辈们面临着相同的困境。这种对于持续存在问题的“谁在乎？”的回应在某种程度上是公平的，但它肯定与常识相冲突，因此，如果伯克利选择这条路线，他将不得不减弱他关于他的体系能够容纳街上的每个人所需的一切的主张。
+然而，当与“存在即被感知”（_esse est percipi_）的教义结合时，这种分析会产生违反直觉的后果（McCracken 1979, 286）。如果存在就是被感知，正如伯克利坚持的那样，那么未被感知的桌子就不存在，尽管如果有人打开办公室的门，它将被感知并且存在。因此，在这种观点下，桌子不会持续存在，而是会不断地出现和消失，尽管这样做是相当可预测的。对这个担忧的一种回应是将其驳回——如果桌子在未被感知时停止存在，只要我们需要它时它存在，那又有什么关系呢？伯克利在《原理》第 45-46 条中表现出了这种态度的迹象，他试图证明他的唯物主义对手和学院派前辈们面临着相同的困境。这种对于持续存在问题的“谁在乎？”的回应在某种程度上是公平的，但它肯定与常识相冲突，因此，如果伯克利选择这条路线，他将不得不减弱他关于他的体系能够容纳街上的每个人所需的一切的主张。
 
 然而，伯克利在《人类知识原理》第 3 和 48 节中提到了“其他精神”，这暗示了另一种策略，这种策略在一首进一步的打油诗中得到了总结：
 
@@ -243,7 +237,7 @@
 
 这就是为什么树
 
-如果另一个被提及的精神是上帝，一个无所不在的存在，那么或许他的感知可以用来保证每个物体的完全连续存在。在《三个对话》中，伯克利在这个背景下明确地援引了上帝。有趣的是，在《原理》中，正如我们上面所看到的，他认为上帝必须存在才能引起我们的感官观念，而在《对话》中，他认为我们的观念在我们不感知时必须存在于上帝之中。[20]如果我们的观念存在于上帝之中，那么它们很可能是连续存在的。事实上，它们必须是连续存在的，因为标准的基督教教义规定上帝是不变的
+如果另一个被提及的精神是上帝，一个无所不在的存在，那么或许他的感知可以用来保证每个物体的完全连续存在。在《三个对话》中，伯克利在这个背景下明确地援引了上帝。有趣的是，在《原理》中，正如我们上面所看到的，他认为上帝必须存在才能引起我们的感官观念，而在《对话》中，他认为我们的观念在我们不感知时必须存在于上帝之中。\[20]如果我们的观念存在于上帝之中，那么它们很可能是连续存在的。事实上，它们必须是连续存在的，因为标准的基督教教义规定上帝是不变的
 
 虽然这解决了贝克莱的一个问题，但也带来了几个新问题。首先，贝克莱在宗教和哲学上的其他承诺表明上帝不能真正拥有我们的思想。我们的思想是感官思想，而上帝是一个“无法受苦，也无法受到任何痛苦感或者任何感觉”的存在（3D 206）。我们的感官思想也不能是上帝的非感官思想的副本（McCracken 1979）：
 
@@ -261,7 +255,7 @@
 
 > Hylas. 是的，Philonous，我承认一个可感知的事物的存在在于被感知，但不在于被实际感知。
 
- %%
+%%
 
 Philonous. 什么是可感知的，除了一个观念？一个观念能在没有被实际感知的情况下存在吗？这些是我们早就达成一致的观点。(3D 234)
 
@@ -273,13 +267,13 @@ Philonous. 什么是可感知的，除了一个观念？一个观念能在没有
 
 从这个讨论中，我们可以得出一个关于普通物体实际存在的标准，这个标准总结了伯克莱的考虑观点：
 
-> 如果上帝拥有与一个有限的心灵在*t*时刻处于适当环境（例如在特定的地方，朝着正确的方向看，或者透过显微镜看），那么它将拥有一个我们倾向于称之为对*X*的感知的思想，那么*X*在*t*时刻存在。
+> 如果上帝拥有与一个有限的心灵在_t_时刻处于适当环境（例如在特定的地方，朝着正确的方向看，或者透过显微镜看），那么它将拥有一个我们倾向于称之为对_X_的感知的思想，那么_X_在_t_时刻存在。
 
-这一观点捕捉到存在依赖于上帝的感知的想法，但仅依赖于与他关于我们应该感知的感知相对应或包含在其中的感知。它还捕捉到了将思想捆绑成对象的事实是由我们完成的。[[22](https://plato.stanford.edu/entries/berkeley/notes.html#22)]
+这一观点捕捉到存在依赖于上帝的感知的想法，但仅依赖于与他关于我们应该感知的感知相对应或包含在其中的感知。它还捕捉到了将思想捆绑成对象的事实是由我们完成的。\[[22](https://plato.stanford.edu/entries/berkeley/notes.html#22)]
 
 #### 3.2.5 错误的可能性
 
-对于伯克利体系的进一步担忧源于对对象的思想捆绑解释。[[23](https://plato.stanford.edu/entries/berkeley/notes.html#23)] 如果没有独立于心灵的对象来衡量我的思想，而是我的思想有助于构成对象，那么我的思想如何会失败呢？错误如何可能？这是另一种提出我所指的担忧的方式：我们在上面看到，伯克利在第一篇《对话》中对常识实在论的论证试图削弱以下主张：热、气味、味道可以与快乐/痛苦区分开来，以及对象具有一个真正的颜色、一个真正的形状、一个真正的味道等。如果我们考虑一下这对伯克利的对象意味着什么，我们必须得出结论：伯克利的樱桃是红色的、紫色的、灰色的、酸的、甜的、小的、大的、令人愉快的和痛苦的！似乎伯克利希望反驳机械主义的再现主义，即对象与我们对它们的体验完全不同，已经导致他超越常识，认为对象与我们的体验完全相同。[[24](https://plato.stanford.edu/entries/berkeley/notes.html#24)] 无可否认的是，伯克利在这里与常识不一致。然而，他在《对话》中给出了错误的解释。
+对于伯克利体系的进一步担忧源于对对象的思想捆绑解释。\[[23](https://plato.stanford.edu/entries/berkeley/notes.html#23)] 如果没有独立于心灵的对象来衡量我的思想，而是我的思想有助于构成对象，那么我的思想如何会失败呢？错误如何可能？这是另一种提出我所指的担忧的方式：我们在上面看到，伯克利在第一篇《对话》中对常识实在论的论证试图削弱以下主张：热、气味、味道可以与快乐/痛苦区分开来，以及对象具有一个真正的颜色、一个真正的形状、一个真正的味道等。如果我们考虑一下这对伯克利的对象意味着什么，我们必须得出结论：伯克利的樱桃是红色的、紫色的、灰色的、酸的、甜的、小的、大的、令人愉快的和痛苦的！似乎伯克利希望反驳机械主义的再现主义，即对象与我们对它们的体验完全不同，已经导致他超越常识，认为对象与我们的体验完全相同。\[[24](https://plato.stanford.edu/entries/berkeley/notes.html#24)] 无可否认的是，伯克利在这里与常识不一致。然而，他在《对话》中给出了错误的解释。
 
 Hylas. 你对此有何看法？根据你的说法，人们通过感官来判断事物的真实性，那么一个人如何会误以为月亮是一个直径约一英尺的平坦明亮的表面，或者远处看到的方形塔楼是圆的，或者一根一端浸在水中的桨是弯曲的呢？
 
@@ -301,7 +295,7 @@ Philonous. 他在实际感知到的观念上并没有错误；但在他从当前
 
 第二个回应是解释为什么精神实体比物质实体更好。为此，伯克利强调我们对精神有一个概念，也就是说我们知道这个词的意思。这与伯克利认为没有明确内容的“物质”形成对比。当然，真正的问题是：既然我们对精神一无所知，那么“精神”这个术语是如何获得任何内容的呢？在《原理》中，伯克利仅宣称我们通过自己的案例了解精神，并且我们赋予“精神”这个词的内容是从我们每个人赋予“我”这个词的内容中得出的（PHK 139-140）。然而，在《对话录》中，伯克利对他面临的问题的力量有更好的认识：
 
-> [海拉斯] 你说你自己的灵魂给你提供了某种关于上帝的想法或形象。但与此同时，你承认你没有自己灵魂的想法。你甚至断言精神是一种与思想完全不同的存在。因此，没有任何想法可以像精神一样。因此，我们对任何精神都没有想法。然而，你承认存在精神实体，尽管你对它没有想法；而你否认存在物质实体，因为你对它没有概念或想法。这算公平吗？要一致行事，你必须要么承认物质，要么拒绝精神。（3D 232）
+> \[海拉斯] 你说你自己的灵魂给你提供了某种关于上帝的想法或形象。但与此同时，你承认你没有自己灵魂的想法。你甚至断言精神是一种与思想完全不同的存在。因此，没有任何想法可以像精神一样。因此，我们对任何精神都没有想法。然而，你承认存在精神实体，尽管你对它没有想法；而你否认存在物质实体，因为你对它没有概念或想法。这算公平吗？要一致行事，你必须要么承认物质，要么拒绝精神。（3D 232）
 
 对于海拉斯攻击的主要观点，菲洛努斯回答说，我们每个人在自己的案例中都对自己有直接的直觉，也就是说，我们通过反思了解自己的思想（3D 231-233）。伯克利的考虑立场是，我们通过自我意识获得作为思考事物的自己的访问权，这无疑是一种直观的立场。然而，令人失望的是，他从未对他在笔记中提出的休谟式挑战给予明确回应：
 
@@ -309,7 +303,7 @@ Philonous. 他在实际感知到的观念上并没有错误；但在他从当前
 
 伯克利面临的一个密切相关的问题是如何理解他赋予精神的因果能力。在这里，笔记本再次表明了一种令人惊讶的休谟观点：
 
-* 简单的观念被称为力量，似乎是模糊的，或者根本不存在。只是因果关系而已。当我问 A 是否能够移动 B 时，如果 A 是一个有智能的东西，我只是想知道 A 的意愿是否会导致 B 的运动；如果 A 是无感知的，我只是想知道 A 对 B 的冲击是否会导致 B 的运动。（461[[26](https://plato.stanford.edu/entries/berkeley/notes.html#26)）
+* 简单的观念被称为力量，似乎是模糊的，或者根本不存在。只是因果关系而已。当我问 A 是否能够移动 B 时，如果 A 是一个有智能的东西，我只是想知道 A 的意愿是否会导致 B 的运动；如果 A 是无感知的，我只是想知道 A 对 B 的冲击是否会导致 B 的运动。（461\[[26](https://plato.stanford.edu/entries/berkeley/notes.html#26)）
 
 > S 什么是“原因”与“机会”之间的区别？只是一个在效果之后遵循意愿的存在。那些从外部发生的事情，我们不是其原因，因此存在其他的原因，即存在一个在我们内部产生这些感知的存在。499
 
@@ -317,13 +311,13 @@ S 有力量和意愿之间的区别。可以有意愿而没有力量。但是没
 
 461 提出了休谟的观点，即原因是（经常）跟随着效果的任何事物。499 和 699 通过要求原因不仅（经常）在效果之前出现，而且还必须是一个意愿来修正了这个学说。伯克利在这里提到的“场合”一词揭示了马勒布朗奇的直接影响。马勒布朗奇认为唯一真正的原因是上帝，表面上的有限原因只是“偶然原因”，也就是说它们为上帝行动提供了机会，以便按照他的一般意愿政策行事。因此，“原因”经常在“效果”之前出现，但并不真正负责产生它们。然而，在这些笔记条目中，伯克利似乎在暗示因果关系只是这种经常性的结果，其中第一项是一个意愿。这样的解释与马勒布朗奇的观点不同，会使我的意愿和上帝的意愿在完全相同的意义上成为原因。
 
-一些评论家，尤其是温克勒，认为伯克利在出版作品中保留了这种因果关系的观点。这种解释的主要困难在于伯克利不止一次声称要检查我们对物体的观念，以及其中包含的感官特质，并从这个检查中得出结论，即物体是被动的（DM 22，PHK 25）。如果根据伯克利的观点，物体因为它们不是有意愿的心灵而无法成为原因，那么这种做法就没有多大意义。[[28](https://plato.stanford.edu/entries/berkeley/notes.html#28)]我们需要解释伯克利所谓的“活动”是什么意思，他明确将其与因果力量等同起来。温克勒（1989，130-1）提供了这样一个解释，即活动意味着朝着一个目标的方向。但这是将有效因果关系与最终因果关系等同起来，这是一个有争议的举动，伯克利在没有评论或论证的情况下进行了这样的举动。
+一些评论家，尤其是温克勒，认为伯克利在出版作品中保留了这种因果关系的观点。这种解释的主要困难在于伯克利不止一次声称要检查我们对物体的观念，以及其中包含的感官特质，并从这个检查中得出结论，即物体是被动的（DM 22，PHK 25）。如果根据伯克利的观点，物体因为它们不是有意愿的心灵而无法成为原因，那么这种做法就没有多大意义。\[[28](https://plato.stanford.edu/entries/berkeley/notes.html#28)]我们需要解释伯克利所谓的“活动”是什么意思，他明确将其与因果力量等同起来。温克勒（1989，130-1）提供了这样一个解释，即活动意味着朝着一个目标的方向。但这是将有效因果关系与最终因果关系等同起来，这是一个有争议的举动，伯克利在没有评论或论证的情况下进行了这样的举动。
 
 另一种可能是假设，正如《运动论》33 所暗示的那样，伯克利认为我们通过反思意识/内在意识获得了活动的概念，以及精神作为实体的概念：
 
-> [W]e feel it [mind] as a faculty of altering both our own state and that of other things, and that is properly called vital, and puts a wide distinction between soul and bodies. (DM 33)
+> \[W]e feel it \[mind] as a faculty of altering both our own state and that of other things, and that is properly called vital, and puts a wide distinction between soul and bodies. (DM 33)
 
-根据这种解释，伯克利再次放弃了他在笔记中提出的激进的休谟主义立场，正如他在精神的本质问题上明确表明的那样。关于他的原因主要是哲学的、神学的还是实践的，我们只能进行推测。然而，伯克利的著作通常不以对权威的顺从为特征，恰恰相反，[[29](https://plato.stanford.edu/entries/berkeley/notes.html#29)]正如他自己宣称的那样：
+根据这种解释，伯克利再次放弃了他在笔记中提出的激进的休谟主义立场，正如他在精神的本质问题上明确表明的那样。关于他的原因主要是哲学的、神学的还是实践的，我们只能进行推测。然而，伯克利的著作通常不以对权威的顺从为特征，恰恰相反，\[[29](https://plato.stanford.edu/entries/berkeley/notes.html#29)]正如他自己宣称的那样：
 
 ……有一件事，我知道，我不会犯罪。我不会对任何伟大人物的袖子上寄予信任。我不会出于偏见和先入之见行事。我不会因为某个观点是旧观点、被接受的观点、时髦的观点，或者是我在研究和培养中花费了很多时间的观点而坚持不懈。（PC 465）
 
@@ -333,97 +327,97 @@ S 有力量和意愿之间的区别。可以有意愿而没有力量。但是没
 
 The standard edition of Berkeley’s works is:
 
-* Berkeley, G. (1948–1957). *The Works of George Berkeley, Bishop of Cloyne*. A.A. Luce and T.E. Jessop (eds.). London: Thomas Nelson and Sons. 9 vols.
+* Berkeley, G. (1948–1957). _The Works of George Berkeley, Bishop of Cloyne_. A.A. Luce and T.E. Jessop (eds.). London: Thomas Nelson and Sons. 9 vols.
 
 The following abbreviations are used to reference Berkeley’s works:
 
-| PC  | “Philosophical Commentaries” | *Works* 1:9–104 |
-| --- | --- | --- |
-| NTV | *An Essay Towards a New Theory of Vision* | *Works* 1:171–239 |
-| PHK | *Of the Principles of Human Knowledge: Part 1* | *Works* 2:41–113 |
-| 3D  | *Three Dialogues between Hylas and Philonous* | *Works* 2:163–263 |
-| DM  | *De Motu, or The Principle and Nature of Motion and the Cause of the Communication of Motions*, trans. A.A. Luce | *Works* 4:31–52 |
+| PC  | “Philosophical Commentaries”                                                                                     | _Works_ 1:9–104   |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ----------------- |
+| NTV | _An Essay Towards a New Theory of Vision_                                                                        | _Works_ 1:171–239 |
+| PHK | _Of the Principles of Human Knowledge: Part 1_                                                                   | _Works_ 2:41–113  |
+| 3D  | _Three Dialogues between Hylas and Philonous_                                                                    | _Works_ 2:163–263 |
+| DM  | _De Motu, or The Principle and Nature of Motion and the Cause of the Communication of Motions_, trans. A.A. Luce | _Works_ 4:31–52   |
 
 References to these works are by section numbers (or entry numbers, for PC), except for 3D, where they are by page number.
 
 Other useful editions include:
 
-* Berkeley, G. (1944). *Philosophical commentaries, generally called the Commonplace book [of] George Berkeley, bishop of Cloyne*. A.A. Luce (ed.). London: Thomas Nelson and Sons.
-* Berkeley, G. (1975). *Philosophical Works; Including the Works on Vision*. M. Ayers (ed.). London: Dent.
-* Berkeley, G. (1987). *George Berkeley’s Manuscript Introduction*. B. Belfrage (ed.). Oxford: Doxa.
-* Berkeley, G. (1992). *De Motu and The Analyst: A Modern Edition with Introductions and Commentary*. D. Jesseph (trans. and ed.). Dordrecht: Kluwer Academic Publishers.
+* Berkeley, G. (1944). _Philosophical commentaries, generally called the Commonplace book \[of] George Berkeley, bishop of Cloyne_. A.A. Luce (ed.). London: Thomas Nelson and Sons.
+* Berkeley, G. (1975). _Philosophical Works; Including the Works on Vision_. M. Ayers (ed.). London: Dent.
+* Berkeley, G. (1987). _George Berkeley’s Manuscript Introduction_. B. Belfrage (ed.). Oxford: Doxa.
+* Berkeley, G. (1992). _De Motu and The Analyst: A Modern Edition with Introductions and Commentary_. D. Jesseph (trans. and ed.). Dordrecht: Kluwer Academic Publishers.
 
 A collection, useful to students, of primary texts constituting background to Berkeley or early critical reactions to Berkeley:
 
-* McCracken, C. J. and I. C. Tipton (eds.), (2000). *Berkeley’s Principles and Dialogues: Background Source Materials*, Cambridge: Cambridge University Press.
+* McCracken, C. J. and I. C. Tipton (eds.), (2000). _Berkeley’s Principles and Dialogues: Background Source Materials_, Cambridge: Cambridge University Press.
 
 ### Bibliographical studies
 
-* Jessop, T. E. (1973). *A bibliography of George Berkeley, by T.E. Jessop. With inventory of Berkeley’s manuscript remains, by A.A. Luce*. The Hague: M. Nijhoff.
-* Turbayne, C., Ed. (1982). *Berkeley: Critical and Interpretive Essays*. Minneapolis: University of Minnesota Press. [Contains a bibliography of George Berkeley 1963–1979.]
+* Jessop, T. E. (1973). _A bibliography of George Berkeley, by T.E. Jessop. With inventory of Berkeley’s manuscript remains, by A.A. Luce_. The Hague: M. Nijhoff.
+* Turbayne, C., Ed. (1982). _Berkeley: Critical and Interpretive Essays_. Minneapolis: University of Minnesota Press. \[Contains a bibliography of George Berkeley 1963–1979.]
 
 ### References cited
 
-* Atherton, M. (1987). “Berkeley’s Anti-Abstractionism.” In *Essays on the Philosophy of George Berkeley*. E. Sosa (ed.). Dordrecht: D. Reidel, 85–102.
-* Atherton, M. (1990). *Berkeley’s Revolution in Vision*. Ithaca: Cornell University Press.
-* Atherton, M., Ed. (1994). *Women Philosophers of the Early Modern Period*. Indianapolis: Hackett.
-* Atherton, M. (1995). “Berkeley Without God.” In *Berkeley’s Metaphysics: Structural, Interpretive, and Critical Essays*. R. G. Muehlmann (ed.). University Park: Pennsylvania State University Press, 231–248.
-* Bennett, J. (1971). *Locke, Berkeley, Hume: Central Themes*. Oxford: Clarendon Press.
-* Bolton, M. B. (1987). “Berkeley’s Objection to Abstract Ideas and Unconceived Objects.” In *Essays on the Philosophy of George Berkeley*. E. Sosa (ed.). Dordrecht: D. Reidel.
-* Bracken, H. M. (1965). *The Early Reception of Berkeley’s Immaterialism 1710–1733*. The Hague: Martinus Nijhoff.
-* Campbell, J. (2002). “Berkeley’s Puzzle.” In *Conceivability and Possibility*. T. S. Gendler and J. Hawthorne (eds.). Oxford: Oxford University Press, 127–143.
-* Chappell, V. (1994). “Locke’s theory of ideas.” In *The Cambridge Companion to Locke*. V. Chappell (ed.). Cambridge: Cambridge University Press, 26–55.
-* Cummins, P. (1990). “Berkeley’s Manifest Qualities Thesis.” *Journal of the History of Philosophy*, 28: 385–401.
-* Downing, L. (2005). “Berkeley’s Natural Philosophy and Philosophy of Science.” In *The Cambridge Companion to Berkeley*. K. P. Winkler (ed.). Cambridge: Cambridge University Press.
-* Fleming, N. (1985). “The Tree in the Quad.” *American Philosophical Quarterly*, 22: 22–36.
-* Gallois, A. (1974). “Berkeley’s Master Argument.” *The Philosophical Review*, 83: 55–69.
-* Jesseph, D. (1993). *Berkeley’s Philosophy of Mathematics*. Chicago: University of Chicago Press.
-* Lennon, T. M. (1988). “Berkeley and the Ineffable.” *Synthese*, 75: 231–250.
-* Locke, J. (1975). *An Essay Concerning Human Understanding*. Oxford: Clarendon Press.
-* Luce, A. A. (1963). *The Dialectic of Immaterialism*. London: Hodder & Stoughten.
-* Malebranche, N. (1980). *The Search After Truth*. Columbus: The Ohio State University Press.
-* McCracken, C. (1979). “What *Does* Berkeley’s God See in the Quad?” *Archiv fur Geschichte der Philosophie*, 61: 280–92.
-* McCracken, C. J. (1995). “Godless Immaterialism: On Atherton’s Berkeley.” In *Berkeley’s Metaphysics: Structural, Interpretive, and Critical Essays*. R. G. Muehlmann (ed.). University Park: Pennsylvania State University Press, 249–260.
-* McKim, R. (1997–8). “Abstraction and Immaterialism: Recent Interpretations.” *Berkeley Newsletter*, 15: 1–13.
-* Muehlmann, R. G. (1992). *Berkeley’s Ontology*. Indianapolis: Hackett.
-* Nadler, S. (1998). “Doctrines of Explanation in Late Scholasticism and in the Mechanical Philosophy.” In *The Cambridge History of Seventeenth-Century Philosophy* (Volume 1). D. Garber and M. Ayers (eds.). Cambridge: Cambridge University Press, 513–552.
-* Pappas, G. S. (2000). *Berkeley’s Thought*. Ithaca: Cornell University Press.
-* Pitcher, G. (1977). *Berkeley*. London: Routledge.
-* Saidel, E. (1993). “Making Sense of Berkeley’s Challenge.” *History of Philosophy Quarterly*, 10 (4): 325–339.
-* Tipton, I. C. (1974). *Berkeley: The Philosophy of Immaterialism*. London: Methuen & Co Ltd.
-* Wilson, M. D. (1999). *Ideas and mechanism: essays on early modern philosophy*. Princeton: Princeton University Press.
-* Winkler, K. P. (1989). *Berkeley: An Interpretation*. Oxford: Clarendon Press.
-* Winkler, K. P. (2005). *The Cambridge Companion to Berkeley*. Cambridge: Cambridge University Press.
-* Yolton, J. W. (1984). *Perceptual Acquaintance from Descartes to Reid*. Minneapolis: University of Minnesota Press.
+* Atherton, M. (1987). “Berkeley’s Anti-Abstractionism.” In _Essays on the Philosophy of George Berkeley_. E. Sosa (ed.). Dordrecht: D. Reidel, 85–102.
+* Atherton, M. (1990). _Berkeley’s Revolution in Vision_. Ithaca: Cornell University Press.
+* Atherton, M., Ed. (1994). _Women Philosophers of the Early Modern Period_. Indianapolis: Hackett.
+* Atherton, M. (1995). “Berkeley Without God.” In _Berkeley’s Metaphysics: Structural, Interpretive, and Critical Essays_. R. G. Muehlmann (ed.). University Park: Pennsylvania State University Press, 231–248.
+* Bennett, J. (1971). _Locke, Berkeley, Hume: Central Themes_. Oxford: Clarendon Press.
+* Bolton, M. B. (1987). “Berkeley’s Objection to Abstract Ideas and Unconceived Objects.” In _Essays on the Philosophy of George Berkeley_. E. Sosa (ed.). Dordrecht: D. Reidel.
+* Bracken, H. M. (1965). _The Early Reception of Berkeley’s Immaterialism 1710–1733_. The Hague: Martinus Nijhoff.
+* Campbell, J. (2002). “Berkeley’s Puzzle.” In _Conceivability and Possibility_. T. S. Gendler and J. Hawthorne (eds.). Oxford: Oxford University Press, 127–143.
+* Chappell, V. (1994). “Locke’s theory of ideas.” In _The Cambridge Companion to Locke_. V. Chappell (ed.). Cambridge: Cambridge University Press, 26–55.
+* Cummins, P. (1990). “Berkeley’s Manifest Qualities Thesis.” _Journal of the History of Philosophy_, 28: 385–401.
+* Downing, L. (2005). “Berkeley’s Natural Philosophy and Philosophy of Science.” In _The Cambridge Companion to Berkeley_. K. P. Winkler (ed.). Cambridge: Cambridge University Press.
+* Fleming, N. (1985). “The Tree in the Quad.” _American Philosophical Quarterly_, 22: 22–36.
+* Gallois, A. (1974). “Berkeley’s Master Argument.” _The Philosophical Review_, 83: 55–69.
+* Jesseph, D. (1993). _Berkeley’s Philosophy of Mathematics_. Chicago: University of Chicago Press.
+* Lennon, T. M. (1988). “Berkeley and the Ineffable.” _Synthese_, 75: 231–250.
+* Locke, J. (1975). _An Essay Concerning Human Understanding_. Oxford: Clarendon Press.
+* Luce, A. A. (1963). _The Dialectic of Immaterialism_. London: Hodder & Stoughten.
+* Malebranche, N. (1980). _The Search After Truth_. Columbus: The Ohio State University Press.
+* McCracken, C. (1979). “What _Does_ Berkeley’s God See in the Quad?” _Archiv fur Geschichte der Philosophie_, 61: 280–92.
+* McCracken, C. J. (1995). “Godless Immaterialism: On Atherton’s Berkeley.” In _Berkeley’s Metaphysics: Structural, Interpretive, and Critical Essays_. R. G. Muehlmann (ed.). University Park: Pennsylvania State University Press, 249–260.
+* McKim, R. (1997–8). “Abstraction and Immaterialism: Recent Interpretations.” _Berkeley Newsletter_, 15: 1–13.
+* Muehlmann, R. G. (1992). _Berkeley’s Ontology_. Indianapolis: Hackett.
+* Nadler, S. (1998). “Doctrines of Explanation in Late Scholasticism and in the Mechanical Philosophy.” In _The Cambridge History of Seventeenth-Century Philosophy_ (Volume 1). D. Garber and M. Ayers (eds.). Cambridge: Cambridge University Press, 513–552.
+* Pappas, G. S. (2000). _Berkeley’s Thought_. Ithaca: Cornell University Press.
+* Pitcher, G. (1977). _Berkeley_. London: Routledge.
+* Saidel, E. (1993). “Making Sense of Berkeley’s Challenge.” _History of Philosophy Quarterly_, 10 (4): 325–339.
+* Tipton, I. C. (1974). _Berkeley: The Philosophy of Immaterialism_. London: Methuen & Co Ltd.
+* Wilson, M. D. (1999). _Ideas and mechanism: essays on early modern philosophy_. Princeton: Princeton University Press.
+* Winkler, K. P. (1989). _Berkeley: An Interpretation_. Oxford: Clarendon Press.
+* Winkler, K. P. (2005). _The Cambridge Companion to Berkeley_. Cambridge: Cambridge University Press.
+* Yolton, J. W. (1984). _Perceptual Acquaintance from Descartes to Reid_. Minneapolis: University of Minnesota Press.
 
 ### Additional Selected Secondary Literature
 
-* Berman, D. (1994). *George Berkeley: Idealism and the Man*. Oxford: Clarendon Press.
-* Bettcher, Talia Mae (2007). *Berkeley’s Philosophy of Spirit: Consciousness, Ontology and the Elusive Subject*. London: Continuum.
-* Creery, W. E., Ed. (1991). *George Berkeley: Critical Assessments*. London: Routledge. 3 vols.
-* Daniel, Stephen H., Ed. (2007). *Reexamining Berkeley’s Philosophy*. Toronto: University of Toronto Press.
-* Fogelin, R. J. (2001). *Berkeley and the Principles of Human Knowledge*. London: Routledge.
-* Foster, J. and H. Robinson, Eds. (1985). *Essays on Berkeley: A Tercentennial Celebration*. Oxford: Clarendon Press.
-* Roberts, John Russell (2007). *A Metaphysics for the Mob*. Oxford: Oxford University Press.
-* Stoneham, T. (2002). *Berkeley’s World*. Oxford: Oxford University Press.
-* Urmson, J. O. (1982). *Berkeley*. Oxford: Oxford University Press.
+* Berman, D. (1994). _George Berkeley: Idealism and the Man_. Oxford: Clarendon Press.
+* Bettcher, Talia Mae (2007). _Berkeley’s Philosophy of Spirit: Consciousness, Ontology and the Elusive Subject_. London: Continuum.
+* Creery, W. E., Ed. (1991). _George Berkeley: Critical Assessments_. London: Routledge. 3 vols.
+* Daniel, Stephen H., Ed. (2007). _Reexamining Berkeley’s Philosophy_. Toronto: University of Toronto Press.
+* Fogelin, R. J. (2001). _Berkeley and the Principles of Human Knowledge_. London: Routledge.
+* Foster, J. and H. Robinson, Eds. (1985). _Essays on Berkeley: A Tercentennial Celebration_. Oxford: Clarendon Press.
+* Roberts, John Russell (2007). _A Metaphysics for the Mob_. Oxford: Oxford University Press.
+* Stoneham, T. (2002). _Berkeley’s World_. Oxford: Oxford University Press.
+* Urmson, J. O. (1982). _Berkeley_. Oxford: Oxford University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=berkeley). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/berkeley/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=berkeley&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/berkeley/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=berkeley).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/berkeley/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=berkeley\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/berkeley/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [International Berkeley Society](https://internationalberkeleysociety.org/)
-* [George Berkeley](http://www.maths.tcd.ie/~dwilkins/Berkeley/), maintained by David R. Wilkins, School of Mathematics, Trinity College, Dublin (especially useful on the Analyst controversy, but good general information also).
+* [George Berkeley](http://www.maths.tcd.ie/\~dwilkins/Berkeley/), maintained by David R. Wilkins, School of Mathematics, Trinity College, Dublin (especially useful on the Analyst controversy, but good general information also).
 
 ## Related Entries
 
-[Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/)
+[Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/)
 
-[Copyright © 2011](https://plato.stanford.edu/info.html#c) by  
-[Lisa Downing](https://philosophy.osu.edu/people/downing.110) <[*downing.110@osu.edu*](mailto:downing%2e110%40osu%2eedu)>
+[Copyright © 2011](https://plato.stanford.edu/info.html#c) by\
+[Lisa Downing](https://philosophy.osu.edu/people/downing.110) <[_downing.110@osu.edu_](mailto:downing%2e110%40osu%2eedu)>

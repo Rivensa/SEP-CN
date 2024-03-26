@@ -1,14 +1,14 @@
 # 以赛亚·伯林 Berlin, Isaiah (Joshua Cherniss and Henry Hardy)
 
-*首次发表于 2004 年 10 月 26 日；实质性修订于 2022 年 2 月 12 日*
+_首次发表于 2004 年 10 月 26 日；实质性修订于 2022 年 2 月 12 日_
 
 ![Photo of Isaiah Berlin](https://plato.stanford.edu/entries/berlin/berlin.png)
 
-*艾萨亚·柏林，1968 年 7 月 18 日*
+_艾萨亚·柏林，1968 年 7 月 18 日_
 
-*摄影：Helen Muspratt, Ramsey 和 Muspratt*
+_摄影：Helen Muspratt, Ramsey 和 Muspratt_
 
-*© The Trustees of the Isaiah Berlin Literary Trust*
+_© The Trustees of the Isaiah Berlin Literary Trust_
 
 以赛亚·伯林（1909-1997）是一位入籍英国的哲学家、思想史学家、政治理论家、教育家、公共知识分子和道德家，也是一位散文家。他以富有对话才华、捍卫自由主义和多元主义、反对政治极端主义和知识狂热主义，以及对人和思想进行通俗而犀利的写作而闻名。他的论文《自由的两个概念》（1958 年）对英语世界政治理论的复兴做出了贡献，并且仍然是该领域中最有影响力和广泛讨论的文本之一：赞赏者和批评者一致认为，伯林对积极自由和消极自由的区分，无论好坏，都是讨论政治自由的意义和价值的基本起点。在他的晚年，他的众多论文更加易得，引起了对他的工作的日益关注，特别是对价值多元主义的理念；伯林对价值多元主义的阐述存在许多模糊和甚至晦涩之处，这只是鼓励其他哲学家进一步研究这一丰富而重要主题的工作。
 
@@ -30,9 +30,7 @@
 * [5.2 自由与多元主义](https://plato.stanford.edu/entries/berlin/#LibePlur)
 * [5.3 民族主义](https://plato.stanford.edu/entries/berlin/#Nati)
 * [5.4 政治判断和领导](https://plato.stanford.edu/entries/berlin/#PoliJudgLead)
-
 * [5.4 Political Ethics: Ends, Means, Violence](https://plato.stanford.edu/entries/berlin/#PoliEthiEndsMeanViol)
-
 * [6. 结论](https://plato.stanford.edu/entries/berlin/#Conc)
 * [参考文献](https://plato.stanford.edu/entries/berlin/#Bib)
 * [A. 以赛亚·伯林的著作](https://plato.stanford.edu/entries/berlin/#WorkBerl)
@@ -42,7 +40,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/berlin/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/berlin/#Rel)
 
----
+***
 
 ## 1. 生平
 
@@ -70,17 +68,17 @@
 
 ### 2.1 哲学的概念
 
-伯林对哲学的概念受到他早期接触和拒绝唯心主义和逻辑实证主义的影响。[[1](https://plato.stanford.edu/entries/berlin/notes.html#note-1)] 他将前者与过分崇高的观点联系在一起，认为哲学是“科学之后的女王”，能够建立起基本的、必然的、绝对的、普遍的真理。他将后者与哲学的还原主义和贬低观点联系在一起，最多只能作为科学的侍女，最糟糕的情况下是科学迷惑和轻信所导致的智力不成熟的标志。
+伯林对哲学的概念受到他早期接触和拒绝唯心主义和逻辑实证主义的影响。\[[1](https://plato.stanford.edu/entries/berlin/notes.html#note-1)] 他将前者与过分崇高的观点联系在一起，认为哲学是“科学之后的女王”，能够建立起基本的、必然的、绝对的、普遍的真理。他将后者与哲学的还原主义和贬低观点联系在一起，最多只能作为科学的侍女，最糟糕的情况下是科学迷惑和轻信所导致的智力不成熟的标志。
 
 伯林的方法将怀疑的经验主义与新康德主义相结合，为哲学提供了一种辩护。与维科和威廉·迪尔泰以及海因里希·里克特和威廉·温德尔班德等新康德主义者一样，伯林坚持科学与人文之间的根本区别。他将哲学归类为人文学科，但即使在那里，它的地位也是独特的。在其他领域工作的人致力于发现获得所研究对象知识的权威方法。然而，对于伯林来说，哲学关注的是那些不仅目前无法回答的问题，而且没有明确适当的发现答案的方法（例如，参见 1978b 和 2000a 年的《哲学的目的》）。
 
 对于非哲学问题，即使答案未知，大多数人也知道或接受发现答案的方法。因此，经验事实的问题可以通过观察来回答。其他问题可以通过推理来回答，通过参考已建立的规则：例如，数学、语法和形式逻辑就是这种情况。例如，即使我们不知道一个困难的数学问题的解决方法，我们知道应该使用哪些规则和技巧来找到答案。
 
-根据伯林的观点，哲学关注的是一类特殊而独特的问题。对于这些问题，不仅答案未知，而且找到答案的方法和评价提出的答案的标准也未知。因此，“从*x*到*y*需要多长时间？”或“729 的立方根是多少？”这些问题不是哲学问题；而“时间是什么？”或“数字是什么？”则是哲学问题。“人类生活的目的是什么？”或“所有人类是否都是兄弟？”是哲学问题，而“大多数某一群人是否认为彼此是兄弟？”或“路德认为生活的目的是什么？”则不是。
+根据伯林的观点，哲学关注的是一类特殊而独特的问题。对于这些问题，不仅答案未知，而且找到答案的方法和评价提出的答案的标准也未知。因此，“从_x_到_y_需要多长时间？”或“729 的立方根是多少？”这些问题不是哲学问题；而“时间是什么？”或“数字是什么？”则是哲学问题。“人类生活的目的是什么？”或“所有人类是否都是兄弟？”是哲学问题，而“大多数某一群人是否认为彼此是兄弟？”或“路德认为生活的目的是什么？”则不是。
 
 伯林将这一观点与康德对事实和我们用来理解事实的概念结构和范畴之间的区分联系起来。哲学关注的是我们试图理解经验所引发的问题，涉及到通过经验感知、组织和解释的概念和范畴的考虑。
 
-康德认为这些组织范畴是固定和普遍的，而伯林则认为它们在不同程度上是变化的、短暂的或可塑的。"理论上，我们所有的范畴都是可以改变的"（2002b，144，注 1）。没有哪个范畴是完全先于经验的，或者独立于经验的，尽管在实践中，其中一些范畴在实用上是固定的，无论是由世界还是由我们的心智或两者共同决定。我们理解世界的观念与我们的经验密切相关：它们塑造着那些经验，并受到它们的塑造，随着经验在不同的时间和地点发生变化，基本概念也会发生变化。[[2](https://plato.stanford.edu/entries/berlin/notes.html#note-2)] 对人类经验的基本概念和范畴的认识与获得经验信息和演绎推理是不同的，因为这些范畴在逻辑上先于并被两者预设。
+康德认为这些组织范畴是固定和普遍的，而伯林则认为它们在不同程度上是变化的、短暂的或可塑的。"理论上，我们所有的范畴都是可以改变的"（2002b，144，注 1）。没有哪个范畴是完全先于经验的，或者独立于经验的，尽管在实践中，其中一些范畴在实用上是固定的，无论是由世界还是由我们的心智或两者共同决定。我们理解世界的观念与我们的经验密切相关：它们塑造着那些经验，并受到它们的塑造，随着经验在不同的时间和地点发生变化，基本概念也会发生变化。\[[2](https://plato.stanford.edu/entries/berlin/notes.html#note-2)] 对人类经验的基本概念和范畴的认识与获得经验信息和演绎推理是不同的，因为这些范畴在逻辑上先于并被两者预设。
 
 因此，哲学是研究我们观察世界的"思维眼镜"，由于至少其中一些随时间而变化，至少一些哲学必然是历史性的。由于这些范畴对我们的经验的每个方面都非常重要，哲学——即使它总是试探性的，而且常常显得抽象和深奥——也是一项至关重要的活动，它回应了人类对描述和解释经验世界的重要而无法消除的需求。
 
@@ -106,15 +104,15 @@
 
 最明显的是，人文学科研究的是人类为自己创造并居住的世界，而科学研究的是自然的物质世界。为什么这会对它们的研究方式产生影响呢？一个答案是，这两个世界本质上是不同的。但伯林更倾向于这样的观点：由于观察者或思考者与研究对象之间的关系不同，人文和自然世界必须以不同的方式进行研究。我们从外部研究自然，从内部研究文化。在人文学科中，学者自己的思维方式、生活的结构，以及他们的每一个经历都是研究对象的一部分。而科学研究的目标是客观而冷静地理解自然。科学家必须尽可能少地假设，当假设与硬证据相悖时，他们更倾向于选择硬证据而不是“常识”。但在人文学科中，我们不能以这种方式行事：要研究人类生活，就必须从我们对其他人类的理解出发，了解人类的动机和感受。这种理解是基于我们自己的经验的，而我们的经验又必然涉及某些“常识”假设，我们用这些假设将经验归入可解释和可理解的模式中。这些模式可能更或少准确；我们可以通过观察它们与我们所知的经验相符合程度来判断它们的准确性。但我们无法完全摆脱这些模式背后的假设。（当然，人类世界本身也可以成为科学研究的合法对象，但只能是不完全的，通过将其与其他特征分离开来。参见注 7。）
 
-伯林认为，人文学科与科学的另一个不同之处在于前者关注人类生活的具体细节本身，而科学则试图建立能够解释整个现象类别的普遍规律。科学关注类型，人文学科关注个体。科学家专注于相似之处并寻找规律性；至少一些人文学科的从业者，尤其是历史学家，对差异感兴趣。成为一名优秀的历史学家需要对特定事件、人物或情境本身有“集中的兴趣，而不是作为一般化的实例”（1978b，180）。人文学科不应该像科学一样追求解释或预测人类行为的法则，而应该关注理解每一个独特的人类现象。在科学中，我们认为相信一般规律比特定现象更合理；而在人文学科中，情况恰恰相反。如果有人声称目击到与科学已经确立的法则相矛盾的现象，我们会寻求一个解释，将这种感知与科学相协调；如果找不到解释，我们可能会得出目击者被欺骗的结论。但在历史学中，我们通常不这样做：我们观察特定现象，并试图解释它们本身。[6] 伯林声称，“违背现实的方式有很多种”。对于“没有好的逻辑或经验理由，违背已经确立的假设和法则”，这是不科学的。但另一方面，在历史学中，“为了符合其他领域的法则、理论、原则（逻辑、伦理、形而上学、科学），而忽视或扭曲对特定事件、人物、困境的看法，这是不符合历史学性质的”（1978b，185）。
+伯林认为，人文学科与科学的另一个不同之处在于前者关注人类生活的具体细节本身，而科学则试图建立能够解释整个现象类别的普遍规律。科学关注类型，人文学科关注个体。科学家专注于相似之处并寻找规律性；至少一些人文学科的从业者，尤其是历史学家，对差异感兴趣。成为一名优秀的历史学家需要对特定事件、人物或情境本身有“集中的兴趣，而不是作为一般化的实例”（1978b，180）。人文学科不应该像科学一样追求解释或预测人类行为的法则，而应该关注理解每一个独特的人类现象。在科学中，我们认为相信一般规律比特定现象更合理；而在人文学科中，情况恰恰相反。如果有人声称目击到与科学已经确立的法则相矛盾的现象，我们会寻求一个解释，将这种感知与科学相协调；如果找不到解释，我们可能会得出目击者被欺骗的结论。但在历史学中，我们通常不这样做：我们观察特定现象，并试图解释它们本身。\[6] 伯林声称，“违背现实的方式有很多种”。对于“没有好的逻辑或经验理由，违背已经确立的假设和法则”，这是不科学的。但另一方面，在历史学中，“为了符合其他领域的法则、理论、原则（逻辑、伦理、形而上学、科学），而忽视或扭曲对特定事件、人物、困境的看法，这是不符合历史学性质的”（1978b，185）。
 
 伯林强调了对历史观念的“单向”流动的重要性（见前文，144 页）。这种历史现实感使得像在成吉思汗的宫廷中写作《哈姆雷特》这样的说法不仅不准确，而且荒谬可笑（见前文，142 页，175 页）。历史感涉及的不是对发生了什么的了解 - 这是通过经验手段获得的 - 而是对解释人类行为的可信和不可信、连贯和不连贯的感觉（1978b，183 页）。对于这种知识，没有先验的捷径。历史思维更像是常识的运作，涉及将各种逻辑上独立的概念和命题编织在一起，并尽力将它们应用于特定情境，而不是像应用法律或公式那样。能够做到这一点是一种技巧 - 判断力，或者说是对现实的感知（1978b，152 页）。
 
-对历史的理解基于对人类的了解，这是通过直接经验获得的，不仅仅包括内省，还包括与他人的互动。这是“Verstehen”或想象理解的基础：将某种行为视为一种活动模式的一部分，我们可以跟随这种模式，[...] 并且我们用无法全部明确（更不用说组织成系统）的一般规律来描述这种模式，但如果没有这些规律，正常的人类生活（社会或个人）的纹理是无法想象的（1978b，168 页）。历史的挑战在于个体需要超越自己的经验，这是他们理解人类行为的基础。我们必须重构过去，不仅仅是根据我们自己的概念和范畴，而是根据过去事件对参与其中的人来说是什么样子。因此，历史实践需要了解他人的意识是什么样的，了解与我们自己不同的情境，通过“将自己想象投射到过去”来“捕捉到与调查者不同的概念和范畴，这些概念和范畴不可避免地是他自己的。[...] 没有超越物理学家所需的同理心和想象力，就没有对过去或现在的视野，对他人或对我们自己的视野”（1978b，177-8 页）。历史的重建和解释涉及“进入”他人的动机、原则、思想和感情；它基于对知道某人的性格或面容的能力（1978b，173-5 页）。
+对历史的理解基于对人类的了解，这是通过直接经验获得的，不仅仅包括内省，还包括与他人的互动。这是“Verstehen”或想象理解的基础：将某种行为视为一种活动模式的一部分，我们可以跟随这种模式，\[...] 并且我们用无法全部明确（更不用说组织成系统）的一般规律来描述这种模式，但如果没有这些规律，正常的人类生活（社会或个人）的纹理是无法想象的（1978b，168 页）。历史的挑战在于个体需要超越自己的经验，这是他们理解人类行为的基础。我们必须重构过去，不仅仅是根据我们自己的概念和范畴，而是根据过去事件对参与其中的人来说是什么样子。因此，历史实践需要了解他人的意识是什么样的，了解与我们自己不同的情境，通过“将自己想象投射到过去”来“捕捉到与调查者不同的概念和范畴，这些概念和范畴不可避免地是他自己的。\[...] 没有超越物理学家所需的同理心和想象力，就没有对过去或现在的视野，对他人或对我们自己的视野”（1978b，177-8 页）。历史的重建和解释涉及“进入”他人的动机、原则、思想和感情；它基于对知道某人的性格或面容的能力（1978b，173-5 页）。
 
 ### 2.4 自由意志与决定论
 
-伯林试图描绘的历史理解方式与道德和美学分析有关。它将人类视为不仅仅是空间中的有机体，而是“积极的存在，追求目标，塑造自己和他人的生活，感受、反思、想象、创造，与其他人不断互动和交流；简而言之，参与我们理解的各种经历，因为我们与之共享，而不仅仅是外部观察者”（1978b，173-4）。对于伯林来说，历史哲学不仅与认识论有关，也与伦理学有关。他在有关历史与科学关系的著作中最著名且最具争议的方面是他对自由意志和决定论问题的讨论，这使他的著作具有明显的道德色彩。[7]在《历史的必然性》中，伯林对决定论（即人类没有自由意志，他们的行为甚至思想都是由超出他们控制范围的客观力量所决定）和历史的必然性（即历史中发生的一切都是必然的，历史追求一条无法改变的特定道路，并且可以通过历史发展的法则来发现、理解和描述）进行了彻底的质疑。
+伯林试图描绘的历史理解方式与道德和美学分析有关。它将人类视为不仅仅是空间中的有机体，而是“积极的存在，追求目标，塑造自己和他人的生活，感受、反思、想象、创造，与其他人不断互动和交流；简而言之，参与我们理解的各种经历，因为我们与之共享，而不仅仅是外部观察者”（1978b，173-4）。对于伯林来说，历史哲学不仅与认识论有关，也与伦理学有关。他在有关历史与科学关系的著作中最著名且最具争议的方面是他对自由意志和决定论问题的讨论，这使他的著作具有明显的道德色彩。\[7]在《历史的必然性》中，伯林对决定论（即人类没有自由意志，他们的行为甚至思想都是由超出他们控制范围的客观力量所决定）和历史的必然性（即历史中发生的一切都是必然的，历史追求一条无法改变的特定道路，并且可以通过历史发展的法则来发现、理解和描述）进行了彻底的质疑。
 
 伯林并未断言决定论是错误的，而是认为接受决定论需要对我们用来思考人类生活的语言和概念进行彻底的转变，尤其是拒绝个体道德责任的观念。赞扬或责备个人，要求我们假设他们对自己的行为有一定的控制能力，并且本可以做出不同选择。如果个体完全受不可改变的力量所决定，那么对他们的行为进行赞扬或责备就没有任何意义，就像责怪某人生病一样，或者赞扬某人遵守重力定律一样没有意义。事实上，伯林进一步提出，接受决定论（即完全放弃人类自由意志的概念）将导致我们所知的所有有意义的理性活动的崩溃。
 
@@ -124,7 +122,7 @@
 
 这里的“自由”指的是自由意志这一核心重要概念。我们无法避免将人类行为视为因果不确定和自由选择的。我们拥有自由意志并非科学假设，而是我们对人性的经验的先决条件，放弃这一观念将使我们的世界观崩溃。（这是否意味着决定论是错误的是另一个问题，伯林并未完全面对这个问题；我们在这里也不深入探讨。）
 
-伯林还坚持认为，对历史必然性的信仰是受心理需求的启发，而非已知事实所要求；并且它具有危险的道德和政治后果，为历史的“失败者”辩护，正当化苦难，破坏对他们的尊重。对历史必然性的信仰成为逃避责任和指责的“托辞”，成为以必要性或理性的名义犯下暴行的借口。它既为行为不端提供了借口，也为不采取行动提供了借口。[8]
+伯林还坚持认为，对历史必然性的信仰是受心理需求的启发，而非已知事实所要求；并且它具有危险的道德和政治后果，为历史的“失败者”辩护，正当化苦难，破坏对他们的尊重。对历史必然性的信仰成为逃避责任和指责的“托辞”，成为以必要性或理性的名义犯下暴行的借口。它既为行为不端提供了借口，也为不采取行动提供了借口。\[8]
 
 伯林坚持自由意志的重要性，以及一贯和彻底的决定论与我们作为人类的基本感知和经验的不相容，与他的自由主义和多元主义紧密相连，强调个体选择的重要性、必要性和尊严。这种坚持使他卷入了与其他哲学家和历史学家的一系列辩论，这在 20 世纪 50 年代和 60 年代初在英语世界引发了大量关于历史哲学的写作，否则可能会停滞不前。
 
@@ -138,9 +136,9 @@
 
 伯林在他的作品中发展和完善的思想史叙述从启蒙时代开始，重点关注对他认为是当时主导假设的最初反叛。
 
-在伯林的描述中，启蒙思想家们认为人类天生要么善良要么可塑。这在启蒙思想中造成了一种紧张关系，一方面认为自然决定了人类的目标，另一方面认为自然提供了更或多或少中立的材料，可以通过有意识的人类干预（教育、立法、奖惩、整个社会机构）来理性和善意地塑造（最终是同一件事）[[11](https://plato.stanford.edu/entries/berlin/notes.html#note-11)]。伯林还将启蒙思想归因于以下信念：所有人类问题，无论是知识问题还是伦理问题，都可以通过发现和应用适当的方法（通常是理性，其概念基于科学方法，特别是牛顿物理学的方法）来解决；真正的人类善和利益最终是相容的，因此冲突和邪恶是无知、误解、欺骗和压迫腐败当局（特别是教会）的结果[[12](https://plato.stanford.edu/entries/berlin/notes.html#note-12)]。
+在伯林的描述中，启蒙思想家们认为人类天生要么善良要么可塑。这在启蒙思想中造成了一种紧张关系，一方面认为自然决定了人类的目标，另一方面认为自然提供了更或多或少中立的材料，可以通过有意识的人类干预（教育、立法、奖惩、整个社会机构）来理性和善意地塑造（最终是同一件事）\[[11](https://plato.stanford.edu/entries/berlin/notes.html#note-11)]。伯林还将启蒙思想归因于以下信念：所有人类问题，无论是知识问题还是伦理问题，都可以通过发现和应用适当的方法（通常是理性，其概念基于科学方法，特别是牛顿物理学的方法）来解决；真正的人类善和利益最终是相容的，因此冲突和邪恶是无知、误解、欺骗和压迫腐败当局（特别是教会）的结果\[[12](https://plato.stanford.edu/entries/berlin/notes.html#note-12)]。
 
-伯林认为，在法国大革命之前不久开始出现并在其期间和之后逐渐占主导地位的思想流派（或学派），与启蒙思想存在深刻的对立。他最感兴趣的是德国浪漫主义，但也研究了其他被他称为“反启蒙思想”的更大倾向的成员[[13](https://plato.stanford.edu/entries/berlin/notes.html#note-13)]。伯林的描述有时侧重于民族主义者和反动派对启蒙思想的善意和乐观自由主义的攻击；有时侧重于文化特殊主义和多元主义的文化普遍主义的拒绝；有时侧重于自然主义和科学主义的批判，这些思想家主张将社会视为本质上是动态的，不是由自然法则塑造，而是由历史的非法、无目的的偶然性塑造。
+伯林认为，在法国大革命之前不久开始出现并在其期间和之后逐渐占主导地位的思想流派（或学派），与启蒙思想存在深刻的对立。他最感兴趣的是德国浪漫主义，但也研究了其他被他称为“反启蒙思想”的更大倾向的成员\[[13](https://plato.stanford.edu/entries/berlin/notes.html#note-13)]。伯林的描述有时侧重于民族主义者和反动派对启蒙思想的善意和乐观自由主义的攻击；有时侧重于文化特殊主义和多元主义的文化普遍主义的拒绝；有时侧重于自然主义和科学主义的批判，这些思想家主张将社会视为本质上是动态的，不是由自然法则塑造，而是由历史的非法、无目的的偶然性塑造。
 
 伯林既被视为启蒙思想的拥护者，对其批评者表现出一种迷恋（无论是古怪还是令人钦佩）；又被视为启蒙思想的批评者，甚至是对其敌人的坦率赞赏者。这两种观点都有一定的道理，但都不能完全反映伯林观点的复杂性。伯林钦佩启蒙思想家中的许多人，并明确将自己视为“站在他们这一边”（Jahanbegloo 1992, 70）；他认为他们所取得的许多成就都是好的；作为一位经验主义者，他将他们视为自己所属的哲学传统的一部分。但他也认为他们在社会、道德和政治的一些最重要问题上是错误的，有时甚至是危险的。他认为他们的心理和历史视野肤浅、过于统一和天真；他追溯到启蒙思想一种技术专家、管理者对人类和政治问题的看法，这与他深深地对立，并且在 1940 年代末和 1950 年代初，他将其视为世界面临的最严重的危险之一。
 
@@ -170,11 +168,11 @@
 2. 必须有一条可靠的路径来发现一个问题的真正答案，这个答案原则上是可以知道的，即使目前还不知道。
 3. 当找到真正的答案时，它们将彼此兼容，形成一个整体；因为一个真理不能与另一个真理不兼容。（这又基于宇宙是和谐和连贯的假设。）
 
-我们已经看到伯林否认了这些假设中的前两个是真实的。在他的伦理多元主义中，他进一步推翻了这些否定，并强烈否认了第三个假设。根据伯林的多元主义，真正的价值是多样的。它们可能会相互冲突。当两个或更多的价值观发生冲突时，这并不是因为其中一个被误解了；也不能事先说，任何一个价值观总是比另一个更重要。自由可能与平等或公共秩序相冲突；仁慈可能与正义相冲突；爱可能与公正和公平相冲突；社会和道德承诺可能与对真理或美的无私追求相冲突（后两个价值观，与基茨相反，可能本身是不兼容的）；知识可能与幸福相冲突；自发性和自由奔放可能与可靠性和责任相冲突。价值观的冲突是“人类生活中固有的、不可移除的元素”；“总体人类满足的概念是一个[...]幻想”。“这些价值观的冲突是它们和我们的本质的本质”；一个解决了这种冲突的世界不是我们所知道或理解的世界（2002b，213；1990，13）。
+我们已经看到伯林否认了这些假设中的前两个是真实的。在他的伦理多元主义中，他进一步推翻了这些否定，并强烈否认了第三个假设。根据伯林的多元主义，真正的价值是多样的。它们可能会相互冲突。当两个或更多的价值观发生冲突时，这并不是因为其中一个被误解了；也不能事先说，任何一个价值观总是比另一个更重要。自由可能与平等或公共秩序相冲突；仁慈可能与正义相冲突；爱可能与公正和公平相冲突；社会和道德承诺可能与对真理或美的无私追求相冲突（后两个价值观，与基茨相反，可能本身是不兼容的）；知识可能与幸福相冲突；自发性和自由奔放可能与可靠性和责任相冲突。价值观的冲突是“人类生活中固有的、不可移除的元素”；“总体人类满足的概念是一个\[...]幻想”。“这些价值观的冲突是它们和我们的本质的本质”；一个解决了这种冲突的世界不是我们所知道或理解的世界（2002b，213；1990，13）。
 
 伯林进一步断言，价值观可能不仅不相容，而且不可比较。对于他所指的不可比较性，存在着相当大的争议，以及他对不可比较性的理解是否正确或连贯。在谈到价值观的不可比较性时，伯林似乎是指没有共同的度量标准，没有“共同货币”，可以在抽象层面上确定任何两个价值观的相对重要性。因此，伦理学的多元主义的一个基本含义是，对伦理问题采取数量化的方法（如功利主义所设想的方法）是不可能的。除了否认存在用于比较的共同货币或统治原则（如功利主义原则）之外，价值不可比较性还认为，没有一般性的程序来解决价值冲突 - 例如，没有一个价值观总是优先于另一个的词汇优先规则。
 
-伯林基于经验事实提出了这些断言 - 基于“我们在日常经验中遇到的世界”，在这个世界中，“我们面临着同样终极目标的选择和同样绝对的要求[[16](https://plato.stanford.edu/entries/berlin/notes.html#note-16)]，其中实现其中一些目标必然涉及牺牲其他目标”（2002b，213-14）。然而，他还认为，多元主义的教义反映了关于人类道德生活的本质和其价值观的逻辑必然性真理，而不是偶然性真理。完美整体或最终解决方案的概念不仅在实践中无法实现，而且在概念上是不连贯的。要避免或克服价值观之间的冲突，就必须对这些价值观进行转变，这等于放弃了这些价值观本身。这个逻辑观点是否对上述最后一段引文中关于人类目标的经验观点增加了重要内容并不清楚，但我们在这里不追究这个疑问。
+伯林基于经验事实提出了这些断言 - 基于“我们在日常经验中遇到的世界”，在这个世界中，“我们面临着同样终极目标的选择和同样绝对的要求\[[16](https://plato.stanford.edu/entries/berlin/notes.html#note-16)]，其中实现其中一些目标必然涉及牺牲其他目标”（2002b，213-14）。然而，他还认为，多元主义的教义反映了关于人类道德生活的本质和其价值观的逻辑必然性真理，而不是偶然性真理。完美整体或最终解决方案的概念不仅在实践中无法实现，而且在概念上是不连贯的。要避免或克服价值观之间的冲突，就必须对这些价值观进行转变，这等于放弃了这些价值观本身。这个逻辑观点是否对上述最后一段引文中关于人类目标的经验观点增加了重要内容并不清楚，但我们在这里不追究这个疑问。
 
 伯林的多元主义并不是独立存在的：它受到其他信念和承诺的修正和指导。其中之一是自由主义，另一个是人文主义 - 即人类是首要重要的观点，并且避免对人类造成伤害是第一道德优先事项（Aarsbergen-Ligtvoet 2006; Cherniss and Hardy 2018）。因此，伯林认为，在处理冲突的价值观时，“第一个公共义务是避免极端的痛苦。”他坚持认为，即使冲突是不可避免的，也可以减轻冲突，平衡要求，达成妥协。目标应该是维持一种“不稳定的平衡”，尽可能避免“绝望的局面”和“无法容忍的选择”。哲学本身不能告诉我们如何做到这一点，尽管它可以通过揭示道德冲突及其所有含义，并淘汰错误的解决方案来提供帮助。但在处理价值观冲突时，“具体情况几乎是一切”（1990，18-19）。
 
@@ -194,13 +192,13 @@
 
 伯林早期的论文《一些普罗克鲁斯塔斯》（1930 年）中可以找到价值多元主义的一些元素，这篇论文是他在牛津大学本科期间发表的。这篇论文借鉴了亚里士多德的思想，重点关注文学和文化批评，而不是哲学本身，主张认识论和方法论的多元主义，而非伦理学的多元主义。伯林批评了对于一种能够作为理解所有经验的万能钥匙的信仰和追求。他坚持认为，相反地，不同的标准、价值观和研究方法适用于不同的活动、学科和生活方面。从中可以看出他后来关于科学和人文学科之间的差异、对系统性解释方案的批判以及他的价值多元主义的萌芽；但是这些想法都有待进一步发展和应用。
 
-伯林进一步倾向于多元主义，是因为他发现尼古拉斯·马勒布朗奇（Nicolas Malebranche）提出了简单和善良不相容的观点（1680 年，例如 116-17，128-30）；当时这个观点让他感到“奇怪而有趣！”，但它一直留在他心中，他逐渐确信这是一个核心而富有启示性的真理（2004 年，72 页）[[17](https://plato.stanford.edu/entries/berlin/notes.html#note-17)]。伯林在他的马克思传记中阐述了他后来称之为唯一主义的基本观点（1939 年，37 页），但并没有明确批评它或提出一个多元主义的替代方案，尽管他在上世纪 30 年代末写的演讲《功利主义》（1937b）中包含了一个预示他后来主张价值不可比较的论点。多元主义的基本要点以及伯林将其与自由主义联系起来的思想，在伯林为他的演讲《民主、共产主义和个人》（1949 年）所做的笔记中以简略、电报式的形式显现出来，而多元主义也在《历史的必然性》（1954 年）中以旁敲侧击的方式提出（详见 2000b，151 页）。伯林在 1955 年将多元主义和唯一主义称为对生活的基本、相互冲突的态度（伯林等人，1955 年，504 页）。但是，直到《自由的两个概念》（1958 年），他对这个术语的使用和对这个概念的阐释似乎还没有完全结合在一起（即使在该论文的初稿中，他对多元主义的阐述也是不完整的）。
+伯林进一步倾向于多元主义，是因为他发现尼古拉斯·马勒布朗奇（Nicolas Malebranche）提出了简单和善良不相容的观点（1680 年，例如 116-17，128-30）；当时这个观点让他感到“奇怪而有趣！”，但它一直留在他心中，他逐渐确信这是一个核心而富有启示性的真理（2004 年，72 页）\[[17](https://plato.stanford.edu/entries/berlin/notes.html#note-17)]。伯林在他的马克思传记中阐述了他后来称之为唯一主义的基本观点（1939 年，37 页），但并没有明确批评它或提出一个多元主义的替代方案，尽管他在上世纪 30 年代末写的演讲《功利主义》（1937b）中包含了一个预示他后来主张价值不可比较的论点。多元主义的基本要点以及伯林将其与自由主义联系起来的思想，在伯林为他的演讲《民主、共产主义和个人》（1949 年）所做的笔记中以简略、电报式的形式显现出来，而多元主义也在《历史的必然性》（1954 年）中以旁敲侧击的方式提出（详见 2000b，151 页）。伯林在 1955 年将多元主义和唯一主义称为对生活的基本、相互冲突的态度（伯林等人，1955 年，504 页）。但是，直到《自由的两个概念》（1958 年），他对这个术语的使用和对这个概念的阐释似乎还没有完全结合在一起（即使在该论文的初稿中，他对多元主义的阐述也是不完整的）。
 
 此后，伯林对多元主义的描述在他关于浪漫主义的著作中不断变化。在他晚年回顾自己的职业生涯，并试图传达他认为最重要的哲学洞见时，伯林越来越致力于明确阐述和完善多元主义作为一种伦理学理论。他在 1968 年的一封私人信件中提到“冲突目标的不可避免性”（Ignatieff 1998, 246）是他唯一真正的发现。他在 1988 年接受阿涅利奖时发表的演讲《追求理想》中，专门解释了多元主义的含义，这仍然是对多元主义最雄辩和集中的总结。伯林还在从 1970 年代开始的许多采访和与其他学者的印刷交流中讨论了多元主义，试图通过解决他的思想引发的冲突、争议和困惑。但是，其中许多问题仍然无法解决，并且继续在对他的工作的讨论中占据重要地位，有时甚至主导着这些讨论。
 
 ### 4.4 伯林之后的价值多元主义：一些争议
 
-自 1990 年代以来，多元主义已成为伯林思想中最广泛和激烈争议的观点。这部分是由于伯林的工作，部分是由于后来的哲学家，他们作为伯林的追随者或盟友，或者独立地阐述和推进了价值多元主义或类似的立场。[[18](https://plato.stanford.edu/entries/berlin/notes.html#note-18)] 尽管多元主义在伯林晚年的作品解读中取得了目前的突出地位，但早期就有一些有远见的读者将其视为他思想的关键组成部分。其中两位读者提出了至今仍然是对伯林多元主义最常见的批评之一：它与相对主义无法区分（Strauss 1961; Momigliano 1976; 另请参阅 MacCallum 1967a 和 Kocis 1989 以获取其他早期批评）。[[19](https://plato.stanford.edu/entries/berlin/notes.html#note-19)]
+自 1990 年代以来，多元主义已成为伯林思想中最广泛和激烈争议的观点。这部分是由于伯林的工作，部分是由于后来的哲学家，他们作为伯林的追随者或盟友，或者独立地阐述和推进了价值多元主义或类似的立场。\[[18](https://plato.stanford.edu/entries/berlin/notes.html#note-18)] 尽管多元主义在伯林晚年的作品解读中取得了目前的突出地位，但早期就有一些有远见的读者将其视为他思想的关键组成部分。其中两位读者提出了至今仍然是对伯林多元主义最常见的批评之一：它与相对主义无法区分（Strauss 1961; Momigliano 1976; 另请参阅 MacCallum 1967a 和 Kocis 1989 以获取其他早期批评）。\[[19](https://plato.stanford.edu/entries/berlin/notes.html#note-19)]
 
 一个困扰辩论的问题是对相关术语的定义缺乏足够的清晰度和准确性。当然，伯林和其他人对多元主义进行了多次定义（重复并不总是为了澄清目的）。然而，在这些讨论中，“相对主义”这个术语通常没有得到充分分析。多元主义是否可以与相对主义区分开来，在很大程度上取决于相对主义的定义方式，以及对多元主义中某些模糊或有争议的组成部分的处理方式。还应该注意的是，价值观是否多元是逻辑上与它们是否客观的问题是不同的，尽管在这个主题的文献中经常混淆这两个话题。
 
@@ -222,9 +220,9 @@
 
 一个相关的问题涉及道德思考中理性的作用。如果价值观是不可比较的，那么在冲突的价值观之间的所有选择最终都必须是主观的或非理性的吗？如果是这样，多元主义与激进相对主义和主观主义有何不同？如果不是这样，道德推理究竟是如何运作的？当在进行这种思考时，我们如何在没有可以用于进行这种思考的系统或度量单位的情况下理性地做出价值选择？对于最后一个问题的一个可能答案是提供一个关于实践、情境推理的解释，这种推理不是定量的或基于规则的，而是依靠上述提到的道德感。这正是伯林所建议的；但是，他并没有对非系统性理性的本质提供系统性的解释。（关于不可比较性，请参见张 1997 年和克劳德 2002 年。）
 
-在政治哲学领域，关于多元主义与自由主义的关系的最广泛争议涉及到它与相对主义的关系。这场辩论与关于多元主义与相对主义的关系的辩论重叠，因为自由主义被认为是建立在对某些普遍价值观和基本人权的信仰上的，而相对主义则破坏了这种信仰。然而，有些人认为，虽然多元主义与相对主义是不同的，也比相对主义更可取，但它仍然过于激进、有争议和颠覆性，不能依赖它来为自由主义提供正当性的理由（或者反过来，自由主义过于普遍主义或绝对主义，不能与多元主义联系起来）。这种观点的主要支持者，比其他任何思想家都更负责任地引发了这个问题的出现和广泛讨论，是约翰·格雷（见尤其是格雷 1995 年）。格雷断言多元主义是正确的，多元主义破坏了自由主义，因此自由主义应该被放弃，至少在其作为声称具有普遍地位的政治哲学的传统角色上。[21]
+在政治哲学领域，关于多元主义与自由主义的关系的最广泛争议涉及到它与相对主义的关系。这场辩论与关于多元主义与相对主义的关系的辩论重叠，因为自由主义被认为是建立在对某些普遍价值观和基本人权的信仰上的，而相对主义则破坏了这种信仰。然而，有些人认为，虽然多元主义与相对主义是不同的，也比相对主义更可取，但它仍然过于激进、有争议和颠覆性，不能依赖它来为自由主义提供正当性的理由（或者反过来，自由主义过于普遍主义或绝对主义，不能与多元主义联系起来）。这种观点的主要支持者，比其他任何思想家都更负责任地引发了这个问题的出现和广泛讨论，是约翰·格雷（见尤其是格雷 1995 年）。格雷断言多元主义是正确的，多元主义破坏了自由主义，因此自由主义应该被放弃，至少在其作为声称具有普遍地位的政治哲学的传统角色上。\[21]
 
-格雷的观点引发了大量的文献，涉及到伯林自己对多元主义与自由主义之间关系的特别处理，以及这个问题的一般性讨论。一些理论家同意格雷的观点（Kekes，1993 年，1997 年）；其他人试图表明多元主义和自由主义是可以调和的，尽管这种调和可能需要对自由主义和多元主义进行修改——然而，这些修改是可以被证明的，而且实际上是可取的。迄今为止最广泛的讨论是由乔治·克劳德和威廉·加尔斯顿进行的（克劳德 2002 年，2004 年，2019 年，加尔斯顿 2002 年，2004 年）。[22]
+格雷的观点引发了大量的文献，涉及到伯林自己对多元主义与自由主义之间关系的特别处理，以及这个问题的一般性讨论。一些理论家同意格雷的观点（Kekes，1993 年，1997 年）；其他人试图表明多元主义和自由主义是可以调和的，尽管这种调和可能需要对自由主义和多元主义进行修改——然而，这些修改是可以被证明的，而且实际上是可取的。迄今为止最广泛的讨论是由乔治·克劳德和威廉·加尔斯顿进行的（克劳德 2002 年，2004 年，2019 年，加尔斯顿 2002 年，2004 年）。\[22]
 
 伯林本人致力于多元主义和自由主义，他并不认为二者之间存在逻辑上的必然关系（尽管他有时接近于提出这一观点：例如 2002b, 216; Jahanbegloo 1992, 44），而是将二者视为相互关联和和谐的。他提出的多元主义版本在其假设、目标和结论上明显具有自由主义色彩，就像他的自由主义明显具有多元主义色彩一样。正如迈克尔·沃尔泽所指出的，伯林的多元主义以“接纳、慷慨和怀疑”为特征，这些特征“如果不是自由主义价值观，那么至少是使人们接受自由主义价值观的思维品质”（Galston 2002, 60–1; Walzer 1995, 31）。
 
@@ -232,9 +230,9 @@
 
 ### 5.1 自由的概念
 
-伯林在政治理论方面最著名的贡献是他关于积极自由和消极自由区别的论文。这个区别在本百科全书的其他地方有解释，并对其广泛的文献进行了总结；因此，以下只关注伯林的原始论点，这一点常常被误解，部分原因是由于他自己的模糊性。需要强调的是，所讨论的论文主要关注的是*政治*自由，而不是他晚年所称的“基本自由”，即选择自由（或自由意志），没有这种自由，其他任何形式的自由都是不可能的：事实上，“人们不能没有它而仍然是人类”（A 518；参见 UD 218，CTH2 309 和 2.4）。
+伯林在政治理论方面最著名的贡献是他关于积极自由和消极自由区别的论文。这个区别在本百科全书的其他地方有解释，并对其广泛的文献进行了总结；因此，以下只关注伯林的原始论点，这一点常常被误解，部分原因是由于他自己的模糊性。需要强调的是，所讨论的论文主要关注的是_政治_自由，而不是他晚年所称的“基本自由”，即选择自由（或自由意志），没有这种自由，其他任何形式的自由都是不可能的：事实上，“人们不能没有它而仍然是人类”（A 518；参见 UD 218，CTH2 309 和 2.4）。
 
-在《自由的两个概念》中，伯林试图解释关于政治自由的两种（他说有两百多种）不同思考方式之间的区别。他说，这些思想贯穿了现代思想，并且是他所处时代意识形态斗争的核心。伯林将这两种自由观念称为消极自由和积极自由。伯林对这些概念的处理从一开始就不够公正：虽然他相当清楚和简单地定义了消极自由，但他给了积极自由两个不同的基本定义，从而产生了更多不同的概念。伯林最初将消极自由定义为*从...中解放出来*，即没有其他人强加给个体的限制。他将积极自由定义为*自由去...* ，即追求和实现意愿目标的能力（不仅仅是机会）；同时也定义为自治或自我统治，与对他人的依赖相对立。这两者并不相同。
+在《自由的两个概念》中，伯林试图解释关于政治自由的两种（他说有两百多种）不同思考方式之间的区别。他说，这些思想贯穿了现代思想，并且是他所处时代意识形态斗争的核心。伯林将这两种自由观念称为消极自由和积极自由。伯林对这些概念的处理从一开始就不够公正：虽然他相当清楚和简单地定义了消极自由，但他给了积极自由两个不同的基本定义，从而产生了更多不同的概念。伯林最初将消极自由定义为_从...中解放出来_，即没有其他人强加给个体的限制。他将积极自由定义为_自由去..._ ，即追求和实现意愿目标的能力（不仅仅是机会）；同时也定义为自治或自我统治，与对他人的依赖相对立。这两者并不相同。
 
 伯林的论述进一步复杂化，将概念分析与历史相结合。他将消极自由与自由主义传统联系在一起，这一传统从 17 世纪到 19 世纪初在英国和法国兴起和发展。他后来后悔没有更多地强调消极自由被用来辩护的邪恶，比如在自由放任的资本主义下的剥削；然而，在《自由的两个概念》中，消极自由被描绘得积极和简短。伯林的重点在于积极自由，因为他声称这是一个更模糊的概念，也是一个经历了更大和更邪恶的转变，最终变得扭曲的概念。
 
@@ -252,7 +250,7 @@
 
 为什么有人会否认个体为自己做选择的机会呢？一个可能的答案（虽然不是唯一的答案）是个体可能会做出错误的选择，因此有必要强迫或操纵他们做出正确的选择。但是多元主义认为，在真正的价值观之间存在冲突时，可能没有单一的正确选择 - 多个选择可能同样符合真正的人类价值观和利益，即使它们也涉及牺牲或违反其他价值观或利益，这些价值观或利益既不更真实也不更重要。同样地，没有单一的理想生活，没有单一的思考、行为或存在方式的模式，人们应该尝试或被引导去符合。确实有可选择的选项，从任何人道的观点来看都是不可接受的，因为它们与普遍共享的道德原则的“核心”相冲突（见 4.4），这些选项可能合理地被封锁。但是，人性的限制不应与特定观点的限制混淆，而与其他合理的可能性相比，这些可能性满足于在“人类视野”内，并且不违背道德核心的共同条件。
 
-对于伯林来说，多元主义既削弱了违反选择自由的主要理由之一，又证实了能够自由选择的重要性和价值。[25] 一些解释者认为，伯林赋予选择自由以极高的价值，虽然部分基于他的多元主义，但也需要外部于多元主义的道德原则、理想和假设的补充（尽管这并不意味着，与约翰·格雷相反，多元主义与自由主义不相容或必然削弱自由主义）。其他人（如乔治·克劳德）则认为，伯林的自由主义可以仅从他的多元主义中推导出来，尽管最近克劳德修改了他的观点，现在认为多元主义只在现代性的历史条件下才能证明自由主义的正当性（2019 年，105-12，135-8，221-2）。
+对于伯林来说，多元主义既削弱了违反选择自由的主要理由之一，又证实了能够自由选择的重要性和价值。\[25] 一些解释者认为，伯林赋予选择自由以极高的价值，虽然部分基于他的多元主义，但也需要外部于多元主义的道德原则、理想和假设的补充（尽管这并不意味着，与约翰·格雷相反，多元主义与自由主义不相容或必然削弱自由主义）。其他人（如乔治·克劳德）则认为，伯林的自由主义可以仅从他的多元主义中推导出来，尽管最近克劳德修改了他的观点，现在认为多元主义只在现代性的历史条件下才能证明自由主义的正当性（2019 年，105-12，135-8，221-2）。
 
 同时，虽然多元主义是伯林论证自由重要性的关键要素，但它也修正和调和了他的自由主义观点，使他不成为（与二十世纪及以后的许多负面自由的支持者相比）一个教条主义、无条件的古典自由主义者或自由主义者。负面自由和正面自由都是真正的价值观，它们必须相互平衡；而任何形式的政治自由都是众多价值观之一，可能与之冲突，需要进行权衡。伯林比许多古典自由主义或自由主义思想家更加敏感，意识到真正的自由可能与真正的平等、正义、公共秩序、安全、效率或幸福相冲突，因此必须与其他价值观相平衡，并有时为了其他价值观而牺牲（参见 2002b，214-15）。伯林的自由主义既包括对于保持不同价值观之间平衡重要性的保守或务实的认识，也包括社会民主主义对于在某些情况下限制自由以促进平等和正义，并保护弱者免受强者欺凌的需求的认识（参见 2002b，218-51）。然而，伯林仍然是一个自由主义者，他坚持认为保护一定程度的个人自由是一项政治优先任务。他通过对经验主义版本的自然法论证的呼吁来为这一观点辩护，写道基于人类的心理或生理构成，存在着“自然权利”；试图以某种方式改变或限制人类生活就是阻碍了人类作为我们所知的存在所固有的欲望、目标和愿望（1996，90-2）。剥夺人类某些基本权利就是使他们失去人性。虽然自由不应该是社会追求的唯一善，也不应该总是凌驾于其他价值观之上，但伦理多元主义赋予了它特殊的重要性：人们必须自由，以便能够承认和追求所有真正的人类价值观。因此，社会应该优先提供米尔式的“生活实验”所需的自由，以及社会和个人多样性的延续（参见伯林 2002b，218-51）。
 
@@ -260,7 +258,7 @@
 
 《自由的两个概念》第六节是对民族自治和“民族解放”理想的矛盾讨论，表明这些理想严格来说不应被视为自由，但仍然反映了人类对归属感和作为自主群体成员的认同的深刻需求（参见 2002a，229）。伯林有些混淆地使用“民族主义”一词，指的是两种截然不同、道德上非常不同的现象。其中之一是他也称之为“民族意识”的东西，即归属感、集体认同感，这是赫尔德所写的。另一种是这种情感的“燃烧”形式，它以怨恨、挫折和羞辱为食，变得“病态”。伯林对前者持同情态度，对后者持批评态度，但他认识到两者之间的关系，因此意识到民族主义的力量和诱惑。
 
-虽然伯林将归属感和成员身份所带来的自我表达意识视为基本的人类需求，并将此洞察归功于赫尔德，但他似乎不太可能从赫尔德那里学到这个教训。更有可能的是，正是他对这些需求的认识吸引他首先接触到这位作者。他对屈辱和依赖的痛苦、家长式统治的可恶和伤害有着敏锐的认识。他的个人主义和对自由的强调不仅受到他对我们是社会性存在、我们的身份在一定程度上受到他人评价影响的认识的限制（2002b，201 页），而且还受到他对人类对社群归属感的需求的理解的限制——这种认识在他自己的流亡经历以及他母亲对热情犹太复国主义的影响下变得更加敏锐[[26](https://plato.stanford.edu/entries/berlin/notes.html#note-26)]
+虽然伯林将归属感和成员身份所带来的自我表达意识视为基本的人类需求，并将此洞察归功于赫尔德，但他似乎不太可能从赫尔德那里学到这个教训。更有可能的是，正是他对这些需求的认识吸引他首先接触到这位作者。他对屈辱和依赖的痛苦、家长式统治的可恶和伤害有着敏锐的认识。他的个人主义和对自由的强调不仅受到他对我们是社会性存在、我们的身份在一定程度上受到他人评价影响的认识的限制（2002b，201 页），而且还受到他对人类对社群归属感的需求的理解的限制——这种认识在他自己的流亡经历以及他母亲对热情犹太复国主义的影响下变得更加敏锐\[[26](https://plato.stanford.edu/entries/berlin/notes.html#note-26)]
 
 ### 5.4 政治判断和领导力
 
@@ -268,9 +266,9 @@
 
 伯林对政治判断是一种可以归纳为规则的知识体系的观点提出了质疑。政治行动应该基于对现实的“感知”，这种感知建立在经验、对他人的共情理解、对社会和政治环境的敏感以及对真实与虚假、重要与琐碎、可改变与不可改变、有效与无效等问题的个人判断之上。这样的判断必然涉及个人的直觉和才华，是“无法分析的天才之举”。在政治行动领域，法律很少，技巧至关重要（1996 年，53 页）。
 
-与历史研究一样，政治判断涉及对特定个体、氛围、事态或事件所构成的独特特征的理解（同上，56 页）。这需要一种能力，即整合“不断变化、多彩多变、瞬息万变、不断重叠的大量数据”，与相关数据进行“直接、几乎感性的接触”，以及“对什么与什么相配、什么源于什么、什么导致什么的敏锐感知；[...]对人类与无情力量相互作用的具体情况的结果可能是什么”的敏感（同上，57-8 页）。这种感知是定性的而非定量的，是具体的而非一般的，尽管它可能建立在过去的经验之上。
+与历史研究一样，政治判断涉及对特定个体、氛围、事态或事件所构成的独特特征的理解（同上，56 页）。这需要一种能力，即整合“不断变化、多彩多变、瞬息万变、不断重叠的大量数据”，与相关数据进行“直接、几乎感性的接触”，以及“对什么与什么相配、什么源于什么、什么导致什么的敏锐感知；\[...]对人类与无情力量相互作用的具体情况的结果可能是什么”的敏感（同上，57-8 页）。这种感知是定性的而非定量的，是具体的而非一般的，尽管它可能建立在过去的经验之上。
 
-伯林坚持认为，使得这种判断成为可能的能力并非形而上学的，而是“普通的、经验的和准美学的”（同上，57 页）。这种感知与任何形式的伦理感知都是不同的；无论是善良的还是邪恶的政治家都可能具备或缺乏这种感知。承认这种政治现实感的重要性不应该抑制科学探究的精神，也不应该成为模糊主义的借口。但它应该抑制将政治行动转化为科学原则的应用，以及将政府转变为技术官僚管理的企图。[27]
+伯林坚持认为，使得这种判断成为可能的能力并非形而上学的，而是“普通的、经验的和准美学的”（同上，57 页）。这种感知与任何形式的伦理感知都是不同的；无论是善良的还是邪恶的政治家都可能具备或缺乏这种感知。承认这种政治现实感的重要性不应该抑制科学探究的精神，也不应该成为模糊主义的借口。但它应该抑制将政治行动转化为科学原则的应用，以及将政府转变为技术官僚管理的企图。\[27]
 
 伯林将他关于政治判断的著作视为对政治理论家不要过分扩张的警告。政治理论可以在帮助我们理解政治方面做出很大贡献。但政治行动是一种实际问题，不应该也不能建立在通过抽象理论建立的普遍原则上，也不能由此来决定。
 
@@ -280,11 +278,11 @@
 
 虽然伯林强调了关于政治行动适当目标的问题在政治理论的主题中的地位，他也认识到了讨论适当手段的重要性，以及这些手段与其目标之间的关系。伯林在他的作品中没有直接处理这个问题 - 政治伦理的问题; 他也没有对政治行动的道德问题提供简单或自信的答案。然而，他确实提出了一些关于这个道德分支的论点; 而这些论点是他最真挚的宣言之一。
 
-伯林传达这些信息的主要媒介是十九世纪俄国激进公共主义者亚历山大·赫尔岑。[28] 伯林最坚决重复的赫尔岑的话是那些谴责在抽象的祭坛上牺牲人类的言辞，将个体幸福或不幸的现实置于辉煌而幻想的未来梦想之下（伯林 1990 年，16-17 页; 伯林还引用了本杰明·康斯坦特的类似观点：参见伯林 2002b，3 页，以及 1978a，93-129 页和 212-39 页）。伯林政治伦理的第一个原则是反对这种屈从，伯林将其视为狂热主义的本质，以及一种既徒劳又可怕的非人道主义的配方。
+伯林传达这些信息的主要媒介是十九世纪俄国激进公共主义者亚历山大·赫尔岑。\[28] 伯林最坚决重复的赫尔岑的话是那些谴责在抽象的祭坛上牺牲人类的言辞，将个体幸福或不幸的现实置于辉煌而幻想的未来梦想之下（伯林 1990 年，16-17 页; 伯林还引用了本杰明·康斯坦特的类似观点：参见伯林 2002b，3 页，以及 1978a，93-129 页和 212-39 页）。伯林政治伦理的第一个原则是反对这种屈从，伯林将其视为狂热主义的本质，以及一种既徒劳又可怕的非人道主义的配方。
 
 伯林像赫尔岑一样相信“生活的目标就是生活本身”（1978a，221 页; 赫尔岑 1842 年，217 页），并且应该将每个生命和每个时代视为其自身的目标，而不是作为实现某种未来目标的手段。为此，他还提出了一个关于未来不可预测性的警告（既唤起了马克斯·韦伯的思想，也唤起了赫尔岑的思想）。伯林对人类行动的力量的信仰受到了行动后果无法预知且很可能与原意大相径庭的认识的限制。这一点一方面导致他强调谨慎和适度的必要性; 另一方面，他坚持不确定性是不可避免的，因此所有行动，无论多么谨慎，都涉及错误的风险，以及灾难性的，或者至少是意外和令人困扰的后果。结果是一种政治谦卑的伦理，类似于韦伯的责任伦理，但缺乏其严峻、坚忍的庄严气质。
 
-伯林经常指出乌托邦主义的危险，并强调需要一定程度的政治务实主义。因此，他可能看起来坚定地站在“政治现实主义”的传统中，这一传统通常被认为从马基雅维利（或修昔底德）一直延续到最近的学者和实践者，如 E·H·卡尔、乔治·肯南或亨利·基辛格。[[29](https://plato.stanford.edu/entries/berlin/notes.html#note-29)]然而事实并非如此。伯林确实试图警告人们对理想主义的危险，并对其进行矫正，以使其免受自身的伤害并更好地抵御愤世嫉俗。但在谈到“政治现实主义”时，他区分了对现实的正确感知，摆脱情感扭曲的一种意义，和另一种“更邪恶”的意义，这种意义被那些承认自己是“现实主义者”的人所使用，“通常是为了解释某些特别卑鄙或残忍的决定”。在这个意义上，“现实主义”已经意味着“严酷和残酷，不回避通常被认为是不道德的事情，不受软弱的情感道德考虑的影响”；在伯林看来，它还与“对什么是好的和什么是成功的认同”以及庆祝“大军队沿着宽阔的大道行进，消除了所有未实现的可能性，所有殉道者和幻想家”（2000a，163；2002a，103-6）联系在一起。虽然他坚持“对现实的感知”的重要性，但伯林对第二种“政治现实主义”持高度批评态度，这种态度轻蔑地无视道德理想或顾虑，并采取可疑的手段来实现所期望的目标。他还将这种愤世嫉俗、残酷的现实主义视为世界上强大的政治力量（2002b，343-4；另请参见 Cherniss 2013，67-87，112-21 和 Cherniss 2018）。
+伯林经常指出乌托邦主义的危险，并强调需要一定程度的政治务实主义。因此，他可能看起来坚定地站在“政治现实主义”的传统中，这一传统通常被认为从马基雅维利（或修昔底德）一直延续到最近的学者和实践者，如 E·H·卡尔、乔治·肯南或亨利·基辛格。\[[29](https://plato.stanford.edu/entries/berlin/notes.html#note-29)]然而事实并非如此。伯林确实试图警告人们对理想主义的危险，并对其进行矫正，以使其免受自身的伤害并更好地抵御愤世嫉俗。但在谈到“政治现实主义”时，他区分了对现实的正确感知，摆脱情感扭曲的一种意义，和另一种“更邪恶”的意义，这种意义被那些承认自己是“现实主义者”的人所使用，“通常是为了解释某些特别卑鄙或残忍的决定”。在这个意义上，“现实主义”已经意味着“严酷和残酷，不回避通常被认为是不道德的事情，不受软弱的情感道德考虑的影响”；在伯林看来，它还与“对什么是好的和什么是成功的认同”以及庆祝“大军队沿着宽阔的大道行进，消除了所有未实现的可能性，所有殉道者和幻想家”（2000a，163；2002a，103-6）联系在一起。虽然他坚持“对现实的感知”的重要性，但伯林对第二种“政治现实主义”持高度批评态度，这种态度轻蔑地无视道德理想或顾虑，并采取可疑的手段来实现所期望的目标。他还将这种愤世嫉俗、残酷的现实主义视为世界上强大的政治力量（2002b，343-4；另请参见 Cherniss 2013，67-87，112-21 和 Cherniss 2018）。
 
 根据伯林的观点，将“现实主义”理解为对愤世嫉俗和残酷行为的辩护不仅在道德上令人厌恶，而且在现实上也是不切实际的，因为它基于这样一种假设：通过使用道德上邪恶的手段可以实现真正可取的目标；对此，伯林断言“邪恶的手段会破坏善良的目标”（1978a，345）。事实上，目标与手段之间的关系问题贯穿于他的著作。他警告说，坚持完全政治纯洁是不可行的，因为当价值观冲突且后果常常出乎意料时，纯洁是一个不可能的理想；而对政治手段的道德细节的漠视也是不仅在道德上丑陋，而且是愚蠢的，因为善良的目标往往会被不道德的手段腐化和破坏。此外，由于行动的后果如此不确定，政治行为者通常无法实现他们的目标，或者他们只能不完美地实现它们；因此，在实现自己的政治目标的过程中最好不要做出太多的牺牲，因为那个成就是不确定的。对于现实主义的论点“不打破鸡蛋就不能做煎蛋卷”，伯林回答道：“我们唯一可以确定的是牺牲、死亡和死者的现实。但为了这个目标，他们牺牲的理想仍未实现。鸡蛋被打破了，打破它们的习惯也在增长，但煎蛋卷仍然看不见”（1990，17）。
 
@@ -292,7 +290,7 @@
 
 伯林的政治伦理学最好用他自己的话来概括：
 
-> 让我们至少有勇气承认我们的无知、怀疑和不确定性。至少我们可以尝试通过仔细而富有同情心地倾听他们，理解他们和他们的生活和需求，逐个个体地了解他们，来发现其他人[...]需要什么。让我们至少尝试为他们提供他们所要求的，并尽可能地让他们自由。（1978a，296）
+> 让我们至少有勇气承认我们的无知、怀疑和不确定性。至少我们可以尝试通过仔细而富有同情心地倾听他们，理解他们和他们的生活和需求，逐个个体地了解他们，来发现其他人\[...]需要什么。让我们至少尝试为他们提供他们所要求的，并尽可能地让他们自由。（1978a，296）
 
 ## 6. 结论
 
@@ -314,203 +312,203 @@
 
 The many works in languages other than English are mostly excluded.
 
-The twelve new editions of Berlin’s works published by Princeton University Press in 2013, 2014 and 2019 all contain significant additional material and new forewords by experts in the relevant fields, as does the Brookings Classics edition of *The Soviet Mind* (2016). A new foreword by Andrew Marr was added in the second edition (Vintage, 2014) of *The Proper Study of Mankind*. Page references in this article are to the latest editions of Berlin’s books, though the date of the first edition is used to identify them. Concordances that enable readers to find corresponding pages in earlier editions are available [online](http://berlin.wolf.ox.ac.uk/published_works/index.html).
+The twelve new editions of Berlin’s works published by Princeton University Press in 2013, 2014 and 2019 all contain significant additional material and new forewords by experts in the relevant fields, as does the Brookings Classics edition of _The Soviet Mind_ (2016). A new foreword by Andrew Marr was added in the second edition (Vintage, 2014) of _The Proper Study of Mankind_. Page references in this article are to the latest editions of Berlin’s books, though the date of the first edition is used to identify them. Concordances that enable readers to find corresponding pages in earlier editions are available [online](http://berlin.wolf.ox.ac.uk/published\_works/index.html).
 
 ### A. Works by Berlin
 
-A complete list of Berlin’s works is available in [Isaiah Berlin Online](https://isaiah-berlin.wolfson.ox.ac.uk/catalogues) and in the [Isaiah Berlin Virtual Library](http://berlin.wolf.ox.ac.uk/lists/bibliography/index.html).
+A complete list of Berlin’s works is available in [Isaiah Berlin Online](https://isaiah-berlin.wolfson.ox.ac.uk/catalogues) and in the [Isaiah Berlin Virtual Library](http://berlin.wolf.ox.ac.uk/lists/bibliography/index.html).
 
-* 1930, ‘[Some Procrustations](https://berlin.wolf.ox.ac.uk/published_works/singles/bib3.pdf)’, *Oxford Outlook*, 10 (52): 491–502.
-* 1937a, ‘[Induction and Hypothesis](http://berlin.wolf.ox.ac.uk/published_works/singles/bib20.pdf)’, *Proceedings of the Aristotelian Society* (Supplementary Volume), 16: 63–102.
+* 1930, ‘[Some Procrustations](https://berlin.wolf.ox.ac.uk/published\_works/singles/bib3.pdf)’, _Oxford Outlook_, 10 (52): 491–502.
+* 1937a, ‘[Induction and Hypothesis](http://berlin.wolf.ox.ac.uk/published\_works/singles/bib20.pdf)’, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 16: 63–102.
 * 1937b, ‘[Utilitarianism](http://berlin.wolf.ox.ac.uk/lists/nachlass/utilitarianism.pdf)’, online (PDF).
-* 1939, *Karl Marx: His Life and Environment*, London: Thornton Butterworth, Toronto: Nelson; 5th ed., *Karl Marx*, ed. Henry Hardy, Princeton and Oxford: Princeton University Press, 2013.
+* 1939, _Karl Marx: His Life and Environment_, London: Thornton Butterworth, Toronto: Nelson; 5th ed., _Karl Marx_, ed. Henry Hardy, Princeton and Oxford: Princeton University Press, 2013.
 * 1949, ‘[Democracy, Communism and the Individual](http://berlin.wolf.ox.ac.uk/lists/nachlass/demcomind.pdf)’, online and in Berlin 2000a.
 * 1951, ‘[Synthetic A Priori Propositions](https://berlin.wolf.ox.ac.uk/lists/nachlass/synthetic.pdf)’, American Philosophical Association, December 1951.
-* 1953, *The Hedgehog and the Fox: An Essay on Tolstoy’s View of History*, London: Weidenfeld and Nicolson, New York: Simon and Schuster. Expanded version of ‘Lev Tolstoy’s Historical Scepticism’, *Oxford Slavonic Papers*, 2, 1951, pp. 17–54. Reprinted in Berlin 1978a; 2nd edition, ed. Henry Hardy, Princeton: Princeton University Press, 2013; London, 2014: Phoenix.
-* 1954, *Historical Inevitability*, London: Oxford University Press. Reprinted in Berlin 2002b.
-* 1955 (with Stuart Hampshire, Iris Murdoch and Anthony Quinton), ‘[Philosophy and Beliefs](http://berlin.wolf.ox.ac.uk/published_works/singles/bib59.pdf)’, *Twentieth Century*, 157: 495–521.
-* 1956, (ed.), *The Age of Enlightenment: The Eighteenth-Century Philosophers*, Boston: Houghton Mifflin, New York: New American Library; 2nd ed., ed. Henry Hardy, [online](https://berlin.wolf.ox.ac.uk/published_works/ae/AE2.pdf), Oxford: The Isaiah Berlin Literary Trust, 2017 (PDF).
+* 1953, _The Hedgehog and the Fox: An Essay on Tolstoy’s View of History_, London: Weidenfeld and Nicolson, New York: Simon and Schuster. Expanded version of ‘Lev Tolstoy’s Historical Scepticism’, _Oxford Slavonic Papers_, 2, 1951, pp. 17–54. Reprinted in Berlin 1978a; 2nd edition, ed. Henry Hardy, Princeton: Princeton University Press, 2013; London, 2014: Phoenix.
+* 1954, _Historical Inevitability_, London: Oxford University Press. Reprinted in Berlin 2002b.
+* 1955 (with Stuart Hampshire, Iris Murdoch and Anthony Quinton), ‘[Philosophy and Beliefs](http://berlin.wolf.ox.ac.uk/published\_works/singles/bib59.pdf)’, _Twentieth Century_, 157: 495–521.
+* 1956, (ed.), _The Age of Enlightenment: The Eighteenth-Century Philosophers_, Boston: Houghton Mifflin, New York: New American Library; 2nd ed., ed. Henry Hardy, [online](https://berlin.wolf.ox.ac.uk/published\_works/ae/AE2.pdf), Oxford: The Isaiah Berlin Literary Trust, 2017 (PDF).
 * 1958, ‘Two Concepts of Liberty’, Oxford: Clarendon Press; reprinted in Berlin 2002b.
-* 1972, ‘The Originality of Machiavelli’, in *Studies on Machiavelli*, M. Gilmore (ed.), Florence: Sansoni. Reprinted in Berlin 1979.
-* 1978a, *Russian Thinkers*, Henry Hardy and Aileen Kelly (eds), London: Hogarth Press; New York, 1979: Viking; 2nd ed., revised by Henry Hardy, London etc.: Penguin Classics, 2008.
-* 1978b, *Concepts and Categories: Philosophical Essays*, Henry Hardy (ed.), London: Hogarth Press; New York, 1979: Viking; 2nd ed., Princeton: Princeton University Press, 2013.
-* 1979, *Against the Current: Essays in the History of Ideas*, Henry Hardy (ed.), London: Hogarth Press; New York, 1980: Viking; 2nd ed., Princeton: Princeton University Press, 2013.
-* 1980, *Personal Impressions*, Henry Hardy (ed.), London: Hogarth Press; New York, 1981: Viking; 3rd (expanded) ed., Princeton: Princeton University Press, 2014; London, 2018: Pimlico.
-* 1990, *The Crooked Timber of Humanity: Chapters in the History of Ideas*, Henry Hardy (ed.), London: John Murray; New York, 1991: Knopf; 2nd ed., Princeton: Princeton University Press, 2013; London, 2013: Pimlico.
-* 1996, *The Sense of Reality: Studies in Ideas and their History*, Henry Hardy (ed.), London: Chatto and Windus; New York: Farrar, Straus and Giroux, 1997; 2nd ed., Princeton: Princeton University Press, 2019.
-* 1997a, *The Proper Study of Mankind: An Anthology of Essays*, Henry Hardy and Roger Hausheer (eds), London: Chatto and Windus; New York, 1998: Farrar, Straus and Giroux; 2nd ed., London: Vintage, 2013.
-* 1997b, ‘Israel and the Palestinians’, in 2015 (568) and [online](http://berlin.wolf.ox.ac.uk/information/israelandthepalestinians.html).
-* 1999a, *The First and the Last*, New York: New York Review Books; London: Granta.
-* 1999b, *The Roots of Romanticism* (1965), Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013.
-* 2000a, *The Power of Ideas*, Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013.
-* 2000b, *Three Critics of the Enlightenment: Vico, Hamann, Herder* (1960–5), Henry Hardy (ed.), London: Pimlico; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013; London, 2013: Pimlico.
-* 2002a, *Freedom and its Betrayal: Six Enemies of Human Liberty* (1952), Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2014.
-* 2002b, *Liberty*, Henry Hardy (ed.), Oxford and New York: Oxford University Press.
-* 2004a, *Flourishing: Letters 1928–1946*, Henry Hardy (ed.), London: Chatto and Windus (initially published in the USA as *Letters 1928–1946*, New York: Cambridge University Press); [supplement online](https://berlin.wolf.ox.ac.uk/published_works/f/l1supp.pdf) (PDF); special supplement, ‘[What about Daphne? Correspondence with H. G. Nicholas 1942–1945](https://berlin.wolf.ox.ac.uk/published_works/f/lnicholas.pdf)’, also online (PDF).
-* 2004b, *The Soviet Mind: Russian Culture under Communism*, Henry Hardy (ed.), Washington: Brookings Institution Press; 2nd ed., Washington: Brookings Classics, Brookings Institution Press.
-* 2006, *Political Ideas in the Romantic Age: Their Rise and Influence on Modern Thought*, Henry Hardy (ed.), London: Chatto and Windus; 2nd. ed., Princeton: Princeton University Press, 2014.
-* 2006a (with Beata Polanowska-Sygulska), *Unfinished Dialogue*, New York: Prometheus Books.
-* 2009, *Enlightening: Letters 1946–1960*, Henry Hardy and Jennifer Holmes (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/e/l2supp.pdf) (PDF).
-* 2013, *Building: Letters 1960–1975*, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/b/l3supp.pdf) (PDF).
-* 2015, *Affirming: Letters 1975–1997*, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/a/l4supp.pdf) (PDF); special supplement, ‘[More Explaining: Isaiah Berlin on His Own Ideas](https://berlin.wolf.ox.ac.uk/published_works/a/more-explaining.pdf)’, also online (PDF).
-* 2018 [1969], ‘The Lessons of History’, in Cherniss and Smith 2018.
+* 1972, ‘The Originality of Machiavelli’, in _Studies on Machiavelli_, M. Gilmore (ed.), Florence: Sansoni. Reprinted in Berlin 1979.
+* 1978a, _Russian Thinkers_, Henry Hardy and Aileen Kelly (eds), London: Hogarth Press; New York, 1979: Viking; 2nd ed., revised by Henry Hardy, London etc.: Penguin Classics, 2008.
+* 1978b, _Concepts and Categories: Philosophical Essays_, Henry Hardy (ed.), London: Hogarth Press; New York, 1979: Viking; 2nd ed., Princeton: Princeton University Press, 2013.
+* 1979, _Against the Current: Essays in the History of Ideas_, Henry Hardy (ed.), London: Hogarth Press; New York, 1980: Viking; 2nd ed., Princeton: Princeton University Press, 2013.
+* 1980, _Personal Impressions_, Henry Hardy (ed.), London: Hogarth Press; New York, 1981: Viking; 3rd (expanded) ed., Princeton: Princeton University Press, 2014; London, 2018: Pimlico.
+* 1990, _The Crooked Timber of Humanity: Chapters in the History of Ideas_, Henry Hardy (ed.), London: John Murray; New York, 1991: Knopf; 2nd ed., Princeton: Princeton University Press, 2013; London, 2013: Pimlico.
+* 1996, _The Sense of Reality: Studies in Ideas and their History_, Henry Hardy (ed.), London: Chatto and Windus; New York: Farrar, Straus and Giroux, 1997; 2nd ed., Princeton: Princeton University Press, 2019.
+* 1997a, _The Proper Study of Mankind: An Anthology of Essays_, Henry Hardy and Roger Hausheer (eds), London: Chatto and Windus; New York, 1998: Farrar, Straus and Giroux; 2nd ed., London: Vintage, 2013.
+* 1997b, ‘Israel and the Palestinians’, in 2015 (568) and [online](http://berlin.wolf.ox.ac.uk/information/israelandthepalestinians.html).
+* 1999a, _The First and the Last_, New York: New York Review Books; London: Granta.
+* 1999b, _The Roots of Romanticism_ (1965), Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013.
+* 2000a, _The Power of Ideas_, Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013.
+* 2000b, _Three Critics of the Enlightenment: Vico, Hamann, Herder_ (1960–5), Henry Hardy (ed.), London: Pimlico; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013; London, 2013: Pimlico.
+* 2002a, _Freedom and its Betrayal: Six Enemies of Human Liberty_ (1952), Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2014.
+* 2002b, _Liberty_, Henry Hardy (ed.), Oxford and New York: Oxford University Press.
+* 2004a, _Flourishing: Letters 1928–1946_, Henry Hardy (ed.), London: Chatto and Windus (initially published in the USA as _Letters 1928–1946_, New York: Cambridge University Press); [supplement online](https://berlin.wolf.ox.ac.uk/published\_works/f/l1supp.pdf) (PDF); special supplement, ‘[What about Daphne? Correspondence with H. G. Nicholas 1942–1945](https://berlin.wolf.ox.ac.uk/published\_works/f/lnicholas.pdf)’, also online (PDF).
+* 2004b, _The Soviet Mind: Russian Culture under Communism_, Henry Hardy (ed.), Washington: Brookings Institution Press; 2nd ed., Washington: Brookings Classics, Brookings Institution Press.
+* 2006, _Political Ideas in the Romantic Age: Their Rise and Influence on Modern Thought_, Henry Hardy (ed.), London: Chatto and Windus; 2nd. ed., Princeton: Princeton University Press, 2014.
+* 2006a (with Beata Polanowska-Sygulska), _Unfinished Dialogue_, New York: Prometheus Books.
+* 2009, _Enlightening: Letters 1946–1960_, Henry Hardy and Jennifer Holmes (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published\_works/e/l2supp.pdf) (PDF).
+* 2013, _Building: Letters 1960–1975_, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published\_works/b/l3supp.pdf) (PDF).
+* 2015, _Affirming: Letters 1975–1997_, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published\_works/a/l4supp.pdf) (PDF); special supplement, ‘[More Explaining: Isaiah Berlin on His Own Ideas](https://berlin.wolf.ox.ac.uk/published\_works/a/more-explaining.pdf)’, also online (PDF).
+* 2018 \[1969], ‘The Lessons of History’, in Cherniss and Smith 2018.
 
 ### B. Books about Berlin
 
-* Aarsbergen-Ligtvoet, Connie, 2006, *Isaiah Berlin: A Value Pluralist and Humanist View of Human Nature and the Meaning of Life*, Amsterdam/New York: Rodopi.
-* Baum, Bruce and Robert Nichols, 2013, (eds), *Isaiah Berlin and the Politics of Freedom: ‘Two Concepts of Liberty’ 50 Years Later*, New York and London: Routledge.
-* Brockliss, Laurence, and Ritchie Robertson (eds), 2016, *Isaiah Berlin and the Enlightenment*, Oxford: Oxford University Press.
-* Caute, David, 2013, *Isaac and Isaiah: The Covert Punishment of a Cold War Heretic*, New Haven and London: Yale University Press.
-* Cherniss, Joshua L., 2013, *A Mind and Its Time: The Development of Isaiah Berlin’s Political Thought*, Oxford: Oxford University Press.
-* ––– and Steven B. Smith (eds), 2018, *The Cambridge Companion to Isaiah Berlin*, Cambridge etc.: Cambridge University Press.
-* Crowder, George, 2004, *Isaiah Berlin: Liberty and Pluralism*, Cambridge: Polity.
-* –––, 2019, *The Problem of Value Pluralism: Isaiah Berlin and Beyond*, New York: Routledge.
-* ––– and Henry Hardy (eds), 2007, *The One and the Many: Reading Isaiah Berlin*, Amherst, NY: Prometheus.
-* Dimova-Cookson, Maria, 2020, *Rethinking Negative and Positive Liberty*, Abingdon and New York: Routledge.
-* Dubnov, Arie M., 2012, *Isaiah Berlin: The Journey of a Jewish Liberal*, London: Palgrave Macmillan.
-* Espada, João Carlos, Plattner, Marc F., and Wolfson, Adam (eds), 2001, *Pluralism without Relativism: Remembering Isaiah Berlin*, Lanham, MD: Lexington Books.
-* Galipeau, Claude J., 1994, *Isaiah Berlin’s Liberalism*, Oxford: Clarendon Press.
-* Gray, John, 1995, *Isaiah Berlin*, London: HarperCollins; Princeton, 1996: Princeton University Press; retitled *Berlin* for the Modern Masters paperback edition, London, 1995: Fontana.
-* –––, 2013, *Isaiah Berlin: An Interpretation of His Thought*, Princeton: Princeton University Press [2nd. ed. of Gray 1995].
-* Hardy, Henry, 2018, *In Search of Isaiah Berlin: A Literary Adventure*, London: I.B.Tauris; London, Tauris Parke, 2019.
-* ––– (ed.), 2009, *The Book of Isaiah: Personal Impressions of Isaiah Berlin*, Woodbridge: The Boydell Press in association with Wolfson College, Oxford.
-* –––, Kei Hiruta and Jennifer Holmes (eds), 2009, *Isaiah Berlin and Wolfson College*, Oxford: Wolfson College.
-* Ignatieff, Michael, 1998, *Isaiah Berlin: A Life*, London: Chatto and Windus; New York: Metropolitan.
-* Jahanbegloo, Ramin, 1992 (first published in French in 1991), *Conversations with Isaiah Berlin*, London: Peter Halban.
-* Kocis, Robert, 1989, *A Critical Appraisal of Sir Isaiah Berlin’s Political Philosophy*, Lewiston, NY, etc.: Edwin Mellen Press.
-* Lilla, Mark, Ronald Dworkin and Robert B. Silvers (eds), 2001, *The Legacy of Isaiah Berlin*, New York: New York Review Books; London: Granta.
-* Lyons, Johnny, 2020, *The Philosophy of Isaiah Berlin*, London: Bloomsbury.
-* Mali, Joseph, and Robert Wokler (eds), 2003, *Isaiah Berlin’s Counter-Enlightenment* [*Transactions of the American Philosophical Society*, 93(3)], Philadelphia: American Philosophical Society.
-* Margalit, Edna and Avishai, (eds), 1991, *Isaiah Berlin: A Celebration*, London: Hogarth Press; Chicago: University of Chicago Press.
-* Ryan, Alan (ed.), 1979, *The Idea of Freedom: Essays in Honour of Isaiah Berlin*, Oxford: Oxford University Press.
-* Walicki, Andrzej, 2011, *Encounters with Isaiah Berlin: Story of an Intellectual Friendship*, Frankfurt am Main: Peter Lang.
+* Aarsbergen-Ligtvoet, Connie, 2006, _Isaiah Berlin: A Value Pluralist and Humanist View of Human Nature and the Meaning of Life_, Amsterdam/New York: Rodopi.
+* Baum, Bruce and Robert Nichols, 2013, (eds), _Isaiah Berlin and the Politics of Freedom: ‘Two Concepts of Liberty’ 50 Years Later_, New York and London: Routledge.
+* Brockliss, Laurence, and Ritchie Robertson (eds), 2016, _Isaiah Berlin and the Enlightenment_, Oxford: Oxford University Press.
+* Caute, David, 2013, _Isaac and Isaiah: The Covert Punishment of a Cold War Heretic_, New Haven and London: Yale University Press.
+* Cherniss, Joshua L., 2013, _A Mind and Its Time: The Development of Isaiah Berlin’s Political Thought_, Oxford: Oxford University Press.
+* ––– and Steven B. Smith (eds), 2018, _The Cambridge Companion to Isaiah Berlin_, Cambridge etc.: Cambridge University Press.
+* Crowder, George, 2004, _Isaiah Berlin: Liberty and Pluralism_, Cambridge: Polity.
+* –––, 2019, _The Problem of Value Pluralism: Isaiah Berlin and Beyond_, New York: Routledge.
+* ––– and Henry Hardy (eds), 2007, _The One and the Many: Reading Isaiah Berlin_, Amherst, NY: Prometheus.
+* Dimova-Cookson, Maria, 2020, _Rethinking Negative and Positive Liberty_, Abingdon and New York: Routledge.
+* Dubnov, Arie M., 2012, _Isaiah Berlin: The Journey of a Jewish Liberal_, London: Palgrave Macmillan.
+* Espada, João Carlos, Plattner, Marc F., and Wolfson, Adam (eds), 2001, _Pluralism without Relativism: Remembering Isaiah Berlin_, Lanham, MD: Lexington Books.
+* Galipeau, Claude J., 1994, _Isaiah Berlin’s Liberalism_, Oxford: Clarendon Press.
+* Gray, John, 1995, _Isaiah Berlin_, London: HarperCollins; Princeton, 1996: Princeton University Press; retitled _Berlin_ for the Modern Masters paperback edition, London, 1995: Fontana.
+* –––, 2013, _Isaiah Berlin: An Interpretation of His Thought_, Princeton: Princeton University Press \[2nd. ed. of Gray 1995].
+* Hardy, Henry, 2018, _In Search of Isaiah Berlin: A Literary Adventure_, London: I.B.Tauris; London, Tauris Parke, 2019.
+* ––– (ed.), 2009, _The Book of Isaiah: Personal Impressions of Isaiah Berlin_, Woodbridge: The Boydell Press in association with Wolfson College, Oxford.
+* –––, Kei Hiruta and Jennifer Holmes (eds), 2009, _Isaiah Berlin and Wolfson College_, Oxford: Wolfson College.
+* Ignatieff, Michael, 1998, _Isaiah Berlin: A Life_, London: Chatto and Windus; New York: Metropolitan.
+* Jahanbegloo, Ramin, 1992 (first published in French in 1991), _Conversations with Isaiah Berlin_, London: Peter Halban.
+* Kocis, Robert, 1989, _A Critical Appraisal of Sir Isaiah Berlin’s Political Philosophy_, Lewiston, NY, etc.: Edwin Mellen Press.
+* Lilla, Mark, Ronald Dworkin and Robert B. Silvers (eds), 2001, _The Legacy of Isaiah Berlin_, New York: New York Review Books; London: Granta.
+* Lyons, Johnny, 2020, _The Philosophy of Isaiah Berlin_, London: Bloomsbury.
+* Mali, Joseph, and Robert Wokler (eds), 2003, _Isaiah Berlin’s Counter-Enlightenment_ \[_Transactions of the American Philosophical Society_, 93(3)], Philadelphia: American Philosophical Society.
+* Margalit, Edna and Avishai, (eds), 1991, _Isaiah Berlin: A Celebration_, London: Hogarth Press; Chicago: University of Chicago Press.
+* Ryan, Alan (ed.), 1979, _The Idea of Freedom: Essays in Honour of Isaiah Berlin_, Oxford: Oxford University Press.
+* Walicki, Andrzej, 2011, _Encounters with Isaiah Berlin: Story of an Intellectual Friendship_, Frankfurt am Main: Peter Lang.
 
 ### C. Other Works Cited
 
-* Allen, Jonathan, 1998, review of Berlin 1996, *South African Journal of Philosophy*, 17/2: 173–7.
+* Allen, Jonathan, 1998, review of Berlin 1996, _South African Journal of Philosophy_, 17/2: 173–7.
 * Annan, Noel, 1980, introduction to Berlin 1980 (renamed ‘afterword’ in 3rd ed.).
-* –––, 1990, *Our Age: Portrait of a Generation*, London: Weidenfeld and Nicolson; New York: Random House.
-* –––, 1999, ‘The Don as Magus: Isaiah Berlin’, in his *The Dons: Mentors, Eccentrics and Geniuses*, London: HarperCollins.
-* Baghramian, Maria, and Attracta Ingram (eds), 2000, *Pluralism: The Philosophy and Politics of Diversity*, London and New York: Routledge.
-* Barry, Brian, 2001, *Culture and Equality: An Egalitarian Critique of Multiculturalism*. Cambridge, Mass.: Harvard University Press.
-* Bew, John (2015), *Realpolitik: A History*, Oxford: Oxford University Press.
-* Blokland, Hans, 1999, ‘Berlin on Pluralism and Liberalism: A Defence’, *European Legacy*, 4/4: 1–23.
-* Brogan, A. P., 1931, ‘Objective Pluralism in the Theory of Value’, *International Journal of Ethics*, 41/3: 287–95.
-* Carr, E. H., 1961, *What is History?*, London: Macmillan.
-* Chang, Ruth (ed.), 1997, *Incommensurability, Incomparability, and Practical Reason*, Cambridge, Mass., and London: Harvard University Press.
-* Cherniss, Joshua L., 2018, ‘Isaiah Berlin’, in Robert Schuett and Miles Hollingworth (eds), *The Edinburgh Companion to Political Realism*, Edinburgh: Edinburgh University Press, 380–92.
-* –––, 2021, *Liberalism in Dark Times: The Liberal Ethos in the Twentieth Century*, Princeton: Princeton University Press.
+* –––, 1990, _Our Age: Portrait of a Generation_, London: Weidenfeld and Nicolson; New York: Random House.
+* –––, 1999, ‘The Don as Magus: Isaiah Berlin’, in his _The Dons: Mentors, Eccentrics and Geniuses_, London: HarperCollins.
+* Baghramian, Maria, and Attracta Ingram (eds), 2000, _Pluralism: The Philosophy and Politics of Diversity_, London and New York: Routledge.
+* Barry, Brian, 2001, _Culture and Equality: An Egalitarian Critique of Multiculturalism_. Cambridge, Mass.: Harvard University Press.
+* Bew, John (2015), _Realpolitik: A History_, Oxford: Oxford University Press.
+* Blokland, Hans, 1999, ‘Berlin on Pluralism and Liberalism: A Defence’, _European Legacy_, 4/4: 1–23.
+* Brogan, A. P., 1931, ‘Objective Pluralism in the Theory of Value’, _International Journal of Ethics_, 41/3: 287–95.
+* Carr, E. H., 1961, _What is History?_, London: Macmillan.
+* Chang, Ruth (ed.), 1997, _Incommensurability, Incomparability, and Practical Reason_, Cambridge, Mass., and London: Harvard University Press.
+* Cherniss, Joshua L., 2018, ‘Isaiah Berlin’, in Robert Schuett and Miles Hollingworth (eds), _The Edinburgh Companion to Political Realism_, Edinburgh: Edinburgh University Press, 380–92.
+* –––, 2021, _Liberalism in Dark Times: The Liberal Ethos in the Twentieth Century_, Princeton: Princeton University Press.
 * ––– and Henry Hardy, 2018, ‘The Life and Opinions of Isaiah Berlin’, in Cherniss and Smith 2018, 13–30.
-* Connolly, William E., 2005, *Pluralism*, Durham, NC: Duke University Press.
-* Craiutu, Aurelian, 2017, *Faces of Moderation: The Art of Balance in an Age of Extremes*, Philadelphia: University of Pennsylvania Press.
-* Crowder, George, 1994, ‘Pluralism and Liberalism’, *Political Studies* 42: 293–305.
-* –––, 2002, *Liberalism and Value Pluralism*, London and New York: Continuum.
+* Connolly, William E., 2005, _Pluralism_, Durham, NC: Duke University Press.
+* Craiutu, Aurelian, 2017, _Faces of Moderation: The Art of Balance in an Age of Extremes_, Philadelphia: University of Pennsylvania Press.
+* Crowder, George, 1994, ‘Pluralism and Liberalism’, _Political Studies_ 42: 293–305.
+* –––, 2002, _Liberalism and Value Pluralism_, London and New York: Continuum.
 * –––, 2016, ‘After Berlin: The Literature since 2002’, online (PDF).
-* Dewey, John, 1908, ‘The Virtues’, chapter 19 of John Dewey and James H. Tufts, *Ethics*, New York: Holt.
-* Dzur, Albert W., 1998, ‘Value Pluralism versus Political Liberalism?’, *Social Theory and Practice*, 24/3: 375–92.
-* Evans, J. D. G., 1996, ‘Cultural Realism: The Ancient Philosophical Background’, in *Philosophy and Pluralism*, D. Archard (ed.), Cambridge: Cambridge University Press.
-* Ferrell, Jason, 2009, ‘Isaiah Berlin: Liberalism and Pluralism in Theory and Practice’, *Contemporary Political Theory*, 8: 295–316.
-* Friedman, Jeffrey, 1997, ‘Pluralism or Relativism?’, *Critical Review*, 11/4: 469–80.
-* Galston, William, 2002, *Liberal Pluralism: The Implications of Value Pluralism for Political Theory and Practice*, Cambridge etc.: Cambridge University Press.
-* –––, 2004, *Liberal Purposes: Goods, Virtues and Diversity in the Liberal State*, Cambridge and New York: Cambridge University Press.
-* –––, 2010, ‘Realism in Political Theory’, *European Journal of Political Theory*, 9/4: 385–411.
-* Gertsen, A. I. [i.e. Herzen], 1842, *Sobranie sochinenii v tridtsati tomakh*, Moscow: Academy of Sciences of the USSR, 1954–66; vol. 2, diary entry for 28 June.
-* Gray, John, 1993, *Post-Liberalism: Studies in Political Thought*, New York and London: Routledge.
-* –––, 1998, ‘Where Liberals and Pluralists Part Company’, *International Journal of Moral and Political Studies*, 6/1: 17–36.
-* –––, 2002, *Two Faces of Liberalism*, Cambridge: Polity.
+* Dewey, John, 1908, ‘The Virtues’, chapter 19 of John Dewey and James H. Tufts, _Ethics_, New York: Holt.
+* Dzur, Albert W., 1998, ‘Value Pluralism versus Political Liberalism?’, _Social Theory and Practice_, 24/3: 375–92.
+* Evans, J. D. G., 1996, ‘Cultural Realism: The Ancient Philosophical Background’, in _Philosophy and Pluralism_, D. Archard (ed.), Cambridge: Cambridge University Press.
+* Ferrell, Jason, 2009, ‘Isaiah Berlin: Liberalism and Pluralism in Theory and Practice’, _Contemporary Political Theory_, 8: 295–316.
+* Friedman, Jeffrey, 1997, ‘Pluralism or Relativism?’, _Critical Review_, 11/4: 469–80.
+* Galston, William, 2002, _Liberal Pluralism: The Implications of Value Pluralism for Political Theory and Practice_, Cambridge etc.: Cambridge University Press.
+* –––, 2004, _Liberal Purposes: Goods, Virtues and Diversity in the Liberal State_, Cambridge and New York: Cambridge University Press.
+* –––, 2010, ‘Realism in Political Theory’, _European Journal of Political Theory_, 9/4: 385–411.
+* Gertsen, A. I. \[i.e. Herzen], 1842, _Sobranie sochinenii v tridtsati tomakh_, Moscow: Academy of Sciences of the USSR, 1954–66; vol. 2, diary entry for 28 June.
+* Gray, John, 1993, _Post-Liberalism: Studies in Political Thought_, New York and London: Routledge.
+* –––, 1998, ‘Where Liberals and Pluralists Part Company’, _International Journal of Moral and Political Studies_, 6/1: 17–36.
+* –––, 2002, _Two Faces of Liberalism_, Cambridge: Polity.
 * Gustavsson, Gina, ‘Berlin’s Romantics and their Ambiguous Legacy’, in Cherniss and Smith 2018, 149–66.
 * Gutmann, Amy, 1999, ‘Liberty and Pluralism in Pursuit of the Non-Ideal’, in Mack 1999.
-* Hanley, Ryan P., 2004, ‘Political Science and Political Understanding: Isaiah Berlin on the Nature of Political Inquiry’, *American Political Science Review*, 98/2: 327–39
+* Hanley, Ryan P., 2004, ‘Political Science and Political Understanding: Isaiah Berlin on the Nature of Political Inquiry’, _American Political Science Review_, 98/2: 327–39
 * Harris, Ian, ‘Berlin and his Critics’, in Berlin 2002b.
 * Hausheer, Roger, 1979, introduction to Berlin 1979.
 * –––, 2004, ‘Enlightening the Enlightenment’, in Mali and Wokler 2003.
 * Herzen, Alexander: see Gertsen, A. I.
-* Hitchens, Christopher, 1998, ‘Moderation or Death’, *London Review of Books*, 23 November, 3–11.
-* Hollis, Martin, 1999, ‘Is Universalism Ethnocentric?’, in Christian Joppke and Steven Lukes (eds), *Multicultural Questions*, Oxford: Oxford University Press.
-* James, William, 1891, ‘The Moral Philosopher and the Moral Life‘, *International Journal of Ethics* 1: 330–54.
-* Katznelson, Ira, 1994, ‘A Properly Defended Liberalism: On John Gray and the Filling of Political Life’, *Social Research*, 61: 611–30.
-* Kekes, John, 1993, *The Morality of Pluralism*, Princeton: Princeton University Press.
-* –––, 1997, *Against Liberalism*, Ithaca: Cornell University Press.
-* Lamprecht, Sterling, 1920, ‘The Need for a Pluralistic Emphasis in Ethics’, *Journal of Philosophy, Psychology and Scientific Methods*, 17: 561–72.
-* –––, 1921, ‘Some Political Implications of Ethical Pluralism’, *Journal of Philosophy*, 18: 225–44.
-* Larmore, Charles, 1994, ‘Pluralism and Reasonable Disagreement’, *Social Philosophy and Policy*, 11/1, 61–79 .
-* Lukes, Steven, 1989, ‘Making Sense of Moral Conflict’, in *Liberalism and the Moral Life*, N. Rosenblum (ed.), Cambridge, Mass.: Harvard University Press.
-* –––, 1994, ‘The Singular and the Plural: On the Distinctive Liberalism of Isaiah Berlin’, *Social Research*, 61: 687–718.
-* –––, 1995, ‘Pluralism is not Enough’, *The Times Literary Supplement*, 10 February, 4–5.
-* –––, 1998, ‘Berlin’s Dilemma’, *The Times Literary Supplement*, 27 March, 8–10.
+* Hitchens, Christopher, 1998, ‘Moderation or Death’, _London Review of Books_, 23 November, 3–11.
+* Hollis, Martin, 1999, ‘Is Universalism Ethnocentric?’, in Christian Joppke and Steven Lukes (eds), _Multicultural Questions_, Oxford: Oxford University Press.
+* James, William, 1891, ‘The Moral Philosopher and the Moral Life‘, _International Journal of Ethics_ 1: 330–54.
+* Katznelson, Ira, 1994, ‘A Properly Defended Liberalism: On John Gray and the Filling of Political Life’, _Social Research_, 61: 611–30.
+* Kekes, John, 1993, _The Morality of Pluralism_, Princeton: Princeton University Press.
+* –––, 1997, _Against Liberalism_, Ithaca: Cornell University Press.
+* Lamprecht, Sterling, 1920, ‘The Need for a Pluralistic Emphasis in Ethics’, _Journal of Philosophy, Psychology and Scientific Methods_, 17: 561–72.
+* –––, 1921, ‘Some Political Implications of Ethical Pluralism’, _Journal of Philosophy_, 18: 225–44.
+* Larmore, Charles, 1994, ‘Pluralism and Reasonable Disagreement’, _Social Philosophy and Policy_, 11/1, 61–79 .
+* Lukes, Steven, 1989, ‘Making Sense of Moral Conflict’, in _Liberalism and the Moral Life_, N. Rosenblum (ed.), Cambridge, Mass.: Harvard University Press.
+* –––, 1994, ‘The Singular and the Plural: On the Distinctive Liberalism of Isaiah Berlin’, _Social Research_, 61: 687–718.
+* –––, 1995, ‘Pluralism is not Enough’, _The Times Literary Supplement_, 10 February, 4–5.
+* –––, 1998, ‘Berlin’s Dilemma’, _The Times Literary Supplement_, 27 March, 8–10.
 * –––, 2001, ‘An Unfashionable Fox’, in Lilla et al. 2001.
-* MacCallum, Gerald C., 1967a, ‘Berlin on the Compatibility of Values, Ideals, and ‘Ends’ ’, *Ethics*, 77: 139–45.
-* –––, 1967b, ‘Negative and Positive Freedom’, *Philosophical Review*, 76: 312–34.
-* Mack, Arien (ed.), 1999, *Liberty and Pluralism* (*Social Research* 66/4).
-* McQueen, Alison, 2017, ‘Political Realism and the Realist “Tradition” ’, *Critical Review of Social and Political Philosophy*, 20/3: 296–313.
-* Malebranche, Nicolas, 1680, *Treatise on Nature and Grace*, 1680, trans. and ed. Patrick Riley, Oxford: Clarendon Press, 1992.
-* Mehta, Pratap B., 1997, review of Gray 1995, *American Political Science Review*, 91/3: 722–4.
-* Meinecke, Friedrich, 1957 [1924], *Machiavellism: The Doctrine of Raison d’État and Its Place in Modern History*, trans. Douglas Scott, New Haven: Yale University Press.
-* Momigliano, Arnaldo, 1976, ‘On the Pioneer Trail’, *New York Review of Books*, 11 November, 33–8.
-* Moore, Matthew, 2009, ‘Pluralism, Relativism, and Liberalism’, *Political Research Quarterly*, 62: 244–56.
-* Müller, Jan-Werner (ed.), 2019, *Isaiah Berlin’s Cold War Liberalism*, London: Palgrave Pivot.
-* Myers, Ella, 2010, ’From Pluralism to Liberalism: Rereading Isaiah Berlin’, *Review of Politics*, 72: 599–625.
-* Nussbaum, Martha, 1986, *The Fragility of Goodness*, Cambridge: Cambridge University Press.
-* Oakeshott, Michael, 1962, *Rationalism in Politics and Other Essays*, London: Methuen.
-* –––, 1965, ‘Rationalism in Politics: A Reply to Professor Raphael’, *Political Studies* 13: 89–92.
-* Rashdall, Hastings, 1907, ‘The Commensurability of All Values’, chapter 2 of his *The Theory of Good and Evil*, vol. 2, London: Oxford University Press.
-* Riley, Jonathan, ‘Interpreting Berlin’s Liberalism’, *American Political Science Review*, 95: 283–95.
-* –––, 2002, ‘Defending Cultural Pluralism within Liberal Limits’, *Political Theory*, 30/1: 68–97.
-* Sabl, Andrew, and Rahul Sagar (eds.), 2017, ‘Realism’, *Critical Review of International Social and Political Philosophy*, 20(3): 269–402.
-* Scruton, Roger, 1989, ‘Freedom’s Cautious Defender’, *The Times*, 3 June, 10.
+* MacCallum, Gerald C., 1967a, ‘Berlin on the Compatibility of Values, Ideals, and ‘Ends’ ’, _Ethics_, 77: 139–45.
+* –––, 1967b, ‘Negative and Positive Freedom’, _Philosophical Review_, 76: 312–34.
+* Mack, Arien (ed.), 1999, _Liberty and Pluralism_ (_Social Research_ 66/4).
+* McQueen, Alison, 2017, ‘Political Realism and the Realist “Tradition” ’, _Critical Review of Social and Political Philosophy_, 20/3: 296–313.
+* Malebranche, Nicolas, 1680, _Treatise on Nature and Grace_, 1680, trans. and ed. Patrick Riley, Oxford: Clarendon Press, 1992.
+* Mehta, Pratap B., 1997, review of Gray 1995, _American Political Science Review_, 91/3: 722–4.
+* Meinecke, Friedrich, 1957 \[1924], _Machiavellism: The Doctrine of Raison d’État and Its Place in Modern History_, trans. Douglas Scott, New Haven: Yale University Press.
+* Momigliano, Arnaldo, 1976, ‘On the Pioneer Trail’, _New York Review of Books_, 11 November, 33–8.
+* Moore, Matthew, 2009, ‘Pluralism, Relativism, and Liberalism’, _Political Research Quarterly_, 62: 244–56.
+* Müller, Jan-Werner (ed.), 2019, _Isaiah Berlin’s Cold War Liberalism_, London: Palgrave Pivot.
+* Myers, Ella, 2010, ’From Pluralism to Liberalism: Rereading Isaiah Berlin’, _Review of Politics_, 72: 599–625.
+* Nussbaum, Martha, 1986, _The Fragility of Goodness_, Cambridge: Cambridge University Press.
+* Oakeshott, Michael, 1962, _Rationalism in Politics and Other Essays_, London: Methuen.
+* –––, 1965, ‘Rationalism in Politics: A Reply to Professor Raphael’, _Political Studies_ 13: 89–92.
+* Rashdall, Hastings, 1907, ‘The Commensurability of All Values’, chapter 2 of his _The Theory of Good and Evil_, vol. 2, London: Oxford University Press.
+* Riley, Jonathan, ‘Interpreting Berlin’s Liberalism’, _American Political Science Review_, 95: 283–95.
+* –––, 2002, ‘Defending Cultural Pluralism within Liberal Limits’, _Political Theory_, 30/1: 68–97.
+* Sabl, Andrew, and Rahul Sagar (eds.), 2017, ‘Realism’, _Critical Review of International Social and Political Philosophy_, 20(3): 269–402.
+* Scruton, Roger, 1989, ‘Freedom’s Cautious Defender’, _The Times_, 3 June, 10.
 * Smith, Steven, 2018, ‘Isaiah Berlin on the Enlightenment and Counter-Enlightenment’, in Cherniss and Smith 2018: 132–148.
-* Stephen, James Fitzjames, 1873, *Liberty, Equality, Fraternity*, London: Smith, Elder & Co.
-* Strauss, Leo, 1961, ‘Relativism’, in *Relativism and the Study of Man*, H. Schoeck and J. Wiggins (eds), Princeton: Van Nostrand.
-* Talisse, Robert B., 2010, ‘Does Value Pluralism Entail Liberalism?’ *Journal of Moral Philosophy*, 7: 303–20.
-* –––, 2012, *Pluralism and Liberal Politics*, New York and London: Routledge.
-* Walzer, Michael, 1973, ‘Political Action: The Problem of Dirty Hands’, *Philosophy and Public Affairs*, 2/2: 160–80.
-* –––, 1995, ‘Are There Limits to Liberalism?’, *New York Review of Books*, 19 October, 28–31.
-* Weber, Max, 1904, ‘The Meaning of “Ethical Neutrality” in Sociology and Economics’, in Max Weber, *The Methodology of the Social Sciences*, E. Shils and H. Finch (trans. and eds), New York/Glencoe, Illinois, 1949: Free Press.
-* –––, 1918, ‘Politics as a Vocation’ and ‘Science as a Vocation’, in *From Max Weber: Essays in Sociology*, H. Gerth and C. Wright Mills (eds), London, 1946: Routledge and Kegan Paul.
-* Weinstock, Daniel, 1997, ‘The Graying of Berlin’, *Critical Review*, 11/4: 481–501.
-* Zakaras, Alex, 2013, ‘A Liberal Pluralism: Isaiah Berlin and John Stuart Mill’, *Review of Politics*, 75: 69–96.
+* Stephen, James Fitzjames, 1873, _Liberty, Equality, Fraternity_, London: Smith, Elder & Co.
+* Strauss, Leo, 1961, ‘Relativism’, in _Relativism and the Study of Man_, H. Schoeck and J. Wiggins (eds), Princeton: Van Nostrand.
+* Talisse, Robert B., 2010, ‘Does Value Pluralism Entail Liberalism?’ _Journal of Moral Philosophy_, 7: 303–20.
+* –––, 2012, _Pluralism and Liberal Politics_, New York and London: Routledge.
+* Walzer, Michael, 1973, ‘Political Action: The Problem of Dirty Hands’, _Philosophy and Public Affairs_, 2/2: 160–80.
+* –––, 1995, ‘Are There Limits to Liberalism?’, _New York Review of Books_, 19 October, 28–31.
+* Weber, Max, 1904, ‘The Meaning of “Ethical Neutrality” in Sociology and Economics’, in Max Weber, _The Methodology of the Social Sciences_, E. Shils and H. Finch (trans. and eds), New York/Glencoe, Illinois, 1949: Free Press.
+* –––, 1918, ‘Politics as a Vocation’ and ‘Science as a Vocation’, in _From Max Weber: Essays in Sociology_, H. Gerth and C. Wright Mills (eds), London, 1946: Routledge and Kegan Paul.
+* Weinstock, Daniel, 1997, ‘The Graying of Berlin’, _Critical Review_, 11/4: 481–501.
+* Zakaras, Alex, 2013, ‘A Liberal Pluralism: Isaiah Berlin and John Stuart Mill’, _Review of Politics_, 75: 69–96.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=berlin). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/berlin/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=berlin&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/berlin/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=berlin).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/berlin/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=berlin\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/berlin/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [Isaiah Berlin Online](https://isaiah-berlin.wolfson.ox.ac.uk/), ed. Mark Pottle (Isaiah Berlin Legacy Fellow, Wolfson College, Oxford).
 * [The Isaiah Berlin Virtual Library](http://berlin.wolf.ox.ac.uk/), ed. Henry Hardy (Wolfson College, Oxford).
-* [Catalogue of Berlin’s papers](http://www.bodley.ox.ac.uk/dept/scwmss/wmss/online/modern/berlin/berlin.html) in the Bodleian Library, Oxford University.
-* [British Library Sound Archive holdings](http://cadensa.bl.uk/cgi-bin/webcat) (search for ‘Isaiah Berlin’).
+* [Catalogue of Berlin’s papers](http://www.bodley.ox.ac.uk/dept/scwmss/wmss/online/modern/berlin/berlin.html) in the Bodleian Library, Oxford University.
+* [British Library Sound Archive holdings](http://cadensa.bl.uk/cgi-bin/webcat) (search for ‘Isaiah Berlin’).
 * [New York Review of Books](http://www.nybooks.com/contributors/isaiah-berlin/): articles by Isaiah Berlin.
-* [Photos/portraits of Berlin](https://www.npg.org.uk/collections/search/person/mp05079/) in the National Portrait Gallery (London).
+* [Photos/portraits of Berlin](https://www.npg.org.uk/collections/search/person/mp05079/) in the National Portrait Gallery (London).
 
 ### Selected Online Items on Berlin
 
-* Billington, James H., Katharine Graham, Arthur Schlesinger, Jr., Robert Silvers, Charles Taylor and Leon Wieseltier, 1998, contributions to ‘[Washington Tributes](https://berlin.wolf.ox.ac.uk/writings_on_ib/washington_tributes/)’ to Isaiah Berlin delivered at ‘An American Remembrance’ held at the British Embassy in Washington, DC, on 28 January 1998.
+* Billington, James H., Katharine Graham, Arthur Schlesinger, Jr., Robert Silvers, Charles Taylor and Leon Wieseltier, 1998, contributions to ‘[Washington Tributes](https://berlin.wolf.ox.ac.uk/writings\_on\_ib/washington\_tributes/)’ to Isaiah Berlin delivered at ‘An American Remembrance’ held at the British Embassy in Washington, DC, on 28 January 1998.
 * Chappel, James, 2005, ‘[Dignity is Everything: Isaiah Berlin and His Jewish Identity](https://scholarship.tricolib.brynmawr.edu/items/5a4c62ca-f238-4310-976a-d962313baa5c)’, Senior Thesis, Department of History, Haverford College ([PDF](https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/672/2005ChappelJ.pdf)).
-* Cherniss, Joshua, 2017, ‘[Liberal Understanding for Troubled Times: Isaiah Berlin’s Insights and Our Moment of Populist Revolt](http://www.thecritique.com/articles/liberal-understanding-for-troubled-times/)’, *Critique*, 15 January 2017.
-* Cohen, G. A., 2001, ‘[Freedom and Money](http://www.utdt.edu/Upload/_115634753114776100.pdf)’ (PDF); manuscript dedicated to Isaiah Berlin.
+* Cherniss, Joshua, 2017, ‘[Liberal Understanding for Troubled Times: Isaiah Berlin’s Insights and Our Moment of Populist Revolt](http://www.thecritique.com/articles/liberal-understanding-for-troubled-times/)’, _Critique_, 15 January 2017.
+* Cohen, G. A., 2001, ‘[Freedom and Money](http://www.utdt.edu/Upload/\_115634753114776100.pdf)’ (PDF); manuscript dedicated to Isaiah Berlin.
 * Crowder, George, 2003, ‘[Pluralism, Relativism and Liberalism in Isaiah Berlin](https://berlin.wolf.ox.ac.uk/lists/onib/crowder/IBVPREL2003.pdf)’ (PDF), presented to the Australasian Political Studies Association Conference, University of Tasmania, Hobart, 29 September to 1 October 2003.
 * –––, 2020, ‘[After Berlin: The Literature 2002–2020](https://berlin.wolf.ox.ac.uk/lists/onib/after-berlin.pdf)’ (PDF).
-* Dubnov, Arie, 2012, ‘[What is Jewish (If Anything) about Isaiah Berlin’s Philosophy?](http://www.mdpi.com/2077-1444/3/2/289)’, *Religions*, 3(2): 289–319.
-* Hardy, Henry, 1995 [2007], ‘[Taking Pluralism Seriously](http://berlin.wolf.ox.ac.uk/writings_on_ib/hhonib/taking_pluralism_seriously.html)’, online manuscript; Dutch translation in *Nexus*, 13 (1995): 74–86; original English text published in Crowder and Hardy 2007; shortened version, ‘[Pluralism and Radical Tolerance](http://berlin.wolf.ox.ac.uk/writings_on_ib/hhonib/plurradtol.html)’, *Insights*, 118(1) (2002): 21–3.
-* –––, 1997, [obituary of Isaiah Berlin](https://www.independent.co.uk/news/obituaries/obituray-sir-isaiah-berlin-1292530.html), *Independent*, 7 November 1997.
-* Lyons, Johnny, 2019, ‘[Philosopher of the Human](https://aeon.co/essays/what-can-isaiah-berlin-tell-us-about-political-freedom-today)’, *Aeon*, 10 December 2019.
-* –––, 2020, [*Discovering Isaiah Berlin*](https://johnnylyons.org/films), filmed interview with Henry Hardy in June 2019, in short and long versions).
+* Dubnov, Arie, 2012, ‘[What is Jewish (If Anything) about Isaiah Berlin’s Philosophy?](http://www.mdpi.com/2077-1444/3/2/289)’, _Religions_, 3(2): 289–319.
+* Hardy, Henry, 1995 \[2007], ‘[Taking Pluralism Seriously](http://berlin.wolf.ox.ac.uk/writings\_on\_ib/hhonib/taking\_pluralism\_seriously.html)’, online manuscript; Dutch translation in _Nexus_, 13 (1995): 74–86; original English text published in Crowder and Hardy 2007; shortened version, ‘[Pluralism and Radical Tolerance](http://berlin.wolf.ox.ac.uk/writings\_on\_ib/hhonib/plurradtol.html)’, _Insights_, 118(1) (2002): 21–3.
+* –––, 1997, [obituary of Isaiah Berlin](https://www.independent.co.uk/news/obituaries/obituray-sir-isaiah-berlin-1292530.html), _Independent_, 7 November 1997.
+* Lyons, Johnny, 2019, ‘[Philosopher of the Human](https://aeon.co/essays/what-can-isaiah-berlin-tell-us-about-political-freedom-today)’, _Aeon_, 10 December 2019.
+* –––, 2020, [_Discovering Isaiah Berlin_](https://johnnylyons.org/films), filmed interview with Henry Hardy in June 2019, in short and long versions).
 
-Other articles are listed in [Isaiah Berlin Online](https://isaiah-berlin.wolfson.ox.ac.uk/) and [The Isaiah Berlin Virtual Library](http://berlin.wolf.ox.ac.uk/lists/onib/other.html).
+Other articles are listed in [Isaiah Berlin Online](https://isaiah-berlin.wolfson.ox.ac.uk/) and [The Isaiah Berlin Virtual Library](http://berlin.wolf.ox.ac.uk/lists/onib/other.html).
 
 ## Related Entries
 
-[Ayer, Alfred Jules](https://plato.stanford.edu/entries/ayer/) | [Berkeley, George](https://plato.stanford.edu/entries/berkeley/) | [Bosanquet, Bernard](https://plato.stanford.edu/entries/bosanquet/) | [Bradley, Francis Herbert](https://plato.stanford.edu/entries/bradley/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [categories](https://plato.stanford.edu/entries/categories/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [Collingwood, Robin George](https://plato.stanford.edu/entries/collingwood/) | [determinism: causal](https://plato.stanford.edu/entries/determinism-causal/) | [Dilthey, Wilhelm](https://plato.stanford.edu/entries/dilthey/) | [Enlightenment](https://plato.stanford.edu/entries/enlightenment/) | [equality](https://plato.stanford.edu/entries/equality/) | [Fichte, Johann Gottlieb](https://plato.stanford.edu/entries/johann-fichte/) | [free will](https://plato.stanford.edu/entries/freewill/) | [Green, Thomas Hill](https://plato.stanford.edu/entries/green/) | [Hamann, Johann Georg](https://plato.stanford.edu/entries/hamann/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Herder, Johann Gottfried von](https://plato.stanford.edu/entries/herder/) | [history, philosophy of](https://plato.stanford.edu/entries/history/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [libertarianism](https://plato.stanford.edu/entries/libertarianism/) | [liberty: positive and negative](https://plato.stanford.edu/entries/liberty-positive-negative/) | logical positivism | [Machiavelli, Niccolò](https://plato.stanford.edu/entries/machiavelli/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [Montesquieu, Charles-Louis de Secondat, Baron de](https://plato.stanford.edu/entries/montesquieu/) | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [nationalism](https://plato.stanford.edu/entries/nationalism/) | [neo-Kantianism](https://plato.stanford.edu/entries/neo-kantianism/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | ordinary language | [Rickert, Heinrich](https://plato.stanford.edu/entries/heinrich-rickert/) | [universals: the medieval problem of](https://plato.stanford.edu/entries/universals-medieval/) | [value: pluralism](https://plato.stanford.edu/entries/value-pluralism/) | [Vico, Giambattista](https://plato.stanford.edu/entries/vico/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/) | [Weber, Max](https://plato.stanford.edu/entries/weber/) | [Williams, Bernard](https://plato.stanford.edu/entries/williams-bernard/) | [Windelband, Wilhelm](https://plato.stanford.edu/entries/wilhelm-windelband/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
+[Ayer, Alfred Jules](https://plato.stanford.edu/entries/ayer/) | [Berkeley, George](https://plato.stanford.edu/entries/berkeley/) | [Bosanquet, Bernard](https://plato.stanford.edu/entries/bosanquet/) | [Bradley, Francis Herbert](https://plato.stanford.edu/entries/bradley/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [categories](https://plato.stanford.edu/entries/categories/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [Collingwood, Robin George](https://plato.stanford.edu/entries/collingwood/) | [determinism: causal](https://plato.stanford.edu/entries/determinism-causal/) | [Dilthey, Wilhelm](https://plato.stanford.edu/entries/dilthey/) | [Enlightenment](https://plato.stanford.edu/entries/enlightenment/) | [equality](https://plato.stanford.edu/entries/equality/) | [Fichte, Johann Gottlieb](https://plato.stanford.edu/entries/johann-fichte/) | [free will](https://plato.stanford.edu/entries/freewill/) | [Green, Thomas Hill](https://plato.stanford.edu/entries/green/) | [Hamann, Johann Georg](https://plato.stanford.edu/entries/hamann/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Herder, Johann Gottfried von](https://plato.stanford.edu/entries/herder/) | [history, philosophy of](https://plato.stanford.edu/entries/history/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [libertarianism](https://plato.stanford.edu/entries/libertarianism/) | [liberty: positive and negative](https://plato.stanford.edu/entries/liberty-positive-negative/) | logical positivism | [Machiavelli, Niccolò](https://plato.stanford.edu/entries/machiavelli/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [Montesquieu, Charles-Louis de Secondat, Baron de](https://plato.stanford.edu/entries/montesquieu/) | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [nationalism](https://plato.stanford.edu/entries/nationalism/) | [neo-Kantianism](https://plato.stanford.edu/entries/neo-kantianism/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | ordinary language | [Rickert, Heinrich](https://plato.stanford.edu/entries/heinrich-rickert/) | [universals: the medieval problem of](https://plato.stanford.edu/entries/universals-medieval/) | [value: pluralism](https://plato.stanford.edu/entries/value-pluralism/) | [Vico, Giambattista](https://plato.stanford.edu/entries/vico/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/) | [Weber, Max](https://plato.stanford.edu/entries/weber/) | [Williams, Bernard](https://plato.stanford.edu/entries/williams-bernard/) | [Windelband, Wilhelm](https://plato.stanford.edu/entries/wilhelm-windelband/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
 
 ### Acknowledgments
 
 The authors would like to thank George Crowder, Johnny Lyons, Beata Polanowska-Sygulska and I. Alp Yilmaz, who read drafts of this entry, and whose comments were most helpful.
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Joshua Cherniss](https://gufaculty360.georgetown.edu/s/contact/00336000014TIGAAA4/joshua-cherniss) <[*jlc306@georgetown.edu*](mailto:jlc306%40georgetown%2eedu)>  
-Henry Hardy <[*henry.hardy@wolfson.ox.ac.uk*](mailto:henry%2ehardy%40wolfson%2eox%2eac%2euk)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Joshua Cherniss](https://gufaculty360.georgetown.edu/s/contact/00336000014TIGAAA4/joshua-cherniss) <[_jlc306@georgetown.edu_](mailto:jlc306%40georgetown%2eedu)>\
+Henry Hardy <[_henry.hardy@wolfson.ox.ac.uk_](mailto:henry%2ehardy%40wolfson%2eox%2eac%2euk)>

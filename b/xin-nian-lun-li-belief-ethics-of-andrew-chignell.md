@@ -1,10 +1,10 @@
 # 信念伦理 belief, ethics of (Andrew Chignell)
 
-*首次发布于 2010 年 6 月 14 日；实质性修订于 2018 年 3 月 5 日*
+_首次发布于 2010 年 6 月 14 日；实质性修订于 2018 年 3 月 5 日_
 
 “信念伦理学”是指在认识论、伦理学、心灵哲学和心理学交叉领域中的一系列问题。
 
-辩论中的核心问题是我们的信念形成、维持和放弃的习惯是否受到某种规范的约束。在证据不足的情况下持有信念是否总是道德上的*错误*（或认识论上的*不合理*，或实践上的*不明智*）？在有足够证据的基础上相信或在没有足够证据的情况下保持怀疑态度是否总是道德上的*正确*（或认识论上的*合理*，或实践上的*明智*）？是否有义务寻求所有可得的认识论证据来支持一个信念？是否有一些获取证据的方式本身就是不道德、不合理或不明智的？
+辩论中的核心问题是我们的信念形成、维持和放弃的习惯是否受到某种规范的约束。在证据不足的情况下持有信念是否总是道德上的_错误_（或认识论上的_不合理_，或实践上的_不明智_）？在有足够证据的基础上相信或在没有足够证据的情况下保持怀疑态度是否总是道德上的_正确_（或认识论上的_合理_，或实践上的_明智_）？是否有义务寻求所有可得的认识论证据来支持一个信念？是否有一些获取证据的方式本身就是不道德、不合理或不明智的？
 
 相关问题涉及到规范的性质和结构，如果有的话，以及它们的权威来源。它们是以我们自己设定的偶然目标为基础的工具性规范吗？还是以我们的智力或道德能力的本质为我们设定的范畴性规范？还有其他选择吗？在这个背景下，评估的对象是信仰者、信念还是两者都有？
 
@@ -17,9 +17,7 @@
 * [2.1 规范的种类：谨慎的、道德的、认识论的](https://plato.stanford.edu/entries/ethics-belief/#KinNorPruMorEpi)
 * [2.2 规范的结构：假设性 vs. 范畴性](https://plato.stanford.edu/entries/ethics-belief/#StrNorHypVsCat)
 * [2.3 反思访问的程度](https://plato.stanford.edu/entries/ethics-belief/#DegRefAcc)
-
 * [2.4 Relations between doxastic norms](https://plato.stanford.edu/entries/ethics-belief/#RelBetDoxNor)
-
 * [3. 信念、其目标和我们对其的控制](https://plato.stanford.edu/entries/ethics-belief/#BelAimOurConOveIt)
 * [3.1 信念的本质](https://plato.stanford.edu/entries/ethics-belief/#NatBel)
 * [3.2 信念的目标](https://plato.stanford.edu/entries/ethics-belief/#AimSBel)
@@ -31,9 +29,7 @@
 * [4.3 证据及其拥有](https://plato.stanford.edu/entries/ethics-belief/#EviPos)
 * [5. 证据主义的种类](https://plato.stanford.edu/entries/ethics-belief/#VarEvi)
 * [5.1 谨慎证据主义](https://plato.stanford.edu/entries/ethics-belief/#PruEvi)
-
 * [5.2 Moral evidentialism](https://plato.stanford.edu/entries/ethics-belief/#MorEvi)
-
 * [5.3 认识论证据主义](https://plato.stanford.edu/entries/ethics-belief/#EpiEvi)
 * [6. 非证据主义的种类](https://plato.stanford.edu/entries/ethics-belief/#VarNonEvi)
 * [6.1 实践非证据主义](https://plato.stanford.edu/entries/ethics-belief/#PraNonEvi)
@@ -45,7 +41,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/ethics-belief/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/ethics-belief/#Rel)
 
----
+***
 
 ## 1. 信念的伦理学：简史
 
@@ -61,11 +57,11 @@
 
 克利福德继续引用我们对船主的直观指责（在故事的两个版本中）作为他著名原则的依据：
 
->  **（克利福德原则）** “在没有充分证据的情况下，任何人都不应该无论何时何地相信任何事情。”
+> **（克利福德原则）** “在没有充分证据的情况下，任何人都不应该无论何时何地相信任何事情。”
 
 尽管克利福德的著名原则具有同步性的特点，但他的观点并不仅仅是我们必须在形成信念的确切时间处于某种状态。相反，始终且只有在有充分证据的情况下相信是我们在时间上的活动所遵循的义务。克利福德表示，对于我们考虑作为信念候选的大多数，如果不是全部命题，我们有义务去收集证据，对新证据持开放态度，并考虑他人提供的证据。这里的时间上的义务可以概括如下：
 
->  **（克利福德的另一个原则）** “在任何时候、任何地点，任何人都不应该忽视与其信念相关的证据，或者轻率地对待相关证据。”（范·因瓦根，1996 年，145 页）
+> **（克利福德的另一个原则）** “在任何时候、任何地点，任何人都不应该忽视与其信念相关的证据，或者轻率地对待相关证据。”（范·因瓦根，1996 年，145 页）
 
 这里可能至少有两种历时义务：一种是指导我们如何随时间形成和坚持信念，另一种是指导我们如何随时间放弃或修正信念。如果有人“故意回避阅读质疑他预设的书籍和与之相悖的人的公司”，克利福德警告说，那么“这个人的一生就是对人类的长期罪恶”（1877 年，77 页）。
 
@@ -93,7 +89,7 @@
 
 这最后一点清楚地表明，可能存在不同类型的规范来管理信念形成的实践，并且这些规范将对应于不同类型的价值观。信念的伦理学家因此需要明确指定她所引用的价值类型，以及她认为为什么以及如何它可以作为信念规范的基础，是否它是唯一一种能够做到这一点的价值类型，以及（如果不是）基于不同类型的价值的规范之间的优先关系是什么。
 
-正如我们所见，克利福德和洛克声称，我们是否尽了最大努力是一个*认识论*问题，也是（在一些进一步的前提下）一个*道德*问题。另一方面，詹姆斯则着重强调在信念伦理学中*实用*价值的重要作用，他在一段话中说，克利福德的原则不仅使我们面临“失去真理”的风险，从而违反了认识论规范，而且它表达了一种“疯狂的逻辑”——一种保证实用灾难的“荒谬”（1896 年，25 页）。总体思想是，如果某事是有益的，并且相信*p*将帮助我们实现、获得或实现那件事，那么我们相信*p*在表面上是明智的。即使我们对于相信*p*的证据不足，甚至我们意识到这种不足。
+正如我们所见，克利福德和洛克声称，我们是否尽了最大努力是一个_认识论_问题，也是（在一些进一步的前提下）一个_道德_问题。另一方面，詹姆斯则着重强调在信念伦理学中_实用_价值的重要作用，他在一段话中说，克利福德的原则不仅使我们面临“失去真理”的风险，从而违反了认识论规范，而且它表达了一种“疯狂的逻辑”——一种保证实用灾难的“荒谬”（1896 年，25 页）。总体思想是，如果某事是有益的，并且相信_p_将帮助我们实现、获得或实现那件事，那么我们相信_p_在表面上是明智的。即使我们对于相信_p_的证据不足，甚至我们意识到这种不足。
 
 例如，考虑一个人在心理学文献中读到，如果他们坚信自己能够战胜癌症，那么他们存活的可能性要大得多。当他自己被诊断出患有这种疾病时，考虑到他的目标是存活，即使他知道他（和他的医生）对于这种信念缺乏足够的证据，对于这个人来说相信他会存活是明智的。詹姆斯将这样的情况称为“信仰可以帮助创造事实的情况”（1896 年，25 页）。
 
@@ -105,31 +101,31 @@
 
 ### 2.2 规范的结构：假设性 vs. 范畴性
 
-除了根据所涉及的*价值类型*进行分类之外，信念义务还可以根据它们的*结构*进行分类。这里的主要区别是假设性结构和范畴性结构之间的区别。
+除了根据所涉及的_价值类型_进行分类之外，信念义务还可以根据它们的_结构_进行分类。这里的主要区别是假设性结构和范畴性结构之间的区别。
 
-德性规范通常具有假设性结构：*如果*你有德性理由去抵抗疾病，并且*如果*相信你会这样做将有助于你实现这个目标，那么你有一个*prima facie*的义务去相信你会存活下来。同样，*如果*你想保护与你儿子的关系，并且*如果*相信他在欺骗你并且吸毒会损害你信任他的能力，那么你有一个*prima facie*的义务去保留那个信念。
+德性规范通常具有假设性结构：_如果_你有德性理由去抵抗疾病，并且_如果_相信你会这样做将有助于你实现这个目标，那么你有一个_prima facie_的义务去相信你会存活下来。同样，_如果_你想保护与你儿子的关系，并且_如果_相信他在欺骗你并且吸毒会损害你信任他的能力，那么你有一个_prima facie_的义务去保留那个信念。
 
-更一般地说：如果你有一个谨慎的目标 *E*，并且相信 *p* 很可能实现 *E*，那么你有一个 *prima facie* 的义务相信 *p*。如果 *E* 除了相信 *p* 之外无法实现，并且你意识到这个事实（或者应该意识到），那么这个义务将会特别强大（尽管仍然是 *prima facie* 的）。（有关假设规范的更多信息，请参见 Broome 1999 和 Schroeder 2005）
+更一般地说：如果你有一个谨慎的目标 _E_，并且相信 _p_ 很可能实现 _E_，那么你有一个 _prima facie_ 的义务相信 _p_。如果 _E_ 除了相信 _p_ 之外无法实现，并且你意识到这个事实（或者应该意识到），那么这个义务将会特别强大（尽管仍然是 _prima facie_ 的）。（有关假设规范的更多信息，请参见 Broome 1999 和 Schroeder 2005）
 
 道德和认识规范的结构也可以用这种方式假设。涉及的目标可能是一方面是“做正确的事情”或“促进道德善”，另一方面是“获得重要的知识”或“减少重要的错误信念”（参见 Foley 1987）。在后者的大多数概念中，实现这些目标显然会增加幸福感。
 
 然而，由于这些目标被认为不是由偶然的意愿行为设定的，而是由我们作为道德参与和寻求知识的存在的本质设定的，一些哲学家将它们视为“范畴性”的而不是工具性的命令。换句话说，他们认为这些规范不仅仅是说“如果”我们想要实现各种假设的目标，“那么”我们有义务以某种方式相信。相反，这些规范说我们作为自然或道德的必然性拥有这些目标，因此我们“prima facie”应该以某种方式相信。
 
-然而，请注意，最普遍的谨慎目标——比如说*生存*——可能被认为同样有资格被称为“必要”目标：它是由我们作为进化经过自然选择的物种的生命成员的本性所确定的。因此，按照同样的逻辑，它可能被视为支持一种范畴性的——尽管仍然是谨慎的——信念规范，尤其是在像上面提到的癌症诊断这样的生死关头。
+然而，请注意，最普遍的谨慎目标——比如说_生存_——可能被认为同样有资格被称为“必要”目标：它是由我们作为进化经过自然选择的物种的生命成员的本性所确定的。因此，按照同样的逻辑，它可能被视为支持一种范畴性的——尽管仍然是谨慎的——信念规范，尤其是在像上面提到的癌症诊断这样的生死关头。
 
 ### 2.3 反思访问的程度
 
-到目前为止，信念伦理中涉及的规范都没有考虑到反思访问的要求。*反思访问要求*与主体对相关事实的反思意识有关。
+到目前为止，信念伦理中涉及的规范都没有考虑到反思访问的要求。_反思访问要求_与主体对相关事实的反思意识有关。
 
 为了看到这些要求如何发挥作用，考虑以下审慎信念规范：
 
->  **（A）** 如果 S 拥有目标*E*，并且 S 相信*p*有可能实现*E*，那么 S 有一个*prima facie*的审慎义务去相信*p*。
+> **（A）** 如果 S 拥有目标_E_，并且 S 相信_p_有可能实现_E_，那么 S 有一个_prima facie_的审慎义务去相信_p_。
 
-这是一个纯客观或者说“不经思考”的有关审慎义务的描述：它只关注主体是否*实际上*拥有某个目标，以及相信*p*是否*实际上*有可能实现该目标。如果（A）是表达信念伦理义务的正确方式，那么我们将意识到比我们意识到的更多*prima facie*的信念义务。
+这是一个纯客观或者说“不经思考”的有关审慎义务的描述：它只关注主体是否_实际上_拥有某个目标，以及相信_p_是否_实际上_有可能实现该目标。如果（A）是表达信念伦理义务的正确方式，那么我们将意识到比我们意识到的更多_prima facie_的信念义务。
 
 可以在规范中添加反思性或“主观性”组成部分，以使结果更加合理：
 
->  **（B）** 如果 S“知道”她有一个目标 E，并且如果 S“知道”相信 p 很可能使 E 实现，那么 S 有一个“prima facie”的务实义务去相信 p。
+> **（B）** 如果 S“知道”她有一个目标 E，并且如果 S“知道”相信 p 很可能使 E 实现，那么 S 有一个“prima facie”的务实义务去相信 p。
 
 （B）在反思性访问要求方面处于较高位置：S 必须“知道”他有 E，并且相信 p 很可能使 E 实现。作为具有信念义务的充分条件，这可能是可以接受的，但大多数信念伦理学家不希望使反思性知识成为存在真正的“prima facie”务实义务的必要条件。
 
@@ -147,15 +143,15 @@
 
 规范和规范的类型可以以不同的方式相关联。根据以上克利福德的解释，认识论和道德类型之间存在着强烈的联系：有一个认识论规范，即只有在有充分证据的情况下才能相信，这就意味着存在着类似的道德规范。这里的推理似乎如下所示：
 
->  **（P1）** 我们有一个认识论义务，即对我们所有的信念都要有充分的证据；
+> **（P1）** 我们有一个认识论义务，即对我们所有的信念都要有充分的证据；
 
- %%
+%%
 
- **(P2)**  我们有道义义务遵守我们的认知义务；
+**(P2)** 我们有道义义务遵守我们的认知义务；
 
 >
 
- **(C)**  因此，我们有道义义务对我们所有的信念拥有足够的证据。
+**(C)** 因此，我们有道义义务对我们所有的信念拥有足够的证据。
 
 这个表述保持了价值类型的区别，同时通过（P2）的形式将它们联系起来。但当然，我们需要找到一个有力的支持（P2）的子论证（参见 Dougherty 2014）。
 
@@ -189,9 +185,9 @@
 
 ### 3.2 信念的目标
 
-相比之下，关于信念的*目标*或*目的*的理论通常对其伦理观念产生直接而实质性的影响，并且可以用来回答关于各种规范的相对重要性、在特定情况下是否存在“综合考虑”的义务等问题（参见 Velleman 2000，Wedgwood 2002，Steglich-Peterson 2009 以及 Chan 2013 中的论文进行一般讨论；参见 Côté-Bouchard 即将发表的文章对从信念目标到信念规范的转变进行批判）。
+相比之下，关于信念的_目标_或_目的_的理论通常对其伦理观念产生直接而实质性的影响，并且可以用来回答关于各种规范的相对重要性、在特定情况下是否存在“综合考虑”的义务等问题（参见 Velleman 2000，Wedgwood 2002，Steglich-Peterson 2009 以及 Chan 2013 中的论文进行一般讨论；参见 Côté-Bouchard 即将发表的文章对从信念目标到信念规范的转变进行批判）。
 
-一些哲学家和心理学家认为，仅仅获取*重要真理*而避免*重要谬误*是信念的唯一目标，因此任何信念义务都将相应地构建（参见 David 2001）。其他人则认为，除了或者甚至代替真理获取的目标之外，还有其他重要目标，这些目标可以支持其他信念规范（Velleman 2000，Sosa 2000，Sosa 2003，Gibbons 2013）。当然，一个常见的候选者就是知识本身（参见 Williamson 2000，Pritchard 2007，Simion et al. 2016 以及[知识价值](https://plato.stanford.edu/entries/knowledge-value/)条目），但一些作者声称，理由（Adler 2002，Gibbons 2013）和/或信念的“美德”是目标（Zagzebski 2004，Sosa 2011，Wright 2014），而其他人则倾向于更为结构复杂的目标，如“理解”（Kvanvig 2003，Kvanvig 2009，Grimm 2012）。（注意，还有其他作者认为理解甚至不涉及信念（Hunter 1998；Dellsén 即将发表））。
+一些哲学家和心理学家认为，仅仅获取_重要真理_而避免_重要谬误_是信念的唯一目标，因此任何信念义务都将相应地构建（参见 David 2001）。其他人则认为，除了或者甚至代替真理获取的目标之外，还有其他重要目标，这些目标可以支持其他信念规范（Velleman 2000，Sosa 2000，Sosa 2003，Gibbons 2013）。当然，一个常见的候选者就是知识本身（参见 Williamson 2000，Pritchard 2007，Simion et al. 2016 以及[知识价值](https://plato.stanford.edu/entries/knowledge-value/)条目），但一些作者声称，理由（Adler 2002，Gibbons 2013）和/或信念的“美德”是目标（Zagzebski 2004，Sosa 2011，Wright 2014），而其他人则倾向于更为结构复杂的目标，如“理解”（Kvanvig 2003，Kvanvig 2009，Grimm 2012）。（注意，还有其他作者认为理解甚至不涉及信念（Hunter 1998；Dellsén 即将发表））。
 
 正如前面提到的，在认知科学和进化生物学中，人们常常认为信念（以及几乎所有其他过程）的目标是类似于“生存”的东西。然而，对于这一点的正确性以及即使正确，它是否必然或甚至偶然地与真理获取的目标相关，仍存在争议（Stich 1990，Plantinga 2002，Street 2006）。
 
@@ -205,7 +201,7 @@
 
 然而，如果我们有一个理论认为信念的目标是复杂的，那么与行为伦理的相似性就变得更加复杂。一个信念伦理学家认为“以正确的方式获得重要真理”是信念的目标，并通过分析信念形成实践的“正确性”来评估其能否导致真理，可能会发现相关的相似之处在于规则后果主义。相比之下，认为信念的目标仅仅是“以正确的方式相信”，而不管这种“正确的方式”是否可靠地导致重要真理，看起来像是伦理学中强调有意遵循正确原则而不是实现行为本身外在目标的义务论立场的类比。这些相似之处是否有启发性，以及信念伦理观点是否限制了我们在行为伦理中的选择，仍然是一个悬而未决的问题（请参见 Kornblith 1983，Dougherty 2014）。
 
-这里还有许多其他变体。似乎有可能辩护这样的观点，即我们只应该在有充分证据的情况下相信（正如证据主义者所教导的那样），但我们对信念目标的概念可能提供进一步和更明确的必要条件来允许相信。也有可能争论认为，信念的目标使得我们有*实际*理由认为只有认识论的理由才能授权信念（Whiting 2014）。
+这里还有许多其他变体。似乎有可能辩护这样的观点，即我们只应该在有充分证据的情况下相信（正如证据主义者所教导的那样），但我们对信念目标的概念可能提供进一步和更明确的必要条件来允许相信。也有可能争论认为，信念的目标使得我们有_实际_理由认为只有认识论的理由才能授权信念（Whiting 2014）。
 
 最后，有可能辩护这样的观点，即信念的本质上没有具体的目标，而是一种可以构成或导致任意数量不同好处的状态。如果是这样的话，那么显然我们不能依靠信念的目标来支持其伦理学解释。
 
@@ -261,13 +257,13 @@
 
 ### 5.1 谨慎证据主义
 
-严格的*谨慎*证据主义并没有太多的追随者；实际上，与大多数严格的证据主义形式一样，很难看出它是如何被激发的。也许在一般情况下，按照自己的证据行事是明智的，但总会有一些情况，谨慎的考虑会推动人们对证据玩忽职守。对于那位悲痛欲绝的鳏夫来说，相信他的妻子在天堂过得很幸福会更好，或者对于那位忠诚的配偶来说，尽管她经常在丈夫的衣领上发现口红印，但抵制她丈夫不忠的信念会更好？
+严格的_谨慎_证据主义并没有太多的追随者；实际上，与大多数严格的证据主义形式一样，很难看出它是如何被激发的。也许在一般情况下，按照自己的证据行事是明智的，但总会有一些情况，谨慎的考虑会推动人们对证据玩忽职守。对于那位悲痛欲绝的鳏夫来说，相信他的妻子在天堂过得很幸福会更好，或者对于那位忠诚的配偶来说，尽管她经常在丈夫的衣领上发现口红印，但抵制她丈夫不忠的信念会更好？
 
-谨慎证据主义者对这种反对意见的一种回应是采用信念类似于规则后果主义的方式。即使有特定情况下按照自己的证据行事是不明智的，但基于足够证据并按比例相信的一般*规则*会产生整体上最好的谨慎结果分布。
+谨慎证据主义者对这种反对意见的一种回应是采用信念类似于规则后果主义的方式。即使有特定情况下按照自己的证据行事是不明智的，但基于足够证据并按比例相信的一般_规则_会产生整体上最好的谨慎结果分布。
 
-这种适度的审慎证据主义可以处理许多常见的反例，但仍然存在一个问题，即整个*类别*的信念（而不是个别实例）违反了这个原则，但似乎产生了更多有益的整体结果。例如，如果我们每个人都*通常*比我们的证据实际支持的更高地评价彼此的价值、意图和能力，那么这样做是否会更好？
+这种适度的审慎证据主义可以处理许多常见的反例，但仍然存在一个问题，即整个_类别_的信念（而不是个别实例）违反了这个原则，但似乎产生了更多有益的整体结果。例如，如果我们每个人都_通常_比我们的证据实际支持的更高地评价彼此的价值、意图和能力，那么这样做是否会更好？
 
-作为回应，可以声称总是在有足够证据的情况下相信的审慎价值的来源在于这样做往往会导致我们拥有知识。如果这是正确的，那么就会存在着审慎和认识规范之间的明确联系（见上文第 2.4 节和下文第 5.3 节）。然而，对于这种立场的挑战在于要证明，理由或知识为纯粹的*审慎*价值增添了真正的东西，而仅仅是真实的信念所缺乏的。
+作为回应，可以声称总是在有足够证据的情况下相信的审慎价值的来源在于这样做往往会导致我们拥有知识。如果这是正确的，那么就会存在着审慎和认识规范之间的明确联系（见上文第 2.4 节和下文第 5.3 节）。然而，对于这种立场的挑战在于要证明，理由或知识为纯粹的_审慎_价值增添了真正的东西，而仅仅是真实的信念所缺乏的。
 
 ### 5.2 道德证据主义
 
@@ -283,7 +279,7 @@
 
 其他认识论证据主义者认为，信念规范的产生不是通过对信念概念的分析，而是通过反思我们的信念形成能力实际上是被设置成对证据敏感的事实。感知、记忆、证词、内省、推理等能力通常是基于充分证据产生信念的，当它们以其他方式产生信念时，我们通常认为这些能力出现了故障、不适应或被误用。明显证据的片段——广义上的认识上的理由——可靠地为我们提供有关世界的重要信息，而我们在求生和繁荣的过程中已经进化出对这些理由的敏感性。
 
-请注意，认识论证据主义者并*不*认为获得重要真理（甚至促进生存的真理）是这个领域中唯一相关的考虑因素：我们形成信念的能力不仅仅是温度计或运动探测器。相反，这个想法是，作为有证据敏感性的信仰者，我们不仅仅想相信重要的真理；我们更希望有充分的理由认为命题是真实的，并且基于这些理由来形成信念（费尔德曼 2000 年；尽管再次参见大卫 2001 年）。然后，这个假设的事实被认为是支持一种规范的基础：我们应该追求的不仅仅是真实的信念，而是*知识*，或者更具体地说，我们应该追求*广泛的重要知识而没有广泛的重要错误*。以这种方式追求知识，是在其他方面追求对真实信念的充分证据，并基于这些证据来形成信念。
+请注意，认识论证据主义者并_不_认为获得重要真理（甚至促进生存的真理）是这个领域中唯一相关的考虑因素：我们形成信念的能力不仅仅是温度计或运动探测器。相反，这个想法是，作为有证据敏感性的信仰者，我们不仅仅想相信重要的真理；我们更希望有充分的理由认为命题是真实的，并且基于这些理由来形成信念（费尔德曼 2000 年；尽管再次参见大卫 2001 年）。然后，这个假设的事实被认为是支持一种规范的基础：我们应该追求的不仅仅是真实的信念，而是_知识_，或者更具体地说，我们应该追求_广泛的重要知识而没有广泛的重要错误_。以这种方式追求知识，是在其他方面追求对真实信念的充分证据，并基于这些证据来形成信念。
 
 另一种对认识论证据主义的辩护方式认为，中心的证据主义原则——我们应该根据我们所拥有的充分证据来相信——并不是从信念的概念中得出的分析真理，也不是从反思我们的能力如何设置或设计而产生的“功能规范”，而是一种我们在反思概念和思维实验过程中仅仅理性直觉到的综合原则。这种方法似乎是一致的，在某些方面也很有吸引力，尽管在文献中并没有找到很多支持者。
 
@@ -297,19 +293,19 @@
 
 ### 6.1 实践非证据主义
 
-如上所述，威廉·詹姆斯（William James）以蔑视克利福德原则的不切实际的严格性而闻名，主张我们有时候即使缺乏足够的证据（甚至我们*知道*我们缺乏证据），也有“相信的权利”。在某些情况下，詹姆斯进一步提出，在涉及宗教和道德信仰的特定情况下，我们不仅仅是被允许相信不足的证据，而且是*积极值得称赞*甚至*必须*相信不足的证据。
+如上所述，威廉·詹姆斯（William James）以蔑视克利福德原则的不切实际的严格性而闻名，主张我们有时候即使缺乏足够的证据（甚至我们_知道_我们缺乏证据），也有“相信的权利”。在某些情况下，詹姆斯进一步提出，在涉及宗教和道德信仰的特定情况下，我们不仅仅是被允许相信不足的证据，而且是_积极值得称赞_甚至_必须_相信不足的证据。
 
-> 当我真正将宗教问题置于具体的人们面前，并思考它在实践和理论上所涉及的所有可能性时，这个命令要求我们将我们的心灵、本能和勇气封闭起来，*等待*——当然同时行动，或多或少地假装宗教*不是*真实的——直到世界末日，或者直到我们的智力和感官共同努力收集到足够的证据——这个命令，我说，对我来说是哲学洞穴中制造的最奇怪的偶像。（1896 年，11）
+> 当我真正将宗教问题置于具体的人们面前，并思考它在实践和理论上所涉及的所有可能性时，这个命令要求我们将我们的心灵、本能和勇气封闭起来，_等待_——当然同时行动，或多或少地假装宗教_不是_真实的——直到世界末日，或者直到我们的智力和感官共同努力收集到足够的证据——这个命令，我说，对我来说是哲学洞穴中制造的最奇怪的偶像。（1896 年，11）
 
 我们之前看到，伦理信念面临着一些困难的概念和心理问题，这些问题要求我们始终只相信有利于实际利益的事情。因此，虽然实用主义有时被随意地描述为我们应该相信任何“有效”的观点，但大多数自称为实用主义者的人都非常谨慎地指定了主体在何种条件下可以合理地偏离、忽视或超越自己的证据（参见[实用主义](https://plato.stanford.edu/entries/pragmatism/)）。这些条件通常涉及确实没有强有力的证据；因此，正如詹姆斯提醒读者的那样，实用主义信念并不仅仅是狂热地相信“你知道不是真的”（1896 年，29 页）。实用主义者通常还要求主体存在某种紧急情况或“情感”利益，使得在该情境中悬置信念变得不可能（或至少极不明智）。我们之前看到了詹姆斯如何定义“真正的选择”以明确这些条件。
 
-詹姆斯对“实践的优先性”的强调显然是早期信念伦理学家的预期。布莱兹·帕斯卡在《思想录》中著名地主张类似赌注的推理应该引导我们设定相信上帝的目标；因此，他的关注点更多地集中在信念的实际动机上，而不是道德或认识论上的动机（帕斯卡 1670 年，Hájek 2003 年，Jordan 2006 年；另请参阅关于[帕斯卡](https://plato.stanford.edu/entries/pascal/)、[帕斯卡的赌注](https://plato.stanford.edu/entries/pascal-wager/)和[实用主义论证与对上帝的信念](https://plato.stanford.edu/entries/pragmatic-belief-god/)的条目）。相比之下，伊曼努尔·康德认为，在没有足够理论证据的情况下，可以证明信念（或信仰）的考虑通常（尽管不是唯一）是“道德”的。例如，如果对于某个命题*p*（比如，人的意志是否具有不相容的自由），没有足够的证据支持或反对，而且一个人设定了一个需要在*p*的真实性上立场的道德目标，并且任何已有的证据都指向*p*的真实性，那么一个人就被允许（有时甚至是必须）将*p*视为真实。这种“视为真实”（德语：“*Fürwahrhalten*”）因此是以“道德”而不是“理论”为基础的，它被视为“信念”（*Glaube*）或“接受”（*Annehmung*），而不是“知识”（*Wissen*）（康德 1781/1787 年，Chignell 2007 年）。
+詹姆斯对“实践的优先性”的强调显然是早期信念伦理学家的预期。布莱兹·帕斯卡在《思想录》中著名地主张类似赌注的推理应该引导我们设定相信上帝的目标；因此，他的关注点更多地集中在信念的实际动机上，而不是道德或认识论上的动机（帕斯卡 1670 年，Hájek 2003 年，Jordan 2006 年；另请参阅关于[帕斯卡](https://plato.stanford.edu/entries/pascal/)、[帕斯卡的赌注](https://plato.stanford.edu/entries/pascal-wager/)和[实用主义论证与对上帝的信念](https://plato.stanford.edu/entries/pragmatic-belief-god/)的条目）。相比之下，伊曼努尔·康德认为，在没有足够理论证据的情况下，可以证明信念（或信仰）的考虑通常（尽管不是唯一）是“道德”的。例如，如果对于某个命题_p_（比如，人的意志是否具有不相容的自由），没有足够的证据支持或反对，而且一个人设定了一个需要在_p_的真实性上立场的道德目标，并且任何已有的证据都指向_p_的真实性，那么一个人就被允许（有时甚至是必须）将_p_视为真实。这种“视为真实”（德语：“_Fürwahrhalten_”）因此是以“道德”而不是“理论”为基础的，它被视为“信念”（_Glaube_）或“接受”（_Annehmung_），而不是“知识”（_Wissen_）（康德 1781/1787 年，Chignell 2007 年）。
 
-一个方便的标签，可以涵盖广义实用主义和广义康德主义理论，就是“实践非证据主义”（*Practical Non-Evidentialism*），其中实用主义/实际利益和道德是“实践”价值的两个主要种类（有关道德信念的理由以及它们是否被视为证据的更多信息，请参见 Pace 2010 年；有关实用主义信念理由辩论的概述，请参见 Reisner 2017 年）。
+一个方便的标签，可以涵盖广义实用主义和广义康德主义理论，就是“实践非证据主义”（_Practical Non-Evidentialism_），其中实用主义/实际利益和道德是“实践”价值的两个主要种类（有关道德信念的理由以及它们是否被视为证据的更多信息，请参见 Pace 2010 年；有关实用主义信念理由辩论的概述，请参见 Reisner 2017 年）。
 
 ### 6.2 保守主义的非证据主义
 
-*保守主义*（有时也被称为*教条主义*，尽管后者通常被认为是关于感知信念的观点；参见普赖尔 2000 年，怀特 2006 年）认为，如果事实上一个人确实相信*p*，那么他就有*初步的*理由相信*p*（哈曼 1986 年，欧文斯 2000 年）。另一个版本的观点是，如果一个人觉得*p*是真实的（胡默尔 2007a 年）或者至少在感知上似乎*p*是真实的（普赖尔 2000 年），那么他就有*初步的*理由相信*p*。为了在这两种保守主义观点中都能得到全面的理由，一个人必须意识到没有任何对*p*的无法战胜的反驳。但是，即使一个人意识到没有对*p*的无法战胜的反驳，这也不是*p*的积极证据，而且任何对*p*的“冲动”或者似乎*p*是真实的感觉都不是证据主义者认为我们应该寻求的那种证据（关于冲动性证据，请参见科尼和费尔德曼 2004 年第 3 章；关于冲动性证据，请参见普兰廷加 1993 年，192 页）。因此，根据“证据”的大多数定义，保守主义是一种重要的非证据主义，根据这种观点，一些合理的信念——即立即合理的信念——并不是基于充分的证据。
+_保守主义_（有时也被称为_教条主义_，尽管后者通常被认为是关于感知信念的观点；参见普赖尔 2000 年，怀特 2006 年）认为，如果事实上一个人确实相信_p_，那么他就有_初步的_理由相信_p_（哈曼 1986 年，欧文斯 2000 年）。另一个版本的观点是，如果一个人觉得_p_是真实的（胡默尔 2007a 年）或者至少在感知上似乎_p_是真实的（普赖尔 2000 年），那么他就有_初步的_理由相信_p_。为了在这两种保守主义观点中都能得到全面的理由，一个人必须意识到没有任何对_p_的无法战胜的反驳。但是，即使一个人意识到没有对_p_的无法战胜的反驳，这也不是_p_的积极证据，而且任何对_p_的“冲动”或者似乎_p_是真实的感觉都不是证据主义者认为我们应该寻求的那种证据（关于冲动性证据，请参见科尼和费尔德曼 2004 年第 3 章；关于冲动性证据，请参见普兰廷加 1993 年，192 页）。因此，根据“证据”的大多数定义，保守主义是一种重要的非证据主义，根据这种观点，一些合理的信念——即立即合理的信念——并不是基于充分的证据。
 
 一些哲学家认为，保守主义是对抗怀疑主义的有用工具（克里斯滕森 1994 年，胡默尔 2007a 年），并且它的“教条主义”风格有时会通过将其与各种温和或局部的证据主义相结合而更加可接受。因此，例如，对于构成我们知识结构基础的信念（包括关于基本数学或道德真理的信念），保守主义可能很自然地与对于不在基础中的信念的证据主义相结合（有关认识论中的基础主义的更多信息，请参见[认识论正当性的基础主义理论](https://plato.stanford.edu/entries/justep-foundational/)）。
 
@@ -325,216 +321,216 @@
 
 另一方面，如果主张在完全没有实际或理论上的支持理由的情况下，一个主体仍然被允许采纳某种信念，那么这种观点似乎已经放弃了发展一个有原则的立场的愿望，而且不再明显是一种“信念伦理学”。当然，这并不是针对这种信仰主义的致命论证：可能这样的信仰主义者可以提出理由来认为，试图制定一个信念伦理学是一个从一开始就不明智的项目。
 
-对于信仰主义者来说，最后一个选择是承认他实际上并不真正关注信念，而是试图为另一种不受证据指导的积极命题态度腾出空间。许多哲学家和宗教人士认同信仰主义这个标签，将“信仰”（拉丁文：*fides*）解释为与信念不同的东西——也许是希望，或者类似于“接受”的东西（参见第 7 节和[fideism](https://plato.stanford.edu/entries/fideism/)词条）。在这种理解下，对于*p*的信仰很可能能够在同一心理学中与大量反对*p*的证据合理共存。
+对于信仰主义者来说，最后一个选择是承认他实际上并不真正关注信念，而是试图为另一种不受证据指导的积极命题态度腾出空间。许多哲学家和宗教人士认同信仰主义这个标签，将“信仰”（拉丁文：_fides_）解释为与信念不同的东西——也许是希望，或者类似于“接受”的东西（参见第 7 节和[fideism](https://plato.stanford.edu/entries/fideism/)词条）。在这种理解下，对于_p_的信仰很可能能够在同一心理学中与大量反对_p_的证据合理共存。
 
 ## 7. 接受的伦理学
 
 这最后一点表明，对于信念的证据主义——即使是严格而不妥协的形式——可以与对其他一些积极的、范畴性的命题态度的非证据主义相结合，以使其看起来不那么严厉（参见 Audi 2008a，列出了“信仰”可能的意义）。在这里，最突出的候选者可能是将“接受”理解为对一个命题的积极范畴态度，这在定义上是自愿的，并在我们的思考、行动、论证和断言中起着重要作用。一些哲学家关注接受在科学探究、理论构建和决策理论中的作用（van Fraasen 1984，Stalnaker 1987，Cohen 1992）。其他人则关注它在伦理学、法律学、宗教学和日常环境中的作用（Bratman 1992，Cohen 1992，Alston 1996，Audi 2008a）。这里需要提醒的是：接受通常是一个技术性概念，在文献中对其性质和伦理学的描述存在着根本的分歧。关于接受是否能够扮演其支持者意图的各种角色也存在一些争议（Radford 1990，Maher 1990，Moore 1994）。
 
-想要通过诉诸某种可接受性的概念来缓和或补充她的观点的信念伦理学家，需要说明接受是什么，这两种态度的区别是什么，每种态度受到什么样的规范约束，以及它们如何在一个主体中相互作用。这种混合观点的主要优势之一是，接受通常被认为是根据*定义*自愿的，因此更容易看出如何围绕它建立一个真正的“伦理学”（包括赞扬和责备的归因）。正如我们之前所看到的，接受的概念（作为“信仰”）是一个信仰主义者可能希望诉诸的东西，以对抗那些说在面对强烈相反证据时不能仅仅决定相信*p*的人。相比之下，一个温和的信仰主义者可能会主张，只有当我们对*p*的证据无法明确（强）支持或反对时，我们才被允许接受*p*。这仍然与我们对*非 p*有*弱*证据，甚至是（弱持有的）相信*非 p*的观点是一致的。
+想要通过诉诸某种可接受性的概念来缓和或补充她的观点的信念伦理学家，需要说明接受是什么，这两种态度的区别是什么，每种态度受到什么样的规范约束，以及它们如何在一个主体中相互作用。这种混合观点的主要优势之一是，接受通常被认为是根据_定义_自愿的，因此更容易看出如何围绕它建立一个真正的“伦理学”（包括赞扬和责备的归因）。正如我们之前所看到的，接受的概念（作为“信仰”）是一个信仰主义者可能希望诉诸的东西，以对抗那些说在面对强烈相反证据时不能仅仅决定相信_p_的人。相比之下，一个温和的信仰主义者可能会主张，只有当我们对_p_的证据无法明确（强）支持或反对时，我们才被允许接受_p_。这仍然与我们对_非 p_有_弱_证据，甚至是（弱持有的）相信_非 p_的观点是一致的。
 
 ## Bibliography
 
-* Adam, C. and P. Tannery (eds.), 1996, *Oeuvres de Descartes*, 12 vols., Paris: Vrin.
-* Adams, Robert M., 1985, “Involuntary sins”, *Philosophical Review*, 94: 3–31.
-* –––, 1987, “The virtue of faith”, in Adams, *The virtue of faith and other essays in philosophical theology*, New York: Oxford, 9–24.
-* Adler, Jonathan, 2002, *Belief's own ethics*, Cambridge, MA: Bradford/MIT.
-* –––, 2005, “William James and what cannot be believed”, *Harvard Review of Philosophy*, 13: 65–79.
-* Ahlstrom-Vij, K., 2013, “In defense of veritistic value monism”, *Pacific Philosophical Review*, 94: 19–40.
-* Aiken, Scott F., 2008, “Evidentialism and James' argument from friendship”, *Southwest Philosophy Review*, 24: 173–180.
-* –––, 2014, *Evidentialism and the will to believe*, New York: Bloomsbury.
-* Alston, William P., 1989, *Epistemic justification: essays in the theory of knowledge*, Ithaca, NY: Cornell.
-* –––, 1996, “Belief, acceptance, and religious faith”, in Jeff Jordan and Daniel Howard-Snyder (eds.), *Faith, freedom, and rationality*, Lanham, MD: Rowman and Littlefield.
-* –––, 2005, *Beyond “justification”: Dimensions of epistemic evaluation*, Ithaca NY: Cornell.
-* Audi, Robert, 1991, “Faith, belief, and rationality”, *Philosophical Perspectives*, 5: 213–239.
-* –––, 2001, “Doxastic voluntarism and the ethics of belief”, in M. Steup (ed.), *Knowledge, truth, and duty*, New York: Oxford, 93–111.
-* –––, 2003, “The epistemic authority of testimony and the ethics of belief”, in A. Dole and A. Chignell (eds.), *God and the ethics of belief*, New York: Cambridge, 175–201.
-* –––, 2008a, “Belief, faith, and acceptance”, *International Journal for Philosophy of Religion*, 63: 87–102.
-* –––, 2008b, “The ethics of belief: Doxastic self-control and intellectual virtue”, *Synthese*, 161: 403–418
-* Bach, Kent, 2008 “Applying pragmatics to epistemology”, *Philosophical Issues*, 18: 68–88.
-* Beilby, J. (ed.), 2002, *Naturalism defeated?*, Ithaca, NY: Cornell.
-* Bolton, Martha Brandt, 2009, “Locke on rational virtue and moral law”, in D. Owen, G. Yaffe, and P. Hoffman (eds.), *Early modern metaphysics: Essays in honor of Vere Chappell*, pp. 253–272. Peterborough, Ontario: Broadview.
-* Brady, M. S., and Pritchard, D. H. (eds.), 2003, *Moral and epistemic Virtues*, Oxford: Blackwell.
-* Braithwaite, R.B., 1932–1933, “The nature of believing”, *Proceedings of the Aristotelian Society*, 33: 129–146.
-* Bratman, Michael, 1992, “Practical reasoning and acceptance in a context”, *Mind*, 101: 1–15.
+* Adam, C. and P. Tannery (eds.), 1996, _Oeuvres de Descartes_, 12 vols., Paris: Vrin.
+* Adams, Robert M., 1985, “Involuntary sins”, _Philosophical Review_, 94: 3–31.
+* –––, 1987, “The virtue of faith”, in Adams, _The virtue of faith and other essays in philosophical theology_, New York: Oxford, 9–24.
+* Adler, Jonathan, 2002, _Belief's own ethics_, Cambridge, MA: Bradford/MIT.
+* –––, 2005, “William James and what cannot be believed”, _Harvard Review of Philosophy_, 13: 65–79.
+* Ahlstrom-Vij, K., 2013, “In defense of veritistic value monism”, _Pacific Philosophical Review_, 94: 19–40.
+* Aiken, Scott F., 2008, “Evidentialism and James' argument from friendship”, _Southwest Philosophy Review_, 24: 173–180.
+* –––, 2014, _Evidentialism and the will to believe_, New York: Bloomsbury.
+* Alston, William P., 1989, _Epistemic justification: essays in the theory of knowledge_, Ithaca, NY: Cornell.
+* –––, 1996, “Belief, acceptance, and religious faith”, in Jeff Jordan and Daniel Howard-Snyder (eds.), _Faith, freedom, and rationality_, Lanham, MD: Rowman and Littlefield.
+* –––, 2005, _Beyond “justification”: Dimensions of epistemic evaluation_, Ithaca NY: Cornell.
+* Audi, Robert, 1991, “Faith, belief, and rationality”, _Philosophical Perspectives_, 5: 213–239.
+* –––, 2001, “Doxastic voluntarism and the ethics of belief”, in M. Steup (ed.), _Knowledge, truth, and duty_, New York: Oxford, 93–111.
+* –––, 2003, “The epistemic authority of testimony and the ethics of belief”, in A. Dole and A. Chignell (eds.), _God and the ethics of belief_, New York: Cambridge, 175–201.
+* –––, 2008a, “Belief, faith, and acceptance”, _International Journal for Philosophy of Religion_, 63: 87–102.
+* –––, 2008b, “The ethics of belief: Doxastic self-control and intellectual virtue”, _Synthese_, 161: 403–418
+* Bach, Kent, 2008 “Applying pragmatics to epistemology”, _Philosophical Issues_, 18: 68–88.
+* Beilby, J. (ed.), 2002, _Naturalism defeated?_, Ithaca, NY: Cornell.
+* Bolton, Martha Brandt, 2009, “Locke on rational virtue and moral law”, in D. Owen, G. Yaffe, and P. Hoffman (eds.), _Early modern metaphysics: Essays in honor of Vere Chappell_, pp. 253–272. Peterborough, Ontario: Broadview.
+* Brady, M. S., and Pritchard, D. H. (eds.), 2003, _Moral and epistemic Virtues_, Oxford: Blackwell.
+* Braithwaite, R.B., 1932–1933, “The nature of believing”, _Proceedings of the Aristotelian Society_, 33: 129–146.
+* Bratman, Michael, 1992, “Practical reasoning and acceptance in a context”, _Mind_, 101: 1–15.
 * Briesen, Jochen, 2017, “Epistemic consequentialism: Its relation to ethical consequentialism and the truth–indication principle”, in P. Schmechtig & M. Grajner (eds.), forthcoming.
-* Broome, John, 1999, “Normative requirements”, *Ratio*, 12: 398–419.
-* Chan, Timothy (ed.), 2013, *The aim of belief*, New York: Oxford.
-* Chignell, Andrew, 2007, “Belief in Kant”, *Philosophical Review*, 116: 323–360.
-* Chisholm, Roderick M., 1956, “Epistemic statements and the ethics of belief”, *Philosophy and Phenomenological Research*, 16: 447–460.
-* –––, 1957, *Perceiving: A philosophical study*, Ithaca, NY: Cornell.
-* –––, 1989, *Theory of knowledge*, [3rd edition] Englewood Cliffs, NJ: Prentice Hall.
-* –––, 1991, “Firth and the ethics of belief”, *Philosophy and Phenomenological Research*, 91: 119–128.
+* Broome, John, 1999, “Normative requirements”, _Ratio_, 12: 398–419.
+* Chan, Timothy (ed.), 2013, _The aim of belief_, New York: Oxford.
+* Chignell, Andrew, 2007, “Belief in Kant”, _Philosophical Review_, 116: 323–360.
+* Chisholm, Roderick M., 1956, “Epistemic statements and the ethics of belief”, _Philosophy and Phenomenological Research_, 16: 447–460.
+* –––, 1957, _Perceiving: A philosophical study_, Ithaca, NY: Cornell.
+* –––, 1989, _Theory of knowledge_, \[3rd edition] Englewood Cliffs, NJ: Prentice Hall.
+* –––, 1991, “Firth and the ethics of belief”, _Philosophy and Phenomenological Research_, 91: 119–128.
 * Christensen, David, 1994, “Conservatism in epistemology”, Noûs 28, 69–89.
-* Churchland, Paul M., 1981, “Eliminative materialism and the propositional attitudes”, *Journal of Philosophy*, 78: 67–90.
-* Clifford, W.K., 1877 [1999], “The ethics of belief”, in T. Madigan, (ed.), *The ethics of belief and other essays*, Amherst, MA: Prometheus, 70–96.
-* Cohen, L. J., 1992, *An essay on belief and acceptance*, (Oxford: Clarendon Press).
-* Conee, Earl, 1987, “Evident, but rationally unacceptable”, *Australasian Journal of Philosophy*, 65: 316–326.
-* –––, 2001, “Heeding misleading evidence”, *Philosophical Studies*, 103: 99–120.
-* Conee, Earl, and Richard Feldman, 2004, *Evidentialism : Essays in epistemology*, Oxford: Clarendon Press.
-* Côté-Bouchard, C., forthcoming, “Can the aim of belief ground epistemic normativity?”, *Philosophical Studies*.
-* Dancy, Jonathan, 2000, *Practical Reality*, Oxford: Oxford University Press.
-* David, Marian, 2001, “Truth as the epistemic goal”, in M. Steup (ed.), *Knowledge, truth, and duty*, New York: Oxford, 151–170.
-* Dellsén, Finnur, forthcoming, “Understanding without justification or belief”, *Ratio*, 29(3), doi: 10.1111/rati.12134
-* DeRose, Keith, 2000, “Ought we to follow our evidence?” *Philosophy and Phenomenological Research*, 60, 697–706.
-* Descartes, René, 1641 [1996], *Meditationes de prima philosophia*, in C. Adam and P. Tannery (eds.), *Oeuvres de Descartes*, vol 7., Paris: Vrin.
-* –––, 1645 [1996], “Letter to Elizabeth of 15 Sept”, in C. Adam and P. Tannery (eds.), *Oeuvres de Descartes*, vol 4. Paris: Vrin.
-* Dole, Andrew, and Andrew Chignell (eds.), 2005, *God and the ethics of belief*, New York: Cambridge.
-* Dougherty, T. (ed.), 2011, *Evidentialism and its discontents*, New York: Oxford.
+* Churchland, Paul M., 1981, “Eliminative materialism and the propositional attitudes”, _Journal of Philosophy_, 78: 67–90.
+* Clifford, W.K., 1877 \[1999], “The ethics of belief”, in T. Madigan, (ed.), _The ethics of belief and other essays_, Amherst, MA: Prometheus, 70–96.
+* Cohen, L. J., 1992, _An essay on belief and acceptance_, (Oxford: Clarendon Press).
+* Conee, Earl, 1987, “Evident, but rationally unacceptable”, _Australasian Journal of Philosophy_, 65: 316–326.
+* –––, 2001, “Heeding misleading evidence”, _Philosophical Studies_, 103: 99–120.
+* Conee, Earl, and Richard Feldman, 2004, _Evidentialism : Essays in epistemology_, Oxford: Clarendon Press.
+* Côté-Bouchard, C., forthcoming, “Can the aim of belief ground epistemic normativity?”, _Philosophical Studies_.
+* Dancy, Jonathan, 2000, _Practical Reality_, Oxford: Oxford University Press.
+* David, Marian, 2001, “Truth as the epistemic goal”, in M. Steup (ed.), _Knowledge, truth, and duty_, New York: Oxford, 151–170.
+* Dellsén, Finnur, forthcoming, “Understanding without justification or belief”, _Ratio_, 29(3), doi: 10.1111/rati.12134
+* DeRose, Keith, 2000, “Ought we to follow our evidence?” _Philosophy and Phenomenological Research_, 60, 697–706.
+* Descartes, René, 1641 \[1996], _Meditationes de prima philosophia_, in C. Adam and P. Tannery (eds.), _Oeuvres de Descartes_, vol 7., Paris: Vrin.
+* –––, 1645 \[1996], “Letter to Elizabeth of 15 Sept”, in C. Adam and P. Tannery (eds.), _Oeuvres de Descartes_, vol 4. Paris: Vrin.
+* Dole, Andrew, and Andrew Chignell (eds.), 2005, _God and the ethics of belief_, New York: Cambridge.
+* Dougherty, T. (ed.), 2011, _Evidentialism and its discontents_, New York: Oxford.
 * –––, 2014, “The ethics of belief is ethics (period): reassigning responsibilism”, in Matheson & Vitz 2014, 146–168.
-* Engel, Pascal (ed.), 2000, *Believing and accepting*, Dordrecht: Kluwer.
-* Evans, C. Stephen, 1998, *Faith beyond reason: A Kierkegaardian account*, Grand Rapids, MI: William B. Eerdmans.
-* Fairweather, Abrol, and Linda Zagzebski (eds.), 2001, *Virtue epistemology : Essays on epistemic virtue and responsibility*, New York: Oxford.
-* Feldman, Richard, 1988, “Epistemic obligations” *Philosophical perspectives*, 2: 235–256.
-* –––, 2000, “The ethics of belief”, *Philosophy and Phenomenological Research*, 60: 667–695.
-* –––, 2002, “Epistemological duties”, in P. Moser (ed.), *Oxford handbook of epistemology*, New York: Oxford, 362–384.
-* Feldman, Richard, and Earl Conee, 1985, “Evidentialism”, *Philosophical Studies*, 48: 15–34.
-* Fodor, Jerry, 1975, *The language of thought*, New York: Crowell.
-* Firth, Roderick, 1959, “Chisholm and the ethics of belief”, *Philosophical Review*, 68: 493–506.
-* Foley, Richard, 1987, *The theory of epistemic rationality*. (Cambridge, MA: Harvard).
-* Gale, Richard M., 1980, “William James and the ethics of belief”, *American Philosophical Quarterly*, 17: 1–14.
-* –––, 1999, “William James and the willfulness of belief”, *Philosophy and Phenomenological Research*, 59: 71–91.
-* Gardiner, G., 2012, “Understanding, integration, and epistemic value”, *Acta Analytica*, 27: 163–181.
-* Gibbons, John, 2013, *The norm of belief*, New York: Oxford.
-* Ginet, Carl, 2001, “Deciding to believe”, in M. Steup (ed.), *Knowledge, truth and duty*, New York, NY: Oxford University Press, 63–76.
-* Ginsborg, Hannah, 2007, “Reasons for belief”, *Philosophy and Phenomenological Research*, 72: 286–318.
-* Goldberg, Sanford, 2009, “The knowledge account of assertion and the nature of testimonial knowledge”, in Patrick Greenough and Duncan Pritchard (eds.), *Williamson on knowledge*, Oxford: Oxford University Press.
-* Greenough, Patrick, and Duncan Pritchard (eds.), 2009, *Williamson on knowledge*, Oxford: Oxford University Press.
-* Grimm S., 2012, “The value of understanding”, *Philosophy Compass*, 7: 103–117.
-* Haack, Susan, 1997, “The ethics of belief reconsidered”, in L. Hahn (ed.), *The philosophy of Roderick M. Chisholm*, LaSalle, IL: Open Court, 129–144.
-* Hahn, L. (ed.), 1998, *The philosophy of Roderick M. Chisholm*, LaSalle, IL: Open Court.
-* Hájek, Alan, 2003, “Waging war on Pascal's wager”, *Philosophical Review*, 112: 27–56.
-* Harman, Gilbert, 1986, *Change in view: Principles of reasoning*, Cambridge, MA: MIT Press.
-* Hawthorne, J., and T. Szabo Gender (eds.), 2005, *Oxford Studies in Epistemology* (Vol. 1), New York:Oxford.
-* Heil, John, 1983, “Believing what one ought”, *Journal of Philosophy*, 80: 752–65.
-* –––, 1984, “Doxastic incontinence”, *Mind*, 93: 56–70.
-* –––, 1993, “Doxastic agency”, *Philosophical Studies*, 43: 355–364.
-* Hieronymi, Pamela, 2006, “Controlling attitudes”, *Pacific Philosophical Quarterly*, 87: 45–74.
-* –––, 2008, “Responsibility for believing”, *Synthese*, 161: 357–373.
-* Huemer, Michael, 2007a, “Compassionate Phenomenal Conservatism”, *Philosophy and Phenomenal Research*, 74: 30–55.
-* –––, 2007b, “Moore's and the norm of belief”, in Susana Nuccetelli and Gary Seay (eds.), *Themes from G. E. Moore: New essays in epistemology and ethics*, Oxford: Clarendon.
-* Hunter, David, 1998, “Understanding and belief”, *Philosophy and Phenomenological Research*, 58(3): 559–580.
-* James, William, 1896 [1956], *The Will to believe and other essays in popular philosophy*, New York: Dover Publications, 1–31.
-* Jordan, Jeff, 2006, *Pascal's Wager: Pragmatic arguments and belief in God*, Oxford: Clarendon.
-* Jordan, Jeff, and Daniel Howard Snyder (eds.), 1996, *Faith, freedom and rationality*, Lanham, MD: Rowman and Littlefield.
-* Kant, Immanuel, 1781/1787 [1902-], *Critique of Pure Reason* (*Kritik der reinen Vernunft*), in *Gesammelte Schriften*, Königlich-Preussischen Akademie der Wissenschaften zu Berlin/Walter de Gruyter.
-* Kasser, Jeff, and Nishi Shah, 2006, “The metaethics of belief: an expressivist reading of *The will to believe*”, *Social Epistemology*, 20: 1–17.
-* Kelly, Thomas, 2003, “Epistemic rationality as instrumental rationality: A critique”, *Philosophy and Phenomenological Research*, 66: 612–640.
-* –––, 2005, “The epistemic significance of disagreement”, in J. Hawthorne and T. Szabo Gendler, (eds.), *Oxford Studies in Epistemology* (Vol. 1), New York: Oxford, pp. 167–196.
-* Keller, Simon, 2004, “Friendship and belief”, *Philosophical Papers*, 33: 329–351.
-* Kierkegaard, Søren, 1846 [1992], *Concluding Unscientific Postscript*, H. Hong and E. Hong (trans. and eds.), Princeton, NJ: Princeton University Press.
-* Kolodny, Niko, 2005, “Why be rational?”, *Mind*, 114: 509–563.
-* Kornblith, Hilary, 1983, “Justified belief and epistemically responsible action”, *Philosophical Review*, 92: 33–48.
-* Kvanvig, J., 2003, *The value of knowledge and the pursuit of understanding*, New York: Cambridge.
-* –––, 2009, “The value of understanding”, in Pritchard, Haddock, and Millar (eds.), *Epistemic Value*, New York: Oxford University Press, 95–112.
-* Leon, Mark, 2002, “Responsible believers”, *Monist*, 85: 421–435.
-* Littlejohn, C. and Turri, J., 2014, *Epistemic norms: assertion, action, and belief*, New York: Oxford.
-* Locke, John, 1690 [1975], *An essay concerning human understanding*, Oxford: Clarendon.
-* Lycan, William, 1988, *Judgment and justification*, New York: Cambridge.
-* Madigan, T. (ed.), 1999, *The ethics of belief and other essays*, Amherst, MA: Prometheus.
-* Maher, Patrick, 1990, “Acceptance without belief”, *Philosophy of science association*, 1: 381–392.
-* Marušić, Berislav, 2015, *Evidence and agency: norms of belief for promising and resolving*, New York: Oxford.
-* Matheson, J. and Vitz, R., 2014, *The ethics of belief: individual and social*, New York: Oxford.
-* McCarthy, Gerald D. (ed.), 1986, *The ethics of belief debate*. Atlanta: Scholars Press.
-* McCormick, Miriam S., 2015, *Believing against the evidence: Agency and the ethics of belief*, New York: Routledge.
-* McDowell, John, 1994, *Mind and World*, Cambridge, MA: Harvard University Press.
-* McGrath, Matthew, 2007, “Memory and epistemic conservatism ”, *Synthese*, 157: 1–24.
-* Mele, Alfred R., 2001 *Self-deception unmasked*. Princeton, NJ: Princeton.
-* Meiland, Jack W., 1980, “What ought we to believe: Or the ethics of belief revisited”, *American Philosophical Quarterly*, 17: 15–24.
-* Moore, Joseph, 1994, “Review of L. J. Cohen, *An essay on belief and acceptance*”, *Philosophical Review*, 103: 705–709.
-* Moser P. (ed.), 2005, *Oxford handbook of epistemology*, New York: Oxford.
-* Neta, Ram, 2004, “Perceptual evidence and the new dogmatism”, *Philosophical Studies*, 119: 199–214.
-* Nuccetelli, Susana, and Gary Seay (eds.), 2008, *Themes from G. E. Moore: New essays in epistemology and ethics*, Oxford: Clarendon.
-* Owens, David, 2000, *Reason without freedom: The problem of epistemic normativity*, New York: Routledge.
-* Owens, David, and Gideon Yaffe, and Paul Hoffman (eds.), 2008, *Early modern metaphysics: Essays in honor of Vere Chappell*, Peterborough, Ontario: Broadview.
-* Pace, Michael, 2010, “The epistemic power of morally positive thinking: justification, moral encroachment, and James' ‘The will to believe’ ”, *Noûs*, forthcoming.
-* Papineau, David, 2001, “Evidentialism reconsidered”, *Noûs*, 35: 239–259.
-* Pascal, Blaise, 1670 [1995], *Pensées*, A. Kreilsheimer (trans. and ed.), New York: Penguin.
-* Perin, Casey, 2015, “Skepticism, suspension of judgment, and norms for belief”, *International Journal for the Study of Skepticism*, 5: 107–125.
-* Plantinga, Alvin, 2002, “The evolutionary argument against naturalism”, in J. Beilby (ed.), *Naturalism defeated?*, Ithaca, NY: Cornell, 1–15.
-* Price, H.H., 1954, “Belief and the will”, *Proceedings of the Aristotelian Society* (Supplement), 28: 1–27.
-* Pritchard, Duncan, 2007, “Recent Work on Epistemic Value”, *American Philosophical Quarterly*, 44: 85–110.
-* –––, 2011, “What is the swamping problem”, in A. Reisner & A. Steiglich–Petersen (eds.), *Reasons for belief*, New York: Cambridge University Press.
-* Pritchard, Duncan and Adrian Haddock, and Alan Millar (eds.), 2009, *Epistemic Value*, New York: Oxford University Press.
-* Pryor, James, 2000, “The skeptic and the dogmatist”, *Noûs*, 34: 517–549.
-* –––, 2001, “Highlights of recent epistemology”, *British Journal for the Philosophy of Science*, 52: 95–124.
-* –––, 2004, “What's wrong with Moore's argument?” *Philosophical Issues*, 14: 349–378.
-* –––, 2005, “Is there immediate justification? There is immediate justification”, in M. Steup (ed.), *Contemporary debates in epistemology*, Malden MA: Blackwell, 181–202.
-* Radford, Colin, 1990, “Belief, acceptance, and knowledge”, *Mind*, 99: 609–617.
-* Reisner, Andrew, 2008, “Weighing pragmatic and evidential reasons for belief”, *Philosophical Studies*, 138: 7–27.
-* –––, 2009, “The possibility of pragmatic reasons for belief and the wrong kind of reasons problem”, *Philosophical Studies*, 145: 257–272.
-* –––, 2017, “Pragmatic reasons for belief”, in Daniel Star (ed.), *The Oxford Handbook of Reasons and Normativity*, New York: Oxford.
-* Reisner, A and A. Steiglich-Petersen (eds.), 2011, *Reasons for belief*, New York: Cambridge.
-* Roberts, Robert and William Jay Wood, 2007, *Intellectual virtue: An essay in regulative epistemology*, New York: Oxford.
-* Rott, Hans, forthcoming, “Negative doxastic voluntarism and the concept of belief”, *Synthese*.
-* Ryan, Sharon, 2003, “Doxastic compatibilism and the ethics of belief”, *Philosophical Studies*, 114: 47–79.
-* Schmechtig, P. and M. Grajner (eds.), forthcoming, *Epistemic reasons, epistemic norms, and epistemic goals*, Berlin, Boston: De Gruyter.
-* Schroeder, Mark, 2005, “The hypothetical imperative?”, *Australasian Journal of Philosophy*, 83: 357–372.
-* Shah, Nishi, 2002, “Clearing space for doxastic voluntarism”, *The Monist*, 85: 436–435.
-* –––, 2003, “How truth governs belief”, *Philosophical Review*, 112: 447–482.
-* –––, 2006, “A new argument for evidentialism”, *Philosophical Quarterly*, 56: 481–498.
-* Sider, Robert D., 1980, “Credo quia absurdum?” *Classical World*, 73: 417–9.
-* Simion, Mona, Christopher Kelp, and Harmen Ghijsen, 2016, “Norms of belief”, *Philosophical Issues*, 26: 375–392.
-* Smith, Angela, 2005, “Responsibility for attitudes: Activity and passivity in mental life”, *Ethics*, 115: 236–271.
-* Sosa, Ernest, 2000, “For the love of truth”, in A. Fairweather and L. Zagzebski (eds.), *Virtue epistemology: Essays on epistemic virtue and responsibility*, New York: Oxford.
-* –––, 2003, “The place of truth in epistemology”, in L. Zagzebski and M. DePaul (eds.), *Intellectual virtue: Perspectives from ethics and epistemology*, New York: Oxford University Press.
-* –––, 2007, *A virtue epistemology: Apt belief and reflective knowledge* (Volume 1), Oxford: Clarendon Press.
-* –––, 2011, *Knowing full well*, Princeton, NJ: Princeton.
-* Southwood, Nicholas and Phillipe Chuard, 2009, “Epistemic norms without voluntary control ”, *Noûs*, 43: 599–632.
-* Stalnaker, Robert, 1987, *Inquiry*, Cambridge, MA: Bradford.
-* Steglich-Peterson, Asbjørn, 2009, “Weighing the aim of belief”, *Philosophical Studies*, 145: 395–405.
-* Steup, Matthias, 2000, “Doxastic voluntarism and epistemic deontology”, *Acta Analytica*, 15: 25–56.
-* ––– (ed.), 2001, *Knowledge, truth, and duty: Essays on epistemic justification, responsibility, and virtue*, New York: Oxford.
-* –––, 2008, “Doxastic freedom”, *Synthese*, 161: 375–392.
-* Steup, Matthias and Ernest Sosa, 2005, *Contemporary debates in epistemology*, Malden MA: Blackwell.
-* Stich, Stephen, 1990, *The fragmentation of reason*, Cambridge, MA: MIT.
-* Stocker, Michael, 1982, “Responsibility especially for beliefs”, *Mind*, 91: 398–417.
-* Stroud, Sarah, 2006,“Epistemic partiality in friendship ”, *Ethics*, 116: 498–524.
-* Street, Sharon, 2006, “A Darwinian dilemma for realist theories of value”, *Philosophical Studies* 127: 109–166.
-* Sutton, Jonathan, 2005, “Stick to what you know”, *Noûs*, 39: 359–396.
-* Swinburne, Richard, 2001, *Epistemic justification*, New York: Oxford.
-* Tang, Weng Hong, 2015, “Reliabilism and the suspension of belief”, *Australian Journal of Philosophy*, 94: 362–377.
-* Textor, Mark, 2004, “Has the ethics of belief been brought back on the right track?” *Erkenntnis*, 61: 123–142.
-* Van Fraasen, Bas, 1984, “Belief and the will”, *Journal of Philosophy*, 81: 235–256.
-* Van Inwagen, Peter, 1996, “It is wrong, everywhere, always, and for anyone, to believe anything upon insufficient evidence”, in J. Jordan and D. Howard-Snyder (eds.), *Faith, freedom and rationality*, Lanham, MD: Rowman and Littlefield, 137–153.
-* Velleman, J. D., 2000, *The possibility of practical reason*, Oxford: Clarendon Press.
-* Wagner, Verena, forthcoming, “On the analogy of free will and free belief”, *Synthese*.
-* Weatherson, Brian, 2008, “Deontology and Descartes' demon”, *Journal of Philosophy*, 105: 540–569.
-* Wedgwood, Ralph, 2002, “The aim of belief”, *Philosophical Perspectives*, 16: 267–297.
-* White, Roger, 2005, “Epistemic permissiveness”, *Philosophical Perspectives*, 19: 445–459.
-* –––, 2006, “Problems for dogmatism”, *Philosophical Studies*, 131: 525–57.
+* Engel, Pascal (ed.), 2000, _Believing and accepting_, Dordrecht: Kluwer.
+* Evans, C. Stephen, 1998, _Faith beyond reason: A Kierkegaardian account_, Grand Rapids, MI: William B. Eerdmans.
+* Fairweather, Abrol, and Linda Zagzebski (eds.), 2001, _Virtue epistemology : Essays on epistemic virtue and responsibility_, New York: Oxford.
+* Feldman, Richard, 1988, “Epistemic obligations” _Philosophical perspectives_, 2: 235–256.
+* –––, 2000, “The ethics of belief”, _Philosophy and Phenomenological Research_, 60: 667–695.
+* –––, 2002, “Epistemological duties”, in P. Moser (ed.), _Oxford handbook of epistemology_, New York: Oxford, 362–384.
+* Feldman, Richard, and Earl Conee, 1985, “Evidentialism”, _Philosophical Studies_, 48: 15–34.
+* Fodor, Jerry, 1975, _The language of thought_, New York: Crowell.
+* Firth, Roderick, 1959, “Chisholm and the ethics of belief”, _Philosophical Review_, 68: 493–506.
+* Foley, Richard, 1987, _The theory of epistemic rationality_. (Cambridge, MA: Harvard).
+* Gale, Richard M., 1980, “William James and the ethics of belief”, _American Philosophical Quarterly_, 17: 1–14.
+* –––, 1999, “William James and the willfulness of belief”, _Philosophy and Phenomenological Research_, 59: 71–91.
+* Gardiner, G., 2012, “Understanding, integration, and epistemic value”, _Acta Analytica_, 27: 163–181.
+* Gibbons, John, 2013, _The norm of belief_, New York: Oxford.
+* Ginet, Carl, 2001, “Deciding to believe”, in M. Steup (ed.), _Knowledge, truth and duty_, New York, NY: Oxford University Press, 63–76.
+* Ginsborg, Hannah, 2007, “Reasons for belief”, _Philosophy and Phenomenological Research_, 72: 286–318.
+* Goldberg, Sanford, 2009, “The knowledge account of assertion and the nature of testimonial knowledge”, in Patrick Greenough and Duncan Pritchard (eds.), _Williamson on knowledge_, Oxford: Oxford University Press.
+* Greenough, Patrick, and Duncan Pritchard (eds.), 2009, _Williamson on knowledge_, Oxford: Oxford University Press.
+* Grimm S., 2012, “The value of understanding”, _Philosophy Compass_, 7: 103–117.
+* Haack, Susan, 1997, “The ethics of belief reconsidered”, in L. Hahn (ed.), _The philosophy of Roderick M. Chisholm_, LaSalle, IL: Open Court, 129–144.
+* Hahn, L. (ed.), 1998, _The philosophy of Roderick M. Chisholm_, LaSalle, IL: Open Court.
+* Hájek, Alan, 2003, “Waging war on Pascal's wager”, _Philosophical Review_, 112: 27–56.
+* Harman, Gilbert, 1986, _Change in view: Principles of reasoning_, Cambridge, MA: MIT Press.
+* Hawthorne, J., and T. Szabo Gender (eds.), 2005, _Oxford Studies in Epistemology_ (Vol. 1), New York:Oxford.
+* Heil, John, 1983, “Believing what one ought”, _Journal of Philosophy_, 80: 752–65.
+* –––, 1984, “Doxastic incontinence”, _Mind_, 93: 56–70.
+* –––, 1993, “Doxastic agency”, _Philosophical Studies_, 43: 355–364.
+* Hieronymi, Pamela, 2006, “Controlling attitudes”, _Pacific Philosophical Quarterly_, 87: 45–74.
+* –––, 2008, “Responsibility for believing”, _Synthese_, 161: 357–373.
+* Huemer, Michael, 2007a, “Compassionate Phenomenal Conservatism”, _Philosophy and Phenomenal Research_, 74: 30–55.
+* –––, 2007b, “Moore's and the norm of belief”, in Susana Nuccetelli and Gary Seay (eds.), _Themes from G. E. Moore: New essays in epistemology and ethics_, Oxford: Clarendon.
+* Hunter, David, 1998, “Understanding and belief”, _Philosophy and Phenomenological Research_, 58(3): 559–580.
+* James, William, 1896 \[1956], _The Will to believe and other essays in popular philosophy_, New York: Dover Publications, 1–31.
+* Jordan, Jeff, 2006, _Pascal's Wager: Pragmatic arguments and belief in God_, Oxford: Clarendon.
+* Jordan, Jeff, and Daniel Howard Snyder (eds.), 1996, _Faith, freedom and rationality_, Lanham, MD: Rowman and Littlefield.
+* Kant, Immanuel, 1781/1787 \[1902-], _Critique of Pure Reason_ (_Kritik der reinen Vernunft_), in _Gesammelte Schriften_, Königlich-Preussischen Akademie der Wissenschaften zu Berlin/Walter de Gruyter.
+* Kasser, Jeff, and Nishi Shah, 2006, “The metaethics of belief: an expressivist reading of _The will to believe_”, _Social Epistemology_, 20: 1–17.
+* Kelly, Thomas, 2003, “Epistemic rationality as instrumental rationality: A critique”, _Philosophy and Phenomenological Research_, 66: 612–640.
+* –––, 2005, “The epistemic significance of disagreement”, in J. Hawthorne and T. Szabo Gendler, (eds.), _Oxford Studies in Epistemology_ (Vol. 1), New York: Oxford, pp. 167–196.
+* Keller, Simon, 2004, “Friendship and belief”, _Philosophical Papers_, 33: 329–351.
+* Kierkegaard, Søren, 1846 \[1992], _Concluding Unscientific Postscript_, H. Hong and E. Hong (trans. and eds.), Princeton, NJ: Princeton University Press.
+* Kolodny, Niko, 2005, “Why be rational?”, _Mind_, 114: 509–563.
+* Kornblith, Hilary, 1983, “Justified belief and epistemically responsible action”, _Philosophical Review_, 92: 33–48.
+* Kvanvig, J., 2003, _The value of knowledge and the pursuit of understanding_, New York: Cambridge.
+* –––, 2009, “The value of understanding”, in Pritchard, Haddock, and Millar (eds.), _Epistemic Value_, New York: Oxford University Press, 95–112.
+* Leon, Mark, 2002, “Responsible believers”, _Monist_, 85: 421–435.
+* Littlejohn, C. and Turri, J., 2014, _Epistemic norms: assertion, action, and belief_, New York: Oxford.
+* Locke, John, 1690 \[1975], _An essay concerning human understanding_, Oxford: Clarendon.
+* Lycan, William, 1988, _Judgment and justification_, New York: Cambridge.
+* Madigan, T. (ed.), 1999, _The ethics of belief and other essays_, Amherst, MA: Prometheus.
+* Maher, Patrick, 1990, “Acceptance without belief”, _Philosophy of science association_, 1: 381–392.
+* Marušić, Berislav, 2015, _Evidence and agency: norms of belief for promising and resolving_, New York: Oxford.
+* Matheson, J. and Vitz, R., 2014, _The ethics of belief: individual and social_, New York: Oxford.
+* McCarthy, Gerald D. (ed.), 1986, _The ethics of belief debate_. Atlanta: Scholars Press.
+* McCormick, Miriam S., 2015, _Believing against the evidence: Agency and the ethics of belief_, New York: Routledge.
+* McDowell, John, 1994, _Mind and World_, Cambridge, MA: Harvard University Press.
+* McGrath, Matthew, 2007, “Memory and epistemic conservatism ”, _Synthese_, 157: 1–24.
+* Mele, Alfred R., 2001 _Self-deception unmasked_. Princeton, NJ: Princeton.
+* Meiland, Jack W., 1980, “What ought we to believe: Or the ethics of belief revisited”, _American Philosophical Quarterly_, 17: 15–24.
+* Moore, Joseph, 1994, “Review of L. J. Cohen, _An essay on belief and acceptance_”, _Philosophical Review_, 103: 705–709.
+* Moser P. (ed.), 2005, _Oxford handbook of epistemology_, New York: Oxford.
+* Neta, Ram, 2004, “Perceptual evidence and the new dogmatism”, _Philosophical Studies_, 119: 199–214.
+* Nuccetelli, Susana, and Gary Seay (eds.), 2008, _Themes from G. E. Moore: New essays in epistemology and ethics_, Oxford: Clarendon.
+* Owens, David, 2000, _Reason without freedom: The problem of epistemic normativity_, New York: Routledge.
+* Owens, David, and Gideon Yaffe, and Paul Hoffman (eds.), 2008, _Early modern metaphysics: Essays in honor of Vere Chappell_, Peterborough, Ontario: Broadview.
+* Pace, Michael, 2010, “The epistemic power of morally positive thinking: justification, moral encroachment, and James' ‘The will to believe’ ”, _Noûs_, forthcoming.
+* Papineau, David, 2001, “Evidentialism reconsidered”, _Noûs_, 35: 239–259.
+* Pascal, Blaise, 1670 \[1995], _Pensées_, A. Kreilsheimer (trans. and ed.), New York: Penguin.
+* Perin, Casey, 2015, “Skepticism, suspension of judgment, and norms for belief”, _International Journal for the Study of Skepticism_, 5: 107–125.
+* Plantinga, Alvin, 2002, “The evolutionary argument against naturalism”, in J. Beilby (ed.), _Naturalism defeated?_, Ithaca, NY: Cornell, 1–15.
+* Price, H.H., 1954, “Belief and the will”, _Proceedings of the Aristotelian Society_ (Supplement), 28: 1–27.
+* Pritchard, Duncan, 2007, “Recent Work on Epistemic Value”, _American Philosophical Quarterly_, 44: 85–110.
+* –––, 2011, “What is the swamping problem”, in A. Reisner & A. Steiglich–Petersen (eds.), _Reasons for belief_, New York: Cambridge University Press.
+* Pritchard, Duncan and Adrian Haddock, and Alan Millar (eds.), 2009, _Epistemic Value_, New York: Oxford University Press.
+* Pryor, James, 2000, “The skeptic and the dogmatist”, _Noûs_, 34: 517–549.
+* –––, 2001, “Highlights of recent epistemology”, _British Journal for the Philosophy of Science_, 52: 95–124.
+* –––, 2004, “What's wrong with Moore's argument?” _Philosophical Issues_, 14: 349–378.
+* –––, 2005, “Is there immediate justification? There is immediate justification”, in M. Steup (ed.), _Contemporary debates in epistemology_, Malden MA: Blackwell, 181–202.
+* Radford, Colin, 1990, “Belief, acceptance, and knowledge”, _Mind_, 99: 609–617.
+* Reisner, Andrew, 2008, “Weighing pragmatic and evidential reasons for belief”, _Philosophical Studies_, 138: 7–27.
+* –––, 2009, “The possibility of pragmatic reasons for belief and the wrong kind of reasons problem”, _Philosophical Studies_, 145: 257–272.
+* –––, 2017, “Pragmatic reasons for belief”, in Daniel Star (ed.), _The Oxford Handbook of Reasons and Normativity_, New York: Oxford.
+* Reisner, A and A. Steiglich-Petersen (eds.), 2011, _Reasons for belief_, New York: Cambridge.
+* Roberts, Robert and William Jay Wood, 2007, _Intellectual virtue: An essay in regulative epistemology_, New York: Oxford.
+* Rott, Hans, forthcoming, “Negative doxastic voluntarism and the concept of belief”, _Synthese_.
+* Ryan, Sharon, 2003, “Doxastic compatibilism and the ethics of belief”, _Philosophical Studies_, 114: 47–79.
+* Schmechtig, P. and M. Grajner (eds.), forthcoming, _Epistemic reasons, epistemic norms, and epistemic goals_, Berlin, Boston: De Gruyter.
+* Schroeder, Mark, 2005, “The hypothetical imperative?”, _Australasian Journal of Philosophy_, 83: 357–372.
+* Shah, Nishi, 2002, “Clearing space for doxastic voluntarism”, _The Monist_, 85: 436–435.
+* –––, 2003, “How truth governs belief”, _Philosophical Review_, 112: 447–482.
+* –––, 2006, “A new argument for evidentialism”, _Philosophical Quarterly_, 56: 481–498.
+* Sider, Robert D., 1980, “Credo quia absurdum?” _Classical World_, 73: 417–9.
+* Simion, Mona, Christopher Kelp, and Harmen Ghijsen, 2016, “Norms of belief”, _Philosophical Issues_, 26: 375–392.
+* Smith, Angela, 2005, “Responsibility for attitudes: Activity and passivity in mental life”, _Ethics_, 115: 236–271.
+* Sosa, Ernest, 2000, “For the love of truth”, in A. Fairweather and L. Zagzebski (eds.), _Virtue epistemology: Essays on epistemic virtue and responsibility_, New York: Oxford.
+* –––, 2003, “The place of truth in epistemology”, in L. Zagzebski and M. DePaul (eds.), _Intellectual virtue: Perspectives from ethics and epistemology_, New York: Oxford University Press.
+* –––, 2007, _A virtue epistemology: Apt belief and reflective knowledge_ (Volume 1), Oxford: Clarendon Press.
+* –––, 2011, _Knowing full well_, Princeton, NJ: Princeton.
+* Southwood, Nicholas and Phillipe Chuard, 2009, “Epistemic norms without voluntary control ”, _Noûs_, 43: 599–632.
+* Stalnaker, Robert, 1987, _Inquiry_, Cambridge, MA: Bradford.
+* Steglich-Peterson, Asbjørn, 2009, “Weighing the aim of belief”, _Philosophical Studies_, 145: 395–405.
+* Steup, Matthias, 2000, “Doxastic voluntarism and epistemic deontology”, _Acta Analytica_, 15: 25–56.
+* ––– (ed.), 2001, _Knowledge, truth, and duty: Essays on epistemic justification, responsibility, and virtue_, New York: Oxford.
+* –––, 2008, “Doxastic freedom”, _Synthese_, 161: 375–392.
+* Steup, Matthias and Ernest Sosa, 2005, _Contemporary debates in epistemology_, Malden MA: Blackwell.
+* Stich, Stephen, 1990, _The fragmentation of reason_, Cambridge, MA: MIT.
+* Stocker, Michael, 1982, “Responsibility especially for beliefs”, _Mind_, 91: 398–417.
+* Stroud, Sarah, 2006,“Epistemic partiality in friendship ”, _Ethics_, 116: 498–524.
+* Street, Sharon, 2006, “A Darwinian dilemma for realist theories of value”, _Philosophical Studies_ 127: 109–166.
+* Sutton, Jonathan, 2005, “Stick to what you know”, _Noûs_, 39: 359–396.
+* Swinburne, Richard, 2001, _Epistemic justification_, New York: Oxford.
+* Tang, Weng Hong, 2015, “Reliabilism and the suspension of belief”, _Australian Journal of Philosophy_, 94: 362–377.
+* Textor, Mark, 2004, “Has the ethics of belief been brought back on the right track?” _Erkenntnis_, 61: 123–142.
+* Van Fraasen, Bas, 1984, “Belief and the will”, _Journal of Philosophy_, 81: 235–256.
+* Van Inwagen, Peter, 1996, “It is wrong, everywhere, always, and for anyone, to believe anything upon insufficient evidence”, in J. Jordan and D. Howard-Snyder (eds.), _Faith, freedom and rationality_, Lanham, MD: Rowman and Littlefield, 137–153.
+* Velleman, J. D., 2000, _The possibility of practical reason_, Oxford: Clarendon Press.
+* Wagner, Verena, forthcoming, “On the analogy of free will and free belief”, _Synthese_.
+* Weatherson, Brian, 2008, “Deontology and Descartes' demon”, _Journal of Philosophy_, 105: 540–569.
+* Wedgwood, Ralph, 2002, “The aim of belief”, _Philosophical Perspectives_, 16: 267–297.
+* White, Roger, 2005, “Epistemic permissiveness”, _Philosophical Perspectives_, 19: 445–459.
+* –––, 2006, “Problems for dogmatism”, _Philosophical Studies_, 131: 525–57.
 * Whiting, Daniel, 2014, “Reasons for belief, reasons for action, the aim of belief, and the aim of action”, in Littlejohn & Turri 2014.
-* Williamson, Timothy, 2000, *Knowledge and its limits*, Oxford: Oxford University Press.
-* Wisdo, David, 1991, “Self-deception and the ethics of belief”, *Journal of Value Inquiry*, 91: 339–347.
-* –––, 1993, *The life of irony and the ethics of belief*, Albany: SUNY.
-* Wolterstorff, Nicholas, 1996, *John Locke and the ethics of belief*, New York: Cambridge.
-* –––, 1997, “Obligations of belief—two concepts”, in L. Hahn (ed.), *The philosophy of Roderick M. Chisholm*, LaSalle, IL: Open Court, 217–238.
-* Wood, Allen, 2002, *Unsettling obligations: Essays on reason, reality, and the ethics of belief*, Stanford, CA: CSLI.
+* Williamson, Timothy, 2000, _Knowledge and its limits_, Oxford: Oxford University Press.
+* Wisdo, David, 1991, “Self-deception and the ethics of belief”, _Journal of Value Inquiry_, 91: 339–347.
+* –––, 1993, _The life of irony and the ethics of belief_, Albany: SUNY.
+* Wolterstorff, Nicholas, 1996, _John Locke and the ethics of belief_, New York: Cambridge.
+* –––, 1997, “Obligations of belief—two concepts”, in L. Hahn (ed.), _The philosophy of Roderick M. Chisholm_, LaSalle, IL: Open Court, 217–238.
+* Wood, Allen, 2002, _Unsettling obligations: Essays on reason, reality, and the ethics of belief_, Stanford, CA: CSLI.
 * Wright, Sarah, 2014, “The dual–aspect norms of belief and assertion: a virtue approach to epistemic norms”, in Littlejohn & Turri 2014.
-* Wykstra, Stephen J., 1995, “Externalism, proper inferentiality and sensible evidentialism”, *Topoi*, 14: 108–121.
-* Yee, Grace, 2002, “Desiring to believe”, *Monist*, 85: 446–455.
-* Zagzebski, Linda, 1996, *Virtues of the mind: An inquiry into the nature of virtue and the ethical foundations of knowledge*, New York: Cambridge.
-* –––, 2003, “The search for the source of the epistemic good”, *Metaphilosophy*, 34: 12–28.
-* –––, 2004, “Epistemic value and the primacy of what we care about”, *Philosophical Papers*, 33: 353–377.
-* Zagzebski, Linda and M. Depaul (eds.), 2007, *Intellectual virtue: Perspectives from ethics and epistemology*, New York: Oxford University Press.
-* Zamulinski, Brian, 2002, “A re-evaluation of Clifford and his critics”, *Southern Journal of Philosophy*, 40: 437–457.
+* Wykstra, Stephen J., 1995, “Externalism, proper inferentiality and sensible evidentialism”, _Topoi_, 14: 108–121.
+* Yee, Grace, 2002, “Desiring to believe”, _Monist_, 85: 446–455.
+* Zagzebski, Linda, 1996, _Virtues of the mind: An inquiry into the nature of virtue and the ethical foundations of knowledge_, New York: Cambridge.
+* –––, 2003, “The search for the source of the epistemic good”, _Metaphilosophy_, 34: 12–28.
+* –––, 2004, “Epistemic value and the primacy of what we care about”, _Philosophical Papers_, 33: 353–377.
+* Zagzebski, Linda and M. Depaul (eds.), 2007, _Intellectual virtue: Perspectives from ethics and epistemology_, New York: Oxford University Press.
+* Zamulinski, Brian, 2002, “A re-evaluation of Clifford and his critics”, _Southern Journal of Philosophy_, 40: 437–457.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ethics-belief). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ethics-belief/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ethics-belief&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/ethics-belief/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ethics-belief).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ethics-belief/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ethics-belief\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/ethics-belief/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-* Benton, Matthew, [Knowledge Norms](http://www.iep.utm.edu/kn-norms/), entry in the *Internet Encyclopedia of Philosophy*.
+* Benton, Matthew, [Knowledge Norms](http://www.iep.utm.edu/kn-norms/), entry in the _Internet Encyclopedia of Philosophy_.
 * [Ethics of Belief](http://philpapers.org/browse/ethics-of-belief), PhilPapers site, maintained by Asbjørn Steglich-Petersen, University of Aarhus.
 
 ## Related Entries
 
-[basing relation, epistemic](https://plato.stanford.edu/entries/basing-epistemic/) | [evidence](https://plato.stanford.edu/entries/evidence/) | [fideism](https://plato.stanford.edu/entries/fideism/) | [justification, epistemic: foundationalist theories of](https://plato.stanford.edu/entries/justep-foundational/) | [knowledge, value of](https://plato.stanford.edu/entries/knowledge-value/) | [language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/) | [materialism: eliminative](https://plato.stanford.edu/entries/materialism-eliminative/) | [Pascal, Blaise](https://plato.stanford.edu/entries/pascal/) | [Pascal’s wager](https://plato.stanford.edu/entries/pascal-wager/) | [pragmatic arguments and belief in God](https://plato.stanford.edu/entries/pragmatic-belief-god/) | [pragmatism](https://plato.stanford.edu/entries/pragmatism/) | [self-deception](https://plato.stanford.edu/entries/self-deception/)
+[basing relation, epistemic](https://plato.stanford.edu/entries/basing-epistemic/) | [evidence](https://plato.stanford.edu/entries/evidence/) | [fideism](https://plato.stanford.edu/entries/fideism/) | [justification, epistemic: foundationalist theories of](https://plato.stanford.edu/entries/justep-foundational/) | [knowledge, value of](https://plato.stanford.edu/entries/knowledge-value/) | [language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/) | [materialism: eliminative](https://plato.stanford.edu/entries/materialism-eliminative/) | [Pascal, Blaise](https://plato.stanford.edu/entries/pascal/) | [Pascal’s wager](https://plato.stanford.edu/entries/pascal-wager/) | [pragmatic arguments and belief in God](https://plato.stanford.edu/entries/pragmatic-belief-god/) | [pragmatism](https://plato.stanford.edu/entries/pragmatism/) | [self-deception](https://plato.stanford.edu/entries/self-deception/)
 
 ### Acknowledgments
 
@@ -542,5 +538,5 @@ The author wishes to thank Marian David and Avishai Margalit for discussion, and
 
 He also thanks Cambridge University Press for permission to re-use a few paragraphs from his portion of the essay “The Ethics of Religious Belief: A Recent History,” in (Dole and Chignell 2005).
 
-[Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
-[Andrew Chignell](https://chignell.net/) <[*chignell@princeton.edu*](mailto:chignell%40princeton%2eedu)>
+[Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
+[Andrew Chignell](https://chignell.net/) <[_chignell@princeton.edu_](mailto:chignell%40princeton%2eedu)>

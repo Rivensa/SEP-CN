@@ -1,40 +1,29 @@
 # 贝萨里翁 Bessarion, Basil \[Cardinal] (Eva Del Soldato)
 
-
-*首次发布于 2018 年 8 月 27 日；实质性修订于 2022 年 9 月 3 日*
+_首次发布于 2018 年 8 月 27 日；实质性修订于 2022 年 9 月 3 日_
 
 贝萨里翁（d. 1472）是在马尔西利奥·菲奇诺（1433-1499）之前，负责将柏拉图重新引入西方世界的不那么灰色的显赫人物。在反柏拉图传统的基础上，贝萨里翁捍卫了柏拉图的声誉，抵御了反柏拉图主义者特雷比松德的攻击，他引入了基督教化的柏拉图对话的阅读，将柏拉图描述为最适合罗马神学的异教哲学家。贝萨里翁的论证策略不仅拯救了柏拉图，还为反形而上学的亚里士多德主义打开了道路，同时向拉丁世界展示了他的希腊文化遗产中的丰富知识。
 
 * [1. 生平](https://plato.stanford.edu/entries/bessarion/#Life)
-
 * [2. Works](https://plato.stanford.edu/entries/bessarion/#Work)
-
 * [2.1 Bessarion the Theologian](https://plato.stanford.edu/entries/bessarion/#BessTheo)
-
 * [2.2 Bessarion the Aristotelian](https://plato.stanford.edu/entries/bessarion/#BessAris)
-
 * [2.3 《针对柏拉图诽谤者》](https://plato.stanford.edu/entries/bessarion/#CaluPlat)
-
 * [3. Reception](https://plato.stanford.edu/entries/bessarion/#Rece)
-
 * [Bibliography](https://plato.stanford.edu/entries/bessarion/#Bib)
-
 * [Primary Literature](https://plato.stanford.edu/entries/bessarion/#PrimLite)
-
 * [次级文献](https://plato.stanford.edu/entries/bessarion/#SecoLite)
 * [学术工具](https://plato.stanford.edu/entries/bessarion/#Aca)
-
 * [Other Internet Resources](https://plato.stanford.edu/entries/bessarion/#Oth)
-
 * [相关条目](https://plato.stanford.edu/entries/bessarion/#Rel)
 
----
+***
 
 ## 1. 生活
 
 贝萨里翁（Bessarion）出生于特雷比松德（Trebizond），时间在 1399 年至 1408 年之间，并在洗礼时取名为巴西尔（Basil）。在年轻时，他前往拜占庭，在那里与约翰·科塔斯门诺斯（John Cortasmenos，逝世于 1431/7 年）学习。当他于 1423 年成为修道士时，他改名为贝萨里翁。在追求他的教会事业时，贝萨里翁参与了在约翰八世·帕莱奥洛戈斯（John VIII Palaiologos）皇帝服务中的外交活动。这使他与米斯特拉（Mistra）的君主宫廷接触，这个城市给了他在吉米斯托斯·普莱托（Gemistos Pletho，逝世于 1454 年）的指导下深化他的哲学和数学训练的机会。贝萨里翁生活中的决定性一年可能是 1437 年，当时他被任命为尼西亚（Nicea）的大主教（因此常被称为“尼西亚的红衣主教”），并作为希腊代表团成员前往意大利参加费拉拉-佛罗伦萨会议。
 
-该会议主要致力于试图统一拉丁教会和希腊教会，这是西欧大国为了向帕莱奥洛戈斯提供军事支持以抵御奥斯曼土耳其人的条件。作为希腊代表团的成员，年轻的贝萨里翁并不急于让步于两个教会之间的主要教义分歧，这导致了它们在 11 世纪分裂：信经中圣灵的位置问题。根据希腊人的观点，圣灵只从父而出，而在罗马的表述中，它也从子（*Filioque*）而出。然而，出于对希腊政治局势不稳定的关切，并最终被教父文献所说服，贝萨里翁改变了主意，并于 1439 年 4 月发表了一篇演讲（*Oratio dogmatica de unione*），其中主张希腊和拉丁作家之间达成协议。1439 年 7 月，贝萨里翁在佛罗伦萨宣读了罗马教会和希腊教会的合并宣言。同年，在他最后一次回到希腊时，贝萨里翁被任命为红衣主教。
+该会议主要致力于试图统一拉丁教会和希腊教会，这是西欧大国为了向帕莱奥洛戈斯提供军事支持以抵御奥斯曼土耳其人的条件。作为希腊代表团的成员，年轻的贝萨里翁并不急于让步于两个教会之间的主要教义分歧，这导致了它们在 11 世纪分裂：信经中圣灵的位置问题。根据希腊人的观点，圣灵只从父而出，而在罗马的表述中，它也从子（_Filioque_）而出。然而，出于对希腊政治局势不稳定的关切，并最终被教父文献所说服，贝萨里翁改变了主意，并于 1439 年 4 月发表了一篇演讲（_Oratio dogmatica de unione_），其中主张希腊和拉丁作家之间达成协议。1439 年 7 月，贝萨里翁在佛罗伦萨宣读了罗马教会和希腊教会的合并宣言。同年，在他最后一次回到希腊时，贝萨里翁被任命为红衣主教。
 
 贝萨里翁将其余的生命都度过在罗马教廷中最重要和有影响力的成员之一。他被选派执行重要的外交任务；例如，1450 年尼科洛五世派他作为特使前往博洛尼亚。他特别关心希腊礼仪修道院，如卡拉布里亚、梅西纳和格罗塔费拉塔的修道院。他获得了许多福利，并于 1458 年被选为方济各会的保护人。1463 年，他还成为君士坦丁堡的牧首。他甚至曾两次接近被提升为教皇，但显然他的胡须——对许多人来说象征着他的希腊血统——阻止了他获得必要的支持。他作为红衣主教的活动与学术事业相结合，他亲自从事学术事业，并作为一群知识分子的赞助人，这些知识分子在许多情况下都像他一样是希腊移民。像西奥多·加萨（1476 年去世）和尼科洛·佩罗蒂（1480 年去世）这样的人，甚至在短暂的时期内，他的宿敌乔治·特雷比松德（1473 年去世）也都是红衣主教的随从。
 
@@ -44,7 +33,7 @@
 
 ## 2. 作品
 
-贝萨里翁的*opera omnia*包括为拜占庭和罗马宫廷的观众准备的作品，如演讲和诗歌。特别值得注意的是他致意大利统治者的演讲，旨在说服他们加入对土耳其的十字军东征（*Orationes ad principes Italiae contra Turcos*，1470 年）。*De errore Paschatis*致力于计算复活节的正确日期，可能是在 Regiomontanus（1436-1476）的协助下完成的，反映了贝萨里翁早期对天文学的兴趣，这个兴趣自他在 Cortasmenos 和 Pletho 的培训时期就开始培养。贝萨里翁还留下了一大批从未编辑出版的信件。除了是重要翻译的赞助人外，他还亲自将希腊作品翻译成拉丁语，包括圣巴西略的*De nativitate Domini*，克西弗隆的*Memorabilia*和德摩斯特尼的*First Olinthiac*。然而，贝萨里翁作为作者和翻译家最重要的作品都集中在神学和哲学领域。
+贝萨里翁的_opera omnia_包括为拜占庭和罗马宫廷的观众准备的作品，如演讲和诗歌。特别值得注意的是他致意大利统治者的演讲，旨在说服他们加入对土耳其的十字军东征（_Orationes ad principes Italiae contra Turcos_，1470 年）。_De errore Paschatis_致力于计算复活节的正确日期，可能是在 Regiomontanus（1436-1476）的协助下完成的，反映了贝萨里翁早期对天文学的兴趣，这个兴趣自他在 Cortasmenos 和 Pletho 的培训时期就开始培养。贝萨里翁还留下了一大批从未编辑出版的信件。除了是重要翻译的赞助人外，他还亲自将希腊作品翻译成拉丁语，包括圣巴西略的_De nativitate Domini_，克西弗隆的_Memorabilia_和德摩斯特尼的_First Olinthiac_。然而，贝萨里翁作为作者和翻译家最重要的作品都集中在神学和哲学领域。
 
 ### 2.1 神学家贝萨里翁
 
@@ -66,11 +55,11 @@
 
 乔治的《比较作品》立即被贝萨里翁视为危险之物，他需要回应以保护自己和柏拉图的声誉。如果柏拉图被视为不虔诚，那么作为红衣主教的贝萨里翁也会受到牵连。在他的圈子里的几位成员的帮助下，贝萨里翁在大约十年的时间里完成了他的杰作：《贝萨里翁反驳诽谤柏拉图者》。
 
-这项工作的准备需要进行一些形式和理论上的调整。从形式上来看，贝萨里翁意识到，一篇最初以希腊语写成的作品，如《论诽谤者》（*In calumniatorem*），不会产生预期的影响。因此，他将这部作品翻译成拉丁语，并为了使其在文体上更具吸引力，聘请了一位熟练的拉丁语专家，他的秘书尼科洛·佩罗蒂（Niccolò Perotti）来修订这篇文章。佩罗蒂的重新加工使这部作品更易理解和优雅，尽管他有时难以恰当地表达其中包含的哲学概念。
+这项工作的准备需要进行一些形式和理论上的调整。从形式上来看，贝萨里翁意识到，一篇最初以希腊语写成的作品，如《论诽谤者》（_In calumniatorem_），不会产生预期的影响。因此，他将这部作品翻译成拉丁语，并为了使其在文体上更具吸引力，聘请了一位熟练的拉丁语专家，他的秘书尼科洛·佩罗蒂（Niccolò Perotti）来修订这篇文章。佩罗蒂的重新加工使这部作品更易理解和优雅，尽管他有时难以恰当地表达其中包含的哲学概念。
 
-从理论上来看，贝萨里翁对一种不同类型的修订感兴趣。大约在 1457 年，当他与西奥多·加萨（Theodore Gaza）进行关于自然和艺术的书信交流时，贝萨里翁最初像他的导师普莱托（Pletho）一样主张柏拉图和亚里士多德是不可调和的。然而，这位枢机主教在偶然间改变了这个立场，他发现了一篇关于同一主题的论文（现已失传），作者是特雷比松德的乔治：在他随后的小册子《论自然与艺术》（*De natura et arte*）中，这本小册子后来成为《论诽谤者柏拉图》的第六卷，贝萨里翁采纳了晚期古代评论家辛普利修斯的调和观点。这种解释观点贯穿于《论诽谤者》全书，将亚里士多德视为自然哲学家，将柏拉图视为神学家，从而解释了这两位作者之间的表面分歧仅仅是不同的主题和不同层次的现实问题。这种解释性的转变使贝萨里翁能够避免公开攻击亚里士多德，同时暗示柏拉图的优越性，特别是作为基督教信仰的外部支持。它还使他避免与罗马教廷的亚里士多德派产生冲突，并依靠阿尔伯特大师和托马斯·阿奎那等学者权威来实现他的解释目标。
+从理论上来看，贝萨里翁对一种不同类型的修订感兴趣。大约在 1457 年，当他与西奥多·加萨（Theodore Gaza）进行关于自然和艺术的书信交流时，贝萨里翁最初像他的导师普莱托（Pletho）一样主张柏拉图和亚里士多德是不可调和的。然而，这位枢机主教在偶然间改变了这个立场，他发现了一篇关于同一主题的论文（现已失传），作者是特雷比松德的乔治：在他随后的小册子《论自然与艺术》（_De natura et arte_）中，这本小册子后来成为《论诽谤者柏拉图》的第六卷，贝萨里翁采纳了晚期古代评论家辛普利修斯的调和观点。这种解释观点贯穿于《论诽谤者》全书，将亚里士多德视为自然哲学家，将柏拉图视为神学家，从而解释了这两位作者之间的表面分歧仅仅是不同的主题和不同层次的现实问题。这种解释性的转变使贝萨里翁能够避免公开攻击亚里士多德，同时暗示柏拉图的优越性，特别是作为基督教信仰的外部支持。它还使他避免与罗马教廷的亚里士多德派产生冲突，并依靠阿尔伯特大师和托马斯·阿奎那等学者权威来实现他的解释目标。
 
-这些来源的武器库对揭示乔治对亚里士多德哲学和传统知识的匮乏以及他对斯塔吉里特虔诚的赞美的不可靠性至关重要：这个问题是《论诽谤者柏拉图》的第三卷的主题，该卷在后期阶段完成，主要依靠多明我会神学家乔瓦尼·加蒂（d. *1484 年之前）提供的材料。最后，通过捍卫柏拉图和亚里士多德之间的一致，贝萨里翁还可以避免与吉米斯托斯·普莱托（Gemistus Pletho）有任何关联，后者的宗教声誉可能会给这位枢机主教带来污点。
+这些来源的武器库对揭示乔治对亚里士多德哲学和传统知识的匮乏以及他对斯塔吉里特虔诚的赞美的不可靠性至关重要：这个问题是《论诽谤者柏拉图》的第三卷的主题，该卷在后期阶段完成，主要依靠多明我会神学家乔瓦尼·加蒂（d. \*1484 年之前）提供的材料。最后，通过捍卫柏拉图和亚里士多德之间的一致，贝萨里翁还可以避免与吉米斯托斯·普莱托（Gemistus Pletho）有任何关联，后者的宗教声誉可能会给这位枢机主教带来污点。
 
 《论诽谤者》分为六卷：第一、二和四卷与乔治的《比较》三卷相呼应。
 
@@ -90,7 +79,7 @@
 
 虽然乔治的《Comparatio》直到 1523 年才以一种有缺陷的单一版本出版，而贝萨里翁则充分利用了新发现的印刷技术来接触他的读者：这为贝萨里翁提供了另一个优势，确保了成品文本的更广泛传播。《In calumniatorem Platonis》于 1469 年由 Schweynheym 和 Pannartz 印刷。同年，他们还出版了 Alcinous 的《Didaskalikon》，以及 Apuleius 的《De deo Socratis》和《De Platone et eius dogmate》，这可能是基督教红衣主教策划的柏拉图式编辑项目的一部分。《In calumniatorem》随后又两次重印，分别是在 1503 年和 1516 年由 Aldine 印刷厂出版。这两个版本并不相同，包括贝萨里翁对 1469 年版本的自己的修订。
 
-贝萨里翁对柏拉图的温和基督教化阅读为马尔西利奥·菲奇诺（Marsilio Ficino）和弗朗切斯科·卡塔尼·达·迪亚切托（Francesco Cattani da Diacceto）等作家提供了强大的解释方案，例如那些来自普罗提诺斯（Plotinus）、普罗克鲁斯（Proclus）和伪狄奥尼修斯（Ps.-Dionysius）的方案（贝萨里翁甚至为伪狄奥尼修斯的真实性辩护，即使是对他自己的圈子成员）。在菲奇诺的情况下，这些解释性的关键词在对柏拉图进行更雄心勃勃的基督教化时被放大，其中将古代哲学家与摩西进行比较。《对诽谤者》（*In calumniatorem*）是一部包含多个引文和权威的巨著，很快成为 16 世纪作家和哲学家的资料库。像关于毕达哥拉斯秘密的部分（I.2）以及利西斯致希帕尔库斯的信函等部分受到了众多读者的关注。路易·勒·罗亚（Louis le Roy，逝世于 1577 年）在他对《蒂迈欧篇》的评论中大量引用了《对诽谤者》的第二卷，但没有引用出处。西莫菲恩·尚皮埃（Symphorien Champier，逝世于 1540 年）在他的许多作品中恢复了《对诽谤者》的段落，但没有引用出处。尚皮埃希望说服他的朋友雅克·勒费夫尔·德埃塔普勒（Jacques Lefèvre d'Étaples，逝世于 1536 年）相信柏拉图对基督教的有益性，《对诽谤者》提供了大量支持他努力的材料。尽管他钦佩贝萨里翁对《形而上学》的翻译（他是第一个出版该书的人），但勒费夫尔·德埃塔普勒（与吉约姆·布德一样）仍然更倾向于乔治·特雷比松德（George of Trebizond）的立场。
+贝萨里翁对柏拉图的温和基督教化阅读为马尔西利奥·菲奇诺（Marsilio Ficino）和弗朗切斯科·卡塔尼·达·迪亚切托（Francesco Cattani da Diacceto）等作家提供了强大的解释方案，例如那些来自普罗提诺斯（Plotinus）、普罗克鲁斯（Proclus）和伪狄奥尼修斯（Ps.-Dionysius）的方案（贝萨里翁甚至为伪狄奥尼修斯的真实性辩护，即使是对他自己的圈子成员）。在菲奇诺的情况下，这些解释性的关键词在对柏拉图进行更雄心勃勃的基督教化时被放大，其中将古代哲学家与摩西进行比较。《对诽谤者》（_In calumniatorem_）是一部包含多个引文和权威的巨著，很快成为 16 世纪作家和哲学家的资料库。像关于毕达哥拉斯秘密的部分（I.2）以及利西斯致希帕尔库斯的信函等部分受到了众多读者的关注。路易·勒·罗亚（Louis le Roy，逝世于 1577 年）在他对《蒂迈欧篇》的评论中大量引用了《对诽谤者》的第二卷，但没有引用出处。西莫菲恩·尚皮埃（Symphorien Champier，逝世于 1540 年）在他的许多作品中恢复了《对诽谤者》的段落，但没有引用出处。尚皮埃希望说服他的朋友雅克·勒费夫尔·德埃塔普勒（Jacques Lefèvre d'Étaples，逝世于 1536 年）相信柏拉图对基督教的有益性，《对诽谤者》提供了大量支持他努力的材料。尽管他钦佩贝萨里翁对《形而上学》的翻译（他是第一个出版该书的人），但勒费夫尔·德埃塔普勒（与吉约姆·布德一样）仍然更倾向于乔治·特雷比松德（George of Trebizond）的立场。
 
 《对诽谤者》的复合性质允许对贝萨里翁作品性质的不同解释。在《对诽谤者》中，贝萨里翁本人在描述这篇文章时摇摆不定，既将其描述为对柏拉图的辩护，又将其描述为柏拉图与亚里士多德的比较。尽管《对诽谤者》在早期现代时期有助于传播《柏拉图与亚里士多德的比较》这一体裁，但该作品大多被视为对柏拉图的辩护，这使得贝萨里翁成为 16 世纪末耶稣会反柏拉图主义反应的明显目标。其他修会的成员，如方济各会和奥斯定会，对这位红衣主教更加友善，一直到 17 世纪。贝萨里翁也在大学内产生了影响。事实上，他将亚里士多德强调为仅仅是一位自然哲学家，为亚里士多德学派的教授们提供了有效的反对对哲学家进行形而上学解释的论据：例如，皮埃特罗·庞波纳齐（Pietro Pomponazzi，1462-1525）和弗朗切斯科·维默尔卡托（逝世于 1569 年）虽然从不同的角度辩论灵魂的不朽性，但都借鉴了《对诽谤者柏拉图篇》第三卷的段落。
 
@@ -98,115 +87,115 @@
 
 ### Primary Literature
 
-The *In calumniatorem Platonis* was originally printed in 1469 in Rome (by Schweynheym and Pannartz), and then again in 1503 and 1516 in Venice (by Manutius). Both Venetian editions—which slightly differ from one another—contain revisions suggested by Bessarion himself. Ludwig Mohler’s modern edition is based on the text printed by Manutius. See
+The _In calumniatorem Platonis_ was originally printed in 1469 in Rome (by Schweynheym and Pannartz), and then again in 1503 and 1516 in Venice (by Manutius). Both Venetian editions—which slightly differ from one another—contain revisions suggested by Bessarion himself. Ludwig Mohler’s modern edition is based on the text printed by Manutius. See
 
-* *Bessarionis In Calumniatorem Platonis Libri IV*, Paderborn: Schöningh, 1927;
-* *Aus Bessarions Gelehrtenkreis: Abhandlungen, Reden, Briefe*, Paderborn: Schöningh, 1942, pp. 92–146 (book VI),
+* _Bessarionis In Calumniatorem Platonis Libri IV_, Paderborn: Schöningh, 1927;
+* _Aus Bessarions Gelehrtenkreis: Abhandlungen, Reden, Briefe_, Paderborn: Schöningh, 1942, pp. 92–146 (book VI),
 
-respectively the second and the third volume of his *Kardinal Bessarion als Theologe, Humanist und Staatsmann*. Mohler printed the Greek original text as well, but completely omitted the fifth book of the work. A large selection of the *In calumniatorem* has been translated into Italian, on the basis of Manutius 1516 edition, but taking into consideration other emendations as well:
+respectively the second and the third volume of his _Kardinal Bessarion als Theologe, Humanist und Staatsmann_. Mohler printed the Greek original text as well, but completely omitted the fifth book of the work. A large selection of the _In calumniatorem_ has been translated into Italian, on the basis of Manutius 1516 edition, but taking into consideration other emendations as well:
 
-* *Contro il calunniatore di Platone*, Eva Del Soldato (ed.), with a bibliographical note by Ivanoe Privitera, Rome: Edizioni di Storia e Letteratura, 2014.
+* _Contro il calunniatore di Platone_, Eva Del Soldato (ed.), with a bibliographical note by Ivanoe Privitera, Rome: Edizioni di Storia e Letteratura, 2014.
 
-The sixth book of the *In calumniatorem* has been recently edited and translated into German:
+The sixth book of the _In calumniatorem_ has been recently edited and translated into German:
 
-* *Über Natur und Kunst*, Sergei Mariev, Monica Marchetto, and Katharina Luchner (eds.), Hamburg: Felix Meiner, 2015.
+* _Über Natur und Kunst_, Sergei Mariev, Monica Marchetto, and Katharina Luchner (eds.), Hamburg: Felix Meiner, 2015.
 
 There also exists an Italian translation:
 
-* *La natura delibera—La natura e l’arte*, Pier Davide Accendere and Ivanoe Privitera (eds.), Milan: Bompiani, 2015.
+* _La natura delibera—La natura e l’arte_, Pier Davide Accendere and Ivanoe Privitera (eds.), Milan: Bompiani, 2015.
 
-Giovanni Gatti’s *Notata*, which represents the basis for the third book of the *In calumniatorem*, has been published in a critical edition : Giovanni Gatti, *Notata ex libro ineptiis et deliramentis pleno, qui inscribitur De Comparatione Philosophorum*, John Monfasani (ed.), Turnhout: Brepols, 2021.
+Giovanni Gatti’s _Notata_, which represents the basis for the third book of the _In calumniatorem_, has been published in a critical edition : Giovanni Gatti, _Notata ex libro ineptiis et deliramentis pleno, qui inscribitur De Comparatione Philosophorum_, John Monfasani (ed.), Turnhout: Brepols, 2021.
 
-Bessarion’s theological works have been printed in the *Patrologia Greca* 161 (Paris 1866). The *Oratio dogmatica de unione* has been re-edited several times since:
+Bessarion’s theological works have been printed in the _Patrologia Greca_ 161 (Paris 1866). The _Oratio dogmatica de unione_ has been re-edited several times since:
 
-* *Bessarion Nicaenus, S.R.E. Cardinalis: Oratio dogmatica de unione*, Emmanuel Candal (ed.), Rome: Pontificium institutum orientalium studiorum, 1958;
-* *Orazione dogmatica sull’unione dei Greci e dei Latini*, Gianfrancesco Lusini (ed.), Naples: Vivarium, 2013.
+* _Bessarion Nicaenus, S.R.E. Cardinalis: Oratio dogmatica de unione_, Emmanuel Candal (ed.), Rome: Pontificium institutum orientalium studiorum, 1958;
+* _Orazione dogmatica sull’unione dei Greci e dei Latini_, Gianfrancesco Lusini (ed.), Naples: Vivarium, 2013.
 
-Other works by Bessarion, including many of his letters, have been edited by Mohler in *Aus Bessarions Gelehrtenkreis: Abhandlungen, Reden, Briefe*.
+Other works by Bessarion, including many of his letters, have been edited by Mohler in _Aus Bessarions Gelehrtenkreis: Abhandlungen, Reden, Briefe_.
 
 ### Secondary Literature
 
-* Bardi, Alberto, 2018, “Bessarione a lezione di astronomia da Cortasmeno”, *Byzantinische Zeitschrift*, 111(1): 1–38. doi: 10.1515/bz-2018-0001
-* Baudry, Léon, 1950 [1989], *Querelle des futurs contingents*, Paris: Vrin. Translated as *The Quarrel over Future Contingents (Louvain 1465–1475)*, (Synthese Historical Library, 36), Rita Guerlac (trans.), Dordrecht: Kluwer Academic, 1989.
-* Bianca, Concetta, 1999, *Da Bisanzio a Roma. Studi sul cardinale Bessarione*, Roma: Roma nel Rinascimento.
-* Bisaha, Nancy, 2004, *Creating East and West: Renaissance Humanists and the Ottoman Turks*, Philadelphia: University of Pennsylvania Press.
-* Cattaneo, Gianmario, 2015, “Note critiche all’epistolario greco del cardinal Bessarione”, *Medioevo Greco. Rivista di Storia e Filologia Bizantina*, 15(1): 51–61.
-* –––, 2017, “Or. Chald. 88 des Places, il carteggio tra il cardinal Bessarione e Giorgio Gemisto Pletone e la *philosophia perennis*”, *Studi Italiani di Filologia Classica*, 14: 241–251.
-* –––, 2020, *Domizio Calderini, Niccolò Perotti e la controversia platonico-aristotelica nel Quattrocento*, Berlin–New York: De Gruyter.
-* Charlet, Jean-Louis, 1987, “Traductions en vers latins de fragments grecs dans l’*Epitome* de N. Perotti et l’*In calumniatorem Platonis* de Bessarion”, *Res Publica Litterarum*, 10: 51–67.
-* Coluccia, Giuseppe L., 2009, *Basilio Bessarione. Lo spirito greco e l’occidente*, Firenze: Olschki.
-* Davies, Martin, 2013, “Some Bessarion Owners”, *La Bibliofilía*, 115(1): 41–52.
-* De Keyser, Jeroen, 2011, “Perotti and Friends. Generating Rave Reviews for Bessarion’s *In calumniatorem Platonis*”, *Italia Medioevale e Umanistica*, 52: 103–137.
-* Del Soldato, Eva, 2009 “Platone, Aristotele e il cardinale: il *De natura et arte* di Bessarione”, *Rinascimento* (Series 2), 48: 61–79.
-* –––, 2011, “Sulle tracce di Bessarione: la fortuna cinquecentesca dell’*In calumniatorem Platonis*”, *Rinascimento*, series 2, 50: 321–342.
-* –––, 2012, “*Illa Litteris Graecis Abdita*: Bessarion, Plato and the Western World”, in Marco Sgarbi (ed.), *Translatio Studiorum: Ancient, Medieval, and Modern Bearers of Intellectual History*, Leiden: Brill, pp. 107–122. doi:10.1163/9789004236813_009
-* –––, 2017, “Exploiting Thomas: Renaissance Thinkers, Aquinas, and the Piety of Aristotle”, *Divus Thomas*, 120: 89–105.
-* –––, 2020, *Early Modern Aristotle: On the Making and Unmaking of Authority*, Philadelphia: University of Philadelphia Press.
-* Eleuteri, Paolo, 1994, “Una parafrasi di Bessarione alla *Fisica* di Aristotele”, in *Θησαυρίσματα*, 24: 189–202.
-* Feld, M.D., 1982, “Sweynheim and Pannartz, Cardinal Bessarion, Neoplatonism: Renaissance Humanism and Two Early Printers’ Choice of Texts”, *Harvard Library Bulletin*, 30: 282–335.
-* Fiaccadori, Gianfranco (ed.), 1994, *Bessarione e l’Umanesimo*, Naples: Vivarium.
-* Fyrigos, Antonis, 2011, “Il cardinale Bessarione ‘traduttore’ della *Summa contra gentiles* di Tommaso d’Aquino”, in *Rivista di studi bizantini e neoellenici*, 48: 137–266.
-* Garin, Eugenio, 1976, *Rinascite e rivoluzioni: Movimenti culturali dal XIV al XVIII secolo*, Bari: Laterza.
-* Gutkowski, Andrzej and Emanuela Prinzivalli (eds.), 2012, *Bessarione e la sua Accademia*, Rome: Miscellanea francescana.
-* Hankins, James, 1991, *Plato in the Italian Renaissance*, 2 vols., (Columbia studies in the classical tradition, 17), Leiden: Brill.
-* Hladký, Vojtěch, 2014 *The Philosophy of Gemistos Plethon: Platonism in Late Byzantium, between Hellenism and Orthodoxy*, Farnham-Burlington: Ashgate.
-* Karamanolis, George, 2002, “Plethon and Scholarios on Aristotle”, in Katerina Ierodiakonou (ed.), *Byzantine Philosophy and its Ancient Sources*, Oxford: Clarendon Press, pp. 253–282.
-* –––, 2011, “Basil Bessarion”, in *Encyclopedia of Medieval Philosophy*, H. Lagerlund (ed.), London: Springer, pp. 145–147. doi:10.1007/978-1-4020-9729-4_77
-* Kraye, Jill and Martin Davies, 2011, “Cardinal Bessarion and Ludovico Saccano”, in Philippa Jackson and Guido Rebecchini (eds.), *Mantova e il Rinascimento Italiano: Studi in onore di David S. Chambers*, Mantua: Sometti, pp. 225–238.
-* Labowsky, Lotte, 1967, “Bessarione”, in *Dizionario biografico degli Italiani*, Rome: Istituto dell’Enciclopedia Italiana, 9: 686–696. [[Labowsky 1967 available online](http://www.treccani.it/enciclopedia/bessarione_(Dizionario-Biografico)/)]
-* –––, 1979, *Bessarion’s Library and the Biblioteca Marciana: Six Early Inventories*, Rome: Edizioni di Storia e Letteratura.
-* Lamers, Hans, 2015, *Greece Reinvented: Transformations of Byzantine Hellenism in Renaissance Italy*, Leiden: Brill. doi:10.1163/9789004303799
-* Maier, Anneliese, 1982, *On the Threshold of Exact Science: Selected Writings of Anneliese Maier on Late Medieval Natural Philosophy*, Steven D. Sargent (ed. and trans.), Philadelphia: University of Pennsylvania Press.
-* Malpangotto, Manuela and Ephtymios Nicolaidis (eds.), 2021, *Fécondité des échanges culturels. L’exemple de Bessarion*, *Archives Internationales d'Histoire des Sciences* (special issue), 71.
-* Mariev, Sergei, 2016, “Bessarion, Cardinal”, in *Encyclopedia of Renaissance Philosophy*, Marco Sgarbi (ed.), Cham: Springer International Publishing, 1–10. doi:10.1007/978-3-319-02848-4_25-1
-* –––, 2017, *Neoplatonic Philosophy in Byzantium*, in Sergei Mariev (ed.), *Byzantine Perspectives on Neoplatonism*, Berlin: De Gruyter, pp. 1–30.
-* ––– (ed.), 2020, *Bessarion’s Treasure: Editing, Translating and Interpreting Bessarion’s Literary Heritage*, Berlin-New York: De Gruyter.
-* Martin, Craig, 2014, *Subverting Aristotle. Religion, History, and Philosophy in Early Modern Science*, Baltimore: Johns Hopkins University Press.
-* Märtl, Claudia, Christian Kaiser, and Thomas Ricklin (eds.), 2013, *»Inter graecos latinissimus, inter latinos graecissimus«. Bessarion zwischen den Kulteren*, Berlin-New York: De Gruyter.
-* Meserve, Margaret, 2003, “Patronage and Propaganda at the First Paris Press: Guillaume Fichet and the First Edition of Bessarion’s *Orations against the Turks*”, *The Papers of the Bibliographical Society of America*, 97(4): 521–588. doi:10.1086/pbsa.97.4.24295683
-* Mioni, Elpidio, 1960, “Contributo del cardinale Bessarione all’interpretazione della *Metafisica* aristotelica”, in *Aristotelismo padovano e filosofia aristotelica. Atti del XII Congresso Internazionale di filosofia*, Florence: Sansoni, pp. 173–181.
-* Mohler, Ludwig, 1923, *Kardinal Bessarion als Theologe, Humanist und Staatsmann, I. Darstellung*, Paderborn: Schöningh.
-* Monfasani, John, 1976, *George of Trebizond: A Biography and a Study of His Rhetoric and Logic*, Leiden: Brill.
-* –––, 1984, *Collectanea Trapezuntiana. Texts, Documents, and Bibliographies of George of Trebizond*, Binghamton, NY: Medieval & Renaissance Texts & Studies.
-* –––, 1992, *Fernando of Cordova: A Biographical and Intellectual Profile*, Philadelphia: American Philosophical Society.
-* –––, 1995, *Byzantine Scholars in Renaissance Italy: Cardinal Bessarion and Other Émigré’s: Selected Essays*, Aldershot: Ashgate.
-* –––, 2004, *Greeks and Latins in Renaissance Italy: Studies on Humanism and Philosophy in the 15th Century,*, Aldershot: Ashgate.
-* –––, 2012, *Bessarion Scholasticus: A Study of Cardinal Bessarion’s Latin Library*, Turnhout: Brepols.
+* Bardi, Alberto, 2018, “Bessarione a lezione di astronomia da Cortasmeno”, _Byzantinische Zeitschrift_, 111(1): 1–38. doi: 10.1515/bz-2018-0001
+* Baudry, Léon, 1950 \[1989], _Querelle des futurs contingents_, Paris: Vrin. Translated as _The Quarrel over Future Contingents (Louvain 1465–1475)_, (Synthese Historical Library, 36), Rita Guerlac (trans.), Dordrecht: Kluwer Academic, 1989.
+* Bianca, Concetta, 1999, _Da Bisanzio a Roma. Studi sul cardinale Bessarione_, Roma: Roma nel Rinascimento.
+* Bisaha, Nancy, 2004, _Creating East and West: Renaissance Humanists and the Ottoman Turks_, Philadelphia: University of Pennsylvania Press.
+* Cattaneo, Gianmario, 2015, “Note critiche all’epistolario greco del cardinal Bessarione”, _Medioevo Greco. Rivista di Storia e Filologia Bizantina_, 15(1): 51–61.
+* –––, 2017, “Or. Chald. 88 des Places, il carteggio tra il cardinal Bessarione e Giorgio Gemisto Pletone e la _philosophia perennis_”, _Studi Italiani di Filologia Classica_, 14: 241–251.
+* –––, 2020, _Domizio Calderini, Niccolò Perotti e la controversia platonico-aristotelica nel Quattrocento_, Berlin–New York: De Gruyter.
+* Charlet, Jean-Louis, 1987, “Traductions en vers latins de fragments grecs dans l’_Epitome_ de N. Perotti et l’_In calumniatorem Platonis_ de Bessarion”, _Res Publica Litterarum_, 10: 51–67.
+* Coluccia, Giuseppe L., 2009, _Basilio Bessarione. Lo spirito greco e l’occidente_, Firenze: Olschki.
+* Davies, Martin, 2013, “Some Bessarion Owners”, _La Bibliofilía_, 115(1): 41–52.
+* De Keyser, Jeroen, 2011, “Perotti and Friends. Generating Rave Reviews for Bessarion’s _In calumniatorem Platonis_”, _Italia Medioevale e Umanistica_, 52: 103–137.
+* Del Soldato, Eva, 2009 “Platone, Aristotele e il cardinale: il _De natura et arte_ di Bessarione”, _Rinascimento_ (Series 2), 48: 61–79.
+* –––, 2011, “Sulle tracce di Bessarione: la fortuna cinquecentesca dell’_In calumniatorem Platonis_”, _Rinascimento_, series 2, 50: 321–342.
+* –––, 2012, “_Illa Litteris Graecis Abdita_: Bessarion, Plato and the Western World”, in Marco Sgarbi (ed.), _Translatio Studiorum: Ancient, Medieval, and Modern Bearers of Intellectual History_, Leiden: Brill, pp. 107–122. doi:10.1163/9789004236813\_009
+* –––, 2017, “Exploiting Thomas: Renaissance Thinkers, Aquinas, and the Piety of Aristotle”, _Divus Thomas_, 120: 89–105.
+* –––, 2020, _Early Modern Aristotle: On the Making and Unmaking of Authority_, Philadelphia: University of Philadelphia Press.
+* Eleuteri, Paolo, 1994, “Una parafrasi di Bessarione alla _Fisica_ di Aristotele”, in _Θησαυρίσματα_, 24: 189–202.
+* Feld, M.D., 1982, “Sweynheim and Pannartz, Cardinal Bessarion, Neoplatonism: Renaissance Humanism and Two Early Printers’ Choice of Texts”, _Harvard Library Bulletin_, 30: 282–335.
+* Fiaccadori, Gianfranco (ed.), 1994, _Bessarione e l’Umanesimo_, Naples: Vivarium.
+* Fyrigos, Antonis, 2011, “Il cardinale Bessarione ‘traduttore’ della _Summa contra gentiles_ di Tommaso d’Aquino”, in _Rivista di studi bizantini e neoellenici_, 48: 137–266.
+* Garin, Eugenio, 1976, _Rinascite e rivoluzioni: Movimenti culturali dal XIV al XVIII secolo_, Bari: Laterza.
+* Gutkowski, Andrzej and Emanuela Prinzivalli (eds.), 2012, _Bessarione e la sua Accademia_, Rome: Miscellanea francescana.
+* Hankins, James, 1991, _Plato in the Italian Renaissance_, 2 vols., (Columbia studies in the classical tradition, 17), Leiden: Brill.
+* Hladký, Vojtěch, 2014 _The Philosophy of Gemistos Plethon: Platonism in Late Byzantium, between Hellenism and Orthodoxy_, Farnham-Burlington: Ashgate.
+* Karamanolis, George, 2002, “Plethon and Scholarios on Aristotle”, in Katerina Ierodiakonou (ed.), _Byzantine Philosophy and its Ancient Sources_, Oxford: Clarendon Press, pp. 253–282.
+* –––, 2011, “Basil Bessarion”, in _Encyclopedia of Medieval Philosophy_, H. Lagerlund (ed.), London: Springer, pp. 145–147. doi:10.1007/978-1-4020-9729-4\_77
+* Kraye, Jill and Martin Davies, 2011, “Cardinal Bessarion and Ludovico Saccano”, in Philippa Jackson and Guido Rebecchini (eds.), _Mantova e il Rinascimento Italiano: Studi in onore di David S. Chambers_, Mantua: Sometti, pp. 225–238.
+* Labowsky, Lotte, 1967, “Bessarione”, in _Dizionario biografico degli Italiani_, Rome: Istituto dell’Enciclopedia Italiana, 9: 686–696. \[[Labowsky 1967 available online](http://www.treccani.it/enciclopedia/bessarione\_\(Dizionario-Biografico\)/)]
+* –––, 1979, _Bessarion’s Library and the Biblioteca Marciana: Six Early Inventories_, Rome: Edizioni di Storia e Letteratura.
+* Lamers, Hans, 2015, _Greece Reinvented: Transformations of Byzantine Hellenism in Renaissance Italy_, Leiden: Brill. doi:10.1163/9789004303799
+* Maier, Anneliese, 1982, _On the Threshold of Exact Science: Selected Writings of Anneliese Maier on Late Medieval Natural Philosophy_, Steven D. Sargent (ed. and trans.), Philadelphia: University of Pennsylvania Press.
+* Malpangotto, Manuela and Ephtymios Nicolaidis (eds.), 2021, _Fécondité des échanges culturels. L’exemple de Bessarion_, _Archives Internationales d'Histoire des Sciences_ (special issue), 71.
+* Mariev, Sergei, 2016, “Bessarion, Cardinal”, in _Encyclopedia of Renaissance Philosophy_, Marco Sgarbi (ed.), Cham: Springer International Publishing, 1–10. doi:10.1007/978-3-319-02848-4\_25-1
+* –––, 2017, _Neoplatonic Philosophy in Byzantium_, in Sergei Mariev (ed.), _Byzantine Perspectives on Neoplatonism_, Berlin: De Gruyter, pp. 1–30.
+* ––– (ed.), 2020, _Bessarion’s Treasure: Editing, Translating and Interpreting Bessarion’s Literary Heritage_, Berlin-New York: De Gruyter.
+* Martin, Craig, 2014, _Subverting Aristotle. Religion, History, and Philosophy in Early Modern Science_, Baltimore: Johns Hopkins University Press.
+* Märtl, Claudia, Christian Kaiser, and Thomas Ricklin (eds.), 2013, _»Inter graecos latinissimus, inter latinos graecissimus«. Bessarion zwischen den Kulteren_, Berlin-New York: De Gruyter.
+* Meserve, Margaret, 2003, “Patronage and Propaganda at the First Paris Press: Guillaume Fichet and the First Edition of Bessarion’s _Orations against the Turks_”, _The Papers of the Bibliographical Society of America_, 97(4): 521–588. doi:10.1086/pbsa.97.4.24295683
+* Mioni, Elpidio, 1960, “Contributo del cardinale Bessarione all’interpretazione della _Metafisica_ aristotelica”, in _Aristotelismo padovano e filosofia aristotelica. Atti del XII Congresso Internazionale di filosofia_, Florence: Sansoni, pp. 173–181.
+* Mohler, Ludwig, 1923, _Kardinal Bessarion als Theologe, Humanist und Staatsmann, I. Darstellung_, Paderborn: Schöningh.
+* Monfasani, John, 1976, _George of Trebizond: A Biography and a Study of His Rhetoric and Logic_, Leiden: Brill.
+* –––, 1984, _Collectanea Trapezuntiana. Texts, Documents, and Bibliographies of George of Trebizond_, Binghamton, NY: Medieval & Renaissance Texts & Studies.
+* –––, 1992, _Fernando of Cordova: A Biographical and Intellectual Profile_, Philadelphia: American Philosophical Society.
+* –––, 1995, _Byzantine Scholars in Renaissance Italy: Cardinal Bessarion and Other Émigré’s: Selected Essays_, Aldershot: Ashgate.
+* –––, 2004, _Greeks and Latins in Renaissance Italy: Studies on Humanism and Philosophy in the 15th Century,_, Aldershot: Ashgate.
+* –––, 2012, _Bessarion Scholasticus: A Study of Cardinal Bessarion’s Latin Library_, Turnhout: Brepols.
 * –––, 2015, “Cardinal Bessarion”, (Oxford Bibliographies), Oxford: Oxford University Press, doi:10.1093/obo/9780195399301-0230
-* –––, 2016a, *Greek Scholars Between East and West in the Fifteenth Century*, Farnham, Surrey: Ashgate.
-* –––, 2016b, “The Humanist and the Scholastic: Giovanni Bussi and Henricus de Zomeren”, *Humanistica Lovaniensia*, 65: 29–38.
-* Pagani, Fabio, 2022, “Greek Identity and Ideas of Decline in Fifteenth-Century Byzantium: Gemistos Pletho and Bessarion”, in Nathanael Aschenbrenner and Jake Ransohoff (eds.), *The Invention of Byzantium in Early Modern Europe*, Washington, D.C.: Dumbarton Oaks, pp. 27–46.
-* Pontani, Anna, 1989, “Note sulla controversia platonico-aristotelica del Quattrocento”, in Giuseppe Spadaro (ed.),*Contributi di filologia greca medievale e moderna*, Catania: Facoltà di Lettere e Filosofia, pp. 97–165.
-* Rigo, Antonio, 1991, “Bessarione, Giovanni Regiomontano e i loro studi su Tolomeo a Venezia e Roma (1462–1464)”, *Studi Veneziani*, 21: 49–110
-* –––, 1999, “La refutazione di Bessarione delle *Antepigraphai* di Gregorio Palamas”, in Mariarosa Cortesi (ed.), *Tradizioni patristiche nell’Umanesimo*, Florence: Edizioni del Galluzzo, pp. 283–294.
-* –––, 2001, “Bessarione tra Costantinopoli e Roma”, in Gianfrancesco Lusini (ed.), *Bessarione di Nicea: Orazione dogmatica sull’unione dei greci e dei latini*, Naples: Vivarium, pp. 19–124.
-* Rigo, Antonio and Niccolò Zorzi, 2021, *I libri di Bessarione: Studi sui manoscritti del Cardinale a Venezia e in Europa*, Turnhout: Brepols.
-* Ronchey, Silvia, 2002, “L’ultimo bizantino. Bessarione e gli ultimi regnanti di Bisanzio”, in Gino Benzoni (ed.), *L’eredità greca e l’ellenismo veneziano*, Florence: Olschki, pp. 75–92. [[Ronchey 2002 available online](http://www.silviaronchey.it/docenza/2/58/S-Ronchey-Lultimo-bizantino-Bessarione-e-gli-ultimi-regnanti-di-Bisanzio-in-G-Benzoni-a-cura-di-Leredit-greca/)]
-* Searby, Denis (ed.), 2017, *Never the Twain Shall Meet? Latins and Greeks learning from each other in Byzantium*, Berlin: De Gruyter.
-* Shank, Michael H., 2007, “Regiomontanus as a Physical Astronomer: Samplings from *The Defence of Theon against George of Trebizond*”, *Journal for the History of Astronomy*, 38(3): 325–349.
-* Stormon, E.J., 1981, “Bessarion Before the Council of Florence: A Survey of His Early Writings (1423–1437)”, in Elizabeth and Michael Jeffreys and Ann Moffatt (eds.), *Byzantine Papers: Proceedings of the First Australian Byzantine Studies Conference Canberra, 17–19 May 1978*, Canberra: Humanities Research Center, pp. 128–156.
-* Strobl, Wolfgang, 2000, “Ein griechischer Brief eines Veroneser Humanisten anläßlich Bessarions Schrift ‘In calumniatorem Platonis’”, *Jahrbuch der Oesterreichischen Byzantinistik*, 50: 217–230.
-* Swerdlow, Noel, 1993, “Science and Humanism in the Renaissance: Regiomontanus’s Oration on the Dignity and Utility of the Mathematical Sciences”, in Paul Horwich (ed.), *World Changes. Thomas Kuhn and the Nature of Science*, Boston: MIT Press: pp. 131–168.
-* Vast, Henri, 1878, *Le Cardinal Bessarion (1403–1472). Étude sur la Chrétienté et la Renaissance vers le milieu du XVe siècle*, Paris: Hachette.
-* Zambelli, Paola, 1991, “La metafora é conosciuta solo da chi fa la metafora. Pomponazzi, Bessarione e Platone”, *Nouvelles de la Republique des Lettres*, 2: 75–88.
-* Zorzi, Marino, 2002, *Bessarione e i codici greci*, Florence: Olschki.
-* Zorzi, Niccolò, 2015, “Per la tradizione manoscritta dell’inedito commento all’*Etica nicomachea* di Giorgio Pachimere: I. Il Marc. gr. 212 di Bessarione e i suoi apografi. II. Ermolao Barbaro e il commento di Pachimere (con una *proekdosis* del cap. 18)”, *Νέα Ῥώμη. Rivista di ricerche bizantinistiche*, 12: 245–304.
+* –––, 2016a, _Greek Scholars Between East and West in the Fifteenth Century_, Farnham, Surrey: Ashgate.
+* –––, 2016b, “The Humanist and the Scholastic: Giovanni Bussi and Henricus de Zomeren”, _Humanistica Lovaniensia_, 65: 29–38.
+* Pagani, Fabio, 2022, “Greek Identity and Ideas of Decline in Fifteenth-Century Byzantium: Gemistos Pletho and Bessarion”, in Nathanael Aschenbrenner and Jake Ransohoff (eds.), _The Invention of Byzantium in Early Modern Europe_, Washington, D.C.: Dumbarton Oaks, pp. 27–46.
+* Pontani, Anna, 1989, “Note sulla controversia platonico-aristotelica del Quattrocento”, in Giuseppe Spadaro (ed.),_Contributi di filologia greca medievale e moderna_, Catania: Facoltà di Lettere e Filosofia, pp. 97–165.
+* Rigo, Antonio, 1991, “Bessarione, Giovanni Regiomontano e i loro studi su Tolomeo a Venezia e Roma (1462–1464)”, _Studi Veneziani_, 21: 49–110
+* –––, 1999, “La refutazione di Bessarione delle _Antepigraphai_ di Gregorio Palamas”, in Mariarosa Cortesi (ed.), _Tradizioni patristiche nell’Umanesimo_, Florence: Edizioni del Galluzzo, pp. 283–294.
+* –––, 2001, “Bessarione tra Costantinopoli e Roma”, in Gianfrancesco Lusini (ed.), _Bessarione di Nicea: Orazione dogmatica sull’unione dei greci e dei latini_, Naples: Vivarium, pp. 19–124.
+* Rigo, Antonio and Niccolò Zorzi, 2021, _I libri di Bessarione: Studi sui manoscritti del Cardinale a Venezia e in Europa_, Turnhout: Brepols.
+* Ronchey, Silvia, 2002, “L’ultimo bizantino. Bessarione e gli ultimi regnanti di Bisanzio”, in Gino Benzoni (ed.), _L’eredità greca e l’ellenismo veneziano_, Florence: Olschki, pp. 75–92. \[[Ronchey 2002 available online](http://www.silviaronchey.it/docenza/2/58/S-Ronchey-Lultimo-bizantino-Bessarione-e-gli-ultimi-regnanti-di-Bisanzio-in-G-Benzoni-a-cura-di-Leredit-greca/)]
+* Searby, Denis (ed.), 2017, _Never the Twain Shall Meet? Latins and Greeks learning from each other in Byzantium_, Berlin: De Gruyter.
+* Shank, Michael H., 2007, “Regiomontanus as a Physical Astronomer: Samplings from _The Defence of Theon against George of Trebizond_”, _Journal for the History of Astronomy_, 38(3): 325–349.
+* Stormon, E.J., 1981, “Bessarion Before the Council of Florence: A Survey of His Early Writings (1423–1437)”, in Elizabeth and Michael Jeffreys and Ann Moffatt (eds.), _Byzantine Papers: Proceedings of the First Australian Byzantine Studies Conference Canberra, 17–19 May 1978_, Canberra: Humanities Research Center, pp. 128–156.
+* Strobl, Wolfgang, 2000, “Ein griechischer Brief eines Veroneser Humanisten anläßlich Bessarions Schrift ‘In calumniatorem Platonis’”, _Jahrbuch der Oesterreichischen Byzantinistik_, 50: 217–230.
+* Swerdlow, Noel, 1993, “Science and Humanism in the Renaissance: Regiomontanus’s Oration on the Dignity and Utility of the Mathematical Sciences”, in Paul Horwich (ed.), _World Changes. Thomas Kuhn and the Nature of Science_, Boston: MIT Press: pp. 131–168.
+* Vast, Henri, 1878, _Le Cardinal Bessarion (1403–1472). Étude sur la Chrétienté et la Renaissance vers le milieu du XVe siècle_, Paris: Hachette.
+* Zambelli, Paola, 1991, “La metafora é conosciuta solo da chi fa la metafora. Pomponazzi, Bessarione e Platone”, _Nouvelles de la Republique des Lettres_, 2: 75–88.
+* Zorzi, Marino, 2002, _Bessarione e i codici greci_, Florence: Olschki.
+* Zorzi, Niccolò, 2015, “Per la tradizione manoscritta dell’inedito commento all’_Etica nicomachea_ di Giorgio Pachimere: I. Il Marc. gr. 212 di Bessarione e i suoi apografi. II. Ermolao Barbaro e il commento di Pachimere (con una _proekdosis_ del cap. 18)”, _Νέα Ῥώμη. Rivista di ricerche bizantinistiche_, 12: 245–304.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bessarion). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/bessarion/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bessarion&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/bessarion/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bessarion).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/bessarion/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bessarion\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/bessarion/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Bessarion’s Book in Defence of Plato: Among the Papers of the Last Byzantine Philosopher (Il libro di Bessarione in difesa di Platone: nell’officina dell’ultimo filosofo bizantino)](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-620-6/) (PDF), Catalogue of an Exhibition of the Manuscripts of Bessarion’s *In Calumniatorem Platonis* in the Biblioteca Marciana, Venice: Venice University Press.
+* [Bessarion’s Book in Defence of Plato: Among the Papers of the Last Byzantine Philosopher (Il libro di Bessarione in difesa di Platone: nell’officina dell’ultimo filosofo bizantino)](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-620-6/) (PDF), Catalogue of an Exhibition of the Manuscripts of Bessarion’s _In Calumniatorem Platonis_ in the Biblioteca Marciana, Venice: Venice University Press.
 
 ## Related Entries
 
-[Aristotelianism: in the Renaissance](https://plato.stanford.edu/entries/aristotelianism-renaissance/) | [Byzantine Philosophy](https://plato.stanford.edu/entries/byzantine-philosophy/) | [Ficino, Marsilio](https://plato.stanford.edu/entries/ficino/) | [future contingents: medieval theories of](https://plato.stanford.edu/entries/medieval-futcont/) | [Lefèvre d’Étaples, Jacques](https://plato.stanford.edu/entries/lefevre-etaples/) | [natural philosophy: in the Renaissance](https://plato.stanford.edu/entries/natphil-ren/) | [Neoplatonism](https://plato.stanford.edu/entries/neoplatonism/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Pomponazzi, Pietro](https://plato.stanford.edu/entries/pomponazzi/) | [Proclus](https://plato.stanford.edu/entries/proclus/) | [Theophrastus](https://plato.stanford.edu/entries/theophrastus/)
+[Aristotelianism: in the Renaissance](https://plato.stanford.edu/entries/aristotelianism-renaissance/) | [Byzantine Philosophy](https://plato.stanford.edu/entries/byzantine-philosophy/) | [Ficino, Marsilio](https://plato.stanford.edu/entries/ficino/) | [future contingents: medieval theories of](https://plato.stanford.edu/entries/medieval-futcont/) | [Lefèvre d’Étaples, Jacques](https://plato.stanford.edu/entries/lefevre-etaples/) | [natural philosophy: in the Renaissance](https://plato.stanford.edu/entries/natphil-ren/) | [Neoplatonism](https://plato.stanford.edu/entries/neoplatonism/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Pomponazzi, Pietro](https://plato.stanford.edu/entries/pomponazzi/) | [Proclus](https://plato.stanford.edu/entries/proclus/) | [Theophrastus](https://plato.stanford.edu/entries/theophrastus/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-Eva Del Soldato <[*evadel@sas.upenn.edu*](mailto:evadel%40sas%2eupenn%2eedu)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+Eva Del Soldato <[_evadel@sas.upenn.edu_](mailto:evadel%40sas%2eupenn%2eedu)>

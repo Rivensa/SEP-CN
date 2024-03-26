@@ -1,5 +1,6 @@
 # 杰里米·边沁 Bentham, Jeremy (James E. Crimmins)
-*首次发表于 2015 年 3 月 17 日；实质性修订于 2021 年 12 月 8 日*
+
+_首次发表于 2015 年 3 月 17 日；实质性修订于 2021 年 12 月 8 日_
 
 杰里米·边沁，法学家和政治改革者，是与现代功利主义传统的基础时代最紧密相关的哲学家。早期的道德家们已经阐述了功利主义哲学的几个核心思想和特征性术语，尤其是约翰·盖伊、弗朗西斯·哈奇森、大卫·休谟、克洛德-阿德里安·埃尔韦修斯和切萨雷·贝卡里亚，但是边沁将这一理论呈现为其可识别的世俗和系统形式，并将其作为道德和法律哲学以及政治和社会改进的关键工具。1776 年，他首次在《政府片段》中宣布自己是功利主义的支持者，将功利主义作为行为和法律的指导原则。在《道德和立法原理导论》（1780 年印刷，1789 年出版）中，作为发展刑法理论的前提，他详细阐述了古典功利主义理论的基本要素。刑法典将成为构成功利主义“全法典”的一系列法典中的第一个，这一发展将使边沁投入终身的工作，并包括民事、诉讼和宪法法律。作为副产品，在这个庞大的立法建筑的子法典之间的空隙中，边沁的著作涉及伦理学、本体论、逻辑学、政治经济学、司法管理、贫困法改革、监狱改革、惩罚、警务、国际法、教育、宗教信仰和机构、民主理论、政府和行政。在所有这些领域，他都做出了重大贡献，这些贡献继续在功利主义的讨论中发挥重要作用，尤其是在道德、法律、经济和政治形式方面。正是基于这一点，边沁被誉为现代哲学中的伟大思想家之一。
 
@@ -8,23 +9,17 @@
 * [3. 痛苦和快乐](https://plato.stanford.edu/entries/bentham/#PaiPle)
 * [3.1 利益](https://plato.stanford.edu/entries/bentham/#Int)
 * [3.2 快乐计算](https://plato.stanford.edu/entries/bentham/#FelCal)
-
 * [3.3 Diminishing Marginal Utility](https://plato.stanford.edu/entries/bentham/#DimMarUti)
-
 * [4. 后来的改进](https://plato.stanford.edu/entries/bentham/#LatImp)
 * [4.1 防止失望原则](https://plato.stanford.edu/entries/bentham/#DisPrePri)
 * [4.2 最大幸福原则](https://plato.stanford.edu/entries/bentham/#GreHapPri)
-
 * [4.3 Universal Interest](https://plato.stanford.edu/entries/bentham/#UniInt)
-
 * [5. 下级目标、原则和格言](https://plato.stanford.edu/entries/bentham/#SubEndPriMax)
 * [6. 民法和政治经济学](https://plato.stanford.edu/entries/bentham/#CivLawPolEco)
 * [7. 刑法和惩罚](https://plato.stanford.edu/entries/bentham/#PenLawPun)
 * [8. 全视监狱](https://plato.stanford.edu/entries/bentham/#Pan)
 * [9. 行政、政府、宪法法律](https://plato.stanford.edu/entries/bentham/#AdmGovConLaw)
-
 * [9.1 Securities Against Misrule](https://plato.stanford.edu/entries/bentham/#SecAgaMis)
-
 * [9.2 主权](https://plato.stanford.edu/entries/bentham/#Sov)
 * [9.3 公众舆论法庭](https://plato.stanford.edu/entries/bentham/#PubOpiTri)
 * [10. 影响力](https://plato.stanford.edu/entries/bentham/#Inf)
@@ -36,27 +31,27 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/bentham/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/bentham/#Rel)
 
----
+***
 
 ## 1. 生平与著作
 
-杰里米·边沁（Jeremy Bentham）于 1748 年 2 月 15 日出生于伦敦，于 1832 年 6 月 6 日去世。他是律师杰里米·边沁（1712-1792）和他的第一任妻子阿丽西亚·怀特霍恩（Alicia Whitehorn，卒于 1759 年）的长子，也是海军建筑师和外交官塞缪尔·边沁（Samuel Bentham，1757-1831）的兄弟。边沁对教育改革的兴趣源于他在威斯敏斯特学校（1755-1760）和牛津大学女王学院（BA 1763，MA 1766）的不愉快经历。他将威斯敏斯特学校描述为“一个糟糕的教学地方”（1838-1843，X，30），而他在女王学院度过的三年，他在十二岁时进入该学院，也没有更多的刺激。他认为牛津剑桥学院是特权、偏见和懒散的象征。他在牛津的经历使他对誓言深感不信任，并引发了对英国国教建制的普遍反感（2011，35-40）。在 1770 年代初，他记录了一份关于“订阅[信仰条款]”的批判性著作的笔记（UC v，1-32；xcvi，263-341），并在具有争议的小册子《一概不要发誓》（1817）中再次回到了同一主题。
+杰里米·边沁（Jeremy Bentham）于 1748 年 2 月 15 日出生于伦敦，于 1832 年 6 月 6 日去世。他是律师杰里米·边沁（1712-1792）和他的第一任妻子阿丽西亚·怀特霍恩（Alicia Whitehorn，卒于 1759 年）的长子，也是海军建筑师和外交官塞缪尔·边沁（Samuel Bentham，1757-1831）的兄弟。边沁对教育改革的兴趣源于他在威斯敏斯特学校（1755-1760）和牛津大学女王学院（BA 1763，MA 1766）的不愉快经历。他将威斯敏斯特学校描述为“一个糟糕的教学地方”（1838-1843，X，30），而他在女王学院度过的三年，他在十二岁时进入该学院，也没有更多的刺激。他认为牛津剑桥学院是特权、偏见和懒散的象征。他在牛津的经历使他对誓言深感不信任，并引发了对英国国教建制的普遍反感（2011，35-40）。在 1770 年代初，他记录了一份关于“订阅\[信仰条款]”的批判性著作的笔记（UC v，1-32；xcvi，263-341），并在具有争议的小册子《一概不要发誓》（1817）中再次回到了同一主题。
 
 离开牛津后，边沁作为法律职业准备的一部分，参加了威斯敏斯特法庭国王法庭（Court of King's Bench）的庭审。在那里，他听到了在曼斯菲尔德勋爵（Lord Mansfield）面前进行的案件辩论，包括针对激进记者和政治家约翰·威尔克斯（John Wilkes）的诉讼。他在 1763-1764 年间短暂返回牛津，参加了威廉·布莱克斯通（William Blackstone）的讲座，布莱克斯通是英国法律的第一位维尼尔教授（Vinerian Professor）。这些讲座后来以四卷出版，成为了著名的《英格兰法律评论》（Commentaries on the Laws of England）（1765-1769）。边沁对此并不满意，他发现布莱克斯通的自然法推理中存在明显的谬误。在随后的几年里，边沁对布莱克斯通理论的其他方面也进行了批判性的关注，尤其是他对英国“混合平衡”政府和英国普通法的辩护。此后，布莱克斯通在边沁心中与“一切都应该如此”的法律和政治辩护学派联系在一起。
 
-杰里米·边沁于 1769 年被任命为律师，但他的法律生涯只持续了很短的时间。在那一年，他在休谟、埃尔韦修斯和贝卡利亚的著作中发现了效用原则和相关思想，并选择了致力于分析法学、法律改革以及社会和政治改进的职业道路。边沁并不知道哈奇森在《关于我们对美和美德的观念起源的探究》（1729 年）中对功利主义公式的版本，他有时会因为记忆错误而误以为自己在普里斯特利的《政府第一原则论》（1768 年）中发现了它。然而，他声称在贝卡利亚的《罪行与刑罚》（1764 年）中找到了它更有说服力，意大利的法律改革者宣称评估一项法律的价值的唯一有效标准是“la messima felicità divisa nel maggior numero”——最大多数人的最大幸福。在阅读休谟的《人性论》（1739-1740 年）时，边沁发现美德与效用等同，他在此时“感觉到自己的眼睛仿佛脱下了一层鳞片”（1776 [1977, 440n]）。边沁从休谟那里借用了效用的命名，然后转向了埃尔韦修斯的《论精神》（1758 年），在这本书中，埃尔韦修斯勾勒出了效用作为人类行为指南的潜力，通过将“与词语‘幸福’相关联的观念……与词语‘快乐’和‘痛苦’相关联的观念”联系起来。这意味着，正如他在《功利主义文章》（1829 年）中回忆的那样，“现在‘效用’和‘效用原则’这两个词已经有了丰富的观念”，从中“开始将效用原则应用于实际用途”（1983a, 290）。
+杰里米·边沁于 1769 年被任命为律师，但他的法律生涯只持续了很短的时间。在那一年，他在休谟、埃尔韦修斯和贝卡利亚的著作中发现了效用原则和相关思想，并选择了致力于分析法学、法律改革以及社会和政治改进的职业道路。边沁并不知道哈奇森在《关于我们对美和美德的观念起源的探究》（1729 年）中对功利主义公式的版本，他有时会因为记忆错误而误以为自己在普里斯特利的《政府第一原则论》（1768 年）中发现了它。然而，他声称在贝卡利亚的《罪行与刑罚》（1764 年）中找到了它更有说服力，意大利的法律改革者宣称评估一项法律的价值的唯一有效标准是“la messima felicità divisa nel maggior numero”——最大多数人的最大幸福。在阅读休谟的《人性论》（1739-1740 年）时，边沁发现美德与效用等同，他在此时“感觉到自己的眼睛仿佛脱下了一层鳞片”（1776 \[1977, 440n]）。边沁从休谟那里借用了效用的命名，然后转向了埃尔韦修斯的《论精神》（1758 年），在这本书中，埃尔韦修斯勾勒出了效用作为人类行为指南的潜力，通过将“与词语‘幸福’相关联的观念……与词语‘快乐’和‘痛苦’相关联的观念”联系起来。这意味着，正如他在《功利主义文章》（1829 年）中回忆的那样，“现在‘效用’和‘效用原则’这两个词已经有了丰富的观念”，从中“开始将效用原则应用于实际用途”（1983a, 290）。
 
 边沁的著作对思想史研究者提出了明显的挑战：出版日期并不总是与创作时间一致，有些作品在作者去世后出版，有些作品仍未以权威版本出现；许多作品是由其他人从原始手稿中制作、编辑或翻译的，作者对此几乎没有控制权。
 
-边沁于 1776 年以匿名方式发表了他作为法律理论家的职业生涯的开端，《政府碎片》。这本薄薄的小册子是对布莱克斯通的更大批评的一个分支，直到 20 世纪才出版，现在被称为《对评论的评论》。在《碎片》中，边沁陈述了“基本公理”，即“最大多数人的最大幸福是衡量对错的标准”，并且“为了普遍幸福而服务的义务，是一种高于和包括其他一切的义务”（1776 [1977, 393, 440n]）。在他早期的主要作品《道德和立法原理导论》（*IPML*）中，他将效用描述为“任何对象中的那种属性”，它“倾向于产生利益、优势、善或幸福”（这些都是边沁道德词汇中的相对应的术语），并将效用原则描述为“根据行动似乎增加或减少与之相关方的幸福的倾向而赞成或反对每一个行动的原则”（1789 [1970, 12]）。边沁在随后的几十年中对这些基本假设进行了阐述、论证支持和进一步完善，但是在他漫长而高产的工作生涯中，最吸引他的精力和时间的是效用原则的实施。
+边沁于 1776 年以匿名方式发表了他作为法律理论家的职业生涯的开端，《政府碎片》。这本薄薄的小册子是对布莱克斯通的更大批评的一个分支，直到 20 世纪才出版，现在被称为《对评论的评论》。在《碎片》中，边沁陈述了“基本公理”，即“最大多数人的最大幸福是衡量对错的标准”，并且“为了普遍幸福而服务的义务，是一种高于和包括其他一切的义务”（1776 \[1977, 393, 440n]）。在他早期的主要作品《道德和立法原理导论》（_IPML_）中，他将效用描述为“任何对象中的那种属性”，它“倾向于产生利益、优势、善或幸福”（这些都是边沁道德词汇中的相对应的术语），并将效用原则描述为“根据行动似乎增加或减少与之相关方的幸福的倾向而赞成或反对每一个行动的原则”（1789 \[1970, 12]）。边沁在随后的几十年中对这些基本假设进行了阐述、论证支持和进一步完善，但是在他漫长而高产的工作生涯中，最吸引他的精力和时间的是效用原则的实施。
 
-1781 年，边沁（Jeremy Bentham）在他的赞助人、辉格党政治家威廉·佩蒂（William Petty）第二代谢尔本伯爵（1737-1805）的乡村庄园做客时，他在记录一个梦境时创造了“功利主义”这个名词，他喜欢创造新的术语来描述哲学概念。在这个梦中，他想象自己是“一个教派的创始人；当然是一个极其神圣和重要的人物。它被称为‘功利主义者教派’”（梦境的文字见 Crimmins 1990, 314）。正是通过谢尔本伯爵，他结识了日内瓦流亡者埃蒂安·杜蒙（Étienne Dumont）（1759-1829），杜蒙通过出版一系列边沁早期著作的翻译和改编（1829-30；参见 Blamires 2008），在欧洲大陆和其他地方推广了边沁的名字和哲学。其中最重要的是《民事和刑事立法论》（1802）的三卷本，这些卷本是从早期手稿草稿、《IPML》和其他著作中汇编而成的。民事和刑事法的前两卷后来由美国功利主义者理查德·希尔德雷斯（Richard Hildreth）重新翻译成英文，并出版为《立法理论》（1840 [1864]），这本书一直是英语世界中功利主义研究的核心，直到 20 世纪中叶。
+1781 年，边沁（Jeremy Bentham）在他的赞助人、辉格党政治家威廉·佩蒂（William Petty）第二代谢尔本伯爵（1737-1805）的乡村庄园做客时，他在记录一个梦境时创造了“功利主义”这个名词，他喜欢创造新的术语来描述哲学概念。在这个梦中，他想象自己是“一个教派的创始人；当然是一个极其神圣和重要的人物。它被称为‘功利主义者教派’”（梦境的文字见 Crimmins 1990, 314）。正是通过谢尔本伯爵，他结识了日内瓦流亡者埃蒂安·杜蒙（Étienne Dumont）（1759-1829），杜蒙通过出版一系列边沁早期著作的翻译和改编（1829-30；参见 Blamires 2008），在欧洲大陆和其他地方推广了边沁的名字和哲学。其中最重要的是《民事和刑事立法论》（1802）的三卷本，这些卷本是从早期手稿草稿、《IPML》和其他著作中汇编而成的。民事和刑事法的前两卷后来由美国功利主义者理查德·希尔德雷斯（Richard Hildreth）重新翻译成英文，并出版为《立法理论》（1840 \[1864]），这本书一直是英语世界中功利主义研究的核心，直到 20 世纪中叶。
 
-1786 年至 1787 年，边沁访问了俄罗斯，他的兄弟塞缪尔在俄罗斯女皇叶卡捷琳娜二世的宠臣波图姆金王子的薪水中。在那里，他写了《论放贷》（1787），这是他对经济事务的首次贡献，他在其中反对亚当·斯密为利率设定法定最高限额的辩护。边沁认为斯密的立场与他对自由贸易的普遍倡导不一致，会限制经济增长和国家繁荣，阻碍投资和创新。这本书后来得到了约翰·斯图亚特·穆勒（J.S. Mill）的高度赞扬，他认为它是“目前为止关于这个主题最好的著作”（1963-91，II，923）。它在美国获得了最广泛的听众，多次重印，并经常在关于放贷法的辩论中被引用（Crimmins 2022, 53-54, 75, 209-11）。也是在俄罗斯，边沁接受了塞缪尔的一个想法，并将其发展成了“全视之眼”（panopticon），他在《全视之眼；或者，视察之屋》（1791）中详细解释了其完整的构想。全视之眼是一座圆形设计的建筑，适用于任何需要持续监督的机构安排，如医院、学校、救济院和贫民窟，但全视之眼最为人所知的是作为一个“使无赖变得诚实，使懒人变得勤奋”的监狱（1838-43，IV，342）。边沁对英国惩教制度的低效和不人道条件感到震惊，他发展了全视之眼监狱的想法，作为一种替代刑罚制度，在这个制度中，被判有罪的罪犯将受到基于这样一条格言的纪律制度的约束（该格言是在他 1797 年的贫民法著作中写下的，但当时没有发表）：“我们被监视得越严格，我们的行为就越好”（2001, 277）。在实现惩罚目的方面，它代表了对英国监狱、泰晤士河上的老鼠滋生的船只和将罪犯流放到殖民地服刑的破败状况的重大改进。在随后的几年里，边沁利用这一批评作为一个平台，进一步扩展了他对殖民地的普遍鄙视，这个鄙视首次在 1793 年的《解放你的殖民地！》（2002, 289-313）中表达出来，他在“殖民公司提案”（1831 [2022]）中主张在澳大利亚南部建立一个自由的、自治的定居者社区（参见 Causer、Finn 和 Schofield 2022）。
+1786 年至 1787 年，边沁访问了俄罗斯，他的兄弟塞缪尔在俄罗斯女皇叶卡捷琳娜二世的宠臣波图姆金王子的薪水中。在那里，他写了《论放贷》（1787），这是他对经济事务的首次贡献，他在其中反对亚当·斯密为利率设定法定最高限额的辩护。边沁认为斯密的立场与他对自由贸易的普遍倡导不一致，会限制经济增长和国家繁荣，阻碍投资和创新。这本书后来得到了约翰·斯图亚特·穆勒（J.S. Mill）的高度赞扬，他认为它是“目前为止关于这个主题最好的著作”（1963-91，II，923）。它在美国获得了最广泛的听众，多次重印，并经常在关于放贷法的辩论中被引用（Crimmins 2022, 53-54, 75, 209-11）。也是在俄罗斯，边沁接受了塞缪尔的一个想法，并将其发展成了“全视之眼”（panopticon），他在《全视之眼；或者，视察之屋》（1791）中详细解释了其完整的构想。全视之眼是一座圆形设计的建筑，适用于任何需要持续监督的机构安排，如医院、学校、救济院和贫民窟，但全视之眼最为人所知的是作为一个“使无赖变得诚实，使懒人变得勤奋”的监狱（1838-43，IV，342）。边沁对英国惩教制度的低效和不人道条件感到震惊，他发展了全视之眼监狱的想法，作为一种替代刑罚制度，在这个制度中，被判有罪的罪犯将受到基于这样一条格言的纪律制度的约束（该格言是在他 1797 年的贫民法著作中写下的，但当时没有发表）：“我们被监视得越严格，我们的行为就越好”（2001, 277）。在实现惩罚目的方面，它代表了对英国监狱、泰晤士河上的老鼠滋生的船只和将罪犯流放到殖民地服刑的破败状况的重大改进。在随后的几年里，边沁利用这一批评作为一个平台，进一步扩展了他对殖民地的普遍鄙视，这个鄙视首次在 1793 年的《解放你的殖民地！》（2002, 289-313）中表达出来，他在“殖民公司提案”（1831 \[2022]）中主张在澳大利亚南部建立一个自由的、自治的定居者社区（参见 Causer、Finn 和 Schofield 2022）。
 
 从俄罗斯回国后，边沁受到谢尔本的鼓励，将注意力转向外交政策和国际法。"国际"一词是由边沁创造的。他起草了几个主题的简短论文，后来以《国际法原理》为总标题出版。这部作品包括当时流行的哲学作品《永久和平计划》以及独特的国际仲裁法案（1838-1843，II，535-71）。他在 1789 年对俄罗斯和法国都持同情态度，发表了一系列题为《反麦基雅维尔》的信件，批评了首相威廉·皮特对这些国家的战争立场（1838-1843，X，201-11）。
 
-法国的政治动荡为边沁提供了一个机会，他可以将自己的一些想法付诸实践，并在此背景下首次发展了基于统治者和被统治者利益一致的功利主义民主逻辑。然而，他并没有公开主张英国的议会改革，在这个阶段，他离后来接受的共和主义还有很大的距离（Dinwiddy 1975；Crimmins 1994；Schofield 2006）。在杜蒙的帮助下，1788 年，边沁开始向米拉波勒伯爵寄送建议的小册子。1790 年，他写了一份《法国司法机构组织新计划草案》，与杜蒙翻译的《全视监狱》和《论政治战术的一篇论文》的部分一起，也被提交给法国国民议会。恐怖统治的血腥暴行加强了他对自然和不可剥夺权利抽象和模糊性的批评，他以“无稽之谈”（1795 [2002, 330]）著名地驳斥了这些权利，这种态度形成于他听布莱克斯通的讲座时，并影响了他对约翰·林德的《对美国国会独立宣言的回答》（1776）的贡献。然而，边沁在激发法国改革方面的努力得到了 1792 年 9 月授予的名誉公民身份的认可。
+法国的政治动荡为边沁提供了一个机会，他可以将自己的一些想法付诸实践，并在此背景下首次发展了基于统治者和被统治者利益一致的功利主义民主逻辑。然而，他并没有公开主张英国的议会改革，在这个阶段，他离后来接受的共和主义还有很大的距离（Dinwiddy 1975；Crimmins 1994；Schofield 2006）。在杜蒙的帮助下，1788 年，边沁开始向米拉波勒伯爵寄送建议的小册子。1790 年，他写了一份《法国司法机构组织新计划草案》，与杜蒙翻译的《全视监狱》和《论政治战术的一篇论文》的部分一起，也被提交给法国国民议会。恐怖统治的血腥暴行加强了他对自然和不可剥夺权利抽象和模糊性的批评，他以“无稽之谈”（1795 \[2002, 330]）著名地驳斥了这些权利，这种态度形成于他听布莱克斯通的讲座时，并影响了他对约翰·林德的《对美国国会独立宣言的回答》（1776）的贡献。然而，边沁在激发法国改革方面的努力得到了 1792 年 9 月授予的名誉公民身份的认可。
 
 当英国与革命的法国爆发战争时，皮特的安全措施使得在国内进行改革活动变得不稳定，但边沁的谨慎也源于在官方圈子中取悦全视监狱的需要（Semple 1993，187-90）。伦敦的一座新监狱的建设已经得到了 1794 年的《惩教法案》的授权，边沁的计划最初得到了皮特政府的支持。多年来，他花费了大量自己的资金投入到这个项目中，并发表了进一步的材料，比较了全视监狱的优点与运输系统的缺点（2022）。然而，在 1802 年，他承认失败，在 1812 年，政府正式结束了整个可悲的事务，并支付给边沁 23,000 英镑的赔偿金。
 
@@ -66,7 +61,7 @@
 
 经过数年的思考，边沁在 1808 年开始进行司法管理改革，《苏格兰改革》（Scotch Reform）是他的成果，而这段时间有关证据的大量手稿后来由 J.S. Mill 编辑并出版为《司法证据的理性》（Rationale of Judicial Evidence）（1827）。在后者中，边沁提出了关于证据形式和可接受性的实用指南，他倾向于采用“自然”而非“技术性”程序，因为这样最能在法庭诉讼中产生真相，并消除系统中由律师的既得利益所导致的烦恼、费用和延迟，这些律师既得利益是为了最大化法律费用而设计的。在对公众开放的法庭中，法官应遵循基本原则，以便获得最完整和准确的证词（Twining 1985，42，70；Schofield 2006，119-31；Resnick 2011）。在边沁改革后的法院中，裁决将需要严格遵守功利主义法典。最重要的考虑因素是法官对立法者的服从，尽管法官可以（如果有权）暂停执行法律，以满足效用的要求，等待立法机构的最终决定（Dinwiddy 1989a）。
 
-尽管有着广泛而多样的兴趣，但政府对全视监狱的背叛仍然让边沁多年来感到愤怒，使他对那些拥有权力和影响力的人的动机产生了根深蒂固的怀疑。除了他自己亲身经历的贵族地主的策略，他们决心阻止在他们伦敦庄园附近建造全视监狱，还有一种说法是国王本人对边沁的《反麦基雅弗利》信件感到愤怒，并对他的雅各宾主义传闻感到不安，可能直接干预阻止了这个项目（1830-31 年[1838-43 年，XI，96-105]）。在边沁看来，这样的行为代表了那些反对有益改革计划的“邪恶利益”。这一认识促使边沁积极参与议会改革。另一个催化剂来自他与詹姆斯·米尔的交往，他们在 1808 年末相识，并在此后的多年里担任他的哲学和政治“副官”。
+尽管有着广泛而多样的兴趣，但政府对全视监狱的背叛仍然让边沁多年来感到愤怒，使他对那些拥有权力和影响力的人的动机产生了根深蒂固的怀疑。除了他自己亲身经历的贵族地主的策略，他们决心阻止在他们伦敦庄园附近建造全视监狱，还有一种说法是国王本人对边沁的《反麦基雅弗利》信件感到愤怒，并对他的雅各宾主义传闻感到不安，可能直接干预阻止了这个项目（1830-31 年\[1838-43 年，XI，96-105]）。在边沁看来，这样的行为代表了那些反对有益改革计划的“邪恶利益”。这一认识促使边沁积极参与议会改革。另一个催化剂来自他与詹姆斯·米尔的交往，他们在 1808 年末相识，并在此后的多年里担任他的哲学和政治“副官”。
 
 在米尔的鼓励下，边沁回顾了他早期关于政治改革的手稿，并对其中的“影响力”形式进行了完善和大幅扩展，以涵盖英国政治机构中的工作方式。他在 1809-1810 年写的草稿为他第一次公开支持代议制民主的声明《议会改革计划：一篇问答式的著作，附带每一条款的理由》（1817 年）提供了大纲。基于利益的算术，旨在限制那些拥有权力的人的邪恶利益，同时促进那些没有权力的人的利益，边沁主张进行一系列全面的改革。这些改革包括：消除皇家赞助，大幅扩大选举权，通过秘密投票进行年度选举，选举具备知识能力和独立性的议会成员，并通过罚款制度确保定期出席，以及准确和定期地公开议会辩论。边沁认为，如果没有这些改革，英国将面临革命的风险。从那时起，他被广泛认可为政治激进主义的最重要哲学声音。
 
@@ -78,7 +73,7 @@
 
 在他晚年，边沁重新审视了他功利主义哲学的各个方面，并试图在《功利主义文章》中界定他在功利主义传统中的地位。然而，他的思想更多地集中在宪政问题上，包括行政结构以及可行的代议制民主的正式和非正式安排，简言之，限制和控制政治权力的方式和方法，或者正如边沁所称的“防止暴政的保障”。《法典化提案，致所有信奉自由主义观点的国家》（1822 年）旨在向世界各地的政治家和政治家们宣传他作为法典化法律者的资历，首先通过制定“全面性”的法典的功利主义原则，其次通过提供对他法典化任务的能力的证明（1998 年，241-384；另见李伯曼 2011 年）。这些证明来自 1814 年至 1822 年的各个地方，以演讲摘录、信息请求和支持信函的形式，来自英国的弗朗西斯·伯德特和亨利·布鲁厄姆，西班牙和葡萄牙的政府部长和议会代表，意大利和法国的自由主义者，美国和英国的州长和其他政治代表，“盎格鲁-美洲国家”的俄罗斯皇帝亚历山大，以及有影响力的波兰政治家查尔托里斯基亲王。在随后的几年里，边沁起草了《宪法法典》的各个要素，但只有三卷中的第一卷在他有生之年出版。在这些著作中，他毫不含糊地支持共和主义事业，同时也表现出对现代国家行政职能日益重要性的敏锐意识（罗森布卢姆 1978 年；休谟 1981 年；罗森 1983 年）。
 
-在晚年，边沁喜欢自称为“皇后广场地方的隐士”（他在伦敦的家所在地），但他绝不是一个隐士。1823 年 12 月，他提供资金创办了《威斯敏斯特评论》，这是一本致力于激进观点的期刊。他还在法律改革和政治改革运动中扮演领导角色，与国内外志同道合的改革者、出版商和知识分子保持着密切联系，并被追随者包围，他们充当秘书、合作者和编辑助手。米尔斯、普莱斯、乔治·格罗特、理查德·史密斯、佩雷格林·宾厄姆、托马斯·南伍德·史密斯、埃德温·查德威克和约翰·鲍林都以这种方式与边沁合作。与托马斯·佩罗内特·汤普森、查尔斯·布勒、约翰·罗巴克和约瑟夫·休谟等人一起，他们后来被称为“哲学激进派”（这是约翰·斯图尔特·密尔的创造词），尽管实际上这个团体远没有人们想象的那么团结（托马斯 1979 年）。边沁对爱尔兰社会主义功利主义者威廉·汤普森产生了重要影响，一度与爱尔兰的“解放者”丹尼尔·奥康奈尔保持密切联系，他试图将后者与议会中的激进事业联系起来，但成功有限（克里明斯 2013 年，第 7 章）。伯德特和布鲁厄姆也是宝贵的熟人，尽管这并没有阻止边沁对前者对激进改革的奉献表示怀疑，也没有阻止他批评后者在《布鲁厄姆勋爵展示》（1832 年[1838-43，V，549-612）中改革大法官法庭的提议。
+在晚年，边沁喜欢自称为“皇后广场地方的隐士”（他在伦敦的家所在地），但他绝不是一个隐士。1823 年 12 月，他提供资金创办了《威斯敏斯特评论》，这是一本致力于激进观点的期刊。他还在法律改革和政治改革运动中扮演领导角色，与国内外志同道合的改革者、出版商和知识分子保持着密切联系，并被追随者包围，他们充当秘书、合作者和编辑助手。米尔斯、普莱斯、乔治·格罗特、理查德·史密斯、佩雷格林·宾厄姆、托马斯·南伍德·史密斯、埃德温·查德威克和约翰·鲍林都以这种方式与边沁合作。与托马斯·佩罗内特·汤普森、查尔斯·布勒、约翰·罗巴克和约瑟夫·休谟等人一起，他们后来被称为“哲学激进派”（这是约翰·斯图尔特·密尔的创造词），尽管实际上这个团体远没有人们想象的那么团结（托马斯 1979 年）。边沁对爱尔兰社会主义功利主义者威廉·汤普森产生了重要影响，一度与爱尔兰的“解放者”丹尼尔·奥康奈尔保持密切联系，他试图将后者与议会中的激进事业联系起来，但成功有限（克里明斯 2013 年，第 7 章）。伯德特和布鲁厄姆也是宝贵的熟人，尽管这并没有阻止边沁对前者对激进改革的奉献表示怀疑，也没有阻止他批评后者在《布鲁厄姆勋爵展示》（1832 年\[1838-43，V，549-612）中改革大法官法庭的提议。
 
 边沁从未结婚，在大改革法案签署前夕与朋友们在一起去世。他坚信即使死者也应该为功利主义服务，在他的遗嘱中，他指示他的尸体公开进行“解剖”，以宣传捐献尸体进行医学研究的好处（Richardson 1986）。卫生改革者和医生托马斯·南伍德·史密斯（1832）在边沁解剖后的遗体上发表了悼词。为了准备这最后的行动，在他去世前一年写的一本未发表的小册子《自动偶像; 或者死者对生者的更多用途》（1842 年印刷，但当时未出版），他提议展示自动偶像化的尸体和头部作为公众教育的手段。他要求自己的木乃伊化的头颅和骨骼穿着他习惯的服装展示，至今仍可在伦敦大学学院看到。边沁（虽然有些古怪和幽默）关于“自动偶像主义”的想法也可以理解为试图找到传统宗教仪式和实践的世俗替代品。
 
@@ -142,15 +137,15 @@
 
 ### 4.2 最大幸福原则
 
-边沁发现了将功利主义原则表述为“最大多数人的最大幸福”的一个严重且潜在的致命缺陷。他意识到，这样的原则可以为了增加多数人的幸福而对少数人进行过度的牺牲，无论这个少数人是如何组成的。他认为这是一个错误的结论，但也是一个需要解决的问题。他写道：“无论是哪个社群，将其分为两个不平等的部分，称其中一个为多数派，另一个为少数派，不考虑少数派的感受，只计算多数派的感受，你会发现结果是，对于社群的整体幸福总量来说，这种操作带来的是损失而不是利益”。少数派和多数派之间的数值差异越小，整体幸福的不足就越明显（1983a，309）。因此，从逻辑上讲，我们越接近于实现社群中*所有*成员的幸福，整体幸福就越大。
+边沁发现了将功利主义原则表述为“最大多数人的最大幸福”的一个严重且潜在的致命缺陷。他意识到，这样的原则可以为了增加多数人的幸福而对少数人进行过度的牺牲，无论这个少数人是如何组成的。他认为这是一个错误的结论，但也是一个需要解决的问题。他写道：“无论是哪个社群，将其分为两个不平等的部分，称其中一个为多数派，另一个为少数派，不考虑少数派的感受，只计算多数派的感受，你会发现结果是，对于社群的整体幸福总量来说，这种操作带来的是损失而不是利益”。少数派和多数派之间的数值差异越小，整体幸福的不足就越明显（1983a，309）。因此，从逻辑上讲，我们越接近于实现社群中_所有_成员的幸福，整体幸福就越大。
 
 ### 4.3 普遍利益
 
 作为边沁构想实用主义的一项额外改进，他本可以包括“普遍利益”，这个概念最初在《议会改革计划》中提出，它作为最大幸福原则的更具体的构想，旨在实现所有人的“最大...的舒适和安全”（1838-43，III，452）。普遍利益涉及到每个人都共享的利益，只有当政府无法设计政策来实现这一目标时，幸福的分配才会不普遍或不平等（1983b，136）。然而，政府做出的真正具有普遍影响力的决策数量相对较少，可能仅限于国家防御和个人权利（安全）的框架。除此之外，再分配政策必然涉及不平等的牺牲和利益。这意味着立法者必须进行功利主义计算，将少数人所经历的痛苦减少到最低限度，以产生对最佳政策的合理化解释，只有在这个基础上，快乐才能相加，痛苦才能相减，从而产生合理化的理由来证明最佳政策的正当性。
 
-与普遍利益的这种构想相关的是平等承诺，即在确定适当的法律或政策时，每个人的利益都必须被计算在内，并且平等地被计算在内（1840 [1864]，I，144）。这并不意味着最优效用不是目标，而只是强调在幸福的基本要求分配中存在近似平等时，最优效用更有可能实现（Postema 1998）。
+与普遍利益的这种构想相关的是平等承诺，即在确定适当的法律或政策时，每个人的利益都必须被计算在内，并且平等地被计算在内（1840 \[1864]，I，144）。这并不意味着最优效用不是目标，而只是强调在幸福的基本要求分配中存在近似平等时，最优效用更有可能实现（Postema 1998）。
 
-边沁理论的这一方面经常被批评者忽视或认为与问题无关，从 T.H.格林开始，他们认为总效用的计算未能尊重个人的独特性，从而使他们的利益处于永久风险之中（Rawls 1971，22-27；Nozick 1974，28-35；参见 Ten 1987，13-37；Rosen 2003，第 12-13 章；和 Bykvist 2010，第 5 章的讨论）。如果在真正的罪犯无法被抓获或绳之以法的情况下，通过惩罚一个无辜旁观者可以实现威慑效果，那么为什么不应该惩罚旁观者呢？因为通过对一个无辜旁观者进行示范惩罚，与对实际犯罪行为有罪但尚未被逮捕的人进行惩罚一样，公共效用将得到最大化，因此似乎功利主义者应该支持惩罚。但这不仅在直观上是错误的，而且因为存在违反安全的危险，这些违反安全的行为可能导致其他类似的违反，而没有停止施加它们的原则依据。边沁在这一点上非常强调：“如果牺牲一个人的财富来增加其他人的财富是一件好事，那么牺牲第二个、第三个、第一百个、第一千个...将会更好；因为无论你牺牲的人数是多少，你总是有理由再增加一个。总之，每个人的利益都是神圣的，或者说没有人的利益”（1840 [1864]，I，144）。必须为社区的每个成员提供基本的安全保障，违反这些重要利益的行为无论是由其他个人还是政府实施，都是不合理的，因为它们违反了功利主义理论的分配要素。至少在这个程度上，每个人的幸福都必须被计算在内。
+边沁理论的这一方面经常被批评者忽视或认为与问题无关，从 T.H.格林开始，他们认为总效用的计算未能尊重个人的独特性，从而使他们的利益处于永久风险之中（Rawls 1971，22-27；Nozick 1974，28-35；参见 Ten 1987，13-37；Rosen 2003，第 12-13 章；和 Bykvist 2010，第 5 章的讨论）。如果在真正的罪犯无法被抓获或绳之以法的情况下，通过惩罚一个无辜旁观者可以实现威慑效果，那么为什么不应该惩罚旁观者呢？因为通过对一个无辜旁观者进行示范惩罚，与对实际犯罪行为有罪但尚未被逮捕的人进行惩罚一样，公共效用将得到最大化，因此似乎功利主义者应该支持惩罚。但这不仅在直观上是错误的，而且因为存在违反安全的危险，这些违反安全的行为可能导致其他类似的违反，而没有停止施加它们的原则依据。边沁在这一点上非常强调：“如果牺牲一个人的财富来增加其他人的财富是一件好事，那么牺牲第二个、第三个、第一百个、第一千个...将会更好；因为无论你牺牲的人数是多少，你总是有理由再增加一个。总之，每个人的利益都是神圣的，或者说没有人的利益”（1840 \[1864]，I，144）。必须为社区的每个成员提供基本的安全保障，违反这些重要利益的行为无论是由其他个人还是政府实施，都是不合理的，因为它们违反了功利主义理论的分配要素。至少在这个程度上，每个人的幸福都必须被计算在内。
 
 ## 5. 下位目标、原则和准则
 
@@ -160,11 +155,11 @@
 
 ## 6. 民法与政治经济学
 
-民法的从属目标是安全、生存、丰裕和平等，按照这个优先顺序。“在所有这些方面享受更完美的乐趣”，边沁写道，“社会幸福的总和就越大，尤其是那些依赖于法律的幸福”（1840 [1864]，I，96）。正如我们所见，通过保护财产和从所有权中获得的期望，并维护促进商品和服务交易的合同的法律来维护安全。生存和丰裕也源自这个来源。当整体上存在丰裕，但并非所有人都享有必要的生存手段时，可以根据“防止失望原则”进行立法干预，例如当国家接管一个没有合法继承人的财产（122-23），或者当对收入或财产征税而不会实质性减少个人期望，并且所积累的资金用于为有需要的人提供食物和基本服务。基于财富的重新分配，也实现了一定程度的均衡（Kelly 1990，191-97），这与适当理解的效用原则预示着在没有强有力的实证证据表明这样的政策不符合效用的情况下，应当假定支持平等分配。正如边沁在《宪法法典的主要原则》中所说，“股份与平等越远，这些股份的总和产生的幸福总和就越少”（1838-43，II，276）。
+民法的从属目标是安全、生存、丰裕和平等，按照这个优先顺序。“在所有这些方面享受更完美的乐趣”，边沁写道，“社会幸福的总和就越大，尤其是那些依赖于法律的幸福”（1840 \[1864]，I，96）。正如我们所见，通过保护财产和从所有权中获得的期望，并维护促进商品和服务交易的合同的法律来维护安全。生存和丰裕也源自这个来源。当整体上存在丰裕，但并非所有人都享有必要的生存手段时，可以根据“防止失望原则”进行立法干预，例如当国家接管一个没有合法继承人的财产（122-23），或者当对收入或财产征税而不会实质性减少个人期望，并且所积累的资金用于为有需要的人提供食物和基本服务。基于财富的重新分配，也实现了一定程度的均衡（Kelly 1990，191-97），这与适当理解的效用原则预示着在没有强有力的实证证据表明这样的政策不符合效用的情况下，应当假定支持平等分配。正如边沁在《宪法法典的主要原则》中所说，“股份与平等越远，这些股份的总和产生的幸福总和就越少”（1838-43，II，276）。
 
-“边际效用递减”理论也支持均衡政策，它规定富人财富的减少比贫穷人财富的减少带来的痛苦要小，而贫穷人财富的增加比富人财富的增加带来的幸福要多（1840 [1864]，I，103-9）。在 1822 年撰写但当时未发表的《宪法法典前导原则》中，边沁进一步假设，人民的最大幸福“要求外部幸福工具，无论是什么，都与整个人数以与普遍安全相一致的接近平等的比例分享”（1989，16；另见 1840 [1864]，I，104）。然而，他拒绝接受以“以安全为代价”来重新分配财富的政策对社会繁荣或个人福祉有益的观点。因此，根据“防止失望原则”进行财富分配的建议必须进行。
+“边际效用递减”理论也支持均衡政策，它规定富人财富的减少比贫穷人财富的减少带来的痛苦要小，而贫穷人财富的增加比富人财富的增加带来的幸福要多（1840 \[1864]，I，103-9）。在 1822 年撰写但当时未发表的《宪法法典前导原则》中，边沁进一步假设，人民的最大幸福“要求外部幸福工具，无论是什么，都与整个人数以与普遍安全相一致的接近平等的比例分享”（1989，16；另见 1840 \[1864]，I，104）。然而，他拒绝接受以“以安全为代价”来重新分配财富的政策对社会繁荣或个人福祉有益的观点。因此，根据“防止失望原则”进行财富分配的建议必须进行。
 
-另一方面，边沁相信，基于功利主义原则的法律体系将逐渐且“间接地”朝着财富分配更加平等的方向发展，并指出后封建时代欧洲的历史证据支持他的观点。从长远来看，实现财产更加平等分配的关键在于丰富：在一个农业、制造业和商业繁荣的国家中，财富分配会不断向平等方向发展（1840 [1864]，I，123）。边沁为了证明这种乐观主义所引入的重要限制条件是，政府不能通过允许垄断、对贸易和工业施加“束缚”或在财产继承方面设置障碍来阻碍这种趋势。
+另一方面，边沁相信，基于功利主义原则的法律体系将逐渐且“间接地”朝着财富分配更加平等的方向发展，并指出后封建时代欧洲的历史证据支持他的观点。从长远来看，实现财产更加平等分配的关键在于丰富：在一个农业、制造业和商业繁荣的国家中，财富分配会不断向平等方向发展（1840 \[1864]，I，123）。边沁为了证明这种乐观主义所引入的重要限制条件是，政府不能通过允许垄断、对贸易和工业施加“束缚”或在财产继承方面设置障碍来阻碍这种趋势。
 
 边沁认为，在自由市场中促进个人追求利益是政府应该做的，因为这是实现公共利益的最佳方式。然而，当自由放任不能产生最佳结果时，立法者必须以其他直接和间接的方式来产生最优结果。边沁在《政治经济学手册》中解释道：“问题是要知道政府应该做什么，不应该做什么。只有从这个角度来看，不受政府干预的事情和发生的事情的了解才能有任何实际用途”（1952-1954，I，224）。在《政治经济学研究所》中，他认为过去的经验提供了足够的证据来使我们相信政府在经济领域的干预不应该像它们经常做的那样频繁，因此有了“保持安静”的座右铭和“非议程”项目的清单。只有在需要偏离这一普遍规则的情况下，比如当重要的生活必需品的价格超出许多人的承受能力时，它们才成为政府的“议程”项目（1952-1954，III，333；另见 247-302）。但是，排除了财产重新分配的激进方案；每个人都应该平等对待的公理要求只有在不令人失望合理期望的情况下，才能通过政策来实现财富分配的均衡。
 
@@ -196,13 +191,13 @@
 
 ### 9.2 主权
 
-宪法法典的普遍维度似乎与通常与边沁的功利主义相关联的法律实证主义相悖，这意味着一种要求权力集中在立法者手中的主权理论，无论其构成如何，并规定所有法律都是强制性的，并依赖于强制性制裁的执行。罗森（Rosen）认为，早在《政府片段》（*A Fragment on Government*）中，边沁就拒绝了基于简单命令和服从的霍布斯式主权观念，其中君主必然是单一的、统一的最高权力，而是支持“主权权力的法律限制和分割的概念”（Rosen 1983, 41, 44）。
+宪法法典的普遍维度似乎与通常与边沁的功利主义相关联的法律实证主义相悖，这意味着一种要求权力集中在立法者手中的主权理论，无论其构成如何，并规定所有法律都是强制性的，并依赖于强制性制裁的执行。罗森（Rosen）认为，早在《政府片段》（_A Fragment on Government_）中，边沁就拒绝了基于简单命令和服从的霍布斯式主权观念，其中君主必然是单一的、统一的最高权力，而是支持“主权权力的法律限制和分割的概念”（Rosen 1983, 41, 44）。
 
 一般来说，边沁所指的“主权”一词意味着立法权力（法律主权），但他也将其用于描述人民限制或控制政府和公职人员的权力（政治或民众主权）。在第一种意义上，似乎不可能有一项法律故意违背立法者的意愿。所有法律都源于君主的意愿，而君主的意愿“不可能是非法的”（2010b, 38）。然而，边沁还坚持认为，无论采取何种形式，所有政治权力都必然受到迫使人民服从的能力的限制。正如他在《政府片段》中所说：“通过君主，我指的是任何一个人或一群人，整个政治社区（无论出于何种原因）都被认为有服从的意愿”（1977, 18）。在《刑法学的界限》中，他解释说，这意味着两种意愿，这两种意愿都是完整的主权理论的必要组成部分：一方面是立法机关的制定，另一方面是人民服从这些制定的意愿。实际上，人民不服从的意愿构成了对君主权威的永久性宪法检查，从这个意义上说，“人民的顺从和服从”作为主权的“组成原因”（2010b 150n）。立法机关可能是“至高无上的”，但它“永远不能自己成为绝对和无限的”，或者“等同于完全的命令权力”（113）。结果是一种“分裂的概念”主权，由立法机关和人民之间的动态互动所定义，受时代变化和公众对法律态度的反映的影响（参见 Ben-Dor 2000，第 2 章）。这需要公众审议和问责的过程，而这一过程在边沁对“新闻自由”和“公众结社自由”的理解中得到了极大的促进，这在边沁对“公众舆论法庭”（POT）的构想中得到了凝聚。（1977, 485）
 
 ### 9.3 公众舆论法庭
 
-根据他在《政府碎片》中提出的“好公民座右铭”——“准时服从，自由批评”（1776 [1977, 399]），在《宪法法典》中，边沁构想了 POT 作为一个“虚构的法庭”或公众舆论、辩论的场所。“有能力的统治者引导它”，他建议，“明智的统治者使用或遵循它；愚蠢的统治者忽视它”。POT 将审查选举代表、公共和司法官员的行动，对他们在履行职责方面的疏忽提出指控，审查错误执政并在适用时施加惩罚。惩罚通常采取“道德制裁”的形式——公开宣布不良行为的耻辱和不良行为责任人的名誉受损（1830 [1983b, 35–39]; 1989, 283）。从这些角度来看，POT 将成为防止权力滥用和虐待的主要保障（1989, 125）。POT 将持续运作，因此不像定期选举那样受限，它将成为“唯一的力量……通过这种力量，政府在行使邪恶的方向时才能遇到最小的阻碍”（1990, 121）。
+根据他在《政府碎片》中提出的“好公民座右铭”——“准时服从，自由批评”（1776 \[1977, 399]），在《宪法法典》中，边沁构想了 POT 作为一个“虚构的法庭”或公众舆论、辩论的场所。“有能力的统治者引导它”，他建议，“明智的统治者使用或遵循它；愚蠢的统治者忽视它”。POT 将审查选举代表、公共和司法官员的行动，对他们在履行职责方面的疏忽提出指控，审查错误执政并在适用时施加惩罚。惩罚通常采取“道德制裁”的形式——公开宣布不良行为的耻辱和不良行为责任人的名誉受损（1830 \[1983b, 35–39]; 1989, 283）。从这些角度来看，POT 将成为防止权力滥用和虐待的主要保障（1989, 125）。POT 将持续运作，因此不像定期选举那样受限，它将成为“唯一的力量……通过这种力量，政府在行使邪恶的方向时才能遇到最小的阻碍”（1990, 121）。
 
 POT 的运作对信息的传播至关重要。首先，这将需要建立一个政府行动和活动的公共档案，其中包含法律、政策、立法辩论和统计记录，政府将根据宪法法典的信息自由条款的规定向公众提供这些记录，以确保透明度。其次，这将需要一个不受束缚的新闻媒体，以确保广泛的宣传和自由批评，不受审查或口头禁令的限制。在这里，边沁借鉴了他的论文《论新闻自由和公共讨论》（1821）中对限制这些自由的法律的危险进行了指出。新闻自由是对专制政府的不可或缺的制约，因此“对于维护良好政府是必要的”（1838–43, II, 277, 279）。在这个过程中，公开宣传至关重要，因为“了解压迫行为的存在的整个社区成员的数量越多，不仅可以拒绝服从，还可以进行抵抗”的人数就越多（1990, 30）。
 
@@ -220,7 +215,7 @@ POT 的运作对信息的传播至关重要。首先，这将需要建立一个�
 
 在美国，功利主义的传播最初受到了《Traités》的英文翻译缺失的阻碍，但边沁的影响力也很快开始显现。大卫·霍夫曼（David Hoffman）在 19 世纪 20 年代初在马里兰大学首次引入功利主义思想进入美国的法律教育。约翰·尼尔（John Neal）在霍夫曼的指导下学习法律，将霍夫曼描述为边沁的“最热情的崇拜者”（尼尔 1830，300）。在他的书目《法律学习课程》（1817）中，霍夫曼建议学生阅读杜蒙（Dumont）对边沁的改编作品《刑罚与奖励理论》（2 卷，1811 年），正是霍夫曼鼓励尼尔将《Traités》翻译成英文，这项任务他在 1825-1826 年期间与边沁在伦敦同住的 18 个月内开始了。最终，只有《Traités》的引言部分出现在尼尔的《立法原理》（1830）中，其中的部分内容最初出现在他编辑的期刊《The Yankee》的一系列文章中，该期刊以“最大多数人的最大幸福”为口号。
 
-最终，政府税务官员、边沁在伦敦的年轻门徒之一的理查德·史密斯（Richard Smith）在 1838 年为《杰里米·边沁著作集》（1838-1843，I，297-580）将《Traités》的民法和刑法部分翻译成了英文。与此同时，历史学家和反奴隶主义宣传者理查德·希尔德雷斯（Richard Hildreth）作为边沁在美国最重要的门徒，也在大西洋的另一边忙于翻译同样的材料，他相信美国对法律改革的广泛兴趣将极大地受益于功利主义思想。对希尔德雷斯翻译的评论赞扬了边沁的法律哲学，但反对其潜在的道德假设和对宗教的蔑视，这是早期评论家经常采取的立场，即使希尔德雷斯也持这种不一致的观点（1840 [1864]，I，iii）。评论特别关注民法理论的系统呈现，这也对南美新独立国家的法律教育产生了深刻影响，在西班牙和葡萄牙帝国崩溃后，财产权成为重要问题。
+最终，政府税务官员、边沁在伦敦的年轻门徒之一的理查德·史密斯（Richard Smith）在 1838 年为《杰里米·边沁著作集》（1838-1843，I，297-580）将《Traités》的民法和刑法部分翻译成了英文。与此同时，历史学家和反奴隶主义宣传者理查德·希尔德雷斯（Richard Hildreth）作为边沁在美国最重要的门徒，也在大西洋的另一边忙于翻译同样的材料，他相信美国对法律改革的广泛兴趣将极大地受益于功利主义思想。对希尔德雷斯翻译的评论赞扬了边沁的法律哲学，但反对其潜在的道德假设和对宗教的蔑视，这是早期评论家经常采取的立场，即使希尔德雷斯也持这种不一致的观点（1840 \[1864]，I，iii）。评论特别关注民法理论的系统呈现，这也对南美新独立国家的法律教育产生了深刻影响，在西班牙和葡萄牙帝国崩溃后，财产权成为重要问题。
 
 Hildreth，他自己的《道德理论》（1844）在很大程度上借鉴了《Traités》，他正确地认为美国的法律改革者会从边沁的批判性法学中获得支持。托马斯·库珀（Thomas Cooper）于 1794 年与约瑟夫·普里斯特利（Joseph Priestley）一起离开英国前往美国，最初从他那里获得了功利主义，到 19 世纪 20 年代，他已经成为坚定的边沁主义者，并成为边沁委托给约翰·昆西·亚当斯的著作的预期接收者。此后，库珀在他关于法律和政治经济学的著作中运用了功利主义原则，尤其是在基于他在南卡罗来纳学院哥伦比亚分校的讲座上所做的《政治经济学要素讲义》（1826）中，这是美国关于这一主题的第一门课程。爱德华·利文斯顿（Edward Livingston），路易斯安那州法典的著名作者，与边沁通信，边沁给他寄去了研究用的书籍。利文斯顿承认，正是他阅读了《Traités》使他“坚定了我追求刑法典的计划”的决心（1838-43，XI，51）。在最终的全面系统版本中，利文斯顿的《刑法体系》（1833）受到许多欧洲法学家的赞誉，并成为美国法典化运动的核心，而边沁曾经试图通过将他的《有关法典化和公共教育的文件》（1817）寄给一些地位崇高的美国政治家来发起这场运动。自由思想家吉尔伯特·维尔（Gilbert Vale）利用他作为激进期刊《The Diamond》（1840-42）的编辑的地位，传播边沁对法律的异端、欺诈和技术性的批评。受边沁的启发，维尔赞成人道的刑法，将惩罚与威慑目标相协调，并主张国家干预以改变培养犯罪的社会环境。约翰·奥沙利文（John O'Sullivan），《美国杂志与民主评论》（United States Magazine and Democratic Review）的狂想家编辑，对边沁、利文斯顿和希尔德雷斯（Hildreth）持有同情态度，并在他们之后提倡功利主义法律改革，特别是废除死刑。边沁对这些人物的影响在 Crimmins（2022）中有详细讨论。
 
@@ -254,155 +249,155 @@ Hildreth，他自己的《道德理论》（1844）在很大程度上借鉴了�
 
 #### Collected Editions of Bentham’s Works
 
-* 1829–30, *Œuvres de* *Jérémie* *Bentham*, 3 volumes, E. Dumont (ed.), Bruxelles: Hauman.
-* 1838–43, *The Works of Jeremy Bentham, Published under the Superintendence of his Executor, John Bowring*, 11 vols., Edinburgh: William Tait.
-* 1952–54, *Jeremy Bentham’s Economic Writings*, 3 volumes, W. Stark (ed.), London: George Allen & Unwin.
-* 1968–, *The Collected Works of Jeremy Bentham*, General Editors: J. H. Burns, J. R. Dinwiddy, F. Rosen, T. P. Schofield, London: Athlone Press; Oxford: Clarendon Press; and London: UCL Press, in progress:
-  * 1970, *An Introduction to the Principles of Morals and Legislation*, J. H. Burns and H. L. A. Hart (eds.).
-  * 1977, *A Comment on the Commentaries and A Fragment on Government*, J. H. Burns and H. L. A. Hart (eds.).
-  * 1983, *Chrestomathia*, M. J. Smith and W. H. Burston (eds.).
-  * 1983a, *Deontology together with A Table of the Springs of Action and the Article on Utilitarianism*, A. Goldworth (ed.).
-  * 1983b, *Constitutional Code*, volume 1, F. Rosen and J. H. Burns (eds.).
-  * 1989, *First Principles Preparatory to Constitutional Code*, T. P. Schofield (ed.).
-  * 1990, *Securities Against Misrule and other Constitutional Writings for Tripoli and Greece*, T. P. Schofield (ed.).
-  * 1993, *Official Aptitude Maximized; Expense Minimized*, P. Schofield (ed.).
-  * 1995, *Colonies, Commerce, and Constitutional Law: Rid Yourselves of Ultramaria and other writings on Spain and Spanish America*, P. Schofield (ed.)
-  * 1998,*“Legislator of the World”: Writings on Codification, Law, and Education*, P. Schofield and J. Harris (ed.).
-  * 1999, *Political Tactics*, M. James, C. Blamires and C. Pease-Watkin (eds.).
-  * 2001, 2010a, *Writings on the Poor Laws*, 2 volumes, M. Quinn (ed.).
-  * 2002, *Rights, Representation, and Reform: Nonsense upon Stilts and other Writings on the French Revolution*, P. Schofield, C. Pease-Watkin and C. Blamires (eds.).
-  * 2010b, *Of the Limits of the Penal Branch of Jurisprudence*, ed. P. Schofield.
-  * 2011, *Church-of-Englandism and its Catechism Examined*, J. E. Crimmins and C. Fuller (eds.).
-  * 2012, *On the Liberty of the Press, and Public Discussion, and other Legal and Political Writings for Spain and Portugal*, C. Pease-Watkin and P. Schofield (eds.).
+* 1829–30, _Œuvres de_ _Jérémie_ _Bentham_, 3 volumes, E. Dumont (ed.), Bruxelles: Hauman.
+* 1838–43, _The Works of Jeremy Bentham, Published under the Superintendence of his Executor, John Bowring_, 11 vols., Edinburgh: William Tait.
+* 1952–54, _Jeremy Bentham’s Economic Writings_, 3 volumes, W. Stark (ed.), London: George Allen & Unwin.
+* 1968–, _The Collected Works of Jeremy Bentham_, General Editors: J. H. Burns, J. R. Dinwiddy, F. Rosen, T. P. Schofield, London: Athlone Press; Oxford: Clarendon Press; and London: UCL Press, in progress:
+  * 1970, _An Introduction to the Principles of Morals and Legislation_, J. H. Burns and H. L. A. Hart (eds.).
+  * 1977, _A Comment on the Commentaries and A Fragment on Government_, J. H. Burns and H. L. A. Hart (eds.).
+  * 1983, _Chrestomathia_, M. J. Smith and W. H. Burston (eds.).
+  * 1983a, _Deontology together with A Table of the Springs of Action and the Article on Utilitarianism_, A. Goldworth (ed.).
+  * 1983b, _Constitutional Code_, volume 1, F. Rosen and J. H. Burns (eds.).
+  * 1989, _First Principles Preparatory to Constitutional Code_, T. P. Schofield (ed.).
+  * 1990, _Securities Against Misrule and other Constitutional Writings for Tripoli and Greece_, T. P. Schofield (ed.).
+  * 1993, _Official Aptitude Maximized; Expense Minimized_, P. Schofield (ed.).
+  * 1995, _Colonies, Commerce, and Constitutional Law: Rid Yourselves of Ultramaria and other writings on Spain and Spanish America_, P. Schofield (ed.)
+  * 1998,_“Legislator of the World”: Writings on Codification, Law, and Education_, P. Schofield and J. Harris (ed.).
+  * 1999, _Political Tactics_, M. James, C. Blamires and C. Pease-Watkin (eds.).
+  * 2001, 2010a, _Writings on the Poor Laws_, 2 volumes, M. Quinn (ed.).
+  * 2002, _Rights, Representation, and Reform: Nonsense upon Stilts and other Writings on the French Revolution_, P. Schofield, C. Pease-Watkin and C. Blamires (eds.).
+  * 2010b, _Of the Limits of the Penal Branch of Jurisprudence_, ed. P. Schofield.
+  * 2011, _Church-of-Englandism and its Catechism Examined_, J. E. Crimmins and C. Fuller (eds.).
+  * 2012, _On the Liberty of the Press, and Public Discussion, and other Legal and Political Writings for Spain and Portugal_, C. Pease-Watkin and P. Schofield (eds.).
   * 2013, “[Not Paul, But Jesus Part III. Doctrine](http://discovery.ucl.ac.uk/1392179/3/npbj.pdf)”, Bentham Project.
-  * 2014, *Of Sexual Irregularities, and other writings on Sexual Morality*, P. Schofield, C. Pease-Watkin, and M. Quinn (eds.).
-  * 2015, *The Book of Fallacies*, P. Schofield (ed.).
-  * 2016a, 2019, *Writings on Political Economy*, Volume 1: including “Defence of Usury”; “Manual of Political Economy”; and “Protest against Law Taxes”), and Volumes 2: including “Supply without Burthen” and “Proposals Relative to Divers Modes of Supply”, M. Quinn (ed.), Oxford: Oxford University Press.
-  * 2016b, *Preparatory Principles*, D. G. Long and P. Schofield (eds.).
-  * 2022, *Panopticon versus New South Wales and Other Writings on Australia*, T. Causer and P. Schofield (eds.).
+  * 2014, _Of Sexual Irregularities, and other writings on Sexual Morality_, P. Schofield, C. Pease-Watkin, and M. Quinn (eds.).
+  * 2015, _The Book of Fallacies_, P. Schofield (ed.).
+  * 2016a, 2019, _Writings on Political Economy_, Volume 1: including “Defence of Usury”; “Manual of Political Economy”; and “Protest against Law Taxes”), and Volumes 2: including “Supply without Burthen” and “Proposals Relative to Divers Modes of Supply”, M. Quinn (ed.), Oxford: Oxford University Press.
+  * 2016b, _Preparatory Principles_, D. G. Long and P. Schofield (eds.).
+  * 2022, _Panopticon versus New South Wales and Other Writings on Australia_, T. Causer and P. Schofield (eds.).
 
 #### Other Cited Works by Bentham
 
-* 1795, “Nonsense upon Stilts, Or Pandora’s Box Opened, Or The French Declaration of Rights prefixed to the Constitution of 1791 laid open and exposed–with a Comparative Sketch of what has been done on the same subject in the Constitution of 1795”, in *Collected Works*, 2002, 317–401.
-* 1830–31, “History of the War between Jeremy Bentham and George the Third. By one of the Belligerents”, in *The Works of Jeremy Bentham*, 1838–43, XI, 96–105.
-* 1831, “Colonization Company Proposal: Being a proposal for the formation of a joint-stock company by the name of the Colonization Company on the entirely new principle intituled the vicinity-maximizing or dispersion-preventing principle”, in *Collected Works*, 2022, forthcoming.
-* 1840 [2nd edn 1864], *Theory of Legislation; by Jeremy Bentham. Translated from the French of Etienne Dumont, by Richard Hildreth*, 2 vols., rept. with an introduction, appendix and index by James E. Crimmins, Bristol: Thoemmes Continuum, 2004.
-* 1842, *Auto-Icon; or Farther Uses of the Dead to the Living*; in James E. Crimmins (ed.), *Jeremy Bentham’s Auto-Icon and Related Writings*, Bristol: Thoemmes, 2002.
+* 1795, “Nonsense upon Stilts, Or Pandora’s Box Opened, Or The French Declaration of Rights prefixed to the Constitution of 1791 laid open and exposed–with a Comparative Sketch of what has been done on the same subject in the Constitution of 1795”, in _Collected Works_, 2002, 317–401.
+* 1830–31, “History of the War between Jeremy Bentham and George the Third. By one of the Belligerents”, in _The Works of Jeremy Bentham_, 1838–43, XI, 96–105.
+* 1831, “Colonization Company Proposal: Being a proposal for the formation of a joint-stock company by the name of the Colonization Company on the entirely new principle intituled the vicinity-maximizing or dispersion-preventing principle”, in _Collected Works_, 2022, forthcoming.
+* 1840 \[2nd edn 1864], _Theory of Legislation; by Jeremy Bentham. Translated from the French of Etienne Dumont, by Richard Hildreth_, 2 vols., rept. with an introduction, appendix and index by James E. Crimmins, Bristol: Thoemmes Continuum, 2004.
+* 1842, _Auto-Icon; or Farther Uses of the Dead to the Living_; in James E. Crimmins (ed.), _Jeremy Bentham’s Auto-Icon and Related Writings_, Bristol: Thoemmes, 2002.
 
 #### Other Primary Sources
 
-* Carlyle, T., 1840, *On Heroes, Hero-Worship, and the Heroic in History*, M.K. Goldberg, J.J. Brattin, and M. Engel (eds.), Berkeley, CA: University of California Press, 1993.
-* Edgeworth, F. Y., 1881, *Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences*, London: C. Kegan Paul & Co.
-* Hazlitt, W., 1826, “The New School of Reform: A Dialogue between a Rationalist and a Sentimentalist”, in *The Complete Works of William Hazlitt*, 21 vols., P. P. Howe (ed.), London: J.M. Dent and Sons, 1930–4, vol. 12, pp. 179–95.
-* Jevons, W. S., 1871, *The Theory of Political Economy*, London: Macmillan and Co.
-* Mill, J. S., 1963–91, *Collected Works of John Stuart Mill*, J. M. Robson (general editor), Toronto: University of Toronto Press.
-* Neal, J., 1830, *Principles of Legislation: From the Ms. of Jeremy Bentham*; … *By M. Dumont* …; *With Notes and a Biographical Notice of Jeremy Bentham and of M. Dumont*, Boston, MA: Wells and Lilly.
-* Smith, T. S., 1832, *Lecture Delivered over the Remains of Jeremy Bentham, Esq., in the Webb-Street School of Anatomy & Medicine, on the 9th June, 1832*, London: Effingham Wilson.
+* Carlyle, T., 1840, _On Heroes, Hero-Worship, and the Heroic in History_, M.K. Goldberg, J.J. Brattin, and M. Engel (eds.), Berkeley, CA: University of California Press, 1993.
+* Edgeworth, F. Y., 1881, _Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences_, London: C. Kegan Paul & Co.
+* Hazlitt, W., 1826, “The New School of Reform: A Dialogue between a Rationalist and a Sentimentalist”, in _The Complete Works of William Hazlitt_, 21 vols., P. P. Howe (ed.), London: J.M. Dent and Sons, 1930–4, vol. 12, pp. 179–95.
+* Jevons, W. S., 1871, _The Theory of Political Economy_, London: Macmillan and Co.
+* Mill, J. S., 1963–91, _Collected Works of John Stuart Mill_, J. M. Robson (general editor), Toronto: University of Toronto Press.
+* Neal, J., 1830, _Principles of Legislation: From the Ms. of Jeremy Bentham_; … _By M. Dumont_ …; _With Notes and a Biographical Notice of Jeremy Bentham and of M. Dumont_, Boston, MA: Wells and Lilly.
+* Smith, T. S., 1832, _Lecture Delivered over the Remains of Jeremy Bentham, Esq., in the Webb-Street School of Anatomy & Medicine, on the 9th June, 1832_, London: Effingham Wilson.
 
 ### Secondary Sources
 
-* Armitage, D., 2011, “Globalizing Jeremy Bentham”, *History of Political Thought*, 32 (1): 63–82.
-* Avila-Martel, A. de, 1981, “The Influence of Bentham on the Teaching of Penal Law in Chile”, *The Bentham Newsletter*, 5: 22–8.
-* Bahmueller, C. F., 1981, *The National Charity Company: Jeremy Bentham’s Silent Revolution*, Berkeley, CA: University of California Press.
-* Bedau, H. A., 1983, “Bentham’s Utilitarian Critique of the Death Penalty”, *Journal of Criminal Law and Criminology*, 74 (3): 1033–65.
-* –––, 2004, “Bentham’s Theory of Punishment: Origin and Content”, *Journal of Bentham Studies*, 7: n.p. [[Bedau 2004 available online](http://discovery.ucl.ac.uk/1323719/)].
-* Ben-Dor, O., 2000, *Constitutional Limits and the Public Sphere*, Oxford & Portland, OR: Hart Publishing.
-* Blamires, C., 2008, *The French Revolution and the Creation of Benthamism*, London: Palgrave.
-* Boralevi, L. C., 1984, *Bentham and the Oppressed*, Berlin: W. de Gruyter.
-* Brunon-Ernst, A. (ed.), 2012, *Beyond Foucault: New Perspectives on Bentham’s Panopticon*, Farnham: Ashgate.
-* Bykvist, K., 2010, *Utilitarianism: A Guide for the Perplexed*, London: Continuum.
-* –––, 2013, “Preferences (Preferentialism),” in J.E. Crimmins (ed.), *Bloomsbury Encyclopedia of Utilitarianism*, London & New York: Bloomsbury; reprinted 2017, pp. 440–45.
-* Cain, P. J., 2011, “Bentham and the Development of the British Critique of Colonialism”, *Utilitas*, 23 (1): 1–24.
-* Causer, T., M. Finn and P. Schofield (eds.), 2022, *Bentham and Australia: Convicts, Utility and Empire*, London: University College London Press.
-* Champs, E. de., 2015, *Enlightenment and Utility: Bentham in French, Bentham in France*, Cambridge: Cambridge University Press.
-* Crimmins, J. E., 1987, “‘Strictures on Paley’s Net’: Capital Punishment and the Power to Pardon”, *The Bentham Newsletter*, 11: 23–34.
-* –––, 1990, *Secular Utilitarianism: Social science and the critique of religion in the thought of Jeremy Bentham*, Oxford: Clarendon.
-* –––, 1994, “Bentham’s Political Radicalism Reexamined”, *Journal of the History of Ideas*, 55 (2): 259–81.
-* –––, 2004, *On Bentham*, Belmont, CA: Wadsworth.
-* –––, 2011, “Principles of Utilitarian Penal Law in Beccaria, Bentham and Mill”, in P. K. Koritansky (ed.), *The Philosophy of Punishment and the History of Political Thought*, Columbia: The University of Missouri Press, pp. 136–71.
-* –––, 2013, *Utilitarian Philosophy and Politics: Bentham’s Later Years*, London & New York: Bloomsbury.
-* –––, 2022, *Utilitarianism in the Early American Republic*, New York: Routledge.
-* Dabhoiwala, F., 2010, “Lust and Liberty”, *Past & Present*, 207 (1): 89–179.
-* Dewey, J. and J. H. Tufts, 1908, *Ethics*, in *John Dewey: The Middle Works, 1899–1924* (Volume 5), Jo Ann Boydson (ed.), Carbondale and Edwardsville, IL: Southern Illinois University Press, 1978.
-* Dewey, J., 1935, *Liberalism and Social Action*, in *John Dewey: The Later Works, 1925–1953* (Volume 11: 1935–1937), Jo Ann Boydston (ed.), Carbondale and Edwardsville, IL: Southern Illinois University Press, 1991.
-* Dinwiddy, J. R., 1975, “Bentham’s Transition to Political Radicalism, 1809–10”, *Journal of the History of Ideas*, 36 (4): 683–700.
-* –––, 1984, “Bentham and the Early Nineteenth Century”, *The Bentham Newsletter*, 8: 15–33.
-* –––, 1989a, “Adjudication under Bentham’s Pannomion”, *Utilitas*, 1 (2): 283–9.
-* –––, 1989b, *Bentham*. Oxford: Oxford University Press.
-* Draper, T., 2002, “An Introduction to Jeremy Bentham’s Theory of Punishment”, *Journal of Bentham Studies*, 5: n.p. [[Draper 2002 available online](http://discovery.ucl.ac.uk/1323717/)]
-* Engelmann, S., 2001, “Imagining Interest,” *Utilitas*, 13 (3): 289–322
-* Foucault, M., 1985, *Discipline and Punish: The Birth of the Prison*, A. Sheridan (trans.), Harmondsworth: Penguin.
-* Halévy, E., 1901–4, *The Growth of Philosophic Radicalism* [*La Formation du radicalisme philosophique*, new edition, M. Morris (trans.), 1928; Clifton, NJ: Augustus M. Kelley 1972.
-* Harrison, R., 1983, *Bentham*, London: Routledge and Kegan Paul.
-* Hart, H. L. A., 1982, *Essays on Bentham: Studies on Jurisprudence and Political Theory*, Oxford: Clarendon.
-* Hume, L. J., 1981, *Bentham and Bureaucracy*, Cambridge: Cambridge University Press.
-* Itzkin, E. S., 1978, “Bentham’s *Chrestomathia*: Utilitarian Legacy to English Education”, *Journal of the History of Ideas*, 39 (2): 303–16.
-* Jacques, S., and P. Schofield (eds.), 2021, *Jeremy Bentham on Police: The Unknown Story and What it Means for Criminology*, London: University College London Press.
-* James, W., 1891, “The Moral Philosopher and the Moral Life”, in *The Will to Believe and other Essays in Popular Philosophy*, New York: Dover Publications, 1956.
-* Jones, H. S., 2005, “The Early Utilitarians, Race, and Empire: The State of the Argument”, in B. Schultz and G. Varouxakis, eds., *Utilitarianism and Empire*, Lanham, MD: Lexington Books, pp. 179–88.
-* Julius, A., Quinn, M., and P. Schofield (eds.), 2020, *Bentham and the Arts*, London: UCL Press.
-* Kelly, P. J., 1989, “Utilitarianism and Distributive Justice: The Civil Law and the Foundations of Bentham’s Economic Thought”, *Utilitas*, 1 (1): 62–81.
-* –––, 1990, *Utilitarianism and Distributive Justice: Jeremy Bentham and the Civil Law*, Oxford: Clarendon.
-* Lieberman, D., 2008, “Bentham’s Democracy”, *Oxford Journal of Legal Studies*, 28 (3): 605–26.
-* –––, 2011, “Bentham on Codification”, in S. G. Engelmann (ed.), *Selected Writings: Jeremy Bentham*, New Haven, CT: Yale University Press, pp. 460–77.
-* Lively, J., and J. C. Rees, eds., 1978, *Utilitarian Logic and Politics: James Mill’s “Essay on Government”, Macaulay’s critique and the ensuing debate*. Oxford: Clarendon Press.
-* Long, D. G., 1977, *Bentham on Liberty: Jeremy Bentham’s Idea of Liberty in Relation to his Utilitarianism*, Toronto: University of Toronto Press.
-* Luño, A-E P., 1981, “Jeremy Bentham and Legal Education in the University of Salamanca during the Nineteenth Century”, *The Bentham Newsletter*, 5: 44–54.
-* Mack, M. P., 1955, “The Fabians and Utilitarianism”, *Journal of the History of Ideas*, 16 (1): 76–88.
-* MacKennan, T. L., 1981, “Benthamism in Santander’s Colombia”, *The Bentham Newsletter*, 5: 29–43.
-* Nozick, R., 1974, *Anarchy, State, and Utopia*, New York: Basic Books.
-* Peonidis, F., 2009, “Bentham and the Greek Revolution: New evidence”, *Journal of Bentham Studies*, 11: n.p. [[Peonidis 2009 available online](https://uclpress.scienceopen.com/hosted-document?doi=10.14324/111.2045-757X.036)]
-* Pitts, J., 2005, “Jeremy Bentham: Legislator to the World?” in B. Schultz and G. Varouxakis, eds., *Utilitarianism and Empire*, Lanham, MD: Lexington Books, pp. 57–92.
-* Postema, G. J., 1989, *Bentham and the Common Law Tradition*, Oxford: Clarendon.
-* –––, 1998, “Bentham’s Equality-Sensitive Utilitarianism”, *Utilitas*, 10 (2): 144–58.
-* –––, 2014, “The Soul of Justice: Bentham on Publicity, Law, and the Rule of Law”, in Z. Xiabo and M. Quinn, eds., *Bentham’s Theory of Law and Public Opinion*, Cambridge: Cambridge University Press, pp. 40–62.
-* Quinn, M., 2008, “A Failure to Reconcile the Irreconcilable? Security, Subsistence and Equality in Bentham’s Writings on the Civil Code and on the Poor Laws”, *History of Political Thought*, 29 (2): 320–43.
-* –––, 2012, “Which comes first, Bentham’s chicken of utility, or his egg of truth?” *Journal of Bentham Studies*, 14: [Quinn 2008 published online](http://discovery.ucl.ac.uk/1353163/).
-* –––, 2022, *Bentham*, Cambridge: Polity Press.
-* Rawls, J., 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* Resnik, J., 2011, “Bring back Bentham: ‘open courts,’ ‘terror trials,’ and public sphere(s)”, *Law, Ethics, Human Rights*, 5 (1): 1–69.
-* Richardson, R., 1986, “Bentham and Bodies for Dissection”, *The Bentham Newsletter*, 10: 22–33.
-* Rosen, F., 1983, *Jeremy Bentham and Representative Democracy: A Study of “The Constitutional Code*”, Oxford: Clarendon Press.
-* –––, 2003, *Classical Utilitarianism from Hume to Mill*, London & New York: Routledge.
-* –––, 2005, “Jeremy Bentham on Slavery and the Slave Trade”, in B. Schultz and G. Varouxakis (eds.), *Utilitarianism and Empire*, Lanham, MD: Lexington Books, pp. 31–56.
-* Rosenblum, N., 1978, *Bentham’s Theory of the Modern State*, Cambridge, MA: Harvard University Press.
-* Schofield, P., 1996, “Bentham on the Identification of Interests”, *Utilitas*, 8 (2): 223–34.
-* –––, 2006, *Utility & Democracy: The Political Thought of Jeremy Bentham*, Oxford: Oxford University Press.
-* –––, 2009, *Bentham: A Guide for the Perplexed*, London: Continuum.
-* –––, 2013, “The Legal and Political Legacy of Jeremy Bentham”, *Annual Review of Law and Social Science*, 9: 51–70.
-* –––, 2014, “Jeremy Bentham on Taste, Sex and Religion”, in Z. Xiabo and M. Quinn, eds., *Bentham’s Theory of Law and Public Opinion*, Cambridge: Cambridge University Press, pp. 90–118.
-* Semple, J., 1993, *Bentham’s Prison: A Study of the Panopticon Penitentiary*, Oxford: Clarendon Press.
-* Sokol, M., 2011, *Bentham on Sex and Marriage: Law and Utility in Historical Context*, London: Continuum.
-* Stephen, L., 1902, *The English Utilitarians*, 3 vols., New York: G. P. Putnam’s Sons.
-* Ten, C. L., 1987, *Crime, Guilt, and Punishment: A Philosophical Introduction*, New York: Oxford University Press.
-* Twining, W. L., 1985, *Theories of Evidence: Bentham and Wigmore*, London: Weidenfeld and Nicolson.
-* Thomas, W., 1979, *The Philosophic Radicals: Nine Studies in Theory and Practice, 1817–1841*, Oxford: Clarendon Press.
-* Wallas, G., 1926, “Bentham as Political Inventor”, *Contemporary Review*, 129: 308–19.
-* Warke, T., 2000, “Multi-Dimensional Utility and the Index Number Problem: Jeremy Bentham, J. S. Mill, and Qualitative Hedonism”, *Utilitas*, 12 (2): 176–203.
-* Zhai, X., and S. Palmer (eds.), 2021, *Bentham Around the World*, Clark, NJ: Talbot Publishing.
+* Armitage, D., 2011, “Globalizing Jeremy Bentham”, _History of Political Thought_, 32 (1): 63–82.
+* Avila-Martel, A. de, 1981, “The Influence of Bentham on the Teaching of Penal Law in Chile”, _The Bentham Newsletter_, 5: 22–8.
+* Bahmueller, C. F., 1981, _The National Charity Company: Jeremy Bentham’s Silent Revolution_, Berkeley, CA: University of California Press.
+* Bedau, H. A., 1983, “Bentham’s Utilitarian Critique of the Death Penalty”, _Journal of Criminal Law and Criminology_, 74 (3): 1033–65.
+* –––, 2004, “Bentham’s Theory of Punishment: Origin and Content”, _Journal of Bentham Studies_, 7: n.p. \[[Bedau 2004 available online](http://discovery.ucl.ac.uk/1323719/)].
+* Ben-Dor, O., 2000, _Constitutional Limits and the Public Sphere_, Oxford & Portland, OR: Hart Publishing.
+* Blamires, C., 2008, _The French Revolution and the Creation of Benthamism_, London: Palgrave.
+* Boralevi, L. C., 1984, _Bentham and the Oppressed_, Berlin: W. de Gruyter.
+* Brunon-Ernst, A. (ed.), 2012, _Beyond Foucault: New Perspectives on Bentham’s Panopticon_, Farnham: Ashgate.
+* Bykvist, K., 2010, _Utilitarianism: A Guide for the Perplexed_, London: Continuum.
+* –––, 2013, “Preferences (Preferentialism),” in J.E. Crimmins (ed.), _Bloomsbury Encyclopedia of Utilitarianism_, London & New York: Bloomsbury; reprinted 2017, pp. 440–45.
+* Cain, P. J., 2011, “Bentham and the Development of the British Critique of Colonialism”, _Utilitas_, 23 (1): 1–24.
+* Causer, T., M. Finn and P. Schofield (eds.), 2022, _Bentham and Australia: Convicts, Utility and Empire_, London: University College London Press.
+* Champs, E. de., 2015, _Enlightenment and Utility: Bentham in French, Bentham in France_, Cambridge: Cambridge University Press.
+* Crimmins, J. E., 1987, “‘Strictures on Paley’s Net’: Capital Punishment and the Power to Pardon”, _The Bentham Newsletter_, 11: 23–34.
+* –––, 1990, _Secular Utilitarianism: Social science and the critique of religion in the thought of Jeremy Bentham_, Oxford: Clarendon.
+* –––, 1994, “Bentham’s Political Radicalism Reexamined”, _Journal of the History of Ideas_, 55 (2): 259–81.
+* –––, 2004, _On Bentham_, Belmont, CA: Wadsworth.
+* –––, 2011, “Principles of Utilitarian Penal Law in Beccaria, Bentham and Mill”, in P. K. Koritansky (ed.), _The Philosophy of Punishment and the History of Political Thought_, Columbia: The University of Missouri Press, pp. 136–71.
+* –––, 2013, _Utilitarian Philosophy and Politics: Bentham’s Later Years_, London & New York: Bloomsbury.
+* –––, 2022, _Utilitarianism in the Early American Republic_, New York: Routledge.
+* Dabhoiwala, F., 2010, “Lust and Liberty”, _Past & Present_, 207 (1): 89–179.
+* Dewey, J. and J. H. Tufts, 1908, _Ethics_, in _John Dewey: The Middle Works, 1899–1924_ (Volume 5), Jo Ann Boydson (ed.), Carbondale and Edwardsville, IL: Southern Illinois University Press, 1978.
+* Dewey, J., 1935, _Liberalism and Social Action_, in _John Dewey: The Later Works, 1925–1953_ (Volume 11: 1935–1937), Jo Ann Boydston (ed.), Carbondale and Edwardsville, IL: Southern Illinois University Press, 1991.
+* Dinwiddy, J. R., 1975, “Bentham’s Transition to Political Radicalism, 1809–10”, _Journal of the History of Ideas_, 36 (4): 683–700.
+* –––, 1984, “Bentham and the Early Nineteenth Century”, _The Bentham Newsletter_, 8: 15–33.
+* –––, 1989a, “Adjudication under Bentham’s Pannomion”, _Utilitas_, 1 (2): 283–9.
+* –––, 1989b, _Bentham_. Oxford: Oxford University Press.
+* Draper, T., 2002, “An Introduction to Jeremy Bentham’s Theory of Punishment”, _Journal of Bentham Studies_, 5: n.p. \[[Draper 2002 available online](http://discovery.ucl.ac.uk/1323717/)]
+* Engelmann, S., 2001, “Imagining Interest,” _Utilitas_, 13 (3): 289–322
+* Foucault, M., 1985, _Discipline and Punish: The Birth of the Prison_, A. Sheridan (trans.), Harmondsworth: Penguin.
+* Halévy, E., 1901–4, _The Growth of Philosophic Radicalism_ \[_La Formation du radicalisme philosophique_, new edition, M. Morris (trans.), 1928; Clifton, NJ: Augustus M. Kelley 1972.
+* Harrison, R., 1983, _Bentham_, London: Routledge and Kegan Paul.
+* Hart, H. L. A., 1982, _Essays on Bentham: Studies on Jurisprudence and Political Theory_, Oxford: Clarendon.
+* Hume, L. J., 1981, _Bentham and Bureaucracy_, Cambridge: Cambridge University Press.
+* Itzkin, E. S., 1978, “Bentham’s _Chrestomathia_: Utilitarian Legacy to English Education”, _Journal of the History of Ideas_, 39 (2): 303–16.
+* Jacques, S., and P. Schofield (eds.), 2021, _Jeremy Bentham on Police: The Unknown Story and What it Means for Criminology_, London: University College London Press.
+* James, W., 1891, “The Moral Philosopher and the Moral Life”, in _The Will to Believe and other Essays in Popular Philosophy_, New York: Dover Publications, 1956.
+* Jones, H. S., 2005, “The Early Utilitarians, Race, and Empire: The State of the Argument”, in B. Schultz and G. Varouxakis, eds., _Utilitarianism and Empire_, Lanham, MD: Lexington Books, pp. 179–88.
+* Julius, A., Quinn, M., and P. Schofield (eds.), 2020, _Bentham and the Arts_, London: UCL Press.
+* Kelly, P. J., 1989, “Utilitarianism and Distributive Justice: The Civil Law and the Foundations of Bentham’s Economic Thought”, _Utilitas_, 1 (1): 62–81.
+* –––, 1990, _Utilitarianism and Distributive Justice: Jeremy Bentham and the Civil Law_, Oxford: Clarendon.
+* Lieberman, D., 2008, “Bentham’s Democracy”, _Oxford Journal of Legal Studies_, 28 (3): 605–26.
+* –––, 2011, “Bentham on Codification”, in S. G. Engelmann (ed.), _Selected Writings: Jeremy Bentham_, New Haven, CT: Yale University Press, pp. 460–77.
+* Lively, J., and J. C. Rees, eds., 1978, _Utilitarian Logic and Politics: James Mill’s “Essay on Government”, Macaulay’s critique and the ensuing debate_. Oxford: Clarendon Press.
+* Long, D. G., 1977, _Bentham on Liberty: Jeremy Bentham’s Idea of Liberty in Relation to his Utilitarianism_, Toronto: University of Toronto Press.
+* Luño, A-E P., 1981, “Jeremy Bentham and Legal Education in the University of Salamanca during the Nineteenth Century”, _The Bentham Newsletter_, 5: 44–54.
+* Mack, M. P., 1955, “The Fabians and Utilitarianism”, _Journal of the History of Ideas_, 16 (1): 76–88.
+* MacKennan, T. L., 1981, “Benthamism in Santander’s Colombia”, _The Bentham Newsletter_, 5: 29–43.
+* Nozick, R., 1974, _Anarchy, State, and Utopia_, New York: Basic Books.
+* Peonidis, F., 2009, “Bentham and the Greek Revolution: New evidence”, _Journal of Bentham Studies_, 11: n.p. \[[Peonidis 2009 available online](https://uclpress.scienceopen.com/hosted-document?doi=10.14324/111.2045-757X.036)]
+* Pitts, J., 2005, “Jeremy Bentham: Legislator to the World?” in B. Schultz and G. Varouxakis, eds., _Utilitarianism and Empire_, Lanham, MD: Lexington Books, pp. 57–92.
+* Postema, G. J., 1989, _Bentham and the Common Law Tradition_, Oxford: Clarendon.
+* –––, 1998, “Bentham’s Equality-Sensitive Utilitarianism”, _Utilitas_, 10 (2): 144–58.
+* –––, 2014, “The Soul of Justice: Bentham on Publicity, Law, and the Rule of Law”, in Z. Xiabo and M. Quinn, eds., _Bentham’s Theory of Law and Public Opinion_, Cambridge: Cambridge University Press, pp. 40–62.
+* Quinn, M., 2008, “A Failure to Reconcile the Irreconcilable? Security, Subsistence and Equality in Bentham’s Writings on the Civil Code and on the Poor Laws”, _History of Political Thought_, 29 (2): 320–43.
+* –––, 2012, “Which comes first, Bentham’s chicken of utility, or his egg of truth?” _Journal of Bentham Studies_, 14: [Quinn 2008 published online](http://discovery.ucl.ac.uk/1353163/).
+* –––, 2022, _Bentham_, Cambridge: Polity Press.
+* Rawls, J., 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
+* Resnik, J., 2011, “Bring back Bentham: ‘open courts,’ ‘terror trials,’ and public sphere(s)”, _Law, Ethics, Human Rights_, 5 (1): 1–69.
+* Richardson, R., 1986, “Bentham and Bodies for Dissection”, _The Bentham Newsletter_, 10: 22–33.
+* Rosen, F., 1983, _Jeremy Bentham and Representative Democracy: A Study of “The Constitutional Code_”, Oxford: Clarendon Press.
+* –––, 2003, _Classical Utilitarianism from Hume to Mill_, London & New York: Routledge.
+* –––, 2005, “Jeremy Bentham on Slavery and the Slave Trade”, in B. Schultz and G. Varouxakis (eds.), _Utilitarianism and Empire_, Lanham, MD: Lexington Books, pp. 31–56.
+* Rosenblum, N., 1978, _Bentham’s Theory of the Modern State_, Cambridge, MA: Harvard University Press.
+* Schofield, P., 1996, “Bentham on the Identification of Interests”, _Utilitas_, 8 (2): 223–34.
+* –––, 2006, _Utility & Democracy: The Political Thought of Jeremy Bentham_, Oxford: Oxford University Press.
+* –––, 2009, _Bentham: A Guide for the Perplexed_, London: Continuum.
+* –––, 2013, “The Legal and Political Legacy of Jeremy Bentham”, _Annual Review of Law and Social Science_, 9: 51–70.
+* –––, 2014, “Jeremy Bentham on Taste, Sex and Religion”, in Z. Xiabo and M. Quinn, eds., _Bentham’s Theory of Law and Public Opinion_, Cambridge: Cambridge University Press, pp. 90–118.
+* Semple, J., 1993, _Bentham’s Prison: A Study of the Panopticon Penitentiary_, Oxford: Clarendon Press.
+* Sokol, M., 2011, _Bentham on Sex and Marriage: Law and Utility in Historical Context_, London: Continuum.
+* Stephen, L., 1902, _The English Utilitarians_, 3 vols., New York: G. P. Putnam’s Sons.
+* Ten, C. L., 1987, _Crime, Guilt, and Punishment: A Philosophical Introduction_, New York: Oxford University Press.
+* Twining, W. L., 1985, _Theories of Evidence: Bentham and Wigmore_, London: Weidenfeld and Nicolson.
+* Thomas, W., 1979, _The Philosophic Radicals: Nine Studies in Theory and Practice, 1817–1841_, Oxford: Clarendon Press.
+* Wallas, G., 1926, “Bentham as Political Inventor”, _Contemporary Review_, 129: 308–19.
+* Warke, T., 2000, “Multi-Dimensional Utility and the Index Number Problem: Jeremy Bentham, J. S. Mill, and Qualitative Hedonism”, _Utilitas_, 12 (2): 176–203.
+* Zhai, X., and S. Palmer (eds.), 2021, _Bentham Around the World_, Clark, NJ: Talbot Publishing.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bentham). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/bentham/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bentham&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/bentham/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bentham).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/bentham/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bentham\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/bentham/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [Bentham Project](https://www.ucl.ac.uk/bentham-project), University College London.
-* [*Journal of Bentham Studies*](https://uclpress.scienceopen.com/collection/d9fd23f6-7bde-4c1d-bfb4-052943bdf955)
+* [_Journal of Bentham Studies_](https://uclpress.scienceopen.com/collection/d9fd23f6-7bde-4c1d-bfb4-052943bdf955)
 * [Centre Bentham](http://www.centrebentham.fr/)
 * [Utilitarianism, website written by William MacAskill, Richard Yetter Chappell, and Darius Meissner.](http://www.utilitarianism.net/)
 
 ## Related Entries
 
-[consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [economics: philosophy of](https://plato.stanford.edu/entries/economics/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [hedonism](https://plato.stanford.edu/entries/hedonism/) | [Mill, James](https://plato.stanford.edu/entries/james-mill/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [Mill, John Stuart: moral and political philosophy](https://plato.stanford.edu/entries/mill-moral-political/) | [pleasure](https://plato.stanford.edu/entries/pleasure/) | [punishment, legal](https://plato.stanford.edu/entries/legal-punishment/) | [sovereignty](https://plato.stanford.edu/entries/sovereignty/) | [utilitarianism: history of](https://plato.stanford.edu/entries/utilitarianism-history/)
+[consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [economics: philosophy of](https://plato.stanford.edu/entries/economics/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [hedonism](https://plato.stanford.edu/entries/hedonism/) | [Mill, James](https://plato.stanford.edu/entries/james-mill/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [Mill, John Stuart: moral and political philosophy](https://plato.stanford.edu/entries/mill-moral-political/) | [pleasure](https://plato.stanford.edu/entries/pleasure/) | [punishment, legal](https://plato.stanford.edu/entries/legal-punishment/) | [sovereignty](https://plato.stanford.edu/entries/sovereignty/) | [utilitarianism: history of](https://plato.stanford.edu/entries/utilitarianism-history/)
 
 ### Acknowledgments
 
 Michael Quinn and David Lieberman, generous and wise colleagues, gave careful attention to an earlier draft of this article and I am greatly indebted to them for the important improvements they recommended. I am also grateful to the SEP’s anonymous reviewer for correcting stylistic infelicities in the article.
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-James E. Crimmins <[*jcrimmin@uwo.ca*](mailto:jcrimmin%40uwo%2eca)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+James E. Crimmins <[_jcrimmin@uwo.ca_](mailto:jcrimmin%40uwo%2eca)>
