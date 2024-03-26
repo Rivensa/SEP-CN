@@ -5,7 +5,7 @@
 
 本书目录：<https://github.com/taophilosophy/SEP-CN/blob/main/SUMMARY.md>
 
-在线预览地址：<https://dao-chang-zhe-xue-yan-tao-hui.gitbook.io/sep/>
+在线预览地址：<https://tphil.gitbook.io/sep/>
 
 ## 词条说明
 
