@@ -1,6 +1,6 @@
 # 约瑟夫·巴特勒的伦理学 moral philosophy (Aaron Garrett)
 
-*首次发表于 2012 年 10 月 17 日星期三；实质性修订于 2023 年 11 月 27 日星期一*
+_首次发表于 2012 年 10 月 17 日星期三；实质性修订于 2023 年 11 月 27 日星期一_
 
 约瑟夫·巴特勒以批评与霍布斯和伯纳德·曼德维尔相关的享乐主义和利己主义“自私”理论而闻名，以及他积极主张自爱和良心并不矛盾，如果正确理解的论点（实际上促进并支持相同的行动）。除了作为道德哲学家的重要性外，巴特勒还是一位有影响力的英国圣公会神学家。毫不奇怪，他的神学和哲学是相互联系的 - 他在道德哲学方面的主要著作是发表的布道、一部自然神学著作以及附属于该著作的简短论文。尽管巴特勒的大部分道德论点充分利用了经文和熟悉的基督教故事和概念，但它们很少提到 - 并且很少依赖读者具有 - 任何特定的宗教承诺。实际上，他的许多论点并不依赖于读者具有任何宗教承诺。他的《宗教类比》旨在说服自然神学和启示神学核心教义的自然神论者，但这一论点只假设了巴特勒与他们共享的前提。这导致他的哲学对世俗和基督教道德家都感兴趣，并引发了关于他的伦理学有多少和什么依赖于他的基督教承诺的讨论。
 
@@ -73,7 +73,7 @@ Butler 的解释者对于 Butler 关于人类本性的目的论和等级制度�
 
 这些错误与另一个错误有关：混淆了以自我幸福为对象的自爱原则与特定的激情和欲望。一旦我们认识到“饥饿和羞耻的痛苦，以及受人尊敬的喜悦，与世界上的任何东西一样都不是自爱”（第一讲，注 3）——它们是具有特定对象的特定激情和欲望——我们就会看到，从我们对自己的激情感到快乐以及它们是我们的激情这一事实，并不能得出我们是由自私原则引导的结论。激情确实会让我们感到快乐或不快乐。但我们对于自己感到快乐或不快乐的兴趣与特定的激情、它们的对象或由激情产生的快乐是不同的——尽管这可能是偏爱一种激情胜过另一种的理由。这与巴特勒的信念有关，即激情并不关心自身。它们有特定的目标，而自爱是我们对确保自己幸福的总体兴趣。
 
-像沙夫茨伯里和弗朗西斯·哈奇森一样，约瑟夫·巴特勒认为，人类有善意的动机是显而易见的，他认为这些善意的动机可以让我们感到幸福，并且与自身利益一致是显而易见的。自私理论的拥护者有责任提出令人信服的反驳。巴特勒比沙夫茨伯里更加强调例外情况，并强调它们是“自然地”一致的，即它们在我们的本性和事物的自然过程中是一致的，尽管其他人的不自然和放纵的行为可能会在局部干扰（*类比* III §5; §27）。他看到霍布斯将所有以他人为导向的动机（如同情）简化为自私动机的做法是为了出于理论原因否认一个显而易见的事实，即为了调和善意和同情与霍布斯对人性的一般假设。但一旦同情动机被重新解释为自私动机，对霍布斯来说是一种恐惧，它与被解释的术语的意义相冲突，甚至导致矛盾。例如：我们对朋友感到同情。如果同情是一种恐惧，那么我们会对朋友感到强烈的恐惧，这似乎与“同情”一词的约定用法相冲突。
+像沙夫茨伯里和弗朗西斯·哈奇森一样，约瑟夫·巴特勒认为，人类有善意的动机是显而易见的，他认为这些善意的动机可以让我们感到幸福，并且与自身利益一致是显而易见的。自私理论的拥护者有责任提出令人信服的反驳。巴特勒比沙夫茨伯里更加强调例外情况，并强调它们是“自然地”一致的，即它们在我们的本性和事物的自然过程中是一致的，尽管其他人的不自然和放纵的行为可能会在局部干扰（_类比_ III §5; §27）。他看到霍布斯将所有以他人为导向的动机（如同情）简化为自私动机的做法是为了出于理论原因否认一个显而易见的事实，即为了调和善意和同情与霍布斯对人性的一般假设。但一旦同情动机被重新解释为自私动机，对霍布斯来说是一种恐惧，它与被解释的术语的意义相冲突，甚至导致矛盾。例如：我们对朋友感到同情。如果同情是一种恐惧，那么我们会对朋友感到强烈的恐惧，这似乎与“同情”一词的约定用法相冲突。
 
 当然，并不否认人们出于自私、自我偏爱和混乱的自身利益而行动。自私和自我偏爱经常与善意的动机混合，从而产生善意甚至同情的行为（第五讲注 1）。与沙夫茨伯里和哈奇森不同，巴特勒强调人类经常出于混合和不透明的动机行动（将在第 6 节中讨论）。但混合动机的存在假定了与自私混合的非利己动机，而不是将所有动机简化为自私或自我偏爱。这也比霍布斯理论提出的更复杂的自私动机更简单。
 
@@ -119,13 +119,13 @@ Butler 的解释者对于 Butler 关于人类本性的目的论和等级制度�
 
 那么，鉴于人类极具自欺能力，如何才能防止自欺呢？试图防止自欺难道不会像其他任何事情一样容易自欺吗？巴特勒的答案是，习惯性和系统性的自我反省以及通过严格规则的自我管理是最佳应对方式。与爱比克泰德著名箴言相似，人必须警惕自己如同埋伏的敌人，并像敌人一样严厉地评判自己的行为，巴特勒建议了一个两部分的规则来达到这一目的：“一是，在审视自己的任何行为部分或考虑在任何场合做什么是适当、合适和理智的时候，用另一个人替代自己；另一部分是，你…认为自己是受到这种行为影响的人，”（第十讲 §15）。这个规则“本身可能被不诚实地应用”，但即使误导的尝试也可能比不应用它更能揭示真相。在《类比》中，巴特勒认为，这一生的中心道德目的之一是作为获得自我管理习惯的试用期（《类比》V）。这些习惯并非绝对可靠，这是因为我们认真将其应用于自己是我们最终受到惩罚和奖励的基础之一。
 
-自欺问题与约瑟夫·巴特勒另一个持久主题相联系，即人类对上帝更大设计的无知。在第十五讲“论人类无知”（尤其是系列的最后一讲）中，*类比*和“关于美德的论文”中，巴特勒强调我们对设计的了解充其量是可能的。第十五讲以一种令人想起洛克的劝诫结束。由于我们对天意和上帝设计的了解非常有限，我们应该把注意力转向我们可以了解的东西：我们的本性，因为它涉及我们的道德管理和行为。
+自欺问题与约瑟夫·巴特勒另一个持久主题相联系，即人类对上帝更大设计的无知。在第十五讲“论人类无知”（尤其是系列的最后一讲）中，_类比_和“关于美德的论文”中，巴特勒强调我们对设计的了解充其量是可能的。第十五讲以一种令人想起洛克的劝诫结束。由于我们对天意和上帝设计的了解非常有限，我们应该把注意力转向我们可以了解的东西：我们的本性，因为它涉及我们的道德管理和行为。
 
-*类比*和“关于美德的论文”的论点都是基于这一点。在*类比*中，巴特勒认为我们有可能的证据表明我们的道德正确和错误的行为将受到上帝的审判和奖惩，并且这一生是一个我们以最终会受到审判的方式行事的试用期。
+_类比_和“关于美德的论文”的论点都是基于这一点。在_类比_中，巴特勒认为我们有可能的证据表明我们的道德正确和错误的行为将受到上帝的审判和奖惩，并且这一生是一个我们以最终会受到审判的方式行事的试用期。
 
 ## 8. Influence
 
-巴特勒的布道在十八世纪被阅读，特别是在*类比*出版后，并经历了多次版本。*类比*在十八和十九世纪多次重印，巴特勒的作品也是如此。他最初的影响似乎对苏格兰哲学家影响最大，包括（也许）他的同时代人弗朗西斯·哈奇森、乔治·特恩布尔、大卫·福尔代斯、大卫·休谟、亚当·斯密、托马斯·里德及其同道 — 尤其是埃德蒙·伯克。休谟试图会见巴特勒，并修改了他赠送给他的《人性论》手稿副本，以免引起冒犯。休谟和斯密对同情、怜悯、愤怒、正义的描述，以及他们对道德心理学的经验态度（以及道德心理学对伦理学的核心地位）和道德解释的局限性都受到巴特勒的影响。休谟在他的《人性论》中对归纳的讨论也被视为对*类比*中巴特勒的做法的批评（Russell 2008）。巴特勒在德国也广受欢迎。例如，所罗门·迈蒙在他的《自传》序言中引用了巴特勒的“关于美德的论文”。在十九世纪末和二十世纪初，巴特勒的*布道*比*类比*更具影响力，这要归功于它们在牛津和剑桥以及特别是在威廉·惠威尔（见 Tennant 195–199）和西奇威克身上的影响。在十九世纪后期和二十世纪，它们被许多英美传统中心道德哲学家讨论，并对许多人产生了巨大影响 — 如 G·E·摩尔、H·A·普里查德，尤其是 W·D·罗斯。巴特勒的影响和重要性一直存在（例如，在关于[宽恕](https://plato.stanford.edu/entries/forgiveness/index.html#ButlAcco)条目中关于巴特勒的描述）。
+巴特勒的布道在十八世纪被阅读，特别是在_类比_出版后，并经历了多次版本。_类比_在十八和十九世纪多次重印，巴特勒的作品也是如此。他最初的影响似乎对苏格兰哲学家影响最大，包括（也许）他的同时代人弗朗西斯·哈奇森、乔治·特恩布尔、大卫·福尔代斯、大卫·休谟、亚当·斯密、托马斯·里德及其同道 — 尤其是埃德蒙·伯克。休谟试图会见巴特勒，并修改了他赠送给他的《人性论》手稿副本，以免引起冒犯。休谟和斯密对同情、怜悯、愤怒、正义的描述，以及他们对道德心理学的经验态度（以及道德心理学对伦理学的核心地位）和道德解释的局限性都受到巴特勒的影响。休谟在他的《人性论》中对归纳的讨论也被视为对_类比_中巴特勒的做法的批评（Russell 2008）。巴特勒在德国也广受欢迎。例如，所罗门·迈蒙在他的《自传》序言中引用了巴特勒的“关于美德的论文”。在十九世纪末和二十世纪初，巴特勒的_布道_比_类比_更具影响力，这要归功于它们在牛津和剑桥以及特别是在威廉·惠威尔（见 Tennant 195–199）和西奇威克身上的影响。在十九世纪后期和二十世纪，它们被许多英美传统中心道德哲学家讨论，并对许多人产生了巨大影响 — 如 G·E·摩尔、H·A·普里查德，尤其是 W·D·罗斯。巴特勒的影响和重要性一直存在（例如，在关于[宽恕](https://plato.stanford.edu/entries/forgiveness/index.html#ButlAcco)条目中关于巴特勒的描述）。
 
 ## Bibliography
 
@@ -133,55 +133,55 @@ Butler 的解释者对于 Butler 关于人类本性的目的论和等级制度�
 
 There is currently no up to date, complete, critical edition of Butler’s works. The relevant editions of Butler’s works discussed in this article are:
 
-* Butler, J. and Clarke, S., 1716, *Several Letters from a Gentleman in Glocestershire*, London, J. Knapton.
-* Butler, J., 1726, *Fifteen Sermons Preached at the Rolls Chapel*, London: J. and J. Knapton.
-* Butler, J., 1729, *Fifteen Sermons Preached at Rolls Chapel*, London: J. and J. Knapton, 2nd edition. \[Revised and with the addition of a “Preface”.]
-* Butler, J., 1736, *The Analogy of Religion, Natural and Revealed, to the Constitution and Course of Nature*, London: J. and P. Knapton, 2nd corrected edition. \[This was the corrected edition that appeared in the same year as the initial imprint. The two dissertations — “Of Personal Identity” and “Of the Nature of Virtue” were appended to it.]
-* Butler, J., 1749, *Fifteen Sermons Preached at the Rolls Chapel… To which are added Six Sermons, Preached on Publick Occasions*, London: J. and P. Knapton, 4th edition. \[This edition marked the appearance of the Six Sermons.]
+* Butler, J. and Clarke, S., 1716, _Several Letters from a Gentleman in Glocestershire_, London, J. Knapton.
+* Butler, J., 1726, _Fifteen Sermons Preached at the Rolls Chapel_, London: J. and J. Knapton.
+* Butler, J., 1729, _Fifteen Sermons Preached at Rolls Chapel_, London: J. and J. Knapton, 2nd edition. \[Revised and with the addition of a “Preface”.]
+* Butler, J., 1736, _The Analogy of Religion, Natural and Revealed, to the Constitution and Course of Nature_, London: J. and P. Knapton, 2nd corrected edition. \[This was the corrected edition that appeared in the same year as the initial imprint. The two dissertations — “Of Personal Identity” and “Of the Nature of Virtue” were appended to it.]
+* Butler, J., 1749, _Fifteen Sermons Preached at the Rolls Chapel… To which are added Six Sermons, Preached on Publick Occasions_, London: J. and P. Knapton, 4th edition. \[This edition marked the appearance of the Six Sermons.]
 
 I have cited these works from the most complete current edition, although the citations should allow for passages to be easily identified in other editions:
 
-* White, D. (ed.), 2006, *The Works of Bishop Butler*, Rochester, NY: University of Rochester Press.
+* White, D. (ed.), 2006, _The Works of Bishop Butler_, Rochester, NY: University of Rochester Press.
 
-I have cited the “Preface” to the 2nd edition of the Sermons as “Preface,” the Sermons by number (i.e. “Sermon VI”), the “Introduction” to the *Analogy of Religion* as “Introduction,” the main contents of the work by “Analogy” and chapter, the Dissertation of Virtue as “Dissertation,” the Six Sermons as “Six Sermons” and the Clarke/Butler correspondence as “Clarke/Butler.” All references are by paragraph, corresponding to the paragraphs in the White edition above.
+I have cited the “Preface” to the 2nd edition of the Sermons as “Preface,” the Sermons by number (i.e. “Sermon VI”), the “Introduction” to the _Analogy of Religion_ as “Introduction,” the main contents of the work by “Analogy” and chapter, the Dissertation of Virtue as “Dissertation,” the Six Sermons as “Six Sermons” and the Clarke/Butler correspondence as “Clarke/Butler.” All references are by paragraph, corresponding to the paragraphs in the White edition above.
 
-There is now an excellent and extremely informative reader’s edition of Butler’s *Sermons* and *Dissertation on Virtue* with the addition of *A Sermon Preached Before the House of Lords* and a selection from Butler’s correspondence with Clarke:
+There is now an excellent and extremely informative reader’s edition of Butler’s _Sermons_ and _Dissertation on Virtue_ with the addition of _A Sermon Preached Before the House of Lords_ and a selection from Butler’s correspondence with Clarke:
 
-* McNaughton, D. (ed.), 2017, *Joseph Butler*: *Fifteen Sermons & other writings on ethics*, Oxford: Oxford University Press.
+* McNaughton, D. (ed.), 2017, _Joseph Butler_: _Fifteen Sermons & other writings on ethics_, Oxford: Oxford University Press.
 
 ### Secondary Literature
 
-* Broad, C. D, 1930, *Five Types of Ethical Theory*, London: Kegan Paul.
-* Clarke, S., 1706, *A Discourse Concerning the Unchangeable Obligations of Natural Religion, and the Truth and Certainty of Christian Revelation*, London: J. Knapton.
-* Cunliffe, C., (ed.), 1992, *Joseph Butler’s Moral and Religious Thought: Tercentenary Essays*, Oxford: Oxford University Press.
-* –––, 2008, “Butler, Joseph (1692–1752),” in the *Oxford Dictionary of National Biography*, Oxford: Oxford University Press.
+* Broad, C. D, 1930, _Five Types of Ethical Theory_, London: Kegan Paul.
+* Clarke, S., 1706, _A Discourse Concerning the Unchangeable Obligations of Natural Religion, and the Truth and Certainty of Christian Revelation_, London: J. Knapton.
+* Cunliffe, C., (ed.), 1992, _Joseph Butler’s Moral and Religious Thought: Tercentenary Essays_, Oxford: Oxford University Press.
+* –––, 2008, “Butler, Joseph (1692–1752),” in the _Oxford Dictionary of National Biography_, Oxford: Oxford University Press.
 * Darwall, S., 1992, “Conscience as Self-Authorizing in Butler’s Ethics,” in C. Cunliffe (ed.) 1992, pp. 209–241.
-* –––, 1995, *The British Moralists and the Internal ‘Ought’: 1640–1740*, Oxford: Oxford University Press.
-* Dick, David, 2017, “Constitutivism, Error, and Moral Responsibility in Bishop Butler’s Ethics,” *Southern Journal of Philosophy*, 55(4): 415–438.
+* –––, 1995, _The British Moralists and the Internal ‘Ought’: 1640–1740_, Oxford: Oxford University Press.
+* Dick, David, 2017, “Constitutivism, Error, and Moral Responsibility in Bishop Butler’s Ethics,” _Southern Journal of Philosophy_, 55(4): 415–438.
 * Frey, R. G., 1992, “Butler on Self-Love and Benevolence,” in C. Cunliffe (ed.), 1992, pp. 243–68.
-* Garcia, Ernesto V., 2011, “Bishop Butler on Forgiveness and Resentment,” *Philosophers’ Imprint*, 11(10): 1–19.
-* Garrett, A., 2012, “Reasoning about morals from Butler to Hume,” in Ruth Savage, (ed.), *Philosophy and Religion in Enlightenment Britain*, Oxford: Oxford University Press, pp. 169–186.
-* –––, 2019, “The History of the History of Ethics and Emblematic Passages,” in I. Hunter and R. Whatmore (eds.), *Philosophy, Rights, and Natural Law: Essays in Honour of Knud Haakonssen*, Edinburgh: Edinburgh University Press.
-* Griswold, C., 2007, *Forgiveness*, Cambridge: Cambridge University Press, I.ii.
-* Henson, R., 1988, “Butler on Selfishness and Self-Love,” *Philosophy and Phenomenological Research*, 49(1): 31–57.
-* Irwin, T. H., 2008, *The Development of Ethics: Volume II: From Suarez to Rousseau*, Oxford: Oxford University Press, pp. 476–557.
-* Louden, R., 1995, “Butler’s Divine Utilitarianism,” *History of Philosophy Quarterly*, 12(3): 265–280.
-* Maurer, C., 2019, *Self-love, Egoism and the Selfish Hypothesis: Key Debates from Eighteenth-Century British Moral Philosophy*, Edinburgh: Edinburgh University Press.
+* Garcia, Ernesto V., 2011, “Bishop Butler on Forgiveness and Resentment,” _Philosophers’ Imprint_, 11(10): 1–19.
+* Garrett, A., 2012, “Reasoning about morals from Butler to Hume,” in Ruth Savage, (ed.), _Philosophy and Religion in Enlightenment Britain_, Oxford: Oxford University Press, pp. 169–186.
+* –––, 2019, “The History of the History of Ethics and Emblematic Passages,” in I. Hunter and R. Whatmore (eds.), _Philosophy, Rights, and Natural Law: Essays in Honour of Knud Haakonssen_, Edinburgh: Edinburgh University Press.
+* Griswold, C., 2007, _Forgiveness_, Cambridge: Cambridge University Press, I.ii.
+* Henson, R., 1988, “Butler on Selfishness and Self-Love,” _Philosophy and Phenomenological Research_, 49(1): 31–57.
+* Irwin, T. H., 2008, _The Development of Ethics: Volume II: From Suarez to Rousseau_, Oxford: Oxford University Press, pp. 476–557.
+* Louden, R., 1995, “Butler’s Divine Utilitarianism,” _History of Philosophy Quarterly_, 12(3): 265–280.
+* Maurer, C., 2019, _Self-love, Egoism and the Selfish Hypothesis: Key Debates from Eighteenth-Century British Moral Philosophy_, Edinburgh: Edinburgh University Press.
 * McNaughton, D., 1992, “Butler on Benevolence,” in C. Cunliffe (ed.), 1992, pp. 269–291.
-* –––, 2013, “Butler’s Ethics” in Crisp, Roger, (ed.), *The* *Oxford Handbook of the History of Ethics*, Oxford: Oxford University Press, pp. 377–392.
-* McPherson, T. H., 1948, “The Development of Bishop Butler’s Ethics — Part I,” *Philosophy*, 23(87): 317–331.
-* –––, 1949, “The Development of Bishop Butler’s Ethics – Part II,” *Philosophy*, 24(88): 3–22.
-* Penelhum, T., 1986, *Butler*, Boston: Routledge and Kegan Paul.
+* –––, 2013, “Butler’s Ethics” in Crisp, Roger, (ed.), _The_ _Oxford Handbook of the History of Ethics_, Oxford: Oxford University Press, pp. 377–392.
+* McPherson, T. H., 1948, “The Development of Bishop Butler’s Ethics — Part I,” _Philosophy_, 23(87): 317–331.
+* –––, 1949, “The Development of Bishop Butler’s Ethics – Part II,” _Philosophy_, 24(88): 3–22.
+* Penelhum, T., 1986, _Butler_, Boston: Routledge and Kegan Paul.
 * –––, 1992, “Butler and Human Ignorance,” in C. Cunliffe (ed.), 1992, pp. 117–40.
-* Radzik, L., 2014, “Joseph Butler on Forgiveness,” in Johannes Brachtendorf and Stephan Herzberg (eds.), *Vergebung: Philosophische Perspektiven auf ein Problemfeld der Ethik*, Munster: Mentis, pp. 139–147.
-* Rorty, A., 1978, “Butler on Benevolence and Conscience,” *Philosophy*, 53(204): 171–184.
-* Russell, P., 2008, *The Riddle of Hume’s Treatise: Skepticism, Naturalism, and Irreligion*, Oxford: Oxford University Press.
-* Shaftesbury, Lord (Anthony Ashley Cooper), 1711, *Characteristicks*, in Den Uyl, D., (ed.), *Anthony, Third Earl of Shaftesbury: Characteristicks of Men, Manners, Opinions, Times,* Indianapolis: Liberty Fund, 2001, 3 volumes.
-* Sidgwick, H., 1901, *Methods of Ethics*, London: Macmillan, 6th ed.
-* Sober, E., 1992, “Hedonism and Butler’s Stone,” *Ethics*, 103(1): 97–103.
-* Tennant, B., 2011, *Conscience, Consciousness, and Ethics in Joseph Butler’s Philosophy and Ministry*, Suffolk: Boydell & Brewer.
-* Tilley, J., 2018, “Butler’s Stone,” *Pacific Philosophical Quarterly*, 99(4): 891–909.
-* Wedgwood, R., 2008, “Butler on Virtue, Self-Interest and Human Nature,” in Paul Bloomfield (ed.), *Morality and Self-Interest*, Oxford: Oxford University Press, pp. 177–204.
+* Radzik, L., 2014, “Joseph Butler on Forgiveness,” in Johannes Brachtendorf and Stephan Herzberg (eds.), _Vergebung: Philosophische Perspektiven auf ein Problemfeld der Ethik_, Munster: Mentis, pp. 139–147.
+* Rorty, A., 1978, “Butler on Benevolence and Conscience,” _Philosophy_, 53(204): 171–184.
+* Russell, P., 2008, _The Riddle of Hume’s Treatise: Skepticism, Naturalism, and Irreligion_, Oxford: Oxford University Press.
+* Shaftesbury, Lord (Anthony Ashley Cooper), 1711, _Characteristicks_, in Den Uyl, D., (ed.), _Anthony, Third Earl of Shaftesbury: Characteristicks of Men, Manners, Opinions, Times,_ Indianapolis: Liberty Fund, 2001, 3 volumes.
+* Sidgwick, H., 1901, _Methods of Ethics_, London: Macmillan, 6th ed.
+* Sober, E., 1992, “Hedonism and Butler’s Stone,” _Ethics_, 103(1): 97–103.
+* Tennant, B., 2011, _Conscience, Consciousness, and Ethics in Joseph Butler’s Philosophy and Ministry_, Suffolk: Boydell & Brewer.
+* Tilley, J., 2018, “Butler’s Stone,” _Pacific Philosophical Quarterly_, 99(4): 891–909.
+* Wedgwood, R., 2008, “Butler on Virtue, Self-Interest and Human Nature,” in Paul Bloomfield (ed.), _Morality and Self-Interest_, Oxford: Oxford University Press, pp. 177–204.
 
 ## Academic Tools
 
@@ -204,4 +204,4 @@ There is now an excellent and extremely informative reader’s edition of Butler
 Thanks to Ian Blaustein, Roger Crisp, Charles Griswold, Knud Haakonssen, James Harris, Colin Heydt, David McNaughton, Amelie Rorty, Daniel Star, and Bob Tennant for extremely helpful comments and suggestions. Thanks to Stephen Darwall for suggesting the article, to Ray Frey for initiating my interest in Butler, and to the students in my Butler seminar for helping me think through the issues discussed in the article.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Aaron Garrett <[*garrett@bu.edu*](mailto:garrett%40bu%2eedu)>
+Aaron Garrett <[_garrett@bu.edu_](mailto:garrett%40bu%2eedu)>

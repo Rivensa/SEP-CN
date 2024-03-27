@@ -1,6 +1,6 @@
 # 勒伊岑·艾赫贝特斯·扬·布劳威尔 Brouwer, Luitzen Egbertus Jan (Mark van Atten)
 
-*首次发表于 2003 年 3 月 26 日星期三；实质性修订于 2020 年 2 月 26 日星期三*
+_首次发表于 2003 年 3 月 26 日星期三；实质性修订于 2020 年 2 月 26 日星期三_
 
 荷兰数学家和哲学家，生于 1881 年，卒于 1966 年。他传统上被称为“L.E.J.布劳威尔”，全名缩写，但朋友们称他为“Bertus”。
 
@@ -23,15 +23,15 @@
 
 布劳威尔在阿姆斯特丹市立大学学习，他最重要的导师是迪德里克·科特韦赫和格里特·曼努里。
 
-科特韦赫（1848–1941）是阿姆斯特丹大学的数学、力学和天文学教授，任职时间为 1881 年至 1918 年；最后五年担任*extraordinarius*，以便为布劳威尔腾出位置。1900 年左右，科特韦赫是荷兰最重要和最有影响力的数学家，他为荷兰数学的国际化做出了很大贡献。作为范德瓦尔斯培训的数学物理学家，他对力学和热力学特别感兴趣。在他的许多成果中，最著名的可能是描述浅沟渠中波浪行为的科特韦赫-德弗里斯方程。科特韦赫还对历史有浓厚兴趣，曾担任克里斯蒂安·惠更斯（Christiaan Huygens）的第十一至十五卷集的主编（1908 年至 1925 年）。他与博士生布劳威尔的部分通信涉及物理理论的统一（参见 van Stigt，1990 年，第 490–498 页）。
+科特韦赫（1848–1941）是阿姆斯特丹大学的数学、力学和天文学教授，任职时间为 1881 年至 1918 年；最后五年担任_extraordinarius_，以便为布劳威尔腾出位置。1900 年左右，科特韦赫是荷兰最重要和最有影响力的数学家，他为荷兰数学的国际化做出了很大贡献。作为范德瓦尔斯培训的数学物理学家，他对力学和热力学特别感兴趣。在他的许多成果中，最著名的可能是描述浅沟渠中波浪行为的科特韦赫-德弗里斯方程。科特韦赫还对历史有浓厚兴趣，曾担任克里斯蒂安·惠更斯（Christiaan Huygens）的第十一至十五卷集的主编（1908 年至 1925 年）。他与博士生布劳威尔的部分通信涉及物理理论的统一（参见 van Stigt，1990 年，第 490–498 页）。
 
-曼努里（1867–1956）是一位哲学家、数学家、精神分析师、会计师和政治活动家（Kirkels，2019）。他基本上是个自学成才的人，正是他在荷兰引入了拓扑学（在 1897 年至 1900 年的一系列论文中）和皮亚诺的符号逻辑（在 1903 年的一次讲座中）。1903 年，他被任命为阿姆斯特丹大学数学逻辑基础的*privaatdocent*（无酬讲师），布劳威尔是他的第一批也是最热心的学生之一。他的讲座已经以缩短和修订形式出版，见 Mannoury，1909 年。但是曼努里早期的拓扑论文对年轻的布劳威尔产生了决定性影响：“那项工作的‘基调’，布劳威尔在 1946 年的一次演讲中说，已经改变了他对数学的看法，从一个“以其不可动摇的吸引力而令人震惊，但以其死寂而令人恐惧的真理集合，就像来自绝望无垠的贫瘠山脉的石头”到关注“是如何‘建立…由我们思维的结构要素构成’”（Brouwer，1946B，第 192–193 页）。布劳威尔也对曼努里在数学和哲学中语言使用的利弊反思非常感兴趣。1917 年，曼努里成为阿姆斯特丹大学的*extraordinarius*教授，1918 年至 1937 年担任解析和描述几何学、力学和数学哲学讲座的*ordinarius*教授，接替了科特韦赫。他的职业生涯的很大一部分致力于推动*significs*的发展，这是从维多利亚·韦尔比夫人在她的论文“Sense, Meaning and Interpretation”（1896 年）中提出的观念出发对交际行为进行分析。布劳威尔也参与了这个项目。
+曼努里（1867–1956）是一位哲学家、数学家、精神分析师、会计师和政治活动家（Kirkels，2019）。他基本上是个自学成才的人，正是他在荷兰引入了拓扑学（在 1897 年至 1900 年的一系列论文中）和皮亚诺的符号逻辑（在 1903 年的一次讲座中）。1903 年，他被任命为阿姆斯特丹大学数学逻辑基础的_privaatdocent_（无酬讲师），布劳威尔是他的第一批也是最热心的学生之一。他的讲座已经以缩短和修订形式出版，见 Mannoury，1909 年。但是曼努里早期的拓扑论文对年轻的布劳威尔产生了决定性影响：“那项工作的‘基调’，布劳威尔在 1946 年的一次演讲中说，已经改变了他对数学的看法，从一个“以其不可动摇的吸引力而令人震惊，但以其死寂而令人恐惧的真理集合，就像来自绝望无垠的贫瘠山脉的石头”到关注“是如何‘建立…由我们思维的结构要素构成’”（Brouwer，1946B，第 192–193 页）。布劳威尔也对曼努里在数学和哲学中语言使用的利弊反思非常感兴趣。1917 年，曼努里成为阿姆斯特丹大学的_extraordinarius_教授，1918 年至 1937 年担任解析和描述几何学、力学和数学哲学讲座的_ordinarius_教授，接替了科特韦赫。他的职业生涯的很大一部分致力于推动_significs_的发展，这是从维多利亚·韦尔比夫人在她的论文“Sense, Meaning and Interpretation”（1896 年）中提出的观念出发对交际行为进行分析。布劳威尔也参与了这个项目。
 
 勒伊岑·艾赫贝特斯·扬·布劳威尔的主要（直觉主义）学生是莫里茨·贝林方特（Maurits Belinfante）、阿伦德·海廷（Arend Heyting）和约翰·德·永（Johan de Iongh）；海廷又是安妮·特罗尔斯特拉（Anne Troelstra）和德克·范·达伦（Dirk van Dalen）的老师，而永是温·费尔德曼（Wim Veldman）的老师。勒伊岑·布劳威尔的课堂还有马克斯·欧威（Max Euwe）参加，后来成为世界国际象棋冠军，他从直觉主义的角度发表了一篇关于国际象棋的博弈论文（Euwe，1929 年），并且在很多年后发表了勒伊岑·布劳威尔的追悼演讲。在勒伊岑·布劳威尔的助手中有海廷、汉斯·弗洛伊登塔尔（Hans Freudenthal）、卡尔·门格尔（Karl Menger）和维托尔德·胡雷维奇（Witold Hurewicz），后两者并不倾向于直觉主义。当时在荷兰以外最有影响力支持勒伊岑·布劳威尔直觉主义的人是赫尔曼·维尔（Hermann Weyl）（他对直觉主义分析的改编并不完全一致）；此外，胡塞尔的学生奥斯卡·贝克尔（Oskar Becker）也值得一提。
 
 布劳威尔似乎是一个独立而聪明、道德标准高的人，但对正义感有过分的追求，使他有时好斗。因此，在他的一生中，他积极参与了许多战斗。对曼努里的女儿，布劳威尔曾说：“事实上，你的父亲是我从未与之争吵过的少数几个人之一。但他唤起了人们的善良，而我唤起了人们的恶”（Schmitz，1990 年，第 383 页）。
 
-从 1914 年到 1928 年，布劳威尔是《数学年刊》（*Mathematische Annalen*）编辑委员会成员，并且是《组合数学》（*Compositio Mathematica*）的创始编辑，该刊于 1934 年首次出版。
+从 1914 年到 1928 年，布劳威尔是《数学年刊》（_Mathematische Annalen_）编辑委员会成员，并且是《组合数学》（_Compositio Mathematica_）的创始编辑，该刊于 1934 年首次出版。
 
 他是荷兰皇家科学院、伦敦皇家学会、柏林普鲁士科学院和哥廷根科学院的成员之一。
 
@@ -43,7 +43,7 @@
 
 **1897** 进入阿姆斯特丹大学学习数学和物理。
 
-**1904** 获得数学*doctorandus*学位（理学硕士学位）；第一篇出版物（关于四维空间中的旋转）；与 Lize de Holl（1870 年出生）结婚。他们没有孩子，但 Lize 有一个来自早前婚姻的女儿。他们搬到了阿姆斯特丹附近的 Blaricum，那里是他们余生的居住地，尽管他们也在其他地方有房子。
+**1904** 获得数学_doctorandus_学位（理学硕士学位）；第一篇出版物（关于四维空间中的旋转）；与 Lize de Holl（1870 年出生）结婚。他们没有孩子，但 Lize 有一个来自早前婚姻的女儿。他们搬到了阿姆斯特丹附近的 Blaricum，那里是他们余生的居住地，尽管他们也在其他地方有房子。
 
 **1904–1907** 博士研究。他的数学和哲学笔记本朝着他的论文显示出明显的影响，尤其是来自康托尔、希尔伯特、罗素、庞加莱和库图拉。他意识到弗雷格-希尔伯特辩论，并在这个问题上站在弗雷格一边。一些言论透露出一种反犹太主义的形式，不幸的是，当时经常出现在语言中，作为一种普遍偏见的编码；偶尔的言论进一步将犹太人与日耳曼人不利地对比。在他的生活中的其他时期没有人知道有这样的言论；还请参阅下面 1934–1935 和 1940–1945 的条目。这种短暂的反犹太主义与他在论文中阐述并在其余生活中发展的数学、语言和社会的哲学观点之间没有实质性的联系。
 
@@ -53,7 +53,7 @@
 
 **1909–1913** 在一个非常富有成效的四年里，勒伊岑·艾赫贝特斯·扬·布劳威尔创立了现代拓扑学，作为古典数学的一个章节。亮点：维度不变性，不动点定理，映射度，维度的定义。正如范·达伦（2005 年，第 450 页）所观察到的，布劳威尔对维度的定义似乎是对归纳定义的首次重述，就像是一场游戏。他直觉主义计划中的一次暂停。
 
-**1909** 在阿姆斯特丹大学成为一名*privaatdocent*（无酬讲师）。就职演讲题目为“几何的本质”。
+**1909** 在阿姆斯特丹大学成为一名_privaatdocent_（无酬讲师）。就职演讲题目为“几何的本质”。
 
 **1909** 在荷兰海滨度假胜地斯海文宁根与希尔伯特相遇。布劳威尔非常钦佩希尔伯特，并在写给朋友的一封信中将他们的会面描述为“我生活中美丽的新光芒”（布劳威尔和阿达玛·范·舍尔特马，1984 年，第 100 页）。二十年后，布劳威尔与希尔伯特的关系变得紧张。
 
@@ -61,9 +61,9 @@
 
 **1912** 当选为皇家科学院院士（在第二次世界大战期间称为“荷兰科学院”，之后称为“荷兰皇家科学院”）。
 
-**1912** 被任命为集合论、函数论和公理论领域的全职教授（*extraordinarius*）。他的哲学就职演讲“直觉主义和形式主义”被翻译成英文为“Intuitionism and Formalism”，因此在 1913 年成为该语言中关于直觉主义的第一篇出版物。
+**1912** 被任命为集合论、函数论和公理论领域的全职教授（_extraordinarius_）。他的哲学就职演讲“直觉主义和形式主义”被翻译成英文为“Intuitionism and Formalism”，因此在 1913 年成为该语言中关于直觉主义的第一篇出版物。
 
-**1913** 被任命为全职教授*ordinarius*，接替了慷慨地提议让位的科特韦赫。
+**1913** 被任命为全职教授_ordinarius_，接替了慷慨地提议让位的科特韦赫。
 
 **1914** 受邀加入《数学年刊》编辑委员会；接受这一荣誉。
 
@@ -87,7 +87,7 @@
 
 **1928** 年：博洛尼亚会议引发冲突。自第一次世界大战结束以来，德国数学家再次被允许参加国际会议，但并非完全平等。布劳威尔坚持认为这不公平，因此主张抵制会议。希尔伯特不赞同这一观点，对布劳威尔的行动感到非常懊恼，并作为德国代表团领导出席会议，是当时规模最大的代表团。
 
-**1928–1929** “Mathematische Annalenstreit”，发生在*Mathematische Annalen*编辑委员会中的冲突。希尔伯特认为自己即将去世，感到有必要确保在他去世后，勒伊岑·艾赫贝特斯·扬·布劳威尔不会变得太有影响力，并以非法方式将他从委员会中驱逐出去。（希尔伯特的动机如此描述，已在他亲近的人的信件中有所记载：卡拉泰奥多里致爱因斯坦，1928 年 10 月 20 日；布卢门塔尔致*Mathematische Annalen*的出版商和编辑，1928 年 11 月 16 日；伯恩致爱因斯坦，1928 年 11 月 20 日。这些信件的副本存放在哈勒姆的北荷兰档案馆的布劳威尔文件中。这些信件中的相关引文可在范·达伦，2005 年，第 604 页和第 613 页找到。）爱因斯坦，也是委员会成员，拒绝支持希尔伯特的行动，不愿与整个事件扯上任何关系；大多数其他委员会成员也不愿因反对他而惹恼希尔伯特。布劳威尔强烈抗议。最终，整个委员会被解散，并立即重新组建，没有布劳威尔，规模大大缩小（特别是爱因斯坦和卡拉泰奥多里拒绝参加）。这场冲突使布劳威尔精神崩溃和孤立，结束了他工作中非常富有创造力的十年。现在，两位主要竞争者不再能继续下去，这场“Grundlagenstreit”结束了。
+**1928–1929** “Mathematische Annalenstreit”，发生在_Mathematische Annalen_编辑委员会中的冲突。希尔伯特认为自己即将去世，感到有必要确保在他去世后，勒伊岑·艾赫贝特斯·扬·布劳威尔不会变得太有影响力，并以非法方式将他从委员会中驱逐出去。（希尔伯特的动机如此描述，已在他亲近的人的信件中有所记载：卡拉泰奥多里致爱因斯坦，1928 年 10 月 20 日；布卢门塔尔致_Mathematische Annalen_的出版商和编辑，1928 年 11 月 16 日；伯恩致爱因斯坦，1928 年 11 月 20 日。这些信件的副本存放在哈勒姆的北荷兰档案馆的布劳威尔文件中。这些信件中的相关引文可在范·达伦，2005 年，第 604 页和第 613 页找到。）爱因斯坦，也是委员会成员，拒绝支持希尔伯特的行动，不愿与整个事件扯上任何关系；大多数其他委员会成员也不愿因反对他而惹恼希尔伯特。布劳威尔强烈抗议。最终，整个委员会被解散，并立即重新组建，没有布劳威尔，规模大大缩小（特别是爱因斯坦和卡拉泰奥多里拒绝参加）。这场冲突使布劳威尔精神崩溃和孤立，结束了他工作中非常富有创造力的十年。现在，两位主要竞争者不再能继续下去，这场“Grundlagenstreit”结束了。
 
 **1928–1930** 与卡尔·门格尔就首个正确定义维度概念的优先权发生冲突。
 
@@ -95,11 +95,11 @@
 
 **1929** 开始筹备创办一份新的数学期刊。
 
-**1934** 布劳威尔自己的国际期刊第一期问世，名为*Compositio Mathematica*。
+**1934** 布劳威尔自己的国际期刊第一期问世，名为_Compositio Mathematica_。
 
 **1934** 在费迪南德·贡瑟特的邀请下在日内瓦举办讲座系列。在哥廷根筹划直觉主义数学课程的计划进展顺利，但最终未能实现。
 
-**1934–1935** 勒伊岑·艾赫贝特斯·扬·布劳威尔，一位德国《*Compositio Mathematica*》编辑委员会成员，1933 年加入国家社会主义运动并加入 SA，要求布劳威尔将犹太成员从编辑委员会中移除。布劳威尔拒绝；比贝尔巴赫辞职。
+**1934–1935** 勒伊岑·艾赫贝特斯·扬·布劳威尔，一位德国《_Compositio Mathematica_》编辑委员会成员，1933 年加入国家社会主义运动并加入 SA，要求布劳威尔将犹太成员从编辑委员会中移除。布劳威尔拒绝；比贝尔巴赫辞职。
 
 **1935–1941** Blaricum 市议会成员，代表当地中立党（1939 年以 1601 票中获得 310 票当选）。
 
@@ -163,7 +163,7 @@
 
 1928 年在维也纳举行的两场讲座中——“数学、科学和语言”（1929A）和“连续体的结构”（1930A）——第一场在很大程度上是哲学性质的，而第二场更多是数学性质的。在“数学、科学和语言”中，布劳威尔阐述了他对标题中提到的三个主题之间关系的一般观点，采用了一种遗传学方法，并强调了意志的作用。这场讲座的较长版本发表为“意志、知识和言语”（1933A2）；其中包含了关于一个从一开始就存在的概念的首次明确说明，现在被称为“理想（化）数学家”或“创造主体”。
 
-“意识、哲学和数学”（1949C）再次审视了布劳威尔的心灵哲学及其对数学的一些影响。与*生活、艺术和神秘主义*、 “数学、科学和语言”以及“意志、知识、语言”进行比较，可以发现布劳威尔多年来的一般哲学观念发展得相当多，但主要是在深度上。
+“意识、哲学和数学”（1949C）再次审视了布劳威尔的心灵哲学及其对数学的一些影响。与_生活、艺术和神秘主义_、 “数学、科学和语言”以及“意志、知识、语言”进行比较，可以发现布劳威尔多年来的一般哲学观念发展得相当多，但主要是在深度上。
 
 1949 年，布劳威尔（1949A）发表了一类新的强反例，这一类别与布劳威尔早期的强反例（1928 年，见上文）不同之处在于所采用的论证类型，现在被称为“创造主体论证”，其中必然涉及到创造主体数学活动的时间结构（Heyting，1956 年，第三章和第八章；van Atten，2003 年，第四章和第五章；van Atten，2018 年）。
 
@@ -175,7 +175,7 @@
 
 A full bibliography of Brouwer’s writings can be found in
 
-* van Dalen, D., 1997, “A bibliography of L.E.J. Brouwer”, Utrecht Logic Group Preprint Series, no. 175 [\[Available online\]](https://dspace.library.uu.nl/bitstream/handle/1874/26868/preprint175.pdf). Updated version in van Atten, M., Boldini, P., Bourdeau, M., and Heinzmann, G. (eds.), 2008, *One Hundred Years of Intuitionism (1907–2007). The Cerisy Conference*, Basel: Birkhäuser, pp. 343–390.
+* van Dalen, D., 1997, “A bibliography of L.E.J. Brouwer”, Utrecht Logic Group Preprint Series, no. 175 [\[Available online\]](https://dspace.library.uu.nl/bitstream/handle/1874/26868/preprint175.pdf). Updated version in van Atten, M., Boldini, P., Bourdeau, M., and Heinzmann, G. (eds.), 2008, _One Hundred Years of Intuitionism (1907–2007). The Cerisy Conference_, Basel: Birkhäuser, pp. 343–390.
 
 The Brouwer Papers are kept at Noord-Hollands Archief in Haarlem, the Netherlands.
 
@@ -183,109 +183,109 @@ The Brouwer Papers are kept at Noord-Hollands Archief in Haarlem, the Netherland
 
 Facsimiles of almost all of Brouwer’s published papers can be found in
 
-* Brouwer, L.E.J., 1975, *Collected Works 1. Philosophy and Foundations of Mathematics*, A. Heyting (ed.), Amsterdam: North-Holland.
-* Brouwer, L.E.J., 1976, *Collected Works 2. Geometry, Analysis, Topology and Mechanics*, H. Freudenthal (ed.), Amsterdam: North-Holland.
+* Brouwer, L.E.J., 1975, _Collected Works 1. Philosophy and Foundations of Mathematics_, A. Heyting (ed.), Amsterdam: North-Holland.
+* Brouwer, L.E.J., 1976, _Collected Works 2. Geometry, Analysis, Topology and Mechanics_, H. Freudenthal (ed.), Amsterdam: North-Holland.
 
 Full scans and transcriptions of Brouwer’s student notebooks (in Dutch) are [available online](https://www.cs.ru.nl/\~freek/brouwer/index.html).
 
-In the *Collected Works*, papers in Dutch have been translated into English (without naming the translator(s)), but papers in French or German have not. English translations of several of them can be found in
+In the _Collected Works_, papers in Dutch have been translated into English (without naming the translator(s)), but papers in French or German have not. English translations of several of them can be found in
 
-* van Heijenoort, J., ed., 1967, *From Frege to Gödel*. A Sourcebook in Mathematical Logic, 1879–1931, Cambridge (MA): Harvard University Press.
-* Mancosu, P., ed., 1998, *From Hilbert to Brouwer. The Debate on the Foundations of Mathematics in the 1920s*, Oxford: Oxford University Press.
+* van Heijenoort, J., ed., 1967, _From Frege to Gödel_. A Sourcebook in Mathematical Logic, 1879–1931, Cambridge (MA): Harvard University Press.
+* Mancosu, P., ed., 1998, _From Hilbert to Brouwer. The Debate on the Foundations of Mathematics in the 1920s_, Oxford: Oxford University Press.
 
-An English translation of Brouwer’s little book *Leven, Kunst en Mystiek* of 1905, of which the *Collected Works* contain only excerpts, is
+An English translation of Brouwer’s little book _Leven, Kunst en Mystiek_ of 1905, of which the _Collected Works_ contain only excerpts, is
 
-* Brouwer, L.E.J., 1996, “Life, Art and Mysticism”, *Notre Dame Journal of Formal Logic*, 37(3):389–429. Translated by Walter van Stigt, who provides an introduction on pp.381–387.
+* Brouwer, L.E.J., 1996, “Life, Art and Mysticism”, _Notre Dame Journal of Formal Logic_, 37(3):389–429. Translated by Walter van Stigt, who provides an introduction on pp.381–387.
 
 The Berlin lectures of 1927 have been published in
 
-* Brouwer, L.E.J., 1992, *Intuitionismus*, D. van Dalen (ed.), Mannheim: BI-Wissenschaftsverlag.
+* Brouwer, L.E.J., 1992, _Intuitionismus_, D. van Dalen (ed.), Mannheim: BI-Wissenschaftsverlag.
 
 The Cambridge lectures of 1946–1951, which are recommended as Brouwer’s own introduction to intuitionism, have been published as
 
-* Brouwer, L.E.J., 1981, *Brouwer’s Cambridge Lectures on Intuitionism*, D. van Dalen (ed.), Cambridge: Cambridge University Press.
+* Brouwer, L.E.J., 1981, _Brouwer’s Cambridge Lectures on Intuitionism_, D. van Dalen (ed.), Cambridge: Cambridge University Press.
 
 A selection of Brouwer’s correspondence has been published as
 
-* van Dalen, D., ed., 2011, *The Selected Correspondence of L.E.J. Brouwer*, London: Springer. An online supplement (link and password on the copyright page of the book) presents most of the extant correspondence, but without English translations.
+* van Dalen, D., ed., 2011, _The Selected Correspondence of L.E.J. Brouwer_, London: Springer. An online supplement (link and password on the copyright page of the book) presents most of the extant correspondence, but without English translations.
 
-Of particular biographical interest is the correspondence between Brouwer and his friend, the socialist poet C.S. Adama van Scheltema, which covers the years 1898–1924. *The Selected Correspondence* presents a number of these letters in English. The full correspondence has been published in Dutch, with notes, an introduction, and an appendix on Brouwer, as
+Of particular biographical interest is the correspondence between Brouwer and his friend, the socialist poet C.S. Adama van Scheltema, which covers the years 1898–1924. _The Selected Correspondence_ presents a number of these letters in English. The full correspondence has been published in Dutch, with notes, an introduction, and an appendix on Brouwer, as
 
-* Brouwer, L.E.J., & Adama van Scheltema, C.S., 1984, *Droeve Snaar, Vriend van Mij. Brieven*, D. van Dalen (ed.), Amsterdam: De Arbeiderspers.
+* Brouwer, L.E.J., & Adama van Scheltema, C.S., 1984, _Droeve Snaar, Vriend van Mij. Brieven_, D. van Dalen (ed.), Amsterdam: De Arbeiderspers.
 
 ### Cited texts by Brouwer
 
 Brouwer’s writings are referred to according to the scheme in the bibliography van Dalen, 1997.
 
-* 1905, *Leven, Kunst en Mystiek*. Partial English translation in Brouwer, 1975, pp. 1–9. Full English translation (by W. van Stigt) in *Notre Dame Journal of Formal Logic*, 37(3):389–429.
-* 1907, *Over de Grondslagen der Wiskunde*, Ph.D. thesis, Universiteit van Amsterdam. English translation in Brouwer, 1975, pp. 11–101.
-* 1908, “De onbetrouwbaarheid der logische principes”, *Tijdschrift voor Wijsbegeerte*, 2: 152–158. English translation in Brouwer, 1975, pp. 107–111.
-* 1914, “A. Schoenflies und H. Hahn. Die Entwickelung der Mengenlehre und ihrer Anwendungen, Leipzig und Berlin 1913”, *Jahresb. D.M.V.*, 23: 78–83.
-* 1918B, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Erster Teil, Allgemeine Mengenlehre”, *KNAW Verhandelingen*, 5: 1–43.
-* 1919A, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Zweiter Teil, Theorie der Punktmengen”, *KNAW Verhandelingen*, 7: 1–33.
-* 1919D, “ Intuitionistische Mengenlehre ”, *Jahresb. D.M.V.*, 28: 203–208. English translation in Mancosu 1998 pp. 23–27.
-* 1921A, “Besitzt jede reelle Zahl eine Dezimalbruchentwicklung?”, *Mathematische Annalen*, 83: 201–210. English translation in Mancosu 1998 pp. 28–35.
-* 1924N, “Über die Bedeutung des Satzes vom ausgeschlossenen Dritten in der Mathematik, insbesondere in der Funktionentheorie”, *Journal für die reine und angewandte Mathematik*, 154: 1–7. English translation in van Heijenoort 1967, pp. 335–341.
-* 1927B, “Über Definitionsbereiche von Funktionen”, *Mathematische Annalen*, 97: 60–75. English translation of sections 1–3 in van Heijenoort 1967, pp. 457–463.
-* 1928A2, “Intuitionistische Betrachtungen über den Formalismus”, *KNAW Proceedings*, 31: 374–379. English translation in Mancosu 1998, pp. 40–44.
-* 1929A, “Mathematik, Wissenschaft und Sprache”, *Monatshefte für Mathematik und Physik*, 36: 153–164. English translation in Mancosu 1998, pp.45–53.
-* 1930A, *Die Struktur des Kontinuums*, Wien: Komitee zur Veranstaltung von Gastvorträgen ausländischer Gelehrter der exakten Wissenschaften. English translation in Mancosu 1998, pp. 54–63.
-* 1933A2, “Willen, weten, spreken”, in *De Uitdrukkingswijze der Wetenschap*, L.E.J. Brouwer *et al*., Groningen: Noordhoff, 45–63. English translation in van Stigt 1990, pp. 418–431.
-* 1946B, “Toespraak van Prof.Dr. L.E.J. Brouwer en antwoord van Prof.Dr. G. Mannoury”, *Jaarboek der Universiteit van Amsterdam 1946–1947*, II. English translation of Brouwer’s part in Brouwer, 1975, pp. 472–476. English translation of Mannoury’s reply: *Synthese*, 5: 514–515.
-* 1948A, “Essentieel negatieve eigenschappen”, *Indagationes Mathematicae*, 10: 322–323. English translation in Brouwer, 1975, pp. 478–479.
-* 1949A, “De non-aequivalentie van de constructieve en de negatieve orderelatie in het continuum”, *Indagationes Mathematicae*, 11: 37–39. English translation in Brouwer, 1975, pp. 495–496.
-* 1949B, “Contradictoriteit der elementaire meetkunde”, *KNAW Proc.*, 52: 315–316. English translation in Brouwer, 1975, pp. 497–498.
-* 1949C, “Consciousness, philosophy and mathematics”, *Proceedings of the 10th International Congress of Philosophy, Amsterdam 1948*, 3: 1235–1249.
-* 1954F, “An example of contradictority in classical theory of functions”, *Indag. Math.*, 16: 204–205.
-* 1955, “The effect of intuitionism on classical algebra of logic”, *Proceedings of the Royal Irish Academy*, 57: 113–116.
+* 1905, _Leven, Kunst en Mystiek_. Partial English translation in Brouwer, 1975, pp. 1–9. Full English translation (by W. van Stigt) in _Notre Dame Journal of Formal Logic_, 37(3):389–429.
+* 1907, _Over de Grondslagen der Wiskunde_, Ph.D. thesis, Universiteit van Amsterdam. English translation in Brouwer, 1975, pp. 11–101.
+* 1908, “De onbetrouwbaarheid der logische principes”, _Tijdschrift voor Wijsbegeerte_, 2: 152–158. English translation in Brouwer, 1975, pp. 107–111.
+* 1914, “A. Schoenflies und H. Hahn. Die Entwickelung der Mengenlehre und ihrer Anwendungen, Leipzig und Berlin 1913”, _Jahresb. D.M.V._, 23: 78–83.
+* 1918B, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Erster Teil, Allgemeine Mengenlehre”, _KNAW Verhandelingen_, 5: 1–43.
+* 1919A, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Zweiter Teil, Theorie der Punktmengen”, _KNAW Verhandelingen_, 7: 1–33.
+* 1919D, “ Intuitionistische Mengenlehre ”, _Jahresb. D.M.V._, 28: 203–208. English translation in Mancosu 1998 pp. 23–27.
+* 1921A, “Besitzt jede reelle Zahl eine Dezimalbruchentwicklung?”, _Mathematische Annalen_, 83: 201–210. English translation in Mancosu 1998 pp. 28–35.
+* 1924N, “Über die Bedeutung des Satzes vom ausgeschlossenen Dritten in der Mathematik, insbesondere in der Funktionentheorie”, _Journal für die reine und angewandte Mathematik_, 154: 1–7. English translation in van Heijenoort 1967, pp. 335–341.
+* 1927B, “Über Definitionsbereiche von Funktionen”, _Mathematische Annalen_, 97: 60–75. English translation of sections 1–3 in van Heijenoort 1967, pp. 457–463.
+* 1928A2, “Intuitionistische Betrachtungen über den Formalismus”, _KNAW Proceedings_, 31: 374–379. English translation in Mancosu 1998, pp. 40–44.
+* 1929A, “Mathematik, Wissenschaft und Sprache”, _Monatshefte für Mathematik und Physik_, 36: 153–164. English translation in Mancosu 1998, pp.45–53.
+* 1930A, _Die Struktur des Kontinuums_, Wien: Komitee zur Veranstaltung von Gastvorträgen ausländischer Gelehrter der exakten Wissenschaften. English translation in Mancosu 1998, pp. 54–63.
+* 1933A2, “Willen, weten, spreken”, in _De Uitdrukkingswijze der Wetenschap_, L.E.J. Brouwer _et al_., Groningen: Noordhoff, 45–63. English translation in van Stigt 1990, pp. 418–431.
+* 1946B, “Toespraak van Prof.Dr. L.E.J. Brouwer en antwoord van Prof.Dr. G. Mannoury”, _Jaarboek der Universiteit van Amsterdam 1946–1947_, II. English translation of Brouwer’s part in Brouwer, 1975, pp. 472–476. English translation of Mannoury’s reply: _Synthese_, 5: 514–515.
+* 1948A, “Essentieel negatieve eigenschappen”, _Indagationes Mathematicae_, 10: 322–323. English translation in Brouwer, 1975, pp. 478–479.
+* 1949A, “De non-aequivalentie van de constructieve en de negatieve orderelatie in het continuum”, _Indagationes Mathematicae_, 11: 37–39. English translation in Brouwer, 1975, pp. 495–496.
+* 1949B, “Contradictoriteit der elementaire meetkunde”, _KNAW Proc._, 52: 315–316. English translation in Brouwer, 1975, pp. 497–498.
+* 1949C, “Consciousness, philosophy and mathematics”, _Proceedings of the 10th International Congress of Philosophy, Amsterdam 1948_, 3: 1235–1249.
+* 1954F, “An example of contradictority in classical theory of functions”, _Indag. Math._, 16: 204–205.
+* 1955, “The effect of intuitionism on classical algebra of logic”, _Proceedings of the Royal Irish Academy_, 57: 113–116.
 
 ### Cited primary texts by others
 
-* Euwe, M., 1929, “Mengentheoretische Betrachtungen über das Schachspiel”, *Ned. Akad. Wetensch. Proc.*, 32:633–644.
-* Hilbert, D., 1922, “Neubegründung der Mathematik. Erste Mitteilung”, *Hamburger Math. Seminarabhandlungen*, 1:157–177. English translation “The New Grounding of Mathematics: first report” in (Mancosu 1998).
-* Mannoury, G., 1909, *Methodologisches und Philosophisches zur Elementar-Mathematik*, Haarlem: Visser.
-* Welby, V., 1896, “Sense, Meaning and Interpretation”, *Mind*, N.S., 5(17):24–37; (18):186–202.
-* Weyl, H., 1921, “Über die neue Grundlagenkrise der Mathematik”, *Mathematische Zeitschrift*, 10:39–79. English translation “On the New Foundational Crisis of Mathematics” in (Mancosu 1998).
+* Euwe, M., 1929, “Mengentheoretische Betrachtungen über das Schachspiel”, _Ned. Akad. Wetensch. Proc._, 32:633–644.
+* Hilbert, D., 1922, “Neubegründung der Mathematik. Erste Mitteilung”, _Hamburger Math. Seminarabhandlungen_, 1:157–177. English translation “The New Grounding of Mathematics: first report” in (Mancosu 1998).
+* Mannoury, G., 1909, _Methodologisches und Philosophisches zur Elementar-Mathematik_, Haarlem: Visser.
+* Welby, V., 1896, “Sense, Meaning and Interpretation”, _Mind_, N.S., 5(17):24–37; (18):186–202.
+* Weyl, H., 1921, “Über die neue Grundlagenkrise der Mathematik”, _Mathematische Zeitschrift_, 10:39–79. English translation “On the New Foundational Crisis of Mathematics” in (Mancosu 1998).
 
 ### Secondary Literature
 
-* Dubucs, J.-P., 1988, “L.E.J. Brouwer : Topologie et constructivisme”, *Revue d’histoire des sciences*, 41(2): 133–155.
+* Dubucs, J.-P., 1988, “L.E.J. Brouwer : Topologie et constructivisme”, _Revue d’histoire des sciences_, 41(2): 133–155.
   * An analysis of the relation between Brouwer’s topological work and his constructivist foundations.
-* Dummett, M., 1977, *Elements of Intuitionism*, Oxford: Oxford University Press. 2nd, revised edition, 2000, Oxford: Clarendon Press.
+* Dummett, M., 1977, _Elements of Intuitionism_, Oxford: Oxford University Press. 2nd, revised edition, 2000, Oxford: Clarendon Press.
   * An overview of intuitionism. Philosophically, it seems closer to Wittgenstein than to Brouwer.
-* Franchella, M., 2015, “Brouwer and Nietzsche: Views about Life, Views about Logic”, *History and Philosophy of Logic*, 36(4): 367–391.
+* Franchella, M., 2015, “Brouwer and Nietzsche: Views about Life, Views about Logic”, _History and Philosophy of Logic_, 36(4): 367–391.
   * A comparison of Nietschze’s and Brouwer’s critical views on the role of logic.
-* Hesseling, D.E., 2003, *Gnomes in the Fog. The Reception of Brouwer’s Intuitionism in the 1920s*, Basel: Birkhauser.
+* Hesseling, D.E., 2003, _Gnomes in the Fog. The Reception of Brouwer’s Intuitionism in the 1920s_, Basel: Birkhauser.
   * A detailed historical discussion of the reactions to Brouwer’s mature intuitionism during the foundational debate.
-* Heyting, A., 1956, *Intuitionism. An introduction*, Amsterdam: North-Holland. 2nd, revised edition, 1966. 3rd, revised edition, 1971.
+* Heyting, A., 1956, _Intuitionism. An introduction_, Amsterdam: North-Holland. 2nd, revised edition, 1966. 3rd, revised edition, 1971.
   * Probably the most influential book on the subject ever written. In a style that is more down-to-earth and oecumenical than Brouwer’s, Heyting presents the intuitionistic versions of various basic subjects in everyday mathematics. Brouwer and Heyting have some philosophical disagreements that make a difference in their appreciation of some aspects of intuitionistic mathematics. No comments of Brouwer on this book are known.
-* Kirkels, M., 2019, *Gerrit Mannoury (1867–1956). Een Relativistisch Denker*, Rotterdam: Erasmus Universiteit.
+* Kirkels, M., 2019, _Gerrit Mannoury (1867–1956). Een Relativistisch Denker_, Rotterdam: Erasmus Universiteit.
   * A thorough biography of the remarkable man who was Brouwer’s teacher and then lifelong close friend; in Dutch.
-* Largeault, J., 1993, *Intuition et Intuitionisme*, Paris: Vrin.
+* Largeault, J., 1993, _Intuition et Intuitionisme_, Paris: Vrin.
   * An overview of intuitionism, staying close to Brouwer, and showing a good sense of the historical background of Brouwer’s notion of intuition.
-* Placek, T., 1999, *Mathematical Intuitionism and Intersubjectivity*, Dordrecht: Kluwer.
+* Placek, T., 1999, _Mathematical Intuitionism and Intersubjectivity_, Dordrecht: Kluwer.
   * A comparison of the arguments for intuitionism advanced by, respectively, Brouwer, Heyting, and Dummett, in particular with respect to the possibility of intersubjective validity of intuitionistic mathematics.
-* Schmitz, H.W., 1990, *De Hollandse Significa. Een Reconstructie van de Geschiedenis van 1892 tot 1926*, Assen: van Gorcum.
+* Schmitz, H.W., 1990, _De Hollandse Significa. Een Reconstructie van de Geschiedenis van 1892 tot 1926_, Assen: van Gorcum.
   * A detailed monograph on the development of the Signific Movement in the Netherlands, in Dutch (translated from the author’s German Habilitationsschrift).
-* Schmitz, H.W., ed., 1990, *Essays on Significs: Papers Presented on the Occasion of the 150th Anniversary of the Birth of Victoria Lady Welby, 1837–1912*, Amsterdam: John Benjamins.
+* Schmitz, H.W., ed., 1990, _Essays on Significs: Papers Presented on the Occasion of the 150th Anniversary of the Birth of Victoria Lady Welby, 1837–1912_, Amsterdam: John Benjamins.
   * Historical and systematical essays on Lady Welby, the relations between significs and semiotics, and the Signific Movement in the Netherlands.
-* Troelstra, A., 1969, *Principles of Intuitionism*, Heidelberg: Springer.
+* Troelstra, A., 1969, _Principles of Intuitionism_, Heidelberg: Springer.
   * The first exposition of intuitionism after those by Brouwer and Heyting. While strongly mathematically oriented, it shows a strong appreciation of philosophical aspects. Written as lectures notes for the conference on Intuitionism and Proof Theory, Buffalo, 1968, after the author spent the academic year 1966–1967 with Kreisel.
-* van Atten, M., 2004, *On Brouwer*, Belmont (CA): Wadsworth.
+* van Atten, M., 2004, _On Brouwer_, Belmont (CA): Wadsworth.
   * A philosophical introduction to intuitionism as conceived by Brouwer, with extensive treatments of the proof of the bar theorem, the creating subject, and intersubjectivity.
-* van Atten, M., 2018, “The Creating Subject, the Brouwer-Kripke Schema, and infinite proofs”, *Indagationes Mathematicae*, 29(6): 1565–1636.
-  * A discussion of philosophical, mathematical, and historical aspects of Brouwer’s Creating Subject arguments. Issues 29(1) and 29(6) of *Indagationes* make up a voluminous virtual special issue in commemoration of the 50th anniversary of Brouwer’s death.
-* van Atten, M., Boldini, P., Bourdeau, M., and Heinzmann, G., eds., 2008, *One Hundred Years of Intuitionism (1907–2007). The Cerisy Conference*, Basel: Birkhäuser.
+* van Atten, M., 2018, “The Creating Subject, the Brouwer-Kripke Schema, and infinite proofs”, _Indagationes Mathematicae_, 29(6): 1565–1636.
+  * A discussion of philosophical, mathematical, and historical aspects of Brouwer’s Creating Subject arguments. Issues 29(1) and 29(6) of _Indagationes_ make up a voluminous virtual special issue in commemoration of the 50th anniversary of Brouwer’s death.
+* van Atten, M., Boldini, P., Bourdeau, M., and Heinzmann, G., eds., 2008, _One Hundred Years of Intuitionism (1907–2007). The Cerisy Conference_, Basel: Birkhäuser.
   * Part I consists of a number of historical and systematical papers on Brouwer and Brouwerian intuitionism. Part II contains, among others, two papers on Brouwer in relation to French recursors of intuitionism. Part III includes a paper on the Hilbert-Brouwer controversy from a historical-mathematical perspective.
-* van Atten, M. and Tragesser, R., “Mysticism and Mathematics: Brouwer, Gödel and the Common Core Thesis”, in *Klarheit in Religionsdingen*, Deppert, W. & Rahnfeld, M., eds., Leipzig: Leipziger Universitatsverlag, 145–160.
+* van Atten, M. and Tragesser, R., “Mysticism and Mathematics: Brouwer, Gödel and the Common Core Thesis”, in _Klarheit in Religionsdingen_, Deppert, W. & Rahnfeld, M., eds., Leipzig: Leipziger Universitatsverlag, 145–160.
   * A comparison of Brouwer’s and Gödel’s interest in mysticism and of their views on its relation to mathematics.
-* van Dalen, D., 1999/2005, *Mystic, Geometer, and Intuitionist*, 2 volumes, Oxford: Clarendon Press.
-  * The standard biography of Brouwer. Volume 1, *The Dawning Revolution*, covers the years 1881–1928, volume 2, *Hope and Disillusion*, covers 1929–1966.
-* van Dalen, D., 2001, *L.E.J. Brouwer 1881–1966. Een Biografie. Het Heldere Licht van de Wiskunde*, Amsterdam: Bert Bakker.
+* van Dalen, D., 1999/2005, _Mystic, Geometer, and Intuitionist_, 2 volumes, Oxford: Clarendon Press.
+  * The standard biography of Brouwer. Volume 1, _The Dawning Revolution_, covers the years 1881–1928, volume 2, _Hope and Disillusion_, covers 1929–1966.
+* van Dalen, D., 2001, _L.E.J. Brouwer 1881–1966. Een Biografie. Het Heldere Licht van de Wiskunde_, Amsterdam: Bert Bakker.
   * A popular biography in 1 volume, in Dutch.
-* van Dalen, D., 2013, *L.E.J. Brouwer—Topologist, Intuitionist, Philosopher. How Mathematics Is Rooted in Life*, London: Springer.
+* van Dalen, D., 2013, _L.E.J. Brouwer—Topologist, Intuitionist, Philosopher. How Mathematics Is Rooted in Life_, London: Springer.
   * A somewhat revised version in 1 volume of the biography (van Dalen 1999/2005).
-* van Stigt, W., 1990, *Brouwer’s Intuitionism*, Amsterdam: North-Holland.
+* van Stigt, W., 1990, _Brouwer’s Intuitionism_, Amsterdam: North-Holland.
   * Contains interesting philosophical discussions and gives English translations of material from the Brouwer archive. The biographical sketch has now been superseded by (van Dalen, 1999/2005) and (van Dalen, 2001). Van Stigt also contributed to the introductions to the papers on intuitionism in Mancosu 1998 (see above).
 
 ## Academic Tools
@@ -298,7 +298,7 @@ Brouwer’s writings are referred to according to the scheme in the bibliography
 
 ## Other Internet Resources
 
-* [Review of Hesseling’s *Gnomes in the Fog* in the *Bulletin of Symbolic Logic*](http://www.math.ucla.edu/\~asl/bsl/1003/1003-005.ps) (Postscript).
+* [Review of Hesseling’s _Gnomes in the Fog_ in the _Bulletin of Symbolic Logic_](http://www.math.ucla.edu/\~asl/bsl/1003/1003-005.ps) (Postscript).
 * [Dirk van Dalen’s Brouwer bibliography](https://dspace.library.uu.nl/bitstream/handle/1874/26868/preprint175.pdf) (PDF).
 * [A photo of Brouwer’s grave](https://beeldbankblaricum.nl/overige/item/4555-begraafplaats-woensberg) at the [Woensberg Cemetery](https://www.google.com/maps/place/Begraafplaats/@52.2805098,5.2460156,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6150cf67fc5e9:0x43e120389c6751a4!8m2!3d52.2805098!4d5.2482043) in Blaricum, The Netherlands.
 
@@ -313,4 +313,4 @@ Cantor, Georg | [Frege, Gottlob: controversy with Hilbert](https://plato.stanfor
 I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Mark van Atten](http://umr8547.ens.fr/spip.php?rubrique264\&lang=fr) <[*vanattenmark@gmail.com*](mailto:vanattenmark%40gmail%2ecom)>
+[Mark van Atten](http://umr8547.ens.fr/spip.php?rubrique264\&lang=fr) <[_vanattenmark@gmail.com_](mailto:vanattenmark%40gmail%2ecom)>

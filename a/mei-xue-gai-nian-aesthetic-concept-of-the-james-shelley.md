@@ -76,7 +76,7 @@
 
 这并不意味着 19 世纪末 20 世纪初艺术形式主义的流行主要归功于其从即时性或无兴趣论中推导出来的。这一时期形式主义最有影响力的倡导者是专业评论家，他们的形式主义至少部分源于他们关注的艺术发展。作为评论家，爱德华·汉斯利克（Eduard Hanslick）倡导莫扎特、贝多芬、舒曼以及后来的勃拉姆斯的纯音乐，并反对瓦格纳戏剧性不纯的音乐；作为理论家，他主张音乐没有内容，只有“音调运动形式”（Hanslick 1986, 29）。作为评论家，克莱夫·贝尔（Clive Bell）是后印象派的早期支持者，尤其是塞尚；作为理论家，他认为绘画的形式特性——“线条和颜色的关系和组合”——才具有艺术意义（Bell 1958, 17–18）。作为评论家，克莱门特·格林伯格（Clement Greenberg）是抽象表现主义最有能力的捍卫者；作为理论家，他认为绘画的“适当的能力范围”已经被平面、颜料和形状耗尽（Greenberg 1986, 86–87）。
 
-并非每个有影响力的形式主义捍卫者都是专业评论家。可以说，给形式主义提供最复杂阐述的门罗·比尔兹利（Monroe Beardsley）并不是评论家（Beardsley 1958）。最近，尼克·赞格威尔（Nick Zangwill）也为温和版本的形式主义进行了积极而富有资源的辩护（Zangwill 2001）。但形式主义始终受到艺术批评数据的足够推动，以至于亚瑟·丹托（Arthur Danto）提出数据不再支持形式主义的观点，并且也许从未真正支持过形式主义，形式主义的全盛时期就结束了。受华罗的《布里洛盒子》（*Brillo Boxes*）的启发，这些盒子在感知上（或多或少）与超市中布里洛盒子的品牌印刷纸箱无法区分，丹托观察到对于任何艺术作品，都可以想象出（a）另一个在感知上无法区分但不是艺术作品的对象，以及（b）另一个在感知上无法区分但在艺术价值上有所不同的艺术作品。从这些观察中，他得出结论，仅仅形式本身既不能使一件艺术作品，也不能赋予它任何价值（Danto 1981, 94–95; Danto 1986, 30–31; Danto 1997, 91）。
+并非每个有影响力的形式主义捍卫者都是专业评论家。可以说，给形式主义提供最复杂阐述的门罗·比尔兹利（Monroe Beardsley）并不是评论家（Beardsley 1958）。最近，尼克·赞格威尔（Nick Zangwill）也为温和版本的形式主义进行了积极而富有资源的辩护（Zangwill 2001）。但形式主义始终受到艺术批评数据的足够推动，以至于亚瑟·丹托（Arthur Danto）提出数据不再支持形式主义的观点，并且也许从未真正支持过形式主义，形式主义的全盛时期就结束了。受华罗的《布里洛盒子》（_Brillo Boxes_）的启发，这些盒子在感知上（或多或少）与超市中布里洛盒子的品牌印刷纸箱无法区分，丹托观察到对于任何艺术作品，都可以想象出（a）另一个在感知上无法区分但不是艺术作品的对象，以及（b）另一个在感知上无法区分但在艺术价值上有所不同的艺术作品。从这些观察中，他得出结论，仅仅形式本身既不能使一件艺术作品，也不能赋予它任何价值（Danto 1981, 94–95; Danto 1986, 30–31; Danto 1997, 91）。
 
 但是，丹托（Danto）提出了这种感知上无法区分的可能性，以显示不仅形式而且美学的局限性，而他这样做的理由显然是因为形式和美学是相互一致的。关于杜尚（Duchamp）曾经展出的小便池和一个感知上无法区分的普通小便池，丹托认为：
 
@@ -124,9 +124,9 @@ Sibley 在《美学中的一般原因和标准》一文中提出的普遍主义�
 
 回想起来，伊森伯格认为，如果评论家为她的评判辩护，她的论证必须如下所示：
 
-1. 有*p*的艺术作品因为有*p*而更好。
-2. *W* 是一件具有 *p* 的艺术品。
-3. 因此，*W* 由于具有 *p* 而更好。
+1. 有_p_的艺术作品因为有_p_而更好。
+2. _W_ 是一件具有 _p_ 的艺术品。
+3. 因此，_W_ 由于具有 _p_ 而更好。
 
 由于在前提 1 中表达的批判原则容易遭到反例的质疑，无论我们用什么属性替代 p，伊森伯格得出结论，我们不能合理地解释批评家为她的判断辩护。戴维斯和本德尔都提出了与事实一致的替代原则，这些原则与没有任何属性在所有艺术作品中都是有益的这一事实一致，他们将这些原则归因于批评家。戴维斯提出我们应该从艺术类型相对化的原则中演绎解释批评家的观点，也就是说，从这些原则中得出结论，特定类型或类别的艺术作品（意大利文艺复兴绘画、浪漫交响乐、好莱坞西部片等）具有 p，因此更好（戴维斯 1990 年，174 页）。本德尔提出我们应该从表达某些属性和艺术作品之间纯粹倾向的原则中归纳解释批评家的观点，换句话说，从这些原则中得出结论，具有 p 的艺术作品倾向于更好（本德尔 1995 年，386 页）。
 
@@ -162,7 +162,7 @@ Bullough 对审美态度的描述是最容易受到攻击的。当我们在悲�
 
 但也许迪基的另一个不太为人所知的批评最终对态度理论家的野心构成了更大的威胁。我们还记得，斯托尔尼茨根据支配注意力的目的将无私和有兴趣的注意力区分开来：无私地关注是指没有超出关注本身的目的；有兴趣地关注是指超出关注本身的某种目的。但迪基反对目的的不同意味着注意力的不同：
 
-> 假设琼斯为了能够在第二天的考试中分析和描述一首音乐而聆听，而史密斯则没有这样的附加目的而聆听相同的音乐。这两个人的动机和意图确实有所不同：琼斯有一个附加目的，而史密斯没有，但这并不意味着琼斯的*聆听*与史密斯的不同...。只有一种方式来*聆听*（关注）音乐，尽管可能有各种动机、意图和理由来这样做，以及各种分散注意力的方式。（迪基，1964 年，58 页）。
+> 假设琼斯为了能够在第二天的考试中分析和描述一首音乐而聆听，而史密斯则没有这样的附加目的而聆听相同的音乐。这两个人的动机和意图确实有所不同：琼斯有一个附加目的，而史密斯没有，但这并不意味着琼斯的_聆听_与史密斯的不同...。只有一种方式来_聆听_（关注）音乐，尽管可能有各种动机、意图和理由来这样做，以及各种分散注意力的方式。（迪基，1964 年，58 页）。
 
 这里有很多地方是态度理论家可以抵制的。可以抵制的是听是一种关注的形式的想法：严格来说，问题不是琼斯和史密斯是否以相同的方式“听”音乐，而是他们是否以相同的方式“关注”他们正在听的音乐。声称琼斯和史密斯以相同的方式关注似乎是先入为主的，因为它显然依赖于态度理论家拒绝的个体化原则：如果琼斯的注意力受到某种隐含目的的支配，而史密斯的注意力没有，而我们根据支配注意力的目的来个体化注意力，那么他们的注意力就不同。最后，即使我们拒绝态度理论家的个体化原则，声称只有一种方式来关注音乐也是值得怀疑的：似乎可以以无数种方式关注音乐——作为历史文献，作为文化产物，作为听觉墙纸，作为声音干扰——这取决于在听音乐时关注音乐的哪些特征。但迪基（Dickie）在强调目的的差异不一定意味着关注的差异方面是至关重要的。只有当它（即无兴趣）将注意力集中在对对象在美学上重要的特征上时，无兴趣才合理地构成了美学态度的定义。关注那些同样特征的兴趣的可能性意味着无兴趣在这样的定义中没有位置，这反过来又意味着无兴趣和美学态度的概念在确定“美学”一词的含义方面可能没有任何用处。如果对一个对象采取美学态度只是关注其在美学上相关的特性，无论这种关注是感兴趣的还是无兴趣的，那么确定一个态度是否是美学的显然需要首先确定哪些特性是美学上相关的特性。而这个任务似乎总是导致对美学特性的直接把握的主张，这些主张可以说对这个任务来说是不足够的，或者导致对美学特性本质上形式的性质的主张，这些主张可以说是没有根据的。
 
@@ -174,7 +174,7 @@ Bullough 对审美态度的描述是最容易受到攻击的。当我们在悲�
 
 ### 2.4 美学体验
 
-根据在解释何为美学体验时所依赖的特征类型，美学体验的理论可以分为两种：*内在主义理论*依赖于体验内部的特征，通常是现象学特征；而*外在主义理论*则依赖于体验外部的特征，通常是所体验对象的特征。（内在主义和外在主义美学体验理论的区别与 Gary Iseminger 所提出的现象学和认识论美学体验概念的区别相似，尽管并非完全相同）尽管在 20 世纪早期和中期，内在主义理论，特别是约翰·杜威（John Dewey）的（1934 年）和门罗·比尔兹利（Monroe Beardsley）的（1958 年）理论占主导地位，但自从那时起，外在主义理论，包括比尔兹利（1982 年）和乔治·迪基（George Dickie）的（1988 年）理论，一直处于上升阶段。比尔兹利对美学体验的看法对我们的关注具有重要意义，因为可以说比尔兹利是内在主义理论的最终总结者，也是外在主义理论的奠基人。迪基对比尔兹利的内在主义的批评同样具有重要意义，因为这些批评使得比尔兹利以及其他大多数人从内在主义转向了外在主义。
+根据在解释何为美学体验时所依赖的特征类型，美学体验的理论可以分为两种：_内在主义理论_依赖于体验内部的特征，通常是现象学特征；而_外在主义理论_则依赖于体验外部的特征，通常是所体验对象的特征。（内在主义和外在主义美学体验理论的区别与 Gary Iseminger 所提出的现象学和认识论美学体验概念的区别相似，尽管并非完全相同）尽管在 20 世纪早期和中期，内在主义理论，特别是约翰·杜威（John Dewey）的（1934 年）和门罗·比尔兹利（Monroe Beardsley）的（1958 年）理论占主导地位，但自从那时起，外在主义理论，包括比尔兹利（1982 年）和乔治·迪基（George Dickie）的（1988 年）理论，一直处于上升阶段。比尔兹利对美学体验的看法对我们的关注具有重要意义，因为可以说比尔兹利是内在主义理论的最终总结者，也是外在主义理论的奠基人。迪基对比尔兹利的内在主义的批评同样具有重要意义，因为这些批评使得比尔兹利以及其他大多数人从内在主义转向了外在主义。
 
 根据比尔兹利在他的《美学》（1958）中提出的内在主义版本，所有美学体验都有三个或四个（取决于如何计算）共同特征，“一些作家通过敏锐的内省发现了这些特征，我们每个人都可以通过自己的经验来测试”（比尔兹利，1958 年，527 页）。这些特征包括焦点（“美学体验是一种注意力牢牢集中在\[对象]上的体验”）、强度和统一性，其中统一性是一种连贯性和完整性的问题（比尔兹利，1958 年，527 页）。而连贯性则是指元素之间适当连接的问题，使得
 
@@ -198,7 +198,7 @@ Bullough 对审美态度的描述是最容易受到攻击的。当我们在悲�
 
 ### 2.5 美学价值
 
-要被视为*完整的*美学价值理论，必须回答两个问题：
+要被视为_完整的_美学价值理论，必须回答两个问题：
 
 美学价值的美学价值在于什么？
 
@@ -254,145 +254,145 @@ Lopes 选择的例子并不是随意的。有特定的艺术批评理由认为�
 
 但是，如果快乐不是我们追求的美学善，那么什么是呢？过去一个世纪左右，享乐主义之所以被认为是不可避免的一部分原因在于我们甚至无法想象其他选择。如果反对享乐主义的声音出现得比较缓慢，那么替代方案的出现则更加缓慢。到目前为止，唯一完全实现的替代方案是洛佩斯的美学规范网络理论，该理论在他的开创性著作《为美而存在：美学行动与价值》（2018 年）中得到了阐述和捍卫。
 
-前面我们提到了洛佩斯如何从享乐主义者的角度对其进行挑战，反对她无法充分解释为什么我们追求具有美学价值的对象，因为美学快乐至少有时是我们追求其他东西的必然副产品（2018 年，84-86 页）。然而，洛佩斯更深层次的挑战是针对享乐主义者的基本观点。洛佩斯认为，美学考虑可以合理化各种各样的美学行为：欣赏具有美学价值的对象是其中之一，但是以某种方式挂一张海报而不是另一种方式、为读书俱乐部选择这本书而不是那本书、以这种方式而不是那种方式打造花园、保留一款视频游戏而不是另一款、将这道菜与这种酒搭配等等，*无限循环*（2018 年，32-36 页）。如果一个美学价值理论要包容如此广泛范围的美学行为，而不将任何一个行为单独视为比其他行为更为核心，那么它必须将美学规范性看作是某种非常普遍的规范性的一种形式。因此，洛佩斯将美学规范性看作是最通用形式的实践规范性的一种形式；美学行为应该被成功地执行的理由是，所有行为都应该被成功地执行，因为它们是行为（2018 年，135-137 页）。正是因为所有美学活动必然发生在某个特定社会实践领域内，美学代理人在任何特定场合成功执行所需的能力取决于他们在特定社会实践中扮演的特定角色（2018 年，135 页）。正是由于所有美学活动必然发生在某个特定社会实践领域内，网络美学价值理论得名（2018 年，119 页）。
+前面我们提到了洛佩斯如何从享乐主义者的角度对其进行挑战，反对她无法充分解释为什么我们追求具有美学价值的对象，因为美学快乐至少有时是我们追求其他东西的必然副产品（2018 年，84-86 页）。然而，洛佩斯更深层次的挑战是针对享乐主义者的基本观点。洛佩斯认为，美学考虑可以合理化各种各样的美学行为：欣赏具有美学价值的对象是其中之一，但是以某种方式挂一张海报而不是另一种方式、为读书俱乐部选择这本书而不是那本书、以这种方式而不是那种方式打造花园、保留一款视频游戏而不是另一款、将这道菜与这种酒搭配等等，_无限循环_（2018 年，32-36 页）。如果一个美学价值理论要包容如此广泛范围的美学行为，而不将任何一个行为单独视为比其他行为更为核心，那么它必须将美学规范性看作是某种非常普遍的规范性的一种形式。因此，洛佩斯将美学规范性看作是最通用形式的实践规范性的一种形式；美学行为应该被成功地执行的理由是，所有行为都应该被成功地执行，因为它们是行为（2018 年，135-137 页）。正是因为所有美学活动必然发生在某个特定社会实践领域内，美学代理人在任何特定场合成功执行所需的能力取决于他们在特定社会实践中扮演的特定角色（2018 年，135 页）。正是由于所有美学活动必然发生在某个特定社会实践领域内，网络美学价值理论得名（2018 年，119 页）。
 
-在将美学主体视为在协调中对最广泛的物品进行最广泛的美学行为的同时，网络理论与享乐主义有着根本的不同。但正如洛佩斯本人所观察到的那样，网络理论在一个基本方面跟随着享乐主义：由于两种理论都“回答了规范问题，但对美学问题没有给出答案”，因此两者“与任何独立的美学问题答案一致”（2018 年，48 页）。声称规范问题和美学问题可以独立回答意味着*美学价值*是标准物种-属物种关系中的一种属，使得美学价值的价值性与美学性无关。因此，它还意味着*美学价值*不是决定性的决定性价值，使得美学价值的美学性与使其具有价值的东西相同。
+在将美学主体视为在协调中对最广泛的物品进行最广泛的美学行为的同时，网络理论与享乐主义有着根本的不同。但正如洛佩斯本人所观察到的那样，网络理论在一个基本方面跟随着享乐主义：由于两种理论都“回答了规范问题，但对美学问题没有给出答案”，因此两者“与任何独立的美学问题答案一致”（2018 年，48 页）。声称规范问题和美学问题可以独立回答意味着_美学价值_是标准物种-属物种关系中的一种属，使得美学价值的价值性与美学性无关。因此，它还意味着_美学价值_不是决定性的决定性价值，使得美学价值的美学性与使其具有价值的东西相同。
 
-规范问题和美学问题的答案是独立的还是相互关联的？如果我们还没有意识到这个问题的紧迫性，可能是因为还没有人完全阐述，更不用说捍卫了一个关于美学价值的理论，根据这个理论，美学价值是一种确定的价值形式。然而，这样的理论似乎隐含在 Shelley 2011、Watkins 和 Shelley 2012、Gorodeisky 和 Marcus 2018、Gorodeisky 2021a 和 Shelley 2022 中。这些作者共同的立场被称为*Auburn 观点*（Van der Berg 2020，11 页）。它通过以一种独特的自我反思方式来合理化物品具有美学价值的欣赏，从而回答了美学问题和价值问题，使你在欣赏一个具有美学价值的物品时所感知的部分是它应该被欣赏为你欣赏它（Shelley 2011，220-222 页；Watkins 和 Shelley 2012，348-350 页；Gorodeisky 和 Marcus 2018，117-119 页；Gorodeisky 2021a，200、207 页；Shelley 2022，12 页）。网络理论家可能会反对说，Auburn 观点像享乐主义一样特别重视欣赏行为，但从 Auburn 的角度来看，这样的反对是在回避问题。网络理论家假设规范问题和美学问题可以独立回答，从而使自己有权放弃美学问题，而放弃美学问题使她有权将非常广泛的美学行为中的每一个都视为同等重要。与此同时，Auburn 派认为*美学价值*是决定性价值的决定性因素，这使得 Auburn 派必须回答美学问题，而寻求美学问题的答案使她不得不将欣赏作为美学的核心。网络理论家和 Auburn 派一致认为美学问题迟早应该得到回答（Lopes 2018，46 页）。然而，他们在是否应该尽早回答这个问题上存在重大分歧。
+规范问题和美学问题的答案是独立的还是相互关联的？如果我们还没有意识到这个问题的紧迫性，可能是因为还没有人完全阐述，更不用说捍卫了一个关于美学价值的理论，根据这个理论，美学价值是一种确定的价值形式。然而，这样的理论似乎隐含在 Shelley 2011、Watkins 和 Shelley 2012、Gorodeisky 和 Marcus 2018、Gorodeisky 2021a 和 Shelley 2022 中。这些作者共同的立场被称为_Auburn 观点_（Van der Berg 2020，11 页）。它通过以一种独特的自我反思方式来合理化物品具有美学价值的欣赏，从而回答了美学问题和价值问题，使你在欣赏一个具有美学价值的物品时所感知的部分是它应该被欣赏为你欣赏它（Shelley 2011，220-222 页；Watkins 和 Shelley 2012，348-350 页；Gorodeisky 和 Marcus 2018，117-119 页；Gorodeisky 2021a，200、207 页；Shelley 2022，12 页）。网络理论家可能会反对说，Auburn 观点像享乐主义一样特别重视欣赏行为，但从 Auburn 的角度来看，这样的反对是在回避问题。网络理论家假设规范问题和美学问题可以独立回答，从而使自己有权放弃美学问题，而放弃美学问题使她有权将非常广泛的美学行为中的每一个都视为同等重要。与此同时，Auburn 派认为_美学价值_是决定性价值的决定性因素，这使得 Auburn 派必须回答美学问题，而寻求美学问题的答案使她不得不将欣赏作为美学的核心。网络理论家和 Auburn 派一致认为美学问题迟早应该得到回答（Lopes 2018，46 页）。然而，他们在是否应该尽早回答这个问题上存在重大分歧。
 
 网络理论和奥本观点并不是审美规范非享乐主义理论的唯一选择：Nguyen 2019 年、Matherne 2020 年、Peacocke 2021 年、Kubala 2021 年和 Riggle 2022 年都代表了有前途的新方向。然而，无论是享乐主义还是非享乐主义的审美价值的新理论，都必须在网络理论或奥本观点之后，将对规范和审美问题的回答视为独立或相互关联的。决定选择哪条道路是非常重要的。也许现在是我们关注它的时候了。
 
 ## Bibliography
 
-* Augustine, 389–390/2005 *De vera religione* in *Works of Saint Augustine. A Translation for the 21st Century*, Book 1, Volume 8, John E. Rotelle et al. (eds.), New York: New City Press.
-* Beardsley, M.C., 1958, *Aesthetics*, Indianapolis: Hackett.
-* –––, 1962, “On the Generality of Critical Reasons,” *The Journal of Philosophy*, 59: 477–486.
-* –––, 1982, *The Aesthetic Point of View*, Ithaca, NY: Cornell University Press
-* Bell, C., 1914 \[1958], *Art*, New York: Capricorn Books.
-* Bender, J., 1995, “General but Defeasible Reasons in Aesthetic Evaluation: The Generalist/Particularist Dispute,” *The Journal of Aesthetics and Art Criticism*, 53: 379–392.
-* Bentham, J., 1789, *An Introduction to the Principles of Morals and Legislation*, London: T. Payne and Son.
-* Binkley, T., 1970, “Piece: Contra Aesthetics,” *The Journal of Aesthetics and Art Criticism*, 35: 265–277.
-* Budd, M., 1985, *Music and the Emotions: The Philosophical Theories*, London: Routledge.
-* –––, 1995, *Values of Art: Painting, Poetry, and Music*, London: Penguin.
-* –––, 2002, *The Aesthetic Appreciation of Nature*, Oxford: Oxford University Press.
-* –––, 2003, “Aesthetics of Nature,” in *The Oxford Handbook of Aesthetics*, J. Levinson (ed.), Oxford: Oxford University Press, 117–135.
-* –––, 2008, *Aesthetic Essays*, Oxford: Oxford University Press.
-* Bullough, E., 1995, “‘Psychical Distance’ as a Factor in Art and as an Aesthetic Principle,” in *The Philosophy of Art: Readings Ancient and Modern*, A. Neill and A. Ridley (eds.), New York: McGraw-Hill, 297-311.
-* Carlson, A., 1979, “Formal Qualities in the Natural Environment,” *Journal of Aesthetic Education*, 13: 99–114.
-* –––, 1981, “Nature, Aesthetic Judgment, and Objectivity,” *The Journal of Aesthetics and Art Criticism*, 40: 15–27.
-* Carroll, N., 2000, “Art and the Domain of the Aesthetic,” *The British Journal of Aesthetics*, 40: 191–208.
-* –––, 2001, *Beyond Aesthetics*, Cambridge: Cambridge University Press.
-* –––, 2009, *On Criticism*, New York: Routledge Press.
-* Cohen, T., 1973, “Aesthetics/Non-Aesthetics and the Concept of Taste,” *Theoria*, 39: 113–52.
-* Coleridge, S., 1821, “Letter to Mr. Blackwood,” in *Blackwood’s Edinburgh Magazine*, 10: 253–255.
-* Cooper, A., (Third Earl of Shaftesbury), 1711, *Characteristics of Men, Manners, Opinions, Times*, Indianapolis: Liberty Fund, 2001.
-* Costello, D., 2008, “Kant and Danto, Together at Last?,” in K. Stock and K. Thomson-Jones (eds.), *New Waves in Aesthetics*, Houndmills, Basingstoke, Hampshire: Palgrave MacMillan, 244–266.
-* –––, 2013, “Kant and the Problem of *Strong* Non-Perceptual Art,” *The British Journal of Aesthetics*, 53: 277–298.
-* Danto, A., 1981, *The Transfiguration of the Commonplace*, Cambridge, MA: Harvard University Press.
-* –––, 1986, *The Philosophical Disenfranchisement of Art*, New York: Columbia University Press.
-* –––, 1997, *After the End of Art: Contemporary Art and the Pale of History*, Princeton: Princeton University Press.
-* –––, 2003, *The Abuse of Beauty*, Peru, IL: Open Court.
-* Davies, D., 2004, *Art as Performance*, Oxford: Blackwell.
-* Davies, S., 1990, “Replies to Arguments Suggesting that Critics’ Strong Evaluations Could Not Be Soundly Deduced,” *Grazer Philosophische Studien*, 38: 157–175.
-* –––, 1994. “The Evaluation of Music”, in *What is Music?*, Philip Alperson (ed.), University Park: Pennsylvania State University Press, 307–25.
-* –––, 2006, “Aesthetic Judgments, Artworks, and Functional Beauty,” *Philosophical Quarterly*, 56: 224–241.
-* Dewey, J., 1934, *Art and Experience*, New York: Putnam.
-* Dickie, G., 1964, “The Myth of the Aesthetic Attitude,” *American Philosophical Quarterly*, 1: 56–65.
-* –––, 1965, “Beardsley’s Phantom Aesthetic Experience,” *Journal of Philosophy*, 62: 129–136.
-* –––, 1974, *Art and the Aesthetic: An Institutional Analysis*, Ithaca, NY: Cornell University Press.
-* –––, 1988, *Evaluating Art*, Philadelphia: Temple University Press.
-* –––, 1996, *The Century of Taste*, Oxford: Oxford University Press.
-* Dorsch, F., 2013, “Non-Inferentialism about Justification—The Case of Aesthetic Judgments,” *The Philosophical Quarterly*, 63: 660–682.
-* Dubos, J.-B. 1748, *Critical Reflections on Poetry, Painting, and Music*, T. Nugent (trans.), London.
-* Elster, J., 1983, *Sour Grapes: Studies in the Subversion of Rationality*, Cambridge: Cambridge University Press.
-* Fried, M., 1980, *Absorption and Theatricality: Painting and Beholder in the Age of Diderot*, Berkeley and Los Angeles: University of California Press.
-* Gerard, A., 1759, *An Essay on Taste*, London: Millar.
-* Goldman, A.H., 1990, “Aesthetic Qualities and Aesthetic Value,” *Journal of Philosophy*, 87: 23–37.
-* –––, 1995, *Aesthetic Value*, Boulder, CO: Westview.
-* –––, 2004, “Evaluating Art,” in P. Kivy (ed.), *The Blackwell Guide to Aesthetics*, Malden, MA: Blackwell, 93–108.
-* –––, 2005, “The Aesthetic,” in *The Routledge Companion to Aesthetics*, B. Gaut and D. Lopes (eds.), London: Routledge, 255–266.
-* –––, 2006, “The Experiential Account of Aesthetic Value,” *The Journal of Aesthetics and Art Criticism*, 64: 333–342.
-* Gorodeisky, K. and Marcus, E., 2018, “Aesthetic Rationality,” *Journal of Philosophy*, 115: 113–140.
-* Gorodeisky, K., 2021a, “The Authority of Pleasure,” *Noûs*, 55: 199–220.
-* –––, 2021b,“On Liking Aesthetic Value,” *Philosophy and Phenomenological Research*, 102: 261–280.
-* Greenberg, C., 1986, *The Collected Essays and Criticism*, Chicago: University of Chicago Press.
-* Guyer, P., 1993, “The dialectic of disinterestedness: I. Eighteenth-century aesthetics”, in *Kant and the Experience of Freedom: Essays on Aesthetics and Morality*, New York: Cambridge University Press, 48–93.
-* –––, 2004, “The Origins of Modern Aesthetics: 1711–1735” in *The Blackwell Guide to Aesthetics*, P. Kivy (ed.), Malden, MA: Blackwell Publishing, 15–44.
-* Hanslick, E., 1986, *On the Musically Beautiful*, G. Payzant (trans.), Indianapolis: Hackett.
-* Hepburn, R.W., 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty,” in *British Analytical Philosophy*, B. Williams and A. Montefiori (eds.), London: Routledge and Kegan Paul, 285–310.
-* –––, 1968, “Aesthetic Appreciation of Nature” in *Aesthetics in the Modern World*, H. Osborne (ed.), London: Thames and Hudson, 49–66.
-* Herodotus, *The Histories*, R. Waterfield (trans.), Oxford: Oxford University Press, 1998.
-* Home, H. (Lord Kames), 2005, *Elements of Criticism* (Volume 1), Indianapolis: Liberty Fund.
-* Hopkins, R., 2000, “Beauty and Testimony” in *Philosophy, the Good, the True and the Beautiful*, A. O’Hear (ed.), Cambridge: Cambridge University Press, 209–236.
-* –––, 2004, “Critical Reasoning and Critical Perception,” in *Knowing Art*, M. Kieran and D. Lopes (eds.), Dordrecht: Springer, 137–154.
-* –––, 2011, “How to Be a Pessimist about Aesthetic Testimony,” *The Journal of Philosophy*, 108: 138–157.
-* Hume, D., 1751 \[1985], *Enquiry Concerning the Principles of Morals*, in L.A. Selby-Bigge and P. Nidditch (eds.), *Enquiries Concerning Human Understanding and Concerning the Principles of Morals*, Oxford: Oxford University Press, 1986.
-* –––, 1757 \[1985], “Of the Standard of Taste,” in E. Miller (ed.), *Essays Moral, Political, and Literary*, Indianapolis: Liberty Fund, 226–249.
-* Hutcheson, F., 1725 \[2004], *An Inquiry into the Origin of Our Ideas of Beauty and Virtue*, W. Leidhold (ed.), Indianapolis: Liberty Fund.
-* Iseminger, G., 2003, “Aesthetic Experience,” in *The Oxford Handbook of Aesthetics*, J. Levinson (ed.), Oxford: Oxford University Press, 99–116.
-* –––, 2004, *The Aesthetic Function of Art*, Ithaca, NY: Cornell University Press.
-* Isenberg, A., 1949, “Critical Communication,” *Philosophical Review*, 58(4): 330–344.
-* Kant, I., 1790 \[2000], *Critique of the Power of Judgment*, trans. P. Guyer, and E. Matthews, Cambridge: Cambridge University Press.
-* Kemp, G., 1999, “The Aesthetic Attitude,” *The British Journal of Aesthetics*, 39: 392–399.
-* Kieran, M., 2005, *Revealing Art*, London: Routledge.
-* Kivy, P., 1973, *Speaking of Art*, The Hague: Martinus Nijhoff.
-* –––, 2003, *The Seventh Sense: Francis Hutcheson and Eighteenth-Century British-Aesthetics*, Oxford: Oxford University Press.
-* –––, 2015, *De Gustibus: Arguing About Taste and Why We Do It*, Oxford: Oxford University Press.
-* Kubala, R., 2021, “Aesthetic Practices and Normativity,” *Philosophy and Phenomenological Research*, 103: 408–425.
-* Levinson, J., 1996, *The Pleasures of Aesthetics*, Ithaca, NY: Cornell University Press.
-* –––, 2002, “Hume’s Standard of Taste: The Real Problem,” *The Journal of Aesthetics and Art Criticism*, 60: 227–238.
-* –––, 2006, *Contemplating Art: Essays in Aesthetics*, Oxford: Oxford University Press.
-* Lewis, C.I., 1946, *An Analysis of Knowledge and Valuation*, La Salle, IL: Open Court Press.
-* Lopes, D., 2011, “The Myth of (Non-Aesthetic) Artistic Value,” *The Philosophical Quarterly*, 61: 518–536.
-* –––, 2014, *Beyond Art*, Oxford: Oxford University Press.
-* –––, 2015, “Aesthetic Experts, Guides to Value,” *Journal of Aesthetics and Art Criticism*, 73: 235–246.
-* –––, 2018, *Being for Beauty: Agency and Aesthetic Value*, Oxford: Oxford University Press.
-* –––, 2021, “Normativity, Agency, and Value: A View from Aesthetics,” *Philosophy and Phenomenological Research*, 102: 232–242.
-* Matherne, S., 2020, “Edith Landmann-Kalischer on Aesthetic Demarcation and Normativity,” *British Journal of Aesthetics*, 60: 315–334.
-* Matthen, M., 2017, “The Pleasure of Art,*”* *Australasian Philosophical Review*, 1: 6–28.
-* Mill, J.S., 1863 \[2001], *Utilitarianism*, 2nd edition, Indianapolis: Hackett.
-* Miller, R., 1998, “Three Versions of Objectivity: Aesthetic, Moral, and Scientific,” in J. Levinson (ed.), *Aesthetics and Ethics*, Cambridge: Cambridge University Press, 26–58.
-* Mothersill, M., 1984, *Beauty Restored*, Oxford: Oxford Clarendon Press.
-* Nguyen, C.T., 2019, “Autonomy and Aesthetic Engagement,” *Mind*, 129: 1127–1156.
-* Peacocke, A., 2021, “Let’s be Liberal: An Alternative to Aesthetic Hedonism,” *British Journal of Aesthetics*, 61: 163–183.
-* Prettejohn, E., 2005, *Beauty and Art: 1750–2000*, Oxford: Oxford University Press.
-* Railton, P., 1998, “Aesthetic Value, Moral Value, and the Ambitions of Naturalism,” in J. Levinson (ed.), *Aesthetics and Ethics*, Cambridge: Cambridge University Press, 59–105.
-* Reid, T., 1785 \[1969], *Essays on the Intellectual Powers of Man*, Cambridge, MA: The M.I.T. Press.
-* Riggle, N., 2015, “On the Aesthetic Ideal,” *The British Journal of Aesthetics*, 55: 433–447.
-* –––, 2016, “On the Interest in Beauty and Disinterest,” *Philosophers’ Imprint*, 16: 1–14.
-* –––, 2022, “Toward a Communitarian Theory of Aesthetic Value,” *Journal of Aesthetics and Art Criticism*, 80: 16–30.
-* Rind, M., 2002, “The Concept of Disinterestedness in Eighteenth-Century British Aesthetics,” *The Journal of the History of Philosophy*, 40: 67–87.
-* Schopenhauer, A., 1819 \[1969], *The World as Will and Representation*, vol. 1, trans. E. Payne, New York: Dover.
-* Sharpe, R.A., 2000, “The Empiricist Theory of Artistic Value,” *Journal of Aesthetics and Art Criticism*, 58: 312–332.
-* Shelley, J., 2003, “The Problem of Non-Perceptual Art,” *The British Journal of Aesthetics*, 43: 363–378.
-* –––, 2004, “Critical Compatibilism,” in *Knowing Art*, D. Lopes and M. Kieran (eds.), Dordrecht: Springer, 125–136.
-* –––, 2007, “Aesthetics and the World at Large,” *The British Journal of Aesthetics*, 47: 169–183.
-* –––, 2010, “Against Value Empiricism in Aesthetics,” *Australasian Journal of Philosophy*, 88: 707–720.
-* –––, 2011, “Hume and the Value of the Beautiful,” *British Journal of Aesthetics*, 51: 213–222.
-* –––, 2019, “The Default Theory of Aesthetic Value,” *British Journal of Aesthetics*, 59: 1–12.
-* –––, 2021, “Punting on the aesthetic question,” *Philosophy and Phenomenological Research*, 102: 214–219.
-* –––, 2022, “Aesthetic Acquaintance,” *Pacific Philosophical Quarterly*, first published 03 January 2022. doi:10.1111/papq.12402
-* Sibley, F., 2001, *Approach to Aesthetics: Collected Papers on Philosophical Aesthetics*, J. Benson, B. Redfern, and J. Cox (eds.), Oxford: Clarendon Press.
-* Stang, N., 2012, “Artworks are Not Valuable for Their Own Sake,” *Journal of Aesthetics and Art Criticism*, 70: 271–280.
-* Stecker, R., 1997a, *Artworks: Definition, Meaning, Value* University Park: Pennsylvania State University Press.
-* –––, 1997b, “Two Conceptions of Artistic Value,” *Iyyun*, 46: 51–62.
-* –––, 1997c, “The Correct and the Appropriate in the Appreciation of Nature,” *The British Journal of Aesthetics*, 37: 393–402.
-* –––, 2004, “Value in Art,” in J. Levinson (ed.), *The Oxford Handbook of Aesthetics*, Oxford: Oxford University Press, 307–324.
-* –––, 2005, *Aesthetics and the Philosophy of Art*, Lanham, MD: Rowman and Littlefield.
-* –––, 2019, *Intersections of Value: Art, Nature, and the Everyday*, Oxford: Oxford University Press.
-* Stolnitz, J., 1960, *Aesthetics and Philosophy of Art Criticism*, New York: Houghton Mifflin.
-* Terrasson, J., 1715, *Dissertation Critique sur L’lliade d’Homère*, Paris: Fournier and Coustelier.
-* Urmson, J. O., 1957, “What Makes a Situation Aesthetic?,” *Proceedings of the Aristotelian Society* (Supplementary Volumes), 31: 75–106.
-* Van der Berg, S., 2020, “Aesthetic Hedonism and Its Critics,” *Philosophy Compass*, 15: 1–15.
-* Walton, K.L., 1970, “Categories of Art,” *The Philosophical Review*, 79 (3): 334–367.
-* –––, 1993, “How Marvelous!: Towards a Theory of Aesthetic Value,” *Journal of Aesthetics and Art Criticism*, 51: 499–510.
-* Watkins, G.M., and Shelley, J., 2012, “Response-Dependence about Aesthetic Value,” *Pacific Philosophical Quarterly*, 93: 338–352.
-* Wimsatt, W. and Brooks, C., 1957, *Literary Criticism: A Short History*, New York: Knopf.
-* Wolf, S., 2011, “Good-for-Nothings,” *Proceedings and Addresses of the American Philosphical Association*, 85: 47–64.
-* Zangwill, N., 1998, “Aesthetic/Sensory Dependence,” *British Journal of Aesthetics*, 38: 66–81.
-* –––, 1999, “Art and Audience,” *The Journal of Aesthetics and Art Criticism*, 57: 315–332.
-* –––, 2001, *The Metaphysics of Beauty*, Ithaca, NY: Cornell University Press.
-* –––, 2007, *Aesthetic Creation*, Oxford: Oxford University Press.
+* Augustine, 389–390/2005 _De vera religione_ in _Works of Saint Augustine. A Translation for the 21st Century_, Book 1, Volume 8, John E. Rotelle et al. (eds.), New York: New City Press.
+* Beardsley, M.C., 1958, _Aesthetics_, Indianapolis: Hackett.
+* –––, 1962, “On the Generality of Critical Reasons,” _The Journal of Philosophy_, 59: 477–486.
+* –––, 1982, _The Aesthetic Point of View_, Ithaca, NY: Cornell University Press
+* Bell, C., 1914 \[1958], _Art_, New York: Capricorn Books.
+* Bender, J., 1995, “General but Defeasible Reasons in Aesthetic Evaluation: The Generalist/Particularist Dispute,” _The Journal of Aesthetics and Art Criticism_, 53: 379–392.
+* Bentham, J., 1789, _An Introduction to the Principles of Morals and Legislation_, London: T. Payne and Son.
+* Binkley, T., 1970, “Piece: Contra Aesthetics,” _The Journal of Aesthetics and Art Criticism_, 35: 265–277.
+* Budd, M., 1985, _Music and the Emotions: The Philosophical Theories_, London: Routledge.
+* –––, 1995, _Values of Art: Painting, Poetry, and Music_, London: Penguin.
+* –––, 2002, _The Aesthetic Appreciation of Nature_, Oxford: Oxford University Press.
+* –––, 2003, “Aesthetics of Nature,” in _The Oxford Handbook of Aesthetics_, J. Levinson (ed.), Oxford: Oxford University Press, 117–135.
+* –––, 2008, _Aesthetic Essays_, Oxford: Oxford University Press.
+* Bullough, E., 1995, “‘Psychical Distance’ as a Factor in Art and as an Aesthetic Principle,” in _The Philosophy of Art: Readings Ancient and Modern_, A. Neill and A. Ridley (eds.), New York: McGraw-Hill, 297-311.
+* Carlson, A., 1979, “Formal Qualities in the Natural Environment,” _Journal of Aesthetic Education_, 13: 99–114.
+* –––, 1981, “Nature, Aesthetic Judgment, and Objectivity,” _The Journal of Aesthetics and Art Criticism_, 40: 15–27.
+* Carroll, N., 2000, “Art and the Domain of the Aesthetic,” _The British Journal of Aesthetics_, 40: 191–208.
+* –––, 2001, _Beyond Aesthetics_, Cambridge: Cambridge University Press.
+* –––, 2009, _On Criticism_, New York: Routledge Press.
+* Cohen, T., 1973, “Aesthetics/Non-Aesthetics and the Concept of Taste,” _Theoria_, 39: 113–52.
+* Coleridge, S., 1821, “Letter to Mr. Blackwood,” in _Blackwood’s Edinburgh Magazine_, 10: 253–255.
+* Cooper, A., (Third Earl of Shaftesbury), 1711, _Characteristics of Men, Manners, Opinions, Times_, Indianapolis: Liberty Fund, 2001.
+* Costello, D., 2008, “Kant and Danto, Together at Last?,” in K. Stock and K. Thomson-Jones (eds.), _New Waves in Aesthetics_, Houndmills, Basingstoke, Hampshire: Palgrave MacMillan, 244–266.
+* –––, 2013, “Kant and the Problem of _Strong_ Non-Perceptual Art,” _The British Journal of Aesthetics_, 53: 277–298.
+* Danto, A., 1981, _The Transfiguration of the Commonplace_, Cambridge, MA: Harvard University Press.
+* –––, 1986, _The Philosophical Disenfranchisement of Art_, New York: Columbia University Press.
+* –––, 1997, _After the End of Art: Contemporary Art and the Pale of History_, Princeton: Princeton University Press.
+* –––, 2003, _The Abuse of Beauty_, Peru, IL: Open Court.
+* Davies, D., 2004, _Art as Performance_, Oxford: Blackwell.
+* Davies, S., 1990, “Replies to Arguments Suggesting that Critics’ Strong Evaluations Could Not Be Soundly Deduced,” _Grazer Philosophische Studien_, 38: 157–175.
+* –––, 1994. “The Evaluation of Music”, in _What is Music?_, Philip Alperson (ed.), University Park: Pennsylvania State University Press, 307–25.
+* –––, 2006, “Aesthetic Judgments, Artworks, and Functional Beauty,” _Philosophical Quarterly_, 56: 224–241.
+* Dewey, J., 1934, _Art and Experience_, New York: Putnam.
+* Dickie, G., 1964, “The Myth of the Aesthetic Attitude,” _American Philosophical Quarterly_, 1: 56–65.
+* –––, 1965, “Beardsley’s Phantom Aesthetic Experience,” _Journal of Philosophy_, 62: 129–136.
+* –––, 1974, _Art and the Aesthetic: An Institutional Analysis_, Ithaca, NY: Cornell University Press.
+* –––, 1988, _Evaluating Art_, Philadelphia: Temple University Press.
+* –––, 1996, _The Century of Taste_, Oxford: Oxford University Press.
+* Dorsch, F., 2013, “Non-Inferentialism about Justification—The Case of Aesthetic Judgments,” _The Philosophical Quarterly_, 63: 660–682.
+* Dubos, J.-B. 1748, _Critical Reflections on Poetry, Painting, and Music_, T. Nugent (trans.), London.
+* Elster, J., 1983, _Sour Grapes: Studies in the Subversion of Rationality_, Cambridge: Cambridge University Press.
+* Fried, M., 1980, _Absorption and Theatricality: Painting and Beholder in the Age of Diderot_, Berkeley and Los Angeles: University of California Press.
+* Gerard, A., 1759, _An Essay on Taste_, London: Millar.
+* Goldman, A.H., 1990, “Aesthetic Qualities and Aesthetic Value,” _Journal of Philosophy_, 87: 23–37.
+* –––, 1995, _Aesthetic Value_, Boulder, CO: Westview.
+* –––, 2004, “Evaluating Art,” in P. Kivy (ed.), _The Blackwell Guide to Aesthetics_, Malden, MA: Blackwell, 93–108.
+* –––, 2005, “The Aesthetic,” in _The Routledge Companion to Aesthetics_, B. Gaut and D. Lopes (eds.), London: Routledge, 255–266.
+* –––, 2006, “The Experiential Account of Aesthetic Value,” _The Journal of Aesthetics and Art Criticism_, 64: 333–342.
+* Gorodeisky, K. and Marcus, E., 2018, “Aesthetic Rationality,” _Journal of Philosophy_, 115: 113–140.
+* Gorodeisky, K., 2021a, “The Authority of Pleasure,” _Noûs_, 55: 199–220.
+* –––, 2021b,“On Liking Aesthetic Value,” _Philosophy and Phenomenological Research_, 102: 261–280.
+* Greenberg, C., 1986, _The Collected Essays and Criticism_, Chicago: University of Chicago Press.
+* Guyer, P., 1993, “The dialectic of disinterestedness: I. Eighteenth-century aesthetics”, in _Kant and the Experience of Freedom: Essays on Aesthetics and Morality_, New York: Cambridge University Press, 48–93.
+* –––, 2004, “The Origins of Modern Aesthetics: 1711–1735” in _The Blackwell Guide to Aesthetics_, P. Kivy (ed.), Malden, MA: Blackwell Publishing, 15–44.
+* Hanslick, E., 1986, _On the Musically Beautiful_, G. Payzant (trans.), Indianapolis: Hackett.
+* Hepburn, R.W., 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty,” in _British Analytical Philosophy_, B. Williams and A. Montefiori (eds.), London: Routledge and Kegan Paul, 285–310.
+* –––, 1968, “Aesthetic Appreciation of Nature” in _Aesthetics in the Modern World_, H. Osborne (ed.), London: Thames and Hudson, 49–66.
+* Herodotus, _The Histories_, R. Waterfield (trans.), Oxford: Oxford University Press, 1998.
+* Home, H. (Lord Kames), 2005, _Elements of Criticism_ (Volume 1), Indianapolis: Liberty Fund.
+* Hopkins, R., 2000, “Beauty and Testimony” in _Philosophy, the Good, the True and the Beautiful_, A. O’Hear (ed.), Cambridge: Cambridge University Press, 209–236.
+* –––, 2004, “Critical Reasoning and Critical Perception,” in _Knowing Art_, M. Kieran and D. Lopes (eds.), Dordrecht: Springer, 137–154.
+* –––, 2011, “How to Be a Pessimist about Aesthetic Testimony,” _The Journal of Philosophy_, 108: 138–157.
+* Hume, D., 1751 \[1985], _Enquiry Concerning the Principles of Morals_, in L.A. Selby-Bigge and P. Nidditch (eds.), _Enquiries Concerning Human Understanding and Concerning the Principles of Morals_, Oxford: Oxford University Press, 1986.
+* –––, 1757 \[1985], “Of the Standard of Taste,” in E. Miller (ed.), _Essays Moral, Political, and Literary_, Indianapolis: Liberty Fund, 226–249.
+* Hutcheson, F., 1725 \[2004], _An Inquiry into the Origin of Our Ideas of Beauty and Virtue_, W. Leidhold (ed.), Indianapolis: Liberty Fund.
+* Iseminger, G., 2003, “Aesthetic Experience,” in _The Oxford Handbook of Aesthetics_, J. Levinson (ed.), Oxford: Oxford University Press, 99–116.
+* –––, 2004, _The Aesthetic Function of Art_, Ithaca, NY: Cornell University Press.
+* Isenberg, A., 1949, “Critical Communication,” _Philosophical Review_, 58(4): 330–344.
+* Kant, I., 1790 \[2000], _Critique of the Power of Judgment_, trans. P. Guyer, and E. Matthews, Cambridge: Cambridge University Press.
+* Kemp, G., 1999, “The Aesthetic Attitude,” _The British Journal of Aesthetics_, 39: 392–399.
+* Kieran, M., 2005, _Revealing Art_, London: Routledge.
+* Kivy, P., 1973, _Speaking of Art_, The Hague: Martinus Nijhoff.
+* –––, 2003, _The Seventh Sense: Francis Hutcheson and Eighteenth-Century British-Aesthetics_, Oxford: Oxford University Press.
+* –––, 2015, _De Gustibus: Arguing About Taste and Why We Do It_, Oxford: Oxford University Press.
+* Kubala, R., 2021, “Aesthetic Practices and Normativity,” _Philosophy and Phenomenological Research_, 103: 408–425.
+* Levinson, J., 1996, _The Pleasures of Aesthetics_, Ithaca, NY: Cornell University Press.
+* –––, 2002, “Hume’s Standard of Taste: The Real Problem,” _The Journal of Aesthetics and Art Criticism_, 60: 227–238.
+* –––, 2006, _Contemplating Art: Essays in Aesthetics_, Oxford: Oxford University Press.
+* Lewis, C.I., 1946, _An Analysis of Knowledge and Valuation_, La Salle, IL: Open Court Press.
+* Lopes, D., 2011, “The Myth of (Non-Aesthetic) Artistic Value,” _The Philosophical Quarterly_, 61: 518–536.
+* –––, 2014, _Beyond Art_, Oxford: Oxford University Press.
+* –––, 2015, “Aesthetic Experts, Guides to Value,” _Journal of Aesthetics and Art Criticism_, 73: 235–246.
+* –––, 2018, _Being for Beauty: Agency and Aesthetic Value_, Oxford: Oxford University Press.
+* –––, 2021, “Normativity, Agency, and Value: A View from Aesthetics,” _Philosophy and Phenomenological Research_, 102: 232–242.
+* Matherne, S., 2020, “Edith Landmann-Kalischer on Aesthetic Demarcation and Normativity,” _British Journal of Aesthetics_, 60: 315–334.
+* Matthen, M., 2017, “The Pleasure of Art,_”_ _Australasian Philosophical Review_, 1: 6–28.
+* Mill, J.S., 1863 \[2001], _Utilitarianism_, 2nd edition, Indianapolis: Hackett.
+* Miller, R., 1998, “Three Versions of Objectivity: Aesthetic, Moral, and Scientific,” in J. Levinson (ed.), _Aesthetics and Ethics_, Cambridge: Cambridge University Press, 26–58.
+* Mothersill, M., 1984, _Beauty Restored_, Oxford: Oxford Clarendon Press.
+* Nguyen, C.T., 2019, “Autonomy and Aesthetic Engagement,” _Mind_, 129: 1127–1156.
+* Peacocke, A., 2021, “Let’s be Liberal: An Alternative to Aesthetic Hedonism,” _British Journal of Aesthetics_, 61: 163–183.
+* Prettejohn, E., 2005, _Beauty and Art: 1750–2000_, Oxford: Oxford University Press.
+* Railton, P., 1998, “Aesthetic Value, Moral Value, and the Ambitions of Naturalism,” in J. Levinson (ed.), _Aesthetics and Ethics_, Cambridge: Cambridge University Press, 59–105.
+* Reid, T., 1785 \[1969], _Essays on the Intellectual Powers of Man_, Cambridge, MA: The M.I.T. Press.
+* Riggle, N., 2015, “On the Aesthetic Ideal,” _The British Journal of Aesthetics_, 55: 433–447.
+* –––, 2016, “On the Interest in Beauty and Disinterest,” _Philosophers’ Imprint_, 16: 1–14.
+* –––, 2022, “Toward a Communitarian Theory of Aesthetic Value,” _Journal of Aesthetics and Art Criticism_, 80: 16–30.
+* Rind, M., 2002, “The Concept of Disinterestedness in Eighteenth-Century British Aesthetics,” _The Journal of the History of Philosophy_, 40: 67–87.
+* Schopenhauer, A., 1819 \[1969], _The World as Will and Representation_, vol. 1, trans. E. Payne, New York: Dover.
+* Sharpe, R.A., 2000, “The Empiricist Theory of Artistic Value,” _Journal of Aesthetics and Art Criticism_, 58: 312–332.
+* Shelley, J., 2003, “The Problem of Non-Perceptual Art,” _The British Journal of Aesthetics_, 43: 363–378.
+* –––, 2004, “Critical Compatibilism,” in _Knowing Art_, D. Lopes and M. Kieran (eds.), Dordrecht: Springer, 125–136.
+* –––, 2007, “Aesthetics and the World at Large,” _The British Journal of Aesthetics_, 47: 169–183.
+* –––, 2010, “Against Value Empiricism in Aesthetics,” _Australasian Journal of Philosophy_, 88: 707–720.
+* –––, 2011, “Hume and the Value of the Beautiful,” _British Journal of Aesthetics_, 51: 213–222.
+* –––, 2019, “The Default Theory of Aesthetic Value,” _British Journal of Aesthetics_, 59: 1–12.
+* –––, 2021, “Punting on the aesthetic question,” _Philosophy and Phenomenological Research_, 102: 214–219.
+* –––, 2022, “Aesthetic Acquaintance,” _Pacific Philosophical Quarterly_, first published 03 January 2022. doi:10.1111/papq.12402
+* Sibley, F., 2001, _Approach to Aesthetics: Collected Papers on Philosophical Aesthetics_, J. Benson, B. Redfern, and J. Cox (eds.), Oxford: Clarendon Press.
+* Stang, N., 2012, “Artworks are Not Valuable for Their Own Sake,” _Journal of Aesthetics and Art Criticism_, 70: 271–280.
+* Stecker, R., 1997a, _Artworks: Definition, Meaning, Value_ University Park: Pennsylvania State University Press.
+* –––, 1997b, “Two Conceptions of Artistic Value,” _Iyyun_, 46: 51–62.
+* –––, 1997c, “The Correct and the Appropriate in the Appreciation of Nature,” _The British Journal of Aesthetics_, 37: 393–402.
+* –––, 2004, “Value in Art,” in J. Levinson (ed.), _The Oxford Handbook of Aesthetics_, Oxford: Oxford University Press, 307–324.
+* –––, 2005, _Aesthetics and the Philosophy of Art_, Lanham, MD: Rowman and Littlefield.
+* –––, 2019, _Intersections of Value: Art, Nature, and the Everyday_, Oxford: Oxford University Press.
+* Stolnitz, J., 1960, _Aesthetics and Philosophy of Art Criticism_, New York: Houghton Mifflin.
+* Terrasson, J., 1715, _Dissertation Critique sur L’lliade d’Homère_, Paris: Fournier and Coustelier.
+* Urmson, J. O., 1957, “What Makes a Situation Aesthetic?,” _Proceedings of the Aristotelian Society_ (Supplementary Volumes), 31: 75–106.
+* Van der Berg, S., 2020, “Aesthetic Hedonism and Its Critics,” _Philosophy Compass_, 15: 1–15.
+* Walton, K.L., 1970, “Categories of Art,” _The Philosophical Review_, 79 (3): 334–367.
+* –––, 1993, “How Marvelous!: Towards a Theory of Aesthetic Value,” _Journal of Aesthetics and Art Criticism_, 51: 499–510.
+* Watkins, G.M., and Shelley, J., 2012, “Response-Dependence about Aesthetic Value,” _Pacific Philosophical Quarterly_, 93: 338–352.
+* Wimsatt, W. and Brooks, C., 1957, _Literary Criticism: A Short History_, New York: Knopf.
+* Wolf, S., 2011, “Good-for-Nothings,” _Proceedings and Addresses of the American Philosphical Association_, 85: 47–64.
+* Zangwill, N., 1998, “Aesthetic/Sensory Dependence,” _British Journal of Aesthetics_, 38: 66–81.
+* –––, 1999, “Art and Audience,” _The Journal of Aesthetics and Art Criticism_, 57: 315–332.
+* –––, 2001, _The Metaphysics of Beauty_, Ithaca, NY: Cornell University Press.
+* –––, 2007, _Aesthetic Creation_, Oxford: Oxford University Press.
 
 ## Academic Tools
 
@@ -412,4 +412,4 @@ Lopes 选择的例子并不是随意的。有特定的艺术批评理由认为�
 aesthetics: and the philosophy of art | existentialist-aesthetics | [aesthetics: 19th Century Romantic](https://plato.stanford.edu/entries/aesthetics-19th-romantic/) | [aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [aesthetics: environmental](https://plato.stanford.edu/entries/environmental-aesthetics/) | [aesthetics: French, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-french/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [aesthetics of the everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/) | [Beardsley, Monroe C.: aesthetics](https://plato.stanford.edu/entries/beardsley-aesthetics/) | [Collingwood, Robin George: aesthetics](https://plato.stanford.edu/entries/collingwood-aesthetics/) | [Croce, Benedetto: aesthetics](https://plato.stanford.edu/entries/croce-aesthetics/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [feminist philosophy, interventions: aesthetics](https://plato.stanford.edu/entries/feminism-aesthetics/) | [Gadamer, Hans-Georg: aesthetics](https://plato.stanford.edu/entries/gadamer-aesthetics/) | [Goodman, Nelson: aesthetics](https://plato.stanford.edu/entries/goodman-aesthetics/) | [Hegel, Georg Wilhelm Friedrich: aesthetics](https://plato.stanford.edu/entries/hegel-aesthetics/) | [Heidegger, Martin: aesthetics](https://plato.stanford.edu/entries/heidegger-aesthetics/) | [Hume, David: aesthetics](https://plato.stanford.edu/entries/hume-aesthetics/) | [Japanese Philosophy: aesthetics](https://plato.stanford.edu/entries/japanese-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Plato: aesthetics](https://plato.stanford.edu/entries/plato-aesthetics/) | [Schopenhauer, Arthur: aesthetics](https://plato.stanford.edu/entries/schopenhauer-aesthetics/) | [Wittgenstein, Ludwig: aesthetics](https://plato.stanford.edu/entries/wittgenstein-aesthetics/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/) <[*shelljr@auburn.edu*](mailto:shelljr%40auburn%2eedu)>
+[James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/) <[_shelljr@auburn.edu_](mailto:shelljr%40auburn%2eedu)>

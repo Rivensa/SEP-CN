@@ -1,6 +1,6 @@
 # 18 世纪法国美学 French, in the 18th century (Jennifer Tsien and Jacques Morizot)
 
-*首次发表于 2004 年 2 月 29 日；实质性修订于 2023 年 11 月 13 日*
+_首次发表于 2004 年 2 月 29 日；实质性修订于 2023 年 11 月 13 日_
 
 古代法国哲学家写了关于美或品味的论文；术语“美学”在法国并不常用，直到 18 世纪末才偶尔出现。德国哲学家亚历山大·鲍姆加滕于 1735 年创造了拉丁词“aesthetica”（§116）。哲学家将品味（“goût”或“goust”）描述为一种情感，使创作者和消费者都能辨别出一个物体的美。有时，作者更关注物体本身，比如一幅画；有时，他们研究的是创造它或观看它的人内心发生的事情。
 
@@ -52,13 +52,13 @@
 
 Jean-Baptiste Dubos 在他的《诗歌、绘画和音乐的批判性思考》（1719）中，将品味的能力描述为一种他称之为第六感的情感，忽略了理性或道德的作用，而他的同时代人 Jean-Pierre Crousaz 则认为这是品味的重要方面。他的作品早于苏格兰哲学家弗朗西斯·哈奇森于 1725 年发表的美学论文，其中他也讨论了一种感知美的第六感。根据 Dubos 的说法，艺术作品的接受发生在身体中：例如，当我们看到一出戏剧时，我们会颤抖、哭泣或感到惊讶。他描述了艺术如何积极地影响我们的情绪，同时承认看到绘画或戏剧中描绘的死亡与亲眼目睹真实死亡的效果是不同的。他还详细描述了气候如何影响国家，从而促进或阻碍世界某些地区优秀艺术家的繁衍。这种思维方式早在希波克拉底对气候对国家性格影响的思考中就已经开始，并延伸到胡安·瓦尔特对体温对雄辩的影响以及孟德斯鸠关于气候如何决定人类行为以及每个国家政治制度的主张。这种气候理论是 Dubos 关于艺术感知发生在身体中的观点的一部分，无论是对观众还是对创作者来说，艺术最终都是一种身体之间的交流手段。
 
-关于杜博斯（Dubos）存在一个误解，即他使品味民主化，因为在《反思》（*Reflections*）的某些段落中，他提到“公众”和“*tout le monde*”可以对艺术品有适当的接受。然而，在其他段落中，他解释了他对这些术语的理解：“*tout le monde*”并不是通常翻译的“每个人”，实际上他用“*le monde*”来指代上流社会，也就是 18 世纪所称的“*le beau monde*”。至于普通大众，他明确排除了“下层人民”对诗歌或绘画有判断能力的“公众”（杜博斯，《批判性反思》，II:245）。
+关于杜博斯（Dubos）存在一个误解，即他使品味民主化，因为在《反思》（_Reflections_）的某些段落中，他提到“公众”和“_tout le monde_”可以对艺术品有适当的接受。然而，在其他段落中，他解释了他对这些术语的理解：“_tout le monde_”并不是通常翻译的“每个人”，实际上他用“_le monde_”来指代上流社会，也就是 18 世纪所称的“_le beau monde_”。至于普通大众，他明确排除了“下层人民”对诗歌或绘画有判断能力的“公众”（杜博斯，《批判性反思》，II:245）。
 
-像杜博斯一样，兰伯特侯爵夫人在她的《品味反思》中也谈到了好品味作为一种愉悦或*agrément*的情感。一个人正确的判断取决于她的敏感程度，兰伯特夫人声称这是无法学习的；相反，它是通过与优秀作品的接触和经验积累而形成的。
+像杜博斯一样，兰伯特侯爵夫人在她的《品味反思》中也谈到了好品味作为一种愉悦或_agrément_的情感。一个人正确的判断取决于她的敏感程度，兰伯特夫人声称这是无法学习的；相反，它是通过与优秀作品的接触和经验积累而形成的。
 
 自然给予我们它的一切，我们永远无法获得它，只有世界上更精致的部分才能以任何程度的完美来了解它。（兰伯特 1748 年：217 \[1790 年：183]）
 
-她不考虑基于规则的美的定义，也许是因为这些可以学习。事实上，她在对品味的思考中排斥了美的概念，而将“*agréable*”置于优先地位，这个词可以翻译为“令人愉快”或“宜人”：
+她不考虑基于规则的美的定义，也许是因为这些可以学习。事实上，她在对品味的思考中排斥了美的概念，而将“_agréable_”置于优先地位，这个词可以翻译为“令人愉快”或“宜人”：
 
 尽管美有规则，但宜人之美却没有。没有宜人之美的美丽永远无法给我们带来细腻的愉悦；宜人之美是品味的本质主题，正是因为如此，它在我们心中的喜爱远远超过美丽；而且它是任意和多变的，就像品味本身一样。（兰伯特 1748 年：217 \[1790 年：184]）
 
@@ -92,7 +92,7 @@ Crousaz 对这种二元性并不满意；相反，他认为我们有责任去发
 
 我称之为美，不是因为它能迎合想象的第一眼，而是因为它有权利通过自身的卓越来迎合理性和思考。（《美的论文》引自 Becq 1994: 419 \[J. Morizot 翻译]）
 
-对他来说，*美*和*真理*没有区别，这正是完美美学的定义。但美感是任何创造或接受行为的正常情感伴随，也是人类作为一个物种的显著特征。
+对他来说，_美_和_真理_没有区别，这正是完美美学的定义。但美感是任何创造或接受行为的正常情感伴随，也是人类作为一个物种的显著特征。
 
 查尔斯·巴特克斯（Charles Batteux）的目标有些不同。1746 年出版的《美术归纳为单一原则》（The Fine Arts Reduced to a Single Principle）中，他接受了一个挑战：将亚里士多德的思想牢固地建立为艺术统一体系的基础。他关注的主要概念是“模仿”（mimesis），但泛指任何形式的艺术（超越了亚里士多德或贺拉斯的观点）。为了实现这种泛化，他区分了自由艺术（其对象是愉悦，即音乐、诗歌、绘画、雕塑和舞蹈）和机械艺术，并提出了对“美丽自然的模仿”的解释（Batteux 1746）。他坚持认为，模仿不是机械地复制给定的事物，而是一个明智而开明的过程，努力朝着最佳结果前进。他回忆了宙西斯（Zeuxis）的著名轶事，宙西斯从克罗托内最完美的女性身上取部分来构成了他的《海伦》（Helen），他得出结论，艺术家有责任模仿理性认定为自然本质的东西。这就是为什么巴特克斯如此赞扬技巧：“艺术是为了欺骗而存在”（Batteux 1746），并不是因为它本质上是欺骗性的，而是因为真理是一个隐藏其结构和发展的复杂构造。当然，当我们问艺术家如何选择将要组合在他的“美丽自然”模仿中的部分时，品味的问题仍然没有解决：他根据什么标准确定某个自然部分是美丽的？
 
@@ -114,7 +114,7 @@ Crousaz 对这种二元性并不满意；相反，他认为我们有责任去发
 
 在有关文学和音乐品味的辩论进行的同时，视觉艺术领域也出现了其他的争论。艺术家们感到有了新的权威，可以公开地对自己的作品进行理论化探讨，尽管在 1719 年，杜博仍然将他们称为“工匠”，回溯到艺术家不再比其他熟练工人更有声望的时代。然而，路易十四在 1648 年建立了皇家绘画雕塑学院，从而给予这些曾经的工匠特殊的地位。他任命查尔斯·勒布伦（Charles Le Brun）担任国王的首席画家，并成为该学院的创始院长。学院的领导者们制定了一套学徒制度和考试，申请者必须通过这些考试才能正式被接纳。画家们根据自己希望得到的接受程度，可以呈现一件“大类别”（grand genre）的杰作：即历史、神话或宗教场景。否则，他们可以从一些次要的类别中选择，按照降序排列，包括肖像、风景、描绘日常生活的“风俗”场景，以及最后的静物画。
 
-17 世纪发生了一场重大的争论，争论双方分别是线条派和色彩派，或者说是普桑派和鲁本斯派。很长一段时间里，色彩被忽视了，原因至少有三个：根据夏尔·勒布朗的话来说，色彩只是“光线反射产生的偶然现象，根据环境而变化”（1672 年\[AT: 183]）；它吸引人的是感官，而“我们不能仅凭感官判断，而是要凭理性”如普桑在 1647 年 11 月 24 日写给尚特卢的信中所说（AT: 69）；而且它无法成为绘画的基础，不像与思维相关的绘画（*disegno*的原始意义是绘画或设计）。
+17 世纪发生了一场重大的争论，争论双方分别是线条派和色彩派，或者说是普桑派和鲁本斯派。很长一段时间里，色彩被忽视了，原因至少有三个：根据夏尔·勒布朗的话来说，色彩只是“光线反射产生的偶然现象，根据环境而变化”（1672 年\[AT: 183]）；它吸引人的是感官，而“我们不能仅凭感官判断，而是要凭理性”如普桑在 1647 年 11 月 24 日写给尚特卢的信中所说（AT: 69）；而且它无法成为绘画的基础，不像与思维相关的绘画（_disegno_的原始意义是绘画或设计）。
 
 画家加布里埃尔·布兰查德在 1671 年开始谨慎地支持在学院中使用色彩。他并不想“减少设计的重要性”，而是想通过色彩来增强绘画的效果。
 
@@ -132,7 +132,7 @@ Crousaz 对这种二元性并不满意；相反，他认为我们有责任去发
 
 总之，
 
-> 观众并不必在一幅画中寻找*真理*；但是，*真理*必须通过其效果来*呼唤观众*，并引起他的注意。（1708 年\[AT：310]）
+> 观众并不必在一幅画中寻找_真理_；但是，_真理_必须通过其效果来_呼唤观众_，并引起他的注意。（1708 年\[AT：310]）
 
 这指向了他所称之为“整体一体”，即“物体之间的普遍从属关系，使它们共同构成一个整体”，以最大程度地满足眼睛的需求（1708 年\[AT: 312]）。从安托万·科伊佩尔（Antoine Coypel）的著作中也可以得出同样的教训，其中“绘画的卓越”不再与“画家的审美”分离。他于 1714 年被任命为学院的主任，这标志着一个时代的转变。
 
@@ -146,7 +146,7 @@ Crousaz 对这种二元性并不满意；相反，他认为我们有责任去发
 
 在正式博物馆出现之前的时代，公众几乎无法接触到艺术，直到皇家学院于 1737 年开始在所谓的沙龙中展示绘画作品。沙龙最初是一个政治和社交事件，于 8 月 25 日——圣路易斯节——在卢浮宫的沙龙卡雷举行，以向国王致敬，持续一个月。多年来，它成为追踪风格和美学思想主要趋势的宝贵指南，考虑到作品列表以及绘画流派的演变趋势。但沙龙崛起最重要的后果是诞生了一种新的文学体裁，即沙龙评论，它一直繁荣到 20 世纪，并成为美学思想的无可比拟的镜子。最初，这些评论只是描述性报告和理论旁白的混合体，经常引起争议。沙龙是为了更大的公众利益，即那些不一定与某些艺术机构有关的人。正如圣-伊恩·拉·方特在 1747 年写道：
 
-一个展出的图片就像是一本出版当天的书，或者是在剧院上演的戏剧：每个人都有权利做出自己的判断。我们已经汇集了公众的判断，这些判断显示出最大程度的一致和公正，现在我们将*它们*呈现给艺术家们，而不是我们自己的判断，我们相信这个同样的公众（他们的判断经常是奇怪和不公正的，或者匆忙地谴责），当他们的声音在某个特定作品的优点或弱点上达成一致时，很少会犯错。（1747 \[AT: 555]）
+一个展出的图片就像是一本出版当天的书，或者是在剧院上演的戏剧：每个人都有权利做出自己的判断。我们已经汇集了公众的判断，这些判断显示出最大程度的一致和公正，现在我们将_它们_呈现给艺术家们，而不是我们自己的判断，我们相信这个同样的公众（他们的判断经常是奇怪和不公正的，或者匆忙地谴责），当他们的声音在某个特定作品的优点或弱点上达成一致时，很少会犯错。（1747 \[AT: 555]）
 
 随着卡伊吕斯、巴耶·德·圣朱利安和尤其是狄德罗的出现，绘画的审美重要性越来越受到强调，为一系列热衷于绘画的作家开辟了道路。
 
@@ -154,7 +154,7 @@ Crousaz 对这种二元性并不满意；相反，他认为我们有责任去发
 
 > 这是魔法，人们无法理解它是如何完成的：厚厚的颜料层层叠加，每一层都从下面透过来产生效果。有时，看起来就像画布上有人呼吸而起雾；有时，就像薄薄的水膜降落在上面……近看，一切都模糊、扁平并消失了。从远处看，一切都复活并重新出现。（1763 年\[AT：604]）
 
-同时，狄德罗意识到画家的力量使得作家很难让读者深入理解一幅画作。尽管困难重重，作家必须以某种方式表达一幅杰作的本质，从而实现一种*描写*，即写作艺术试图用文字捕捉视觉艺术——绘画的本质和形式。评论家不仅必须为读者提供对所讨论作品的简短描述，还必须努力使自己的文字与所讨论作品所表达的情感相等。
+同时，狄德罗意识到画家的力量使得作家很难让读者深入理解一幅画作。尽管困难重重，作家必须以某种方式表达一幅杰作的本质，从而实现一种_描写_，即写作艺术试图用文字捕捉视觉艺术——绘画的本质和形式。评论家不仅必须为读者提供对所讨论作品的简短描述，还必须努力使自己的文字与所讨论作品所表达的情感相等。
 
 除了狄德罗所崇拜的杰出画家，如格吕兹和夏尔丹，18 世纪还出现了两种主导风格的竞争，洛可可和新古典主义。洛可可艺术家，如弗朗索瓦·布歇，倾向于描绘富丽的室内或田园环境中的调情场景，而批评者则嘲笑其为柔弱。洛可可艺术家有时选择神话题材，新古典主义画家也是如此，但后者插入了明显的教诲信息。狄德罗等哲学家赞扬后者的风格，因为他们声称它会在民众中灌输更多有男子气概的爱国主义感。人们可以将雅克-路易·大卫在革命期间的作品视为古典题材、传统男子美德形象和民族自豪感的最终融合。法国对古代的兴趣在旧制度时期一直持续不衰，但随着雅典、庞贝和其他新发现的城市的考古遗址印刷图像的传播，这种兴趣得到了进一步丰富。
 
@@ -166,83 +166,83 @@ Crousaz 对这种二元性并不满意；相反，他认为我们有责任去发
 
 Many of the quotes in the text can be found in the following anthology:
 
-* Harrison, Charles, Paul Wood, and Jason Gaiger (eds.), 2000, *Art in Theory, 1648–1815: An Anthology of Changing Ideas*, Oxford: Blackwell Publishers
+* Harrison, Charles, Paul Wood, and Jason Gaiger (eds.), 2000, _Art in Theory, 1648–1815: An Anthology of Changing Ideas_, Oxford: Blackwell Publishers
 
-This is cited as \[**AT**] in the text. In Section 3, the translations of the quotes from J.-P. de Crousaz 1715 (*Traité du beau*) are by Katerina Deligiorgi.
+This is cited as \[**AT**] in the text. In Section 3, the translations of the quotes from J.-P. de Crousaz 1715 (_Traité du beau_) are by Katerina Deligiorgi.
 
 Other useful anthologies include:
 
-* Elledge, Scott and Donald Schier (eds.), 1970, *The Continental Model: Selected French Essays of the Seventeenth Century*, revised edition, Ithaca and London: Cornell University Press; original edition 1960.
-* Lecoq, Anne-Marie, 2001, *La Querelle des Anciens et des Modernes*, Paris: Gallimard Folio.
-* Lichtenstein, Jacqueline and Christian Michel, 2007–2015, *Conférences de l’Académie royale de Peinture et de Sculpture, 1648–1793*, Paris: Beaux-Arts de Paris éditions. \[[*Conférences* 1648–1793 available online](https://perspectivia.net/publikationen/conference)]
-* Saint-Girons, Baldine, 1990, *Esthétiques du XVIIIe siècle: le modèle français*, Paris: Sers.
+* Elledge, Scott and Donald Schier (eds.), 1970, _The Continental Model: Selected French Essays of the Seventeenth Century_, revised edition, Ithaca and London: Cornell University Press; original edition 1960.
+* Lecoq, Anne-Marie, 2001, _La Querelle des Anciens et des Modernes_, Paris: Gallimard Folio.
+* Lichtenstein, Jacqueline and Christian Michel, 2007–2015, _Conférences de l’Académie royale de Peinture et de Sculpture, 1648–1793_, Paris: Beaux-Arts de Paris éditions. \[[_Conférences_ 1648–1793 available online](https://perspectivia.net/publikationen/conference)]
+* Saint-Girons, Baldine, 1990, _Esthétiques du XVIIIe siècle: le modèle français_, Paris: Sers.
 
 ### Primary Literature
 
-* André, Yves Marie, 1741, *Essai sur le beau, où l’on examine en quoi consiste précisément le beau dans le physique, dans le moral, dans les ouvrages d’esprit et dans la musique*, Paris: Guérin.
-* Batteux, Charles, 1746 \[2015], *Les Beaux-arts réduits à un même principe*, Paris: Durand. Translated as, *The Fine Arts Reduced to a Single Principle*, James O. Young (trans.), Oxford: Oxford University Press, 2015. doi:10.1093/actrade/9780198747116.book.1
-* –––, 1753, *Cours de belles-lettres, ou Principes de la littérature* (*Principles of Literature*), Paris: Durand.
-* Baumgarten, Alexander Gottlieb, 1735, *Meditationes philosophicae de Nonnullis ad poema pertinentibus*, \[[Baumgarten 1735 available online](https://archive.org/details/meditationesphi00unkngoog/page/n56)]
-* Blanchard, Louis-Gabriel, 1671, “Sur le mérite de la couleur”, in A. Fontaine, *Conférences inédites de l’Académie royale de Peinture et de Sculpture*, Paris: Minerva, 1903; translation in \[AT] by Katerina Deligiorgi.
-* Bouhours, Dominque, 1671 \[1705], *Entretiens d’Ariste et Eugène*, Paris: Mabre-Cramois. Translated as *The Art of Criticism*, 1705; reprinted Delmar, NY: Scholar’s Facsimiles & Reprints, 1981.
-* Cartaud de la Vilate, François, 1726, *Essai historique et philosophique sur le goût*, Paris: Chez Maudouyt.
-* Cochin, Charles Nicolas and Jérôme Charles Bellicard, 1753, *Observations upon the Antiquities of the Town of Herculaneum*, London: D. Wilson and T. Durham. \[[Cochin and Bellicard 1753 available online](https://archive.org/details/observationsupon00bell/page/n3)]
-* Crousaz, Jean-Pierre de, 1715, *Traité du beau, Où l’on montre en quoi consiste ce que l’on nomme ainsi, par des exemples tirez de la plûpart des arts & des sciences*, Amsterdam: Chez François L’Honoré. Part translated as “Treatise on Beauty” in AT: ch. 70.
-* Dacier, Anne Le Fèvre, 1711, *L’Iliade d’Homère Traduite en François*, Paris.
-* –––, 1714, *Des Causes de la Corruption du Goust* (On the Causes of the Corruption of Taste), Paris: Rigaud.
-* De Piles, Roger (trans.), 1668, *L’art de peinture, de Charles-Alphonse Du Fresnoy*, Paris. \[[De Piles 1668 available online](https://gallica.bnf.fr/ark:/12148/bpt6k111079h)]
-* –––, 1673, *Dialoque sur le coloris* (Dialogue upon Coloring), Paris: N. Langlois. \[[De Piles 1673 available online](https://gallica.bnf.fr/ark:/12148/bpt6k5801254g)]
-* –––, 1708, *Cours de peinture par principes avec un balance de peintres*, Paris: J. Estienne; translated as *The Principles of Painting*, anonymous translator, London: J. Osborn, 1743. \[[De Piles 1708 available online](https://gallica.bnf.fr/ark:/12148/bpt6k1051278h)]
-* Diderot, Denis, 1751a, “Beau”, in *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers*, Diderot and d’Alembert (eds), 1751–1765, Paris: Briasson, vol. 1: 169–181. \[[Diderot 1751a available online](https://artflsrv04.uchicago.edu/philologic4.7/encyclopedie0922/navigate/2/1354)]
-* –––, 1751b, *Lettre sur les sourds et muets a l’usage de ceux qui entendent et qui parlent* (*Letter on the Deaf and Dumb, for the use of those who hear and speak*), published anonymously. \[[Diderot 1751b available online](https://gallica.bnf.fr/ark:/12148/btv1b86262546/f7.image)]
-* –––, *Diderot on Art I: The Salon of 1765 and Notes on Painting* (“Essais sur la peinture”, 1766), John Goodman (trans.), New Haven, CT: Yale University Press, 1995.
-* –––, *Diderot on Art II: The Salon of 1767*, John Goodman (trans.), New Haven, CT: Yale University Press, 1995.
-* –––, 1763, *Œuvres*, Laurent Versini (ed.), volume 4 of 5, Paris: Laffont, 1996; translation in \[AT] by Kate Tunstall.
-* DuBos, Jean-Baptiste, 1719, *Réflexions critiques sur la poésie et sur la peinture*, Paris: Mariette, 1733. Translated as *Critical Reflections on Poetry, Painting and Music*, Thomas Nugent (trans.), London: John Nourse, 1748.
-* Félibien, André, 1667, *Conferences de l’Academie royale de peinture et de sculpture, pendant l’année 1667*, Paris: Frederic Leonard. Translated as *Seven Conferences Held in the King of France’s Cabinet of Paintings*, Henri Testelin (trans.). London: T. Cooper, 1740.
-* –––, 1725, *Entretiens sur les vies et les ouvrages des plus excellents peintres anciens et modernes*, Trévoux: Imprimerie de S. A. S.; translation in \[AT] by Jonathan Murphy. \[Félibien died in 1695 and this work was published posthumously.]
-* Hutcheson, Francis, 1725, *Inquiry into the Original of our Ideas of Beauty and Virtue in Two Treatises*, London.
-* Jaucourt, Louis de, 1765, “Louvre, Le”, in *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers*, Diderot and d’Alembert (eds), 1751–1765, Paris: Briasson,vol. 9: 706–707.
-* La Font de Saint-Yenne, Étienne, 1747, *Réflexions sur quelques causes de l’état présent de la peinture en France*, The Hague: Jean Neaulme.
-* La Motte, Houdar de, 1714, *L’Iliade, avec Discours sur Homère*, Paris: Dupuis. \[[La Motte 1714 available online](http://iliadeodyssee.texte.free.fr/aatexte/houdar/accueilhoudart/iliadhoudart.htm)]
-* Lambert, Anne-Thérèse, Marquise de, 1748, “Reflexions sur le Goût”, in *Œuvres*, Paris: Ganeau, 214–218. Translated as “Some Thoughts on Taste”, in *The Works of the Marchioness de Lambert*, Dublin: J. Potts, 1770, 181–184.
-* Le Brun, Charles, 1672, “Sentiments sur le discours du mérite de la couleur par M. Blanchard”, in André Fontaine, *Conférences inédites de l’Académie royale de Peinture et de Sculpture*, Paris: Minerva, 1903, pp. 35–43; translation in AT by Katerina Deligiorgi.
-* Mariette, Pierre-Jean, 1851–60, *Abecedario de P.J. Mariette*, 6 volumes, Paris.
-* Marmontel, Jean François, 1787, *Eléments de littérature*, Paris: Desjonquères, 2005.
-* Montesquieu, C., Voltaire, and Jean Le Rond d’Alembert, 1757, “Goût”, in *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers*, Diderot and d’Alembert (eds), 1751–1765, Paris: Briasson, vol. 7: 758–770. Translated as an annex to Alexander Gerard, 1759, *Essay on Taste, with Three Dissertations on the Same Subject by Mr de Voltaire, Mr d’Alembert, Mr de Montesquieu*, London: A. Millar. \[[*Goût* 1759 available online](https://archive.org/details/essayontaste00geraiala/page/n6)]
-* Pernéty, Antoine-Joseph, 1757, *Dictionnaire portatif de peinture, sculpture et gravure*, Paris: Bauche. \[[Pernéty 1757 available online](https://gallica.bnf.fr/ark:/12148/bpt6k9785051k)]
-* Perrault, Charles, 1688–1697, *Parallèle des Anciens et des Modernes*, Paris: Coignard.
-* Poussin, Nicolas, 1647, “Letter to Chantelou”, in Anthony Blunt, *Nicolas Poussin*, London: Phaidon, 1967, pp. 367, A. Blunt (trans.).
-* Rameau, Jean-Philippe, 1722, *Traité de L’Harmonie: Reduite à ses Principes naturels* (*Treatise on Harmony*), Paris: Ballard.
-* –––, 1750, *Démonstration du principe de l’harmonie*, Paris: Durand.
-* Rousseau, Jean-Jacques, 1753, *Lettre sur la musique français*, (*Letter on French Music*). \[[Rousseau 1753 available online](http://catalogue.bnf.fr/ark:/12148/cb31257550h)]
-* Voltaire, 1733, *Le Temple du goût* (*The Temple of Taste*), Amsterdam: Jaques Desbordes. \[[Voltaire 1733 available online](https://gallica.bnf.fr/ark:/12148/bpt6k311868p)]
-* Watelet, Claude-Henri and Pierre-Charles Lévesque, 1792, *Dictionnaire des arts de peinture, sculpture et gravure*, 5 volumes, Paris: Prault.
+* André, Yves Marie, 1741, _Essai sur le beau, où l’on examine en quoi consiste précisément le beau dans le physique, dans le moral, dans les ouvrages d’esprit et dans la musique_, Paris: Guérin.
+* Batteux, Charles, 1746 \[2015], _Les Beaux-arts réduits à un même principe_, Paris: Durand. Translated as, _The Fine Arts Reduced to a Single Principle_, James O. Young (trans.), Oxford: Oxford University Press, 2015. doi:10.1093/actrade/9780198747116.book.1
+* –––, 1753, _Cours de belles-lettres, ou Principes de la littérature_ (_Principles of Literature_), Paris: Durand.
+* Baumgarten, Alexander Gottlieb, 1735, _Meditationes philosophicae de Nonnullis ad poema pertinentibus_, \[[Baumgarten 1735 available online](https://archive.org/details/meditationesphi00unkngoog/page/n56)]
+* Blanchard, Louis-Gabriel, 1671, “Sur le mérite de la couleur”, in A. Fontaine, _Conférences inédites de l’Académie royale de Peinture et de Sculpture_, Paris: Minerva, 1903; translation in \[AT] by Katerina Deligiorgi.
+* Bouhours, Dominque, 1671 \[1705], _Entretiens d’Ariste et Eugène_, Paris: Mabre-Cramois. Translated as _The Art of Criticism_, 1705; reprinted Delmar, NY: Scholar’s Facsimiles & Reprints, 1981.
+* Cartaud de la Vilate, François, 1726, _Essai historique et philosophique sur le goût_, Paris: Chez Maudouyt.
+* Cochin, Charles Nicolas and Jérôme Charles Bellicard, 1753, _Observations upon the Antiquities of the Town of Herculaneum_, London: D. Wilson and T. Durham. \[[Cochin and Bellicard 1753 available online](https://archive.org/details/observationsupon00bell/page/n3)]
+* Crousaz, Jean-Pierre de, 1715, _Traité du beau, Où l’on montre en quoi consiste ce que l’on nomme ainsi, par des exemples tirez de la plûpart des arts & des sciences_, Amsterdam: Chez François L’Honoré. Part translated as “Treatise on Beauty” in AT: ch. 70.
+* Dacier, Anne Le Fèvre, 1711, _L’Iliade d’Homère Traduite en François_, Paris.
+* –––, 1714, _Des Causes de la Corruption du Goust_ (On the Causes of the Corruption of Taste), Paris: Rigaud.
+* De Piles, Roger (trans.), 1668, _L’art de peinture, de Charles-Alphonse Du Fresnoy_, Paris. \[[De Piles 1668 available online](https://gallica.bnf.fr/ark:/12148/bpt6k111079h)]
+* –––, 1673, _Dialoque sur le coloris_ (Dialogue upon Coloring), Paris: N. Langlois. \[[De Piles 1673 available online](https://gallica.bnf.fr/ark:/12148/bpt6k5801254g)]
+* –––, 1708, _Cours de peinture par principes avec un balance de peintres_, Paris: J. Estienne; translated as _The Principles of Painting_, anonymous translator, London: J. Osborn, 1743. \[[De Piles 1708 available online](https://gallica.bnf.fr/ark:/12148/bpt6k1051278h)]
+* Diderot, Denis, 1751a, “Beau”, in _Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers_, Diderot and d’Alembert (eds), 1751–1765, Paris: Briasson, vol. 1: 169–181. \[[Diderot 1751a available online](https://artflsrv04.uchicago.edu/philologic4.7/encyclopedie0922/navigate/2/1354)]
+* –––, 1751b, _Lettre sur les sourds et muets a l’usage de ceux qui entendent et qui parlent_ (_Letter on the Deaf and Dumb, for the use of those who hear and speak_), published anonymously. \[[Diderot 1751b available online](https://gallica.bnf.fr/ark:/12148/btv1b86262546/f7.image)]
+* –––, _Diderot on Art I: The Salon of 1765 and Notes on Painting_ (“Essais sur la peinture”, 1766), John Goodman (trans.), New Haven, CT: Yale University Press, 1995.
+* –––, _Diderot on Art II: The Salon of 1767_, John Goodman (trans.), New Haven, CT: Yale University Press, 1995.
+* –––, 1763, _Œuvres_, Laurent Versini (ed.), volume 4 of 5, Paris: Laffont, 1996; translation in \[AT] by Kate Tunstall.
+* DuBos, Jean-Baptiste, 1719, _Réflexions critiques sur la poésie et sur la peinture_, Paris: Mariette, 1733. Translated as _Critical Reflections on Poetry, Painting and Music_, Thomas Nugent (trans.), London: John Nourse, 1748.
+* Félibien, André, 1667, _Conferences de l’Academie royale de peinture et de sculpture, pendant l’année 1667_, Paris: Frederic Leonard. Translated as _Seven Conferences Held in the King of France’s Cabinet of Paintings_, Henri Testelin (trans.). London: T. Cooper, 1740.
+* –––, 1725, _Entretiens sur les vies et les ouvrages des plus excellents peintres anciens et modernes_, Trévoux: Imprimerie de S. A. S.; translation in \[AT] by Jonathan Murphy. \[Félibien died in 1695 and this work was published posthumously.]
+* Hutcheson, Francis, 1725, _Inquiry into the Original of our Ideas of Beauty and Virtue in Two Treatises_, London.
+* Jaucourt, Louis de, 1765, “Louvre, Le”, in _Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers_, Diderot and d’Alembert (eds), 1751–1765, Paris: Briasson,vol. 9: 706–707.
+* La Font de Saint-Yenne, Étienne, 1747, _Réflexions sur quelques causes de l’état présent de la peinture en France_, The Hague: Jean Neaulme.
+* La Motte, Houdar de, 1714, _L’Iliade, avec Discours sur Homère_, Paris: Dupuis. \[[La Motte 1714 available online](http://iliadeodyssee.texte.free.fr/aatexte/houdar/accueilhoudart/iliadhoudart.htm)]
+* Lambert, Anne-Thérèse, Marquise de, 1748, “Reflexions sur le Goût”, in _Œuvres_, Paris: Ganeau, 214–218. Translated as “Some Thoughts on Taste”, in _The Works of the Marchioness de Lambert_, Dublin: J. Potts, 1770, 181–184.
+* Le Brun, Charles, 1672, “Sentiments sur le discours du mérite de la couleur par M. Blanchard”, in André Fontaine, _Conférences inédites de l’Académie royale de Peinture et de Sculpture_, Paris: Minerva, 1903, pp. 35–43; translation in AT by Katerina Deligiorgi.
+* Mariette, Pierre-Jean, 1851–60, _Abecedario de P.J. Mariette_, 6 volumes, Paris.
+* Marmontel, Jean François, 1787, _Eléments de littérature_, Paris: Desjonquères, 2005.
+* Montesquieu, C., Voltaire, and Jean Le Rond d’Alembert, 1757, “Goût”, in _Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers_, Diderot and d’Alembert (eds), 1751–1765, Paris: Briasson, vol. 7: 758–770. Translated as an annex to Alexander Gerard, 1759, _Essay on Taste, with Three Dissertations on the Same Subject by Mr de Voltaire, Mr d’Alembert, Mr de Montesquieu_, London: A. Millar. \[[_Goût_ 1759 available online](https://archive.org/details/essayontaste00geraiala/page/n6)]
+* Pernéty, Antoine-Joseph, 1757, _Dictionnaire portatif de peinture, sculpture et gravure_, Paris: Bauche. \[[Pernéty 1757 available online](https://gallica.bnf.fr/ark:/12148/bpt6k9785051k)]
+* Perrault, Charles, 1688–1697, _Parallèle des Anciens et des Modernes_, Paris: Coignard.
+* Poussin, Nicolas, 1647, “Letter to Chantelou”, in Anthony Blunt, _Nicolas Poussin_, London: Phaidon, 1967, pp. 367, A. Blunt (trans.).
+* Rameau, Jean-Philippe, 1722, _Traité de L’Harmonie: Reduite à ses Principes naturels_ (_Treatise on Harmony_), Paris: Ballard.
+* –––, 1750, _Démonstration du principe de l’harmonie_, Paris: Durand.
+* Rousseau, Jean-Jacques, 1753, _Lettre sur la musique français_, (_Letter on French Music_). \[[Rousseau 1753 available online](http://catalogue.bnf.fr/ark:/12148/cb31257550h)]
+* Voltaire, 1733, _Le Temple du goût_ (_The Temple of Taste_), Amsterdam: Jaques Desbordes. \[[Voltaire 1733 available online](https://gallica.bnf.fr/ark:/12148/bpt6k311868p)]
+* Watelet, Claude-Henri and Pierre-Charles Lévesque, 1792, _Dictionnaire des arts de peinture, sculpture et gravure_, 5 volumes, Paris: Prault.
 
 ### Secondary Literature
 
-* Barbafieri, Carine, 2021, *Anatomie du “mauvais goût” (1628–1730)*, Paris: Classiques Garnier.
-* Becq, Annie, 1994, *Genèse de l’esthétique française moderne, 1680–1814*, Paris: Albin Michel.
-* Cassirer, Ernst, 1932, *Die Philosophie der Aufkärung*, Tübingen: J.C.B. Mohr. Translated as *The Philosophy of the Enlightenment*, Fritz C.A. Koelln and James P. Pettegrove (trans.), Princeton: Princeton University Press, 1951.
-* Chambers, Frank Pentland, 1932, *The History of Taste: An Account of the Revolution of Art Criticism and Theory in Europe*, New York: Columbia University Press.
-* Chantalat, Claude, 1992, *A la recherche du goût classique*, Paris: Klincksieck.
-* Chouillet, Jacques, 1974, *L’esthétique des Lumières*, Paris: PUF.
-* Crow, Thomas E., 1985, *Painters and Public Life in Eighteenth-Century Paris*, New Haven, CT: Yale University Press.
-* Ehrard, Jean, 1970, *L’idée de nature en France à l’aube des Lumières*, Paris: Flammarion.
-* Ferry, Luc, 1990, *Homo aestheticus: L’invention du goût à l’âge classique*, Paris: Grasset.
-* Folkierski, Władysław, 1925, *Entre le Classicisme et le romantisme, étude sur l’esthétique et les esthéticiens du XVIIIe siècle*, Paris: Honoré Champion, 1969.
-* Fontaine, André, 1909, *Les doctrines d’art en France: Peintres, amateurs, critiques, de Poussin à Diderot*, Paris: Laurens. \[[Fontaine 1909 available online](https://archive.org/details/lesdoctrinesdart00fontuoft/page/n10)]
-* Guichard, Charlotte, 2012, “Taste Communities: The Rise of the ‘Amateur’ in Eighteenth-Century Paris”, *Eighteenth-Century Studies*, 45(4): 519–547. doi:10.1353/ecs.2012.0055
-* Harpe, Jacqueline E. de la, 1955, *Jean-Pierre de Crousaz et le conflit des idées au siècle des Lumières*, Berkeley: University of California Press.
-* Hobson, Marian, 1982, *The Object of Art, The Theory of Illusion in Eighteenth Century France*, Cambridge: Cambridge University Press.
-* Kintzler, Catherine, 1991, *Poétique de l’opéra français de Corneille à Rousseau*, Paris: Minerve.
-* Lichtenstein, Jacqueline, 2003, *La couleur éloquente: rhétorique et peinture à l’âge classique*, Paris: Flammarion.
-* Lombart, A., 1913, *L’Abbé du Bos, un initiateur de la pensée moderne, 1670–1742*, Paris: Hachette. \[[Lombart 1913 available online](https://archive.org/details/labbdubosunini00lombuoft/page/n6)]
-* Masseau, Didier, 2014, *Une Histoire du bon goût*, Paris: Perrin éditions.
-* Puttfarken, Thomas, 1986, *Roger de Piles’ Theory of Art*, New Haven, CT: Yale University Press.
-* Saisselin, Rémy Gilbert, 1965, *Taste in Eighteenth Century France: Critical reflections of the origins of aesthetics; or, An apology for amateurs*, Syracuse, NY: Syracuse University Press.
-* Scholar, Richard, 2005, *The Je-Ne-Sais-Quoi in Early Modern Europe, Encounters with a Certain Something*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199274406.001.0001
-* Tsien, Jennifer, 2011, *The Bad Taste of Others: Judging Literary Value in Eighteenth-Century France*, Philadelphia: University Press.
+* Barbafieri, Carine, 2021, _Anatomie du “mauvais goût” (1628–1730)_, Paris: Classiques Garnier.
+* Becq, Annie, 1994, _Genèse de l’esthétique française moderne, 1680–1814_, Paris: Albin Michel.
+* Cassirer, Ernst, 1932, _Die Philosophie der Aufkärung_, Tübingen: J.C.B. Mohr. Translated as _The Philosophy of the Enlightenment_, Fritz C.A. Koelln and James P. Pettegrove (trans.), Princeton: Princeton University Press, 1951.
+* Chambers, Frank Pentland, 1932, _The History of Taste: An Account of the Revolution of Art Criticism and Theory in Europe_, New York: Columbia University Press.
+* Chantalat, Claude, 1992, _A la recherche du goût classique_, Paris: Klincksieck.
+* Chouillet, Jacques, 1974, _L’esthétique des Lumières_, Paris: PUF.
+* Crow, Thomas E., 1985, _Painters and Public Life in Eighteenth-Century Paris_, New Haven, CT: Yale University Press.
+* Ehrard, Jean, 1970, _L’idée de nature en France à l’aube des Lumières_, Paris: Flammarion.
+* Ferry, Luc, 1990, _Homo aestheticus: L’invention du goût à l’âge classique_, Paris: Grasset.
+* Folkierski, Władysław, 1925, _Entre le Classicisme et le romantisme, étude sur l’esthétique et les esthéticiens du XVIIIe siècle_, Paris: Honoré Champion, 1969.
+* Fontaine, André, 1909, _Les doctrines d’art en France: Peintres, amateurs, critiques, de Poussin à Diderot_, Paris: Laurens. \[[Fontaine 1909 available online](https://archive.org/details/lesdoctrinesdart00fontuoft/page/n10)]
+* Guichard, Charlotte, 2012, “Taste Communities: The Rise of the ‘Amateur’ in Eighteenth-Century Paris”, _Eighteenth-Century Studies_, 45(4): 519–547. doi:10.1353/ecs.2012.0055
+* Harpe, Jacqueline E. de la, 1955, _Jean-Pierre de Crousaz et le conflit des idées au siècle des Lumières_, Berkeley: University of California Press.
+* Hobson, Marian, 1982, _The Object of Art, The Theory of Illusion in Eighteenth Century France_, Cambridge: Cambridge University Press.
+* Kintzler, Catherine, 1991, _Poétique de l’opéra français de Corneille à Rousseau_, Paris: Minerve.
+* Lichtenstein, Jacqueline, 2003, _La couleur éloquente: rhétorique et peinture à l’âge classique_, Paris: Flammarion.
+* Lombart, A., 1913, _L’Abbé du Bos, un initiateur de la pensée moderne, 1670–1742_, Paris: Hachette. \[[Lombart 1913 available online](https://archive.org/details/labbdubosunini00lombuoft/page/n6)]
+* Masseau, Didier, 2014, _Une Histoire du bon goût_, Paris: Perrin éditions.
+* Puttfarken, Thomas, 1986, _Roger de Piles’ Theory of Art_, New Haven, CT: Yale University Press.
+* Saisselin, Rémy Gilbert, 1965, _Taste in Eighteenth Century France: Critical reflections of the origins of aesthetics; or, An apology for amateurs_, Syracuse, NY: Syracuse University Press.
+* Scholar, Richard, 2005, _The Je-Ne-Sais-Quoi in Early Modern Europe, Encounters with a Certain Something_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199274406.001.0001
+* Tsien, Jennifer, 2011, _The Bad Taste of Others: Judging Literary Value in Eighteenth-Century France_, Philadelphia: University Press.
 
 ## Academic Tools
 
@@ -261,5 +261,5 @@ Other useful anthologies include:
 [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [Aristotle, General Topics: aesthetics](https://plato.stanford.edu/entries/aristotle-aesthetics/) | [Diderot, Denis](https://plato.stanford.edu/entries/diderot/) | [Enlightenment](https://plato.stanford.edu/entries/enlightenment/) | [Hume, David: aesthetics](https://plato.stanford.edu/entries/hume-aesthetics/) | [Voltaire](https://plato.stanford.edu/entries/voltaire/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Jennifer Tsien <[*tsien@virginia.edu*](mailto:tsien%40virginia%2eedu)>\
+Jennifer Tsien <[_tsien@virginia.edu_](mailto:tsien%40virginia%2eedu)>\
 Jacques Morizot

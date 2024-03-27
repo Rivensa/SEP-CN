@@ -1,6 +1,6 @@
 # 塞缪尔·亚历山大 Alexander, Samuel (Emily A. E. Thomas)
 
-*首次发布于 2014 年 6 月 2 日；实质性修订于 2022 年 7 月 13 日*
+_首次发布于 2014 年 6 月 2 日；实质性修订于 2022 年 7 月 13 日_
 
 澳大利亚出生的哲学家塞缪尔·亚历山大（1859-1938）是 20 世纪初英国哲学界的重要人物。他以推动“英国新兴主义”而闻名，该运动认为心灵“从物质中产生”。亚历山大拒绝了唯心主义，因此可以与伯特兰·罗素等新实在主义者一起被称为“新实在主义者”；然而，与其他新实在主义者不同的是，亚历山大在整个职业生涯中与英国唯心主义保持密切联系，他的本体论可能与 F·H·布拉德利的绝对唯心主义相似。亚历山大的成熟形而上学体系在他最伟大的作品《空间、时间和神》（1920）中得到了阐述。亚历山大将世界构想为一个层次结构：空间和时间位于最低层次，通过一种产生过程，产生了物质、生命、心灵和神的层次。这些层次被现实的“范畴”特征所渗透，如实体、普遍性和因果关系。尽管亚历山大主要以形而上学家而闻名，但他广泛地撰写了许多其他哲学主题，包括哲学史、伦理学、美学和宗教哲学。亚历山大在曼彻斯特大学度过了他的大部分职业生涯，在那里他支持了教育和女权主义的各种举措。亚历山大去世时，他将他的哲学论文和通信留给了曼彻斯特的约翰·赖兰兹图书馆，这个收藏构成了这一时期的重要哲学档案。
 
@@ -115,15 +115,15 @@
 
 关于亚历山大的现实主义，包括其背后的动机以及他早期作品中是否存在现实主义的问题，请参阅 Weinstein（1984）、Fisher（2017；2021b）和 Thomas（2021）。
 
-### 3.2 *空间、时间和神*
+### 3.2 _空间、时间和神_
 
 这部艰深的两卷本作品阐述了亚历山大的宏大形而上学图景，一个全面的系统，提供了一个宇宙论，解释了世界如何进入其当前状态；以及一个基于出现的层次本体论，试图解释物质、生命、心灵、价值和神的存在。亚历山大并不为这个图景辩护。相反，他希望他的图景能够提供对世界的描述。这与他的一般方法论一致。
 
 > 哲学通过描述来进行；它只使用论证来帮助你看到事实，就像植物学家使用显微镜一样。（亚历山大 1921b：423）
 
-这个想法是，*空间、时间和神*提供了一个最符合事实的世界描述。
+这个想法是，_空间、时间和神_提供了一个最符合事实的世界描述。
 
-*空间、时间和神*的第一章以亚历山大宣称哲学的所有重要问题都依赖于空间和时间（亚历山大 1920i: 35）开篇。亚历山大将空间和时间看作是构成一切事物的物质：空间和时间是真实而具体的，从它们中产生了物质、生命等等。空间和时间在一个四维的整体中统一，即时空。这个巨大的整体不会移动，但包含了其中的所有运动，因此亚历山大将其称为“运动”。在这方面，亚历山大的时空与 F·H·布拉德利（1893）的绝对有些相似：无论是运动还是绝对都不在时间中移动或存在，但它们都包含了运动和时间。
+_空间、时间和神_的第一章以亚历山大宣称哲学的所有重要问题都依赖于空间和时间（亚历山大 1920i: 35）开篇。亚历山大将空间和时间看作是构成一切事物的物质：空间和时间是真实而具体的，从它们中产生了物质、生命等等。空间和时间在一个四维的整体中统一，即时空。这个巨大的整体不会移动，但包含了其中的所有运动，因此亚历山大将其称为“运动”。在这方面，亚历山大的时空与 F·H·布拉德利（1893）的绝对有些相似：无论是运动还是绝对都不在时间中移动或存在，但它们都包含了运动和时间。
 
 亚历山大提出了一个关于空间和时间统一的形而上学论证，认为它们只是运动的可区分的方面。他认为空间和时间必须统一，因为当它们被抽象出来时，很明显它们不能独立存在。时间将变成一个简单的“现在”，无法进行连续；而空间将变成一个简单的“空白”，没有可区分的元素（亚历山大 1920i: 47）。运动既是连续的，又有可区分的元素 - 这是因为它是空间和时间的结合。亚历山大关于这种统一的形而上学论证受到了布罗德（1921a，b）的严厉批评。\[[2](https://plato.stanford.edu/entries/alexander/notes.html#note-2)] 亚历山大认为他对时空的描述符合当时的物理学。以下可能被理解为他立场的物理学论证：
 
@@ -213,7 +213,7 @@
 
 > \[它]是从纯粹的动物社交性中人性化出来的...我们在野狗这样的群居动物或蜜蜂这样的社会性动物中发现（亚历山大 1928 年：150）。
 
-*美和其他价值形式*（1933 年）扩展了这一观点。亚历山大认为他对价值的自然主义解释与斯宾诺莎提供的解释相似。在《自然主义与价值》一文中，亚历山大告诉我们，斯宾诺莎的自然主义是“真正的”自然主义：一切都是延伸，包括价值，然而一切仍然是神圣的（亚历山大 1939 年：279）。
+_美和其他价值形式_（1933 年）扩展了这一观点。亚历山大认为他对价值的自然主义解释与斯宾诺莎提供的解释相似。在《自然主义与价值》一文中，亚历山大告诉我们，斯宾诺莎的自然主义是“真正的”自然主义：一切都是延伸，包括价值，然而一切仍然是神圣的（亚历山大 1939 年：279）。
 
 在之前的许多小作品的基础上，《美和其他价值形式》提供了一个完整的自然主义价值解释。亚历山大的方法是依次讨论最高的价值，从美开始，然后转向真理和善。他继续讨论次要的价值。他的目标不仅是解释价值是什么，还包括它们是如何产生的。
 
@@ -239,7 +239,7 @@
 
 《事物的历史性》（1936 年）是亚历山大的最后一篇论文之一。它有价值的原因之一是它以亚历山大自己的话简明地概述了他的时空形而上学。它有价值的另一个原因是它涉及一个不寻常的主题：历史与自然的关系。亚历山大认为，虽然科学对哲学的贡献有些明确，但哲学从历史中能学到什么则不太清楚（亚历山大 1936 年：12）。亚历山大认为，由于时间和运动属于现实最基本的层面，所有存在的东西都是“历史性的”。因此，科学从历史开始：
 
-> 历史可以宣称自己是科学的主人，就像数学一样，尽管意义不同。它们代表了每个科学中不可分割的两个关键要素，如果可以单独考虑的话，就是我们通过思考发现事物内在秩序的建构过程，以及原始材料本身... 当然，必须记住，历史*科学*只是从世界的事实和事件中产生的众多科学之一。（亚历山大 1936 年：24）
+> 历史可以宣称自己是科学的主人，就像数学一样，尽管意义不同。它们代表了每个科学中不可分割的两个关键要素，如果可以单独考虑的话，就是我们通过思考发现事物内在秩序的建构过程，以及原始材料本身... 当然，必须记住，历史_科学_只是从世界的事实和事件中产生的众多科学之一。（亚历山大 1936 年：24）
 
 亚历山大将历史描述为以整个世界为主题的特点非常有趣，尤其是因为这一观点引起了如此大的争议。R·G·科林伍德和希尔达·奥克利是与英国唯心主义有关的历史哲学家，他们对亚历山大的描述提出了强烈的异议；参见科林伍德的重印作品《历史原理》（1938 \[1999: 56]）和奥克利的《作为记忆和历史的世界》（1925-1926）。
 
@@ -257,78 +257,78 @@
 
 ### Works by Alexander
 
-* 1886, “Hegel’s Conception of Nature”, *Mind*, 11: 495–523.
-* 1889, *Moral Order and Progress: An Analysis of Ethical Conceptions*, London: Trubner & Co.
-* 1908, *Locke*, London: Archibald Constable & Co.
-* 1909–10, “Ptolemaic and Copernican Views of the Place of Mind in The Universe”, *The Hibbert Journal*, 8: 47–66.
-* 1912a, “The Method of Metaphysics; and the Categories”, *Mind*, 21: 1–20.
-* 1912b, “On Relations; and in Particular the Cognitive Relation”, *Mind*, 21: 305–28.
-* 1914, “The Basis of Realism”, *Proceedings of the British Academy*, 5: 279–314.
-* 1920, *Space, Time, and Deity* (2 volumes), London: Macmillan & Co Ltd.
-* 1921a, *Spinoza and Time*, London: Unwin Brothers.
-* 1921b, “Some Explanations”, *Mind*, 30: 409–428.
-* 1928, “Morality as An Art”, *Journal of Philosophical Studies*, 3: 143–57.
-* 1927, “Lessons from Spinoza”, *Chronicon Spinozanum*, 5: 14–29.
-* 1933, *Beauty and other forms of Value*, London: Macmillan & Co.
-* 1939, *Philosophical and Literary Pieces*, edited by John Laird. London, Macmillan & Co.
-* 2021, *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, in Fisher, A. R. J. (ed.), Palgrave Macmillan: Cham, Switzerland.
+* 1886, “Hegel’s Conception of Nature”, _Mind_, 11: 495–523.
+* 1889, _Moral Order and Progress: An Analysis of Ethical Conceptions_, London: Trubner & Co.
+* 1908, _Locke_, London: Archibald Constable & Co.
+* 1909–10, “Ptolemaic and Copernican Views of the Place of Mind in The Universe”, _The Hibbert Journal_, 8: 47–66.
+* 1912a, “The Method of Metaphysics; and the Categories”, _Mind_, 21: 1–20.
+* 1912b, “On Relations; and in Particular the Cognitive Relation”, _Mind_, 21: 305–28.
+* 1914, “The Basis of Realism”, _Proceedings of the British Academy_, 5: 279–314.
+* 1920, _Space, Time, and Deity_ (2 volumes), London: Macmillan & Co Ltd.
+* 1921a, _Spinoza and Time_, London: Unwin Brothers.
+* 1921b, “Some Explanations”, _Mind_, 30: 409–428.
+* 1928, “Morality as An Art”, _Journal of Philosophical Studies_, 3: 143–57.
+* 1927, “Lessons from Spinoza”, _Chronicon Spinozanum_, 5: 14–29.
+* 1933, _Beauty and other forms of Value_, London: Macmillan & Co.
+* 1939, _Philosophical and Literary Pieces_, edited by John Laird. London, Macmillan & Co.
+* 2021, _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, in Fisher, A. R. J. (ed.), Palgrave Macmillan: Cham, Switzerland.
 
 ### Other Primary Literature
 
-* Bradley, F. H., 1893, *Appearance and Reality*, London: Swan Sonnenschein.
-* Collingwood, R. G., 1938 \[1999], *The Principles of History*, W. H. Dray & W. J. Van der Dussen (eds.), Oxford: Oxford University Press.
-* Morgan, C. Lloyd., 1912, *Instinct and Experience*, London: Methuen.
-* Oakeley, H. D., 1926–7, “The World as Memory and as History”, *Proceedings of the Aristotelian Society*, 27: 291–316.
-* Spinoza, *Ethics*, in Edwin Curley, translator, *The Collected Writings of Spinoza* (Volume I), Princeton: Princeton University Press, 1985.
+* Bradley, F. H., 1893, _Appearance and Reality_, London: Swan Sonnenschein.
+* Collingwood, R. G., 1938 \[1999], _The Principles of History_, W. H. Dray & W. J. Van der Dussen (eds.), Oxford: Oxford University Press.
+* Morgan, C. Lloyd., 1912, _Instinct and Experience_, London: Methuen.
+* Oakeley, H. D., 1926–7, “The World as Memory and as History”, _Proceedings of the Aristotelian Society_, 27: 291–316.
+* Spinoza, _Ethics_, in Edwin Curley, translator, _The Collected Writings of Spinoza_ (Volume I), Princeton: Princeton University Press, 1985.
 
 ### Secondary Literature
 
-* Bateman, J. V., 1940, “Professor Alexander’s Proofs of the Spatio-Temporal Nature of Mind”, *The Philosophical Review*, 49: 309–324.
-* Bradley, F. H., 1999, *Collected Works of FH Bradley, Volumes 4 &5, Selected Correspondence*, edited by Carol A. Keene, Chippenham: Theommes Press.
-* Brettschneider, Betram, 1964, *The Philosophy of Samuel Alexander*, New York: Humanities Press.
-* Broad, C. D., 1921a, “Professor Alexander’s Gifford Lectures I”, *Mind*, 30: 25–39.
-* –––, 1921b, “Professor Alexander’s Gifford Lectures II”, *Mind*, 30: 129–150.
-* Calkins, Mary Whiton, 1923, “The Dual Role of the Mind in the Philosophy of S. Alexander”, *Mind*, 32: 197–210.
-* Clayton, Philip, 2004, *Mind and Emergence*, New York: Oxford University Press.
-* Cole, Creagh McLean. 2018. John Anderson. In *Stanford Encyclopedia of Philosophy*, ed. Edward N. Zalta. https://plato.stanford.edu/archives/spr2018/entries/anderson-john/.
-* Connelly, James M. (2021). “Becoming Real: The Metaphysics of Samuel Alexander and R.G. Collingwood”, in Fisher, A. R. J. (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, pp. 193–210, Palgrave Macmillan: Cham, Switzerland.
-* Emmet, Dorothy, 1950, “Time is the mind of space”, *Philosophy*, 25: 225–234.
-* –––, 2021. “Samuel Alexander in Manchester”, in Fisher, A. R. J. (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, pp. 77–88, Palgrave Macmillan: Cham, Switzerland.
-* Gillet, Carl, 2006, “Samuel Alexander’s Emergentism: Or, higher causation for physicalists”, *Synthese*, 153: 261–296.
-* Fisher, A. R. J., 2015, “Samuel Alexander’s Theory of Categories”, *The Monist*, 98: 246–267.
-* –––, 2017, “Samuel Alexander’s Early Reactions to British Idealism”, *Collingwood and British Idealism Studies* 23: 169–96.
-* –––, 2021a, “Introduction”, in Fisher, A. R. J. (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, pp. 1–20, Palgrave Macmillan: Cham, Switzerland
-* –––, 2021b, “Samuel Alexander and the Psychological Origins of Realism”, in Fisher, A. R. J. (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, pp.165–192, Palgrave Macmillan: Cham, Switzerland.
-* Fox, A. C., 1934, “Professor Alexander’s Ethical Views”, *International Journal of Ethics*, 44: 405–417
-* Hooper, Sydney E., 1950, “A Reasonable Theory of Morality (Alexander and Whitehead)”, *Philosophy*, 25: 54–67.
-* Innis, Robert. E, 2017, “Aesthetic Naturalism and the «Ways of Art»: linking John Dewey and Samuel Alexander”, *Rivista Di Storia Della Filosofia*, 3: 513–532.
-* Kobayashi, Chinatsu, 2021, “Collingwood’s Letters to Alexander”, *Collingwood and British Idealism Studies* 27: 145–196.
-* Laird, John, 1939, “Memoir” in Alexander’s *Philosophical and Literary Pieces*, J. Laird (ed.), London: Macmillan & Co.
-* Listowel, Lord, 1939, “The Aesthetic Doctrines of Samuel Alexander”, *Philosophy*, 14: 180–191.
-* McCarthy, John, 1948, *The Naturalism of Samuel Alexander*, New York: Macmillan.
-* McLaughlin, B., 1992, “The rise and fall of British Emergentism”, in *Emergence or Reduction?*, A. Beckerman, H. Flohr and J. Kim (eds.), pp. 49–39, Berlin: Walter de Gruyer.
-* Muirhead, J. H., 1939, “Samuel Alexander”, *Philosophy*, 14: 3–14.
-* Murphy, Arthur E., 1927a, “Alexander’s Metaphysic of Space-Time I”, *The Monist*, 37: 357–383.
-* –––, 1927b, “Alexander’s Metaphysic of Space-Time II. Space-Time and the Categories”, *The Monist*, 37: 624–644.
-* –––, 1928, “Alexander’s Metaphysic of Space-Time III: Space-Time and Knowledge”, *The Monist*, 38: 18–37.
-* O’Connor, Timothy and Hong Yu Wong, 2012, “Emergent Properties”, *The Stanford Encyclopedia of Philosophy* (Spring 2012 Edition), Edward N. Zalta (ed.), URL = <[Emergent Properties (Stanford Encyclopedia of Philosophy/Spring 2012 Edition)](https://plato.stanford.edu/archives/spr2012/entries/properties-emergent/)>.
-* O’Neill, Michael, 2006, “On the Role of Time in Collingwood’s Thought”, in Alexander Lyon Macfie (ed.) *The Philosophy of History*, Basingstoke: Palgrave Macmillan.
-* Passmore, John, 1957, *A Hundred Years of Philosophy*. London: Duckwork.
-* Rush, Michael, 2021, “Samuel Alexander on Motion”, in Fisher, A. R. J. (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, pp. 129–148, Palgrave Macmillan: Cham, Switzerland.
-* Schaffer, Jonathan, 2009, “Spacetime as the One Substance”, *Philosophical Studies*, 145: 131–148.
-* Simons, Peter, 2021, “Samuel Alexander’s Categories”, in Fisher, A. R. J. (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, pp. 149–164, Palgrave Macmillan: Cham, Switzerland.
-* Stiernotte, Alfred, 1954, *God and Space-Time*, New York: Philosophy Library.
-* Stout, G. F., 1922, “Prof. Alexander’s Theory of Sense Perception”, *Mind*, 31: 385–412.
-* –––, 1940, “S. Alexander (1859–1938): Personal Reminiscences”, *Mind*, 49: 126–129.
-* Thomas, Emily, 2013, “Space, Time, and Samuel Alexander”, *British Journal for the History of Philosophy*, 21: 549–569.
-* –––, 2015, Hilda Oakeley on Idealism, History and the Real Past. *British Journal for the History of Philosophy* 23 (5): 933–953.
-* –––, 2016, “Samuel Alexander’s Spacetime God: A Naturalist Rival to Current Emergentist Theologies”, in *Alternative Concepts of God*, Y. Nagasawa and A. Buckareff (eds.), New York: Oxford University Press, pp. 225– 273.
-* –––, 2019. The Idealism and Pantheism of May Sinclair. *Journal of the American Philosophical Association* 5(2): 137–157.
-* –––, 2021, “Samuel Alexander’s Place in British Philosophy: Realism and Naturalism from the 1880s Onwards”, in Fisher, A. R. J. (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, pp. 113–128, Palgrave Macmillan: Cham, Switzerland.
-* Titus, Harold, 1933, “A Neo-realist’s Idea of God”, *Journal of Religion*, 13: 127–38.
-* Weblin, Mark, 2021, “The Rise and Fall of Australian Empiricism”, in Fisher, A. R. J. (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, pp. 211–236, Palgrave Macmillan: Cham, Switzerland.
-* Weinstein, Michael, 1984, *Unity and Variety in the Philosophy of Samuel Alexander*, West Lafayette, IN: Purdue University Press.
-* Williams, Donald C., 2021, “Samuel Alexander and the Analytical Introverts”, in Fisher, A. R. J. (ed.), *Marking the Centenary of Samuel Alexander’s Space, Time and Deity*, pp. 89–110, Palgrave Macmillan: Cham, Switzerland.
+* Bateman, J. V., 1940, “Professor Alexander’s Proofs of the Spatio-Temporal Nature of Mind”, _The Philosophical Review_, 49: 309–324.
+* Bradley, F. H., 1999, _Collected Works of FH Bradley, Volumes 4 &5, Selected Correspondence_, edited by Carol A. Keene, Chippenham: Theommes Press.
+* Brettschneider, Betram, 1964, _The Philosophy of Samuel Alexander_, New York: Humanities Press.
+* Broad, C. D., 1921a, “Professor Alexander’s Gifford Lectures I”, _Mind_, 30: 25–39.
+* –––, 1921b, “Professor Alexander’s Gifford Lectures II”, _Mind_, 30: 129–150.
+* Calkins, Mary Whiton, 1923, “The Dual Role of the Mind in the Philosophy of S. Alexander”, _Mind_, 32: 197–210.
+* Clayton, Philip, 2004, _Mind and Emergence_, New York: Oxford University Press.
+* Cole, Creagh McLean. 2018. John Anderson. In _Stanford Encyclopedia of Philosophy_, ed. Edward N. Zalta. https://plato.stanford.edu/archives/spr2018/entries/anderson-john/.
+* Connelly, James M. (2021). “Becoming Real: The Metaphysics of Samuel Alexander and R.G. Collingwood”, in Fisher, A. R. J. (ed.), _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, pp. 193–210, Palgrave Macmillan: Cham, Switzerland.
+* Emmet, Dorothy, 1950, “Time is the mind of space”, _Philosophy_, 25: 225–234.
+* –––, 2021. “Samuel Alexander in Manchester”, in Fisher, A. R. J. (ed.), _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, pp. 77–88, Palgrave Macmillan: Cham, Switzerland.
+* Gillet, Carl, 2006, “Samuel Alexander’s Emergentism: Or, higher causation for physicalists”, _Synthese_, 153: 261–296.
+* Fisher, A. R. J., 2015, “Samuel Alexander’s Theory of Categories”, _The Monist_, 98: 246–267.
+* –––, 2017, “Samuel Alexander’s Early Reactions to British Idealism”, _Collingwood and British Idealism Studies_ 23: 169–96.
+* –––, 2021a, “Introduction”, in Fisher, A. R. J. (ed.), _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, pp. 1–20, Palgrave Macmillan: Cham, Switzerland
+* –––, 2021b, “Samuel Alexander and the Psychological Origins of Realism”, in Fisher, A. R. J. (ed.), _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, pp.165–192, Palgrave Macmillan: Cham, Switzerland.
+* Fox, A. C., 1934, “Professor Alexander’s Ethical Views”, _International Journal of Ethics_, 44: 405–417
+* Hooper, Sydney E., 1950, “A Reasonable Theory of Morality (Alexander and Whitehead)”, _Philosophy_, 25: 54–67.
+* Innis, Robert. E, 2017, “Aesthetic Naturalism and the «Ways of Art»: linking John Dewey and Samuel Alexander”, _Rivista Di Storia Della Filosofia_, 3: 513–532.
+* Kobayashi, Chinatsu, 2021, “Collingwood’s Letters to Alexander”, _Collingwood and British Idealism Studies_ 27: 145–196.
+* Laird, John, 1939, “Memoir” in Alexander’s _Philosophical and Literary Pieces_, J. Laird (ed.), London: Macmillan & Co.
+* Listowel, Lord, 1939, “The Aesthetic Doctrines of Samuel Alexander”, _Philosophy_, 14: 180–191.
+* McCarthy, John, 1948, _The Naturalism of Samuel Alexander_, New York: Macmillan.
+* McLaughlin, B., 1992, “The rise and fall of British Emergentism”, in _Emergence or Reduction?_, A. Beckerman, H. Flohr and J. Kim (eds.), pp. 49–39, Berlin: Walter de Gruyer.
+* Muirhead, J. H., 1939, “Samuel Alexander”, _Philosophy_, 14: 3–14.
+* Murphy, Arthur E., 1927a, “Alexander’s Metaphysic of Space-Time I”, _The Monist_, 37: 357–383.
+* –––, 1927b, “Alexander’s Metaphysic of Space-Time II. Space-Time and the Categories”, _The Monist_, 37: 624–644.
+* –––, 1928, “Alexander’s Metaphysic of Space-Time III: Space-Time and Knowledge”, _The Monist_, 38: 18–37.
+* O’Connor, Timothy and Hong Yu Wong, 2012, “Emergent Properties”, _The Stanford Encyclopedia of Philosophy_ (Spring 2012 Edition), Edward N. Zalta (ed.), URL = <[Emergent Properties (Stanford Encyclopedia of Philosophy/Spring 2012 Edition)](https://plato.stanford.edu/archives/spr2012/entries/properties-emergent/)>.
+* O’Neill, Michael, 2006, “On the Role of Time in Collingwood’s Thought”, in Alexander Lyon Macfie (ed.) _The Philosophy of History_, Basingstoke: Palgrave Macmillan.
+* Passmore, John, 1957, _A Hundred Years of Philosophy_. London: Duckwork.
+* Rush, Michael, 2021, “Samuel Alexander on Motion”, in Fisher, A. R. J. (ed.), _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, pp. 129–148, Palgrave Macmillan: Cham, Switzerland.
+* Schaffer, Jonathan, 2009, “Spacetime as the One Substance”, _Philosophical Studies_, 145: 131–148.
+* Simons, Peter, 2021, “Samuel Alexander’s Categories”, in Fisher, A. R. J. (ed.), _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, pp. 149–164, Palgrave Macmillan: Cham, Switzerland.
+* Stiernotte, Alfred, 1954, _God and Space-Time_, New York: Philosophy Library.
+* Stout, G. F., 1922, “Prof. Alexander’s Theory of Sense Perception”, _Mind_, 31: 385–412.
+* –––, 1940, “S. Alexander (1859–1938): Personal Reminiscences”, _Mind_, 49: 126–129.
+* Thomas, Emily, 2013, “Space, Time, and Samuel Alexander”, _British Journal for the History of Philosophy_, 21: 549–569.
+* –––, 2015, Hilda Oakeley on Idealism, History and the Real Past. _British Journal for the History of Philosophy_ 23 (5): 933–953.
+* –––, 2016, “Samuel Alexander’s Spacetime God: A Naturalist Rival to Current Emergentist Theologies”, in _Alternative Concepts of God_, Y. Nagasawa and A. Buckareff (eds.), New York: Oxford University Press, pp. 225– 273.
+* –––, 2019. The Idealism and Pantheism of May Sinclair. _Journal of the American Philosophical Association_ 5(2): 137–157.
+* –––, 2021, “Samuel Alexander’s Place in British Philosophy: Realism and Naturalism from the 1880s Onwards”, in Fisher, A. R. J. (ed.), _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, pp. 113–128, Palgrave Macmillan: Cham, Switzerland.
+* Titus, Harold, 1933, “A Neo-realist’s Idea of God”, _Journal of Religion_, 13: 127–38.
+* Weblin, Mark, 2021, “The Rise and Fall of Australian Empiricism”, in Fisher, A. R. J. (ed.), _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, pp. 211–236, Palgrave Macmillan: Cham, Switzerland.
+* Weinstein, Michael, 1984, _Unity and Variety in the Philosophy of Samuel Alexander_, West Lafayette, IN: Purdue University Press.
+* Williams, Donald C., 2021, “Samuel Alexander and the Analytical Introverts”, in Fisher, A. R. J. (ed.), _Marking the Centenary of Samuel Alexander’s Space, Time and Deity_, pp. 89–110, Palgrave Macmillan: Cham, Switzerland.
 
 ## Academic Tools
 
@@ -341,12 +341,12 @@
 ## Other Internet Resources
 
 * [The Samuel Alexander Papers, held at the John Rylands Library (Manchester, UK)](http://www.socialsciences.manchester.ac.uk/subjects/philosophy/our-research/research-projects/samuel-alexander/)
-* [“Alexander, Samuel (1859–1938)”, *Australian Dictionary of Biography*. (1979).](http://adb.anu.edu.au/biography/alexander-samuel-4994/text8299)
-* “[Samuel Alexander (1859–1938)](http://www.iep.utm.edu/alex-sam/),” entry by Emily Thomas, in *The Internet Encyclopedia of Philosophy*.
+* [“Alexander, Samuel (1859–1938)”, _Australian Dictionary of Biography_. (1979).](http://adb.anu.edu.au/biography/alexander-samuel-4994/text8299)
+* “[Samuel Alexander (1859–1938)](http://www.iep.utm.edu/alex-sam/),” entry by Emily Thomas, in _The Internet Encyclopedia of Philosophy_.
 
 ## Related Entries
 
 [Anderson, John](https://plato.stanford.edu/entries/anderson-john/) | [Bradley, Francis Herbert](https://plato.stanford.edu/entries/bradley/) | [Collingwood, Robin George](https://plato.stanford.edu/entries/collingwood/) | [emergent properties](https://plato.stanford.edu/entries/properties-emergent/) | [ontology of art, history of](https://plato.stanford.edu/entries/art-ontology-history/) | [pantheism](https://plato.stanford.edu/entries/pantheism/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Emily A. E. Thomas <[*emily.thomas@cantab.net*](mailto:emily%2ethomas%40cantab%2enet)>
+Emily A. E. Thomas <[_emily.thomas@cantab.net_](mailto:emily%2ethomas%40cantab%2enet)>

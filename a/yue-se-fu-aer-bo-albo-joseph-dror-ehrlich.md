@@ -1,6 +1,6 @@
 # 约瑟夫·阿尔博 Albo, Joseph (Dror Ehrlich)
 
-*首次发表于 2006 年 7 月 20 日；实质性修订于 2020 年 1 月 8 日*
+_首次发表于 2006 年 7 月 20 日；实质性修订于 2020 年 1 月 8 日_
 
 约瑟夫·阿尔博（约公元 1380 年至 1444 年）是 15 世纪上半叶活跃在基督教西班牙的犹太哲学家。他的理论工作体现在他著名的著作《Sefer ha-‘Ikkarim》（《原则之书》）中，该书于 1425 年在卡斯蒂利亚的索里亚镇完成。在这部作品中，阿尔博以逻辑、系统的分析与解释性讨论相结合的方式，探讨了各种解释、神学和哲学问题。阿尔博的著作揭示了他接触到了许多在他之前的犹太哲学家的作品，尤其是梅蒙尼德斯、哈斯代·克雷斯卡斯（阿尔博的师父）以及他的同时代人西蒙·本·泽玛·杜兰。他所处的历史环境，尤其是天主教会对基督教西班牙的犹太人的迫害，使他参与了反基督教的辩论，并显然也使他接触到了托马斯·阿奎那等基督教哲学家的著作。
 
@@ -51,11 +51,11 @@
 
 大多数学者认为，我们应该理解阿尔博写《Sefer ha-‘Ikkarim》的目标是针对他所生活的历史现实。正如所指出的，这本书是为了应对 14 世纪末至 15 世纪初基督教西班牙犹太人所面临的严重社会和宗教困境而写的。在这种方法的框架内，我们可以看出这本书打算达到两个不同的目标。
 
-*社会目标* - 在当时的基督教西班牙，为犹太教提供一种理性的辩护，同时驳斥基督教的教义，以限制犹太人的转变现象和精神衰退（Husik 1928-30，62-65）。
+_社会目标_ - 在当时的基督教西班牙，为犹太教提供一种理性的辩护，同时驳斥基督教的教义，以限制犹太人的转变现象和精神衰退（Husik 1928-30，62-65）。
 
-*理论目标* - 在讨论期间犹太思想内部关于这些问题的争论加剧的背景下，重新定义犹太教的原则并讨论其与哲学的理论关系（Back 1869, 5–6; Lerner 2000, 90–95）。
+_理论目标_ - 在讨论期间犹太思想内部关于这些问题的争论加剧的背景下，重新定义犹太教的原则并讨论其与哲学的理论关系（Back 1869, 5–6; Lerner 2000, 90–95）。
 
-《*Sefer ha-‘Ikkarim*》是 1485 年首次出版的犹太哲学作品之一，也是首批进入印刷机的犹太哲学作品之一。这本书在 15 世纪产生了相当大的影响，著名的犹太哲学家引用并与其思想进行辩论。其中我们可以提到以撒·阿拉玛、亚伯拉罕·比巴戈和以撒·阿布拉瓦内尔等人。从 16 世纪到 18 世纪，他的思想继续吸引犹太和非犹太的哲学家，包括巴鲁克·斯宾诺莎、摩西·门德尔松和几位基督教神学家。在这个时期，有两位作者对《*Sefer ha-‘Ikkarim*》写了评论：雅各布·科普尔曼（*Ohel Ya‘akov*，弗莱堡，1584 年）和格达利亚·利普希茨（*Etz Shatul*，威尼斯，1618 年）。此外，这本书还被翻译成拉丁语、德语、英语和俄语，其第一篇论文也被翻译成意大利语。1929 年，艾萨克·胡西克出版了《*Sefer ha-‘Ikkarim*》的批判性版本，包括他对该书的英文翻译、引言以及详细的注释和索引（Albo 1929）。
+《_Sefer ha-‘Ikkarim_》是 1485 年首次出版的犹太哲学作品之一，也是首批进入印刷机的犹太哲学作品之一。这本书在 15 世纪产生了相当大的影响，著名的犹太哲学家引用并与其思想进行辩论。其中我们可以提到以撒·阿拉玛、亚伯拉罕·比巴戈和以撒·阿布拉瓦内尔等人。从 16 世纪到 18 世纪，他的思想继续吸引犹太和非犹太的哲学家，包括巴鲁克·斯宾诺莎、摩西·门德尔松和几位基督教神学家。在这个时期，有两位作者对《_Sefer ha-‘Ikkarim_》写了评论：雅各布·科普尔曼（_Ohel Ya‘akov_，弗莱堡，1584 年）和格达利亚·利普希茨（_Etz Shatul_，威尼斯，1618 年）。此外，这本书还被翻译成拉丁语、德语、英语和俄语，其第一篇论文也被翻译成意大利语。1929 年，艾萨克·胡西克出版了《_Sefer ha-‘Ikkarim_》的批判性版本，包括他对该书的英文翻译、引言以及详细的注释和索引（Albo 1929）。
 
 在我们讨论阿尔博的思想之前，我们必须指出这个讨论所涉及的一个重要方法论问题。一方面，关于阿尔博的文献中普遍的观点认为，他根本不是一个原创的哲学家，他的书只是总结了他在犹太哲学家的作品中所了解到的各种方法。这个理论在其极端版本中认为，甚至他的书因其原则理论而闻名的主要原因也不是阿尔博独创的。相反，对阿尔博作品的最新研究趋势认为，在他的书中存在明显的隐秘写作特征。这个理论将书中关于问题的相互矛盾的观点解释为属于两个不同写作层次——外部的、外教的层次和内部的、隐秘的层次。在许多情况下，这两种研究方法导致对阿尔博独立哲学立场的问题产生不同的观点。
 
@@ -95,7 +95,7 @@
 
 阿尔博区分了各种级别的预言，其核心目标是确立摩西预言的至高无上地位，以此作为验证摩西法律为神圣法律的起点。根据阿尔博的观点，摩西是最崇高的先知，因为只有在他的情况下，神圣的启示直接到达他灵魂的智力力量，而不需要想象力的介入。这一宣言的重要性在于，只有对于摩西的预言，对其内容的有效性没有任何疑问（第 3 篇，第 8-10 章）。阿尔博还声称，在西奈山上颁布《托拉》时，以色列人都接受了先知的启示；然而，他们并不处于先知的水平上，这也支持了摩西的高级地位（第 3 篇，第 11 章）。
 
-在讨论了摩西的预言之后，阿尔博开始探讨摩西向以色列人民传授的神圣《托拉》。他涉及了这个问题的许多方面，比如*mitzvot*（诫命）的分类，十诫的地位以及口传法的重要性。然而，显然，他的努力的重点是确立《托拉》永恒的观念，这似乎是对犹太-基督教关于这个话题的辩论的回应。忠于他的教义方法，阿尔博认为，在摩西法律和神圣法律中，诫命细节的变化是可能的，但它们的基本原则不能改变（第 3 篇，第 13-22 章）。
+在讨论了摩西的预言之后，阿尔博开始探讨摩西向以色列人民传授的神圣《托拉》。他涉及了这个问题的许多方面，比如_mitzvot_（诫命）的分类，十诫的地位以及口传法的重要性。然而，显然，他的努力的重点是确立《托拉》永恒的观念，这似乎是对犹太-基督教关于这个话题的辩论的回应。忠于他的教义方法，阿尔博认为，在摩西法律和神圣法律中，诫命细节的变化是可能的，但它们的基本原则不能改变（第 3 篇，第 13-22 章）。
 
 在他对摩西法律的讨论中，阿尔博包括了一章描述了一位匿名基督教学者对其的谴责（论文 3，第 25 章）。这位基督教学者认为，在各个方面，耶稣的宗教都超越了摩西法律，而阿尔博对这一攻击进行了详细回应。目前的论坛无法详细说明这场辩论的内容，但可以说，这一章特别反映了阿尔博对基督教宗教的相当广泛的了解。他展示了对基督教文献的熟练掌握，并且他还意识到了基督教内部在教皇和罗马帝国之间的紧张关系。他展示了对教会历史的了解，最后，他详细描述了并质疑了基督教的核心教义（三位一体、转化和童贞诞生）。值得注意的是，阿尔博对基督教的辩论不仅限于这一章，而是贯穿整本书，无论是明确还是隐含（Schweid 1968; Lasker 1977, cf. index \[“Albo, Joseph”]; Rauschenbach 2002, 142–156）。
 
@@ -117,67 +117,67 @@
 
 ### Primary Literature
 
-* Albo, Joseph, 1929, *Sefer ha-‘Ikkarim* \[Book of Principles], I. Husik (trans. and ed.), Philadelphia: The Jewish Publication Society of America.
+* Albo, Joseph, 1929, _Sefer ha-‘Ikkarim_ \[Book of Principles], I. Husik (trans. and ed.), Philadelphia: The Jewish Publication Society of America.
 
 ### Secondary Literature
 
-* Ackerman, A., 2013, “Zerahia Halevi Saladin and Joseph Albo on Natural, Conventional and Divine Law”, *Jewish Studies Quarterly*, 20: 315–339.
-* Agus, J. B., 1959, *The Evolution of Jewish Thought from Biblical Times to the Opening of the Modern Era*, London: Abelard-Schuman.
-* Back, S., 1869, *Joseph Albo’s Bedeutung in der Geschichte der jüdischen Religionsphilosophie: Ein Beitrag zur genauern Kenntniss der Tendenz des Buches “IKKARIM”,* Breslau: B. Heidenfeld.
-* Baer, Y., 1961, *A History of the Jews in Christian Spain* (Volume 2), Philadelphia: The Jewish Publication Society of America.
-* Ben-Sasson, H. H., 1984, *Retzef u-tmurah* \[Continuity and Variety], J. R. Hacker (ed.), Tel Aviv: Am Oved Publishers.
-* Bleich, J. D., 1997, “Providence in the Philosophy of Hasdai Crescas and Joseph Albo”, in *Hazon Nahum: Studies in Jewish Law, Thought, and History Presented to Dr. Norman Lamm*, Y. Elman & J. S. Gurock (eds.), New York: Yeshiva University Press, pp. 311–358.
-* Cohen, J., 1993, “Profiat Duran’s *The Reproach of the Gentiles* and the Development of Jewish Anti-Christian Polemic”, in *Shlomo Simonsohn Jubilee Volume: Studies on the History of the Jews in the Middle Ages and Renaissance Period*, D. Carpi et al. (eds.), Tel Aviv: Tel Aviv University, pp. 71–84 (English section).
-* Davidson, H. A., 1983, “Medieval Jewish Philosophy in the Sixteenth Century”, in *Jewish Thought in the Sixteenth Century*, B. D. Cooperman (ed.), Cambridge: Harvard University Press, pp. 106–145.
-* Ehrlich, D., 2004a, “Ahavat ha-el u-ktivah ezoterit be-Sefer ha-‘Ikkarim le-R. Yosef Albo” \[Love of God and esoteric writing in Albo’s Book of Roots], *Da‘at*, 53: 63–82.
-* –––, 2004b, *Filosofia ve-omanut ha-ktivah be-Sefer ha-‘Ikkarim le-R. Yosef Albo \[Philosophy and the art of writing in R. Joseph Albo’s Book of Roots]*, Ph.D. diss., Bar-Ilan University, Ramat-Gan.
-* –––, 2006, “A Reassessment of Natural Law in Rabbi Joseph Albo’s Book of Principles”, *Hebraic Political Studies*, 1: 413–439.
-* –––, 2008, “Het, tshuvah u-kfirah be-Sefer ha-‘Ikkarim le-R. Yosef Albo” \[Sin, repentance and heresy in R. Josepf Albo’s *Book of Principles*], in *Al ha-tshuvah ve-al ha-geulah: minhat shay le-Binyamin Gross* \[On repentance and redemption: presented to Binyamin Gross], D. Schwartz & A. Gross (eds.), Ramat-Gan: Bar-Ilan University Press, pp. 55–80.
-* –––, 2009a, *Haguto shel R. Yosef Albo: ktivah ezoterit be-shilhey yemey he-beinayim* \[The thought of R. Joseph Albo: esoteric writing in the late middle ages], Ramat-Gan: Bar-Ilan University Press.
-* –––, 2009b, “Hidden Apocalyptic Messianism in Late Medieval Jewish Thought”, *Review of Rabbinic Judaism*, 12: 75–88.
-* –––, 2013, “*Ha-dimuy ha-aristoteli shel einey ha-atalef ke-hipertext etsel Rihal, Ibn Daud, Hillel mi-Verona and Albo*”, *Daat*, 74–75: 357–374.
-* –––, 2017, “*Ekron ha-maamad ba-diyunim al nitshiyut onesh ha-gehenom etsel ha-Ran, Rahak ve-Albo*”, *Daat*, 83: 69–84.
-* Gonzalo Maeso, D., 1971, “La Judería de Soria y el Rabino José Albo”, *Misceláneade Estudios Arabes y Hebraicos*, 20 (2): 119–141.
-* Graetz, H., 1894, *History of the Jews* (Volume IV), Philadelphia: The Jewish Publication Society of America.
-* Guttmann, J., 1955, “*Le-heker ha-mekorot shel sefer ha-‘ikkarim*” \[An inquiry concerning the sources of the *Sefer ha-Ikkarim*], in *Dat u-mada: kovetz ma’amarim ve-harza’ot* \[Religion and Knowledge: Essays and Lectures], S. H. Bergman & N. Rotenstreich (eds.), Jerusalem: Magnes Press, The Hebrew University, pp. 169–191.
-* –––, 1964, *Philosophies of Judaism: The History of Jewish philosophy from Biblical Times to Franz Rosenzweig*, New York: Doubleday.
-* Gutwirth, E., 1993, “Conversions to Christianity Amongst Fifteenth-Century Spanish Jews: An Alternative Explanation”, in *Shlomo Simonsohn Jubilee Volume: Studies on the History of the Jews in the Middle Ages and Renaissance Period*, D. Carpi et al. (eds.), Tel Aviv: Tel Aviv University, pp. 97–121 (English section).
-* Harvey, W. Z., 1979–80, “Albo’s Discussion of Time”, *Jewish Quarterly Review*, 70: 210–238.
-* –––, 2015, “Albo on Repentance and Coersion”, *Jewish Law Annual*, 21: 47–57.
-* Husik, I., 1928–30, “Joseph Albo The Last of the Mediaeval Jewish Philosophers”, *Proceedings of the American Academy for Jewish Research*, 1: 61–72.
-* –––, 1966, *A History of Mediaeval Jewish Philosophy*, New York: Harper Torchbook.
-* Kellner, M., 1986, *Dogma in Medieval Jewish Thought From Maimonides to Abravanel*, Oxford: Oxford University Press.
-* Klein-Braslavi, S., 1976, “*Meziut ha-zman ve-ha-yamim ha-rishonim la-briah ba-filosofia ha-yehudit shel yemei ha-beinayim*” \[The reality of time and the primordial period in mediaeval Jewish philosophy], *Tarbiz*, 45: 106–127.
-* –––, 1980, “*Terumato shel R. Nissim Girondi le-’itzuvan shel torot ha-‘ikkarim shel Hasdai Crescas ve-shel Yosef Albo*” \[The influence of R. Nissim Girondi on Crescas’ and Albo’s “principles”], *Eshel Beer-Sheva*, 2: 177–197.
-* Kreisel, H., 2001, *Prophecy: The History of an Idea in Medieval Jewish Philosophy*, Dordrecht: Kluwer Academic Publishers.
-* Lasker, D. J., 1977, *Jewish Philosophical Polemics Against Christianity in the Middle Ages*, New York: Ktav Publication House.
-* –––, 1980, “*Torat ha-‘immut be-mishnato ha-filosofit shel Yosef Albo*” \[Joseph Albo’s theory of verification], *Da‘at*, 5: 5–12.
-* –––, 1998, “The Impact of Christianity on Late Iberian Jewish Philosophy”, in *In Iberia and Beyond: Hispanic Jews between Cultures*, B. D. Cooperman (ed.), Newark: University of Delaware Press, pp. 175–190.
-* Lerner, R., 1964, “Natural Law in Albo’s *Book of Roots*”, in *Ancients and Moderns: Essays on the Tradition of Political Philosophy in Honor of Leo Strauss*, J. Cropsey (ed.), New York: Basic Books, pp. 132–147.
-* –––, 2000, *Maimonides’ Empire of Light: Popular Enlightenment in an Age of Belief*, Chicago: University of Chicago Press.
-* Manekin, Charles H., 1997, “Hebrew philosophy in the fourteenth and fifteenth centuries: an overview”, in *History of Jewish Philosophy* (Routledge History of World Philosophies: Volume 2), D. H. Frank & O. Leaman (eds.), London: Routledge, pp. 350–378.
-* Melamed, A., 1989, “*Ha-‘Im hikdim ibn Wakar et Albo be-sivug ha-hukim?*” \[Did ibn Wakar precede Albo in the classification of the law?], *Tura*, 1: 270–284.
-* Motis Dolader, M. A., 1990, “The Disappearance of the Jewish Community of Daroca in the Beginning of the 15th Century”, *Proceedings of the Tenth World Congress for Jewish Studies*, 2: 143–150.
-* Netanyahu, B., 1966, *The Marranos of Spain from the Late 14th Century to the Early 16th Century According to Contemporary Hebrew Sources*, New York: American Academy for Jewish Research.
-* Novak, D., 1983, *The Image of the Non-Jew in Judaism: A Historical and Constructive Study of the Noahides laws*, New York: Mellen.
-* Rauschenbach, S., 2002, *Josef Albo: Jüdische Philosophie und christliche Kontroverstheologie in der Frühen Neuzeit* \[Studies in European Judaism, vol. 3], Leiden: Brill.
-* Ravitzky, A., 1988, *Derashat ha-Pesah le-R. Hasdai Crescas u-mehkarim be-mishnato ha-filosofit* \[Crescas’ sermon on the Passover and studies in his philosophy], Jerusalem: The Israel Academy of Sciences and Humanities.
-* Rudavsky, T. M., 1997, “Creation and Temporality in Medieval Jewish Philosophy”, *Faith and Philosophy*, 14: 458–477.
-* Sadik, S., 2012, “*Ha-behira be-haguto shel Rabbi Yosef Albo*” \[Freedom of Choice in the Thought of Rabbi Josef Albo], *Jewish Studies, an Internet Journal*, 11: 139–151.
-* Sarachek, J., 1932, *The Doctrine of the Messiah in Medieval Jewish Literature*, New York: Hermon Press.
-* Schlesinger, L., 1844, Introduction to *Joseph Albo, Buch Ikkarim: Grund- und Glaubenslehren der Mosaischen Religion*, trans. W. Schlessinger & L. Schlesinger, Frankfurt a.M..
-* Schwartz, D., 1991, “*Ha-Yeridah ha-ruhanit datit shel ha-kehilah ha-yehudit bi-sfarad be-sof ha-meah ha-arba‘ ‘esre*” \[The spiritual-intellectual decline of the Jewish community in Spain at the end of the fourteenth century], *Pe‘amim*, 46–47: 92–114.
-* –––, 1997, *Ha-Ra’ayon ha-meshihi be-hagut ha-yehudit bi-ymei ha-beinayim* \[Messianism in medieval Jewish thought], Ramat-Gan: Bar-Ilan University Press.
-* –––, 2002, *Setirah ve-hastarah be-hagut ha-yehudit bi-ymei ha-beinayim* \[Contradiction and concealment in medieval Jewish thought], Ramat-Gan: Bar-Ilan University Press.
-* Schweid, E., 1963, “*Bein mishnat ha-‘ikkarim shel R. Yosef Albo le-mishnat ha-‘ikkarim shel ha-Rambam*” \[Joseph Albo’s system of dogmas as distinct from that of Maimonides], *Tarbiz*, 33: 74–84.
-* –––, 1965, “*Ha-nevuah be-mishnato shel R. Yosef Albo*” \[The doctrine of prophecy in the philosophic system of R. Joseph Albo], *Tarbiz*, 35: 48–60.
-* –––, 1967, Introduction to *Sefer ha-‘Ikkarim le-R. Yosef Albo: perakim* \[R. Joseph Albo’s *Book of Principles*: chapters], Jerusalem: Bialik Institute.
-* –––, 1968, “*Ha-pulmus neged ha-Nazrut ke-gorem me’azzev be-mishnat ha-R. Y. Albo*” \[The polemic against Christianity as a factor in shaping Joseph Albo’s doctrines], *Proceedings of the Forth World Congress for Jewish Studies*, 2: 309–312.
-* Shemesh, A. O., 2019, “Two Medieval Necromantic Practices: Maimonides Versus Nahmanides and R. Joseph Albo Concerning ‘Ob’ and ‘Yidoni’”, *Review of Rabbinic Judaism*, 22: 93–119.
-* Tänzer, A., 1896, *Die Religionsphilosophie Josef Albo’s nach seinem werke ‘Ikkarim’: Systematisch Dragestellt und Erläutert*, Frankfurt a.M.: Kauffmann.
-* Waxman, M., 1956, “*Shitato shel R. Yosef Albo be-‘ikkarei ha-dat ve-yahasah le-torat bnei-doro R. Hasdai Crescas ve-R. Shimon ben-Zemah Duran*” \[The method of R. Joseph Albo in the principles of religion and its relation to the theory of his contemporaries, R. Hasdai Crescas and R. Shimon ben Zemah Duran], *Bi-shvilei ha-sifrut ve-ha-mahshavah ha-‘ivrit* \[Paths in Jewish literature and philosophy], Tel Aviv: Yavne, pp. 135–165.
-* Weiss, S., 2017, *Joseph Albo on Free Choice: Exegetical Innovation in Medieval Jewish Philosophy*, Oxford: Oxford University Press.
-* Wolfson, H. A., 1916–17, “Crescas on the Problem of Divine Attributes”, *Jewish Quarterly Review*, 7: 1–44, 175–221.
+* Ackerman, A., 2013, “Zerahia Halevi Saladin and Joseph Albo on Natural, Conventional and Divine Law”, _Jewish Studies Quarterly_, 20: 315–339.
+* Agus, J. B., 1959, _The Evolution of Jewish Thought from Biblical Times to the Opening of the Modern Era_, London: Abelard-Schuman.
+* Back, S., 1869, _Joseph Albo’s Bedeutung in der Geschichte der jüdischen Religionsphilosophie: Ein Beitrag zur genauern Kenntniss der Tendenz des Buches “IKKARIM”,_ Breslau: B. Heidenfeld.
+* Baer, Y., 1961, _A History of the Jews in Christian Spain_ (Volume 2), Philadelphia: The Jewish Publication Society of America.
+* Ben-Sasson, H. H., 1984, _Retzef u-tmurah_ \[Continuity and Variety], J. R. Hacker (ed.), Tel Aviv: Am Oved Publishers.
+* Bleich, J. D., 1997, “Providence in the Philosophy of Hasdai Crescas and Joseph Albo”, in _Hazon Nahum: Studies in Jewish Law, Thought, and History Presented to Dr. Norman Lamm_, Y. Elman & J. S. Gurock (eds.), New York: Yeshiva University Press, pp. 311–358.
+* Cohen, J., 1993, “Profiat Duran’s _The Reproach of the Gentiles_ and the Development of Jewish Anti-Christian Polemic”, in _Shlomo Simonsohn Jubilee Volume: Studies on the History of the Jews in the Middle Ages and Renaissance Period_, D. Carpi et al. (eds.), Tel Aviv: Tel Aviv University, pp. 71–84 (English section).
+* Davidson, H. A., 1983, “Medieval Jewish Philosophy in the Sixteenth Century”, in _Jewish Thought in the Sixteenth Century_, B. D. Cooperman (ed.), Cambridge: Harvard University Press, pp. 106–145.
+* Ehrlich, D., 2004a, “Ahavat ha-el u-ktivah ezoterit be-Sefer ha-‘Ikkarim le-R. Yosef Albo” \[Love of God and esoteric writing in Albo’s Book of Roots], _Da‘at_, 53: 63–82.
+* –––, 2004b, _Filosofia ve-omanut ha-ktivah be-Sefer ha-‘Ikkarim le-R. Yosef Albo \[Philosophy and the art of writing in R. Joseph Albo’s Book of Roots]_, Ph.D. diss., Bar-Ilan University, Ramat-Gan.
+* –––, 2006, “A Reassessment of Natural Law in Rabbi Joseph Albo’s Book of Principles”, _Hebraic Political Studies_, 1: 413–439.
+* –––, 2008, “Het, tshuvah u-kfirah be-Sefer ha-‘Ikkarim le-R. Yosef Albo” \[Sin, repentance and heresy in R. Josepf Albo’s _Book of Principles_], in _Al ha-tshuvah ve-al ha-geulah: minhat shay le-Binyamin Gross_ \[On repentance and redemption: presented to Binyamin Gross], D. Schwartz & A. Gross (eds.), Ramat-Gan: Bar-Ilan University Press, pp. 55–80.
+* –––, 2009a, _Haguto shel R. Yosef Albo: ktivah ezoterit be-shilhey yemey he-beinayim_ \[The thought of R. Joseph Albo: esoteric writing in the late middle ages], Ramat-Gan: Bar-Ilan University Press.
+* –––, 2009b, “Hidden Apocalyptic Messianism in Late Medieval Jewish Thought”, _Review of Rabbinic Judaism_, 12: 75–88.
+* –––, 2013, “_Ha-dimuy ha-aristoteli shel einey ha-atalef ke-hipertext etsel Rihal, Ibn Daud, Hillel mi-Verona and Albo_”, _Daat_, 74–75: 357–374.
+* –––, 2017, “_Ekron ha-maamad ba-diyunim al nitshiyut onesh ha-gehenom etsel ha-Ran, Rahak ve-Albo_”, _Daat_, 83: 69–84.
+* Gonzalo Maeso, D., 1971, “La Judería de Soria y el Rabino José Albo”, _Misceláneade Estudios Arabes y Hebraicos_, 20 (2): 119–141.
+* Graetz, H., 1894, _History of the Jews_ (Volume IV), Philadelphia: The Jewish Publication Society of America.
+* Guttmann, J., 1955, “_Le-heker ha-mekorot shel sefer ha-‘ikkarim_” \[An inquiry concerning the sources of the _Sefer ha-Ikkarim_], in _Dat u-mada: kovetz ma’amarim ve-harza’ot_ \[Religion and Knowledge: Essays and Lectures], S. H. Bergman & N. Rotenstreich (eds.), Jerusalem: Magnes Press, The Hebrew University, pp. 169–191.
+* –––, 1964, _Philosophies of Judaism: The History of Jewish philosophy from Biblical Times to Franz Rosenzweig_, New York: Doubleday.
+* Gutwirth, E., 1993, “Conversions to Christianity Amongst Fifteenth-Century Spanish Jews: An Alternative Explanation”, in _Shlomo Simonsohn Jubilee Volume: Studies on the History of the Jews in the Middle Ages and Renaissance Period_, D. Carpi et al. (eds.), Tel Aviv: Tel Aviv University, pp. 97–121 (English section).
+* Harvey, W. Z., 1979–80, “Albo’s Discussion of Time”, _Jewish Quarterly Review_, 70: 210–238.
+* –––, 2015, “Albo on Repentance and Coersion”, _Jewish Law Annual_, 21: 47–57.
+* Husik, I., 1928–30, “Joseph Albo The Last of the Mediaeval Jewish Philosophers”, _Proceedings of the American Academy for Jewish Research_, 1: 61–72.
+* –––, 1966, _A History of Mediaeval Jewish Philosophy_, New York: Harper Torchbook.
+* Kellner, M., 1986, _Dogma in Medieval Jewish Thought From Maimonides to Abravanel_, Oxford: Oxford University Press.
+* Klein-Braslavi, S., 1976, “_Meziut ha-zman ve-ha-yamim ha-rishonim la-briah ba-filosofia ha-yehudit shel yemei ha-beinayim_” \[The reality of time and the primordial period in mediaeval Jewish philosophy], _Tarbiz_, 45: 106–127.
+* –––, 1980, “_Terumato shel R. Nissim Girondi le-’itzuvan shel torot ha-‘ikkarim shel Hasdai Crescas ve-shel Yosef Albo_” \[The influence of R. Nissim Girondi on Crescas’ and Albo’s “principles”], _Eshel Beer-Sheva_, 2: 177–197.
+* Kreisel, H., 2001, _Prophecy: The History of an Idea in Medieval Jewish Philosophy_, Dordrecht: Kluwer Academic Publishers.
+* Lasker, D. J., 1977, _Jewish Philosophical Polemics Against Christianity in the Middle Ages_, New York: Ktav Publication House.
+* –––, 1980, “_Torat ha-‘immut be-mishnato ha-filosofit shel Yosef Albo_” \[Joseph Albo’s theory of verification], _Da‘at_, 5: 5–12.
+* –––, 1998, “The Impact of Christianity on Late Iberian Jewish Philosophy”, in _In Iberia and Beyond: Hispanic Jews between Cultures_, B. D. Cooperman (ed.), Newark: University of Delaware Press, pp. 175–190.
+* Lerner, R., 1964, “Natural Law in Albo’s _Book of Roots_”, in _Ancients and Moderns: Essays on the Tradition of Political Philosophy in Honor of Leo Strauss_, J. Cropsey (ed.), New York: Basic Books, pp. 132–147.
+* –––, 2000, _Maimonides’ Empire of Light: Popular Enlightenment in an Age of Belief_, Chicago: University of Chicago Press.
+* Manekin, Charles H., 1997, “Hebrew philosophy in the fourteenth and fifteenth centuries: an overview”, in _History of Jewish Philosophy_ (Routledge History of World Philosophies: Volume 2), D. H. Frank & O. Leaman (eds.), London: Routledge, pp. 350–378.
+* Melamed, A., 1989, “_Ha-‘Im hikdim ibn Wakar et Albo be-sivug ha-hukim?_” \[Did ibn Wakar precede Albo in the classification of the law?], _Tura_, 1: 270–284.
+* Motis Dolader, M. A., 1990, “The Disappearance of the Jewish Community of Daroca in the Beginning of the 15th Century”, _Proceedings of the Tenth World Congress for Jewish Studies_, 2: 143–150.
+* Netanyahu, B., 1966, _The Marranos of Spain from the Late 14th Century to the Early 16th Century According to Contemporary Hebrew Sources_, New York: American Academy for Jewish Research.
+* Novak, D., 1983, _The Image of the Non-Jew in Judaism: A Historical and Constructive Study of the Noahides laws_, New York: Mellen.
+* Rauschenbach, S., 2002, _Josef Albo: Jüdische Philosophie und christliche Kontroverstheologie in der Frühen Neuzeit_ \[Studies in European Judaism, vol. 3], Leiden: Brill.
+* Ravitzky, A., 1988, _Derashat ha-Pesah le-R. Hasdai Crescas u-mehkarim be-mishnato ha-filosofit_ \[Crescas’ sermon on the Passover and studies in his philosophy], Jerusalem: The Israel Academy of Sciences and Humanities.
+* Rudavsky, T. M., 1997, “Creation and Temporality in Medieval Jewish Philosophy”, _Faith and Philosophy_, 14: 458–477.
+* Sadik, S., 2012, “_Ha-behira be-haguto shel Rabbi Yosef Albo_” \[Freedom of Choice in the Thought of Rabbi Josef Albo], _Jewish Studies, an Internet Journal_, 11: 139–151.
+* Sarachek, J., 1932, _The Doctrine of the Messiah in Medieval Jewish Literature_, New York: Hermon Press.
+* Schlesinger, L., 1844, Introduction to _Joseph Albo, Buch Ikkarim: Grund- und Glaubenslehren der Mosaischen Religion_, trans. W. Schlessinger & L. Schlesinger, Frankfurt a.M..
+* Schwartz, D., 1991, “_Ha-Yeridah ha-ruhanit datit shel ha-kehilah ha-yehudit bi-sfarad be-sof ha-meah ha-arba‘ ‘esre_” \[The spiritual-intellectual decline of the Jewish community in Spain at the end of the fourteenth century], _Pe‘amim_, 46–47: 92–114.
+* –––, 1997, _Ha-Ra’ayon ha-meshihi be-hagut ha-yehudit bi-ymei ha-beinayim_ \[Messianism in medieval Jewish thought], Ramat-Gan: Bar-Ilan University Press.
+* –––, 2002, _Setirah ve-hastarah be-hagut ha-yehudit bi-ymei ha-beinayim_ \[Contradiction and concealment in medieval Jewish thought], Ramat-Gan: Bar-Ilan University Press.
+* Schweid, E., 1963, “_Bein mishnat ha-‘ikkarim shel R. Yosef Albo le-mishnat ha-‘ikkarim shel ha-Rambam_” \[Joseph Albo’s system of dogmas as distinct from that of Maimonides], _Tarbiz_, 33: 74–84.
+* –––, 1965, “_Ha-nevuah be-mishnato shel R. Yosef Albo_” \[The doctrine of prophecy in the philosophic system of R. Joseph Albo], _Tarbiz_, 35: 48–60.
+* –––, 1967, Introduction to _Sefer ha-‘Ikkarim le-R. Yosef Albo: perakim_ \[R. Joseph Albo’s _Book of Principles_: chapters], Jerusalem: Bialik Institute.
+* –––, 1968, “_Ha-pulmus neged ha-Nazrut ke-gorem me’azzev be-mishnat ha-R. Y. Albo_” \[The polemic against Christianity as a factor in shaping Joseph Albo’s doctrines], _Proceedings of the Forth World Congress for Jewish Studies_, 2: 309–312.
+* Shemesh, A. O., 2019, “Two Medieval Necromantic Practices: Maimonides Versus Nahmanides and R. Joseph Albo Concerning ‘Ob’ and ‘Yidoni’”, _Review of Rabbinic Judaism_, 22: 93–119.
+* Tänzer, A., 1896, _Die Religionsphilosophie Josef Albo’s nach seinem werke ‘Ikkarim’: Systematisch Dragestellt und Erläutert_, Frankfurt a.M.: Kauffmann.
+* Waxman, M., 1956, “_Shitato shel R. Yosef Albo be-‘ikkarei ha-dat ve-yahasah le-torat bnei-doro R. Hasdai Crescas ve-R. Shimon ben-Zemah Duran_” \[The method of R. Joseph Albo in the principles of religion and its relation to the theory of his contemporaries, R. Hasdai Crescas and R. Shimon ben Zemah Duran], _Bi-shvilei ha-sifrut ve-ha-mahshavah ha-‘ivrit_ \[Paths in Jewish literature and philosophy], Tel Aviv: Yavne, pp. 135–165.
+* Weiss, S., 2017, _Joseph Albo on Free Choice: Exegetical Innovation in Medieval Jewish Philosophy_, Oxford: Oxford University Press.
+* Wolfson, H. A., 1916–17, “Crescas on the Problem of Divine Attributes”, _Jewish Quarterly Review_, 7: 1–44, 175–221.
 
 ## Academic Tools
 
@@ -196,4 +196,4 @@
 [Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Crescas, Hasdai](https://plato.stanford.edu/entries/crescas/) | [evil: problem of](https://plato.stanford.edu/entries/evil/) | [Halevi, Judah](https://plato.stanford.edu/entries/halevi/) | [Ibn Rushd \[Averroes\]](https://plato.stanford.edu/entries/ibn-rushd/) | [Maimonides](https://plato.stanford.edu/entries/maimonides/) | [Mendelssohn, Moses](https://plato.stanford.edu/entries/mendelssohn/) | [nature of law: natural law theories](https://plato.stanford.edu/entries/natural-law-theories/) | [prophecy](https://plato.stanford.edu/entries/prophecy/) | [providence, divine](https://plato.stanford.edu/entries/providence-divine/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [time](https://plato.stanford.edu/entries/time/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Dror Ehrlich](https://plato.stanford.edu/entries/albo-joseph/vita.html) <[*Dror.Erlich@biu.ac.il*](mailto:Dror%2eErlich%40biu%2eac%2eil)>
+[Dror Ehrlich](https://plato.stanford.edu/entries/albo-joseph/vita.html) <[_Dror.Erlich@biu.ac.il_](mailto:Dror%2eErlich%40biu%2eac%2eil)>

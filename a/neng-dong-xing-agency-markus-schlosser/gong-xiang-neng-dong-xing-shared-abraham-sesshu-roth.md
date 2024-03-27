@@ -84,7 +84,7 @@ Bratman（尤其是在他的 2014 年的书中，但也可以参考他的 2009c�
 
 Bratman（1997）提出，一个人的意图可以超出他自己可以解决的范围，只要他可以合理预测相关的其他参与者会采取适当的行动。明目张胆地无视良好的医疗建议，只要我可以合理预测今天下午会晴朗，我就可以坚决打算在海滩上晒太阳。同样地，当我合理相信你有或将有适当的意图时，我可以打算我们一起行动。人们可能会想知道，对其他参与者的意图和行动采取这种预测态度是否与共享意图和共同行动一致。另一方面，预测行动并不明显意味着它是或必须被视为无意识或其他问题。如果是这样，对他人的预测态度很可能与与他们一起行动是兼容的，并且可能解释了我们的共同行动如何成为我的意图的对象。
 
-另一个建议是，参与者的意图不是整个活动，而只是他或她在其中的一部分。这种意图更加谦虚，因为它并不打算解决其他人的行动。用这种意图来解释共同活动（例如 Tuomela＆Miller 1998，Kutz 2000）并不意味着对难以与共享活动相一致的他人的权威或控制。但是，这种谦虚的意图只涉及到我在我们的共同行动中的一部分，并且似乎无法解释对我们的整体共同行动的参与承诺。为了理解为什么不是这样，考虑一下从 Gilbert 1990 年开始一起散步的情况。我们可以将我的一部分描述为以一定的速度行走。但是，打算这样做完全与破坏我的伙伴的贡献相兼容，例如绊倒他。相反，假设我们利用一些关于“部分”的强大概念，以便每个参与者打算在共享活动中做出自己的贡献，*作为这样的*。这似乎排除了破坏伙伴贡献的企图。但是，这个意图到底是什么？它似乎预设了对共享活动概念的理解，而这正是我们试图阐明的概念。
+另一个建议是，参与者的意图不是整个活动，而只是他或她在其中的一部分。这种意图更加谦虚，因为它并不打算解决其他人的行动。用这种意图来解释共同活动（例如 Tuomela＆Miller 1998，Kutz 2000）并不意味着对难以与共享活动相一致的他人的权威或控制。但是，这种谦虚的意图只涉及到我在我们的共同行动中的一部分，并且似乎无法解释对我们的整体共同行动的参与承诺。为了理解为什么不是这样，考虑一下从 Gilbert 1990 年开始一起散步的情况。我们可以将我的一部分描述为以一定的速度行走。但是，打算这样做完全与破坏我的伙伴的贡献相兼容，例如绊倒他。相反，假设我们利用一些关于“部分”的强大概念，以便每个参与者打算在共享活动中做出自己的贡献，_作为这样的_。这似乎排除了破坏伙伴贡献的企图。但是，这个意图到底是什么？它似乎预设了对共享活动概念的理解，而这正是我们试图阐明的概念。
 
 也许这种批评过于仓促。也许还有一种方式来描述意愿尽自己的一份力量，而不需要预设共享能动性的概念。一种方法是借助于“团队推理”，这是一种独特的战略实践推理形式。这种推理观点的发展是为了解决标准博弈论在解释选择更合作选项的合理性时所遇到的困难，比如囚徒困境和 Hi-Lo。这个想法是，我们在每个个体都问自己不是“在其他人的行动下，对我来说什么是最好的？”而是“对我们来说什么是最好的？”或者是对整个群体来说什么是最好的？\[[32](https://plato.stanford.edu/entries/shared-agency/notes.html#32)]参与意愿是根据导致其形成的独特推理来描述的，而不是根据意愿本身或其内容的某种更内在的特征。尚待观察的是，这种理解下的意愿尽自己的一份力量是否能解释共享能动性所特有的参与承诺。\[[33](https://plato.stanford.edu/entries/shared-agency/notes.html#33)]
 
@@ -124,7 +124,7 @@ Gilbert 试图通过“所有权”来表达有向性的意义：杰克对苏的
 
 Pettit 最近的论点涉及到了这个担忧。他提出了一些群体决策程序，这些程序使得过去的群体判断在后续的决策、判断和意图中具有合理的约束力。当遵循这种“前提驱动”的程序时，一个群体不仅展示了一种表明有思想的合理统一性，而且以这样的方式做出了一个少数人甚至没有一个个体成员个人持有的判断。
 
-Pettit 借鉴了判断聚合的文献（例如 Kornhauser 和 Sager，1986；List＆Pettit，2002）。这里是 Pettit 所考虑的一种情况的版本：几个同事（A、B 和 C）前往芝加哥的 APA 大会，他们必须决定是否乘坐从机场出发的 El（火车）。对于决策/结论上车，需要对以下考虑或“前提”做出肯定的判断：火车是否足够安全，是否足够快，是否足够景色优美（例如，是否可以忽略湖景）。假设在适当的背景假设下，满足这些条件意味着有充分的理由乘坐火车。最后，假设群体通过多数投票对*前提*做出判断，如下所示：
+Pettit 借鉴了判断聚合的文献（例如 Kornhauser 和 Sager，1986；List＆Pettit，2002）。这里是 Pettit 所考虑的一种情况的版本：几个同事（A、B 和 C）前往芝加哥的 APA 大会，他们必须决定是否乘坐从机场出发的 El（火车）。对于决策/结论上车，需要对以下考虑或“前提”做出肯定的判断：火车是否足够安全，是否足够快，是否足够景色优美（例如，是否可以忽略湖景）。假设在适当的背景假设下，满足这些条件意味着有充分的理由乘坐火车。最后，假设群体通过多数投票对_前提_做出判断，如下所示：
 
 \| | 足够安全吗？ | 足够快速吗？ | 足够景色优美吗？ | 上车吗？ |
 
@@ -148,110 +148,110 @@ Pettit 借鉴了判断聚合的文献（例如 Kornhauser 和 Sager，1986；Lis
 
 ## Bibliography
 
-* Alonso, Facundo, 2009. “Shared Intention, Reliance, and Interpersonal Obligations”, *Ethics*, 119: 444–475.
-* Anderson, Elizabeth, 2001. “Unstrapping the Straightjacket of ‘Preference’: a Comment on Amartya Sen’s Contributions to Philosophy and Economics”, *Economics and Philosophy*, 17: 21–38.
-* Anscombe, G. E. M., 1963. *Intention* (2d edition), Ithaca: Cornell University Press.
-* Bacharach, Michael, 2006. *Beyond Individual Choice*, N. Gold & R. Sugden, eds., Princeton: Princeton University Press.
-* Baier, Annette, 1997. “Doing things with Others: The Mental Commons” in Alanen, L., S. Heinämaa, and T. Wallgren, eds., *Commonality and Particularity in Ethics*, New York: St. Martin’s Press, Inc.
-* Bratman, Michael, 1987. *Intention, Plans, and Practical Reason*, Cambridge, MA: Harvard University Press.
-* –––, 1992. “Shared Cooperative Activity”, *The Philosophical Review*, 101: 327–341.
-* –––, 1993. “Shared Intention”, *Ethics*, 104: 97–113.
-* –––, 1997a. “I Intend that We J”, in R. Tuomela and G. Holmstrom-Hintikka (eds.), *Contemporary Action Theory* (Volume 2: Social Action), Dordrecht: Kluwer, 49–63, reprinted in Bratman 1999: 142–161.
+* Alonso, Facundo, 2009. “Shared Intention, Reliance, and Interpersonal Obligations”, _Ethics_, 119: 444–475.
+* Anderson, Elizabeth, 2001. “Unstrapping the Straightjacket of ‘Preference’: a Comment on Amartya Sen’s Contributions to Philosophy and Economics”, _Economics and Philosophy_, 17: 21–38.
+* Anscombe, G. E. M., 1963. _Intention_ (2d edition), Ithaca: Cornell University Press.
+* Bacharach, Michael, 2006. _Beyond Individual Choice_, N. Gold & R. Sugden, eds., Princeton: Princeton University Press.
+* Baier, Annette, 1997. “Doing things with Others: The Mental Commons” in Alanen, L., S. Heinämaa, and T. Wallgren, eds., _Commonality and Particularity in Ethics_, New York: St. Martin’s Press, Inc.
+* Bratman, Michael, 1987. _Intention, Plans, and Practical Reason_, Cambridge, MA: Harvard University Press.
+* –––, 1992. “Shared Cooperative Activity”, _The Philosophical Review_, 101: 327–341.
+* –––, 1993. “Shared Intention”, _Ethics_, 104: 97–113.
+* –––, 1997a. “I Intend that We J”, in R. Tuomela and G. Holmstrom-Hintikka (eds.), _Contemporary Action Theory_ (Volume 2: Social Action), Dordrecht: Kluwer, 49–63, reprinted in Bratman 1999: 142–161.
 * –––, 1997b. “Shared Intention and Mutual Obligation”, originally published as “Intention Partagée et Obligation Mutuelle,” in Les limites de la rationalité (Volumes 1), Jean-Pierre Dupuy and Pierre Livet (eds.), Joelle Proust, (trans.), Paris: Editions La Découverte, 246–66. Reprinted in Bratman 1999.
-* –––, 1999. *Faces of Intention*, Cambridge: Cambridge University Press.
-* –––, 2009a. “Intention, Practical Rationality, and Self‐Governance”,*Ethics*, 119: 411–443.
-* –––, 2009b. “Modest sociality and the distinctiveness of intention”, *Philosophical Studies*, 144: 149–165.
-* –––, 2009c. “Shared Agency”, in *Philosophy of the social sciences : philosophical theory and scientific practice*, C. Mantzavinos, ed., Cambridge, UK; New York : Cambridge University Press, 41–59.
-* –––, 2014. *Shared Agency: A Planning Theory of Acting Together*, New York: Oxford University Press.
-* –––, 2015. “Shared Agency: Replies to Ludwig, Pacherie, Petersson, Roth, and Smith”, *Journal of Social Ontology*, 1(1): 59–76.
-* Broome, John, 1999. “Normative requirements”, *Ratio*, 12: 398–419.
-* Chant, Sara Rachel, 2007. “Unintentional Collective Action”, *Philosophical Explorations*, 10: 245–256.
-* Chant, Sara Rachel and Zachary Ernst, 2008. “Epistemic Conditions for Collective Action”, *Mind*, 117(467): 549–573
-* Darwall, Stephen, 2006. *The Second-Person Standpoint: Respect, Morality, and Accountability.*, Cambridge, MA: Harvard University Press.
-* Davidson, Donald, 1978. “Intending,” reprinted in *Essays on Actions and Events*, Oxford: Oxford University Press, 1980: 83–102.
-* Dennett, Daniel C., 1987. *The Intentional Stance*, Cambridge, MA: MIT Press.
-* Dietz, Alexander, 2016. “What We Together Ought to Do”, *Ethics*, 126: 955–982.
-* Epstein, Brian, 2015. *The Ant Trap*, Oxford: Oxford University Press.
-* Gilbert, Margaret, 1989. *On Social Facts*, London: Routledge. Reprinted Princeton: Princeton University Press, 1992.
-* –––, 1990. “Walking Together: A Paradigmatic Social Phenomenon”, *Midwest Studies in Philosophy*, 15: 1–14.
-* –––, 1993. “Is an Agreement an Exchange of Promises?” *Journal of Philosophy*, 90: 627–49. Reprinted in Gilbert 1996.
-* –––, 1996. *Living Together*, Lanham, MD: Rowman & Littlefield.
-* –––, 1997. “What Is It for Us to Intend?”, in *Contemporary Action Theory, vol. 2: The Philosophy and Logic of Social Action*, G. Holmstrom-Hintikka and R. Tuomela (eds.), Dordrecht: Kluwer Academic Publishers, 65–85. Reprinted with minor revisions in Gilbert 2000.
-* –––, 1999. “Obligation and Joint Commitment”, *Utilitas*, 11:143–63. Reprinted with minor revisions in Gilbert 2000, 50–70.
-* –––, 2000. *Sociality and Responsibility*, Lanham, MD.: Rowman & Littlefield.
-* –––, 2002. “Considerations on Joint Commitment: Responses to Various Comments”, in *Social Facts & Collective Intentionality*, G. Meggle (ed.), Frankfurt am Main: DR. Hansel-Hohenhausen AG, pp. 73-101.
-* –––, 2006. *A Theory of Political Obligation: Membership, Commitment, and the Bonds of Society*, Oxford: Oxford University Press.
-* –––, 2008. “Two Approaches to Shared Intention: An Essay in the Philosophy of Social Phenomena”, *Analyze & Kritik*, 30: 483–514.
-* –––, 2009. “Shared Intention and Personal Intention”, *Philosophical Studies*, 144: 167–187.
-* –––, 2011. “Three Dogmas about Promising”, in *Promises and Agreements*, Hanoch Sheinman (ed.), New York: Oxford University Press, 73–101.
-* Gold, Natalie & Robert Sugden, 2007. “Collective Intentions and Team Agency”, *Journal of Philosophy*, 104(3): 109–137
-* Goldman, Alvin, 1968. “Actions, Decisions, and Books of Life”, *American Philosophical Quarterly* 5(3): 135–151.
-* –––, 1970. *A Theory of Human Action*, New York: Prentice-Hall.
-* Hampshire, Stuart, 1965. *Freedom of the Individual*, New York: Harper & Row.
-* Hampshire, Stuart & H.L.A. Hart, 1958. “Decision, Intention and Certainty”, *Mind*, LXVII: 1–12.
-* Harman, Gilbert, 1976. “Practical Reason”, *Review of Metaphysics*, 79: 431–63.
-* –––, 1986. *Change in View*, Cambridge, MA: MIT Press.
-* Hobbes Thomas, 1651. *Leviathan*, in E. Curley (ed.), *Leviathan, with selected variants from the Latin edition of 1668*, Indianapolis: Hackett, 1994.
-* Hurley, Susan, 1989. *Natural Reasons*, New York: Oxford University Press.
-* Kornhauser, L. A., 1992a. “Modelling collegial courts. I. Path-dependence”, *International Review of Law and Economics*, 12: 169–85
-* –––, 1992b. “Modelling collegial courts. II. Legal doctrine”, *Journal of Law, Economics and Organization*, 8: 441–70
-* Kornhauser, L. A. and L. G. Sager, 1986. “Unpacking the court”, *Yale Law Journal*, 96(1): 82–117.
-* –––, 1993. “The one and the many: adjudication in collegial courts”, *California Law Review*, 81: 1–59
-* Korsgaard, Christine, 2009. *Self-Constitution—Agency, Identity, and Integrity.*, Oxford: Oxford University Press.
-* Kutz, Christopher, 2000. Acting Together. *Philosophy and Phenomenological Research*, 61: 1–31.
-* Laurence, Ben, 2010. “An Anscombian Approach to Shared Agency”, in A. Ford, J. Hornsby, and F. Stoutland (Eds.), *Essays on Anscombe’s Intention*, Cambridge, MA: Harvard University Press: 270–298.
-* Lewis, David, 1969. *Convention: a Philosophical Study.* Cambridge, MA: Harvard University Press.
-* –––, 1983. *Philosophical Papers*, (Volume 1), New York: Oxford University Press.
-* List, Christian and Pettit, Philip, 2006. “Group Agency and Supervenience”, in *Southern Journal of Philosophy* (Spindel Conference 2005), 44: 85–105. \[[Preprint available online](http://www.princeton.edu/\~ppettit/papers/2006/Group%20Agency%20and%20Supervenience.pdf)]
-* –––, 2002. “Aggregating Sets of Judgements: An Impossibility Result,” *Economics and Philosophy*, 18: 89–110
-* Ludwig, Kirk, 2007. “Collective Intentional Behavior from the Standpoint of Semantics”, *Noûs 41*, 3: 355–393.
-* –––, 2016. *From Individual to Plural Agency* (Collective Action: Volume 1), Oxford: Oxford University Press.
+* –––, 1999. _Faces of Intention_, Cambridge: Cambridge University Press.
+* –––, 2009a. “Intention, Practical Rationality, and Self‐Governance”,_Ethics_, 119: 411–443.
+* –––, 2009b. “Modest sociality and the distinctiveness of intention”, _Philosophical Studies_, 144: 149–165.
+* –––, 2009c. “Shared Agency”, in _Philosophy of the social sciences : philosophical theory and scientific practice_, C. Mantzavinos, ed., Cambridge, UK; New York : Cambridge University Press, 41–59.
+* –––, 2014. _Shared Agency: A Planning Theory of Acting Together_, New York: Oxford University Press.
+* –––, 2015. “Shared Agency: Replies to Ludwig, Pacherie, Petersson, Roth, and Smith”, _Journal of Social Ontology_, 1(1): 59–76.
+* Broome, John, 1999. “Normative requirements”, _Ratio_, 12: 398–419.
+* Chant, Sara Rachel, 2007. “Unintentional Collective Action”, _Philosophical Explorations_, 10: 245–256.
+* Chant, Sara Rachel and Zachary Ernst, 2008. “Epistemic Conditions for Collective Action”, _Mind_, 117(467): 549–573
+* Darwall, Stephen, 2006. _The Second-Person Standpoint: Respect, Morality, and Accountability._, Cambridge, MA: Harvard University Press.
+* Davidson, Donald, 1978. “Intending,” reprinted in _Essays on Actions and Events_, Oxford: Oxford University Press, 1980: 83–102.
+* Dennett, Daniel C., 1987. _The Intentional Stance_, Cambridge, MA: MIT Press.
+* Dietz, Alexander, 2016. “What We Together Ought to Do”, _Ethics_, 126: 955–982.
+* Epstein, Brian, 2015. _The Ant Trap_, Oxford: Oxford University Press.
+* Gilbert, Margaret, 1989. _On Social Facts_, London: Routledge. Reprinted Princeton: Princeton University Press, 1992.
+* –––, 1990. “Walking Together: A Paradigmatic Social Phenomenon”, _Midwest Studies in Philosophy_, 15: 1–14.
+* –––, 1993. “Is an Agreement an Exchange of Promises?” _Journal of Philosophy_, 90: 627–49. Reprinted in Gilbert 1996.
+* –––, 1996. _Living Together_, Lanham, MD: Rowman & Littlefield.
+* –––, 1997. “What Is It for Us to Intend?”, in _Contemporary Action Theory, vol. 2: The Philosophy and Logic of Social Action_, G. Holmstrom-Hintikka and R. Tuomela (eds.), Dordrecht: Kluwer Academic Publishers, 65–85. Reprinted with minor revisions in Gilbert 2000.
+* –––, 1999. “Obligation and Joint Commitment”, _Utilitas_, 11:143–63. Reprinted with minor revisions in Gilbert 2000, 50–70.
+* –––, 2000. _Sociality and Responsibility_, Lanham, MD.: Rowman & Littlefield.
+* –––, 2002. “Considerations on Joint Commitment: Responses to Various Comments”, in _Social Facts & Collective Intentionality_, G. Meggle (ed.), Frankfurt am Main: DR. Hansel-Hohenhausen AG, pp. 73-101.
+* –––, 2006. _A Theory of Political Obligation: Membership, Commitment, and the Bonds of Society_, Oxford: Oxford University Press.
+* –––, 2008. “Two Approaches to Shared Intention: An Essay in the Philosophy of Social Phenomena”, _Analyze & Kritik_, 30: 483–514.
+* –––, 2009. “Shared Intention and Personal Intention”, _Philosophical Studies_, 144: 167–187.
+* –––, 2011. “Three Dogmas about Promising”, in _Promises and Agreements_, Hanoch Sheinman (ed.), New York: Oxford University Press, 73–101.
+* Gold, Natalie & Robert Sugden, 2007. “Collective Intentions and Team Agency”, _Journal of Philosophy_, 104(3): 109–137
+* Goldman, Alvin, 1968. “Actions, Decisions, and Books of Life”, _American Philosophical Quarterly_ 5(3): 135–151.
+* –––, 1970. _A Theory of Human Action_, New York: Prentice-Hall.
+* Hampshire, Stuart, 1965. _Freedom of the Individual_, New York: Harper & Row.
+* Hampshire, Stuart & H.L.A. Hart, 1958. “Decision, Intention and Certainty”, _Mind_, LXVII: 1–12.
+* Harman, Gilbert, 1976. “Practical Reason”, _Review of Metaphysics_, 79: 431–63.
+* –––, 1986. _Change in View_, Cambridge, MA: MIT Press.
+* Hobbes Thomas, 1651. _Leviathan_, in E. Curley (ed.), _Leviathan, with selected variants from the Latin edition of 1668_, Indianapolis: Hackett, 1994.
+* Hurley, Susan, 1989. _Natural Reasons_, New York: Oxford University Press.
+* Kornhauser, L. A., 1992a. “Modelling collegial courts. I. Path-dependence”, _International Review of Law and Economics_, 12: 169–85
+* –––, 1992b. “Modelling collegial courts. II. Legal doctrine”, _Journal of Law, Economics and Organization_, 8: 441–70
+* Kornhauser, L. A. and L. G. Sager, 1986. “Unpacking the court”, _Yale Law Journal_, 96(1): 82–117.
+* –––, 1993. “The one and the many: adjudication in collegial courts”, _California Law Review_, 81: 1–59
+* Korsgaard, Christine, 2009. _Self-Constitution—Agency, Identity, and Integrity._, Oxford: Oxford University Press.
+* Kutz, Christopher, 2000. Acting Together. _Philosophy and Phenomenological Research_, 61: 1–31.
+* Laurence, Ben, 2010. “An Anscombian Approach to Shared Agency”, in A. Ford, J. Hornsby, and F. Stoutland (Eds.), _Essays on Anscombe’s Intention_, Cambridge, MA: Harvard University Press: 270–298.
+* Lewis, David, 1969. _Convention: a Philosophical Study._ Cambridge, MA: Harvard University Press.
+* –––, 1983. _Philosophical Papers_, (Volume 1), New York: Oxford University Press.
+* List, Christian and Pettit, Philip, 2006. “Group Agency and Supervenience”, in _Southern Journal of Philosophy_ (Spindel Conference 2005), 44: 85–105. \[[Preprint available online](http://www.princeton.edu/\~ppettit/papers/2006/Group%20Agency%20and%20Supervenience.pdf)]
+* –––, 2002. “Aggregating Sets of Judgements: An Impossibility Result,” _Economics and Philosophy_, 18: 89–110
+* Ludwig, Kirk, 2007. “Collective Intentional Behavior from the Standpoint of Semantics”, _Noûs 41_, 3: 355–393.
+* –––, 2016. _From Individual to Plural Agency_ (Collective Action: Volume 1), Oxford: Oxford University Press.
 * McMahon, Christopher, 2005. “Shared Agency and Rational Cooperation”, Noûs 39:2: 284–308.
-* –––, 2001. *Collective Rationality and Collective Reasoning*, Cambridge: Cambridge University Press.
-* Miller, Seumas, 2001. *Social Action: A Teleological Account*, New York: Cambridge University Press.
-* Pacherie, Elisabeth, 2007. “Is collective intentionality really primitive?”, in M. Beaney, C. Penco & M. Vignolo (Eds.), *Mental processes: representing and inferring*, Cambridge: Cambridge Scholars Press: 153–175.
-* Peterssen, Björn, 2007. “Collectivity and Circularity”, *Journal of Philosophy*, 104(3): 138–156.
-* –––, 2015. “Bratman, Searle, and Simplicity. A comment on Bratman, *Shared Agency: A Planning Theory of Acting Together*”, *Journal of Social Ontology* 1(1): 27–38.
-* Pettit, Philip, 2001. “Collective Intentions” in N. Naffine, R. Owens, and J. Williams (eds.), *Intention in Law and Philosophy*, Ashgate, Dartmouth, pp. 241–54.
-* –––, 2003. “Groups with Minds of Their Own”, *Socializing Metaphysics: the Nature of Social Reality*, F. Schmitt, ed., Lanham, MD: Rowman & Littlefield: 167–93.
-* –––, 2009. “The Reality of Group Agents”, in *Philosophy of the social sciences : philosophical theory and scientific practice*, C. Mantzavinos (ed.), Cambridge; New York: Cambridge University Press: 67–91.
-* –––, 2014. “Group Agents are Not Expressive, Pragmatic or Theoretical Fictions”, *Erkenntnis*, 79: 1641–1662
-* Pettit, Philip and Christian List, 2011. *Group Agency: The Possibility, Design, and Status of Corporate Agents*, Oxford: Oxford University Press.
-* Pettit, Philip and Schweikard, David, 2006. “Joint Actions and Group Agents”, *Philosophy of Social Sciences*, 36: 18–39. \[[Preprint available online](http://www.princeton.edu/\~ppettit/papers/2006/Joint%20Actions%20and%20Group%20Agents.pdf)]
-* Quinton, Anthony, 1975–6. “Social Objects”, *Proceedings of the Aristotelian Society*, 75: 1–27.
-* Robins, Michael H., 2002. “Joint Commitment and Circularity”, in *Social Facts & Collective Intentionality*, G. Meggle, ed., Frankfurt am Main: DR. Hansel-Hohenhausen AG: 299-321.
-* Roth, Abraham Sesshu, 2003. “Practical Intersubjectivity”, in *Socializing Metaphysics: the Nature of Social Reality*, F. Schmitt, ed., Lanham, MD: Rowman & Littlefield, 65–91.
-* –––, 2004. “Shared Agency and Contralateral Commitments”, *Philosophical Review*, 113(3): 359–410
-* –––, 2014a. “Indispensability, the Discursive Dilemma, and Groups with Minds of Their Own”, in *From Individual to Collective Intentionality*, S. Chant, F. Hindriks, and G. Preyer, eds., Oxford: Oxford University Press, 137–162.
-* –––, 2014b. “Prediction, Authority, and Entitlement in Shared Activity”, *Noûs*, 48:4, 626–652.
-* –––, 2015. “Practical Intersubjectivity and Normative Guidance: Bratman on Shared Agency,” *Journal of Social Ontology*, 1(1): 39–48.
-* –––, 2016. “Intention, Expectation, and Promissory Obligation”, *Ethics*, 127:1, 88–115
-* Rovane, Carol, 1997. *The Bounds of Agency: An Essay in Revisionary Metaphysics*, Princeton, NJ: Princeton University Press.
-* Scanlon, Thomas, 1998. *What We Owe to Each Other*, Cambridge: Harvard University Press.
-* Schmid, Hans Bernhard, 2008. “Plural Action”, *Philosophy of the Social Sciences.*, 38:1: 25–54.
-* Schmid, Hans Bernhard, 2014. “Plural Self-Awareness”, *Phenomenology and the Cognitive Sciences.*, 13: 7–24.
-* Searle, John, 1990. “Collective Intentions and Actions”, in *Intentions in Communication*, edited by P. Cohen, J. Morgan, and M. Pollack, 401–415. Cambridge: MIT Press.
-* –––, 1995. *The Construction of Social Reality*, New York: Free Press.
-* Sellars, Wilfred, 1963. “Imperatives, Intentions, and the Logic of ‘Ought’”, in *Morality and the Language of Conduct*, edited by Hector-Neri Castaneda and George Nakhnikian. Detroit: Wayne State University Press.
-* –––, 1968. *Science and Metaphysics*, London: Routledge & Kegan Paul.
-* Setiya, Kieran, 2010. “Intention”, *Stanford Encyclopedia of Philosophy*, (Spring 2010 Edition), Edward N. Zalta (ed.), URL = <[Intention (Stanford Encyclopedia of Philosophy/Spring 2010 Edition)](https://plato.stanford.edu/archives/spr2010/entries/intention/)>.
-* Shiffrin, Seana, 2008. “Promising, Intimate Relationships, and Conventionalism”, *Philosophical Review*, 117(4): 481–524.
-* Smith, Thomas, 2015. “*Shared Agency* on Gilbert and Deep Discontinuity”, *Journal of Social Ontology*, 1(1): 49–58.
-* Stoutland, Frederick, 1997. “Why are Philosophers of Action So Anti-Social?”, in *Commonality and Particularity in Ethics*, L. Alanen, S. Heinämaa, and T. Walgren (eds.), New York: St. Martin’s.
-* Stroud, Sarah, 2010. “Permissible Partiality, Projects, and Plural Agency”, in J. Cottingham and B. Feltham, (eds.), *Partiality and Impartiality: Morality, Special Relationships, and the Wider World*, Oxford: Oxford University Press.
-* Thompson, Michael, 2004. “What is it to Wrong Someone? A Puzzle about Justice”, in *Reason and Value*, R. Jay Wallace, Philip Pettit, Samuel Scheffler and Michael Smith (eds.), Oxford University Press, 333–384.
-* –––, 2008, *Life and Action*, Cambridge, MA: Harvard University Press.
-* Tollefsen, Deborah Perron, 2002. “Collective Intentionality and the Social Sciences”, *Philosophy of the Social Sciences*, 32(1): 25–50.
-* Tuomela, Raimo, 2003. “The We-Mode and the I-Mode”, in *Socializing Metaphysics: the Nature of Social Reality*, F. Schmitt (ed.), Lanham, MD: Rowman & Littlefield: 93–127.
-* –––, 2007. *The Philosophy of Sociality: The Shared Point of View*, New York: Oxford University Press.
-* Tuomela, Raimo, & Miller, Kaarlo, 1988. “We-Intentions”, *Philosophical Studies*, 53: 367–389.
-* Velleman, J. David, 1997a. “How to Share an Intention”, *Philosophy and Phenomenological Research*, 57: 29–50.
-* –––, 1997b. “Deciding How to Decide”, in *Ethics and Practical Reasoning*, Garrett Cullity and Berys Gaut (eds.), Oxford: Oxford University Press, pp. 29–52.
-* –––, 2001. Review of Michael Bratman’s *Faces of Intention*, *The Philosophical Quarterly*, 51(202): 119–121.
-* Wallace, R. Jay, 2013. “The Deontic Structure of Morality”, in *Thinking about Reasons: Essays in Honour of Jonathan Dancy*, David Bakhurst, Brad Hooker, and Margaret Olivia Little (eds.), Oxford: Oxford University Press, 137–167.
-* Watkins, J.W.N., 1957. “Historical Explanation in the Social Sciences”, *The British Journal for the Philosophy of Science*, 8(30): 104 –117.
-* Wilson, George, 1989, *The Intentionality of Human Action*, Stanford: Stanford University Press
-* Wittgenstein, Ludwig, 1953. *Philosophical Investigations*, G.E.M. Anscombe and R. Rhees (eds.), G.E.M. Anscombe (trans.), Oxford: Blackwell.
+* –––, 2001. _Collective Rationality and Collective Reasoning_, Cambridge: Cambridge University Press.
+* Miller, Seumas, 2001. _Social Action: A Teleological Account_, New York: Cambridge University Press.
+* Pacherie, Elisabeth, 2007. “Is collective intentionality really primitive?”, in M. Beaney, C. Penco & M. Vignolo (Eds.), _Mental processes: representing and inferring_, Cambridge: Cambridge Scholars Press: 153–175.
+* Peterssen, Björn, 2007. “Collectivity and Circularity”, _Journal of Philosophy_, 104(3): 138–156.
+* –––, 2015. “Bratman, Searle, and Simplicity. A comment on Bratman, _Shared Agency: A Planning Theory of Acting Together_”, _Journal of Social Ontology_ 1(1): 27–38.
+* Pettit, Philip, 2001. “Collective Intentions” in N. Naffine, R. Owens, and J. Williams (eds.), _Intention in Law and Philosophy_, Ashgate, Dartmouth, pp. 241–54.
+* –––, 2003. “Groups with Minds of Their Own”, _Socializing Metaphysics: the Nature of Social Reality_, F. Schmitt, ed., Lanham, MD: Rowman & Littlefield: 167–93.
+* –––, 2009. “The Reality of Group Agents”, in _Philosophy of the social sciences : philosophical theory and scientific practice_, C. Mantzavinos (ed.), Cambridge; New York: Cambridge University Press: 67–91.
+* –––, 2014. “Group Agents are Not Expressive, Pragmatic or Theoretical Fictions”, _Erkenntnis_, 79: 1641–1662
+* Pettit, Philip and Christian List, 2011. _Group Agency: The Possibility, Design, and Status of Corporate Agents_, Oxford: Oxford University Press.
+* Pettit, Philip and Schweikard, David, 2006. “Joint Actions and Group Agents”, _Philosophy of Social Sciences_, 36: 18–39. \[[Preprint available online](http://www.princeton.edu/\~ppettit/papers/2006/Joint%20Actions%20and%20Group%20Agents.pdf)]
+* Quinton, Anthony, 1975–6. “Social Objects”, _Proceedings of the Aristotelian Society_, 75: 1–27.
+* Robins, Michael H., 2002. “Joint Commitment and Circularity”, in _Social Facts & Collective Intentionality_, G. Meggle, ed., Frankfurt am Main: DR. Hansel-Hohenhausen AG: 299-321.
+* Roth, Abraham Sesshu, 2003. “Practical Intersubjectivity”, in _Socializing Metaphysics: the Nature of Social Reality_, F. Schmitt, ed., Lanham, MD: Rowman & Littlefield, 65–91.
+* –––, 2004. “Shared Agency and Contralateral Commitments”, _Philosophical Review_, 113(3): 359–410
+* –––, 2014a. “Indispensability, the Discursive Dilemma, and Groups with Minds of Their Own”, in _From Individual to Collective Intentionality_, S. Chant, F. Hindriks, and G. Preyer, eds., Oxford: Oxford University Press, 137–162.
+* –––, 2014b. “Prediction, Authority, and Entitlement in Shared Activity”, _Noûs_, 48:4, 626–652.
+* –––, 2015. “Practical Intersubjectivity and Normative Guidance: Bratman on Shared Agency,” _Journal of Social Ontology_, 1(1): 39–48.
+* –––, 2016. “Intention, Expectation, and Promissory Obligation”, _Ethics_, 127:1, 88–115
+* Rovane, Carol, 1997. _The Bounds of Agency: An Essay in Revisionary Metaphysics_, Princeton, NJ: Princeton University Press.
+* Scanlon, Thomas, 1998. _What We Owe to Each Other_, Cambridge: Harvard University Press.
+* Schmid, Hans Bernhard, 2008. “Plural Action”, _Philosophy of the Social Sciences._, 38:1: 25–54.
+* Schmid, Hans Bernhard, 2014. “Plural Self-Awareness”, _Phenomenology and the Cognitive Sciences._, 13: 7–24.
+* Searle, John, 1990. “Collective Intentions and Actions”, in _Intentions in Communication_, edited by P. Cohen, J. Morgan, and M. Pollack, 401–415. Cambridge: MIT Press.
+* –––, 1995. _The Construction of Social Reality_, New York: Free Press.
+* Sellars, Wilfred, 1963. “Imperatives, Intentions, and the Logic of ‘Ought’”, in _Morality and the Language of Conduct_, edited by Hector-Neri Castaneda and George Nakhnikian. Detroit: Wayne State University Press.
+* –––, 1968. _Science and Metaphysics_, London: Routledge & Kegan Paul.
+* Setiya, Kieran, 2010. “Intention”, _Stanford Encyclopedia of Philosophy_, (Spring 2010 Edition), Edward N. Zalta (ed.), URL = <[Intention (Stanford Encyclopedia of Philosophy/Spring 2010 Edition)](https://plato.stanford.edu/archives/spr2010/entries/intention/)>.
+* Shiffrin, Seana, 2008. “Promising, Intimate Relationships, and Conventionalism”, _Philosophical Review_, 117(4): 481–524.
+* Smith, Thomas, 2015. “_Shared Agency_ on Gilbert and Deep Discontinuity”, _Journal of Social Ontology_, 1(1): 49–58.
+* Stoutland, Frederick, 1997. “Why are Philosophers of Action So Anti-Social?”, in _Commonality and Particularity in Ethics_, L. Alanen, S. Heinämaa, and T. Walgren (eds.), New York: St. Martin’s.
+* Stroud, Sarah, 2010. “Permissible Partiality, Projects, and Plural Agency”, in J. Cottingham and B. Feltham, (eds.), _Partiality and Impartiality: Morality, Special Relationships, and the Wider World_, Oxford: Oxford University Press.
+* Thompson, Michael, 2004. “What is it to Wrong Someone? A Puzzle about Justice”, in _Reason and Value_, R. Jay Wallace, Philip Pettit, Samuel Scheffler and Michael Smith (eds.), Oxford University Press, 333–384.
+* –––, 2008, _Life and Action_, Cambridge, MA: Harvard University Press.
+* Tollefsen, Deborah Perron, 2002. “Collective Intentionality and the Social Sciences”, _Philosophy of the Social Sciences_, 32(1): 25–50.
+* Tuomela, Raimo, 2003. “The We-Mode and the I-Mode”, in _Socializing Metaphysics: the Nature of Social Reality_, F. Schmitt (ed.), Lanham, MD: Rowman & Littlefield: 93–127.
+* –––, 2007. _The Philosophy of Sociality: The Shared Point of View_, New York: Oxford University Press.
+* Tuomela, Raimo, & Miller, Kaarlo, 1988. “We-Intentions”, _Philosophical Studies_, 53: 367–389.
+* Velleman, J. David, 1997a. “How to Share an Intention”, _Philosophy and Phenomenological Research_, 57: 29–50.
+* –––, 1997b. “Deciding How to Decide”, in _Ethics and Practical Reasoning_, Garrett Cullity and Berys Gaut (eds.), Oxford: Oxford University Press, pp. 29–52.
+* –––, 2001. Review of Michael Bratman’s _Faces of Intention_, _The Philosophical Quarterly_, 51(202): 119–121.
+* Wallace, R. Jay, 2013. “The Deontic Structure of Morality”, in _Thinking about Reasons: Essays in Honour of Jonathan Dancy_, David Bakhurst, Brad Hooker, and Margaret Olivia Little (eds.), Oxford: Oxford University Press, 137–167.
+* Watkins, J.W.N., 1957. “Historical Explanation in the Social Sciences”, _The British Journal for the Philosophy of Science_, 8(30): 104 –117.
+* Wilson, George, 1989, _The Intentionality of Human Action_, Stanford: Stanford University Press
+* Wittgenstein, Ludwig, 1953. _Philosophical Investigations_, G.E.M. Anscombe and R. Rhees (eds.), G.E.M. Anscombe (trans.), Oxford: Blackwell.
 
 ## Academic Tools
 
@@ -278,4 +278,4 @@ Pettit 借鉴了判断聚合的文献（例如 Kornhauser 和 Sager，1986；Lis
 I would like to thank Michael Bratman for helpful comments on a draft.
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
-[Abraham Sesshu Roth](https://philosophy.osu.edu/people/roth.263/) <[*roth.263@osu.edu*](mailto:roth%2e263%40osu%2eedu)>
+[Abraham Sesshu Roth](https://philosophy.osu.edu/people/roth.263/) <[_roth.263@osu.edu_](mailto:roth%2e263%40osu%2eedu)>

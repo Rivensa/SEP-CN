@@ -1,8 +1,8 @@
 # 弗朗西斯·培根 Bacon, Francis (Jürgen Klein)
 
-*First published Mon Dec 29, 2003; substantive revision Fri Dec 7, 2012*
+_First published Mon Dec 29, 2003; substantive revision Fri Dec 7, 2012_
 
-弗朗西斯·培根（1561-1626）是文艺复兴时期过渡到近代时期的自然哲学和科学方法论领域的重要人物之一。作为一名律师、议会成员和女王御用大律师，培根撰写了关于法律、国家和宗教的问题，以及当代政治的著作；但他也发表了一些关于可能的社会构想的文本，并在他的自然哲学著作《学术进展》中思考了伦理问题（*论文*）。
+弗朗西斯·培根（1561-1626）是文艺复兴时期过渡到近代时期的自然哲学和科学方法论领域的重要人物之一。作为一名律师、议会成员和女王御用大律师，培根撰写了关于法律、国家和宗教的问题，以及当代政治的著作；但他也发表了一些关于可能的社会构想的文本，并在他的自然哲学著作《学术进展》中思考了伦理问题（_论文_）。
 
 在剑桥大学三一学院和伦敦格雷法院学习之后，培根没有在大学任职，而是试图开始政治生涯。尽管他在伊丽莎白女王时代的努力没有取得成功，但在詹姆斯一世统治时期，他升至最高政治职位，成为大法官。培根的国际声誉和影响在他的晚年扩散开来，当他能够将精力完全集中在他的哲学工作上时，尤其是在他去世后，英国的科学家们（即“隐形学院”）在筹备和建立皇家学会的计划中采纳了他关于合作研究机构的想法。
 
@@ -44,11 +44,11 @@
 
 培根期待着下一任统治者，并试图与伊丽莎白的继任者苏格兰的詹姆斯六世取得联系。在詹姆斯的统治下，培根逐渐崭露头角。他于 1603 年被封为爵士，并在一年后成为一名博学的顾问。他关注英格兰和苏格兰的联合问题，并致力于宗教宽容的构想，支持在处理天主教徒和非国教徒问题上采取中间立场。1606 年，培根与伦敦一位富有的市政官员的年轻女儿爱丽丝·巴恩汉姆结婚。一年后，他被任命为律政总监。他还研究了国家理论，并根据马基雅维利的观点提出了政治上积极参与和武装公民的概念。1608 年，培根成为星室法庭的书记员；在这个时候，他回顾了自己的一生，记录下了自己的成就和失败。尽管他仍然没有摆脱经济问题，但他的事业逐步发展。从 1603 年到 1613 年，培根不仅忙于英国政治事务，还通过撰写开创性的论文为他的哲学工作奠定了基础，为《新工具》和《伟大的修复》铺平了道路。1613 年，他成为总检察长，并开始了他政治生涯的高峰：1616 年成为国务院成员，次年被任命为大封印守卫，从而达到了与他父亲相同的地位，并在 1618 年获得了大法官的头衔，并被封为韦鲁勒姆男爵。然而，在 1621 年，培根被议会弹劾腐败，之后被封为圣奥尔本子爵。他成为议会阴谋的牺牲品，因为他反对垄断的滥用，间接攻击了他的朋友国王的宠臣白金汉公爵。为了保护白金汉，国王牺牲了培根，他的敌人指控他在担任法官期间收受贿赂。培根看不到自己的出路，宣布自己有罪。他失去了所有的职位和议会席位，但保留了自己的头衔和个人财产。培根将生命的最后五年完全投入到他的哲学工作中，这段著名的五年期间。他试图继续他的巨大项目《伟大科学修复》；但是这个任务对他来说太过艰巨，几年时间无法完成。尽管他能够完成《伟大修复》的重要部分，但他自己的作品中经常引用的谚语对他自己也成立了：“生命短暂，艺术无穷”。他在 1626 年 4 月因为与冰进行实验而死于肺炎。
 
-尽管亚里士多德为每个科学学科提供了具体的公理，但培根发现希腊哲学家的作品中缺乏一个主要原则或科学的普遍理论，该理论可以应用于自然历史和哲学的所有分支（Klein 2003a）。对于培根来说，亚里士多德的宇宙学以及他的科学理论已经过时，因此许多追随他的中世纪思想家也是如此。他并不完全否定亚里士多德，但他反对对他的人文主义解释，强调演绎和辩证法（*scientia* *operativa*与文本解释学）以及自然哲学的形而上学处理，而更倾向于自然形式（或自然的作用方式结构化的效果），其阶段对应于自然本身的结构秩序。
+尽管亚里士多德为每个科学学科提供了具体的公理，但培根发现希腊哲学家的作品中缺乏一个主要原则或科学的普遍理论，该理论可以应用于自然历史和哲学的所有分支（Klein 2003a）。对于培根来说，亚里士多德的宇宙学以及他的科学理论已经过时，因此许多追随他的中世纪思想家也是如此。他并不完全否定亚里士多德，但他反对对他的人文主义解释，强调演绎和辩证法（_scientia_ _operativa_与文本解释学）以及自然哲学的形而上学处理，而更倾向于自然形式（或自然的作用方式结构化的效果），其阶段对应于自然本身的结构秩序。
 
-如果有任何“现代”亚里士多德主义者接近培根，那就是威尼斯或帕多瓦分支，由雅各波·扎巴雷拉代表。另一方面，培根批评了泰勒西奥，他认为泰勒西奥只在一定程度上成功地克服了亚里士多德的不足。尽管我们在他中期的一篇未发表的文本中（*De Principiis atque Originibus, secundum fabulas Cupidinis et Coelum*或*On Principles and Origins According to the Fables of Cupid and Coelum*，写于 1612 年；Bacon V \[1889]，461–500）找到了与泰勒西奥的辩论，但培根早在 1603 年就开始与传统进行斗争。在 1603 年的《瓦勒里乌斯·特米努斯》（*Valerius Terminus*）中，他已经否定了任何自然哲学和神学的混合；他提供了他的新方法的概要，并确定知识的目标是“从永恒（如果可能的话）到最低级的机械实践的所有操作和可能性的发现”（Bacon III \[1887]，222）。他反对亚里士多德的“anticipatio naturae”，后者更倾向于追求满足思维的原因而不是那些“将指导他并为他提供新的经验和发明提供光明”的原因（Bacon III \[1887]，232）。
+如果有任何“现代”亚里士多德主义者接近培根，那就是威尼斯或帕多瓦分支，由雅各波·扎巴雷拉代表。另一方面，培根批评了泰勒西奥，他认为泰勒西奥只在一定程度上成功地克服了亚里士多德的不足。尽管我们在他中期的一篇未发表的文本中（_De Principiis atque Originibus, secundum fabulas Cupidinis et Coelum_或_On Principles and Origins According to the Fables of Cupid and Coelum_，写于 1612 年；Bacon V \[1889]，461–500）找到了与泰勒西奥的辩论，但培根早在 1603 年就开始与传统进行斗争。在 1603 年的《瓦勒里乌斯·特米努斯》（_Valerius Terminus_）中，他已经否定了任何自然哲学和神学的混合；他提供了他的新方法的概要，并确定知识的目标是“从永恒（如果可能的话）到最低级的机械实践的所有操作和可能性的发现”（Bacon III \[1887]，222）。他反对亚里士多德的“anticipatio naturae”，后者更倾向于追求满足思维的原因而不是那些“将指导他并为他提供新的经验和发明提供光明”的原因（Bacon III \[1887]，232）。
 
-当培根在《学术进展》（1605）中引入他的新学科体系结构时，他继续与传统进行斗争，主要是与古典古代进行斗争，他拒绝了人文主义者的书本学习，理由是他们“更追求词语而非实质”（Bacon III \[1887]，283）。因此，他批评剑桥大学的课程过于强调辩证和诡辩的训练，要求“头脑空虚且缺乏实质的思维”（Bacon III \[1887]，326）。他重新构思并功能性地转变了亚里士多德关于科学作为必然原因知识的概念。他拒绝了亚里士多德的逻辑，该逻辑基于他的形而上学理论，其中暗示了这样一个错误的教义，即通过我们的感官（事物的*表象*）获得的经验自动呈现给我们的理解事物的*本质*。同时，亚里士多德倾向于应用一般和抽象的概念区分，这些概念区分不符合事物的存在方式。然而，培根引入了他的新的*philosophia prima*的概念，作为所有科学学科的元层。
+当培根在《学术进展》（1605）中引入他的新学科体系结构时，他继续与传统进行斗争，主要是与古典古代进行斗争，他拒绝了人文主义者的书本学习，理由是他们“更追求词语而非实质”（Bacon III \[1887]，283）。因此，他批评剑桥大学的课程过于强调辩证和诡辩的训练，要求“头脑空虚且缺乏实质的思维”（Bacon III \[1887]，326）。他重新构思并功能性地转变了亚里士多德关于科学作为必然原因知识的概念。他拒绝了亚里士多德的逻辑，该逻辑基于他的形而上学理论，其中暗示了这样一个错误的教义，即通过我们的感官（事物的_表象_）获得的经验自动呈现给我们的理解事物的_本质_。同时，亚里士多德倾向于应用一般和抽象的概念区分，这些概念区分不符合事物的存在方式。然而，培根引入了他的新的_philosophia prima_的概念，作为所有科学学科的元层。
 
 从 1606 年到 1612 年，培根在自然哲学上继续努力，仍然在与传统进行斗争的庇护下。这种倾向在未发表的著作《时间的男性产物》（1603/1608 年）（培根 III \[1887]，521-31），《思考与视觉》（1607 年）（培根 III，591-620），《哲学的反驳》（1608 年）（III，557-85）和《原理与起源》（1612 年）（培根 V \[1889]，461-500）中得到体现。培根重新发现了前苏格拉底哲学家，尤其是原子论者，其中以德谟克利特为主要人物。他更偏爱德谟克利特的自然哲学，与学院派（因此是亚里士多德派）对演绎逻辑和对权威的信仰形成对比。培根并不期望任何基于传统的方法从直接研究自然开始，然后升华为经验和一般知识。这种批评还延伸到文艺复兴时期的炼金术、魔法和占星术（《时间的男性产物》），因为这些“学科”的“方法”是基于偶然的洞察力，而不是具备再现所研究的自然效应的策略。他的批评还涉及当代的技术文献，因为它缺乏对自然的新视角和创新的方法论计划。培根批评古人、学院派和现代人。他不仅批评柏拉图、亚里士多德和伽利略的这些缺点，还批评了让·费尔内尔、巴拉塞尔和特莱西奥，同时赞扬了希腊的原子论者和罗杰·培根。
 
@@ -60,7 +60,7 @@
 
 ### 3.1 偶像
 
-培根的偶像学说不仅代表了错误理论的历史阶段（Brandt 1979），而且在现代经验主义的兴起中起着重要的理论要素的作用。根据培根的观点，人的思维并不是一张空白的纸（*tabula rasa*）。它不是一个接收整个世界图像的理想平面，而是一面弯曲的镜子，因为存在着内在的扭曲（Bacon IV \[1901]，428–34）。他并没有勾勒出一个基本的认识论，但强调我们心中的图像从一开始就不能给出真实对象的客观画面。因此，在我们开始任何知识获取之前，我们必须改善我们的思维，即摆脱偶像的束缚。
+培根的偶像学说不仅代表了错误理论的历史阶段（Brandt 1979），而且在现代经验主义的兴起中起着重要的理论要素的作用。根据培根的观点，人的思维并不是一张空白的纸（_tabula rasa_）。它不是一个接收整个世界图像的理想平面，而是一面弯曲的镜子，因为存在着内在的扭曲（Bacon IV \[1901]，428–34）。他并没有勾勒出一个基本的认识论，但强调我们心中的图像从一开始就不能给出真实对象的客观画面。因此，在我们开始任何知识获取之前，我们必须改善我们的思维，即摆脱偶像的束缚。
 
 早在《Temporis partus masculus》中，培根就警告实证科学的学生，在没有净化思想中的偶像之前，不要涉足他的学科的复杂性：
 
@@ -122,9 +122,9 @@
 
 > 阿毘达磨或者说是原初物质的欲望或本能；更明确地说，是原子的自然运动；这实际上是构成并塑造一切物质的原始而独特的力量。（培根 VI \[1890]，729）
 
-在这里只需说一下，培根在科学中并没有拒绝数学，受到了 16 世纪发展起来的早期数学化学的影响，因此，“本能”这个术语必须被视为他的自然理论的关键词。自然哲学家被敦促探究事物的欲望和倾向，这些欲望和倾向导致了我们在自然和艺术作品中看到的各种效果和变化。（培根 III \[1887]，17-22；V \[1889]，422-6 和 510ff.：*Descriptio Globi Intellectualis*；参见 IV \[1901]，349）
+在这里只需说一下，培根在科学中并没有拒绝数学，受到了 16 世纪发展起来的早期数学化学的影响，因此，“本能”这个术语必须被视为他的自然理论的关键词。自然哲学家被敦促探究事物的欲望和倾向，这些欲望和倾向导致了我们在自然和艺术作品中看到的各种效果和变化。（培根 III \[1887]，17-22；V \[1889]，422-6 和 510ff.：_Descriptio Globi Intellectualis_；参见 IV \[1901]，349）
 
-培根关于物质中的主动或者甚至是生动力的理论解释了他在《原理与起源》中所称的丘比特（Bacon V \[1889], 463–5）。由于他的物质理论旨在解释表象背后的实际存在，他比 17 世纪的机械物理学更深入地挖掘了问题（Gaukroger 2001, 132–7）。培根关于现实的“事实”（*quid facti*）的观点预设了以下区别：
+培根关于物质中的主动或者甚至是生动力的理论解释了他在《原理与起源》中所称的丘比特（Bacon V \[1889], 463–5）。由于他的物质理论旨在解释表象背后的实际存在，他比 17 世纪的机械物理学更深入地挖掘了问题（Gaukroger 2001, 132–7）。培根关于现实的“事实”（_quid facti_）的观点预设了以下区别：
 
 > 理解事物的构成和组成方式，以及它们是如何通过什么力量、以何种方式相互结合，以及如何转化。（Gaukroger 2001, 137）
 
@@ -158,7 +158,7 @@
 
 > 培根关于物质的后期理论是关于粗糙、可见的物质部分和不可见的物质精神之间的相互作用，两者都是物理上混合在一起的。
 
-精神通过煮沸、液化和其他非机械化的化学过程与物质相互作用，因此培根的科学范式与笛卡尔在他的《哲学原理》（1644 年）中的机械论物质理论有所不同，后者假设了在空间中运动的*res extensa*。因此，培根的物质理论与他的思辨哲学密切相关：
+精神通过煮沸、液化和其他非机械化的化学过程与物质相互作用，因此培根的科学范式与笛卡尔在他的《哲学原理》（1644 年）中的机械论物质理论有所不同，后者假设了在空间中运动的_res extensa_。因此，培根的物质理论与他的思辨哲学密切相关：
 
 可见，有形物质和气体物质之间的区别是整个理论体系的关键（Rees 1996, 125；帕拉塞尔苏斯已经指出知识存在于物体中：见 Shell 2004, 32）。
 
@@ -270,7 +270,7 @@
 
 ## 4. 科学方法：《伟大的恢复》的项目
 
-*伟大的复兴*是培根的主要作品，于 1620 年出版，标题为：*Franciscus de Verulamio Summi Angliae Cancellaris Instauratio magna*。这部伟大的作品仍然是一个片段，因为培根只能完成计划大纲的部分。该卷由一个*Prooemium*引入，其中对目的进行了一般性陈述，接着是一封致国王（詹姆斯一世）的*Dedication*和一篇*Preface*，该篇是对他一生工作的“方向、动机和意义”的总结（Sessions 1996, 71）。之后，培根印刷了*Instauratio*的计划，然后转向他的研究计划的策略，即*Novum Organum Scientiarum*。总的来说，1620 年的这本书构成了*Instauratio*的第二部分的第二部分，其中第一部分由*De Augmentis*和*The Advancement of Learning*的第一卷代表。当培根组织他的*Instauratio*时，他将其分为六个部分，这使得当代读者想起了上帝六天（创造）的工作，这已经被像吉约姆·杜·巴塔斯（*La Sepmaine, ou Création du Monde*，1579，由约书亚·西尔维斯特翻译，*Bartas His Devine Weekes & Workes*，1605）和乔瓦尼·皮科·德拉·米兰多拉（*Heptaplus*，1489）这样的作家所使用。
+_伟大的复兴_是培根的主要作品，于 1620 年出版，标题为：_Franciscus de Verulamio Summi Angliae Cancellaris Instauratio magna_。这部伟大的作品仍然是一个片段，因为培根只能完成计划大纲的部分。该卷由一个_Prooemium_引入，其中对目的进行了一般性陈述，接着是一封致国王（詹姆斯一世）的_Dedication_和一篇_Preface_，该篇是对他一生工作的“方向、动机和意义”的总结（Sessions 1996, 71）。之后，培根印刷了_Instauratio_的计划，然后转向他的研究计划的策略，即_Novum Organum Scientiarum_。总的来说，1620 年的这本书构成了_Instauratio_的第二部分的第二部分，其中第一部分由_De Augmentis_和_The Advancement of Learning_的第一卷代表。当培根组织他的_Instauratio_时，他将其分为六个部分，这使得当代读者想起了上帝六天（创造）的工作，这已经被像吉约姆·杜·巴塔斯（_La Sepmaine, ou Création du Monde_，1579，由约书亚·西尔维斯特翻译，_Bartas His Devine Weekes & Workes_，1605）和乔瓦尼·皮科·德拉·米兰多拉（_Heptaplus_，1489）这样的作家所使用。
 
 培根将自然视为一个迷宫，其运作不能仅仅通过“才智的卓越”和“偶然实验的重复”来解释：
 
@@ -278,12 +278,12 @@
 
 培根的《工作计划》如下所示（培根 IV \[1901]，22）：
 
-1. *科学的划分。*
-2. *新的工具论；或关于自然解释的指导。*
+1. _科学的划分。_
+2. _新的工具论；或关于自然解释的指导。_
 3. 宇宙现象；或哲学基础的自然与实验历史。
 4. 智力之梯。
 5. 先驱者；或新哲学的预期。
-6. *新哲学; 或主动科学*。
+6. _新哲学; 或主动科学_。
 
 第一部分包含了科学的一般描述，包括它们在培根时代的分支。在这里，他旨在区分已经发明和已知的事物与“应该在那里的被遗漏的事物”（培根 IV \[1901]，23）。这部分可以从《学术进展》（1605 年）和修订扩大版的《科学的尊严与增长》（1623 年）中获得。
 
@@ -313,15 +313,15 @@
 
 然而，方法步骤的顺序并不在此结束，因为培根假设可以从较低的公理中推导出更一般的公理（通过归纳）。完整的过程必须被理解为将各个部分连接成一个系统的链条。从更一般的公理中，培根努力达到更基本的自然法则（形式的认识），这些法则导致实际推断，如新的实验或作品（IV，24-5）。在这个过程中，决定性的工具是中间或“活的公理”，它们在个别事实和一般公理之间起到了中介作用。对于培根来说，只有通过排除的消除性归纳法才能高效进行归纳，这超出了简单枚举的归纳范围。归纳法帮助人类思维找到确立真实知识的方法。
 
-*新工具论*，第一部分，第 115 条（培根 IV \[1901]，103）结束了对科学中“错误的迹象和原因”的“推翻”，通过三次驳斥来实现，这构成了引入方法的合理条件：驳斥“自然人类理性”（偶像）；驳斥“证明”（三段论）和驳斥“理论”（传统哲学体系）。
+_新工具论_，第一部分，第 115 条（培根 IV \[1901]，103）结束了对科学中“错误的迹象和原因”的“推翻”，通过三次驳斥来实现，这构成了引入方法的合理条件：驳斥“自然人类理性”（偶像）；驳斥“证明”（三段论）和驳斥“理论”（传统哲学体系）。
 
-*新工具论*的第二部分涉及培根对解释自然的规则，即使他没有提供完整或普遍的理论。他通过引入他的“发现表”（*伟大学院*，第四部分），通过提供具体例子（*伟大学院*，第二部分），以及对历史的观察（*伟大学院*，第三部分）来为新哲学做出贡献。众所周知，他在生命的最后五年里努力工作，以在他的自然历史研究上取得进展，知道他不能总是达到合法解释的标准。
+_新工具论_的第二部分涉及培根对解释自然的规则，即使他没有提供完整或普遍的理论。他通过引入他的“发现表”（_伟大学院_，第四部分），通过提供具体例子（_伟大学院_，第二部分），以及对历史的观察（_伟大学院_，第三部分）来为新哲学做出贡献。众所周知，他在生命的最后五年里努力工作，以在他的自然历史研究上取得进展，知道他不能总是达到合法解释的标准。
 
 培根的方法假设了一个双重起点：经验和理性。如果我们希望从较低的确定性到较高的自由度，以及从较低的自由度到较高的确定性，就可以获得真知。培根对确定性和自由度的规则与他对亚里士多德旧逻辑的否定相一致，亚里士多德的逻辑通过广泛性、本质性和普遍性的标准来确定真命题。培根拒绝了“自然的预期”而选择了“自然的解释”，后者从事实的收集和它们的有条理（归纳）调查开始，避免陷入纯粹的分类学（如拉米斯主义），后者建立了事物的秩序（乌尔巴赫 1987 年，26 页；参见福柯 1966 年\[1970]），但并不产生知识。对于培根来说，创造就是知道，知道就是创造（培根 IV \[1901]，109-10）。根据“通过服从她来命令自然”（塞申斯 1996 年，136 页；高克罗格 2001 年，139 页以下）的格言，排除迷信、冒名顶替、错误和混乱是义务。培根引入了“制造者的知识传统”的变化，因为发现给定性质的形式引导他发展了获取事实和经过验证的知识的方法。
 
 培根反对“对自然的预期”，他认为这是一种保守的方法，导致理论只是重复数据，而不能产生有助于知识增长的新理论。此外，这些理论被认为是最终的，因此永远不会被替代。
 
-“对自然的预期”类似于“常规主义”（Urbach 1987, 30–41），根据这种观点，理论涉及不可观察的实体（例如原子、回旋轮）。这些理论是在给定框架内的“计算规则”或“推理许可”，它们对特定类型的*可观察*事件提供解释和预测。常规主义接受对未来事件进行预测的做法与概率问题密不可分。培根的知识获取过程与“常规主义”相悖，因为“对自然的预期”不排斥关于“不可观察事物”的权威和最终的推测，并且允许“特别调整”。然而，如今，
+“对自然的预期”类似于“常规主义”（Urbach 1987, 30–41），根据这种观点，理论涉及不可观察的实体（例如原子、回旋轮）。这些理论是在给定框架内的“计算规则”或“推理许可”，它们对特定类型的_可观察_事件提供解释和预测。常规主义接受对未来事件进行预测的做法与概率问题密不可分。培根的知识获取过程与“常规主义”相悖，因为“对自然的预期”不排斥关于“不可观察事物”的权威和最终的推测，并且允许“特别调整”。然而，如今，
 
 > 哲学家们不会接受这样的观点，即仅因为我们无法直接观察某事物...就意味着它不存在。（Huggett 2010, 82。另见 Von Weizsäcker 和 Juilfs 1958, pp.67–70；Rae 1986 \[2000], 1–27 等）
 
@@ -331,7 +331,7 @@
 
 培根将自然视为极其微妙的复杂性，这使得自然哲学家能够揭示她的秘密。
 
-对他来说，*新的*公理必须比它们所取材料更大更广。同时，“对自然的解释”不能跳跃到遥远的公理。在他的方法上，他拒绝将一般的观念看作是从极少的感知中简单抽象出来的。这样的抽象词语可以作为组织“新观察”的约定，但只是作为分类秩序的手段。这种贫瘠的程序对于“对自然的解释”来说是无关紧要的，因为它不是最终的或绝对无误的，它是基于这样的洞察力：验证假设并不能提供严格的证明。因此，培根的方法具有开放性：
+对他来说，_新的_公理必须比它们所取材料更大更广。同时，“对自然的解释”不能跳跃到遥远的公理。在他的方法上，他拒绝将一般的观念看作是从极少的感知中简单抽象出来的。这样的抽象词语可以作为组织“新观察”的约定，但只是作为分类秩序的手段。这种贫瘠的程序对于“对自然的解释”来说是无关紧要的，因为它不是最终的或绝对无误的，它是基于这样的洞察力：验证假设并不能提供严格的证明。因此，培根的方法具有开放性：
 
 > 然而，我并不断言我所规定的一切都不能再增加；相反，作为一个观察心灵的人，不仅观察它的固有能力，而且观察它在与事物接触时的能力，我深信发现的艺术将随着发现的事物的数量的增加而增长。（OFB，XI，197）
 
@@ -353,11 +353,11 @@
 
 培根对人类理解的新方式意味着追求人类力量和构建人类知识之间的平行关系。技术知识导致成功的操作，这与发现形式相一致（佩雷斯-拉莫斯 1988，108；培根 IV \[1901]，121）。理解自然的运作需要一种事实的安排，使得对因果关系的调查分析成为可能，尤其是通过新的实验手段。在这一点上，再次涉及到“科学操作”的概念，因为真正和完美的操作规则的方向与发现真正的形式是平行的。培根的特殊的非亚里士多德式亚里士多德主义（佩雷斯-拉莫斯 1988，113，115）是他理论的主要特点之一。除了修改过的亚里士多德版本外，对培根的其他不可或缺的影响还包括批判性评估的赫密士主义、修辞学（维克斯）和炼金术（里斯）。
 
-两种公理对应于哲学和科学的以下划分：形式的研究或*形而上学*；以及对效果原因和物质的研究，这导致了*物理学*中的潜在过程和结构。物理学本身被培根分为*力学*，即实践，和*魔法*，即形而上学。
+两种公理对应于哲学和科学的以下划分：形式的研究或_形而上学_；以及对效果原因和物质的研究，这导致了_物理学_中的潜在过程和结构。物理学本身被培根分为_力学_，即实践，和_魔法_，即形而上学。
 
 如今，培根“对科学的第一手贡献很少”（Hesse 1964, 152）的观点不再与我们必须假设他的工作中低估了“假设和数学的地位”（Urban 1987; Sessions 1999, 139; Rees 1986）的观点相一致。但过去很少有人怀疑培根“鼓励详细和有条理的实验”（Hesse 1964, 152）；他这样做是因为他的新归纳方法，这意味着需要负面实例和反驳实验。培根认识到，仅仅确认实例是不足以分析科学定律的结构的，因为这个任务需要一个假设-演绎系统，根据丽莎·贾丁的说法，这与“培根的新逻辑所依赖的逻辑和语言背景密切相关…”（Sessions 1999, 140; Jardine 1974, 69ff.）。
 
-培根的*自然解释*使用“实例的表格和排列”，涉及到正在研究的自然现象，这些表格和排列作为破解效果因果关系密码的必要条件。他的*特权实例*不仅仅是从自然界中简单提取的例子或现象，而是暗示具有归纳潜力的信息，这些信息显示出有助于知识或方法论相关性的优先性，当插入表格时。这些实例不代表感知事物的顺序，而是表达了品质（本质）的顺序。这些品质为抽象本质的顺序提供了工作基础。培根的表格具有双重功能：它们对于*自然历史*至关重要，收集有关自然界中物体和品德的数据；它们对于*归纳*也是不可或缺的，归纳利用这些数据。
+培根的_自然解释_使用“实例的表格和排列”，涉及到正在研究的自然现象，这些表格和排列作为破解效果因果关系密码的必要条件。他的_特权实例_不仅仅是从自然界中简单提取的例子或现象，而是暗示具有归纳潜力的信息，这些信息显示出有助于知识或方法论相关性的优先性，当插入表格时。这些实例不代表感知事物的顺序，而是表达了品质（本质）的顺序。这些品质为抽象本质的顺序提供了工作基础。培根的表格具有双重功能：它们对于_自然历史_至关重要，收集有关自然界中物体和品德的数据；它们对于_归纳_也是不可或缺的，归纳利用这些数据。
 
 已经在 1603 年的《Temporis Partus Masculus》中，培根展示了他对归纳法的观察能力（Sessions 1999, 60）。在他的《新工具》中，他认为所有人类科学和知识的本质都是通过否定和排除而不是肯定和包容来最安全地进行的。即使在他早期的著作中，培根也清楚地意识到他必须寻求一种发现正确形式的方法，其中最著名的是“热”（《新工具》II，Aph. XI–XII）或“著名的热形式试验调查”（Rees 2000, 66；参见培根 IV \[1901]，154–5）。
 
@@ -408,123 +408,123 @@
 
 ### Major Philosophical Works by Bacon
 
-* 1857–74, *The Works*, edited by J. Spedding, R. L. Ellis, and D. D. Heath, 14 vols. London.
-* 1861, *The Works*, edited by J. Spedding, R. L. Ellis, and D. D. Heath, 15 vols. Boston: Taggard and Thompson.
-* 1861–74, *The Letters and the Life of Francis Bacon*, edited by J. Spedding, 7 vols. London: Longman, Green, Longman, and Roberts.
-* 1889–1901, *The Works*, edited by J. Spedding, R. L. Ellis, and D. D. Heath. Volumes I (1889), II (1887), III (1887), IV (1901), V (1889), VI (1890), VII (1892).
-* 1898, *Novum Organum or True Suggestions for the Interpretation of Nature*, London and New York.
-* 1958, *Essays*, intr. by O. Smeaton. London and New York.
-* 1962, *The Advancement of Learning*, edited by G. W. Kitchin, London and New York: Dent.
-* 1982, *Neu Atlantis*, transl. by G. Bugge, edited by Jürgen Klein, Stuttgart.
-* 1996–, *The Oxford Francis Bacon* \[OFB], General Editors: Graham Rees and Lisa Jardine; Brian Vickers; Oxford University Press. In order of publication: Volume VI (1996), *Philosophical Studies c. 1611–c. 1619*, edited by G. Rees; Volume IV (2000), *The Advancement of Learning*, edited by M. Kiernan; Volume XIII (2000), *The Instauratio Magna: Last Writings*, edited by G. Rees; Volume XV (2000), *The Essayes or Counsels, Civill and Morall*edited by M. Kiernan; Volume XI (2004), *The Instauratio Magna: Part II. Novum Organum*, edited by G. Rees and M. Wakely; Volume XII (2007), *The Instauratio Magna. Part 3, Historia naturalis et experimentalis, Historia ventorum and Historia vitæ & mortis*, edited by G. Rees and M. Wakely; Volume VIII (2011), *The Historie of the Raigne of King Henry the Seuenth and Other Works of the 1620s*, edited by M. Kiernan.
-* 2000, *A Critical Edition of the Major Works*, edited by Brian Vickers. Oxford and New York: Oxford University Press.
+* 1857–74, _The Works_, edited by J. Spedding, R. L. Ellis, and D. D. Heath, 14 vols. London.
+* 1861, _The Works_, edited by J. Spedding, R. L. Ellis, and D. D. Heath, 15 vols. Boston: Taggard and Thompson.
+* 1861–74, _The Letters and the Life of Francis Bacon_, edited by J. Spedding, 7 vols. London: Longman, Green, Longman, and Roberts.
+* 1889–1901, _The Works_, edited by J. Spedding, R. L. Ellis, and D. D. Heath. Volumes I (1889), II (1887), III (1887), IV (1901), V (1889), VI (1890), VII (1892).
+* 1898, _Novum Organum or True Suggestions for the Interpretation of Nature_, London and New York.
+* 1958, _Essays_, intr. by O. Smeaton. London and New York.
+* 1962, _The Advancement of Learning_, edited by G. W. Kitchin, London and New York: Dent.
+* 1982, _Neu Atlantis_, transl. by G. Bugge, edited by Jürgen Klein, Stuttgart.
+* 1996–, _The Oxford Francis Bacon_ \[OFB], General Editors: Graham Rees and Lisa Jardine; Brian Vickers; Oxford University Press. In order of publication: Volume VI (1996), _Philosophical Studies c. 1611–c. 1619_, edited by G. Rees; Volume IV (2000), _The Advancement of Learning_, edited by M. Kiernan; Volume XIII (2000), _The Instauratio Magna: Last Writings_, edited by G. Rees; Volume XV (2000), _The Essayes or Counsels, Civill and Morall_edited by M. Kiernan; Volume XI (2004), _The Instauratio Magna: Part II. Novum Organum_, edited by G. Rees and M. Wakely; Volume XII (2007), _The Instauratio Magna. Part 3, Historia naturalis et experimentalis, Historia ventorum and Historia vitæ & mortis_, edited by G. Rees and M. Wakely; Volume VIII (2011), _The Historie of the Raigne of King Henry the Seuenth and Other Works of the 1620s_, edited by M. Kiernan.
+* 2000, _A Critical Edition of the Major Works_, edited by Brian Vickers. Oxford and New York: Oxford University Press.
 
 ### Selected Works on Bacon
 
-* Anderson, F. H., 1948, *The Philosophy of Francis Bacon*, Chicago: University of Chicago Press.
-* Bierman, J., 1963, “Science and Society in the *New Atlantis* and other Renaissance Utopias”, *PMLA*, 78(5): 492–500.
-* Blumenberg, H., 1973, *Der Prozess der theoretischen Neugierde*, Frankfurt am Main.
-* Bowen, C. D., 1963 \[1993], *Francis Bacon. The Temper of a Man*, New York: Fordham University Press. First edition 1963, Boston: Little, Brown.
-* Brandt, R., 1979, “Francis Bacon, Die Idolenlehre”, in *Grundprobleme der großen Philosophen. Philosophie der Neuzeit I*, edited by Josef Speck. Göttingen, pp. 9–34.
-* Burtt, E. A., 1924 \[1932], *The Metaphysical Foundations of Modern Physical Science*, London. First Edition, April 1924; Second Edition (revised) January 1932; reprinted 1972.
-* Cassirer, E., 1922 \[reprint 1994], *Das Erkenntnisproblem in der Philosophie und Wissenschaft der Neueren Zeit*, Darmstadt.
-* Clericuzio, A., 2000, *Elements, Principles, and Corpuscles*, Dordrecht: Kluwer Academic Publishers.
-* Dampier, W. C., 1929 \[1948], *A History of Science and its relations with Philosophy and Religion*, Cambridge: Cambridge University Press. Fourth edition, 1948; reprinted with postscript by I. Bernard Cohen 1966.
-* Dijksterhuis, E. J., 1969, *The Mechanization of the World Picture*, Oxford.
-* Farrington, B., 1964, *The Philosophy of Francis Bacon*, Liverpool: Liverpool University Press.
-* Fischer, K., 1923, *Francis Bacon und seine Schule*, *Entwicklungsgeschichte der Erfahrungsphilosophie*, Heidelberg.
-* Gaukroger, S., 2001, *Francis Bacon and the Transformation of Early-Modern Philosophy*, Cambridge: Cambridge University Press.
-* –––, 2006, *The Emergence of a Scientific Culture. Science and the Shaping of Modernity 1210–1685*, Oxford: Clarendon Press.
-* Giglioni, G., 2011, *Francesco Bacone*, Rome.
-* Henry, J., 2002, *Knowledge is Power. Francis Bacon and the Method of Science*, Cambridge: Icon Books.
-* Hesse, M. B., 1964, “Francis Bacon's Philosophy of Science”, in *A Critical History of Western Philosophy*, edited by D. J. O'Connor, New York: Free Press, pp. 141–52.
-* Hill, C., 1965, *Intellectual Origins of the English Revolution*, Oxford: Clarendon Press.
-* Jardine, L., 1974, *Francis Bacon. Discovery and the Art of Discourse*, Cambridge: Cambridge University Press.
-* Jardine, L. and A. Stewart, 1999, *Hostage to Fortune. The Troubled Life of Francis Bacon 1561–1626*, London: Victor Gollancz.
-* Kargon, R. H., 1966, *Atomism in England*, Oxford: Oxford University Press.
-* Klein, J., 1984, *Radikales Denken in England: Neuzeit*, Frankfurt, Berne and New York.
-* –––, 1987, *Francis Bacon oder die Modernisierung Englands*, Hildesheim, Zurich and New York.
-* –––, 2003a “Bacon's Quarrel with the Aristotelians”, *Zeitsprünge*, 7: 19–31.
-* –––, 2003b, “Francis Bacon (1561–1626)”, in *Metzler Philosophen Lexikon*, B. Lutz (ed.), Stuttgart.
-* –––, 2003c, “Nachwort”, in Francis Bacon, *Neu-Atlantis*, Stuttgart, 64–9.
-* –––, 2004a, “Francis Bacon's *The Advancement of Learning*. An Early Modern Programme for the Revision of the Systems of Disciplines”, in *Scholarly Environments. Centres of Learning and Institutional Contexts 1560–1960*, edited by Alasdair A. MacDonald and Arend H. Huusen. Leuven, Paris, and Dudley, MA, pp. 65–73.
-* –––, 2004b, “Francis Bacons Essays von 1597: Der politische Subtext”, in *Against the Grain/Gegenden Strich gelesen. Studies in English and American Literature and Literary Theory. Festschrift für Wolfgang Wicht*, Peter Drexler and Rainer Schnoor (eds.), Berlin, pp.201–223.
-* –––, 2008, “Francis Bacon's *Scientia Operativa*, The Tradition of the Workshops, and the Secrets of Nature”, in *Philosophies of Technology. Francis Bacon and His Contemporaries*, Claus Zittel, Gisela Engel, Romano Nanni, and Nicole C. Karafyllis (eds.), Leiden and Boston, pp.21–49.
-* –––, 2010, *Elisabeth I und ihre Zeit*, 2nd ed., Munich.
-* Krohn, W., 1987, *Francis Bacon*, Munich.
-* Lange, F. A., 1898, *Geschichte des Materialismus*, Bd 1. Leipzig.
-* Losee, J., 1972, *A Historical Introduction to the Philosophy of Science*, Oxford: Oxford University Press.
+* Anderson, F. H., 1948, _The Philosophy of Francis Bacon_, Chicago: University of Chicago Press.
+* Bierman, J., 1963, “Science and Society in the _New Atlantis_ and other Renaissance Utopias”, _PMLA_, 78(5): 492–500.
+* Blumenberg, H., 1973, _Der Prozess der theoretischen Neugierde_, Frankfurt am Main.
+* Bowen, C. D., 1963 \[1993], _Francis Bacon. The Temper of a Man_, New York: Fordham University Press. First edition 1963, Boston: Little, Brown.
+* Brandt, R., 1979, “Francis Bacon, Die Idolenlehre”, in _Grundprobleme der großen Philosophen. Philosophie der Neuzeit I_, edited by Josef Speck. Göttingen, pp. 9–34.
+* Burtt, E. A., 1924 \[1932], _The Metaphysical Foundations of Modern Physical Science_, London. First Edition, April 1924; Second Edition (revised) January 1932; reprinted 1972.
+* Cassirer, E., 1922 \[reprint 1994], _Das Erkenntnisproblem in der Philosophie und Wissenschaft der Neueren Zeit_, Darmstadt.
+* Clericuzio, A., 2000, _Elements, Principles, and Corpuscles_, Dordrecht: Kluwer Academic Publishers.
+* Dampier, W. C., 1929 \[1948], _A History of Science and its relations with Philosophy and Religion_, Cambridge: Cambridge University Press. Fourth edition, 1948; reprinted with postscript by I. Bernard Cohen 1966.
+* Dijksterhuis, E. J., 1969, _The Mechanization of the World Picture_, Oxford.
+* Farrington, B., 1964, _The Philosophy of Francis Bacon_, Liverpool: Liverpool University Press.
+* Fischer, K., 1923, _Francis Bacon und seine Schule_, _Entwicklungsgeschichte der Erfahrungsphilosophie_, Heidelberg.
+* Gaukroger, S., 2001, _Francis Bacon and the Transformation of Early-Modern Philosophy_, Cambridge: Cambridge University Press.
+* –––, 2006, _The Emergence of a Scientific Culture. Science and the Shaping of Modernity 1210–1685_, Oxford: Clarendon Press.
+* Giglioni, G., 2011, _Francesco Bacone_, Rome.
+* Henry, J., 2002, _Knowledge is Power. Francis Bacon and the Method of Science_, Cambridge: Icon Books.
+* Hesse, M. B., 1964, “Francis Bacon's Philosophy of Science”, in _A Critical History of Western Philosophy_, edited by D. J. O'Connor, New York: Free Press, pp. 141–52.
+* Hill, C., 1965, _Intellectual Origins of the English Revolution_, Oxford: Clarendon Press.
+* Jardine, L., 1974, _Francis Bacon. Discovery and the Art of Discourse_, Cambridge: Cambridge University Press.
+* Jardine, L. and A. Stewart, 1999, _Hostage to Fortune. The Troubled Life of Francis Bacon 1561–1626_, London: Victor Gollancz.
+* Kargon, R. H., 1966, _Atomism in England_, Oxford: Oxford University Press.
+* Klein, J., 1984, _Radikales Denken in England: Neuzeit_, Frankfurt, Berne and New York.
+* –––, 1987, _Francis Bacon oder die Modernisierung Englands_, Hildesheim, Zurich and New York.
+* –––, 2003a “Bacon's Quarrel with the Aristotelians”, _Zeitsprünge_, 7: 19–31.
+* –––, 2003b, “Francis Bacon (1561–1626)”, in _Metzler Philosophen Lexikon_, B. Lutz (ed.), Stuttgart.
+* –––, 2003c, “Nachwort”, in Francis Bacon, _Neu-Atlantis_, Stuttgart, 64–9.
+* –––, 2004a, “Francis Bacon's _The Advancement of Learning_. An Early Modern Programme for the Revision of the Systems of Disciplines”, in _Scholarly Environments. Centres of Learning and Institutional Contexts 1560–1960_, edited by Alasdair A. MacDonald and Arend H. Huusen. Leuven, Paris, and Dudley, MA, pp. 65–73.
+* –––, 2004b, “Francis Bacons Essays von 1597: Der politische Subtext”, in _Against the Grain/Gegenden Strich gelesen. Studies in English and American Literature and Literary Theory. Festschrift für Wolfgang Wicht_, Peter Drexler and Rainer Schnoor (eds.), Berlin, pp.201–223.
+* –––, 2008, “Francis Bacon's _Scientia Operativa_, The Tradition of the Workshops, and the Secrets of Nature”, in _Philosophies of Technology. Francis Bacon and His Contemporaries_, Claus Zittel, Gisela Engel, Romano Nanni, and Nicole C. Karafyllis (eds.), Leiden and Boston, pp.21–49.
+* –––, 2010, _Elisabeth I und ihre Zeit_, 2nd ed., Munich.
+* Krohn, W., 1987, _Francis Bacon_, Munich.
+* Lange, F. A., 1898, _Geschichte des Materialismus_, Bd 1. Leipzig.
+* Losee, J., 1972, _A Historical Introduction to the Philosophy of Science_, Oxford: Oxford University Press.
 * Malherbe, M., 1996, “Bacon's Method of Science”, in Peltonen (ed.) 1996, pp. 75–98.
-* Martin, J., 1992, *Francis Bacon, the State, and the Reform of Natural Philosophy*, Cambridge: Cambridge University Press.
-* Mathews, N., 1996, *Francis Bacon. The History of a Character Assassination*, New Haven and London: Yale University Press.
-* Matthews, S., 2008, *Theology and Science in the Thought of Francis Bacon*, Aldershot: Ashgate.
-* Mittelstrass, J., 1960, *Neuzeit und Aufklärung. Studien zur Entstehung der neuzeitlichen Wissenschaft und Philosophie*, Berlin and New York.
-* Peltonen, M. (ed.), 1996, *The Cambridge Companion to Bacon*, Cambridge: Cambridge University Press.
-* Peltonen, M., 2007, “Bacon; Francis, Viscount St Alban (1561–1626)”, *Oxford Dictionary of National Biography*, Oxford: Oxford University Press, 2004.
-* Pérez-Ramos, A., 1988, *Francis Bacon's Idea of Science and the Maker's Knowledge Tradition*, Oxford: Clarendon Press.
-* Price, B. (ed.), 2002, *Francis Bacon's New Atlantis. New Interdisciplinary Essays*, Manchester and New York: Manchester University Press.
-* Quinton, A., 1980, *Francis Bacon*, Oxford, Toronto, and Melbourne: Hill and Wang.
-* Rees, G., 1975a,b, “Francis Bacon's Semi-Paracelsian Cosmology”, *Ambix*, XXII: 82–101; 165–73.
-* –––, 1977, “Matter Theory: A Unifying factor in Bacon's Natural Philosophy?”, *Ambix*, XXIV: 110–25.
-* –––, 1980, “Atomism and ‘Subtlety’ in Francis Bacon's Philosophy”, *Annals of Science*, XXXVII: 549–71.
-* –––, 1985, “Quantitative Reasoning in Francis Bacon's Natural Philosophy”, *Nouvelle de la republique des lettres*: 27–48.
-* –––, 1986, “Mathematics in Francis Bacon's Natural Philosophy”, *Revue internationale de philosophie*, 159(4): 399–426.
+* Martin, J., 1992, _Francis Bacon, the State, and the Reform of Natural Philosophy_, Cambridge: Cambridge University Press.
+* Mathews, N., 1996, _Francis Bacon. The History of a Character Assassination_, New Haven and London: Yale University Press.
+* Matthews, S., 2008, _Theology and Science in the Thought of Francis Bacon_, Aldershot: Ashgate.
+* Mittelstrass, J., 1960, _Neuzeit und Aufklärung. Studien zur Entstehung der neuzeitlichen Wissenschaft und Philosophie_, Berlin and New York.
+* Peltonen, M. (ed.), 1996, _The Cambridge Companion to Bacon_, Cambridge: Cambridge University Press.
+* Peltonen, M., 2007, “Bacon; Francis, Viscount St Alban (1561–1626)”, _Oxford Dictionary of National Biography_, Oxford: Oxford University Press, 2004.
+* Pérez-Ramos, A., 1988, _Francis Bacon's Idea of Science and the Maker's Knowledge Tradition_, Oxford: Clarendon Press.
+* Price, B. (ed.), 2002, _Francis Bacon's New Atlantis. New Interdisciplinary Essays_, Manchester and New York: Manchester University Press.
+* Quinton, A., 1980, _Francis Bacon_, Oxford, Toronto, and Melbourne: Hill and Wang.
+* Rees, G., 1975a,b, “Francis Bacon's Semi-Paracelsian Cosmology”, _Ambix_, XXII: 82–101; 165–73.
+* –––, 1977, “Matter Theory: A Unifying factor in Bacon's Natural Philosophy?”, _Ambix_, XXIV: 110–25.
+* –––, 1980, “Atomism and ‘Subtlety’ in Francis Bacon's Philosophy”, _Annals of Science_, XXXVII: 549–71.
+* –––, 1985, “Quantitative Reasoning in Francis Bacon's Natural Philosophy”, _Nouvelle de la republique des lettres_: 27–48.
+* –––, 1986, “Mathematics in Francis Bacon's Natural Philosophy”, _Revue internationale de philosophie_, 159(4): 399–426.
 * –––, 1996, “Bacon's Speculative Philosophy”, in Peltonen (ed.) 1996, pp.121–45.
-* –––, 2000, “Francis Bacon (1561–1626)”, in W. Applebaum (ed.), *Encyclopedia of the Scientific Revolution From Copernicus to Newton*, New York and London, pp. 65– 69.
-* –––, 2004, “On Francis Bacon's Originality”, *ISIH: Intellectual News*, 14: 69–73.
-* Rees, G. and C. Upton, 1984, *Francis Bacon's Natural Philosophy: A New Source. A transcription of manuscript Hardwick 72A with Translation and Commentary* (The British Society for the History of Science Monographs, 5), Chalfont St Giles.
-* Rossi, P., 1968, *Francis Bacon: From Magic to Science*, translated by S. Rabinovitch, London: University of Chicago Press.
-* Schäfer, L., 1993, *Das Bacon-Programm*. *Von der Erkenntnis*, *Nutzung und Schonung der Natur*, Frankfurt am Main.
-* Schmidt-Biggemann, W., 1983, *Topica Universalis. Eine Modellgeschichte humanistischer und barocker Wissenschaft*, Hamburg.
-* Sessions, W. A. (ed.), 1990, *Francis Bacon's Legacy of Texts*, New York: AMS Press.
-* –––, 1996, *Francis Bacon Revisited*, New York and London: Twayne Publishers.
-* Urbach, P., 1987, *Francis Bacon's Philosophy of Science: An Account and a Reappraisal*, La Salle, IL: Open Court.
-* Vickers, B., 1968a, *Francis Bacon and Renaissance Prose*, Cambridge: Cambridge University Press.
-* ––– (ed.), 1968b, *Essential Articles for the Study of Francis Bacon*, Hamden, Conn.: Archon Books.
-* –––, 1978, *Francis Bacon*, Harlow: Longman Group.
-* Webster, C., 1975, *The Great Instauration. Science, Medicine, and Reform 1626–1660*, London: Duckworth.
-* Zaller, R., 1971, *The Parliament of 1621: A Study in Constitutional Conflict*, Berkeley CA: University of California Press.
-* Zagorin, P., 1999, *Francis Bacon*, Princeton: Princeton University Press.
+* –––, 2000, “Francis Bacon (1561–1626)”, in W. Applebaum (ed.), _Encyclopedia of the Scientific Revolution From Copernicus to Newton_, New York and London, pp. 65– 69.
+* –––, 2004, “On Francis Bacon's Originality”, _ISIH: Intellectual News_, 14: 69–73.
+* Rees, G. and C. Upton, 1984, _Francis Bacon's Natural Philosophy: A New Source. A transcription of manuscript Hardwick 72A with Translation and Commentary_ (The British Society for the History of Science Monographs, 5), Chalfont St Giles.
+* Rossi, P., 1968, _Francis Bacon: From Magic to Science_, translated by S. Rabinovitch, London: University of Chicago Press.
+* Schäfer, L., 1993, _Das Bacon-Programm_. _Von der Erkenntnis_, _Nutzung und Schonung der Natur_, Frankfurt am Main.
+* Schmidt-Biggemann, W., 1983, _Topica Universalis. Eine Modellgeschichte humanistischer und barocker Wissenschaft_, Hamburg.
+* Sessions, W. A. (ed.), 1990, _Francis Bacon's Legacy of Texts_, New York: AMS Press.
+* –––, 1996, _Francis Bacon Revisited_, New York and London: Twayne Publishers.
+* Urbach, P., 1987, _Francis Bacon's Philosophy of Science: An Account and a Reappraisal_, La Salle, IL: Open Court.
+* Vickers, B., 1968a, _Francis Bacon and Renaissance Prose_, Cambridge: Cambridge University Press.
+* ––– (ed.), 1968b, _Essential Articles for the Study of Francis Bacon_, Hamden, Conn.: Archon Books.
+* –––, 1978, _Francis Bacon_, Harlow: Longman Group.
+* Webster, C., 1975, _The Great Instauration. Science, Medicine, and Reform 1626–1660_, London: Duckworth.
+* Zaller, R., 1971, _The Parliament of 1621: A Study in Constitutional Conflict_, Berkeley CA: University of California Press.
+* Zagorin, P., 1999, _Francis Bacon_, Princeton: Princeton University Press.
 
 ### Other Secondary Literature
 
-* Ayer, A. J., 1973, *The Central Questions of Philosophy*, London: Weidenfeld and Nicolson.
-* Blumenberg, H., 1981, *Die Lesbarkeit der Welt*, Frankfurt am Main.
-* Carnap, R. and W. Stegmüller, 1959, *Induktive Logik und Wahrscheinlichkeit*, Vienna.
-* Cohen, I. B., 1985, *Revolution in Science*, Cambridge, MA: Belknap Press.
-* Cohen, J. L., 1970, *The Implications of Induction*, London: Methuen.
-* Curd, M. and J. A. Cover (eds.), 1998, *Philosophy of Science. The Central Issues*, London and New York: W.W. Norton.
-* Dijksterhuis, E. J., 1956, *Die Mechanisierung des Weltbildes*, Berlin etc.
-* Duhem, P., 1904–5, *The Aims and Structure of Physical Theory*, English translation by Philip P. Wiener, New York, 1954.
-* –––, 1998, *Ziel und Struktur der physikalischen Theorien*, übersetzt von Friedrich Adler, mit einem Vorwort von Ernst Mach, herausgegeben mit einer Einleitung von Lothar Schäfer, Hamburg.
-* Foucault, M., 1966 \[1970], *The Order of Things: The Archaeology of the Human Sciences*, London: Tavistock; English translation 1970.
+* Ayer, A. J., 1973, _The Central Questions of Philosophy_, London: Weidenfeld and Nicolson.
+* Blumenberg, H., 1981, _Die Lesbarkeit der Welt_, Frankfurt am Main.
+* Carnap, R. and W. Stegmüller, 1959, _Induktive Logik und Wahrscheinlichkeit_, Vienna.
+* Cohen, I. B., 1985, _Revolution in Science_, Cambridge, MA: Belknap Press.
+* Cohen, J. L., 1970, _The Implications of Induction_, London: Methuen.
+* Curd, M. and J. A. Cover (eds.), 1998, _Philosophy of Science. The Central Issues_, London and New York: W.W. Norton.
+* Dijksterhuis, E. J., 1956, _Die Mechanisierung des Weltbildes_, Berlin etc.
+* Duhem, P., 1904–5, _The Aims and Structure of Physical Theory_, English translation by Philip P. Wiener, New York, 1954.
+* –––, 1998, _Ziel und Struktur der physikalischen Theorien_, übersetzt von Friedrich Adler, mit einem Vorwort von Ernst Mach, herausgegeben mit einer Einleitung von Lothar Schäfer, Hamburg.
+* Foucault, M., 1966 \[1970], _The Order of Things: The Archaeology of the Human Sciences_, London: Tavistock; English translation 1970.
 * Gillies, D., 1998, “The Duhem Thesis and the Quine Thesis”, in Curd and Cover 1998, pp. 302–319.
-* Godfrey-Smith, P., 2003, *Theory and Reality. An Introduction to the Philosophy of Science*, Chicago/London: University of Chicago Press.
-* Grant, E., 1994, *Planets, Stars, & Orbs. The Medieval Cosmos 1200–1687*, Cambridge: Cambridge University Press.
-* Haack, S., 1993, *Evidence and Inquiry. Towards Reconstruction in Epistemology*, Oxford, UK: Blackwell.
-* Hacking, I. (ed.), 1981, *Scientific Revolutions*, Oxford: Oxford Univerity Press.
-* Hempel, C. G., 1966, *Philosophy of Natural Science*, Englewood Cliffs: Prentice-Hall.
-* Huggett, N., 2010, *Everywhere and Everywhen. Adventures in Physics and Philosophy*, Oxford: Oxford University Press.
-* Hylton, P., 2010, “Willard Van Orman Quine”, in: *Stanford Encyclopedia of Philosophy* (Fall 2010 Edition), Edward N. Zalta (ed.), URL = <[Willard van Orman Quine (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/quine/)>.
-* Kocher, P. H., 1953, *Science and Religion in Elizabethan England*, San Marino, CA: Huntington Library.
-* Kuhn, Th. S., 1962, *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press.
-* Lakatos, I., 1970, “Falsificationism and the Methodology of Scientific Research Programmes”, in *Criticism and the Growth of Knowledge*, edited by I. Lakatos and A. Musgrave. Cambridge: Cambridge University Press, pp. 91–196.
+* Godfrey-Smith, P., 2003, _Theory and Reality. An Introduction to the Philosophy of Science_, Chicago/London: University of Chicago Press.
+* Grant, E., 1994, _Planets, Stars, & Orbs. The Medieval Cosmos 1200–1687_, Cambridge: Cambridge University Press.
+* Haack, S., 1993, _Evidence and Inquiry. Towards Reconstruction in Epistemology_, Oxford, UK: Blackwell.
+* Hacking, I. (ed.), 1981, _Scientific Revolutions_, Oxford: Oxford Univerity Press.
+* Hempel, C. G., 1966, _Philosophy of Natural Science_, Englewood Cliffs: Prentice-Hall.
+* Huggett, N., 2010, _Everywhere and Everywhen. Adventures in Physics and Philosophy_, Oxford: Oxford University Press.
+* Hylton, P., 2010, “Willard Van Orman Quine”, in: _Stanford Encyclopedia of Philosophy_ (Fall 2010 Edition), Edward N. Zalta (ed.), URL = <[Willard van Orman Quine (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/quine/)>.
+* Kocher, P. H., 1953, _Science and Religion in Elizabethan England_, San Marino, CA: Huntington Library.
+* Kuhn, Th. S., 1962, _The Structure of Scientific Revolutions_, Chicago: University of Chicago Press.
+* Lakatos, I., 1970, “Falsificationism and the Methodology of Scientific Research Programmes”, in _Criticism and the Growth of Knowledge_, edited by I. Lakatos and A. Musgrave. Cambridge: Cambridge University Press, pp. 91–196.
 * –––, 1981, “History of Science and Its Rational reconstructions”, in Hacking (ed.) 1981, pp. 107–27.
-* Lambert, K. and G. C. Brittan, 1979 \[1987], *An Introduction to the Philosophy of Science*, Atascadero, CA: Ridgeview. Third edition 1987.
-* Müller-Jahncke, W. D., 1985, *Astrologisch-Magische Theorie in der Heilkunde der Frühen Neuzeit*, Stuttgart.
-* O'Hear, A., 1995, “Conventionalism”, in *Oxford Companion to Philosophy*, T. Honderich (ed.), Oxford: Oxford University Press, p. 165.
-* Poincaré, H., 1905 \[reprint 1952], *Science and Hypothesis*, translated by W. J. Greenstreet, New York: Dover Publications.
-* Popper, K. R., 1969, *Logik der Forschung*, Tübingen, 3rd edition.
-* Quine, W. V. Q., 1951, “Two Dogmas of Empiricism”, *The Philosophical Review* 60: 20–43. Reprinted in Quine, 1963, *From a Logical Point of View*, New York: Harper Torchbook, pp. 20–46.
-* Rae, A. I. M., 1986 \[2000], *Quantum physics: Illusion or Reality?* Cambridge: Cambridge University Press. Fourth Canto edition, 2000.
-* Russell, B., 1948, *Human Knowledge. Its Scope and its Limits*, London: Allen & Unwin.
+* Lambert, K. and G. C. Brittan, 1979 \[1987], _An Introduction to the Philosophy of Science_, Atascadero, CA: Ridgeview. Third edition 1987.
+* Müller-Jahncke, W. D., 1985, _Astrologisch-Magische Theorie in der Heilkunde der Frühen Neuzeit_, Stuttgart.
+* O'Hear, A., 1995, “Conventionalism”, in _Oxford Companion to Philosophy_, T. Honderich (ed.), Oxford: Oxford University Press, p. 165.
+* Poincaré, H., 1905 \[reprint 1952], _Science and Hypothesis_, translated by W. J. Greenstreet, New York: Dover Publications.
+* Popper, K. R., 1969, _Logik der Forschung_, Tübingen, 3rd edition.
+* Quine, W. V. Q., 1951, “Two Dogmas of Empiricism”, _The Philosophical Review_ 60: 20–43. Reprinted in Quine, 1963, _From a Logical Point of View_, New York: Harper Torchbook, pp. 20–46.
+* Rae, A. I. M., 1986 \[2000], _Quantum physics: Illusion or Reality?_ Cambridge: Cambridge University Press. Fourth Canto edition, 2000.
+* Russell, B., 1948, _Human Knowledge. Its Scope and its Limits_, London: Allen & Unwin.
 * Schäfer, L., 1998, “Duhems Bedeutung für die Entwicklung der Wissenschaftstheorie”, in: Duhem (1998), pp. X–XXXIII.
-* Shell, H. R., 2004, “Casting Life, Recasting Experience: Bernard Palissy's Occupation between Maker and Nature”, *Configurations*, 12(1): 1–40.
-* Stegmüller, W., 1973, *Probleme und Resultate der Wissenschaftstheorie und Analytischen Philosophie, Band II: Theorie und Erfahrung. Zweiter Halbband. Theorienstruktur und Theoriendynamik*, Berlin, Heidelberg, New York.
-* Swinburne, R. (ed.), 1974, *The Justification of Induction*, Oxford: Oxford University Press.
-* Von Weizsäcker, C. F. and J. Juilfs, 1958, *Physik der Gegenwart*, Göttingen.
-* Wright, G. H. von, 1951, *A Treatise of Induction and Probability*, London: Routledge and K. Pau.
-* Zinner, E., 1988, *Entstehung und Ausbreitung der copernicanischen Lehre*, Munich.
+* Shell, H. R., 2004, “Casting Life, Recasting Experience: Bernard Palissy's Occupation between Maker and Nature”, _Configurations_, 12(1): 1–40.
+* Stegmüller, W., 1973, _Probleme und Resultate der Wissenschaftstheorie und Analytischen Philosophie, Band II: Theorie und Erfahrung. Zweiter Halbband. Theorienstruktur und Theoriendynamik_, Berlin, Heidelberg, New York.
+* Swinburne, R. (ed.), 1974, _The Justification of Induction_, Oxford: Oxford University Press.
+* Von Weizsäcker, C. F. and J. Juilfs, 1958, _Physik der Gegenwart_, Göttingen.
+* Wright, G. H. von, 1951, _A Treatise of Induction and Probability_, London: Routledge and K. Pau.
+* Zinner, E., 1988, _Entstehung und Ausbreitung der copernicanischen Lehre_, Munich.
 
 ## Academic Tools
 
@@ -536,7 +536,7 @@
 
 ## Other Internet Resources
 
-* [Francis Bacon](http://www.iep.utm.edu/bacon/), entry by David Simpson in the *Internet Encyclopedia of Philosophy*.
+* [Francis Bacon](http://www.iep.utm.edu/bacon/), entry by David Simpson in the _Internet Encyclopedia of Philosophy_.
 
 \[Please contact the author with other suggestions.]
 

@@ -1,6 +1,6 @@
 # 能动性 agency (Markus Schlosser)
 
-*首次发布于 2015 年 8 月 10 日；实质性修订于 2019 年 10 月 28 日*
+_首次发布于 2015 年 8 月 10 日；实质性修订于 2019 年 10 月 28 日_
 
 从非常一般的角度来看，一个能动性是一个具有行动能力的存在，而“能动性”表示对这种能力的行使或表现。行动哲学为我们提供了一个标准的行动概念和一个标准的行动理论。前者将行动解释为有意向性，后者通过代理人的心理状态和事件的因果关系来解释行动的有意向性。由此，我们得到了一个标准的能动性概念和一个标准的能动性理论。存在着关于能动性的替代概念，并且有人认为标准理论未能捕捉到能动性（或独特的人类能动性）。此外，似乎真正的能动性可以由不能进行有意向行动的存在展示出来，并且有人认为能动性可以并且应该在不涉及因果有效的心理状态和事件的情况下加以解释。
 
@@ -56,7 +56,7 @@ Anscombe 和 Davidson 的贡献确立了行动的标准概念，而 Davidson 的
 
 ### 2.2 能动性作为主体的发起
 
-经常有人声称，并且广泛认同，能动性涉及代理人通过发起行动来实现。但是，这一观点的具体内容一直存在争议。标准观念与有意行动由代理人发起的说法是相容的，而标准理论的支持者认为，发起行动可以通过代理人的心理状态和事件的因果关系来解释。根据欲望-信念观点，代理人的发起行动包括相关欲望-信念对的因果关系（Goldman 1970; Davidson 1971; Dretske 1988）。根据较新的观点，发起行动包括相关意图的因果关系（Brand 1984; Bratman 1987; Bishop 1989; Mele 1992, 2003; Enç 2003）。然而，标准观念的反对者认为，代理人发起行动的能力不能简化为有意和有理由地行动的能力。他们认为，能动性的行使可能完全是自发的，即代理人可能出于无缘无故和没有先前意图的情况下发起行动。在这种观点下，理由和意图可能对代理人的行动产生强大甚至决定性的影响。但是，能动性的源头在于发起的能力，而这种能力的行使不能简化为代理人受到理由或意图的驱使。这是能动性的另一种*观念*（Ginet 1990; O'Connor 2000; Lowe 2008; 另请参阅 McCann 1998; 有关批判性讨论，请参阅 Mele 2003: 38–51, 71–76; Clarke 2003: 17–24）。这种替代观念的支持者拒绝接受标准理论，而且他们更一般地拒绝以代理人涉及的状态和事件之间的因果关系来解释能动性。根据一些人的观点，行动的发起包括不可简化的代理人因果关系，而其他人则诉诸于无因果关系的意志心理行为。关于这个问题的主要立场对应于能动性形而上学的主要立场，我们将在[第 3.1 节](https://plato.stanford.edu/entries/agency/#ThrMetFra)中讨论。
+经常有人声称，并且广泛认同，能动性涉及代理人通过发起行动来实现。但是，这一观点的具体内容一直存在争议。标准观念与有意行动由代理人发起的说法是相容的，而标准理论的支持者认为，发起行动可以通过代理人的心理状态和事件的因果关系来解释。根据欲望-信念观点，代理人的发起行动包括相关欲望-信念对的因果关系（Goldman 1970; Davidson 1971; Dretske 1988）。根据较新的观点，发起行动包括相关意图的因果关系（Brand 1984; Bratman 1987; Bishop 1989; Mele 1992, 2003; Enç 2003）。然而，标准观念的反对者认为，代理人发起行动的能力不能简化为有意和有理由地行动的能力。他们认为，能动性的行使可能完全是自发的，即代理人可能出于无缘无故和没有先前意图的情况下发起行动。在这种观点下，理由和意图可能对代理人的行动产生强大甚至决定性的影响。但是，能动性的源头在于发起的能力，而这种能力的行使不能简化为代理人受到理由或意图的驱使。这是能动性的另一种_观念_（Ginet 1990; O'Connor 2000; Lowe 2008; 另请参阅 McCann 1998; 有关批判性讨论，请参阅 Mele 2003: 38–51, 71–76; Clarke 2003: 17–24）。这种替代观念的支持者拒绝接受标准理论，而且他们更一般地拒绝以代理人涉及的状态和事件之间的因果关系来解释能动性。根据一些人的观点，行动的发起包括不可简化的代理人因果关系，而其他人则诉诸于无因果关系的意志心理行为。关于这个问题的主要立场对应于能动性形而上学的主要立场，我们将在[第 3.1 节](https://plato.stanford.edu/entries/agency/#ThrMetFra)中讨论。
 
 ### 2.3 能动性与独特的人类行动
 
@@ -66,7 +66,7 @@ Anscombe 和 Davidson 的贡献确立了行动的标准概念，而 Davidson 的
 
 Bratman（2000 年，2001 年）同意 Velleman 的观点，即标准理论无法解释真正的自我管理。然而，在他看来，“完全的能动性”并不需要提及一个代理人无法否认的心理态度。在他对时间上延伸的计划能动性的研究基础上（Bratman 1987），他认为代理人的“自我管理政策”具有“代理人的发言权”，因为它们有助于建立和支持代理人的身份，并且它们指定了哪些欲望在实际思考中作为提供理由的依据。根据 Bratman 的观点，这些自我管理政策解释了代理人“支持或反对某些动机的立场，这个立场本身可以接受重新审查和修订”（2000 年：50-51）。 （有关对 Bratman 观点的批评讨论，请参见 Hornsby 2004 和 Franklin 2017。）
 
-为了捍卫标准理论，Mele（2003 年：第 10 章）认为寻找扮演代理人角色的心理态度是错误的，并且 Velleman 对这一观点的批评是离题的。正如 Mele 指出的那样，很明显，欲望不可能是代理人，因为代理人进行思考、决策和行动，而欲望则没有这些行为。他建议，将心理态度作为代理人角色的讨论最多只能是比喻性的。此外，没有明显的理由可以解释为什么代理人对动机的不认同应该被诊断为代理人的不参与。更有可能的是，代理人在这种情况下确实参与了，但是以一种有缺陷的方式。一旦将有缺陷的参与与不参与区分开来，就很容易避免 Velleman 的结论，即标准理论“排除了代理人”。此外，人们可以将标准理论是否解释了代理人的参与与标准理论是否捕捉到了人类行动的*典范*这两个问题分开。根据 Mele 的观点，人类代理人只是一个行动的人类。在这种观点下，代理人在所有的能动性实例中都扮演了一定的角色，无论这种角色有多么不足。标准理论首先提供了一个关于代理人进行有意行动的解释。它并不声称进行有意行动的能力是区分人类和非人类能动性的能力，并且它也不声称能够解释更精细或更优秀的人类能动性，例如自控、自治、全心全意或自由的能动性。研究标准理论是否能够扩展以解释更精细或更优秀的人类能动性是一个有趣且重要的任务（例如 Mele 1995；Bratman 2007）。但是，因为标准理论未能做到这一点而拒绝这一观点是对其目标和范围的误解（另请参见[section 3.3](https://plato.stanford.edu/entries/agency/#DisAgeNatDuaStaThe)）。
+为了捍卫标准理论，Mele（2003 年：第 10 章）认为寻找扮演代理人角色的心理态度是错误的，并且 Velleman 对这一观点的批评是离题的。正如 Mele 指出的那样，很明显，欲望不可能是代理人，因为代理人进行思考、决策和行动，而欲望则没有这些行为。他建议，将心理态度作为代理人角色的讨论最多只能是比喻性的。此外，没有明显的理由可以解释为什么代理人对动机的不认同应该被诊断为代理人的不参与。更有可能的是，代理人在这种情况下确实参与了，但是以一种有缺陷的方式。一旦将有缺陷的参与与不参与区分开来，就很容易避免 Velleman 的结论，即标准理论“排除了代理人”。此外，人们可以将标准理论是否解释了代理人的参与与标准理论是否捕捉到了人类行动的_典范_这两个问题分开。根据 Mele 的观点，人类代理人只是一个行动的人类。在这种观点下，代理人在所有的能动性实例中都扮演了一定的角色，无论这种角色有多么不足。标准理论首先提供了一个关于代理人进行有意行动的解释。它并不声称进行有意行动的能力是区分人类和非人类能动性的能力，并且它也不声称能够解释更精细或更优秀的人类能动性，例如自控、自治、全心全意或自由的能动性。研究标准理论是否能够扩展以解释更精细或更优秀的人类能动性是一个有趣且重要的任务（例如 Mele 1995；Bratman 2007）。但是，因为标准理论未能做到这一点而拒绝这一观点是对其目标和范围的误解（另请参见[section 3.3](https://plato.stanford.edu/entries/agency/#DisAgeNatDuaStaThe)）。
 
 ### 2.4 没有心理表征的能动性
 
@@ -86,17 +86,17 @@ Bratman（2000 年，2001 年）同意 Velleman 的观点，即标准理论无�
 
 正如我们所见，有充分的理由区分不同类型的能动性。标准理论提供了对于最核心的一种能动性的解释：有意识的能动性（以及由此产生的无意识的能动性；参见[第 2 节](https://plato.stanford.edu/entries/agency/#ConTheKinAge)）。这可以与更高级或更精细的能动性区分开来，比如自我控制的、自治的和自由的能动性，并且可以与不需要归因于表征性心理状态的更基本的能动性区分开来。除此之外，还有几种可能的其他能动性类型。它们包括心理能动性、共享能动性、集体能动性、关系能动性和人工能动性。对于每种情况，我们可以问这种能动性是否可以用标准的概念和理论来解释，或者它是否确实是一种不同类型的能动性。本节的主要重点将放在心理能动性上，其他候选类型我们只会简要提及。
 
-我们的心智生活充满了心智行动，这似乎是显而易见的。我们关注、考虑、判断、推理、思考、接受、认可、决定、尝试等等。这些似乎都是我们所做的事情。如果我们通过代理理论来考虑这些情况，我们会立即遇到两个困难。首先，这些心智事件似乎很少或者从来不是有意识的行动。根据标准理论，只有当代理人的意图中包含了*A*时，事件才是类型为*A*的有意识行动。在基本情况下，这将是一个意图去*A*。在工具性情况下，这将是一个意图去执行其他行动*B*以便实现*A*。现在，思想的个体化部分取决于它们的内容。以思考*p*的思想为例。根据标准理论，只有当代理人的意图中包含“思考*p*”时，思考*p*才是有意识的行动。这是相当奇怪和有问题的，因为我们在思考之前必须有意图去思考某个特定的思想。其次，决策的核心案例存在问题。根据标准理论，只有当一个人已经有了包含“决定去*A*”的决策意图时，决定去*A*才是有意识的行动。这似乎又是相当奇怪和有问题的。此外，我们决定去*A*的原因通常是我们去*A*的原因，它们是执行这个行动的原因。根据标准理论，只有当一个行动有一个原因解释（以代理人的欲望、信念和意图为基础）时，它才是一个行动。由于原因通常是行动的原因，很难看出做出决策如何能成为一个行动。这种考虑可能会导致人们得出结论，思想几乎从来不是心智行动（参见 Strawson 2003）。
+我们的心智生活充满了心智行动，这似乎是显而易见的。我们关注、考虑、判断、推理、思考、接受、认可、决定、尝试等等。这些似乎都是我们所做的事情。如果我们通过代理理论来考虑这些情况，我们会立即遇到两个困难。首先，这些心智事件似乎很少或者从来不是有意识的行动。根据标准理论，只有当代理人的意图中包含了_A_时，事件才是类型为_A_的有意识行动。在基本情况下，这将是一个意图去_A_。在工具性情况下，这将是一个意图去执行其他行动_B_以便实现_A_。现在，思想的个体化部分取决于它们的内容。以思考_p_的思想为例。根据标准理论，只有当代理人的意图中包含“思考_p_”时，思考_p_才是有意识的行动。这是相当奇怪和有问题的，因为我们在思考之前必须有意图去思考某个特定的思想。其次，决策的核心案例存在问题。根据标准理论，只有当一个人已经有了包含“决定去_A_”的决策意图时，决定去_A_才是有意识的行动。这似乎又是相当奇怪和有问题的。此外，我们决定去_A_的原因通常是我们去_A_的原因，它们是执行这个行动的原因。根据标准理论，只有当一个行动有一个原因解释（以代理人的欲望、信念和意图为基础）时，它才是一个行动。由于原因通常是行动的原因，很难看出做出决策如何能成为一个行动。这种考虑可能会导致人们得出结论，思想几乎从来不是心智行动（参见 Strawson 2003）。
 
-避免这个结论并不困难，正如 Mele（1997，2003：第 9 章，2009b）所示。再次考虑决策的核心案例，并假设做出决策包括形成一个意图。根据标准理论，如果形成一个意图是某种描述下的有意识行动（或者它与有意识行动相同或者由有意识行动生成；参见[第 2 节](https://plato.stanford.edu/entries/agency/#ConTheKinAge)），那么什么可能是代理人做出决策的意图呢？Mele 提出，决策过程通常是由解决手头实际问题的意图驱动的。这个提议避免了上面概述的问题。假设代理人决定去*A*。为了使其成为一个行动，代理人并不需要有决定去*A*的意图。因为如果代理人有意图通过做出决策来解决问题，那么做出决策就是在某种描述下的有意识行动。特别地，做出一个决策是一个有意识的行动，而做出*这个*决策*去 A*则是一个无意识的行动（它要么与做出*一个*决策的有意识行动相同，要么由它生成）\[[10](https://plato.stanford.edu/entries/agency/notes.html#note-10)]。类似的考虑也适用于关于原因解释的问题和其他情况，比如记忆。Mele（2009b）认为，记忆某事从来不是一个有意识的行动，因为没有人有意图记住特定的内容。但是，仍然有一个紧密相关的有意识心智行动，我们可能会执行：有意识地努力使自己记住特定的内容。参见 Shepherd（2015）对决策是*有意识*行动的观点的辩护，将其解释为思辨活动的延伸和结论。
+避免这个结论并不困难，正如 Mele（1997，2003：第 9 章，2009b）所示。再次考虑决策的核心案例，并假设做出决策包括形成一个意图。根据标准理论，如果形成一个意图是某种描述下的有意识行动（或者它与有意识行动相同或者由有意识行动生成；参见[第 2 节](https://plato.stanford.edu/entries/agency/#ConTheKinAge)），那么什么可能是代理人做出决策的意图呢？Mele 提出，决策过程通常是由解决手头实际问题的意图驱动的。这个提议避免了上面概述的问题。假设代理人决定去_A_。为了使其成为一个行动，代理人并不需要有决定去_A_的意图。因为如果代理人有意图通过做出决策来解决问题，那么做出决策就是在某种描述下的有意识行动。特别地，做出一个决策是一个有意识的行动，而做出_这个_决策_去 A_则是一个无意识的行动（它要么与做出_一个_决策的有意识行动相同，要么由它生成）\[[10](https://plato.stanford.edu/entries/agency/notes.html#note-10)]。类似的考虑也适用于关于原因解释的问题和其他情况，比如记忆。Mele（2009b）认为，记忆某事从来不是一个有意识的行动，因为没有人有意图记住特定的内容。但是，仍然有一个紧密相关的有意识心智行动，我们可能会执行：有意识地努力使自己记住特定的内容。参见 Shepherd（2015）对决策是_有意识_行动的观点的辩护，将其解释为思辨活动的延伸和结论。
 
 Hieronymi（2009）采取了非常不同的观点。她认为，每当我们解决是否做某事或是否相信某事的问题时，我们就参与了心智能动性，并且她认为这种心智能动性与普通的意图能动性有所不同，主要是由于控制的差异。根据 Hieronymi 的观点，我们对自己的心智态度具有“评估性控制”。这包括能够形成和修订“我们对事物的看法”，并且与我们对外在身体行动的自愿控制有所区别。根据能动性理论，心智意愿行为（选择或尝试）在本质上也与外在身体行动不同。在这种观点上，心智意愿行为还是基本的，因为它们是外在能动性的“源泉”（Ginet 1990; McCann 1998; Lowe 2008; 更多内容请参见[第 3.1 节](https://plato.stanford.edu/entries/agency/#ThrMetFra)）。
 
-*认识论*能动性涉及代理人对其信念（和其他信念状态）可能行使的控制。通常区分两种主要立场：间接信念自愿主义和直接信念自愿主义。前者涉及我们通过研究、评估证据、考虑相反观点等方式获取或修订信念。我们可以以这种间接方式对信念行使控制是相当无争议的。相比之下，直接信念自愿主义非常有争议。它认为我们对一些信念具有直接自愿控制，其中自愿控制通常被理解为代理人在意图行动中行使的控制。这里的一个主要问题是直接信念自愿主义似乎与信念的本质不相容。信念应该代表世界（或“追求真理”）。有人可能争辩说，在行动和信念形成的控制上没有根本的差异，因为在两种情况下，控制基本上都是基于理性的反应。但这个提议忽视了意图的核心作用。根据标准理论，行动必须由意图发起和指导，除了对理由做出反应。挑战在于找到与意图以相同或类似方式发起和指导的信念形成。（有关更详尽的概述和参考资料，请参见 Vitz 2019。）
+_认识论_能动性涉及代理人对其信念（和其他信念状态）可能行使的控制。通常区分两种主要立场：间接信念自愿主义和直接信念自愿主义。前者涉及我们通过研究、评估证据、考虑相反观点等方式获取或修订信念。我们可以以这种间接方式对信念行使控制是相当无争议的。相比之下，直接信念自愿主义非常有争议。它认为我们对一些信念具有直接自愿控制，其中自愿控制通常被理解为代理人在意图行动中行使的控制。这里的一个主要问题是直接信念自愿主义似乎与信念的本质不相容。信念应该代表世界（或“追求真理”）。有人可能争辩说，在行动和信念形成的控制上没有根本的差异，因为在两种情况下，控制基本上都是基于理性的反应。但这个提议忽视了意图的核心作用。根据标准理论，行动必须由意图发起和指导，除了对理由做出反应。挑战在于找到与意图以相同或类似方式发起和指导的信念形成。（有关更详尽的概述和参考资料，请参见 Vitz 2019。）
 
-*共享*机构发生在两个或更多个体一起做某事的时候（比如搬家具或唱歌）。*集体*机构发生在两个或更多个体作为一个群体行动的时候（根据构成和组织群体的某些原则或程序）。在过去的二十年左右，对共享和集体机构的研究蓬勃发展。一个核心问题是共享和集体机构是否可以归结为参与个体的机构，还是它们构成了不同类型的机构 - 是否在某种意义上超越了个体机构。用标准理论来解释集体机构引发了一个问题，即是否有意义将心理状态和事件（如欲望、信念和意图）归因于个体群体。（有关参考资料和讨论，请参见[共享机构](https://plato.stanford.edu/entries/shared-agency/)和[集体意向性](https://plato.stanford.edu/entries/collective-intentionality/)的条目。）
+_共享_机构发生在两个或更多个体一起做某事的时候（比如搬家具或唱歌）。_集体_机构发生在两个或更多个体作为一个群体行动的时候（根据构成和组织群体的某些原则或程序）。在过去的二十年左右，对共享和集体机构的研究蓬勃发展。一个核心问题是共享和集体机构是否可以归结为参与个体的机构，还是它们构成了不同类型的机构 - 是否在某种意义上超越了个体机构。用标准理论来解释集体机构引发了一个问题，即是否有意义将心理状态和事件（如欲望、信念和意图）归因于个体群体。（有关参考资料和讨论，请参见[共享机构](https://plato.stanford.edu/entries/shared-agency/)和[集体意向性](https://plato.stanford.edu/entries/collective-intentionality/)的条目。）
 
-*关系性*机构的概念源于对自主性的关系性解释。根据女性主义批评，传统的自主性解释过于个体主义化，因为它们忽视或忽略了人际关系对自主个体的发展和维持的重要性。然而，正如韦斯特伦德（2009）指出的那样，大多数传统解释与女性主义对人际关系的强调是兼容的，只要将关系和对他人的依赖被构建为自主个体发展和维持的*因果*必要条件。只有当人际关系和依赖性是自主性的*构成要素*时，自主性才是真正关系性的。根据韦斯特伦德自己的观点，自主机构需要一种“不可约简的对话形式的反思和对他人的回应”（2009: 28）。根据这种观点，自主性是一种不可约简的关系性机构。（有关更多信息，请参见[女性主义对自主性的观点](https://plato.stanford.edu/entries/feminism-autonomy/)的条目。）
+_关系性_机构的概念源于对自主性的关系性解释。根据女性主义批评，传统的自主性解释过于个体主义化，因为它们忽视或忽略了人际关系对自主个体的发展和维持的重要性。然而，正如韦斯特伦德（2009）指出的那样，大多数传统解释与女性主义对人际关系的强调是兼容的，只要将关系和对他人的依赖被构建为自主个体发展和维持的_因果_必要条件。只有当人际关系和依赖性是自主性的_构成要素_时，自主性才是真正关系性的。根据韦斯特伦德自己的观点，自主机构需要一种“不可约简的对话形式的反思和对他人的回应”（2009: 28）。根据这种观点，自主性是一种不可约简的关系性机构。（有关更多信息，请参见[女性主义对自主性的观点](https://plato.stanford.edu/entries/feminism-autonomy/)的条目。）
 
 最后，我们简要讨论一下机器人和其他人工智能系统是否具备能动性的问题。如果我们假设标准理论，我们就面临一个问题，即是否适当地将心理状态归因于人工系统（参见[第 2.4 节](https://plato.stanford.edu/entries/agency/#AgeWitMenRep)）。如果我们采取工具主义立场（Dennett 1987: Ch. 2），那么将心理状态和有意识的能动性归因于人工系统就没有明显的障碍。然而，根据现实主义立场，是否有正当理由这样做并不明显，因为人工系统是否具备作为归因心理状态基础的内部状态并不明显。如果按照标准理论的解释，人工系统不能具备有意识的能动性，它们可能仍然具备某种更基本的能动性。根据 Barandiaran 等人（2009）的观点，最小能动性并不需要具备心理状态，而是需要与环境的耦合和代谢自我维持的适应性调节。然而，这意味着从这个观点来看，人工系统甚至不能具备最小的能动性：“对于能动性要求的具体说明告诉我们，发展人工能动形式还需要多少工作”（Barandiaran 等人，2009: 382）。
 
@@ -124,7 +124,7 @@ Hieronymi（2009）采取了非常不同的观点。她认为，每当我们解�
 
 ### 3.3 消失的能动性、自然主义和双重立场理论
 
-有时候有人认为，偏离因果链的问题仅仅是更深层次问题的症状，即事件-因果理论完全无法捕捉到能动性，因为它将行动简化为仅仅发生在我们身上的事情（例如，Lowe 2008: 9）。换句话说，这个挑战认为，事件-因果框架的不足之处在于它排除了能动者：在这种观点中，只存在着一系列因果推动和拉扯的关系，*没有人做任何事情*（Melden 1961; Nagel 1986; 另见 Velleman 1992）。这被称为“消失的能动性”问题（Mele 2003: Ch. 10; Lowe 2008: 159–161; Steward 2013）。
+有时候有人认为，偏离因果链的问题仅仅是更深层次问题的症状，即事件-因果理论完全无法捕捉到能动性，因为它将行动简化为仅仅发生在我们身上的事情（例如，Lowe 2008: 9）。换句话说，这个挑战认为，事件-因果框架的不足之处在于它排除了能动者：在这种观点中，只存在着一系列因果推动和拉扯的关系，_没有人做任何事情_（Melden 1961; Nagel 1986; 另见 Velleman 1992）。这被称为“消失的能动性”问题（Mele 2003: Ch. 10; Lowe 2008: 159–161; Steward 2013）。
 
 根据 Mele（2003 年：第 10 章）的观点，一些关于消失的能动性反对的表述很容易被驳斥。这个挑战的一些支持者将“事件因果顺序”和“自然顺序”这两个术语互换使用。这似乎暗示着，在他们看来，能动性是一种超自然现象——这是大多数当代哲学家难以认真对待的观点。然而，有时这个挑战被提出来是为了推动替代的能动因果或意愿主义的能动性理论，并且能动因果和意愿主义理论的主要支持者坚持认为他们的观点与自然主义是相容的。他们会主张，假设事件因果顺序耗尽了事物的自然顺序是一个错误。
 
@@ -180,167 +180,167 @@ Pacherie（2008）将反馈比较器模型发展为一个关于能动性现象�
 
 行动的分析哲学长期忽视了感知和注意力在引导能动性中的作用。关于感知，通常假设（往往没有详细阐述）信念的引导作用已经涵盖了感知的作用。标准理论并不将信念的因果作用限制于行动执行之前的那些被代理人认为或拥有的信念，因此我们可以假设，被认为在引导作用中起作用的信念包括代理人在执行行动过程中获得的感知信念。最近的研究（Mele 2003; Pacherie 2008; Schlosser 2012a）表明，标准理论与上述运动控制的反馈比较器模型是兼容的（参见[第 4.5 节](https://plato.stanford.edu/entries/agency/#SenAge)）。该模型不仅解释了感知和本体感输入的作用，还解释了内部预测在运动控制的微调和执行中提供的引导。
 
-然而，注意力的作用几乎完全未被承认，正如吴（2011 年，2016 年）所指出的。每当我们追求一个目标时，我们不仅必须选择适当的手段，还必须选择在行动引导中要关注的情境特征。吴将这个问题概念化为“多对多问题”：在追求目标时，我们通常面临太多的感知输入和太多的可能行为输出。意图的形成只提供了部分解决方案。意图的内容通常包括选择适当的手段。例如，一个人打算打开窗户以便让新鲜空气进来。这限制了行为输出的范围和需要关注的感知输入的范围。但它并不能确定一个足够具体的输入-输出映射。一般来说，意图的内容不够细致，无法正确引导运动的执行和注意力的方向。吴提出，这些更细粒度层面上的多对多问题是通过注意力来解决的。吴在继承威廉·詹姆斯的观点的基础上，提出注意力*是*行动中缺失的选择：选择感知输入以实施运动控制。从这个观点来看，意图介导的注意力是具身能动性的一个重要组成部分。这引发了一个问题，即注意力的选择本身是否可以成为真正的能动性行为，并且所提出的观点是否可以扩展以解释对注意力的有意识的引导和控制。
+然而，注意力的作用几乎完全未被承认，正如吴（2011 年，2016 年）所指出的。每当我们追求一个目标时，我们不仅必须选择适当的手段，还必须选择在行动引导中要关注的情境特征。吴将这个问题概念化为“多对多问题”：在追求目标时，我们通常面临太多的感知输入和太多的可能行为输出。意图的形成只提供了部分解决方案。意图的内容通常包括选择适当的手段。例如，一个人打算打开窗户以便让新鲜空气进来。这限制了行为输出的范围和需要关注的感知输入的范围。但它并不能确定一个足够具体的输入-输出映射。一般来说，意图的内容不够细致，无法正确引导运动的执行和注意力的方向。吴提出，这些更细粒度层面上的多对多问题是通过注意力来解决的。吴在继承威廉·詹姆斯的观点的基础上，提出注意力_是_行动中缺失的选择：选择感知输入以实施运动控制。从这个观点来看，意图介导的注意力是具身能动性的一个重要组成部分。这引发了一个问题，即注意力的选择本身是否可以成为真正的能动性行为，并且所提出的观点是否可以扩展以解释对注意力的有意识的引导和控制。
 
 ## Bibliography
 
-* Adams, F., 2010, “Action Theory Meets Embodied Cognition”, in *Causing Human Action: New Perspectives on the Causal Theory of Action*, A. Buckareff and J. Aguilar (eds.), Cambridge, MA: MIT Press, pp. 229–252.
-* Ahearn, L., 2001, “Language and Agency”, *Annual Review of Anthropology*, 30: 109–37.
-* Allen, C. and M. Bekoff, 1997, *Species of Mind: The Philosophy and Biology of Cognitive Ethology*, Cambridge, MA: MIT Press.
-* Alvarez, M., 2010, *Kinds of Reasons: An Essay in the Philosophy of Action*, Oxford: Oxford University Press.
-* Anscombe, G.E.M., 1957, *Intention*, Oxford: Basil Blackwell.
-* Antony, L.M., 2002, “How to Play the Flute: A Commentary on Dreyfus’s ‘Intelligence Without Representation’”, *Phenomenology and the Cognitive Sciences*, 1(4): 395–401.
-* Audi, R., 1986, “Acting for Reasons”, *Philosophical Review*, 95(4): 511–546.
-* Austin, J.J. and J.B. Vancouver, 1996, “Goal Constructs in Psychology: Structure, Process, and Content”, *Psychological Bulletin*, 120(3): 338–375.
-* Bandura, A., 2006, “Toward a Psychology of Human Agency”, *Perspectives on Psychological Science*, 1(2): 164–180.
-* Barandiaran, X.E., E. Di Paolo, and M. Rohde, 2009, “Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-Temporality in Action”, *Adaptive Behavior*, 17(5): 367–386.
-* Bargh, J.A. and T.J. Chartrand, 1999, “The Unbearable Automaticity of Being”, *American Psychologist*, 54(7): 462–479.
-* Bargh, J.A., P.M. Gollwitzer, A. Lee-Chai, K. Barndollar, and R. Trötschel, 2001, “The Automated Will: Nonconscious Activation and Pursuit of Behavioral Goals”, *Journal of Personality and Social Psychology*, 81(6): 1014–1027.
-* Bayne, T., 2006, “Phenomenology and the Feeling of Doing: Wegner on the Conscious Will”, in *Does Consciousness Cause Behavior?*, S. Pockett, W.P. Banks, and S. Gallagher (eds.), Cambridge, MA: MIT Press, pp. 169–186.
-* Bayne, T. and E. Pacherie, 2007, “Narrators and Comparators: The Architecture of Agentive Self-Awareness”, *Synthese*, 159(3): 475–491.
-* Beer, R.D., 1995, “A Dynamical Systems Perspective on Agent-Environment Interaction”, *Artificial Intelligence*, 72: 173–215.
-* Bilgrami, A., 2006, *Self-Knowledge and Resentment*, Cambridge: Harvard University Press.
-* Bishop, J., 1989, *Natural Agency: An Essay on the Causal Theory of Action*, Cambridge: Cambridge University Press.
-* Blakemore, S.J., D.M. Wolpert, and C.D. Frith, 2002, “Abnormalities in the Awareness of Action”, *Trends in Cognitive Sciences*, 6(6): 237–242.
-* Brand, M., 1984, *Intending and Acting: Toward a Naturalized Action Theory*, Cambridge, MA: MIT Press.
-* Bratman, M.E., 1987, *Intention, Plans, and Practical Reason*, Cambridge, MA: Harvard University Press.
-* –––, 2000, “Reflection, Planning, and Temporally Extended Agency”, *Philosophical Review*, 109(1): 35–61; reprinted in Bratman 2007: 21–46.
-* –––, 2001, “Two Problems about Human Agency”, *Proceedings of the Aristotelian Society*, 101(3): 309–326; reprinted in Bratman 2007: 89–105.
-* –––, 2007, *Structures of Agency: Essays*, Oxford: Oxford University Press.
-* Broad, C.D., 1952, “Determinism, Indeterminism, and Libertarianism”, in *Ethics and the History of Philosophy: Selected Essays*, New York: Humanities Press, pp. 195–217.
-* Brooks, R.A., 1991, “Intelligence Without Representation”, *Artificial Intelligence*, 47: 139–159.
-* Chemero, T., 2009, *Radical Embodied Cognitive Science*, Cambridge, MA: MIT Press
-* Chisholm, R., 1964, “Human Freedom and the Self”, *The Lindley Lectures*, Department of Philosophy, University of Kansas; reprinted in *Free Will*, 2nd edition, G. Watson (ed.), Oxford: Oxford University Press, 2003, pp. 26–37.
-* Chisholm, R., 1966, “Freedom and Action”, in *Freedom and Determinism*, K. Lehrer (ed.), New York: Random House, pp. 11–44.
-* Clark, A. and J. Toribio, 1994, “Doing Without Representing?”, *Synthese*, 101(3): 401–431.
-* Clarke, R., 2003, *Libertarian Accounts of Free Will*, Oxford: Oxford University Press.
-* –––, 2010a, “Intentional Omissions”, *Noûs*, 44(1): 158–177.
-* –––, 2010b, “Skilled Activity and the Causal Theory of Action”, *Philosophy and Phenomenological Research*, 80(3): 523–550.
-* –––, 2014, *Omissions: Agency, Metaphysics, and Responsibility*, Oxford: Oxford University Press.
-* Custers, R. and H. Aarts, 2010, “The Unconscious Will: How the Pursuit of Goals Operates Outside of Conscious Awareness”, *Science*, 329(5987): 47–50.
-* D’Andrade, R., 1987, “A Folk Model of the Mind”, in *Cultural Models in Language and Thought*, D. Holland and N. Quinn (eds.), Cambridge: Cambridge University Press, pp. 112–148.
-* Dancy, J., 2000, *Practical Reality*, Oxford: Oxford University Press.
-* Danto, A.C., 1965, “Basic Actions”, *American Philosophical Quarterly*, 2(2): 141–8.
+* Adams, F., 2010, “Action Theory Meets Embodied Cognition”, in _Causing Human Action: New Perspectives on the Causal Theory of Action_, A. Buckareff and J. Aguilar (eds.), Cambridge, MA: MIT Press, pp. 229–252.
+* Ahearn, L., 2001, “Language and Agency”, _Annual Review of Anthropology_, 30: 109–37.
+* Allen, C. and M. Bekoff, 1997, _Species of Mind: The Philosophy and Biology of Cognitive Ethology_, Cambridge, MA: MIT Press.
+* Alvarez, M., 2010, _Kinds of Reasons: An Essay in the Philosophy of Action_, Oxford: Oxford University Press.
+* Anscombe, G.E.M., 1957, _Intention_, Oxford: Basil Blackwell.
+* Antony, L.M., 2002, “How to Play the Flute: A Commentary on Dreyfus’s ‘Intelligence Without Representation’”, _Phenomenology and the Cognitive Sciences_, 1(4): 395–401.
+* Audi, R., 1986, “Acting for Reasons”, _Philosophical Review_, 95(4): 511–546.
+* Austin, J.J. and J.B. Vancouver, 1996, “Goal Constructs in Psychology: Structure, Process, and Content”, _Psychological Bulletin_, 120(3): 338–375.
+* Bandura, A., 2006, “Toward a Psychology of Human Agency”, _Perspectives on Psychological Science_, 1(2): 164–180.
+* Barandiaran, X.E., E. Di Paolo, and M. Rohde, 2009, “Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-Temporality in Action”, _Adaptive Behavior_, 17(5): 367–386.
+* Bargh, J.A. and T.J. Chartrand, 1999, “The Unbearable Automaticity of Being”, _American Psychologist_, 54(7): 462–479.
+* Bargh, J.A., P.M. Gollwitzer, A. Lee-Chai, K. Barndollar, and R. Trötschel, 2001, “The Automated Will: Nonconscious Activation and Pursuit of Behavioral Goals”, _Journal of Personality and Social Psychology_, 81(6): 1014–1027.
+* Bayne, T., 2006, “Phenomenology and the Feeling of Doing: Wegner on the Conscious Will”, in _Does Consciousness Cause Behavior?_, S. Pockett, W.P. Banks, and S. Gallagher (eds.), Cambridge, MA: MIT Press, pp. 169–186.
+* Bayne, T. and E. Pacherie, 2007, “Narrators and Comparators: The Architecture of Agentive Self-Awareness”, _Synthese_, 159(3): 475–491.
+* Beer, R.D., 1995, “A Dynamical Systems Perspective on Agent-Environment Interaction”, _Artificial Intelligence_, 72: 173–215.
+* Bilgrami, A., 2006, _Self-Knowledge and Resentment_, Cambridge: Harvard University Press.
+* Bishop, J., 1989, _Natural Agency: An Essay on the Causal Theory of Action_, Cambridge: Cambridge University Press.
+* Blakemore, S.J., D.M. Wolpert, and C.D. Frith, 2002, “Abnormalities in the Awareness of Action”, _Trends in Cognitive Sciences_, 6(6): 237–242.
+* Brand, M., 1984, _Intending and Acting: Toward a Naturalized Action Theory_, Cambridge, MA: MIT Press.
+* Bratman, M.E., 1987, _Intention, Plans, and Practical Reason_, Cambridge, MA: Harvard University Press.
+* –––, 2000, “Reflection, Planning, and Temporally Extended Agency”, _Philosophical Review_, 109(1): 35–61; reprinted in Bratman 2007: 21–46.
+* –––, 2001, “Two Problems about Human Agency”, _Proceedings of the Aristotelian Society_, 101(3): 309–326; reprinted in Bratman 2007: 89–105.
+* –––, 2007, _Structures of Agency: Essays_, Oxford: Oxford University Press.
+* Broad, C.D., 1952, “Determinism, Indeterminism, and Libertarianism”, in _Ethics and the History of Philosophy: Selected Essays_, New York: Humanities Press, pp. 195–217.
+* Brooks, R.A., 1991, “Intelligence Without Representation”, _Artificial Intelligence_, 47: 139–159.
+* Chemero, T., 2009, _Radical Embodied Cognitive Science_, Cambridge, MA: MIT Press
+* Chisholm, R., 1964, “Human Freedom and the Self”, _The Lindley Lectures_, Department of Philosophy, University of Kansas; reprinted in _Free Will_, 2nd edition, G. Watson (ed.), Oxford: Oxford University Press, 2003, pp. 26–37.
+* Chisholm, R., 1966, “Freedom and Action”, in _Freedom and Determinism_, K. Lehrer (ed.), New York: Random House, pp. 11–44.
+* Clark, A. and J. Toribio, 1994, “Doing Without Representing?”, _Synthese_, 101(3): 401–431.
+* Clarke, R., 2003, _Libertarian Accounts of Free Will_, Oxford: Oxford University Press.
+* –––, 2010a, “Intentional Omissions”, _Noûs_, 44(1): 158–177.
+* –––, 2010b, “Skilled Activity and the Causal Theory of Action”, _Philosophy and Phenomenological Research_, 80(3): 523–550.
+* –––, 2014, _Omissions: Agency, Metaphysics, and Responsibility_, Oxford: Oxford University Press.
+* Custers, R. and H. Aarts, 2010, “The Unconscious Will: How the Pursuit of Goals Operates Outside of Conscious Awareness”, _Science_, 329(5987): 47–50.
+* D’Andrade, R., 1987, “A Folk Model of the Mind”, in _Cultural Models in Language and Thought_, D. Holland and N. Quinn (eds.), Cambridge: Cambridge University Press, pp. 112–148.
+* Dancy, J., 2000, _Practical Reality_, Oxford: Oxford University Press.
+* Danto, A.C., 1965, “Basic Actions”, _American Philosophical Quarterly_, 2(2): 141–8.
 * Davidson, D., 1963, “Actions, Reasons, and Causes”, reprinted in Davidson 1980: 3–20.
 * –––, 1970, “How Is Weakness of the Will Possible?”, reprinted in Davidson 1980: 21–42.
 * –––, 1971, “Agency”, reprinted in Davidson 1980: 43–61.
 * –––, 1973, “Freedom to Act”, reprinted in Davidson 1980: 63–81.
 * –––, 1974, “Psychology as Philosophy”, reprinted in Davidson 1980: 229–238.
 * –––, 1978, “Intending”, reprinted in Davidson 1980: 83–102.
-* –––, 1980, *Essays on Actions and Events*, Oxford: Clarendon Press.
-* –––, 1982, “Rational Animals”, *Dialectica*, 3(4): 317–327.
-* Dennett, D.C., 1987, *The Intentional Stance*, Cambridge, MA: MIT Press.
-* –––, 2008, “Some Observations on the Psychology of Thinking About Free Will”, in *Are We Free?*, *Psychology and Free Will*, J. Baer, J.C. Kaufman, and R.F. Baumeister (eds.), Oxford: Oxford University Press, pp. 248–259.
-* Doris, J.M., 2002, *Lack of Character: Personality and Moral Behavior*, Cambridge: Cambridge University Press.
-* Dretske, F., 1988, *Explaining Behavior: Reasons in a World of Causes*, Cambridge, MA: MIT Press.
-* Dreyfus, H.L., 1991, “*Being-in-the-World: A Commentary on Heidegger’s Being and Time, Division I*”, Cambridge, MA: MIT Press.
-* –––, 2002, “Intelligence Without Representation—Merleau-Ponty’s Critique of Mental Representation”, *Phenomenology and the Cognitive Sciences*, 1(4): 367–383.
-* Emirbayer, M. and A. Mische, 1998, “What Is Agency?”, *American Journal of Sociology*, 103(4): 962–1023.
-* Enç, B., 2003, *How We Act: Causes, Reasons, and Intentions*, Oxford: Oxford University Press.
-* Evans, J. St. B.T., 2008, “Dual-Processing Accounts of Reasoning, Judgment, and Social Cognition”, *Annual Review of Psychology*, 59: 255–278.
-* Fishbein, M. and I. Ajzen, 1975, *Belief, Attitude, Intention and Behavior: An Introduction to Theory and Research*. Reading, MA: Addison Wesley.
-* Flanagan, O., 1992, *Consciousness Reconsidered*, Cambridge, MA: MIT Press.
-* Frankfurt, H., 1971, “Freedom of the Will and the Concept of a Person”, *Journal of Philosophy*, 68(1): 5–20.
-* –––, 1978, “The Problem of Action”, *American Philosophical Quarterly*, 15(2): 157–62.
-* Franklin, C.E., 2017, “Bratman on Identity Over Time and Identification at a Time”, *Philosophical Explorations*, 20(1): 1–14.
-* Fried, I., R. Mukamel, and G. Kreiman, 2011, “Internally Generated Preactivation of Single Neurons in Human Medial Frontal Cortex Predicts Volition”, *Neuron*, 69(3): 548–562.
-* Frith, C.D., S. Blakemore, and D.M. Wolpert, 2000, “Abnormalities in the Awareness and Control of Action”, *Philosophical Transactions of the Royal Society of London B*, 355(1404): 1771–1788.
-* Gallagher, S., 2007, “The Natural Philosophy of Agency”, *Philosophy Compass*, 2(2): 347–357.
-* Ginet, C., 1990, *On Action*, Cambridge: Cambridge University Press.
-* Goldman, A., 1970, *A Theory of Human Action*, Englewood Cliffs, NJ: Prentice-Hall.
-* Gollwitzer, P.M., 1993, “Goal Achievement: The Role of Intentions”, *European Review of Social Psychology*, 4(1): 141–185.
-* Haggard, P., 2005, “Conscious Intention and Motor Cognition”, *Trends in Cognitive Sciences*, 9(6): 290–295.
-* Hampshire, S., 1959, *Thought and Action*, London: Chatto and Windus.
-* Harman, G., 1976, “Practical Reasoning”, *Review of Metaphysics*, 79: 431–63; reprinted in *The Philosophy of Action*, A. Mele (ed.), Oxford: Oxford University Press, 1997, pp. 149–177.
-* –––, 1999, “Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error”, *Proceedings of the Aristotelian Society*, 99: 315–331.
-* Harris C.R., N. Coburn, D. Rohrer, and H. Pashler, 2013, “Two Failures to Replicate High-Performance-Goal Priming Effects”, *PLoS ONE*, 8(8): e72467.
-* Heckhausen, H., 1991, *Motivation and Action*, Berlin: Springer-Verlag.
-* Heider, F. and M. Simmel, 1944, “An Experimental Study of Apparent Behavior”, *American Journal of Psychology*, 57: 243–259.
-* Hieronymi, P., 2009, “Two Kinds of Agency”, in *Mental Actions*, L. O’Brien and M. Soteriou, (eds.), Oxford: Oxford University Press, pp. 138–62.
-* Hornsby, J., 2004, “Agency and Actions”, in *Agency and Action*, H. Steward and J. Hyman (eds.), Cambridge University Press, pp. 1–23.
-* Hutto, D. and E. Myin, 2014, “Neural Representations Not Needed: No More Pleas, Please”, *Phenomenology and the Cognitive Sciences*, 13(2): 241–256.
-* Keller, I. and H. Heckhausen, 1990, “Readiness Potentials Preceding Spontaneous Motor Acts: Voluntary vs. Involuntary Control”, *Electroencephalography & Clinical Neurophysiology*, 76(4): 351–361.
-* Kenny, A., 1963, *Action, Emotion, and Will*, London: Routledge & Kegan Paul.
-* Keren, G. and Y. Schul, 2009, “Two Is Not Always Better than One: A Critical Evaluation of Two System Theories”, *Perspectives on Psychological Science*, 4(6): 533–550.
-* Kim, J., 1976, “Events as Property Exemplifications”, in M. Brand and D. Walton (eds.), *Action Theory*, Dordrecht: Reidel, pp. 159–177; reprinted in *Supervenience and Mind: Selected Philosophical Essays*, Cambridge: Cambridge University Press, 1993, pp. 33–52.
-* Korsgaard, C.M., 1996, *The Sources of Normativity*, Cambridge: Cambridge University Press.
-* Lavin, D., 2013, “Must There Be Basic Action?”, *Noûs*, 47(2): 273–301.
-* Levy, N., 2011, “Resisting ‘Weakness of the Will’”, *Philosophy and Phenomenological Research*, 82(1): 134–155.
-* –––, 2014, *Consciousness and Moral Responsibility*, Oxford: Oxford University Press.
-* Libet, B., 1985, “Unconscious Cerebral Initiative and the Role of Conscious Will in Voluntary Action”, *Behavioral and Brain Sciences*, 8(4): 529–566.
-* –––, 1999, “Do We Have Free Will?”, *Journal of Consciousness Studies*, 6(8–9): 47–57.
-* Locke, E.A. and G.P. Latham, 1990, *A Theory of Goal Setting and Task Performance*, Englewood Cliffs, NJ: Prentice-Hall.
-* Lowe, E.J., 2008, *Personal Agency: The Metaphysics of Mind and Action*, Oxford: Oxford University Press.
-* Malle, B.F., 2004, *How the Mind Explains Behavior: Folk Explanations, Meaning, and Social Interaction*, Cambridge, MA: MIT Press.
-* McCann, H.J., 1998, *The Works of Agency: On Human Action, Will, and Freedom*, Ithaca: Cornell University Press.
-* Melden, A.I., 1961, *Free Action*, London: Routledge and Kegan Paul.
-* Mele, A.R., 1992, *Springs of Action: Understanding Intentional Behavior*, Oxford: Oxford University Press.
-* –––, 1995, *Autonomous Agents: From Self-Control to Autonomy*, Oxford: Oxford University Press.
-* –––, 1997, “Agency and Mental Action”, *Philosophical Perspectives*, 11: 231–249.
-* –––, 2003, *Motivation and Agency*, Oxford: Oxford University Press.
-* –––, 2009a, *Effective Intentions: The Power of Conscious Will*, Oxford: Oxford University Press.
-* –––, 2009b, “Mental Action: A Case Study”, in *Mental Actions*, L. O’Brien and M. Soteriou, (eds.), Oxford: Oxford University Press, pp. 17–37.
-* –––, 2012, “Intentional, Unintentional, or Neither? Middle Ground in Theory and Practice”, *American Philosophical Quarterly*, 49(4): 369–379.
-* –––, 2013, “Actions, Explanations, and Causes”, in *Reasons and Causes: Causalism and Anti-Causalism in the Philosophy of Action*, G. D’Oro and C. Sandis (eds.), Palgrave Macmillan, pp. 160–174.
-* Mele, A. R and P.K. Moser, 1994, “Intentional Action”, *Noûs*, 28(1): 39–68.
-* Nagel, T., 1986, *The View from Nowhere*, Oxford: Oxford University Press.
-* Nahmias, E., 2002, “When Consciousness Matters: A Critical Review of Daniel Wegner’s ‘The Illusion of Conscious Will’”, *Philosophical Psychology*, 15(4): 527–541.
-* Nelkin, D.K., 2000, “Two Standpoints and the Belief in Freedom”, *Journal of Philosophy*, 97(10): 564–76.
-* –––, 2005, “Freedom, Responsibility and the Challenge of Situationism”, *Midwest Studies in Philosophy*, 29(1): 181–206.
-* Nisbett, R.E. and T.D. Wilson, 1977, “Telling More than We Can Know: Verbal Reports on Mental Processes”, *Psychological Review*, 84(3): 231–259.
-* O’Connor, T., 2000, *Persons and Causes: The Metaphysics of Free Will*, Oxford: Oxford University Press.
-* Osman, M., 2004, “An Evaluation of Dual-Process Theories of Reasoning”, *Psychonomic Bulletin & Review*, 11(6): 988–1010.
-* Pacherie, E., 2008, “The Phenomenology of Action: A Conceptual Framework”, *Cognition*, 107(1): 179–217.
-* Peacocke, C., 1979, *Holistic Explanation: Action, Space, Interpretation*, Oxford: Clarendon Press.
-* Rey, G., 2002, “Problems with Dreyfus’ Dialectic”, *Phenomenology and the Cognitive Sciences*, 1(4): 403–408.
-* Roskies, A.L., 2011, “Why Libet’s Studies Don’t Pose a Threat to Free Will”, in *Conscious Will and Responsibility: A Tribute to Benjamin Libet*, L. Nadel and W. Sinnott-Armstrong (eds.), Oxford: Oxford University Press, pp. 11–22.
-* Ross, L. and R.E. Nisbett, 1991, *The Person and the Situation*, Philadelphia: Temple University Press.
-* Ryle, G., 1949, *The Concept of Mind*, Chicago: The University of Chicago Press.
-* Sartorio, C., 2009, “Omissions and Causalism”, *Noûs*, 43(3): 513–530.
-* Scanlon, T.M., 1998, *What We Owe to Each Other*, Cambridge, MA: Harvard University Press.
-* Schlosser, M.E., 2007, “Basic Deviance Reconsidered”, *Analysis*, 67(3): 186–194.
-* –––, 2010, “Agency, Ownership, and the Standard Theory”, in *New Waves in Philosophy of Action*, J. Aguilar, A. Buckareff, and K. Frankish (eds.), Basingstoke: Palgrave Macmillan, pp. 13–31.
-* –––, 2011, “The Metaphysics of Rule-Following”, *Philosophical Studies*, 155(3): 345–369.
-* –––, 2012a, “Causally Efficacious Intentions and the Sense of Agency: In Defense of Real Mental Causation”, *Journal of Theoretical and Philosophical Psychology*, 32(3): 135–160.
-* –––, 2012b, “Free Will and the Unconscious Precursors of Choice”, *Philosophical Psychology*, 25(3): 365–384.
-* –––, 2013, “Conscious Will, Reason-Responsiveness, and Moral Responsibility”, *Journal of Ethics*, 17(3): 205–232.
-* –––, 2014, “The Neuroscientific Study of Free Will: A Diagnosis of the Controversy”, *Synthese*, 191(2): 245–262.
-* –––, 2018, “Embodied Cognition and Temporally Extended Agency”, *Synthese*, 195(5): 2089–2112.
-* –––, 2019, “Dual-System Theory and the Role of Consciousness in Intentional Action”, in B. Feltz, M. Missal & A. Sims (eds.), *Free Will, Causality and Neuroscience*, Brill Editions.
-* Schurger, A., J.D. Sitta, and S. Dehaene, 2012, “An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement”, *Proceedings of the National Academy of Sciences*, 109(42): E2904–E2913.
-* Searle, J.R., 1983, *Intentionality: An Essay in the Philosophy of Mind*, Cambridge: Cambridge University Press.
-* Sehon, S., 2005, *Teleological Realism: Mind, Agency, and Explanation*, Cambridge, MA: MIT Press.
-* Setiya, K., 2007, *Reasons Without Rationalism*, Princeton: Princeton University Press.
-* Shanks, D.R., B.R. Newell, E.H. Lee, D. Balakrishnan, L. Ekelund, Z. Cenac, F. Kavvadia, and C. Moore, 2013, “Priming Intelligent Behavior: An Elusive Phenomenon”, *PLoS ONE*, 8(4): e56515.
-* Shepherd, J., 2015, “Deciding as Intentional Action: Control over Decisions”, *Australasian Journal of Philosophy*, 93(2): 335–351.
-* –––, 2017, “The Experience of Acting and the Structure of Consciousness”, *Journal of Philosophy*, 114(8): 422–448.
-* Silberstein, M. and A. Chemero, 2011, “Dynamics, Agency and Intentional Action”, *Humana Mente*, 15: 1–19.
-* Sims, A., 2019, “The Essence of Agency is Discovered, Not Defined: A Minimal Mindreading Argument”, *Philosophical Studies*, 176 (8): 2011–2028.
-* Sloman, S.A., 1996, “The Empirical Case for Two Systems of Reasoning”, *Psychological Bulletin*, 119(1): 3–22.
-* Soon, C.S., M. Brass, H.J. Heinze, and J.D. Haynes, 2008, “Unconscious Determinants of Free Decisions in the Human Brain”, *Nature Neuroscience*, 11(5): 543–545.
-* Sreenivasan, G., 2002, “Errors About Errors: Virtue Theory and Trait Attribution”, *Mind*, 111(441): 47–68.
-* Sterelny, K., 2001, *The Evolution of Agency and Other Essays*, Cambridge: Cambridge University Press.
-* Steward, H., 2013, “Processes, Continuants and Individuals”, *Mind*, 122(487): 781–812.
-* Strawson, G.J., 2003, “Mental Ballistics: The Involuntariness of Spontaneity”, *Proceedings of the Aristotelian Society*, 103(1): 227–256.
-* Synofzik, M., G. Vosgerau, and A. Newen, 2008, “Beyond the Comparator Model: A Multifactorial Two-Step Account of Agency”, *Consciousness and Cognition*, 17(1): 219–239.
-* Taylor, C., 1977, “What Is Human Agency?”, in *The Self: Psychological and Philosophical Issues*, T. Mischel (ed.), Oxford: Blackwell, pp. 103–135.
-* Taylor, R., 1966, *Action and Purpose*, Englewood Cliffs: Prentice-Hall.
-* Thalberg, I., 1977, *Perception, Emotion, and Action*, New Haven: Yale University Press.
-* Thompson, M., 2008, *Life and Action*, Cambridge, MA: Harvard University Press.
-* Varela, F.G., H.R. Maturana, and R. Uribe, 1974, “Autopoiesis: The Organization of Living Systems, Its Characterization and a Model”, *Biosystems*, 5(4): 187–196.
-* Vargas, M., 2013, “Situationism and Moral Responsibility: Free Will in Fragments”, in *Decomposing the Will*, A. Clark, J. Kiverstein, and T. Vierkant (eds.), Oxford: Oxford University Press, pp. 325–350.
-* Velleman, D., 1992, “What Happens When Someone Acts?”, *Mind*, 101(403): 461–481.
-* Vitz, R., 2019, “Doxastic Voluntarism”, *The Internet Encyclopedia of Philosophy*, ISSN 2161-0002, https://www.iep.utm.edu/, retrieved on 14 October 2019.
-* Waller, R.R., 2012, “Beyond Button Presses”, *The Monist*, 95(3): 441–462.
-* Watson, G., 1975, “Free Agency”, *Journal of Philosophy*, 72(8): 205–20
-* Wegner, D.M., 2002, *The Illusion of Conscious Will*, Cambridge, MA: MIT Press.
-* Wegner, D.M. and T.P. Wheatley, 1999, “Apparent Mental Causation: Sources of the Experience of Will”, *American Psychologist*, 54(7): 480–92.
-* Westlund, A., 2009, “Rethinking Relational Autonomy”, *Hypatia*, 24(4): 26–49.
-* White, P.A., 1988, “Knowing More about What We Can Tell: ‘Introspective Access’ and Causal Report Accuracy 10 Years Later”, *British Journal of Psychology*, 79(1): 13–45.
-* Wolpert, D.M. and M. Kawato, 1998, “Multiple Paired Forward and Inverse Models for Motor Control”, *Neural Networks*, 11: 1317–1329.
-* Wu, W., 2011, “Confronting Many-Many Problems: Attention and Agentive Control”, *Noûs*, 45(1): 50–76.
-* –––, 2016, “Experts and Deviants: The Story of Agentive Control”, *Philosophy and Phenomenological Research*, 92(2): 101–26.
-* Zhu, J., 2003, “Reclaiming Volition: An Alternative Interpretation of Libet’s Experiment”, *Journal of Consciousness Studies*, 10(11): 61–77.
+* –––, 1980, _Essays on Actions and Events_, Oxford: Clarendon Press.
+* –––, 1982, “Rational Animals”, _Dialectica_, 3(4): 317–327.
+* Dennett, D.C., 1987, _The Intentional Stance_, Cambridge, MA: MIT Press.
+* –––, 2008, “Some Observations on the Psychology of Thinking About Free Will”, in _Are We Free?_, _Psychology and Free Will_, J. Baer, J.C. Kaufman, and R.F. Baumeister (eds.), Oxford: Oxford University Press, pp. 248–259.
+* Doris, J.M., 2002, _Lack of Character: Personality and Moral Behavior_, Cambridge: Cambridge University Press.
+* Dretske, F., 1988, _Explaining Behavior: Reasons in a World of Causes_, Cambridge, MA: MIT Press.
+* Dreyfus, H.L., 1991, “_Being-in-the-World: A Commentary on Heidegger’s Being and Time, Division I_”, Cambridge, MA: MIT Press.
+* –––, 2002, “Intelligence Without Representation—Merleau-Ponty’s Critique of Mental Representation”, _Phenomenology and the Cognitive Sciences_, 1(4): 367–383.
+* Emirbayer, M. and A. Mische, 1998, “What Is Agency?”, _American Journal of Sociology_, 103(4): 962–1023.
+* Enç, B., 2003, _How We Act: Causes, Reasons, and Intentions_, Oxford: Oxford University Press.
+* Evans, J. St. B.T., 2008, “Dual-Processing Accounts of Reasoning, Judgment, and Social Cognition”, _Annual Review of Psychology_, 59: 255–278.
+* Fishbein, M. and I. Ajzen, 1975, _Belief, Attitude, Intention and Behavior: An Introduction to Theory and Research_. Reading, MA: Addison Wesley.
+* Flanagan, O., 1992, _Consciousness Reconsidered_, Cambridge, MA: MIT Press.
+* Frankfurt, H., 1971, “Freedom of the Will and the Concept of a Person”, _Journal of Philosophy_, 68(1): 5–20.
+* –––, 1978, “The Problem of Action”, _American Philosophical Quarterly_, 15(2): 157–62.
+* Franklin, C.E., 2017, “Bratman on Identity Over Time and Identification at a Time”, _Philosophical Explorations_, 20(1): 1–14.
+* Fried, I., R. Mukamel, and G. Kreiman, 2011, “Internally Generated Preactivation of Single Neurons in Human Medial Frontal Cortex Predicts Volition”, _Neuron_, 69(3): 548–562.
+* Frith, C.D., S. Blakemore, and D.M. Wolpert, 2000, “Abnormalities in the Awareness and Control of Action”, _Philosophical Transactions of the Royal Society of London B_, 355(1404): 1771–1788.
+* Gallagher, S., 2007, “The Natural Philosophy of Agency”, _Philosophy Compass_, 2(2): 347–357.
+* Ginet, C., 1990, _On Action_, Cambridge: Cambridge University Press.
+* Goldman, A., 1970, _A Theory of Human Action_, Englewood Cliffs, NJ: Prentice-Hall.
+* Gollwitzer, P.M., 1993, “Goal Achievement: The Role of Intentions”, _European Review of Social Psychology_, 4(1): 141–185.
+* Haggard, P., 2005, “Conscious Intention and Motor Cognition”, _Trends in Cognitive Sciences_, 9(6): 290–295.
+* Hampshire, S., 1959, _Thought and Action_, London: Chatto and Windus.
+* Harman, G., 1976, “Practical Reasoning”, _Review of Metaphysics_, 79: 431–63; reprinted in _The Philosophy of Action_, A. Mele (ed.), Oxford: Oxford University Press, 1997, pp. 149–177.
+* –––, 1999, “Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error”, _Proceedings of the Aristotelian Society_, 99: 315–331.
+* Harris C.R., N. Coburn, D. Rohrer, and H. Pashler, 2013, “Two Failures to Replicate High-Performance-Goal Priming Effects”, _PLoS ONE_, 8(8): e72467.
+* Heckhausen, H., 1991, _Motivation and Action_, Berlin: Springer-Verlag.
+* Heider, F. and M. Simmel, 1944, “An Experimental Study of Apparent Behavior”, _American Journal of Psychology_, 57: 243–259.
+* Hieronymi, P., 2009, “Two Kinds of Agency”, in _Mental Actions_, L. O’Brien and M. Soteriou, (eds.), Oxford: Oxford University Press, pp. 138–62.
+* Hornsby, J., 2004, “Agency and Actions”, in _Agency and Action_, H. Steward and J. Hyman (eds.), Cambridge University Press, pp. 1–23.
+* Hutto, D. and E. Myin, 2014, “Neural Representations Not Needed: No More Pleas, Please”, _Phenomenology and the Cognitive Sciences_, 13(2): 241–256.
+* Keller, I. and H. Heckhausen, 1990, “Readiness Potentials Preceding Spontaneous Motor Acts: Voluntary vs. Involuntary Control”, _Electroencephalography & Clinical Neurophysiology_, 76(4): 351–361.
+* Kenny, A., 1963, _Action, Emotion, and Will_, London: Routledge & Kegan Paul.
+* Keren, G. and Y. Schul, 2009, “Two Is Not Always Better than One: A Critical Evaluation of Two System Theories”, _Perspectives on Psychological Science_, 4(6): 533–550.
+* Kim, J., 1976, “Events as Property Exemplifications”, in M. Brand and D. Walton (eds.), _Action Theory_, Dordrecht: Reidel, pp. 159–177; reprinted in _Supervenience and Mind: Selected Philosophical Essays_, Cambridge: Cambridge University Press, 1993, pp. 33–52.
+* Korsgaard, C.M., 1996, _The Sources of Normativity_, Cambridge: Cambridge University Press.
+* Lavin, D., 2013, “Must There Be Basic Action?”, _Noûs_, 47(2): 273–301.
+* Levy, N., 2011, “Resisting ‘Weakness of the Will’”, _Philosophy and Phenomenological Research_, 82(1): 134–155.
+* –––, 2014, _Consciousness and Moral Responsibility_, Oxford: Oxford University Press.
+* Libet, B., 1985, “Unconscious Cerebral Initiative and the Role of Conscious Will in Voluntary Action”, _Behavioral and Brain Sciences_, 8(4): 529–566.
+* –––, 1999, “Do We Have Free Will?”, _Journal of Consciousness Studies_, 6(8–9): 47–57.
+* Locke, E.A. and G.P. Latham, 1990, _A Theory of Goal Setting and Task Performance_, Englewood Cliffs, NJ: Prentice-Hall.
+* Lowe, E.J., 2008, _Personal Agency: The Metaphysics of Mind and Action_, Oxford: Oxford University Press.
+* Malle, B.F., 2004, _How the Mind Explains Behavior: Folk Explanations, Meaning, and Social Interaction_, Cambridge, MA: MIT Press.
+* McCann, H.J., 1998, _The Works of Agency: On Human Action, Will, and Freedom_, Ithaca: Cornell University Press.
+* Melden, A.I., 1961, _Free Action_, London: Routledge and Kegan Paul.
+* Mele, A.R., 1992, _Springs of Action: Understanding Intentional Behavior_, Oxford: Oxford University Press.
+* –––, 1995, _Autonomous Agents: From Self-Control to Autonomy_, Oxford: Oxford University Press.
+* –––, 1997, “Agency and Mental Action”, _Philosophical Perspectives_, 11: 231–249.
+* –––, 2003, _Motivation and Agency_, Oxford: Oxford University Press.
+* –––, 2009a, _Effective Intentions: The Power of Conscious Will_, Oxford: Oxford University Press.
+* –––, 2009b, “Mental Action: A Case Study”, in _Mental Actions_, L. O’Brien and M. Soteriou, (eds.), Oxford: Oxford University Press, pp. 17–37.
+* –––, 2012, “Intentional, Unintentional, or Neither? Middle Ground in Theory and Practice”, _American Philosophical Quarterly_, 49(4): 369–379.
+* –––, 2013, “Actions, Explanations, and Causes”, in _Reasons and Causes: Causalism and Anti-Causalism in the Philosophy of Action_, G. D’Oro and C. Sandis (eds.), Palgrave Macmillan, pp. 160–174.
+* Mele, A. R and P.K. Moser, 1994, “Intentional Action”, _Noûs_, 28(1): 39–68.
+* Nagel, T., 1986, _The View from Nowhere_, Oxford: Oxford University Press.
+* Nahmias, E., 2002, “When Consciousness Matters: A Critical Review of Daniel Wegner’s ‘The Illusion of Conscious Will’”, _Philosophical Psychology_, 15(4): 527–541.
+* Nelkin, D.K., 2000, “Two Standpoints and the Belief in Freedom”, _Journal of Philosophy_, 97(10): 564–76.
+* –––, 2005, “Freedom, Responsibility and the Challenge of Situationism”, _Midwest Studies in Philosophy_, 29(1): 181–206.
+* Nisbett, R.E. and T.D. Wilson, 1977, “Telling More than We Can Know: Verbal Reports on Mental Processes”, _Psychological Review_, 84(3): 231–259.
+* O’Connor, T., 2000, _Persons and Causes: The Metaphysics of Free Will_, Oxford: Oxford University Press.
+* Osman, M., 2004, “An Evaluation of Dual-Process Theories of Reasoning”, _Psychonomic Bulletin & Review_, 11(6): 988–1010.
+* Pacherie, E., 2008, “The Phenomenology of Action: A Conceptual Framework”, _Cognition_, 107(1): 179–217.
+* Peacocke, C., 1979, _Holistic Explanation: Action, Space, Interpretation_, Oxford: Clarendon Press.
+* Rey, G., 2002, “Problems with Dreyfus’ Dialectic”, _Phenomenology and the Cognitive Sciences_, 1(4): 403–408.
+* Roskies, A.L., 2011, “Why Libet’s Studies Don’t Pose a Threat to Free Will”, in _Conscious Will and Responsibility: A Tribute to Benjamin Libet_, L. Nadel and W. Sinnott-Armstrong (eds.), Oxford: Oxford University Press, pp. 11–22.
+* Ross, L. and R.E. Nisbett, 1991, _The Person and the Situation_, Philadelphia: Temple University Press.
+* Ryle, G., 1949, _The Concept of Mind_, Chicago: The University of Chicago Press.
+* Sartorio, C., 2009, “Omissions and Causalism”, _Noûs_, 43(3): 513–530.
+* Scanlon, T.M., 1998, _What We Owe to Each Other_, Cambridge, MA: Harvard University Press.
+* Schlosser, M.E., 2007, “Basic Deviance Reconsidered”, _Analysis_, 67(3): 186–194.
+* –––, 2010, “Agency, Ownership, and the Standard Theory”, in _New Waves in Philosophy of Action_, J. Aguilar, A. Buckareff, and K. Frankish (eds.), Basingstoke: Palgrave Macmillan, pp. 13–31.
+* –––, 2011, “The Metaphysics of Rule-Following”, _Philosophical Studies_, 155(3): 345–369.
+* –––, 2012a, “Causally Efficacious Intentions and the Sense of Agency: In Defense of Real Mental Causation”, _Journal of Theoretical and Philosophical Psychology_, 32(3): 135–160.
+* –––, 2012b, “Free Will and the Unconscious Precursors of Choice”, _Philosophical Psychology_, 25(3): 365–384.
+* –––, 2013, “Conscious Will, Reason-Responsiveness, and Moral Responsibility”, _Journal of Ethics_, 17(3): 205–232.
+* –––, 2014, “The Neuroscientific Study of Free Will: A Diagnosis of the Controversy”, _Synthese_, 191(2): 245–262.
+* –––, 2018, “Embodied Cognition and Temporally Extended Agency”, _Synthese_, 195(5): 2089–2112.
+* –––, 2019, “Dual-System Theory and the Role of Consciousness in Intentional Action”, in B. Feltz, M. Missal & A. Sims (eds.), _Free Will, Causality and Neuroscience_, Brill Editions.
+* Schurger, A., J.D. Sitta, and S. Dehaene, 2012, “An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement”, _Proceedings of the National Academy of Sciences_, 109(42): E2904–E2913.
+* Searle, J.R., 1983, _Intentionality: An Essay in the Philosophy of Mind_, Cambridge: Cambridge University Press.
+* Sehon, S., 2005, _Teleological Realism: Mind, Agency, and Explanation_, Cambridge, MA: MIT Press.
+* Setiya, K., 2007, _Reasons Without Rationalism_, Princeton: Princeton University Press.
+* Shanks, D.R., B.R. Newell, E.H. Lee, D. Balakrishnan, L. Ekelund, Z. Cenac, F. Kavvadia, and C. Moore, 2013, “Priming Intelligent Behavior: An Elusive Phenomenon”, _PLoS ONE_, 8(4): e56515.
+* Shepherd, J., 2015, “Deciding as Intentional Action: Control over Decisions”, _Australasian Journal of Philosophy_, 93(2): 335–351.
+* –––, 2017, “The Experience of Acting and the Structure of Consciousness”, _Journal of Philosophy_, 114(8): 422–448.
+* Silberstein, M. and A. Chemero, 2011, “Dynamics, Agency and Intentional Action”, _Humana Mente_, 15: 1–19.
+* Sims, A., 2019, “The Essence of Agency is Discovered, Not Defined: A Minimal Mindreading Argument”, _Philosophical Studies_, 176 (8): 2011–2028.
+* Sloman, S.A., 1996, “The Empirical Case for Two Systems of Reasoning”, _Psychological Bulletin_, 119(1): 3–22.
+* Soon, C.S., M. Brass, H.J. Heinze, and J.D. Haynes, 2008, “Unconscious Determinants of Free Decisions in the Human Brain”, _Nature Neuroscience_, 11(5): 543–545.
+* Sreenivasan, G., 2002, “Errors About Errors: Virtue Theory and Trait Attribution”, _Mind_, 111(441): 47–68.
+* Sterelny, K., 2001, _The Evolution of Agency and Other Essays_, Cambridge: Cambridge University Press.
+* Steward, H., 2013, “Processes, Continuants and Individuals”, _Mind_, 122(487): 781–812.
+* Strawson, G.J., 2003, “Mental Ballistics: The Involuntariness of Spontaneity”, _Proceedings of the Aristotelian Society_, 103(1): 227–256.
+* Synofzik, M., G. Vosgerau, and A. Newen, 2008, “Beyond the Comparator Model: A Multifactorial Two-Step Account of Agency”, _Consciousness and Cognition_, 17(1): 219–239.
+* Taylor, C., 1977, “What Is Human Agency?”, in _The Self: Psychological and Philosophical Issues_, T. Mischel (ed.), Oxford: Blackwell, pp. 103–135.
+* Taylor, R., 1966, _Action and Purpose_, Englewood Cliffs: Prentice-Hall.
+* Thalberg, I., 1977, _Perception, Emotion, and Action_, New Haven: Yale University Press.
+* Thompson, M., 2008, _Life and Action_, Cambridge, MA: Harvard University Press.
+* Varela, F.G., H.R. Maturana, and R. Uribe, 1974, “Autopoiesis: The Organization of Living Systems, Its Characterization and a Model”, _Biosystems_, 5(4): 187–196.
+* Vargas, M., 2013, “Situationism and Moral Responsibility: Free Will in Fragments”, in _Decomposing the Will_, A. Clark, J. Kiverstein, and T. Vierkant (eds.), Oxford: Oxford University Press, pp. 325–350.
+* Velleman, D., 1992, “What Happens When Someone Acts?”, _Mind_, 101(403): 461–481.
+* Vitz, R., 2019, “Doxastic Voluntarism”, _The Internet Encyclopedia of Philosophy_, ISSN 2161-0002, https://www.iep.utm.edu/, retrieved on 14 October 2019.
+* Waller, R.R., 2012, “Beyond Button Presses”, _The Monist_, 95(3): 441–462.
+* Watson, G., 1975, “Free Agency”, _Journal of Philosophy_, 72(8): 205–20
+* Wegner, D.M., 2002, _The Illusion of Conscious Will_, Cambridge, MA: MIT Press.
+* Wegner, D.M. and T.P. Wheatley, 1999, “Apparent Mental Causation: Sources of the Experience of Will”, _American Psychologist_, 54(7): 480–92.
+* Westlund, A., 2009, “Rethinking Relational Autonomy”, _Hypatia_, 24(4): 26–49.
+* White, P.A., 1988, “Knowing More about What We Can Tell: ‘Introspective Access’ and Causal Report Accuracy 10 Years Later”, _British Journal of Psychology_, 79(1): 13–45.
+* Wolpert, D.M. and M. Kawato, 1998, “Multiple Paired Forward and Inverse Models for Motor Control”, _Neural Networks_, 11: 1317–1329.
+* Wu, W., 2011, “Confronting Many-Many Problems: Attention and Agentive Control”, _Noûs_, 45(1): 50–76.
+* –––, 2016, “Experts and Deviants: The Story of Agentive Control”, _Philosophy and Phenomenological Research_, 92(2): 101–26.
+* Zhu, J., 2003, “Reclaiming Volition: An Alternative Interpretation of Libet’s Experiment”, _Journal of Consciousness Studies_, 10(11): 61–77.
 
 ## Academic Tools
 

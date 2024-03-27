@@ -1,6 +1,6 @@
 # 乔治·贝克莱 Berkeley, George (Lisa Downing)
 
-*首次发表于 2004 年 9 月 10 日；实质性修订于 2011 年 1 月 19 日*
+_首次发表于 2004 年 9 月 10 日；实质性修订于 2011 年 1 月 19 日_
 
 乔治·贝克莱，克洛因主教，是早期现代哲学家中的一位伟大人物。他是他的前辈，特别是笛卡尔、马勒布朗什和洛克的杰出批评家。他是一位才华横溢的形而上学家，以捍卫唯心主义而闻名，即现实仅由思想和意识构成的观点。贝克莱的体系虽然让许多人感到违反直觉，但足够强大和灵活，能够应对大多数反对意见。他最受研究的作品《人类知识原理论》（简称《原理》）和《海拉斯与菲洛纳斯之间的三个对话》（简称《对话》）写得精美，充满了令当代哲学家欣喜的论证。他还是一位广泛思考的学者，对宗教（这对他的哲学动机至关重要）、视觉心理学、数学、物理学、道德、经济学和医学都有兴趣。尽管贝克莱的最初读者对他的作品感到难以理解，但他影响了休谟和康德，并且在我们今天也被广泛阅读（尽管很少有人追随他的观点）。
 
@@ -29,9 +29,9 @@
 *
   4. 其他重要的哲学作品 \[暂不可用]
 * 4.1 贝克莱关于视觉的作品
-* 4.2 *De Motu* 和 乔治·贝克莱 的牛顿主义
-* 4.3 *Alciphron*
-* 4.4 *Siris*
+* 4.2 _De Motu_ 和 乔治·贝克莱 的牛顿主义
+* 4.3 _Alciphron_
+* 4.4 _Siris_
 * [参考文献](https://plato.stanford.edu/entries/berkeley/#Bib)
 * [学术工具](https://plato.stanford.edu/entries/berkeley/#Aca)
 * [Other Internet Resources](https://plato.stanford.edu/entries/berkeley/#Oth)
@@ -45,9 +45,9 @@
 
 贝克莱的第一部重要著作是《论视觉新理论》（1709 年），它对视觉心理学做出了有影响力的贡献，并发展了与他的唯心主义项目相关的学说。在他二十多岁时，他发表了他最持久的作品，《人类知识原理论》（1710 年）和《海拉斯与菲洛努斯的三次对话》（1713 年），我们将在下面探讨它们的核心学说。
 
-在 1720 年，当作为一名年轻人的导师完成了为期四年的欧洲之旅时，伯克利撰写了《论运动》（*De Motu*），这是一篇关于力学哲学基础的论文，阐述了他对科学哲学的观点，并提出了一种工具主义的牛顿力学方法。欧洲之旅结束后，伯克利回到爱尔兰，并在三一学院恢复了他的职位，直到 1724 年，他被任命为德里主教。此时，伯克利开始制定他在百慕大建立一所学院的计划。他相信欧洲正在精神上衰败，而新大陆为新的黄金时代提供了希望。在获得英国议会的特许状和资金承诺后，伯克利于 1728 年与新婚妻子安妮·福斯特一起启航前往美洲。他们在罗德岛的纽波特度过了三年，等待承诺的资金，但伯克利的政治支持已经崩溃，他们被迫放弃了这个项目，并于 1731 年返回英国。在美国期间，伯克利撰写了《阿尔西弗隆》（*Alciphron*），这是一部针对他认为是英国国教的敌人的“自由思想家”的基督教辩护作品。《阿尔西弗隆》也是一部重要的哲学作品，是伯克利关于语言观点的重要来源。
+在 1720 年，当作为一名年轻人的导师完成了为期四年的欧洲之旅时，伯克利撰写了《论运动》（_De Motu_），这是一篇关于力学哲学基础的论文，阐述了他对科学哲学的观点，并提出了一种工具主义的牛顿力学方法。欧洲之旅结束后，伯克利回到爱尔兰，并在三一学院恢复了他的职位，直到 1724 年，他被任命为德里主教。此时，伯克利开始制定他在百慕大建立一所学院的计划。他相信欧洲正在精神上衰败，而新大陆为新的黄金时代提供了希望。在获得英国议会的特许状和资金承诺后，伯克利于 1728 年与新婚妻子安妮·福斯特一起启航前往美洲。他们在罗德岛的纽波特度过了三年，等待承诺的资金，但伯克利的政治支持已经崩溃，他们被迫放弃了这个项目，并于 1731 年返回英国。在美国期间，伯克利撰写了《阿尔西弗隆》（_Alciphron_），这是一部针对他认为是英国国教的敌人的“自由思想家”的基督教辩护作品。《阿尔西弗隆》也是一部重要的哲学作品，是伯克利关于语言观点的重要来源。
 
-返回伦敦后不久，伯克利撰写了《视觉的理论，被证明和解释》（*Theory of Vision, Vindicated and Explained*），这是对他早期关于视觉的工作的辩护，以及《分析家》（*Analyst*），对牛顿微积分基础的敏锐而有影响力的批评。1734 年，他被任命为克洛因主教，因此返回爱尔兰。正是在这里，伯克利写下了他最后、最奇特且在他有生之年最畅销的哲学作品。《塔尔水》（*Siris*）（1744）有三个目标：建立松香水（一种将松香浸泡在水中制成的液体）作为医学万灵药的优点，提供支持松香水功效的科学背景，并通过逐步引导读者的思维，使其沉思上帝。伯克利于 1753 年去世，不久之前他搬到牛津监督他的儿子乔治的教育，他的七个孩子中只有三个幸存到了成年。
+返回伦敦后不久，伯克利撰写了《视觉的理论，被证明和解释》（_Theory of Vision, Vindicated and Explained_），这是对他早期关于视觉的工作的辩护，以及《分析家》（_Analyst_），对牛顿微积分基础的敏锐而有影响力的批评。1734 年，他被任命为克洛因主教，因此返回爱尔兰。正是在这里，伯克利写下了他最后、最奇特且在他有生之年最畅销的哲学作品。《塔尔水》（_Siris_）（1744）有三个目标：建立松香水（一种将松香浸泡在水中制成的液体）作为医学万灵药的优点，提供支持松香水功效的科学背景，并通过逐步引导读者的思维，使其沉思上帝。伯克利于 1753 年去世，不久之前他搬到牛津监督他的儿子乔治的教育，他的七个孩子中只有三个幸存到了成年。
 
 ## 2. 伯克利在《原理》和《对话》中对唯物主义的批判
 
@@ -153,11 +153,11 @@
 
 正如本段所示，伯克利并不否认石头、树木、书籍和苹果等普通物体的存在。相反，正如上面所指出的，他认为只有对这些物体进行非物质主义的描述才能避免对它们存在和本质的怀疑。根据他的观点，这些物体实际上是一系列或一组观念的结合体。苹果是视觉观念（包括颜色和视觉形状的感性特质）、可触摸的观念、味道、气味等观念的组合\[[12](https://plato.stanford.edu/entries/berkeley/notes.html#12)]。关于这些观念如何结合的问题是一个哲学上有趣的问题，伯克利并没有详细讨论。他确实明确指出，将观念捆绑成物体的过程有两个方面：（1）共同出现，这是一个客观事实，关于我们的经验中哪些类型的观念往往伴随彼此出现；（2）当我们决定将一组共同出现的观念单独提出并用特定的名称指代时，我们所做的事情（NTV 109）。
 
-因此，虽然对于伯克利来说没有物质世界，但存在着一个物理世界，一个普通物体的世界。这个世界是依赖于心灵的，因为它由观念组成，其存在就在于被感知。对于观念和物理世界来说，*存在即被感知*。
+因此，虽然对于伯克利来说没有物质世界，但存在着一个物理世界，一个普通物体的世界。这个世界是依赖于心灵的，因为它由观念组成，其存在就在于被感知。对于观念和物理世界来说，_存在即被感知_。
 
 #### 3.1.2 作为主动实体的灵魂
 
-乔治·贝克莱的本体论并不仅限于理念。除了感知的事物（理念）之外，他还假设存在感知者，即心智或*灵魂*，他经常这样称呼它们。他强调，灵魂在本质上与理念完全不同，因为它们是主动的，而理念是被动的。这表明贝克莱用心智和理念的二元论取代了心智和物质的另一种二元论。贝克莱拒绝详细阐述主动心智和被动理念之间的关系，这一点是有道理的。在《原理》第 49 条中，他以著名的方式驳斥了关于理念如何存在于心智中（当这些可感知的品质“存在于”它们时，心智是否有颜色和延展性？）的争论，他宣称“这些品质只有在心智中被感知时才存在于其中，也就是说，并非通过*模式*或*属性*的方式，而仅仅通过*理念*的方式”。然而，贝克莱的二元论是在依赖于心智的领域内的二元论。
+乔治·贝克莱的本体论并不仅限于理念。除了感知的事物（理念）之外，他还假设存在感知者，即心智或_灵魂_，他经常这样称呼它们。他强调，灵魂在本质上与理念完全不同，因为它们是主动的，而理念是被动的。这表明贝克莱用心智和理念的二元论取代了心智和物质的另一种二元论。贝克莱拒绝详细阐述主动心智和被动理念之间的关系，这一点是有道理的。在《原理》第 49 条中，他以著名的方式驳斥了关于理念如何存在于心智中（当这些可感知的品质“存在于”它们时，心智是否有颜色和延展性？）的争论，他宣称“这些品质只有在心智中被感知时才存在于其中，也就是说，并非通过_模式_或_属性_的方式，而仅仅通过_理念_的方式”。然而，贝克莱的二元论是在依赖于心智的领域内的二元论。
 
 #### 3.1.3 上帝的存在
 
@@ -187,7 +187,7 @@
 
 #### 3.2.1 真实的事物与想象的事物
 
-也许对唯心主义最明显的反对意见是，它使得真实的事物与想象的事物没有区别——两者都似乎是我们自己心灵中短暂的幻象，而不是唯物主义者所说的坚实的物体。伯克利回应道，在他的观点上，真实事物与虚构事物之间的区别仍然具有完全的力量。一种区分的方法是通过他上面讨论的对上帝存在的论证提出的：依赖于我们有限的人类意志的观念不是（真实事物的组成部分）。因此，不自愿是成为真实事物的必要条件，但显然不足以成为充分条件，因为幻觉和梦境并不依赖于我们的意志，但仍然不是真实的。伯克利指出，构成真实事物的观念表现出一种稳定性、生动性和清晰性，而虚构的观念则没有。然而，他指出的最关键的特征是*秩序*。自然之作者印刻在*rerum natura*中的观念按照自然法则（“我们依赖的心灵在我们身上激发感官观念的设定规则或既定方法被称为自然法则”PHK 30）出现在规律的模式中。因此，它们是规律和连贯的，也就是说，它们构成了一个连贯的真实世界。
+也许对唯心主义最明显的反对意见是，它使得真实的事物与想象的事物没有区别——两者都似乎是我们自己心灵中短暂的幻象，而不是唯物主义者所说的坚实的物体。伯克利回应道，在他的观点上，真实事物与虚构事物之间的区别仍然具有完全的力量。一种区分的方法是通过他上面讨论的对上帝存在的论证提出的：依赖于我们有限的人类意志的观念不是（真实事物的组成部分）。因此，不自愿是成为真实事物的必要条件，但显然不足以成为充分条件，因为幻觉和梦境并不依赖于我们的意志，但仍然不是真实的。伯克利指出，构成真实事物的观念表现出一种稳定性、生动性和清晰性，而虚构的观念则没有。然而，他指出的最关键的特征是_秩序_。自然之作者印刻在_rerum natura_中的观念按照自然法则（“我们依赖的心灵在我们身上激发感官观念的设定规则或既定方法被称为自然法则”PHK 30）出现在规律的模式中。因此，它们是规律和连贯的，也就是说，它们构成了一个连贯的真实世界。
 
 #### 3.2.2 Hidden structures and internal mechanisms
 
@@ -227,7 +227,7 @@
 
 所以，当我说我离开办公室后，我的桌子仍然存在，也许我只是指如果我在办公室里，我会感知到它，或者更广泛地说，如果有一个有限的心灵处于适当的环境中（在我的办公室里，灯亮着，眼睛睁开等等），它会感知到桌子的存在。这是为了对未被感知的物体的持续存在提供一种反事实分析。所涉及的反事实的真实性是以规律性为基础的：因为上帝在引发思想的方式上遵循固定的模式，如果我在办公室里，我会有一个桌子的想法。
 
-然而，当与“存在即被感知”（*esse est percipi*）的教义结合时，这种分析会产生违反直觉的后果（McCracken 1979, 286）。如果存在就是被感知，正如伯克利坚持的那样，那么未被感知的桌子就不存在，尽管如果有人打开办公室的门，它将被感知并且存在。因此，在这种观点下，桌子不会持续存在，而是会不断地出现和消失，尽管这样做是相当可预测的。对这个担忧的一种回应是将其驳回——如果桌子在未被感知时停止存在，只要我们需要它时它存在，那又有什么关系呢？伯克利在《原理》第 45-46 条中表现出了这种态度的迹象，他试图证明他的唯物主义对手和学院派前辈们面临着相同的困境。这种对于持续存在问题的“谁在乎？”的回应在某种程度上是公平的，但它肯定与常识相冲突，因此，如果伯克利选择这条路线，他将不得不减弱他关于他的体系能够容纳街上的每个人所需的一切的主张。
+然而，当与“存在即被感知”（_esse est percipi_）的教义结合时，这种分析会产生违反直觉的后果（McCracken 1979, 286）。如果存在就是被感知，正如伯克利坚持的那样，那么未被感知的桌子就不存在，尽管如果有人打开办公室的门，它将被感知并且存在。因此，在这种观点下，桌子不会持续存在，而是会不断地出现和消失，尽管这样做是相当可预测的。对这个担忧的一种回应是将其驳回——如果桌子在未被感知时停止存在，只要我们需要它时它存在，那又有什么关系呢？伯克利在《原理》第 45-46 条中表现出了这种态度的迹象，他试图证明他的唯物主义对手和学院派前辈们面临着相同的困境。这种对于持续存在问题的“谁在乎？”的回应在某种程度上是公平的，但它肯定与常识相冲突，因此，如果伯克利选择这条路线，他将不得不减弱他关于他的体系能够容纳街上的每个人所需的一切的主张。
 
 然而，伯克利在《人类知识原理》第 3 和 48 节中提到了“其他精神”，这暗示了另一种策略，这种策略在一首进一步的打油诗中得到了总结：
 
@@ -267,7 +267,7 @@ Philonous. 什么是可感知的，除了一个观念？一个观念能在没有
 
 从这个讨论中，我们可以得出一个关于普通物体实际存在的标准，这个标准总结了伯克莱的考虑观点：
 
-> 如果上帝拥有与一个有限的心灵在*t*时刻处于适当环境（例如在特定的地方，朝着正确的方向看，或者透过显微镜看），那么它将拥有一个我们倾向于称之为对*X*的感知的思想，那么*X*在*t*时刻存在。
+> 如果上帝拥有与一个有限的心灵在_t_时刻处于适当环境（例如在特定的地方，朝着正确的方向看，或者透过显微镜看），那么它将拥有一个我们倾向于称之为对_X_的感知的思想，那么_X_在_t_时刻存在。
 
 这一观点捕捉到存在依赖于上帝的感知的想法，但仅依赖于与他关于我们应该感知的感知相对应或包含在其中的感知。它还捕捉到了将思想捆绑成对象的事实是由我们完成的。\[[22](https://plato.stanford.edu/entries/berkeley/notes.html#22)]
 
@@ -327,80 +327,80 @@ S 有力量和意愿之间的区别。可以有意愿而没有力量。但是没
 
 The standard edition of Berkeley’s works is:
 
-* Berkeley, G. (1948–1957). *The Works of George Berkeley, Bishop of Cloyne*. A.A. Luce and T.E. Jessop (eds.). London: Thomas Nelson and Sons. 9 vols.
+* Berkeley, G. (1948–1957). _The Works of George Berkeley, Bishop of Cloyne_. A.A. Luce and T.E. Jessop (eds.). London: Thomas Nelson and Sons. 9 vols.
 
 The following abbreviations are used to reference Berkeley’s works:
 
-| PC  | “Philosophical Commentaries”                                                                                     | *Works* 1:9–104   |
+| PC  | “Philosophical Commentaries”                                                                                     | _Works_ 1:9–104   |
 | --- | ---------------------------------------------------------------------------------------------------------------- | ----------------- |
-| NTV | *An Essay Towards a New Theory of Vision*                                                                        | *Works* 1:171–239 |
-| PHK | *Of the Principles of Human Knowledge: Part 1*                                                                   | *Works* 2:41–113  |
-| 3D  | *Three Dialogues between Hylas and Philonous*                                                                    | *Works* 2:163–263 |
-| DM  | *De Motu, or The Principle and Nature of Motion and the Cause of the Communication of Motions*, trans. A.A. Luce | *Works* 4:31–52   |
+| NTV | _An Essay Towards a New Theory of Vision_                                                                        | _Works_ 1:171–239 |
+| PHK | _Of the Principles of Human Knowledge: Part 1_                                                                   | _Works_ 2:41–113  |
+| 3D  | _Three Dialogues between Hylas and Philonous_                                                                    | _Works_ 2:163–263 |
+| DM  | _De Motu, or The Principle and Nature of Motion and the Cause of the Communication of Motions_, trans. A.A. Luce | _Works_ 4:31–52   |
 
 References to these works are by section numbers (or entry numbers, for PC), except for 3D, where they are by page number.
 
 Other useful editions include:
 
-* Berkeley, G. (1944). *Philosophical commentaries, generally called the Commonplace book \[of] George Berkeley, bishop of Cloyne*. A.A. Luce (ed.). London: Thomas Nelson and Sons.
-* Berkeley, G. (1975). *Philosophical Works; Including the Works on Vision*. M. Ayers (ed.). London: Dent.
-* Berkeley, G. (1987). *George Berkeley’s Manuscript Introduction*. B. Belfrage (ed.). Oxford: Doxa.
-* Berkeley, G. (1992). *De Motu and The Analyst: A Modern Edition with Introductions and Commentary*. D. Jesseph (trans. and ed.). Dordrecht: Kluwer Academic Publishers.
+* Berkeley, G. (1944). _Philosophical commentaries, generally called the Commonplace book \[of] George Berkeley, bishop of Cloyne_. A.A. Luce (ed.). London: Thomas Nelson and Sons.
+* Berkeley, G. (1975). _Philosophical Works; Including the Works on Vision_. M. Ayers (ed.). London: Dent.
+* Berkeley, G. (1987). _George Berkeley’s Manuscript Introduction_. B. Belfrage (ed.). Oxford: Doxa.
+* Berkeley, G. (1992). _De Motu and The Analyst: A Modern Edition with Introductions and Commentary_. D. Jesseph (trans. and ed.). Dordrecht: Kluwer Academic Publishers.
 
 A collection, useful to students, of primary texts constituting background to Berkeley or early critical reactions to Berkeley:
 
-* McCracken, C. J. and I. C. Tipton (eds.), (2000). *Berkeley’s Principles and Dialogues: Background Source Materials*, Cambridge: Cambridge University Press.
+* McCracken, C. J. and I. C. Tipton (eds.), (2000). _Berkeley’s Principles and Dialogues: Background Source Materials_, Cambridge: Cambridge University Press.
 
 ### Bibliographical studies
 
-* Jessop, T. E. (1973). *A bibliography of George Berkeley, by T.E. Jessop. With inventory of Berkeley’s manuscript remains, by A.A. Luce*. The Hague: M. Nijhoff.
-* Turbayne, C., Ed. (1982). *Berkeley: Critical and Interpretive Essays*. Minneapolis: University of Minnesota Press. \[Contains a bibliography of George Berkeley 1963–1979.]
+* Jessop, T. E. (1973). _A bibliography of George Berkeley, by T.E. Jessop. With inventory of Berkeley’s manuscript remains, by A.A. Luce_. The Hague: M. Nijhoff.
+* Turbayne, C., Ed. (1982). _Berkeley: Critical and Interpretive Essays_. Minneapolis: University of Minnesota Press. \[Contains a bibliography of George Berkeley 1963–1979.]
 
 ### References cited
 
-* Atherton, M. (1987). “Berkeley’s Anti-Abstractionism.” In *Essays on the Philosophy of George Berkeley*. E. Sosa (ed.). Dordrecht: D. Reidel, 85–102.
-* Atherton, M. (1990). *Berkeley’s Revolution in Vision*. Ithaca: Cornell University Press.
-* Atherton, M., Ed. (1994). *Women Philosophers of the Early Modern Period*. Indianapolis: Hackett.
-* Atherton, M. (1995). “Berkeley Without God.” In *Berkeley’s Metaphysics: Structural, Interpretive, and Critical Essays*. R. G. Muehlmann (ed.). University Park: Pennsylvania State University Press, 231–248.
-* Bennett, J. (1971). *Locke, Berkeley, Hume: Central Themes*. Oxford: Clarendon Press.
-* Bolton, M. B. (1987). “Berkeley’s Objection to Abstract Ideas and Unconceived Objects.” In *Essays on the Philosophy of George Berkeley*. E. Sosa (ed.). Dordrecht: D. Reidel.
-* Bracken, H. M. (1965). *The Early Reception of Berkeley’s Immaterialism 1710–1733*. The Hague: Martinus Nijhoff.
-* Campbell, J. (2002). “Berkeley’s Puzzle.” In *Conceivability and Possibility*. T. S. Gendler and J. Hawthorne (eds.). Oxford: Oxford University Press, 127–143.
-* Chappell, V. (1994). “Locke’s theory of ideas.” In *The Cambridge Companion to Locke*. V. Chappell (ed.). Cambridge: Cambridge University Press, 26–55.
-* Cummins, P. (1990). “Berkeley’s Manifest Qualities Thesis.” *Journal of the History of Philosophy*, 28: 385–401.
-* Downing, L. (2005). “Berkeley’s Natural Philosophy and Philosophy of Science.” In *The Cambridge Companion to Berkeley*. K. P. Winkler (ed.). Cambridge: Cambridge University Press.
-* Fleming, N. (1985). “The Tree in the Quad.” *American Philosophical Quarterly*, 22: 22–36.
-* Gallois, A. (1974). “Berkeley’s Master Argument.” *The Philosophical Review*, 83: 55–69.
-* Jesseph, D. (1993). *Berkeley’s Philosophy of Mathematics*. Chicago: University of Chicago Press.
-* Lennon, T. M. (1988). “Berkeley and the Ineffable.” *Synthese*, 75: 231–250.
-* Locke, J. (1975). *An Essay Concerning Human Understanding*. Oxford: Clarendon Press.
-* Luce, A. A. (1963). *The Dialectic of Immaterialism*. London: Hodder & Stoughten.
-* Malebranche, N. (1980). *The Search After Truth*. Columbus: The Ohio State University Press.
-* McCracken, C. (1979). “What *Does* Berkeley’s God See in the Quad?” *Archiv fur Geschichte der Philosophie*, 61: 280–92.
-* McCracken, C. J. (1995). “Godless Immaterialism: On Atherton’s Berkeley.” In *Berkeley’s Metaphysics: Structural, Interpretive, and Critical Essays*. R. G. Muehlmann (ed.). University Park: Pennsylvania State University Press, 249–260.
-* McKim, R. (1997–8). “Abstraction and Immaterialism: Recent Interpretations.” *Berkeley Newsletter*, 15: 1–13.
-* Muehlmann, R. G. (1992). *Berkeley’s Ontology*. Indianapolis: Hackett.
-* Nadler, S. (1998). “Doctrines of Explanation in Late Scholasticism and in the Mechanical Philosophy.” In *The Cambridge History of Seventeenth-Century Philosophy* (Volume 1). D. Garber and M. Ayers (eds.). Cambridge: Cambridge University Press, 513–552.
-* Pappas, G. S. (2000). *Berkeley’s Thought*. Ithaca: Cornell University Press.
-* Pitcher, G. (1977). *Berkeley*. London: Routledge.
-* Saidel, E. (1993). “Making Sense of Berkeley’s Challenge.” *History of Philosophy Quarterly*, 10 (4): 325–339.
-* Tipton, I. C. (1974). *Berkeley: The Philosophy of Immaterialism*. London: Methuen & Co Ltd.
-* Wilson, M. D. (1999). *Ideas and mechanism: essays on early modern philosophy*. Princeton: Princeton University Press.
-* Winkler, K. P. (1989). *Berkeley: An Interpretation*. Oxford: Clarendon Press.
-* Winkler, K. P. (2005). *The Cambridge Companion to Berkeley*. Cambridge: Cambridge University Press.
-* Yolton, J. W. (1984). *Perceptual Acquaintance from Descartes to Reid*. Minneapolis: University of Minnesota Press.
+* Atherton, M. (1987). “Berkeley’s Anti-Abstractionism.” In _Essays on the Philosophy of George Berkeley_. E. Sosa (ed.). Dordrecht: D. Reidel, 85–102.
+* Atherton, M. (1990). _Berkeley’s Revolution in Vision_. Ithaca: Cornell University Press.
+* Atherton, M., Ed. (1994). _Women Philosophers of the Early Modern Period_. Indianapolis: Hackett.
+* Atherton, M. (1995). “Berkeley Without God.” In _Berkeley’s Metaphysics: Structural, Interpretive, and Critical Essays_. R. G. Muehlmann (ed.). University Park: Pennsylvania State University Press, 231–248.
+* Bennett, J. (1971). _Locke, Berkeley, Hume: Central Themes_. Oxford: Clarendon Press.
+* Bolton, M. B. (1987). “Berkeley’s Objection to Abstract Ideas and Unconceived Objects.” In _Essays on the Philosophy of George Berkeley_. E. Sosa (ed.). Dordrecht: D. Reidel.
+* Bracken, H. M. (1965). _The Early Reception of Berkeley’s Immaterialism 1710–1733_. The Hague: Martinus Nijhoff.
+* Campbell, J. (2002). “Berkeley’s Puzzle.” In _Conceivability and Possibility_. T. S. Gendler and J. Hawthorne (eds.). Oxford: Oxford University Press, 127–143.
+* Chappell, V. (1994). “Locke’s theory of ideas.” In _The Cambridge Companion to Locke_. V. Chappell (ed.). Cambridge: Cambridge University Press, 26–55.
+* Cummins, P. (1990). “Berkeley’s Manifest Qualities Thesis.” _Journal of the History of Philosophy_, 28: 385–401.
+* Downing, L. (2005). “Berkeley’s Natural Philosophy and Philosophy of Science.” In _The Cambridge Companion to Berkeley_. K. P. Winkler (ed.). Cambridge: Cambridge University Press.
+* Fleming, N. (1985). “The Tree in the Quad.” _American Philosophical Quarterly_, 22: 22–36.
+* Gallois, A. (1974). “Berkeley’s Master Argument.” _The Philosophical Review_, 83: 55–69.
+* Jesseph, D. (1993). _Berkeley’s Philosophy of Mathematics_. Chicago: University of Chicago Press.
+* Lennon, T. M. (1988). “Berkeley and the Ineffable.” _Synthese_, 75: 231–250.
+* Locke, J. (1975). _An Essay Concerning Human Understanding_. Oxford: Clarendon Press.
+* Luce, A. A. (1963). _The Dialectic of Immaterialism_. London: Hodder & Stoughten.
+* Malebranche, N. (1980). _The Search After Truth_. Columbus: The Ohio State University Press.
+* McCracken, C. (1979). “What _Does_ Berkeley’s God See in the Quad?” _Archiv fur Geschichte der Philosophie_, 61: 280–92.
+* McCracken, C. J. (1995). “Godless Immaterialism: On Atherton’s Berkeley.” In _Berkeley’s Metaphysics: Structural, Interpretive, and Critical Essays_. R. G. Muehlmann (ed.). University Park: Pennsylvania State University Press, 249–260.
+* McKim, R. (1997–8). “Abstraction and Immaterialism: Recent Interpretations.” _Berkeley Newsletter_, 15: 1–13.
+* Muehlmann, R. G. (1992). _Berkeley’s Ontology_. Indianapolis: Hackett.
+* Nadler, S. (1998). “Doctrines of Explanation in Late Scholasticism and in the Mechanical Philosophy.” In _The Cambridge History of Seventeenth-Century Philosophy_ (Volume 1). D. Garber and M. Ayers (eds.). Cambridge: Cambridge University Press, 513–552.
+* Pappas, G. S. (2000). _Berkeley’s Thought_. Ithaca: Cornell University Press.
+* Pitcher, G. (1977). _Berkeley_. London: Routledge.
+* Saidel, E. (1993). “Making Sense of Berkeley’s Challenge.” _History of Philosophy Quarterly_, 10 (4): 325–339.
+* Tipton, I. C. (1974). _Berkeley: The Philosophy of Immaterialism_. London: Methuen & Co Ltd.
+* Wilson, M. D. (1999). _Ideas and mechanism: essays on early modern philosophy_. Princeton: Princeton University Press.
+* Winkler, K. P. (1989). _Berkeley: An Interpretation_. Oxford: Clarendon Press.
+* Winkler, K. P. (2005). _The Cambridge Companion to Berkeley_. Cambridge: Cambridge University Press.
+* Yolton, J. W. (1984). _Perceptual Acquaintance from Descartes to Reid_. Minneapolis: University of Minnesota Press.
 
 ### Additional Selected Secondary Literature
 
-* Berman, D. (1994). *George Berkeley: Idealism and the Man*. Oxford: Clarendon Press.
-* Bettcher, Talia Mae (2007). *Berkeley’s Philosophy of Spirit: Consciousness, Ontology and the Elusive Subject*. London: Continuum.
-* Creery, W. E., Ed. (1991). *George Berkeley: Critical Assessments*. London: Routledge. 3 vols.
-* Daniel, Stephen H., Ed. (2007). *Reexamining Berkeley’s Philosophy*. Toronto: University of Toronto Press.
-* Fogelin, R. J. (2001). *Berkeley and the Principles of Human Knowledge*. London: Routledge.
-* Foster, J. and H. Robinson, Eds. (1985). *Essays on Berkeley: A Tercentennial Celebration*. Oxford: Clarendon Press.
-* Roberts, John Russell (2007). *A Metaphysics for the Mob*. Oxford: Oxford University Press.
-* Stoneham, T. (2002). *Berkeley’s World*. Oxford: Oxford University Press.
-* Urmson, J. O. (1982). *Berkeley*. Oxford: Oxford University Press.
+* Berman, D. (1994). _George Berkeley: Idealism and the Man_. Oxford: Clarendon Press.
+* Bettcher, Talia Mae (2007). _Berkeley’s Philosophy of Spirit: Consciousness, Ontology and the Elusive Subject_. London: Continuum.
+* Creery, W. E., Ed. (1991). _George Berkeley: Critical Assessments_. London: Routledge. 3 vols.
+* Daniel, Stephen H., Ed. (2007). _Reexamining Berkeley’s Philosophy_. Toronto: University of Toronto Press.
+* Fogelin, R. J. (2001). _Berkeley and the Principles of Human Knowledge_. London: Routledge.
+* Foster, J. and H. Robinson, Eds. (1985). _Essays on Berkeley: A Tercentennial Celebration_. Oxford: Clarendon Press.
+* Roberts, John Russell (2007). _A Metaphysics for the Mob_. Oxford: Oxford University Press.
+* Stoneham, T. (2002). _Berkeley’s World_. Oxford: Oxford University Press.
+* Urmson, J. O. (1982). _Berkeley_. Oxford: Oxford University Press.
 
 ## Academic Tools
 
@@ -420,4 +420,4 @@ A collection, useful to students, of primary texts constituting background to Be
 [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/)
 
 [Copyright © 2011](https://plato.stanford.edu/info.html#c) by\
-[Lisa Downing](https://philosophy.osu.edu/people/downing.110) <[*downing.110@osu.edu*](mailto:downing%2e110%40osu%2eedu)>
+[Lisa Downing](https://philosophy.osu.edu/people/downing.110) <[_downing.110@osu.edu_](mailto:downing%2e110%40osu%2eedu)>

@@ -1,6 +1,6 @@
 # 约翰·奥斯汀 Austin, John (Brian Bix)
 
-*首次发表于 2001 年 2 月 24 日；实质性修订于 2022 年 1 月 14 日*
+_首次发表于 2001 年 2 月 24 日；实质性修订于 2022 年 1 月 14 日_
 
 约翰·奥斯汀被许多人认为是分析法学派的创始人，以及更具体地说，被称为“法律实证主义”的法律方法的创始人。奥斯汀的特定命令理论受到了广泛的批评，但其简单性赋予了它一种引人入胜的力量，继续吸引着追随者。
 
@@ -56,13 +56,13 @@
 
 第四，奥斯汀的法律实证主义版本，即“命令理论”（将在下一节详细介绍），在一段时间内也具有相当的影响力。奥斯汀的理论与杰里米·边沁的观点有相似之处，后者的理论也可以被描述为“命令理论”。边沁在一本遗著中将法律定义为：
 
-> 由国家的*君主*构思或采纳的意愿的标志集合，涉及在某种*情况*下由某个人或某类人采取的行为，这些人在该情况下被认为是或被假定是受其权力支配的：这样的意愿依赖于某些事件的预期，这些事件是该声明在适当时候应该实现的手段，并且对于那些行为受到质疑的人来说，这些事件的前景应该作为动机（Bentham 1970: p. 1）。
+> 由国家的_君主_构思或采纳的意愿的标志集合，涉及在某种_情况_下由某个人或某类人采取的行为，这些人在该情况下被认为是或被假定是受其权力支配的：这样的意愿依赖于某些事件的预期，这些事件是该声明在适当时候应该实现的手段，并且对于那些行为受到质疑的人来说，这些事件的前景应该作为动机（Bentham 1970: p. 1）。
 
 然而，奥斯汀的命令理论比本丹姆的更有影响力，因为后者的法学著作直到奥斯汀的作品已经出版很久之后才以近似系统的形式出现，本丹姆最系统的讨论直到 20 世纪末才在他去世后出版（Bentham 1970, 1996; Cotterrell 2003: p. 50）。
 
 ## 3. 约翰·奥斯汀的观点
 
-约翰·奥斯汀的基本方法是确定关于所有法律的一般性但仍然有趣的内容。奥斯汀的分析可以被看作是分析哲学的典范或者漫画，因为他的讨论干燥而充满细节，但在论证方面则较为薄弱。现代读者被迫填补许多元理论和证明性工作，因为这些内容在文本中找不到。奥斯汀确实阐述了他的方法和目标，它是一个相当传统的方法：他“努力将一个*法律*（以该术语*适当地*给予的最大意义）分解为其所组成的必要和基本要素”（奥斯汀 1832 年：第五讲，第 117 页）。
+约翰·奥斯汀的基本方法是确定关于所有法律的一般性但仍然有趣的内容。奥斯汀的分析可以被看作是分析哲学的典范或者漫画，因为他的讨论干燥而充满细节，但在论证方面则较为薄弱。现代读者被迫填补许多元理论和证明性工作，因为这些内容在文本中找不到。奥斯汀确实阐述了他的方法和目标，它是一个相当传统的方法：他“努力将一个_法律_（以该术语_适当地_给予的最大意义）分解为其所组成的必要和基本要素”（奥斯汀 1832 年：第五讲，第 117 页）。
 
 关于法律的核心本质，奥斯汀的回答是法律（“适当地所称之”）是主权者的命令。他通过分析定义的组成概念，并区分法律与其他类似概念，来阐明正法（即人造法）的概念：
 
@@ -88,7 +88,7 @@
 
 首先，在许多社会中，很难确定奥斯汀所说的“主权者”（奥斯汀自己也曾经历过这种困难，当他被迫将英国的“主权者”笨拙地描述为国王、上议院和下议院选民的组合）。此外，专注于“主权者”使得解释法律体系的连续性变得困难：新的统治者不会带着奥斯汀设定的系统规则制定者的“服从习惯”而来。
 
-对于那些想要捍卫奥斯汀的人来说，有几种回应可供选择。首先，一些评论家认为奥斯汀在这里被误解了，他总是指的是“通过君主的*职位*或*机构*来体现至高无上的权威；而不是那些碰巧担任该职位或体现该机构的个人”（Cotterrell 2003: p. 63，省略了脚注）；奥斯汀的讲座中确实有一些支持这种解读的部分（例如，奥斯汀 1832 年：第五讲，第 128-29 页；第六讲，第 218 页）。
+对于那些想要捍卫奥斯汀的人来说，有几种回应可供选择。首先，一些评论家认为奥斯汀在这里被误解了，他总是指的是“通过君主的_职位_或_机构_来体现至高无上的权威；而不是那些碰巧担任该职位或体现该机构的个人”（Cotterrell 2003: p. 63，省略了脚注）；奥斯汀的讲座中确实有一些支持这种解读的部分（例如，奥斯汀 1832 年：第五讲，第 128-29 页；第六讲，第 218 页）。
 
 其次，可以争论（参见哈里斯 1977 年）君主最好被理解为一种建设性的隐喻：法律应被视为反映单一意志的观点（类似的观点，即法律应被解释为源自单一意志，可以在罗纳德·德沃金的作品中找到（1986 年：第 176-190 页））。
 
@@ -118,53 +118,53 @@
 
 ### Primary Sources
 
-* Austin, John, 1832, *The Province of Jurisprudence Determined*, W. Rumble (ed.), Cambridge: Cambridge University Press, 1995.
-* –––, 1879, *Lectures on Jurisprudence*, or *The Philosophy of Positive Law*, 2 volumes, R. Campbell (ed.), 4th edition, revised, London: John Murray; reprinted, Bristol: Thoemmes Press, 2002.
+* Austin, John, 1832, _The Province of Jurisprudence Determined_, W. Rumble (ed.), Cambridge: Cambridge University Press, 1995.
+* –––, 1879, _Lectures on Jurisprudence_, or _The Philosophy of Positive Law_, 2 volumes, R. Campbell (ed.), 4th edition, revised, London: John Murray; reprinted, Bristol: Thoemmes Press, 2002.
 
 ### Secondary Sources
 
-* Bentham, Jeremy, 1789, *An Introduction to the Principles of Morals and Legislation*, J. H. Burns & H.L.A. Hart (eds.), Oxford: Oxford University Press, 1996.
-* –––, 1970, *Of Laws in General*, H.L.A. Hart (ed.), London: Athlone Press.
-* Bix, Brian H., 1999, “Positively Positivism,” *Virginia Law Review*, 75: 1613–1624.
-* Chilovi, Samuele and Wodak, Daniel, 2021, “On the (In)significance of Hume’s Law,” *Philosophical Studies*, first online 29 June 2021. doi:10.1007/s11098-021-01674-5
-* Clark, E. C., 1883, *Practical Jurisprudence: A Comment on Austin*, Cambridge: Cambridge University Press.
-* Cliffe Leslie, T. E., 1864, “Modern Phases of Jurisprudence in England,” *Westminster Review*, 26: 261–76 \[U.S. edition, 162: 125–132].
-* Cosgrove, Richard A., 1996, *Scholars of the Law: English Jurisprudence from Blackstone to Hart*, New York: New York University Press.
-* Cotterrell, Roger, 2003, *The Politics of Jurisprudence: A Critical Introduction to Legal Philosophy*, 2nd edition, London: LexisNexis.
-* Dewey, James, 1894, “Austin’s Theory of Sovereignty,” *Political Science Quarterly*, 9: 31–52.
-* Duxbury, Neil, 2005, “English Jurisprudence Between Austin and Hart,” *Virginia Law Review*, 91: 1–91.
-* Dworkin, Ronald, 1986, *Law’s Empire*, Cambridge, MA: Harvard University Press.
-* Finnis, John, 2000a, “On the Incoherence of Legal Positivism,” *Notre Dame Law Review*, 75: 1597–1611.
-* –––, 2000b, “The Truth in Legal Positivism,” in *The Autonomy of Law*, Robert P. George (ed.), Oxford: Clarendon Press, pp. 195–214.
-* Freeman, Michael & Mindus, Patricia (eds.) 2013, *The Legacy of John Austin’s Jurisprudence*, Dordrecht: Springer.
-* Halpin, Andrew, 2013, “Austin’s Methodology? His Bequest to Jurisprudence,” in Michael Freeman & Patricia Mindus (eds.) 2013, *The Legacy of John Austin’s Jurisprudence*, Dordrecht: Springer, pp. 15–40.
-* Hamburger, Lotte & Joseph, 1985, *Troubled Lives: John and Sarah Austin*, Toronto: University of Toronto Press.
-* –––, 1992, *Contemplating Adultery: The Secret Life of a Victorian Woman*, London: Macmillan.
-* Harris, J.W., 1977, “The Concept of Sovereign Will,” *Acta Juridica* (Essays in Honour of Ben Beinart, Volume II), Cape Town: Juta & Co., 1979, pp. 1–15.
-* Hart, H.L.A., 1954, “Introduction” to John Austin, *The Province of Jurisprudence Determined*, H.L.A. Hart (ed.), London: Weidenfeld & Nicolson, pp. vii–xxi.
-* –––, 1958, “Positivism and the Separation of Law and Morals,”*Harvard Law Review*, 71: 593–629.
-* –––, 2012, *The Concept of Law*, 3rd edition, Oxford: Oxford University Press.
-* Hobbes, Thomas, 1651, *Leviathan*, Richard Tuck (ed.), Cambridge: Cambridge University Press, 1996.
-* Hume, David, 1739, *A Treatise of Human Nature*, David Fate Norton & Mary J. Norton (eds.), Oxford: Oxford University Press, 2000.
-* Kelsen, Hans, 1941, “The Pure Theory of Law and Analytical Jurisprudence,” *Harvard Law Review*, 55: 44–70.
-* Leiter, Brian, 2007, *Naturalizing Jurisprudence*, Oxford: Oxford University Press.
-* Leiter, Brian and Etchemendy, Matthew X., “Naturalism in Legal Philosophy,” *The Stanford Encyclopedia of Philosophy* (Fall 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2021/entries/lawphil-naturalism/](https://plato.stanford.edu/archives/fall2021/entries/lawphil-naturalism/).
-* Lobban, Michael, 1991, *The Common Law and English Jurisprudence 1760–1850*, Oxford: Clarendon Press.
-* –––, 2013, “Austin and the Germans,” in Michael Freeman & Patricia Mindus (eds.), *The Legacy of John Austin’s Jurisprudence*, Dordrecht: Springer, pp. 255–270.
-* Mill, John Stuart, 1863, “Austin on Jurisprudence,” *Edinburgh Review*, 118 (October): 439–82 \[U.S. edition, 118: 222–244].
-* Moles, Robert N., 1987, *Definition and Rule in Legal Theory: A Reassessment of H.L.A. Hart and the Positivist Tradition*, Oxford: Basil Blackwell.
-* Morison, W. L., 1982, *John Austin*, Stanford: Stanford University Press.
-* Postema, Gerald J., 2011, *Legal Philosophy in the Twentieth Century: The Common Law World*, Dordrecht: Springer.
-* Rumble, W. E., 1985, *The Thought of John Austin: Jurisprudence, Colonial Reform, and the British Constitution*, London: Athlone Press.
-* –––, 1995, “Introduction,” in W. Rumble (ed.), *Austin: The Province of Jurisprudence Determined*, Cambridge: Cambridge University Press, pp. vii–xxiv.
-* –––, 2005, *Doing Austin Justice: The Reception of John Austin’s Philosophy of Law in Nineteenth-Century England*, London: Continuum.
-* –––, 2013, “Did Austin Remain an Austinian?,” in Michael Freeman & Patricia Mindus (eds.) 2013, *The Legacy of John Austin’s Jurisprudence*, Dordrecht: Springer, pp. 131–153.
-* Savigny, Friedrich Karl von, 1975, *On the Vocation of Our Age for Legislation and Jurisprudence*, Abraham Hayward (trans.), New York: Arno Press.
-* Schauer, Frederick, 2010, “Was Austin Right After All?,” *Ratio Juris*, 23: 1–21.
-* Schwarz, Andreas B., 1934, “John Austin and the German Jurisprudence of His Time,” *Politica*, 1: 178–199.
-* Sebok, Anthony J., 1998, *Legal Positivism in American Jurisprudence*, Cambridge: Cambridge University Press.
-* Stein, Peter, 1988, *The Character and Influence of the Roman Civil Law: Historical Essays*, London: The Hambledon Press.
-* Tapper, Colin, 1965, “Austin on Sanctions,” *Cambridge Law Journal*, 23(2): 271–287.
+* Bentham, Jeremy, 1789, _An Introduction to the Principles of Morals and Legislation_, J. H. Burns & H.L.A. Hart (eds.), Oxford: Oxford University Press, 1996.
+* –––, 1970, _Of Laws in General_, H.L.A. Hart (ed.), London: Athlone Press.
+* Bix, Brian H., 1999, “Positively Positivism,” _Virginia Law Review_, 75: 1613–1624.
+* Chilovi, Samuele and Wodak, Daniel, 2021, “On the (In)significance of Hume’s Law,” _Philosophical Studies_, first online 29 June 2021. doi:10.1007/s11098-021-01674-5
+* Clark, E. C., 1883, _Practical Jurisprudence: A Comment on Austin_, Cambridge: Cambridge University Press.
+* Cliffe Leslie, T. E., 1864, “Modern Phases of Jurisprudence in England,” _Westminster Review_, 26: 261–76 \[U.S. edition, 162: 125–132].
+* Cosgrove, Richard A., 1996, _Scholars of the Law: English Jurisprudence from Blackstone to Hart_, New York: New York University Press.
+* Cotterrell, Roger, 2003, _The Politics of Jurisprudence: A Critical Introduction to Legal Philosophy_, 2nd edition, London: LexisNexis.
+* Dewey, James, 1894, “Austin’s Theory of Sovereignty,” _Political Science Quarterly_, 9: 31–52.
+* Duxbury, Neil, 2005, “English Jurisprudence Between Austin and Hart,” _Virginia Law Review_, 91: 1–91.
+* Dworkin, Ronald, 1986, _Law’s Empire_, Cambridge, MA: Harvard University Press.
+* Finnis, John, 2000a, “On the Incoherence of Legal Positivism,” _Notre Dame Law Review_, 75: 1597–1611.
+* –––, 2000b, “The Truth in Legal Positivism,” in _The Autonomy of Law_, Robert P. George (ed.), Oxford: Clarendon Press, pp. 195–214.
+* Freeman, Michael & Mindus, Patricia (eds.) 2013, _The Legacy of John Austin’s Jurisprudence_, Dordrecht: Springer.
+* Halpin, Andrew, 2013, “Austin’s Methodology? His Bequest to Jurisprudence,” in Michael Freeman & Patricia Mindus (eds.) 2013, _The Legacy of John Austin’s Jurisprudence_, Dordrecht: Springer, pp. 15–40.
+* Hamburger, Lotte & Joseph, 1985, _Troubled Lives: John and Sarah Austin_, Toronto: University of Toronto Press.
+* –––, 1992, _Contemplating Adultery: The Secret Life of a Victorian Woman_, London: Macmillan.
+* Harris, J.W., 1977, “The Concept of Sovereign Will,” _Acta Juridica_ (Essays in Honour of Ben Beinart, Volume II), Cape Town: Juta & Co., 1979, pp. 1–15.
+* Hart, H.L.A., 1954, “Introduction” to John Austin, _The Province of Jurisprudence Determined_, H.L.A. Hart (ed.), London: Weidenfeld & Nicolson, pp. vii–xxi.
+* –––, 1958, “Positivism and the Separation of Law and Morals,”_Harvard Law Review_, 71: 593–629.
+* –––, 2012, _The Concept of Law_, 3rd edition, Oxford: Oxford University Press.
+* Hobbes, Thomas, 1651, _Leviathan_, Richard Tuck (ed.), Cambridge: Cambridge University Press, 1996.
+* Hume, David, 1739, _A Treatise of Human Nature_, David Fate Norton & Mary J. Norton (eds.), Oxford: Oxford University Press, 2000.
+* Kelsen, Hans, 1941, “The Pure Theory of Law and Analytical Jurisprudence,” _Harvard Law Review_, 55: 44–70.
+* Leiter, Brian, 2007, _Naturalizing Jurisprudence_, Oxford: Oxford University Press.
+* Leiter, Brian and Etchemendy, Matthew X., “Naturalism in Legal Philosophy,” _The Stanford Encyclopedia of Philosophy_ (Fall 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2021/entries/lawphil-naturalism/](https://plato.stanford.edu/archives/fall2021/entries/lawphil-naturalism/).
+* Lobban, Michael, 1991, _The Common Law and English Jurisprudence 1760–1850_, Oxford: Clarendon Press.
+* –––, 2013, “Austin and the Germans,” in Michael Freeman & Patricia Mindus (eds.), _The Legacy of John Austin’s Jurisprudence_, Dordrecht: Springer, pp. 255–270.
+* Mill, John Stuart, 1863, “Austin on Jurisprudence,” _Edinburgh Review_, 118 (October): 439–82 \[U.S. edition, 118: 222–244].
+* Moles, Robert N., 1987, _Definition and Rule in Legal Theory: A Reassessment of H.L.A. Hart and the Positivist Tradition_, Oxford: Basil Blackwell.
+* Morison, W. L., 1982, _John Austin_, Stanford: Stanford University Press.
+* Postema, Gerald J., 2011, _Legal Philosophy in the Twentieth Century: The Common Law World_, Dordrecht: Springer.
+* Rumble, W. E., 1985, _The Thought of John Austin: Jurisprudence, Colonial Reform, and the British Constitution_, London: Athlone Press.
+* –––, 1995, “Introduction,” in W. Rumble (ed.), _Austin: The Province of Jurisprudence Determined_, Cambridge: Cambridge University Press, pp. vii–xxiv.
+* –––, 2005, _Doing Austin Justice: The Reception of John Austin’s Philosophy of Law in Nineteenth-Century England_, London: Continuum.
+* –––, 2013, “Did Austin Remain an Austinian?,” in Michael Freeman & Patricia Mindus (eds.) 2013, _The Legacy of John Austin’s Jurisprudence_, Dordrecht: Springer, pp. 131–153.
+* Savigny, Friedrich Karl von, 1975, _On the Vocation of Our Age for Legislation and Jurisprudence_, Abraham Hayward (trans.), New York: Arno Press.
+* Schauer, Frederick, 2010, “Was Austin Right After All?,” _Ratio Juris_, 23: 1–21.
+* Schwarz, Andreas B., 1934, “John Austin and the German Jurisprudence of His Time,” _Politica_, 1: 178–199.
+* Sebok, Anthony J., 1998, _Legal Positivism in American Jurisprudence_, Cambridge: Cambridge University Press.
+* Stein, Peter, 1988, _The Character and Influence of the Roman Civil Law: Historical Essays_, London: The Hambledon Press.
+* Tapper, Colin, 1965, “Austin on Sanctions,” _Cambridge Law Journal_, 23(2): 271–287.
 
 ## Academic Tools
 
@@ -184,4 +184,4 @@
 [Bentham, Jeremy](https://plato.stanford.edu/entries/bentham/) | [law: and language](https://plato.stanford.edu/entries/law-language/) | [legal obligation and authority](https://plato.stanford.edu/entries/legal-obligation/) | legal philosophy | [naturalism: in legal philosophy](https://plato.stanford.edu/entries/lawphil-naturalism/) | [nature of law](https://plato.stanford.edu/entries/lawphil-nature/) | [nature of law: legal positivism](https://plato.stanford.edu/entries/legal-positivism/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Brian Bix](http://www.law.umn.edu/facultyprofiles/bixb.html) <[*bix@umn.edu*](mailto:bix%40umn%2eedu)>
+[Brian Bix](http://www.law.umn.edu/facultyprofiles/bixb.html) <[_bix@umn.edu_](mailto:bix%40umn%2eedu)>

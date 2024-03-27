@@ -1,6 +1,6 @@
 # 亚里士多德论无矛盾律 on non-contradiction (Paula Gottlieb)
 
-*首次发表于 2007 年 2 月 2 日；实质性修订于 2023 年 10 月 19 日*
+_首次发表于 2007 年 2 月 2 日；实质性修订于 2023 年 10 月 19 日_
 
 根据亚里士多德的观点，第一哲学，或者说形而上学，涉及本体论和第一原理，其中最坚定的是非矛盾原则（或法则）。亚里士多德说，如果没有非矛盾原则，我们就无法知道我们所知道的任何事情。可以推测，我们无法确定任何特殊科学的主题，例如生物学或数学，我们也无法区分某物是什么，例如人类或青蛙，以及它是什么样子，例如苍白或绿色。亚里士多德自己对本质和意外的区分将无法进行，而无法进行一般性的区分将使得理性讨论变得不可能。根据亚里士多德的观点，非矛盾原则是科学探究、推理和交流中不可或缺的原则。
 
@@ -31,19 +31,19 @@
 
 ## 1. 非矛盾原则的三个版本
 
-阿里·法拉比在亚里士多德的著作中可以找到三个版本的非矛盾原则：本体论版本、信念版本和语义版本。第一个版本涉及存在于世界中的事物，第二个版本涉及我们可以相信的事物，第三个版本涉及断言和真理。第一个版本（以下简称 PNC）通常被认为是该原则的主要版本，其表述如下：“同一事物在同一时间、同一方面既属于该事物又不属于该事物是不可能的”（附带条件）（*形而上学* IV 3 1005b19-20）。以下是其中的一些限定条件：所属的“同一事物”必须是同一事物，且必须是实际的事物而不仅仅是其语言表达。例如，一个人可能在第一种情况下是一个投手而不是一个投手，在第二种情况下是一个可以装啤酒的水罐。此外，虽然某物可能实际上是 F 并且潜在地不是 F，但某物不可能实际上是 F 并且实际上不是 F。一张桌子可以实际上是红色的，但潜在地不是红色的，但不可能同时实际上是红色的和实际上不是红色的。
+阿里·法拉比在亚里士多德的著作中可以找到三个版本的非矛盾原则：本体论版本、信念版本和语义版本。第一个版本涉及存在于世界中的事物，第二个版本涉及我们可以相信的事物，第三个版本涉及断言和真理。第一个版本（以下简称 PNC）通常被认为是该原则的主要版本，其表述如下：“同一事物在同一时间、同一方面既属于该事物又不属于该事物是不可能的”（附带条件）（_形而上学_ IV 3 1005b19-20）。以下是其中的一些限定条件：所属的“同一事物”必须是同一事物，且必须是实际的事物而不仅仅是其语言表达。例如，一个人可能在第一种情况下是一个投手而不是一个投手，在第二种情况下是一个可以装啤酒的水罐。此外，虽然某物可能实际上是 F 并且潜在地不是 F，但某物不可能实际上是 F 并且实际上不是 F。一张桌子可以实际上是红色的，但潜在地不是红色的，但不可能同时实际上是红色的和实际上不是红色的。
 
-第二个版本如下：“持有（假设）同一事物既是又不是是不可能的”（*形而上学* IV 3 1005b24 cf.1005b29-30）。尽管这个版本本身是含糊的，但最好理解为它声称持有同一事物既是 F 又不是 F 是不可能的等等。
+第二个版本如下：“持有（假设）同一事物既是又不是是不可能的”（_形而上学_ IV 3 1005b24 cf.1005b29-30）。尽管这个版本本身是含糊的，但最好理解为它声称持有同一事物既是 F 又不是 F 是不可能的等等。
 
 作为对人类心理学的描述性说明，这可能看起来不太可能。人们肯定有不一致的信念；事实上，我们大多数人都有许多不一致的信念。特别是如果我们考虑到我们信念的后果。然而，一个人必须相信自己信念的后果吗？这些仍然是现代语言哲学和认识论中的难题。一个人能够有意识地相信一个明显的矛盾吗？例如，赫拉克利特似乎说了一些矛盾的话。在这里，亚里士多德可能会反驳，并且他确实对赫拉克利特进行了反驳，即人们可以说出这样的话，但不能真正相信他们所说的话（《形而上学》第 4 卷第 3 章 1005b23-26）。
 
-理解第二个表述的另一种方式是将其视为对人类心理学的描述性主张，而是作为一种规范性主张，即对于什么是理性的信念的主张。从这个观点来看，问题不在于一个人不能相信*x*是*F*而不是*F*等等，而是一个人不能理性地这样做。
+理解第二个表述的另一种方式是将其视为对人类心理学的描述性主张，而是作为一种规范性主张，即对于什么是理性的信念的主张。从这个观点来看，问题不在于一个人不能相信_x_是_F_而不是_F_等等，而是一个人不能理性地这样做。
 
-阿里·法拉比对第二个表述的理解还不完全清楚。在《形而上学》第四卷第三章的结尾，阿里·法拉比提出了一个错误的论证，即认为信念的版本是建立在本体论版本之上的，混淆了不相信*p*与不相信*p*的信念之间的区别。
+阿里·法拉比对第二个表述的理解还不完全清楚。在《形而上学》第四卷第三章的结尾，阿里·法拉比提出了一个错误的论证，即认为信念的版本是建立在本体论版本之上的，混淆了不相信_p_与不相信_p_的信念之间的区别。
 
-这个第二个表述还存在另一个问题。我们需要区分在特定情况下相信*x*是*F*和不是*F*的可能性，与不相信 PNC 的第一个版本在其整体上的可能性。
+这个第二个表述还存在另一个问题。我们需要区分在特定情况下相信_x_是_F_和不是_F_的可能性，与不相信 PNC 的第一个版本在其整体上的可能性。
 
-第三个版本是“相反的断言不能同时为真”（*形而上学* IV 6 1011b13-20）。就目前而言，这个版本对于断言的内部结构是中立的，但亚里士多德认为任何断言都涉及将一件事情预言给另一件事情。与第二个表述一样，人们可以给出一种心理学解释，与人们实际上肯定和否定的内容相关，但是相反的断言不能同时为真的观点表明，这个第三个版本更好地解释为第一个表述的变体。
+第三个版本是“相反的断言不能同时为真”（_形而上学_ IV 6 1011b13-20）。就目前而言，这个版本对于断言的内部结构是中立的，但亚里士多德认为任何断言都涉及将一件事情预言给另一件事情。与第二个表述一样，人们可以给出一种心理学解释，与人们实际上肯定和否定的内容相关，但是相反的断言不能同时为真的观点表明，这个第三个版本更好地解释为第一个表述的变体。
 
 有多少个版本以及亚里士多德打算建立哪个版本都是有争议的问题。他可能基于第一个版本来建立第二个版本，或者基于第二个版本来建立第一个版本，或者只建立第一个版本或只建立第二个版本。
 
@@ -53,17 +53,17 @@
 
 亚里士多德解释说，鉴于其作为最坚定的第一原则的特殊地位，排中律不容易被证明。证明是一种演绎论证，其结论是从更坚定、更早的前提中推导出来的。由此可见，如果排中律可以从另一个前提中推导出来，那么该前提必须是更坚定、更早的原则，结果就是排中律不可能成为最坚定的第一原则。亚里士多德还说，如果排中律可以被证明，那么一切都将受到证明的约束，这将导致无限回归。因此，排中律被排除在外，重建亚里士多德讨论的普通演绎论证是很重要的。正如亚里士多德指出的，任何要求对排中律进行演绎论证的人都是在误解问题，或者更确切地说，是在要求一种不使用排中律就不可能实现的东西。除非依赖排中律，否则无法进行论证。任何声称“为了论证而拒绝排中律”的人也是误导的。
 
-鉴于无法从其他任何事物中推导出排中律，人们可能期望亚里士多德通过将其与其他可能争夺最坚定第一原则称号的逻辑原则进行比较来解释排中律的特殊地位，例如他版本的排中律——对于任何*x*和任何*F*，必须要么断言*x*具有*F*，要么否定*x*具有*F*。然而，亚里士多德挑战他人找到一个更早的原则（《形而上学》IV 4 1006a10-11）。对于现代哲学家来说，排中律是否优先于其他逻辑原则，或者说是否优先于真理、指称和身份的概念，仍然是一个有趣的问题。排中律假设了身份的概念：（同一）事物在（同一）时间内既属于又不属于（同一）事物是不可能的等等。排中律是莱布尼兹定律的前提，该定律规定如果*x*和*y*是可辨别的（如果一个具有另一个缺乏的属性），那么*x*与*y*不相同。
+鉴于无法从其他任何事物中推导出排中律，人们可能期望亚里士多德通过将其与其他可能争夺最坚定第一原则称号的逻辑原则进行比较来解释排中律的特殊地位，例如他版本的排中律——对于任何_x_和任何_F_，必须要么断言_x_具有_F_，要么否定_x_具有_F_。然而，亚里士多德挑战他人找到一个更早的原则（《形而上学》IV 4 1006a10-11）。对于现代哲学家来说，排中律是否优先于其他逻辑原则，或者说是否优先于真理、指称和身份的概念，仍然是一个有趣的问题。排中律假设了身份的概念：（同一）事物在（同一）时间内既属于又不属于（同一）事物是不可能的等等。排中律是莱布尼兹定律的前提，该定律规定如果_x_和_y_是可辨别的（如果一个具有另一个缺乏的属性），那么_x_与_y_不相同。
 
 ## 3. 诘难法和超验论证
 
 尽管 PNC 不受证明的约束，但根据亚里士多德的说法，它受到“诘难反驳”的约束。 “诘难”指的是苏格拉底式的辩论方法。当苏格拉底使用诘难法时，他让对手自己否定自己。对手提出一个命题，被证明与他同意的其他主张相冲突。为了保持一致，对手必须放弃其中一个主张，通常是原始命题。这是古希腊几何学家和现代形式逻辑学家和数学家熟悉的“归谬法”。
 
-使用 elenchus 的想法乍一看非常令人困惑。声称拒绝 PNC 的人并不一致，显然也不想一致。亚里士多德并不试图在形式上捉住对手的矛盾。对手据称并不在乎这一点，这将是个问题。相反，亚里士多德的诡计是引导对手说出一些不完整的话，显示他确实接受*x*是*F*，并且与此同时不是*F*，尽管他之前说过的话。换句话说，亚里士多德需要展示他的对手至少承认了一个不矛盾的事物。苏格拉底的方法被颠倒了过来。
+使用 elenchus 的想法乍一看非常令人困惑。声称拒绝 PNC 的人并不一致，显然也不想一致。亚里士多德并不试图在形式上捉住对手的矛盾。对手据称并不在乎这一点，这将是个问题。相反，亚里士多德的诡计是引导对手说出一些不完整的话，显示他确实接受_x_是_F_，并且与此同时不是_F_，尽管他之前说过的话。换句话说，亚里士多德需要展示他的对手至少承认了一个不矛盾的事物。苏格拉底的方法被颠倒了过来。
 
-长期以来，人们一直注意到亚里士多德在这里假设他的对手持有这样一个非常强硬的立场：对于任何*x*和任何*F*，在同一方面等等，*F*可以同时属于*x*和不属于*x*。后来他说，他很高兴扼杀了这种观点，即我们的思维中没有任何确定的东西（《形而上学》IV 4 1009a3-5）。
+长期以来，人们一直注意到亚里士多德在这里假设他的对手持有这样一个非常强硬的立场：对于任何_x_和任何_F_，在同一方面等等，_F_可以同时属于_x_和不属于_x_。后来他说，他很高兴扼杀了这种观点，即我们的思维中没有任何确定的东西（《形而上学》IV 4 1009a3-5）。
 
-亚里士多德的"辩证反驳"与康德的先验论证有着有益的比较。先验论证通常如下进行：如果经验或思考的某些方面是可能的，那么世界必须是某种方式。由于这些经验或思考的方面确实存在，所以世界*是*某种方式。我们的经验或思考的这些方面预设了世界是某种方式。世界*是*某种方式解释了我们的经验或思考的这些方面，而不是相反。根据这种解释，亚里士多德将会认为，世界符合非矛盾原则（PNC），或者说 PNC 是真实的，因为它被对手能够说出有意义的话所预设并解释。
+亚里士多德的"辩证反驳"与康德的先验论证有着有益的比较。先验论证通常如下进行：如果经验或思考的某些方面是可能的，那么世界必须是某种方式。由于这些经验或思考的方面确实存在，所以世界_是_某种方式。我们的经验或思考的这些方面预设了世界是某种方式。世界_是_某种方式解释了我们的经验或思考的这些方面，而不是相反。根据这种解释，亚里士多德将会认为，世界符合非矛盾原则（PNC），或者说 PNC 是真实的，因为它被对手能够说出有意义的话所预设并解释。
 
 先验论证是有争议的。争议之一是关于它们的结论的确切内容以及预设的内容。我们应该得出结论，世界必须是某种方式，还是仅仅说我们必须认为它是某种方式，才能有相关的经验和思考？现代的辩论在学者之间的争论中找到了对应。关于亚里士多德在他的辩证讨论中的目标，有两种主要可能性。亚里士多德可能旨在证明本体论版本的非矛盾原则是真实的，或者他可能仅仅旨在证明它不能被怀疑。
 
@@ -111,19 +111,19 @@
 
 ## 8. 来自相互矛盾的表象的论证
 
-在第 5 章中，亚里士多德区分了两种类型的对手，一种是为了论证而声称拒绝 PNC 的人，另一种是真正困惑的前苏格拉底学派。他现在针对第二种类型进行讨论。阿那克萨戈拉斯和德谟克利特认为矛盾在同一时间是真实的，因为他们被变化所困惑。他们看到对立的事物从同一物体中产生，并推断出同一物体必须具有相反的属性。亚里士多德引入了他对潜在和实际的区分来消除他们的困惑。一个对象可以潜在地是*F*，也可以潜在地不是*F*，但它不能同时实际地是*F*和实际地不是*F*。
+在第 5 章中，亚里士多德区分了两种类型的对手，一种是为了论证而声称拒绝 PNC 的人，另一种是真正困惑的前苏格拉底学派。他现在针对第二种类型进行讨论。阿那克萨戈拉斯和德谟克利特认为矛盾在同一时间是真实的，因为他们被变化所困惑。他们看到对立的事物从同一物体中产生，并推断出同一物体必须具有相反的属性。亚里士多德引入了他对潜在和实际的区分来消除他们的困惑。一个对象可以潜在地是_F_，也可以潜在地不是_F_，但它不能同时实际地是_F_和实际地不是_F_。
 
 其他哲学家通过对相互矛盾的现象的论证，接受了违反 PNC 或导致普遍怀疑的结论。亚里士多德如下呈现了这个论证：
 
 有三种相互矛盾的表象情况：
 
 1. 对于同一物种的不同成员来说，事物的表象是不同的，例如，有些人认为同一物品是苦的，而其他人认为是甜的（《形而上学》第四篇第 5 节 1009b2-3）。
-2. 对于不同物种的成员（例如其他动物和我们），事物的外观是不同的（*形而上学* IV 5 1009b7–8）。
-3. 即使对于同一个个体的感官来说，事物的外观也不总是相同的（*形而上学* IV 5 1009b8–9）。
-4. 不清楚哪些表象是真实的，哪些是虚假的（*Metaph* IV 5 1009b10）。
+2. 对于不同物种的成员（例如其他动物和我们），事物的外观是不同的（_形而上学_ IV 5 1009b7–8）。
+3. 即使对于同一个个体的感官来说，事物的外观也不总是相同的（_形而上学_ IV 5 1009b8–9）。
+4. 不清楚哪些表象是真实的，哪些是虚假的（_Metaph_ IV 5 1009b10）。
 5. 结论：
-6. 没有什么是真实的（阿里·法拉比以教条主义的心情说，*形而上学* IV 5 1009b11-12）。
-7. （如果有什么是真实的）对我们来说并不清楚（阿里·法拉比以怀疑主义的心情说，*形而上学* IV 5 1009b12）。
+6. 没有什么是真实的（阿里·法拉比以教条主义的心情说，_形而上学_ IV 5 1009b11-12）。
+7. （如果有什么是真实的）对我们来说并不清楚（阿里·法拉比以怀疑主义的心情说，_形而上学_ IV 5 1009b12）。
 8. 一切都和其他一切一样真实。（这是在《形而上学》第四卷第 5 节 1009b10-11 中作为前提 2 的解释提到的。这是普罗塔戈拉斯的观点，在章节开始时描述。）
 
 对于这个论点，亚里士多德承认了大部分第一个前提。他同意不同物种的不同成员，同一物种的不同成员，甚至同一人都会对事物有不同的看法，尽管他否认同一事物在同一时间对同一人的同一感官会有不同的表现（《形而上学》第四卷第 5 节 1010b18）。
@@ -152,11 +152,11 @@
 
 ## 10. 亚里士多德的结论及对伦理学和政治学的影响
 
-在第 6 章的结尾，亚里士多德得出结论：“让这个足以显示（1）最坚定的信念是相反的断言不能同时为真，（2）那些以这种方式说话的人会发生什么，以及（3）为什么人们会以这种方式说话”（*形而上学* IV 6 1011b13–15）。
+在第 6 章的结尾，亚里士多德得出结论：“让这个足以显示（1）最坚定的信念是相反的断言不能同时为真，（2）那些以这种方式说话的人会发生什么，以及（3）为什么人们会以这种方式说话”（_形而上学_ IV 6 1011b13–15）。
 
 关于第一个观点，正如我们所看到的，亚里士多德得出的结论，最坚定的信念是对非矛盾原则的信念，是否带有前提条件，即非矛盾原则是真实的前提条件，这是他自己的第一哲学项目所需要的。关于第三个观点，亚里士多德讨论了关于感知和变化的观点，这些观点导致人们说他们拒绝非矛盾原则。关于第二个观点，亚里士多德表明那些“说”他们拒绝非矛盾原则的人实际上并没有这样做，或者如果他们这样做，他们将放弃可理解的言论和行动。关于接受非矛盾原则是否必须接受多少本质主义或实在主义观点存在争议，但是非矛盾原则对于亚里士多德科学项目是必不可少的。
 
-没有 PNC，亚里士多德指出，对真理感兴趣的哲学初学者将会陷入一场徒劳的追逐（*形而上学* IV 5 1009b36–8）。这适用于形而上学和科学，以及伦理学和政治学。没有 PNC，也没有真理，我们将生活在一个纯粹的诡辩世界中，尽管亚里士多德没有明确指出，这也涉及到权力。因此，亚里士多德对 PNC 的讨论具有更广泛的伦理和政治意义。
+没有 PNC，亚里士多德指出，对真理感兴趣的哲学初学者将会陷入一场徒劳的追逐（_形而上学_ IV 5 1009b36–8）。这适用于形而上学和科学，以及伦理学和政治学。没有 PNC，也没有真理，我们将生活在一个纯粹的诡辩世界中，尽管亚里士多德没有明确指出，这也涉及到权力。因此，亚里士多德对 PNC 的讨论具有更广泛的伦理和政治意义。
 
 ## 11. 二值逻辑、非矛盾性和亚里士多德
 
@@ -170,7 +170,7 @@
 
 有两种基本解释。根据一种解释，亚里士多德确实包含矛盾，但这些矛盾是无关紧要的，对他所提出的论证没有真正的逻辑作用。根据另一种解释，按照阿奎那的评论（第 20 讲），亚里士多德并不是在声称卡利亚斯既是卡利亚斯又不是卡利亚斯，或者他既是人又不是人，而是说术语“动物”包括卡利亚斯和那些不是卡利亚斯也不是人的人，正如亚里士多德自己解释的那样，他说主要术语（“动物”）比中间术语（“人”）更广泛。（在三段论中，所有的 A 都是 B；所有的 B 都是 C；因此所有的 A 都是 C，“A”是主要术语，“B”是中间术语。）
 
-这两种解释都存在困难。亚里士多德首先说，没有证明假设排中律，除非它得出结论*x*是*F*而不是非-*F*。根据第一种解释，亚里士多德关于主要术语和中间术语的解释是不必要的。然而，根据第二种解释，亚里士多德的主要观点与他关于排中律的评论之间的关系是不明确的。这段文字需要进一步阐明。
+这两种解释都存在困难。亚里士多德首先说，没有证明假设排中律，除非它得出结论_x_是_F_而不是非-_F_。根据第一种解释，亚里士多德关于主要术语和中间术语的解释是不必要的。然而，根据第二种解释，亚里士多德的主要观点与他关于排中律的评论之间的关系是不明确的。这段文字需要进一步阐明。
 
 ## Bibliography
 
@@ -178,128 +178,128 @@
 
 #### Aristotle
 
-* Ackrill, J. L., 1963. Translation and commentary. *Aristotle’s Categories and De Interpretatione*. Oxford: Clarendon Press.
-* Barnes, J., 1975. Translation with notes. *Aristotle’s Posterior Analytics*. Oxford: Clarendon Press.
-* –––, 1984. *The Complete Works of Aristotle: The Revised Oxford Translation*. Princeton: Princeton University Press, vols 1 and 2.
-* –––, 1994. Translation with notes. *Aristotle’s Posterior Analytics*. 2nd edition. Oxford: Clarendon Press.
-* Irwin, T. H. and Fine, G., 1995. Translation with introduction, notes and glossary. *Aristotle: Selections*. Indianapolis: Hackett.
-* Jaeger, W., 1951. *Aristotelis Metaphysica*. Oxford Classical Text. Oxford: Clarendon Press.
-* Kirwan, Christopher, 1993. Translation with notes. *Aristotle’s Metaphysics Books Gamma, Delta and Epsilon*. 2nd edition. Oxford:Clarendon Press.
-* Madigan, Arthur S. J., 1993. Translation. *Alexander of Aphrodisias: On Aristotle’s Metaphysics 4*, with appendix by Richard Sorabji. Ithaca: Cornell University Press.
-* Minio–Paluello, L. (ed.), 1949. *Aristotelis Categoriae et Liber De Interpretatione*. Oxford Classical Text. Oxford: Clarendon Press.
-* Ross, W. D., 1923. Greek text and commentary on *Aristotle’s Metaphysics*, vols 1 and 2. Oxford: Clarendon Press.
-* –––, 1928. Translation of Aristotle’s *Metaphysics*. 2nd edition. For example, in Richard McKeon (ed.) *The Basic Works of Aristotle*. New York: Random House, 1941.
-* Ross, W.D. (ed.), 1958. *Aristotelis Topica et Sophistici Elenchii*. Oxford Classical Text. Oxford: Clarendon Press.
-* –––, 1964. *Aristotelis Analytica et Posteriora*, with preface and appendix by L. Minio-Paluello. Oxford Classical Text. Oxford: Clarendon Press.
-* Rowan, J., 1961. Translation. *Saint Thomas Aquinas’s Commentary on the Metaphysics of Aristotle*. Chicago: H. Regnery Co.
+* Ackrill, J. L., 1963. Translation and commentary. _Aristotle’s Categories and De Interpretatione_. Oxford: Clarendon Press.
+* Barnes, J., 1975. Translation with notes. _Aristotle’s Posterior Analytics_. Oxford: Clarendon Press.
+* –––, 1984. _The Complete Works of Aristotle: The Revised Oxford Translation_. Princeton: Princeton University Press, vols 1 and 2.
+* –––, 1994. Translation with notes. _Aristotle’s Posterior Analytics_. 2nd edition. Oxford: Clarendon Press.
+* Irwin, T. H. and Fine, G., 1995. Translation with introduction, notes and glossary. _Aristotle: Selections_. Indianapolis: Hackett.
+* Jaeger, W., 1951. _Aristotelis Metaphysica_. Oxford Classical Text. Oxford: Clarendon Press.
+* Kirwan, Christopher, 1993. Translation with notes. _Aristotle’s Metaphysics Books Gamma, Delta and Epsilon_. 2nd edition. Oxford:Clarendon Press.
+* Madigan, Arthur S. J., 1993. Translation. _Alexander of Aphrodisias: On Aristotle’s Metaphysics 4_, with appendix by Richard Sorabji. Ithaca: Cornell University Press.
+* Minio–Paluello, L. (ed.), 1949. _Aristotelis Categoriae et Liber De Interpretatione_. Oxford Classical Text. Oxford: Clarendon Press.
+* Ross, W. D., 1923. Greek text and commentary on _Aristotle’s Metaphysics_, vols 1 and 2. Oxford: Clarendon Press.
+* –––, 1928. Translation of Aristotle’s _Metaphysics_. 2nd edition. For example, in Richard McKeon (ed.) _The Basic Works of Aristotle_. New York: Random House, 1941.
+* Ross, W.D. (ed.), 1958. _Aristotelis Topica et Sophistici Elenchii_. Oxford Classical Text. Oxford: Clarendon Press.
+* –––, 1964. _Aristotelis Analytica et Posteriora_, with preface and appendix by L. Minio-Paluello. Oxford Classical Text. Oxford: Clarendon Press.
+* Rowan, J., 1961. Translation. _Saint Thomas Aquinas’s Commentary on the Metaphysics of Aristotle_. Chicago: H. Regnery Co.
 
 #### Plato
 
-* Burnet, J. (ed.), 1900. *Platonis Opera I: Euthyphro, Apologia, Crito, Phaedo, Cratylus, Theaetetus, Sophista, Politicus*. Oxford Classical Text. Oxford: Clarendon Press.
-* Burnyeat, M.F., 1990. *The Theaetetus of Plato*. Translation by M.J. Levett, revised by M.F. Burnyeat, and an introduction by M. F. Burnyeat. Indianapolis/Cambridge: Hackett.
-* Duke, E. A., Hicken, W. F., Nicoll, W. S. M., Robinson, D. B., and Strachan, J.C.G. (eds.), 1995. *Platonis Opera I: Euthyphro, Apologia, Crito, Phaedo, Cratylus, Theaetetus, Sophista, Politicus*. Oxford Classical Text. Oxford: Clarendon Press.
-* McDowell, John, 1973. Translation with notes. *Plato’s Theaetetus*. Oxford: Clarendon Press.
+* Burnet, J. (ed.), 1900. _Platonis Opera I: Euthyphro, Apologia, Crito, Phaedo, Cratylus, Theaetetus, Sophista, Politicus_. Oxford Classical Text. Oxford: Clarendon Press.
+* Burnyeat, M.F., 1990. _The Theaetetus of Plato_. Translation by M.J. Levett, revised by M.F. Burnyeat, and an introduction by M. F. Burnyeat. Indianapolis/Cambridge: Hackett.
+* Duke, E. A., Hicken, W. F., Nicoll, W. S. M., Robinson, D. B., and Strachan, J.C.G. (eds.), 1995. _Platonis Opera I: Euthyphro, Apologia, Crito, Phaedo, Cratylus, Theaetetus, Sophista, Politicus_. Oxford Classical Text. Oxford: Clarendon Press.
+* McDowell, John, 1973. Translation with notes. _Plato’s Theaetetus_. Oxford: Clarendon Press.
 
 ### Selected Secondary Literature
 
-* Annas, Julia, 1986. “Doing without Objective Values: Ancient and Modern Strategies,” in Malcolm Schofield and Gisela Striker (eds.) *The Norms of Nature: Studies in Hellenistic Ethics*, Cambridge and New York: Cambridge University Press, 3–29.
-* Annas, Julia and Barnes, Jonathan, 1985. *The Modes of Scepticism: Ancient Texts and Modern Interpretations*, Cambridge: Cambridge University Press.
-* –––, 2000. Translation. *Sextus Empiricus: Outlines of Scepticism*, 2nd Edition, New York: Cambridge University Press.
-* Anscombe, G. E. M., 1967. “Aristotle,” in G.E.M. Anscombe and P.T. Geach. *Three Philosophers*, Oxford: Blackwell.
-* Anscombe, G. E. M. and Von Wright, G. H. (eds.), 1969. *Wittgenstein: On Certainty*, Evanston: Harper and Row.
-* Aquinas, Thomas. *Commentarium in libros Posteriorum Analyticorum*, in *Opera Omnia*, Rome: Vatican Polyglot Press, Volume 1, 1882, Leonine Edition.
-* Bailey, D.T.J., 2006. “Plato and Aristotle on the Unhypothetical,” *Oxford Studies in Ancient Philosophy*, 30: 101–106.
-* Baltzly, Dirk, 1999. “Aristotle and Platonic Dialectic in *Metaphysics*, Gamma 4,” in Shiner 1999.
-* Barnes, Jonathan, 1969. “The Law of Contradiction,” *Philosophical Quarterly*, 19: 302–9.
-* Berti, Enrico, 2014. “Objections to Aristotle’s Defence of the Principle of Non-Contradiction,” in *Contradictions: Logic, History, Actuality*, Elena Ficara (ed.), Berlin, Boston: De Gruyter, 97–108,
-* Bett, Richard, 2000. *Pyrrho, his Antecedents and his Legacy*, Oxford: Clarendon Press (pbk, 2003), especially ch. 3.
-* Bett, Richard (ed.), 2010. *The Cambridge Companion to Ancient Scepticism*, Cambridge: Cambridge University Press.
-* Bostock, David, 1988. *Plato’s Theaetetus*, Oxford: Clarendon Press.
-* Brinkmann, Klaus, 1994. “Commentary on Gottlieb,” *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 8: 199–208.
-* Broadie, Sarah Waterlow, 1977. “Protagoras and Inconsistency: *Theaetetus* 171a6–c7,” *Archiv für Geschichte der Philosophie*, 59: 22–36.
-* Burnyeat, M.F., 1969. “Conflicting Appearances,” *Proceedings of the British Academy*, 65: 69–111.
-* Burnyeat, M. F., 1975. “Protagoras and Self-Refutation in later Greek Philosophy,” *Philosophical Review*, 84: 44–69.
-* –––, 1976. “Protagoras and Self-Refutation in Plato’s *Theaetetus*,” *Philosophical Review*, 85: 172–95; reprinted in *Epistemology: Companions to ancient thought*, I. Stephen Everson (ed.). Cambridge: Cambridge University Press, 1990.
-* –––, 1983. “Can the sceptic live his scepticism?” in M. F. Burnyeat (ed.), *The Sceptical Tradition*, Berkeley: University of California Press, 1983.
-* Bury, R. G., 1933. Text and Translation. *Sextus Empiricus: Outlines of Pyrrhonism*, Cambridge: Harvard University Press, vols 1–2.
-* Carroll, Lewis, 1895. “What the Tortoise said to Achilles,” *Mind*, 4(14): 278–80; \[[reprint available online](http://www.ditext.com/carroll/tortoise.html)]
-* Cassin, B., 1993. “Il senso di Gamma e la strategia di Aristotele contro i Presocratici in Metafisica iv”. *Rivista di Filosofia Neo-Scolastica*, 85: 533–565.
-* Cassin, B and Narcy, M., 1989. *La Décision du Sens*, Paris: J. Vrin.
-* Castagnoli, L., 2010. *Ancient Self-Refutation*, Cambridge: Cambridge University Press.
-* Chappell, Timothy D. J., 2005. *Reading Plato’s Theaetetus*, Indianapolis: Hackett.
-* Charles, David, 2000. *Aristotle on Meaning and Essence*, Oxford: Clarendon Press, especially Appendix 1.
-* Cheng, Tony, forthcoming, *Transcendental Epistemology*, Cambridge: Cambridge University Press.
-* –––, forthcoming, “On the Transcendental Explanation of Intentionality,” *Australasian Philosophical Review*.
-* Clay, Graham, 2019. “Aristotle’s Argument from Truth in Aristotle’s IV 1,” *Analysis*, 79(1): 17–24.
-* Code, A., 1986. “Aristotle’s investigation of a basic logical principle,” *Canadian Journal of Philosophy*, 16(3): 341–358.
-* –––, 2010. “Aristotle and the History of Scepticism,” in *Ancient Models of Mind: Studies in Human and Divine Rationality*, Nightingale and Sedley (eds.), Cambridge: Cambridge University Press.
-* Cohen, S. Marc, 1986. “Aristotle on the Principle of Non-Contradiction,” *Canadian Journal of Philosophy*, 16(3): 359–370.
-* Cooper, John M., 2004. “Plato on Sense-Perception and Knowledge (*Tht*, 184–186),” in John M. Cooper, *Knowledge, Nature and the Good: Essays on Ancient Philosophy*, Princeton University Press, 43–64.
-* Coren, Daniel, 2018. “Why Does Aristotle Defend the Principle of Non-Contradiction Against its Contrary?” *The Philosophical Forum*, 49(1): 39–59.
-* Cresswell, M. J., 2003. “Non-Contradiction and Substantial Predication,” *Theoria*, 69: 166–183.
-* Crivelli, Paolo, 2004. *Aristotle on Truth*, Cambridge: Cambridge University Press.
-* Dancy, R. M., 1975. *Sense and Contradiction*, Dordrecht: Reidel.
+* Annas, Julia, 1986. “Doing without Objective Values: Ancient and Modern Strategies,” in Malcolm Schofield and Gisela Striker (eds.) _The Norms of Nature: Studies in Hellenistic Ethics_, Cambridge and New York: Cambridge University Press, 3–29.
+* Annas, Julia and Barnes, Jonathan, 1985. _The Modes of Scepticism: Ancient Texts and Modern Interpretations_, Cambridge: Cambridge University Press.
+* –––, 2000. Translation. _Sextus Empiricus: Outlines of Scepticism_, 2nd Edition, New York: Cambridge University Press.
+* Anscombe, G. E. M., 1967. “Aristotle,” in G.E.M. Anscombe and P.T. Geach. _Three Philosophers_, Oxford: Blackwell.
+* Anscombe, G. E. M. and Von Wright, G. H. (eds.), 1969. _Wittgenstein: On Certainty_, Evanston: Harper and Row.
+* Aquinas, Thomas. _Commentarium in libros Posteriorum Analyticorum_, in _Opera Omnia_, Rome: Vatican Polyglot Press, Volume 1, 1882, Leonine Edition.
+* Bailey, D.T.J., 2006. “Plato and Aristotle on the Unhypothetical,” _Oxford Studies in Ancient Philosophy_, 30: 101–106.
+* Baltzly, Dirk, 1999. “Aristotle and Platonic Dialectic in _Metaphysics_, Gamma 4,” in Shiner 1999.
+* Barnes, Jonathan, 1969. “The Law of Contradiction,” _Philosophical Quarterly_, 19: 302–9.
+* Berti, Enrico, 2014. “Objections to Aristotle’s Defence of the Principle of Non-Contradiction,” in _Contradictions: Logic, History, Actuality_, Elena Ficara (ed.), Berlin, Boston: De Gruyter, 97–108,
+* Bett, Richard, 2000. _Pyrrho, his Antecedents and his Legacy_, Oxford: Clarendon Press (pbk, 2003), especially ch. 3.
+* Bett, Richard (ed.), 2010. _The Cambridge Companion to Ancient Scepticism_, Cambridge: Cambridge University Press.
+* Bostock, David, 1988. _Plato’s Theaetetus_, Oxford: Clarendon Press.
+* Brinkmann, Klaus, 1994. “Commentary on Gottlieb,” _Proceedings of the Boston Area Colloquium in Ancient Philosophy_, 8: 199–208.
+* Broadie, Sarah Waterlow, 1977. “Protagoras and Inconsistency: _Theaetetus_ 171a6–c7,” _Archiv für Geschichte der Philosophie_, 59: 22–36.
+* Burnyeat, M.F., 1969. “Conflicting Appearances,” _Proceedings of the British Academy_, 65: 69–111.
+* Burnyeat, M. F., 1975. “Protagoras and Self-Refutation in later Greek Philosophy,” _Philosophical Review_, 84: 44–69.
+* –––, 1976. “Protagoras and Self-Refutation in Plato’s _Theaetetus_,” _Philosophical Review_, 85: 172–95; reprinted in _Epistemology: Companions to ancient thought_, I. Stephen Everson (ed.). Cambridge: Cambridge University Press, 1990.
+* –––, 1983. “Can the sceptic live his scepticism?” in M. F. Burnyeat (ed.), _The Sceptical Tradition_, Berkeley: University of California Press, 1983.
+* Bury, R. G., 1933. Text and Translation. _Sextus Empiricus: Outlines of Pyrrhonism_, Cambridge: Harvard University Press, vols 1–2.
+* Carroll, Lewis, 1895. “What the Tortoise said to Achilles,” _Mind_, 4(14): 278–80; \[[reprint available online](http://www.ditext.com/carroll/tortoise.html)]
+* Cassin, B., 1993. “Il senso di Gamma e la strategia di Aristotele contro i Presocratici in Metafisica iv”. _Rivista di Filosofia Neo-Scolastica_, 85: 533–565.
+* Cassin, B and Narcy, M., 1989. _La Décision du Sens_, Paris: J. Vrin.
+* Castagnoli, L., 2010. _Ancient Self-Refutation_, Cambridge: Cambridge University Press.
+* Chappell, Timothy D. J., 2005. _Reading Plato’s Theaetetus_, Indianapolis: Hackett.
+* Charles, David, 2000. _Aristotle on Meaning and Essence_, Oxford: Clarendon Press, especially Appendix 1.
+* Cheng, Tony, forthcoming, _Transcendental Epistemology_, Cambridge: Cambridge University Press.
+* –––, forthcoming, “On the Transcendental Explanation of Intentionality,” _Australasian Philosophical Review_.
+* Clay, Graham, 2019. “Aristotle’s Argument from Truth in Aristotle’s IV 1,” _Analysis_, 79(1): 17–24.
+* Code, A., 1986. “Aristotle’s investigation of a basic logical principle,” _Canadian Journal of Philosophy_, 16(3): 341–358.
+* –––, 2010. “Aristotle and the History of Scepticism,” in _Ancient Models of Mind: Studies in Human and Divine Rationality_, Nightingale and Sedley (eds.), Cambridge: Cambridge University Press.
+* Cohen, S. Marc, 1986. “Aristotle on the Principle of Non-Contradiction,” _Canadian Journal of Philosophy_, 16(3): 359–370.
+* Cooper, John M., 2004. “Plato on Sense-Perception and Knowledge (_Tht_, 184–186),” in John M. Cooper, _Knowledge, Nature and the Good: Essays on Ancient Philosophy_, Princeton University Press, 43–64.
+* Coren, Daniel, 2018. “Why Does Aristotle Defend the Principle of Non-Contradiction Against its Contrary?” _The Philosophical Forum_, 49(1): 39–59.
+* Cresswell, M. J., 2003. “Non-Contradiction and Substantial Predication,” _Theoria_, 69: 166–183.
+* Crivelli, Paolo, 2004. _Aristotle on Truth_, Cambridge: Cambridge University Press.
+* Dancy, R. M., 1975. _Sense and Contradiction_, Dordrecht: Reidel.
 * Degnan, Michael J., 1999. “What is the Scope of Aristotle’s Defense of the PNC?” in Shiner 1999.
-* Denyer, Nicholas, 1990. *Language, Thought and Falsehood in Ancient Greek Philosophy*, London and New York: Routledge.
-* Dutilh Novaes, Catarina, 2008. “A Comparative Taxonomy of Medieval and Modern Approaches to Liar Sentences.” *History and Philosophy of Logic*, 29(3): 227–61.
-* Erginel, M., 2009. “Relativism and Self-Refutation in the *Theaetetus*,” *Oxford Studies in Ancient Philosophy*, 36: 1–45.
-* Evans, J. D. G., 1974. “Aristotle on Relativism,” *Philosophical Quarterly*, 24: 193–203.
-* Fine, Gail, 2003. *Plato on Knowledge and Forms*, New York.: Oxford University Press, especially chs. 6–8.
-* Furth, Montgomery, 1986. “A Note on Aristotle’s Principle of Non-Contradiction,” *Canadian Journal of Philosophy*, 16(3): 371–81.
-* Gottlieb, Paula, 1994. “The Principle of Non-Contradiction and Protagoras: The Strategy of Aristotle’s *Metaphysics* IV 4,” *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 8: 183–209.
-* Halper, Edward, 1984. “Aristotle on the Extension of Non-Contradiction,” *History of Philosophy Quarterly*, 1(4): 369–80.
-* –––, 2009. *One and Many in Aristotle’s Metaphysics Alpha-Delta*, Las Vegas, Nevada: Parmenides, especially ch. 5, sections 5.9–5.10.
-* Hudry, Jean-Louis, 2013. “Aristotle on Non-Contradiction: Philosophers vs Non-Philosophers,”*Ancient Philosophy*, 7(2): 52–74.
-* Husik, I., 1906. “Aristotle on the Law of Contradiction and the Basis of the Syllogism,” *Mind*, 15: 215–22.
-* Irwin, T. H., 1977. “Aristotle’s Discovery of Metaphysics,” *Review of Metaphysics*, 31: 210–29.
-* –––, 1988. *Aristotle’s First Principles.* Oxford: Oxford University Press, especially ch. 9, sections 98–106.
-* Izgin, Christopher, 2020. “Internal Negation and the Principles of Non-Contradiction and Excluded Middle in Aristotle,” *History and Philosophy of Logic*, 41(1): 1–15. doi:10.1080/01445340.2019.1683793
-* Keeling, Evan, 2013. “Aristotle, Protagoras, and Contradiction: *Metaphysics* IV 4–6,” *Journal of Ancient Philosophy*, 7(2): 75–99.
-* Kenny, A J. P., 1967. “The Argument from Illusion in Aristotle’s *Metaphysics*,” *Mind*, 76: 184–97.
-* Kerferd, G. B., 1949. “Plato’s account of the relativism of Protagoras,” *University of Durham Journal* (New Series), 11(1): 20–26.
-* King, Colin Guthrie, 2021. “Word, Thought, and Object in Aristotle’s *De Interpretatione* 14 and *Metaphysics* IV 3,” *Studia Philosophica*, 80 (*Sémiotique, Grammaire et Logique*): 52–72.
-* Lear, Jonathan, 1980. *Aristotle and Logical Theory.* Cambridge: Cambridge University Press.
-* –––, 1988. *Aristotle: the desire to understand*, Cambridge: Cambridge University Press, especially ch. 6, section 6.4.
-* Lee, Mi-Kyoung, 2005. *Epistemology after Protagoras: Responses to Relativism in Plato, Aristotle and Democritus*, Oxford: Oxford University Press.
+* Denyer, Nicholas, 1990. _Language, Thought and Falsehood in Ancient Greek Philosophy_, London and New York: Routledge.
+* Dutilh Novaes, Catarina, 2008. “A Comparative Taxonomy of Medieval and Modern Approaches to Liar Sentences.” _History and Philosophy of Logic_, 29(3): 227–61.
+* Erginel, M., 2009. “Relativism and Self-Refutation in the _Theaetetus_,” _Oxford Studies in Ancient Philosophy_, 36: 1–45.
+* Evans, J. D. G., 1974. “Aristotle on Relativism,” _Philosophical Quarterly_, 24: 193–203.
+* Fine, Gail, 2003. _Plato on Knowledge and Forms_, New York.: Oxford University Press, especially chs. 6–8.
+* Furth, Montgomery, 1986. “A Note on Aristotle’s Principle of Non-Contradiction,” _Canadian Journal of Philosophy_, 16(3): 371–81.
+* Gottlieb, Paula, 1994. “The Principle of Non-Contradiction and Protagoras: The Strategy of Aristotle’s _Metaphysics_ IV 4,” _Proceedings of the Boston Area Colloquium in Ancient Philosophy_, 8: 183–209.
+* Halper, Edward, 1984. “Aristotle on the Extension of Non-Contradiction,” _History of Philosophy Quarterly_, 1(4): 369–80.
+* –––, 2009. _One and Many in Aristotle’s Metaphysics Alpha-Delta_, Las Vegas, Nevada: Parmenides, especially ch. 5, sections 5.9–5.10.
+* Hudry, Jean-Louis, 2013. “Aristotle on Non-Contradiction: Philosophers vs Non-Philosophers,”_Ancient Philosophy_, 7(2): 52–74.
+* Husik, I., 1906. “Aristotle on the Law of Contradiction and the Basis of the Syllogism,” _Mind_, 15: 215–22.
+* Irwin, T. H., 1977. “Aristotle’s Discovery of Metaphysics,” _Review of Metaphysics_, 31: 210–29.
+* –––, 1988. _Aristotle’s First Principles._ Oxford: Oxford University Press, especially ch. 9, sections 98–106.
+* Izgin, Christopher, 2020. “Internal Negation and the Principles of Non-Contradiction and Excluded Middle in Aristotle,” _History and Philosophy of Logic_, 41(1): 1–15. doi:10.1080/01445340.2019.1683793
+* Keeling, Evan, 2013. “Aristotle, Protagoras, and Contradiction: _Metaphysics_ IV 4–6,” _Journal of Ancient Philosophy_, 7(2): 75–99.
+* Kenny, A J. P., 1967. “The Argument from Illusion in Aristotle’s _Metaphysics_,” _Mind_, 76: 184–97.
+* Kerferd, G. B., 1949. “Plato’s account of the relativism of Protagoras,” _University of Durham Journal_ (New Series), 11(1): 20–26.
+* King, Colin Guthrie, 2021. “Word, Thought, and Object in Aristotle’s _De Interpretatione_ 14 and _Metaphysics_ IV 3,” _Studia Philosophica_, 80 (_Sémiotique, Grammaire et Logique_): 52–72.
+* Lear, Jonathan, 1980. _Aristotle and Logical Theory._ Cambridge: Cambridge University Press.
+* –––, 1988. _Aristotle: the desire to understand_, Cambridge: Cambridge University Press, especially ch. 6, section 6.4.
+* Lee, Mi-Kyoung, 2005. _Epistemology after Protagoras: Responses to Relativism in Plato, Aristotle and Democritus_, Oxford: Oxford University Press.
 * –––, 2010. “Antecedents in Early Greek Philosophy,” in Bett 2010, 13–35.
 * Lewis, David, 2004. “Letters to Priest and Beall,” In Priest, Beall and Armour-Garb (eds.) 2004, 176–77.
-* Long, A. A., 1981. “Aristotle and the history of Greek scepticism,” in D. J. O. O’Meara (ed.), *Studies in Aristotle*, Washington D.C: Catholic University of America Press, 1981, 79–106.
-* Łukasiewicz, J., 1910. “Aristotle on the law of contradiction,” in J. Barnes, M. Schofield, and R. Sorabji (eds.), *Articles on Aristotle*, vol. 3 Metaphysics. New York: St. Martin’s Press, 1979.
-* Mackie, J. L., 1964. “Self-Refutation: a formal analysis,” *Philosophical Quarterly*, 14: 193–203.
-* Martinich, A. P. (ed.), 2006. *The Philosophy of Language*, 5th edition. Oxford: Oxford University Press.
-* Massie, P., 2022. “Contradiction, Being, and Meaning, in Aristotle’s Metaphysics Gamma,” *Journal of Ancient Philosophy*, 16(1): 27–50.
-* McKirahan, Richard D., 2014. *Philoponus: on Aristotle’s Posterior Analytics I. 9–18*, London: Bloomsbury.
-* Meiland, J. W., 1977, “Concepts of Relative Truth,” *Monist*, 60: 568–82.
-* Meyer, Matthew, 2014. *Reading Nietzsche through the Ancients: An Analysis of Becoming, Perspectivism, and the Principle of Non-Contradiction*, Boston, Berlin: De Gruyter; see especially ch. 2 on Aristotle’s *Metaphysics* IV, and ch. 4 on Plato’s *Theaetetus*.
-* Moore, F. C. T., 1975. “Evans off Target,” *Philosophical Quarterly*, 25: 58–9. \[A reply to Evans 1974.]
-* Pasquale, Gianluigi, 2005. *Aristotle and the Principle of Non-Contradiction*, Sankt Augustin: Academica Verlag.
+* Long, A. A., 1981. “Aristotle and the history of Greek scepticism,” in D. J. O. O’Meara (ed.), _Studies in Aristotle_, Washington D.C: Catholic University of America Press, 1981, 79–106.
+* Łukasiewicz, J., 1910. “Aristotle on the law of contradiction,” in J. Barnes, M. Schofield, and R. Sorabji (eds.), _Articles on Aristotle_, vol. 3 Metaphysics. New York: St. Martin’s Press, 1979.
+* Mackie, J. L., 1964. “Self-Refutation: a formal analysis,” _Philosophical Quarterly_, 14: 193–203.
+* Martinich, A. P. (ed.), 2006. _The Philosophy of Language_, 5th edition. Oxford: Oxford University Press.
+* Massie, P., 2022. “Contradiction, Being, and Meaning, in Aristotle’s Metaphysics Gamma,” _Journal of Ancient Philosophy_, 16(1): 27–50.
+* McKirahan, Richard D., 2014. _Philoponus: on Aristotle’s Posterior Analytics I. 9–18_, London: Bloomsbury.
+* Meiland, J. W., 1977, “Concepts of Relative Truth,” _Monist_, 60: 568–82.
+* Meyer, Matthew, 2014. _Reading Nietzsche through the Ancients: An Analysis of Becoming, Perspectivism, and the Principle of Non-Contradiction_, Boston, Berlin: De Gruyter; see especially ch. 2 on Aristotle’s _Metaphysics_ IV, and ch. 4 on Plato’s _Theaetetus_.
+* Moore, F. C. T., 1975. “Evans off Target,” _Philosophical Quarterly_, 25: 58–9. \[A reply to Evans 1974.]
+* Pasquale, Gianluigi, 2005. _Aristotle and the Principle of Non-Contradiction_, Sankt Augustin: Academica Verlag.
 * Peña, Lorenzo, 1999. “The Coexistence of Contradictory Properties in the Same Subject According to Aristotle,” in Shiner 1999.
-* Politis, V., 2004. *Aristotle and the Metaphysics*, London: Routledge.
-* Priest, Graham, 1998. “To be and not to be—that is the answer. On Aristotle on the Law of Non-Contradiction,” *Philosophiegeschichte und Logische Analyse*, 1: 91–130. \[A dialetheist critique.]
-* –––, 2005. *Doubt Truth to be a Liar*, Oxford: Oxford University Press.
-* Priest, Graham, Beall, J. C. and Bradley Armour-Garb (eds.), 2004. *The Law of Non-Contradiction: New Philosophical Essays*, New York: Oxford University Press.
-* Ross, W.D., 1923. *Aristotle*, London: Methuen and Co.
-* –––, 1949. *Aristotle’s Prior and Posterior Analytics* (a revised text with introduction and commentary), Oxford: Clarendon Press.
-* Scholar, M.C., 1971. “Aristotle *Metaphysics* IV 1010b1–3,” *Mind*, 80: 266–8. \[A reply to Kenny 1967.]
-* Selby-Bigge, L.A. and Nidditch, P.H. (eds.), 1978. *Hume’s Enquiries concerning Human Understanding and concerning the Principles of Morals* (1777). Oxford: Clarendon Press.
-* Shields, Christopher, 2013, *Aristotle* (The Routledge Philosophers), London and New York: Routledge, second edition, especially ch. 6, section 6.5.
-* Shiner, R. (ed.), 1999. *Apeiron: A Journal for Ancient Philosophy and Science*, 22(3) (volume devoted to the Law of Non-Contradiction).
-* Siegel, Harvey, 1986. “Relativism, Truth and Incoherence,” *Synthése*, 68: 225–259.
-* Smith, Robin, 1982. “The Syllogism in *Posterior Analytics* I,” *Archiv für Geschichte der Philosophie*, 64: 113–35.
-* Stern, Robert (ed.), 2003. *Transcendental Arguments and Prospects*, Oxford: Oxford University Press.
-* Taylor. C. C. W., 1999. *The Atomists: Leucippus and Democritus: Fragments: a text and translation with a commentary*, Toronto; Buffalo: University of Toronto Press.
-* Tahko, Tuomas E., 2009. “The Law of Non-Contradiction as a Metaphysical Principle,” *The Australasian Journal of Logic*, 7: 32–47.
+* Politis, V., 2004. _Aristotle and the Metaphysics_, London: Routledge.
+* Priest, Graham, 1998. “To be and not to be—that is the answer. On Aristotle on the Law of Non-Contradiction,” _Philosophiegeschichte und Logische Analyse_, 1: 91–130. \[A dialetheist critique.]
+* –––, 2005. _Doubt Truth to be a Liar_, Oxford: Oxford University Press.
+* Priest, Graham, Beall, J. C. and Bradley Armour-Garb (eds.), 2004. _The Law of Non-Contradiction: New Philosophical Essays_, New York: Oxford University Press.
+* Ross, W.D., 1923. _Aristotle_, London: Methuen and Co.
+* –––, 1949. _Aristotle’s Prior and Posterior Analytics_ (a revised text with introduction and commentary), Oxford: Clarendon Press.
+* Scholar, M.C., 1971. “Aristotle _Metaphysics_ IV 1010b1–3,” _Mind_, 80: 266–8. \[A reply to Kenny 1967.]
+* Selby-Bigge, L.A. and Nidditch, P.H. (eds.), 1978. _Hume’s Enquiries concerning Human Understanding and concerning the Principles of Morals_ (1777). Oxford: Clarendon Press.
+* Shields, Christopher, 2013, _Aristotle_ (The Routledge Philosophers), London and New York: Routledge, second edition, especially ch. 6, section 6.5.
+* Shiner, R. (ed.), 1999. _Apeiron: A Journal for Ancient Philosophy and Science_, 22(3) (volume devoted to the Law of Non-Contradiction).
+* Siegel, Harvey, 1986. “Relativism, Truth and Incoherence,” _Synthése_, 68: 225–259.
+* Smith, Robin, 1982. “The Syllogism in _Posterior Analytics_ I,” _Archiv für Geschichte der Philosophie_, 64: 113–35.
+* Stern, Robert (ed.), 2003. _Transcendental Arguments and Prospects_, Oxford: Oxford University Press.
+* Taylor. C. C. W., 1999. _The Atomists: Leucippus and Democritus: Fragments: a text and translation with a commentary_, Toronto; Buffalo: University of Toronto Press.
+* Tahko, Tuomas E., 2009. “The Law of Non-Contradiction as a Metaphysical Principle,” _The Australasian Journal of Logic_, 7: 32–47.
 * Thom, Paul, 1999. “The Principle of Non-Contradiction in Early Greek Philosophy,” in Shiner 1999.
-* Wedin, Michael V., 1999. “The Scope of Non-Contradiction: A Note on Aristotle’s ‘Elenctic’ Proof in *Metaphysics* Gamma 4,” in Shiner 1999.
-* –––, 2003. “A Curious Turn in *Metaphysics* Gamma: Protagoras and Strong Denial of the Principle of Non-Contradiction,” *Archiv für Geschichte der Philosophie*, 85(2): 107–130.
-* –––, 2004. “Aristotle on the Firmness of the Principle of Non-Contradiction,” *Phronesis*, 49 (3): 225–265.
-* –––, 2004. “On the Use and Abuse of Non-Contradiction: Aristotle’s Critique of Protagoras and Heraclitus in *Metaphysics* Gamma 5,” *Oxford Studies in Ancient Philosophy*, 26: 213–239.
-* –––, 2005. “Animadversions on Burnyeat’s *Theaetetus*: On the Logic of the Exquisite Argument,” *Oxford Studies in Ancient Philosophy*, 29: 171–91.
-* Wians, William, 2006. “The Philosopher’s Knowledge of Non-Contradiction,” *Ancient Philosophy*, 26: 383–353.
-* Whitaker, C. W. A., 1996. *Aristotle’s De Interpretatione: Contradiction and Dialectic*, New York: Oxford University Press.
-* Ziglioli, Ugo, 2007. *Protagoras and the Challenge of Relativism*, Aldershot: Ashgate.
+* Wedin, Michael V., 1999. “The Scope of Non-Contradiction: A Note on Aristotle’s ‘Elenctic’ Proof in _Metaphysics_ Gamma 4,” in Shiner 1999.
+* –––, 2003. “A Curious Turn in _Metaphysics_ Gamma: Protagoras and Strong Denial of the Principle of Non-Contradiction,” _Archiv für Geschichte der Philosophie_, 85(2): 107–130.
+* –––, 2004. “Aristotle on the Firmness of the Principle of Non-Contradiction,” _Phronesis_, 49 (3): 225–265.
+* –––, 2004. “On the Use and Abuse of Non-Contradiction: Aristotle’s Critique of Protagoras and Heraclitus in _Metaphysics_ Gamma 5,” _Oxford Studies in Ancient Philosophy_, 26: 213–239.
+* –––, 2005. “Animadversions on Burnyeat’s _Theaetetus_: On the Logic of the Exquisite Argument,” _Oxford Studies in Ancient Philosophy_, 29: 171–91.
+* Wians, William, 2006. “The Philosopher’s Knowledge of Non-Contradiction,” _Ancient Philosophy_, 26: 383–353.
+* Whitaker, C. W. A., 1996. _Aristotle’s De Interpretatione: Contradiction and Dialectic_, New York: Oxford University Press.
+* Ziglioli, Ugo, 2007. _Protagoras and the Challenge of Relativism_, Aldershot: Ashgate.
 
-See also the bibliographies of the related entries on [Aristotle’s Metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) [Logic](https://plato.stanford.edu/entries/aristotle-logic/), and [Plato on Knowledge in the *Theaetetus*](https://plato.stanford.edu/entries/plato-theaetetus/).
+See also the bibliographies of the related entries on [Aristotle’s Metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) [Logic](https://plato.stanford.edu/entries/aristotle-logic/), and [Plato on Knowledge in the _Theaetetus_](https://plato.stanford.edu/entries/plato-theaetetus/).
 
 ## Academic Tools
 
@@ -316,11 +316,11 @@ See also the bibliographies of the related entries on [Aristotle’s Metaphysics
 
 ## Related Entries
 
-[Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [contradiction](https://plato.stanford.edu/entries/contradiction/) | [dialetheism](https://plato.stanford.edu/entries/dialetheism/) | [essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [liar paradox](https://plato.stanford.edu/entries/liar-paradox/) | [logic: ancient](https://plato.stanford.edu/entries/logic-ancient/) | [logic: paraconsistent](https://plato.stanford.edu/entries/logic-paraconsistent/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [Plato: on knowledge in the *Theaetetus*](https://plato.stanford.edu/entries/plato-theaetetus/) | [reference](https://plato.stanford.edu/entries/reference/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [skepticism: ancient](https://plato.stanford.edu/entries/skepticism-ancient/) | [transcendental arguments](https://plato.stanford.edu/entries/transcendental-arguments/)
+[Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [contradiction](https://plato.stanford.edu/entries/contradiction/) | [dialetheism](https://plato.stanford.edu/entries/dialetheism/) | [essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [liar paradox](https://plato.stanford.edu/entries/liar-paradox/) | [logic: ancient](https://plato.stanford.edu/entries/logic-ancient/) | [logic: paraconsistent](https://plato.stanford.edu/entries/logic-paraconsistent/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [Plato: on knowledge in the _Theaetetus_](https://plato.stanford.edu/entries/plato-theaetetus/) | [reference](https://plato.stanford.edu/entries/reference/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [skepticism: ancient](https://plato.stanford.edu/entries/skepticism-ancient/) | [transcendental arguments](https://plato.stanford.edu/entries/transcendental-arguments/)
 
 Acknowledgments
 
 Thanks to Evan Keeling, Anne Veenstra, Emily Fletcher, David Ebrey, and Graham Priest.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Paula Gottlieb](https://gottlieb.philosophy.wisc.edu/) <[*plgottli@wisc.edu*](mailto:plgottli%40wisc%2eedu)>
+[Paula Gottlieb](https://gottlieb.philosophy.wisc.edu/) <[_plgottli@wisc.edu_](mailto:plgottli%40wisc%2eedu)>

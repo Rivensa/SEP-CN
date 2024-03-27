@@ -1,6 +1,6 @@
 # 西蒙娜·德·波伏娃 Beauvoir, Simone de (Debra Bergoffen and Megan Burke)
 
-*首次发表于 2004 年 8 月 17 日；实质性修订于 2023 年 1 月 11 日*
+_首次发表于 2004 年 8 月 17 日；实质性修订于 2023 年 1 月 11 日_
 
 西蒙娜·德·波伏娃（1908 年-1986 年）是一位哲学家、小说家、女权主义者、公共知识分子和活动家，也是战后法国存在主义的重要人物之一。她以她在女性主义哲学领域的开创性工作《第二性》（1949 年）而闻名，但她在存在主义和现象学方面的原创贡献可以在她的作品中找到，从她的第一部哲学小说《她来了》（1943 年）到她在《老年的到来》（1970 年）中对老年化的政治化。尽管她一生都活跃在法国知识界，并在哲学论文、小说、戏剧、回忆录、旅行日记和报纸文章的作者以及左翼杂志《现代时代》的编辑的角色中参与了当时的哲学辩论，但波伏娃通常被视为让-保罗·萨特的存在主义伦理学的助产士，而不是一个独立的思想家。然而，她拒绝将自己定位为哲学家，尽管她接受了严格的哲学训练并取得了成就，她仍然将自己称为作家。然而，几十年来，由女性主义学者主导的对波伏娃生平和作品的研究使她在哲学领域获得了一席之地，这是有充分理由的。波伏娃对伦理学、社会和政治哲学、存在主义、现象学和女性主义哲学领域做出了持久的贡献，她作为一位活动家和公共知识分子的重要性是显而易见的。波伏娃的生活和作品继续激发着当代哲学及其他领域的研究和辩论。
 
@@ -64,11 +64,11 @@
 
 尽管如此，波伏娃的作品挑战了哲学和文学之间的界限，打破了个人、政治和哲学之间的界限。自她去世以来，她作为一位独创的哲学家的地位已经得到确立，这在很大程度上要归功于抵制哲学学科的父权制约并重新考虑波伏娃对自己生活和工作的框架的女权主义学者。她会欣赏她目前的哲学地位反映了我们对哲学领域的理解和妇女的变化情况，因为这证实了她关于具体自由的观点——我们的行动能力和我们是否被认定为行动者，受到我们的处境的限制，尽管从未被决定。她还会欣赏这样一个事实，即虽然她的作品在实现这些变革方面起到了重要作用，但它们的持久影响是对其他人接纳她的哲学和女权主义遗产方式的致敬；因为她对我们的伦理和政治词汇的一个重要贡献就是“呼吁”的概念——我们的项目的成功取决于它们被他人采纳的程度。
 
-## 3. *她来了*：自由与暴力
+## 3. _她来了_：自由与暴力
 
 尽管波伏娃的第一篇哲学论文是《皮鲁斯和西涅阿斯》（1944 年），但她的许多解读者将《她来了》（1943 年）视为她的哲学初探。这是波伏娃所称的形而上小说的一个明显例子。萨特和波伏娃之间的信件以及波伏娃当时的日记（于 1980 年代出版）表明，波伏娃和萨特都关注他人的问题，虚伪的问题以及欲望的动态。他们还在探讨我们个体存在的状况与我们所生活的社会条件之间的关系和紧张关系。《她来了》充满了哲学思考，思考我们与时间、彼此和自己的关系。然而，这些思考从未以系统的论证形式呈现，也没有得出结论。它们在皮埃尔、萨维尔和弗朗索瓦兹这三个具体而模糊的人物生活中得以体现。小说以黑格尔的一句引语开篇：“每个良心都寻求对方的死亡”，并以弗朗索瓦兹谋杀萨维尔而结束。波伏娃将这一行为叙述为弗朗索瓦兹面对孤独并宣告自由的行为，小说并不一定证实了黑格尔的说法。谋杀的目的并不是为了消灭他人本身，而是为了消灭一个特定的他人，即威胁到弗朗索瓦兹无法与所爱的皮埃尔在一起的萨维尔。在这里，存在的模糊性胜过黑格尔的明晰性。这部首部小说提出的问题，包括关于自由责任和限制的模糊性、暴力的合法性、我们将自己体验为既孤独又与他人交织在一起的紧张关系、虚伪的诱惑以及对时间的存在性忠诚关系的审视，将贯穿波伏娃随后的思考。
 
-## 4. *皮鲁斯和西涅阿斯*：激进的自由与他者
+## 4. _皮鲁斯和西涅阿斯_：激进的自由与他者
 
 《皮鲁斯和西涅阿斯》（1944 年）是波伏娃在《她来了》之后一年出版的第一本哲学论文。它涉及基本的伦理和政治问题，例如：伦理行动的标准是什么？我如何区分伦理与非伦理的政治项目？伦理关系的原则是什么？暴力是否可以被正当化？它从存在主义-现象学的角度探讨这些问题。以具体存在的个体的情境为出发点，《皮鲁斯和西涅阿斯》分析了作为特定主体的我们如何必然地嵌入世界并与他人紧密相关。尽管在任何可辨认的意义上都不是女权主义的，这篇论文提出了一些引人注目的女权主义问题，例如：在什么条件下，如果有的话，我可以代表/以他人的名义发言？
 
@@ -84,7 +84,7 @@
 
 《皮鲁斯和西尼亚斯》的论点以一种不安的音符结束。作为伦理学，我们有义务为物质和政治平等的条件而努力。在呼吁他人接纳我们的项目并为这些项目赋予未来时，我们被禁止强迫他人成为我们的盟友。我们被要求呼吁他们的自由。然而，当说服失败时，我们被允许诉诸暴力。我们作为自己的主体和他人的客体的存在的模糊性在暴力和正义的困境中得以体现。对自由意义的清醒，使我们学会通过接受其有限性和偶然性、风险和失败来生活我们的自由。
 
-## 5. *模糊的伦理学*：虚伪、呼吁、艺术家
+## 5. _模糊的伦理学_：虚伪、呼吁、艺术家
 
 我们无法知道西蒙娜·德·波伏娃的思想如果她没有遭受纳粹占领巴黎的寒冷、饥饿和恐惧会走向何方。我们所知道的是，当她面对超出她控制范围的不公正力量时，邪恶和他者的问题变得更加紧迫。波伏娃谈到战争在时间上造成了存在上的断裂。她谈到自己经历了一次转变。她再也无法奢侈地专注于自己的幸福和快乐。邪恶的问题变得迫切。一个人不能拒绝表态。一个人要么是合作者，要么不是。在写作《模糊的伦理学》时，波伏娃表明了自己的立场。她将自己定位为存在主义者，并将存在主义视为我们（她）这个时代的哲学，因为它是唯一认真对待邪恶问题的哲学。它是唯一准备应对陀思妥耶夫斯基的观点，即没有上帝一切皆可的哲学。然而，我们在世界上是孤独的，我们存在没有保证，这并不是人类存在的唯一真理。还有我们的自由的真理，这个真理在《模糊的伦理学》中详细阐述，涉及一种互惠和责任的逻辑，对抗仅由权力的权威统治的世界的恐怖。
 
@@ -120,7 +120,7 @@
 
 波伏娃对美国的种族关系的关注以及她在访问期间与自己的白人身份的对抗，与赖特对波伏娃的影响有很大关系，她在纽约长期逗留期间与赖特共度了时光，并阅读了冈纳尔·米尔达尔的《美国困境》（1944 年），她经常引用该书。然而，尽管波伏娃关注美国的种族关系和白人的种族仇恨，学者们指出，她的描述中也有一些方面暴露了波伏娃自己的白人观念和殖民遭遇。《日日美国》的这个维度使波伏娃对美国的政治批评变得复杂，但并没有抹去她对美国的政治批评或她对美国人的道德和政治倾向的描述的重要性。
 
-## 7. *第二性*：女性作为他者
+## 7. _第二性_：女性作为他者
 
 在写作《日日美国》时，波伏娃开始构思她最著名的著作《第二性》。在她的自传《环境的力量》中，波伏娃回顾了《模糊的伦理学》并批评它过于抽象。她并没有否认自己文本中的论点，但发现它在试图在社会背景之外定义道德时犯了错误。《第二性》可以被看作是纠正这个错误，重新制定并实际定位《模糊的伦理学》的分析。《模糊的伦理学》通过描绘道德和非道德人物形象来使其论点具体化，而《第二性》的分析则体现在波伏娃作为一个女性的经历和女性的生活现实中。《模糊的伦理学》以一般意义上的迷惑为话题，《第二性》则讲述了自然科学、社会科学以及欧洲文学、社会、道德、政治和宗教传统创造了一个世界，其中对女性的“自然”劣势产生了一种意识形态，以正当父权统治。
 
@@ -146,7 +146,7 @@
 
 为了解释成为一个女人意味着什么，波伏娃在文本的早期引入了“他者”的概念，并且这一概念贯穿了她的整个分析。她在她的最后一部重要作品《老年的到来》（1970 年）中再次使用这一概念，以构建她对老年人被社会他者化的批判。在《第二性》中，波伏娃对“他者”的概念基于黑格尔的主奴辩证法。与普遍化这一辩证法的黑格尔不同，波伏娃区分了历史构成的主体和他者之间的剥削辩证法与当主体是男性、一种至高无上的存在，而他者是女性、一种相对存在时所产生的剥削。在第一种情况下，他者将他们的压迫经历视为一种共同的现实。他们将自己视为被压迫群体的一部分。在这里，被压迫的他者可以借助共同的历史和共同的虐待情况来主张他们的主体性，并要求认可和互惠。女性的处境类似于黑格尔的他者的状况，男性像黑格尔的主人一样，将自己视为主体，绝对的人类类型，并通过以这种人类标准来衡量女性，将她们视为劣等。然后，所谓的女性不足被用来证明她们是他者，并相应地对待她们。然而，与黑格尔的他者不同，女性无法确定她们他者身份的起源。她们无法借助共同历史的纽带来恢复她们失去的主体地位。此外，分散在男性世界中，女性将自己的身份界定为压迫者的差异（例如，作为白人或黑人女性，作为工人阶级或中产阶级女性，作为穆斯林、基督徒、犹太人、佛教徒或印度教徒女性），而不是与彼此相连。根据波伏娃的观点，她们缺乏黑格尔的他者组织自己成为一个要求认可的“我们”的团结和资源。与主奴辩证法的他者不同，女性没有反抗的立场。波伏娃使用“非本质他者”的范畴来指代女性作为男性模糊的他者的独特处境。作为非本质他者，女性的主体性和认可的途径不能遵循黑格尔的脚本。
 
-对于波伏娃来说，女性与男性的冲突是模糊的。她将男性和女性之间的关系称为“原始的*Mitsein*”（SS:2010, 9, cf. 1949, 22），以此来表明他们在世界中最初的共同存在。对于波伏娃来说，女性和男性之间的这种关系引起了主体与其他者之间的相互依赖，并成为将女性与她们的压迫者联系在一起的独特纽带。因此，这种关系导致了女性无法确定共同历史的能力。女性与男性之间存在必要的联系，无论是否存在相互性，这一断言借鉴了《模糊的伦理学》中发展的呼吁概念：通过呼吁他人加入我追求正义的行动中，我验证了自己和我的价值观。鉴于我的呼吁必须是对他人自由的呼吁，我必须允许他人可能拒绝它的现实。当这种情况发生时，我必须（假设拒绝不会对自由的基本价值构成威胁）承认他人的自由，并肯定将我们彼此联系在一起的人类纽带。波伏娃指出，在女性的情况下，这种呼吁的方面（肯定我们之间的纽带）占主导地位。她不赞同女性允许纽带的肯定盖过被认可为自由主体的要求的方式。但是，她确实提醒我们，认可本身并不是伦理关系的全部。要求认可而不考虑纽带是不道德的；这是主体作为主人的立场。波伏娃认为，需要的是重建纽带，使女性能够实现自己。
+对于波伏娃来说，女性与男性的冲突是模糊的。她将男性和女性之间的关系称为“原始的_Mitsein_”（SS:2010, 9, cf. 1949, 22），以此来表明他们在世界中最初的共同存在。对于波伏娃来说，女性和男性之间的这种关系引起了主体与其他者之间的相互依赖，并成为将女性与她们的压迫者联系在一起的独特纽带。因此，这种关系导致了女性无法确定共同历史的能力。女性与男性之间存在必要的联系，无论是否存在相互性，这一断言借鉴了《模糊的伦理学》中发展的呼吁概念：通过呼吁他人加入我追求正义的行动中，我验证了自己和我的价值观。鉴于我的呼吁必须是对他人自由的呼吁，我必须允许他人可能拒绝它的现实。当这种情况发生时，我必须（假设拒绝不会对自由的基本价值构成威胁）承认他人的自由，并肯定将我们彼此联系在一起的人类纽带。波伏娃指出，在女性的情况下，这种呼吁的方面（肯定我们之间的纽带）占主导地位。她不赞同女性允许纽带的肯定盖过被认可为自由主体的要求的方式。但是，她确实提醒我们，认可本身并不是伦理关系的全部。要求认可而不考虑纽带是不道德的；这是主体作为主人的立场。波伏娃认为，需要的是重建纽带，使女性能够实现自己。
 
 这种变化并不涉及女性的幸福。幸福可以选择或接受，以换取自由的剥夺。回顾《模糊的伦理学》的论证，我们知道为什么。作为他者，女性被送回到孩子在形而上学上特权的世界。她们经历了由虚伪带来的幸福——不为自己负责，不必做出重大选择的幸福。从这种存在主义的角度来看，可以说女性在她们的压迫中是串通一气的。但这并不是全部。如果女性作为他者感到幸福，可能是因为在她们的物质和意识形态现实的情况下，这是唯一可行的幸福途径。波伏娃对虚伪的存在主义指责必须在她对社会、经济和文化结构的马克思主义分析中加以理解，这些结构构成了女性生活的框架。尽管波伏娃并不认为这些结构剥夺了女性的自由，但她也没有忽视使得行使自由变得极其困难的情况。
 
@@ -166,7 +166,7 @@
 
 ## 8. “我们必须烧掉萨德吗？”自由与肉体
 
-作为对撰写《朱斯汀》（*Justine*）序言的请求的回应，波伏娃的论文《我们必须烧掉萨德吗？》（1951-1952 年）延续了她对互为主体性的戏剧和自由与亲密关系之间关系的伦理思考。事实上，波伏娃对萨德感兴趣的是他以极端方式提出了“他者”的问题（1963\[1965]，243，参见 1963，333）。
+作为对撰写《朱斯汀》（_Justine_）序言的请求的回应，波伏娃的论文《我们必须烧掉萨德吗？》（1951-1952 年）延续了她对互为主体性的戏剧和自由与亲密关系之间关系的伦理思考。事实上，波伏娃对萨德感兴趣的是他以极端方式提出了“他者”的问题（1963\[1965]，243，参见 1963，333）。
 
 《我们必须烧掉萨德吗？》将萨德的写作决定视为一项存在主义项目。波伏娃认为萨德揭示了父权政治机器的专制秘密。她对他对自由的乌托邦呼吁表示同情。然而，她发现萨德曲解了自由的意义。因此，波伏娃将萨德视为一个伟大的道德家，但他支持了一个不令人满意的伦理学。
 
@@ -234,258 +234,258 @@
 
 ### Works by Beauvoir
 
-* 1927, *4e cahier*, holograph manuscript, Paris: Bibliothèque Nationale.
-* 1928–29, *Carnet 6*, holograph manuscript, Paris: Bibliothèque Nationale.
-* 1929–31, *Carnet 7*, holograph manuscript, Paris: Bibliothèque Nationale.
-* 1943 \[1954], *L’Invitée*, Paris: Gallimard; translated as *She Came to Stay*, Yvonne Moyse and Roger Senhouse (trans.), Cleveland, OH: World Publishing, 1954.
-* \[P\&C] 1944, *Pyrrhus et Cinéas: A Cette Dame*, Paris: Editions Gallimard; translated as “Pyrrhus and Cineas: A Cette Dame”, Marybeth Timmerman (trans.), in PhilW: 89–149.
-* 1945a, “La Phénoménologie de la perception de Maurice Merleau-Ponty”, *Les Temps Modernes*, 1(2): 363–367; translated as “A Review of The Phenomenology of Perception by Maurice Merleau-Ponty”, in Marybeth Timmerman (trans.), PhilW: 159–164.
-* 1945b, “Idéalisme moral et réalisme politique”, *Les Temps Modernes*, 1(2): 248–268. Reprinted in ESN: 49–88; translated as “Moral Idealism and Political Realism”, Anne Deing Cordero (trans.), in PhilW: 175–193.
-* 1945c, “L’existentialisme et la sagesse des nations”, *Les Temps Modernes*, 1(3): 385–404. Reprinted in ESN: 13–48; translated as “Existentialism and Popular Wisdom”, Marybeth Timmerman (trans.) in PhilW: 203–220.
-* 1945d, untitled and undated manuscript. Probably original of “Jean Paul Sartre: Strictly Personal”, Malcolm Cowley (trans.), *Harper’s Bazaar*, January 1946, pp. 113, 158, 160; translated as “Jean-Paul Sartre”, Marybeth Timmerman (trans.) in PhilW: 229–235.
-* 1945e, *Le Sang des autres*, Paris: Gallimard; translated as *The Blood of Others*, Yvonne Moyse and Roger Senhouse (trans.), New York: Knopf, 1948; translation reprinted New York: Pantheon Books, 1983.
-* 1945f, *Les Bouches inutiles, Paris*: Gallimard; translated as *The Useless Mouths*, Liz Stanley and Catherine Naji (trans.), in LitW: 33–88.
+* 1927, _4e cahier_, holograph manuscript, Paris: Bibliothèque Nationale.
+* 1928–29, _Carnet 6_, holograph manuscript, Paris: Bibliothèque Nationale.
+* 1929–31, _Carnet 7_, holograph manuscript, Paris: Bibliothèque Nationale.
+* 1943 \[1954], _L’Invitée_, Paris: Gallimard; translated as _She Came to Stay_, Yvonne Moyse and Roger Senhouse (trans.), Cleveland, OH: World Publishing, 1954.
+* \[P\&C] 1944, _Pyrrhus et Cinéas: A Cette Dame_, Paris: Editions Gallimard; translated as “Pyrrhus and Cineas: A Cette Dame”, Marybeth Timmerman (trans.), in PhilW: 89–149.
+* 1945a, “La Phénoménologie de la perception de Maurice Merleau-Ponty”, _Les Temps Modernes_, 1(2): 363–367; translated as “A Review of The Phenomenology of Perception by Maurice Merleau-Ponty”, in Marybeth Timmerman (trans.), PhilW: 159–164.
+* 1945b, “Idéalisme moral et réalisme politique”, _Les Temps Modernes_, 1(2): 248–268. Reprinted in ESN: 49–88; translated as “Moral Idealism and Political Realism”, Anne Deing Cordero (trans.), in PhilW: 175–193.
+* 1945c, “L’existentialisme et la sagesse des nations”, _Les Temps Modernes_, 1(3): 385–404. Reprinted in ESN: 13–48; translated as “Existentialism and Popular Wisdom”, Marybeth Timmerman (trans.) in PhilW: 203–220.
+* 1945d, untitled and undated manuscript. Probably original of “Jean Paul Sartre: Strictly Personal”, Malcolm Cowley (trans.), _Harper’s Bazaar_, January 1946, pp. 113, 158, 160; translated as “Jean-Paul Sartre”, Marybeth Timmerman (trans.) in PhilW: 229–235.
+* 1945e, _Le Sang des autres_, Paris: Gallimard; translated as _The Blood of Others_, Yvonne Moyse and Roger Senhouse (trans.), New York: Knopf, 1948; translation reprinted New York: Pantheon Books, 1983.
+* 1945f, _Les Bouches inutiles, Paris_: Gallimard; translated as _The Useless Mouths_, Liz Stanley and Catherine Naji (trans.), in LitW: 33–88.
 * 1945g, “Quatre jours à Madrid”, Combat, 14–15 April, p. 1–2; translated as “Four Days in Madrid”, Marybeth Timmerman (trans.), in PolW: 16–21.
-* 1946a, “Œil pour œil”, *Les Temps Modernes*, 1(5): 813–830; reprinted in ESN: 109–143; translated as “An Eye for an Eye”, Kristana Arp (trans.), PhilW: 245–260.
-* 1946b, “Littérature et métaphysique”, *Les Temps Modernes*, 1(7):1153–1163; reprinted in ESN: 89–107; translated as “Literature and Metaphysics”, Véronique Zaytzeff and Frederick M. Morrison (trans.) in PhilW: 269–277.
-* 1946c \[1955], *Tous les homes sont mortels*, Paris: Gallimard; translated as *All Men Are Mortal*, Leonard M. Friedman (trans.), Cleveland, OH: World Publishing, 1955.
-* 1947a, “An Existentialist Looks at Americans”, *New York Times Magazine*, 25 May, pp. 13, 51, 52. Reprinted in PhilW: 307–315.
-* 1947b, “Qu’est-ce que l’existentialisme?”, *France-Amérique*, 29 June 29, pp. 1, 5; translated as , “What is Existentialism?”, Marybeth Timmerman (trans.), PhilW: 323–326.
-* 1947c \[1976], *Pour une morale de l’ambigüité*, Paris: Gallimard; translated as *The Ethics of Ambiguity*, Bernard Frechtman (trans.), New York: Citadel Press, 1976.
+* 1946a, “Œil pour œil”, _Les Temps Modernes_, 1(5): 813–830; reprinted in ESN: 109–143; translated as “An Eye for an Eye”, Kristana Arp (trans.), PhilW: 245–260.
+* 1946b, “Littérature et métaphysique”, _Les Temps Modernes_, 1(7):1153–1163; reprinted in ESN: 89–107; translated as “Literature and Metaphysics”, Véronique Zaytzeff and Frederick M. Morrison (trans.) in PhilW: 269–277.
+* 1946c \[1955], _Tous les homes sont mortels_, Paris: Gallimard; translated as _All Men Are Mortal_, Leonard M. Friedman (trans.), Cleveland, OH: World Publishing, 1955.
+* 1947a, “An Existentialist Looks at Americans”, _New York Times Magazine_, 25 May, pp. 13, 51, 52. Reprinted in PhilW: 307–315.
+* 1947b, “Qu’est-ce que l’existentialisme?”, _France-Amérique_, 29 June 29, pp. 1, 5; translated as , “What is Existentialism?”, Marybeth Timmerman (trans.), PhilW: 323–326.
+* 1947c \[1976], _Pour une morale de l’ambigüité_, Paris: Gallimard; translated as _The Ethics of Ambiguity_, Bernard Frechtman (trans.), New York: Citadel Press, 1976.
 * 1947d, “Femininity, the trap”, Vogue, 15 March, pp. 171, 232, 234, translator unknown. Reprinted with some modifications as “Femininity: The Trap”, in FemW: 42–47.
-* 1948, *L’Amerique au jour le jour*, Paris: Editions Paul Marihein; translated as *America Day by Day*, P. Dudley \[pseud.] (trans.), London: Duckworth, 1952.
+* 1948, _L’Amerique au jour le jour_, Paris: Editions Paul Marihein; translated as _America Day by Day_, P. Dudley \[pseud.] (trans.), London: Duckworth, 1952.
 * \[ESN] 1948, L’Existentialisme et la sagesse des nations, Paris: Nagel. A collection of some of her essays.
-* \[SS] 1949, *Le Deuxième sexe*, Paris: Editions Gallimard.
-  * 1953, *The Second Sex*, H. M. Pashley (trans.), New York: Knopf.
-  * 2010, *The Second Sex*, C. Borde and S. Malovany-Chevallier (trans.), New York: Alfred A. Knopf.
-* 1949, Review in *Les Temps Modernes*, 7(49): 943–949; translated as “A Review of The Elementary Structures of Kinship by Claude Lévi-Strauss”, Véronique Zaytzeff and Frederick Morrison (trans.), in FemW: 58–66.
-* 1950, “It’s About Time Women Put a New Face on Love”, *Flair*, 1, 3, April, 76–77, translator unknown. Reprinted with some modifications in FemW: 76–80
+* \[SS] 1949, _Le Deuxième sexe_, Paris: Editions Gallimard.
+  * 1953, _The Second Sex_, H. M. Pashley (trans.), New York: Knopf.
+  * 2010, _The Second Sex_, C. Borde and S. Malovany-Chevallier (trans.), New York: Alfred A. Knopf.
+* 1949, Review in _Les Temps Modernes_, 7(49): 943–949; translated as “A Review of The Elementary Structures of Kinship by Claude Lévi-Strauss”, Véronique Zaytzeff and Frederick Morrison (trans.), in FemW: 58–66.
+* 1950, “It’s About Time Women Put a New Face on Love”, _Flair_, 1, 3, April, 76–77, translator unknown. Reprinted with some modifications in FemW: 76–80
 * 1951–52, “Faut-il brûler Sade?” (Must We Burn Sade?),
-  * 1951, part 1, *Les Temps modernes*, 74: 1002–1033.
-  * 1952, part 2, *Les Temps modernes*, 75: 1197–1230.
+  * 1951, part 1, _Les Temps modernes_, 74: 1002–1033.
+  * 1952, part 2, _Les Temps modernes_, 75: 1197–1230.
   * 1953, English translation, A. Michelson (trans.), London: Peter Neville.
   * 2012, English translation, Kim Allen Gleed, Marilyn Gladdis Rose, and Virginia Preston (trans.), PolW: 44–101.
-* 1954 \[1956], *Les Mandarins*, Paris: Gallimard; translated as *The Mandarins*, Leonard M. Friedman (trans.), Cleveland: World , 1956.
-* 1955a, “Merleau-Ponty et le pseudo-sartrisme”, *Les Temps modernes*, 10: 2072–2122; translated in 1989 as “Merleau-Ponty and Pseudo-Sartreanism”, Véronique Zaytzeff and Frederick M. Morrison (trans.), International Studies in Philosophy, 21(3): 3–48; translation reprinted in in PolW: 206–257.
-* 1955b, *Privilèges*, Paris: Gallimard.
-* 1955c, “La pensée de droite, aujourd’hui”, *Les Temps Modernes*, 112–13, (May 1955): 1539–1575; 114–15 (June-July 1955): 2219–2261. Reprinted in Privilèges: 93–200; translated as “Right Wing Thought Today”, Véronique Zaytzeff and Frederick M. Morrison (trans.), in PolW: 113–193.
-* 1957 \[1958], *La Longue marche, essai sur la Chine*, Paris: Gallimard; translated as *The Long March*, Austryn Wainhouse (trans.), Cleveland, OH: World Publishing, 1958.
-* 1958 \[1959], *Mémoires d’une jeune fille rangée*, Paris: Gallimard; translated as *Memoirs of a Dutiful Daughter*, James Kirkup (trans.), Cleveland, OH: World Pub.
+* 1954 \[1956], _Les Mandarins_, Paris: Gallimard; translated as _The Mandarins_, Leonard M. Friedman (trans.), Cleveland: World , 1956.
+* 1955a, “Merleau-Ponty et le pseudo-sartrisme”, _Les Temps modernes_, 10: 2072–2122; translated in 1989 as “Merleau-Ponty and Pseudo-Sartreanism”, Véronique Zaytzeff and Frederick M. Morrison (trans.), International Studies in Philosophy, 21(3): 3–48; translation reprinted in in PolW: 206–257.
+* 1955b, _Privilèges_, Paris: Gallimard.
+* 1955c, “La pensée de droite, aujourd’hui”, _Les Temps Modernes_, 112–13, (May 1955): 1539–1575; 114–15 (June-July 1955): 2219–2261. Reprinted in Privilèges: 93–200; translated as “Right Wing Thought Today”, Véronique Zaytzeff and Frederick M. Morrison (trans.), in PolW: 113–193.
+* 1957 \[1958], _La Longue marche, essai sur la Chine_, Paris: Gallimard; translated as _The Long March_, Austryn Wainhouse (trans.), Cleveland, OH: World Publishing, 1958.
+* 1958 \[1959], _Mémoires d’une jeune fille rangée_, Paris: Gallimard; translated as _Memoirs of a Dutiful Daughter_, James Kirkup (trans.), Cleveland, OH: World Pub.
 * 1959a, “Préface” to Le “planning” familial, Lagroua Weill-Hallé, Paris: Maloine; translated as “Preface to Family Planning”, Marybeth Timmerman (trans.), in FemW: 81–83.
-* 1959b, “Brigitte Bardot and the Lolita Syndrome”, Bernard Frechtman (trans.), *Esquire*, August 1959. Reprinted with some modifications in FemW: 114–125. A French back translation appeared in *Écrits*, Claude Rancis and Fernande Gontier (eds.), 363–376.
+* 1959b, “Brigitte Bardot and the Lolita Syndrome”, Bernard Frechtman (trans.), _Esquire_, August 1959. Reprinted with some modifications in FemW: 114–125. A French back translation appeared in _Écrits_, Claude Rancis and Fernande Gontier (eds.), 363–376.
 * 1960a, “Préface” to La grand’peur d’aimer, Marie-Andrée Lagroua Weill-Hallé, Paris: Éditions Julliard-Sequana; translated as “Preface to The Great Fear Of Loving”, Marybeth Timmerman (trans.), in FemW: 84–87.
-* 1960b \[1962], *La Force de l’âge*, Paris: Gallimard; translated as *The Prime of Life: The Autobiography of Simone de Beauvoir*, Peter Green (trans.), Cleveland, OH: World Publishing, 1962.
-* 1961, “La condition féminine”, *La NEF* (La nouvelle équipe française) 5(January–March): 121–127. Reprinted in Écrits: 401–409; translated as “The Condition Of Women”, Marybeth Timmerman (trans.) in FemW: 88–96
-* 1962, “Preface”, in *Djamila Boupacha, Simone de Beauvoir and Gisile Halimi*, Paris: Gallimard; translated as “Preface”, in *Djamila Boupacha: The Story of the Torture of a Young Algerian Girl Which Shocked Liberal French Opinion*, Patrick Green (trans.), London: Weidenfeld and Nicolson, 1962. Retranslated as “Preface to Djamillia Boupacha”, Marybeth Timmerman (trans.) in PolW: 272–282.
-* 1963 \[1965], *La Force des choses*, Paris: Gallimard; translated as *After the War: Force of Circumstance I* and *Hard Times: Force of Circumstance II,* Richard Howard (trans.), New York: Putnam, 1965.
+* 1960b \[1962], _La Force de l’âge_, Paris: Gallimard; translated as _The Prime of Life: The Autobiography of Simone de Beauvoir_, Peter Green (trans.), Cleveland, OH: World Publishing, 1962.
+* 1961, “La condition féminine”, _La NEF_ (La nouvelle équipe française) 5(January–March): 121–127. Reprinted in Écrits: 401–409; translated as “The Condition Of Women”, Marybeth Timmerman (trans.) in FemW: 88–96
+* 1962, “Preface”, in _Djamila Boupacha, Simone de Beauvoir and Gisile Halimi_, Paris: Gallimard; translated as “Preface”, in _Djamila Boupacha: The Story of the Torture of a Young Algerian Girl Which Shocked Liberal French Opinion_, Patrick Green (trans.), London: Weidenfeld and Nicolson, 1962. Retranslated as “Preface to Djamillia Boupacha”, Marybeth Timmerman (trans.) in PolW: 272–282.
+* 1963 \[1965], _La Force des choses_, Paris: Gallimard; translated as _After the War: Force of Circumstance I_ and _Hard Times: Force of Circumstance II,_ Richard Howard (trans.), New York: Putnam, 1965.
 * 1964a, “Preface”, in La Bâtarde, by Violette Leduc, Paris: Gallimard; translated as “Foreword” in La Bâtarde \[The Bastard], Derek Coleman (trans.), New York: Riverhead Books, 1965.
-* 1964b, *Une Mort très douce*, Paris: Gallimard; translated as *A Very Easy Death*, Patrick O’Brian (trans.), New York: Putnam, 1966.
-* 1964c, “Préface”, translator unknown, to *The Sexually Responsive Woman*, by Phyllis and Eberhard Kronhausen, New York: Grove Press. Reprinted in FemW: 97–98.
+* 1964b, _Une Mort très douce_, Paris: Gallimard; translated as _A Very Easy Death_, Patrick O’Brian (trans.), New York: Putnam, 1966.
+* 1964c, “Préface”, translator unknown, to _The Sexually Responsive Woman_, by Phyllis and Eberhard Kronhausen, New York: Grove Press. Reprinted in FemW: 97–98.
 * 1965a, “Que peut la littérature?”, Le Monde, 249: 73–92.
 * 1965b, “What Love Is—and Isn’t”, McCall’s, translator unknown, August, pp. 71, 133. Reprinted in FemW: 99–102.
 * 1966, “Préface” to Treblinka, by Jean-François Steiner, Paris: Fayard; translated as “Preface to Treblinka”, Marybeth Timmerman (trans.), in PolW: 305–310.
-* 1966a, *Les Belles images*, Paris: Gallimard; translated as *Les belles images*, Patrick O’Brian (trans.), New York: Putnam, 1968.
+* 1966a, _Les Belles images_, Paris: Gallimard; translated as _Les belles images_, Patrick O’Brian (trans.), New York: Putnam, 1968.
 * 1966b, “Situation de la femme d’aujourd’hui”, lecture 20 September 1966 in Tokyo. Printed in Écrits: 422–439; translated as “The Situation Of Women Today”, Debbie Mann (trans.), in FemW: 132–145.
-* 1966c, “La femme et la creation”, lecture 22 September 1966 in Japan. Printed in *Écrits*: 458–474; translated as “Women and Creativity”, Marybeth Timmerman (trans.), in FemW: 155–169.
-* 1967 \[1969], *La Femme rompue*, Paris: Gallimard; translated as *The Woman Destroyed*, Patrick O’Brian (trans.), New York: Putnam, 1969.
-* 1969, “Amour et politique”, *Le nouvel observateur*, 222, February 10–16; translated as “Love and Politics”, Marybeth Timmerman (trans.), in *FemW*: 103–105.
-* 1970 \[1972], *La Vieillesse*, Paris: Gallimard; translated by Patrick O’Brian and printed in the United States as *The Coming of Age*, (trans.), New York: Putnam, 1972, and in the United Kingdom as *Old Age*, London: André Deutsch, 1972.
-* 1971, “En France aujourd’hui on peut tuer impunément”, *J’accuse*, 2(February 15): 475–481; in Écrits: 475–481; translated as “In France Today Killing Goes Unpunished”, Marybeth Timmerman (trans.), in *PolW*: 287–292.
-* 1972a \[1974], *Tout compte fait*, Paris: Gallimard; translated as *All Said and Done*, Patrick O’Brian (trans.), New York: Putnam, 1974.
-* 1972b, “La Femme révoltée”, an interview by Alice Schwartzer, *Le nouvel observateur*, 14 February 1972, 47–54. Reprinted in Écrits: 482–497; translated as “The Rebellious Woman—An Interview by Alice Schwartzer”, Marybeth Timmerman (trans.), in *FemW*: 192–208
-* 1972c, “Réponse à quelques femmes et à un homme”, *Le nouvel observateur*, 6 March 1972, 40–42. Reprinted in Écrits: 498–504; translated as “Response to Some Women and a Man”, Marybeth Timmerman (trans.), in *FemW*: 209:–215.
-* 1972d, “L’avortement des pauvres”, *Le nouvel observateur*, 414, October 16–22, 57; translated as “Abortion and the Poor”, Marybeth Timmerman (trans.), in *FemW*: 216–218.
-* 1972e, “Déposition de Simone de Beauvoir au procès de Bobigny”, printed in *Écrits*: 510–513; translated as “Beauvoir’s Deposition at the Bobigny Trial”, Marybeth Timmerman (trans.), in FemW: 219–222.
-* 1973a, “La Syrie et les prisonniers”, *Le monde* (December 18). Reprinted in Écrits 254–255; translated as “Syria and Its Prisoners”, Marybeth Timmerman (trans.), in PolW: 311–313.
-* 1973b, “Préface” to Avortement: une loi en procès. L’affaire de Bobigny. Sténotypie intégrale des débats du tribunal de Bobigny, 8 novembre 1972 by the Association Choisir (To Choose Association), Paris: Gallimard. Reprinted in *Écrits*: 505–509; translated as “Preface to Abortion: A Law On Trial The Bobigny Affair”, Marybeth Timmerman (trans.), in FemW: 223–227.
-* 1973c, “Everyday Sexism”, *Les Temps Modernes*, 329, December. Reprinted in Écrits: 514; translated as “Everyday Sexism”, Marybeth Timmerman (trans.), in FemW: 240–241.
-* 1974a, *Promenade au pays de la vieillesse*, film by Marianne Ahrne, Simone de Beauvoir, Pépo Angel, and Bertrand Hurault, directed by Marianne Ahrne, Stockholm, Sweden, for Swedish Television; transcription done by Justine Sarrot and Oliver Davis; translated as “A Walk Through the Land of Old Age”, Alexander Hertich (trans.), in PolW: 339–363.
-* 1974b, “Presidée par Simone de Beauvoir, ‘La ligue du droit des femmes’ veut abolir la prostitution”, *Le monde*, 8 March 1974, 36; translated as “League of Women’s Rights Manifesto”, Marybeth Timmerman (trans.), in FemW: 242–245.
-* 1974c, “Préface” to *Divorce en France*, by Claire Cayron, Paris: Denoël-Gonthier. Reprinted in Écrits: 515–518; translated as “Preface to Divorce In France”, Marybeth Timmerman (trans.), in FemW: 246–249.
-* 1974d, “Présentation” to Les femmes s’entêtent, special issue of *Les Temps Modernes*, April–May, 1719–1720. Printed in Écrits: 519–521; translated as “Introduction to Women Insist”, Marybeth Timmerman (trans.), in FemW: 250–252.
-* 1975, “Solidaire d’Israël: un soutien critique”, *Les Cahiers Bernard Lazare*, 51(June 1975). Reprinted in Écrits 522–532; translated as “Solidarity With Israel”, Marybeth Timmerman (trans.), in PolW: 314–323.
-* 1976a, “Préface” to *Regards féminins*, by Anne Ophir, Collection Femmes, Paris: Denoël-Gonthier. Reprinted in Écrits: 577–579; translated as “Preface to Through Womens’ Eyes”, Marybeth Timmerman (trans.), in FemW: 253–255.
-* 1976b, “Quand toutes les femmes du monde…”, *Le nouvel observateur*, 1 March 1976, 52. Reprinted in Écrits: 566–567; translated as “When All The Women Of The World…”, Marybeth Timmerman (trans.), in *FemW*: 256–257.
-* 1976c, “Mon point de vue, par Simone de Beauvoir: une affaire scandaleuse”, *Marie Claire* 286, June, 6; translated as “My Point of View: An Outrageous Affair”, Debbie Mann and Marybeth Timmerman (trans.), in *FemW*: 258–259.
-* 1977a, “Préface”, to *Histoires du MLF*, by Annie de Pisan and Anne Tristan, Paris: Calmann-Lévy, 7–12; translated as “Preface to Stories from the French Women’s Liberation Movement”, Marybeth Timmerman (trans.), in *FemW*: 260–264.
-* 1977b, “Foreword” to *History: A Novel*, English translation of La Storia: Romanzo, by Elsa Morante, Franklin Center, PA: The Franklin Library, only a shortened version appeared here. Full version printed in Écrits: 580–582. Retranslated as “Foreword to History: A Novel”, Marybeth Timmerman (trans.), in *FemW*: 176–178.
-* 1979a \[1982], *Quand prime le spirituel*, Paris: Gallimard; translated as *When Things of The Spirit Come First: Five Early Tales*, Patrick O’Brian (trans.), New York: Pantheon Books, 1982.
+* 1966c, “La femme et la creation”, lecture 22 September 1966 in Japan. Printed in _Écrits_: 458–474; translated as “Women and Creativity”, Marybeth Timmerman (trans.), in FemW: 155–169.
+* 1967 \[1969], _La Femme rompue_, Paris: Gallimard; translated as _The Woman Destroyed_, Patrick O’Brian (trans.), New York: Putnam, 1969.
+* 1969, “Amour et politique”, _Le nouvel observateur_, 222, February 10–16; translated as “Love and Politics”, Marybeth Timmerman (trans.), in _FemW_: 103–105.
+* 1970 \[1972], _La Vieillesse_, Paris: Gallimard; translated by Patrick O’Brian and printed in the United States as _The Coming of Age_, (trans.), New York: Putnam, 1972, and in the United Kingdom as _Old Age_, London: André Deutsch, 1972.
+* 1971, “En France aujourd’hui on peut tuer impunément”, _J’accuse_, 2(February 15): 475–481; in Écrits: 475–481; translated as “In France Today Killing Goes Unpunished”, Marybeth Timmerman (trans.), in _PolW_: 287–292.
+* 1972a \[1974], _Tout compte fait_, Paris: Gallimard; translated as _All Said and Done_, Patrick O’Brian (trans.), New York: Putnam, 1974.
+* 1972b, “La Femme révoltée”, an interview by Alice Schwartzer, _Le nouvel observateur_, 14 February 1972, 47–54. Reprinted in Écrits: 482–497; translated as “The Rebellious Woman—An Interview by Alice Schwartzer”, Marybeth Timmerman (trans.), in _FemW_: 192–208
+* 1972c, “Réponse à quelques femmes et à un homme”, _Le nouvel observateur_, 6 March 1972, 40–42. Reprinted in Écrits: 498–504; translated as “Response to Some Women and a Man”, Marybeth Timmerman (trans.), in _FemW_: 209:–215.
+* 1972d, “L’avortement des pauvres”, _Le nouvel observateur_, 414, October 16–22, 57; translated as “Abortion and the Poor”, Marybeth Timmerman (trans.), in _FemW_: 216–218.
+* 1972e, “Déposition de Simone de Beauvoir au procès de Bobigny”, printed in _Écrits_: 510–513; translated as “Beauvoir’s Deposition at the Bobigny Trial”, Marybeth Timmerman (trans.), in FemW: 219–222.
+* 1973a, “La Syrie et les prisonniers”, _Le monde_ (December 18). Reprinted in Écrits 254–255; translated as “Syria and Its Prisoners”, Marybeth Timmerman (trans.), in PolW: 311–313.
+* 1973b, “Préface” to Avortement: une loi en procès. L’affaire de Bobigny. Sténotypie intégrale des débats du tribunal de Bobigny, 8 novembre 1972 by the Association Choisir (To Choose Association), Paris: Gallimard. Reprinted in _Écrits_: 505–509; translated as “Preface to Abortion: A Law On Trial The Bobigny Affair”, Marybeth Timmerman (trans.), in FemW: 223–227.
+* 1973c, “Everyday Sexism”, _Les Temps Modernes_, 329, December. Reprinted in Écrits: 514; translated as “Everyday Sexism”, Marybeth Timmerman (trans.), in FemW: 240–241.
+* 1974a, _Promenade au pays de la vieillesse_, film by Marianne Ahrne, Simone de Beauvoir, Pépo Angel, and Bertrand Hurault, directed by Marianne Ahrne, Stockholm, Sweden, for Swedish Television; transcription done by Justine Sarrot and Oliver Davis; translated as “A Walk Through the Land of Old Age”, Alexander Hertich (trans.), in PolW: 339–363.
+* 1974b, “Presidée par Simone de Beauvoir, ‘La ligue du droit des femmes’ veut abolir la prostitution”, _Le monde_, 8 March 1974, 36; translated as “League of Women’s Rights Manifesto”, Marybeth Timmerman (trans.), in FemW: 242–245.
+* 1974c, “Préface” to _Divorce en France_, by Claire Cayron, Paris: Denoël-Gonthier. Reprinted in Écrits: 515–518; translated as “Preface to Divorce In France”, Marybeth Timmerman (trans.), in FemW: 246–249.
+* 1974d, “Présentation” to Les femmes s’entêtent, special issue of _Les Temps Modernes_, April–May, 1719–1720. Printed in Écrits: 519–521; translated as “Introduction to Women Insist”, Marybeth Timmerman (trans.), in FemW: 250–252.
+* 1975, “Solidaire d’Israël: un soutien critique”, _Les Cahiers Bernard Lazare_, 51(June 1975). Reprinted in Écrits 522–532; translated as “Solidarity With Israel”, Marybeth Timmerman (trans.), in PolW: 314–323.
+* 1976a, “Préface” to _Regards féminins_, by Anne Ophir, Collection Femmes, Paris: Denoël-Gonthier. Reprinted in Écrits: 577–579; translated as “Preface to Through Womens’ Eyes”, Marybeth Timmerman (trans.), in FemW: 253–255.
+* 1976b, “Quand toutes les femmes du monde…”, _Le nouvel observateur_, 1 March 1976, 52. Reprinted in Écrits: 566–567; translated as “When All The Women Of The World…”, Marybeth Timmerman (trans.), in _FemW_: 256–257.
+* 1976c, “Mon point de vue, par Simone de Beauvoir: une affaire scandaleuse”, _Marie Claire_ 286, June, 6; translated as “My Point of View: An Outrageous Affair”, Debbie Mann and Marybeth Timmerman (trans.), in _FemW_: 258–259.
+* 1977a, “Préface”, to _Histoires du MLF_, by Annie de Pisan and Anne Tristan, Paris: Calmann-Lévy, 7–12; translated as “Preface to Stories from the French Women’s Liberation Movement”, Marybeth Timmerman (trans.), in _FemW_: 260–264.
+* 1977b, “Foreword” to _History: A Novel_, English translation of La Storia: Romanzo, by Elsa Morante, Franklin Center, PA: The Franklin Library, only a shortened version appeared here. Full version printed in Écrits: 580–582. Retranslated as “Foreword to History: A Novel”, Marybeth Timmerman (trans.), in _FemW_: 176–178.
+* 1979a \[1982], _Quand prime le spirituel_, Paris: Gallimard; translated as _When Things of The Spirit Come First: Five Early Tales_, Patrick O’Brian (trans.), New York: Pantheon Books, 1982.
 * 1979b, “Mon expérience d’écrivain (September 1966)”, in Écrits: 439–457.
 * 1979c, “De l’urgence d’une loi antisexiste”, Le monde, 18–19 March, 1; translated as “The Urgency of an Anti-Sexist Law”, Marybeth Timmerman (trans.), in FemW: 265–267.
-* 1979d, “Discours d’introduction”, given at a press conference of the International Committee for Women’s Rights, 15 March; translated as “Press Conference Of The International Committee For Women’s Rights”, Marybeth Timmerman (trans.), in *FemW*: 268–269.
-* 1979e, *Les Écrits de Simone de Beauvoir*, Claude Francis and Fernande Gontier, Paris: Gallimard.
-* 1981a \[1984], *La Cérémonie des adieux, suivi de Entretiens avec Jean-Paul Sartre*, Août-Septembre 1974, Paris: Gallimard; translated as *Adieux: A Farewell to Sartre*, Patrick O’Brian (trans.), New York: Pantheon Books, 1984.
-* 1981b, “Foreword” to *Chroniques d’une imposture: du mouvement de libération des femmes à une marque commerciale*, Paris: l’Association Mouvement pour les Luttes Féministes; translated as “Forward to Deception Chronicles: From the Women’s Liberation Movement to a Commercial Trademark”, Marybeth Timmerman (trans.), in *FemW*: 270–272.
-* 1983, “La femme, la pub et la haine”, *Le monde*, Wednesday, 4 May, 1, 10; translated as “Women, Ads, and Hate”, Marybeth Timmerman (trans.), in *FemW*: 273–276.
-* 1985, “Préface”, in *Shoah*, Claude Lanzmann, Paris: Fayard; translated as “Preface to Shoah”, Marybeth Timmerman (trans.), in PolW: 324–328.
-* 1986, “Préface”, to *Mihloud*, anonymous, for the French publication, Aix-en-Provence: Alinea; translated as “Preface to Mihloud”, Lillian S. Robinson (trans.), in FemW: 282–285.
-* 1990, *Lettres à Sartre*, Sylvie Le Bon de Beauvoir (ed.), Paris: Gallimard; translated as *Letters to Sartre*, Quintin Hoare (trans.), New York: Arcade, 1991.
-* 1998, *A Transatlantic Love Affair: Letters to Nelson Algren*, Sylvie Le Bon de Beauvoir (ed.), New York: The New Press. Letters written in English.
-* \[PhilW] 2004, *Philosophical Writings*, Margaret A. Simons (ed.) with Marybeth Timmerman, and Mary Beth Mader (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
-* 2006, *Diary of a Philosophy Student: Volume 1, 1926–27*, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press,
-* 2009, *Wartime Diary*, Anne Deing Cordero (trans.), Sylvie Le Bon de Beauvoir, and Margaret Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
+* 1979d, “Discours d’introduction”, given at a press conference of the International Committee for Women’s Rights, 15 March; translated as “Press Conference Of The International Committee For Women’s Rights”, Marybeth Timmerman (trans.), in _FemW_: 268–269.
+* 1979e, _Les Écrits de Simone de Beauvoir_, Claude Francis and Fernande Gontier, Paris: Gallimard.
+* 1981a \[1984], _La Cérémonie des adieux, suivi de Entretiens avec Jean-Paul Sartre_, Août-Septembre 1974, Paris: Gallimard; translated as _Adieux: A Farewell to Sartre_, Patrick O’Brian (trans.), New York: Pantheon Books, 1984.
+* 1981b, “Foreword” to _Chroniques d’une imposture: du mouvement de libération des femmes à une marque commerciale_, Paris: l’Association Mouvement pour les Luttes Féministes; translated as “Forward to Deception Chronicles: From the Women’s Liberation Movement to a Commercial Trademark”, Marybeth Timmerman (trans.), in _FemW_: 270–272.
+* 1983, “La femme, la pub et la haine”, _Le monde_, Wednesday, 4 May, 1, 10; translated as “Women, Ads, and Hate”, Marybeth Timmerman (trans.), in _FemW_: 273–276.
+* 1985, “Préface”, in _Shoah_, Claude Lanzmann, Paris: Fayard; translated as “Preface to Shoah”, Marybeth Timmerman (trans.), in PolW: 324–328.
+* 1986, “Préface”, to _Mihloud_, anonymous, for the French publication, Aix-en-Provence: Alinea; translated as “Preface to Mihloud”, Lillian S. Robinson (trans.), in FemW: 282–285.
+* 1990, _Lettres à Sartre_, Sylvie Le Bon de Beauvoir (ed.), Paris: Gallimard; translated as _Letters to Sartre_, Quintin Hoare (trans.), New York: Arcade, 1991.
+* 1998, _A Transatlantic Love Affair: Letters to Nelson Algren_, Sylvie Le Bon de Beauvoir (ed.), New York: The New Press. Letters written in English.
+* \[PhilW] 2004, _Philosophical Writings_, Margaret A. Simons (ed.) with Marybeth Timmerman, and Mary Beth Mader (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
+* 2006, _Diary of a Philosophy Student: Volume 1, 1926–27_, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press,
+* 2009, _Wartime Diary_, Anne Deing Cordero (trans.), Sylvie Le Bon de Beauvoir, and Margaret Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 * \[LitW] 2011, “The Useless Mouths” and Other Literary Writings, Margaret A. Simons, and Marybeth Timmerman (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
-* \[PolW] 2012, *Political Writings*, Margaret A. Simons, Marybeth Timmerman, and Mary Beth Mader (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
-* \[FemW] 2015, *Feminist Writings*, M.A. Simons and M.B. Timmerman (eds.), Urbana, IL: University of Illinois Press.
-* 2019, *Diary of a Philosophy Student: Volume 2, 1926–27*, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
-* 2020, *Les Inseparables*, Paris: L’Herne; translated as *Inseparable*, Sandra Smith (trans.), New York: Harper Collins, 2021.
+* \[PolW] 2012, _Political Writings_, Margaret A. Simons, Marybeth Timmerman, and Mary Beth Mader (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
+* \[FemW] 2015, _Feminist Writings_, M.A. Simons and M.B. Timmerman (eds.), Urbana, IL: University of Illinois Press.
+* 2019, _Diary of a Philosophy Student: Volume 2, 1926–27_, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
+* 2020, _Les Inseparables_, Paris: L’Herne; translated as _Inseparable_, Sandra Smith (trans.), New York: Harper Collins, 2021.
 
 ### Secondary Literature
 
-* Alfonso, R. Rita, 2005, “Transatlantic Perspectives of Race: Beauvoir’s Phenomenology of ‘Race’ in *America Day by Day*”, *Philosophy Today*, 49(Supplement): 89–99. doi:10.5840/philtoday200549Supplement11
-* Altman, Meryl, 2007, “Beauvoir, Hegel, War”, *Hypatia*, 22(3): 66–91. doi:10.1111/j.1527-2001.2007.tb01091.x
-* –––, 2020, *Beauvoir in Time*, Leiden, The Netherlands: Brill. doi:10.1163/9789004431218
-* Anderson, Ellie, 2021, “Phenomenology and the Ethics of Love”, *Symposium*, 25(1): 83–109.
-* Antonopoulos, A. Alexander, 2017, “Who is the Subject of *The Second Sex*? Life, Science, and Transmasculine Embodiment in Beauvoir’s Chapter on Biology”, in *A Companion to Simone de Beauvoir*, Laura Hengehold and Nancy Bauer (eds.), New York: Wiley, 463–477.
-* Arp, Kristana, 2001, *The Bonds of Freedom: Simone de Beauvoir’s Existentialist Ethics*, Chicago: Open Court.
-* Bair, Deidre, 1990, *Simone de Beauvoir: A Biography*, New York: Summit Books.
-* Bartky, Sandra Lee, 1990, *Femininity and Domination: Studies in the Phenomenology of Oppression*, New York and London: Routledge.
-* Bauer, Nancy, 2001, *Simone de Beauvoir, Philosophy, and Feminism*, New York: Columbia University Press.
-* –––, 2017, “Beauvoir on the Allure of Self-Objectification”, in *Feminist Metaphysics: Explorations in the Ontology of Sex, Gender, and the Self*, Charlotte Witt (ed.), New York and London: Spring. 117–130.
-* Belle, Kathryn Sophia (formerly Kathryn T. Gines), 2010, “Sartre, Beauvoir, and the Race/GenderAnalogy: A Case for Black Feminist Philosophy”, in *Convergences: Black Feminism and Continental Philosophy*, Donna-Dale L. Marcano, Kathryn T. Gines (now Belle) and Maria del Guadalupe (eds.), Albany: SUNY Press. 35–51.
-* –––, 2014, “Comparative and Competing Frameworks of Oppression in Simone de Beauvoir’s *The Second Sex*”, *Graduate Faculty Philosophy Journal*, 35(1–2): 251–273.
-* –––, 2017, “Simone de Beauvoir and the Race/Gender Analogy in *The Second Sex Revisited*”, in *A Companion to Simone de Beauvoir*, Laura Hengehold and Nancy Bauer (eds.), New York: Wiley. 47–58.
+* Alfonso, R. Rita, 2005, “Transatlantic Perspectives of Race: Beauvoir’s Phenomenology of ‘Race’ in _America Day by Day_”, _Philosophy Today_, 49(Supplement): 89–99. doi:10.5840/philtoday200549Supplement11
+* Altman, Meryl, 2007, “Beauvoir, Hegel, War”, _Hypatia_, 22(3): 66–91. doi:10.1111/j.1527-2001.2007.tb01091.x
+* –––, 2020, _Beauvoir in Time_, Leiden, The Netherlands: Brill. doi:10.1163/9789004431218
+* Anderson, Ellie, 2021, “Phenomenology and the Ethics of Love”, _Symposium_, 25(1): 83–109.
+* Antonopoulos, A. Alexander, 2017, “Who is the Subject of _The Second Sex_? Life, Science, and Transmasculine Embodiment in Beauvoir’s Chapter on Biology”, in _A Companion to Simone de Beauvoir_, Laura Hengehold and Nancy Bauer (eds.), New York: Wiley, 463–477.
+* Arp, Kristana, 2001, _The Bonds of Freedom: Simone de Beauvoir’s Existentialist Ethics_, Chicago: Open Court.
+* Bair, Deidre, 1990, _Simone de Beauvoir: A Biography_, New York: Summit Books.
+* Bartky, Sandra Lee, 1990, _Femininity and Domination: Studies in the Phenomenology of Oppression_, New York and London: Routledge.
+* Bauer, Nancy, 2001, _Simone de Beauvoir, Philosophy, and Feminism_, New York: Columbia University Press.
+* –––, 2017, “Beauvoir on the Allure of Self-Objectification”, in _Feminist Metaphysics: Explorations in the Ontology of Sex, Gender, and the Self_, Charlotte Witt (ed.), New York and London: Spring. 117–130.
+* Belle, Kathryn Sophia (formerly Kathryn T. Gines), 2010, “Sartre, Beauvoir, and the Race/GenderAnalogy: A Case for Black Feminist Philosophy”, in _Convergences: Black Feminism and Continental Philosophy_, Donna-Dale L. Marcano, Kathryn T. Gines (now Belle) and Maria del Guadalupe (eds.), Albany: SUNY Press. 35–51.
+* –––, 2014, “Comparative and Competing Frameworks of Oppression in Simone de Beauvoir’s _The Second Sex_”, _Graduate Faculty Philosophy Journal_, 35(1–2): 251–273.
+* –––, 2017, “Simone de Beauvoir and the Race/Gender Analogy in _The Second Sex Revisited_”, in _A Companion to Simone de Beauvoir_, Laura Hengehold and Nancy Bauer (eds.), New York: Wiley. 47–58.
 * Bergoffen, Debra B., 1997, The Philosophy of Simone de Beauvoir: Gendered Phenomenologies, Erotic Generosities, Albany, NY: State University of New York Press.
 * –––, 2000, “Simone de Beauvoir: Disrupting the Metonymy of Gender”, in Resistance Flight Creation: Feminist Enactments of French Philosophy, Dorothea Olkowski (ed.), Ithaca, NY: Cornell University Press, 97–112.
 * –––, 2001, “Menage à Trois: Freud, Beauvoir and the Marquis de Sade”, Continental Philosophy Review, 34(2): 151–163. doi:10.1023/A:1017925122900
 * –––, 2002, “Simone de Beauvoir and Jean-Paul Sartre: Woman, Man, and the Desire to Be God”, Constellations, 9(3): 409–418. doi:10.1111/1467-8675.00290
 * –––, 2012a, “Introduction”, in PolW, Margaret A. Simons, Marybeth Timmerman, and Mary Beth Mader (eds.), 39–43.
-* –––, 2012b, “Simone de Beauvoir in Her Times and Ours: *The Second Sex* and Its Legacy in French Feminist Thought”, in Situating Existentialism: Key Texts in Context, Jonathan Judaken and Robert Bernasconi (eds.), New York: Columbia University Press, 360–385.
-* –––, 2017, “Why Rape? Lessons from *The Second Sex*”, in *A Companion to Simone de Beauvoir*, Laura Hengehold and Nancy Bauer (eds.), New York: Wiley, 311–324.
-* Bernasconi, Robert, 2019, “Richard Wright as Educator: The Progressive Structure of Simone de Beauvoir’s Account of Racial Hatred in the United States”, *Yale French Studies*, 135(6): 151–168.
-* Berruz, Stephanie Rivera, 2016, “At the Crossroads: Latina Identity and Simone de Beauvoir’s *The Second Sex*”, *Hypatia*, 31(2): 319–333. doi:10.1111/hypa.12226
-* Braddock, Matthew, 2007, “A Critique of Simone de Beauvoir’s Existential Ethics”, *Philosophy Today*, 51(3): 303–311. doi:10.5840/philtoday200751336
-* Brosman, Catharine Savage, 1991, *Simone de Beauvoir Revisited*, Boston: Twayne Publishers.
-* Burke, Megan, 2019, *When Time Warps: Gender, Race, and Sexual Violence*, Minneapolis: University of Minnesota Press.
-* –––, 2020, “On Bad Faith and Authenticity: Rethinking Genderless Subjectivity”, *Simone de Beauvoir Studies*, 31(2): 86–104.
-* Butler, Judith, 1986, “Sex and Gender in Simone de Beauvoir’s *The Second Sex*”, *Yale French Studies*, 72: 35–49.
-* –––, 1989, “Gendering the Body: Beauvoir’s Philosophical Contribution”, in *Women, Knowledge, and Reality: Explorations in Philosophy*, Ann Garry and Marilyn Pearsall (eds.), Boston: Unwin Hyman. 253–262.
-* –––, 2003, “Beauvoir on Sade: Making Sexuality into an Ethic”, in *The Cambridge Companion to Simone de Beauvoir*, Claudia Card (ed.), Cambridge: Cambridge University Press, 168–188.
-* Ceton, Carolien, 2005, “Identity As Evolutive: An Intercultural Approach Based on an Examination of Mudimbe, de Beauvoir, Taylor, and Mbembe”, *Quest: An African Journal of Philosophy/Revue Africaine de Philosophie*, 19(1–2): 109–128.
-* Chaperon, Sylvie, 1999 \[2021], “Haru sur *Le Diuxième Sexe*” in *Un Siècle d’antifèminisme*, Christine Bard (ed.), Paris: Fayard. 269–283; translated as “Outcry over *The Second Sex*”, *Simone de Beauvoir Studies*, 32(1): 19–34.
-* Cleary, Skye, 2022, *How to be Authentic: Simone de Beauvoir and the Quest for Fulfillment*, New York: St. Martin’s Essentials.
-* Coffin, Judith, 2020, *Sex, Love, and Letters: Writing Simone de Beauvoir*, Ithaca, NY: Cornell University Press.
-* Cohen Shabot, Sara, 2007, “On the Question of Woman: Illuminating De Beauvoir through Kantian Epistemology”, *Philosophy Today*, 51(4): 369–382. doi:10.5840/philtoday200751422
-* –––, 2021, “We birth With Others: Towards a Beauvoirian Understanding of Obstetric Violence”, *European Jounral of Women’s Studies*, 28(2): 213–228.
-* Cohen Shabot, Sara and Yaki Menschenfreund, 2008, “Is Existentialist Authenticity Unethical? De Beauvoir on Ethics, Authenticity, and Embodiment”, *Philosophy Today*, 52(2): 150–156. doi:10.5840/philtoday200852229
-* Collins, Patricia Hill, 2017, “Simone de Beauvoir, Women’s Oppression, and Existential Freedom”, in *A Companion to Simone de Beauvoir*, Laura Hengehold and Nancy Bauer (eds.), New York: Wiley, 325–338.
-* De La Cruz, Noelle L. G., 2007, “Love: A Phenomenological Inquiry into the Self-Other Relation in Sartre and Beauvoir”, *Philosophia: International Journal of Philosophy*, 36(2): 162–181.
-* Deutscher, Max, 2003, *Genre and Void: Looking Back at Sartre and Beauvoir*, Aldershot and Burlington: Ashgate.
-* Deutscher, Penelope, 1997, “The Notorious Contradictions of Simone de Beauvoir” in *Yielding Gender: Feminism, Deconstruction, and the History of Philosophy*, New York: Routledge: 169–193.
-* –––, 1999, “Bodies, Lost and Found: Simone de Beauvoir from *The Second Sex* to Old Age”, *Radical Philosophy*, 96: 6–16.
-* –––, 2008, *The Philosophy of Simone de Beauvoir: Ambiguity, Conversion, Resistance*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511490507
-* Dongchao, Min, 2005, “Awakening Again: Travelling Feminism in China in the 1980s”, *Women’s Studies International Forum*, 28(4): 274–288.
+* –––, 2012b, “Simone de Beauvoir in Her Times and Ours: _The Second Sex_ and Its Legacy in French Feminist Thought”, in Situating Existentialism: Key Texts in Context, Jonathan Judaken and Robert Bernasconi (eds.), New York: Columbia University Press, 360–385.
+* –––, 2017, “Why Rape? Lessons from _The Second Sex_”, in _A Companion to Simone de Beauvoir_, Laura Hengehold and Nancy Bauer (eds.), New York: Wiley, 311–324.
+* Bernasconi, Robert, 2019, “Richard Wright as Educator: The Progressive Structure of Simone de Beauvoir’s Account of Racial Hatred in the United States”, _Yale French Studies_, 135(6): 151–168.
+* Berruz, Stephanie Rivera, 2016, “At the Crossroads: Latina Identity and Simone de Beauvoir’s _The Second Sex_”, _Hypatia_, 31(2): 319–333. doi:10.1111/hypa.12226
+* Braddock, Matthew, 2007, “A Critique of Simone de Beauvoir’s Existential Ethics”, _Philosophy Today_, 51(3): 303–311. doi:10.5840/philtoday200751336
+* Brosman, Catharine Savage, 1991, _Simone de Beauvoir Revisited_, Boston: Twayne Publishers.
+* Burke, Megan, 2019, _When Time Warps: Gender, Race, and Sexual Violence_, Minneapolis: University of Minnesota Press.
+* –––, 2020, “On Bad Faith and Authenticity: Rethinking Genderless Subjectivity”, _Simone de Beauvoir Studies_, 31(2): 86–104.
+* Butler, Judith, 1986, “Sex and Gender in Simone de Beauvoir’s _The Second Sex_”, _Yale French Studies_, 72: 35–49.
+* –––, 1989, “Gendering the Body: Beauvoir’s Philosophical Contribution”, in _Women, Knowledge, and Reality: Explorations in Philosophy_, Ann Garry and Marilyn Pearsall (eds.), Boston: Unwin Hyman. 253–262.
+* –––, 2003, “Beauvoir on Sade: Making Sexuality into an Ethic”, in _The Cambridge Companion to Simone de Beauvoir_, Claudia Card (ed.), Cambridge: Cambridge University Press, 168–188.
+* Ceton, Carolien, 2005, “Identity As Evolutive: An Intercultural Approach Based on an Examination of Mudimbe, de Beauvoir, Taylor, and Mbembe”, _Quest: An African Journal of Philosophy/Revue Africaine de Philosophie_, 19(1–2): 109–128.
+* Chaperon, Sylvie, 1999 \[2021], “Haru sur _Le Diuxième Sexe_” in _Un Siècle d’antifèminisme_, Christine Bard (ed.), Paris: Fayard. 269–283; translated as “Outcry over _The Second Sex_”, _Simone de Beauvoir Studies_, 32(1): 19–34.
+* Cleary, Skye, 2022, _How to be Authentic: Simone de Beauvoir and the Quest for Fulfillment_, New York: St. Martin’s Essentials.
+* Coffin, Judith, 2020, _Sex, Love, and Letters: Writing Simone de Beauvoir_, Ithaca, NY: Cornell University Press.
+* Cohen Shabot, Sara, 2007, “On the Question of Woman: Illuminating De Beauvoir through Kantian Epistemology”, _Philosophy Today_, 51(4): 369–382. doi:10.5840/philtoday200751422
+* –––, 2021, “We birth With Others: Towards a Beauvoirian Understanding of Obstetric Violence”, _European Jounral of Women’s Studies_, 28(2): 213–228.
+* Cohen Shabot, Sara and Yaki Menschenfreund, 2008, “Is Existentialist Authenticity Unethical? De Beauvoir on Ethics, Authenticity, and Embodiment”, _Philosophy Today_, 52(2): 150–156. doi:10.5840/philtoday200852229
+* Collins, Patricia Hill, 2017, “Simone de Beauvoir, Women’s Oppression, and Existential Freedom”, in _A Companion to Simone de Beauvoir_, Laura Hengehold and Nancy Bauer (eds.), New York: Wiley, 325–338.
+* De La Cruz, Noelle L. G., 2007, “Love: A Phenomenological Inquiry into the Self-Other Relation in Sartre and Beauvoir”, _Philosophia: International Journal of Philosophy_, 36(2): 162–181.
+* Deutscher, Max, 2003, _Genre and Void: Looking Back at Sartre and Beauvoir_, Aldershot and Burlington: Ashgate.
+* Deutscher, Penelope, 1997, “The Notorious Contradictions of Simone de Beauvoir” in _Yielding Gender: Feminism, Deconstruction, and the History of Philosophy_, New York: Routledge: 169–193.
+* –––, 1999, “Bodies, Lost and Found: Simone de Beauvoir from _The Second Sex_ to Old Age”, _Radical Philosophy_, 96: 6–16.
+* –––, 2008, _The Philosophy of Simone de Beauvoir: Ambiguity, Conversion, Resistance_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511490507
+* Dongchao, Min, 2005, “Awakening Again: Travelling Feminism in China in the 1980s”, _Women’s Studies International Forum_, 28(4): 274–288.
 * Duran, Jane, 2006, Eight Women Philosophers: Theory, Politics, and Feminism, Urbana, IL: Univeristy of Illinois Press.
-* Evans, Mary, 1985, *Simone de Beauvoir: A Feminist Mandarin*, New York: Tavistock.
-* Fallaize, Elizabeth, 1988, *The Novels of Simone de Beauvoir*, London and New York: Routledge.
-* Fishwick, Sarah, 2002, *The Body in the Work of Simone de Beauvoir*, Oxford and New York: P. Lang.
-* Francis, Claude and Fernande Gontier, 1985 \[1987], *Simone de Beauvoir*, Paris: Libr. académique Perrin; translated as *Simone de Beauvoir: A Life, A Love Story*, Lisa Nesselson (trans.), New York: St. Martin’s Pressm 1987.
-* Fraser, Mariam, 1999, *Identity without Selfhood: Simone de Beauvoir and Bisexuality*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511583414
-* Froidevaux-Metterie, Camille, 2021, *Un Corps à Soi*, Paris: SEUIL.
-* Fullbrook, Edward and Kate Fullbrook, 1998, *Simone de Beauvoir: A Critical Introduction*, Cambridge and Malden: Polity Press.
-* Fullbrook, Kate and Edward Fullbrook, 1994, *Simone de Beauvoir and Jean-Paul Sartre: The Remaking of a Twentieth-Century Legend*, New York: Basic Books.
-* Garcia, Manon, 2018 \[2021], *On ne naît pas Soumise, On le Devient*, Paris: Flammarion; translated as *We Are Not Born Submissive: How Patriarchy Shapes Women’s Lives*, Princeton: Princeton University Press.
-* Gothlin, Eva, 1995, “Gender and Ethics in the Philosophy of Simone de Beauvoir”, *NORA: Nordic Journal of Women’s Studies*, 3(1): 3–13. doi:10.1080/08038740.1995.9959669
-* –––, 1999, “Simone de Beauvoir’s Notion’s of Appeal, Desire, and Ambiguity and their Relationship to Jean-Paul Sartre’s Notions of Appeal and Desire”, *Hypatia*, 14(4): 83–96.
-* Grimwood, Tom, 2008, “Re-Reading *The Second Sex*’s ‘Simone de Beauvoir’”, *British Journal for the History of Philosophy*, 16(1): 197–213. doi:10.1080/09608780701789376
-* Heinämaa, Sara, 1997, “What Is a Woman? Butler and Beauvoir on the Foundations of the Sexual Difference”, *Hypatia*, 12(1): 20–39. doi:10.1111/j.1527-2001.1997.tb00169.x
-* –––, 1999, “Simone de Beauvoir’s Phenomenology of Sexual Difference”, *Hypatia*, 14(4): 114–132.
-* –––, 2003, *Toward a Phenomenology of Sexual Difference: Husserl, Merleau-Ponty, Beauvoir*, Lanham, MD: Rowman and Littlefield Publishers.
-* Holveck, Eleanore, 2002, *Simone de Beauvoir’s Philosophy of Lived Experience: Literature and Metaphysics*, Lanham, MD: Rowman and Littlefield Publishers.
-* hooks, bell, 2012, “True Philosophers: Beauvoir and bell”, in *Beauvoir and Western Thought from Plato to Butler*, Shannon M. Mussett and William S. Wilkerson (eds.), Albany, NY: State University of New York Press, 227–236.
-* Hutchings, Kimberly, 2007, “Simone de Beauvoir and the Ambiguous Ethics of Political Violence”, *Hypatia*, 22(3): 111–132. doi:10.1111/j.1527-2001.2007.tb01093.x
-* Jones, Janine, 2019, “When Black Female Presence in Beauvoir’s L’Invitée is (Seemingly) Not Invited to *The Second Sex*”, *Simone de Beauvoir Studies*, 30(1): 87–109.
-* Kail, Michel, 2006, *Simone de Beauvoir – philosophe*, Paris: PUF.
-* Kean, Jessica, 2018, “Misreading Nonmonogamy in Beauvoir’s She Came to Stay”, *Hypatia*, 33(1): 128–143.
-* Keefe, Terry, 1998, *Simone de Beauvoir*, New York: St. Martin’s Press.
-* Kirkpatrick, Kate, 2019, *Becoming Beauvoir: A Life*, London: Bloomsbury.
-* Kristeva, Julia, 2007, “The Reinvention of the Couple”, *Diogenes*, 54(4): 29–34. doi:10.1177/0392192107086525
-* –––, 2011, “Reading *The Second Sex* Sixty Years Later”, *philoSOPHIA*, 1(2): 137–149.
-* Kruks, Sonia, 1987, “Simone de Beauvoir and the Limits to Freedom”, *Social Text*, 17: 111–122. doi:10.2307/466482
-* –––, 1990, *Situation and Human Existence: Freedom, Subjectivity and Society*, New York: Routledge.
-* –––, 2001, *Retrieving Experience*, Ithaca: Cornell University Press.
-* –––, 2005a, “Beauvoir’s Time/Our Time: The Renaissance in Simone De Beauvoir Studies”, *Feminist Studies*, 31(2): 286–309. doi:10.2307/20459027
-* –––, 2005, “Simone de Beauvoir and the Politics of Privilege”, *Hypatia*, 20(1): 178–205. doi:10.1111/j.1527-2001.2005.tb00378.x
-* –––, 2012, *Simone de Beauvoir and the Politics of Ambiguity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195381443.001.0001
-* –––, 2022, “Alterity and Intersectionality: Reflections on Old Age in the Time of COVID-19”, *Hypatia*, 37: 196–209. doi:10.1017/hyp.2021.84.
-* Lebouef, Céline, 2019, “What is Body Positivity? The Path from Shame to Pride”, *Philosophical Topics*, 47(2): 113–128.
-* Le Doeuff, Michèle, 1980, “Simone de Beauvoir and Existentialism”, *Feminist Studies*, 6(2): 277–289. doi:10.2307/3177742
-* –––, 1989 \[1991], *L’Etude et le rouet*, Paris: Les éditions du Seuil; translated as *Hipparchia’s Choice: An Essay Concerning Women, Philosophy, etc.*, Trista Selous (trans.), Oxford: Blackwell, 1991.
-* Lundgren-Gothlin, Eva, 1991\[1996], *Kön och existens : studier i Simone de Beauvoirs* “Le deuxième sexe”, Göteborg: Daidalos; translated as *Sex and Existence: Simone de Beauvoir’s* “*The Second Sex*”, Linda Schenck (trans.), Hanover: Wesleyan University Press, 1996.
+* Evans, Mary, 1985, _Simone de Beauvoir: A Feminist Mandarin_, New York: Tavistock.
+* Fallaize, Elizabeth, 1988, _The Novels of Simone de Beauvoir_, London and New York: Routledge.
+* Fishwick, Sarah, 2002, _The Body in the Work of Simone de Beauvoir_, Oxford and New York: P. Lang.
+* Francis, Claude and Fernande Gontier, 1985 \[1987], _Simone de Beauvoir_, Paris: Libr. académique Perrin; translated as _Simone de Beauvoir: A Life, A Love Story_, Lisa Nesselson (trans.), New York: St. Martin’s Pressm 1987.
+* Fraser, Mariam, 1999, _Identity without Selfhood: Simone de Beauvoir and Bisexuality_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511583414
+* Froidevaux-Metterie, Camille, 2021, _Un Corps à Soi_, Paris: SEUIL.
+* Fullbrook, Edward and Kate Fullbrook, 1998, _Simone de Beauvoir: A Critical Introduction_, Cambridge and Malden: Polity Press.
+* Fullbrook, Kate and Edward Fullbrook, 1994, _Simone de Beauvoir and Jean-Paul Sartre: The Remaking of a Twentieth-Century Legend_, New York: Basic Books.
+* Garcia, Manon, 2018 \[2021], _On ne naît pas Soumise, On le Devient_, Paris: Flammarion; translated as _We Are Not Born Submissive: How Patriarchy Shapes Women’s Lives_, Princeton: Princeton University Press.
+* Gothlin, Eva, 1995, “Gender and Ethics in the Philosophy of Simone de Beauvoir”, _NORA: Nordic Journal of Women’s Studies_, 3(1): 3–13. doi:10.1080/08038740.1995.9959669
+* –––, 1999, “Simone de Beauvoir’s Notion’s of Appeal, Desire, and Ambiguity and their Relationship to Jean-Paul Sartre’s Notions of Appeal and Desire”, _Hypatia_, 14(4): 83–96.
+* Grimwood, Tom, 2008, “Re-Reading _The Second Sex_’s ‘Simone de Beauvoir’”, _British Journal for the History of Philosophy_, 16(1): 197–213. doi:10.1080/09608780701789376
+* Heinämaa, Sara, 1997, “What Is a Woman? Butler and Beauvoir on the Foundations of the Sexual Difference”, _Hypatia_, 12(1): 20–39. doi:10.1111/j.1527-2001.1997.tb00169.x
+* –––, 1999, “Simone de Beauvoir’s Phenomenology of Sexual Difference”, _Hypatia_, 14(4): 114–132.
+* –––, 2003, _Toward a Phenomenology of Sexual Difference: Husserl, Merleau-Ponty, Beauvoir_, Lanham, MD: Rowman and Littlefield Publishers.
+* Holveck, Eleanore, 2002, _Simone de Beauvoir’s Philosophy of Lived Experience: Literature and Metaphysics_, Lanham, MD: Rowman and Littlefield Publishers.
+* hooks, bell, 2012, “True Philosophers: Beauvoir and bell”, in _Beauvoir and Western Thought from Plato to Butler_, Shannon M. Mussett and William S. Wilkerson (eds.), Albany, NY: State University of New York Press, 227–236.
+* Hutchings, Kimberly, 2007, “Simone de Beauvoir and the Ambiguous Ethics of Political Violence”, _Hypatia_, 22(3): 111–132. doi:10.1111/j.1527-2001.2007.tb01093.x
+* Jones, Janine, 2019, “When Black Female Presence in Beauvoir’s L’Invitée is (Seemingly) Not Invited to _The Second Sex_”, _Simone de Beauvoir Studies_, 30(1): 87–109.
+* Kail, Michel, 2006, _Simone de Beauvoir – philosophe_, Paris: PUF.
+* Kean, Jessica, 2018, “Misreading Nonmonogamy in Beauvoir’s She Came to Stay”, _Hypatia_, 33(1): 128–143.
+* Keefe, Terry, 1998, _Simone de Beauvoir_, New York: St. Martin’s Press.
+* Kirkpatrick, Kate, 2019, _Becoming Beauvoir: A Life_, London: Bloomsbury.
+* Kristeva, Julia, 2007, “The Reinvention of the Couple”, _Diogenes_, 54(4): 29–34. doi:10.1177/0392192107086525
+* –––, 2011, “Reading _The Second Sex_ Sixty Years Later”, _philoSOPHIA_, 1(2): 137–149.
+* Kruks, Sonia, 1987, “Simone de Beauvoir and the Limits to Freedom”, _Social Text_, 17: 111–122. doi:10.2307/466482
+* –––, 1990, _Situation and Human Existence: Freedom, Subjectivity and Society_, New York: Routledge.
+* –––, 2001, _Retrieving Experience_, Ithaca: Cornell University Press.
+* –––, 2005a, “Beauvoir’s Time/Our Time: The Renaissance in Simone De Beauvoir Studies”, _Feminist Studies_, 31(2): 286–309. doi:10.2307/20459027
+* –––, 2005, “Simone de Beauvoir and the Politics of Privilege”, _Hypatia_, 20(1): 178–205. doi:10.1111/j.1527-2001.2005.tb00378.x
+* –––, 2012, _Simone de Beauvoir and the Politics of Ambiguity_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195381443.001.0001
+* –––, 2022, “Alterity and Intersectionality: Reflections on Old Age in the Time of COVID-19”, _Hypatia_, 37: 196–209. doi:10.1017/hyp.2021.84.
+* Lebouef, Céline, 2019, “What is Body Positivity? The Path from Shame to Pride”, _Philosophical Topics_, 47(2): 113–128.
+* Le Doeuff, Michèle, 1980, “Simone de Beauvoir and Existentialism”, _Feminist Studies_, 6(2): 277–289. doi:10.2307/3177742
+* –––, 1989 \[1991], _L’Etude et le rouet_, Paris: Les éditions du Seuil; translated as _Hipparchia’s Choice: An Essay Concerning Women, Philosophy, etc._, Trista Selous (trans.), Oxford: Blackwell, 1991.
+* Lundgren-Gothlin, Eva, 1991\[1996], _Kön och existens : studier i Simone de Beauvoirs_ “Le deuxième sexe”, Göteborg: Daidalos; translated as _Sex and Existence: Simone de Beauvoir’s_ “_The Second Sex_”, Linda Schenck (trans.), Hanover: Wesleyan University Press, 1996.
 * Mahon, Joseph, 1997, Existentialism, Feminism, and Simone de Beauvoir, Jo Campling (consultant ed.), New York: St. Martin’s Press.
-* Mann, Bonnie, 2008, “Beauvoir and the Question of a Woman’s Point of View”, *Philosophy Today*, 52(2): 136–149. doi:10.5840/philtoday200852228
-* –––, 2009, “Vampire Love: *The Second Sex* Negotiates the 21st Century”, in *Twilight and Philosophy: Vampires, Vegetarians, and the Pursuit of Immortality*, Rebecca Housel and Jeremy Wisnewski (eds.), Hoboken, NJ: John Wiley & Sons.
-* –––, 2014, *Sovereign Masculinity: Gender Lessons from the War on Terror*, Oxford: Oxford University Press.
-* –––, 2018, “The Difference of Feminist Philosophy: The Case of Shame”, *Puncta: Journal of Critical Phenomenology*, 1(1): 41–73.
-* Marks, Elaine, 1973, *Simone de Beauvoir: Encounters With Death*, New Brunswick, NJ: Rutgers University Press.
-* Marso, Lori Jo, 2017, *Politics With Beauvoir: Freedom in the Encounter*, Durham, NC: Duke University Press. doi:10.1215/9780822372844
-* Mason, Qrescent Mali, 2018, “Intersectional Ambiguity and the Phenomenology of #BlackGirlJoy”, in *Rethinking Feminist Phenomenology: Theoretical and Applied Perspectives*, Sara Cohen Shabot and Christine Landry (eds.), London: Rowman & Littlefield: 51–68.
-* McKinney, Claire, 2019, “Sexual Coercion, Gender Construction, and Responsibility for Freedom: A Beauvoirian Account of Me Too”, *Journal of Women, Politics & Policy*, 40(1): 75–96.
-* McWeeny, Jennifer, 2012, “The Feminist Phenomenology of Excess: Ontological Multiplicity, Auto-jealousy, and Suicide in Beauvoir’s L’Invitée”, *Continental Philosophy Review*, 45: 41–75.
-* Melo Lopes, Filipa, 2021, “‘Half Victim, Half Accomplice’: Cat Person and Narcissism”, *Ergo*, 7(26): 701–729.
-* Merleau-Ponty, Maurice, 1945 \[1964], “Le Roman et la métaphysique”, Cahiers du Sud, 270, March; translated as “Metaphysics and the Novel”, Hubert L. Dreyfus and Patricia Allen Dreyfus (trans.), in *Sense and Non-Sense*, Evanston, IL: Northwestern University Press, 26–40.
-* Moi, Toril, 1990, *Feminist Theory and Simone de Beauvoir*, Oxford and Cambridge: Blackwell.
-* –––, 1992, “Ambiguity and Alienation in *The Second Sex*”, *boundary* 2, 19(2): 96–112. doi:10.2307/303535
-* –––, 2008, *The Making of an Intellectual Woman*, second edition, Oxford: Oxford University Press. First edition in 1994.
-* Morgan, Anne, 2008, “Simone de Beauvoir’s Ethics of Freedom and Absolute Evil”, *Hypatia*, 23(4): 75–89. doi:10.1111/j.1527-2001.2008.tb01434.x
-* Mussett, Shannon, 2020, “Time, Money, and Race: Simone de Beauvoir on American Abstraction”, *Journal of French and Francophone Philosophy*, 28(2): 1–22.
-* Noudelmann, François, 2007, “What Do Jean-Paul Sartre and Simone de Beauvoir Have to Say to Us Today?”, *Diogenes*, 54(4): 35–39. doi:10.1177/0392192107086526
-* Nya, Nathalie, 2019, *Simone de Beauvoir and the Colonial Experience: Freedom, Violence, and Identity*, Lanham, MD: Lexington Books.
-* Okely, Judith, 1986, *Simone de Beauvoir: A Re-reading*, New York: Pantheon Press.
-* Oksala, Johanna, 2016, *Feminist Experiences: Foucauldian and Phenomenological Investigations*, Evanston, IL: Northwestern University Press.
-* –––, 2022, “The Method of Critical Phenomenology: Simone de Beauvoir as a Phenomenologist”, *European Journal of Philosophy*, first online 27 March 2022. doi:10.1111/ejop.12782
-* Pilardi, Jo-Ann, 1999, *Simone de Beauvoir Writing the Self: Philosophy Becomes Autobiography*, Westport, CN: Greenwood Press.
-* Provost, Mickaëlle, 2020, L’expérience du Doute Chez Simone de Beauvoir, *Philosophie*, 1(144): 31–47.
-* Rouch, Marine, 2019, “Simone de Beauvoir et ses Letrices,” *Simone de Beauvoir Studies*, 30(2): 225–251.
-* Sartre, Jean Paul, 1943, *L’etre et Le neant*, Paris: Gallimard; translated as *Being and Nothingness*, Hazel Barnes (trans.), New York: Philosophical Library, 1948.
-* Scarth, Frederika, 2004, *The Other Within: Ethics, Politics, and the Body in Simone de Beauvoir*, Lanham, MD: Rowman and Littlefield Publishers.
-* Schwarzer, Alice, 1984, *After “The Second Sex”: Conversations with Simone de Beauvoir*, New York: Pantheon Books.
+* Mann, Bonnie, 2008, “Beauvoir and the Question of a Woman’s Point of View”, _Philosophy Today_, 52(2): 136–149. doi:10.5840/philtoday200852228
+* –––, 2009, “Vampire Love: _The Second Sex_ Negotiates the 21st Century”, in _Twilight and Philosophy: Vampires, Vegetarians, and the Pursuit of Immortality_, Rebecca Housel and Jeremy Wisnewski (eds.), Hoboken, NJ: John Wiley & Sons.
+* –––, 2014, _Sovereign Masculinity: Gender Lessons from the War on Terror_, Oxford: Oxford University Press.
+* –––, 2018, “The Difference of Feminist Philosophy: The Case of Shame”, _Puncta: Journal of Critical Phenomenology_, 1(1): 41–73.
+* Marks, Elaine, 1973, _Simone de Beauvoir: Encounters With Death_, New Brunswick, NJ: Rutgers University Press.
+* Marso, Lori Jo, 2017, _Politics With Beauvoir: Freedom in the Encounter_, Durham, NC: Duke University Press. doi:10.1215/9780822372844
+* Mason, Qrescent Mali, 2018, “Intersectional Ambiguity and the Phenomenology of #BlackGirlJoy”, in _Rethinking Feminist Phenomenology: Theoretical and Applied Perspectives_, Sara Cohen Shabot and Christine Landry (eds.), London: Rowman & Littlefield: 51–68.
+* McKinney, Claire, 2019, “Sexual Coercion, Gender Construction, and Responsibility for Freedom: A Beauvoirian Account of Me Too”, _Journal of Women, Politics & Policy_, 40(1): 75–96.
+* McWeeny, Jennifer, 2012, “The Feminist Phenomenology of Excess: Ontological Multiplicity, Auto-jealousy, and Suicide in Beauvoir’s L’Invitée”, _Continental Philosophy Review_, 45: 41–75.
+* Melo Lopes, Filipa, 2021, “‘Half Victim, Half Accomplice’: Cat Person and Narcissism”, _Ergo_, 7(26): 701–729.
+* Merleau-Ponty, Maurice, 1945 \[1964], “Le Roman et la métaphysique”, Cahiers du Sud, 270, March; translated as “Metaphysics and the Novel”, Hubert L. Dreyfus and Patricia Allen Dreyfus (trans.), in _Sense and Non-Sense_, Evanston, IL: Northwestern University Press, 26–40.
+* Moi, Toril, 1990, _Feminist Theory and Simone de Beauvoir_, Oxford and Cambridge: Blackwell.
+* –––, 1992, “Ambiguity and Alienation in _The Second Sex_”, _boundary_ 2, 19(2): 96–112. doi:10.2307/303535
+* –––, 2008, _The Making of an Intellectual Woman_, second edition, Oxford: Oxford University Press. First edition in 1994.
+* Morgan, Anne, 2008, “Simone de Beauvoir’s Ethics of Freedom and Absolute Evil”, _Hypatia_, 23(4): 75–89. doi:10.1111/j.1527-2001.2008.tb01434.x
+* Mussett, Shannon, 2020, “Time, Money, and Race: Simone de Beauvoir on American Abstraction”, _Journal of French and Francophone Philosophy_, 28(2): 1–22.
+* Noudelmann, François, 2007, “What Do Jean-Paul Sartre and Simone de Beauvoir Have to Say to Us Today?”, _Diogenes_, 54(4): 35–39. doi:10.1177/0392192107086526
+* Nya, Nathalie, 2019, _Simone de Beauvoir and the Colonial Experience: Freedom, Violence, and Identity_, Lanham, MD: Lexington Books.
+* Okely, Judith, 1986, _Simone de Beauvoir: A Re-reading_, New York: Pantheon Press.
+* Oksala, Johanna, 2016, _Feminist Experiences: Foucauldian and Phenomenological Investigations_, Evanston, IL: Northwestern University Press.
+* –––, 2022, “The Method of Critical Phenomenology: Simone de Beauvoir as a Phenomenologist”, _European Journal of Philosophy_, first online 27 March 2022. doi:10.1111/ejop.12782
+* Pilardi, Jo-Ann, 1999, _Simone de Beauvoir Writing the Self: Philosophy Becomes Autobiography_, Westport, CN: Greenwood Press.
+* Provost, Mickaëlle, 2020, L’expérience du Doute Chez Simone de Beauvoir, _Philosophie_, 1(144): 31–47.
+* Rouch, Marine, 2019, “Simone de Beauvoir et ses Letrices,” _Simone de Beauvoir Studies_, 30(2): 225–251.
+* Sartre, Jean Paul, 1943, _L’etre et Le neant_, Paris: Gallimard; translated as _Being and Nothingness_, Hazel Barnes (trans.), New York: Philosophical Library, 1948.
+* Scarth, Frederika, 2004, _The Other Within: Ethics, Politics, and the Body in Simone de Beauvoir_, Lanham, MD: Rowman and Littlefield Publishers.
+* Schwarzer, Alice, 1984, _After “The Second Sex”: Conversations with Simone de Beauvoir_, New York: Pantheon Books.
 * Seigfried, Charlene Haddock, 1984, “Gender-Specific Values”, Philosophical Forum, 15(4): 425–442.
-* Seltzer, David, 2007, “An Eye for an Eye: Beauvoir and Levinas on Retributive Justice”, *International Studies in Philosophy*, 39(1): 59–77. doi:10.5840/intstudphil200739126
-* Simms, Eva-Maria and Beata Stawarska, 2013, “Introduction: Concepts and Methods in Interdisciplinary Feminist Phenomenology”, *Janus Head*, 13(1): 6–16.
-* Simons, Margaret A., 1983, “The Silencing of Simone de Beauvoir: Guess What’s Missing from *The Second Sex*”, *Women’s Studies International Forum*, 6(5): 559–564. doi:10.1016/0277-5395(83)90081-X
-* –––, 1990, “Sexism and the Philosophical Canon: On Reading Beauvoir’s *The Second Sex*”, *Journal of the History of Ideas*, 51(3): 487–504. doi:10.2307/2709626
-* –––, 1999, *Beauvoir and “The Second Sex”: Feminism, Race, and the Origins of Existentialism*, Lanham, MD: Rowman and Littlefield Publishers.
-* Spelman, Elizabeth V., 1988, “Simone de Beauvoir: Just Who Does She Think ‘We’ Is?”, in her *Inessential Woman: Problems of Exclusion in Feminist Thought*, Boston, MA: Beacon Press.57–79.
-* Stone, Bob, 1987, “Simone de Beauvoir and the Existential Basis of Socialism”, *Social Text*, 17: 123–133. doi:10.2307/466483
-* Surkis, Judith, 2010, “Ethics and Violence: Simone de Beauvoir, Djamila Boupacha and the Algerian War”, *French Politics, Culture & Society*, 28(2): 38–55.
-* Tidd, Ursula, 1999a, “The Self-Other Relation in Beauvoir’s Ethics and Autobiography”, *Hypatia*, 14(4): 163–174.
-* –––, 1999b, *Simone de Beauvoir Gender and Testimony*, Cambridge: Cambridge University Press. doi:10.1017/CBO978051148589.
-* Vera-Gray, Fiona, 2018, *Men’s Intrusion, Women’s Embodiment: A Critical Analysis of Street Harassment*, New York: Routledge.
-* Vintges, Karen, 1992 \[1996], *Filosofie als passie: Het denken van Simone de Beauvoir*, Amsterdam: Prometheus; translated as *Philosophy as Passion: The Thinking of Simone de* Beauvoir, Anne Lavelle (trans.), Bloomington, IN: Indiana University Press, 1996.
-* Whitmarsh, Anne, 1981, *Simone de Beauvoir and the Limits of Commitment*, Cambridge and New York: Cambridge University Press.
-* Wittig, Monique, 1980 \[1992], “On ne naît pas femme”, Questions Féministes, 8: 75–84; translated as “One is Not Born a Woman”, *Feminist Issues*, 1981, 1(2):47–54. Reprinted in The Straight Mind and Other Essays, Boston, MA: Beacon Press, 9–20.
-* Young, Iris Marion, 1980, “Throwing Like a Girl: A Phenomenology of Feminine Body Comportment, Motility, and Spatiality”, *Human Studies*, 3: 137–156.
+* Seltzer, David, 2007, “An Eye for an Eye: Beauvoir and Levinas on Retributive Justice”, _International Studies in Philosophy_, 39(1): 59–77. doi:10.5840/intstudphil200739126
+* Simms, Eva-Maria and Beata Stawarska, 2013, “Introduction: Concepts and Methods in Interdisciplinary Feminist Phenomenology”, _Janus Head_, 13(1): 6–16.
+* Simons, Margaret A., 1983, “The Silencing of Simone de Beauvoir: Guess What’s Missing from _The Second Sex_”, _Women’s Studies International Forum_, 6(5): 559–564. doi:10.1016/0277-5395(83)90081-X
+* –––, 1990, “Sexism and the Philosophical Canon: On Reading Beauvoir’s _The Second Sex_”, _Journal of the History of Ideas_, 51(3): 487–504. doi:10.2307/2709626
+* –––, 1999, _Beauvoir and “The Second Sex”: Feminism, Race, and the Origins of Existentialism_, Lanham, MD: Rowman and Littlefield Publishers.
+* Spelman, Elizabeth V., 1988, “Simone de Beauvoir: Just Who Does She Think ‘We’ Is?”, in her _Inessential Woman: Problems of Exclusion in Feminist Thought_, Boston, MA: Beacon Press.57–79.
+* Stone, Bob, 1987, “Simone de Beauvoir and the Existential Basis of Socialism”, _Social Text_, 17: 123–133. doi:10.2307/466483
+* Surkis, Judith, 2010, “Ethics and Violence: Simone de Beauvoir, Djamila Boupacha and the Algerian War”, _French Politics, Culture & Society_, 28(2): 38–55.
+* Tidd, Ursula, 1999a, “The Self-Other Relation in Beauvoir’s Ethics and Autobiography”, _Hypatia_, 14(4): 163–174.
+* –––, 1999b, _Simone de Beauvoir Gender and Testimony_, Cambridge: Cambridge University Press. doi:10.1017/CBO978051148589.
+* Vera-Gray, Fiona, 2018, _Men’s Intrusion, Women’s Embodiment: A Critical Analysis of Street Harassment_, New York: Routledge.
+* Vintges, Karen, 1992 \[1996], _Filosofie als passie: Het denken van Simone de Beauvoir_, Amsterdam: Prometheus; translated as _Philosophy as Passion: The Thinking of Simone de_ Beauvoir, Anne Lavelle (trans.), Bloomington, IN: Indiana University Press, 1996.
+* Whitmarsh, Anne, 1981, _Simone de Beauvoir and the Limits of Commitment_, Cambridge and New York: Cambridge University Press.
+* Wittig, Monique, 1980 \[1992], “On ne naît pas femme”, Questions Féministes, 8: 75–84; translated as “One is Not Born a Woman”, _Feminist Issues_, 1981, 1(2):47–54. Reprinted in The Straight Mind and Other Essays, Boston, MA: Beacon Press, 9–20.
+* Young, Iris Marion, 1980, “Throwing Like a Girl: A Phenomenology of Feminine Body Comportment, Motility, and Spatiality”, _Human Studies_, 3: 137–156.
 
 ### Secondary Literature: Anthologies
 
-* Bulletin de la Société Américaine de Philosophie de Langue Française, 2003, “Special Issue on Beauvoir’s *The Second Sex*”, XIII(21).
-* Card, Claudia (ed.), 2003, *The Cambridge Companion to Simone de Beauvoir*, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521790964
-* Chaperon, Sylvie and Marine Rouch (eds.), 2020, “Special Issue on Reading and Translating *The Second Sex* Globally”, *Simone de Beauvoir Studies*, 31(2): 173–296.
-* Daigle, Christine and Jacob Golomb (eds.), 2009, *Beauvoir and Sartre: The Riddle of Influence*, Bloomington, IN: Indiana Univ Press.
-* Evans, Ruth (ed.), 1998, *Simone de Beauvoir’s “The Second Sex”: New Interdisciplinary Essays*, Manchester and New York: Manchester University Press.
-* Fallaize, Elizabeth (ed.), 1998, *Simone de Beauvoir: A Critical Reader*, London and New York: Routledge.
-* Forster, Penny and Imogen Sutton (eds.), 1989, *Daughters of de Beauvoir*, London: Women’s Press.
-* Grosholz, Emily R. (ed.), 2004, *The Legacy of Simone de Beauvoir*, Oxford: Oxford University Press.
-* Hawthorne, Melanie C. (ed.), 2000, *Contingent Loves: Simone de Beauvoir and Sexuality*, Charlottesville, VA: University Press of Virginia.
-* Hengehold, Laura and Nancy Bauer (eds.), 2017, *A Companion to Simone de Beauvoir*, New York: Wiley.
-* Mann, Bonnie and Martina Ferrari (eds.), 2017, *“On ne naît pas femme: on le devient…” The Life of a Sentence*, Oxford: Oxford University Press. doi:10.1093/oso/9780190608811.001.0001
-* Marks, Elaine (ed.), 1987, *Critical Essays on Simone de Beauvoir*, Boston: G. K. Hall.
-* Moi, Toril (ed.), 1990, *Feminist Theory and Simone de Beauvoir*, Oxford: Blackwell.
-* Mussett, Shannon M. and William S. Wilkerson (eds.), 2012, *Beauvoir and Western Thought from Plato to Butler*, Albany, NY: SUNY Press.
-* O’Brien, Wendy and Lester Embree (eds.), 2001, *The Existential Phenomenology of Simone de Beauvoir*, (Contributions to Phenomenology 43), Dordrecht: Springer Netherlands. doi:10.1007/978-94-015-9753-1
-* Parker, Emily Anne and Anne van Leeuwen (eds.), 2018, *Differences: Re-Reading Beauvoir and Irigaray*, Oxford: Oxford University Press. doi:10.1093/oso/9780190275594.001.0001
-* Pettersen, Tove and Annlaug Bjørsnøs (eds), 2015, *Simone de Beauvoir: Humanist Thinker*, Leiden: Brill Rodopi.
-* Savage Brosman, Catharine (ed.), 1991, *Simone de Beauvoir Revisited*, Boston, MA: Twayne.
-* Scholz, Sally J. and Shannon M. Mussett (eds.), 2005, *Contradictions of Freedom: Philosophical Essays on Simone de Beauvoir’s* “The Mandarins”, Albany, NY: State University of New York Press.
-* Simons, Margaret A. (ed.), 1985, *Reclaiming* “*The Second Sex*”, special issue of *Women’s Studies International Forum*, 8(3).
-* ––– (ed.), 1995, *Feminist Interpretations of Simone de Beauvoir*, University Park, PA: Pennsylvania State University Press.
-* ––– (ed.), 1999, *Special Issue: The Philosophy of Simone de Beauvoir*, of Hypatia, 14(4).
-* ––– (ed.), 2006, *The Philosophy of Simone de Beauvoir: Critical Essays*, Bloomington, IN: Indiana University Press.
-* Stoller, Silvia (ed.), 2014, *Simone de Beauvoir’s Philosophy of Age*, Gender, Ethics, Time, Boston, MA: de Gruyter.
-* Sullivan, Shannon (ed.), 2000, *The Work of Simone de Beauvoir*, special issue of Journal of Speculative Philosophy, 14(2).
-* Tandy, Charles (ed.), 2006, *Death and Anti-Death, Volume 4: Twenty Years after De Beauvoir, Thirty Years after Heidegger*, Palo Alto: Ria University Press.
-* Wenzel, Hélène V. (ed.), 1986, *Simone de Beauvoir: Witness to a Century*, (Yale French Studies, 72), New Haven, CT: Yale University Press.
+* Bulletin de la Société Américaine de Philosophie de Langue Française, 2003, “Special Issue on Beauvoir’s _The Second Sex_”, XIII(21).
+* Card, Claudia (ed.), 2003, _The Cambridge Companion to Simone de Beauvoir_, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521790964
+* Chaperon, Sylvie and Marine Rouch (eds.), 2020, “Special Issue on Reading and Translating _The Second Sex_ Globally”, _Simone de Beauvoir Studies_, 31(2): 173–296.
+* Daigle, Christine and Jacob Golomb (eds.), 2009, _Beauvoir and Sartre: The Riddle of Influence_, Bloomington, IN: Indiana Univ Press.
+* Evans, Ruth (ed.), 1998, _Simone de Beauvoir’s “The Second Sex”: New Interdisciplinary Essays_, Manchester and New York: Manchester University Press.
+* Fallaize, Elizabeth (ed.), 1998, _Simone de Beauvoir: A Critical Reader_, London and New York: Routledge.
+* Forster, Penny and Imogen Sutton (eds.), 1989, _Daughters of de Beauvoir_, London: Women’s Press.
+* Grosholz, Emily R. (ed.), 2004, _The Legacy of Simone de Beauvoir_, Oxford: Oxford University Press.
+* Hawthorne, Melanie C. (ed.), 2000, _Contingent Loves: Simone de Beauvoir and Sexuality_, Charlottesville, VA: University Press of Virginia.
+* Hengehold, Laura and Nancy Bauer (eds.), 2017, _A Companion to Simone de Beauvoir_, New York: Wiley.
+* Mann, Bonnie and Martina Ferrari (eds.), 2017, _“On ne naît pas femme: on le devient…” The Life of a Sentence_, Oxford: Oxford University Press. doi:10.1093/oso/9780190608811.001.0001
+* Marks, Elaine (ed.), 1987, _Critical Essays on Simone de Beauvoir_, Boston: G. K. Hall.
+* Moi, Toril (ed.), 1990, _Feminist Theory and Simone de Beauvoir_, Oxford: Blackwell.
+* Mussett, Shannon M. and William S. Wilkerson (eds.), 2012, _Beauvoir and Western Thought from Plato to Butler_, Albany, NY: SUNY Press.
+* O’Brien, Wendy and Lester Embree (eds.), 2001, _The Existential Phenomenology of Simone de Beauvoir_, (Contributions to Phenomenology 43), Dordrecht: Springer Netherlands. doi:10.1007/978-94-015-9753-1
+* Parker, Emily Anne and Anne van Leeuwen (eds.), 2018, _Differences: Re-Reading Beauvoir and Irigaray_, Oxford: Oxford University Press. doi:10.1093/oso/9780190275594.001.0001
+* Pettersen, Tove and Annlaug Bjørsnøs (eds), 2015, _Simone de Beauvoir: Humanist Thinker_, Leiden: Brill Rodopi.
+* Savage Brosman, Catharine (ed.), 1991, _Simone de Beauvoir Revisited_, Boston, MA: Twayne.
+* Scholz, Sally J. and Shannon M. Mussett (eds.), 2005, _Contradictions of Freedom: Philosophical Essays on Simone de Beauvoir’s_ “The Mandarins”, Albany, NY: State University of New York Press.
+* Simons, Margaret A. (ed.), 1985, _Reclaiming_ “_The Second Sex_”, special issue of _Women’s Studies International Forum_, 8(3).
+* ––– (ed.), 1995, _Feminist Interpretations of Simone de Beauvoir_, University Park, PA: Pennsylvania State University Press.
+* ––– (ed.), 1999, _Special Issue: The Philosophy of Simone de Beauvoir_, of Hypatia, 14(4).
+* ––– (ed.), 2006, _The Philosophy of Simone de Beauvoir: Critical Essays_, Bloomington, IN: Indiana University Press.
+* Stoller, Silvia (ed.), 2014, _Simone de Beauvoir’s Philosophy of Age_, Gender, Ethics, Time, Boston, MA: de Gruyter.
+* Sullivan, Shannon (ed.), 2000, _The Work of Simone de Beauvoir_, special issue of Journal of Speculative Philosophy, 14(2).
+* Tandy, Charles (ed.), 2006, _Death and Anti-Death, Volume 4: Twenty Years after De Beauvoir, Thirty Years after Heidegger_, Palo Alto: Ria University Press.
+* Wenzel, Hélène V. (ed.), 1986, _Simone de Beauvoir: Witness to a Century_, (Yale French Studies, 72), New Haven, CT: Yale University Press.
 
 ## Academic Tools
 
@@ -506,4 +506,4 @@
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 Debra Bergoffen\
-Megan Burke <[*burkemeg@sonoma.edu*](mailto:burkemeg%40sonoma%2eedu)>
+Megan Burke <[_burkemeg@sonoma.edu_](mailto:burkemeg%40sonoma%2eedu)>

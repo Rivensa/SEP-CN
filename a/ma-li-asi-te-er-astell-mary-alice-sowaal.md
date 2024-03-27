@@ -1,16 +1,16 @@
 # 玛丽·阿斯特尔 Astell, Mary (Alice Sowaal)
 
-*首次发表于 2005 年 7 月 1 日；实质性修订于 2023 年 6 月 6 日*
+_首次发表于 2005 年 7 月 1 日；实质性修订于 2023 年 6 月 6 日_
 
 玛丽·阿斯特尔（1666-1731）是一位英国哲学家。她出生在纽卡斯尔，并在伦敦度过了她的成年生活。她的赞助人包括安·科文特里夫人、伊丽莎白·黑斯廷斯夫人和凯瑟琳·琼斯，她的知识圈子中有玛丽·丘德利夫人、朱迪思·德雷克、伊丽莎白·埃尔斯托布、玛丽·沃特利·蒙塔古夫人和约翰·诺里斯。除了一些小册子外，她还写了以下几本书：
 
-* *《致女士们的认真建议，第一部和第二部。提供了一种改善她们思想的方法》* （1694 年，1697 年）
+* _《致女士们的认真建议，第一部和第二部。提供了一种改善她们思想的方法》_ （1694 年，1697 年）
 
-*《关于上帝之爱的信函：关于《致女士们的建议》的作者与约翰·诺里斯先生之间的通信：在此通信中，进一步阐明和证明了他最近的论述，即上帝之爱应该是完整的，排他的，不容其他爱情干扰》（1695）*
+_《关于上帝之爱的信函：关于《致女士们的建议》的作者与约翰·诺里斯先生之间的通信：在此通信中，进一步阐明和证明了他最近的论述，即上帝之爱应该是完整的，排他的，不容其他爱情干扰》（1695）_
 
-*《关于婚姻的一些反思：由马扎林公爵和公爵夫人的案例引发；同时也对此案进行了考虑》（1700）*
+_《关于婚姻的一些反思：由马扎林公爵和公爵夫人的案例引发；同时也对此案进行了考虑》（1700）_
 
-* *基督教宗教，由英国教会的一位女儿所信奉*（1705）
+* _基督教宗教，由英国教会的一位女儿所信奉_（1705）
 
 今天，她最为人所知的是她关于女性教育的理论以及对诺里斯和约翰·洛克的批评。
 
@@ -178,13 +178,13 @@ Broad（2002a，103）提供了证据表明，阿斯特尔将上帝的智慧和�
 
 这里涉及到重要的同意问题。即使对洛克的陈述进行最慈悲的解读，即他是在谈论希望为那些没有时间和资源在宗教事务上接受教育的人们提供便利，并以此为他们的最佳利益服务。谁能阻止宗教教师越过界限，发出“明确的命令”来操纵人们违背他们的最佳利益呢？社会边缘化的人们难道不能通过完全理解对他们最有利的真理来自我保护吗？
 
-正是出于这些原因，阿斯特尔反对这种观点。与洛克的观点相反，她认为，*所有*的人，无论性别和社会地位（因此也不受时间限制），都有能力通过精神实践获得清晰而明确的思想，就像她和笛卡尔所提供的哲学冥想一样。正如她所说：“对我来说，农民和医生之间的区别似乎不在于这一点，一个人的工作是追求知识，而另一个人与此无关”（阿斯特尔 SP，153 页）。她进一步写道：“最卑微的人应该像最伟大的哲学家一样*公正地*思考，尽管不像他们那样*广泛地*思考”（168 页）。根据阿斯特尔的观点，无论一个人在社会阶层中处于何种地位，无论他们的性别如何，他们都应该能够拥有有序的思想，即“公正”的思想。她承认每个人可能没有时间拥有和其他人一样多的思想，也就是说，他们可能没有时间进行大量的经验研究、书本学习和语言学习，而其他人可能有更多时间投入这些努力，从而获得“广博”的学习。但对于阿斯特尔来说，这种“广博”的思考并不像“公正”的思考那样重要。此外，获得公正思考的过程并不需要很长时间，每个人都应该有机会以这种方式思考。因此，阿斯特尔主张每个人都需要进行哲学冥想，以获得有序、和谐的思考。
+正是出于这些原因，阿斯特尔反对这种观点。与洛克的观点相反，她认为，_所有_的人，无论性别和社会地位（因此也不受时间限制），都有能力通过精神实践获得清晰而明确的思想，就像她和笛卡尔所提供的哲学冥想一样。正如她所说：“对我来说，农民和医生之间的区别似乎不在于这一点，一个人的工作是追求知识，而另一个人与此无关”（阿斯特尔 SP，153 页）。她进一步写道：“最卑微的人应该像最伟大的哲学家一样_公正地_思考，尽管不像他们那样_广泛地_思考”（168 页）。根据阿斯特尔的观点，无论一个人在社会阶层中处于何种地位，无论他们的性别如何，他们都应该能够拥有有序的思想，即“公正”的思想。她承认每个人可能没有时间拥有和其他人一样多的思想，也就是说，他们可能没有时间进行大量的经验研究、书本学习和语言学习，而其他人可能有更多时间投入这些努力，从而获得“广博”的学习。但对于阿斯特尔来说，这种“广博”的思考并不像“公正”的思考那样重要。此外，获得公正思考的过程并不需要很长时间，每个人都应该有机会以这种方式思考。因此，阿斯特尔主张每个人都需要进行哲学冥想，以获得有序、和谐的思考。
 
 ## 3. 方法：教育哲学
 
 理性主义哲学中贯穿的一个主题是知识与方法的关系。方法是教学策略，可以将初学者从困惑引导到知识（清晰）。只要初学者感到困惑，那是因为他们缺乏一种将他们从特定困惑形式引导到知识的方法。哲学家的任务是理解这些困惑，并设计一种方法来支持初学者的学习之旅（参见 Nelson 2005）。例如，柏拉图解释了身体如何困惑灵魂，并且他阐述了辩证法如何引导他的对话者理解形式。笛卡尔同意柏拉图关于身体困惑灵魂的观点，并补充说学院派的教导会导致进一步的困惑，特别是因为它们加强了童年偏见，这种偏见根植于对感官的过分强调。他著名的怀疑方法是他对方法的一般描述的一个实例，概括在《方法论演讲》第二部分中的四条规则中（AT VI 18–9; CSM I 20）。在《方法论演讲》和《第一哲学沉思集》中，冥想者利用怀疑方法，以便从困惑和模糊到清晰和明确。这个问题涉及到认识论（因为它涉及知识，见第 2 节）和伦理学（因为困惑和知识影响道德行为和行动，见第 4 节）。
 
-与柏拉图和笛卡尔一样，阿斯特尔提供了对初学者最初困惑的解释，并提供了一种可以用来解决这种状态的方法。在这样做的过程中，她关注的是一个非常特定的女性初学者群体，即她在《致女士们的一项严肃建议》一书标题中提到的“女士们”。这些女士们是她社交圈子中的绅士和贵族妇女，主要是英国人，很可能认同自己是白人，这是在阿斯特尔所处的时代才刚刚形成的一个新的种族类别。因此，阿斯特尔并不是在理论上讨论*所有*女性的状况，因为她并没有谈论例如她和她的同辈们雇佣、契约或奴役来为他们服务的各种种族和国籍的女性，无论是在国内还是国外（参见 Perry，1986 年，253-62，关于阿斯特尔的赞助人参与殖民主义事业的讨论）。在接下来的内容中，阿斯特尔所理论的女性将以一些明确的方式来指称，以继续表明她们是一个特定的女性群体，例如“阿斯特尔的初学者”，“阿斯特尔的目标受众中的女性”或者（简单地）“女士们”。
+与柏拉图和笛卡尔一样，阿斯特尔提供了对初学者最初困惑的解释，并提供了一种可以用来解决这种状态的方法。在这样做的过程中，她关注的是一个非常特定的女性初学者群体，即她在《致女士们的一项严肃建议》一书标题中提到的“女士们”。这些女士们是她社交圈子中的绅士和贵族妇女，主要是英国人，很可能认同自己是白人，这是在阿斯特尔所处的时代才刚刚形成的一个新的种族类别。因此，阿斯特尔并不是在理论上讨论_所有_女性的状况，因为她并没有谈论例如她和她的同辈们雇佣、契约或奴役来为他们服务的各种种族和国籍的女性，无论是在国内还是国外（参见 Perry，1986 年，253-62，关于阿斯特尔的赞助人参与殖民主义事业的讨论）。在接下来的内容中，阿斯特尔所理论的女性将以一些明确的方式来指称，以继续表明她们是一个特定的女性群体，例如“阿斯特尔的初学者”，“阿斯特尔的目标受众中的女性”或者（简单地）“女士们”。
 
 阿斯特尔理论化了她的新手最初的困惑，并为他们量身定制了一种方法。在这样做的过程中，她理论化了一些与权力有关的政治问题，这些问题与这些认识论问题的产生方式交织在一起，她还理论化了如何解决这些问题。请注意，阿斯特尔只理论化了“一些”政治问题。一方面，她讨论了这些女性如何受到与她们的地位和种族相同的男性以及支持这些男性的机构的不利影响和支配。但另一方面，她没有理论化这些女性自身（包括她自己）如何因为她们的性别、性取向、种族、地位和国籍以及支持阿斯特尔和她的受众的殖民制度而受到优待和提升。也就是说，阿斯特尔理论化了她自己和她的受众受到男性的支配，但没有理论化这些女性的特权。
 
@@ -226,17 +226,17 @@ Broad（2002a，103）提供了证据表明，阿斯特尔将上帝的智慧和�
 
 阿斯特尔认为，像上面描述的那样的共同祈祷是获得真理的一种方式，但她也认识到其他方法可以使人们获得形而上学的知识。在《给女士们的认真建议》第二部分中，她建议她的听众中的女性遵循六条规则，这将帮助她们进行形而上学的思考（176-9）。
 
-*规则 1*：“彻底了解问题的状态，对我们所讨论的主题有一个清晰的概念，以及我们使用的术语，确切地知道我们要达到的目标。”
+_规则 1_：“彻底了解问题的状态，对我们所讨论的主题有一个清晰的概念，以及我们使用的术语，确切地知道我们要达到的目标。”
 
-*规则 2*：“剔除所有不必要的观念和与所考虑问题没有必要联系的内容。”
+_规则 2_：“剔除所有不必要的观念和与所考虑问题没有必要联系的内容。”
 
-*规则 3*：“按照顺序进行思考，从最简单和容易理解的对象开始，逐渐提升到更复杂的知识。”
+_规则 3_：“按照顺序进行思考，从最简单和容易理解的对象开始，逐渐提升到更复杂的知识。”
 
-*规则 4*：“不要忽略我们所研究的主题的任何部分。”
+_规则 4_：“不要忽略我们所研究的主题的任何部分。”
 
-*规则 5*：“始终将我们的主题直接放在眼前，并紧密追随它，贯穿我们的进展。”
+_规则 5_：“始终将我们的主题直接放在眼前，并紧密追随它，贯穿我们的进展。”
 
-*规则 6*：“不要超出我们所感知的范围来判断，不要把我们明显不知道的事物当作真理。”
+_规则 6_：“不要超出我们所感知的范围来判断，不要把我们明显不知道的事物当作真理。”
 
 像阿斯特尔的许多观点和区别一样，这些规则可以与笛卡尔的观点进行比较，也可以与阿尔诺和尼科尔提出的规则进行比较。事实上，这些规则是阿斯特尔版本的阿尔诺和尼科尔的《波尔图瓦尔逻辑》的一部分，她专门为她的听众中的女性设计，以便她们可以摆脱日常的怀疑主义；只有在解决了怀疑的困境后，她们才能开始进行哲学怀疑主义的反思项目，就像笛卡尔在《方法论讲演》和《第一哲学沉思录》中所提出的那样（参见 Sowaal 2007）。
 
@@ -268,7 +268,7 @@ Broad（2002a，103）提供了证据表明，阿斯特尔将上帝的智慧和�
 
 ### 4.3 义务伦理学
 
-考虑到阿斯特尔讨论了对上帝和邻居的*义务*，我们可以将阿斯特尔看作义务伦理传统的一部分。这一传统关注道德行为者在履行他们必须履行的义务时。这样的阅读可以按照以下方式展开。
+考虑到阿斯特尔讨论了对上帝和邻居的_义务_，我们可以将阿斯特尔看作义务伦理传统的一部分。这一传统关注道德行为者在履行他们必须履行的义务时。这样的阅读可以按照以下方式展开。
 
 人类基于与上帝的关系有责任向上帝履行职责：人类起源于上帝，上帝传达了他的完美特质——自由和理性，因此人类有责任理解和遵守上帝的旨意，参与神圣事务，为世界的道德完善做出贡献，并给上帝带来荣耀。
 
@@ -280,124 +280,124 @@ Broad（2002a，103）提供了证据表明，阿斯特尔将上帝的智慧和�
 
 ### Primary Sources
 
-* Arnauld, A. and Nicole, P., *Logic or the Art of Thinking: Containing, besides rules, several new observations appropriate for forming judgment*, J. V. Buroker (tr. and ed.), Cambridge: Cambridge University Press, 1996.
-* Astell, M., *The Christian Religion, As Profess’d by a Daughter of the Church of England. In a Letter to the Right Honourable, T.L. C.I.*, London: R. Wilkin, 1705.
-* –––, *Astell: Political Writings*, P. Springborg (ed.), Cambridge: Cambridge University Press, 1996.
-* –––, \[SP], *A Serious Proposal to the Ladies. Parts I and II*, P. Springborg (ed.), Ontario: Broadview Literary Texts, 2002.
-* –––, *The Christian Religion, As Professed by a Daughter of the Church of England*, J. Broad (ed.), Toronto, ON: Centre for Reformation and Renaissance Studies and Iter Publishing, 2013.
-* Astell, M. and Norris, J., *Letters Concerning the Love of God, Between the Author of the Proposal to the Ladies and Mr. John Norris: Wherein his late Discourse, shewing That it ought to be intire and exclusive of all other Loves, is further cleared and justified*, London: J. Norris, 1695.
-* –––, *Letters Concerning the Love of God*, E. D. Taylor and M. New (ed.), Aldershot: Ashgate, 2005.
-* Descartes, R., *The Philosophical Writings of Descartes*, J. Cottingham, R. Stoothoff, and D. Murdoch (eds. and trs.), Cambridge: Cambridge University Press, 1985, Vol. I (abbreviated as ‘CSM’ and cited by page number).
-* –––, *Oeuvres de Descartes*, C. Adam and P. Tannery (eds.), Paris: Librairie Philosophique J. Vrin, 1996, Vol. VI (abbreviated as ‘AT’ and cited by page number).
-* Locke, J., *An Essay Concerning Human Understanding*, P. H. Nidditch (ed.), Oxford: Clarendon Press, 1975.
-* Norris, J., *Practical Discourses Upon several Divine Subjects*, London: S. Manship, 1693.
+* Arnauld, A. and Nicole, P., _Logic or the Art of Thinking: Containing, besides rules, several new observations appropriate for forming judgment_, J. V. Buroker (tr. and ed.), Cambridge: Cambridge University Press, 1996.
+* Astell, M., _The Christian Religion, As Profess’d by a Daughter of the Church of England. In a Letter to the Right Honourable, T.L. C.I._, London: R. Wilkin, 1705.
+* –––, _Astell: Political Writings_, P. Springborg (ed.), Cambridge: Cambridge University Press, 1996.
+* –––, \[SP], _A Serious Proposal to the Ladies. Parts I and II_, P. Springborg (ed.), Ontario: Broadview Literary Texts, 2002.
+* –––, _The Christian Religion, As Professed by a Daughter of the Church of England_, J. Broad (ed.), Toronto, ON: Centre for Reformation and Renaissance Studies and Iter Publishing, 2013.
+* Astell, M. and Norris, J., _Letters Concerning the Love of God, Between the Author of the Proposal to the Ladies and Mr. John Norris: Wherein his late Discourse, shewing That it ought to be intire and exclusive of all other Loves, is further cleared and justified_, London: J. Norris, 1695.
+* –––, _Letters Concerning the Love of God_, E. D. Taylor and M. New (ed.), Aldershot: Ashgate, 2005.
+* Descartes, R., _The Philosophical Writings of Descartes_, J. Cottingham, R. Stoothoff, and D. Murdoch (eds. and trs.), Cambridge: Cambridge University Press, 1985, Vol. I (abbreviated as ‘CSM’ and cited by page number).
+* –––, _Oeuvres de Descartes_, C. Adam and P. Tannery (eds.), Paris: Librairie Philosophique J. Vrin, 1996, Vol. VI (abbreviated as ‘AT’ and cited by page number).
+* Locke, J., _An Essay Concerning Human Understanding_, P. H. Nidditch (ed.), Oxford: Clarendon Press, 1975.
+* Norris, J., _Practical Discourses Upon several Divine Subjects_, London: S. Manship, 1693.
 
 ### Secondary Sources
 
 * The secondary sources listed below will be of particular interest to philosophers who are pursuing further examination of Astell’s metaphysics, epistemology, ethics, and social and political philosophy.
-* Achinstein, S., 2007, “Mary Astell. Religion and Feminism: Texts in Motion”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener & M. Michelson, Burlington, VT: Ashgate, pp. 17–30.
-* Acworth, R., 1979, *The Philosophy of John Norris of Bemerton* (1657–1712), Hildesheim/New York: Georg Olms Verlag.
-* Alvarez, D. P., 2011, “Reason and Religious Tolerance: Mary Astell’s Critique of Shaftesbury”, *Eighteenth Century Studies*, 44(4): 475–494.
-* Apetrei, S., 2008a, “‘Call no man master upon earth’: Mary Astell’s Tory Feminism and an Unknown Correspondence”, *Eighteenth-Century Studies*, 41(4): 507–23.
-* –––, 2008b, *Women, Feminism and Religion in Early Enlightenment England*, Cambridge: Cambridge University Press.
-* Atherton, M., 1993, “Cartesian Reason and Gendered Reason”, in *A Mind of One’s Own: Feminist Essays on Reason and Objectivity*, L.M. Antony and C. Witt (eds.), Boulder and Oxford: Westview Press, pp. 19–34.
-* Bejan, T.M., 2019, “‘Since All the World is mad, why should I be so?’ Mary Astell on Equality, Hierarchy, and Ambition”, in *Political Theory*, 47(6): 781–808.
-* Broad, J., 2002a, *Women Philosophers of the Seventeenth Century*, Cambridge: Cambridge University Press.
-* Broad, J., 2002b, “Mary Astell (1666–1731)”, in *British Philosophers 1500–1899*, P.B. Dematteis and P.S. Fosl (eds.), Dictionary of Literary Biography 252, pp. 3–10.
-* –––, 2003, “Adversaries or Allies? Occasional Thoughts on the Masham-Astell Exchange”, *Eighteenth-Century Thought*, 1: 123–49.
-* –––, 2007, “Astell, Cartesian Ethics, and the Critique of Custom”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 165–179.
-* –––, 2009, “Mary Astell on Virtuous Friendship”, *Parergon: Journal of the Australian and New Zealand Association for Medieval and Early Modern Studies*, 26(2): 65–86.
-* –––, 2014, “Mary Astell on Marriage and Lockean Slavery”, *History of Political Thought*, 35(4): 717–738.
-* –––, 2015, *The Philosophy of Mary Astell: An Early Modern Theory of Virtue,* Oxford: Oxford University Press.
-* –––, 2016, “Mary Astell and the Virtues”, in *Feminist Interpretations of Mary Astell*, Alice Sowaal and Penny A. Weiss (eds.), State College, PA: Pennsylvania State University Press, pp. 16–34.
-* Broad, J. and K. Green, 2009, *A History of Women’s Political Thought in Europe, 1400–1700*, Cambridge: Cambridge University Press.
-* Bryson, C.B., 1988, “Mary Astell: Defended of the ‘Disembodied Mind’”, *Hypatia*, 13(4): 40–62.
-* Carroll, B. A., 1990, “The Politics of ‘Originality’: Women and the Class System of the Intellect,” *Journal of Women’s History*, 2(2): 136–63.
-* Coogan, M. D., et al., (eds.), 2010, *The New Oxford Annotated Bible: New Revised Standard Version: An Ecumenical Study Bible*. College ed.; Fully rev. 4th ed, Oxford: Oxford University Press.
-* Detlefsen, K. 2016. “Custom, Freedom and Equality: Mary Astell on Marriage and Women’s Education”, in *Feminist Interpretations of Mary Astell*, Alice Sowaal and Penny A. Weiss (eds.), State College, PA: Pennsylvania State University Press, pp. 74–92.
-* Duran, J., 2000, “Mary Astell: A Pre-Humean Christian Empiricist and Feminist\*”\*, in *Presenting Women Philosophers*, C. Tougas and S. Ebenreck (eds.), Philadelphia: Temple University Press, pp. 147–154.
-* –––, 2006, *Eight Women Philosophers: Theory, Politics, and Feminism*, Urbana: University of Illinois Press.
-* –––, 2014, “Christianity and Women’s Education: Anna Maria van Schurman and Mary Astell,” *Philosophy & Theology*, 26(1): 3–18.
-* Dussinger, J. A., 2013, “Mary Astell’s Revisions of Some Reflections upon Marriage (1730)”, *The Papers of the Bibliographical Society of America*, 107(1): 49–79.
-* Ellenzwig, S., 2003, “The Love of God and the Radical Enlightenment: Mary Astell’s Brush with Spinoza”, *Journal of the History of Ideas*, 63(3): 379–87.
-* Ezell, M. J. M., 1993, *Writing Women’s Literary History*, Baltimore: The Johns Hopkins University Press.
-* Foucault, M., 1997. “The Ethics of the Concern of the Self as a Practice of Freedom”, in *Ethics: Subjectivity and Truth*, Paul Rabinow (ed.), New York: New Press, 281–301.
-* Forbes, A.F., 2019, “Mary Astell on Bad Custom and Epistemic Injustice”, *Hypatia* 34(4): 777–801.
-* Gill, M. B., 2006, *The British Moralists on Human Nature and the Birth of Secular Ethics*, Cambridge: Cambridge University Press.
-* Goldie, M., 2007, “Mary Astell and John Locke”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener and M. Michelson, Burlington, VT: Ashgate, pp. 17–30.
-* Hadot, P., 1995, *Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault*, Arnold I Davidson (ed.),Malden, MA: Blackwell.
-* Harris, J., 2012, “Philosophy and sexual politics in Mary Astell and Samuel Richardson”, *Intellectual History Review*, 22(3): 445–63.
-* Hartmann, Van. C., 1998, “Tory Feminism in Mary Astell’s Bart’lemy Fair”, *Journal of Narrative Technique*, 28(3): 243–65.
-* Herberg, E., 1999, “Mary Astell’s Rhetorical Theory: A Woman’s Viewpoint”, in *The Changing Tradition: Women in the History of Rhetoric*, C. M. Sutherland and R. Sutcliffe (eds.), Calgary: University of Calgary Press, pp. 147–157.
-* Hill, B., 1986, The First English Feminist: *“Reflections upon Marriage” and Other Writings by Mary Astell*, Aldershot, Hants: Grower Publishing.
-* –––, 1987, “A Refuge from Men: The Idea of a Protestant Nunnery”, *Past & Present*, 117: 107–130.
-* James, R., 1976, “Mary, Mary, Quite Contrary, Or, Mary Astell and Mary Wollstonecraft Compared”, *Studies in Eighteenth Century Culture*, Ronald C. Rosbottom (ed.), 5: 121–139.
-* Johns, A., 1996, “Mary Astell’s ‘Excited needles’: Theorizing Feminist Utopia in Seventeenth-Century England”, *Utopian Studies*, 7(1): 60–74.
-* Kendrick, N., 2018, “Mary Astell’s Theory of Spiritual Friendship”, *British Journal for the History of Philosophy*, 26(1): 46–65.
-* Kinnaird, J. K., 1979, “Mary Astell and the Conservative Contribution to English Feminism”, *Journal of British Studies*, 19(1): 53–75.
-* Kolbrener, W., 2003, “Gendering the Modern, Mary Astell’s Feminist Historiography”, *The Eighteenth Century*, 44(1): 1–24.
-* –––, 2007, “Astell’s ‘Design of Friendship’ in Letters and A Serious Proposal, Part I”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 49–64.
-* –––, 2014, “Slander, Conversation and the Making of the Christian Public Sphere in *Mary Astell’s A Serious Proposal to the Ladies* and *The Christian Religion as Profess’d by a Daughter of the Church of England*”, in *Religion and Women in Britain, c. 1660–1760*, S. Apetrei and H. Smith (eds.), Farnham Surrey, England; Burlington, VT: Ashgate, pp. 131–144.
-* Kolbrener W. and M. Michelson, 2007, *Mary Astell: Reason, Gender, Faith*, Aldershot: Ashgate. \[Reprint of the introduction is available online.]
-* Kotva, S., 2020, *Effort and Grace: On the Spiritual Exercise of Philosophy*: Reinventing Philosophy as a Way of Life, New York: Bloomsbury Academic.
-* Lascano, M., 2016, “Mary Astell on the Existence and Nature of God”, in *Feminist Interpretations of Mary Astell*, Alice Sowaal and Penny A. Weiss (eds.), State College, PA: Pennsylvania State University Press, pp. 168–187.
-* Lister, A., 2004, “Marriage and Misogyny: The Place of Mary Astell in the History of Political Thought”, *History of Political Thought*, 25(1): 44–72.
-* Locke, J., 1989, *An Essay concerning Human Understanding.* Ed. P.H. Nidditch. Oxford: Clarendon Press.
-* –––. *Reasonableness of Christianity*. *The Works of John Locke in Nine Volumes.* London: Rivington, 1824.
-* McCrystal, J., 1992, “A Lady’s Calling: Mary Astell’s Notion of Women”, *Political Theory Newsletter*, 4: 156–70.
-* –––, 1993, “Revolting Women The Use of Revolutionary Discourse in Mary Astell and Mary Wollstonecraft Compared”, *History of Political Thought*, 14(2): 189–203.
-* Miller, S., 2008, *Engendering the Fall: John Milton and Seventeenth-Century Women Writers*, Philadelphia: University of Pennsylvania Press.
-* Myers, J. E., 2012, “Enthusiastic Improvement: Mary Astell and Damaris Masham on Sociability”, *Hypatia*, 28(3): 533–550.
-* Nadelhaft, J., 1982, “The Englishwoman’s Sexual Civil War: Feminist Attitudes Towards Men, Women, and Marriage”, *Journal of the History of Ideas*, 43(4): 555–579.
-* Nelson, A., 2005, “The Rationalist Impulse”, in *A Companion to Rationalism*, A. Nelson (ed.), Malden, MA: Blackwell, pp. 3–11.
-* O’Donnell, S., 1978, “Mr. Locke and the Ladies: The Indelible Words on the *Tabula Rasa*”, *Studies in Eighteenth Century Culture*, 8: 151–164.
-* O’Neill, E., 1998, “Astell, Mary (1666–1731)”, in *Routledge Encyclopedia of Philosophy*, Vol. 1, E. Craig (ed.), New York: Routledge, pp. 527–30.
-* ––, 1998b, “Disappearing Ink: Early Modern Women Philosophers and their Fate in History,” in *Philosophy in a Feminist Voice: Critiques and Reconstructions*, J. A. Kournay (ed.), Princeton: Princeton University Press, pp. 17–62.
-* –––, 1999, “Women Cartesians, ‘Feminine Philosophy’, and Historical Exclusion”, in *Feminist Interpretations of René Descartes*, S. Bordo (ed.), University Park, Pennsylvania: Pennsylvania State University Press, pp. 232–257.
-* –––, 2005, “Early Modern Women Philosophers and the History of Philosophy,” *Hypatia*, 20(3): 185–197.
-* –––, 2007, “Mary Astell on the Causation of Sensation”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 145–64.
-* Perry, R., 1981, “Two Forgotten Wits”, *The Antioch Review*, 39(4): 431–438.
-* –––, 1982, “Mary Astell’s Poetry”, *Tulsa Studies in Women’s Literature*, 1(2): 201–202.
-* –––, 1984, “Mary Astell’s Response to the Enlightenment”, in *Women and the Enlightenment*, M. Hunt, M. Jacob, P. Mack, and R. Perry (eds.), New York: The Haworth Press, Inc., pp. 13–40.
-* –––, 1985, “Radical Doubt and the Liberation of Women”, *Eighteenth-Century Studies*, 18(4): 472–493.
-* –––, 1986, *The Celebrated Mary Astell: An Early English Feminist*, Cambridge: Cambridge University Press.
-* –––, 1990, “Mary Astell and the Feminist Critique of Possessive Individualism”, *Eighteenth-Century Studies*, 23(4): 444–457.
-* Pickard, C. “Great in Humilitie’: A Consideration of Mary Astell’s Poetry”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener and M. Michelson (eds.), Aldershot, England: Ashgate, pp. 115–126.
-* Schillace, B. L., 2013, “Reproducing Custom: Mechanical Habits and Female Machines in Augustan Women’s Education”, *Feminist Formations*, 25(1): 111–137.
-* Shapiro, L., 2013, “The Outward and Inward Beauty of Early Modern Women”, *Review Philosophique de la France et de l’Étranger, T.: Penser au Féminin Au XVIIe Siécle*, 203(3): 327–346.
-* Sharrock, C., 1992, “De-ciphering Women and De-scribing Authority: The Writings of Mary Astell”, in *Women, Writing, History 1640–1740*, I. Grundy and S. Wiseman (eds.), Athens: University of Georgia Press, pp. 109–124.
-* Smith, F., 1916, *Mary Astell*, Columbia: Columbia University Press.
-* Smith, H. L., 1982, *Reason’s Disciples: Seventeenth-Century English Feminists*, Urbana: University of Illinois Press.
-* –––, 2007, “‘Cry up liberty’: The Political Context for Mary Astell’s Feminism”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 193–204.
-* Sowaal, A., 2007, “Mary Astell’s Serious Proposal: Mind, Method, and Custom”, *Philosophy Compass*, 2(2): 227–43.
-* –––, 2016, “Mary Astell and the Development of Vice: Pride, Courtship, and the Women’s Human Nature Question”, in *Feminist Interpretations of Mary Astell*, Alice Sowaal and Penny A. Weiss (eds.), State College, PA: Pennsylvania State University Press, pp. 57–72.
-* –––, 2017, “Mary Astell on Liberty”, in *Women and Liberty, 1600–1800*, Jacqueline Broad and Karen Detlefsen (eds.), Oxford: Oxford University Press, pp. 178–194.
-* Spender, D., 1982, *Women of Ideas and What Men Have Done to Them: From Aphra Behn to Adrienne Rich*, London: Routledge and Kegan Paul.
-* Springborg, P., 1995, “Mary Astell (1666–1731), Critic of Locke”, *American Political Science Review*, 89(3): 621–633.
-* –––, 1996, “Introduction”, *Astell: Political Writings*, P. Springborg (ed.), Cambridge: Cambridge University Press, pp. xi–xlviii.
-* –––, 2002, “Introduction”, *A Serious Proposal to the Ladies, Parts I and II*, Ontario: Broadview Literary Texts.
-* –––, 2005, *Mary Astell: Theorist of Freedom from Domination*, Cambridge: Cambridge University Press.
-* Squadrito, K.M., 1987, “Mary Astell’s Critique of Locke’s View of Thinking Matter”, *Journal of History of Philosophy*, 25: 433–439.
-* –––, 1991, “Mary Astell”, *A History of Women Philosophers. Vol. III: 1600–1800*, M.E. Waithe (ed.), Dordrecht, Boston: Kluwer Academic Publishers.
-* Stanton, K. S., 2007, “‘Affliction, The Sincerest Friend’”, *Prose Studies: History, Theory, Criticism*, 29(1): 104–114.
-* Staves, S., 2002, “Church of England Clergy and Women Writers”, *Huntington Library Quarterly: Reconsidering the Bluestockings*, 65(1/2): 81–103.
-* Sutherland, C. M., 1991, “Outside the Rhetorical Tradition: Mary Astell’s Advice to Women in Seventeenth-Century England”, *Rhetorica: A Journal of the History of Rhetoric*, 9(2): 147–163.
-* –––, 1995, “Mary Astell: Reclaiming Rhetorica in the Seventeenth Century”, in *Reclaiming Rhetoria: Women in the Rhetorical Tradition*, A. Lunsford (ed.), Pittsburgh: University of Pittsburgh Press, pp. 93–116.
-* –––, 2005, *The Eloquence of Mary Astell*, Calgary: University of Calgary Press.
-* –––, 2009, *Reason and Religion in* Clarissa\*: Samuel Richardson and “The Famous Mr. Norris, of Bemerton”\*, Farnham: Ashgate.
-* Sutherland, C. M. and R. Sutcliffe, 1999, *The Changing Tradition: Women in the History of Rhetoric*, Calgary: University of Calgary Press.
-* Taylor, E. D., 2001, “Mary Astell’s Ironic Assault on John Locke’s Theory of Thinking Matter”, *Journal of the History of Ideas*, 62(3): 505–522.
-* ––, 2005a, “Introduction Mary Astell and John Norris: A Correspondence”, in *Mary Astell And John Norris: Letters Concerning The Love Of God*, E. D. Taylor and M. New (eds.), Aldershot: Ashgate, pp. 1–41. \[Reprint available online.]
-* –––, 2005b–6, “Mary Astell’s Work toward a New Edition of ‘A Serious Proposal to the Ladies, Part II’”, *Studies in Bibliography*, 57: 197–232.
-* Thickstun, M. O., 1991, “‘This was a Woman that taught’: Feminist Scriptural Exegesis in the Seventeenth Century”, *Studies in Eighteenth-Century Culture*, 21: 149–158.
-* Waters, K., 2002, “Sources of Political Authority: John Locke and Mary Astell”, in Introduction, *Women and Men Political Theorists: Enlightened Conversations*, Malden, Massachusetts: Blackwell, pp. 5–19.
-* Webb, Simone. 2020, “Philosophy as a Feminist Spirituality and Critical Practice for Mary Astell”, in *Metaphilosophy* 51(2–3): 280–302.
-* Weiss, P., 2004, “Mary Astell: Including Women’s Voices in Political Theory”, *Hypatia*, 19(3): 63–84.
-* –––, 1996, “Wollstonecraft and Rousseau: The Gendered Fate of Political Theorists”, in *Feminist Interpretations of Mary Wollstonecraft* (Series: Re-Reading the Canon), M. J. Falco (ed.), University Park, Pennsylvania: Pennsylvania State University Press, pp. 15–32.
-* –––, 2009, *Canon Fodder: Historical Women Political Thinkers*, University Park: Penn State University Press.
-* Wilson, C., 2004, “Love of God and Love of Creatures”, *History of Philosophy Quarterly*, 21(3): 281–298.
-* Wolterstorff, N., 1976, *Reason Within the Bounds of Religion.* Grand Rapids, Michigan: Wm. B. Eerdmans Publishing Co.
-* Zook, M., 2007, “Religious Nonconformity and the Problem of Dissent in the Works of Aphra Behn and Mary Astell”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener and M. Michelson (eds.), Aldershot, Hants: Ashgate, pp. 99–113.
+* Achinstein, S., 2007, “Mary Astell. Religion and Feminism: Texts in Motion”, in _Mary Astell: Reason, Gender, Faith_, W. Kolbrener & M. Michelson, Burlington, VT: Ashgate, pp. 17–30.
+* Acworth, R., 1979, _The Philosophy of John Norris of Bemerton_ (1657–1712), Hildesheim/New York: Georg Olms Verlag.
+* Alvarez, D. P., 2011, “Reason and Religious Tolerance: Mary Astell’s Critique of Shaftesbury”, _Eighteenth Century Studies_, 44(4): 475–494.
+* Apetrei, S., 2008a, “‘Call no man master upon earth’: Mary Astell’s Tory Feminism and an Unknown Correspondence”, _Eighteenth-Century Studies_, 41(4): 507–23.
+* –––, 2008b, _Women, Feminism and Religion in Early Enlightenment England_, Cambridge: Cambridge University Press.
+* Atherton, M., 1993, “Cartesian Reason and Gendered Reason”, in _A Mind of One’s Own: Feminist Essays on Reason and Objectivity_, L.M. Antony and C. Witt (eds.), Boulder and Oxford: Westview Press, pp. 19–34.
+* Bejan, T.M., 2019, “‘Since All the World is mad, why should I be so?’ Mary Astell on Equality, Hierarchy, and Ambition”, in _Political Theory_, 47(6): 781–808.
+* Broad, J., 2002a, _Women Philosophers of the Seventeenth Century_, Cambridge: Cambridge University Press.
+* Broad, J., 2002b, “Mary Astell (1666–1731)”, in _British Philosophers 1500–1899_, P.B. Dematteis and P.S. Fosl (eds.), Dictionary of Literary Biography 252, pp. 3–10.
+* –––, 2003, “Adversaries or Allies? Occasional Thoughts on the Masham-Astell Exchange”, _Eighteenth-Century Thought_, 1: 123–49.
+* –––, 2007, “Astell, Cartesian Ethics, and the Critique of Custom”, in _Mary Astell: Reason, Gender, Faith_, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 165–179.
+* –––, 2009, “Mary Astell on Virtuous Friendship”, _Parergon: Journal of the Australian and New Zealand Association for Medieval and Early Modern Studies_, 26(2): 65–86.
+* –––, 2014, “Mary Astell on Marriage and Lockean Slavery”, _History of Political Thought_, 35(4): 717–738.
+* –––, 2015, _The Philosophy of Mary Astell: An Early Modern Theory of Virtue,_ Oxford: Oxford University Press.
+* –––, 2016, “Mary Astell and the Virtues”, in _Feminist Interpretations of Mary Astell_, Alice Sowaal and Penny A. Weiss (eds.), State College, PA: Pennsylvania State University Press, pp. 16–34.
+* Broad, J. and K. Green, 2009, _A History of Women’s Political Thought in Europe, 1400–1700_, Cambridge: Cambridge University Press.
+* Bryson, C.B., 1988, “Mary Astell: Defended of the ‘Disembodied Mind’”, _Hypatia_, 13(4): 40–62.
+* Carroll, B. A., 1990, “The Politics of ‘Originality’: Women and the Class System of the Intellect,” _Journal of Women’s History_, 2(2): 136–63.
+* Coogan, M. D., et al., (eds.), 2010, _The New Oxford Annotated Bible: New Revised Standard Version: An Ecumenical Study Bible_. College ed.; Fully rev. 4th ed, Oxford: Oxford University Press.
+* Detlefsen, K. 2016. “Custom, Freedom and Equality: Mary Astell on Marriage and Women’s Education”, in _Feminist Interpretations of Mary Astell_, Alice Sowaal and Penny A. Weiss (eds.), State College, PA: Pennsylvania State University Press, pp. 74–92.
+* Duran, J., 2000, “Mary Astell: A Pre-Humean Christian Empiricist and Feminist\*”\*, in _Presenting Women Philosophers_, C. Tougas and S. Ebenreck (eds.), Philadelphia: Temple University Press, pp. 147–154.
+* –––, 2006, _Eight Women Philosophers: Theory, Politics, and Feminism_, Urbana: University of Illinois Press.
+* –––, 2014, “Christianity and Women’s Education: Anna Maria van Schurman and Mary Astell,” _Philosophy & Theology_, 26(1): 3–18.
+* Dussinger, J. A., 2013, “Mary Astell’s Revisions of Some Reflections upon Marriage (1730)”, _The Papers of the Bibliographical Society of America_, 107(1): 49–79.
+* Ellenzwig, S., 2003, “The Love of God and the Radical Enlightenment: Mary Astell’s Brush with Spinoza”, _Journal of the History of Ideas_, 63(3): 379–87.
+* Ezell, M. J. M., 1993, _Writing Women’s Literary History_, Baltimore: The Johns Hopkins University Press.
+* Foucault, M., 1997. “The Ethics of the Concern of the Self as a Practice of Freedom”, in _Ethics: Subjectivity and Truth_, Paul Rabinow (ed.), New York: New Press, 281–301.
+* Forbes, A.F., 2019, “Mary Astell on Bad Custom and Epistemic Injustice”, _Hypatia_ 34(4): 777–801.
+* Gill, M. B., 2006, _The British Moralists on Human Nature and the Birth of Secular Ethics_, Cambridge: Cambridge University Press.
+* Goldie, M., 2007, “Mary Astell and John Locke”, in _Mary Astell: Reason, Gender, Faith_, W. Kolbrener and M. Michelson, Burlington, VT: Ashgate, pp. 17–30.
+* Hadot, P., 1995, _Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault_, Arnold I Davidson (ed.),Malden, MA: Blackwell.
+* Harris, J., 2012, “Philosophy and sexual politics in Mary Astell and Samuel Richardson”, _Intellectual History Review_, 22(3): 445–63.
+* Hartmann, Van. C., 1998, “Tory Feminism in Mary Astell’s Bart’lemy Fair”, _Journal of Narrative Technique_, 28(3): 243–65.
+* Herberg, E., 1999, “Mary Astell’s Rhetorical Theory: A Woman’s Viewpoint”, in _The Changing Tradition: Women in the History of Rhetoric_, C. M. Sutherland and R. Sutcliffe (eds.), Calgary: University of Calgary Press, pp. 147–157.
+* Hill, B., 1986, The First English Feminist: _“Reflections upon Marriage” and Other Writings by Mary Astell_, Aldershot, Hants: Grower Publishing.
+* –––, 1987, “A Refuge from Men: The Idea of a Protestant Nunnery”, _Past & Present_, 117: 107–130.
+* James, R., 1976, “Mary, Mary, Quite Contrary, Or, Mary Astell and Mary Wollstonecraft Compared”, _Studies in Eighteenth Century Culture_, Ronald C. Rosbottom (ed.), 5: 121–139.
+* Johns, A., 1996, “Mary Astell’s ‘Excited needles’: Theorizing Feminist Utopia in Seventeenth-Century England”, _Utopian Studies_, 7(1): 60–74.
+* Kendrick, N., 2018, “Mary Astell’s Theory of Spiritual Friendship”, _British Journal for the History of Philosophy_, 26(1): 46–65.
+* Kinnaird, J. K., 1979, “Mary Astell and the Conservative Contribution to English Feminism”, _Journal of British Studies_, 19(1): 53–75.
+* Kolbrener, W., 2003, “Gendering the Modern, Mary Astell’s Feminist Historiography”, _The Eighteenth Century_, 44(1): 1–24.
+* –––, 2007, “Astell’s ‘Design of Friendship’ in Letters and A Serious Proposal, Part I”, in _Mary Astell: Reason, Gender, Faith_, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 49–64.
+* –––, 2014, “Slander, Conversation and the Making of the Christian Public Sphere in _Mary Astell’s A Serious Proposal to the Ladies_ and _The Christian Religion as Profess’d by a Daughter of the Church of England_”, in _Religion and Women in Britain, c. 1660–1760_, S. Apetrei and H. Smith (eds.), Farnham Surrey, England; Burlington, VT: Ashgate, pp. 131–144.
+* Kolbrener W. and M. Michelson, 2007, _Mary Astell: Reason, Gender, Faith_, Aldershot: Ashgate. \[Reprint of the introduction is available online.]
+* Kotva, S., 2020, _Effort and Grace: On the Spiritual Exercise of Philosophy_: Reinventing Philosophy as a Way of Life, New York: Bloomsbury Academic.
+* Lascano, M., 2016, “Mary Astell on the Existence and Nature of God”, in _Feminist Interpretations of Mary Astell_, Alice Sowaal and Penny A. Weiss (eds.), State College, PA: Pennsylvania State University Press, pp. 168–187.
+* Lister, A., 2004, “Marriage and Misogyny: The Place of Mary Astell in the History of Political Thought”, _History of Political Thought_, 25(1): 44–72.
+* Locke, J., 1989, _An Essay concerning Human Understanding._ Ed. P.H. Nidditch. Oxford: Clarendon Press.
+* –––. _Reasonableness of Christianity_. _The Works of John Locke in Nine Volumes._ London: Rivington, 1824.
+* McCrystal, J., 1992, “A Lady’s Calling: Mary Astell’s Notion of Women”, _Political Theory Newsletter_, 4: 156–70.
+* –––, 1993, “Revolting Women The Use of Revolutionary Discourse in Mary Astell and Mary Wollstonecraft Compared”, _History of Political Thought_, 14(2): 189–203.
+* Miller, S., 2008, _Engendering the Fall: John Milton and Seventeenth-Century Women Writers_, Philadelphia: University of Pennsylvania Press.
+* Myers, J. E., 2012, “Enthusiastic Improvement: Mary Astell and Damaris Masham on Sociability”, _Hypatia_, 28(3): 533–550.
+* Nadelhaft, J., 1982, “The Englishwoman’s Sexual Civil War: Feminist Attitudes Towards Men, Women, and Marriage”, _Journal of the History of Ideas_, 43(4): 555–579.
+* Nelson, A., 2005, “The Rationalist Impulse”, in _A Companion to Rationalism_, A. Nelson (ed.), Malden, MA: Blackwell, pp. 3–11.
+* O’Donnell, S., 1978, “Mr. Locke and the Ladies: The Indelible Words on the _Tabula Rasa_”, _Studies in Eighteenth Century Culture_, 8: 151–164.
+* O’Neill, E., 1998, “Astell, Mary (1666–1731)”, in _Routledge Encyclopedia of Philosophy_, Vol. 1, E. Craig (ed.), New York: Routledge, pp. 527–30.
+* ––, 1998b, “Disappearing Ink: Early Modern Women Philosophers and their Fate in History,” in _Philosophy in a Feminist Voice: Critiques and Reconstructions_, J. A. Kournay (ed.), Princeton: Princeton University Press, pp. 17–62.
+* –––, 1999, “Women Cartesians, ‘Feminine Philosophy’, and Historical Exclusion”, in _Feminist Interpretations of René Descartes_, S. Bordo (ed.), University Park, Pennsylvania: Pennsylvania State University Press, pp. 232–257.
+* –––, 2005, “Early Modern Women Philosophers and the History of Philosophy,” _Hypatia_, 20(3): 185–197.
+* –––, 2007, “Mary Astell on the Causation of Sensation”, in _Mary Astell: Reason, Gender, Faith_, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 145–64.
+* Perry, R., 1981, “Two Forgotten Wits”, _The Antioch Review_, 39(4): 431–438.
+* –––, 1982, “Mary Astell’s Poetry”, _Tulsa Studies in Women’s Literature_, 1(2): 201–202.
+* –––, 1984, “Mary Astell’s Response to the Enlightenment”, in _Women and the Enlightenment_, M. Hunt, M. Jacob, P. Mack, and R. Perry (eds.), New York: The Haworth Press, Inc., pp. 13–40.
+* –––, 1985, “Radical Doubt and the Liberation of Women”, _Eighteenth-Century Studies_, 18(4): 472–493.
+* –––, 1986, _The Celebrated Mary Astell: An Early English Feminist_, Cambridge: Cambridge University Press.
+* –––, 1990, “Mary Astell and the Feminist Critique of Possessive Individualism”, _Eighteenth-Century Studies_, 23(4): 444–457.
+* Pickard, C. “Great in Humilitie’: A Consideration of Mary Astell’s Poetry”, in _Mary Astell: Reason, Gender, Faith_, W. Kolbrener and M. Michelson (eds.), Aldershot, England: Ashgate, pp. 115–126.
+* Schillace, B. L., 2013, “Reproducing Custom: Mechanical Habits and Female Machines in Augustan Women’s Education”, _Feminist Formations_, 25(1): 111–137.
+* Shapiro, L., 2013, “The Outward and Inward Beauty of Early Modern Women”, _Review Philosophique de la France et de l’Étranger, T.: Penser au Féminin Au XVIIe Siécle_, 203(3): 327–346.
+* Sharrock, C., 1992, “De-ciphering Women and De-scribing Authority: The Writings of Mary Astell”, in _Women, Writing, History 1640–1740_, I. Grundy and S. Wiseman (eds.), Athens: University of Georgia Press, pp. 109–124.
+* Smith, F., 1916, _Mary Astell_, Columbia: Columbia University Press.
+* Smith, H. L., 1982, _Reason’s Disciples: Seventeenth-Century English Feminists_, Urbana: University of Illinois Press.
+* –––, 2007, “‘Cry up liberty’: The Political Context for Mary Astell’s Feminism”, in _Mary Astell: Reason, Gender, Faith_, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 193–204.
+* Sowaal, A., 2007, “Mary Astell’s Serious Proposal: Mind, Method, and Custom”, _Philosophy Compass_, 2(2): 227–43.
+* –––, 2016, “Mary Astell and the Development of Vice: Pride, Courtship, and the Women’s Human Nature Question”, in _Feminist Interpretations of Mary Astell_, Alice Sowaal and Penny A. Weiss (eds.), State College, PA: Pennsylvania State University Press, pp. 57–72.
+* –––, 2017, “Mary Astell on Liberty”, in _Women and Liberty, 1600–1800_, Jacqueline Broad and Karen Detlefsen (eds.), Oxford: Oxford University Press, pp. 178–194.
+* Spender, D., 1982, _Women of Ideas and What Men Have Done to Them: From Aphra Behn to Adrienne Rich_, London: Routledge and Kegan Paul.
+* Springborg, P., 1995, “Mary Astell (1666–1731), Critic of Locke”, _American Political Science Review_, 89(3): 621–633.
+* –––, 1996, “Introduction”, _Astell: Political Writings_, P. Springborg (ed.), Cambridge: Cambridge University Press, pp. xi–xlviii.
+* –––, 2002, “Introduction”, _A Serious Proposal to the Ladies, Parts I and II_, Ontario: Broadview Literary Texts.
+* –––, 2005, _Mary Astell: Theorist of Freedom from Domination_, Cambridge: Cambridge University Press.
+* Squadrito, K.M., 1987, “Mary Astell’s Critique of Locke’s View of Thinking Matter”, _Journal of History of Philosophy_, 25: 433–439.
+* –––, 1991, “Mary Astell”, _A History of Women Philosophers. Vol. III: 1600–1800_, M.E. Waithe (ed.), Dordrecht, Boston: Kluwer Academic Publishers.
+* Stanton, K. S., 2007, “‘Affliction, The Sincerest Friend’”, _Prose Studies: History, Theory, Criticism_, 29(1): 104–114.
+* Staves, S., 2002, “Church of England Clergy and Women Writers”, _Huntington Library Quarterly: Reconsidering the Bluestockings_, 65(1/2): 81–103.
+* Sutherland, C. M., 1991, “Outside the Rhetorical Tradition: Mary Astell’s Advice to Women in Seventeenth-Century England”, _Rhetorica: A Journal of the History of Rhetoric_, 9(2): 147–163.
+* –––, 1995, “Mary Astell: Reclaiming Rhetorica in the Seventeenth Century”, in _Reclaiming Rhetoria: Women in the Rhetorical Tradition_, A. Lunsford (ed.), Pittsburgh: University of Pittsburgh Press, pp. 93–116.
+* –––, 2005, _The Eloquence of Mary Astell_, Calgary: University of Calgary Press.
+* –––, 2009, _Reason and Religion in_ Clarissa\*: Samuel Richardson and “The Famous Mr. Norris, of Bemerton”\*, Farnham: Ashgate.
+* Sutherland, C. M. and R. Sutcliffe, 1999, _The Changing Tradition: Women in the History of Rhetoric_, Calgary: University of Calgary Press.
+* Taylor, E. D., 2001, “Mary Astell’s Ironic Assault on John Locke’s Theory of Thinking Matter”, _Journal of the History of Ideas_, 62(3): 505–522.
+* ––, 2005a, “Introduction Mary Astell and John Norris: A Correspondence”, in _Mary Astell And John Norris: Letters Concerning The Love Of God_, E. D. Taylor and M. New (eds.), Aldershot: Ashgate, pp. 1–41. \[Reprint available online.]
+* –––, 2005b–6, “Mary Astell’s Work toward a New Edition of ‘A Serious Proposal to the Ladies, Part II’”, _Studies in Bibliography_, 57: 197–232.
+* Thickstun, M. O., 1991, “‘This was a Woman that taught’: Feminist Scriptural Exegesis in the Seventeenth Century”, _Studies in Eighteenth-Century Culture_, 21: 149–158.
+* Waters, K., 2002, “Sources of Political Authority: John Locke and Mary Astell”, in Introduction, _Women and Men Political Theorists: Enlightened Conversations_, Malden, Massachusetts: Blackwell, pp. 5–19.
+* Webb, Simone. 2020, “Philosophy as a Feminist Spirituality and Critical Practice for Mary Astell”, in _Metaphilosophy_ 51(2–3): 280–302.
+* Weiss, P., 2004, “Mary Astell: Including Women’s Voices in Political Theory”, _Hypatia_, 19(3): 63–84.
+* –––, 1996, “Wollstonecraft and Rousseau: The Gendered Fate of Political Theorists”, in _Feminist Interpretations of Mary Wollstonecraft_ (Series: Re-Reading the Canon), M. J. Falco (ed.), University Park, Pennsylvania: Pennsylvania State University Press, pp. 15–32.
+* –––, 2009, _Canon Fodder: Historical Women Political Thinkers_, University Park: Penn State University Press.
+* Wilson, C., 2004, “Love of God and Love of Creatures”, _History of Philosophy Quarterly_, 21(3): 281–298.
+* Wolterstorff, N., 1976, _Reason Within the Bounds of Religion._ Grand Rapids, Michigan: Wm. B. Eerdmans Publishing Co.
+* Zook, M., 2007, “Religious Nonconformity and the Problem of Dissent in the Works of Aphra Behn and Mary Astell”, in _Mary Astell: Reason, Gender, Faith_, W. Kolbrener and M. Michelson (eds.), Aldershot, Hants: Ashgate, pp. 99–113.
 
 ## Academic Tools
 
@@ -416,4 +416,4 @@ Broad（2002a，103）提供了证据表明，阿斯特尔将上帝的智慧和�
 [Cambridge Platonists](https://plato.stanford.edu/entries/cambridge-platonists/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [feminist philosophy, interventions: ethics](https://plato.stanford.edu/entries/feminism-ethics/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [marriage and domestic partnership](https://plato.stanford.edu/entries/marriage/) | [Norris, John](https://plato.stanford.edu/entries/john-norris/) | [occasionalism](https://plato.stanford.edu/entries/occasionalism/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Alice Sowaal](http://online.sfsu.edu/\~asowaal/) <[*asowaal@sfsu.edu*](mailto:asowaal%40sfsu%2eedu)>
+[Alice Sowaal](http://online.sfsu.edu/\~asowaal/) <[_asowaal@sfsu.edu_](mailto:asowaal%40sfsu%2eedu)>

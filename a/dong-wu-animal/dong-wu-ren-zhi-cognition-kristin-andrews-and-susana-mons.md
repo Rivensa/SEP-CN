@@ -1,6 +1,6 @@
 # 动物认知 cognition (Kristin Andrews and Susana Monsó)
 
-*首次发布于 2021 年 3 月 8 日*
+_首次发布于 2021 年 3 月 8 日_
 
 哲学对动物的关注可以在哲学史上的各种文本中找到，包括亚里士多德和伊本·巴杰的动物分类讨论，波菲里、克里西普、阿奎那和康德的动物理性讨论，达尔玛基尔蒂、特莱西奥、康威、笛卡尔、卡文迪什和伏尔泰的心智连续性和心智本质讨论，伊本·西那的动物自我意识讨论，庄子的理解他人思想和感受讨论，山塔拉克希塔和本特姆的动物情感讨论，以及荀子的人类文化独特性讨论。近年来，在形而上学、认识论和价值理论的许多领域，哲学讨论中对动物心智的关注有所增加。考虑到非人类动物与人类分享一些生物学和心理学特征，以及我们共享社区、土地和其他资源，对非人类动物的考虑对我们的哲学活动有很大贡献。
 
@@ -127,7 +127,7 @@
 
 在动物认知科学中，哲学假设显现出来的另一个方面是对动物行为的简单解释的偏好。简洁性长期以来被视为科学解释的一种优点，但决定哪种解释比另一种更简单是非常困难的。
 
-在比较心理学中，尤其是在遵循摩根准则时，简单的解释被默认为零假设。这意味着除非有证据证明否定，否则它们被认为是真实的，并且证明的责任落在更复杂解释的一方。例如，对动物因果推理的研究将动物学习不同事件之间关联的能力作为零假设。然后，实验探究的是动物不仅能够进行这种简单形式的学习，还能否具备更复杂的理解某些事件*导致*其他事件的能力。当实验数据同时支持简单假设和更复杂假设时，科学家通常倾向于选择更简单的解释。例如，有人认为用于测试动物是否具备元认知能力（或思考自己的思维）的实验实际上可以通过仅使用一阶术语的推理（或思考世界）来通过。由于一阶思维被认为是对数据的更简单解释，因此有人认为应该优先选择这种解释（例如，Carruthers 2003; Hampton 2009）。
+在比较心理学中，尤其是在遵循摩根准则时，简单的解释被默认为零假设。这意味着除非有证据证明否定，否则它们被认为是真实的，并且证明的责任落在更复杂解释的一方。例如，对动物因果推理的研究将动物学习不同事件之间关联的能力作为零假设。然后，实验探究的是动物不仅能够进行这种简单形式的学习，还能否具备更复杂的理解某些事件_导致_其他事件的能力。当实验数据同时支持简单假设和更复杂假设时，科学家通常倾向于选择更简单的解释。例如，有人认为用于测试动物是否具备元认知能力（或思考自己的思维）的实验实际上可以通过仅使用一阶术语的推理（或思考世界）来通过。由于一阶思维被认为是对数据的更简单解释，因此有人认为应该优先选择这种解释（例如，Carruthers 2003; Hampton 2009）。
 
 许多人认为，更简单的解释应该被优先考虑，这是将奥卡姆剃刀应用于动物认知研究的结果，而将一个解释称为“更简单”或“更简洁”通常被视为“讨论结束！”的等同。然而，在过去的几十年里，哲学家们认为，在比较认知中偏好简单性的做法比起初看起来更加棘手。首先，许多人认为在这种情况下，更简单的解释更有可能是真实的没有理由。更简单的解释可能具有其他优点，例如更容易理解或描述，但由于动物行为是自然选择的结果，而不是一个能够无误地提供最佳解决方案的智能设计过程的结果，因此没有理由认为它更有可能是由更简单的过程引起的（Mikhalevich，Powell 和 Logan 2017）。事实上，有人认为当科学家声称偏好更简单的解释时，实际上是其他考虑在起作用，比如我们应该避免对动物行为进行拟人化描述的想法（Fitzpatrick 2017a; Sober 1998）。我们可以在 Shettleworth（2010a）将更简单的解释与联想解释等同起来的地方看到这一点。她认为联想解释更值得推崇，但这不是简单性本身的结果，而是源于联想在动物界中的系统发生学广泛存在的观点，因此在她看来，联想解释更有可能是真实的。
 
@@ -165,17 +165,17 @@
 
 动物心灵的类比论证可以表述为：
 
-1. 拥有心灵的人类具有某种属性 *M*。
-2. 物种*A*的个体具有属性*M*。
-3. 因此，物种*A*的个体很可能具有心智。
+1. 拥有心灵的人类具有某种属性 _M_。
+2. 物种_A_的个体具有属性_M_。
+3. 因此，物种_A_的个体很可能具有心智。
 
-但是*M*是什么？在这类论证中常用的属性包括可观察的行为（如情绪或交流行为）、通过某些实验测试（如在记忆任务或推理任务上的成功）或物理结构（如新皮层的存在）。
+但是_M_是什么？在这类论证中常用的属性包括可观察的行为（如情绪或交流行为）、通过某些实验测试（如在记忆任务或推理任务上的成功）或物理结构（如新皮层的存在）。
 
 对于动物心智的推理到最佳解释论证基于这样一种主张：动物心智的存在比其他假设提供的解释更好地解释了动物的行为和生理。这个论证可以表述为：
 
-1. 物种*x*的个体从事行为*y*。
-2. 个体从事行为*y*的最佳科学解释是他们拥有思维。
-3. 因此，物种*x*的个体很可能有思维。
+1. 物种_x_的个体从事行为_y_。
+2. 个体从事行为_y_的最佳科学解释是他们拥有思维。
+3. 因此，物种_x_的个体很可能有思维。
 
 当我们寻找一个现象的最佳解释时，我们首先必须产生一些假设，然后在它们之间做出决策。最佳解释将是那个能够产生准确预测并与我们其他科学承诺相一致的解释。
 
@@ -230,7 +230,7 @@
 
 ### 3.5 交流
 
-交流是另一个利用动物研究数据来帮助塑造哲学理论的领域。许多人从 H.P.格赖斯（H.P. Grice）的观点出发，他提出，如果演讲者以意图发出*x*的话语，那么演讲者只有在这种情况下才意味着某种东西。
+交流是另一个利用动物研究数据来帮助塑造哲学理论的领域。许多人从 H.P.格赖斯（H.P. Grice）的观点出发，他提出，如果演讲者以意图发出_x_的话语，那么演讲者只有在这种情况下才意味着某种东西。
 
 1. 它在预期的观众中产生了反应，
 2. 观众认识到演讲者的第一意图，并
@@ -250,7 +250,7 @@ Dennett 将 Grice 的结论解释为只有那些能够持有第三阶信念（�
 
 过去几十年来，关于社会理解的哲学讨论，包括共情、心智理论、规范和文化，受到了有关动物社会认知能力的累积证据的影响。我们在[第 2 节](https://plato.stanford.edu/entries/cognition-animal/#PhilAssuStudAnimCogn)中概述的黑猩猩心智理论争议是一个完美的例证，因为它引发了许多从哲学角度探讨这个主题的文章和书籍。早期的许多论文都集中在所谓的“逻辑问题”上，即实验结果可以通过假设黑猩猩是心智阅读者或者仅仅是行为阅读者来解释的问题。哲学家们对这个问题提出了各种解决方案，从旨在解开这两种解释数据的实验性提议（Lurz 2011）到试图通过论证它只是一个怀疑问题，对我们推进动物认知研究没有帮助（Halina 2015）。
 
-其他哲学家受到黑猩猩心理理论争议的启发，重新思考社会认知。例如，安德鲁斯（2012）认为，黑猩猩心理理论争议预设了一种社会理解观点，即预测和解释行为是两种对称的活动，依赖于对他人的命题态度（信念和欲望）的归属。相反，她认为，在许多情况下，人类和非人类都可以在不诉诸于他人的信念和欲望的情况下预测行为，而是根据他们所处的情境，根据自己的行为，基于刻板印象或个性特征，根据个体过去的行为，根据社会规范，通过感知个体的情绪状态等等。相比之下，心理状态的归属更常见于解释他人行为的实践中，特别是在异常行为的情况下。尽管已经发现黑猩猩和其他类人猿能够通过虚假信念任务（Buttelmann 等人，2017；Krupenye 等人，2016），但黑猩猩心理理论实验旨在测试它们预测行为的能力，而不是解释行为，因此它们实际上可能并没有探究黑猩猩的心理理论（安德鲁斯，2018）。斯蒂芬·巴特菲尔和伊恩·阿普利（2013）还认为，在儿童、类人猿和其他动物身上进行的心理理论测试可以通过不将完全成熟的命题态度归属于他人来通过。个体可以依靠他们所称之为“最小心理理论”的能力，即注册对象及其与代理人的关系，从而能够追踪命题态度而无需将其表示为这样的态度。尽管目前关于类人猿心理理论的讨论主要是方法论的，对这些测试中使用的非语言隐含方法提出了担忧（Horschler、MacLean 和 Santos，2020），但也有一些哲学问题需要提出，这些问题是从非语言测试中产生的构建，即*隐含信念表征*。隐含知识通常被认为是非表征性的，正如在关于知识如何的哲学文献中所见。要回答一个非语言婴儿或非人类动物是否具有心理理论的问题，需要进行一些概念上的澄清（Rakoczy，2012）。
+其他哲学家受到黑猩猩心理理论争议的启发，重新思考社会认知。例如，安德鲁斯（2012）认为，黑猩猩心理理论争议预设了一种社会理解观点，即预测和解释行为是两种对称的活动，依赖于对他人的命题态度（信念和欲望）的归属。相反，她认为，在许多情况下，人类和非人类都可以在不诉诸于他人的信念和欲望的情况下预测行为，而是根据他们所处的情境，根据自己的行为，基于刻板印象或个性特征，根据个体过去的行为，根据社会规范，通过感知个体的情绪状态等等。相比之下，心理状态的归属更常见于解释他人行为的实践中，特别是在异常行为的情况下。尽管已经发现黑猩猩和其他类人猿能够通过虚假信念任务（Buttelmann 等人，2017；Krupenye 等人，2016），但黑猩猩心理理论实验旨在测试它们预测行为的能力，而不是解释行为，因此它们实际上可能并没有探究黑猩猩的心理理论（安德鲁斯，2018）。斯蒂芬·巴特菲尔和伊恩·阿普利（2013）还认为，在儿童、类人猿和其他动物身上进行的心理理论测试可以通过不将完全成熟的命题态度归属于他人来通过。个体可以依靠他们所称之为“最小心理理论”的能力，即注册对象及其与代理人的关系，从而能够追踪命题态度而无需将其表示为这样的态度。尽管目前关于类人猿心理理论的讨论主要是方法论的，对这些测试中使用的非语言隐含方法提出了担忧（Horschler、MacLean 和 Santos，2020），但也有一些哲学问题需要提出，这些问题是从非语言测试中产生的构建，即_隐含信念表征_。隐含知识通常被认为是非表征性的，正如在关于知识如何的哲学文献中所见。要回答一个非语言婴儿或非人类动物是否具有心理理论的问题，需要进行一些概念上的澄清（Rakoczy，2012）。
 
 近年来，哲学家对更广泛的社会能力产生了兴趣。社会学习（Moore，2013）、文化（Goodrich，2017；Ramsey，2013）、创新（Ramsey、Bastian 和 van Schaik，2007）、社会规范（Andrews，2020a）和动物道德（Fitzpatrick，2017b；Korsgaard，2006；Monsó，2015；Rowlands，2012）的哲学解释也受到了当前动物认知研究的启发。
 
@@ -278,166 +278,166 @@ Dennett 将 Grice 的结论解释为只有那些能够持有第三阶信念（�
 
 ## Bibliography
 
-* Allen, Colin, 2013, “The Geometry of Partial Understanding”, *American Philosophical Quarterly*, 50(3): 249–262.
-* Allen, Colin and Marc Bekoff, 1997, *Species of Mind: The Philosophy and Biology of Cognitive Ethology*, Cambridge, MA: MIT Press.
-* Andrews, Kristin, 2012, *Do Apes Read Minds? Toward a New Folk Psychology*, Cambridge, MA: MIT Press.
-* –––, 2018, “Do Apes Attribute Beliefs to Predict Behavior?: A Mengzian Social Intelligence Hypothesis”, *The Harvard Review of Philosophy*, 25: 89–110. doi:10.5840/harvardreview201892117
-* –––, 2020a, “Naïve Normativity: The Social Foundation of Moral Cognition”, *Journal of the American Philosophical Association*, 6(1): 36–56. doi:10.1017/apa.2019.30
-* –––, 2020b, *The Animal Mind: An Introduction to the Philosophy of Animal Cognition*, second edition, Abingdon, Oxon: Routledge. doi:10.4324/9780203712511
-* –––, 2020c, *How to Study Animal Minds*, Cambridge: Cambridge University Press. doi:10.1017/9781108616522
-* Andrews, Kristin and Jacob Beck (eds.), 2017, *The Routledge Handbook of Philosophy of Animal Minds*, New York: Routledge. doi:10.4324/9781315742250
-* Andrews, Kristin, Gary Comstock, G.K.D. Crozier, Sue Donaldson, Andrew Fenton, Tyler M. John, L. Syd M Johnson, Robert C. Jones, Will Kymlicka, Letitia Meynell, Nathan Nobis, David Peña-Guzmán, and Jeff Sebo, 2018, *Chimpanzee Rights: The Philosophers’ Brief*, New York: Routledge. doi:10.4324/9780429461071
-* Andrews, Kristin and Brian Huss, 2014, “Anthropomorphism, Anthropectomy, and the Null Hypothesis”, *Biology & Philosophy*, 29(5): 711–729. doi:10.1007/s10539-014-9442-2
-* Balcombe, Jonathan P., 2016, *What a Fish Knows: The Inner Lives of Our Underwater Cousins*, New York: Scientific American/Farrar, Straus, and Giroux.
-* Bar-On, Dorit, 2004, *Speaking My Mind: Expression and Self-Knowledge*, Oxford: Clarendon Press. doi:10.1093/0199276285.001.0001
-* –––, 2019, “Crude Meaning, Brute Thought (or: What Are They Thinking?!)”, *Journal for the History of Analytical Philosophy*, 7(2): 29–46. doi:10.15173/jhap.v7i2.3483
-* Barron, Andrew B. and Colin Klein, 2016, “What Insects Can Tell Us about the Origins of Consciousness”, *Proceedings of the National Academy of Sciences*, 113(18): 4900–4908. doi:10.1073/pnas.1520084113
-* Bartal, Inbal Ben-Ami, Jean Decety, and Peggy Mason, 2011, “Empathy and Pro-Social Behavior in Rats”, *Science*, 334(6061): 1427–1430. doi:10.1126/science.1210789
-* Beck, Jacob, 2012, “The Generality Constraint and the Structure of Thought”, *Mind*, 121(483): 563–600. doi:10.1093/mind/fzs077
-* Bennett, Jonathan, 1978, “Some Remarks about Concepts”, *Behavioral and Brain Sciences*, 1(4): 557–560. doi:10.1017/S0140525X00076573
-* Bermúdez, José Luis, 2003, *Thinking without Words*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195159691.001.0001
+* Allen, Colin, 2013, “The Geometry of Partial Understanding”, _American Philosophical Quarterly_, 50(3): 249–262.
+* Allen, Colin and Marc Bekoff, 1997, _Species of Mind: The Philosophy and Biology of Cognitive Ethology_, Cambridge, MA: MIT Press.
+* Andrews, Kristin, 2012, _Do Apes Read Minds? Toward a New Folk Psychology_, Cambridge, MA: MIT Press.
+* –––, 2018, “Do Apes Attribute Beliefs to Predict Behavior?: A Mengzian Social Intelligence Hypothesis”, _The Harvard Review of Philosophy_, 25: 89–110. doi:10.5840/harvardreview201892117
+* –––, 2020a, “Naïve Normativity: The Social Foundation of Moral Cognition”, _Journal of the American Philosophical Association_, 6(1): 36–56. doi:10.1017/apa.2019.30
+* –––, 2020b, _The Animal Mind: An Introduction to the Philosophy of Animal Cognition_, second edition, Abingdon, Oxon: Routledge. doi:10.4324/9780203712511
+* –––, 2020c, _How to Study Animal Minds_, Cambridge: Cambridge University Press. doi:10.1017/9781108616522
+* Andrews, Kristin and Jacob Beck (eds.), 2017, _The Routledge Handbook of Philosophy of Animal Minds_, New York: Routledge. doi:10.4324/9781315742250
+* Andrews, Kristin, Gary Comstock, G.K.D. Crozier, Sue Donaldson, Andrew Fenton, Tyler M. John, L. Syd M Johnson, Robert C. Jones, Will Kymlicka, Letitia Meynell, Nathan Nobis, David Peña-Guzmán, and Jeff Sebo, 2018, _Chimpanzee Rights: The Philosophers’ Brief_, New York: Routledge. doi:10.4324/9780429461071
+* Andrews, Kristin and Brian Huss, 2014, “Anthropomorphism, Anthropectomy, and the Null Hypothesis”, _Biology & Philosophy_, 29(5): 711–729. doi:10.1007/s10539-014-9442-2
+* Balcombe, Jonathan P., 2016, _What a Fish Knows: The Inner Lives of Our Underwater Cousins_, New York: Scientific American/Farrar, Straus, and Giroux.
+* Bar-On, Dorit, 2004, _Speaking My Mind: Expression and Self-Knowledge_, Oxford: Clarendon Press. doi:10.1093/0199276285.001.0001
+* –––, 2019, “Crude Meaning, Brute Thought (or: What Are They Thinking?!)”, _Journal for the History of Analytical Philosophy_, 7(2): 29–46. doi:10.15173/jhap.v7i2.3483
+* Barron, Andrew B. and Colin Klein, 2016, “What Insects Can Tell Us about the Origins of Consciousness”, _Proceedings of the National Academy of Sciences_, 113(18): 4900–4908. doi:10.1073/pnas.1520084113
+* Bartal, Inbal Ben-Ami, Jean Decety, and Peggy Mason, 2011, “Empathy and Pro-Social Behavior in Rats”, _Science_, 334(6061): 1427–1430. doi:10.1126/science.1210789
+* Beck, Jacob, 2012, “The Generality Constraint and the Structure of Thought”, _Mind_, 121(483): 563–600. doi:10.1093/mind/fzs077
+* Bennett, Jonathan, 1978, “Some Remarks about Concepts”, _Behavioral and Brain Sciences_, 1(4): 557–560. doi:10.1017/S0140525X00076573
+* Bermúdez, José Luis, 2003, _Thinking without Words_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195159691.001.0001
 * –––, 2006, “Animal Reasoning and Proto-Logic”, in Hurley and Nudds 2006: 127–138. doi:10.1093/acprof:oso/9780198528272.003.0005
-* Birch, Jonathan, forthcoming, “The Search for Invertebrate Consciousness”, *Noûs*, first online: 30 August 2020. doi:10.1111/nous.12351
-* Boisseau, Romain P., David Vogel, and Audrey Dussutour, 2016, “Habituation in Non-Neural Organisms: Evidence from Slime Moulds”, *Proceedings of the Royal Society B: Biological Sciences*, 283(1829): art. 20160446. doi:10.1098/rspb.2016.0446
-* Botero, Maria, 2016, “Tactless Scientists: Ignoring Touch in the Study of Joint Attention”, *Philosophical Psychology*, 29(8): 1200–1214. doi:10.1080/09515089.2016.1225293
-* Buckner, Cameron, 2013, “Morgan’s Canon, Meet Hume’s Dictum: Avoiding Anthropofabulation in Cross-Species Comparisons”, *Biology & Philosophy*, 28(5): 853–871. doi:10.1007/s10539-013-9376-0
-* Burge, Tyler, 2010, “Steps Toward Origins of Propositional Thought”, *Disputatio*, 4(29): 39–67. doi:10.2478/disp-2010-0010
-* Buttelmann, David, Frances Buttelmann, Malinda Carpenter, Josep Call, and Michael Tomasello, 2017, “Great Apes Distinguish True from False Beliefs in an Interactive Helping Task”, *PLOS ONE*, 12(4): e0173793. doi:10.1371/journal.pone.0173793
-* Butterfill, Stephen A. and Ian A. Apperly, 2013, “How to Construct a Minimal Theory of Mind: How to Construct a Minimal Theory of Mind”, *Mind & Language*, 28(5): 606–637. doi:10.1111/mila.12036
+* Birch, Jonathan, forthcoming, “The Search for Invertebrate Consciousness”, _Noûs_, first online: 30 August 2020. doi:10.1111/nous.12351
+* Boisseau, Romain P., David Vogel, and Audrey Dussutour, 2016, “Habituation in Non-Neural Organisms: Evidence from Slime Moulds”, _Proceedings of the Royal Society B: Biological Sciences_, 283(1829): art. 20160446. doi:10.1098/rspb.2016.0446
+* Botero, Maria, 2016, “Tactless Scientists: Ignoring Touch in the Study of Joint Attention”, _Philosophical Psychology_, 29(8): 1200–1214. doi:10.1080/09515089.2016.1225293
+* Buckner, Cameron, 2013, “Morgan’s Canon, Meet Hume’s Dictum: Avoiding Anthropofabulation in Cross-Species Comparisons”, _Biology & Philosophy_, 28(5): 853–871. doi:10.1007/s10539-013-9376-0
+* Burge, Tyler, 2010, “Steps Toward Origins of Propositional Thought”, _Disputatio_, 4(29): 39–67. doi:10.2478/disp-2010-0010
+* Buttelmann, David, Frances Buttelmann, Malinda Carpenter, Josep Call, and Michael Tomasello, 2017, “Great Apes Distinguish True from False Beliefs in an Interactive Helping Task”, _PLOS ONE_, 12(4): e0173793. doi:10.1371/journal.pone.0173793
+* Butterfill, Stephen A. and Ian A. Apperly, 2013, “How to Construct a Minimal Theory of Mind: How to Construct a Minimal Theory of Mind”, _Mind & Language_, 28(5): 606–637. doi:10.1111/mila.12036
 * Camp, Elisabeth, 2009a, “A Language of Baboon Thought?”, in Lurz 2009: 108–127. doi:10.1017/CBO9780511819001.007
-* –––, 2009b, “Putting Thoughts to Work: Concepts, Systematicity, and Stimulus-Independence”, *Philosophy and Phenomenological Research*, 78(2): 275–311. doi:10.1111/j.1933-1592.2009.00245.x
-* Carls-Diamante, Sidney, forthcoming, “Make up Your Mind: Octopus Cognition and Hybrid Explanations”, *Synthese*, first online: 28 January 2019. doi:10.1007/s11229-019-02102-2
-* Carpenter, Malinda and Josep Call, 2013, “How Joint Is the Joint Attention of Apes and Human Infants?”, in *Agency and Joint Attention*, Janet Metcalfe and Herbert S. Terrace (eds.), Oxford: Oxford University Press, 49–61. doi:10.1093/acprof:oso/9780199988341.003.0003
-* Carruthers, Peter, 2003, “Monitoring without Metacognition”, *Behavioral and Brain Sciences*, 26(3): 342–343. doi:10.1017/S0140525X03250081
-* –––, 2019, *Human and Animal Minds: The Consciousness Questions Laid to Rest*, Oxford: Oxford University Press. doi:10.1093/oso/9780198843702.001.0001
-* Cavalieri, Paola, 2011, “Cetaceans: from Bare Life to Nonhuman Others”, *Logos*, 10(1). \[[Cavalieri 2011 available online](http://www.logosjournal.com/cetaceans-bare-life-nonhuman-others.php)]
-* Cavalieri, Paola and Peter Singer, 1993, *The Great Ape Project: Equality Beyond Humanity*, London: Fourth Estate.
-* Chomsky, Noam, 1980, “Human Language and Other Semiotic Systems”, in *Speaking of Apes: A Critical Anthology of Two-Way Communication with Man*, Thomas A. Sebeok and Jean Umiker-Sebeok (eds), New York: Plenum Press, 429–440.
+* –––, 2009b, “Putting Thoughts to Work: Concepts, Systematicity, and Stimulus-Independence”, _Philosophy and Phenomenological Research_, 78(2): 275–311. doi:10.1111/j.1933-1592.2009.00245.x
+* Carls-Diamante, Sidney, forthcoming, “Make up Your Mind: Octopus Cognition and Hybrid Explanations”, _Synthese_, first online: 28 January 2019. doi:10.1007/s11229-019-02102-2
+* Carpenter, Malinda and Josep Call, 2013, “How Joint Is the Joint Attention of Apes and Human Infants?”, in _Agency and Joint Attention_, Janet Metcalfe and Herbert S. Terrace (eds.), Oxford: Oxford University Press, 49–61. doi:10.1093/acprof:oso/9780199988341.003.0003
+* Carruthers, Peter, 2003, “Monitoring without Metacognition”, _Behavioral and Brain Sciences_, 26(3): 342–343. doi:10.1017/S0140525X03250081
+* –––, 2019, _Human and Animal Minds: The Consciousness Questions Laid to Rest_, Oxford: Oxford University Press. doi:10.1093/oso/9780198843702.001.0001
+* Cavalieri, Paola, 2011, “Cetaceans: from Bare Life to Nonhuman Others”, _Logos_, 10(1). \[[Cavalieri 2011 available online](http://www.logosjournal.com/cetaceans-bare-life-nonhuman-others.php)]
+* Cavalieri, Paola and Peter Singer, 1993, _The Great Ape Project: Equality Beyond Humanity_, London: Fourth Estate.
+* Chomsky, Noam, 1980, “Human Language and Other Semiotic Systems”, in _Speaking of Apes: A Critical Anthology of Two-Way Communication with Man_, Thomas A. Sebeok and Jean Umiker-Sebeok (eds), New York: Plenum Press, 429–440.
 * Clatterbuck, Hayley, 2017, “Using Causal Models to Think About Mindreading”, in Andrews & Beck 2017: 247–257 (ch. 23).
-* Clatterbuck, Hayley, 2018, “The Logical Problem and the Theoretician’s Dilemma”, *Philosophy and Phenomenological Research*, 97(2): 322–350. doi:10.1111/phpr.12331
-* Clay, Zanna and Claudio Tennie, 2018, “Is Overimitation a Uniquely Human Phenomenon? Insights From Human Children as Compared to Bonobos”, *Child Development*, 89(5): 1535–1544. doi:10.1111/cdev.12857
-* Clay, Zanna and Klaus Zuberbühler, 2011, “Bonobos Extract Meaning from Call Sequences”, *PLoS ONE*, 6(4): e18786. doi:10.1371/journal.pone.0018786
-* Cochrane, Alasdair, Robert Garner, and Siobhan O’Sullivan, 2018, “Animal Ethics and the Political”, *Critical Review of International Social and Political Philosophy*, 21(2): 261–277. doi:10.1080/13698230.2016.1194583
-* Crary, Alice, 2010, “Minding What Already Matters: A Critique of Moral Individualism”, *Philosophical Topics*, 38(1): 17–49. doi:10.5840/philtopics20103812
-* Crick, Francis and Christof Koch, 1990, “Toward a Neurobiological Theory of Consciousness”, *Seminars in the Neurosciences*, 2: 263–275. \[[Crick and Koch 1990 available online](https://resolver.caltech.edu/CaltechAUTHORS:20130816-103136937)]
-* Dacey, Mike, 2016, “The Varieties of Parsimony in Psychology: The Varieties of Parsimony in Psychology”, *Mind & Language*, 31(4): 414–437. doi:10.1111/mila.12113
-* Danchin, Etienne, Sabine Nöbel, Arnaud Pocheville, Anne-Cecile Dagaeff, Léa Demay, Mathilde Alphand, Sarah Ranty-Roby, Lara van Renssen, Magdalena Monier, Eva Gazagne, Mélanie Allain, and Guillaume Isabel, 2018, “Cultural Flies: Conformist Social Learning in Fruitflies Predicts Long-Lasting Mate-Choice Traditions”, *Science*, 362(6418): 1025–1030. doi:10.1126/science.aat1590
-* Darwin, Charles, 1859, *On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life*, London: John Murray.
-* –––, 1871 \[1874], *The Descent of Man*, London: J Murray. Second edition 1874. \[[Darwin 1871 and other editions available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman\*TheDescentofMan.html)]
-* Davidson, Donald, 1982, “Rational Animals”, *dialectica*, 36(4): 317–327. doi:10.1111/j.1746-8361.1982.tb01546.x
-* de Waal, Frans B. M., 1999, “Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals”, *Philosophical Topics*, 27(1): 255–280. doi:10.5840/philtopics199927122
-* Dennett, Daniel C., 1978, “Beliefs about Beliefs”, *Behavioral and Brain Sciences*, 1(4): 568–570. doi:10.1017/S0140525X00076664
-* –––, 1983, “Intentional Systems in Cognitive Ethology: The ‘Panglossian Paradigm’ Defended”, *Behavioral and Brain Sciences*, 6(3): 343–355. doi:10.1017/S0140525X00016393
-* –––, 1987, *The Intentional Stance*, Cambridge, MA: MIT Press.
-* –––, 2017, *From Bacteria to Bach and Back: The Evolution of Minds*, New York: W. W. Norton & Company.
-* Diamond, Cora, 1978, “Eating Meat and Eating People”, *Philosophy*, 53(206): 465–479. doi:10.1017/S0031819100026334
-* Donaldson, Sue and Will Kymlicka, 2011, *Zoopolis: A Political Theory of Animal Rights*, New York: Oxford University Press.
+* Clatterbuck, Hayley, 2018, “The Logical Problem and the Theoretician’s Dilemma”, _Philosophy and Phenomenological Research_, 97(2): 322–350. doi:10.1111/phpr.12331
+* Clay, Zanna and Claudio Tennie, 2018, “Is Overimitation a Uniquely Human Phenomenon? Insights From Human Children as Compared to Bonobos”, _Child Development_, 89(5): 1535–1544. doi:10.1111/cdev.12857
+* Clay, Zanna and Klaus Zuberbühler, 2011, “Bonobos Extract Meaning from Call Sequences”, _PLoS ONE_, 6(4): e18786. doi:10.1371/journal.pone.0018786
+* Cochrane, Alasdair, Robert Garner, and Siobhan O’Sullivan, 2018, “Animal Ethics and the Political”, _Critical Review of International Social and Political Philosophy_, 21(2): 261–277. doi:10.1080/13698230.2016.1194583
+* Crary, Alice, 2010, “Minding What Already Matters: A Critique of Moral Individualism”, _Philosophical Topics_, 38(1): 17–49. doi:10.5840/philtopics20103812
+* Crick, Francis and Christof Koch, 1990, “Toward a Neurobiological Theory of Consciousness”, _Seminars in the Neurosciences_, 2: 263–275. \[[Crick and Koch 1990 available online](https://resolver.caltech.edu/CaltechAUTHORS:20130816-103136937)]
+* Dacey, Mike, 2016, “The Varieties of Parsimony in Psychology: The Varieties of Parsimony in Psychology”, _Mind & Language_, 31(4): 414–437. doi:10.1111/mila.12113
+* Danchin, Etienne, Sabine Nöbel, Arnaud Pocheville, Anne-Cecile Dagaeff, Léa Demay, Mathilde Alphand, Sarah Ranty-Roby, Lara van Renssen, Magdalena Monier, Eva Gazagne, Mélanie Allain, and Guillaume Isabel, 2018, “Cultural Flies: Conformist Social Learning in Fruitflies Predicts Long-Lasting Mate-Choice Traditions”, _Science_, 362(6418): 1025–1030. doi:10.1126/science.aat1590
+* Darwin, Charles, 1859, _On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life_, London: John Murray.
+* –––, 1871 \[1874], _The Descent of Man_, London: J Murray. Second edition 1874. \[[Darwin 1871 and other editions available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman\*TheDescentofMan.html)]
+* Davidson, Donald, 1982, “Rational Animals”, _dialectica_, 36(4): 317–327. doi:10.1111/j.1746-8361.1982.tb01546.x
+* de Waal, Frans B. M., 1999, “Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals”, _Philosophical Topics_, 27(1): 255–280. doi:10.5840/philtopics199927122
+* Dennett, Daniel C., 1978, “Beliefs about Beliefs”, _Behavioral and Brain Sciences_, 1(4): 568–570. doi:10.1017/S0140525X00076664
+* –––, 1983, “Intentional Systems in Cognitive Ethology: The ‘Panglossian Paradigm’ Defended”, _Behavioral and Brain Sciences_, 6(3): 343–355. doi:10.1017/S0140525X00016393
+* –––, 1987, _The Intentional Stance_, Cambridge, MA: MIT Press.
+* –––, 2017, _From Bacteria to Bach and Back: The Evolution of Minds_, New York: W. W. Norton & Company.
+* Diamond, Cora, 1978, “Eating Meat and Eating People”, _Philosophy_, 53(206): 465–479. doi:10.1017/S0031819100026334
+* Donaldson, Sue and Will Kymlicka, 2011, _Zoopolis: A Political Theory of Animal Rights_, New York: Oxford University Press.
 * Fitzpatrick, Simon, 2009, “The Primate Mindreading Controversy: A Case Study in Simplicity and Methodology in Animal Psychology”, in Lurz 2009: 258–277. doi:10.1017/CBO9780511819001.015
 * –––, 2017a, “Against Morgan’s Canon”, in Andrews & Beck 2017: 437–447 (ch. 42).
-* –––, 2017b, “Animal Morality: What Is the Debate About?”, *Biology & Philosophy*, 32(6): 1151–1183. doi:10.1007/s10539-017-9599-6
-* Fodor, Jerry A., 1975, *The Language of Thought*, Cambridge, MA: Harvard University Press.
-* Frööding, Barbro and Martin Peterson, 2011, “Animal Ethics Based on Friendship”, *Journal of Animal Ethics*, 1(1): 58–69. doi:10.5406/janimalethics.1.1.0058
-* Fugazza, Claudia, Péter Pongrácz, Ákos Pogány, Rita Lenkei, and Ádám Miklósi, 2020, “Mental Representation and Episodic-like Memory of Own Actions in Dogs”, *Scientific Reports*, 10(1): 10449. doi:10.1038/s41598-020-67302-0
-* Gagliano, Monica, Vladyslav V. Vyazovskiy, Alexander A. Borbély, Mavra Grimonprez, and Martial Depczynski, 2016, “Learning by Association in Plants”, *Scientific Reports*, 6(1): 38427. doi:10.1038/srep38427
-* Gallup, G. G., 1970, “Chimpanzees: Self-Recognition”, *Science*, 167(3914): 86–87. doi:10.1126/science.167.3914.86
-* Gentner, Timothy Q., Kimberly M. Fenn, Daniel Margoliash, and Howard C. Nusbaum, 2006, “Recursive Syntactic Pattern Learning by Songbirds”, *Nature*, 440(7088): 1204–1207. doi:10.1038/nature04675
-* Ginsburg, Simona and Eva Jablonka, 2019, *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*, Cambridge, MA: The MIT Press.
-* Godfrey-Smith, Peter, 2016, *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*, New York: Farrar, Straus and Giroux.
+* –––, 2017b, “Animal Morality: What Is the Debate About?”, _Biology & Philosophy_, 32(6): 1151–1183. doi:10.1007/s10539-017-9599-6
+* Fodor, Jerry A., 1975, _The Language of Thought_, Cambridge, MA: Harvard University Press.
+* Frööding, Barbro and Martin Peterson, 2011, “Animal Ethics Based on Friendship”, _Journal of Animal Ethics_, 1(1): 58–69. doi:10.5406/janimalethics.1.1.0058
+* Fugazza, Claudia, Péter Pongrácz, Ákos Pogány, Rita Lenkei, and Ádám Miklósi, 2020, “Mental Representation and Episodic-like Memory of Own Actions in Dogs”, _Scientific Reports_, 10(1): 10449. doi:10.1038/s41598-020-67302-0
+* Gagliano, Monica, Vladyslav V. Vyazovskiy, Alexander A. Borbély, Mavra Grimonprez, and Martial Depczynski, 2016, “Learning by Association in Plants”, _Scientific Reports_, 6(1): 38427. doi:10.1038/srep38427
+* Gallup, G. G., 1970, “Chimpanzees: Self-Recognition”, _Science_, 167(3914): 86–87. doi:10.1126/science.167.3914.86
+* Gentner, Timothy Q., Kimberly M. Fenn, Daniel Margoliash, and Howard C. Nusbaum, 2006, “Recursive Syntactic Pattern Learning by Songbirds”, _Nature_, 440(7088): 1204–1207. doi:10.1038/nature04675
+* Ginsburg, Simona and Eva Jablonka, 2019, _The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness_, Cambridge, MA: The MIT Press.
+* Godfrey-Smith, Peter, 2016, _Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness_, New York: Farrar, Straus and Giroux.
 * Goodrich, Grant, 2017, “Varieties of Culture”, in Andrews & Beck 2017: 354–361 (ch. 33).
-* Grice, H. P., 1957, “Meaning”, *The Philosophical Review*, 66(3): 377–388. doi:10.2307/2182440
-* Griffin, Donald R., 1976 \[1981], *The Question of Animal Awareness: Evolutionary Continuity of Mental Experience*, New York: Rockefeller University Press; revised and expanded edition, 1981.
-* –––, 1984, *Animal Thinking*, Cambridge, MA: Harvard University Press.
-* –––, 1985, “Animal Consciousness”, *Neuroscience & Biobehavioral Reviews*, 9(4): 615–622. doi:10.1016/0149-7634(85)90008-9
-* –––, 1992 \[2001], *Animal Minds: Beyond Cognition to Consciousness*, Chicago, IL: University of Chicago Press; revised and expanded edition, 2001.
-* Gruen, Lori, 2015, *Entangled Empathy: An Alternative Ethic for Our Relationships with Animals*, New York: Lantern Books.
-* –––, 2018, “Incarceration, Liberty, and Dignity”, in *The Palgrave Handbook of Practical Animal Ethics*, Andrew Linzey and Clair Linzey (eds.), London: Palgrave Macmillan, 153–163. doi:10.1057/978-1-137-36671-9\*10
-* Halina, Marta, 2015, “There Is No Special Problem of Mindreading in Nonhuman Animals”, *Philosophy of Science*, 82(3): 473–490. doi:10.1086/681627
-* Hampton, Robert R., 2009, “Multiple Demonstrations of Metacognition in Nonhumans: Converging Evidence or Multiple Mechanisms?”, *Comparative Cognition & Behavior Reviews*, 4: 17–28. doi:10.3819/ccbr.2009.40002
-* Hare, Brian, Josep Call, Bryan Agnetta, and Michael Tomasello, 2000, “Chimpanzees Know What Conspecifics Do and Do Not See”, *Animal Behaviour*, 59(4): 771–785. doi:10.1006/anbe.1999.1377
-* Hare, Brian, Josep Call, and Michael Tomasello, 2001, “Do Chimpanzees Know What Conspecifics Know?”, *Animal Behaviour*, 61(1): 139–151. doi:10.1006/anbe.2000.1518
-* Harman, Gilbert, 1978, “Studying the Chimpanzee’s Theory of Mind”, *Behavioral and Brain Sciences*, 1(4): 576–577. doi:10.1017/S0140525X00076743
-* Heider, Fritz and Marianne Simmel, 1944, “An Experimental Study of Apparent Behavior”, *The American Journal of Psychology*, 57(2): 243–259. doi:10.2307/1416950
-* Henrich, Joseph, 2016, *The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter*, Princeton, NJ: Princeton University Press.
-* Heyes, Cecilia M., 1994, “Reflections on Self-Recognition in Primates”, *Animal Behaviour*, 47(4): 909–919. doi:10.1006/anbe.1994.1123
-* –––, 2008, “Beast Machines? Questions of Animal Consciousness”, in *Frontiers of Consciousness: Chichele Lectures*, Lawrence Weiskrantz and Martin Davies (eds.), Oxford: Oxford University Press, 259–274.
-* –––, 2018, *Cognitive Gadgets: The Cultural Evolution of Thinking*, Cambridge, MA: Belknap Press of Harvard University Press.
-* Horowitz, Alexandra, 2017, “Smelling Themselves: Dogs Investigate Their Own Odours Longer When Modified in an ‘Olfactory Mirror’ Test”, *Behavioural Processes*, 143: 17–24. doi:10.1016/j.beproc.2017.08.001
-* Horschler, Daniel J., Evan L. MacLean, and Laurie R. Santos, 2020, “Do Non-Human Primates Really Represent Others’ Beliefs?”, *Trends in Cognitive Sciences*, 24(8): 594–605. doi:10.1016/j.tics.2020.05.009
-* Howard, Scarlett R., Aurore Avarguès-Weber, Jair E. Garcia, Andrew D. Greentree, and Adrian G. Dyer, 2019, “Numerical Cognition in Honeybees Enables Addition and Subtraction”, *Science Advances*, 5(2): eaav0961. doi:10.1126/sciadv.aav0961
-* Huber, Ludwig, Kaja Salobir, Roger Mundry, and Giulia Cimarelli, 2020, “Selective Overimitation in Dogs”, *Learning & Behavior*, 48(1): 113–123. doi:10.3758/s13420-019-00400-w
-* Huber, Ludwig, Natálie Popovová, Sabine Riener, Kaja Salobir, and Giulia Cimarelli, 2018, “Would Dogs Copy Irrelevant Actions from Their Human Caregiver?”, *Learning & Behavior*, 46(4): 387–397. doi:10.3758/s13420-018-0336-z
-* Hurley, Susan and Matthew Nudds (eds.), 2006, *Rational Animals?*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198528272.001.0001
-* Inoue, Sana and Tetsuro Matsuzawa, 2007, “Working Memory of Numerals in Chimpanzees”, *Current Biology*, 17(23): R1004–R1005. doi:10.1016/j.cub.2007.10.027
-* Jamieson, Dale, 1998, “Science, Knowledge, and Animal Minds”, *Proceedings of the Aristotelian Society*, 98(1): 79–102. doi:10.1111/1467-9264.00026
-* Jensen, Keith, Josep Call, and Michael Tomasello, 2007, “Chimpanzees Are Rational Maximizers in an Ultimatum Game”, *Science*, 318(5847): 107–109. doi:10.1126/science.1145850
-* Karg, Katja, Martin Schmelz, Josep Call, and Michael Tomasello, 2015, “The Goggles Experiment: Can Chimpanzees Use Self-Experience to Infer What a Competitor Can See?”, *Animal Behaviour*, 105: 211–221. doi:10.1016/j.anbehav.2015.04.028
-* King, Barbara J. and Lori Marino, 2019, “Octopus Minds Must Lead to Octopus Ethics”, *Animal Sentience*, 4(26): . doi:10.51291/2377-7478.1495
-* Kohda, Masanori, Takashi Hotta, Tomohiro Takeyama, Satoshi Awata, Hirokazu Tanaka, Jun-ya Asai, and Alex L. Jordan, 2019, “If a Fish Can Pass the Mark Test, What Are the Implications for Consciousness and Self-Awareness Testing in Animals?”, *PLOS Biology*, 17(2): e3000021. doi:10.1371/journal.pbio.3000021
-* Korsgaard, Christine M., 2006, “Morality and the Distinctiveness of Human Action”, in *Primates and Philosophers: How Morality Evolved*, Frans De Waal (author), Stephen Macedo and Josiah Ober (eds), Princeton, NJ: Princeton University Press, pp. 98–119.
-* Krupenye, Christopher, Fumihiro Kano, Satoshi Hirata, Josep Call, and Michael Tomasello, 2016, “Great Apes Anticipate That Other Individuals Will Act According to False Beliefs”, *Science*, 354(6308): 110–114. doi:10.1126/science.aaf8110
-* Leavens, David A., Kim A. Bard, and William D. Hopkins, 2019, “The Mismeasure of Ape Social Cognition”, *Animal Cognition*, 22(4): 487–504. doi:10.1007/s10071-017-1119-1
-* Lurz, Robert W. (ed.), 2009, *The Philosophy of Animal Minds*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511819001
-* –––, 2011, *Mindreading Animals: The Debate Over What Animals Know About Other Minds*, Cambridge, MA: MIT Press.
-* Maák, István, Gábor Lőrinczi, Pauline Le Quinquis, Gábor Módra, Dalila Bovet, Josep Call, and Patrizia d’Ettorre, 2017, “Tool Selection during Foraging in Two Species of Funnel Ants”, *Animal Behaviour*, 123: 207–216. doi:10.1016/j.anbehav.2016.11.005
-* Malcolm, Norman, 1972/73, “Thoughtless Brutes”, *Proceedings and Addresses of the American Philosophical Association*, 46: 5–20. doi:10.2307/3129585
-* Markel, Kasey, 2020, “Lack of Evidence for Associative Learning in Pea Plants”, *ELife*, 9: e57614. doi:10.7554/eLife.57614
-* Mather, Jennifer A. and Roland C. Anderson, 2007, “Ethics and Invertebrates: A Cephalopod Perspective”, *Diseases of Aquatic Organisms*, 75: 119–129. doi:10.3354/dao075119
-* Matsuzawa, Tetsuro, 2010, “Cognitive Development in Chimpanzees: A Trade-off between Memory and Abstraction?”, in *The Making of Human Concepts*, Denis Mareschal, Paul C. Quinn, and Stephen E.G. Lea (eds.), Oxford: Oxford University Press, 227–244. doi:10.1093/acprof:oso/9780199549221.003.11
-* Meijer, Eva, 2019, *When Animals Speak: Toward An Interspecies Democracy*, New York: New York University Press.
-* Melis, Alicia P., Josep Call, and Michael Tomasello, 2006, “Chimpanzees (Pan Troglodytes) Conceal Visual and Auditory Information from Others”, *Journal of Comparative Psychology*, 120(2): 154–162. doi:10.1037/0735-7036.120.2.154
+* Grice, H. P., 1957, “Meaning”, _The Philosophical Review_, 66(3): 377–388. doi:10.2307/2182440
+* Griffin, Donald R., 1976 \[1981], _The Question of Animal Awareness: Evolutionary Continuity of Mental Experience_, New York: Rockefeller University Press; revised and expanded edition, 1981.
+* –––, 1984, _Animal Thinking_, Cambridge, MA: Harvard University Press.
+* –––, 1985, “Animal Consciousness”, _Neuroscience & Biobehavioral Reviews_, 9(4): 615–622. doi:10.1016/0149-7634(85)90008-9
+* –––, 1992 \[2001], _Animal Minds: Beyond Cognition to Consciousness_, Chicago, IL: University of Chicago Press; revised and expanded edition, 2001.
+* Gruen, Lori, 2015, _Entangled Empathy: An Alternative Ethic for Our Relationships with Animals_, New York: Lantern Books.
+* –––, 2018, “Incarceration, Liberty, and Dignity”, in _The Palgrave Handbook of Practical Animal Ethics_, Andrew Linzey and Clair Linzey (eds.), London: Palgrave Macmillan, 153–163. doi:10.1057/978-1-137-36671-9\*10
+* Halina, Marta, 2015, “There Is No Special Problem of Mindreading in Nonhuman Animals”, _Philosophy of Science_, 82(3): 473–490. doi:10.1086/681627
+* Hampton, Robert R., 2009, “Multiple Demonstrations of Metacognition in Nonhumans: Converging Evidence or Multiple Mechanisms?”, _Comparative Cognition & Behavior Reviews_, 4: 17–28. doi:10.3819/ccbr.2009.40002
+* Hare, Brian, Josep Call, Bryan Agnetta, and Michael Tomasello, 2000, “Chimpanzees Know What Conspecifics Do and Do Not See”, _Animal Behaviour_, 59(4): 771–785. doi:10.1006/anbe.1999.1377
+* Hare, Brian, Josep Call, and Michael Tomasello, 2001, “Do Chimpanzees Know What Conspecifics Know?”, _Animal Behaviour_, 61(1): 139–151. doi:10.1006/anbe.2000.1518
+* Harman, Gilbert, 1978, “Studying the Chimpanzee’s Theory of Mind”, _Behavioral and Brain Sciences_, 1(4): 576–577. doi:10.1017/S0140525X00076743
+* Heider, Fritz and Marianne Simmel, 1944, “An Experimental Study of Apparent Behavior”, _The American Journal of Psychology_, 57(2): 243–259. doi:10.2307/1416950
+* Henrich, Joseph, 2016, _The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter_, Princeton, NJ: Princeton University Press.
+* Heyes, Cecilia M., 1994, “Reflections on Self-Recognition in Primates”, _Animal Behaviour_, 47(4): 909–919. doi:10.1006/anbe.1994.1123
+* –––, 2008, “Beast Machines? Questions of Animal Consciousness”, in _Frontiers of Consciousness: Chichele Lectures_, Lawrence Weiskrantz and Martin Davies (eds.), Oxford: Oxford University Press, 259–274.
+* –––, 2018, _Cognitive Gadgets: The Cultural Evolution of Thinking_, Cambridge, MA: Belknap Press of Harvard University Press.
+* Horowitz, Alexandra, 2017, “Smelling Themselves: Dogs Investigate Their Own Odours Longer When Modified in an ‘Olfactory Mirror’ Test”, _Behavioural Processes_, 143: 17–24. doi:10.1016/j.beproc.2017.08.001
+* Horschler, Daniel J., Evan L. MacLean, and Laurie R. Santos, 2020, “Do Non-Human Primates Really Represent Others’ Beliefs?”, _Trends in Cognitive Sciences_, 24(8): 594–605. doi:10.1016/j.tics.2020.05.009
+* Howard, Scarlett R., Aurore Avarguès-Weber, Jair E. Garcia, Andrew D. Greentree, and Adrian G. Dyer, 2019, “Numerical Cognition in Honeybees Enables Addition and Subtraction”, _Science Advances_, 5(2): eaav0961. doi:10.1126/sciadv.aav0961
+* Huber, Ludwig, Kaja Salobir, Roger Mundry, and Giulia Cimarelli, 2020, “Selective Overimitation in Dogs”, _Learning & Behavior_, 48(1): 113–123. doi:10.3758/s13420-019-00400-w
+* Huber, Ludwig, Natálie Popovová, Sabine Riener, Kaja Salobir, and Giulia Cimarelli, 2018, “Would Dogs Copy Irrelevant Actions from Their Human Caregiver?”, _Learning & Behavior_, 46(4): 387–397. doi:10.3758/s13420-018-0336-z
+* Hurley, Susan and Matthew Nudds (eds.), 2006, _Rational Animals?_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198528272.001.0001
+* Inoue, Sana and Tetsuro Matsuzawa, 2007, “Working Memory of Numerals in Chimpanzees”, _Current Biology_, 17(23): R1004–R1005. doi:10.1016/j.cub.2007.10.027
+* Jamieson, Dale, 1998, “Science, Knowledge, and Animal Minds”, _Proceedings of the Aristotelian Society_, 98(1): 79–102. doi:10.1111/1467-9264.00026
+* Jensen, Keith, Josep Call, and Michael Tomasello, 2007, “Chimpanzees Are Rational Maximizers in an Ultimatum Game”, _Science_, 318(5847): 107–109. doi:10.1126/science.1145850
+* Karg, Katja, Martin Schmelz, Josep Call, and Michael Tomasello, 2015, “The Goggles Experiment: Can Chimpanzees Use Self-Experience to Infer What a Competitor Can See?”, _Animal Behaviour_, 105: 211–221. doi:10.1016/j.anbehav.2015.04.028
+* King, Barbara J. and Lori Marino, 2019, “Octopus Minds Must Lead to Octopus Ethics”, _Animal Sentience_, 4(26): . doi:10.51291/2377-7478.1495
+* Kohda, Masanori, Takashi Hotta, Tomohiro Takeyama, Satoshi Awata, Hirokazu Tanaka, Jun-ya Asai, and Alex L. Jordan, 2019, “If a Fish Can Pass the Mark Test, What Are the Implications for Consciousness and Self-Awareness Testing in Animals?”, _PLOS Biology_, 17(2): e3000021. doi:10.1371/journal.pbio.3000021
+* Korsgaard, Christine M., 2006, “Morality and the Distinctiveness of Human Action”, in _Primates and Philosophers: How Morality Evolved_, Frans De Waal (author), Stephen Macedo and Josiah Ober (eds), Princeton, NJ: Princeton University Press, pp. 98–119.
+* Krupenye, Christopher, Fumihiro Kano, Satoshi Hirata, Josep Call, and Michael Tomasello, 2016, “Great Apes Anticipate That Other Individuals Will Act According to False Beliefs”, _Science_, 354(6308): 110–114. doi:10.1126/science.aaf8110
+* Leavens, David A., Kim A. Bard, and William D. Hopkins, 2019, “The Mismeasure of Ape Social Cognition”, _Animal Cognition_, 22(4): 487–504. doi:10.1007/s10071-017-1119-1
+* Lurz, Robert W. (ed.), 2009, _The Philosophy of Animal Minds_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511819001
+* –––, 2011, _Mindreading Animals: The Debate Over What Animals Know About Other Minds_, Cambridge, MA: MIT Press.
+* Maák, István, Gábor Lőrinczi, Pauline Le Quinquis, Gábor Módra, Dalila Bovet, Josep Call, and Patrizia d’Ettorre, 2017, “Tool Selection during Foraging in Two Species of Funnel Ants”, _Animal Behaviour_, 123: 207–216. doi:10.1016/j.anbehav.2016.11.005
+* Malcolm, Norman, 1972/73, “Thoughtless Brutes”, _Proceedings and Addresses of the American Philosophical Association_, 46: 5–20. doi:10.2307/3129585
+* Markel, Kasey, 2020, “Lack of Evidence for Associative Learning in Pea Plants”, _ELife_, 9: e57614. doi:10.7554/eLife.57614
+* Mather, Jennifer A. and Roland C. Anderson, 2007, “Ethics and Invertebrates: A Cephalopod Perspective”, _Diseases of Aquatic Organisms_, 75: 119–129. doi:10.3354/dao075119
+* Matsuzawa, Tetsuro, 2010, “Cognitive Development in Chimpanzees: A Trade-off between Memory and Abstraction?”, in _The Making of Human Concepts_, Denis Mareschal, Paul C. Quinn, and Stephen E.G. Lea (eds.), Oxford: Oxford University Press, 227–244. doi:10.1093/acprof:oso/9780199549221.003.11
+* Meijer, Eva, 2019, _When Animals Speak: Toward An Interspecies Democracy_, New York: New York University Press.
+* Melis, Alicia P., Josep Call, and Michael Tomasello, 2006, “Chimpanzees (Pan Troglodytes) Conceal Visual and Auditory Information from Others”, _Journal of Comparative Psychology_, 120(2): 154–162. doi:10.1037/0735-7036.120.2.154
 * Mikhalevich, Irina, 2017, “Simplicity and Cognitive Models”, in Andrews & Beck 2017: 427–436 (ch. 41).
-* Mikhalevich, Irina and Russell Powell, 2020, “Minds without Spines: Evolutionarily Inclusive Animal Ethics”, *Animal Sentience*, 5(29). doi:10.51291/2377-7478.1527
-* Mikhalevich, Irina, Russell Powell, and Corina Logan, 2017, “Is Behavioural Flexibility Evidence of Cognitive Complexity? How Evolution Can Inform Comparative Cognition”, *Interface Focus*, 7(3): 20160121. doi:10.1098/rsfs.2016.0121
-* Monsó, Susana, 2015, “Empathy and Morality in Behaviour Readers”, *Biology & Philosophy*, 30(5): 671–690. doi:10.1007/s10539-015-9495-x
-* Monsó, Susana, Judith Benz-Schwarzburg, and Annika Bremhorst, 2018, “Animal Morality: What It Means and Why It Matters”, *The Journal of Ethics*, 22(3–4): 283–310. doi:10.1007/s10892-018-9275-3
-* Monsó, Susana and Herwig Grimm, 2019, “An Alternative to the Orthodoxy in Animal Ethics? Limits and Merits of the Wittgensteinian Critique of Moral Individualism”, *Animals*, 9(12): 1057. doi:10.3390/ani9121057
-* Moore, Richard, 2013, “Social Learning and Teaching in Chimpanzees”, *Biology & Philosophy*, 28(6): 879–901. doi:10.1007/s10539-013-9394-y
-* –––, 2016a, “Meaning and Ostension in Great Ape Gestural Communication”, *Animal Cognition*, 19(1): 223–231. doi:10.1007/s10071-015-0905-x
-* –––, 2016b, “Gricean Communication and Cognitive Development”, *The Philosophical Quarterly*, 67(267): 303–326. doi:10.1093/pq/pqw049
-* Morgan, C. Lloyd, 1894, *An Introduction to Comparative Psychology*, London: W. Scott, limited.
-* –––, 1932, “C. Lloyd Morgon, University of London”, in *A History of Psychology in Autobiography*, volume 2, Carl Murchison and Edwin Garrigues Boring (eds), Worcester, MA: Clark University Press, 237–264.
-* Myowa-Yamakoshi, Masako and Tetsuro Matsuzawa, 2000, “Imitation of Intentional Manipulatory Actions in Chimpanzees (Pan troglodytes)”, *Journal of Comparative Psychology*, 114(4): 381–391. doi:10.1037/0735-7036.114.4.381
-* Peacocke, Christopher, 2001, “Does Perception Have a Nonconceptual Content?”, *The Journal of Philosophy*, 98(5): 239–264. doi:10.2307/2678383
-* Poole, Joyce, 1998, “An Exploration of a Commonality Between Ourselves and Elephants”, *Etica & Animali*, 9: 85–110.
-* Povinelli, Daniel J., 1998, “Can Animals Empathize? Maybe Not”, *Exploring Intelligence* issue, Philip M. Yam (ed.), of *Scientific American Presents*, 9(4): 67–75.
-* Povinelli, Daniel J., Donna T. Bierschwale, and Claude G. Cech, 1999, “Comprehension of Seeing as a Referential Act in Young Children, but Not Juvenile Chimpanzees”, *British Journal of Developmental Psychology*, 17(1): 37–60. doi:10.1348/026151099165140
-* Povinelli, Daniel J. and Jennifer Vonk, 2004, “We Don’t Need a Microscope to Explore the Chimpanzee’s Mind”, *Mind and Language*, 19(1): 1–28. doi:10.1111/j.1468-0017.2004.00244.x
-* Premack, David and Guy Woodruff, 1978, “Does the Chimpanzee Have a Theory of Mind?”, *Behavioral and Brain Sciences*, 1(4): 515–526. doi:10.1017/S0140525X00076512
-* Purves, Duncan and Nicolas Delon, 2018, “Meaning in the Lives of Humans and Other Animals”, *Philosophical Studies*, 175(2): 317–338. doi:10.1007/s11098-017-0869-6
-* Putnam, Hilary, 1967, “Psychological Predicates”, in *Art, Mind, and Religion*, W. H. Capitan and D. D. Merrill (eds), Pittsburgh, PA University of Pittsburgh Press, pp. 37–48. \[[Putnam 1967 available online (pdf)](http://www.phil.uu.nl/\~joel/3027/3027PutnamPsychPredicates.pdf)]
-* Rakoczy, Hannes, 2012, “Do Infants Have a Theory of Mind?: Do Infants Have a Theory of Mind?”, *British Journal of Developmental Psychology*, 30(1): 59–74. doi:10.1111/j.2044-835X.2011.02061.x
-* Ramsey, Grant, 2013, “Culture in Humans and Other Animals”, *Biology & Philosophy*, 28(3): 457–479. doi:10.1007/s10539-012-9347-x
-* Ramsey, Grant, Meredith L. Bastian, and Carel van Schaik, 2007, “Animal Innovation Defined and Operationalized”, *Behavioral and Brain Sciences*, 30(4): 393–407. doi:10.1017/S0140525X07002373
+* Mikhalevich, Irina and Russell Powell, 2020, “Minds without Spines: Evolutionarily Inclusive Animal Ethics”, _Animal Sentience_, 5(29). doi:10.51291/2377-7478.1527
+* Mikhalevich, Irina, Russell Powell, and Corina Logan, 2017, “Is Behavioural Flexibility Evidence of Cognitive Complexity? How Evolution Can Inform Comparative Cognition”, _Interface Focus_, 7(3): 20160121. doi:10.1098/rsfs.2016.0121
+* Monsó, Susana, 2015, “Empathy and Morality in Behaviour Readers”, _Biology & Philosophy_, 30(5): 671–690. doi:10.1007/s10539-015-9495-x
+* Monsó, Susana, Judith Benz-Schwarzburg, and Annika Bremhorst, 2018, “Animal Morality: What It Means and Why It Matters”, _The Journal of Ethics_, 22(3–4): 283–310. doi:10.1007/s10892-018-9275-3
+* Monsó, Susana and Herwig Grimm, 2019, “An Alternative to the Orthodoxy in Animal Ethics? Limits and Merits of the Wittgensteinian Critique of Moral Individualism”, _Animals_, 9(12): 1057. doi:10.3390/ani9121057
+* Moore, Richard, 2013, “Social Learning and Teaching in Chimpanzees”, _Biology & Philosophy_, 28(6): 879–901. doi:10.1007/s10539-013-9394-y
+* –––, 2016a, “Meaning and Ostension in Great Ape Gestural Communication”, _Animal Cognition_, 19(1): 223–231. doi:10.1007/s10071-015-0905-x
+* –––, 2016b, “Gricean Communication and Cognitive Development”, _The Philosophical Quarterly_, 67(267): 303–326. doi:10.1093/pq/pqw049
+* Morgan, C. Lloyd, 1894, _An Introduction to Comparative Psychology_, London: W. Scott, limited.
+* –––, 1932, “C. Lloyd Morgon, University of London”, in _A History of Psychology in Autobiography_, volume 2, Carl Murchison and Edwin Garrigues Boring (eds), Worcester, MA: Clark University Press, 237–264.
+* Myowa-Yamakoshi, Masako and Tetsuro Matsuzawa, 2000, “Imitation of Intentional Manipulatory Actions in Chimpanzees (Pan troglodytes)”, _Journal of Comparative Psychology_, 114(4): 381–391. doi:10.1037/0735-7036.114.4.381
+* Peacocke, Christopher, 2001, “Does Perception Have a Nonconceptual Content?”, _The Journal of Philosophy_, 98(5): 239–264. doi:10.2307/2678383
+* Poole, Joyce, 1998, “An Exploration of a Commonality Between Ourselves and Elephants”, _Etica & Animali_, 9: 85–110.
+* Povinelli, Daniel J., 1998, “Can Animals Empathize? Maybe Not”, _Exploring Intelligence_ issue, Philip M. Yam (ed.), of _Scientific American Presents_, 9(4): 67–75.
+* Povinelli, Daniel J., Donna T. Bierschwale, and Claude G. Cech, 1999, “Comprehension of Seeing as a Referential Act in Young Children, but Not Juvenile Chimpanzees”, _British Journal of Developmental Psychology_, 17(1): 37–60. doi:10.1348/026151099165140
+* Povinelli, Daniel J. and Jennifer Vonk, 2004, “We Don’t Need a Microscope to Explore the Chimpanzee’s Mind”, _Mind and Language_, 19(1): 1–28. doi:10.1111/j.1468-0017.2004.00244.x
+* Premack, David and Guy Woodruff, 1978, “Does the Chimpanzee Have a Theory of Mind?”, _Behavioral and Brain Sciences_, 1(4): 515–526. doi:10.1017/S0140525X00076512
+* Purves, Duncan and Nicolas Delon, 2018, “Meaning in the Lives of Humans and Other Animals”, _Philosophical Studies_, 175(2): 317–338. doi:10.1007/s11098-017-0869-6
+* Putnam, Hilary, 1967, “Psychological Predicates”, in _Art, Mind, and Religion_, W. H. Capitan and D. D. Merrill (eds), Pittsburgh, PA University of Pittsburgh Press, pp. 37–48. \[[Putnam 1967 available online (pdf)](http://www.phil.uu.nl/\~joel/3027/3027PutnamPsychPredicates.pdf)]
+* Rakoczy, Hannes, 2012, “Do Infants Have a Theory of Mind?: Do Infants Have a Theory of Mind?”, _British Journal of Developmental Psychology_, 30(1): 59–74. doi:10.1111/j.2044-835X.2011.02061.x
+* Ramsey, Grant, 2013, “Culture in Humans and Other Animals”, _Biology & Philosophy_, 28(3): 457–479. doi:10.1007/s10539-012-9347-x
+* Ramsey, Grant, Meredith L. Bastian, and Carel van Schaik, 2007, “Animal Innovation Defined and Operationalized”, _Behavioral and Brain Sciences_, 30(4): 393–407. doi:10.1017/S0140525X07002373
 * Rescorla, Michael, 2009, “Chrysippus’ Dog as a Case Study in Non-Linguistic Cognition”, in Lurz 2009: 52–71. doi:10.1017/CBO9780511819001.004
 * –––, 2017, “Maps in the Head”, in Andrews and Beck 2017: 34–45 (ch. 3).
-* Rowlands, Mark, 2012, *Can Animals Be Moral?*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199842001.001.0001
-* Schellenberg, Susanna, 2013, “A Trilemma About Mental Content”, in *Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate*, Joseph K. Schear (ed.), New York: Routledge, 285–302.
-* –––, 2018, *The Unity of Perception: Content, Consciousness, Evidence*, Oxford: Oxford University Press. doi:10.1093/oso/9780198827702.001.0001
-* Schmidt, Andreas T., 2015, “Why Animals Have an Interest in Freedom”, *Historical Social Research*, 40(4): 92–109.
-* Schwitzgebel, Eric, 2019, “Are Garden Snails Conscious? Yes, No, or *Gong*”, in his *A Theory of Jerks and Other Philosophical Misadventures*, Cambridge, MA: The MIT Press, 229–236 (ch. 45).
-* Sebo, Jeff, 2017, “Agency and Moral Status”, *Journal of Moral Philosophy*, 14(1): 1–22. doi:10.1163/17455243-46810046
-* Shettleworth, Sara J., 2010a, *Cognition, Evolution, and Behavior*, second edition, New York: Oxford University Press.
-* –––, 2010b, “Clever Animals and Killjoy Explanations in Comparative Psychology”, *Trends in Cognitive Sciences*, 14(11): 477–481. doi:10.1016/j.tics.2010.07.002
-* Shillito, Daniel J., Gordon G. Gallup, and Benjamin B. Beck, 1999, “Factors Affecting Mirror Behaviour in Western Lowland Gorillas,Gorilla Gorilla”, *Animal Behaviour*, 57(5): 999–1004. doi:10.1006/anbe.1998.1062
-* Skinner, Morgan and Noam Miller, 2020, “Aggregation and Social Interaction in Garter Snakes (Thamnophis sirtalis sirtalis)”, *Behavioral Ecology and Sociobiology*, 74(5): art. 51. doi:10.1007/s00265-020-2827-0
-* Sneddon, L. U.,, 2006, “Ethics and Welfare: Pain Perception in Fish”, *Bulletin of the European Association of Fish Pathologists*, 26(1): 6–10. \[[Sneddon 2006 available online](https://www.wellbeingintlstudiesrepository.org/acwp\*aff/5/)]
-* Sober, Elliott, 1998, “Morgan’s Canon”, in *The Evolution of Mind*, Denise Dellarosa Cummins and Colin Allen (eds.), New York: Oxford University Press, pp. 224–242.
-* –––, 2015, *Ockham’s Razors: A User’s Manual*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107705937
-* Sterelny, Kim, 2012, *The Evolved Apprentice: How Evolution Made Humans Unique*, Cambridge, MA: MIT Press.
-* Stich, Stephen P., 1979, “Do Animals Have Beliefs?”, *Australasian Journal of Philosophy*, 57(1): 15–28. doi:10.1080/00048407912341011
-* Suddendorf, Thomas and Michael C. Corballis, 2007, “The Evolution of Foresight: What Is Mental Time Travel, and Is It Unique to Humans?”, *Behavioral and Brain Sciences*, 30(3): 299–313. doi:10.1017/S0140525X07001975
-* Tomasello, Michael, 2016, *A Natural History of Human Morality*, Cambridge, MA: Harvard University Press.
+* Rowlands, Mark, 2012, _Can Animals Be Moral?_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199842001.001.0001
+* Schellenberg, Susanna, 2013, “A Trilemma About Mental Content”, in _Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate_, Joseph K. Schear (ed.), New York: Routledge, 285–302.
+* –––, 2018, _The Unity of Perception: Content, Consciousness, Evidence_, Oxford: Oxford University Press. doi:10.1093/oso/9780198827702.001.0001
+* Schmidt, Andreas T., 2015, “Why Animals Have an Interest in Freedom”, _Historical Social Research_, 40(4): 92–109.
+* Schwitzgebel, Eric, 2019, “Are Garden Snails Conscious? Yes, No, or _Gong_”, in his _A Theory of Jerks and Other Philosophical Misadventures_, Cambridge, MA: The MIT Press, 229–236 (ch. 45).
+* Sebo, Jeff, 2017, “Agency and Moral Status”, _Journal of Moral Philosophy_, 14(1): 1–22. doi:10.1163/17455243-46810046
+* Shettleworth, Sara J., 2010a, _Cognition, Evolution, and Behavior_, second edition, New York: Oxford University Press.
+* –––, 2010b, “Clever Animals and Killjoy Explanations in Comparative Psychology”, _Trends in Cognitive Sciences_, 14(11): 477–481. doi:10.1016/j.tics.2010.07.002
+* Shillito, Daniel J., Gordon G. Gallup, and Benjamin B. Beck, 1999, “Factors Affecting Mirror Behaviour in Western Lowland Gorillas,Gorilla Gorilla”, _Animal Behaviour_, 57(5): 999–1004. doi:10.1006/anbe.1998.1062
+* Skinner, Morgan and Noam Miller, 2020, “Aggregation and Social Interaction in Garter Snakes (Thamnophis sirtalis sirtalis)”, _Behavioral Ecology and Sociobiology_, 74(5): art. 51. doi:10.1007/s00265-020-2827-0
+* Sneddon, L. U.,, 2006, “Ethics and Welfare: Pain Perception in Fish”, _Bulletin of the European Association of Fish Pathologists_, 26(1): 6–10. \[[Sneddon 2006 available online](https://www.wellbeingintlstudiesrepository.org/acwp\*aff/5/)]
+* Sober, Elliott, 1998, “Morgan’s Canon”, in _The Evolution of Mind_, Denise Dellarosa Cummins and Colin Allen (eds.), New York: Oxford University Press, pp. 224–242.
+* –––, 2015, _Ockham’s Razors: A User’s Manual_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107705937
+* Sterelny, Kim, 2012, _The Evolved Apprentice: How Evolution Made Humans Unique_, Cambridge, MA: MIT Press.
+* Stich, Stephen P., 1979, “Do Animals Have Beliefs?”, _Australasian Journal of Philosophy_, 57(1): 15–28. doi:10.1080/00048407912341011
+* Suddendorf, Thomas and Michael C. Corballis, 2007, “The Evolution of Foresight: What Is Mental Time Travel, and Is It Unique to Humans?”, _Behavioral and Brain Sciences_, 30(3): 299–313. doi:10.1017/S0140525X07001975
+* Tomasello, Michael, 2016, _A Natural History of Human Morality_, Cambridge, MA: Harvard University Press.
 * Tomasello, Michael and Josep Call, 2006, “Do Chimpanzees Know What Others See—or Only What They Are Looking At?”, in Hurley and Nudds 2006: 371–384. doi:10.1093/acprof:oso/9780198528272.003.0017
-* Tulving, Endel, 1985, “Memory and Consciousness”, *Canadian Psychology/Psychologie Canadienne*, 26(1): 1–12. doi:10.1037/h0080017
-* Tye, Michael, 1997, “The Problem of Simple Minds: Is There Anything It Is Like to Be a Honey Bee?”, *Philosophical Studies*, 88(3): 289–317. doi:10.1023/A:1004267709793
-* –––, 2017, *Tense Bees and Shell-Shocked Crabs: Are Animals Conscious?*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190278014.001.0001
-* Varner, Gary E., 2012, *Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199758784.001.0001
-* Vincent, Sarah, Rebecca Ring, and Kristin Andrews, 2019, “Normative Practices of Other Animals”, in *The Routledge Handbook of Moral Epistemology*, Aaron Zimmerman, Karen Jones, and Mark Timmons (eds.), New York: Routledge, 57–83. doi:10.4324/9781315719696
-* Washburn, Margaret Floy, 1908, *The Animal Mind: A Text-book of Comparative Psychology*, New York: The Macmillan Company.
-* White, Thomas I. (ed.), 2007, *In Defense of Dolphins: The New Moral Frontier*, Oxford, UK: Blackwell Publishing. doi:10.1002/9780470694152
-* Wilcox, Marc G., 2020, “Animals and the Agency Account of Moral Status”, *Philosophical Studies*, 177(7): 1879–1899. doi:10.1007/s11098-019-01289-x
-* Zahavi, Dan and Søren Overgaard, 2012, “Empathy Without Isomorphism: A Phenomenological Account”, in *Empathy: from Bench to Bedside*, Jean Decety (ed.), Cambridge, MA: MIT Press, pp. 3–20.
-* Zuberbühler, Klaus, 2020, “Syntax and Compositionality in Animal Communication”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 375(1789): 20190062. doi:10.1098/rstb.2019.0062
+* Tulving, Endel, 1985, “Memory and Consciousness”, _Canadian Psychology/Psychologie Canadienne_, 26(1): 1–12. doi:10.1037/h0080017
+* Tye, Michael, 1997, “The Problem of Simple Minds: Is There Anything It Is Like to Be a Honey Bee?”, _Philosophical Studies_, 88(3): 289–317. doi:10.1023/A:1004267709793
+* –––, 2017, _Tense Bees and Shell-Shocked Crabs: Are Animals Conscious?_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190278014.001.0001
+* Varner, Gary E., 2012, _Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199758784.001.0001
+* Vincent, Sarah, Rebecca Ring, and Kristin Andrews, 2019, “Normative Practices of Other Animals”, in _The Routledge Handbook of Moral Epistemology_, Aaron Zimmerman, Karen Jones, and Mark Timmons (eds.), New York: Routledge, 57–83. doi:10.4324/9781315719696
+* Washburn, Margaret Floy, 1908, _The Animal Mind: A Text-book of Comparative Psychology_, New York: The Macmillan Company.
+* White, Thomas I. (ed.), 2007, _In Defense of Dolphins: The New Moral Frontier_, Oxford, UK: Blackwell Publishing. doi:10.1002/9780470694152
+* Wilcox, Marc G., 2020, “Animals and the Agency Account of Moral Status”, _Philosophical Studies_, 177(7): 1879–1899. doi:10.1007/s11098-019-01289-x
+* Zahavi, Dan and Søren Overgaard, 2012, “Empathy Without Isomorphism: A Phenomenological Account”, in _Empathy: from Bench to Bedside_, Jean Decety (ed.), Cambridge, MA: MIT Press, pp. 3–20.
+* Zuberbühler, Klaus, 2020, “Syntax and Compositionality in Animal Communication”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 375(1789): 20190062. doi:10.1098/rstb.2019.0062
 
 ## Academic Tools
 
@@ -458,5 +458,5 @@ Dennett 将 Grice 的结论解释为只有那些能够持有第三阶信念（�
 [action](https://plato.stanford.edu/entries/action/) | [animal: consciousness](https://plato.stanford.edu/entries/consciousness-animal/) | [animals, moral status of](https://plato.stanford.edu/entries/moral-animal/) | [Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [belief](https://plato.stanford.edu/entries/belief/) | [Bentham, Jeremy](https://plato.stanford.edu/entries/bentham/) | [bias, implicit](https://plato.stanford.edu/entries/implicit-bias/) | [Cavendish, Margaret Lucas](https://plato.stanford.edu/entries/margaret-cavendish/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [concepts](https://plato.stanford.edu/entries/concepts/) | [Conway, Lady Anne](https://plato.stanford.edu/entries/conway/) | [culture: and cognitive science](https://plato.stanford.edu/entries/culture-cogsci/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Dharmakīrti](https://plato.stanford.edu/entries/dharmakiirti/) | [feminist philosophy, interventions: epistemology and philosophy of science](https://plato.stanford.edu/entries/feminism-epistemology/) | [functionalism](https://plato.stanford.edu/entries/functionalism/) | [Ibn Bâjja \[Avempace\]](https://plato.stanford.edu/entries/ibn-bajja/) | [Ibn Sina \[Avicenna\]](https://plato.stanford.edu/entries/ibn-sina/) | [Indian Philosophy (Classical): concept of emotion](https://plato.stanford.edu/entries/concept-emotion-india/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [knowledge how](https://plato.stanford.edu/entries/knowledge-how/) | [language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/) | [logic: ancient](https://plato.stanford.edu/entries/logic-ancient/) | [mental content: nonconceptual](https://plato.stanford.edu/entries/content-nonconceptual/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [other minds](https://plato.stanford.edu/entries/other-minds/) | [pain](https://plato.stanford.edu/entries/pain/) | [perception: the contents of](https://plato.stanford.edu/entries/perception-contents/) | [Porphyry](https://plato.stanford.edu/entries/porphyry/) | [pragmatics](https://plato.stanford.edu/entries/pragmatics/) | [scientific objectivity](https://plato.stanford.edu/entries/scientific-objectivity/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [social norms](https://plato.stanford.edu/entries/social-norms/) | [Telesio, Bernardino](https://plato.stanford.edu/entries/telesio/) | [Voltaire](https://plato.stanford.edu/entries/voltaire/) | [Xunzi](https://plato.stanford.edu/entries/xunzi/) | [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Kristin Andrews](http://www.yorku.ca/andrewsk) <[*andrewsk@yorku.ca*](mailto:andrewsk%40yorku%2eca)>\
-[Susana Monsó](http://susanamonso.com/) <[*susanamonso@gmail.com*](mailto:susanamonso%40gmail%2ecom)>
+[Kristin Andrews](http://www.yorku.ca/andrewsk) <[_andrewsk@yorku.ca_](mailto:andrewsk%40yorku%2eca)>\
+[Susana Monsó](http://susanamonso.com/) <[_susanamonso@gmail.com_](mailto:susanamonso%40gmail%2ecom)>

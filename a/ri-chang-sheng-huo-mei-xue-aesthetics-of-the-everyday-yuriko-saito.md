@@ -1,6 +1,6 @@
 # 日常生活美学 aesthetics of the everyday (Yuriko Saito)
 
-*首次发表于 2015 年 9 月 30 日，实质修订于 2019 年 11 月 18 日*
+_首次发表于 2015 年 9 月 30 日，实质修订于 2019 年 11 月 18 日_
 
 在西方美学的历史中，受到关注的主题范围从自然物体和现象、建筑结构、实用物品和人类行为，到如今被视为美术的领域。然而，从 19 世纪开始，讨论逐渐集中在美术上。尽管现代美学中美学态度理论占据重要地位，该理论认为几乎没有限制可以成为美学体验的来源，但这种关注范围的缩小仍然发生了。在 20 世纪美学中，将美学与艺术哲学等同起来的倾向在英美传统中广泛流行。
 
@@ -99,7 +99,7 @@
 
 如果小联盟的美学品质与大联盟的美学品质相比缺乏精致和深度，可以说它们通过在日常生活中的普遍存在以及对生活产生重大影响来弥补这种不足。虽然我们在日常生活中确实会体验到美和崇高，但这样的场合相当罕见。在我们的日常生活中，我们更多地是以漂亮、好看、有趣、可爱、甜美、迷人、无聊、平淡、单调、邋遢、破旧、俗气、炫耀等来评判事物。特别重要的是要关注这些品质，因为由于它们的普遍性和相对容易的识别，它们对我们在日常琐事上的决策和行动产生强大的影响。事实上，广告、政治竞选和宣传策略常常利用这些品质来引导人们的行为（Postrel 2003; Mandoki 2007; Saito 2007, 2017a, 2018b; Sartwell 2010）。那些关注美学化生活的普遍性和盲目接受的人主张采取更积极、参与、反思的感知方式，而不是被动地体验和受到美学化策略的影响，从而培养美学素养和警惕性（Vihalem 2016; Matteucci 2017; Potgieter 2017）。
 
-对于一些经验的审美价值或“审美资质”（Dowling 2010）引发了另一个担忧。这些担忧涉及纯粹以身体为导向的反应，比如刮痒、接受按摩、喝茶或者嗅到鱼腥味（Irvin 2008a,b）。人们担心这些经验过于私人和主观，无法进行任何主客观的讨论和批判性的对话，从而导致主观相对主义，并损害了*sensus communis*的可能性。康德对美和仅仅令人愉快之间的区别经常被引用来支持这一批评（Parsons and Carlson 2008; Soucek 2009; Dowling 2010）。
+对于一些经验的审美价值或“审美资质”（Dowling 2010）引发了另一个担忧。这些担忧涉及纯粹以身体为导向的反应，比如刮痒、接受按摩、喝茶或者嗅到鱼腥味（Irvin 2008a,b）。人们担心这些经验过于私人和主观，无法进行任何主客观的讨论和批判性的对话，从而导致主观相对主义，并损害了_sensus communis_的可能性。康德对美和仅仅令人愉快之间的区别经常被引用来支持这一批评（Parsons and Carlson 2008; Soucek 2009; Dowling 2010）。
 
 作为回应，一些思想家指出，将这些身体感觉视为孤立的、独立的感官体验是错误的。根据他们的观点，在日常生活中，我们几乎从来没有单独体验嗅觉、味觉或触觉。相反，我们的经验通常是多感官的或共感觉的，并且发生在特定的环境中（Howes 2005; Howes and Classen 2014）。刮痒可以是体验到被蚊子叮咬的沼泽地的一部分，或者是由新衬衫领口内缝制的硬质标签引起的烦恼。喝茶的味道无法与其香气、视觉外观以及握住杯子、将嘴唇贴在杯沿上时的触觉感受分离。所有这些感官体验都发生在特定的环境和情境中，具有自己的氛围，并且在个人日常生活的特定流程中。一个人可能在匆忙中拿起一杯茶，匆匆喝下以获取咖啡因的刺激，或者在壁炉前放松时细细品味每一口，或者参与日本茶道。即使茶本身保持不变，围绕其饮用的体验也会发生变化，有时甚至会影响我们对茶味本身的体验（Irvin 2009a; Melchionne 2011, 2014; Perullo 2016; Saito 2017a）。因此，纯粹的身体感觉可以融入由许多因素构成的氛围中。我们欣赏的不仅仅是孤立的身体感觉，比如触觉或嗅觉，而是由构成氛围的因素之间的关系所创造的适应性或者可以说是康德式的“目的性”，或者缺乏目的性。
 
@@ -179,322 +179,322 @@
 
 This bibliography includes only contemporary works in English. For classical philosophical works and non-Western traditions, consult respective entries.
 
-* Ackerman, Diane, 1991, *A Natural History of the Senses*, New York: Vintage Books.
-* Al Qudowa, Salem Y., 2017, “Aesthetic Value of Minimalist Architecture in Gaza”, *Contemporary Aesthetics*, 15: article 14. \[[Al Qudowa 2017 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/14/)]
-* Ameel, Lieven and Sirpa Tani, 2011, “Everyday Aesthetics In Action: Parkour Eyes and the Beauty of Concrete Walls”, *Emotion, Space and Society*, 5(3): 164–173.
-* Anderson, Erik, forthcoming, “Aesthetic Appreciation of Silence”, *Contemporary Aesthetics*.
-* Archer, Alfred and Lauren Ware, 2018, “Beyond the Call of Beauty: Everyday Aesthetic Demands Under Patriarchy”, *The Monist*, 101(1): 114–127.
-* Attfield, Judy, 2000, *Wild Things: The Material Culture of Everyday Life*, Oxford: Berg.
-* Bennett, Jane, 2010, *Vibrant Matter: A Political Ecology of Things*, Durham: Duke University Press.
-* Bennett, Jill, 2012, *Practical Aesthetics: Events, Affects and Art after 9/11*, London: I.B.Tauris.
-* Barthes, Roland, 1990, *Mythologies*, Annette Lavers (trans.), New York: The Noonday Press.
-* Berleant, Arnold, 1970, *Aesthetic Field: A Phenomenology of Aesthetic Experience*, Springfield: Thomas.
-* –––, 1991, *Art and Engagement*, Philadelphia: Temple University Press.
-* –––, 1992, *The Aesthetics of Environment*, Philadelphia: Temple University Press.
-* –––, 1997, *Living in the Landscape: Toward an Aesthetics of Environment*, Lawrence: University Press of Kansas.
-* –––, 2004, *Re-thinking Aesthetics: Rogue Essays on Aesthetics and the Arts*, Aldershot: Ashgate.
-* –––, 2005a, *Aesthetics and Environment: Variations on a Theme*, Aldershot: Ashgate.
-* –––, 2005b, “Ideas for a Social Aesthetic”, in *The Aesthetics of Everyday Life*, Andrew Light and Jonathan M. Smith (eds.), New York: Columbia University Press, pp. 23–38.
-* –––, 2010, *Sensibility and Sense: The Aesthetic Transformation of the Human World*, Exeter: Imprint Academic.
-* –––, 2011, “Negative Aesthetics in Everyday Life”, *Aesthetic Pathways*, 1(2): 75–91.
-* –––, 2012, *Aesthetics Beyond the Arts: New and Recent Essays*, Aldershot: Ashgate.
-* –––, 2013, “What Is Aesthetic Engagement?”, *Contemporary Aesthetics*, 11. \[[Berleant 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/5/)]
-* –––, 2014, “Transformations in Art and Aesthetics”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 2–13.
-* –––, 2015a, “Aesthetic Sensibility”, *Ambiances*, March 30. doi:10.4000/ambiances.526 \[[Berleant 2015a available online](https://journals.openedition.org/ambiances/526#text)]
-* –––, 2015b, “Co-Optation of Sensibility and the Subversion of Beauty”, *Pragmatism Today*, 6(2): 38–47. \[[Berleant 2015b available online](http://www.pragmatismtoday.eu/winter2015/Pragmatism\*Today\*Volume5\*Issue2\*Winter2015.pdf)]
-* –––, 2017, “Objects into Persons: The Way to Social Aesthetics”, *Espes*, 6(2): 9–18. \[[Berleant 2017 available online](https://espes.ff.unipo.sk/index.php/ESPES/article/view/91/99)]
-* Berleant, Arnold and Allen Carlson (eds.), 2007, *The Aesthetics of Human Environments*, Peterborough: Broadview Press.
-* Besson, Anu Marjeaana, 2017, “Everyday Aesthetics on Staycation as a Pathway to Restoration”, *International Journal of Humanities and Cultural Studies*, 4(3): 34–52. \[[Besson 2017 available online](https://www.ijhcs.com/index.php/ijhcs/article/view/3085)]
-* Bhatt, Ritu, (ed.), 2013. *Rethinking Aesthetics: The Role of Body in Design*, New York: Routledge.
-* Bishop, Claire, 2012, *Artificial Hells: Participatory Art and the Politics of Spectatorship*, London: Verso.
-* Böhme, Gernot, 1993, “Atmosphere as the Fundamental Concept of a New Aesthetics”, David Roberts (tr.), *Thesis Eleven*, 36: 113–126.
-* –––, 1998, “Atmosphere as an Aesthetic Concept”, *Daidallos*, 68: 112–115.
-* –––, 2003, “Contribution to the Critique of the Aesthetic Economy”, *Thesis Eleven*, 73: 71–92.
-* –––, 2010, “On Beauty”, *The Nordic Journal of Aesthetics*, 39: 22–33.
-* –––, 2017, *Critique of Aesthetic Capitalism*, Edmund Jephcott (trans.), Mimesis International.
-* Bourdieu, Pierre, 1984, *Distinction: A Social Critique of the Judgement of Taste*, Richard Nice (trans.), Cambridge, Massachusetts: Harvard University Press.
-* Bourriaud, Nicolas, 2002, *Relational Aesthetics*, Simon Pleasance and Fronza Woods (tr.), Dijon: les presses du réel.
-* Brady, Emily, 2005, “Sniffing and Savoring: The Aesthetics of Smells and Tastes”, *The Aesthetics of Everyday Life*, Andrew Light and Jonathan M. Smith (eds.), New York: Columbia University Press, pp. 177–193.
-* Brand, Peg Zeglin (ed.), 2000, *Beauty Matters*, Bloomington: Indiana University Press.
-* ––– (ed.), 2012, *Beauty Unlimited*, Bloomington: Indiana University Press.
-* Brook, Isis, 2012, “Make, Do, and Mend: Solving Placelessness Through Embodied Environmental Engagement”, *Human-Environment Relations: Transformative Values in Theory and Practice*, Emily Brady P. Phemister (eds.), London: Springer, pp. 109–120.
-* Bullough, Edward, 1912–13, “‘Psychical Distance’ as a Factor in Art and an Aesthetic Principle”, *The British Journal of Psychology*, 5: 87–118.
-* Buss, Sarah, 1999, “Appearing Respectful: The Moral Significance of Manners”, *Ethics*, 109(4): 779–826.
-* Calhoun, Cheshire, 2000, “The Virtue of Civility”, *Philosophy & Public Affairs*, 29(3): 251–275.
-* Carlson, Allen, 2014, “The Dilemma of Everyday Aesthetics”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 48–64.
-* Chapman, Jonathan, 2006, *Emotionally Durable Design: Objects, Experiences and Empathy*, Sterling: Earthscan.
-* Curtin, Deane W. and Lisa M. Heldke (eds.), 1992, *Cooking, Eating, Thinking: Transformative Philosophies of Food*, Bloomington: Indiana University Press.
-* Cwerner, Saulo B. and Alan Metcalfe, 2003, “Storage and Clutter: Discourses and Practices of Order in the Domestic World”, *Journal of Design History*, 16(3): 229–239.
-* Danto, Arthur, 2003, *The Abuse of Beauty: Aesthetics and the Concept of Art*, Chicago: Open Court.
-* Darsø, Lotte, 2004, *Artful Creation: Learning-Tales of Arts-in Business*, Frederiksberg, Denmark: samfundslitteratur.
-* Davies, David, 2015, “Sibley and the Limits of Everyday Aesthetics”, *Journal of Aesthetic Education*, 49(3): 50–65.
-* –––, 2016, “Applied Aesthetics”, *A Companion to Applied Philosophy*, Kasper Lippert-Rasmussen, Kimberley Brownlee, and David Coady (eds.), Chichester: Wiley-Blackwell, pp. 487–500.
-* Davies, Stephen, Kathleen Marie Higgins, Robert Hopkins, Robert Stecker, and David E. Cooper (eds), 2009, *A Companion to Aesthetics*, second edition, Malden: Blackwell Publishing.
-* De Certeau, Michel, 1988, *The Practice of Everyday Life*, Steven Rendall (tr.), Berkeley: University of California Press.
-* Dee, Catherine, 2010, “Form, Utility, and the Aesthetics of Thrift in Design Education”, *Landscape Journal*, 29(1–10): 21–35.
-* Dewey, John, 1958, *Art as Experience*, New York: Capricorn Press.
-* Dezeuze, Anna, 2006, “Everyday Life, ‘Relational Aesthetics’ and the ‘Transfiguration of the Commonplace’”, *Journal of Visual Art Practice*, 5(3): 143–152.
+* Ackerman, Diane, 1991, _A Natural History of the Senses_, New York: Vintage Books.
+* Al Qudowa, Salem Y., 2017, “Aesthetic Value of Minimalist Architecture in Gaza”, _Contemporary Aesthetics_, 15: article 14. \[[Al Qudowa 2017 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/14/)]
+* Ameel, Lieven and Sirpa Tani, 2011, “Everyday Aesthetics In Action: Parkour Eyes and the Beauty of Concrete Walls”, _Emotion, Space and Society_, 5(3): 164–173.
+* Anderson, Erik, forthcoming, “Aesthetic Appreciation of Silence”, _Contemporary Aesthetics_.
+* Archer, Alfred and Lauren Ware, 2018, “Beyond the Call of Beauty: Everyday Aesthetic Demands Under Patriarchy”, _The Monist_, 101(1): 114–127.
+* Attfield, Judy, 2000, _Wild Things: The Material Culture of Everyday Life_, Oxford: Berg.
+* Bennett, Jane, 2010, _Vibrant Matter: A Political Ecology of Things_, Durham: Duke University Press.
+* Bennett, Jill, 2012, _Practical Aesthetics: Events, Affects and Art after 9/11_, London: I.B.Tauris.
+* Barthes, Roland, 1990, _Mythologies_, Annette Lavers (trans.), New York: The Noonday Press.
+* Berleant, Arnold, 1970, _Aesthetic Field: A Phenomenology of Aesthetic Experience_, Springfield: Thomas.
+* –––, 1991, _Art and Engagement_, Philadelphia: Temple University Press.
+* –––, 1992, _The Aesthetics of Environment_, Philadelphia: Temple University Press.
+* –––, 1997, _Living in the Landscape: Toward an Aesthetics of Environment_, Lawrence: University Press of Kansas.
+* –––, 2004, _Re-thinking Aesthetics: Rogue Essays on Aesthetics and the Arts_, Aldershot: Ashgate.
+* –––, 2005a, _Aesthetics and Environment: Variations on a Theme_, Aldershot: Ashgate.
+* –––, 2005b, “Ideas for a Social Aesthetic”, in _The Aesthetics of Everyday Life_, Andrew Light and Jonathan M. Smith (eds.), New York: Columbia University Press, pp. 23–38.
+* –––, 2010, _Sensibility and Sense: The Aesthetic Transformation of the Human World_, Exeter: Imprint Academic.
+* –––, 2011, “Negative Aesthetics in Everyday Life”, _Aesthetic Pathways_, 1(2): 75–91.
+* –––, 2012, _Aesthetics Beyond the Arts: New and Recent Essays_, Aldershot: Ashgate.
+* –––, 2013, “What Is Aesthetic Engagement?”, _Contemporary Aesthetics_, 11. \[[Berleant 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/5/)]
+* –––, 2014, “Transformations in Art and Aesthetics”, in _Aesthetics of Everyday Life: East and West_, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 2–13.
+* –––, 2015a, “Aesthetic Sensibility”, _Ambiances_, March 30. doi:10.4000/ambiances.526 \[[Berleant 2015a available online](https://journals.openedition.org/ambiances/526#text)]
+* –––, 2015b, “Co-Optation of Sensibility and the Subversion of Beauty”, _Pragmatism Today_, 6(2): 38–47. \[[Berleant 2015b available online](http://www.pragmatismtoday.eu/winter2015/Pragmatism\*Today\*Volume5\*Issue2\*Winter2015.pdf)]
+* –––, 2017, “Objects into Persons: The Way to Social Aesthetics”, _Espes_, 6(2): 9–18. \[[Berleant 2017 available online](https://espes.ff.unipo.sk/index.php/ESPES/article/view/91/99)]
+* Berleant, Arnold and Allen Carlson (eds.), 2007, _The Aesthetics of Human Environments_, Peterborough: Broadview Press.
+* Besson, Anu Marjeaana, 2017, “Everyday Aesthetics on Staycation as a Pathway to Restoration”, _International Journal of Humanities and Cultural Studies_, 4(3): 34–52. \[[Besson 2017 available online](https://www.ijhcs.com/index.php/ijhcs/article/view/3085)]
+* Bhatt, Ritu, (ed.), 2013. _Rethinking Aesthetics: The Role of Body in Design_, New York: Routledge.
+* Bishop, Claire, 2012, _Artificial Hells: Participatory Art and the Politics of Spectatorship_, London: Verso.
+* Böhme, Gernot, 1993, “Atmosphere as the Fundamental Concept of a New Aesthetics”, David Roberts (tr.), _Thesis Eleven_, 36: 113–126.
+* –––, 1998, “Atmosphere as an Aesthetic Concept”, _Daidallos_, 68: 112–115.
+* –––, 2003, “Contribution to the Critique of the Aesthetic Economy”, _Thesis Eleven_, 73: 71–92.
+* –––, 2010, “On Beauty”, _The Nordic Journal of Aesthetics_, 39: 22–33.
+* –––, 2017, _Critique of Aesthetic Capitalism_, Edmund Jephcott (trans.), Mimesis International.
+* Bourdieu, Pierre, 1984, _Distinction: A Social Critique of the Judgement of Taste_, Richard Nice (trans.), Cambridge, Massachusetts: Harvard University Press.
+* Bourriaud, Nicolas, 2002, _Relational Aesthetics_, Simon Pleasance and Fronza Woods (tr.), Dijon: les presses du réel.
+* Brady, Emily, 2005, “Sniffing and Savoring: The Aesthetics of Smells and Tastes”, _The Aesthetics of Everyday Life_, Andrew Light and Jonathan M. Smith (eds.), New York: Columbia University Press, pp. 177–193.
+* Brand, Peg Zeglin (ed.), 2000, _Beauty Matters_, Bloomington: Indiana University Press.
+* ––– (ed.), 2012, _Beauty Unlimited_, Bloomington: Indiana University Press.
+* Brook, Isis, 2012, “Make, Do, and Mend: Solving Placelessness Through Embodied Environmental Engagement”, _Human-Environment Relations: Transformative Values in Theory and Practice_, Emily Brady P. Phemister (eds.), London: Springer, pp. 109–120.
+* Bullough, Edward, 1912–13, “‘Psychical Distance’ as a Factor in Art and an Aesthetic Principle”, _The British Journal of Psychology_, 5: 87–118.
+* Buss, Sarah, 1999, “Appearing Respectful: The Moral Significance of Manners”, _Ethics_, 109(4): 779–826.
+* Calhoun, Cheshire, 2000, “The Virtue of Civility”, _Philosophy & Public Affairs_, 29(3): 251–275.
+* Carlson, Allen, 2014, “The Dilemma of Everyday Aesthetics”, in _Aesthetics of Everyday Life: East and West_, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 48–64.
+* Chapman, Jonathan, 2006, _Emotionally Durable Design: Objects, Experiences and Empathy_, Sterling: Earthscan.
+* Curtin, Deane W. and Lisa M. Heldke (eds.), 1992, _Cooking, Eating, Thinking: Transformative Philosophies of Food_, Bloomington: Indiana University Press.
+* Cwerner, Saulo B. and Alan Metcalfe, 2003, “Storage and Clutter: Discourses and Practices of Order in the Domestic World”, _Journal of Design History_, 16(3): 229–239.
+* Danto, Arthur, 2003, _The Abuse of Beauty: Aesthetics and the Concept of Art_, Chicago: Open Court.
+* Darsø, Lotte, 2004, _Artful Creation: Learning-Tales of Arts-in Business_, Frederiksberg, Denmark: samfundslitteratur.
+* Davies, David, 2015, “Sibley and the Limits of Everyday Aesthetics”, _Journal of Aesthetic Education_, 49(3): 50–65.
+* –––, 2016, “Applied Aesthetics”, _A Companion to Applied Philosophy_, Kasper Lippert-Rasmussen, Kimberley Brownlee, and David Coady (eds.), Chichester: Wiley-Blackwell, pp. 487–500.
+* Davies, Stephen, Kathleen Marie Higgins, Robert Hopkins, Robert Stecker, and David E. Cooper (eds), 2009, _A Companion to Aesthetics_, second edition, Malden: Blackwell Publishing.
+* De Certeau, Michel, 1988, _The Practice of Everyday Life_, Steven Rendall (tr.), Berkeley: University of California Press.
+* Dee, Catherine, 2010, “Form, Utility, and the Aesthetics of Thrift in Design Education”, _Landscape Journal_, 29(1–10): 21–35.
+* Dewey, John, 1958, _Art as Experience_, New York: Capricorn Press.
+* Dezeuze, Anna, 2006, “Everyday Life, ‘Relational Aesthetics’ and the ‘Transfiguration of the Commonplace’”, _Journal of Visual Art Practice_, 5(3): 143–152.
 * Dhillon, Pradeep, 2009, “Aesthetic Education”, in Davies et al. 2009: 114–117.
-* di Stefano, Elisabetta, 2017, “Designing Atmospheres. The Role of Aesthetics in the Requalification of Space”, *Proceedings of the 2nd International Conference on Environmental Design*, Milan: De Lettera Publishers (Mediterranean Design Association), 15–21.
-* –––, 2018, “Cosmetic Practices: The Intersection with Aesthetics and Medicine”, *Studies in Somaesthetics*, 1: 162–179.
-* Diaconu, Madalina, 2015, “Longing for Clouds: Does Beautiful Weather Have To Be Fine?”, *Contemporary Aesthetics*, 13: article 16. \[[Diaconu 2015 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol13/iss1/16/)]
-* Dickie, George, 1969, “The Myth of the Aesthetic Attitude”, in John Hospers (ed.), *Introductory Readings in Aesthetics*, New York: The Free Press, pp. 28–44.
-* Dillard, Annie, 1974, “Seeing”, in *Pilgrim at Tinker Creek*, New York: Harper’s Magazine Press.
-* Douglas, Mary, 2002, *Purity and Danger: An Analysis of Concept of Pollution and Taboo*, London: Routledge.
-* Dowling, Christopher, 2010, “The Aesthetics of Daily Life”, *British Journal of Aesthetics*, 50(3): 225–242.
-* Drobnick, Jim, 2005, “Volatile Effects: Olfactory Dimensions of Art and Architecture”, in David Howes (ed.), *Empire of the Senses: The Sensual Culture Reader*, Oxford: Berg, pp. 265–280.
-* Duerksen, Christopher J. and R. Matthew Goebel, 1999, *Aesthetics, Community Character, and the Law*, Chicago: American Planning Association.
-* Duncum, Paul, 1999, “A Case for an Art Education of Everyday Aesthetic Experiences”, *Studies in Art Education*, 40(4): 295–311.
-* –––, 2007a, “Aesthetics, Popular Visual Culture, and Designer Capitalism”, *Journal of Art and Design Education*, 26: 3–285–295.
-* –––, 2007b, “Reasons for the Continuing Use of an Aesthetics Discourse in Art Education”, *Art Education*, 60(2): 46–51.
-* Eaton, Marcia Muelder, 1989, *Aesthetics and the Good Life*, Rutherford: Farleigh Dickinson University Press.
-* *–––*, 2001, *Merit, Aesthetic and Ethical*, Oxford: Oxford University Press.
-* Elkington, Sam, 2015, “Disturbance and Complexity in Urban Places: The Everyday Aesthetics of Leisure”, in *Landscapes of Leisure*, Sean Gammon and Sam Elkington (eds.), Basingstoke: Palgrave, pp. 24–49.
-* Farías, Gabriela, 2011, “Everyday Aesthetics in Contemporary Art”, *Rupkatha Journal on Interdisciplinary Studies in Humanities*, 3(3): 440–447. \[[Farías 2011 available online](http://rupkatha.com/V3/n3/09\*Everyday\*Aesthetics\*in\*Contemporary\*Art.pdf)]
-* Featherstone, Mike, 1991, *Consumer Culture and Postmodernism*, London: SAGE Publications.
-* Felski, Rita, 2002, “Introduction”, *New Literary History*, 33(4): 607–622.
-* –––, 2009, “Everyday Aesthetics”, *The Minnesota Review*, 71–72: 171–179.
-* Forsey, Jane, 2013a, *The Aesthetics of Design*, Oxford: Oxford University Press.
-* –––, 2013b, “Appraising the Ordinary–Tensions in Everyday Aesthetics”, *Proceedings of the European Society for Aesthetics*, 5: 237–245. \[[Forsey 2013b available online](http://www.eurosa.org/volumes/5/ForseyESA2013.pdf)]
-* –––, 2014, “The Promise, the Challenge, of Everyday Aesthetics”, *Aisthesis*, 7(1): 5–21. \[[Forsey 2014 available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/828)]
-* –––, 2016, “The Aesthetic Force of the Unpleasant”, *Evental Aesthetics*, 5(1): 15–24. \[[Forsey 2016 available online](https://eventalaesthetics.net/)]
-* Friberg, Carsten and Raine Vasquez (eds.), 2017, *Experiencing the Everyday*, København, Denmark: NSU Press. \[[Friberg and Vasquez 2017 table of contents available online](https://en.unipress.dk/udgivelser/e/experiencing-the-everyday/)]
-* Garland-Thomson, Rosemarie, 2009, *Staring: How We Look*, Oxford: Oxford University Press.
-* Giard, Luce, 1998, “Doing Cooking”, in *The Practice of Everyday Life, Volume 2: Living & Cooking*, Luce Giard (ed.), Timothy J. Tomasik (tr.), Minneapolis: University of Minnesota Press, pp. 149–247.
-* Gier, Nicholas F., 2001, “The Dancing *Ru*: A Confucian Aesthetics of Virtue”, *Philosophy East & West*, 51(2): 280–305.
-* Gipe, Paul, 2002, “Design As If People Matter: Aesthetic Guidelines for a Wind Power Future”, in Martin J. Pasqualetti, Paul Gipe, and Robert W. Righter (eds.), *Wind Power in View: Energy Landscape in a Crowded World*, San Diego: Academic Press, pp. 173–212.
-* Graves, Jane, 1998, “Clutter”, *Issues in Architecture Art and Design*, 5(2): 63–69.
-* Gray, Tyson-Lord J., 2012, “Beauty or Bane: Advancing an Aesthetic Appreciation of Wind Turbine Farms”, *Contemporary Aesthetics*, 10: article 11. \[[Gray 2012 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol10/iss1/11/)]
-* Gronow, Jukka, 1987, *The Sociology of Taste*, London: Routledge.
-* Gumbrecht, Hans Ulrich, 2006, “Aesthetic Experience in Everyday Worlds: Reclaiming an Unredeemed Utopian Motif”, *New Literary History*, 37: 299–318.
-* Haapala, Arto, 2005, “On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 39–55.
-* –––, 2017, “The Everyday, Building, and Architecture: Reflections on the Ethos and Beauty of our Built Surroundings”, *Cloud-Cuckoo-Land: International Journal of Architectural Theory*, 22(36): 171–182.
-* Haapala, Arto and Christopher Stevens (eds.), 2011, *Aesthetic Pathways*, 1(2).
-* Hainic, Cristian, 2016, “Early Theoretical Models for the Aesthetic Analysis of Non-Art Objects”, *Rivista di Estetica*, 63: 188–202. doi:10.4000/estetica.1334 \[[Hainic 2016 available online](http://journals.openedition.org/estetica/1334)]
-* Harris, Daniel, 2000, *Cute, Quaint, Hungry and Romantic: The Aesthetics of Consumerism*, Cambridge: Da Capo Press.
-* Higgins, Kathleen M. (ed.), 1996, *Aesthetics in Perspective*, Fort Worth: Harcourt Brace & Company.
-* –––, 2005, “Comparative Aesthetics”, *The Oxford Handbook of Aesthetics*, Jerrold Levinson (ed.), Oxford: Oxford University Press, pp. 679–692.
-* Higgins, Kathleen and Joel Rudinow (eds.), 1999, Special Issue: Aesthetics and Popular Culture. *Journal of Aesthetics and Art Criticism*, 57(2).
-* Higgins, Kathleen, Shakti Maira, and Sonia Sikka (eds.), 2017, Special Issue: Aesthetics and Popular Culture. *Artistic Visions and the Promise of Beauty: Cross-Cultural Perspectives*, New York: Springer.
-* Highmore, Ben (ed.), 2002, *The Everyday Life Reader*, Oxon: Routledge.
-* –––, 2004, “Homework: Routine, Social Aesthetics and the Ambiguity of Everyday Life”, *Cultural Studies*, 18(2/3): 306–327.
-* –––, 2010, *Everyday Life and Cultural Theory: An Introduction*, Oxon: Routledge.
-* –––, 2011a, *Ordinary Lives: Studies in the Everyday*, Oxon: Routledge.
-* ––– (ed.), 2011b, *Everyday Life*, Abingdon, Oxon.
-* Howes, David, 2005, “HYPERESTHESIA, or, the Sensual Logic of Late Capitalism”, in *Empire of the Senses: The Sensual Culture Reader*, David Howes (ed.). Oxford: Berg, pp. 281–303.
-* –––, 2013, “Selling Sensation”, *New Scientist*, 219(2934): 28–29.
-* Howes, David and Constance Classen, 2014, *Ways of Sensing: Understanding the Senses in Society*, London: Routledge.
-* Iannilli, Gioia Laura, 2014, “Inter-facing Everydayness from Distance to Use, through the Cartographic Paradigm”, *Aithesis*, 7(1): 63–72. \[[Iannilli 2014 available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/831)]
-* –––, 2016, “Everyday Aesthetics: Institutionalization and ‘Normative Turn’”, *Proceedings on the European Society for Aesthetics*, 8: 269–287. \[[Iannilli 2016 available online](http://www.eurosa.org/volumes/8/ESA-Proc-8-2016-Iannilli.pdf)]
-* –––, 2017, “How Can Everyday Aesthetics Meet Fashion?”, *Studi di estetica*, serie 7: 229–246. \[[Iannilli 2017 available online](http://mimesisedizioni.it/journals/index.php/studi-di-estetica/article/view/536/914)]
-* Ikegami, Eiko, 2005, *Bonds of Civility: Aesthetic Networks and the Political Origins of Japanese Culture*, New York: Cambridge University Press.
-* Ingold, Tim, 2000, *The Perception of the Environment: Essays on Livelihood, Dwelling and Skill*, London: Routledge.
+* di Stefano, Elisabetta, 2017, “Designing Atmospheres. The Role of Aesthetics in the Requalification of Space”, _Proceedings of the 2nd International Conference on Environmental Design_, Milan: De Lettera Publishers (Mediterranean Design Association), 15–21.
+* –––, 2018, “Cosmetic Practices: The Intersection with Aesthetics and Medicine”, _Studies in Somaesthetics_, 1: 162–179.
+* Diaconu, Madalina, 2015, “Longing for Clouds: Does Beautiful Weather Have To Be Fine?”, _Contemporary Aesthetics_, 13: article 16. \[[Diaconu 2015 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol13/iss1/16/)]
+* Dickie, George, 1969, “The Myth of the Aesthetic Attitude”, in John Hospers (ed.), _Introductory Readings in Aesthetics_, New York: The Free Press, pp. 28–44.
+* Dillard, Annie, 1974, “Seeing”, in _Pilgrim at Tinker Creek_, New York: Harper’s Magazine Press.
+* Douglas, Mary, 2002, _Purity and Danger: An Analysis of Concept of Pollution and Taboo_, London: Routledge.
+* Dowling, Christopher, 2010, “The Aesthetics of Daily Life”, _British Journal of Aesthetics_, 50(3): 225–242.
+* Drobnick, Jim, 2005, “Volatile Effects: Olfactory Dimensions of Art and Architecture”, in David Howes (ed.), _Empire of the Senses: The Sensual Culture Reader_, Oxford: Berg, pp. 265–280.
+* Duerksen, Christopher J. and R. Matthew Goebel, 1999, _Aesthetics, Community Character, and the Law_, Chicago: American Planning Association.
+* Duncum, Paul, 1999, “A Case for an Art Education of Everyday Aesthetic Experiences”, _Studies in Art Education_, 40(4): 295–311.
+* –––, 2007a, “Aesthetics, Popular Visual Culture, and Designer Capitalism”, _Journal of Art and Design Education_, 26: 3–285–295.
+* –––, 2007b, “Reasons for the Continuing Use of an Aesthetics Discourse in Art Education”, _Art Education_, 60(2): 46–51.
+* Eaton, Marcia Muelder, 1989, _Aesthetics and the Good Life_, Rutherford: Farleigh Dickinson University Press.
+* _–––_, 2001, _Merit, Aesthetic and Ethical_, Oxford: Oxford University Press.
+* Elkington, Sam, 2015, “Disturbance and Complexity in Urban Places: The Everyday Aesthetics of Leisure”, in _Landscapes of Leisure_, Sean Gammon and Sam Elkington (eds.), Basingstoke: Palgrave, pp. 24–49.
+* Farías, Gabriela, 2011, “Everyday Aesthetics in Contemporary Art”, _Rupkatha Journal on Interdisciplinary Studies in Humanities_, 3(3): 440–447. \[[Farías 2011 available online](http://rupkatha.com/V3/n3/09\*Everyday\*Aesthetics\*in\*Contemporary\*Art.pdf)]
+* Featherstone, Mike, 1991, _Consumer Culture and Postmodernism_, London: SAGE Publications.
+* Felski, Rita, 2002, “Introduction”, _New Literary History_, 33(4): 607–622.
+* –––, 2009, “Everyday Aesthetics”, _The Minnesota Review_, 71–72: 171–179.
+* Forsey, Jane, 2013a, _The Aesthetics of Design_, Oxford: Oxford University Press.
+* –––, 2013b, “Appraising the Ordinary–Tensions in Everyday Aesthetics”, _Proceedings of the European Society for Aesthetics_, 5: 237–245. \[[Forsey 2013b available online](http://www.eurosa.org/volumes/5/ForseyESA2013.pdf)]
+* –––, 2014, “The Promise, the Challenge, of Everyday Aesthetics”, _Aisthesis_, 7(1): 5–21. \[[Forsey 2014 available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/828)]
+* –––, 2016, “The Aesthetic Force of the Unpleasant”, _Evental Aesthetics_, 5(1): 15–24. \[[Forsey 2016 available online](https://eventalaesthetics.net/)]
+* Friberg, Carsten and Raine Vasquez (eds.), 2017, _Experiencing the Everyday_, København, Denmark: NSU Press. \[[Friberg and Vasquez 2017 table of contents available online](https://en.unipress.dk/udgivelser/e/experiencing-the-everyday/)]
+* Garland-Thomson, Rosemarie, 2009, _Staring: How We Look_, Oxford: Oxford University Press.
+* Giard, Luce, 1998, “Doing Cooking”, in _The Practice of Everyday Life, Volume 2: Living & Cooking_, Luce Giard (ed.), Timothy J. Tomasik (tr.), Minneapolis: University of Minnesota Press, pp. 149–247.
+* Gier, Nicholas F., 2001, “The Dancing _Ru_: A Confucian Aesthetics of Virtue”, _Philosophy East & West_, 51(2): 280–305.
+* Gipe, Paul, 2002, “Design As If People Matter: Aesthetic Guidelines for a Wind Power Future”, in Martin J. Pasqualetti, Paul Gipe, and Robert W. Righter (eds.), _Wind Power in View: Energy Landscape in a Crowded World_, San Diego: Academic Press, pp. 173–212.
+* Graves, Jane, 1998, “Clutter”, _Issues in Architecture Art and Design_, 5(2): 63–69.
+* Gray, Tyson-Lord J., 2012, “Beauty or Bane: Advancing an Aesthetic Appreciation of Wind Turbine Farms”, _Contemporary Aesthetics_, 10: article 11. \[[Gray 2012 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol10/iss1/11/)]
+* Gronow, Jukka, 1987, _The Sociology of Taste_, London: Routledge.
+* Gumbrecht, Hans Ulrich, 2006, “Aesthetic Experience in Everyday Worlds: Reclaiming an Unredeemed Utopian Motif”, _New Literary History_, 37: 299–318.
+* Haapala, Arto, 2005, “On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place”, in Andrew Light and Jonathan M. Smith (eds.), _The Aesthetics of Everyday Life_, New York: Columbia University Press, pp. 39–55.
+* –––, 2017, “The Everyday, Building, and Architecture: Reflections on the Ethos and Beauty of our Built Surroundings”, _Cloud-Cuckoo-Land: International Journal of Architectural Theory_, 22(36): 171–182.
+* Haapala, Arto and Christopher Stevens (eds.), 2011, _Aesthetic Pathways_, 1(2).
+* Hainic, Cristian, 2016, “Early Theoretical Models for the Aesthetic Analysis of Non-Art Objects”, _Rivista di Estetica_, 63: 188–202. doi:10.4000/estetica.1334 \[[Hainic 2016 available online](http://journals.openedition.org/estetica/1334)]
+* Harris, Daniel, 2000, _Cute, Quaint, Hungry and Romantic: The Aesthetics of Consumerism_, Cambridge: Da Capo Press.
+* Higgins, Kathleen M. (ed.), 1996, _Aesthetics in Perspective_, Fort Worth: Harcourt Brace & Company.
+* –––, 2005, “Comparative Aesthetics”, _The Oxford Handbook of Aesthetics_, Jerrold Levinson (ed.), Oxford: Oxford University Press, pp. 679–692.
+* Higgins, Kathleen and Joel Rudinow (eds.), 1999, Special Issue: Aesthetics and Popular Culture. _Journal of Aesthetics and Art Criticism_, 57(2).
+* Higgins, Kathleen, Shakti Maira, and Sonia Sikka (eds.), 2017, Special Issue: Aesthetics and Popular Culture. _Artistic Visions and the Promise of Beauty: Cross-Cultural Perspectives_, New York: Springer.
+* Highmore, Ben (ed.), 2002, _The Everyday Life Reader_, Oxon: Routledge.
+* –––, 2004, “Homework: Routine, Social Aesthetics and the Ambiguity of Everyday Life”, _Cultural Studies_, 18(2/3): 306–327.
+* –––, 2010, _Everyday Life and Cultural Theory: An Introduction_, Oxon: Routledge.
+* –––, 2011a, _Ordinary Lives: Studies in the Everyday_, Oxon: Routledge.
+* ––– (ed.), 2011b, _Everyday Life_, Abingdon, Oxon.
+* Howes, David, 2005, “HYPERESTHESIA, or, the Sensual Logic of Late Capitalism”, in _Empire of the Senses: The Sensual Culture Reader_, David Howes (ed.). Oxford: Berg, pp. 281–303.
+* –––, 2013, “Selling Sensation”, _New Scientist_, 219(2934): 28–29.
+* Howes, David and Constance Classen, 2014, _Ways of Sensing: Understanding the Senses in Society_, London: Routledge.
+* Iannilli, Gioia Laura, 2014, “Inter-facing Everydayness from Distance to Use, through the Cartographic Paradigm”, _Aithesis_, 7(1): 63–72. \[[Iannilli 2014 available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/831)]
+* –––, 2016, “Everyday Aesthetics: Institutionalization and ‘Normative Turn’”, _Proceedings on the European Society for Aesthetics_, 8: 269–287. \[[Iannilli 2016 available online](http://www.eurosa.org/volumes/8/ESA-Proc-8-2016-Iannilli.pdf)]
+* –––, 2017, “How Can Everyday Aesthetics Meet Fashion?”, _Studi di estetica_, serie 7: 229–246. \[[Iannilli 2017 available online](http://mimesisedizioni.it/journals/index.php/studi-di-estetica/article/view/536/914)]
+* Ikegami, Eiko, 2005, _Bonds of Civility: Aesthetic Networks and the Political Origins of Japanese Culture_, New York: Cambridge University Press.
+* Ingold, Tim, 2000, _The Perception of the Environment: Essays on Livelihood, Dwelling and Skill_, London: Routledge.
 * Interference Journal, 2019, Issue 7, Editorial Intro by Rob Mackay, [available online](http://www.interferencejournal.org/editorial-sound-environment-sense-of-place/).
-* Irvin, Sherri, 2008a, “Scratching an Itch”, *The Journal of Aesthetics and Art Criticism*, 66(1): 25–35.
-* –––, 2008b, “The Pervasiveness of the Aesthetic in Ordinary Experience”, *British Journal of Aesthetics*, 48(1): 29–44.
-* –––, 2009a, “Aesthetics and the Private Realm”, *The Journal of Aesthetics and Art Criticism*, 67(2): 226–230.
+* Irvin, Sherri, 2008a, “Scratching an Itch”, _The Journal of Aesthetics and Art Criticism_, 66(1): 25–35.
+* –––, 2008b, “The Pervasiveness of the Aesthetic in Ordinary Experience”, _British Journal of Aesthetics_, 48(1): 29–44.
+* –––, 2009a, “Aesthetics and the Private Realm”, _The Journal of Aesthetics and Art Criticism_, 67(2): 226–230.
 * –––, 2009b, “Aesthetics of the Everyday”, in Davies et al. 2009: 136–139.
-* ––– (ed.), 2016, *Body Aesthetics*, Oxford: Oxford University Press.
-* Johnstone, Stephen (ed.), 2008, *The Everyday*, Cambridge: MIT Press.
-* Kaprow, Allan, 1993, *Essays on the Blurring of Art and Life*, Jeff Kelley (ed.), Berkeley: University of California Press.
-* Kester, Grant H., 2004, *Conversation Pieces: Community and Communication in Modern Art*, Berkeley: University of California Press.
-* –––, 2011, *The One and the Many: Contemporary Collaborative Art in a Global Context*, Durham: Duke University Press.
-* Kim, Kwang Myung, 2013, “The Aesthetic Turn in Everyday Life in Korea”, *Open Journal of Philosophy*, 3(3): 359–365. \[[Kim 2013 available online](http://www.scirp.org/journal/paperinformation.aspx?paperid=35363)]
-* Korsmeyer, Carolyn, 1999, *Making Sense of Taste: Food and Philosophy*, Ithaca: Cornell University Press.
-* –––, 2005, *The Taste Culture Reader: Experiencing Food and Drink*, Oxford: Berg.
-* –––, 2011, *Savoring Disgust: The Foul & the Fair in Aesthetics*, Oxford: Oxford University Press.
-* –––, 2017, “Taste and Other Senses: Reconsidering the Foundations of Aesthetics”, *The Nordic Journal of Aesthetics*, 26(54): 20–34. \[[Korsmeyer 2017 available online](https://tidsskrift.dk/nja)]
-* Krawczyk, Marcin M., forthcoming“The Aesthetics and Financial Market: Beyond Mere Representing and Supporting”,*Contemporary Aesthetics*
-* Kuisma, Oiva, Sanna Lehtinen and Harri Mäcklin (eds.), 2019, *Paths from the Philosophy of Art to Everyday Aesthetics*, Helsinki: The Finnish Society for Aesthetics. \[[Kuisma et al. 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
-* Kupfer, Joseph, 1983, *Experience as Art: Aesthetics in Everyday Life*, Albany: SUNY Press, 1983.
-* Lafebvre, Henri, 1991, *Critique of Everyday Life*, John Moore (tr.), London: Verso.
-* Lehtinen, Sanna, and Vesa Vihanninjoki, 2019, “Seeing new in the familiar: intensifying aesthetic engagement with the city through new location-based technologies”, *Behaviour and Information Technology*, 38: 1–8.
-* Leddy, Thomas, 1995, “Everyday Surface Aesthetic Qualities: ‘Neat,’ ‘Messy,’ ‘Clean,’ ‘Dirty’”, *The Journal of Aesthetics and Art Criticism*, 53(3): 259–268.
-* –––, 1997, “Sparkle and Shine”, *British Journal of Aesthetics*, 37(3): 259–273.
-* –––, 2005, “The Nature of Everyday Aesthetics”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 3–22.
-* –––, 2008, “The Aesthetics of Junkyards and Roadside Clutter”, *Contemporary Aesthetics*, 6: article 11. \[[Leddy 2008 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol6/iss1/11/)]
-* –––, 2012a, *The Extraordinary in the Ordinary: The Aesthetics of Everyday Life*, Peterborough: Broadview Press.
-* –––, 2012b, “Defending Everyday Aesthetics and the Concept of ‘Pretty’”, *Contemporary Aesthetics*, 10: article 8. \[[Leddy 2012b available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol10/iss1/8/)]
-* –––, 2012c, “Aestheticization, Artification, and Aquariums”, *Contemporary Aesthetics*, Special Volume 4: article 6. \[[Leddy 2012c available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss4/6/)]
-* –––, 2014a, “Everyday Aesthetics and Photography”, *Aithesis*, 7(1). \[[Leddy 2014a available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/830)]
-* –––, 2014b, “Everyday Aesthetics and Happiness”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 26–47.
-* –––, 2015, “Experience of Awe: An Expansive Approach to Everyday Aesthetics”, *Contemporary Aesthetics*, 13: article 8. \[[Leddy 2015 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol13/iss1/8/)]
-* –––, forthcoming, “Kant and Everyday Aesthetics”, *Kant’s Critique of Aesthetic Judgment in the Twentieth Century: A Historical and Critical Comparison of Its Main Interpretations*, Stefano Marino and Pietro Terzi (eds.), Berlin: De Gruyter.
-* –––, forthcoming, “Resolving the Tension of Everyday Aesthetics in a Deweyan Way”, *American Aesthetics Today: Theory and Practice*, Walter Gulick and Gary Slater (eds.), Albany: SUNY Press.
-* Lee, Jessica, 2010, “Home Life: Cultivating a Domestic Aesthetic”, *Contemporary Aesthetics*, 8: article 15. \[[Lee 2010 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol8/iss1/15/)]
-* Leonhardt, Gay, 1985, “An Eye for Peeling Paint”, *Landscape*, 28(2): 23–25.
-* Light, Andrew and Jonathan M. Smith, (eds.), 2005, *The Aesthetics of Everyday Life*, New York: Columbia University Press.
-* Linstead, Stephen and Heather Höpfl (eds.), 2000, *The Aesthetics of Organization*, London: SAGE Publications.
-* Lintott, Sheila, 2003, “Sublime Hunger: A Consideration of Eating Disorders beyond Beauty”, *Hypatia*, 18(4): 65–86.
-* –––, 2012, “The Sublimity of Gestating and Giving Birth: Toward a Feminist Conception of the Sublime”, in Sheila Lintott and Maureen Sander-Staudt (eds.), *Philosophical Inquiries Into Pregnancy, Childbirth, and Mothering: Maternal Subjects*, New York: Routledge, pp. 237–250.
-* Liu, Yuedi, 2014, “ ‘Living Aesthetics’ from the Perspective of the Intercultural Turn”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 14–25.
-* –––, 2017, “The Aesthetics of Living: Rooted in Chinese Soil and Going Global”, *Confucian Academy*, 4(4): 126–131.
-* –––, 2018, “From ‘Practice’ to ‘Living’: Main Trends of Chinese Aesthetic in the Past 40 Years”, *Frontiers of Philosophy in China*, 13(1): 139–149.
-* Liu, Yuedi and Curtis L. Carter (eds.), 2014, *Aesthetics of Everyday Life: East and West*, Newcastle upon Tyne: Cambridge Scholars Publishing.
-* Livingston, Paisley, 2015, “New Directions in Aesthetics”, in Anna Christina Ribeiro (ed.), *The Bloomsbury Companion to Aesthetics*, London: Bloomsbury Academic, pp. 255–263.
-* Lopes, Dominic McIver, 2014, *Beyond Art*, Oxford: Oxford University Press.
-* Lynes, Russell, 1985, “Kudos for Clutter”, *Architectural Digest*, 41(3): 34–38.
-* Mandoki, Katya, 2007, *Everyday Aesthetics: Prosaics, the Play of Culture and Social Identities*, Aldershot, Hampshire: Ashgate.
-* –––, 2010, “The Third Tear in Everyday Aesthetics”, *Contemporary Aesthetics*, 8: article 4. \[[Mandoki 2010 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol8/iss1/4/)]
-* –––, 2012, “The Sense of Earthiness: Everyday Aesthetics”, *Diogenes*, 59(1–2): 138–147.
-* Martin, Lois, 2004, “*Patina* of Cloth”, *Surface Design Journal*, 28(4): 16–21.
-* Maskit, Jonathan, 2011, “The Aesthetics of Elsewhere: An Environmentalist Everyday Aesthetics”, *Aesthetic Pathways*, 1(2): 92–107.
-* Matteucci, Giovanni, 2016, “The Aesthetic as a Matter of Practices: Form of Life in Everydayness and Art”, *Comprendre*, 18(2): 9–28.
-* –––, 2017, “Everyday Aesthetics and Aestheticization: Reflectivity in Perception”, *Studi di estetica*, IV serie, 7: 207–227. \[[Matteucci 2017 available online](http://mimesisedizioni.it/journals/index.php/studi-di-estetica/article/view/535/912)]
-* Maxwell, Robert, 1993, *Sweet Disorder and the Carefully Careless: Theory and Criticism in Architecture*, New York: Princeton Architectural Press.
-* May, Harvey, 2011, “Aestheticization of Everyday Life”, *Encyclopedia of Consumer Culture*, Dale Southerton (ed.), pp. 15–19.
-* McCracken, Janet, 2001, *Taste and the Household: The Domestic Aesthetic and Moral Reasoning*, Albany: SUNY Press.
-* Melchionne, Kevin, 1998, “Living in Glass Houses: Domesticity, Interior Decoration, and Environmental Aesthetics”, *The Journal of Aesthetics and Art Criticism*, 56(2): 191–200.
-* –––, 2011, “Aesthetic Experience in Everyday Life: A Reply to Dowling”, *British Journal of Aesthetics*, 51(4): 437–442.
-* –––, 2013, “The Definition of Everyday Aesthetics”, *Contemporary Aesthetics*, 11: article 26. \[[Melchionne 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/26/)]
-* –––, 2014, “The Point of Everyday Aesthetics”, *Contemporary Aesthetics*, 12: article 17. \[[Melchionne 2014 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol12/iss1/17/)]
-* –––, 2017, “Aesthetic Choice”, *British Journal of Aesthetics*, 57(3): 283–298.
-* Miyahara, Kojiro, 2014, “Exploring Social Aesthetics: Aesthetic Appreciation as a Method for Qualitative Sociology and Social Research”, *International Journal of Japanese Sociology*, 23(1): 63–79.
-* Mladenović, Miloš N., Lehtinen, Sanna, Emily Sof, and Karel Martens, 2019, “Emerging Urban Mobility Technologies through the Lens of Everyday Urban Aesthetics: Case of Self-Driving Vehicle”, *Essays in Philosophy*, 20(2): Article 3, 1–25. \[[Mladenović et al. 2019 available online](https://commons.pacificu.edu/eip/vol20/iss2/3/)]
-* Mollar, Dan, 2014, “The Boring”, *The Journal of Aesthetics and Art Criticism*, 72(2): 181–191.
-* Moss, Hilary and Desmond O’Neill, 2013, “The Aesthetic and Cultural Interests of Patients Attending an Acute Hospital: A Phenomenological Study”, *Journal of Advanced Nursing*, 70(1): 121–9. doi:10.1111/jan.12175
-* –––, 2014, “Aesthetic Deprivation in Clinical Settings”, *The Lancet*, 383(9922): 1032–1033. doi:10.1016/S0140-6736(14)60507-9
-* Mullis, Eric, 2007, “The Ethics of Confucian Artistry”, *The Journal of Aesthetics and Art Criticism*, 65(1): 99–107.
-* Nanay, Bence, 2016, *Aesthetics as Philosophy of Perception*, Oxford: Oxford University Press.
-* –––, 2018, “The Aesthetic Experience of Artworks and Everyday Scenes”, *The Monist*, 101: 71–82.
-* Nassauer, Joan Iverson, 1995, “Messy Ecosystems, Orderly Frames”, *Landscape Journal*, 14(2): 161–170.
-* Naukkarinen, Ossi, 1999, *Aesthetics of the Unavoidable: Aesthetic Variations in Human Appearance*, Saarijärvi: Gummerus Kirjapaino Oy.
-* –––, 2013, “What is ‘Everyday’ in Everyday Aesthetics?” *Contemporary Aesthetics*, 11: article 14. \[[Naukkarinen 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/14/)]
-* –––, 2014, “Everyday Aesthetic Practices, Ethics and Tact”, *Aithesis*, 7(1): 23–44. \[[Naukkarinen 2014 available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/829)]
-* –––, 2017, “Everyday Aesthetics and Everyday Behavior”, *Contemporary Aesthetics*, 15: article 12. \[[Naukkarinen 2017 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/12/)]
-* ––– and Raine Vasquez, 2017, “Creating and Experiencing the Everyday Through Daily-Life”, *Experiencing the Everyday*, Carsten Friberg and Raine Vasquez (eds.), København, Denmark: NSU Press, pp. 166–189.
-* –––, 2019, “Feeling (with) Machines”, *Paths from the Philosophy of Art to Everyday Aesthetics*, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 180–200. \[[Naukkarinen 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
-* Naukkarinen, Ossi and Arto Haapala (eds.), 2005, *Aesthetics and Mobility*, Special Volume 1 of *Contemporary Aesthetics*. \[[Naukkarinen and Haapala 2005 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss1/)]
-* Naukkarinen, Ossi and Yuriko Saito (eds.), 2012, *Artification*, Special Volume 4 of *Contemporary Aesthetics*. \[[Naukkarinen and Saito 2012 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss4/)]
-* Ngai, Sianne, 2012, *Our Aesthetic Categories: Zany, Cute, Interesting*, Cambridge: Harvard University Press.
-* Nielsen, Henrik Kaare, 2005, “Totalizing Aesthetics? Aesthetic Theory and Aestheticization of Everyday Life”, *The Nordic Journal of Aesthetics*, 17(32): 60–75. \[[Nielsen 2005 available online](http://tidsskrift.dk/nja)]
-* Nomikos, Ariane, 2018, “Place *Matters*”,*The Journal of Aesthetics and Art Criticism*, 76(4): 453–462.
-* Norman, Donald A., 1990, *The Design of Everyday Things*, New York: Doubleday.
-* –––, 2004, *Emotional Design: Why We Love (or Hate) Everyday Things*, New York: Basic Books.
-* Norton, Brian Michael, 2015a, “*The Spectator* and Everyday Aesthetics”, *Lumen: Selected Proceedings from the Canadian Society for Eighteenth-Century Studies*, 34: 123–136. \[[Norton 2015a available online](https://www.erudit.org/en/journals/lumen/2015-v34-lumen01693/)]
-* –––, 2015b, “*The Spectator*, Aesthetic Experience and the Modern Idea of Happiness”, *English Literature*, 2(1): 87–104. \[[Norton 2015b available online](https://doaj.org/article/6f3ac143e8a04905a1217be2d50daf77)]
-* Novitz, David, 1992, *The Boundaries of Art: A Philosophical Inquiry into the Place of Art in Everyday Life*, Philadelphia: Temple University Press.
-* Orr, David, 2002, *The Nature of Design: Ecology, Culture, and Human Intention*, Oxford: Oxford University Press.
-* Otabe, Tanehisa, 2018, “The ‘Aesthetic Life’: A Leitmotif in Modern Japanese Aesthetics”, *Contemporary Aesthetics*, Special Volume 6 on *Aesthetic Consciousness in East Asia*, article 5. \[[Otabe 2018 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss6/5/)]
-* Paetzold, Heinz, 2012, “Aesthetics of Urban Design”, *Diogenes*, 59(1–2): 63–72.
-* –––, 2013, “The Aesthetics of City Strolling”, *Contemporary Aesthetics*, 11: article 23. \[[Paetzold 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/23/)]
-* Pahl, Kate, 2014, “The Aesthetics of Everyday Literacies: Home Writing Practices in a British Asian Household”, *Anthropology & Education Quarterly*, 45(3): 293–311. \[[Pahl 2014 available online](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aeq.12069)]
-* Pallasmaa, Juhani, 1999, “Toward an Architecture of Humility”, *Harvard Design Magazine*, Winter/Spring 1999: 22–25.
-* –––, 2005, *The Eyes of the Skin: Architecture and the Senses*, Chichester: Wiley-Academy.
-* Pan, Fan, 2014, “The Modern Issue of the Living Aesthetics of Traditional Chinese Scholars”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 165–172.
-* Papanek, Victor, 1992, *Design for the Real World: Human Ecology and Social Change*, Chicago: Academy Chicago Publishers.
-* –––, 1995, *The Green Imperative: Natural Design for the Real World*, New York: Thames and Hudson.
-* Parsons, Glenn and Allen Carlson, 2008, *Functional Beauty*, Oxford: Oxford University Press.
-* Paulson, Ronald, 1996, *The Beautiful, Novel, and Strange: Aesthetics and Heterodoxy*, Baltimore: The Johns Hopkins University Press.
-* Pearson, David, 1991, “Making Sense of Architecture”, *Architectural Review*, 1136: 68–70.
-* Pérez-Carreño, Francisca, 2019, “The Aesthetic Value of the Unnoticed”, *Paths from the Philosophy of Art to Everyday Aesthetics*, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 148–166. \[[Pérez-Carreño 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
-* Perullo, Nicola (ed.), 2012, *Wineworld. New Essays on Wine, Taste, Philosophy and Aesthetics*, issue of *Rivista di estetica*, 51. \[[Perullo 2012 available online](https://journals.openedition.org/estetica/)]
-* –––, 2016, *Taste as Experience: The Philosophy and Aesthetics of Food*, New York: Columbia University Press.
-* Pine, B. Joseph II and James H. Gilmore, 1998, “Welcome to the Experience Economy”, *Harvard Business Review*, July-August 1998: 97–105.
-* –––, 2013, “The Experience Economy: Past, Present and Future”, in Jon Sundbo and Flemming Sørenson (eds.), *Handbook on the Experience Economy*, Cheltenham: Edward Elgar Publishing, pp. 21–44.
-* Postrel, Virginia, 2003, *The Substance of Style: How the Rise of Aesthetic Value is Remaking Commerce, Culture, & Consciousness*, New York: Harper.
-* –––, 2013, *The Power of Glamour: Longing and the Art of Visual Persuasion*, New York: Simon & Schuster.
-* Potgieter, Frederick J., 2016a, “On Intersubjectivity in Art and Everyday Aesthetics”, *De Arte*, 51(2): 3–15.
-* –––, 2016b, “On Thinking about the Nexus between Art and Everyday Aesthetics”, *Critical Arts*, 30(5): 655–671.
-* –––, 2017, “An Educational Perspective and a Poststructural Position on Everyday Aesthetics and the Creation of Meaning”, *The Journal of Aesthetic Education*, 51(3): 72–90.
-* Prall, D. W., 1967, *Aesthetic Judgment*, New York: Thomas Y. Crowell Company.
-* Prose, Francine, 1999, “A Dirty Tablecloth, Deconstructed”, *ARTnews*, 98(9): 126–127.
-* Puolakka, Kalle, 2011, “Getting Rid of Bad Habits: The Proper Role of Imagination in Everyday Aesthetics”, *Aesthetic Pathways*, 1(2): 47–64.
-* –––, 2014, “Dewey and Everyday Aesthetics: A New Look”, *Contemporary Aesthetics*, 12: article 18. \[[Puolakka 2014 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol12/iss1/18/)]
-* –––, 2015, “The Aesthetic Pulse of the Everyday: Defending Dewey”, *Contemporary Aesthetics*, 13: article 5. \[[Puolakka 2015 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol13/iss1/5/)]
-* –––, 2017, “The Aesthetics of Conversation: Dewey and Davidson”, *Contemporary Aesthetics*, 15: article 20. \[[Puolakka 2017 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/20/)]
-* –––, 2018, “On Habits and Functions in Everyday Aesthetics”, *Contemporary Aesthetics*, 16: article 7. \[[Puolakka 2018 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol16/iss1/7/)]
-* –––, 2019, “Does Valery Gergiev Have An Everyday?”, *Paths from the Philosophy of Art to Everyday Aesthetics*, , Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 132–147. \[[Puolakka 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
-* Quacchia, Russell, 2016, “The Aesthetic Experience of Aura, Awe, and Wonder: Reflections on Their Nature and Relationships”, *Contemporary Aesthetics*, 14: article 10. \[[Quacchia 2016 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol14/iss1/10/)]
-* –––, 2017, “A Conceptual Framework for the Aesthetics of Everyday Object Appreciation”, *Contemporary Aesthetics*, 15: article 18. \[[Quacchia 2017 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/18/)]
-* Rader, Melvin and Bertram Jessup, 1976, *Art and Human Values*, Englewood Cliffs: Prentice-Hall.
-* Rancière, Jacques, 2009, *Aesthetics and Its Discontents*, Steven Corcoran (tr.), Cambridge: Polity Press.
-* Ratiu, Dan Eugen, 2013, “Remapping the Realm of Aesthetics: On Recent Controversies about the Aesthetic and the Aesthetic Experience in Everyday Life”, *Estetika: The Central European Journal of Aesthetics*, 50(6): 3–26. \[[Ratiu 2013 available online](https://www.academia.edu/3884599/Remapping\*the\*Realm\*of\*Aesthetics\*On\*Recent\*Controversies\*about\*the\*Aesthetic\*and\*the\*Aesthetic\*Experience\*in\*Everyday\*Life\*revised\*and\*augmented\*version\*)]
-* –––, 2017a, “Everyday Aesthetic Experience: Explorations by a Practical Aesthetics”, *Experiencing the Everyday*, Carsten Friberg and Raine Vasquez (eds.), København, Denmark: NSU Press, pp. 22–52.
-* –––, 2017b, “The Aesthetic Account of Everyday Life in Organizations: A Report on Recent Developments in Organizational Research”, *The Journal of Arts Management, Law, and Society*, 47(3): 178–191.
-* Rautio, Pauliina, 2009, “On Hanging Laundry: The Place of Beauty in Managing Everyday Life”, *Contemporary Aesthetics*, 7: article 7. \[[Rautio 2009 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol7/iss1/7/)]
-* Rhode, Deborah L., 2010, *Beauty Bias: The Injustice of Appearance in Life and Law*, Oxford: Oxford University Press.
-* Roberdeau, Wood, 2011, “Affirming Difference: Everyday Aesthetic Experience after Phenomenology”, *Contemporary Aesthetics*, 9: article 8. \[[Roberdeau 2011 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol9/iss1/8/)]
-* Rothenberg, Julia, 2011, “Aestheticization of Everyday Life”, *Encyclopedia of Consumer Culture*, ed. Dale Southerton, pp. 15–21.
-* Ruggerone, Lucia and Neil Jenkins, 2015, “Talking about Beauty: A Study of Everyday Aesthetics among Low-Income Citizens of Milan”, *Symbolic Interaction*, 38(3): 393–412.
-* Saito, Yuriko, 2001, “Everyday Aesthetics”, *Philosophy and Literature*, 25(1): 87–95.
-* –––, 2004 “Machines in the Ocean: The Aesthetics of Wind Farms”, *Contemporary Aesthetics*, 2: article 6. \[[Saito 2004 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol2/iss1/6/)]
-* –––, 2005, “The Aesthetics of Weather”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 156–176.
-* –––, 2007a, *Everyday Aesthetics*, Oxford: Oxford University Press.
-* –––, 2007b, “The Moral Dimension of Japanese Aesthetics”, *The Journal of Aesthetics and Art Criticism*, 65(1): 85–97.
-* –––, 2011, “The Power of the Aesthetic”, *Aesthetic Pathways*, 1(2): 11–25.
-* –––, 2012, “Everyday Aesthetics and World-Making”, *Contrastes: Revista Internacional de Filosofia*, (Supplement) 17: 255–274.
-* –––, 2014a, “Everyday Aesthetics”, in *Encyclopedia of Aesthetics*, 2 volumes, Michael Kelly (ed.), second edition, Oxford: Oxford University Press, Volume 2, pp. 525–529.
-* –––, 2014b, “Everyday Aesthetics in the Japanese Tradition”, in *Aesthetics of Everyday Life: East and West*, Liy Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 145–164.
-* –––, 2016, “Body Aesthetics and the Cultivation of Moral Virtues”, in *Body Aesthetics*, Sherri Irvin (ed.), Oxford: Oxford University Press, pp. 225–242. doi:10.1093/acprof:oso/9780198716778.003.0013
-* –––, 2017a, *Aesthetics of the Familiar: Everyday Life and World-Making*, Oxford: Oxford University Press.
-* –––, 2017b, “The Role of Imperfection in Everyday Aesthetics”, *Contemporary Aesthetics*, 15: article 15. \[[Saito 2017b available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/15/)]
-* –––, 2018a, “Everyday Aesthetics”, in *Aesthetics: A Reader in Philosophy of the Arts*, 4th edition, David Goldblatt, Lee B. Brown, and Stephanie Patridge (eds.), New York: Routledge, pp. 434–437.
-* –––, 2018b, “Consumer Aesthetics and Environmental Ethics: Problems and Possibilities”, *The Journal of Aesthetics and Art Criticism*, 76(4): 429–439.
-* Salwa, Mateusz, 2019, “Everyday Green Aesthetics”, *Paths from the Philosophy of Art to Everyday Aesthetics*, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 167–179. \[[Salwa 2018 available online](https://helda.helsinki.fi/handle/10138/302115)]
-* Sartwell, Crispin, 2003, “Aesthetics of the Everyday”, in *The Oxford Handbook of Aesthetics*, Jerrold Levinson (ed.), Oxford: Oxford University Press, pp. 761–770.
-* –––, 2004, *Six Names of Beauty*, New York: Routledge.
-* –––, 2010, *Political Aesthetics*, Ithaca: Cornell University Press.
-* Sasaki, Ken’ichi, 2013, “Perspectives East and West”, *Contemporary Aesthetics*, 11. \[[Sasaki 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/16/)]
-* Scarry, Elaine, 1999, *On Beauty and Being Just*, Princeton: Princeton University Press.
-* Schor, Juliet B., 2002, “Cleaning the Closet: Toward a New Fashion Ethic”, in Juliet B. Schor and Betsy Taylor (eds.), *Sustainable Planet: Solutions for the Twenty-first Century*, Boston: Beacon Press, pp. 45–60.
-* Schulze, Gerhard, 2013, “The Experience Market”, in Jon Sundbo and Flemming Sorenson (eds.), *Handbook on the Experience Economy*, Cheltenham: Edward Elgar Publishing, pp. 98–121.
-* Scruton, Roger, 2011, *Beauty: A Very Short Introduction*, Oxford: Oxford University Press.
-* Sepänmaa, Yrjö, 1995a, “Aesthetics in Practice: Prolegomenon”, in *Practical Aesthetics in Practice and in Theory*, Marti Honkanen (ed.), Helsinki: University of Helsinki, pp. 13–17.
-* –––, 1995b, “The Utilization of Environmental Aesthetics”, in *Real World Design: The Foundation and Practice of Environmental Aesthetics*, Yrjö Sepänmaa (ed.), Helsinki: University of Helsinki, pp. 7–10.
-* Sherman, Nancy, 2005, “Of Manners and Morals”, *British Journal of Educational Studies*, 53(3): 272–289.
-* Shiner, Larry, forthcoming, *Art Scents: Exploring the Aesthetics of Smell and the Olfactory Arts*, Oxford: Oxford University Press.
-* Shove, Elizabeth, Matthew Watson, Martin Hand and Jack Ingram, 2007, *The Design of Everyday Life*, Oxford: Berg.
-* Shove, Elizabeth, Frank Trentmann, and Richard Wilk (eds.), 2013, *Time, Consumption and Everyday Life*, London: Bloomsbury Academic.
-* Shusterman, Richard, 1992, *Pragmatist Aesthetics: Living Beauty, Rethinking Art*, Oxford: Blackwell.
-* –––, 1999, “Somaesthetics: A Disciplinary Proposal”, *Journal of Aesthetics and Art Criticism*, 57(3): 299–313.
-* –––, 2006, “Aesthetic Experience: From Analysis to Eros”, *The Journal of Aesthetics and Art Criticism*, 64(2): 217–229.
-* –––, 2012, *Thinking through the Body: Essays in Somaesthetics*, Cambridge: Cambridge University Press.
-* –––, 2013, “Everyday Aesthetics of Embodiment”, in *Rethinking Aesthetics: The Role of Body in Design*, Ritu Bhatt (ed.), New York: Routledge.
-* –––, 2015, “Transactional Experiential Inquiry: From Pragmatism to Somaesthetics”, *Contemporary Pragmatism*, 12(1): 180–195.
-* –––, 2016, “Somaesthetics and the Fine Art of Eating”, in *Body Aesthetics*, Sherri Irvin (ed.), Oxford: Oxford University Press.
-* –––, 2019, “Pleasure, Pain, and the Somaesthetics of Illness: A Question for Everyday Aesthetics”, *Paths from the Philosophy of Art to Everyday Aesthetics*, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 201–214. \[[Shusterman 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
-* Siebers, Tobin, 2010, *Disability Aesthetics*, Ann Arbor: The University of Michigan Press.
-* Simmmel, Georg, 2000, *Simmel on Culture: Selected Writings*, David Frisby and Mike Featherstone (eds.), London: SAGE Publications.
-* Simpson, Zachary, 2012, *Life as Art: Aesthetics and the Creation of Self*, New York: Lexington Books.
-* Soucek, Brian, 2009, “Resisting the Itch to Redefine Aesthetics: A Response to Sherri Irvin”, *The Journal of Aesthetics and Art Criticism*, 67(2): 223–226.
-* Spaid, Sue, 2002, *Ecovention: Current Art to Transform Ecologies*, Cincinnati: The Contemporary Arts Center.
-* –––, 2012, *Green Acres: Artists Farming Fields, Greenhouses and Abandoned Lots*, Cincinnati: Contemporary Arts Center.
-* Sparke, Penny, 1995, *As Long as It’s Pink: The Sexual Politics of Taste*, New York: HarperCollins.
-* Spelman, Elizabeth, 2002, *Repair: The Impulse to Restore in a Fragile World*, Boston: Beacon Press.
-* Stabb, Jo Ann, 2002, “Transformations: Trash to Art”, *Surface Design Journal*, 26(2): 14–19.
-* Stecker, Robert, 2019, *Intersections of Value: Art, Nature, and the Everyday*, Oxford: Oxford University Press.
-* Stohr, Karen, 2012, *On Manners*, New York: Routledge.
-* Stolnitz, Jerome, 1969, “The Aesthetic Attitude”, in *Introductory Readings in Aesthetics*, John Hospers (ed.), New York: The Free Press, pp. 17–27.
-* –––, 1977, “On the Origins of ‘Aesthetic Disinterestedness’”, in George Dickie and R. J. Sclafani (eds.), *Aesthetics: A Critical Anthology*, New York: St. Martin’s Press, pp. 607–625.
-* Stroud, Scott, 2011, *John Dewey and the Artful Life: Pragmatism, Aesthetics, and Morality*, University Park: Penn State University Press.
-* Tainio, Matti, 2015, *Parallel Worlds: Art and Sport in Contemporary Culture*, Helsinki: Aalto ARTS Books.
-* Tavin, Kevin, 2007, “Eyes Wide Shut: The Use and Uselessness of the Discourse of Aesthetics in Art Education”, *Art Education*, March: 40–45.
-* Taylor, Nigel, 2000, “Ethical Arguments about the Aesthetics of Architecture”, in *Ethics and the Built Environment*, Warwick Fox (ed.), London: Routledge, pp. 193–206.
-* Taylor, Paul C., 2016, *Black Is Beautiful: A Philosophy of Black Aesthetics*, Chichester: Wiley Blackwell.
-* Tuan, Yi-Fu, 1974, *Topophilia: A Study of Environmental Perception, Attitudes, and Values*, Englewood Cliffs: Prentice-Hall.
-* –––, 1984, *Dominance & Affection: The Making of Pets*, New Haven: Yale University Press.
-* –––, 1993, *Passing Strange and Wonderful: Aesthetics, Nature, and Culture*, Washington, D. C.: Island Press.
-* van der Meulen, Nicolaj and Jörg Wiesel (eds.), 2017, *Culinary Turn: Aesthetic Practice of Cookery*, Bielefeld: transcript Verlag. \[[van der Meulen and Wiesel 2017 available online](https://www.transcript-verlag.de/search?sSearch=culinary+turn)]
-* Vihalem, Margus, 2016, “What is at Stake in Everyday Aesthetics? Looking for a New Perspective on Aesthetic Experience”, *Kunstiteaduslikke Uurimusi*, 25(3/4): 38–61.
-* –––, 2018, “Everyday Aesthetics and Jacques Rancière: Reconfiguring the Common Field of Aesthetics and Politics”, *Journal of Aesthetics & Culture*, 10(1): 1–11. \[[Vihalem 2016 available online](http://www.tandfonline.com/doi/full/10.1080/20004214.2018.1506209)]
-* Vihma, Susann, 2012, “Artification for Well-Being: Institutional Living as a Special Case”, in Ossi Naukkarinen and Yuriko Saito (eds.), *Artification*, Special Volume 4 of *Contemporary Aesthetics*, article 13. \[[Vihma 2012 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss4/13/)]
-* Visser, Margaret, 1997, *The Way We Are: Astonishing Anthropology of Everyday Life*, New York: Kodansha International.
-* Walker, Stuart, 1995, “The Environment, Product Aesthetics and Surfaces”, *Design Issues*, 11(3): 15–27.
-* –––, 2006, *Sustainable by Design: Explorations in Theory and Practice*, London: Earthscan.
-* –––, 2017, *Design for Life: Creating Meaning in a Distracted World*, London: Routledge.
-* Wang, Que, 2014, “The Transition of Aesthetics in China and a New Paradigm of Living Aesthetics”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 173–182.
-* Wang, Zhoufei, 2018, “Atmospheric Design and Experience with an Exemplary Study of Olafur Eliasson’s ‘The Weather Project’”, in *Contemporary Aesthetics*, 16: article 15. \[[Z. Wang 2018 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol16/iss1/15/)].
-* Welsch, Wolfgang, 1997, *Undoing Aesthetics*, Andrew Inkpin (tr.), London: SAGE Publications.
-* –––, 2005, “Sport Viewed Aesthetically, and Even as Art?”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 135–155.
-* –––, 2014, “Schiller Revisited: ‘Beauty is Freedom in Appearance’: Aesthetics as a Challenge to the Modern Way of Thinking”,*Contemporary Aesthetics*, 12: article 16. \[[Welsch 2014 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol12/iss1/16/)]
-* Whiteley, Nigel, 1993, *Design for Society*, London: Reaktion Books.
-* –––, 1999, “Utility, Design Principles and the Ethical Tradition”, in *Utility Reassessed: The Role of Ethics in the Practice of Design*, Judy Attfield, (ed.), Manchester: Manchester University Press, pp. 190–202.
-* Widdows, Heather, 2018, *Perfect Me: Beauty as an Ethical Ideal*, Princeton: Princeton University Press.
-* Wiseman, Mary, 2014, “Damask Napkins and the Train from Sichuan: Aesthetic Experience and Ordinary Things”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 134–144.
-* Witherspoon, Gary, 1996, “Navajo Aesthetics: Beautifying the World through Art”, in *Aesthetics in Perspective*, Kathleen M. Higgins (ed.), Fort Worth: Harcourt Brace College Publishers, pp. 736–742.
-* Zande, Robin, 2007, “Chairs, Cars, and Bridges: Teaching Aesthetics from the Everyday”, *Art Education*, 60(1): 39–42.
-* Ziff, Paul, 1997, “Anything Viewed”, in Susan L. Feagin and Patrick Maynard (eds.), *Oxford Readers: Aesthetics*, Oxford: Oxford University Press, pp. 23–30.
+* ––– (ed.), 2016, _Body Aesthetics_, Oxford: Oxford University Press.
+* Johnstone, Stephen (ed.), 2008, _The Everyday_, Cambridge: MIT Press.
+* Kaprow, Allan, 1993, _Essays on the Blurring of Art and Life_, Jeff Kelley (ed.), Berkeley: University of California Press.
+* Kester, Grant H., 2004, _Conversation Pieces: Community and Communication in Modern Art_, Berkeley: University of California Press.
+* –––, 2011, _The One and the Many: Contemporary Collaborative Art in a Global Context_, Durham: Duke University Press.
+* Kim, Kwang Myung, 2013, “The Aesthetic Turn in Everyday Life in Korea”, _Open Journal of Philosophy_, 3(3): 359–365. \[[Kim 2013 available online](http://www.scirp.org/journal/paperinformation.aspx?paperid=35363)]
+* Korsmeyer, Carolyn, 1999, _Making Sense of Taste: Food and Philosophy_, Ithaca: Cornell University Press.
+* –––, 2005, _The Taste Culture Reader: Experiencing Food and Drink_, Oxford: Berg.
+* –––, 2011, _Savoring Disgust: The Foul & the Fair in Aesthetics_, Oxford: Oxford University Press.
+* –––, 2017, “Taste and Other Senses: Reconsidering the Foundations of Aesthetics”, _The Nordic Journal of Aesthetics_, 26(54): 20–34. \[[Korsmeyer 2017 available online](https://tidsskrift.dk/nja)]
+* Krawczyk, Marcin M., forthcoming“The Aesthetics and Financial Market: Beyond Mere Representing and Supporting”,_Contemporary Aesthetics_
+* Kuisma, Oiva, Sanna Lehtinen and Harri Mäcklin (eds.), 2019, _Paths from the Philosophy of Art to Everyday Aesthetics_, Helsinki: The Finnish Society for Aesthetics. \[[Kuisma et al. 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+* Kupfer, Joseph, 1983, _Experience as Art: Aesthetics in Everyday Life_, Albany: SUNY Press, 1983.
+* Lafebvre, Henri, 1991, _Critique of Everyday Life_, John Moore (tr.), London: Verso.
+* Lehtinen, Sanna, and Vesa Vihanninjoki, 2019, “Seeing new in the familiar: intensifying aesthetic engagement with the city through new location-based technologies”, _Behaviour and Information Technology_, 38: 1–8.
+* Leddy, Thomas, 1995, “Everyday Surface Aesthetic Qualities: ‘Neat,’ ‘Messy,’ ‘Clean,’ ‘Dirty’”, _The Journal of Aesthetics and Art Criticism_, 53(3): 259–268.
+* –––, 1997, “Sparkle and Shine”, _British Journal of Aesthetics_, 37(3): 259–273.
+* –––, 2005, “The Nature of Everyday Aesthetics”, in Andrew Light and Jonathan M. Smith (eds.), _The Aesthetics of Everyday Life_, New York: Columbia University Press, pp. 3–22.
+* –––, 2008, “The Aesthetics of Junkyards and Roadside Clutter”, _Contemporary Aesthetics_, 6: article 11. \[[Leddy 2008 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol6/iss1/11/)]
+* –––, 2012a, _The Extraordinary in the Ordinary: The Aesthetics of Everyday Life_, Peterborough: Broadview Press.
+* –––, 2012b, “Defending Everyday Aesthetics and the Concept of ‘Pretty’”, _Contemporary Aesthetics_, 10: article 8. \[[Leddy 2012b available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol10/iss1/8/)]
+* –––, 2012c, “Aestheticization, Artification, and Aquariums”, _Contemporary Aesthetics_, Special Volume 4: article 6. \[[Leddy 2012c available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss4/6/)]
+* –––, 2014a, “Everyday Aesthetics and Photography”, _Aithesis_, 7(1). \[[Leddy 2014a available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/830)]
+* –––, 2014b, “Everyday Aesthetics and Happiness”, in _Aesthetics of Everyday Life: East and West_, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 26–47.
+* –––, 2015, “Experience of Awe: An Expansive Approach to Everyday Aesthetics”, _Contemporary Aesthetics_, 13: article 8. \[[Leddy 2015 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol13/iss1/8/)]
+* –––, forthcoming, “Kant and Everyday Aesthetics”, _Kant’s Critique of Aesthetic Judgment in the Twentieth Century: A Historical and Critical Comparison of Its Main Interpretations_, Stefano Marino and Pietro Terzi (eds.), Berlin: De Gruyter.
+* –––, forthcoming, “Resolving the Tension of Everyday Aesthetics in a Deweyan Way”, _American Aesthetics Today: Theory and Practice_, Walter Gulick and Gary Slater (eds.), Albany: SUNY Press.
+* Lee, Jessica, 2010, “Home Life: Cultivating a Domestic Aesthetic”, _Contemporary Aesthetics_, 8: article 15. \[[Lee 2010 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol8/iss1/15/)]
+* Leonhardt, Gay, 1985, “An Eye for Peeling Paint”, _Landscape_, 28(2): 23–25.
+* Light, Andrew and Jonathan M. Smith, (eds.), 2005, _The Aesthetics of Everyday Life_, New York: Columbia University Press.
+* Linstead, Stephen and Heather Höpfl (eds.), 2000, _The Aesthetics of Organization_, London: SAGE Publications.
+* Lintott, Sheila, 2003, “Sublime Hunger: A Consideration of Eating Disorders beyond Beauty”, _Hypatia_, 18(4): 65–86.
+* –––, 2012, “The Sublimity of Gestating and Giving Birth: Toward a Feminist Conception of the Sublime”, in Sheila Lintott and Maureen Sander-Staudt (eds.), _Philosophical Inquiries Into Pregnancy, Childbirth, and Mothering: Maternal Subjects_, New York: Routledge, pp. 237–250.
+* Liu, Yuedi, 2014, “ ‘Living Aesthetics’ from the Perspective of the Intercultural Turn”, in _Aesthetics of Everyday Life: East and West_, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 14–25.
+* –––, 2017, “The Aesthetics of Living: Rooted in Chinese Soil and Going Global”, _Confucian Academy_, 4(4): 126–131.
+* –––, 2018, “From ‘Practice’ to ‘Living’: Main Trends of Chinese Aesthetic in the Past 40 Years”, _Frontiers of Philosophy in China_, 13(1): 139–149.
+* Liu, Yuedi and Curtis L. Carter (eds.), 2014, _Aesthetics of Everyday Life: East and West_, Newcastle upon Tyne: Cambridge Scholars Publishing.
+* Livingston, Paisley, 2015, “New Directions in Aesthetics”, in Anna Christina Ribeiro (ed.), _The Bloomsbury Companion to Aesthetics_, London: Bloomsbury Academic, pp. 255–263.
+* Lopes, Dominic McIver, 2014, _Beyond Art_, Oxford: Oxford University Press.
+* Lynes, Russell, 1985, “Kudos for Clutter”, _Architectural Digest_, 41(3): 34–38.
+* Mandoki, Katya, 2007, _Everyday Aesthetics: Prosaics, the Play of Culture and Social Identities_, Aldershot, Hampshire: Ashgate.
+* –––, 2010, “The Third Tear in Everyday Aesthetics”, _Contemporary Aesthetics_, 8: article 4. \[[Mandoki 2010 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol8/iss1/4/)]
+* –––, 2012, “The Sense of Earthiness: Everyday Aesthetics”, _Diogenes_, 59(1–2): 138–147.
+* Martin, Lois, 2004, “_Patina_ of Cloth”, _Surface Design Journal_, 28(4): 16–21.
+* Maskit, Jonathan, 2011, “The Aesthetics of Elsewhere: An Environmentalist Everyday Aesthetics”, _Aesthetic Pathways_, 1(2): 92–107.
+* Matteucci, Giovanni, 2016, “The Aesthetic as a Matter of Practices: Form of Life in Everydayness and Art”, _Comprendre_, 18(2): 9–28.
+* –––, 2017, “Everyday Aesthetics and Aestheticization: Reflectivity in Perception”, _Studi di estetica_, IV serie, 7: 207–227. \[[Matteucci 2017 available online](http://mimesisedizioni.it/journals/index.php/studi-di-estetica/article/view/535/912)]
+* Maxwell, Robert, 1993, _Sweet Disorder and the Carefully Careless: Theory and Criticism in Architecture_, New York: Princeton Architectural Press.
+* May, Harvey, 2011, “Aestheticization of Everyday Life”, _Encyclopedia of Consumer Culture_, Dale Southerton (ed.), pp. 15–19.
+* McCracken, Janet, 2001, _Taste and the Household: The Domestic Aesthetic and Moral Reasoning_, Albany: SUNY Press.
+* Melchionne, Kevin, 1998, “Living in Glass Houses: Domesticity, Interior Decoration, and Environmental Aesthetics”, _The Journal of Aesthetics and Art Criticism_, 56(2): 191–200.
+* –––, 2011, “Aesthetic Experience in Everyday Life: A Reply to Dowling”, _British Journal of Aesthetics_, 51(4): 437–442.
+* –––, 2013, “The Definition of Everyday Aesthetics”, _Contemporary Aesthetics_, 11: article 26. \[[Melchionne 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/26/)]
+* –––, 2014, “The Point of Everyday Aesthetics”, _Contemporary Aesthetics_, 12: article 17. \[[Melchionne 2014 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol12/iss1/17/)]
+* –––, 2017, “Aesthetic Choice”, _British Journal of Aesthetics_, 57(3): 283–298.
+* Miyahara, Kojiro, 2014, “Exploring Social Aesthetics: Aesthetic Appreciation as a Method for Qualitative Sociology and Social Research”, _International Journal of Japanese Sociology_, 23(1): 63–79.
+* Mladenović, Miloš N., Lehtinen, Sanna, Emily Sof, and Karel Martens, 2019, “Emerging Urban Mobility Technologies through the Lens of Everyday Urban Aesthetics: Case of Self-Driving Vehicle”, _Essays in Philosophy_, 20(2): Article 3, 1–25. \[[Mladenović et al. 2019 available online](https://commons.pacificu.edu/eip/vol20/iss2/3/)]
+* Mollar, Dan, 2014, “The Boring”, _The Journal of Aesthetics and Art Criticism_, 72(2): 181–191.
+* Moss, Hilary and Desmond O’Neill, 2013, “The Aesthetic and Cultural Interests of Patients Attending an Acute Hospital: A Phenomenological Study”, _Journal of Advanced Nursing_, 70(1): 121–9. doi:10.1111/jan.12175
+* –––, 2014, “Aesthetic Deprivation in Clinical Settings”, _The Lancet_, 383(9922): 1032–1033. doi:10.1016/S0140-6736(14)60507-9
+* Mullis, Eric, 2007, “The Ethics of Confucian Artistry”, _The Journal of Aesthetics and Art Criticism_, 65(1): 99–107.
+* Nanay, Bence, 2016, _Aesthetics as Philosophy of Perception_, Oxford: Oxford University Press.
+* –––, 2018, “The Aesthetic Experience of Artworks and Everyday Scenes”, _The Monist_, 101: 71–82.
+* Nassauer, Joan Iverson, 1995, “Messy Ecosystems, Orderly Frames”, _Landscape Journal_, 14(2): 161–170.
+* Naukkarinen, Ossi, 1999, _Aesthetics of the Unavoidable: Aesthetic Variations in Human Appearance_, Saarijärvi: Gummerus Kirjapaino Oy.
+* –––, 2013, “What is ‘Everyday’ in Everyday Aesthetics?” _Contemporary Aesthetics_, 11: article 14. \[[Naukkarinen 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/14/)]
+* –––, 2014, “Everyday Aesthetic Practices, Ethics and Tact”, _Aithesis_, 7(1): 23–44. \[[Naukkarinen 2014 available online](https://oajournals.fupress.net/index.php/aisthesis/article/view/829)]
+* –––, 2017, “Everyday Aesthetics and Everyday Behavior”, _Contemporary Aesthetics_, 15: article 12. \[[Naukkarinen 2017 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/12/)]
+* ––– and Raine Vasquez, 2017, “Creating and Experiencing the Everyday Through Daily-Life”, _Experiencing the Everyday_, Carsten Friberg and Raine Vasquez (eds.), København, Denmark: NSU Press, pp. 166–189.
+* –––, 2019, “Feeling (with) Machines”, _Paths from the Philosophy of Art to Everyday Aesthetics_, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 180–200. \[[Naukkarinen 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+* Naukkarinen, Ossi and Arto Haapala (eds.), 2005, _Aesthetics and Mobility_, Special Volume 1 of _Contemporary Aesthetics_. \[[Naukkarinen and Haapala 2005 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss1/)]
+* Naukkarinen, Ossi and Yuriko Saito (eds.), 2012, _Artification_, Special Volume 4 of _Contemporary Aesthetics_. \[[Naukkarinen and Saito 2012 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss4/)]
+* Ngai, Sianne, 2012, _Our Aesthetic Categories: Zany, Cute, Interesting_, Cambridge: Harvard University Press.
+* Nielsen, Henrik Kaare, 2005, “Totalizing Aesthetics? Aesthetic Theory and Aestheticization of Everyday Life”, _The Nordic Journal of Aesthetics_, 17(32): 60–75. \[[Nielsen 2005 available online](http://tidsskrift.dk/nja)]
+* Nomikos, Ariane, 2018, “Place _Matters_”,_The Journal of Aesthetics and Art Criticism_, 76(4): 453–462.
+* Norman, Donald A., 1990, _The Design of Everyday Things_, New York: Doubleday.
+* –––, 2004, _Emotional Design: Why We Love (or Hate) Everyday Things_, New York: Basic Books.
+* Norton, Brian Michael, 2015a, “_The Spectator_ and Everyday Aesthetics”, _Lumen: Selected Proceedings from the Canadian Society for Eighteenth-Century Studies_, 34: 123–136. \[[Norton 2015a available online](https://www.erudit.org/en/journals/lumen/2015-v34-lumen01693/)]
+* –––, 2015b, “_The Spectator_, Aesthetic Experience and the Modern Idea of Happiness”, _English Literature_, 2(1): 87–104. \[[Norton 2015b available online](https://doaj.org/article/6f3ac143e8a04905a1217be2d50daf77)]
+* Novitz, David, 1992, _The Boundaries of Art: A Philosophical Inquiry into the Place of Art in Everyday Life_, Philadelphia: Temple University Press.
+* Orr, David, 2002, _The Nature of Design: Ecology, Culture, and Human Intention_, Oxford: Oxford University Press.
+* Otabe, Tanehisa, 2018, “The ‘Aesthetic Life’: A Leitmotif in Modern Japanese Aesthetics”, _Contemporary Aesthetics_, Special Volume 6 on _Aesthetic Consciousness in East Asia_, article 5. \[[Otabe 2018 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss6/5/)]
+* Paetzold, Heinz, 2012, “Aesthetics of Urban Design”, _Diogenes_, 59(1–2): 63–72.
+* –––, 2013, “The Aesthetics of City Strolling”, _Contemporary Aesthetics_, 11: article 23. \[[Paetzold 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/23/)]
+* Pahl, Kate, 2014, “The Aesthetics of Everyday Literacies: Home Writing Practices in a British Asian Household”, _Anthropology & Education Quarterly_, 45(3): 293–311. \[[Pahl 2014 available online](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aeq.12069)]
+* Pallasmaa, Juhani, 1999, “Toward an Architecture of Humility”, _Harvard Design Magazine_, Winter/Spring 1999: 22–25.
+* –––, 2005, _The Eyes of the Skin: Architecture and the Senses_, Chichester: Wiley-Academy.
+* Pan, Fan, 2014, “The Modern Issue of the Living Aesthetics of Traditional Chinese Scholars”, in _Aesthetics of Everyday Life: East and West_, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 165–172.
+* Papanek, Victor, 1992, _Design for the Real World: Human Ecology and Social Change_, Chicago: Academy Chicago Publishers.
+* –––, 1995, _The Green Imperative: Natural Design for the Real World_, New York: Thames and Hudson.
+* Parsons, Glenn and Allen Carlson, 2008, _Functional Beauty_, Oxford: Oxford University Press.
+* Paulson, Ronald, 1996, _The Beautiful, Novel, and Strange: Aesthetics and Heterodoxy_, Baltimore: The Johns Hopkins University Press.
+* Pearson, David, 1991, “Making Sense of Architecture”, _Architectural Review_, 1136: 68–70.
+* Pérez-Carreño, Francisca, 2019, “The Aesthetic Value of the Unnoticed”, _Paths from the Philosophy of Art to Everyday Aesthetics_, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 148–166. \[[Pérez-Carreño 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+* Perullo, Nicola (ed.), 2012, _Wineworld. New Essays on Wine, Taste, Philosophy and Aesthetics_, issue of _Rivista di estetica_, 51. \[[Perullo 2012 available online](https://journals.openedition.org/estetica/)]
+* –––, 2016, _Taste as Experience: The Philosophy and Aesthetics of Food_, New York: Columbia University Press.
+* Pine, B. Joseph II and James H. Gilmore, 1998, “Welcome to the Experience Economy”, _Harvard Business Review_, July-August 1998: 97–105.
+* –––, 2013, “The Experience Economy: Past, Present and Future”, in Jon Sundbo and Flemming Sørenson (eds.), _Handbook on the Experience Economy_, Cheltenham: Edward Elgar Publishing, pp. 21–44.
+* Postrel, Virginia, 2003, _The Substance of Style: How the Rise of Aesthetic Value is Remaking Commerce, Culture, & Consciousness_, New York: Harper.
+* –––, 2013, _The Power of Glamour: Longing and the Art of Visual Persuasion_, New York: Simon & Schuster.
+* Potgieter, Frederick J., 2016a, “On Intersubjectivity in Art and Everyday Aesthetics”, _De Arte_, 51(2): 3–15.
+* –––, 2016b, “On Thinking about the Nexus between Art and Everyday Aesthetics”, _Critical Arts_, 30(5): 655–671.
+* –––, 2017, “An Educational Perspective and a Poststructural Position on Everyday Aesthetics and the Creation of Meaning”, _The Journal of Aesthetic Education_, 51(3): 72–90.
+* Prall, D. W., 1967, _Aesthetic Judgment_, New York: Thomas Y. Crowell Company.
+* Prose, Francine, 1999, “A Dirty Tablecloth, Deconstructed”, _ARTnews_, 98(9): 126–127.
+* Puolakka, Kalle, 2011, “Getting Rid of Bad Habits: The Proper Role of Imagination in Everyday Aesthetics”, _Aesthetic Pathways_, 1(2): 47–64.
+* –––, 2014, “Dewey and Everyday Aesthetics: A New Look”, _Contemporary Aesthetics_, 12: article 18. \[[Puolakka 2014 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol12/iss1/18/)]
+* –––, 2015, “The Aesthetic Pulse of the Everyday: Defending Dewey”, _Contemporary Aesthetics_, 13: article 5. \[[Puolakka 2015 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol13/iss1/5/)]
+* –––, 2017, “The Aesthetics of Conversation: Dewey and Davidson”, _Contemporary Aesthetics_, 15: article 20. \[[Puolakka 2017 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/20/)]
+* –––, 2018, “On Habits and Functions in Everyday Aesthetics”, _Contemporary Aesthetics_, 16: article 7. \[[Puolakka 2018 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol16/iss1/7/)]
+* –––, 2019, “Does Valery Gergiev Have An Everyday?”, _Paths from the Philosophy of Art to Everyday Aesthetics_, , Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 132–147. \[[Puolakka 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+* Quacchia, Russell, 2016, “The Aesthetic Experience of Aura, Awe, and Wonder: Reflections on Their Nature and Relationships”, _Contemporary Aesthetics_, 14: article 10. \[[Quacchia 2016 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol14/iss1/10/)]
+* –––, 2017, “A Conceptual Framework for the Aesthetics of Everyday Object Appreciation”, _Contemporary Aesthetics_, 15: article 18. \[[Quacchia 2017 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/18/)]
+* Rader, Melvin and Bertram Jessup, 1976, _Art and Human Values_, Englewood Cliffs: Prentice-Hall.
+* Rancière, Jacques, 2009, _Aesthetics and Its Discontents_, Steven Corcoran (tr.), Cambridge: Polity Press.
+* Ratiu, Dan Eugen, 2013, “Remapping the Realm of Aesthetics: On Recent Controversies about the Aesthetic and the Aesthetic Experience in Everyday Life”, _Estetika: The Central European Journal of Aesthetics_, 50(6): 3–26. \[[Ratiu 2013 available online](https://www.academia.edu/3884599/Remapping\*the\*Realm\*of\*Aesthetics\*On\*Recent\*Controversies\*about\*the\*Aesthetic\*and\*the\*Aesthetic\*Experience\*in\*Everyday\*Life\*revised\*and\*augmented\*version\*)]
+* –––, 2017a, “Everyday Aesthetic Experience: Explorations by a Practical Aesthetics”, _Experiencing the Everyday_, Carsten Friberg and Raine Vasquez (eds.), København, Denmark: NSU Press, pp. 22–52.
+* –––, 2017b, “The Aesthetic Account of Everyday Life in Organizations: A Report on Recent Developments in Organizational Research”, _The Journal of Arts Management, Law, and Society_, 47(3): 178–191.
+* Rautio, Pauliina, 2009, “On Hanging Laundry: The Place of Beauty in Managing Everyday Life”, _Contemporary Aesthetics_, 7: article 7. \[[Rautio 2009 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol7/iss1/7/)]
+* Rhode, Deborah L., 2010, _Beauty Bias: The Injustice of Appearance in Life and Law_, Oxford: Oxford University Press.
+* Roberdeau, Wood, 2011, “Affirming Difference: Everyday Aesthetic Experience after Phenomenology”, _Contemporary Aesthetics_, 9: article 8. \[[Roberdeau 2011 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol9/iss1/8/)]
+* Rothenberg, Julia, 2011, “Aestheticization of Everyday Life”, _Encyclopedia of Consumer Culture_, ed. Dale Southerton, pp. 15–21.
+* Ruggerone, Lucia and Neil Jenkins, 2015, “Talking about Beauty: A Study of Everyday Aesthetics among Low-Income Citizens of Milan”, _Symbolic Interaction_, 38(3): 393–412.
+* Saito, Yuriko, 2001, “Everyday Aesthetics”, _Philosophy and Literature_, 25(1): 87–95.
+* –––, 2004 “Machines in the Ocean: The Aesthetics of Wind Farms”, _Contemporary Aesthetics_, 2: article 6. \[[Saito 2004 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol2/iss1/6/)]
+* –––, 2005, “The Aesthetics of Weather”, in Andrew Light and Jonathan M. Smith (eds.), _The Aesthetics of Everyday Life_, New York: Columbia University Press, pp. 156–176.
+* –––, 2007a, _Everyday Aesthetics_, Oxford: Oxford University Press.
+* –––, 2007b, “The Moral Dimension of Japanese Aesthetics”, _The Journal of Aesthetics and Art Criticism_, 65(1): 85–97.
+* –––, 2011, “The Power of the Aesthetic”, _Aesthetic Pathways_, 1(2): 11–25.
+* –––, 2012, “Everyday Aesthetics and World-Making”, _Contrastes: Revista Internacional de Filosofia_, (Supplement) 17: 255–274.
+* –––, 2014a, “Everyday Aesthetics”, in _Encyclopedia of Aesthetics_, 2 volumes, Michael Kelly (ed.), second edition, Oxford: Oxford University Press, Volume 2, pp. 525–529.
+* –––, 2014b, “Everyday Aesthetics in the Japanese Tradition”, in _Aesthetics of Everyday Life: East and West_, Liy Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 145–164.
+* –––, 2016, “Body Aesthetics and the Cultivation of Moral Virtues”, in _Body Aesthetics_, Sherri Irvin (ed.), Oxford: Oxford University Press, pp. 225–242. doi:10.1093/acprof:oso/9780198716778.003.0013
+* –––, 2017a, _Aesthetics of the Familiar: Everyday Life and World-Making_, Oxford: Oxford University Press.
+* –––, 2017b, “The Role of Imperfection in Everyday Aesthetics”, _Contemporary Aesthetics_, 15: article 15. \[[Saito 2017b available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol15/iss1/15/)]
+* –––, 2018a, “Everyday Aesthetics”, in _Aesthetics: A Reader in Philosophy of the Arts_, 4th edition, David Goldblatt, Lee B. Brown, and Stephanie Patridge (eds.), New York: Routledge, pp. 434–437.
+* –––, 2018b, “Consumer Aesthetics and Environmental Ethics: Problems and Possibilities”, _The Journal of Aesthetics and Art Criticism_, 76(4): 429–439.
+* Salwa, Mateusz, 2019, “Everyday Green Aesthetics”, _Paths from the Philosophy of Art to Everyday Aesthetics_, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 167–179. \[[Salwa 2018 available online](https://helda.helsinki.fi/handle/10138/302115)]
+* Sartwell, Crispin, 2003, “Aesthetics of the Everyday”, in _The Oxford Handbook of Aesthetics_, Jerrold Levinson (ed.), Oxford: Oxford University Press, pp. 761–770.
+* –––, 2004, _Six Names of Beauty_, New York: Routledge.
+* –––, 2010, _Political Aesthetics_, Ithaca: Cornell University Press.
+* Sasaki, Ken’ichi, 2013, “Perspectives East and West”, _Contemporary Aesthetics_, 11. \[[Sasaki 2013 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol11/iss1/16/)]
+* Scarry, Elaine, 1999, _On Beauty and Being Just_, Princeton: Princeton University Press.
+* Schor, Juliet B., 2002, “Cleaning the Closet: Toward a New Fashion Ethic”, in Juliet B. Schor and Betsy Taylor (eds.), _Sustainable Planet: Solutions for the Twenty-first Century_, Boston: Beacon Press, pp. 45–60.
+* Schulze, Gerhard, 2013, “The Experience Market”, in Jon Sundbo and Flemming Sorenson (eds.), _Handbook on the Experience Economy_, Cheltenham: Edward Elgar Publishing, pp. 98–121.
+* Scruton, Roger, 2011, _Beauty: A Very Short Introduction_, Oxford: Oxford University Press.
+* Sepänmaa, Yrjö, 1995a, “Aesthetics in Practice: Prolegomenon”, in _Practical Aesthetics in Practice and in Theory_, Marti Honkanen (ed.), Helsinki: University of Helsinki, pp. 13–17.
+* –––, 1995b, “The Utilization of Environmental Aesthetics”, in _Real World Design: The Foundation and Practice of Environmental Aesthetics_, Yrjö Sepänmaa (ed.), Helsinki: University of Helsinki, pp. 7–10.
+* Sherman, Nancy, 2005, “Of Manners and Morals”, _British Journal of Educational Studies_, 53(3): 272–289.
+* Shiner, Larry, forthcoming, _Art Scents: Exploring the Aesthetics of Smell and the Olfactory Arts_, Oxford: Oxford University Press.
+* Shove, Elizabeth, Matthew Watson, Martin Hand and Jack Ingram, 2007, _The Design of Everyday Life_, Oxford: Berg.
+* Shove, Elizabeth, Frank Trentmann, and Richard Wilk (eds.), 2013, _Time, Consumption and Everyday Life_, London: Bloomsbury Academic.
+* Shusterman, Richard, 1992, _Pragmatist Aesthetics: Living Beauty, Rethinking Art_, Oxford: Blackwell.
+* –––, 1999, “Somaesthetics: A Disciplinary Proposal”, _Journal of Aesthetics and Art Criticism_, 57(3): 299–313.
+* –––, 2006, “Aesthetic Experience: From Analysis to Eros”, _The Journal of Aesthetics and Art Criticism_, 64(2): 217–229.
+* –––, 2012, _Thinking through the Body: Essays in Somaesthetics_, Cambridge: Cambridge University Press.
+* –––, 2013, “Everyday Aesthetics of Embodiment”, in _Rethinking Aesthetics: The Role of Body in Design_, Ritu Bhatt (ed.), New York: Routledge.
+* –––, 2015, “Transactional Experiential Inquiry: From Pragmatism to Somaesthetics”, _Contemporary Pragmatism_, 12(1): 180–195.
+* –––, 2016, “Somaesthetics and the Fine Art of Eating”, in _Body Aesthetics_, Sherri Irvin (ed.), Oxford: Oxford University Press.
+* –––, 2019, “Pleasure, Pain, and the Somaesthetics of Illness: A Question for Everyday Aesthetics”, _Paths from the Philosophy of Art to Everyday Aesthetics_, Oiva Kuisma, Sanna Lehtinen and Harri Mäcklin (eds.), Helsinki: The Finnish Society for Aesthetics, pp. 201–214. \[[Shusterman 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
+* Siebers, Tobin, 2010, _Disability Aesthetics_, Ann Arbor: The University of Michigan Press.
+* Simmmel, Georg, 2000, _Simmel on Culture: Selected Writings_, David Frisby and Mike Featherstone (eds.), London: SAGE Publications.
+* Simpson, Zachary, 2012, _Life as Art: Aesthetics and the Creation of Self_, New York: Lexington Books.
+* Soucek, Brian, 2009, “Resisting the Itch to Redefine Aesthetics: A Response to Sherri Irvin”, _The Journal of Aesthetics and Art Criticism_, 67(2): 223–226.
+* Spaid, Sue, 2002, _Ecovention: Current Art to Transform Ecologies_, Cincinnati: The Contemporary Arts Center.
+* –––, 2012, _Green Acres: Artists Farming Fields, Greenhouses and Abandoned Lots_, Cincinnati: Contemporary Arts Center.
+* Sparke, Penny, 1995, _As Long as It’s Pink: The Sexual Politics of Taste_, New York: HarperCollins.
+* Spelman, Elizabeth, 2002, _Repair: The Impulse to Restore in a Fragile World_, Boston: Beacon Press.
+* Stabb, Jo Ann, 2002, “Transformations: Trash to Art”, _Surface Design Journal_, 26(2): 14–19.
+* Stecker, Robert, 2019, _Intersections of Value: Art, Nature, and the Everyday_, Oxford: Oxford University Press.
+* Stohr, Karen, 2012, _On Manners_, New York: Routledge.
+* Stolnitz, Jerome, 1969, “The Aesthetic Attitude”, in _Introductory Readings in Aesthetics_, John Hospers (ed.), New York: The Free Press, pp. 17–27.
+* –––, 1977, “On the Origins of ‘Aesthetic Disinterestedness’”, in George Dickie and R. J. Sclafani (eds.), _Aesthetics: A Critical Anthology_, New York: St. Martin’s Press, pp. 607–625.
+* Stroud, Scott, 2011, _John Dewey and the Artful Life: Pragmatism, Aesthetics, and Morality_, University Park: Penn State University Press.
+* Tainio, Matti, 2015, _Parallel Worlds: Art and Sport in Contemporary Culture_, Helsinki: Aalto ARTS Books.
+* Tavin, Kevin, 2007, “Eyes Wide Shut: The Use and Uselessness of the Discourse of Aesthetics in Art Education”, _Art Education_, March: 40–45.
+* Taylor, Nigel, 2000, “Ethical Arguments about the Aesthetics of Architecture”, in _Ethics and the Built Environment_, Warwick Fox (ed.), London: Routledge, pp. 193–206.
+* Taylor, Paul C., 2016, _Black Is Beautiful: A Philosophy of Black Aesthetics_, Chichester: Wiley Blackwell.
+* Tuan, Yi-Fu, 1974, _Topophilia: A Study of Environmental Perception, Attitudes, and Values_, Englewood Cliffs: Prentice-Hall.
+* –––, 1984, _Dominance & Affection: The Making of Pets_, New Haven: Yale University Press.
+* –––, 1993, _Passing Strange and Wonderful: Aesthetics, Nature, and Culture_, Washington, D. C.: Island Press.
+* van der Meulen, Nicolaj and Jörg Wiesel (eds.), 2017, _Culinary Turn: Aesthetic Practice of Cookery_, Bielefeld: transcript Verlag. \[[van der Meulen and Wiesel 2017 available online](https://www.transcript-verlag.de/search?sSearch=culinary+turn)]
+* Vihalem, Margus, 2016, “What is at Stake in Everyday Aesthetics? Looking for a New Perspective on Aesthetic Experience”, _Kunstiteaduslikke Uurimusi_, 25(3/4): 38–61.
+* –––, 2018, “Everyday Aesthetics and Jacques Rancière: Reconfiguring the Common Field of Aesthetics and Politics”, _Journal of Aesthetics & Culture_, 10(1): 1–11. \[[Vihalem 2016 available online](http://www.tandfonline.com/doi/full/10.1080/20004214.2018.1506209)]
+* Vihma, Susann, 2012, “Artification for Well-Being: Institutional Living as a Special Case”, in Ossi Naukkarinen and Yuriko Saito (eds.), _Artification_, Special Volume 4 of _Contemporary Aesthetics_, article 13. \[[Vihma 2012 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss4/13/)]
+* Visser, Margaret, 1997, _The Way We Are: Astonishing Anthropology of Everyday Life_, New York: Kodansha International.
+* Walker, Stuart, 1995, “The Environment, Product Aesthetics and Surfaces”, _Design Issues_, 11(3): 15–27.
+* –––, 2006, _Sustainable by Design: Explorations in Theory and Practice_, London: Earthscan.
+* –––, 2017, _Design for Life: Creating Meaning in a Distracted World_, London: Routledge.
+* Wang, Que, 2014, “The Transition of Aesthetics in China and a New Paradigm of Living Aesthetics”, in _Aesthetics of Everyday Life: East and West_, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 173–182.
+* Wang, Zhoufei, 2018, “Atmospheric Design and Experience with an Exemplary Study of Olafur Eliasson’s ‘The Weather Project’”, in _Contemporary Aesthetics_, 16: article 15. \[[Z. Wang 2018 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol16/iss1/15/)].
+* Welsch, Wolfgang, 1997, _Undoing Aesthetics_, Andrew Inkpin (tr.), London: SAGE Publications.
+* –––, 2005, “Sport Viewed Aesthetically, and Even as Art?”, in Andrew Light and Jonathan M. Smith (eds.), _The Aesthetics of Everyday Life_, New York: Columbia University Press, pp. 135–155.
+* –––, 2014, “Schiller Revisited: ‘Beauty is Freedom in Appearance’: Aesthetics as a Challenge to the Modern Way of Thinking”,_Contemporary Aesthetics_, 12: article 16. \[[Welsch 2014 available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol12/iss1/16/)]
+* Whiteley, Nigel, 1993, _Design for Society_, London: Reaktion Books.
+* –––, 1999, “Utility, Design Principles and the Ethical Tradition”, in _Utility Reassessed: The Role of Ethics in the Practice of Design_, Judy Attfield, (ed.), Manchester: Manchester University Press, pp. 190–202.
+* Widdows, Heather, 2018, _Perfect Me: Beauty as an Ethical Ideal_, Princeton: Princeton University Press.
+* Wiseman, Mary, 2014, “Damask Napkins and the Train from Sichuan: Aesthetic Experience and Ordinary Things”, in _Aesthetics of Everyday Life: East and West_, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 134–144.
+* Witherspoon, Gary, 1996, “Navajo Aesthetics: Beautifying the World through Art”, in _Aesthetics in Perspective_, Kathleen M. Higgins (ed.), Fort Worth: Harcourt Brace College Publishers, pp. 736–742.
+* Zande, Robin, 2007, “Chairs, Cars, and Bridges: Teaching Aesthetics from the Everyday”, _Art Education_, 60(1): 39–42.
+* Ziff, Paul, 1997, “Anything Viewed”, in Susan L. Feagin and Patrick Maynard (eds.), _Oxford Readers: Aesthetics_, Oxford: Oxford University Press, pp. 23–30.
 
 ## Academic Tools
 
@@ -527,4 +527,4 @@ This bibliography includes only contemporary works in English. For classical phi
 [Adorno, Theodor W.](https://plato.stanford.edu/entries/adorno/) | [aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: environmental](https://plato.stanford.edu/entries/environmental-aesthetics/) | [aesthetics: existentialist](https://plato.stanford.edu/entries/aesthetics-existentialist/) | [art, definition of](https://plato.stanford.edu/entries/art-definition/) | [Baudrillard, Jean](https://plato.stanford.edu/entries/baudrillard/) | [beauty](https://plato.stanford.edu/entries/beauty/) | [Benjamin, Walter](https://plato.stanford.edu/entries/benjamin/) | [Chinese Philosophy: Chan Buddhism](https://plato.stanford.edu/entries/buddhism-chan/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [feminist philosophy, interventions: aesthetics](https://plato.stanford.edu/entries/feminism-aesthetics/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [Heidegger, Martin: aesthetics](https://plato.stanford.edu/entries/heidegger-aesthetics/) | [Japanese Philosophy: aesthetics](https://plato.stanford.edu/entries/japanese-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [Schiller, Friedrich](https://plato.stanford.edu/entries/schiller/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-Yuriko Saito <[*ysaito@risd.edu*](mailto:ysaito%40risd%2eedu)>
+Yuriko Saito <[_ysaito@risd.edu_](mailto:ysaito%40risd%2eedu)>

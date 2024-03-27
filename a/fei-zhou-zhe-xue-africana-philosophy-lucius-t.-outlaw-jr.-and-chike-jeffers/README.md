@@ -1,6 +1,6 @@
 # 非洲哲学 Africana Philosophy (Lucius T. Outlaw Jr. and Chike Jeffers)
 
-*首次发布于 2010 年 10 月 11 日；实质性修订于 2017 年 5 月 23 日*
+_首次发布于 2010 年 10 月 11 日；实质性修订于 2017 年 5 月 23 日_
 
 “非洲哲学”是一个新兴且仍在发展中的思想领域的名称，它包括学术哲学内外的思想和思想空间、知识努力、论述和辞说网络。从 20 世纪 80 年代开始，这一领域被国家和国际专业哲学家组织（包括美国哲学协会）承认为如此。因此，这个名称并不指代特定的哲学、哲学体系、方法或传统。相反，“非洲哲学”是一个第三层次的、元哲学的、总体概念，用于对各种哲学思辨努力进行组织监督——即通过反思性的、批判性的思考和表达以及审美表达的活动，由非洲人和非洲裔人民进行，他们是非洲大陆的土著居民，也是世界各地的许多非洲散居地的居民。在所有情况下，大部分哲学思辨的目的是为了在个体和共享生活以及自然和社会世界上赋予有意义的秩序，同时解决不断出现的、紧迫的、根本性的对存在的挑战，以便在连续的几代人中生存、持久和繁荣。
 
@@ -36,9 +36,9 @@
 
 在这些社会建构的历史基础上，有几个关键的启发性假设是作为元哲学概念的“非洲哲学”组织知识实践的核心。首先，假设有足够的人类学、历史和其他共同点和相似之处，这些共同点和相似之处在被认定为“非洲人”或“非洲血统”的许多生物文化群体中，或多或少地被分享，并且这些思想在这些群体中由个人表达，并与群体内外的其他人进行辩论。这些认同是“非洲”大陆上的人民被命名为“非洲”的国家的人民试图通过对另一个被命名为“欧洲”的大陆的人民进行种族同质化本体论的努力而产生的结果，这是一种地缘政治和人类学统一的愿望。许多“欧洲人”开始相信，在他们众多的差异之下，存在着一种共同性，通过共享的种族和其他构成美德，这种共同性定义了他们作为全球主导者的人类学和历史上的优越性，这是神学和哲学上被认可的命运的先驱者。正是在这种有毒的信念和愿望的混合中，特定的欧洲人开始构建种族化、等级排序的哲学人类学，通过这种人类学，他们将一个多样的民族大陆解释为一个单一的“种族”，即“非洲人”或“黑人”。这些创造性的历史的结果，通过复杂的、持续数个世纪的与欧洲帝国主义的斗争以及非洲人和非洲血统人对殖民和奴役的适应，为“非洲哲学”概念所假设的共同性提供了依据，这些共同性是在与欧洲人和欧洲散居地的人民的帝国主义压迫相遇后，非洲人和非洲血统人的哲学思考的结果。
 
-这第一个假设受到第二个假设的限制：即非洲人和非洲裔人的生物文化群体在种族或其他方面既不是均质的，也不是个体或集体上的，而是由差异和不同之处以及相似性和共同之处构成的。尤其是各个群体在不同的地理、政治和历史位置上创造了不同的生活世界，这是欧洲人和其他人对他们生活的强加和干扰的结果；另一方面，与其他人，包括欧洲人和欧洲裔人的生活互动和文化交流，导致了个体和群体的基因、历史、文化、利益和愿望的差异。此外，共同的相似性和共同之处被理解为是*偶然的*，因此不是必要的、固有的和固定的，因此对于所有非洲人或非洲裔人来说都是相同的。这个假设排除了关于非洲和非洲裔人的所谓决定性“自然”特征的任何非历史的、先验的主张，这些主张被认为在广泛的历史时期和地理文化空间中被非偶然地广泛和普遍地分享。*非洲哲学*作为一个排序概念，既不是已经被所有正确思考的非洲人和/或非洲裔人分享或将要分享的统一哲学的承诺，也不是对统一哲学的渴望。关于非洲人和非洲裔人的哲学思想和表达的总是偶然的区别特征以及这些特征在多大程度上、在什么情况下、以及为了什么目的而被分享的判断，应该通过哲学人类学、知识社会学和知识史的综合努力来实现：也就是说，通过对哲学思考实例的*历史和社会文化定位的比较研究*来实现。
+这第一个假设受到第二个假设的限制：即非洲人和非洲裔人的生物文化群体在种族或其他方面既不是均质的，也不是个体或集体上的，而是由差异和不同之处以及相似性和共同之处构成的。尤其是各个群体在不同的地理、政治和历史位置上创造了不同的生活世界，这是欧洲人和其他人对他们生活的强加和干扰的结果；另一方面，与其他人，包括欧洲人和欧洲裔人的生活互动和文化交流，导致了个体和群体的基因、历史、文化、利益和愿望的差异。此外，共同的相似性和共同之处被理解为是_偶然的_，因此不是必要的、固有的和固定的，因此对于所有非洲人或非洲裔人来说都是相同的。这个假设排除了关于非洲和非洲裔人的所谓决定性“自然”特征的任何非历史的、先验的主张，这些主张被认为在广泛的历史时期和地理文化空间中被非偶然地广泛和普遍地分享。_非洲哲学_作为一个排序概念，既不是已经被所有正确思考的非洲人和/或非洲裔人分享或将要分享的统一哲学的承诺，也不是对统一哲学的渴望。关于非洲人和非洲裔人的哲学思想和表达的总是偶然的区别特征以及这些特征在多大程度上、在什么情况下、以及为了什么目的而被分享的判断，应该通过哲学人类学、知识社会学和知识史的综合努力来实现：也就是说，通过对哲学思考实例的_历史和社会文化定位的比较研究_来实现。
 
-第三个假设：*非洲哲学*不应被视为对被认定为非洲人或非洲裔人的哲学家具有规范性的规定，也不应该对他们的哲学思考提出要求或要求其达到什么目的，因为他们的种族/族裔身份。这些身份既不赋予也不要求特定的哲学承诺或义务。非洲和非洲裔思想家之间的实质性差异已经被承认并必须继续被考虑在内，以便对非洲哲学进行排序并制定议程。对于一些非洲人和非洲裔人来说，他们的身份对于他们的哲学思考并不重要，这种情况已经存在，现在也会继续存在。
+第三个假设：_非洲哲学_不应被视为对被认定为非洲人或非洲裔人的哲学家具有规范性的规定，也不应该对他们的哲学思考提出要求或要求其达到什么目的，因为他们的种族/族裔身份。这些身份既不赋予也不要求特定的哲学承诺或义务。非洲和非洲裔思想家之间的实质性差异已经被承认并必须继续被考虑在内，以便对非洲哲学进行排序并制定议程。对于一些非洲人和非洲裔人来说，他们的身份对于他们的哲学思考并不重要，这种情况已经存在，现在也会继续存在。
 
 特别重要的是，非洲哲学的研究也受到这样的假设的制约，即贡献者不必是非洲人或非洲裔。这一假设建立在这样的理解基础上：非洲人和非洲裔的个人在哲学上表达思想和审美表达的条件、动机、方式、议程和重要性可以被识别、理解、研究、教授、评论，并且可以被非非洲人或非非洲裔的人以尊重的能力接受。凭借他们的能力，这些人可以适当地被称为“非洲学家”、“加勒比非洲学家”或“非洲裔美国学家”。
 
@@ -56,7 +56,7 @@
 
 虽然许多现代哲学学科的先驱者参与了机构化的专业哲学，但他们也是新一代自由斗士的智力和精神成员，或者受到他们的重大影响。因此，许多人从规范化的哲学动机和思想传统之外获得了哲学工作的动力、愿望和资源。在激励和鼓舞的榜样和解放运动的遗产的推动下，他们承担起挑战学科的工作，以在其知识和组织结构和过程中创造空间，以便他们能够追求对非洲和非洲裔人士以及自己作为非洲和非洲裔人士在哲学上参与的人士而言具有哲学重要性的问题的考虑议程。
 
-在这些挑战中，首先需要重新考虑关于“哲学”思想本质的长期主导性定义假设：即，这样的思想以对智慧的热爱追求为特征，由具有最高级别的纪律思维形式的人们进行，并且他们的生活物质条件使他们有闲暇时间和精力来进行*反思性思考*并通过*写作*进行系统表达。
+在这些挑战中，首先需要重新考虑关于“哲学”思想本质的长期主导性定义假设：即，这样的思想以对智慧的热爱追求为特征，由具有最高级别的纪律思维形式的人们进行，并且他们的生活物质条件使他们有闲暇时间和精力来进行_反思性思考_并通过_写作_进行系统表达。
 
 对于当代非洲哲学的许多先驱者来说，这个理想哲学家的形象并不适合尊重地识别或描述许多非洲和非洲裔的哲学思考和表达的人们，尤其是那些生活在几个世纪前的人们。当然，在非洲人和非洲裔人民与欧洲人、欧美人以及其他人民之间发生的根本性冲突和非人性化的相遇的几个世纪中，正如哲学家伦纳德·哈里斯所指出的那样，黑人的哲学努力确实是“由斗争而生”。因此，许多这些人的经历和哲学思考，以及数百万与他们同时代的人、数百万在他们之前的人和数百万在他们之后的人的经历和哲学思考，都深受种族化和性别化的压迫性殖民主义在他们的家园中的影响；对于其他人来说，这些影响来自于在数千英里之外的“新世界”被种族化和性别化的捕获、迁移、奴役和压迫；在所有这些情况下，都受到了种族化和性别化的帝国主义侵犯他们“存在”的核心，他们被迫成为和被殖民化的“土著”和奴隶，无论是本体论上还是社会经济上。那些设法在这样的条件下生存和忍受的人们需要协调的努力来恢复和保持人格和民族的完整性，甚至是基本的人性，因此需要思考性的本体论和政治工作，具有最基本的重要性。同样，还需要进行关于道德、伦理、认识论、社会、宗教、神学和美学等方面的重要智力努力。
 
@@ -92,7 +92,7 @@
 
 这些辩论和讨论出现的历史背景以及进行的背景，完全受到欧洲殖民统治和对非洲人民的剥削的影响，这种剥削通过对种族特征进行等级排序来合理化。这种合理化工作在很大程度上得到了欧洲经典哲学家的智力努力的支持。大卫·休谟在他的《民族特征论》的脚注中，对黑人与白人的“天然劣等性”进行了哲学思考（休谟 1742 年），并得到了伊曼努尔·康德的支持（康德 1764 年），他在人类学著作中阐述了自己关于劣等和优等种族类型的理论（康德 1798 年）。由于连续几代的欧洲和欧美白人通过这些被认为是经过哲学上合理推理、科学验证和神学认可的教导，被教育成了普遍共享的对自己种族优越性的常识，他们大多数人认为，有能力产生与哲学同等水平思想的非洲人是完全荒谬的。
 
-争议的核心是一个紧迫的问题，即非洲人是否与模范人类——欧洲人、白人，即所有白人和人类的化身——在智力上完全和足够地具备人性。这个模范人类的定义特征是理性和口才（*logos*）。因此，比利时传教士普拉西德·坦佩尔斯提出的“班图哲学”（Bantu Philosophy）的主张，即班图非洲人（由主导语言班图语言（Bantu）所辨识的相关族群）拥有一种土著哲学，对于支撑殖民统治和剥削的种族化哲学本体论和人类学构成了严峻的挑战。然而，坦佩尔斯通过声称班图非洲人没有对他们的哲学有意识的知识，来缓和他的主张所带来的不安定的影响。相反，他声称，正是他能够利用他在哲学方面的培训所掌握的工具，对班图人的语言和实践进行解释，提取构成他们语言实践和规范行为中的运作哲学的认识论和价值论。
+争议的核心是一个紧迫的问题，即非洲人是否与模范人类——欧洲人、白人，即所有白人和人类的化身——在智力上完全和足够地具备人性。这个模范人类的定义特征是理性和口才（_logos_）。因此，比利时传教士普拉西德·坦佩尔斯提出的“班图哲学”（Bantu Philosophy）的主张，即班图非洲人（由主导语言班图语言（Bantu）所辨识的相关族群）拥有一种土著哲学，对于支撑殖民统治和剥削的种族化哲学本体论和人类学构成了严峻的挑战。然而，坦佩尔斯通过声称班图非洲人没有对他们的哲学有意识的知识，来缓和他的主张所带来的不安定的影响。相反，他声称，正是他能够利用他在哲学方面的培训所掌握的工具，对班图人的语言和实践进行解释，提取构成他们语言实践和规范行为中的运作哲学的认识论和价值论。
 
 尽管如此，“班图哲学”的影响还是相当大的。特别重要的是，这些争论引发的辩论帮助研究人员和学者在几个学科（人类学、民族学、历史学、宗教学、哲学）中将注意力引向“传统”非洲各族群的思想系统的辨识和探索。一些在非洲各族群中生活和研究多年的欧洲学者和研究人员很高兴地发现，在坦佩尔斯的书中，他们对非洲人的思想系统、社会组织和艺术创造力的积极评价得到了证实。然而，其他人对坦佩尔斯的主张持不同意见，并对他进行了挑战，特别是批评他错误地将班图族非洲人的语言和行为中的“哲学动力”误认为发展出适当哲学表达能力的证据。这位批评者得出结论，班图非洲人尚未满足“起飞”进入适当哲学表达的概念条件（Crahay 1965）。其他从事比较探索非洲各族群思想系统的学者通过提供一些明确证据，反驳了这种批评，证明了这些系统非常有能力和发展完善的理性（Forde 1954；Fortes 1965）。
 
@@ -108,11 +108,11 @@
 
 这些发展的持续成熟在于不同的哲学取向、议程和焦点的出现，这反过来又促使几位思想家努力发展批判性的、元哲学的概述，以解释它们的出现和意义、它们的相似性和差异。奥德拉·奥鲁卡（1990a）提供了一个这样的概述，并将之称为非洲哲学中的四个“潮流”。其中一个已经提到的，他与其他人一起称之为“民族哲学”，即试图确定和解释特定非洲民族群体所共有的思想和表达方式、行为和行为方式的哲学体系和意义的二级作品。另一个潮流，之前已经提到是奥鲁卡发起的，他称之为“哲学智慧”，以区分他认为是独立思考的本土思想家的严谨和批判性反思。奥鲁卡认为，“民族意识形态”哲学是由积极参与政治生活的人们的表达构成的，特别是那些领导或在非洲独立斗争中做出重大贡献的人们，他们试图通过创造新的解放性社会和政治秩序来表达观念。他对第四个潮流的称呼是“专业哲学”，这是为了指代学术上受过训练的专业教师和学者以及他们的学生所做的工作。
 
-在非洲大陆上，对哲学思维趋势的其他微妙描述和审视已经得到了发展。O. Nkombe 和 Alphonse J. Smet（1978）确定了一种*意识形态*趋势，与 Oruka 的“民族主义意识形态潮流”相似，包括几条非常丰富的社会政治思想线索，致力于重建非洲人民的政治和文化状况，这些状况是欧洲帝国主义、奴役和殖民主义的结果：非洲人格；泛非主义；黑人主义；非洲人道主义；非洲社会主义；科学社会主义；意识主义；非洲“真实性”。第二个趋势是*传统主义*，包括与 Oruka 的贤者哲学相似的努力，这些努力集中于确定传统非洲思想家的哲学思维实践，探索这些实践的哲学方面，并研究这些实践如何导致智慧和秘传知识的积累。Nkombe 和 Smet 确定了第三个趋势：*批判性*思想家的智力取向和实践，这些思想家通过从熟悉的左翼批判（马克思主义）、自由民主主义和对欧洲其他思想传统的创造性借鉴中提取规范和策略来对*意识形态*和*传统主义*趋势中的人们的项目进行批判。*批判性*群体的思想家将“民族哲学”这个标签应用于*传统主义*趋势中的一些思想实例，正如前面所提到的，将后者的思维方式与民族志学更相似的思维方式区分开来。最后，Nkombe 和 Smet 将第四个群体标记为*综合*趋势，这一趋势以哲学解释学的运用来探索问题并研究在非洲背景下出现的新问题。
+在非洲大陆上，对哲学思维趋势的其他微妙描述和审视已经得到了发展。O. Nkombe 和 Alphonse J. Smet（1978）确定了一种_意识形态_趋势，与 Oruka 的“民族主义意识形态潮流”相似，包括几条非常丰富的社会政治思想线索，致力于重建非洲人民的政治和文化状况，这些状况是欧洲帝国主义、奴役和殖民主义的结果：非洲人格；泛非主义；黑人主义；非洲人道主义；非洲社会主义；科学社会主义；意识主义；非洲“真实性”。第二个趋势是_传统主义_，包括与 Oruka 的贤者哲学相似的努力，这些努力集中于确定传统非洲思想家的哲学思维实践，探索这些实践的哲学方面，并研究这些实践如何导致智慧和秘传知识的积累。Nkombe 和 Smet 确定了第三个趋势：_批判性_思想家的智力取向和实践，这些思想家通过从熟悉的左翼批判（马克思主义）、自由民主主义和对欧洲其他思想传统的创造性借鉴中提取规范和策略来对_意识形态_和_传统主义_趋势中的人们的项目进行批判。_批判性_群体的思想家将“民族哲学”这个标签应用于_传统主义_趋势中的一些思想实例，正如前面所提到的，将后者的思维方式与民族志学更相似的思维方式区分开来。最后，Nkombe 和 Smet 将第四个群体标记为_综合_趋势，这一趋势以哲学解释学的运用来探索问题并研究在非洲背景下出现的新问题。
 
-其他学者对非洲的这些和其他传统或哲学思维方式给予了稍有不同的描述，并且重要的是，他们还确定了新的发展。其中一个例子是尼日利亚已故哲学家 Emmanuel Chukwudi Eze 的开创性的元哲学和选集工作，他将来自非洲、非洲散居地和其他国家的当代学者和艺术家的跨学科著作引入了美国和非洲的学术哲学思维空间和讨论社群，他们都是*后殖民主义*哲学思维的重要贡献者。这些是对非洲人和非洲裔人民在各种由殖民主义定义的国家和跨国情境中面临的挑战和机遇的批判性探索，这些情境中，政治解放并没有结束非洲人民的苦难，解决个人和社会身份的长期问题，或解决关于个体与社群之间最合适的关系、关于妇女和男性的适当角色和责任以及他们之间的关系、关于几个世纪不公正和非人性化之后的正义和公平、以及关于社会和政治生活的最合适方式的问题（Eze 1997）。
+其他学者对非洲的这些和其他传统或哲学思维方式给予了稍有不同的描述，并且重要的是，他们还确定了新的发展。其中一个例子是尼日利亚已故哲学家 Emmanuel Chukwudi Eze 的开创性的元哲学和选集工作，他将来自非洲、非洲散居地和其他国家的当代学者和艺术家的跨学科著作引入了美国和非洲的学术哲学思维空间和讨论社群，他们都是_后殖民主义_哲学思维的重要贡献者。这些是对非洲人和非洲裔人民在各种由殖民主义定义的国家和跨国情境中面临的挑战和机遇的批判性探索，这些情境中，政治解放并没有结束非洲人民的苦难，解决个人和社会身份的长期问题，或解决关于个体与社群之间最合适的关系、关于妇女和男性的适当角色和责任以及他们之间的关系、关于几个世纪不公正和非人性化之后的正义和公平、以及关于社会和政治生活的最合适方式的问题（Eze 1997）。
 
-*后殖民主义*的概念具有启发性的价值不容忽视，因为在 19 世纪和 20 世纪的非洲，击败了古典的直接殖民企图的各种情况，都被间接统治或新殖民主义所妥协，通过西欧和美国跨国资本企业以及所谓提供咨询和援助的多国组织和机构对新非洲国家的经济控制。为了全面了解在经济、政治、社会和文化生活等方面实现全面国家独立和自决的前景，必须充分认识到这些妥协。决定性的问题是非洲国家将以何种条件、通过何种策略应对新兴挑战，其中一些挑战的规模和性质既不是“传统”非洲思想家所遇到或想象得到的，甚至不是当代思想家所能想象的。最重要的挑战是来自艾滋病毒/艾滋病的威胁，它在人口统计学上以及在其他生活领域的影响与贩卖奴隶时期的人口减少相当，但对不同年龄组的影响有所不同。同样具有挑战性的是武装斗争的优先性和效力问题，以及在最近和持续的非洲大陆历史中，这些冒险涉及将儿童征入军队作为武装战士。还有其他挑战：政治治理的条件和实践，尤其是在国家层面上，许多非洲国家都在与崩溃或因腐败、严重经济剥削、人力资本严重欠发达（尤其是女性）、食物和其他重要资源匮乏以及种族肯定和种族谴责“走向帝国”的种族灭绝运动所带来的瘫痪等问题作斗争。
+_后殖民主义_的概念具有启发性的价值不容忽视，因为在 19 世纪和 20 世纪的非洲，击败了古典的直接殖民企图的各种情况，都被间接统治或新殖民主义所妥协，通过西欧和美国跨国资本企业以及所谓提供咨询和援助的多国组织和机构对新非洲国家的经济控制。为了全面了解在经济、政治、社会和文化生活等方面实现全面国家独立和自决的前景，必须充分认识到这些妥协。决定性的问题是非洲国家将以何种条件、通过何种策略应对新兴挑战，其中一些挑战的规模和性质既不是“传统”非洲思想家所遇到或想象得到的，甚至不是当代思想家所能想象的。最重要的挑战是来自艾滋病毒/艾滋病的威胁，它在人口统计学上以及在其他生活领域的影响与贩卖奴隶时期的人口减少相当，但对不同年龄组的影响有所不同。同样具有挑战性的是武装斗争的优先性和效力问题，以及在最近和持续的非洲大陆历史中，这些冒险涉及将儿童征入军队作为武装战士。还有其他挑战：政治治理的条件和实践，尤其是在国家层面上，许多非洲国家都在与崩溃或因腐败、严重经济剥削、人力资本严重欠发达（尤其是女性）、食物和其他重要资源匮乏以及种族肯定和种族谴责“走向帝国”的种族灭绝运动所带来的瘫痪等问题作斗争。
 
 学者们努力开展有关非洲哲学趋势、潮流和思想流派的信息性和批判性元哲学综述的努力，部分是为了通过这些和其他紧迫挑战来形成新的概念，这些努力证实了学术哲学家和其他知识分子和艺术家在非洲大陆上出现的丰富多样的正式哲学思辨，以及他们努力的持续成熟。其中相当一部分知识分子、哲学家等人与其他学者和艺术家及其组织建立了国际关系；其中一些人在美国、加拿大、法国、德国、英国和其他国家接受正规教育并在高等教育机构工作，甚至搬迁到这些国家。在此过程中，许多人还发展了专业关系、实践和成就，并得到了广泛的批判性关注，他们的作品被添加到课程和研讨会的阅读材料中。这些运动、搬迁、跨国关系的培养以及出版作品的文献扩展丰富了新的思想空间的发展、思想的流通、新的话语社群的形成，从而在很大程度上促进了非洲哲学的发展。现在已经有非洲哲学的历史和主要著作集，由专业的非洲、非洲裔和其他哲学家出版，由主要的跨国出版公司出版，涵盖了一个不断扩大的主题列表，这些主题在学术哲学中早已确立：历史研究；方法论、逻辑、认识论、形而上学、伦理学和美学问题；宗教哲学；政治和社会哲学（Hallen 2009；Kwame 1995；Mosley 1995；Wiredu 2004）。在一些值得注意的例子中，这些哲学思辨是通过有意识地探索特定族群生活世界中已定型思维的表达来进行的。这种探索正在以越来越多的数量进行，并在此过程中通过建立文化和民族学背景下的思维研究的合法性和资源性，使“民族哲学”这一曾经被贬低的概念恢复并赋予新的意义和启发性方向。此外，这些研究对于哲学思辨的比较研究也将是重要的（Bell 2002）。希望这些努力能够激发世界其他地区进行类似的研究，为增进我们对全球哲学思辨的理解做出贡献，并遏制某些哲学话语模式中的错误概括做法，例如将经典希腊和欧洲思想家的思辨特征或显著特点描述为“普遍”的同时对这些思辨的种族/民族、文化和性别特征保持沉默，以借口说这些问题对思想家的“哲学”无关紧要。
 
@@ -138,7 +138,7 @@
 
 ## 6. 源于斗争的非裔美国哲学思考
 
-美国是几个新世界散居背景之一，这些背景是“非裔美国哲学”这一标题下进行的恢复和研究工作的重点。接下来是一个历史背景下的讨论，涉及到几个出现了*源于斗争的哲学思考*的例子。然而，要求非裔美国人的深思熟虑、批判性反思的表达首先满足二十世纪末和二十一世纪初学科专业人士确定的“正确推理”严格、正式标准，这将是一种伦理上的悲剧和认识论上的现代主义帝国主义。非裔美国人被视为值得专业哲学家批判性关注的哲学思考实例，他们对一级生活经验的反思和推理所处的背景在很大程度上受到白人种族至上主义项目和构成性的有害人类学的议程和社会逻辑的制约，而不是由抽象形式推理的学术逻辑所主导的议程。日常生活中种族奴役和压迫的紧迫需求是促使反思思考的原因，而不是悠闲的抽象推测。再次强调，必须在历史和解释学的距离中见证和欣赏几个世纪以来由当代个人和社会自由所构建的历史和生活世界经验的本质，这些经验的表达、哲学思考被认为是*源于斗争的*。
+美国是几个新世界散居背景之一，这些背景是“非裔美国哲学”这一标题下进行的恢复和研究工作的重点。接下来是一个历史背景下的讨论，涉及到几个出现了_源于斗争的哲学思考_的例子。然而，要求非裔美国人的深思熟虑、批判性反思的表达首先满足二十世纪末和二十一世纪初学科专业人士确定的“正确推理”严格、正式标准，这将是一种伦理上的悲剧和认识论上的现代主义帝国主义。非裔美国人被视为值得专业哲学家批判性关注的哲学思考实例，他们对一级生活经验的反思和推理所处的背景在很大程度上受到白人种族至上主义项目和构成性的有害人类学的议程和社会逻辑的制约，而不是由抽象形式推理的学术逻辑所主导的议程。日常生活中种族奴役和压迫的紧迫需求是促使反思思考的原因，而不是悠闲的抽象推测。再次强调，必须在历史和解释学的距离中见证和欣赏几个世纪以来由当代个人和社会自由所构建的历史和生活世界经验的本质，这些经验的表达、哲学思考被认为是_源于斗争的_。
 
 新世界非洲人和非洲裔人民必须耗费大量心力来应对他们被奴役和压迫的制度化，这种制度化是以种族化为基础的，因此被自然化，并且被每一种有意识、规范化的思想和审美表达所认可和证明——法律、科学、神学、宗教、哲学、美学和世俗的“常识”。（有关美国非裔人生活的历史记载，请参见弗兰克林和莫斯，2000 年。）在每种情况下，一个主要的资源是一个基本的形而上学和本体论的“单位概念”，即一个等级制度的伟大链条（洛夫乔伊，1964 年），每个种族都被认为有一个固定和决定性的位置。因此，作为活的“财产”，被奴役的非洲人和他们的后代被迫以此方式生活，以实现他们的购买和维护的投资，即进行生产劳动，没有报酬，并且忍受和再生作为本体奴隶，以维持和证明他们被囚禁的制度。根据这种被认为是神圣认可的哲学人类学，非洲和非洲裔的儿童、妇女和男子被定义为构成一种存在范畴，其中没有任何规范的道德和伦理概念和原则适用于文明生活。被压入一个伦理上的空无范畴，他们被迫过着社会死亡的生活，剥夺了由先前历史、更新的现在和想象和期待的繁荣的未来所构成的赋予意义的定义网络。
 
@@ -158,19 +158,19 @@
 
 如果废除了奴隶制度，那些积极发声的黑人倡导者认为对黑人男性和女性来说，最合适的生活方式和目标是什么？
 
-对于一些人来说，这可能涉及到*同化*，即一个种族和/或民族群体被另一个群体吸收的过程，有些是身体上的，也有一些是社会文化上的，其中一个群体放弃自己的种族和/或民族文化特色，接受另一个群体的生活世界特征和实践。对于早期的非裔美国同化主义者来说，这意味着接受作为非裔美国人生活的适当和足够的目标，即国家明确的文化、社会、政治和经济理想，尽管通常不会赞同白人种族的优越性，作为证明他们的人性和他们已经从“野蛮”状态“崛起”为“文明”的证据，尤其是通过成为基督教徒。
+对于一些人来说，这可能涉及到_同化_，即一个种族和/或民族群体被另一个群体吸收的过程，有些是身体上的，也有一些是社会文化上的，其中一个群体放弃自己的种族和/或民族文化特色，接受另一个群体的生活世界特征和实践。对于早期的非裔美国同化主义者来说，这意味着接受作为非裔美国人生活的适当和足够的目标，即国家明确的文化、社会、政治和经济理想，尽管通常不会赞同白人种族的优越性，作为证明他们的人性和他们已经从“野蛮”状态“崛起”为“文明”的证据，尤其是通过成为基督教徒。
 
-然而，在将一个参与思考的思想家的承诺和愿望描述为“同化主义”时，必须特别小心。虽然在某些情况下这个标签是合适和有用的，但在其他情况下，这个标签经常被误用或放错位置，因为一些思想家在表达他们在各种问题上的立场时非常微妙：例如，在倡导同化主流经济思想、原则和实践的同时，又倡导黑人在社会、文化和政治上的独立。道格拉斯是最著名的非裔美国文化和政治同化主义者之一，他是一个有教育意义的例子。他不是主张将黑人种族同化到白人种族中，相反，他更倾向于将所有不同种族同化为一个单一的混合种族，这样就不再有不同的种族，也就不再有对于高位和低位地位的渴望。T.托马斯·福尔琳（1856-1928）和亨利·海兰·加内特（1815-1881）在文化和经济同化方面表达了类似的观点。福尔琳是一位记者，也是黑人工会组织和政治独立的倡导者（《黑人的政治独立》1884 年），而激进的废奴主义者加内特曾经坚信“*这个西方世界注定要充满混血种族*”（《有色种族的过去、现状和命运》（1848 年；1996 年，第 200 页），原文强调）。
+然而，在将一个参与思考的思想家的承诺和愿望描述为“同化主义”时，必须特别小心。虽然在某些情况下这个标签是合适和有用的，但在其他情况下，这个标签经常被误用或放错位置，因为一些思想家在表达他们在各种问题上的立场时非常微妙：例如，在倡导同化主流经济思想、原则和实践的同时，又倡导黑人在社会、文化和政治上的独立。道格拉斯是最著名的非裔美国文化和政治同化主义者之一，他是一个有教育意义的例子。他不是主张将黑人种族同化到白人种族中，相反，他更倾向于将所有不同种族同化为一个单一的混合种族，这样就不再有不同的种族，也就不再有对于高位和低位地位的渴望。T.托马斯·福尔琳（1856-1928）和亨利·海兰·加内特（1815-1881）在文化和经济同化方面表达了类似的观点。福尔琳是一位记者，也是黑人工会组织和政治独立的倡导者（《黑人的政治独立》1884 年），而激进的废奴主义者加内特曾经坚信“_这个西方世界注定要充满混血种族_”（《有色种族的过去、现状和命运》（1848 年；1996 年，第 200 页），原文强调）。
 
 另一方面，在十七、十八和十九世纪的奴隶制时期，有一些黑人女性和男性坚决拒绝以任何方式和条件与白人同化。这种情绪在导致内战的几十年中尤为突出，因为对于被认为是自由出生和获得自由的人来说，情况变得更加局限，1850 年通过《逃亡奴隶法》剥夺了任何逃亡和前奴隶的法律保护，该法律规定任何白人都可以逮捕任何无法证明自己自由身份的黑人，并将其送回奴役。加内特对这个法律所创造的环境做出了回应，他代表了那些成为黑人移民非洲倡导者的黑人。他是非洲文明协会的创始人，该组织倡导美国黑人移民非洲，与美国殖民协会的情况不同，后者是由白人组织的，旨在将麻烦的废奴主义者自由黑人移民到利比里亚，这个殖民地是由白人美国人以联邦支持的方式建立的，他们意图保留奴隶制度和白人种族优越性。
 
-*移民主义者*的考虑和计划在这一时期变得突出，由其他非常有能力的活动家思想家提出并以有说服力的力量倡导，其中包括爱德华·布莱登（1832-1912），詹姆斯·T·霍利（1829-1911）和马丁·德兰尼（1812-1883）。德兰尼的《美国有色人种的状况、提升、移民和命运》（1852）是对美国流行的“公民”观念的特别有理论基础的批评，详细描述了影响有色人种的条件，包括他认为他们过度依赖“道德理论化”，而不足够依赖比较研究其他“民族”在由敌对民族（即种族）群体主导的国家内受压迫历史的实用政治推理（德兰尼 1852; 2004）。根据他的分析，德兰尼确信有色人种在美国无法享受完全公民身份的生活和完全的尊重和权利。因此，他推理，有色人种应该离开这个国家去南美建立自己独立的国家（尽管后来他会主张移民到非洲）。（然而，当内战爆发时，德兰尼被他在出版《北极星》报纸时的同事弗雷德里克·道格拉斯说服，加入其他黑人男子组成一个团队，帮助联邦军队击败南方邦联军队和南方继续奴役和压迫黑人的议程。）
+_移民主义者_的考虑和计划在这一时期变得突出，由其他非常有能力的活动家思想家提出并以有说服力的力量倡导，其中包括爱德华·布莱登（1832-1912），詹姆斯·T·霍利（1829-1911）和马丁·德兰尼（1812-1883）。德兰尼的《美国有色人种的状况、提升、移民和命运》（1852）是对美国流行的“公民”观念的特别有理论基础的批评，详细描述了影响有色人种的条件，包括他认为他们过度依赖“道德理论化”，而不足够依赖比较研究其他“民族”在由敌对民族（即种族）群体主导的国家内受压迫历史的实用政治推理（德兰尼 1852; 2004）。根据他的分析，德兰尼确信有色人种在美国无法享受完全公民身份的生活和完全的尊重和权利。因此，他推理，有色人种应该离开这个国家去南美建立自己独立的国家（尽管后来他会主张移民到非洲）。（然而，当内战爆发时，德兰尼被他在出版《北极星》报纸时的同事弗雷德里克·道格拉斯说服，加入其他黑人男子组成一个团队，帮助联邦军队击败南方邦联军队和南方继续奴役和压迫黑人的议程。）
 
 然而，值得注意的是，移民主义者往往不仅出于逃避各种形式和程度的对他们种族存在和人性的不尊重的愿望而选择迁往非洲，尤其是为了实现在该大陆上从事传教工作的愿望，以通过教育和基督教化将当地人从“野蛮”提升到“文明”。例如，爱德华·布莱登在利比里亚从事教育和传教工作的时间很长。詹姆斯·T·霍利则主张移民到海地，并在那里定居，他还撰写了一部长篇著作，致力于“捍卫黑人种族的内在能力，为自我治理和文明进步辩护”（《黑人种族自我治理和文明进步的辩护》1857）。他是一位牧师。剑桥大学女王学院毕业的亚历山大·克鲁梅尔（1819-1898）也是如此，他将自己的二十年时间投入到利比里亚和塞拉利昂的教育和传教工作中，然后在美国从事牧师工作。克鲁梅尔（《美国自由有色人种与非洲的关系和义务》1860;《美国的种族问题》1888）是一位强大而非常有口才的思想家、作家、演讲者和组织者，具有威严的存在。他是美国黑人学院（1897-1924）的主要创始人，该学院是一群聪明的头脑和积极参与的黑人男子的聚会，致力于分析美国黑人的生活条件，确定如何最好地保护他们免受几个世纪奴役的持续破坏，并确定如何最好地发展种族以实现政治和社会平等以及经济正义。
 
 在这些人物的案例中，值得批判性探索的是：他们在多大程度上以及在什么条件下接受了（同化了）欧洲和欧美的“文明”观念，以及一个人或一个民族被称为“文明”的过程和条件，特别是性格状态。从他们的著作和传教工作的逻辑来看，无论是在美国境内还是在其他国家，这两位人物都没有接受长期存在的关于黑人种族“固有”和无法根除的劣势的论点。相反，仔细审视他们的表达，可以发现他们每个人都坚信，非洲大陆的文明劣势以及美国境内性格不足的无知、受限制的黑人，是由白人的奴役和种族主义所造成的剥夺条件所致。这些人的传教工作的核心，以及许多他们的同时代人和后继者，包括在美国“提升”被奴役和获得自由的人们的人士，都是基于一个有原则和专注的承诺，即对上帝赋予的黑人种族的人性和内在价值的深思熟虑和有力表达的信念，以及对教育和种族独立的改善和进步效益的热切和同样专注的信念。这些开创性人物中的每一个都将自己视为黑人实现实质性、质量上的发展和进步潜力的活生生例证，与那些为奴役和限制黑人发展可能性范围而理性化和寻求正当化的人对种族的描述相反。许多这样的人的表达已经被保存在大量的著作中，这些著作与奴役、对自由和正义的渴望和追求以及宪法上的民主和多种族的美国应该如何成为，以包容有色人种作为完全公民和完全受尊重的人类。他们的确是“诞生于斗争的哲学思考”。
 
-毫无疑问，对于美国非洲裔人民来说，十九世纪六十年代至六十五年代的内战期间以及随后的重建时期是一个特别敏感的历史时期。这段时间内，白人支持者们在北部和东部致力于发展工业和金融资本主义，同时也希望保留联邦制度，他们主张一种渴望成为贵族的文化，认为自己的种族优越性是合理的。而南方的白人支持者们则主张一种地区文明，以农业资本主义为基础，通过奴隶劳动支持的暴力贵族式的白人霸权。他们为了保护自己独特的文明项目，从联邦中脱离出来，组建了南方联盟。对于许多黑人来说，他们希望联邦军队能在战争中取得胜利，废除奴隶制度，他们将获得自由并享受完全的公民权利。有不少黑人以各种方式投身于支持联邦的努力中，甚至有些人成为了战斗士兵。弗雷德里克·道格拉斯在说服亚伯拉罕·林肯总统允许黑人男子加入联邦军队并参与战斗方面发挥了重要作用，并说服了许多人加入。1863 年，林肯总统颁布了《解放宣言》，解放了南方联盟中的奴隶，两年后，联邦军在内战中取得了胜利，黑人和其他反对奴隶制度的人们似乎迎来了*欢庆的日子*。
+毫无疑问，对于美国非洲裔人民来说，十九世纪六十年代至六十五年代的内战期间以及随后的重建时期是一个特别敏感的历史时期。这段时间内，白人支持者们在北部和东部致力于发展工业和金融资本主义，同时也希望保留联邦制度，他们主张一种渴望成为贵族的文化，认为自己的种族优越性是合理的。而南方的白人支持者们则主张一种地区文明，以农业资本主义为基础，通过奴隶劳动支持的暴力贵族式的白人霸权。他们为了保护自己独特的文明项目，从联邦中脱离出来，组建了南方联盟。对于许多黑人来说，他们希望联邦军队能在战争中取得胜利，废除奴隶制度，他们将获得自由并享受完全的公民权利。有不少黑人以各种方式投身于支持联邦的努力中，甚至有些人成为了战斗士兵。弗雷德里克·道格拉斯在说服亚伯拉罕·林肯总统允许黑人男子加入联邦军队并参与战斗方面发挥了重要作用，并说服了许多人加入。1863 年，林肯总统颁布了《解放宣言》，解放了南方联盟中的奴隶，两年后，联邦军在内战中取得了胜利，黑人和其他反对奴隶制度的人们似乎迎来了_欢庆的日子_。
 
 看起来是这样的。随后是一个短暂而欢欣鼓舞的法定自由时期，期间黑人在许多曾是南方联盟的州中担任选举和任命职务，并在其他生活领域取得了初步的重要进展。然而，战后（1877 年）北部和东部的共和党经济和政治势力与南方的民主党达成了所谓的妥协，解决了一场有争议的总统选举（共和党人鲁塞尔·B·海斯和民主党人塞缪尔·J·蒂尔登之间的竞争），并允许南方在该地区重新获得权力，作为交换，共和党在联邦政府中获得霸权。
 
@@ -186,9 +186,9 @@
 
 事实并非如此。事实上，华盛顿在演讲中明确表示“法律的所有特权都应该是我们的……”他进一步阐述了一个愿景：“让我们祈求上帝，这种更高的善将以消除地区差异、种族敌意和猜疑为代价，以决心实施绝对公正，以各个阶层对法律的命令心甘情愿的服从”（华盛顿 1895 年；1992 年，第 359 页）。显然，焦虑的有权有势的白人听到了他们想听到的，而不是华盛顿希望他们听到的全部内容。他们认定华盛顿是一个“好而安全”的黑人，并迅速将他指定为他们所认可的“黑人领袖”。华盛顿为了自己的自负和黑人种族的利益（根据他自己的推理），迎合了他们。他在执行一种微妙而务实的策略方面非常出色，即戴上一副似乎迎合白人霸权的面具，同时推动通过强调纪律行为、节俭、工业和农业劳动以及拥有财产的教育来实现黑人的赋权和自给自足（同时秘密支持黑人争取政治平等）。作为一个扩大的人物，他在全国范围内促使白人向黑人提供慷慨和影响力，并作为阿拉巴马州图斯克吉学院的创始行政和教育领导者，该学院继续为非洲裔后裔提供教育，布克·华盛顿的哲学思考、政治参与和实际努力将产生广泛、深远和持久的影响。
 
-华盛顿在公开场合和多个方面受到了来自黑人思想家和活动家的挑战，其中包括睿智而不可抑制的思想学者（以及其他身份）威廉·爱德华·伯格哈特·杜波依斯（1868-1963）。他的哲学立场和改变黑人生存条件的策略与华盛顿对白人社会霸权的表面适应*明显*不同。在一些人看来，华盛顿更应该被描述为一位社会分离主义者和经济政治保守派，致力于黑人经济独立，尤其是在全国经济的某些领域中黑人的主导地位导致白人对黑人的生产力依赖更加强烈。为此，对于华盛顿和类似的保守派妥协主义者来说，白人的经济和政治霸权应该通过黑人的表面接受来巧妙处理，这掩盖了有色人种追求经济自立、完全的政治公民权以及最终的社会接受的秘密反对。这种接受是通过教育和实践诚实、社会生产和经济回报的工作来形成和行使良好品德和责任感来“赢得”的。
+华盛顿在公开场合和多个方面受到了来自黑人思想家和活动家的挑战，其中包括睿智而不可抑制的思想学者（以及其他身份）威廉·爱德华·伯格哈特·杜波依斯（1868-1963）。他的哲学立场和改变黑人生存条件的策略与华盛顿对白人社会霸权的表面适应_明显_不同。在一些人看来，华盛顿更应该被描述为一位社会分离主义者和经济政治保守派，致力于黑人经济独立，尤其是在全国经济的某些领域中黑人的主导地位导致白人对黑人的生产力依赖更加强烈。为此，对于华盛顿和类似的保守派妥协主义者来说，白人的经济和政治霸权应该通过黑人的表面接受来巧妙处理，这掩盖了有色人种追求经济自立、完全的政治公民权以及最终的社会接受的秘密反对。这种接受是通过教育和实践诚实、社会生产和经济回报的工作来形成和行使良好品德和责任感来“赢得”的。
 
-然而，杜波依斯主张立即承认和尊重黑人的公民权利（尽管他支持对*所有*选民行使选举权的资格限制），社会平等和经济正义。他成为华盛顿领导的坚决批评者（《关于布克·华盛顿先生和其他人》1903 年），对后者的逐渐妥协主义感到不耐烦，认为这对那些已经准备好、甚至过期的黑人产生了消极影响，这些人渴望获得完全的平等和尊重（杜波依斯 1903 年；1992 年）。与华盛顿相比，杜波依斯最好被描述为一位倡导*文化民族主义*的人，主张*多元一体化*：追求一个种族融合的社会和政治民主秩序，以及在他漫长的一生中，一个民主社会主义经济秩序，其中不同的种族和民族群体培养和分享，以及相互受益于分享，他们文化独特性的产品，前提是这样做不会威胁到社会整体的融合和公正。
+然而，杜波依斯主张立即承认和尊重黑人的公民权利（尽管他支持对_所有_选民行使选举权的资格限制），社会平等和经济正义。他成为华盛顿领导的坚决批评者（《关于布克·华盛顿先生和其他人》1903 年），对后者的逐渐妥协主义感到不耐烦，认为这对那些已经准备好、甚至过期的黑人产生了消极影响，这些人渴望获得完全的平等和尊重（杜波依斯 1903 年；1992 年）。与华盛顿相比，杜波依斯最好被描述为一位倡导_文化民族主义_的人，主张_多元一体化_：追求一个种族融合的社会和政治民主秩序，以及在他漫长的一生中，一个民主社会主义经济秩序，其中不同的种族和民族群体培养和分享，以及相互受益于分享，他们文化独特性的产品，前提是这样做不会威胁到社会整体的融合和公正。
 
 这两个人来自截然不同的背景。华盛顿出生在奴隶制下，但在汉普顿学院的教育和品德培养的帮助下，他能够成为一位享有国际声望的教育家和具有前所未有影响力的人物，这些经历他在他广为人知且鼓舞人心的自传《从奴隶制中解放》中详细叙述（华盛顿 1901; 1963）。而杜波依斯则从未亲身经历过奴隶制，甚至在进入南方的大学之前也没有遭受过什么明显的种族歧视。杜波依斯拥有菲斯克大学和哈佛大学的学士学位，曾在柏林大学学习，并获得哈佛大学的历史学博士学位，他是美国极少数受过高等教育的人之一。凭借他的学识和对教育的自信，他以教育提升的、洞察力强、富有创造力和批判性思维的智慧，对黑人和其他受压迫种族的历史、现状和未来前景进行了多样化、频繁和深入的学术和创造性探索，同时也对西方文明进行了深入研究。这成为了他热情而坚定的终身事业。
 
@@ -234,9 +234,9 @@
 
 所有这些发展都受到了激烈的智力冒险的推动和培育，其中一些还得到了各种实际参与的滋养。特别是黑人权力运动，它与更广泛和重要的黑人意识和黑人艺术运动相互交叉，相互推动，这些运动，就像几十年前的哈莱姆文艺复兴一样，激发了艺术领域中激进和富有表现力的创造力的密集和广泛的复兴，再次以重新定义和自决的方式，将非洲血统的个人和民族的本体存在重新夺回，这些运动在很多情况下受到了各种左翼事业的影响，包括民族主义、国际主义、社会主义和共产主义。这是一个不稳定和易变的混合体，迫切需要一种明确的哲学来引导人们穿越意识形态可能性的荆棘，并为个人和社群身份形成和生活实践的议程提供指导，每个议程都以更大或更小的连贯性和真实性提供。
 
-More than a few spokesmen and spokeswomen came forward to philosophize on behalf of their group’s or organization’s (or their own) vision for ‘what was to be done’ to insure *liberation* for *Black* people, people of *African* descent. (“Liberation” was the watchword for the new agenda; “Negro” and “Colored” were denigrated and cast aside, no longer acceptable as terms of racial identification). Politics—and all aspects and dimensions of individual and social life were explicitly politicized—became defined by and focused through the lenses of the substantive symbolics of racialized and enculturated *Blackness*, even as the intellectual warriors waging the conceptual and other battles on behalf of *Blackness* struggled to find adequate terms and strategies with which to forge satisfactory and effective articulations of the passionately sought and urgently needed new identities as articulations of long standing identities and life-agendas were discredited and thus rendered inadequate for a significant and influential few. For still a great many other “Negro?”, “Black?”, “Colored?”, “African- American?”, “African-descended?”, and “American?” persons there was more than a bit of psychic turmoil and tension, no less of consternation and confusion. And hardly any of these persons, nor even many of the most ardent warriors calling for and/or purveying new notions and definitions of “Black consciousness” and “Black” agendas for individual and shared lives, knew of and had recourse to Alain Locke’s sober and sobering well-reasoned “The New Negro,” nor the rich resources that had been created by the producers and carriers of the Harlem Renaissance. And so the intensified ontologizing philosophizing proceeded at near breakneck speed driven largely by a generation of young adults few of whom had, nor would accept, much in the way of intellectual or practical guidance from the experienced and wise of previous generations for whom many of the young and arrogant had too little respect…
+More than a few spokesmen and spokeswomen came forward to philosophize on behalf of their group’s or organization’s (or their own) vision for ‘what was to be done’ to insure _liberation_ for _Black_ people, people of _African_ descent. (“Liberation” was the watchword for the new agenda; “Negro” and “Colored” were denigrated and cast aside, no longer acceptable as terms of racial identification). Politics—and all aspects and dimensions of individual and social life were explicitly politicized—became defined by and focused through the lenses of the substantive symbolics of racialized and enculturated _Blackness_, even as the intellectual warriors waging the conceptual and other battles on behalf of _Blackness_ struggled to find adequate terms and strategies with which to forge satisfactory and effective articulations of the passionately sought and urgently needed new identities as articulations of long standing identities and life-agendas were discredited and thus rendered inadequate for a significant and influential few. For still a great many other “Negro?”, “Black?”, “Colored?”, “African- American?”, “African-descended?”, and “American?” persons there was more than a bit of psychic turmoil and tension, no less of consternation and confusion. And hardly any of these persons, nor even many of the most ardent warriors calling for and/or purveying new notions and definitions of “Black consciousness” and “Black” agendas for individual and shared lives, knew of and had recourse to Alain Locke’s sober and sobering well-reasoned “The New Negro,” nor the rich resources that had been created by the producers and carriers of the Harlem Renaissance. And so the intensified ontologizing philosophizing proceeded at near breakneck speed driven largely by a generation of young adults few of whom had, nor would accept, much in the way of intellectual or practical guidance from the experienced and wise of previous generations for whom many of the young and arrogant had too little respect…
 
-The reason, Harold Cruse, a wise and very experienced elder of Left and Nationalist organizations and struggles and a formidable thinker in his own right, was careful to point out, was due to a severe and consequential disruption of the passing-on of experience-tested and verified knowledge from one generation to another by the ravages of the witch-hunting and persecuting of any and all accused of being a Communist or Communist sympathizer during the crusading campaign led by Senator Joseph McCarthy during the 1950s. Many lives and careers were destroyed as a result of McCarthy’s campaign, and many persons and organizations with Leftist commitments were either destroyed or driven underground, or otherwise left severely tainted and thus made an “untouchable” bereft of employment, even for one-time friends and close associates. (W.E.B. Du Bois was one who suffered this fate, which is largely why he made the momentous decision to renounce his citizenship and leave the United States for residence in Ghana, where he died…) The radical Young Turks, then, not short of courage or passion, set out on a mission all but impoverished, in many cases, of much needed historical and intellectual capital, thus were sometimes poorly armed for the battles they sought to wage. Still, the trans-generational disruption that Cruse pointed out was not complete. There were those who filled the gap between the Harlem Renaissance and the rise of the new *Black* renaissance who would be of significant influence and guidance, and would serve some in the new movements as personal as well as intellectual mentors and role models: Richard Wright, Robert Hayden, Ralph Ellison, Margaret Walker, Gwendolyn Brooks, Lorraine Hansberry, and James Baldwin, among several others.
+The reason, Harold Cruse, a wise and very experienced elder of Left and Nationalist organizations and struggles and a formidable thinker in his own right, was careful to point out, was due to a severe and consequential disruption of the passing-on of experience-tested and verified knowledge from one generation to another by the ravages of the witch-hunting and persecuting of any and all accused of being a Communist or Communist sympathizer during the crusading campaign led by Senator Joseph McCarthy during the 1950s. Many lives and careers were destroyed as a result of McCarthy’s campaign, and many persons and organizations with Leftist commitments were either destroyed or driven underground, or otherwise left severely tainted and thus made an “untouchable” bereft of employment, even for one-time friends and close associates. (W.E.B. Du Bois was one who suffered this fate, which is largely why he made the momentous decision to renounce his citizenship and leave the United States for residence in Ghana, where he died…) The radical Young Turks, then, not short of courage or passion, set out on a mission all but impoverished, in many cases, of much needed historical and intellectual capital, thus were sometimes poorly armed for the battles they sought to wage. Still, the trans-generational disruption that Cruse pointed out was not complete. There were those who filled the gap between the Harlem Renaissance and the rise of the new _Black_ renaissance who would be of significant influence and guidance, and would serve some in the new movements as personal as well as intellectual mentors and role models: Richard Wright, Robert Hayden, Ralph Ellison, Margaret Walker, Gwendolyn Brooks, Lorraine Hansberry, and James Baldwin, among several others.
 
 新一代人会有很多由斗争而产生的哲学思考。必须给予那些有纪律和毅力的人以及那些有幸存下来并留下成就的人以很大的赞誉，这些成就继续丰富黑人和其他人的生活。例如，黑人艺术运动通过作品和表达给艺术创造力、指导创造力和表达以及为各种观众提供服务的议程赋予了新的方向和意义，产生了深远的影响。霍伊特·富勒（1923-1981 年）的宣言《走向黑人美学》（Fuller 1994）以及他作为《黑人文摘》杂志编辑的工作，后来该杂志更名为《黑人世界》，随后是《第一世界》，当后者的出版商受到压力停止出版一份服务于黑人激进派的杂志时，这些都是在一个非常需要明确道路的时期开创性的冒险。同样，艾迪生·盖尔（Addison Gayle, Jr.）的散文家和理论家作品《黑人美学》（1932-1991 年），他为一本由他编辑和出版的同名文集所写的引言（Gayle, Jr. 1972）。《黑人美学》是一本关于理论、戏剧、音乐和小说的文集，其中包括许多新一代黑人艺术家的领导性思想，学者们将其视为“黑人艺术运动的理论圣经”，因此为这一运动的创作者们所做的贡献，就像洛克的《新黑人》为哈莱姆文艺复兴的创作者们所做的贡献一样。富勒和盖尔都扮演了与洛克类似的角色，成为一代严肃激进的黑人思想家和艺术家的创造和批判性发展的助产士。
 
@@ -270,13 +270,13 @@ The reason, Harold Cruse, a wise and very experienced elder of Left and National
 
 这种出版是非洲哲学故事的重要组成部分，并有助于证明非洲和非洲裔人士，无论是在非洲大陆上还是在美洲和其他地方的非洲裔人士，都是非洲哲学的创造者和守护者。许多出版商已经认识到并接受了这些发展，并在许多人长期抵制和拒绝承认非洲裔人士的历史著作以及非洲裔哲学家和非洲裔哲学学者的当代学术研究作为哲学工作的合适实例之后，将非洲哲学作品添加到他们的出版物列表中成为优先事项。
 
-特别值得出版的是《非洲哲学：非洲和黑人散居地的哲学分析和问题》（*Philosophia Africana: Analysis of Philosophy and Issues in Africa and the Black Diaspora*）的持续定期出版，该期刊由德保罗大学的埃曼纽尔·楚克韦迪·埃泽（Emmanuel Chukwudi Eze）担任创始编辑，直到他在 2007 年意外去世。《非洲哲学》仍然是美国唯一一本致力于非洲哲学的学术期刊，尽管越来越多的哲学期刊接受并发表属于该子领域的文章。然而，没有一本期刊像《哲学论坛》（*Philosophical Forum*）那样慷慨，该期刊在已故的马克斯·瓦托夫斯基（Max Wartofsky）的主编指导下，专门发表了两期专题，探讨了对黑人哲学家特别关注的哲学问题。同样值得注意的是，纽约出版商和学者阿尔弗雷德·普雷蒂曼（Alfred Prettyman）一直致力于孕育非洲哲学研究学会（最初是纽约黑人哲学研究学会），他投入了时间、精力和其他资源，使非洲裔哲学家和其他关注者能够聚集在他的家中，展示和讨论即将出版或最近出版的思想和作品。在短暂的时间内，普雷蒂曼还担任了现已休刊的《纽约黑人哲学研究学会期刊》（*The Journal*）的编辑和出版人。
+特别值得出版的是《非洲哲学：非洲和黑人散居地的哲学分析和问题》（_Philosophia Africana: Analysis of Philosophy and Issues in Africa and the Black Diaspora_）的持续定期出版，该期刊由德保罗大学的埃曼纽尔·楚克韦迪·埃泽（Emmanuel Chukwudi Eze）担任创始编辑，直到他在 2007 年意外去世。《非洲哲学》仍然是美国唯一一本致力于非洲哲学的学术期刊，尽管越来越多的哲学期刊接受并发表属于该子领域的文章。然而，没有一本期刊像《哲学论坛》（_Philosophical Forum_）那样慷慨，该期刊在已故的马克斯·瓦托夫斯基（Max Wartofsky）的主编指导下，专门发表了两期专题，探讨了对黑人哲学家特别关注的哲学问题。同样值得注意的是，纽约出版商和学者阿尔弗雷德·普雷蒂曼（Alfred Prettyman）一直致力于孕育非洲哲学研究学会（最初是纽约黑人哲学研究学会），他投入了时间、精力和其他资源，使非洲裔哲学家和其他关注者能够聚集在他的家中，展示和讨论即将出版或最近出版的思想和作品。在短暂的时间内，普雷蒂曼还担任了现已休刊的《纽约黑人哲学研究学会期刊》（_The Journal_）的编辑和出版人。
 
 对非洲哲学的专业认可和合法化，对非洲、非洲裔美国人和非洲裔加勒比人哲学作为该领域子焦点的显著成功；越来越多的非洲人和非洲裔人士在高等教育机构的部门和项目中被聘用、留任和晋升；更多的出版机会；持续而活跃的定期会议和专门探讨与该领域相关问题的会议议程——所有这些都继续对建立和增强该领域的文献基础至关重要，并促进教学、研究、学术和其他合作交流和实践，这些对于形成和维持致力于进行非洲哲学的富有成效的讨论社群至关重要。而且，越来越多的非洲人和非洲裔人士以及非非洲人士的学生和专业人士的参与和贡献也丰富了这一事业。
 
 ## 12. 非洲哲学：贡献
 
-在减轻长期阻碍对非洲人和非洲裔人哲学思考努力认可和关注的一些障碍方面已经取得了实质性的进展。然而，还有更多的工作需要减轻。例如，有必要考虑并更好地欣赏几代特别有思想和洞察力的黑人散文家、小说家、诗人、音乐家、艺术家、舞者、传教士、神学家和其他公众演讲的黑人知识分子的著作，通过他们的表达方式，对黑人的状况和前景进行哲学思考，并在许多情况下帮助维持意志和决心，*忍受*对非洲人和非洲裔人的人性和存在的侵犯。在这方面，例如，对于哲学作家小说家查尔斯·约翰逊（Charles Johnson）的关注还远远不够，他在成为杰出的小说家之前是哲学研究生。许多其他黑人作家的思想，其中一些是小说家，也迫使哲学家密切而欣赏地阅读，以了解这些表达揭示的作家如何在他们创作的地点和历史时刻中，以有思想和创造性的方式应对黑人存在的紧迫性。同样地，在许多布道、演讲、信件、歌曲和舞蹈中，也经常由有思想的黑人创造和表达，创造性地。因此，非洲哲学必须成为一项更加深入广泛的跨学科事业。
+在减轻长期阻碍对非洲人和非洲裔人哲学思考努力认可和关注的一些障碍方面已经取得了实质性的进展。然而，还有更多的工作需要减轻。例如，有必要考虑并更好地欣赏几代特别有思想和洞察力的黑人散文家、小说家、诗人、音乐家、艺术家、舞者、传教士、神学家和其他公众演讲的黑人知识分子的著作，通过他们的表达方式，对黑人的状况和前景进行哲学思考，并在许多情况下帮助维持意志和决心，_忍受_对非洲人和非洲裔人的人性和存在的侵犯。在这方面，例如，对于哲学作家小说家查尔斯·约翰逊（Charles Johnson）的关注还远远不够，他在成为杰出的小说家之前是哲学研究生。许多其他黑人作家的思想，其中一些是小说家，也迫使哲学家密切而欣赏地阅读，以了解这些表达揭示的作家如何在他们创作的地点和历史时刻中，以有思想和创造性的方式应对黑人存在的紧迫性。同样地，在许多布道、演讲、信件、歌曲和舞蹈中，也经常由有思想的黑人创造和表达，创造性地。因此，非洲哲学必须成为一项更加深入广泛的跨学科事业。
 
 对于黑人哲学思考的认可和赞赏，一个主要的障碍是对欧洲中心主义和白人种族优越主义的彻底投入，这些观念在哲学学科的历史学中根深蒂固、构建了很多年。解决这些对学科历史的误解需要进行大规模的修订，其中包括许多被排除在外的群体的哲学思考。在这样做的过程中，必须仔细工作，以便尽可能多地恢复和认真研究最早的表达方式，其中许多从未发表过，这些表达方式有助于开拓非裔美国哲学的发展，以及更广泛地说，非洲哲学作为话语领域的发展（Kuklick 2001; Kuklick 2008）。
 
@@ -288,184 +288,184 @@ The reason, Harold Cruse, a wise and very experienced elder of Left and National
 
 然而，这种需求将由解决旧问题和挑战而产生。成功将带来新的挑战。其中，解决是否可以和应该有规范、实践和议程，这些规范、实践和议程被确定为“非洲裔”哲学的实例。如果是这样，那么这些必要的议程、规范和实践应该以什么条件和目的来为非洲和非洲裔人民的最大利益服务，同时不冤枉非黑人民，并为那些进行哲学思考的人提供规范指导，同时符合确保言辞实践中的适当性和真实性的规范，这些规范可以被非非洲人或非非洲裔人确认和证实。这些问题是否应继续成为哲学努力的适当条件？非洲哲学的实践和支持性言辞社群将不得不遵守某些规范化的学术实践规则，同时我们致力于该事业的人们在批评和完善这些规范化的规则的同时，还要制定和提出其他规则。
 
-非洲哲学在非洲大陆和整个非洲散居地的工作，已经帮助改变了哲学和其他学科和学术机构和组织中的话语和实践议程和规则。这一事业对于对种族和民族（以及性别、性取向和我们个人和社会身份的其他构成要素）给予更多尊重的需求的紧迫认识做出了重要贡献，而不会无效地否定重建后的正确推理观念。此外，非洲哲学的实践者还促进了对西方哲学遗产中基本概念和议程不足之处的更广泛和更深入的认识和承认，从而帮助我们面对具有挑战性的新需求和进一步修订哲学传统和实践的可能性。学术哲学的扩展包括非洲哲学，表明在多民族、多种族社会中实现更大的知识民主化的努力。这些发展应该继续，得到非非洲裔人士、非非洲裔人士甚至非专业学术哲学家的支持，并作为更大范围、持续不断的努力的一部分，以欣赏和借鉴*所有*人民的众多丰富生活创造，作为人类文明宝库的贡献。
+非洲哲学在非洲大陆和整个非洲散居地的工作，已经帮助改变了哲学和其他学科和学术机构和组织中的话语和实践议程和规则。这一事业对于对种族和民族（以及性别、性取向和我们个人和社会身份的其他构成要素）给予更多尊重的需求的紧迫认识做出了重要贡献，而不会无效地否定重建后的正确推理观念。此外，非洲哲学的实践者还促进了对西方哲学遗产中基本概念和议程不足之处的更广泛和更深入的认识和承认，从而帮助我们面对具有挑战性的新需求和进一步修订哲学传统和实践的可能性。学术哲学的扩展包括非洲哲学，表明在多民族、多种族社会中实现更大的知识民主化的努力。这些发展应该继续，得到非非洲裔人士、非非洲裔人士甚至非专业学术哲学家的支持，并作为更大范围、持续不断的努力的一部分，以欣赏和借鉴_所有_人民的众多丰富生活创造，作为人类文明宝库的贡献。
 
 ## Bibliography
 
 ### Africana Philosophy
 
-* Gordon, L, 2008, *An Introduction to Africana Philosophy*, Cambridge: Cambridge University Press.
-* Monahan, M. J., 2007, “Africana Philosophy: Globalizing the Diversity Curriculum,” in *Diversity & Democracy*, 10 (3): 12–13.
-* Outlaw, Jr., L., 1996, “Africana Philosophy,” in L. T. Outlaw (Jr.), *On Race and Philosophy*, New York: Routledge, pp. 75–95.
-* Outlaw, Jr., L., 1997, “African, African American, Africana Philosophy,” in J. P. Pittman (ed.), *African-American Perspectives and Philosophical Traditions*, New York: Routledge, pp. 63–93.
-* Outlaw, Jr., L., 2004, “Africana Philosophy: Origins and Prospects,” in K. Wiredu (ed.), *A Companion to African Philosophy*, Malden, MA: Blackwell, pp. 90–98.
+* Gordon, L, 2008, _An Introduction to Africana Philosophy_, Cambridge: Cambridge University Press.
+* Monahan, M. J., 2007, “Africana Philosophy: Globalizing the Diversity Curriculum,” in _Diversity & Democracy_, 10 (3): 12–13.
+* Outlaw, Jr., L., 1996, “Africana Philosophy,” in L. T. Outlaw (Jr.), _On Race and Philosophy_, New York: Routledge, pp. 75–95.
+* Outlaw, Jr., L., 1997, “African, African American, Africana Philosophy,” in J. P. Pittman (ed.), _African-American Perspectives and Philosophical Traditions_, New York: Routledge, pp. 63–93.
+* Outlaw, Jr., L., 2004, “Africana Philosophy: Origins and Prospects,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 90–98.
 
 ### African Philosophy
 
-* Abraham, W. E., 1962, *The Mind of Africa*, Chicago: University of Chicago Press.
-* Appiah, K. A, 1992, *In My Father’s House: Africa in the Philosophy of Culture*, New York: Oxford University Press.
-* Bell, R. A., 2002, *Understanding African Philosophy: A Cross-Cultural Approach to Classical and Contemporary Issues*, New York: Routledge.
-* Bodunrin, P. (ed.), 1985, *Philosophy in Africa: Trends and Perspectives*, Ife, Nigeria: University of Ife Press.
-* Carp, I., & C. S. Bird (eds.), 1980, *Explorations in African Systems of Thought*, Bloomington, IN: Indiana University Press.
-* Carruthers, J., 1984, *Essays in Ancient Egyptian Studies*, Los Angeles, CA: University of Sankore Press.
-* Crahay, F., 1965, “Conceptual Take-off Conditions for a Bantu Philosophy,”*Diogenes*, *52*: 55–78.
-* Eze, E. C. (ed.), 1997, *Postcolonial African Philosophy: A Critical Reader*, Cambridge, MA: Blackwell.
-* Eze, E. C. (ed.), 1998, *African Philosophy: An Anthology*, Malden, MA: Wiley-Blackwell.
-* Eze, E. C., 2001, *Achieving Our Humanity: The Idea of the Postracial Future*, New York: Routledge.
-* Diop, C. A., 1974, *The African Origin of Civilization: Myth or Reality*, M. Cook (trans. and ed.), Chicago, IL: Lawrence Hill.
-* Diop, A., 1975, “Remarks on African Personality and Négritude,” in G.-C. Mutiso & S. Rohio (eds.), *Readings in African Political Thought*, London, England: Heinemann.
-* Forde, D. (ed.), 1954, *African Worlds: Studies in the Cosmological Ideas and Social Values of African Peoples*, London, England: Oxford University Press.
-* Fortes, M., & G. Dieterlen (eds.), 1965, *African Systems of Thought*, London, England: Oxford University Press.
-* Gbadegesin, S., 1991, *African Philosophy: Traditional Yoruba Philosophy and Contemporary African Realities*, New York: Peter Lang.
-* Geiss, I., 1974, *The Pan-African Movement*, New York: Africana Publishing Co.
-* Griaule, M., 1965, *Conversations with Ogotemmeli*, New York: Oxford University Press.
-* Gyekye, K., 1995, *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*, 2nd edition, Philadelphia, PA: Temple University Press.
-* Gyekye, K., 1997, *Tradition and Modernity: Philosophical Reflections on the African Experience*, New York: Oxford University Press.
-* Hallen, B., 2009, *A Short History of African Philosophy*, 2nd edition, Bloomington, IN: Indiana University Press.
-* Hountondji, P., 1996, *African Philosophy: Myth and Reality*, 2nd edition, Bloomington, IN: Indiana University Press.
-* Hountondji, P., 1997, *The Struggle for Meaning: Reflections on Philosophy, Culture, and Democracy in Africa*, Dakar, Senegal: CODESRIA.
-* Hume, D., \[1742] 1854, “Of National Characters,” in D. Hume, *The Philosophical Works of David Hume* (Volume 3), Boston: Little, Brown, pp. 211–236.
-* James, G., 1954, *Stolen Legacy*, New York: Philosophical Libary.
-* Kant, I., \[1764] 1960, *Observations on the Feeling of the Beautiful and Sublime*, J.T. Goldthwait (trans.), Berkeley, CA: University of California Press.
-* Kant, I., \[1778] 2006, *Anthropology from a Pragmatic Point of View*, R.B. Louden (ed.), Cambridge, MA: Cambridge University Press.
-* Karenga, M. (ed.), 1986, *Kemet and the African Worldview: Research, Rescue and Restoration*, Los Angeles, CA: University of Sankore Press.
-* Kwame, S. (ed.), 1995, *Readings in African Philosophy: An Akan Collection*, Lanham, MD: University Press of America.
-* Masolo, D. A., 1994, *African Philosophy in Search of Identity*, Bloomington, IN: Indiana University Press.
-* Masolo, D.A., & I. Carp, (eds.), 2000, *African Philosophy as Cultural Inquiry*, Bloomington, IN: Indiana University Press.
-* Menkiti, I. A., 1971, *Affirmations*, Chicago, IL: Third World Press.
-* Menkiti, I. A., 1978, *The Jubilation of Falling Bodies: Poems*, Phoenix, AZ: Pomegranate Press.
-* Mosley, A. G. (ed.), 1995, *African Philosophy: Selected Readings*, Englewood Cliffs, NJ: Prentice Hall.
-* Mudimbe, V.Y., 1983, “African Philosophy as an Ideological Practice: The Case of French-Speaking Africa,” *African Studies Review*, *26* (Nos. 3–4), pp. 133–154.
-* Mudimbe, V.Y., 1988, *The Invention of Africa: Gnosis, Philosophy, and the Order of Knowledge*, Bloomington, IN: Indiana University Press.
-* Nkome, O., & A. Smet, 1978, “Panarama de la Philosophie Africaine Contemporaine,” *Recherches Philosophiques Africaines: Mélanges de Philosophie Africaine*, 3: 263–282.
-* Nzegwu, N. , 2004, “Art and Community: A Social Conception of Beauty and Individuality,” in K. Wiredu (ed.), *A Companion to African Philosophy*, Malden, MA: Blackwell, pp. 415–424.
-* Nzegwu, N., 2006, *Family Matters: Feminist Concepts in African Philosophy of Culture*, New York: SUNY Press
-* Olela, H., 1981, *From Ancient Africa To Ancient Greece*, Atlanta, GA: Select Publishing Co.
-* Oruka, H., 1990a, “Four Trends in Curent African Philosophy,” in H. Oruka, *Trends in Contemporary African Philosophy*, Nairobi, Kenya: Shirikon Publishers, pp. 13–22.
-* Oruka, H., 1990b, *Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy*, Leiden, Netherlands: E.J. Brill.
-* Outlaw, Jr., L., 1987, “African ‘Philosophy’: Deconstructive and Reconstructive Challenges,” in G. Fløistad (ed.), *Contemporary Philosophy: A New Survey, Vol* *5: African Philosophy*, Boston, MA: Martinus Nijhoff, pp. 19–26.
-* Senghor, L. S., 1975, “What is Négritude?,” in G.-C. Mutiso & S. Rohio (eds.), *Readings in African Political Thought*, London: Heinemann.
-* Serequeberhan, T., 1991, *African Philosophy: The Essential Readings*, New York: Paragon House.
-* Serequeberhan, T., 1994, *The Hermeneutics of African Philosophy: Horizon and Discourse*, New York: Routledge.
-* Sodipo, J. O. & B. Hallen, 1997, *Knowledge, Belief and Witchcraft: Analytic Experiments in African Philosophy*, Stanford, CA: Stanford University Press.
-* Sumner, C., 1976–78, *Treatise of Zär**ʾ**a Yaʻe**̳**qob and of Wäldä He**̳**yw·at*, Addis Ababa, Ethiopia: Addis Ababa University.
-* Olúfemi, T., 2010, “‘The love of freedom brought us here’: An Introduction to Modern African Political Philosophy,” *The South Atlantic Quarterly*, 109 (2): 391–410.
-* Tempels, P., 1945, *Bantu Philosophy*, (C. King, trans.), Paris, France: Présence Africain.
-* Wiredu, K., 1985, “The Concept of Truth in the Akan Language,” in P. Bodunrin (ed.), *Philosophy in Africa: Trends and Perspectives*, Ife, Nigeria: University of Ife Press.
-* Wiredu, K., 1987, “The Akan Concept of Mind,” in G. Fløistad (ed.), *Contemporary Philosophy: Vol. 5: A New Survey: African Philosophy*, Boston, MA: Martinus Ninhoff.
-* Wiredu, K. (ed.), 2004, *A Companion to African Philosophy*, Malden, MA: Blackwell.
-* Wright, R. A., 1984, *African Philosophy: An Introduction* (3rd edition), Lanham, MD: University Press of America.
+* Abraham, W. E., 1962, _The Mind of Africa_, Chicago: University of Chicago Press.
+* Appiah, K. A, 1992, _In My Father’s House: Africa in the Philosophy of Culture_, New York: Oxford University Press.
+* Bell, R. A., 2002, _Understanding African Philosophy: A Cross-Cultural Approach to Classical and Contemporary Issues_, New York: Routledge.
+* Bodunrin, P. (ed.), 1985, _Philosophy in Africa: Trends and Perspectives_, Ife, Nigeria: University of Ife Press.
+* Carp, I., & C. S. Bird (eds.), 1980, _Explorations in African Systems of Thought_, Bloomington, IN: Indiana University Press.
+* Carruthers, J., 1984, _Essays in Ancient Egyptian Studies_, Los Angeles, CA: University of Sankore Press.
+* Crahay, F., 1965, “Conceptual Take-off Conditions for a Bantu Philosophy,”_Diogenes_, _52_: 55–78.
+* Eze, E. C. (ed.), 1997, _Postcolonial African Philosophy: A Critical Reader_, Cambridge, MA: Blackwell.
+* Eze, E. C. (ed.), 1998, _African Philosophy: An Anthology_, Malden, MA: Wiley-Blackwell.
+* Eze, E. C., 2001, _Achieving Our Humanity: The Idea of the Postracial Future_, New York: Routledge.
+* Diop, C. A., 1974, _The African Origin of Civilization: Myth or Reality_, M. Cook (trans. and ed.), Chicago, IL: Lawrence Hill.
+* Diop, A., 1975, “Remarks on African Personality and Négritude,” in G.-C. Mutiso & S. Rohio (eds.), _Readings in African Political Thought_, London, England: Heinemann.
+* Forde, D. (ed.), 1954, _African Worlds: Studies in the Cosmological Ideas and Social Values of African Peoples_, London, England: Oxford University Press.
+* Fortes, M., & G. Dieterlen (eds.), 1965, _African Systems of Thought_, London, England: Oxford University Press.
+* Gbadegesin, S., 1991, _African Philosophy: Traditional Yoruba Philosophy and Contemporary African Realities_, New York: Peter Lang.
+* Geiss, I., 1974, _The Pan-African Movement_, New York: Africana Publishing Co.
+* Griaule, M., 1965, _Conversations with Ogotemmeli_, New York: Oxford University Press.
+* Gyekye, K., 1995, _An Essay on African Philosophical Thought: The Akan Conceptual Scheme_, 2nd edition, Philadelphia, PA: Temple University Press.
+* Gyekye, K., 1997, _Tradition and Modernity: Philosophical Reflections on the African Experience_, New York: Oxford University Press.
+* Hallen, B., 2009, _A Short History of African Philosophy_, 2nd edition, Bloomington, IN: Indiana University Press.
+* Hountondji, P., 1996, _African Philosophy: Myth and Reality_, 2nd edition, Bloomington, IN: Indiana University Press.
+* Hountondji, P., 1997, _The Struggle for Meaning: Reflections on Philosophy, Culture, and Democracy in Africa_, Dakar, Senegal: CODESRIA.
+* Hume, D., \[1742] 1854, “Of National Characters,” in D. Hume, _The Philosophical Works of David Hume_ (Volume 3), Boston: Little, Brown, pp. 211–236.
+* James, G., 1954, _Stolen Legacy_, New York: Philosophical Libary.
+* Kant, I., \[1764] 1960, _Observations on the Feeling of the Beautiful and Sublime_, J.T. Goldthwait (trans.), Berkeley, CA: University of California Press.
+* Kant, I., \[1778] 2006, _Anthropology from a Pragmatic Point of View_, R.B. Louden (ed.), Cambridge, MA: Cambridge University Press.
+* Karenga, M. (ed.), 1986, _Kemet and the African Worldview: Research, Rescue and Restoration_, Los Angeles, CA: University of Sankore Press.
+* Kwame, S. (ed.), 1995, _Readings in African Philosophy: An Akan Collection_, Lanham, MD: University Press of America.
+* Masolo, D. A., 1994, _African Philosophy in Search of Identity_, Bloomington, IN: Indiana University Press.
+* Masolo, D.A., & I. Carp, (eds.), 2000, _African Philosophy as Cultural Inquiry_, Bloomington, IN: Indiana University Press.
+* Menkiti, I. A., 1971, _Affirmations_, Chicago, IL: Third World Press.
+* Menkiti, I. A., 1978, _The Jubilation of Falling Bodies: Poems_, Phoenix, AZ: Pomegranate Press.
+* Mosley, A. G. (ed.), 1995, _African Philosophy: Selected Readings_, Englewood Cliffs, NJ: Prentice Hall.
+* Mudimbe, V.Y., 1983, “African Philosophy as an Ideological Practice: The Case of French-Speaking Africa,” _African Studies Review_, _26_ (Nos. 3–4), pp. 133–154.
+* Mudimbe, V.Y., 1988, _The Invention of Africa: Gnosis, Philosophy, and the Order of Knowledge_, Bloomington, IN: Indiana University Press.
+* Nkome, O., & A. Smet, 1978, “Panarama de la Philosophie Africaine Contemporaine,” _Recherches Philosophiques Africaines: Mélanges de Philosophie Africaine_, 3: 263–282.
+* Nzegwu, N. , 2004, “Art and Community: A Social Conception of Beauty and Individuality,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 415–424.
+* Nzegwu, N., 2006, _Family Matters: Feminist Concepts in African Philosophy of Culture_, New York: SUNY Press
+* Olela, H., 1981, _From Ancient Africa To Ancient Greece_, Atlanta, GA: Select Publishing Co.
+* Oruka, H., 1990a, “Four Trends in Curent African Philosophy,” in H. Oruka, _Trends in Contemporary African Philosophy_, Nairobi, Kenya: Shirikon Publishers, pp. 13–22.
+* Oruka, H., 1990b, _Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy_, Leiden, Netherlands: E.J. Brill.
+* Outlaw, Jr., L., 1987, “African ‘Philosophy’: Deconstructive and Reconstructive Challenges,” in G. Fløistad (ed.), _Contemporary Philosophy: A New Survey, Vol_ _5: African Philosophy_, Boston, MA: Martinus Nijhoff, pp. 19–26.
+* Senghor, L. S., 1975, “What is Négritude?,” in G.-C. Mutiso & S. Rohio (eds.), _Readings in African Political Thought_, London: Heinemann.
+* Serequeberhan, T., 1991, _African Philosophy: The Essential Readings_, New York: Paragon House.
+* Serequeberhan, T., 1994, _The Hermeneutics of African Philosophy: Horizon and Discourse_, New York: Routledge.
+* Sodipo, J. O. & B. Hallen, 1997, _Knowledge, Belief and Witchcraft: Analytic Experiments in African Philosophy_, Stanford, CA: Stanford University Press.
+* Sumner, C., 1976–78, _Treatise of Zär**ʾ**a Yaʻe**̳**qob and of Wäldä He**̳**yw·at_, Addis Ababa, Ethiopia: Addis Ababa University.
+* Olúfemi, T., 2010, “‘The love of freedom brought us here’: An Introduction to Modern African Political Philosophy,” _The South Atlantic Quarterly_, 109 (2): 391–410.
+* Tempels, P., 1945, _Bantu Philosophy_, (C. King, trans.), Paris, France: Présence Africain.
+* Wiredu, K., 1985, “The Concept of Truth in the Akan Language,” in P. Bodunrin (ed.), _Philosophy in Africa: Trends and Perspectives_, Ife, Nigeria: University of Ife Press.
+* Wiredu, K., 1987, “The Akan Concept of Mind,” in G. Fløistad (ed.), _Contemporary Philosophy: Vol. 5: A New Survey: African Philosophy_, Boston, MA: Martinus Ninhoff.
+* Wiredu, K. (ed.), 2004, _A Companion to African Philosophy_, Malden, MA: Blackwell.
+* Wright, R. A., 1984, _African Philosophy: An Introduction_ (3rd edition), Lanham, MD: University Press of America.
 
 ### African American Philosophy
 
-* Alexander, S. T., \[1930] 1995, “Negro Women in Our Economic Life,” in B. Guy-Sheftall (ed.), *Words of Fire: An Anthology of African-American Feminist Thought*, New York: The New Press, pp. 96–100.
-* Allen, A., 2004, *The New Ethics: A Guided Tour of the Twenty-first Century Moral Landscape*, New York: Maramax.
-* Allen, A., 1988, *Uneasy Acess: Provacy for Women in a Free Society*, Totowa, NJ: Roman & Littlefield.
-* Allen, A., 2003, *Why Privacy Isn’t Everything: Feminist Reflections on Personal Accountability*, Lanham, MD: Roman & Littlefield.
-* Appiah, K. A., 2014, *Lines of Descent: W. E. B. Du Bois and the Emergence of Identity*, Cambridge, MA: Harvard University Press.
-* Birt, R., 1990, “A Returning to the Source: The Philosophy of Alain Locke,” *Quest*, December, 103–113.
-* Birt, R., 1986, “Alienation in the Later Philosophy of Jean-Paul Sartre,” *Man and World*, 19, 293–309.
-* Blyden, E. W., \[1862] 1992, “The Call of Providence to the Descendants of Africa in America,” in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, New Brunswick, NJ: Transaction Publishers, pp. 112–126.
-* Boxill, B., 1984, *Blacks and Social Justice*, Totowa, NJ: Rowman & Littlefield.
-* Bracey, J., A. Meier, & E. Rudwick (eds.), 1970, *Black Nationalism in America*, New York: Bobbs-Merrill.
-* Brotz, H. (ed.), 1992, *African-American Social and Political Thought 1850–1920*, 2nd edition, New Brunswick, NJ: Transaction Publishers.
-* Cooper, A. J., \[1886] 1997, “Womanhood a Vital Element in the Regeneration and Progress of a Race,” in H.L. Gates, Jr. & N. Y. McKay (eds.), *The Norton Anthology of African American Literature*, New York: W.W. Norton, pp. 554–569.
-* Cooper, A. J., \[1892] 1990, *A Voice from the South*, New York: Oxford University Press.
-* Cooper, A. J., \[1925] 1988, *Slavery and the French Revolutionists (1788–1805)*, F. R. Keller, (trans.), Lewiston, NY: Edwin Mellen Press.
-* Crummell, A., 1995, *Civilization and Progress: Selected Writings of Alexander Crummell on the South*, J. Oldfield (ed.), Charlottesville, VA: University Press of Virginia.
-* Crummell, A., \[1860] 1992, “The Relations and Duties of Free Colored Men in America to Africa” (excerp), in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, New Brunswick, NJ: Transaction Publishers, pp. 171–190.
-* Curry, T. J. (ed.), 2016, *The Philosophical Treatise of William H. Ferris: Selected Readings from* The African Abroad or, His Evolution in Western Civilization, New York: Rowman & Littlefield.
-* Davis, A., 1998, *Blues Legacies and Black Feminism: Gertrude “Ma” Rainey, Bessie Smith, and Billie Holiday*, New York: Pantheon Books.
-* Davis, A., 1971, *If They Come in the Morning*, New York: Third Press.
-* Davis, A., 1990, *Women, Culture and Politics*, New York: Vintage Books.
-* Delany, M. R., \[1852] 2004, *The Condition, Elevation, Emigration, and Destiny of the Colored People of the United States and Official Report of the Niger Valley Exploring Party*, Amherst, NY: Humanity Books.
-* Douglass, F., \[1845] 2002, *Narrative of the Life of Frederick Douglass: An American Slave, Written by Himself*, 2nd edition, New York: Bedford/St. Martin’s Press.
-* Du Bois, W.E.B., \[1903] 1992, “Of Mr. Booker T. Washington and Others,” in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 509–518.
-* Du Bois, W.E.B., \[1897] 1992, “The Conservation of Races,” in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 483–492.
-* Du Bois, W.E.B., \[1960] 1973, “Whither Now and Why,” in H. Aptheker (ed.), *The Education of Black People: Ten Critiques, 1906–1960, By W.E.B* *Du Bois*, Amherst, MA: University of Massachusetts Press, pp. 149–158.
-* Dunbar-Nelson, A., \[1927] 1995, “The Negro Woman and the Ballot,” in B. Guy-Sheftall (ed.), *Words of Fire: An Anthology of African-American Feminist Thought*, New York: The New Press, pp. 86–89.
-* Equiano, O., \[1789] 2004, *The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African, Written by Himself*, New York: Modern Library.
-* Fortune, T. T., \[1844] 1996, “Political Independence of the Negro,” in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, New Brunswick, NJ: Transaction Publishers, pp. 332–350.
-* Franklin, J. H., & A. Moss, Jr., 2000, *From Slavery to Freedom: A History of African Americans*, 8th edition, New York: Knopf.
-* Frye, C., c1988, *From Egypt to Don Juan: The Anatomy of Black Studies*, Lanham, MD: University Press of America.
-* Frye, C., 1980, *Level Three: A Black Philosophy Reader*, Lanham, MD: University Press of America.
-* Fuller, H., 1994, “Towards a Black Aesthetic,” in A. Mitchell (ed.), *Within the Circle: An Anthology of African American Literary Criticism from the Harlem Renaissance to the Present*, Durham, NC: Duke University Press, pp. 199–206.
-* Garnet, H. H., \[1848] 1992, “The Past and the Present Condition, and the Destiny of the Colored Race” (excerpt), in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, New Brunswick, NJ: Transaction Publishers, pp. 199–202.
-* Garvey, M. \[1922a] 1992, “Race Assimilation,” in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 553–554.
-* Garvey, M. \[1922b] 1992, “The True Solution of the Negro Problem,” in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 554–555.
-* Garvey, M. \[1923] 1992, “An Appeal to the Conscience of the Black Race to See Itself,” in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 562–566.
-* Garvey, M. & A. J. Garvey, \[1925] 1986, *The Philosophy and Opinions of Marcus Garvey, Or, Africa for the Africans*, Dover, MA: Majority Press.
-* Gates, Jr., H.L. & N.Y. McKay (eds.), 1997, *The Norton Anthology of African American Literature*, New York: W.W. Norton.
-* Gayle, Jr., A. (ed.), 1972, *The Black Aesthetic*, New York: Doubleday.
-* Gooding-Williams, R., 2009, *In the Shadow of Du Bois: Afro-Modern Political Thought in America*, Cambridge, MA: Harvard University Press.
-* Glaude, E., 2000, *Exodus: Religion, Race and Nation in Early Nineteenth-Century Black America*, Chicago: University of Chicago Press.
-* Glaude, E. (ed.), 2003, *Is It Nation Time?: Contemporary Essays on Black Power and Black Nationalism*, Chicago: University of Chicago Press.
-* Gooding-Williams, R., 2006, *Look, A Negro!*, London: Routledge.
-* Gordon, L., 1995a, *Bad Faith and Antiblack Racism*, New Jersey: Humanities Press.
-* Gordon, L., 1995b, *Fanon and the Crisis of European Man: An Essay on Philosophy and the Human Sciences*, New Jersey: Humanities Press.
-* Guy-Sheftall, B. (ed.), 1995, *Words of Fire: An Anthology of African-American Feminist Thought*, New York: The New Press.
-* Harper, F. E., \[1893] 1995, “Woman’s Political Future,” in B. Guy-Sheftall (ed.), *Words of Fire: An Anthology of African-American Feminist Thought*, New York: The New Press, pp. 436–439.
-* Harris, L. (ed.), 1983, *Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917*, Dubuque, Iowa: Kendall/Hunt.
-* Harris, L., 1989, *The Philosophy of Alain Locke: Harlem Renaissance and Beyond*, Philadelphia, PA: Temple University Press.
-* Holly, J. T., \[1857] 1992, “A Vindication of the Capacity of the Negro Race for Self-Government and Civilized Progress,” in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, New Brunswick, NJ: Transaction Publishers, pp. 140–170.
-* Huggins, N. I., 2007, *Harlem Renaissance*, 2nd edition, New York: Oxford University Press.
-* James, J., 1997, *Transcending the Talented Tenth: Black Leaders and American Intellectuals*, New York: Routledge.
-* James, J., & A. Davis (eds.), 1998, *The Angela Davis Reader*, Malden, MA: Blackwell.
-* Johnston, P. E., 1970, *Afro-American Philosophers*, Montclair, NJ: Montclair State College Press.
-* Kennedy, F., \[1946] 1995, “A Comparative Study: Accentuating the Similarities of the Societal Position of Women and Negroes,” in B. Guy-Sheftall (ed.), *Words of Fire: An Anthology of African-American Feminist Thought*, New York: The New Press, pp. 102–106.
-* Kirkland, F., 1997, “Modernity and Intellectual Life in Black,” in J. Pittman (ed.), *African-American Perspectives and Philosophical Traditions*, New York: Routledge, pp. 136–165.
-* Kirkland, F., 2004, “The Problem of the Color Line: Normative or Empirical, Evolving or Non-Evolving,” *Philosophia Africana: Analysis of Philosohy and Issues in Africa and the Black Diaspora*, 7 (1): 57–82.
-* Kuklick, B., 2001, *A History of Philosophy in America, 1720–2000*, Oxford: Clarendon Press.
-* Kuklick, B., 2008, *Black Philosopher, White Academy*, Philadelphia, PA: University of Pennsylvania Press.
-* Lawson, B., & H. McGary, 1993, *Between Slavery and Freedom*, Bloomington, IN: Indiana University Press.
-* Locke, A. (ed.), 1925, *The New Negro: An Interpretation*, New York: A. and C. Boni.
-* Lott, T. L. (ed.), 2002, *African-American Philosophy: Selected Readings*, Upper Saddle River, NJ: Prentice Hall.
-* Lott, T. L., & J. P. Pittman (eds.), 2003, *A Companion to African-American Philosophy*, Malden, MA: Blackwell.
-* Martin, T., 1986, *Race First: The Ideological and Organizational Struggles of Marcus Garvey and the Universal Negro Improvement Association*, 2nd edition, Dover, MA: Majority Press.
-* McClendon, III, J. H., 2004, “The African American Philosopher and Academic Philosophy: On the Problem of Historical Interpretation,” *American Philosophical Association Newsletters: Newsletter on Philosophy and the Black Experience*, 4 (1): 1–9.
-* McDade, J. (ed.), 1977–78, *The Philosophical Forum: Special Issue: Philosophy and Black Experience*, 9 (Winter-Spring).
-* McDougald, E. J., \[1924] 1995, “The Struggle of Negro Women for Sex and Race Emancipation,” in B. Guy-Sheftall (ed.), *Words of Fire: An Anthology of African-American Feminist Thought*, New York: The New Press, pp. 80–83.
-* McGary, H., 1999, *Race and Social Justice*, Hoboken: Wiley-Blackwell.
-* Mills, C. W., 1998, *Blackness Visible: Essays on Philosophy and Race.* Ithaca, NY: Cornell University Press.
-* Mills, C. W., 1999, *The Racial Contract.* Ithaca, NY: Cornell University Press.
-* Montmarquet, J. A., & W. H. Hardy (eds.), 2000, *Reflections: An Anthology of African American Philosophy*, Belmont, CA: Wadsworth.
-* Moody-Adams, M., 1997, *Fieldwork in Familiar Places: Morality, Culture, and Philosophy*, Cambridge, MA: Harvard University Press.
-* Mosley, A., 2007, “The Moral Significance of the Music of the Black Atlantic,” *Philosophy East and West*, 57 (3): 345–356.
-* Piper, A., 1996, *Out of Order, Out of Sight*, Cambridge, MA: MIT Press.
-* Pittman, J. P. (ed.), 1996, *African-American Perspectives and Philosophical Traditions*, New York: Routledge.
-* Radford-Curry, B., 1994, “On the Social Construction of a Women’s and Gender Studies Major,” in S. M. Deats, & L. T. Lenker (eds.), *Gender and Academe: Feminist Pedagogy and Politics.* Lanham, MD: Roman & Littlefield.
-* Shelby, T., 2005, *We Who Are Dark: The Philosophical Foundations of Black Solidarity*, Cambridge, MA: Harvard University Press.
-* Stewart, M. W., \[1831] 1987, “Religion and the Pure Principles of Morality,” in M. Richardson (ed.), *Maria W.* *Stewart, America’s First Black Political Writer: Essays and Speeches*, Bloomington, IN: Indiana University Press, pp. 28–42.
-* Taylor, P.C., 2003, *Race: A Philosophical Introduction*, London: Polity Press.
-* –––, 2016, *Black Is Beautiful: A Philosophy of Black Aesthetics*, Hoboken: Wiley-Blackwell.
-* Terrell, M. C., \[1904] 1995, “The Progress of Colored Women,” in B. Guy-Sheftall (ed.), *Words of Fire: An Anthology of African-American Feminist Thought*, New York: The New Press, pp. 64–68.
-* Thomas, L., 1989, *Living Morally: A Psychology of Moral Character*, Philadelphia, PA: Temple University Press.
-* Thomas, L., 1993, *Vessels of Evil: American Slavery and the Holocaust*, Philadelphia, PA: Temple University Press.
-* Truth, S., \[1851] 1997, “Ar’n’t I a Woman?,” in H. L. Gates, Jr. & N. Y. McKay (eds.), *The Norton Anthology of African American Literature*, New York: W.W. Norton, pp. 198–201.
-* Walker, D., \[1829] 1997, “David Walker’s Appeal in Four Articles; Together with a Preamble, to the Coloured Citizens of the World,” in H. L. Gates, Jr. & N. Y. McKay (eds.), *The Norton Anthology of African American Literature*, New York: W.W. Norton, pp. 179–190.
-* Washington, B. T., \[1895] 1992, “Atlanta Exposition Address,” in H. Brotz (ed.), *African-American Social and Political Thought 1850–1920*, New Brunswick, NJ: Transaction Publishers, pp. 356–359.
-* Washington, B. T., \[1901] 1963, *Up From Slavery*, New York: Bantam.
-* Washington, J., 1986, *Alain Locke and Philosophy: A Quest for Cultural Pluralism.* Lanham, MD: University Press of America.
-* Washington, J. M. (ed.), 1986, *A Testament of Hope: The Essential Writings of Martin Luther King, Jr.*, San Francisco: Harper & Row.
-* Wells-Barnett, I. B., \[1895] 2009, *The Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States*, Gloucester, UK: Dodo Press.
-* Wells-Barnett, I. B., \[1900] 1995, “Lynch Law in America,” in B. Guy-Sheftall (ed.), *Words of Fire: An Anthology of African-American Feminist Thought*, New York: The New Press, pp. 70–76.
-* West, C., 1982, *Prophesy Deliverance!*, Louisville: Westminster John Knox Press.
-* –––, 1994, *Race Matters*, New York: Vintage Books.
-* Wheatley, P., \[1773] 1997, “On Being Brought from Africa to America,” in H. L. Gates, Jr. & N. Y. McKay (eds.), *The Norton Anthology of African American Literature*, New York: W.W. Norton, pp. 171–171.
-* Yancy, G. (ed.), 1998, *African-American Philosophers: 17 Conversations*, New York: Routledge.
-* Yancy, G., 2008, “Introduction: Situated Black Women’s Voices in/on the Profession of Philosophy,” *Hypatia*, 23 (2), 155–159.
-* Zack, N., 1995, *American Mixed Race: The Culture of “Microdiversity,”* Lanham, MD: Rowman & Littlefield.
-* Zack, N., 1998, *Thinking About Race*, Belmont, CA: Wadsworth.
-* Zack, N., 2005, *Inclusive Feminism: A Third Wave Theory of Women’s Commonality*, Lanham, MD: Rowman & Littlefield.
+* Alexander, S. T., \[1930] 1995, “Negro Women in Our Economic Life,” in B. Guy-Sheftall (ed.), _Words of Fire: An Anthology of African-American Feminist Thought_, New York: The New Press, pp. 96–100.
+* Allen, A., 2004, _The New Ethics: A Guided Tour of the Twenty-first Century Moral Landscape_, New York: Maramax.
+* Allen, A., 1988, _Uneasy Acess: Provacy for Women in a Free Society_, Totowa, NJ: Roman & Littlefield.
+* Allen, A., 2003, _Why Privacy Isn’t Everything: Feminist Reflections on Personal Accountability_, Lanham, MD: Roman & Littlefield.
+* Appiah, K. A., 2014, _Lines of Descent: W. E. B. Du Bois and the Emergence of Identity_, Cambridge, MA: Harvard University Press.
+* Birt, R., 1990, “A Returning to the Source: The Philosophy of Alain Locke,” _Quest_, December, 103–113.
+* Birt, R., 1986, “Alienation in the Later Philosophy of Jean-Paul Sartre,” _Man and World_, 19, 293–309.
+* Blyden, E. W., \[1862] 1992, “The Call of Providence to the Descendants of Africa in America,” in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, New Brunswick, NJ: Transaction Publishers, pp. 112–126.
+* Boxill, B., 1984, _Blacks and Social Justice_, Totowa, NJ: Rowman & Littlefield.
+* Bracey, J., A. Meier, & E. Rudwick (eds.), 1970, _Black Nationalism in America_, New York: Bobbs-Merrill.
+* Brotz, H. (ed.), 1992, _African-American Social and Political Thought 1850–1920_, 2nd edition, New Brunswick, NJ: Transaction Publishers.
+* Cooper, A. J., \[1886] 1997, “Womanhood a Vital Element in the Regeneration and Progress of a Race,” in H.L. Gates, Jr. & N. Y. McKay (eds.), _The Norton Anthology of African American Literature_, New York: W.W. Norton, pp. 554–569.
+* Cooper, A. J., \[1892] 1990, _A Voice from the South_, New York: Oxford University Press.
+* Cooper, A. J., \[1925] 1988, _Slavery and the French Revolutionists (1788–1805)_, F. R. Keller, (trans.), Lewiston, NY: Edwin Mellen Press.
+* Crummell, A., 1995, _Civilization and Progress: Selected Writings of Alexander Crummell on the South_, J. Oldfield (ed.), Charlottesville, VA: University Press of Virginia.
+* Crummell, A., \[1860] 1992, “The Relations and Duties of Free Colored Men in America to Africa” (excerp), in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, New Brunswick, NJ: Transaction Publishers, pp. 171–190.
+* Curry, T. J. (ed.), 2016, _The Philosophical Treatise of William H. Ferris: Selected Readings from_ The African Abroad or, His Evolution in Western Civilization, New York: Rowman & Littlefield.
+* Davis, A., 1998, _Blues Legacies and Black Feminism: Gertrude “Ma” Rainey, Bessie Smith, and Billie Holiday_, New York: Pantheon Books.
+* Davis, A., 1971, _If They Come in the Morning_, New York: Third Press.
+* Davis, A., 1990, _Women, Culture and Politics_, New York: Vintage Books.
+* Delany, M. R., \[1852] 2004, _The Condition, Elevation, Emigration, and Destiny of the Colored People of the United States and Official Report of the Niger Valley Exploring Party_, Amherst, NY: Humanity Books.
+* Douglass, F., \[1845] 2002, _Narrative of the Life of Frederick Douglass: An American Slave, Written by Himself_, 2nd edition, New York: Bedford/St. Martin’s Press.
+* Du Bois, W.E.B., \[1903] 1992, “Of Mr. Booker T. Washington and Others,” in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 509–518.
+* Du Bois, W.E.B., \[1897] 1992, “The Conservation of Races,” in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 483–492.
+* Du Bois, W.E.B., \[1960] 1973, “Whither Now and Why,” in H. Aptheker (ed.), _The Education of Black People: Ten Critiques, 1906–1960, By W.E.B_ _Du Bois_, Amherst, MA: University of Massachusetts Press, pp. 149–158.
+* Dunbar-Nelson, A., \[1927] 1995, “The Negro Woman and the Ballot,” in B. Guy-Sheftall (ed.), _Words of Fire: An Anthology of African-American Feminist Thought_, New York: The New Press, pp. 86–89.
+* Equiano, O., \[1789] 2004, _The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African, Written by Himself_, New York: Modern Library.
+* Fortune, T. T., \[1844] 1996, “Political Independence of the Negro,” in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, New Brunswick, NJ: Transaction Publishers, pp. 332–350.
+* Franklin, J. H., & A. Moss, Jr., 2000, _From Slavery to Freedom: A History of African Americans_, 8th edition, New York: Knopf.
+* Frye, C., c1988, _From Egypt to Don Juan: The Anatomy of Black Studies_, Lanham, MD: University Press of America.
+* Frye, C., 1980, _Level Three: A Black Philosophy Reader_, Lanham, MD: University Press of America.
+* Fuller, H., 1994, “Towards a Black Aesthetic,” in A. Mitchell (ed.), _Within the Circle: An Anthology of African American Literary Criticism from the Harlem Renaissance to the Present_, Durham, NC: Duke University Press, pp. 199–206.
+* Garnet, H. H., \[1848] 1992, “The Past and the Present Condition, and the Destiny of the Colored Race” (excerpt), in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, New Brunswick, NJ: Transaction Publishers, pp. 199–202.
+* Garvey, M. \[1922a] 1992, “Race Assimilation,” in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 553–554.
+* Garvey, M. \[1922b] 1992, “The True Solution of the Negro Problem,” in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 554–555.
+* Garvey, M. \[1923] 1992, “An Appeal to the Conscience of the Black Race to See Itself,” in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, 2nd edition, New Brunswick, NJ: Transaction Publishers, pp. 562–566.
+* Garvey, M. & A. J. Garvey, \[1925] 1986, _The Philosophy and Opinions of Marcus Garvey, Or, Africa for the Africans_, Dover, MA: Majority Press.
+* Gates, Jr., H.L. & N.Y. McKay (eds.), 1997, _The Norton Anthology of African American Literature_, New York: W.W. Norton.
+* Gayle, Jr., A. (ed.), 1972, _The Black Aesthetic_, New York: Doubleday.
+* Gooding-Williams, R., 2009, _In the Shadow of Du Bois: Afro-Modern Political Thought in America_, Cambridge, MA: Harvard University Press.
+* Glaude, E., 2000, _Exodus: Religion, Race and Nation in Early Nineteenth-Century Black America_, Chicago: University of Chicago Press.
+* Glaude, E. (ed.), 2003, _Is It Nation Time?: Contemporary Essays on Black Power and Black Nationalism_, Chicago: University of Chicago Press.
+* Gooding-Williams, R., 2006, _Look, A Negro!_, London: Routledge.
+* Gordon, L., 1995a, _Bad Faith and Antiblack Racism_, New Jersey: Humanities Press.
+* Gordon, L., 1995b, _Fanon and the Crisis of European Man: An Essay on Philosophy and the Human Sciences_, New Jersey: Humanities Press.
+* Guy-Sheftall, B. (ed.), 1995, _Words of Fire: An Anthology of African-American Feminist Thought_, New York: The New Press.
+* Harper, F. E., \[1893] 1995, “Woman’s Political Future,” in B. Guy-Sheftall (ed.), _Words of Fire: An Anthology of African-American Feminist Thought_, New York: The New Press, pp. 436–439.
+* Harris, L. (ed.), 1983, _Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917_, Dubuque, Iowa: Kendall/Hunt.
+* Harris, L., 1989, _The Philosophy of Alain Locke: Harlem Renaissance and Beyond_, Philadelphia, PA: Temple University Press.
+* Holly, J. T., \[1857] 1992, “A Vindication of the Capacity of the Negro Race for Self-Government and Civilized Progress,” in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, New Brunswick, NJ: Transaction Publishers, pp. 140–170.
+* Huggins, N. I., 2007, _Harlem Renaissance_, 2nd edition, New York: Oxford University Press.
+* James, J., 1997, _Transcending the Talented Tenth: Black Leaders and American Intellectuals_, New York: Routledge.
+* James, J., & A. Davis (eds.), 1998, _The Angela Davis Reader_, Malden, MA: Blackwell.
+* Johnston, P. E., 1970, _Afro-American Philosophers_, Montclair, NJ: Montclair State College Press.
+* Kennedy, F., \[1946] 1995, “A Comparative Study: Accentuating the Similarities of the Societal Position of Women and Negroes,” in B. Guy-Sheftall (ed.), _Words of Fire: An Anthology of African-American Feminist Thought_, New York: The New Press, pp. 102–106.
+* Kirkland, F., 1997, “Modernity and Intellectual Life in Black,” in J. Pittman (ed.), _African-American Perspectives and Philosophical Traditions_, New York: Routledge, pp. 136–165.
+* Kirkland, F., 2004, “The Problem of the Color Line: Normative or Empirical, Evolving or Non-Evolving,” _Philosophia Africana: Analysis of Philosohy and Issues in Africa and the Black Diaspora_, 7 (1): 57–82.
+* Kuklick, B., 2001, _A History of Philosophy in America, 1720–2000_, Oxford: Clarendon Press.
+* Kuklick, B., 2008, _Black Philosopher, White Academy_, Philadelphia, PA: University of Pennsylvania Press.
+* Lawson, B., & H. McGary, 1993, _Between Slavery and Freedom_, Bloomington, IN: Indiana University Press.
+* Locke, A. (ed.), 1925, _The New Negro: An Interpretation_, New York: A. and C. Boni.
+* Lott, T. L. (ed.), 2002, _African-American Philosophy: Selected Readings_, Upper Saddle River, NJ: Prentice Hall.
+* Lott, T. L., & J. P. Pittman (eds.), 2003, _A Companion to African-American Philosophy_, Malden, MA: Blackwell.
+* Martin, T., 1986, _Race First: The Ideological and Organizational Struggles of Marcus Garvey and the Universal Negro Improvement Association_, 2nd edition, Dover, MA: Majority Press.
+* McClendon, III, J. H., 2004, “The African American Philosopher and Academic Philosophy: On the Problem of Historical Interpretation,” _American Philosophical Association Newsletters: Newsletter on Philosophy and the Black Experience_, 4 (1): 1–9.
+* McDade, J. (ed.), 1977–78, _The Philosophical Forum: Special Issue: Philosophy and Black Experience_, 9 (Winter-Spring).
+* McDougald, E. J., \[1924] 1995, “The Struggle of Negro Women for Sex and Race Emancipation,” in B. Guy-Sheftall (ed.), _Words of Fire: An Anthology of African-American Feminist Thought_, New York: The New Press, pp. 80–83.
+* McGary, H., 1999, _Race and Social Justice_, Hoboken: Wiley-Blackwell.
+* Mills, C. W., 1998, _Blackness Visible: Essays on Philosophy and Race._ Ithaca, NY: Cornell University Press.
+* Mills, C. W., 1999, _The Racial Contract._ Ithaca, NY: Cornell University Press.
+* Montmarquet, J. A., & W. H. Hardy (eds.), 2000, _Reflections: An Anthology of African American Philosophy_, Belmont, CA: Wadsworth.
+* Moody-Adams, M., 1997, _Fieldwork in Familiar Places: Morality, Culture, and Philosophy_, Cambridge, MA: Harvard University Press.
+* Mosley, A., 2007, “The Moral Significance of the Music of the Black Atlantic,” _Philosophy East and West_, 57 (3): 345–356.
+* Piper, A., 1996, _Out of Order, Out of Sight_, Cambridge, MA: MIT Press.
+* Pittman, J. P. (ed.), 1996, _African-American Perspectives and Philosophical Traditions_, New York: Routledge.
+* Radford-Curry, B., 1994, “On the Social Construction of a Women’s and Gender Studies Major,” in S. M. Deats, & L. T. Lenker (eds.), _Gender and Academe: Feminist Pedagogy and Politics._ Lanham, MD: Roman & Littlefield.
+* Shelby, T., 2005, _We Who Are Dark: The Philosophical Foundations of Black Solidarity_, Cambridge, MA: Harvard University Press.
+* Stewart, M. W., \[1831] 1987, “Religion and the Pure Principles of Morality,” in M. Richardson (ed.), _Maria W._ _Stewart, America’s First Black Political Writer: Essays and Speeches_, Bloomington, IN: Indiana University Press, pp. 28–42.
+* Taylor, P.C., 2003, _Race: A Philosophical Introduction_, London: Polity Press.
+* –––, 2016, _Black Is Beautiful: A Philosophy of Black Aesthetics_, Hoboken: Wiley-Blackwell.
+* Terrell, M. C., \[1904] 1995, “The Progress of Colored Women,” in B. Guy-Sheftall (ed.), _Words of Fire: An Anthology of African-American Feminist Thought_, New York: The New Press, pp. 64–68.
+* Thomas, L., 1989, _Living Morally: A Psychology of Moral Character_, Philadelphia, PA: Temple University Press.
+* Thomas, L., 1993, _Vessels of Evil: American Slavery and the Holocaust_, Philadelphia, PA: Temple University Press.
+* Truth, S., \[1851] 1997, “Ar’n’t I a Woman?,” in H. L. Gates, Jr. & N. Y. McKay (eds.), _The Norton Anthology of African American Literature_, New York: W.W. Norton, pp. 198–201.
+* Walker, D., \[1829] 1997, “David Walker’s Appeal in Four Articles; Together with a Preamble, to the Coloured Citizens of the World,” in H. L. Gates, Jr. & N. Y. McKay (eds.), _The Norton Anthology of African American Literature_, New York: W.W. Norton, pp. 179–190.
+* Washington, B. T., \[1895] 1992, “Atlanta Exposition Address,” in H. Brotz (ed.), _African-American Social and Political Thought 1850–1920_, New Brunswick, NJ: Transaction Publishers, pp. 356–359.
+* Washington, B. T., \[1901] 1963, _Up From Slavery_, New York: Bantam.
+* Washington, J., 1986, _Alain Locke and Philosophy: A Quest for Cultural Pluralism._ Lanham, MD: University Press of America.
+* Washington, J. M. (ed.), 1986, _A Testament of Hope: The Essential Writings of Martin Luther King, Jr._, San Francisco: Harper & Row.
+* Wells-Barnett, I. B., \[1895] 2009, _The Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States_, Gloucester, UK: Dodo Press.
+* Wells-Barnett, I. B., \[1900] 1995, “Lynch Law in America,” in B. Guy-Sheftall (ed.), _Words of Fire: An Anthology of African-American Feminist Thought_, New York: The New Press, pp. 70–76.
+* West, C., 1982, _Prophesy Deliverance!_, Louisville: Westminster John Knox Press.
+* –––, 1994, _Race Matters_, New York: Vintage Books.
+* Wheatley, P., \[1773] 1997, “On Being Brought from Africa to America,” in H. L. Gates, Jr. & N. Y. McKay (eds.), _The Norton Anthology of African American Literature_, New York: W.W. Norton, pp. 171–171.
+* Yancy, G. (ed.), 1998, _African-American Philosophers: 17 Conversations_, New York: Routledge.
+* Yancy, G., 2008, “Introduction: Situated Black Women’s Voices in/on the Profession of Philosophy,” _Hypatia_, 23 (2), 155–159.
+* Zack, N., 1995, _American Mixed Race: The Culture of “Microdiversity,”_ Lanham, MD: Rowman & Littlefield.
+* Zack, N., 1998, _Thinking About Race_, Belmont, CA: Wadsworth.
+* Zack, N., 2005, _Inclusive Feminism: A Third Wave Theory of Women’s Commonality_, Lanham, MD: Rowman & Littlefield.
 
 ### Afro-Caribbean Philosophy
 
-* Bogues, B. Anthony, 1997, *Caliban’s Freedom: The Early Political Thought of C.L.R. James*, London: Pluto.
-* –––, 2003, *Black Heretics, Black Prophets: Radical Political Intellectuals*, New York: Routledge.
-* Gordon, L., 2008, “Afro-Caribbean Philosophy,” in L. Gordon, *An Introduction to Africana Philosophy*, New York: Cambridge University Press, pp. 157–184.
-* Grimshaw, A., 1992, *The C.L.R. James Reader*, Oxford: Blackwell.
-* Henry, Paget, 2000, *Caliban’s Reason: Introducing Afro-Caribbean Philosophy*, New York: Routledge.
-* –––, 2005, “Africana Phenomenology: Its Philosophical Implications,” *The C.L.R. James Journal*, 11 (1): 79–112.
+* Bogues, B. Anthony, 1997, _Caliban’s Freedom: The Early Political Thought of C.L.R. James_, London: Pluto.
+* –––, 2003, _Black Heretics, Black Prophets: Radical Political Intellectuals_, New York: Routledge.
+* Gordon, L., 2008, “Afro-Caribbean Philosophy,” in L. Gordon, _An Introduction to Africana Philosophy_, New York: Cambridge University Press, pp. 157–184.
+* Grimshaw, A., 1992, _The C.L.R. James Reader_, Oxford: Blackwell.
+* Henry, Paget, 2000, _Caliban’s Reason: Introducing Afro-Caribbean Philosophy_, New York: Routledge.
+* –––, 2005, “Africana Phenomenology: Its Philosophical Implications,” _The C.L.R. James Journal_, 11 (1): 79–112.
 
 ## Academic Tools
 
@@ -488,5 +488,5 @@ The reason, Harold Cruse, a wise and very experienced elder of Left and National
 African Philosophy: Africana aesthetics | [African Philosophy: ethics](https://plato.stanford.edu/entries/african-ethics/) | African Philosophy: ethnophilosophy | African Philosophy: meta-philosophy | African Philosophy: philosophy of religion | [African Philosophy: sage philosophy](https://plato.stanford.edu/entries/african-sage/) | Afro-Caribbean Philosophy | Akan Philosophy: ethics and political philosophy | [Akan Philosophy: of the person](https://plato.stanford.edu/entries/akan-person/) | [double consciousness](https://plato.stanford.edu/entries/double-consciousness/) | [Douglass, Frederick](https://plato.stanford.edu/entries/frederick-douglass/) | [Locke, Alain LeRoy](https://plato.stanford.edu/entries/alain-locke/) | [Négritude](https://plato.stanford.edu/entries/negritude/) | race: and Black identity | [reparations, Black](https://plato.stanford.edu/entries/black-reparations/) | Yoruba Philosophy: epistemology | Yoruba Philosophy: ethics and aesthetics
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
-[Lucius T. Outlaw Jr.](http://www.vanderbilt.edu/AnS/philosophy/\*people/\*outlaw.html) <[*loutlawjr@comcast.net*](mailto:loutlawjr%40comcast%2enet)>\
-[Chike Jeffers](http://philosophy.dal.ca/Faculty%20and%20Staff/Chike\*Jeffers.php) <[*Chike.Jeffers@dal.ca*](mailto:Chike%2eJeffers%40dal%2eca)>
+[Lucius T. Outlaw Jr.](http://www.vanderbilt.edu/AnS/philosophy/\*people/\*outlaw.html) <[_loutlawjr@comcast.net_](mailto:loutlawjr%40comcast%2enet)>\
+[Chike Jeffers](http://philosophy.dal.ca/Faculty%20and%20Staff/Chike\*Jeffers.php) <[_Chike.Jeffers@dal.ca_](mailto:Chike%2eJeffers%40dal%2eca)>
