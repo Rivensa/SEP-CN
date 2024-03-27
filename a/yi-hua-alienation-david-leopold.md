@@ -1,6 +1,6 @@
 # 异化 alienation (David Leopold)
 
-_首次发布于 2018 年 8 月 30 日；实质性修订于 2022 年 10 月 6 日_
+*首次发布于 2018 年 8 月 30 日；实质性修订于 2022 年 10 月 6 日*
 
 异化的概念指的是一种特定类型的心理或社会问题；即，涉及自我与其他本应相互关联却存在问题的分离。因此，理解上，异化似乎在很大程度上起到诊断或批判的作用，有时被认为暗示着自由社会和自由政治哲学都存在问题。异化理论通常会选择其中一部分问题分离作为特别重要的对象，并提供对异化程度和预后的解释。讨论异化问题特别与黑格尔和马克思主义知识传统有关，但并非仅限于此。
 
@@ -41,7 +41,7 @@ _首次发布于 2018 年 8 月 30 日；实质性修订于 2022 年 10 月 6 �
 
 ### 1.1 引言
 
-术语“异化”通常被认为起源于相对较新的欧洲。在英语中，这个术语在 15 世纪初就已经出现，并具有一系列有趣的关联。 “异化”及其同源词可以有不同的含义：指个体与上帝的疏离（在威克里夫圣经中出现）；指法律上的所有权转让（最初主要是土地）；以及指精神错乱（这种历史联系一直延续到 19 世纪“精神病医生”一词的使用）。有人说，“异化”一词通过英语的法律用法进入了德语，尽管格奥尔格·威廉·弗里德里希·黑格尔（1770-1831）通常使用“_Entäusserung_”而不是“_Entfremdung_”来指代财产转让（黑格尔 1991a：§65）。 （只有后者与“_fremd_”或“外国”有词源联系。）此外，也许最早对异化进行哲学讨论的是法国人。在《第二篇论文》中，让-雅克·卢梭（1712-1778）诊断了“炽热”的自我爱（有时在早期英文翻译中被译为“骄傲”或“虚荣”），其毒性被某些社会和历史发展放大，表现为个体的异化形式；也就是说，个体的行为和生活与他们自身的本性分离（参见卢梭 1997 年和福斯特 2017 年，526-30）。
+术语“异化”通常被认为起源于相对较新的欧洲。在英语中，这个术语在 15 世纪初就已经出现，并具有一系列有趣的关联。 “异化”及其同源词可以有不同的含义：指个体与上帝的疏离（在威克里夫圣经中出现）；指法律上的所有权转让（最初主要是土地）；以及指精神错乱（这种历史联系一直延续到 19 世纪“精神病医生”一词的使用）。有人说，“异化”一词通过英语的法律用法进入了德语，尽管格奥尔格·威廉·弗里德里希·黑格尔（1770-1831）通常使用“*Entäusserung*”而不是“*Entfremdung*”来指代财产转让（黑格尔 1991a：§65）。 （只有后者与“*fremd*”或“外国”有词源联系。）此外，也许最早对异化进行哲学讨论的是法国人。在《第二篇论文》中，让-雅克·卢梭（1712-1778）诊断了“炽热”的自我爱（有时在早期英文翻译中被译为“骄傲”或“虚荣”），其毒性被某些社会和历史发展放大，表现为个体的异化形式；也就是说，个体的行为和生活与他们自身的本性分离（参见卢梭 1997 年和福斯特 2017 年，526-30）。
 
 对于异化概念的一般性讨论有其局限性；也就是说，如果不涉及特定作者提出的特定观点或与特定知识传统相关的复杂性，就很难有有用的论述。然而，这里有一个基本的思想似乎能够涵盖许多作者和传统，并且并不过于难以捉摸或难以理解。
 
@@ -51,13 +51,13 @@ _首次发布于 2018 年 8 月 30 日；实质性修订于 2022 年 10 月 6 �
 
 那种基本思想的表述可能过于简略，不容易理解，当然需要稍作阐述。这里提供的异化的描述——作为一种社会或心理上的问题，涉及到一个主体和一个本应相互关联的客体之间的问题分离——包含三个组成要素：一个主体，一个客体，以及它们之间的关系。依次对每个要素多说一点会有帮助。
 
-首先，这里的_主体_是一个自我；通常情况下，但不一定是一个人，一个个体行动者。之所以说“不一定”，是因为主体也可以是某种群体。似乎没有充分的理由否认集体和个体行动者都可能与某个客体发生异化。例如，除了安娜与她的政府发生异化之外，可能还有妇女或公民发现自己与他们的政府发生了异化。
+首先，这里的*主体*是一个自我；通常情况下，但不一定是一个人，一个个体行动者。之所以说“不一定”，是因为主体也可以是某种群体。似乎没有充分的理由否认集体和个体行动者都可能与某个客体发生异化。例如，除了安娜与她的政府发生异化之外，可能还有妇女或公民发现自己与他们的政府发生了异化。
 
-其次，相关的_客体_可以采取多种形式。这些形式包括：不是主体的实体；另一个主体或多个主体；以及自己。这里的客体可能是一个不是主体的实体；例如，比阿特丽斯可能与自然界、社会实践、机构或社会规范疏离，其中这些实体都不被理解为任何类型的行动者。此外，客体可能是另一个主体，另一个人或群体；例如，比阿特丽斯可能与她的童年朋友塞西尔疏离，比阿特丽斯也可能与自己的家庭疏离。最后，这里的客体可能是原始主体；也就是说，可能存在关系的反身变体，例如，比阿特丽斯与自己疏离。
+其次，相关的*客体*可以采取多种形式。这些形式包括：不是主体的实体；另一个主体或多个主体；以及自己。这里的客体可能是一个不是主体的实体；例如，比阿特丽斯可能与自然界、社会实践、机构或社会规范疏离，其中这些实体都不被理解为任何类型的行动者。此外，客体可能是另一个主体，另一个人或群体；例如，比阿特丽斯可能与她的童年朋友塞西尔疏离，比阿特丽斯也可能与自己的家庭疏离。最后，这里的客体可能是原始主体；也就是说，可能存在关系的反身变体，例如，比阿特丽斯与自己疏离。
 
-第三，_关系_是一个问题性的主体和客体之间的分离。所有这些要素都是必需的：必须有一个分离；分离必须是有问题的；并且它必须发生在一个本应该归属在一起的主体和客体之间。
+第三，*关系*是一个问题性的主体和客体之间的分离。所有这些要素都是必需的：必须有一个分离；分离必须是有问题的；并且它必须发生在一个本应该归属在一起的主体和客体之间。
 
-_分离_的概念很重要。并非所有相关实体之间的问题关系都涉及到异化。例如，过度融入其他对象可能也是一种问题或功能失调的关系，但这不是通常所说的异化。例如，想象一下，塞西尔除了家庭成员身份之外，没有生活、没有身份、找不到意义。对于现代人来说，诱人的是说她与家庭有一种“不健康”的关系，但说她与家庭疏离似乎有些奇怪。异化通常涉及与某物的分离。
+*分离*的概念很重要。并非所有相关实体之间的问题关系都涉及到异化。例如，过度融入其他对象可能也是一种问题或功能失调的关系，但这不是通常所说的异化。例如，想象一下，塞西尔除了家庭成员身份之外，没有生活、没有身份、找不到意义。对于现代人来说，诱人的是说她与家庭有一种“不健康”的关系，但说她与家庭疏离似乎有些奇怪。异化通常涉及与某物的分离。
 
 这些问题分离可以通过各种各样的词语和短语来表示。基本思想似乎不需要特定的词汇。这里的语言多样性可能包括暗示：断裂（“分裂”，“破裂”，“分叉”，“分割”等）；孤立（“冷漠”，“无意义”，“无力”，“脱离联系”等）；和敌意（“冲突”，“对抗”，“统治”等）。所有这些，以及其他更多的方式，都可能是指示相关类型的问题分离的方式。当然，特定的作者可能更系统地使用语言，但似乎没有理由坚持基本思想需要特定的词汇。
 
@@ -119,9 +119,9 @@ _分离_的概念很重要。并非所有相关实体之间的问题关系都涉
 
 本节介绍了这些有趣复杂性中的第一个，并对其进行了一些初步的思考；即将异化分为主观和客观两种类型（Hardimon 1994: 119–122）。并非所有的理论家或传统都使用这种区分（无论是明确还是隐含），但它可以在理解特定作者提出的诊断和处理特定案例时提供相当大的帮助。
 
-首先，异化有时被描述为主体对问题分离的感受、思考或其他体验。这可以称为_主观_异化。例如，因为英格丽德感到与世界疏离，她的生活缺乏意义，她在世界中感到不“在家\[_zu Hause_]”，这些都可以说是她被异化了（例如 1991a: §4A，§187A 和§258A）。
+首先，异化有时被描述为主体对问题分离的感受、思考或其他体验。这可以称为*主观*异化。例如，因为英格丽德感到与世界疏离，她的生活缺乏意义，她在世界中感到不“在家\[*zu Hause*]”，这些都可以说是她被异化了（例如 1991a: §4A，§187A 和§258A）。
 
-其次，异化有时被描述为与主体的感受、思想或体验无关的方式。这可以称为_客观_异化。例如，朱丽叶塔可能被认为是被异化了，因为某种分离阻止她发展和发挥她的基本人类特征，阻止她参与自我实现的活动等等。这些说法在各种方面都存在争议，但它们假设异化是关于潜力的挫败，并且不涉及朱丽叶塔是否将这种缺乏视为损失。也许朱丽叶塔真正享受她缺乏自我实现的生活，甚至有意识地拒绝将自我实现的目标视为过于苛求和不吸引人的理想。
+其次，异化有时被描述为与主体的感受、思想或体验无关的方式。这可以称为*客观*异化。例如，朱丽叶塔可能被认为是被异化了，因为某种分离阻止她发展和发挥她的基本人类特征，阻止她参与自我实现的活动等等。这些说法在各种方面都存在争议，但它们假设异化是关于潜力的挫败，并且不涉及朱丽叶塔是否将这种缺乏视为损失。也许朱丽叶塔真正享受她缺乏自我实现的生活，甚至有意识地拒绝将自我实现的目标视为过于苛求和不吸引人的理想。
 
 主观异化有时会受到贬低 - 例如，被视为仅涉及个体对“真实”异化的“感受”。然而，主观异化更好地被理解为一种完全的、有意义的异化形式，尽管不是唯一的形式。如果你真正感到异化，那么你确实是（主观上）被异化的。
 
@@ -174,9 +174,9 @@ _分离_的概念很重要。并非所有相关实体之间的问题关系都涉
 
 ### 4.2 人类本质的本质
 
-为了了解对人类本质的诉求如何起作用，想象两位假设的理论家——卡特琳娜和劳拉——试图评估特定社会中是否存在异化。我们可以假定这个特定社会的制度和文化是个人主义的——在这个意义上，它们系统地阻碍合作和社交——而这两位理论家在很多观点上是相同的，但并非全部相同。特别是，假设我们的两位理论家_同意_：异化是一个连贯且有用的概念；在这里给出的异化解释在广义上是合理的；在这个特定社会中，唯一一个可能引起问题的分离是由于它的个人主义；而我们的人类本质为评估分离提供了“适当性”的基准。简而言之，如果分离阻碍了“自我实现”，那么它们是有问题的；如果分离促进了“自我实现”，那么它们是无问题的。在这里，“自我实现”被理解为美好生活的核心部分，包括个体本质特征的发展和展示。然而，也假设卡特琳娜和劳拉在人类本质的构成上_存在分歧_。特别是，他们对于合作和社交是否是人类本质特征存在分歧，卡特琳娜坚持它们是，而劳拉坚持它们不是。似乎可以得出结论，卡特琳娜会得出这个社会存在异化的结论，而劳拉会否认。对于卡特琳娜来说，广泛缺乏合作和社交证实了这里基本社会制度_阻碍_了我们的自我实现。对于劳拉来说，同样广泛缺乏合作和社交证实了这里基本社会制度_促进_了，或者至少_没有_阻碍我们的自我实现。
+为了了解对人类本质的诉求如何起作用，想象两位假设的理论家——卡特琳娜和劳拉——试图评估特定社会中是否存在异化。我们可以假定这个特定社会的制度和文化是个人主义的——在这个意义上，它们系统地阻碍合作和社交——而这两位理论家在很多观点上是相同的，但并非全部相同。特别是，假设我们的两位理论家*同意*：异化是一个连贯且有用的概念；在这里给出的异化解释在广义上是合理的；在这个特定社会中，唯一一个可能引起问题的分离是由于它的个人主义；而我们的人类本质为评估分离提供了“适当性”的基准。简而言之，如果分离阻碍了“自我实现”，那么它们是有问题的；如果分离促进了“自我实现”，那么它们是无问题的。在这里，“自我实现”被理解为美好生活的核心部分，包括个体本质特征的发展和展示。然而，也假设卡特琳娜和劳拉在人类本质的构成上*存在分歧*。特别是，他们对于合作和社交是否是人类本质特征存在分歧，卡特琳娜坚持它们是，而劳拉坚持它们不是。似乎可以得出结论，卡特琳娜会得出这个社会存在异化的结论，而劳拉会否认。对于卡特琳娜来说，广泛缺乏合作和社交证实了这里基本社会制度*阻碍*了我们的自我实现。对于劳拉来说，同样广泛缺乏合作和社交证实了这里基本社会制度*促进*了，或者至少*没有*阻碍我们的自我实现。
 
-请注意，在第 1.2 小节中，详细阐述了异化的基本思想，区分了主体和客体之间的各种关系，其中只有一种被描述为反身性。然而，根据目前的讨论，我们现在可能认为更准确的说法是——在这种使用我们的本质人性来识别异化的观点中，只有其中一种是_直接_反身性的，因为从某种意义上说，所有这些异化的维度都涉及到与我们自己的人性某个方面的分离。毕竟，这正是将相关的分离问题化的原因。例如，对于卡特琳娜来说，个体之间的分离间接地也是与人性的分离，与协作和社交性有关，这些特征构成了我们的本质人性。
+请注意，在第 1.2 小节中，详细阐述了异化的基本思想，区分了主体和客体之间的各种关系，其中只有一种被描述为反身性。然而，根据目前的讨论，我们现在可能认为更准确的说法是——在这种使用我们的本质人性来识别异化的观点中，只有其中一种是*直接*反身性的，因为从某种意义上说，所有这些异化的维度都涉及到与我们自己的人性某个方面的分离。毕竟，这正是将相关的分离问题化的原因。例如，对于卡特琳娜来说，个体之间的分离间接地也是与人性的分离，与协作和社交性有关，这些特征构成了我们的本质人性。
 
 ### 4.3 一个替代的标准
 
@@ -208,13 +208,13 @@ Rahel Jaeggi 提供了这种类型的异化描述，并明确将其置于批判�
 
 这里的辩证模式涉及到一个特定主体和客体之间的发展关系：一方面是个体，另一方面是他们的社会角色和社区。所谓“辩证”的进展只是指从一个被“未分化统一”关系所特征的阶段，经过一个被“分化不统一”关系所特征的阶段，到一个被“分化统一”关系所特征的阶段的运动。这里并没有进一步的关于这种进展的必然性、自然性或普遍性的主张（Cohen 1974: 237）。
 
-这里的辩证进程涉及三个_历史_阶段：
+这里的辩证进程涉及三个*历史*阶段：
 
-首先，_过去_（资本主义之前）的社会被认为体现了未分化的统一。在这个阶段，个体被埋没在他们的社会角色和社区中，几乎没有概念化，更不用说推动自己的身份和利益与更广泛的社区区分开来了。
+首先，*过去*（资本主义之前）的社会被认为体现了未分化的统一。在这个阶段，个体被埋没在他们的社会角色和社区中，几乎没有概念化，更不用说推动自己的身份和利益与更广泛的社区区分开来了。
 
-其次，_现在_（资本主义）社会被认为体现了差异化的不团结。在这个阶段，独立和分离占主导地位，个人只关心自己，几乎不考虑更广泛社区的身份和利益。事实上，他们通常与后者隔离，并对后者漠不关心甚至敌对。
+其次，*现在*（资本主义）社会被认为体现了差异化的不团结。在这个阶段，独立和分离占主导地位，个人只关心自己，几乎不考虑更广泛社区的身份和利益。事实上，他们通常与后者隔离，并对后者漠不关心甚至敌对。
 
-第三，_未来_（共产主义）社会被认为体现了差异化的统一。在这个阶段，理想的社区和个体的版本共同繁荣。事实上，在它们的新形式中，共同和个体的身份以及共同和个体的利益相互预设和加强。有时人们说，第一和第二阶段的内容（分别是社区和个体）在这第三阶段中已经被“超越”——也就是说，被提升、取消和保留。‘超越’是对德语动词‘_aufheben_’及其同源词的一种尝试性英文翻译，黑格尔偶尔使用它来暗示这些思想的难以捉摸的结合（例如，黑格尔 1991b：§24A3，§81A1）。
+第三，*未来*（共产主义）社会被认为体现了差异化的统一。在这个阶段，理想的社区和个体的版本共同繁荣。事实上，在它们的新形式中，共同和个体的身份以及共同和个体的利益相互预设和加强。有时人们说，第一和第二阶段的内容（分别是社区和个体）在这第三阶段中已经被“超越”——也就是说，被提升、取消和保留。‘超越’是对德语动词‘*aufheben*’及其同源词的一种尝试性英文翻译，黑格尔偶尔使用它来暗示这些思想的难以捉摸的结合（例如，黑格尔 1991b：§24A3，§81A1）。
 
 在当前的背景下，关键的历史阶段是第二个阶段。这是异化的阶段，是从一个简单的统一到在更高的（差异化的）统一之前出现的不统一的阶段（Inwood 1992: 36）。这是与现在（资本主义）社会相关的阶段，涉及个体与其社会角色和社区之间的问题分离。在第一个历史阶段（过去的非资本主义社会）存在问题的关系，但没有分离。而在第三个历史阶段（未来的共产主义社会）存在分离，但这是一种健康而不是问题的分离。在这个异化的第二个历史阶段，存在着一种价值的损失或缺失；粗略地说，这是个体对其社会角色和社区的依恋的损失或缺失。（更准确地说，我们可以说他们失去了对社区的感知和联系，并且他们缺乏对社区的健康感知和联系。）
 
@@ -256,37 +256,37 @@ Rahel Jaeggi 提供了这种类型的异化描述，并明确将其置于批判�
 
 ## Bibliography
 
-* Chiaburu, Dan S., Tomas Thundiyil, and Jiexin Wang, 2014, “Alienation and its Correlates: A Meta-Analysis,” _European Management Journal_, 32 (1): 24–36.
-* Cohen, G.A., 1974, “Marx’s Dialectic of Labour,”_Philosophy & Public Affairs_, 3 (3): 235–261.
-* Forst, Rainer, 2017, “Noumenal Alienation: Rousseau, Kant and Marx on the Dialectics of Self-Determination,” _Kantian Review_, 22 (4): 523–551.
-* Foster, John Bellamy, 1999, “Marx’s Theory of Metabolic Rift: Classical Foundations for Environmental Sociology,”_American Journal of Sociology_, 105 (2): 366–405.
-* Gilabert, Pablo, 2020, “Alienation, Freedom, and Dignity,” _Philosophical Topics_, 48 (2): 51–79.
-* Hardimon, Michael O., 1994, _Hegel’s Social Philosophy. The Project of Reconciliation_, Cambridge: Cambridge University Press.
-* Haverkamp, Beatrijs, 2016, “Reconstructing Alienation: A Challenge to Social Critique?” _Krisis_, 1: 66–71.
-* Hegel, G.W.F., 1991a \[1820], _Elements of the Philosophy of Right_, Allen W. Wood (ed.), Cambridge: Cambridge University Press.
-* –––, 1991b \[1830], _The Encyclopedia Logic: Part 1 of the Encyclopaedia of Philosophical Sciences_, (with the _Zusätze_), T.F. Geraets, W.A. Suchting, and H.S. Harris (trans.), Indianapolis: Hackett.
-* Inwood, Michael, 1992, _A Hegel Dictionary_, Oxford: Blackwell.
-* Jaeggi, Rahel, 2014, _Alienation_, Frederick Neuhouser (ed.), with a Foreword by Axel Honneth, New York: Columbia University Press.
-* –––, 2018, _Critique of Forms of Life,_ Cambridge MA: Harvard University Press.
-* Kandiyali, Jan, 2020, “The Importance of Others: Marx, Unalienated Production and Meaningful Work,” _Ethics_, 130 (4): 555–587.
-* Leopold, David, 2007, _The Young Karl Marx. German Philosophy, Modern Politics, and Human Flourishing_, Cambridge: Cambridge University Press.
-* –––, 2016, “On Marxian Utopophobia,”_Journal of the History of Philosophy_, 54 (1): 111–134.
-* Marcuse, Herbert, 2002 \[1964], _One-Dimensional Man. Studies in the Ideology of Advanced Industrial Society_, New York: Routledge.
-* Marx, Karl, 1975 \[1844], “Economic and Philosophical Manuscripts of 1844,”,in _Karl Marx, Friedrich Engels: Collected Works_ (Volume 3), London: Lawrence & Wishart, pp. 229–347.
-* –––, 1996 \[1867], _Capital_ (Volume One), in _Karl Marx, Friedrich Engels: Collected Works_ (Volume 35), London: Lawrence & Wishart.
-* Marx, Karl, and Engels, Friedrich, 1975 \[1845], _The Holy Family_, in _Karl Marx, Friedrich Engels: Collected Works_ (Volume 4), London: Lawrence & Wishart, pp. 3–211.
-* –––, 1975 \[1848], “The Manifesto of the Communist Party,” in _Karl Marx, Friedrich Engels: Collected Works_ (Volume 6), London: Lawrence & Wishart, pp. 477–519.
-* Nussbaum, Martha C., 1995, “Objectification,” _Philosophy & Public Affairs_, 24 (2): 249–291.
-* Piper, Adrian M.S., 1987, “Moral Theory and Moral Alienation,” _The Journal of Philosophy_, 84 (2): 102–118.
-* Railton, Peter, 1984, “Alienation, Consequentialism, and the Demands of Morality,”_Philosophy & Public Affairs_, 13 (2): 134–171.
-* Rousseau, Jean-Jacques, 1997 \[1754–1755], “Discourse on the Origin and Foundations of Inequality Among Men _or_ Second Discourse”, in _The Discourses and Other Early Political Writings_, Victor Gourevitch (ed. and tr.), Cambridge: Cambridge University Press, pp. 111–232.
-* Sayers, Sean, 2011, _Marx and Alienation. Essays on Hegelian Themes_, London: Palgrave Macmillan.
-* Schacht, Richard, 1971, _Alienation_, (with an introductory essay by Walter Kaufmann), London: Allen & Unwin.
-* –––, 1994, _The Future of Alienation_, Urbana: University of Illinois Press.
-* Sidgwick, Henry, 1907, _The Methods of Ethics_, 7th edition, London: Macmillan.
-* Wendling, Amy E., 2009, _Karl Marx on Technology and Alienation_, London: Palgrave Macmillan.
-* Williams, Bernard, 1985, _Ethics and the Limits of Philosophy_, London: Fontana.
-* Wood, Allen W., 2004, _Karl Marx_, second edition, London: Routledge.
+* Chiaburu, Dan S., Tomas Thundiyil, and Jiexin Wang, 2014, “Alienation and its Correlates: A Meta-Analysis,” *European Management Journal*, 32 (1): 24–36.
+* Cohen, G.A., 1974, “Marx’s Dialectic of Labour,”*Philosophy & Public Affairs*, 3 (3): 235–261.
+* Forst, Rainer, 2017, “Noumenal Alienation: Rousseau, Kant and Marx on the Dialectics of Self-Determination,” *Kantian Review*, 22 (4): 523–551.
+* Foster, John Bellamy, 1999, “Marx’s Theory of Metabolic Rift: Classical Foundations for Environmental Sociology,”*American Journal of Sociology*, 105 (2): 366–405.
+* Gilabert, Pablo, 2020, “Alienation, Freedom, and Dignity,” *Philosophical Topics*, 48 (2): 51–79.
+* Hardimon, Michael O., 1994, *Hegel’s Social Philosophy. The Project of Reconciliation*, Cambridge: Cambridge University Press.
+* Haverkamp, Beatrijs, 2016, “Reconstructing Alienation: A Challenge to Social Critique?” *Krisis*, 1: 66–71.
+* Hegel, G.W.F., 1991a \[1820], *Elements of the Philosophy of Right*, Allen W. Wood (ed.), Cambridge: Cambridge University Press.
+* –––, 1991b \[1830], *The Encyclopedia Logic: Part 1 of the Encyclopaedia of Philosophical Sciences*, (with the *Zusätze*), T.F. Geraets, W.A. Suchting, and H.S. Harris (trans.), Indianapolis: Hackett.
+* Inwood, Michael, 1992, *A Hegel Dictionary*, Oxford: Blackwell.
+* Jaeggi, Rahel, 2014, *Alienation*, Frederick Neuhouser (ed.), with a Foreword by Axel Honneth, New York: Columbia University Press.
+* –––, 2018, *Critique of Forms of Life,* Cambridge MA: Harvard University Press.
+* Kandiyali, Jan, 2020, “The Importance of Others: Marx, Unalienated Production and Meaningful Work,” *Ethics*, 130 (4): 555–587.
+* Leopold, David, 2007, *The Young Karl Marx. German Philosophy, Modern Politics, and Human Flourishing*, Cambridge: Cambridge University Press.
+* –––, 2016, “On Marxian Utopophobia,”*Journal of the History of Philosophy*, 54 (1): 111–134.
+* Marcuse, Herbert, 2002 \[1964], *One-Dimensional Man. Studies in the Ideology of Advanced Industrial Society*, New York: Routledge.
+* Marx, Karl, 1975 \[1844], “Economic and Philosophical Manuscripts of 1844,”,in *Karl Marx, Friedrich Engels: Collected Works* (Volume 3), London: Lawrence & Wishart, pp. 229–347.
+* –––, 1996 \[1867], *Capital* (Volume One), in *Karl Marx, Friedrich Engels: Collected Works* (Volume 35), London: Lawrence & Wishart.
+* Marx, Karl, and Engels, Friedrich, 1975 \[1845], *The Holy Family*, in *Karl Marx, Friedrich Engels: Collected Works* (Volume 4), London: Lawrence & Wishart, pp. 3–211.
+* –––, 1975 \[1848], “The Manifesto of the Communist Party,” in *Karl Marx, Friedrich Engels: Collected Works* (Volume 6), London: Lawrence & Wishart, pp. 477–519.
+* Nussbaum, Martha C., 1995, “Objectification,” *Philosophy & Public Affairs*, 24 (2): 249–291.
+* Piper, Adrian M.S., 1987, “Moral Theory and Moral Alienation,” *The Journal of Philosophy*, 84 (2): 102–118.
+* Railton, Peter, 1984, “Alienation, Consequentialism, and the Demands of Morality,”*Philosophy & Public Affairs*, 13 (2): 134–171.
+* Rousseau, Jean-Jacques, 1997 \[1754–1755], “Discourse on the Origin and Foundations of Inequality Among Men *or* Second Discourse”, in *The Discourses and Other Early Political Writings*, Victor Gourevitch (ed. and tr.), Cambridge: Cambridge University Press, pp. 111–232.
+* Sayers, Sean, 2011, *Marx and Alienation. Essays on Hegelian Themes*, London: Palgrave Macmillan.
+* Schacht, Richard, 1971, *Alienation*, (with an introductory essay by Walter Kaufmann), London: Allen & Unwin.
+* –––, 1994, *The Future of Alienation*, Urbana: University of Illinois Press.
+* Sidgwick, Henry, 1907, *The Methods of Ethics*, 7th edition, London: Macmillan.
+* Wendling, Amy E., 2009, *Karl Marx on Technology and Alienation*, London: Palgrave Macmillan.
+* Williams, Bernard, 1985, *Ethics and the Limits of Philosophy*, London: Fontana.
+* Wood, Allen W., 2004, *Karl Marx*, second edition, London: Routledge.
 
 ## Academic Tools
 
@@ -309,4 +309,4 @@ Rahel Jaeggi 提供了这种类型的异化描述，并明确将其置于批判�
 I am grateful to Jan Kandiyali, Paul Lodge, Lucinda Rumsey, and two anonymous SEP referees, for comments on a previous version of this entry.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-David Leopold <[_david.leopold@politics.ox.ac.uk_](mailto:david%2eleopold%40politics%2eox%2eac%2euk)>
+David Leopold <[*david.leopold@politics.ox.ac.uk*](mailto:david%2eleopold%40politics%2eox%2eac%2euk)>

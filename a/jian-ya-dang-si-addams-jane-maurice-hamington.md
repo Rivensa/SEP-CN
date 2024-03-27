@@ -266,8 +266,8 @@ Addams, Jane. “A Belated Industry,” 1896, *American Journal of Sociology*, 
 
 ## Other Internet Resources
 
-* [Jane Addams Hull-House Museum](http://www.uic.edu/jaddams/hull/hull_house.html)
-* [Jane Addams Nobel Peace Prize](http://www.nobelprize.org/nobel_prizes/peace/laureates/1931/addams-bio.html)
+* [Jane Addams Hull-House Museum](http://www.uic.edu/jaddams/hull/hull*house.html)
+* [Jane Addams Nobel Peace Prize](http://www.nobelprize.org/nobel*prizes/peace/laureates/1931/addams-bio.html)
 * [Jane Addams Papers Project](http://janeaddams.ramapo.edu/)
 * [The Society for the Advancement of American Philosophy](http://www.american-philosophy.org/)
 * [Swarthmore College Peace Collection](http://www.swarthmore.edu/library/peace/)

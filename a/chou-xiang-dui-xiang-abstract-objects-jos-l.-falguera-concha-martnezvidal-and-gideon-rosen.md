@@ -1,8 +1,8 @@
 # 抽象对象 abstract objects (José L. Falguera, Concha Martínez-Vidal, and Gideon Rosen)
 
-_首次发表于 2001 年 7 月 19 日；实质性修订于 2021 年 8 月 9 日_
+*首次发表于 2001 年 7 月 19 日；实质性修订于 2021 年 8 月 9 日*
 
-在研究存在的事物时，人们很快就会遇到一个观点，即每个实体都属于两个类别之一：_具体_或_抽象_。这种区分被认为对于形而上学（尤其是本体论）、认识论和形式科学哲学（尤其是数学哲学）具有基本意义；它也与语言哲学、心灵哲学和经验科学哲学的分析相关。本文概述了（a）如何划分这种区别的尝试和（b）关于抽象对象的主要理论。
+在研究存在的事物时，人们很快就会遇到一个观点，即每个实体都属于两个类别之一：*具体*或*抽象*。这种区分被认为对于形而上学（尤其是本体论）、认识论和形式科学哲学（尤其是数学哲学）具有基本意义；它也与语言哲学、心灵哲学和经验科学哲学的分析相关。本文概述了（a）如何划分这种区别的尝试和（b）关于抽象对象的主要理论。
 
 * [1. 引言](https://plato.stanford.edu/entries/abstract-objects/#Intr)
 * [1.1 关于“对象”这个表达](https://plato.stanford.edu/entries/abstract-objects/#AbouExprObje)
@@ -31,7 +31,7 @@ _首次发表于 2001 年 7 月 19 日；实质性修订于 2021 年 8 月 9 日
 
 抽象/具体的区分在当代哲学中具有奇特的地位。人们普遍认为本体论的区分至关重要，但迄今为止，还没有一个标准的解释如何进行区分。关于如何对某些典型案例进行分类，人们达成了共识。例如，通常承认数字和纯数学的其他对象，如纯集合，是抽象的（如果它们存在的话），而岩石、树木和人类是具体的。在日常语言中，常常使用既指具体实体又指抽象概念（如民主、幸福、母性等）的表达方式。此外，数学理论的表述似乎直接涉及抽象实体，并且在经验科学中使用数学表达式似乎是制定我们最好的经验理论的必要条件（参见奎因 1948 年；普特南 1971 年；以及[数学哲学中不可或缺性论证的条目](https://plato.stanford.edu/entries/mathphil-indis/)）。最后，在哲学的不同领域中，对集合、属性、概念、命题、类型和可能世界等抽象实体的明显引用是无处不在的。
 
-尽管普遍存在对抽象对象的吸引力，哲学家们仍然对它们是否存在产生了疑问。存在两种选择：_普拉托主义_，它认可它们的存在；以及_名词主义_，它否认了抽象对象的整体存在（参见[形而上学中的名词主义条目](https://plato.stanford.edu/entries/nominalism-metaphysics/)和[形而上学中的普拉托主义条目](https://plato.stanford.edu/entries/platonism/)）。但是，如何区分抽象和具体对象的问题是一个未解之谜：人们不清楚如何描述这两个类别，也没有一个明确的项目清单可以归入其中一个或另一个类别（假设两者都不为空）。
+尽管普遍存在对抽象对象的吸引力，哲学家们仍然对它们是否存在产生了疑问。存在两种选择：*普拉托主义*，它认可它们的存在；以及*名词主义*，它否认了抽象对象的整体存在（参见[形而上学中的名词主义条目](https://plato.stanford.edu/entries/nominalism-metaphysics/)和[形而上学中的普拉托主义条目](https://plato.stanford.edu/entries/platonism/)）。但是，如何区分抽象和具体对象的问题是一个未解之谜：人们不清楚如何描述这两个类别，也没有一个明确的项目清单可以归入其中一个或另一个类别（假设两者都不为空）。
 
 第一个挑战是明确区分，要么通过明确定义术语，要么通过将它们嵌入一个理论中，使它们与其他重要类别的联系更加明确。在没有这样一个解释的情况下，对比的哲学意义仍然不确定，因为通过直觉将事物分类为抽象或具体往往存在问题。科学理论（例如相对论的普遍理论）、小说作品（例如但丁的《地狱》）、虚构角色（例如比尔博·巴金斯）或常规实体（例如国际货币基金组织或 1978 年的西班牙宪法）是否是抽象的，这一点是否清楚？
 
@@ -53,7 +53,7 @@ _首次发表于 2001 年 7 月 19 日；实质性修订于 2021 年 8 月 9 日
 
 ### 2.1 区分的起源
 
-当代对抽象和具体的区分并非古老的。事实上，有充分的理由认为，在 20 世纪之前，尽管偶尔有例外，这种区分在哲学中并没有起到重要的作用。现代的区分在某种程度上类似于柏拉图对形式和感性的区分。但是，柏拉图的形式被认为是最典型的原因，而抽象对象通常被认为是因果无关的。最初的“抽象”/“具体”区分是在词语或术语之间进行的区分。传统语法区分抽象名词“白色”和具体名词“白色”而不意味着这种语言对比对应于这些词所代表的事物的形而上学区别。在 17 世纪，这种语法区分被转移到了思想领域。洛克谈到了一个三角形的普遍概念，它“既不是斜的也不是直的，既不是等边的也不是等腰的也不是不等边的；但同时又是所有这些的”，并指出即使这个概念也不是最“抽象、全面和困难的”（《论人类理解》第四卷第七章第 9 节）。洛克关于抽象概念是通过省略区分细节从具体概念中形成的概念的观点立即遭到了伯克利和休谟的反对。但即使对于洛克来说，也没有暗示抽象概念和具体或特定概念之间的区别对应于_对象_之间的区别。“显而易见，…”洛克写道，“普遍和普遍性不属于事物的真实存在；而是理解的发明和创造，为了自己的使用，只涉及符号，无论是词语还是思想”（第三卷第三章第 11 节）。
+当代对抽象和具体的区分并非古老的。事实上，有充分的理由认为，在 20 世纪之前，尽管偶尔有例外，这种区分在哲学中并没有起到重要的作用。现代的区分在某种程度上类似于柏拉图对形式和感性的区分。但是，柏拉图的形式被认为是最典型的原因，而抽象对象通常被认为是因果无关的。最初的“抽象”/“具体”区分是在词语或术语之间进行的区分。传统语法区分抽象名词“白色”和具体名词“白色”而不意味着这种语言对比对应于这些词所代表的事物的形而上学区别。在 17 世纪，这种语法区分被转移到了思想领域。洛克谈到了一个三角形的普遍概念，它“既不是斜的也不是直的，既不是等边的也不是等腰的也不是不等边的；但同时又是所有这些的”，并指出即使这个概念也不是最“抽象、全面和困难的”（《论人类理解》第四卷第七章第 9 节）。洛克关于抽象概念是通过省略区分细节从具体概念中形成的概念的观点立即遭到了伯克利和休谟的反对。但即使对于洛克来说，也没有暗示抽象概念和具体或特定概念之间的区别对应于*对象*之间的区别。“显而易见，…”洛克写道，“普遍和普遍性不属于事物的真实存在；而是理解的发明和创造，为了自己的使用，只涉及符号，无论是词语还是思想”（第三卷第三章第 11 节）。
 
 现代形式的抽象/具体区分旨在标记对象或实体领域的界线。因此，这种区分在 20 世纪主要成为哲学讨论的中心焦点。这一发展的起源尚不清楚，但一个关键因素似乎是据称穷尽的心理和物质对象之间的区分的崩溃，这一区分自笛卡尔以来一直是本体论思想家的主要分歧。这一发展中的一个重要事件是弗雷格坚持认为数学真理的客观性和先验性意味着数字既不是物质存在也不是心灵中的思想。如果数字是物质事物（或物质事物的属性），那么算术定律将具有经验概括的地位。如果数字是心灵中的思想，那么将出现同样的困难，以及无数其他困难（谁的思想中包含数字 17？你的思想中有一个 17，我的思想中有另一个 17 吗？在这种情况下，共同的数学主题将是一种幻觉）。在《算术的基础》（1884 年）中，弗雷格得出结论，数字既不是外部的具体事物，也不是任何形式的心理实体。
 
@@ -71,7 +71,7 @@ _首次发表于 2001 年 7 月 19 日；实质性修订于 2021 年 8 月 9 日
 
 相比之下，一些数学形而上学家（Colyvan 2001；Baker 2005，2009）通过提出所谓的“增强型必要性论证”（但参见 Saatsi 2011 的回应）来完善奎因的观点。一些参与者描述了这场辩论，希望能够解决一场他们所谓的僵局（参见 Baker 2017，Baron 2016，2020，Knowles＆Saatsi 2019 以及 Martínez-Vidal＆Rivas-de-Castro 2020 的讨论）。
 
-除了对奎因论证的辩论之外，形而上学和名义主义都引发了一些困难的问题。形而上学家不仅需要提供一个关于抽象对象存在的理论，还需要解释我们如何认知地接触和了解非因果的抽象实体。这个后者的问题在 Benacerraf（1973）中开始了一场辩论，该辩论对数学对象提出了这样的困境。Benacerraf 指出，因果参照理论似乎无法使我们知道数学陈述的真值条件，而他的论证适用于更一般的抽象实体。另一方面，名义主义者需要解释我们似乎在语言使用中诉诸这些实体的情况，尤其是那些在科学、数学、语言学和哲学研究中似乎是良好解释的情况（参见 Wetzel 2009，1-22，讨论抽象_类型_在科学解释中的许多应用场景）。尽管名义主义者主张不存在抽象实体，但对它们存在与否的争议事实表明，形而上学家和名义主义者都承认抽象和具体之间的区别是有意义的。
+除了对奎因论证的辩论之外，形而上学和名义主义都引发了一些困难的问题。形而上学家不仅需要提供一个关于抽象对象存在的理论，还需要解释我们如何认知地接触和了解非因果的抽象实体。这个后者的问题在 Benacerraf（1973）中开始了一场辩论，该辩论对数学对象提出了这样的困境。Benacerraf 指出，因果参照理论似乎无法使我们知道数学陈述的真值条件，而他的论证适用于更一般的抽象实体。另一方面，名义主义者需要解释我们似乎在语言使用中诉诸这些实体的情况，尤其是那些在科学、数学、语言学和哲学研究中似乎是良好解释的情况（参见 Wetzel 2009，1-22，讨论抽象*类型*在科学解释中的许多应用场景）。尽管名义主义者主张不存在抽象实体，但对它们存在与否的争议事实表明，形而上学家和名义主义者都承认抽象和具体之间的区别是有意义的。
 
 在柏拉图主义一方，已经提出了各种建议来解释对抽象实体的认识访问的挑战，主要与数学对象有关。其中一些人，包括哥德尔（1964），声称我们通过一种独特的感知方式（直觉）来访问抽象对象。麦迪（1990 年，1997 年）以自然主义的方式开发了两种相当不同的理解数学知识的方法。其他柏拉图主义者认为抽象对象与经验实体有关，要么通过抽象（斯坦纳 1975 年；雷斯尼克 1982 年；夏皮罗 1997 年），要么通过抽象原则（赖特 1983 年；哈尔 1987 年）；我们将在下面讨论其中一些观点。还有一些人将存在的和互为主观的抽象实体视为一种心理表征（卡茨 1980 年）。
 
@@ -91,13 +91,13 @@ _首次发表于 2001 年 7 月 19 日；实质性修订于 2021 年 8 月 9 日
 
 ## 3. 什么是抽象对象？
 
-作为他试图理解可能世界的本质的一部分，刘易斯（1986a，81-86）将人们区分抽象/具体的不同方式进行分类。\[[4](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-4)] 这些方式包括：_例子的方式_（即简单地列举抽象和具体对象的典型案例，希望区分的意义会以某种方式浮现出来）；_混淆的方式_（即将抽象和具体对象与已知的某种区别进行等同）；_否定的方式_（即通过说出抽象对象是什么来说出它们不是什么，例如_非_时空的、_非_因果的等）；以及_抽象的方式_（即说抽象对象是通过考虑某些已知对象并省略某些区别特征的过程来概念化的）。他对代表这些方式的不同提议进行了详细的研究，然后试图展示它们都不能完全按照现行用法对典型案例进行分类。鉴于他在分析各种方式时遇到的问题，刘易斯对我们能够清晰地区分这种区别的能力持悲观态度。
+作为他试图理解可能世界的本质的一部分，刘易斯（1986a，81-86）将人们区分抽象/具体的不同方式进行分类。\[[4](https://plato.stanford.edu/entries/abstract-objects/notes.html#note-4)] 这些方式包括：*例子的方式*（即简单地列举抽象和具体对象的典型案例，希望区分的意义会以某种方式浮现出来）；*混淆的方式*（即将抽象和具体对象与已知的某种区别进行等同）；*否定的方式*（即通过说出抽象对象是什么来说出它们不是什么，例如*非*时空的、*非*因果的等）；以及*抽象的方式*（即说抽象对象是通过考虑某些已知对象并省略某些区别特征的过程来概念化的）。他对代表这些方式的不同提议进行了详细的研究，然后试图展示它们都不能完全按照现行用法对典型案例进行分类。鉴于他在分析各种方式时遇到的问题，刘易斯对我们能够清晰地区分这种区别的能力持悲观态度。
 
-尽管刘易斯对于澄清抽象/具体区分的悲观态度，但他对于对各种提议进行分类的方法在扩展时是有用的。实际上，在接下来的内容中，我们将看到有许多额外的_方法_来对抽象/具体区分进行分类，并对抽象对象进行理论化。即使没有单一的可接受解释，这些不同的区分方法和对抽象对象进行理论化的方式通常会对我们讨论的问题产生一定的启示，尤其是当具体的提议被整合到一个补充的（元）本体论项目中时。对于每种区分方法和采用该方法的具体提议，都会获得一定程度的解释能力，这将帮助我们比较和对比现在文献中的各种观点。
+尽管刘易斯对于澄清抽象/具体区分的悲观态度，但他对于对各种提议进行分类的方法在扩展时是有用的。实际上，在接下来的内容中，我们将看到有许多额外的*方法*来对抽象/具体区分进行分类，并对抽象对象进行理论化。即使没有单一的可接受解释，这些不同的区分方法和对抽象对象进行理论化的方式通常会对我们讨论的问题产生一定的启示，尤其是当具体的提议被整合到一个补充的（元）本体论项目中时。对于每种区分方法和采用该方法的具体提议，都会获得一定程度的解释能力，这将帮助我们比较和对比现在文献中的各种观点。
 
 ### 3.1 例证法和原始主义法
 
-根据_示例的方式_，只需列举抽象和具体实体的典型案例，希望能以某种方式体现出区别的意义。显然，为每个类别列举示例将是寻找某些准则（或准则列表）的启发性有希望的开始，这些准则将有助于划分区别。然而，简单的列表具有有限的意义，因为从典型案例推导出覆盖不清楚案例的区别的方式太多，结果就是没有解释清楚的概念。
+根据*示例的方式*，只需列举抽象和具体实体的典型案例，希望能以某种方式体现出区别的意义。显然，为每个类别列举示例将是寻找某些准则（或准则列表）的启发性有希望的开始，这些准则将有助于划分区别。然而，简单的列表具有有限的意义，因为从典型案例推导出覆盖不清楚案例的区别的方式太多，结果就是没有解释清楚的概念。
 
 例如，纯集合是抽象实体的典型例子。但是，不纯集合的情况远非明确。考虑仅有一个成员乔·拜登（即{乔·拜登}）的单元集合，2020 年本科班或伦理委员会等。它们是集合，但不清楚它们是否是抽象的，因为乔·拜登、班级成员和委员会成员都是具体的。同样，如果一个人提供福尔摩斯故事中的角色作为帮助激发原始概念抽象对象的例子，那么就必须对出现在小说中的伦敦对象产生疑问。
 
@@ -107,7 +107,7 @@ _首次发表于 2001 年 7 月 19 日；实质性修订于 2021 年 8 月 9 日
 
 ### 3.2 合并的方式
 
-根据_合并的方式_，抽象/具体的区别应该与另一个已经以另一个名称熟知的形而上学区别相一致：例如，集合和个体之间的区别，或者普遍和特殊之间的区别。毫无疑问，一些作者以这种方式使用这些术语。（因此，奎因在 1948 年将“抽象实体”和“普遍”互换使用。）然而，这种合并在最近的哲学中相当罕见。
+根据*合并的方式*，抽象/具体的区别应该与另一个已经以另一个名称熟知的形而上学区别相一致：例如，集合和个体之间的区别，或者普遍和特殊之间的区别。毫无疑问，一些作者以这种方式使用这些术语。（因此，奎因在 1948 年将“抽象实体”和“普遍”互换使用。）然而，这种合并在最近的哲学中相当罕见。
 
 ### 3.3 抽象的方式
 
@@ -127,7 +127,7 @@ _首次发表于 2001 年 7 月 19 日；实质性修订于 2021 年 8 月 9 日
 
 Fs 的数量=Gs 的数量当且仅当 Fs 和 Gs 的数量相同
 
-这些双条件（或_抽象原则_）似乎具有特殊的语义地位。虽然严格来说它们不是出现在左侧的函数表达式的_定义_，但它们似乎是由该表达式的含义决定的。理解术语“方向”（部分地）意味着知道如果线 a 和线 b 平行，则 a 的方向和 b 的方向是相同的实体。此外，出现在双条件右侧的等价关系似乎在语义上甚至在认识论上优先于左侧的函数表达式（Noonan 1978）。掌握方向的概念预设了掌握平行概念，但反之则不成立。
+这些双条件（或*抽象原则*）似乎具有特殊的语义地位。虽然严格来说它们不是出现在左侧的函数表达式的*定义*，但它们似乎是由该表达式的含义决定的。理解术语“方向”（部分地）意味着知道如果线 a 和线 b 平行，则 a 的方向和 b 的方向是相同的实体。此外，出现在双条件右侧的等价关系似乎在语义上甚至在认识论上优先于左侧的函数表达式（Noonan 1978）。掌握方向的概念预设了掌握平行概念，但反之则不成立。
 
 满足这些条件的抽象原则的可用性可以用来解释抽象对象和具体对象之间的区别。当‘f’是由一个抽象原则所支配的函数表达式时，将会有一个相应的类型 Kf，使得：
 
@@ -137,11 +137,11 @@ Fs 的数量=Gs 的数量当且仅当 Fs 和 Gs 的数量相同
 
 如果存在某个概念 F，那么 x 是一个基数（cardinal number）当且仅当 x 等于 F 的数量。
 
-_抽象原则的方式_的最简单版本是这样说的：
+*抽象原则的方式*的最简单版本是这样说的：
 
 如果（且仅当）x 是某种 Kf 的实例，其关联的函数表达式'f'受适当的抽象原则支配，那么 x 是一个抽象对象。
 
-这个账户的强版本——声称能够确定抽象性的必要条件——与标准用法严重不符。纯集合通常被认为是典型的抽象对象。但是并不清楚它们是否满足所提出的标准。根据一种天真集合论的版本，功能表达式“_的集合_”确实被一个假设的抽象原则所表征。
+这个账户的强版本——声称能够确定抽象性的必要条件——与标准用法严重不符。纯集合通常被认为是典型的抽象对象。但是并不清楚它们是否满足所提出的标准。根据一种天真集合论的版本，功能表达式“*的集合*”确实被一个假设的抽象原则所表征。
 
 如果且仅如果对于所有的 x，x 是 F 当且仅当 x 是 G，那么集合 F 的集合=集合 G 的集合。
 
@@ -163,9 +163,9 @@ _抽象原则的方式_的最简单版本是这样说的：
 
 对这个困难的一个回应是将抽象主义的提议转化为更形而上学的方式（见 Rosen＆Yablo 2020）。这个想法是，每个弗雷格数都是某个弗雷格概念的数量，正如每个弗雷格方向都是某个具体线条的方向一样。在每种情况下，抽象对象本质上是某个类别的抽象函数的值。这不是关于语言表达的意义的说法，而是关于对象本身的本质或性质的说法（有关本质概念的相关概念，请参见 Fine 1994）。因此，例如，如果存在弗雷格数二，那么它本质上就是属于概念 F 的数量，当且仅当有确切地两个 F。更一般地说，对于每个弗雷格抽象对象 x，都存在一个抽象函数 f，使得对于某种类型的每个参数，x 本质上都是 f 的值。
 
-抽象函数具有两个关键特征。首先，对于每个抽象函数 f，都存在一个等价关系 R，使得 f(x)=f(y)当且仅当 Rxy。直观地说，我们应该认为 R 在形而上学上优先于 f，并且抽象函数 f 是通过这个双条件来_定义_（全部或部分）的。其次，每个抽象函数都是一个生成函数：它的值本质上是该函数的值。许多函数不是生成函数。巴黎是法国的首都，但它本质上不是一个首都。相比之下，太阳系行星的数量本质上是一个数。抽象函数的概念可以根据这两个特征来定义：
+抽象函数具有两个关键特征。首先，对于每个抽象函数 f，都存在一个等价关系 R，使得 f(x)=f(y)当且仅当 Rxy。直观地说，我们应该认为 R 在形而上学上优先于 f，并且抽象函数 f 是通过这个双条件来*定义*（全部或部分）的。其次，每个抽象函数都是一个生成函数：它的值本质上是该函数的值。许多函数不是生成函数。巴黎是法国的首都，但它本质上不是一个首都。相比之下，太阳系行星的数量本质上是一个数。抽象函数的概念可以根据这两个特征来定义：
 
-f 是一个_抽象函数_，当且仅当
+f 是一个*抽象函数*，当且仅当
 
 1. 对于某个等价关系 R，f 的性质是，当且仅当 Rxy 时，f(x)=f(y)；并且
 2. 对于所有的 x，如果 x 是 f 的一个值，那么 x 的本质就是存在（或可能存在）某个对象 y，使得 x=f(y)。
@@ -178,7 +178,7 @@ x 是一个抽象，当且仅当，存在一个抽象函数 f，有或可能有�
 
 x 是一个抽象对象，当且仅当 x 是一个抽象。
 
-这个描述告诉我们很多关于这些广义弗雷格抽象对象的独特本质的信息。它告诉我们，每个对象本质上都是一种特殊类型函数的值，这种函数的本质通过一个相关的等价关系以简单的方式来指定。然而，值得强调的是，它并没有提供关于这些对象的_形而上学_信息。它没有告诉我们它们是否存在于空间中，是否能够在因果关系中存在等等。这是一个开放的问题，这种有些陌生的抽象/具体区分方式是否与上述更传统的区分方式中的任何一种相吻合。沿着这些线索的描述与标准用法相悖，但可能在哲学上仍然具有趣味。无论如何，问题仍然存在，即这种形而上学版本的_抽象原则方式_排除了抽象对象的典型案例，比如前面提到的国际象棋游戏。
+这个描述告诉我们很多关于这些广义弗雷格抽象对象的独特本质的信息。它告诉我们，每个对象本质上都是一种特殊类型函数的值，这种函数的本质通过一个相关的等价关系以简单的方式来指定。然而，值得强调的是，它并没有提供关于这些对象的*形而上学*信息。它没有告诉我们它们是否存在于空间中，是否能够在因果关系中存在等等。这是一个开放的问题，这种有些陌生的抽象/具体区分方式是否与上述更传统的区分方式中的任何一种相吻合。沿着这些线索的描述与标准用法相悖，但可能在哲学上仍然具有趣味。无论如何，问题仍然存在，即这种形而上学版本的*抽象原则方式*排除了抽象对象的典型案例，比如前面提到的国际象棋游戏。
 
 ### 3.5 否定的方式
 
@@ -230,11 +230,11 @@ Frege 的原始提议在其他方面也失败了。夸克和电子通常被认�
 
 一个对象只有在以下情况下才是抽象的：要么根本不占据空间，要么仅仅因为其他物体（在这种情况下是它的基本元素）占据了该区域。
 
-当然，彼得本身占据了一个区域，这是因为他的_部分_——他的头部、手等等——一起占据了那个区域。因此，更好的提议版本应该是：
+当然，彼得本身占据了一个区域，这是因为他的*部分*——他的头部、手等等——一起占据了那个区域。因此，更好的提议版本应该是：
 
-一个对象是抽象的（如果且仅当）它要么根本不占据空间，要么是因为一些其他的_不是它的部分_占据了那个区域。
+一个对象是抽象的（如果且仅当）它要么根本不占据空间，要么是因为一些其他的*不是它的部分*占据了那个区域。
 
-这种方法似乎很好地对这些情况进行了分类，但它有些人为。此外，它引发了一些问题。对于占据空间的雕像，我们该怎么说呢？它之所以占据空间，不是因为它的_部分_在空间中排列，而是因为它的构成_物质_占据了那个区域。那么对于未被观察到的电子呢？根据量子力学的某些解释，它实际上根本不_占据_空间，而是与其所处的时空有某种更奇特的关系。可以说，一个哲学家如果认为“非空间性”是抽象的标志，但又允许一些抽象对象具有非平凡的空间属性，那么他必须给我们一个关于与时空、空间和时间的_独特关系_有何不同的范例具体对象的解释。
+这种方法似乎很好地对这些情况进行了分类，但它有些人为。此外，它引发了一些问题。对于占据空间的雕像，我们该怎么说呢？它之所以占据空间，不是因为它的*部分*在空间中排列，而是因为它的构成*物质*占据了那个区域。那么对于未被观察到的电子呢？根据量子力学的某些解释，它实际上根本不*占据*空间，而是与其所处的时空有某种更奇特的关系。可以说，一个哲学家如果认为“非空间性”是抽象的标志，但又允许一些抽象对象具有非平凡的空间属性，那么他必须给我们一个关于与时空、空间和时间的*独特关系*有何不同的范例具体对象的解释。
 
 也许关于“非空间性”标准的关键问题涉及对空间本身部分的分类。如果它们被认为是具体的，那么人们可能会问空间点或区域位于何处。类似的问题也适用于空间点和区域，以及时间瞬间或间隔。因此，空间时间位置以及空间和时间位置的本体论地位是有问题的。让我们假设空间或时空存在，不仅仅是纯数学的对象，而是物理对象和事件以某种方式排列的场所。重要的是要理解，问题不在于表示这些点和区域（或瞬间和间隔）的数值坐标（或参考系统）；问题在于这些点和区域（或瞬间和间隔）本身。物理对象位于空间区域的“内部”或“在”；因此，根据非空间性标准，它们被视为具体的。但是空间本身的点和区域呢？关于是否承认时空实体论与名义主义者对抽象实体的拒绝一致的问题存在一些争议（Field 1980, 1989; Malament 1982）。如果我们将抽象定义为“非空间性”，这个争论就涉及到空间本身是否被认为是“空间性”的问题。拒绝将这些点、区域、瞬间和间隔视为具体的，因为它们没有“位置”，就意味着将它们视为抽象的。然而，考虑到它们在因果过程中的作用，将它们视为抽象听起来有点奇怪。也许，如果我们想要确定具体实体是空间时间性的（或空间性和时间性的），将它们视为具体会更容易一些。
 
@@ -246,7 +246,7 @@ Frege 的原始提议在其他方面也失败了。夸克和电子通常被认�
 
 一个对象只有在因果上无效时才是抽象的。
 
-无论是心理的还是物理的具体对象都具有因果能力；而数字、函数和其他东西都不会引发任何事情发生。象棋本身（与其具体实例不同）不存在与因果关系的交流。即使不纯净的集合在某种意义上存在于空间中，我们很容易相信它们对所发生的事情没有_独特的_因果贡献。彼得和保罗可能会分别产生影响。他们甚至可能共同产生的效果是两个具体对象共同行动的结果，或者可能是它们的整体聚合物（通常被视为具体物）的效果，而不是某种集合论构造的效果。假设彼得和保罗一起使天平倾斜。如果我们考虑这个事件是由一个集合引起的可能性，我们将不得不问是哪个集合引起了它：只包含彼得和保罗的集合？还是基于他们的更复杂的构造？或者是包含组成彼得和保罗的分子的集合？这种可能答案的增多表明，最初将集合归功于因果能力是一个错误。这对那些希望说所有集合都是抽象的人来说是个好消息。
+无论是心理的还是物理的具体对象都具有因果能力；而数字、函数和其他东西都不会引发任何事情发生。象棋本身（与其具体实例不同）不存在与因果关系的交流。即使不纯净的集合在某种意义上存在于空间中，我们很容易相信它们对所发生的事情没有*独特的*因果贡献。彼得和保罗可能会分别产生影响。他们甚至可能共同产生的效果是两个具体对象共同行动的结果，或者可能是它们的整体聚合物（通常被视为具体物）的效果，而不是某种集合论构造的效果。假设彼得和保罗一起使天平倾斜。如果我们考虑这个事件是由一个集合引起的可能性，我们将不得不问是哪个集合引起了它：只包含彼得和保罗的集合？还是基于他们的更复杂的构造？或者是包含组成彼得和保罗的分子的集合？这种可能答案的增多表明，最初将集合归功于因果能力是一个错误。这对那些希望说所有集合都是抽象的人来说是个好消息。
 
 （请注意，一些作家将普通的物理事件（作为最典型的因果有效实体）与集合等同起来。例如，对于大卫·刘易斯来说，像罗马的陷落这样的事件是一个有序对，其第一个成员是一个时空区域，第二个成员是一组这样的区域（刘易斯 1986b）。根据这种观点，同时说不纯的集合是抽象对象，并且抽象对象是非因果的将是灾难性的。）
 
@@ -288,13 +288,13 @@ O！x = df◊E！xA！x = df¬O！x
 
 （ii）“举例”和“编码”的区别是一个原始的区别，在该理论中由两个原子公式表示：Fnx1…xn（x1,…,xn 举例说明 Fn）和 xF1（x 编码 F1）。普通对象和抽象对象都举例说明属性，但只有抽象对象编码属性；普通对象必然无法编码属性是公理（O!x→□¬∃FxF）。Zalta 的提议可以看作是一个与我们考虑过的所有其他提议都不同的积极的形而上学提议；这是一个使用编码作为一个关键概念来表征抽象对象的积极提议。在这种解读下，该理论的定义和公理传达了“编码”的含义以及它的工作方式。直观上，抽象对象通过我们定义或构思它的属性来“编码”它，但是它们有时候举例说明某些属性，有时候则必然举例说明其他属性。因此，Dedekind-Peano 数论中的数字 1 仅编码其数论属性，而且它有时候举例说明“被 Peano 思考”这个属性，但它必然举例说明“抽象”、“没有形状”、“不是建筑物”等属性。举例说明和编码属性之间的区别也用于定义身份：只要普通对象必然举例说明相同的属性，它们就是相同的，而只要抽象对象必然编码相同的属性，它们就是相同的。
 
-(iii) 理解原则断言，对于每个可表达的属性条件，都存在一个抽象对象，_编码_了满足该条件的属性。形式上：∃x(A!x&∀F(xF≡ϕ))，其中ϕ没有自由的 xs。这个模式的每个实例都断言某种类型的抽象对象的存在。例如，当's'表示苏格拉底时，实例∃x(A!x&∀F(xF≡Fs))断言存在一个抽象对象，它恰好编码了苏格拉底所具有的属性。Zalta 使用这个对象来分析苏格拉底的完整个体概念。但是，任何对属性条件的ϕ（ϕ中没有自由的 x 出现）都可以用来形成理解的实例。实际上，可以证明所断言的对象是唯一的，因为不能有两个不同的抽象对象恰好编码满足ϕ的属性。
+(iii) 理解原则断言，对于每个可表达的属性条件，都存在一个抽象对象，*编码*了满足该条件的属性。形式上：∃x(A!x&∀F(xF≡ϕ))，其中ϕ没有自由的 xs。这个模式的每个实例都断言某种类型的抽象对象的存在。例如，当's'表示苏格拉底时，实例∃x(A!x&∀F(xF≡Fs))断言存在一个抽象对象，它恰好编码了苏格拉底所具有的属性。Zalta 使用这个对象来分析苏格拉底的完整个体概念。但是，任何对属性条件的ϕ（ϕ中没有自由的 x 出现）都可以用来形成理解的实例。实际上，可以证明所断言的对象是唯一的，因为不能有两个不同的抽象对象恰好编码满足ϕ的属性。
 
 从(i)–(iii)得出的理论通过额外的公理和定义进一步发展。一个公理断言，如果一个对象编码了一个属性，那么它必然如此(xF→□xF)。因此，一个对象编码的属性不依赖于任何情况。此外，Zalta 还补充了他的抽象对象理论与属性、关系和命题的理论。在这里，我们只描述属性的理论。它受到两个原则的支配：属性的理解原则和身份原则。属性的理解原则断言，对于任何可表达的不带编码子公式的对象条件，都存在一个属性 F，使得必然地，一个对象 x 展示 F 当且仅当 x 是满足ϕ的对象，即∃F□∀x(Fx≡ϕ)，其中ϕ没有编码子公式和自由的 Fs。身份原则断言，属性 F 和 G 只有在 F 和 G 必然由相同的对象编码时才相同，即 F=G=df□∀x(xF≡xG)。这个原则允许断言在经典意义上存在必然等价的属性，即□∀x(Fx≡Gx)，但它们是不同的。\[11]
 
 由于α=β在α和β都是个体变量或属性变量时都有定义，Zalta 采用了相同物的替换的常规原则。由于他系统中的所有术语都是刚性的，相同物的替换即使在情态语境中也能保持真实性。
 
-上述原则隐含地刻画了抽象对象和普通对象。Zalta 的理论并不假设任何具体对象，因为这是一个偶然的问题。但他的系统包括巴尔坎公式（即◊∃xFx→∃x◊Fx），因此像“可能有说话的驴”这样的可能性主张意味着在我们的世界中存在着（非具体的）对象，在某个可能的世界中它们是说话的驴。由于 Zalta 采纳了普通属性如成为驴的必然意味着具体性的观点，这些_偶然非具体_的对象是普通的。
+上述原则隐含地刻画了抽象对象和普通对象。Zalta 的理论并不假设任何具体对象，因为这是一个偶然的问题。但他的系统包括巴尔坎公式（即◊∃xFx→∃x◊Fx），因此像“可能有说话的驴”这样的可能性主张意味着在我们的世界中存在着（非具体的）对象，在某个可能的世界中它们是说话的驴。由于 Zalta 采纳了普通属性如成为驴的必然意味着具体性的观点，这些*偶然非具体*的对象是普通的。
 
 Zalta 使用他的理论来分析柏拉图的形式、概念、可能世界、弗雷格的数和弗雷格的意义、虚构和数学对象以及一般的数学关系。然而，一些哲学家认为他的理解原则过于包容，因为除了这些对象之外，它还断言存在像“圆方”或“包含所有非自身成员的集合”的实体。该理论并不断言任何东西是圆的和方的——该理论保留了传统的断言形式而不引起矛盾。但它确实断言存在一个抽象对象，编码了圆和方的属性，以及存在一个抽象对象，编码了包含所有非自身成员集合的属性。Zalta 会回应说，这样的对象不仅需要用来陈述涉及“圆方”和“罗素集合”等表达式的句子的真实条件，并解释不一致故事和不一致理论（例如，弗雷格的外延）的虚构角色，还需要用来分析。%
 
@@ -302,7 +302,7 @@ Zalta 使用他的理论来分析柏拉图的形式、概念、可能世界、�
 
 ### 3.7 削弱存在的方式
 
-许多哲学家认为抽象对象以某种薄弱、空洞的方式存在。在本节中，我们考虑了一个观点，即抽象/具体的区别可能是通过说抽象对象以比具体对象存在的方式更不牢固来_定义_的。
+许多哲学家认为抽象对象以某种薄弱、空洞的方式存在。在本节中，我们考虑了一个观点，即抽象/具体的区别可能是通过说抽象对象以比具体对象存在的方式更不牢固来*定义*的。
 
 传统的柏拉图主义观念是一种现实主义观念：抽象对象以与自然界中的对象存在相同的充实意义存在——它们是独立于心智的，而不是人类努力的产物或以任何方式依赖具体对象。但是，现在已在文献中确立的一些贬低、元本体论观点基于这样一个想法：传统柏拉图主义者面临的问题与“关于如何指定一个对象所需的一些非常普遍的预设”有关，而不是与“所需对象的抽象性”有关（Linnebo 2018, 42）。这些观点表明，抽象对象以某种较弱的意义存在。因此，各种方法阐述了可能被称为削弱存在方式的方式。一个明确的先例是 Carnap 1950 \[1956]提出的，他的贬低方法可能走得最远；Carnap 拒绝了对“真正存在的东西”（即使是具体对象的情况下）的形而上学追求，因为他认为问题“X 是否真的存在？”是伪问题（如果独立于某种语言框架提出）。
 
@@ -318,11 +318,11 @@ Zalta 使用他的理论来分析柏拉图的形式、概念、可能世界、�
 
 Carnap 的论文（1950 \[1956]）考虑了各种语言框架，例如：可观察的事物（即，可观察的事物和事件的时空有序系统），自然数和整数，命题，物体属性，有理数和实数，以及时空坐标系统。每个框架都是通过开发一种语言来建立的，该语言通常包括与所讨论的一种或多种实体相关的表达式，与所讨论的实体的属性相关的表达式（包括每种实体的一般类别术语），以及范围涵盖这些实体的变量。因此，用于可观察事物系统的框架具有表示这些事物的表达式（如“地球”，“埃菲尔铁塔”等），表示这些事物属性的表达式（如“行星”，“由金属制成”等），以及范围涵盖可观察事物的变量。自然数的框架具有表示它们的表达式（如“0”，“2+5”），表示数字属性的表达式（如“质数”，“奇数”），包括一般类别术语“数字”的表达式，以及范围涵盖数字的变量。
 
-对于 Carnap 来说，语言框架中的每个陈述都应具有可以通过分析或经验方法确定的真值。如果一个陈述在逻辑上是真（或假），或者如果它的真值仅可以根据语言规则或其组成表达式之间的语义关系来确定，那么它的真值是可以通过分析确定的。当一个陈述在感知到的证据的光下可以被证实（或证伪）时，它是可以通过经验确定的。请注意，试图根据证据来证实关于物理对象的经验性陈述的尝试要求我们采用事物的框架语言。然而，Carnap 警告我们，“这不能被解释为接受对事物世界的现实的_信仰_；因为这不是一个理论问题”（1950 \[1956, 208]）。对于 Carnap 来说，接受本体论“仅仅意味着接受一种特定的语言形式，换句话说，接受形成陈述和测试、接受或拒绝它们的规则”（1950 \[1956, 208]）。
+对于 Carnap 来说，语言框架中的每个陈述都应具有可以通过分析或经验方法确定的真值。如果一个陈述在逻辑上是真（或假），或者如果它的真值仅可以根据语言规则或其组成表达式之间的语义关系来确定，那么它的真值是可以通过分析确定的。当一个陈述在感知到的证据的光下可以被证实（或证伪）时，它是可以通过经验确定的。请注意，试图根据证据来证实关于物理对象的经验性陈述的尝试要求我们采用事物的框架语言。然而，Carnap 警告我们，“这不能被解释为接受对事物世界的现实的*信仰*；因为这不是一个理论问题”（1950 \[1956, 208]）。对于 Carnap 来说，接受本体论“仅仅意味着接受一种特定的语言形式，换句话说，接受形成陈述和测试、接受或拒绝它们的规则”（1950 \[1956, 208]）。
 
-Carnap 对每个语言框架都采取这种方法，无论它是关于物理、具体事物的框架，还是关于抽象实体（如数字、属性、概念、命题等）的框架。对他来说，接受给定语言框架的实用理由是它具有解释力，统一解释了不同类型的数据和现象，更高效地表达了主张等。我们通常会根据特定的解释目的选择一个框架。因此，我们可能会选择一个带有关于抽象实体的表达式的框架来进行_阐释_（即概念的阐明）或者为自然语言开发语义。对于 Carnap 来说，选择哲学上的形而上学还是名义主义并不是一个合法的选择；两者都是不恰当的试图回答一个外在的伪问题。
+Carnap 对每个语言框架都采取这种方法，无论它是关于物理、具体事物的框架，还是关于抽象实体（如数字、属性、概念、命题等）的框架。对他来说，接受给定语言框架的实用理由是它具有解释力，统一解释了不同类型的数据和现象，更高效地表达了主张等。我们通常会根据特定的解释目的选择一个框架。因此，我们可能会选择一个带有关于抽象实体的表达式的框架来进行*阐释*（即概念的阐明）或者为自然语言开发语义。对于 Carnap 来说，选择哲学上的形而上学还是名义主义并不是一个合法的选择；两者都是不恰当的试图回答一个外在的伪问题。
 
-如前所述，对于“有桌子”和“有独角兽”等存在性主张，它们是在可观察实体的框架内表达的，其真实性需要通过经验观察和调查来确定。这些陈述不是由语言规则决定的。相比之下，在数论框架内表达的“有数字”（“∃xNx”）或在属性理论框架内表达的“存在一个属性 F，使得 x 和 y 都是 F”（“∃F(Fx\&Fy)”）等存在性主张可以通过分析确定。对于这些陈述，要么它们是语言规则的一部分（例如，作为控制语言术语的公理表达），要么可以从语言规则推导出来。当这些陈述是构成语言框架的规则的一部分时，它们被认为是_分析的_，与从这些规则推导出来的存在性陈述一样。\[14]
+如前所述，对于“有桌子”和“有独角兽”等存在性主张，它们是在可观察实体的框架内表达的，其真实性需要通过经验观察和调查来确定。这些陈述不是由语言规则决定的。相比之下，在数论框架内表达的“有数字”（“∃xNx”）或在属性理论框架内表达的“存在一个属性 F，使得 x 和 y 都是 F”（“∃F(Fx\&Fy)”）等存在性主张可以通过分析确定。对于这些陈述，要么它们是语言规则的一部分（例如，作为控制语言术语的公理表达），要么可以从语言规则推导出来。当这些陈述是构成语言框架的规则的一部分时，它们被认为是*分析的*，与从这些规则推导出来的存在性陈述一样。\[14]
 
 所有刚才讨论的存在断言都是各自语言框架内部的。卡尔纳普认为，“存在”的谈论只能给予内部意义。关于事物或抽象对象存在的内部问题并不是关于它们真实的形而上学存在的问题。因此，更适合描述他的观点是体现了一种泄气的对象观念。卡尔纳普得出结论：“某种类型的实体或抽象实体作为指示物的可接受性问题被归结为对这些实体的语言框架的可接受性问题”（1950 \[1956, 217]）。
 
@@ -332,11 +332,11 @@ Carnap 对每个语言框架都采取这种方法，无论它是关于物理、�
 
 x 是抽象的，当且仅当“x 存在”在相关语言中是分析的。
 
-但是这个标准表明，_不纯净_的集合、依赖于对象的属性、抽象的艺术品以及其他一切都不是抽象的。因为这个标准似乎在某种程度上划定了纯粹的抽象实体和其他一切之间的界限。关于 {Bob Dylan} 或狄更斯的 _A Christmas Carol_ 的简单存在性陈述的真实性，并不仅仅取决于语言规则。对于包含一般术语如“小说”、“法规”等的简单和复杂存在性陈述也是如此。
+但是这个标准表明，*不纯净*的集合、依赖于对象的属性、抽象的艺术品以及其他一切都不是抽象的。因为这个标准似乎在某种程度上划定了纯粹的抽象实体和其他一切之间的界限。关于 {Bob Dylan} 或狄更斯的 *A Christmas Carol* 的简单存在性陈述的真实性，并不仅仅取决于语言规则。对于包含一般术语如“小说”、“法规”等的简单和复杂存在性陈述也是如此。
 
-然而，最终，卡尔纳普似乎既不是关于对象（抽象或具体）的现实主义者，也不是名义主义者。卡尔纳普拒绝了这些对象是否在形而上学意义上是真实的问题。但是，与名义主义者相反，他拒绝了我们可以真正否认抽象对象的真实存在（即在语言框架之外的否认）。这种态度解决了采用哪种框架的问题，基于实用的原因（例如，哪种框架最有助于我们理解要解释的数据），这就是为什么我们将他的观点标记为一种_削弱存在性的方式_。有关更多详细信息，请参阅关于[Carnap](https://plato.stanford.edu/entries/carnap/)的条目。
+然而，最终，卡尔纳普似乎既不是关于对象（抽象或具体）的现实主义者，也不是名义主义者。卡尔纳普拒绝了这些对象是否在形而上学意义上是真实的问题。但是，与名义主义者相反，他拒绝了我们可以真正否认抽象对象的真实存在（即在语言框架之外的否认）。这种态度解决了采用哪种框架的问题，基于实用的原因（例如，哪种框架最有助于我们理解要解释的数据），这就是为什么我们将他的观点标记为一种*削弱存在性的方式*。有关更多详细信息，请参阅关于[Carnap](https://plato.stanford.edu/entries/carnap/)的条目。
 
-其他哲学家的提议与卡尔纳普的观点有关。雷斯尼克（1997 年，第二部分）提出了一种用于存在数学对象的_假设认识论_。根据这个观点，确保数学对象的存在只需要使用一种语言来假设数学对象，并为它们建立一个一致的数学理论。然而，它们的存在并不是由于被假设而产生的。相反，我们之所以认识到这些对象的存在，是因为已经发展出了一个一致的数学理论。雷斯尼克要求对数学对象进行语言规定，并对其认识为存在的一致性条件。托马森（2015 年，30-34 页）提倡一种她认为是继承自卡尔纳普的方法。她称之为_简易本体论_。由于她并不试图找到终极范畴或基本（抽象或具体）对象的明确列表，她更倾向于一种更简单的现实主义（参见托马森 2015 年，145-158 页）。她认为，当存在性陈述在经验证据或仅仅是支配一般术语（例如，分类术语）的使用规则的支持下时，它们提供了可接受的本体论承诺；在这两种情况下，她说一般术语的“应用条件”得到了满足（参见托马森 2015 年，86 页，89-95 页）。因此，她也提供了一种接受抽象对象的_语言规则标准_。鉴于她对简单现实主义的辩护，她似乎将可观察对象和科学中的理论实体都视为具体存在的。
+其他哲学家的提议与卡尔纳普的观点有关。雷斯尼克（1997 年，第二部分）提出了一种用于存在数学对象的*假设认识论*。根据这个观点，确保数学对象的存在只需要使用一种语言来假设数学对象，并为它们建立一个一致的数学理论。然而，它们的存在并不是由于被假设而产生的。相反，我们之所以认识到这些对象的存在，是因为已经发展出了一个一致的数学理论。雷斯尼克要求对数学对象进行语言规定，并对其认识为存在的一致性条件。托马森（2015 年，30-34 页）提倡一种她认为是继承自卡尔纳普的方法。她称之为*简易本体论*。由于她并不试图找到终极范畴或基本（抽象或具体）对象的明确列表，她更倾向于一种更简单的现实主义（参见托马森 2015 年，145-158 页）。她认为，当存在性陈述在经验证据或仅仅是支配一般术语（例如，分类术语）的使用规则的支持下时，它们提供了可接受的本体论承诺；在这两种情况下，她说一般术语的“应用条件”得到了满足（参见托马森 2015 年，86 页，89-95 页）。因此，她也提供了一种接受抽象对象的*语言规则标准*。鉴于她对简单现实主义的辩护，她似乎将可观察对象和科学中的理论实体都视为具体存在的。
 
 #### 3.7.2 最小主义标准
 
@@ -346,11 +346,11 @@ Parsons（1990）、Resnik（1997）和 Shapiro（1997）认为，在数学理�
 
 Linnebo（2018）通过修订我们对 Frege 的双条件抽象原则的理解，提出了一个关于如何构想抽象对象的建议（参见[3.4](https://plato.stanford.edu/entries/abstract-objects/#WayAbstPrin)小节）。一些哲学家认为这些 Frege 的抽象原则是分析句。例如，Hale＆Wright（2001；2009）认为抽象原则的两个方面在意义上是等价的；它们以不同的方式“划分内容”（使用 Frege 的隐喻）。但是 Linnebo（2018, 13-14）拒绝了这种观点，以及这种双条件原则是分析的观点。
 
-相反，他建议我们通过一种称为“充分性运算符”的方式来实现对抽象（和其他对象）的引用，他认为这是对物质条件的加强。他从形式为“如果 Rab，则 f（a）= f（b）”的条件原则开始（例如，“如果 a 和 b 平行，则 a 的方向= b 的方向”），并将右侧视为左侧的重新概念化。他将这些主张表示为ϕ⇒ψ，其中新的运算符“⇒”旨在捕捉直观的观念，即ϕ“是”（_概念上的_）“对于”ψ“足够的”，或者ψ“所需的全部”“是”ϕ。为了使ϕ对于ψ足够，充分性必须比_形而上地蕴含_更强，但比_分析地蕴含_更弱（参见 Linnebo 2018, 15）。Linnebo 考虑的概念是一种“形而上学基础”的一种类型。因此，充分性陈述使我们能够以形而上学上不太有问题或非问题的对象来概念化涉及抽象对象（或其他问题对象）的陈述。
+相反，他建议我们通过一种称为“充分性运算符”的方式来实现对抽象（和其他对象）的引用，他认为这是对物质条件的加强。他从形式为“如果 Rab，则 f（a）= f（b）”的条件原则开始（例如，“如果 a 和 b 平行，则 a 的方向= b 的方向”），并将右侧视为左侧的重新概念化。他将这些主张表示为ϕ⇒ψ，其中新的运算符“⇒”旨在捕捉直观的观念，即ϕ“是”（*概念上的*）“对于”ψ“足够的”，或者ψ“所需的全部”“是”ϕ。为了使ϕ对于ψ足够，充分性必须比*形而上地蕴含*更强，但比*分析地蕴含*更弱（参见 Linnebo 2018, 15）。Linnebo 考虑的概念是一种“形而上学基础”的一种类型。因此，充分性陈述使我们能够以形而上学上不太有问题或非问题的对象来概念化涉及抽象对象（或其他问题对象）的陈述。
 
-对于林内博来说，充分性的不对称性很重要。他不接受互相充分的情况，即形式为 Rab⇔f(a)=f(b)的原则，因为这将意味着两边在意义上是等价的。相反，关键在于看似无问题的主张 Rab 使得主张 f(a)=f(b)变得无问题，这最好通过形式为 Rab⇒f(a)=f(b)的充分性陈述来表达，其中左边_基于_右边。因此，林内博对于再概念化的理解并不是弗雷格的内容重塑的概念。
+对于林内博来说，充分性的不对称性很重要。他不接受互相充分的情况，即形式为 Rab⇔f(a)=f(b)的原则，因为这将意味着两边在意义上是等价的。相反，关键在于看似无问题的主张 Rab 使得主张 f(a)=f(b)变得无问题，这最好通过形式为 Rab⇒f(a)=f(b)的充分性陈述来表达，其中左边*基于*右边。因此，林内博对于再概念化的理解并不是弗雷格的内容重塑的概念。
 
-此外，在充分性陈述中，林内博并不要求关系 R 是一个等价关系；他只要求 R 是对称的和传递的。它不需要是自反的，因为域可能包含实体 x，使得¬Rxx 成立（例如，在方向的充分性陈述中，并非域中的每个对象 x 都与自身平行-平行仅限于线）。林内博将这种对称和传递关系称为_统一_关系。当充分性陈述 Rab⇒f(a)=f(b)成立时，新的对象被确定。这些新对象是根据由 R 相关的较不问题的实体来指定的；例如，方向通过平行线来指定。根据林内博的观点，这些平行线成为新对象的_规范_。因此，统一关系 R 是发展引用的充分（但不是必要充分）条件的起点。
+此外，在充分性陈述中，林内博并不要求关系 R 是一个等价关系；他只要求 R 是对称的和传递的。它不需要是自反的，因为域可能包含实体 x，使得¬Rxx 成立（例如，在方向的充分性陈述中，并非域中的每个对象 x 都与自身平行-平行仅限于线）。林内博将这种对称和传递关系称为*统一*关系。当充分性陈述 Rab⇒f(a)=f(b)成立时，新的对象被确定。这些新对象是根据由 R 相关的较不问题的实体来指定的；例如，方向通过平行线来指定。根据林内博的观点，这些平行线成为新对象的*规范*。因此，统一关系 R 是发展引用的充分（但不是必要充分）条件的起点。
 
 有时，由条件原则引入的新对象对现实没有要求；当发生这种情况时，它们被称为“薄”（例如，方向只要求存在平行线）。然而，当由充分性陈述引入的新对象对现实提出更实质性的要求时，这些对象被认为是“厚”的。假设 Rab 断言 a 和 b 是同一连贯且自然有界整体的时空部分。然后，通过以下原则，a 和 b 成为物体的规范：Rab⇒物体(a)=物体(b)。在这种情况下，这个原则“对世界提出了实质性的要求”，因为它要求检查是否存在“构成连续坚实物质的时空部分”（仅仅看时空部分不足以确定它们是否构成一个物体；参见 Linnebo 2018, 45)。
 
@@ -366,137 +366,137 @@ Linnebo 因此将抽象对象与具体对象进行对比，抽象对象是薄且
 
 ## 4. 进一步阅读
 
-Berto 和 Plebani（2015）提供了对本体论和元本体论的有用介绍。Putnam（1971）从科学的角度为抽象对象提出了论据。Bealer（1993）和 Tennant（1997）提出了关于抽象实体必要存在的_先验_论证。Fine（2002）系统地研究了数学基础中的抽象原则。Wetzel（2009）考察了类型-标记的区别，认为类型是抽象对象，而这些类型的标记是它们的具体实例，并展示了在科学和自然语言中出现的对类型的许多引用是多么难以解释。Zalta（2020）为高阶抽象对象（包括抽象属性和抽象关系以及普通属性和关系）开发了一种类型理论框架，并提供了与其他类型理论的比较以及在哲学和语言学中的应用。Moltmann（2013）研究了在发展自然语言语义时需要抽象对象的程度；在这本书中，以及她的文章（2020）中，她辩护了“核心-边缘”区分，并提出自然语言本体论仅在其边缘中包含对抽象对象的引用。Falguera 和 Martínez-Vidal（2020）编辑了一本专著，其中的作者就不同种类和类别的抽象对象在哲学的不同领域中的立场和争论进行了介绍。
+Berto 和 Plebani（2015）提供了对本体论和元本体论的有用介绍。Putnam（1971）从科学的角度为抽象对象提出了论据。Bealer（1993）和 Tennant（1997）提出了关于抽象实体必要存在的*先验*论证。Fine（2002）系统地研究了数学基础中的抽象原则。Wetzel（2009）考察了类型-标记的区别，认为类型是抽象对象，而这些类型的标记是它们的具体实例，并展示了在科学和自然语言中出现的对类型的许多引用是多么难以解释。Zalta（2020）为高阶抽象对象（包括抽象属性和抽象关系以及普通属性和关系）开发了一种类型理论框架，并提供了与其他类型理论的比较以及在哲学和语言学中的应用。Moltmann（2013）研究了在发展自然语言语义时需要抽象对象的程度；在这本书中，以及她的文章（2020）中，她辩护了“核心-边缘”区分，并提出自然语言本体论仅在其边缘中包含对抽象对象的引用。Falguera 和 Martínez-Vidal（2020）编辑了一本专著，其中的作者就不同种类和类别的抽象对象在哲学的不同领域中的立场和争论进行了介绍。
 
 ## Bibliography
 
-* Armstrong, David, 1978, _Universals and Scientific Realism (Volume I: Nominalism and Realism; Volume II: A Theory of Universals)_, New York: Cambridge University Press.
-* –––, 1989, _Universals: An Opinionated Introduction_, Boulder: Westview Press.
-* Azzouni, Jody, 1997a, “Applied Mathematics, Existential Commitment and the Quine-Putnam Indispensability Thesis,” _Philosophia Mathematica_, 3(5): 193–209.
-* –––, 1997b, “Thick Epistemic Access: Distinguishing the Mathematical from the Empirical,” _The Journal of Philosophy_, 94(9): 472–484. doi:10.2307/2564619
-* –––, 2004, _Deflating Existential Consequence: A Case for Nominalism_, New York: Oxford University Press. doi:10.1093/0195159888.001.0001
-* –––, 2010, _Talking About Nothing: Numbers, Hallucinations and Fictions_, Oxford: Oxford University Press.
-* Baker, Alan, 2005, “Are There Genuine Mathematical Explanations of Physical Phenomena?” _Mind_, 114(454): 223–238.
-* –––, 2009, “Mathematical Explanation in Science,” _British Journal for the Philosophy of Science_, 60(3): 611–633.
-* –––, 2017, “Mathematics and Explanatory Generality,” _Philosophia Mathematica_, 25(2): 194–209. doi:10.1093/philmat/nkw021
-* Balaguer, Mark, 1995, “A Platonist Epistemology,” _Synthese_, 103(3): 303–325.
-* –––, 1996, “A Fictionalist Account of the Indispensable Applications of Mathematics,” _Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition_, 83(3): 291–314.
-* –––, 1998, _Platonism and Anti-Platonism in Mathematics_ p. 240, New York: Oxford University Press.
+* Armstrong, David, 1978, *Universals and Scientific Realism (Volume I: Nominalism and Realism; Volume II: A Theory of Universals)*, New York: Cambridge University Press.
+* –––, 1989, *Universals: An Opinionated Introduction*, Boulder: Westview Press.
+* Azzouni, Jody, 1997a, “Applied Mathematics, Existential Commitment and the Quine-Putnam Indispensability Thesis,” *Philosophia Mathematica*, 3(5): 193–209.
+* –––, 1997b, “Thick Epistemic Access: Distinguishing the Mathematical from the Empirical,” *The Journal of Philosophy*, 94(9): 472–484. doi:10.2307/2564619
+* –––, 2004, *Deflating Existential Consequence: A Case for Nominalism*, New York: Oxford University Press. doi:10.1093/0195159888.001.0001
+* –––, 2010, *Talking About Nothing: Numbers, Hallucinations and Fictions*, Oxford: Oxford University Press.
+* Baker, Alan, 2005, “Are There Genuine Mathematical Explanations of Physical Phenomena?” *Mind*, 114(454): 223–238.
+* –––, 2009, “Mathematical Explanation in Science,” *British Journal for the Philosophy of Science*, 60(3): 611–633.
+* –––, 2017, “Mathematics and Explanatory Generality,” *Philosophia Mathematica*, 25(2): 194–209. doi:10.1093/philmat/nkw021
+* Balaguer, Mark, 1995, “A Platonist Epistemology,” *Synthese*, 103(3): 303–325.
+* –––, 1996, “A Fictionalist Account of the Indispensable Applications of Mathematics,” *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition*, 83(3): 291–314.
+* –––, 1998, *Platonism and Anti-Platonism in Mathematics* p. 240, New York: Oxford University Press.
 * –––, 2020, “Moral Folkism and the Deflation of (Lots of) Normative and Metaethics,” in José Falguera & Martínez-Vidal (eds.) 2020, pp. 297–318.
-* Baron, Samuel, 2016, “Explaining Mathematical Explanation,” _The Philosophical Quarterly_, 66(264): 458–480. doi:10.1093/pq/pqv123
+* Baron, Samuel, 2016, “Explaining Mathematical Explanation,” *The Philosophical Quarterly*, 66(264): 458–480. doi:10.1093/pq/pqv123
 * –––, 2020, “Purely Physical Explananda: Bistability in Perception,” in Falguera & Martínez-Vidal (eds.) 2020, pp. 17–34.
-* Bealer, George, 1993, “Universals,” _The Journal of Philosophy_, 90(1): 5–32. doi:10.2307/2940824
-* Benacerraf, Paul, 1965, “What Numbers Could Not Be,” _Philosophical Review_, 74(1): 47–73.
-* –––, 1973, “Mathematical Truth,” _Journal of Philosophy_, 70(19): 661–679.
-* Berto, Francesco, and Plebani, Matteo, 2015, _Ontology and Metaontology: A Contemporary Guide_, London; New York: Bloomsbury Academic.
-* Bolzano, Bernard, 1837, _Wissenschaftslehre_, Sulzbach: J. E. v. Seidel.
-* Brentano, Franz, 1874, _Psychologie Vom Empirischen Standpunkt_, Leipzig: Duncker & Humblot.
-* Bueno, Otávio, 2008a, “Nominalism and Mathematical Intuition,” _Protosociology_, 25: 89–107.
-* –––, 2008b, “Truth and Proof,” _Manuscrito_, 31(1): 419–440.
+* Bealer, George, 1993, “Universals,” *The Journal of Philosophy*, 90(1): 5–32. doi:10.2307/2940824
+* Benacerraf, Paul, 1965, “What Numbers Could Not Be,” *Philosophical Review*, 74(1): 47–73.
+* –––, 1973, “Mathematical Truth,” *Journal of Philosophy*, 70(19): 661–679.
+* Berto, Francesco, and Plebani, Matteo, 2015, *Ontology and Metaontology: A Contemporary Guide*, London; New York: Bloomsbury Academic.
+* Bolzano, Bernard, 1837, *Wissenschaftslehre*, Sulzbach: J. E. v. Seidel.
+* Brentano, Franz, 1874, *Psychologie Vom Empirischen Standpunkt*, Leipzig: Duncker & Humblot.
+* Bueno, Otávio, 2008a, “Nominalism and Mathematical Intuition,” *Protosociology*, 25: 89–107.
+* –––, 2008b, “Truth and Proof,” *Manuscrito*, 31(1): 419–440.
 * –––, 2020, “Contingent Abstract Objects,” in Falguera & Martínez-Vidal (eds.) 2020, pp. 91–109.
-* Burgess, John P., 2005, _Fixing Frege_, Princeton: Princeton University Press.
-* Burgess, John P., and Rosen, Gideon, 1997, _A Subject with No Object: Strategies for Nominalistic Interpretation of Mathematics_, Oxford: Oxford University Press.
-* Carnap, Rudolf, 1950 \[1956], “Empiricism, Semantics, and Ontology,” _Revue Internationale de Philosophie_, 4(11): 20–40; reprinted with revisions in Rudolf Carnap, _Meaning and Necessity_, expanded edition, Chicago: Chicago University Press, 1956, pp. 205–221.
-* Chalmers, David, 1996, _The Conscious Mind_, Oxford: Oxford University Press.
-* Colyvan, Mark, 2001, _The Indispensability of Mathematics_, Oxford: Oxford University Press.
-* –––, 2010, “There Is No Easy Road to Nominalism,” _Mind_, 119(474): 285–306. doi:10.1093/mind/fzq014
-* Colyvan, Mark, and Zalta, Edward N., 1999, “Mathematics: Truth and Fiction?” _Philosophia Mathematica_, 7(3): 336–349. doi:10.1093/philmat/7.3.336
-* Cook, Roy, 2003, “Iteration One More Time,” _Notre Dame Journal of Formal Logic_, 44(2): 63–92.
-* Cowling, Sam, 2017, _Abstract Entities_, London: Routledge.
-* Crane, Tim, and Mellor, D. H., 1990, “There Is No Question of Physicalism,” _Mind_, 99(394): 185–206.
-* Dedekind, Richard, 1888 \[1963], _Was Sind Und Was Sollen Die Zahlen_, Braunschweig: Vieweg und Sohn; English translation, “The Nature and Meaning of Numbers”, in R. Dedekind, _Essays on the Theory of Numbers_, Wooster Woodruff Beman (trans.), New York: Dover, 1963, pp. 29–115.
+* Burgess, John P., 2005, *Fixing Frege*, Princeton: Princeton University Press.
+* Burgess, John P., and Rosen, Gideon, 1997, *A Subject with No Object: Strategies for Nominalistic Interpretation of Mathematics*, Oxford: Oxford University Press.
+* Carnap, Rudolf, 1950 \[1956], “Empiricism, Semantics, and Ontology,” *Revue Internationale de Philosophie*, 4(11): 20–40; reprinted with revisions in Rudolf Carnap, *Meaning and Necessity*, expanded edition, Chicago: Chicago University Press, 1956, pp. 205–221.
+* Chalmers, David, 1996, *The Conscious Mind*, Oxford: Oxford University Press.
+* Colyvan, Mark, 2001, *The Indispensability of Mathematics*, Oxford: Oxford University Press.
+* –––, 2010, “There Is No Easy Road to Nominalism,” *Mind*, 119(474): 285–306. doi:10.1093/mind/fzq014
+* Colyvan, Mark, and Zalta, Edward N., 1999, “Mathematics: Truth and Fiction?” *Philosophia Mathematica*, 7(3): 336–349. doi:10.1093/philmat/7.3.336
+* Cook, Roy, 2003, “Iteration One More Time,” *Notre Dame Journal of Formal Logic*, 44(2): 63–92.
+* Cowling, Sam, 2017, *Abstract Entities*, London: Routledge.
+* Crane, Tim, and Mellor, D. H., 1990, “There Is No Question of Physicalism,” *Mind*, 99(394): 185–206.
+* Dedekind, Richard, 1888 \[1963], *Was Sind Und Was Sollen Die Zahlen*, Braunschweig: Vieweg und Sohn; English translation, “The Nature and Meaning of Numbers”, in R. Dedekind, *Essays on the Theory of Numbers*, Wooster Woodruff Beman (trans.), New York: Dover, 1963, pp. 29–115.
 * Donato-Rodríguez, Xavier, and Falguera, José L., 2020, “The Nature of Scientific Models: Abstract Artifacts That Determine Fictional Systems,” in Falguera & Martínez-Vidal (eds.) 2020, pp. 151–171.
-* Dummett, Michael, 1973, _Frege: Philosophy of Language,_ London: Duckworth.
-* Enoch, David, 2011, _Taking Morality Seriously: A Defense of Robust Realism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199579969.001.0001
-* –––, 2016, “Indispensability Arguments in Metaethics: Even Better Than in Mathematics?” in Uri D. Leibowitz & Neil Sinclair (eds.), _Explanation in Ethics and Mathematics_, Oxford: Oxford University Press.
-* Falguera, José L., and Martínez-Vidal, Concha (eds.), 2020, _Abstract Objects: For and Against_ (Synthese Library: Volume 422), Cham, Switzerland: Springer.
-* Field, Hartry, 1980, _Science Without Numbers_, Princeton: Princeton University Press.
-* –––, 1989, _Realism, Mathematics and Modality_, Oxford: Basil Blackwell.
-* Fine, Kit, 1994, “Essence and Modality,” _Philosophical Perspectives_, 8: 1–16. doi:10.2307/2214160
-* –––, 2002, _The Limits of Abstraction_, Oxford; New York: Clarendon Press.
-* –––, 2005, “Our Knowledge of Mathematical Objects,” in _Oxford Studies in Epistemology: Volume 1_, pp. 89–110, Oxford: Oxford University Press.
-* Frege, Gottlob, 1884, _Grundlagen Der Arithmetik_, Breslau: W. Koebner.
-* –––, 1918, “Der Gedanke: Eine Logische Untersuchung,” _Beiträge Zur Philosophie Des Deutschen Idealismus_, I: 58–77.
-* Goodman, Nelson, and Quine, W. V. O., 1947, “Steps Toward a Constructive Nominalism,” _The Journal of Symbolic Logic_, 12(4): 105–122.
-* Gödel, Kurt, 1964, “What Is Cantor’s Continuum Problem?” in P. Benacerraf & H. Putnam (eds.), _Philosophy of Mathematics: Selected Readings_, 2nd edition, pp. 254–270, Cambridge: Cambridge University Press.
-* Hale, Bob, 1987, _Abstract Objects_, Oxford: Blackwell.
-* Hale, Bob, and Wright, Crispin, 2001, _The Reason’s Proper Study: Essays Towards a Neo-Fregean Philosophy of Mathematics_, Oxford: Oxford University Press.
-* –––, 2009, “The Metaontology of Abstraction,” in D. Chalmers, D. Manley, & R. Wasserman (eds.), _Metametaphysics_, pp. 178–212, New York: Oxford University Press.
-* Hellman, Geoffrey, 1989, _Mathematics Without Numbers: Towards a Modal-Structural Interpretation_, Oxford: Clarendon Press.
-* Hirsch, Eli, 2002, “Quantifier Variance and Realism,” _Philosophical Issues_, 12(1): 51–73. doi:10.1111/j.1758-2237.2002.tb00061.x
-* –––, 2011, _Quantifier Variance and Realism: Essays in Metaontology_, New York: Oxford University Press.
-* Inwagen, Peter van, 1977, “Creatures of Fiction,” _American Philosophical Quarterly_, 14(4): 299–308.
-* –––, 1983, “Fiction and Metaphysics,” _Philosophy and Literature_, 7(1): 67–77. doi:10.1353/phl.1983.0059
-* Jackson, Frank, 1982, “Epiphenomenal Qualia,” _The Philosophical Quarterly_, 32(127): 127–136. doi:10.2307/2960077
-* Kalderon, Mark Eli, 2005, _Fictionalism in Metaphysics_, Oxford: Oxford University Press.
-* Katz, Jerrold, 1980, _Language and Other Abstract Objects_, Lanham, MD: Rowman & Littlefield.
-* Knowles, Robert, and Saatsi, Juha, 2019, “Mathematics and Explanatory Generality: Nothing but Cognitive Salience,” _Erkenntnis_. doi:10.1007/s10670-019-00146-x
-* Kripke, Saul, 1973 \[2013], _Reference and Existence: The John Locke Lectures_, Oxford: Oxford University Press, 2013. \[These lectures were given in 1973 but remained unpublished until 2013.]
-* Leibowitz, Uri D., and Sinclair, Neil (eds.), 2016, _Explanation in Ethics and Mathematics: Debunking and Dispensability_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198778592.001.0001
-* Leng, Mary, 2010, _Mathematics and Reality_, Oxford: Oxford University Press.
+* Dummett, Michael, 1973, *Frege: Philosophy of Language,* London: Duckworth.
+* Enoch, David, 2011, *Taking Morality Seriously: A Defense of Robust Realism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199579969.001.0001
+* –––, 2016, “Indispensability Arguments in Metaethics: Even Better Than in Mathematics?” in Uri D. Leibowitz & Neil Sinclair (eds.), *Explanation in Ethics and Mathematics*, Oxford: Oxford University Press.
+* Falguera, José L., and Martínez-Vidal, Concha (eds.), 2020, *Abstract Objects: For and Against* (Synthese Library: Volume 422), Cham, Switzerland: Springer.
+* Field, Hartry, 1980, *Science Without Numbers*, Princeton: Princeton University Press.
+* –––, 1989, *Realism, Mathematics and Modality*, Oxford: Basil Blackwell.
+* Fine, Kit, 1994, “Essence and Modality,” *Philosophical Perspectives*, 8: 1–16. doi:10.2307/2214160
+* –––, 2002, *The Limits of Abstraction*, Oxford; New York: Clarendon Press.
+* –––, 2005, “Our Knowledge of Mathematical Objects,” in *Oxford Studies in Epistemology: Volume 1*, pp. 89–110, Oxford: Oxford University Press.
+* Frege, Gottlob, 1884, *Grundlagen Der Arithmetik*, Breslau: W. Koebner.
+* –––, 1918, “Der Gedanke: Eine Logische Untersuchung,” *Beiträge Zur Philosophie Des Deutschen Idealismus*, I: 58–77.
+* Goodman, Nelson, and Quine, W. V. O., 1947, “Steps Toward a Constructive Nominalism,” *The Journal of Symbolic Logic*, 12(4): 105–122.
+* Gödel, Kurt, 1964, “What Is Cantor’s Continuum Problem?” in P. Benacerraf & H. Putnam (eds.), *Philosophy of Mathematics: Selected Readings*, 2nd edition, pp. 254–270, Cambridge: Cambridge University Press.
+* Hale, Bob, 1987, *Abstract Objects*, Oxford: Blackwell.
+* Hale, Bob, and Wright, Crispin, 2001, *The Reason’s Proper Study: Essays Towards a Neo-Fregean Philosophy of Mathematics*, Oxford: Oxford University Press.
+* –––, 2009, “The Metaontology of Abstraction,” in D. Chalmers, D. Manley, & R. Wasserman (eds.), *Metametaphysics*, pp. 178–212, New York: Oxford University Press.
+* Hellman, Geoffrey, 1989, *Mathematics Without Numbers: Towards a Modal-Structural Interpretation*, Oxford: Clarendon Press.
+* Hirsch, Eli, 2002, “Quantifier Variance and Realism,” *Philosophical Issues*, 12(1): 51–73. doi:10.1111/j.1758-2237.2002.tb00061.x
+* –––, 2011, *Quantifier Variance and Realism: Essays in Metaontology*, New York: Oxford University Press.
+* Inwagen, Peter van, 1977, “Creatures of Fiction,” *American Philosophical Quarterly*, 14(4): 299–308.
+* –––, 1983, “Fiction and Metaphysics,” *Philosophy and Literature*, 7(1): 67–77. doi:10.1353/phl.1983.0059
+* Jackson, Frank, 1982, “Epiphenomenal Qualia,” *The Philosophical Quarterly*, 32(127): 127–136. doi:10.2307/2960077
+* Kalderon, Mark Eli, 2005, *Fictionalism in Metaphysics*, Oxford: Oxford University Press.
+* Katz, Jerrold, 1980, *Language and Other Abstract Objects*, Lanham, MD: Rowman & Littlefield.
+* Knowles, Robert, and Saatsi, Juha, 2019, “Mathematics and Explanatory Generality: Nothing but Cognitive Salience,” *Erkenntnis*. doi:10.1007/s10670-019-00146-x
+* Kripke, Saul, 1973 \[2013], *Reference and Existence: The John Locke Lectures*, Oxford: Oxford University Press, 2013. \[These lectures were given in 1973 but remained unpublished until 2013.]
+* Leibowitz, Uri D., and Sinclair, Neil (eds.), 2016, *Explanation in Ethics and Mathematics: Debunking and Dispensability*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198778592.001.0001
+* Leng, Mary, 2010, *Mathematics and Reality*, Oxford: Oxford University Press.
 * –––, 2020, “Is There a Fact of the Matter About the Existence of Abstract Objects?” in Falguera & Martínez-Vidal (eds.) 2020, pp. 111–130.
-* Lewis, David, 1986a, _On the Plurality of Worlds_, Oxford: Blackwell.
-* –––, 1986b, “Events”, in D. Lewis, _Philosophical Papers_ (Volume II), Oxford: Oxford University Press, pp. 241–269.
-* –––, 2007, “Events,” in _Philosophical Papers: Volume Ii_, pp. 241–269, Oxford: Oxford University Press.
-* Linnebo, 2012, “Metaontological Minimalism,” _Philosophy Compass_, 7(2): 139–151. doi:10.1111/j.1747-9991.2011.00471.x
-* –––, 2018, _Thin Objects: An Abstractionist Account_, Oxford: Oxford University Press. doi:10.1093/oso/9780199641314.001.0001
-* Linsky, Bernard, and Zalta, Edward N., 1995, “Naturalized Platonism Versus Platonized Naturalism,” _The Journal of Philosophy_, 92(10): 525–555. doi:10.2307/2940786
-* Locke, John, 1689, _An Essay Concerning Human Understanding_, Oxford: Clarendon Press.
-* Maddy, Penelope, 1990, _Realism in Mathematics_, New York; London: Clarendon Press.
-* –––, 1995, “Naturalism and Ontology,” _Philosophia Mathematica_, 3(3): 248–270. doi:10.1093/philmat/3.3.248
-* –––, 1997, _Naturalism in Mathematics_, Oxford: Oxford University Press.
-* –––, 2011, _Defending the Axioms: On the Philosophical Foundations of Set Theory_, Oxford: Oxford University Press.
-* Malament, David, 1982, “Review of Field (1980),” _The Journal of Philosophy_, 79: 523–34.
-* Mally, Ernst, 1912, _Gegenstandstheoretische Grundlagen Der Logik Und Logistik_, Leipzig: Barth.
+* Lewis, David, 1986a, *On the Plurality of Worlds*, Oxford: Blackwell.
+* –––, 1986b, “Events”, in D. Lewis, *Philosophical Papers* (Volume II), Oxford: Oxford University Press, pp. 241–269.
+* –––, 2007, “Events,” in *Philosophical Papers: Volume Ii*, pp. 241–269, Oxford: Oxford University Press.
+* Linnebo, 2012, “Metaontological Minimalism,” *Philosophy Compass*, 7(2): 139–151. doi:10.1111/j.1747-9991.2011.00471.x
+* –––, 2018, *Thin Objects: An Abstractionist Account*, Oxford: Oxford University Press. doi:10.1093/oso/9780199641314.001.0001
+* Linsky, Bernard, and Zalta, Edward N., 1995, “Naturalized Platonism Versus Platonized Naturalism,” *The Journal of Philosophy*, 92(10): 525–555. doi:10.2307/2940786
+* Locke, John, 1689, *An Essay Concerning Human Understanding*, Oxford: Clarendon Press.
+* Maddy, Penelope, 1990, *Realism in Mathematics*, New York; London: Clarendon Press.
+* –––, 1995, “Naturalism and Ontology,” *Philosophia Mathematica*, 3(3): 248–270. doi:10.1093/philmat/3.3.248
+* –––, 1997, *Naturalism in Mathematics*, Oxford: Oxford University Press.
+* –––, 2011, *Defending the Axioms: On the Philosophical Foundations of Set Theory*, Oxford: Oxford University Press.
+* Malament, David, 1982, “Review of Field (1980),” *The Journal of Philosophy*, 79: 523–34.
+* Mally, Ernst, 1912, *Gegenstandstheoretische Grundlagen Der Logik Und Logistik*, Leipzig: Barth.
 * Martínez-Vidal, Concha, and Rivas-de-Castro, Navia, 2020, “Description, Explanation and Ontological Commitment,” in Falguera & Martínez-Vidal (eds.) 2020, pp. 35–57.
-* Meinong, Alexius, 1904, “Über Gegenstandstheorie,” in A. Meinong (ed.), _Untersuchungen Zur Gegenstandstheorie Und Psychologie \[Investigations in Theory of Objects and Psychology]_, pp. 1–51, Leipzig: Barth.
-* –––, 1915, _Über Möglichkeit Und Wahrscheinlichkeit. Beiträge Zur Gegenstandstheorie Und Erkenntnistheorie \[on Possibility and Probability. Contributions to Object Theory and Epistemology]_, Leipzig: Barth.
-* Melia, Joseph, 2000, “Weaseling Away the Indispensability Argument,” _Mind_, 109(435): 455–479.
-* –––, 2002, “Response to Colyvan,” _Mind_, 111(441): 75–79.
-* Moltmann, Friederike, 2013, _Abstract Objects and the Semantics of Natural Language_, Oxford: Oxford University Press.
+* Meinong, Alexius, 1904, “Über Gegenstandstheorie,” in A. Meinong (ed.), *Untersuchungen Zur Gegenstandstheorie Und Psychologie \[Investigations in Theory of Objects and Psychology]*, pp. 1–51, Leipzig: Barth.
+* –––, 1915, *Über Möglichkeit Und Wahrscheinlichkeit. Beiträge Zur Gegenstandstheorie Und Erkenntnistheorie \[on Possibility and Probability. Contributions to Object Theory and Epistemology]*, Leipzig: Barth.
+* Melia, Joseph, 2000, “Weaseling Away the Indispensability Argument,” *Mind*, 109(435): 455–479.
+* –––, 2002, “Response to Colyvan,” *Mind*, 111(441): 75–79.
+* Moltmann, Friederike, 2013, *Abstract Objects and the Semantics of Natural Language*, Oxford: Oxford University Press.
 * –––, 2020, “Abstract Objects and the Core-Periphery Distinction in the Ontological and the Conceptual Domain of Natural Language,” in Falguera & Martínez-Vidal (eds.) 2020, pp. 255–276.
-* Nodelman, Uri, and Zalta, Edward N., 2014, “Foundations for Mathematical Structuralism,” _Mind_, 123(489): 39–78. doi:10.1093/mind/fzu003
-* Parsons, Charles, 1990, “The Structuralist View of Mathematical Objects,” _Synthese_, 84(3): 303–346.
-* Parsons, Terence, 1980, _Nonexistent Objects_, New Haven: Yale University Press.
-* Popper, Karl, 1968, “Epistemology Without a Knowing Subject,” in _Logic, Methodology, and Philosophy of Science Iii_, pp. 333–373, Amsterdam: North Holland.
-* Putnam, Hilary, 1967, “Mathematics Without Foundations,” _The Journal of Philosophy_, 64(1): 5–22.
-* –––, 1971, _Philosophy of Logic_, London: Harper; Row.
-* –––, 1987, _The Many Faces of Realism_, La Salle: Open Court.
-* –––, 1990, _Realism with a Human Face_, Cambridge, MA: Harvard University Press.
-* Quine, W. V. O., 1948, “On What There Is,” _The Review of Metaphysics_, 2(5): 21–38.
-* –––, 1960, _Word and Object_, Cambridge, MA: The MIT Press.
-* –––, 1969, _Ontological Relativity and Other Essays_, New York: Columbia University Press.
-* –––, 1976, _The Ways of Paradox and Other Essays_, Cambridge, MA: Harvard University Press.
-* Rayo, Agustín, 2013, _The Construction of Logical Space_, Oxford: Oxford University Press.
-* Resnik, Michael D., 1982, “Mathematics as a Science of Patterns: Epistemology,” _Noûs_, 16(1): 95–105. doi:10.2307/2215419
-* –––, 1997, _Mathematics as a Science of Patterns_ p. 290, Oxford: Oxford University Press. doi:10.1093/0198250142.001.0001
-* Rosen, Gideon, 1994, “Objectivity and Modern Idealism: What Is the Question?” in M. Michael & J. O’Leary-Hawthorne (eds.), _Philosophy in Mind_, pp. 277–319, Dordrecht: Springer.
-* –––, 2011, “The Reality of Mathematical Objects,” in J. Polkinghorne (ed.), _Meaning in Mathematics_, pp. 113–131, Oxford: Oxford University Press.
-* Rosen, Gideon, and Yablo, Stephen, 2020, “Solving the Caesar Problem – with Metaphysics,” in A. Miller (ed.), _Logic, Language and Mathematics: Themes from the Philosophy of Crispin Wright_, pp. 116–131, Oxford: Oxford University Press.
-* Saatsi, Juha, 2011, “The Enhanced Indispensability Argument: Representational Versus Explanatory Role of Mathematics in Science,” _The British Journal for the Philosophy of Science_, 62(1): 143–154.
-* Sainsbury, Mark, 2009, _Fiction and Fictionalism_, London: Routledge.
-* Shapiro, Stewart, 1997, _Philosophy of Mathematics: Structure and Ontology_, New York: Oxford University Press. doi:10.1093/0195139305.001.0001
-* Sider, Theodore, 2007, “Parthood,” _The Philosophical Review_, 116(1): 51–91. doi:10.1215/00318108-2006-022
-* –––, 2009, “Ontological Realism,” in D. Chalmers, D. Manley, & R. Wasserman (eds.), _Metametaphysics_, pp. 384–423, Oxford: Oxford University Press.
-* –––, 2013, “Against Parthood,” in Karen Bennett and Dean W. Zimmerman (eds.), _Oxford Studies in Metaphysics_, vol. 8, Oxford: Oxford University Press, pp. 237–93.
-* Steiner, Mark, 1975, _Mathematical Knowledge_, Ithaca: Cornell University Press.
-* Swoyer, Chris, 2007, “Abstract Entities,” in T. Sider, J. Hawthorne, & D. W. Zimmerman (eds.), _Contemporary Debates in Metaphysics_, pp. 11–31, Malden, MA: Wiley-Blackwell.
-* Szabó, Zoltan Gendler, 2003, “Nominalism,” in _Oxford Handbook of Metaphysics_, pp. 11–45, Oxford: Oxford University Press.
-* Tennant, Neil, 1997, “On the Necessary Existence of Numbers,” _Noûs_, 31(3): 307–336. doi:10.1111/0029-4624.00048
-* Thomasson, Amie L., 1999, _Fiction and Metaphysics_, Cambridge: Cambridge University Press.
-* –––, 2015, _Ontology Made Easy_, Oxford: Oxford University Press.
-* Wetzel, Linda, 2009, _Types and Tokens: On Abstract Objects_, Cambridge, MA: The MIT Press.
-* Wright, Crispin, 1983, _Frege’s Conception of Numbers as Objects_, Aberdeen: Aberdeen University Press.
-* Yablo, Stephen, 1998, “Does Ontology Rest on a Mistake?” _Proceedings of the Aristotelian Society (Supplementary Volume)_, 72(1): 229–262. doi:10.1111/1467-8349.00044
-* –––, 2001, “Go Figure: A Path Through Fictionalism,” _Midwest Studies in Philosophy_, 25: 72–102. doi:10.1111/1475-4975.00040
-* –––, 2002, “Abstract Objects: A Case Study,” _Philosophical Issues_, 12(1): 220–240.
-* –––, 2009, _Thoughts: Papers on Mind, Meaning, and Modality_, New York: Oxford University Press.
-* –––, 2010, “The Myth of the Seven,” in _Things: Papers on Objects, Events, and Properties_, pp. 233–245, Oxford: Oxford University Press.
-* –––, 2014, _Aboutness_, Princeton: Princeton University Press.
-* Zalta, Edward N., 1983, _Abstract Objects: An Introduction to Axiomatic Metaphysics_, Dordrecht: D. Reidel.
-* –––, 1988, _Intensional Logic and Metaphysics of Intentionality_, Cambridge, MA: The MIT Press.
-* –––, 1993, “Twenty-Five Basic Theorems in Situation and World Theory,” _Journal of Philosophical Logic_, 22: 385–428.
-* –––, 2006, “Essence and Modality,” _Mind_, 115(459): 659–693.
+* Nodelman, Uri, and Zalta, Edward N., 2014, “Foundations for Mathematical Structuralism,” *Mind*, 123(489): 39–78. doi:10.1093/mind/fzu003
+* Parsons, Charles, 1990, “The Structuralist View of Mathematical Objects,” *Synthese*, 84(3): 303–346.
+* Parsons, Terence, 1980, *Nonexistent Objects*, New Haven: Yale University Press.
+* Popper, Karl, 1968, “Epistemology Without a Knowing Subject,” in *Logic, Methodology, and Philosophy of Science Iii*, pp. 333–373, Amsterdam: North Holland.
+* Putnam, Hilary, 1967, “Mathematics Without Foundations,” *The Journal of Philosophy*, 64(1): 5–22.
+* –––, 1971, *Philosophy of Logic*, London: Harper; Row.
+* –––, 1987, *The Many Faces of Realism*, La Salle: Open Court.
+* –––, 1990, *Realism with a Human Face*, Cambridge, MA: Harvard University Press.
+* Quine, W. V. O., 1948, “On What There Is,” *The Review of Metaphysics*, 2(5): 21–38.
+* –––, 1960, *Word and Object*, Cambridge, MA: The MIT Press.
+* –––, 1969, *Ontological Relativity and Other Essays*, New York: Columbia University Press.
+* –––, 1976, *The Ways of Paradox and Other Essays*, Cambridge, MA: Harvard University Press.
+* Rayo, Agustín, 2013, *The Construction of Logical Space*, Oxford: Oxford University Press.
+* Resnik, Michael D., 1982, “Mathematics as a Science of Patterns: Epistemology,” *Noûs*, 16(1): 95–105. doi:10.2307/2215419
+* –––, 1997, *Mathematics as a Science of Patterns* p. 290, Oxford: Oxford University Press. doi:10.1093/0198250142.001.0001
+* Rosen, Gideon, 1994, “Objectivity and Modern Idealism: What Is the Question?” in M. Michael & J. O’Leary-Hawthorne (eds.), *Philosophy in Mind*, pp. 277–319, Dordrecht: Springer.
+* –––, 2011, “The Reality of Mathematical Objects,” in J. Polkinghorne (ed.), *Meaning in Mathematics*, pp. 113–131, Oxford: Oxford University Press.
+* Rosen, Gideon, and Yablo, Stephen, 2020, “Solving the Caesar Problem – with Metaphysics,” in A. Miller (ed.), *Logic, Language and Mathematics: Themes from the Philosophy of Crispin Wright*, pp. 116–131, Oxford: Oxford University Press.
+* Saatsi, Juha, 2011, “The Enhanced Indispensability Argument: Representational Versus Explanatory Role of Mathematics in Science,” *The British Journal for the Philosophy of Science*, 62(1): 143–154.
+* Sainsbury, Mark, 2009, *Fiction and Fictionalism*, London: Routledge.
+* Shapiro, Stewart, 1997, *Philosophy of Mathematics: Structure and Ontology*, New York: Oxford University Press. doi:10.1093/0195139305.001.0001
+* Sider, Theodore, 2007, “Parthood,” *The Philosophical Review*, 116(1): 51–91. doi:10.1215/00318108-2006-022
+* –––, 2009, “Ontological Realism,” in D. Chalmers, D. Manley, & R. Wasserman (eds.), *Metametaphysics*, pp. 384–423, Oxford: Oxford University Press.
+* –––, 2013, “Against Parthood,” in Karen Bennett and Dean W. Zimmerman (eds.), *Oxford Studies in Metaphysics*, vol. 8, Oxford: Oxford University Press, pp. 237–93.
+* Steiner, Mark, 1975, *Mathematical Knowledge*, Ithaca: Cornell University Press.
+* Swoyer, Chris, 2007, “Abstract Entities,” in T. Sider, J. Hawthorne, & D. W. Zimmerman (eds.), *Contemporary Debates in Metaphysics*, pp. 11–31, Malden, MA: Wiley-Blackwell.
+* Szabó, Zoltan Gendler, 2003, “Nominalism,” in *Oxford Handbook of Metaphysics*, pp. 11–45, Oxford: Oxford University Press.
+* Tennant, Neil, 1997, “On the Necessary Existence of Numbers,” *Noûs*, 31(3): 307–336. doi:10.1111/0029-4624.00048
+* Thomasson, Amie L., 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
+* –––, 2015, *Ontology Made Easy*, Oxford: Oxford University Press.
+* Wetzel, Linda, 2009, *Types and Tokens: On Abstract Objects*, Cambridge, MA: The MIT Press.
+* Wright, Crispin, 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press.
+* Yablo, Stephen, 1998, “Does Ontology Rest on a Mistake?” *Proceedings of the Aristotelian Society (Supplementary Volume)*, 72(1): 229–262. doi:10.1111/1467-8349.00044
+* –––, 2001, “Go Figure: A Path Through Fictionalism,” *Midwest Studies in Philosophy*, 25: 72–102. doi:10.1111/1475-4975.00040
+* –––, 2002, “Abstract Objects: A Case Study,” *Philosophical Issues*, 12(1): 220–240.
+* –––, 2009, *Thoughts: Papers on Mind, Meaning, and Modality*, New York: Oxford University Press.
+* –––, 2010, “The Myth of the Seven,” in *Things: Papers on Objects, Events, and Properties*, pp. 233–245, Oxford: Oxford University Press.
+* –––, 2014, *Aboutness*, Princeton: Princeton University Press.
+* Zalta, Edward N., 1983, *Abstract Objects: An Introduction to Axiomatic Metaphysics*, Dordrecht: D. Reidel.
+* –––, 1988, *Intensional Logic and Metaphysics of Intentionality*, Cambridge, MA: The MIT Press.
+* –––, 1993, “Twenty-Five Basic Theorems in Situation and World Theory,” *Journal of Philosophical Logic*, 22: 385–428.
+* –––, 2006, “Essence and Modality,” *Mind*, 115(459): 659–693.
 * –––, 2020, “Typed Object Theory,” in Falguera & Martínez-Vidal (eds.) 2020, pp. 59–88.
 
 ## Academic Tools
@@ -520,6 +520,6 @@ Berto 和 Plebani（2015）提供了对本体论和元本体论的有用介绍�
 This entry was revised, updated, and expanded in 2021 by José L. Falguera and Concha Martínez-Vidal. The author of the previous version of this entry, Gideon Rosen, remains credited on this entry since significant content in Sections 1, 2.1, 3.5.1–3.5.3, and 4 has been retained from the previous version.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[José L. Falguera](https://doctoradologifici.usal.es/?q=profesor/falguera-lopez-jose-luis) <[_joseluis.falguera@usc.es_](mailto:joseluis%2efalguera%40usc%2ees)>\
-[Concha Martínez-Vidal](https://epimenides.usal.es/?q=profesor/martinez-vidal-concepcion) <[_mconcepcion.martinez@usc.es_](mailto:mconcepcion%2emartinez%40usc%2ees)>\
-[Gideon Rosen](http://philosophy.princeton.edu/index.php?option=com\_faculty\&Itemid=78\&func=fullview\&facultyid=36)
+[José L. Falguera](https://doctoradologifici.usal.es/?q=profesor/falguera-lopez-jose-luis) <[*joseluis.falguera@usc.es*](mailto:joseluis%2efalguera%40usc%2ees)>\
+[Concha Martínez-Vidal](https://epimenides.usal.es/?q=profesor/martinez-vidal-concepcion) <[*mconcepcion.martinez@usc.es*](mailto:mconcepcion%2emartinez%40usc%2ees)>\
+[Gideon Rosen](http://philosophy.princeton.edu/index.php?option=com\*faculty\&Itemid=78\&func=fullview\&facultyid=36)

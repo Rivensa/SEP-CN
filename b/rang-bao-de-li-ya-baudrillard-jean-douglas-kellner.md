@@ -1,6 +1,6 @@
 # 让·鲍德里亚 Baudrillard, Jean (Douglas Kellner)
 
-_首次发表于 2005 年 4 月 22 日；实质性修订于 2019 年 12 月 18 日_
+*首次发表于 2005 年 4 月 22 日；实质性修订于 2019 年 12 月 18 日*
 
 与后现代主义和后结构主义理论相关的让·鲍德里亚（1929-2007）很难与传统和当代哲学联系起来。他的作品结合了哲学、社会理论和独特的文化形而上学，反思时代的重要事件和现象。作为对当代社会、文化和思想的尖锐批评家，鲍德里亚往往被视为法国后现代理论的重要导师，尽管他也可以被看作是一位以独特而挑衅的方式结合社会和文化批评的思想家，以及一位发展了自己的写作风格和形式的作家。他是一位极其多产的作家，已经出版了五十多本书，并评论了当代时代最显著的文化和社会现象，包括在新的后现代消费、媒体和高科技社会中消除了性别、种族和阶级的区别；艺术和美学的变异角色；政治、文化和人类的根本变化；以及新媒体、信息和控制论技术在创造一种质变的社会秩序中的影响，提供了人类和社会生活的根本变异。
 
@@ -29,9 +29,9 @@ _首次发表于 2005 年 4 月 22 日；实质性修订于 2019 年 12 月 18 �
 
 在 1960 年代末，鲍德里亚出版了一系列最终使他成为世界闻名的书籍。受勒菲弗、巴特和一系列法国思想家的影响，鲍德里亚在 1960 年代在社会理论、符号学和精神分析领域进行了认真的研究，并在 1968 年出版了他的第一本书《物体系统》（1996 年），随后是一本关于《消费社会》的书（1970 年）（1998 年），以及《对政治经济学的批判》（1972 年）（1981 年）\[[2](https://plato.stanford.edu/entries/baudrillard/notes.html#note-2)]。这些早期出版物是在批判性社会学的框架内的尝试，将勒菲弗（1971 年和 1991 年\[1947 年]）发起的日常生活研究与社会符号学相结合。这个项目受到巴特（1967 年\[1964 年]、1972 年\[1958 年]和 1983 年\[1967 年]）的影响，重点研究消费社会中的物体系统（他的前两本书的重点），以及政治经济学和符号学之间的界面（他的第三本书的核心）\[[3](https://plato.stanford.edu/entries/baudrillard/notes.html#note-3)]。鲍德里亚的早期工作是最早将符号学应用于分析物体如何被编码为构成当代媒体和消费社会的符号和意义系统的研究之一。鲍德里亚将符号学研究、马克思主义政治经济学和消费社会社会学相结合，开始了他终身探索构成我们日常生活的物体和符号系统的任务。
 
-早期的让·鲍德里亚描述了日常生活中物体所投入的意义（例如，通过驾驶汽车与之身份认同所积累的权力）以及将物体组织成新的现代社会的结构系统（例如，新型跑车的声望或_符号价值_）。在他的前三本书中，鲍德里亚认为，政治经济学的古典马克思主义批判需要补充符号学理论，这些理论将符号所指示的多样化意义组织成语言，并形成有意义的系统。鲍德里亚继续巴特和其他人的观点，认为时尚、体育、媒体和其他符号化方式产生了由特定规则、代码和逻辑组成的意义系统（鲍德里亚有时将这些术语用于互换，下面将更详细地阐述）。
+早期的让·鲍德里亚描述了日常生活中物体所投入的意义（例如，通过驾驶汽车与之身份认同所积累的权力）以及将物体组织成新的现代社会的结构系统（例如，新型跑车的声望或*符号价值*）。在他的前三本书中，鲍德里亚认为，政治经济学的古典马克思主义批判需要补充符号学理论，这些理论将符号所指示的多样化意义组织成语言，并形成有意义的系统。鲍德里亚继续巴特和其他人的观点，认为时尚、体育、媒体和其他符号化方式产生了由特定规则、代码和逻辑组成的意义系统（鲍德里亚有时将这些术语用于互换，下面将更详细地阐述）。
 
-鲍德里亚将他对符号、语言和日常生活的分析置于历史框架中，认为从竞争性市场资本主义的早期阶段过渡到垄断资本主义阶段需要更加关注需求管理，以增加和引导消费。在这个历史阶段，从大约 1920 年到 1960 年代，加强需求的需要补充了降低生产成本和扩大生产的关注。在这个资本主义发展时代，经济集中、新的生产技术和新技术的发展加速了大规模生产的能力，资本主义公司更加关注管理消费和创造对新的显赫商品的需求，从而产生了鲍德里亚所称的_符号价值_的制度。
+鲍德里亚将他对符号、语言和日常生活的分析置于历史框架中，认为从竞争性市场资本主义的早期阶段过渡到垄断资本主义阶段需要更加关注需求管理，以增加和引导消费。在这个历史阶段，从大约 1920 年到 1960 年代，加强需求的需要补充了降低生产成本和扩大生产的关注。在这个资本主义发展时代，经济集中、新的生产技术和新技术的发展加速了大规模生产的能力，资本主义公司更加关注管理消费和创造对新的显赫商品的需求，从而产生了鲍德里亚所称的*符号价值*的制度。
 
 根据鲍德里亚的分析，广告、包装、展示、时尚、"解放"性别、大众媒体和文化以及商品的泛滥增加了符号和景观的数量，并产生了符号价值的泛滥。因此，鲍德里亚声称，商品不仅仅应该以使用价值和交换价值来描述，如马克思的商品理论所述，而是符号价值——风格、声望、奢侈、权力等的表达和标志——成为商品和消费的越来越重要的一部分（参见戈德曼和帕普森 1996 年）。
 
@@ -47,7 +47,7 @@ _首次发表于 2005 年 4 月 22 日；实质性修订于 2019 年 12 月 18 �
 
 鲍德里亚也没有发展出阶级或群体反抗的理论，也没有任何关于政治组织、斗争或策略的理论，这在 20 世纪 60 年代后的法国很常见。然而，鲍德里亚在这里的工作与法兰克福学派的工作特别接近，尤其是赫伯特·马库塞的工作，他已经对消费社会进行了一些最早的马克思主义批判（参见凯尔纳 1984 年和 1989b 年）。像卢卡奇（1971 年）和法兰克福学派一样，鲍德里亚分析了商品和商品化如何渗透社会生活，并主导个体的思想和行为。按照批判性马克思主义的总体思路，鲍德里亚认为社会同质化、异化和剥削的过程构成了商品、技术和事物（即“对象”）在支配人们（“主体”）的同时剥夺了他们的人类品质和能力的过程。
 
-对于卢卡奇、法兰克福学派和让·鲍德里亚来说，_再物化_——人类被物质所统治，自身也变得更像物质——成为社会生活的统治方式。劳动条件强加了对人类生活的支配和标准化，同时剥削工人并使他们远离自由和自主的生活。在媒体和消费社会中，文化和消费也变得同质化，剥夺了个体培养个性和自主性的可能性。
+对于卢卡奇、法兰克福学派和让·鲍德里亚来说，*再物化*——人类被物质所统治，自身也变得更像物质——成为社会生活的统治方式。劳动条件强加了对人类生活的支配和标准化，同时剥削工人并使他们远离自由和自主的生活。在媒体和消费社会中，文化和消费也变得同质化，剥夺了个体培养个性和自主性的可能性。
 
 从某种意义上讲，让·鲍德里亚的作品可以被看作是对再物化和社会统治的进一步阶段的描述，而不仅仅是法兰克福学派所描述的个体受统治机构和思维方式控制的阶段。让·鲍德里亚通过应用符号学理论来描述商品、媒体和技术如何提供一个充满幻觉和幻想的宇宙，使个体被消费价值观、媒体意识形态和角色模型以及计算机等诱人的技术所压倒。最终，他将他对符号统治和物体系统的分析推向了更加悲观的结论，他认为法兰克福学派所描绘的“个体的终结”主题已经在人类主体性被物体世界彻底击败的过程中实现（见[第 3 节](https://plato.stanford.edu/entries/baudrillard/#PataMetaTriuObje)）。
 
@@ -95,7 +95,7 @@ _首次发表于 2005 年 4 月 22 日；实质性修订于 2019 年 12 月 18 �
 
 鲍德里亚的后现代世界也是一个先前重要的界限和区别（如社会阶级、性别、政治倾向和曾经自治的社会和文化领域）失去权力的世界。对于古典社会理论来说，现代社会的特征是差异化，而对于鲍德里亚来说，后现代社会的特征是去差异化，即（权力的）区别的“崩溃”或“内爆”。在他的模拟社会中，经济、政治、文化、性别和社会的领域相互融合。在这种内爆的混合中，经济基本上受到文化、政治和其他领域的塑造，而艺术，曾经是潜在差异和对立的领域，被吸收到经济和政治中，而性别则无处不在。在这种情况下，个体和群体之间的差异在社会和先前社会理论关注的边界和结构的迅速变异或变化中内爆。
 
-此外，他的后现代宇宙是一个_超现实_的世界，在这个世界中，娱乐、信息和通信技术提供的体验比平凡的日常生活更加强烈和引人入胜，以及构建日常生活的代码和模式。超现实的领域（例如媒体对现实的模拟、迪士尼乐园和游乐场、购物中心和消费幻想乐园、电视体育、虚拟现实游戏、社交网络网站和其他进入理想世界的冒险）比真实更真实，超现实的模型、图像和代码开始控制思想和行为。然而，在一个非线性世界中，决定本身是随机的，在这种情况下，个体面对着压倒性的图像、代码和模式的流动，不可能绘制因果机制。
+此外，他的后现代宇宙是一个*超现实*的世界，在这个世界中，娱乐、信息和通信技术提供的体验比平凡的日常生活更加强烈和引人入胜，以及构建日常生活的代码和模式。超现实的领域（例如媒体对现实的模拟、迪士尼乐园和游乐场、购物中心和消费幻想乐园、电视体育、虚拟现实游戏、社交网络网站和其他进入理想世界的冒险）比真实更真实，超现实的模型、图像和代码开始控制思想和行为。然而，在一个非线性世界中，决定本身是随机的，在这种情况下，个体面对着压倒性的图像、代码和模式的流动，不可能绘制因果机制。
 
 在这个后现代世界中，个体逃离“真实的沙漠”，追求超现实和计算机、媒体和技术体验的狂喜。在这个宇宙中，主体性被分裂和迷失，出现了一种新的体验领域，对于鲍德里亚来说，这使得以前的社会理论和政治变得过时和无关紧要。追踪当代社会中主体的变迁，鲍德里亚声称，当代主体不再受到类似歇斯底里或偏执狂的现代病理的困扰。相反，他们存在于“一种恐怖状态，这是精神分裂症的特征，一切事物的过于接近，一切事物的肮脏混杂围攻并渗透他，没有任何抵抗，没有光环，没有氛围，甚至没有他自己身体的光环保护他。尽管他自己，精神分裂症患者对一切都敞开心扉，生活在最极端的混乱中”（1988 年：27）。对于鲍德里亚来说，“沟通的狂喜”意味着主体与即时图像和信息密切接触，处于一个过度暴露和透明的世界中。在这种情况下，主体“成为一个纯粹的屏幕，一个纯粹的吸收和再吸收的网络输入表面”（1988 年：27）。换句话说，在后现代世界中，个体只是受到媒体、技术体验和超现实影响的实体。
 
@@ -225,68 +225,68 @@ _首次发表于 2005 年 4 月 22 日；实质性修订于 2019 年 12 月 18 �
 
 Major Theoretical Works by Baudrillard:
 
-* 1968 \[1996c], _The System of Objects_, London: Verso.
-* 1970 \[1998], _The Consumer Society_, Paris: Gallimard.
-* 1973 \[1975], _The Mirror of Production_, St. Louis: Telos Press.
-* 1973 \[1981], _For a Critique of the Political Economy of the Sign_, St. Louis: Telos Press.
-* 1983a, _Simulations_, New York: Semiotext(e).
-* 1983b, _In the Shadow of the Silent Majorities_, New York: Semiotext(e).
-* 1983c, “The Ecstacy of Communication,” in _The Anti-Aesthetic_, Hal Foster (ed.), Washington: Bay Press.
-* 1987, “When Bataille Attacked the Metaphysical Principle of Economy,” D.J. Miller (trans.), _Canadian Journal of Political and Social Theory_, 11: 57–62.
-* 1988, _America_, London: Verso.
-* 1990a, _Cool Memories_, London: Verso.
-* 1990b, _Fatal Strategies_, New York: Semiotext(e).
-* 1993a, _Symbolic Exchange and Death_, London: Sage.
-* 1993b, _The Transparency of Evil_, London: Verso.
-* 1994a, _Simulacra and Simulation_, Ann Arbor: The University of Michigan Press.
-* 1994b, _The Illusion of the End_, Oxford: Polity Press.
-* 1995, _The Gulf War Did Not Take Place_, P. Patton (trans.), Sydney: Power Publications, and Bloomington: Indiana University Press.
-* 1996a, _Cool Memories II_, Oxford: Polity Press.
-* 1996b, _The Perfect Crime_, London and New York: Verso Books.
-* 1997, _Fragments: Cool Memories III, 1990–1995_, London and New York: Verso Books.
-* 2000, _The Vital Illusion_, New York: Columbia University Press.
-* 2001, _Impossible Exchange_, London: Verso.
-* 2002a, _The Spirit of Terrorism: And Requiem for the Twin Towers_, London: Verso.
-* 2002b, _Screened Out_, London: Verso.
-* 2005a, _The Intelligence of Evil or the Lucicity Pact_. London: Verson.
-* 2005b, _The Conspiracy of Art_. New York: Semiotext(e).
-* 2006a, _Utopia Deferred. Writing from Utopie (1967–1978)_. New York: Semiotext(e).
-* 2006b, “The Pyres of Autumn”, _New Left Review_ II (37), Jan/Feb. \[[Baudrillard 2006b available online](http://newleftreview.org/II/37/jean-baudrillard-the-pyres-of-autumn)].
+* 1968 \[1996c], *The System of Objects*, London: Verso.
+* 1970 \[1998], *The Consumer Society*, Paris: Gallimard.
+* 1973 \[1975], *The Mirror of Production*, St. Louis: Telos Press.
+* 1973 \[1981], *For a Critique of the Political Economy of the Sign*, St. Louis: Telos Press.
+* 1983a, *Simulations*, New York: Semiotext(e).
+* 1983b, *In the Shadow of the Silent Majorities*, New York: Semiotext(e).
+* 1983c, “The Ecstacy of Communication,” in *The Anti-Aesthetic*, Hal Foster (ed.), Washington: Bay Press.
+* 1987, “When Bataille Attacked the Metaphysical Principle of Economy,” D.J. Miller (trans.), *Canadian Journal of Political and Social Theory*, 11: 57–62.
+* 1988, *America*, London: Verso.
+* 1990a, *Cool Memories*, London: Verso.
+* 1990b, *Fatal Strategies*, New York: Semiotext(e).
+* 1993a, *Symbolic Exchange and Death*, London: Sage.
+* 1993b, *The Transparency of Evil*, London: Verso.
+* 1994a, *Simulacra and Simulation*, Ann Arbor: The University of Michigan Press.
+* 1994b, *The Illusion of the End*, Oxford: Polity Press.
+* 1995, *The Gulf War Did Not Take Place*, P. Patton (trans.), Sydney: Power Publications, and Bloomington: Indiana University Press.
+* 1996a, *Cool Memories II*, Oxford: Polity Press.
+* 1996b, *The Perfect Crime*, London and New York: Verso Books.
+* 1997, *Fragments: Cool Memories III, 1990–1995*, London and New York: Verso Books.
+* 2000, *The Vital Illusion*, New York: Columbia University Press.
+* 2001, *Impossible Exchange*, London: Verso.
+* 2002a, *The Spirit of Terrorism: And Requiem for the Twin Towers*, London: Verso.
+* 2002b, *Screened Out*, London: Verso.
+* 2005a, *The Intelligence of Evil or the Lucicity Pact*. London: Verson.
+* 2005b, *The Conspiracy of Art*. New York: Semiotext(e).
+* 2006a, *Utopia Deferred. Writing from Utopie (1967–1978)*. New York: Semiotext(e).
+* 2006b, “The Pyres of Autumn”, *New Left Review* II (37), Jan/Feb. \[[Baudrillard 2006b available online](http://newleftreview.org/II/37/jean-baudrillard-the-pyres-of-autumn)].
 * 2010, The Agony of Power. Semiotext(e) Intervention Series. Vol. 6. Cambridge, MA: Semiotext(e).
-* 2015, _Jean Baudrillard: From Hyperreality to Disappearance: Uncollected Interviews_, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
-* 2017, _Jean Baudrillard: The Disappearance of Culture: Uncollected Interviews_, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
+* 2015, *Jean Baudrillard: From Hyperreality to Disappearance: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
+* 2017, *Jean Baudrillard: The Disappearance of Culture: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
 
 ## Secondary Literature
 
-* Best, Steven, and Kellner, Douglas, 1991, _Postmodern Theory: Critical Interrogations_, London and New York: MacMillan and Guilford Press.
-* –––, 1997, _The Postmodern Turn_, New York: Guilford Press.
-* –––, 2001, _The Postmodern Adventure_, New York: Guilford Press.
-* Bishop, Ryan (ed.), 2009, _Baudrillard Now: Current Perspectives in Baudrillard Studies_. Cambridge, UK: Polity Press.
-* Butler, Rex, 1999, _Jean Baudrillard: The Defense of the Real_, London and Thousand Oaks: Sage.
-* Clarke, D.B., Doel, M.A., Merrin, William, and Smith, R.G. (eds), 2009, _Jean Baudrillard. Fatal Theories_. London and New York: Routledge.
-* Debord, Guy, 1970, _The Society of the Spectacle_, Detroit: Black and Red.
-* Frankovits, Alan, 1984, editor _Seduced and Abandoned: The Baudrillard Scene_, Glebe, New South Wales: Stonemoss.
-* Gane, Mike, 1991, _Baudrillard. Critical and Fatal Theory_, London: Routledge.
-* –––, 2000, _Jean Baudrillard: In Radical Uncertainty_. London: Pluto Press.
-* ––– (ed.), 1993, _Baudrillard Live. Selected Interviews_, London: Routledge.
-* Genosko, Gary, 1994, _Baudrillard and Signs_, London: Routledge.
-* Grace, V., 2000, _Baudrillard’s Challenge: A Feminist Reading_, London: Routledge.
-* Jarry, Alfred, 1963, “What is Pataphysics?,” _Evergreen Review_, 13: 131–151.
-* –––, 1969, _The Ubu Plays_, New York: Grove press.
-* Kellner, Douglas, 1989a, _Jean Baudrillard: From Marxism to Postmodernism and Beyond_, Cambridge and Palo Alto: Polity Press and Stanford University Press.
-* –––, 1989b, _Critical Theory, Marxism, and Modernity_, Cambridge, UK and Baltimore, MD: Polity Press and John Hopkins University Press, 1989.
-* ––– (ed.), 1994, _Jean Baudrillard. A Critical Reader_, Oxford: Basil Blackwell.
-* –––, 1995, _Media Culture. Cultural Studies, Identity and Politics Between the Modern and the Postmodern_, London and New York: Routledge.
-* –––, 2003a, _Media Spectacle_, London and New York: Routledge.
-* –––, 2003b, _From September 11 to Terror War: The Dangers of the Bush Legacy_, Lanham, Md.: Rowman and Littlefield.
-* Lefebvre, Henri, 1971 \[1968], _Everyday Life in the Modern World_, New Brunswick: Transaction Books.
-* –––, 1991 \[1947; 1958], _Critique of Everyday Life_, London: Verso.
-* Norris, Christopher, 1998 _Uncritical Theory: Postmodernism, Intellectuals and the Gulf War._ Amhearst: Univ of Massachusetts Press.
-* Rokek, Chris and Bryan Turner, 1993, editors _Forget Baudrillard_, London: Routledge.
-* Smith, Jonathan, 2004, “The Gnostic Baudrillard: A Philosophy of Terrorism Seeking Pure Appearance,” in _International Journal of Baudrillard Studies_, Volume 1/No. 1 (January).
-* Sokal, A. and J. Bricmont, 1998, “Jean Baudrillard” in _Fashionable Nonsense: Postmodern Intellectuals’ Abuse of Science_, New York: Picador, pp. 147–153.
-* Stearns, William and William Chaloupka (eds.), 1992, _The Disappearence of Art and Politics_, New York and London: Saint Martins and Macmillan Press.
-* Woodward, Ashley, 2009, _Nihilism in postmodernity: Lyotard, Baudrillard, Vattimo_, Aurora, Colo,: Davies Group, Publishers.
+* Best, Steven, and Kellner, Douglas, 1991, *Postmodern Theory: Critical Interrogations*, London and New York: MacMillan and Guilford Press.
+* –––, 1997, *The Postmodern Turn*, New York: Guilford Press.
+* –––, 2001, *The Postmodern Adventure*, New York: Guilford Press.
+* Bishop, Ryan (ed.), 2009, *Baudrillard Now: Current Perspectives in Baudrillard Studies*. Cambridge, UK: Polity Press.
+* Butler, Rex, 1999, *Jean Baudrillard: The Defense of the Real*, London and Thousand Oaks: Sage.
+* Clarke, D.B., Doel, M.A., Merrin, William, and Smith, R.G. (eds), 2009, *Jean Baudrillard. Fatal Theories*. London and New York: Routledge.
+* Debord, Guy, 1970, *The Society of the Spectacle*, Detroit: Black and Red.
+* Frankovits, Alan, 1984, editor *Seduced and Abandoned: The Baudrillard Scene*, Glebe, New South Wales: Stonemoss.
+* Gane, Mike, 1991, *Baudrillard. Critical and Fatal Theory*, London: Routledge.
+* –––, 2000, *Jean Baudrillard: In Radical Uncertainty*. London: Pluto Press.
+* ––– (ed.), 1993, *Baudrillard Live. Selected Interviews*, London: Routledge.
+* Genosko, Gary, 1994, *Baudrillard and Signs*, London: Routledge.
+* Grace, V., 2000, *Baudrillard’s Challenge: A Feminist Reading*, London: Routledge.
+* Jarry, Alfred, 1963, “What is Pataphysics?,” *Evergreen Review*, 13: 131–151.
+* –––, 1969, *The Ubu Plays*, New York: Grove press.
+* Kellner, Douglas, 1989a, *Jean Baudrillard: From Marxism to Postmodernism and Beyond*, Cambridge and Palo Alto: Polity Press and Stanford University Press.
+* –––, 1989b, *Critical Theory, Marxism, and Modernity*, Cambridge, UK and Baltimore, MD: Polity Press and John Hopkins University Press, 1989.
+* ––– (ed.), 1994, *Jean Baudrillard. A Critical Reader*, Oxford: Basil Blackwell.
+* –––, 1995, *Media Culture. Cultural Studies, Identity and Politics Between the Modern and the Postmodern*, London and New York: Routledge.
+* –––, 2003a, *Media Spectacle*, London and New York: Routledge.
+* –––, 2003b, *From September 11 to Terror War: The Dangers of the Bush Legacy*, Lanham, Md.: Rowman and Littlefield.
+* Lefebvre, Henri, 1971 \[1968], *Everyday Life in the Modern World*, New Brunswick: Transaction Books.
+* –––, 1991 \[1947; 1958], *Critique of Everyday Life*, London: Verso.
+* Norris, Christopher, 1998 *Uncritical Theory: Postmodernism, Intellectuals and the Gulf War.* Amhearst: Univ of Massachusetts Press.
+* Rokek, Chris and Bryan Turner, 1993, editors *Forget Baudrillard*, London: Routledge.
+* Smith, Jonathan, 2004, “The Gnostic Baudrillard: A Philosophy of Terrorism Seeking Pure Appearance,” in *International Journal of Baudrillard Studies*, Volume 1/No. 1 (January).
+* Sokal, A. and J. Bricmont, 1998, “Jean Baudrillard” in *Fashionable Nonsense: Postmodern Intellectuals’ Abuse of Science*, New York: Picador, pp. 147–153.
+* Stearns, William and William Chaloupka (eds.), 1992, *The Disappearence of Art and Politics*, New York and London: Saint Martins and Macmillan Press.
+* Woodward, Ashley, 2009, *Nihilism in postmodernity: Lyotard, Baudrillard, Vattimo*, Aurora, Colo,: Davies Group, Publishers.
 
 ## Academic Tools
 
@@ -299,9 +299,9 @@ Major Theoretical Works by Baudrillard:
 ## Other Internet Resources
 
 * [International Journal of Baudrillard Studies](https://baudrillardstudies.ubishops.ca/), hosted at Bishop’s University.
-* Baudrillard, J., 2003, “[The Matrix Decoded: _Le Nouvel Observateur_ Interview with Jean Baudrillard,](https://baudrillardstudies.ubishops.ca/the-matrix-decoded-le-nouvel-observateur-interview-with-jean-baudrillard/)” translated by Gary Genosko.
-* Baudrillard, J., 2004, “[This is the Fourth World War: The _Der Spiegel_ Interview with Jean Baudrillard,](https://baudrillardstudies.ubishops.ca/this-is-the-fourth-world-war-the-der-spiegel-interview-with-jean-baudrillard/)” translated by Samir Gandesha, in _International Journal of Baudrillard Studies_, Volume 1/No. 1 (January).
-* Goldblatt, M., 2001, [America _wanted_ Sept. 11.](http://www.nationalreview.com/article/220366/french-toast-mark-goldblatt), French Toast column, _National Review Online_, (December 13, 2001).
+* Baudrillard, J., 2003, “[The Matrix Decoded: *Le Nouvel Observateur* Interview with Jean Baudrillard,](https://baudrillardstudies.ubishops.ca/the-matrix-decoded-le-nouvel-observateur-interview-with-jean-baudrillard/)” translated by Gary Genosko.
+* Baudrillard, J., 2004, “[This is the Fourth World War: The *Der Spiegel* Interview with Jean Baudrillard,](https://baudrillardstudies.ubishops.ca/this-is-the-fourth-world-war-the-der-spiegel-interview-with-jean-baudrillard/)” translated by Samir Gandesha, in *International Journal of Baudrillard Studies*, Volume 1/No. 1 (January).
+* Goldblatt, M., 2001, [America *wanted* Sept. 11.](http://www.nationalreview.com/article/220366/french-toast-mark-goldblatt), French Toast column, *National Review Online*, (December 13, 2001).
 * Kellner, Douglas, 2005, “[Baudrillard, Globalization and Terrorism: Some Comments on Recent Adventures of the Image and Spectacle on the Occasion of Baudrillard’s 75th Birthday,](https://baudrillardstudies.ubishops.ca/baudrillard-globalization-and-terrorism-some-comments-on-recent-adventures-of-the-image-and-spectacle-on-the-occasion-of-baudrillards-75th-birthday/)” International Journal of Baudrillard Studies, Volume 2, Number 1.
 * [Jean Baudrillard Bibliography](https://egs.edu/faculty/jean-baudrillard/bibliography), maintained at the European Graduate School.
 * [Postmodern Theory](https://pages.gseis.ucla.edu/faculty/kellner/pomo/index.html), maintained by Douglas Kellner (UCLA).
@@ -316,4 +316,4 @@ Major Theoretical Works by Baudrillard:
 For critical commentary that helped with the revision of this entry, I am grateful to Edward N. Zalta and Uri Nodelman.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Douglas Kellner](https://pages.gseis.ucla.edu/faculty/kellner/) <[_kellner@ucla.edu_](mailto:kellner%40ucla%2eedu)>
+[Douglas Kellner](https://pages.gseis.ucla.edu/faculty/kellner/) <[*kellner@ucla.edu*](mailto:kellner%40ucla%2eedu)>

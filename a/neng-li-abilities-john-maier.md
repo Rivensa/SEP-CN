@@ -1,8 +1,8 @@
 # 能力 abilities (John Maier)
 
-_首次发表于 2010 年 1 月 26 日；实质性修订于 2020 年 10 月 8 日_
+*首次发表于 2010 年 1 月 26 日；实质性修订于 2020 年 10 月 8 日*
 
-在我们相互描述的账目中，关于我们的_能力_的主张似乎是不可或缺的。有些能力是如此普遍，以至于许多拥有这些能力的人认为它们理所当然，比如行走的能力，或者写下自己的名字的能力，或者区分鹰和锯子的能力。其他一些能力相对罕见且显著，比如击中大联盟的快球的能力，或者创作交响乐的能力，或者区分榆树和山毛榉的能力。然而，无论哪种情况，当我们将这些能力归因于彼此时，我们有一种印象，即我们正在提出一些主张，无论它们是否值得说出来，至少有时是真实的。真实的印象对于提出能力的哲学理论施加了压力。至少在开始阶段，将我们所有关于能力的谈论都视为虚构或彻头彻尾的谎言并不是一个选择。一个关于能力的理论可以合理地期望以一种能够证明真实性的方式来阐述拥有能力的含义。这样的理论将因为不仅仅涉及某个特定范围的能力，而是涉及能力的普遍性而被称为“哲学的”。
+在我们相互描述的账目中，关于我们的*能力*的主张似乎是不可或缺的。有些能力是如此普遍，以至于许多拥有这些能力的人认为它们理所当然，比如行走的能力，或者写下自己的名字的能力，或者区分鹰和锯子的能力。其他一些能力相对罕见且显著，比如击中大联盟的快球的能力，或者创作交响乐的能力，或者区分榆树和山毛榉的能力。然而，无论哪种情况，当我们将这些能力归因于彼此时，我们有一种印象，即我们正在提出一些主张，无论它们是否值得说出来，至少有时是真实的。真实的印象对于提出能力的哲学理论施加了压力。至少在开始阶段，将我们所有关于能力的谈论都视为虚构或彻头彻尾的谎言并不是一个选择。一个关于能力的理论可以合理地期望以一种能够证明真实性的方式来阐述拥有能力的含义。这样的理论将因为不仅仅涉及某个特定范围的能力，而是涉及能力的普遍性而被称为“哲学的”。
 
 这篇文章分为三个部分。第一部分，第 1 和第 2 节，提出了讨论能力的哲学理论的框架。第 1 节将更多地介绍能力与代理人和对象的其他能力之间的区别。第 2 节将提出一些有助于构建任何能力理论的形式上的区别。第二部分，第 3 至 5 节，概述了在哲学文献中被辩护的能力理论。第 3 节涉及最突出的理论类型，即能力应该通过假设将代理人的行动与其意愿联系起来来理解。第 4 节涉及那些不以这种方式假设的理论，但仍然保留假设理论的基本还原取向。第 5 节然后讨论了近期文献中提出的各种替代性能力理论。第三部分，第 6 节，转向能力理论与自由意志争论之间的关系。这类争论通常涉及对代理人能力的主张，许多人希望对能力本身有更清晰的认识可以解决或至少能够阐明这类争论。本节的目的将是评估这些希望是否合理。
 
@@ -41,7 +41,7 @@ _首次发表于 2010 年 1 月 26 日；实质性修订于 2020 年 10 月 8 �
 
 首先考虑一个与能力相关但名义上有所区别的话题将会有所帮助：倾向性。
 
-能力是那些由“易碎”或“可溶解”等谓词所指出的属性，或者由“_x_在被打击时容易破碎”或“_x_在放入水中时容易溶解”这样的句子所指出的属性。对于这样理解的能力，在上个世纪的形而上学和科学哲学（Carnap 1936 和 1937，Goodman 1954）以及有影响力的心灵论述（Ryle 1949）中起着核心作用。在许多重要方面，它们与能力相似，特别是它们是事物的属性，即使没有表现出来也可以存在：就像一个玻璃即使没有破碎也可能是易碎的，一个人即使没有举起手臂也可能有举起手臂的能力。
+能力是那些由“易碎”或“可溶解”等谓词所指出的属性，或者由“*x*在被打击时容易破碎”或“*x*在放入水中时容易溶解”这样的句子所指出的属性。对于这样理解的能力，在上个世纪的形而上学和科学哲学（Carnap 1936 和 1937，Goodman 1954）以及有影响力的心灵论述（Ryle 1949）中起着核心作用。在许多重要方面，它们与能力相似，特别是它们是事物的属性，即使没有表现出来也可以存在：就像一个玻璃即使没有破碎也可能是易碎的，一个人即使没有举起手臂也可能有举起手臂的能力。
 
 虽然能力一直是当代哲学讨论的核心问题，但它们并不能穷尽事物内在可能性的范围。对于目前的目的而言，特别值得注意的是与代理有密切关联的那些可能性。这些包括事物在某种方式下受到影响的易感性，比如苹果的可食性或小径的可行走性，这是心理学家 J.J.吉布森所称的“可供性”（Gibson, 1979）。这还包括我们归因于事物的行动能力，正如托马斯·里德所观察到的那种能力：“因此，我们说，风吹，海涌，太阳升起和落下，物体受到引力和运动”（Reid 1788/2010, 16；里德本人将这些说法视为“误用”主动动词，基于对能力基础的错误观点）。最后，关键的是，这些还包括代理人自身的能力。
 
@@ -51,7 +51,7 @@ _首次发表于 2010 年 1 月 26 日；实质性修订于 2020 年 10 月 8 �
 
 ### 1.2 确定能力的界限
 
-因此，能力是一种能力。究竟是什么样的能力？根据这里的理解，能力必须满足两个附加条件才能成为能力。首先，能力通过它们的主体来区分。能力是代理人的属性，而不是非代理人的属性。物体具有性情和可供性-例如，当打击时玻璃会破裂，或者可以用来喝液体-但它们没有能力。然而，作为代理人的能力并不足以成为能力的充分条件。这是因为代理人具有不是能力的能力。因此，第二，能力需要通过它们的对象来区分：能力将代理人与_行动_联系起来。
+因此，能力是一种能力。究竟是什么样的能力？根据这里的理解，能力必须满足两个附加条件才能成为能力。首先，能力通过它们的主体来区分。能力是代理人的属性，而不是非代理人的属性。物体具有性情和可供性-例如，当打击时玻璃会破裂，或者可以用来喝液体-但它们没有能力。然而，作为代理人的能力并不足以成为能力的充分条件。这是因为代理人具有不是能力的能力。因此，第二，能力需要通过它们的对象来区分：能力将代理人与*行动*联系起来。
 
 一些例子可以使这第二个条件的需要变得清晰。有些能力，虽然是代理人的属性，但直观上并不涉及任何与行动的关系。考虑理解语言的能力。理解一个句子，虽然它不完全是被动的或非理性的，但通常不被视为一种行动。相比之下，说出一个句子是一种行动。因此，理解法语的能力不会是一种能力，根据目前的分类。相比之下，说法语的能力将是一种能力，因为它涉及与行动的关系。（见范·因瓦根 1983 年，8-13 页。）
 
@@ -87,11 +87,11 @@ Stanley 和 Williamson 的论点远未被广泛接受（参见 Noë 2005），�
 
 第二个原因更加符合哲学的要求。如果我们接受一般能力和具体能力之间的区别，那么我们希望我们对能力的解释能够同时包容它们，并最终解释它们之间的关系。因为这种区别不可能仅仅被诊断为模糊不清；它更像是划分了一种单一类型力量的两种模式。在这里，我们可以提出至少两种建议。一种（可以认为是许多“新倾向性主义”方法中隐含的）是一般能力在某种意义上优先于具体能力：拥有具体能力只是拥有一般能力并满足一些进一步的限制，比如有机会。另一种建议（在 Maier 2015 中提出）是具体能力在某种意义上优先于一般能力：拥有一般能力只是在一定范围的情况下拥有具体能力。
 
-在关于能力的当代研究中，存在一种二分的区别的观念已经成为一个突出的主题。它在不同的背景下被 Glick（2012）、Vihvelin（2013）和 Whittle（2010）所认可和发展。一个悬而未决的问题是，这些作者引入的能力的二分区别是否彼此相同，或者与此处引入的区别相同。可能存在着在这个领域中需要进行_多个_二分区别的情况，或者我们只是在用几个不同的名称来表示同一个区别。
+在关于能力的当代研究中，存在一种二分的区别的观念已经成为一个突出的主题。它在不同的背景下被 Glick（2012）、Vihvelin（2013）和 Whittle（2010）所认可和发展。一个悬而未决的问题是，这些作者引入的能力的二分区别是否彼此相同，或者与此处引入的区别相同。可能存在着在这个领域中需要进行*多个*二分区别的情况，或者我们只是在用几个不同的名称来表示同一个区别。
 
 ### 2.2 能力和能力归属
 
-在形式上，而非实质上，关于能力的哲学讨论很多。因此，我们经常被要求区分“能力”的不同_意义_，或者思考“能够”是什么意思。在讨论能力和讨论能力归属之间进行微妙的转变通常是无害的。尽管如此，重要的是要记住这些问题之间的区别，并在开始时明确标明这种区别。
+在形式上，而非实质上，关于能力的哲学讨论很多。因此，我们经常被要求区分“能力”的不同*意义*，或者思考“能够”是什么意思。在讨论能力和讨论能力归属之间进行微妙的转变通常是无害的。尽管如此，重要的是要记住这些问题之间的区别，并在开始时明确标明这种区别。
 
 一方面，有关能力本身的问题。在这里，中心问题是对能力的定义进行解释，就像在开始时强调的那样。在这里，还有一些次要问题，例如能力是否可以存在于未被运用时，能力是否是其承载者内在或外在的特征，以及在确定性世界中代理人是否具有能力。总的来说，这些是关于能力的形而上学问题。
 
@@ -113,15 +113,15 @@ Stanley 和 Williamson 的论点远未被广泛接受（参见 Noë 2005），�
 
 最突出的假设性能力理论是被称为“条件分析”的理论。在本节中，我们将调查这种分析形式，以及对它的问题和旨在克服这些问题的替代方案。
 
-能力的条件分析至少有两个方面。首先，只有当某个条件成立时，_S_才具有能力去执行_A_。其次，这个条件具有以下形式：只有当_S_有某种意愿时，_S_才会去执行_A_。这样的分析将取决于我们如何解释这个条件，并且取决于前提中涉及的意愿。
+能力的条件分析至少有两个方面。首先，只有当某个条件成立时，*S*才具有能力去执行*A*。其次，这个条件具有以下形式：只有当*S*有某种意愿时，*S*才会去执行*A*。这样的分析将取决于我们如何解释这个条件，并且取决于前提中涉及的意愿。
 
-在文献中，当提出这个问题时，通常将这个条件理解为一种虚拟条件（Ginet 1980），我们将在接下来的讨论中假设这是条件分析的最佳形式。关于是使用“可能会”还是“将会”这样的条件，以及哪种意愿是相关的，存在一些争议（关于这种区别的解释，请参见 Lewis 1973，21-24），在接下来的讨论中，我们将假设相关的条件是一种“将会”条件，相关的意愿是“尝试”，尽管这些选择并不重要，提出的观点也适用于其他形式的条件分析，_适当的变动_。
+在文献中，当提出这个问题时，通常将这个条件理解为一种虚拟条件（Ginet 1980），我们将在接下来的讨论中假设这是条件分析的最佳形式。关于是使用“可能会”还是“将会”这样的条件，以及哪种意愿是相关的，存在一些争议（关于这种区别的解释，请参见 Lewis 1973，21-24），在接下来的讨论中，我们将假设相关的条件是一种“将会”条件，相关的意愿是“尝试”，尽管这些选择并不重要，提出的观点也适用于其他形式的条件分析，*适当的变动*。
 
 因此，我们得到了以下形式的条件分析：
 
-（CA）_S_具有能力_A_当且仅当_S_会在尝试_A_时具有能力_A_。
+（CA）*S*具有能力*A*当且仅当*S*会在尝试*A*时具有能力*A*。
 
-如果（CA）是真的，它将构成一种能力理论，因为它将在不涉及能力本身的情况下准确说明某个行动代理在什么条件下具有执行某个动作的能力。（请注意，有时会讨论的（CA）的变体是，_S_具有能力_A_当且仅当_S_在尝试_A_时_可能_具有能力_A_，但这不符合这个标准，因为“可能”似乎对_S_的能力提出了要求。因此，这样的观点实际上并不是一个条件_分析_。实际上，甚至不清楚它是否涉及真正的条件，原因在于奥斯汀（Austin）1970 年（211-213）中讨论过的原因。
+如果（CA）是真的，它将构成一种能力理论，因为它将在不涉及能力本身的情况下准确说明某个行动代理在什么条件下具有执行某个动作的能力。（请注意，有时会讨论的（CA）的变体是，*S*具有能力*A*当且仅当*S*在尝试*A*时*可能*具有能力*A*，但这不符合这个标准，因为“可能”似乎对*S*的能力提出了要求。因此，这样的观点实际上并不是一个条件*分析*。实际上，甚至不清楚它是否涉及真正的条件，原因在于奥斯汀（Austin）1970 年（211-213）中讨论过的原因。
 
 这样理解的条件分析受到了相当多的批评，将在下一节中进行回顾。然而，值得注意的是，它在第一次尝试时似乎是多么恰当的能力解释。它至少在第一次近似时满足外延约束：有许多行动，对于这些行动，典型的代理满足相关条件，也有许多行动，对于这些行动，她不满足条件，这大致对应于她的能力。这对那些希望拒绝（CA）的人提出了要求，即解释为什么，如果（CA）只是错误的，它如此接近关于能力的真相。
 
@@ -135,19 +135,19 @@ Stanley 和 Williamson 的论点远未被广泛接受（参见 Noë 2005），�
 
 （CA）认为满足某个条件是拥有某种能力的充分且必要条件。有两种反例可以针对（CA）提出：反例可以针对其充分性，也可以针对其必要性。我们依次来看看这两种情况。
 
-对于（CA）的充分性，反例在文献中最为突出。从非正式的角度来看，这些反例可以通过以下问题来提出：“但是_S_能试着去_A_吗？”有多种方式将这个修辞性问题转化为反例。我们可以区分两种情况：_全局_反例，即（CA）可能_总是_错误地判断能力的事实，以及_局部_反例，即（CA）可能_有时_错误地判断能力的事实。
+对于（CA）的充分性，反例在文献中最为突出。从非正式的角度来看，这些反例可以通过以下问题来提出：“但是*S*能试着去*A*吗？”有多种方式将这个修辞性问题转化为反例。我们可以区分两种情况：*全局*反例，即（CA）可能*总是*错误地判断能力的事实，以及*局部*反例，即（CA）可能*有时*错误地判断能力的事实。
 
-从全球反例开始。让我们假设在我们的世界中，_决定论_是真实的。熟悉的论证声称，如果这是真的，那么除了她实际做的事情之外，没有人有能力做任何事情（有关这种论证的几个发展，请参见范·因瓦根 1983 年，55-105 页）。但是，如果（CA）是真的，那么代理人将有能力执行他们实际上没有执行的各种行动。因为在一个决定论的世界中，用（CA）分析能力的条件语句仍然是真实的，这是合理的。但是，由于它对这样一个我们所知道的可能是我们自己的世界做出了错误的预测，（CA）是错误的。
+从全球反例开始。让我们假设在我们的世界中，*决定论*是真实的。熟悉的论证声称，如果这是真的，那么除了她实际做的事情之外，没有人有能力做任何事情（有关这种论证的几个发展，请参见范·因瓦根 1983 年，55-105 页）。但是，如果（CA）是真的，那么代理人将有能力执行他们实际上没有执行的各种行动。因为在一个决定论的世界中，用（CA）分析能力的条件语句仍然是真实的，这是合理的。但是，由于它对这样一个我们所知道的可能是我们自己的世界做出了错误的预测，（CA）是错误的。
 
-这种反例所涉及的困难是明显的。支持者（CA）将拒绝能力和决定论不相容的论证是不可靠的。事实上，正是她认为这些论证是不可靠的，通常导致她将能力解析为类似（CA）的方式。因此，全球反例虽然可能成功，但在关于能力的辩论中，相对于问题的范围来说是_辩证无效_的。
+这种反例所涉及的困难是明显的。支持者（CA）将拒绝能力和决定论不相容的论证是不可靠的。事实上，正是她认为这些论证是不可靠的，通常导致她将能力解析为类似（CA）的方式。因此，全球反例虽然可能成功，但在关于能力的辩论中，相对于问题的范围来说是*辩证无效*的。
 
-然而，似乎我们可以证明（CA）甚至相对于自由意志辩论中各方共享的前提是错误的。这就是由基思·勒尔给出的_局部_反例所示。
+然而，似乎我们可以证明（CA）甚至相对于自由意志辩论中各方共享的前提是错误的。这就是由基思·勒尔给出的*局部*反例所示。
 
 假设我被提供了一个碗装着小圆红糖球的糖果。我选择不拿一个红糖球，因为我对这种糖果有一种病态的厌恶。（也许它们让我想起了血滴……）从逻辑上讲，假设如果我选择拿红糖球，我会拿一个，但是，既然我没有选择，我完全无法触摸一个。（Lehrer 1968, 32）
 
-这样的例子显示了在自由的争论中不需要假设任何有争议的东西，（CA）是错误的。它实际上是基于一个简单的观点：心理上的缺陷和外部的阻碍一样，都可能削弱能力。（CA）没有意识到这一点，因此在心理上的缺陷变得相关的反例中，（CA）是不成立的。我们可以将“心理能力”与“非心理能力”区分开来，并声称（CA）正确地解释了后者（例如，Albritton 1985 提出了这种策略）。但是我们对能力的普通概念，即我们试图给出一个理论的概念，似乎涉及到_心理_和_非心理_的要求。如果这是正确的，那么 Lehrer 的例子就成功地成为（CA）作为我们对能力的普通概念的理论的一个反例。
+这样的例子显示了在自由的争论中不需要假设任何有争议的东西，（CA）是错误的。它实际上是基于一个简单的观点：心理上的缺陷和外部的阻碍一样，都可能削弱能力。（CA）没有意识到这一点，因此在心理上的缺陷变得相关的反例中，（CA）是不成立的。我们可以将“心理能力”与“非心理能力”区分开来，并声称（CA）正确地解释了后者（例如，Albritton 1985 提出了这种策略）。但是我们对能力的普通概念，即我们试图给出一个理论的概念，似乎涉及到*心理*和*非心理*的要求。如果这是正确的，那么 Lehrer 的例子就成功地成为（CA）作为我们对能力的普通概念的理论的一个反例。
 
-对于（CA）的_必要性_的反例讨论得较少（参见 Wolf 1990），但它们也提出了关于能力的重要问题。考虑一个情况，一个优秀的高尔夫球手没有将一个简单的推杆打进洞里。鉴于这个高尔夫球手试图推杆但失败了，如果她试图推杆，她会将球推进洞里的说法是错误的；毕竟，她_确实_试过但没有成功。（这个想法得到了虚拟条件句的标准观点的证实；参见 Bennett 2003, 239）。但是，作为一个优秀的高尔夫球手，她显然有能力将球推进洞里。因此，这似乎是一个情况，一个人可以拥有能力而不满足相关条件，从而成为（CA）的必要性的一个反例。
+对于（CA）的*必要性*的反例讨论得较少（参见 Wolf 1990），但它们也提出了关于能力的重要问题。考虑一个情况，一个优秀的高尔夫球手没有将一个简单的推杆打进洞里。鉴于这个高尔夫球手试图推杆但失败了，如果她试图推杆，她会将球推进洞里的说法是错误的；毕竟，她*确实*试过但没有成功。（这个想法得到了虚拟条件句的标准观点的证实；参见 Bennett 2003, 239）。但是，作为一个优秀的高尔夫球手，她显然有能力将球推进洞里。因此，这似乎是一个情况，一个人可以拥有能力而不满足相关条件，从而成为（CA）的必要性的一个反例。
 
 在这里，(CA)的辩护者可以利用特定能力和一般能力之间的区别。她可能会说，(CA)是关于具有特定能力的定义：也就是说，实际上能够执行某个动作的能力。高尔夫球手在这种情况下确实缺乏这种能力，正如(CA)正确预测的那样。然而，高尔夫球手确实具有像这样推入推杆的一般能力。但是，(CA)并不打算分析一般能力，因此与高尔夫球手具有这种能力是相容的。再次强调，这种回应的合理性将取决于特定能力和一般能力之间的区别的可行性。
 
@@ -159,11 +159,11 @@ Stanley 和 Williamson 的论点远未被广泛接受（参见 Noë 2005），�
 
 唐纳德·戴维森（Donald Davidson）认为，对（CA）的充分性的担忧，尤其是在 Chisholm 1964 中的发展，对其产生了决定性的影响。更具体地说，他认为这个问题的教训是：
 
-> 试图分析“能够”或“可以”或“自由地”的因果条件句的前提不能包含动作动词，或者任何能解释“某人能做_它_吗？”这个问题的动词。（戴维森 1980，68）
+> 试图分析“能够”或“可以”或“自由地”的因果条件句的前提不能包含动作动词，或者任何能解释“某人能做*它*吗？”这个问题的动词。（戴维森 1980，68）
 
 Davidson 建议我们至少可以通过认可以下方式克服这个困难：
 
-> _A_有意地做_x_（在描述_d_下）意味着如果_A_有能够合理化_x_（在_d_下）的欲望和信念，那么_A_就会做_x_。（Davidson 1980, 68）
+> *A*有意地做*x*（在描述*d*下）意味着如果*A*有能够合理化*x*（在*d*下）的欲望和信念，那么*A*就会做*x*。（Davidson 1980, 68）
 
 Davidson 继续考虑了一系列进一步的问题，针对这个提议和行动因果理论的一般性问题，但他认为至少足以克服对（CA）充分性的标准反对意见。
 
@@ -183,25 +183,25 @@ Peacocke 的想法是这足以克服充分性的反对意见：尽管 Lehrer 的
 
 直观地说，关于能力的主张是关于可能性的主张。某种意义上，某人能够执行某个行为，仅当她有可能执行该行为。
 
-为了发展这个所谓的真理，从这样的思考开始：对于_S_具有能力去执行_A_，这是必要的，但不是充分的，_S_有可能执行_A_。对于各种更专门的可能性，比如_nomic_可能性，这个主张会引起争议。但如果我们可以借助可能性的概念_simpliciter_（至少在某种解读下称为“形而上学可能性”），那么这个主张似乎是合理的。（我们将在下面的第 4.2 节中概述一些历史和当代对此的挑战。）另一方面，这种可能性是充分条件似乎是不合理的：有许多行为在形而上学上是可能的，但代理人可能无法执行。
+为了发展这个所谓的真理，从这样的思考开始：对于*S*具有能力去执行*A*，这是必要的，但不是充分的，*S*有可能执行*A*。对于各种更专门的可能性，比如*nomic*可能性，这个主张会引起争议。但如果我们可以借助可能性的概念*simpliciter*（至少在某种解读下称为“形而上学可能性”），那么这个主张似乎是合理的。（我们将在下面的第 4.2 节中概述一些历史和当代对此的挑战。）另一方面，这种可能性是充分条件似乎是不合理的：有许多行为在形而上学上是可能的，但代理人可能无法执行。
 
-这暗示了一个自然的假设。拥有一种能力意味着在某种_有限_的可能性意义上，它是可能的。正如法律可能性是相对于自然法则的可能性，认知可能性是相对于一个代理人所知道的可能性，能力可能是相对于一些独立可规定的条件的可能性。
+这暗示了一个自然的假设。拥有一种能力意味着在某种*有限*的可能性意义上，它是可能的。正如法律可能性是相对于自然法则的可能性，认知可能性是相对于一个代理人所知道的可能性，能力可能是相对于一些独立可规定的条件的可能性。
 
-为了准确地阐述这个假设，我们可以借助“可能世界”的形式框架，它为情态语言提供了一种优雅而强大的语义。在这个框架上，一个命题之所以可能，是因为它在某个可能世界上是真的。然后我们可以说一个代理人能够_A_，只要她在满足一些独立可规定的条件的某个世界（或一组世界）上执行了那个行为。
+为了准确地阐述这个假设，我们可以借助“可能世界”的形式框架，它为情态语言提供了一种优雅而强大的语义。在这个框架上，一个命题之所以可能，是因为它在某个可能世界上是真的。然后我们可以说一个代理人能够*A*，只要她在满足一些独立可规定的条件的某个世界（或一组世界）上执行了那个行为。
 
 因此，我们得到了关于能力的情态分析：
 
-（MA）_S_具有能力_A_当且仅当_S_在满足条件_C_的某个世界（或一组世界）上进行了_A_。
+（MA）*S*具有能力*A*当且仅当*S*在满足条件*C*的某个世界（或一组世界）上进行了*A*。
 
-（MA）实际上并不是一种分析，而是一种通用分析家族的模板。该家族的不同成员将通过他们可能提出的不同候选人来区分_C_，以及他们是否量化个别世界或一组世界。尽管如此，这些分析表明了足够的理论统一性，以便在适当的抽象层次上被视为对能力分析的单一方法。
+（MA）实际上并不是一种分析，而是一种通用分析家族的模板。该家族的不同成员将通过他们可能提出的不同候选人来区分*C*，以及他们是否量化个别世界或一组世界。尽管如此，这些分析表明了足够的理论统一性，以便在适当的抽象层次上被视为对能力分析的单一方法。
 
 关于（MA）有两点值得注意。首先，“模态”在这里被以相对严格和狭义的方式使用。有时，“模态”被宽泛地用来描述与可能性（和必然性）以某种方式相关的现象。如上所述，能力与必然性之间存在某种联系是不言自明的，因此能力在这种宽泛意义上是“模态”的。 （MA）的支持者关注的是更严格意义上的模态：她提出能力可以通过刚刚提到的命题和可能世界的精确框架来进行分析。反对（MA）的人则承认能力与可能性有某种关系，但否认任何这样的分析能够成功。
 
 其次，虽然（MA）被提出作为（CA）的替代方案，但（CA）可以说只是（MA）的一个特定版本。因为如上所述，（CA）依赖于虚拟条件句，并且虚拟条件句的标准语义（在 Stalnaker 1968 和 Lewis 1973 中稍有不同的方式发展）是用可能世界的量化来解释的。具体而言（按照 Stalnaker 的版本），虚拟条件句在其前提为真的世界中，其结论在与实际世界最大程度相似的世界上为真。用这些术语来说，（CA）大致等同于以下内容：
 
-> （CAmodal）_S_具有能力执行_A_当且仅当在一个与实际世界最大程度相似的世界中，_S_试图执行_A_。
+> （CAmodal）*S*具有能力执行*A*当且仅当在一个与实际世界最大程度相似的世界中，*S*试图执行*A*。
 
-显然，这是（MA）的一个版本，其中“_S_试图执行_A_并且与实际世界最大程度相似”作为条件_C_。
+显然，这是（MA）的一个版本，其中“*S*试图执行*A*并且与实际世界最大程度相似”作为条件*C*。
 
 如果这是正确的，那么二十世纪关于能力分析的大多数讨论都集中在一个特殊而有些特异的情况上，即能力的模态分析计划。与之相反，本节剩余部分提出的考虑与一般情况有关。
 
@@ -233,9 +233,9 @@ Peacocke 的想法是这足以克服充分性的反对意见：尽管 Lehrer 的
 
 > 在一副牌中，我有能力按要求挑选出一张黑色或红色的牌；但我没有能力按要求挑选出一张红色的牌，也没有能力按要求挑选出一张黑色的牌。（Kenny 1975, 137）
 
-这似乎是一个情况，其中_S_具有能力去_A_或_B_，但缺乏能力去_A_和缺乏能力去_B_。因此，似乎(2)对能力是错误的。基于此，肯尼得出结论：“如果我们将可能世界语义视为明确说明可能性所涉及的内容，我们必须说能力不是任何一种可能性”(肯尼，1975 年，140 页)。
+这似乎是一个情况，其中*S*具有能力去*A*或*B*，但缺乏能力去*A*和缺乏能力去*B*。因此，似乎(2)对能力是错误的。基于此，肯尼得出结论：“如果我们将可能世界语义视为明确说明可能性所涉及的内容，我们必须说能力不是任何一种可能性”(肯尼，1975 年，140 页)。
 
-为了理解肯尼的结论，我们可以详细说明为什么这是对(MA)的反例。考虑一个代理者_S_，他有能力选择一张红牌或一张黑牌，但没有能力选择一张红牌或选择一张黑牌。根据(MA)，如果_S_在某个满足条件_C_的世界(或一组世界)上执行了_A_，则_S_具有执行_A_的能力。考虑(MA)只涉及单个世界而不是一组世界的情况。如果_S_有能力选择一张红牌或选择一张黑牌，那么根据(MA)，存在一个满足条件_C_的世界_w_，在该世界中_S_选择了一张红牌或黑牌。然后，要么_S_在_w_上选择了一张红牌，要么_S_在_w_上选择了一张黑牌。然后，反过来应用(MA)，_S_有能力选择一张红牌或_S_有能力选择一张黑牌。但是，根据假设，情况并非如此。由于该论证只依赖于(MA)这一实质前提，因此必须拒绝(MA)。
+为了理解肯尼的结论，我们可以详细说明为什么这是对(MA)的反例。考虑一个代理者*S*，他有能力选择一张红牌或一张黑牌，但没有能力选择一张红牌或选择一张黑牌。根据(MA)，如果*S*在某个满足条件*C*的世界(或一组世界)上执行了*A*，则*S*具有执行*A*的能力。考虑(MA)只涉及单个世界而不是一组世界的情况。如果*S*有能力选择一张红牌或选择一张黑牌，那么根据(MA)，存在一个满足条件*C*的世界*w*，在该世界中*S*选择了一张红牌或黑牌。然后，要么*S*在*w*上选择了一张红牌，要么*S*在*w*上选择了一张黑牌。然后，反过来应用(MA)，*S*有能力选择一张红牌或*S*有能力选择一张黑牌。但是，根据假设，情况并非如此。由于该论证只依赖于(MA)这一实质前提，因此必须拒绝(MA)。
 
 请注意，这个论证基本上是基于采用了(MA)的版本，该版本只涉及单个世界而不是一组世界。因此，对这个反对意见的一种回应方式是在能力的模态分析中引用一组世界。这正是马克·布朗的提议，他认为，如果我们认为可及性关系存在于一个世界和一组世界之间，那么我们可以在可能世界的框架中捕捉到关于能力的讨论，这与标准观点的精神大致相符(布朗，1988 年；另见克罗斯，1986 年)。或者，我们可以将这种观点视为支持回归假设性能力理论的理由，因为至少在刘易斯对虚拟条件句的观点中，一个析取可能是由一个反事实主张得出的，而不是由该主张的任何一个析取得出(刘易斯，1973 年，79-80 页)。采用一组世界的模态解释是“非正常”的，因为它们不满足公理**K**，但它们仍然忠于(MA)的字面意义以及模态分析的精神，因为它们只利用可能世界和量化。
 
@@ -243,9 +243,9 @@ Peacocke 的想法是这足以克服充分性的反对意见：尽管 Lehrer 的
 
 在物质模式中，模态分析以可能世界的量化来解释具备能力的含义。在形式模式中，它以可能世界的量化来给出能力归属的语义——典型地，涉及“能”或“能够”的句子。
 
-这种形式方面的模态分析在哲学和语言学文献中备受关注，因为能力归属的标准语义是明确的模态语义。这是由安格丽卡·克拉策（Kratzer 2012）在一系列论文中发展起来的观点。克拉策将诸如“_S_ 能 _A_”和“_S_ 能够 _A_”这样的表达视为可能性主张。也就是说，“_S_ 能够 _A_”为真，当且仅当存在一个满足特定条件的可能世界 _w_，在该世界中，_S_ 执行 _A_。这些条件是：（i）在某个语境指定的事实集合（_模态基础_）下，_w_ 是可访问的；（ii）根据某个语境指定的世界排序（_排序源_），_w_ 至少与其他可访问世界一样好。因此，克拉策的语义是模态分析在其语义表述上的一个实例：
+这种形式方面的模态分析在哲学和语言学文献中备受关注，因为能力归属的标准语义是明确的模态语义。这是由安格丽卡·克拉策（Kratzer 2012）在一系列论文中发展起来的观点。克拉策将诸如“*S* 能 *A*”和“*S* 能够 *A*”这样的表达视为可能性主张。也就是说，“*S* 能够 *A*”为真，当且仅当存在一个满足特定条件的可能世界 *w*，在该世界中，*S* 执行 *A*。这些条件是：（i）在某个语境指定的事实集合（*模态基础*）下，*w* 是可访问的；（ii）根据某个语境指定的世界排序（*排序源*），*w* 至少与其他可访问世界一样好。因此，克拉策的语义是模态分析在其语义表述上的一个实例：
 
-（MAsemantic）“_S_能够做_A_”当且仅当_S_在某个世界（或一组世界）满足条件_C_时为真。
+（MAsemantic）“*S*能够做*A*”当且仅当*S*在某个世界（或一组世界）满足条件*C*时为真。
 
 对于这种形式的模态分析，已经提出了一些反对意见。
 
@@ -253,7 +253,7 @@ Peacocke 的想法是这足以克服充分性的反对意见：尽管 Lehrer 的
 
 （3）我能够打中靶心
 
-直觉上，她所说的是错误的：她不能够打中靶心，因为她是一个糟糕的飞镖玩家。然而，在一个可行且完全良好的可能世界_w_中，她打中了靶心——也就是说，在客体语言中，她有可能打中靶心。
+直觉上，她所说的是错误的：她不能够打中靶心，因为她是一个糟糕的飞镖玩家。然而，在一个可行且完全良好的可能世界*w*中，她打中了靶心——也就是说，在客体语言中，她有可能打中靶心。
 
 这个案例表明，Kratzer 语义学缺乏捕捉（3）这样的句子所具有的独特代理力的资源。此外，Kratzer 关于能力情态动词的语义学还存在一些其他尚未解决的实证问题。其中一个问题是解释“强迫”情态动词，比如“我不能不说实话”（Mandelkern 等人，2017）。另一个问题是适应“实际蕴涵”，即在许多语言中，某些能力句子蕴涵着所讨论的行为实际上已经发生了（Bhatt，1999；另请参阅 Hacquard，2009）。无论我们对（MAsemantic）的评判如何，能力归属的语义学仍然是语言学和行动哲学交界处一个未解决且潜力丰富的问题。
 
@@ -271,25 +271,25 @@ Peacocke 的想法是这足以克服充分性的反对意见：尽管 Lehrer 的
 
 为什么我们应该拒绝对倾向性的条件分析？考虑以下对被击打时会破裂的倾向性的分析：
 
-> (CD) 当被击打时，_x_ 会破裂，当且仅当如果 _S_ 被击打，_S_ 会破裂。
+> (CD) 当被击打时，*x* 会破裂，当且仅当如果 *S* 被击打，*S* 会破裂。
 
 尽管 (CD) 有直观吸引力，但似乎至少有两种反例。首先，考虑一个水晶玻璃，如果它即将被击打，会变成钢。这个玻璃在被击打时会破裂，但如果被击打，它不会破裂——这个变化使得这个说法是错误的。这是 Martin 1994 年的“虚假”情况。其次，考虑一个装满聚苯乙烯泡沫包装的水晶玻璃。这个玻璃在被击打时会破裂，但如果被击打，它不会破裂——这个包装物阻止了破裂。这是 Johnston 1992 年的“掩盖”情况。鉴于这些情况，似乎我们应该拒绝 (CD)。
 
-这些观点对我们之前对条件分析的讨论有以下影响。给能力提供条件分析似乎存在相当_普遍_的问题。因此，能力的条件分析失败可能不是由于能力本身的原因，而是由于条件分析的普遍缺陷。如果这种诊断是正确的，克服这个问题的一种方法是直接用倾向性来分析能力。
+这些观点对我们之前对条件分析的讨论有以下影响。给能力提供条件分析似乎存在相当*普遍*的问题。因此，能力的条件分析失败可能不是由于能力本身的原因，而是由于条件分析的普遍缺陷。如果这种诊断是正确的，克服这个问题的一种方法是直接用倾向性来分析能力。
 
 Fara 2008 提出了这样的分析，并提出了以下论点：
 
-> _S_在情况_C_下有能力进行_A_，当且仅当她在情况_C_下尝试进行_A_时具有进行_A_的倾向性。(Fara 2008, 848)
+> *S*在情况*C*下有能力进行*A*，当且仅当她在情况*C*下尝试进行*A*时具有进行*A*的倾向性。(Fara 2008, 848)
 
 这种分析与之前讨论的假设分析非常相似。这引发了一些直接的问题，比如这种分析是否能克服那些方法所困扰的充分性问题（参见 Fara 2008 年，851-852 页的肯定回答，以及 Clarke 2009 年，334-336 页的一些疑问）。然而，最引人注目的是，新的倾向论者如何将这种关于能力的解释应用于某些熟悉的案例。
 
-考虑一下新的倾向论如何涉及所谓的“弗兰克福案例”。这些案例是由弗兰克福（Frankfurt）于 1969 年提出的，其中一个行动者选择并执行某个动作_A_，与此同时，存在另一个动作_B_，如果行动者本来要选择_B_，一个“干预者”会改变行动者的大脑，使其选择并执行_A_。关于这类案例的一个问题是，行动者在实际事件序列中是否有能力去执行_B_。弗兰克福和大多数其他人的直觉是，她没有这种能力。鉴于进一步的主张，即行动者仍然对执行_A_负有道德责任，这个案例似乎是对弗兰克福所称的“替代可能性原则”（PAP）的反例：只有当行动者有能力执行除了_A_之外的某个动作时，她才对执行_A_负有道德责任。
+考虑一下新的倾向论如何涉及所谓的“弗兰克福案例”。这些案例是由弗兰克福（Frankfurt）于 1969 年提出的，其中一个行动者选择并执行某个动作*A*，与此同时，存在另一个动作*B*，如果行动者本来要选择*B*，一个“干预者”会改变行动者的大脑，使其选择并执行*A*。关于这类案例的一个问题是，行动者在实际事件序列中是否有能力去执行*B*。弗兰克福和大多数其他人的直觉是，她没有这种能力。鉴于进一步的主张，即行动者仍然对执行*A*负有道德责任，这个案例似乎是对弗兰克福所称的“替代可能性原则”（PAP）的反例：只有当行动者有能力执行除了*A*之外的某个动作时，她才对执行*A*负有道德责任。
 
-新的倾向论者持不同意见。让我们关注 Fara 对这个案例的诊断。对于 Fara 来说，行动者是否有能力执行_B_取决于她在试图执行_B_时是否有倾向去执行_B_。Fara 声称她确实有这种倾向。在 Fara 的观点中，干预者的存在就像水晶玻璃中的那种泡沫塑料包装。它掩盖了玻璃在被打击时破裂的倾向，但并没有消除这种倾向。同样，Fara 认为，干预者的存在掩盖了行动者在试图执行_B_时的倾向，但并没有消除这种倾向。（新的倾向论者对于这是否是一种欺骗或掩盖的情况存在一些分歧；参见 Clarke 2009 年，340 页的讨论）。因此，与弗兰克福相反，行动者确实有能力执行_B_。因此，至少在这种情况下，我们没有 PAP 的反例。
+新的倾向论者持不同意见。让我们关注 Fara 对这个案例的诊断。对于 Fara 来说，行动者是否有能力执行*B*取决于她在试图执行*B*时是否有倾向去执行*B*。Fara 声称她确实有这种倾向。在 Fara 的观点中，干预者的存在就像水晶玻璃中的那种泡沫塑料包装。它掩盖了玻璃在被打击时破裂的倾向，但并没有消除这种倾向。同样，Fara 认为，干预者的存在掩盖了行动者在试图执行*B*时的倾向，但并没有消除这种倾向。（新的倾向论者对于这是否是一种欺骗或掩盖的情况存在一些分歧；参见 Clarke 2009 年，340 页的讨论）。因此，与弗兰克福相反，行动者确实有能力执行*B*。因此，至少在这种情况下，我们没有 PAP 的反例。
 
 这一点自然令人担忧的是，新的倾向主义者似乎只是“转移了话题”。因为很明显，在完全普通的能力意义上，弗兰克福的行动者缺乏其他选择的能力。否认这一点的能力解释似乎在谈论完全不同的概念。一个突显缺失的方法是，我所拥有的能力（与自由意志相关的意义上）似乎与我“所能做的”之间存在某种联系。克拉克声称，这种联系在新的倾向主义者对能力的观点中是失败的：
 
-> 尽管存在一个可能阻止某人进行_A_的障碍或掩饰，但在这种情况下，一个行动者很可能无法进行_A_... 如果有某种阻止我进行_A_的东西，如果我无法控制它是否会阻止我进行_A_，如果我无法控制是否有这样的东西存在，那么即使我有进行_A_的能力，我也无法控制是否行使这种能力。（克拉克，2009 年，339 页）
+> 尽管存在一个可能阻止某人进行*A*的障碍或掩饰，但在这种情况下，一个行动者很可能无法进行*A*... 如果有某种阻止我进行*A*的东西，如果我无法控制它是否会阻止我进行*A*，如果我无法控制是否有这样的东西存在，那么即使我有进行*A*的能力，我也无法控制是否行使这种能力。（克拉克，2009 年，339 页）
 
 因此，反对意见是，虽然新的倾向主义者可能提出了关于“某事物”的理论，但并不是关于能力的理论。
 
@@ -321,7 +321,7 @@ Fara 2008 提出了这样的分析，并提出了以下论点：
 
 还有其他一些解释无法轻易归入此处提供的分类中。其中包括原始主义的提议，它将能力或某种密切相关的概念作为分析的基础。这个想法的一个发展是 Maier 2015 年的提议，与大多数作者相反，他认为特定能力在本质上优先于一般能力。他认为我们应该用特定能力来解释一般能力，他称之为“选项”：大致上，一个行动者具有进行 A 的一般能力，当且仅当她通常将 A 作为一个选项。选项本身是原始的。在这里，很多问题将取决于对选项的进一步阐述，以及它们在代理理论中作为原始概念的意义。
 
-最后，大卫·刘易斯（David Lewis）提出的一个提案概要（日期为 2001 年，但最近才发表为刘易斯 2020 年）提供了一种完全不同的能力方法。刘易斯像许多支持（CA）的人一样，受到捍卫相容主义的目标的驱动，但他认为（CA）是不令人满意的。因此，他提出了一种非条件性的能力分析。他的分析大致是这样的：_S_具有执行动作_B_的能力，当且仅当存在某个基本动作_A_，使得（i）_S_做_A_会导致或构成_S_做_B_，且（ii）没有阻碍_S_做_A_。然后，给出能力理论的问题就变成了给出障碍理论的问题，刘易斯在他的概要中已经有所开端（有关更多讨论，请参见 Beebee 等人 2020 年的文章）。
+最后，大卫·刘易斯（David Lewis）提出的一个提案概要（日期为 2001 年，但最近才发表为刘易斯 2020 年）提供了一种完全不同的能力方法。刘易斯像许多支持（CA）的人一样，受到捍卫相容主义的目标的驱动，但他认为（CA）是不令人满意的。因此，他提出了一种非条件性的能力分析。他的分析大致是这样的：*S*具有执行动作*B*的能力，当且仅当存在某个基本动作*A*，使得（i）*S*做*A*会导致或构成*S*做*B*，且（ii）没有阻碍*S*做*A*。然后，给出能力理论的问题就变成了给出障碍理论的问题，刘易斯在他的概要中已经有所开端（有关更多讨论，请参见 Beebee 等人 2020 年的文章）。
 
 Lewis 的提议在至少两个方面激发了进一步研究的灵感。首先，它表明了作为一个模态哲学家，Lewis 将能力分析问题视为一个重要的未解决项目。其次，它证明了对能力的真正创新方法仍然可行，并且给出能力理论的项目可能仍处于早期阶段。
 
@@ -335,11 +335,11 @@ Lewis 的提议在至少两个方面激发了进一步研究的灵感。首先�
 
 彼得·范·因瓦根对这种策略的缺点进行了很好的诊断。在调查了各种假设性能力理论的局部反例之后，范·因瓦根设想我们已经得到了最好的假设性能力理论，他将其称为“分析”。然后，范·因瓦根写道：
 
-分析对我们有什么作用？它如何影响我们对兼容性问题的理解？就我所见，它对我们的帮助很少，除非我们有理由认为它是_正确的_。许多兼容主义者似乎认为，他们只需要提出一种能力的条件分析，并在可能出现的反例面前捍卫它或修改它，这样他们就已经做到了捍卫兼容主义所必需的。我不这么看。兼容主义者提出的能力分析只是他的前提之一，事实上是他的核心前提。前提需要被捍卫。（范·因瓦根，1983 年，121 页）
+分析对我们有什么作用？它如何影响我们对兼容性问题的理解？就我所见，它对我们的帮助很少，除非我们有理由认为它是*正确的*。许多兼容主义者似乎认为，他们只需要提出一种能力的条件分析，并在可能出现的反例面前捍卫它或修改它，这样他们就已经做到了捍卫兼容主义所必需的。我不这么看。兼容主义者提出的能力分析只是他的前提之一，事实上是他的核心前提。前提需要被捍卫。（范·因瓦根，1983 年，121 页）
 
-范·因瓦根的观点是，只要不相容论者已经为这些能力与决定论不相容的主张提供了_论证_（正如范·因瓦根所展示的），分析的提出还不能回答这些论证。因为这些论证也是对兼容主义者所偏爱的能力解释的论证，_inter alia_。
+范·因瓦根的观点是，只要不相容论者已经为这些能力与决定论不相容的主张提供了*论证*（正如范·因瓦根所展示的），分析的提出还不能回答这些论证。因为这些论证也是对兼容主义者所偏爱的能力解释的论证，*inter alia*。
 
-因此，对于希望以能力解释为兼容主义辩护的人来说，存在几个障碍。首先，实际上提供一个具有外延充分的能力理论是一个普遍的困难。此外，我们现在还遇到了对兼容主义者的一些更具体的挑战。正如范·因瓦根刚刚概述的那样，能力与决定论不相容的论证也是反对任何对兼容主义友好的能力理论的论证，_inter alia_。最后，在我们对第 5.1 节中新的倾向主义讨论中遇到的一点是，关于能力的某些平凡真理，特别是涉及道德责任的判断，可能对兼容主义的处理方法持怀疑态度。综合起来，这些观点似乎对任何既与决定论相容又符合我们对能力要求的普通判断的能力理论构成了严重的障碍。
+因此，对于希望以能力解释为兼容主义辩护的人来说，存在几个障碍。首先，实际上提供一个具有外延充分的能力理论是一个普遍的困难。此外，我们现在还遇到了对兼容主义者的一些更具体的挑战。正如范·因瓦根刚刚概述的那样，能力与决定论不相容的论证也是反对任何对兼容主义友好的能力理论的论证，*inter alia*。最后，在我们对第 5.1 节中新的倾向主义讨论中遇到的一点是，关于能力的某些平凡真理，特别是涉及道德责任的判断，可能对兼容主义的处理方法持怀疑态度。综合起来，这些观点似乎对任何既与决定论相容又符合我们对能力要求的普通判断的能力理论构成了严重的障碍。
 
 面对这些障碍，兼容主义者该说些什么呢？其中一种回应是区分两种兼容主义项目（参见普赖尔 2000 年关于对怀疑论的回应）。一个项目是“说服”那些被不相容主义者的论证所动摇的人放弃他们的立场。将其称为“雄心勃勃的”兼容主义。正如范·因瓦根所说，任何能力理论都不足以为雄心勃勃的兼容主义提供辩护。然而，兼容主义者可能参与另一个项目。假设由于某种原因，她自己并不被不相容主义者的论证所说服。她仍然面临一个解释的负担，即要解释，即使只是为了她自己的满意，能力如何与决定论的真理相容。在这里，兼容主义者的目标不是说服不相容主义者犯错误，而只是要制定一个令人满意的兼容主义概念。让我们称之为“谦逊的”兼容主义。这种区分并不常见，而且并不总是清楚经典兼容主义者参与了哪种项目。如果后一种项目确实是经典兼容主义的一部分，那么我们可以在承认上述许多观点的同时，仍然将能力理论置于兼容主义辩护的核心位置。因为尽管能力理论对于雄心勃勃的兼容主义者没有用处，但在谦逊的兼容主义辩护中却起着至关重要的作用。
 
@@ -347,83 +347,83 @@ Lewis 的提议在至少两个方面激发了进一步研究的灵感。首先�
 
 ## Bibliography
 
-* Albritton, Rogers, 1985. “Freedom of Will and Freedom of Action,” _Proceedings and Addresses of the American Philosophical Association_, 59: 239–251.
-* Alvarez, Maria, 2013. “Agency and Two-Way Powers,” _Proceedings of the Aristotelian Society_, 113: 101–121.
-* Austin, J.L., 1956. “Ifs and Cans,” _Proceedings of The British Academy_, 42: 107–132.
-* Beebee, Helen, Whittle, Ann, and Svedberg, Maria, 2020. “Nihil Obstat: Lewis’s Compatibilist Account of Abilities,” _The Monist_, 103: 245–261.
-* Bengson, John and Moffett, Marc (eds.), 2011. _Know How: Essays on Mind, Knowledge, and Action_, Oxford: Oxford University Press.
-* Bennett, Jonathan, 2003. _A Philosophical Guide to Conditionals_, Oxford: Oxford University Press.
-* Bhatt, Rajesh, 1999. _Covert Modality in Non-Finite Contexts_, Ph.D. Dissertation, University of Pennsylvania. \[[Bhatt 1999 available online](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1033\&context=ircs\_reports)]
-* Brown, Mark, 1988. “On The Logic of Ability,” _Journal of Philosophical Logic_, 17: 1–26.
-* Carnap, Rudolf, 1936 & 1937. “Testability and Meaning,” _Philosophy of Science_, 3: 419–471, 4:1–40.
-* Cartwright, Nancy, 1994. _Nature’s Capacities and Their Measurement_, Oxford: Oxford University Press.
-* Clarke, Randolph, 2009. “Dispositions, Abilities to Act, and Free Will: The New Dispositionalism,” _Mind_, 118: 323–351.
-* Curley, Edward, 1984. “Descartes on the Creation of the Eternal Truths,” _The Philosophical Review_, 93: 569–597.
-* Cyr, Taylor and Swenson, Philip, 2019. “Moral Responsibility without General Ability,” _The Philosophical Quarterly_, 69: 22–40.
+* Albritton, Rogers, 1985. “Freedom of Will and Freedom of Action,” *Proceedings and Addresses of the American Philosophical Association*, 59: 239–251.
+* Alvarez, Maria, 2013. “Agency and Two-Way Powers,” *Proceedings of the Aristotelian Society*, 113: 101–121.
+* Austin, J.L., 1956. “Ifs and Cans,” *Proceedings of The British Academy*, 42: 107–132.
+* Beebee, Helen, Whittle, Ann, and Svedberg, Maria, 2020. “Nihil Obstat: Lewis’s Compatibilist Account of Abilities,” *The Monist*, 103: 245–261.
+* Bengson, John and Moffett, Marc (eds.), 2011. *Know How: Essays on Mind, Knowledge, and Action*, Oxford: Oxford University Press.
+* Bennett, Jonathan, 2003. *A Philosophical Guide to Conditionals*, Oxford: Oxford University Press.
+* Bhatt, Rajesh, 1999. *Covert Modality in Non-Finite Contexts*, Ph.D. Dissertation, University of Pennsylvania. \[[Bhatt 1999 available online](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1033\&context=ircs\*reports)]
+* Brown, Mark, 1988. “On The Logic of Ability,” *Journal of Philosophical Logic*, 17: 1–26.
+* Carnap, Rudolf, 1936 & 1937. “Testability and Meaning,” *Philosophy of Science*, 3: 419–471, 4:1–40.
+* Cartwright, Nancy, 1994. *Nature’s Capacities and Their Measurement*, Oxford: Oxford University Press.
+* Clarke, Randolph, 2009. “Dispositions, Abilities to Act, and Free Will: The New Dispositionalism,” *Mind*, 118: 323–351.
+* Curley, Edward, 1984. “Descartes on the Creation of the Eternal Truths,” *The Philosophical Review*, 93: 569–597.
+* Cyr, Taylor and Swenson, Philip, 2019. “Moral Responsibility without General Ability,” *The Philosophical Quarterly*, 69: 22–40.
 * Davidson, Donald, 1963. “Actions, Reasons, Causes,” in Davidson 1980: 3–19
 * –––, 1973. “Freedom to Act,” in Davidson 1980: 63–81.
-* –––, 1980. _Essays on Actions and Events_, Oxford: Oxford University Press.
-* Fara, Michael, 2008. “Masked Abilities and Compatibilism,” _Mind_, 117: 843–865.
-* Fischer, John Martin, 1979. “Lehrer’s New Move: ‘Can’ in Theory and Practice,” _Theoria_, 45: 49–62.
-* Fischer, John Martin and Ravizza, Mark, 1998. _Responsibility and Control: A Theory of Moral Responsibility_, Cambridge: Cambridge University Press.
-* Frankfurt, Harry, 1969. “Alternate Possibilities and Moral Responsibility,” _The Journal of Philosophy_, 66: 829–839.
-* Gettier, Edmund, 1963. “Is Justified True Belief Knowledge?”, _Analysis_, 23: 121–123.
-* Gibson, James J., 1979. _The Ecological Approach to Visual Perception_, Boston: Houghton Mifflin.
-* Ginet, Carl, 1980. “The Conditional Analysis of Freedom,” in van Inwagen (ed.), _Time and Cause: Essays Presented to Richard Taylor_, Dordrecht: D. Reidel.
-* Glick, Ephraim. 2012 “Abilities and Know-How Attributions,” in Brown and Gekken (eds.), _Knowledge Ascriptions_, Oxford: Oxford University Press.
-* Goodman, Nelson, 1954. _Fact, Fiction and Forecast_, Cambridge, Mass.: Harvard University Press.
-* Greco, John, 2010. _Achieving Knowledge: A Virtue-Theoretic Account of Epistemic Normativity_, Cambridge: Cambridge University Press.
-* Hacquard, Valentine, 2006. _Aspects of Modality_, Ph.D. Dissertation, Massachusetts Institute of Technology. \[[Hacquard 2006 available online](http://ling.umd.edu/\~hacquard/papers/hacquard\_thesis.pdf)]
-* Honoré, A.M., 1964. “Can and Can’t,” _Mind_, 73: 463–479.
-* Hume, David, 1748. _An Enquiry Concerning Human Understanding_, Beauchamp (ed.), Oxford: Oxford University Press, 1999.
-* Jackson, Frank, 1998. _From Metaphysics to Ethics_, Oxford: Oxford University Press.
-* Jaster, Romy, 2020. _Agents’ Abilities_, Berlin: De Gruyter.
-* Johnston, Mark, 1992. “How to Speak of the Colors,” _Philosophical Studies_, 68: 221–263.
-* Karttunen, Lauri, 1977. “Syntax and Semantics of Questions,” _Linguistics and Philosophy_, 1: 3–44.
-* Kenny, Anthony, 1975. _Will, Freedom, and Power_, Oxford: Blackwell.
-* Kratzer, Angelika, 1977. “What ‘Must’ and ‘Can’ Must and Can Mean,” _Linguistics and Philosophy_, 1: 337–355.
-* –––, 1981. “The Notional Category of Modality,” in _Words, Worlds, and Contexts: New Approaches in Word Semantics_, Eikmeyer and Rieser (eds.), Berlin: de Gruyter.
-* –––, 2012. _Modals and Conditionals: New and Revised Perspectives_, Oxford: Oxford University Press.
-* Lehrer, Keith, 1968. “Cans without Ifs,” _Analysis_, 29: 29–32.
-* –––, 1976. “‘Can’ in Theory and Practice: A Possible World Analysis,” in Brand and Walton (eds.), _Action Theory_, Dordrecht: D. Reidel: 241–270.
-* Lewis, David, 1973. _Counterfactuals_, Cambridge, Mass.: Harvard University Press.
-* –––, 1976. “The Paradoxes of Time Travel,” In _Philosophical Papers, Volume 2_, Oxford: Oxford University Press, 1986, 67–80.
-* –––, 1990. “What Experience Teaches,” in _Papers in Metaphysics and Epistemology_, Cambridge: Cambridge University Press, 1999, 262–290.
-* –––, 2020. “Nihil Obstat: An Analysis of Ability,” _The Monist_, 103: 241–244.
-* Maier, John, 2015. “The Agentive Modalities,” _Philosophy and Phenomenological Research_, 90: 113–134.
-* Makin, Stephen, 2006. _Metaphysics, Book Θ_, Oxford: Oxford University Press.
-* Mandelkern, Matthew, Schultheis, Ginger, and Boylan, David, 2017. “Agentive Modals,” _The Philosophical Review_, 126: 301–343.
-* Manley, David and Wasserman, Ryan, 2008. “On Linking Dispositions and Conditionals,” _Mind_, 117: 59–84.
-* Martin, C.B., 1996. “Dispositions and Conditionals,” _The Philosophical Quarterly_, 44: 1–8.
-* McGeer, Victoria, 2018. “Intelligent Capacities,” _Proceedings of the Aristotelian Society_, 118: 347–376.
-* Mele, Alfred, 2002. “Agents’ Abilities,” _Noûs_, 37: 447–470.
-* Millikan, Ruth, 2000. _On Clear and Confused Ideas_, Cambridge: Cambridge University Press.
-* Nelkin, Dana, 2011. _Making Sense of Freedom and Responsibility_, Oxford: Oxford University Press.
-* Noë, Alva, 2005. “Against Intellectualism,” _Analysis_, 65: 278–290.
-* Peacocke, Christopher, 1999. _Being Known_, Oxford: Oxford University Press.
-* Pryor, James, 2000. “The Skeptic and the Dogmatist,” _Noûs_, 34: 517–549.
-* Reid, Thomas, 1788/2010. _Essays on the Active Powers of Man_, Haakonssen and Harris (eds.), Edinburgh: Edinburgh University Press.
-* Robb, Catherine, forthcoming. “Talent Dispositionalism,” _Synthese_, first online 03 February 2020. doi:10.1007/s11229-020-02559-6
-* Ryle, Gilbert, 1949. _The Concept of Mind_, London: Hutchinson.
-* Scarantino, Andrea, 2003. “Affordances Explained,” _Philosophy of Science_, 70: 949–961.
-* Schwarz, Wolfgang, 2020. “Ability and Possibility,” _Philosophers’ Imprint_, 20(6). \[[Schwarz 2020 available online](http://hdl.handle.net/2027/spo.3521354.0020.006)]
-* Spencer, Jack, 2017. “Able to Do the Impossible,” _Mind_, 126: 466–497.
-* Smith, Michael, 2003. “Rational Capacities,” in Stroud and Tappolet (eds.), _Weakness of Will and Practical Irrationality_, Oxford: Oxford University Press: 17–38.
-* Sosa, Ernest. 2007. _A Virtue Epistemology: Apt Belief and Reflective Knowledge_ (Volume 1), Oxford: Oxford University Press.
-* Stanley, Jason, 2011. _Know How_, Oxford: Oxford University Press.
-* Stanley, Jason and Williamson, Timothy, 2001. “Knowing How,” _The Journal of Philosophy_, 97: 411–444.
-* Steward, Helen, 2012. _A Metaphysics for Freedom_, Oxford: Oxford UP.
-* –––, 2020. “Agency as a Two-Way Power: A Defence,” _The Monist_, 103: 342–355.
-* Strawson, P.F., 1959. _Individuals: An Essay in Descriptive Metaphysics_, London: Methuen.
-* Taylor, Richard, 1960. “I Can,” _The Philosophical Review_, 69: 78–89.
-* van Inwagen, Peter, 1983. _An Essay on Free Will_, Oxford: Oxford University Press.
-* Vetter, Barbara, 2013. “‘Can’ Without Possible Worlds: Semantics for Anti-Humeans,” _Philosophers’ Imprint_, 13(16). \[[Vetter 2013 available online](http://hdl.handle.net/2027/spo.3521354.0013.016)]
-* –––, 2015. _Potentiality: From Dispositions to Modality_, Oxford: Oxford University Press.
-* Vihvelin, Kadri, 2004. “Free Will Demystified: A Dispositionalist Account,” _Philosophical Topics_, 32: 427–450.
-* –––, 2013. _Causes, Laws, and Free Will: Why Determinism Doesn’t Matter_, Oxford: Oxford University Press.
-* Whittle, Ann, 2010. “Dispositional Abilities,” _Philosophers’ Imprint_, 10(12). \[[Whittle 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.012)]
-* Willer, Malte, forthcoming. “Two Puzzles About Ability _Can_,” _Linguistics and Philosophy_, first online 30 March 2020. doi:10.1007/s10988-020-09296-6
-* Wolf, Susan, 1990. _Freedom within Reason_, Oxford: Oxford University Press.
+* –––, 1980. *Essays on Actions and Events*, Oxford: Oxford University Press.
+* Fara, Michael, 2008. “Masked Abilities and Compatibilism,” *Mind*, 117: 843–865.
+* Fischer, John Martin, 1979. “Lehrer’s New Move: ‘Can’ in Theory and Practice,” *Theoria*, 45: 49–62.
+* Fischer, John Martin and Ravizza, Mark, 1998. *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press.
+* Frankfurt, Harry, 1969. “Alternate Possibilities and Moral Responsibility,” *The Journal of Philosophy*, 66: 829–839.
+* Gettier, Edmund, 1963. “Is Justified True Belief Knowledge?”, *Analysis*, 23: 121–123.
+* Gibson, James J., 1979. *The Ecological Approach to Visual Perception*, Boston: Houghton Mifflin.
+* Ginet, Carl, 1980. “The Conditional Analysis of Freedom,” in van Inwagen (ed.), *Time and Cause: Essays Presented to Richard Taylor*, Dordrecht: D. Reidel.
+* Glick, Ephraim. 2012 “Abilities and Know-How Attributions,” in Brown and Gekken (eds.), *Knowledge Ascriptions*, Oxford: Oxford University Press.
+* Goodman, Nelson, 1954. *Fact, Fiction and Forecast*, Cambridge, Mass.: Harvard University Press.
+* Greco, John, 2010. *Achieving Knowledge: A Virtue-Theoretic Account of Epistemic Normativity*, Cambridge: Cambridge University Press.
+* Hacquard, Valentine, 2006. *Aspects of Modality*, Ph.D. Dissertation, Massachusetts Institute of Technology. \[[Hacquard 2006 available online](http://ling.umd.edu/\~hacquard/papers/hacquard\*thesis.pdf)]
+* Honoré, A.M., 1964. “Can and Can’t,” *Mind*, 73: 463–479.
+* Hume, David, 1748. *An Enquiry Concerning Human Understanding*, Beauchamp (ed.), Oxford: Oxford University Press, 1999.
+* Jackson, Frank, 1998. *From Metaphysics to Ethics*, Oxford: Oxford University Press.
+* Jaster, Romy, 2020. *Agents’ Abilities*, Berlin: De Gruyter.
+* Johnston, Mark, 1992. “How to Speak of the Colors,” *Philosophical Studies*, 68: 221–263.
+* Karttunen, Lauri, 1977. “Syntax and Semantics of Questions,” *Linguistics and Philosophy*, 1: 3–44.
+* Kenny, Anthony, 1975. *Will, Freedom, and Power*, Oxford: Blackwell.
+* Kratzer, Angelika, 1977. “What ‘Must’ and ‘Can’ Must and Can Mean,” *Linguistics and Philosophy*, 1: 337–355.
+* –––, 1981. “The Notional Category of Modality,” in *Words, Worlds, and Contexts: New Approaches in Word Semantics*, Eikmeyer and Rieser (eds.), Berlin: de Gruyter.
+* –––, 2012. *Modals and Conditionals: New and Revised Perspectives*, Oxford: Oxford University Press.
+* Lehrer, Keith, 1968. “Cans without Ifs,” *Analysis*, 29: 29–32.
+* –––, 1976. “‘Can’ in Theory and Practice: A Possible World Analysis,” in Brand and Walton (eds.), *Action Theory*, Dordrecht: D. Reidel: 241–270.
+* Lewis, David, 1973. *Counterfactuals*, Cambridge, Mass.: Harvard University Press.
+* –––, 1976. “The Paradoxes of Time Travel,” In *Philosophical Papers, Volume 2*, Oxford: Oxford University Press, 1986, 67–80.
+* –––, 1990. “What Experience Teaches,” in *Papers in Metaphysics and Epistemology*, Cambridge: Cambridge University Press, 1999, 262–290.
+* –––, 2020. “Nihil Obstat: An Analysis of Ability,” *The Monist*, 103: 241–244.
+* Maier, John, 2015. “The Agentive Modalities,” *Philosophy and Phenomenological Research*, 90: 113–134.
+* Makin, Stephen, 2006. *Metaphysics, Book Θ*, Oxford: Oxford University Press.
+* Mandelkern, Matthew, Schultheis, Ginger, and Boylan, David, 2017. “Agentive Modals,” *The Philosophical Review*, 126: 301–343.
+* Manley, David and Wasserman, Ryan, 2008. “On Linking Dispositions and Conditionals,” *Mind*, 117: 59–84.
+* Martin, C.B., 1996. “Dispositions and Conditionals,” *The Philosophical Quarterly*, 44: 1–8.
+* McGeer, Victoria, 2018. “Intelligent Capacities,” *Proceedings of the Aristotelian Society*, 118: 347–376.
+* Mele, Alfred, 2002. “Agents’ Abilities,” *Noûs*, 37: 447–470.
+* Millikan, Ruth, 2000. *On Clear and Confused Ideas*, Cambridge: Cambridge University Press.
+* Nelkin, Dana, 2011. *Making Sense of Freedom and Responsibility*, Oxford: Oxford University Press.
+* Noë, Alva, 2005. “Against Intellectualism,” *Analysis*, 65: 278–290.
+* Peacocke, Christopher, 1999. *Being Known*, Oxford: Oxford University Press.
+* Pryor, James, 2000. “The Skeptic and the Dogmatist,” *Noûs*, 34: 517–549.
+* Reid, Thomas, 1788/2010. *Essays on the Active Powers of Man*, Haakonssen and Harris (eds.), Edinburgh: Edinburgh University Press.
+* Robb, Catherine, forthcoming. “Talent Dispositionalism,” *Synthese*, first online 03 February 2020. doi:10.1007/s11229-020-02559-6
+* Ryle, Gilbert, 1949. *The Concept of Mind*, London: Hutchinson.
+* Scarantino, Andrea, 2003. “Affordances Explained,” *Philosophy of Science*, 70: 949–961.
+* Schwarz, Wolfgang, 2020. “Ability and Possibility,” *Philosophers’ Imprint*, 20(6). \[[Schwarz 2020 available online](http://hdl.handle.net/2027/spo.3521354.0020.006)]
+* Spencer, Jack, 2017. “Able to Do the Impossible,” *Mind*, 126: 466–497.
+* Smith, Michael, 2003. “Rational Capacities,” in Stroud and Tappolet (eds.), *Weakness of Will and Practical Irrationality*, Oxford: Oxford University Press: 17–38.
+* Sosa, Ernest. 2007. *A Virtue Epistemology: Apt Belief and Reflective Knowledge* (Volume 1), Oxford: Oxford University Press.
+* Stanley, Jason, 2011. *Know How*, Oxford: Oxford University Press.
+* Stanley, Jason and Williamson, Timothy, 2001. “Knowing How,” *The Journal of Philosophy*, 97: 411–444.
+* Steward, Helen, 2012. *A Metaphysics for Freedom*, Oxford: Oxford UP.
+* –––, 2020. “Agency as a Two-Way Power: A Defence,” *The Monist*, 103: 342–355.
+* Strawson, P.F., 1959. *Individuals: An Essay in Descriptive Metaphysics*, London: Methuen.
+* Taylor, Richard, 1960. “I Can,” *The Philosophical Review*, 69: 78–89.
+* van Inwagen, Peter, 1983. *An Essay on Free Will*, Oxford: Oxford University Press.
+* Vetter, Barbara, 2013. “‘Can’ Without Possible Worlds: Semantics for Anti-Humeans,” *Philosophers’ Imprint*, 13(16). \[[Vetter 2013 available online](http://hdl.handle.net/2027/spo.3521354.0013.016)]
+* –––, 2015. *Potentiality: From Dispositions to Modality*, Oxford: Oxford University Press.
+* Vihvelin, Kadri, 2004. “Free Will Demystified: A Dispositionalist Account,” *Philosophical Topics*, 32: 427–450.
+* –––, 2013. *Causes, Laws, and Free Will: Why Determinism Doesn’t Matter*, Oxford: Oxford University Press.
+* Whittle, Ann, 2010. “Dispositional Abilities,” *Philosophers’ Imprint*, 10(12). \[[Whittle 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.012)]
+* Willer, Malte, forthcoming. “Two Puzzles About Ability *Can*,” *Linguistics and Philosophy*, first online 30 March 2020. doi:10.1007/s10988-020-09296-6
+* Wolf, Susan, 1990. *Freedom within Reason*, Oxford: Oxford University Press.
 
 ## Academic Tools
 
@@ -446,4 +446,4 @@ Lewis 的提议在至少两个方面激发了进一步研究的灵感。首先�
 I am very grateful to the many people who have provided feedback on this entry since its initial publication in 2009. I would like to particularly thank the editors of this entry for their work: Luca Ferrero (2020), and John Martin Fischer (2009, 2014). For additional feedback on the most recent revision (2020), I would like to thank: Vanessa Carr, Romy Jaster, Simon Kittle, and Barbara Vetter. I unfortunately do not have a comprehensive record of people who provided thoughts on earlier versions, but they include: John Bengson, Helen Steward, Kadri Vihvelin, and Ann Whittle. Thanks finally to the SEP Editors and Michael Nelson for their assistance.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[John Maier](http://jmaier.net/) <[_john@jmaier.net_](mailto:john%40jmaier%2enet)>
+[John Maier](http://jmaier.net/) <[*john@jmaier.net*](mailto:john%40jmaier%2enet)>

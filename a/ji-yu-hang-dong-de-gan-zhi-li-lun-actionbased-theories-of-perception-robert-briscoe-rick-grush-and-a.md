@@ -1,8 +1,8 @@
 # 基于行动的感知理论 action-based theories of perception (Robert Briscoe, Rick Grush, and Alison Springle)
 
-_首次发布于 2015 年 7 月 8 日；实质性修订于 2023 年 9 月 19 日_
+*首次发布于 2015 年 7 月 8 日；实质性修订于 2023 年 9 月 19 日*
 
-行动是获取环境感知信息的手段。例如，转身会改变你与周围物体的空间关系，从而影响你视觉上感知它们的属性。将手移动到物体表面上可以感知其形状、温度和质地。嗅闻和在房间里走动可以帮助你找到令人不愉快气味的来源。身体的主动或被动运动也可以产生有用的感知信息来源（Gibson 1966, 1979）。例如，前进运动产生的视网膜图像中的光流模式包含了你前进方向的信息，而运动视差是视觉系统用来估计视野中物体相对距离的“线索”。在这些无争议的方式和其他方式中，感知在工具上依赖于行动。根据苏珊·赫利（Susan Hurley）（1998）所称的“输入-输出图像”解释框架，感知对行动的依赖是_纯粹_工具性的：
+行动是获取环境感知信息的手段。例如，转身会改变你与周围物体的空间关系，从而影响你视觉上感知它们的属性。将手移动到物体表面上可以感知其形状、温度和质地。嗅闻和在房间里走动可以帮助你找到令人不愉快气味的来源。身体的主动或被动运动也可以产生有用的感知信息来源（Gibson 1966, 1979）。例如，前进运动产生的视网膜图像中的光流模式包含了你前进方向的信息，而运动视差是视觉系统用来估计视野中物体相对距离的“线索”。在这些无争议的方式和其他方式中，感知在工具上依赖于行动。根据苏珊·赫利（Susan Hurley）（1998）所称的“输入-输出图像”解释框架，感知对行动的依赖是*纯粹*工具性的：
 
 > 运动可以改变感官输入，从而导致不同的感知...输出的变化仅仅是改变输入的手段，而感知直接依赖于输入。（1998: 342）
 
@@ -10,9 +10,9 @@ _首次发布于 2015 年 7 月 8 日；实质性修订于 2023 年 9 月 19 日
 
 本文按历史结构进行。我们首先在[第 1 节](https://plato.stanford.edu/entries/action-perception/#EarlActiBaseTheo)中讨论乔治·伯克利的《关于视觉新理论》（1709），这是基于行动的感知理论的历史经典之一，也是有关视觉的最有影响力的文本之一。伯克利认为，视觉的基本或“适当”的结果不是三维空间中庞大物体的排列，而是光线和颜色的二维多样性。然后我们转向讨论洛策、赫尔姆霍兹和“局部符号”学说。这些“局部符号”是心智用来知道要赋予视觉体验何种空间内容的感觉线索。对于洛策来说，这些线索是由实际移动眼睛产生的“流入”的肌觉感觉，而对于赫尔姆霍兹来说，它们是发送给眼睛移动的“流出”运动命令。
 
-在[第 2 节](https://plato.stanford.edu/entries/action-perception/#SensContTheo)中，我们讨论了感觉运动连续性理论，这在 20 世纪下半叶变得突出起来。这些观点认为，预测自主行动的感觉后果的能力对于感知是必要的。这个理论家族的动机之一是_视觉方向恒定性_的问题——为什么物体看起来是静止的，即使它们在视网膜上反射光的位置随着每次眼动而改变？——以及关于对光学重排装置（ORDs）和感觉替代的适应实验。
+在[第 2 节](https://plato.stanford.edu/entries/action-perception/#SensContTheo)中，我们讨论了感觉运动连续性理论，这在 20 世纪下半叶变得突出起来。这些观点认为，预测自主行动的感觉后果的能力对于感知是必要的。这个理论家族的动机之一是*视觉方向恒定性*的问题——为什么物体看起来是静止的，即使它们在视网膜上反射光的位置随着每次眼动而改变？——以及关于对光学重排装置（ORDs）和感觉替代的适应实验。
 
-[第 3 节](https://plato.stanford.edu/entries/action-perception/#MotoCompEffeReadTheo)考察了另外两个重要的 20 世纪理论。根据我们所称的**运动成分理论**，在眼动系统中产生的外出副本和/或来自眼动的本体感觉反馈与传入的感觉输入一起用于确定感知对象的空间属性。相比之下，**外出准备理论**关注感知状态如何_准备_观察者与环境进行移动和行动。我们将其称为**适度准备理论**，它声称视觉体验中物体的空间属性的表征方式可以通过一种或另一种形式的隐蔽行动规划进行调节。**大胆准备理论**则主张更强的观点，即感知_就是_隐蔽行动的准备。
+[第 3 节](https://plato.stanford.edu/entries/action-perception/#MotoCompEffeReadTheo)考察了另外两个重要的 20 世纪理论。根据我们所称的**运动成分理论**，在眼动系统中产生的外出副本和/或来自眼动的本体感觉反馈与传入的感觉输入一起用于确定感知对象的空间属性。相比之下，**外出准备理论**关注感知状态如何*准备*观察者与环境进行移动和行动。我们将其称为**适度准备理论**，它声称视觉体验中物体的空间属性的表征方式可以通过一种或另一种形式的隐蔽行动规划进行调节。**大胆准备理论**则主张更强的观点，即感知*就是*隐蔽行动的准备。
 
 在[第 4 节](https://plato.stanford.edu/entries/action-perception/#SkilTheo)中，我们转向**倾向理论**，最有影响力的是加雷斯·埃文斯（Gareth Evans）（1982 年，1985 年）的阐述，但最近由里克·格鲁什（Rick Grush）（2000 年，2007 年）进行了辩护。埃文斯的理论在其核心上与大胆的外行动准备理论非常相似。然而，有一些显著的差异。埃文斯的解释在某些哲学方面更加精细。它也没有将感知归纳为行为倾向，而是假设感知输入和行为之间的某些复杂关系提供了空间内容。格鲁什提出了一个非常具体的理论，与埃文斯的理论类似，它也没有进行归纳，但与埃文斯的观点不同，它没有将行为倾向和感觉输入放在一个不可区分的地位上。
 
@@ -107,27 +107,27 @@ _首次发布于 2015 年 7 月 8 日；实质性修订于 2023 年 9 月 19 日
 
 > 由于要关联的想法不能共存，因此无法发生。我们不能同时看着一个离我们五、十、五十码远的物体，并且朝它迈出最后一步。(1864: 24)
 
-最近，感知心理学的研究结果对视觉受触觉教育的观点提出了质疑。对镜头、镜子和棱镜引起的视觉体验扭曲的研究（Gibson 1933; Harris 1965, 1980; Hay _et al._ 1965; Rock & Harris 1967）表明，视觉不仅对触觉的修正具有抵抗力，而且在多模态冲突时，视觉往往会主导或“捕获”触觉。这一点将在下面的[第 3 节](https://plato.stanford.edu/entries/action-perception/#MotoCompEffeReadTheo)中进行更深入的讨论。
+最近，感知心理学的研究结果对视觉受触觉教育的观点提出了质疑。对镜头、镜子和棱镜引起的视觉体验扭曲的研究（Gibson 1933; Harris 1965, 1980; Hay *et al.* 1965; Rock & Harris 1967）表明，视觉不仅对触觉的修正具有抵抗力，而且在多模态冲突时，视觉往往会主导或“捕获”触觉。这一点将在下面的[第 3 节](https://plato.stanford.edu/entries/action-perception/#MotoCompEffeReadTheo)中进行更深入的讨论。
 
 ### 1.3 洛策、赫尔姆霍兹和局部符号学说
 
 与伯克利一样，赫尔曼·洛策（1817-1881）和赫尔曼·冯·赫尔姆霍兹（1821-1894）确认了主动运动和触觉在三维视觉空间意识的生成中所起的作用：
 
-…在谈论我们感知的任何其他真理时，除了_实践_真理之外，没有可能有任何意义。我们对事物的感知不能是其他任何东西，自然给出的事物的符号，我们已经学会使用它们来控制我们的动作和行为。当我们学会以正确的方式阅读这些符号时，我们就能够使用它们来定位我们的行动，使其达到预期的效果；也就是说，_新的感觉以预期的方式产生_（赫尔姆霍兹 2005 \[1924]：19，我们的强调）。
+…在谈论我们感知的任何其他真理时，除了*实践*真理之外，没有可能有任何意义。我们对事物的感知不能是其他任何东西，自然给出的事物的符号，我们已经学会使用它们来控制我们的动作和行为。当我们学会以正确的方式阅读这些符号时，我们就能够使用它们来定位我们的行动，使其达到预期的效果；也就是说，*新的感觉以预期的方式产生*（赫尔姆霍兹 2005 \[1924]：19，我们的强调）。
 
 洛策和赫尔姆霍兹在维持身体运动在构建二维视觉场景中的作用方面比伯克利更进一步，这在大多数以前的视觉描述中被认为是理所当然的（但也有例外，请参见哈特菲尔德 1990 年：第 4 章）。
 
 基于行动的感知理论，正如洛策和赫尔姆霍兹所理解的那样，是指为视野中的每个点分配一个独特的、相对于眼睛的（或“眼中心”的）方向的问题。洛策对心灵-身体二元论的承诺排除了在视觉系统中寻找任何物理或解剖空间排序的解决方案（洛策 1887 \[1879]：§§276-77）。相反，洛策认为，每个离散的视觉印象都伴随着一种“特殊的额外感觉”，其现象特征因其在视网膜上的起源而异。这些额外的感觉或“局部标记”共同构成了一个“分级的、定性的记号系统”（1887 \[1879]：§283），它们弥合了无意识视网膜图像的空间结构与意识视觉感知中所代表的空间结构之间的差距。
 
-然而，适合扮演局部标记所归属的个体化角色的感觉是什么样的呢？洛策提到了伴随眼睛注视运动的肌感觉（1887 \[1879]：§§284-86）。如果_P_是由远点_d_刺激的视网膜上的位置，而_F_是黄斑，则_PF_是为了将注视方向与_d_对齐而必须穿过的弧。当眼睛通过弧_PF_移动时，其不断变化的位置会引起相应的一系列肌感觉_p_0、_p_1、_p_2、……_p\*\*n_，而正是这个在_P_独特的、有意识的经历系列构成了_P_的局部标记。相比之下，如果_Q_是由_d_刺激的视网膜上的位置，那么眼睛通过弧_QF_的注视运动将引发一系列不同的肌感觉_k_0、_k_1、_k_2、……_k\*\*n_，这些肌感觉是_Q_独特的。
+然而，适合扮演局部标记所归属的个体化角色的感觉是什么样的呢？洛策提到了伴随眼睛注视运动的肌感觉（1887 \[1879]：§§284-86）。如果*P*是由远点*d*刺激的视网膜上的位置，而*F*是黄斑，则*PF*是为了将注视方向与*d*对齐而必须穿过的弧。当眼睛通过弧*PF*移动时，其不断变化的位置会引起相应的一系列肌感觉*p*0、*p*1、*p*2、……*p\*\*n*，而正是这个在*P*独特的、有意识的经历系列构成了*P*的局部标记。相比之下，如果*Q*是由*d*刺激的视网膜上的位置，那么眼睛通过弧*QF*的注视运动将引发一系列不同的肌感觉*k*0、*k*1、*k*2、……*k\*\*n*，这些肌感觉是*Q*独特的。
 
-重要的是，洛策（Lotze）认为，视网膜刺激不一定会引发眼睛的明显运动。相反，即使在没有相应的眼球运动的情况下，刺激点_P_也会引发肌肉感觉_p_0，并且这种感觉会从记忆中回忆起与之相关的整个系列_p_1，..._pn_。
+重要的是，洛策（Lotze）认为，视网膜刺激不一定会引发眼睛的明显运动。相反，即使在没有相应的眼球运动的情况下，刺激点*P*也会引发肌肉感觉*p*0，并且这种感觉会从记忆中回忆起与之相关的整个系列*p*1，...*pn*。
 
-> 因此，尽管眼睛没有运动，但会出现某种事物的回忆，无论是更大还是更小，如果只引起微弱感觉的刺激点_P_和_Q_要引起最强烈和清晰的感觉，就必须完成某些任务。（1887 \[1879]: §285）
+> 因此，尽管眼睛没有运动，但会出现某种事物的回忆，无论是更大还是更小，如果只引起微弱感觉的刺激点*P*和*Q*要引起最强烈和清晰的感觉，就必须完成某些任务。（1887 \[1879]: §285）
 
 这样，洛策解释了我们能够同时感知视野中的多个位置的能力。
 
-赫尔姆霍兹 2005 \[1924]充分接受了二维空间定位中需要局部信号的必要性，但对洛策的理论进行了重要修改。特别是，他认为局部信号不是起源于眼部肌肉调整的感觉，即一种从眼睛产生的感觉性“流入”，而是由意志努力（_Willensanstrengung_）移动眼睛产生的神经充盈感（_Innervationsgefühlen_），即一种运动性的“流出”。总的来说，在视野中的每个可感知位置都与意志（_Willensimpuls_）有关，以以所需的方式移动眼睛以固定它。正如恩斯特·马赫后来阐述赫尔姆霍兹观点的：“执行眼睛运动的意愿，或者说行动的神经充盈本身就是空间感觉”（马赫 1897 \[1886]：59）。
+赫尔姆霍兹 2005 \[1924]充分接受了二维空间定位中需要局部信号的必要性，但对洛策的理论进行了重要修改。特别是，他认为局部信号不是起源于眼部肌肉调整的感觉，即一种从眼睛产生的感觉性“流入”，而是由意志努力（*Willensanstrengung*）移动眼睛产生的神经充盈感（*Innervationsgefühlen*），即一种运动性的“流出”。总的来说，在视野中的每个可感知位置都与意志（*Willensimpuls*）有关，以以所需的方式移动眼睛以固定它。正如恩斯特·马赫后来阐述赫尔姆霍兹观点的：“执行眼睛运动的意愿，或者说行动的神经充盈本身就是空间感觉”（马赫 1897 \[1886]：59）。
 
 赫尔姆霍兹更倾向于局部符号学说的运动输出版本，原因有两个。首先，他对眼位的传入登记是否精确到足以发挥洛策理论（2005 \[1924]：47-49）所赋予的作用持怀疑态度。最近的研究表明，来自眼肌伸展感受器的本体感流确实在估计凝视方向时起到了可量化的作用，但输出流通常是信息的主要来源（Bridgeman 2010；参见下面的[2.1.1 节](https://plato.stanford.edu/entries/action-perception/#ObjeEffeCopyTheo)）。
 
@@ -147,13 +147,13 @@ _首次发布于 2015 年 7 月 8 日；实质性修订于 2023 年 9 月 19 日
 
 感知一个稳定的视觉世界为所有其他视觉功能奠定了基础，使得我们能够对自身和其他物体的位置和运动进行判断。（2010: 94）
 
-VDC 问题可以分为两个问题（MacKay 1973）：首先，确定观察者相对位置是否在注视之间发生了变化时使用了哪些_信息_？其次，视觉系统如何利用相关的信息\*来实现这个功能？
+VDC 问题可以分为两个问题（MacKay 1973）：首先，确定观察者相对位置是否在注视之间发生了变化时使用了哪些*信息*？其次，视觉系统如何利用相关的信息\*来实现这个功能？
 
 对于第一个问题，历史上最有影响力的答案是视觉系统可以访问一个称为“外流”的注视命令信号的副本。这些信号携带着指定眼球运动方向和幅度的信息，可以用来补偿或“抵消”视网膜图像相应的位移。
 
-在 19 世纪，贝尔（1823 年），普尔金耶（1825 年）和赫林（1861 \[1990]年），赫尔姆霍兹（2005 \[1924]年）和马赫（1897 \[1886]年）运用外流副本理论来解释各种实验结果，例如，部分麻痹眼肌的受试者在试图执行注视时感知到视觉场景的运动（参见 Bridgeman 2010 年的综述）。然而，该理论最有影响力的阐述来自于埃里希·冯·霍尔斯特（Erich von Holst）和霍斯特·米特尔斯塔特（Horst Mittelstädt）在 20 世纪 50 年代初提出的“再感原则”（von Holst＆Mittelstädt 1950 年；von Holst 1954 年）。根据他们所称的“再感原则”，视觉系统利用眼球运动的运动指令副本来区分由世界变化引起的_外感_视觉刺激和由注视方向变化引起的_再感_视觉刺激：
+在 19 世纪，贝尔（1823 年），普尔金耶（1825 年）和赫林（1861 \[1990]年），赫尔姆霍兹（2005 \[1924]年）和马赫（1897 \[1886]年）运用外流副本理论来解释各种实验结果，例如，部分麻痹眼肌的受试者在试图执行注视时感知到视觉场景的运动（参见 Bridgeman 2010 年的综述）。然而，该理论最有影响力的阐述来自于埃里希·冯·霍尔斯特（Erich von Holst）和霍斯特·米特尔斯塔特（Horst Mittelstädt）在 20 世纪 50 年代初提出的“再感原则”（von Holst＆Mittelstädt 1950 年；von Holst 1954 年）。根据他们所称的“再感原则”，视觉系统利用眼球运动的运动指令副本来区分由世界变化引起的*外感*视觉刺激和由注视方向变化引起的*再感*视觉刺激：
 
-让我们想象一下，一个主动的中枢神经系统发送命令或“指令”...给执行器，并从感觉器官接收信号。在环境中没有发生任何事情时可预测到的信号必然是其自身活动的结果，即所谓的_再确认信号_。在没有给出命令时接收到的所有信号都是_外部信号_，表示环境或有外部力量引起的有机体状态的变化。...预期作为命令结果的差异与感觉器官报告的总体之间的差异就是外部信号的比例...只有这种差异才会产生补偿性反射；只有这种差异才能决定，例如在移动目光时，视觉对象的实际感知方向。因此，这就是我们提出的解决方案，我们称之为“再确认原则”：通过将总体传入与系统状态-“指令”进行比较，区分再确认和外部信号。（Mittelstädt 1971; translated by Bridgeman _et al._ 1994: 251）。
+让我们想象一下，一个主动的中枢神经系统发送命令或“指令”...给执行器，并从感觉器官接收信号。在环境中没有发生任何事情时可预测到的信号必然是其自身活动的结果，即所谓的*再确认信号*。在没有给出命令时接收到的所有信号都是*外部信号*，表示环境或有外部力量引起的有机体状态的变化。...预期作为命令结果的差异与感觉器官报告的总体之间的差异就是外部信号的比例...只有这种差异才会产生补偿性反射；只有这种差异才能决定，例如在移动目光时，视觉对象的实际感知方向。因此，这就是我们提出的解决方案，我们称之为“再确认原则”：通过将总体传入与系统状态-“指令”进行比较，区分再确认和外部信号。（Mittelstädt 1971; translated by Bridgeman *et al.* 1994: 251）。
 
 只有当视网膜图像的位移与基于输出副本的位移预测不同时，即后者未能“抵消”前者时，被试者才会在感知到的场景中经历某种变化（见[图 1](https://plato.stanford.edu/entries/action-perception/#fig1)）。相关的结果是，视动感觉一定有一个基本的运动组成部分：物体在世界中的眼相对位置的表观稳定性取决于感知者将传入的视网膜信号与关于即将发生的眼动幅度和方向的外视信息相结合的能力。
 
@@ -163,23 +163,23 @@ VDC 问题可以分为两个问题（MacKay 1973）：首先，确定观察者�
 
 #### 2.1.1 对输出副本理论的反对意见
 
-对于 VDC 问题的上述解决方案在多个实证方面面临挑战。**首先**，有证据表明，来自眼外肌的本体感觉信号对眼球位置的估计有非平凡的贡献，尽管输出副本的增益大约是其 2.4 倍（Bridgeman 和 Stark 1991）。**其次**，在自动动效应中，当视野处于黑暗且完全无结构的状态时，固定的发光点似乎会漫游。这一发现与根据视网膜位置和输出副本是眼相对方向的唯一决定因素的理论不一致。**第三**，假设的补偿过程如果在心理上是真实的，将会非常不准确，因为受试者在视觉世界的位移达到总扫视幅度的 30%时未能注意到（Bridgeman 等人，1975），并且在扫视附近呈现时，闪烁刺激的位置被系统性地错误地感知（Deubel 2004）。**最后**，当与扫视同时发生的图像位移较大，但刚好低于检测阈值时，_视觉关注的_物体在稳定的背景上会出现“跳动”或“颤动”的现象（Brune 和 Lücking 1969；Bridgeman 1981）。然而，正如 Bridgeman 所观察到的，输出副本理论无法解释这一现象。
+对于 VDC 问题的上述解决方案在多个实证方面面临挑战。**首先**，有证据表明，来自眼外肌的本体感觉信号对眼球位置的估计有非平凡的贡献，尽管输出副本的增益大约是其 2.4 倍（Bridgeman 和 Stark 1991）。**其次**，在自动动效应中，当视野处于黑暗且完全无结构的状态时，固定的发光点似乎会漫游。这一发现与根据视网膜位置和输出副本是眼相对方向的唯一决定因素的理论不一致。**第三**，假设的补偿过程如果在心理上是真实的，将会非常不准确，因为受试者在视觉世界的位移达到总扫视幅度的 30%时未能注意到（Bridgeman 等人，1975），并且在扫视附近呈现时，闪烁刺激的位置被系统性地错误地感知（Deubel 2004）。**最后**，当与扫视同时发生的图像位移较大，但刚好低于检测阈值时，*视觉关注的*物体在稳定的背景上会出现“跳动”或“颤动”的现象（Brune 和 Lücking 1969；Bridgeman 1981）。然而，正如 Bridgeman 所观察到的，输出副本理论无法解释这一现象。
 
 不允许图像的部分相对于彼此移动的可能性——视觉世界被构想为一个整体对象。这个观察似乎一下子排除了所有的运动预测副本和相关理论。（2010: 102）
 
 #### 2.1.2 运动预测副本理论的替代方案
 
-Deubel 和 Bridgeman 的_参考对象_理论否认了运动输出副本被用于“抵消”由注视眼球运动引起的视网膜图像位移（Deubel 等人，2002 年；Deubel，2004 年；Bridgeman，2010 年）。根据这个理论，在眼球运动开始之前，视觉注意力会转移到注视目标以及其附近的少量其他物体（可能是四个或更少）。尽管从一个注视到下一个注视，很少有视觉场景信息被保留，但这些物体的特征以及关于它们的注视前、相对于眼睛的位置的精确信息被保留下来。眼睛着陆后，视觉系统会在着陆点周围的有限空间区域内搜索目标或其邻居。如果这个“地标”物体的注视后定位成功，世界看起来是稳定的。然而，如果找不到这个物体，就会感知到位移。根据这种方法，运动输出副本并不直接支持视觉稳定性。相反，运动输出副本的作用是维持凝视方向的估计，这可以与传入的视网膜刺激相结合，确定感知对象的静态、相对于观察者的位置。有关最近的哲学讨论，请参见 Wu 2014 年。
+Deubel 和 Bridgeman 的*参考对象*理论否认了运动输出副本被用于“抵消”由注视眼球运动引起的视网膜图像位移（Deubel 等人，2002 年；Deubel，2004 年；Bridgeman，2010 年）。根据这个理论，在眼球运动开始之前，视觉注意力会转移到注视目标以及其附近的少量其他物体（可能是四个或更少）。尽管从一个注视到下一个注视，很少有视觉场景信息被保留，但这些物体的特征以及关于它们的注视前、相对于眼睛的位置的精确信息被保留下来。眼睛着陆后，视觉系统会在着陆点周围的有限空间区域内搜索目标或其邻居。如果这个“地标”物体的注视后定位成功，世界看起来是稳定的。然而，如果找不到这个物体，就会感知到位移。根据这种方法，运动输出副本并不直接支持视觉稳定性。相反，运动输出副本的作用是维持凝视方向的估计，这可以与传入的视网膜刺激相结合，确定感知对象的静态、相对于观察者的位置。有关最近的哲学讨论，请参见 Wu 2014 年。
 
-von Holst-Mittelstädt 模型的一个相关替代方案是 Duhamel 和 Colby 的_空间重映射_理论（Duhamel 等人，1992 年；Colby 等人，1995 年）。根据这个理论，注视运动输出副本的作用是启动对少量关注或其他显著物体的相对于眼睛的位置的更新。当注视后的物体位置与更新的地图足够一致时，就会感知到稳定性。单细胞和 fMRI 研究表明，视觉处理层次中的各个阶段的神经元利用注视运动指令信号的副本，在眼球运动开始前微秒级的时间内，将其感受野位置朝着即将发生的眼球运动的方向移动（Merriam 和 Colby，2005 年；Merriam 等人，2007 年）。实际上，指示即将发生的向右 20°的注视运动的运动输出副本告诉相关的神经元：
+von Holst-Mittelstädt 模型的一个相关替代方案是 Duhamel 和 Colby 的*空间重映射*理论（Duhamel 等人，1992 年；Colby 等人，1995 年）。根据这个理论，注视运动输出副本的作用是启动对少量关注或其他显著物体的相对于眼睛的位置的更新。当注视后的物体位置与更新的地图足够一致时，就会感知到稳定性。单细胞和 fMRI 研究表明，视觉处理层次中的各个阶段的神经元利用注视运动指令信号的副本，在眼球运动开始前微秒级的时间内，将其感受野位置朝着即将发生的眼球运动的方向移动（Merriam 和 Colby，2005 年；Merriam 等人，2007 年）。实际上，指示即将发生的向右 20°的注视运动的运动输出副本告诉相关的神经元：
 
-如果你现在对接收场中的物体_x_作出反应，那么停止对_x_的反应。如果在眼球中心视觉空间的区域中，经过向右 20°的扫视后，会与你的接收场重合的物体_y_存在，那么开始对_y_作出反应。
+如果你现在对接收场中的物体*x*作出反应，那么停止对*x*的反应。如果在眼球中心视觉空间的区域中，经过向右 20°的扫视后，会与你的接收场重合的物体*y*存在，那么开始对*y*作出反应。
 
 这种假设的更新反应在顶叶皮层和视觉处理的较高层（V3A 和 hV4）最强，而在较低层（V1 和 V2）最弱。
 
 ### 2.2 再确认理论
 
-1961 年，理查德·赫尔德提出再确认原理可以用来构建感知和感知引导行动的一般“神经模型”（最近的应用见 Jékely 等人 2021 年）。赫尔德的再确认理论在三个主要方面超越了冯·霍尔斯特和米特尔斯塔特的解释。**首先**，通过输出副本指定的运动参数的信息不仅仅是与再确认刺激相加。相反，假设主体获得了不同身体运动的_具体感觉后果_的知识。这种知识包含在一个假设的“相关存储”区域中，并用于确定产生给定类型行动的再确认刺激是否与过去产生的刺激相匹配（Held 1961: 30）。**其次**，再确认理论不仅限于眼动，而且扩展到“任何可能成为再确认视觉刺激源的运动系统”。**第三**，了解再确认刺激如何依赖于自我产生的运动被用于感觉运动控制的目的：在当前情况下，规划和控制面向物体的行动取决于获取有关执行此类行动的视觉后果的信息。
+1961 年，理查德·赫尔德提出再确认原理可以用来构建感知和感知引导行动的一般“神经模型”（最近的应用见 Jékely 等人 2021 年）。赫尔德的再确认理论在三个主要方面超越了冯·霍尔斯特和米特尔斯塔特的解释。**首先**，通过输出副本指定的运动参数的信息不仅仅是与再确认刺激相加。相反，假设主体获得了不同身体运动的*具体感觉后果*的知识。这种知识包含在一个假设的“相关存储”区域中，并用于确定产生给定类型行动的再确认刺激是否与过去产生的刺激相匹配（Held 1961: 30）。**其次**，再确认理论不仅限于眼动，而且扩展到“任何可能成为再确认视觉刺激源的运动系统”。**第三**，了解再确认刺激如何依赖于自我产生的运动被用于感觉运动控制的目的：在当前情况下，规划和控制面向物体的行动取决于获取有关执行此类行动的视觉后果的信息。
 
 基于行动的感知理论也受到了研究对象如何适应改变远离视觉世界和感觉输入之间关系的设备的显著推动，这些设备通过旋转、翻转或侧向位移视网膜图像来实现（有关这个主题的文献的有用指南，请参见 Rock 1966；Howard & Templeton 1966；Epstein 1967；和 Welch 1978）。我们将这些设备称为光学重排设备（或简称为 ORDs）。接下来，我们将回顾关于 ORDs 的实验工作，从 19 世纪末的美国心理学家乔治·斯特拉顿开始。
 
@@ -193,7 +193,7 @@ von Holst-Mittelstädt 模型的一个相关替代方案是 Duhamel 和 Colby �
 
 > 几乎所有在视觉直接指导下进行的动作都是费力且尴尬的。不断地出现不恰当的动作；例如，为了将我的手从视野中的一个地方移动到我选择的另一个地方，原本可以实现这一目标的肌肉收缩，现在却将我的手带到了完全不同的地方。（1897a: 344）
 
-进一步的困惑是由于视野随着头部运动而“摇摆”，以及事物在视觉上的位置与_想象_的位置之间的不协调引起的：
+进一步的困惑是由于视野随着头部运动而“摇摆”，以及事物在视觉上的位置与*想象*的位置之间的不协调引起的：
 
 > 目前在视野之外的物体（例如观察者旁边的物体）最初在心理上被表示为它们在正常视觉中的样子.... 实际的当前感知方式完全孤立并与由\[想象]表示的更大整体不协调。（1896 年：615）
 
@@ -201,11 +201,11 @@ von Holst-Mittelstädt 模型的一个相关替代方案是 Duhamel 和 Colby �
 
 另一个有影响力但不那么戏剧性的实验是由赫尔姆霍兹（2005 \[1924]: §29）进行的，他在佩戴偏移视网膜图像 16-18°向左的棱镜时进行了到目标的伸手实验。最初的倾向是朝着侧向偏移的方向伸手过远。然而，在进行了一系列试验后，伸手逐渐恢复了原来的准确水平。赫尔姆霍兹还发现了两个额外的发现。首先，存在着“手间转移效应”：对棱镜的视觉运动适应性扩展到了他的非暴露手。其次，在从眼睛上取下棱镜后立即，出现了相反方向的错误，即在伸手去目标时，赫尔姆霍兹现在把手伸得太远向右。这种“负后效”现在通常被用作适应侧向偏移的度量标准。
 
-Stratton 和 Helmholtz 的研究结果催生了一个关于 ORD 适应的研究传统，该传统在 20 世纪 60 年代和 70 年代达到了鼎盛时期。在这一时期进行的研究主要集中在两个问题上。首先，适应发生的必要和充分条件是什么？特别是，在适应由 ORD 引起的各种知觉和感觉运动差异时，被试使用哪些_信息_源进行适应？其次，当被试适应感知重排时会发生什么？相关形式的感知学习的“最终产品”是什么？
+Stratton 和 Helmholtz 的研究结果催生了一个关于 ORD 适应的研究传统，该传统在 20 世纪 60 年代和 70 年代达到了鼎盛时期。在这一时期进行的研究主要集中在两个问题上。首先，适应发生的必要和充分条件是什么？特别是，在适应由 ORD 引起的各种知觉和感觉运动差异时，被试使用哪些*信息*源进行适应？其次，当被试适应感知重排时会发生什么？相关形式的感知学习的“最终产品”是什么？
 
 #### 2.2.1 Held 对棱镜适应的实验
 
-Held 对第一个问题的回答是，主体必须通过主动运动接收到视觉反馈，即_再传入的视觉刺激_，才能实现显著且稳定的适应（Held＆Hein 1958; Held 1961; Held＆Bossom 1961）。对于这个结论的证据来自于实验，参与者在主动和被动运动条件下戴着侧向位移的棱镜。在主动运动条件下，被试者以与节拍器同步的方式来回移动可见手臂。在被动运动条件下，实验者以相同的速度被动地移动被试者的手。尽管两种条件下的视觉刺激的整体模式是相同的，但只有在主体进行自我运动时才报告了适应。基于这项研究和其他研究，Held 和 Bossom 得出结论：
+Held 对第一个问题的回答是，主体必须通过主动运动接收到视觉反馈，即*再传入的视觉刺激*，才能实现显著且稳定的适应（Held＆Hein 1958; Held 1961; Held＆Bossom 1961）。对于这个结论的证据来自于实验，参与者在主动和被动运动条件下戴着侧向位移的棱镜。在主动运动条件下，被试者以与节拍器同步的方式来回移动可见手臂。在被动运动条件下，实验者以相同的速度被动地移动被试者的手。尽管两种条件下的视觉刺激的整体模式是相同的，但只有在主体进行自我运动时才报告了适应。基于这项研究和其他研究，Held 和 Bossom 得出结论：
 
 > 再传入的刺激是与环境有序接触的来源，它负责视觉空间性能在典型条件下的稳定性和在某些非典型条件下的适应性。（1961 年：37）
 
@@ -217,25 +217,25 @@ Held 对第二个问题的回答是基于再感知理论：只有当被试者重
 
 **其次**，基于行动的感知理论未能解释存储的运动输出-再反馈相关性如何解释视觉运动控制。拥有预测由某种手部运动引起的视网膜刺激的能力如何使人们能够实际执行所讨论的运动？没有详细说明，赫尔德的理论似乎只能解释为什么当由他们的运动产生的再反馈是非标准的时，被试会感到惊讶（Rock 1966: 117）。
 
-**第三**，与理论相反，对 ORDs 的适应不仅限于受试者接收到再感觉视觉反馈的情况，还可能发生在受试者接收到由被动执行器或全身运动产生的反馈时（Singer 和 Day 1966; Templeton _et al._ 1966; Fishkin 1969）。甚至在完全没有运动行为的情况下，适应也是可能的（Howard _et al._ 1965; Kravitz 和 Wallach 1966）。
+**第三**，与理论相反，对 ORDs 的适应不仅限于受试者接收到再感觉视觉反馈的情况，还可能发生在受试者接收到由被动执行器或全身运动产生的反馈时（Singer 和 Day 1966; Templeton *et al.* 1966; Fishkin 1969）。甚至在完全没有运动行为的情况下，适应也是可能的（Howard *et al.* 1965; Kravitz 和 Wallach 1966）。
 
 总的来说，适应发生的程度不取决于再感觉刺激的可用性，而是取决于两种相关信息的存在，这些信息涉及“光学重排的存在和性质”（Welch 1978: 24）。根据 Welch 的观点，我们将这种观点称为“信息假设”。
 
 一个存在于被移位的视觉阵列中的信息来源涉及到物体相对于观察者的真实方向（Rock 1966: chaps. 2–4）。通常情况下，在前进运动中，一个物体在观察者身体正前方的感知径向方向保持不变，而两侧物体的感知径向方向则不断变化。当观察者戴上将视网膜图像偏移至侧面的棱镜时，这种模式也会出现。因此，“通过棱镜看到的物体，如果在我们接近时保持与矢状面相同的径向方向，必然会被看作是朝向矢状面移动”（Rock 1966: 105）。在 Rock 的观点中，至少某些形式的对物体真实方向的适应可以通过我们能够检测和利用运动产生的视觉流模式中的不变的空间信息源来解释。
 
-适应的另一个相关信息来源来自于所见和本体感知到的肢体位置之间的冲突（Wallach 1968; Ularik & Canon 1971）。当这种差异变得明显时，信息假设的支持者发现被动移动的（Melamed _et al._ 1973）、非自愿移动的（Mather & Lackner 1975）甚至是静止的受试者（Kravitz & Wallach 1966）都表现出显著的适应。尽管自身产生的身体运动不是适应发生的必要条件，但它为受试者提供了关于视觉和触觉之间差异的特别显著的信息（Moulden 1971）：受试者能够通过本体感知更准确地确定移动肢体的位置，而不是静止或被动移动的肢体。根据这种解释，视觉-本体感知冲突的增强而不是再感觉视觉刺激解释了为什么主动运动比被动运动在 Held 的实验中产生更多的适应。
+适应的另一个相关信息来源来自于所见和本体感知到的肢体位置之间的冲突（Wallach 1968; Ularik & Canon 1971）。当这种差异变得明显时，信息假设的支持者发现被动移动的（Melamed *et al.* 1973）、非自愿移动的（Mather & Lackner 1975）甚至是静止的受试者（Kravitz & Wallach 1966）都表现出显著的适应。尽管自身产生的身体运动不是适应发生的必要条件，但它为受试者提供了关于视觉和触觉之间差异的特别显著的信息（Moulden 1971）：受试者能够通过本体感知更准确地确定移动肢体的位置，而不是静止或被动移动的肢体。根据这种解释，视觉-本体感知冲突的增强而不是再感觉视觉刺激解释了为什么主动运动比被动运动在 Held 的实验中产生更多的适应。
 
 对于再反馈理论的最后一个反对意见涉及到对感知行动理论的适应的最终产物。根据这个理论，适应发生在当主体学习新的感觉运动依赖规则时，这些规则控制着行动对感觉输入的影响。然而，有大量证据表明，如果不是全部，适应更多地发生在本体感知水平上。Stratton 总结了他在基于镜像的光学重排实验中的结果，写道：
 
-> …在早期的一篇论文中提出的原则——_我们会感觉到一个物体在我们不断看到它的地方_——可以在比我当时打算的更广泛的意义上得到证明……我认为，现在我们可以安全地包括距离的差异，并断言触觉和视觉的空间一致并不要求在给定触觉位置的物体在任何特定方向或特定距离上出现。无论触觉印象的视觉对应物定期出现在哪个地方，最终它似乎只能在这个地方出现。如果我们总是看到我们的身体在一百码外，我们可能也会感觉到它们在那里。（1899 年：498，我们的强调）
+> …在早期的一篇论文中提出的原则——*我们会感觉到一个物体在我们不断看到它的地方*——可以在比我当时打算的更广泛的意义上得到证明……我认为，现在我们可以安全地包括距离的差异，并断言触觉和视觉的空间一致并不要求在给定触觉位置的物体在任何特定方向或特定距离上出现。无论触觉印象的视觉对应物定期出现在哪个地方，最终它似乎只能在这个地方出现。如果我们总是看到我们的身体在一百码外，我们可能也会感觉到它们在那里。（1899 年：498，我们的强调）
 
 根据这种解释，ORDs 所揭示的可塑性主要是本体感和运动感知，而不是视觉。在适应倒置的视网膜图像后，斯特拉顿的世界开始看起来“正常”（1897b: 469），因为事物被感受到它们在视觉上被感知到的位置上，而不是因为他的“整个视野翻转了”（Kuhn 2012 \[1962]: 112）。这一点可以从斯特拉顿在八天实验结束时最终摘下倒置镜片后没有视觉“负副作用”来看出：
 
 > 视觉布局立即被认出为实验前的旧布局；然而，一切都颠倒了，与我在过去一周中习惯的顺序相反，给场景带来了令人惊讶、困惑的氛围，持续了几个小时。然而，几乎没有感觉到事物是倒置的。（1897b: 470）
 
-此外，斯特拉顿报告称，在实验过程中，_肌体感觉_发生了变化，与所谓的本体感觉转变一致：
+此外，斯特拉顿报告称，在实验过程中，*肌体感觉*发生了变化，与所谓的本体感觉转变一致：
 
-> 当一个人在不寻常的经历中感到最自在时，_头部似乎在与运动感觉本身所暗示的方向完全相反的方向移动_。（1907 年：156）
+> 当一个人在不寻常的经历中感到最自在时，*头部似乎在与运动感觉本身所暗示的方向完全相反的方向移动*。（1907 年：156）
 
 根据这个观点，适应外部环境的最终结果是身体一个或多个关节处的本体感知位置感的重新校准（参见“[身体意识](https://plato.stanford.edu/entries/bodily-awareness/)”条目）。例如，当你戴着侧向位移的棱镜练习朝目标伸手时，肩膀和手臂中的肌腱囊、关节感受器和高尔基腱器官仍然产生与之前相同的动作电位模式，但它们在大脑中被“消费者”赋予的本体感知和动觉意义发生了变化：之前它们表示你的手臂沿着七维空间中的一条路径移动（人的手臂有七个自由度：腕关节三个、肘关节一个、肩关节三个），逐渐变成表示它沿着与你接收到的棱镜畸变的视觉反馈一致的不同路径移动。类似的重新校准也可能发生在头部和眼睛位置信息的来源上。例如，在适应侧向位移的棱镜后，之前表示头部和躯干对齐的颈部感受器信号可能表示你的头稍微向一侧转动。有关讨论，请参见 Harris 1965、1980；Welch 1978：第 3 章；以及 Briscoe 2016。
 
@@ -245,7 +245,7 @@ Held 对第二个问题的回答是基于再感知理论：只有当被试者重
 
 > 一个人将会遇到无数的视觉属性和视觉刺激，每个属性都与特定的感觉运动相关性集合相关。每个集合都将被记录下来，并潜在地可供回忆：因此，大脑掌握了所有这些感觉运动集合。（2001: 945）
 
-要将一个物体 _o_ 视为具有其所具有的位置和形状属性，有必要（1）从 _o_ 接收感官刺激，并（2）利用这些刺激来检索与 _o_ 相关的感觉运动连锁反应的集合，基于过去的遭遇。从这个意义上说，视觉是一个“两步”过程（Noë 2004: 164）。然而，需要强调的是，行动感知理论与视觉功能专门用于空间定向行动的观点有所区别：“我们的观点是”，Noë 写道，
+要将一个物体 *o* 视为具有其所具有的位置和形状属性，有必要（1）从 *o* 接收感官刺激，并（2）利用这些刺激来检索与 *o* 相关的感觉运动连锁反应的集合，基于过去的遭遇。从这个意义上说，视觉是一个“两步”过程（Noë 2004: 164）。然而，需要强调的是，行动感知理论与视觉功能专门用于空间定向行动的观点有所区别：“我们的观点是”，Noë 写道，
 
 > 视觉依赖于对运动的感觉效果的认识（而不是感觉的实际意义）……行动感知理论并不致力于一般性地主张视觉是关于如何在我们所看到的事物方面或与之相关地行动的问题。（Noë 2010: 249）
 
@@ -259,11 +259,11 @@ Held 对第二个问题的回答是基于再感知理论：只有当被试者重
 
 Hurley 和 Noë并不质疑 Stratton、Harris 和 Rock 为本体感知变化理论提供的大量经验和内省证据。相反，他们基于他们认为与适应左右颠倒有关的不当认识论推论而拒绝了这个理论：
 
-> 虽然右边的东西在你看来和感觉上_真的_是左边的，但它们开始_似乎_是右边的。因此，你对经验的真实品质不再是自明的。（2003 年：155）
+> 虽然右边的东西在你看来和感觉上*真的*是左边的，但它们开始*似乎*是右边的。因此，你对经验的真实品质不再是自明的。（2003 年：155）
 
 然而，基于本体感知变化理论并不意味着如此激进的内省错误。根据该理论的支持者，适应逆转后的体验之所以恢复正常，并不是因为真正看起来向左的东西“似乎向右看”（这可能意味着什么至少是神秘的），而是因为受试者最终熟悉了逆转时事物的外观方式——就像普通受试者可以流利地阅读镜像反转的文字一样（Harris 1965: 435–36）。换句话说，适应后事物看起来“正常”，是因为受试者再次能够以流利和不加思索的方式应对视觉感知世界。
 
-第二条支持行动主义方法的证据来自于对**触觉-视觉感知替代（TVSS）** 设备的众所周知的实验，这些设备将低分辨率视频摄像头的输出转化为在背部皮肤上的振动触觉刺激矩阵（Bach-y-Rita 1972, 2004）或舌面上的电触觉刺激（Sampaio _et al._ 2001）。
+第二条支持行动主义方法的证据来自于对**触觉-视觉感知替代（TVSS）** 设备的众所周知的实验，这些设备将低分辨率视频摄像头的输出转化为在背部皮肤上的振动触觉刺激矩阵（Bach-y-Rita 1972, 2004）或舌面上的电触觉刺激（Sampaio *et al.* 2001）。
 
 起初，配备了 TVSS 设备的盲人受试者将其输出仅体验为触觉。然而，经过短暂时间，许多受试者不再注意触觉刺激本身，而是报告在他们面前的空间中有准视觉体验的物体排列。事实上，在经过大量监督训练后，盲人受试者可以学会区分形状、大小和位置等空间属性，甚至可以执行简单的“眼”-手协调任务，如接住或击打球。早期实验中的一个主要发现是，只有当受试者对视频摄像机的运动有主动控制时，他们才能通过 TVSS“看见”。被动接受视觉输入的受试者——因此缺乏任何关于摄像机如何移动（或是否移动）的知识——只会经历无意义的触觉刺激。
 
@@ -285,15 +285,15 @@ Hurley 和 Noë并不质疑 Stratton、Harris 和 Rock 为本体感知变化理�
 
 对这一反对意见的支持来自主流视觉科学的研究。特别是，有大量的实证证据表明，物体的三维形状是由从物体表面反射或发射到观察者眼睛的光的空间信息源以及眼球运动因素来确定的（有关综述，请参见 Cutting & Vishton 1995; Palmer 1999; 和 Bruce 等人 2003）。例如，双眼视差、调焦、调节、运动视差、纹理梯度、遮挡、视野中的高度、相对角度大小、反射和阴影等都是例子。通过标准的心理物理学方法，实验者可以操纵不同的空间深度线索的可用性并测量感知效果，从而证明这种形状诊断信息在视觉系统中一旦被处理后不会在意识的视觉体验中丢失。例如，在消除阴影和高光的均匀照明条件下，物体看起来有些扁平，而在双眼视差、调节和调焦的有效范围之外的位置放置的物体的视觉距离被低估。这类实验的结果表明，观察者确实可以看到光线中某个特定线索的存在或缺失所带来的差异（Smith 2000; Briscoe 2008; 关于是否应该将二维透视属性引入到形状感知的科学解释中的辩论，请参见 Bennett 2012; McLaughlin 2016; Lande 2018; Morales & Firestone 2020; Linton 2021; Burge & Burge 2022; Cheng 等人 2022; 和 Morales & Firestone 2023）。
 
-根据有影响力的双系统模型（DSM）的视觉处理（Milner＆Goodale 1995/2006; Goodale＆Milner 2004），视觉意识和视觉运动控制由功能上和解剖上不同的视觉子系统支持（分别是_腹侧_和_背侧_信息处理流）。特别是，DSM 的支持者认为视觉经验的内容不被灵长类大脑中的运动编程区域所使用：
+根据有影响力的双系统模型（DSM）的视觉处理（Milner＆Goodale 1995/2006; Goodale＆Milner 2004），视觉意识和视觉运动控制由功能上和解剖上不同的视觉子系统支持（分别是*腹侧*和*背侧*信息处理流）。特别是，DSM 的支持者认为视觉经验的内容不被灵长类大脑中的运动编程区域所使用：
 
-> 根据该模型，背侧信息处理流用于编程和在线控制的视觉信息并非_感知性_的本质...即使在原则上也无法有意识地访问。换句话说，虽然我们可能对自己进行的动作有意识，但用于编程和控制这些动作的视觉信息永远无法被体验。（Milner＆Goodale 2008：775-776）
+> 根据该模型，背侧信息处理流用于编程和在线控制的视觉信息并非*感知性*的本质...即使在原则上也无法有意识地访问。换句话说，虽然我们可能对自己进行的动作有意识，但用于编程和控制这些动作的视觉信息永远无法被体验。（Milner＆Goodale 2008：775-776）
 
-基于行动的感知理论的一个**最终**批评是，它在 DSM 的证据面前被实证地证伪（参见 O'Regan＆Noë 2001 的评论; Clark 2009: chap. 8; Briscoe 2014;以及 Gangopadhyay _et al._ 2010 中收集的论文）：它所假设的我们所看到的和我们所做的之间的联系与神经科学告诉我们的有关它们的功能关系相比，要紧密得多。
+基于行动的感知理论的一个**最终**批评是，它在 DSM 的证据面前被实证地证伪（参见 O'Regan＆Noë 2001 的评论; Clark 2009: chap. 8; Briscoe 2014;以及 Gangopadhyay *et al.* 2010 中收集的论文）：它所假设的我们所看到的和我们所做的之间的联系与神经科学告诉我们的有关它们的功能关系相比，要紧密得多。
 
 对于这个反对意见，基于行动的感知理论者可以提出两点回应。首先，实验结果表明，在许多情境中，意识视觉中存在的信息被用于运动规划的目的（参见 Briscoe 2009 和 Briscoe＆Schwenkler 2015）。行动和感知并不像 DSM 的支持者有时所声称的那样明确分离。
 
-其次，正如上面强调的，行动性方法拒绝了视觉的功能是_引导_行动的观念。
+其次，正如上面强调的，行动性方法拒绝了视觉的功能是*引导*行动的观念。
 
 > 它并不声称视觉意识依赖于视觉运动技能，如果所谓的“视觉运动技能”是指利用视觉来伸手操作或抓取的能力。我们的观点是，视觉依赖于对运动的感觉效果的理解（不是感觉的实际意义）。 （Noë 2010: 249）
 
@@ -325,7 +325,7 @@ Hurley 和 Noë并不质疑 Stratton、Harris 和 Rock 为本体感知变化理�
 
 ### 3.2 基于行动的感知理论
 
-前额叶损伤的患者有时会表现出病理性的“利用行为”（Lhermitte 1983），即当看到一个物体时，会自动引发通常与之相关的行为，例如只要有一瓶水和一个玻璃杯在场，就会自动倒水到玻璃杯里并喝掉（Frith _et al._ 2000: 1782）。然而，正常人通常不会自动执行由感知到的物体所提供的行动，这并不意味着他们不会计划、想象排练或以其他方式表现出来。（相反，最近的神经科学研究结果表明，仅仅感知一个物体通常会暗中准备运动系统以某种方式与之互动。有关概述，请参见 Jeannerod 2006 和 Rizzolatti 2008。）
+前额叶损伤的患者有时会表现出病理性的“利用行为”（Lhermitte 1983），即当看到一个物体时，会自动引发通常与之相关的行为，例如只要有一瓶水和一个玻璃杯在场，就会自动倒水到玻璃杯里并喝掉（Frith *et al.* 2000: 1782）。然而，正常人通常不会自动执行由感知到的物体所提供的行动，这并不意味着他们不会计划、想象排练或以其他方式表现出来。（相反，最近的神经科学研究结果表明，仅仅感知一个物体通常会暗中准备运动系统以某种方式与之互动。有关概述，请参见 Jeannerod 2006 和 Rizzolatti 2008。）
 
 运动准备理论基于这样一个观点：对行动的隐蔽准备是“感知过程的一个组成部分”，而不仅仅是“之前的感知过程的结果”（Coren 1986: 394）。根据我们将称之为“谦逊准备理论”的理论，隐蔽的运动准备有时会影响感知经验中物体的空间属性的表征方式。相比之下，“大胆准备理论”则主张更强的构成性主张，即感知物体的空间属性就是以某种方式准备或准备好与物体进行互动（Sperry 1952; Taylor 1962, 1965, 1968）。
 
@@ -355,11 +355,11 @@ COG 偏见在进化上是有适应性的：眼球运动会将注视点和附近�
 
 泰勒的行为理论认为，感知的意识体验是通过特定一组学习或“预编程”的运动例程的被动激活来识别对象的空间属性：
 
-> \[P]erception 是对环境中作用于感受器官的对象进行行动的多重同时准备状态。所涉及的行动是个体在生活过程中获得的，并且是由他成长环境中的强化条件所决定的。决定感知内容的不是受到环境刺激能量作用的感觉传导器的属性，而是_对这些刺激能量进行条件化的行为的属性_….（1965: 1，我们的强调）
+> \[P]erception 是对环境中作用于感受器官的对象进行行动的多重同时准备状态。所涉及的行动是个体在生活过程中获得的，并且是由他成长环境中的强化条件所决定的。决定感知内容的不是受到环境刺激能量作用的感觉传导器的属性，而是*对这些刺激能量进行条件化的行为的属性*….（1965: 1，我们的强调）
 
-根据泰勒的理论，感官刺激通过联想、强化学习的结果，产生了具有空间内容的视觉体验：当由物体引起的近距离感官刺激类型被条件化为对具有空间属性_G_敏感的行为的表现时，我们会感知到物体具有空间属性_G_（1962: 42）。例如，看到物体距离的有意识体验是由主体学习到的准备好执行特定的整体身体和肢体运动构成的，这些运动在主体之前接收到相同距离的物体刺激时得到了强化。总的来说，视觉体验中空间内容的差异被认为是与主体在体验中所代表的物体进行“多重同时准备”互动的状态的差异。
+根据泰勒的理论，感官刺激通过联想、强化学习的结果，产生了具有空间内容的视觉体验：当由物体引起的近距离感官刺激类型被条件化为对具有空间属性*G*敏感的行为的表现时，我们会感知到物体具有空间属性*G*（1962: 42）。例如，看到物体距离的有意识体验是由主体学习到的准备好执行特定的整体身体和肢体运动构成的，这些运动在主体之前接收到相同距离的物体刺激时得到了强化。总的来说，视觉体验中空间内容的差异被认为是与主体在体验中所代表的物体进行“多重同时准备”互动的状态的差异。
 
-泰勒理论的主要问题是普遍困扰行为主义感知理论的问题：它假设对于任何可见的空间属性_G_，都会有一些独特的行为反应集合构成了感知物体具有_G_的本质。正如莫汉·马森（1988）所说，这种假设的问题在于
+泰勒理论的主要问题是普遍困扰行为主义感知理论的问题：它假设对于任何可见的空间属性*G*，都会有一些独特的行为反应集合构成了感知物体具有*G*的本质。正如莫汉·马森（1988）所说，这种假设的问题在于
 
 没有所谓的“正确的”回应，甚至没有一系列功能上适当的回应来回应感知所告诉我们的事物。（第 20 页，另见 Hurley 2001: 17）
 
@@ -391,13 +391,13 @@ Rick Grush（2000 年，2007 年）采用了埃文斯的理论，并试图对其
 
 该理论依赖于行为倾向。Grush（2007 年）认为有两个需要区分的区别：首先，有机体可能具有 i）对给定行动的后果（身体、环境或感官）的知识；或者 ii）对于实现给定期望的最终状态（身体、环境或感官通道）的哪些运动指令的知识（Grush 2007: 408）。我可能能够意识到某人向我展示的一系列动作将使我的国际象棋大师对手被将死（第一类知识，一组动作的后果），但我可能远远不具备足够的技能水平来自己想出那一系列动作（第二类知识，哪些动作将实现期望的效果）。感觉运动连续性理论者倾向于依赖第一类知识，尽管诺埃（2004 年：90）在解释 P 形状的感知把握时与第二类知识有所接触；在他这样做的程度上，他接受了关于 P 形状的倾向理论解释。倾向理论者和大胆准备理论者（[第 3.2.2 节](https://plato.stanford.edu/entries/action-perception/#BoldReadTheo)）依赖第二类知识。这些是倾向理论的倾向：在实现某个目标时，有机体倾向于执行某些动作。
 
-这导致了第二个区别，即_类型指定_和_细节指定_的倾向之间的区别。Grush（2007: 393）认为，只有后者与空间感知直接相关。类型指定的倾向是对某个对象或地点执行某种_类型_行为的倾向。例如，一个有机体可能倾向于抓取、咬、逃跑或凝视某个对象。这种倾向与倾向理论中的经验的空间内容无关。相关的是细节指定的倾向：我如何倾向于执行这些行为类型中的任何一个的具体方式。当我伸手拿杯子喝水（类型）时，我是这样移动我的手（直线向前，比如说），还是像这样（向右）？当我想凝视或朝向（行为类型）爬上墙壁的蚂蚁时，我是像_这样_移动我的头和眼睛，还是像_那样_？
+这导致了第二个区别，即*类型指定*和*细节指定*的倾向之间的区别。Grush（2007: 393）认为，只有后者与空间感知直接相关。类型指定的倾向是对某个对象或地点执行某种*类型*行为的倾向。例如，一个有机体可能倾向于抓取、咬、逃跑或凝视某个对象。这种倾向与倾向理论中的经验的空间内容无关。相关的是细节指定的倾向：我如何倾向于执行这些行为类型中的任何一个的具体方式。当我伸手拿杯子喝水（类型）时，我是这样移动我的手（直线向前，比如说），还是像这样（向右）？当我想凝视或朝向（行为类型）爬上墙壁的蚂蚁时，我是像*这样*移动我的头和眼睛，还是像*那样*？
 
-这后一种区别使得倾向理论能够回答对大胆准备理论的一个主要反对意见（在第 3.2.2 节的末尾描述，链接为[3.2.2](https://plato.stanford.edu/entries/action-perception/#BoldReadTheo)），即没有与感知任何给定对象相关联的单一特殊倾向。这对于类型指定的倾向是正确的，但对于细节指定的倾向则不是。鉴于蚂蚁的位置，确实存在一种非常有限的细节指定的倾向范围，可以让我凝视它（尽管这可能需要对可能行动的限制，如_最小冲击_或其他限制）。
+这后一种区别使得倾向理论能够回答对大胆准备理论的一个主要反对意见（在第 3.2.2 节的末尾描述，链接为[3.2.2](https://plato.stanford.edu/entries/action-perception/#BoldReadTheo)），即没有与感知任何给定对象相关联的单一特殊倾向。这对于类型指定的倾向是正确的，但对于细节指定的倾向则不是。鉴于蚂蚁的位置，确实存在一种非常有限的细节指定的倾向范围，可以让我凝视它（尽管这可能需要对可能行动的限制，如*最小冲击*或其他限制）。
 
-Grush（2007；2009）提出了一个关于神经信息处理的倾向理论的详细实施方案。该提案涉及的数学内容较多，不适合在此进行详细描述（更多细节请参见 Grush 2007；2009）。基本思想是相关的皮层区域学习一组基函数，这些基函数粗略地编码了感觉和姿势信号的组合的等价类（有关讨论，请参见 Pouget _et al._ 2002）。例如，眼睛方向和视网膜刺激位置的许多组合对应于直接在头部前方的视觉刺激。将这种身体姿势信息（不仅仅是眼睛方向，还包括任何影响感觉的姿势信息，大多数情况下）和感觉条件对分成有用的等价类是工作的第一部分。
+Grush（2007；2009）提出了一个关于神经信息处理的倾向理论的详细实施方案。该提案涉及的数学内容较多，不适合在此进行详细描述（更多细节请参见 Grush 2007；2009）。基本思想是相关的皮层区域学习一组基函数，这些基函数粗略地编码了感觉和姿势信号的组合的等价类（有关讨论，请参见 Pouget *et al.* 2002）。例如，眼睛方向和视网膜刺激位置的许多组合对应于直接在头部前方的视觉刺激。将这种身体姿势信息（不仅仅是眼睛方向，还包括任何影响感觉的姿势信息，大多数情况下）和感觉条件对分成有用的等价类是工作的第一部分。
 
-这样做的目的是以一种方式对传入的信息进行编码，使其准备好用于指导行为，因为等价类恰好是适用于特定类型的运动程序的类别。下一部分对应于如何使用所表示的信息来生成这种运动程序的细节。在生物行为库（抓取、接近、避免、凝视、咬等）中的每种_类型_的动作，其运动区域都有一组线性系数，可以轻松地实现为一组神经连接强度，当这些系数应用于一组基函数值时，详细的行为就被指定了。例如，当生物感知到一个物体 O1 时，会产生一组基函数值 B1。如果生物决定执行明显的动作 A1，那么 B1 基函数值将与对应于 A1 的系数相乘。结果是在对象 O1 上执行了一种 A1 类型的行为。如果生物决定执行与 O1 相关的动作 A2，那么 B1 基函数值将与 A2 系数集相乘，结果将是在对象 O1 上执行 A2 的运动行为。
+这样做的目的是以一种方式对传入的信息进行编码，使其准备好用于指导行为，因为等价类恰好是适用于特定类型的运动程序的类别。下一部分对应于如何使用所表示的信息来生成这种运动程序的细节。在生物行为库（抓取、接近、避免、凝视、咬等）中的每种*类型*的动作，其运动区域都有一组线性系数，可以轻松地实现为一组神经连接强度，当这些系数应用于一组基函数值时，详细的行为就被指定了。例如，当生物感知到一个物体 O1 时，会产生一组基函数值 B1。如果生物决定执行明显的动作 A1，那么 B1 基函数值将与对应于 A1 的系数相乘。结果是在对象 O1 上执行了一种 A1 类型的行为。如果生物决定执行与 O1 相关的动作 A2，那么 B1 基函数值将与 A2 系数集相乘，结果将是在对象 O1 上执行 A2 的运动行为。
 
 因此，与苏珊·赫利（Susan Hurley）和阿尔瓦·诺埃（Alva Noë）（见[第 2.3.2 节](https://plato.stanford.edu/entries/action-perception/#ChalEnacAppr)）对感官替代设备发生的情况有着非常不同的解释，处置理论有着不同的解释。根据处置理论，使得使用这种设备的用户能够有空间体验的原因并不是能够预测感官输入在执行动作时如何改变，而是主体的大脑已经学会将这些感官输入与姿势信号结合起来，产生一系列基础功能，使主体能够对引起感官信号的对象采取行动（参见 Grush 2007: 406）。
 
@@ -413,202 +413,202 @@ Grush（2007；2009）提出了一个关于神经信息处理的倾向理论的�
 
 ## Bibliography
 
-* Abbott, T.K., 1864, _Sight and Touch: An Attempt to Disprove the Received (or Berkeleian) Theory of Vision_, London: Longman & Co.
-* Alsmith, A., 2021,“The Structure of Egocentric Space”, In _The World at Our Fingertips: A Multidisciplinary Exploration of Peripersonal Space_, F. de Vignemont, H.Y. Wong, A. Farné and A. Serino (eds.), Oxford: Oxford University Press.
-* Alsmith, A. and F. de Vignemont, 2012, “Embodying the Mind and Representing the Body”, _Review of Philosophy and Psychology_, 3(1): 1–13.
-* Armstrong, D.M., 1960, _Berkeley's theory of vision_, Parkville: Melbourne University Press.
-* Atherton, M., 2005, “Berkeley’s Theory of Vision and Its Reception”, in _The Cambridge Companion to Berkeley_, New York: Cambridge University Press, pp. 94–124.
-* Austin, J.L., 1962, _Sense and Sensibilia_, Oxford: Clarendon.
-* Bach-y-Rita, P., 1972, _Brain Mechanisms in Sensory Substitution_, New York: Academic Press.
-* –––, 2004, “Tactile Sensory Substitution Studies”, _Annals of the New York Academy of Sciences_, 1013: 83–91.
-* Bach-y-Rita, P. and S.W. Kercel, 2003, “Sensory Substitution and the Human–Machine Interface”, _Trends in Cognitive Sciences_, 7(12): 541–546.
-* Bailey, S., 1842, _A Review of Berkeley’s Theory of Vision, Designed to Show the Unsoundness of That Celebrated Speculation_, London: James Ridgway.
-* Bain, A., 1855, _The Senses and the Intellect_, New York: Appleton.
-* –––, 1868, _Mental and Moral Science_, London: Longmans, Green, and Co.
-* Bell, C., 1823, “Idea of a New Anatomy of the Brain”, in _Francois Magendie, Charles Bell and the Course of the Spinal Nerves_, P. Cranefield (ed.), Mt. Kisco, NY: Futura, 1974.
-* Bennett, D. J., 2011, “How the World is Measured Up in Size Experience”, _Philosophy and Phenomenological Research_, 83: 345–365.
-* Bennett, D.J., 2012, “Seeing Shape: Shape Appearances and Shape Constancy”, _British Journal for the Philosophy of Science,_ 63(3): 487–518.
-* Berendzen, J.C., 2023, _Embodied Idealism: Merleau-Ponty's Transcendental Philosophy_, Oxford: Oxford University Press.
-* Berkeley, G., 1709, “An Essay Towards a New Theory of Vision”, in _Berkeley: Philosophical Writings_, D. Clarke (ed.), Cambridge: Cambridge University Press, 2008.
-* –––, 1734, _A Treatise Concerning the Principles of Human Knowledge_, K. Winkler (ed.), Indianapolis: Hackett, 1982.
-* Bermúdez, J.L., 2018, _The Bodily Self_, Cambridge, MA: MIT Press.
-* Block, N., 2005, “Review of _Action in Perception_”, _Journal of Philosophy_, 102: 259–272.
-* –––, 2012, “Discussion of J. Kevin O’Regan’s _Why Red Doesn’t Sound Like a Bell: Understanding the Feel of Consciousness_”, _Review of Philosophy and Psychology_, 3: 89–108.
-* Bridgeman, B., 1981, “Cognitive Factors in Subjective Stabilization of the Visual World”, _Acta Psychologica_, 48: 111–121.
-* –––, 2010, “Space Constancy: The Rise and Fall of Perceptual Compensation”, in _Space and Time in Perception and Action_, pp. 94–108.
-* Bridgeman, B., D. Hendry, and L. Stark, 1975, “Failure to Detect Displacement of the Visual World During Saccadic Eye Movements”, _Vision Res_, 15: 719–722.
-* Bridgeman, B. and L. Stark, 1991, “Ocular Proprioception and Efference Copy in Registering Visual Direction”, _Vision Res_, 31: 1903–1913.
-* Bridgeman B, A.H.C. van der Heijden, and B. Velichkovsky, 1994, “A Theory of Visual Stability Across Saccadic Eye Movements”, _Behavioral and Brain Sciences_, 17: 247–292.
-* Briscoe, R., 2008, “Vision, Action, and Make-Perceive”, _Mind and Language_, 23: 457–497.
-* –––, 2009, “Egocentric Spatial Representation in Action and Perception”, _Philosophy and Phenomenological Research_, 79: 423–460.
-* –––, 2014, “Spatial Content and Motoric Significance”, _Avant_ 2 (_Enactivism: Arguments and Applications_): 199–216.
-* –––, 2016. “Multisensory Processing and Perceptual Consciousness: Part I”, _Philosophy Compass_ 11(2): 121–133
-* –––, 2019, “Bodily Action and Distal Attribution in Sensory Substitution”, in _Sensory Substitution and Augmentation_, F. Macpherson (ed.), Oxford University Press, Proceedings of the British Academy Series, pp. 173–186.
-* –––, 2021. “Bodily Awareness and Novel Types of Multisensory Features”, in _Between Vision and Action_, a special issue of _Synthese_, 198, 3913–3941, edited by G. Ferretti and S. Zipoli Caiani.
-* Briscoe, R. and J. Schwenkler, 2015, “Conscious Vision in Action”, _Cognitive Science_ 39: 1435–1467.
-* Broad, C.D., 1923, _Scientific Thought_, C.K. Ogden (ed.), New York: Harcourt, Brace.
-* Bruce, V., P. Greene, and M. Georgeson, 2003, _Visual Perception: Physiology, Psychology and Ecology_, London: Psychology Press, 4th edition.
-* Brune, F. and C.H. Lücking, 1969, “_Okulomotorik, Bewegungswahrnehmung and Raumkonstanz der Sehdinge_”, _Der Nervenarzt_, 40: 692–700.
-* Burge, J., & Burge, T., 2022, “Shape, Perspective, and What Is and Is Not Perceived: Comment on Morales, Bax, and Firestone (2020)”, _Psychological Review_. Advance online publication. doi:10.1037/rev0000363
-* Chemero, A. 2011, _Radical Embodied Cognitive Science_, Cambridge, MA: MIT Press.
-* Cheng, T., Lin, Y. and Wu, C.W., 2022. “Perspectival Shapes are Viewpoint-dependent Relational Properties”, _Psychological Review_. Advance online publication. doi:10.1037/rev0000404
-* Clark, A., 2009, _Supersizing the Mind_, Oxford: Oxford University Press.
-* Colby, C.L., J. Duhamel, and M.E. Goldberg, 1995, “Oculocentric Spatial Representation in Parietal Cortex”, _Cerebral Cortex_, 5: 470–481.
-* Colby, C.L. and M.E. Goldberg, 1992, “The Updating of the Representation of Visual Space in Parietal Cortex by Intended Eye Movements”, _Science_, 255(5040): 90–92.
-* Condillac, E., 1746, _Essay on the Origin of Human Knowledge_, H. Aarsleff (ed.), Cambridge: Cambridge University Press, 2001.
-* –––, 1754, _Treatise on the Sensations_, G. Carr (trans.), London: Favil, 1930.
-* Coren, S., 1986, “An Efferent Component in the Visual Perception of Direction and Extent”, _Psychological Review_, 93(4): 391–410.
-* Coren, S. and P. Hoenig, 1972, “Effect of Non-Target Stimuli upon the Length of Voluntary Saccades”, _Perceptual and Motor_ Skills, 34: 499–508.
-* Creem‐Regehr, S.H. and Kunz, B.R., 2010. “Perception and Action”; _Wiley Interdisciplinary Reviews: Cognitive Science_, 1(6): 800–810.
-* Cutting, J.E. and P.M. Vishton, 1995, “Perceiving Layout and Knowing Distances”, in _Perception of Space and Motion_, W. Epstein and S. Rogers (eds.), San Diego, CA: Academic Press, pp. 69–117.
-* Deubel, H., 2004, “Localization of Targets Across Saccades: Role of Landmark Objects”, _Visual Cognition_, 11(2–3): 173–202.
-* Deubel, H., W.X. Schneider, and B. Bridgeman, 2002, “Transsaccadic Memory of Position and Form”, _Progress in Brain Research_, 140: 165–180.
-* Dewey, J., 1891, _Psychology_, New York: American Book Company.
-* Drayson, Z., 2017, “What is Action-oriented Perception?”, _Logic, Methodology and Philosophy of Science: Proceedings of the 15th International Congress_, pp. 1–14.
-* Duhamel, J., C. Colby, and M. E. Goldberg, 1992, “The Updating of the Representation of Visual Space in Parietal Cortex by Intended Eye Movements”, _Science_, 255: 90–92.
-* Ebenholtz, S., 2002, _Oculomotor Systems and Perception_, Cambridge: Cambridge University Press.
-* Emmert, E., 1881, “_Größenverhältnisse der Nachbilder_”, _Klinische Monatsblätter für Augenheilkunde und für augenärztliche Fortbildung_, 19: 443–450.
-* Epstein, W., 1967, _Varieties of Perceptual Learning_, New York: McGraw Hill.
-* Epstein, W., B. Hughes, S.L. Schneider, and P. Bach-y-Rita, 1986, “Is There Anything Out There? A Study of Distal Attribution in Response to Vibrotactile Stimulation”, _Perception_, 15: 275–284
-* Ernst, M., 2012, “Optimal Multisensory Integration: Assumptions and Limits”, in _The New Handbook of Multisensory Processing_, B. Stein, (ed.), Cambridge, MA: MIT Press, pp. 527–544.
-* Evans, G., 1982, _The Varieties of Reference_, Oxford: Oxford University Press.
-* –––, 1985, “Molyneux’s Question”, in _The Collected Papers of Gareth Evans_, A. Phillips (ed.), London: Oxford University Press.
-* Falkenstein, L., 1994, “Intuition and Construction in Berkeley's Account of Visual Space”, _Journal of the History of Philosophy_, 32(1): 63–84.
-* Ferretti, G., 2021, “Visual Phenomenology Versus Visuomotor Imagery: How Can We be Aware of Action Properties?”, _Synthese_, 198, 3309–3338.
-* Festinger, L., C.A. Burnham, H. Ono, and D. Bamber, 1967, “Efference and the Conscious Experience of Perception”, _Journal of Experimental Psychology Monographs_, 74(4, Pt 2): 1–36.
-* Findlay, J.M., 1982, “Global Visual Processing for Saccadic Eye Movements”, _Vision Research_, 22(8): 1033–1045.
-* Firestone, C., 2013, “How ‘Paternalistic’ is Spatial Perception? Why Wearing a Heavy Backpack Doesn’t—and Couldn’t—Make Hills Look Steeper”, _Perspectives on Psychological science_, 8(4): 455–473.
-* Fischer, E., H.H. Bülthoff, N.K. Logothetis, and A. Bartels, 2012, “Human Areas V3A and V6 Compensate for Self-Induced Planar Visual Motion”, _Neuron_, 73(6): 1228–1240.
-* Fishkin, S., 1969, “Passive vs. Active Exposure and Other Variables Related to the Occurrence of Hand Adaptation to Lateral Displacement”, _Perceptual and Motor Skills_, 29: 291–297.
-* Frith, C.D. and D.M. Wolpert, 2000, “Abnormalities in the Awareness and Control of Action”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 355(1404): 1771–1788.
-* Furman, M. and M. Gur, 2012, “And Yet it Moves: Perceptual Illusions and Neural Mechanisms of Pursuit Compensation During Smooth Pursuit Eye Movements”, _Neuroscience & Biobehavioral Reviews_, 36(1): 143–151.
-* Gangopadhyay, N., M. Madary, and F. Spicer, 2010, _Perception, Action, and Consciousness: Sensorimotor Dynamics and Two Visual Systems_, Oxford: Oxford University Press.
-* Ganz, L., 1975, “Orientation in Visual Space by Neonates and its Modification by Visual Deprivation”, in _The Developmental Neuropsychology of Sensory Deprivation_, A. Riesen (ed.), New York: Academic Press, pp. 169–210.
-* Gibson, J.J., 1933, “Adaptation, After-Effect and Contrast in the Perception of Curved Lines”, _Journal of Experimental Psychology_, 16(1): 1–31.
-* –––, 1966, _The Senses Considered as Perceptual Systems_, Boston, MA: Houghton Mifflin.
-* –––, 1979, _The Ecological Approach to Visual Perception_, Boston, MA: Houghton Mifflin.
-* Goodale, M.A. and A.D. Milner, 2004, _Sight Unseen: An Exploration of Conscious and Unconscious Vision_, Oxford: Oxford University Press.
-* Green, E.J., 2022, “The Puzzle of Cross‐modal Shape Experience.” _Noûs_, 56(4): 867–896.
-* Green, E.J. and Schellenberg, S., 2018, “Spatial Perception: The Perspectival Aspect of Perception.” _Philosophy Compass_, 13(2), p.e12472.
-* Grush, R., 2000, “Self, World and Space: The Meaning and Mechanisms of Ego- and Allocentric Spatial Representation”, _Brain and Mind_, 1: 59–92.
-* –––, 2007, “Skill Theory v2.0: Dispositions, Emulation, and Spatial Perception”, _Synthese_, 159: 389–416.
-* –––, 2009, “Space, time, and objects”, _The Oxford Handbook of Philosophy and Neuroscience_, John Bickle(ed), New York, NY: Oxford University Press, pp. 311–345.
-* Grush, R., and Springle, A. 2019, “Agency, Perception, Space, and Subjectivity”, _Phenomenology and the Cognitive Sciences_, 18(5), 799–818.
-* Haarmeier, T., Thier, P., Repnow, M. and D. Petersen, 1997, “False Perception of Motion in a Patient Who Cannot Compensate for Eye Movements”, _Nature_, 389: 849–851.
-* Harris, C.S., 1965, “Perceptual Adaptation to Inverted, Reversed, and Displaced Vision”, _Psychological Review_, 72(6): 419–444.
-* –––, 1980, “Insight or Out of Sight? Two Examples of Perceptual Plasticity in the Human Adult”, _Visual Coding and Adaptability_, C.S. Harris (ed.), pp. 95–149.
-* Hatfield, G.C., 1990, _The Natural and the Normative: Theories of Spatial Perception from Kant to Helmholtz_, Cambridge, MA: MIT Press.
-* Hatfield, G.C. and W. Epstein, 1979, “The Sensory Core and the Medieval Foundations of Early Modern Perceptual Theory”, _Isis_, 70(3): 363–384.
-* Hay, J.C., H.L. Pick, Jr., and K. Ikeda, 1965, “Visual Capture Produced by Prism Spectacles”, _Psychonomic Science_, 2: 215–216.
-* Hein, A. and R. Held, 1962, “A Neural Model for Labile Sensorimotor Coordinations”, in _Biological Prototypes and Synthetic Systems_ (Volume 1), E. Bernard and M. Kare (eds.), New York: Plenum Press, pp. 71–74.
-* Held, R., 1961, “Exposure-History as a Factor in Maintaining Stability of Perception and Coordination”, _The Journal of Nervous and Mental Disease_, 132(1): 26–32.
-* –––, 1965, “Plasticity in Sensory-Motor Systems”, _Scientific American_, 213: 84–94.
-* Held, R. and J. Bossom, 1961, “Neonatal Deprivation and Adult Rearrangement: Complementary Techniques for Analyzing Plastic Sensory-Motor Coordinations”, _Journal of Comparative and Physiological Psychology_, 54(1): 33–37.
-* Held, R. and A. Hein, 1958, “Adaptation of Disarranged Hand-Eye Coordination Contingent upon Re-Afferent Stimulation”, _Perceptual and Motor Skills_, 8: 87–90.
-* –––, 1963, “Movement-Produced Stimulation in the Development of Visually Guided Behavior”, _Journal of Comparative and Physiological Psychology_, 56: 872–876.
-* Helmholtz, H, 2005 \[1924], _Treatise on Physiological Optics_ (Volume 3), New York: Dover.
-* Hering, E., 1861, _Beiträge zur Physiologie_ (Volume 1), Leipzig: Engelman. (Reissued with an introduction by B. Bridgeman, Berlin: Springer, 1990).
-* Hickerson, R., 2007, “Perception as Knowing How to Act: Alva Noë’s _Action In Perception_”, _Philosophical Psychology_, 20(4): 505–517.
-* Hill, C., 2022, _Perceptual Experience._ Oxford: Oxford University Press.
-* von Holst, E., 1954, “Relations Between the Central Nervous System and the Peripheral Organs”, _The British Journal of Animal Behaviour_, 2(3): 89–94.
-* von Holst, E. and H. Mittelstädt, 1950, “_Das Reafferenzprinzip, Wechselwirkungen zwischen Zerntalnervensystem und Peripherie_”, _Naturwissenschaften_, 27: 464–476.
-* Hopp, W., 2013, “No Such Look: Problems with the Dual Content Theory”, _Phenomenology and the Cognitive Sciences_, 12(4): 813–833.
-* Howard, I.P., B. Craske, and W.B. Templeton, 1965, “Visuomotor Adaptation to Discordant Exafferent Stimulation”, _Journal of Experimental Psychology_, 70(2): 189–191.
-* Howard, I.P. and W.B. Templeton, 1966, _Human Spatial Orientation_, New York: Wiley.
-* Hurley, S.L., 1998, _Consciousness in Action_, Cambridge, MA: Harvard University Press.
-* Hurley, S.L. and A. Noë, 2003, “Neural Plasticity and Consciousness”, _Biology and Philosophy_, 18: 131–168.
-* Hutto, D. D., and Myin, E., 2017. _Evolving enactivism: Basic Minds Meet Content_. Cambridge, MA: MIT Press.
-* Jeannerod, M., 2006, _Motor Cognition: What Actions Tell the Self_, Oxford: Oxford University Press.
-* Jékely, G., Godfrey-Smith, P., and Keijzer, F., 2021, “Reafference and the Origin of the Self in Early Nervous System Evolution”, _Phil. Trans. R. Soc. B_ 376: 20190764.
+* Abbott, T.K., 1864, *Sight and Touch: An Attempt to Disprove the Received (or Berkeleian) Theory of Vision*, London: Longman & Co.
+* Alsmith, A., 2021,“The Structure of Egocentric Space”, In *The World at Our Fingertips: A Multidisciplinary Exploration of Peripersonal Space*, F. de Vignemont, H.Y. Wong, A. Farné and A. Serino (eds.), Oxford: Oxford University Press.
+* Alsmith, A. and F. de Vignemont, 2012, “Embodying the Mind and Representing the Body”, *Review of Philosophy and Psychology*, 3(1): 1–13.
+* Armstrong, D.M., 1960, *Berkeley's theory of vision*, Parkville: Melbourne University Press.
+* Atherton, M., 2005, “Berkeley’s Theory of Vision and Its Reception”, in *The Cambridge Companion to Berkeley*, New York: Cambridge University Press, pp. 94–124.
+* Austin, J.L., 1962, *Sense and Sensibilia*, Oxford: Clarendon.
+* Bach-y-Rita, P., 1972, *Brain Mechanisms in Sensory Substitution*, New York: Academic Press.
+* –––, 2004, “Tactile Sensory Substitution Studies”, *Annals of the New York Academy of Sciences*, 1013: 83–91.
+* Bach-y-Rita, P. and S.W. Kercel, 2003, “Sensory Substitution and the Human–Machine Interface”, *Trends in Cognitive Sciences*, 7(12): 541–546.
+* Bailey, S., 1842, *A Review of Berkeley’s Theory of Vision, Designed to Show the Unsoundness of That Celebrated Speculation*, London: James Ridgway.
+* Bain, A., 1855, *The Senses and the Intellect*, New York: Appleton.
+* –––, 1868, *Mental and Moral Science*, London: Longmans, Green, and Co.
+* Bell, C., 1823, “Idea of a New Anatomy of the Brain”, in *Francois Magendie, Charles Bell and the Course of the Spinal Nerves*, P. Cranefield (ed.), Mt. Kisco, NY: Futura, 1974.
+* Bennett, D. J., 2011, “How the World is Measured Up in Size Experience”, *Philosophy and Phenomenological Research*, 83: 345–365.
+* Bennett, D.J., 2012, “Seeing Shape: Shape Appearances and Shape Constancy”, *British Journal for the Philosophy of Science,* 63(3): 487–518.
+* Berendzen, J.C., 2023, *Embodied Idealism: Merleau-Ponty's Transcendental Philosophy*, Oxford: Oxford University Press.
+* Berkeley, G., 1709, “An Essay Towards a New Theory of Vision”, in *Berkeley: Philosophical Writings*, D. Clarke (ed.), Cambridge: Cambridge University Press, 2008.
+* –––, 1734, *A Treatise Concerning the Principles of Human Knowledge*, K. Winkler (ed.), Indianapolis: Hackett, 1982.
+* Bermúdez, J.L., 2018, *The Bodily Self*, Cambridge, MA: MIT Press.
+* Block, N., 2005, “Review of *Action in Perception*”, *Journal of Philosophy*, 102: 259–272.
+* –––, 2012, “Discussion of J. Kevin O’Regan’s *Why Red Doesn’t Sound Like a Bell: Understanding the Feel of Consciousness*”, *Review of Philosophy and Psychology*, 3: 89–108.
+* Bridgeman, B., 1981, “Cognitive Factors in Subjective Stabilization of the Visual World”, *Acta Psychologica*, 48: 111–121.
+* –––, 2010, “Space Constancy: The Rise and Fall of Perceptual Compensation”, in *Space and Time in Perception and Action*, pp. 94–108.
+* Bridgeman, B., D. Hendry, and L. Stark, 1975, “Failure to Detect Displacement of the Visual World During Saccadic Eye Movements”, *Vision Res*, 15: 719–722.
+* Bridgeman, B. and L. Stark, 1991, “Ocular Proprioception and Efference Copy in Registering Visual Direction”, *Vision Res*, 31: 1903–1913.
+* Bridgeman B, A.H.C. van der Heijden, and B. Velichkovsky, 1994, “A Theory of Visual Stability Across Saccadic Eye Movements”, *Behavioral and Brain Sciences*, 17: 247–292.
+* Briscoe, R., 2008, “Vision, Action, and Make-Perceive”, *Mind and Language*, 23: 457–497.
+* –––, 2009, “Egocentric Spatial Representation in Action and Perception”, *Philosophy and Phenomenological Research*, 79: 423–460.
+* –––, 2014, “Spatial Content and Motoric Significance”, *Avant* 2 (*Enactivism: Arguments and Applications*): 199–216.
+* –––, 2016. “Multisensory Processing and Perceptual Consciousness: Part I”, *Philosophy Compass* 11(2): 121–133
+* –––, 2019, “Bodily Action and Distal Attribution in Sensory Substitution”, in *Sensory Substitution and Augmentation*, F. Macpherson (ed.), Oxford University Press, Proceedings of the British Academy Series, pp. 173–186.
+* –––, 2021. “Bodily Awareness and Novel Types of Multisensory Features”, in *Between Vision and Action*, a special issue of *Synthese*, 198, 3913–3941, edited by G. Ferretti and S. Zipoli Caiani.
+* Briscoe, R. and J. Schwenkler, 2015, “Conscious Vision in Action”, *Cognitive Science* 39: 1435–1467.
+* Broad, C.D., 1923, *Scientific Thought*, C.K. Ogden (ed.), New York: Harcourt, Brace.
+* Bruce, V., P. Greene, and M. Georgeson, 2003, *Visual Perception: Physiology, Psychology and Ecology*, London: Psychology Press, 4th edition.
+* Brune, F. and C.H. Lücking, 1969, “*Okulomotorik, Bewegungswahrnehmung and Raumkonstanz der Sehdinge*”, *Der Nervenarzt*, 40: 692–700.
+* Burge, J., & Burge, T., 2022, “Shape, Perspective, and What Is and Is Not Perceived: Comment on Morales, Bax, and Firestone (2020)”, *Psychological Review*. Advance online publication. doi:10.1037/rev0000363
+* Chemero, A. 2011, *Radical Embodied Cognitive Science*, Cambridge, MA: MIT Press.
+* Cheng, T., Lin, Y. and Wu, C.W., 2022. “Perspectival Shapes are Viewpoint-dependent Relational Properties”, *Psychological Review*. Advance online publication. doi:10.1037/rev0000404
+* Clark, A., 2009, *Supersizing the Mind*, Oxford: Oxford University Press.
+* Colby, C.L., J. Duhamel, and M.E. Goldberg, 1995, “Oculocentric Spatial Representation in Parietal Cortex”, *Cerebral Cortex*, 5: 470–481.
+* Colby, C.L. and M.E. Goldberg, 1992, “The Updating of the Representation of Visual Space in Parietal Cortex by Intended Eye Movements”, *Science*, 255(5040): 90–92.
+* Condillac, E., 1746, *Essay on the Origin of Human Knowledge*, H. Aarsleff (ed.), Cambridge: Cambridge University Press, 2001.
+* –––, 1754, *Treatise on the Sensations*, G. Carr (trans.), London: Favil, 1930.
+* Coren, S., 1986, “An Efferent Component in the Visual Perception of Direction and Extent”, *Psychological Review*, 93(4): 391–410.
+* Coren, S. and P. Hoenig, 1972, “Effect of Non-Target Stimuli upon the Length of Voluntary Saccades”, *Perceptual and Motor* Skills, 34: 499–508.
+* Creem‐Regehr, S.H. and Kunz, B.R., 2010. “Perception and Action”; *Wiley Interdisciplinary Reviews: Cognitive Science*, 1(6): 800–810.
+* Cutting, J.E. and P.M. Vishton, 1995, “Perceiving Layout and Knowing Distances”, in *Perception of Space and Motion*, W. Epstein and S. Rogers (eds.), San Diego, CA: Academic Press, pp. 69–117.
+* Deubel, H., 2004, “Localization of Targets Across Saccades: Role of Landmark Objects”, *Visual Cognition*, 11(2–3): 173–202.
+* Deubel, H., W.X. Schneider, and B. Bridgeman, 2002, “Transsaccadic Memory of Position and Form”, *Progress in Brain Research*, 140: 165–180.
+* Dewey, J., 1891, *Psychology*, New York: American Book Company.
+* Drayson, Z., 2017, “What is Action-oriented Perception?”, *Logic, Methodology and Philosophy of Science: Proceedings of the 15th International Congress*, pp. 1–14.
+* Duhamel, J., C. Colby, and M. E. Goldberg, 1992, “The Updating of the Representation of Visual Space in Parietal Cortex by Intended Eye Movements”, *Science*, 255: 90–92.
+* Ebenholtz, S., 2002, *Oculomotor Systems and Perception*, Cambridge: Cambridge University Press.
+* Emmert, E., 1881, “*Größenverhältnisse der Nachbilder*”, *Klinische Monatsblätter für Augenheilkunde und für augenärztliche Fortbildung*, 19: 443–450.
+* Epstein, W., 1967, *Varieties of Perceptual Learning*, New York: McGraw Hill.
+* Epstein, W., B. Hughes, S.L. Schneider, and P. Bach-y-Rita, 1986, “Is There Anything Out There? A Study of Distal Attribution in Response to Vibrotactile Stimulation”, *Perception*, 15: 275–284
+* Ernst, M., 2012, “Optimal Multisensory Integration: Assumptions and Limits”, in *The New Handbook of Multisensory Processing*, B. Stein, (ed.), Cambridge, MA: MIT Press, pp. 527–544.
+* Evans, G., 1982, *The Varieties of Reference*, Oxford: Oxford University Press.
+* –––, 1985, “Molyneux’s Question”, in *The Collected Papers of Gareth Evans*, A. Phillips (ed.), London: Oxford University Press.
+* Falkenstein, L., 1994, “Intuition and Construction in Berkeley's Account of Visual Space”, *Journal of the History of Philosophy*, 32(1): 63–84.
+* Ferretti, G., 2021, “Visual Phenomenology Versus Visuomotor Imagery: How Can We be Aware of Action Properties?”, *Synthese*, 198, 3309–3338.
+* Festinger, L., C.A. Burnham, H. Ono, and D. Bamber, 1967, “Efference and the Conscious Experience of Perception”, *Journal of Experimental Psychology Monographs*, 74(4, Pt 2): 1–36.
+* Findlay, J.M., 1982, “Global Visual Processing for Saccadic Eye Movements”, *Vision Research*, 22(8): 1033–1045.
+* Firestone, C., 2013, “How ‘Paternalistic’ is Spatial Perception? Why Wearing a Heavy Backpack Doesn’t—and Couldn’t—Make Hills Look Steeper”, *Perspectives on Psychological science*, 8(4): 455–473.
+* Fischer, E., H.H. Bülthoff, N.K. Logothetis, and A. Bartels, 2012, “Human Areas V3A and V6 Compensate for Self-Induced Planar Visual Motion”, *Neuron*, 73(6): 1228–1240.
+* Fishkin, S., 1969, “Passive vs. Active Exposure and Other Variables Related to the Occurrence of Hand Adaptation to Lateral Displacement”, *Perceptual and Motor Skills*, 29: 291–297.
+* Frith, C.D. and D.M. Wolpert, 2000, “Abnormalities in the Awareness and Control of Action”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 355(1404): 1771–1788.
+* Furman, M. and M. Gur, 2012, “And Yet it Moves: Perceptual Illusions and Neural Mechanisms of Pursuit Compensation During Smooth Pursuit Eye Movements”, *Neuroscience & Biobehavioral Reviews*, 36(1): 143–151.
+* Gangopadhyay, N., M. Madary, and F. Spicer, 2010, *Perception, Action, and Consciousness: Sensorimotor Dynamics and Two Visual Systems*, Oxford: Oxford University Press.
+* Ganz, L., 1975, “Orientation in Visual Space by Neonates and its Modification by Visual Deprivation”, in *The Developmental Neuropsychology of Sensory Deprivation*, A. Riesen (ed.), New York: Academic Press, pp. 169–210.
+* Gibson, J.J., 1933, “Adaptation, After-Effect and Contrast in the Perception of Curved Lines”, *Journal of Experimental Psychology*, 16(1): 1–31.
+* –––, 1966, *The Senses Considered as Perceptual Systems*, Boston, MA: Houghton Mifflin.
+* –––, 1979, *The Ecological Approach to Visual Perception*, Boston, MA: Houghton Mifflin.
+* Goodale, M.A. and A.D. Milner, 2004, *Sight Unseen: An Exploration of Conscious and Unconscious Vision*, Oxford: Oxford University Press.
+* Green, E.J., 2022, “The Puzzle of Cross‐modal Shape Experience.” *Noûs*, 56(4): 867–896.
+* Green, E.J. and Schellenberg, S., 2018, “Spatial Perception: The Perspectival Aspect of Perception.” *Philosophy Compass*, 13(2), p.e12472.
+* Grush, R., 2000, “Self, World and Space: The Meaning and Mechanisms of Ego- and Allocentric Spatial Representation”, *Brain and Mind*, 1: 59–92.
+* –––, 2007, “Skill Theory v2.0: Dispositions, Emulation, and Spatial Perception”, *Synthese*, 159: 389–416.
+* –––, 2009, “Space, time, and objects”, *The Oxford Handbook of Philosophy and Neuroscience*, John Bickle(ed), New York, NY: Oxford University Press, pp. 311–345.
+* Grush, R., and Springle, A. 2019, “Agency, Perception, Space, and Subjectivity”, *Phenomenology and the Cognitive Sciences*, 18(5), 799–818.
+* Haarmeier, T., Thier, P., Repnow, M. and D. Petersen, 1997, “False Perception of Motion in a Patient Who Cannot Compensate for Eye Movements”, *Nature*, 389: 849–851.
+* Harris, C.S., 1965, “Perceptual Adaptation to Inverted, Reversed, and Displaced Vision”, *Psychological Review*, 72(6): 419–444.
+* –––, 1980, “Insight or Out of Sight? Two Examples of Perceptual Plasticity in the Human Adult”, *Visual Coding and Adaptability*, C.S. Harris (ed.), pp. 95–149.
+* Hatfield, G.C., 1990, *The Natural and the Normative: Theories of Spatial Perception from Kant to Helmholtz*, Cambridge, MA: MIT Press.
+* Hatfield, G.C. and W. Epstein, 1979, “The Sensory Core and the Medieval Foundations of Early Modern Perceptual Theory”, *Isis*, 70(3): 363–384.
+* Hay, J.C., H.L. Pick, Jr., and K. Ikeda, 1965, “Visual Capture Produced by Prism Spectacles”, *Psychonomic Science*, 2: 215–216.
+* Hein, A. and R. Held, 1962, “A Neural Model for Labile Sensorimotor Coordinations”, in *Biological Prototypes and Synthetic Systems* (Volume 1), E. Bernard and M. Kare (eds.), New York: Plenum Press, pp. 71–74.
+* Held, R., 1961, “Exposure-History as a Factor in Maintaining Stability of Perception and Coordination”, *The Journal of Nervous and Mental Disease*, 132(1): 26–32.
+* –––, 1965, “Plasticity in Sensory-Motor Systems”, *Scientific American*, 213: 84–94.
+* Held, R. and J. Bossom, 1961, “Neonatal Deprivation and Adult Rearrangement: Complementary Techniques for Analyzing Plastic Sensory-Motor Coordinations”, *Journal of Comparative and Physiological Psychology*, 54(1): 33–37.
+* Held, R. and A. Hein, 1958, “Adaptation of Disarranged Hand-Eye Coordination Contingent upon Re-Afferent Stimulation”, *Perceptual and Motor Skills*, 8: 87–90.
+* –––, 1963, “Movement-Produced Stimulation in the Development of Visually Guided Behavior”, *Journal of Comparative and Physiological Psychology*, 56: 872–876.
+* Helmholtz, H, 2005 \[1924], *Treatise on Physiological Optics* (Volume 3), New York: Dover.
+* Hering, E., 1861, *Beiträge zur Physiologie* (Volume 1), Leipzig: Engelman. (Reissued with an introduction by B. Bridgeman, Berlin: Springer, 1990).
+* Hickerson, R., 2007, “Perception as Knowing How to Act: Alva Noë’s *Action In Perception*”, *Philosophical Psychology*, 20(4): 505–517.
+* Hill, C., 2022, *Perceptual Experience.* Oxford: Oxford University Press.
+* von Holst, E., 1954, “Relations Between the Central Nervous System and the Peripheral Organs”, *The British Journal of Animal Behaviour*, 2(3): 89–94.
+* von Holst, E. and H. Mittelstädt, 1950, “*Das Reafferenzprinzip, Wechselwirkungen zwischen Zerntalnervensystem und Peripherie*”, *Naturwissenschaften*, 27: 464–476.
+* Hopp, W., 2013, “No Such Look: Problems with the Dual Content Theory”, *Phenomenology and the Cognitive Sciences*, 12(4): 813–833.
+* Howard, I.P., B. Craske, and W.B. Templeton, 1965, “Visuomotor Adaptation to Discordant Exafferent Stimulation”, *Journal of Experimental Psychology*, 70(2): 189–191.
+* Howard, I.P. and W.B. Templeton, 1966, *Human Spatial Orientation*, New York: Wiley.
+* Hurley, S.L., 1998, *Consciousness in Action*, Cambridge, MA: Harvard University Press.
+* Hurley, S.L. and A. Noë, 2003, “Neural Plasticity and Consciousness”, *Biology and Philosophy*, 18: 131–168.
+* Hutto, D. D., and Myin, E., 2017. *Evolving enactivism: Basic Minds Meet Content*. Cambridge, MA: MIT Press.
+* Jeannerod, M., 2006, *Motor Cognition: What Actions Tell the Self*, Oxford: Oxford University Press.
+* Jékely, G., Godfrey-Smith, P., and Keijzer, F., 2021, “Reafference and the Origin of the Self in Early Nervous System Evolution”, *Phil. Trans. R. Soc. B* 376: 20190764.
 * Kiverstein, J., 2010, “Sensorimotor Knowledge and the Contents of Experience”, in Gangopadhyay et al. 2010: 257–274.
-* Kravitz, J. and H. Wallach, 1966, “Adaptation to Displaced Vision Contingent upon Vibrating Stimulation”, _Psychonomic Science_, 6: 465–466.
-* Kuhn, T.S., 2012 \[1962], _The Structure of Scientific Revolutions_, Chicago: University of Chicago Press.
-* Lande, K., 2018, “The Perspectival Character of Perception”, _The Journal of Philosophy_, 115(4): 187–214.
-* Lhermitte, F., 1983, “Utilization Behaviour and its Relation to Lesions of the Frontal Lobes”, _Brain_, 106(2): 237–255.
-* Linton, P., 2021, “Conflicting Shape Percepts Explained by Perception Cognition Distinction”, _Proceedings of the National Academy of Sciences of the United States of America_, 118(10), Article e2024195118.
-* Locke, J., 1690, _An Essay Concerning Human Understanding_, P. Nidditch (ed.), New York: Oxford University Press, 1979.
-* Loomis, J.M., 1992, “Distal Attribution and Presence”, _Presence: Teleoperators and Virtual Environments_, 1(1): 113–119.
-* Lotze, H., 1887 \[1879], _Metaphysics, in Three Books: Ontology, Cosmology, and Psychology_ (Volume 2), B. Bosanquet (trans.), Oxford: Clarendon.
-* Mach, E., 1897 \[1886], _Contributions to the Analysis of the Sensations_, C.M. Williams (trans.), Chicago: Open Court, 1897.
-* Mack, A., 1979, “Non-Visual Determinants of Perception”, _Behavioral and Brain Sciences_, 2(1): 75–76.
-* MacKay, D.M., 1973, “Visual Stability and Voluntary Eye Movements”, in _Central Processing of Visual Information A: Integrative Functions and Comparative Data_, Berlin: Springer, pp. 307–331.
-* Mandik, P., 2005, “Action-Oriented Representation”, in _Cognition and the Brain: The Philosophy and Neuroscience Movement_, K. Akins and A. Brook (eds.), Cambridge: Cambridge University Press.
-* Mandrigin, A., 2021, “The Where of Bodily Awareness”, _Synthese_, 198(3): 1887–1903.
-* Mather, J. and J. Lackner, 1975, “Adaptation to Visual Rearrangement Elicited by Tonic Vibration Reflexes”, _Experimental Brain Research_, 24: 103–105.
-* Matthen, M., 1988, “Biological Functions and Perceptual Content”, _Journal of Philosophy_, 85: 5–27.
-* McLaughlin, B.P., 2016. “The Skewed View from Here: Normal Geometrical Misperception”, _Philosophical Topics_, 44(2): 231–299.
-* Melamed, L., M. Halay, and J. Gildow, 1973, “Effect of External Target Presence on Visual Adaptation with Active and Passive Movement”, _Journal of Experimental Psychology_, 98: 125–130.
-* Merriam, E.P. and C. Colby, 2005, “Active Vision in Parietal and Extrastriate Cortex”, _The Neuroscientist_, 11: 484–493.
-* Merriam, E.P., C.R. Genovese, and C.L. Colby, 2007, “Remapping in Human Visual Cortex”, _Journal of Neurophysiology_, 97(2): 1738–1755.
-* Mill, J.S., 1842, “Bailey on Berkeley’s Theory of Vision”, _Westminster Review_, 38: 318–336.
-* –––, 1843, “Rejoinder to Mr. Bailey’s Reply”, _Westminster Review_, 39: 491–494.
-* Miller, J. and L. Festinger, 1977, “Impact of Oculomotor Retraining on the Visual Perception of Curvature”, _Journal of Experimental Psychology: Human Perception and Performance_, 3(2): 187–200.
-* Milner, A.D. and M.A. Goodale, 1995, _The Visual Brain in Action_, Oxford: Oxford University Press, 2nd edition, 2006.
-* –––, 2008, “Two Visual Systems Re-viewed”, _Neuropsychologia_, 46: 774–785.
-* Mittelstädt, H., 1971, _Reafferenzprinzip—Apologie und Kritik_, in _Vorträge der Erlanger Physiologentagung_, Berlin: Springer, pp. 161–171.
-* Mon-Williams, M., J.R. Tresilian, A. Plooy, J.P. Wann, and J. Broerse, 1997, “Looking at the Task in Hand: Vergence Eye Movements and Perceived Size”, _Experimental Brain Research_, 117(3): 501–506.
-* Morales, J., Bax, A. and Firestone, C., 2020, “Sustained Representation of Perspectival Shape”, _Proceedings of the National Academy of Sciences_, 117(26): 14873–14882.
-* Morales, J. and Firestone, C., 2023. “Empirical Evidence for Perspectival Similarity”, _Psychological Review_. Advance online publication. doi:10.1037/rev0000403
-* Moulden, B., 1971, “Adaptation to Displaced Vision: Reafference is a Special Case of the Cue-Discrepancy Hypothesis”, _The Quarterly Journal of Experimental Psychology_, 23: 113–117.
-* Nakamura, K. and C. Colby, 2002, “Updating of the Visual Representation in Monkey Striate and Extrastriate Cortex during Saccades”, _Proceedings of the National Academy of Sciences_, 99(6): 4026–4031.
-* Nanay, B., 2013, _Between Perception and Action,_ Oxford: Oxford University Press.
-* Nave, K., Deane, G., Miller, M. and Clark, A., 2022. “Expecting Some Action: Predictive Processing and the Construction of Conscious Experience”, _Review of Philosophy and Psychology_, pp.1–19.
-* Noë, A., 2004, _Action in Perception_, Cambridge, MA: MIT Press.
-* –––, 2005, “Real Presence”, _Philosophical Topics_, 33: 235–264.
-* –––, 2009, _Out of our Heads_, New York: Hill and Wang.
+* Kravitz, J. and H. Wallach, 1966, “Adaptation to Displaced Vision Contingent upon Vibrating Stimulation”, *Psychonomic Science*, 6: 465–466.
+* Kuhn, T.S., 2012 \[1962], *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press.
+* Lande, K., 2018, “The Perspectival Character of Perception”, *The Journal of Philosophy*, 115(4): 187–214.
+* Lhermitte, F., 1983, “Utilization Behaviour and its Relation to Lesions of the Frontal Lobes”, *Brain*, 106(2): 237–255.
+* Linton, P., 2021, “Conflicting Shape Percepts Explained by Perception Cognition Distinction”, *Proceedings of the National Academy of Sciences of the United States of America*, 118(10), Article e2024195118.
+* Locke, J., 1690, *An Essay Concerning Human Understanding*, P. Nidditch (ed.), New York: Oxford University Press, 1979.
+* Loomis, J.M., 1992, “Distal Attribution and Presence”, *Presence: Teleoperators and Virtual Environments*, 1(1): 113–119.
+* Lotze, H., 1887 \[1879], *Metaphysics, in Three Books: Ontology, Cosmology, and Psychology* (Volume 2), B. Bosanquet (trans.), Oxford: Clarendon.
+* Mach, E., 1897 \[1886], *Contributions to the Analysis of the Sensations*, C.M. Williams (trans.), Chicago: Open Court, 1897.
+* Mack, A., 1979, “Non-Visual Determinants of Perception”, *Behavioral and Brain Sciences*, 2(1): 75–76.
+* MacKay, D.M., 1973, “Visual Stability and Voluntary Eye Movements”, in *Central Processing of Visual Information A: Integrative Functions and Comparative Data*, Berlin: Springer, pp. 307–331.
+* Mandik, P., 2005, “Action-Oriented Representation”, in *Cognition and the Brain: The Philosophy and Neuroscience Movement*, K. Akins and A. Brook (eds.), Cambridge: Cambridge University Press.
+* Mandrigin, A., 2021, “The Where of Bodily Awareness”, *Synthese*, 198(3): 1887–1903.
+* Mather, J. and J. Lackner, 1975, “Adaptation to Visual Rearrangement Elicited by Tonic Vibration Reflexes”, *Experimental Brain Research*, 24: 103–105.
+* Matthen, M., 1988, “Biological Functions and Perceptual Content”, *Journal of Philosophy*, 85: 5–27.
+* McLaughlin, B.P., 2016. “The Skewed View from Here: Normal Geometrical Misperception”, *Philosophical Topics*, 44(2): 231–299.
+* Melamed, L., M. Halay, and J. Gildow, 1973, “Effect of External Target Presence on Visual Adaptation with Active and Passive Movement”, *Journal of Experimental Psychology*, 98: 125–130.
+* Merriam, E.P. and C. Colby, 2005, “Active Vision in Parietal and Extrastriate Cortex”, *The Neuroscientist*, 11: 484–493.
+* Merriam, E.P., C.R. Genovese, and C.L. Colby, 2007, “Remapping in Human Visual Cortex”, *Journal of Neurophysiology*, 97(2): 1738–1755.
+* Mill, J.S., 1842, “Bailey on Berkeley’s Theory of Vision”, *Westminster Review*, 38: 318–336.
+* –––, 1843, “Rejoinder to Mr. Bailey’s Reply”, *Westminster Review*, 39: 491–494.
+* Miller, J. and L. Festinger, 1977, “Impact of Oculomotor Retraining on the Visual Perception of Curvature”, *Journal of Experimental Psychology: Human Perception and Performance*, 3(2): 187–200.
+* Milner, A.D. and M.A. Goodale, 1995, *The Visual Brain in Action*, Oxford: Oxford University Press, 2nd edition, 2006.
+* –––, 2008, “Two Visual Systems Re-viewed”, *Neuropsychologia*, 46: 774–785.
+* Mittelstädt, H., 1971, *Reafferenzprinzip—Apologie und Kritik*, in *Vorträge der Erlanger Physiologentagung*, Berlin: Springer, pp. 161–171.
+* Mon-Williams, M., J.R. Tresilian, A. Plooy, J.P. Wann, and J. Broerse, 1997, “Looking at the Task in Hand: Vergence Eye Movements and Perceived Size”, *Experimental Brain Research*, 117(3): 501–506.
+* Morales, J., Bax, A. and Firestone, C., 2020, “Sustained Representation of Perspectival Shape”, *Proceedings of the National Academy of Sciences*, 117(26): 14873–14882.
+* Morales, J. and Firestone, C., 2023. “Empirical Evidence for Perspectival Similarity”, *Psychological Review*. Advance online publication. doi:10.1037/rev0000403
+* Moulden, B., 1971, “Adaptation to Displaced Vision: Reafference is a Special Case of the Cue-Discrepancy Hypothesis”, *The Quarterly Journal of Experimental Psychology*, 23: 113–117.
+* Nakamura, K. and C. Colby, 2002, “Updating of the Visual Representation in Monkey Striate and Extrastriate Cortex during Saccades”, *Proceedings of the National Academy of Sciences*, 99(6): 4026–4031.
+* Nanay, B., 2013, *Between Perception and Action,* Oxford: Oxford University Press.
+* Nave, K., Deane, G., Miller, M. and Clark, A., 2022. “Expecting Some Action: Predictive Processing and the Construction of Conscious Experience”, *Review of Philosophy and Psychology*, pp.1–19.
+* Noë, A., 2004, *Action in Perception*, Cambridge, MA: MIT Press.
+* –––, 2005, “Real Presence”, *Philosophical Topics*, 33: 235–264.
+* –––, 2009, *Out of our Heads*, New York: Hill and Wang.
 * –––, 2010, “Vision without Representation”, in Gangopadhyay et al. 2010:: 245–256.
-* O’Regan, J.K., 2011, _Why Red Doesn’t Sound Like a Bell: Explaining the Feel of Consciousness_, Oxford: Oxford University Press.
-* O’Regan, J.K. and A. Noë, 2001, “A Sensorimotor Account of Vision and Visual Consciousness”, _Behavioral and Brain Sciences_, 24: 939–973.
-* Palmer, S.E., 1999, _Vision Science: Photons to Phenomenology_, Cambridge, MA: MIT Press.
-* Poincaré, H., 1907, _La Science et L'Hypothése_, Paris: Flammarion.
-* Post, R.B. and H.W. Leibowitz, 1985, “A Revised Analysis of the Role of Efference in Motion Perception”, _Perception_, 14(5): 631–643.
-* Pouget, A., S. Deneve, and J.-R., Duhamel, 2002, “A Computational Perspective on the Neural Basis of Multisensory Spatial Representation”, _Nature Reviews: Neuroscience_, 3: 741–747.
-* Price, H.H., 1950, _Perception_, London: Methuen, 2nd edition.
-* Prinz, J.J., 2006, “Putting the Brakes on Enactive Perception”, _Psyche_, 12: 1–19.
-* –––, 2009, “Is Consciousness Embodied?” in _The Cambridge Handbook of Situated Cognition_, P. Robbins and M. Aydede (eds.), Cambridge: Cambridge University Press, pp. 419–436.
-* Proffitt, D., 2006, “Embodied Perception and the Economy of Action”, _Perspectives on Psychological Science_, 1: 110–122.
-* –––, 2008. “An Action-specific Approach to Spatial Perception”, in _Embodiment, Ego-space, and Action_, R. Klatzky, B. MacWhinney, and M. Berhmann (eds.), Mahwah, NJ: Erlbaum, pp. 179–202.
-* Purkyně, J., 1825, “_Über die Scheinbewegungen, welche im subjectiven Umfang des Gesichtsinnes vorkommen_”, _Bulletin der naturwessenschaftlichen Sektion der Schlesischen Gesellschaft_, 4: 9–10.
-* Reid, T., 1785, _Essays on the Intellectual Powers of Man_, Cambridge, MA: MIT Press, 1969.
-* Rizzolatti, G., 2008, _Mirrors in the Brain_, New York: Oxford University Press.
-* Rock, I., 1966, _The Nature of Perceptual Adaptation_, New York: Basic Books.
-* Rock, I. and C.S. Harris, 1967, “Vision and Touch”, _Scientific American_, 216: 96–107.
-* Russell, B., 1918, “The Philosophy of Logical Atomism”, in _Logic and Knowledge_, London: Allen and Unwin, 1956, pp. 177–281.
-* Sampaio, E., S. Maris, and P. Bach-y-Rita, 2001, “Brain Plasticity: ‘Visual’ Acuity of Blind Persons via the Tongue”, _Brain Research_, 908: 204–207.
-* Schellenberg, S., 2007. “Action and Self-location in Perception.” _Mind_, 116(463): 603–632.
-* –––, 2010. “Perceptual Experience and the Capacity to Act”, in _Perception, Action, and Consciousness: Sensorimotor Dynamics and Two visual Systems_, N. Gangopadhyay, M. Madary, and F. Spicer (eds.), Oxford: Oxford University Press, pp. 145–160.
-* Schwitzgebel, E., 2006, “Do Things Look Flat?” _Philosophy & Phenomenological Research_, 72: 589–599.
-* Shams, L. and R. Kim, 2010, “Crossmodal Influences on Visual Perception”, _Physics of Life Reviews_, 7(3): 269–284.
-* Shebilske, W.L., 1984, “Context Effects and Efferent Factors in Perception and Cognition”, in _Cognition and Motor Processes_, W. Prinz and A.F. Sanders (eds.), Berlin: Springer-Verlag, pp. 99–119.
-* –––, 1987, “An Ecological Efference Mediation Theory of Natural Event Perception”, in _Perspectives on Perception and Actions_, H. Heuer and A.F. Sanders (eds.), Hillsdale, NJ: Erlbaum, pp. 195–213.
-* Sherrington, C.S., 1918, “Observations on the Sensual Role of the Proprioceptive Nerve Supply of the Extrinsic Ocular Muscles”, _Brain_, 41: 332–343.
-* Siegel, S., 2014. “Affordances and the Contents of Perception”, in _Does Perception Have Content?_, Berit Brogaard (ed.), Oxford: Oxford University Press, pp. 39–76.
-* Siegle, J.H. and W.H. Warren, 2010, “Distal Attribution and Distance Perception in Sensory Substitution”, _Perception_, 39(2): 208–223.
-* Simmons, A., 2003, “Spatial Perception from a Cartesian Point of View”, _Philosophical Topics_, 31(1/2): 395–423.
-* Singer, G. and R. Day, 1966, “Spatial Adaptation and Aftereffect with Optically Transformed Vision: Effects of Active and Passive Responding and the Relationship between Test and Exposure Responses”, _Journal of Experimental Psychology_, 71: 725–731.
-* Smith, A., 1811, _The Works of Adam Smith_ (Volume 5), D. Stewart. (ed.), London: T. Cadell and W. Davies.
-* Smith, A.D., 2000, “Space and Sight”, _Mind_, 109: 481–518.
-* Sperry, R.W., 1952, “Neurology and the Mind-Brain Problem”, _American Scientist_, 291–312.
-* Springle, A., & Machamer, P., 2016, “Perceiving and Knowing as Activities” in _Philosophy as the Foundation of Knowledge, Action and Ethos_, J. Kaczmarek, R. Kleszcz (eds.), Lodz: Lodz University Press, pp. 39–54.
-* Stewart, D., 1829, _Elements of the Philosophy of the Human Mind_, in _The Collected Works of Dugald Stewart_ (Volume 2), W. Hamilton (ed.), Westmead, UK: Gregg International Publishers, 1971.
-* Stoneham, T., 2020, “Action, Knowledge and Embodiment in Berkeley and Locke”, _Philosophical Explorations_, 21(1): 41–59.
-* Stratton, G.M., 1896, “Some Preliminary Experiments on Vision without Inversion of the Retinal Image”, _Psychological Review_, 3: 611–617.
-* –––, 1897(a and b), “Vision Without Inversion of the Retinal Image”, _Psychological Review_, 4(4): 341–360 and 4(5)463–481.
-* –––, 1899, “The Spatial Harmony of Touch and Sight”, _Mind_, 8: 492–505.
-* –––, 1907, “Eye-Movements and Visual Direction”, _Psychological Bulletin_, 4: 155–158.
-* Taylor, J.G., 1962, _The Behavioral Basis of Perception_, New Haven, CT: Yale University Press.
-* –––, 1965, “The Behavioral Basis of Perceived Size and Distance”, _Canadian Journal of Psychology_, 19(1): 1–14.
-* –––, 1968, “Perception as a Function of Behaviour”, _Studies in Logic and the Foundations of Mathematics_, 52: 431–436.
-* Templeton, W., I. Howard, and A. Lowman, 1966, “Passively Generated Adaptation to Prismatic Distortion”, _Perceptual and Motor Skills_, 22: 140–142.
-* Thompson, E., 2005, “Sensorimotor Subjectivity and the Enactive Approach to Experience”, _Phenomenology and the Cognitive Sciences_, 4(4): 407–427.
-* Uhlarik, J.J. and L.K. Canon, 1971, “Influence of Concurrent and Terminal Exposure Conditions on the Nature of Perceptual Adaptation”, _Journal of Experimental Psychology_, 91: 233–239.
-* de Vignemont, F., 2021. “A Minimal Sense of Here-ness”, _The Journal of Philosophy_, 118(4): 169–187.
-* de Vignemont, F. and Alsmith, A. eds., 2017, _The Subject’s Matter: Self-Consciousness and the Body_, Cambridge, MA: MIT Press.
-* Vishton, P.M., N.J. Stephens, L.A. Nelson, S.E. Morra, K.L. Brunick, and J.A. Stevens, 2007, “Planning to Reach for an Object Changes How the Reacher Perceives It”, _Psychological Science_, 18: 713–719.
-* Wallach, H., 1968, “Informational Discrepancy as a Basis of Perceptual Adaptation”, in _The Neuropsychology of Spatially Oriented Behaviour_, S. Friedman (ed.), Homewood, IL: Dorsey, pp. 209–230.
-* Ward, D., Roberts, T. and Clark, A., 2011, “Knowing What We Can Do: Actions, Intentions, and the Construction of Phenomenal Experience”, _Synthese_, 181: 375–394.
-* Welch, R., 1978, _Perceptual Modification: Adapting to Altered Sensory Environments_, New York: Academic Press.
-* Wu, W., 2014, “Against Division: Consciousness, Information and the Visual Streams”, _Mind & Language_, 29(4): 383–406.
+* O’Regan, J.K., 2011, *Why Red Doesn’t Sound Like a Bell: Explaining the Feel of Consciousness*, Oxford: Oxford University Press.
+* O’Regan, J.K. and A. Noë, 2001, “A Sensorimotor Account of Vision and Visual Consciousness”, *Behavioral and Brain Sciences*, 24: 939–973.
+* Palmer, S.E., 1999, *Vision Science: Photons to Phenomenology*, Cambridge, MA: MIT Press.
+* Poincaré, H., 1907, *La Science et L'Hypothése*, Paris: Flammarion.
+* Post, R.B. and H.W. Leibowitz, 1985, “A Revised Analysis of the Role of Efference in Motion Perception”, *Perception*, 14(5): 631–643.
+* Pouget, A., S. Deneve, and J.-R., Duhamel, 2002, “A Computational Perspective on the Neural Basis of Multisensory Spatial Representation”, *Nature Reviews: Neuroscience*, 3: 741–747.
+* Price, H.H., 1950, *Perception*, London: Methuen, 2nd edition.
+* Prinz, J.J., 2006, “Putting the Brakes on Enactive Perception”, *Psyche*, 12: 1–19.
+* –––, 2009, “Is Consciousness Embodied?” in *The Cambridge Handbook of Situated Cognition*, P. Robbins and M. Aydede (eds.), Cambridge: Cambridge University Press, pp. 419–436.
+* Proffitt, D., 2006, “Embodied Perception and the Economy of Action”, *Perspectives on Psychological Science*, 1: 110–122.
+* –––, 2008. “An Action-specific Approach to Spatial Perception”, in *Embodiment, Ego-space, and Action*, R. Klatzky, B. MacWhinney, and M. Berhmann (eds.), Mahwah, NJ: Erlbaum, pp. 179–202.
+* Purkyně, J., 1825, “*Über die Scheinbewegungen, welche im subjectiven Umfang des Gesichtsinnes vorkommen*”, *Bulletin der naturwessenschaftlichen Sektion der Schlesischen Gesellschaft*, 4: 9–10.
+* Reid, T., 1785, *Essays on the Intellectual Powers of Man*, Cambridge, MA: MIT Press, 1969.
+* Rizzolatti, G., 2008, *Mirrors in the Brain*, New York: Oxford University Press.
+* Rock, I., 1966, *The Nature of Perceptual Adaptation*, New York: Basic Books.
+* Rock, I. and C.S. Harris, 1967, “Vision and Touch”, *Scientific American*, 216: 96–107.
+* Russell, B., 1918, “The Philosophy of Logical Atomism”, in *Logic and Knowledge*, London: Allen and Unwin, 1956, pp. 177–281.
+* Sampaio, E., S. Maris, and P. Bach-y-Rita, 2001, “Brain Plasticity: ‘Visual’ Acuity of Blind Persons via the Tongue”, *Brain Research*, 908: 204–207.
+* Schellenberg, S., 2007. “Action and Self-location in Perception.” *Mind*, 116(463): 603–632.
+* –––, 2010. “Perceptual Experience and the Capacity to Act”, in *Perception, Action, and Consciousness: Sensorimotor Dynamics and Two visual Systems*, N. Gangopadhyay, M. Madary, and F. Spicer (eds.), Oxford: Oxford University Press, pp. 145–160.
+* Schwitzgebel, E., 2006, “Do Things Look Flat?” *Philosophy & Phenomenological Research*, 72: 589–599.
+* Shams, L. and R. Kim, 2010, “Crossmodal Influences on Visual Perception”, *Physics of Life Reviews*, 7(3): 269–284.
+* Shebilske, W.L., 1984, “Context Effects and Efferent Factors in Perception and Cognition”, in *Cognition and Motor Processes*, W. Prinz and A.F. Sanders (eds.), Berlin: Springer-Verlag, pp. 99–119.
+* –––, 1987, “An Ecological Efference Mediation Theory of Natural Event Perception”, in *Perspectives on Perception and Actions*, H. Heuer and A.F. Sanders (eds.), Hillsdale, NJ: Erlbaum, pp. 195–213.
+* Sherrington, C.S., 1918, “Observations on the Sensual Role of the Proprioceptive Nerve Supply of the Extrinsic Ocular Muscles”, *Brain*, 41: 332–343.
+* Siegel, S., 2014. “Affordances and the Contents of Perception”, in *Does Perception Have Content?*, Berit Brogaard (ed.), Oxford: Oxford University Press, pp. 39–76.
+* Siegle, J.H. and W.H. Warren, 2010, “Distal Attribution and Distance Perception in Sensory Substitution”, *Perception*, 39(2): 208–223.
+* Simmons, A., 2003, “Spatial Perception from a Cartesian Point of View”, *Philosophical Topics*, 31(1/2): 395–423.
+* Singer, G. and R. Day, 1966, “Spatial Adaptation and Aftereffect with Optically Transformed Vision: Effects of Active and Passive Responding and the Relationship between Test and Exposure Responses”, *Journal of Experimental Psychology*, 71: 725–731.
+* Smith, A., 1811, *The Works of Adam Smith* (Volume 5), D. Stewart. (ed.), London: T. Cadell and W. Davies.
+* Smith, A.D., 2000, “Space and Sight”, *Mind*, 109: 481–518.
+* Sperry, R.W., 1952, “Neurology and the Mind-Brain Problem”, *American Scientist*, 291–312.
+* Springle, A., & Machamer, P., 2016, “Perceiving and Knowing as Activities” in *Philosophy as the Foundation of Knowledge, Action and Ethos*, J. Kaczmarek, R. Kleszcz (eds.), Lodz: Lodz University Press, pp. 39–54.
+* Stewart, D., 1829, *Elements of the Philosophy of the Human Mind*, in *The Collected Works of Dugald Stewart* (Volume 2), W. Hamilton (ed.), Westmead, UK: Gregg International Publishers, 1971.
+* Stoneham, T., 2020, “Action, Knowledge and Embodiment in Berkeley and Locke”, *Philosophical Explorations*, 21(1): 41–59.
+* Stratton, G.M., 1896, “Some Preliminary Experiments on Vision without Inversion of the Retinal Image”, *Psychological Review*, 3: 611–617.
+* –––, 1897(a and b), “Vision Without Inversion of the Retinal Image”, *Psychological Review*, 4(4): 341–360 and 4(5)463–481.
+* –––, 1899, “The Spatial Harmony of Touch and Sight”, *Mind*, 8: 492–505.
+* –––, 1907, “Eye-Movements and Visual Direction”, *Psychological Bulletin*, 4: 155–158.
+* Taylor, J.G., 1962, *The Behavioral Basis of Perception*, New Haven, CT: Yale University Press.
+* –––, 1965, “The Behavioral Basis of Perceived Size and Distance”, *Canadian Journal of Psychology*, 19(1): 1–14.
+* –––, 1968, “Perception as a Function of Behaviour”, *Studies in Logic and the Foundations of Mathematics*, 52: 431–436.
+* Templeton, W., I. Howard, and A. Lowman, 1966, “Passively Generated Adaptation to Prismatic Distortion”, *Perceptual and Motor Skills*, 22: 140–142.
+* Thompson, E., 2005, “Sensorimotor Subjectivity and the Enactive Approach to Experience”, *Phenomenology and the Cognitive Sciences*, 4(4): 407–427.
+* Uhlarik, J.J. and L.K. Canon, 1971, “Influence of Concurrent and Terminal Exposure Conditions on the Nature of Perceptual Adaptation”, *Journal of Experimental Psychology*, 91: 233–239.
+* de Vignemont, F., 2021. “A Minimal Sense of Here-ness”, *The Journal of Philosophy*, 118(4): 169–187.
+* de Vignemont, F. and Alsmith, A. eds., 2017, *The Subject’s Matter: Self-Consciousness and the Body*, Cambridge, MA: MIT Press.
+* Vishton, P.M., N.J. Stephens, L.A. Nelson, S.E. Morra, K.L. Brunick, and J.A. Stevens, 2007, “Planning to Reach for an Object Changes How the Reacher Perceives It”, *Psychological Science*, 18: 713–719.
+* Wallach, H., 1968, “Informational Discrepancy as a Basis of Perceptual Adaptation”, in *The Neuropsychology of Spatially Oriented Behaviour*, S. Friedman (ed.), Homewood, IL: Dorsey, pp. 209–230.
+* Ward, D., Roberts, T. and Clark, A., 2011, “Knowing What We Can Do: Actions, Intentions, and the Construction of Phenomenal Experience”, *Synthese*, 181: 375–394.
+* Welch, R., 1978, *Perceptual Modification: Adapting to Altered Sensory Environments*, New York: Academic Press.
+* Wu, W., 2014, “Against Division: Consciousness, Information and the Visual Streams”, *Mind & Language*, 29(4): 383–406.
 
 ## Academic Tools
 
@@ -631,6 +631,6 @@ Grush（2007；2009）提出了一个关于神经信息处理的倾向理论的�
 We would like to thank Jason Winning for helping to compose the bibliography and proofreading. We are also grateful to Adrian Alsmith, John Schwenkler, Tom Stoneham, and an anonymous referee for comments that resulted in many improvements.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Robert Briscoe <[_rbriscoe@gmail.com_](mailto:rbriscoe%40gmail%2ecom)>\
-[Rick Grush](http://rickgrush.net/) <[_rgrush@ucsd.edu_](mailto:rgrush%40ucsd%2eedu)>\
-Alison Springle <[_alisonspringle@gmail.com_](mailto:alisonspringle%40gmail%2ecom)>
+Robert Briscoe <[*rbriscoe@gmail.com*](mailto:rbriscoe%40gmail%2ecom)>\
+[Rick Grush](http://rickgrush.net/) <[*rgrush@ucsd.edu*](mailto:rgrush%40ucsd%2eedu)>\
+Alison Springle <[*alisonspringle@gmail.com*](mailto:alisonspringle%40gmail%2ecom)>

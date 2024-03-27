@@ -1,6 +1,6 @@
 # 阿尔弗雷德·朱尔斯·艾耶尔 Ayer, Alfred Jules (Graham Macdonald and Nikhil Krishnan)
 
-_首次发表于 2005 年 5 月 7 日；实质性修订于 2018 年 9 月 4 日_
+*首次发表于 2005 年 5 月 7 日；实质性修订于 2018 年 9 月 4 日*
 
 A.J.艾尔（1910-1989）在他写下使他成名的哲学著作《语言、真理与逻辑》（以下简称《LTL》）时只有 24 岁，该书于 1936 年出版。在这本书中，他提出了被理解为逻辑实证主义的主要论点，从而确立了自己作为这一运动的英国代表，该运动起源于维也纳。艾尔认同这些观点，认为自己是继续英国经验主义的传统，该传统由约翰·洛克和大卫·休谟确立，而最近的代表是伯特兰·罗素。在随后的职业生涯中，他始终忠于这一传统，拒绝可能的合成先验知识，并将哲学的方法视为对关键术语（如“因果关系”、“真理”、“知识”、“自由”等）含义的分析。他的大部分工作都致力于探索我们对知识的主张的不同方面，特别是感性知识和依赖归纳推理的知识。在这个过程中，他捍卫了一种“合理的真实信念”知识观，一种休谟式的因果关系观，以及与自由相关的相容主义。在《LTL》中，他提出了一种情感主义的伦理学理论，这是他从未放弃的理论。
 
@@ -26,7 +26,7 @@ A.J.艾尔（1910-1989）在他写下使他成名的哲学著作《语言、真�
 
 阿尔弗雷德·朱尔斯·艾尔（Alfred Jules Ayer）于 1910 年 10 月 29 日出生在伦敦。他的母亲 Reine 是荷兰犹太人的后裔，而他的父亲 Jules Louis Cypress Ayer 则来自瑞士加尔文主义背景。根据罗杰斯（Rogers）1999 年的记述，艾尔是一个聪明但调皮的孩子，因此在七岁时被送到了寄宿学校（位于伊斯特本外），并在 1923 年赢得了去伊顿公学的奖学金。在那里，他以他的智慧和竞争力给同龄人留下了深刻的印象，后者表现在他玩游戏的方式上。然而，艾尔仍然感到自己是一个“局外人”，很明显，他的同学们并不喜欢他，也许是因为他过分热衷于试图使他们皈依无神论。感到“局外人”是一种一直伴随着他的感觉。十六岁时，他专攻古典学，并开始阅读一些哲学。伯特兰·罗素（Bertrand Russell）的《怀疑论文集》给他留下了深刻的印象，尤其是罗素为主张在没有理由相信其真实性的情况下相信一个命题是不可取的这一论点。艾尔说，这一点在他的哲学生涯中一直是他的座右铭。与此同时，乔治·爱德华·摩尔（G.E. Moore）的《伦理原理》的阅读也产生了持久的影响，尤其是摩尔对自然主义谬误的阐述。
 
-在离开伊顿之前的复活节，艾尔在巴黎度过了一段时间，那里他遇到了后来与之结婚的 Renee Lees（1933 年）。次年（1929 年），他赢得了克里斯特教堂奥克斯福德学院的古典学奖学金，他在那里学习了希腊语和哲学，其中一位导师是吉尔伯特·赖尔（Gilbert Ryle）。正是赖尔建议艾尔阅读路德维希·维特根斯坦（Ludwig Wittgenstein）的《逻辑哲学论》（_Tractatus Logico-Philosophicus_），这部作品立即给他留下了深刻的印象。赖尔还在 1933 年帮助艾尔前往维也纳与莫里茨·施利克（Moritz Schlick）学习，施利克当时是有影响力的维也纳学派哲学家、科学家和其他知识分子的领导人，艾尔与 W. V. O.奎因（W. V. O. Quine）一起成为维也纳学派的两位访问者之一。他在维也纳的哲学经历受到他对德语知识的不确定性的限制，但他了解到足够的内容以掌握逻辑实证主义的基本原则。
+在离开伊顿之前的复活节，艾尔在巴黎度过了一段时间，那里他遇到了后来与之结婚的 Renee Lees（1933 年）。次年（1929 年），他赢得了克里斯特教堂奥克斯福德学院的古典学奖学金，他在那里学习了希腊语和哲学，其中一位导师是吉尔伯特·赖尔（Gilbert Ryle）。正是赖尔建议艾尔阅读路德维希·维特根斯坦（Ludwig Wittgenstein）的《逻辑哲学论》（*Tractatus Logico-Philosophicus*），这部作品立即给他留下了深刻的印象。赖尔还在 1933 年帮助艾尔前往维也纳与莫里茨·施利克（Moritz Schlick）学习，施利克当时是有影响力的维也纳学派哲学家、科学家和其他知识分子的领导人，艾尔与 W. V. O.奎因（W. V. O. Quine）一起成为维也纳学派的两位访问者之一。他在维也纳的哲学经历受到他对德语知识的不确定性的限制，但他了解到足够的内容以掌握逻辑实证主义的基本原则。
 
 离开维也纳后，艾尔在基督教堂讲课了一段时间，1935 年他当选为为期五年的研究奖学金。同年，他完成了《语言、真理和逻辑》（LTL），这引起了很大的争议和辩论，部分原因是因为他对形而上学的全面否定，尤其是他在其中一个最臭名昭著的章节中所支持的元伦理情感主义。在接下来的几年里，艾尔致力于捍卫和完善《语言、真理和逻辑》中采取的一些立场，尤其是在牛津与以赛亚·柏林、斯图尔特·汉普郡和 J.L.奥斯汀的会议上；与奥斯汀的对抗将证明是持久的。这个完善过程的产物是《经验知识的基础》一书。在此期间，他也充分享受生活；他是一个优秀的舞者，曾经坦白承认他宁愿成为一个踢踏舞者而不是一个职业哲学家，但当他意识到自己永远不会像弗雷德·阿斯泰尔那样出色时，他放弃了这个想法。他与蕾妮的婚姻开始破裂；艾尔有过多次婚外情，而蕾妮则与斯图尔特·汉普郡建立了持久的关系。
 
@@ -40,7 +40,7 @@ A.J.艾尔（1910-1989）在他写下使他成名的哲学著作《语言、真�
 
 在与迪·威尔斯离婚后不久，艾尔于 1982 年与凡妮莎·劳森结婚。在此之前，他的第一任妻子蕾妮（Renee）去世了（1980 年），随后他们的女儿瓦莱丽（Valerie）在 1981 年突然死于霍奇金病。可悲的是，凡妮莎在 1985 年死于肝癌，使艾尔陷入悲痛之中。他自己曾与死亡擦肩而过，因吞咽熏烟三文鱼而“技术性”死亡了几分钟。在苏醒后，他以一种“死亡”时的经历来回应那些认为这位著名的无神论者已经改变立场并找到上帝的人。他迅速消除了这些谣言。此时，他已经成为哲学界的一位重要人物，出版了以他为荣誉的专著，并由约翰·福斯特（John Foster）在著名的劳特利奇“哲学家的论证”系列中进行了一部长篇批判性研究。他在剩下的几年中大部分时间都在回应出现在由 L.E. Hahn 编辑的“活哲学家系列”中的艾尔专辑中的文章。他与迪·威尔斯重新结婚，但不久之后，艾尔在 1989 年初夏因肺部塌陷被送进医院，并于 6 月 27 日去世。
 
-艾尔写了两本自传，_我的一部分生活_和_我的更多生活_。他的朋友圈包括许多著名和有影响力的人；以下（没有特定顺序）只是一个简短的名单。西里尔·康诺利，格雷厄姆·格林，乔治·奥威尔，ee cummings 和他的妻子玛丽安，迈耶·夏皮罗，阿瑟·科斯特勒，伯特兰·罗素，斯蒂芬·斯彭德，W.H. 奥登，菲利普·托因比，以赛亚·柏林，休·盖茨凯尔，罗伊·詹金斯，迈克尔·富特，理查德·克罗斯曼，乔纳森·米勒，安格斯·威尔逊，艾伦·贝内特，爱丽丝·托马斯·埃利斯，琼·方丹，艾丽斯·默多克，V.S. 普里切特和克里斯托弗·希钦斯。他相信，也许是真的，汤姆·斯托帕德的剧作《跳跃者》中的乔治·摩尔角色是以他为原型的。艾尔是一个虚荣的人，他的虚荣是他可观魅力的一部分。他区分了虚荣和自负；他说，自负的人认为自己应该有更多的奖章，而虚荣的人只是喜欢炫耀他已经获得的奖章。艾尔获得的许多“奖章”包括他的爵位，英国学院院士，美国艺术与科学学院荣誉会员，保加利亚圣西里尔和圣墨丘利乌斯勋章一等勋位，以及法国荣誉军团骑士勋位。
+艾尔写了两本自传，*我的一部分生活*和*我的更多生活*。他的朋友圈包括许多著名和有影响力的人；以下（没有特定顺序）只是一个简短的名单。西里尔·康诺利，格雷厄姆·格林，乔治·奥威尔，ee cummings 和他的妻子玛丽安，迈耶·夏皮罗，阿瑟·科斯特勒，伯特兰·罗素，斯蒂芬·斯彭德，W.H. 奥登，菲利普·托因比，以赛亚·柏林，休·盖茨凯尔，罗伊·詹金斯，迈克尔·富特，理查德·克罗斯曼，乔纳森·米勒，安格斯·威尔逊，艾伦·贝内特，爱丽丝·托马斯·埃利斯，琼·方丹，艾丽斯·默多克，V.S. 普里切特和克里斯托弗·希钦斯。他相信，也许是真的，汤姆·斯托帕德的剧作《跳跃者》中的乔治·摩尔角色是以他为原型的。艾尔是一个虚荣的人，他的虚荣是他可观魅力的一部分。他区分了虚荣和自负；他说，自负的人认为自己应该有更多的奖章，而虚荣的人只是喜欢炫耀他已经获得的奖章。艾尔获得的许多“奖章”包括他的爵位，英国学院院士，美国艺术与科学学院荣誉会员，保加利亚圣西里尔和圣墨丘利乌斯勋章一等勋位，以及法国荣誉军团骑士勋位。
 
 ## 2. 意义和真理
 
@@ -48,11 +48,11 @@ A.J.艾尔（1910-1989）在他写下使他成名的哲学著作《语言、真�
 
 艾尔对意义的经验主义基础首先是在他阅读休谟的过程中奠定的。他认为，除非一个观念与一个印象适当相关，否则它没有任何经验意义。这个想法一直伴随着他，并且在他阅读维特根斯坦的《论述》以及在维也纳与逻辑实证主义者们共度的时间里得到了加强。他对意义的第一个表述，即验证原则，出现在《语言、真理和逻辑》的第一版（1936 年），他声称所有命题要么是分析的（根据其意义而真实），要么是强验证或弱验证的。强验证要求一个命题的真实性是可以确定的；弱验证只要求一个观察陈述可以从该命题与其他辅助命题一起推导出来，只要这个观察陈述不能仅从这些辅助命题中推导出来。但很快就证明这个原则是有缺陷的：任何命题 P 与“如果 P 则 O”相连，其中“O”是一个观察陈述，将会得出 O，而这并不能仅从“如果 P 则 O”中推导出来。因此，在第二版中，艾尔修改了这个原则的表述：如果一个陈述要么是一个观察陈述，要么是这样的一个陈述，即一个观察陈述可以与另一个观察陈述（或观察陈述）一起从它推导出来（而不能仅从这些观察陈述中推导出来），那么这个陈述就是直接可验证的。而一个陈述是间接可验证的，如果首先，在与某些其他前提一起，它蕴含了一个或多个直接可验证的陈述，而这些陈述不能仅从这些其他前提中推导出来，并且这些其他前提“不包括任何不是分析的、直接可验证的或能够独立建立为间接可验证的陈述。”（《语言、真理和逻辑》第二版，第 17 页）。
 
-这个原则引发了进一步的批评，最重要的是来自阿隆佐·丘奇（1949 年），他声称再次证明它允许_任何_陈述具有意义。将_O_1、_O_2 和_O_3 视为逻辑上独立的观察陈述，_S_为任意陈述。那么
+这个原则引发了进一步的批评，最重要的是来自阿隆佐·丘奇（1949 年），他声称再次证明它允许*任何*陈述具有意义。将*O*1、*O*2 和*O*3 视为逻辑上独立的观察陈述，*S*为任意陈述。那么
 
-（1）（¬_O_1&_O_2）v（_O_3&¬_S_）
+（1）（¬*O*1&*O*2）v（*O*3&¬*S*）
 
-是直接可验证的，因为（1）与_O_1 一起蕴含_O_3。_S_变得间接可验证，因为_O_2 从_S_和（1）中得出，并且（1）是直接可验证的。如果_O_2 仅从（1）得出，则_O_2 从_O_3&¬_S_得出，这意味着¬_S_是直接可验证的（_O_2 和_O_3&¬_S_在逻辑上是独立的）。
+是直接可验证的，因为（1）与*O*1 一起蕴含*O*3。*S*变得间接可验证，因为*O*2 从*S*和（1）中得出，并且（1）是直接可验证的。如果*O*2 仅从（1）得出，则*O*2 从*O*3&¬*S*得出，这意味着¬*S*是直接可验证的（*O*2 和*O*3&¬*S*在逻辑上是独立的）。
 
 尽管这些尝试未能提供一个严格的经验主义意义标准，艾尔仍然坚持认为证据和意义之间有着密切的联系，他认为在提供一个绝对可靠的经验主义意义标准之前，需要一个令人满意的确认解释。鉴于后来对于任何确认理论是否能为意义理论提供基础的怀疑（奎因对于无法排除任何事实可能对任何句子的真实性产生影响的不可能性的怀疑），证据-意义之间的联系如何被限定仍然不清楚。（有关对验证原则的其他攻击和调整的评论，请参见赖特 1986 年、1989 年。）
 
@@ -60,19 +60,19 @@ A.J.艾尔（1910-1989）在他写下使他成名的哲学著作《语言、真�
 
 准则的强解释要求对于哪些证据有助于验证句子的意义做出一些决定。对于艾尔来说，很明显，并不是所有关于一个陈述的证据都被包括在该陈述的意义中：关于杰克夹克上的血迹的陈述并不包括在杰克是凶手的陈述的意义中。此外，尽管只有当前的证据对于任何对过去的陈述是可用的，但这样的陈述的意义并不限于当前的证据；一个人有权将在过去时刻如果能够将自己传送到那个时刻将可用的证据包括在意义中。在艾尔看来，道德陈述是不可验证的，因此不能被解释为事实的断言，而是被解释为情感的表达。这在第 7 节中再次进行了讨论。
 
-艾尔允许的唯一一类无需与证据相连就能有意义的陈述是由重言式组成的，其中包括所有分析命题。这些是唯一可_先验_知的命题，它们的意义取决于语言的使用方式和规范。艾尔坚持认为，这些命题所附着的必然性只有在语言使用的规范发挥作用时才可得到。
+艾尔允许的唯一一类无需与证据相连就能有意义的陈述是由重言式组成的，其中包括所有分析命题。这些是唯一可*先验*知的命题，它们的意义取决于语言的使用方式和规范。艾尔坚持认为，这些命题所附着的必然性只有在语言使用的规范发挥作用时才可得到。
 
-在_LTL_中，艾尔（Ayer）在拉姆齐（Ramsey）的基础上提出了真理的冗余（贬低）观点（尽管他认为是这样，但参见菲尔德（Field）1986 年的异议观点）：“在所有形式为‘_p_是真实的’的句子中，短语‘是真实的’在逻辑上是多余的”（_LTL_ p. 117）。这样一个短语的作用仅仅是标记一个断言（或者在‘是假的’的情况下是否定），因此不存在‘真实’的关系，所以哲学家们不必担心真理的问题。同样地，当我们说一个命题是可能的，或者可能是真实的时候，我们并没有给这个命题分配任何内在属性，也没有说它与任何其他命题之间存在任何关系。我们只是表达了对该命题的信心，或者更准确地说，它表达了在该命题中具有合理信心的程度。
+在*LTL*中，艾尔（Ayer）在拉姆齐（Ramsey）的基础上提出了真理的冗余（贬低）观点（尽管他认为是这样，但参见菲尔德（Field）1986 年的异议观点）：“在所有形式为‘*p*是真实的’的句子中，短语‘是真实的’在逻辑上是多余的”（*LTL* p. 117）。这样一个短语的作用仅仅是标记一个断言（或者在‘是假的’的情况下是否定），因此不存在‘真实’的关系，所以哲学家们不必担心真理的问题。同样地，当我们说一个命题是可能的，或者可能是真实的时候，我们并没有给这个命题分配任何内在属性，也没有说它与任何其他命题之间存在任何关系。我们只是表达了对该命题的信心，或者更准确地说，它表达了在该命题中具有合理信心的程度。
 
 他对真理的这种贬低态度得到了他关于意义的验证主义的支持；艾尔不需要为句子的意义提供真理条件。断言之所以有意义，是因为它们的验证条件，而命题则被定义为具有相同验证条件的句子的等价类。
 
-对于真理的通货紧缩主义用对真理的实质性理论的关注来取代了对哪些句子或话语被认为是真理适用的关注。艾尔否认道德话语是真理适用的。鉴于他认为断言_p_等同于说_p_是真的，他不得不否认道德话语可以是断言（见第 7 节）。
+对于真理的通货紧缩主义用对真理的实质性理论的关注来取代了对哪些句子或话语被认为是真理适用的关注。艾尔否认道德话语是真理适用的。鉴于他认为断言*p*等同于说*p*是真的，他不得不否认道德话语可以是断言（见第 7 节）。
 
 请参阅[真理通货紧缩理论](https://plato.stanford.edu/entries/truth-deflationary/)的条目以获取进一步讨论。
 
 ## 3. 知觉
 
-在他早期关于知觉的研究中，艾尔坚持了一种严格的现象主义形式，辩护说关于物质对象的陈述可以翻译为关于实际和可能的“感觉内容”的陈述。这些后者的陈述是最终的验证者，构成了我们经验世界的基础。尽管他后来放弃了可翻译性要求中固有的还原主义（从 1947 年的《现象主义》开始），认为他曾经错误地认为任何关于物理对象的陈述都可以由一组关于感觉经验（感官数据）的陈述推导出来，但艾尔继续坚持认为我们关于物理对象的主张是通过参考这种感觉经验来证明的。他一贯反对鲁道夫·卡尔纳普、奥托·诺伊拉特和卡尔·波普尔所持的唯一证明者是句子的观点，无论是诺伊拉特的“协议”还是波普尔的“基本陈述”。他对这些观点的批评是，所偏爱的陈述类别无法在没有对相关经验的诉诸的情况下正确地确定。因此，一个要求只有当时科学家接受的陈述才能成为该类别成员的标准，如果不知道哪些陈述被接受，这种标准将不会成功，而艾尔声称只有通过经验才能知道这一点。另一种选择是使用另一个陈述，即这些（_p_，_q_，_r_，…）是相关类别中的陈述（被科学家接受的陈述），这将使科学的基础完全是任意的。
+在他早期关于知觉的研究中，艾尔坚持了一种严格的现象主义形式，辩护说关于物质对象的陈述可以翻译为关于实际和可能的“感觉内容”的陈述。这些后者的陈述是最终的验证者，构成了我们经验世界的基础。尽管他后来放弃了可翻译性要求中固有的还原主义（从 1947 年的《现象主义》开始），认为他曾经错误地认为任何关于物理对象的陈述都可以由一组关于感觉经验（感官数据）的陈述推导出来，但艾尔继续坚持认为我们关于物理对象的主张是通过参考这种感觉经验来证明的。他一贯反对鲁道夫·卡尔纳普、奥托·诺伊拉特和卡尔·波普尔所持的唯一证明者是句子的观点，无论是诺伊拉特的“协议”还是波普尔的“基本陈述”。他对这些观点的批评是，所偏爱的陈述类别无法在没有对相关经验的诉诸的情况下正确地确定。因此，一个要求只有当时科学家接受的陈述才能成为该类别成员的标准，如果不知道哪些陈述被接受，这种标准将不会成功，而艾尔声称只有通过经验才能知道这一点。另一种选择是使用另一个陈述，即这些（*p*，*q*，*r*，…）是相关类别中的陈述（被科学家接受的陈述），这将使科学的基础完全是任意的。
 
 即使在艾尔（Ayer）后来的观点中，被称为“复杂的现实主义”（见艾尔 1973 年），我们对物理对象的感知是间接的，感知判断的最终基础仍然是感觉数据，现在称为“感觉质”（或者，如果具体化，称为“感知”）。正是对感觉数据作为感知对象的持续承诺，引起了 J.L.奥斯汀（J.L. Austin）在《感觉与感性》（1962 年）中的（常常是讽刺性的）批评。在艾尔的观点中，感觉质形成了构成一个主要系统的模式，而我们基于这个系统来假设物理对象的存在，这就是“理论”二级系统。一旦我们有了这个理论，我们就能够重新解释感觉质为心理状态，并声称它们是由物理对象引起的。这种因果关系的主张只有在理论系统建立之后才能成立，因此不能成为任何关于感知的解释中的原始要素。在任何涉及它们的因果假设有意义之前，物理对象必须存在。
 
@@ -102,21 +102,21 @@ A.J.艾尔（1910-1989）在他写下使他成名的哲学著作《语言、真�
 
 提供的解释旨在分析知识，但值得注意的是，艾尔并不要求信仰者意识到他们拥有确信的权利是如何产生的。允许认为，即使某人总是准确预测彩票结果，也可以说他们知道他们的预测是正确的，尽管他们自己或其他人都不知道这些预测是如何可靠的。艾尔承认，这种情况以及类似的其他情况可能引起一些争议：它们并没有明确地涵盖在“知识”一词的含义之内，因此留下了一些规定的空间。
 
-艾尔的特定分析，或者与之相似的分析，受到了葛蒂尔（1963 年）的一篇著名论文的攻击。在该论文中，满足三个条件（_p_的真实性，对_p_的信念以及对_p_有把握的权利）被认为对于知识来说是不足够的。葛蒂尔的论证要求某人_A_可以有正当理由相信一个错误的命题，并且如果_A_有正当理由相信_p_，并且_q_可以从_p_推导出来，而_A_通过从_p_推导出_q_来接受_q_，那么_A_有正当理由相信_q_。葛蒂尔使用的一个例子具有以下结构：（i）琼斯拥有一辆福特车。（ii）要么琼斯拥有一辆福特车，要么布朗在波士顿。史密斯相信并且有充分的证据证明（i）。他从（i）推导出（ii），因此有正当理由相信（ii），即使事实上他不知道布朗在哪里。结果证明（i）是错误的，但（ii）是正确的 - 尽管史密斯不知道，布朗确实在波士顿。葛蒂尔得出结论，在这种情况下，知识分析的所有三个条件都得到满足，但我们应该判断在这种情况下史密斯并不知道（ii）。这个建议是可能需要额外的条件。
+艾尔的特定分析，或者与之相似的分析，受到了葛蒂尔（1963 年）的一篇著名论文的攻击。在该论文中，满足三个条件（*p*的真实性，对*p*的信念以及对*p*有把握的权利）被认为对于知识来说是不足够的。葛蒂尔的论证要求某人*A*可以有正当理由相信一个错误的命题，并且如果*A*有正当理由相信*p*，并且*q*可以从*p*推导出来，而*A*通过从*p*推导出*q*来接受*q*，那么*A*有正当理由相信*q*。葛蒂尔使用的一个例子具有以下结构：（i）琼斯拥有一辆福特车。（ii）要么琼斯拥有一辆福特车，要么布朗在波士顿。史密斯相信并且有充分的证据证明（i）。他从（i）推导出（ii），因此有正当理由相信（ii），即使事实上他不知道布朗在哪里。结果证明（i）是错误的，但（ii）是正确的 - 尽管史密斯不知道，布朗确实在波士顿。葛蒂尔得出结论，在这种情况下，知识分析的所有三个条件都得到满足，但我们应该判断在这种情况下史密斯并不知道（ii）。这个建议是可能需要额外的条件。
 
 葛蒂尔反例引发的文献非常庞大，几乎所有的文献都试图确定这个难以捉摸的额外条件。艾尔本人并不认为需要任何额外的条件。他认为，这些反例表明我们需要更仔细地解释“正当理由”的含义。他质疑葛蒂尔的观点，即从一个正当但错误的命题中推导出的任何推论都能保持正当性。他声称，我们已经知道，对于一个主张有证据是非常难以阐明的；卡尔·亨普尔的悖论成功地展示了这一点。一旦我们能够更加清楚地阐明正当性关系，我们就会看到他提出的分析对于知识来说是足够的。
 
 ## 6. 必要性、因果性和自主权
 
-我们已经看到，在_LTL_中，艾尔坚持认为所有必要真理都是由表达它们所使用的术语的含义决定的，而这又取决于规定使用这些术语的约定。从这个早期观点的表达中，我们可以看出对逻辑必然性来源的不安。他将逻辑真理的必然性描述为依赖于规定使用逻辑常量的规则。虽然这些规则既不是真的也不是假的，但它们阐明了这些常量的“正确”使用，这种表述暗示了必然性的来源比纯粹的语言使用更深刻。
+我们已经看到，在*LTL*中，艾尔坚持认为所有必要真理都是由表达它们所使用的术语的含义决定的，而这又取决于规定使用这些术语的约定。从这个早期观点的表达中，我们可以看出对逻辑必然性来源的不安。他将逻辑真理的必然性描述为依赖于规定使用逻辑常量的规则。虽然这些规则既不是真的也不是假的，但它们阐明了这些常量的“正确”使用，这种表述暗示了必然性的来源比纯粹的语言使用更深刻。
 
-后来，他坚持他的“所有必然性都是_de dicto_”的起点，一贯拒绝接受任何_de re_的必然性。他坚决抵制了普特南和克里普基在 20 世纪 70 年代流行起来的本质主义，但他这样做的原因并不总是切题的。在反对基于本质的_de re_必然性的论证中，艾尔会说“凯撒必然是人类”是不正确的，因为他本可以把他的狗叫做“凯撒”。在这里，他忽视了他自己在《LTL》第二版引言中坚持的观点，即必然真理是用已经被赋予意义和指称的术语表达的，所以改变“凯撒”的指称与使用该术语的句子的必然真理无关。
+后来，他坚持他的“所有必然性都是*de dicto*”的起点，一贯拒绝接受任何*de re*的必然性。他坚决抵制了普特南和克里普基在 20 世纪 70 年代流行起来的本质主义，但他这样做的原因并不总是切题的。在反对基于本质的*de re*必然性的论证中，艾尔会说“凯撒必然是人类”是不正确的，因为他本可以把他的狗叫做“凯撒”。在这里，他忽视了他自己在《LTL》第二版引言中坚持的观点，即必然真理是用已经被赋予意义和指称的术语表达的，所以改变“凯撒”的指称与使用该术语的句子的必然真理无关。
 
-更为相关的是他对从可想象性到可能性的转变以及从不可想象性到不可能性的怀疑，他认为对可想象性的问题的回答取决于提出问题的人的知识状态和想象力。凯撒（古代的尤利乌斯·凯撒）是非人类的，这是不可想象的吗？艾尔认为，根据他对凯撒的了解（除了他是人类之外），凯撒是一个机器人是一切一致的，所以他可以“轻松地将其设想为可能性”（“Replies” p. 308）。另一方面，如果问凯撒是不是一只乌龟，他会怀疑这里使用的“凯撒”一词的指称是有不同的意思。艾尔通过暗示描述来确保术语“凯撒”的指称，通常会使得满足描述的对象是一只乌龟在逻辑上不一致，但这并不确定_de re_的必然性；并不意味着所讨论的凯撒必然满足与使用该名称相关的描述。对于除了描述之外可能确保正确指称的其他因素的建议，比如术语使用的因果起源，艾尔不屑一顾：“……这个观点……即通过说使得_A_对符号_s_的使用成为对对象_O_的指称的原因是它从某人最初对_s_的使用中导出的，是一个明显的荒谬。如果一个人不理解_s_指称_O_是什么意思，他不会更聪明；如果一个人理解了，因果关系的废话就是多余的。”（“Replies” 1979 p. 309.）
+更为相关的是他对从可想象性到可能性的转变以及从不可想象性到不可能性的怀疑，他认为对可想象性的问题的回答取决于提出问题的人的知识状态和想象力。凯撒（古代的尤利乌斯·凯撒）是非人类的，这是不可想象的吗？艾尔认为，根据他对凯撒的了解（除了他是人类之外），凯撒是一个机器人是一切一致的，所以他可以“轻松地将其设想为可能性”（“Replies” p. 308）。另一方面，如果问凯撒是不是一只乌龟，他会怀疑这里使用的“凯撒”一词的指称是有不同的意思。艾尔通过暗示描述来确保术语“凯撒”的指称，通常会使得满足描述的对象是一只乌龟在逻辑上不一致，但这并不确定*de re*的必然性；并不意味着所讨论的凯撒必然满足与使用该名称相关的描述。对于除了描述之外可能确保正确指称的其他因素的建议，比如术语使用的因果起源，艾尔不屑一顾：“……这个观点……即通过说使得*A*对符号*s*的使用成为对对象*O*的指称的原因是它从某人最初对*s*的使用中导出的，是一个明显的荒谬。如果一个人不理解*s*指称*O*是什么意思，他不会更聪明；如果一个人理解了，因果关系的废话就是多余的。”（“Replies” 1979 p. 309.）
 
-艾尔对这些_de re_必然性的拒绝，根源于他对其评估的认识论方法。他认为，术语的意义取决于其相关描述，这些描述又取决于我们对其指称的了解，而这些意义解释了必然性的存在或缺失。因此，“Hesperus 是 Hesperus”的意义一致性使得该句子必然为真，而意义不一致性使得“Hesperus 是 Phosphorous”有可能为真。他反对了自然种类术语的意义由其内在构成确定的观点，因为许多使用自然种类术语的人对相关内在构成的性质一无所知。在这一点上，他与那些承认由初级内涵（Chalmers 2004）或“A 内涵”（Jackson 1998）产生的必然性的人意见一致，这些内涵由所指种类的某些现象特性决定。
+艾尔对这些*de re*必然性的拒绝，根源于他对其评估的认识论方法。他认为，术语的意义取决于其相关描述，这些描述又取决于我们对其指称的了解，而这些意义解释了必然性的存在或缺失。因此，“Hesperus 是 Hesperus”的意义一致性使得该句子必然为真，而意义不一致性使得“Hesperus 是 Phosphorous”有可能为真。他反对了自然种类术语的意义由其内在构成确定的观点，因为许多使用自然种类术语的人对相关内在构成的性质一无所知。在这一点上，他与那些承认由初级内涵（Chalmers 2004）或“A 内涵”（Jackson 1998）产生的必然性的人意见一致，这些内涵由所指种类的某些现象特性决定。
 
-艾尔还否定了因果必然性。他继承了休谟的观点，认为因果关系可以归结为规律性：“_c_导致_e_”等同于“每当_c_，则_e_”。后者是自然法则，只是我们对其有一定的态度的一种概括。因此，有可能的概括和自然法则基本相同；它们的区别仅在于我们更依赖于后者，并准备将该法则视为具有某种更强的模态性，尽管实际上并非如此。
+艾尔还否定了因果必然性。他继承了休谟的观点，认为因果关系可以归结为规律性：“*c*导致*e*”等同于“每当*c*，则*e*”。后者是自然法则，只是我们对其有一定的态度的一种概括。因此，有可能的概括和自然法则基本相同；它们的区别仅在于我们更依赖于后者，并准备将该法则视为具有某种更强的模态性，尽管实际上并非如此。
 
 对于原因的缺乏必要性使得艾尔对人类自由的接受并不苛求。在否认任何因果必然性的存在后，艾尔可以成为一位兼容主义者：决定论可能是正确的（所有行为都可能是有原因的），但我们仍然可以接受这样一种观点，即存在的原因并不“必然”导致行动。艾尔认为，与自由相关的对比不是因果关系，而是限制或强迫，这是一种“特殊”的原因。因此，如果我们的行为可以有原因而又不受任何“限制”，那么决定论可能是正确的，我们仍然可以自由。艾尔声称，这个立场是可行的，因为对我们的行为负有道德责任要求这些行为不是纯粹偶然的结果。
 
@@ -126,7 +126,7 @@ A.J.艾尔（1910-1989）在他写下使他成名的哲学著作《语言、真�
 
 艾尔在《LTL》中提倡的情感主义得到了他对事实和价值之间区别的信仰的支持。他认为，鉴于没有道德事实可知，就无法验证这些事实，因此道德言论没有认知意义。而且，考虑到道德“判断”与动机之间的联系，以及动机与感觉之间的联系，自然而然地将道德言论视为表达我们的感受或“情感”的功能。艾尔小心地指出，这种观点与主观主义没有关联，即在提出道德主张时，我们正在“描述”我们的感受。后一种观点会使道德主张具有真值评估的可能性，而艾尔的道德情感主义否认了这种评估的可能性。因此，当我们说：“虐待儿童是错误的”时，我们实际上是表达对杀害儿童的负面态度，当我们说“善待老人是好的”时，我们表达对这种善行的积极感受。他后来认为，这种积极或消极感受的表达也包含了规范性的元素，因此在这些表达中，我们还鼓励他人分享这些感受，并相应地行动。正如这一点所明确的，所表达的态度是针对行为类别而不是特定行为的。
 
-情感主义被一些人认为是验证主义意义理论的_归谬法_，实际上它并不是其他实证主义者首选的元伦理立场，其中一些人更倾向于后果主义方法，因此情感主义可以被看作与验证主义是可以分离的。事实上，在《LTL》第二版的“引言”中，艾尔（Ayer）表示，他对情感主义的承诺将在他的实证主义消亡后仍然存在，并且后来变得清楚的是，正因为艾尔认为道德判断不是陈述事实，他得出了它们是不可验证的结论（参见艾尔 1954 年的《道德判断的分析》）。情感主义得到了 C.L.史蒂文森（C.L.Stevenson）的额外支持，他独立于艾尔发展了自己的观点，在他的书《伦理学与语言》（1944 年）中。在随后的几十年中，它衍生出了一系列被称为“表达主义”的元伦理观点，这些观点试图以对艾尔的表述引发的逻辑问题的敏感来陈述这一观点。
+情感主义被一些人认为是验证主义意义理论的*归谬法*，实际上它并不是其他实证主义者首选的元伦理立场，其中一些人更倾向于后果主义方法，因此情感主义可以被看作与验证主义是可以分离的。事实上，在《LTL》第二版的“引言”中，艾尔（Ayer）表示，他对情感主义的承诺将在他的实证主义消亡后仍然存在，并且后来变得清楚的是，正因为艾尔认为道德判断不是陈述事实，他得出了它们是不可验证的结论（参见艾尔 1954 年的《道德判断的分析》）。情感主义得到了 C.L.史蒂文森（C.L.Stevenson）的额外支持，他独立于艾尔发展了自己的观点，在他的书《伦理学与语言》（1944 年）中。在随后的几十年中，它衍生出了一系列被称为“表达主义”的元伦理观点，这些观点试图以对艾尔的表述引发的逻辑问题的敏感来陈述这一观点。
 
 有人提出（Dreier 2004），艾尔在捍卫这种非认知主义的品牌时面临着特殊困难；肯定真理冗余理论与否认道德主张可以是真实的这一结合看起来很可疑。尽管这两种观点并不矛盾（艾尔否认道德主张是断言，真理谓词的冗余仅适用于断言），但两者之间的紧张关系表明，道德主张具有许多真实可评估断言的特征，因此在将其解释为无意义时必须不合理地进行修正。毕竟，它们通常以陈述句表达，并且人们似乎对道德主张进行争论。艾尔对后一点做出了回应：道德分歧，他（和史蒂文森）声称，要么是关于非道德事实的真正争议，要么根本不是真正的分歧。（有关道德分歧对情感主义的困扰的研究，请参见史密斯 1986 年的著作。）然而，还有一个更令人不安的问题，即道德术语在论证中的作用：道德术语可以在道德术语出现在条件语句中的论证中使用，因此它并没有为话语的表达力做出贡献，也没有表达说话者的任何情感。这一点已经发展成了一种推理方法（称为“弗雷格-吉奇”问题），用来反对表达主义。对于表达主义者来说，问题在于理解以下简单论证的意义：（1）如果约翰杀了简，他做错了事。（2）约翰杀了简。所以（3）约翰做错了事。这个论证似乎是有效的，因此不涉及任何歧义，但道德术语只能在（3）中具有表达力，而不是在（1）中。表达主义，因此情感主义，似乎在论证中引入了不合理的模棱两可之处。
 
@@ -138,60 +138,60 @@ A more complete bibliography of Ayer’s work up to 1979 can be found in Macdona
 
 ### Primary Literature: Works by Ayer
 
-* 1936, _Language, Truth, and Logic_, London: Gollancz, 2nd Edition, 1946.
-* 1940, _The Foundations of Empirical Knowledge_, London: Macmillan.
-* 1954, _Philosophical Essays_, London: Macmillan. (Essays on freedom, phenomenalism, basic propositions, utilitarianism, other minds, the past, ontology.)
-* 1957, “The conception of probability as a logical relation”, in S. Korner, ed., _Observation and Interpretation in the Philosophy of Physics_, New York, NY: Dover Publications.
-* 1956, _The Problem of Knowledge_, London: Macmillan.
-* 1963, _The Concept of a Person and other Essays_, London: Macmillan. (Essays on truth, privacy and private languages, laws of nature, the concept of a person, probability.)
-* 1967, “Has Austin Refuted the Sense-Datum Theory?” _Synthese_, 18: 117–40. (Reprinted in Ayer 1969).
-* 1968, _The Origins of Pragmatism_, London: Macmillan.
-* 1969, _Metaphysics and Common Sense_, London: Macmillan. (Essays on knowledge, man as a subject for science, chance, philosophy and politics, existentialism, metaphysics, and a reply to Austin on sense-data theory.)
-* 1971, _Russell and Moore: The Analytical Heritage_, London: Macmillan.
-* 1972a, _Probability and Evidence_, London: Macmillan.
-* 1972b, _Bertrand Russell_, London: Fontana.
-* 1973, _The Central Questions of Philosophy_, London: Weidenfeld.
-* 1979, “Replies”, in G. Macdonald, ed., _Perception and Identity_, London: Macmillan.
-* 1980, _Hume_, Oxford: Oxford University Press
-* 1982, _Philosophy in the Twentieth Century_, London: Weidenfeld.
-* 1984, _Freedom and Morality and Other Essays_, Oxford: Clarendon Press.
-* 1986, _Ludwig Wittgenstein_, London: Penguin.
-* 1977, _Part of My Life_, London: Collins.
-* 1984, _More of My Life_, London: Collins.
+* 1936, *Language, Truth, and Logic*, London: Gollancz, 2nd Edition, 1946.
+* 1940, *The Foundations of Empirical Knowledge*, London: Macmillan.
+* 1954, *Philosophical Essays*, London: Macmillan. (Essays on freedom, phenomenalism, basic propositions, utilitarianism, other minds, the past, ontology.)
+* 1957, “The conception of probability as a logical relation”, in S. Korner, ed., *Observation and Interpretation in the Philosophy of Physics*, New York, NY: Dover Publications.
+* 1956, *The Problem of Knowledge*, London: Macmillan.
+* 1963, *The Concept of a Person and other Essays*, London: Macmillan. (Essays on truth, privacy and private languages, laws of nature, the concept of a person, probability.)
+* 1967, “Has Austin Refuted the Sense-Datum Theory?” *Synthese*, 18: 117–40. (Reprinted in Ayer 1969).
+* 1968, *The Origins of Pragmatism*, London: Macmillan.
+* 1969, *Metaphysics and Common Sense*, London: Macmillan. (Essays on knowledge, man as a subject for science, chance, philosophy and politics, existentialism, metaphysics, and a reply to Austin on sense-data theory.)
+* 1971, *Russell and Moore: The Analytical Heritage*, London: Macmillan.
+* 1972a, *Probability and Evidence*, London: Macmillan.
+* 1972b, *Bertrand Russell*, London: Fontana.
+* 1973, *The Central Questions of Philosophy*, London: Weidenfeld.
+* 1979, “Replies”, in G. Macdonald, ed., *Perception and Identity*, London: Macmillan.
+* 1980, *Hume*, Oxford: Oxford University Press
+* 1982, *Philosophy in the Twentieth Century*, London: Weidenfeld.
+* 1984, *Freedom and Morality and Other Essays*, Oxford: Clarendon Press.
+* 1986, *Ludwig Wittgenstein*, London: Penguin.
+* 1977, *Part of My Life*, London: Collins.
+* 1984, *More of My Life*, London: Collins.
 
 #### Secondary Literature
 
 * Altham, J., 1986, “The Legacy of Emotivism”, in Macdonald and Wright, 1986.
-* Austin, J.L., 1962, _Sense and Sensibilia_, Oxford: Clarendon Press.
-* Blackburn, S., 1984, _Spreading the Word_, Oxford: Clarendon Press.
-* –––, 1998, _Ruling Passions_, Oxford: Clarendon Press.
-* Chalmers, D., 2004, “Epistemic Two-Dimensional Semantics” in _Philosophical Studies_, 118 (1–2): 153–226.
-* Church, A., 1949, “Review of _Language, Truth, and Logic_”, _Journal of Symbolic Logic_, 14: 52–3.
+* Austin, J.L., 1962, *Sense and Sensibilia*, Oxford: Clarendon Press.
+* Blackburn, S., 1984, *Spreading the Word*, Oxford: Clarendon Press.
+* –––, 1998, *Ruling Passions*, Oxford: Clarendon Press.
+* Chalmers, D., 2004, “Epistemic Two-Dimensional Semantics” in *Philosophical Studies*, 118 (1–2): 153–226.
+* Church, A., 1949, “Review of *Language, Truth, and Logic*”, *Journal of Symbolic Logic*, 14: 52–3.
 * Dreier, James, 2004, “Meta-ethics and the problem of Creeping Minimalism”, in Hawthorne 2004.
-* Foster J., 1985, _A.J. Ayer_, London: Routledge.
-* Gettier, E.L., 1963, “Is Justified True Belief Knowledge?” in _Analysis_, 23 (6): 121-123.
-* Gibbard, A., 1990, _Wise Choices, Apt Feelings_, Oxford: Clarendon Press.
-* Griffiths, A.P., 1991, _A.J. Ayer Memorial Essays_, Cambridge: Cambridge University Press.
-* Hahn, L.E., 1992, _The Philosophy of A.J. Ayer_, Open Court.
-* Hanfling, O., 1999, _Ayer_, London: Routledge.
-* Hawthorne, John, ed., 2004, _Ethics_, Volume 18, _Philosophical Perspectives_ series, Oxford, Malden, MA: Blackwell.
-* Honderich, T., 1991, _Essays on A.J. Ayer_, Cambridge: Cambridge University Press.
-* Jackson, F., 1998, _From Metaphysics to Ethics_, Oxford: Oxford University Press.
-* Juhos, B., 1969, “Logical and Empirical Probabllity”, _Logique et Analyse_, XII (47): 277–282.
-* Lewis, D.K., 1988, “Statements Partly About Observation”, _Philosophical Papers_ 17: 1–31.
-* Macdonald, G.F., 1979, _Perception and Identity_, London: Macmillan.
-* Macdonald, Graham. and Wright, C., 1986, _Fact, Science, and Morality_, Oxford: Blackwell.
-* Mackie, J.L., 1977, _Ethics: Inventing Right and Wrong_, Harmondsworth: Penguin.
-* Martin, R., 2000, _On Ayer_ Wadsworth Publishing Co.
-* Rogers, Ben, 1999, _A.J. Ayer: A Life_, London: Chatto & Windus.
-* Schroeder, M., 2010, _Noncognitivism in Ethics_, London: Routledge.
+* Foster J., 1985, *A.J. Ayer*, London: Routledge.
+* Gettier, E.L., 1963, “Is Justified True Belief Knowledge?” in *Analysis*, 23 (6): 121-123.
+* Gibbard, A., 1990, *Wise Choices, Apt Feelings*, Oxford: Clarendon Press.
+* Griffiths, A.P., 1991, *A.J. Ayer Memorial Essays*, Cambridge: Cambridge University Press.
+* Hahn, L.E., 1992, *The Philosophy of A.J. Ayer*, Open Court.
+* Hanfling, O., 1999, *Ayer*, London: Routledge.
+* Hawthorne, John, ed., 2004, *Ethics*, Volume 18, *Philosophical Perspectives* series, Oxford, Malden, MA: Blackwell.
+* Honderich, T., 1991, *Essays on A.J. Ayer*, Cambridge: Cambridge University Press.
+* Jackson, F., 1998, *From Metaphysics to Ethics*, Oxford: Oxford University Press.
+* Juhos, B., 1969, “Logical and Empirical Probabllity”, *Logique et Analyse*, XII (47): 277–282.
+* Lewis, D.K., 1988, “Statements Partly About Observation”, *Philosophical Papers* 17: 1–31.
+* Macdonald, G.F., 1979, *Perception and Identity*, London: Macmillan.
+* Macdonald, Graham. and Wright, C., 1986, *Fact, Science, and Morality*, Oxford: Blackwell.
+* Mackie, J.L., 1977, *Ethics: Inventing Right and Wrong*, Harmondsworth: Penguin.
+* Martin, R., 2000, *On Ayer* Wadsworth Publishing Co.
+* Rogers, Ben, 1999, *A.J. Ayer: A Life*, London: Chatto & Windus.
+* Schroeder, M., 2010, *Noncognitivism in Ethics*, London: Routledge.
 * Smith, M., 1986, “Should We Believe in Emotivism”, in Macdonald and Wright, 1986.
-* Stevenson, C.L., 1944, _Ethics and Language_, New Haven, Conn.: Yale University Press.
-* Thau, M., 2004, “What is Disjunctivism?” in _Philosophical Studies_, 120: 193–253.
-* Wilks, C., 2002, _Emotion, Truth and Meaning_, Kluwer Academic Publishers: Dordrecht.
+* Stevenson, C.L., 1944, *Ethics and Language*, New Haven, Conn.: Yale University Press.
+* Thau, M., 2004, “What is Disjunctivism?” in *Philosophical Studies*, 120: 193–253.
+* Wilks, C., 2002, *Emotion, Truth and Meaning*, Kluwer Academic Publishers: Dordrecht.
 * Williams, B., 1979, “Another Time, Another Place, Another Person”, in Macdonald (ed.) 1979, pp. 252–261.
 * Wright, C., 1986, “Scientific Realism, Observation, and the Verification Principle”, in Macdonald and Wright, 1986.
-* –––, 1989, “The Verification Principle: Another Puncture – Another Patch”, _Mind_, 98: 611–22.
+* –––, 1989, “The Verification Principle: Another Puncture – Another Patch”, *Mind*, 98: 611–22.
 
 ## Academic Tools
 
@@ -203,8 +203,8 @@ A more complete bibliography of Ayer’s work up to 1979 can be found in Macdona
 
 ## Other Internet Resources
 
-* [Alfred Ayer](http://en.wikipedia.org/wiki/A.\_J.\_Ayer), entry on Ayer in Wikipedia.
-* [The Condensed Edition of A.J. Ayer’s _Language, Truth and Logic_](http://sqapo.com/ayer.htm), maintained by Glyn Hughes.
+* [Alfred Ayer](http://en.wikipedia.org/wiki/A.\*J.\*Ayer), entry on Ayer in Wikipedia.
+* [The Condensed Edition of A.J. Ayer’s *Language, Truth and Logic*](http://sqapo.com/ayer.htm), maintained by Glyn Hughes.
 * [The Brains Trust](https://web.archive.org/web/20130520103149/http://atschool.eduweb.co.uk/stevemoss/bron/ayer.htm), by A.J. Ayer, maintained by Stephen Moss.
 
 ## Related Entries
@@ -213,4 +213,4 @@ A more complete bibliography of Ayer’s work up to 1979 can be found in Macdona
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 [Graham Macdonald](http://staffprofiles.humanities.manchester.ac.uk/Profile.aspx?Id=Graham.Macdonald)\
-Nikhil Krishnan <[_nk459@cam.ac.uk_](mailto:nk459%40cam%2eac%2euk)>
+Nikhil Krishnan <[*nk459@cam.ac.uk*](mailto:nk459%40cam%2eac%2euk)>

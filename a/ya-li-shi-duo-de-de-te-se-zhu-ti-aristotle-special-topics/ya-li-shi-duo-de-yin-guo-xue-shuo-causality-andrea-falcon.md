@@ -1,6 +1,6 @@
 # 亚里士多德因果学说 causality (Andrea Falcon)
 
-_首次发表于 2006 年 1 月 11 日；实质性修订于 2023 年 3 月 7 日_
+*首次发表于 2006 年 1 月 11 日；实质性修订于 2023 年 3 月 7 日*
 
 因果关系是亚里士多德科学和哲学事业的核心。每个亚里士多德科学都包含对现实特定部门的因果调查。如果成功，这样的调查将产生因果知识；也就是说，相关或适当的原因的知识。对因果概念的强调解释了为什么亚里士多德发展了一种通常被称为四因说的因果论。对于亚里士多德来说，对原因是什么，以及有多少种原因是至关重要的，这对于我们成功地调查周围世界是必不可少的。
 
@@ -16,7 +16,7 @@ _首次发表于 2006 年 1 月 11 日；实质性修订于 2023 年 3 月 7 日
 * [8. 亚里士多德术语词汇表](https://plato.stanford.edu/entries/aristotle-causality/#GlosArisTerm)
 * [参考文献](https://plato.stanford.edu/entries/aristotle-causality/#Bib)
 * [总体概述](https://plato.stanford.edu/entries/aristotle-causality/#GeneSurv)
-* [四个原因](https://plato.stanford.edu/entries/aristotle-causality/#FourCaus\_1)
+* [四个原因](https://plato.stanford.edu/entries/aristotle-causality/#FourCaus\*1)
 * [艺术与自然](https://plato.stanford.edu/entries/aristotle-causality/#ArtNatu)
 * [目的论与必然性](https://plato.stanford.edu/entries/aristotle-causality/#TeleNece)
 * [特殊主题](https://plato.stanford.edu/entries/aristotle-causality/#SpecTopi)
@@ -42,16 +42,16 @@ _首次发表于 2006 年 1 月 11 日；实质性修订于 2023 年 3 月 7 日
 
 在《后分析学》中，亚里士多德对正确知识提出了以下关键条件：只有当我们掌握了事物的原因时，我们才认为自己对它有了知识（《后分析学》I 2，71 b 9–11。参见《后分析学》II 11，94 a 20）。这种正确知识是对原因的知识，在《物理学》中也有所重复：我们认为只有当我们掌握了事物的为什么，也就是它的原因时，我们才拥有对它的知识（《物理学》II 3，194 b 17–20）。由于亚里士多德显然将因果关系的研究视为对为什么问题的寻求答案，而为什么问题是对解释的要求，因此将原因视为某种类型的解释是有用的。
 
-这个最后的陈述需要进一步解释。确实，并不是所有的为什么问题都是要求解释并确定一个原因，更不用说亚里士多德所设想的特定意义上的原因了。然而，亚里士多德明确认为提供相关原因对于提供科学解释是必要且充分的。他对原因的概念既有一个_形而上学_的成分，也有一个_认识论_的成分。我们面临的挑战之一是要对这两个成分都做出公正的评价。根据最近的建议，我们可以说“原因并不是我们解释事物的方式，除非是派生的，因为它们是自然界中一些元素解释其他元素的方式。”（Stein 2012a: 705）
+这个最后的陈述需要进一步解释。确实，并不是所有的为什么问题都是要求解释并确定一个原因，更不用说亚里士多德所设想的特定意义上的原因了。然而，亚里士多德明确认为提供相关原因对于提供科学解释是必要且充分的。他对原因的概念既有一个*形而上学*的成分，也有一个*认识论*的成分。我们面临的挑战之一是要对这两个成分都做出公正的评价。根据最近的建议，我们可以说“原因并不是我们解释事物的方式，除非是派生的，因为它们是自然界中一些元素解释其他元素的方式。”（Stein 2012a: 705）
 
 在《物理学》第二篇第三章和《形而上学》第五篇第二章中，亚里士多德提出了他关于四个原因的一般性说明。这个说明是一般性的，因为它适用于一切需要解释的事物，包括艺术创作和人类行为。在这里，亚里士多德认识到一个事物可以扮演四种不同的解释角色。因此，有四种不同的（种类的）原因：
 
-* _材料原因_，或者是对于“它由什么材料制成？”这个问题的回答。在回答中所指出的并不一定是像砖块、石头或木板这样的物质对象。根据亚里士多德的观点，A 和 B 是音节 BA 的材料原因。
-* _形式原因_ 或者是对于问题“它是什么？”的回答。在回答中被指出的是本质或某物的本质是什么。
-* _效果原因_ 或者是对于问题“变化（或运动）来自哪里？”的回答。在回答中被指出的是变化（或运动）的来源。
-* _最终原因_ 是对于问题“它的好处是什么？”的回答。在回答中被指出的是为了某事或某事件而做或发生的目的。
+* *材料原因*，或者是对于“它由什么材料制成？”这个问题的回答。在回答中所指出的并不一定是像砖块、石头或木板这样的物质对象。根据亚里士多德的观点，A 和 B 是音节 BA 的材料原因。
+* *形式原因* 或者是对于问题“它是什么？”的回答。在回答中被指出的是本质或某物的本质是什么。
+* *效果原因* 或者是对于问题“变化（或运动）来自哪里？”的回答。在回答中被指出的是变化（或运动）的来源。
+* *最终原因* 是对于问题“它的好处是什么？”的回答。在回答中被指出的是为了某事或某事件而做或发生的目的。
 
-所有四种（种类的）原因都可以以非巧合的方式进入对某事物的解释中。考虑一个像青铜雕像这样的工艺品的制作过程。青铜作为雕像制作的解释中的_材料原因_而存在。请注意，青铜不仅是雕像的材料，而且也是变化的主体，即经历变化并最终成为雕像的物体。青铜被熔化并倒入以获得新的形状，即雕像的形状。这个形状作为_形式原因_进入对雕像制作的解释中。然而，对雕像制作的充分解释还需要涉及到_效果原因_或者产生雕像的原则。对亚里士多德来说，这个原则就是铸造青铜雕像的艺术（《物理学》第二卷第 3 章，195 a 6–8。参见《形而上学》第 5 卷第 2 章，1013 b 6–9）。
+所有四种（种类的）原因都可以以非巧合的方式进入对某事物的解释中。考虑一个像青铜雕像这样的工艺品的制作过程。青铜作为雕像制作的解释中的*材料原因*而存在。请注意，青铜不仅是雕像的材料，而且也是变化的主体，即经历变化并最终成为雕像的物体。青铜被熔化并倒入以获得新的形状，即雕像的形状。这个形状作为*形式原因*进入对雕像制作的解释中。然而，对雕像制作的充分解释还需要涉及到*效果原因*或者产生雕像的原则。对亚里士多德来说，这个原则就是铸造青铜雕像的艺术（《物理学》第二卷第 3 章，195 a 6–8。参见《形而上学》第 5 卷第 2 章，1013 b 6–9）。
 
 这个结果有些令人惊讶，并需要进一步解释。毫无疑问，铸造青铜雕像的艺术存在于一个负责制作雕像的个体工匠中。然而，根据亚里士多德的观点，在制作雕像的过程中，工匠所做的只是特定知识的表现。这种知识，而不是掌握这种知识的工匠本身，是应该被选择为最准确的效果原因的显著解释因素（《物理学》第二卷第 3 章，195 b 21–25）。
 
@@ -85,7 +85,7 @@ _首次发表于 2006 年 1 月 11 日；实质性修订于 2023 年 3 月 7 日
 
 亚里士多德的回答是，对手应该解释为什么牙齿会以它们现在的方式生长：前面是尖锐的牙齿，嘴里后面是宽大的臼齿。此外，由于这种牙齿排列适合咬和咀嚼动物摄入的食物，对手应该解释动物的需求与牙齿形成之间的正常联系。要么牙齿的形成与动物的需求之间存在真正的因果关系，要么没有真正的因果关系，牙齿的生长方式只是对动物有利的巧合。在第二种情况下，牙齿以对动物有利的方式生长只是巧合。但这并不能解释这种联系的正常性。正常性需要解释，巧合并不能解释。换句话说，说牙齿的生长是由于物质的必然性，而这对动物有利是巧合的，这样就没有解释牙齿的生长与动物需求之间的正常联系。亚里士多德提出最终目的论作为他对这种正常联系的解释：牙齿以咬和咀嚼食物的方式生长，这对动物有益（参见 Code 1997: 127–134）。
 
-关于亚里士多德的回答，有一点值得赞赏，即最终原因作为解释有机体（如动物）部分形成的因素之一，是对动物的存在或繁荣而言是有益的。在第一种情况下，某物对动物有益，是因为动物没有它就无法生存；在第二种情况下，某物对动物有益，是因为动物有了它就更好。这有助于我们理解为什么在引入与自然过程研究相关的目的（_telos_）的概念时，亚里士多德坚持其善的性质：“并不是最后的一切都声称是目的（_telos_），而只有最好的才是”（《物理学》第二卷第 8 章，194 a 32–33）。
+关于亚里士多德的回答，有一点值得赞赏，即最终原因作为解释有机体（如动物）部分形成的因素之一，是对动物的存在或繁荣而言是有益的。在第一种情况下，某物对动物有益，是因为动物没有它就无法生存；在第二种情况下，某物对动物有益，是因为动物有了它就更好。这有助于我们理解为什么在引入与自然过程研究相关的目的（*telos*）的概念时，亚里士多德坚持其善的性质：“并不是最后的一切都声称是目的（*telos*），而只有最好的才是”（《物理学》第二卷第 8 章，194 a 32–33）。
 
 一旦他坚定地捍卫了最终原因的使用，亚里士多德可以进一步关注物质在他的解释项目中所起的作用。让我们回到亚里士多德选择的例子，即口腔前部尖锐牙齿和后部宽大的臼齿的正常生长。在自然过程中，材料过程还剩下什么解释作用？亚里士多德似乎无法确定牙齿生长中涉及的材料过程是什么，但他愿意承认某些材料过程必须发生才能使牙齿以特定的方式生长。换句话说，牙齿的形成不仅仅依赖于这些材料过程，但是如果相关的材料过程不发生，这种形成就不会发生。对于亚里士多德来说，这些材料过程是实现特定目标所必需的；在假设目标要实现的情况下，这是必需的。
 
@@ -99,9 +99,9 @@ _首次发表于 2006 年 1 月 11 日；实质性修订于 2023 年 3 月 7 日
 
 值得注意的是，在《动物部分》的第一卷中，并没有试图证明存在四种基本的因果方式。显然，亚里士多德希望读者已经熟悉他对四因的一般描述以及他对最终因果性的辩护。亚里士多德在这里关注的问题如下所示：由于最终原因和效果原因都参与了自然生成的解释，我们必须确定什么是第一位，什么是第二位（《动物部分》639 b 12–13）。亚里士多德认为，解释自然生成的唯一方法是参考过程的最终结果。这比负责启动生成过程的原则具有解释优先性。亚里士多德依赖于艺术生产和自然生成之间的类比，以及他为解释艺术生产而发展的目的论模型。例如，考虑造房子。解释房子是如何建造的，或者正在建造的，没有其他方法，除了参考过程的最终结果，即房子。更直接地说，砖块和梁木以特定的方式组合在一起，是为了达到某种目的：建造房子。这在自然生成的情况下也是如此。在这个背景下，亚里士多德的口号是“生成是为了物质，而不是物质为了生成”（《动物部分》640 a 18–19）。这意味着解释像动物这样的有机体的生成，或者其部分的形成，应该参考过程的最终产物；也就是说，某种类型的物质。
 
-从亚里士多德那里，我们了解到恩佩多克勒斯解释了人类脊柱分节的原因是胎儿在母体中扭转和转动的结果。亚里士多德认为这种解释是不可接受的（_PA_ 640 a 19–26）。首先，胎儿必须有能力以其所做的方式扭转和转动，而恩佩多克勒斯对这个事实没有解释。其次，更重要的是，恩佩多克勒斯忽视了一个事实，即生成一个人类需要“一个人类”。也就是说，生成的起源原则是一个完全发育的人类，其形式上与生成过程的最终结果完全相同。只有通过观察完全发育的人类，我们才能理解为什么我们的脊柱分节，并且为什么脊柱以特定的方式排列。这相当于找到脊柱在完全发育的人类生活中所起的作用。此外，只有通过观察完全发育的人类，我们才能解释为什么脊柱的形成以特定的方式进行。（有关最终原因优先于效果原因的解释优先级的更多信息，请参见 Code 1997：127-143。）
+从亚里士多德那里，我们了解到恩佩多克勒斯解释了人类脊柱分节的原因是胎儿在母体中扭转和转动的结果。亚里士多德认为这种解释是不可接受的（*PA* 640 a 19–26）。首先，胎儿必须有能力以其所做的方式扭转和转动，而恩佩多克勒斯对这个事实没有解释。其次，更重要的是，恩佩多克勒斯忽视了一个事实，即生成一个人类需要“一个人类”。也就是说，生成的起源原则是一个完全发育的人类，其形式上与生成过程的最终结果完全相同。只有通过观察完全发育的人类，我们才能理解为什么我们的脊柱分节，并且为什么脊柱以特定的方式排列。这相当于找到脊柱在完全发育的人类生活中所起的作用。此外，只有通过观察完全发育的人类，我们才能解释为什么脊柱的形成以特定的方式进行。（有关最终原因优先于效果原因的解释优先级的更多信息，请参见 Code 1997：127-143。）
 
-也许我们现在可以理解亚里士多德是如何论证存在四种原因的同时又说适当的知识是对“原因”或对“为什么”的知识（_APost_。I 2, 71 b 10–12, II 11, 94 a 20；_Phys_。II 3, 194 b 17–20；_Metaph_。I 1, 981 a 28–30）。诚然，至少乍一看，这有点令人困惑。当我们意识到亚里士多德承认最终/形式原因在效果和材料原因之上具有解释优先权时，困惑就会消失。当然，这并不意味着其他原因可以被消除或简化为形式原因。相反，亚里士多德坚称，在一系列完整的情况下，必须提供所有四种原因才能给出解释。更明确地说，在一系列完整的情况下，未涉及所有四种原因的解释根本不是解释。与此同时，最终/形式原因是主要原因，对这个原因的了解等同于对“为什么”的知识。
+也许我们现在可以理解亚里士多德是如何论证存在四种原因的同时又说适当的知识是对“原因”或对“为什么”的知识（*APost*。I 2, 71 b 10–12, II 11, 94 a 20；*Phys*。II 3, 194 b 17–20；*Metaph*。I 1, 981 a 28–30）。诚然，至少乍一看，这有点令人困惑。当我们意识到亚里士多德承认最终/形式原因在效果和材料原因之上具有解释优先权时，困惑就会消失。当然，这并不意味着其他原因可以被消除或简化为形式原因。相反，亚里士多德坚称，在一系列完整的情况下，必须提供所有四种原因才能给出解释。更明确地说，在一系列完整的情况下，未涉及所有四种原因的解释根本不是解释。与此同时，最终/形式原因是主要原因，对这个原因的了解等同于对“为什么”的知识。
 
 ## 6. 月食的解释
 
@@ -119,28 +119,28 @@ _首次发表于 2006 年 1 月 11 日；实质性修订于 2023 年 3 月 7 日
 
 ## 8. 亚里士多德术语词汇表
 
-* account: _logos_
-* 艺术：_技术_（technê）
-* 工匠：_技术者_（technitês），_创造者_（demiourgos）
-* 原因：_原因_（aitia），_因果_（aition）
+* account: *logos*
+* 艺术：*技术*（technê）
+* 工匠：*技术者*（technitês），*创造者*（demiourgos）
+* 原因：*原因*（aitia），*因果*（aition）
 
-_困难：_ aporia\*
+*困难：* aporia\*
 
-_目标：_ telos\*
+*目标：* telos\*
 
-_本质：_ to ti ên einai\*
+*本质：* to ti ên einai\*
 
-* 形式：_eidos_
-* 生成：_genesis_
-* 目标：_telos_
-* 知识：_epistêmê_
-* 假设：_hypothesis_
-* 必然性：_anankê_
-* 原则：_archê_
+* 形式：*eidos*
+* 生成：*genesis*
+* 目标：*telos*
+* 知识：*epistêmê*
+* 假设：*hypothesis*
+* 必然性：*anankê*
+* 原则：*archê*
 
 %%
 
-* 实体：_ousia_
+* 实体：*ousia*
 * 智慧：\*sophia
 *
   *
@@ -149,104 +149,104 @@ _本质：_ to ti ên einai\*
 
 ### General survey
 
-* Frede, M., 1980, “The Original Notion of Cause,” in J. Barnes, M. F. Burnyeat, M. Schofield (eds.), _Doubt and Dogmatism: Studies in Hellenistic Epistemology_, Oxford: Oxford University Press, 217–249; reprinted in M. Frede, _Essays in Ancient Philosophy_, Oxford: Oxford University Press, 1989, 125–150.
-* Hankinson, J. R., 1998, _Cause and Explanation in Ancient Greek Thought_, Oxford: Oxford University Press.
-* Natali, C., 2013, “_Aitia_ in Plato and Aristotle. From Everyday Language to Technical Vocabulary,” in C. Viano, C. Natali, and M. Zingano (eds.), _Aitia I: Les quatres causes: origines et interpretation_, Leuven: Peeters, 39–73.
-* Shields, C., 2007, “Explaining Nature and Nature of Explanation,” in C. Shields, _Aristotle_, London/New York: Routledge, 36–97.
+* Frede, M., 1980, “The Original Notion of Cause,” in J. Barnes, M. F. Burnyeat, M. Schofield (eds.), *Doubt and Dogmatism: Studies in Hellenistic Epistemology*, Oxford: Oxford University Press, 217–249; reprinted in M. Frede, *Essays in Ancient Philosophy*, Oxford: Oxford University Press, 1989, 125–150.
+* Hankinson, J. R., 1998, *Cause and Explanation in Ancient Greek Thought*, Oxford: Oxford University Press.
+* Natali, C., 2013, “*Aitia* in Plato and Aristotle. From Everyday Language to Technical Vocabulary,” in C. Viano, C. Natali, and M. Zingano (eds.), *Aitia I: Les quatres causes: origines et interpretation*, Leuven: Peeters, 39–73.
+* Shields, C., 2007, “Explaining Nature and Nature of Explanation,” in C. Shields, *Aristotle*, London/New York: Routledge, 36–97.
 
 ### The Four Causes
 
-* Annas, J., 1982, “Inefficient Causes,” _Philosophical Quarterly_, 32: 311–322; reprinted in T. Irwin (ed.), _Classical Philosophy. Collected Papers_, New York/London: Routledge, 1995, 11–27.
-* Bogen, J., 1974, “Moravcsik on Explanation,” _Synthese_, 28: 19–25.
-* Code, A., 1987, “Soul as Efficient Cause in Aristotle’s Embryology,” _Philosophical Topics_, 15: 51–59.
-* –––, 1997, “The Priority of Final Causes over Efficient Causes in Aristotle’s Parts of Animals,” in W. Kullmann and S. Föllinger (eds.), _Aristotelische Biologie_, Stuttgart: Steiner, 127–143.
-* Freeland, C., 1991, “Accidental Causes and Real Explanations,” in L. Judson (ed.), _Aristotle’s Physics: A Collection of Essays_, Oxford: Oxford University Press, 49–72.
-* Gourinat, J.-B., 2013, “‘Origine du mouvement’ et ‘cause efficiente’ chez Aristote,” in C. Viano, C. Natali, and M. Zingano (eds.), _Aitia I: Les quatres causes: origines et interpretation_, Leuven: Peeters, 91–119.
-* Henning, B., 2009, “The Four Causes,”_Journal of Philosophy_, 106: 137–160.
-* Hocutt, M., 1974, “Aristotle’s Four Becauses,” _Philosophy_, 49: 385–399.
-* Matthen, M., 1989, “The Four Causes in Aristotle’s Embryology,” _Apeiron_ (Special Issue, _Nature, Knowledge and Virtue_, R. Kraut and T. Penner, eds.), 22(4): 159–180.
-* Moravcsik, J. M., 1974, “Aristotle on Adequate Explanations,” _Synthese_, 28: 3–17.
-* –––, 1991, “What Makes Reality Intelligible? Reflections on Aristotle’s Theory of _Aitia_,” in L. Judson (ed.) _Aristotle’s Physics: A Collection of Essays_, Oxford: Oxford University Press, 31–48.
-* –––, 1995, “Philosophic Background of Aristotle’s _Aitia_,” in M. Sim (ed.), _The Crossroads of Norm and Nature. Essays on Aristotle’s Ethics and Metaphysics_, Lanham, MD: Rowman & Littlefield, 237–246.
-* Mure, G. R. G., 1975, “Cause and Because in Aristotle,” _Philosophy_, 50: 356–357.
-* Stein, N., 2011, “Aristotle’s Causal Pluralism,”_Archiv für Geschichte der Philosophie_, 93: 121–147.
-* –––, 2012a, “Causation and Explanation in Aristotle,” _Philosophy Compass_, 6(10): 699–707.
-* –––, 2012b, “Causal Necessity in Aristotle,” _British Journal for the History of Philosophy_, 20(5): 855–879.
-* –––, 2016, “Explanation and Hypothetical Necessity in Aristotle” _Ancient Philosophy_, 36: 353–382.
-* –––, 2021, “The Supposed Material Cause in _APost_ II 11,” _Phronesis_, 66: 27–51
-* –––, 2023, _Causality and Causal Explanation in Aristotle._ Oxford: Oxford University Press.
-* Schofield, M., 1991, “Explanatory Projects in _Physics_ 2.3 and 7,” _Oxford Studies in Ancient Philosophy_ (Supplementary Volume), 9: 29–40.
-* Sprague, R. K., 1968, “The Four Causes: Aristotle’s Exposition and Ours,” _Monist_, 52: 298–300.
-* Todd, R. B., 1976, “The Four Causes: Aristotle’s Exposition and the Ancients,” _Journal of the History of Ideas_, 37: 319–322.
-* Tuozzo, Th. M., 2011, “How Dynamic is Aristotle’s Efficient Cause?” _Epoché: A Journal for the History of Philosophy_, 15: 447–464.
-* –––, 2014, “Aristotle and the Discovery of Efficient Causation,” in T. M. Schmaltz (ed.), _Efficient Causation: A History_, Oxford: Oxford University Press, 23–47.
-* van Fraassen, B., 1980, “A Re-examination of Aristotle’s Philosophy of Science,” _Dialogue_, 19: 20–45.
+* Annas, J., 1982, “Inefficient Causes,” *Philosophical Quarterly*, 32: 311–322; reprinted in T. Irwin (ed.), *Classical Philosophy. Collected Papers*, New York/London: Routledge, 1995, 11–27.
+* Bogen, J., 1974, “Moravcsik on Explanation,” *Synthese*, 28: 19–25.
+* Code, A., 1987, “Soul as Efficient Cause in Aristotle’s Embryology,” *Philosophical Topics*, 15: 51–59.
+* –––, 1997, “The Priority of Final Causes over Efficient Causes in Aristotle’s Parts of Animals,” in W. Kullmann and S. Föllinger (eds.), *Aristotelische Biologie*, Stuttgart: Steiner, 127–143.
+* Freeland, C., 1991, “Accidental Causes and Real Explanations,” in L. Judson (ed.), *Aristotle’s Physics: A Collection of Essays*, Oxford: Oxford University Press, 49–72.
+* Gourinat, J.-B., 2013, “‘Origine du mouvement’ et ‘cause efficiente’ chez Aristote,” in C. Viano, C. Natali, and M. Zingano (eds.), *Aitia I: Les quatres causes: origines et interpretation*, Leuven: Peeters, 91–119.
+* Henning, B., 2009, “The Four Causes,”*Journal of Philosophy*, 106: 137–160.
+* Hocutt, M., 1974, “Aristotle’s Four Becauses,” *Philosophy*, 49: 385–399.
+* Matthen, M., 1989, “The Four Causes in Aristotle’s Embryology,” *Apeiron* (Special Issue, *Nature, Knowledge and Virtue*, R. Kraut and T. Penner, eds.), 22(4): 159–180.
+* Moravcsik, J. M., 1974, “Aristotle on Adequate Explanations,” *Synthese*, 28: 3–17.
+* –––, 1991, “What Makes Reality Intelligible? Reflections on Aristotle’s Theory of *Aitia*,” in L. Judson (ed.) *Aristotle’s Physics: A Collection of Essays*, Oxford: Oxford University Press, 31–48.
+* –––, 1995, “Philosophic Background of Aristotle’s *Aitia*,” in M. Sim (ed.), *The Crossroads of Norm and Nature. Essays on Aristotle’s Ethics and Metaphysics*, Lanham, MD: Rowman & Littlefield, 237–246.
+* Mure, G. R. G., 1975, “Cause and Because in Aristotle,” *Philosophy*, 50: 356–357.
+* Stein, N., 2011, “Aristotle’s Causal Pluralism,”*Archiv für Geschichte der Philosophie*, 93: 121–147.
+* –––, 2012a, “Causation and Explanation in Aristotle,” *Philosophy Compass*, 6(10): 699–707.
+* –––, 2012b, “Causal Necessity in Aristotle,” *British Journal for the History of Philosophy*, 20(5): 855–879.
+* –––, 2016, “Explanation and Hypothetical Necessity in Aristotle” *Ancient Philosophy*, 36: 353–382.
+* –––, 2021, “The Supposed Material Cause in *APost* II 11,” *Phronesis*, 66: 27–51
+* –––, 2023, *Causality and Causal Explanation in Aristotle.* Oxford: Oxford University Press.
+* Schofield, M., 1991, “Explanatory Projects in *Physics* 2.3 and 7,” *Oxford Studies in Ancient Philosophy* (Supplementary Volume), 9: 29–40.
+* Sprague, R. K., 1968, “The Four Causes: Aristotle’s Exposition and Ours,” *Monist*, 52: 298–300.
+* Todd, R. B., 1976, “The Four Causes: Aristotle’s Exposition and the Ancients,” *Journal of the History of Ideas*, 37: 319–322.
+* Tuozzo, Th. M., 2011, “How Dynamic is Aristotle’s Efficient Cause?” *Epoché: A Journal for the History of Philosophy*, 15: 447–464.
+* –––, 2014, “Aristotle and the Discovery of Efficient Causation,” in T. M. Schmaltz (ed.), *Efficient Causation: A History*, Oxford: Oxford University Press, 23–47.
+* van Fraassen, B., 1980, “A Re-examination of Aristotle’s Philosophy of Science,” *Dialogue*, 19: 20–45.
 
 ### Art and Nature
 
-* Broadie, S., 1990, “Nature and Craft in Aristotelian Teleology,” in D. Devereux and P. Pellegrin (eds.), _Biologie, Logique et Métaphysique chez Aristote_, CNRS: Paris, 389–403; reprinted in S. Broadie, _Aristotle and Beyond: Essays in Metaphysics and Ethics_, Cambridge: Cambridge University Press 2010, 85–100. \[This article is printed with the title “Nature, Craft, and _Phronesis_ in Aristotle,” _Philosophical Topics_, 15 (1987): 35–50.]
-* La Croce, E., 1976/1977,“El concepto aristotelico de tecnica,” _Ethos_, 4: 253–265.
-* Jacobs, W., 1978, “Art and Biology in Aristotle,” in G. C. Simmons (ed.), _Paideia_ (Special Aristotle Issue), Brockport/Buffalo: State University College, 16–29.
-* Solmsen, F., 1963, “Nature as Craftsman in Greek Thought,” _Journal of the History of Ideas_, 24: 473–496; reprinted in F. Solmsen, _Kleine Schriften_, Hildesheim: Olms, 332–351.
-* Witt, C., 2015, “In Defense of the Craft Analogy: Artifacts and Natural Teleology,” in M. Leunissen (ed.), _Aristotle’s Phyiscs: A Critical Guide_, Cambridge: Cambridge University Press, 107–120.
+* Broadie, S., 1990, “Nature and Craft in Aristotelian Teleology,” in D. Devereux and P. Pellegrin (eds.), *Biologie, Logique et Métaphysique chez Aristote*, CNRS: Paris, 389–403; reprinted in S. Broadie, *Aristotle and Beyond: Essays in Metaphysics and Ethics*, Cambridge: Cambridge University Press 2010, 85–100. \[This article is printed with the title “Nature, Craft, and *Phronesis* in Aristotle,” *Philosophical Topics*, 15 (1987): 35–50.]
+* La Croce, E., 1976/1977,“El concepto aristotelico de tecnica,” *Ethos*, 4: 253–265.
+* Jacobs, W., 1978, “Art and Biology in Aristotle,” in G. C. Simmons (ed.), *Paideia* (Special Aristotle Issue), Brockport/Buffalo: State University College, 16–29.
+* Solmsen, F., 1963, “Nature as Craftsman in Greek Thought,” *Journal of the History of Ideas*, 24: 473–496; reprinted in F. Solmsen, *Kleine Schriften*, Hildesheim: Olms, 332–351.
+* Witt, C., 2015, “In Defense of the Craft Analogy: Artifacts and Natural Teleology,” in M. Leunissen (ed.), *Aristotle’s Phyiscs: A Critical Guide*, Cambridge: Cambridge University Press, 107–120.
 
 ### Teleology and Necessity
 
-* Balme, D., 1987, “Teleology and Necessity,” in A. Gotthelf and J. G. Lennox (eds.), _Philosophical Issues in Aristotle Biology_, Cambridge: Cambridge University Press, 275–286.
-* Bolton, R., 1997, “The Material Cause: Matter and Explanation in Aristotle’s Natural Science,” in W. Kullmann and S. Föllinger (eds.), _Aristotelische Biologie_, Stuttgart: Steiner, 97–126.
-* Boylan, M., 1981, “Mechanism and Teleology in Aristotle’s Biology,” _Apeiron_, 15: 96–102.
-* –––, 1984, “The Place of Nature in Aristotle’s Teleology,” _Apeiron_, 18: 126–140.
-* Bradie, M., Miller, 1984, F. D., “Teleology and Natural Necessity in Aristotle,” _History of Philosophy Quarterly_, 1: 133–146.
-* Byrne, C., 2002, “Aristotle on Physical Necessity and the Limits of Teleological Explanation,” _Apeiron_, 35: 20–46.
-* Cameron, R., 2002, “The Ontology of Aristotle’s Final Cause,” _Apeiron_, 35: 153–179.
-* Charles, D., 1988, “Aristotle on Hypothetical Necessity and Irreducibility,” _Pacific Philosophical Quarterly_, 69: 1–53; reprinted in T. Irwin (ed.), _Classical Philosophy. Collected Papers_, New York/London: Routledge, 27–80.
-* –––, 1991, “Teleological Causation in the _Physics_,” in L. Judson (ed.), _Aristotle’s Physics: A Collection of Essays_, Oxford: Oxford University Press, 101–128.
-* –––, 2012, “Teleological Causation,” in C. Shields (ed.), _The Oxford Handbook of Aristotle_, Oxford: Oxford University Press, 227–266.
-* Cooper, J. M., 1982, “Aristotle on Natural Teleology,” in M. Schofield and M. Nussbaum (eds.), _Language and Logos_, Cambridge: Cambridge University Press, 197–222; reprinted in J. M. Cooper, _Knowledge, Nature and the Good: Essays on Ancient Philosophy_, Princeton: Princeton University Press, 2004, 107–129.
-* –––, 1985, “Hypothetical Necessity,” in A. Gotthelf (ed.), _Aristotle on Nature and Living Things_, Pittsburgh: Mathesis Publications, pp. 150–167; reprinted in J. M. Cooper, _Knowledge, Nature and the Good: Essays on Ancient Philosophy_, Princeton: Princeton University Press, 2004, 130–147.
-* –––, 1987, “Hypothetical Necessity and Natural Teleology,” in A. Gotthelf and J. G. Lennox (eds.), _Philosophical Issues in Aristotle Biology_, Cambridge: Cambridge University Press, 243–274.
-* Friedman, R., 1983, “Matter and Necessity in _Physics_ B 9, 200 a 15–30,” _Ancient Philosophy_, 1: 8–12.
-* Furley, D. J., 1999, “What Kind of Cause is Aristotle’ Final Cause?,” in M. Frede and G. Stricker (eds.), _Rationality in Greek Thought_, Oxford: Oxford University Press, 59–79.
-* Gotthelf, A., 1976/1977,“Aristotle Conception of Final Causality,” _Review of Metaphysics_, 30: 226–254; reprinted with additional notes and a Postscript in A. Gotthelf and J. G. Lennox (eds.), _Philosophical Issues in Aristotle’s Biology_, Cambridge: Cambridge University Press, 1987, 204–242. The original paper with the 1986 Postscript is reprinted in A. Gotthelf, _Teleology, First Principles, and Scientific Method in Aristotle’s Biology_, Oxford: Oxford University Press 2012, 1–44
-* –––, 1988, “The Place of the Good in Aristotle’s Teleology,” in J. J. Cleary and D. C. Shartin (eds.), _Proceedings of the Boston Colloquium in Ancient Philosophy_, 4: 113–39; reprinted in A. Gotthelf, _Teleology, First Principles, and Scientific Method in Aristotle’s Biology_, Oxford: Oxford University Press 2012, 45–66
-* –––, 1997, “Understanding Aristotle’s Teleology,” in R. Hassing (ed.), _Final Causality in Nature and Human Affairs_, Washington D.C.: Catholic University Press, 71–82. A revised, updated, and expanded version of this article is reprinted in A. Gotthelf, _Teleology, First Principles, and Scientific Method in Aristotle’s Biology_, Oxford: Oxford University Press, 2012, 67–89.
-* –––, 2012, “Teleology and Embryogenesis in Aristotle’s _Generation of Animals_ II 6,” in A. Gotthelf, _Teleology, First Principles, and Scientific Method in Aristotle’s Biology_, Oxford: Oxford University Press 2012, 90–116.
-* Henry, D., 2013, “Optimality and Teleology in Aristotle’s Natural Science,” in _Oxford Studies in Ancient Philosophy_, 37: 225–261.
-* Johnson, M. R., 2005, _Aristotle on Teleology_, Oxford: Oxford University Press.
-* Judson, L., 2005, “Aristotelian Teleology,”, _Oxford Studies in Ancient Philosophy_, 29: 341–365.
-* Leunissen, M., 2010, _Explanation and Teleology in Aristotle’s Science of Nature_, Cambridge: Cambridge University Press.
-* –––, 2010, “Nature as a Good Houskeeper. Secondary Teleology and Material Necessity in Aristotle’s Biology,” in _Apeiron_, 43: 117–142.
-* Leunissen, M., and A. Gotthelf, 2010, “What’s Teleology Got to Do with It? A Reinterpretation of Aristotle’s _Generation of Animals_,” _Phronesis_, 55: 325–356; reprinted in A. Gotthelf, _Teleology, First Principles, and Scientific Method in Aristotle’s Biology_, Oxford: Oxford University Press, 2012, 117–141.
-* Lewis, F., 1988, “Teleology and Material/Efficient Causes in Aristotle,” _Pacific Philosophical Quarterly_, 69: 54–98.
-* Nussbaum, M., 1978, “Aristotle on Teleological Explanation,” in M. Nussbaum, _Aristotle’s De motu animalium_, Princeton: Princeton University Press, 59–99.
-* Owens, J., 1968, “The Teleology of Nature,” _Monist_, 52: 159–173; reprinted J. R. Catan (ed.), _Aristotle: The Collected Papers of J. Owens_, Albany: State University of New York Press, 1981, 136–147.
-* Pellegrin, P., 2002, “Les ruses de la nature et l’eternité du mouvement. Encore quelques remarques sur la finalité chez Aristote,” in M. Canto-Sperber and P. Pellegrin (eds.), _Le Style de la pensée. Recueil des textes en hommage à Jacques Brunschwig_, Paris: Les Belles Lettres, 296–323.
-* Quarantotto, D., 2005, _Causa finale, sostanza, essenza in Aristotele, Saggi sulla struttura dei processi teleologici naturali e sulla funzione dei telos_, Napoli: Bibliopolis.
-* Sauvé Meyer, S., 1992, “Aristotle, Teleology, and Reduction,” _Philosophical Review_, 101, 791–825; reprinted in T. Irwin (ed.), _Classical Philosophy. Collected Papers_, New York/London: Routledge, 1995, 81–116.
-* Scharle, M., 2008, “Elemental Teleology in Aristotle’s _Physics_ II 8,” _Oxford Studies in Ancient Philosophy_, 34: 147–184.
-* –––, 2008, “The Role of Material and Efficient Causes in Aristotle’s Natural Philosophy,” in _Apeiron_, 41 (Special Issue: _Aristotle on Life_, J. Mouracade, ed.): 27–46.
-* Sorabji, R., 1980, _Necessity, Cause and Blame_, Ithaca: Cornell University Press.
-* Wieland, W., 1975, “The Problem of Teleology,” in J. Barnes, M. Schofield, R. Sorabji (eds.), _Articles on Aristotle_, London: Duckworth, pp. 141–160; originally published as chapter 16, “Zum Teleologieproblem,” of _Die aristotelische Physik_, Göttingen: Vandenhoeck und Ruprecht, 1962.
+* Balme, D., 1987, “Teleology and Necessity,” in A. Gotthelf and J. G. Lennox (eds.), *Philosophical Issues in Aristotle Biology*, Cambridge: Cambridge University Press, 275–286.
+* Bolton, R., 1997, “The Material Cause: Matter and Explanation in Aristotle’s Natural Science,” in W. Kullmann and S. Föllinger (eds.), *Aristotelische Biologie*, Stuttgart: Steiner, 97–126.
+* Boylan, M., 1981, “Mechanism and Teleology in Aristotle’s Biology,” *Apeiron*, 15: 96–102.
+* –––, 1984, “The Place of Nature in Aristotle’s Teleology,” *Apeiron*, 18: 126–140.
+* Bradie, M., Miller, 1984, F. D., “Teleology and Natural Necessity in Aristotle,” *History of Philosophy Quarterly*, 1: 133–146.
+* Byrne, C., 2002, “Aristotle on Physical Necessity and the Limits of Teleological Explanation,” *Apeiron*, 35: 20–46.
+* Cameron, R., 2002, “The Ontology of Aristotle’s Final Cause,” *Apeiron*, 35: 153–179.
+* Charles, D., 1988, “Aristotle on Hypothetical Necessity and Irreducibility,” *Pacific Philosophical Quarterly*, 69: 1–53; reprinted in T. Irwin (ed.), *Classical Philosophy. Collected Papers*, New York/London: Routledge, 27–80.
+* –––, 1991, “Teleological Causation in the *Physics*,” in L. Judson (ed.), *Aristotle’s Physics: A Collection of Essays*, Oxford: Oxford University Press, 101–128.
+* –––, 2012, “Teleological Causation,” in C. Shields (ed.), *The Oxford Handbook of Aristotle*, Oxford: Oxford University Press, 227–266.
+* Cooper, J. M., 1982, “Aristotle on Natural Teleology,” in M. Schofield and M. Nussbaum (eds.), *Language and Logos*, Cambridge: Cambridge University Press, 197–222; reprinted in J. M. Cooper, *Knowledge, Nature and the Good: Essays on Ancient Philosophy*, Princeton: Princeton University Press, 2004, 107–129.
+* –––, 1985, “Hypothetical Necessity,” in A. Gotthelf (ed.), *Aristotle on Nature and Living Things*, Pittsburgh: Mathesis Publications, pp. 150–167; reprinted in J. M. Cooper, *Knowledge, Nature and the Good: Essays on Ancient Philosophy*, Princeton: Princeton University Press, 2004, 130–147.
+* –––, 1987, “Hypothetical Necessity and Natural Teleology,” in A. Gotthelf and J. G. Lennox (eds.), *Philosophical Issues in Aristotle Biology*, Cambridge: Cambridge University Press, 243–274.
+* Friedman, R., 1983, “Matter and Necessity in *Physics* B 9, 200 a 15–30,” *Ancient Philosophy*, 1: 8–12.
+* Furley, D. J., 1999, “What Kind of Cause is Aristotle’ Final Cause?,” in M. Frede and G. Stricker (eds.), *Rationality in Greek Thought*, Oxford: Oxford University Press, 59–79.
+* Gotthelf, A., 1976/1977,“Aristotle Conception of Final Causality,” *Review of Metaphysics*, 30: 226–254; reprinted with additional notes and a Postscript in A. Gotthelf and J. G. Lennox (eds.), *Philosophical Issues in Aristotle’s Biology*, Cambridge: Cambridge University Press, 1987, 204–242. The original paper with the 1986 Postscript is reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press 2012, 1–44
+* –––, 1988, “The Place of the Good in Aristotle’s Teleology,” in J. J. Cleary and D. C. Shartin (eds.), *Proceedings of the Boston Colloquium in Ancient Philosophy*, 4: 113–39; reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press 2012, 45–66
+* –––, 1997, “Understanding Aristotle’s Teleology,” in R. Hassing (ed.), *Final Causality in Nature and Human Affairs*, Washington D.C.: Catholic University Press, 71–82. A revised, updated, and expanded version of this article is reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press, 2012, 67–89.
+* –––, 2012, “Teleology and Embryogenesis in Aristotle’s *Generation of Animals* II 6,” in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press 2012, 90–116.
+* Henry, D., 2013, “Optimality and Teleology in Aristotle’s Natural Science,” in *Oxford Studies in Ancient Philosophy*, 37: 225–261.
+* Johnson, M. R., 2005, *Aristotle on Teleology*, Oxford: Oxford University Press.
+* Judson, L., 2005, “Aristotelian Teleology,”, *Oxford Studies in Ancient Philosophy*, 29: 341–365.
+* Leunissen, M., 2010, *Explanation and Teleology in Aristotle’s Science of Nature*, Cambridge: Cambridge University Press.
+* –––, 2010, “Nature as a Good Houskeeper. Secondary Teleology and Material Necessity in Aristotle’s Biology,” in *Apeiron*, 43: 117–142.
+* Leunissen, M., and A. Gotthelf, 2010, “What’s Teleology Got to Do with It? A Reinterpretation of Aristotle’s *Generation of Animals*,” *Phronesis*, 55: 325–356; reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press, 2012, 117–141.
+* Lewis, F., 1988, “Teleology and Material/Efficient Causes in Aristotle,” *Pacific Philosophical Quarterly*, 69: 54–98.
+* Nussbaum, M., 1978, “Aristotle on Teleological Explanation,” in M. Nussbaum, *Aristotle’s De motu animalium*, Princeton: Princeton University Press, 59–99.
+* Owens, J., 1968, “The Teleology of Nature,” *Monist*, 52: 159–173; reprinted J. R. Catan (ed.), *Aristotle: The Collected Papers of J. Owens*, Albany: State University of New York Press, 1981, 136–147.
+* Pellegrin, P., 2002, “Les ruses de la nature et l’eternité du mouvement. Encore quelques remarques sur la finalité chez Aristote,” in M. Canto-Sperber and P. Pellegrin (eds.), *Le Style de la pensée. Recueil des textes en hommage à Jacques Brunschwig*, Paris: Les Belles Lettres, 296–323.
+* Quarantotto, D., 2005, *Causa finale, sostanza, essenza in Aristotele, Saggi sulla struttura dei processi teleologici naturali e sulla funzione dei telos*, Napoli: Bibliopolis.
+* Sauvé Meyer, S., 1992, “Aristotle, Teleology, and Reduction,” *Philosophical Review*, 101, 791–825; reprinted in T. Irwin (ed.), *Classical Philosophy. Collected Papers*, New York/London: Routledge, 1995, 81–116.
+* Scharle, M., 2008, “Elemental Teleology in Aristotle’s *Physics* II 8,” *Oxford Studies in Ancient Philosophy*, 34: 147–184.
+* –––, 2008, “The Role of Material and Efficient Causes in Aristotle’s Natural Philosophy,” in *Apeiron*, 41 (Special Issue: *Aristotle on Life*, J. Mouracade, ed.): 27–46.
+* Sorabji, R., 1980, *Necessity, Cause and Blame*, Ithaca: Cornell University Press.
+* Wieland, W., 1975, “The Problem of Teleology,” in J. Barnes, M. Schofield, R. Sorabji (eds.), *Articles on Aristotle*, London: Duckworth, pp. 141–160; originally published as chapter 16, “Zum Teleologieproblem,” of *Die aristotelische Physik*, Göttingen: Vandenhoeck und Ruprecht, 1962.
 
 ### Special Topics
 
-* Bodnár, I., 2005, “Teleology across Natures,” _Rhizai_, 2: 9–29.
-* Boeri, M. D., 1995, “Change and Teleology in Aristotle Physics,” _International Philosophical Quarterly_, 34: 87–96.
-* Code, A., 2015, “The Matter of Sleep,” in D. Ebrey, _Theory and PRactice in Aristotle’s Natural Science_, Cambrdige: Cambridge University Press, 11–45.
-* Fine, G., 1987, “Forms as Causes: Plato and Aristotle,” in A. Graeser (ed.), _Mathematics and Metaphysics in Aristotle_, Bern: Haupt, 69–112.
-* Furley, D. J., 1985,“The Rainfall Example in _Physics_ II 8,” in A. Gotthelf (ed.), _Aristotle on Nature and Living Things_, Pittsburgh: Mathesis Publications, 177–182; reprinted in D. J. Furley, _Cosmic Problems_, Cambridge: Cambridge University Press, 1989, 115–120.
-* –––, 2004, “Aristotle and the Atomists on Forms and Final Causes,” in R. W. Sharples, _Perspectives on Greek Philosophy_, Aldershot: Ashgate, 70–84.
-* Gaiser, K., 1969, “Das zweifache Telos bei Aristoteles”, in I. Düring (ed.), _Naturphilosophie bei Aristoteles und Theophrast_ (4th Simposium Aristotelicum), Heidelberg: Stiehm, 97–113.
-* Gotthelf, A., 1989, “Teleology and Spontaneous Generation: A Discussion,” _Apeiron_ (Special Issue, _Nature, Knowledge and Virtue_, R. Kraut and T. Penner, eds.), 22 (4): 181–193; reprinted in A. Gotthelf, _Teleology, First Principles, and Scientific Method in Aristotle’s Biology_, Oxford: Oxford University Press 2012, 142–150.
-* Kullmann, W., 1985, “Different Concepts of the Final Cause in Aristotle,” in A. Gotthelf (ed.), _Aristotle on Nature and Living Things_, Pittsburgh: Mathesis Publications, 170–175.
-* Lennox, J. G., 1984, “Aristotle on Chance,” _Archiv für Geschichte der Philosophie_, 66: 52–60; reprinted in J. G. Lennox, _Aristotle’s Philosophy of Biology_, Cambridge: Cambridge University Press, 1999, 250–258.
-* –––, 1982, “Teleology, Chance, and Aristotle’s Theory of Spontaneous Generation,” _The Journal of History of Philosophy_, 20: 219–238; reprinted in J. G. Lennox, _Aristotle’s Philosophy of Biology_, Cambridge: Cambridge University Press, 1999, 229–249.
-* –––, 1999, “Material and Formal Natures in Aristotle’s _De Partibus Animalium_,” in J. G. Lennox, _Aristotle’s Philosophy of Biology_, Cambridge: Cambridge University Press, 1999, 182–204.
-* Pavlopoulos, M., 2003, “Aristotle’s Natural Teleology and Metaphysics of Life”, _Oxford Studies in Ancient Philosophy_, 24: 133–181.
-* Sedley, D., 1991, “Is Aristotle’s Teleology Anthropocentric?” _Phronesis_, 36: 179–197.
-* –––, 2010, “Teleology, Aristotle and Plato,” in R. Bolton and J. G. Lennox (eds.), _Being, Nature, and Life. Essays in Honor of Allan Gotthelf_, Cambridge: Cambridge University Press, 5–29.
-* Turnbull, R. G., 1958, “Aristotle’s Debt to the ‘Natural Philosophy’ of the _Phaedo_,” _Philosophical Quarterly_, 8: 131–143.
-* Wardy, R., 1993,“Aristotelian Rainfall or the Lore of Averages,” _Phronesis_, 38, 18–30.
+* Bodnár, I., 2005, “Teleology across Natures,” *Rhizai*, 2: 9–29.
+* Boeri, M. D., 1995, “Change and Teleology in Aristotle Physics,” *International Philosophical Quarterly*, 34: 87–96.
+* Code, A., 2015, “The Matter of Sleep,” in D. Ebrey, *Theory and PRactice in Aristotle’s Natural Science*, Cambrdige: Cambridge University Press, 11–45.
+* Fine, G., 1987, “Forms as Causes: Plato and Aristotle,” in A. Graeser (ed.), *Mathematics and Metaphysics in Aristotle*, Bern: Haupt, 69–112.
+* Furley, D. J., 1985,“The Rainfall Example in *Physics* II 8,” in A. Gotthelf (ed.), *Aristotle on Nature and Living Things*, Pittsburgh: Mathesis Publications, 177–182; reprinted in D. J. Furley, *Cosmic Problems*, Cambridge: Cambridge University Press, 1989, 115–120.
+* –––, 2004, “Aristotle and the Atomists on Forms and Final Causes,” in R. W. Sharples, *Perspectives on Greek Philosophy*, Aldershot: Ashgate, 70–84.
+* Gaiser, K., 1969, “Das zweifache Telos bei Aristoteles”, in I. Düring (ed.), *Naturphilosophie bei Aristoteles und Theophrast* (4th Simposium Aristotelicum), Heidelberg: Stiehm, 97–113.
+* Gotthelf, A., 1989, “Teleology and Spontaneous Generation: A Discussion,” *Apeiron* (Special Issue, *Nature, Knowledge and Virtue*, R. Kraut and T. Penner, eds.), 22 (4): 181–193; reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press 2012, 142–150.
+* Kullmann, W., 1985, “Different Concepts of the Final Cause in Aristotle,” in A. Gotthelf (ed.), *Aristotle on Nature and Living Things*, Pittsburgh: Mathesis Publications, 170–175.
+* Lennox, J. G., 1984, “Aristotle on Chance,” *Archiv für Geschichte der Philosophie*, 66: 52–60; reprinted in J. G. Lennox, *Aristotle’s Philosophy of Biology*, Cambridge: Cambridge University Press, 1999, 250–258.
+* –––, 1982, “Teleology, Chance, and Aristotle’s Theory of Spontaneous Generation,” *The Journal of History of Philosophy*, 20: 219–238; reprinted in J. G. Lennox, *Aristotle’s Philosophy of Biology*, Cambridge: Cambridge University Press, 1999, 229–249.
+* –––, 1999, “Material and Formal Natures in Aristotle’s *De Partibus Animalium*,” in J. G. Lennox, *Aristotle’s Philosophy of Biology*, Cambridge: Cambridge University Press, 1999, 182–204.
+* Pavlopoulos, M., 2003, “Aristotle’s Natural Teleology and Metaphysics of Life”, *Oxford Studies in Ancient Philosophy*, 24: 133–181.
+* Sedley, D., 1991, “Is Aristotle’s Teleology Anthropocentric?” *Phronesis*, 36: 179–197.
+* –––, 2010, “Teleology, Aristotle and Plato,” in R. Bolton and J. G. Lennox (eds.), *Being, Nature, and Life. Essays in Honor of Allan Gotthelf*, Cambridge: Cambridge University Press, 5–29.
+* Turnbull, R. G., 1958, “Aristotle’s Debt to the ‘Natural Philosophy’ of the *Phaedo*,” *Philosophical Quarterly*, 8: 131–143.
+* Wardy, R., 1993,“Aristotelian Rainfall or the Lore of Averages,” *Phronesis*, 38, 18–30.
 
 ## Academic Tools
 
@@ -258,15 +258,15 @@ _本质：_ to ti ên einai\*
 
 ## Other Internet Resources
 
-* [Form and Function: Aristotle’s Four Causes](http://www.historyofphilosophy.net/aristotle-four-causes), Podcast: _The History of Philosophy ... without any gaps_, by Peter Adamson.
+* [Form and Function: Aristotle’s Four Causes](http://www.historyofphilosophy.net/aristotle-four-causes), Podcast: *The History of Philosophy ... without any gaps*, by Peter Adamson.
 
 ## Related Entries
 
-[Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Aristotle, General Topics: psychology](https://plato.stanford.edu/entries/aristotle-psychology/) | [causation: medieval theories of](https://plato.stanford.edu/entries/causation-medieval/) | [_episteme_ and _techne_ \[= scientific knowledge and expertise\]](https://plato.stanford.edu/entries/episteme-techne/)
+[Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Aristotle, General Topics: psychology](https://plato.stanford.edu/entries/aristotle-psychology/) | [causation: medieval theories of](https://plato.stanford.edu/entries/causation-medieval/) | [*episteme* and *techne* \[= scientific knowledge and expertise\]](https://plato.stanford.edu/entries/episteme-techne/)
 
 ### Acknowledgments
 
 Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin for commenting on drafts of this entry.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Andrea Falcon](http://www.andreafalcon.net/) <[_Andrea.Falcon@concordia.ca_](mailto:Andrea%2eFalcon%40concordia%2eca)>
+[Andrea Falcon](http://www.andreafalcon.net/) <[*Andrea.Falcon@concordia.ca*](mailto:Andrea%2eFalcon%40concordia%2eca)>

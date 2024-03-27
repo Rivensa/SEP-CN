@@ -195,9 +195,9 @@
 
 ## Other Internet Resources
 
-* [History of the Dominican Order](http://home.kpn.nl/otto.vervaart/dominican_order.htm)
+* [History of the Dominican Order](http://home.kpn.nl/otto.vervaart/dominican*order.htm)
 * [Albertus-Magnus-Institut](http://www.albertus-magnus-institut.de/), Bonn [German site]
-* [Biographisch-Bibliographisches Kirchenlexikon](https://web.archive.org/web/20090221120517/http://www.bautz.de/bbkl/a/albertus_magnus.shtml) [German site]
+* [Biographisch-Bibliographisches Kirchenlexikon](https://web.archive.org/web/20090221120517/http://www.bautz.de/bbkl/a/albertus*magnus.shtml) [German site]
 * [Alberti Magni E-Corpus](http://albertusmagnus.uwaterloo.ca/), electronic texts of Albert the Great, maintained at the University of Waterloo
 
 ## Related Entries

@@ -248,7 +248,7 @@ For more extensive Adorno bibliographies, see Huhn 2004, Müller-Doohm 2005, and
 * [Archives Center/University Library J.C. Senckenberg](http://www.ub.uni-frankfurt.de/archive/home.html) at the Johann Wolfgang Goethe University in Frankfurt. This university archive contains the literary bequests of Horkheimer, Pollock, and other of Adorno’s colleagues in the Frankfurt School.
 * [Association for Adorno Studies](http://adornostudies.wordpress.com/about/)
 * [Theodor W. Adorno Archive/Institute of Social Research](http://www.ifs.uni-frankfurt.de/adorno-archiv/), at the Johann Wolfgang Goethe University in Frankfurt.
-* [Theodor W. Adorno Archive in the Walter Benjamin Archive](http://www.adk.de/de/archiv/archivbestand/literatur/index.htm?hg=literatur&we_objectID=25126), at the Akademie der Künste in Berlin.
+* [Theodor W. Adorno Archive in the Walter Benjamin Archive](http://www.adk.de/de/archiv/archivbestand/literatur/index.htm?hg=literatur&we*objectID=25126), at the Akademie der Künste in Berlin.
 
 ## Related Entries
 

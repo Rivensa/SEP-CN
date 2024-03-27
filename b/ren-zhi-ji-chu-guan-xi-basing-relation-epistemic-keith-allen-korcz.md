@@ -1,6 +1,6 @@
 # 认知基础关系 basing relation, epistemic (Keith Allen Korcz)
 
-_首次发布于 2002 年 10 月 31 日；实质性修订于 2021 年 2 月 25 日_
+*首次发布于 2002 年 10 月 31 日；实质性修订于 2021 年 2 月 25 日*
 
 认知基础关系是一种关系，只有当理由是保持信念的理由时，理由和信念之间才存在这种关系。人们普遍认为，信念被基于理由是合理的必要条件，但不足以成为信念合理的充分条件。基础关系区分了一个人拥有的对某个信念的个人合理化做出贡献的好理由和不对该信念的个人合理化做出贡献的好理由。
 
@@ -28,17 +28,17 @@ _首次发布于 2002 年 10 月 31 日；实质性修订于 2021 年 2 月 25 �
 
 保罗·莫泽尔（Paul Moser）提供了以下关于命题理由的认知基础关系的因果理论的例子（Moser, 1989, p. 157）：
 
-_S_对_P_的信仰或同意是基于他的证明性理由_Q_ = df _S_对_P_的信仰或同意以非异常方式由他对_Q_的信仰或同意以及他对_P_和_Q_的关联所支持。
+*S*对*P*的信仰或同意是基于他的证明性理由*Q* = df *S*对*P*的信仰或同意以非异常方式由他对*Q*的信仰或同意以及他对*P*和*Q*的关联所支持。
 
 莫泽将这种基础关系的描述限制在推理知识的实例上，与上述更一般的基础关系的描述不同。
 
-当理由维持信念时，信念是由理由在因果上支持的，就像绳子可以维持悬挂植物的高度和位置一样。根据莫泽的观点，信念必须以非异常方式由对_Q_的信念或同意以及_P_和_Q_的关联所因果上支持。
+当理由维持信念时，信念是由理由在因果上支持的，就像绳子可以维持悬挂植物的高度和位置一样。根据莫泽的观点，信念必须以非异常方式由对*Q*的信念或同意以及*P*和*Q*的关联所因果上支持。
 
 Moser 将适当的当前关联关系定义如下（Moser 1989, pp. 141–142）：
 
-> _S_当前满足_E_和_P_之间的关联关系=df（i）_S_对_E_支持_P_的_de re_意识有感知，并且（ii）作为这种意识的非异常结果，_S_处于一种倾向状态，即如果他只关注他对_P_的证据（其他一切保持不变），他将会关注_E_。
+> *S*当前满足*E*和*P*之间的关联关系=df（i）*S*对*E*支持*P*的*de re*意识有感知，并且（ii）作为这种意识的非异常结果，*S*处于一种倾向状态，即如果他只关注他对*P*的证据（其他一切保持不变），他将会关注*E*。
 
-关联关系也可以是非当前的，而仍然通过所讨论的理由来证明信念的合理性。在这种情况下，条件（i）在过去已经得到满足，并且条件（ii）中描述的倾向状态仍然存在。"_de re_意识"是对_E_支持_P_的非命题性直接意识。这是一种在思考“我渴了”或“我冷了”之前可能会有的意识。这种意识是非命题性的，因为你不需要用言语来表达它，而且它是直接的，意味着在渴望和意识到自己渴望之间不需要有感觉状态（心理形象、感觉数据）。相比之下，有人认为，例如，我们意识到房间里有一张桌子是间接的，因为它是通过代表桌子的感觉状态（心理形象、感觉数据）来介导的。
+关联关系也可以是非当前的，而仍然通过所讨论的理由来证明信念的合理性。在这种情况下，条件（i）在过去已经得到满足，并且条件（ii）中描述的倾向状态仍然存在。"*de re*意识"是对*E*支持*P*的非命题性直接意识。这是一种在思考“我渴了”或“我冷了”之前可能会有的意识。这种意识是非命题性的，因为你不需要用言语来表达它，而且它是直接的，意味着在渴望和意识到自己渴望之间不需要有感觉状态（心理形象、感觉数据）。相比之下，有人认为，例如，我们意识到房间里有一张桌子是间接的，因为它是通过代表桌子的感觉状态（心理形象、感觉数据）来介导的。
 
 除了莫瑟的理论之外，还有许多其他可能的基础关系的因果理论可以提出。例如，可以消除关联条件，只要求理由以某种适当的方式引起信念。这样一个理论的动机可能是认为一个人不需要意识到一个理由才能成为信念的基础，就像潜意识理由的情况一样。这里的一个问题是这样的潜意识状态是否可以成为证明理由。或者，可以认为理由不需要维持信念，只需要引起信念的产生。这种观点的一个动机可能是一个人可能基于自己已经忘记的理由而有正当理由相信某些事情（Goldman 2001, pp. 214–216）。例如，大多数人都记不起自己相信老虎是亚洲本土动物的依据，但显然这样的人仍然有正当理由相信这一点。在这种情况下，理由不再维持信念，事实上，理由也不再拥有。尽管如此，可以提出的论点是，一个人相信老虎是亚洲本土动物的信念仍然是基于最初引起它的理由。另一方面，反对这种观点的一个考虑是，如果一个人没有理由支持一个信念，那么这个信念就不能被证明是正当的。此外，还可以争论，即使对于已经被遗忘的最初理由，也有其他解释一个信念如何可能是正当的方法。例如，可以这样推理：“我记不起我最初是在哪里学到这个的，但我确信这是真实的，而且这样的感觉在过去被证明是可靠的。因此，我相信老虎是亚洲本土动物的信念很可能是真实的。”
 
@@ -50,39 +50,39 @@ Moser 将适当的当前关联关系定义如下（Moser 1989, pp. 141–142）�
 
 然而，已经有人努力修改因果理论以避免这个问题：
 
-对于这个问题，Kevin McCain（McCain 2012）提出了一个有趣的可能解决方案。McCain 提出了一种干预主义的因果解释，根据这种解释，如果发生了_X_的变化，_Y_会以一种规律的方式发生变化（不考虑_Y_的其他冗余原因）。此外，只有在排除了所有其他因果相关事件的情况下，对_X_进行可能的干预（例如消除其因果力）才会改变_Y_（例如_Y_不会发生）。然后，基础关系可以定义如下：
+对于这个问题，Kevin McCain（McCain 2012）提出了一个有趣的可能解决方案。McCain 提出了一种干预主义的因果解释，根据这种解释，如果发生了*X*的变化，*Y*会以一种规律的方式发生变化（不考虑*Y*的其他冗余原因）。此外，只有在排除了所有其他因果相关事件的情况下，对*X*进行可能的干预（例如消除其因果力）才会改变*Y*（例如*Y*不会发生）。然后，基础关系可以定义如下：
 
-一个人_S_在时间_t_上对_p_的信念是基于她的理由_R_，当且仅当在_t_时：
+一个人*S*在时间*t*上对*p*的信念是基于她的理由*R*，当且仅当在*t*时：
 
 >
 
-1. 每个_ri_∈_R_都是_S_相信_p_的直接原因，且
-2. 每个 _ri_ ∈ _R_ 都是 _S_ 相信 _p_ 的实际原因，以及
-3. 当将除了 _R_ 的成员之外的所有直接导致 _S_ 相信 _p_ 的原因的值设为零时，不会导致 _S_ 不相信 _p_，而当每个 _ri_ ∈ _R_ 保持不变时，这种情况不成立。
+1. 每个*ri*∈*R*都是*S*相信*p*的直接原因，且
+2. 每个 *ri* ∈ *R* 都是 *S* 相信 *p* 的实际原因，以及
+3. 当将除了 *R* 的成员之外的所有直接导致 *S* 相信 *p* 的原因的值设为零时，不会导致 *S* 不相信 *p*，而当每个 *ri* ∈ *R* 保持不变时，这种情况不成立。
 
 > （McCain 2012，第 364 页）
 
-将直接原因的值设为零只是规定它不是一个原因。因此，条件（3）确保了_R_的成员共同足以导致 S 相信_p_。
+将直接原因的值设为零只是规定它不是一个原因。因此，条件（3）确保了*R*的成员共同足以导致 S 相信*p*。
 
 麦凯恩的理论为异常因果链问题提供了一个快速解决方案。例如，在普兰廷加的示例中，人们相信自己的腿疼仅仅基于他们腿部的疼痛感，因为根据麦凯恩的理论，变得慌乱或者相信自己看到希尔维亚都不是相信自己腿疼的直接原因。这是因为相信或者变得慌乱都不是相信自己腿疼的直接原因。（McCain 2012，第 372 页）要求一个原因必须是直接的，才能成为信念的基础，似乎限制了在这些情况下，建立基础关系的原因只能是因果链中紧接前一环节的原因。简化这一观点为一个口号，麦凯恩通过消除（作为基础的）因果链来消除异常因果链问题。
 
-McCain 讨论了一个潜在的问题，即要求基础关系是直接的可能是不合理的（McCain 2012，第 368-369 页）。以 McCain 的例子为例，假设 Sally 相信_p_并且_p_⊃_q_（“_p_蕴含_q_”），并且有效地推断并因此相信_q_。她还相信_q_⊃_t_，并且从她相信_q_和_q_⊃_t_推断出_t_。根据 McCain 对基础关系的理论，由于 Sally 相信_p_和_p_⊃_q_并不是她相信_t_的直接原因，她相信_t_不是基于这些信念的。换句话说，在 McCain 的理论中，基础关系不是可传递的。这引发了关于 McCain 的理论是否充分解释了我们对基础关系的先验理解的问题。特别是，McCain 的理论是否正确地确定了一个人对自己信念的理由？McCain 回答说，根据他的理论，我们仍然可以声称，例如，Sally 相信_t_依赖于她相信_p_和_p_⊃_q_，即使不是基于它们。
+McCain 讨论了一个潜在的问题，即要求基础关系是直接的可能是不合理的（McCain 2012，第 368-369 页）。以 McCain 的例子为例，假设 Sally 相信*p*并且*p*⊃*q*（“*p*蕴含*q*”），并且有效地推断并因此相信*q*。她还相信*q*⊃*t*，并且从她相信*q*和*q*⊃*t*推断出*t*。根据 McCain 对基础关系的理论，由于 Sally 相信*p*和*p*⊃*q*并不是她相信*t*的直接原因，她相信*t*不是基于这些信念的。换句话说，在 McCain 的理论中，基础关系不是可传递的。这引发了关于 McCain 的理论是否充分解释了我们对基础关系的先验理解的问题。特别是，McCain 的理论是否正确地确定了一个人对自己信念的理由？McCain 回答说，根据他的理论，我们仍然可以声称，例如，Sally 相信*t*依赖于她相信*p*和*p*⊃*q*，即使不是基于它们。
 
 一种替代的基础关系因果理论，旨在避免异常因果链的问题，由叶如（Ye 2020）提出，被称为信念引起的因果（CCB）：
 
-> （CCB）一个人对_p_的信念基于一个理由_R_，当且仅当_R_引起了这个信念，并且这种因果关系是由一个人相信_R_支持_p_所引起的。
+> （CCB）一个人对*p*的信念基于一个理由*R*，当且仅当*R*引起了这个信念，并且这种因果关系是由一个人相信*R*支持*p*所引起的。
 
-据推测，_R_不一定会产生对_p_的信念，而可能只是在因果上支持它。因此，一个人可以获得对_p_的信念，然后才在_R_的基础上建立对_p_的信念。请注意，与下文讨论的信念论基础关系不同，仅仅认为_R_支持_p_的信念是不足以建立基础关系的。
+据推测，*R*不一定会产生对*p*的信念，而可能只是在因果上支持它。因此，一个人可以获得对*p*的信念，然后才在*R*的基础上建立对*p*的信念。请注意，与下文讨论的信念论基础关系不同，仅仅认为*R*支持*p*的信念是不足以建立基础关系的。
 
 一般来说，为什么一个（潜在的）理由会引起一个信念而不是另一个信念，或者根本不引起信念？一个自然的答案是，这个人相信某种程度上这个理由是持有这个信念的好理由。（CCB）非常好地捕捉到了这个思想。
 
-叶辩称（CCB）具有相当的解释力。特别是，据说它避免了异常因果链的问题。考虑普兰廷加关于希尔维亚的例子：你对腿疼的信念虽然是因为看到希尔维亚进入房间而产生的，但并不是基于这个原因，因为你没有相信看到希尔维亚支持你对腿疼的信念。它还有助于澄清触发原因和结构原因之间的区别：后者在因果作用上与前者不同。在（CCB）的情况下，结构原因包括对_R_是一个好理由去相信_p_的信念。
+叶辩称（CCB）具有相当的解释力。特别是，据说它避免了异常因果链的问题。考虑普兰廷加关于希尔维亚的例子：你对腿疼的信念虽然是因为看到希尔维亚进入房间而产生的，但并不是基于这个原因，因为你没有相信看到希尔维亚支持你对腿疼的信念。它还有助于澄清触发原因和结构原因之间的区别：后者在因果作用上与前者不同。在（CCB）的情况下，结构原因包括对*R*是一个好理由去相信*p*的信念。
 
-叶继续辩称，CCB 并没有过度理性化基础关系（这个异议将在下文进一步讨论，与信念论的基础关系一起），使得那些（比如年幼的孩子）只有非常少的认知概念的人无法理解，因为根据莫泽的观点，关于自己理由的信念可能是_de re_的。关于那些甚至无法形成这种_de re_信念的人，叶认为这些情况与异常因果链无法区分。
+叶继续辩称，CCB 并没有过度理性化基础关系（这个异议将在下文进一步讨论，与信念论的基础关系一起），使得那些（比如年幼的孩子）只有非常少的认知概念的人无法理解，因为根据莫泽的观点，关于自己理由的信念可能是*de re*的。关于那些甚至无法形成这种*de re*信念的人，叶认为这些情况与异常因果链无法区分。
 
 第三种替代的因果理论形式是由约翰·图里（John Turri）提出的因果显现理论（Causal-Manifestation Account，CMA），也旨在避免异常因果链的问题（Turri 2011）。图里将这个理论描述为大致如下：
 
-> （CMA）：如果且仅如果_R_导致你的信念显现（至少部分）你的认知特征，那么_R_就是你相信_Q_的理由之一。
+> （CMA）：如果且仅如果*R*导致你的信念显现（至少部分）你的认知特征，那么*R*就是你相信*Q*的理由之一。
 
 一个认知特质被认为是在特定情况下形成（或维持）信念态度的倾向或习惯。这些情况可能包括，例如，直接接受经验，或按照假言三段论的模式进行推理等。考虑普兰廷加关于西尔维亚的例子：看到西尔维亚会导致你相信自己感到疼痛。但是，这两个事件之间的整体因果关系并没有表现出任何认知特质，比如某种认知推理。从看到西尔维亚开始的事件链中的个别环节可能表现出一些认知特质，但整体的因果关系则不具备这种特质。
 
@@ -94,40 +94,40 @@ Lehrer 的例子的思想是将律师有正当理由相信他的客户是无辜�
 
 ## 2. 基础关系的反事实理论
 
-在基础关系的许多广泛讨论的理论中，马歇尔·斯温（Marshall Swain）提出了一种理论（1979 年，1981 年和 1985 年）。出于对迷信律师风格的反例的关注，斯温建议通过反事实的因果分析来避免这些反例，而不损害基于因果理论的基础关系的直觉。反事实陈述是形式为“如果_A_发生，那么_B_会发生”的陈述，其中‘_A_’和‘_B_’表示事件。大致上，这个想法是，如果一个理由非异常地导致或者在适当的情况下本来会导致相应的信念，那么这个信念就是基于这个理由的。粗略地说，如果这个理由在适当的情况下本来会导致这个信念，那么根据斯温的术语，这个理由就是信念的伪过度决定因素，因此这个信念是基于它的。斯温认为，复杂的推理过程是律师对他的客户无辜的信念的伪过度决定因素，因此复杂的推理过程与律师的信念之间存在一种因果联系，律师的信念是基于这种推理的。斯温更精确地定义了伪过度决定因素如下（1981 年，第 70 页）：
+在基础关系的许多广泛讨论的理论中，马歇尔·斯温（Marshall Swain）提出了一种理论（1979 年，1981 年和 1985 年）。出于对迷信律师风格的反例的关注，斯温建议通过反事实的因果分析来避免这些反例，而不损害基于因果理论的基础关系的直觉。反事实陈述是形式为“如果*A*发生，那么*B*会发生”的陈述，其中‘*A*’和‘*B*’表示事件。大致上，这个想法是，如果一个理由非异常地导致或者在适当的情况下本来会导致相应的信念，那么这个信念就是基于这个理由的。粗略地说，如果这个理由在适当的情况下本来会导致这个信念，那么根据斯温的术语，这个理由就是信念的伪过度决定因素，因此这个信念是基于它的。斯温认为，复杂的推理过程是律师对他的客户无辜的信念的伪过度决定因素，因此复杂的推理过程与律师的信念之间存在一种因果联系，律师的信念是基于这种推理的。斯温更精确地定义了伪过度决定因素如下（1981 年，第 70 页）：
 
-（DPO）当_c_和_e_是发生的事件时，如果且仅当以下条件成立时，_c_是_e_的伪超决定因素：
+（DPO）当*c*和*e*是发生的事件时，如果且仅当以下条件成立时，*c*是*e*的伪超决定因素：
 
 >
 
-1. _c_不是_e_的原因（即，从_c_到_e_没有因果链，并且_c_不是_e_的真正超决定因素）；和
-2. 存在一些发生事件的集合，_D_ = {_d_1, _d_2, …, _dn_}（可能只有一个成员），使得
-3. _D_ 中的每个 _di_ 都是 _e_ 的原因；并且
-4. 如果 _D_ 的成员没有发生，但 _c_ 和 _e_ 仍然发生了，那么就会有一个从 _c_ 到 _e_ 的因果链，且 _c_ 在因果上先于 _e_。
+1. *c*不是*e*的原因（即，从*c*到*e*没有因果链，并且*c*不是*e*的真正超决定因素）；和
+2. 存在一些发生事件的集合，*D* = {*d*1, *d*2, …, *dn*}（可能只有一个成员），使得
+3. *D* 中的每个 *di* 都是 *e* 的原因；并且
+4. 如果 *D* 的成员没有发生，但 *c* 和 *e* 仍然发生了，那么就会有一个从 *c* 到 *e* 的因果链，且 *c* 在因果上先于 *e*。
 
-在这里，‘_c_’代表一个原因，‘_e_’代表一个结果。如果我们将(DPO)的应用限制在原因和信念上，那么_c_将是原因，_e_将是由原因引起的信念。"di"将代表信念的实际原因。因此，(DPO)实际上陈述了如果信念的实际原因_di_没有发生，那么如果另一个原因_c_和信念仍然发生，并且只对个人认知情况进行最小必要的变化（例如，个人的其他信念、原因等），那么原因_c_将会引起信念，因此是信念的伪过决定因素。
+在这里，‘*c*’代表一个原因，‘*e*’代表一个结果。如果我们将(DPO)的应用限制在原因和信念上，那么*c*将是原因，*e*将是由原因引起的信念。"di"将代表信念的实际原因。因此，(DPO)实际上陈述了如果信念的实际原因*di*没有发生，那么如果另一个原因*c*和信念仍然发生，并且只对个人认知情况进行最小必要的变化（例如，个人的其他信念、原因等），那么原因*c*将会引起信念，因此是信念的伪过决定因素。
 
 需要注意的是，一个潜在的原因不会仅仅因为在某个可能的世界中实际原因没有引起信念而伪过决定信念。这太过宽泛了，因为它将允许信念基于原因，而在实际世界中显然并非如此。相反，(DPO)中的各种规定旨在将相关的可能世界领域限制在尽可能接近实际世界的范围内。
 
 Swain 关于基础关系的理论将信念的伪过决定因素视为信念基于的原因，这一点可以从 Swain 提供的基础关系定义中看出（Swain 1981, p. 74 and pp. 86–87）\[6]。
 
-（DB）_S_对于_h_的信念基于在时间_t_的一组因果原因_R_
+（DB）*S*对于*h*的信念基于在时间*t*的一组因果原因*R*
 
 >
 
-1. _S_在时间_t_相信_h_；并且
-2. 对于集合_R_的每个成员_rj_，存在某个时间_tn_（可能与_t_相同或早于_t_），满足以下条件：
-3. _S_在_tn_时拥有（或曾经拥有）_rj_；并且
+1. *S*在时间*t*相信*h*；并且
+2. 对于集合*R*的每个成员*rj*，存在某个时间*tn*（可能与*t*相同或早于*t*），满足以下条件：
+3. *S*在*tn*时拥有（或曾经拥有）*rj*；并且
 4. 要么
-5. _S_在_tn_时具有_rj_是_S_在_t_时相信_h_的原因（包括真正的过度决定），或者_S_在_tn_时具有_rj_是_S_在_t_时相信_h_的伪过度决定；或者
-6. 对于满足条件（i）的某些_ri_和_ti_，将'_rj_'替换为'_ri_'，'_tn_'替换为'_ti_'，_S_在_tn_时具有_rj_要么是_S_在_ti_时具有_ri_的原因，要么是_S_在_ti_时具有_ri_的伪过度决定，或者
+5. *S*在*tn*时具有*rj*是*S*在*t*时相信*h*的原因（包括真正的过度决定），或者*S*在*tn*时具有*rj*是*S*在*t*时相信*h*的伪过度决定；或者
+6. 对于满足条件（i）的某些*ri*和*ti*，将'*rj*'替换为'*ri*'，'*tn*'替换为'*ti*'，*S*在*tn*时具有*rj*要么是*S*在*ti*时具有*ri*的原因，要么是*S*在*ti*时具有*ri*的伪过度决定，或者
 7. ...，等等。
 
-真正的因果超决定发生在两个或更多的原因同时发生，并且每个原因都足以产生特定的效果。例如，也许一张桌子有五条腿，四条在角落，一条在中心。也许四条角落的腿足以使桌子保持直立，但如果四条角落的腿被移除，中心的腿也足以使桌子保持直立。在这种情况下，桌子保持直立的效果既是由中心的腿超决定的，又是由四条角落的腿超决定的。同样，也许一个人有两个支持某种信念的充分理由，其中任何一个理由单独来看都足以引起这种信念。在这种情况下，这两个理由被称为超决定了这种信念。假设因果关系没有偏离，这种信念将基于这两个理由。在（DB）中的“_ri_”和“_rj_”只是信念基础上的理由。条件（ii）允许一个理由_rj_，它反过来是一个理由_ri_，_ri_又是信念_h_的理由，也是信念_h_基于的理由，而“或...等等”子句的目的是包括一长串推理中的每个理由，以使其成为信念基础的理由。
+真正的因果超决定发生在两个或更多的原因同时发生，并且每个原因都足以产生特定的效果。例如，也许一张桌子有五条腿，四条在角落，一条在中心。也许四条角落的腿足以使桌子保持直立，但如果四条角落的腿被移除，中心的腿也足以使桌子保持直立。在这种情况下，桌子保持直立的效果既是由中心的腿超决定的，又是由四条角落的腿超决定的。同样，也许一个人有两个支持某种信念的充分理由，其中任何一个理由单独来看都足以引起这种信念。在这种情况下，这两个理由被称为超决定了这种信念。假设因果关系没有偏离，这种信念将基于这两个理由。在（DB）中的“*ri*”和“*rj*”只是信念基础上的理由。条件（ii）允许一个理由*rj*，它反过来是一个理由*ri*，*ri*又是信念*h*的理由，也是信念*h*基于的理由，而“或...等等”子句的目的是包括一长串推理中的每个理由，以使其成为信念基础的理由。
 
 Swain 理论的一个优点（可以轻松融入许多其他基础关系理论中）是理由不仅限于信念。像感知状态（比如看到某物）或 Swain 所称的感觉状态（比如经历饥饿、口渴、疼痛或其他我们通过五感之外的方式感知到的事物）也被计算为（根据规定）非命题性的理由，用于他的理论目的。因此，提供了信念基础的统一解释。
 
-正如已经指出的，Swain 的理论旨在避免 Lehrer 关于迷信律师风格反例的反驳。复杂的推理过程不是律师相信他的客户无罪的原因或因果过度决定因素，因为律师强烈希望相信他的客户有第八起谋杀罪行，这阻止了复杂的推理过程导致相信他的客户无罪的信念。律师对复杂推理过程的确信程度足以使律师相信复杂推理过程（一旦他对自己的客户有罪的强烈愿望被他对卡片的强烈信念（或理性信念，视情况而定）所取代），但仅凭这一点不足以取代他强烈的愿望相信他的客户无罪。Swain 认为（DB）避免了 Lehrer 的反驳，因为复杂的推理过程伪过度决定了律师相信他的客户无罪（Swain 1981 年，第 74 页和第 86-87 页）。我们可以通过检查（DPO）的条件（2）（b）来看到这是如何工作的。假设他相信他的客户无罪的实际原因（即律师对卡片阅读结果的信念）没有发生，并且复杂的推理过程（_c_）和相信他的客户无罪（_e_）仍然发生。根据这个假设，律师强烈希望相信他的客户犯有八起罪行是不可能发生的，因为如果发生了，它将阻止律师相信他的客户无罪。由于律师的强烈愿望是唯一阻止复杂推理过程导致律师相信他的客户无罪的因素，那么复杂的推理过程将导致律师相信他的客户无罪。因此，复杂的推理过程伪过度决定了律师相信他的客户无罪，因此，在（DB）上，律师的信念是基于复杂的推理过程，与 Lehrer 原始例子中的直觉一致。然而，与 Lehrer 相反，Swain 认为推理和律师相信他的客户无罪之间存在着反事实的因果关系，从而提供了一个与基于理由导致信念的直觉一致的基于关系的理论。
+正如已经指出的，Swain 的理论旨在避免 Lehrer 关于迷信律师风格反例的反驳。复杂的推理过程不是律师相信他的客户无罪的原因或因果过度决定因素，因为律师强烈希望相信他的客户有第八起谋杀罪行，这阻止了复杂的推理过程导致相信他的客户无罪的信念。律师对复杂推理过程的确信程度足以使律师相信复杂推理过程（一旦他对自己的客户有罪的强烈愿望被他对卡片的强烈信念（或理性信念，视情况而定）所取代），但仅凭这一点不足以取代他强烈的愿望相信他的客户无罪。Swain 认为（DB）避免了 Lehrer 的反驳，因为复杂的推理过程伪过度决定了律师相信他的客户无罪（Swain 1981 年，第 74 页和第 86-87 页）。我们可以通过检查（DPO）的条件（2）（b）来看到这是如何工作的。假设他相信他的客户无罪的实际原因（即律师对卡片阅读结果的信念）没有发生，并且复杂的推理过程（*c*）和相信他的客户无罪（*e*）仍然发生。根据这个假设，律师强烈希望相信他的客户犯有八起罪行是不可能发生的，因为如果发生了，它将阻止律师相信他的客户无罪。由于律师的强烈愿望是唯一阻止复杂推理过程导致律师相信他的客户无罪的因素，那么复杂的推理过程将导致律师相信他的客户无罪。因此，复杂的推理过程伪过度决定了律师相信他的客户无罪，因此，在（DB）上，律师的信念是基于复杂的推理过程，与 Lehrer 原始例子中的直觉一致。然而，与 Lehrer 相反，Swain 认为推理和律师相信他的客户无罪之间存在着反事实的因果关系，从而提供了一个与基于理由导致信念的直觉一致的基于关系的理论。
 
 在文献中提出了对斯温理论的各种异议。\[7] 其中最好的异议可能是由约瑟夫·托利弗（Joseph Tolliver）在 1982 年的著作中提出的（第 151-155 页）。托利弗提出的反例被称为摆钟案例，内容如下：假设一个物理学生学到了从摆钟的周期（即完成一次摆动所需的时间）可以计算出其长度，反之亦然。学生测量了一个特定的摆钟，发现它的长度为 L，并计算出它的周期为 P。学生还对摆钟有两个一般性的信念，即（1）如果 x 是一个周期为 P 的摆钟，则 x 是一个长度为 L 的摆钟；（2）如果 x 是一个长度为 L 的摆钟，则 x 是一个周期为 P 的摆钟。我们可以假设在这种情况下，学生的关于周期的信念至少部分地基于她对长度的信念，但她对长度的信念并不基于她对周期的信念。然而，托利弗声称，学生关于周期的信念伪超决定了她关于摆钟长度的信念，因此根据斯温的理论，它被视为她关于摆钟长度的基础。这是因为，根据托利弗的说法，如果学生关于长度的信念没有发生的实际原因，而且学生仍然同时持有她关于周期的信念和她关于长度的信念，那么她关于周期的信念将会导致她关于长度的信念。
 
@@ -137,19 +137,19 @@ Swain 理论的一个优点（可以轻松融入许多其他基础关系理论�
 
 认知基础关系的信念论认为，拥有一个适当的元信念，即一个理由是持有信念的好理由，就足以使信念基于这个理由。这样的理论似乎非常适合某些形式的认知内在主义。有关这样一个观点，请参阅 Leite（2008）的论述。一些关于基础关系的理论，如 Helen Longino 和 Robert Audi 的理论，认为这样的元信念是信念基于理由的必要但不充分条件（Longino 1978; Audi 1986）。这些理论认为，如果一个信念要基于一个理由，那么这个理由必须以非异常的方式导致信念，并且必须存在一个适当的元信念。这些理论往往容易受到关于基础关系因果理论的反对意见以及关于信念论基础关系的反对意见的质疑。
 
-在这里，我们将研究 Joseph Tolliver 关于基础关系的观点。大致上，Tolliver 的观点是，如果一个人_S_相信某个理由为信念提供了证据，并且相信在接受这个理由时，信念为真的概率增加了，那么这个信念就是基于这个理由的。Tolliver 的目标是避免对 Swain 理论的钟摆反驳，同时肯定 Swain 和 Lehrer 在迷信的律师案例中的直觉，即律师相信他的客户是无辜的信念是基于复杂的推理。Tolliver 的观点如下（Tolliver 1982, p. 159）：\[[8](https://plato.stanford.edu/entries/basing-epistemic/notes.html#note-8)]
+在这里，我们将研究 Joseph Tolliver 关于基础关系的观点。大致上，Tolliver 的观点是，如果一个人*S*相信某个理由为信念提供了证据，并且相信在接受这个理由时，信念为真的概率增加了，那么这个信念就是基于这个理由的。Tolliver 的目标是避免对 Swain 理论的钟摆反驳，同时肯定 Swain 和 Lehrer 在迷信的律师案例中的直觉，即律师相信他的客户是无辜的信念是基于复杂的推理。Tolliver 的观点如下（Tolliver 1982, p. 159）：\[[8](https://plato.stanford.edu/entries/basing-epistemic/notes.html#note-8)]
 
-> (B) 如果在时间 _t_ 上，_S_ 以理由 _r_ 为基础形成了对 _b_ 的信念，那么只有当 _S_ 相信这个理由为这个信念提供了证据，并且相信在接受这个理由时，信念为真的概率增加了，这个信念才是基于这个理由的
+> (B) 如果在时间 *t* 上，*S* 以理由 *r* 为基础形成了对 *b* 的信念，那么只有当 *S* 相信这个理由为这个信念提供了证据，并且相信在接受这个理由时，信念为真的概率增加了，这个信念才是基于这个理由的
 
-(1) _S_ 认为在 _t_ 时刻 _b_ 是真的，而且 _S_ 认为在 _t_ 时刻 _r_ 是真的，而且
+(1) *S* 认为在 *t* 时刻 *b* 是真的，而且 *S* 认为在 *t* 时刻 *r* 是真的，而且
 
-> > (2) _S_ 相信在 _t_ 时，_r_ 的真实性是 _b_ 真实性的证据，以及
+> > (2) *S* 相信在 *t* 时，*r* 的真实性是 *b* 真实性的证据，以及
 
 > >
 
-> > (3) 当 _S_ 对 _t_ 时的 _b_ 的可能性估计等于 _h_（其中 _h_ 大于 0 且小于等于 1），如果 _S_ 在 _t_ 时首次相信 _r_，那么 _S_ 对命题“_b_ 的可能性大于或等于 _h_”的可能性估计在 _t_ 时会比 _t_ 之前更大。
+> > (3) 当 *S* 对 *t* 时的 *b* 的可能性估计等于 *h*（其中 *h* 大于 0 且小于等于 1），如果 *S* 在 *t* 时首次相信 *r*，那么 *S* 对命题“*b* 的可能性大于或等于 *h*”的可能性估计在 *t* 时会比 *t* 之前更大。
 
-条件（3）旨在处理上述讨论的摆动案例。在摆动案例中，学生测量了一个摆的长度，从而相信它的长度为_L_。基于这个测量和她对摆的其他真实了解，学生能够计算出摆的周期。因此，学生关于长度的信念成为她关于周期的信念的理由。Swain 观点面临的明显问题是，学生关于周期的信念似乎也被认为是她关于长度的信念的基础，而实际上基础关系是相反的。Tolliver 的理论试图通过条件（3）来处理这个问题，该条件旨在指定证据支持关系的方向。一旦学生测量了长度并推断出周期，学生对摆具有周期_P_的可能性的估计将增加。然而，根据 Tolliver 的观点，学生对摆的周期的信念不会增加对摆具有长度_L_的可能性的估计，因为学生对长度的信念是计算周期所必需的。
+条件（3）旨在处理上述讨论的摆动案例。在摆动案例中，学生测量了一个摆的长度，从而相信它的长度为*L*。基于这个测量和她对摆的其他真实了解，学生能够计算出摆的周期。因此，学生关于长度的信念成为她关于周期的信念的理由。Swain 观点面临的明显问题是，学生关于周期的信念似乎也被认为是她关于长度的信念的基础，而实际上基础关系是相反的。Tolliver 的理论试图通过条件（3）来处理这个问题，该条件旨在指定证据支持关系的方向。一旦学生测量了长度并推断出周期，学生对摆具有周期*P*的可能性的估计将增加。然而，根据 Tolliver 的观点，学生对摆的周期的信念不会增加对摆具有长度*L*的可能性的估计，因为学生对长度的信念是计算周期所必需的。
 
 对于关于基础关系的信念论理论的一个常见反对意见与那些没有形成元信念（即一个理由是持有信念的好理由）所需的认知概念的个体有关，但这些个体似乎仍然以理由为基础形成信念。例如，年轻人或未受教育的人似乎可以完全有理由持有信念，即使他们缺乏 Tolliver 理论中所需的认知证据的适当概念（条件 2）。对这种反对意见的一个可能回应是规定一个人可以拥有适当的元信念，或者某种适当的意识形式，而不需要涉及任何特定完全发展的认知概念。例如，正如前文讨论的 Moser 理论所允许的那样，一个人可能仅仅具有对理由和信念之间的证据关系的直接意识。
 
@@ -163,18 +163,18 @@ Swain 理论的一个优点（可以轻松融入许多其他基础关系理论�
 
 Keith Allen Korcz 对因果信念论的版本，有些简化，如下所示（Korcz 2000）：
 
-> （CD）一个人_S_在时间_t_拥有的理由_r_是他相信_p_的基础，当且仅当
+> （CD）一个人*S*在时间*t*拥有的理由*r*是他相信*p*的基础，当且仅当
 
 %%
 
-1. _S_ 在 _t_ 时相信 _p_，并且
+1. *S* 在 *t* 时相信 *p*，并且
 
 >
 
 2. 要么
 3. 以下两个条件满足：
-4. _r_ 是在 _t_ 之前或同时，对于 _S_ 相信 _p_ 的内在原因、内在因果过度决定因素或内在因果维持者，以及
-5. _r_ 在 _t_ 时没有被拒绝，
+4. *r* 是在 *t* 之前或同时，对于 *S* 相信 *p* 的内在原因、内在因果过度决定因素或内在因果维持者，以及
+5. *r* 在 *t* 时没有被拒绝，
 
 > 或者
 
@@ -182,20 +182,20 @@ Keith Allen Korcz 对因果信念论的版本，有些简化，如下所示（Ko
 
 > %%
 
-> 1. _S_ 在 _t_ 时有一个元信念或直接意识，认为 _r_ 是相信 _p_ 的一个好理由，以及
+> 1. *S* 在 *t* 时有一个元信念或直接意识，认为 *r* 是相信 *p* 的一个好理由，以及
 
-> 2. _S_ 有这个元信念或意识的因果解释涉及到 _S_ 对 _p_ 和 _r_ 的信念。
+> 2. *S* 有这个元信念或意识的因果解释涉及到 *S* 对 *p* 和 *r* 的信念。
 
-3. _r_，相信_p_，以及任何其他元信念或意识状态，只要它们满足条件（2）（a）的所有要求，并且
-4. _S_没有其他与条件（b）（i）中描述的元信念或意识状态相反的元信念或意识状态。
+3. *r*，相信*p*，以及任何其他元信念或意识状态，只要它们满足条件（2）（a）的所有要求，并且
+4. *S*没有其他与条件（b）（i）中描述的元信念或意识状态相反的元信念或意识状态。
 
 请注意，根据（CD），当理由不再存在时，信念不允许基于理由。根据（CD），不存在这样的基础关系。
 
-内在原因是一系列事件的因果链，其中链中的每个环节要么是信念，要么是理由（包括感知和感觉状态以及信念），要么是推理。一个人的信念、理由和推理共同构成了科尔茨所称的认知结构。在（a）（i）中提到的各种原因都要求是内在于_S_的认知结构，以避免出现异常的因果链问题。异常的因果链似乎发生在从一个假定的理由到一个信念的因果事件链条偏离了人的认知结构之外的情况。例如，在上面讨论的普兰廷加关于西尔维娅的例子中，因果事件链包括了掉茶杯的事件，而这个事件并不发生在个人的认知结构之内。然而，科尔茨承认这并不是对异常因果链问题的完全令人满意的解决方案，因为很难准确指定哪些事件以适当的方式内在于一个人的认知系统。
+内在原因是一系列事件的因果链，其中链中的每个环节要么是信念，要么是理由（包括感知和感觉状态以及信念），要么是推理。一个人的信念、理由和推理共同构成了科尔茨所称的认知结构。在（a）（i）中提到的各种原因都要求是内在于*S*的认知结构，以避免出现异常的因果链问题。异常的因果链似乎发生在从一个假定的理由到一个信念的因果事件链条偏离了人的认知结构之外的情况。例如，在上面讨论的普兰廷加关于西尔维娅的例子中，因果事件链包括了掉茶杯的事件，而这个事件并不发生在个人的认知结构之内。然而，科尔茨承认这并不是对异常因果链问题的完全令人满意的解决方案，因为很难准确指定哪些事件以适当的方式内在于一个人的认知系统。
 
 条件（a）（ii）（实际上也包括条件（b）（iv））要求信念所基于的理由不被拒绝。当满足以下两个条件时，信念的理由被拒绝：
 
-1. _S_有一个元信念，认为这个理由不再是持有信念的好理由，且
+1. *S*有一个元信念，认为这个理由不再是持有信念的好理由，且
 2. one has no meta-beliefs which contradict the meta-belief described in (I).
 
 凭借条件（I），这种拒绝信念理由的解释允许信念不再基于理由，即使理由仍然存在（例如，没有被遗忘）。例如，假设我相信巴勃罗·聂鲁达是一位伟大的诗人，因为所有伟大的诗人都是革命者，而聂鲁达是一位革命者。后来，我开始相信这种推理是无效的，但同时也相信所有诺贝尔文学奖得主都是伟大的诗人，而聂鲁达获得了诺贝尔文学奖。因此，我从未失去对聂鲁达是一位伟大诗人的信念，也从未失去（至少部分）我最初相信聂鲁达是一位伟大诗人的理由（我仍然相信所有伟大的诗人都是革命者，聂鲁达是一位革命者）。相反，我相信聂鲁达是一位伟大诗人的理由已经发生了变化，部分原因是因为我开始相信我的原始理由并不支持我的信念。
@@ -204,7 +204,7 @@ Keith Allen Korcz 对因果信念论的版本，有些简化，如下所示（Ko
 
 （CD）的条件（b）（i）允许元信念（或意识状态）仅仅是关于理由是一个好理由来持有信念的效果，旨在允许元信念包含个体可能拥有的任何适当的认知概念。条件（b）（ii）和（b）（iii）旨在排除不建立基础关系的元信念的情况，就像上面讨论的以西结为例。以西结有一个元信念，即他对上帝的信念是相信他所相信的一切其他事物的一个好理由。根据（CD），这个元信念之所以不能建立基础关系，是因为它不是由他对上帝的信念和他所有其他信念的非异常因果引起的。相反，它是基于他的邪教领袖埃克西多告诉他他对上帝的信念是相信他所相信的一切其他事物的一个好理由。为了建立基础关系，元信念必须基于（即非异常因果引起）它所涉及的信念和理由。这有助于确保个体已经适当考虑了理由对信念的证据重要性，就像基于因果关系的基础关系理论一样。
 
-对 Korcz 的因果信念理论的一个反对意见是，简单地将因果和信念理论结合起来是_临时的_，即缺乏适当的理论支持。反过来，这似乎阻止了该理论帮助我们理解基础关系。基础关系可能是一个统一的认知概念，需要统一的分析，而不是作为基础关系的析取分析的随意混合，即将基础关系解释为要么是原因，要么是元信念。虽然这种分析可能是统一的，因为它是一个纯粹的因果分析，但人们不会期望这些原因的种类如此不同。如果错误地认为该理论的主要动机仅仅是为了避免迷信律师风格的反例，这个反对意见将得到进一步支持。
+对 Korcz 的因果信念理论的一个反对意见是，简单地将因果和信念理论结合起来是*临时的*，即缺乏适当的理论支持。反过来，这似乎阻止了该理论帮助我们理解基础关系。基础关系可能是一个统一的认知概念，需要统一的分析，而不是作为基础关系的析取分析的随意混合，即将基础关系解释为要么是原因，要么是元信念。虽然这种分析可能是统一的，因为它是一个纯粹的因果分析，但人们不会期望这些原因的种类如此不同。如果错误地认为该理论的主要动机仅仅是为了避免迷信律师风格的反例，这个反对意见将得到进一步支持。
 
 对这种反对意见的一个可能回应是指出，该理论的一个重要动机是关于人类思维的一个基本事实，而不仅仅是为了避免迷信律师风格的反例。直观上，一个信念的基于理由涉及到考虑理由的认知重要性，而这种心理操作可能有两种类型：直接因果关系（其中一个理由非异常地导致一个信念）或有意识的（其中一个有关一个理由是一个好理由持有一个信念的元信念）。反思我们的信念并对其进行评估的能力通常被认为是区分人类认知与许多其他非人类动物认知的能力。而适当评估一个信念就是要充分考虑其证据的重要性。因此，如果这种反思评估在关于信念基于理由的解释中缺失，那将是非常不合理的。然而，在基于因果关系的理论中，这种反思评估是多余的。另一方面，如前所述，这种反思评估似乎对于一个信念基于理由并不是必要的。似乎存在一些情况，其中非异常的原因足以建立基础关系，正如前面所讨论的。因此，如果我们要公正地对待人类思维可能考虑理由的各种方式，对(CD)的析取分析似乎是必不可少的。
 
@@ -220,64 +220,64 @@ Keith Allen Korcz 对因果信念论的版本，有些简化，如下所示（Ko
 
 * Alston, W., 1986. “Internalism and Externalism in Epistemology”, in Alston 1989: 185–226.
 * –––, 1988. “An Internalistic Externalism”, in Alston 1989: 227–245.
-* –––, 1989. _Epistemic Justification: Essays In The Theory Of Knowledge_, Ithaca, NY: Cornell University Press.
+* –––, 1989. *Epistemic Justification: Essays In The Theory Of Knowledge*, Ithaca, NY: Cornell University Press.
 * Audi, R., 1983. “The Causal Structure of Indirect Justification”, in Audi 1993: 214–232.
 * –––, 1986. “Belief, Reason And Inference”, in Audi 1993: 233–273.
-* –––, 1993. _The Structure Of Justification_, Cambridge, UK: Cambridge University Press.
-* Ballantyne, N. and Evans, I., 2013. “Schaffer’s Demon”, _Pacific Philosophical Quarterly_, 94: 552–559.
-* Bender, J. W., 1989a. _The Current State Of The Coherence Theory_, Dordrecht, The Netherlands: Kluwer.
+* –––, 1993. *The Structure Of Justification*, Cambridge, UK: Cambridge University Press.
+* Ballantyne, N. and Evans, I., 2013. “Schaffer’s Demon”, *Pacific Philosophical Quarterly*, 94: 552–559.
+* Bender, J. W., 1989a. *The Current State Of The Coherence Theory*, Dordrecht, The Netherlands: Kluwer.
 * Bender, J. W. and Davis, W., 1989b. “Fundamental Troubles With The Coherence Theory”, in Bender 1989a: 52–68.
-* Bondy, P., 2016. “Counterfactuals and Epistemic Basing Relations”, _Analysis_, 97: 542–569.
-* Bondy, P and Carter, J. Adam, 2018. “The Basing Relation and the Impossibility of the Debasing Demon”, _American Philosophical Quarterly_, 55(3): 203–215.
-* Brueckner, A., 2011. “Debasing Scepticism”, _Analysis_, 71(2): 295–297.
-* Carter, J. Adam and Bondy, P. (eds.), 2020. _Well-Founded Belief: New Essays on the Epistemic Basing Relation_, New York, NY: Routledge.
-* Evans, I., 2013. “The Problem of The Basing Relation”, _Synthese_, 190: 2943–2957.
+* Bondy, P., 2016. “Counterfactuals and Epistemic Basing Relations”, *Analysis*, 97: 542–569.
+* Bondy, P and Carter, J. Adam, 2018. “The Basing Relation and the Impossibility of the Debasing Demon”, *American Philosophical Quarterly*, 55(3): 203–215.
+* Brueckner, A., 2011. “Debasing Scepticism”, *Analysis*, 71(2): 295–297.
+* Carter, J. Adam and Bondy, P. (eds.), 2020. *Well-Founded Belief: New Essays on the Epistemic Basing Relation*, New York, NY: Routledge.
+* Evans, I., 2013. “The Problem of The Basing Relation”, *Synthese*, 190: 2943–2957.
 * Goldman, A., 1979. “What Is Justified Belief”, in Pappas 1979b: 1–23.
 * –––, 2001. “Internalism Exposed”, in Kornblith 2001: 207–230.
-* Harman, G., 1973. _Thought_, Princeton: Princeton University Press.
-* Jacobson, A. J., 1993. “A Problem For Causal Theories Of Reasons And Rationalizations”, _The Southern Journal Of Philosophy_, 31(3): 307–321.
-* Korcz, K., 1997. “Recent Work on the Basing Relation”, _American Philosophical Quarterly_, 34(2): 171–191. \[[Preprint available online](http://www.ucs.louisiana.edu/\~kak7409/RWBR.html)]
-* –––, 2000. “The Causal-Doxastic Theory of the Basing Relation”, _Canadian Journal of Philosophy_, 30(4): 525–550.
-* Kornblith, H., 2001. _Epistemology: Internalism and Externalism_, Malden, MA: Blackwell.
-* Kvanvig, J., 1985. “Swain On The Basing Relation”, _Analysis_, 45: 153–158.
-* –––, 1987. “On Lemke’s Defence of a Causal Basing Requirement”, _Analysis_, 47(3): 162–167.
+* Harman, G., 1973. *Thought*, Princeton: Princeton University Press.
+* Jacobson, A. J., 1993. “A Problem For Causal Theories Of Reasons And Rationalizations”, *The Southern Journal Of Philosophy*, 31(3): 307–321.
+* Korcz, K., 1997. “Recent Work on the Basing Relation”, *American Philosophical Quarterly*, 34(2): 171–191. \[[Preprint available online](http://www.ucs.louisiana.edu/\~kak7409/RWBR.html)]
+* –––, 2000. “The Causal-Doxastic Theory of the Basing Relation”, *Canadian Journal of Philosophy*, 30(4): 525–550.
+* Kornblith, H., 2001. *Epistemology: Internalism and Externalism*, Malden, MA: Blackwell.
+* Kvanvig, J., 1985. “Swain On The Basing Relation”, *Analysis*, 45: 153–158.
+* –––, 1987. “On Lemke’s Defence of a Causal Basing Requirement”, *Analysis*, 47(3): 162–167.
 * –––, 2003. “Justification and Proper Basing”, in Olsson 2003: 43–62.
 * Lehrer, K., 1965. “Knowledge, Truth And Evidence”, in Roth and Galis 1970: 55–66.
-* –––, 1971. “How Reasons Give Us Knowledge, Or The Case Of The Gypsy Lawyer”, _The Journal of Philosophy_, 68(10): 311–313.
-* –––, 1974. _Knowledge_, New York, NY: Oxford University Press.
-* –––, 1990. _Theory Of Knowledge_, Boulder, CO: Westview.
-* –––, 2000. _Theory of Knowledge, Second Edition_, Boulder, CO: Westview.
-* Leite, A., 2004. “On Justifying and Being Justified”, _Noûs_ (Supplement: Philosophical Issues), 14: 219–253.
-* –––, 2008. “Believing One’s Reasons Are Good”, _Synthese_, 161(3): 419–441.
-* Lemke, L., 1986. “Kvanvig and Swain on the Basing Relation”, _Analysis_, 46(3): 138–144.
-* Longino, H., 1978. “Inferring”, _Philosophy Research Archives_, 4: 19–26.
-* McCain, K., 2012. “The Interventionist Account of Causation and the Basing Relation”, _Philosophical Studies_, 159: 357–382.
-* Mittag, D., 2002. “On the Causal-Doxastic Theory of the Basing Relation”, _Canadian Journal of Philosophy_, 32(4): 543–560.
-* Moser, P., 1989. _Knowledge and Evidence_, Cambridge: Cambridge University Press.
-* Neta, R., 2019. “The Basing Relation,” _Philosophical Review_, 128(2): 179–217.
-* Olsson, E., 2003. _The Epistemology of Keith Lehrer,_ Dordrecht: Kluwer.
+* –––, 1971. “How Reasons Give Us Knowledge, Or The Case Of The Gypsy Lawyer”, *The Journal of Philosophy*, 68(10): 311–313.
+* –––, 1974. *Knowledge*, New York, NY: Oxford University Press.
+* –––, 1990. *Theory Of Knowledge*, Boulder, CO: Westview.
+* –––, 2000. *Theory of Knowledge, Second Edition*, Boulder, CO: Westview.
+* Leite, A., 2004. “On Justifying and Being Justified”, *Noûs* (Supplement: Philosophical Issues), 14: 219–253.
+* –––, 2008. “Believing One’s Reasons Are Good”, *Synthese*, 161(3): 419–441.
+* Lemke, L., 1986. “Kvanvig and Swain on the Basing Relation”, *Analysis*, 46(3): 138–144.
+* Longino, H., 1978. “Inferring”, *Philosophy Research Archives*, 4: 19–26.
+* McCain, K., 2012. “The Interventionist Account of Causation and the Basing Relation”, *Philosophical Studies*, 159: 357–382.
+* Mittag, D., 2002. “On the Causal-Doxastic Theory of the Basing Relation”, *Canadian Journal of Philosophy*, 32(4): 543–560.
+* Moser, P., 1989. *Knowledge and Evidence*, Cambridge: Cambridge University Press.
+* Neta, R., 2019. “The Basing Relation,” *Philosophical Review*, 128(2): 179–217.
+* Olsson, E., 2003. *The Epistemology of Keith Lehrer,* Dordrecht: Kluwer.
 * Pappas, G., 1979a. “Basing Relations”, in Pappas 1979b: 51–63.
-* –––, 1979b. _Justification and Knowledge_, Dordrecht: D. Reidel.
-* Plantinga, A., 1993. _Warrant: The Current Debate_, Oxford: Oxford University Press.
-* Pollock, J., 1986. _Contemporary Theories of Knowledge_, Savage, MD: Rowman and Littlefield.
-* Rosa, L., 2017. “Inferential Basing and Mental Models”, _Philosophical Psychology_, 30(1–2): 102–118.
-* Roth, M. and Galis, L., 1970. _Knowing: Essays In The Analysis Of Knowledge_, New York, NY: Random House.
-* Ruloff, C., 2015. “Swinburne on Basing and Deviant Inferential Pathways”, _Acta Analytica_, (30): 87–95.
-* Schaffer, J., 2010. “The Debasing Demon”, _Analysis_, 70(2): 228–237.
-* Silva, Jr., P., 2015. “Doxastic Justification and Properly Basing One’s Beliefs”, _Erkenntnis_, 80(5): 945–955.
-* –––, 2015. “Does Doxastic Justification Have a Basing Requirement?”, _Australasian Journal of Philosophy_, 93(2): 371–387.
+* –––, 1979b. *Justification and Knowledge*, Dordrecht: D. Reidel.
+* Plantinga, A., 1993. *Warrant: The Current Debate*, Oxford: Oxford University Press.
+* Pollock, J., 1986. *Contemporary Theories of Knowledge*, Savage, MD: Rowman and Littlefield.
+* Rosa, L., 2017. “Inferential Basing and Mental Models”, *Philosophical Psychology*, 30(1–2): 102–118.
+* Roth, M. and Galis, L., 1970. *Knowing: Essays In The Analysis Of Knowledge*, New York, NY: Random House.
+* Ruloff, C., 2015. “Swinburne on Basing and Deviant Inferential Pathways”, *Acta Analytica*, (30): 87–95.
+* Schaffer, J., 2010. “The Debasing Demon”, *Analysis*, 70(2): 228–237.
+* Silva, Jr., P., 2015. “Doxastic Justification and Properly Basing One’s Beliefs”, *Erkenntnis*, 80(5): 945–955.
+* –––, 2015. “Does Doxastic Justification Have a Basing Requirement?”, *Australasian Journal of Philosophy*, 93(2): 371–387.
 * Swain, M., 1979. “Justification and the Basis of Belief”, in Pappas 1979b: 25–49.
-* –––, 1981. _Reasons and Knowledge_, Ithaca, NY: Cornell University Press.
-* –––, 1985. “Justification, Reasons and Reliability”, _Synthese_, 64(1): 69–92.
-* Sylvan, K., 2016. “Epistemic Reasons II: Basing”, _Philosophy Compass_, 11(7): 377–389.
-* Tierney, H. and Smith, N., 2012. “Keith Lehrer on the Basing Relation”, _Philosophical Studies_, 161: 27–36.
-* Tolliver, J., 1982. “Basing Beliefs on Reasons”, _Grazer Philosophische Studien_, 15: 149–161.
-* Turri, J., 2010. “On the Relationship between Propositional and Doxastic Justification”, _Philosophy and Phenomenological Research_, LXXX (2): 312–326.
-* –––, 2011. “Believing for a Reason”, _Erkenntnis_, 74(3): 383–397.
-* Vahid, H., 2009. “Triangulation, Content and the Basing Relation”, _Grazer Philosophische Studien_, 78: 231–250.
-* Wallbridge, K., 2018. “The Peculiar Case of Lehrer’s Lawyer”, _Synthese_, 195(4): 1615–1630.
-* Winters, B., 1980. “Reasonable Believing”, _Dialectica_, 34(1): 3–15.
-* –––, 1983. “Inferring”, _Philosophical Studies_, 44: 201–220.
+* –––, 1981. *Reasons and Knowledge*, Ithaca, NY: Cornell University Press.
+* –––, 1985. “Justification, Reasons and Reliability”, *Synthese*, 64(1): 69–92.
+* Sylvan, K., 2016. “Epistemic Reasons II: Basing”, *Philosophy Compass*, 11(7): 377–389.
+* Tierney, H. and Smith, N., 2012. “Keith Lehrer on the Basing Relation”, *Philosophical Studies*, 161: 27–36.
+* Tolliver, J., 1982. “Basing Beliefs on Reasons”, *Grazer Philosophische Studien*, 15: 149–161.
+* Turri, J., 2010. “On the Relationship between Propositional and Doxastic Justification”, *Philosophy and Phenomenological Research*, LXXX (2): 312–326.
+* –––, 2011. “Believing for a Reason”, *Erkenntnis*, 74(3): 383–397.
+* Vahid, H., 2009. “Triangulation, Content and the Basing Relation”, *Grazer Philosophische Studien*, 78: 231–250.
+* Wallbridge, K., 2018. “The Peculiar Case of Lehrer’s Lawyer”, *Synthese*, 195(4): 1615–1630.
+* Winters, B., 1980. “Reasonable Believing”, *Dialectica*, 34(1): 3–15.
+* –––, 1983. “Inferring”, *Philosophical Studies*, 44: 201–220.
 * Ye, R., 2020. “A Doxastic-Causal Theory of Epistemic Basing”, in Carter and Bondy, 2020: 15–33.
 
 ## Academic Tools
@@ -290,12 +290,12 @@ Keith Allen Korcz 对因果信念论的版本，有些简化，如下所示（Ko
 
 ## Other Internet Resources
 
-* [_The Epistemology Research Guide_](http://www.ucs.louisiana.edu/\~kak7409/EpistemologicalResearch.htm), Subject Index, contains a section on the basing relation.
-* [_PhilPapers_](https://philpapers.org/browse/the-basing-relation) contains a section on the basing relation.
+* [*The Epistemology Research Guide*](http://www.ucs.louisiana.edu/\~kak7409/EpistemologicalResearch.htm), Subject Index, contains a section on the basing relation.
+* [*PhilPapers*](https://philpapers.org/browse/the-basing-relation) contains a section on the basing relation.
 
 ## Related Entries
 
 [epistemology](https://plato.stanford.edu/entries/epistemology/) | [justification, epistemic: foundationalist theories of](https://plato.stanford.edu/entries/justep-foundational/) | [justification, epistemic: internalist vs. externalist conceptions of](https://plato.stanford.edu/entries/justep-intext/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Keith Allen Korcz](http://www.ucs.louisiana.edu/\~kak7409/) <[_keithk@louisiana.edu_](mailto:keithk%40louisiana%2eedu)>
+[Keith Allen Korcz](http://www.ucs.louisiana.edu/\~kak7409/) <[*keithk@louisiana.edu*](mailto:keithk%40louisiana%2eedu)>

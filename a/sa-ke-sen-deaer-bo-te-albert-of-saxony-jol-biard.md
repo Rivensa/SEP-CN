@@ -152,7 +152,7 @@
 
 ### Bibliographical studies
 
-* Berger, Harald, 2021, ‘[Albert von Sachsen († 1390), Fortsetzung und Ergänzungen zur Bibliographie der Sekundäre literatur, Internet Ausgabe 12](https://web.archive.org/web/20150906094827/http://www.uni-graz.at/harald.berger/Albert_of_Saxony_Bibliography_2014.pdf),’ this online bibliography is the continuation and complement of bibliographies previously published in the *Bulletin de philosophie médiévale* de la SIEPM, 36 (1994), 37 (1995), 38 (1996), 40 (1998), then in *Acta medievalia*, 17 (2004). It makes an inventory of publications dedicated to Albert of Saxony but also of publications which only mention him.
+* Berger, Harald, 2021, ‘[Albert von Sachsen († 1390), Fortsetzung und Ergänzungen zur Bibliographie der Sekundäre literatur, Internet Ausgabe 12](https://web.archive.org/web/20150906094827/http://www.uni-graz.at/harald.berger/Albert*of*Saxony*Bibliography*2014.pdf),’ this online bibliography is the continuation and complement of bibliographies previously published in the *Bulletin de philosophie médiévale* de la SIEPM, 36 (1994), 37 (1995), 38 (1996), 40 (1998), then in *Acta medievalia*, 17 (2004). It makes an inventory of publications dedicated to Albert of Saxony but also of publications which only mention him.
 
 ## Academic Tools
 
