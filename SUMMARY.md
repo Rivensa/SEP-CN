@@ -323,9 +323,9 @@
   * [\*禅——见中国哲学：禅宗哲学 Chan — see Chinese Philosophy: Chan Buddhism](b/fo-jiao-buddhism/chan-jian-zhong-guo-zhe-xue-chan-zong-zhe-xue-chan-see-chinese-philosophy-chan-buddhism.md)
   * [\*印度佛教中的伦理学——见印度佛教中的伦理学 ethics in Indian Buddhism — see ethics: in Indian Buddhism](b/fo-jiao-buddhism/yin-du-fo-jiao-zhong-de-lun-li-xue-jian-yin-du-fo-jiao-zhong-de-lun-li-xue-ethics-in-indian-buddhism.md)
   * [\*印度佛教哲学中的心灵——见印度佛教哲学中的心灵 mind in Indian Buddhist Philosophy — see mind: in Indian Buddhist Philosophy](b/fo-jiao-buddhism/yin-du-fo-jiao-zhe-xue-zhong-de-xin-ling-jian-yin-du-fo-jiao-zhe-xue-zhong-de-xin-ling-mind-in-india.md)
-  * [\*天台——见中国哲学：天台宗佛教 Tiantai — see Chinese Philosophy: Tiantai Buddhism](b/fo-jiao-buddhism/tian-tai-jian-zhong-guo-zhe-xue-tian-tai-zong-fo-jiao-tiantai-see-chinese-philosophy-tiantai-buddhis.md)
-  * [\*禅宗——见日本哲学：禅宗佛教 Zen — see Japanese Philosophy: Zen Buddhism](b/fo-jiao-buddhism/chan-zong-jian-ri-ben-zhe-xue-chan-zong-fo-jiao-zen-see-japanese-philosophy-zen-buddhism.md)
-* [\*佛教：华严——见中国哲学：华严宗佛教 Buddhism: Huayan — see Chinese Philosophy: Huayan Buddhism](b/fo-jiao-hua-yan-jian-zhong-guo-zhe-xue-hua-yan-zong-fo-jiao-buddhism-huayan-see-chinese-philosophy-h.md)
+  * [\*天台——见中国哲学：佛教天台宗 Tiantai — see Chinese Philosophy: Tiantai Buddhism](b/fo-jiao-buddhism/tian-tai-jian-zhong-guo-zhe-xue-fo-jiao-tian-tai-zong-tiantai-see-chinese-philosophy-tiantai-buddhis.md)
+  * [\*禅宗——见日本哲学：佛教禅宗 Zen — see Japanese Philosophy: Zen Buddhism](b/fo-jiao-buddhism/chan-zong-jian-ri-ben-zhe-xue-fo-jiao-chan-zong-zen-see-japanese-philosophy-zen-buddhism.md)
+* [\*佛教：华严——见中国哲学：佛教华严宗 Buddhism: Huayan — see Chinese Philosophy: Huayan Buddhism](b/fo-jiao-hua-yan-jian-zhong-guo-zhe-xue-fo-jiao-hua-yan-zong-buddhism-huayan-see-chinese-philosophy-h.md)
 * [\*丛束理论——见物质 bundle theory — see substance](b/cong-shu-li-lun-jian-wu-zhi-bundle-theory-see-substance.md)
 * [让·布里丹 Buridan, John \[Jean\] (Jack Zupko)](b/rang-bu-li-dan-buridan-john-jean-jack-zupko.md)
 * [埃德蒙·伯克 Burke, Edmund (Ian Harris)](b/ai-de-meng-bo-ke-burke-edmund-ian-harris.md)
@@ -335,11 +335,10 @@
   * [约瑟夫·巴特勒的伦理学 moral philosophy (Aaron Garrett)](b/yue-se-fu-ba-te-le-butler-joseph/yue-se-fu-ba-te-le-de-lun-li-xue-moral-philosophy-aaron-garrett.md)
 * [拜占庭哲学 Byzantine Philosophy (Katerina Ierodiakonou and Börje Bydén)](b/bai-zhan-ting-zhe-xue-byzantine-philosophy-katerina-ierodiakonou-and-brje-bydn.md)
 
-***
+## B
 
-* [C](c.md)
-* [\*爱德华·凯尔德——见 19 世纪苏格兰哲学 Caird, Edward — see Scottish Philosophy: in the 19th century](ai-de-hua-kai-er-de-jian-19-shi-ji-su-ge-lan-zhe-xue-caird-edward-see-scottish-philosophy-in-the-19t.md)
-* [\*卡利克勒斯——见柏拉图：卡利克勒斯和塞拉西马柯 Callicles — see Plato: Callicles and Thrasymachus](ka-li-ke-le-si-jian-bai-la-tu-ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-see-plato-callicles-and-th.md)
-* [剑桥柏拉图派 Cambridge Platonists (Sarah Hutton)](jian-qiao-bai-la-tu-pai-cambridge-platonists-sarah-hutton.md)
-* [托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)](tuo-ma-si-kang-pa-nei-la-campanella-tommaso-germana-ernst-and-jeanpaul-de-lucca.md)
-* [乔治·坎贝尔——见 18 世纪苏格兰哲学 Campbell, George — see Scottish Philosophy: in the 18th Century](qiao-zhi-kan-bei-er-jian-18-shi-ji-su-ge-lan-zhe-xue-campbell-george-see-scottish-philosophy-in-the.md)
+* [\*爱德华·凯尔德——见 19 世纪苏格兰哲学 Caird, Edward — see Scottish Philosophy: in the 19th century](b-1/ai-de-hua-kai-er-de-jian-19-shi-ji-su-ge-lan-zhe-xue-caird-edward-see-scottish-philosophy-in-the-19t.md)
+* [\*卡利克勒斯——见柏拉图：卡利克勒斯和塞拉西马柯 Callicles — see Plato: Callicles and Thrasymachus](b-1/ka-li-ke-le-si-jian-bai-la-tu-ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-see-plato-callicles-and-th.md)
+* [剑桥柏拉图派 Cambridge Platonists (Sarah Hutton)](b-1/jian-qiao-bai-la-tu-pai-cambridge-platonists-sarah-hutton.md)
+* [托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)](b-1/tuo-ma-si-kang-pa-nei-la-campanella-tommaso-germana-ernst-and-jeanpaul-de-lucca.md)
+* [乔治·坎贝尔——见 18 世纪苏格兰哲学 Campbell, George — see Scottish Philosophy: in the 18th Century](b-1/qiao-zhi-kan-bei-er-jian-18-shi-ji-su-ge-lan-zhe-xue-campbell-george-see-scottish-philosophy-in-the.md)

@@ -1,6 +1,6 @@
 # 生物医学哲学 biomedicine, philosophy of (Sean Valles)
 
-*首次发布于 2020 年 4 月 9 日*
+_首次发布于 2020 年 4 月 9 日_
 
 尽管名字简单，但生物医学并不仅仅是生物学和医学的交叉领域。它是一个框架，一套哲学承诺，一个融入西方文化及其权力动态的全球机构，等等。生物医学是大多数学术和政府机构进行的健康科学和健康技术工作的总体理论框架。西方医学实践和周围的医疗基础设施主要是生物医学的。与健康相关的公司主要以生物医学为导向（除了一些顺势疗法生产商和其他零散的离群值）。国际医疗援助主要提供生物医学资源。换句话说，生物医学是全球大多数强大机构如何设想生物科学与医学之间关系的名称。
 
@@ -35,12 +35,10 @@
 * [5.3 温和医学和人口健康框架方法](https://plato.stanford.edu/entries/biomedicine/#GentMediPopuHealFramAppr)
 * [参考文献](https://plato.stanford.edu/entries/biomedicine/#Bib)
 * [学术工具](https://plato.stanford.edu/entries/biomedicine/#Aca)
-
 * [Other Internet Resources](https://plato.stanford.edu/entries/biomedicine/#Oth)
-
 * [相关条目](https://plato.stanford.edu/entries/biomedicine/#Rel)
 
----
+***
 
 ## 1. 生物医学作为医学和生物学的框架
 
@@ -101,8 +99,8 @@ Broadbent（2009）使用了一个有帮助的术语“生物沙文主义”来�
 
 另一方面，“生物沙文主义”是一个术语，用来描述对生物有着哲学上独特之处的观点，这是由于它们的基本性质和/或人类知识对它们的访问的限制，使得生物世界在根本上与其他世界不同（Wolfe 2015）。生命力论——即生命具有某种使物质成为有生命的存在的活力实体（类似于精神）——是这种生物沙文主义的一种形式（Wolfe 2015）。生物沙文主义的另一种形式是使用现象学来断言人类的生活经验在某种程度上在与岩石不同的时空背景中运作（Wolfe 2015）。Wolfe 发现这种观点在[Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)的有影响力的现象学作品中（Wolfe 2015）（见[第 5 节](https://plato.stanford.edu/entries/biomedicine/#AlteFram)关于现象学的内容）。因此，我们可以以两种相反的方式沙文主义地认为生物世界是特殊的：
 
-1. 通过生命所*排除*的特殊性（医学只是应用生物学）或
-2. 通过生命所*包含*的特殊性（一种无形的生命精神；一个独特的时间和空间框架）。
+1. 通过生命所_排除_的特殊性（医学只是应用生物学）或
+2. 通过生命所_包含_的特殊性（一种无形的生命精神；一个独特的时间和空间框架）。
 
 生物医学的版本（1）与生物医学一致，而版本（2）通常不一致。生物学的价值化可以两面都切割的事实有助于表明，生物医学通过坚持认为理解健康和医学是通过理解无数生物过程和物质的微妙之处来实现的，但这些生物过程和物质不能太微妙或神秘，以至于脱离物理和化学所认可的属性和过程。
 
@@ -118,10 +116,10 @@ Broadbent（2009）使用了一个有帮助的术语“生物沙文主义”来�
 
 在不同的哲学观点中，克里斯托弗·布斯的自然主义生物统计学理论（BST）对疾病的解释可能与生物医学的哲学承诺最为紧密相关。布斯修订后的 BST 解释如下：
 
-1. *参考类别* 是具有统一功能设计的自然生物类别；具体而言，是一个物种的一个性别的一个年龄组。
-2. 在参考类别的成员中，一个部分或过程的*正常功能* 是它对个体的生存[或]繁殖的统计典型贡献。
-3. 在参考类别的成员中，*健康* 是*正常功能能力*：每个内部部分在典型场合至少具有典型效率时执行其所有正常功能的准备程度。
-4. 一种*疾病*（后来称为*病理状态*）是一种内部状态，它损害健康，即将一个或多个功能能力降低到低于典型效率（Boorse 2014: 684，修正 Boorse 1977: 562）。
+1. _参考类别_ 是具有统一功能设计的自然生物类别；具体而言，是一个物种的一个性别的一个年龄组。
+2. 在参考类别的成员中，一个部分或过程的_正常功能_ 是它对个体的生存\[或]繁殖的统计典型贡献。
+3. 在参考类别的成员中，_健康_ 是_正常功能能力_：每个内部部分在典型场合至少具有典型效率时执行其所有正常功能的准备程度。
+4. 一种_疾病_（后来称为_病理状态_）是一种内部状态，它损害健康，即将一个或多个功能能力降低到低于典型效率（Boorse 2014: 684，修正 Boorse 1977: 562）。
 
 这个想法是，我们可以运用生物化学、病理学和进化生物学的见解，共同提供一种客观的方法来“阅读”自然，告诉我们哪些状态是病理性或疾病状态，而不受混乱和文化根深蒂固/有偏见的评价的干扰。一个反驳的观点是，没有一种原则性的方法可以客观地选择一个参考类别，以判断给定的部分或过程是否不足（我的血糖水平与...相比，是客观上过高了吗？）（Kingma 2014）。即使这个问题是可以解决的，克鲁格尔认为，一个客观的标准集合来定义状态是否病理性或非病理性将是一个非常有限的成就。知道我的血糖水平是客观上病理性的并不能告诉我关于我或我的医生应该对此采取什么行动（Krueger 2015）。
 
@@ -131,13 +129,13 @@ Broadbent（2009）使用了一个有帮助的术语“生物沙文主义”来�
 
 一个哲学上的复杂性在于，像布尔斯的自然主义疾病概念一样，不会阻止社会过程改变这些自然类别的界限在实践中如何划定的标准和实践。药物公司将慢性疾病，如心血管疾病和 2 型糖尿病，作为目标，不仅创造新的治疗方法，还重新划定了健康与病理之间的界限，包括“糖尿病前期”等边界区域（格林，2006 年）。这些努力在一定程度上是通过临床试验的设计实现的，临床试验在生物医学界具有非常高的认识价值，同时又极易受到实验设置的操纵，以推动证据朝某个方向或另一个方向发展（冈萨雷斯-莫雷诺、萨博里多和泰拉，2015 年）。
 
-尽管自然主义的疾病概念与生物医学的本体论假设和方法论实践最为一致，但这并没有阻止生物医学容纳了一种对生物医学原则的异议，即生物医学应该专注于疾病和（仅仅是）其生物、化学和物理方面（Krieger 2011: 130）。世界卫生组织（WHO）在其成立时采纳了一种整体积极的健康概念，即健康是完全福祉的存在（包括心理和社会福祉），而不仅仅是没有疾病的状态。这与生物医学的核心原则产生了直接的紧张关系，特别是将疾病简化为一组具体可观察和可测量的物理基础（Valles 2018）。从历史上看，在世界卫生组织的情况下，这种紧张关系在该组织成立后不久得到了解决，该组织有效地压制了自己对健康的定义的使用，而是选择追求一系列更狭窄的倡议来对抗特定疾病（例如，著名的天花根除计划）（Irwin＆Scali 2007）。这似乎部分是因为冷战政治使得不与推动与“社会”福祉有关的健康概念的美国对抗成为务实的选择，这听起来有点像社*会*主义（Irwin＆Scali 2007）。尽管 WHO 类型的健康理解与生物医学的哲学原则存在真正的紧张关系，但在这种情况下，通过简单地追求不同疾病概念之间的重叠领域（例如，投资于人群的传染病控制策略），可以管理这种紧张关系，同时忽略健康的任何声称的方面超出了病理的缺失（例如，拒绝投资于评估人与环境关系如何影响人群的幸福或痛苦）。
+尽管自然主义的疾病概念与生物医学的本体论假设和方法论实践最为一致，但这并没有阻止生物医学容纳了一种对生物医学原则的异议，即生物医学应该专注于疾病和（仅仅是）其生物、化学和物理方面（Krieger 2011: 130）。世界卫生组织（WHO）在其成立时采纳了一种整体积极的健康概念，即健康是完全福祉的存在（包括心理和社会福祉），而不仅仅是没有疾病的状态。这与生物医学的核心原则产生了直接的紧张关系，特别是将疾病简化为一组具体可观察和可测量的物理基础（Valles 2018）。从历史上看，在世界卫生组织的情况下，这种紧张关系在该组织成立后不久得到了解决，该组织有效地压制了自己对健康的定义的使用，而是选择追求一系列更狭窄的倡议来对抗特定疾病（例如，著名的天花根除计划）（Irwin＆Scali 2007）。这似乎部分是因为冷战政治使得不与推动与“社会”福祉有关的健康概念的美国对抗成为务实的选择，这听起来有点像社_会_主义（Irwin＆Scali 2007）。尽管 WHO 类型的健康理解与生物医学的哲学原则存在真正的紧张关系，但在这种情况下，通过简单地追求不同疾病概念之间的重叠领域（例如，投资于人群的传染病控制策略），可以管理这种紧张关系，同时忽略健康的任何声称的方面超出了病理的缺失（例如，拒绝投资于评估人与环境关系如何影响人群的幸福或痛苦）。
 
 ## 3. 生物医学认识论
 
 在生物医学事业的核心发生了哲学争议，这些争议提供了理解生物医学认识论维度的手段：证据和知识的本质。其中最有争议的内部生物医学争议集中在生物医学认识论应该是什么，而“循证医学”（EBM）的兴起引发了这些争议的最大部分。通过研究围绕 EBM 的争议，我们可以更好地理解生物医学的认识论，如所罗门的《制定医学知识》（2015）所示。
 
-循证医学是一个棘手的概念，因为它的名称误导性地引发了一个问题，即谁在进行不基于证据的医学实践（Goldenberg 2006）。相反，争议在于哪些证据是最好的以及如何使用它。例如，医生通常会建议患者使用哪些家庭疗法来治疗轻微的腰背痛，不同的医生在推荐治疗方法上存在差异，甚至不考虑患者特征的差异。布洛芬？对乙酰氨基酚？热敷和/或冷敷？运动？20 世纪的标准医学反应是让医生团体（包括为此目的召集的共识团体）列出选项，并可能利用他们的集体专业知识做出建议，但同时给予个别医生在选择其他可行选项时使用其个人积累的专业知识的很大自由。相反，循证医学将这视为主要由经验研究决定的问题。也就是说，我们应该进行随机对照试验，比较将腰背痛患者随机分配到*A 治疗*或*B 治疗*，控制单一变量，并使用预定的指标（报告的疼痛严重程度变化，重大副作用发生率等）来衡量对患者的影响。进行多次实验后，我们可以进行“系统综述和荟萃分析”，汇编平行研究的数据趋势，帮助我们建立一个证据基础，以制定临床医生应该使用哪种治疗的指南。这些指南规定了适当的默认做法，个别临床医生可以违反这些做法，如果特定个别患者的需求存在冲突（例如，患者对某种药物反应不佳的病史）。
+循证医学是一个棘手的概念，因为它的名称误导性地引发了一个问题，即谁在进行不基于证据的医学实践（Goldenberg 2006）。相反，争议在于哪些证据是最好的以及如何使用它。例如，医生通常会建议患者使用哪些家庭疗法来治疗轻微的腰背痛，不同的医生在推荐治疗方法上存在差异，甚至不考虑患者特征的差异。布洛芬？对乙酰氨基酚？热敷和/或冷敷？运动？20 世纪的标准医学反应是让医生团体（包括为此目的召集的共识团体）列出选项，并可能利用他们的集体专业知识做出建议，但同时给予个别医生在选择其他可行选项时使用其个人积累的专业知识的很大自由。相反，循证医学将这视为主要由经验研究决定的问题。也就是说，我们应该进行随机对照试验，比较将腰背痛患者随机分配到_A 治疗_或_B 治疗_，控制单一变量，并使用预定的指标（报告的疼痛严重程度变化，重大副作用发生率等）来衡量对患者的影响。进行多次实验后，我们可以进行“系统综述和荟萃分析”，汇编平行研究的数据趋势，帮助我们建立一个证据基础，以制定临床医生应该使用哪种治疗的指南。这些指南规定了适当的默认做法，个别临床医生可以违反这些做法，如果特定个别患者的需求存在冲突（例如，患者对某种药物反应不佳的病史）。
 
 循证医学起初被描述为生物医学的库恩式科学革命，即与之前的世界观根本不可比拟的基本变革；一次范式转变（Evidence-Based Medicine Working Group 1992）。循证医学运动的支持者与生物医学界内的怀疑者之间最基本的争议，在某种意义上，是关于生物医学的两个部分之间的认识论和权力关系：生物学和医学。在生物学中，实验方法和寻找可普遍适用的人群趋势被高度重视；在临床医学中，单个患者和临床医生对其的积累（和难以言喻的）专业评估长期以来一直被高度重视-非常关注该个体患者的特殊情况（其身体和症状的细节），在确定如何进行时依赖于临床医生的积累的知识和专业技能。循证医学不是简单地采用生物学原理并将其应用于医学；它不是生物学在生物医学中战胜医学的胜利。相反，循证医学帮助揭示了关于如何正确进行和使用生物医学科学的更深层次的分歧。
 
@@ -147,7 +145,7 @@ Broadbent（2009）使用了一个有帮助的术语“生物沙文主义”来�
 
 生物医学处于紧张状态，处于
 
-1. 通过机械推理、共识和权威解决证据争议的历史（例如，参见所罗门[2015]关于“共识会议”所起的作用）与
+1. 通过机械推理、共识和权威解决证据争议的历史（例如，参见所罗门\[2015]关于“共识会议”所起的作用）与
 2. 最近的做法是创建预先确定的证据排名/评估程序，旨在最大程度地减少有偏见或不稳定的人类判断对证据争议解决的影响。
 
 临床指南曾经常常由被贬低为“GOBSAT”的方式创建：好老男人围坐在一张桌子旁（并通过彼此交谈作为该领域的领先专家达成共识）。正如格林哈尔格所说，“EBM 运动的一个重大成就是，几乎没有指南是由 GOBSAT 制定的！”（格林哈尔格 2014：7）。使用基于共识的模型生成临床实践指南与基于证据的模型在认识上有多大的差异仍然是一个哲学上的争议点，主要是因为无论优先考虑哪些证据，一组专家最终都需要解释数据并根据编制的证据做出实践指南的判断（Djulbegovic＆Guyatt 2019）。尽管临床专业知识的含义本身并没有明确定义和达成一致，这一问题进一步复杂化，因为专业知识的含义与关于专业知识应该在临床实践中扮演什么角色的观点纠缠在一起（Wieten 2018）。
@@ -188,7 +186,7 @@ Broadbent（2009）使用了一个有帮助的术语“生物沙文主义”来�
 
 尽管这种批评是独立存在的，但仍然存在一个开放的问题，如果不是还原主义的生物力学观点，那么应该采取什么其他观点。马卡姆将这个观点与现象学观点进行了对比，后者将在[第 5 节](https://plato.stanford.edu/entries/biomedicine/#AlteFram)中讨论，认为现象学方法更适合推进医学，他将医学描述为处于危机状态。
 
-EBM（循证医学）将随机对照试验作为健康数据收集的基石，进一步加强了生物医学的归纳主义。随机对照试验假设健康变量可以被观察、操纵和控制，作为相对独立的单位。然而，一个已经确立的问题是，我们根本不知道可能混淆临床实验的所有变量（Worrall 2007），因此随机化最多只能希望“混淆因素”（例如，影响药物代谢的未知饮食因素）在实验中的不同治疗人群之间是随机分布的。进一步推进归纳主义，EBM 要求仅寻找在第一次测量中可以精确测量的效应，以确切衡量*A 治疗*和*B 治疗*之间的差异。这个限制是一个根深蒂固的问题，因为即使是给定疾病的官方临床体征和症状列表也可能与累积的患者观察不一致，在某些精神疾病的情况下，症状（或其缺乏）明显难以测量或纳入治疗效果评估中（例如，一个人的自我感受和/或情感生活）（Kendler 2016）。
+EBM（循证医学）将随机对照试验作为健康数据收集的基石，进一步加强了生物医学的归纳主义。随机对照试验假设健康变量可以被观察、操纵和控制，作为相对独立的单位。然而，一个已经确立的问题是，我们根本不知道可能混淆临床实验的所有变量（Worrall 2007），因此随机化最多只能希望“混淆因素”（例如，影响药物代谢的未知饮食因素）在实验中的不同治疗人群之间是随机分布的。进一步推进归纳主义，EBM 要求仅寻找在第一次测量中可以精确测量的效应，以确切衡量_A 治疗_和_B 治疗_之间的差异。这个限制是一个根深蒂固的问题，因为即使是给定疾病的官方临床体征和症状列表也可能与累积的患者观察不一致，在某些精神疾病的情况下，症状（或其缺乏）明显难以测量或纳入治疗效果评估中（例如，一个人的自我感受和/或情感生活）（Kendler 2016）。
 
 虽然归纳主义和反归纳主义方法存在直接对立，但可以对它们采取多元主义立场：两者都可以被纳入健康科学。例如，这是 Campaner（2010）所持的立场。然而，正如下一节所讨论的，生物医学机构的权力使得生物力学的归纳主义方法很容易压倒替代观点。
 
@@ -214,7 +212,7 @@ Metzl 和 Kirkland 的有影响力的编辑著作《反对健康：健康如何�
 
 正如本文开头所指出的，对生物医学的批评往往集中在生物医学的某些要素上，而不是整体上。当然也有例外。本节将回顾一些替代生物医学的框架，尽管它们在多大程度上与生物医学框架相似是不同的。在深入讨论替代框架之前，重要的是讨论两个主要的生物医学批评，它们主要作为整体批评的影响力，而不是作为替代生物医学愿景的来源。
 
-[米歇尔·福柯](https://plato.stanford.edu/entries/foucault/)的作品以及他对生物权力和生物政治的概念的运用，仍然是围绕生物医学展开的批判性讨论的重要参考。福柯对现代医学的批评是他职业生涯中对现代性其他方面的批评的一部分，包括相关主题的精神病学。他著名的作品《诊所的诞生》是一部历史著作，但在这个过程中，它突出了生物医学的一些方面，其他学者在福柯的批评基础上或与之平行进行了批评：非人性、还原主义、价值存疑的测量和观察方法，以及生物医学的机构权力问题（福柯 1963 [2002]）。
+[米歇尔·福柯](https://plato.stanford.edu/entries/foucault/)的作品以及他对生物权力和生物政治的概念的运用，仍然是围绕生物医学展开的批判性讨论的重要参考。福柯对现代医学的批评是他职业生涯中对现代性其他方面的批评的一部分，包括相关主题的精神病学。他著名的作品《诊所的诞生》是一部历史著作，但在这个过程中，它突出了生物医学的一些方面，其他学者在福柯的批评基础上或与之平行进行了批评：非人性、还原主义、价值存疑的测量和观察方法，以及生物医学的机构权力问题（福柯 1963 \[2002]）。
 
 伊凡·伊利奇的《医学的复仇》可能是对生物医学最有影响力的批评（伊利奇 1976）。它结合了对（生物）医学未能实现自身目标的批评（医源性疾病——由医疗治疗引起的伤害是其中的重要组成部分），以及对其一开始就有错误目标的批评（他将死亡、疾病和痛苦视为人类经历的合适组成部分，而不是自动和不断对抗的敌人）。
 
@@ -226,7 +224,7 @@ Metzl 和 Kirkland 的有影响力的编辑著作《反对健康：健康如何�
 
 一个过程本体论——它认为事件和过程之间的因果关系是基础，而不是事物。此外，它暗示了事件和过程之间的复杂因果关系，可以说是多因素和非线性的。（李 2017 年：2）
 
- 其次，它是整体性的
+其次，它是整体性的
 
 宇宙及其中的一切，包括人类，构成了与其部分之和不同的整体，并且与其他整体相关联和相互关联。（李 2017 年：2）
 
@@ -254,112 +252,112 @@ Valles 提供了一种替代方案——人群健康框架，这在一定程度�
 
 ## Bibliography
 
-* Alexandrova, Anna, 2017, *A Philosophy for the Science of Well-Being*, Oxford: Oxford University Press. doi:10.1093/oso/9780199300518.001.0001
-* Amundson, Ron, 2000, “Against Normal Function”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 31: 33–53. doi:10.1016/S1369-8486(99)00033-3
-* Andersen, Holly K., 2016, “Reductionism in the Biomedical Sciences”, in *The Routledge Companion to Philosophy of Medicine*, Miriam Solomon , Jeremy R. Simon , and Harold Kincaid (eds), New York: Routledge, chapter 8.
-* Berwick, D. M., 2005, “Broadening the View of Evidence-Based Medicine”, *Quality and Safety in Health Care*, 14(5): 315–316. doi:10.1136/qshc.2005.015669
-* Bluhm, Robyn, 2005, “From Hierarchy to Network: A Richer View of Evidence for Evidence-Based Medicine”, *Perspectives in Biology and Medicine*, 48(4): 535–547. doi:10.1353/pbm.2005.0082
-* Boorse, Christopher, 1977, “Health as a Theoretical Concept”, *Philosophy of Science*, 44(4): 542–573.
-* –––, 2014, “A Second Rebuttal On Health”, *Journal of Medicine and Philosophy*, 39(6): 683–724. doi:10.1093/jmp/jhu035
-* Borgerson, Kirstin, 2005, “Evidence-Based Alternative Medicine?”, *Perspectives in Biology and Medicine*, 48(4): 502–515. doi:10.1353/pbm.2005.0084
-* –––, 2009, “Why Reading the Title Isn’t Good Enough: An Evaluation of the 4S Approach to Evidence-Based Medicine”, *IJFAB: International Journal of Feminist Approaches to Bioethics*, 2(2): 152–175. doi:10.3138/ijfab.2.2.152
-* Briggs, Charles L. and Daniel C. Hallin, 2016, *Making Health Public: How News Coverage Is Remaking Media, Medicine, and Contemporary Life*, Abingdon, Oxon: Routledge. doi:10.4324/9781315658049
-* Broadbent, Alex, 2009, “Causation and Models of Disease in Epidemiology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 40(4): 302–311. doi:10.1016/j.shpsc.2009.09.006
-* Bynum, William, 2008, *The History of Medicine: A Very Short Introduction*, Oxford: Oxford University Press.
-* Buchman, Daniel Z, Anita Ho, and Daniel S Goldberg, 2017, “Investigating Trust, Expertise, and Epistemic Injustice in Chronic Pain”, *Journal of Bioethical Inquiry*, 14(1): 31–42. doi:10.1007/s11673-016-9761-x
-* Bueter, Anke, 2017, “Androcentrism, Feminism, and Pluralism in Medicine”, *Topoi*, 36(3): 521–530. doi:10.1007/s11245-015-9339-y
-* Bueter, Anke, 2017, “Androcentrism, Feminism, and Pluralism in Medicine”, *International Encyclopedia of the Social & Behavioral Sciences*, 36(3): 521–530. doi:10.1016/B0-08-043076-7/03143-0
-* Callahan, Daniel, 2016, *The Five Horsemen of the Modern World: Climate, Food, Water, Disease, and Obesity*, New York: Columbia University Press.
-* Cambosio, Alberto and Peter Keating, 2001: “Biomedical Sciences and Technology: History and Sociology” in Neil J. Smelser and Paul B. Baltes (eds.), *International Encyclopedia of the Social & Behavioral Sciences*, Amsterdam: Elsevier Ltd., 1222–1226.
-* Campaner, Raffaella, 2010, “Reductionist and Antireductionist Stances in the Health Sciences”, in *The Present Situation in the Philosophy of Science*, Friedrich Stadler (ed.), Dordrecht: Springer Netherlands, 205–218. doi:10.1007/978-90-481-9115-4_17
-* Campbell, Stephen M. and Joseph A. Stramondo, 2017, “The Complicated Relationship of Disability and Well-Being”, *Kennedy Institute of Ethics Journal*, 27(2): 151–184. doi:10.1353/ken.2017.0014
-* Carel, Havi, 2016, *Phenomenology of Illness*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199669653.001.0001
-* Chalmers, David J., 1995, “Facing Up to the Problem of Consciousness”, *Journal of Consciousness Studies*, 2(3): 200–219.
-* Charon, Rita, 2006, *Narrative Medicine: Honoring the Stories of Illness*, New York: Oxford University Press.
-* Chin-Yee, Benjamin and Ross Upshur, 2018, “Clinical Judgement in the Era of Big Data and Predictive Analytics”, *Journal of Evaluation in Clinical Practice*, 24(3): 638–645. doi:10.1111/jep.12852
-* Clarke, Adele E., Laura Mamo, Jennifer R. Fishman, Janet K. Shim, and Jennifer Ruth Fosket, 2003, “Biomedicalization: Technoscientific Transformations of Health, Illness, and U.S. Biomedicine”, *American Sociological Review*, 68(2): 161–194. doi:10.2307/1519765
-* Clarke, Brendan, Donald Gillies, Phyllis Illari, Federica Russo, and Jon Williamson, 2014, “Mechanisms and the Evidence Hierarchy”, *Topoi*, 33(2): 339–360. doi:10.1007/s11245-013-9220-9
-* Conrad, Lawrence I., Michael Neve, Vivian Nutton, Roy Porter, and Andrew Wear, 1995, *The Western Medical Tradition: 800 BC to AD 1800*, Cambridge: Cambridge University Press.
-* Dean, Megan, 2018, “Eating Identities, ‘Unhealthy’ Eaters, and Damaged Agency”, *Feminist Philosophy Quarterly*, 4(3): article 3. doi:10.5206/fpq/2018.3.5778
-* Desai, Prakash N., 1988, “Medical Ethics in India”, *Journal of Medicine and Philosophy*, 13(3): 231–255. doi:10.1093/jmp/13.3.231
-* Djulbegovic, Benjamin and Gordon Guyatt, 2019, “Evidence vs Consensus in Clinical Practice Guidelines”, *JAMA*, 322(8): 725–726. doi:10.1001/jama.2019.9751
-* Eisenstein, Michael, 2019, “Tea’s Value as a Cancer Therapy Is Steeped in Uncertainty”, *Nature*, 566(7742): S6–S7. doi:10.1038/d41586-019-00397-2
-* Evans, Robert G., Morris L. Barer, and Theodore R. Marmor (eds.), 1994, *Why Are Some People Healthy and Others Not? The Determinants of Health of Populations*, New York: Aldine De Gruyter.
-* Evidence-Based Medicine Working Group, 1992, “Evidence-Based Medicine: A New Approach to Teaching the Practice of Medicine”, *JAMA*, 268(17): 2420–2425. doi:10.1001/jama.1992.03490170092032
-* Fee, Elizabeth and Nancy Krieger (eds.), 1994, *Women’s Health, Politics, and Power: Essays on Sex/Gender, Medicine, and Public Policy*, Amityville, NY: Baywood Publishers.
-* Ferry–Danini, Juliette, 2010, “A New Path for Humanistic Medicine”, *Theoretical Medicine and Bioethics*, 39(1): 55–57. doi:10.1007/s11017-018-9433-4
-* Foucault, Michel, 1963 [2002], *Naissance de la Clinique*, Paris: Presses Universitaires de France. Translated as *The Birth of the Clinic: An Archaeology of Medical Perception*, A. M. Sheridan (trans.), London: Routledge.
-* Goldenberg, Maya J., 2006, “On Evidence and Evidence-Based Medicine: Lessons from the Philosophy of Science”, *Social Science & Medicine*, 62(11): 2621–2632. doi:10.1016/j.socscimed.2005.11.031
-* –––, 2009, “Iconoclast or Creed?: Objectivism, Pragmatism, and the Hierarchy of Evidence”, *Perspectives in Biology and Medicine*, 52(2): 168–187. doi:10.1353/pbm.0.0080
-* González-Moreno, María, Cristian Saborido, and David Teira, 2015, “Disease-Mongering through Clinical Trials”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 51: 11–18. doi:10.1016/j.shpsc.2015.02.007
-* Goodman, Kenneth W., 2002, *Ethics and Evidence-Based Medicine: Fallibility and Responsibility in Clinical Science*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511545511
-* Greene, Jeremy A., 2006, *Prescribing by Numbers: Drugs and the Definition of Disease*, Baltimore, MD: Johns Hopkins University Press.
-* Greenhalgh, Trisha, 2014, *How to Read a Paper: The Basics of Evidence-Based Medicine*, fifth edition, Oxford: John Wiley & Sons. First edition 1997.
-* Greenhalgh, Trisha, Rosamund Snow, Sara Ryan, Sian Rees, and Helen Salisbury, 2015, “Six ‘Biases’ against Patients and Carers in Evidence-Based Medicine”, *BMC Medicine*, 13: art. 200. doi:10.1186/s12916-015-0437-x
-* Hatzenbuehler, Mark L., Jo C. Phelan, and Bruce G. Link, 2013, “Stigma as a Fundamental Cause of Population Health Inequalities”, *American Journal of Public Health*, 103(5): 813–821. doi:10.2105/AJPH.2012.301069
-* Hausman, Daniel M., 2015, *Valuing Health: Well-Being, Freedom, and Suffering*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190233181.001.0001
-* Hogan, Andrew J., 2019, “Moving Away from the ‘Medical Model’: The Development and Revision of the World Health Organization’s Classification of Disability”, *Bulletin of the History of Medicine*, 93(2): 241–269. doi:10.1353/bhm.2019.0028
-* Illich, Ivan, 1976, *Medical Nemesis: The Expropriation of Health*, New York: Random House.
-* Ioannidis, John P.A., 2016, “Evidence-Based Medicine Has Been Hijacked: A Report to David Sackett”, *Journal of Clinical Epidemiology*, 73: 82–86. doi:10.1016/j.jclinepi.2016.02.012
-* Irwin, A. and E. Scali, 2007, “Action on the Social Determinants of Health: A Historical Perspective”, *Global Public Health*, 2(3): 235–256. doi:10.1080/17441690601106304
-* Kaplan, Jonathan, 2019, “Self-Care as Self-Blame Redux: Stress as Personal and Political”, *Kennedy Institute of Ethics Journal*, 29(2): 97–123. doi:10.1353/ken.2019.0017
-* Keating, Peter and Alberto Cambrosio, 2003, *Biomedical Platforms: Realigning the Normal and the Pathological in Late-Twentieth-Century Medicine*, Cambridge, MA: MIT Press.
-* Kendler, Kenneth S., 2016, “Phenomenology of Schizophrenia and the Representativeness of Modern Diagnostic Criteria”, *JAMA Psychiatry*, 73(10): 1082–1092. doi:10.1001/jamapsychiatry.2016.1976
-* Kingma, Elselijn, 2014, “Naturalism about Health and Disease: Adding Nuance for Progress”, *Journal of Medicine and Philosophy*, 39(6): 590–608. doi:10.1093/jmp/jhu037
-* Krieger, Nancy, 1994, “Epidemiology and the Web of Causation: Has Anyone Seen the Spider?”, *Social Science & Medicine*, 39(6): 590–608. doi:10.1093/jmp/jhu037
-* –––, 2011, *Epidemiology and the People’s Health: Theory and Context*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195383874.001.0001
-* –––, 2017, “Health Equity and the Fallacy of Treating Causes of Population Health as If They Sum to 100%”, *American Journal of Public Health*, 107(4): 541–549. doi:10.2105/AJPH.2017.303655
-* Krueger, James, 2015, “Theoretical Health and Medical Practice”, *Philosophy of Science*, 82(3): 491–508. doi:10.1086/681628
-* Kuhn, Thomas S., 1962, *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press.
-* Lakatos, Imre, 1968, “Criticism and the Methodology of Scientific Research Programmes”, *Proceedings of the Aristotelian Society*, 69: 149–186. doi:10.1093/aristotelian/69.1.149
-* Lawrence, Christopher and George Weisz (eds.), 1998, *Greater than the Parts: Holism in Biomedicine, 1920–1950*, New York: Oxford University Press.
-* Lee, Keekok, 2017, *The Philosophical Foundations of Classical Chinese Medicine: Philosophy, Methodology, Science*, Lanham, MD: Lexington Books.
-* –––, forthcoming, “Epidemiology Is Ecosystem Science”, *Synthese*, first online: 26 February 2019. doi:10.1007/s11229-019-02129-5
-* Link, Bruce G. and Jo C. Phelan, 2002, “McKeown and the Idea That Social Conditions Are Fundamental Causes of Disease”, *American Journal of Public Health*, 92(5): 730–732. doi:10.2105/AJPH.92.5.730
-* Lock, Elizabeth and Deborah Gordon (eds.), 1988, *Biomedicine Examined*, Dordrecht: Kluwer Academic Publishers.
-* Löwy, Ilana, 2011, “Historiography of Biomedicine: ‘Bio,’ ‘Medicine,’ and In Between”, *Isis*, 102(1): 116–122. doi:10.1086/658661
-* Maglo, Koffi N., 2010, “Genomics and the Conundrum of Race: Some Epistemic and Ethical Considerations”, *Perspectives in Biology and Medicine*, 53(3): 357–372. doi:10.1353/pbm.0.0171
-* –––, 2012, “Group-Based and Personalized Care in an Age of Genomic and Evidence-Based Medicine: A Reappraisal”, *Perspectives in Biology and Medicine*, 55(1): 137–154. doi:10.1353/pbm.2012.0006
-* Marcum, James A., 2005, “Biomechanical and Phenomenological Models of the Body, the Meaning of Illness and Quality of Care”, *Medicine, Health Care and Philosophy*, 7(3): 311–320. doi:10.1007/s11019-004-9033-0
-* –––, 2008, “Introduction: A Philosophy of Medicine?”, in his *Humanizing Modern Medicine: An Introductory Philosophy of Medicine*, (Philosophy and Medicine, 99), New York: Springer, 1–14.
-* McClain, Elizabeth K., 2017, “Changes in Osteopathic Medical Education: The Journey Continues”, *The Journal of the American Osteopathic Association*, 117(4): 208–210. doi:10.7556/jaoa.2017.037
-* McClimans, Leah, 2017, “Place of Birth: Ethics and Evidence”, *Topoi*, 36(3): 531–538. doi:10.1007/s11245-015-9353-0
-* –––, forthcoming, “First Person Epidemiological Measures: Vehicles for Patient Centered Care”, *Synthese*, first online: 28 January 2019. doi:10.1007/s11229-019-02094-z
-* McKeown, Thomas, 1976, *The Role of Medicine: Dream, Mirage, or Nemesis*, London: Nuffield Provincial Hospitals Trust.
-* Metzl, Jonathan M. and Anna Kirkland (eds.), 2010, *Against Health: How Health Became the New Morality*, New York: New York University Press.
-* Millum, Joseph and Ezekiel J. Emanuel (eds.), 2012, *Global Justice and Bioethics*, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780195379907.001.0001
-* Nunn, Amy, 2009, *The Politics and History of AIDS Treatment in Brazil*, New York: Springer New York. doi:10.1007/978-0-387-09618-6
-* Parsons, Annie and Claire Hooker, 2010, “Dignity and Narrative Medicine”, *Journal of Bioethical Inquiry*, 7(4): 345–351. doi:10.1007/s11673-010-9254-2
-* Pinto, Andrew D. and Ross E.G. Upshur, 2009, “Global Health Ethics for Students”, *Developing World Bioethics*, 9(1): 1–10. doi:10.1111/j.1471-8847.2007.00209.x
-* Rastogi, Sanjeev, 2014, “Ayurvedic Principles of Food and Nutrition: Translating Theory into Evidence-Based Practice”, in *Ayurvedic Science of Food and Nutrition*, Sanjeev Rastogi (ed.), New York: Springer New York, 3–14. doi:10.1007/978-1-4614-9628-1_1
-* Reiss, Julian and Rachel A. Ankeny, 2016, “Philosophy of Medicine”, in *The Stanford Encyclopedia of Philosophy* (Summer 2016), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2016/entries/medicine/>
-* Rosenberg, Alexander, 2006, *Darwinian Reductionism, or, How to Stop Worrying and Love Molecular Biology*, Chicago: University of Chicago Press.
-* Sidel, Victor W. and Ruth Sidel, 1981, “All Self-Care Is Not Solipsistic, but Selective Citation Surely Is: A Reply to Katz and Levin”, *International Journal of Health Services*, 11(4): 653–657. doi:10.2190/99DC-W7PD-2VLC-UUNB
-* Solomon, Miriam, 2011, “Just a Paradigm: Evidence-Based Medicine in Epistemological Context”, *European Journal for Philosophy of Science*, 1(3): 451–466. doi:10.1007/s13194-011-0034-6
-* –––, 2015, *Making Medical Knowledge*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198732617.001.0001
-* Stark, Jane Eliza, 2013, “An Historical Perspective on Principles of Osteopathy”, *International Journal of Osteopathic Medicine*, 16(1): 3–10. doi:10.1016/j.ijosm.2012.10.001
-* Stegenga, Jacob, 2011, “Is Meta-Analysis the Platinum Standard of Evidence?”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 42(4): 497–507. doi:10.1016/j.shpsc.2011.07.003
-* –––, 2018, *Medical Nihilism*, Oxford: Oxford University Press. doi:10.1093/oso/9780198747048.001.0001
-* Tonelli, Mark R. and Timothy C. Callahan, 2001, “Why Alternative Medicine Cannot Be Evidence-Based”, *Academic Medicine*, 76(12): 1213–1220. doi:10.1097/00001888-200112000-00011
-* Tonelli, Mark R. and Ross E.G. Upshur, 2019, “A Philosophical Approach to Addressing Uncertainty in Medical Education”, *Academic Medicine*, 94(4): 507–511. doi:10.1097/ACM.0000000000002512
-* Valles, Sean A., 2018, *Philosophy of Population Health: Philosophy for a New Public Health Era*, Abingdon, Oxon: Routledge.
-* Wieten, Sarah, 2018, “Expertise in Evidence-Based Medicine: A Tale of Three Models”, *Philosophy, Ethics, and Humanities in Medicine*, 13(1): 2. doi:10.1186/s13010-018-0055-2
-* Wolfe, Charles T., 2015, “Was Canguilhem a Biochauvinist? Goldstein, Canguilhem and the Project of Biophilosophy”, in *Medicine and Society, New Perspectives in Continental Philosophy*, Darian Meacham (ed.), (Philosophy and Medicine 120), Dordrecht: Springer Netherlands, 197–212. doi:10.1007/978-94-017-9870-9_12
-* Woods, Angela, 2011, “The Limits of Narrative: Provocations for the Medical Humanities”, *Medical Humanities*, 37(2): 73–78. doi:10.1136/medhum-2011-010045
-* Worrall, John, 2007, “Why There’s No Cause to Randomize”, *The British Journal for the Philosophy of Science*, 58(3): 451–488. doi:10.1093/bjps/axm024
-* Yuksekdag, Yusuf, forthcoming, “Individual Responsibilities in Partial Compliance: Skilled Health Worker Emigration from Under-Served Regions”, *Public Health Ethics*, first online: 31 October 2019. doi:10.1093/phe/phz016
+* Alexandrova, Anna, 2017, _A Philosophy for the Science of Well-Being_, Oxford: Oxford University Press. doi:10.1093/oso/9780199300518.001.0001
+* Amundson, Ron, 2000, “Against Normal Function”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 31: 33–53. doi:10.1016/S1369-8486(99)00033-3
+* Andersen, Holly K., 2016, “Reductionism in the Biomedical Sciences”, in _The Routledge Companion to Philosophy of Medicine_, Miriam Solomon , Jeremy R. Simon , and Harold Kincaid (eds), New York: Routledge, chapter 8.
+* Berwick, D. M., 2005, “Broadening the View of Evidence-Based Medicine”, _Quality and Safety in Health Care_, 14(5): 315–316. doi:10.1136/qshc.2005.015669
+* Bluhm, Robyn, 2005, “From Hierarchy to Network: A Richer View of Evidence for Evidence-Based Medicine”, _Perspectives in Biology and Medicine_, 48(4): 535–547. doi:10.1353/pbm.2005.0082
+* Boorse, Christopher, 1977, “Health as a Theoretical Concept”, _Philosophy of Science_, 44(4): 542–573.
+* –––, 2014, “A Second Rebuttal On Health”, _Journal of Medicine and Philosophy_, 39(6): 683–724. doi:10.1093/jmp/jhu035
+* Borgerson, Kirstin, 2005, “Evidence-Based Alternative Medicine?”, _Perspectives in Biology and Medicine_, 48(4): 502–515. doi:10.1353/pbm.2005.0084
+* –––, 2009, “Why Reading the Title Isn’t Good Enough: An Evaluation of the 4S Approach to Evidence-Based Medicine”, _IJFAB: International Journal of Feminist Approaches to Bioethics_, 2(2): 152–175. doi:10.3138/ijfab.2.2.152
+* Briggs, Charles L. and Daniel C. Hallin, 2016, _Making Health Public: How News Coverage Is Remaking Media, Medicine, and Contemporary Life_, Abingdon, Oxon: Routledge. doi:10.4324/9781315658049
+* Broadbent, Alex, 2009, “Causation and Models of Disease in Epidemiology”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 40(4): 302–311. doi:10.1016/j.shpsc.2009.09.006
+* Bynum, William, 2008, _The History of Medicine: A Very Short Introduction_, Oxford: Oxford University Press.
+* Buchman, Daniel Z, Anita Ho, and Daniel S Goldberg, 2017, “Investigating Trust, Expertise, and Epistemic Injustice in Chronic Pain”, _Journal of Bioethical Inquiry_, 14(1): 31–42. doi:10.1007/s11673-016-9761-x
+* Bueter, Anke, 2017, “Androcentrism, Feminism, and Pluralism in Medicine”, _Topoi_, 36(3): 521–530. doi:10.1007/s11245-015-9339-y
+* Bueter, Anke, 2017, “Androcentrism, Feminism, and Pluralism in Medicine”, _International Encyclopedia of the Social & Behavioral Sciences_, 36(3): 521–530. doi:10.1016/B0-08-043076-7/03143-0
+* Callahan, Daniel, 2016, _The Five Horsemen of the Modern World: Climate, Food, Water, Disease, and Obesity_, New York: Columbia University Press.
+* Cambosio, Alberto and Peter Keating, 2001: “Biomedical Sciences and Technology: History and Sociology” in Neil J. Smelser and Paul B. Baltes (eds.), _International Encyclopedia of the Social & Behavioral Sciences_, Amsterdam: Elsevier Ltd., 1222–1226.
+* Campaner, Raffaella, 2010, “Reductionist and Antireductionist Stances in the Health Sciences”, in _The Present Situation in the Philosophy of Science_, Friedrich Stadler (ed.), Dordrecht: Springer Netherlands, 205–218. doi:10.1007/978-90-481-9115-4\_17
+* Campbell, Stephen M. and Joseph A. Stramondo, 2017, “The Complicated Relationship of Disability and Well-Being”, _Kennedy Institute of Ethics Journal_, 27(2): 151–184. doi:10.1353/ken.2017.0014
+* Carel, Havi, 2016, _Phenomenology of Illness_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199669653.001.0001
+* Chalmers, David J., 1995, “Facing Up to the Problem of Consciousness”, _Journal of Consciousness Studies_, 2(3): 200–219.
+* Charon, Rita, 2006, _Narrative Medicine: Honoring the Stories of Illness_, New York: Oxford University Press.
+* Chin-Yee, Benjamin and Ross Upshur, 2018, “Clinical Judgement in the Era of Big Data and Predictive Analytics”, _Journal of Evaluation in Clinical Practice_, 24(3): 638–645. doi:10.1111/jep.12852
+* Clarke, Adele E., Laura Mamo, Jennifer R. Fishman, Janet K. Shim, and Jennifer Ruth Fosket, 2003, “Biomedicalization: Technoscientific Transformations of Health, Illness, and U.S. Biomedicine”, _American Sociological Review_, 68(2): 161–194. doi:10.2307/1519765
+* Clarke, Brendan, Donald Gillies, Phyllis Illari, Federica Russo, and Jon Williamson, 2014, “Mechanisms and the Evidence Hierarchy”, _Topoi_, 33(2): 339–360. doi:10.1007/s11245-013-9220-9
+* Conrad, Lawrence I., Michael Neve, Vivian Nutton, Roy Porter, and Andrew Wear, 1995, _The Western Medical Tradition: 800 BC to AD 1800_, Cambridge: Cambridge University Press.
+* Dean, Megan, 2018, “Eating Identities, ‘Unhealthy’ Eaters, and Damaged Agency”, _Feminist Philosophy Quarterly_, 4(3): article 3. doi:10.5206/fpq/2018.3.5778
+* Desai, Prakash N., 1988, “Medical Ethics in India”, _Journal of Medicine and Philosophy_, 13(3): 231–255. doi:10.1093/jmp/13.3.231
+* Djulbegovic, Benjamin and Gordon Guyatt, 2019, “Evidence vs Consensus in Clinical Practice Guidelines”, _JAMA_, 322(8): 725–726. doi:10.1001/jama.2019.9751
+* Eisenstein, Michael, 2019, “Tea’s Value as a Cancer Therapy Is Steeped in Uncertainty”, _Nature_, 566(7742): S6–S7. doi:10.1038/d41586-019-00397-2
+* Evans, Robert G., Morris L. Barer, and Theodore R. Marmor (eds.), 1994, _Why Are Some People Healthy and Others Not? The Determinants of Health of Populations_, New York: Aldine De Gruyter.
+* Evidence-Based Medicine Working Group, 1992, “Evidence-Based Medicine: A New Approach to Teaching the Practice of Medicine”, _JAMA_, 268(17): 2420–2425. doi:10.1001/jama.1992.03490170092032
+* Fee, Elizabeth and Nancy Krieger (eds.), 1994, _Women’s Health, Politics, and Power: Essays on Sex/Gender, Medicine, and Public Policy_, Amityville, NY: Baywood Publishers.
+* Ferry–Danini, Juliette, 2010, “A New Path for Humanistic Medicine”, _Theoretical Medicine and Bioethics_, 39(1): 55–57. doi:10.1007/s11017-018-9433-4
+* Foucault, Michel, 1963 \[2002], _Naissance de la Clinique_, Paris: Presses Universitaires de France. Translated as _The Birth of the Clinic: An Archaeology of Medical Perception_, A. M. Sheridan (trans.), London: Routledge.
+* Goldenberg, Maya J., 2006, “On Evidence and Evidence-Based Medicine: Lessons from the Philosophy of Science”, _Social Science & Medicine_, 62(11): 2621–2632. doi:10.1016/j.socscimed.2005.11.031
+* –––, 2009, “Iconoclast or Creed?: Objectivism, Pragmatism, and the Hierarchy of Evidence”, _Perspectives in Biology and Medicine_, 52(2): 168–187. doi:10.1353/pbm.0.0080
+* González-Moreno, María, Cristian Saborido, and David Teira, 2015, “Disease-Mongering through Clinical Trials”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 51: 11–18. doi:10.1016/j.shpsc.2015.02.007
+* Goodman, Kenneth W., 2002, _Ethics and Evidence-Based Medicine: Fallibility and Responsibility in Clinical Science_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511545511
+* Greene, Jeremy A., 2006, _Prescribing by Numbers: Drugs and the Definition of Disease_, Baltimore, MD: Johns Hopkins University Press.
+* Greenhalgh, Trisha, 2014, _How to Read a Paper: The Basics of Evidence-Based Medicine_, fifth edition, Oxford: John Wiley & Sons. First edition 1997.
+* Greenhalgh, Trisha, Rosamund Snow, Sara Ryan, Sian Rees, and Helen Salisbury, 2015, “Six ‘Biases’ against Patients and Carers in Evidence-Based Medicine”, _BMC Medicine_, 13: art. 200. doi:10.1186/s12916-015-0437-x
+* Hatzenbuehler, Mark L., Jo C. Phelan, and Bruce G. Link, 2013, “Stigma as a Fundamental Cause of Population Health Inequalities”, _American Journal of Public Health_, 103(5): 813–821. doi:10.2105/AJPH.2012.301069
+* Hausman, Daniel M., 2015, _Valuing Health: Well-Being, Freedom, and Suffering_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190233181.001.0001
+* Hogan, Andrew J., 2019, “Moving Away from the ‘Medical Model’: The Development and Revision of the World Health Organization’s Classification of Disability”, _Bulletin of the History of Medicine_, 93(2): 241–269. doi:10.1353/bhm.2019.0028
+* Illich, Ivan, 1976, _Medical Nemesis: The Expropriation of Health_, New York: Random House.
+* Ioannidis, John P.A., 2016, “Evidence-Based Medicine Has Been Hijacked: A Report to David Sackett”, _Journal of Clinical Epidemiology_, 73: 82–86. doi:10.1016/j.jclinepi.2016.02.012
+* Irwin, A. and E. Scali, 2007, “Action on the Social Determinants of Health: A Historical Perspective”, _Global Public Health_, 2(3): 235–256. doi:10.1080/17441690601106304
+* Kaplan, Jonathan, 2019, “Self-Care as Self-Blame Redux: Stress as Personal and Political”, _Kennedy Institute of Ethics Journal_, 29(2): 97–123. doi:10.1353/ken.2019.0017
+* Keating, Peter and Alberto Cambrosio, 2003, _Biomedical Platforms: Realigning the Normal and the Pathological in Late-Twentieth-Century Medicine_, Cambridge, MA: MIT Press.
+* Kendler, Kenneth S., 2016, “Phenomenology of Schizophrenia and the Representativeness of Modern Diagnostic Criteria”, _JAMA Psychiatry_, 73(10): 1082–1092. doi:10.1001/jamapsychiatry.2016.1976
+* Kingma, Elselijn, 2014, “Naturalism about Health and Disease: Adding Nuance for Progress”, _Journal of Medicine and Philosophy_, 39(6): 590–608. doi:10.1093/jmp/jhu037
+* Krieger, Nancy, 1994, “Epidemiology and the Web of Causation: Has Anyone Seen the Spider?”, _Social Science & Medicine_, 39(6): 590–608. doi:10.1093/jmp/jhu037
+* –––, 2011, _Epidemiology and the People’s Health: Theory and Context_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195383874.001.0001
+* –––, 2017, “Health Equity and the Fallacy of Treating Causes of Population Health as If They Sum to 100%”, _American Journal of Public Health_, 107(4): 541–549. doi:10.2105/AJPH.2017.303655
+* Krueger, James, 2015, “Theoretical Health and Medical Practice”, _Philosophy of Science_, 82(3): 491–508. doi:10.1086/681628
+* Kuhn, Thomas S., 1962, _The Structure of Scientific Revolutions_, Chicago: University of Chicago Press.
+* Lakatos, Imre, 1968, “Criticism and the Methodology of Scientific Research Programmes”, _Proceedings of the Aristotelian Society_, 69: 149–186. doi:10.1093/aristotelian/69.1.149
+* Lawrence, Christopher and George Weisz (eds.), 1998, _Greater than the Parts: Holism in Biomedicine, 1920–1950_, New York: Oxford University Press.
+* Lee, Keekok, 2017, _The Philosophical Foundations of Classical Chinese Medicine: Philosophy, Methodology, Science_, Lanham, MD: Lexington Books.
+* –––, forthcoming, “Epidemiology Is Ecosystem Science”, _Synthese_, first online: 26 February 2019. doi:10.1007/s11229-019-02129-5
+* Link, Bruce G. and Jo C. Phelan, 2002, “McKeown and the Idea That Social Conditions Are Fundamental Causes of Disease”, _American Journal of Public Health_, 92(5): 730–732. doi:10.2105/AJPH.92.5.730
+* Lock, Elizabeth and Deborah Gordon (eds.), 1988, _Biomedicine Examined_, Dordrecht: Kluwer Academic Publishers.
+* Löwy, Ilana, 2011, “Historiography of Biomedicine: ‘Bio,’ ‘Medicine,’ and In Between”, _Isis_, 102(1): 116–122. doi:10.1086/658661
+* Maglo, Koffi N., 2010, “Genomics and the Conundrum of Race: Some Epistemic and Ethical Considerations”, _Perspectives in Biology and Medicine_, 53(3): 357–372. doi:10.1353/pbm.0.0171
+* –––, 2012, “Group-Based and Personalized Care in an Age of Genomic and Evidence-Based Medicine: A Reappraisal”, _Perspectives in Biology and Medicine_, 55(1): 137–154. doi:10.1353/pbm.2012.0006
+* Marcum, James A., 2005, “Biomechanical and Phenomenological Models of the Body, the Meaning of Illness and Quality of Care”, _Medicine, Health Care and Philosophy_, 7(3): 311–320. doi:10.1007/s11019-004-9033-0
+* –––, 2008, “Introduction: A Philosophy of Medicine?”, in his _Humanizing Modern Medicine: An Introductory Philosophy of Medicine_, (Philosophy and Medicine, 99), New York: Springer, 1–14.
+* McClain, Elizabeth K., 2017, “Changes in Osteopathic Medical Education: The Journey Continues”, _The Journal of the American Osteopathic Association_, 117(4): 208–210. doi:10.7556/jaoa.2017.037
+* McClimans, Leah, 2017, “Place of Birth: Ethics and Evidence”, _Topoi_, 36(3): 531–538. doi:10.1007/s11245-015-9353-0
+* –––, forthcoming, “First Person Epidemiological Measures: Vehicles for Patient Centered Care”, _Synthese_, first online: 28 January 2019. doi:10.1007/s11229-019-02094-z
+* McKeown, Thomas, 1976, _The Role of Medicine: Dream, Mirage, or Nemesis_, London: Nuffield Provincial Hospitals Trust.
+* Metzl, Jonathan M. and Anna Kirkland (eds.), 2010, _Against Health: How Health Became the New Morality_, New York: New York University Press.
+* Millum, Joseph and Ezekiel J. Emanuel (eds.), 2012, _Global Justice and Bioethics_, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780195379907.001.0001
+* Nunn, Amy, 2009, _The Politics and History of AIDS Treatment in Brazil_, New York: Springer New York. doi:10.1007/978-0-387-09618-6
+* Parsons, Annie and Claire Hooker, 2010, “Dignity and Narrative Medicine”, _Journal of Bioethical Inquiry_, 7(4): 345–351. doi:10.1007/s11673-010-9254-2
+* Pinto, Andrew D. and Ross E.G. Upshur, 2009, “Global Health Ethics for Students”, _Developing World Bioethics_, 9(1): 1–10. doi:10.1111/j.1471-8847.2007.00209.x
+* Rastogi, Sanjeev, 2014, “Ayurvedic Principles of Food and Nutrition: Translating Theory into Evidence-Based Practice”, in _Ayurvedic Science of Food and Nutrition_, Sanjeev Rastogi (ed.), New York: Springer New York, 3–14. doi:10.1007/978-1-4614-9628-1\_1
+* Reiss, Julian and Rachel A. Ankeny, 2016, “Philosophy of Medicine”, in _The Stanford Encyclopedia of Philosophy_ (Summer 2016), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2016/entries/medicine/](https://plato.stanford.edu/archives/sum2016/entries/medicine/)
+* Rosenberg, Alexander, 2006, _Darwinian Reductionism, or, How to Stop Worrying and Love Molecular Biology_, Chicago: University of Chicago Press.
+* Sidel, Victor W. and Ruth Sidel, 1981, “All Self-Care Is Not Solipsistic, but Selective Citation Surely Is: A Reply to Katz and Levin”, _International Journal of Health Services_, 11(4): 653–657. doi:10.2190/99DC-W7PD-2VLC-UUNB
+* Solomon, Miriam, 2011, “Just a Paradigm: Evidence-Based Medicine in Epistemological Context”, _European Journal for Philosophy of Science_, 1(3): 451–466. doi:10.1007/s13194-011-0034-6
+* –––, 2015, _Making Medical Knowledge_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198732617.001.0001
+* Stark, Jane Eliza, 2013, “An Historical Perspective on Principles of Osteopathy”, _International Journal of Osteopathic Medicine_, 16(1): 3–10. doi:10.1016/j.ijosm.2012.10.001
+* Stegenga, Jacob, 2011, “Is Meta-Analysis the Platinum Standard of Evidence?”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 42(4): 497–507. doi:10.1016/j.shpsc.2011.07.003
+* –––, 2018, _Medical Nihilism_, Oxford: Oxford University Press. doi:10.1093/oso/9780198747048.001.0001
+* Tonelli, Mark R. and Timothy C. Callahan, 2001, “Why Alternative Medicine Cannot Be Evidence-Based”, _Academic Medicine_, 76(12): 1213–1220. doi:10.1097/00001888-200112000-00011
+* Tonelli, Mark R. and Ross E.G. Upshur, 2019, “A Philosophical Approach to Addressing Uncertainty in Medical Education”, _Academic Medicine_, 94(4): 507–511. doi:10.1097/ACM.0000000000002512
+* Valles, Sean A., 2018, _Philosophy of Population Health: Philosophy for a New Public Health Era_, Abingdon, Oxon: Routledge.
+* Wieten, Sarah, 2018, “Expertise in Evidence-Based Medicine: A Tale of Three Models”, _Philosophy, Ethics, and Humanities in Medicine_, 13(1): 2. doi:10.1186/s13010-018-0055-2
+* Wolfe, Charles T., 2015, “Was Canguilhem a Biochauvinist? Goldstein, Canguilhem and the Project of Biophilosophy”, in _Medicine and Society, New Perspectives in Continental Philosophy_, Darian Meacham (ed.), (Philosophy and Medicine 120), Dordrecht: Springer Netherlands, 197–212. doi:10.1007/978-94-017-9870-9\_12
+* Woods, Angela, 2011, “The Limits of Narrative: Provocations for the Medical Humanities”, _Medical Humanities_, 37(2): 73–78. doi:10.1136/medhum-2011-010045
+* Worrall, John, 2007, “Why There’s No Cause to Randomize”, _The British Journal for the Philosophy of Science_, 58(3): 451–488. doi:10.1093/bjps/axm024
+* Yuksekdag, Yusuf, forthcoming, “Individual Responsibilities in Partial Compliance: Skilled Health Worker Emigration from Under-Served Regions”, _Public Health Ethics_, first online: 31 October 2019. doi:10.1093/phe/phz016
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=biomedicine). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/biomedicine/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=biomedicine&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/biomedicine/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=biomedicine).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/biomedicine/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=biomedicine\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/biomedicine/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* NCI (National Cancer Institute), “[Biomedicine](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/biomedicine)”, in *NCI Dictionary of Cancer Terms*, accessed 12 March 2020.
+* NCI (National Cancer Institute), “[Biomedicine](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/biomedicine)”, in _NCI Dictionary of Cancer Terms_, accessed 12 March 2020.
 * [Institute for Philosophy in Biology and Medicine](https://www.philinbiomed.org/)
 * [EBM+](http://ebmplus.org/)
 * [The World of Shakespeare’s Humors](https://www.nlm.nih.gov/exhibition/shakespeare/fourhumors.html)
@@ -367,11 +365,11 @@ Valles 提供了一种替代方案——人群健康框架，这在一定程度�
 
 ## Related Entries
 
-[disability: definitions and models](https://plato.stanford.edu/entries/disability/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [health](https://plato.stanford.edu/entries/health-disease/) | [justice: international distributive](https://plato.stanford.edu/entries/international-justice/) | [medicine, philosophy of](https://plato.stanford.edu/entries/medicine/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [physicalism](https://plato.stanford.edu/entries/physicalism/) | [reduction, scientific: in biology](https://plato.stanford.edu/entries/reduction-biology/)
+[disability: definitions and models](https://plato.stanford.edu/entries/disability/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [health](https://plato.stanford.edu/entries/health-disease/) | [justice: international distributive](https://plato.stanford.edu/entries/international-justice/) | [medicine, philosophy of](https://plato.stanford.edu/entries/medicine/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [physicalism](https://plato.stanford.edu/entries/physicalism/) | [reduction, scientific: in biology](https://plato.stanford.edu/entries/reduction-biology/)
 
 ### Acknowledgments
 
 I am indebted to Robyn Bluhm and Maya Goldenberg for their helpful comments on a draft of this work.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[Sean Valles](http://seanvalles.com/) <[*valles@msu.edu*](mailto:valles%40msu%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[Sean Valles](http://seanvalles.com/) <[_valles@msu.edu_](mailto:valles%40msu%2eedu)>

@@ -1,6 +1,6 @@
 # 亚尼修·玛理乌斯·塞味利诺·波爱修斯 Boethius, Anicius Manlius Severinus (John Marenbon)
 
-*首次发表于 2005 年 5 月 6 日；实质性修订于 2021 年 9 月 21 日*
+_首次发表于 2005 年 5 月 6 日；实质性修订于 2021 年 9 月 21 日_
 
 亚尼修·玛理乌斯·塞味利诺·波爱修斯（出生：公元 475-7 年，逝世：526 年？）长期以来被认为是古代哲学与拉丁中世纪之间最重要的中介者之一，通过他的《哲学的安慰》一书，他展现了出色的文学才华，使哲学思想变得戏剧化且易于理解，适合更广泛的读者。他之前曾将亚里士多德的逻辑著作翻译成拉丁文，并对其进行评论，还编写了逻辑教材，并利用他的逻辑训练为当时的神学讨论做出了贡献。所有这些著作在中世纪将产生巨大影响，并广泛借鉴了希腊新柏拉图主义者如波菲里和伊安布利科思的思想。然而，波爱修斯不仅仅是一个中介者，他也是一个独立的思想家，尽管他在一个对哲学原创性几乎没有明显重视的传统中工作。接下来的章节将考虑波爱修斯的这两个方面。
 
@@ -20,7 +20,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/boethius/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/boethius/#Rel)
 
----
+***
 
 ## 1. 生平与作品
 
@@ -51,24 +51,24 @@
 1. 每个人都称赞德摩斯特尼斯是一位演说家。
 2. Cicero is Demosthenes's equal as an orator.
 
- 因此
+因此
 
 3. 每个人都应该赞美亚尼修·玛理乌斯·塞味利诺·波爱修斯。
 
-与此相关的，就像每一个*不同性质*一样，有一个“最大命题”（*maxima propositio*），在这种情况下是：“相等的事物应该被判断为相等。”最大命题可以被视为如何组织论证的指示；它也可以被添加到论证中以使其形式上有效，但是波爱修斯并没有设想最大命题会以这种方式使用。相反，主题论证者根据与他所使用的*不同性质*相关的最大命题接近逻辑真理的程度来产生不同强度的论证。一些最大命题确实陈述了推理的基本规律（包括*假言演绎*和*否定假言*）；其他的则陈述了最多是经验法则，而在“从权威”这个主题的情况下——接受智者、专家或多数人所相信的东西为真的命令——甚至连这个都不是。
+与此相关的，就像每一个_不同性质_一样，有一个“最大命题”（_maxima propositio_），在这种情况下是：“相等的事物应该被判断为相等。”最大命题可以被视为如何组织论证的指示；它也可以被添加到论证中以使其形式上有效，但是波爱修斯并没有设想最大命题会以这种方式使用。相反，主题论证者根据与他所使用的_不同性质_相关的最大命题接近逻辑真理的程度来产生不同强度的论证。一些最大命题确实陈述了推理的基本规律（包括_假言演绎_和_否定假言_）；其他的则陈述了最多是经验法则，而在“从权威”这个主题的情况下——接受智者、专家或多数人所相信的东西为真的命令——甚至连这个都不是。
 
-波爱修斯的两个主要权威，西塞罗和忒米斯提乌斯，对主题*不同性质*的列表给出了相当不同的解释，他的教科书的任务之一就是展示他们的方案确实是一致的。在他不久前写的关于西塞罗《论题》的评论中，波爱修斯阐述了同样的理论，但是给自己留下了足够的空间来讨论普遍性、因果关系、自由意志和斯多葛派逻辑等主题。
+波爱修斯的两个主要权威，西塞罗和忒米斯提乌斯，对主题_不同性质_的列表给出了相当不同的解释，他的教科书的任务之一就是展示他们的方案确实是一致的。在他不久前写的关于西塞罗《论题》的评论中，波爱修斯阐述了同样的理论，但是给自己留下了足够的空间来讨论普遍性、因果关系、自由意志和斯多葛派逻辑等主题。
 
 正是斯多葛派逻辑和波爱修斯与之的关系使得他的著作《论假设性三段论》具有特殊的兴趣。当一个三段论的前提之一是使用“如果”或“或者”（理解为排他性析取）作为连接词的分子命题时，它被称为“假设性”。因此，例如，以下三段论是假设性的：
 
 4. 如果是白天，就是亮的。
 5. 它不是亮的。
 
- 因此
+因此
 
 6. 这不是白天。
 
-现代读者倾向于将(4-6)视为简单的句子逻辑：*p→q*；¬q；因此¬*p*。由于在古代，斯多亚派发展了句子逻辑，与亚里士多德的术语逻辑形成对比，因此波爱修斯关于假设性三段论的论文似乎是斯多亚派逻辑的支流。这个结论在一定程度上是正确的，因为波爱修斯所继承的传统在某种程度上可以追溯到斯多亚派的根源。然而，到了波爱修斯这里，斯多亚派和亚里士多德派的元素已经变得混乱不堪（参见 Speca 2001）。正如 C.J. Martin（1991）所示，波爱修斯本人缺乏以句子逻辑思考的概念工具。对他来说，(4-6)应该被理解为术语逻辑，其中谓词“是光”和“是白天”被归属于或否定了一个模糊的主语“它”。这篇论文主要致力于对涉及两个、三个（第一个前提为“如果它是*A*，那么如果它是*B*，它就是*C*”）和四个术语（第一个前提为“如果，如果它是*A*，那么它是*B*，那么，如果它是*C*，它就是*D*”）的各种不同可能形式的假设性三段论进行繁琐的计算。
+现代读者倾向于将(4-6)视为简单的句子逻辑：_p→q_；¬q；因此¬_p_。由于在古代，斯多亚派发展了句子逻辑，与亚里士多德的术语逻辑形成对比，因此波爱修斯关于假设性三段论的论文似乎是斯多亚派逻辑的支流。这个结论在一定程度上是正确的，因为波爱修斯所继承的传统在某种程度上可以追溯到斯多亚派的根源。然而，到了波爱修斯这里，斯多亚派和亚里士多德派的元素已经变得混乱不堪（参见 Speca 2001）。正如 C.J. Martin（1991）所示，波爱修斯本人缺乏以句子逻辑思考的概念工具。对他来说，(4-6)应该被理解为术语逻辑，其中谓词“是光”和“是白天”被归属于或否定了一个模糊的主语“它”。这篇论文主要致力于对涉及两个、三个（第一个前提为“如果它是_A_，那么如果它是_B_，它就是_C_”）和四个术语（第一个前提为“如果，如果它是_A_，那么它是_B_，那么，如果它是_C_，它就是_D_”）的各种不同可能形式的假设性三段论进行繁琐的计算。
 
 ## 4. 神学论文
 
@@ -78,11 +78,11 @@
 
 在第一篇论文中，波爱修斯发展了这个方案。特别是，他区分了在实质、数量和品质类别中的断言，这些断言是适当的和内在的，以及在其他六个类别中（排除关系）的断言，他称之为不适当的和外在的。这个区别背后的直观想法似乎是，这些其他类别中的断言只涉及主体与其他事物的关系；只有实质、数量和品质属性才能表征事物本身。波爱修斯接着说，虽然关于上帝的所有适当、内在的断言都是实质性的，关于他的不适当、外在的断言则不是：它们不涉及上帝或他的创造物是什么，而是关于外部事物的。
 
-关于关系的讨论特别清楚地展示了波爱修斯如何运用逻辑来分析上帝，然后展示逻辑在哪里以及如何失败。他需要解释同一个上帝既是父亲又是儿子的真实性。他这样做是通过声称关系的陈述，比如“是父亲”，并不涉及相关事物的实质：*a*与*b*之间的关系不会改变*a*或*b*。此外，有些关系是一件事物与自身之间的关系，例如平等。作为父亲和作为儿子在被创造的事物中并不是这样的关系：没有人可以成为自己的父亲或自己的儿子。但是，正是在这里，波爱修斯说，当人们试图理解三位一体时，创造性的逻辑就会崩溃：我们必须以某种方式试图理解父性或子性的关系是自反的概念。
+关于关系的讨论特别清楚地展示了波爱修斯如何运用逻辑来分析上帝，然后展示逻辑在哪里以及如何失败。他需要解释同一个上帝既是父亲又是儿子的真实性。他这样做是通过声称关系的陈述，比如“是父亲”，并不涉及相关事物的实质：_a_与_b_之间的关系不会改变_a_或_b_。此外，有些关系是一件事物与自身之间的关系，例如平等。作为父亲和作为儿子在被创造的事物中并不是这样的关系：没有人可以成为自己的父亲或自己的儿子。但是，正是在这里，波爱修斯说，当人们试图理解三位一体时，创造性的逻辑就会崩溃：我们必须以某种方式试图理解父性或子性的关系是自反的概念。
 
 波爱修斯在讨论三位一体时还探讨了个体化的哲学问题（以及更广泛的部分和整体的主题）。不幸的是，我们不完全清楚他订阅了哪种个体化理论。快速阅读一些段落可能会认为物质是通过一系列意外事件来个体化的，但有迹象表明波爱修斯可能更喜欢通过时空位置来个体化的理论，或者与这两者都不同的理论（参见 Arlig，2009）。
 
-第三篇论文也涉及到陈述和上帝。但与其他论文截然不同的是，它不包含任何特定的基督教内容。它所探讨的问题是所有物质如何在它们存在的情况下都是好的，但又不是实质上的好。波爱修斯认为，所有事物都倾向于善，而且事物的本质与它们的欲望相似。因此，一切都是天生善良的。但如果是这样，那么事物必须通过参与或实质上（或者像现代哲学家所说的“本质上”）来成为善。如果它们仅仅通过参与而是善，那么它们是偶然的善，而不是天生的善。但如果它们实质上是善的，那么它们的实质就是善本身，因此没有什么可以与第一善即上帝区分开来。在给出他的答案时，波爱修斯利用了他在文章开头陈述的一组公理，并进行了一个假设上帝不存在的思想实验。他解决问题的关键在于找到一种有原则的方法来区分一件事物*a*在存在的情况下是*F*，和一件事物*a*实质上是*F*。根据波爱修斯的讨论，*a*实质上是*F*意味着“*a*不是*F*”是不可思议的（我们可以说是“逻辑上不可能的”）。而*a*在存在的情况下是*F*意味着“*a*不是*F*”仅仅是不可能的（我们可以说是“根据世界的设定方式不可能的”）。虽然上帝不善是不可思议的，但一切不善只是不可能的。
+第三篇论文也涉及到陈述和上帝。但与其他论文截然不同的是，它不包含任何特定的基督教内容。它所探讨的问题是所有物质如何在它们存在的情况下都是好的，但又不是实质上的好。波爱修斯认为，所有事物都倾向于善，而且事物的本质与它们的欲望相似。因此，一切都是天生善良的。但如果是这样，那么事物必须通过参与或实质上（或者像现代哲学家所说的“本质上”）来成为善。如果它们仅仅通过参与而是善，那么它们是偶然的善，而不是天生的善。但如果它们实质上是善的，那么它们的实质就是善本身，因此没有什么可以与第一善即上帝区分开来。在给出他的答案时，波爱修斯利用了他在文章开头陈述的一组公理，并进行了一个假设上帝不存在的思想实验。他解决问题的关键在于找到一种有原则的方法来区分一件事物_a_在存在的情况下是_F_，和一件事物_a_实质上是_F_。根据波爱修斯的讨论，_a_实质上是_F_意味着“_a_不是_F_”是不可思议的（我们可以说是“逻辑上不可能的”）。而_a_在存在的情况下是_F_意味着“_a_不是_F_”仅仅是不可能的（我们可以说是“根据世界的设定方式不可能的”）。虽然上帝不善是不可思议的，但一切不善只是不可能的。
 
 ## 5. 《哲学的安慰》：第一卷至第五卷的论证
 
@@ -102,9 +102,9 @@
 
 然而，在 V.3 节中，角色波爱修斯提出了一个基于上帝对未来事件的预知的论点，这个论点威胁到了甚至心智行为的意愿都是必然的，因此（正如作者波爱修斯所认为的）是不自由的。他认为：
 
-[7] 如果上帝能预见一切，并且在任何情况下都不会出错，那么上帝的预见将会成为现实，必然会发生。[8] 因此，如果上帝从永恒中预知不仅人类将做什么，还包括他们的计划和意愿，那么就不会有选择的自由，因为没有任何行为或任何意愿能够逃脱无误的神圣预见。因为如果意愿能够与预见不同，那么未来就不会有确定的预知，而只有不确定的观点，我认为相信这一点是邪恶的。
+\[7] 如果上帝能预见一切，并且在任何情况下都不会出错，那么上帝的预见将会成为现实，必然会发生。\[8] 因此，如果上帝从永恒中预知不仅人类将做什么，还包括他们的计划和意愿，那么就不会有选择的自由，因为没有任何行为或任何意愿能够逃脱无误的神圣预见。因为如果意愿能够与预见不同，那么未来就不会有确定的预知，而只有不确定的观点，我认为相信这一点是邪恶的。
 
-既然上帝是全知的，这意味着他*知道*每一个未来事件，包括心理事件，如意愿，(7)和(8)似乎排除了任何形式的意愿自由，这是归因于道德责任所必需的：这个灾难性的影响，波爱修斯这个角色生动地描述了出来。
+既然上帝是全知的，这意味着他_知道_每一个未来事件，包括心理事件，如意愿，(7)和(8)似乎排除了任何形式的意愿自由，这是归因于道德责任所必需的：这个灾难性的影响，波爱修斯这个角色生动地描述了出来。
 
 哲学对这个困境的回答是《慰藉书》中最复杂和有趣的部分。这是波爱修斯的作品的一部分（也许是唯一的一部分），它仍然引起当代哲学（宗教哲学）的兴趣，因此，它经常根据对神圣预知问题的更近期思考提供的框架进行解释（例如，Leftow 1991，Zagzebski 1991）。以下是对《慰藉书》中实际讨论的一种呈现尝试。
 
@@ -162,99 +162,99 @@
 
 ### Primary Texts in Latin
 
-* *De institutione musica*, G. Friedlein (ed.), Leipzig: Teubner, 1867.
-* *De arithmetica*, H. Oosthout and J. Schilling (eds.), Turnhout: Brepols, 1999 (Corpus Christianorum series latina 94a).
-* Commentaries on *On Interpretation*, C. Meiser (ed.), Leipzig: Teubner, 1887, 1880.
-* Commentaries on *Isagoge*, S. Brandt (ed.), Vienna/Leipzig: Tempsky/Freitag, 1906 (Corpus scriptorum ecclesiasticorum latinorum 38).
-* *De divisione*, J. Magee (ed.), Leiden/Boston/Cologne: Brill, 1998 (Philosophia antiqua 77).
-* *De hypotheticis syllogismis*, L. Obertello (ed.), with Italian translation, Brescia: Paideia, 1969 (Istituto di Filosoofia dell’Università di Parma, Logicalia 1).
-* *De syllogismo categorico*, C. Thomsen Thörnqvist (ed.), Gotheburg: University of Gothenburg, 2008 (Studies graeca et latina gothoburgensia 68)
-* *De topicis differentiis*, D.Z. Nikitas (ed.), in *Boethius: De topicis differentiis kai hoi buzantines metafraseis tou Manouel Holobolou kai Prochorou Kudone*, Athens/Paris/Brussels: Academy of Athens/Vrin/Ousia, 1969 (Corpus Philosophorum Medii Aevi. Philosophi Byzantini 5).
-* *Introductio ad syllogismos categoricos*, C. Thomsen Thornqvist (ed.), Gotheburg: University of Gothenburg, 2008 (Studies graeca et latina gothoburgensia 69).
-* An edition of the *Categories* commentary by M. Asztalos is (and has for many years been) in preparation; at the moment, the work must still be read in the edition found in J.-P. Migne, *Patrologia Latina* 64.
-* *Opuscula Sacra* and *De consolatione Philosophiae*, C. Moreschini (ed.), revised edition, Munich/Leipzig: K.G. Saur, 2005.
+* _De institutione musica_, G. Friedlein (ed.), Leipzig: Teubner, 1867.
+* _De arithmetica_, H. Oosthout and J. Schilling (eds.), Turnhout: Brepols, 1999 (Corpus Christianorum series latina 94a).
+* Commentaries on _On Interpretation_, C. Meiser (ed.), Leipzig: Teubner, 1887, 1880.
+* Commentaries on _Isagoge_, S. Brandt (ed.), Vienna/Leipzig: Tempsky/Freitag, 1906 (Corpus scriptorum ecclesiasticorum latinorum 38).
+* _De divisione_, J. Magee (ed.), Leiden/Boston/Cologne: Brill, 1998 (Philosophia antiqua 77).
+* _De hypotheticis syllogismis_, L. Obertello (ed.), with Italian translation, Brescia: Paideia, 1969 (Istituto di Filosoofia dell’Università di Parma, Logicalia 1).
+* _De syllogismo categorico_, C. Thomsen Thörnqvist (ed.), Gotheburg: University of Gothenburg, 2008 (Studies graeca et latina gothoburgensia 68)
+* _De topicis differentiis_, D.Z. Nikitas (ed.), in _Boethius: De topicis differentiis kai hoi buzantines metafraseis tou Manouel Holobolou kai Prochorou Kudone_, Athens/Paris/Brussels: Academy of Athens/Vrin/Ousia, 1969 (Corpus Philosophorum Medii Aevi. Philosophi Byzantini 5).
+* _Introductio ad syllogismos categoricos_, C. Thomsen Thornqvist (ed.), Gotheburg: University of Gothenburg, 2008 (Studies graeca et latina gothoburgensia 69).
+* An edition of the _Categories_ commentary by M. Asztalos is (and has for many years been) in preparation; at the moment, the work must still be read in the edition found in J.-P. Migne, _Patrologia Latina_ 64.
+* _Opuscula Sacra_ and _De consolatione Philosophiae_, C. Moreschini (ed.), revised edition, Munich/Leipzig: K.G. Saur, 2005.
 
 ### Selected English (and other) Translations of Primary Texts
 
-* Bower, C. M., 1989, *Boethius: Fundamental of Music*, New Haven and London: Yale University Press.
-* Guillaumin, J. Y., 1995, *De institutione arithmetica*, edition with French translation, Paris: Belles Lettres, 1995.
-* Magee, J. (ed.), 1998, *Boethius. De divisione*, Leiden/Boston/Cologne: Brill, 1998 (Philosophia antiqua 77). Full English translation.
-* Relihan, J. C., 2001, *Boethius, ‘Consolation of Philosophy’*, Hackett: Indianapolis.
-* Spade, P.V. (trans.), 1994, *Five Texts on the Mediaeval Problem of Universals: Porphyry, Boethius, Abelard, Duns Scotus, Ockham*, Indianapolis, Ind./Cambridge, Mass.: Hackett. The passage on universals from the second commentary to the *Isagoge*.
-* Stewart, H.F, E.K. Rand, and S.J. Tester, 1973, *Boethius: the Theological Tractates; the Consolation of Philosophy*, Cambridge, Mass./London: Harvard University Press.
-* Stump, E., 1978, *Boethius’s ‘De topicis differentiis’*, Ithaca/London: Cornell University Press. Full English translation and commentary.
-* –––, 1988, *Boethius’s ‘In Ciceronis Topica’*, Ithaca/London: Cornell University Press. Full English translation and commentary.
+* Bower, C. M., 1989, _Boethius: Fundamental of Music_, New Haven and London: Yale University Press.
+* Guillaumin, J. Y., 1995, _De institutione arithmetica_, edition with French translation, Paris: Belles Lettres, 1995.
+* Magee, J. (ed.), 1998, _Boethius. De divisione_, Leiden/Boston/Cologne: Brill, 1998 (Philosophia antiqua 77). Full English translation.
+* Relihan, J. C., 2001, _Boethius, ‘Consolation of Philosophy’_, Hackett: Indianapolis.
+* Spade, P.V. (trans.), 1994, _Five Texts on the Mediaeval Problem of Universals: Porphyry, Boethius, Abelard, Duns Scotus, Ockham_, Indianapolis, Ind./Cambridge, Mass.: Hackett. The passage on universals from the second commentary to the _Isagoge_.
+* Stewart, H.F, E.K. Rand, and S.J. Tester, 1973, _Boethius: the Theological Tractates; the Consolation of Philosophy_, Cambridge, Mass./London: Harvard University Press.
+* Stump, E., 1978, _Boethius’s ‘De topicis differentiis’_, Ithaca/London: Cornell University Press. Full English translation and commentary.
+* –––, 1988, _Boethius’s ‘In Ciceronis Topica’_, Ithaca/London: Cornell University Press. Full English translation and commentary.
 
 ### Selected Secondary Works
 
-* Arlig, A., 2009, ‘The Metaphysics of Individuals in the *Opuscula sacra*,’ in Marenbon 2009, 129–54.
-* Asztalos, M., 1993, ‘Boethius as a Transmitter of Greek Logic to the Latin West: the *Categories*,’ *Harvard Studies in Classical Philology*, 95: 367–407.
-* Belli, M., 2011, *Il centro e la circonferenza. Fortuna del* De consolatione philosophiae *di Boezio tra Valla e Leibniz*, Florence: Olschki (Le corrispondenze letterarie, scinetifiche ed erudite dal rinasimento all’ moderna. Subsidia 14).
-* Boehm, T., T. Jurgasch, A. Kirchner (eds.), 2014, *Boethius as a Paradigm of Late Ancient Thought*, Berlin/Boston: De Gruyter.
-* Chadwick, H., 1981, *Boethius. The Consolations of Music, Logic, Theology, and Philosophy*, Oxford : Oxford University Press.
-* Courcelle, P., 1967, *La Consolation de Philosophie dans la tradition littéraire*, Paris: Études Augustiniennes.
-* De Libera, A., 1999, *L’Art des généralités. Théories de l’abstraction*, Paris: Aubier.
-* De Rijk, L.M., 1988, ‘On Boethius’ Notion of Being. A Chapter of Boethian Semantics,’ in N. Kretzmann (ed.), *Meaning and Inference in Medieval Philosophy*, Dordrecht /Boston/London: Kluwer, 1–29 (Synthese Historical Library 32).
-* Donato, A., 2013, *Boethius’ Consolation of Philosophy as a Product of Late Antiquity*, London/New York: Bloomsbury.
-* Dronke, P., 1994, *Verse with Prose from Petronius to Dante. The Art and Scope of the Mixed Form*, Cambridge, Mass./London: Harvard University Press.
+* Arlig, A., 2009, ‘The Metaphysics of Individuals in the _Opuscula sacra_,’ in Marenbon 2009, 129–54.
+* Asztalos, M., 1993, ‘Boethius as a Transmitter of Greek Logic to the Latin West: the _Categories_,’ _Harvard Studies in Classical Philology_, 95: 367–407.
+* Belli, M., 2011, _Il centro e la circonferenza. Fortuna del_ De consolatione philosophiae _di Boezio tra Valla e Leibniz_, Florence: Olschki (Le corrispondenze letterarie, scinetifiche ed erudite dal rinasimento all’ moderna. Subsidia 14).
+* Boehm, T., T. Jurgasch, A. Kirchner (eds.), 2014, _Boethius as a Paradigm of Late Ancient Thought_, Berlin/Boston: De Gruyter.
+* Chadwick, H., 1981, _Boethius. The Consolations of Music, Logic, Theology, and Philosophy_, Oxford : Oxford University Press.
+* Courcelle, P., 1967, _La Consolation de Philosophie dans la tradition littéraire_, Paris: Études Augustiniennes.
+* De Libera, A., 1999, _L’Art des généralités. Théories de l’abstraction_, Paris: Aubier.
+* De Rijk, L.M., 1988, ‘On Boethius’ Notion of Being. A Chapter of Boethian Semantics,’ in N. Kretzmann (ed.), _Meaning and Inference in Medieval Philosophy_, Dordrecht /Boston/London: Kluwer, 1–29 (Synthese Historical Library 32).
+* Donato, A., 2013, _Boethius’ Consolation of Philosophy as a Product of Late Antiquity_, London/New York: Bloomsbury.
+* Dronke, P., 1994, _Verse with Prose from Petronius to Dante. The Art and Scope of the Mixed Form_, Cambridge, Mass./London: Harvard University Press.
 * Ebbesen, S., 1990, ‘Boethius as an Aristotelian Commentator,’ in Sorabji (1990), 373–91.
-* Fuhrmann, M. and Gruber, J., 1984, *Boethius*, Darmstadt; Wissenschaftliche Buchgesellschaft (Wege der Forschung 483).
-* Galonnier, A. (ed.), 1984, *Boèce ou la chaîne des savoirs. Actes du colloque international de la Fondation Singer-Polignac*, Louvain-la-neuve, Leuven and Paris; Institut supèrieur de philosophie and Peeters (Wege der Forschung 483).
-* Gibson, M. (ed.), 1981, *Boethius. His Life, Thought and Influence*, Oxford: Blackwell.
-* Gruber, J., 2006, *Kommentar zu Boethius De Consolatione Philosophiae*, 2nd edition, Berlin/New York: De Gruyter (Texte und Kommentare—eine altertumswissenschaftliche Reihe 9).
-* Hoenen, M.F.M. and Nauta, L. (eds.), 1997, *Boethius in the Middle Ages. Latin and Vernacular Tradition of the ‘Consolatio Philosophiae’*, Leiden/New York/Cologne: Brill (Studien und Texte zur Geistesgeschichte des Mittelalters 58).
-* Huber, P., 1976, *Die Vereinbarkeit von göttlicher Vorsehung und menschlicher Freiheit in der Consolatio Philosophiae des Boethius*, Zurich: Juris.
-* Huygens, R.B.C., 1954, ‘Mittelalterliche Kommentare zum *O qui perpetua…*,’ *Sacris Erudiri*, 6: 373–427.
-* Kaylor, N. and Phillips, P. E. (eds.), 2012, *A Companion to Boethius in the Middle Ages*, Leiden: Brill.
-* Kretzmann, N., 1985, ‘*Nos Ipsi Principia Sumus*: Boethius and the Basis of Contingency,’ in T. Rudavsky (ed.), *Divine Omniscience and Omnipotence in Medieval Philosophy: Islamic, Jewish and Christian Perspectives*, Dordrecht: Reidel, 23–50.
-* –––, 1998, ‘Boethius and the Truth about Tomorrow’s Sea Battle,’ in D. Blank and N. Kretzmann (trans.) *Ammonius on Aristotle on Interpretation 9 with Boe**thius on Aristotle on Interpretation 9*, Ithaca, N.Y.: Cornell University Press, 24–52.
-* Leftow, B., 1991, *Time and Eternity*, Ithaca/London; Cornell University Press.
-* MacDonald, S., 1988, ‘Boethius’s Claim that all Substances are Good,’ *Archiv für Geschichte der Philosophie*, 70: 245–79.
-* Magee, J., 1989, *Boethius on Signification and Mind*, London/New York/Copenhagen/Cologne: Brill (Philosophia Antiqua 52).
-* Maioli, B., 1978, *Teoria dell’essere e dell’esistente e classificazione delle scienze in M.S. Boezio. Una delucidazione*, Rome: Bulzoni (Università degli studi di Siena, Facoltà di Magistero: sede di Arezzo—Quaderni dell’Istituto di scienze filosofiche 4).
-* Marenbon, J., 2002, *Boethius*, New York: Oxford University Press.
-* –––, 2003, ‘Rationality and Happiness: interpreting Boethius’s *Consolation of Philosophy*,’ in J. Yu and J.J.E. Gracia (eds.), *Rationality andt Happiness: from the Ancients to the Early Medievals*, Rochester: University of Rochester Press, 175–97.
-* ––– (ed.), 2009, *The Cambridge Companion to Boethius*, Cambridge: Cambridge University Press.
-* –––, 2013, ‘Divine Prescience and Contingency in Boethius’s *Consolation of Philosophy*’, *Rivista di storia della filosofia*, 68: 9–19.
-* Michon, C., 2015, ‘La prescience et la liberté, le temps et l’éternité. Un relecture du dernier livre (V) de la *Consolation de Philosophie*’, in A. Giavatto and F. le Blay (eds.), *Autour de la* Consolation de Philosophie *de Boèce*, Neuilly: Atlande, 127–63.
-* Martin, C.J., 1987, ‘Embarrassing Arguments and Surprising Conclusions in the Development of Theories of the Conditional in the Twelfth Century,’ in J. Jolivet and A. De Libera (eds.), *Gilbert de Poitiers et ses contemporains: aux origines de la logica modernorum*, Naples: Bibliopolis, 377–400 (Actes du septième Symposium européen d’histoire de la logique et de la sémantique médiévales, Centre d’études supérieures de civilisation médiévale de Poitiers, 17–22 Juin 1985).
-* –––, 1991, ‘The Logic of Negation in Boethius,’ *Phronesis*, 36: 277–304.
-* –––, 1999, ‘Non-Reductive Arguments from Impossible Hypotheses in Boethius and Philoponus,’ *Oxford Studies in Ancient Philosophy*, 17: 279–302.
-* Minio-Paluello, L., 1972, *Opuscula: The Latin Aristotle*, Amsterdam: Hakkert.
-* Minnis, A.J. (ed.), 1987, *The Medieval Boethius. Studies in the Vernacular Translations of ‘De Consolatione Philosophiae’*, Cambridge: Brewer.
-* ––– (ed.), 1993, *Chaucer’s Boece and the Mediaeval Tradition of Boethius*, Cambridge: Brewer (Chaucer Studies 18).
-* Obertello, L., 1974, *Severino Boezio*, Genoa; Academia Ligure di Scienze e Lettere.
-* Relihan, J., 1993, *Ancient Menippean Satire*, London and Baltimore: Johns Hopkins University Press.
-* Relihan, J., 1997, *The Prisoner’s Philosophy: life and death in Boethius’s Consolation*, Notre Dame, Ind.: University of Notre Dame Press.
-* Schlapkohl, C., 1999, *Persona est naturae rationabilis individua substantia. Boethius und die Debatte über der Personbegriff*, Marburg: Elwert (Marburger Theologische Studien).
-* Schrimpf, G., 1966, *Die Axiomenschrift des Boethius (De Hebdomadibus) als philosophisches Lehrbuch des Mittelalters*, Leiden: Brill (Studien zur Problemgeschichte der antiken und mittelalterlichen Philosophie 2).
-* Schurr, V., 1935, *Die Trinitätslehre des Boethius im Lichte der ‘Skythischen Kontroversen’*, Paderborn: Schöningh (Forschungen zur christlichen Literatur und Dogmengeschichte 18,1).
+* Fuhrmann, M. and Gruber, J., 1984, _Boethius_, Darmstadt; Wissenschaftliche Buchgesellschaft (Wege der Forschung 483).
+* Galonnier, A. (ed.), 1984, _Boèce ou la chaîne des savoirs. Actes du colloque international de la Fondation Singer-Polignac_, Louvain-la-neuve, Leuven and Paris; Institut supèrieur de philosophie and Peeters (Wege der Forschung 483).
+* Gibson, M. (ed.), 1981, _Boethius. His Life, Thought and Influence_, Oxford: Blackwell.
+* Gruber, J., 2006, _Kommentar zu Boethius De Consolatione Philosophiae_, 2nd edition, Berlin/New York: De Gruyter (Texte und Kommentare—eine altertumswissenschaftliche Reihe 9).
+* Hoenen, M.F.M. and Nauta, L. (eds.), 1997, _Boethius in the Middle Ages. Latin and Vernacular Tradition of the ‘Consolatio Philosophiae’_, Leiden/New York/Cologne: Brill (Studien und Texte zur Geistesgeschichte des Mittelalters 58).
+* Huber, P., 1976, _Die Vereinbarkeit von göttlicher Vorsehung und menschlicher Freiheit in der Consolatio Philosophiae des Boethius_, Zurich: Juris.
+* Huygens, R.B.C., 1954, ‘Mittelalterliche Kommentare zum _O qui perpetua…_,’ _Sacris Erudiri_, 6: 373–427.
+* Kaylor, N. and Phillips, P. E. (eds.), 2012, _A Companion to Boethius in the Middle Ages_, Leiden: Brill.
+* Kretzmann, N., 1985, ‘_Nos Ipsi Principia Sumus_: Boethius and the Basis of Contingency,’ in T. Rudavsky (ed.), _Divine Omniscience and Omnipotence in Medieval Philosophy: Islamic, Jewish and Christian Perspectives_, Dordrecht: Reidel, 23–50.
+* –––, 1998, ‘Boethius and the Truth about Tomorrow’s Sea Battle,’ in D. Blank and N. Kretzmann (trans.) _Ammonius on Aristotle on Interpretation 9 with Boe\*\*thius on Aristotle on Interpretation 9_, Ithaca, N.Y.: Cornell University Press, 24–52.
+* Leftow, B., 1991, _Time and Eternity_, Ithaca/London; Cornell University Press.
+* MacDonald, S., 1988, ‘Boethius’s Claim that all Substances are Good,’ _Archiv für Geschichte der Philosophie_, 70: 245–79.
+* Magee, J., 1989, _Boethius on Signification and Mind_, London/New York/Copenhagen/Cologne: Brill (Philosophia Antiqua 52).
+* Maioli, B., 1978, _Teoria dell’essere e dell’esistente e classificazione delle scienze in M.S. Boezio. Una delucidazione_, Rome: Bulzoni (Università degli studi di Siena, Facoltà di Magistero: sede di Arezzo—Quaderni dell’Istituto di scienze filosofiche 4).
+* Marenbon, J., 2002, _Boethius_, New York: Oxford University Press.
+* –––, 2003, ‘Rationality and Happiness: interpreting Boethius’s _Consolation of Philosophy_,’ in J. Yu and J.J.E. Gracia (eds.), _Rationality andt Happiness: from the Ancients to the Early Medievals_, Rochester: University of Rochester Press, 175–97.
+* ––– (ed.), 2009, _The Cambridge Companion to Boethius_, Cambridge: Cambridge University Press.
+* –––, 2013, ‘Divine Prescience and Contingency in Boethius’s _Consolation of Philosophy_’, _Rivista di storia della filosofia_, 68: 9–19.
+* Michon, C., 2015, ‘La prescience et la liberté, le temps et l’éternité. Un relecture du dernier livre (V) de la _Consolation de Philosophie_’, in A. Giavatto and F. le Blay (eds.), _Autour de la_ Consolation de Philosophie _de Boèce_, Neuilly: Atlande, 127–63.
+* Martin, C.J., 1987, ‘Embarrassing Arguments and Surprising Conclusions in the Development of Theories of the Conditional in the Twelfth Century,’ in J. Jolivet and A. De Libera (eds.), _Gilbert de Poitiers et ses contemporains: aux origines de la logica modernorum_, Naples: Bibliopolis, 377–400 (Actes du septième Symposium européen d’histoire de la logique et de la sémantique médiévales, Centre d’études supérieures de civilisation médiévale de Poitiers, 17–22 Juin 1985).
+* –––, 1991, ‘The Logic of Negation in Boethius,’ _Phronesis_, 36: 277–304.
+* –––, 1999, ‘Non-Reductive Arguments from Impossible Hypotheses in Boethius and Philoponus,’ _Oxford Studies in Ancient Philosophy_, 17: 279–302.
+* Minio-Paluello, L., 1972, _Opuscula: The Latin Aristotle_, Amsterdam: Hakkert.
+* Minnis, A.J. (ed.), 1987, _The Medieval Boethius. Studies in the Vernacular Translations of ‘De Consolatione Philosophiae’_, Cambridge: Brewer.
+* ––– (ed.), 1993, _Chaucer’s Boece and the Mediaeval Tradition of Boethius_, Cambridge: Brewer (Chaucer Studies 18).
+* Obertello, L., 1974, _Severino Boezio_, Genoa; Academia Ligure di Scienze e Lettere.
+* Relihan, J., 1993, _Ancient Menippean Satire_, London and Baltimore: Johns Hopkins University Press.
+* Relihan, J., 1997, _The Prisoner’s Philosophy: life and death in Boethius’s Consolation_, Notre Dame, Ind.: University of Notre Dame Press.
+* Schlapkohl, C., 1999, _Persona est naturae rationabilis individua substantia. Boethius und die Debatte über der Personbegriff_, Marburg: Elwert (Marburger Theologische Studien).
+* Schrimpf, G., 1966, _Die Axiomenschrift des Boethius (De Hebdomadibus) als philosophisches Lehrbuch des Mittelalters_, Leiden: Brill (Studien zur Problemgeschichte der antiken und mittelalterlichen Philosophie 2).
+* Schurr, V., 1935, _Die Trinitätslehre des Boethius im Lichte der ‘Skythischen Kontroversen’_, Paderborn: Schöningh (Forschungen zur christlichen Literatur und Dogmengeschichte 18,1).
 * Sharples, R., 2009, ‘Fate, prescience and free will,’ in Marenbon (2009), 207–272.
 * Shiel, J., 1990, ‘Boethius’ Commentaries on Aristotle,’ in Sorabji (1990), 349–72.
-* Sorabji, R., 1983, *Time, Creation and the Continuum*, London: Duckworth.
-* ––– (ed.), 1990, *Aristotle Transformed: The Ancient Commentators and Their Influence*, London: Duckworth.
-* Speca, A., 2001, *Hypothetical Syllogistic and Stoic Logic* (Philosophia Antiqua 87), Leiden: Brill.
-* Troncarelli, F., 1981, *Tradizioni perdute. La ‘Consolazione Philosophiae’ nell’alto medioevo*, Padua: Antenore (Medioevo e umanesimo 42).
-* –––, 1987, *Boethiana aetas. Modelli grafici e fortuna manoscritta della ‘Consolatio Philosophiae’ tra IX e XII secolo*, Alessandria: Edizioni dell’Orso (Biblioteca di scrittura e civiltà 2).
-* William of Conches, 1999, *Glosae super Boetium*, ed. L. Nauta, Turnout: Brepols (Corpus Christianorum, Continuatio Mediaevalis 158: Guillelmi de Conchis opera omnia II).
-* Zagzebski, L.T., 1991, *The Dilemma of Freedom and Foreknowledge*, New York/Oxford: Oxford University Press.
+* Sorabji, R., 1983, _Time, Creation and the Continuum_, London: Duckworth.
+* ––– (ed.), 1990, _Aristotle Transformed: The Ancient Commentators and Their Influence_, London: Duckworth.
+* Speca, A., 2001, _Hypothetical Syllogistic and Stoic Logic_ (Philosophia Antiqua 87), Leiden: Brill.
+* Troncarelli, F., 1981, _Tradizioni perdute. La ‘Consolazione Philosophiae’ nell’alto medioevo_, Padua: Antenore (Medioevo e umanesimo 42).
+* –––, 1987, _Boethiana aetas. Modelli grafici e fortuna manoscritta della ‘Consolatio Philosophiae’ tra IX e XII secolo_, Alessandria: Edizioni dell’Orso (Biblioteca di scrittura e civiltà 2).
+* William of Conches, 1999, _Glosae super Boetium_, ed. L. Nauta, Turnout: Brepols (Corpus Christianorum, Continuatio Mediaevalis 158: Guillelmi de Conchis opera omnia II).
+* Zagzebski, L.T., 1991, _The Dilemma of Freedom and Foreknowledge_, New York/Oxford: Oxford University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boethius). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/boethius/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=boethius&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/boethius/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boethius).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/boethius/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=boethius\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/boethius/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Boethius](http://www.georgetown.edu/faculty/jod/boethius.html), maintained by James J. O’Donnell, Georgetown University (includes a line-by-line commentary on the *Consolation*).
-* Spade, P.V. (1996) ‘[Boethius against Universals: The Arguments in the *Second Commentary on Porphyry*](http://pvspade.com/Logic/docs/boethius.pdf)’ (in PDF). See also [Mediaeval Logic and Philosophy website](http://pvspade.com/Logic/), maintained by Paul Spade, Indiana University.
+* [Boethius](http://www.georgetown.edu/faculty/jod/boethius.html), maintained by James J. O’Donnell, Georgetown University (includes a line-by-line commentary on the _Consolation_).
+* Spade, P.V. (1996) ‘[Boethius against Universals: The Arguments in the _Second Commentary on Porphyry_](http://pvspade.com/Logic/docs/boethius.pdf)’ (in PDF). See also [Mediaeval Logic and Philosophy website](http://pvspade.com/Logic/), maintained by Paul Spade, Indiana University.
 
 ## Related Entries
 
-[Alexander of Aphrodisias](https://plato.stanford.edu/entries/alexander-aphrodisias/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [free will](https://plato.stanford.edu/entries/freewill/) | [free will: divine foreknowledge and](https://plato.stanford.edu/entries/free-will-foreknowledge/) | [medieval philosophy](https://plato.stanford.edu/entries/medieval-philosophy/) | [medieval philosophy: literary forms of](https://plato.stanford.edu/entries/medieval-literary/) | [modality: medieval theories of](https://plato.stanford.edu/entries/modality-medieval/) | [syllogism: medieval theories of](https://plato.stanford.edu/entries/medieval-syllogism/) | [universals: the medieval problem of](https://plato.stanford.edu/entries/universals-medieval/)
+[Alexander of Aphrodisias](https://plato.stanford.edu/entries/alexander-aphrodisias/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [free will](https://plato.stanford.edu/entries/freewill/) | [free will: divine foreknowledge and](https://plato.stanford.edu/entries/free-will-foreknowledge/) | [medieval philosophy](https://plato.stanford.edu/entries/medieval-philosophy/) | [medieval philosophy: literary forms of](https://plato.stanford.edu/entries/medieval-literary/) | [modality: medieval theories of](https://plato.stanford.edu/entries/modality-medieval/) | [syllogism: medieval theories of](https://plato.stanford.edu/entries/medieval-syllogism/) | [universals: the medieval problem of](https://plato.stanford.edu/entries/universals-medieval/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-John Marenbon <[*jm258@cam.ac.uk*](mailto:jm258%40cam%2eac%2euk)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+John Marenbon <[_jm258@cam.ac.uk_](mailto:jm258%40cam%2eac%2euk)>
