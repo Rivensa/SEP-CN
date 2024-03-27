@@ -1,6 +1,6 @@
 # 预先指示和替代决策 advance directives (Agnieszka Jaworska)
 
-_首次发布于 2009 年 3 月 24 日_
+*首次发布于 2009 年 3 月 24 日*
 
 在医学伦理学中，关于对患者[自主权](https://plato.stanford.edu/entries/personal-autonomy/)的尊重有一个大致的共识：只要患者被认为具有足够的心智能力来做出相关决策，医生必须最终听从患者对其医疗护理管理的决定。对于在决策需要做出时缺乏相关决策能力的患者，就需要进行替代决策：必须委托他人代表他们做出决定。曾经具备相关决策能力的患者可能已经预见到了能力的丧失，并留下了关于未来医疗决策应该如何做出的指示。这些指示被称为预先指示。一种类型的预先指示仅指定替代决策者应该是谁。更具实质性的预先指示，通常被称为生前遗嘱，具体规定了在各种情况下指导替代决策者决策的特定原则或考虑因素，例如，“如果我陷入持续植物人状态，请不要延长我的生命”，或者“我是一个斗士：无论发生什么事情，都不要停止维持生命的治疗。”
 
@@ -85,7 +85,7 @@ Q2a. 预先指示应该被尊重吗？
 
 ### 3.1 权威门槛方法
 
-拯救前自我及其利益应优先考虑的观念的一种方法是诉诸前自我对当前自我的特殊_权威_。这种权威的基础在不同的观点中有不同的解释，但基本思想是前自我的优越能力使她有资格管理当前自我。一旦当前自我的能力低于一定的门槛，她在当前状态下的利益变得如此边缘化，以至于不再具有对她应该如何被照顾的权威性，而前自我的利益则优先。
+拯救前自我及其利益应优先考虑的观念的一种方法是诉诸前自我对当前自我的特殊*权威*。这种权威的基础在不同的观点中有不同的解释，但基本思想是前自我的优越能力使她有资格管理当前自我。一旦当前自我的能力低于一定的门槛，她在当前状态下的利益变得如此边缘化，以至于不再具有对她应该如何被照顾的权威性，而前自我的利益则优先。
 
 已经有几条论证线路用于证明前自我对当前自我的权威性。其中一种是完全否认当前自我利益的独立性。根据这种解释，上述冲突只是表面上的。一旦当前自我低于相关能力门槛，她就无法产生自己独立的利益，尽管表面上看起来不同，但她的根本利益实际上是由前自我定义的。当前自我的利益明显不具有权威性，因为它们只是表面上的利益。此外，即使我们接受当前自我拥有自己独立的利益，也有其他理由认为这些利益缺乏权威性。如果坚持尊重自主权高于善行，或者将自主能力视为个人的核心要素，那么前自我的利益将被视为对当前自我具有权威性，因为只有前自我能够拥有自主能力。罗纳德·德沃金（Ronald Dworkin）的分析结合了所有这些论证线路（德沃金，1993 年）。
 
@@ -109,7 +109,7 @@ Q2a. 预先指示应该被尊重吗？
 
 ### 3.3 挑战二：意愿行使作为自主的关键点
 
-那些将自主能力视为相关门槛的门槛观点版本，可能会受到将自主能力的要求视为如此微小，以至于在其恶化状态下能够产生独立利益的_任何_个体都被视为自主的方法的挑战。在这种方法中，早期以自主为基础的利益与后来不再以此为基础的利益之间的冲突变得不可能，并且早期自主自我对当前非自主自我的权威主张失去了影响力：自主门槛太低，以至于不再标志任何有争议的权威差异。西娜·希夫林（Seana Shiffrin）对德沃金（Dworkin）的回应可以解释为这种观点（希夫林 2004 年）。希夫林认为自主的关键点在于能够行使自己的意愿：通过实施自己的选择来控制自己的经历的能力。希夫林强调，只要个体具有这种能力，其行使就需要保护，这是我们尊重自主时所保护的重要部分。在这种观点中，只要个体能够做出选择、有偏好、展示意愿等，就有理由迎合他当前的利益，因此他当前的利益有权利覆盖过去提倡的利益。
+那些将自主能力视为相关门槛的门槛观点版本，可能会受到将自主能力的要求视为如此微小，以至于在其恶化状态下能够产生独立利益的*任何*个体都被视为自主的方法的挑战。在这种方法中，早期以自主为基础的利益与后来不再以此为基础的利益之间的冲突变得不可能，并且早期自主自我对当前非自主自我的权威主张失去了影响力：自主门槛太低，以至于不再标志任何有争议的权威差异。西娜·希夫林（Seana Shiffrin）对德沃金（Dworkin）的回应可以解释为这种观点（希夫林 2004 年）。希夫林认为自主的关键点在于能够行使自己的意愿：通过实施自己的选择来控制自己的经历的能力。希夫林强调，只要个体具有这种能力，其行使就需要保护，这是我们尊重自主时所保护的重要部分。在这种观点中，只要个体能够做出选择、有偏好、展示意愿等，就有理由迎合他当前的利益，因此他当前的利益有权利覆盖过去提倡的利益。
 
 门槛观点的支持者可能会承认通过意志行为来控制自己的经历的能力的重要性，但仍然坚持更强大的自主能力（例如，涉及价值观表达而不仅仅是偏好的能力）具有完全不同的道德重要性。这种差异可以支持这样的立场，在早期具有这种强大自主能力的自我与当前仅能进行意志行为的自我之间发生冲突的情况下，早期自我保留权威，她的利益应该被重视。
 
@@ -129,7 +129,7 @@ Q2a. 预先指示应该被尊重吗？
 
 在不接受先前自我和当前自我在数值上是不同实体的形而上观点的情况下，我们仍然可以保留心理联系的薄弱性削弱了先前自我对当前自我的权威的直观观念。假设我们坚持认为即使是最严重的精神退化也不等同于死亡——同一个个体在阿尔茨海默病的摧残下仍然存在。我们仍然可以通过考察先前自我和当前自我对彼此的关注来质疑两者之间的利益连续性（麦克马汉，2002 年）。
 
-通常，我们每个人对自己过去和未来的关注都是非常独特的：对于你来说，发生在_你_身上的事情，_你_经历的经历，_你_的行为等等，现在、将来和过去都非常重要。将这种特殊的关注称为_自利关注_。我们通常认为，自利关注严格追踪个人身份：一个人只对自己有自利关注，并且总是以这种方式关注自己。相比之下，杰夫·麦克马汉（Jeff McMahan）认为（至少在数值身份的范围内），自利关注还应该追踪心理联系的程度：不同生活阶段的两个自我对彼此的自利关注应该随着心理联系的减弱而减弱（麦克马汉，2002 年，69-82 页）。在像阿尔茨海默病这样引起严重心理变化的疾病的背景下，这意味着早期和现在的自我对彼此的适当自利关注将会相对较少。这两个自我没有足够强大的共同自利利益，因此人的早期利益，无论多么重要，都不会作为她当前心理上脱离联系的自我特别重要的利益转移。两个自我之间的任何潜在利益冲突现在类似于两个完全独立利益的实体之间的冲突。
+通常，我们每个人对自己过去和未来的关注都是非常独特的：对于你来说，发生在*你*身上的事情，*你*经历的经历，*你*的行为等等，现在、将来和过去都非常重要。将这种特殊的关注称为*自利关注*。我们通常认为，自利关注严格追踪个人身份：一个人只对自己有自利关注，并且总是以这种方式关注自己。相比之下，杰夫·麦克马汉（Jeff McMahan）认为（至少在数值身份的范围内），自利关注还应该追踪心理联系的程度：不同生活阶段的两个自我对彼此的自利关注应该随着心理联系的减弱而减弱（麦克马汉，2002 年，69-82 页）。在像阿尔茨海默病这样引起严重心理变化的疾病的背景下，这意味着早期和现在的自我对彼此的适当自利关注将会相对较少。这两个自我没有足够强大的共同自利利益，因此人的早期利益，无论多么重要，都不会作为她当前心理上脱离联系的自我特别重要的利益转移。两个自我之间的任何潜在利益冲突现在类似于两个完全独立利益的实体之间的冲突。
 
 大卫·德格拉齐亚（David DeGrazia）试图通过提出以下观点来反驳这一观点：除了麦克马汉讨论的因素外，早期自我对当前自我的适当自利关注程度可以通过早期自我自主形成的自我叙述来增强：如果早期自我认同当前自我，即将当前自我视为她生活展开复杂叙述的真实阶段，那么就有理由产生强烈的自利关注（德格拉齐亚，2005 年，196 页）。奇怪的是，这种观点使得对未来的理性自利关注在某种程度上成为早期自我选择的问题。然而，与我们对特定计划、项目、他人等的普通关注不同，这些关注是由我们决定的，自利关注是理性的要求，不应该是选择的问题。就像我们不能仅仅因为我们碰巧（也许是妄想地）将他们的生活纳入我们的自我叙述中，就理性地对其他人产生自利关注一样，如果我们没有其他理由对我们自己的未来自我产生自利关注，我们不能仅仅因为我们碰巧构建了我们的自我叙述而改变这一点。
 
@@ -143,18 +143,18 @@ McMahan 本人提出，在一个早期人和一个现在的非人之间的冲突
 
 ## Bibliography
 
-* Brock, D., 1995, “Death and Dying: Euthanasia and Sustaining Life: Ethical Issues,” in _Encyclopedia of Bioethics_ (Volume 1), W. Reich (ed.), New York: Simon and Schuster, 2nd edition, pp. 563-72.
-* Buchanan, A. E. and Brock, D. W., 1990, _Deciding for Others: The Ethics of Surrogate Decision-Making_, Cambridge: Cambridge University Press.
-* Cantor, N., 2005, “The Bane of Surrogate Decision-Making: Defining the Best Interests of Never-Competent Persons,” _The Journal of Legal Medicine_, 26(2): 155-205.
-* DeGrazia, D., 1999, “Advance Directives, Dementia, and ‘the Someone Else Problem’,” _Bioethics_, 13(5): 373-91.
-* DeGrazia, D., 2005, _Human Identity and Bioethics_, Cambridge: Cambridge University Press.
-* Dresser, R., 1986, “Life, Death, and Incompetent Patients: Conceptual Infirmities and Hidden Values in the Law,” _Arizona_ _Law Review_, 28(3): 373-405.
-* Dworkin, R., 1993, _Life's Dominion: An Argument about Abortion, Euthanasia, and Individual Freedom_, New York: Knopf.
-* Jaworska, A., 1999, “Respecting the Margins of Agency: Alzheimer's Patients and the Capacity to Value,” _Philosophy and Public Affairs_, 28(2): 105-138.
+* Brock, D., 1995, “Death and Dying: Euthanasia and Sustaining Life: Ethical Issues,” in *Encyclopedia of Bioethics* (Volume 1), W. Reich (ed.), New York: Simon and Schuster, 2nd edition, pp. 563-72.
+* Buchanan, A. E. and Brock, D. W., 1990, *Deciding for Others: The Ethics of Surrogate Decision-Making*, Cambridge: Cambridge University Press.
+* Cantor, N., 2005, “The Bane of Surrogate Decision-Making: Defining the Best Interests of Never-Competent Persons,” *The Journal of Legal Medicine*, 26(2): 155-205.
+* DeGrazia, D., 1999, “Advance Directives, Dementia, and ‘the Someone Else Problem’,” *Bioethics*, 13(5): 373-91.
+* DeGrazia, D., 2005, *Human Identity and Bioethics*, Cambridge: Cambridge University Press.
+* Dresser, R., 1986, “Life, Death, and Incompetent Patients: Conceptual Infirmities and Hidden Values in the Law,” *Arizona* *Law Review*, 28(3): 373-405.
+* Dworkin, R., 1993, *Life's Dominion: An Argument about Abortion, Euthanasia, and Individual Freedom*, New York: Knopf.
+* Jaworska, A., 1999, “Respecting the Margins of Agency: Alzheimer's Patients and the Capacity to Value,” *Philosophy and Public Affairs*, 28(2): 105-138.
 * Jaworska, A., unpublished, “Vanishing Persons and the Authority of the Former Self: Dilemmas in Alzheimer's Disease.”
-* McMahan, J., 2002, _The_ _Ethics of Killing: Problems at the Margins of Life_, Oxford: Oxford University Press.
-* Schapiro, T., 1999, “What is a Child?” _Ethics_, 109(4): 715-738.
-* Shiffrin, S. V., 2004, “Advance Directives, Beneficence, and the Permanently Demented.” in _Dworkin and His Critics with Replies by Dworkin_, J. Burley (ed.), Oxford: Blackwell, pp. 195-217.
+* McMahan, J., 2002, *The* *Ethics of Killing: Problems at the Margins of Life*, Oxford: Oxford University Press.
+* Schapiro, T., 1999, “What is a Child?” *Ethics*, 109(4): 715-738.
+* Shiffrin, S. V., 2004, “Advance Directives, Beneficence, and the Permanently Demented.” in *Dworkin and His Critics with Replies by Dworkin*, J. Burley (ed.), Oxford: Blackwell, pp. 195-217.
 
 ## Academic Tools
 
@@ -168,7 +168,7 @@ McMahan 本人提出，在一个早期人和一个现在的非人之间的冲突
 
 * [Sample Advance Directive](http://www.aafp.org/afp/990201ap/617.html), American Academy of Family Physicians
 * [Papers on Advanced Directives](http://philpapers.org/browse/4425/), in philpapers.org.
-* [The Limited Wisdom of Advance Directives](https://bioethicsarchive.georgetown.edu/pcbe/reports/taking\*care/chapter2.html), Chapter 2 of _Taking Care: Ethical Caregiving in Our Aging Society_, The President's Council on Bioethics Report.
+* [The Limited Wisdom of Advance Directives](https://bioethicsarchive.georgetown.edu/pcbe/reports/taking\*care/chapter2.html), Chapter 2 of *Taking Care: Ethical Caregiving in Our Aging Society*, The President's Council on Bioethics Report.
 
 ## Related Entries
 
@@ -179,4 +179,4 @@ McMahan 本人提出，在一个早期人和一个现在的非人之间的冲突
 Special thanks to Jennifer Hawkins and Govind Persad for very helpful comments on earlier drafts of this entry. Thanks also to Caleb Perl for research assistance.
 
 [Copyright © 2009](https://plato.stanford.edu/info.html#c) by\
-[Agnieszka Jaworska](http://philosophy.ucr.edu/agnieszka-jaworska/) <[_jaworska@ucr.edu_](mailto:jaworska%40ucr%2eedu)>
+[Agnieszka Jaworska](http://philosophy.ucr.edu/agnieszka-jaworska/) <[*jaworska@ucr.edu*](mailto:jaworska%40ucr%2eedu)>

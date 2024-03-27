@@ -1,6 +1,6 @@
 # 平权行动 affirmative action (Robert Fullinwider)
 
-_首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 日_
+*首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 日*
 
 “平权行动”指的是采取积极措施，增加在就业、教育和文化领域中历史上被排除在外的妇女和少数民族的代表性。当这些措施涉及“优先选择”——基于种族、性别或民族的选择时，平权行动引发了激烈的争议。
 
@@ -31,7 +31,7 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 起初，大学行政人员和教职员工发现第 4 号命令的规定模糊不清，但对既定秩序并不构成威胁。每年获得博士学位并有资格担任教职的种族和民族少数群体人数很少。要求增加他们在校园中的代表性将需要大学进行更加勤奋的搜索，但这些搜索很可能只是反映过去的结果。另一方面，1972 年修订的命令带来了一项变革，打破了校园的自满情绪：它将女性列为“受保护类别”，要求为“充分利用”设定“目标”和“时间表”（Graham 1990, 413）。与非裔美国人和西班牙裔不同，女性获得博士学位的人数相当可观且不断增长。如果联邦承包商所要求的平权行动是“比例代表”，那么修订的第 4 号命令必然会在校园留下深远影响。教授中的一些人对新规则爆发出愤怒的反对，而其他人则以同样激烈的辩护回应。\[2]
 
-正巧，这些事件与哲学中的另一个发展相吻合，即哲学中的“公共转向”。几十年来，英美哲学一直以间接的方式处理道德和政治问题。根据主流观点，哲学家只适合进行“概念分析”——他们可以揭示出正义概念的概念结构，但他们无法提出实际实施正义的政治原则、宪法安排或社会政策。哲学家可以进行“元伦理学”，但不能进行“规范伦理学”。这种观点在 20 世纪 70 年代因两次反击而崩溃。首先，约翰·罗尔斯于 1971 年出版了《正义论》（_A Theory of Justice_），这是一部复杂、优雅且鼓舞人心的对正义的规范理论的辩护（罗尔斯，1971 年）。其次，在同一年，《哲学与公共事务》（_Philosophy & Public Affairs_）与普林斯顿大学的无可挑剔的背景一起诞生，几个月后，佛罗里达州立大学的《社会理论与实践》（_Social Theory and Practice_）也开始发行。这些期刊以及一本经过改进的老期刊《伦理学》（_Ethics_）成为了自觉的社会和政治参与哲学写作的平台，这种写作是在战争时期（越南战争）和社会动荡时期（民权运动、妇女解放运动）产生的，人们认为哲学家应该去做而不仅仅是谈论伦理学。1973 年，《哲学与公共事务》发表了托马斯·纳格尔的《平等待遇与补偿正义》（Nagel，1973 年）和朱迪思·贾维斯·汤姆森的《优先雇佣》（Thomson，1973 年），平权行动的哲学文献开始蓬勃发展。\[3]
+正巧，这些事件与哲学中的另一个发展相吻合，即哲学中的“公共转向”。几十年来，英美哲学一直以间接的方式处理道德和政治问题。根据主流观点，哲学家只适合进行“概念分析”——他们可以揭示出正义概念的概念结构，但他们无法提出实际实施正义的政治原则、宪法安排或社会政策。哲学家可以进行“元伦理学”，但不能进行“规范伦理学”。这种观点在 20 世纪 70 年代因两次反击而崩溃。首先，约翰·罗尔斯于 1971 年出版了《正义论》（*A Theory of Justice*），这是一部复杂、优雅且鼓舞人心的对正义的规范理论的辩护（罗尔斯，1971 年）。其次，在同一年，《哲学与公共事务》（*Philosophy & Public Affairs*）与普林斯顿大学的无可挑剔的背景一起诞生，几个月后，佛罗里达州立大学的《社会理论与实践》（*Social Theory and Practice*）也开始发行。这些期刊以及一本经过改进的老期刊《伦理学》（*Ethics*）成为了自觉的社会和政治参与哲学写作的平台，这种写作是在战争时期（越南战争）和社会动荡时期（民权运动、妇女解放运动）产生的，人们认为哲学家应该去做而不仅仅是谈论伦理学。1973 年，《哲学与公共事务》发表了托马斯·纳格尔的《平等待遇与补偿正义》（Nagel，1973 年）和朱迪思·贾维斯·汤姆森的《优先雇佣》（Thomson，1973 年），平权行动的哲学文献开始蓬勃发展。\[3]
 
 争议的焦点是修订第 4 号命令对每个承包商施加的“目标”和“时间表”的性质。这些“目标”是否等同于“配额”，要求机构在其选拔过程中使用种族或性别偏好？有人回答“不是”（Ezorsky，1977 年，86 页）。正确理解的平权行动并不要求（甚至不允许）使用性别或种族偏好。其他人回答“是”（Goldman，1976 年，182-3 页）。平权行动，即使没有直接强制偏好，至少容忍了它们。在支持者中，意见分歧在于认为偏好在道德上是可接受的和认为不可接受的人之间。在“道德上可接受”的人中，不同的作者提出了不同的理由。
 
@@ -57,9 +57,9 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 按种族计数，使用数值平等的手段来实现道德平等的目标是适得其反的，因为按种族计数就是否认了通过手段来实现目标的方式。按种族计数的手段不会、也不能导致种族不再重要的目标（Eastland 和 Bennett 1979, 149）。
 
-当 Eastland 和 Bennett 提到那些支持使用种族来达到种族不再重要的人时，他们特别指的是最高法院的布莱克曼法官，在著名的 1978 年的_Bakke_案（下文讨论）中，他用简单的话表达了自己的观点。对于布莱克曼来说，种族偏好的合法性应该通过使用它们使我们迅速走向种族不再重要的社会来衡量（这个观点由哲学家理查德·瓦瑟斯特罗姆在瓦瑟斯特罗姆 1976 年的著作中详细阐述）。虽然偏好的批评者声称使用种族来结束种族主义的想法本身就是不合逻辑和不连贯的，但他们也依靠原则来阻止布莱克曼的工具性辩护，即使这种辩护在实际上被证明是合理和可行的。“道德问题以经典形式出现，”卡尔·科恩写道。“非常重要的目标…似乎需要不可允许的手段。”科恩问道，“我们难道不能这一次对宪法视而不见”，让偏好发挥其作用（科恩 1995 年，20 页）？他和其他批评者都不这么认为。原则必须坚守。“在法律的福利分配中，_所有_种族分类都是可憎的”（科恩 1995 年，52 页）。
+当 Eastland 和 Bennett 提到那些支持使用种族来达到种族不再重要的人时，他们特别指的是最高法院的布莱克曼法官，在著名的 1978 年的*Bakke*案（下文讨论）中，他用简单的话表达了自己的观点。对于布莱克曼来说，种族偏好的合法性应该通过使用它们使我们迅速走向种族不再重要的社会来衡量（这个观点由哲学家理查德·瓦瑟斯特罗姆在瓦瑟斯特罗姆 1976 年的著作中详细阐述）。虽然偏好的批评者声称使用种族来结束种族主义的想法本身就是不合逻辑和不连贯的，但他们也依靠原则来阻止布莱克曼的工具性辩护，即使这种辩护在实际上被证明是合理和可行的。“道德问题以经典形式出现，”卡尔·科恩写道。“非常重要的目标…似乎需要不可允许的手段。”科恩问道，“我们难道不能这一次对宪法视而不见”，让偏好发挥其作用（科恩 1995 年，20 页）？他和其他批评者都不这么认为。原则必须坚守。“在法律的福利分配中，*所有*种族分类都是可憎的”（科恩 1995 年，52 页）。
 
-但是，确切地说，_什么_是那个始终禁止将种族作为实现“非常重要目标”的手段的原则——无论是宪法上的还是道德上的？艾伦·戈德曼在早期的辩论中做出了更多努力来制定和确立一个相关的原则。他运用契约主义框架，推测理性的承包人会选择一条要求按能力授予职位的公正规则。从表面上看，这条规则似乎排除了根据与能力无关的因素如种族和性别来填补职位的偏好。然而，戈德曼的“规则”只在特定的经验条件下阻止了偏好。戈德曼这样解释了规则的推导和其相应的限制：
+但是，确切地说，*什么*是那个始终禁止将种族作为实现“非常重要目标”的手段的原则——无论是宪法上的还是道德上的？艾伦·戈德曼在早期的辩论中做出了更多努力来制定和确立一个相关的原则。他运用契约主义框架，推测理性的承包人会选择一条要求按能力授予职位的公正规则。从表面上看，这条规则似乎排除了根据与能力无关的因素如种族和性别来填补职位的偏好。然而，戈德曼的“规则”只在特定的经验条件下阻止了偏好。戈德曼这样解释了规则的推导和其相应的限制：
 
 > 招聘最有能力者的规则被证明是作为通过社会生产努力获得平等机会的权利的一部分，并且基于增加全社会成员福利的理由。由于它是基于平等机会的权利来证明的，并且由于在系统的其他地方机会不平等时，规则的应用可能只会加剧不公正，所以在与授予职位的规则冲突时，创造更平等的机会优先。因此，为了通过将规则本身应用于未来的年份来创造更公正的利益分配，短期违反规则是合理的。（戈德曼，1979 年，164-165 页）。
 
@@ -99,25 +99,25 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 反对布伦南小组的倾向，他们会区分种族的“良性”和“恶性”用途，并对前者采取更宽容的态度，鲍威尔坚持认为，第十四修正案对“法律平等保护”的承诺必须对所有人都有相同的意义，无论是黑人还是白人。为了概括鲍威尔的观点：
 
-> 宪法不能容忍对平等保护的“两类”理论。没有原则性的依据来决定哪些类别应该得到特殊的司法关注，哪些类别不应该得到。认为否则会使法院涉足各种各样它无法胜任的“政治”决策。在阐释宪法时，法院的角色是识别“足够绝对的原则，使它们在整个社区中扎根，并在相当长的时间内保持连续性，并将它们提升到超越特定时间和地点的实用政治判断之上”（_巴克案_，第 295-300 页 \[鲍威尔引用考克斯 1976 年，114 页]）。
+> 宪法不能容忍对平等保护的“两类”理论。没有原则性的依据来决定哪些类别应该得到特殊的司法关注，哪些类别不应该得到。认为否则会使法院涉足各种各样它无法胜任的“政治”决策。在阐释宪法时，法院的角色是识别“足够绝对的原则，使它们在整个社区中扎根，并在相当长的时间内保持连续性，并将它们提升到超越特定时间和地点的实用政治判断之上”（*巴克案*，第 295-300 页 \[鲍威尔引用考克斯 1976 年，114 页]）。
 
-那么，“足够绝对”的平等保护原则的实际含义是什么呢？就是这样：当国家机构的决定“涉及到个人的种族或民族背景时，他有权要求法院确定他所承担的基于这一基础的负担是否精确地为了服务于一个迫切的政府利益（_巴克案_，第 300 页）。
+那么，“足够绝对”的平等保护原则的实际含义是什么呢？就是这样：当国家机构的决定“涉及到个人的种族或民族背景时，他有权要求法院确定他所承担的基于这一基础的负担是否精确地为了服务于一个迫切的政府利益（*巴克案*，第 300 页）。
 
-有了这个标准，鲍威尔接着审视了医学院提出的四个特殊计划的原因：（一）减少“传统上受到不利待遇的少数族裔在医学院和医疗行业中的历史性不足”；（二）对抗“社会歧视的影响”；（三）增加“在目前服务不足的社区执业的医生数量”；（四）获得“来自种族多样化的学生群体的教育益处”（_巴克案_，第 307 页）。这些原因中是否有一个或全部指明了一个迫切的政府利益？它们是否需要使用种族偏好？
+有了这个标准，鲍威尔接着审视了医学院提出的四个特殊计划的原因：（一）减少“传统上受到不利待遇的少数族裔在医学院和医疗行业中的历史性不足”；（二）对抗“社会歧视的影响”；（三）增加“在目前服务不足的社区执业的医生数量”；（四）获得“来自种族多样化的学生群体的教育益处”（*巴克案*，第 307 页）。这些原因中是否有一个或全部指明了一个迫切的政府利益？它们是否需要使用种族偏好？
 
 关于第一个原因，鲍威尔毫不犹豫地驳回了它。
 
 > 如果\[学校]的目的是仅仅因为种族或民族出身而确保在其学生群体中有某个特定群体的指定百分比，这样的优先目的不应被视为无关紧要，而应被视为表面上无效。仅仅因为种族或民族出身而优先选择某个群体的成员是为了歧视而歧视。
 
-至于第二个原因，鲍威尔给予了更多的力量。一个国家在改善过去歧视的影响方面有合法的利益。即便如此，鲍威尔争辩道，法院从未批准过在没有宪法或法律违规的司法、立法或行政裁决的情况下，通过帮助被视为相对受害群体的人而损害其他无辜个体的分类（_巴克案_，第 308 页）。
+至于第二个原因，鲍威尔给予了更多的力量。一个国家在改善过去歧视的影响方面有合法的利益。即便如此，鲍威尔争辩道，法院从未批准过在没有宪法或法律违规的司法、立法或行政裁决的情况下，通过帮助被视为相对受害群体的人而损害其他无辜个体的分类（*巴克案*，第 308 页）。
 
-而医学院并不声称已经做出了这样的发现，也没有能力做出这样的发现。它的广泛使命是教育，而不是制定任何立法政策或裁决特定的非法索赔...我们庞大的政府结构的孤立部分没有能力做出这些决定，至少在没有立法命令和立法确定的标准的情况下（_巴克案_，第 309 页）
+而医学院并不声称已经做出了这样的发现，也没有能力做出这样的发现。它的广泛使命是教育，而不是制定任何立法政策或裁决特定的非法索赔...我们庞大的政府结构的孤立部分没有能力做出这些决定，至少在没有立法命令和立法确定的标准的情况下（*巴克案*，第 309 页）
 
-至于第三个原因，鲍威尔也发现它是不足的。医学院没有提供证据，证明它对于为未得到充分服务的社区提供增加医疗服务的最佳方式是采用种族优先录取计划。事实上，医学院没有提供任何证据表明其计划将对这些社区产生任何好处（_巴克案_，第 311 页）。
+至于第三个原因，鲍威尔也发现它是不足的。医学院没有提供证据，证明它对于为未得到充分服务的社区提供增加医疗服务的最佳方式是采用种族优先录取计划。事实上，医学院没有提供任何证据表明其计划将对这些社区产生任何好处（*巴克案*，第 311 页）。
 
 这留下了第四个原因。在这一点上，鲍威尔发现有合理性。大学对多元化的学生群体的兴趣是由第一修正案隐含的学术自由保护所合法化的。这种宪法的光环使得这种兴趣“迫切”。然而，鲍威尔认为，医学院使用种族和民族分类计划并不“精确地量身定制”以实现学校对多样性的兴趣。
 
-平权行动进一步促进了一个引人注目的国家利益，其中包括更广泛的资格和特征，种族或民族起源只是其中一个重要因素。\[医学院]的特殊招生计划仅关注种族多样性，而不是促进真正多样化的实现，反而会阻碍其实现（_巴克案_，第 316 页）。
+平权行动进一步促进了一个引人注目的国家利益，其中包括更广泛的资格和特征，种族或民族起源只是其中一个重要因素。\[医学院]的特殊招生计划仅关注种族多样性，而不是促进真正多样化的实现，反而会阻碍其实现（*巴克案*，第 316 页）。
 
 促进一个“有利于思考、实验和创造”的教育氛围所需的多样性包括学生可能带到校园的几乎无限的经历、才能和特质。将多样性简化为种族和民族配额，医学院完全误解了这一重要的教育利益。
 
@@ -127,17 +127,17 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 这是布伦南法官努力阻止的结论。布伦南同意鲍威尔的观点，即“平等保护”必须意味着相同的事情，也就是说，无论应用于黑人还是白人，都必须保持一条规则。但是，应用于不同情况的相同规则不一定会产生相同的结果。出于不同原因并产生不同结果的种族偏好不必都以同样严厉、几乎致命的方式加以评判。这一点是布伦南对医学院政策辩护的关键。
 
-鲍威尔认为没有原则性的方法可以区分“良性”和“恶性”歧视，但布伦南坚持认为有。他认为，如果法院仔细审视过去废除吉姆·克劳法的案例，就会看到这个原则在起作用。法院在吉姆·克劳案中发现的问题是，它除了将一群人标记和污名化之外，没有任何目的。法院决定中起作用的“基本原则”谴责了“基于一种种族低人一等的假设”或者“将政府的力量用于种族仇恨和隔离”的种族分类（_巴克案_，第 358 页，布伦南的异议意见）。布伦南同意鲍威尔的观点，即没有受到种族仇恨驱动的公共种族分类，也没有以“劣等的标志”贴上人们的分类，都无法经受住司法审查。然而，即使医学院的政策是错误的或者错误判断，它所反映的公共目的与吉姆·克劳案中的目的迥然不同。这个政策不应被视为同一块布料裁剪出来的。
+鲍威尔认为没有原则性的方法可以区分“良性”和“恶性”歧视，但布伦南坚持认为有。他认为，如果法院仔细审视过去废除吉姆·克劳法的案例，就会看到这个原则在起作用。法院在吉姆·克劳案中发现的问题是，它除了将一群人标记和污名化之外，没有任何目的。法院决定中起作用的“基本原则”谴责了“基于一种种族低人一等的假设”或者“将政府的力量用于种族仇恨和隔离”的种族分类（*巴克案*，第 358 页，布伦南的异议意见）。布伦南同意鲍威尔的观点，即没有受到种族仇恨驱动的公共种族分类，也没有以“劣等的标志”贴上人们的分类，都无法经受住司法审查。然而，即使医学院的政策是错误的或者错误判断，它所反映的公共目的与吉姆·克劳案中的目的迥然不同。这个政策不应被视为同一块布料裁剪出来的。
 
-布伦南承认，如果一个州采用种族分类以侮辱白人，或将艾伦·巴克视为劣等并限制他的二等公民身份，那么这种分类将和吉姆·克劳法一样可憎。但医学院的政策既没有这个目的，也没有这个效果。艾伦·巴克可能对在特殊计划下失去机会感到不满和愤怒，但他并没有因为医学院拒绝他而被“任何意义上贴上劣等的标签”。他的损失也不构成“普遍的伤害”，即无论他走到哪里，都会因为他的肤色而被视为“二等公民”（_巴克_，第 376 页，布伦南的异议）。
+布伦南承认，如果一个州采用种族分类以侮辱白人，或将艾伦·巴克视为劣等并限制他的二等公民身份，那么这种分类将和吉姆·克劳法一样可憎。但医学院的政策既没有这个目的，也没有这个效果。艾伦·巴克可能对在特殊计划下失去机会感到不满和愤怒，但他并没有因为医学院拒绝他而被“任何意义上贴上劣等的标签”。他的损失也不构成“普遍的伤害”，即无论他走到哪里，都会因为他的肤色而被视为“二等公民”（*巴克*，第 376 页，布伦南的异议）。
 
-布伦南认为，平等保护条款所表达的原则应被视为一种“反种姓原则”，一种一贯拒绝将人们置于劣等和堕落地位的公共法律原则，无论他们是黑人还是白人\[[15](https://plato.stanford.edu/entries/affirmative-action/notes.html#note-15)]。当然，考虑到我国白人和黑人的不对称地位，我们不太可能遇到试图将白人标记为劣等种姓的法律（更不用说成功了）。但这只是表明，一个原则在不同情况下产生不同的结果。因为医学院的计划旨在消除在美国长期存在的种族种姓制度的影响，它代表了一个具有重大社会意义的目标，不应被认为违宪：布伦南如此主张（_巴克_，第 363 页，布伦南的异议）。
+布伦南认为，平等保护条款所表达的原则应被视为一种“反种姓原则”，一种一贯拒绝将人们置于劣等和堕落地位的公共法律原则，无论他们是黑人还是白人\[[15](https://plato.stanford.edu/entries/affirmative-action/notes.html#note-15)]。当然，考虑到我国白人和黑人的不对称地位，我们不太可能遇到试图将白人标记为劣等种姓的法律（更不用说成功了）。但这只是表明，一个原则在不同情况下产生不同的结果。因为医学院的计划旨在消除在美国长期存在的种族种姓制度的影响，它代表了一个具有重大社会意义的目标，不应被认为违宪：布伦南如此主张（*巴克*，第 363 页，布伦南的异议）。
 
 鲍威尔法官从未成功地参与到这种“宪法平等”的阅读方式中。他对明确、简单、统一、绝对原则的坚持并没有与布伦南的观点相冲突。鲍威尔和布伦南之间的问题不在于原则的一致性和严格性，而在于其内容。如果宪法规定，“如果其目的是创造或维持种姓制度，那么国家不能有意通过种族来加重某人的负担”，那么宪法法律不会阻止医学院的任何辩解。
 
 如果我们远离对宪法的解释，我们是否有可能在政治理论本身中找到任何平等原则，暗示着在每一种情况下使用种族偏好都会造成不可容忍的不公正？
 
-前景似乎黯淡。非常普遍的平等概念是否会支持平权行动（以及它所产生的社会包容性），同时又谴责它（以及它所涉及的种族非中立性）？\[17] 这里的挑战可以通过卡尔·科恩（Carl Cohen）最近与詹姆斯·斯特巴（James Sterba）辩论中的努力来很好地说明，他试图从亚里士多德的“平等者应该受到平等对待”原则中推导出对种族偏好的严格禁止（科恩和斯特巴，2003 年，23 页）。科恩敦促，这个原则“至少肯定包含这一点：仅仅基于与所授予的奖励或所施加的负担无关的身体特征，给任何群体特殊优势是错误的，无论何时何地”（科恩和斯特巴，2003 年，25 页）。这个命题是否有趣取决于我们如何解释“相关性”。科恩承认，公共政策可能会因为某些人的身体特征而合理地对待他们。例如，国家可能会为老年人或残疾人提供特殊援助。现在，这个例子表明，身体差异的相关性是社会政策之外的东西。年龄和残疾似乎是人的真实特征，而公共政策只是追踪它们。然而，差异所产生的影响本身并不是自然界所给予的；它是由公共目的决定的。年龄和残疾是以这种方式被_使得_相关的，在一个情况下，是通过社会目的来确保人们在无法工作时不必生活在贫困中；在另一个情况下，是通过社会目的来确保人们不会因为（在很大程度上是人为构建的）物理环境的障碍而被剥夺发展和推广自己的才能。
+前景似乎黯淡。非常普遍的平等概念是否会支持平权行动（以及它所产生的社会包容性），同时又谴责它（以及它所涉及的种族非中立性）？\[17] 这里的挑战可以通过卡尔·科恩（Carl Cohen）最近与詹姆斯·斯特巴（James Sterba）辩论中的努力来很好地说明，他试图从亚里士多德的“平等者应该受到平等对待”原则中推导出对种族偏好的严格禁止（科恩和斯特巴，2003 年，23 页）。科恩敦促，这个原则“至少肯定包含这一点：仅仅基于与所授予的奖励或所施加的负担无关的身体特征，给任何群体特殊优势是错误的，无论何时何地”（科恩和斯特巴，2003 年，25 页）。这个命题是否有趣取决于我们如何解释“相关性”。科恩承认，公共政策可能会因为某些人的身体特征而合理地对待他们。例如，国家可能会为老年人或残疾人提供特殊援助。现在，这个例子表明，身体差异的相关性是社会政策之外的东西。年龄和残疾似乎是人的真实特征，而公共政策只是追踪它们。然而，差异所产生的影响本身并不是自然界所给予的；它是由公共目的决定的。年龄和残疾是以这种方式被*使得*相关的，在一个情况下，是通过社会目的来确保人们在无法工作时不必生活在贫困中；在另一个情况下，是通过社会目的来确保人们不会因为（在很大程度上是人为构建的）物理环境的障碍而被剥夺发展和推广自己的才能。
 
 目的决定相关性，而这一点无论相关的差异是否是身体上的都是正确的。如果国家认为改变白人机构以使其不那么一致地白人化是可取的，那么这个目的将皮肤颜色与招募联系起来。
 
@@ -147,21 +147,21 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 如果鲍威尔大法官在对医学院的四个辩解做出评估后就作出结论，《巴克案》将使大学的平权行动陷入不稳定的境地。然而，他并没有止步于此。在巴克的诉讼案中，加利福尼亚最高法院曾禁止医学院在录取决策中使用种族或民族。鲍威尔大法官认为这样做过头了。考虑到高等教育对“多样性”的保护利益，以及学生的种族或民族可能会像年龄、工作经验、家庭背景、特殊才能、外语流利程度、运动能力、军事服务和非凡成就一样增加多样性，鲍威尔大法官撤销了加利福尼亚最高法院命令中的这一部分。
 
-然后他补充了一些指导原则。如果大学想要了解多样性以及种族和民族在实现多样性中可能发挥的作用，他们应该借鉴哈佛大学的做法，波威尔提议，并在他的意见中附上了哈佛大学平权行动计划的详细说明。在这样的计划中，波威尔认为，种族或民族背景可能被视为某个申请人档案中的“加分项”，但这并不意味着该个体在与其他所有可用席位的竞争中免受比较。……这种计划将每个申请人都视为入学过程中的个体。那些因为种族背景而在最后一个可用席位上输给其他获得“加分项”的候选人的申请人，并不是因为他们的肤色不对或姓氏不对而被排除在所有考虑之外。这只意味着他们的综合素质……没有超过其他申请人的素质。他们的素质将会被公正和竞争地权衡，他们没有理由抱怨在第十四修正案下受到不平等待遇（_巴克案_，第 318、319 页）。
+然后他补充了一些指导原则。如果大学想要了解多样性以及种族和民族在实现多样性中可能发挥的作用，他们应该借鉴哈佛大学的做法，波威尔提议，并在他的意见中附上了哈佛大学平权行动计划的详细说明。在这样的计划中，波威尔认为，种族或民族背景可能被视为某个申请人档案中的“加分项”，但这并不意味着该个体在与其他所有可用席位的竞争中免受比较。……这种计划将每个申请人都视为入学过程中的个体。那些因为种族背景而在最后一个可用席位上输给其他获得“加分项”的候选人的申请人，并不是因为他们的肤色不对或姓氏不对而被排除在所有考虑之外。这只意味着他们的综合素质……没有超过其他申请人的素质。他们的素质将会被公正和竞争地权衡，他们没有理由抱怨在第十四修正案下受到不平等待遇（*巴克案*，第 318、319 页）。
 
-在这些随意的评论中，大学看到了推动积极实施平权行动计划的绿灯。鲍威尔大法官的基本观点再明确不过了：任何像医学院这样根据种族划分申请者或使用数量上的种族配额的系统都必然违宪。然而，到了 20 世纪 80 年代中期，全国各地的大学已经建立了招生和奖学金制度，其中一个或两个特点都存在。当马里兰大学的班内克奖学金（仅授予非洲裔学生）在 1994 年被认定违宪时，大学平权行动的纸牌屋开始倒塌。1996 年，第五巡回上诉法院驳回了德克萨斯大学法学院的两轨招生计划。1998 年，第一巡回上诉法院驳回了波士顿的一个按种族分配学生到精英高中的计划。2001 年，又有两所学校的招生计划被联邦法院判定无效：乔治亚大学和密歇根大学法学院。在许多这类案件中，教育机构使用的方案使种族成为鲍威尔大法官所说的“加分因素”之外的重要因素。第五巡回法院在德克萨斯大学案（_霍普伍德诉德克萨斯州_，78 F 3d 932 \[第五巡回法院，1996 年]）中的裁决甚至对平权行动的这个小窗口产生了负面影响，大胆地宣称_Bakke_的观点已经成为法律的死亡，种族在招生中不能被使用。
+在这些随意的评论中，大学看到了推动积极实施平权行动计划的绿灯。鲍威尔大法官的基本观点再明确不过了：任何像医学院这样根据种族划分申请者或使用数量上的种族配额的系统都必然违宪。然而，到了 20 世纪 80 年代中期，全国各地的大学已经建立了招生和奖学金制度，其中一个或两个特点都存在。当马里兰大学的班内克奖学金（仅授予非洲裔学生）在 1994 年被认定违宪时，大学平权行动的纸牌屋开始倒塌。1996 年，第五巡回上诉法院驳回了德克萨斯大学法学院的两轨招生计划。1998 年，第一巡回上诉法院驳回了波士顿的一个按种族分配学生到精英高中的计划。2001 年，又有两所学校的招生计划被联邦法院判定无效：乔治亚大学和密歇根大学法学院。在许多这类案件中，教育机构使用的方案使种族成为鲍威尔大法官所说的“加分因素”之外的重要因素。第五巡回法院在德克萨斯大学案（*霍普伍德诉德克萨斯州*，78 F 3d 932 \[第五巡回法院，1996 年]）中的裁决甚至对平权行动的这个小窗口产生了负面影响，大胆地宣称*Bakke*的观点已经成为法律的死亡，种族在招生中不能被使用。
 
-考虑到鲍威尔大法官的独特意见，没有其他法官支持，以及自 1978 年以来最高法院关于种族偏好的决定的漂移，_霍普伍德_法院在宣布鲍威尔在_Bakke_案中的观点已经死亡时并不荒谬，尽管有点自以为是。事实证明，鲍威尔的观点远未消亡。在密歇根大学法学院案中，最高法院于 2003 年 6 月最终裁决的_格鲁特诉博林格_案中，桑德拉·戴·奥康纳大法官的主导意见宣布：“今天我们支持鲍威尔大法官的观点，即学生多样性是一个可以证明使用种族在大学招生中的合理国家利益”（_格鲁特诉博林格_，539 U.S. 306 \[2003]，第 330 页）。多样性终究还是存在的。但是，到 2003 年，它如何发挥其平权行动的作用仍然和 1978 年一样不清楚。
+考虑到鲍威尔大法官的独特意见，没有其他法官支持，以及自 1978 年以来最高法院关于种族偏好的决定的漂移，*霍普伍德*法院在宣布鲍威尔在*Bakke*案中的观点已经死亡时并不荒谬，尽管有点自以为是。事实证明，鲍威尔的观点远未消亡。在密歇根大学法学院案中，最高法院于 2003 年 6 月最终裁决的*格鲁特诉博林格*案中，桑德拉·戴·奥康纳大法官的主导意见宣布：“今天我们支持鲍威尔大法官的观点，即学生多样性是一个可以证明使用种族在大学招生中的合理国家利益”（*格鲁特诉博林格*，539 U.S. 306 \[2003]，第 330 页）。多样性终究还是存在的。但是，到 2003 年，它如何发挥其平权行动的作用仍然和 1978 年一样不清楚。
 
 要理解其中的原因，考虑一下在《格鲁特案》中，奥康纳大法官是如何提出这个问题的：
 
 > \[法学院]的政策旨在“实现那种有潜力丰富每个人教育的多样性，从而使法学班级的整体强于其各个部分的总和。”……该政策不限制在招生过程中可以给予重要权重的多样性贡献的类型，而是承认“多种多样的多样性招生的可能基础”……然而，该政策再次确认了法学院对“一种特定类型的多样性”的长期承诺，即“种族和民族多样性，特别是包括历史上受到歧视的群体的学生”（《格鲁特案》，第 325 页）。
 
-现在，以这种方式提出问题，并允许法学院声称对“一种特定类型的多样性”有特殊利益，会导致将_一般_多样性——意见、经验、背景、才能、愿望和观点的多样性——与司法鲍威尔明显抵制的_种族_和_种族_多样性混为一谈。毕竟，医学院也曾以类似的特殊利益为自己辩护。
+现在，以这种方式提出问题，并允许法学院声称对“一种特定类型的多样性”有特殊利益，会导致将*一般*多样性——意见、经验、背景、才能、愿望和观点的多样性——与司法鲍威尔明显抵制的*种族*和*种族*多样性混为一谈。毕竟，医学院也曾以类似的特殊利益为自己辩护。
 
 回想一下鲍威尔法官对医学院的保留名额的主要反对意见。像哈佛大学这样的计划将申请人的种族或族裔作为“加分项”，鲍威尔法官对此表示强烈反对。
 
-不会将个人与其他所有可用席位的候选人进行比较。可以检查特定非洲裔美国申请人的档案，以了解他对多样性的潜在贡献，而不考虑种族因素是否决定性，例如与被认为具有更有可能促进有益教育多元化的意大利裔申请人相比较。简而言之，以这种方式运作的招生计划足够灵活，可以根据每个申请人的特定资格考虑所有相关的多样性因素。这种计划将每个申请人视为招生过程中的个体（_Bakke_，第 318-19 页)。
+不会将个人与其他所有可用席位的候选人进行比较。可以检查特定非洲裔美国申请人的档案，以了解他对多样性的潜在贡献，而不考虑种族因素是否决定性，例如与被认为具有更有可能促进有益教育多元化的意大利裔申请人相比较。简而言之，以这种方式运作的招生计划足够灵活，可以根据每个申请人的特定资格考虑所有相关的多样性因素。这种计划将每个申请人视为招生过程中的个体（*Bakke*，第 318-19 页)。
 
 相比之下，艾伦·巴克无法争取医学院的全部一百个席位；其中十六个席位是为不像他的候选人保留的。
 
@@ -169,25 +169,25 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 > 我们认为，法学院的招生计划具有精确度高的特点。正如鲍威尔大法官在《巴克案》中明确指出的那样，真正个性化的考虑要求种族以一种灵活、非机械的方式使用。由此可见，大学不能为某些种族群体设定配额（《格鲁特案》，第 337 页）。
 
-在奥康纳看来，法学院的辩护是其对每个申请人档案进行“高度个性化、整体综合评估，认真考虑申请人在多样化教育环境中可能做出的各种贡献”（_Grutter_，第 339 页）\[[24](https://plato.stanford.edu/entries/affirmative-action/notes.html#note-24)]。这种“个性化考虑”至关重要；在与_Grutter_同日作出的_Gratz v. Bollinger_判决中，奥康纳法官改变了立场，认为密歇根大学的本科招生程序违宪。本科招生办公室的运作方式与法学院不同。它为每个申请人计算一个指数分数，根据学术因素（如高中成绩、入学考试成绩、高中质量、课程难度）和非学术因素（如密歇根州居民、校友子女、招募运动员或“少数族裔群体的成员”）给予数值分数。属于最后一类的申请人自动获得 20 分（_Gratz v. Bollinger_，539 U. S. 244 \[2003]，第 287 页）。奥康纳认为，这种“机械化”程序意味着本科招生办公室在每个申请中没有充分考虑“可能对学生群体多样性做出贡献的所有因素”（_Gratz_，第 288 页）。
+在奥康纳看来，法学院的辩护是其对每个申请人档案进行“高度个性化、整体综合评估，认真考虑申请人在多样化教育环境中可能做出的各种贡献”（*Grutter*，第 339 页）\[[24](https://plato.stanford.edu/entries/affirmative-action/notes.html#note-24)]。这种“个性化考虑”至关重要；在与*Grutter*同日作出的*Gratz v. Bollinger*判决中，奥康纳法官改变了立场，认为密歇根大学的本科招生程序违宪。本科招生办公室的运作方式与法学院不同。它为每个申请人计算一个指数分数，根据学术因素（如高中成绩、入学考试成绩、高中质量、课程难度）和非学术因素（如密歇根州居民、校友子女、招募运动员或“少数族裔群体的成员”）给予数值分数。属于最后一类的申请人自动获得 20 分（*Gratz v. Bollinger*，539 U. S. 244 \[2003]，第 287 页）。奥康纳认为，这种“机械化”程序意味着本科招生办公室在每个申请中没有充分考虑“可能对学生群体多样性做出贡献的所有因素”（*Gratz*，第 288 页）。
 
-但是，奥康纳在这里的结论只是让我们回到了鲍威尔法官在_Bakke_案中的空白。如果本科招生办公室特别希望从多样性谱系的某些部分进行选择，为什么它不能考虑可能对学生群体多样性做出贡献的_所有_因素呢？为什么它不能像法学院一样，声称对“一种特定类型的多样性”有特殊兴趣？为什么要禁止本科招生办公室使用一种有效的工具来促进其利益，即使这种工具是“机械化”的？事实上，法学院的“非机械化”程序与本科招生政策只在表面上有所不同，而在结果上并无差异。在招生季节，法学院的招生主任经常查阅“每日报告”，以“跟踪入学班级的种族和民族构成”。他这样做是为了确保每个入学班级中有一个“关键的少数族裔群体”（_Grutter_，第 326 页）。简而言之，法学院“管理”其招生过程，以确保每个入学班级中约有 6 至 7％的非洲裔美国学生。本科招生程序通过其指数分数产生了类似的结果（_Grutter_，第 367-69 页\[伦奎斯特，反对意见]和第 374 页\[肯尼迪，反对意见]）。只有表面上的外观区分了这两个程序。斯卡利亚法官称法学院的“整体综合”招生程序是“虚伪的”，并非没有理由（_Grutter_，第 375 页\[斯卡利亚，反对意见]）。
+但是，奥康纳在这里的结论只是让我们回到了鲍威尔法官在*Bakke*案中的空白。如果本科招生办公室特别希望从多样性谱系的某些部分进行选择，为什么它不能考虑可能对学生群体多样性做出贡献的*所有*因素呢？为什么它不能像法学院一样，声称对“一种特定类型的多样性”有特殊兴趣？为什么要禁止本科招生办公室使用一种有效的工具来促进其利益，即使这种工具是“机械化”的？事实上，法学院的“非机械化”程序与本科招生政策只在表面上有所不同，而在结果上并无差异。在招生季节，法学院的招生主任经常查阅“每日报告”，以“跟踪入学班级的种族和民族构成”。他这样做是为了确保每个入学班级中有一个“关键的少数族裔群体”（*Grutter*，第 326 页）。简而言之，法学院“管理”其招生过程，以确保每个入学班级中约有 6 至 7％的非洲裔美国学生。本科招生程序通过其指数分数产生了类似的结果（*Grutter*，第 367-69 页\[伦奎斯特，反对意见]和第 374 页\[肯尼迪，反对意见]）。只有表面上的外观区分了这两个程序。斯卡利亚法官称法学院的“整体综合”招生程序是“虚伪的”，并非没有理由（*Grutter*，第 375 页\[斯卡利亚，反对意见]）。
 
 事实证明，《格鲁特案》未能结束大学平权行动的争议。很快，一项新的法律挑战出现了，这次是针对德克萨斯大学的，该大学在 2004 年修改了自己的入学计划，以模仿《格鲁特案》中验证的方案。这个案件名为《费舍尔诉德克萨斯大学案》，在经过十年的法庭审理后，最终于 2016 年得到了解决。
 
 肯尼迪大法官代表法院发表意见，保留了《格鲁特案》中对种族偏好的辩护，基本上重述了奥康纳大法官的观点。他写道，大学追求“学生群体多样性带来的教育效益”应该得到一定程度的司法尊重（《费舍尔诉德克萨斯大学案》，133 S. Ct. 2411, 2419 \[2013]）。
 
-大学解释称，它致力于提供一个“学术环境”，提供“思想交流的机会，接触不同文化，为日益多元化的劳动力挑战做准备，以及获得未来领导者所需的能力”。……所有这些目标……与本法院在先前案件中批准的“重要利益”相一致（_费舍尔诉德克萨斯大学案_，136 S. Ct. 2198, 2211 \[2016]）。
+大学解释称，它致力于提供一个“学术环境”，提供“思想交流的机会，接触不同文化，为日益多元化的劳动力挑战做准备，以及获得未来领导者所需的能力”。……所有这些目标……与本法院在先前案件中批准的“重要利益”相一致（*费舍尔诉德克萨斯大学案*，136 S. Ct. 2198, 2211 \[2016]）。
 
 法院多数派认为，被说服了种族中立政策无法使大学充分获得多样性的“教育利益”，因此认为大学对种族的适度使用是可接受的。
 
 但尽管取得了这些法律胜利，大学是否真正为多样性作为种族意识招生的正当基础提出了论据呢？在 20 世纪 90 年代中期的法律挑战开始时，高等教育匆忙地在巴克案的基础上加以完善，并将鲍威尔大法官的随意言论转化为完整的辩护。当密歇根大学案件在 2003 年接近最终审判时，最高法院被来自商业团体、军官、高等教育协会、学者团体和其他利益相关方的大量附议书轰炸，赞扬多样性的好处。在费舍尔诉德克萨斯大学案的两个决定之前，也有类似的涌动。
 
-考虑一下这些附议书中的一些主张。如果大学要为学生提供“在日益全球化的世界中取得成功所需的技能”，那么“学生群体的多样性是_必不可少的_”（Leading Public Research Universities 2015, 11–12；强调添加）。校园内的种族和民族多样性对于确保有能力的劳动力是_至关重要的_；\[学生]在一个接触到不同的人、思想、观点和互动的环境中接受教育是_必不可少的_（65 Leading American Businesses 2003, 1, 2；强调添加）。否则，学生的教育将被“_降低_”（823 Social Scientists 2015, 5；强调添加）。“如今的学生_必须_与不同背景的人直接接触”（American Council on Education 2015, 6；强调添加）。“获得合格员工的_唯一_途径是通过高等教育机构的多样性……\[适当的]技能只能通过接触广泛多样的人、文化、思想和观点来培养”（Fortune 100 and Other Leading Businesses 2013, 3, 5；强调添加）。“多样性是建立最具生产力的问题解决团队的_不可或缺的_先决条件”（Social and Organizational Psychologists 2015, 47；强调添加）。
+考虑一下这些附议书中的一些主张。如果大学要为学生提供“在日益全球化的世界中取得成功所需的技能”，那么“学生群体的多样性是*必不可少的*”（Leading Public Research Universities 2015, 11–12；强调添加）。校园内的种族和民族多样性对于确保有能力的劳动力是*至关重要的*；\[学生]在一个接触到不同的人、思想、观点和互动的环境中接受教育是*必不可少的*（65 Leading American Businesses 2003, 1, 2；强调添加）。否则，学生的教育将被“*降低*”（823 Social Scientists 2015, 5；强调添加）。“如今的学生*必须*与不同背景的人直接接触”（American Council on Education 2015, 6；强调添加）。“获得合格员工的*唯一*途径是通过高等教育机构的多样性……\[适当的]技能只能通过接触广泛多样的人、文化、思想和观点来培养”（Fortune 100 and Other Leading Businesses 2013, 3, 5；强调添加）。“多样性是建立最具生产力的问题解决团队的*不可或缺的*先决条件”（Social and Organizational Psychologists 2015, 47；强调添加）。
 
 根据简报，多样性的积极影响是丰富多样的。它们包括“认知能力的提高、分析解决问题的能力和复杂思维能力的提升...跨种族互动与认知增长的关联比与非种族多样性的互动更强”（美国教育研究协会 2012 年，12 页）。“研究表明，通过增加多样性，大学可以帮助毕业生具备比没有接触多样性的学生更好的问题解决能力”（社会和组织心理学家 2015 年，37 页）。
 
-现在考虑四个观点。首先，肯定行动的论证中滥用“多样性”一词会导致含糊和模棱两可。《财富 100 强简报》宣布，学生通过“接触广泛多样的人、文化、思想和观点”来学习。当然。但问题在于_种族_多样性。将后者包含在前者中并不能提高准确性。\[26]第二，我们能想象密歇根大学或德克萨斯大学如果研究表明多样性没有特定的教育益处，它们会放弃平权行动计划吗？假设总体上学生并未因增加种族多样性而显示出额外的“认知增长”。假设学生最好通过学习汉语或西班牙语来为我们的“日益全球化的世界”做好准备。
+现在考虑四个观点。首先，肯定行动的论证中滥用“多样性”一词会导致含糊和模棱两可。《财富 100 强简报》宣布，学生通过“接触广泛多样的人、文化、思想和观点”来学习。当然。但问题在于*种族*多样性。将后者包含在前者中并不能提高准确性。\[26]第二，我们能想象密歇根大学或德克萨斯大学如果研究表明多样性没有特定的教育益处，它们会放弃平权行动计划吗？假设总体上学生并未因增加种族多样性而显示出额外的“认知增长”。假设学生最好通过学习汉语或西班牙语来为我们的“日益全球化的世界”做好准备。
 
 第三，学者们竭力证明跨种族互动对于良好教育是“必不可少的”，“不可或缺的”，“至关重要的”，“必要的”或“迫切的”，如果直接接受这种观点，会得出一个令人不快的结论，即许多黑人大学生接受到了不充分的教育。在华盛顿特区邓巴高中（95%黑人，1%白人）表现出色，然后在斯佩尔曼学院（2017 年入学，2097 名学生中只有 1 名白人）以优异成绩获得统计学学士学位的年轻女性，根据《财富》100 强公司的说法，不是他们想要的雇员类型。菲斯克大学（0.7%白人）、图加卢大学（0.6%白人）或佛罗里达农机大学（3.5%白人）的毕业生没有取得足够的认知成长，没有充分磨练他们的问题解决能力，这是我们应该得出的结论吗？德克萨斯大学（25%西班牙裔和 5%黑人）认为，如果没有“少数民族学生的“临界质量”，就无法获得“多样性的教育益处”。这是否意味着奥斯汀市两小时车程外的普雷里维大学（7%西班牙裔和 1.8%白人）必须放弃这些好处？它的学生是否准备不足以应对“我们日益多样化的劳动力和社会”（《费舍尔》2016 年，2210，2211）？平权行动的支持者应该三思而后行，不要声称“非多样化”的环境下的教育必然是“降低”的。
 
@@ -203,13 +203,13 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 2. 作为国家的首要领导培养基地，大学应该毕业符合这一代表性目标的未来领导人。
 3. 为了毕业这样的新一代领导人，大学需要招收具有种族和民族代表性的班级。
 
-这是“密歇根要求”（_格拉茨诉博林格_，135 F. Supp. 2d 790 \[2001]，第 796-797 页）。种族和民族多样性不是学术使命的附带贡献者；它们是大学使命的一部分，就像教育密歇根的年轻人一样（参见 Fullinwider 和 Lichtenberg 2004，165-188 页）。密歇根法学院的平权行动政策背后存在着一种类似于全国范围的要求，因为其毕业生进入密歇根以外的精英律师事务所或政府服务（参见 Lempert 等人 2000，399 页；Wilkins 2000，530-534 页）。
+这是“密歇根要求”（*格拉茨诉博林格*，135 F. Supp. 2d 790 \[2001]，第 796-797 页）。种族和民族多样性不是学术使命的附带贡献者；它们是大学使命的一部分，就像教育密歇根的年轻人一样（参见 Fullinwider 和 Lichtenberg 2004，165-188 页）。密歇根法学院的平权行动政策背后存在着一种类似于全国范围的要求，因为其毕业生进入密歇根以外的精英律师事务所或政府服务（参见 Lempert 等人 2000，399 页；Wilkins 2000，530-534 页）。
 
-这种“融合”理由似乎与大学平权行动的实际实践更加契合。事实上，在她对法学院进行名义上类似于鲍威尔的辩护时，奥康纳大法官在_格鲁特_案中曾经一度偏离了“多样性的教育效益”的观点，而是走上了一条完全不同的道路。她指出，像密歇根大学及其法学院这样的机构“代表了我们国家领导人的培养基地。”她继续说道：
+这种“融合”理由似乎与大学平权行动的实际实践更加契合。事实上，在她对法学院进行名义上类似于鲍威尔的辩护时，奥康纳大法官在*格鲁特*案中曾经一度偏离了“多样性的教育效益”的观点，而是走上了一条完全不同的道路。她指出，像密歇根大学及其法学院这样的机构“代表了我们国家领导人的培养基地。”她继续说道：
 
-为了培养一批在公民眼中具有合法性的领导者，有必要让每个种族和民族的有才华和合格的个人都能明显地走上领导之路。我们多元化的社会的所有成员都必须对提供这种培训的教育机构的开放性和诚信性有信心。……准入……必须包容……每个种族和民族，以便我们多元化的社会的所有成员都能参与提供成功所必需的培训和教育的教育机构（_Grutter_，第 336 页）。
+为了培养一批在公民眼中具有合法性的领导者，有必要让每个种族和民族的有才华和合格的个人都能明显地走上领导之路。我们多元化的社会的所有成员都必须对提供这种培训的教育机构的开放性和诚信性有信心。……准入……必须包容……每个种族和民族，以便我们多元化的社会的所有成员都能参与提供成功所必需的培训和教育的教育机构（*Grutter*，第 336 页）。
 
-这个“合法性”论点与丰富校园舆论氛围或提高学生复杂思维能力的目标无关，与上面提到的简单三段论相似。奥康纳大法官在她的_Grutter_意见书中突然插入了这个新的理由，然后又迅速放弃，继续追踪多样性的方方面面。肯尼迪大法官在_Fisher_（2016 年，2211 页）中也是如此。
+这个“合法性”论点与丰富校园舆论氛围或提高学生复杂思维能力的目标无关，与上面提到的简单三段论相似。奥康纳大法官在她的*Grutter*意见书中突然插入了这个新的理由，然后又迅速放弃，继续追踪多样性的方方面面。肯尼迪大法官在*Fisher*（2016 年，2211 页）中也是如此。
 
 当然，类似于“密歇根承诺”的精神在精英大学中产生了影响，包括威廉·鲍恩和德里克·博克在《河流的形状：考虑种族在大学录取中的长期后果》中研究的那些大学。这些机构的主要目标不是通过积极的平权行动来提高学生的自由学习（尽管他们欢迎所有学生的这种收益）。他们确保校园上非洲裔美国人和西班牙裔人的比例超过象征性的程度，是因为他们自认为是培养将来在专业、艺术、科学、教育、政治和政府等领域担任国家和国际领导角色的个人的机构（鲍恩和博克，1998 年，7 页）。他们相信，如果社会的领导人中包括种族和民族范围更广的人，那么社会将更加强大和公正。他们认为，通往地方和国家精英的渠道确实经过一流大学。
 
@@ -233,7 +233,7 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 也许代价很高，甚至太高。斯蒂芬和阿比盖尔·瑟恩斯特罗姆（Stephan and Abigail Thernstrom）肯定是这么认为的。他们认为，平权行动的大部分代价落在了平权行动本应受益的人身上。准备不足的非洲裔美国人被投入到他们无法成功的学术环境中（瑟恩斯特罗姆和瑟恩斯特罗姆，1997 年，395-411 页）。在瑟恩斯特罗姆夫妇看来，无视种族的招生政策将导致一种理想的“级联”现象，非洲裔美国人和西班牙裔学生最终会进入与他们的同学的学术资质相匹配的大学和大学。然而，鲍文和博克的研究提供了一些证据，表明级联并不一定是一个有价值的现象。事实上，在他们研究的学校中，无论学生的学术资质如何，进入更好的机构的学生越多，他们就越有可能毕业、继续深造并获得良好的收入（鲍文和博克，1998 年，63、114、144 页）。
 
-即便如此，鲍文和博克研究的精选学校可能并不代表采用种族偏好的所有学校的全面情况，而这些学校的成本效益情况可能不适用于其他学校。事实上，理查德·桑德（Richard Sander）在 2004 年 11 月发表在《斯坦福法律评论》（_Stanford Law Review_）上的一篇关于法学院平权行动的长篇评论中所描绘的情况，为瑟恩斯特罗姆的学术不匹配论提供了支持。桑德将法学院从最好到最差进行排名，发现平权行动使非洲裔美国学生向上爬了 20 个或更多的梯级，使他们进入与自己的白人同学相比，具有更好的 LSAT 成绩和本科成绩的学校。结果是：“接近一半的黑人学生最终进入班级的最后十分之一。”这种糟糕的表现带来了三个不良后果。首先，非洲裔美国学生的辍学率很高。其次，他们高比例地未能通过律师资格考试（学生是否通过考试的主要预测因素是她的成绩，而不是她所在学校的质量）。第三，他们因低成绩而在“前十名以外的所有学校”遭受严重的就业惩罚。桑德估计，在一个无视种族的招生制度下，美国的法学院实际上会培养出比平权行动下更多的非洲裔美国律师（桑德，2004 年，449、460、478、479 页）。
+即便如此，鲍文和博克研究的精选学校可能并不代表采用种族偏好的所有学校的全面情况，而这些学校的成本效益情况可能不适用于其他学校。事实上，理查德·桑德（Richard Sander）在 2004 年 11 月发表在《斯坦福法律评论》（*Stanford Law Review*）上的一篇关于法学院平权行动的长篇评论中所描绘的情况，为瑟恩斯特罗姆的学术不匹配论提供了支持。桑德将法学院从最好到最差进行排名，发现平权行动使非洲裔美国学生向上爬了 20 个或更多的梯级，使他们进入与自己的白人同学相比，具有更好的 LSAT 成绩和本科成绩的学校。结果是：“接近一半的黑人学生最终进入班级的最后十分之一。”这种糟糕的表现带来了三个不良后果。首先，非洲裔美国学生的辍学率很高。其次，他们高比例地未能通过律师资格考试（学生是否通过考试的主要预测因素是她的成绩，而不是她所在学校的质量）。第三，他们因低成绩而在“前十名以外的所有学校”遭受严重的就业惩罚。桑德估计，在一个无视种族的招生制度下，美国的法学院实际上会培养出比平权行动下更多的非洲裔美国律师（桑德，2004 年，449、460、478、479 页）。
 
 桑德的文章引发了一系列对他的方法和结论的争议（例如，艾尔斯和布鲁克斯 2005 年，钱伯斯等人 2005 年，威尔金斯 2005 年，何 2005 年，巴恩斯 2007 年，罗斯坦和尹 2008 年）。桑德回应了他的批评者（桑德 2005 年）；其他作家在法学院之外的教育领域发现了不匹配效应的证据（埃利奥特等人 1996 年，史密斯和麦卡德尔 2004 年，阿奇迪亚科诺等人 2012 年）；还有学者提出了对桑德假设的独立确认（阿奇迪亚科诺等人 2011b 年，威廉姆斯 2013 年）。一位批评者在重新分析后不得不撤回对桑德的反驳（巴恩斯 2007 年，巴恩斯 2011 年）；2012 年，桑德与合著者斯图尔特·泰勒合作出版了一本名为《不匹配》的书，详细阐述了支持桑德假设的新旧研究。其他人继续认为法学院不匹配假设是可疑且无支持的（卡米利和韦尔纳 2011 年；卡米利和杰克逊 2011 年；基德和伦珀特 2015 年）。
 
@@ -263,7 +263,7 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 正如玛丽·安·沃伦（Mary Anne Warren）和詹姆斯·拉切尔斯（James Rachels）在 20 世纪 70 年代认为，平权行动的失败者只是失去了非法特权，而获益者只是获得了本应属于他们的东西，米歇尔·罗森菲尔德（Michel Rosenfeld）在 20 世纪 90 年代在他的“对话式”平权行动辩护中也回应了同样的思想：
 
-尽管平权行动对无辜的白人男性不公平，但它并不剥夺他们任何真正的平等机会权利。_只要平权行动计划精确地针对因种族主义和性别歧视而导致非裔美国人和女性成功机会减少的损失，它只会剥夺无辜的白人男性相应的不应得的成功机会增加_...\[R]补救性平权行动并不剥夺无辜的白人男性任何他们应得的或者他们应该保留的东西（Rosenfeld 1991, 307–8，重点添加）。
+尽管平权行动对无辜的白人男性不公平，但它并不剥夺他们任何真正的平等机会权利。*只要平权行动计划精确地针对因种族主义和性别歧视而导致非裔美国人和女性成功机会减少的损失，它只会剥夺无辜的白人男性相应的不应得的成功机会增加*...\[R]补救性平权行动并不剥夺无辜的白人男性任何他们应得的或者他们应该保留的东西（Rosenfeld 1991, 307–8，重点添加）。
 
 然而，根据种族或性别给予普遍优先权的计划很难“精确地针对”匹配应得和奖励，因为正如劳伦斯和松田在某个地方承认的那样，白人男性的“特权”是“统计学的”（劳伦斯和松田 1997, 252）。然而，受到录取决定和雇佣选择影响的是个体，而不是统计平均数。\[[29](https://plato.stanford.edu/entries/affirmative-action/notes.html#note-29)]
 
@@ -271,306 +271,306 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 大学入学政策也是如此。当加州大学戴维斯分校医学院为保卫特殊入学计划提出四个理由，将巴克排除在外时，这些理由中没有一个提到入学与应得的匹配。特殊入学计划的标准——种族和民族——是实现以下目标的工具：整合教室、职业和医疗服务的提供，并打破自我复制的社会歧视链条。同样，当密歇根大学和德克萨斯大学为他们的计划辩护时，他们指出的不是应得的奖励，而是教育价值的产生。
 
-现在，如果神经外科医生的儿子_因为他的种族_能够实现这些目标，而煤矿工人的儿子_因为他的种族_不能，那么选择决策不是很容易吗？选择那个_非洲裔美国人_的神经外科医生的儿子（尽管他可能有优势）而不是那个_白人_煤矿工人的儿子（即使他是最值得想象的人）。现实世界的平权行动的目标是使种族和民族（有时还有性别）突出，而不是个人的价值或优势。真正的平权行动的考验在于其目标的紧迫性（防止歧视，促进多样性或融合）以及其手段（种族、民族和性别偏好）的适当性（道德和因果关系）。这两者仍然存在很大争议。
+现在，如果神经外科医生的儿子*因为他的种族*能够实现这些目标，而煤矿工人的儿子*因为他的种族*不能，那么选择决策不是很容易吗？选择那个*非洲裔美国人*的神经外科医生的儿子（尽管他可能有优势）而不是那个*白人*煤矿工人的儿子（即使他是最值得想象的人）。现实世界的平权行动的目标是使种族和民族（有时还有性别）突出，而不是个人的价值或优势。真正的平权行动的考验在于其目标的紧迫性（防止歧视，促进多样性或融合）以及其手段（种族、民族和性别偏好）的适当性（道德和因果关系）。这两者仍然存在很大争议。
 
 ## Bibliography
 
-* 65 Leading American Businesses, 2003: Brief Supporting Respondents in _Grutter v. Bollinger_, 539 U.S. 244: 1–11.
-* 823 Social Scientists, 2015: Brief Supporting Respondents in _Fisher v. University of Texas_, 136 S. Ct. 2198 (2016): 1–42.
-* Allen, Anita L., 1990–1991, “On Being a Role Model,” _Berkeley Journal of Gender, Law and Justice_ (formerly _Berkeley Women’s Law Journal_), 6: 22–42.
-* –––, 2011, “Was I Entitled or Should I Apologize? Affirmative Action Going Forward,” _Journal of Ethics_, 15 (September): 253–263.
-* Alon, Sigal, 2015, _Race, Class, and Affirmative Action_, New York: Russell Sage Foundation.
-* Alon, Sigal and Marta Tienda, 2005, “Assessing the Mismatch Hypothesis: Differences in College Graduation Rates by Institutional Selectivity,” _Sociology of Education_, 78 (October): 294–315.
-* American Council on Education and 37 OtherHigher Education Organizations, 2015: Brief Supporting Respondents in _Fisher v. University of Texas_, 136 S. Ct.2198 (2016): 1–23.
-* American Educational Research Association et. al., 2013: Brief Supporting Respondents in _Fisher v. University of Texas_, 570 U.S. 297: 1–37.
-* American Psychological Association, 2015: Brief Supporting Respondents in _Fisher v. University of Texas_, 136 S. Ct. 2198 (2016):1–37.
-* Anderson, Elizabeth S., 2002, “Integration, Affirmative Action, and Strict Scrutiny,” _New York University Law Review_, 77 (November): 1195–1271.
-* –––, 2004, “Racial Integration as a Compelling Interest,” _Constitutional Commentary_, 21 (Spring): 15–40.
-* –––, 2010, _The Imperative of Integration_, Princeton, New Jersey: Princeton University Press.
-* Appiah, Kwame Anthony, 2011, “Group Rights and Racial Affirmative Action,” _Journal of Ethics_, 15 (September): 265–280.
-* ––– and Amy Gutmann, 1996, _Color Conscious: The Political Morality of Race_, Princeton, New Jersey: Princeton University Press.
-* Arcidiacono, Peter _et al_., 2011a, “Representation versus Assimilation: How Do Preferences in College Admissions Affect Social Interaction?” _Journal of Public Economics_, 95 (February): 1–15.
-* –––, 2011b, “Does Affirmative Action Lead to Mismatch? A New Test and Evidence,” _Quantitative Economics_, 2 (November): 303–333.
-* –––, 2012, “What Happens After Enrollment? An Analysis of the Time Path of Racial Differences in GPA and Major Choice,” _IZA Journal of Labor Economics_, 1 (October).
-* –––, 2014, “Affirmative Action and University Fit: Evidence from Prop 209,” _IZA Journal of Labor Economics_, 3: 1–29.
-* ––– and Jacob L. Vigdor, 2010, “Does the River Spill Over? Estimating the Economic Returns to Attending a Racial Diverse College,” _Economic Inquiry_, 48 (3): 537–557.
-* ––– and Cory Koedel, 2014, “Race and College Success: Evidence from Missouri,” _American Economic Journal:Applied Economics_, 6 (3): 20–57.
+* 65 Leading American Businesses, 2003: Brief Supporting Respondents in *Grutter v. Bollinger*, 539 U.S. 244: 1–11.
+* 823 Social Scientists, 2015: Brief Supporting Respondents in *Fisher v. University of Texas*, 136 S. Ct. 2198 (2016): 1–42.
+* Allen, Anita L., 1990–1991, “On Being a Role Model,” *Berkeley Journal of Gender, Law and Justice* (formerly *Berkeley Women’s Law Journal*), 6: 22–42.
+* –––, 2011, “Was I Entitled or Should I Apologize? Affirmative Action Going Forward,” *Journal of Ethics*, 15 (September): 253–263.
+* Alon, Sigal, 2015, *Race, Class, and Affirmative Action*, New York: Russell Sage Foundation.
+* Alon, Sigal and Marta Tienda, 2005, “Assessing the Mismatch Hypothesis: Differences in College Graduation Rates by Institutional Selectivity,” *Sociology of Education*, 78 (October): 294–315.
+* American Council on Education and 37 OtherHigher Education Organizations, 2015: Brief Supporting Respondents in *Fisher v. University of Texas*, 136 S. Ct.2198 (2016): 1–23.
+* American Educational Research Association et. al., 2013: Brief Supporting Respondents in *Fisher v. University of Texas*, 570 U.S. 297: 1–37.
+* American Psychological Association, 2015: Brief Supporting Respondents in *Fisher v. University of Texas*, 136 S. Ct. 2198 (2016):1–37.
+* Anderson, Elizabeth S., 2002, “Integration, Affirmative Action, and Strict Scrutiny,” *New York University Law Review*, 77 (November): 1195–1271.
+* –––, 2004, “Racial Integration as a Compelling Interest,” *Constitutional Commentary*, 21 (Spring): 15–40.
+* –––, 2010, *The Imperative of Integration*, Princeton, New Jersey: Princeton University Press.
+* Appiah, Kwame Anthony, 2011, “Group Rights and Racial Affirmative Action,” *Journal of Ethics*, 15 (September): 265–280.
+* ––– and Amy Gutmann, 1996, *Color Conscious: The Political Morality of Race*, Princeton, New Jersey: Princeton University Press.
+* Arcidiacono, Peter *et al*., 2011a, “Representation versus Assimilation: How Do Preferences in College Admissions Affect Social Interaction?” *Journal of Public Economics*, 95 (February): 1–15.
+* –––, 2011b, “Does Affirmative Action Lead to Mismatch? A New Test and Evidence,” *Quantitative Economics*, 2 (November): 303–333.
+* –––, 2012, “What Happens After Enrollment? An Analysis of the Time Path of Racial Differences in GPA and Major Choice,” *IZA Journal of Labor Economics*, 1 (October).
+* –––, 2014, “Affirmative Action and University Fit: Evidence from Prop 209,” *IZA Journal of Labor Economics*, 3: 1–29.
+* ––– and Jacob L. Vigdor, 2010, “Does the River Spill Over? Estimating the Economic Returns to Attending a Racial Diverse College,” *Economic Inquiry*, 48 (3): 537–557.
+* ––– and Cory Koedel, 2014, “Race and College Success: Evidence from Missouri,” *American Economic Journal:Applied Economics*, 6 (3): 20–57.
 * ––– and Michael Lovenheim, 2015, “Affirmative Action and Quality–Fit Tradeoff,” National Bureau of Economic Research: Working Paper No. 20–962: 1–84.
-* Arnold, N. Scott, 1998, “Affirmative Action and the Demands of Justice,” _Social Philosophy and Policy_, 15 (Summer): 133–175.
-* Astin, Alexander W. and Dongbin Kim, 2004, “Cross-Racial Interaction Among Undergraduates: Some Consequences, Causes, and Patterns,” _Research in Higher Education_, 45 (August): 529–554.
-* Ayers, Ian and Richard Brooks, 2005, “Does Affirmative Action Reduce the Number of Black Lawyers?” _Stanford Law Review_, 57 (May): 1807–1854.
-* Barnes, Katherine Y., 2007, “Is Affirmative Action Responsible for the Achievement Gap Between Black and White Law Students?” _Northwestern University Law Review_, 101 (Fall): 1759–1808.
-* –––, 2011, “Is Affirmative Action Responsible for the Achievement Gap Between Black and White Law Students? A Correction, a Lesson and an Update,” _Northwestern University Law Review_, 101 (Spring): 791–812.
-* Beauchamp, Tom L., 1998, “In Defense of Affirmative Action,” _Journal of Ethics_, 2: 143–158.
-* Beckwith, Francis J. and Todd E. Jones (eds.), 1997, _Affirmative Action: Social Justice or Reverse Discrimination?_ Amherst, New York: Prometheus Books.
-* –––, 1999, “The ‘No One Deserves His or Her Talents’ Argument for Affirmative Action: A Critical Analysis,” _Social Theory and Practice_, 25 (Spring): 53–60.
-* Bell, Derrick, 2003, “Diversity’s Distractions,” _Columbia Law Review_, 103 (October): 1622–1633.
-* Bergmann, Barbara R., 1996, _In Defense of Affirmative Action_. New York: Basic Books.
-* Black, Virginia, 1974, “The Erosion of Legal Principles in the Creation of Legal Policies,” _Ethics_, 84 (January): 93–115.
-* Blum, Lawrence, 2015, “Race and Class Categories and Subcategories in Educational Thought and Research,” _Theory and Research in Education_, 13: 87–104.
-* Boddie, Elise C., 2016, “The Constitutionality of Racially Integrative Purpose,” _Cardozo Law Review_, 38: 531–550.
-* Boonin, David, 2011, _Should Race Matter? Unusual Answers to the Usual Questions_, New York: Cambridge University Press.
-* Bovens, Luc, 2016, “Selection Under Uncertainty: Affirmative Action at Shortlisting Stage,” _Mind_, 125: 421–437.
-* Bowen, Dierdre M., 2010, “Brilliant Disguise: An Empirical Study of a Social Experiment Banning Affirmative Action,” _Indiana Law Journal_, 85 (Fall): 1197–1254.
-* Bowen, William G. and Derek Bok, 1998. _The Shape of the River: Long-Term Consequences of Considering Race in College and University Admissions_, Princeton, New Jersey: Princeton University Press.
-* Boxill, Bernard, 1972, “The Morality of Reparation,” _Social Theory and Practice_, 2 (Spring): 113–123.
-* –––, 1978, “The Morality of Preferential Hiring,” _Philosophy & Public Affairs_, 7 (Spring): 246–268.
-* –––, 1984, _Blacks and Social Justice_, Totowa, New Jersey: Rowman and Allanheld; revised edition, Lanham, Maryland: Rowman & Littlefield, 1992.
-* –––, 2010, “Discrimination, Affirmative Action, and Diversity in Business,” in George G. Brenkert and Tom L. Beauchamp (eds.), _The Oxford Handbook of Business Ethics_,Oxford: Oxford University Press, pp.535–562.
-* ––– and Jan Boxill, 2003, “Affirmative Action” in R. G. Frey (ed), _A Companion to Applied Ethics_, Malden, Massachusetts: Blackwell Publishing, pp. 118–127.
-* Boylan, Michael, 2002, “Affirmative Action: Strategies for the Future,” _Journal of Social Philosophy_, 33 (Spring): 117–130.
-* Bridges, Khiara M., 2017, “The Deserving Poor, the Undeserving Poor, and Class-Based Affirmative Action,” _Emory Law Journal_, 66: 1049–1114.
-* Brown, Kevin, 2010, “Perspective and Point of View on Affirmative Action,” _Indiana Law Journal_, 85 (Fall): 1301–1313.
-* Burns, Prue and Jan Schapper, 2008, “The Ethical Case for Affirmative Action,” _Journal of Business Ethics_, 83 (December): 369–379.
-* Cahn, Steven M. (ed.), 1993, _Affirmative Action and the University: A Philosophical Inquiry_, Philadelphia: Temple University Press.
-* ––– (ed.), 1995, _The Affirmative Action Debate_, New York: Routledge. \[Contains main articles from the 1970s.]
-* Camilli, Gregory and Kevin G. Welner, 2011, “Is There a Mismatch Effect in Law School, Why Might It Arise, and What Would It Mean?” _Journal of College and University Law_, 37: 491–527.
-* ––– and Darrel D. Jackson, 2011, “The Mismatch Hypothesis in Law School Admissions,” _Widener Journal of Law, Economics, and Race_, 2: 165–209.
-* Campbell, Colin and Dale Smith, 2017, “Deliberative Freedoms and the Asymmetric Features of Anti-Discrimination Law,” _University of Totonto Law Journal_, 67: 247–287.
-* Capaldi, Nicholas, 1985, _Out of Order: Affirmative Action and the Crisis of Doctrinaire Liberalism_, Buffalo, New York: Prometheus Books.
-* –––, 1998, “The Liberal Paradigm in Affirmative Action Law,” _Loyola Law Review_, 43 (Winter): 525–568.
-* Card, Robert F., 2005, “Making Sense of the Diversity–Based Legal Argument for Affirmative Action,” _Public Affairs Quarterly_, 19 (January): 11–24.
-* Carnevale, Anthony P. and Stephen J. Rose, 2003, _Socioeconomic Status, Race/Ethnicity, and Selective College Admissions_, New York: The Century Foundation.
-* Carter, Stephen L., 1991, _Reflections of an Affirmative Action Baby_, New York: Basic Books.
-* Chambers, David L., Timothy T. Clydesdale, William Kidder, and Richard O. Lempert, 2005, “The Real Impact of Eliminating Affirmative Action in American Law Schools: An Empirical Critique of Richard Sander’s Study,” _Stanford Law Review_, 57 (May): 1855–1898.
-* Chang, Mitchell J. _et al_. (eds.), 2003, _Compelling Interest: Examining the Evidence on Racial Dynamics in Colleges and Universities_, Stanford, California: Stanford University Press.
-* Clarke, Simon, 2006, “The Case for Affirmative Action,” _The Philosopher’s Magazine_, Issue 33 (First Quarter): 73–77.
-* Cohen, Carl, 1995, _Naked Racial Preference_, Lanham, Maryland: Madison Books.
-* –––, 1998, “The Corruption That is Group Preference,” _Academic Questions_, 11 (Summer): 14–22.
-* –––, 2007, “The Michigan Civil Rights Initiative and the Civil Rights Act of 1964,” _Michigan Law Review First Impressions_, 105: 117–122.
-* ––– and James Sterba, 2003. _Affirmative Action and Racial Preferences: A Debate_, New York: Oxford University Press. Reviewed by:
-  * Beauchamp, T. L., 2006, “Affirmative Action and Racial Preference: A Debate,” _Mind_, 115 (July): 747–750.
-  * Ball, Stephen W., 2005, “Affirmative Action and Racial Preference: A Debate,” _Ethics_, 116 (October): 226–228.
-  * Kershnar, Stephen, 2004, “Review of Carl Cohen, James Sterba, _Affirmative Action and Racial Preference_,” _Notre Dame Philosophical Reviews_, July 6. \[[available online](http://ndpr.nd.edu/news/23819-affirmative-action-and-racial-preference/)]
-* Cohen, Marshall _et al_. (eds.), 1977, _Equality and Preferential Treatment_, Princeton, New Jersey: Princeton University Press. \[Contains the early articles in _Philosophy & Public Affairs_.]
-* Cokorinos, Lee, 2003, _The Assault on Diversity:An Organized Challenge to Racial and Gender Justice_, Lanham, Maryland: Rowman & Littlefield.
-* Corlett, J. Angelo, 1993, “Racism and Affirmative Action,” _Journal of Social Philosophy_, 24 (Spring): 163–175.
-* –––, 2003, _Race, Racism, and Reparations_, Ithaca, New York: Cornell University Press.
-* Cowan, J. L., 1972, “Inverse Discrimination,” _Analysis_, 33 (October): 10–12.
-* Cox, Archibald, 1976, _The Role of the Supreme Court in American Government_, New York: Oxford University Press.
-* Crenshaw, Kimberle W., 2007, “Framing Affirmative Action,” _Michigan Law Review First Impressions_, 105: 123–133.
-* Curry, George E. (ed.), 1996, _The Affirmative Action Debate_, Reading, Massachusetts: Addison-Wesley Publishing Company.
-* Davis, Michael, 1981. “Racial Quotas, Weights, and Real Possibilities,” _Social Theory and Practice_, 7 (Spring): 49–84.
-* Dale, Stacy Berg and Alan B. Krueger, 2002, “Estimating the Payoff to Attending a More Selective College: An Application of Selection on Observables and Nonobservables,” _Quarterly Journal of Economics_, 117 (November): 1491–1527.
-* –––, 2014, “Estimating the Effects of College Characteristics over the Career Using Administrative Earnings Data,” _Journal of Human Resources_, 49: 323–358.
-* Delgado, Richard, 2007, “Rodrigo’s Riposte: The Mismatch Theory of Law School Admissions,” _Syracuse Law Review_, 57 (3): 637–656.
-* DeVille, Kenneth and Loretta M. Kopelman, 2003, “Diversity, Trust, and Patient Care: Affirmative Action in Medical Education 25 Years after Bakke,” _Journal of Medicine and Philosophy_, 28 (August): 489–516.
-* Dieterle, J. M., 2005, “Affirmative Action and Desert,” _Public Affairs Quarterly_, 19: 81–94.
-* Dixon, Jeffrey C. and Michael S. Rosenbaum, 2004, “Nice to Know You? Testing Contact, Cultural, and Group Threat Theories of Anti-Black and Anti-Hispanic Stereotypes,” _Social Science Quarterly_, 85 (June): 257–284
-* Dombrowski, Daniel, 2002, “Moral Individualism and Affirmative Action,” _Professional Ethics_, 10 (1): 39–60.
-* Dreyfuss, Joel and Charles Lawrence III, 1979, _The Bakke Case: The Politics of Inequality_, New York: Harcourt Brace Jovanovich.
-* Durlauf, Steven N., 2008, “Affirmative Action, Meritocracy, and Efficiency,” _Politics, Philosophy and Economics_, 7 (May): 131–158.
-* Dworkin, Ronald, 1985, _A Matter of Principle_, Cambridge, Massachusetts: Harvard University Press.
-* –––, 1998, “Is Affirmative Action Doomed?” _New York Review of Books_, 45 (November 5): 56–60.
-* Edwards, John, 1995, _When Race Counts: The Morality of Racial Preference in Britain and America_, London: Routledge.
-* Eastland, Terry, 1996, _Ending Affirmative Action: The Case for Colorblind Justice_, New York: Basic Books.
-* ––– and William J. Bennett, 1979, _Counting By Race: Equality from the Founding Fathers to Bakke and Weber_, New York: Basic Books.
-* Edley, Christopher, Jr., 1996, _Not All Black and White: Affirmative Action and American Values_, New York: Hill and Wang.
-* Elliott, Rogers et al., 1996, “The Role of Ethnicity in Choosing and Leaving Science in Highly Selective Institutions,” _Research in Higher Education_, 37 (December): 681–709.
-* Epstein, Richard A., 2002, “A Rational Basis for Affirmative Action: A Shaky but Classical Liberal Defense,” _Michigan Law Review_, 100 (August): 2036–2061.
-* Erler, Edward J., 1997, “The Future of Civil Rights: Affirmative Action Redivivus,” _Notre Dame Journal of Law, Ethics and Public Policy_, 11: 15–65.
-* Espinshade, Thomas _et al_., 2004, “Admission Preferences for Minority Students, Athletes, and Legacies at Elite Universities,” _Social Science Quarterly_, 85: 1422–1446.
-* Estlund, Cynthia L., 2000, “Working Together: The Workplace, Civil Society, and the Law,” _Georgetown Law Journal_, 89: 79–85.
-* Ezorsky, Gertrude, 1991, _Racism and Justice: The Case for Affirmative Action_, Ithaca, New York: Cornell University Press.
-* –––, 1977, “Hiring Women Faculty,” _Philosophy & Public Affairs_, 7 (Autumn): 82–91.
-* Feinberg, Walter, 1998, _On Higher Ground: Education and the Case for Affirmative Action_, New York: Teachers College Press.
-* –––, 2003, “Affirmative Action,” in Hugh LaFollette (ed.), _The Oxford Handbook of Practical Ethics_, Oxford: Oxford University Press, pp. 272–299.
-* Fischer, Mary J. and Douglas S. Massey, 2007, “The Effects of Affirmative Action in Higher Education,” _Social Science Research_, 36: 531–549.
-* Fiscus, Ronald J., 1992, _The Constitutional Logic of Affirmative Action_, Durham, North Carolina: Duke University Press.
-* Fiss, Owen, 1976, “Groups and the Equal Protection Clause,” _Philosophy & Public Affairs_, 5 (Winter): 107–177.
-* Forde-Mazrui, Kim, 2004, “Taking Conservatives Seriously: A Moral Justification for Affirmative Action and Reparations,” _California Law Review_, 92 (May): 683–753.
-* Fortune 100 and Other Leading American Businesses, 2013: Brief Supporting Respondents in _Fisher v. University of Texas_,570 U.S. 297:1–19.
-* Fullinwider, Robert K., 1975, “Preferential Hiring and Compensation,” _Social Theory and Practice_, (Spring): 307–320.
-* –––, 1980, _The Reverse Discrimination Controversy: A Moral and Legal Analysis_, Totowa, New Jersey: Rowman and Littlefield.
-* –––, 1986a, “Reverse Discrimination and Equal Opportunity,” in Joseph P. DeMarco and Richard M. Fox (eds), _New Directions in Ethics: The Challenge of Applied Ethics_, New York: Routledge & Kegan Paul, 173–189.
+* Arnold, N. Scott, 1998, “Affirmative Action and the Demands of Justice,” *Social Philosophy and Policy*, 15 (Summer): 133–175.
+* Astin, Alexander W. and Dongbin Kim, 2004, “Cross-Racial Interaction Among Undergraduates: Some Consequences, Causes, and Patterns,” *Research in Higher Education*, 45 (August): 529–554.
+* Ayers, Ian and Richard Brooks, 2005, “Does Affirmative Action Reduce the Number of Black Lawyers?” *Stanford Law Review*, 57 (May): 1807–1854.
+* Barnes, Katherine Y., 2007, “Is Affirmative Action Responsible for the Achievement Gap Between Black and White Law Students?” *Northwestern University Law Review*, 101 (Fall): 1759–1808.
+* –––, 2011, “Is Affirmative Action Responsible for the Achievement Gap Between Black and White Law Students? A Correction, a Lesson and an Update,” *Northwestern University Law Review*, 101 (Spring): 791–812.
+* Beauchamp, Tom L., 1998, “In Defense of Affirmative Action,” *Journal of Ethics*, 2: 143–158.
+* Beckwith, Francis J. and Todd E. Jones (eds.), 1997, *Affirmative Action: Social Justice or Reverse Discrimination?* Amherst, New York: Prometheus Books.
+* –––, 1999, “The ‘No One Deserves His or Her Talents’ Argument for Affirmative Action: A Critical Analysis,” *Social Theory and Practice*, 25 (Spring): 53–60.
+* Bell, Derrick, 2003, “Diversity’s Distractions,” *Columbia Law Review*, 103 (October): 1622–1633.
+* Bergmann, Barbara R., 1996, *In Defense of Affirmative Action*. New York: Basic Books.
+* Black, Virginia, 1974, “The Erosion of Legal Principles in the Creation of Legal Policies,” *Ethics*, 84 (January): 93–115.
+* Blum, Lawrence, 2015, “Race and Class Categories and Subcategories in Educational Thought and Research,” *Theory and Research in Education*, 13: 87–104.
+* Boddie, Elise C., 2016, “The Constitutionality of Racially Integrative Purpose,” *Cardozo Law Review*, 38: 531–550.
+* Boonin, David, 2011, *Should Race Matter? Unusual Answers to the Usual Questions*, New York: Cambridge University Press.
+* Bovens, Luc, 2016, “Selection Under Uncertainty: Affirmative Action at Shortlisting Stage,” *Mind*, 125: 421–437.
+* Bowen, Dierdre M., 2010, “Brilliant Disguise: An Empirical Study of a Social Experiment Banning Affirmative Action,” *Indiana Law Journal*, 85 (Fall): 1197–1254.
+* Bowen, William G. and Derek Bok, 1998. *The Shape of the River: Long-Term Consequences of Considering Race in College and University Admissions*, Princeton, New Jersey: Princeton University Press.
+* Boxill, Bernard, 1972, “The Morality of Reparation,” *Social Theory and Practice*, 2 (Spring): 113–123.
+* –––, 1978, “The Morality of Preferential Hiring,” *Philosophy & Public Affairs*, 7 (Spring): 246–268.
+* –––, 1984, *Blacks and Social Justice*, Totowa, New Jersey: Rowman and Allanheld; revised edition, Lanham, Maryland: Rowman & Littlefield, 1992.
+* –––, 2010, “Discrimination, Affirmative Action, and Diversity in Business,” in George G. Brenkert and Tom L. Beauchamp (eds.), *The Oxford Handbook of Business Ethics*,Oxford: Oxford University Press, pp.535–562.
+* ––– and Jan Boxill, 2003, “Affirmative Action” in R. G. Frey (ed), *A Companion to Applied Ethics*, Malden, Massachusetts: Blackwell Publishing, pp. 118–127.
+* Boylan, Michael, 2002, “Affirmative Action: Strategies for the Future,” *Journal of Social Philosophy*, 33 (Spring): 117–130.
+* Bridges, Khiara M., 2017, “The Deserving Poor, the Undeserving Poor, and Class-Based Affirmative Action,” *Emory Law Journal*, 66: 1049–1114.
+* Brown, Kevin, 2010, “Perspective and Point of View on Affirmative Action,” *Indiana Law Journal*, 85 (Fall): 1301–1313.
+* Burns, Prue and Jan Schapper, 2008, “The Ethical Case for Affirmative Action,” *Journal of Business Ethics*, 83 (December): 369–379.
+* Cahn, Steven M. (ed.), 1993, *Affirmative Action and the University: A Philosophical Inquiry*, Philadelphia: Temple University Press.
+* ––– (ed.), 1995, *The Affirmative Action Debate*, New York: Routledge. \[Contains main articles from the 1970s.]
+* Camilli, Gregory and Kevin G. Welner, 2011, “Is There a Mismatch Effect in Law School, Why Might It Arise, and What Would It Mean?” *Journal of College and University Law*, 37: 491–527.
+* ––– and Darrel D. Jackson, 2011, “The Mismatch Hypothesis in Law School Admissions,” *Widener Journal of Law, Economics, and Race*, 2: 165–209.
+* Campbell, Colin and Dale Smith, 2017, “Deliberative Freedoms and the Asymmetric Features of Anti-Discrimination Law,” *University of Totonto Law Journal*, 67: 247–287.
+* Capaldi, Nicholas, 1985, *Out of Order: Affirmative Action and the Crisis of Doctrinaire Liberalism*, Buffalo, New York: Prometheus Books.
+* –––, 1998, “The Liberal Paradigm in Affirmative Action Law,” *Loyola Law Review*, 43 (Winter): 525–568.
+* Card, Robert F., 2005, “Making Sense of the Diversity–Based Legal Argument for Affirmative Action,” *Public Affairs Quarterly*, 19 (January): 11–24.
+* Carnevale, Anthony P. and Stephen J. Rose, 2003, *Socioeconomic Status, Race/Ethnicity, and Selective College Admissions*, New York: The Century Foundation.
+* Carter, Stephen L., 1991, *Reflections of an Affirmative Action Baby*, New York: Basic Books.
+* Chambers, David L., Timothy T. Clydesdale, William Kidder, and Richard O. Lempert, 2005, “The Real Impact of Eliminating Affirmative Action in American Law Schools: An Empirical Critique of Richard Sander’s Study,” *Stanford Law Review*, 57 (May): 1855–1898.
+* Chang, Mitchell J. *et al*. (eds.), 2003, *Compelling Interest: Examining the Evidence on Racial Dynamics in Colleges and Universities*, Stanford, California: Stanford University Press.
+* Clarke, Simon, 2006, “The Case for Affirmative Action,” *The Philosopher’s Magazine*, Issue 33 (First Quarter): 73–77.
+* Cohen, Carl, 1995, *Naked Racial Preference*, Lanham, Maryland: Madison Books.
+* –––, 1998, “The Corruption That is Group Preference,” *Academic Questions*, 11 (Summer): 14–22.
+* –––, 2007, “The Michigan Civil Rights Initiative and the Civil Rights Act of 1964,” *Michigan Law Review First Impressions*, 105: 117–122.
+* ––– and James Sterba, 2003. *Affirmative Action and Racial Preferences: A Debate*, New York: Oxford University Press. Reviewed by:
+  * Beauchamp, T. L., 2006, “Affirmative Action and Racial Preference: A Debate,” *Mind*, 115 (July): 747–750.
+  * Ball, Stephen W., 2005, “Affirmative Action and Racial Preference: A Debate,” *Ethics*, 116 (October): 226–228.
+  * Kershnar, Stephen, 2004, “Review of Carl Cohen, James Sterba, *Affirmative Action and Racial Preference*,” *Notre Dame Philosophical Reviews*, July 6. \[[available online](http://ndpr.nd.edu/news/23819-affirmative-action-and-racial-preference/)]
+* Cohen, Marshall *et al*. (eds.), 1977, *Equality and Preferential Treatment*, Princeton, New Jersey: Princeton University Press. \[Contains the early articles in *Philosophy & Public Affairs*.]
+* Cokorinos, Lee, 2003, *The Assault on Diversity:An Organized Challenge to Racial and Gender Justice*, Lanham, Maryland: Rowman & Littlefield.
+* Corlett, J. Angelo, 1993, “Racism and Affirmative Action,” *Journal of Social Philosophy*, 24 (Spring): 163–175.
+* –––, 2003, *Race, Racism, and Reparations*, Ithaca, New York: Cornell University Press.
+* Cowan, J. L., 1972, “Inverse Discrimination,” *Analysis*, 33 (October): 10–12.
+* Cox, Archibald, 1976, *The Role of the Supreme Court in American Government*, New York: Oxford University Press.
+* Crenshaw, Kimberle W., 2007, “Framing Affirmative Action,” *Michigan Law Review First Impressions*, 105: 123–133.
+* Curry, George E. (ed.), 1996, *The Affirmative Action Debate*, Reading, Massachusetts: Addison-Wesley Publishing Company.
+* Davis, Michael, 1981. “Racial Quotas, Weights, and Real Possibilities,” *Social Theory and Practice*, 7 (Spring): 49–84.
+* Dale, Stacy Berg and Alan B. Krueger, 2002, “Estimating the Payoff to Attending a More Selective College: An Application of Selection on Observables and Nonobservables,” *Quarterly Journal of Economics*, 117 (November): 1491–1527.
+* –––, 2014, “Estimating the Effects of College Characteristics over the Career Using Administrative Earnings Data,” *Journal of Human Resources*, 49: 323–358.
+* Delgado, Richard, 2007, “Rodrigo’s Riposte: The Mismatch Theory of Law School Admissions,” *Syracuse Law Review*, 57 (3): 637–656.
+* DeVille, Kenneth and Loretta M. Kopelman, 2003, “Diversity, Trust, and Patient Care: Affirmative Action in Medical Education 25 Years after Bakke,” *Journal of Medicine and Philosophy*, 28 (August): 489–516.
+* Dieterle, J. M., 2005, “Affirmative Action and Desert,” *Public Affairs Quarterly*, 19: 81–94.
+* Dixon, Jeffrey C. and Michael S. Rosenbaum, 2004, “Nice to Know You? Testing Contact, Cultural, and Group Threat Theories of Anti-Black and Anti-Hispanic Stereotypes,” *Social Science Quarterly*, 85 (June): 257–284
+* Dombrowski, Daniel, 2002, “Moral Individualism and Affirmative Action,” *Professional Ethics*, 10 (1): 39–60.
+* Dreyfuss, Joel and Charles Lawrence III, 1979, *The Bakke Case: The Politics of Inequality*, New York: Harcourt Brace Jovanovich.
+* Durlauf, Steven N., 2008, “Affirmative Action, Meritocracy, and Efficiency,” *Politics, Philosophy and Economics*, 7 (May): 131–158.
+* Dworkin, Ronald, 1985, *A Matter of Principle*, Cambridge, Massachusetts: Harvard University Press.
+* –––, 1998, “Is Affirmative Action Doomed?” *New York Review of Books*, 45 (November 5): 56–60.
+* Edwards, John, 1995, *When Race Counts: The Morality of Racial Preference in Britain and America*, London: Routledge.
+* Eastland, Terry, 1996, *Ending Affirmative Action: The Case for Colorblind Justice*, New York: Basic Books.
+* ––– and William J. Bennett, 1979, *Counting By Race: Equality from the Founding Fathers to Bakke and Weber*, New York: Basic Books.
+* Edley, Christopher, Jr., 1996, *Not All Black and White: Affirmative Action and American Values*, New York: Hill and Wang.
+* Elliott, Rogers et al., 1996, “The Role of Ethnicity in Choosing and Leaving Science in Highly Selective Institutions,” *Research in Higher Education*, 37 (December): 681–709.
+* Epstein, Richard A., 2002, “A Rational Basis for Affirmative Action: A Shaky but Classical Liberal Defense,” *Michigan Law Review*, 100 (August): 2036–2061.
+* Erler, Edward J., 1997, “The Future of Civil Rights: Affirmative Action Redivivus,” *Notre Dame Journal of Law, Ethics and Public Policy*, 11: 15–65.
+* Espinshade, Thomas *et al*., 2004, “Admission Preferences for Minority Students, Athletes, and Legacies at Elite Universities,” *Social Science Quarterly*, 85: 1422–1446.
+* Estlund, Cynthia L., 2000, “Working Together: The Workplace, Civil Society, and the Law,” *Georgetown Law Journal*, 89: 79–85.
+* Ezorsky, Gertrude, 1991, *Racism and Justice: The Case for Affirmative Action*, Ithaca, New York: Cornell University Press.
+* –––, 1977, “Hiring Women Faculty,” *Philosophy & Public Affairs*, 7 (Autumn): 82–91.
+* Feinberg, Walter, 1998, *On Higher Ground: Education and the Case for Affirmative Action*, New York: Teachers College Press.
+* –––, 2003, “Affirmative Action,” in Hugh LaFollette (ed.), *The Oxford Handbook of Practical Ethics*, Oxford: Oxford University Press, pp. 272–299.
+* Fischer, Mary J. and Douglas S. Massey, 2007, “The Effects of Affirmative Action in Higher Education,” *Social Science Research*, 36: 531–549.
+* Fiscus, Ronald J., 1992, *The Constitutional Logic of Affirmative Action*, Durham, North Carolina: Duke University Press.
+* Fiss, Owen, 1976, “Groups and the Equal Protection Clause,” *Philosophy & Public Affairs*, 5 (Winter): 107–177.
+* Forde-Mazrui, Kim, 2004, “Taking Conservatives Seriously: A Moral Justification for Affirmative Action and Reparations,” *California Law Review*, 92 (May): 683–753.
+* Fortune 100 and Other Leading American Businesses, 2013: Brief Supporting Respondents in *Fisher v. University of Texas*,570 U.S. 297:1–19.
+* Fullinwider, Robert K., 1975, “Preferential Hiring and Compensation,” *Social Theory and Practice*, (Spring): 307–320.
+* –––, 1980, *The Reverse Discrimination Controversy: A Moral and Legal Analysis*, Totowa, New Jersey: Rowman and Littlefield.
+* –––, 1986a, “Reverse Discrimination and Equal Opportunity,” in Joseph P. DeMarco and Richard M. Fox (eds), *New Directions in Ethics: The Challenge of Applied Ethics*, New York: Routledge & Kegan Paul, 173–189.
 * –––, 1986b, “Achieving Equal Opportunity,” in Fullinwider and Mills (eds.), 99–114.
-* –––, 1994, “Indefensible Defenses of Affirmative Action,” in M. N. S. Sellers (ed.), _An Ethical Education: Community and Morality in the Multicultural University_, Oxford: Berg Publishers, 233–242.
-* –––, 1997, “The Life and Death of Racial Preferences,” _Philosophical Studies_, 85 (March): 163–180.
-* –––, 2002, “Diversity and Affirmative Action,” in Verna V. Gehring and William A. Galston (eds.), _Philosophical Dimensions of Public Policy_, New Brunswick, New Jersey: Transaction Publishers, 115–124.
-* –––, 2007, “The Case for Reparations,” in Michael T. Martin and Marilyb Yaquinto (eds.). _Redress for Historical Injustices in the United States_, Durham, North Carolina: Duke University Press, 121–132.
-* ––– and Claudia Mills, eds.), 1986, _The Moral Foundations of Civil Rights_, Totowa, New Jersey: Rowman & Littlefield.
-* ––– and Judith Lichtenberg, 2004, _Leveling the Playing Field: Justice, Politics, and College Admissions_, Lanham, Maryland: Rowman & Littlefield.
-* Gahringer, Robert E., 1979, “Race and Class: The Basic Issue of the Bakke Case,” _Ethics_, 90 (October): 97–114.
-* Gallegos Ordorica, Sergio A., 2015, “Prospects of a Dusselian Ethics of Liberation Among U S Minorities: The Case of Affirmative Action in Higher Education,” _Inter-American Journal of Philosophy_, 6: 1–15.
-* Ghassemian, Andrew J. III, 2003, “Compensatory Justice in Affirmative Action,” _Current Surgery_, 60 (November): 596–597.
-* Gitlin, Adam, 2007, “What the MCRI Can Teach White Litigants about White Dominance,” _Michigan Law Review First Impressions_, 105: 134–138.
-* Glazer, Nathan, 1975, _Affirmative Discrimination: Ethnic Inequality and Public Policy_, New York: Basic Books.
-* –––, 1998, “For Racial Dispensation in Admissions,” _Academic Questions_, 11 (Summer): 22–32.
-* Goldman, Alan, 1975, “Reparations to Individuals or Groups?” _Analysis_, 35 (April): 168–170.
-* –––, 1976, “Affirmative Action,” _Philosophy & Public Affairs_, 5 (Winter): 178–195.
-* –––, 1979, _Justice and Reverse Discrimination_, Princeton, New Jersey: Princeton University Press.
-* Graham, Hugh Davis, 1990, _The Civil Rights Era: Origins and Development of National Policy 1960–1972_, New York: Oxford University Press.
-* Greenawalt, Kent, 1983, _Discrimination and Reverse Discrimination_, New York: Alfred A. Knopf.
-* Gross, Barry R., 1978, _Discrimination in Reverse: Is Turnabout Fair Play?_ New York: New York University Press.
-* –––, (ed.), 1977a. _Reverse Discrimination_, Buffalo, New York: Prometheus Books.
+* –––, 1994, “Indefensible Defenses of Affirmative Action,” in M. N. S. Sellers (ed.), *An Ethical Education: Community and Morality in the Multicultural University*, Oxford: Berg Publishers, 233–242.
+* –––, 1997, “The Life and Death of Racial Preferences,” *Philosophical Studies*, 85 (March): 163–180.
+* –––, 2002, “Diversity and Affirmative Action,” in Verna V. Gehring and William A. Galston (eds.), *Philosophical Dimensions of Public Policy*, New Brunswick, New Jersey: Transaction Publishers, 115–124.
+* –––, 2007, “The Case for Reparations,” in Michael T. Martin and Marilyb Yaquinto (eds.). *Redress for Historical Injustices in the United States*, Durham, North Carolina: Duke University Press, 121–132.
+* ––– and Claudia Mills, eds.), 1986, *The Moral Foundations of Civil Rights*, Totowa, New Jersey: Rowman & Littlefield.
+* ––– and Judith Lichtenberg, 2004, *Leveling the Playing Field: Justice, Politics, and College Admissions*, Lanham, Maryland: Rowman & Littlefield.
+* Gahringer, Robert E., 1979, “Race and Class: The Basic Issue of the Bakke Case,” *Ethics*, 90 (October): 97–114.
+* Gallegos Ordorica, Sergio A., 2015, “Prospects of a Dusselian Ethics of Liberation Among U S Minorities: The Case of Affirmative Action in Higher Education,” *Inter-American Journal of Philosophy*, 6: 1–15.
+* Ghassemian, Andrew J. III, 2003, “Compensatory Justice in Affirmative Action,” *Current Surgery*, 60 (November): 596–597.
+* Gitlin, Adam, 2007, “What the MCRI Can Teach White Litigants about White Dominance,” *Michigan Law Review First Impressions*, 105: 134–138.
+* Glazer, Nathan, 1975, *Affirmative Discrimination: Ethnic Inequality and Public Policy*, New York: Basic Books.
+* –––, 1998, “For Racial Dispensation in Admissions,” *Academic Questions*, 11 (Summer): 22–32.
+* Goldman, Alan, 1975, “Reparations to Individuals or Groups?” *Analysis*, 35 (April): 168–170.
+* –––, 1976, “Affirmative Action,” *Philosophy & Public Affairs*, 5 (Winter): 178–195.
+* –––, 1979, *Justice and Reverse Discrimination*, Princeton, New Jersey: Princeton University Press.
+* Graham, Hugh Davis, 1990, *The Civil Rights Era: Origins and Development of National Policy 1960–1972*, New York: Oxford University Press.
+* Greenawalt, Kent, 1983, *Discrimination and Reverse Discrimination*, New York: Alfred A. Knopf.
+* Gross, Barry R., 1978, *Discrimination in Reverse: Is Turnabout Fair Play?* New York: New York University Press.
+* –––, (ed.), 1977a. *Reverse Discrimination*, Buffalo, New York: Prometheus Books.
 * –––, 1977b, “Is Turn About Fair Play?” in Gross (ed.), 379–408.
-* Guenin, Louis M., 1997, “Affirmative Action in Higher Education as Redistribution,” _Public Affairs Quarterly_, 11 (April): 117–140.
-* Guinier, Lani and Susan Sturm, 2001, _Who’s Qualified?_ Boston: Beacon Press.
-* Gurin, Patricia, 1999, Expert Report, _Grutter v. Bollinger_, _Michigan Journal of Race and Law_, 5 (Fall): 363–425.
-* –––, Eric L. Day, Sylvia Hurtado, and Gerald Gurin, 2002, “Diversity and Higher Education: Theory and Impact on Educational Outcomes,” _Harvard Educational Review_, 72 (Fall): 330–337.
-* –––, Brian A. Nagda, and Gretchin E. Lopez, (2004), “The Benefits of Diversity in Education for Democratic Citizenship,” _Journal of Social Issues_, 60 (March): 17–34.
-* Gutmann, Amy and Dennis Thompson, 1996, _Democracy and Disagreement_, Cambridge, Massachusetts: Harvard University Press.
-* Hajdin, Mane, 2002, “Affirmative Action, Old and New,” _Journal of Social Philosophy_, 33 (Spring): 83–96.
-* Hansson, Sven Ove, 2004, “What are Opportunities and Why Should They Be Equal?” _Social Choice & Welfare_, 22 (April): 305–317.
-* Harris, Luke C., 2003, “Contesting the Ambivalence and Hostility to Affirmative Action within the Black Community,” in Tommy L. Lott (ed.), _A Companion to African-American Philosophy_, Malden, Massachusetts: Blackwell Publishing, 324–332.
-* ––– and Uma Narayan, 1994, “Affirmative Action and the Myth of Preferential: A Transformative Critique of the Terms of the Affirmative Action Debate,” _Harvard Journal of Ethnic and Racial Justice_ (formerly _Harvard Blackletter Law Journal_), 11: 1–35.
-* Haslett, D. W., 2002, “Workplace Discrimination, Good Cause, and Color Blindness,” _Journal of Value Inquiry_, 36: 73–88.
-* Hasnas, John, 2002, “Equal Opportunity, Affirmative Action, and the Anti-Discrimination Principle: The Philosophical Basis for the Legal Prohibition of Discrimination,” _Fordham Law Review_, 71 (November): 423–542.
-* Heilman, Madeline E., 1997, “Sex Discrimination and the Affirmative Action Remedy: The Role of Sex Stereotypes,” _Journal of Business Ethics_, 16 (June): 877–889.
-* Hess, Ryan C., 2007, “A Sheep in Wolf’s Clothing: The Michigan Civil Rights Initiative as the Savior of Affirmative Action,” _Michigan Law Review First Impressions_, 105: 139–143.
-* Hill, Thomas E., 1991, “The Message of Affirmative Action,” _Social Philosophy and Policy_, 8 (Spring): 108–129.
-* Himma, Kenneth Einar, 2001, “Discrimination and Disidentification: The Fair-Start Defense of Affirmative Action,” _Journal of Business Ethics_, 30 (April): 277–289.
-* –––, 2002, “Desert, Entitlement, and Affirmative Action: A Response to Francis Beckwith,” _Social Theory and Practice_, 28 (January): 157–166.
-* Hinrichs, Peter, 2014, “Affirmative Action Bans and College Graduation Rates,” _Economics of Education Review_, 42: 43–52.
-* Ho, Daniel E., 2005, “Why Affirmative Action Does Not Cause Black Students to Fail the Bar: A Reply to Sander,” _Yale Law Journal_, 114 (June): 1997–2004.
-* Ibarra, Robert A., 2001, _Beyond Affirmative Action: Reframing the Context of Higher Education_, Madison, Wisconsin: University of Wisconsin Press.
-* Issacharoff, Samuel, 2002, “Law and Misdirection in the Debate Over Affirmative Action,” _University of Chicago Legal Forum_, 2002(1): 11–43, [available online](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1315\&context=uclf).
-* Jacobs, Lesley A., 2004, _Pursuing Equal Opportunities: The Theory and Practice of Egalitarian Justice_, Cambridge: Cambridge University Press.
-* Jaggar, Alison, 1997, “Gender, Race, and Difference: Individual Consideration versus Group-Based Affirmative Action in Admission to Higher Education,” _Southern Journal of Philosophy_, 35 (Spring): 21–51.
-* Johnson, Kevin R.and Angela Onwuachi–Willig, 2005, “Cry Me a River: The Limits of A Systemic Analysis of Affirmative Action in American Law Schools,” _African-American Law and Policy Report_, 7 (1): 1–29.
-* Johnson, Susan M. and Xia Li Lollar, 2002, “Diversity Policy in Higher Education: The Impact of College Students’ Exposure to Diversity on Cultural Awareness and Political Participation,” _Journal of Education Policy_, 17 (June): 305–321.
-* Joshi, Yuvraj, 2017, “Measuring Diversity,” _Columbia Law Review Online_, 117: 54–69.
-* Kang, Jerry and Mahzarin R. Banajiff, 2006, “Fair Measures: A Behavioral Realist Revision of Affirmative Action,” _California Law Review_, 94: 1063–1118.
-* Kahlenberg, Richard D., 1996, _The Remedy: Class, Race, and Affirmative Action_, New York: Basic Books.
-* –––,(ed.) 2010, _Rewarding Strivers: Helping Low–Income Students Succeed in College_, New York: Century Foundation.
-* –––, 2012, _A Better Affirmative Action: State Universities That Created Alternatives to Racial Preferences_, New York: The Century Foundation.
-* Kennedy, Randall, 2015, _For Discrimination: Race, Affirmative Action, and the Law_, New York: Vintage Books
-* Kershnar, Stephen, 1997, “Strong Affirmative Action at State Institutions Cannot Be Justified Via Compensatory Justice,” _Public Affairs Quarterly_, 11 (October): 345–363.
-* –––, 1999, “Uncertain Damages to Racial Minorities and Strong Affirmative Action,” _Public Affairs Quarterly_, 13 (January): 83–98.
-* –––, 1999, “Strong Affirmative Action Programs and Disproportionate Burdens,” _Journal of Value Inquiry_, 33 (June): 201–209.
-* –––, 2004, “Why Equal Opportunity is Not a Valuable Goal,” _Journal of Applied Philosophy_, 21 (August): 159–173.
-* Ketchum, Sara Ann and Christine Pierce, 1976, “Implicit Racism,” _Analysis_, 36 (January): 91–95.
-* Kidder, William and Richard O. Lempert, 2015, “The Mismatch Myth in U.S. Higher Education: A Synthesis of Empirical Evidence at the Law School and Undergraduate Levels,” in Uma Jayakumar and Liliana M. Garces (eds.), _Affirmative Action and Racial Equality_, New York: Routledge, 105–129.
-* Klor de Alva, Jorge, 1996, “Is Affirmative Action a Christian Heresy?” _Representations_, 55 (Summer): 59–73.
-* Kocis, Robert A., 2010, “Discriminatory Privileges, Compensatory Privileges, and Affirmative Action,” in Christi Favor et al.(eds.), _Essays in Philosophy, Politics, and Economics_, Stanford: Stanford University Press, 139–156.
-* Koppelman, Andrew and Donald Rebstock, 2007, “On Affirmative Action and Truly Individualized Consideration,” _Northwestern University Law Review_, 101 (Spring): 1469–1481.
-* Kull, Andrew, 1992, _The Color Blind Constitution_, Cambridge, MA: Harvard University Press.
-* Landau, Iddo, 1997, “Are You Entitled to Affirmative Action?” _International Journal of Applied Philosophy_, 11 (Winter-Spring): 17–22.
-* Lawrence, Charles R. III, 2001, “Two Views of the River: A Critique of the Liberal Defense of Affirmative Action,” _Columbia Law Review_, 101 (May): 928–976.
-* ––– and Mari J. Matsuda, 1997, _We Won’t Go Back: Making the Case for Affirmative Action_, Boston: Houghton Mifflin Company.
-* Leach, Bryan W., 2004, “Race as Mission Critical: The Occupational Need Rationale in Military Affirmative Action and Beyond,” _Yale Law Journal_, 113 (March): 1093–1143.
-* Leading Public Research Universities, 2015: Brief Supporting Respondents in _Fisher v. University of Texas_, 136 S. Ct. 2198 (2016): 1–33.
-* LeFevre, Joseph, 2003, “The Value of Diversity: A Justification of Affirmative Action,” _Journal of Social Philosophy_, 34 (March): 125–133.
-* Leiter, Brian, 2017, “Is ‘Diversity’ the Best Reason for Affirmative Action?” _Chronicle of Higher Education_, 64 (September 29): 1.
-* Lempert, Richard, 2016, “Mismatch and Science Desistance: Failed Arguments against Affirmative Action,” _UCLA Law Review and Discourse_, 64: 136–174.
-* –––, David L. Chambers, and Terry K. Adams, 2000, “Michigan’s Minority Graduates in Practice: The River Runs Through Law School,” _Law and Social Inquiry_, 25 (April): 395–505.
-* Libertella, Anthony F., Sebastian A. Sora, and Samuel M. Natale, 2007, “Affirmative Action Policy and Changing Views,” _Journal of Business Ethics_, 74 (August): 65–71.
-* Lichtenberg, Judith and David Luban, 2002, “The Merits of Merit,” in Verna V. Gehring and William A. Galston (eds). _Philosophical Dimensions of Public Policy_, New Brunswick, New Jersey: Transaction Publishers, 101–113.
-* Lindgren, J. Ralph, 1981, “The Irrelevance of Philosophical Treatments of Affirmative Action,” _Social Theory and Practice_, 7 (Spring): 1–19.
-* Lippert–Rasmussen, Kasper, 2008, “Discrimination and the Aim of Proportional Representation,” _Philosophy, Politics and Economics_, 7 (May): 159–182.
-* –––, 2017, “Affirmative Action, Historical Injustice, and the Concept of Beneficiaries,” _Journal of Political Philosophy_, 5: 72–90.
-* Lukes, Timothy J., and Bonnie G. Campodonico, 1996, “Merit Badgering: Dissecting a Slippery Concept in the Affirmative Action Debate,” _Public Affairs Quarterly_, 10 (July): 219–227.
-* Malamud, Deborah C., 1997, “Assessing Class–Based Affirmative Action,” _Journal of Legal Education_, 47 (4): 452–471.
-* –––, 2011, “Class Privilege in Legal Education: A Response to Sander,” _Denver University Law Review_, 88 (4): 729–750.
-* Massey, Douglas S. _et al_., 2007, “Black Immigrants and Black Natives Attending Selective Colleges and Universities in the United States,” _American Journal of Education_, 113 (February): 243–271.
-* ––– and Margarita Mooney, 2007, “The Effects of America’s Three Affirmative Action Programs on Academic Performance,” _Social Problems_, 54: 99–117.
-* Massey, Stephen J., 1981, “Rethinking Affirmative Action,” _Social Theory and Practice_, 7 (Spring): 21–47.
-* Matthew, D. C., 2015, “Rawlsian Affirmative Action: A Reply to Robert Taylor,” _Ethical Theory and Moral Practice_, 19: 324–343.
-* McHugh, Peter, 2005, “Shared Being, Old Promises, and the Just Necessity of Affirmative Action,” _Human Studies_, 28 (2): 129–156.
-* Melguizo, Tatiana, 2008, “Quality Matters: Assessing the Impact of Attending More Selective Institutions on College Completion Rates of Minorities,” _Research in Higher Education_, 49: 214–236.
-* Meshelski, Kristina, 2016, “Procedural Justice and Affirmative Action,” _Ethical Theory and Moral Practice_, 19: 425–443.
-* Mills, Nicolaus (ed.), 1994, _Debating Affirmative Action: Race, Gender, Ethnicity, and the Politics of Inclusion_, New York: Dell Publishing.
-* Mosley, Albert G., 1998, “Policies of Straw or Policies of Inclusion? A Review of Pojman’s ‘Case against Affirmative Action’,” _International Journal of Applied Philosophy_, 12 (Fall): 161–168.
-* ––– and Nicholas Capaldi, 1996, _Affirmative Action: Social Justice or Unfair Preference?_ Lanham, Maryland: Rowman and Littlefield.
-* Murray, Dale, 2005, “The Affirmative Action Debate,” _Teaching Philosophy_, 28 (June): 284–287.
-* Nagel, Thomas, 1973, “Equal Treatment and Compensatory Discrimination,” _Philosophy & Public Affairs_, 2 (Summer): 348–363.
-* Newton, Lisa, 1973, “Reverse Discrimination as Unjustified,” _Ethics_, 83 (July): 308–312.
-* Nickel, James W., 1972, “Discrimination and Morally Relevant Characteristics,” _Analysis_, 32 (March): 113–114.
-* –––, 1974, “Should Reparations Be to Individuals or Groups?” _Analysis_, 34 (April): 154–160.
-* Nieli, Russell (ed.), 1991, _Racial Preference and Racial Justice: The New Affirmative Action Controversy_, Washington, D.C.: Ethics and Public Policy Center.
-* –––, 2012, _Wounds That Will Not Heal: Affirmative Action and Our Continuing Racial Divide_, New York: Encounter Books.
-* Nunn, William A., 1974, “Reverse Discrimination,” _Analysis_, 34 (April): 151–154.
-* O’Neil, Robert M., 1975, _Discriminating Against Discrimination: Preferential Admissions and the_ DeFunis_Case_, Bloomington, Indiana: Indiana University Press.
-* Onwuachi-Willig, Angela, 2007, “The Admission of Legacy Blacks,” _Vanderbilt Law Review_, 60: 1138–1231.
-* Orfield, Gary with Michael Kurlaender (eds.), 2001. _Diversity Challenged: Evidence on the Impact of Affirmative Action_, Cambridge, Massachusetts: Harvard Education Publishing Group.
-* Orlans, Harold June O’Neill (eds.), 1992, _Affirmative Action Revisited_, Newbury Park, California: Sage.
-* Owen, Matthew S. and Danielle S. Barbour, 2007, “Disparate Impact and the Use of Racial Proxies in Post–MCRI Admissions,” _Michigan Law Review First Impressions_, 105: 144–148.
-* Paul, Ellen Frankel _et al_. (eds.), 1991, _Reassessing Civil Rights_, Oxford: Blackwell Publishers.
-* Pell, Terence J., 2003, “What’s the Big Deal about Racial Preferences?” _Journal of Social Philosophy_, 34 (Summer): 326–329.
-* –––, 2004, “The Nature of Claims about Race and the Debate over Racial Preferences” _International Journal of Applied Philosophy_, 18 (1): 13–26.
-* Pidot, Justin, 2006, “Intuition or Proof: The Social Science Justification for the Diversity Rationale in Grutter v. Bollinger and Gratz v. Bollinger,” _Stanford Law Review_, 59 (December): 761–808.
-* Pojman, Louis, 1992, “The Moral Status of Affirmative Action,” _Public Affairs Quarterly_, 6 (April): 181–206.
-* –––, 1998, “The Case against Affirmative Action,” _International Journal of Applied Philosophy_, 12 (Spring): 97–115.
-* –––, 1998, “Straw Man or Straw Theory? A Reply to Albert Mosley,” _International Journal of Applied Philosophy_, 12 (Fall): 169–180.
-* Purdy, Laura, 1994. “Why Do We Need Affirmative Action?” _Journal of Social Philosophy_, 25 (Spring): 133–143.
-* Rachels, James, 1978, “What People Deserve,” in John Arthur and William Shaw (eds.), _Justice and Economic Distribution_, Englewood Cliffs, New Jersey: Prentice-Hall, 150–163.
-* Radin, Margaret Jane, 1991, “Affirmative Action Rhetoric,” _Social Philosophy and Policy_, 8 (Spring): 130–149.
-* Rawls, John, 1971, _A Theory of Justice_, Cambridge, Massachusetts: Harvard University Press.
-* –––, 2001, _Justice as Fairness: A Restatement_, Cambridge, Massachusetts: Harvard University Press.
-* Reynolds, William Bradford, 1984, “Individualism vs. Group Rights: The Legacy of _Brown_,” _Yale Law Journal_, 93 (May): 995–1005.
-* Rosenfeld, Michel, 1991, _Affirmative Action and Justice: A Philosophical and Constitutional Inquiry_, New Haven, Connecticut: Yale University Press.
-* Rothman, Stanley, S. M. Lipset, and Neil Nevitte, 2002, “Diversity and Affirmative Action: The State of Campus Opinion,” _Academic Questions_, 15 (Fall): 52–67.
-* –––, 2003, “Racial Diversity Reconsidered,” _Public Interest_, 151 (Spring): 25–38.
-* Rothstein, Jesse and Albert H. Yoon, 2008, “Affirmative Action in Law School Admissions: What Do Racial Preferences Do?” _University of Chicago Law Review_, 75 (Spring): 649–714.
-* Rush, Sharon, 1994, “Understanding Affirmative Action: One Feminist’s Perspective,” in M. N. S. Sellers (ed.). _An Ethical Education: Community and Morality in the Multicultural University_, Oxford: Berg Publishers, 195–132.
-* Sabbagh, Daniel, 2007, _Equality and Transparency: A Strategic Perspective on Affirmative Action in American Law_, New York: Palgrave Macmillan.
-* Sandalow, Terrance, 1999, “Identity and Equality: Minority Preferences Reconsidered,” _Michigan Law Review_, 97 (May): 1874–1916.
-* Sandel, Michael J., 2009, _Justice: What’s the Right Thing to Do?_ New York: Farrar, Strauss and Giroux.
-* Sander, Richard H., 1997, “Experimenting with Class–Based Affirmative Action,” _Journal of Legal Education_, 47 (4): 472–503.
-* –––, 2004, “A Systemic Analysis of Affirmative Action in American Law Schools,” _Stanford Law Review_, 57 (November): 367–484.
-* –––, 2005, “A Reply to Critics,” _Stanford Law Review_, 57 (May): 1963–2016.
-* –––, 2011, “Class in American Legal Education,” _Denver University Law Review_, 88 (4): 631–682.
-* ––– and Jane Bambauer, 2012, “The Secret of My Success: How Status, Eliteness, and School Performance Shape Legal Careers,” _Journal of Empirical Legal Studies_, 9: 893–930.
-* ––– and Stuart Taylor, Jr., 2012, _Mismatch: How Affirmative Action Hurts Students It’s Intended to Help, and Why Universities Won’t Admit It_, Philadelphia: Basic Books.
-* Sartorelli, Joseph J., 1994, “Ruse on Gay Rights and Affirmative Action,” _Analysis_, 54 (April): 84–91.
-* –––, 1997, “The Nature of Affirmative Action, Anti-Gay Oppression, and the Alleviation of Enduring Harm,” _International Journal of Applied Philosophy_, 11 (Winter-Spring): 23–30.
-* Schmidt, Peter, 2008, “Scholars Mount Sweeping Effort to Measure Affirmative Action in Higher Education,” _Chronicle of Higher Education_, 54 (January 19): A19.
-* Shelby, Tommie, 2014, “Integration, Inequality, and Imperattives of Justice: A Review Essay,” _Philosophy & Public Affairs_, 42 (Summer): 253–285.
-* Sher, George, 1975, “Justifying Reverse Discrimination in Employment,” _Philosophy & Public Affairs_, 4 (Winter): 159–170.
-* –––, 1979, “Reverse Discrimination, the Future, and the Past,” _Ethics_, 90 (October): 81–87.
-* –––, 1997, _Approximate Justice: Studies in Non-Ideal Theory_, Lanham, Maryland: Rowman & Littlefield.
-* Shiner, Roger, 1973, “Individuals, Groups and Inverse Discrimination,” _Analysis_, 33 (June): 185–187.
-* Silvestri, Philip, 1973, “The Justification of Inverse Discrimination,” _Analysis_, 34 (October): 31.
-* Simon, Robert L., 1974, “Preferential Hiring: A Reply to Judith Jarvis Thomson,” _Philosophy & Public Affairs_, 3 (Spring): 312–320.
-* –––, 1978, “Statistical Justification of Discrimination,” _Analysis_, 38 (January): 37–42.
-* –––, 1979, “Individual Rights and ‘Benign’ Discrimination,” _Ethics_, 90 (October): 88–97.
-* Skrentny, John David, 1996, _The Ironies of Affirmative Action: Politics, Culture, and Justice in America_, Chicago: University of Chicago Press.
-* ––– (ed.), 2001, _Color Lines: Affirmative Action, Immigration, and Civil Rights Options for America_, Chicago: University of Chicago Press.
-* Smyth, Frederick L. and John J. McArdle, 2004, “Ethnic and Gender Differences in Science Graduation at Selective Colleges with Implications for Admission Policy and College Choice,” _Research in Higher Education_, 45 (June): 353–381.
+* Guenin, Louis M., 1997, “Affirmative Action in Higher Education as Redistribution,” *Public Affairs Quarterly*, 11 (April): 117–140.
+* Guinier, Lani and Susan Sturm, 2001, *Who’s Qualified?* Boston: Beacon Press.
+* Gurin, Patricia, 1999, Expert Report, *Grutter v. Bollinger*, *Michigan Journal of Race and Law*, 5 (Fall): 363–425.
+* –––, Eric L. Day, Sylvia Hurtado, and Gerald Gurin, 2002, “Diversity and Higher Education: Theory and Impact on Educational Outcomes,” *Harvard Educational Review*, 72 (Fall): 330–337.
+* –––, Brian A. Nagda, and Gretchin E. Lopez, (2004), “The Benefits of Diversity in Education for Democratic Citizenship,” *Journal of Social Issues*, 60 (March): 17–34.
+* Gutmann, Amy and Dennis Thompson, 1996, *Democracy and Disagreement*, Cambridge, Massachusetts: Harvard University Press.
+* Hajdin, Mane, 2002, “Affirmative Action, Old and New,” *Journal of Social Philosophy*, 33 (Spring): 83–96.
+* Hansson, Sven Ove, 2004, “What are Opportunities and Why Should They Be Equal?” *Social Choice & Welfare*, 22 (April): 305–317.
+* Harris, Luke C., 2003, “Contesting the Ambivalence and Hostility to Affirmative Action within the Black Community,” in Tommy L. Lott (ed.), *A Companion to African-American Philosophy*, Malden, Massachusetts: Blackwell Publishing, 324–332.
+* ––– and Uma Narayan, 1994, “Affirmative Action and the Myth of Preferential: A Transformative Critique of the Terms of the Affirmative Action Debate,” *Harvard Journal of Ethnic and Racial Justice* (formerly *Harvard Blackletter Law Journal*), 11: 1–35.
+* Haslett, D. W., 2002, “Workplace Discrimination, Good Cause, and Color Blindness,” *Journal of Value Inquiry*, 36: 73–88.
+* Hasnas, John, 2002, “Equal Opportunity, Affirmative Action, and the Anti-Discrimination Principle: The Philosophical Basis for the Legal Prohibition of Discrimination,” *Fordham Law Review*, 71 (November): 423–542.
+* Heilman, Madeline E., 1997, “Sex Discrimination and the Affirmative Action Remedy: The Role of Sex Stereotypes,” *Journal of Business Ethics*, 16 (June): 877–889.
+* Hess, Ryan C., 2007, “A Sheep in Wolf’s Clothing: The Michigan Civil Rights Initiative as the Savior of Affirmative Action,” *Michigan Law Review First Impressions*, 105: 139–143.
+* Hill, Thomas E., 1991, “The Message of Affirmative Action,” *Social Philosophy and Policy*, 8 (Spring): 108–129.
+* Himma, Kenneth Einar, 2001, “Discrimination and Disidentification: The Fair-Start Defense of Affirmative Action,” *Journal of Business Ethics*, 30 (April): 277–289.
+* –––, 2002, “Desert, Entitlement, and Affirmative Action: A Response to Francis Beckwith,” *Social Theory and Practice*, 28 (January): 157–166.
+* Hinrichs, Peter, 2014, “Affirmative Action Bans and College Graduation Rates,” *Economics of Education Review*, 42: 43–52.
+* Ho, Daniel E., 2005, “Why Affirmative Action Does Not Cause Black Students to Fail the Bar: A Reply to Sander,” *Yale Law Journal*, 114 (June): 1997–2004.
+* Ibarra, Robert A., 2001, *Beyond Affirmative Action: Reframing the Context of Higher Education*, Madison, Wisconsin: University of Wisconsin Press.
+* Issacharoff, Samuel, 2002, “Law and Misdirection in the Debate Over Affirmative Action,” *University of Chicago Legal Forum*, 2002(1): 11–43, [available online](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1315\&context=uclf).
+* Jacobs, Lesley A., 2004, *Pursuing Equal Opportunities: The Theory and Practice of Egalitarian Justice*, Cambridge: Cambridge University Press.
+* Jaggar, Alison, 1997, “Gender, Race, and Difference: Individual Consideration versus Group-Based Affirmative Action in Admission to Higher Education,” *Southern Journal of Philosophy*, 35 (Spring): 21–51.
+* Johnson, Kevin R.and Angela Onwuachi–Willig, 2005, “Cry Me a River: The Limits of A Systemic Analysis of Affirmative Action in American Law Schools,” *African-American Law and Policy Report*, 7 (1): 1–29.
+* Johnson, Susan M. and Xia Li Lollar, 2002, “Diversity Policy in Higher Education: The Impact of College Students’ Exposure to Diversity on Cultural Awareness and Political Participation,” *Journal of Education Policy*, 17 (June): 305–321.
+* Joshi, Yuvraj, 2017, “Measuring Diversity,” *Columbia Law Review Online*, 117: 54–69.
+* Kang, Jerry and Mahzarin R. Banajiff, 2006, “Fair Measures: A Behavioral Realist Revision of Affirmative Action,” *California Law Review*, 94: 1063–1118.
+* Kahlenberg, Richard D., 1996, *The Remedy: Class, Race, and Affirmative Action*, New York: Basic Books.
+* –––,(ed.) 2010, *Rewarding Strivers: Helping Low–Income Students Succeed in College*, New York: Century Foundation.
+* –––, 2012, *A Better Affirmative Action: State Universities That Created Alternatives to Racial Preferences*, New York: The Century Foundation.
+* Kennedy, Randall, 2015, *For Discrimination: Race, Affirmative Action, and the Law*, New York: Vintage Books
+* Kershnar, Stephen, 1997, “Strong Affirmative Action at State Institutions Cannot Be Justified Via Compensatory Justice,” *Public Affairs Quarterly*, 11 (October): 345–363.
+* –––, 1999, “Uncertain Damages to Racial Minorities and Strong Affirmative Action,” *Public Affairs Quarterly*, 13 (January): 83–98.
+* –––, 1999, “Strong Affirmative Action Programs and Disproportionate Burdens,” *Journal of Value Inquiry*, 33 (June): 201–209.
+* –––, 2004, “Why Equal Opportunity is Not a Valuable Goal,” *Journal of Applied Philosophy*, 21 (August): 159–173.
+* Ketchum, Sara Ann and Christine Pierce, 1976, “Implicit Racism,” *Analysis*, 36 (January): 91–95.
+* Kidder, William and Richard O. Lempert, 2015, “The Mismatch Myth in U.S. Higher Education: A Synthesis of Empirical Evidence at the Law School and Undergraduate Levels,” in Uma Jayakumar and Liliana M. Garces (eds.), *Affirmative Action and Racial Equality*, New York: Routledge, 105–129.
+* Klor de Alva, Jorge, 1996, “Is Affirmative Action a Christian Heresy?” *Representations*, 55 (Summer): 59–73.
+* Kocis, Robert A., 2010, “Discriminatory Privileges, Compensatory Privileges, and Affirmative Action,” in Christi Favor et al.(eds.), *Essays in Philosophy, Politics, and Economics*, Stanford: Stanford University Press, 139–156.
+* Koppelman, Andrew and Donald Rebstock, 2007, “On Affirmative Action and Truly Individualized Consideration,” *Northwestern University Law Review*, 101 (Spring): 1469–1481.
+* Kull, Andrew, 1992, *The Color Blind Constitution*, Cambridge, MA: Harvard University Press.
+* Landau, Iddo, 1997, “Are You Entitled to Affirmative Action?” *International Journal of Applied Philosophy*, 11 (Winter-Spring): 17–22.
+* Lawrence, Charles R. III, 2001, “Two Views of the River: A Critique of the Liberal Defense of Affirmative Action,” *Columbia Law Review*, 101 (May): 928–976.
+* ––– and Mari J. Matsuda, 1997, *We Won’t Go Back: Making the Case for Affirmative Action*, Boston: Houghton Mifflin Company.
+* Leach, Bryan W., 2004, “Race as Mission Critical: The Occupational Need Rationale in Military Affirmative Action and Beyond,” *Yale Law Journal*, 113 (March): 1093–1143.
+* Leading Public Research Universities, 2015: Brief Supporting Respondents in *Fisher v. University of Texas*, 136 S. Ct. 2198 (2016): 1–33.
+* LeFevre, Joseph, 2003, “The Value of Diversity: A Justification of Affirmative Action,” *Journal of Social Philosophy*, 34 (March): 125–133.
+* Leiter, Brian, 2017, “Is ‘Diversity’ the Best Reason for Affirmative Action?” *Chronicle of Higher Education*, 64 (September 29): 1.
+* Lempert, Richard, 2016, “Mismatch and Science Desistance: Failed Arguments against Affirmative Action,” *UCLA Law Review and Discourse*, 64: 136–174.
+* –––, David L. Chambers, and Terry K. Adams, 2000, “Michigan’s Minority Graduates in Practice: The River Runs Through Law School,” *Law and Social Inquiry*, 25 (April): 395–505.
+* Libertella, Anthony F., Sebastian A. Sora, and Samuel M. Natale, 2007, “Affirmative Action Policy and Changing Views,” *Journal of Business Ethics*, 74 (August): 65–71.
+* Lichtenberg, Judith and David Luban, 2002, “The Merits of Merit,” in Verna V. Gehring and William A. Galston (eds). *Philosophical Dimensions of Public Policy*, New Brunswick, New Jersey: Transaction Publishers, 101–113.
+* Lindgren, J. Ralph, 1981, “The Irrelevance of Philosophical Treatments of Affirmative Action,” *Social Theory and Practice*, 7 (Spring): 1–19.
+* Lippert–Rasmussen, Kasper, 2008, “Discrimination and the Aim of Proportional Representation,” *Philosophy, Politics and Economics*, 7 (May): 159–182.
+* –––, 2017, “Affirmative Action, Historical Injustice, and the Concept of Beneficiaries,” *Journal of Political Philosophy*, 5: 72–90.
+* Lukes, Timothy J., and Bonnie G. Campodonico, 1996, “Merit Badgering: Dissecting a Slippery Concept in the Affirmative Action Debate,” *Public Affairs Quarterly*, 10 (July): 219–227.
+* Malamud, Deborah C., 1997, “Assessing Class–Based Affirmative Action,” *Journal of Legal Education*, 47 (4): 452–471.
+* –––, 2011, “Class Privilege in Legal Education: A Response to Sander,” *Denver University Law Review*, 88 (4): 729–750.
+* Massey, Douglas S. *et al*., 2007, “Black Immigrants and Black Natives Attending Selective Colleges and Universities in the United States,” *American Journal of Education*, 113 (February): 243–271.
+* ––– and Margarita Mooney, 2007, “The Effects of America’s Three Affirmative Action Programs on Academic Performance,” *Social Problems*, 54: 99–117.
+* Massey, Stephen J., 1981, “Rethinking Affirmative Action,” *Social Theory and Practice*, 7 (Spring): 21–47.
+* Matthew, D. C., 2015, “Rawlsian Affirmative Action: A Reply to Robert Taylor,” *Ethical Theory and Moral Practice*, 19: 324–343.
+* McHugh, Peter, 2005, “Shared Being, Old Promises, and the Just Necessity of Affirmative Action,” *Human Studies*, 28 (2): 129–156.
+* Melguizo, Tatiana, 2008, “Quality Matters: Assessing the Impact of Attending More Selective Institutions on College Completion Rates of Minorities,” *Research in Higher Education*, 49: 214–236.
+* Meshelski, Kristina, 2016, “Procedural Justice and Affirmative Action,” *Ethical Theory and Moral Practice*, 19: 425–443.
+* Mills, Nicolaus (ed.), 1994, *Debating Affirmative Action: Race, Gender, Ethnicity, and the Politics of Inclusion*, New York: Dell Publishing.
+* Mosley, Albert G., 1998, “Policies of Straw or Policies of Inclusion? A Review of Pojman’s ‘Case against Affirmative Action’,” *International Journal of Applied Philosophy*, 12 (Fall): 161–168.
+* ––– and Nicholas Capaldi, 1996, *Affirmative Action: Social Justice or Unfair Preference?* Lanham, Maryland: Rowman and Littlefield.
+* Murray, Dale, 2005, “The Affirmative Action Debate,” *Teaching Philosophy*, 28 (June): 284–287.
+* Nagel, Thomas, 1973, “Equal Treatment and Compensatory Discrimination,” *Philosophy & Public Affairs*, 2 (Summer): 348–363.
+* Newton, Lisa, 1973, “Reverse Discrimination as Unjustified,” *Ethics*, 83 (July): 308–312.
+* Nickel, James W., 1972, “Discrimination and Morally Relevant Characteristics,” *Analysis*, 32 (March): 113–114.
+* –––, 1974, “Should Reparations Be to Individuals or Groups?” *Analysis*, 34 (April): 154–160.
+* Nieli, Russell (ed.), 1991, *Racial Preference and Racial Justice: The New Affirmative Action Controversy*, Washington, D.C.: Ethics and Public Policy Center.
+* –––, 2012, *Wounds That Will Not Heal: Affirmative Action and Our Continuing Racial Divide*, New York: Encounter Books.
+* Nunn, William A., 1974, “Reverse Discrimination,” *Analysis*, 34 (April): 151–154.
+* O’Neil, Robert M., 1975, *Discriminating Against Discrimination: Preferential Admissions and the* DeFunis*Case*, Bloomington, Indiana: Indiana University Press.
+* Onwuachi-Willig, Angela, 2007, “The Admission of Legacy Blacks,” *Vanderbilt Law Review*, 60: 1138–1231.
+* Orfield, Gary with Michael Kurlaender (eds.), 2001. *Diversity Challenged: Evidence on the Impact of Affirmative Action*, Cambridge, Massachusetts: Harvard Education Publishing Group.
+* Orlans, Harold June O’Neill (eds.), 1992, *Affirmative Action Revisited*, Newbury Park, California: Sage.
+* Owen, Matthew S. and Danielle S. Barbour, 2007, “Disparate Impact and the Use of Racial Proxies in Post–MCRI Admissions,” *Michigan Law Review First Impressions*, 105: 144–148.
+* Paul, Ellen Frankel *et al*. (eds.), 1991, *Reassessing Civil Rights*, Oxford: Blackwell Publishers.
+* Pell, Terence J., 2003, “What’s the Big Deal about Racial Preferences?” *Journal of Social Philosophy*, 34 (Summer): 326–329.
+* –––, 2004, “The Nature of Claims about Race and the Debate over Racial Preferences” *International Journal of Applied Philosophy*, 18 (1): 13–26.
+* Pidot, Justin, 2006, “Intuition or Proof: The Social Science Justification for the Diversity Rationale in Grutter v. Bollinger and Gratz v. Bollinger,” *Stanford Law Review*, 59 (December): 761–808.
+* Pojman, Louis, 1992, “The Moral Status of Affirmative Action,” *Public Affairs Quarterly*, 6 (April): 181–206.
+* –––, 1998, “The Case against Affirmative Action,” *International Journal of Applied Philosophy*, 12 (Spring): 97–115.
+* –––, 1998, “Straw Man or Straw Theory? A Reply to Albert Mosley,” *International Journal of Applied Philosophy*, 12 (Fall): 169–180.
+* Purdy, Laura, 1994. “Why Do We Need Affirmative Action?” *Journal of Social Philosophy*, 25 (Spring): 133–143.
+* Rachels, James, 1978, “What People Deserve,” in John Arthur and William Shaw (eds.), *Justice and Economic Distribution*, Englewood Cliffs, New Jersey: Prentice-Hall, 150–163.
+* Radin, Margaret Jane, 1991, “Affirmative Action Rhetoric,” *Social Philosophy and Policy*, 8 (Spring): 130–149.
+* Rawls, John, 1971, *A Theory of Justice*, Cambridge, Massachusetts: Harvard University Press.
+* –––, 2001, *Justice as Fairness: A Restatement*, Cambridge, Massachusetts: Harvard University Press.
+* Reynolds, William Bradford, 1984, “Individualism vs. Group Rights: The Legacy of *Brown*,” *Yale Law Journal*, 93 (May): 995–1005.
+* Rosenfeld, Michel, 1991, *Affirmative Action and Justice: A Philosophical and Constitutional Inquiry*, New Haven, Connecticut: Yale University Press.
+* Rothman, Stanley, S. M. Lipset, and Neil Nevitte, 2002, “Diversity and Affirmative Action: The State of Campus Opinion,” *Academic Questions*, 15 (Fall): 52–67.
+* –––, 2003, “Racial Diversity Reconsidered,” *Public Interest*, 151 (Spring): 25–38.
+* Rothstein, Jesse and Albert H. Yoon, 2008, “Affirmative Action in Law School Admissions: What Do Racial Preferences Do?” *University of Chicago Law Review*, 75 (Spring): 649–714.
+* Rush, Sharon, 1994, “Understanding Affirmative Action: One Feminist’s Perspective,” in M. N. S. Sellers (ed.). *An Ethical Education: Community and Morality in the Multicultural University*, Oxford: Berg Publishers, 195–132.
+* Sabbagh, Daniel, 2007, *Equality and Transparency: A Strategic Perspective on Affirmative Action in American Law*, New York: Palgrave Macmillan.
+* Sandalow, Terrance, 1999, “Identity and Equality: Minority Preferences Reconsidered,” *Michigan Law Review*, 97 (May): 1874–1916.
+* Sandel, Michael J., 2009, *Justice: What’s the Right Thing to Do?* New York: Farrar, Strauss and Giroux.
+* Sander, Richard H., 1997, “Experimenting with Class–Based Affirmative Action,” *Journal of Legal Education*, 47 (4): 472–503.
+* –––, 2004, “A Systemic Analysis of Affirmative Action in American Law Schools,” *Stanford Law Review*, 57 (November): 367–484.
+* –––, 2005, “A Reply to Critics,” *Stanford Law Review*, 57 (May): 1963–2016.
+* –––, 2011, “Class in American Legal Education,” *Denver University Law Review*, 88 (4): 631–682.
+* ––– and Jane Bambauer, 2012, “The Secret of My Success: How Status, Eliteness, and School Performance Shape Legal Careers,” *Journal of Empirical Legal Studies*, 9: 893–930.
+* ––– and Stuart Taylor, Jr., 2012, *Mismatch: How Affirmative Action Hurts Students It’s Intended to Help, and Why Universities Won’t Admit It*, Philadelphia: Basic Books.
+* Sartorelli, Joseph J., 1994, “Ruse on Gay Rights and Affirmative Action,” *Analysis*, 54 (April): 84–91.
+* –––, 1997, “The Nature of Affirmative Action, Anti-Gay Oppression, and the Alleviation of Enduring Harm,” *International Journal of Applied Philosophy*, 11 (Winter-Spring): 23–30.
+* Schmidt, Peter, 2008, “Scholars Mount Sweeping Effort to Measure Affirmative Action in Higher Education,” *Chronicle of Higher Education*, 54 (January 19): A19.
+* Shelby, Tommie, 2014, “Integration, Inequality, and Imperattives of Justice: A Review Essay,” *Philosophy & Public Affairs*, 42 (Summer): 253–285.
+* Sher, George, 1975, “Justifying Reverse Discrimination in Employment,” *Philosophy & Public Affairs*, 4 (Winter): 159–170.
+* –––, 1979, “Reverse Discrimination, the Future, and the Past,” *Ethics*, 90 (October): 81–87.
+* –––, 1997, *Approximate Justice: Studies in Non-Ideal Theory*, Lanham, Maryland: Rowman & Littlefield.
+* Shiner, Roger, 1973, “Individuals, Groups and Inverse Discrimination,” *Analysis*, 33 (June): 185–187.
+* Silvestri, Philip, 1973, “The Justification of Inverse Discrimination,” *Analysis*, 34 (October): 31.
+* Simon, Robert L., 1974, “Preferential Hiring: A Reply to Judith Jarvis Thomson,” *Philosophy & Public Affairs*, 3 (Spring): 312–320.
+* –––, 1978, “Statistical Justification of Discrimination,” *Analysis*, 38 (January): 37–42.
+* –––, 1979, “Individual Rights and ‘Benign’ Discrimination,” *Ethics*, 90 (October): 88–97.
+* Skrentny, John David, 1996, *The Ironies of Affirmative Action: Politics, Culture, and Justice in America*, Chicago: University of Chicago Press.
+* ––– (ed.), 2001, *Color Lines: Affirmative Action, Immigration, and Civil Rights Options for America*, Chicago: University of Chicago Press.
+* Smyth, Frederick L. and John J. McArdle, 2004, “Ethnic and Gender Differences in Science Graduation at Selective Colleges with Implications for Admission Policy and College Choice,” *Research in Higher Education*, 45 (June): 353–381.
 * Social and Organizational Psychologists, 2015: Brief in Support of Respondents in Fisher v. University of Texas, 136 S. Ct. 2198 (2016):1–44.
-* Sowell, Thomas, 2004, _Affirmative Action Around the World: An Empirical Study_, New Haven, Connecticut: Yale University Press. \[Reviewed by Carl Cohen in _Commentary_, 117 (April 2004): 73–76, and by Bernard Boxill in _Ethics & International Affairs_, 18: 114–115).
-* Stark, Susan, 2004, “Taking Responsibility for Oppression: Affirmative Action and Racial Injustice,” _Public Affairs Quarterly_, 18 (July): 205–221.
-* Sterba, James P., 2003, “Defending Affirmative Action, Defending Preferences,” _Journal of Social Philosophy_, 34 (June): 285–300.
-* –––, 2004, “The Michigan Cases and Furthering the Justification of Affirmative Action,” _International Journal of Applied Philosophy_, 18 (1): 1–12.
-* –––, 2009, _Affirmative Action for the Future_, Ithaca, New York: Cornell University Press.
-* –––, 2011, “Responses to Allen, Appiah, and Lawson,” _Journal of Ethics_, 15 (September): 291–306.
-* Strasser, Mark, 2010, “On Disguises, Tokens, and Affirmative Action Policies,” _Indiana Law Journal_, 85 (Fall): 1293–1301.
-* Stroud, Sarah, 1999, “The Aim of Affirmative Action,” _Social Theory and Practice_, 25 (Fall): 385–408.
-* Stroup, Timothy, 1982, “Affirmative Action and the Police,” _International Journal of Applied Philosophy_, 1 (Fall): 1–19.
-* Sturm, Susan and Lani Guinier, 1996, “The Future of Affirmative Action: Reclaiming an Innovative Ideal,” _California Law Review_, 84 (July): 953–1036.
-* Symposium, 1979, “_Bakke_—Civil Rights Perspectives,” _Harvard Civil Rights-Civil Liberties Law Review_, 14 (Spring).
-* Symposium, 1996a, “Race-Based Remedies,” _California Law Review_, 84 (July).
-* Symposium, 1996b, “The Meanings of Merit—Affirmative Action and the California Civil Rights Initiative,” _Hastings Constitutional Law Quarterly_, 23 (Summer).
-* Syverud, Kent D., 1999, Expert Report: _Grutter v. Bollinger_, _Michigan Journal of Race and Law_, 5 (Fall): 451–454.
-* Tam, Mo Yin S. and Gilbert W. Bassett, Jr., 2004, “Does Diversity Matter? Measuring the Impact of High School Diversity on Freshman GPA,” _Policy Studies Journal_, 32: 129–144.
-* Taylor, Paul, 1973, “Reverse Discrimination and Compensatory Justice,” _Analysis_, 33 (June): 177–182.
-* Thernstrom, Stephan and Abigail Thernstrom, 1997, _America in Black and White: One Nation, Indivisible_, New York: Simon and Schuster.
-* –––, 1999, “Reflections on The Shape of the River,” _UCLA Law Review_, 46 (June): 1583–1631.
-* Thomson, Judith Jarvis, 1973, “Preferential Hiring,” _Philosophy & Public Affairs_, 2 (Summer): 364–384.
-* Tushnet, Mark, 1991, “Change and Continuity in the Concept of Civil Rights: Thurgood Marshall and Affirmative Action,” _Social Philosophy and Policy_, 8 (Spring): 150–171.
-* University of Texas, October 2015: Brief for Respondents, _Fisher v. University of Texas_, 136 S. Ct. 2198 (2016): 1–37.
-* U. S. Commission on Civil Rights, 2007, _Affirmative Action in American Law Schools_, Washington, D.C.
-* Valls, Andrew, 1999, “The Libertarian Case for Affirmative Action,” _Social Theory and Practice_, 25 (Summer): 299–323.
-* Van Laar, Colette, Shana Levin, and Stacey Sinclair, 2008, “Social Identity and Personal Identity Stereotype Threat: The Case of Affirmative Action,” _Basic and Applied Social Psychology_, 30 (4): 295–310.
-* Van Patten, Jim, 1995, “Affirmative Action: Retrospect and Prospect,” _Contemporary Philosophy_, 17 (November-December): 2–7.
-* Van Roojen, Mark, 1997, “Affirmative Action, Non-Consequentialism, and Responsibility for the Effects of Past Discrimination,” _Public Affairs Quarterly_, 11 (July): 281–301.
-* Waldron, Jeremy, 1998, “Humility and the Curse of Injustice,” in Robert Post and Michael Rogin (eds.). _Race and Representation: Affirmative Action_, New York: Zone Books, 385–389.
-* Warnke, Georgia, 1998, “Affirmative Action, Neutrality, and Integration,” _Journal of Social Philosophy_, 29 (Winter): 87–103.
-* Warren, Mary Anne, 1977, “Secondary Sexism and Quota Hiring,” _Philosophy & Public Affairs_, 6 (Spring): 240–261.
-* Wasserstrom, Richard, 1976, “Racism, Sexism, and Preferential Treatment: An Approach to the Topics,” _UCLA Law Review_, 24 (February): 581–622.
-* West–Faulcon, Kimberly, 2017, “Obscuring Asian Penalty with Illusions of Black Bonus,” _UCLA Law Review_, 64: 590–645.
-* Wilkins, David B., 2000, “Law School Affirmative Action: An Empirical Study Rollin’ on the River: Race, Elite Schools, and the Equality Paradox,” _Law and Social Inquiry_, 25 (April): 527–555.
-* –––, 2005, “A Systematic Response to Systematic Disadvantage? A Response to Sander,” _Stanford Law Review_, 57 (May): 1915–1961.
-* Williams, Doug, 2013, “Do Racial Preferences Affect Minority Learning in Law Schools?” _Journal of Empirical Legal Studies_, 10 (June): 171–195.
-* –––, Richard H. Sander, Marc Luppino, and Roger Bolus, 2011, “Revisiting Law School Mismatch: A Comment on Barnes (2007, 2011),” _Northwestern University Law Review_, 105 (2): 813–828.
-* Williams, Reginald, 2005, “Affirmative Action, the ‘May the Best Person Win’ Intuition, and Mill’s The Subjection of Women,” _Public Affairs Quarterly_, 19 (January): 65–80.
-* Wise, Tim, 2005, _Affirmative Action: Racial Preference in Black and White_, New York: Routledge.
-* Wolf-Devine, Celia, 1988, “An Inequity in Affirmative Action,” _Journal of Applied Philosophy_, 5 (March): 107–108.
-* –––, 1997, _Diversity and Community in the Academy: Affirmative Action in Faculty Appointments_, Lanham, Maryland: Rowman & Littlefield.
-* Woodruff, Paul, 1976, “What’s Wrong with Discrimination?” _Analysis_, 36 (March): 158–160.
-* Yates, Steven, 1994, _Civil Wrongs: What Went Wrong with Affirmative Action_, San Francisco: Institute for Contemporary Studies.
-* Young, Iris Marion, 1990, _Justice and the Politics of Difference_, Princeton, New Jersey: Princeton University Press.
-* Xiang, Alice and Donald B. Rubin, 2015, “Assessing the Potential Impact of a Nationwide Class–Based Affirmative Action System,” _Statistical Science_, 30 (3): 297–327.
+* Sowell, Thomas, 2004, *Affirmative Action Around the World: An Empirical Study*, New Haven, Connecticut: Yale University Press. \[Reviewed by Carl Cohen in *Commentary*, 117 (April 2004): 73–76, and by Bernard Boxill in *Ethics & International Affairs*, 18: 114–115).
+* Stark, Susan, 2004, “Taking Responsibility for Oppression: Affirmative Action and Racial Injustice,” *Public Affairs Quarterly*, 18 (July): 205–221.
+* Sterba, James P., 2003, “Defending Affirmative Action, Defending Preferences,” *Journal of Social Philosophy*, 34 (June): 285–300.
+* –––, 2004, “The Michigan Cases and Furthering the Justification of Affirmative Action,” *International Journal of Applied Philosophy*, 18 (1): 1–12.
+* –––, 2009, *Affirmative Action for the Future*, Ithaca, New York: Cornell University Press.
+* –––, 2011, “Responses to Allen, Appiah, and Lawson,” *Journal of Ethics*, 15 (September): 291–306.
+* Strasser, Mark, 2010, “On Disguises, Tokens, and Affirmative Action Policies,” *Indiana Law Journal*, 85 (Fall): 1293–1301.
+* Stroud, Sarah, 1999, “The Aim of Affirmative Action,” *Social Theory and Practice*, 25 (Fall): 385–408.
+* Stroup, Timothy, 1982, “Affirmative Action and the Police,” *International Journal of Applied Philosophy*, 1 (Fall): 1–19.
+* Sturm, Susan and Lani Guinier, 1996, “The Future of Affirmative Action: Reclaiming an Innovative Ideal,” *California Law Review*, 84 (July): 953–1036.
+* Symposium, 1979, “*Bakke*—Civil Rights Perspectives,” *Harvard Civil Rights-Civil Liberties Law Review*, 14 (Spring).
+* Symposium, 1996a, “Race-Based Remedies,” *California Law Review*, 84 (July).
+* Symposium, 1996b, “The Meanings of Merit—Affirmative Action and the California Civil Rights Initiative,” *Hastings Constitutional Law Quarterly*, 23 (Summer).
+* Syverud, Kent D., 1999, Expert Report: *Grutter v. Bollinger*, *Michigan Journal of Race and Law*, 5 (Fall): 451–454.
+* Tam, Mo Yin S. and Gilbert W. Bassett, Jr., 2004, “Does Diversity Matter? Measuring the Impact of High School Diversity on Freshman GPA,” *Policy Studies Journal*, 32: 129–144.
+* Taylor, Paul, 1973, “Reverse Discrimination and Compensatory Justice,” *Analysis*, 33 (June): 177–182.
+* Thernstrom, Stephan and Abigail Thernstrom, 1997, *America in Black and White: One Nation, Indivisible*, New York: Simon and Schuster.
+* –––, 1999, “Reflections on The Shape of the River,” *UCLA Law Review*, 46 (June): 1583–1631.
+* Thomson, Judith Jarvis, 1973, “Preferential Hiring,” *Philosophy & Public Affairs*, 2 (Summer): 364–384.
+* Tushnet, Mark, 1991, “Change and Continuity in the Concept of Civil Rights: Thurgood Marshall and Affirmative Action,” *Social Philosophy and Policy*, 8 (Spring): 150–171.
+* University of Texas, October 2015: Brief for Respondents, *Fisher v. University of Texas*, 136 S. Ct. 2198 (2016): 1–37.
+* U. S. Commission on Civil Rights, 2007, *Affirmative Action in American Law Schools*, Washington, D.C.
+* Valls, Andrew, 1999, “The Libertarian Case for Affirmative Action,” *Social Theory and Practice*, 25 (Summer): 299–323.
+* Van Laar, Colette, Shana Levin, and Stacey Sinclair, 2008, “Social Identity and Personal Identity Stereotype Threat: The Case of Affirmative Action,” *Basic and Applied Social Psychology*, 30 (4): 295–310.
+* Van Patten, Jim, 1995, “Affirmative Action: Retrospect and Prospect,” *Contemporary Philosophy*, 17 (November-December): 2–7.
+* Van Roojen, Mark, 1997, “Affirmative Action, Non-Consequentialism, and Responsibility for the Effects of Past Discrimination,” *Public Affairs Quarterly*, 11 (July): 281–301.
+* Waldron, Jeremy, 1998, “Humility and the Curse of Injustice,” in Robert Post and Michael Rogin (eds.). *Race and Representation: Affirmative Action*, New York: Zone Books, 385–389.
+* Warnke, Georgia, 1998, “Affirmative Action, Neutrality, and Integration,” *Journal of Social Philosophy*, 29 (Winter): 87–103.
+* Warren, Mary Anne, 1977, “Secondary Sexism and Quota Hiring,” *Philosophy & Public Affairs*, 6 (Spring): 240–261.
+* Wasserstrom, Richard, 1976, “Racism, Sexism, and Preferential Treatment: An Approach to the Topics,” *UCLA Law Review*, 24 (February): 581–622.
+* West–Faulcon, Kimberly, 2017, “Obscuring Asian Penalty with Illusions of Black Bonus,” *UCLA Law Review*, 64: 590–645.
+* Wilkins, David B., 2000, “Law School Affirmative Action: An Empirical Study Rollin’ on the River: Race, Elite Schools, and the Equality Paradox,” *Law and Social Inquiry*, 25 (April): 527–555.
+* –––, 2005, “A Systematic Response to Systematic Disadvantage? A Response to Sander,” *Stanford Law Review*, 57 (May): 1915–1961.
+* Williams, Doug, 2013, “Do Racial Preferences Affect Minority Learning in Law Schools?” *Journal of Empirical Legal Studies*, 10 (June): 171–195.
+* –––, Richard H. Sander, Marc Luppino, and Roger Bolus, 2011, “Revisiting Law School Mismatch: A Comment on Barnes (2007, 2011),” *Northwestern University Law Review*, 105 (2): 813–828.
+* Williams, Reginald, 2005, “Affirmative Action, the ‘May the Best Person Win’ Intuition, and Mill’s The Subjection of Women,” *Public Affairs Quarterly*, 19 (January): 65–80.
+* Wise, Tim, 2005, *Affirmative Action: Racial Preference in Black and White*, New York: Routledge.
+* Wolf-Devine, Celia, 1988, “An Inequity in Affirmative Action,” *Journal of Applied Philosophy*, 5 (March): 107–108.
+* –––, 1997, *Diversity and Community in the Academy: Affirmative Action in Faculty Appointments*, Lanham, Maryland: Rowman & Littlefield.
+* Woodruff, Paul, 1976, “What’s Wrong with Discrimination?” *Analysis*, 36 (March): 158–160.
+* Yates, Steven, 1994, *Civil Wrongs: What Went Wrong with Affirmative Action*, San Francisco: Institute for Contemporary Studies.
+* Young, Iris Marion, 1990, *Justice and the Politics of Difference*, Princeton, New Jersey: Princeton University Press.
+* Xiang, Alice and Donald B. Rubin, 2015, “Assessing the Potential Impact of a Nationwide Class–Based Affirmative Action System,” *Statistical Science*, 30 (3): 297–327.
 
 ## Academic Tools
 
@@ -594,4 +594,4 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 [equality](https://plato.stanford.edu/entries/equality/) | [equality: of educational opportunity](https://plato.stanford.edu/entries/equal-ed-opportunity/) | [equality: of opportunity](https://plato.stanford.edu/entries/equal-opportunity/) | [justice](https://plato.stanford.edu/entries/justice/) | [reparations, Black](https://plato.stanford.edu/entries/black-reparations/) | [rights](https://plato.stanford.edu/entries/rights/)
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-Robert Fullinwider <[_rfullinwider@gmail.com_](mailto:rfullinwider%40gmail%2ecom)>
+Robert Fullinwider <[*rfullinwider@gmail.com*](mailto:rfullinwider%40gmail%2ecom)>

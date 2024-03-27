@@ -1,6 +1,6 @@
 # 布鲁诺·鲍威尔 Bauer, Bruno (Douglas Moggach)
 
-_首次发表于 2002 年 3 月 7 日；实质性修订于 2022 年 2 月 7 日_
+*首次发表于 2002 年 3 月 7 日；实质性修订于 2022 年 2 月 7 日*
 
 布鲁诺·鲍威尔（1809 年 9 月 6 日-1882 年 4 月 13 日），哲学家、历史学家和神学家。他的职业生涯分为两个主要阶段，分别是 1848 年革命之前和之后。在 19 世纪 40 年代，也就是被称为“前马尔茨”或德国 1848 年三月革命序幕的时期，鲍威尔是左黑格尔派运动的领导人，他发展了黑格尔的共和主义解释，将伦理和美学元素结合起来。他的无限自我意识理论源于黑格尔对主观精神的描述，强调理性的自主性和历史进步。在研究基督教的文本来源时，鲍威尔将宗教描述为一种异化形式，由于尘世生活的不足，它将非理性的超越力量投射到自我上，并赞同特定的教派和物质利益。他批评了复辟国家及其社会和法律基础以及其正统宗教意识形态。在分析现代大众社会的出现时，他批评自由主义对现存秩序的不一致反对，并将自由等同于财产，但他指责社会主义对个体自主性的认识不足。在 1848 年的失败之后，鲍威尔否定了黑格尔的理论。他预测欧洲文明将面临一场普遍危机，这是哲学的枯竭和自由主义与革命政治的失败所导致的。他相信，解放的新前景将从这场危机中产生。他晚年的著作探讨了俄罗斯作为世界强国的崛起，开启了全球帝国主义和战争的时代。这些著作影响了尼采对文化复兴的思考。弗里德里希·恩格斯和卡尔·考茨基将鲍威尔的宗教批判归于社会主义运动，而他晚期作品中的反传统保守主义影响了 20 世纪卡尔·施密特的思想。
 
@@ -44,7 +44,7 @@ _首次发表于 2002 年 3 月 7 日；实质性修订于 2022 年 2 月 7 日_
 
 《最后审判的无名号角》或《波松》（1841 年 11 月）及其续篇《黑格尔的宗教与艺术学说》（1842 年）将黑格尔解读为呼唤革命、实现这种状态的人。鲍威尔声称黑格尔的体系的后果是推翻教会和国家；黑格尔的保守批评者认为他是复辟时期最危险的对手，这一点是正确的。鲍威尔以虔诚的谴责的讽刺方式写作，将黑格尔归因于无限自我意识的理论，其中物质的概念和超越的绝对是必要的，但是它们是自我否定的幻觉。鲍威尔在 1845 年以自己的声音总结了这个问题，他认为黑格尔的思想中存在着斯宾诺莎和费希特之间的紧张关系，存在着惰性、未分化的物质和创造性形式之间的紧张关系。然而，《波松》认为斯宾诺莎主义的时刻虽然对黑格尔的辩证法是必要的，但完全被吸收到了无限自我意识中。在正确理解下的绝对精神中，所有宗教的假装都消散了，而绝对本身溶解于有意识的个体主体的批判活动中。没有任何超越性的东西留下。然而，《波松》承认，黑格尔也强调了物质的概念。它的作用必须得到解释。在它表面上的超越性中，物质约束了直接的、特定的自我。这是必要的，因为黑格尔认为，特殊性不能成为理论或实践理性的标准；相反，个体必须首先内化物质，作为普遍性的原则，作为达到无限自我意识的阶段。未分化的、纯粹的物质的普遍性包含了所有特殊性，包括自我。这个最初的斯宾诺莎主义时刻在黑格尔身上产生了一种泛神论的外观，这误导了像斯特劳斯一样的解释者。然而，在鲍威尔的描述中，黑格尔继续将实质性解体为独立于意识的力量。这种辩证的解决并不等同于放弃客观性，而是意味着物质一旦向特定意识证明了超越自身的必要性，也不能宣称具有直接的有效性。通过约束自己的直接利益，个体可以成为实现普遍性的器官，使之以有意识的形式存在。物质的辩证幻觉是一个必要的阶段，因为在其中可以首次窥见概念和客观性的统一；但这种幻觉必须在进一步的历史和理论发展中被克服。主体必须表现为潜在的普遍性，客观必须展示为对主体追求理性自由的目的性秩序。这种发展意味着将物质转化为有意识精神行为的记录，是自我意识与自身的内在关系。因此，主体性吸收了普遍性的原则，它现在作为自己的特征而不是外来的东西。但这种关系不仅限于内在经验，因为正如黑格尔所主张的，理性必须在世界中实现自己。理性的外化产生了一个历史序列，包括异化生活的形式。这个序列中的阶段可以被看作是思想和存在的统一展开的时刻。鲍威尔将自我意识描述为一种内在的和主观的普遍性，作为历史的动力，通过接纳和转化所给定的内容来产生历史内容。正如鲍威尔 1829 年的手稿所宣称的那样，问题不仅在于概念的主观实现，而且在于思想和存在的命运，即思想和存在的统一；这要求同样强调历史过程的客观性。 这种历史的和批判的唯心主义，被波桑纳归因于黑格尔，具有政治革命性：它肯定了自由自觉的权利，反对任何不能在理性思维面前证明其存在合理性的积极制度，反对国家、宗教和社会等等。
 
-鲍威尔运用他的无限自觉的核心概念，这个术语取自黑格尔的主观精神理论，重新构建了黑格尔的绝对，将艺术和哲学紧密联系在一起，并将宗教排除在异化理性的形式之外，同时承认它过去的历史必然性。鲍威尔坚持普遍性在历史中的内在性，作为解放斗争和异化的记录，这是发现理性自治意义所必需的。鲍威尔的伦理唯心主义类似于康德所称的完善主义或_Vollkommenheit_，这是一种理性异律性的形式，其中之一的意义是行动通过对历史进步的贡献来验证。鲍威尔将完善主义和自治等同起来，作为对政治和社会关系与制度进行重塑的坚定承诺。主体通过摆脱特定利益并否定超验的普遍性，宗教和政治制度声称自己不可由自觉推导出来且不受历史影响，从而获得自治。鲍威尔谴责了旧制度及其复辟替代者，将其视为一种封建的监护制度和非理性特权。专制国家将普遍性自我归为己有，阻碍了人民的自我活动，并将其权威源泉隐藏在宗教神圣化的面纱之后。鲍威尔坚持认为，国家而不是宗教是主要的对手。在这种异化精神的秩序面前，他坚持认为决定性的政治问题是国家权威的来源，是传统和宗教制度的认可，还是民意的意愿。这个问题必须毫不妥协地解决。鲍威尔声称他的目标不仅仅是政治上的解放，而是社会解放。社会问题，黑格尔已经意识到的社会的极化和危机，不能通过直接呼吁某个阶级的特定利益来解决，而是通过共同的共和主义斗争来对抗多样化的特权。这场斗争的结果将是在社会生活的各个领域实现正义。
+鲍威尔运用他的无限自觉的核心概念，这个术语取自黑格尔的主观精神理论，重新构建了黑格尔的绝对，将艺术和哲学紧密联系在一起，并将宗教排除在异化理性的形式之外，同时承认它过去的历史必然性。鲍威尔坚持普遍性在历史中的内在性，作为解放斗争和异化的记录，这是发现理性自治意义所必需的。鲍威尔的伦理唯心主义类似于康德所称的完善主义或*Vollkommenheit*，这是一种理性异律性的形式，其中之一的意义是行动通过对历史进步的贡献来验证。鲍威尔将完善主义和自治等同起来，作为对政治和社会关系与制度进行重塑的坚定承诺。主体通过摆脱特定利益并否定超验的普遍性，宗教和政治制度声称自己不可由自觉推导出来且不受历史影响，从而获得自治。鲍威尔谴责了旧制度及其复辟替代者，将其视为一种封建的监护制度和非理性特权。专制国家将普遍性自我归为己有，阻碍了人民的自我活动，并将其权威源泉隐藏在宗教神圣化的面纱之后。鲍威尔坚持认为，国家而不是宗教是主要的对手。在这种异化精神的秩序面前，他坚持认为决定性的政治问题是国家权威的来源，是传统和宗教制度的认可，还是民意的意愿。这个问题必须毫不妥协地解决。鲍威尔声称他的目标不仅仅是政治上的解放，而是社会解放。社会问题，黑格尔已经意识到的社会的极化和危机，不能通过直接呼吁某个阶级的特定利益来解决，而是通过共同的共和主义斗争来对抗多样化的特权。这场斗争的结果将是在社会生活的各个领域实现正义。
 
 两篇文章分别写于 1842 年末和 1843 年初，《犹太问题》和《现代犹太人和基督徒成为自由人的能力》，详细阐述了鲍威尔对宗教意识和政治改革主义的批判。然而，它们的出版导致鲍威尔失去了在反对运动中的领导地位，因为他挑战了其中一个核心要求。问题是明确基督教国家普鲁士是否能够消除对犹太人参与公民机构的限制。自由派和共和派主张解放，保守派反对者则捍卫国家的专属信仰忠诚。鲍威尔的干预攻击了国家为维护特权而使用宗教作为掩饰其维持从属关系利益的手段；但他也批评犹太人及其支持者以特定宗教身份要求自由。政治和社会自由要求放弃与过去的所有特殊联系；因此，作为司法平等的先决条件，犹太人必须放弃他们的宗教忠诚，基督徒也必须如此。基督教证明了历史上更高程度的意识，因为它取消了神的外在性。但这并不是对犹太教的单方面进步，因为基督教，尤其是新教，将异化普遍化到生活的各个方面。基督教的优越性在于其根本的否定性，这使得过渡到一种新的、更高形式的伦理生活成为必要。通过加剧自决与自贬之间的矛盾，为一个时代性的解决铺平了道路。这些干预遭到了马克思和主要自由派代言人的谴责。鲍威尔坚持认为他的立场是正确的进步立场。
 
@@ -86,110 +86,110 @@ _首次发表于 2002 年 3 月 7 日；实质性修订于 2022 年 2 月 7 日_
 
 ### Major Works by Bruno Bauer, 1829–1882
 
-* _De pulchri principiis_. Prussian royal prize manuscript, first published as _Prinzipien des Schönen. De pulchri principiis. Eine Preisschrift_, hrsg. Douglas Moggach und Winfried Schultze, mit einem Vorwort von Volker Gerhardt, Berlin: Akademie Verlag, 1996. Italian-Latin edition: Douglas Moggach and Gabriele Schimmenti, eds., _Sui principi del bello_, Palermo University Press, Palermo, 2019
-* “Rezension: _Das Leben Jesu, kritisch bearbeitet_ von David Friedrich Strauss,” _Jahrbücher für wissenschaftliche Kritik_, Dec. 1835, no. 109, 879–880; no. 111, 891; no. 113, 905–912. May 1836, no. 86, 681–688; no. 88, 697–704.
-* _Kritik der Geschichte der Offenbarung. Die Religion des alten Testaments in der geschichtlichen Entwicklung ihrer Prinzipien dargestellt_, 2 vol., Berlin, 1838.
-* _Herr Dr. Hengstenberg_, Berlin, 1839.
-* (anon., 1st ed.) _Die evangelische Landeskirche Preußens und die Wissenschaft_, Leipzig, 1840; second edition, with author indicated, 1840.
-* _Kritik der evangelischen Geschichte des Johannes_, Bremen, 1840.
-* “Der christliche Staat und unsere Zeit,” _Hallische Jahrbücher für deutsche Wissenschaft und Kunst_, 7–12 June 1841, no 135–140, pp. 537–558.
-* _Kritik der evangelischen Geschichte der Synoptiker_, 2 vol. (Leipzig, 1841); _Kritik der evangelischen Geschichte der Synoptiker und des Johannes, Dritter und letzter Band_, Braunschweig, 1842.
-* (anon.) _Die Posaune des jüngsten Gerichts über Hegel den Atheisten und Antichristen. Ein Ultimatum_, Leipzig, 1841; _The Trumpet of the Last Judgement against Hegel the Atheist and Antichrist. An Ultimatum_, trans. L. Stepelevich, Lewiston, NY: E. Mellen Press, 1989.
-* _La Trompette du jugement dernier contre Hegel, l’athée et l’antéchrist. Un ultimatum_, 1841, trans. Henri-Alexis Baatsch, Paris: Aubier-Montaigne, 1972.
-* _La Trompette du jugement dernier_, trans. Henri-Alexis Baatsch, with a commentary by Nicolas Dessaux (“ De Marx comme trompettiste”), Paris: l’Échappée, 2016.
-* (anon.) _Hegels Lehre von der Religion und Kunst von dem Standpuncte des Glaubens aus beurtheilt_, Leipzig, 1842; new edition Aalen: Scientia Verlag, 1967.
-* _Die gute Sache der Freiheit und meine eigene Angelegenheit_, Zürich und Winterthur, 1842.
-* _Die Judenfrage_, Braunschweig, 1843.
-* articles in Arnold Ruge (ed.), _Anekdota zur neuesten deutschen Philosophie und Publizistik_, vol. 2, Zürich und Winterthur, 1843: “Leiden und Freuden des theologischen Bewußtseins”, 89–112; “Rezension: ‘Bremisches Magazin für evangelische Wahrheit gegenüber dem modernen Pietismus. Erstes Heft’”, 113–134; “Rezension: _Einleitung in die Dogmengeschichte_ von Theodor Kliefoth.”135–159; “Rezension: _Die Geschichte des Lebens Jesu mit steter Rücksicht auf die vorhandenen Quellen_ dargestellt von Dr. von Ammon. Leipzig, 1842” 160–185.
-* _Das entdeckte Christenthum. Eine Erinnerung an das 18. Jahrhundert und ein Beitrag zur Krisis des 19_, Zürich und Winterthur, 1843.
-* “Die Fähigkeit der heutigen Juden und Christen, frei zu werden,” in Georg Herwegh (ed.), _Einundzwanzig Bogen aus der Schweiz_, Zürich und Winterthur, 1843, 56–71.
-* _Geschichte der Politik, Kultur und AufklÄrung des achtzehnten Jahrhunderts_, 4 vols., Charlottenburg: 1843–45.
-* _Denkwürdigkeiten zur Geschichte der neueren Zeit seit der französischen Revolution_, Charlottenburg, 1843–1844.
-* _Briefwechsel zwischen Bruno Bauer und Edgar Bauer während der Jahre 1839–1842 aus Bonn und Berlin_, Charlottenburg, 1844.
-* “Was ist jetzt der Gegenstand der Kritik?” _Allg. Lit-Ztg_. VIII, July 1844, 18–26.
-* “Die Gattung und die Masse”, _Allg. Lit.-Ztg._ X, September 1844, 42–48.
-* _Acktenstücke zu den Verhandlungen über die Beschlagnahme der “Geschichte der Politik, Kultur und Aufklärung des achtzehnten Jahrhunderts”_, von Bruno Bauer. Teil I herausgegeben von Bruno Bauer, Christiania: Verlag von C.C. Werner, 1844.
-* (anon.)“Charakteristik Ludwig Feuerbachs,” _Wigands Vierteljahrschrift_ III, 1845, 86–146.
-* _Geschichte Deutschlands und der französischen Revolution unter der Herrschaft Napoleons_, 2 vols., Charlottenburg, 1846.
-* _Vollständige Geschichte der Parteikämpfe in Deutschland während der Jahre 1842–1846_, Charlottenburg, 1847.
-* “Erste Wahlrede von 1848,” and “Verteidigungsrede Bruno Bauers vor den Wahlmännern des Vierten Wahlbezirkes am 22.2. 1849,” in E. Barnikol, _Bruno Bauer: Studien und Materialien_, 518–531.
-* _Die bürgerliche Revolution in Deutschland seit dem Anfange der deutschkatholischen Bewegung_, Charlottenburg, 1849.
-* _Untergang des Frankfurter Parlaments_, Charlottenburg, 1849.
-* _Kritik der paulinischen Briefe_, Berlin, 1850–1851.
-* _Kritik der Evangelien und Geschichte ihres Ursprungs_, 3 vol., Berlin, 1850–1851; 4th vol. under the title _Die theologische Erklärung der Evangelien_, Berlin, 1852.
-* “The Present Position of the Jews,” _New York Daily Tribune_, June 7, 1852.
-* _Russland und das Germanenthum_, 2 vol., Charlottenburg, 1853.
-* _De la dictature occidentale_, Charlottenburg, 1854.
-* _Deutschland und das Russenthum_, Charlottenburg, 1854.
-* _Die russische Kirche. Schlussheft_, Charlottenburg, 1855.
-* _Das Judenthum in der Fremde. Separat-Abdruck aus dem Wagener’schen Staats- und Gesellschaftslexikon_, Berlin, 1863.
-* _Freimaurer, Jesuiten und Illuminaten in ihrem geschichtlichen Zusammenhange_, Berlin, 1863.
-* _Philo, Strauss und Renan und das Urchristenthum_, Berlin, 1874.
-* _Einfluss des englischen Quäkerthums auf die deutsche Cultur und auf das englisch-russische Project einer Weltkirche_, Berlin, 1878.
-* _Christus und die Cäsaren. Der Ursprung des Christenthums aus dem römischen Griechenthum_, Berlin, 1879.
-* _Zur Orientierung über die Bismarck’sche Ära_, Chemnitz, 1880.
-* _Disraelis romantischer und Bismarcks socialistischer Imperialismus_, Chemnitz, 1882.
+* *De pulchri principiis*. Prussian royal prize manuscript, first published as *Prinzipien des Schönen. De pulchri principiis. Eine Preisschrift*, hrsg. Douglas Moggach und Winfried Schultze, mit einem Vorwort von Volker Gerhardt, Berlin: Akademie Verlag, 1996. Italian-Latin edition: Douglas Moggach and Gabriele Schimmenti, eds., *Sui principi del bello*, Palermo University Press, Palermo, 2019
+* “Rezension: *Das Leben Jesu, kritisch bearbeitet* von David Friedrich Strauss,” *Jahrbücher für wissenschaftliche Kritik*, Dec. 1835, no. 109, 879–880; no. 111, 891; no. 113, 905–912. May 1836, no. 86, 681–688; no. 88, 697–704.
+* *Kritik der Geschichte der Offenbarung. Die Religion des alten Testaments in der geschichtlichen Entwicklung ihrer Prinzipien dargestellt*, 2 vol., Berlin, 1838.
+* *Herr Dr. Hengstenberg*, Berlin, 1839.
+* (anon., 1st ed.) *Die evangelische Landeskirche Preußens und die Wissenschaft*, Leipzig, 1840; second edition, with author indicated, 1840.
+* *Kritik der evangelischen Geschichte des Johannes*, Bremen, 1840.
+* “Der christliche Staat und unsere Zeit,” *Hallische Jahrbücher für deutsche Wissenschaft und Kunst*, 7–12 June 1841, no 135–140, pp. 537–558.
+* *Kritik der evangelischen Geschichte der Synoptiker*, 2 vol. (Leipzig, 1841); *Kritik der evangelischen Geschichte der Synoptiker und des Johannes, Dritter und letzter Band*, Braunschweig, 1842.
+* (anon.) *Die Posaune des jüngsten Gerichts über Hegel den Atheisten und Antichristen. Ein Ultimatum*, Leipzig, 1841; *The Trumpet of the Last Judgement against Hegel the Atheist and Antichrist. An Ultimatum*, trans. L. Stepelevich, Lewiston, NY: E. Mellen Press, 1989.
+* *La Trompette du jugement dernier contre Hegel, l’athée et l’antéchrist. Un ultimatum*, 1841, trans. Henri-Alexis Baatsch, Paris: Aubier-Montaigne, 1972.
+* *La Trompette du jugement dernier*, trans. Henri-Alexis Baatsch, with a commentary by Nicolas Dessaux (“ De Marx comme trompettiste”), Paris: l’Échappée, 2016.
+* (anon.) *Hegels Lehre von der Religion und Kunst von dem Standpuncte des Glaubens aus beurtheilt*, Leipzig, 1842; new edition Aalen: Scientia Verlag, 1967.
+* *Die gute Sache der Freiheit und meine eigene Angelegenheit*, Zürich und Winterthur, 1842.
+* *Die Judenfrage*, Braunschweig, 1843.
+* articles in Arnold Ruge (ed.), *Anekdota zur neuesten deutschen Philosophie und Publizistik*, vol. 2, Zürich und Winterthur, 1843: “Leiden und Freuden des theologischen Bewußtseins”, 89–112; “Rezension: ‘Bremisches Magazin für evangelische Wahrheit gegenüber dem modernen Pietismus. Erstes Heft’”, 113–134; “Rezension: *Einleitung in die Dogmengeschichte* von Theodor Kliefoth.”135–159; “Rezension: *Die Geschichte des Lebens Jesu mit steter Rücksicht auf die vorhandenen Quellen* dargestellt von Dr. von Ammon. Leipzig, 1842” 160–185.
+* *Das entdeckte Christenthum. Eine Erinnerung an das 18. Jahrhundert und ein Beitrag zur Krisis des 19*, Zürich und Winterthur, 1843.
+* “Die Fähigkeit der heutigen Juden und Christen, frei zu werden,” in Georg Herwegh (ed.), *Einundzwanzig Bogen aus der Schweiz*, Zürich und Winterthur, 1843, 56–71.
+* *Geschichte der Politik, Kultur und AufklÄrung des achtzehnten Jahrhunderts*, 4 vols., Charlottenburg: 1843–45.
+* *Denkwürdigkeiten zur Geschichte der neueren Zeit seit der französischen Revolution*, Charlottenburg, 1843–1844.
+* *Briefwechsel zwischen Bruno Bauer und Edgar Bauer während der Jahre 1839–1842 aus Bonn und Berlin*, Charlottenburg, 1844.
+* “Was ist jetzt der Gegenstand der Kritik?” *Allg. Lit-Ztg*. VIII, July 1844, 18–26.
+* “Die Gattung und die Masse”, *Allg. Lit.-Ztg.* X, September 1844, 42–48.
+* *Acktenstücke zu den Verhandlungen über die Beschlagnahme der “Geschichte der Politik, Kultur und Aufklärung des achtzehnten Jahrhunderts”*, von Bruno Bauer. Teil I herausgegeben von Bruno Bauer, Christiania: Verlag von C.C. Werner, 1844.
+* (anon.)“Charakteristik Ludwig Feuerbachs,” *Wigands Vierteljahrschrift* III, 1845, 86–146.
+* *Geschichte Deutschlands und der französischen Revolution unter der Herrschaft Napoleons*, 2 vols., Charlottenburg, 1846.
+* *Vollständige Geschichte der Parteikämpfe in Deutschland während der Jahre 1842–1846*, Charlottenburg, 1847.
+* “Erste Wahlrede von 1848,” and “Verteidigungsrede Bruno Bauers vor den Wahlmännern des Vierten Wahlbezirkes am 22.2. 1849,” in E. Barnikol, *Bruno Bauer: Studien und Materialien*, 518–531.
+* *Die bürgerliche Revolution in Deutschland seit dem Anfange der deutschkatholischen Bewegung*, Charlottenburg, 1849.
+* *Untergang des Frankfurter Parlaments*, Charlottenburg, 1849.
+* *Kritik der paulinischen Briefe*, Berlin, 1850–1851.
+* *Kritik der Evangelien und Geschichte ihres Ursprungs*, 3 vol., Berlin, 1850–1851; 4th vol. under the title *Die theologische Erklärung der Evangelien*, Berlin, 1852.
+* “The Present Position of the Jews,” *New York Daily Tribune*, June 7, 1852.
+* *Russland und das Germanenthum*, 2 vol., Charlottenburg, 1853.
+* *De la dictature occidentale*, Charlottenburg, 1854.
+* *Deutschland und das Russenthum*, Charlottenburg, 1854.
+* *Die russische Kirche. Schlussheft*, Charlottenburg, 1855.
+* *Das Judenthum in der Fremde. Separat-Abdruck aus dem Wagener’schen Staats- und Gesellschaftslexikon*, Berlin, 1863.
+* *Freimaurer, Jesuiten und Illuminaten in ihrem geschichtlichen Zusammenhange*, Berlin, 1863.
+* *Philo, Strauss und Renan und das Urchristenthum*, Berlin, 1874.
+* *Einfluss des englischen Quäkerthums auf die deutsche Cultur und auf das englisch-russische Project einer Weltkirche*, Berlin, 1878.
+* *Christus und die Cäsaren. Der Ursprung des Christenthums aus dem römischen Griechenthum*, Berlin, 1879.
+* *Zur Orientierung über die Bismarck’sche Ära*, Chemnitz, 1880.
+* *Disraelis romantischer und Bismarcks socialistischer Imperialismus*, Chemnitz, 1882.
 
 ### Journals edited by Bruno Bauer
 
-* _Zeitschrift für spekulative Theologie_, Berlin, three volumes, 1836–1838.
-* _Allgemeine Literatur-Zeitung_, Charlottenburg, 12 issues December 1843–October 1844. Second edition under the title: _Streit der Kritik mit den modernen Gegensätzen_, Charlottenburg, 1847.
-* _Norddeutsche Blätter. Eine Monatschrift für Kritik, Literatur und Unterhaltung_, Charlottenburg. 10 issues July 1844–April 1845. Second edition under the title: _Beiträge zum Feldzuge der Kritik. Norddeutsche Blätter für 1844 und 1845_, Berlin, 1846.
-* collaboration in Friedrich Wilhelm Hermann Wagener, ed., _Neues Conversations-Lexikon. Staats- und Gesellschafts-Lexikon_, 23 vol., Berlin, 1859–1867.
-* collaboration in _Schmeitzner’s Internationale Monatsschrift. Zeitschrift für allgemeine nationale Kultur und deren Literatur_, Chemnitz, 1882.
+* *Zeitschrift für spekulative Theologie*, Berlin, three volumes, 1836–1838.
+* *Allgemeine Literatur-Zeitung*, Charlottenburg, 12 issues December 1843–October 1844. Second edition under the title: *Streit der Kritik mit den modernen Gegensätzen*, Charlottenburg, 1847.
+* *Norddeutsche Blätter. Eine Monatschrift für Kritik, Literatur und Unterhaltung*, Charlottenburg. 10 issues July 1844–April 1845. Second edition under the title: *Beiträge zum Feldzuge der Kritik. Norddeutsche Blätter für 1844 und 1845*, Berlin, 1846.
+* collaboration in Friedrich Wilhelm Hermann Wagener, ed., *Neues Conversations-Lexikon. Staats- und Gesellschafts-Lexikon*, 23 vol., Berlin, 1859–1867.
+* collaboration in *Schmeitzner’s Internationale Monatsschrift. Zeitschrift für allgemeine nationale Kultur und deren Literatur*, Chemnitz, 1882.
 
 ### Secondary Sources
 
 #### Books and Articles
 
-* Barnikol, Ernst, 1972, _Bruno Bauer, Studien und Materialien_, aus dem Nachlass ausgewählt und zusammengestellt von P. Riemer und H.-M. Sass, Assen: van Gorcum.
-* Brazill, W.J., 1970, _The Young Hegelians_, New Haven: Yale University Press.
-* Brudney, Daniel, 1998, _Marx’s Attempt to Leave Philosophy_, Cambridge, MA: Harvard University Press.
-* Cesa, Claudio, 1972, _Studi sulla Sinistra hegeliana_, Urbino: Argalia.
-* de Vos, Lu, 2012, “Rezension: _The New Hegelians_, ed. Douglas Moggach” _Hegel-Studien_, 46: 283–285
-* Engels, Friedrich, 1882, “Bruno Bauer und das Urchristentum,” _Sozialdemokrat_, May 4 and 11.
-* Eßbach, Wolfgang, 1988, _Die Junghegelianer. Soziologie einer Intellektuellengruppe_, München: Wilhelm Fink Verlag.
-* Gargano, Antonio, 2003, _Bruno Bauer_, Naples: Città del Sole.
-* Greiert, Andreas, 2020, “‘Kritische Kritik’ und ‘pathische Projektion’. Elemente des modernen Antisemitismus bei Bruno Bauer,” _Zeitschrift für kritische Theorie_, 50/51: 109–29.
-* Haym, Rudolf, 1857, _Hegel und seine Zeit_, Berlin: Gaertner.
-* Hertz-Eichenrode, Dieter, 1959, _Der Junghegelianer Bruno Bauer im Vormärz_. Inauguraldissertation, Berlin: Freie Universität.
-* Hundt, Martin, ed., 2010, _Der Redaktionsbriefwechsel der Hallischen, Deutschen und Deutsch-Französischen Jahrbücher (1837–1844)_, 3 volumes, Berlin: Akademie Verlag.
-* Kangal, Kaan, 2020, “Marx’s ‘Bonn Notebooks’ in Context: Reconsidering the Relationship between Bruno Bauer and Karl Marx Between 1839 and 1842,” _Historical Materialism_, 28 (4): 102–38.
-* Kautsky, Karl, 1908, _Der Ursprung des Christentums_, Stuttgart: Dietz.
-* Kautsky, Karl, 1915, _Nationalstaat, imperialistischer Staat und Staatenbund_, Nürnberg: Fränkische Verlagsanstalt.
-* Kodalle, Klaus-M. and Tilman Reitz, eds., 2010, _Bruno Bauer (1809–1882): Ein “Partisan des Weltgeistes”?_, Würzburg: Königshausen & Neumann.
-* Leopold, David, 1999, “The Hegelian Antisemitism of Bruno Bauer,” _History of European Ideas_, 25: 179–206.
-* Leopold, David, 2007, _The Young Karl Marx: German Philosophy, Modern Politics, and Human Flourishing_, Cambridge: Cambridge University Press.
-* Löwith, Karl, 1967, _From Hegel to Nietzsche_, Garden City: Doubleday.
-* Mah, Harold, 1987, _The End of Philosophy and the Origin of Ideology. Karl Marx and the Crisis of the Young Hegelians_, Berkeley: University of California Press.
-* Marx, Karl, 1975, “On the Jewish Question,” _Collected Works_, vol. 3, New York: International Publishers, 146–74.
-* Marx, Karl, Frederick Engels, 1975, “The Holy Family, or Critique of Critical Criticism,” _Collected Works_, vol. 4, New York: International Publishers, 5–211; “The German Ideology,” _Collected Works_, vol. 5, New York: International Publishers, 1976, 19–539.
-* Mayer, Gustav, 1913, “Die Anfänge des politischen Radikalismus im vormärzlichen Preußen,” _Zeitschrift für Politik_, Heft 1, Sonderdruck, 1–113.
-* McLellan, David, 1969, _The Young Hegelians and Karl Marx_, Toronto: Macmillan.
-* Moggach, Douglas, 2003, _The Philosophy and Politics of Bruno Bauer_, Cambridge: Cambridge University Press; German translation, 2009 _Philosophie und Politik bei Bruno Bauer_, trans. Brita Isabel Oeding, _Forschungen zum Junghegelianismus_, Frankfurt: Lang.
-* Moggach, Douglas (ed.), 2006, _The New Hegelians: Politics and Philosophy in the Hegelian School_, Cambridge: Cambridge University Press.
-* Moggach, Douglas, 2011, “Post-Kantian Perfectionism,” in Douglas Moggach, ed., _Politics, Religion, and Art: Hegelian Debates_, Evanston, IL: Northwestern University Press, pp. 179–200.
-* Peled, Yoav, 1992, “From Theology to Sociology: Bruno Bauer and Karl Marx on the Question of Jewish Emancipation,” _History of Political Thought_, 13(3): 463–85.
-* Pepperle, Ingrid, 1978, _Junghegelianische Geschichtsphilosophie und Kunsttheorie_, Berlin: Akademie Verlag.
-* Quante, Michael, 2010, “Rezension: _Der Redaktionsbriefwechsel der Hallischen, Deutschen und Deutsch-Französischen Jahrbücher (1837–1844)_, Hrsg. Martin Hundt”, _Hegel-Studien_, 45: 197–202.
-* Rambaldi, Enrico, 1966, _Le origini della sinistra hegeliana_, Florence: Nuova Italia.
-* Rosen, Zvi, 1978, _Bruno Bauer and Karl Marx_, The Hague: Nijhoff.
-* Rossi, Mario, 1974, _Da Hegel a Marx III: La Scuola Hegeliana. Il giovane Marx_, 2nd edition, Milan: Feltrinelli.
-* Sass, Hans-Martin, 1967, “Bruno Bauers Idee der Rheinischen Zeitung”, _Zeitschrift für Religions- und Geistesgeschichte_, 19: 221–276.
-* Sass, Hans-Martin, 1978, “Bruno Bauer’s Critical Theory,” _Philosophical Forum_, 8: 93–103.
-* Schimmenti, Gabriele, 2020, “Bruno Bauer’s Critical Theory of Art and Hegel’s Lectures on Aesthetics in 1828–29,” _Studi di Estetica_, 16: 147–64.
-* –––, 2021, _L’arte contesa. L’estetica, la sinistra hegeliana e il giovane Marx_, Naples, Salerno: Orthotes.
-* Schweitzer, Albert, 1998, _The Quest of the Historical Jesus. A Critical Study of its Progress from Reimarus to Wrede_, Baltimore: Johns Hopkins University Press.
-* Schläger, Eduard, 1882, “Bruno Bauer und seine Werke,” _Schmeitzner’s Internationale Monatsschrift_, vol. 1, Chemnitz, 377–400.
-* Sorensen, Michael Kuur, 2011, _Young Hegelians Before and After 1848. When Theory Meets Reality_, Frankfurt am Main: Lang.
-* Sorensen, Michael Kuur, and Douglas Moggach, 2020, “‘The Republic of Self-Consciousness’. Bruno Bauer’s Post-Kantian Perfectionism,” in Douglas Moggach, Nadine Mooren, and Michael Quante (eds.), _Perfektionismus der Autonomie_, Paderborn: Fink/Brill, pp. 203–26.
-* Stepelevich, L.S., ed., 1983, _The Young Hegelians, An Anthology_, Cambridge: Cambridge University Press.
-* Stuke, Horst, 1963, _Philosophie der Tat, Studien zur ‘Verwirklichung der Philosophie’ bei den Junghegelianern und den Wahren Sozialisten_, Stuttgart: Ernst Klett Verlag.
-* Toews, J.E., 1980, _Hegelianism. The Path toward Dialectical Humanism_, Cambridge: Cambridge University Press.
-* Tomba, Massimiliano, 2002, _Crisi e critica in Bruno Bauer. Il principio di esclusione come fondamento del politico_, Naples: Bibliopolis; translated as _Krise und Kritik bei Bruno Bauer. Kategorien des Politischen im nachhegelschen Denken_, Frankfurt am Main: Peter Lang, 2005.
-* van den Bergh van Eysinga, G.A., 1963, “Aus einer unveröffentlichten Biographie von Bruno Bauer. Bruno Bauer in Bonn 1839–1842,” _Annali Feltrinelli_, 329–386.
-* Waser, Ruedi, 1994, _Autonomie des Selbstbewußtseins. Eine Untersuchung zum Verhältnis von Bruno Bauer und Karl Marx (1835–1843)_, Tübingen: Francke Verlag.
-* Zanardo, Aldo, 1966, “Bruno Bauer hegeliano e giovane hegeliano,” _Rivista critica di storia della filosofia_, 189–210, 293–327.
+* Barnikol, Ernst, 1972, *Bruno Bauer, Studien und Materialien*, aus dem Nachlass ausgewählt und zusammengestellt von P. Riemer und H.-M. Sass, Assen: van Gorcum.
+* Brazill, W.J., 1970, *The Young Hegelians*, New Haven: Yale University Press.
+* Brudney, Daniel, 1998, *Marx’s Attempt to Leave Philosophy*, Cambridge, MA: Harvard University Press.
+* Cesa, Claudio, 1972, *Studi sulla Sinistra hegeliana*, Urbino: Argalia.
+* de Vos, Lu, 2012, “Rezension: *The New Hegelians*, ed. Douglas Moggach” *Hegel-Studien*, 46: 283–285
+* Engels, Friedrich, 1882, “Bruno Bauer und das Urchristentum,” *Sozialdemokrat*, May 4 and 11.
+* Eßbach, Wolfgang, 1988, *Die Junghegelianer. Soziologie einer Intellektuellengruppe*, München: Wilhelm Fink Verlag.
+* Gargano, Antonio, 2003, *Bruno Bauer*, Naples: Città del Sole.
+* Greiert, Andreas, 2020, “‘Kritische Kritik’ und ‘pathische Projektion’. Elemente des modernen Antisemitismus bei Bruno Bauer,” *Zeitschrift für kritische Theorie*, 50/51: 109–29.
+* Haym, Rudolf, 1857, *Hegel und seine Zeit*, Berlin: Gaertner.
+* Hertz-Eichenrode, Dieter, 1959, *Der Junghegelianer Bruno Bauer im Vormärz*. Inauguraldissertation, Berlin: Freie Universität.
+* Hundt, Martin, ed., 2010, *Der Redaktionsbriefwechsel der Hallischen, Deutschen und Deutsch-Französischen Jahrbücher (1837–1844)*, 3 volumes, Berlin: Akademie Verlag.
+* Kangal, Kaan, 2020, “Marx’s ‘Bonn Notebooks’ in Context: Reconsidering the Relationship between Bruno Bauer and Karl Marx Between 1839 and 1842,” *Historical Materialism*, 28 (4): 102–38.
+* Kautsky, Karl, 1908, *Der Ursprung des Christentums*, Stuttgart: Dietz.
+* Kautsky, Karl, 1915, *Nationalstaat, imperialistischer Staat und Staatenbund*, Nürnberg: Fränkische Verlagsanstalt.
+* Kodalle, Klaus-M. and Tilman Reitz, eds., 2010, *Bruno Bauer (1809–1882): Ein “Partisan des Weltgeistes”?*, Würzburg: Königshausen & Neumann.
+* Leopold, David, 1999, “The Hegelian Antisemitism of Bruno Bauer,” *History of European Ideas*, 25: 179–206.
+* Leopold, David, 2007, *The Young Karl Marx: German Philosophy, Modern Politics, and Human Flourishing*, Cambridge: Cambridge University Press.
+* Löwith, Karl, 1967, *From Hegel to Nietzsche*, Garden City: Doubleday.
+* Mah, Harold, 1987, *The End of Philosophy and the Origin of Ideology. Karl Marx and the Crisis of the Young Hegelians*, Berkeley: University of California Press.
+* Marx, Karl, 1975, “On the Jewish Question,” *Collected Works*, vol. 3, New York: International Publishers, 146–74.
+* Marx, Karl, Frederick Engels, 1975, “The Holy Family, or Critique of Critical Criticism,” *Collected Works*, vol. 4, New York: International Publishers, 5–211; “The German Ideology,” *Collected Works*, vol. 5, New York: International Publishers, 1976, 19–539.
+* Mayer, Gustav, 1913, “Die Anfänge des politischen Radikalismus im vormärzlichen Preußen,” *Zeitschrift für Politik*, Heft 1, Sonderdruck, 1–113.
+* McLellan, David, 1969, *The Young Hegelians and Karl Marx*, Toronto: Macmillan.
+* Moggach, Douglas, 2003, *The Philosophy and Politics of Bruno Bauer*, Cambridge: Cambridge University Press; German translation, 2009 *Philosophie und Politik bei Bruno Bauer*, trans. Brita Isabel Oeding, *Forschungen zum Junghegelianismus*, Frankfurt: Lang.
+* Moggach, Douglas (ed.), 2006, *The New Hegelians: Politics and Philosophy in the Hegelian School*, Cambridge: Cambridge University Press.
+* Moggach, Douglas, 2011, “Post-Kantian Perfectionism,” in Douglas Moggach, ed., *Politics, Religion, and Art: Hegelian Debates*, Evanston, IL: Northwestern University Press, pp. 179–200.
+* Peled, Yoav, 1992, “From Theology to Sociology: Bruno Bauer and Karl Marx on the Question of Jewish Emancipation,” *History of Political Thought*, 13(3): 463–85.
+* Pepperle, Ingrid, 1978, *Junghegelianische Geschichtsphilosophie und Kunsttheorie*, Berlin: Akademie Verlag.
+* Quante, Michael, 2010, “Rezension: *Der Redaktionsbriefwechsel der Hallischen, Deutschen und Deutsch-Französischen Jahrbücher (1837–1844)*, Hrsg. Martin Hundt”, *Hegel-Studien*, 45: 197–202.
+* Rambaldi, Enrico, 1966, *Le origini della sinistra hegeliana*, Florence: Nuova Italia.
+* Rosen, Zvi, 1978, *Bruno Bauer and Karl Marx*, The Hague: Nijhoff.
+* Rossi, Mario, 1974, *Da Hegel a Marx III: La Scuola Hegeliana. Il giovane Marx*, 2nd edition, Milan: Feltrinelli.
+* Sass, Hans-Martin, 1967, “Bruno Bauers Idee der Rheinischen Zeitung”, *Zeitschrift für Religions- und Geistesgeschichte*, 19: 221–276.
+* Sass, Hans-Martin, 1978, “Bruno Bauer’s Critical Theory,” *Philosophical Forum*, 8: 93–103.
+* Schimmenti, Gabriele, 2020, “Bruno Bauer’s Critical Theory of Art and Hegel’s Lectures on Aesthetics in 1828–29,” *Studi di Estetica*, 16: 147–64.
+* –––, 2021, *L’arte contesa. L’estetica, la sinistra hegeliana e il giovane Marx*, Naples, Salerno: Orthotes.
+* Schweitzer, Albert, 1998, *The Quest of the Historical Jesus. A Critical Study of its Progress from Reimarus to Wrede*, Baltimore: Johns Hopkins University Press.
+* Schläger, Eduard, 1882, “Bruno Bauer und seine Werke,” *Schmeitzner’s Internationale Monatsschrift*, vol. 1, Chemnitz, 377–400.
+* Sorensen, Michael Kuur, 2011, *Young Hegelians Before and After 1848. When Theory Meets Reality*, Frankfurt am Main: Lang.
+* Sorensen, Michael Kuur, and Douglas Moggach, 2020, “‘The Republic of Self-Consciousness’. Bruno Bauer’s Post-Kantian Perfectionism,” in Douglas Moggach, Nadine Mooren, and Michael Quante (eds.), *Perfektionismus der Autonomie*, Paderborn: Fink/Brill, pp. 203–26.
+* Stepelevich, L.S., ed., 1983, *The Young Hegelians, An Anthology*, Cambridge: Cambridge University Press.
+* Stuke, Horst, 1963, *Philosophie der Tat, Studien zur ‘Verwirklichung der Philosophie’ bei den Junghegelianern und den Wahren Sozialisten*, Stuttgart: Ernst Klett Verlag.
+* Toews, J.E., 1980, *Hegelianism. The Path toward Dialectical Humanism*, Cambridge: Cambridge University Press.
+* Tomba, Massimiliano, 2002, *Crisi e critica in Bruno Bauer. Il principio di esclusione come fondamento del politico*, Naples: Bibliopolis; translated as *Krise und Kritik bei Bruno Bauer. Kategorien des Politischen im nachhegelschen Denken*, Frankfurt am Main: Peter Lang, 2005.
+* van den Bergh van Eysinga, G.A., 1963, “Aus einer unveröffentlichten Biographie von Bruno Bauer. Bruno Bauer in Bonn 1839–1842,” *Annali Feltrinelli*, 329–386.
+* Waser, Ruedi, 1994, *Autonomie des Selbstbewußtseins. Eine Untersuchung zum Verhältnis von Bruno Bauer und Karl Marx (1835–1843)*, Tübingen: Francke Verlag.
+* Zanardo, Aldo, 1966, “Bruno Bauer hegeliano e giovane hegeliano,” *Rivista critica di storia della filosofia*, 189–210, 293–327.
 
 ## Academic Tools
 
@@ -208,4 +208,4 @@ _首次发表于 2002 年 3 月 7 日；实质性修订于 2022 年 2 月 7 日_
 [Feuerbach, Ludwig Andreas](https://plato.stanford.edu/entries/ludwig-feuerbach/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Kant, Immanuel: social and political philosophy](https://plato.stanford.edu/entries/kant-social-political/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [Stirner, Max](https://plato.stanford.edu/entries/max-stirner/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Douglas Moggach <[_dmoggach@uottawa.ca_](mailto:dmoggach%40uottawa%2eca)>
+Douglas Moggach <[*dmoggach@uottawa.ca*](mailto:dmoggach%40uottawa%2eca)>

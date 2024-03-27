@@ -143,8 +143,8 @@
   * [阿拉伯和伊斯兰心理学与心灵哲学 psychology and philosophy of mind (Alfred Ivry)](a/a-la-bo-he-yi-si-lan-zhe-xue-xiang-guan-arabic-and-islamic-philosophy-disciplines-in/a-la-bo-he-yi-si-lan-xin-li-xue-yu-xin-ling-zhe-xue-psychology-and-philosophy-of-mind-alfred-ivry.md)
 * [\*阿拉伯和伊斯兰哲学中的历史和方法论相关 Arabic and Islamic Philosophy, historical and methodological topics in](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-li-shi-he-fang-fa-lun-xiang-guan-arabic-and-islamic-philosophy/README.md)
   * [阿拉伯和伊斯兰哲学中的希腊文献 Greek sources (Cristina D’Ancona)](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-li-shi-he-fang-fa-lun-xiang-guan-arabic-and-islamic-philosophy/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-xi-la-wen-xian-greek-sources-cristina-dancona.md)
-  * [阿拉伯和伊斯兰哲学对犹太思想的影响 influence of Arabic and Islamic Philosophy on Judaic thought (Mauro Zonta and Char](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-li-shi-he-fang-fa-lun-xiang-guan-arabic-and-islamic-philosophy/a-la-bo-he-yi-si-lan-zhe-xue-dui-you-tai-si-xiang-de-ying-xiang-influence-of-arabic-and-islamic-phil.md)
-  * [阿拉伯和伊斯兰哲学对西方拉丁世界的影响 influence of Arabic and Islamic Philosophy on the Latin West (Dag Nikolaus Hasse](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-li-shi-he-fang-fa-lun-xiang-guan-arabic-and-islamic-philosophy/a-la-bo-he-yi-si-lan-zhe-xue-dui-xi-fang-la-ding-shi-jie-de-ying-xiang-influence-of-arabic-and-islam.md)
+  * [阿拉伯和伊斯兰哲学对犹太思想的影响 influence of Arabic and Islamic Philosophy on Judaic thought (Mauro Zonta and Charles Manekin)](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-li-shi-he-fang-fa-lun-xiang-guan-arabic-and-islamic-philosophy/a-la-bo-he-yi-si-lan-zhe-xue-dui-you-tai-si-xiang-de-ying-xiang-influence-of-arabic-and-islamic-phil.md)
+  * [阿拉伯和伊斯兰哲学对西方拉丁世界的影响 influence of Arabic and Islamic Philosophy on the Latin West (Dag Nikolaus Hasse)](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-li-shi-he-fang-fa-lun-xiang-guan-arabic-and-islamic-philosophy/a-la-bo-he-yi-si-lan-zhe-xue-dui-xi-fang-la-ding-shi-jie-de-ying-xiang-influence-of-arabic-and-islam.md)
 * [\*阿拉伯和伊斯兰哲学中的特色主题 Arabic and Islamic Philosophy, special topics in](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-te-se-zhu-ti-arabic-and-islamic-philosophy-special-topics-in/README.md)
   * [\*伊本·凯姆那——见伊本·凯姆那 Ibn Kammūna — see Ibn Kammūna](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-te-se-zhu-ti-arabic-and-islamic-philosophy-special-topics-in/yi-ben-kai-mu-na-jian-yi-ben-kai-mu-na-ibn-kammna-see-ibn-kammna.md)
   * [\*精诚兄弟社——见精诚兄弟社 Ikhwân al-Safâ’ — see Ikhwân al-Safâ’](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-te-se-zhu-ti-arabic-and-islamic-philosophy-special-topics-in/jing-cheng-xiong-di-she-jian-jing-cheng-xiong-di-she-ikhwn-alsaf-see-ikhwn-alsaf.md)
@@ -335,10 +335,10 @@
   * [约瑟夫·巴特勒的伦理学 moral philosophy (Aaron Garrett)](b/yue-se-fu-ba-te-le-butler-joseph/yue-se-fu-ba-te-le-de-lun-li-xue-moral-philosophy-aaron-garrett.md)
 * [拜占庭哲学 Byzantine Philosophy (Katerina Ierodiakonou and Börje Bydén)](b/bai-zhan-ting-zhe-xue-byzantine-philosophy-katerina-ierodiakonou-and-brje-bydn.md)
 
-## C
+## B
 
-* [\*爱德华·凯尔德——见 19 世纪苏格兰哲学 Caird, Edward — see Scottish Philosophy: in the 19th century](c/ai-de-hua-kai-er-de-jian-19-shi-ji-su-ge-lan-zhe-xue-caird-edward-see-scottish-philosophy-in-the-19t.md)
-* [\*卡利克勒斯——见柏拉图：卡利克勒斯和塞拉西马柯 Callicles — see Plato: Callicles and Thrasymachus](c/ka-li-ke-le-si-jian-bai-la-tu-ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-see-plato-callicles-and-th.md)
-* [剑桥柏拉图派 Cambridge Platonists (Sarah Hutton)](c/jian-qiao-bai-la-tu-pai-cambridge-platonists-sarah-hutton.md)
-* [托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)](c/tuo-ma-si-kang-pa-nei-la-campanella-tommaso-germana-ernst-and-jeanpaul-de-lucca.md)
-* [乔治·坎贝尔——见 18 世纪苏格兰哲学 Campbell, George — see Scottish Philosophy: in the 18th Century](c/qiao-zhi-kan-bei-er-jian-18-shi-ji-su-ge-lan-zhe-xue-campbell-george-see-scottish-philosophy-in-the.md)
+* [\*爱德华·凯尔德——见 19 世纪苏格兰哲学 Caird, Edward — see Scottish Philosophy: in the 19th century](b-1/ai-de-hua-kai-er-de-jian-19-shi-ji-su-ge-lan-zhe-xue-caird-edward-see-scottish-philosophy-in-the-19t.md)
+* [\*卡利克勒斯——见柏拉图：卡利克勒斯和塞拉西马柯 Callicles — see Plato: Callicles and Thrasymachus](b-1/ka-li-ke-le-si-jian-bai-la-tu-ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-see-plato-callicles-and-th.md)
+* [剑桥柏拉图派 Cambridge Platonists (Sarah Hutton)](b-1/jian-qiao-bai-la-tu-pai-cambridge-platonists-sarah-hutton.md)
+* [托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)](b-1/tuo-ma-si-kang-pa-nei-la-campanella-tommaso-germana-ernst-and-jeanpaul-de-lucca.md)
+* [乔治·坎贝尔——见 18 世纪苏格兰哲学 Campbell, George — see Scottish Philosophy: in the 18th Century](b-1/qiao-zhi-kan-bei-er-jian-18-shi-ji-su-ge-lan-zhe-xue-campbell-george-see-scottish-philosophy-in-the.md)

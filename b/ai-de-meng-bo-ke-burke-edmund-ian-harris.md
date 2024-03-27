@@ -1,6 +1,6 @@
 # 埃德蒙·伯克 Burke, Edmund (Ian Harris)
 
-_首次发表于 2004 年 2 月 23 日星期一；实质性修订于 2020 年 5 月 24 日星期日_
+*首次发表于 2004 年 2 月 23 日星期一；实质性修订于 2020 年 5 月 24 日星期日*
 
 埃德蒙·伯克，《法国革命反思录》的作者，被广泛认为是一位经典的政治思想家：人们较少了解的是，他的知识成就取决于他对哲学的理解以及在实践著作和演讲中对其的运用，而这些是他主要以此而闻名的。本文探讨了他在政治思想中运用哲学的特点和意义。这一思想对知识史和政治行为至关重要。本文是首次尝试审视其哲学特性，并将后者与伯克的政治活动联系起来。通过这样做，它展示了伯克思想中哲学元素的重要性，以及这些元素对他的政治思想产生的重要影响。
 
@@ -61,13 +61,13 @@ Locke 的《人类理解论》于 1690 年首次尝试对心灵运作进行全�
 
 换句话说，伯克不仅能够思考自己的主张分组，还能够思考它们的对立面。这无疑反映了他思维的其他特征，除了他对复杂思想的理解之外，比如在修辞学本科学习中获得的看到任何论点的优势和反面的技巧；这也反映了他在辩论社团开始的多才多艺的习惯，因为在那里演讲者被要求扮演角色；毫无疑问，这再次让人想起伯克本科时对戏剧的兴趣。然而，除了所有这些之外，它还表明，在经验摆在伯克面前的重大议题中——宗教、道德、艺术和科学——论点并没有产生一个压倒性的决定性案例。因为《自然社会的辩护》似乎也提出了反对他所支持的一切的论点。
 
-如果论点没有提供无可辩驳的结论，那么人们该怎么办呢？伯克在他的笔记中的答案是，当情况如此时，人们_应该_更倾向于符合他们自然感受的结论。强调感受的补充是看待情感偏好结果——也就是说，在这种情况下行为的标准是什么能让人们变得更好、更快乐。
+如果论点没有提供无可辩驳的结论，那么人们该怎么办呢？伯克在他的笔记中的答案是，当情况如此时，人们*应该*更倾向于符合他们自然感受的结论。强调感受的补充是看待情感偏好结果——也就是说，在这种情况下行为的标准是什么能让人们变得更好、更快乐。
 
-这首判决首先涉及个人行为，将其应用于更大规模的公民社会事务的方式则不那么明显。在这里，无论是伦理上的还是愉悦上的利益判断可能更难以辨别。为了在《一种辩护》中明确表达，伯克对他所拒绝的神学原则进行了_归谬法_的运用，展示了这些原则对政治的后果。
+这首判决首先涉及个人行为，将其应用于更大规模的公民社会事务的方式则不那么明显。在这里，无论是伦理上的还是愉悦上的利益判断可能更难以辨别。为了在《一种辩护》中明确表达，伯克对他所拒绝的神学原则进行了*归谬法*的运用，展示了这些原则对政治的后果。
 
 因为这就是《一种辩护》提供的内容。这部短篇著作以最近去世的亨利·圣约翰，博林布鲁克子爵（1678-1751）的人设写成。博林布鲁克曾是国家的托利支柱，因此也是教会的支柱；但他哲学著作的遗作出版揭示，他并非英国国教徒，而是一位自然神论者。《一种辩护》暗示了博林布鲁克所归因于揭示宗教的人为造作的弊病可能与公民社会产生的弊病相类比。事实上，一种逻辑在这些条件下既可归因于基督教，也可归因于公民社会：正如后者不平等地分配权力的手段，基督教也不平等地分配救赎的手段（因为并非每个人都听过，并且更少人相信福音）。博林布鲁克的自然神论暗示了上帝公平对待每个人的原则，因此救赎的手段应当在所有人都可以获得的媒介中找到，因此从人类历史的最早时期即理性中找到。伯克很容易补充说，如果将这样一个原初本性是上帝法令的成熟表达的原则应用于公民社会，规范性的结果将是从复杂且因此文明的形式退化到简单的社会，甚至退化到类似动物的原始状态——《一种辩护》的部分内容是对卢梭《论不平等的起源》的 paraphrase（Sewell 1938, 97-114）。因此，自然神论者博林布鲁克和政治家博林布鲁克看起来可能大相径庭。这种差距为伯克提供了一个机会。《一种辩护》讽刺了博林布鲁克的精神分裂立场，运用了大量明显夸张来使“他”对公民（“人为的”）社会的批评看起来非常荒谬：伯克在第二版前言中添加了一段使这种非此即彼的选择变得清晰，以便即使是匆匆忙忙的人也能读懂。
 
-然而，很难不承认，伯克本人正以一种方式告诉读者，这种方式更加强烈地进入人们的意识，因为它伴随着娱乐，即市民社会确实涉及_一些_罪恶，正如他在其他联系中确定了进步的损失和收获一样。伯克的《辩护》，以伪·波林布鲁克的声音说出，对矿工的处境感到惋惜：而伯克在《法国革命论》中，三十四年后，也对“如此多的可怜虫”“无数的奴隶化、贬低、不体面、不男子气，而且常常是最不健康和有害的职业”感到惋惜，没有任何这样的人设。这种批评本身无疑是有力的。伯克从未掩饰他在市民社会中观察到的真正痛苦的存在。相反，他指出，可怜的做法无法与它们所牵涉的更大习惯和制度模式分离开来，并且这种模式总体上具有益处。伯克认识到了痛苦，没有否认它，因此对安排的不完善有着敏锐的认识，无论它们有多么文明。他对自然和社会的二元感知类似于亚当·斯密。
+然而，很难不承认，伯克本人正以一种方式告诉读者，这种方式更加强烈地进入人们的意识，因为它伴随着娱乐，即市民社会确实涉及*一些*罪恶，正如他在其他联系中确定了进步的损失和收获一样。伯克的《辩护》，以伪·波林布鲁克的声音说出，对矿工的处境感到惋惜：而伯克在《法国革命论》中，三十四年后，也对“如此多的可怜虫”“无数的奴隶化、贬低、不体面、不男子气，而且常常是最不健康和有害的职业”感到惋惜，没有任何这样的人设。这种批评本身无疑是有力的。伯克从未掩饰他在市民社会中观察到的真正痛苦的存在。相反，他指出，可怜的做法无法与它们所牵涉的更大习惯和制度模式分离开来，并且这种模式总体上具有益处。伯克认识到了痛苦，没有否认它，因此对安排的不完善有着敏锐的认识，无论它们有多么文明。他对自然和社会的二元感知类似于亚当·斯密。
 
 伯克的立场因此是平衡的。但这不仅仅是指出社会中的善与恶：这是一个责任问题——选择道德上恰当的词语。这是出于哲学原因，因为涉及的词语的本质。伯克的《哲学探究》将词语分为三类。首先是集合词，表示自然结合的简单观念组，例如人、马或树。其次是简单抽象词，每个词代表这些统一体中涉及的一个简单观念，比如红色、蓝色、圆形或方形。第三，对于我们的目的来说最重要的是抽象复合词。这些词将集合词和简单抽象词结合在一起。因此，它们没有自然存在的指称物。《哲学探究》认为，没有复合抽象名词能够轻易地向思维建议观念，而且在许多情况下，它们根本不对应任何观念，而是只在思维中产生与这些词相关的过去经验的形象。这一类别包括美德、恶习、正义、荣誉和自由，以及执法官、顺从和劝说（Wecter 1940, 167–81）。这些术语对讨论社会问题的重要性无需强调。从伯克的语言哲学中可以明显推断出，使用抽象复合词更多地是为了引起听者或读者情感上的共鸣，而不是讨论观念。这样做几乎不可能被认为是一种理论活动：效果不是认知的，而是实践的：不是发展观念，而是影响行为。问题是，这些词语和因此愉悦的形象应该与什么安排联系起来。
 
@@ -93,11 +93,11 @@ Locke 的《人类理解论》于 1690 年首次尝试对心灵运作进行全�
 
 从伯克对复合抽象词的描述中可以明显推断出，使用这些词汇是为了触及读者或听众的体验，而说服在讨论政治时是不可避免的核心内容：这适用于实践而非理论的主题。事实上，这些术语暗示讨论政治的重点必须是影响行动，而不仅仅是其他方面。伯克在管理言辞方面有着极高的技巧，这始于在三一学院的辩论，然后在其他场合继续，包括下议院。由于这种语言具有说服力，其目标是在听众或读者的心中建立赞同态度和反对态度。
 
-这并不是伯克政治实践中唯一的哲学方面。在讨论政治时的一个重要概念工具是关系。关系是那些既是经院哲学家又是洛克共同使用的术语之一。它既表示比较又表示联系。比较是一种宝贵的程序，因为它使事件、制度和人物能够从多个角度被看待，从而提高或降低它们的重要性和地位。联系同样宝贵，因为某人或某事所占的位置可以用来支持或批评他们的角色，以及展示合作对立的价值。最重要的是，无论哪种意义上的关系都可以被广泛应用，正如勒克莱尔克在他的《逻辑学》中所指出的那样（伯克在三一学院读过），关系不可胜数——_sunt autem innumerae relationes_（勒克莱尔克 1692 年，第 1 部分，第 4 章，第 1 节，第 19 页）。
+这并不是伯克政治实践中唯一的哲学方面。在讨论政治时的一个重要概念工具是关系。关系是那些既是经院哲学家又是洛克共同使用的术语之一。它既表示比较又表示联系。比较是一种宝贵的程序，因为它使事件、制度和人物能够从多个角度被看待，从而提高或降低它们的重要性和地位。联系同样宝贵，因为某人或某事所占的位置可以用来支持或批评他们的角色，以及展示合作对立的价值。最重要的是，无论哪种意义上的关系都可以被广泛应用，正如勒克莱尔克在他的《逻辑学》中所指出的那样（伯克在三一学院读过），关系不可胜数——*sunt autem innumerae relationes*（勒克莱尔克 1692 年，第 1 部分，第 4 章，第 1 节，第 19 页）。
 
 伯克对哲学史的构想也对他的政治实践至关重要。"每个时代都有其自己的风俗和取决于它们的政治"（TCD，W＆S，1981-2015，ii 258）。伯克在英格兰周围看到的风俗与他在中世纪看到的风俗是连续的，或者向后推断，其中强大的行政政府通过其他机构的平衡来确保公民自由。在伯克所处的时代，最明显的这些机构是在光荣革命（1688-1689 年）确立了议会的主权，在权利法案（1689 年）中暗示了这一点，在定居法案（1701 年）中行使了这一点，并通过镇压从 1708 年到 1746 年试图重新确立君主主权的企图来确认了这一点。伯克理解这种安排中的法律是受议会通过和保障的，因为这是由议会通过和保障的法律。在议会中，通过下议院、上议院和国王的相互依赖来保障。这种主权具有这种公共性质使得英国国家成为受益于非常高度金融信用的对象，这增加了议会的权力。从将领土理解为皇家财产到将国家构想为公共意志的英国历史的漫长而缓慢的发展，在伯克的时代已经达到了一个阶段，即这种意志是通过议会的决定来表达的，这种决定在很大程度上受到君主的影响。因此，伯克的政治活动假定了议会主权。
 
-如果伯克对词语和关系的看法给了他实际工具，如果议会主权为他提供了一个实际的假设，那么他认为主权的适当目的是什么呢？我们已经看到，统治者与被统治者之间的关系的主要目的是保护后者的公民利益。这表明了哲学家/历史学家伯克与政治参与者伯克之间的连续性。但前者也可能看到后者存在复杂性。一个看到公民利益的多样性，以及可以考虑这些利益的各种关系，以及各种相反力量的人，会看到让社会自我安逸可能意味着冲突，并看到这种冲突很难避免；他或她还会看到，议会形成了一个通过代表利益以一种文明社会适当的方式进行这种冲突的舞台；即使在参与这种冲突时，他/她可能也会意识到双方对结果的必要性。在这种情况下，对手不仅可能是敌人，还可能是共同合作者，至少在某种程度上共享对他们所处系统的一些共同假设，尽管通过他们所扮演的角色与其他人分隔开来。在这种情况下，问题变成了，你要站在哪一边？答案可能取决于_你_自己的关系，以及你如何构想它们。
+如果伯克对词语和关系的看法给了他实际工具，如果议会主权为他提供了一个实际的假设，那么他认为主权的适当目的是什么呢？我们已经看到，统治者与被统治者之间的关系的主要目的是保护后者的公民利益。这表明了哲学家/历史学家伯克与政治参与者伯克之间的连续性。但前者也可能看到后者存在复杂性。一个看到公民利益的多样性，以及可以考虑这些利益的各种关系，以及各种相反力量的人，会看到让社会自我安逸可能意味着冲突，并看到这种冲突很难避免；他或她还会看到，议会形成了一个通过代表利益以一种文明社会适当的方式进行这种冲突的舞台；即使在参与这种冲突时，他/她可能也会意识到双方对结果的必要性。在这种情况下，对手不仅可能是敌人，还可能是共同合作者，至少在某种程度上共享对他们所处系统的一些共同假设，尽管通过他们所扮演的角色与其他人分隔开来。在这种情况下，问题变成了，你要站在哪一边？答案可能取决于*你*自己的关系，以及你如何构想它们。
 
 ## 6. 埃德蒙·伯克的实践推理
 
@@ -149,7 +149,7 @@ Locke 的《人类理解论》于 1690 年首次尝试对心灵运作进行全�
 
 这一观点表明，真正谨慎的事务处理应该在不侵犯被统治者的心理联想的情况下进行，并且，由于变革无处不在，应该在接受的名称下进行其份额—换句话说，通过逐渐和适度改革制度和实践，而不是通过立即和完全的替代，伯克将其视为“创新”的耻辱。事实上，这正是伯克声称自己在 1780-82 年对皇家家庭重组的贡献中所做的。这种谨慎行为的智力对应物，即完善我们现有的想法，而不是替换它们，正是他在对主权概念进行修订时所做的。
 
-这种思维方式使埃德蒙·伯克对新思想的腐蚀力产生了非常强烈的感觉。即使是新的_问题_也可能带来不愉快的结果。当英国政府的创新动摇了殖民地居民时，“那时……他们质疑你立法权力的所有部分；通过这些问题的攻击，动摇了这个帝国的坚固结构到了最深的基础。” 避免这种对公民社会的动摇的正确方式是“咨询并遵循你的经验”（ATX，W＆S 1981–2015，ii.411, 457），因为根据伯克的语言哲学，“经验”是思维连续性的条件，也是可持续实践的基础。因此，他的态度是在哲学上对实践进行了条件约束，对实践中可能引起的断裂非常敏感。伯克的敏感性可以产生必然性语言，以说服人们利用他们所继承的思想，敦促“彻底放弃我自己的任何思考；并……\[建议]对我们祖先的智慧怀有深深的敬畏”（CWA，W＆S 1981–2015，iii.139）。事实上，伯克有时可以基于这样的理性基础，贬低任何可能引起干扰的思考：‘根本不要理性——反对帝国古代政策和实践，作为对两面问题的创新者思考的壁垒’（添加斜体）（ATX，W＆S 1981–2015，ii.166）。他对思考的贬低在逻辑上先于在政治上选择立场。
+这种思维方式使埃德蒙·伯克对新思想的腐蚀力产生了非常强烈的感觉。即使是新的*问题*也可能带来不愉快的结果。当英国政府的创新动摇了殖民地居民时，“那时……他们质疑你立法权力的所有部分；通过这些问题的攻击，动摇了这个帝国的坚固结构到了最深的基础。” 避免这种对公民社会的动摇的正确方式是“咨询并遵循你的经验”（ATX，W＆S 1981–2015，ii.411, 457），因为根据伯克的语言哲学，“经验”是思维连续性的条件，也是可持续实践的基础。因此，他的态度是在哲学上对实践进行了条件约束，对实践中可能引起的断裂非常敏感。伯克的敏感性可以产生必然性语言，以说服人们利用他们所继承的思想，敦促“彻底放弃我自己的任何思考；并……\[建议]对我们祖先的智慧怀有深深的敬畏”（CWA，W＆S 1981–2015，iii.139）。事实上，伯克有时可以基于这样的理性基础，贬低任何可能引起干扰的思考：‘根本不要理性——反对帝国古代政策和实践，作为对两面问题的创新者思考的壁垒’（添加斜体）（ATX，W＆S 1981–2015，ii.166）。他对思考的贬低在逻辑上先于在政治上选择立场。
 
 实际上，这也是对足以治理的思想的呼吁。这在伯克批评“庸俗和机械化的政治家”时显而易见，
 
@@ -165,7 +165,7 @@ Locke 的《人类理解论》于 1690 年首次尝试对心灵运作进行全�
 
 首先，从洞察力的角度来看，这是真实的。《法国革命论》于 1790 年 11 月 1 日出版，距巴士底狱被攻陷不到十八个月。其间的时期以法国的人民暴力和平静的、狂热的政治活动混合为特征，因为其绝对君主制正在让位于君主立宪制。一个超然的观察者会对未来感到不确定——毁灭和暴力是否会占主导地位，或者一个持久的宪法秩序是否会出现，这是事件尚未回答的问题。当然，事实上，革命在不同时期都将以暴力和宪法发展为特征，但这在 1790 年是无法预知的，正如在 21 世纪显而易见的那样。
 
-伯克的《思考》可以分为两个不等长的部分（因为作者没有提供任何正式的划分）。这两部分都涉及关系。第一部分约占全文的三分之二，暗示法国人对自由这一概念的热情使他们未能意识到自由只是一系列好处中的一个，_所有_这些好处都需要相互联系，才能实现在文明政府下以适当方式文明的生活。由于这种理解的不足而产生的结果包括宪法安排，因为它们没有反映出足够微妙的理解，即多数人的自由就是权力，所以没有使民众主权有所限制。好像一个不受限制的民众还不够糟糕，只从自由的角度理解生活就会席卷我们先前的思想阐释。这很重要，因为思想的精炼是行为精炼的前提，因此在许多方面是社会进步的前提。其中一个关键例子是中世纪以来基督教学习和骑士精神鼓励的对妇女的尊重待遇。但有了一种新的哲学：“在这种体系中，国王只是一个人；王后只是一个女人；女人只是一种动物；而且不是最高级别的动物”。人类本身退化为动物并不遥远，有了“一群猪一样的人”。结果是，人们不再受到体现精炼思想的舆论的影响，他们需要被武力统治。武力也是《思考》第二部分的最终目的。这表明，平等的理念与司法、立法和行政权力的制度安排过于密切相关，因此产生的不是来自强大政府的命令权威，而是制度化的软弱。同时，财政安排中平等的反常结果引起了民众的不满和财政不稳定。结果是，只有军事力量才能控制这种局面——如果军人吸收了平等的理念，那么军事秩序是否可持续就成了问题。法国似乎倾向于分裂或者强权统治。
+伯克的《思考》可以分为两个不等长的部分（因为作者没有提供任何正式的划分）。这两部分都涉及关系。第一部分约占全文的三分之二，暗示法国人对自由这一概念的热情使他们未能意识到自由只是一系列好处中的一个，*所有*这些好处都需要相互联系，才能实现在文明政府下以适当方式文明的生活。由于这种理解的不足而产生的结果包括宪法安排，因为它们没有反映出足够微妙的理解，即多数人的自由就是权力，所以没有使民众主权有所限制。好像一个不受限制的民众还不够糟糕，只从自由的角度理解生活就会席卷我们先前的思想阐释。这很重要，因为思想的精炼是行为精炼的前提，因此在许多方面是社会进步的前提。其中一个关键例子是中世纪以来基督教学习和骑士精神鼓励的对妇女的尊重待遇。但有了一种新的哲学：“在这种体系中，国王只是一个人；王后只是一个女人；女人只是一种动物；而且不是最高级别的动物”。人类本身退化为动物并不遥远，有了“一群猪一样的人”。结果是，人们不再受到体现精炼思想的舆论的影响，他们需要被武力统治。武力也是《思考》第二部分的最终目的。这表明，平等的理念与司法、立法和行政权力的制度安排过于密切相关，因此产生的不是来自强大政府的命令权威，而是制度化的软弱。同时，财政安排中平等的反常结果引起了民众的不满和财政不稳定。结果是，只有军事力量才能控制这种局面——如果军人吸收了平等的理念，那么军事秩序是否可持续就成了问题。法国似乎倾向于分裂或者强权统治。
 
 伯克的哲学修养和历史理解为《反思录》提供了结构，也更重要的是，为对革命性质的洞察提供了启示。革命者对现代政府需要包容的关系的忽视，特别是与自由相关的关系，与将其制度建立在平等而不是有效指挥周围的主权政权的不恰当性相匹配。这些启示表明，新宪法的错误结构源于对哲学的不足理解。这种误解与未能理解导致支持以舆论治国的观念的发展的历史发展相匹配，这种失败表明，革命将导致从这种文明状态向不那么温和的行事方式以及不那么有效的方式倒退。换句话说，伯克对哲学和欧洲历史的理解，从哲学角度来看，为对革命提出基本主张提供了根据。
 
@@ -173,9 +173,9 @@ Locke 的《人类理解论》于 1690 年首次尝试对心灵运作进行全�
 
 ## 10. 解释问题
 
-现在很明显，‘神秘精神’和‘非理性主义’都不能有效地描述伯克。这些例子可能被视为极端。与此同时，它们也反映了解释上的困难。虽然从伯克的时代到现在，他的思想从未缺少解释者，但总的来说，他们没有运用历史洞察力和概念把握力的结合来恰当地理解他。因此，对于一个主张思维广度和精确性的人来说，他遭遇了一种讽刺的命运。也就是说，他被描绘成为非常有限的观点的代言人，或者是一个专注于有限主题的人。这种对待方式始于 19 世纪，当时伯克被引用为自由主义思想家对抗法国大革命的解药，他们珍视其原则，看到了它们的狭隘性，并需要一种历史发展的意识来适当地将它们置于一个可行的公民社会中。当马修·阿诺德试图将伯克视为（自治法前）格莱斯顿在爱尔兰的代言人时，这种对待方式继续下去。在 20 世纪，当伯克被视为反对共产主义事业的反革命代理人时，这种对待方式进一步发展。21 世纪初，一些人将伯克视为后现代主义的倡导者。他本人几乎不可能抱怨他的作品被用于_实际_用途，但事实仍然是，学术公正尚未对他做出。对他著作中个别主题的章节和论文总体上比对其进行一般解释更为可信，后者通常集中于一个或多个选择的主题，或者将伯克的思想从属于某个主题，从而给人留下（无论是故意还是无意）这就是伯克的全部，或者至少这就是关于他重要的事情的印象。对这种情况的一种回应是主要集中于讲述故事，有趣的是最近一些作品已经选择了这条道路。
+现在很明显，‘神秘精神’和‘非理性主义’都不能有效地描述伯克。这些例子可能被视为极端。与此同时，它们也反映了解释上的困难。虽然从伯克的时代到现在，他的思想从未缺少解释者，但总的来说，他们没有运用历史洞察力和概念把握力的结合来恰当地理解他。因此，对于一个主张思维广度和精确性的人来说，他遭遇了一种讽刺的命运。也就是说，他被描绘成为非常有限的观点的代言人，或者是一个专注于有限主题的人。这种对待方式始于 19 世纪，当时伯克被引用为自由主义思想家对抗法国大革命的解药，他们珍视其原则，看到了它们的狭隘性，并需要一种历史发展的意识来适当地将它们置于一个可行的公民社会中。当马修·阿诺德试图将伯克视为（自治法前）格莱斯顿在爱尔兰的代言人时，这种对待方式继续下去。在 20 世纪，当伯克被视为反对共产主义事业的反革命代理人时，这种对待方式进一步发展。21 世纪初，一些人将伯克视为后现代主义的倡导者。他本人几乎不可能抱怨他的作品被用于*实际*用途，但事实仍然是，学术公正尚未对他做出。对他著作中个别主题的章节和论文总体上比对其进行一般解释更为可信，后者通常集中于一个或多个选择的主题，或者将伯克的思想从属于某个主题，从而给人留下（无论是故意还是无意）这就是伯克的全部，或者至少这就是关于他重要的事情的印象。对这种情况的一种回应是主要集中于讲述故事，有趣的是最近一些作品已经选择了这条道路。
 
-在攻击法国革命时，伯克为法国政治家建立了一个恶棍画廊，并且其中也包括相当多的法国思想家。然而，那些看起来像恶棍的人，大多数只是稻草人，根据英国观众的偏见填充而成。对我们而言更重要的是，伯克对_启蒙思想家_的谴责归因于他们与那种将有限范围的简单原则设立为政治准则的思维风格的串通，而这种风格完全无法满足现代条件下人类本性的相互关联和各种需求。伯克更倾向于强调，为了满足这些需求，需要许多原则和实践思考来结合，以此来维持改进，并且也强调，这种调和涉及的实践活动远比推测性设计要多得多。相应地，他自己的著作并非发展出一种政治哲学，而是一种以哲学元素为核心的政治风格——这种风格实际上暗示着_政治_哲学并非可行作为某种知识，即使它是，也绝对不足以胜任“行动中的哲学家”的任务。至少在伯克本人所体现的那种情况下，当他提到政治哲学时，他认为它是高度实践性的。他写道：“推测性和教条性哲学的首要目标一直是规范观念”。“政治哲学的首要目标是促进健康的事物，根除有害的事物，直接有助于使人们成为社区中的不良公民，使他们成为社区之外的有害邻居”（RP2，W＆S ix.295）。
+在攻击法国革命时，伯克为法国政治家建立了一个恶棍画廊，并且其中也包括相当多的法国思想家。然而，那些看起来像恶棍的人，大多数只是稻草人，根据英国观众的偏见填充而成。对我们而言更重要的是，伯克对*启蒙思想家*的谴责归因于他们与那种将有限范围的简单原则设立为政治准则的思维风格的串通，而这种风格完全无法满足现代条件下人类本性的相互关联和各种需求。伯克更倾向于强调，为了满足这些需求，需要许多原则和实践思考来结合，以此来维持改进，并且也强调，这种调和涉及的实践活动远比推测性设计要多得多。相应地，他自己的著作并非发展出一种政治哲学，而是一种以哲学元素为核心的政治风格——这种风格实际上暗示着*政治*哲学并非可行作为某种知识，即使它是，也绝对不足以胜任“行动中的哲学家”的任务。至少在伯克本人所体现的那种情况下，当他提到政治哲学时，他认为它是高度实践性的。他写道：“推测性和教条性哲学的首要目标一直是规范观念”。“政治哲学的首要目标是促进健康的事物，根除有害的事物，直接有助于使人们成为社区中的不良公民，使他们成为社区之外的有害邻居”（RP2，W＆S ix.295）。
 
 这种思维风格强调了结合广泛原则的重要性，并记住，无论原则多么繁多，它们只是令人满意的实践行为中的一个要素。毫无疑问，分析参与了伯克的行动：“让这个立场进行分析，”他在 1794 年批评地指示下议院，“因为分析是一切雄辩的致命敌人。”\[10] 尽管伯克在威斯敏斯特待了二十多年后仍能有效地分析思想和文字，正如他 1792 年致赫丘勒斯·朗格里什爵士的信所展示的那样，他更强调将思想彼此联系起来的必要性，以及在任何旨在具有智力和实践有效性的政治处理中包含非概念要素。以分析为中心的哲学风格中没有任何与这些程序逻辑上不一致的东西。然而，有一种心态，有时伴随着这种哲学方式，对伯克是不合拍的，而在当代关于政治的观点中，包括至少一些分析哲学家持有的观点，他会发现有很多危险的天真。在这些观点中，相信持续的民主主权（这个现代术语是“民主”）—而不是议会主权，只是最明显的例子。如果伯克目前不太可能成为一些哲学家和一些专家的宠儿；那些认为通过讨论少数原则就能为政策制定提供规范和足够指导的人更不会喜欢他；甚至不会喜欢任何人认为声称“一个非常简单的原则”“有权绝对统治社会与个人之间的强制和控制”或其他任何事情（密尔 1859，“导言”）。思想的复杂性，它们彼此之间的联系，需要以这些关系来理解实践，并且要在人们的思想和活动之间的习惯性联系上进行注意，这表明了一种不同的思维方式。因此，不足为奇的是，伯克已经被许多近期的思想家悄悄忽视，或者被简单地排除在外，被贴上“保守派”的标签—但他在许多成功从事实际政治的人中找到了许多崇拜者，这是非常有趣的。虽然伯克会第一个指出他的具体结论属于某个时代和地点，但他的思维风格是任何认真思考政治的人，无论是反思性的还是实践性的，都需要参与的。
 
@@ -189,7 +189,7 @@ Locke 的《人类理解论》于 1690 年首次尝试对心灵运作进行全�
 
 #### Burke’s Writings
 
-There is no complete edition of Burke’s works: their quantity, the character of some of his manuscript materials and the manner in which many of his parliamentary speeches are preserved all make it very likely that this situation will continue. Neither have the editorial problems implied in his writings and speeches been overcome hitherto. For the present, there is, in nine, large substantive volumes,: _Writings and Speeches of Edmund Burke_, P. Langford (general editor), Oxford:Clarendon Press, 1981–2015. This, though not without further problems peculiar to itself, does provide a standard system reference for most of the items quoted here, and is cited above as **W & S**, and individual works are cited as follows:
+There is no complete edition of Burke’s works: their quantity, the character of some of his manuscript materials and the manner in which many of his parliamentary speeches are preserved all make it very likely that this situation will continue. Neither have the editorial problems implied in his writings and speeches been overcome hitherto. For the present, there is, in nine, large substantive volumes,: *Writings and Speeches of Edmund Burke*, P. Langford (general editor), Oxford:Clarendon Press, 1981–2015. This, though not without further problems peculiar to itself, does provide a standard system reference for most of the items quoted here, and is cited above as **W & S**, and individual works are cited as follows:
 
 | \[**ATX**] | American Taxation.                                |
 | ---------- | ------------------------------------------------- |
@@ -201,48 +201,48 @@ There is no complete edition of Burke’s works: their quantity, the character o
 | \[**TCD**] | Thoughts on the Cause of the Present Discontents. |
 | \[**TPL**] | Tracts relating to Popery Laws.                   |
 
-* \[Burke, William, and Edmund Burke], 1757, _An Account of the European Settlements_, London (and later editions).
-* Somerset, H.V.F, ed., 1957, _A Notebook of Edmund Burke_, Cambridge, Cambridge University Press.
+* \[Burke, William, and Edmund Burke], 1757, *An Account of the European Settlements*, London (and later editions).
+* Somerset, H.V.F, ed., 1957, *A Notebook of Edmund Burke*, Cambridge, Cambridge University Press.
 
 #### Burke’s Correspondence
 
-* Copeland, T.W., 1958–78, (general ed.), _The Correspondence of Edmund Burke_, Cambridge and Chicago, Cambridge University Press and University of Chicago Press, (ten volumes). Cited as Corr.
-* Kelly, J., 2014, ‘A missing letter by Edmund Burke’, _Eighteenth-Century Ireland_, 29: 142–8.
-* Lock, F.P., 1997, 1999, 2003 ‘Unpublished Burke Letters’, _English Historical Review_, 112: 119–141; 114: 636–657; 118: 940–982.
-* Lonsdale, R., 1982, ‘An Uncollected Letter of Edmund Burke’, _Notes and Queries_, 29(3): 202.
-* Walsh, P., 2009 ‘A new Burke letter from 1778’, _Eighteenth-Century Ireland_, 24: 159–63.
+* Copeland, T.W., 1958–78, (general ed.), *The Correspondence of Edmund Burke*, Cambridge and Chicago, Cambridge University Press and University of Chicago Press, (ten volumes). Cited as Corr.
+* Kelly, J., 2014, ‘A missing letter by Edmund Burke’, *Eighteenth-Century Ireland*, 29: 142–8.
+* Lock, F.P., 1997, 1999, 2003 ‘Unpublished Burke Letters’, *English Historical Review*, 112: 119–141; 114: 636–657; 118: 940–982.
+* Lonsdale, R., 1982, ‘An Uncollected Letter of Edmund Burke’, *Notes and Queries*, 29(3): 202.
+* Walsh, P., 2009 ‘A new Burke letter from 1778’, *Eighteenth-Century Ireland*, 24: 159–63.
 
 There is further unprinted correspondence in various repositories. The primary collections of Burke manuscripts are at Sheffield City Archives and Northamptonshire Record Office, both in the United Kingdom, but there is further material by Burke in a wider range of places; the material in manuscript bearing on him is extremely bulky, diverse and scattered.
 
 ### Secondary Literature
 
-There is relatively little recent literature primarily on Burke’s philosophical writings, however ‘philosophical’ is defined, though there is much that makes reference to or use of them: thus a bibliography of writings about his views on beauty, gender, and political organization, as well as his literary temper and practical activities would be disproportionately long. The reader is therefore invited to range freely. The secondary literature as a whole is listed up to about 1980 in Clara I. Gandy and Peter J. Stanlis, 1983, _Edmund Burke: A Bibliography of Secondary Studies to 1982_, New York, Garland. There are annual listings in the _Modern Humanities Research Association_’s volumes.
+There is relatively little recent literature primarily on Burke’s philosophical writings, however ‘philosophical’ is defined, though there is much that makes reference to or use of them: thus a bibliography of writings about his views on beauty, gender, and political organization, as well as his literary temper and practical activities would be disproportionately long. The reader is therefore invited to range freely. The secondary literature as a whole is listed up to about 1980 in Clara I. Gandy and Peter J. Stanlis, 1983, *Edmund Burke: A Bibliography of Secondary Studies to 1982*, New York, Garland. There are annual listings in the *Modern Humanities Research Association*’s volumes.
 
 For matters discussed here, the reader is referred to:
 
-* Burke, Edmund, 1958, _Philosophical Enquiry_, ed. J.T. Boulton, London, Routledge (later edition, Oxford, Blackwell, 1987)
-* Canavan, F., 1957, ‘Edmund Burke’s College Study of Philosophy’, _Notes and Queries_ (New Series), 4: 538–543.
-* Sewell Jr, R.B., 1938, ‘Rousseau’s Second Discourse in England from 1755 to 1762’, _Philological Quarterly_, 17: 97–114.
-* Wecter, D., 1940, ‘Burke’s Theory of Words, Images and Emotions’, _Publications of the Modern Language Association_, 55: 167–181.
+* Burke, Edmund, 1958, *Philosophical Enquiry*, ed. J.T. Boulton, London, Routledge (later edition, Oxford, Blackwell, 1987)
+* Canavan, F., 1957, ‘Edmund Burke’s College Study of Philosophy’, *Notes and Queries* (New Series), 4: 538–543.
+* Sewell Jr, R.B., 1938, ‘Rousseau’s Second Discourse in England from 1755 to 1762’, *Philological Quarterly*, 17: 97–114.
+* Wecter, D., 1940, ‘Burke’s Theory of Words, Images and Emotions’, *Publications of the Modern Language Association*, 55: 167–181.
 
 ### Other works cited
 
-* Berkeley, G., _Principles of Human Knowledge_, _The Querist_, and _Discourse Addressed to Magistrates_, in _The Works of George Berkeley_, A.A. Luce and T.E Jessop (eds.), , 9 volumes, London: Nelson, 1948–57.
-* Broad, C.D., 1952, _Ethics and the History of Philosophy_, London: Routledge.
-* Butler, M., 1984, _Burke, Paine, Godwin and the Revolution Controversy_, Cambridge: Cambridge University Press.
-* Coleridge, S.T., _Biographica Literaria_, James Engell and W. Jackson Bate (eds.), Princeton: Princeton University Press, 1983.
-* Freeman, M., 1992, ‘Edmund Burke’, in Volume 1 (109–11) of Laurence C. Becker and Charlotte B. Becker (eds.), _Encyclopaedia of Ethics_, 2 volumes, Garland: New York.
-* Gore-Brown, R., 1953, _Chancellor Thurlow_, London: Routledge.
-* Goldsmith, Oliver, 1774, _Retaliation: a poem_, London: G. Kearsly. [\[Goldsmith 1774 available online\].](http://www.bartleby.com/41/309.html)
-* Historical Manuscripts Commission, 1905, _Report on the Manuscripts of the Marquess of Lothian_, London: Stationery Office.
-* Hull, C.H., and H.W.V. Temperley (eds.), 1911–12, ‘Debates on the Declaratory Act and the Repeal of the Stamp Act’, _American Historical Review_, 17: 563–586.
-* Le Clerc, J., 1692, _Logica: sive ars ratiocinandi_, London: Awnsham & John Churchill.
-* Mill, J.S., 1859, _On Liberty_, London: Longman.
-* Norman, J., 2013, _Edmund Burke. The First Conservative_ , New York: Basic Books.
-* Robinson, Nicholas K., 1996, _Edmund Burke: a life in caricature_, New Haven: Yale University Press.
-* Sidgwick, H., 1877, ‘Bentham and Benthamism in Politics and Ethics’, in _Essays on Ethics and Method_, Marcus G. Singer (ed.), Oxford: Clarendon Press, 2000.
-* Spurgeon, C.F.E., 1922, _Mysticism in English Literature (edn.2)_ , Cambridge: Cambridge University Press.
-* Williamson, P., 1999, _Stanley Baldwin_, Cambridge: Cambridge University Press.
+* Berkeley, G., *Principles of Human Knowledge*, *The Querist*, and *Discourse Addressed to Magistrates*, in *The Works of George Berkeley*, A.A. Luce and T.E Jessop (eds.), , 9 volumes, London: Nelson, 1948–57.
+* Broad, C.D., 1952, *Ethics and the History of Philosophy*, London: Routledge.
+* Butler, M., 1984, *Burke, Paine, Godwin and the Revolution Controversy*, Cambridge: Cambridge University Press.
+* Coleridge, S.T., *Biographica Literaria*, James Engell and W. Jackson Bate (eds.), Princeton: Princeton University Press, 1983.
+* Freeman, M., 1992, ‘Edmund Burke’, in Volume 1 (109–11) of Laurence C. Becker and Charlotte B. Becker (eds.), *Encyclopaedia of Ethics*, 2 volumes, Garland: New York.
+* Gore-Brown, R., 1953, *Chancellor Thurlow*, London: Routledge.
+* Goldsmith, Oliver, 1774, *Retaliation: a poem*, London: G. Kearsly. [\[Goldsmith 1774 available online\].](http://www.bartleby.com/41/309.html)
+* Historical Manuscripts Commission, 1905, *Report on the Manuscripts of the Marquess of Lothian*, London: Stationery Office.
+* Hull, C.H., and H.W.V. Temperley (eds.), 1911–12, ‘Debates on the Declaratory Act and the Repeal of the Stamp Act’, *American Historical Review*, 17: 563–586.
+* Le Clerc, J., 1692, *Logica: sive ars ratiocinandi*, London: Awnsham & John Churchill.
+* Mill, J.S., 1859, *On Liberty*, London: Longman.
+* Norman, J., 2013, *Edmund Burke. The First Conservative* , New York: Basic Books.
+* Robinson, Nicholas K., 1996, *Edmund Burke: a life in caricature*, New Haven: Yale University Press.
+* Sidgwick, H., 1877, ‘Bentham and Benthamism in Politics and Ethics’, in *Essays on Ethics and Method*, Marcus G. Singer (ed.), Oxford: Clarendon Press, 2000.
+* Spurgeon, C.F.E., 1922, *Mysticism in English Literature (edn.2)* , Cambridge: Cambridge University Press.
+* Williamson, P., 1999, *Stanley Baldwin*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 
@@ -262,4 +262,4 @@ For matters discussed here, the reader is referred to:
 [Berkeley, George](https://plato.stanford.edu/entries/berkeley/) | [conservatism](https://plato.stanford.edu/entries/conservatism/) | [ethics: natural law tradition](https://plato.stanford.edu/entries/natural-law-ethics/) | ideas | [Locke, John](https://plato.stanford.edu/entries/locke/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Ian Harris <[_ich1@leicester.ac.uk_](mailto:ich1%40leicester%2eac%2euk)>
+Ian Harris <[*ich1@leicester.ac.uk*](mailto:ich1%40leicester%2eac%2euk)>

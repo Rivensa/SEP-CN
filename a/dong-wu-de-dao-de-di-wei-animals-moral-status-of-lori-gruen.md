@@ -1,6 +1,6 @@
 # 动物的道德地位 animals, moral status of (Lori Gruen)
 
-_首次发表于 2003 年 7 月 1 日；实质性修订于 2017 年 8 月 23 日_
+*首次发表于 2003 年 7 月 1 日；实质性修订于 2017 年 8 月 23 日*
 
 人类是否有与众不同的特点，能够证明人类具有道德地位，而非人类动物则没有？对于哲学家以及对我们对待非人类动物感兴趣的非哲学领域的人来说，回答这个问题变得越来越重要。对于一些人来说，回答这个问题将使我们更好地理解人类的本质和我们道德义务的适当范围。一些人认为，有一种回答可以将人类与自然界的其他事物区分开来。许多接受这个回答的人对于证明人类对待非人类动物的某些做法（这些做法会造成痛苦、不适、苦难和死亡）感兴趣。后一组人预期，通过以特定方式回答这个问题，人类将有正当理由在考虑非人类动物时不需要也不应该给予道德考虑。与这种观点相反，越来越多的哲学家认为，虽然人类在各种方面与彼此和其他动物不同，但这些差异并不能为否定非人类动物的道德考虑提供哲学上的辩护。道德考虑的基础和其意义一直是引起许多争议的来源。
 
@@ -34,7 +34,7 @@ _首次发表于 2003 年 7 月 1 日；实质性修订于 2017 年 8 月 23 日
 
 基于种族的歧视，就像基于物种的歧视一样，被认为是偏见的，因为这些特征在提出道德主张时并不重要。
 
-物种主义的行为和态度是有偏见的，因为没有明显的理由可以优先考虑与自己属于同一物种群体的个体的利益，而不是那些不属于该物种群体的个体的利益。人类是属于_智人_物种的成员，这无疑是人类的一个区别特征——人类共享遗传构成和独特的生理结构，我们都是通过人类怀孕而出生，但从道德观点来看，这并不重要。物种成员身份是一个道德上无关紧要的特征，它只是一种运气，道德上并不比在马来西亚或加拿大出生更有趣。作为一个道德上无关紧要的特征，它不能成为一个观点的基础，即我们的物种应该得到道德考虑，而其他物种的成员则不应该得到。
+物种主义的行为和态度是有偏见的，因为没有明显的理由可以优先考虑与自己属于同一物种群体的个体的利益，而不是那些不属于该物种群体的个体的利益。人类是属于*智人*物种的成员，这无疑是人类的一个区别特征——人类共享遗传构成和独特的生理结构，我们都是通过人类怀孕而出生，但从道德观点来看，这并不重要。物种成员身份是一个道德上无关紧要的特征，它只是一种运气，道德上并不比在马来西亚或加拿大出生更有趣。作为一个道德上无关紧要的特征，它不能成为一个观点的基础，即我们的物种应该得到道德考虑，而其他物种的成员则不应该得到。
 
 有人可能会反驳说，道德上重要的并不是生物类别的成员身份，而是这些类别的社会意义，这些意义不仅构建了我们所运作的机构，还影响了我们对自己和世界的概念化。人类发展了道德体系以及各种其他有价值的实践，通过创造这些体系，我们将人类与动物王国中的其他物种区分开来。但是，“人类”这个类别本身在道德上是有争议的。例如，有人认为种族主义不仅仅是关于歧视和偏见，而是一种使黑人非人化的机制，以创造使人类成为白人的条件（参见法农 1967 年；金 2015 年；柯和柯 2017 年）。根据这种思路，物种主义并不关注歧视或偏见，而是创造人类（和白人）至上主义或例外主义的中心工具。
 
@@ -170,95 +170,95 @@ Alice Crary 认为，我们对道德景观的认知发生变化，是因为这�
 
 ### References Cited
 
-* Aaltola, Elisa, 2013, “Empathy, Intersubjectivity and Animal Ethics”, _Environmental Philosophy_, 10(2): 75–96. doi:10.5840/envirophil201310215
-* Adams, Carol J. and Josephine Donovan (eds.), 1995, _Animals and Women: Feminist Theoretical Explorations_, Durham, NC: Duke University Press.
-* Adams, Carol J. and Lori Gruen (eds.), 2014, _Ecofeminism: Feminist Intersections with Other Animals and the Earth_, New York: Bloomsbury Press.
-* Anderson, Elizabeth, 2004, “Animal Rights and the Values of Nonhuman Life”, in _Animal Rights: Current Debates and New Directions_, Cass R. Sunstein and Martha C. Nussbaum (eds.). Oxford: Oxford University Press, chapter 13. doi:10.1093/acprof:oso/9780195305104.003.0014
-* Attenborough, David, 1998, _The Life of Birds_, Princeton: Princeton University Press. \[[Attenborough 1998 excerpts available online](http://www.pbs.org/lifeofbirds/), PBS Online.]
-* Bekoff, Marc, 2000, _The Smile of a Dolphin: Remarkable Accounts of Animal Emotion_, New York: Discovery Books.
-* –––, 2007, _The Emotional Lives of Animals: A Leading Scientist Explores Animal Joy, Sorrow, and Empathy—and Why They Matter_, Novato, California: New World Library.
-* Bekoff, Marc and John A. Byers (eds.), 1998, _Animal Play: Evolutionary, Comparative, and Ecological Perspectives_, Cambridge: Cambridge University Press.
-* Bekoff, Marc, Colin Allen, and Gordon M. Burghardt (eds.), 2002, _The Cognitive Animal_, Cambridge, MA: MIT Press.
-* Bekoff, Marc and Jessica Pierce, 2009, _Wild Justice: The Moral Lives of Animals_, Chicago: University of Chicago Press.
-* Bentham, Jeremy, \[1780/1789] 1982, _An Introduction to the Principles of Morals and Legislation_, edited by J.H. Burns and H.L.A. Hart, London: Methuen, 1982 (Athlone Press 1970).
-* Byrne, Richard W. Byrne and Andrew Whiten (eds.), 1988,_Machiavellian Intelligence: Social Expertise and the Evolution ofIntellect in Monkeys, Apes, and Humans I_, Oxford: ClarendonPress.
-* Cheney, Dorothy L. and Robert M. Seyfarth, 1990, _How MonkeysSee the World: Inside the Mind of Another Species_, Chicago:University of Chicago Press.
-* Chevalier-Skolnikoff, Suzanne, 1989, “Spontaneous Tool Use and Sensorimotor Intelligence in Cebus Compared with other Monkeys and Apes”, _Behavioral and Brain Sciences_, 12(3): 561–588. doi:10.1017/S0140525X00057678
-* Clarke, Stephen R.L., 1977, _The Moral Status of Animals_, Oxford: Oxford University Press.
-* Crary, Alice, 2016, _Inside Ethics: On the Demands of Moral Thought_, Cambridge, MA: Harvard University Press.
-* Darwin, Charles, 1871, _The Descent of Man_ (2 volumes), London: John Murray, volume1. \[[Darwin 1871 available online](http://darwin-online.org.uk/content/frameset?pageseq=1\&itemID=F937.1\&viewtype=side)]
-* DeGrazia, David, 1996, _Taking Animals Seriously: Mental Life and Moral Status_, Cambridge: Cambridge University Press.
-* –––, 2002, _Animal Rights: A Very Short Introduction_, Oxford: Oxford University Press.
-* Diamond, Cora, 2001, _The Realistic Spirit_, Cambridge, MA: MIT Press.
-* Donovan, Josephine and Carol J. Adams (eds.), 2007, _The Feminist Care Tradition in Animal Ethics_, New York: Columbia University Press.
-* Fanon, Frantz, 1967, _Black Skin, White Masks_, New York: Grove Press.
-* Galdikas, Birute M.F., 1995, _Reflections of Eden: My Years with the Orangutans of Borneo_, Boston: Little, Brown and Company.
-* Gilbert, Susan, Gregory E. Kaebnick, and Thomas H. Murray, 2012, _Animal Research Ethics: Evolving Views and Practices_, _Hastings Center Special Report_, 42(6): S1–S40. \[[Gilbert, Kaebnick, & Murray 2012 available online](http://animalresearch.thehastingscenter.org/special-report/)]
-* Goodall, Jane, 1986, _The Chimpanzees of Gombe: Patterns of Behavior_, Cambridge, MA: Harvard University Press.
-* –––, 2000, _In the Shadow of Man_, revised edition New York: Houghton Mifflin Co.
-* Griffin, Donald R., 1992, _Animal Minds_, Chicago: University of Chicago Press.
-* Gruen, Lori, 2011, _Ethics and Animals: An Introduction_, Cambridge: Cambridge University Press.
-* –––, 2015, _Entangled Empathy: An Alternative Ethic for Our Relationship with Animals_, Brooklyn: Lantern Books.
-* Hauser, Marc and Susan Carey, 1997, “Building a Cognitive Creature from a Set of Primitives: Evolutionary and Developmental Insights”, in Denise D. Cummins and Colin Allen (eds.), _The Evolution of Mind_, Oxford: Oxford University Press, chapter 3.
-* Hursthouse, Rosalind, 2000, _Ethics, Humans and Other Animals_, London: Routledge.
-* Jamieson, Dale, 2003, _Morality’s Progress: Essays on Humans, Other Animals, and the Rest of Nature_, Oxford: Oxford University Press.
-* Kant, Immanuel, \[1785] 1998, _Groundwork of the Metaphysics of Morals_ (_Grundlegung zur Metaphysik der Sitten_), Mary J. Gregor (trans.), Cambridge: Cambridge University Press.
-* –––, \[1798] 2010, “Anthropology from a Pragmatic Point of View (1798)”, in _Anthropology, History, and Education_, (Cambridge Edition of the Works of Immanuel Kant), Robert Louden and Gunter Zoller (eds. and trans.), Cambridge: Cambridge University Press, 227–429. Original is _Anthropologie in pragmatischer Hinsicht_, published in the standard _Akademie der Wissenschaften_ edition, volume 7. doi:10.1017/CBO9780511791925
-* –––, \[1784–5] 1997, “Moral Philosophy: Collin’s Lecture Notes”, in _Lectures on Ethics_, (Cambridge Edition of the Works of Immanuel Kant) , P. Heath and J.B. Schneewind (ed. and trans.), Cambridge: Cambridge University Press, pp. 37–222. Original is _Anthropologie in pragmatischer Hinsicht_, published in the standard _Akademie der Wissenschaften_ edition, volume 27. doi:10.1017/CBO9781107049512
-* Kheel, Marti, 2008, _Nature Ethics: An Ecofeminist Perspective_, Lanham, MD: Rowman and Littlefield Publishers.
-* Kim, Claire Jean, 2015, _Dangerous Crossings: Race, Species and Nature in a Multicultural Age_, Cambridge: Cambridge University Press.
-* King, Barbara J., 2013, _How Animals Grieve_, Chicago: University of Chicago Press.
-* Ko, Aph and Syl Ko, 2017, _Aphro-ism_, New York: Lantern Books.
-* Korsgaard, Christine M., 1996, _The Sources of Normativity_, Cambridge: Cambridge University Press.
-* –––, 2004, “Fellow Creatures: Kantian Ethics and Our Duties to Animals”, in _The Tanner Lectures on Human Values_, Grethe B. Peterson (ed.), Volume 25/26, Salt Lake City: University of Utah Press. \[[Korsgaard 2004 available online](http://nrs.harvard.edu/urn-3:HUL.InstRepos:3198692)]
-* –––, 2007, “Facing the Animal You See in the Mirror”, _Harvard Review of Philosophy_, 16(1): 4–9. doi:10.5840/harvardreview20091611
-* McMahan, Jeff, 2005, “Our Fellow Creatures” _The Journal of Ethics_, 9(3–4): 353–80. doi:10.1007/s10892-005-3512-2
-* Mason, Jim and Peter Singer, 1980 \[1990], _Animal Factories_, revised edition, New York: Harmony Books; first edition, 1980.
-* Nussbaum, Martha C., 2006, _Frontiers of Justice: Disability, Nationality, and Species Membership_, Cambridge: The Belknap Press.
-* Pepperberg, Irene Maxine, 1999, _The Alex Studies: Cognitive and Communicative Abilities of Grey Parrots_, Cambridge, MA: Harvard University Press.
-* Premack, David, 1986, _Gavagai! or the Future History of the Animal Language Controversy_, Cambridge, MA: MIT Press.
-* Premack, David and Ann J. Premack 1984, _The Mind of an Ape_, New York: W W Norton & Co Inc.
-* Regan, Tom, 1985, “The Case for Animal Rights”, in Peter Singer (ed.), _In Defence of Animals_, Oxford: Basil Blackwell, pp. 13–26. \[[Regan 1985 available online](http://www.animal-rights-library.com/texts-m/regan03.htm)]
-* Rendell, Luke and Hal Whitehead, 2001, “Culture in Whales and Dolphins”, _Behavioral and Brian Sciences_, 24(2): 309–324. doi:10.1017/S0140525X0100396X
-* Roberts, W.A., 1998, _Principles of Animal Cognition_, Boston: McGraw-Hill.
-* Rumbaugh, Duane M. and Sue Savage-Rumbaugh, 1999, “Primate Language” in Robert A. Wilson & Frank Keil (eds.) _The MIT Encyclopedia of the Cognitive Sciences_, Cambridge, MA: MIT Press.
-* Singer, Peter, 1990, _Animal Liberation_, second edition, New York: New York Review of Books.
-* –––, 1979 \[1993], _Practical Ethics_, second edition, Cambridge: Cambridge University Press; first edition, 1979.
-* –––, 1974, “All Animals are Equal”, _Philosophic Exchange_, 5(1), Article 6, [Singer 1974 available online](http://digitalcommons.brockport.edu/phil\*ex/vol5/iss1/6).
-* Singer, Peter and Jim Mason, 2006, _The Way We Eat: Why Our Food Choices Matter/The Ethics of What We Eat_, New York: Rodale Press.
-* Tomasello, Michael and Josep Call, 1997, _Primate Cognition_, Oxford: Oxford University Press.
-* VanDeVeer, Donald, 1979, “Interspecific Justice”, _Inquiry_, 22(1–4): 55–79. doi:10.1080/00201747908601866
-* Varner, Gary E., 1998, _In Nature’s Interests_, New York: Oxford University Press.
-* –––, 2012, _Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism Gary E. Varner_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199758784.001.0001
-* Visalberghi, Elisabetta, 1997, “Success and Understanding in Cognitive Tasks: A Comparison Between _Cebus apella_ and _Pan troglodytes_”, _International Journal of Primatology_, 18(5): 811–830. doi:10.1023/A:1026399930727
-* de Waal, Frans B.M., 1989, _Peacemaking Among Primates_, Cambridge, MA: Harvard University Press.
-* de Waal, Frans B.M. and Frans Lanting, 1997, _Bonobo: The Forgotten Ape_, Berkeley: University of California Press.
-* Walker, Rebecca L., 2007, “Animal Flourishing: What Virtue Requires of Human Animals”, in _Working Virtue: Virtue Ethics and Contemporary Moral Problems_, Rebecca Walker and Philip J. Ivanhoe (eds.) Oxford: Oxford University Press.
-* Weir, Alex A.S., Jackie Chappell, and Alex Kacelnik, 2002, “Shaping of Hooks in New Caledonian Crows”, _Science_, 297(5583): 981. doi:10.1126/science.1073433
-* Whiten, Andrew and Richard W. Byrne (eds.), 1997, _Machiavellian Intelligence II: Extensions and Evaluations_, Cambridge: Cambridge University Press.
-* Whiten, A., J. Goodall, W.C. McGew, T. Nishida, V. Reynolds, Y. Sugiyama, C.E.G. Tutin, R.W. Wrangham, & C. Boesch, 1999, “Cultures in chimpanzees”, _Nature_, 399(6737): 682–685. doi:10.1038/21415
-* Wood, Allen W., 1998, “Kant on Duties Regarding Nonrational Nature” _Proceedings of the Aristotelian Society Supplement_, LXXII: 189–210. doi:10.1111/1467-8349.00042
-* Woods, Vanessa, 2010, _Bonobo Handshake: A Memoir of Love and Adventure in the Congo_ , New York: Gotham Books.
+* Aaltola, Elisa, 2013, “Empathy, Intersubjectivity and Animal Ethics”, *Environmental Philosophy*, 10(2): 75–96. doi:10.5840/envirophil201310215
+* Adams, Carol J. and Josephine Donovan (eds.), 1995, *Animals and Women: Feminist Theoretical Explorations*, Durham, NC: Duke University Press.
+* Adams, Carol J. and Lori Gruen (eds.), 2014, *Ecofeminism: Feminist Intersections with Other Animals and the Earth*, New York: Bloomsbury Press.
+* Anderson, Elizabeth, 2004, “Animal Rights and the Values of Nonhuman Life”, in *Animal Rights: Current Debates and New Directions*, Cass R. Sunstein and Martha C. Nussbaum (eds.). Oxford: Oxford University Press, chapter 13. doi:10.1093/acprof:oso/9780195305104.003.0014
+* Attenborough, David, 1998, *The Life of Birds*, Princeton: Princeton University Press. \[[Attenborough 1998 excerpts available online](http://www.pbs.org/lifeofbirds/), PBS Online.]
+* Bekoff, Marc, 2000, *The Smile of a Dolphin: Remarkable Accounts of Animal Emotion*, New York: Discovery Books.
+* –––, 2007, *The Emotional Lives of Animals: A Leading Scientist Explores Animal Joy, Sorrow, and Empathy—and Why They Matter*, Novato, California: New World Library.
+* Bekoff, Marc and John A. Byers (eds.), 1998, *Animal Play: Evolutionary, Comparative, and Ecological Perspectives*, Cambridge: Cambridge University Press.
+* Bekoff, Marc, Colin Allen, and Gordon M. Burghardt (eds.), 2002, *The Cognitive Animal*, Cambridge, MA: MIT Press.
+* Bekoff, Marc and Jessica Pierce, 2009, *Wild Justice: The Moral Lives of Animals*, Chicago: University of Chicago Press.
+* Bentham, Jeremy, \[1780/1789] 1982, *An Introduction to the Principles of Morals and Legislation*, edited by J.H. Burns and H.L.A. Hart, London: Methuen, 1982 (Athlone Press 1970).
+* Byrne, Richard W. Byrne and Andrew Whiten (eds.), 1988,*Machiavellian Intelligence: Social Expertise and the Evolution ofIntellect in Monkeys, Apes, and Humans I*, Oxford: ClarendonPress.
+* Cheney, Dorothy L. and Robert M. Seyfarth, 1990, *How MonkeysSee the World: Inside the Mind of Another Species*, Chicago:University of Chicago Press.
+* Chevalier-Skolnikoff, Suzanne, 1989, “Spontaneous Tool Use and Sensorimotor Intelligence in Cebus Compared with other Monkeys and Apes”, *Behavioral and Brain Sciences*, 12(3): 561–588. doi:10.1017/S0140525X00057678
+* Clarke, Stephen R.L., 1977, *The Moral Status of Animals*, Oxford: Oxford University Press.
+* Crary, Alice, 2016, *Inside Ethics: On the Demands of Moral Thought*, Cambridge, MA: Harvard University Press.
+* Darwin, Charles, 1871, *The Descent of Man* (2 volumes), London: John Murray, volume1. \[[Darwin 1871 available online](http://darwin-online.org.uk/content/frameset?pageseq=1\&itemID=F937.1\&viewtype=side)]
+* DeGrazia, David, 1996, *Taking Animals Seriously: Mental Life and Moral Status*, Cambridge: Cambridge University Press.
+* –––, 2002, *Animal Rights: A Very Short Introduction*, Oxford: Oxford University Press.
+* Diamond, Cora, 2001, *The Realistic Spirit*, Cambridge, MA: MIT Press.
+* Donovan, Josephine and Carol J. Adams (eds.), 2007, *The Feminist Care Tradition in Animal Ethics*, New York: Columbia University Press.
+* Fanon, Frantz, 1967, *Black Skin, White Masks*, New York: Grove Press.
+* Galdikas, Birute M.F., 1995, *Reflections of Eden: My Years with the Orangutans of Borneo*, Boston: Little, Brown and Company.
+* Gilbert, Susan, Gregory E. Kaebnick, and Thomas H. Murray, 2012, *Animal Research Ethics: Evolving Views and Practices*, *Hastings Center Special Report*, 42(6): S1–S40. \[[Gilbert, Kaebnick, & Murray 2012 available online](http://animalresearch.thehastingscenter.org/special-report/)]
+* Goodall, Jane, 1986, *The Chimpanzees of Gombe: Patterns of Behavior*, Cambridge, MA: Harvard University Press.
+* –––, 2000, *In the Shadow of Man*, revised edition New York: Houghton Mifflin Co.
+* Griffin, Donald R., 1992, *Animal Minds*, Chicago: University of Chicago Press.
+* Gruen, Lori, 2011, *Ethics and Animals: An Introduction*, Cambridge: Cambridge University Press.
+* –––, 2015, *Entangled Empathy: An Alternative Ethic for Our Relationship with Animals*, Brooklyn: Lantern Books.
+* Hauser, Marc and Susan Carey, 1997, “Building a Cognitive Creature from a Set of Primitives: Evolutionary and Developmental Insights”, in Denise D. Cummins and Colin Allen (eds.), *The Evolution of Mind*, Oxford: Oxford University Press, chapter 3.
+* Hursthouse, Rosalind, 2000, *Ethics, Humans and Other Animals*, London: Routledge.
+* Jamieson, Dale, 2003, *Morality’s Progress: Essays on Humans, Other Animals, and the Rest of Nature*, Oxford: Oxford University Press.
+* Kant, Immanuel, \[1785] 1998, *Groundwork of the Metaphysics of Morals* (*Grundlegung zur Metaphysik der Sitten*), Mary J. Gregor (trans.), Cambridge: Cambridge University Press.
+* –––, \[1798] 2010, “Anthropology from a Pragmatic Point of View (1798)”, in *Anthropology, History, and Education*, (Cambridge Edition of the Works of Immanuel Kant), Robert Louden and Gunter Zoller (eds. and trans.), Cambridge: Cambridge University Press, 227–429. Original is *Anthropologie in pragmatischer Hinsicht*, published in the standard *Akademie der Wissenschaften* edition, volume 7. doi:10.1017/CBO9780511791925
+* –––, \[1784–5] 1997, “Moral Philosophy: Collin’s Lecture Notes”, in *Lectures on Ethics*, (Cambridge Edition of the Works of Immanuel Kant) , P. Heath and J.B. Schneewind (ed. and trans.), Cambridge: Cambridge University Press, pp. 37–222. Original is *Anthropologie in pragmatischer Hinsicht*, published in the standard *Akademie der Wissenschaften* edition, volume 27. doi:10.1017/CBO9781107049512
+* Kheel, Marti, 2008, *Nature Ethics: An Ecofeminist Perspective*, Lanham, MD: Rowman and Littlefield Publishers.
+* Kim, Claire Jean, 2015, *Dangerous Crossings: Race, Species and Nature in a Multicultural Age*, Cambridge: Cambridge University Press.
+* King, Barbara J., 2013, *How Animals Grieve*, Chicago: University of Chicago Press.
+* Ko, Aph and Syl Ko, 2017, *Aphro-ism*, New York: Lantern Books.
+* Korsgaard, Christine M., 1996, *The Sources of Normativity*, Cambridge: Cambridge University Press.
+* –––, 2004, “Fellow Creatures: Kantian Ethics and Our Duties to Animals”, in *The Tanner Lectures on Human Values*, Grethe B. Peterson (ed.), Volume 25/26, Salt Lake City: University of Utah Press. \[[Korsgaard 2004 available online](http://nrs.harvard.edu/urn-3:HUL.InstRepos:3198692)]
+* –––, 2007, “Facing the Animal You See in the Mirror”, *Harvard Review of Philosophy*, 16(1): 4–9. doi:10.5840/harvardreview20091611
+* McMahan, Jeff, 2005, “Our Fellow Creatures” *The Journal of Ethics*, 9(3–4): 353–80. doi:10.1007/s10892-005-3512-2
+* Mason, Jim and Peter Singer, 1980 \[1990], *Animal Factories*, revised edition, New York: Harmony Books; first edition, 1980.
+* Nussbaum, Martha C., 2006, *Frontiers of Justice: Disability, Nationality, and Species Membership*, Cambridge: The Belknap Press.
+* Pepperberg, Irene Maxine, 1999, *The Alex Studies: Cognitive and Communicative Abilities of Grey Parrots*, Cambridge, MA: Harvard University Press.
+* Premack, David, 1986, *Gavagai! or the Future History of the Animal Language Controversy*, Cambridge, MA: MIT Press.
+* Premack, David and Ann J. Premack 1984, *The Mind of an Ape*, New York: W W Norton & Co Inc.
+* Regan, Tom, 1985, “The Case for Animal Rights”, in Peter Singer (ed.), *In Defence of Animals*, Oxford: Basil Blackwell, pp. 13–26. \[[Regan 1985 available online](http://www.animal-rights-library.com/texts-m/regan03.htm)]
+* Rendell, Luke and Hal Whitehead, 2001, “Culture in Whales and Dolphins”, *Behavioral and Brian Sciences*, 24(2): 309–324. doi:10.1017/S0140525X0100396X
+* Roberts, W.A., 1998, *Principles of Animal Cognition*, Boston: McGraw-Hill.
+* Rumbaugh, Duane M. and Sue Savage-Rumbaugh, 1999, “Primate Language” in Robert A. Wilson & Frank Keil (eds.) *The MIT Encyclopedia of the Cognitive Sciences*, Cambridge, MA: MIT Press.
+* Singer, Peter, 1990, *Animal Liberation*, second edition, New York: New York Review of Books.
+* –––, 1979 \[1993], *Practical Ethics*, second edition, Cambridge: Cambridge University Press; first edition, 1979.
+* –––, 1974, “All Animals are Equal”, *Philosophic Exchange*, 5(1), Article 6, [Singer 1974 available online](http://digitalcommons.brockport.edu/phil\*ex/vol5/iss1/6).
+* Singer, Peter and Jim Mason, 2006, *The Way We Eat: Why Our Food Choices Matter/The Ethics of What We Eat*, New York: Rodale Press.
+* Tomasello, Michael and Josep Call, 1997, *Primate Cognition*, Oxford: Oxford University Press.
+* VanDeVeer, Donald, 1979, “Interspecific Justice”, *Inquiry*, 22(1–4): 55–79. doi:10.1080/00201747908601866
+* Varner, Gary E., 1998, *In Nature’s Interests*, New York: Oxford University Press.
+* –––, 2012, *Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism Gary E. Varner*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199758784.001.0001
+* Visalberghi, Elisabetta, 1997, “Success and Understanding in Cognitive Tasks: A Comparison Between *Cebus apella* and *Pan troglodytes*”, *International Journal of Primatology*, 18(5): 811–830. doi:10.1023/A:1026399930727
+* de Waal, Frans B.M., 1989, *Peacemaking Among Primates*, Cambridge, MA: Harvard University Press.
+* de Waal, Frans B.M. and Frans Lanting, 1997, *Bonobo: The Forgotten Ape*, Berkeley: University of California Press.
+* Walker, Rebecca L., 2007, “Animal Flourishing: What Virtue Requires of Human Animals”, in *Working Virtue: Virtue Ethics and Contemporary Moral Problems*, Rebecca Walker and Philip J. Ivanhoe (eds.) Oxford: Oxford University Press.
+* Weir, Alex A.S., Jackie Chappell, and Alex Kacelnik, 2002, “Shaping of Hooks in New Caledonian Crows”, *Science*, 297(5583): 981. doi:10.1126/science.1073433
+* Whiten, Andrew and Richard W. Byrne (eds.), 1997, *Machiavellian Intelligence II: Extensions and Evaluations*, Cambridge: Cambridge University Press.
+* Whiten, A., J. Goodall, W.C. McGew, T. Nishida, V. Reynolds, Y. Sugiyama, C.E.G. Tutin, R.W. Wrangham, & C. Boesch, 1999, “Cultures in chimpanzees”, *Nature*, 399(6737): 682–685. doi:10.1038/21415
+* Wood, Allen W., 1998, “Kant on Duties Regarding Nonrational Nature” *Proceedings of the Aristotelian Society Supplement*, LXXII: 189–210. doi:10.1111/1467-8349.00042
+* Woods, Vanessa, 2010, *Bonobo Handshake: A Memoir of Love and Adventure in the Congo* , New York: Gotham Books.
 
 ### Further Reading
 
-* Beauchamp, Tom L. and R.G. Frey (eds.) 2011, _The Oxford Handbook of Animal Ethics_, New York: Oxford. doi:10.1093/oxfordhb/9780195371963.001.0001
-* Brambell, Ben and Bob Fisher, 2015, _The Moral Complexity of Eating Meat_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199353903.001.0001
-* Chignell, Andrew, Terence Cuneo, and Matthew C. Halteman (eds.) 2015, _Philosophy Comes to Dinner: Arguments About the Ethics of Eating_, New York: Routledge.
-* Derrida, Jacques, 2008, _The Animal That Therefore I Am_ (_Animal que donc je suis_), Mary-Louise Mallet (ed.) and David Wills (trans.), New York: Fordham University Press.
-* Donaldson, Sue and Will Kymlicka, 2011, _Zoopolis: A Political Theory of Animal Rights_, New York: Oxford University Press.
-* Gruen, Lori, 2016, “Conscious Animals and the Value of Experience” in Stephen Gardiner and Allen Thompson (eds.) _The Oxford Handbook of Environmental Ethics_, New York: Oxford University Press, chapter 8.
-* Haraway, Donna, 2003, _The Companion Species Manifesto: Dogs, People and Significant Otherness_, Chicago, IL: Prickly Paradigm Press.
-* Jones, Robert C., 2013, “Science, Sentience, and Animal Welfare”, _Biology and Philosophy_, 28(1): 1–30. doi:10.1007/s10539-012-9351-1
-* Kagan, Shelly, 2011, “Do I Make a Difference?”, _Philosophy & Public Affairs_, 39(2): 105–141. doi:10.1111/j.1088-4963.2011.01203.x
-* Korsgaard, Christine M., 2013, “Getting Animals in View”, _The Point_, 6. \[[Korsgaard 2013 available online](https://thepointmag.com/2012/examined-life/getting-animals-view)]
-* McMahan, Jeff, 2008, “Eating Animals the Nice Way”, _Daedalus_, 127(1): 66–76. doi:10.1162/daed.2008.137.1.66
-* Midgley, Mary, 1983, _Animals and Why They Matter_, Athens, GA: University of Georgia Press.
-* Pachirat, Timothy, 2011, _Every Twelve Seconds: Industrialized Slaughter and the Politics of Sight_, New Haven, CT: Yale University Press.
-* Rachels, James, 1990, _Created from Animals: The Moral Implications of Darwinism_, Oxford: Oxford University Press.
-* Rowlands, Mark, 2012, _Can Animals Be Moral?_ New York: Oxford University Press.
-* Ryder, Richard D., 1989, _Animal Revolution: Changing Attitudes Toward Speciesism_, Oxford: Basil Blackwell.
-* Sapontzis, Steve F. (ed.), 2004, _Food for Thought: The Debate Over Eating Meat_, NY: Prometheus Press.
+* Beauchamp, Tom L. and R.G. Frey (eds.) 2011, *The Oxford Handbook of Animal Ethics*, New York: Oxford. doi:10.1093/oxfordhb/9780195371963.001.0001
+* Brambell, Ben and Bob Fisher, 2015, *The Moral Complexity of Eating Meat*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199353903.001.0001
+* Chignell, Andrew, Terence Cuneo, and Matthew C. Halteman (eds.) 2015, *Philosophy Comes to Dinner: Arguments About the Ethics of Eating*, New York: Routledge.
+* Derrida, Jacques, 2008, *The Animal That Therefore I Am* (*Animal que donc je suis*), Mary-Louise Mallet (ed.) and David Wills (trans.), New York: Fordham University Press.
+* Donaldson, Sue and Will Kymlicka, 2011, *Zoopolis: A Political Theory of Animal Rights*, New York: Oxford University Press.
+* Gruen, Lori, 2016, “Conscious Animals and the Value of Experience” in Stephen Gardiner and Allen Thompson (eds.) *The Oxford Handbook of Environmental Ethics*, New York: Oxford University Press, chapter 8.
+* Haraway, Donna, 2003, *The Companion Species Manifesto: Dogs, People and Significant Otherness*, Chicago, IL: Prickly Paradigm Press.
+* Jones, Robert C., 2013, “Science, Sentience, and Animal Welfare”, *Biology and Philosophy*, 28(1): 1–30. doi:10.1007/s10539-012-9351-1
+* Kagan, Shelly, 2011, “Do I Make a Difference?”, *Philosophy & Public Affairs*, 39(2): 105–141. doi:10.1111/j.1088-4963.2011.01203.x
+* Korsgaard, Christine M., 2013, “Getting Animals in View”, *The Point*, 6. \[[Korsgaard 2013 available online](https://thepointmag.com/2012/examined-life/getting-animals-view)]
+* McMahan, Jeff, 2008, “Eating Animals the Nice Way”, *Daedalus*, 127(1): 66–76. doi:10.1162/daed.2008.137.1.66
+* Midgley, Mary, 1983, *Animals and Why They Matter*, Athens, GA: University of Georgia Press.
+* Pachirat, Timothy, 2011, *Every Twelve Seconds: Industrialized Slaughter and the Politics of Sight*, New Haven, CT: Yale University Press.
+* Rachels, James, 1990, *Created from Animals: The Moral Implications of Darwinism*, Oxford: Oxford University Press.
+* Rowlands, Mark, 2012, *Can Animals Be Moral?* New York: Oxford University Press.
+* Ryder, Richard D., 1989, *Animal Revolution: Changing Attitudes Toward Speciesism*, Oxford: Basil Blackwell.
+* Sapontzis, Steve F. (ed.), 2004, *Food for Thought: The Debate Over Eating Meat*, NY: Prometheus Press.
 
 ## Academic Tools
 
@@ -270,7 +270,7 @@ Alice Crary 认为，我们对道德景观的认知发生变化，是因为这�
 
 ## Other Internet Resources
 
-* [The Moral Status of Animals](https://web.archive.org/web/20160216081457/http://ethics.sandiego.edu/Applied/Animals/), webpage at _Ethics Updates_ (Larry Hinman, University of San Diego), now only available at the Internet Archive.
+* [The Moral Status of Animals](https://web.archive.org/web/20160216081457/http://ethics.sandiego.edu/Applied/Animals/), webpage at *Ethics Updates* (Larry Hinman, University of San Diego), now only available at the Internet Archive.
 * Bentham, J., [An Introduction to the Principles of Morals and Legislation](http://www.econlib.org/library/Bentham/bnthPML.html), at the Library of Economics and Liberty.
 * [Nonhuman Rights Project: Hercules and Leo case](https://www.nonhumanrights.org/hercules-leo/)
   * [petition](https://www.nonhumanrights.org/content/uploads/Suffolk-Verified-Petition-of-E.Stein-and-S.Wise\*.pdf)
@@ -283,4 +283,4 @@ Alice Crary 认为，我们对道德景观的认知发生变化，是因为这�
 [animal: consciousness](https://plato.stanford.edu/entries/consciousness-animal/) | [Bentham, Jeremy](https://plato.stanford.edu/entries/bentham/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [emotion](https://plato.stanford.edu/entries/emotion/) | [feminist philosophy, interventions: ethics](https://plato.stanford.edu/entries/feminism-ethics/) | [feminist philosophy, interventions: political philosophy](https://plato.stanford.edu/entries/feminism-political/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [rights](https://plato.stanford.edu/entries/rights/)
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
-Lori Gruen <[_lgruen@wesleyan.edu_](mailto:lgruen%40wesleyan%2eedu)>
+Lori Gruen <[*lgruen@wesleyan.edu*](mailto:lgruen%40wesleyan%2eedu)>

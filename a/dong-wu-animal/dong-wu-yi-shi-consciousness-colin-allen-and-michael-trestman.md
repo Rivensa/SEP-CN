@@ -1,6 +1,6 @@
 # 动物意识 consciousness (Colin Allen and Michael Trestman)
 
-_首次发表于 1995 年 12 月 23 日；实质性修订于 2016 年 10 月 24 日_
+*首次发表于 1995 年 12 月 23 日；实质性修订于 2016 年 10 月 24 日*
 
 动物意识的问题——特别是哪些动物具有意识以及这种意识可能是什么样的——既是科学问题，也是哲学问题。它们是科学问题，因为回答这些问题需要使用科学技术来收集信息——无论是多少量的坐在椅子上思考、概念分析、逻辑推理、先验理论构建、超验推断还是内省，都无法告诉我们鸭嘴兽、鬣蜥或乌贼（举几个例子）是否享受主观体验的生活——在某个时候，我们将不得不了解一些关于动物的事情。哪种科学可以涉及这些问题是一个活跃的问题，但至少包括对广泛分类动物的行为和神经生理学的调查，以及分类群之间的系统发育关系。但这些问题也是深层次的哲学问题，涉及认识论、形而上学和现象学的维度。因此，取得进展最终需要哲学家与动物生物学的实证细节进行跨学科合作，以及科学家对问题的哲学复杂性有敏感度。
 
@@ -56,7 +56,7 @@ _首次发表于 1995 年 12 月 23 日；实质性修订于 2016 年 10 月 24 
 
 除了关于意识、神经活动和行为之间的联系的一般论证外，大量的科学研究致力于使用动物作为人类的代理，以了解特定的意识状态。许多动物，尤其是其他哺乳动物，对人类会报告为痛苦的身体事件的反应，大多数人都能轻松自动地识别为痛苦的反应。高音调的叫声、恐惧反应、护理伤口和学习性回避等都是对有害刺激的反应，这些反应都是共同的哺乳动物遗产的一部分，类似的反应也可在广泛的分类群体的生物中观察到（见下面的第 7.1 节）。
 
-与人类疼痛治疗直接相关的许多研究，包括关于镇痛药和麻醉剂的有效性的研究，都是在大鼠和其他动物上进行的。这项研究的有效性取决于所涉及的相似机制\[[1](https://plato.stanford.edu/entries/consciousness-animal/notes.html#note-1)]，对许多人来说，否认受伤的大鼠（例如对阿片类药物有良好反应的大鼠）感受到疼痛似乎是武断的。同样，与理解人类视觉意识直接相关的基础研究大部分是在非常相似的猴子视觉系统上进行的。甚至受损的猴子主要视觉皮层的猴子都表现出类似于人类失明患者的损伤（Stoerig & Cowey 1997），这表明完整的猴子的视觉意识与完整的人类的视觉意识相似。科学实验证明，其他物种，甚至其他门的物种，也会受到与我们相同的视觉错觉的影响（例如，Fujita _et al_. 1991），这表明它们的视觉体验是相似的。
+与人类疼痛治疗直接相关的许多研究，包括关于镇痛药和麻醉剂的有效性的研究，都是在大鼠和其他动物上进行的。这项研究的有效性取决于所涉及的相似机制\[[1](https://plato.stanford.edu/entries/consciousness-animal/notes.html#note-1)]，对许多人来说，否认受伤的大鼠（例如对阿片类药物有良好反应的大鼠）感受到疼痛似乎是武断的。同样，与理解人类视觉意识直接相关的基础研究大部分是在非常相似的猴子视觉系统上进行的。甚至受损的猴子主要视觉皮层的猴子都表现出类似于人类失明患者的损伤（Stoerig & Cowey 1997），这表明完整的猴子的视觉意识与完整的人类的视觉意识相似。科学实验证明，其他物种，甚至其他门的物种，也会受到与我们相同的视觉错觉的影响（例如，Fujita *et al*. 1991），这表明它们的视觉体验是相似的。
 
 经常有人争论使用动物来模拟神经精神障碍的做法，预设了情感和其他意识状态的收敛，并且进一步完善这些模型可能会加强将这些状态归因于动物的论点。在科罗拉多州立大学的动物科学教授 Temple Grandin 的工作中，可以找到一种有趣的建模关系的逆转，她利用自己作为所谓的“高功能自闭症患者”的经验作为理解动物体验本质的基础（Grandin 1995, 2004）。
 
@@ -74,13 +74,13 @@ _首次发表于 1995 年 12 月 23 日；实质性修订于 2016 年 10 月 24 
 
 当应用于动物时，还有两个意识的意义引起更多争议：现象意识和自我意识。
 
-_现象意识_指的是意识体验的定性、主观、经验性或现象学方面，有时与感觉质（qualia）等同。（在本文中，我们也使用术语“感知性”来指代现象意识。）以这个意义上思考动物意识，就是考虑到，用纳格尔（1974 年）的话来说，可能存在“有什么样的感受”成为另一物种的成员。纳格尔质疑我们是否有能力以科学（客观）的方式了解、想象或描述成为蝙蝠的感受是什么，但他假设确实存在某种感受。
+*现象意识*指的是意识体验的定性、主观、经验性或现象学方面，有时与感觉质（qualia）等同。（在本文中，我们也使用术语“感知性”来指代现象意识。）以这个意义上思考动物意识，就是考虑到，用纳格尔（1974 年）的话来说，可能存在“有什么样的感受”成为另一物种的成员。纳格尔质疑我们是否有能力以科学（客观）的方式了解、想象或描述成为蝙蝠的感受是什么，但他假设确实存在某种感受。
 
 对于许多作者来说，纳格尔将现象意识形容为“有什么样的感受”成为了动物意识辩论中的一个参考点——在调查一组动物是否有意识时，关键问题是这些动物是否有“有什么样的感受”，即它们是否有生活或存在的主观体验，个体对自己感知、认知和情感过程的独特视角。
 
 尽管一些作者（包括纳格尔本人）认为现象意识的主观性使得科学研究变得极其困难，甚至不可能，尤其是在其他物种中，但其他人则通过发展结构性和/或功能性意识理论，并利用这些理论来支持关于动物意识分布的特定假设。这些理论将在下面的第 5 和第 6 节中讨论。
 
-_自我意识_是指主体对自身的意识，但这也是一个极具歧义的术语——主体可以以重要的不同方式自我意识（例如参见 SEP 关于现象学方法对自我意识的文章）。这些方式包括：意识到自己的身体作为一个物理对象，或者作为自己感知和行动的媒介（即身体自我意识）；意识到自己的心理状态（即心理或经验自我意识）；意识到自己被他人所感知，或者作为一个家庭、团队或机构的成员（即社会自我意识）；意识到自己作为自己和他人叙述的持久角色（即叙事自我意识）。这个列表远非详尽无遗，而且每个列出的概念都需要进一步澄清。因此，尽管在许多理论中，自我意识与现象意识密切相关，但对此类效果的提议在其含义和对哪些动物可能具有意识的影响上可能存在很大差异。
+*自我意识*是指主体对自身的意识，但这也是一个极具歧义的术语——主体可以以重要的不同方式自我意识（例如参见 SEP 关于现象学方法对自我意识的文章）。这些方式包括：意识到自己的身体作为一个物理对象，或者作为自己感知和行动的媒介（即身体自我意识）；意识到自己的心理状态（即心理或经验自我意识）；意识到自己被他人所感知，或者作为一个家庭、团队或机构的成员（即社会自我意识）；意识到自己作为自己和他人叙述的持久角色（即叙事自我意识）。这个列表远非详尽无遗，而且每个列出的概念都需要进一步澄清。因此，尽管在许多理论中，自我意识与现象意识密切相关，但对此类效果的提议在其含义和对哪些动物可能具有意识的影响上可能存在很大差异。
 
 本文的其余部分主要涉及将意识以其现象意义归属于动物，尽管会讨论动物中的接触意识、自我意识和心灵理论，特别是当这些理论与现象意识有理论关联时，比如卡鲁瑟斯（Carruthers）在 1998 年、2000 年的论证中提出，现象意识需要一种特定类型的心理自我表征。
 
@@ -114,7 +114,7 @@ _自我意识_是指主体对自身的意识，但这也是一个极具歧义的
 
 在 20 世纪 70 年代，唐纳德·格里芬以精确的物理测量来证明蝙蝠使用回声定位，他在呼吁重新关注动物心智，尤其是动物意识方面取得了相当大的影响。格里芬（1978）创造了“认知动物行为学”这个术语来描述这个研究项目，该项目基于对动物行为的自然观察，并试图在进化的背景下理解动物的心智。格里芬强调行为的灵活性和多样性是意识的主要证据来源，他将意识定义为“对对象和事件的主观感受或思考状态”（Griffin & Speck 2004，第 6 页）。格里芬认为，至少在简单形式中，主观性是动物界中普遍存在的现象，这一观点与劳埃德·摩根的观点有相当大的相似之处。伯哈特报告称，在格里芬早期学科建设的达勒姆会议上，“对主观主义的相当不适”（Burghardt 1985，第 907 页）引起了争议（Griffin 1981）。格里芬的主观主义立场以及他提出的甚至昆虫如蜜蜂也有意识的观点，对许多科学家来说，似乎是对达尔文和罗曼斯所见到的过度解读轶事的令人遗憾的回归。这种批评在一定程度上可能是不公平的，因为格里芬并没有重复罗曼斯收集的“农夫的朋友”类型的故事，而是基于达尔文之后一个多世纪积累的更为复杂的科学文献的结果进行解释（例如，Giurfa et al. 2001）。然而，对这些结果的过度解读的指责可能更难以避免。还需要注意的是，在他的论证中，神经学证据所起的作用，他得出结论称，对意识的神经相关性的密集搜索并没有揭示“只在人类大脑中发现的任何意识所必需的结构或过程”（Griffin & Speck 2004）。这个观点在神经科学家中被广泛接受，尽管并非普遍如此。
 
-格里芬对于研究动物意识的基于行为的方法论也被认为是拟人化的（参见 Bekoff 和 Allen 1997 的调查）。但是这样的批评可能高估了拟人化的危险性（Fisher 1990），而且许多批评者本身依赖于缺乏科学数据支持的主张（例如，Kennedy 1992 声称“拟人化”的“罪”可能被遗传编程到人类中）。与此同时，其他科学家无论是否明确支持格里芬的计划，都试图扩展对动物意识的进化研究，包括神经科学和广泛的功能考虑（例如，Ârhem _et al_. 2002，参见第 6 节）。无论他具体提出的建议有何不足，格里芬在将意识的明确讨论重新引入动物行为和认知科学中起到了关键作用，从而为现代对意识的分布和进化起源的研究铺平了道路。
+格里芬对于研究动物意识的基于行为的方法论也被认为是拟人化的（参见 Bekoff 和 Allen 1997 的调查）。但是这样的批评可能高估了拟人化的危险性（Fisher 1990），而且许多批评者本身依赖于缺乏科学数据支持的主张（例如，Kennedy 1992 声称“拟人化”的“罪”可能被遗传编程到人类中）。与此同时，其他科学家无论是否明确支持格里芬的计划，都试图扩展对动物意识的进化研究，包括神经科学和广泛的功能考虑（例如，Ârhem *et al*. 2002，参见第 6 节）。无论他具体提出的建议有何不足，格里芬在将意识的明确讨论重新引入动物行为和认知科学中起到了关键作用，从而为现代对意识的分布和进化起源的研究铺平了道路。
 
 ## 4. 认识论和形而上学问题
 
@@ -161,7 +161,7 @@ Jamieson（1998）为感知主义辩护，指出我们日常将心理状态归�
 
 ### 4.3 认知与意识
 
-许多科学家和哲学家仍然坚信，即使对动物心智的某些问题是经验可追踪的，任何实验也无法直接获得_现象意识_。即使是那些愿意引用认知解释动物行为的人，他们也认为无法处理意识的反对意见在一定程度上可以理解为行为主义心理学的遗产，首先是因为行为主义者拒绝使用无法观察到的术语，除非它们可以在可观察的术语中得到正式定义，或者以其他方式在实验中操作化，其次是因为在许多行为主义者的心目中，使用心理术语与笛卡尔的二元论和内省心理学的双重威胁有着强烈的关联。在某些情况下，这些科学家甚至是二元论者自己，但他们坚决否认科学研究意识的可能性，并对所有试图将其纳入科学主流的尝试持怀疑态度。
+许多科学家和哲学家仍然坚信，即使对动物心智的某些问题是经验可追踪的，任何实验也无法直接获得*现象意识*。即使是那些愿意引用认知解释动物行为的人，他们也认为无法处理意识的反对意见在一定程度上可以理解为行为主义心理学的遗产，首先是因为行为主义者拒绝使用无法观察到的术语，除非它们可以在可观察的术语中得到正式定义，或者以其他方式在实验中操作化，其次是因为在许多行为主义者的心目中，使用心理术语与笛卡尔的二元论和内省心理学的双重威胁有着强烈的关联。在某些情况下，这些科学家甚至是二元论者自己，但他们坚决否认科学研究意识的可能性，并对所有试图将其纳入科学主流的尝试持怀疑态度。
 
 哲学家们的一系列论证也非常重要，他们认为意识的主观性使其本质上难以研究。Block（1995）对现象意识和获取意识之间的影响力区分被构建为对心理学文献中对意识处理的批评的一部分：通过未能正确区分作为经验的意识（现象意识）和作为信息的普遍可获得性的意识（获取意识），科学家们在意识的现象意义上从意识的获取意义的前提中得出结论。获取意识和现象意识之间的概念区分，以及对后者进行实证研究的困难，被视为实证意识研究的一大障碍。Block 本人最近更加乐观，甚至认为某些实验可以在实证上区分现象意识和获取意识（Block 2011）。但是，获取意识和现象意识之间的区别对于那些希望从实证角度研究后者的人来说确实带来了特殊的方法论障碍。
 
@@ -227,7 +227,7 @@ Velmans（2012）区分了“不连续理论”和“连续理论”。前者声
 
 对于这样的论点，人们常常回应说，在信息不完全的情况下，“没有证据不等于证据不存在”。笛卡尔对鹦鹉模仿人类语言的行为不屑一顾，因为他认为这只是毫无意义的重复。这个判断可能适用于他遇到的少数几只鹦鹉，但并没有基于对鹦鹉能力的系统、科学的调查。如今，许多人会认为佩珀伯格对非洲灰鹦鹉“亚历克斯”（佩珀伯格 1999）的研究应该能够消除笛卡尔的偏见。这项研究以及一些关于黑猩猩和倭黑猩猩获得一定程度的交流能力的研究（例如，加德纳等人 1989 年；萨维奇-伦巴格 1996 年）似乎都在削弱笛卡尔关于动物缺乏有意义的交流和一般推理能力的说法。（另请参见对赫利和纳兹 2006 年的贡献。）
 
-笛卡尔派的回应是指出这些研究中动物所展示的局限性（毕竟它们不能下好一盘国际象棋，更别说告诉我们它们在想什么了），他们与语言学家一起抗议动物语言研究的对象尚未完全掌握自然人类语言的递归句法。但是，这种事后提高标准的做法使许多科学家认为，笛卡尔的立场并不是作为一个科学假设来持有的，而是作为一种信条来用任何手段来捍卫。在看到复杂的认知能力证据后，大多数哲学家如今都同意布洛克的观点，即许多动物确实具有某种形式的意识。然而，当涉及到现象意识时，相似性论证并不能完全使动物有感知能力的辩护者停下来思考，因为大多数人都会同意，在某个程度上，人类和其他物种（例如普通蚯蚓_Lumbricus terrestris_）的能力之间的差异是如此之大，以至于这样的生物不太可能有感知能力。灰色地带的出现正是因为没有人能够说出多少差异足以触发判断缺乏感知能力的标准。
+笛卡尔派的回应是指出这些研究中动物所展示的局限性（毕竟它们不能下好一盘国际象棋，更别说告诉我们它们在想什么了），他们与语言学家一起抗议动物语言研究的对象尚未完全掌握自然人类语言的递归句法。但是，这种事后提高标准的做法使许多科学家认为，笛卡尔的立场并不是作为一个科学假设来持有的，而是作为一种信条来用任何手段来捍卫。在看到复杂的认知能力证据后，大多数哲学家如今都同意布洛克的观点，即许多动物确实具有某种形式的意识。然而，当涉及到现象意识时，相似性论证并不能完全使动物有感知能力的辩护者停下来思考，因为大多数人都会同意，在某个程度上，人类和其他物种（例如普通蚯蚓*Lumbricus terrestris*）的能力之间的差异是如此之大，以至于这样的生物不太可能有感知能力。灰色地带的出现正是因为没有人能够说出多少差异足以触发判断缺乏感知能力的标准。
 
 以原则性的方式挑选出行为或神经生理特征，作为可靠的意识指标，是自 21 世纪初以来许多作者追求的结构和功能导向方法的目标。尽管有时会与意识的形而上学问题一起追求，但这个项目承诺在面对意识的形而上学问题持续不确定性的情况下，具有实证可行性。
 
@@ -273,9 +273,9 @@ Carruthers 主张只有人类（可能除了黑猩猩）具有意识，尽管原
 
 Carruthers 既不支持也不完全否定黑猩猩具有感知能力的结论。他怀疑即使黑猩猩可能也缺乏心灵理论，因此（在他的观点中）缺乏现象意识，这是基于 Povinelli（1996）进行的一些巧妙的实验室研究，这些研究显示，在与人类食物提供者的互动中，黑猩猩似乎无法理解眼睛在向人类提供视觉信息方面的作用，尽管它们在关注面部方向等线索方面的行为与人类表现出相似的行为。对 Povinelli 工作的解释仍然有争议。Hare 等人（2000）进行了实验，其中优势和从属动物相互竞争食物，并得出结论：“至少在某些情况下，黑猩猩知道同类看到和不看到什么，并且他们利用这个知识来制定他们在食物竞争情况下的行为策略。”他们认为 Povinelli 的负面结果可能是因为他的实验涉及较少自然的黑猩猩-人类互动。鉴于不确定性，Carruthers 在提出关于黑猩猩感知能力的主张时采取了谨慎的方式，这是明智的。
 
-对于心灵理论的争议的全面讨论（例如，Heyes 1998; Lurz 2011; Andrews 2012）值得有一个独立的条目，但值得注意的是，心灵理论的辩论起源于灵长类动物智力（尤其是人类智力）特别适应社会认知的假设（参见 Byrne＆Whiten 1988，特别是第一和第二章，由 Jolly 和 Humphrey）。因此，有人认为，在广泛的物种中寻找能力来归因于心理状态的证据可能更好地在自然活动（如社交游戏）中寻找，而不是在将动物置于人工情境的实验室设计实验中（Allen＆Bekoff 1997;参见尤其第 6 章;另请参见 Hare _et al_ 2000，Hare _et al_ 2001 和 Hare＆Wrangham 2002）。试图在自然条件下为非人类动物提供心灵理论的强有力证据的替代方法通常未能产生这样的证据（例如，Cheney＆Seyfarth 1990, 2007 关于绿猴和狒狒的心灵理论的结论），尽管轶事证据令人心动地暗示研究人员仍然没有设法设计出正确的实验。此外，心灵理论和社会认知更广泛地是研究的活跃领域，新的研究很可能揭示非人类动物的心灵理论的证据。
+对于心灵理论的争议的全面讨论（例如，Heyes 1998; Lurz 2011; Andrews 2012）值得有一个独立的条目，但值得注意的是，心灵理论的辩论起源于灵长类动物智力（尤其是人类智力）特别适应社会认知的假设（参见 Byrne＆Whiten 1988，特别是第一和第二章，由 Jolly 和 Humphrey）。因此，有人认为，在广泛的物种中寻找能力来归因于心理状态的证据可能更好地在自然活动（如社交游戏）中寻找，而不是在将动物置于人工情境的实验室设计实验中（Allen＆Bekoff 1997;参见尤其第 6 章;另请参见 Hare *et al* 2000，Hare *et al* 2001 和 Hare＆Wrangham 2002）。试图在自然条件下为非人类动物提供心灵理论的强有力证据的替代方法通常未能产生这样的证据（例如，Cheney＆Seyfarth 1990, 2007 关于绿猴和狒狒的心灵理论的结论），尽管轶事证据令人心动地暗示研究人员仍然没有设法设计出正确的实验。此外，心灵理论和社会认知更广泛地是研究的活跃领域，新的研究很可能揭示非人类动物的心灵理论的证据。
 
-在像卡鲁瑟斯这样的观点中，意识根植于高度特定和模块化的认知过程 - 实际上，与所有非人类动物行为相关的感知、动机和认知过程无关。鉴于与人类活动相关的大多数认知过程（及相应的脑系统）与非人类动物共享，这种思维方式意味着人类活动的大部分也是无意识的。因此，例如，卡鲁瑟斯（1989, 1992）认为_所有_动物行为都可以归类为人类的无意识活动，例如在分心的情况下驾驶（“自动驾驶”），或者与视觉皮层损伤导致他们在视野的一部分（“视野缺损”）上感觉盲目，但仍然能够识别出呈现给视野缺损的事物的“视盲”患者的能力。（他将这两者都称为“无意识经历”的例子）。
+在像卡鲁瑟斯这样的观点中，意识根植于高度特定和模块化的认知过程 - 实际上，与所有非人类动物行为相关的感知、动机和认知过程无关。鉴于与人类活动相关的大多数认知过程（及相应的脑系统）与非人类动物共享，这种思维方式意味着人类活动的大部分也是无意识的。因此，例如，卡鲁瑟斯（1989, 1992）认为*所有*动物行为都可以归类为人类的无意识活动，例如在分心的情况下驾驶（“自动驾驶”），或者与视觉皮层损伤导致他们在视野的一部分（“视野缺损”）上感觉盲目，但仍然能够识别出呈现给视野缺损的事物的“视盲”患者的能力。（他将这两者都称为“无意识经历”的例子）。
 
 将动物行为与人类的无意识能力进行比较，可以从以下几个方面进行批评：首先，与笛卡尔对鹦鹉的论断一样，这种比较只是基于对动物行为的非系统观察。有理由认为，仔细的调查可能会揭示动物行为与与无意识经验相关的人类行为之间并没有非常密切的类比。例如，自动驾驶的无意识经验并不被其主体记忆，而没有证据表明动物也无法回忆起他们所谓的无意识经验。同样，失明视觉的主体不会自发地对其视野盲点中呈现的事物做出反应，而是必须经过训练，使用强制反应范式来做出反应。没有证据表明这种限制对动物来说是正常的，或者动物在视觉经验方面的行为类似于失明视觉的受害者（Jamieson＆Bekoff 1992）。
 
@@ -297,7 +297,7 @@ Gallup 对镜子实验结果的解释并不是没有争议的（Mitchell 2002）
 
 关于爬行动物是否有意识（以及它们的心智生活可能是什么样的）的问题特别有趣，因为鸟类与它们的亲缘关系比与哺乳动物更近，然而鸟类展示了各种行为，这些行为往往直观地向人类观察者暗示着智慧和情感，而不像蛇和龟等有鳞片的所谓“冷血动物”的行为那样明显。鸟类和哺乳动物是否共享心智特征（意识、智慧、情感、社会依恋），而这些特征在爬行动物中不存在？如果是这样，这将代表这些现象的独立、趋同进化。或者，这些特征是否普遍存在于所有这些动物中，只是在某些动物身上不太明显？
 
-Cabanac 等人（2009）认为意识是独特的，并由所有的_羊膜动物_共享 - 这个类群包括所有现存鸟类和哺乳动物的共同祖先的后代，包括蜥蜴、蛇、龟和已灭绝的动物，如恐龙、翼龙和古代海龙（参见 http://tolweb.org/Amniota）。根据这个假设，只有这些动物，而不是两栖动物、鱼类或任何无脊椎动物，才具有意识。Cabanac 的论点基于一个明确的意识结构和功能理论，即意识是一个统一的表征空间，是“一个关于现实的抽象私有模型，具有四个维度：质量、强度、愉悦性和持续时间”（2009 年，第 268 页）。拥有这种模拟现实的能力使动物能够模拟可能的行动方案，使用愉悦性（快乐或痛苦）作为评估和选择行动的“通用货币”，这些行动是基于先前经验的预期后果。
+Cabanac 等人（2009）认为意识是独特的，并由所有的*羊膜动物*共享 - 这个类群包括所有现存鸟类和哺乳动物的共同祖先的后代，包括蜥蜴、蛇、龟和已灭绝的动物，如恐龙、翼龙和古代海龙（参见 http://tolweb.org/Amniota）。根据这个假设，只有这些动物，而不是两栖动物、鱼类或任何无脊椎动物，才具有意识。Cabanac 的论点基于一个明确的意识结构和功能理论，即意识是一个统一的表征空间，是“一个关于现实的抽象私有模型，具有四个维度：质量、强度、愉悦性和持续时间”（2009 年，第 268 页）。拥有这种模拟现实的能力使动物能够模拟可能的行动方案，使用愉悦性（快乐或痛苦）作为评估和选择行动的“通用货币”，这些行动是基于先前经验的预期后果。
 
 Cabanac 根据这个模型的结构和功能理论，确定了一组意识的行为标记：
 
@@ -370,7 +370,7 @@ Trestman（2013a）认为，复杂主动体的进化需要整合的、具身化�
 
 鉴于痛苦对于我们对动物的伦理义务的大部分描述的核心地位，以及动物疼痛模型在临床医学研究中的重要性（参见 Mogil 2009 进行综述），不难理解有大量（尽管有争议）的科学文献与动物疼痛相关。英国纳菲尔德生物伦理委员会（Nuffield Council 2005；尤其参见第 4 章）和美国国家科学院动物实验研究所（ILAR 2009）最近对疼痛的定义以及非人类动物的生理、神经和行为证据进行了报道。这些综述还区分了疼痛与困扰和痛苦（参见 Bermond 2001），ILAR 将原来关于疼痛和困扰的单一报告分为两个独立的报告，尽管对困扰的科学研究相对简陋（但参见 Dawkins 1985；Farah 2008）。
 
-对动物疼痛的神经学研究的适当理解始于对伤害感知和疼痛之间的区别。伤害感知——感知有害刺激的能力——是最原始的感觉能力之一。在无脊椎动物中，已经描述了功能专门化于伤害感知的神经元，例如医用水蛭和海洋蜗牛_Aplysia californica_（Walters 1996）。由于伤害感受器在非常广泛的物种中都存在，并且即使在去脑或脊髓切断的动物中也能发挥功能，它们在某个物种中的存在和活动并不能直接证明有感知痛苦的意识体验。Melzack 和 Wall（1965）的门控控制理论描述了一种机制，即来自大脑的“自上而下”的信号调节“自下而上”的伤害感知，为感受到的疼痛和伤害感知之间提供了区别的空间。
+对动物疼痛的神经学研究的适当理解始于对伤害感知和疼痛之间的区别。伤害感知——感知有害刺激的能力——是最原始的感觉能力之一。在无脊椎动物中，已经描述了功能专门化于伤害感知的神经元，例如医用水蛭和海洋蜗牛*Aplysia californica*（Walters 1996）。由于伤害感受器在非常广泛的物种中都存在，并且即使在去脑或脊髓切断的动物中也能发挥功能，它们在某个物种中的存在和活动并不能直接证明有感知痛苦的意识体验。Melzack 和 Wall（1965）的门控控制理论描述了一种机制，即来自大脑的“自上而下”的信号调节“自下而上”的伤害感知，为感受到的疼痛和伤害感知之间提供了区别的空间。
 
 Smith & Boyd（1991）评估了动物的疼痛感知能力的证据，包括是否有痛觉受体与中枢神经系统相连、是否存在内源性阿片类物质、镇痛药是否影响反应以及后续行为反应是否类似于人类（参见 Varner 1998 年第 53 页的表 2.3，该表是根据 Smith & Boyd 提供的更新版本）。根据这些标准，Varner 在暂时性地得出结论，即在有意识地感受到疼痛的生物和无法感受到疼痛的生物之间，最明显的界限是脊椎动物和无脊椎动物之间。然而，Elwood & Appel（2009）对寄居蟹进行了一项实验，他们解释这为这些甲壳动物经历和记忆疼痛提供了证据。Varner 对“较低级”脊椎动物（鱼类、爬行动物和两栖动物）的有意识疼痛的证据也表示了一些犹豫。然而，Allen（2004）认为，随后的研究表明，发现的方向似乎一致地指向在不同分类类群中属于不同物种的相似性更多，特别是在痛觉和疼痛系统的解剖学和生理学领域。
 
@@ -416,9 +416,9 @@ Sufka 等人（2009 年）提出，神经精神疾病的动物模型也可能支
 
 尽管通常报道黑猩猩一致“通过”了镜像标记测试，但 Shumaker 和 Swartz（2002）对科学文献进行的调查表明，在 163 只经过测试的黑猩猩中，只有 73 只表现出触摸标记的行为（尽管这些动物的年龄和镜像经验存在相当大的差异）。Shumaker 和 Swartz 还报告了 6 只经过测试的猩猩中的 5 只和 23 只大猩猩中的 6 只表现出触摸标记的行为。他们认为大猩猩触摸标记的较低发生率可能是由于避免与社会上有重要意义的直接眼神接触。
 
-对于大猩猩以外的非人类灵长类动物，镜像自我识别的证据很少。Gallup 本人认为这只是大猩猩的现象，并且他是最早质疑 Hauser 的报告的人之一，Hauser 的报告声称棉顶蛛猴在它们独特的白色鬃毛被染成霓虹色后，会进行镜像引导的自我定向行为，而 Hauser 和合著者认为这种刺激比 Gallup 使用的红点更显著（Hauser _et al_. 1995）。面对 Gallup 的质疑，Hauser 本人无法复制他最初的结果（Hauser _et al_. 2001）。然而，Gallup 的实验使用的刺激对于猴子来说并不特别显著的观点仍然有一定的影响力。例如，Rajala _et al_.（2010）提供了定量和视频证据，证明头部植入物的恒河猴使用镜子检查植入物以及它们通常无法看到的身体其他部位。
+对于大猩猩以外的非人类灵长类动物，镜像自我识别的证据很少。Gallup 本人认为这只是大猩猩的现象，并且他是最早质疑 Hauser 的报告的人之一，Hauser 的报告声称棉顶蛛猴在它们独特的白色鬃毛被染成霓虹色后，会进行镜像引导的自我定向行为，而 Hauser 和合著者认为这种刺激比 Gallup 使用的红点更显著（Hauser *et al*. 1995）。面对 Gallup 的质疑，Hauser 本人无法复制他最初的结果（Hauser *et al*. 2001）。然而，Gallup 的实验使用的刺激对于猴子来说并不特别显著的观点仍然有一定的影响力。例如，Rajala *et al*.（2010）提供了定量和视频证据，证明头部植入物的恒河猴使用镜子检查植入物以及它们通常无法看到的身体其他部位。
 
-Gallup 的实验的修改版本也已经在非灵长类物种中进行过。恶名昭彰的是，Epstein _et al_.（1981）训练了鸽子在镜子中只能看到的自己身上的标记上啄食，并以此质疑基于镜像标记测试的“自我意识”归因，更倾向于一种联想学习的解释。Gallup _et al_.（2002）反驳了这种声称的等价性，指出在测试之前，黑猩猩并没有接受过触摸标记的训练。Reiss 和 Marino（2001）提供了海豚镜像自我识别的证据。他们使用了 Gallup 程序的修改版本，不需要麻醉，通过海豚在镜子前的身体扭曲来推断自我识别（对于海豚来说，自我触摸在解剖上是不可能的）。这些证据受到了质疑（例如 Wynne 2004）。镜像标记测试在包括大象（Plotnik _et al_. 2006）和喜鹊（Prior _et al_. 2008）在内的各种物种中仍然是一个活跃研究领域。一些评论家指出，对于更依赖于除视觉以外的感官的物种来说，镜像测试可能并不完全公平（Mitchell 2002; Bekoff and Burghardt 2002）。
+Gallup 的实验的修改版本也已经在非灵长类物种中进行过。恶名昭彰的是，Epstein *et al*.（1981）训练了鸽子在镜子中只能看到的自己身上的标记上啄食，并以此质疑基于镜像标记测试的“自我意识”归因，更倾向于一种联想学习的解释。Gallup *et al*.（2002）反驳了这种声称的等价性，指出在测试之前，黑猩猩并没有接受过触摸标记的训练。Reiss 和 Marino（2001）提供了海豚镜像自我识别的证据。他们使用了 Gallup 程序的修改版本，不需要麻醉，通过海豚在镜子前的身体扭曲来推断自我识别（对于海豚来说，自我触摸在解剖上是不可能的）。这些证据受到了质疑（例如 Wynne 2004）。镜像标记测试在包括大象（Plotnik *et al*. 2006）和喜鹊（Prior *et al*. 2008）在内的各种物种中仍然是一个活跃研究领域。一些评论家指出，对于更依赖于除视觉以外的感官的物种来说，镜像测试可能并不完全公平（Mitchell 2002; Bekoff and Burghardt 2002）。
 
 一条有趣的研究线索探讨了动物对自身心理状态的认知，考虑到动物在认知不确定性的情况下的表现。当灵长类动物和海豚被给予“救助”反应的选择，以避免进行困难的区分时，研究表明它们选择救助选项的方式与人类非常相似（Smith 等，2003 年）。那些没有救助选项并被迫回应困难比较的动物表现得比那些有救助选项但选择回应测试的动物更差，这一事实被用来证明某种高阶自我理解的存在。原始实验引起了哲学上对第二阶解释的批评（例如 Carruthers，2008 年），以及心理学家对方法论的批评（由 Crystal 和 Foote，2009 年回顾），尽管建立非语言动物元认知的替代方法可能能够避免这些批评（Terrace 和 Son，2009 年）。
 
@@ -432,231 +432,231 @@ Gallup 的实验的修改版本也已经在非灵长类物种中进行过。恶�
 
 ## Bibliography
 
-* Akins, K. A. (1993). A Bat Without Qualities. In M. Davies & G. Humphreys (eds.), _Consciousness_ (pp. 258–273), Oxford: Blackwell.
-* Alcock, J. (1992). Review of Griffin 1992. _Natural History_, 101(9), 62–65.
-* Allen, C. (1992a). Mental Content. _British Journal for the Philosophy of Science_, 43(4), 537–553.
-* ––– (1992b). Mental Content and Evolutionary Explanation. _Biology and Philosophy_, 7(1), 1–12.
-* ––– (2004). Animal Pain. _Noûs_, 38(4), 617–643.
-* ––– (2013). Fish cognition and consciousness. _Journal of Agricultural and Environmental Ethics_, 26(1), 25–39.
-* Allen, C., & Bekoff, M. (1997). _Species of Mind: The Philosophy and Biology of Cognitive Ethology_. Cambridge, MA: MIT Press.
-* Allen, C., Fuchs, P. N., Shriver, A. & Wilson, H. (2005). Deciphering Animal Pain. In M. Aydede (ed.), _Pain: New Essays on the Nature of Pain and the Methodology of its Study_ (pp. 352–366). Cambridge, MA: MIT Press.
-* Allen, C., & Grau, J., & Meagher, M. (2009). The Lower Bounds of Cognition: What Do Spinal Cords Reveal? In J. Bickle (ed.), _The Oxford Handbook of Philosophy of Neuroscience_ (pp. 129–142). Oxford: Oxford University Press.
-* Anderson, S. R. (2004). _Doctor Dolittle’s Delusion_. New Haven: Yale University Press.
-* Andrews, K. (1996). The first step in the case for great ape equality: the argument for other minds. _Etica & Animali (Special issue devoted to The Great Ape Project)_, 8, 131–141.
-* ––– (2012). _Do Apes Read Minds? Toward a New Folk Psychology_. Cambridge, MA: MIT Press.
-* Ârhem, P., & Liljenström, H., & Lindahl, B. I. B. (2002). Evolution of Consciousness: Report of Agora Workshop in Sigtuna, Sweden, August 2001. _Journal of Consciousness Studies_, 9, 81–84.
-* Armstrong, D. A. (1980). _The Nature of Mind and Other Essays_. Ithaca, NY: Cornell University Press.
-* Atoji, Y., & Wild, J. M. (2005). Afferent and efferent connections of the dorsolateral corticoid area in comparison with connections of the temporoparieto-occipital area in the pigeon (Columbia livia). _Journal of Comparative Neurology_, 485, 165–182.
-* Baars, B. J. (1997). In the Theatre of Consciousness: Global Workspace Theory, A Rigorous Scientific Theory of Consciousness. _Journal of Consciousness Studies_, 4, 292–309.
-* Barrington, D. (1773). Experiments and observations on the singing of birds. _Philosophical Transactions of the Royal Society_, 63, 249–91.
-* Bekoff, M. (2007). _The Emotional Lives of Animals_. Novato, CA: New World Library.
-* Bekoff, M., & Allen, C. (1997). Cognitive Ethology: Slayers, Skeptics, and Proponents. In R. Mitchell, N. Thompson & H. Miles (eds.), _Anthropomorphism, Anecdotes, and Animals_ (pp. 313–334). Albany, NY: State University of New York Press.
-* Bekoff, M., & Allen, C., & Burghardt, G. M. (eds.). (2002). _The Cognitive Animal_.Cambridge, MA: MIT Press.
-* Bermond, B. (2001). A neuropsychological and evolutionary approach to animal consciousness and animal suffering. _Animal Welfare Supplement_, 10, 47–62.
-* Bertoloni Meli, D. (2013). Early Modern Experimentation on Live Animals. _Journal of the History of Biology_, 46(2), 199–226.
-* Block, N. (1995). On A Confusion About a Function of Consciousness. _Behavioral and Brain Sciences_, 18, 227–47.
-* Block, N. (2005). Two Neural Correlates of Consciousness. _Trends in Cognitive Sciences_, 9, 41–89.
-* ––– (2011). Perceptual consciousness overflows cognitive access. _Trends in cognitive sciences_, 15(12), 567–575.
-* Blumberg, M. S., & Wasserman, E. A. (1995). Animal Mind and the Argument from Design. _American Psychologist_, 50(3), 133–144.
-* Boly, M., Seth, A. K., Wilke, M., Ingmundson, P., Baars, B., Laureys, S., Edelman, D., Tsuchiya, N. (2013). Consciousness in humans and non-human animals: Recent advances and future directions. _Frontiers in Psychology_, 4 (625), [available online](http://dx.doi.org/10.3389/fpsyg.2013.00625).
-* Braithwaite, V. (2010). _Do Fish Feel Pain?_ Oxford: Oxford University Press.
-* Brigandt, I. (2005). The instinct concept of the early Konrad Lorenz. _Journal of the History of Biology_, 38(3), 571–608.
-* Brown, C. (2015). Fish intelligence, sentience and ethics. _Animal Cognition_, 18, 1–17. [doi:10.1007/s10071-014-0761-0](http://dx.doi.org/10.1007/s10071-014-0761-0)
-* Browne, D. (2004). Do dolphins know their own minds? _Biology & Philosophy_, 19, 633–653.
-* Buckner, C. (2013). Morgan’s Canon, meet Hume’s Dictum: avoiding anthropofabulation in cross-species comparisons. _Biology & Philosophy_, 28(5), 853–871.
-* Burghardt, G. (1985). Animal awareness: Current perceptions and historical perspective. _American Psychologist_, 40(8), 905–19.
-* Burkhardt, R. W. Jr. (1997). The founders of ethology and the problem of animal subjective experience. In M. Dol, et al., _Animal Consciousness and Animal Ethics: Perspectives from the Netherlands_ (pp. 1–13). Assen, the Netherlands: van Gorcum.
-* ––– (2005). _Patterns of Behavior: Konrad Lorenz, Niko Tinbergen and the Founding of Ethology_. Chicago: University of Chicago Press.
-* Byrne, R. W., et al. (2008). Do Elephants Show Empathy? _Journal of Consciousness Studies_, 15(10–11), 204–225.
-* Byrne, R. W., & Whiten, A. (1988). _Machiavellian Intelligence: social expertise and the evolution of intellect in monkeys, apes and humans_. Oxford: Oxford University Press.
-* Cabanac, A., & Cabanac, M. (2000). Heart rate response to gentle handling of frog and lizard. _Behavioural Processes_, 52, 89–95.
-* ––– (2004). No emotional fever in toads. _Journal of Thermal Biology_, 29, 669–73.
-* Cabanac, M., & Bernieri, C. (2000). Behavioral rise in body temperature and tachycardia by handling of a turtle (Clemys insculpta).. _Behavioural Processes_, 49, 61–68.
-* Cabanac, M., & Cabanac, J., & Paren, A. (2009). The emergence of consciousness in phylogeny. _Behavioural Brain Research_, 2(198), 267–272.
-* Cabanac, M., & Gosselin, F. (1993). Emotional fever in the lizard Callopistes maculates. _Animal Behavior_, 46, 200–202.
-* Cabanac, A. J., & Guillemette, M. (2001). Temperature and heart rate as stress indicators of handled common eider. _Physiology and Behavior_, 74, 475–9.
-* Carruthers, P. (1989). Brute experience. _The Journal of Philosophy_, 86(5), 258–269.
-* ––– (1992). _The Animals Issue_. Cambridge: Cambridge University Press.
-* ––– (1996). _Language, Thought and Consciousness_. Cambridge: Cambridge University Press.
-* ––– (1998). Animal Subjectivity. _Psyche_, 4(3), 2377.
-* ––– (1998). Natural Theories of Consciousness. _European Journal of Philosophy_, 6, 203–222.
-* ––– (1999). Sympathy and subjectivity. _Australasian Journal of Philosophy_, 77(4), 465–482.
-* ––– (2000). _Phenomenal Consciousness: A naturalistic theory_. Cambridge: Cambridge University Press.
-* ––– (2004). Suffering without Subjectivity. _Philosophical Studies_, 121(2), 99–125.
-* ––– (2008). Meta-cognition in Animals: A Skeptical Look. _Mind & Language_, 23, 58–89.
-* Cavalieri, P., & Singer, P. (eds.). (1994). _The great ape project: Equality beyond humanity_. New York: St. Martin’s Press.
-* Chalmers, D. (2015). Panpsychism and panprotopsychism. In T. Alter & Y. Nagasawa (eds.), _Consciousness in the Physical World: Perspectives on Russellian Monism_. New York: Oxford University Press, pp 246-276.
-* Chandroo, K. P., & Yue, S., & Moccia, R. D. (2004). An evaluation of current perspectives on consciousness and pain in fishes. _Fish and Fisheries_, 5, 281–295.
-* Cheney, D. L., & Seyfarth, R. M. (1990). _How Monkeys See the World: Inside the Mind of Another Species_. Chicago: University of Chicago Press.
-* ––– (2007). _Baboon Metaphysics: The Evolution of a Social Mind_. Chicago: University of Chicago Press.
-* Clark, R. E., & Squire, L. R. (1998). Classical Conditioning and Brain Systems: The Role of Awareness. _Science_, 280, 77–81.
-* Clayton, N. S., & Bussey, T., & Dickinson, A. (2003). Can Animals Recall the Past and Plan for the Future? _Nature Reviews: Neuroscience_, 4, 685–91.
-* Clayton, N. S., & Yu, K. S., & Dickinson, A. (2001). Scrub Jays (Aphelocoma coerulescens) form integrated memories of the multiple features of caching episodes. _Journal of Experimental Psychology: Animal Behavior Processes_, 1, 17–29.
-* Crist, E. (2002). The inner life of earthworms: Darwin’s argument and its implications. In M. Bekoff, C. Allen & G. Burghardt (eds.), _The Cognitive Animal_ (pp. 3–8). Cambridge, MA: MIT Press.
-* Crystal, J. D. (2009). Elements of episodic-like memory in animal models. _Behavioural Processes_, 80(3), 269–277.
-* Crystal, J. D., & Foote, A. L. (2009). Metacognition in animals. _Comparative Cognition & Behavior Reviews_, 4, 1–16.
-* Damasio, A. (1999). Empathy and direct social perception. _Review of Philosophy and Psychology_, 3, 541–558.
-* ––– (1999). _The Feeling of What Happens_. New York: Harcourt Brace.
-* Darwin, C. (1871). _The Descent of Man and Selection in Relation to Sex_. New York: Appleton.
-* ––– (1881). _The formation of vegetable mould, through the action of worms, with observations on their habits_. London: John Murray.
-* Davidson, D. (1975). Thought and Talk. In S. Guttenplan (ed.), _Mind and Language_ (pp. 7–23). Oxford: Oxford University Press.
-* Dawkins, M. S. (1985). The scientific basis for assessing suffering in animals. In P. Singer (ed.), _In Defense of Animals_ (pp. 27–50). New York: Blackwell.
-* Dawkins, M. S. (1993). _Through Our Eyes Only? The Search for Animal Consciousness_. New York: W. H. Freeman.
-* ––– (2012). _Why Animals Matter: Animal Consciousness, Animal Welfare, and Human Well-being. New York_. Oxford: Oxford University Press.
-* DeGrazia, D. (1997). Great apes, dolphins, and the concept of personhood. _The Southern journal of philosophy_, 3, 301–320.
-* Dennett, D. C. (1969). _Content and Consciousness_. London: Routledge and Kegan Paul.
-* ––– (1983). Intentional systems in cognitive ethology: The ‘Panglossian paradigm’ defended. _Behavioral and Brain Sciences_, 6, 343–390.
-* ––– (1987). _The Intentional Stance_. Cambridge, MA: MIT Press.
-* ––– (1995). Animal consciousness and why it matters. _Social Research_, 62, 691–710.
-* ––– (1997). _Kinds of Minds: Towards an Understanding of Consciousness_. New York: Basic Books.
-* Dretske, F. (1995). _Naturalizing the Mind_. Cambridge, MA: MIT Press.
-* Dubbeldam, J. (2009). The Trigeminal System in Birds and Nociception. _Central Nervous System Agents in Medicinal Chemistry_, 9, 150–158.
-* Edelman, D. B., & Baars, B. J., & Seth, A. K. (2005). Identifying hallmarks of consciousness in non-mammalian species. _Consciousness and cognition_, 14(1), 169–187.
-* Edelman, D. B., & Seth, A. K. (2009). Animal Consciousness: A Synthetic Approach. _Trends in Neuroscience_, 32(9), 476–484.
-* Elwood, R. W., & Appel, M. (2009). Pain experience in hermit crabs? _Animal Behaviour_, 77, 1243–1246.
-* Epstein, R., & Lanza, R. P., & Skinner, B. F. (1981). Self-awareness in the pigeon. _Science_, 212, 695–696.
-* Farah, M. J. (2008). Neuroethics and the Problem of Other Minds: Implications of Neuroscience for the Moral Status of Brain-Damaged Patients and Nonhuman Animals. _Neuroethics_, 1, 9–18.
-* Feeney, M., & Roberts, W., & Sherry, D. (2011). Black-Capped Chickadees (Poecile artricapillus) Anticipate Future Outcomes of Foraging Choices. _Journal of Experimental Psychology_, 37(1), 30–40.
-* Feinberg, T. E., & Mallatt, J. (2013). The evolutionary and genetic origins of consciousness in the Cambrian Period over 500 million years ago. _Frontiers in Psychology_, 4, 00667.
-* Fisher, J. A. (1990). The Myth of Anthropomorphism. In M. Bekoff & D. Jamieson (eds.), _Interpretation and explanation in the study of animal behavior: Interpretation, intentionality, and communication_ (Vol. 1) (pp. 96–116). Boulder: Westview Press.
-* Fitzpatrick, S. (2008). Doing Away with Morgan’s Canon. _Mind & Language_, 23(2), 224–226.
-* Froese, T., & Gould, C., & Seth, A. K. (2011). Validating and calibrating first-and second-person methods in the science of consciousness. _Journal of Consciousness Studies_, 18(2), 38–64.
-* Fujita, K., & Blough, D. S., & Blough, P. M. (1991). Pigeons see the Ponzo illusion. _Animal Learning and Behavior_, 19, 283–293.
-* Gaita, R. (2003). _The Philosopher’s Dog: Friendships with Animals_. London: Routledge.
-* Gallagher, S. (2008). Direct perception in the intersubjective context. _Consciousness and Cognition_, 2, 535–543.
-* Gallup, G. G. Jr. (1970). Chimpanzees: Self-Recognition. _Science_, 167(3914), 86-87.
-* ––– (1982). Self‐awareness and the emergence of mind in primates. _American Journal of Primatology_, 2(3), 237–248.
-* ––– (1986). Do minds exist in species other than our own? _Neuroscience & Biobehavioral Reviews_, 4, 631–641.
-* Gallup, G. G. Jr., & Anderson, J. R., & Shillito, D. J. (2002). The Mirror Test. In M. Bekoff, C. Allen & G. Burghardt (eds.), _The Cognitive Animal_ (pp. 325–334). Cambridge, MA: MIT Press.
-* Gardner, R. A., & Gardner, B. T., & Van Cantfort, T. E. (1989). _Teaching sign language to chimpanzees_. Albany, NY: SUNY Press.
-* Gennaro, R. J. (2004). Higher-order thoughts, animal consciousness, and misrepresentation: A reply to Carruthers and Levine. In R. Gennaro (ed.), _Higher-Order Theories of Consciousness: An Anthology_ (pp. 45–66). Amsterdam: John Benjamins.
-* Ginsburg, S., & Jablonka, E. (2007). The transition to experiencing: I. Limited learning and limited experiencing. _Biological Theory_, 2(3), 218–230.
-* Ginsburg, S., & Jablonka, E. (2007). The transition to experiencing: II. The evolution of associative learning based on feelings. _Biological Theory_, 2(3), 231–243.
-* Giurfa, M., et al. (2001). The concepts of ‘sameness’ and ‘difference’ in an insect. _Nature_, 410, 930–933.
-* Grandin, T. (1995). _Thinking In Pictures: and Other Reports from My Life with Autism_. New York: Doubleday.
-* ––– (2004). _Animals in Translation: Using the Mysteries of Autism to Decode Animal Behavior_. New York: Scribner.
-* Griffin, D. R. (1976). _The Question of Animal Awareness: Evolutionary Continuity of Mental Experience_. New York: Rockefeller University Press.
-* ––– (1978). Prospects for a cognitive ethology. _Behavioral and Brain Sciences_, 4, 527–38.
-* ––– (1984). _Animal Thinking_. Cambridge, MA: Harvard University Press.
-* ––– (1992). _Animal Minds_. Chicago: University of Chicago Press.
-* ––– (2002). What is it like? In M. Bekoff, C. Allen & G. Burghardt (eds.), _The Cognitive Animal: Empirical and Theoretical Perspectives on Animal Cognition_ (pp. 471–474). Cambridge, MA: MIT Press.
-* Griffin, D. R. (ed.). (1982). _Animal Mind – Human Mind_.Berlin: Springer.
-* Griffin, D. R., & Speck, G. B. (2004). New evidence of animal consciousness. _Animal Cognition_, 7, 5–18.
-* Güzeldere, G. (1995). Is consciousness the perception of what passes in one’s own mind? In T. Metzinger (ed.), _Conscious Experience_ (pp. 335–357). Paderborn: Schöningh/Imprint Academic.
-* Hare, B., et al. (2000). Chimpanzees know what conspecifics do and do not see. _Animal Behavior_, 59, 771–785.
-* Hare, B., Call, J., & Tomasello, M. (2001). Do chimpanzees know what conspecifics know? _Animal Behaviour_, 63, 139–151.
-* Hare, B., & Wrangham, R. (2002). Integrating two evolutionary models for the study of social cognition. In M. Bekoff, C. Allen & G. Burghardt (eds.), _The Cognitive Animal: Empirical and Theoretical Perspectives on Animal Cognition_ (pp. 363–370). Cambridge, MA: MIT Press.
-* Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). The Faculty of Language: What is It, Who Has It, and How Did it Evolve? _Science_, 298(5598), 1569–1579.
-* Hauser, M. D., et al. (1995). Self-recognition in primates: phylogeny and the salience of species-typical features. _Proceedings of the National Academy of Sciences_, 92, 10811–10814.
-* Hauser, M. D., et al. (2001). Cotton-top tamarins (Saguinus oedipus) fail to show mirror-guided self-exploration. _American Journal of Primatology_, 53, 131–137.
-* Heyes, C. (1998). Theory of mind in nonhuman primates. _Behavioral and Brain Sciences_, 21, 101–148.
-* Hume, D. (1888). _A Treatise of Human Nature, edited by L.A. Selby-Bigge_. Oxford: Oxford University Press.
-* Hurley, S., & Nudds, M. (eds.). (2006). _Rational Animals?_ Oxford: Oxford University Press.
-* Huxley, T. H. (1874). On the hypothesis that animals are automata, and its history. _Fortnightly Review_, 22, 199–245.
-* Institute for Laboratory Animal Research (2009). _Recognition and Alleviation of Pain in Laboratory Animals, Committee Report_. Washington, DC: National Research Council.
-* Jackson, R., & Wilcox, S. (1993). Observations in nature of detouring behavior by Portia Fimbriata, a web-invading aggressive mimic jumping spider from Queensland. _Journal of Zoology_, 230, 135–139.
-* James, W. (1890). _The Principles of Psychology_. New York: Dover.
-* Jamieson, D. (1998). Science, knowledge, and animal minds. _Proceedings of the Aristotelian Society_, 98, 79–102.
-* Jamieson, D., & Bekoff, M. (1992). Carruthers on nonconscious experience. _Analysis_, 52, 23–28.
-* Kennedy, J. S. (1992). _The new anthropomorphism_. New York: Cambridge University Press.
-* Langford, D., et al. (2006). Social Modulation of Pain as Evidence for Empathy in Mice. _Science_, 312, 1967–1970.
-* Leopold, D. A., & Logothetis, N. K. (1996). Activity changes in early visual cortex reflect monkeys’ percepts during binocular rivalry. _Nature_, 379, 549–553.
-* Leopold, D. A., Maier, A., & Logothetis, N. K. (2003). Measuring Subjective Visual Perception in the Nonhuman Primate. _Journal of Consciousness Studies_, 10, 115–130.
-* Lewis, C. S. (2009). _The problem of pain_. London: HarperCollins e-book.
-* Lorenz, K. (1971). Comparative studies of the motor patterns of Anatinae. In K. Lorenz (ed.), _Studies in Animal and Human Behavior_ (Vol. 2) (pp. 14–114). Cambridge, Mass: Harvard University Press.
-* ––– (1971). Comparative studies of the motor patterns of Anatinae. In K. Lorenz (ed.), _Studies in Animal and Human Behavior_ (Vol. 2) (pp. 14–114). Cambridge, MA: Harvard University Press.
-* ––– (1971). Do animals undergo subjective experiences? In K. Lorenz (ed.), _Studies in Animal and Human Behavior_ (pp. 323–337). Cambridge, MA: Harvard University Press.
-* Lovejoy, A. O. (1936). _The Great Chain of Being_. Cambridge, MA: Harvard University Press.
-* Lurz, R. W. (2011). _Mindreading Animals: The Debate Over What Animals Know About Other Minds_. Cambridge, MA: MIT Press.
-* Lycan, W. G. (1995). Consciousness as Internal Monitoring, I: The Third Philosophical Perspectives Lecture. _Philosophical Perspectives_, 9, 1–14.
-* ––– (1996). _Consciousness and Experience_. Cambridge, MA: MIT Press.
-* Margulis, L. (2001). The conscious cell. _Annals of the New York Academy of Sciences_, 929, 55–70.
-* Mather, J. A. (2008). Cephalopod consciousness: behavioral evidence. _Consciousness and Cognition_, 17, 37–48.
-* Mathews, K. (2008). Neuropathic Pain in Dogs and Cats: If Only They Could Tell Us If They Hurt. In K. Mathews (ed.), _Update on Management of Pain, An Issue of Veterinary Clinics: Small Animal Practice_ (pp. 1365–1414). Philadelphia, PA: Saunders.
-* Melzack, R., & Wall, P. (1965). Pain mechanisms: a new theory. _Science_, 150, 971–9.
-* Mendl, M., Paul, E. S., & Chittka, L. (2011). Animal behaviour: emotion in invertebrates? _Current Biology_, 12, R463-R465.
-* Merker, B. (2005). The liabilities of mobility: A selection pressure for the transition to consciousness in animal evolution. _Conscious and Cognition_, 14(1), 89–114.
-* Mitchell, R. W. (2002). Kinesthetic visual matching, imitation, and self-recognition. In M. Bekoff, C. Allen & G. Burghardt (eds.), _The Cognitive Animal_ (pp. 345–351). Cambridge, MA: MIT Press.
-* Mogil, J. S. (2009). Animal models of pain: progress and challenges. _Nature Reviews: Neuroscience_, 10, 283–294.
-* Morgan, C. L. (1894). _An Introduction to Comparative Psychology_. New York: Scribner.
-* Myserson, J., Miezin, F. M., & Allman, J. M. (1981). Binocular rivalry in macaque monkeys and humans: a comparative study in perception. _Behaviour Analysis Letters_, 1, 149–159.
-* Nagel, T. (1974). What is it like to be a bat? _Philosophical Review_, 83, 435–450.
-* Nagel, A. H. M. (1997). Are Plants Conscious? _Journal of Consciousness Studies_, 4(3), 215–230.
-* Nishihara, H., Hasegawa, M., & Okada, N. (2006). Pegasoferae, an unexpected mammalian clade revealed by tracking ancient retroposon insertions. _Proceedings of the National Academy of Sciences_, 26, 9929–9934.
-* Olson, R. (1990). _Science Defied and Science Deified: The Historical Significance of Science in Western Culture_. Berkeley and Los Angeles, California: University of California Press.
-* Panksepp, J. (2004). _Affective Neuroscience: The Foundations of Human and Animal Emotions_. New York: Oxford University Press.
-* ––– (2005). Affective consciousness: Core emotional feelings in animals and humans. _Consciousness and Cognition_, 14, 30–80.
-* Panksepp, J., & Burgdorf, J. (2003). ‘Laughing’ rats and the evolutionary antecedents of human joy? _Physiology and Behavior_, 79, 533–47.
-* Pepperberg, I. M. (1999). _The Alex Studies: Cognitive and Communicative Abilities of Grey Parrots_. Cambridge, MA: Harvard University Press.
-* Plotnik, J. M., Waal, F., & Reiss, D. (2006). Self-Recognition in an Asian Elephant. _Proceedings of the National Academy of Sciences_, 103, 17053–17057.
-* Povinelli, D. J. (1996). Chimpanzee theory of mind?: the long road to strong inference. In P. Carruthers & P. Smith (eds.), _Theories of Theories of Mind_ (pp. 293–329). Cambridge: Cambridge University Press.
-* Povinelli, D. J., & Giambrone, S. J. (2000). Inferring Other Minds: Failure of the Argument by Analogy. _Philosophical Topics_, 27, 161–201.
-* Preston, S. D., & de Waal, F. B. M. (2002). Empathy: Its ultimate and proximate bases. _Behavioral and Brain Sciences_, 25, 1–72.
-* Price, D. (2000). Psychological and neural mechanisms of the affective dimension of pain. _Science_, 288, 1769–72.
-* Prinz, J. (2005). A Neurofunctional Theory of Consciousness. In A. Brook & K. Akins (eds.), _Cognition and the Brain: The Philosophy and Neuroscience Movement_ (pp. 381–96). New York: Cambridge University Press.
-* Prior, H., Schwartz, A., & Güntürkün, O. (2008). Mirror-Induced Behavior in the Magpie (Pica pica): Evidence of Self-Recognition. _Public Library of Science/Biology_, 6(8), e202.
-* Radick, G. (2000). Morgan’s canon, Garner’s phonograph, and the evolutionary origins of language and reason. _British Journal for the History of Science_, 33, 3–23.
-* Radner, D. (1994). Heterophenomenology: learning about the birds and the bees. _Journal of Philosophy_, 91, 389–403.
-* Radner, D., & Radner, M. (1986). _Animal Consciousness_. Amherst, NY: Prometheus Books.
-* Rajala, A. Z., et al. (2010). Rhesus Monkeys (Macaca mulatta) Do Recognize Themselves in the Mirror: Implications for the Evolution of Self-Recognition. _PLoS ONE_, 5(9), e12865.
-* Rees, G., Kreiman, G., & Koch, C. (2002). Neural correlates of consciousness in humans. _Nature Reviews Neuroscience_, 3, 261–270.
-* Regan, T. (1983). _The Case for Animal Rights_. Berkeley: University of California Press.
-* Reiss, D., & Marino, L. (2001). Mirror Self-Recognition in the Bottlenose Dolphin: A Case of Cognitive Convergence. _Proceedings of the National Academy of Sciences_, 98(10), 5937–5942.
-* Roberts, W. (2012). Evidence for future cognition in animals. _Learning and Motivation_, 43, 169–180.
-* Robinson, W. (2007). Evolution and epiphenomenalism. _Journal of Consciousness Studies_, 11, 27–42.
-* Rochat, P., & Zahavi, D. (2011). The uncanny mirror: A re-framing of mirror self-experience. _Consciousness and cognition_, 2, 204–213.
-* Rollin, B. E. (1989). _The Unheeded Cry: Animal Consciousness, Animal Pain and Science_. New York: Oxford University Press.
-* Romanes, G. (1882). _Animal Intelligence_. London: Routledge & Kegan Paul.
-* Rose, J. D. (2002). The neurobehavioral nature of fishes and the question of awareness and pain. _Reviews in Fisheries Science_, 10, 1–38.
-* Rosenthal, D. (1986). Two concepts of consciousness. _Philosophical Studies_, 49, 329–359.
-* ––– (1993). Thinking that one thinks. In M. Davies & G. Humphreys (eds.), _Consciousness_ (pp. 197–223). Oxford: Blackwell.
-* ––– (1993). Thinking that one thinks. In M. Davies & G. Humphreys (eds.), _Consciousness_ (pp. 197–223). Oxford: Blackwell.
-* Savage-Rumbaugh, S., & Lewin, R. (1996). _Kanzi: The Ape at the Brink of the Human Mind_. New York: John Wiley & Sons.
-* Searle, J. (1998). Animal minds. _Etica & Animali_, 9, 37–50.
-* Seth, A., Baars, B. J., & Edelman, D. B. (2005). Criteria for consciousness in humans and other mammals. _Consciousness and Cognition_, 14, 119–139.
-* Shriver, A. (2006). Minding Mammals. _Philosophical Psychology_, 19, 433–442.
-* ––– (2009). Knocking Out Pain in Livestock: Can Technology Succeed Where Morality has Stalled? _Neuroethics_, 2(3), 115–124.
-* Shumaker, R. W., & Swartz, B. (2002). When traditional methodologies fail: Cognitive studies of great apes. In M. Bekoff, C. Allen & G. Burghardt (eds.), _The Cognitive Animal: Empirical and Theoretical Perspectives on Animal Cognition_ (pp. 335–43). Cambridge, MA: MIT Press.
-* Singer, P. (1990 \[1975]). _Animal Liberation_. New York: Avon Books.
-* Skinner, B. F. (1953). _Science and Human Behavior_. New York: Macmillan.
-* Smith, J., & Boyd, K. (eds.). (1991). _Lives in the Balance: The Ethics of Using Animals in Biomedical Research_.New York: Oxford University Press.
-* Smith, J. D. (2009). The study of animal metacognition. _Trends in Cognitive Sciences_, 13(9), 389–396.
-* Smith J. D., Shields, W. E., & Washburn D. S. (2003). The comparative psychology of uncertainty monitoring and metacognition. _Behavioral and Brain Sciences_, 26, 317–373.
-* Sneddon, L. U., Braithwaite, V. A., & Gentle, M. J. (2003). Do fish have nociceptors: evidence for the evolution of a vertebrate sensory system. _Proceedings of the Royal Society London B_, 270, 1115–1121.
-* Sober, E. (1998). Morgan’s Canon. In C. Allen & D. Cummins (eds.), _The evolution of mind_ (pp. 224–242). Oxford: Oxford University Press.
-* ––– (2000). Evolution and the problem of other minds. _Journal of Philosophy_, 97, 365–386.
-* ––– (2005). Comparative psychology meets evolutionary biology: Morgan’s canon and cladistic parsimony. In L. Datson & G. Mitman (eds.), _Thinking with Animals: New Perspectives on Anthropomorphism_ (pp. 85–99). New York: Columbia University Press.
-* ––– (2012). Anthropomorphism, Parsimony, and Common Ancestry. _Mind & Language_, 27(3), 229–238.
-* Soley, F. G., & Alvarado-Díaz, I. (2011). Prospective thinking in a mustelid? Eira barbara (Carnivora) cache unripe fruits to consume them once ripened. _Naturwissenschaften_, 8, 693–698.
-* Sorabji, R. (1993). _Animal Minds and Human Morals: the origins of the Western debate_. Ithaca, NY: Cornell University Press.
-* Spalding, D. A. (1872). Instinct: With original observations on young animals. _MacMillan’s Magazine_, 27, 283–93.
-* Srinivasan, M. V. (2010). Honey Bees as a Model for Vision, Perception, and Cognition. _Annual Review of Entomology_, 55, 267–284.
-* Steiner, G. (2008). _Animals and the Moral Community: Mental Life, Moral Status, and Kinship_. New York: Columbia University Press.
-* Stoerig, P., & Cowey, A. (1997). Blindsight in man and monkey. _Brain_, 120, 535–559.
-* Stoerig, P., Zontanou, A., & Cowey, A. (2002). Aware or Unaware: Assessment of Cortical Blindness in Four Men and a Monkey. _Cerebral Cortex_, 12(6), 565–574.
-* Suddendorf, T., & Corballis, M. C. (1997). Mental time travel and the evolution of the human mind. _Genetic, social, and general psychology monographs_, 123(2), 133–167.
-* ––– (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? _Behavioral and Brain Sciences_, 3, 299–312.
-* Sufka, K. J., Weldon, M., & Allen, C. (2009). The Case for Animal Emotions: Modeling Neuropsychiatric Disorders. In J. Bickle (ed.), _The Oxford Handbook of Philosophy of Neuroscience_ (pp. 522–536). New York: Oxford University Press.
-* Terrace, H. S., & Son, L. K. (2009). Comparative metacognition. _Current Opinion in Neurobiology_, 19(1), 67–74.
-* Thorndike, E. L. (1911). _Animal Intelligence_. Darien, CT: Hafner.
-* Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. _The Biological Bulletin_, 215(3), 216–242.
-* Trestman, M. (2013). The Cambrian explosion and the origins of embodied cognition. _Biological Theory_, 8(1), 80–92.
-* ––– (2013). The modal breadth of consciousness. _Philosophical Psychology_, 27(6), 843-861.
-* Trout, J. D. (2001). The biological basis of speech: What to infer from talking to the animals. _Psychological Review_, 108(3), 523–549.
-* Tulving, E. (1985). Memory and consciousness. _Canadian Psychology/Psychologie Canadienne_, 26(1), 1–12.
-* Tye, M. (2000). _Consciousness, Color, and Content_. Cambridge, MA: MIT Press.
-* Varner, G. (1998). _In Nature’s Interests?_ New York: Oxford University Press.
-* ––– (2012). _Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism_. New York: Oxford University Press.
-* Velmans, M. (2012). The evolution of consciousness. _Contemporary Social Science_, 7(2), 117–138.
-* Wallace, A. R. (1867). The philosophy of birds’ nests. _Intellectual Observer_, 11, 413–20.
-* Walters, E. T. (1996). Comparative and Evolutionary Aspects of Nociceptor Function. In C. Belmonte & F. Cervero (eds.), _Neurobiology of Nociceptors_ (pp. 92–114). New York: Oxford University Press.
-* Watson, J. B. (1928). _The Ways of Behaviorism_. New York: Harper.
-* White, G. (1789). _The Natural History of Selbourne_. London and New York: Dent/Dutton.
-* Wilcox, R. S., & Jackson, R. R. (1998). Cognitive abilities of araneophagic jumping spiders. In C. Kamil (ed.), _Animal cognition in nature: the convergence of psychology and biology in laboratory and field. Academic_ (pp. 411–434). San Diego: Academic Press.
-* Wilkes, K. (1984). Is consciousness important? _British Journal for the Philosophy of Science_, 35, 223–243.
-* Wilson, M. D. (1995). Animal ideas. _Proceedings and Addresses of the American Philosophical Association_, 69, 7–25.
-* Wynne, C. (2004). _Do Animals Think?_ Princeton, NJ: Princeton University Press.
-* Zahavi, D. (2011). Empathy and direct social perception. _Review of Philosophy and Psychology_, 2(3), 541–558.
+* Akins, K. A. (1993). A Bat Without Qualities. In M. Davies & G. Humphreys (eds.), *Consciousness* (pp. 258–273), Oxford: Blackwell.
+* Alcock, J. (1992). Review of Griffin 1992. *Natural History*, 101(9), 62–65.
+* Allen, C. (1992a). Mental Content. *British Journal for the Philosophy of Science*, 43(4), 537–553.
+* ––– (1992b). Mental Content and Evolutionary Explanation. *Biology and Philosophy*, 7(1), 1–12.
+* ––– (2004). Animal Pain. *Noûs*, 38(4), 617–643.
+* ––– (2013). Fish cognition and consciousness. *Journal of Agricultural and Environmental Ethics*, 26(1), 25–39.
+* Allen, C., & Bekoff, M. (1997). *Species of Mind: The Philosophy and Biology of Cognitive Ethology*. Cambridge, MA: MIT Press.
+* Allen, C., Fuchs, P. N., Shriver, A. & Wilson, H. (2005). Deciphering Animal Pain. In M. Aydede (ed.), *Pain: New Essays on the Nature of Pain and the Methodology of its Study* (pp. 352–366). Cambridge, MA: MIT Press.
+* Allen, C., & Grau, J., & Meagher, M. (2009). The Lower Bounds of Cognition: What Do Spinal Cords Reveal? In J. Bickle (ed.), *The Oxford Handbook of Philosophy of Neuroscience* (pp. 129–142). Oxford: Oxford University Press.
+* Anderson, S. R. (2004). *Doctor Dolittle’s Delusion*. New Haven: Yale University Press.
+* Andrews, K. (1996). The first step in the case for great ape equality: the argument for other minds. *Etica & Animali (Special issue devoted to The Great Ape Project)*, 8, 131–141.
+* ––– (2012). *Do Apes Read Minds? Toward a New Folk Psychology*. Cambridge, MA: MIT Press.
+* Ârhem, P., & Liljenström, H., & Lindahl, B. I. B. (2002). Evolution of Consciousness: Report of Agora Workshop in Sigtuna, Sweden, August 2001. *Journal of Consciousness Studies*, 9, 81–84.
+* Armstrong, D. A. (1980). *The Nature of Mind and Other Essays*. Ithaca, NY: Cornell University Press.
+* Atoji, Y., & Wild, J. M. (2005). Afferent and efferent connections of the dorsolateral corticoid area in comparison with connections of the temporoparieto-occipital area in the pigeon (Columbia livia). *Journal of Comparative Neurology*, 485, 165–182.
+* Baars, B. J. (1997). In the Theatre of Consciousness: Global Workspace Theory, A Rigorous Scientific Theory of Consciousness. *Journal of Consciousness Studies*, 4, 292–309.
+* Barrington, D. (1773). Experiments and observations on the singing of birds. *Philosophical Transactions of the Royal Society*, 63, 249–91.
+* Bekoff, M. (2007). *The Emotional Lives of Animals*. Novato, CA: New World Library.
+* Bekoff, M., & Allen, C. (1997). Cognitive Ethology: Slayers, Skeptics, and Proponents. In R. Mitchell, N. Thompson & H. Miles (eds.), *Anthropomorphism, Anecdotes, and Animals* (pp. 313–334). Albany, NY: State University of New York Press.
+* Bekoff, M., & Allen, C., & Burghardt, G. M. (eds.). (2002). *The Cognitive Animal*.Cambridge, MA: MIT Press.
+* Bermond, B. (2001). A neuropsychological and evolutionary approach to animal consciousness and animal suffering. *Animal Welfare Supplement*, 10, 47–62.
+* Bertoloni Meli, D. (2013). Early Modern Experimentation on Live Animals. *Journal of the History of Biology*, 46(2), 199–226.
+* Block, N. (1995). On A Confusion About a Function of Consciousness. *Behavioral and Brain Sciences*, 18, 227–47.
+* Block, N. (2005). Two Neural Correlates of Consciousness. *Trends in Cognitive Sciences*, 9, 41–89.
+* ––– (2011). Perceptual consciousness overflows cognitive access. *Trends in cognitive sciences*, 15(12), 567–575.
+* Blumberg, M. S., & Wasserman, E. A. (1995). Animal Mind and the Argument from Design. *American Psychologist*, 50(3), 133–144.
+* Boly, M., Seth, A. K., Wilke, M., Ingmundson, P., Baars, B., Laureys, S., Edelman, D., Tsuchiya, N. (2013). Consciousness in humans and non-human animals: Recent advances and future directions. *Frontiers in Psychology*, 4 (625), [available online](http://dx.doi.org/10.3389/fpsyg.2013.00625).
+* Braithwaite, V. (2010). *Do Fish Feel Pain?* Oxford: Oxford University Press.
+* Brigandt, I. (2005). The instinct concept of the early Konrad Lorenz. *Journal of the History of Biology*, 38(3), 571–608.
+* Brown, C. (2015). Fish intelligence, sentience and ethics. *Animal Cognition*, 18, 1–17. [doi:10.1007/s10071-014-0761-0](http://dx.doi.org/10.1007/s10071-014-0761-0)
+* Browne, D. (2004). Do dolphins know their own minds? *Biology & Philosophy*, 19, 633–653.
+* Buckner, C. (2013). Morgan’s Canon, meet Hume’s Dictum: avoiding anthropofabulation in cross-species comparisons. *Biology & Philosophy*, 28(5), 853–871.
+* Burghardt, G. (1985). Animal awareness: Current perceptions and historical perspective. *American Psychologist*, 40(8), 905–19.
+* Burkhardt, R. W. Jr. (1997). The founders of ethology and the problem of animal subjective experience. In M. Dol, et al., *Animal Consciousness and Animal Ethics: Perspectives from the Netherlands* (pp. 1–13). Assen, the Netherlands: van Gorcum.
+* ––– (2005). *Patterns of Behavior: Konrad Lorenz, Niko Tinbergen and the Founding of Ethology*. Chicago: University of Chicago Press.
+* Byrne, R. W., et al. (2008). Do Elephants Show Empathy? *Journal of Consciousness Studies*, 15(10–11), 204–225.
+* Byrne, R. W., & Whiten, A. (1988). *Machiavellian Intelligence: social expertise and the evolution of intellect in monkeys, apes and humans*. Oxford: Oxford University Press.
+* Cabanac, A., & Cabanac, M. (2000). Heart rate response to gentle handling of frog and lizard. *Behavioural Processes*, 52, 89–95.
+* ––– (2004). No emotional fever in toads. *Journal of Thermal Biology*, 29, 669–73.
+* Cabanac, M., & Bernieri, C. (2000). Behavioral rise in body temperature and tachycardia by handling of a turtle (Clemys insculpta).. *Behavioural Processes*, 49, 61–68.
+* Cabanac, M., & Cabanac, J., & Paren, A. (2009). The emergence of consciousness in phylogeny. *Behavioural Brain Research*, 2(198), 267–272.
+* Cabanac, M., & Gosselin, F. (1993). Emotional fever in the lizard Callopistes maculates. *Animal Behavior*, 46, 200–202.
+* Cabanac, A. J., & Guillemette, M. (2001). Temperature and heart rate as stress indicators of handled common eider. *Physiology and Behavior*, 74, 475–9.
+* Carruthers, P. (1989). Brute experience. *The Journal of Philosophy*, 86(5), 258–269.
+* ––– (1992). *The Animals Issue*. Cambridge: Cambridge University Press.
+* ––– (1996). *Language, Thought and Consciousness*. Cambridge: Cambridge University Press.
+* ––– (1998). Animal Subjectivity. *Psyche*, 4(3), 2377.
+* ––– (1998). Natural Theories of Consciousness. *European Journal of Philosophy*, 6, 203–222.
+* ––– (1999). Sympathy and subjectivity. *Australasian Journal of Philosophy*, 77(4), 465–482.
+* ––– (2000). *Phenomenal Consciousness: A naturalistic theory*. Cambridge: Cambridge University Press.
+* ––– (2004). Suffering without Subjectivity. *Philosophical Studies*, 121(2), 99–125.
+* ––– (2008). Meta-cognition in Animals: A Skeptical Look. *Mind & Language*, 23, 58–89.
+* Cavalieri, P., & Singer, P. (eds.). (1994). *The great ape project: Equality beyond humanity*. New York: St. Martin’s Press.
+* Chalmers, D. (2015). Panpsychism and panprotopsychism. In T. Alter & Y. Nagasawa (eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. New York: Oxford University Press, pp 246-276.
+* Chandroo, K. P., & Yue, S., & Moccia, R. D. (2004). An evaluation of current perspectives on consciousness and pain in fishes. *Fish and Fisheries*, 5, 281–295.
+* Cheney, D. L., & Seyfarth, R. M. (1990). *How Monkeys See the World: Inside the Mind of Another Species*. Chicago: University of Chicago Press.
+* ––– (2007). *Baboon Metaphysics: The Evolution of a Social Mind*. Chicago: University of Chicago Press.
+* Clark, R. E., & Squire, L. R. (1998). Classical Conditioning and Brain Systems: The Role of Awareness. *Science*, 280, 77–81.
+* Clayton, N. S., & Bussey, T., & Dickinson, A. (2003). Can Animals Recall the Past and Plan for the Future? *Nature Reviews: Neuroscience*, 4, 685–91.
+* Clayton, N. S., & Yu, K. S., & Dickinson, A. (2001). Scrub Jays (Aphelocoma coerulescens) form integrated memories of the multiple features of caching episodes. *Journal of Experimental Psychology: Animal Behavior Processes*, 1, 17–29.
+* Crist, E. (2002). The inner life of earthworms: Darwin’s argument and its implications. In M. Bekoff, C. Allen & G. Burghardt (eds.), *The Cognitive Animal* (pp. 3–8). Cambridge, MA: MIT Press.
+* Crystal, J. D. (2009). Elements of episodic-like memory in animal models. *Behavioural Processes*, 80(3), 269–277.
+* Crystal, J. D., & Foote, A. L. (2009). Metacognition in animals. *Comparative Cognition & Behavior Reviews*, 4, 1–16.
+* Damasio, A. (1999). Empathy and direct social perception. *Review of Philosophy and Psychology*, 3, 541–558.
+* ––– (1999). *The Feeling of What Happens*. New York: Harcourt Brace.
+* Darwin, C. (1871). *The Descent of Man and Selection in Relation to Sex*. New York: Appleton.
+* ––– (1881). *The formation of vegetable mould, through the action of worms, with observations on their habits*. London: John Murray.
+* Davidson, D. (1975). Thought and Talk. In S. Guttenplan (ed.), *Mind and Language* (pp. 7–23). Oxford: Oxford University Press.
+* Dawkins, M. S. (1985). The scientific basis for assessing suffering in animals. In P. Singer (ed.), *In Defense of Animals* (pp. 27–50). New York: Blackwell.
+* Dawkins, M. S. (1993). *Through Our Eyes Only? The Search for Animal Consciousness*. New York: W. H. Freeman.
+* ––– (2012). *Why Animals Matter: Animal Consciousness, Animal Welfare, and Human Well-being. New York*. Oxford: Oxford University Press.
+* DeGrazia, D. (1997). Great apes, dolphins, and the concept of personhood. *The Southern journal of philosophy*, 3, 301–320.
+* Dennett, D. C. (1969). *Content and Consciousness*. London: Routledge and Kegan Paul.
+* ––– (1983). Intentional systems in cognitive ethology: The ‘Panglossian paradigm’ defended. *Behavioral and Brain Sciences*, 6, 343–390.
+* ––– (1987). *The Intentional Stance*. Cambridge, MA: MIT Press.
+* ––– (1995). Animal consciousness and why it matters. *Social Research*, 62, 691–710.
+* ––– (1997). *Kinds of Minds: Towards an Understanding of Consciousness*. New York: Basic Books.
+* Dretske, F. (1995). *Naturalizing the Mind*. Cambridge, MA: MIT Press.
+* Dubbeldam, J. (2009). The Trigeminal System in Birds and Nociception. *Central Nervous System Agents in Medicinal Chemistry*, 9, 150–158.
+* Edelman, D. B., & Baars, B. J., & Seth, A. K. (2005). Identifying hallmarks of consciousness in non-mammalian species. *Consciousness and cognition*, 14(1), 169–187.
+* Edelman, D. B., & Seth, A. K. (2009). Animal Consciousness: A Synthetic Approach. *Trends in Neuroscience*, 32(9), 476–484.
+* Elwood, R. W., & Appel, M. (2009). Pain experience in hermit crabs? *Animal Behaviour*, 77, 1243–1246.
+* Epstein, R., & Lanza, R. P., & Skinner, B. F. (1981). Self-awareness in the pigeon. *Science*, 212, 695–696.
+* Farah, M. J. (2008). Neuroethics and the Problem of Other Minds: Implications of Neuroscience for the Moral Status of Brain-Damaged Patients and Nonhuman Animals. *Neuroethics*, 1, 9–18.
+* Feeney, M., & Roberts, W., & Sherry, D. (2011). Black-Capped Chickadees (Poecile artricapillus) Anticipate Future Outcomes of Foraging Choices. *Journal of Experimental Psychology*, 37(1), 30–40.
+* Feinberg, T. E., & Mallatt, J. (2013). The evolutionary and genetic origins of consciousness in the Cambrian Period over 500 million years ago. *Frontiers in Psychology*, 4, 00667.
+* Fisher, J. A. (1990). The Myth of Anthropomorphism. In M. Bekoff & D. Jamieson (eds.), *Interpretation and explanation in the study of animal behavior: Interpretation, intentionality, and communication* (Vol. 1) (pp. 96–116). Boulder: Westview Press.
+* Fitzpatrick, S. (2008). Doing Away with Morgan’s Canon. *Mind & Language*, 23(2), 224–226.
+* Froese, T., & Gould, C., & Seth, A. K. (2011). Validating and calibrating first-and second-person methods in the science of consciousness. *Journal of Consciousness Studies*, 18(2), 38–64.
+* Fujita, K., & Blough, D. S., & Blough, P. M. (1991). Pigeons see the Ponzo illusion. *Animal Learning and Behavior*, 19, 283–293.
+* Gaita, R. (2003). *The Philosopher’s Dog: Friendships with Animals*. London: Routledge.
+* Gallagher, S. (2008). Direct perception in the intersubjective context. *Consciousness and Cognition*, 2, 535–543.
+* Gallup, G. G. Jr. (1970). Chimpanzees: Self-Recognition. *Science*, 167(3914), 86-87.
+* ––– (1982). Self‐awareness and the emergence of mind in primates. *American Journal of Primatology*, 2(3), 237–248.
+* ––– (1986). Do minds exist in species other than our own? *Neuroscience & Biobehavioral Reviews*, 4, 631–641.
+* Gallup, G. G. Jr., & Anderson, J. R., & Shillito, D. J. (2002). The Mirror Test. In M. Bekoff, C. Allen & G. Burghardt (eds.), *The Cognitive Animal* (pp. 325–334). Cambridge, MA: MIT Press.
+* Gardner, R. A., & Gardner, B. T., & Van Cantfort, T. E. (1989). *Teaching sign language to chimpanzees*. Albany, NY: SUNY Press.
+* Gennaro, R. J. (2004). Higher-order thoughts, animal consciousness, and misrepresentation: A reply to Carruthers and Levine. In R. Gennaro (ed.), *Higher-Order Theories of Consciousness: An Anthology* (pp. 45–66). Amsterdam: John Benjamins.
+* Ginsburg, S., & Jablonka, E. (2007). The transition to experiencing: I. Limited learning and limited experiencing. *Biological Theory*, 2(3), 218–230.
+* Ginsburg, S., & Jablonka, E. (2007). The transition to experiencing: II. The evolution of associative learning based on feelings. *Biological Theory*, 2(3), 231–243.
+* Giurfa, M., et al. (2001). The concepts of ‘sameness’ and ‘difference’ in an insect. *Nature*, 410, 930–933.
+* Grandin, T. (1995). *Thinking In Pictures: and Other Reports from My Life with Autism*. New York: Doubleday.
+* ––– (2004). *Animals in Translation: Using the Mysteries of Autism to Decode Animal Behavior*. New York: Scribner.
+* Griffin, D. R. (1976). *The Question of Animal Awareness: Evolutionary Continuity of Mental Experience*. New York: Rockefeller University Press.
+* ––– (1978). Prospects for a cognitive ethology. *Behavioral and Brain Sciences*, 4, 527–38.
+* ––– (1984). *Animal Thinking*. Cambridge, MA: Harvard University Press.
+* ––– (1992). *Animal Minds*. Chicago: University of Chicago Press.
+* ––– (2002). What is it like? In M. Bekoff, C. Allen & G. Burghardt (eds.), *The Cognitive Animal: Empirical and Theoretical Perspectives on Animal Cognition* (pp. 471–474). Cambridge, MA: MIT Press.
+* Griffin, D. R. (ed.). (1982). *Animal Mind – Human Mind*.Berlin: Springer.
+* Griffin, D. R., & Speck, G. B. (2004). New evidence of animal consciousness. *Animal Cognition*, 7, 5–18.
+* Güzeldere, G. (1995). Is consciousness the perception of what passes in one’s own mind? In T. Metzinger (ed.), *Conscious Experience* (pp. 335–357). Paderborn: Schöningh/Imprint Academic.
+* Hare, B., et al. (2000). Chimpanzees know what conspecifics do and do not see. *Animal Behavior*, 59, 771–785.
+* Hare, B., Call, J., & Tomasello, M. (2001). Do chimpanzees know what conspecifics know? *Animal Behaviour*, 63, 139–151.
+* Hare, B., & Wrangham, R. (2002). Integrating two evolutionary models for the study of social cognition. In M. Bekoff, C. Allen & G. Burghardt (eds.), *The Cognitive Animal: Empirical and Theoretical Perspectives on Animal Cognition* (pp. 363–370). Cambridge, MA: MIT Press.
+* Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). The Faculty of Language: What is It, Who Has It, and How Did it Evolve? *Science*, 298(5598), 1569–1579.
+* Hauser, M. D., et al. (1995). Self-recognition in primates: phylogeny and the salience of species-typical features. *Proceedings of the National Academy of Sciences*, 92, 10811–10814.
+* Hauser, M. D., et al. (2001). Cotton-top tamarins (Saguinus oedipus) fail to show mirror-guided self-exploration. *American Journal of Primatology*, 53, 131–137.
+* Heyes, C. (1998). Theory of mind in nonhuman primates. *Behavioral and Brain Sciences*, 21, 101–148.
+* Hume, D. (1888). *A Treatise of Human Nature, edited by L.A. Selby-Bigge*. Oxford: Oxford University Press.
+* Hurley, S., & Nudds, M. (eds.). (2006). *Rational Animals?* Oxford: Oxford University Press.
+* Huxley, T. H. (1874). On the hypothesis that animals are automata, and its history. *Fortnightly Review*, 22, 199–245.
+* Institute for Laboratory Animal Research (2009). *Recognition and Alleviation of Pain in Laboratory Animals, Committee Report*. Washington, DC: National Research Council.
+* Jackson, R., & Wilcox, S. (1993). Observations in nature of detouring behavior by Portia Fimbriata, a web-invading aggressive mimic jumping spider from Queensland. *Journal of Zoology*, 230, 135–139.
+* James, W. (1890). *The Principles of Psychology*. New York: Dover.
+* Jamieson, D. (1998). Science, knowledge, and animal minds. *Proceedings of the Aristotelian Society*, 98, 79–102.
+* Jamieson, D., & Bekoff, M. (1992). Carruthers on nonconscious experience. *Analysis*, 52, 23–28.
+* Kennedy, J. S. (1992). *The new anthropomorphism*. New York: Cambridge University Press.
+* Langford, D., et al. (2006). Social Modulation of Pain as Evidence for Empathy in Mice. *Science*, 312, 1967–1970.
+* Leopold, D. A., & Logothetis, N. K. (1996). Activity changes in early visual cortex reflect monkeys’ percepts during binocular rivalry. *Nature*, 379, 549–553.
+* Leopold, D. A., Maier, A., & Logothetis, N. K. (2003). Measuring Subjective Visual Perception in the Nonhuman Primate. *Journal of Consciousness Studies*, 10, 115–130.
+* Lewis, C. S. (2009). *The problem of pain*. London: HarperCollins e-book.
+* Lorenz, K. (1971). Comparative studies of the motor patterns of Anatinae. In K. Lorenz (ed.), *Studies in Animal and Human Behavior* (Vol. 2) (pp. 14–114). Cambridge, Mass: Harvard University Press.
+* ––– (1971). Comparative studies of the motor patterns of Anatinae. In K. Lorenz (ed.), *Studies in Animal and Human Behavior* (Vol. 2) (pp. 14–114). Cambridge, MA: Harvard University Press.
+* ––– (1971). Do animals undergo subjective experiences? In K. Lorenz (ed.), *Studies in Animal and Human Behavior* (pp. 323–337). Cambridge, MA: Harvard University Press.
+* Lovejoy, A. O. (1936). *The Great Chain of Being*. Cambridge, MA: Harvard University Press.
+* Lurz, R. W. (2011). *Mindreading Animals: The Debate Over What Animals Know About Other Minds*. Cambridge, MA: MIT Press.
+* Lycan, W. G. (1995). Consciousness as Internal Monitoring, I: The Third Philosophical Perspectives Lecture. *Philosophical Perspectives*, 9, 1–14.
+* ––– (1996). *Consciousness and Experience*. Cambridge, MA: MIT Press.
+* Margulis, L. (2001). The conscious cell. *Annals of the New York Academy of Sciences*, 929, 55–70.
+* Mather, J. A. (2008). Cephalopod consciousness: behavioral evidence. *Consciousness and Cognition*, 17, 37–48.
+* Mathews, K. (2008). Neuropathic Pain in Dogs and Cats: If Only They Could Tell Us If They Hurt. In K. Mathews (ed.), *Update on Management of Pain, An Issue of Veterinary Clinics: Small Animal Practice* (pp. 1365–1414). Philadelphia, PA: Saunders.
+* Melzack, R., & Wall, P. (1965). Pain mechanisms: a new theory. *Science*, 150, 971–9.
+* Mendl, M., Paul, E. S., & Chittka, L. (2011). Animal behaviour: emotion in invertebrates? *Current Biology*, 12, R463-R465.
+* Merker, B. (2005). The liabilities of mobility: A selection pressure for the transition to consciousness in animal evolution. *Conscious and Cognition*, 14(1), 89–114.
+* Mitchell, R. W. (2002). Kinesthetic visual matching, imitation, and self-recognition. In M. Bekoff, C. Allen & G. Burghardt (eds.), *The Cognitive Animal* (pp. 345–351). Cambridge, MA: MIT Press.
+* Mogil, J. S. (2009). Animal models of pain: progress and challenges. *Nature Reviews: Neuroscience*, 10, 283–294.
+* Morgan, C. L. (1894). *An Introduction to Comparative Psychology*. New York: Scribner.
+* Myserson, J., Miezin, F. M., & Allman, J. M. (1981). Binocular rivalry in macaque monkeys and humans: a comparative study in perception. *Behaviour Analysis Letters*, 1, 149–159.
+* Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83, 435–450.
+* Nagel, A. H. M. (1997). Are Plants Conscious? *Journal of Consciousness Studies*, 4(3), 215–230.
+* Nishihara, H., Hasegawa, M., & Okada, N. (2006). Pegasoferae, an unexpected mammalian clade revealed by tracking ancient retroposon insertions. *Proceedings of the National Academy of Sciences*, 26, 9929–9934.
+* Olson, R. (1990). *Science Defied and Science Deified: The Historical Significance of Science in Western Culture*. Berkeley and Los Angeles, California: University of California Press.
+* Panksepp, J. (2004). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. New York: Oxford University Press.
+* ––– (2005). Affective consciousness: Core emotional feelings in animals and humans. *Consciousness and Cognition*, 14, 30–80.
+* Panksepp, J., & Burgdorf, J. (2003). ‘Laughing’ rats and the evolutionary antecedents of human joy? *Physiology and Behavior*, 79, 533–47.
+* Pepperberg, I. M. (1999). *The Alex Studies: Cognitive and Communicative Abilities of Grey Parrots*. Cambridge, MA: Harvard University Press.
+* Plotnik, J. M., Waal, F., & Reiss, D. (2006). Self-Recognition in an Asian Elephant. *Proceedings of the National Academy of Sciences*, 103, 17053–17057.
+* Povinelli, D. J. (1996). Chimpanzee theory of mind?: the long road to strong inference. In P. Carruthers & P. Smith (eds.), *Theories of Theories of Mind* (pp. 293–329). Cambridge: Cambridge University Press.
+* Povinelli, D. J., & Giambrone, S. J. (2000). Inferring Other Minds: Failure of the Argument by Analogy. *Philosophical Topics*, 27, 161–201.
+* Preston, S. D., & de Waal, F. B. M. (2002). Empathy: Its ultimate and proximate bases. *Behavioral and Brain Sciences*, 25, 1–72.
+* Price, D. (2000). Psychological and neural mechanisms of the affective dimension of pain. *Science*, 288, 1769–72.
+* Prinz, J. (2005). A Neurofunctional Theory of Consciousness. In A. Brook & K. Akins (eds.), *Cognition and the Brain: The Philosophy and Neuroscience Movement* (pp. 381–96). New York: Cambridge University Press.
+* Prior, H., Schwartz, A., & Güntürkün, O. (2008). Mirror-Induced Behavior in the Magpie (Pica pica): Evidence of Self-Recognition. *Public Library of Science/Biology*, 6(8), e202.
+* Radick, G. (2000). Morgan’s canon, Garner’s phonograph, and the evolutionary origins of language and reason. *British Journal for the History of Science*, 33, 3–23.
+* Radner, D. (1994). Heterophenomenology: learning about the birds and the bees. *Journal of Philosophy*, 91, 389–403.
+* Radner, D., & Radner, M. (1986). *Animal Consciousness*. Amherst, NY: Prometheus Books.
+* Rajala, A. Z., et al. (2010). Rhesus Monkeys (Macaca mulatta) Do Recognize Themselves in the Mirror: Implications for the Evolution of Self-Recognition. *PLoS ONE*, 5(9), e12865.
+* Rees, G., Kreiman, G., & Koch, C. (2002). Neural correlates of consciousness in humans. *Nature Reviews Neuroscience*, 3, 261–270.
+* Regan, T. (1983). *The Case for Animal Rights*. Berkeley: University of California Press.
+* Reiss, D., & Marino, L. (2001). Mirror Self-Recognition in the Bottlenose Dolphin: A Case of Cognitive Convergence. *Proceedings of the National Academy of Sciences*, 98(10), 5937–5942.
+* Roberts, W. (2012). Evidence for future cognition in animals. *Learning and Motivation*, 43, 169–180.
+* Robinson, W. (2007). Evolution and epiphenomenalism. *Journal of Consciousness Studies*, 11, 27–42.
+* Rochat, P., & Zahavi, D. (2011). The uncanny mirror: A re-framing of mirror self-experience. *Consciousness and cognition*, 2, 204–213.
+* Rollin, B. E. (1989). *The Unheeded Cry: Animal Consciousness, Animal Pain and Science*. New York: Oxford University Press.
+* Romanes, G. (1882). *Animal Intelligence*. London: Routledge & Kegan Paul.
+* Rose, J. D. (2002). The neurobehavioral nature of fishes and the question of awareness and pain. *Reviews in Fisheries Science*, 10, 1–38.
+* Rosenthal, D. (1986). Two concepts of consciousness. *Philosophical Studies*, 49, 329–359.
+* ––– (1993). Thinking that one thinks. In M. Davies & G. Humphreys (eds.), *Consciousness* (pp. 197–223). Oxford: Blackwell.
+* ––– (1993). Thinking that one thinks. In M. Davies & G. Humphreys (eds.), *Consciousness* (pp. 197–223). Oxford: Blackwell.
+* Savage-Rumbaugh, S., & Lewin, R. (1996). *Kanzi: The Ape at the Brink of the Human Mind*. New York: John Wiley & Sons.
+* Searle, J. (1998). Animal minds. *Etica & Animali*, 9, 37–50.
+* Seth, A., Baars, B. J., & Edelman, D. B. (2005). Criteria for consciousness in humans and other mammals. *Consciousness and Cognition*, 14, 119–139.
+* Shriver, A. (2006). Minding Mammals. *Philosophical Psychology*, 19, 433–442.
+* ––– (2009). Knocking Out Pain in Livestock: Can Technology Succeed Where Morality has Stalled? *Neuroethics*, 2(3), 115–124.
+* Shumaker, R. W., & Swartz, B. (2002). When traditional methodologies fail: Cognitive studies of great apes. In M. Bekoff, C. Allen & G. Burghardt (eds.), *The Cognitive Animal: Empirical and Theoretical Perspectives on Animal Cognition* (pp. 335–43). Cambridge, MA: MIT Press.
+* Singer, P. (1990 \[1975]). *Animal Liberation*. New York: Avon Books.
+* Skinner, B. F. (1953). *Science and Human Behavior*. New York: Macmillan.
+* Smith, J., & Boyd, K. (eds.). (1991). *Lives in the Balance: The Ethics of Using Animals in Biomedical Research*.New York: Oxford University Press.
+* Smith, J. D. (2009). The study of animal metacognition. *Trends in Cognitive Sciences*, 13(9), 389–396.
+* Smith J. D., Shields, W. E., & Washburn D. S. (2003). The comparative psychology of uncertainty monitoring and metacognition. *Behavioral and Brain Sciences*, 26, 317–373.
+* Sneddon, L. U., Braithwaite, V. A., & Gentle, M. J. (2003). Do fish have nociceptors: evidence for the evolution of a vertebrate sensory system. *Proceedings of the Royal Society London B*, 270, 1115–1121.
+* Sober, E. (1998). Morgan’s Canon. In C. Allen & D. Cummins (eds.), *The evolution of mind* (pp. 224–242). Oxford: Oxford University Press.
+* ––– (2000). Evolution and the problem of other minds. *Journal of Philosophy*, 97, 365–386.
+* ––– (2005). Comparative psychology meets evolutionary biology: Morgan’s canon and cladistic parsimony. In L. Datson & G. Mitman (eds.), *Thinking with Animals: New Perspectives on Anthropomorphism* (pp. 85–99). New York: Columbia University Press.
+* ––– (2012). Anthropomorphism, Parsimony, and Common Ancestry. *Mind & Language*, 27(3), 229–238.
+* Soley, F. G., & Alvarado-Díaz, I. (2011). Prospective thinking in a mustelid? Eira barbara (Carnivora) cache unripe fruits to consume them once ripened. *Naturwissenschaften*, 8, 693–698.
+* Sorabji, R. (1993). *Animal Minds and Human Morals: the origins of the Western debate*. Ithaca, NY: Cornell University Press.
+* Spalding, D. A. (1872). Instinct: With original observations on young animals. *MacMillan’s Magazine*, 27, 283–93.
+* Srinivasan, M. V. (2010). Honey Bees as a Model for Vision, Perception, and Cognition. *Annual Review of Entomology*, 55, 267–284.
+* Steiner, G. (2008). *Animals and the Moral Community: Mental Life, Moral Status, and Kinship*. New York: Columbia University Press.
+* Stoerig, P., & Cowey, A. (1997). Blindsight in man and monkey. *Brain*, 120, 535–559.
+* Stoerig, P., Zontanou, A., & Cowey, A. (2002). Aware or Unaware: Assessment of Cortical Blindness in Four Men and a Monkey. *Cerebral Cortex*, 12(6), 565–574.
+* Suddendorf, T., & Corballis, M. C. (1997). Mental time travel and the evolution of the human mind. *Genetic, social, and general psychology monographs*, 123(2), 133–167.
+* ––– (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 3, 299–312.
+* Sufka, K. J., Weldon, M., & Allen, C. (2009). The Case for Animal Emotions: Modeling Neuropsychiatric Disorders. In J. Bickle (ed.), *The Oxford Handbook of Philosophy of Neuroscience* (pp. 522–536). New York: Oxford University Press.
+* Terrace, H. S., & Son, L. K. (2009). Comparative metacognition. *Current Opinion in Neurobiology*, 19(1), 67–74.
+* Thorndike, E. L. (1911). *Animal Intelligence*. Darien, CT: Hafner.
+* Tononi, G. (2008). Consciousness as integrated information: a provisional manifesto. *The Biological Bulletin*, 215(3), 216–242.
+* Trestman, M. (2013). The Cambrian explosion and the origins of embodied cognition. *Biological Theory*, 8(1), 80–92.
+* ––– (2013). The modal breadth of consciousness. *Philosophical Psychology*, 27(6), 843-861.
+* Trout, J. D. (2001). The biological basis of speech: What to infer from talking to the animals. *Psychological Review*, 108(3), 523–549.
+* Tulving, E. (1985). Memory and consciousness. *Canadian Psychology/Psychologie Canadienne*, 26(1), 1–12.
+* Tye, M. (2000). *Consciousness, Color, and Content*. Cambridge, MA: MIT Press.
+* Varner, G. (1998). *In Nature’s Interests?* New York: Oxford University Press.
+* ––– (2012). *Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism*. New York: Oxford University Press.
+* Velmans, M. (2012). The evolution of consciousness. *Contemporary Social Science*, 7(2), 117–138.
+* Wallace, A. R. (1867). The philosophy of birds’ nests. *Intellectual Observer*, 11, 413–20.
+* Walters, E. T. (1996). Comparative and Evolutionary Aspects of Nociceptor Function. In C. Belmonte & F. Cervero (eds.), *Neurobiology of Nociceptors* (pp. 92–114). New York: Oxford University Press.
+* Watson, J. B. (1928). *The Ways of Behaviorism*. New York: Harper.
+* White, G. (1789). *The Natural History of Selbourne*. London and New York: Dent/Dutton.
+* Wilcox, R. S., & Jackson, R. R. (1998). Cognitive abilities of araneophagic jumping spiders. In C. Kamil (ed.), *Animal cognition in nature: the convergence of psychology and biology in laboratory and field. Academic* (pp. 411–434). San Diego: Academic Press.
+* Wilkes, K. (1984). Is consciousness important? *British Journal for the Philosophy of Science*, 35, 223–243.
+* Wilson, M. D. (1995). Animal ideas. *Proceedings and Addresses of the American Philosophical Association*, 69, 7–25.
+* Wynne, C. (2004). *Do Animals Think?* Princeton, NJ: Princeton University Press.
+* Zahavi, D. (2011). Empathy and direct social perception. *Review of Philosophy and Psychology*, 2(3), 541–558.
 
 ## Academic Tools
 
@@ -670,8 +670,8 @@ Gallup 的实验的修改版本也已经在非灵长类物种中进行过。恶�
 
 * Thomas, R. K. (2001). “[Lloyd Morgan’s canon: A history of misrepresentation](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwiaw\*eslNPtAhVUXM0KHZlYDeIQFjABegQIBhAC\&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FRoger\*Thomas5%2Fpost%2FCan\*an\*experimental\*study\*have\*more\*than\*1\*independent\*variable%2Fattachment%2F59d6478579197b80779a25b0%2FAS%253A462759096786944%25401487341774432%2Fdownload%2FMorgan%2527s%2BCanon%2B%2526%2BRelated.pdf\&usg=AOvVaw1IOaGyuUUrmtOuZ\*2NUQ4a)” (PDF), unpublished manuscript.
 * [Report of the Committee on Recognition and Alleviation of Pain in Laboratory Animals](http://www.nap.edu/catalog.php?record\*id=12526#toc), from the Institute for Laboratory Animal Research of the National Academy of Sciences, summarizes scientific literature as of 2009.
-* [_Nuffield Council Report on the ethics of research involving animals_](http://www.nuffieldbioethics.org/animal-research), Chapter 4 summarizes research on animal pain, distress, and suffering as of 2005.
-* _Field Guide to the Philosophy of Mind_ entry on [Philosophy of Cognitive Ethology](https://web.archive.org/web/20190905064538/http://host.uniroma3.it/progetti/kant/field/ceth.htm) by Colin Allen, with accompanying [Annotated Bibliography](http://web.archive.org/web/20200810055908/http://host.uniroma3.it/progetti/kant/field/cethbiblio.htm).
+* [*Nuffield Council Report on the ethics of research involving animals*](http://www.nuffieldbioethics.org/animal-research), Chapter 4 summarizes research on animal pain, distress, and suffering as of 2005.
+* *Field Guide to the Philosophy of Mind* entry on [Philosophy of Cognitive Ethology](https://web.archive.org/web/20190905064538/http://host.uniroma3.it/progetti/kant/field/ceth.htm) by Colin Allen, with accompanying [Annotated Bibliography](http://web.archive.org/web/20200810055908/http://host.uniroma3.it/progetti/kant/field/cethbiblio.htm).
 * The [Animal Consciousness](http://philpapers.org/browse/animal-consciousness) section of PhilPapers (Chalmers & Bourget).
 
 ## Related Entries
@@ -683,5 +683,5 @@ Gallup 的实验的修改版本也已经在非灵长类物种中进行过。恶�
 Colin Allen would like to acknowledge the assistance of Ronak Shah in preparing the 2009 revision of this entry.
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
-[Colin Allen](https://colinallen.dnsalias.org/) <[_colinallen@ucsb.edu_](mailto:colinallen%40ucsb%2eedu)>\
-[Michael Trestman](http://indiana.academia.edu/MichaelTrestman) <[_michael.a.trestman@gmail.com_](mailto:michael%2ea%2etrestman%40gmail%2ecom)>
+[Colin Allen](https://colinallen.dnsalias.org/) <[*colinallen@ucsb.edu*](mailto:colinallen%40ucsb%2eedu)>\
+[Michael Trestman](http://indiana.academia.edu/MichaelTrestman) <[*michael.a.trestman@gmail.com*](mailto:michael%2ea%2etrestman%40gmail%2ecom)>

@@ -1,12 +1,12 @@
 # 贝尔定理 Bell’s Theorem (Wayne Myrvold, Marco Genovese, and Abner Shimony)
 
-_首次发表于 2004 年 7 月 21 日；实质性修订于 2024 年 1 月 25 日_
+*首次发表于 2004 年 7 月 21 日；实质性修订于 2024 年 1 月 25 日*
 
-_贝尔定理_是一系列结果的集合名称，所有这些结果都涉及从概率分布的条件中推导出的，这些条件受到局部因果性考虑的启发，以及通常被认为是温和的附加假设，关于空间分离实验结果的概率预测，这些预测与量子力学预测相冲突，对于适当选择的量子态和实验。这些概率预测采取不等式的形式，这些不等式必须由任何满足证明条件的理论导出的相关性满足，但在某些情况下，这些不等式被量子力学计算出的相关性所违反。这种类型的不等式被称为_贝尔不等式_，有时也称为_贝尔型不等式_。贝尔定理表明，任何满足所施加条件的理论都无法在所有情况下重现量子力学的概率预测。
+*贝尔定理*是一系列结果的集合名称，所有这些结果都涉及从概率分布的条件中推导出的，这些条件受到局部因果性考虑的启发，以及通常被认为是温和的附加假设，关于空间分离实验结果的概率预测，这些预测与量子力学预测相冲突，对于适当选择的量子态和实验。这些概率预测采取不等式的形式，这些不等式必须由任何满足证明条件的理论导出的相关性满足，但在某些情况下，这些不等式被量子力学计算出的相关性所违反。这种类型的不等式被称为*贝尔不等式*，有时也称为*贝尔型不等式*。贝尔定理表明，任何满足所施加条件的理论都无法在所有情况下重现量子力学的概率预测。
 
-用于推导贝尔不等式的主要条件是一种称为_贝尔局域性_或_可分性_的条件。大致上，这个条件是指远距离事件之间的任何相关性都可以用局部术语解释，即归因于实验所涉及的粒子的共同源头的状态。详细陈述请参见第 3.1 节。
+用于推导贝尔不等式的主要条件是一种称为*贝尔局域性*或*可分性*的条件。大致上，这个条件是指远距离事件之间的任何相关性都可以用局部术语解释，即归因于实验所涉及的粒子的共同源头的状态。详细陈述请参见第 3.1 节。
 
-满足导致贝尔不等式的条件的理论与量子力学预测之间的不兼容性，使得可以通过实验来判断满足这些条件的理论类别与违反这些条件的理论类别（包括量子力学）之间的差异。在贝尔提出他的定理时，一个悬而未决的问题是，在考虑的情况下，量子力学预测的违反贝尔不等式的相关性是否在自然界中实现。从 20 世纪 70 年代开始，进行了一系列越来越复杂的实验，以测试贝尔不等式是否满足。除了少数例外，这些实验的结果都证实了量子力学的预测，违反了相关的贝尔不等式。然而，在 2015 年之前，这些实验中的每一个都存在至少两个漏洞之一，被称为_通信漏洞_或_局域性漏洞_，以及_检测漏洞_（请参见第 5 节）。2015 年进行了一系列实验，证明了在这些漏洞被堵塞的情况下违反贝尔不等式。违反贝尔不等式的实验性证明对我们的物理世界观产生了影响，因为导致贝尔不等式的条件可以说是量子力学出现之前被接受的物理世界观的一个组成部分。如果接受实验结果的教训，那么这些条件中的某一个或其他条件必须被拒绝。
+满足导致贝尔不等式的条件的理论与量子力学预测之间的不兼容性，使得可以通过实验来判断满足这些条件的理论类别与违反这些条件的理论类别（包括量子力学）之间的差异。在贝尔提出他的定理时，一个悬而未决的问题是，在考虑的情况下，量子力学预测的违反贝尔不等式的相关性是否在自然界中实现。从 20 世纪 70 年代开始，进行了一系列越来越复杂的实验，以测试贝尔不等式是否满足。除了少数例外，这些实验的结果都证实了量子力学的预测，违反了相关的贝尔不等式。然而，在 2015 年之前，这些实验中的每一个都存在至少两个漏洞之一，被称为*通信漏洞*或*局域性漏洞*，以及*检测漏洞*（请参见第 5 节）。2015 年进行了一系列实验，证明了在这些漏洞被堵塞的情况下违反贝尔不等式。违反贝尔不等式的实验性证明对我们的物理世界观产生了影响，因为导致贝尔不等式的条件可以说是量子力学出现之前被接受的物理世界观的一个组成部分。如果接受实验结果的教训，那么这些条件中的某一个或其他条件必须被拒绝。
 
 在贝尔定理最初发表和阿斯佩克特及其合作者进行实验之间的大部分时间里，对贝尔定理的兴趣仅限于少数物理学家和哲学家。在那段时间里，物理学基础的讨论大多发生在一本名为《认识论信函》的印刷复印本中。在阿斯佩克特的实验之后（阿斯佩克特、格朗吉耶和罗杰，1982 年；阿斯佩克特、达利巴尔德和罗杰，1982 年），对贝尔定理的含义进行了大量的哲学讨论；有关当时哲学讨论的概述，请参阅 Cushing 和 McMullin（1989 年）的编辑。贝尔关于量子力学基础的论文集的出版（贝尔，1987b）也刺激了人们的兴趣。量子信息理论的兴起也有助于提高人们对贝尔定理重要性的认识。量子信息理论研究了量子纠缠如何用于执行经典上不可行的任务，这与贝尔定理所揭示的量子纠缠相关性与经典相关性之间的差异形成了鲜明对比。2014 年是贝尔定理最初发表的 50 周年，这一事件被《物理学杂志 A》（**47**，第 42 期，2014 年 10 月 24 日）的特刊、一本论文集（贝尔和高，2016 年）以及一个有 400 多名与会者的大型会议所纪念（请参阅 Bertlmann 和 Zeilinger，2017 年的编辑）。建议感兴趣的读者参阅这些论文集，了解有关贝尔定理相关主题的当前讨论概况。
 
@@ -37,7 +37,7 @@ _贝尔定理_是一系列结果的集合名称，所有这些结果都涉及从
 
 ## 1. 引言
 
-1964 年，约翰·S·贝尔（John S. Bell）是北爱尔兰人，也是欧洲核子研究组织（CERN）的一名员工，他的主要研究领域是理论高能物理。他在短命的期刊《物理学》（_Physics_）上发表了一篇论文（Bell 1964），最终改变了量子力学基础研究的方向。
+1964 年，约翰·S·贝尔（John S. Bell）是北爱尔兰人，也是欧洲核子研究组织（CERN）的一名员工，他的主要研究领域是理论高能物理。他在短命的期刊《物理学》（*Physics*）上发表了一篇论文（Bell 1964），最终改变了量子力学基础研究的方向。
 
 这篇论文展示了贝尔（1971 年，1976 年）本人以及他的追随者（Clauser、Horne、Shimony 和 Holt 1969 年，Clauser 和 Horne 1974 年，Aspect 1983 年，Mermin 1986 年）在后来的工作中放宽了条件，证明在某些辅助条件的假设下，满足所谓的“贝尔局域性”的物理理论无法完全重现实验结果的量子概率。从那时起，已经提出了与该定理相似的变体。“贝尔定理”是整个家族的集体名称。
 
@@ -47,7 +47,7 @@ _贝尔定理_是一系列结果的集合名称，所有这些结果都涉及从
 
 贝尔定理的史前研究之一是贝尔对隐藏变量计划的考察。该计划涉及通过进一步的“现实要素”或“隐藏变量”来补充系统的量子力学状态，量子状态的不完备性解释了关于系统的量子力学预测的统计特性。隐藏变量理论的一个开创性版本是由路易斯·德布罗意在 1926-1927 年提出的（德布罗意 1927 年，1928 年），并由大卫·伯姆在 1952 年重新提出（伯姆 1952 年；另请参阅[伯姆力学](https://plato.stanford.edu/entries/qm-bohm/)的条目）。
 
-在一篇（贝尔 1966 年）早于贝尔定理首次出现的论文中，贝尔提出了一个隐藏变量理论的可行性问题，该理论通过对更好定义的状态进行平均，从而重现了量子力学的统计预测，这些状态唯一确定了任何可能进行的实验的结果。在这篇论文中，他检验了几个被提出为此类理论的不可行定理，并补充了自己的一个定理，这个定理是由斯佩克（1960 年）独立提出并由科赫恩和斯佩克（1967 年）发表的，后来被称为_Kochen-Specker 定理_或_Bell-Kochen Specker 定理_（有关更多详细信息，请参见[科赫恩-斯佩克定理](https://plato.stanford.edu/entries/kochen-specker/)的条目）。在每种情况下，贝尔认为证明中包含了物理上不合理的前提。
+在一篇（贝尔 1966 年）早于贝尔定理首次出现的论文中，贝尔提出了一个隐藏变量理论的可行性问题，该理论通过对更好定义的状态进行平均，从而重现了量子力学的统计预测，这些状态唯一确定了任何可能进行的实验的结果。在这篇论文中，他检验了几个被提出为此类理论的不可行定理，并补充了自己的一个定理，这个定理是由斯佩克（1960 年）独立提出并由科赫恩和斯佩克（1967 年）发表的，后来被称为*Kochen-Specker 定理*或*Bell-Kochen Specker 定理*（有关更多详细信息，请参见[科赫恩-斯佩克定理](https://plato.stanford.edu/entries/kochen-specker/)的条目）。在每种情况下，贝尔认为证明中包含了物理上不合理的前提。
 
 贝尔-科赫恩-斯佩克定理是格里森定理（Gleason 1957 年）的一个推论，尽管贝尔和科赫恩-斯佩克直接得出了这个定理，而不是通过格里森定理，后者的证明要复杂得多。格里森所涉及的问题与对希尔伯特空间的闭子空间（或等价地，对这些子空间的投影算符）的概率分配有关，使得分配给正交投影的概率是可加的。格里森证明，在维数大于等于 3 的希尔伯特空间中，任何这样的概率分配都可以用密度算符表示。BKS 定理处理的是分配被限制在值 1 或 0 的特殊情况。
 
@@ -57,7 +57,7 @@ _贝尔定理_是一系列结果的集合名称，所有这些结果都涉及从
 
 贝尔的文章以对德布罗意-波姆理论的简要阐述结束，特别指出“在这个理论中，存在一种明确的因果机制，使得一个装置的布置会影响到与之相距较远的装置的结果”（Bell 1966, 452; 1987b and 2004, 11）。文章以以下话语结束：
 
-Bohm 当然对他的方案的这些特点非常清楚，并且给予了它们很多关注。然而，必须强调的是，据笔者所知，没有任何关于量子力学的任何隐藏变量解释必须具有这种非凡特性的_证明_。因此，或许有意思的是，可以追求一些进一步的“不可能证明”，通过用某种局部性条件或远程系统的可分离性条件替换上述所反对的任意公理。
+Bohm 当然对他的方案的这些特点非常清楚，并且给予了它们很多关注。然而，必须强调的是，据笔者所知，没有任何关于量子力学的任何隐藏变量解释必须具有这种非凡特性的*证明*。因此，或许有意思的是，可以追求一些进一步的“不可能证明”，通过用某种局部性条件或远程系统的可分离性条件替换上述所反对的任意公理。
 
 对于上述引用的第二个句子附有一条注释：“自本文完成以来，已经找到了这样的证明。”这一宣布的潜在戏剧性被一个事实破坏了，即包含该证明的后续论文（Bell 1964）已经发表（有关导致发表延迟的情况，请参见 Jammer 1974 年 303 页）。
 
@@ -73,11 +73,11 @@ Bohm 当然对他的方案的这些特点非常清楚，并且给予了它们很
 
 我们假设（在大多数阐述中都是默认的），我们有一个适当的选择Λ的子集作为可测子集，形成一个可测空间，可以应用概率考虑。假设生成模式建立了一个概率分布ρ，该分布与两个系统分离后的各自冒险无关。这并不排除两个系统分离后属性的时间演化。假设的是状态λ为随后事件（包括任何时间演化）提供了概率，从而为对系统进行的实验的结果提供了概率。
 
-可以对每个系统进行不同的实验。我们将使用 a、a'作为变量，表示对 1 进行的可能实验，b、b'作为变量，表示对 2 进行的实验。不假设这些参数捕捉了实验装置的完整状态，该装置可能具有与每个实验设置相对应的一系列微观状态。假设准备概率分布ρ与选择要执行的实验的过程无关。我们称这个假设为“_测量独立性假设_”。
+可以对每个系统进行不同的实验。我们将使用 a、a'作为变量，表示对 1 进行的可能实验，b、b'作为变量，表示对 2 进行的实验。不假设这些参数捕捉了实验装置的完整状态，该装置可能具有与每个实验设置相对应的一系列微观状态。假设准备概率分布ρ与选择要执行的实验的过程无关。我们称这个假设为“*测量独立性假设*”。
 
 对系统 1 进行设置 a 的实验结果由一个实数参数 s 标记，该参数可以取值于区间\[−1,1]上的一组离散实数 Sa。同样地，对系统 2 进行的实验结果由参数 t 标记，该参数可以取值于区间\[−1,1]上的一组离散实数 Tb。如下标所示，可能结果的集合可能依赖于实验设置。将结果标签的取值限制在区间\[−1,1]内对物理意义无关，仅仅是为了方便起见的选择。实际上，使用数字来标记结果只是一种方便的做法。所要得到的不等式对其中涉及的概率施加了一定的条件；如果需要，可以不使用数字作为结果标签，并且不等式可以仅仅用相关概率来表达，如下所示的 CH 不等式（不等式 25）。贝尔自己的定理版本假设实验有两个可能的结果，标记为±1。定理的其他变体涉及更大的可能结果集。
 
-我们假设，对于每一对设置 a、b 和每个λ∈Λ，存在一个概率函数 pa,b(s,t∣λ)，该函数取值于区间\[0,1]且在所有 Sa 中的 s 和所有 Tb 中的 t 上求和时等于 1。这些响应函数可能包括对实验装置可能状态的隐含平均。贝尔自己的定理版本假设实验有两个可能的结果，标记为±1。定理的其他变体涉及更大的可能结果集。我们可以使用这些概率函数（我们将其称为_响应概率_）来定义边际概率：
+我们假设，对于每一对设置 a、b 和每个λ∈Λ，存在一个概率函数 pa,b(s,t∣λ)，该函数取值于区间\[0,1]且在所有 Sa 中的 s 和所有 Tb 中的 t 上求和时等于 1。这些响应函数可能包括对实验装置可能状态的隐含平均。贝尔自己的定理版本假设实验有两个可能的结果，标记为±1。定理的其他变体涉及更大的可能结果集。我们可以使用这些概率函数（我们将其称为*响应概率*）来定义边际概率：
 
 (1a)(1b)p1a,b(s∣λ)≡Σtpa,b(s,t∣λ),p2a,b(t∣λ)≡Σspa,b(s,t∣λ)。
 
@@ -115,7 +115,7 @@ Suppes 和 Zanotti（1976）证明了，在两个实验的结果之间存在完�
 
 (5)Sλ(a,a′,b,b′)=|Eλ(a,b)+Eλ(a,b′)|+|Eλ(a′,b)−Eλ(a′,b′)|.
 
-让_Sϱ_表示与准备分布 ρ 相关的 Eλs 的期望值之间的关系。
+让*Sϱ*表示与准备分布 ρ 相关的 Eλs 的期望值之间的关系。
 
 (6)Sϱ(a,a′,b,b′)= |⟨Eλ(a,b)⟩ϱ+⟨Eλ(a,b′)⟩ϱ|+|⟨Eλ(a′,b)⟩ϱ−⟨Eλ(a′,b′)⟩ϱ|.
 
@@ -129,7 +129,7 @@ Suppes 和 Zanotti（1976）证明了，在两个实验的结果之间存在完�
 
 (8) Sϱ(a,a′,b,b′)≤2.
 
-第二步是展示存在一些量子态和实验设置，使得量子力学的期望值违反不等式(8)。这表明满足分解性条件的理论无法在所有情况下重现量子力学的统计预测。此外，该不等式提供了一个界限，说明这样一个理论的预测与量子力学预测之间的接近程度。克劳泽、霍恩、希莫尼和霍尔（1969 年）提出的不等式(8)被称为_CHSH 不等式_。
+第二步是展示存在一些量子态和实验设置，使得量子力学的期望值违反不等式(8)。这表明满足分解性条件的理论无法在所有情况下重现量子力学的统计预测。此外，该不等式提供了一个界限，说明这样一个理论的预测与量子力学预测之间的接近程度。克劳泽、霍恩、希莫尼和霍尔（1969 年）提出的不等式(8)被称为*CHSH 不等式*。
 
 现在我们证明定理的第一部分，即 CHSH 不等式是由分解性条件(F)推导出来的。如果满足条件 F，那么根据(4)和 Aλ(a)和 Aλ(a′)在区间\[-1,1]内的事实，
 
@@ -169,7 +169,7 @@ Suppes 和 Zanotti（1976）证明了，在两个实验的结果之间存在完�
 
 图 1
 
-（_经许可重新印刷_）
+（*经许可重新印刷*）
 
 光子对从源中发射出来，每对光子在量子力学中由方程（15）的|Φ⟩描述。I 和 II 是偏振分析器，结果 s=1 和 t=1 表示出现在普通光线中，而 s=−1 和 t=−1 表示出现在非凡光线中。晶体也被理想化为假设没有入射光子被吸收，而是每个光子都出现在普通光线或非凡光线中。
 
@@ -199,7 +199,7 @@ Choose coplanar unit vectors a, a′, b, b′ such that θb′−θa= θa−θb=
 
 (21) SΦ(π/8) = 2√2 ≈ 2.828.
 
-这个值 2√2 在方程（19）和（21）中出现，是任何量子态对 CHSH 不等式的最大违背，正如 Tsirelson（Cirel’son 1980）所示。这个量子违背 CHSH 不等式的界限被称为_Tsirelson 界限_。正如 Gisin（1991）和 Popescu 和 Rohrlich（1992）独立证明的那样，对于一对系统的纯态纠缠量子态，可以找到观测量使得 CHSH 不等式被违背。Popescu 和 Rohrlich（1992）还表明，最大违背量是通过具有最大纠缠度的量子态实现的。顺便说一句，对于混合态来说，这并不成立；存在着不违背任何贝尔不等式的纠缠混合态（Werner 1989）。
+这个值 2√2 在方程（19）和（21）中出现，是任何量子态对 CHSH 不等式的最大违背，正如 Tsirelson（Cirel’son 1980）所示。这个量子违背 CHSH 不等式的界限被称为*Tsirelson 界限*。正如 Gisin（1991）和 Popescu 和 Rohrlich（1992）独立证明的那样，对于一对系统的纯态纠缠量子态，可以找到观测量使得 CHSH 不等式被违背。Popescu 和 Rohrlich（1992）还表明，最大违背量是通过具有最大纠缠度的量子态实现的。顺便说一句，对于混合态来说，这并不成立；存在着不违背任何贝尔不等式的纠缠混合态（Werner 1989）。
 
 ## 3. 证明的假设
 
@@ -233,7 +233,7 @@ Choose coplanar unit vectors a, a′, b, b′ such that θb′−θa= θa−θb=
 
 图 2
 
-在贝尔的术语中，_beable_是指物理理论中被认为对应于某种物理实在的任何元素，而与时空区域相关的_local beables_则是指包含在该区域内的元素。
+在贝尔的术语中，*beable*是指物理理论中被认为对应于某种物理实在的任何元素，而与时空区域相关的*local beables*则是指包含在该区域内的元素。
 
 根据贝尔的观点，从我们所称的 PLC-1 到 PLC-2 的转变应该“极度怀疑”，因为“正是在为数学清理直观概念时，很可能把孩子和洗澡水一起扔掉”（1990 年，106 页；2004 年，239 页）。关于它们之间的关系在那篇文章中没有进一步讨论，但其他论文中的评论可以阐明它们之间的转变。
 
@@ -325,15 +325,15 @@ Fry 和 Thompson（1976）还进行了 Holt-Pipkin 实验的变体，使用了�
 
 对于贝尔测试来说，光子对一直是最常见的物理系统，因为它们相对容易产生和分析，但也有使用其他系统进行实验的情况。Lamehi-Rachti 和 Mittig（1976）通过低能散射测量了质子对的自旋相关性。他们的结果与量子力学预测相吻合，并违反了贝尔不等式，但与正电子实验一样，需要做出强有力的辅助假设。
 
-贝尔测试的结果令人震惊地证实了由 2 个或更多组分构成的许多量子态的_prima facie_纠缠。实际上，对纠缠的第一个确认早于贝尔的工作，因为 Bohm 和 Aharonov（1957）证明了 Wu 和 Shaknov（1950）的结果，即正电子湮灭产生的光子对的康普顿散射已经显示了光子对的纠缠。
+贝尔测试的结果令人震惊地证实了由 2 个或更多组分构成的许多量子态的*prima facie*纠缠。实际上，对纠缠的第一个确认早于贝尔的工作，因为 Bohm 和 Aharonov（1957）证明了 Wu 和 Shaknov（1950）的结果，即正电子湮灭产生的光子对的康普顿散射已经显示了光子对的纠缠。
 
 ## 5. 通信和检测漏洞及其解决方法
 
 ### 5.1 通信漏洞及其解决方法
 
-所有贝尔不等式的推导都依赖于受相对论因果性启发的独立条件。在早期对贝尔不等式的测试中，由于实验的 1 号和 2 号臂在实验室参考系中空间上被很好地分离，因此这些条件被认为是满足的。然而，这种满足只是一种偶然性，并不受任何物理定律的保证，因此 1 号分析器的设置、1 号的检测或非检测可能会影响分析结果以及 2 号的检测或非检测，反之亦然。这就是所谓的_通信漏洞_，早期的贝尔测试容易受到这种漏洞的影响。为了解决这个问题，需要确保对这两个系统的实验在类空分离的情况下进行。
+所有贝尔不等式的推导都依赖于受相对论因果性启发的独立条件。在早期对贝尔不等式的测试中，由于实验的 1 号和 2 号臂在实验室参考系中空间上被很好地分离，因此这些条件被认为是满足的。然而，这种满足只是一种偶然性，并不受任何物理定律的保证，因此 1 号分析器的设置、1 号的检测或非检测可能会影响分析结果以及 2 号的检测或非检测，反之亦然。这就是所谓的*通信漏洞*，早期的贝尔测试容易受到这种漏洞的影响。为了解决这个问题，需要确保对这两个系统的实验在类空分离的情况下进行。
 
-Aspect、Dalibard 和 Roger（1982）发表了一项实验的结果，其中光子 1 和光子 2 的分析器方向的选择是如此迅速，以至于它们是具有类空分离的事件。分析器本身没有进行任何物理修改，而是在光子 1 和光子 2 的路径上放置了由水瓶组成的开关，其中激发了超声波驻波。当波被关闭时，光子在零级衍射下传播到分别以角度 a 和 b 定向的偏振分析器，当波被打开时，光子在一级衍射下传播到分别以角度 a'和 b'定向的偏振分析器。完整的定向选择需要分别的时间间隔 6.7 纳秒和 13.37 纳秒，远小于信号在遵循特殊相对论理论的情况下在开关之间传播所需的 43 纳秒。_乍看之下_，独立条件得到满足是合理的，因此与量子力学预测一致的巧合计数率构成了对贝尔不等式及其相关理论的反驳。然而，实验中存在一些不完善之处。首先，分析器定向的选择不是随机的，而是受到每个开关中驻波声波的准周期性建立和消除的控制。可以构想一种情景，根据这种情景，每个分析器的巧妙隐藏变量可以归纳地推断出控制另一个分析器的开关所做的选择，并相应地调整其决策以传输或阻止入射光子。此外，为了检测 1 号和 2 号通过各自的分析器的联合传输，采用了巧合计数技术，而这种技术建立了一个电子链接，可能会影响检测率。由于开关孔径的有限大小，入射光子的入射角度在布拉格角附近存在一定的扩散，导致对出射光子方向的控制失去了对非可忽略百分比的控制。
+Aspect、Dalibard 和 Roger（1982）发表了一项实验的结果，其中光子 1 和光子 2 的分析器方向的选择是如此迅速，以至于它们是具有类空分离的事件。分析器本身没有进行任何物理修改，而是在光子 1 和光子 2 的路径上放置了由水瓶组成的开关，其中激发了超声波驻波。当波被关闭时，光子在零级衍射下传播到分别以角度 a 和 b 定向的偏振分析器，当波被打开时，光子在一级衍射下传播到分别以角度 a'和 b'定向的偏振分析器。完整的定向选择需要分别的时间间隔 6.7 纳秒和 13.37 纳秒，远小于信号在遵循特殊相对论理论的情况下在开关之间传播所需的 43 纳秒。*乍看之下*，独立条件得到满足是合理的，因此与量子力学预测一致的巧合计数率构成了对贝尔不等式及其相关理论的反驳。然而，实验中存在一些不完善之处。首先，分析器定向的选择不是随机的，而是受到每个开关中驻波声波的准周期性建立和消除的控制。可以构想一种情景，根据这种情景，每个分析器的巧妙隐藏变量可以归纳地推断出控制另一个分析器的开关所做的选择，并相应地调整其决策以传输或阻止入射光子。此外，为了检测 1 号和 2 号通过各自的分析器的联合传输，采用了巧合计数技术，而这种技术建立了一个电子链接，可能会影响检测率。由于开关孔径的有限大小，入射光子的入射角度在布拉格角附近存在一定的扩散，导致对出射光子方向的控制失去了对非可忽略百分比的控制。
 
 Tittel、Brendel、Zbinden 和 Gisin（1998）的实验并没有直接解决通信漏洞的问题，但间接地对这个问题提供了一些启示，并提供了关于保持远距离分离的一对粒子的纠缠的戏剧性证据。光子对在日内瓦生成，并通过电缆传输到日内瓦郊区的两个分析站，这两个站点之间相距 10.9 公里。每单位长度丢失光子的概率非常小。计数率与量子力学的预测相符，并违反了 CHSH 不等式。没有采取任何预防措施来确保两个分析器的方向选择是具有类空分离的事件。两个分析站之间的巨大距离使得很难构想一个违反贝尔独立条件的阴谋的合理情景。此外，这个实验实现了比以往任何实验都更大的分析器分离，从而对 Schrödinger（1935）的一个猜想进行了测试，即纠缠是一种可能随着空间分离而减弱的属性。最近，甚至在 144 公里的距离上也证明了贝尔不等式的违背（Scheidl 等，2010），并且在 2017 年，通过卫星传输实现了 1200 公里的距离（Yin 等，2017）。
 
@@ -357,11 +357,11 @@ CHSH 不等式（8）是期望值之间的关系。因此，实验测试需要�
 
 其中一种策略是采用辅助假设，以得出从事件计数中推断相对频率所需的归一化因子的估计值，这是 CHSH 不等式测试所要求的。CHSH（1969 年）提出了这样一个假设：如果光子通过一个分析器，它被探测到的概率与分析器的方向无关。虽然在物理上是合理的，但这不是局部因果性所要求的条件。
 
-Pearle（1970 年）和 Clauser 和 Horne（1974 年）构建的玩具模型清楚地表明，对这类实验进行分析需要这种假设。在这些模型中，光子对以不同方向通过偏振分析器的速率与贝尔不等式一致，但隐藏变量不仅为光子和仪器提供了关于通过分析器的指令，还提供了关于探测的指令，从而违反了公平抽样的假设。在该模型中，探测或非探测是有选择性的，以使探测率违反贝尔型不等式，并与量子力学的预测一致。Fine（1982a）后来构建了其他模型，并由 Maudlin（1994 年）（“棱镜模型”）和 C.H. Thompson（1996 年）（“混沌球模型”）进行了修正。尽管所有这些模型都是_临时的_且缺乏物理可行性，但它们构成了满足局部因果性条件的理论可以与量子力学的预测一致，前提是探测器具有适当的选择性。
+Pearle（1970 年）和 Clauser 和 Horne（1974 年）构建的玩具模型清楚地表明，对这类实验进行分析需要这种假设。在这些模型中，光子对以不同方向通过偏振分析器的速率与贝尔不等式一致，但隐藏变量不仅为光子和仪器提供了关于通过分析器的指令，还提供了关于探测的指令，从而违反了公平抽样的假设。在该模型中，探测或非探测是有选择性的，以使探测率违反贝尔型不等式，并与量子力学的预测一致。Fine（1982a）后来构建了其他模型，并由 Maudlin（1994 年）（“棱镜模型”）和 C.H. Thompson（1996 年）（“混沌球模型”）进行了修正。尽管所有这些模型都是*临时的*且缺乏物理可行性，但它们构成了满足局部因果性条件的理论可以与量子力学的预测一致，前提是探测器具有适当的选择性。
 
 第二种策略涉及构建一个实验装置，可以注册每个粒子对的产生。Clauser 和 Shimony（1978）将实现这一点的装置称为“事件准备就绪”探测器；一些最近的文献将这种过程称为“预示”。
 
-第三种策略涉及使用一个不等式，可以在不知道涉及的概率的绝对值的情况下被证明违反。这消除了对不可测试的辅助假设的需求。适用于此目的的不等式首先由 Clauser 和 Horne（1974）（以下简称 CH）推导出来。设置与之前相同，唯一的区别是每个分析器只有一个输出通道，要考虑的情况是检测和非检测。我们希望得到一个仅以检测概率表示的不等式。导致 CHSH 不等式的相同推理得出了_CH 不等式_：
+第三种策略涉及使用一个不等式，可以在不知道涉及的概率的绝对值的情况下被证明违反。这消除了对不可测试的辅助假设的需求。适用于此目的的不等式首先由 Clauser 和 Horne（1974）（以下简称 CH）推导出来。设置与之前相同，唯一的区别是每个分析器只有一个输出通道，要考虑的情况是检测和非检测。我们希望得到一个仅以检测概率表示的不等式。导致 CHSH 不等式的相同推理得出了*CH 不等式*：
 
 (25) -1≤pa,b(+,+)+pa,b′(+,+)+pa′,b(+,+)−pa′,b′(+,+)−p1a(+)−p2b(+)≤0.
 
@@ -373,9 +373,9 @@ Pearle（1970 年）和 Clauser 和 Horne（1974 年）构建的玩具模型清�
 
 正如 CH 所指出的，弗里德曼和克劳泽实验的结果违反了这一条件，因此该实验排除了满足可分解性条件（F）和无增强假设的理论，尽管它并未排除 CH 构建的玩具模型。
 
-从历史上看，消除探测漏洞的实验努力主要有两个主要方向，尽管还有其他几种可能性被探索过。其中一种可能性涉及 K 或 B 介子（Selleri 1983，Go 2004），在这种情况下，探测漏洞以另一种形式重新出现（Genovese，Novero 和 Predazzi 2001）。另一种涉及固态系统（Ansmann _et al_. 2009）。
+从历史上看，消除探测漏洞的实验努力主要有两个主要方向，尽管还有其他几种可能性被探索过。其中一种可能性涉及 K 或 B 介子（Selleri 1983，Go 2004），在这种情况下，探测漏洞以另一种形式重新出现（Genovese，Novero 和 Predazzi 2001）。另一种涉及固态系统（Ansmann *et al*. 2009）。
 
-其中一种主要方法是使用纠缠离子。使用离子看起来非常有前途，因为对于这样的实验，探测效率非常高。Rowe _et al_.（2001）的实验使用铍离子，观察到 CHSH 不等式违反，S=2.25±0.03，总探测效率约为 98%。然而，在这个设置中，两个离子的测量不仅不是时空分离的，而且还有一个共同的测量。最近，离子之间的距离增加了。例如，Matsukevich _et al_.（2008）通过干涉和两个发射光子的联合探测，使两个钇离子纠缠在一起，离子之间的距离设置为 1 米。然而，这种类型的确切实验要消除通信漏洞，需要分开几公里的距离。
+其中一种主要方法是使用纠缠离子。使用离子看起来非常有前途，因为对于这样的实验，探测效率非常高。Rowe *et al*.（2001）的实验使用铍离子，观察到 CHSH 不等式违反，S=2.25±0.03，总探测效率约为 98%。然而，在这个设置中，两个离子的测量不仅不是时空分离的，而且还有一个共同的测量。最近，离子之间的距离增加了。例如，Matsukevich *et al*.（2008）通过干涉和两个发射光子的联合探测，使两个钇离子纠缠在一起，离子之间的距离设置为 1 米。然而，这种类型的确切实验要消除通信漏洞，需要分开几公里的距离。
 
 另一种主要的方法是通过创新的光子测试方法为贝尔不等式提供了一个决定性的测试途径。首先，通过利用参数下转换（Parametric Down Conversion）实现了光子纠缠态的高效源。参数下转换是一种非线性光学现象，高能光子在非线性介质内转化为两个较低频率的光子，从而能够保持能量和动量守恒。这样可以通过发射的光子的波矢相关性实现高收集效率。接下来，高效的单光子过渡边缘传感器被制造出来。这些进展导致了与光子相关的无漏洞实验（Giustina 等人，2013 年；Christensen 等人，2013 年），最终实现了下一节讨论的决定性测试。
 
@@ -403,7 +403,7 @@ Pearle（1970 年）和 Clauser 和 Horne（1974 年）构建的玩具模型清�
 
 (27)|Φ⟩=1√3\[|z,1⟩1|z,−1⟩2−|z,0⟩1|z,0⟩2+|z,−1⟩1|z,1⟩2],
 
-其中|z，i⟩1，其中 i = -1 或 0 或 1 是粒子 1 的自旋状态，其自旋沿轴 z 具有自旋 i 的分量，而|z，i⟩2 对于粒子 2 具有类似的含义。如果 x，y，z 是 3D 空间中的一组正交轴，则自旋算符沿这些轴的分量 sx，sy，sz 不两两对易。然而，这些算符的平方——s2x，s2y，s2z——是对易的，因此根据[第 1 节](https://plato.stanford.edu/entries/bell-theorem/#Intr)的考虑，其中任意两个算符可以构成第三个算符的测量上下文。如果感兴趣的算符是 s2z，则轴 x 和 y 可以是垂直于 z 的平面上的任意一对正交轴，从而为测量 s2z 提供了无限多的上下文。如[第 1 节](https://plato.stanford.edu/entries/bell-theorem/#Intr)所述，贝尔展示了对于量子系统的_上下文_隐藏变量理论的可能性，其希尔伯特空间的维数为 3 或更大，尽管贝尔-科亨-斯佩克定理表明对于这样的系统，_非上下文_隐藏变量理论是不可能的。该论证的策略是使用方程（27）的纠缠态来预测测量粒子 2 的 s2z 的结果（对于任何选择的 z），通过测量粒子 1 上的对应量。特定的完全态λ将确定 1 的 s2z 与 1 中的上下文一起测量时是 0 还是 1。与方程（27）的纠缠态的量子力学预测一致意味着 2 的 s2z 具有相同的值 0 或 1。但是，如果假设因子化条件（F），则在 2 上测量 s2z 的结果必须独立于远程上下文，即独立于 1 的 s2x 和 s2y 的选择，因此由于相关性，独立于垂直于 z 的平面上的任何一对正交方向 x 和 y 的选择。由此可见，提供完全态λ的假设理论实际上并不是上下文相关的，而是将 2 的算符 s2z，对于任何方向 z，_非上下文地_映射到值对（0，1）。但是根据贝尔-科亨-斯佩克定理，这是不可能的。结论是，不满足因子化条件（F）的任何理论都与纠缠态（29）的量子力学预测不一致。
+其中|z，i⟩1，其中 i = -1 或 0 或 1 是粒子 1 的自旋状态，其自旋沿轴 z 具有自旋 i 的分量，而|z，i⟩2 对于粒子 2 具有类似的含义。如果 x，y，z 是 3D 空间中的一组正交轴，则自旋算符沿这些轴的分量 sx，sy，sz 不两两对易。然而，这些算符的平方——s2x，s2y，s2z——是对易的，因此根据[第 1 节](https://plato.stanford.edu/entries/bell-theorem/#Intr)的考虑，其中任意两个算符可以构成第三个算符的测量上下文。如果感兴趣的算符是 s2z，则轴 x 和 y 可以是垂直于 z 的平面上的任意一对正交轴，从而为测量 s2z 提供了无限多的上下文。如[第 1 节](https://plato.stanford.edu/entries/bell-theorem/#Intr)所述，贝尔展示了对于量子系统的*上下文*隐藏变量理论的可能性，其希尔伯特空间的维数为 3 或更大，尽管贝尔-科亨-斯佩克定理表明对于这样的系统，*非上下文*隐藏变量理论是不可能的。该论证的策略是使用方程（27）的纠缠态来预测测量粒子 2 的 s2z 的结果（对于任何选择的 z），通过测量粒子 1 上的对应量。特定的完全态λ将确定 1 的 s2z 与 1 中的上下文一起测量时是 0 还是 1。与方程（27）的纠缠态的量子力学预测一致意味着 2 的 s2z 具有相同的值 0 或 1。但是，如果假设因子化条件（F），则在 2 上测量 s2z 的结果必须独立于远程上下文，即独立于 1 的 s2x 和 s2y 的选择，因此由于相关性，独立于垂直于 z 的平面上的任何一对正交方向 x 和 y 的选择。由此可见，提供完全态λ的假设理论实际上并不是上下文相关的，而是将 2 的算符 s2z，对于任何方向 z，*非上下文地*映射到值对（0，1）。但是根据贝尔-科亨-斯佩克定理，这是不可能的。结论是，不满足因子化条件（F）的任何理论都与纠缠态（29）的量子力学预测不一致。
 
 贝尔定理的一个更简单的证明，也依赖于反事实推理，并基于确定性的局部理论，是 Hardy（1993）的证明，这里以 Laloë（2001）的表述呈现。考虑一组自旋-1/2 粒子 1 和 2 的集合，1 的自旋沿着 xz 平面上与 z 轴成角度 a = θ/2 和 a' = 0 的方向测量，而 2 的自旋沿着具有类似意义的方向 b 和 b'测量。相对于方向 a'，粒子 1 的自旋为+1/2 和-1/2 的量子态分别为|a'，+⟩1 和|a'，-⟩1，而相对于方向 a，它们分别为
 
@@ -453,8 +453,8 @@ Colbeck 和 Renner（2011 年，2016 年）的研究结果，基于 Branciard �
 
 由于我们正在考虑接受贝尔不等式违背作为现实特征的含义，即使在空间分离的情况下进行实验，我们暂时搁置了崩溃局部性漏洞。这给我们留下了两个选择。
 
-* _拒绝唯一结果_。这是埃弗里特学派或多世界理论以及相关的量子力学解释所采取的选择。问题是在这种选择下是否可以保持局部性。提出贝尔定理对埃弗里特学派或相对态解释的局部性是否有影响的问题，首先需要考虑如何在这样的背景下制定局部性条件，因为在第 3.1 节中制定的条件预设了唯一的实验结果。有关埃弗里特解释中局部性的讨论，请参见 Vaidman（1994）、Bacciagaluppi（2002）、Wallace（2012）第 8 章、Tipler（2014）、Vaidman（2016）、Brown 和 Timpson（2016）以及 Myrvold（2016）。有关关系解释背景下的讨论，请参见 Smerlak 和 Rovelli（2007）。
-* _拒绝测量独立性假设_。有两种基本方法可以做到这一点。一种是假设过去存在一个共同的原因，决定了实验设置和实验结果。在一次采访中，贝尔将这种类型的解释称为“超决定论”（Davies 和 Brown，47），这种方法被称为_超决定论_。另一种方法是拒绝通常的因果假设，即原因必须在时间上先于其效应。如果承认未来对过去的因果影响，即使将设置视为自由变量，它们也可能影响系统在准备时刻的状态，违反了准备概率分布与实验设置无关的假设。这种方法通常被称为_逆因果性_。近年来，这两种方法都得到了支持者的拥护。
+* *拒绝唯一结果*。这是埃弗里特学派或多世界理论以及相关的量子力学解释所采取的选择。问题是在这种选择下是否可以保持局部性。提出贝尔定理对埃弗里特学派或相对态解释的局部性是否有影响的问题，首先需要考虑如何在这样的背景下制定局部性条件，因为在第 3.1 节中制定的条件预设了唯一的实验结果。有关埃弗里特解释中局部性的讨论，请参见 Vaidman（1994）、Bacciagaluppi（2002）、Wallace（2012）第 8 章、Tipler（2014）、Vaidman（2016）、Brown 和 Timpson（2016）以及 Myrvold（2016）。有关关系解释背景下的讨论，请参见 Smerlak 和 Rovelli（2007）。
+* *拒绝测量独立性假设*。有两种基本方法可以做到这一点。一种是假设过去存在一个共同的原因，决定了实验设置和实验结果。在一次采访中，贝尔将这种类型的解释称为“超决定论”（Davies 和 Brown，47），这种方法被称为*超决定论*。另一种方法是拒绝通常的因果假设，即原因必须在时间上先于其效应。如果承认未来对过去的因果影响，即使将设置视为自由变量，它们也可能影响系统在准备时刻的状态，违反了准备概率分布与实验设置无关的假设。这种方法通常被称为*逆因果性*。近年来，这两种方法都得到了支持者的拥护。
 
 #### 8.1.1 逆因果性
 
@@ -484,11 +484,11 @@ Shimony、Horne 和 Clauser 的目标不是拒绝贝尔的结论，而是激发�
 
 对我来说，这意味着这些变量的值只在它们的未来光锥中有影响。它们在任何意义上都不是关于之前发生的事情的记录，也不提供关于之前发生的信息。特别是它们对于后向光锥的重叠部分中的隐藏变量ν没有任何影响...。（1977 年，79 页；1985b，103 页；1987b 和 2004 年，100 页）
 
-正如所述，这太过强硬；如果动力学是可逆的，那么这些变量的值不可能仅仅在设置事件的未来光锥中有影响。我们需要的是比实验的后向光锥的重叠部分中这些变量不被确定更弱的条件；我们需要的是它们“_至少对于手头的目的而言是有效自由的_”。贝尔认为，一个对初始条件非常敏感的确定性随机器足以提供所需的独立性，并且可以将这类变量视为仅对其未来光锥中的事件有影响。
+正如所述，这太过强硬；如果动力学是可逆的，那么这些变量的值不可能仅仅在设置事件的未来光锥中有影响。我们需要的是比实验的后向光锥的重叠部分中这些变量不被确定更弱的条件；我们需要的是它们“*至少对于手头的目的而言是有效自由的*”。贝尔认为，一个对初始条件非常敏感的确定性随机器足以提供所需的独立性，并且可以将这类变量视为仅对其未来光锥中的事件有影响。
 
 假设仪器的设置不是由实验物理学家决定，而是由机械随机数发生器决定。实际上，设想具有这种特性的实验，两个这样的设备的输出之间存在类空间隔，似乎不那么不切实际，而希望实现这种情况与人类操作员一起则更加困难。这样的机械设备的输出能否合理地被视为对于手头的目的而言足够自由？我认为是的。
 
-> 考虑一个极端情况，即实际上是完全确定性的“随机”生成器——为了简单起见，假设它是完全孤立的。在这样的设备中，完整的最终状态完全决定了完整的初始状态——没有任何遗忘。然而，对于许多目的来说，这样的设备恰恰是一个“遗忘机器”。一个特定的输出是许多因素的组合结果，是一个漫长而复杂的动力链，对许多初始条件的微小变化非常敏感。这是经典统计力学中的一个熟悉的悖论，即对初始条件的这种精细敏感性实际上等同于完全遗忘它们。为了说明这一点，假设两个可能的输出之间的选择，对应于_a_和_a′_ ，取决于某个输入变量的第一百万位小数的奇偶性。然后，固定_a_或_a′_ 确实确定了输入的某些内容——即第一百万位小数是奇数还是偶数。但是这个奇特的信息不太可能是任何明显不同目的的关键信息，换句话说，它在其他方面是相当无用的。对于一个物理洗牌机，我们无法分析到底哪个奇特的输入在输出中被记住了。但是我们可以合理地假设它对其他目的来说并不相关。从这个意义上说，这样的设备的输出确实是为手头的目的而足够自由的变量。（1977 年，82-83 页；1985b 年，105-106 页；1987b 年和 2004 年，102-103 页）
+> 考虑一个极端情况，即实际上是完全确定性的“随机”生成器——为了简单起见，假设它是完全孤立的。在这样的设备中，完整的最终状态完全决定了完整的初始状态——没有任何遗忘。然而，对于许多目的来说，这样的设备恰恰是一个“遗忘机器”。一个特定的输出是许多因素的组合结果，是一个漫长而复杂的动力链，对许多初始条件的微小变化非常敏感。这是经典统计力学中的一个熟悉的悖论，即对初始条件的这种精细敏感性实际上等同于完全遗忘它们。为了说明这一点，假设两个可能的输出之间的选择，对应于*a*和*a′* ，取决于某个输入变量的第一百万位小数的奇偶性。然后，固定*a*或*a′* 确实确定了输入的某些内容——即第一百万位小数是奇数还是偶数。但是这个奇特的信息不太可能是任何明显不同目的的关键信息，换句话说，它在其他方面是相当无用的。对于一个物理洗牌机，我们无法分析到底哪个奇特的输入在输出中被记住了。但是我们可以合理地假设它对其他目的来说并不相关。从这个意义上说，这样的设备的输出确实是为手头的目的而足够自由的变量。（1977 年，82-83 页；1985b 年，105-106 页；1987b 年和 2004 年，102-103 页）
 
 贝尔以这样的话结束：
 
@@ -498,7 +498,7 @@ Shimony、Horne 和 Clauser 的目标不是拒绝贝尔的结论，而是激发�
 
 在实际实验中，采用了各种随机化策略，根据合理的物理假设，预计可以确保实验设置和条件在粒子对源头的独立性。Scheidl 等人的实验（2010 年）是第一个在与粒子对源头的生成处进行时空分离的随机数生成器的实验。根据 Clauser 的建议，其他测试使用了来自银河系恒星的光子的测量（Handsteiner 等人，2017 年）和来自遥远类星体的光子的测量（Rauch 等人，2018 年）。此外，“大贝尔测试”进行了利用大约 10 万名志愿者提供的输入的实验（Abellán 等人，2018 年）。在 Shalm 等人的实验（2015 年）中，测量决策是通过对来自三个独立源的三个位进行异或（exclusive or）操作来确定的，其中之一是由π的数字和从各种流行文化源（包括电影《Monty Python and the Holy Grail》、《Back to the Future》三部曲以及《Doctor Who》、《Saved by the Bell》和《Star Trek》的剧集）派生的二进制字符串构成的伪随机序列。
 
-然而，近年来，构建一个纯粹局部动力学的理论的项目得到了一些支持，观察到的相关性是由于这些和其他所谓的随机化程序未能消除恰好产生与量子力学预测密切匹配的统计数据所需的相关性的失败。这是’t Hooft 量子力学的细胞自动机解释的一个特点（’t Hooft 2016; 另见 Scardagli _et al_. 2019），并且已经得到 Hossenfelder 和 Palmer（2020）以及 Hance，Hossenfelder 和 Palmer（2022）的支持。这些作者依赖于这样一种可能性：被认为具有 Bell 所说的随机化作用的动力学系统实际上可能具有不同类型的动力学，而看似对初始条件的微小变化具有非凡的敏感性可能并非如此。
+然而，近年来，构建一个纯粹局部动力学的理论的项目得到了一些支持，观察到的相关性是由于这些和其他所谓的随机化程序未能消除恰好产生与量子力学预测密切匹配的统计数据所需的相关性的失败。这是’t Hooft 量子力学的细胞自动机解释的一个特点（’t Hooft 2016; 另见 Scardagli *et al*. 2019），并且已经得到 Hossenfelder 和 Palmer（2020）以及 Hance，Hossenfelder 和 Palmer（2022）的支持。这些作者依赖于这样一种可能性：被认为具有 Bell 所说的随机化作用的动力学系统实际上可能具有不同类型的动力学，而看似对初始条件的微小变化具有非凡的敏感性可能并非如此。
 
 Hossenfelder 和 Palmer（2020）认为，超决定论理论是“阴谋论”或需要“精细调整”的指责意味着：根据某种物理上显著的度量，导致参数设置和初始状态之间所需相关性的初始条件集合很小。他们的回应策略是考虑一个状态空间的可能性比人们通常认为的更受限制的理论，并主张在这样的空间中，一个物理上显著的度量可能是那些导致所需相关性的初始条件集合很大的度量。也就是说，想象中的理论排除了缺乏所需相关性的初始条件作为物理可能性。
 
@@ -514,12 +514,12 @@ Hossenfelder 和 Palmer（2020）认为，超决定论理论是“阴谋论”�
 
 这些考虑为接受补充假设并接受违反贝尔不等式的相关性提供了一种分类的选择。
 
-* _拒绝 PLC-1_。一种选择是拒绝因果局域性假设 PLC-1，并接受事件之间存在彼此光锥之外的因果关系。有两种方法可以做到这一点。
-* _介绍非相对论时空结构_。一个选择，也许是最直接的选择，是拒绝洛伦兹不变时空结构的假设。这是接受德布罗意-波姆理论或任何类似理论的立场。在德布罗意-波姆理论中，粒子的速度不仅取决于其自身位置，还取决于与其纠缠的其他粒子的位置。这意味着该理论的动力学需要一个特权的远程同时性关系。非相对论时空结构可以通过动态引入，例如 Dürr 等人（1999）概述的一系列模型。
-* _逆因果性_。另一个选择是保持事件的过去是其过去的光锥，并因此保持时空结构的洛伦兹不变性，但否认原因必须在效果之前发生的假设。通常，选择这个选项的人接受逆因果性，主张因果过程可以在光锥内以任何时间方向传播；因此，每个事件至少在潜在上都处于其他事件的因果领域。因此，这种方法涉及对因果局域性的拒绝，尽管它可能尊重因果影响必须通过沿类时世界线的连续过程进行传递的观念。
-* _拒绝共同因果原理_。一个随机理论，例如动力学崩塌理论，可以在贝尔实验中重现量子概率，将涉及到时空分离的相关事件。然而，它不需要涉及这些事件的共同过去来屏蔽这些相关性；这些相关性将内置于理论的规律中，产生事件的概率。是否愿意将因果关系的讨论扩展到这些事件之间的关系仅仅是一种术语问题；然而，值得注意的是，在这些事件之间的关系中，没有通常的因果关系的不对称性。接受这种关系作为一种新的对称因果关系将消除任何认为时空分离的事件之间的因果关系与相对论时空结构不兼容的理由。
+* *拒绝 PLC-1*。一种选择是拒绝因果局域性假设 PLC-1，并接受事件之间存在彼此光锥之外的因果关系。有两种方法可以做到这一点。
+* *介绍非相对论时空结构*。一个选择，也许是最直接的选择，是拒绝洛伦兹不变时空结构的假设。这是接受德布罗意-波姆理论或任何类似理论的立场。在德布罗意-波姆理论中，粒子的速度不仅取决于其自身位置，还取决于与其纠缠的其他粒子的位置。这意味着该理论的动力学需要一个特权的远程同时性关系。非相对论时空结构可以通过动态引入，例如 Dürr 等人（1999）概述的一系列模型。
+* *逆因果性*。另一个选择是保持事件的过去是其过去的光锥，并因此保持时空结构的洛伦兹不变性，但否认原因必须在效果之前发生的假设。通常，选择这个选项的人接受逆因果性，主张因果过程可以在光锥内以任何时间方向传播；因此，每个事件至少在潜在上都处于其他事件的因果领域。因此，这种方法涉及对因果局域性的拒绝，尽管它可能尊重因果影响必须通过沿类时世界线的连续过程进行传递的观念。
+* *拒绝共同因果原理*。一个随机理论，例如动力学崩塌理论，可以在贝尔实验中重现量子概率，将涉及到时空分离的相关事件。然而，它不需要涉及这些事件的共同过去来屏蔽这些相关性；这些相关性将内置于理论的规律中，产生事件的概率。是否愿意将因果关系的讨论扩展到这些事件之间的关系仅仅是一种术语问题；然而，值得注意的是，在这些事件之间的关系中，没有通常的因果关系的不对称性。接受这种关系作为一种新的对称因果关系将消除任何认为时空分离的事件之间的因果关系与相对论时空结构不兼容的理由。
 
-贝尔定理的一个更常见的观点是，它告诉我们可能存在无法用因果关系来解释的相关性。这涉及到拒绝共同因果原则（见，_例如_，van Fraassen 1982，Fine 1989，Butterfield 1992，Elby 1992）。其他人认为，尽管 Reichenbach 所阐述的共同因果原则应该被拒绝，但这个原则被过于狭窄地阐述了，需要根据量子现象进行重新阐述。有人提出，尽管不满足 Reichenbach 的原则，违反贝尔不等式的相关性是由它们过去的共同原因造成的，即产生纠缠的过程（Unruh 2002, 136）。Hofer-Szabo、Rédei 和 Szabo（1999, 2002）提出了对共同因果原则的修改，Leifer 和 Spekkens（Leifer 2006, Leifer and Spekkens 2011）也提出了类似的修改。有关这些提议的讨论和批评，请参见 Cavalcanti 和 Lal（2014）。
+贝尔定理的一个更常见的观点是，它告诉我们可能存在无法用因果关系来解释的相关性。这涉及到拒绝共同因果原则（见，*例如*，van Fraassen 1982，Fine 1989，Butterfield 1992，Elby 1992）。其他人认为，尽管 Reichenbach 所阐述的共同因果原则应该被拒绝，但这个原则被过于狭窄地阐述了，需要根据量子现象进行重新阐述。有人提出，尽管不满足 Reichenbach 的原则，违反贝尔不等式的相关性是由它们过去的共同原因造成的，即产生纠缠的过程（Unruh 2002, 136）。Hofer-Szabo、Rédei 和 Szabo（1999, 2002）提出了对共同因果原则的修改，Leifer 和 Spekkens（Leifer 2006, Leifer and Spekkens 2011）也提出了类似的修改。有关这些提议的讨论和批评，请参见 Cavalcanti 和 Lal（2014）。
 
 在所有这些中，假设时空拓扑与闵可夫斯基时空相匹配。人们也可以拒绝这个假设；有可能被认为是时空分离的事件实际上是有因果联系的，因为存在与通常假设不同的时空拓扑。在这种方法中，通过考虑虫洞，即所谓的 ER = EPR（即爱因斯坦-罗森虫洞与 EPR 悖论相关）猜想（Maldacena and Susskind 2013）或更多的包裹维度（Genovese and Gramegna 2019），可以恢复局部性。
 
@@ -529,7 +529,7 @@ Hossenfelder 和 Palmer（2020）认为，超决定论理论是“阴谋论”�
 
 当然，答案取决于人们对相对论的要求。可以证明（Eberhard 1978，Ghirardi，Rimini＆Weber 1980，Page 1982），在哈密顿量中没有非局域相互作用项的情况下，量子相关性不能被利用来超光速发送信号。在一些文献中，人们倾向于仅凭此事实就认为量子理论与相对论相容。然而，从以下事实可以看出，这是不充分的：存在一些理论，例如德布罗意-波姆理论，它们需要非相对论时空结构来制定其动力学定律，同时又不允许信号传输（至少只要粒子位置的常规分布假设得到满足）。
 
-将_相对论时空结构_定义为包括时间先后关系的结构，其中一个时空点的过去是其过去光锥上的点或其中的点集，而其未来是其未来光锥上的点或其中的点集，其他点与其在时间上无关，既不是过去也不是未来。我们可以问一个给定的世界事件描述是否与相对论时空结构相容。如果一个理论要求其光锥之外的事件被划分为过去、未来和与某一点同时发生的事件，就像德布罗意-波姆理论那样，那么它就与相对论时空结构不相容。理论与相对论时空结构的相容性在这个意义上是一个独立的问题，与表达理论动力学定律的洛伦兹协变性是不同的。我们可以构建那些在动力学上引入非相对论时空结构的理论，就像 Dürr，Goldstein，Münch-Berndl 和 Zanghì（1999）所做的那样，他们通过引入一个辅助场来对 Minkowski 时空背景下的 Bohmian 理论进行建模，该辅助场选择了一个特殊的分层结构，然后用于制定理论的动力学（有关讨论，请参见 Dürr 等人的 2014 年的论文）。Berndl，Dürr，Goldstein 和 Zanghì（1996）考虑了轨迹理论的类别，即像德布罗意-波姆理论一样为粒子分配明确轨迹的理论，并证明这类理论无法满足 Born 规则分布假设在任意类空超平面上。这个论证可以推广到任何分配除位置以外的变量的理论，例如模态解释（Dickson 和 Clifton 1998，Arntzenius 1998，Myrvold 2002）。因此，这类理论必须引入一个特殊的分层结构。
+将*相对论时空结构*定义为包括时间先后关系的结构，其中一个时空点的过去是其过去光锥上的点或其中的点集，而其未来是其未来光锥上的点或其中的点集，其他点与其在时间上无关，既不是过去也不是未来。我们可以问一个给定的世界事件描述是否与相对论时空结构相容。如果一个理论要求其光锥之外的事件被划分为过去、未来和与某一点同时发生的事件，就像德布罗意-波姆理论那样，那么它就与相对论时空结构不相容。理论与相对论时空结构的相容性在这个意义上是一个独立的问题，与表达理论动力学定律的洛伦兹协变性是不同的。我们可以构建那些在动力学上引入非相对论时空结构的理论，就像 Dürr，Goldstein，Münch-Berndl 和 Zanghì（1999）所做的那样，他们通过引入一个辅助场来对 Minkowski 时空背景下的 Bohmian 理论进行建模，该辅助场选择了一个特殊的分层结构，然后用于制定理论的动力学（有关讨论，请参见 Dürr 等人的 2014 年的论文）。Berndl，Dürr，Goldstein 和 Zanghì（1996）考虑了轨迹理论的类别，即像德布罗意-波姆理论一样为粒子分配明确轨迹的理论，并证明这类理论无法满足 Born 规则分布假设在任意类空超平面上。这个论证可以推广到任何分配除位置以外的变量的理论，例如模态解释（Dickson 和 Clifton 1998，Arntzenius 1998，Myrvold 2002）。因此，这类理论必须引入一个特殊的分层结构。
 
 确定论理论必须满足结果独立性的条件，因此如果接受以下两点：(a) 违反 PI（即实验选择一侧会改变另一侧结果的概率）是因果关系的一个实例，(b) 原因必须在时间上先于其效果，那么遵守补充条件并重现量子相关性的确定论理论与相对论时空结构不兼容。然而，如果（如德布罗意-波姆理论中）可观测到的是无法区分的分叶，则这样的理论在现象层面上可能是洛伦兹不变的。
 
@@ -551,220 +551,220 @@ Shimony 在他的几篇著作中（Shimony 1978, 1983, 1984a,b, 1986, 1988, 1989
 
 ## Bibliography
 
-* Abellán, C., _et al_., 2018, “Challenging local realism with human choices,” _Nature_, 577: 212–216.
-* Aharonov, Y., Albert, D. Z., Vaidman, L., 1988, “How the result of a measurement of a component of the spin of a spin-1/2 particle can turn out to be 100,” _Physical Review_, 60: 1351–1354.
-* Andreoletti, G., and L. Vervoort, 2022, “Superdeterminism: a reappraisal,” _Synthese_, 200: art. no. 361.
-* Ansmann, M., _et al_., 2009, “Violation of Bell’s inequality in Josephson phase qubits,” _Nature_, 461: 504–506.
-* Arntzenius, F., 1998, “Curiouser and curiouser: A personal evaluation of modal interpretations,” in Dieks, D. and Vermass, P. (eds). _The Modal Interpretation of Quantum Mechanics_, Dordrecht: Kluwer Academic: 337–377.
-* Aspect, A., 1983, _Trois tests expérimentaux des inégalité de Bell par mesure de corrélation de polarization de photons_, Orsay: Thèse d’Etat.
-* –––, 1992, “Bell’s theorem: the naïve view of an experimentalist,” in _Quantum \[Un]speakables_, R.A. Bertlmann and A. Zeilinger (eds.), Berlin-Heidelberg-New York: Springer, 119–153.
-* –––, 1999, “Bell’s inequality test: more ideal than ever,” _Nature_, 398: 189–190.
-* Aspect, A., Dalibard, J., and Roger, G., 1982, “Experimental test of Bell’s inequalities using time-varying analyzers,” _Physical Review Letters_, 49: 1804–1807.
-* Aspect, A., Grangier, P., and Roger, G., 1982, “Experimental realization of Einstein-Podolsky-Rosen-Bohm _Gedankenexperiment_: a new violation of Bell’s inequalities,” _Physical Review Letters_, 49: 91–94.
-* Bacciagaluppi, G., 2002, “Remarks on space-time and locality in Everett’s interpretation,” in Placzek, T.. and Butterfield, J. (eds.), _Non-locality and Modality_, Berlin: Springer, 105–124.
-* Ballentine, L. E, and Jarrett, J., 1987, “Bell’s theorem: Does quantum mechanics contradict relativity?” _American Journal of Physics_, 55: 696–701.
-* Baas, A., and B. Le Bihan, 2023, “What Does the World Look Like according to Superdeterminism?” _The British Journal for the Philosophy of Science_, 74: 555–572.
-* Bedingham, D., 2011, “Relativistic state reduction dynamics,” _Foundations of Physics_, 41: 686–704.
-* Bedingham, D., Dürr, D., Ghirardi, G.C., Goldstein, S., Tumulka, R., and Zanghì, N., 2014, “Matter density and relativistic models of wave function collapse,” _Journal of Statistical Physics_, 154: 623–631.
-* Bell, J.S., 1964, “On the Einstein-Podolsky-Rosen paradox,” _Physics_, 1: 195–200; reprinted in Bell 1987b \[2004], 14–21.
-* –––, 1966, “On the problem of hidden variables in quantum mechanics,” _Reviews of Modern Physics_, 38: 447–452; reprinted in Bell 1987b \[2004], 1–13.
-* –––, 1971, “Introduction to the hidden-variable question,” in _Foundations of quantum mechanics_ (Proceedings of the International School of Physics ‘Enrico Fermi’, course IL), B. d’Espagnat (ed.), New York: Academic, 171–181; reprinted in Bell 1987b \[2004], 29–39.
-* –––, 1976, “The theory of local beables,” _Epistemological Letters_, 9: 11–24; reprinted in Bell 1985a, and in Bell 1987b \[2004], 52–62.
-* –––, 1977, “Free variables and local causality,” _Epistemological Letters_, 15: 79–84; reprinted in Bell 1985b, and in Bell 1987b \[2004], 100–104.
-* –––, 1981, “Bertlmann’s socks and the nature of reality,” _Journal de Physique Colloque C2, supplément au no 3, Tome 42_: C2-41–46. Reprinted in Bell 1987b \[2004], 139–158.
+* Abellán, C., *et al*., 2018, “Challenging local realism with human choices,” *Nature*, 577: 212–216.
+* Aharonov, Y., Albert, D. Z., Vaidman, L., 1988, “How the result of a measurement of a component of the spin of a spin-1/2 particle can turn out to be 100,” *Physical Review*, 60: 1351–1354.
+* Andreoletti, G., and L. Vervoort, 2022, “Superdeterminism: a reappraisal,” *Synthese*, 200: art. no. 361.
+* Ansmann, M., *et al*., 2009, “Violation of Bell’s inequality in Josephson phase qubits,” *Nature*, 461: 504–506.
+* Arntzenius, F., 1998, “Curiouser and curiouser: A personal evaluation of modal interpretations,” in Dieks, D. and Vermass, P. (eds). *The Modal Interpretation of Quantum Mechanics*, Dordrecht: Kluwer Academic: 337–377.
+* Aspect, A., 1983, *Trois tests expérimentaux des inégalité de Bell par mesure de corrélation de polarization de photons*, Orsay: Thèse d’Etat.
+* –––, 1992, “Bell’s theorem: the naïve view of an experimentalist,” in *Quantum \[Un]speakables*, R.A. Bertlmann and A. Zeilinger (eds.), Berlin-Heidelberg-New York: Springer, 119–153.
+* –––, 1999, “Bell’s inequality test: more ideal than ever,” *Nature*, 398: 189–190.
+* Aspect, A., Dalibard, J., and Roger, G., 1982, “Experimental test of Bell’s inequalities using time-varying analyzers,” *Physical Review Letters*, 49: 1804–1807.
+* Aspect, A., Grangier, P., and Roger, G., 1982, “Experimental realization of Einstein-Podolsky-Rosen-Bohm *Gedankenexperiment*: a new violation of Bell’s inequalities,” *Physical Review Letters*, 49: 91–94.
+* Bacciagaluppi, G., 2002, “Remarks on space-time and locality in Everett’s interpretation,” in Placzek, T.. and Butterfield, J. (eds.), *Non-locality and Modality*, Berlin: Springer, 105–124.
+* Ballentine, L. E, and Jarrett, J., 1987, “Bell’s theorem: Does quantum mechanics contradict relativity?” *American Journal of Physics*, 55: 696–701.
+* Baas, A., and B. Le Bihan, 2023, “What Does the World Look Like according to Superdeterminism?” *The British Journal for the Philosophy of Science*, 74: 555–572.
+* Bedingham, D., 2011, “Relativistic state reduction dynamics,” *Foundations of Physics*, 41: 686–704.
+* Bedingham, D., Dürr, D., Ghirardi, G.C., Goldstein, S., Tumulka, R., and Zanghì, N., 2014, “Matter density and relativistic models of wave function collapse,” *Journal of Statistical Physics*, 154: 623–631.
+* Bell, J.S., 1964, “On the Einstein-Podolsky-Rosen paradox,” *Physics*, 1: 195–200; reprinted in Bell 1987b \[2004], 14–21.
+* –––, 1966, “On the problem of hidden variables in quantum mechanics,” *Reviews of Modern Physics*, 38: 447–452; reprinted in Bell 1987b \[2004], 1–13.
+* –––, 1971, “Introduction to the hidden-variable question,” in *Foundations of quantum mechanics* (Proceedings of the International School of Physics ‘Enrico Fermi’, course IL), B. d’Espagnat (ed.), New York: Academic, 171–181; reprinted in Bell 1987b \[2004], 29–39.
+* –––, 1976, “The theory of local beables,” *Epistemological Letters*, 9: 11–24; reprinted in Bell 1985a, and in Bell 1987b \[2004], 52–62.
+* –––, 1977, “Free variables and local causality,” *Epistemological Letters*, 15: 79–84; reprinted in Bell 1985b, and in Bell 1987b \[2004], 100–104.
+* –––, 1981, “Bertlmann’s socks and the nature of reality,” *Journal de Physique Colloque C2, supplément au no 3, Tome 42*: C2-41–46. Reprinted in Bell 1987b \[2004], 139–158.
 * –––, 1984, “Beables for quantum field theory,” CERN-4035/84.
-* –––, 1985a, “The theory of local beables,” _Dialectica_, 39: 86–96; reprinted in Bell 1987b \[2004], 52–62.
-* –––, 1985b, “Free variables and local causality,” _Dialectica_, 39: 103–106; reprinted in Bell 1987b \[2004], 100–104.
-* –––, 1987a, “Are there quantum jumps?” in _Schrödinger: Centenary celebration of a polymath_, C. Kilmister (ed.), 41–52. Cambridge: Cambridge University Press; reprinted in Bell 1987b \[2004], 201–212.
-* –––, 1987b, _Speakable and unspeakable in quantum mechanics_. Cambridge: Cambridge University Press.
-* –––, 1990, “La nouvelle cuisine,” in _Between Science and Technology_, A. Sarlemijn and P. Kroes (eds.), 97–115. Amsterdam: Elsevier; reprinted in Bell 2004, 232–248.
-* –––, 2004, _Speakable and Unspeakable in Quantum Mechanics_, 2nd edition, Cambridge: Cambridge University Press.
-* –––, 2007, “The Trieste lecture of John Stewart Bell,” _Journal of Physics A: Mathematical and Theoretical_, 40: 2919–2933.
-* Bell, M. and S. Gao (eds.), 2016, _Quantum Nonlocality and Reality: 50 years of Bell’s theorem_, Cambridge: Cambridge University Press.
-* Benatti, F., et al. (eds.), 2010, _Quantum Information, Computation and Cryptography_, Singapore: Springer Verlag.
-* Berndl, K., Dürr, D., Goldstein, S., and Zanghì, N., 1996, “Nonlocality, Lorentz invariance, and Bohmian quantum theory,” _Physical Review A_, 53: 2062–2073.
-* Bertlmann, R., and Zeilinger, A. (eds.), 2017, _Quantum \[Un]Speakables II: Half a Century of Bell’s Theorem_, Berlin: Springer-Verlag.
-* Bierhorst, P., _et al_., 2018, “Experimentally generated randomness certified by the impossibility of superluminal signals,” _Nature_, 556: 223–226
-* Bohm, D., 1951, _Quantum Theory_, Englewood Cliffs, NJ: Prentice-Hall.
-* –––, 1952, “A suggested interpretation of the quantum theory in terms of ‘hidden’ variables,” I. _Physical Review_, 85: 166–179; II. _Physical Review_, 85: 180–193.
-* Bohm, D., and Aharonov, Y., 1957, “Discussion of experimental proof for the paradox of Einstein, Podolsky, and Rosen,” _Physical Review_, 108: 1070–1076.
-* Branciard, C., Brunner, N., Gisin, N., Kurtsiefer, C., Lamas-Linares, A., Ling, A., and Scarani, V., 2008, “Testing quantum correlations versus single-particle properties within Leggett’s model and beyond,” _Nature Physics_, 4: 681–685.
+* –––, 1985a, “The theory of local beables,” *Dialectica*, 39: 86–96; reprinted in Bell 1987b \[2004], 52–62.
+* –––, 1985b, “Free variables and local causality,” *Dialectica*, 39: 103–106; reprinted in Bell 1987b \[2004], 100–104.
+* –––, 1987a, “Are there quantum jumps?” in *Schrödinger: Centenary celebration of a polymath*, C. Kilmister (ed.), 41–52. Cambridge: Cambridge University Press; reprinted in Bell 1987b \[2004], 201–212.
+* –––, 1987b, *Speakable and unspeakable in quantum mechanics*. Cambridge: Cambridge University Press.
+* –––, 1990, “La nouvelle cuisine,” in *Between Science and Technology*, A. Sarlemijn and P. Kroes (eds.), 97–115. Amsterdam: Elsevier; reprinted in Bell 2004, 232–248.
+* –––, 2004, *Speakable and Unspeakable in Quantum Mechanics*, 2nd edition, Cambridge: Cambridge University Press.
+* –––, 2007, “The Trieste lecture of John Stewart Bell,” *Journal of Physics A: Mathematical and Theoretical*, 40: 2919–2933.
+* Bell, M. and S. Gao (eds.), 2016, *Quantum Nonlocality and Reality: 50 years of Bell’s theorem*, Cambridge: Cambridge University Press.
+* Benatti, F., et al. (eds.), 2010, *Quantum Information, Computation and Cryptography*, Singapore: Springer Verlag.
+* Berndl, K., Dürr, D., Goldstein, S., and Zanghì, N., 1996, “Nonlocality, Lorentz invariance, and Bohmian quantum theory,” *Physical Review A*, 53: 2062–2073.
+* Bertlmann, R., and Zeilinger, A. (eds.), 2017, *Quantum \[Un]Speakables II: Half a Century of Bell’s Theorem*, Berlin: Springer-Verlag.
+* Bierhorst, P., *et al*., 2018, “Experimentally generated randomness certified by the impossibility of superluminal signals,” *Nature*, 556: 223–226
+* Bohm, D., 1951, *Quantum Theory*, Englewood Cliffs, NJ: Prentice-Hall.
+* –––, 1952, “A suggested interpretation of the quantum theory in terms of ‘hidden’ variables,” I. *Physical Review*, 85: 166–179; II. *Physical Review*, 85: 180–193.
+* Bohm, D., and Aharonov, Y., 1957, “Discussion of experimental proof for the paradox of Einstein, Podolsky, and Rosen,” *Physical Review*, 108: 1070–1076.
+* Branciard, C., Brunner, N., Gisin, N., Kurtsiefer, C., Lamas-Linares, A., Ling, A., and Scarani, V., 2008, “Testing quantum correlations versus single-particle properties within Leggett’s model and beyond,” *Nature Physics*, 4: 681–685.
 * Brown, H. R., and Christopher G. Timpson, C.G., 2016, “Bell on Bell’s theorem: the changing face of nonlocality,” in Bell and Gao (eds.) 2016: 91–123.
-* Butterfield, J., 1992, “Bell’s theorem: what it takes,” _The British Journal for the Philosophy of Science_, 43: 41–83.
-* Calderón-Losada, O., _et al_., 2020, “A weak values approach for testing simultaneous Einstein-Podolsky-Rosen elements of reality for non-commuting observables”, _Communications Physics_, 3: 117.
-* Cavalcanti, E., and Lal, R., 2014, “On modifications of Reichenbach’s principle of common cause in light of Bell’s theorem,” _Journal of Physics A: Mathematical and Theoretical_, 47: 424018.
-* Chen, E.K., 2022, “Bell’s Theorem, Quantum Probabilities, and Superdeterminism,” in _The Routledge Companion to the Philosophy of Physics_, E. Knox and A. Wilson (eds.), London: Routledge, 184–199.
-* Christensen, B.G., _et al_., 2013, “Detection-loophole-free test of quantum nonlocality, and applications,” _Physical Review Letters_, 111: 130406
-* Ciepoelewski, G.S., E. Okon, and D. Sudarsky, 2023, “On Superdeterministic Rejections of Settings Independence,” _The British Journal for the Philosophy of Science_, 74: 435–467.
-* Cirel’son, B.S., 1980, “Quantum generalizations of Bell’s inequality,” _Letters in Mathematical Physics_, 4: 93–100.
-* Clauser, J.F., 1976, “Experimental investigation of a polarization correlation anomaly,” _Physical Review Letters_, 36: 1223–1226.
+* Butterfield, J., 1992, “Bell’s theorem: what it takes,” *The British Journal for the Philosophy of Science*, 43: 41–83.
+* Calderón-Losada, O., *et al*., 2020, “A weak values approach for testing simultaneous Einstein-Podolsky-Rosen elements of reality for non-commuting observables”, *Communications Physics*, 3: 117.
+* Cavalcanti, E., and Lal, R., 2014, “On modifications of Reichenbach’s principle of common cause in light of Bell’s theorem,” *Journal of Physics A: Mathematical and Theoretical*, 47: 424018.
+* Chen, E.K., 2022, “Bell’s Theorem, Quantum Probabilities, and Superdeterminism,” in *The Routledge Companion to the Philosophy of Physics*, E. Knox and A. Wilson (eds.), London: Routledge, 184–199.
+* Christensen, B.G., *et al*., 2013, “Detection-loophole-free test of quantum nonlocality, and applications,” *Physical Review Letters*, 111: 130406
+* Ciepoelewski, G.S., E. Okon, and D. Sudarsky, 2023, “On Superdeterministic Rejections of Settings Independence,” *The British Journal for the Philosophy of Science*, 74: 435–467.
+* Cirel’son, B.S., 1980, “Quantum generalizations of Bell’s inequality,” *Letters in Mathematical Physics*, 4: 93–100.
+* Clauser, J.F., 1976, “Experimental investigation of a polarization correlation anomaly,” *Physical Review Letters*, 36: 1223–1226.
 * –––, 2017, “Bell’s theorem, Bell inequalities, and the ‘probability normalization loophole’,” in Bertlmann and Zeilinger (eds.), 451–484.
-* Clauser, J.F. and Horne, M.A., 1974, “Experimental consequences of objective local theories,” _Physical Review D_, 10: 526–535.
-* Clauser, J.F., Horne, M.A., Shimony, A., and Holt, R.A., 1969, “Proposed experiment to test local hidden-variable theories,” _Physical Review Letters_, 23: 880–884.
-* Clauser, J.F. and Shimony, A., 1978, “Bell’s theorem: experimental tests and implications,” _Reports on Progress in Physics_, 41: 1881–1927.
-* Colbeck, R., and Renner, R., 2011, “No extension of quantum theory can have improved predictive power,” _Nature Communications_, 2: 411.
-* –––, 2016, “The completeness of quantum theory for predicting measurement outcomes,” in Chiribella G. and Spekkens, R. (eds.) _Quantum Theory: Informational Foundations and Foils_, Dordrecht: Springer, 497–528.
-* Costa de Beauregard, O., 1976, “Time symmetry and interpretation of quantum mechanics,” _Foundation of Physics_, 6: 539–559.
-* –––, 1977, “Les duel1istes Bell et Clauser-Horne-Shimony (‘C.H.S.’) s’aveuglent en refusant la ‘causalité retrograde’ inscrite en clair dans le formalisme,” _Epistemological Letters_, 16: 1–8.
-* Cramer, J., 1986, “The transactional interpretation of quantum mechanics,” _Reviews of Modern Physics_, 58: 647–687.
-* –––, 1988, “An overview of the transactional interpretation of quantum mechanics,” _International Journal of Theoretical Physics_, 27: 227–236.
-* –––, 2016, _The Quantum Handshake: Entanglement, Nonlocality and Transactions_, Berlin, Springer.
-* Cushing, J.T., and McMullin, E. (eds.), 1989, _Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem_, Notre Dame, IN: University of Notre Dame Press.
-* Davies, P.C.W., and Brown, J.R. (eds.), 1986, _The Ghost in the Atom_, Cambridge: Cambridge University Press.
-* de Broglie, L., 1927, “La mécanique ondulatoire et la structure atomique de la matière et du rayonnement,” _Journal de Physique et du Radium_, 8: 225–241.
-* –––, 1928, “La nouvelle dynamique des quanta,” in H. Lorentz (ed.), _Rapports et Discussions du Cinquième Conseil de Physique Solvay_, Paris: Gauthier-Villars, 105-141.
-* d’Espagnat, B., 1979, “The quantum theory and reality,” _Scientific American_, 241: 158–181.
-* –––, 1984, “Nonseparability and the tentative descriptions of reality,” _Physics Reports_, 110: 201–264.
-* Dickson, M., and Clifton, R., 1998, “Lorentz-invariance in modal interpretations,” in Dieks, D. and Vermass, P. (eds). _The Modal Interpretation of Quantum Mechanics_, Dordrecht: Kluwer Academic. 9–47.
-* Diósi , L., 1987, “A universal master equation for the gravitational violation of quantum mechanics,” _Physics Letters A_, 120: 377–381.
-* Dove, C., 1996, _Explicit Wavefunction Collapse and Quantum Measurement_, Ph.D. thesis, Department of Mathematical Sciences, University of Durham.
-* Dürr, D., Goldstein, S., Münch-Berndl, K., and Zanghì, N., 1999, “Hypersurface Bohm-Dirac models,” _Physical Review A_, 60: 2729–2736.
-* Dürr, D., Goldstein, S., Norsen, T., Struyve, W., and Zanghì, N., 2014, “Can Bohmian mechanics be made relativistic?” _Proceedings of the Royal Society A_, 470: 20130699
-* Eberhard, P., 1978, “Bell’s theorem and the different concepts of locality,” _Nuovo Cimento_, 46B: 392–419.
-* –––, 1993, “Background level and counter efficiencies required for a loophole-free Einstein-Podolsky-Rosen experiment,” _Physical Review A_, 47: R747–R750.
-* Einstein, A., Podolsky, B., and Rosen, N., 1935, “Can quantum-mechanical description of physical reality be considered complete?” _Physical Review_, 47: 770–780.
-* Elby, A., 1992, “Should we explain the EPR correlations causally?” _Philosophy of Science_, 59: 16–25.
-* Fine, A., 1982a, “Some local models for correlation experiments,” _Synthese_, 50: 279–294.
-* –––, 1982b, “Hidden variables, joint probability, and the Bell inequalities,” _Physical Review Letters_, 48: 291–295.
-* –––, 1982c, “Joint distributions, quantum correlations, and commuting observables,” _Journal of Mathematical Physics_, 23: 1306–1310.
+* Clauser, J.F. and Horne, M.A., 1974, “Experimental consequences of objective local theories,” *Physical Review D*, 10: 526–535.
+* Clauser, J.F., Horne, M.A., Shimony, A., and Holt, R.A., 1969, “Proposed experiment to test local hidden-variable theories,” *Physical Review Letters*, 23: 880–884.
+* Clauser, J.F. and Shimony, A., 1978, “Bell’s theorem: experimental tests and implications,” *Reports on Progress in Physics*, 41: 1881–1927.
+* Colbeck, R., and Renner, R., 2011, “No extension of quantum theory can have improved predictive power,” *Nature Communications*, 2: 411.
+* –––, 2016, “The completeness of quantum theory for predicting measurement outcomes,” in Chiribella G. and Spekkens, R. (eds.) *Quantum Theory: Informational Foundations and Foils*, Dordrecht: Springer, 497–528.
+* Costa de Beauregard, O., 1976, “Time symmetry and interpretation of quantum mechanics,” *Foundation of Physics*, 6: 539–559.
+* –––, 1977, “Les duel1istes Bell et Clauser-Horne-Shimony (‘C.H.S.’) s’aveuglent en refusant la ‘causalité retrograde’ inscrite en clair dans le formalisme,” *Epistemological Letters*, 16: 1–8.
+* Cramer, J., 1986, “The transactional interpretation of quantum mechanics,” *Reviews of Modern Physics*, 58: 647–687.
+* –––, 1988, “An overview of the transactional interpretation of quantum mechanics,” *International Journal of Theoretical Physics*, 27: 227–236.
+* –––, 2016, *The Quantum Handshake: Entanglement, Nonlocality and Transactions*, Berlin, Springer.
+* Cushing, J.T., and McMullin, E. (eds.), 1989, *Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem*, Notre Dame, IN: University of Notre Dame Press.
+* Davies, P.C.W., and Brown, J.R. (eds.), 1986, *The Ghost in the Atom*, Cambridge: Cambridge University Press.
+* de Broglie, L., 1927, “La mécanique ondulatoire et la structure atomique de la matière et du rayonnement,” *Journal de Physique et du Radium*, 8: 225–241.
+* –––, 1928, “La nouvelle dynamique des quanta,” in H. Lorentz (ed.), *Rapports et Discussions du Cinquième Conseil de Physique Solvay*, Paris: Gauthier-Villars, 105-141.
+* d’Espagnat, B., 1979, “The quantum theory and reality,” *Scientific American*, 241: 158–181.
+* –––, 1984, “Nonseparability and the tentative descriptions of reality,” *Physics Reports*, 110: 201–264.
+* Dickson, M., and Clifton, R., 1998, “Lorentz-invariance in modal interpretations,” in Dieks, D. and Vermass, P. (eds). *The Modal Interpretation of Quantum Mechanics*, Dordrecht: Kluwer Academic. 9–47.
+* Diósi , L., 1987, “A universal master equation for the gravitational violation of quantum mechanics,” *Physics Letters A*, 120: 377–381.
+* Dove, C., 1996, *Explicit Wavefunction Collapse and Quantum Measurement*, Ph.D. thesis, Department of Mathematical Sciences, University of Durham.
+* Dürr, D., Goldstein, S., Münch-Berndl, K., and Zanghì, N., 1999, “Hypersurface Bohm-Dirac models,” *Physical Review A*, 60: 2729–2736.
+* Dürr, D., Goldstein, S., Norsen, T., Struyve, W., and Zanghì, N., 2014, “Can Bohmian mechanics be made relativistic?” *Proceedings of the Royal Society A*, 470: 20130699
+* Eberhard, P., 1978, “Bell’s theorem and the different concepts of locality,” *Nuovo Cimento*, 46B: 392–419.
+* –––, 1993, “Background level and counter efficiencies required for a loophole-free Einstein-Podolsky-Rosen experiment,” *Physical Review A*, 47: R747–R750.
+* Einstein, A., Podolsky, B., and Rosen, N., 1935, “Can quantum-mechanical description of physical reality be considered complete?” *Physical Review*, 47: 770–780.
+* Elby, A., 1992, “Should we explain the EPR correlations causally?” *Philosophy of Science*, 59: 16–25.
+* Fine, A., 1982a, “Some local models for correlation experiments,” *Synthese*, 50: 279–294.
+* –––, 1982b, “Hidden variables, joint probability, and the Bell inequalities,” *Physical Review Letters*, 48: 291–295.
+* –––, 1982c, “Joint distributions, quantum correlations, and commuting observables,” *Journal of Mathematical Physics*, 23: 1306–1310.
 * –––, 1989, “Do correlations need to be explained?” in Cushing and McMullin (eds.), 175–194.
-* Foletto, G., _et al_., 2020, “Experimental Certification of Sustained Entanglement and Nonlocality after Sequential Measurements”, _Physical Review Applied_, 13: 044008.
-* Freedman, Stuart J., 1972, _Experimental Test of Local Hidden-variable Theories_, Doctoral dissertation, University of California at Berkeley. ProQuest Dissertations Publishing.
-* Freedman, S.J. and Clauser, J.F., 1972, “Experimental test of local hidden-variable theories,” _Physical Review Letters_, 28: 938–941.
-* Fry, E.S. and Thompson, R.C., 1976, “Experimental test of local hidden-variable theories,” _Physical Review Letters_, 37: 465–468.
-* Genovese, M., 2005, “Research on hidden variables theory: a review of recent progresses,” _Physics Reports_, 413: 319–396.
+* Foletto, G., *et al*., 2020, “Experimental Certification of Sustained Entanglement and Nonlocality after Sequential Measurements”, *Physical Review Applied*, 13: 044008.
+* Freedman, Stuart J., 1972, *Experimental Test of Local Hidden-variable Theories*, Doctoral dissertation, University of California at Berkeley. ProQuest Dissertations Publishing.
+* Freedman, S.J. and Clauser, J.F., 1972, “Experimental test of local hidden-variable theories,” *Physical Review Letters*, 28: 938–941.
+* Fry, E.S. and Thompson, R.C., 1976, “Experimental test of local hidden-variable theories,” *Physical Review Letters*, 37: 465–468.
+* Genovese, M., 2005, “Research on hidden variables theory: a review of recent progresses,” *Physics Reports*, 413: 319–396.
 * –––, 2016, “Experimental tests of Bell’s inequalities,” in Bell and Gao (eds.), 124–140.
-* Genovese, M., Gramegna, M., 2019, “Quantum Correlations and Quantum Non-Locality: A Review and a Few New Ideas,” _Applied Science_, 9: 5406.
-* Genovese, M., Novero, C., Predazzi, E., 2001, “Can experimental tests of Bell inequalities performed with pseudoscalar mesons be definitive?” _Physics Letters B_, 513: 401–405.
-* Ghirardi, G.C., Rimini, A., and Weber, T., 1980, “A general argument against superluminal transmission through the quantum mechanical measurement process,” _Lettere al Nuovo Cimento_, 27: 293–298.
-* –––, 1986, “Unified dynamics for microscopic and macroscopic systems,” _Physical Review D_ 34: 470–491.
-* Gisin, N., 1991, “Bell’s inequality holds for all non-product states,” _Physics Letters A_, 154(5,6): 201–202. \[Note: this paper was published with an erroneous title and ought to have been published under the title “Bell’s inequality is violated by all non-product states.”]
-* Giustina, M., _et al_., 2013, “Bell violation using entangled photons without the fair-sampling assumption,” _Nature_, 497: 227–230
-* Giustina, M., _et al_., 2015, “Significant loophole-free test of Bell’s theorem with entangled photons,” _Physical Review Letters_, 115: 250401.
-* Gleason, A.M., 1957, “Measures on the closed subspaces of a Hilbert space,” _Journal of Mathematics and Mechanics_, 6: 885–893.
-* Go, A., 2004, “Observation of Bell inequality violation in B mesons,” _Journal of Modern Optics_, 51: 991–998.
-* Greenberger, D.M., Horne, M.A., and Zeilinger, A., 1989, “Going beyond Bell’s theorem,” in _Bell’s Theorem, Quantum Theory and Conceptions of the Universe_, Kafatos, M. (ed.), Dordrecht-Boston-London: Kluwer, 69–72.
-* Greenberger, D.M., Horne, M.A., Shimony, A., Zeilinger, A., 1990, “Bell’s theorem without inequalities,” _American Journal of Physics_, 58: 1131–1143.
-* Hance, J. R., S. Hossenfelder, and T. N. Palmer, 2022, “Supermeasured: Violating Bell-Statistical Independence Without Violating Physical Statistical Independence”, _Foundations of Physics_, 52: 81.
-* Handsteiner, J. _et al_., 2017, “Cosmic Bell Test: measurement settings from Milky Way stars,” _Physical Review Letters_, 118: 060401.
-* Hardy, L., 1993, “Nonlocality for two particles without inequalities for almost all entangled states,” _Foundations of Physics_, 13: 1665–1668.
-* Hensen, B., _et al_., 2015, “Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres,” _Nature_, 526: 682–686.
-* Heywood, P. and Redhead, M.L.G., 1983, “Nonlocality and the Kochen-Specker paradox,” _Foundations of Physics_, 13: 481–499.
-* Hofer-Szabó, G., Rédei, M., and Szabó, L.E., 1999, “On Reichenbach’s common cause principle, and Reichenbach’s notion of common cause,” _The British Journal for the Philosophy of Science_, 50: 377–399.
-* –––, 2002, “Common-causes are not common common-causes,” _Philosophy of Science_, 69: 623–636.
-* Holt, R.A., 1973, _Atomic Cascade Experiments_, Ph.D. Dissertation, Harvard University, ProQuest Dissertations Publishing.
-* Hossenfelder, S., and T. Palmer, 2020, “Rethinking Superdeterminism”, _Frontiers in Physics_, 8. doi:10.3389/fphy.2020.00139
-* Jammer, M., 1974, _The Philosophy of Quantum Mechanics: The Interpretations of Quantum Mechanics in Historical Perspective_, New York: John Wiley & Sons.
-* Jarrett, J.P., 1983, _Bell’s Theorem, Quantum Mechanics, and Local Realism_, Ph.D. Dissertation, University of Chicago, ProQuest Dissertations Publishing.
-* –––, 1984, “On the physical significance of the locality conditions in the Bell arguments,” _Noûs_, 18: 569–589.
+* Genovese, M., Gramegna, M., 2019, “Quantum Correlations and Quantum Non-Locality: A Review and a Few New Ideas,” *Applied Science*, 9: 5406.
+* Genovese, M., Novero, C., Predazzi, E., 2001, “Can experimental tests of Bell inequalities performed with pseudoscalar mesons be definitive?” *Physics Letters B*, 513: 401–405.
+* Ghirardi, G.C., Rimini, A., and Weber, T., 1980, “A general argument against superluminal transmission through the quantum mechanical measurement process,” *Lettere al Nuovo Cimento*, 27: 293–298.
+* –––, 1986, “Unified dynamics for microscopic and macroscopic systems,” *Physical Review D* 34: 470–491.
+* Gisin, N., 1991, “Bell’s inequality holds for all non-product states,” *Physics Letters A*, 154(5,6): 201–202. \[Note: this paper was published with an erroneous title and ought to have been published under the title “Bell’s inequality is violated by all non-product states.”]
+* Giustina, M., *et al*., 2013, “Bell violation using entangled photons without the fair-sampling assumption,” *Nature*, 497: 227–230
+* Giustina, M., *et al*., 2015, “Significant loophole-free test of Bell’s theorem with entangled photons,” *Physical Review Letters*, 115: 250401.
+* Gleason, A.M., 1957, “Measures on the closed subspaces of a Hilbert space,” *Journal of Mathematics and Mechanics*, 6: 885–893.
+* Go, A., 2004, “Observation of Bell inequality violation in B mesons,” *Journal of Modern Optics*, 51: 991–998.
+* Greenberger, D.M., Horne, M.A., and Zeilinger, A., 1989, “Going beyond Bell’s theorem,” in *Bell’s Theorem, Quantum Theory and Conceptions of the Universe*, Kafatos, M. (ed.), Dordrecht-Boston-London: Kluwer, 69–72.
+* Greenberger, D.M., Horne, M.A., Shimony, A., Zeilinger, A., 1990, “Bell’s theorem without inequalities,” *American Journal of Physics*, 58: 1131–1143.
+* Hance, J. R., S. Hossenfelder, and T. N. Palmer, 2022, “Supermeasured: Violating Bell-Statistical Independence Without Violating Physical Statistical Independence”, *Foundations of Physics*, 52: 81.
+* Handsteiner, J. *et al*., 2017, “Cosmic Bell Test: measurement settings from Milky Way stars,” *Physical Review Letters*, 118: 060401.
+* Hardy, L., 1993, “Nonlocality for two particles without inequalities for almost all entangled states,” *Foundations of Physics*, 13: 1665–1668.
+* Hensen, B., *et al*., 2015, “Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres,” *Nature*, 526: 682–686.
+* Heywood, P. and Redhead, M.L.G., 1983, “Nonlocality and the Kochen-Specker paradox,” *Foundations of Physics*, 13: 481–499.
+* Hofer-Szabó, G., Rédei, M., and Szabó, L.E., 1999, “On Reichenbach’s common cause principle, and Reichenbach’s notion of common cause,” *The British Journal for the Philosophy of Science*, 50: 377–399.
+* –––, 2002, “Common-causes are not common common-causes,” *Philosophy of Science*, 69: 623–636.
+* Holt, R.A., 1973, *Atomic Cascade Experiments*, Ph.D. Dissertation, Harvard University, ProQuest Dissertations Publishing.
+* Hossenfelder, S., and T. Palmer, 2020, “Rethinking Superdeterminism”, *Frontiers in Physics*, 8. doi:10.3389/fphy.2020.00139
+* Jammer, M., 1974, *The Philosophy of Quantum Mechanics: The Interpretations of Quantum Mechanics in Historical Perspective*, New York: John Wiley & Sons.
+* Jarrett, J.P., 1983, *Bell’s Theorem, Quantum Mechanics, and Local Realism*, Ph.D. Dissertation, University of Chicago, ProQuest Dissertations Publishing.
+* –––, 1984, “On the physical significance of the locality conditions in the Bell arguments,” *Noûs*, 18: 569–589.
 * –––, 1989, “Bell’s theorem: a guide to the implications,” in Cushing and McMullin (eds.), 60–79.
-* Kastner, R., 2013, _The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility_, Cambridge: Cambridge University Press.
-* Kent, A., 2005, “Causal quantum theory and the collapse locality loophole,” _Physical Review A_, 72: 012107.
-* –––, 2018, “Testing causal quantum theory,”_Proceedings of the Royal Society A_, 474: 20180501.
-* Kochen, S. and Specker, E.P., 1967, “The problem of hidden variables in quantum mechanics,” _Journal of Mathematics and Mechanics_, 17: 59–87.
-* Kocher, C.A. and Commins, E., 1967, “Polarization correlation of photons emitted in an atomic cascade,” _Physical Review Letters_, 18: 575–577.
-* Laloë, F., 2001, “Do we really understand quantum mechanics? Strange correlations, paradoxes, and theorems,” _American Journal of Physics_, 69: 655–701.
-* Lamehi-Rachti, M. and Mittig, W., 1976, “Quantum mechanics and hidden variables: a test of Bell’s inequality by the measurement of spin correlation in low-energy proton-proton scattering,” _Physical Review D_, 14: 2543–2555.
-* Leegwater, G., 2016, “An impossibility theorem for parameter independent hidden variable theories,” _Studies in History and Philosophy of Modern Physics_, 54: 18–34.
-* Leifer, M.S., 2006, “Quantum dynamics as an analog of conditional probability,” _Physical Review A_, 74: 042310.
-* Leifer, M.S., and Spekkens, R., 2011, “Towards a formulation of quantum theory as a causally neutral theory of Bayesian inference,” _Physical Review A_, 88: 052130.
-* Maldacena, J. & Susskind, L., 2013, “Cool horizons for entangled black holes,” _Fortschritte der Physik_, 61: 781–811. doi:10.1002/prop.201300020
-* Matsukevich, D.N., Maunz, P., Moehring, D.L., Olmschenk, S., and Monroe, C., 2008, “Bell inequality violation with two remote atomic qubits,” _Physical Review Letters_, 100: 150404.
-* Maudlin, T., 1994, _Quantum Non-Locality and Relativity_, Oxford: Blackwell. 2nd ed., 2002; 3rd ed., 2011.
-* –––, 2014, “What Bell did,” _Journal of Physics A: Mathematical and Theoretical_, 47: 424010.
-* Mermin, N.D., 1980, “Quantum mechanics vs local realism near the classical limit: A Bell inequality for spin s,” _Physical Review D_, 22: 356–361.
-* –––, 1981, “Quantum mysteries for anyone,” _Philosophical Review_, 78: 397–408.
-* –––, 1986, “Generalizations of Bell’s theorem to higher spins and higher correlations,” in _Fundamental Questions in Quantum Mechanics_, L.M. Roth and A. Inomato (eds.), New York: Gordon and Breach, 7–20.
-* –––, 1990, “Quantum mysteries revisited,” _American Journal of Physics_, 58: 731–733.
-* Myrvold, W.C., 2002, “Modal interpretations and relativity,” _Foundations of Physics_, 32: 1774–1784.
+* Kastner, R., 2013, *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*, Cambridge: Cambridge University Press.
+* Kent, A., 2005, “Causal quantum theory and the collapse locality loophole,” *Physical Review A*, 72: 012107.
+* –––, 2018, “Testing causal quantum theory,”*Proceedings of the Royal Society A*, 474: 20180501.
+* Kochen, S. and Specker, E.P., 1967, “The problem of hidden variables in quantum mechanics,” *Journal of Mathematics and Mechanics*, 17: 59–87.
+* Kocher, C.A. and Commins, E., 1967, “Polarization correlation of photons emitted in an atomic cascade,” *Physical Review Letters*, 18: 575–577.
+* Laloë, F., 2001, “Do we really understand quantum mechanics? Strange correlations, paradoxes, and theorems,” *American Journal of Physics*, 69: 655–701.
+* Lamehi-Rachti, M. and Mittig, W., 1976, “Quantum mechanics and hidden variables: a test of Bell’s inequality by the measurement of spin correlation in low-energy proton-proton scattering,” *Physical Review D*, 14: 2543–2555.
+* Leegwater, G., 2016, “An impossibility theorem for parameter independent hidden variable theories,” *Studies in History and Philosophy of Modern Physics*, 54: 18–34.
+* Leifer, M.S., 2006, “Quantum dynamics as an analog of conditional probability,” *Physical Review A*, 74: 042310.
+* Leifer, M.S., and Spekkens, R., 2011, “Towards a formulation of quantum theory as a causally neutral theory of Bayesian inference,” *Physical Review A*, 88: 052130.
+* Maldacena, J. & Susskind, L., 2013, “Cool horizons for entangled black holes,” *Fortschritte der Physik*, 61: 781–811. doi:10.1002/prop.201300020
+* Matsukevich, D.N., Maunz, P., Moehring, D.L., Olmschenk, S., and Monroe, C., 2008, “Bell inequality violation with two remote atomic qubits,” *Physical Review Letters*, 100: 150404.
+* Maudlin, T., 1994, *Quantum Non-Locality and Relativity*, Oxford: Blackwell. 2nd ed., 2002; 3rd ed., 2011.
+* –––, 2014, “What Bell did,” *Journal of Physics A: Mathematical and Theoretical*, 47: 424010.
+* Mermin, N.D., 1980, “Quantum mechanics vs local realism near the classical limit: A Bell inequality for spin s,” *Physical Review D*, 22: 356–361.
+* –––, 1981, “Quantum mysteries for anyone,” *Philosophical Review*, 78: 397–408.
+* –––, 1986, “Generalizations of Bell’s theorem to higher spins and higher correlations,” in *Fundamental Questions in Quantum Mechanics*, L.M. Roth and A. Inomato (eds.), New York: Gordon and Breach, 7–20.
+* –––, 1990, “Quantum mysteries revisited,” *American Journal of Physics*, 58: 731–733.
+* Myrvold, W.C., 2002, “Modal interpretations and relativity,” *Foundations of Physics*, 32: 1774–1784.
 * –––, 2016, “Lessons of Bell’s theorem: nonlocality, yes; action at a distance, not necessarily,” in Bell and Gao (eds.) 2016: 237–260.
-* –––, 2019, “Ontology for relativistic collapse theories,” in Lombardi, O., Fortin, S., López, C., and Holik, F. (eds.), _Quantum Worlds: Perspectives on the Ontology of Quantum Mechanics_, Cambridge, Cambridge University Press: 9–31.
-* –––, 2022, “Relativistic Constraints on Interpretations of Quantum Mechanics,“ in _The Routledge Companion to the Philosophy of Physics_, E. Knox and A. Wilson (eds.), London: Routledge, 99–121.
-* Norsen, T., 2007, “Against ‘Realism’,” _Foundations of Physics_, 37: 311–340.
-* –––, 2011, “Bell’s concept of local causality,” _American Journal of Physics_, 79: 1261–1275.
-* –––, 2015, “Are there really two different Bell’s theorems?” _International Journal of Quantum Foundations_, 1: 65–84.
-* Page, D., 1982, “The Einstein-Podolsky-Rosen physical reality is completely described by quantum mechanics,” _Physics Letters A_, 91: 57–60.
-* Pan, J., _et al_., 2000, “Experimental test of quantum non-locality in three-photon Greenberg-Horne-Zeilinger entanglement,” _Nature_, 403: 515–519.
-* Pearle, P., 1970, “Hidden-variable example based upon data rejection,” _Physical Review D_, 2: 1418–1425.
-* –––, 1997, “Tales and tails and stuff and nonsense,” in Cohen, R.S., Horne, M., and Stachel, J. (eds.), _Experimental Metaphysics: Quantum Mechanical Studies for Abner Shimony, Volume One_, Dordrecht, Kluwer Academic Publishers, 143–156.
-* –––, 2015, “Relativistic dynamical collapse model,” _Physical Review D_, 91: 105012.
-* Penrose, R., 1989, _The Emperor’s New Mind_, Oxford: Oxford University Press.
-* –––, 1996, “On gravity’s role in quantum state reduction,” _General Relativity and Gravitation_, 28: 581–600.
-* Piacentini, F., _et al_., 2016, “Measuring Incompatible Observables by Exploiting Sequential Weak Values,” _Physical Review Letters_, 117: 170402.
-* Popescu, S., 2014, “Nonlocality beyond quantum mechanics,” _Nature Physics_, 10: 264–270.
-* Popescu, S. and Rohrlich, D., 1992, “Generic quantum nonlocality,” _Physics Letters A_, 166: 293–297.
-* Price, H., 1994, “A neglected route to realism about quantum mechanics,” _Mind_, 103: 303–336.
-* –––, 1996, _Time’s Arrow and Archimedes’ Point_, Oxford: Oxford University Press.
-* Price, H., and Wharton, K., 2015 , “Disentangling the quantum world,” _Entropy_, 17: 7752–7767.
-* Rauch, D., 2018, “Cosmic Bell test using random measurement settings from high-redshift quasars,” _Physical Review Letters_, 121: 080403.
-* Redhead, M., and Brown, H.R., 1991, “Nonlocality in quantum mechanics,” _Proceedings of the Aristotelian Society, Supplementary Volumes_, 65: 119–159.
-* Reichenbach, H., 1956, _The Direction of Time_, Berkeley and Los Angeles: University of California Press.
-* Rosenfeld, W., _et al_., 2017, “Event-ready Bell test using entangled atoms simultaneously closing detection and locality loopholes,” _Physical Review of Letters_, 119: 010402.
-* Rowe M.A., _et al_., 2001, “Experimental violation of a Bell’s inequality with efficient detection,” _Nature_, 409: 791–794.
-* Salart, D., Baas, A., van Houwelingen, J. A. W., Gisin, N., and Zbinden, H., 2008, “Spacelike separation in a Bell test assuming gravitationally induced collapses,” _Physical Review Letters_, 100: 220404.
-* Scardigli, F., ’t Hooft, G., Severino, E., and Coda, P., 2019, _Determinism and Free Will: New Insights from Physics, Philosophy, and Theology_, Cham: Springer
-* Scheidl, T., _et al_., 2010. “Violation of local realism with freedom of choice,” _Proceedings of the National Academy of Sciences_, 107: 19708–19713.
-* Schrödinger, E., 1926, “Quantisierung als Eigenwertproblem,” (4th communication), _Annalen der Physik_, 81: 109–139.
-* –––, 1935, “Discussion of probability relations between separated systems,” _Proceedings of the Cambridge Philosophical Society_, 31: 555–563.
-* Selleri, F., 1983, “ Einstein locality and the K0 ¯K0 system,” _Lettere al Nuovo Cimento_, 36: 521–530.
-* Shalm, L.K., _et al_., 2015, “Strong loophole-free test of local realism,” _Physical Review Letters_, 115: 250402
-* Shimony, A., 1970, “Scientific Inference,” in _The Nature and Function of Scientific Theories_, R. Colodny (ed.), Pittsburgh: University of Pittsburgh Press, 79–172; reprinted in Shimony (1993a), 183–273.
-* –––, 1971, “Experimental test of local hidden-variable theories,” in _Foundations of quantum mechanics: Proceedings of the International School of Physics ‘Enrico Fermi’, course IL_, B. d’Espagnat (ed.), Academic Press, 182–194
-* –––, 1978, “Metaphysical problems in the foundations of quantum mechanics,” _International Philosophical Quarterly_, 8: 2–17.
-* –––, 1983, “Reflections on the philosophy of Bohr, Heisenberg, and Schrödinger,” in _Physics, Philosophy, and Psychoanalysis_, R. Cohen and L. Laudan (eds.), Dordrecht: D. Reidel, 209–222; reprinted in Shimony (1993b), 310–322.
-* –––, 1984a, “Contextual hidden variables theories and Bell’s inequalities,” _The British Journal for the Philosophy of Science_, 35: 25–45.
-* –––, 1984b, “Controllable and uncontrollable non-locality,” in _Foundations of Quantum Mechanics in the Light of New Technology_, S. Kamefuchi (ed.), Tokyo, The Physical Society of Japan, 225–230. Reprinted in Shimony (1993b), 130–139.
-* –––, 1986, “Events and processes in the quantum world,” in _Quantum Concepts in Space and Time_, R. Penrose and C.J. Isham (eds.), Oxford: Oxford University Press, 182–203. Reprinted in Shimony (1993b), 140–162.
-* –––, 1988, “Physical and philosophical issues in the Bohr-Einstein debate,” in _Niels Bohr: Physics and the World_, H. Feschbach (ed.), Chur: Harwood, 285–304; reprinted in Shimony (1993b), 171–187.
+* –––, 2019, “Ontology for relativistic collapse theories,” in Lombardi, O., Fortin, S., López, C., and Holik, F. (eds.), *Quantum Worlds: Perspectives on the Ontology of Quantum Mechanics*, Cambridge, Cambridge University Press: 9–31.
+* –––, 2022, “Relativistic Constraints on Interpretations of Quantum Mechanics,“ in *The Routledge Companion to the Philosophy of Physics*, E. Knox and A. Wilson (eds.), London: Routledge, 99–121.
+* Norsen, T., 2007, “Against ‘Realism’,” *Foundations of Physics*, 37: 311–340.
+* –––, 2011, “Bell’s concept of local causality,” *American Journal of Physics*, 79: 1261–1275.
+* –––, 2015, “Are there really two different Bell’s theorems?” *International Journal of Quantum Foundations*, 1: 65–84.
+* Page, D., 1982, “The Einstein-Podolsky-Rosen physical reality is completely described by quantum mechanics,” *Physics Letters A*, 91: 57–60.
+* Pan, J., *et al*., 2000, “Experimental test of quantum non-locality in three-photon Greenberg-Horne-Zeilinger entanglement,” *Nature*, 403: 515–519.
+* Pearle, P., 1970, “Hidden-variable example based upon data rejection,” *Physical Review D*, 2: 1418–1425.
+* –––, 1997, “Tales and tails and stuff and nonsense,” in Cohen, R.S., Horne, M., and Stachel, J. (eds.), *Experimental Metaphysics: Quantum Mechanical Studies for Abner Shimony, Volume One*, Dordrecht, Kluwer Academic Publishers, 143–156.
+* –––, 2015, “Relativistic dynamical collapse model,” *Physical Review D*, 91: 105012.
+* Penrose, R., 1989, *The Emperor’s New Mind*, Oxford: Oxford University Press.
+* –––, 1996, “On gravity’s role in quantum state reduction,” *General Relativity and Gravitation*, 28: 581–600.
+* Piacentini, F., *et al*., 2016, “Measuring Incompatible Observables by Exploiting Sequential Weak Values,” *Physical Review Letters*, 117: 170402.
+* Popescu, S., 2014, “Nonlocality beyond quantum mechanics,” *Nature Physics*, 10: 264–270.
+* Popescu, S. and Rohrlich, D., 1992, “Generic quantum nonlocality,” *Physics Letters A*, 166: 293–297.
+* Price, H., 1994, “A neglected route to realism about quantum mechanics,” *Mind*, 103: 303–336.
+* –––, 1996, *Time’s Arrow and Archimedes’ Point*, Oxford: Oxford University Press.
+* Price, H., and Wharton, K., 2015 , “Disentangling the quantum world,” *Entropy*, 17: 7752–7767.
+* Rauch, D., 2018, “Cosmic Bell test using random measurement settings from high-redshift quasars,” *Physical Review Letters*, 121: 080403.
+* Redhead, M., and Brown, H.R., 1991, “Nonlocality in quantum mechanics,” *Proceedings of the Aristotelian Society, Supplementary Volumes*, 65: 119–159.
+* Reichenbach, H., 1956, *The Direction of Time*, Berkeley and Los Angeles: University of California Press.
+* Rosenfeld, W., *et al*., 2017, “Event-ready Bell test using entangled atoms simultaneously closing detection and locality loopholes,” *Physical Review of Letters*, 119: 010402.
+* Rowe M.A., *et al*., 2001, “Experimental violation of a Bell’s inequality with efficient detection,” *Nature*, 409: 791–794.
+* Salart, D., Baas, A., van Houwelingen, J. A. W., Gisin, N., and Zbinden, H., 2008, “Spacelike separation in a Bell test assuming gravitationally induced collapses,” *Physical Review Letters*, 100: 220404.
+* Scardigli, F., ’t Hooft, G., Severino, E., and Coda, P., 2019, *Determinism and Free Will: New Insights from Physics, Philosophy, and Theology*, Cham: Springer
+* Scheidl, T., *et al*., 2010. “Violation of local realism with freedom of choice,” *Proceedings of the National Academy of Sciences*, 107: 19708–19713.
+* Schrödinger, E., 1926, “Quantisierung als Eigenwertproblem,” (4th communication), *Annalen der Physik*, 81: 109–139.
+* –––, 1935, “Discussion of probability relations between separated systems,” *Proceedings of the Cambridge Philosophical Society*, 31: 555–563.
+* Selleri, F., 1983, “ Einstein locality and the K0 ¯K0 system,” *Lettere al Nuovo Cimento*, 36: 521–530.
+* Shalm, L.K., *et al*., 2015, “Strong loophole-free test of local realism,” *Physical Review Letters*, 115: 250402
+* Shimony, A., 1970, “Scientific Inference,” in *The Nature and Function of Scientific Theories*, R. Colodny (ed.), Pittsburgh: University of Pittsburgh Press, 79–172; reprinted in Shimony (1993a), 183–273.
+* –––, 1971, “Experimental test of local hidden-variable theories,” in *Foundations of quantum mechanics: Proceedings of the International School of Physics ‘Enrico Fermi’, course IL*, B. d’Espagnat (ed.), Academic Press, 182–194
+* –––, 1978, “Metaphysical problems in the foundations of quantum mechanics,” *International Philosophical Quarterly*, 8: 2–17.
+* –––, 1983, “Reflections on the philosophy of Bohr, Heisenberg, and Schrödinger,” in *Physics, Philosophy, and Psychoanalysis*, R. Cohen and L. Laudan (eds.), Dordrecht: D. Reidel, 209–222; reprinted in Shimony (1993b), 310–322.
+* –––, 1984a, “Contextual hidden variables theories and Bell’s inequalities,” *The British Journal for the Philosophy of Science*, 35: 25–45.
+* –––, 1984b, “Controllable and uncontrollable non-locality,” in *Foundations of Quantum Mechanics in the Light of New Technology*, S. Kamefuchi (ed.), Tokyo, The Physical Society of Japan, 225–230. Reprinted in Shimony (1993b), 130–139.
+* –––, 1986, “Events and processes in the quantum world,” in *Quantum Concepts in Space and Time*, R. Penrose and C.J. Isham (eds.), Oxford: Oxford University Press, 182–203. Reprinted in Shimony (1993b), 140–162.
+* –––, 1988, “Physical and philosophical issues in the Bohr-Einstein debate,” in *Niels Bohr: Physics and the World*, H. Feschbach (ed.), Chur: Harwood, 285–304; reprinted in Shimony (1993b), 171–187.
 * –––, 1989, “Search for a worldview which can accommodate our knowledge of microphysics,” in Cushing and McMullin (eds.), (1989), 25–37.
-* –––, 1990, “An exposition of Bell’s theorem,” in _Sixty-Two Years of Uncertainty_, A. Miller (ed.), New York: Plenum, 33–43; reprinted in Shimony (1993b), 90–103.
-* –––, 1991, “Desiderata for a modified quantum dynamics,” in _PSA 1990_, A. Fine, M. Forbes, and L. Wessels (eds.), East Lansing, MI: Philosophy of Science Association, 49–59; reprinted in Shimony (1993b), 55–67.
-* –––, 1993a, _Search for a Naturalistic World View, Volume 1: Scientific Method and Epistemology_, Cambridge: Cambridge University Press.
-* –––, 1993b, _Search for a Naturalistic World View, Volume 2: Natural Science and Metaphysics_, Cambridge: Cambridge University Press.
-* –––, 2001, “The logic of EPR,” _Annales de la Fondation Louis de Broglie_, 26: 399–410.
-* –––, 2009, “Unfinished work: a bequest,”, in _Quantum Reality, Relativistic Causality, and Closing the Epistemic Circle_, W. C. Myrvold and J. Christian (eds.). Berlin, Springer, 479–492.
-* Shimony, A., Horne, M.A., and Clauser, J., 1976, “Comment on ‘The theory of local beables’,” _Epistemological Letters_, 13: 1–8. Reprinted in Shimony, Horne, and Clauser (1985), and in Shimony (1993), 163–167.
-* –––, 1985, “Comment on ‘The theory of local beables’,” _Dialectica_, 39: 97–102. Reprinted in Shimony (1993), 163–167.
-* Shimony, A. and Stein, H., 2001, “Comment on ‘Nonlocal character of quantum theory’,” _American Journal of Physics_, 69: 848–853.
-* –––, 2003, “On quantum non-locality, special relativity, and counterfactual reasoning,” in _Revisiting the Foundations of Relativistic Physics: Festschrift in Honor of John Stachel_, A. Ashtekar, R.S. Cohen, D. Howard, J. Renn, S. Sarkar, and A. Shimony (eds.), Dordrecht-Boston-London: Kluwer, 499–521.
-* Smerlak, M., and Rovelli, C., 2007, “Relational EPR,” _Foundations of Physics_, 37: 427–445.
-* Specker, E., 1960, “Die Logik nicht gleichzeitig enstscheidbarer Aussagen,” _Dialectica_, 14: 239–246. See Specker (1975) for English translation.
-* –––, 1975, “The logic of propositions which are not simultaneously decidable,” in _The Logico-Algebraic Approach to Quantum Mechanics, Volume I: Historical Evolution_, C.A. Hooker, (ed.), Dordrecht-Boston: D. Reidel, 135–140. Translation of Specker (1960).
-* Stairs, A., 1978, _Quantum Mechanics, Logic, and Reality_, Doctoral Dissertation, The University of Western Ontario, ProQuest Dissertations Publishing.
-* –––, 1983, “Quantum logic, realism, and value-definiteness,” _Philosophy of Science_, 50: 578–602.
-* Stapp, H.P., 1997, “Nonlocal character of quantum theory,” _American Journal of Physics_, 65: 300–304.
-* –––, 2001, “Response to ‘Comment on ‘Nonlocal character of quantum theory’ by Abner Shimony and Howard Stein’,” _American Journal of Physics_, 69: 854–859.
-* Stein, H., 1991, “On relativity theory and the openness of the future,” _Philosophy of Science_, 58: 147–167.
-* –––, 2009, “‘Definability,’‘conventionality,’ and simultaneity in Einstein-Minkowski space-time,”, in _Quantum Reality, Relativistic Causality, and Closing the Epistemic Circle_, W. C. Myrvold and J. Christian (eds.). Berlin, Springer, 403–422.
-* Storz, S., _et al_., 2023, “Loophole-free Bell inequality violation with superconducting circuits,” _Nature_, 617: 265–270
-* Suppes, P., and Zanotti, M., 1976, “On the determinism of hidden variable theories with strict correlation and conditional statistical independence of observables,” in Suppes, P. (ed.). _Logic and Probability in Quantum Mechanics_, Dordecht: D. Reidel Publishing Company, 445–455.
-* ’t Hooft, G., 2016, _The Cellular Automaton Interpretation of Quantum Mechanics_, Berlin, Springer.
-* Thompson, C.H., 1996, “The Chaotic Ball: an intuitive analogy for EPR experiments,” _Foundations of Physics Letters_, 9: 357.
-* Tipler, F.J., 2014, “Quantum nonlocality does not exist,” _Proceedings of the National Academy of Sciences_, 111: 11281–6.
-* Tittel, W., Brendel, J., Zbinden, H., and Gisin N., 1998, “Violation of Bell’s inequalities by photons more than 10 km apart,” _Physical Review Letters_, 81: 3563–3566.
-* Tumulka, R., 2006, “A relativistic version of the Ghirardi-Rimini-Weber model,” _Journal of Statistical Physics_, 125: 825–844.
-* Unruh, W.G., 2002, “Is quantum mechanics non-local?” in _Non-Locality and Modality_, T. Placek and J. Butterfield (eds.), Berlin: Springer: 125–136.
-* Vaidman, L., 1994, “On the paradoxical aspects of new quantum experiments,” in D. Hull, M. Forbes and R.M. Burian (eds.), _PSA 1994_, Volume 1, Philosophy of Science Association, 211–17.
+* –––, 1990, “An exposition of Bell’s theorem,” in *Sixty-Two Years of Uncertainty*, A. Miller (ed.), New York: Plenum, 33–43; reprinted in Shimony (1993b), 90–103.
+* –––, 1991, “Desiderata for a modified quantum dynamics,” in *PSA 1990*, A. Fine, M. Forbes, and L. Wessels (eds.), East Lansing, MI: Philosophy of Science Association, 49–59; reprinted in Shimony (1993b), 55–67.
+* –––, 1993a, *Search for a Naturalistic World View, Volume 1: Scientific Method and Epistemology*, Cambridge: Cambridge University Press.
+* –––, 1993b, *Search for a Naturalistic World View, Volume 2: Natural Science and Metaphysics*, Cambridge: Cambridge University Press.
+* –––, 2001, “The logic of EPR,” *Annales de la Fondation Louis de Broglie*, 26: 399–410.
+* –––, 2009, “Unfinished work: a bequest,”, in *Quantum Reality, Relativistic Causality, and Closing the Epistemic Circle*, W. C. Myrvold and J. Christian (eds.). Berlin, Springer, 479–492.
+* Shimony, A., Horne, M.A., and Clauser, J., 1976, “Comment on ‘The theory of local beables’,” *Epistemological Letters*, 13: 1–8. Reprinted in Shimony, Horne, and Clauser (1985), and in Shimony (1993), 163–167.
+* –––, 1985, “Comment on ‘The theory of local beables’,” *Dialectica*, 39: 97–102. Reprinted in Shimony (1993), 163–167.
+* Shimony, A. and Stein, H., 2001, “Comment on ‘Nonlocal character of quantum theory’,” *American Journal of Physics*, 69: 848–853.
+* –––, 2003, “On quantum non-locality, special relativity, and counterfactual reasoning,” in *Revisiting the Foundations of Relativistic Physics: Festschrift in Honor of John Stachel*, A. Ashtekar, R.S. Cohen, D. Howard, J. Renn, S. Sarkar, and A. Shimony (eds.), Dordrecht-Boston-London: Kluwer, 499–521.
+* Smerlak, M., and Rovelli, C., 2007, “Relational EPR,” *Foundations of Physics*, 37: 427–445.
+* Specker, E., 1960, “Die Logik nicht gleichzeitig enstscheidbarer Aussagen,” *Dialectica*, 14: 239–246. See Specker (1975) for English translation.
+* –––, 1975, “The logic of propositions which are not simultaneously decidable,” in *The Logico-Algebraic Approach to Quantum Mechanics, Volume I: Historical Evolution*, C.A. Hooker, (ed.), Dordrecht-Boston: D. Reidel, 135–140. Translation of Specker (1960).
+* Stairs, A., 1978, *Quantum Mechanics, Logic, and Reality*, Doctoral Dissertation, The University of Western Ontario, ProQuest Dissertations Publishing.
+* –––, 1983, “Quantum logic, realism, and value-definiteness,” *Philosophy of Science*, 50: 578–602.
+* Stapp, H.P., 1997, “Nonlocal character of quantum theory,” *American Journal of Physics*, 65: 300–304.
+* –––, 2001, “Response to ‘Comment on ‘Nonlocal character of quantum theory’ by Abner Shimony and Howard Stein’,” *American Journal of Physics*, 69: 854–859.
+* Stein, H., 1991, “On relativity theory and the openness of the future,” *Philosophy of Science*, 58: 147–167.
+* –––, 2009, “‘Definability,’‘conventionality,’ and simultaneity in Einstein-Minkowski space-time,”, in *Quantum Reality, Relativistic Causality, and Closing the Epistemic Circle*, W. C. Myrvold and J. Christian (eds.). Berlin, Springer, 403–422.
+* Storz, S., *et al*., 2023, “Loophole-free Bell inequality violation with superconducting circuits,” *Nature*, 617: 265–270
+* Suppes, P., and Zanotti, M., 1976, “On the determinism of hidden variable theories with strict correlation and conditional statistical independence of observables,” in Suppes, P. (ed.). *Logic and Probability in Quantum Mechanics*, Dordecht: D. Reidel Publishing Company, 445–455.
+* ’t Hooft, G., 2016, *The Cellular Automaton Interpretation of Quantum Mechanics*, Berlin, Springer.
+* Thompson, C.H., 1996, “The Chaotic Ball: an intuitive analogy for EPR experiments,” *Foundations of Physics Letters*, 9: 357.
+* Tipler, F.J., 2014, “Quantum nonlocality does not exist,” *Proceedings of the National Academy of Sciences*, 111: 11281–6.
+* Tittel, W., Brendel, J., Zbinden, H., and Gisin N., 1998, “Violation of Bell’s inequalities by photons more than 10 km apart,” *Physical Review Letters*, 81: 3563–3566.
+* Tumulka, R., 2006, “A relativistic version of the Ghirardi-Rimini-Weber model,” *Journal of Statistical Physics*, 125: 825–844.
+* Unruh, W.G., 2002, “Is quantum mechanics non-local?” in *Non-Locality and Modality*, T. Placek and J. Butterfield (eds.), Berlin: Springer: 125–136.
+* Vaidman, L., 1994, “On the paradoxical aspects of new quantum experiments,” in D. Hull, M. Forbes and R.M. Burian (eds.), *PSA 1994*, Volume 1, Philosophy of Science Association, 211–17.
 * –––, 2016, “The Bell inequality and the many-worlds interpretation,” in Bell and Gao (eds.) 2016: 195–203.
-* van Fraassen, B., 1982, “The Charybdis of realism: epistemological implications of Bell’s inequality,” _Synthese_, 52: 25–38.
-* von Neumann, J., 1932, _Mathematische Grundlagen der Quantenmechanik_, Berlin, Springer Verlag; English translation in von Neumann 1955.
-* –––, 1955, _Mathematical Foundations of Quantum Mechanics_, Robert T. Beyer (trans.), Princeton: Princeton University Press; translation of von Neumann 1932.
-* Wallace, D., 2012, _The Emergent Multiverse: Quantum Theory according to the Everett interpretation_, Oxford: Oxford University Press.
-* Weihs, G., Jennewein, T., Simon, C., Weinfurter, H., and Zeilinger, A., 1998, “Violation of Bell’s inequality under strict Einstein locality conditions,” _Physical Review Letters_, 81: 5039–5043.
-* Werner, R., 1989, “Quantum states with Einstein-Podolsky-Rosen correlations admitting a hidden-variable model,” _Physical Review A_, 40: 4277–4281.
-* –––, 2014, “Comment on ‘What Bell did’,” _Journal of Physics A: Mathematical and Theoretical_, 47: 424011.
-* Wharton, K. B., and N. Argaman, 2020, “_Colloquium_: Bell’s theorem and locally mediated reformulation of quantum mechanics,” _Reviews of Modern Physics_, 92: 021002.
-* White T.C., _et al_., 2016, “Preserving entanglement during weak measurement demonstrated with a violation of the Bell–Leggett–Garg inequality,” _npj Quantum Information_, 2: 15022.
-* Wigner, E., 1961, “Remarks on the mind-body question,” in Good, I.J., (ed.) _The Scientist Speculates_, London: Heinemann: 284–302.
-* Wiseman, H., 2014, “The two Bell’s theorems of John Bell,” _Journal of Physics A: Mathematical and Theoretical_, 47: 424001.
-* Wiseman, H., and Cavalcanti, E., 2017, “_Causarum investigatio_ and the two Bell’s theorems,” in Bertlmann and Zeilinger (eds.), 119–142.
-* Wiseman, H., and Rieffel, 2015, “Reply to Norsen’s paper ‘Are there really two different Bell’s theorems?’” _International Journal of Quantum Foundations_, 1: 85–99.
-* Wu, C.S., and Shaknov, I., 1950, “The angular correlation of scattered annihilation radiation,” _Physical Review_, 77: 136.
-* Yin, J., _et al_., 2017, “Satellite-based entanglement distribution over 1200 kilometers,” _Science_, 356: 1140–1144.
-* Yin, J., _et al_., 2020, “Entanglement-based secure quantum cryptography over 1,120 kilometres,” _Nature_, 582: 501–505.
-* Zeilinger, A., 1999, “Experiment and the foundations of quantum physics,” _Reviews of Modern Physics_, 71: S288-S297.
-* Żukowski, M., 2017, “Bell’s theorem tells us _not_ what quantum mechanics _is_, but what quantum mechanics _is not_,” in Bertlmann and Zelinger (eds.), 175–185.
-* Żukowski, M., and Brukner, Č., 2014, “Quantum non-locality—it ain’t necessarily so…,” _Journal of Physics A: Mathematical and Theoretical_, 47: 424009.
+* van Fraassen, B., 1982, “The Charybdis of realism: epistemological implications of Bell’s inequality,” *Synthese*, 52: 25–38.
+* von Neumann, J., 1932, *Mathematische Grundlagen der Quantenmechanik*, Berlin, Springer Verlag; English translation in von Neumann 1955.
+* –––, 1955, *Mathematical Foundations of Quantum Mechanics*, Robert T. Beyer (trans.), Princeton: Princeton University Press; translation of von Neumann 1932.
+* Wallace, D., 2012, *The Emergent Multiverse: Quantum Theory according to the Everett interpretation*, Oxford: Oxford University Press.
+* Weihs, G., Jennewein, T., Simon, C., Weinfurter, H., and Zeilinger, A., 1998, “Violation of Bell’s inequality under strict Einstein locality conditions,” *Physical Review Letters*, 81: 5039–5043.
+* Werner, R., 1989, “Quantum states with Einstein-Podolsky-Rosen correlations admitting a hidden-variable model,” *Physical Review A*, 40: 4277–4281.
+* –––, 2014, “Comment on ‘What Bell did’,” *Journal of Physics A: Mathematical and Theoretical*, 47: 424011.
+* Wharton, K. B., and N. Argaman, 2020, “*Colloquium*: Bell’s theorem and locally mediated reformulation of quantum mechanics,” *Reviews of Modern Physics*, 92: 021002.
+* White T.C., *et al*., 2016, “Preserving entanglement during weak measurement demonstrated with a violation of the Bell–Leggett–Garg inequality,” *npj Quantum Information*, 2: 15022.
+* Wigner, E., 1961, “Remarks on the mind-body question,” in Good, I.J., (ed.) *The Scientist Speculates*, London: Heinemann: 284–302.
+* Wiseman, H., 2014, “The two Bell’s theorems of John Bell,” *Journal of Physics A: Mathematical and Theoretical*, 47: 424001.
+* Wiseman, H., and Cavalcanti, E., 2017, “*Causarum investigatio* and the two Bell’s theorems,” in Bertlmann and Zeilinger (eds.), 119–142.
+* Wiseman, H., and Rieffel, 2015, “Reply to Norsen’s paper ‘Are there really two different Bell’s theorems?’” *International Journal of Quantum Foundations*, 1: 85–99.
+* Wu, C.S., and Shaknov, I., 1950, “The angular correlation of scattered annihilation radiation,” *Physical Review*, 77: 136.
+* Yin, J., *et al*., 2017, “Satellite-based entanglement distribution over 1200 kilometers,” *Science*, 356: 1140–1144.
+* Yin, J., *et al*., 2020, “Entanglement-based secure quantum cryptography over 1,120 kilometres,” *Nature*, 582: 501–505.
+* Zeilinger, A., 1999, “Experiment and the foundations of quantum physics,” *Reviews of Modern Physics*, 71: S288-S297.
+* Żukowski, M., 2017, “Bell’s theorem tells us *not* what quantum mechanics *is*, but what quantum mechanics *is not*,” in Bertlmann and Zelinger (eds.), 175–185.
+* Żukowski, M., and Brukner, Č., 2014, “Quantum non-locality—it ain’t necessarily so…,” *Journal of Physics A: Mathematical and Theoretical*, 47: 424009.
 
 ## Academic Tools
 
@@ -776,7 +776,7 @@ Shimony 在他的几篇著作中（Shimony 1978, 1983, 1984a,b, 1986, 1988, 1989
 
 ## Other Internet Resources
 
-* Goldstein, S., T. Norsen, D. V. Tausk, D. and N. Zanghì, “[Bell’s Theorem](http://www.scholarpedia.org/article/Bell's\*theorem),” _Scholarpedia_ entry.
+* Goldstein, S., T. Norsen, D. V. Tausk, D. and N. Zanghì, “[Bell’s Theorem](http://www.scholarpedia.org/article/Bell's\*theorem),” *Scholarpedia* entry.
 * Nobel, 2022, “[The Nobel Prize in Physics 2022,” at nobelprize.org.](https://www.nobelprize.org/prizes/physics/2022/summary/)
 * [Virzì S., et al., 2023, “](https://www.nobelprize.org/prizes/physics/2022/summary/)[Single-pair measurement of the Bell parameter](https://arxiv.org/abs/2303.04787),” manuscript at arxiv.org.
 
@@ -786,9 +786,9 @@ Shimony 在他的几篇著作中（Shimony 1978, 1983, 1984a,b, 1986, 1988, 1989
 
 ### Acknowledgments
 
-A.S. acknowledges valuable conversations with John Clauser and Edward Fry. W.M. acknowledges valuable correspondence with Travis Norsen and Howard Wiseman, and is grateful to Sebastian Murgueitio Ramírez for providing digitized copies of the cited issues of _Epistemological Letters_. Springer Verlag and Alain Aspect have kindly given permission to reproduce Figure 9.1 on p. 121 of Aspect’s article, “Bell’s Theorem: the Naïve View of an Experimentalist,” pp. 119–153 in _Quantum \[Un]speakables_, R.A. Bertlmann and A. Zeilinger (eds.), Berlin-Heidelberg-New York: Springer Verlag, 2002; this Figure was used as Figure 1 in the present article.
+A.S. acknowledges valuable conversations with John Clauser and Edward Fry. W.M. acknowledges valuable correspondence with Travis Norsen and Howard Wiseman, and is grateful to Sebastian Murgueitio Ramírez for providing digitized copies of the cited issues of *Epistemological Letters*. Springer Verlag and Alain Aspect have kindly given permission to reproduce Figure 9.1 on p. 121 of Aspect’s article, “Bell’s Theorem: the Naïve View of an Experimentalist,” pp. 119–153 in *Quantum \[Un]speakables*, R.A. Bertlmann and A. Zeilinger (eds.), Berlin-Heidelberg-New York: Springer Verlag, 2002; this Figure was used as Figure 1 in the present article.
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-[Wayne Myrvold](http://publish.uwo.ca/\~wmyrvold/) <[_wmyrvold@uwo.ca_](mailto:wmyrvold%40uwo%2eca)>\
-[Marco Genovese](https://quantum-optics.inrim.it/people/marco-genovese) <[_m.genovese@inrim.it_](mailto:m%2egenovese%40inrim%2eit)>\
+[Wayne Myrvold](http://publish.uwo.ca/\~wmyrvold/) <[*wmyrvold@uwo.ca*](mailto:wmyrvold%40uwo%2eca)>\
+[Marco Genovese](https://quantum-optics.inrim.it/people/marco-genovese) <[*m.genovese@inrim.it*](mailto:m%2egenovese%40inrim%2eit)>\
 [Abner Shimony](http://www.bu.edu/philo/people/faculty/emeritus/abner-shimony/)

@@ -1,6 +1,6 @@
 # 道德和政治哲学中的自主权 in moral and political philosophy (John Christman)
 
-_首次发布于 2003 年 7 月 28 日；实质性修订于 2020 年 6 月 29 日_
+*首次发布于 2003 年 7 月 28 日；实质性修订于 2020 年 6 月 29 日*
 
 个体自主权是一个通常被理解为指能够成为自己的人的能力，根据自己的理由和动机来生活，而不是受到操纵或扭曲的外部力量的产物，从而独立自主。这是康德道德哲学传统中的一个核心价值观，但也在约翰·斯图尔特·密尔的功利主义自由主义版本中被赋予了基本地位（康德 1785/1983，密尔 1859/1975，第三章）。对自主权概念的审视也在教育政策、生物医学伦理学、各种法律自由和权利（如言论自由和隐私权）以及更广泛的道德和政治理论的辩论中起着核心作用。在道德理论领域，将自主权视为一个核心价值观可以与关怀伦理学、某些形式的功利主义和美德伦理学等替代框架进行对比。自主权传统上被认为意味着独立，因此反映了道德思维和政治地位的个人主义假设。因此，某些哲学运动，如某些女性主义思潮，抵制将自主权视为一个价值观（贾格尔 1983，第 3 章）。然而，在最近几十年里，理论家们越来越多地试图构建这个概念，以便将其与这种个人主义的联系断开。
 
@@ -68,7 +68,7 @@ _首次发布于 2003 年 7 月 28 日；实质性修订于 2020 年 6 月 29 �
 
 自主权在某些道德框架中是核心，既是道德人格的模型，即人因此而承担道德义务的特征，也是他人对其或他的义务的基础。对于康德来说，普遍道德法的自我施加是道德义务的基础，也是他人对我们（以及我们对自己）的尊重的基础。简而言之，实践理性——我们运用理由选择自己的行动的能力——预设我们将自己理解为自由的。自由意味着我们的行动没有任何外在于我们意志的障碍，尽管它还要求我们利用一条法律来指导我们的决策，这条法律只能通过我们自己的意志行为来获得（有关进一步讨论，请参见希尔 1989 年；对于对这种解读的怀疑，请参见克莱格尔德和威拉舍克 2019 年）。道德法的这种自我施加就是自主权。由于这条法律不能由感觉、欲望或我们处境的任何其他偶然因素提供内容，所以它必须是普遍的。因此，我们有了（第一公式的）范畴命令，即由于我们是自主的，我们必须只根据那些我们可以一贯地将其作为普遍法律的准则行事。
 
-然而，故事还在继续：因为这种能力（对自己施加道德法）被认为是所有道德价值的最终源泉——因为对任何事物（无论是工具性还是内在性）的评价都意味着能够进行价值判断，其中最基本的是确定何为_道德_价值。一些不是（自称为）康德主义者的理论家将这种推论作为他们对自主权观点的核心。例如，保罗·本森（Paul Benson）认为，自主权意味着我们必须具备一定的自我价值，因为我们必须能够信任我们的决策能力，将自己置于负责任的位置（本森 1994 年；另见格罗维尔 1993 年、勒尔 1997 年和韦斯特伦德 2014 年）。但康德主义的立场是，这种自我关注不是关于我们的一种偶然的心理事实，而是实践理性行使的不可避免的推论（参见泰勒 2005 年）。
+然而，故事还在继续：因为这种能力（对自己施加道德法）被认为是所有道德价值的最终源泉——因为对任何事物（无论是工具性还是内在性）的评价都意味着能够进行价值判断，其中最基本的是确定何为*道德*价值。一些不是（自称为）康德主义者的理论家将这种推论作为他们对自主权观点的核心。例如，保罗·本森（Paul Benson）认为，自主权意味着我们必须具备一定的自我价值，因为我们必须能够信任我们的决策能力，将自己置于负责任的位置（本森 1994 年；另见格罗维尔 1993 年、勒尔 1997 年和韦斯特伦德 2014 年）。但康德主义的立场是，这种自我关注不是关于我们的一种偶然的心理事实，而是实践理性行使的不可避免的推论（参见泰勒 2005 年）。
 
 因此，我们根据我们的自主权应该对自己保持道德尊重。但是，由于这种能力与我们自身的任何特定或偶然因素无关，我们应该根据他们的能力对所有其他人保持类似的尊重。因此（通过范畴命令的第二个表述），我们有义务出于对他人自主权的基本尊重而行动。这样，自主权既作为道德义务确定的实践理性的模型，又作为其他人应该得到我们道德尊重的特征。（有关进一步讨论，请参见《伊曼纽尔·康德与道德哲学》。）
 
@@ -100,7 +100,7 @@ _首次发布于 2003 年 7 月 28 日；实质性修订于 2020 年 6 月 29 �
 
 ### 2.2 自主权和家长式干预
 
-自主权是人的一方面，过度的家长式干预会侵犯到这一方面。家长式干预可以是人际关系的（受社会和道德规范约束），也可以是政策层面的（通过正式或法律规则进行调节）。这些干预不是根据其所涉及的行为类型来确定的，而是根据为其提供的理由来确定的，因此家长式干预涉及对一个人的行动或知识的干涉，违背了该人的意愿，目的是为了促进该人的利益。对自主权的尊重意味着禁止这些干预，因为它们涉及对一个人无法自行决定如何追求自己的利益的判断。自主权是能够做出这样的决定的能力，因此对于这些干预的自主主体来说，家长式干预意味着对自主权的不尊重。另请参见_家长式干预_。
+自主权是人的一方面，过度的家长式干预会侵犯到这一方面。家长式干预可以是人际关系的（受社会和道德规范约束），也可以是政策层面的（通过正式或法律规则进行调节）。这些干预不是根据其所涉及的行为类型来确定的，而是根据为其提供的理由来确定的，因此家长式干预涉及对一个人的行动或知识的干涉，违背了该人的意愿，目的是为了促进该人的利益。对自主权的尊重意味着禁止这些干预，因为它们涉及对一个人无法自行决定如何追求自己的利益的判断。自主权是能够做出这样的决定的能力，因此对于这些干预的自主主体来说，家长式干预意味着对自主权的不尊重。另请参见*家长式干预*。
 
 但是，正如我们对自主权性质的讨论所指出的那样，这个特征的具体含义往往不太清楚。在这个背景下，重要的是自主权是否可以以不同程度展现出来 - 自主权所包含的能力和能量是否一次性或逐渐获得，或者我在生活的某些领域中可以享有足够的自主权，但在其他领域中却没有。如果自主权在任何这些方面都是一个程度的问题，那么是否有必要对干预行为进行全面禁止就不清楚了。有些人可能更难以判断自己的利益，因此更容易受到（合理的）干预（Conly 2013; 另见 Killmister 2017，第 7 章）。
 
@@ -182,7 +182,7 @@ _首次发布于 2003 年 7 月 28 日；实质性修订于 2020 年 6 月 29 �
 
 然而，自由正义的概念本身已经发展（至少在某些方面）以包括对集体讨论和辩论（公共理由）的参考，作为合法性的构成条件之一。因此，可以声称，对公民反思思考和选择的能力（自主权）的基本假设必须成为背景条件的一部分，以便一个重叠共识或其他形式的政治协议能够在正义原则上运作。
 
-一些思想家将个体或“私人”自主权与集体或“公共”合法性联系起来，其中最著名的是哈贝马斯（Habermas 1994）。根据这种观点，合法性和正义不能事先通过哲学建构和论证来确立，正如在自然法传统中认为的那样，在这种传统中，古典社会契约理论蓬勃发展，并在当代完善主义自由观中以不同形式继承下来。相反，正义是指那些在实践中确立并通过受影响的公民（及其代表）的_实际_支持在集体讨论和思考过程中合法化的原则集合（参见例如，弗雷泽 1997 年，11-40 和杨 2000 年）。为了将社会正义原则对所有受影响者（在与他人协商的情况下）都能接受的制度化框架（私人、个体自主权）保护起来，必须保护权利和保护系统，以便形成公共思考的框架（更具体地说，是立法和宪法解释），这些框架使社会正义原则得到合法化（哈贝马斯 1994 年，111）。
+一些思想家将个体或“私人”自主权与集体或“公共”合法性联系起来，其中最著名的是哈贝马斯（Habermas 1994）。根据这种观点，合法性和正义不能事先通过哲学建构和论证来确立，正如在自然法传统中认为的那样，在这种传统中，古典社会契约理论蓬勃发展，并在当代完善主义自由观中以不同形式继承下来。相反，正义是指那些在实践中确立并通过受影响的公民（及其代表）的*实际*支持在集体讨论和思考过程中合法化的原则集合（参见例如，弗雷泽 1997 年，11-40 和杨 2000 年）。为了将社会正义原则对所有受影响者（在与他人协商的情况下）都能接受的制度化框架（私人、个体自主权）保护起来，必须保护权利和保护系统，以便形成公共思考的框架（更具体地说，是立法和宪法解释），这些框架使社会正义原则得到合法化（哈贝马斯 1994 年，111）。
 
 如果这种对正义的看法是可以接受的，那么它间接地为保护自主权提供了辩护，特别是在概念化自主权的方式上，假设了反思性的自我评估。只有在公正的基础上进行公共讨论的公民参与者被认为具有（并提供了基本资源以获得）能力进行胜任的自我反思，才能进行对竞争正义观念的公共辩护和讨论（参见 Gaus 1996 年，第二部分和第三部分，Gaus 2011 年）。就功能性民主（广义上考虑）而言，自主权是必要的，而后者是公正政治制度的组成要素，因此自主权必须被视为反思性的自我评估（我要补充的是，不与个人核心方面疏离）（参见科恩 2002 年，理查森 2003 年，克里斯曼 2015 年）。
 
@@ -192,160 +192,160 @@ _首次发布于 2003 年 7 月 28 日；实质性修订于 2020 年 6 月 29 �
 
 ## Bibliography
 
-* Alcoff, Linda Martin, 2006. _Visible Identities: Race, Gender and the Self_, Oxford: Oxford University Press.
-* Appiah, Kwame Anthony, 2005. _The Ethics of Identity_, Princeton: Princeton University Press.
-* –––, 2010. _Cosmopolitanism: Ethics in a World of Strangers_, New York: Norton.
-* Arneson, Richard, 1991. “Autonomy and Preference Formation,” in Jules Coleman and Allen Buchanan (eds.), _In Harm’s Way: Essays in Honor of Joel Feinberg_, Cambridge: Cambridge University Press, pp. 42–73.
-* –––, 1999. “What, if Anything, Renders All Humans Morally Equal?,” in D. Jamieson (ed.), _Singer and his Critics_, Oxford: Blackwell, pp. 103–28.
-* Arpaly, Nomy, 2004. _Unprincipled Virtue_, New York: Oxford University Press.
-* Baumann, Holgar, 2008. “Reconsidering Relational Autonomy. Personal Autonomy for Socially Embedded and Temporally Extended Selves,” _Analyse and Kritik_, 30: 445–468.
-* Bell, Daniel, 1993. _Communitarianism and its Critics_, Oxford: Clarendon.
-* Benhabib, Seyla, 1992. _Situating the Self: Gender, Community and Postmodernism in Contemporary Ethics_, New York: Routledge.
-* Benn, Stanley, 1988. _A Theory of Freedom_, Cambridge: Cambridge University Press.
+* Alcoff, Linda Martin, 2006. *Visible Identities: Race, Gender and the Self*, Oxford: Oxford University Press.
+* Appiah, Kwame Anthony, 2005. *The Ethics of Identity*, Princeton: Princeton University Press.
+* –––, 2010. *Cosmopolitanism: Ethics in a World of Strangers*, New York: Norton.
+* Arneson, Richard, 1991. “Autonomy and Preference Formation,” in Jules Coleman and Allen Buchanan (eds.), *In Harm’s Way: Essays in Honor of Joel Feinberg*, Cambridge: Cambridge University Press, pp. 42–73.
+* –––, 1999. “What, if Anything, Renders All Humans Morally Equal?,” in D. Jamieson (ed.), *Singer and his Critics*, Oxford: Blackwell, pp. 103–28.
+* Arpaly, Nomy, 2004. *Unprincipled Virtue*, New York: Oxford University Press.
+* Baumann, Holgar, 2008. “Reconsidering Relational Autonomy. Personal Autonomy for Socially Embedded and Temporally Extended Selves,” *Analyse and Kritik*, 30: 445–468.
+* Bell, Daniel, 1993. *Communitarianism and its Critics*, Oxford: Clarendon.
+* Benhabib, Seyla, 1992. *Situating the Self: Gender, Community and Postmodernism in Contemporary Ethics*, New York: Routledge.
+* Benn, Stanley, 1988. *A Theory of Freedom*, Cambridge: Cambridge University Press.
 * Benson, Paul, 2005. “Feminist Intuitions and the Normative Substance of Autonomy,” in J.S. Taylor (ed.), pp. 124–42.
-* –––, 1994. “Autonomy and Self-Worth,” _Journal of Philosophy_, 91(12): 650–668.
-* –––, 1990. “Feminist Second Thoughts About Free Agency,” _Hypatia_, 5(3): 47–64.
-* –––, 1987. “Freedom and Value,” _Journal of Philosophy_, 84(9): 465–86.
-* Berlin, Isaiah, 1969. “Two Concepts of Liberty,” in _Four Essays on Liberty_, London: Oxford University Press, pp. 118–72.
-* Berofsky, Bernard, 1995. _Liberation from Self_, New York: Cambridge University Press.
-* Brighouse, Harry, 2000. _School Choice and Social Justice_, Oxford: Oxford University Press.
-* Brown, Wendy, 1995. _States of Injury: Power and Freedom in Late Modernity_, Princeton, NJ: Princeton University Press.
-* Bushnell, Dana (ed.), 1995. _Nagging Questions_, Savage, MD: Rowman & Littlefield.
-* Butler, Judith, 1990. _Gender Trouble: Feminism and the Subversion of Identity_, New York: Routledge.
-* Christiano, Thomas, 1996. _The Rule of the Many: Fundamental Issues in Democratic Theory_, Boulder, CO: Westview Press.
-* Christiano, Thomas and John Christman (eds.), 2009. _Contemporary Debates in Political Philosophy_, Oxford: Wiley-Blackwell.
-* Christman, John, 1991. “Autonomy and Personal History,” _Canadian Journal of Philosophy_, 21(1): 1–24.
+* –––, 1994. “Autonomy and Self-Worth,” *Journal of Philosophy*, 91(12): 650–668.
+* –––, 1990. “Feminist Second Thoughts About Free Agency,” *Hypatia*, 5(3): 47–64.
+* –––, 1987. “Freedom and Value,” *Journal of Philosophy*, 84(9): 465–86.
+* Berlin, Isaiah, 1969. “Two Concepts of Liberty,” in *Four Essays on Liberty*, London: Oxford University Press, pp. 118–72.
+* Berofsky, Bernard, 1995. *Liberation from Self*, New York: Cambridge University Press.
+* Brighouse, Harry, 2000. *School Choice and Social Justice*, Oxford: Oxford University Press.
+* Brown, Wendy, 1995. *States of Injury: Power and Freedom in Late Modernity*, Princeton, NJ: Princeton University Press.
+* Bushnell, Dana (ed.), 1995. *Nagging Questions*, Savage, MD: Rowman & Littlefield.
+* Butler, Judith, 1990. *Gender Trouble: Feminism and the Subversion of Identity*, New York: Routledge.
+* Christiano, Thomas, 1996. *The Rule of the Many: Fundamental Issues in Democratic Theory*, Boulder, CO: Westview Press.
+* Christiano, Thomas and John Christman (eds.), 2009. *Contemporary Debates in Political Philosophy*, Oxford: Wiley-Blackwell.
+* Christman, John, 1991. “Autonomy and Personal History,” *Canadian Journal of Philosophy*, 21(1): 1–24.
 * –––, 1995. “Feminism and Autonomy,” in Bushnell (ed.), pp. 17–39.
-* –––, 2017. _Social and Political Philosophy: A Contemporary Introduction_, 2nd ed. London: Routledge.
-* –––, 2009. _The Politics of Persons: Individual Autonomy and Socio-historical Selves_, Cambridge: Cambridge University Press.
-* –––, 2015. “Autonomy and Liberalism: A Troubled Marriage?” in Steven Wall (ed.), _The Cambridge Companion to Liberalism_, Cambridge: Cambridge University Press, pp.141–62.
-* ––– (ed.), 1989. _The Inner Citadel: Essays on Individual Autonomy_, New York: Oxford University Press.
-* Christman, John and Joel Anderson (eds.), 2005. _Autonomy and the Challenges to Liberalism: New Essays_, New York: Cambridge University Press.
-* Cochran, David, 1999. _The Color of Freedom_, Albany, NY: SUNY Press.
-* Coburn, Ben, 2010. _Autonomy and Liberalism_, New York: Routledge.
-* Code, Lorraine, 1991. “Second Persons,” in _What Can She Know? Feminist Theory and the Construction of Knowledge_, Lanham, MD: Rowman and Littlefield.
+* –––, 2017. *Social and Political Philosophy: A Contemporary Introduction*, 2nd ed. London: Routledge.
+* –––, 2009. *The Politics of Persons: Individual Autonomy and Socio-historical Selves*, Cambridge: Cambridge University Press.
+* –––, 2015. “Autonomy and Liberalism: A Troubled Marriage?” in Steven Wall (ed.), *The Cambridge Companion to Liberalism*, Cambridge: Cambridge University Press, pp.141–62.
+* ––– (ed.), 1989. *The Inner Citadel: Essays on Individual Autonomy*, New York: Oxford University Press.
+* Christman, John and Joel Anderson (eds.), 2005. *Autonomy and the Challenges to Liberalism: New Essays*, New York: Cambridge University Press.
+* Cochran, David, 1999. *The Color of Freedom*, Albany, NY: SUNY Press.
+* Coburn, Ben, 2010. *Autonomy and Liberalism*, New York: Routledge.
+* Code, Lorraine, 1991. “Second Persons,” in *What Can She Know? Feminist Theory and the Construction of Knowledge*, Lanham, MD: Rowman and Littlefield.
 * Cohen, Joshua, 1996. “Procedure and Substance in Deliberative Democracy,” in Benhabib (ed.), pp. 95–119.
-* –––, 2002. “Deliberation and Democratic Legitimacy,” in James Bohman and William Rehg, eds., _Deliberative Democracy_, Cambridge, MA: MIT Press, pp. 67–92.
-* Conly, Sarah, 2013. _Against Autonomy: Justifying Coercive Paternalism_, Cambridge: Cambridge University Press.
-* Cornell, Drucilla, 1998. _At the Heart of Freedom_, Princeton, NJ: Princeton University Press.
-* Crittenden, Jack, 1992. _Beyond Individualism: Reconstituting the Liberal Self_, New York: Oxford University Press.
-* Crocker, Lawrence, 1980. _Positive Liberty_, The Hague: Martinus Nijhoff.
-* Cuypers, Stefaan, 2001. _Self-Identity and Personal Autonomy_, Hampshire, UK: Ashgate.
-* Cuypers, Stefaan E. and Ishtiyaque Haji, 2008. “Educating for Well-Being and Autonomy,” _Theory and Research in Education_, 6(1): 71–93.
-* de Calleja, Mirja Perez, 2019. “Autonomy and Indoctrinaiton: Why We Need an Emotional Condition for Autonomous Reflective Endorsement,” _Social Philosophy and Policy_, 36(1): 192–210.
-* Double, Richard, 1992. “Two Types of Autonomy Accounts,” _Canadian Journal of Philosophy_, 22(1): 65–80.
-* Dworkin, Gerald, 1988. _The Theory and Practice of Autonomy_, New York: Cambridge University Press.
-* Dworkin, Ronald, 2000. _Sovereign Virtue: The Theory and Practice of Equality_, Cambridge, MA: Harvard University Press.
-* Elster, Jon, 1983. _Sour Grapes_, Cambridge: Cambridge University Press.
-* Feinberg, Joel, 1986. _Harm to Self. The Moral Limits of the Criminal Law_ (Volume 3), Oxford: Oxford University Press.
+* –––, 2002. “Deliberation and Democratic Legitimacy,” in James Bohman and William Rehg, eds., *Deliberative Democracy*, Cambridge, MA: MIT Press, pp. 67–92.
+* Conly, Sarah, 2013. *Against Autonomy: Justifying Coercive Paternalism*, Cambridge: Cambridge University Press.
+* Cornell, Drucilla, 1998. *At the Heart of Freedom*, Princeton, NJ: Princeton University Press.
+* Crittenden, Jack, 1992. *Beyond Individualism: Reconstituting the Liberal Self*, New York: Oxford University Press.
+* Crocker, Lawrence, 1980. *Positive Liberty*, The Hague: Martinus Nijhoff.
+* Cuypers, Stefaan, 2001. *Self-Identity and Personal Autonomy*, Hampshire, UK: Ashgate.
+* Cuypers, Stefaan E. and Ishtiyaque Haji, 2008. “Educating for Well-Being and Autonomy,” *Theory and Research in Education*, 6(1): 71–93.
+* de Calleja, Mirja Perez, 2019. “Autonomy and Indoctrinaiton: Why We Need an Emotional Condition for Autonomous Reflective Endorsement,” *Social Philosophy and Policy*, 36(1): 192–210.
+* Double, Richard, 1992. “Two Types of Autonomy Accounts,” *Canadian Journal of Philosophy*, 22(1): 65–80.
+* Dworkin, Gerald, 1988. *The Theory and Practice of Autonomy*, New York: Cambridge University Press.
+* Dworkin, Ronald, 2000. *Sovereign Virtue: The Theory and Practice of Equality*, Cambridge, MA: Harvard University Press.
+* Elster, Jon, 1983. *Sour Grapes*, Cambridge: Cambridge University Press.
+* Feinberg, Joel, 1986. *Harm to Self. The Moral Limits of the Criminal Law* (Volume 3), Oxford: Oxford University Press.
 * –––, 1989. “Autonomy,” in Christman, (ed.), pp. 27–53.
-* Fischer, John Martin (ed.), 1986. _Moral Responsibility_, Ithaca, NY: Cornell University Press.
-* Fischer, John Martin and Mark Ravizza, 1998. _Responsibility and Control: A Theory of Moral Responsibility_, New York: Cambridge University Press.
-* Flathman, Richard, 1989. _Toward A Liberalism_, Ithaca: Cornell University Press.
-* Frankfurt, Harry, 1987. “Freedom of the Will and the Concept of a Person,” in _The Importance of What We Care About_, Cambridge: Cambridge University Press, p.11–25.
-* –––, 1992. “The Faintest Passion,” _Proceedings and Addresses of the Aristotelian Society_, 49: 113–45.
-* Freyenhagen, Fabian, 2017. “Autonomy’s Substance,” _Journal of Applied Philosophy_, 34(1): 114–129.
-* Friedman, Marilyn, 1986. “Autonomy and the Split-Level Self,” _Southern Journal of Philosophy_, 24(1): 19–35.
+* Fischer, John Martin (ed.), 1986. *Moral Responsibility*, Ithaca, NY: Cornell University Press.
+* Fischer, John Martin and Mark Ravizza, 1998. *Responsibility and Control: A Theory of Moral Responsibility*, New York: Cambridge University Press.
+* Flathman, Richard, 1989. *Toward A Liberalism*, Ithaca: Cornell University Press.
+* Frankfurt, Harry, 1987. “Freedom of the Will and the Concept of a Person,” in *The Importance of What We Care About*, Cambridge: Cambridge University Press, p.11–25.
+* –––, 1992. “The Faintest Passion,” *Proceedings and Addresses of the Aristotelian Society*, 49: 113–45.
+* Freyenhagen, Fabian, 2017. “Autonomy’s Substance,” *Journal of Applied Philosophy*, 34(1): 114–129.
+* Friedman, Marilyn, 1986. “Autonomy and the Split-Level Self,” *Southern Journal of Philosophy*, 24(1): 19–35.
 * –––, 1997. “Autonomy and Social Relationships: Rethinking the Feminist Critique,” in Meyers, (ed.), pp. 40–61.
-* –––, 1998. “Feminism, Autonomy, and Emotion,” in _Norms and Values: Essays on the Work of Virginia Held_, Joram Graf Haber,(ed.), pp.37–45.
+* –––, 1998. “Feminism, Autonomy, and Emotion,” in *Norms and Values: Essays on the Work of Virginia Held*, Joram Graf Haber,(ed.), pp.37–45.
 * –––, 2000. “Autonomy, Social Disruption, and Women,” in MacKenzie and Stoljar, (eds.), pp. 35–51.
-* Gaus, Gerald F., 1996. _Justificatory Liberalism_, New York: Oxford University Press
-* –––, 2010. _The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World_, Cambridge: Cambridge University Press.
-* Geuss, Raymond, 2001. “Liberalism and Its Discontents,” _Political Theory_, 30(3): 320–39.
-* Gilligan, Carol, 1982. _In a Different Voice: Psychological Theory and Women’s Development_, Cambridge, MA: Harvard University Press.
-* Gould, Carol, 1988. _Rethinking Democracy: Freedom and Social Cooperation in Politics, Economy, and Society_, Cambridge: Cambridge University Press.
-* Gray, John, 1993. _Post-Liberalism: Studies in Political Thought_, New York: Routledge.
-* Griffin, James, 1988. _Well-Being: Its Meaning, Measurement and Moral Importance_, Oxford: Oxford University Press.
-* Grovier, Trudy, 1993. “Self-Trust, Autonomy and Self-Esteem,” _Hypatia_, 8(1): 99–119.
-* Gutman, Amy, 1985. “Communitarian Critics of Liberalism,” _Philosophy and Public Affairs_, 14(3): 308–22.
-* –––, 1987. _Democratic Education_, Princeton, NJ: Princeton University Press.
-* –––, 1993. “Democracy,” in Robert Goodin and Philip Pettit (eds.), _A Companion to Contemporary Political Philosophy_, Oxford: Blackwell Publishers, pp. 411–21.
-* Habermas, Jürgen, 1994. _Between Facts and Norms_, William Rehg (trans.), Cambridge, MA: MIT Press.
-* Haworth, Lawrence, 1986. _Autonomy: An Essay in Philosophical Psychology and Ethics_, New Haven: Yale University Press.
-* Herman, Barbara, 1993. _The Practice of Moral Judgement_, Cambridge, MA: Harvard University Press.
+* Gaus, Gerald F., 1996. *Justificatory Liberalism*, New York: Oxford University Press
+* –––, 2010. *The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World*, Cambridge: Cambridge University Press.
+* Geuss, Raymond, 2001. “Liberalism and Its Discontents,” *Political Theory*, 30(3): 320–39.
+* Gilligan, Carol, 1982. *In a Different Voice: Psychological Theory and Women’s Development*, Cambridge, MA: Harvard University Press.
+* Gould, Carol, 1988. *Rethinking Democracy: Freedom and Social Cooperation in Politics, Economy, and Society*, Cambridge: Cambridge University Press.
+* Gray, John, 1993. *Post-Liberalism: Studies in Political Thought*, New York: Routledge.
+* Griffin, James, 1988. *Well-Being: Its Meaning, Measurement and Moral Importance*, Oxford: Oxford University Press.
+* Grovier, Trudy, 1993. “Self-Trust, Autonomy and Self-Esteem,” *Hypatia*, 8(1): 99–119.
+* Gutman, Amy, 1985. “Communitarian Critics of Liberalism,” *Philosophy and Public Affairs*, 14(3): 308–22.
+* –––, 1987. *Democratic Education*, Princeton, NJ: Princeton University Press.
+* –––, 1993. “Democracy,” in Robert Goodin and Philip Pettit (eds.), *A Companion to Contemporary Political Philosophy*, Oxford: Blackwell Publishers, pp. 411–21.
+* Habermas, Jürgen, 1994. *Between Facts and Norms*, William Rehg (trans.), Cambridge, MA: MIT Press.
+* Haworth, Lawrence, 1986. *Autonomy: An Essay in Philosophical Psychology and Ethics*, New Haven: Yale University Press.
+* Herman, Barbara, 1993. *The Practice of Moral Judgement*, Cambridge, MA: Harvard University Press.
 * Hill, Thomas, 1987. “The Importance of Autonomy,” in Kittay and Meyers (eds.), pp. 129–38.
 * –––, 1989. “The Kantian Conception of Autonomy,” in Christman (ed.), pp. 91–105.
-* –––, 1991. _Autonomy and Self Respect_, New York: Cambridge University Press.
-* Hirschmann, Nancy, 2002. _The Subject of Freedom: Toward A Feminist Theory of Freedom_, Princeton, NJ: Princeton University Press.
-* Hurka, Thomas, 1993. _Perfectionism_, New York: Oxford University Press.
-* Jaggar, Alison, 1983. _Feminist Politics and Human Nature_, Totowa, NJ: Rowman and Allanheld.
-* Kant, Immanuel, 1785 \[1983]. _Grounding for the Metaphysics of Morals_, in I. Kant , _Ethical Philosophy_, James W. Ellington (trans.), Indianapolis, IA: Hackett Publishing Co.
-* –––, 1797 \[1999]. _Metaphysical Elements of Justice_, John Ladd (ed.), Indianapolis, IN: Hackett.
-* Kernohan, Andrew, 1999. _Liberalism, Equality, and Cultural Oppression_, New York: Cambridge University Press.
-* Khader, Serene, 2011. _Adaptive Preferences and Women’s Empowerment_, Oxford: Oxford University Press.
-* Killmister, Suzy, 2017. _Taking the Measure of Autonomy: A Four-Dimensional Theory of Self-Governance_, New York: Routledge.
-* Kittay, Eva Feder and Diana T. Meyers, 1987. _Women and Moral Theory_, Savage, MD: Rowman and Littlefield.
-* Kleingeld, Pauline and Marcus Willaschek, 2019. “Autonomy Without Paradox: Kant, Self-Legislation and the Moral Law,” _Philosophers’ Imprint_, 19(7): 1–18.
-* Korsgaard, Christine M., 2014. “The Normative Constitution of Agency,” in Manuel Vargas and Gideon Yaffe (eds.), _Rational and Social Agency: The Philosophy of Michael Bratman_, New York: Oxford University Press, pp. 190–214.
-* –––, 1996. _The Sources of Normativity_, New York: Cambridge University Press.
-* Kymlicka, Will, 1989. _Liberalism, Community and Culture_, Oxford: Clarendon.
-* Lakoff, Sanford, 1996. _Democracy: History, Theory, Practice_, Boulder, CO: Westview Press.
-* Larmore, Charles, 2008. _The Autonomy of Morality_, Cambridge: Cambridge University Press.
-* Lehrer, Keith, 1997. _Self-Trust: A Study in Reason, Knowledge, and Autonomy_, Oxford: Oxford University Press.
-* MacIntyre, Alasdair, 1984. _After Virtue_, Notre Dame, IN: University of Notre Dame Press.
-* Mackenzie, Catriona, 2008. “Relational Autonomy, Normative Authority and Perfectionism,” _Journal of Social Philosophy_, 39(4): 512–33.
+* –––, 1991. *Autonomy and Self Respect*, New York: Cambridge University Press.
+* Hirschmann, Nancy, 2002. *The Subject of Freedom: Toward A Feminist Theory of Freedom*, Princeton, NJ: Princeton University Press.
+* Hurka, Thomas, 1993. *Perfectionism*, New York: Oxford University Press.
+* Jaggar, Alison, 1983. *Feminist Politics and Human Nature*, Totowa, NJ: Rowman and Allanheld.
+* Kant, Immanuel, 1785 \[1983]. *Grounding for the Metaphysics of Morals*, in I. Kant , *Ethical Philosophy*, James W. Ellington (trans.), Indianapolis, IA: Hackett Publishing Co.
+* –––, 1797 \[1999]. *Metaphysical Elements of Justice*, John Ladd (ed.), Indianapolis, IN: Hackett.
+* Kernohan, Andrew, 1999. *Liberalism, Equality, and Cultural Oppression*, New York: Cambridge University Press.
+* Khader, Serene, 2011. *Adaptive Preferences and Women’s Empowerment*, Oxford: Oxford University Press.
+* Killmister, Suzy, 2017. *Taking the Measure of Autonomy: A Four-Dimensional Theory of Self-Governance*, New York: Routledge.
+* Kittay, Eva Feder and Diana T. Meyers, 1987. *Women and Moral Theory*, Savage, MD: Rowman and Littlefield.
+* Kleingeld, Pauline and Marcus Willaschek, 2019. “Autonomy Without Paradox: Kant, Self-Legislation and the Moral Law,” *Philosophers’ Imprint*, 19(7): 1–18.
+* Korsgaard, Christine M., 2014. “The Normative Constitution of Agency,” in Manuel Vargas and Gideon Yaffe (eds.), *Rational and Social Agency: The Philosophy of Michael Bratman*, New York: Oxford University Press, pp. 190–214.
+* –––, 1996. *The Sources of Normativity*, New York: Cambridge University Press.
+* Kymlicka, Will, 1989. *Liberalism, Community and Culture*, Oxford: Clarendon.
+* Lakoff, Sanford, 1996. *Democracy: History, Theory, Practice*, Boulder, CO: Westview Press.
+* Larmore, Charles, 2008. *The Autonomy of Morality*, Cambridge: Cambridge University Press.
+* Lehrer, Keith, 1997. *Self-Trust: A Study in Reason, Knowledge, and Autonomy*, Oxford: Oxford University Press.
+* MacIntyre, Alasdair, 1984. *After Virtue*, Notre Dame, IN: University of Notre Dame Press.
+* Mackenzie, Catriona, 2008. “Relational Autonomy, Normative Authority and Perfectionism,” *Journal of Social Philosophy*, 39(4): 512–33.
 * –––, 2014. “Three Dimensions of Autonomy: A Relational Analysis,” in Veltman and Piper (eds.),pp. 15–41.
-* Mackenzie, Catriona, and Natalie Stoljar (eds.), 2000a. _Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self_, New York: Oxford University Press.
+* Mackenzie, Catriona, and Natalie Stoljar (eds.), 2000a. *Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self*, New York: Oxford University Press.
 * –––, 2000b. “Introduction: Autonomy Refigured,” in Mackenzie and Stoljar (eds.), pp. 3–31.
-* MacKinnon, Catherine, 1989. _Toward a Feminist Theory of the State_, Cambridge, MA: Harvard University Press.
-* Mahmoud, Saba, 2005. _The Politics of Piety: The Islamic Revival and the Feminist Subject_, Princeton, NJ: Princeton University Press.
-* Margalit, Avashai and Joseph Raz, 1990. “National Self-Determination,” _Journal of Philosophy_, 87(9): 439–61.
-* May, Thomas, 1994. “The Concept of Autonomy,” _American Philosophical Quarterly_, 31(2): 133–44.
-* McCallum, Gerald, 1967. “Negative and Positive Freedom,” _Philosophical Review_, 76: 312–34.
+* MacKinnon, Catherine, 1989. *Toward a Feminist Theory of the State*, Cambridge, MA: Harvard University Press.
+* Mahmoud, Saba, 2005. *The Politics of Piety: The Islamic Revival and the Feminist Subject*, Princeton, NJ: Princeton University Press.
+* Margalit, Avashai and Joseph Raz, 1990. “National Self-Determination,” *Journal of Philosophy*, 87(9): 439–61.
+* May, Thomas, 1994. “The Concept of Autonomy,” *American Philosophical Quarterly*, 31(2): 133–44.
+* McCallum, Gerald, 1967. “Negative and Positive Freedom,” *Philosophical Review*, 76: 312–34.
 * McLeod, Carolyn and Susan Sherwin, 2000. “Relational Autonomy, Self-Trust, and Health Care for Patients Who Are Oppressed,” in MacKenzie and Stoljar (eds.), pp. 259–79.
-* Mele, Alfred R., 1991. “History and Personal Autonomy,” _Canadian Journal of Philosophy_, 23: 271–80.
-* –––, 1995. _Autonomous Agents: From Self-Control to Autonomy_, New York: Oxford University Press.
-* Meyers, Diana T., 1987. “Personal Autonomy and the Paradox of Feminine Socialization,” _Journal of Philosophy_, 84: 619–28.
-* –––, 1989. _Self, Society, and Personal Choice_, New York: Columbia University Press.
-* –––, 1994. _Subjection and Subjectivity: Psychoanalytic Feminism and Moral Philosophy_, New York: Routledge.
-* ––– (ed.), 1997. _Feminist Rethink the Self_, Boulder, CO: Westview Press.
-* –––, 2004. _Being Yourself: Essays on Identity, Action, and Social Life_, Lanham, MD: Rowman and Littlefield.
-* Mill, John Stuart, 1859 \[1975]. _On Liberty_, David Spitz (ed.), New York: Norton.
-* Mills, Charles, 1997. _The Racial Contract_, Ithaca, NY: Cornell University Press.
-* –––, 2005. “‘Ideal Theory’ as Ideology,” _Hypatia_, 20(3): 165–83.
-* Moon, J. Donald, 1993. _Constructing Community: Moral Pluralism and Tragic Conflicts_, Princeton, NJ: Princeton University Press.
-* Nedelsky, Jennifer, 1989. “Reconcieving Autonomy: Sources, Thoughts, and Possibilities,” _Yale Journal of Law and Feminism_, 1(1): 7–36.
-* Nicholson, Linda (ed.), 1990. _Feminism/Postmodernism_, New York: Routledge.
+* Mele, Alfred R., 1991. “History and Personal Autonomy,” *Canadian Journal of Philosophy*, 23: 271–80.
+* –––, 1995. *Autonomous Agents: From Self-Control to Autonomy*, New York: Oxford University Press.
+* Meyers, Diana T., 1987. “Personal Autonomy and the Paradox of Feminine Socialization,” *Journal of Philosophy*, 84: 619–28.
+* –––, 1989. *Self, Society, and Personal Choice*, New York: Columbia University Press.
+* –––, 1994. *Subjection and Subjectivity: Psychoanalytic Feminism and Moral Philosophy*, New York: Routledge.
+* ––– (ed.), 1997. *Feminist Rethink the Self*, Boulder, CO: Westview Press.
+* –––, 2004. *Being Yourself: Essays on Identity, Action, and Social Life*, Lanham, MD: Rowman and Littlefield.
+* Mill, John Stuart, 1859 \[1975]. *On Liberty*, David Spitz (ed.), New York: Norton.
+* Mills, Charles, 1997. *The Racial Contract*, Ithaca, NY: Cornell University Press.
+* –––, 2005. “‘Ideal Theory’ as Ideology,” *Hypatia*, 20(3): 165–83.
+* Moon, J. Donald, 1993. *Constructing Community: Moral Pluralism and Tragic Conflicts*, Princeton, NJ: Princeton University Press.
+* Nedelsky, Jennifer, 1989. “Reconcieving Autonomy: Sources, Thoughts, and Possibilities,” *Yale Journal of Law and Feminism*, 1(1): 7–36.
+* Nicholson, Linda (ed.), 1990. *Feminism/Postmodernism*, New York: Routledge.
 * Noggle, R., 2005. “Autonomy and the Paradox of Self-Creation: Infinite Regresses, Finite Selves, and the Limits of Authenticity,” in J.S. Taylor (ed.), pp. 87–108.
-* O’Neill, Onora, 1989. _Constructions of Reason: Explorations in Kant’s Practical Philosophy_, New York: Cambridge University Press.
-* Oshana, Marina, 1998. “Personal Autonomy and Society,” _Journal of Social Philosophy_, 29(1): 81–102.
-* –––, 2006. _Personal Autonomy in Society_, Hampshire, UK: Ashgate.
+* O’Neill, Onora, 1989. *Constructions of Reason: Explorations in Kant’s Practical Philosophy*, New York: Cambridge University Press.
+* Oshana, Marina, 1998. “Personal Autonomy and Society,” *Journal of Social Philosophy*, 29(1): 81–102.
+* –––, 2006. *Personal Autonomy in Society*, Hampshire, UK: Ashgate.
 * –––, 2005. “Autonomy and Self Identity,” in Christman and Anderson (eds.), pp. 77–100.
-* Pearsall, Marilyn (ed.), 1986. _Women and Values: Readings in Recent Feminist Philosophy_, Belmont, CA: Wadsworth Publishing.
-* Rawls, John, 1971. _A Theory of Justice_, revised ed. (1999) Cambridge, MA: Harvard University Press.
-* –––, 1993. _Political Liberalism_, New York: Columbia University Press.
-* Raz, Joseph, 1986. _The Morality of Freedom_, Oxford: Clarendon.
-* Richardson, Henry, 2003. _Democratic Autonomy: Public Reasoning about the Ends of Policy_, Oxford: Oxford University Press.
-* Ripstein, Arthur, 1999. _Equality, Responsibility, and the Law_, Cambridge: Cambridge University Press.
-* Rosich, Gerard, 2019. _The Contested History of Autonomy: Interpreting European Modernity_, London: Bloomsbury Academic.
-* Sandel, Michael J., 1982. _Liberalism and the Limits of Justice_, Cambridge: Cambridge University Press, 2nd ed., 1999.
-* Schneewind, J. B., 1998. _The Invention of Autonomy_, Cambridge: Cambridge University Press.
-* Sher, George, 1997. _Beyond Neutrality: Perfectionism and Politics_, Cambridge: Cambridge University Press.
+* Pearsall, Marilyn (ed.), 1986. *Women and Values: Readings in Recent Feminist Philosophy*, Belmont, CA: Wadsworth Publishing.
+* Rawls, John, 1971. *A Theory of Justice*, revised ed. (1999) Cambridge, MA: Harvard University Press.
+* –––, 1993. *Political Liberalism*, New York: Columbia University Press.
+* Raz, Joseph, 1986. *The Morality of Freedom*, Oxford: Clarendon.
+* Richardson, Henry, 2003. *Democratic Autonomy: Public Reasoning about the Ends of Policy*, Oxford: Oxford University Press.
+* Ripstein, Arthur, 1999. *Equality, Responsibility, and the Law*, Cambridge: Cambridge University Press.
+* Rosich, Gerard, 2019. *The Contested History of Autonomy: Interpreting European Modernity*, London: Bloomsbury Academic.
+* Sandel, Michael J., 1982. *Liberalism and the Limits of Justice*, Cambridge: Cambridge University Press, 2nd ed., 1999.
+* Schneewind, J. B., 1998. *The Invention of Autonomy*, Cambridge: Cambridge University Press.
+* Sher, George, 1997. *Beyond Neutrality: Perfectionism and Politics*, Cambridge: Cambridge University Press.
 * Stoljar, Natalie, 2000. “Autonomy and the Feminist Intuition,” in Mackenzie and Stoljar (eds.), pp. 94–111.
-* –––, 2017. “Relational Autonomy and Perfectionism,” _Moral Philosophy and Politics_, 4(1): 27–41.
-* Sumner, L. W., 1996. _Welfare, Happiness and Ethics_, New York: Oxford University Press.
-* Swaine, Lucas, 2016. “The Origins of Autonomy,” _History of Political Thought_, 37(2): 216–237.
-* Tamir, Yael, 1993. _Liberal Nationalism_, Princeton, NJ: Princeton University Press.
+* –––, 2017. “Relational Autonomy and Perfectionism,” *Moral Philosophy and Politics*, 4(1): 27–41.
+* Sumner, L. W., 1996. *Welfare, Happiness and Ethics*, New York: Oxford University Press.
+* Swaine, Lucas, 2016. “The Origins of Autonomy,” *History of Political Thought*, 37(2): 216–237.
+* Tamir, Yael, 1993. *Liberal Nationalism*, Princeton, NJ: Princeton University Press.
 * Taylor, Charles, 1989. “Cross-Purposes: The Liberal-Communitarian Debate,” in Rosenblum (ed.), pp. 159–82.
-* –––, 1991. _The Ethics of Authenticity_, Cambridge, MA: Harvard University Press.
-* –––, 1992. _Multiculturalism and the “Politics of Recognition”_, Princeton, NJ: Princeton University Press.
-* Taylor, James Stacey (ed.), 2005. _Personal Autonomy: New Essays on Personal Autonomy and Its Role in Contemporary Moral Philosophy_, Cambridge: Cambridge University Press.
-* Taylor, Robert, 2005. “Kantian Personal Autonomy,” _Political Theory_, 33(5): 602–628.
+* –––, 1991. *The Ethics of Authenticity*, Cambridge, MA: Harvard University Press.
+* –––, 1992. *Multiculturalism and the “Politics of Recognition”*, Princeton, NJ: Princeton University Press.
+* Taylor, James Stacey (ed.), 2005. *Personal Autonomy: New Essays on Personal Autonomy and Its Role in Contemporary Moral Philosophy*, Cambridge: Cambridge University Press.
+* Taylor, Robert, 2005. “Kantian Personal Autonomy,” *Political Theory*, 33(5): 602–628.
 * Thalberg, Irving, 1989. “Hierarchical Analyses of Unfree Action,” reprinted in Christman (ed.), pp. 123–136.
-* Veltman, Andrea and Mark Piper (eds.), 2014. _Autonomy, Oppression, and Gender,_ Oxford: Oxford University Press.
-* Waldron, Jeremy, 1993. _Liberal Rights: Collected Papers 1981–1991_, New York: Cambridge University Press.
-* Wall, Steven, 1998. _Liberalism, Perfectionism and Restraint_, New York: Cambridge University Press.
+* Veltman, Andrea and Mark Piper (eds.), 2014. *Autonomy, Oppression, and Gender,* Oxford: Oxford University Press.
+* Waldron, Jeremy, 1993. *Liberal Rights: Collected Papers 1981–1991*, New York: Cambridge University Press.
+* Wall, Steven, 1998. *Liberalism, Perfectionism and Restraint*, New York: Cambridge University Press.
 * –––, 2009. “Perfectionism in Politics: A Defense,” in Christiano and Christman (eds.), pp. 99–118.
 * Westlund, Andrea, 2014. “Autonomy and Self-Care,” in Veltman and Piper (eds.), pp. 181–98.
-* White, Stephen, 1991. _Political Theory and Post Modernism_ Cambridge: Cambridge University Press.
-* Williams, Bernard, 1985. _Ethics and the Limits of Philosophy_, Cambridge, MA: Harvard University Press.
-* Wolf, Susan, 1990. _Freedom and Reason_, New York: Oxford University Press.
-* Wolff, Robert Paul, 1970. _In Defense of Anarchism_, New York: Harper & Row.
-* Young, Iris Marion, 1990. _Justice and the Politics of Difference_, Princeton, NJ: Princeton University Press.
-* –––, 2000. _Inclusion and Democracy_, Oxford: Oxford University Press.
-* Young, Robert, 1986. _Autonomy: Beyond Negative and Positive Liberty_, New York: St. Martin’s Press.
-* –––, 2000. _Inclusion and Democracy_, Oxford: Oxford University Press.
-* Young, Robert, 1986. _Autonomy: Beyond Negative and Positive Liberty_, New York: St. Martin’s Press.
+* White, Stephen, 1991. *Political Theory and Post Modernism* Cambridge: Cambridge University Press.
+* Williams, Bernard, 1985. *Ethics and the Limits of Philosophy*, Cambridge, MA: Harvard University Press.
+* Wolf, Susan, 1990. *Freedom and Reason*, New York: Oxford University Press.
+* Wolff, Robert Paul, 1970. *In Defense of Anarchism*, New York: Harper & Row.
+* Young, Iris Marion, 1990. *Justice and the Politics of Difference*, Princeton, NJ: Princeton University Press.
+* –––, 2000. *Inclusion and Democracy*, Oxford: Oxford University Press.
+* Young, Robert, 1986. *Autonomy: Beyond Negative and Positive Liberty*, New York: St. Martin’s Press.
+* –––, 2000. *Inclusion and Democracy*, Oxford: Oxford University Press.
+* Young, Robert, 1986. *Autonomy: Beyond Negative and Positive Liberty*, New York: St. Martin’s Press.
 
 ## Academic Tools
 
@@ -357,11 +357,11 @@ _首次发布于 2003 年 7 月 28 日；实质性修订于 2020 年 6 月 29 �
 
 ## Other Internet Resources
 
-* [Autonomy](http://journals.cambridge.org/action/displayIssue?decade=2000\&jid=SOY\&volumeId=20\&issueId=02\&iid=191518), list of articles in the special issue (Vol. 20, No. 2, 2003) of _Social Philosophy & Policy_
+* [Autonomy](http://journals.cambridge.org/action/displayIssue?decade=2000\&jid=SOY\&volumeId=20\&issueId=02\&iid=191518), list of articles in the special issue (Vol. 20, No. 2, 2003) of *Social Philosophy & Policy*
 
 ## Related Entries
 
 [autonomy: personal](https://plato.stanford.edu/entries/personal-autonomy/) | [communitarianism](https://plato.stanford.edu/entries/communitarianism/) | [feminist philosophy, topics: perspectives on the self](https://plato.stanford.edu/entries/feminism-self/) | [free will](https://plato.stanford.edu/entries/freewill/) | [identity politics](https://plato.stanford.edu/entries/identity-politics/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [paternalism](https://plato.stanford.edu/entries/paternalism/) | [privacy](https://plato.stanford.edu/entries/privacy/) | [well-being](https://plato.stanford.edu/entries/well-being/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-John Christman <[_jpc11@psu.edu_](mailto:jpc11%40psu%2eedu)>
+John Christman <[*jpc11@psu.edu*](mailto:jpc11%40psu%2eedu)>

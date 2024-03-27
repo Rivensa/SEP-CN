@@ -41,7 +41,7 @@
 
 尽管可以说，概念艺术在其最纯粹的形式下可能仅限于半个世纪前的这五六年间创作的作品，但从哲学的角度来看，仅将我们的研究范围限制在那个时期的作品中似乎过于狭隘。因为尽管那个时期创作的作品通常被认为比后来的概念艺术更直接地反对体制和消费主义，但早期概念艺术的精神似乎在二十世纪末和二十一世纪初得以相对纯粹地延续，正如特蕾西·埃明的《未做床》、达米安·赫斯特的《活着的人脑中死亡的不可能性》和艾未未的《监控摄像头》所证明的那样。
 
-概念艺术敦促我们进行的知识探索具有高度个体化的特点，以至于任何试图找到除了这种对艺术、创作和整个社会的一般愿景和方法之外的特定共同点的尝试都无法捕捉到其本质。据说，艺术表达的方式是无限的，可供质疑和讨论的主题是无限的。因此，概念艺术的本质就像刘易斯的柴郡猫一样，难以捉摸和滑溜。无论是约瑟夫·博伊斯还是玛丽娜·阿布拉莫维奇，概念艺术家们都以_每一种_可能的方式追求艺术的独创性和表现形式。因此，我们可能会发现自己不得不放弃那种稍微高傲的陈词滥调，即概念艺术的定义就像概念艺术家的数量一样多，而采取更极端的说法，即概念艺术的定义就像概念艺术作品的数量一样多。
+概念艺术敦促我们进行的知识探索具有高度个体化的特点，以至于任何试图找到除了这种对艺术、创作和整个社会的一般愿景和方法之外的特定共同点的尝试都无法捕捉到其本质。据说，艺术表达的方式是无限的，可供质疑和讨论的主题是无限的。因此，概念艺术的本质就像刘易斯的柴郡猫一样，难以捉摸和滑溜。无论是约瑟夫·博伊斯还是玛丽娜·阿布拉莫维奇，概念艺术家们都以*每一种*可能的方式追求艺术的独创性和表现形式。因此，我们可能会发现自己不得不放弃那种稍微高傲的陈词滥调，即概念艺术的定义就像概念艺术家的数量一样多，而采取更极端的说法，即概念艺术的定义就像概念艺术作品的数量一样多。
 
 然而，在这种有意制造的关于概念艺术本质的不确定性中，一些特征和普遍目标似乎不断重复出现，尽管它们不应被视为严格意义上的概念艺术的标准，但它们可以被认为是（大多数）概念艺术的基本原则。
 
@@ -57,7 +57,7 @@
 
 ### 1.4 概念艺术作为思想
 
-概念艺术最根本的修正特征在于它宣称自己是一种思想而非感官的艺术：它拒绝传统的艺术媒介，因为它将艺术作品定位在_思想_而非_物体_的层面上。由于更多的重视创造过程而非物质材料，以及艺术应该关注知识探索和反思而非美感和审美愉悦（如传统所认为的），艺术作品的身份被认为在于所涉及作品核心的思想。用 Kosuth 的话来说，‘\[t]he actual works of art are ideas’（Lippard 1973, 25）。对于概念艺术来说，‘the idea or concept is the most important aspect of the work’（LeWitt 1967, 166）。艺术被‘去物质化’，在这个意义上，它被认为是在任何给定物体中实现之前的存在。
+概念艺术最根本的修正特征在于它宣称自己是一种思想而非感官的艺术：它拒绝传统的艺术媒介，因为它将艺术作品定位在*思想*而非*物体*的层面上。由于更多的重视创造过程而非物质材料，以及艺术应该关注知识探索和反思而非美感和审美愉悦（如传统所认为的），艺术作品的身份被认为在于所涉及作品核心的思想。用 Kosuth 的话来说，‘\[t]he actual works of art are ideas’（Lippard 1973, 25）。对于概念艺术来说，‘the idea or concept is the most important aspect of the work’（LeWitt 1967, 166）。艺术被‘去物质化’，在这个意义上，它被认为是在任何给定物体中实现之前的存在。
 
 概念艺术被认为与其潜在的理念相一致的主张具有深远的影响。它不仅影响了概念艺术的本体论，而且深刻改变了艺术家的角色，将她塑造成思想家而非物质创造者。此外，它要求我们彻底审视我们感知、参与和欣赏艺术作品的方式。更进一步，它将艺术与思想和概念紧密联系在一起，以至于在艺术领域和思维领域之间保持原则性的区分似乎很难维持。
 
@@ -83,13 +83,13 @@
 
 定义艺术的问题绝不仅仅是概念艺术所面临的问题。在任何试图形成定义的尝试中，立即出现了两个主要困难。首先，艺术的范畴特别多样。简单来说，似乎有无限种需要归入其管辖范围的事物或种类。其次，对于艺术的任何假定定义，人们的意见也存在很大的多样性。
 
-根据标准概念，定义是为了提供某个事物_x_成为 F 所必需和充分的条件，例如，一个数是偶数的必要和充分条件是它(i)是整数且(ii)可被 2 整除。因此，艺术的定义必须能够概述一组必须满足的清晰条件。
+根据标准概念，定义是为了提供某个事物*x*成为 F 所必需和充分的条件，例如，一个数是偶数的必要和充分条件是它(i)是整数且(ii)可被 2 整除。因此，艺术的定义必须能够概述一组必须满足的清晰条件。
 
-已经有很多尝试以这种方式定义艺术。最显著的是，有人建议艺术应该以其审美特性来定义，大致上，如果_x_引发了审美体验，那么_x_就是艺术作品（例如，Beardsley 1958）。尽管这个具体建议存在困难（我们将在§3.3 中回到这个问题），但概念艺术作为一种深刻革新且难以分类的艺术形式的出现，使得提供适用于_所有_艺术的普遍定义变得特别复杂。因此，不难理解为什么新维特根斯坦主义方法在 20 世纪 50 年代末和 60 年代主导了艺术哲学。借鉴反本质主义语言理论的支持，有人提出艺术是那些在本质上是“本质争议”的各种概念之一（Gallie 1948；参见 Weitz 1956）。也就是说，某些概念（例如与体育相关的概念）根本不允许以必要和充分条件来定义，而艺术最好被理解为其中之一。用 Morris Weitz 的话来说，艺术可能是
+已经有很多尝试以这种方式定义艺术。最显著的是，有人建议艺术应该以其审美特性来定义，大致上，如果*x*引发了审美体验，那么*x*就是艺术作品（例如，Beardsley 1958）。尽管这个具体建议存在困难（我们将在§3.3 中回到这个问题），但概念艺术作为一种深刻革新且难以分类的艺术形式的出现，使得提供适用于*所有*艺术的普遍定义变得特别复杂。因此，不难理解为什么新维特根斯坦主义方法在 20 世纪 50 年代末和 60 年代主导了艺术哲学。借鉴反本质主义语言理论的支持，有人提出艺术是那些在本质上是“本质争议”的各种概念之一（Gallie 1948；参见 Weitz 1956）。也就是说，某些概念（例如与体育相关的概念）根本不允许以必要和充分条件来定义，而艺术最好被理解为其中之一。用 Morris Weitz 的话来说，艺术可能是
 
 一个开放的概念。新的条件不断出现，无疑将不断出现；新的艺术形式，新的运动将出现，这将要求那些感兴趣的人作出决策... 是否应该扩展概念。（Weitz 1956, 32）
 
-因此，提出艺术定义的行为变得不那么严格的概念分析。新维特根斯坦主义者（如 Weitz）提出的替代方法试图确定艺术并解释我们如何区分艺术与非艺术的概念是“家族相似性”的概念（参见维特根斯坦 1953 年，§66-71）。面对问题“_X_是艺术品吗？”，我们应该尝试寻找与典型艺术品的相似之处。如果观察到与这样一个典型案例的显著相似之处，我们可以正确地称我们审查的对象为艺术品。
+因此，提出艺术定义的行为变得不那么严格的概念分析。新维特根斯坦主义者（如 Weitz）提出的替代方法试图确定艺术并解释我们如何区分艺术与非艺术的概念是“家族相似性”的概念（参见维特根斯坦 1953 年，§66-71）。面对问题“*X*是艺术品吗？”，我们应该尝试寻找与典型艺术品的相似之处。如果观察到与这样一个典型案例的显著相似之处，我们可以正确地称我们审查的对象为艺术品。
 
 尽管这个提议很有趣，但也存在一些困难。一个立即出现的问题与相似性的概念有关，它迅速扩展到几乎没有用处。原因很简单，我们总能找到某种方式来说某个给定的事物与其他任何给定的事物相似。需要注意的是，这种开放性与概念艺术的计划并不相符。虽然概念艺术确实认为任何一种物体都可以成为艺术作品，但并不意味着每个物体都是艺术作品。相反，许多概念艺术作品在探索艺术领域与功能和实用领域之间的界限时，在感知上与非艺术作品（如安迪·沃霍尔的“Brillo Boxes”）无法区分。从这个意义上说，概念艺术对于新维特根斯坦方法的识别是一个特别困难的案例。毕竟，沃霍尔的“Brillo Boxes”之所以与其他一堆“Brillo Boxes”不相似的唯一方式是前者是一件艺术作品，而后者不是。在这里，相似性的概念显然没有什么用处。
 
@@ -105,7 +105,7 @@
 
 在第一次实例中，概念艺术驱使我们重新审视一个普遍的假设，即对艺术作品的适当欣赏和参与必须涉及对该作品本身的直接亲身体验。这里的想法，用弗兰克·西布利的话来说，就是
 
-> \[p]eople have to _see_ the grace or unity of a work, _hear_ the plaintiveness or frenzy in the music, _notice_ the gaudiness of colour scheme, _feel_ the power of a novel, its mood, or its uncertainty of tone. They may be struck by these qualities at once, or they may come to perceive them only after repeated viewings, hearings, or readings, and with the help of critics. But unless they do perceive them for themselves, aesthetic enjoyment, appreciation, and judgement are beyond them… the crucial thing is to see, hear, or feel. (Sibley 1965, 137).
+> \[p]eople have to *see* the grace or unity of a work, *hear* the plaintiveness or frenzy in the music, *notice* the gaudiness of colour scheme, *feel* the power of a novel, its mood, or its uncertainty of tone. They may be struck by these qualities at once, or they may come to perceive them only after repeated viewings, hearings, or readings, and with the help of critics. But unless they do perceive them for themselves, aesthetic enjoyment, appreciation, and judgement are beyond them… the crucial thing is to see, hear, or feel. (Sibley 1965, 137).
 
 问题的假设是，尽管我们似乎从看一张葛饰北斋的《美酒清晨》或伊丽莎白·维吉·勒布朗的《草帽自画像》的明信片或海报中获得了一些东西，但对其艺术特性的真正判断需要自己亲身的感知体验。但是 - 这就是概念艺术面临的问题所在 - 如果没有什么东西让我们能够亲身感知呢？在沃尔特·德·玛丽亚的《垂直地球公里》（1977）\[[6](https://plato.stanford.edu/entries/conceptual-art/notes.html#note-6)]这个例子中，一根插入地球表面的长达一公里的金属杆只有顶部可见，亲身的感知体验根本无法获得。更重要的是，与一个基本上声称是一个想法的艺术品进行感知上的互动意味着什么？
 
@@ -117,7 +117,7 @@
 
 ### 3.3 艺术的审美价值
 
-在声称我们需要直接体验艺术作品才能适当地欣赏它的背后，隐藏着这样一个事实：一些与作品价值相关的特性只能通过这种方式来理解。这里所涉及的特性通常是_审美_特性，而推动体验要求的假设是，欣赏艺术作品必然涉及审美元素（即不一定是美_本身_，而是某种审美上令人愉悦或有回报的东西）。
+在声称我们需要直接体验艺术作品才能适当地欣赏它的背后，隐藏着这样一个事实：一些与作品价值相关的特性只能通过这种方式来理解。这里所涉及的特性通常是*审美*特性，而推动体验要求的假设是，欣赏艺术作品必然涉及审美元素（即不一定是美*本身*，而是某种审美上令人愉悦或有回报的东西）。
 
 然而，概念艺术最具区别性的特点之一是，它旨在用语义表达取代插图表达，因此它并不以传统意义上的审美体验为优先。概念艺术旨在成为一种思维的艺术：它通常涉及智力问题，并强调艺术的认知价值而非审美价值。用 Timothy Binkley 的话来说，传统美学关注的是“感知实体”，这导致美学赞美和审视“艺术作品”，几乎完全忽视了我们称之为“艺术”的那个复杂文化活动的无数其他方面（Binkley 1977, 271）。
 
@@ -125,7 +125,7 @@
 
 概念艺术在这个背景下所突出的主要哲学问题是：“艺术真的需要具备审美价值吗？如果需要，又是以何种方式呢？”根据宾克利的观点，并且支持概念艺术，人们不一定要将艺术视为具有审美价值的东西——虽然很多“艺术选择以审美空间的媒介来表达”，但“并没有先验的理由要求艺术必须局限于创造审美对象。它可以选择在语义空间中表达，而不是在审美空间中，这样艺术的意义就不会体现在物理对象或事件中”（宾克利，1977 年，273 页）。
 
-然而，并非每个人都支持审美与艺术之间的这种自由观点\[[7](https://plato.stanford.edu/entries/conceptual-art/notes.html#note-7)]。如果艺术不追求审美价值，那么人们可能会争论，它与非艺术有何区别？在这一点上，人们决定支持哪种观点可能最终成为一个关于定义的问题。如果一个人希望以审美体验来定义艺术，那么问题就有了一个明确的答案，即概念艺术根本不能被视为一种艺术形式。然而，这种立场的不利之处在于，它引发了一系列困扰，涉及到诸如自然或个人等事物，尽管它们引发了审美体验，却很难被视为艺术。如果一个人对这些担忧印象深刻，并且无法找到任何决定性的哲学理由来支持审美观点，那么几乎没有什么可以阻止将艺术概念化为不一定具备审美特征的艺术形式。因此，人们可以将审美价值视为_一种_艺术价值，与道德、宗教、政治、历史和财务价值并列，一些艺术作品具备这种价值，而其他作品则没有\[[8](https://plato.stanford.edu/entries/conceptual-art/notes.html#note-8)]。
+然而，并非每个人都支持审美与艺术之间的这种自由观点\[[7](https://plato.stanford.edu/entries/conceptual-art/notes.html#note-7)]。如果艺术不追求审美价值，那么人们可能会争论，它与非艺术有何区别？在这一点上，人们决定支持哪种观点可能最终成为一个关于定义的问题。如果一个人希望以审美体验来定义艺术，那么问题就有了一个明确的答案，即概念艺术根本不能被视为一种艺术形式。然而，这种立场的不利之处在于，它引发了一系列困扰，涉及到诸如自然或个人等事物，尽管它们引发了审美体验，却很难被视为艺术。如果一个人对这些担忧印象深刻，并且无法找到任何决定性的哲学理由来支持审美观点，那么几乎没有什么可以阻止将艺术概念化为不一定具备审美特征的艺术形式。因此，人们可以将审美价值视为*一种*艺术价值，与道德、宗教、政治、历史和财务价值并列，一些艺术作品具备这种价值，而其他作品则没有\[[8](https://plato.stanford.edu/entries/conceptual-art/notes.html#note-8)]。
 
 现在，即使承认艺术不必具备审美性，仍然有可能认为概念艺术不符合“好”的艺术标准，因为它并不（旨在）产生审美体验。但是，虽然这在概念艺术项目整体上可能是一个可行的立场，但不能用来攻击概念艺术本身。例如，说迈克尔·克雷格-马丁的《一棵橡树》不能被视为伟大的艺术作品，因为它未能产生独特的审美愉悦，实际上并没有削弱这个项目。正如我们现在所知，概念艺术更多地是通过一种载体媒介传达意义，而不是为观众提供美的体验。对概念艺术这一基本特征的任何攻击，更多地是针对艺术传统本身，而不是针对个别艺术作品的缺陷。
 
@@ -155,13 +155,13 @@
 
 显然，概念艺术并不是唯一可能具有认知价值的艺术形式——许多其他艺术形式旨在除了审美价值之外还具有认知价值——而且我们大多数人都会同意，我们之所以觉得艺术有价值，部分原因正是因为它常常能带来某种理解。也就是说，我们阅读小说、观看绘画和听音乐，不仅是因为它们可能带来的愉悦，还因为它们往往使我们成为更丰富的人类，更能理解周围的世界。
 
-尽管这个论断似乎没有争议，但一些哲学家否认艺术应该具有认知价值或追求认知价值。也许最有名的是表达主义者，如克莱夫·贝尔（Clive Bell）和罗杰·弗赖（Roger Fry），他们认为艺术只应该追求表达和唤起情感（贝尔 1914 年；弗赖 1920 年）。詹姆斯·杨（James Young）提出了一种观点，即_先锋派_艺术，如概念艺术，无法产生任何重要的知识或理解（杨 2001 年，77 页）。
+尽管这个论断似乎没有争议，但一些哲学家否认艺术应该具有认知价值或追求认知价值。也许最有名的是表达主义者，如克莱夫·贝尔（Clive Bell）和罗杰·弗赖（Roger Fry），他们认为艺术只应该追求表达和唤起情感（贝尔 1914 年；弗赖 1920 年）。詹姆斯·杨（James Young）提出了一种观点，即*先锋派*艺术，如概念艺术，无法产生任何重要的知识或理解（杨 2001 年，77 页）。
 
 杨的论证集中在示例化的概念上，他将其定位为唯一一种可以归因于概念艺术等艺术作品的语义表达和认知价值的核心。示例化是一种通过样本（或典范）来引用属性的形式。典范“通过\[非隐喻地，字面上]拥有该属性来代表某个属性”（杨 2001 年，72 页）。对于概念艺术来说，作品就是一个概念或观念的典范。例如，汤姆·马里奥尼（Tom Marioni）的作品《与朋友们一起喝啤酒是最高形式的艺术》（1970 年）\[[9](https://plato.stanford.edu/entries/conceptual-art/notes.html#note-9)]，涉及艺术家和他的朋友们一起喝啤酒，是该作品核心观念的一个典范，即与朋友们一起喝啤酒是最高形式的艺术。这就是作品的陈述。然而，正如杨指出的，仅仅因为某物表达了一个陈述或具有意义，并不意味着它具有重要的认知价值。总的来说，根据杨的观点，概念艺术及其类似作品通常能够做出的陈述只是平庸的真理。如果概念艺术具有认知价值，也就是说，它往往是如此微不足道，以至于几乎不值一提。
 
 这个论点指出了许多概念艺术的观众所共有的一种经历，他们感到被欺骗或愚弄了。不仅概念艺术作品不美，人们可能会反对说，它们甚至没有超越陈词滥调告诉我们任何东西。那么，概念艺术到底有什么用处呢？
 
-如果要解决这个困境，我们必须迎难而上，讨论我们可以从中获得什么（种类的）理解。这个答案必须从两个方面来解释：一个是关于知识的_内容_，另一个是关于所讨论的_知识的种类_。首先，艺术所产生的知识可以是关于艺术作品本身的——不仅仅是所采用的技巧、作品的历史和传统等等，还包括作品所传达的意义和思想。其次，艺术可以产生命题知识或亲身经历的知识。前者是以命题的形式给予我们的知识，可以与艺术作品本身有关（例如，“\[马奈的名画]代表了皇帝马克西米连的处决”）或者与作品之外的现实有关（例如，“在政治革命的名义下经常发生可怕的事情”）；而后者的知识潜力在于使人能够想象自己处于某种位置或情境中，产生共鸣，非常接近亲身体验那种经历的感觉（例如，目睹一个被羞辱的皇帝被处决是什么感觉）。
+如果要解决这个困境，我们必须迎难而上，讨论我们可以从中获得什么（种类的）理解。这个答案必须从两个方面来解释：一个是关于知识的*内容*，另一个是关于所讨论的*知识的种类*。首先，艺术所产生的知识可以是关于艺术作品本身的——不仅仅是所采用的技巧、作品的历史和传统等等，还包括作品所传达的意义和思想。其次，艺术可以产生命题知识或亲身经历的知识。前者是以命题的形式给予我们的知识，可以与艺术作品本身有关（例如，“\[马奈的名画]代表了皇帝马克西米连的处决”）或者与作品之外的现实有关（例如，“在政治革命的名义下经常发生可怕的事情”）；而后者的知识潜力在于使人能够想象自己处于某种位置或情境中，产生共鸣，非常接近亲身体验那种经历的感觉（例如，目睹一个被羞辱的皇帝被处决是什么感觉）。
 
 知识和认知价值的概念，虽然是概念艺术项目的核心，但引发了许多重要问题，需要坚实而有力的哲学答案。也许举例仍然可以通过邀请我们以更丰富和富有想象力的方式参与艺术作品所引发的问题，从而发挥认识论的作用；以一种使我们以特定方式思考哲学问题的方式——这是仅仅通过命题无法做到的吗？也许概念艺术价值的关键在于与作品之间更具挑战性的智力关系，与所涉及的思想真正接触。探索这个途径可能有助于我们看到概念艺术能够产生何种非平凡的认知价值。
 
@@ -179,61 +179,61 @@
 
 ## Bibliography
 
-* Alberro, Alexander & Blake, Stimson (eds.), 1999. _Conceptual Art: A Critical Anthology_, Cambridge, MA: MIT Press.
-* Alberro, Alexander& Buchmann, Sabeth (eds.), 2006. _Art after Conceptual Art_, Cambridge, MA & Vienna: MIT Press/General Foundation.
-* Beardsley, Monroe, 1970. _The Possibility of Criticism_, Detroit: Wayne State University Press.
-* Bell, Clive, 1914. _Art_, London.
-* Binkley, Timothy, 1977. ‘Piece: Contra Aesthetics’, _Journal of Aesthetics and Art Criticism_, 35: 265–277.
-* Budd, Malcolm, 1995. _Values of Art: Painting, Poetry, and Music_, London: Penguin.
-* Caldarola, Elisa, 2021. ‘On Tags and Conceptual Street Art’, _Philosophical Inquiries_, IX(2): 93–114.
-* –––, 2021. ‘Exemplification, Knowledge, and Education of the Emotions through Conceptual Art’, _Discipline Filosofiche_, XXXI(1): 179–195.
-* Carroll, Noel, 1992. ‘Art, Intention, and Conversation’, _Intention and Interpretation_, G. Iseminger (ed.), Philadelphia: Temple University Press, pp. 97–131.
-* Corris, Michael (ed.), 2004. _Conceptual Art: Theory, Myth, and Practice_, Cambridge: Cambridge University Press.
-* Cray, Wesley, 2014. ‘Conceptual Art, Ideas and Ontology’, _Journal of Aesthetics and Art Criticism_, 72: 265–277.
-* Currie, Gregory, 1988. _An Ontology of Art_, New York: St Martin’s Press.
-* Dal Sasso, David & Schellekens, Elisabeth, 2022. _Aesthetics, Philosophy and Conceptual Art._ London: Bloomsbury.
-* Danto, Arthur C., 1964. ‘The Artworld’, _Journal of Philosophy_, 61: 571–584.
-* –––, 1981. _The Transfiguration of the Commonplace_, Cambridge, MA: Harvard University Press.
-* Davies, David, 2004. _Art as Performance_, Oxford: Blackwells.
-* Davies, Stephen, 2001. _Musical Works and Performances: A Philosophical Exploration_, Oxford: Oxford University Press.
-* Dickie, George, 1973. ‘The Institutional Conception of Art’, in Tilghman, Benjamin (ed.). _Language and Aesthetics_, Lawrence: University Press of Kansas, pp. 21–30.
-* –––, 1974, _Art and the Aesthetic: An Institutional Analysis_, Ithaca, NY: Cornell University Press.
-* Fry, R., 1920. _Vision and Design_, London: Chatto & Windus.
-* Godfrey, Tony, 1998. _Conceptual Art_, London: Phaidon Press.
-* Goldie, Peter & Schellekens, Elisabeth (eds.), 2007. _Philosophy and Conceptual Art_, Oxford: Oxford University Press.
-* –––, 2009. _Who’s Afraid of Conceptual Art?_, London: Routledge.
-* Goldman, Alan, 1990. ‘Interpreting Art and Literature’, _Journal of Aesthetics and Art Criticism_, 48: 205–14.
-* Gover, Karen, 2012. ‘What is Humpty Dumptyism in Contemporary Art? A Reply to Maes’, _British Journal of Aesthetics_, 52: 169–181.
-* Hanson, Louise. 2015. “Conceptual Art and the Acquaintance Principle.” _The Journal of Aesthetics and Art Criticism_, 73(3): 247–258.
-* Harrison, Charles, 1991. _Essays on Art and Language_, Cambridge, MA: MIT Press.
-* Ingarden, Roman, 1973. _The Literary Work of Art_, G.G. Grabowicz (trans.), Evanston, Ill.: Northwestern University Press.
-* Irvin, Sherri & Dodd, Julian, 2017. ‘In Advance of the Broken Theory: Philosophy and Contemporary Art’, _Journal of Aesthetics and Art Criticism_, 75(4): 375–386.
-* Kieran, Matthew, 1996. ‘In Defence of Critical Pluralism’, _British Journal of Aesthetics_, 36: 239–251.
-* Kosuth, Joseph, 1969. _Art After Philosophy and After: Collected Writings, 1966–1990_, Cambridge, MA: MIT Press.
-* Lewitt, Sol, 1967. ‘Paragraphs on Conceptual Art’, _Artforum_, 5(10): 79–83.
-* –––, 1969. ‘Sentences on Conceptual Art’, _Art-Language: The Journal of Conceptual Art_, 1 (May): 11–13. Reprinted in Osborne, 2002.
-* Levinson, Jerrold, 1979. ‘Defining Art Historically’, _British Journal of Aesthetics_, 19: 232–250.
-* –––, 1992. ‘Intention and Interpretation: A Last Look’, _Intention and Interpretation_, G. Iseminger (ed.), Philadelphia: Temple University Press, pp. 221–256.
-* Lippard, Lucy, 1973. _Six Years: The Dematerialization of the Art Object 1966–1972_, New York: Praeger.
-* Maes, Hans, 2010. ‘Intention, Interpretation, and Contemporary Visual Art’, _British Journal of Aesthetics_, 50: 121–138.
-* Margolis, Joseph, 1991. _The Truth About Relativism_, Oxford: Blackwell.
-* Meyer, Ursula, 1972. _Conceptual Art_, New York: Dutton Press.
-* Morgan, Robert C., 1996. _Art into Ideas: Essays on Conceptual Art_, Cambridge: Cambridge University Press.
-* Newman, M. & Bird, J. (eds.), 1999. _Rewriting Conceptual Art_, London: Reaktion Books.
-* Osborne, Peter (ed.), 2002. _Conceptual Art: Themes and Movements_, London & New York: Phaidon Press.
-* Pakes, Anna, 2019. ‘Can There Be Conceptual Dance?’ _Midwest Studies in Philosophy_, 44: 195–212.
-* Piper, Adrian, 1993. ‘The Logic of Modernism’, _Flash Art_, 26: 56–58.
-* Sauchelli, Andrea, 2016. ‘The Acquaintance Principle, Aesthetic Judgments and Conceptual Art’, _Journal of Aesthetic Education_, 50: 1–15.
-* Schellekens, Elisabeth, 2005. ‘“Seeing is Believing” and “Believing is Seeing”‘, _Acta Analytica_, 20: 10–23.
-* –––, 2007. ‘The Aesthetic Value of Ideas’, _Philosophy and Conceptual Art_, Oxford: Oxford University Press, pp. 71–91.
-* Shelley, James, 2003. ‘The Problem of Non-Perceptual Art’, _British Journal of Aesthetics_, 43: 363–78.
-* Sibley, Frank, 1965. ‘Aesthetic and Nonaesthetic’, _Philosophical Review_, 74: 135–59
-* Young, James, 2001. _Art and Knowledge_, London: Routledge.
-* Walton, Kendall, 1970. ‘Categories of Art’, _Philosophical Review_, 79: 334–67.
-* Weitz, Morris, 1956. ‘The Role of Theory in Aesthetics’, _Journal of Aesthetics and Art Criticism,_ 15: 27–35.
-* Wimsatt, W. K. & Beardsley M. C., 1946. ‘The Intentional Fallacy’, _Sewanee Review_, LIV: 468–488.
-* Wollheim, Richard, 1980. _Art and Its Objects_, Cambridge: Cambridge University Press.
-* Wood, Paul, 2002. _Conceptual Art_, London: Tate Publishing. Series: Movements in Modern Art.
+* Alberro, Alexander & Blake, Stimson (eds.), 1999. *Conceptual Art: A Critical Anthology*, Cambridge, MA: MIT Press.
+* Alberro, Alexander& Buchmann, Sabeth (eds.), 2006. *Art after Conceptual Art*, Cambridge, MA & Vienna: MIT Press/General Foundation.
+* Beardsley, Monroe, 1970. *The Possibility of Criticism*, Detroit: Wayne State University Press.
+* Bell, Clive, 1914. *Art*, London.
+* Binkley, Timothy, 1977. ‘Piece: Contra Aesthetics’, *Journal of Aesthetics and Art Criticism*, 35: 265–277.
+* Budd, Malcolm, 1995. *Values of Art: Painting, Poetry, and Music*, London: Penguin.
+* Caldarola, Elisa, 2021. ‘On Tags and Conceptual Street Art’, *Philosophical Inquiries*, IX(2): 93–114.
+* –––, 2021. ‘Exemplification, Knowledge, and Education of the Emotions through Conceptual Art’, *Discipline Filosofiche*, XXXI(1): 179–195.
+* Carroll, Noel, 1992. ‘Art, Intention, and Conversation’, *Intention and Interpretation*, G. Iseminger (ed.), Philadelphia: Temple University Press, pp. 97–131.
+* Corris, Michael (ed.), 2004. *Conceptual Art: Theory, Myth, and Practice*, Cambridge: Cambridge University Press.
+* Cray, Wesley, 2014. ‘Conceptual Art, Ideas and Ontology’, *Journal of Aesthetics and Art Criticism*, 72: 265–277.
+* Currie, Gregory, 1988. *An Ontology of Art*, New York: St Martin’s Press.
+* Dal Sasso, David & Schellekens, Elisabeth, 2022. *Aesthetics, Philosophy and Conceptual Art.* London: Bloomsbury.&#x20;
+* Danto, Arthur C., 1964. ‘The Artworld’, *Journal of Philosophy*, 61: 571–584.
+* –––, 1981. *The Transfiguration of the Commonplace*, Cambridge, MA: Harvard University Press.
+* Davies, David, 2004. *Art as Performance*, Oxford: Blackwells.
+* Davies, Stephen, 2001. *Musical Works and Performances: A Philosophical Exploration*, Oxford: Oxford University Press.
+* Dickie, George, 1973. ‘The Institutional Conception of Art’, in Tilghman, Benjamin (ed.). *Language and Aesthetics*, Lawrence: University Press of Kansas, pp. 21–30.
+* –––, 1974, *Art and the Aesthetic: An Institutional Analysis*, Ithaca, NY: Cornell University Press.
+* Fry, R., 1920. *Vision and Design*, London: Chatto & Windus.
+* Godfrey, Tony, 1998. *Conceptual Art*, London: Phaidon Press.
+* Goldie, Peter & Schellekens, Elisabeth (eds.), 2007. *Philosophy and Conceptual Art*, Oxford: Oxford University Press.
+* –––, 2009. *Who’s Afraid of Conceptual Art?*, London: Routledge.
+* Goldman, Alan, 1990. ‘Interpreting Art and Literature’, *Journal of Aesthetics and Art Criticism*, 48: 205–14.
+* Gover, Karen, 2012. ‘What is Humpty Dumptyism in Contemporary Art? A Reply to Maes’, *British Journal of Aesthetics*, 52: 169–181.
+* Hanson, Louise. 2015. “Conceptual Art and the Acquaintance Principle.” *The Journal of Aesthetics and Art Criticism*, 73(3): 247–258.
+* Harrison, Charles, 1991. *Essays on Art and Language*, Cambridge, MA: MIT Press.
+* Ingarden, Roman, 1973. *The Literary Work of Art*, G.G. Grabowicz (trans.), Evanston, Ill.: Northwestern University Press.
+* Irvin, Sherri & Dodd, Julian, 2017. ‘In Advance of the Broken Theory: Philosophy and Contemporary Art’, *Journal of Aesthetics and Art Criticism*, 75(4): 375–386.
+* Kieran, Matthew, 1996. ‘In Defence of Critical Pluralism’, *British Journal of Aesthetics*, 36: 239–251.
+* Kosuth, Joseph, 1969. *Art After Philosophy and After: Collected Writings, 1966–1990*, Cambridge, MA: MIT Press.
+* Lewitt, Sol, 1967. ‘Paragraphs on Conceptual Art’, *Artforum*, 5(10): 79–83.
+* –––, 1969. ‘Sentences on Conceptual Art’, *Art-Language: The Journal of Conceptual Art*, 1 (May): 11–13. Reprinted in Osborne, 2002.
+* Levinson, Jerrold, 1979. ‘Defining Art Historically’, *British Journal of Aesthetics*, 19: 232–250.
+* –––, 1992. ‘Intention and Interpretation: A Last Look’, *Intention and Interpretation*, G. Iseminger (ed.), Philadelphia: Temple University Press, pp. 221–256.
+* Lippard, Lucy, 1973. *Six Years: The Dematerialization of the Art Object 1966–1972*, New York: Praeger.
+* Maes, Hans, 2010. ‘Intention, Interpretation, and Contemporary Visual Art’, *British Journal of Aesthetics*, 50: 121–138.
+* Margolis, Joseph, 1991. *The Truth About Relativism*, Oxford: Blackwell.
+* Meyer, Ursula, 1972. *Conceptual Art*, New York: Dutton Press.
+* Morgan, Robert C., 1996. *Art into Ideas: Essays on Conceptual Art*, Cambridge: Cambridge University Press.
+* Newman, M. & Bird, J. (eds.), 1999. *Rewriting Conceptual Art*, London: Reaktion Books.
+* Osborne, Peter (ed.), 2002. *Conceptual Art: Themes and Movements*, London & New York: Phaidon Press.
+* Pakes, Anna, 2019. ‘Can There Be Conceptual Dance?’ *Midwest Studies in Philosophy*, 44: 195–212.
+* Piper, Adrian, 1993. ‘The Logic of Modernism’, *Flash Art*, 26: 56–58.
+* Sauchelli, Andrea, 2016. ‘The Acquaintance Principle, Aesthetic Judgments and Conceptual Art’, *Journal of Aesthetic Education*, 50: 1–15.
+* Schellekens, Elisabeth, 2005. ‘“Seeing is Believing” and “Believing is Seeing”‘, *Acta Analytica*, 20: 10–23.
+* –––, 2007. ‘The Aesthetic Value of Ideas’, *Philosophy and Conceptual Art*, Oxford: Oxford University Press, pp. 71–91.
+* Shelley, James, 2003. ‘The Problem of Non-Perceptual Art’, *British Journal of Aesthetics*, 43: 363–78.
+* Sibley, Frank, 1965. ‘Aesthetic and Nonaesthetic’, *Philosophical Review*, 74: 135–59
+* Young, James, 2001. *Art and Knowledge*, London: Routledge.
+* Walton, Kendall, 1970. ‘Categories of Art’, *Philosophical Review*, 79: 334–67.
+* Weitz, Morris, 1956. ‘The Role of Theory in Aesthetics’, *Journal of Aesthetics and Art Criticism,* 15: 27–35.
+* Wimsatt, W. K. & Beardsley M. C., 1946. ‘The Intentional Fallacy’, *Sewanee Review*, LIV: 468–488.
+* Wollheim, Richard, 1980. *Art and Its Objects*, Cambridge: Cambridge University Press.
+* Wood, Paul, 2002. *Conceptual Art*, London: Tate Publishing. Series: Movements in Modern Art.
 
 ## Academic Tools
 
@@ -255,4 +255,4 @@
 [aesthetic, concept of the](https://plato.stanford.edu/entries/aesthetic-concept/) | [aesthetic experience](https://plato.stanford.edu/entries/aesthetic-experience/) | [aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [art, definition of](https://plato.stanford.edu/entries/art-definition/) | [Beardsley, Monroe C.: aesthetics](https://plato.stanford.edu/entries/beardsley-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Wittgenstein, Ludwig: aesthetics](https://plato.stanford.edu/entries/wittgenstein-aesthetics/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Elisabeth Schellekens](http://katalog.uu.se/empinfo/?id=N13-2457) <[_Elisabeth.schellekens@filosofi.uu.se_](mailto:Elisabeth%2eschellekens%40filosofi%2euu%2ese)>
+[Elisabeth Schellekens](http://katalog.uu.se/empinfo/?id=N13-2457) <[*Elisabeth.schellekens@filosofi.uu.se*](mailto:Elisabeth%2eschellekens%40filosofi%2euu%2ese)>

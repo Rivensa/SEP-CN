@@ -1,6 +1,6 @@
 # 约翰·安德森 Anderson, John (Creagh McLean Cole)
 
-_首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 日_
+*首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 日*
 
 ![年轻的安德森的照片](https://plato.stanford.edu/entries/anderson-john/anderson.jpg)
 
@@ -80,13 +80,13 @@ _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 �
 
 ## 4. 一个系统的现实主义
 
-在安德森看来，由罗素和摩尔发起的现实主义运动以失败告终，因为它试图通过回归前唯心主义的确定性来克服黑格尔哲学（_EMP_，89）。结果，现实主义被剩下了一个没有学派的境地，无法挑战新兴的唯心主义和实用主义学派（_STP_，161）。黑格尔的全面思想体系是一个新的系统性现实主义可以效仿的例子。
+在安德森看来，由罗素和摩尔发起的现实主义运动以失败告终，因为它试图通过回归前唯心主义的确定性来克服黑格尔哲学（*EMP*，89）。结果，现实主义被剩下了一个没有学派的境地，无法挑战新兴的唯心主义和实用主义学派（*STP*，161）。黑格尔的全面思想体系是一个新的系统性现实主义可以效仿的例子。
 
-简言之，黑格尔试图制定他的观点序列依赖于一个与他整个观点或范畴理论以及它们对整体现实的适应性不相容的现实主义观点。黑格尔“无意中正在以命题的方式进行”，但却陷入了建立一个总体真理（“使一个真命题成为真命题的东西”）的虚幻尝试，而不是建立_真命题_的任务（_JAA_，《威廉·詹姆斯讲演录》，1935 年）。布兰多姆在他完全不同的表现主义项目中似乎对黑格尔提出了同样的批评（布兰多姆，2000 年）。但对于安德森来说，黑格尔的观点学说“基于无法把握真理的独立性”（_EMP_，81）。另一方面，我们只需要拒绝黑格尔的表达学说，就会发现我们所剩下的是实际的_事实状态_，而不是抽象的存在。
+简言之，黑格尔试图制定他的观点序列依赖于一个与他整个观点或范畴理论以及它们对整体现实的适应性不相容的现实主义观点。黑格尔“无意中正在以命题的方式进行”，但却陷入了建立一个总体真理（“使一个真命题成为真命题的东西”）的虚幻尝试，而不是建立*真命题*的任务（*JAA*，《威廉·詹姆斯讲演录》，1935 年）。布兰多姆在他完全不同的表现主义项目中似乎对黑格尔提出了同样的批评（布兰多姆，2000 年）。但对于安德森来说，黑格尔的观点学说“基于无法把握真理的独立性”（*EMP*，81）。另一方面，我们只需要拒绝黑格尔的表达学说，就会发现我们所剩下的是实际的*事实状态*，而不是抽象的存在。
 
-既不是笛卡尔的理性主义，也不是英国经验主义能够用任何具有相当范围的哲学立场取代黑格尔的哲学。黑格尔强调系统是正确的，但不是作为整体（对真实问题的假装解决方案），而是以单一逻辑的形式。他也正确地将这种逻辑视为历史性的，但错误地试图用“逻辑发展的”概念来取代“事物发展的逻辑”（_EMP_，80）。安德森总结了这个立场如下。回答黑格尔的唯一方法是完全放弃对认识论问题的现代固执，回到对事物的希腊考虑。除了希腊的直接性外，对黑格尔唯心主义的真正替代应该包括三个主要组成部分：作为感觉和非单一的心灵的积极理论，作为空间和时间现实的一部分，与任何非心灵的事物和事件一样；一个真正的经验主义，承认关系和普遍性与个别相关的事物一样真实（和可知）；以及将空间和时间看作存在的条件，而不是康德的先验唯心主义中的人类知识的条件。安德森提议用约翰·伯内特关于希腊哲学的工作、西格蒙德·弗洛伊德关于心灵的工作、威廉·詹姆斯的激进经验主义以及塞缪尔·亚历山大对康德先验美学的改编来取代黑格尔的整体性（_EMP_，80）。安德森在这里没有提到另一个可能的直接现实主义来源，即苏格兰常识哲学，但他在 1935 年的《托马斯·里德讲座》中考虑了这一点（_LMP_）。
+既不是笛卡尔的理性主义，也不是英国经验主义能够用任何具有相当范围的哲学立场取代黑格尔的哲学。黑格尔强调系统是正确的，但不是作为整体（对真实问题的假装解决方案），而是以单一逻辑的形式。他也正确地将这种逻辑视为历史性的，但错误地试图用“逻辑发展的”概念来取代“事物发展的逻辑”（*EMP*，80）。安德森总结了这个立场如下。回答黑格尔的唯一方法是完全放弃对认识论问题的现代固执，回到对事物的希腊考虑。除了希腊的直接性外，对黑格尔唯心主义的真正替代应该包括三个主要组成部分：作为感觉和非单一的心灵的积极理论，作为空间和时间现实的一部分，与任何非心灵的事物和事件一样；一个真正的经验主义，承认关系和普遍性与个别相关的事物一样真实（和可知）；以及将空间和时间看作存在的条件，而不是康德的先验唯心主义中的人类知识的条件。安德森提议用约翰·伯内特关于希腊哲学的工作、西格蒙德·弗洛伊德关于心灵的工作、威廉·詹姆斯的激进经验主义以及塞缪尔·亚历山大对康德先验美学的改编来取代黑格尔的整体性（*EMP*，80）。安德森在这里没有提到另一个可能的直接现实主义来源，即苏格兰常识哲学，但他在 1935 年的《托马斯·里德讲座》中考虑了这一点（*LMP*）。
 
-理查德·罗蒂提出，20 世纪初的英语哲学从黑格尔唯心主义的主导地位中崛起，转而倾向于自然科学，部分原因是与现代主义文学的关联似乎威胁到了“一种包含令人不安的非理性主义因素的私人美学主义”（罗蒂 1985 年，第 748 页）。表面上看，安德森的工作似乎试图将哲学融入科学。但在文学文化方面，他是一个真正的现代主义者：他的文章和演讲包括对詹姆斯·乔伊斯等人的批评作品，尤其是对劳伦斯、肖、韦尔斯、格雷厄姆、贝洛克、王尔德、哈代、易卜生、梅里迪斯、陀思妥耶夫斯基和梅尔维尔的批评，以及对侦探小说体裁的批评。对于安德森来说，文学具有特殊的性质，作为文化的具体化或存储库（_JAA_，《斯宾塞和杜威的教育理论讲座》，1949 年）。在 20 世纪 30 年代的悉尼，他捍卫了詹姆斯·乔伊斯的作品（最近被禁止）以及弗洛伊德精神分析对我们理解心灵的冲突和激情以及对文化研究的普遍重要性（参见 Damousi 2005 年）。他认为前现代主义的“文学哲学家”在浪漫主义和唯心主义方面表现出比那些宣称科学精确性的哲学家更大的坚韧性（_EMP_，80）。但他们也倾向于推动一些道德化和神学化的形式，这些形式与思维的精确性和独立性相抵触，并且对“文化总体有害”（_EMP_，87）。安德森认为他对传统亚里士多德逻辑的解释在文学文化的新世界中和自然科学中都有重要作用。
+理查德·罗蒂提出，20 世纪初的英语哲学从黑格尔唯心主义的主导地位中崛起，转而倾向于自然科学，部分原因是与现代主义文学的关联似乎威胁到了“一种包含令人不安的非理性主义因素的私人美学主义”（罗蒂 1985 年，第 748 页）。表面上看，安德森的工作似乎试图将哲学融入科学。但在文学文化方面，他是一个真正的现代主义者：他的文章和演讲包括对詹姆斯·乔伊斯等人的批评作品，尤其是对劳伦斯、肖、韦尔斯、格雷厄姆、贝洛克、王尔德、哈代、易卜生、梅里迪斯、陀思妥耶夫斯基和梅尔维尔的批评，以及对侦探小说体裁的批评。对于安德森来说，文学具有特殊的性质，作为文化的具体化或存储库（*JAA*，《斯宾塞和杜威的教育理论讲座》，1949 年）。在 20 世纪 30 年代的悉尼，他捍卫了詹姆斯·乔伊斯的作品（最近被禁止）以及弗洛伊德精神分析对我们理解心灵的冲突和激情以及对文化研究的普遍重要性（参见 Damousi 2005 年）。他认为前现代主义的“文学哲学家”在浪漫主义和唯心主义方面表现出比那些宣称科学精确性的哲学家更大的坚韧性（*EMP*，80）。但他们也倾向于推动一些道德化和神学化的形式，这些形式与思维的精确性和独立性相抵触，并且对“文化总体有害”（*EMP*，87）。安德森认为他对传统亚里士多德逻辑的解释在文学文化的新世界中和自然科学中都有重要作用。
 
 黑格尔对安德森的一个重要成就是他对希腊哲学家研究的鼓励。安德森的讲座探讨了历史背景，以及他对现实的命题观点在前苏格拉底学派提出的问题和柏拉图的对话中的探索。像其他现代主义哲学家和小说家（以及黑格尔本人）一样，安德森在赫拉克利特身上找到了一种鼓舞人心的替代方案，以对抗他认为是他的老师们感伤和智力压抑的唯心主义。
 
@@ -94,7 +94,7 @@ _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 �
 
 安德森承认赫拉克利特对火元素的强调可能被解读为典型的伊奥尼亚人对“世界由什么构成”的回答，但更重要的主题是他将火纯粹视为过程、交易和交换的处理方式，将其视为冲突和和谐的典范元素。在赫拉克利特身上，安德森发现了许多自己的原则的萌芽：逻辑与伦理之间的密切联系（伦理是冲突首先显现的领域）；存在方式的单一途径，“共同之处”（寻求一般逻辑，一种关于过程的事物可比性理论）；承认现有事物背后的复杂性、冲突和冲突；拒绝在统一中寻求安慰的反感和悲观主义；平衡中的力量的隐藏和谐优于虚幻统一的开放和谐；对主观幻想的不懈攻击，即希望事物如我们所愿（不变和安全）而不是看到它们的真实面貌。
 
-对于安德森的赫拉克利特来说，“看到事物的真实面貌”意味着将它们看作复杂、活跃和变化的；这是与乐观主义、理性主义幻想的简单、固定和静态相对立的观点。这意味着将事物看作是在运动、历史中的、在过程中的，同时又保持平衡。赫拉克利特的“冲突”即和谐：日常经验的事物之所以积极和具体，是因为它们是偶然的和历史的。安德森将这种在所有研究领域中的“基本张力”描述为“客观主义和主观主义”之间的张力，即“承认复杂性和紧张性的批判性思维”与寻求固定和简单的“理性主义幻想”之间的张力（_JAA_，《批判讲座》1955 年，第 11 讲）。在这里，理性主义与更原始的神话思维一样，追求稳定、安全和道德提升。两者都在寻求比所解决的问题更高层次的解决方案。
+对于安德森的赫拉克利特来说，“看到事物的真实面貌”意味着将它们看作复杂、活跃和变化的；这是与乐观主义、理性主义幻想的简单、固定和静态相对立的观点。这意味着将事物看作是在运动、历史中的、在过程中的，同时又保持平衡。赫拉克利特的“冲突”即和谐：日常经验的事物之所以积极和具体，是因为它们是偶然的和历史的。安德森将这种在所有研究领域中的“基本张力”描述为“客观主义和主观主义”之间的张力，即“承认复杂性和紧张性的批判性思维”与寻求固定和简单的“理性主义幻想”之间的张力（*JAA*，《批判讲座》1955 年，第 11 讲）。在这里，理性主义与更原始的神话思维一样，追求稳定、安全和道德提升。两者都在寻求比所解决的问题更高层次的解决方案。
 
 安德森的教学和著作经常提到哲学史，但安德森并不是一位学术历史学家。他认为哲学中持久存在的问题和立场在历史中是显而易见的（例如，爱利亚学派在学科历史中是一个高度有教益和批判性的阶段，例如在格林对休谟的个别事物的批评中）。哲学史有助于强调他自己立场的价值。另一方面，他的讲座和著作中充满了对哲学家、科学家、小说家、精神分析学家和革命家的引用。在他的作品中，似乎没有什么是与最深奥的讨论主题格格不入的。他的讲座是“引发讨论的良好开端”（帕特里奇在《EAI》中对安德森教学的反思）。约翰·帕斯莫尔承认安德森的讲座对他自己关于休谟、哲学推理、拉尔夫·卡德沃思、完善性以及他对一百年哲学史的历史研究的启发。
 
@@ -102,19 +102,19 @@ _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 �
 
 ### 5.1 逻辑
 
-安德森在 20 世纪 20 年代初写了一本《逻辑教科书》（_JAA_，《逻辑教科书》，2010 年出版），它的命运告诉我们很多关于他的哲学抱负。根据他的传记作者所说，安德森将手稿提交给了《新时代》（_The New Age_）的编辑 A.R.奥雷奇（Kennedy 1995 p. 64），苏格兰哲学史学家乔治·戴维（George Davie）将该杂志描述为为“自由主义者和常常是左翼自学者”提供服务的读者群体（Davie 1977 p. 57）。尽管在奥雷奇的领导下，该杂志仍然是一个高度有影响力的前卫现代主义文学和政治批评载体。安德森构思他的逻辑具有比仅仅编码推理形式更广泛的文化目标，当奥雷奇因为其被认为是古怪而拒绝了这项工作时，安德森深感失望。
+安德森在 20 世纪 20 年代初写了一本《逻辑教科书》（*JAA*，《逻辑教科书》，2010 年出版），它的命运告诉我们很多关于他的哲学抱负。根据他的传记作者所说，安德森将手稿提交给了《新时代》（*The New Age*）的编辑 A.R.奥雷奇（Kennedy 1995 p. 64），苏格兰哲学史学家乔治·戴维（George Davie）将该杂志描述为为“自由主义者和常常是左翼自学者”提供服务的读者群体（Davie 1977 p. 57）。尽管在奥雷奇的领导下，该杂志仍然是一个高度有影响力的前卫现代主义文学和政治批评载体。安德森构思他的逻辑具有比仅仅编码推理形式更广泛的文化目标，当奥雷奇因为其被认为是古怪而拒绝了这项工作时，安德森深感失望。
 
-约翰·安德森认为逻辑与陈述有关，而不是问题、命令、规定、劝告或其他表达形式。逻辑基本上与提出“客观问题”的陈述有关，而这些其他形式的言论只是间接地提出这些问题（_JAA_，《科学方法讲座》，约 1950 年）。言论意味着一种共同的断言、蕴涵和定义逻辑（_EMP_，第 6 章）。逻辑形式上的表面差异只是不同表达方式的结果。任何陈述，只要它在说些什么，都可以通过转化为逻辑形式来表明它在断言某个事实：对某个事物的描述，将其归类为某种类型，声称某事是事实。安德森的学生们被要求将一系列陈述转化为亚里士多德的四种命题形式之一，传统上称为 A、E、I 和 O 形式。在任何领域中，直到问题或议题以这四种命题形式之一提出，它们都不可避免地会产生混淆和潜在的误导性，可能会成为调查的基础。
+约翰·安德森认为逻辑与陈述有关，而不是问题、命令、规定、劝告或其他表达形式。逻辑基本上与提出“客观问题”的陈述有关，而这些其他形式的言论只是间接地提出这些问题（*JAA*，《科学方法讲座》，约 1950 年）。言论意味着一种共同的断言、蕴涵和定义逻辑（*EMP*，第 6 章）。逻辑形式上的表面差异只是不同表达方式的结果。任何陈述，只要它在说些什么，都可以通过转化为逻辑形式来表明它在断言某个事实：对某个事物的描述，将其归类为某种类型，声称某事是事实。安德森的学生们被要求将一系列陈述转化为亚里士多德的四种命题形式之一，传统上称为 A、E、I 和 O 形式。在任何领域中，直到问题或议题以这四种命题形式之一提出，它们都不可避免地会产生混淆和潜在的误导性，可能会成为调查的基础。
 
-\| **A** | _所有_的_A_都是_B_ | (AaB) |
+\| **A** | *所有*的*A*都是*B* | (AaB) |
 
 \| --- | --- | --- |
 
-\| **E** | _没有_ _A_是 _B_的 | (AeB) |
+\| **E** | *没有* *A*是 *B*的 | (AeB) |
 
-\| **我** | _一些_ _A_是_B_ | (AiB) |
+\| **我** | *一些* *A*是*B* | (AiB) |
 
-\| **O** | _一些_ _A_不是_B_ | (AoB) |
+\| **O** | *一些* *A*不是*B* | (AoB) |
 
 所以，从安德森逻辑的典型考试试卷中：
 
@@ -128,11 +128,11 @@ _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 �
 
 3. "在制造产品中发现掺假并不罕见"
 
-→ 我 - _一些_ 制造的产品被掺假
+→ 我 - *一些* 制造的产品被掺假
 
 4. "他的勇气大于他的谨慎"
 
-→ O - _他的一些勇敢行为并不谨慎_
+→ O - *他的一些勇敢行为并不谨慎*
 
 在安德森对传统逻辑的观点中，“所有的 A 都是 B”这个普遍命题断言了一个简单的事实，即所有的 A 都是 B；一个事物属于某种类型是事实或情况的最小不可约部分；没有对某种“一般联系”的断言。普遍命题也不断言 A 和 B 之间存在某种类别关系 - 类别关系的断言只是说某些命题是真实的一种方式。它也不是关于某个整体 A 的：它只是简单地断言每一个 A 都是 B。虽然它并不直接断言 A 的存在，但它肯定是假设了它的存在。对于安德森来说，他的传统逻辑版本的伟大优点在于它充分揭示了命题的存在前提。此外，安德森认为通常被认为是至高无上的逻辑真理（例如，恒等命题）实际上根本不是真理，因为它们没有说出任何东西。没有分析性真理：如果一个命题说出了任何东西，它就可能是假的。安德森拒绝了数学真理只在一个演算法内部成立的观点，也就是说，它们可以从一组给定的公理中推导出来。
 
@@ -140,7 +140,7 @@ _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 �
 
 三段论的有效性是基本的，安德森反对三段论推理与其他形式的推理（如关系、假设和分离）的绝对独立性。三段论清楚地证明了一个命题中的主语可以作为另一个命题中的谓语。主语和谓语之间的区别纯粹是功能上的区别：主语术语的功能是定位，谓语术语的功能是描述。这里没有涉及两类实体；也就是说，没有纯粹的位置/个体/物质，就像没有纯粹的描述/普遍性一样。主语和谓语术语之间没有需要跨越的逻辑差距：任何术语都可以扮演个体或普遍、主语或谓语的角色。
 
-对于安德森来说，逻辑是关于现实最一般特征的科学。逻辑不仅仅是在选择原始元素之后的有用的计算方法，安德森的逻辑也不仅仅是谓词演算的一种版本。他认为逻辑描述了事实的一般结构和它们之间的关系。它为所有言论提供了可能性的条件，但它不是关于语言形式或者普遍性等特殊状态实体的。它是关于事实的最一般特征。在这种关于命题的现实观下，有一个基本命题：空间和时间中的事物是不可约的复杂的。每个情境都有特定和一般的方面，由命题中的主语和谓语函数表示。每个谓词都可以成为进一步命题的主语。最简单的单位是一个存在，因此是一种特定方式下的事态，但是特定的和普遍的都不能独立存在。在任何领域中，我们永远无法达到绝对简单的元素。罗素、摩尔和早期的维特根斯坦追求这样的简单元素，表明了他们思维中残留的理性主义元素。另一方面，安德森当然坚持反对这些早期实在论者的唯心主义对手，他坚持没有实体可以完全或部分地由它们的关系构成（_EMP_，43)。
+对于安德森来说，逻辑是关于现实最一般特征的科学。逻辑不仅仅是在选择原始元素之后的有用的计算方法，安德森的逻辑也不仅仅是谓词演算的一种版本。他认为逻辑描述了事实的一般结构和它们之间的关系。它为所有言论提供了可能性的条件，但它不是关于语言形式或者普遍性等特殊状态实体的。它是关于事实的最一般特征。在这种关于命题的现实观下，有一个基本命题：空间和时间中的事物是不可约的复杂的。每个情境都有特定和一般的方面，由命题中的主语和谓语函数表示。每个谓词都可以成为进一步命题的主语。最简单的单位是一个存在，因此是一种特定方式下的事态，但是特定的和普遍的都不能独立存在。在任何领域中，我们永远无法达到绝对简单的元素。罗素、摩尔和早期的维特根斯坦追求这样的简单元素，表明了他们思维中残留的理性主义元素。另一方面，安德森当然坚持反对这些早期实在论者的唯心主义对手，他坚持没有实体可以完全或部分地由它们的关系构成（*EMP*，43)。
 
 麦基将安德森描述为亚里士多德逻辑学派的最后一位，并指出了他对逻辑概念的一些尴尬后果：虚假命题的问题；处理特殊命题的方法的缺失；处理多重量化的困难；以及在主谓和三段论形式中表达关系命题的困难。对于麦基来说，任何处理虚假命题、矛盾和对立关系、提出论证、证伪和归谬的逻辑必须超越对命题的描述作为“存在之物”的解释（麦基，1985 年）。
 
@@ -160,9 +160,9 @@ _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 �
 
 阿姆斯特朗得出结论：
 
-> \[W]ith this scheme, John Anderson joins a very distinguished line of philosophers who have presented us with a set of categories. We have first Plato (the doctrine of Highest Kinds in his dialogue The Sophist), then Aristotle, Kant, Hegel, and Samuel Alexander. (_STC_, xiii)
+> \[W]ith this scheme, John Anderson joins a very distinguished line of philosophers who have presented us with a set of categories. We have first Plato (the doctrine of Highest Kinds in his dialogue The Sophist), then Aristotle, Kant, Hegel, and Samuel Alexander. (*STC*, xiii)
 
-尽管安德森对黑格尔表示赞赏，但他认为康德奠定了“事物作为历史的逻辑基础”，而“黑格尔只能被视为反动的”（_EMP_，83）。康德已经表明，科学的对象只是观察的对象，“物质”是我们感知到的东西，而不是隐藏在我们感知之后的东西。康德对休谟的回答是，我们感知到的事物彼此相互关联；它们以各种方式相互穿越和影响，因为它们在空间和时间上相关。我们在意识到任何事物时都意识到这种关系。但安德森坚持反对康德，认为关系与相关的事物在同一层次上被认识。康德仍然受到再现主义的假设的影响，将科学的对象视为纯粹的现象。康德将空间和时间视为直观的形式，我们必须在这些形式下体验世界。他将因果关系和实体等范畴视为理解的形式，我们必须在这些范畴下理解世界。事物本身并没有在经验中给予我们，因此超出了我们的认知能力。这样，康德在现象和事物本身之间建立了一个站不住脚的现实分割，并伴随着这种分割，我们的思想、实践和探究形式以某种方式创造或构成我们所居住、影响和调查的现实。安德森在塞缪尔·亚历山大的指导下提出了一个现实主义的替代方案，即将空间和时间视为存在的形式，将范畴视为存在的范畴，所有存在都必须属于这些范畴。根据这样的提议，我们可以将科学的对象视为事物本身。
+尽管安德森对黑格尔表示赞赏，但他认为康德奠定了“事物作为历史的逻辑基础”，而“黑格尔只能被视为反动的”（*EMP*，83）。康德已经表明，科学的对象只是观察的对象，“物质”是我们感知到的东西，而不是隐藏在我们感知之后的东西。康德对休谟的回答是，我们感知到的事物彼此相互关联；它们以各种方式相互穿越和影响，因为它们在空间和时间上相关。我们在意识到任何事物时都意识到这种关系。但安德森坚持反对康德，认为关系与相关的事物在同一层次上被认识。康德仍然受到再现主义的假设的影响，将科学的对象视为纯粹的现象。康德将空间和时间视为直观的形式，我们必须在这些形式下体验世界。他将因果关系和实体等范畴视为理解的形式，我们必须在这些范畴下理解世界。事物本身并没有在经验中给予我们，因此超出了我们的认知能力。这样，康德在现象和事物本身之间建立了一个站不住脚的现实分割，并伴随着这种分割，我们的思想、实践和探究形式以某种方式创造或构成我们所居住、影响和调查的现实。安德森在塞缪尔·亚历山大的指导下提出了一个现实主义的替代方案，即将空间和时间视为存在的形式，将范畴视为存在的范畴，所有存在都必须属于这些范畴。根据这样的提议，我们可以将科学的对象视为事物本身。
 
 安德森声称通过他对命题的解释（参见“‘普遍’和事件”，EMP）避免了传统形而上学问题关于普遍实在性的陷阱。H·O·蒙斯提出安德森的现实主义可能无法避免这个问题。特别是，他对普遍的解释在是否直接感知到的关系（比如因果关系）在不同场合是否“相同”（对蒙斯来说，除了完全相同，其他任何情况都是回归名义主义——蒙斯 1989 年）的问题上有倒退为名义主义的危险。蒙斯认为安德森在这里可能无法抵挡休谟的挑战。他将被拉回到关于普遍的本质的熟悉的现实主义-名义主义辩论中，这也可以解释为什么阿姆斯特朗的哲学将柏拉图的“一与多”的问题作为形而上学思考的起点（阿姆斯特朗 1997 年）。然而，从奎因的角度来看，尽管阿姆斯特朗的形而上学在科学凭证上有所改进，但仍然关注旧学派的伪问题（奎因 1953 年）。 （迈克尔·德维特在 2010 年明确将阿姆斯特朗与奎因对传统苏格兰形而上学家“麦克斯”进行了模仿）。
 
@@ -176,33 +176,33 @@ _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 �
 
 根据安德森的说法，希腊人
 
-> 在许多问题上，古代哲学家比现代哲学家更清晰...他们避免了许多现代错误，尤其是...他们不像现代人那样着迷于“知识问题”——在他们准备好了解任何事情之前，他们不会去发现（即了解！）我们可以知道如何、以及我们可以知道多少。这种“对工具的批评”等于科学的悲观主义，而心灵的工具观念既阻碍了对心灵本身的了解，也妨碍了对逻辑和其他科学问题的直接探究。（_EMP_，82）
+> 在许多问题上，古代哲学家比现代哲学家更清晰...他们避免了许多现代错误，尤其是...他们不像现代人那样着迷于“知识问题”——在他们准备好了解任何事情之前，他们不会去发现（即了解！）我们可以知道如何、以及我们可以知道多少。这种“对工具的批评”等于科学的悲观主义，而心灵的工具观念既阻碍了对心灵本身的了解，也妨碍了对逻辑和其他科学问题的直接探究。（*EMP*，82）
 
-安德森对现代哲学和笛卡尔主义对认识论的执着的诊断很可能会引起许多当代读者的认同和赞赏。在安德森看来，现代哲学中的笛卡尔主义代表了一种反古典主义的运动：一种对历史和传统的反感。现代哲学在抽象的理性中寻求人类知识的基础，而不是在具体而多面的文化中。整个现代时代都以这种缺乏具体性为特征。（_EMP_，195）
+安德森对现代哲学和笛卡尔主义对认识论的执着的诊断很可能会引起许多当代读者的认同和赞赏。在安德森看来，现代哲学中的笛卡尔主义代表了一种反古典主义的运动：一种对历史和传统的反感。现代哲学在抽象的理性中寻求人类知识的基础，而不是在具体而多面的文化中。整个现代时代都以这种缺乏具体性为特征。（*EMP*，195）
 
-在现代哲学史上，黑格尔在这方面是一个孤独的古典人物（_EMP_，201）。自笛卡尔以来，哲学已经被实用主义和进步主义所感染，逻辑已经被降低为一种工具，一种获取新知识的普遍方法。随着对逻辑的这种工具观的看法，人们对三段论的蔑视也随之而来，被培根用“归纳推理”取代，被笛卡尔用理性直觉取代。
+在现代哲学史上，黑格尔在这方面是一个孤独的古典人物（*EMP*，201）。自笛卡尔以来，哲学已经被实用主义和进步主义所感染，逻辑已经被降低为一种工具，一种获取新知识的普遍方法。随着对逻辑的这种工具观的看法，人们对三段论的蔑视也随之而来，被培根用“归纳推理”取代，被笛卡尔用理性直觉取代。
 
-对于安德森来说，经验主义主要是否认任何更高形式的存在，否认通过经验得到的现实存在可能存在不足、依赖或努力模仿等情况。同样，现代实在论的重要性不在于其对知识的解释，而在于其对独立性的理论的发展，对相对存在的任何概念的拒绝以及对情境逻辑的发展（_JAA_，哲学 II 区分讲座，1937 年）。
+对于安德森来说，经验主义主要是否认任何更高形式的存在，否认通过经验得到的现实存在可能存在不足、依赖或努力模仿等情况。同样，现代实在论的重要性不在于其对知识的解释，而在于其对独立性的理论的发展，对相对存在的任何概念的拒绝以及对情境逻辑的发展（*JAA*，哲学 II 区分讲座，1937 年）。
 
-没有“真理”的标准，“我们相信其他事物的信念”（_EMP_，55）。真理只是由连词传达的，命题的“是”。它不能存在于相信的命题与我们称之为现实的其他事物之间的对应关系，也不能存在于命题之间的一致性关系中。命题不是词语的形式：我们通过词语传达我们的信念，但我们提出的是事态本身，而不是词语的形式。真理主义和对应理论是“试图超越命题的企图 - 以（用词语！）维持我们的意思超过我们所能说的。”（_EMP_，5）。我们必须放弃“思想”作为与事物对立或与事物等同的概念。我们的思想只是我们与事物打交道的方式 - 安德森与诺曼·肯普·史密斯共享一种准加尔文主义的知识观念，即将知识视为与问题的努力和搏斗，而不是反映外部现实。安德森将大多数当代哲学视为“表象主义的各种形式”（_EMP_，87）。命题并不是以表示外部现实的意义“关于”任何事物。
+没有“真理”的标准，“我们相信其他事物的信念”（*EMP*，55）。真理只是由连词传达的，命题的“是”。它不能存在于相信的命题与我们称之为现实的其他事物之间的对应关系，也不能存在于命题之间的一致性关系中。命题不是词语的形式：我们通过词语传达我们的信念，但我们提出的是事态本身，而不是词语的形式。真理主义和对应理论是“试图超越命题的企图 - 以（用词语！）维持我们的意思超过我们所能说的。”（*EMP*，5）。我们必须放弃“思想”作为与事物对立或与事物等同的概念。我们的思想只是我们与事物打交道的方式 - 安德森与诺曼·肯普·史密斯共享一种准加尔文主义的知识观念，即将知识视为与问题的努力和搏斗，而不是反映外部现实。安德森将大多数当代哲学视为“表象主义的各种形式”（*EMP*，87）。命题并不是以表示外部现实的意义“关于”任何事物。
 
-安德森最大胆的文章之一是 1934 年的《心灵作为感觉》，试图准确地阐明心灵应该如何被看作属于时空领域。安德森认为，一旦我们承认心灵或任何心理现象的空间性质，“笛卡尔主义就会消失”（_JAA_，《瑞德讲义》，1935 年）。心理领域与自然和社会世界一样，由情境构成，因此我们对心灵的认识与非心理的认识处于同等地位。他否定了笛卡尔的主体-客体模型，该模型将哲学的任务视为研究知识的媒介，理解为一种关系，其中一个实体在自身内部再现另一个实体的本质或内在特征。没有这样的媒介，因为在空间和时间内没有不同的实体需要这样的调解。没有被构想为意识点的“知者”，它已经超越了历史，超越了空间和时间。在我们努力和搏斗的过程中，为了与自己和周围的事物达成和解，我们从未超越事物的运动，也从未看到命题的背后；从未超越命题主张和反驳的领域。
+安德森最大胆的文章之一是 1934 年的《心灵作为感觉》，试图准确地阐明心灵应该如何被看作属于时空领域。安德森认为，一旦我们承认心灵或任何心理现象的空间性质，“笛卡尔主义就会消失”（*JAA*，《瑞德讲义》，1935 年）。心理领域与自然和社会世界一样，由情境构成，因此我们对心灵的认识与非心理的认识处于同等地位。他否定了笛卡尔的主体-客体模型，该模型将哲学的任务视为研究知识的媒介，理解为一种关系，其中一个实体在自身内部再现另一个实体的本质或内在特征。没有这样的媒介，因为在空间和时间内没有不同的实体需要这样的调解。没有被构想为意识点的“知者”，它已经超越了历史，超越了空间和时间。在我们努力和搏斗的过程中，为了与自己和周围的事物达成和解，我们从未超越事物的运动，也从未看到命题的背后；从未超越命题主张和反驳的领域。
 
-这个东西是什么在奋斗？安德森采用了尼采式的前苏格拉底观点，将心智视为一种本能和激情的社会结构，相互竞争和合作。正是情感或感受本身在奋斗。例如，好奇心的激情是探究的实际动力。没有一个有意识的意愿实体来指导我们对世界的关注。“当然，欺骗的一部分，‘分析’神话的一部分，是自私的性质（‘当我启动我的分析机器时，我会发现什么？’），这与语言和探究是社会生活的固有部分，是沟通的一部分。”（_EMP_，181）
+这个东西是什么在奋斗？安德森采用了尼采式的前苏格拉底观点，将心智视为一种本能和激情的社会结构，相互竞争和合作。正是情感或感受本身在奋斗。例如，好奇心的激情是探究的实际动力。没有一个有意识的意愿实体来指导我们对世界的关注。“当然，欺骗的一部分，‘分析’神话的一部分，是自私的性质（‘当我启动我的分析机器时，我会发现什么？’），这与语言和探究是社会生活的固有部分，是沟通的一部分。”（*EMP*，181）
 
-批判性的探究本身依赖于特定的生活方式的存在，并从某种明确的生活方式中进行，这与安德森思想的伦理方面有着重要的联系。这些能够使个体摆脱平庸生活和物质关切的生活方式，是安德森所认为的伦理善的体现。对于安德森来说，如果善存在，我们必须将其视为这个世界上的一种自然品质，就像我们认识和辨认其他自然品质一样。然而，善不仅仅是我们发现的东西，而是“我们发现事物的方式”（_EMP_，266）。安德森意识到，他将善视为一种自然品质的观点不会说服每个人，他对于说服怀疑者几乎无能为力。但他声称，将会有那些认识到他立场真理的人，他们将会看到这种对善的看法是“他们长期以来在某种程度上熟悉的东西”（_EMP_，267）。
+批判性的探究本身依赖于特定的生活方式的存在，并从某种明确的生活方式中进行，这与安德森思想的伦理方面有着重要的联系。这些能够使个体摆脱平庸生活和物质关切的生活方式，是安德森所认为的伦理善的体现。对于安德森来说，如果善存在，我们必须将其视为这个世界上的一种自然品质，就像我们认识和辨认其他自然品质一样。然而，善不仅仅是我们发现的东西，而是“我们发现事物的方式”（*EMP*，266）。安德森意识到，他将善视为一种自然品质的观点不会说服每个人，他对于说服怀疑者几乎无能为力。但他声称，将会有那些认识到他立场真理的人，他们将会看到这种对善的看法是“他们长期以来在某种程度上熟悉的东西”（*EMP*，267）。
 
 ### 5.4 伦理学
 
-“事实上，我们并没有脱离事物的运动，询问‘我该做什么？’，然后得到答案后再重新加入其中。我们所有的行动，所有的问题和回答，都是事物运动的一部分。”（_EMP_，241）。
+“事实上，我们并没有脱离事物的运动，询问‘我该做什么？’，然后得到答案后再重新加入其中。我们所有的行动，所有的问题和回答，都是事物运动的一部分。”（*EMP*，241）。
 
-对于安德森来说，积极的伦理探究关注的是将善作为一种自然品质进行识别，他发现这最自然地与某些实际存在的实践和生活方式相关联，这些实践和生活方式存在于共同经验的世界中。传统上，善被抽象地认定为一个要实现或追求的目标，要么是一个我们只能向往的超越现实的实体（但以某种未解释的方式被认为可以指导我们的道德行为），要么是一个超越我们行动的现实世界的目标，通过这个目标可以评估我们的行动；例如，一些最佳的幸福或福利量，适用于涉及的最大人数。无论哪种情况，都是错误地提供了一种关系性解释，而不是识别真正的品质。这一直是自古希腊以来几乎所有道德思想的问题，尽管安德森认为 G·E·摩尔在这些问题上取得了重要进展。安德森提出，善存在于企业形式中，这些企业形式是能够通过“交流”以特殊方式发展的生产活动-个体被卷入这些善，并在这个过程中超越了他们更直接和平凡的目标和需求。任何社会生活理论都必须考虑没有明确目标的活动：习俗、常规行为形式和在目标制定之前的实践（_JAA_，《马克思主义的哲学意义》，1945 年）。
+对于安德森来说，积极的伦理探究关注的是将善作为一种自然品质进行识别，他发现这最自然地与某些实际存在的实践和生活方式相关联，这些实践和生活方式存在于共同经验的世界中。传统上，善被抽象地认定为一个要实现或追求的目标，要么是一个我们只能向往的超越现实的实体（但以某种未解释的方式被认为可以指导我们的道德行为），要么是一个超越我们行动的现实世界的目标，通过这个目标可以评估我们的行动；例如，一些最佳的幸福或福利量，适用于涉及的最大人数。无论哪种情况，都是错误地提供了一种关系性解释，而不是识别真正的品质。这一直是自古希腊以来几乎所有道德思想的问题，尽管安德森认为 G·E·摩尔在这些问题上取得了重要进展。安德森提出，善存在于企业形式中，这些企业形式是能够通过“交流”以特殊方式发展的生产活动-个体被卷入这些善，并在这个过程中超越了他们更直接和平凡的目标和需求。任何社会生活理论都必须考虑没有明确目标的活动：习俗、常规行为形式和在目标制定之前的实践（*JAA*，《马克思主义的哲学意义》，1945 年）。
 
-价值具有客观现实性，但并不是在一个超越事实或事态的世界中与之分离的超验领域。安德森同意“事物的本来面目”包括道德事实：“讨论社会过程除了以生活方式或企业形式的方式之外别无选择，这就是道德的特征”（_EMP_，330 页）。但他不能接受道德特征意味着道德规定，因为这将使我们臣服于命令的道德和旨在实现纯粹外在善的行动和改革计划。伦理探究的重要性在于对涉及特定心态或精神运作的_生产性_活动进行解释。在这样的活动中，不存在要实现的外在目标或奖励的问题。善存在于对这些运动和活动的自由、自发的参与中（当然，并不是指决定自由意志的形而上学意义上的自由-这些实践、社会运动和生活方式不是我们作为个体可以随意选择加入的事物；它们在某种意义上_选择了我们_）。根据这种观点，因为我们感到“有义务”而行动是善的_缺席_的表现。尽管“美德”这个概念对他来说并不太吸引人，但安德森强调实践和生活方式对个体伦理观的转变作用似乎与许多主要的美德伦理学家的主要关注点相吻合。阿拉斯代尔·麦金泰尔承认安德森对当代亚里士多德式美德伦理学的重要价值，他对冲突的赫拉克利特式欣赏以及他对批判传统的重视（麦金泰尔，1981 年）。
+价值具有客观现实性，但并不是在一个超越事实或事态的世界中与之分离的超验领域。安德森同意“事物的本来面目”包括道德事实：“讨论社会过程除了以生活方式或企业形式的方式之外别无选择，这就是道德的特征”（*EMP*，330 页）。但他不能接受道德特征意味着道德规定，因为这将使我们臣服于命令的道德和旨在实现纯粹外在善的行动和改革计划。伦理探究的重要性在于对涉及特定心态或精神运作的*生产性*活动进行解释。在这样的活动中，不存在要实现的外在目标或奖励的问题。善存在于对这些运动和活动的自由、自发的参与中（当然，并不是指决定自由意志的形而上学意义上的自由-这些实践、社会运动和生活方式不是我们作为个体可以随意选择加入的事物；它们在某种意义上*选择了我们*）。根据这种观点，因为我们感到“有义务”而行动是善的*缺席*的表现。尽管“美德”这个概念对他来说并不太吸引人，但安德森强调实践和生活方式对个体伦理观的转变作用似乎与许多主要的美德伦理学家的主要关注点相吻合。阿拉斯代尔·麦金泰尔承认安德森对当代亚里士多德式美德伦理学的重要价值，他对冲突的赫拉克利特式欣赏以及他对批判传统的重视（麦金泰尔，1981 年）。
 
-伦理学特别关注于揭示冲突的事实，不同事物的对立，尤其是在人类和心理生活中。因果关系的范畴对伦理领域至关重要 - 对因果关系的错误看法代表了逃避冲突、获得高于斗争和相互纠缠的立场的尝试（_JAA_，《批评讲座》，1954 年）。积极的伦理学展示了艰难斗争和受外部或工具性考虑驱使的其他生活方式不断努力追求美好生活（_JAA_，《希腊教育理论讲座》，1954 年）。美好存在于斗争中，因此无法得到保障（_JAA_，《哲学 I 讲座》，1943 年）。在生活的各个领域中，美好只能坚持立场。调和和妥协的尝试常常模糊问题，并可能对美好产生不利影响。这种独立和不妥协的立场最能服务于赫拉克利特式的和谐。
+伦理学特别关注于揭示冲突的事实，不同事物的对立，尤其是在人类和心理生活中。因果关系的范畴对伦理领域至关重要 - 对因果关系的错误看法代表了逃避冲突、获得高于斗争和相互纠缠的立场的尝试（*JAA*，《批评讲座》，1954 年）。积极的伦理学展示了艰难斗争和受外部或工具性考虑驱使的其他生活方式不断努力追求美好生活（*JAA*，《希腊教育理论讲座》，1954 年）。美好存在于斗争中，因此无法得到保障（*JAA*，《哲学 I 讲座》，1943 年）。在生活的各个领域中，美好只能坚持立场。调和和妥协的尝试常常模糊问题，并可能对美好产生不利影响。这种独立和不妥协的立场最能服务于赫拉克利特式的和谐。
 
-社会学研究适用于大部分传统道德术语。社会组织形式发展出常规的行为习惯，被视为义务：权利、责任等等在同一生活方式中的参与者很容易理解。资产阶级社会以商品化和契约关系为基础。市场破坏了民间生活，以及文化可以得到更新的重要来源之一（_JAA_，《马克思讲座》，1950 年）。马克思主义在这个领域取得了重要进展，但安德森指出大多数马克思主义者在道德问题上的“简单主义” - 利他主义似乎是他们对道德思考的巅峰（参见，对考茨基的评论，_EMP_，321），并且很少考虑到多样化的生活方式的重要性。
+社会学研究适用于大部分传统道德术语。社会组织形式发展出常规的行为习惯，被视为义务：权利、责任等等在同一生活方式中的参与者很容易理解。资产阶级社会以商品化和契约关系为基础。市场破坏了民间生活，以及文化可以得到更新的重要来源之一（*JAA*，《马克思讲座》，1950 年）。马克思主义在这个领域取得了重要进展，但安德森指出大多数马克思主义者在道德问题上的“简单主义” - 利他主义似乎是他们对道德思考的巅峰（参见，对考茨基的评论，*EMP*，321），并且很少考虑到多样化的生活方式的重要性。
 
 参与无私活动代表了“对事业的奉献”的伦理价值。安德森甚至提出了一种对罪恶的社会学解释，即一个人对社会运动的不足感，无法坚持旗帜飘扬，全身心地投入这些活动。罪恶则表现为一种倒退和主观主义：个体将自己设立为标准。安德森反对所有形式的宗教教导和对教育实践的干预，但他偶尔会以一种准神学的方式震惊他的学生，对世界上的邪恶存在表示赞赏。帕斯莫尔评论说，强调我们的生活不是我们创造的，它独立于我们的计划之外的宗教形式，从安德森的观点来看，比任何形式的世俗感伤人道主义更可取（帕斯莫尔，《EMP》导言）。
 
@@ -218,15 +218,15 @@ Rush Rhees 是安德森在爱丁堡的学生，当然后来也是路德维希·�
 
 安德森的政治思想在于他拒绝将国家作为政治调查和反思的基本对象。他的这一思想方面与现代尼采主义和反人本主义的政治思想相当一致。对于安德森来说，社会并不可简化为原子个体之间的协议。然而，在他的反个人主义言论中，他似乎回应了一个理想主义的社会运动观，比如伯纳德·博萨基特也同样谴责了原子个人主义的“令人厌恶的孤立”。文化和人类成就依赖于人类参与使他们超越自我的活动。除了与自然的斗争或广泛的社会运动之外，一个人就会变成无实体存在（博萨基特 1899 年，第 xxxiii 页以下）。
 
-安德森对好作为一个要实现的目标的拒绝也适用于他对社会主义作为一个进步运动以及对马克思主义的最终拒绝。“历史斗争的学说既是马克思主义的自由主义部分，也是科学部分；社会主义作为要建立的东西（‘无阶级社会’）则是它的奴性部分”（_EMP_，339 页）。对于安德森来说，社会主义不是一个要实现的目标，而是一个要加入的运动。工人们改善社会条件将通过他们自己在更广泛的社会政治领域中肯定他们的生活方式的价值和有效性的过程中实现。但是一旦缓解成为工人运动和代表的主要目标，那么这个运动就作为一个进步和解放力量而结束了。它可以被雇主和国家收买。社会主义被理解为一种游说国家采取行动和提供资金来纠正市场不公平的力量，已经陷入了作为历史事实的“奴性”状态。
+安德森对好作为一个要实现的目标的拒绝也适用于他对社会主义作为一个进步运动以及对马克思主义的最终拒绝。“历史斗争的学说既是马克思主义的自由主义部分，也是科学部分；社会主义作为要建立的东西（‘无阶级社会’）则是它的奴性部分”（*EMP*，339 页）。对于安德森来说，社会主义不是一个要实现的目标，而是一个要加入的运动。工人们改善社会条件将通过他们自己在更广泛的社会政治领域中肯定他们的生活方式的价值和有效性的过程中实现。但是一旦缓解成为工人运动和代表的主要目标，那么这个运动就作为一个进步和解放力量而结束了。它可以被雇主和国家收买。社会主义被理解为一种游说国家采取行动和提供资金来纠正市场不公平的力量，已经陷入了作为历史事实的“奴性”状态。
 
 ### 5.6 教育
 
 在 20 世纪 50 年代，安德森放弃了他在 40 年代讲座和写作中的广泛政治理论，转而更多地关注当地和机构问题。这种新的重点体现在他关于教育和批评的讲座中。安德森对教育的观点的核心是拒绝任何功利或工具性的教育观，即将教育视为达到其他目的的手段。教育需要被理解为一种具有自身积极特征的活动。教育是批判性的，致力于发展和抛弃假设，看穿各种虚伪。对个体来说，它意味着“找到一种生活方式”，并影响受教育个体的整个生活。批判性的知识分子生活作为一种社会传统得以延续，是一个吸引人并使人陷入其中的“运动”。
 
-安德森的古典主义推崇欧洲文化的历史，从早期的希腊人开始，作为一种批判性思维的传统，可以使当代教育在现代世界的实用主义和奴性侵害中得到更新和巩固。教育关注培养品味和判断力。受过教育的个体不受其社会或群体的假设所束缚（_JAA_，《斯宾塞和杜威的教育理论讲座》，1949 年）。但为了发挥其作用，教育必须抵制外部标准（如商业社会的态度和能力所设定的标准，或商业的职业需求），以确定在教育机构中允许和重视什么。里斯（Rhees）认为安德森主要关注“文法学校教育”，而不适合“大众”（里斯，1969 年，第 168 页）。特别是对于安德森来说，职业和道德标准必须抵制。真正的学习并不容易，也不能变得容易——它只能通过克服阻力来推进。探究的生活必须为自己辩护。它与其他活动一样真实、实用、积极地成为社会的一部分（J. L. Mackie，《EAI》中）。
+安德森的古典主义推崇欧洲文化的历史，从早期的希腊人开始，作为一种批判性思维的传统，可以使当代教育在现代世界的实用主义和奴性侵害中得到更新和巩固。教育关注培养品味和判断力。受过教育的个体不受其社会或群体的假设所束缚（*JAA*，《斯宾塞和杜威的教育理论讲座》，1949 年）。但为了发挥其作用，教育必须抵制外部标准（如商业社会的态度和能力所设定的标准，或商业的职业需求），以确定在教育机构中允许和重视什么。里斯（Rhees）认为安德森主要关注“文法学校教育”，而不适合“大众”（里斯，1969 年，第 168 页）。特别是对于安德森来说，职业和道德标准必须抵制。真正的学习并不容易，也不能变得容易——它只能通过克服阻力来推进。探究的生活必须为自己辩护。它与其他活动一样真实、实用、积极地成为社会的一部分（J. L. Mackie，《EAI》中）。
 
-任何学习的活动或机构只能沿着某些传统的轨道进行，有其守护者和共同的活动（_JAA_，《希腊教育理论讲座》，1954 年）。因为教育只是社会本身中的一种努力趋势，与其他努力趋势并存——即使在被认为致力于教育目标的机构内部，真正的教育价值也必须争取。
+任何学习的活动或机构只能沿着某些传统的轨道进行，有其守护者和共同的活动（*JAA*，《希腊教育理论讲座》，1954 年）。因为教育只是社会本身中的一种努力趋势，与其他努力趋势并存——即使在被认为致力于教育目标的机构内部，真正的教育价值也必须争取。
 
 安德森关于教育的讲座很有意思，因为他在其中详细阐述了他对马修·阿诺德古典主义的赞赏，尤其是他对约翰·杜威哲学的态度。除了他早期承认威廉·詹姆斯的重要性（至少是关于激进经验主义的更形而上学的著作）和他对 F.C.S.席勒的批评文章之外，对杜威的教育理论的考虑是安德森作品中对美国实用主义最重要的反思。理论与实践的关系问题一直是安德森反复思考的问题。他的立场是，这种联系是密切的，但不是他所认为实用主义所主张的方向。理论的有效性并不依赖于实践。相反，研究是从特定形式的实践中进行的。某些生活形式使客观事物的观察成为可能。此外，理论并不是以工具性的方式从属于实践，因为它本身是一种独特的实践形式，具有自己的要求和标准。安德森在教育讲座中以及在他关于马克思主义的讲座中，尤其是关于马克思的《费尔巴哈论纲》的讲座中，对这个问题进行了思考，他关注的是争论西德尼·胡克对这些论纲的实用主义解读（《马克思主义的哲学意义》）。他对这个神秘的《论纲》的考虑事实以及他对理论与实践关系的重要结论都会引起 20 世纪 70 年代普通哲学系的阿尔都塞派马克思主义者的共鸣。
 
@@ -238,9 +238,9 @@ Rush Rhees 是安德森在爱丁堡的学生，当然后来也是路德维希·�
 
 更加与 Push 的生活密切相关，并且更加特别地与约翰·安德森的直接教导有关的是无政府主义活动家和哲学家乔治·莫尔纳。他在 20 世纪 50 年代参加了安德森的讲座，并在 20 世纪 60 年代与阿姆斯特朗和 C·B·马丁有关的形而上学问题的辩论中积极参与。学生们回忆起阿姆斯特朗和莫尔纳在大学操场上围绕着 1970 年左右的性格和能力问题进行激烈争论，这无疑是由于他们当时的政治分歧所推动的。莫尔纳在 20 世纪 70 年代初开设了无政府主义和教育理论课程，但在 1976 年辞去了大学的职位，这与 Push 的反事业主义精神和当时的激进政治一致。也许他还发现自己的哲学兴趣站在了系内一个不可调和的分裂的错误一边。三十年后，他重返学术生活，在悉尼大学担任约翰·安德森研究员的兼职职位，但在 2002 年意外去世。他的著作《能力：形而上学研究》于 2007 年由牛津大学出版社在他的老对手 D·M·阿姆斯特朗的敦促下追授出版。
 
-虽然与传统形而上学和理性主义相比，安德森的哲学在语言学、科学和实用主义哲学的通缩野心方面有一些共同之处，但他的哲学是 20 世纪哲学的独特表达，起源于 19 世纪唯心主义的世界。安德森使用的术语不仅对当代读者具有系统性的误导性，而且他的工作属于一个更高哲学抱负的世界，一个哲学可以渴望在文化事务中扮演核心角色的世界，与他在中世纪哲学中看到的“摇摇欲坠的哲学装置”和整个“知识混乱”不同（_EMP_，187-88）。
+虽然与传统形而上学和理性主义相比，安德森的哲学在语言学、科学和实用主义哲学的通缩野心方面有一些共同之处，但他的哲学是 20 世纪哲学的独特表达，起源于 19 世纪唯心主义的世界。安德森使用的术语不仅对当代读者具有系统性的误导性，而且他的工作属于一个更高哲学抱负的世界，一个哲学可以渴望在文化事务中扮演核心角色的世界，与他在中世纪哲学中看到的“摇摇欲坠的哲学装置”和整个“知识混乱”不同（*EMP*，187-88）。
 
-对安德森缺乏哲学兴趣的现状似乎与他在澳大利亚知识界的地位以及他的作品的内在品质有关。这部分是由于他在 20 世纪 50 年代坚决反共立场引发的文化战争中的身后角色。对他的作品的任何考虑很快就会陷入不受欢迎和无关的辩论中。此外，安德森对哲学的理解，将其视为一种主导科学、心理学、社会研究、文学、语言学和人文学科合法研究形式的主导学科，加上他个人中的“某种长老会的不妥协性”（_EAI_，22），使他在学术界成为一个不受欢迎的人物（参见 Partridge 和 Kamenka 关于他们与安德森学习的描述，_EAI_）。
+对安德森缺乏哲学兴趣的现状似乎与他在澳大利亚知识界的地位以及他的作品的内在品质有关。这部分是由于他在 20 世纪 50 年代坚决反共立场引发的文化战争中的身后角色。对他的作品的任何考虑很快就会陷入不受欢迎和无关的辩论中。此外，安德森对哲学的理解，将其视为一种主导科学、心理学、社会研究、文学、语言学和人文学科合法研究形式的主导学科，加上他个人中的“某种长老会的不妥协性”（*EAI*，22），使他在学术界成为一个不受欢迎的人物（参见 Partridge 和 Kamenka 关于他们与安德森学习的描述，*EAI*）。
 
 大卫·阿姆斯特朗将安德森描述为“一个失败的伟大哲学家-他比我们其他人玩得更高”（个人交流）。这种对他重要性的评估中透露出一种矛盾的态度。另一方面，虽然有人认为安德森几乎英勇地坚持了错误的哲学潮流，但也有很多人认为他在悉尼的主导地位完全是负面的：他对 19 世纪以来技术逻辑的发展、理论物理学的发展以及对语言使用和科学研究性质的哲学兴趣的漠不关心。安德森在面对零散而不健全的哲学趋势时，是维护传统哲学价值观和研究标准，还是使悉尼的学生与国际哲学和科学接触的生命之源隔绝？他的许多学生在哲学上的突出地位强烈表明了前者，但即使是他最忠诚的追随者也承认他在教育实践中存在促进盲目从众的倾向。
 
@@ -252,77 +252,77 @@ Rush Rhees 是安德森在爱丁堡的学生，当然后来也是路德维希·�
 
 #### Published in his lifetime
 
-| \[_EAP_] | _Education and Politics_, Sydney: Angus and Robertson, 1931.          |
+| \[*EAP*] | *Education and Politics*, Sydney: Angus and Robertson, 1931.          |
 | -------- | --------------------------------------------------------------------- |
-| \[_EMP_] | _Studies in Empirical Philosophy_, Sydney: Angus and Robertson, 1962. |
+| \[*EMP*] | *Studies in Empirical Philosophy*, Sydney: Angus and Robertson, 1962. |
 
 #### Selections published after his death
 
-| \[_AAR_] | _Art and Reality: John Anderson on Literature and Aesthetics_, Janet Anderson, Graham Cullum and Kim Lycos (eds.), Sydney: Hale and Iremonger, 1982.      |
+| \[*AAR*] | *Art and Reality: John Anderson on Literature and Aesthetics*, Janet Anderson, Graham Cullum and Kim Lycos (eds.), Sydney: Hale and Iremonger, 1982.      |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \[_EAI_] | _Education and Inquiry_, D. Z. Phillips (ed.), Oxford: Basil Blackwell, 1980.                                                                             |
-| \[_JAA_] | The John Anderson Archive, online archive of Anderson’s unpublished lectures and other works available at the University of Sydney Library.               |
-| \[_LGP_] | _Lectures on Greek Philosophy 1928_, with an Introduction by Graham Cullum, Sydney: Sydney University Press, 2008.                                        |
-| \[_LMP_] | _Lectures on Modern Philosophy 1932–35: Hume, Reid, James_, Sydney: Sydney University Press, 2008.                                                        |
-| \[_STC_] | _Space, Time and the Categories: Lectures on Metaphysics 1949–50_, with an Introduction by D. M. Armstrong, Sydney: Sydney University Press, 2007.        |
-| \[_PFL_] | _A Perilous and Fighting Life: the Political Writings of John Anderson_, Mark Weblin (ed.), Sydney: Pluto Press, 2003.                                    |
-| \[_LPT_] | _Lectures on Political Theory 1941–45_, Sydney: Sydney University Press, 2007.                                                                            |
-| \[_STP_] | _Space-Time and the Proposition: the 1944 Lectures on Samuel Alexander’s Space Time and Deity_, Mark Weblin (ed.), Sydney: Sydney University Press, 2005. |
+| \[*EAI*] | *Education and Inquiry*, D. Z. Phillips (ed.), Oxford: Basil Blackwell, 1980.                                                                             |
+| \[*JAA*] | The John Anderson Archive, online archive of Anderson’s unpublished lectures and other works available at the University of Sydney Library.               |
+| \[*LGP*] | *Lectures on Greek Philosophy 1928*, with an Introduction by Graham Cullum, Sydney: Sydney University Press, 2008.                                        |
+| \[*LMP*] | *Lectures on Modern Philosophy 1932–35: Hume, Reid, James*, Sydney: Sydney University Press, 2008.                                                        |
+| \[*STC*] | *Space, Time and the Categories: Lectures on Metaphysics 1949–50*, with an Introduction by D. M. Armstrong, Sydney: Sydney University Press, 2007.        |
+| \[*PFL*] | *A Perilous and Fighting Life: the Political Writings of John Anderson*, Mark Weblin (ed.), Sydney: Pluto Press, 2003.                                    |
+| \[*LPT*] | *Lectures on Political Theory 1941–45*, Sydney: Sydney University Press, 2007.                                                                            |
+| \[*STP*] | *Space-Time and the Proposition: the 1944 Lectures on Samuel Alexander’s Space Time and Deity*, Mark Weblin (ed.), Sydney: Sydney University Press, 2005. |
 
 ### Secondary Literature
 
-* Armstrong, D. M., 1977, “On Metaphysics”, _Quadrant_, 21 (7): 64–69.
-* –––, 1997, _Universals and Scientific Realism_, Cambridge: Cambridge University Press.
-* –––, 2001, “Interview”, _Matters of the Mind: Poems, Essays and Interviews in Honour of Leonie Kramer_, Lee Jobling and Catherine Runcie (eds.), Sydney: University of Sydney Press, 322–32.
-* Baker, A. J., 1979, _The Social Thought and Political Life of Professor John Anderson_, Sydney: Angus and Robertson.
-* –––, 1986, _Australian Realism: the Systematic Philosophy of John Anderson_, Cambridge: Cambridge University Press.
-* Barcun, A., 2002, _Radical Students: the Old left at Sydney University_, Melbourne: Melbourne University Press.
-* Birchall, B., 1983, “The Problem of Form”, _International Studies in Philosophy_, 15: 15–40.
-* Bosanquet, Bernard, 1899, _The Philosophical Theory of the State_, London: Macmillan.
-* Boucher, David, 1990, “Practical Hegelianism: Henry Jones’s Lecture Tour of Australia”, _Journal of the History of Ideas_, 51(3): 423–52.
-* Brandom, Robert, 2000, _Articulating Reasons: an introduction to inferentialism_, Cambridge: Cambridge University Press.
-* Cole, Creagh McLean, 2009, “John Anderson’s Political Thought Revisited”, _Australian Journal of Political Science_, 44(2): 229–44.
-* –––, 2010, “The Ethic of the Producers: Sorel, Anderson and Macintyre”, _History of Political Thought_, 31(1): 155–76.
-* Damousi, Joy, 2005, _Freud in the Antipodes: A Cultural History of Psychoanalysis in Australia_, Sydney: University of New South Wales Press.
-* Davie, George, 1961, _The Democratic intellect: Scotland and Her Universities in the Nineteenth Century_, Edinburgh: Edinburgh University Press.
-* –––, 1977, “John Anderson in Scotland”, _Quadrant_, 21(7): 55–57.
-* Devitt, Michael, 2010, “‘Ostrich Nominalism’ or ‘Mirage Realism’”, in _Putting Metaphysics First: Essays on Metaphysics and Epistemology_, Oxford: Oxford University Press.
-* Eddy, Harry, 1944, “Ethics and Politics”, _Australasian Journal of Psychology and Philosophy_, 22: 70–92.
-* Franklin, James, 2003, _Corrupting the Youth: a History of Philosophy in Australia_, Sydney: Macleay Press.
-* Gasking, D. A. T., 1949, “Anderson and the Tractatus Logico-Philosophicus”, _Australasian Journal of Philosophy_, 27(1): 1–26.
-* Hibberd, Fiona, 2009, “John Anderson’s Development of (Situational) Realism and its Bearing on Psychology Today”, _History of the Human Sciences_, 22(4): 63–92.
-* Hylton, Peter, 1990, _Russell, Idealism and the Emergence of Analytic Philosophy_, Oxford: Clarendon Press.
-* Kennedy, Brian, 1995, _A Passion to Oppose: John Anderson, Philosopher_, Melbourne: Melbourne University Press.
-* Macintyre, Alasdair, 1981, _After Virtue: a Study in Moral Theory_. London: Duckworth.
-* –––, 1988, _Whose Justice; Which Rationality_, London: Duckworth.
-* Mackie, J. L., 1946, “A Refutation of Morals”, _Australasian Journal of Psychology and Philosophy_, 24(1–2): 77–90.
-* –––, 1951, “Logic and Professor Anderson”, _Australasian Journal of Philosophy_, 29(2): 109–113.
-* –––, 1985, “The Philosophy of John Anderson”, _Logic and Knowledge: Selected Papers_ (Volume I), Oxford: Clarendon Press, pp. 1–20.
-* Mounce, H. O., 1989, “Anderson on Generality”, _Wittgenstein: Attention to Particulars. Essays in Honour of Rush Rhees (1905–89)_, D. Z. Phillips and Peter Winch (eds.), London: Macmillan.
-* Mumford, Stephen, 2007, _David Armstrong_, Durham: Acumen.
-* Passmore, John, 1943, “Logical Positivism” (Parts I and II), _Australasian Journal of Psychology and Philosophy_, 21(2–3): 65–92; 22(3): 129–53.
-* –––, 1948, “Logical Positivism” (Part III), _Australasian Journal Philosophy_, 26(1): 1–19.
-* –––, 1962, “John Anderson and Twentieth Century Philosophy”, Introduction to John Anderson’s posthumous work, _Studies in Empirical Philosophy_, Sydney: Angus and Robertson, pp. ix-xxiv.
-* –––, 1963, “Philosophy”, in _The Pattern of Australian Culture_, A. L. McLeod (ed.), New York: Cornell University Press.
-* –––, 1997, _Memoirs of a Semi-Detached Australian_, Melbourne: Melbourne University Press.
-* Price, Huw, 2011, _Naturalism Without Mirrors_, Oxford: Oxford University Press.
-* Quine, W. V. O., 1953, _From a Logical Point of View_, Cambridge MA: Harvard University Press.
-* Redding, Paul, 2007, _Analytic Philosophy and the Return of Hegelian Thought_, Cambridge: Cambridge University Press.
-* Reinhardt, Lloyd, 1980, “Olympian Pessimist”, _Quadrant_, 24(4): 48–52.
-* Rhees, Rush, 1969, _Without Answers_, London: Routledge and Kegan Paul.
-* –––, 1999, _Moral Questions_, London: Macmillan.
-* Rorty, Richard, 1986, “From Language to Play”, _Proceedings of the American Philosophical Association_, 59(5): 747–53.
-* Ryle, Gilbert, 1950, “Logic and Professor Anderson”, _Australasian Journal of Philosophy_, 28(3): 137–53.
-* –––, 1976, “Fifty Years of Philosophy and Philosophers”, _Philosophy_, 51(198): 381–89.
-* Schiller, F. C. S., 1926, “Judgments and Propositions”, _Mind_ (New Series), 35(139): 337–43.
-* –––, 1927, “The Two Logics”, _Mind_ (New Series), 36(141): 64–68.
-* Stavropoulos, Pam, 1992, “Conservative Radical”, _Australian Journal of Anthropology_, 3: 67–79.
-* Stewart, A. W., 2009, “A Debate about Anderson’s Logic”, _History and Philosophy of Logic_, 30(2): 157–69.
-* Weblin, Mark, 2003, “Introduction”, in M. Weblin (ed.), _A Perilous and Fighting Life: Political Writings of John Anderson_, London: Pluto Press.
-* –––, 2007, “John Anderson”, _Dictionary of Twentieth Century British Philosophers_, London: Bloomsbury Academic.
-* –––, 2007, “John Anderson on Reid and Scottish Philosophy”, _Monist_, 90: 310.
-* –––, 2010, “John Anderson and Idealism”, _Biographical Encyclopedia of British Idealism_, London: Bloomsbury Academic.
-* –––, 2014, “John Anderson Arrives: 1930s”, _History of Philosophy in Australia and New Zealand_, Graham Oppy and Nick Trakakis (eds.), Dordrecht: Springer, pp. 55–87.
+* Armstrong, D. M., 1977, “On Metaphysics”, *Quadrant*, 21 (7): 64–69.
+* –––, 1997, *Universals and Scientific Realism*, Cambridge: Cambridge University Press.
+* –––, 2001, “Interview”, *Matters of the Mind: Poems, Essays and Interviews in Honour of Leonie Kramer*, Lee Jobling and Catherine Runcie (eds.), Sydney: University of Sydney Press, 322–32.
+* Baker, A. J., 1979, *The Social Thought and Political Life of Professor John Anderson*, Sydney: Angus and Robertson.
+* –––, 1986, *Australian Realism: the Systematic Philosophy of John Anderson*, Cambridge: Cambridge University Press.
+* Barcun, A., 2002, *Radical Students: the Old left at Sydney University*, Melbourne: Melbourne University Press.
+* Birchall, B., 1983, “The Problem of Form”, *International Studies in Philosophy*, 15: 15–40.
+* Bosanquet, Bernard, 1899, *The Philosophical Theory of the State*, London: Macmillan.
+* Boucher, David, 1990, “Practical Hegelianism: Henry Jones’s Lecture Tour of Australia”, *Journal of the History of Ideas*, 51(3): 423–52.
+* Brandom, Robert, 2000, *Articulating Reasons: an introduction to inferentialism*, Cambridge: Cambridge University Press.
+* Cole, Creagh McLean, 2009, “John Anderson’s Political Thought Revisited”, *Australian Journal of Political Science*, 44(2): 229–44.
+* –––, 2010, “The Ethic of the Producers: Sorel, Anderson and Macintyre”, *History of Political Thought*, 31(1): 155–76.
+* Damousi, Joy, 2005, *Freud in the Antipodes: A Cultural History of Psychoanalysis in Australia*, Sydney: University of New South Wales Press.
+* Davie, George, 1961, *The Democratic intellect: Scotland and Her Universities in the Nineteenth Century*, Edinburgh: Edinburgh University Press.
+* –––, 1977, “John Anderson in Scotland”, *Quadrant*, 21(7): 55–57.
+* Devitt, Michael, 2010, “‘Ostrich Nominalism’ or ‘Mirage Realism’”, in *Putting Metaphysics First: Essays on Metaphysics and Epistemology*, Oxford: Oxford University Press.
+* Eddy, Harry, 1944, “Ethics and Politics”, *Australasian Journal of Psychology and Philosophy*, 22: 70–92.
+* Franklin, James, 2003, *Corrupting the Youth: a History of Philosophy in Australia*, Sydney: Macleay Press.
+* Gasking, D. A. T., 1949, “Anderson and the Tractatus Logico-Philosophicus”, *Australasian Journal of Philosophy*, 27(1): 1–26.
+* Hibberd, Fiona, 2009, “John Anderson’s Development of (Situational) Realism and its Bearing on Psychology Today”, *History of the Human Sciences*, 22(4): 63–92.
+* Hylton, Peter, 1990, *Russell, Idealism and the Emergence of Analytic Philosophy*, Oxford: Clarendon Press.
+* Kennedy, Brian, 1995, *A Passion to Oppose: John Anderson, Philosopher*, Melbourne: Melbourne University Press.
+* Macintyre, Alasdair, 1981, *After Virtue: a Study in Moral Theory*. London: Duckworth.
+* –––, 1988, *Whose Justice; Which Rationality*, London: Duckworth.
+* Mackie, J. L., 1946, “A Refutation of Morals”, *Australasian Journal of Psychology and Philosophy*, 24(1–2): 77–90.
+* –––, 1951, “Logic and Professor Anderson”, *Australasian Journal of Philosophy*, 29(2): 109–113.
+* –––, 1985, “The Philosophy of John Anderson”, *Logic and Knowledge: Selected Papers* (Volume I), Oxford: Clarendon Press, pp. 1–20.
+* Mounce, H. O., 1989, “Anderson on Generality”, *Wittgenstein: Attention to Particulars. Essays in Honour of Rush Rhees (1905–89)*, D. Z. Phillips and Peter Winch (eds.), London: Macmillan.
+* Mumford, Stephen, 2007, *David Armstrong*, Durham: Acumen.
+* Passmore, John, 1943, “Logical Positivism” (Parts I and II), *Australasian Journal of Psychology and Philosophy*, 21(2–3): 65–92; 22(3): 129–53.
+* –––, 1948, “Logical Positivism” (Part III), *Australasian Journal Philosophy*, 26(1): 1–19.
+* –––, 1962, “John Anderson and Twentieth Century Philosophy”, Introduction to John Anderson’s posthumous work, *Studies in Empirical Philosophy*, Sydney: Angus and Robertson, pp. ix-xxiv.
+* –––, 1963, “Philosophy”, in *The Pattern of Australian Culture*, A. L. McLeod (ed.), New York: Cornell University Press.
+* –––, 1997, *Memoirs of a Semi-Detached Australian*, Melbourne: Melbourne University Press.
+* Price, Huw, 2011, *Naturalism Without Mirrors*, Oxford: Oxford University Press.
+* Quine, W. V. O., 1953, *From a Logical Point of View*, Cambridge MA: Harvard University Press.
+* Redding, Paul, 2007, *Analytic Philosophy and the Return of Hegelian Thought*, Cambridge: Cambridge University Press.
+* Reinhardt, Lloyd, 1980, “Olympian Pessimist”, *Quadrant*, 24(4): 48–52.
+* Rhees, Rush, 1969, *Without Answers*, London: Routledge and Kegan Paul.
+* –––, 1999, *Moral Questions*, London: Macmillan.
+* Rorty, Richard, 1986, “From Language to Play”, *Proceedings of the American Philosophical Association*, 59(5): 747–53.
+* Ryle, Gilbert, 1950, “Logic and Professor Anderson”, *Australasian Journal of Philosophy*, 28(3): 137–53.
+* –––, 1976, “Fifty Years of Philosophy and Philosophers”, *Philosophy*, 51(198): 381–89.
+* Schiller, F. C. S., 1926, “Judgments and Propositions”, *Mind* (New Series), 35(139): 337–43.
+* –––, 1927, “The Two Logics”, *Mind* (New Series), 36(141): 64–68.
+* Stavropoulos, Pam, 1992, “Conservative Radical”, *Australian Journal of Anthropology*, 3: 67–79.
+* Stewart, A. W., 2009, “A Debate about Anderson’s Logic”, *History and Philosophy of Logic*, 30(2): 157–69.
+* Weblin, Mark, 2003, “Introduction”, in M. Weblin (ed.), *A Perilous and Fighting Life: Political Writings of John Anderson*, London: Pluto Press.
+* –––, 2007, “John Anderson”, *Dictionary of Twentieth Century British Philosophers*, London: Bloomsbury Academic.
+* –––, 2007, “John Anderson on Reid and Scottish Philosophy”, *Monist*, 90: 310.
+* –––, 2010, “John Anderson and Idealism”, *Biographical Encyclopedia of British Idealism*, London: Bloomsbury Academic.
+* –––, 2014, “John Anderson Arrives: 1930s”, *History of Philosophy in Australia and New Zealand*, Graham Oppy and Nick Trakakis (eds.), Dordrecht: Springer, pp. 55–87.
 
 ## Academic Tools
 
@@ -345,4 +345,4 @@ Rush Rhees 是安德森在爱丁堡的学生，当然后来也是路德维希·�
 Many thanks to the close reading and very helpful suggestions of an anonymous referee.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Creagh McLean Cole <[_creaghmcole@gmail.com_](mailto:creaghmcole%40gmail%2ecom)>
+Creagh McLean Cole <[*creaghmcole@gmail.com*](mailto:creaghmcole%40gmail%2ecom)>

@@ -1,6 +1,6 @@
 # 阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪 al-Kindi (Peter Adamson)
 
-_首次发表于 2006 年 12 月 1 日；实质性修订于 2020 年 2 月 21 日_
+*首次发表于 2006 年 12 月 1 日；实质性修订于 2020 年 2 月 21 日*
 
 阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪（约公元 800 年至 870 年）是阿拉伯传统中首位自称哲学家的人物。他与一群翻译家合作，将亚里士多德、新柏拉图主义者和希腊数学家、科学家的作品翻译成阿拉伯语。肯迪自己的论文，其中许多是写给哈里发家族成员的书信，严重依赖这些翻译，其中包括著名的《亚里士多德神学》和《原因之书》，这是普罗提诺斯和普罗克鲁斯的作品的阿拉伯版本。肯迪的思想中充满了新柏拉图主义的影响，尽管他在哲学问题上的主要权威是亚里士多德。肯迪的哲学论文包括《论第一哲学》，他在其中论证了世界并非永恒存在，上帝是一个简单的存在。他还写了许多关于其他哲学主题的作品，尤其是心理学（包括著名的《论智力》）和宇宙学。肯迪在数学和科学方面的工作也非常广泛，他以对占星术的著作而在后来的阿拉伯和拉丁传统中闻名。
 
@@ -77,7 +77,7 @@ _首次发表于 2006 年 12 月 1 日；实质性修订于 2020 年 2 月 21 �
 
 然而，在《第一哲学》的神学中，中心概念既不是真理也不是存在，而是一元性。事实上，肯迪通过论证一元性的第一原因来证明存在的第一原因，并断言“使某物存在”意味着施加某种统一。因此，肯迪的哲学神学有两个主要方面：一是证明必须存在某种“真正的一元”，它是一切事物统一的原因；二是讨论这个真正的一元的本质。这些方面分别在《第一哲学》的第三和第四部分中进行讨论。
 
-在第三部分中，肯迪首先证明了没有什么东西可以成为自己的原因，这一点在接下来的内容中没有明确使用，但可能意在表明没有什么东西可以成为自己统一的原因。然后，他对各种“言辞（_lafz_）”进行了详尽的调查。在继承波菲里的《导引论》的基础上，他将所有谓词或术语（_maqulat_）分为种类、物种、差异、个体、特定的偶然和普遍的偶然。肯迪依次论证了每种类型的谓词都意味着统一和多样性。例如，_动物_是一个种类，但它由多种物种组成；_人类_是一个物种，但由许多个体组成；一个单独的人是一个个体，但由许多身体部分组成。最后，肯迪寻求解释为什么所有这些事物都存在统一和多样性的关联。他认为，这种关联不能仅仅是偶然的产物；也不能是由于那些既是一又是多的事物集合中的任何部分引起的。因此，必须存在某种外部原因来解释统一和多样性的关联。这个原因将是唯一的，完全没有多样性：肯迪通过说它在“本质上”是唯一的，而其他事物在“偶然上”是唯一的来表达这一点。他还将其称为“真正的一元”，或者是上帝。
+在第三部分中，肯迪首先证明了没有什么东西可以成为自己的原因，这一点在接下来的内容中没有明确使用，但可能意在表明没有什么东西可以成为自己统一的原因。然后，他对各种“言辞（*lafz*）”进行了详尽的调查。在继承波菲里的《导引论》的基础上，他将所有谓词或术语（*maqulat*）分为种类、物种、差异、个体、特定的偶然和普遍的偶然。肯迪依次论证了每种类型的谓词都意味着统一和多样性。例如，*动物*是一个种类，但它由多种物种组成；*人类*是一个物种，但由许多个体组成；一个单独的人是一个个体，但由许多身体部分组成。最后，肯迪寻求解释为什么所有这些事物都存在统一和多样性的关联。他认为，这种关联不能仅仅是偶然的产物；也不能是由于那些既是一又是多的事物集合中的任何部分引起的。因此，必须存在某种外部原因来解释统一和多样性的关联。这个原因将是唯一的，完全没有多样性：肯迪通过说它在“本质上”是唯一的，而其他事物在“偶然上”是唯一的来表达这一点。他还将其称为“真正的一元”，或者是上帝。
 
 现在，既然我们已经看到每种术语或表达都意味着多样性和统一性，所以不足为奇的是，在《第一哲学》的第四节中，阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪继续论证各种谓词不适用于真正的一。他总结了他的结论如下（Rashed 和 Jolivet 1998，95）：
 
@@ -111,7 +111,7 @@ _首次发表于 2006 年 12 月 1 日；实质性修订于 2020 年 2 月 21 �
 
 现在，亚里士多德认为世界的永恒性只承认了“潜在”无限。这是因为说世界一直存在并不意味着任何无限是“当前”实际的。相反，它只意味着“世界已经存在了 N 年”对于任何 N 的值都是真实的。可以说，我们可以向过去无限延伸，假设越来越大（但仍然是有限的）的过去时间段，就像我们可以将一个物体划分得越来越细一样。而且远非清楚这种“潜在”无限是否适用于有限的大小。阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪对此有何回应？
 
-他确实这样做，尽管他的回应只出现在他对世界永恒性的论述的最后。这个回应也可以在菲洛普诺斯的著作中找到，即为了达到当前时刻，实际上必须已经经过了无限多的时刻。换句话说，目前已经有实际上无限多的时刻（或年份，或其他）已经过去了"自世界开始以来"。正如亚里士多德自己所说，无限是无法穿越的。这个论证是否成功尚不清楚。它似乎预设我们选择一个无限远的过去时间点，然后计算自那时以来经过的年数。但亚里士多德可能会阻止最初选择一个无限远的过去时间点的行动，并坚持任何我们在过去选择的_特定_时间点都将被有限的年数与现在分隔开。
+他确实这样做，尽管他的回应只出现在他对世界永恒性的论述的最后。这个回应也可以在菲洛普诺斯的著作中找到，即为了达到当前时刻，实际上必须已经经过了无限多的时刻。换句话说，目前已经有实际上无限多的时刻（或年份，或其他）已经过去了"自世界开始以来"。正如亚里士多德自己所说，无限是无法穿越的。这个论证是否成功尚不清楚。它似乎预设我们选择一个无限远的过去时间点，然后计算自那时以来经过的年数。但亚里士多德可能会阻止最初选择一个无限远的过去时间点的行动，并坚持任何我们在过去选择的*特定*时间点都将被有限的年数与现在分隔开。
 
 ## 4. 心理学
 
@@ -119,7 +119,7 @@ _首次发表于 2006 年 12 月 1 日；实质性修订于 2020 年 2 月 21 �
 
 我们有两部阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪（al-Kindi）的作品专门研究人的灵魂的本体论：《论非物质实体》和《论灵魂》。这两部作品依赖于非常不同的希腊来源，并且在修辞表达上也非常不同。但从中得出的教义并不一定是不一致的。
 
-_关于非物质实体的存在_（阿布·里达 1950 年，265-69 页，亚当森和波尔曼 2009 年）是对亚里士多德的《范畴论》思想在展示人类灵魂是非物质实体问题上的创造性应用。肯迪分阶段进行这项任务，首先证明灵魂是一种实体，然后证明它是非物质的。他通过借鉴《范畴论》的开篇章节来主张某物的本质与该物共享名称和定义，从而论证灵魂是一种实体。由于灵魂是生物的本质，而生物是一种实体，所以灵魂也是一种实体。此外，它是一种非物质实体：因为灵魂是“生物智力形式”，而智力形式是一种物种。但是，肯迪认为，物种是非物质的；因此灵魂是非物质的。在这一系列论证中存在问题的一种做法是将人类灵魂与人类物种等同起来。这似乎是肯迪试图将“范畴论”中的“次级实体”与《论灵魂》和《形而上学》等作品中的形式学说结合起来的尝试。肯迪简单地混淆了这两个概念，没有进行论证——他没有回答明显的问题，即如何存在许多人类灵魂，而所有这些灵魂都与单一物种“人类”相同。
+*关于非物质实体的存在*（阿布·里达 1950 年，265-69 页，亚当森和波尔曼 2009 年）是对亚里士多德的《范畴论》思想在展示人类灵魂是非物质实体问题上的创造性应用。肯迪分阶段进行这项任务，首先证明灵魂是一种实体，然后证明它是非物质的。他通过借鉴《范畴论》的开篇章节来主张某物的本质与该物共享名称和定义，从而论证灵魂是一种实体。由于灵魂是生物的本质，而生物是一种实体，所以灵魂也是一种实体。此外，它是一种非物质实体：因为灵魂是“生物智力形式”，而智力形式是一种物种。但是，肯迪认为，物种是非物质的；因此灵魂是非物质的。在这一系列论证中存在问题的一种做法是将人类灵魂与人类物种等同起来。这似乎是肯迪试图将“范畴论”中的“次级实体”与《论灵魂》和《形而上学》等作品中的形式学说结合起来的尝试。肯迪简单地混淆了这两个概念，没有进行论证——他没有回答明显的问题，即如何存在许多人类灵魂，而所有这些灵魂都与单一物种“人类”相同。
 
 除了简短的开头和结尾的话外，《论灵魂》（阿布·里达 1950 年，272-80 页；也有丹科纳 1996 年，杰内昆德 1987 年，乔利维特 1996 年）完全由所谓的希腊权威人物（柏拉图、毕达哥拉斯和亚里士多德）关于灵魂的本质的引用组成。实际使用的来源不清楚，尽管《理想国》是描述柏拉图三分灵魂的最终来源。关于亚里士多德的部分是关于一个希腊国王的寓言，与任何现存的亚里士多德作品无关。这些话的基调是劝告性的、禁欲的，甚至是幻想性的：我们的任务是净化我们的灵魂，摆脱来自身体的“污点”，并通过天体层次逐渐上升，最终进入“智慧世界”，在那里它将居住在“造物主的光芒”中。这里所指的灵魂似乎是理性灵魂：柏拉图三分灵魂的较低部分（易怒和贪欲部分）被描述为根植于身体的能力。这种心理学的学说并不像《非物质实体》那样，灵魂是一种与身体分离的“简单实体”。事实上，在肯迪的结尾陈述中，这被呈现为该论文的总体信息。
 
@@ -139,7 +139,7 @@ _关于非物质实体的存在_（阿布·里达 1950 年，265-69 页，亚当
 
 ### 4.3 应用于伦理学
 
-鉴于阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪将理性灵魂与身体和较低的心理能力分开，并将理性灵魂视为我们真正的“自我”或“本质”，并且是我们唯一在身体死亡后幸存的部分，因此他的伦理思想同样是高度知识主义的。不幸的是，在《费里斯特》中归因于他的伦理和政治主题的众多作品几乎全部失传。最重要的剩余文本是《消除悲伤》（Ritter 和 Walzer 1938，Butterworth 1992，Druart 1993，Jayyusi-Lehn 2002，Mestiri 和 Dye 2004）。这也是阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪的作品，后来的思想家最常引用的作品，例如 Miskawayh 在他的《塔赫迪卜·阿赫拉克》（_The Refinement of Character_）中。
+鉴于阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪将理性灵魂与身体和较低的心理能力分开，并将理性灵魂视为我们真正的“自我”或“本质”，并且是我们唯一在身体死亡后幸存的部分，因此他的伦理思想同样是高度知识主义的。不幸的是，在《费里斯特》中归因于他的伦理和政治主题的众多作品几乎全部失传。最重要的剩余文本是《消除悲伤》（Ritter 和 Walzer 1938，Butterworth 1992，Druart 1993，Jayyusi-Lehn 2002，Mestiri 和 Dye 2004）。这也是阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪的作品，后来的思想家最常引用的作品，例如 Miskawayh 在他的《塔赫迪卜·阿赫拉克》（*The Refinement of Character*）中。
 
 《消除悲伤》，正如其标题所示，是一部哲学安慰文学作品。文本的大部分内容都是实用建议、格言和寓言，当我们发现自己受到悲伤影响时，可以牢记这些内容。其中一个特别引人注目的段落将我们的人间生活比喻为海上航行中的临时停靠地；这个意象最初源自于 Epictetus。然而，这篇论文的哲学基础是在早期部分奠定的，阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪在这里提出了一个有原则的论证，反对对物质对象赋予价值。他说，根据它们的本质，财富和其他物质财产是脆弱和短暂的。没有人能确保他们的财产不会被夺走-它们可能会“被任何力量夺走”。更重要的是，它们本身是物质的事实意味着它们是可生成和可腐败的，因此是短暂的。相反，我们应该珍视和追求那些稳定和持久的事物，而这些事物不能被夺走：这些将是我们现在熟悉的“智力世界”中的事物。只要一个人的欲望完全指向可理解的事物，他就不会受到悲伤的伤害。因此，这个论证表明悲伤总是不必要的。在论文的其余部分提供的寓言和更实际的“疗法”旨在使我们更容易接受并按照这个结论生活。
 
@@ -151,7 +151,7 @@ _关于非物质实体的存在_（阿布·里达 1950 年，265-69 页，亚当
 
 阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪将数学应用于其他领域的一个很好的例子是他在光学中使用几何学（有关详细信息，请参见林德伯格 1971 年，拉希德 1997 年，亚当森 2006 年）。在这个主题上，阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪遵循了由欧几里得开创，托勒密和其他人继续的传统，其中几何构造被用来解释视觉透视、阴影、折射、反射和燃烧镜等现象。这个过程意味着光和视觉可以被形式化为几何线条，阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪及其来源通过声称视觉发生在从眼睛沿直线发射的“光线”击中视觉对象时来接受这一含义。同样，当光源发射光线击中物体表面时，物体就会被照亮。阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪的观点的某些方面预示了伊本·海塔姆的观点，后者几十年后成为第一个准确解释视觉的人。
 
-现在，这个基于“光线”的论述似乎也是阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪在物理科学上最雄心勃勃的作品的基础：一部名为《论光线》（_de Radiis_，参见 D'Alverny 和 Hudry 1974）的长篇论文，仅以拉丁文保存。关于它的真实性存在一些问题，但似乎可以认为《论光线》代表了阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪试图用基本几何机制来解释所有物理相互作用的努力 - 从加热和冷却，到视觉，到星体影响，到魔法咒语。（有关光学作品的联系，请参见 Travaglia 1999。）
+现在，这个基于“光线”的论述似乎也是阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪在物理科学上最雄心勃勃的作品的基础：一部名为《论光线》（*de Radiis*，参见 D'Alverny 和 Hudry 1974）的长篇论文，仅以拉丁文保存。关于它的真实性存在一些问题，但似乎可以认为《论光线》代表了阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪试图用基本几何机制来解释所有物理相互作用的努力 - 从加热和冷却，到视觉，到星体影响，到魔法咒语。（有关光学作品的联系，请参见 Travaglia 1999。）
 
 ### 5.2 宇宙学
 
@@ -159,7 +159,7 @@ _关于非物质实体的存在_（阿布·里达 1950 年，265-69 页，亚当
 
 阿尔-肯迪的著作包括几篇关于宇宙学的论文，解释和捍卫了一个由四个同心圆元素组成的宇宙图景，这些元素通过外层的天体球混合在一起，形成复杂的化合物，如矿物、植物和动物。尽管阿尔-肯迪的主要影响来自亚里士多德及其评论家的作品，特别是亚历山大，但他也对《柏拉图的时间》有所了解，这可以从一篇论文中看出，该论文解释了为什么柏拉图将元素和天体与柏拉图立体体积联系在一起（阿布·里达 1953 年，54-63 页；还有 Rescher 1968 年）。
 
-阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪在某种程度上追随亚历山大，他坚信天体是上帝对下界世界施行宿命的手段（参见 Fazzo 和 Wiesner 1993）。肯迪对占星术的大胆主张已经使他相信可以基于星体因果关系预测各种具体事件。他的宿命论更进一步，暗示着下界世界的_所有_事件都是由星体引起的，而星体则执行上帝的仁慈“命令”。这一学说在《最外层天体的屈服》（Abu Rida 1950, 244–261, Rashed and Jolivet 1998, 177–99）和《生成与腐败的近因》（Abu Rida 1950, 214–237）中得到阐述。前者解释了天体具有灵魂，并自由地遵循上帝的命令，以便以宿命意图的方式运动，从而实现下界的事物和事件。这正是肯迪所指的《古兰经》所说的星星在上帝面前“屈服”自己。与此同时，在《近因》中，肯迪更详细地阐述了天体如何引起下界事物的方式（他在这里提到了摩擦而非光线）。星体对我们世界最明显的影响当然是季节，因为太阳（由于其大小和接近度）是对我们世界影响最大的天体。根据肯迪的观点，如果没有这种天体因果关系，元素根本不会结合，下界将由四个纯净的地球、水、空气和火球组成。
+阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪在某种程度上追随亚历山大，他坚信天体是上帝对下界世界施行宿命的手段（参见 Fazzo 和 Wiesner 1993）。肯迪对占星术的大胆主张已经使他相信可以基于星体因果关系预测各种具体事件。他的宿命论更进一步，暗示着下界世界的*所有*事件都是由星体引起的，而星体则执行上帝的仁慈“命令”。这一学说在《最外层天体的屈服》（Abu Rida 1950, 244–261, Rashed and Jolivet 1998, 177–99）和《生成与腐败的近因》（Abu Rida 1950, 214–237）中得到阐述。前者解释了天体具有灵魂，并自由地遵循上帝的命令，以便以宿命意图的方式运动，从而实现下界的事物和事件。这正是肯迪所指的《古兰经》所说的星星在上帝面前“屈服”自己。与此同时，在《近因》中，肯迪更详细地阐述了天体如何引起下界事物的方式（他在这里提到了摩擦而非光线）。星体对我们世界最明显的影响当然是季节，因为太阳（由于其大小和接近度）是对我们世界影响最大的天体。根据肯迪的观点，如果没有这种天体因果关系，元素根本不会结合，下界将由四个纯净的地球、水、空气和火球组成。
 
 肯迪对星体因果关系和宿命的描述是他哲学方法的一个很好的例子：他结合并借鉴了亚里士多德、后来的希腊哲学家和托勒密等“科学”作者的思想，以理性的方式阐述了伊斯兰教的一个核心概念。《屈服》表明他甚至愿意使用这样的描述来解释《古兰经》本身。肯迪相信，一旦他的更有见识的同时代人和赞助者接触到希腊智慧的明智呈现，他们将同意这些外来文本可以与本土的“阿拉伯”学科（如语法）一起用于更深入地理解伊斯兰教本身。
 
@@ -173,72 +173,72 @@ _关于非物质实体的存在_（阿布·里达 1950 年，265-69 页，亚当
 
 ## Bibliography
 
-* Abu Rida, M.‘A.H. (ed.), 1950/1953, Al-Kindi, _Rasa’il al-Kindi al-Falsafiyya_, 2 volumes, Cairo: Dar al-Fikr al-‘Arabi.
-* Adamson, P., 2002a, “Abu Ma‘shar, al-Kindi and the Philosophical Defense of Astrology,” _Recherches de philosophie et théologie médiévales_, 69: 245–270.
-* –––, 2002b, “Before Essence and Existence: Al-Kindi’s Conception of Being,” _The Journal of the History of Philosophy_, 40: 297–312.
-* –––, 2003, “Al-Kindi and the Mu‘tazila: Divine Attributes, Creation and Freedom,” _Arabic Sciences and Philosophy_, 13: 45–77.
-* –––, 2005, “Al-Kindi and the Reception of Greek Philosophy,”in _The Cambridge Companion to Arabic Philosophy_, ed. P. Adamson and R.C. Taylor, Cambridge: Cambridge University Press, 32–51.
-* –––, 2006, “Vision, Light and Color in al-Kindi, Ptolemy and the Ancient Commentators,” _Arabic Sciences and Philosophy_, 16: 207–236.
-* –––, 2007, _Al-Kindi_, New York: Oxford University Press.
-* –––, 2015, _Studies on Plotinus and al-Kindi_, Farnham: Ashgate Variorum.
-* Adamson, P. and Pormann, P.E. (trans.), 2012, _The Philosophical Works of al-Kindi_, Karachi: Oxford University Press.
-* Adamson, P. and Pormann, P.E., 2009, “Aristotle’s _Categories_ and the Soul: an Annotated Translation of al-Kindi’s _That There Are Separate Substances_,” in J.M. Dillon and M. Elkaisy-Friemuth (eds), _The Afterlife of the Platonic Soul. Reflections of Platonic Psychology in the Monotheistic Religions_, Leiden: Brill, 95–106.
-* Akasoy, A. (trans.), 2011, _Al-Kindi: Die erste Philosophie_, Freiburg: Harder.
-* Allard, M., 1972, “L’épître de Kindi sur les definitions,” _Bulletin d’études orientales de l’Institut français de Damas_, 25: 47–83.
-* Altmann, A., and Stern, S.M., 1958, _Isaac Israeli: a Neoplatonic Philosopher of the Early Tenth Century_, Oxford: Oxford University Press.
-* Atiyeh, G.N., 1966, _Al-Kindi: the Philosopher of the Arabs_, Rawalpindi: Islamic Research Institute.
-* Burnett, C., 1993, “Al-Kindi on Judicial Astrology: ‘The Forty Chapters,’” _Arabic Sciences and Philosophy_, 3: 77–117.
-* –––, 1999, “Al-Kindi in the Renaissance,” in P.R. Blum (ed.), _Sapientiam amemus: Humanismus und Aristotelismus in der Renaissance_, München: Wilhelm Fink, 13–30.
-* Butterworth, C., 1992, “Al-Kindi and the Beginnings of Islamic Political Philosophy,” in C. Butterworth (ed.), _The Political Aspects of Islamic Philosophy_, Cambridge, MA: Harvard University Press, 14–32.
-* Celentano, G., 1979, _Due scritti medici di al-Kindi_, Naples: I.U.O.
-* Cortabarria Beitia, A., 1972, “La classification des sciences chez al-Kindi,” _MIDEO_, 11: 49–76.
-* D’Alverny, M.-T. and Hudry, F., 1974, “Al-Kindi. De Radiis,” _Archives d’histoire doctrinale et littéraire du moyen âge_, 61: 139–260.
-* D’Ancona, C., 1996, “La dottrina Neoplatonica dell’anima nella filosofia Islamica: un esempio in al-Kindi,” in _Actes del Simposi Internacional de Filosofia de l’Edat Mitjana_, Vic: Patronat d’Estudis Osonencs, 91–6.
-* –––, 1998, “Al-Kindi on the Subject Matter of the First Philosophy. Direct and Indirect Sources of ‘Falsafa-l-ula,’ Chapter One,” in J.A. Aertsen and A. Speer (eds), _Was ist Philosophie im Mittelalter_, Berlin: Walter de Gruyter, 841–55.
-* Davidson, H.A., 1969, “John Philoponus as a Source of Medieval Islamic and Jewish Proofs of Creation,” _Journal of the American Oriental Society_, 89: 357–91.
-* –––, 1987, _Proofs for Eternity, Creation and the Existence of God in Medieval Islamic and Jewish Philosophy_, New York: Oxford University Press.
-* Druart, T.-A., 1993, “Al-Kindi’s Ethics,” _Review of Metaphysics_, 47: 329–57.
-* Endress, G., 1980, Review of Jolivet (1971), _Zeitschrift der deutschen morgenländischen Gesellschaft_, 130: 422–35.
-* –––, 1986, “Al-Kindi’s Theory of Anamnesis. A New Text and its Implications,” in _Islão e arabismo na Península Ibérica: Actas do XI Congreso da União Europaeia de Arabistas e Islamólogos_, Évora: Universidade de Évora, 393–402.
-* –––, 1987/1992, “Die wissenschaftliche Literatur,” in H. Gätje (ed.), _Grundriss der arabischen Philologie_ (Wiesbaden: Ludwig Reichert), Volume 2, 400–506, Volume 3 (Supplement), 3–152.
-* –––, 1994, “Al-Kindi über die Wiedererinnerung der Seele,” _Oriens_, 34: 174–221.
-* –––, 1997, “The Circle of al-Kindi,” in G. Endress and R. Kruk (eds), _The Ancient Tradition in Christian and Islamic Hellenism_, Leiden: Research School CNWS, 43–76.
-* –––, 2003, “Mathematics and Philosophy in Medieval Islam,” in J.P. Hogendijk and A.I. Sabra (eds), _The Enterprise of Science in Islam_, Cambridge, MA: MIT Press, 121–76.
-* Endress, G. and Adamson, P., 2017, “Abu Yusuf al-Kindi,” in U. Rudolph, R. Hansberger, and P. Adamson (eds.), _Philsophy in the Islamic World_ (Volume 1: 8th to 10th Centuries), Leiden: Brill, 143–220.
-* Fakhry, M., 1963, “Al-Kindi wa ’l-Suqrat,” _al-Abhath_, 16: 23–34.
-* Fazzo, S. and Wiesner, H., 1993, “Alexander of Aphrodisias in the Kindi Circle and in al- Kindi’s Cosmology,” _Arabic Sciences and Philosophy_, 3: 119–53.
-* Gannagé, E., 2016, Al-Kindī, “Ptolemy (and Nicomachus of Gerasa) Revisited,” _Studia Graeco-Arabica_, 6: 83–112.
-* Gauthier, L., 1939, _Antécédents gréco-arabes de la psycho-physique_, Beirut: Imprimerie Catholique.
-* Genequand, C., 1987, “Platonism and Hermetism in al-Kindi’s _Fi al-Nafs_,” _Zeitschrift für Geschichte der arabisch-islamischen Wissenschaften_, 4: 1–18.
-* Guidi, M. and Walzer, R., 1940, _Uno Scritto Introduttivo allo Studio di Aristotele_, Rome: Reale Accademia Nazionale dei Lincei.
-* Gutas, D., 1998, _Greek Thought, Arabic Culture: the Graeco-Arabic Translation movement in Baghdad and early society (2nd-4th / 8th-10th centuries)_, London: Routledge.
-* Gutas, D., 2004, “Geometry and the Rebirth of Philosophy in Arabic with al-Kindi,” in R. Arnzen and J. Thielmann (eds), _Words, Texts and Concepts Cruising the Mediterranean Sea: Studies on the Sources, Contents and Influences of Islamic Civilization and Arabic Philosophy and Science_, Leuven: Peeters, 195–209.
-* Ighbariah, A., 2012, “Between Logic and Mathematics: al-Kindi’s Approach to the Aristotelian Categories,” _Arabic Sciences and Philosophy_, 22: 51–68.
-* Ivry, A., 1974, _Al-Kindi’s Metaphysics_, Albany: SUNY Press.
-* Janssens, J., 1994, “Al-Kindi’s Concept of God,” _Ultimate Reality and Meaning_, 17: 4–16.
-* Jayyusi-Lehn, G., 2002, “The Epistle of Ya‘qub ibn Ishaq al-Kindi on the Device for Dispelling Sorrows,” _British Journal of Middle Eastern Studies_, 29: 121–135.
-* Jolivet, J., 1971, _L’Intellect selon Kindi_, Leiden: Brill.
-* –––, 1979, “Pour le dossier du Proclus arabe: al-Kindi et la _Théologie Platonicienne_,” _Studia Islamica_, 49: 55–75.
-* –––, 1996, “La topographie du salut d’après le _Discours sur l’Âme_ d’al-Kindi,” in M.A. Amir-Moezzi (ed.), _La voyage initiatique en terre d’Islam_, Louvain: Peeters.
-* –––, 2004, “_L’Épître sur la quantité des livres d’Aristote_ par al-Kindi (une lecture),” in R. Morelon and A. Hasnawi (eds), _De Zénon d’Élée à Poincaré: Recueil d’études en hommage à Roshdi Rashed_, Louvain: Peeters, 665–83.
-* Klein-Franke, F., 1975, “Die Ursachen der Krisen bei akuten Krankheiten: eine wiederentdeckte Schrift al-Kindi’s,” _Israel Oriental Studies_, 5: 161–88.
-* –––, 1982, “Al-Kindi’s ‘On Definitions and Descriptions of Things,’” _Le Muséon: Revue des Études Orientales_, 95: 191–216.
-* Lindberg, D.C., 1971, “Alkindi’s Critique of Euclid’s Theory of Vision,” _Isis_, 62: 469–89.
-* McCarthy, R., 1964, “Al-Kindi’s Treatise on the Intellect,” _Islamic Studies_, 3: 119–49.
-* Mestiri, S. and Dye, G., 2004, _Al-Kindi: Le moyen de chasser les tristesses et autres textes éthiques_, Paris: Fayard.
-* Pines, S., 1974, “The Arabic Recension of _Parva Naturalia_ and the Philosophical Doctrine Concerning Veridical Dreams According to _al-Risala al-Manamiyya_ and Other Sources,” _Israel Oriental Studies_, 4: 104–53.
-* Périer, A., 1920, “Un traité de Yahya ben ‘Adi. Défense du dogme de la Trinité contre les objections d’al-Kindi,” _Revue de l’orient christian_ (3rd series), 22: 3–21.
-* Rashed, R., 1997, _Oeuvres Philosophiques & Scientifiques d’al-Kindi_: _Volume 1, L’Optique et la Catoptrique_, Leiden: Brill.
-* Rashed, R. and Jolivet, J., 1998, _Oeuvres Philosophiques & Scientifiques d’al-Kindi_: _Volume 2, Métaphysique et cosmologie_, Leiden: Brill.
-* Rescher, N., 1968, “Al-Kindi’s Treatise on the Platonic Solids,” in N. Rescher, _Studies in Arabic Philosophy_, Pittsburgh: Pittsburgh University Press, 15–37.
-* Ritter, H., and Walzer, R., 1938, _Uno Scritto Morale Inedito di al-Kindi_, Rome: Reale Accademia Nazionale dei Lincei.
-* Rosenthal, F., 1942, “Al-Kindi als Literat,” _Orientalia_, 11: 262–88.
-* Ruffinengo, P.P., 1997, “Al-Kindi, _Trattato sull’intelletto. Trattato sul sogno e la visione_,” _Medioevo_, 23: 337–94.
-* Schöck, C., 2012, “The Controversy between al-Kindi and Yahya b. ʿAdi on the Trinity: a revival of the Controversy Between Eunomius and the Cappadocian Fathers,” _Orientalia_, 40: 1–50.
-* Staley, K., 1989, “Al-Kindi on Creation: Aristotle’s Challenge to Islam,” _Journal of the History of Ideas_, 50: 355–70.
-* Tornero Poveda, E., 1992, _Al-Kindi: la transformacion de un pensamiento religioso en un pensamiento racional_, Madrid: Consejo Superior de Investigaciones Científicas.
-* Travaglia, P., 1999, _Magic, Causality, and Intentionality. The Doctrine of Rays in al-Kindi_, Turnhout: Micrologus.
-* Zakariyya’, Y., 1962, _Mu’allafat al-Kindi al-musiqiyya_, Baghdad: Matba‘a Shafiq.
+* Abu Rida, M.‘A.H. (ed.), 1950/1953, Al-Kindi, *Rasa’il al-Kindi al-Falsafiyya*, 2 volumes, Cairo: Dar al-Fikr al-‘Arabi.
+* Adamson, P., 2002a, “Abu Ma‘shar, al-Kindi and the Philosophical Defense of Astrology,” *Recherches de philosophie et théologie médiévales*, 69: 245–270.
+* –––, 2002b, “Before Essence and Existence: Al-Kindi’s Conception of Being,” *The Journal of the History of Philosophy*, 40: 297–312.
+* –––, 2003, “Al-Kindi and the Mu‘tazila: Divine Attributes, Creation and Freedom,” *Arabic Sciences and Philosophy*, 13: 45–77.
+* –––, 2005, “Al-Kindi and the Reception of Greek Philosophy,”in *The Cambridge Companion to Arabic Philosophy*, ed. P. Adamson and R.C. Taylor, Cambridge: Cambridge University Press, 32–51.
+* –––, 2006, “Vision, Light and Color in al-Kindi, Ptolemy and the Ancient Commentators,” *Arabic Sciences and Philosophy*, 16: 207–236.
+* –––, 2007, *Al-Kindi*, New York: Oxford University Press.
+* –––, 2015, *Studies on Plotinus and al-Kindi*, Farnham: Ashgate Variorum.
+* Adamson, P. and Pormann, P.E. (trans.), 2012, *The Philosophical Works of al-Kindi*, Karachi: Oxford University Press.
+* Adamson, P. and Pormann, P.E., 2009, “Aristotle’s *Categories* and the Soul: an Annotated Translation of al-Kindi’s *That There Are Separate Substances*,” in J.M. Dillon and M. Elkaisy-Friemuth (eds), *The Afterlife of the Platonic Soul. Reflections of Platonic Psychology in the Monotheistic Religions*, Leiden: Brill, 95–106.
+* Akasoy, A. (trans.), 2011, *Al-Kindi: Die erste Philosophie*, Freiburg: Harder.
+* Allard, M., 1972, “L’épître de Kindi sur les definitions,” *Bulletin d’études orientales de l’Institut français de Damas*, 25: 47–83.
+* Altmann, A., and Stern, S.M., 1958, *Isaac Israeli: a Neoplatonic Philosopher of the Early Tenth Century*, Oxford: Oxford University Press.
+* Atiyeh, G.N., 1966, *Al-Kindi: the Philosopher of the Arabs*, Rawalpindi: Islamic Research Institute.
+* Burnett, C., 1993, “Al-Kindi on Judicial Astrology: ‘The Forty Chapters,’” *Arabic Sciences and Philosophy*, 3: 77–117.
+* –––, 1999, “Al-Kindi in the Renaissance,” in P.R. Blum (ed.), *Sapientiam amemus: Humanismus und Aristotelismus in der Renaissance*, München: Wilhelm Fink, 13–30.
+* Butterworth, C., 1992, “Al-Kindi and the Beginnings of Islamic Political Philosophy,” in C. Butterworth (ed.), *The Political Aspects of Islamic Philosophy*, Cambridge, MA: Harvard University Press, 14–32.
+* Celentano, G., 1979, *Due scritti medici di al-Kindi*, Naples: I.U.O.
+* Cortabarria Beitia, A., 1972, “La classification des sciences chez al-Kindi,” *MIDEO*, 11: 49–76.
+* D’Alverny, M.-T. and Hudry, F., 1974, “Al-Kindi. De Radiis,” *Archives d’histoire doctrinale et littéraire du moyen âge*, 61: 139–260.
+* D’Ancona, C., 1996, “La dottrina Neoplatonica dell’anima nella filosofia Islamica: un esempio in al-Kindi,” in *Actes del Simposi Internacional de Filosofia de l’Edat Mitjana*, Vic: Patronat d’Estudis Osonencs, 91–6.
+* –––, 1998, “Al-Kindi on the Subject Matter of the First Philosophy. Direct and Indirect Sources of ‘Falsafa-l-ula,’ Chapter One,” in J.A. Aertsen and A. Speer (eds), *Was ist Philosophie im Mittelalter*, Berlin: Walter de Gruyter, 841–55.
+* Davidson, H.A., 1969, “John Philoponus as a Source of Medieval Islamic and Jewish Proofs of Creation,” *Journal of the American Oriental Society*, 89: 357–91.
+* –––, 1987, *Proofs for Eternity, Creation and the Existence of God in Medieval Islamic and Jewish Philosophy*, New York: Oxford University Press.
+* Druart, T.-A., 1993, “Al-Kindi’s Ethics,” *Review of Metaphysics*, 47: 329–57.
+* Endress, G., 1980, Review of Jolivet (1971), *Zeitschrift der deutschen morgenländischen Gesellschaft*, 130: 422–35.
+* –––, 1986, “Al-Kindi’s Theory of Anamnesis. A New Text and its Implications,” in *Islão e arabismo na Península Ibérica: Actas do XI Congreso da União Europaeia de Arabistas e Islamólogos*, Évora: Universidade de Évora, 393–402.
+* –––, 1987/1992, “Die wissenschaftliche Literatur,” in H. Gätje (ed.), *Grundriss der arabischen Philologie* (Wiesbaden: Ludwig Reichert), Volume 2, 400–506, Volume 3 (Supplement), 3–152.
+* –––, 1994, “Al-Kindi über die Wiedererinnerung der Seele,” *Oriens*, 34: 174–221.
+* –––, 1997, “The Circle of al-Kindi,” in G. Endress and R. Kruk (eds), *The Ancient Tradition in Christian and Islamic Hellenism*, Leiden: Research School CNWS, 43–76.
+* –––, 2003, “Mathematics and Philosophy in Medieval Islam,” in J.P. Hogendijk and A.I. Sabra (eds), *The Enterprise of Science in Islam*, Cambridge, MA: MIT Press, 121–76.
+* Endress, G. and Adamson, P., 2017, “Abu Yusuf al-Kindi,” in U. Rudolph, R. Hansberger, and P. Adamson (eds.), *Philsophy in the Islamic World* (Volume 1: 8th to 10th Centuries), Leiden: Brill, 143–220.
+* Fakhry, M., 1963, “Al-Kindi wa ’l-Suqrat,” *al-Abhath*, 16: 23–34.
+* Fazzo, S. and Wiesner, H., 1993, “Alexander of Aphrodisias in the Kindi Circle and in al- Kindi’s Cosmology,” *Arabic Sciences and Philosophy*, 3: 119–53.
+* Gannagé, E., 2016, Al-Kindī, “Ptolemy (and Nicomachus of Gerasa) Revisited,” *Studia Graeco-Arabica*, 6: 83–112.
+* Gauthier, L., 1939, *Antécédents gréco-arabes de la psycho-physique*, Beirut: Imprimerie Catholique.
+* Genequand, C., 1987, “Platonism and Hermetism in al-Kindi’s *Fi al-Nafs*,” *Zeitschrift für Geschichte der arabisch-islamischen Wissenschaften*, 4: 1–18.
+* Guidi, M. and Walzer, R., 1940, *Uno Scritto Introduttivo allo Studio di Aristotele*, Rome: Reale Accademia Nazionale dei Lincei.
+* Gutas, D., 1998, *Greek Thought, Arabic Culture: the Graeco-Arabic Translation movement in Baghdad and early society (2nd-4th / 8th-10th centuries)*, London: Routledge.
+* Gutas, D., 2004, “Geometry and the Rebirth of Philosophy in Arabic with al-Kindi,” in R. Arnzen and J. Thielmann (eds), *Words, Texts and Concepts Cruising the Mediterranean Sea: Studies on the Sources, Contents and Influences of Islamic Civilization and Arabic Philosophy and Science*, Leuven: Peeters, 195–209.
+* Ighbariah, A., 2012, “Between Logic and Mathematics: al-Kindi’s Approach to the Aristotelian Categories,” *Arabic Sciences and Philosophy*, 22: 51–68.
+* Ivry, A., 1974, *Al-Kindi’s Metaphysics*, Albany: SUNY Press.
+* Janssens, J., 1994, “Al-Kindi’s Concept of God,” *Ultimate Reality and Meaning*, 17: 4–16.
+* Jayyusi-Lehn, G., 2002, “The Epistle of Ya‘qub ibn Ishaq al-Kindi on the Device for Dispelling Sorrows,” *British Journal of Middle Eastern Studies*, 29: 121–135.
+* Jolivet, J., 1971, *L’Intellect selon Kindi*, Leiden: Brill.
+* –––, 1979, “Pour le dossier du Proclus arabe: al-Kindi et la *Théologie Platonicienne*,” *Studia Islamica*, 49: 55–75.
+* –––, 1996, “La topographie du salut d’après le *Discours sur l’Âme* d’al-Kindi,” in M.A. Amir-Moezzi (ed.), *La voyage initiatique en terre d’Islam*, Louvain: Peeters.
+* –––, 2004, “*L’Épître sur la quantité des livres d’Aristote* par al-Kindi (une lecture),” in R. Morelon and A. Hasnawi (eds), *De Zénon d’Élée à Poincaré: Recueil d’études en hommage à Roshdi Rashed*, Louvain: Peeters, 665–83.
+* Klein-Franke, F., 1975, “Die Ursachen der Krisen bei akuten Krankheiten: eine wiederentdeckte Schrift al-Kindi’s,” *Israel Oriental Studies*, 5: 161–88.
+* –––, 1982, “Al-Kindi’s ‘On Definitions and Descriptions of Things,’” *Le Muséon: Revue des Études Orientales*, 95: 191–216.
+* Lindberg, D.C., 1971, “Alkindi’s Critique of Euclid’s Theory of Vision,” *Isis*, 62: 469–89.
+* McCarthy, R., 1964, “Al-Kindi’s Treatise on the Intellect,” *Islamic Studies*, 3: 119–49.
+* Mestiri, S. and Dye, G., 2004, *Al-Kindi: Le moyen de chasser les tristesses et autres textes éthiques*, Paris: Fayard.
+* Pines, S., 1974, “The Arabic Recension of *Parva Naturalia* and the Philosophical Doctrine Concerning Veridical Dreams According to *al-Risala al-Manamiyya* and Other Sources,” *Israel Oriental Studies*, 4: 104–53.
+* Périer, A., 1920, “Un traité de Yahya ben ‘Adi. Défense du dogme de la Trinité contre les objections d’al-Kindi,” *Revue de l’orient christian* (3rd series), 22: 3–21.
+* Rashed, R., 1997, *Oeuvres Philosophiques & Scientifiques d’al-Kindi*: *Volume 1, L’Optique et la Catoptrique*, Leiden: Brill.
+* Rashed, R. and Jolivet, J., 1998, *Oeuvres Philosophiques & Scientifiques d’al-Kindi*: *Volume 2, Métaphysique et cosmologie*, Leiden: Brill.
+* Rescher, N., 1968, “Al-Kindi’s Treatise on the Platonic Solids,” in N. Rescher, *Studies in Arabic Philosophy*, Pittsburgh: Pittsburgh University Press, 15–37.
+* Ritter, H., and Walzer, R., 1938, *Uno Scritto Morale Inedito di al-Kindi*, Rome: Reale Accademia Nazionale dei Lincei.
+* Rosenthal, F., 1942, “Al-Kindi als Literat,” *Orientalia*, 11: 262–88.
+* Ruffinengo, P.P., 1997, “Al-Kindi, *Trattato sull’intelletto. Trattato sul sogno e la visione*,” *Medioevo*, 23: 337–94.
+* Schöck, C., 2012, “The Controversy between al-Kindi and Yahya b. ʿAdi on the Trinity: a revival of the Controversy Between Eunomius and the Cappadocian Fathers,” *Orientalia*, 40: 1–50.
+* Staley, K., 1989, “Al-Kindi on Creation: Aristotle’s Challenge to Islam,” *Journal of the History of Ideas*, 50: 355–70.
+* Tornero Poveda, E., 1992, *Al-Kindi: la transformacion de un pensamiento religioso en un pensamiento racional*, Madrid: Consejo Superior de Investigaciones Científicas.
+* Travaglia, P., 1999, *Magic, Causality, and Intentionality. The Doctrine of Rays in al-Kindi*, Turnhout: Micrologus.
+* Zakariyya’, Y., 1962, *Mu’allafat al-Kindi al-musiqiyya*, Baghdad: Matba‘a Shafiq.
 
 ## Academic Tools
 
@@ -257,4 +257,4 @@ _关于非物质实体的存在_（阿布·里达 1950 年，265-69 页，亚当
 [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [eternity, in Christian thought](https://plato.stanford.edu/entries/eternity/) | [Philoponus](https://plato.stanford.edu/entries/philoponus/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [Proclus](https://plato.stanford.edu/entries/proclus/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie\*6/personen/adamson/index.html) <[_peter.adamson@lrz.uni-muenchen.de_](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>
+[Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie\*6/personen/adamson/index.html) <[*peter.adamson@lrz.uni-muenchen.de*](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>
