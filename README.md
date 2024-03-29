@@ -1,10 +1,10 @@
 # 斯坦福哲学百科全书简体中文版
 
-原版目录地址：[https://plato.stanford.edu/contents.html](https://plato.stanford.edu/contents.html)
+[原版目录](https://plato.stanford.edu/contents.html)
 
-本书目录：[https://github.com/taophilosophy/SEP-CN/blob/main/SUMMARY.md](SUMMARY.md)
+[本书目录](SUMMARY.md)
 
-在线预览地址：[https://tphil.gitbook.io/sep/](https://tphil.gitbook.io/sep/)
+[在线预览](https://tphil.gitbook.io/sep/)
 
 ## 词条说明
 
