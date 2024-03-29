@@ -351,7 +351,7 @@
 * [鲁道夫·卡尔纳普 Carnap, Rudolf (Hannes Leitgeb and André Carus)](c/lu-dao-fu-ka-er-na-pu-carnap-rudolf-hannes-leitgeb-and-andr-carus.md)
 * [卡涅阿德斯 Carneades](c/ka-nieade-si-carneades.md)
 * [恩斯特·卡西尔 Cassirer, Ernst (Michael Friedman)](c/en-si-te-ka-xi-er-cassirer-ernst-michael-friedman.md)
-* [\*决疑论——见，理智：道德推理 casuistry — see reasoning: moral](c/jue-yi-lun-jian-li-zhi-dao-de-tui-li-casuistry-see-reasoning-moral.md)
+* [\*决疑论——见理智：道德推理 casuistry — see reasoning: moral](c/jue-yi-lun-jian-li-zhi-dao-de-tui-li-casuistry-see-reasoning-moral.md)
 * [范畴 categories (Amie Thomasson)](c/fan-chou-categories-amie-thomasson/README.md)
   * [中世纪的范畴理论 medieval theories of (Jorge Gracia and Lloyd Newton)](c/fan-chou-categories-amie-thomasson/zhong-shi-ji-de-fan-chou-li-lun-medieval-theories-of-jorge-gracia-and-lloyd-newton.md)
 * [范畴错误 category mistakes (Ofra Magidor)](c/fan-chou-cuo-wu-category-mistakes-ofra-magidor.md)
