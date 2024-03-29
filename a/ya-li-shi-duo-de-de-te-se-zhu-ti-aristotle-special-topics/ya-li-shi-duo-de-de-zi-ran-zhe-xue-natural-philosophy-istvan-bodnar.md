@@ -1,6 +1,6 @@
 # 亚里士多德的自然哲学 natural philosophy (Istvan Bodnar)
 
-*首次发表于 2006 年 5 月 26 日；实质性修订于 2023 年 4 月 24 日*
+_首次发表于 2006 年 5 月 26 日；实质性修订于 2023 年 4 月 24 日_
 
 亚里士多德终身对自然研究兴趣浓厚。他探索了各种不同的主题，从运动、因果关系、位置和时间等一般问题，到对不同类型自然实体的自然现象进行系统的探索和解释。这些不同的调查被整合到一个描述自然实体领域的总体框架中。亚里士多德在他的《物理学》中为这个企业提供了一般的理论框架，这本著作分为两个主要部分，第一部分是对自然的探究（第 1-4 卷），第二部分是对运动的处理（第 5-8 卷）\[1]。在这部作品中，亚里士多德阐述了他的分析的概念装置，提供了他基本概念的定义，并论证了关于运动、因果关系、位置和时间的具体命题，并在第 8 卷中建立了宇宙中不动动者的存在，这是一个超物质实体，没有它，物质领域无法继续存在。他在一系列进一步的物理著作中探讨了物理学的特殊问题（如生成和消亡的问题），其中一些著作专门研究特定的物理领域：《论生成和消亡》、《论天》\[2]和《气象学》，这些著作为生物学和心理学的著作铺垫\[3]。
 
@@ -25,11 +25,11 @@
 
 根据亚里士多德的说法，自然是变化和静止的内在原则（《物理学》2.1，192b20-23）。这意味着当一个实体根据其本性移动或静止时，参考其本性可以作为事件的解释。我们必须描述在什么程度上，通过什么其他过程以及由于什么机构，变化或静止的前提条件存在，但一旦我们提供了这些前提条件的说明，我们就已经给出了一个完整的过程说明。实体的本质本身足以引发和解释过程，只要相关情况不会先于它。
 
-自然作为变化和休息的内在原则与活动力或潜能（*dunameis*）相对应，后者是变化和休息的外在原则（*形而上学* 9.8, 1049b5–10），作用于相应的内在被动能力或潜能（再次是*dunameis*，*形而上学* 9.1, 1046a11–13）。当变化或休息状态不是自然的时候，需要具体说明活动力和被动潜能。因此，自然在某种程度上具有双重作用：一旦自然发挥作用，就不需要进一步调用活动力或被动能力。然而，正如亚里士多德的讨论所清楚表明的那样，这个普遍命题需要许多限定条件。
+自然作为变化和休息的内在原则与活动力或潜能（_dunameis_）相对应，后者是变化和休息的外在原则（_形而上学_ 9.8, 1049b5–10），作用于相应的内在被动能力或潜能（再次是_dunameis_，_形而上学_ 9.1, 1046a11–13）。当变化或休息状态不是自然的时候，需要具体说明活动力和被动潜能。因此，自然在某种程度上具有双重作用：一旦自然发挥作用，就不需要进一步调用活动力或被动能力。然而，正如亚里士多德的讨论所清楚表明的那样，这个普遍命题需要许多限定条件。
 
 因为自然——除了活动和被动潜能之外——是因果解释中的最终基础，亚里士多德阐述了它们如何与因果学说相结合。
 
-对于一种情况的解释必须指定一些特征或一些对象（一般来说，是一些抽象或具体的实体）负责。阿里·法拉比认为，负责的实体是一种原因（*aitia*或*aition*，阿里·法拉比交替使用的词）。\[[4](https://plato.stanford.edu/entries/aristotle-natphil/notes.html#note-4)]对于同一种情况，可能存在不同的解释，而且通常是必要的，因为对于同一种情况的不同方面负责的方式也不同。阿里·法拉比将这些责任的种类分为四个标题，即所谓的四个原因。
+对于一种情况的解释必须指定一些特征或一些对象（一般来说，是一些抽象或具体的实体）负责。阿里·法拉比认为，负责的实体是一种原因（_aitia_或_aition_，阿里·法拉比交替使用的词）。\[[4](https://plato.stanford.edu/entries/aristotle-natphil/notes.html#note-4)]对于同一种情况，可能存在不同的解释，而且通常是必要的，因为对于同一种情况的不同方面负责的方式也不同。阿里·法拉比将这些责任的种类分为四个标题，即所谓的四个原因。
 
 其中前两个是物质和形式，根据阿里·法拉比的形质分析，一个实体由它们组成。可以理解的是，它们都可以对实体的特征和行为负责。形质分析以及将物质原因和形式原因分开作为不同类型的分析，意味着如果某事物可以用物质或形式来解释，用形式来解释将与用物质来解释的方式不同。通常情况下，这些原因之间存在合作关系：物质提供了由形式实现的潜力。因此，这些因果相关的实体导致了一种层次结构的解释。\[[5](https://plato.stanford.edu/entries/aristotle-natphil/notes.html#note-5)]为了实现一种形式，需要有合适的物质。这种合适的物质带来了给定形质组合所需的特征。这些特征一方面是物质的贡献，因此物质是这些复合实体特征的（物质）原因，另一方面它们是实现形式所必需的前提条件，因此它们的存在是由形式引发的。\[[6](https://plato.stanford.edu/entries/aristotle-natphil/notes.html#note-6)]物质和形式之间的这种依赖关系被阿里·法拉比称为假设必要性的情况。阿里·法拉比有时通过引用建造房屋所需的物质来说明他的观点。如果要建造一座房子，就需要砖块、石板、砂浆等建筑材料。每个部分都提供了具有一定范围内适合房屋形成所需特性的物质。例如，房子不能由液态水制成。那种物质会提供不适合房屋形式的潜力。
 
@@ -43,7 +43,7 @@
 
 ## 2. 运动
 
-因为运动或变化（*kinêsis*）在自然的定义中被提及，任何关于自然的讨论都需要依赖于对运动的解释。有人可能错误地认为这是一项容易的任务，因为亚里士多德的范畴（如《范畴学》中列出的范畴以及其他地方）确实包含了两种相关的实体，即行动和受动。然而，亚里士多德在《物理学》中对运动的讨论以稍微不同的方式开始。当他提出除了范畴之外没有其他运动时（《物理学》3.1，200b32-201a3），他并没有将运动归类为行动和受动的范畴。在提到范畴中的实体是对立的之后，亚里士多德在几行之后声称（201a8-9）运动和变化的种类与存在的种类一样多。这意味着在这里，运动被归类为它们所影响变化的范畴中的实体。\[[9](https://plato.stanford.edu/entries/aristotle-natphil/notes.html#note-9)]
+因为运动或变化（_kinêsis_）在自然的定义中被提及，任何关于自然的讨论都需要依赖于对运动的解释。有人可能错误地认为这是一项容易的任务，因为亚里士多德的范畴（如《范畴学》中列出的范畴以及其他地方）确实包含了两种相关的实体，即行动和受动。然而，亚里士多德在《物理学》中对运动的讨论以稍微不同的方式开始。当他提出除了范畴之外没有其他运动时（《物理学》3.1，200b32-201a3），他并没有将运动归类为行动和受动的范畴。在提到范畴中的实体是对立的之后，亚里士多德在几行之后声称（201a8-9）运动和变化的种类与存在的种类一样多。这意味着在这里，运动被归类为它们所影响变化的范畴中的实体。\[[9](https://plato.stanford.edu/entries/aristotle-natphil/notes.html#note-9)]
 
 然而，亚里士多德在提出这个观点时，只谈到了四种运动和变化——物质、质量、数量和位置的变化，而实际上存在的种类应该是十种。
 
@@ -87,7 +87,7 @@
 
 ## 5. 运动者和不动者
 
-运动的定义是实体潜在性的实际化，即实体在潜在性方面正在经历运动，这要求在每种情况下，变化的对象中存在着被动的潜在性。然而，潜在性的存在可以与对象的本质相符，这种情况下变化是“自然的”（*phusei*）或“按照自然的方式”（*kata phusin*），或者可以发生在实体的本质具有相反倾向的情况下，这种情况下变化是“强制的”（*biâi*）或“违背自然的”（*para phusin*）。亚里士多德的一个重要前提是这种划分是穷尽的：没有变化是实体的本质会漠不关心或中立的。\[[39](https://plato.stanford.edu/entries/aristotle-natphil/notes.html#note-39)] 这种前提背后的主要考虑是，本质以全面的方式调节其所属实体的行为，而不仅仅是部分地。实体所受到的任何影响都会与其本质以实质性的方式相互作用。实体没有与其本质产生的倾向直接相关的变化潜能。
+运动的定义是实体潜在性的实际化，即实体在潜在性方面正在经历运动，这要求在每种情况下，变化的对象中存在着被动的潜在性。然而，潜在性的存在可以与对象的本质相符，这种情况下变化是“自然的”（_phusei_）或“按照自然的方式”（_kata phusin_），或者可以发生在实体的本质具有相反倾向的情况下，这种情况下变化是“强制的”（_biâi_）或“违背自然的”（_para phusin_）。亚里士多德的一个重要前提是这种划分是穷尽的：没有变化是实体的本质会漠不关心或中立的。\[[39](https://plato.stanford.edu/entries/aristotle-natphil/notes.html#note-39)] 这种前提背后的主要考虑是，本质以全面的方式调节其所属实体的行为，而不仅仅是部分地。实体所受到的任何影响都会与其本质以实质性的方式相互作用。实体没有与其本质产生的倾向直接相关的变化潜能。
 
 然而，请注意，即使我们认同自然运动和强迫运动的完备性，并接受简单物体具有独特的自然运动的论点（《天体论》1.2，269a8-9），我们也不需要因此接受亚里士多德的进一步主张，即自然运动和强迫运动成对出现，结果是如果一个运动与实体的本性相反，相反的运动将成为其自然运动（《天体论》1.2，269a9-18）。在变化目标之间存在比单一维度上的简单对立更复杂的关系的空间，尤其是在直线和圆形路径上的运动之间，可以有几种强迫运动与具有直线自然运动的元素的单一自然运动相对应，正如亚里士多德在《天体论》的某些段落中也承认的那样（参见 1.2，269a30-b2 和 269b10-12）。
 
@@ -113,66 +113,66 @@
 
 ## 亚里士多德术语词汇表
 
-* 行动：*poiein*
-* 活动：*praxis*
-* 实际性：*能动性* 或 *完全性*
-* 艺术，工艺：*技术*
-* 能力：*dunamis*
-* 原因：*aitia* 或 *aition*
+* 行动：_poiein_
+* 活动：_praxis_
+* 实际性：_能动性_ 或 _完全性_
+* 艺术，工艺：_技术_
+* 能力：_dunamis_
+* 原因：_aitia_ 或 _aition_
 
-*变化：* *kinêsis* 或 *metabolê*
+_变化：_ _kinêsis_ 或 _metabolê_
 
-以实现变化或运动：*kinein*
+以实现变化或运动：_kinein_
 
-经历变化或运动：*kineisthai*
+经历变化或运动：_kineisthai_
 
-质的变化：*alloiôsis*
+质的变化：_alloiôsis_
 
-数量变化-增长：*auxêsis*；衰退：*phthisis*
+数量变化-增长：_auxêsis_；衰退：_phthisis_
 
-运动：*phora*
+运动：_phora_
 
-* 成为：*gignesthai*
-* 正在成为：*genesis*
+* 成为：_gignesthai_
+* 正在成为：_genesis_
 
-*力量：* *bia*
+_力量：_ _bia_
 
-*被迫：* *biâi*
+_被迫：_ _biâi_
 
-*形式：* *eidos* 或 *morphê*
+_形式：_ _eidos_ 或 _morphê_
 
-*在某种程度上：* *hêi*
+_在某种程度上：_ _hêi_
 
-* 种类，类型：*genos*
-* 目标：*telos*
-* 种类，物种：*eidos*
-* 已知的，可知的：*gnôrimon*
+* 种类，类型：_genos_
+* 目标：_telos_
+* 种类，物种：_eidos_
+* 已知的，可知的：_gnôrimon_
 
-更为知名，更为可知：*gnôrimôteron*
+更为知名，更为可知：_gnôrimôteron_
 
-* 物质：*hulê*
-* 大小：*megethos*
-* 运动：*kinêsis*
-* 自然：*phusis*
+* 物质：_hulê_
+* 大小：_megethos_
+* 运动：_kinêsis_
+* 自然：_phusis_
 
-自然的：*phusikos, phusei*
+自然的：_phusikos, phusei_
 
-根据自然：*kata phusin*
+根据自然：_kata phusin_
 
-违背自然：*para phusin*
+违背自然：_para phusin_
 
-* 激情：*paschein*
-* 消亡：*phtheirein*
-* 毁灭：*phthora*
-* 地方：*pou*（作为一种范畴，字面意思：在哪里）或 *topos*
-* 潜力：*dunamis*
-* 力量：*dunamis*
-* 质量：*poion*
+* 激情：_paschein_
+* 消亡：_phtheirein_
+* 毁灭：_phthora_
+* 地方：_pou_（作为一种范畴，字面意思：在哪里）或 _topos_
+* 潜力：_dunamis_
+* 力量：_dunamis_
+* 质量：_poion_
 
 %%
 
-* 实质：*ousia*
-* 时间：*pote*（作为一种范畴，字面意思：何时）或 *chronos*
+* 实质：_ousia_
+* 时间：_pote_（作为一种范畴，字面意思：何时）或 _chronos_
 *
   *
 
@@ -180,66 +180,66 @@
 
 ### Primary Sources
 
-* Aristotle, *De generatione et corruptione*, translated with notes by C. J. F. Williams, Oxford: Clarendon Press (Clarendon Aristotle Series), 1982.
-* Aristotle, *On coming-to-be and passing-away* (*De generatione and corruptione*), revised Greek text with introduction and commentary by Harold H. Joachim, Oxford: Clarendon Press, 1926.
-* Aristote, *De la génération et de la corruption*, critical edition, French translation and notes by Marwan Rashed, Paris: Les Belles Lettres (Collection Budé), 2005.
-* Aristote, *Du ciel*, (*De Caelo* = On the Heavens), Greek text and French translation by Paul Moraux, Paris: Les Belles lettres (Collection Budé), 1965.
-* Aristotle, *Physics*, Books I–II, translated with introduction and notes by William Charlton, Oxford: Clarendon Press (Clarendon Aristotle Series), 1970 (2nd. ed. 1992).
-* Aristotle, *Physics*, Books III–IV, translated with notes by Edward Hussey, Oxford: Clarendon Press (Clarendon Aristotle Series), 1983.
-* Aristotle, *Physics*, Book VIII, translated with commentary by Daniel W. Graham, Oxford: Clarendon Press (Clarendon Aristotle Series), 1999.
-* Aristotle, *Physics*, revised Greek text with introduction and commentary by William David Ross, Oxford: Clarendon Press, 1936.
-* Philoponus, *On Aristotle On Coming-to-Be and Perishing 1.1–5*, translated by C. J. F. Williams, London: Duckworth, 1997.
-* Theophrastus, *On First Principles* (known as his *Metaphysics*), Greek Text and Medieval Arabic Translation, edited and translated with introduction, commentaries and glossaries by Dimitri Gutas, Leiden: Brill, 2010.
+* Aristotle, _De generatione et corruptione_, translated with notes by C. J. F. Williams, Oxford: Clarendon Press (Clarendon Aristotle Series), 1982.
+* Aristotle, _On coming-to-be and passing-away_ (_De generatione and corruptione_), revised Greek text with introduction and commentary by Harold H. Joachim, Oxford: Clarendon Press, 1926.
+* Aristote, _De la génération et de la corruption_, critical edition, French translation and notes by Marwan Rashed, Paris: Les Belles Lettres (Collection Budé), 2005.
+* Aristote, _Du ciel_, (_De Caelo_ = On the Heavens), Greek text and French translation by Paul Moraux, Paris: Les Belles lettres (Collection Budé), 1965.
+* Aristotle, _Physics_, Books I–II, translated with introduction and notes by William Charlton, Oxford: Clarendon Press (Clarendon Aristotle Series), 1970 (2nd. ed. 1992).
+* Aristotle, _Physics_, Books III–IV, translated with notes by Edward Hussey, Oxford: Clarendon Press (Clarendon Aristotle Series), 1983.
+* Aristotle, _Physics_, Book VIII, translated with commentary by Daniel W. Graham, Oxford: Clarendon Press (Clarendon Aristotle Series), 1999.
+* Aristotle, _Physics_, revised Greek text with introduction and commentary by William David Ross, Oxford: Clarendon Press, 1936.
+* Philoponus, _On Aristotle On Coming-to-Be and Perishing 1.1–5_, translated by C. J. F. Williams, London: Duckworth, 1997.
+* Theophrastus, _On First Principles_ (known as his _Metaphysics_), Greek Text and Medieval Arabic Translation, edited and translated with introduction, commentaries and glossaries by Dimitri Gutas, Leiden: Brill, 2010.
 
 ### Secondary Sources
 
-* Ackrill, J. L., 1991, “Change and Aristotle’s theological argument,” in H. Blumenthal and H. Robinson (eds.), *Oxford Studies in Ancient Philosophy* (Supplementary Volume), Oxford: Clarendon Press, pp. 57–66; reprinted in J.L. Ackrill, *Essays on Plato and Aristotle*, Oxford: Clarendon Press, 1997, pp. 131–41.
-* Annas, Julia, 1982, “Aristotle on inefficient causes,” *Philosophical Quarterly*, 32: 311–26.
-* Bodnár, István M., 1997, “Movers and elemental motions in Aristotle,” *Oxford Studies in Ancient Philosophy* (Volume 15), Oxford: Clarendon Press, pp. 81–117.
-* –––, 2016, “Cases of Celestial Teleology in Metaphysics Λ,” in Christoph Horn, *Aristotle’s Metaphysics Lambda – New Essays* (Volume 15), Boston/Berlin: De Gruyter, pp. 247–268.
-* Bordt, Michael, SJ, 2011, “Why Aristotle’s God is not the Unmoved Mover,” *Oxford Studies in Ancient Philosophy* (Volume 40): *Essays in Memory of Michael Frede*, edited by James Allen, Eyjólfur Kjalar Emilsson, Wolfgang-Rainer Mann and Benjamin Morison, Oxford: Clarendon Press, pp. 92–109.
-* Burnyeat, Myles F., 2008, “*Kinesis vs Energeia:* A much-read passage in (but not of) Aristotle’s *Metaphysics*,” *Oxford Studies in Ancient Philosophy* (Volume 34), Oxford: Clarendon Press, pp. 219–291
-* Charles, David, 2015, “Aristotle’s processes,” in Mariska Leunissen (ed.), *Aristotle’s* Physics: *A critical guide*, Cambridge: Cambridge University Press, pp. 186–205.
-* Cherniss, Harold F., 1944, *Aristotle’s criticism of Plato and the Academy*, Baltimore: The Johns Hopkins University Press.
-* Code, Alan, 1987, “Soul as efficient cause in Aristotle’s embryology,” *Philosophical Topics*, 15: 51–59.
-* –––, 2003, “Changes, Powers and Potentialities in Aristotle,” in Naomi Reshotko (ed.), *Desire, Identity and Existence: Essays in Honor of T.M. Penner*, Kelowna, BC: Academic Printing & Publishing, pp. 251–272.
-* –––, 2004, “*On Generation and Corruption* I.5,” in Frans de Haas and Jaap Mansfeld (eds.), *Aristotle*: On Generation and Corruption I, Oxford: Clarendon Press, pp. 171–193.
-* –––, 2018, “*Physics* I.6,” in Diana Quarantotto (ed.), *Arisotle’s* Physics: *A Systematic Exploration*, Cambridge: Cambridge University Press, pp. 154–177.
-* Coope, Ursula, 2004, “Aristotle’s account of agency in *Physics* III.3,” *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 20: 201–221.
-* –––, 2009, “Change and its relation to actuality and potentiality,” in Georgios Anagnostopoulos (ed.), *A Companion to Aristotle*, Chichester, West Sussex: Wiley-Blackwell, pp. 277–291.
-* Falcon, Andrea, 2005, *Aristotle and the science of nature: Unity without uniformity*, Cambridge: Cambridge University Press.
-* –––, 2015, “The argument of *Physics* VIII,” in Mariska Leunissen (ed.), *Aristotle’s* Physics: *A critical guide*, Cambridge: Cambridge University Press, pp. 265–283.
-* Frede, Michael and Charles, David (eds.), 2000, *Aristotle’s* Metaphysics *Lambda: Symposium Aristotelicum*, Oxford: Clarendon Press.
-* Freeland, Cynthia A., 1987, “Aristotle on bodies, matter, and potentiality,” in Allan Gotthelf and James Lennox (eds.), *Philosophical issues in Aristotle’s biology*, Cambridge: Cambridge University Press, pp. 392–407.
-* Furley, David, 1978, “Self-movers,” in G.E.R. Lloyd and G.E.L. Owen (eds.), *Aristotle on mind and the senses*, (Proceedings of the Seventh Symposium Aristotelicum), Cambridge: Cambridge University Press, pp. 165–79; Reprinted in David Furley (ed.), *Cosmic problems: Essays on Greek and Roman philosophy of nature*, Cambridge: Cambridge University Press, 1989, pp. 121–31.
-* Gill, Mary Louise, 1980, “Aristotle’s theory of causal action in *Physics* III. 3,” *Phronesis*, 25: 129–47.
-* –––, 2009, “The theory of the elements in *De caelo* 3 and 4,” in Alan C. Bowen and Christian Wildberg (eds.), *New Perspectives on Aristotle’s* De caelo, Leiden-Boston: Brill, pp. 119–161.
-* Hankinson, R.J., 2009, “Natural, unnatural, and preternatural motions: Contrariety and argument for the elements in *De caelo* 1.2–4,” in Alan C. Bowen and Christian Wildberg (eds.), *New Perspectives on Aristotle’s* De caelo, Leiden-Boston: Brill, pp. 83–118.
-* Judson, Lindsay, 1994, “Heavenly motion and the unmoved mover,” in Mary Louise Gill and James G. Lennox (eds.), *Self-motion: From Aristotle to Newton*, Princeton: Princeton University Press, pp. 155–171.
-* –––, 2015, “Aristotle’s astrophysics,” *Oxford Studies in Ancient Philosophy* (Volume 49), Oxford: Clarendon Press, pp. 151–192.
-* Judson, Lindsay (ed.), 1991, *Aristotle’s* Physics: *A collection of essays*, Oxford: Clarendon Press.
-* Kelsey, Sean, 2006, “Aristotle *Physics* I 8,” *Phronesis*, 51: 330–361.
-* –––. 2008, “The place of I 7 in the argument of *Physics* I,” *Phronesis*, 53: 180–208.
-* –––, 2010, “Hylomorphism in Aristotle’s *Physics*,” *Ancient Philosophy*, 30: 107–124.
-* Kosman, L. Aryeh, 1969, “Aristotle’s definition of motion,” *Phronesis*, 14: 40–62.
-* Lorenz, Hendrik, 2019, “*Physics* I.7, Part 2: The Principles of Natural Things—Two or Three?” in Katerina Ierodiakonou, Paul Kalligas and Vassilis Karasmanis (eds.), *Aristotle’s* Physics *Alpha*, Oxford: Oxford University Press, pp. 262–285.
-* Makin, Stephen, 1990/1991, “An ancient principle about causation,” *Proceedings of the Aristotelian Society*, 91: 135–52.
-* Marmodoro, Anna, 2007, “The union of cause and effect in Aristotle: *Physics* 3. 3,” *Oxford Studies in Ancient Philosophy* (Volume 32), Oxford: Clarendon Press, pp. 205–232.
-* Matthen, Mohan and Hankinson, R.J., 1993, “Aristotle’s universe: Its form and matter,” *Synthèse*, 96: 417–435.
-* Menn, Stephes, 2019, “*Physics* I.1: The Path to the Principles” in Katerina Ierodiakonou, Paul Kalligas and Vassilis Karasmanis (eds.), *Aristotle’s* Physics *Alpha*, Oxford: Oxford University Press, pp. 19–52.
-* Moravcsik, Julius M., 1991, “What makes reality intelligible? Reflections on Aristotle’s theory of *aitia*,” in Lindsay Judson (ed.), *Aristotle’s* Physics: *A collection of essays*, Oxford: Clarendon Press, pp. 31–48.
-* Morison, Benjamin, 2019, “*Physics* I.7, Part 1: The Complexity of a Subject in a Change” in Katerina Ierodiakonou, Paul Kalligas and Vassilis Karasmanis (eds.), *Aristotle’s* Physics *Alpha*, Oxford: Oxford University Press, pp. 229–261.
-* Mourelatos, Alexander P., 1967, “Aristotle’s powers and modern empiricism,” *Ratio*, 9: 97–104.
-* –––, 1984, “Aristotle’s rationalist account of qualitative interaction,” *Phronesis*, 29: 1–16.
-* Peramatzis, Michail M., 2011, *Priority in Aristotle’s metaphysics*, Oxford: Clarendon Press.
-* Solmsen, Friedrich, 1960, *Aristotle’s system of the physical world*, Ithaca, N.Y.: Cornell University Press.
-* Sorabji, Richard, 1988, *Matter, space, and motion: Theories in Antiquity and their sequel*, London: Duckworth or Ithaca, N.Y.: Cornell University Press.
-* –––, 1983, *Time, creation, and the continuum: Theories in Antiquity and the early Middle Age*, London: Duckworth or Ithaca, N.Y.: Cornell University Press.
-* Stavrineas, Stasinos, 2015, “Nature as a principle of change,” in Mariska Leunissen, ed., *Aristotle’s* Physics: *A critical guide*, Cambridge: Cambridge University Press, pp. 46–65.
-* Turnbull, Robert G., 1958, “Aristotle’s debt to the ‘natural philosophy’ of the *Phaedo*,” *Philosophical Quarterly*, 8: 131–43.
-* Wardy, R., 1990, *The chain of change: A study of Aristotle’s* Physics *VII*, Cambridge: Cambridge University Press.
-* Waterlow, Sarah, 1982, *Nature, change, and agency in Aristotle’s* Physics, Oxford: Clarendon Press.
-* Wildberg, Christian, 1988, *John Philoponus’ criticism of Aristotle’s theory of aether* (Peripatoi 16), Berlin: De Gruyter 1988.
+* Ackrill, J. L., 1991, “Change and Aristotle’s theological argument,” in H. Blumenthal and H. Robinson (eds.), _Oxford Studies in Ancient Philosophy_ (Supplementary Volume), Oxford: Clarendon Press, pp. 57–66; reprinted in J.L. Ackrill, _Essays on Plato and Aristotle_, Oxford: Clarendon Press, 1997, pp. 131–41.
+* Annas, Julia, 1982, “Aristotle on inefficient causes,” _Philosophical Quarterly_, 32: 311–26.
+* Bodnár, István M., 1997, “Movers and elemental motions in Aristotle,” _Oxford Studies in Ancient Philosophy_ (Volume 15), Oxford: Clarendon Press, pp. 81–117.
+* –––, 2016, “Cases of Celestial Teleology in Metaphysics Λ,” in Christoph Horn, _Aristotle’s Metaphysics Lambda – New Essays_ (Volume 15), Boston/Berlin: De Gruyter, pp. 247–268.
+* Bordt, Michael, SJ, 2011, “Why Aristotle’s God is not the Unmoved Mover,” _Oxford Studies in Ancient Philosophy_ (Volume 40): _Essays in Memory of Michael Frede_, edited by James Allen, Eyjólfur Kjalar Emilsson, Wolfgang-Rainer Mann and Benjamin Morison, Oxford: Clarendon Press, pp. 92–109.
+* Burnyeat, Myles F., 2008, “_Kinesis vs Energeia:_ A much-read passage in (but not of) Aristotle’s _Metaphysics_,” _Oxford Studies in Ancient Philosophy_ (Volume 34), Oxford: Clarendon Press, pp. 219–291
+* Charles, David, 2015, “Aristotle’s processes,” in Mariska Leunissen (ed.), _Aristotle’s_ Physics: _A critical guide_, Cambridge: Cambridge University Press, pp. 186–205.
+* Cherniss, Harold F., 1944, _Aristotle’s criticism of Plato and the Academy_, Baltimore: The Johns Hopkins University Press.
+* Code, Alan, 1987, “Soul as efficient cause in Aristotle’s embryology,” _Philosophical Topics_, 15: 51–59.
+* –––, 2003, “Changes, Powers and Potentialities in Aristotle,” in Naomi Reshotko (ed.), _Desire, Identity and Existence: Essays in Honor of T.M. Penner_, Kelowna, BC: Academic Printing & Publishing, pp. 251–272.
+* –––, 2004, “_On Generation and Corruption_ I.5,” in Frans de Haas and Jaap Mansfeld (eds.), _Aristotle_: On Generation and Corruption I, Oxford: Clarendon Press, pp. 171–193.
+* –––, 2018, “_Physics_ I.6,” in Diana Quarantotto (ed.), _Arisotle’s_ Physics: _A Systematic Exploration_, Cambridge: Cambridge University Press, pp. 154–177.
+* Coope, Ursula, 2004, “Aristotle’s account of agency in _Physics_ III.3,” _Proceedings of the Boston Area Colloquium in Ancient Philosophy_, 20: 201–221.
+* –––, 2009, “Change and its relation to actuality and potentiality,” in Georgios Anagnostopoulos (ed.), _A Companion to Aristotle_, Chichester, West Sussex: Wiley-Blackwell, pp. 277–291.
+* Falcon, Andrea, 2005, _Aristotle and the science of nature: Unity without uniformity_, Cambridge: Cambridge University Press.
+* –––, 2015, “The argument of _Physics_ VIII,” in Mariska Leunissen (ed.), _Aristotle’s_ Physics: _A critical guide_, Cambridge: Cambridge University Press, pp. 265–283.
+* Frede, Michael and Charles, David (eds.), 2000, _Aristotle’s_ Metaphysics _Lambda: Symposium Aristotelicum_, Oxford: Clarendon Press.
+* Freeland, Cynthia A., 1987, “Aristotle on bodies, matter, and potentiality,” in Allan Gotthelf and James Lennox (eds.), _Philosophical issues in Aristotle’s biology_, Cambridge: Cambridge University Press, pp. 392–407.
+* Furley, David, 1978, “Self-movers,” in G.E.R. Lloyd and G.E.L. Owen (eds.), _Aristotle on mind and the senses_, (Proceedings of the Seventh Symposium Aristotelicum), Cambridge: Cambridge University Press, pp. 165–79; Reprinted in David Furley (ed.), _Cosmic problems: Essays on Greek and Roman philosophy of nature_, Cambridge: Cambridge University Press, 1989, pp. 121–31.
+* Gill, Mary Louise, 1980, “Aristotle’s theory of causal action in _Physics_ III. 3,” _Phronesis_, 25: 129–47.
+* –––, 2009, “The theory of the elements in _De caelo_ 3 and 4,” in Alan C. Bowen and Christian Wildberg (eds.), _New Perspectives on Aristotle’s_ De caelo, Leiden-Boston: Brill, pp. 119–161.
+* Hankinson, R.J., 2009, “Natural, unnatural, and preternatural motions: Contrariety and argument for the elements in _De caelo_ 1.2–4,” in Alan C. Bowen and Christian Wildberg (eds.), _New Perspectives on Aristotle’s_ De caelo, Leiden-Boston: Brill, pp. 83–118.
+* Judson, Lindsay, 1994, “Heavenly motion and the unmoved mover,” in Mary Louise Gill and James G. Lennox (eds.), _Self-motion: From Aristotle to Newton_, Princeton: Princeton University Press, pp. 155–171.
+* –––, 2015, “Aristotle’s astrophysics,” _Oxford Studies in Ancient Philosophy_ (Volume 49), Oxford: Clarendon Press, pp. 151–192.
+* Judson, Lindsay (ed.), 1991, _Aristotle’s_ Physics: _A collection of essays_, Oxford: Clarendon Press.
+* Kelsey, Sean, 2006, “Aristotle _Physics_ I 8,” _Phronesis_, 51: 330–361.
+* –––. 2008, “The place of I 7 in the argument of _Physics_ I,” _Phronesis_, 53: 180–208.
+* –––, 2010, “Hylomorphism in Aristotle’s _Physics_,” _Ancient Philosophy_, 30: 107–124.
+* Kosman, L. Aryeh, 1969, “Aristotle’s definition of motion,” _Phronesis_, 14: 40–62.
+* Lorenz, Hendrik, 2019, “_Physics_ I.7, Part 2: The Principles of Natural Things—Two or Three?” in Katerina Ierodiakonou, Paul Kalligas and Vassilis Karasmanis (eds.), _Aristotle’s_ Physics _Alpha_, Oxford: Oxford University Press, pp. 262–285.
+* Makin, Stephen, 1990/1991, “An ancient principle about causation,” _Proceedings of the Aristotelian Society_, 91: 135–52.
+* Marmodoro, Anna, 2007, “The union of cause and effect in Aristotle: _Physics_ 3. 3,” _Oxford Studies in Ancient Philosophy_ (Volume 32), Oxford: Clarendon Press, pp. 205–232.
+* Matthen, Mohan and Hankinson, R.J., 1993, “Aristotle’s universe: Its form and matter,” _Synthèse_, 96: 417–435.
+* Menn, Stephes, 2019, “_Physics_ I.1: The Path to the Principles” in Katerina Ierodiakonou, Paul Kalligas and Vassilis Karasmanis (eds.), _Aristotle’s_ Physics _Alpha_, Oxford: Oxford University Press, pp. 19–52.
+* Moravcsik, Julius M., 1991, “What makes reality intelligible? Reflections on Aristotle’s theory of _aitia_,” in Lindsay Judson (ed.), _Aristotle’s_ Physics: _A collection of essays_, Oxford: Clarendon Press, pp. 31–48.
+* Morison, Benjamin, 2019, “_Physics_ I.7, Part 1: The Complexity of a Subject in a Change” in Katerina Ierodiakonou, Paul Kalligas and Vassilis Karasmanis (eds.), _Aristotle’s_ Physics _Alpha_, Oxford: Oxford University Press, pp. 229–261.
+* Mourelatos, Alexander P., 1967, “Aristotle’s powers and modern empiricism,” _Ratio_, 9: 97–104.
+* –––, 1984, “Aristotle’s rationalist account of qualitative interaction,” _Phronesis_, 29: 1–16.
+* Peramatzis, Michail M., 2011, _Priority in Aristotle’s metaphysics_, Oxford: Clarendon Press.
+* Solmsen, Friedrich, 1960, _Aristotle’s system of the physical world_, Ithaca, N.Y.: Cornell University Press.
+* Sorabji, Richard, 1988, _Matter, space, and motion: Theories in Antiquity and their sequel_, London: Duckworth or Ithaca, N.Y.: Cornell University Press.
+* –––, 1983, _Time, creation, and the continuum: Theories in Antiquity and the early Middle Age_, London: Duckworth or Ithaca, N.Y.: Cornell University Press.
+* Stavrineas, Stasinos, 2015, “Nature as a principle of change,” in Mariska Leunissen, ed., _Aristotle’s_ Physics: _A critical guide_, Cambridge: Cambridge University Press, pp. 46–65.
+* Turnbull, Robert G., 1958, “Aristotle’s debt to the ‘natural philosophy’ of the _Phaedo_,” _Philosophical Quarterly_, 8: 131–43.
+* Wardy, R., 1990, _The chain of change: A study of Aristotle’s_ Physics _VII_, Cambridge: Cambridge University Press.
+* Waterlow, Sarah, 1982, _Nature, change, and agency in Aristotle’s_ Physics, Oxford: Clarendon Press.
+* Wildberg, Christian, 1988, _John Philoponus’ criticism of Aristotle’s theory of aether_ (Peripatoi 16), Berlin: De Gruyter 1988.
 
 ## Academic Tools
 
@@ -259,4 +259,4 @@
 [Aristotle, General Topics: biology](https://plato.stanford.edu/entries/aristotle-biology/) | [Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Aristotle, General Topics: psychology](https://plato.stanford.edu/entries/aristotle-psychology/) | [Aristotle, Special Topics: causality](https://plato.stanford.edu/entries/aristotle-causality/) | [Aristotle, Special Topics: on non-contradiction](https://plato.stanford.edu/entries/aristotle-noncontradiction/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Istvan Bodnar](http://philosophy.ceu.edu/people/istvan-bodnar) <[*stb@elte.hu*](mailto:stb%40elte%2ehu)>
+[Istvan Bodnar](http://philosophy.ceu.edu/people/istvan-bodnar) <[_stb@elte.hu_](mailto:stb%40elte%2ehu)>

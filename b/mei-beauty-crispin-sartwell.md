@@ -1,6 +1,6 @@
 # 美 beauty (Crispin Sartwell)
 
-*首次发布于 2012 年 9 月 4 日；实质性修订于 2022 年 3 月 22 日*
+_首次发布于 2012 年 9 月 4 日；实质性修订于 2022 年 3 月 22 日_
 
 美的本质是西方哲学中最持久且有争议的主题之一，也是哲学美学史上的两个基本问题之一，另一个问题是艺术的本质。美传统上被视为终极价值观之一，与善、真理和正义并列。它是古希腊、希腊化时期和中世纪哲学家们的主题，也是 18 世纪和 19 世纪思想的核心，如沙夫茨伯里、哈奇森、休谟、伯克、康德、席勒、黑格尔、叔本华、汉斯利克和桑塔亚那等思想家的著作所体现。到了 20 世纪初，美作为哲学研究的课题以及艺术的主要目标逐渐衰落。然而，在 20 世纪 80 年代，对美的兴趣和对该概念的批判重新兴起，尤其是在女性主义哲学领域。
 
@@ -33,7 +33,7 @@
 
 康德在《判断力批判》（第三批判）中至少同样强调地展开了他对这个问题的讨论：
 
-判断美的标准因此不是认知的判断，因此也不是逻辑的，而是美学的，我们理解为其决定性基础*只能是主观的*。每个表象的参照，甚至感觉的参照，都可以是客观的（这时它表示经验表象的真实\[要素]），只有对快乐和痛苦感的参照除外，通过它在对象中没有任何意义，但通过它，主体在受到表象影响时有一种感觉。（康德 1790 年，第 1 节）
+判断美的标准因此不是认知的判断，因此也不是逻辑的，而是美学的，我们理解为其决定性基础_只能是主观的_。每个表象的参照，甚至感觉的参照，都可以是客观的（这时它表示经验表象的真实\[要素]），只有对快乐和痛苦感的参照除外，通过它在对象中没有任何意义，但通过它，主体在受到表象影响时有一种感觉。（康德 1790 年，第 1 节）
 
 然而，如果美完全是主观的——也就是说，任何人认为或体验到的东西都是美的（例如詹姆斯·柯尔文所断言的）——那么似乎这个词就没有意义，或者当我们称某物为美时，我们并没有传达任何信息，除了可能是一种赞同的个人态度。此外，尽管不同的人在具体判断上当然可以有不同意见，但显然我们的判断在很大程度上是一致的：任何人否认一朵完美的玫瑰或戏剧性的日落是美的，都会显得奇怪或倔强。而且，我们实际上可以对某物是否美产生分歧和争论，或者试图向他人展示某物为何美，或者向他人学习为何美。
 
@@ -45,13 +45,13 @@
 
 在这种论述中，美至少与任何其他概念一样客观，甚至具有某种本体论上的优先性，比特定的理念更真实：它是一种理念的形式。
 
-尽管柏拉图和亚里士多德对美的定义存在分歧，但他们都认为美是客观存在的，不仅仅取决于观察者的反应。古典观念（[见下文](https://plato.stanford.edu/entries/beauty/#ClasConc)）将美视为在部分之间实现明确比例或关系的问题，有时以数学比例来表达，例如“黄金分割”。波利克利托斯（公元前五世纪/公元前四世纪）的雕塑作品《规范》被视为和谐比例的典范，学生和大师们都应效仿：通过复制其客观比例，可以可靠地实现美。然而，在古代对这一主题的处理中，也习惯性地向美的愉悦致敬，常常用非常狂喜的方式来描述，如普罗提诺斯所说：“这就是美必然引发的精神：惊叹和一种美妙的困扰，渴望和爱以及一种全然愉悦的颤动”（普罗提诺斯 23，\[*Ennead* I, 3]）。
+尽管柏拉图和亚里士多德对美的定义存在分歧，但他们都认为美是客观存在的，不仅仅取决于观察者的反应。古典观念（[见下文](https://plato.stanford.edu/entries/beauty/#ClasConc)）将美视为在部分之间实现明确比例或关系的问题，有时以数学比例来表达，例如“黄金分割”。波利克利托斯（公元前五世纪/公元前四世纪）的雕塑作品《规范》被视为和谐比例的典范，学生和大师们都应效仿：通过复制其客观比例，可以可靠地实现美。然而，在古代对这一主题的处理中，也习惯性地向美的愉悦致敬，常常用非常狂喜的方式来描述，如普罗提诺斯所说：“这就是美必然引发的精神：惊叹和一种美妙的困扰，渴望和爱以及一种全然愉悦的颤动”（普罗提诺斯 23，\[_Ennead_ I, 3]）。
 
 然而，至少到 18 世纪，尤其是在不列颠群岛，美与愉悦的关系有所不同：愉悦被认为不是美的效果，而是美的起源。例如，洛克的一分为二的质量区分对此产生了影响。洛克和其他经验主义者将颜色（无疑是美的一种来源或位置）视为心灵的“幻象”，一组依赖于主观反应的特质，位于感知心灵而非外在世界。如果没有某种类型的感知者，就不会有颜色存在。支持这一观点的一个论据是人们对颜色的体验存在差异。例如，有些人是色盲，而对于患有黄疸的人来说，整个世界似乎都带有黄色的色调。此外，同一个物体在不同条件下被同一个人感知时，会被感知为不同的颜色：例如，在正午和午夜。这种变化在美的体验中也很明显。
 
 然而，休谟和康德等 18 世纪的哲学家认识到，当美仅仅被视为主观状态时，会失去一些重要的东西。他们发现，例如，关于特定事物（如艺术作品和文学作品）的美常常引发争议，在这种争议中，有时可以给出理由，并且有时这些理由会令人信服。他们还发现，如果美完全相对于个体的体验者，它就不再是一个至高无上的价值，甚至在个人或社会中都无法被认可为价值。
 
-休谟的《论品味的标准》和康德的《判断力批判》试图找到一种方式来解决所谓的“品味的矛盾”。品味是众所周知的主观的：*de gustibus non est disputandum*（关于品味，不能争论）。然而，我们经常争论品味的问题，有些人被认为是品味高尚的典范，而有些人则被认为是没有品味的。例如，有些人的品味看起来庸俗或炫耀。有些人的品味过于精致，而其他人的品味则粗糙、幼稚或不存在。也就是说，品味似乎既是主观的又是客观的：这就是矛盾之处。
+休谟的《论品味的标准》和康德的《判断力批判》试图找到一种方式来解决所谓的“品味的矛盾”。品味是众所周知的主观的：_de gustibus non est disputandum_（关于品味，不能争论）。然而，我们经常争论品味的问题，有些人被认为是品味高尚的典范，而有些人则被认为是没有品味的。例如，有些人的品味看起来庸俗或炫耀。有些人的品味过于精致，而其他人的品味则粗糙、幼稚或不存在。也就是说，品味似乎既是主观的又是客观的：这就是矛盾之处。
 
 正如我们所看到的，休谟和康德都承认品味或者说察觉或体验美的能力基本上是主观的，不存在像《经典》所认为的那种标准的品味，如果人们没有体验到某种类型的愉悦，就不会有美。然而，他们都承认理由是可以起作用的，并且有些品味比其他品味更好。以不同的方式，他们都将美的判断既不完全看作是纯粹主观的，也不完全看作是客观的，而是可以说是相互主观的，或者说具有社会和文化的方面，或者说在概念上涉及相互主观的有效性主张。
 
@@ -129,7 +129,7 @@
 
 对于柏拉图与古典美学的关系，有许多不同的解释方式。在《理想国》中勾勒出的政治体制将正义描述为部分与整体的关系。但毫无疑问，柏拉图也是古典文化中的异见者，而在《饮宴篇》中特别表达的美的观念——或许是新柏拉图主义和理想主义美学观念的关键苏格拉底文本——表达了对完美统一美的追求。
 
-在一个饮酒聚会中，苏格拉底讲述了他的导师迪奥蒂玛关于爱的教导。她将美的体验与性爱或繁衍的欲望联系在一起（柏拉图，558–59 \[*饮宴篇* 206c–207e]）。但繁衍的欲望反过来又与对不朽或永恒的渴望相关联：“为什么会有这种对繁衍的渴望？因为这是我们凡人中唯一不朽和永恒的元素。既然我们已经认同爱人渴望将美好永远属于自己，那么我们也必然渴望永生——也就是说，爱是对永生的渴望”（柏拉图，559，\[*饮宴篇* 206e–207a]）。接下来的内容，虽然不是古典的，但至少是经典的：
+在一个饮酒聚会中，苏格拉底讲述了他的导师迪奥蒂玛关于爱的教导。她将美的体验与性爱或繁衍的欲望联系在一起（柏拉图，558–59 \[_饮宴篇_ 206c–207e]）。但繁衍的欲望反过来又与对不朽或永恒的渴望相关联：“为什么会有这种对繁衍的渴望？因为这是我们凡人中唯一不朽和永恒的元素。既然我们已经认同爱人渴望将美好永远属于自己，那么我们也必然渴望永生——也就是说，爱是对永生的渴望”（柏拉图，559，\[_饮宴篇_ 206e–207a]）。接下来的内容，虽然不是古典的，但至少是经典的：
 
 这个入门的候选人如果他的努力要得到回报，就不能太早开始致力于身体的美。首先，如果他的导师指导得当，他会爱上一个人的身体之美，以使他的激情能够赋予高尚的言辞以生命。接下来，他必须考虑到任何一个身体的美与其他身体的美是多么密切相关，他会看到，如果他要致力于形式的美，否认每一个身体的美是相同的将是荒谬的。达到这一点后，他必须成为每一个美丽身体的爱人，并通过认为它不重要或几乎不重要来使自己对其中一个身体的激情保持适当的比例。
 
@@ -143,7 +143,7 @@
 
 %%
 
-而且，亲爱的苏格拉底，迪奥蒂玛继续说道，如果人的生命总是值得活下去的，那就是当他达到了对美的灵魂本质的洞察力时。（柏拉图，561-63 \[*饮宴篇* 210a-211d]）
+而且，亲爱的苏格拉底，迪奥蒂玛继续说道，如果人的生命总是值得活下去的，那就是当他达到了对美的灵魂本质的洞察力时。（柏拉图，561-63 \[_饮宴篇_ 210a-211d]）
 
 这里的美被构想为完美的统一，或者确切地说，是统一的原则，可能是明确地与整体和谐的古典美学形成对比。
 
@@ -161,7 +161,7 @@
 
 >
 
-> 在声音中，简单的声音也必须被禁止，尽管在一个高贵的作品中，每个音调本身都是美妙的。（普罗提诺斯，21 \[ *《恩涅阿德》I,6*]）
+> 在声音中，简单的声音也必须被禁止，尽管在一个高贵的作品中，每个音调本身都是美妙的。（普罗提诺斯，21 \[ _《恩涅阿德》I,6_]）
 
 普罗提诺斯宣称火是最美的物质，“向上升腾，是最微妙、最活泼的物体，几乎接近无形……因此，它的光辉，属于理念的光辉”（普罗提诺斯，《恩尼阿德》I,3）。对于普罗提诺斯和柏拉图来说，所有的多样性最终都必须献祭给统一，所有的探究和经验都通向善/美/真/神。
 
@@ -189,7 +189,7 @@
 
 ### 2.3 爱与渴望
 
-埃德蒙·伯克（Edmund Burke）在表达一种古老传统时写道：“我所指的美，是指物体中引起爱或类似激情的那种质量或那些质量”（Burke 1757, 83）。正如我们所见，在几乎所有关于美的论述中，即使是最明显以客观为导向的论述，也存在一种强调美的主观体验的时刻：狂热地，或者以快乐或*安宁*的方式，就像叔本华所说的那样。例如，我们已经看到，对于普罗提诺斯来说，美绝对不是主观的，他描述了对美的体验是狂喜的。在唯心主义传统中，人的灵魂似乎在美中认识到了它真正的起源和命运。在希腊人中，美与爱的联系从早期神话就是众所周知的，爱神阿佛洛狄忒通过承诺给巴黎世界上最美丽的女人而赢得了巴黎的评判。
+埃德蒙·伯克（Edmund Burke）在表达一种古老传统时写道：“我所指的美，是指物体中引起爱或类似激情的那种质量或那些质量”（Burke 1757, 83）。正如我们所见，在几乎所有关于美的论述中，即使是最明显以客观为导向的论述，也存在一种强调美的主观体验的时刻：狂热地，或者以快乐或_安宁_的方式，就像叔本华所说的那样。例如，我们已经看到，对于普罗提诺斯来说，美绝对不是主观的，他描述了对美的体验是狂喜的。在唯心主义传统中，人的灵魂似乎在美中认识到了它真正的起源和命运。在希腊人中，美与爱的联系从早期神话就是众所周知的，爱神阿佛洛狄忒通过承诺给巴黎世界上最美丽的女人而赢得了巴黎的评判。
 
 理想主义关于美的描述与将其与爱和渴望联系起来的描述之间存在着历史上的联系，尽管似乎没有必然的联系。我们有莎 appho 的著名片段 16：“有人说是成群的骑兵，有人说是步兵，还有人说是舰队，是黑暗世界所能提供的最美丽的景象，但我说，它就是你最爱的东西”（莎 appho，16）。 （事实上，在《柏拉图对话录》的第 236c 页，苏格拉底似乎对“美丽的莎 appho”比自己在爱情方面有更深刻的洞察力表示推崇\[柏拉图，483]。）
 
@@ -199,7 +199,7 @@
 
 ### 2.4 享乐主义观念
 
-18 世纪的思想家们，其中许多人以经验主义为导向，将美归因于愉悦。例如，意大利历史学家路多维科·安东尼奥·穆拉托里（Ludovico Antonio Muratori）在一个典型的表述中说：“我们通常认为，*美*是指任何在我们看到、听到或理解时，通过引起我们愉悦的感觉而使我们愉悦、满意和陶醉的东西”（见 Carritt 1931, 60）。在哈奇森（Hutcheson）的著作中，我们不清楚是否应该将美主要理解为古典形式元素或观众的愉悦反应。他在《关于我们对美和美德的原始观念的探究》（Inquiry Into the Original of Our Ideas of Beauty and Virtue）中以对愉悦的讨论开始。他似乎断言那些体现他的“统一性和多样性复合比例”的对象特别或必然能够产生愉悦：
+18 世纪的思想家们，其中许多人以经验主义为导向，将美归因于愉悦。例如，意大利历史学家路多维科·安东尼奥·穆拉托里（Ludovico Antonio Muratori）在一个典型的表述中说：“我们通常认为，_美_是指任何在我们看到、听到或理解时，通过引起我们愉悦的感觉而使我们愉悦、满意和陶醉的东西”（见 Carritt 1931, 60）。在哈奇森（Hutcheson）的著作中，我们不清楚是否应该将美主要理解为古典形式元素或观众的愉悦反应。他在《关于我们对美和美德的原始观念的探究》（Inquiry Into the Original of Our Ideas of Beauty and Virtue）中以对愉悦的讨论开始。他似乎断言那些体现他的“统一性和多样性复合比例”的对象特别或必然能够产生愉悦：
 
 > 我们的哲学家们似乎只考虑与感觉的简单观念相伴随的感官愉悦；但在那些被称为美丽、规则、和谐的复杂对象中，存在着更大的愉悦。因此，每个人都承认，与任何一种颜色的视图相比，他更喜欢一个漂亮的脸庞、一幅正当的画像；与一个太阳从稳定的云层中升起、给它们边缘上色、一个星空半球、一幅美丽的风景、一座规则的建筑相比，他更喜欢一个晴朗的蓝天、一片平静的海洋或一个没有被树木、山丘、水域、建筑物多样化的大开阔平原。然而，即使这些后者的外观也并非完全简单。同样，在音乐中，精心构思的作曲的愉悦远远超过任何一个音符的愉悦，无论它有多么甜美、饱满或激昂。（Hutcheson 1725, 22）
 
@@ -219,7 +219,7 @@
 
 ### 2.5 使用与无用
 
-康德传统中的哲学家将美的体验与无私的愉悦、心理距离等相提并论，并将美学与实用相对立。“*品味*是通过一种完全无私的满足或不满来判断一个对象或其表现方式的能力。这种满足的对象被称为*美*”（康德 1790 年，45 页）。爱德华·布洛认为美与仅仅令人愉快的事物有所区别，因为前者需要与实际关切保持一定的距离：“首先，通过将现象与我们的实际、真实的自我脱节，使之在我们个人需求和目标的背景之外存在，从而产生了距离”（布洛 1912 年，244 页）。
+康德传统中的哲学家将美的体验与无私的愉悦、心理距离等相提并论，并将美学与实用相对立。“_品味_是通过一种完全无私的满足或不满来判断一个对象或其表现方式的能力。这种满足的对象被称为_美_”（康德 1790 年，45 页）。爱德华·布洛认为美与仅仅令人愉快的事物有所区别，因为前者需要与实际关切保持一定的距离：“首先，通过将现象与我们的实际、真实的自我脱节，使之在我们个人需求和目标的背景之外存在，从而产生了距离”（布洛 1912 年，244 页）。
 
 另一方面，许多哲学家则持相反观点，将美与适用性联系起来。‘美’或许是少数几个能够合理支持如此截然相反解释的术语之一。
 
@@ -229,13 +229,13 @@
 
 在某种程度上，亚里士多德被讽刺地描绘出来：作为最糟糕的诡辩家之一，尽管他自称是苏格拉底的追随者。然而，将美视为适用性的观点在许多思想家中得到了表达。克西弗隆的《回忆录》（Memorabilia）将这一观点放在苏格拉底的口中，亚里士多德则是对话者：
 
-*苏格拉底*：简而言之，我们使用的一切东西都从同一个角度被认为是好的和美的，那就是它的使用价值。
+_苏格拉底_：简而言之，我们使用的一切东西都从同一个角度被认为是好的和美的，那就是它的使用价值。
 
 >
 
-*阿里斯提普斯*：那么，为什么粪篮是一件美好的事物呢？
+_阿里斯提普斯_：那么，为什么粪篮是一件美好的事物呢？
 
-> *苏格拉底*：当然是的，如果一个金盾能够完美地适应其用途，而另一个不能，那么金盾就是丑陋的。（克西弗隆，《记述苏格拉底言行录》第三卷第八章）
+> _苏格拉底_：当然是的，如果一个金盾能够完美地适应其用途，而另一个不能，那么金盾就是丑陋的。（克西弗隆，《记述苏格拉底言行录》第三卷第八章）
 
 伯克利在他的对话《阿尔西弗隆》中表达了类似的观点，尽管他从享乐主义的观念开始：“每个人都知道美是令人愉悦的”（伯克利 1732 年，174 页；参见卡里特 1931 年，75 页）。但它之所以令人愉悦，是因为它有用。因此，正如克西弗隆所暗示的那样，在这种观点下，事物之所以美，仅仅是因为它们被用于或适用于特定的用途。一个物体的适当比例取决于它是什么样的物体，同样，一辆漂亮的汽车可能会让一辆丑陋的拖拉机。 “因此，真正比例的部分必须相互关联和调整，以最好地协同整体的使用和操作”（伯克利 1732 年，174-75 页；参见卡里特 1931 年，76 页）。这导致的一个结果是，尽管美与愉悦仍然相关，但它不是一种直接的感官体验。它基本上需要思维和实际活动：人们必须了解一件事物的用途，并评估其适用性。
 
@@ -289,7 +289,7 @@ Wolf 认为，按照男性标准要求女性创造出美丽的自我呈现，从
 
 ### 3.4 美与抵抗
 
-然而，如果美在各种形式的压迫中起到了作用，它也在各种形式的抵抗中起到了作用，正如“黑人美丽”这个口号所暗示的那样。对于压迫性的美的标准和使用的最有力回应，催生了可以称之为*反美*的东西。例如，在与残疾人歧视作斗争时，一个人可以谴责将残疾人身体视为丑陋的压迫性规范，然后就此打住。或者，一个人可以尝试发现在将残疾人身体视为美丽的努力中可能出现的新的美的标准和颠覆性的愉悦（Siebers 2005）。同样地，一个人可以揭示非规范身体和颠覆性的愉悦实际上如何满足各种传统美的标准。事实上，几十年来一直存在着残疾艺术运动，通常与 Christine Sun Kim 和 Riva Lehrer 等艺术家联系在一起，他们试图做到这一点（参见 Siebers 2005）。
+然而，如果美在各种形式的压迫中起到了作用，它也在各种形式的抵抗中起到了作用，正如“黑人美丽”这个口号所暗示的那样。对于压迫性的美的标准和使用的最有力回应，催生了可以称之为_反美_的东西。例如，在与残疾人歧视作斗争时，一个人可以谴责将残疾人身体视为丑陋的压迫性规范，然后就此打住。或者，一个人可以尝试发现在将残疾人身体视为美丽的努力中可能出现的新的美的标准和颠覆性的愉悦（Siebers 2005）。同样地，一个人可以揭示非规范身体和颠覆性的愉悦实际上如何满足各种传统美的标准。事实上，几十年来一直存在着残疾艺术运动，通常与 Christine Sun Kim 和 Riva Lehrer 等艺术家联系在一起，他们试图做到这一点（参见 Siebers 2005）。
 
 对于美的探索，在某种程度上将其转化为女性主义抵抗的工具，或者直接展示女性的美可以在父权制之外被体验，一直是 20 世纪和 21 世纪女性艺术家作品的主题。乔治亚·奥基夫（Georgia O'Keeffe）的花朵和朱迪·芝加哥（Judy Chicago）的“晚宴派对”摆设试图吸收并扭转被物化的目光。在汉娜·威尔克（Hannah Wilke）、卡伦·芬利（Karen Finley）和奥兰（Orlan）等行为艺术家的作品中，对女性身体意义的探索既试图探索女性身体的物化，又试图从内部肯定女性的体验：将其明确地作为主体而非客体（参见 Striff 1997）。
 
@@ -297,66 +297,66 @@ Wolf 认为，按照男性标准要求女性创造出美丽的自我呈现，从
 
 ## Bibliography
 
-* Adorno, Theodor, 1970 \[1997], *Aesthetic Theory*, Robert Hullot-Kentor (trans.), Minneapolis: University of Minnesota Press.
-* Aquinas, Thomas, *Summa Theologica*, Fathers of the English Dominican Province (trans.), London: Christian Classics, 1981 \[13th century text].
-* Augustine, *Earlier Writings*, J.H. Burleigh, ed., New York: WJK Publishing, 1953 \[4th/5th century AD text].
-* Aristotle, *The Complete Works of Aristotle*, in two volumes, Jonathan Barnes, ed., Princeton: Princeton University Press, 1984 \[4th century BCE text].
-* Ayer, A.J., 1952, *Language, Truth, and Logic*, New York: Dover.
-* Bell, Clive, 1914, *Art*, London: Chatto & Windus.
-* Berkeley, Bishop George, 1732, *Alciphron: or, The Minute Philosopher*, London: Tonson and Co.
-* Bown, Matthew and Matteo Lanfranconi, 2012, *Socialist Realisms: Great Soviet Painting, 1920–1970*, New York: Skira Press.
-* Brand, Peg Zeglin (ed.), 2000, *Beauty Matters*, Bloomington: Indiana University Press.
-* Bullough, Edward, 1912, “‘Psychical Distance’ as a Factor in Art and as an Aesthetic Principle,” *British Journal of Psychology*, 5. Widely anthologized, e.g., in Cahn, Steven and Meskin, Aaron, 2008. *Aesthetics: A Comprehensive Anthology*, Malden, MA: Blackwell, pp. 243–60.
-* Burke, Edmund, 1757, *A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful*, Oxford: Oxford University Press, 1990.
-* Carritt, E.F., 1931, *Philosophies of Beauty*, London: Oxford University Press.
-* Coomaraswamy, Ananda, 1977, *Traditional Art and Symbolism* (Selected Papers, volume 1), Princeton: Bollingen.
-* Croce, Benedetto, 1929, “Aesthetics,” in *Encyclopedia Britannica*. See “Benedetto Croce on aesthetics,”*Encyclopedia Britannica*, 14 Aug. 2014, [\[read it on www.britannica.com\]](https://www.britannica.com/topic/Benedetto-Croce-on-aesthetics-1990551).
-* Danto, Arthur, 2003, *The Abuse of Beauty*, Chicago: Open Court.
-* Diogenes Laertius, *The Lives and Opinions of Eminent Philosophers*, C.D. Yonge (trans.), New York: George Bell & Sons, 1895 \[3rd century CE text].
-* Eco, Umberto, 1959, *Art and Beauty in the Middle Ages*, Hugh Bredin (trans.), New Haven: Yale University Press, 1986.
-* Garvey, Marcus, 1925 \[1986], *The Life and Opinions of Marcus Garvey* (Volume 1), Amy Jacques Garvey (ed.), New York: Majority Press.
-* Grimké, Sarah, 1837, *Letters on the Equality of the Sexes and the Condition of Women*, Boston: Isaac Knapp [\[scan of 1838 printing available online\]](https://curiosity.lib.harvard.edu/women-working-1800-1930/catalog/45-990022060320203941).
-* Hanslick, Eduard, 1891, *The Beautiful in Music*, Gustav Cohen (trans.), London: Novello and Company.
-* Hegel, G.W.F., 1835, *Hegel’s Aesthetics: Lectures on Fine Art*, in two volumes, T.M. Knox (trans.), Oxford: Clarendon, 1975.
-* Hickey, Dave, 2012 \[1993], *The Invisible Dragon: Essays on Beauty*, University of Chicago Press.
-* Hume, David, 1757, “Of the Standard of Taste,” *Essays Moral and Political*, London: George Routledge and Sons, 1894.
-* –––, 1740, *A Treatise of Human Nature*, Oxford: Oxford University Press, 1988.
-* Hutcheson, Francis, 1725, *An Inquiry into the Original of our Ideas of Beauty and Virtue*, Indianapolis: Liberty Fund, 2004.
-* Irigaray, Luce, 1993. “Divine Women,” in *Sexes and Genealogies*, Gillian C. Gill (trans.), New York: Columbia University Press, pp. 55–73.
-* Kant, Immanuel, 1790, *Critique of Judgement*, J.H. Bernard (trans.), New York: Macmillan, 1951.
-* Kirwan, James, 1999. *Beauty*, Manchester: Manchester University Press.
-* Levey, Michael, 1985, *Rococo to Revolution*, London: Thames and Hudson.
-* MacKinnon, Catherine, 1987, “Desire and Power,” in C. MacKinnon, *Feminism Unmodified: Discourses on Life and Law*, Cambridge, MA: Harvard University Press, pp. 46–62.
-* Marx, Karl, 1844 \[1978], “Estranged Labour,” in *The Marx-Engels Reader*, 2nd edition, Robert E. Tucker (ed.), New York: Norton, 1978, pp. 70–81.
-* Matthes, Erich Hatala, 2017, “Repatriation and the Radical Redistribution of Art,” *Ergo: an Open Access Journal of Philosophy*, 4(32). doi:10.3998/ergo.12405314.0004.032
-* Moore, G.E., 1903, *Principia Ethica*, Mineola, NY: Dover, 2004.
-* Mothersill, Mary, 1984, *Beauty Restored*, Oxford: Clarendon.
-* Mulvey, Laura, 1975, “Visual Pleasure in Narrative Cinema,” *Screen*, 16(3): 6–18; reprinted in *Feminist Film Theory*, Sue Thornham (ed.), Edinburgh: Edinburgh University Press, 1999, pp. 58–69.
-* Nehamas, Alexander, 2007, *Only a Promise of Happiness: The Place of Beauty in a World of Art*, Princeton: Princeton University Press.
-* Nochlin, Linda, 1988, *Women, Art, and Power, and Other Essays*, New York: HarperCollins.
-* Plato, *Collected Dialogues*, Edith Hamilton and Huntington Cairns (eds.), Princeton: Princeton University Press, 1961 \[4th century BCE text].
-* Plotinus, *The Six Enneads*, Stephen McKenna and B.S. Page (trans.), Chicago: Encyclopedia Britannica Publishing, 1952 \[3rd century CE text].
-* Pollitt, J.J., 1974, *The Ancient View of Greek Art*, New Haven: Yale University Press.
-* Pollock, Griselda, 1987, *Vision and Difference: Feminism, Femininity and Histories of Art*, New York: Methuen.
-* Pseudo-Dionysius, *Works of Dionysius the Areopagite*, John Parker (trans.), London: James Parker and Co., 1897 \[originally 5th or 6th century CE].
+* Adorno, Theodor, 1970 \[1997], _Aesthetic Theory_, Robert Hullot-Kentor (trans.), Minneapolis: University of Minnesota Press.
+* Aquinas, Thomas, _Summa Theologica_, Fathers of the English Dominican Province (trans.), London: Christian Classics, 1981 \[13th century text].
+* Augustine, _Earlier Writings_, J.H. Burleigh, ed., New York: WJK Publishing, 1953 \[4th/5th century AD text].
+* Aristotle, _The Complete Works of Aristotle_, in two volumes, Jonathan Barnes, ed., Princeton: Princeton University Press, 1984 \[4th century BCE text].
+* Ayer, A.J., 1952, _Language, Truth, and Logic_, New York: Dover.
+* Bell, Clive, 1914, _Art_, London: Chatto & Windus.
+* Berkeley, Bishop George, 1732, _Alciphron: or, The Minute Philosopher_, London: Tonson and Co.
+* Bown, Matthew and Matteo Lanfranconi, 2012, _Socialist Realisms: Great Soviet Painting, 1920–1970_, New York: Skira Press.
+* Brand, Peg Zeglin (ed.), 2000, _Beauty Matters_, Bloomington: Indiana University Press.
+* Bullough, Edward, 1912, “‘Psychical Distance’ as a Factor in Art and as an Aesthetic Principle,” _British Journal of Psychology_, 5. Widely anthologized, e.g., in Cahn, Steven and Meskin, Aaron, 2008. _Aesthetics: A Comprehensive Anthology_, Malden, MA: Blackwell, pp. 243–60.
+* Burke, Edmund, 1757, _A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful_, Oxford: Oxford University Press, 1990.
+* Carritt, E.F., 1931, _Philosophies of Beauty_, London: Oxford University Press.
+* Coomaraswamy, Ananda, 1977, _Traditional Art and Symbolism_ (Selected Papers, volume 1), Princeton: Bollingen.
+* Croce, Benedetto, 1929, “Aesthetics,” in _Encyclopedia Britannica_. See “Benedetto Croce on aesthetics,”_Encyclopedia Britannica_, 14 Aug. 2014, [\[read it on www.britannica.com\]](https://www.britannica.com/topic/Benedetto-Croce-on-aesthetics-1990551).
+* Danto, Arthur, 2003, _The Abuse of Beauty_, Chicago: Open Court.
+* Diogenes Laertius, _The Lives and Opinions of Eminent Philosophers_, C.D. Yonge (trans.), New York: George Bell & Sons, 1895 \[3rd century CE text].
+* Eco, Umberto, 1959, _Art and Beauty in the Middle Ages_, Hugh Bredin (trans.), New Haven: Yale University Press, 1986.
+* Garvey, Marcus, 1925 \[1986], _The Life and Opinions of Marcus Garvey_ (Volume 1), Amy Jacques Garvey (ed.), New York: Majority Press.
+* Grimké, Sarah, 1837, _Letters on the Equality of the Sexes and the Condition of Women_, Boston: Isaac Knapp [\[scan of 1838 printing available online\]](https://curiosity.lib.harvard.edu/women-working-1800-1930/catalog/45-990022060320203941).
+* Hanslick, Eduard, 1891, _The Beautiful in Music_, Gustav Cohen (trans.), London: Novello and Company.
+* Hegel, G.W.F., 1835, _Hegel’s Aesthetics: Lectures on Fine Art_, in two volumes, T.M. Knox (trans.), Oxford: Clarendon, 1975.
+* Hickey, Dave, 2012 \[1993], _The Invisible Dragon: Essays on Beauty_, University of Chicago Press.
+* Hume, David, 1757, “Of the Standard of Taste,” _Essays Moral and Political_, London: George Routledge and Sons, 1894.
+* –––, 1740, _A Treatise of Human Nature_, Oxford: Oxford University Press, 1988.
+* Hutcheson, Francis, 1725, _An Inquiry into the Original of our Ideas of Beauty and Virtue_, Indianapolis: Liberty Fund, 2004.
+* Irigaray, Luce, 1993. “Divine Women,” in _Sexes and Genealogies_, Gillian C. Gill (trans.), New York: Columbia University Press, pp. 55–73.
+* Kant, Immanuel, 1790, _Critique of Judgement_, J.H. Bernard (trans.), New York: Macmillan, 1951.
+* Kirwan, James, 1999. _Beauty_, Manchester: Manchester University Press.
+* Levey, Michael, 1985, _Rococo to Revolution_, London: Thames and Hudson.
+* MacKinnon, Catherine, 1987, “Desire and Power,” in C. MacKinnon, _Feminism Unmodified: Discourses on Life and Law_, Cambridge, MA: Harvard University Press, pp. 46–62.
+* Marx, Karl, 1844 \[1978], “Estranged Labour,” in _The Marx-Engels Reader_, 2nd edition, Robert E. Tucker (ed.), New York: Norton, 1978, pp. 70–81.
+* Matthes, Erich Hatala, 2017, “Repatriation and the Radical Redistribution of Art,” _Ergo: an Open Access Journal of Philosophy_, 4(32). doi:10.3998/ergo.12405314.0004.032
+* Moore, G.E., 1903, _Principia Ethica_, Mineola, NY: Dover, 2004.
+* Mothersill, Mary, 1984, _Beauty Restored_, Oxford: Clarendon.
+* Mulvey, Laura, 1975, “Visual Pleasure in Narrative Cinema,” _Screen_, 16(3): 6–18; reprinted in _Feminist Film Theory_, Sue Thornham (ed.), Edinburgh: Edinburgh University Press, 1999, pp. 58–69.
+* Nehamas, Alexander, 2007, _Only a Promise of Happiness: The Place of Beauty in a World of Art_, Princeton: Princeton University Press.
+* Nochlin, Linda, 1988, _Women, Art, and Power, and Other Essays_, New York: HarperCollins.
+* Plato, _Collected Dialogues_, Edith Hamilton and Huntington Cairns (eds.), Princeton: Princeton University Press, 1961 \[4th century BCE text].
+* Plotinus, _The Six Enneads_, Stephen McKenna and B.S. Page (trans.), Chicago: Encyclopedia Britannica Publishing, 1952 \[3rd century CE text].
+* Pollitt, J.J., 1974, _The Ancient View of Greek Art_, New Haven: Yale University Press.
+* Pollock, Griselda, 1987, _Vision and Difference: Feminism, Femininity and Histories of Art_, New York: Methuen.
+* Pseudo-Dionysius, _Works of Dionysius the Areopagite_, John Parker (trans.), London: James Parker and Co., 1897 \[originally 5th or 6th century CE].
 * Robinson, Hilary, 2000, “Whose Beauty?” in P.Z. Brand (ed.) 2000: 224–51.
-* Said, Edward, 1978, *Orientalism*, New York: Random House.
-* Santayana, George, 1896, *The Sense of Beauty*, New York: Scribner’s.
-* Sappho, *The Poetry of Sappho*, Jim Powell (trans.), Oxford: Oxford University Press, 2007 \[7th or 6th century BCE text].
-* Sartwell, Crispin, 2004, *Six Names of Beauty*, New York: Routledge
-* Schiller, Friedrich, 1795, *On the Aesthetic Education of Man*, New York: Dover, 2004.
-* Schopenhauer, Arthur, 1818, *The World as Will and Idea*, E.F.J. Payne (trans.), New York: Dover, 1966.
-* Scruton, Roger, 2009, *Beauty*, Oxford: Oxford University Press, 2009.
-* Shaftesbury, Third Earl of, 1738, “The Moralists, a Philosophical Rhapsody,” *Characteristicks of Men, Manners, Opinions, Times*, Indianapolis: Liberty Fund, 2001.
-* Siebers, Tobin, 2005, “Disability Aesthetics,” *PMLA* (Journal of the Modern Languages Association), 120(2): 542–46
-* Spotts, Frederic, 2003, *Hitler and the Power of Aesthetics*, New York: Abrams.
-* Striff, Erin, 1997, “Bodies of Evidence: Feminist Performance Art,” *Critical Survey*, 9(1): 1–18.
-* Vitruvius, *On Architecture*, Frank Granger (trans.), Cambridge: Harvard University Press, 1970 \[originally 1st century BCE].
-* Wolf, Naomi, 1991 \[2002], *The Beauty Myth*, New York: HarperCollins.
-* Wollstonecraft, Mary, 1792. *A Vindication of the Rights of Women*, Boston: Thomas & Andrews.
-* Wölfflin, Heinrich, 1932, *Principles of Art History*, M.D. Hottinger (trans.), New York: Dover, 1950.
-* X, Malcolm, 1964 \[1992], *The Autobiography of Malcolm X* (as told to Alex Haley), New York: Ballantine.
-* Xenophon, *Memorabilia* \[4th century BCE text], E. C. Marchant (trans.), Cambridge, MA: Harvard University Press, 1923.
+* Said, Edward, 1978, _Orientalism_, New York: Random House.
+* Santayana, George, 1896, _The Sense of Beauty_, New York: Scribner’s.
+* Sappho, _The Poetry of Sappho_, Jim Powell (trans.), Oxford: Oxford University Press, 2007 \[7th or 6th century BCE text].
+* Sartwell, Crispin, 2004, _Six Names of Beauty_, New York: Routledge
+* Schiller, Friedrich, 1795, _On the Aesthetic Education of Man_, New York: Dover, 2004.
+* Schopenhauer, Arthur, 1818, _The World as Will and Idea_, E.F.J. Payne (trans.), New York: Dover, 1966.
+* Scruton, Roger, 2009, _Beauty_, Oxford: Oxford University Press, 2009.
+* Shaftesbury, Third Earl of, 1738, “The Moralists, a Philosophical Rhapsody,” _Characteristicks of Men, Manners, Opinions, Times_, Indianapolis: Liberty Fund, 2001.
+* Siebers, Tobin, 2005, “Disability Aesthetics,” _PMLA_ (Journal of the Modern Languages Association), 120(2): 542–46
+* Spotts, Frederic, 2003, _Hitler and the Power of Aesthetics_, New York: Abrams.
+* Striff, Erin, 1997, “Bodies of Evidence: Feminist Performance Art,” _Critical Survey_, 9(1): 1–18.
+* Vitruvius, _On Architecture_, Frank Granger (trans.), Cambridge: Harvard University Press, 1970 \[originally 1st century BCE].
+* Wolf, Naomi, 1991 \[2002], _The Beauty Myth_, New York: HarperCollins.
+* Wollstonecraft, Mary, 1792. _A Vindication of the Rights of Women_, Boston: Thomas & Andrews.
+* Wölfflin, Heinrich, 1932, _Principles of Art History_, M.D. Hottinger (trans.), New York: Dover, 1950.
+* X, Malcolm, 1964 \[1992], _The Autobiography of Malcolm X_ (as told to Alex Haley), New York: Ballantine.
+* Xenophon, _Memorabilia_ \[4th century BCE text], E. C. Marchant (trans.), Cambridge, MA: Harvard University Press, 1923.
 
 ## Academic Tools
 
@@ -375,4 +375,4 @@ Wolf 认为，按照男性标准要求女性创造出美丽的自我呈现，从
 [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [aesthetics: French, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-french/) | [Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Ayer, Alfred Jules](https://plato.stanford.edu/entries/ayer/) | [Burke, Edmund](https://plato.stanford.edu/entries/burke/) | [Croce, Benedetto: aesthetics](https://plato.stanford.edu/entries/croce-aesthetics/) | [feminist philosophy, interventions: aesthetics](https://plato.stanford.edu/entries/feminism-aesthetics/) | [hedonism](https://plato.stanford.edu/entries/hedonism/) | [Hegel, Georg Wilhelm Friedrich: aesthetics](https://plato.stanford.edu/entries/hegel-aesthetics/) | [Hume, David: aesthetics](https://plato.stanford.edu/entries/hume-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Kant, Immanuel: theory of judgment](https://plato.stanford.edu/entries/kant-judgment/) | [medieval philosophy](https://plato.stanford.edu/entries/medieval-philosophy/) | [Neoplatonism](https://plato.stanford.edu/entries/neoplatonism/) | [Plato: aesthetics](https://plato.stanford.edu/entries/plato-aesthetics/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [Santayana, George](https://plato.stanford.edu/entries/santayana/) | [Schiller, Friedrich](https://plato.stanford.edu/entries/schiller/) | [Schopenhauer, Arthur](https://plato.stanford.edu/entries/schopenhauer/) | [Scottish Philosophy: in the 18th Century](https://plato.stanford.edu/entries/scottish-18th/) | [Shaftesbury, Lord \[Anthony Ashley Cooper, 3rd Earl of\]](https://plato.stanford.edu/entries/shaftesbury/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Crispin Sartwell <[*crispinsartwell@gmail.com*](mailto:crispinsartwell%40gmail%2ecom)>
+Crispin Sartwell <[_crispinsartwell@gmail.com_](mailto:crispinsartwell%40gmail%2ecom)>

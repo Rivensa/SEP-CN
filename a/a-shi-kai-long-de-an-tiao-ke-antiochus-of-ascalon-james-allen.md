@@ -1,6 +1,6 @@
 # 阿什凯隆的安条克 Antiochus of Ascalon (James Allen)
 
-*首次发表于 2005 年 3 月 1 日；实质性修订于 2020 年 8 月 6 日*
+_首次发表于 2005 年 3 月 1 日；实质性修订于 2020 年 8 月 6 日_
 
 阿什凯隆的安条克，在公元前二世纪后期和公元前一世纪初期活跃，是柏拉图学派的成员，在学派怀疑主义阶段期间。在自己拥护怀疑主义之后，他成为了一位教条主义者。他捍卫了一种认识论理论，基本上与斯多亚派相同，并且他的伦理学理论综合了斯多亚派、柏拉图和亚里士多德的要素。在这两个领域，他声称自己在复兴柏拉图及其最早的继承者和亚里士多德的学说。
 
@@ -27,11 +27,11 @@
 
 雅典的政治不稳定导致菲洛斯将他的活动转移到公元前 88 年的罗马。我们知道安条克斯在接下来的一年与卢库卢斯（Lucullus）一起在亚历山大居住，卢库卢斯是一位罗马将军和政治家，他们维持了终身的联系。他还对其他杰出的罗马人产生了影响。西塞罗虽然不是他的追随者，但在公元前 79 年与安条克斯在雅典学习。瓦罗（除了西塞罗外，公元前一世纪最伟大的罗马知识分子）和凯撒的刺客布鲁图斯都是安条克斯哲学的追随者（关于瓦罗，请参见布兰克 2012 年）。
 
-阿什凯隆的安条克的书籍没有留存下来，但我们对它们有所了解。他至少写了两本关于认识论的著作，其中一本名为《Canonica》。这个标题来自于“kanôn”，意思是统治者或直尺，这个术语在希腊化时期的哲学家中用来表示真理的标准或准则。它被塞克斯图斯·恩皮里科斯在他对真理标准观点的调查中引用，该调查载于《反对教授们》（即《Adversus Mathematicos》）\[*M*] 7.162, 202，现代学者猜测这可能是塞克斯的调查的主要来源（参见塔兰特，1985 年，94-6；塞德利，1992 年）。《Sosus》可能是一本对话，也是一本关于认识论的著作，属于安条克与菲洛争论的最后阶段（西塞罗，《学院派》2.12）。他还写了一本关于众神的书，关于这本书我们一无所知。他给罗马斯多亚派巴尔布斯送去了一本书，在书中他坚持认为，尽管术语不同，斯多亚派和亚里士多德学派（亚里士多德学派的继承者被称为“Peripatos”）在实质问题上基本上是一致的（西塞罗，《自然神论》1.16）。西塞罗还告诉我们，安条克在许多地方写过关于幸福和美德之间关系的观点（《论友谊》5.22）。
+阿什凯隆的安条克的书籍没有留存下来，但我们对它们有所了解。他至少写了两本关于认识论的著作，其中一本名为《Canonica》。这个标题来自于“kanôn”，意思是统治者或直尺，这个术语在希腊化时期的哲学家中用来表示真理的标准或准则。它被塞克斯图斯·恩皮里科斯在他对真理标准观点的调查中引用，该调查载于《反对教授们》（即《Adversus Mathematicos》）\[_M_] 7.162, 202，现代学者猜测这可能是塞克斯的调查的主要来源（参见塔兰特，1985 年，94-6；塞德利，1992 年）。《Sosus》可能是一本对话，也是一本关于认识论的著作，属于安条克与菲洛争论的最后阶段（西塞罗，《学院派》2.12）。他还写了一本关于众神的书，关于这本书我们一无所知。他给罗马斯多亚派巴尔布斯送去了一本书，在书中他坚持认为，尽管术语不同，斯多亚派和亚里士多德学派（亚里士多德学派的继承者被称为“Peripatos”）在实质问题上基本上是一致的（西塞罗，《自然神论》1.16）。西塞罗还告诉我们，安条克在许多地方写过关于幸福和美德之间关系的观点（《论友谊》5.22）。
 
 ## 2. 安条克的哲学概述
 
-阿什凯隆将真理的标准和人生的目标（*telos*，终点）视为哲学的两个最重要的关注点（西塞罗，《学院派》2.29），我们对他的认识论和伦理观点了解最多。正如我们所见，他与菲洛的分歧是关于知识的争议。在多年来忠诚地捍卫菲洛和他的学院前辈的怀疑主义之后，安条克斯开始接受相反的教条主义立场，即知识是可能的。更重要的是，他坚持认为柏拉图和他的直接追随者的原始或旧学院也持有同样的观点。这使他与他的更直接的前辈产生了冲突，其中一些人认为柏拉图也应该被解释为怀疑论者（西塞罗，《学院派》1.46）。因此，根据安条克斯的说法，背离学院传统的不是他，而是从阿尔凯西拉乌斯到菲洛的这段时间内背叛了原始旧学院的真正学院传承的机构，而他现在正在恢复这一传承。
+阿什凯隆将真理的标准和人生的目标（_telos_，终点）视为哲学的两个最重要的关注点（西塞罗，《学院派》2.29），我们对他的认识论和伦理观点了解最多。正如我们所见，他与菲洛的分歧是关于知识的争议。在多年来忠诚地捍卫菲洛和他的学院前辈的怀疑主义之后，安条克斯开始接受相反的教条主义立场，即知识是可能的。更重要的是，他坚持认为柏拉图和他的直接追随者的原始或旧学院也持有同样的观点。这使他与他的更直接的前辈产生了冲突，其中一些人认为柏拉图也应该被解释为怀疑论者（西塞罗，《学院派》1.46）。因此，根据安条克斯的说法，背离学院传统的不是他，而是从阿尔凯西拉乌斯到菲洛的这段时间内背叛了原始旧学院的真正学院传承的机构，而他现在正在恢复这一传承。
 
 还有一个复杂因素。安条克斯所捍卫的认识论在所有重要的观点上都是斯多葛派的（布里坦，2012）。他的同时代人中有些人指责他不是任何学院派的成员，而是斯多葛派的一员，应该属于斯多葛派而不是学院派（《学院派》2.69，132，参见 137；塞克斯蒂斯，《论自然》1.235）。作为回应，安条克斯坚持认为旧学院、亚里士多德学派和斯多葛派在基本观点上是一致的。根据他的说法，斯多葛派的创始人锡提翁主要只是对旧学院的教义进行了新的术语和一些修正（西塞罗，《学院派》1.35）。尽管这个历史论点在他的同时代人中并不令人信服，但它解释了安条克斯如何能够捍卫斯多葛派的认识论，同时声称要复兴旧学院。他关于认识论和伦理学的论证都嵌入在对学院历史的重新解释中，因此是关于谁是学派传统的合法继承者的争论的一部分。
 
@@ -51,13 +51,13 @@
 
 尽管如前所述，学派并不一定坚持怀疑的立场，他们捍卫了一种坚定怀疑的生活的可能性，以防止斯多葛派通过这些反怀疑论的论证间接地逃避他们的立场所引发的困难。阿尔凯西拉乌斯起了个头，但是在公元前 2 世纪，他的继任者卡尔尼阿德斯做得最多，也是安条克熟悉的辩护版本的责任人。
 
-卡尔尼阿德斯认为，在没有认知印象的情况下，可以在所谓的可能印象中找到行动和探究的基础（来自拉丁语*probabilis*，意思是那些容易或邀请赞同的东西，西塞罗用拉丁语表达了希腊语*pithanos*的意思，即有说服力的）（参见[卡尔尼阿德斯](https://plato.stanford.edu/entries/carneades/)条目的第 3 节）。
+卡尔尼阿德斯认为，在没有认知印象的情况下，可以在所谓的可能印象中找到行动和探究的基础（来自拉丁语_probabilis_，意思是那些容易或邀请赞同的东西，西塞罗用拉丁语表达了希腊语_pithanos_的意思，即有说服力的）（参见[卡尔尼阿德斯](https://plato.stanford.edu/entries/carneades/)条目的第 3 节）。
 
-基于对可能印象的这种描述，卡尔尼阿德斯提出了两种关于同意的观点。根据一种提议，智者将始终保留同意，但可以通过遵循或使用可能印象的方式来行动和探究，这并不等同于同意，因此不涉及对任何事物持有意见（*Acad*. 2.59, 99, 108）。根据第二种观点，智者将同意可能的事物，并形成意见，但是这种同意是暂时的，并且理解到自己可能是错误的（*Acad*. 2.59, 67, 78, 112）。
+基于对可能印象的这种描述，卡尔尼阿德斯提出了两种关于同意的观点。根据一种提议，智者将始终保留同意，但可以通过遵循或使用可能印象的方式来行动和探究，这并不等同于同意，因此不涉及对任何事物持有意见（_Acad_. 2.59, 99, 108）。根据第二种观点，智者将同意可能的事物，并形成意见，但是这种同意是暂时的，并且理解到自己可能是错误的（_Acad_. 2.59, 67, 78, 112）。
 
-关于卡尔尼阿德是否超越了为了辩论而提出这些观点，并实际上订阅了其中之一，存在争议。然而，似乎他的一些继任者支持了其中一个或两个怀疑主义学说。一种倾向，由克利托马库斯领导，卡尔尼阿德的学生和最终的继任者，支持了我们可以称之为激进怀疑主义立场的学说。尽管克利托马库斯拒绝了同意，但他接受了卡尔尼阿德的建议，即我们可以在不同意的情况下遵循或使用印象，并采取这种态度对待，包括怀疑主义学说在内的其他印象，即没有什么是可以知道的，因此应该暂停判断（*Acad*。2.109-10）。另一种倾向支持一种温和或缓和的怀疑主义形式。尽管它接受了第一个怀疑主义学说，即没有什么是可以知道的，但这种倾向允许智者通过同意非认知印象来形成观点，只要它们足够可靠，并且对它们给予的同意是以卡尔尼阿德第二个建议的临时精神赋予的。这种倾向认为，怀疑主义学说即没有什么是可以知道的，是应该以这种方式同意的印象之一。当人们意识到接受自己不知道任何事情时，并不是认为自己知道这一点，而只是认为这是非常有可能的时，看似矛盾的现象就会消失。这种观点最著名的支持者是安条克的老师菲洛，正是这种缓和的学院怀疑主义被安条克在转向教条主义之前所捍卫。
+关于卡尔尼阿德是否超越了为了辩论而提出这些观点，并实际上订阅了其中之一，存在争议。然而，似乎他的一些继任者支持了其中一个或两个怀疑主义学说。一种倾向，由克利托马库斯领导，卡尔尼阿德的学生和最终的继任者，支持了我们可以称之为激进怀疑主义立场的学说。尽管克利托马库斯拒绝了同意，但他接受了卡尔尼阿德的建议，即我们可以在不同意的情况下遵循或使用印象，并采取这种态度对待，包括怀疑主义学说在内的其他印象，即没有什么是可以知道的，因此应该暂停判断（_Acad_。2.109-10）。另一种倾向支持一种温和或缓和的怀疑主义形式。尽管它接受了第一个怀疑主义学说，即没有什么是可以知道的，但这种倾向允许智者通过同意非认知印象来形成观点，只要它们足够可靠，并且对它们给予的同意是以卡尔尼阿德第二个建议的临时精神赋予的。这种倾向认为，怀疑主义学说即没有什么是可以知道的，是应该以这种方式同意的印象之一。当人们意识到接受自己不知道任何事情时，并不是认为自己知道这一点，而只是认为这是非常有可能的时，看似矛盾的现象就会消失。这种观点最著名的支持者是安条克的老师菲洛，正是这种缓和的学院怀疑主义被安条克在转向教条主义之前所捍卫。
 
-我们通过西塞罗的《学院派》了解到安条克对学院派怀疑主义的反驳。其中有相当一部分内容保存完好。安条克似乎追随斯多亚派，他们产生了大量文献来捍卫自己的立场并攻击学院派的概率主义替代方案，但他还在论证中加入了一些自己的元素（参见 Striker 1997）。他捍卫了感官的真实性。他似乎认为，为了甚至拥有真理的概念，我们必须以不容置疑的方式理解一些真理，而这只有在存在认知印象的情况下才可能（*Acad*。2.33）。他认为，概率印象是认知印象的完全不足替代品（*Acad*。2.35-6），因此，指责学院派通过废除认知印象（正如他们所认为的）剥夺了人类行动的基础是站不住脚的（*Acad*。2.31、33、54、62、102-3、110）。他还认为，在维持怀疑主义立场时，学院派必须认为自己至少知道一件事，即没有什么是可以知道的（*Acad*。2.28-9、109；参见 Burnyeat 1997）。
+我们通过西塞罗的《学院派》了解到安条克对学院派怀疑主义的反驳。其中有相当一部分内容保存完好。安条克似乎追随斯多亚派，他们产生了大量文献来捍卫自己的立场并攻击学院派的概率主义替代方案，但他还在论证中加入了一些自己的元素（参见 Striker 1997）。他捍卫了感官的真实性。他似乎认为，为了甚至拥有真理的概念，我们必须以不容置疑的方式理解一些真理，而这只有在存在认知印象的情况下才可能（_Acad_。2.33）。他认为，概率印象是认知印象的完全不足替代品（_Acad_。2.35-6），因此，指责学院派通过废除认知印象（正如他们所认为的）剥夺了人类行动的基础是站不住脚的（_Acad_。2.31、33、54、62、102-3、110）。他还认为，在维持怀疑主义立场时，学院派必须认为自己至少知道一件事，即没有什么是可以知道的（_Acad_。2.28-9、109；参见 Burnyeat 1997）。
 
 然而，故事中还有一个更加扭曲的转折。在搬到罗马后，菲洛出版了一对书籍——所谓的《罗马书》。当这些书籍引起亚历山大的安条克的注意时，他认为这些书代表了他老师之前立场的激进且不可接受的转变。这成为了《索苏斯》的契机，其中包含了对菲洛新观点的尖锐回应。与安条克认为存在两个学派（一个旧学派和一个新学派）的观点相反，菲洛坚持认为只有一个学派存在。但他现在认为，从柏拉图到菲洛自己的学派并不是因为怀疑论而团结在一起的，正如我们所见，一些学者们相信的那样。相反，他们从来就不是怀疑论者，因为他们从来没有打算挑战知识的可能性。菲洛并没有否认阿尔凯西拉乌斯和卡尔尼阿德斯对认知印象的存在进行了争论。相反，他现在坚持认为，这些论点表明，并且一直意图表明的是，认知或理解并非不可能，而是在斯多葛派对理解的概念上是不可能的，因此是错误的（《学派》2.18；S.E.《哲学史》1.235）。
 
@@ -79,65 +79,65 @@
 
 在他的观点中，引导人类走向美德的发展并不涉及斯多嘉学派所假设的根本转变。相反，如果一切顺利，一个人会开始重视理性，因此将美德作为理性的完美，高于其他一切，因为理性是人类本性中最重要的部分。根据安条克的观点，一个人的动机的性质并没有在他的发展过程中发生根本性的转变，而是他关注的对象——自我发生了变化。因此，虽然美德是最重要的人类善，但也有其他好处的空间，因为它们也符合人类的本性，尽管是次要的部分。安条克使用斯多嘉学派的框架使他有理由批评斯多嘉学派抛弃或忘记了他们出发时的本性（西塞罗，《终极善》4.26, 43；5.72），并且没有看到将理性视为人类本性中最重要的部分与认为它是唯一的部分之间的区别（4.41）。
 
-像斯多葛派一样，然而，阿什凯隆的安条克想要主张道德足以带来幸福。斯多葛派的伦理学通过否认除了道德和恶习之外还有其他善恶，以及除了道德和恶习之外还有任何能够影响生活的好坏的事物，从而确保了这一结果。然而，这种选择对于安条克来说是不可行的，因为他认为还有其他具有这种力量的善恶。他的解决方案是他伦理体系中最独特的特点，也是最受批评的一个，他区分了幸福的生活（西塞罗的拉丁文中称为*vita beata*），对于这种生活，道德是足够的；以及完全或完美幸福的生活（*vita beatissima*）（见《终极善恶论》5.71, 95；《论天命》5.22），这种生活还需要身体和外部的好坏（参见 Irwin 1992）。
+像斯多葛派一样，然而，阿什凯隆的安条克想要主张道德足以带来幸福。斯多葛派的伦理学通过否认除了道德和恶习之外还有其他善恶，以及除了道德和恶习之外还有任何能够影响生活的好坏的事物，从而确保了这一结果。然而，这种选择对于安条克来说是不可行的，因为他认为还有其他具有这种力量的善恶。他的解决方案是他伦理体系中最独特的特点，也是最受批评的一个，他区分了幸福的生活（西塞罗的拉丁文中称为_vita beata_），对于这种生活，道德是足够的；以及完全或完美幸福的生活（_vita beatissima_）（见《终极善恶论》5.71, 95；《论天命》5.22），这种生活还需要身体和外部的好坏（参见 Irwin 1992）。
 
 ## Bibliography
 
 ### Texts
 
-* Cicero, *De natura deorum, Academica* (Loeb Classical Library), H. Rackham (trans.), Cambridge MA: Harvard University Press, 1933.
-* –––, *Akademische Abhandlungen, Lucullus*, C. Schäublin (trans.), Hamburg: Meiner, 1996.
-* –––, *On Academic Scepticism*, C. Brittain (trans.), Indianapolis: Hackett, 2006.
-* –––, *De finibus* (Loeb Classical Library), H. Rackham (trans.), Cambridge MA: Harvard University Press, 1914.
-* –––, *On Moral Ends*, J. Annas (ed.), R. Woolf (trans.), Cambridge: Cambridge University Press, 2001.
-* –––, *Tusculan Disputations* (Loeb Classical Library), J.E. King (trans.), Cambridge MA: Harvard University Press, 2nd edition, 1943.
-* Long, A.A. and D.N. Sedley (eds. and trans.), *The Hellenistic Philosophers*, 2 vols., Cambridge: Cambridge University Press, 1987.
-* Luck, G., *Der Akademiker Antiochos (Noctes Romanae* 7), Berne: Paul Haupt, 1953.
-* Mette, H. J., “Philon von Larissa und Antiochos von Askalon”, *Lustrum*, 28–9 (1986–87): 9–63.
+* Cicero, _De natura deorum, Academica_ (Loeb Classical Library), H. Rackham (trans.), Cambridge MA: Harvard University Press, 1933.
+* –––, _Akademische Abhandlungen, Lucullus_, C. Schäublin (trans.), Hamburg: Meiner, 1996.
+* –––, _On Academic Scepticism_, C. Brittain (trans.), Indianapolis: Hackett, 2006.
+* –––, _De finibus_ (Loeb Classical Library), H. Rackham (trans.), Cambridge MA: Harvard University Press, 1914.
+* –––, _On Moral Ends_, J. Annas (ed.), R. Woolf (trans.), Cambridge: Cambridge University Press, 2001.
+* –––, _Tusculan Disputations_ (Loeb Classical Library), J.E. King (trans.), Cambridge MA: Harvard University Press, 2nd edition, 1943.
+* Long, A.A. and D.N. Sedley (eds. and trans.), _The Hellenistic Philosophers_, 2 vols., Cambridge: Cambridge University Press, 1987.
+* Luck, G., _Der Akademiker Antiochos (Noctes Romanae_ 7), Berne: Paul Haupt, 1953.
+* Mette, H. J., “Philon von Larissa und Antiochos von Askalon”, _Lustrum_, 28–9 (1986–87): 9–63.
 * Sedley, D., “Appendix: a guide to the testimonies for Antiochus”, Sedley (ed.) 2012: 334–36.
-* Sextus Empiricus, *Outlines of Pyrrhonism, Against the Professors* (Loeb Classical Library), 4 vols. R.G. Bury (trans.), Cambridge MA: Harvard University Press, 1955.
-* –––, *Outlines of Scepticism*, J. Annas, J. Barnes (trans.), Cambridge: Cambridge University Press, 1994.
-* –––, *Against the Logicians*, R. Bett (trans.), Cambridge: Cambridge University Press, 2005.
+* Sextus Empiricus, _Outlines of Pyrrhonism, Against the Professors_ (Loeb Classical Library), 4 vols. R.G. Bury (trans.), Cambridge MA: Harvard University Press, 1955.
+* –––, _Outlines of Scepticism_, J. Annas, J. Barnes (trans.), Cambridge: Cambridge University Press, 1994.
+* –––, _Against the Logicians_, R. Bett (trans.), Cambridge: Cambridge University Press, 2005.
 
 ### Secondary Sources
 
-* Algra, K., J. Barnes, J. Mansfeld and M. Schofield (eds.), 1999. *The Cambridge History of Hellenistic Philosophy*, Cambridge: Cambridge University Press.
+* Algra, K., J. Barnes, J. Mansfeld and M. Schofield (eds.), 1999. _The Cambridge History of Hellenistic Philosophy_, Cambridge: Cambridge University Press.
 * Allen, J., 1997. “Carneadean argument in Cicero’s Academic books”, in Inwood and Mansfeld (ed.), 1997: 217–56.
-* –––, 2018. “Aporia and the New Academy”, in *The Aporetic Tradition in Ancient Philosophy*, G. Karamanolis and V. Politis (eds.), Cambridge: Cambridge University Press, 172–91.
-* Annas, J., 1990. “Stoic Epistemology”, in *Companions to Ancient Thought 1: Epistemology*, S. Everson (ed.), Cambridge: Cambridge University Press.
-* –––, 1993. *The Morality of Happiness*, Oxford: Oxford University Press.
-* Barnes, J., 1989. “Antiochus of Ascalon”, in *Philosophia Togata: Essays on Philosophy and Roman Society*, M. Griffin and J. Barnes (eds.), Oxford: Oxford University Press, 51–96.
+* –––, 2018. “Aporia and the New Academy”, in _The Aporetic Tradition in Ancient Philosophy_, G. Karamanolis and V. Politis (eds.), Cambridge: Cambridge University Press, 172–91.
+* Annas, J., 1990. “Stoic Epistemology”, in _Companions to Ancient Thought 1: Epistemology_, S. Everson (ed.), Cambridge: Cambridge University Press.
+* –––, 1993. _The Morality of Happiness_, Oxford: Oxford University Press.
+* Barnes, J., 1989. “Antiochus of Ascalon”, in _Philosophia Togata: Essays on Philosophy and Roman Society_, M. Griffin and J. Barnes (eds.), Oxford: Oxford University Press, 51–96.
 * Blank, D., 2012. “Varro and Antiochus”, in Sedley (ed.), 2012: 250–89.
-* Bonazzi, M., 2009. “Antiochus’ Ethics and the Subordination of Stoicism”, in *The Origins of the Platonic System: Platonisms of the Early Empire*, M. Bonazzi and J. Opsomoer (eds.), Paris: Peeters, 33–54.
+* Bonazzi, M., 2009. “Antiochus’ Ethics and the Subordination of Stoicism”, in _The Origins of the Platonic System: Platonisms of the Early Empire_, M. Bonazzi and J. Opsomoer (eds.), Paris: Peeters, 33–54.
 * –––, 2012. “Antiochus and Platonism”, in Sedley (ed.), 2012: 307–33.
-* Brittain, C., 2001. *Philo of Larissa: The Last of the Academic Sceptics*, Oxford: Oxford University Press.
+* Brittain, C., 2001. _Philo of Larissa: The Last of the Academic Sceptics_, Oxford: Oxford University Press.
 * –––, 2012. “Antiochus Epistemology”, in Medley (ed.) 2012: 104–130.
 * Burnyeat, M., 1997. “Antipater and Self-Refutation”, in Inwood and Mansfeld (eds.), 1997: 277–310.
-* Chiaradonna, R., 2017. “Platonist approaches to Aristotle: from Antiochus of Ascalon to Eudorus of Alexandria (and beyond)”, in *Aristotle, Plato and Pythagoreanism in the First Century BC*, M. Schofield (ed.), Cambridge: Cambridge University Press, 28–52.
-* Dillon, J., 1996. *The Middle Platonists*, 2nd edn. Ithaca: Cornell University Press, Ch. 2.
-* Fladerer, L., 1996. *Antiochos von Askalon: Hellenist und Humanist*, Vienna: F Berger & Söhne.
+* Chiaradonna, R., 2017. “Platonist approaches to Aristotle: from Antiochus of Ascalon to Eudorus of Alexandria (and beyond)”, in _Aristotle, Plato and Pythagoreanism in the First Century BC_, M. Schofield (ed.), Cambridge: Cambridge University Press, 28–52.
+* Dillon, J., 1996. _The Middle Platonists_, 2nd edn. Ithaca: Cornell University Press, Ch. 2.
+* Fladerer, L., 1996. _Antiochos von Askalon: Hellenist und Humanist_, Vienna: F Berger & Söhne.
 * Frede, M., 1999. “Stoic Epistemology”, in Algra, Barnes, Mansfeld and Schofield (eds.) 1999: 295–322.
-* Glucker, J., 1978. *Antiochus and the Late Academy*, Göttingen: Vandenhoeck & Ruprecht.
-* Görler, W., 1994. “Älterer Pyrrhonismus, Jüngere Akademie, §52 Antiochos aus Askalon”, in *Die Philosophie der Antike* (Volume IV), H. Flashar (ed.), Basel: Schwabe, 938–967.
+* Glucker, J., 1978. _Antiochus and the Late Academy_, Göttingen: Vandenhoeck & Ruprecht.
+* Görler, W., 1994. “Älterer Pyrrhonismus, Jüngere Akademie, §52 Antiochos aus Askalon”, in _Die Philosophie der Antike_ (Volume IV), H. Flashar (ed.), Basel: Schwabe, 938–967.
 * Hatzimichali, M., 2012. “Antiochus’ biography”, in Sedley (ed.), 2012: 9–30.
-* Inwood, B., Mansfeld, J. (eds.) 1997. *Assent and Argument: Studies in Cicero’s Academic Books*, Utrecht: Brill.
+* Inwood, B., Mansfeld, J. (eds.) 1997. _Assent and Argument: Studies in Cicero’s Academic Books_, Utrecht: Brill.
 * Inwood, B., 2012. “Antiochus on Physics”, in Sedley (ed.) 2012: 188–219.
 * Irwin, T., 2012. “Antiochus, Aristotle and the Stoics on degrees”, in D. Sedley (ed.), 2012: 151–72.
-* Karamanolis, G., 2006. *Plato and Aristotle in Agreement? Platonists on Aristotle from Antiochus to Porphyry*, Oxford: Oxford University Press, Ch. 1.
-* Lévy, C., 2000. “Cicero and the New Academy”, in *The Cambridge History of Philosophy in Late Antiquity* (Volume 1), L. Gerson (ed.), Cambridge: Cambridge University Press, 99–62.
+* Karamanolis, G., 2006. _Plato and Aristotle in Agreement? Platonists on Aristotle from Antiochus to Porphyry_, Oxford: Oxford University Press, Ch. 1.
+* Lévy, C., 2000. “Cicero and the New Academy”, in _The Cambridge History of Philosophy in Late Antiquity_ (Volume 1), L. Gerson (ed.), Cambridge: Cambridge University Press, 99–62.
 * Polito, R., 2012. “Antiochus and the Academy”, in Sedley (ed.) 2012, 31–54.
-* Prost, F., 2001. “L’éthique d’Antiochus d’Ascalon”, *Philologus*, 145: 244–68.
-* Sedley, D., 1992. “Sextus Empiricus and the Atomists’ criteria of truth”, *Elenchos*, 13: 19–56.
-* –––, 2002, “Zeno’s Definition of Phantasia Katalêptikê”, in *Zeno of Citium and his Legacy: The Philosophy of Zeno*, T. Scaltsas and A. Mason (eds.), Municipality of Larnaca: Larnaka, 137–54.
-* ––– (ed.), 2012. *The Philosophy of Antiochus*, Cambridge: Cambridge University Press.
-* Striker, G., 1990. “Sceptical Strategies”, in *Doubt and Dogmatism*, M. Schofield, M. Burnyeat, and J. Barnes (eds.), Oxford: Oxford University Press, 54–83.
-* –––, 1990. “The Problem of the Criterion”, in *Epistemology*, S. Everson (ed.), Cambridge: Cambridge University Press, 150–65.
+* Prost, F., 2001. “L’éthique d’Antiochus d’Ascalon”, _Philologus_, 145: 244–68.
+* Sedley, D., 1992. “Sextus Empiricus and the Atomists’ criteria of truth”, _Elenchos_, 13: 19–56.
+* –––, 2002, “Zeno’s Definition of Phantasia Katalêptikê”, in _Zeno of Citium and his Legacy: The Philosophy of Zeno_, T. Scaltsas and A. Mason (eds.), Municipality of Larnaca: Larnaka, 137–54.
+* ––– (ed.), 2012. _The Philosophy of Antiochus_, Cambridge: Cambridge University Press.
+* Striker, G., 1990. “Sceptical Strategies”, in _Doubt and Dogmatism_, M. Schofield, M. Burnyeat, and J. Barnes (eds.), Oxford: Oxford University Press, 54–83.
+* –––, 1990. “The Problem of the Criterion”, in _Epistemology_, S. Everson (ed.), Cambridge: Cambridge University Press, 150–65.
 * –––, 1997. “Academics fighting Academics”, in Inwood and Mansfeld (eds.) 1997: 257–76.
-* Tarrant, H., 1985. *Scepticism or Platonism? The Philosophy of the Fourth Academy*, Cambridge: Cambridge University Press.
-* –––, 2007. “Antiochus: a new beginning?”, in *Greek and Roman Philosophy 100 BC – 200 AD* (Volume 2), R. Sorabji and R. W. Sharples (eds.), London: Institute of Classical Studies, 317–32.
+* Tarrant, H., 1985. _Scepticism or Platonism? The Philosophy of the Fourth Academy_, Cambridge: Cambridge University Press.
+* –––, 2007. “Antiochus: a new beginning?”, in _Greek and Roman Philosophy 100 BC – 200 AD_ (Volume 2), R. Sorabji and R. W. Sharples (eds.), London: Institute of Classical Studies, 317–32.
 * Tsouni, G., 2012. “Antiochus on contemplation and the happy life”, in Sedley (ed.) 2012: 131–50.
-* –––, 2019. *Antiochus and Peripatetic Ethics*, Cambridge: Cambridge University Press.
-* White, N., 1978. “The Basis of Stoic Ethics”, *Harvard Studies in Classical Philology*, 83: 143–78.
+* –––, 2019. _Antiochus and Peripatetic Ethics_, Cambridge: Cambridge University Press.
+* White, N., 1978. “The Basis of Stoic Ethics”, _Harvard Studies in Classical Philology_, 83: 143–78.
 
 ## Academic Tools
 
@@ -156,4 +156,4 @@
 Academy, Plato’s | [Arcesilaus](https://plato.stanford.edu/entries/arcesilaus/) | [Carneades](https://plato.stanford.edu/entries/carneades/) | [Cicero](https://plato.stanford.edu/entries/cicero/) | [ethics: ancient](https://plato.stanford.edu/entries/ethics-ancient/) | [Philo of Larissa](https://plato.stanford.edu/entries/philo-larissa/) | [skepticism: ancient](https://plato.stanford.edu/entries/skepticism-ancient/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[James Allen](http://www.philosophy.utoronto.ca/directory/4413/) <[*jv.allen@utoronto.ca*](mailto:jv%2eallen%40utoronto%2eca)>
+[James Allen](http://www.philosophy.utoronto.ca/directory/4413/) <[_jv.allen@utoronto.ca_](mailto:jv%2eallen%40utoronto%2eca)>

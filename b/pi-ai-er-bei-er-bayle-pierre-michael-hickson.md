@@ -1,6 +1,6 @@
 # 皮埃尔·贝尔 Bayle, Pierre (Michael Hickson)
 
-*首次发表于 2003 年 2 月 7 日；实质性修订于 2023 年 1 月 12 日*
+_首次发表于 2003 年 2 月 7 日；实质性修订于 2023 年 1 月 12 日_
 
 皮埃尔·贝尔（1647-1706），“鹿特丹哲学家”，是一位历史学家、文学评论家、记者、百科全书编纂者、法国新教难民、教授，最重要的是哲学家。尽管他今天通常被归为哲学史上的“次要人物”，但贝尔被当时的主要哲学家视为平等的存在，是他或任何世纪最博学的作者之一。莱布尼茨在贝尔去世后写道：“他已经离开我们了，这是一个不小的损失，一个学识和敏锐度很少有人能与之相比的作家”（1710 \[1952]：68）。《上帝辩护》的前言明确表示，正是贝尔激发了莱布尼茨写下他唯一认为值得出版的书。虽然莱布尼茨在那部作品中主要是为了反驳贝尔，但启蒙时代的哲学家们在接下来的一个世纪中从贝尔的大量作品中找到了灵感。贝尔的六百万字的《历史与批判性词典》（1697 年；1702 年）在 18 世纪被引用得如此频繁，以至于恩斯特·卡西勒称其为“启蒙运动的军火库”。欧洲私人图书馆的清单已经证实，《词典》是当时最畅销的书之一。大卫·休谟显然受到了它的影响；他在 1737 年给他的朋友迈克尔·拉姆齐的一封信中说，如果他想要理解他的著作，他应该阅读笛卡尔、马勒布朗什、伯克利和“贝尔词典中一些更形而上学的文章；比如\[那些]齐诺和斯宾诺莎的文章”（休谟 2007：203-204）。
 
@@ -38,11 +38,11 @@
 
 1675 年，贝尔小心翼翼地回到法国，在塞当新教学院担任哲学教授，这个职位在一定程度上归功于神学教授皮埃尔·朱里厄的支持。贝尔日夜努力撰写他的《哲学体系》（OD IV: 199–520），这是他在塞当向学生讲授的逻辑学、伦理学、形而上学和物理学课程。这门课程在结构上是传统的，但包含了一些预示了贝尔后来独特思想的内容。然而，贝尔的第一部原创哲学著作是他于 1679 年发表的《对皮埃尔·普瓦雷的有关上帝、灵魂和邪恶的理性思考的反驳》（OD IV: 146–161）。在他的反驳中，贝尔首次涉及了在他的职业生涯中占主导地位的问题：邪恶问题的棘手性。
 
-《南特敕令》自 1598 年以来一直保证了法国新教徒的一些有限宗教自由，直到 1685 年，路易十四才正式废除它，但在废除之前，太阳王多次削弱了它的效力。迫害新教徒的一种策略是关闭他们的学院。路易十四从塞当开始，于 1681 年正式解散了它，使贝尔和朱里厄失业。他们两人逃到鹿特丹，那里为他们建立了一所“杰出学校”。在抵达鹿特丹后不久，贝尔出版了他的第一版著作，最终被称为《有关彗星的各种思考》（*Pensées diverses sur la comète*；OD III: 3–160），该书攻击迷信，并提出了一个有道德的无神论者和一个无神论者社会的可能性。像他的几乎所有作品一样，它是匿名出版的，但很快人们就知道贝尔是其作者，并给他起了“鹿特丹哲学家”的绰号。最初，朱里厄赞扬了这部作品；多年后，他将其用于指责贝尔本人是无神论者的基础上，为有道德的无神论者辩护。
+《南特敕令》自 1598 年以来一直保证了法国新教徒的一些有限宗教自由，直到 1685 年，路易十四才正式废除它，但在废除之前，太阳王多次削弱了它的效力。迫害新教徒的一种策略是关闭他们的学院。路易十四从塞当开始，于 1681 年正式解散了它，使贝尔和朱里厄失业。他们两人逃到鹿特丹，那里为他们建立了一所“杰出学校”。在抵达鹿特丹后不久，贝尔出版了他的第一版著作，最终被称为《有关彗星的各种思考》（_Pensées diverses sur la comète_；OD III: 3–160），该书攻击迷信，并提出了一个有道德的无神论者和一个无神论者社会的可能性。像他的几乎所有作品一样，它是匿名出版的，但很快人们就知道贝尔是其作者，并给他起了“鹿特丹哲学家”的绰号。最初，朱里厄赞扬了这部作品；多年后，他将其用于指责贝尔本人是无神论者的基础上，为有道德的无神论者辩护。
 
 随着法国新教徒的处境恶化，贝尔将文学努力集中在攻击宗教不容忍和发展自由良心和宽容的论证上。他在这些主题上的主要作品包括《对梅堡加尔文主义史的一般批评》（1682 年；OD II：1-160）；《对梅堡加尔文主义史的一般批评作者的新信》（1685 年；OD II：161-335）；《伟大路易斯统治下完全天主教法国的状况》（1686 年；OD II：336-354）；以及他的杰作《对耶稣基督这些话的哲学评论：强迫他们进入》（1686-88 年；OD II：355-444）。国王本人下令焚烧了这些作品中的第一本。1685 年，贝尔的哥哥雅各布因为同样的作品而被监禁，因为法国当局找不到皮埃尔。不久之后，贝尔的父亲因自然原因去世，然后雅各布在监狱里因恶劣的环境而死亡。贝尔在得知吊销法令的同时得知了所有这些情况。许多贝尔学者指出，在 1685 年这个危机年之前和之后，贝尔的作品的语调和焦点发生了变化；有人认为他在这些困难的几个月中失去了对上帝的所有信仰。
 
-贝尔生平的最后二十年与他的文献目录无法区分。他几乎在每个哲学主题上写作并出版了数百万字。他的国际声誉在这个时期早早地得到了确立，他创办了他的文学批评杂志之一，也是最早的之一，《文学共和国的消息》（*Nouvelles de la république des lettres*；OD I：1-760），他从 1684 年到 1687 年担任编辑，并几乎独自撰写。但就在贝尔的声望上升之际，他曾经的朋友、即将成为敌人的尤里乌竭尽全力压制他。在 1680 年代末和 1690 年代初，贝尔卷入了与嫉妒和报复心切的尤里乌之间的激烈争论，尤里乌的指控最终导致贝尔在 1693 年被取消了他在名校的职位。
+贝尔生平的最后二十年与他的文献目录无法区分。他几乎在每个哲学主题上写作并出版了数百万字。他的国际声誉在这个时期早早地得到了确立，他创办了他的文学批评杂志之一，也是最早的之一，《文学共和国的消息》（_Nouvelles de la république des lettres_；OD I：1-760），他从 1684 年到 1687 年担任编辑，并几乎独自撰写。但就在贝尔的声望上升之际，他曾经的朋友、即将成为敌人的尤里乌竭尽全力压制他。在 1680 年代末和 1690 年代初，贝尔卷入了与嫉妒和报复心切的尤里乌之间的激烈争论，尤里乌的指控最终导致贝尔在 1693 年被取消了他在名校的职位。
 
 贝尔不再承担教学的负担威胁到了他的经济安全，但也使他能够专注于他今天最为人所知的工作：《历史与批判性词典》（首版 1697 年）。它是前所未有的，也是独一无二的。在这本六百万字的百科全书的每一页顶部，可以找到按字母顺序排列的短小事实文章，主要涉及古代和现代作者，展示了贝尔对历史和文学的广博掌握。但大约 80%的内容包含在每一页的两栏脚注中，占据了大部分空间，并对上面的简洁事实内容提供了批判性评论。这些脚注或“评论”给了贝尔作为革命哲学家自由发挥的空间。在这些评论中，我们可以找到对笛卡尔、斯宾诺莎和莱布尼茨的原始异议；对古代怀疑论的论证；对泽诺悖论的强烈重述；宗教宽容的形而上学基础；对所有已知对于邪恶问题的回答的驳斥；以及淫秽的故事、滑稽的轶事、假对话和无尽的次要作者的引用，贝尔认为读者会喜欢。这部作品在商业上取得了成功，但也引起了争议。贝尔生命的最后五年都是在写作中度过的，他为了捍卫自己的人品而反驳了基于《词典》的各种指控。这部作品对于后来的启蒙思想家，从伏尔泰和休谟到卢梭和康德，产生了深远的影响。
 
@@ -52,7 +52,7 @@
 
 贝尔赢得国际声誉的哲学作品是《关于一颗彗星的各种思考》（1682 年），这本书在路易十四关闭了贝尔任教的塞当新教学院之前不久完成。这本书的手稿随贝尔流亡到鹿特丹，并很快在那里出版。贝尔担心这本书奇怪而复杂的计划会导致它失败，但事实却相反：这本书的独创性和新鲜感使其获得了广泛的读者群和国际声誉。然而，这是一本非常奇怪而复杂的书。
 
-这项工作的名义目标是驳斥关于彗星的迷信。这本书是写给一个未具名的索邦神学家的一系列信件，每封信都致力于解释彗星作为神怒和即将到来的复仇的迹象的理由。贝尔提供了一系列纯粹哲学的论证，反对将彗星解释为除了自然事件之外的任何事物，然后转向他的第七个“神学”论证，这是整本书的重点。这个论证的主要观点是要表明，*如果上帝派遣彗星作为惩罚或他的愤怒的迹象*，那么上帝就要为造成最严重的罪恶——偶像崇拜——负责，而上帝在圣经中说这是最严重的罪恶。由于全世界都能看到彗星，而且彗星没有传达任何明确的信息，每个国家都会以自己的方式解释彗星。事实上，大多数国家都会陷入某种神圣的解释，其中“神圣”指的是当地宗教对神的概念。结果是，如果彗星确实是神的信息，那么它们的出现将导致全球偶像崇拜的激增，而上帝将为此负责。另一方面，如果彗星是自然事件，将彗星解释为神的信息是人类的愚蠢行为，那么上帝就无辜于由于天体经过而导致的任何偶像崇拜。
+这项工作的名义目标是驳斥关于彗星的迷信。这本书是写给一个未具名的索邦神学家的一系列信件，每封信都致力于解释彗星作为神怒和即将到来的复仇的迹象的理由。贝尔提供了一系列纯粹哲学的论证，反对将彗星解释为除了自然事件之外的任何事物，然后转向他的第七个“神学”论证，这是整本书的重点。这个论证的主要观点是要表明，_如果上帝派遣彗星作为惩罚或他的愤怒的迹象_，那么上帝就要为造成最严重的罪恶——偶像崇拜——负责，而上帝在圣经中说这是最严重的罪恶。由于全世界都能看到彗星，而且彗星没有传达任何明确的信息，每个国家都会以自己的方式解释彗星。事实上，大多数国家都会陷入某种神圣的解释，其中“神圣”指的是当地宗教对神的概念。结果是，如果彗星确实是神的信息，那么它们的出现将导致全球偶像崇拜的激增，而上帝将为此负责。另一方面，如果彗星是自然事件，将彗星解释为神的信息是人类的愚蠢行为，那么上帝就无辜于由于天体经过而导致的任何偶像崇拜。
 
 以贝尔特有的令人惊讶但逻辑无缝的方式，所有这些都变成了对无神论者的美德和建立一个纯粹世俗（非宗教）社会的热情辩护。《关于彗星的各种思考》确实是关于迷信，但实际上并不是关于彗星。贝尔在这本书的绝大部分中所针对的迷信是：首先，相信上帝对过上道德生活是必要的；其次，宗教对于保持社会和平与法治是必要的。正如贝尔通过证明彗星纯粹是自然、可预测的事件来驳斥关于彗星的迷信一样，贝尔通过证明道德和法律可以和应该被视为人类行为的纯粹自然、可预测的方面，以此来驳斥关于无神论者的迷信，这主要基于教育和性格。
 
@@ -146,7 +146,7 @@
 
 > 在一个无限善良、无限圣洁、无限强大的至高无上的存在的统治下，邪恶是如何产生的...不仅是无法解释的，甚至是无法理解的；而与这个存在允许邪恶的原因相矛盾的一切都比这些原因更符合自然光和秩序的观念。 （《词典》，“保利派”，E 注）
 
-简洁和优雅现在站在琐罗亚斯德（如果贝尔的历史是正确的话，还有他后来的摩尼教传统）这一边，对于他来说，世界上的一切善都可以追溯到一个完全仁慈的神，而所有的邪恶都是他邪恶的敌人的结果。因此，虽然*先验*的理性和基督教经文指向一神论（贝尔的第一原则），但*后验*的理性在考虑到世界的实际情况时，对这一观点提出了持续的困难（贝尔的第二原则）。
+简洁和优雅现在站在琐罗亚斯德（如果贝尔的历史是正确的话，还有他后来的摩尼教传统）这一边，对于他来说，世界上的一切善都可以追溯到一个完全仁慈的神，而所有的邪恶都是他邪恶的敌人的结果。因此，虽然_先验_的理性和基督教经文指向一神论（贝尔的第一原则），但_后验_的理性在考虑到世界的实际情况时，对这一观点提出了持续的困难（贝尔的第二原则）。
 
 《辞典》中最臭名昭著的评论之一是贝尔详细阐述了一个二元论者如何反驳传统基督教关于邪恶起源的说法，其中大部分从亚当和夏娃在伊甸园的堕落故事开始。贝尔通过询问这样的堕落在形而上学上是否可能来开始他的批评。如果亚当和夏娃被创造得完全善良，那么他们就不应该有犯罪的能力，因为这样的能力几乎不是一个好品质。但是假设对这个担忧的回答可以给出，贝尔接着要求为什么上帝会允许罪恶的可能性变成实际的罪恶，考虑到由此带来的可怕后果。对这个问题最常见的回答是上帝赋予了人类自由意志，这是最慷慨的神圣礼物，上帝愿意尊重这种自由意志，以使真正的崇拜和爱他成为可能。贝尔的回应再次集中在解释的形而上学可能性上：一个从上帝获得全部存在的创造物能否以真正自由的方式行动？即使假设对自由的解释可以回答这个问题，贝尔仍然认为自由意志辩护不令人满意，因为上帝被指控具有全知全能。当然上帝从永恒中预见到了人类的第一个罪恶，但他仍然创造了拥有自由意志的人类。贝尔问道，这难道不相当于给一个罪犯提供一把刀，明知他将用它犯下谋杀吗？如果是这样，谋杀的责任至少部分归咎于提供武器的人。但也许上帝允许人类堕落是为了他能派遣他的儿子来拯救他们。对于基督徒的这个最后的手段——“幸福的过失”神学辩护，贝尔观察到，在这种情况下，上帝将类似于一个父亲，他允许他的儿子摔断手臂（尽管他本可以阻止），只是为了向邻居展示他制作石膏的技巧。或者上帝将类似于一个国王，他允许发生致命的起义，只是为了展示他平息起义的能力。上帝在任何这些假设下都不会显得无限完美。
 
@@ -180,143 +180,143 @@ A bibliography of all Bayle’s primary literature and most secondary literature
 
 #### A.1 French
 
-*   Bayle, Pierre, 1697, *Dictionaire historique et critique, par Monsieur Bayle*, two volumes, Rotterdam: R. Leers.
+*   Bayle, Pierre, 1697, _Dictionaire historique et critique, par Monsieur Bayle_, two volumes, Rotterdam: R. Leers.
 
-    \[First edition of Bayle’s *Dictionary*.]
-*   –––, 1702, *Dictionaire historique et critique, par Monsieur Bayle, seconde édition, revue, corrigée et augmentée par l’auteur*, three volumes, Rotterdam: R. Leers.
+    \[First edition of Bayle’s _Dictionary_.]
+*   –––, 1702, _Dictionaire historique et critique, par Monsieur Bayle, seconde édition, revue, corrigée et augmentée par l’auteur_, three volumes, Rotterdam: R. Leers.
 
-    \[Second edition of the *Dictionary*, the last that Bayle lived to see published.]
-*   \[*Dictionary*] –––, 1740, *Dictionaire historique et critique, par Mr. Pierre Bayle*, Cinquième édition, four volumes, Amsterdam: P. Brunel et al.
+    \[Second edition of the _Dictionary_, the last that Bayle lived to see published.]
+*   \[_Dictionary_] –––, 1740, _Dictionaire historique et critique, par Mr. Pierre Bayle_, Cinquième édition, four volumes, Amsterdam: P. Brunel et al.
 
-    \[The fifth edition of Bayle’s *Dictionary* is the one most often cited by Bayle scholars on account of its reliability. It includes revisions and additions that Bayle made before his death that were not included in the second edition.]
-*   \[OD] –––, *Oeuvres diverses*, nine volumes, edited by Elisabeth Labrousse, Hildesheim: G. Olms, 1964–1990.
+    \[The fifth edition of Bayle’s _Dictionary_ is the one most often cited by Bayle scholars on account of its reliability. It includes revisions and additions that Bayle made before his death that were not included in the second edition.]
+*   \[OD] –––, _Oeuvres diverses_, nine volumes, edited by Elisabeth Labrousse, Hildesheim: G. Olms, 1964–1990.
 
-    \[The first four volumes consist of all of Bayle’s major works, besides the *Dictionary*. The next five volumes include mainly works by Bayle’s contemporaries that provide helpful context for reading Bayle.]
-*   –––, *Correspondance de Pierre Bayle*, Fifteen volumes, edited by Élisabeth Labrousse, Antony McKenna, et al., Oxford: Voltaire Foundation, 1999–2017.
+    \[The first four volumes consist of all of Bayle’s major works, besides the _Dictionary_. The next five volumes include mainly works by Bayle’s contemporaries that provide helpful context for reading Bayle.]
+*   –––, _Correspondance de Pierre Bayle_, Fifteen volumes, edited by Élisabeth Labrousse, Antony McKenna, et al., Oxford: Voltaire Foundation, 1999–2017.
 
     \[The most complete active and passive correspondence of Bayle, along with helpful notes.]
-*   –––, *Bayle Corpus–Oeuvres completes*, edited by Antony McKenna and Gianluca Mori, Classiques Garnier Numérique, 2012.
+*   –––, _Bayle Corpus–Oeuvres completes_, edited by Antony McKenna and Gianluca Mori, Classiques Garnier Numérique, 2012.
 
-    \[A digital, searchable copy of the *Oeuvres diverses*, *Dictionaire*, and other supplemental works by Bayle.]
+    \[A digital, searchable copy of the _Oeuvres diverses_, _Dictionaire_, and other supplemental works by Bayle.]
 
 #### A.2 English Translation
 
-*   Bayle, Pierre, 1734 (2nd ed.), *The Dictionary Historical and Critical of Mr Peter Bayle*, P. Desmaizeaux (trans.), London: Knapton et al..
+*   Bayle, Pierre, 1734 (2nd ed.), _The Dictionary Historical and Critical of Mr Peter Bayle_, P. Desmaizeaux (trans.), London: Knapton et al..
 
     \[A reliable and complete translation of Bayle’s magnum opus, reprinted in 1984 from New York: Garland Publishing.]
-*   –––, 1991, *Historical and Critical Dictionary: Selections*, Richard H. Popkin (trans.), Indianapolis: Hackett.
+*   –––, 1991, _Historical and Critical Dictionary: Selections_, Richard H. Popkin (trans.), Indianapolis: Hackett.
 
-    \[A useful translation of some of the philosophically most important material from the *Dictionary*.]
-*   –––, 2000, *Bayle: Political Writings*, Sally L. Jenkinson (trans.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139163866
+    \[A useful translation of some of the philosophically most important material from the _Dictionary_.]
+*   –––, 2000, _Bayle: Political Writings_, Sally L. Jenkinson (trans.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139163866
 
-    \[A selection of articles from the *Dictionary* that portrays Bayle as primarily a political thinker.]
-*   –––, 2000, *Various Thoughts on the Occasion of a Comet*, Robert Bartlett (trans.), Albany, NY: State University of New York Press.
+    \[A selection of articles from the _Dictionary_ that portrays Bayle as primarily a political thinker.]
+*   –––, 2000, _Various Thoughts on the Occasion of a Comet_, Robert Bartlett (trans.), Albany, NY: State University of New York Press.
 
-    \[The first English translation of the *Pensées diverses* since 1708. Includes a helpful introduction and supplementary notes.]
-*   –––, 1708 \[2000], *A Philosophical Commentary on These Words of the Gospel, Luke 14:23, “Compel Them to Come In, That My House May Be Full”,* reprinted and introduced by John Kilcullen and Chandran Kukathas, Indianapolis: Liberty Fund. \[[Bayle 1708 available online](https://oll.libertyfund.org/title/bayle-a-philosophical-commentary-on-these-words-of-the-gospel)]
+    \[The first English translation of the _Pensées diverses_ since 1708. Includes a helpful introduction and supplementary notes.]
+*   –––, 1708 \[2000], _A Philosophical Commentary on These Words of the Gospel, Luke 14:23, “Compel Them to Come In, That My House May Be Full”,_ reprinted and introduced by John Kilcullen and Chandran Kukathas, Indianapolis: Liberty Fund. \[[Bayle 1708 available online](https://oll.libertyfund.org/title/bayle-a-philosophical-commentary-on-these-words-of-the-gospel)]
 
-    \[A quaint but reliable and unabridged translation of the *Commentaire Philosophique*. The text is from the 1708 London edition whose translator is unknown.]
-*   –––, 2014, “Pierre Bayle’s *The Condition of Wholly Catholic France Under the Reign of Louis the Great* (1686)”, translated and introduced by Charlotte Stanley and John Christian Laursen (trans.), *History of European Ideas*, 40(3): 312–359. doi:10.1080/01916599.2013.806706
+    \[A quaint but reliable and unabridged translation of the _Commentaire Philosophique_. The text is from the 1708 London edition whose translator is unknown.]
+*   –––, 2014, “Pierre Bayle’s _The Condition of Wholly Catholic France Under the Reign of Louis the Great_ (1686)”, translated and introduced by Charlotte Stanley and John Christian Laursen (trans.), _History of European Ideas_, 40(3): 312–359. doi:10.1080/01916599.2013.806706
 
     \[A contemporary English translation of Bayle’s most passionate political work, with a very helpful historical Introduction.]
-*   –––, 2016, *Dialogues of Maximus and Themistius*, translated, edited, and introduced by Michael W. Hickson, (Brill’s Texts and Sources in Intellectual History, 256/18), Leiden/Boston: Brill.
+*   –––, 2016, _Dialogues of Maximus and Themistius_, translated, edited, and introduced by Michael W. Hickson, (Brill’s Texts and Sources in Intellectual History, 256/18), Leiden/Boston: Brill.
 
-    \[The first English translation of Bayle’s last work, *Entretiens de Maxime et de Thémiste* (posthumous, 1707), which was Bayle’s final word on skepticism and the problem of evil.]
-*   –––, 2017, “Pierre Bayle’s *Reply of a New Convert* (1689)”, translated, edited, and with an Introduction by John Christian Laursen, *History of European Ideas*, 43(8): 857–883. doi:10.1080/01916599.2016.1266013
+    \[The first English translation of Bayle’s last work, _Entretiens de Maxime et de Thémiste_ (posthumous, 1707), which was Bayle’s final word on skepticism and the problem of evil.]
+*   –––, 2017, “Pierre Bayle’s _Reply of a New Convert_ (1689)”, translated, edited, and with an Introduction by John Christian Laursen, _History of European Ideas_, 43(8): 857–883. doi:10.1080/01916599.2016.1266013
 
     \[The first English translation of Bayle’s passionate critique of Protestants, with a historical and critical Introduction from a top historian of Bayle’s political thought.]
 
 ### B. Secondary Literature
 
-*   Bost, Hubert, 2006, *Pierre Bayle*, Paris: Fayard.
+*   Bost, Hubert, 2006, _Pierre Bayle_, Paris: Fayard.
 
     \[An award-winning intellectual biography of Bayle that provides a useful introduction both to Bayle and to his major philosophical works.]
-*   Dibon, Paul (ed.), 1959, *Pierre Bayle: Le philosophe de Rotterdam*, Amsterdam: Elsevier.
+*   Dibon, Paul (ed.), 1959, _Pierre Bayle: Le philosophe de Rotterdam_, Amsterdam: Elsevier.
 
     \[The origin of modern Bayle scholarship that re-established the importance of reading Bayle in the context of French Protestantism.]
-*   García-Alonso, Marta, 2017, “Bayle’s Political Doctrine: A Proposal to Articulate Tolerance and Sovereignty”, *History of European Ideas*, 43(4): 331–344. doi:10.1080/01916599.2016.1203593
+*   García-Alonso, Marta, 2017, “Bayle’s Political Doctrine: A Proposal to Articulate Tolerance and Sovereignty”, _History of European Ideas_, 43(4): 331–344. doi:10.1080/01916599.2016.1203593
 
     \[Establishes the importance of Bayle’s theory of sovereignty for understanding his theory of toleration.]
-*   –––, 2019, “Tolerance and Religious Pluralism in Bayle”, *History of European Ideas*, 45(6): 803–816. doi:10.1080/01916599.2019.1616312
+*   –––, 2019, “Tolerance and Religious Pluralism in Bayle”, _History of European Ideas_, 45(6): 803–816. doi:10.1080/01916599.2019.1616312
 
     \[Distinguishes Bayle’s theory of toleration from his theory of freedom of conscience.]
-*   Hickson, Michael W., 2013, “Theodicy and Toleration in Bayle’s *Dictionary*”, *Journal of the History of Philosophy*, 51(1): 49–73. doi:10.1353/hph.2013.0011
+*   Hickson, Michael W., 2013, “Theodicy and Toleration in Bayle’s _Dictionary_”, _Journal of the History of Philosophy_, 51(1): 49–73. doi:10.1353/hph.2013.0011
 
     \[Argues that Bayle’s early works on toleration provide the foundation for his later works on the problem of evil.]
-*   –––, 2018, “Pierre Bayle and the Secularization of Conscience”, *Journal of the History of Ideas*, 79(2): 199–220. doi:10.1353/jhi.2018.0013
+*   –––, 2018, “Pierre Bayle and the Secularization of Conscience”, _Journal of the History of Ideas_, 79(2): 199–220. doi:10.1353/jhi.2018.0013
 
     \[Traces the gradual separation of Bayle’s conception of conscience from all religious doctrines.]
-* Hume, David, 2007, *An Enquiry concerning Human Understanding and Other Writings*, Cambridge: Cambridge University Press.
-*   Irwin, Kristen, 2013, “Bayle on the (Ir)Rationality of Religious Belief”, *Philosophy Compass*, 8(6): 560–569. doi:10.1111/phc3.12044
+* Hume, David, 2007, _An Enquiry concerning Human Understanding and Other Writings_, Cambridge: Cambridge University Press.
+*   Irwin, Kristen, 2013, “Bayle on the (Ir)Rationality of Religious Belief”, _Philosophy Compass_, 8(6): 560–569. doi:10.1111/phc3.12044
 
     \[Survey of opposing interpretations of Bayle on faith and reason.]
-*   Kilcullen, John, 1988, *Sincerity and Truth: Essays on Arnauld, Bayle, and Toleration*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198266914.001.0001
+*   Kilcullen, John, 1988, _Sincerity and Truth: Essays on Arnauld, Bayle, and Toleration_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198266914.001.0001
 
     \[Includes a careful recapitulation and analysis of Bayle’s argument for toleration.]
-*   Labrousse, Elisabeth, 1963 \[1985], *Pierre Bayle, tome I: Du pay de foix à la cite d’Erasme*, second edition, (International Archives of the History of Ideas 1), Dordrecht/Boston/Lancaster: Martinus Nijhoff.
+*   Labrousse, Elisabeth, 1963 \[1985], _Pierre Bayle, tome I: Du pay de foix à la cite d’Erasme_, second edition, (International Archives of the History of Ideas 1), Dordrecht/Boston/Lancaster: Martinus Nijhoff.
 
     \[The classic biography of Bayle, first published in 1963, by the most important Bayle scholar of all time.]
-*   –––, 1964, *Pierre Bayle, tome II: Hétédoxie et rigorisme*, (International Archives of the History of Ideas 6), La Haye: Martinus Nijhoff.
+*   –––, 1964, _Pierre Bayle, tome II: Hétédoxie et rigorisme_, (International Archives of the History of Ideas 6), La Haye: Martinus Nijhoff.
 
-    \[An extensive and thematic analysis of Bayle’s philosophical works. The two volumes of Labrousse’s *Pierre Bayle* are essential reading for any serious Bayle scholar.]
-*   –––, 1983, *Bayle*, Denys Potts (trans.), (Past Masters), Oxford/New York: Oxford University Press.
+    \[An extensive and thematic analysis of Bayle’s philosophical works. The two volumes of Labrousse’s _Pierre Bayle_ are essential reading for any serious Bayle scholar.]
+*   –––, 1983, _Bayle_, Denys Potts (trans.), (Past Masters), Oxford/New York: Oxford University Press.
 
     \[An excellent introduction to the life of Bayle, his religious, political, and philosophical contexts, and the main philosophical theses that he supported and refuted.]
-*   Laursen, John Christian, 2011, “Baylean Liberalism: Tolerance Requires Nontolerance”, in *Beyond the Persecuting Society: Religious Toleration Before the Enlightenment*, Cary J. Nederman and John Christian Laursen (eds), Philadelphia, PA: University of Pennsylvania Press, 197–215.
+*   Laursen, John Christian, 2011, “Baylean Liberalism: Tolerance Requires Nontolerance”, in _Beyond the Persecuting Society: Religious Toleration Before the Enlightenment_, Cary J. Nederman and John Christian Laursen (eds), Philadelphia, PA: University of Pennsylvania Press, 197–215.
 
     \[An exposition of the necessary role that intolerance plays in Baylean toleration.]
-*   Leduc, Christian, Paul Rateau, and Jean-Luc Solère (eds.), 2015, *Leibniz et Bayle: Confrontation et Dialogue*, (Philosophie 43), Stuttgart: Franz Steiner Verlag.
+*   Leduc, Christian, Paul Rateau, and Jean-Luc Solère (eds.), 2015, _Leibniz et Bayle: Confrontation et Dialogue_, (Philosophie 43), Stuttgart: Franz Steiner Verlag.
 
     \[A collection of essays dedicated entirely to Bayle and Leibniz on a wide range of philosophical issues.]
-* Leibniz, Gottfried Wilhelm, 1710, *Essais de Théodicée sur la bonté de Dieu, la liberté de l’homme et l’origine du mal* (*Theodicy*), Amsterdam: I. Troyel. Translated as *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil*, Ausin Farrar (ed.), E. M. Huggard (trans.), New Haven, CT: Yale University Press, 1952.
-*   Lennon, Thomas M., 1999, *Reading Bayle*, Toronto: University of Toronto Press.
+* Leibniz, Gottfried Wilhelm, 1710, _Essais de Théodicée sur la bonté de Dieu, la liberté de l’homme et l’origine du mal_ (_Theodicy_), Amsterdam: I. Troyel. Translated as _Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil_, Ausin Farrar (ed.), E. M. Huggard (trans.), New Haven, CT: Yale University Press, 1952.
+*   Lennon, Thomas M., 1999, _Reading Bayle_, Toronto: University of Toronto Press.
 
     \[A book-length treatment of the “Bayle enigma” that resolves the interpretive difficulties surrounding Bayle by reading him as an Academic skeptic.]
-* Maia Neto, Jose Raimundo, 1997, “Academic Skepticism in Early Modern Philosophy”, *Journal of the History of Ideas*, 58(2): 199–220. doi:10.1353/jhi.1997.0018
-*   –––, 1999, “Bayle’s Academic Skepticism”, in *Everything Connects: In Conference with Richard H. Popkin. Essays in his Honour*, edited by James E. Force and David S. Katz, Leiden: Brill, 263–76.
+* Maia Neto, Jose Raimundo, 1997, “Academic Skepticism in Early Modern Philosophy”, _Journal of the History of Ideas_, 58(2): 199–220. doi:10.1353/jhi.1997.0018
+*   –––, 1999, “Bayle’s Academic Skepticism”, in _Everything Connects: In Conference with Richard H. Popkin. Essays in his Honour_, edited by James E. Force and David S. Katz, Leiden: Brill, 263–76.
 
     \[The pioneering paper on Academic skepticism, as distinct from Pyrrhonism, in the early modern period; and the paper that applies the distinction to Bayle.]
-* Marx, Karl, 1845 \[1956], *Die Heilige Familie, oder Kritik der kritischen Kritik*, Frankfurt am Main. Translated as *The Holy Family or Critique of Critical Criticism*, Richard Dixon (trans.), Moscow: Foreign Language Publishing House, 1956.
-*   McKenna, Antony, 2015, *Études sur Pierre Bayle*, Paris: Honoré Champion.
+* Marx, Karl, 1845 \[1956], _Die Heilige Familie, oder Kritik der kritischen Kritik_, Frankfurt am Main. Translated as _The Holy Family or Critique of Critical Criticism_, Richard Dixon (trans.), Moscow: Foreign Language Publishing House, 1956.
+*   McKenna, Antony, 2015, _Études sur Pierre Bayle_, Paris: Honoré Champion.
 
     \[A collection of essays by a leading Bayle scholar that offers a Rationalist, anti-skeptical interpretation of Bayle’s thought. ]
-*   Mori, Gianluca, 1999 \[2020], *Bayle philosophe*, Paris: Honoré Champion. *Nouvelle édition*, 2020.
+*   Mori, Gianluca, 1999 \[2020], _Bayle philosophe_, Paris: Honoré Champion. _Nouvelle édition_, 2020.
 
     \[Second edition of the 1999 work that has been at the center of Bayle scholarship for two decades. Mori argues for the controversial thesis that “all the roads of Bayle’s philosophical reflection lead to atheism”.]
-*   Paganini, Gianni, 1980, *Analisi della fede e critica della ragione nella filosofia di Pierre Bayle* Florence: La Nuova Italia.
+*   Paganini, Gianni, 1980, _Analisi della fede e critica della ragione nella filosofia di Pierre Bayle_ Florence: La Nuova Italia.
 
     \[By a leading Italian historian of early modern philosophy.]
-*   –––, 2008, *Skepsis: Le Débat des Modernes sur le Scepticisme*, Paris: J. Vrin.
+*   –––, 2008, _Skepsis: Le Débat des Modernes sur le Scepticisme_, Paris: J. Vrin.
 
-    \[A book awarded the *Prix La Bruyère*, the last chapter of which offers a thorough and rigorous analysis of Bayle’s skepticism viz-a-viz Cartesian philosophy.]
-*   Popkin, Richard H., 2003, *The History of Scepticism: From Savonarola to Bayle*, Oxford/New York: Oxford University Press. (Earlier editions were entitled *The History of Scepticism from Erasmus to Descartes*, 1960, and *The History of Scepticism from Erasmus to Spinoza*, 1979.)
+    \[A book awarded the _Prix La Bruyère_, the last chapter of which offers a thorough and rigorous analysis of Bayle’s skepticism viz-a-viz Cartesian philosophy.]
+*   Popkin, Richard H., 2003, _The History of Scepticism: From Savonarola to Bayle_, Oxford/New York: Oxford University Press. (Earlier editions were entitled _The History of Scepticism from Erasmus to Descartes_, 1960, and _The History of Scepticism from Erasmus to Spinoza_, 1979.)
 
     \[The last edition of this pioneering work concludes with a chapter on Bayle in the context of the early modern revival of Pyrrhonian skepticism.]
-*   Rétat, Pierre, 1971, *Le Dictionnaire de Bayle et la lutte philosophique au XVIIIe siècle*, Paris: Société d’Édition “Les Belles Lettres”.
+*   Rétat, Pierre, 1971, _Le Dictionnaire de Bayle et la lutte philosophique au XVIIIe siècle_, Paris: Société d’Édition “Les Belles Lettres”.
 
-    \[The classic history of the legacy of Bayle’s *Dictionary* in the Enlightenment.]
-*   Rex, Walter, 1965, *Essays on Pierre Bayle and Religious Controversy*, The Hague: Martinus Nijhoff.
+    \[The classic history of the legacy of Bayle’s _Dictionary_ in the Enlightenment.]
+*   Rex, Walter, 1965, _Essays on Pierre Bayle and Religious Controversy_, The Hague: Martinus Nijhoff.
 
-    \[Places Bayle’s *Various Thoughts on the Comet* (1683) and *Philosophical Commentary* (1686–1688) in the context of the Protestant-Catholic polemics of the seventeenth century.]
-*   Ryan, Todd, 2009, *Pierre Bayle’s Cartesian Metaphysics: Rediscovering Early Modern Philosophy*, (Routledge Studies in Seventeenth-Century Philosophy 11), New York: Routledge. doi:10.4324/9780203876923
+    \[Places Bayle’s _Various Thoughts on the Comet_ (1683) and _Philosophical Commentary_ (1686–1688) in the context of the Protestant-Catholic polemics of the seventeenth century.]
+*   Ryan, Todd, 2009, _Pierre Bayle’s Cartesian Metaphysics: Rediscovering Early Modern Philosophy_, (Routledge Studies in Seventeenth-Century Philosophy 11), New York: Routledge. doi:10.4324/9780203876923
 
     \[A careful analysis of Bayle’s critiques of Locke, Leibniz, and Spinoza, which establishes Bayle’s commitment to the metaphysics of Descartes.]
-*   Solère, Jean-Luc, 2016, “The Coherence of Bayle’s Theory of Toleration”, *Journal of the History of Philosophy*, 54(1): 21–46. doi:10.1353/hph.2016.0019
+*   Solère, Jean-Luc, 2016, “The Coherence of Bayle’s Theory of Toleration”, _Journal of the History of Philosophy_, 54(1): 21–46. doi:10.1353/hph.2016.0019
 
-    \[The most rigorous presentation and defence of Bayle’s argument for toleration. This article won the prize for best article in JHP in 2016, and was chosen as one of the top ten articles published in all of Philosophy in 2016 by *The Philosopher’s Annual*.]
-*   –––, 2017, “Bayle and Panpsychism”, *Archiv für Geschichte der Philosophie*, 99(1): 64–101. doi:10.1515/agph-2017-0003
+    \[The most rigorous presentation and defence of Bayle’s argument for toleration. This article won the prize for best article in JHP in 2016, and was chosen as one of the top ten articles published in all of Philosophy in 2016 by _The Philosopher’s Annual_.]
+*   –––, 2017, “Bayle and Panpsychism”, _Archiv für Geschichte der Philosophie_, 99(1): 64–101. doi:10.1515/agph-2017-0003
 
     \[A careful analysis of Bayle’s view of the philosophical prospects of materialism. The question is important for understanding Bayle’s late attitude toward atheism.]
-*   van der Lugt, Mara, 2016, *Bayle, Jurieu, and the Dictionnaire Historique et Critique*, (Oxford Historical Monographs), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198769262.001.0001
+*   van der Lugt, Mara, 2016, _Bayle, Jurieu, and the Dictionnaire Historique et Critique_, (Oxford Historical Monographs), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198769262.001.0001
 
-    \[A beautifully written, accessible introduction to the logical structure and historical context of Bayle’s best-known work, the *Dictionary*.]
-*   –––, 2021, *Dark Matters: Pessimism and the Problem of Suffering*, Princeton, NJ: Princeton University Press.
+    \[A beautifully written, accessible introduction to the logical structure and historical context of Bayle’s best-known work, the _Dictionary_.]
+*   –––, 2021, _Dark Matters: Pessimism and the Problem of Suffering_, Princeton, NJ: Princeton University Press.
 
     \[A history of philosophical pessimism with a prominent role played by Bayle.]
-*   van Lieshout, H.H.M., 2001, *The Making of Pierre Bayle’s Dictionnaire historique et critique with a CD-ROM containing the Dictionnaire’s Library and References between Articles*, Amsterdam: APA-Holland University Press.
+*   van Lieshout, H.H.M., 2001, _The Making of Pierre Bayle’s Dictionnaire historique et critique with a CD-ROM containing the Dictionnaire’s Library and References between Articles_, Amsterdam: APA-Holland University Press.
 
-    \[A fascinating account of the process of researching, composing, and publishing the *Dictionary*.]
-*   Whelan, Ruth, 1989, *The Anatomy of Superstition: A Study of the historical theory and practice of Pierre Bayle,* Oxford: Voltaire Foundation.
+    \[A fascinating account of the process of researching, composing, and publishing the _Dictionary_.]
+*   Whelan, Ruth, 1989, _The Anatomy of Superstition: A Study of the historical theory and practice of Pierre Bayle,_ Oxford: Voltaire Foundation.
 
     \[A thoroughly scholarly and accessible account of Bayle from as important a perspective as any: as an historian.]
 
@@ -333,11 +333,11 @@ A bibliography of all Bayle’s primary literature and most secondary literature
 * [Correspondance de Pierre Bayle](http://bayle-correspondance.univ-st-etienne.fr/)\
   \[The richest source of information about Bayle and Bayle scholarship on the Internet. It includes a digital edition of Bayle’s active and passive correspondence up to 1693; numerous videos about Bayle’s life and works; a complete Bibliography of Bayle studies up to 2015 organized both by date and then again by author; and a variety of pdf documents aimed at introducing Bayle to non-specialists. All resources are available only in French.]
 * [Dictionnaire de Bayle](http://artfl-project.uchicago.edu/content/dictionnaire-de-bayle) (The University of Chicago ARTFL Project)\
-  \[A searchable copy of the authoritative 1740 edition of Bayle’s *Dictionary*.]
+  \[A searchable copy of the authoritative 1740 edition of Bayle’s _Dictionary_.]
 
 ## Related Entries
 
 [conscience](https://plato.stanford.edu/entries/conscience/) | [Enlightenment](https://plato.stanford.edu/entries/enlightenment/) | [evil: problem of](https://plato.stanford.edu/entries/evil/) | [fideism](https://plato.stanford.edu/entries/fideism/) | [integrity](https://plato.stanford.edu/entries/integrity/) | [toleration](https://plato.stanford.edu/entries/toleration/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Michael Hickson](http://www.trentu.ca/philosophy/faculty\*hickson.php) <[*michaelhickson@trentu.ca*](mailto:michaelhickson%40trentu%2eca)>
+[Michael Hickson](http://www.trentu.ca/philosophy/faculty\*hickson.php) <[_michaelhickson@trentu.ca_](mailto:michaelhickson%40trentu%2eca)>

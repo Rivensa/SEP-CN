@@ -1,6 +1,6 @@
 # 让·博丹 Bodin, Jean (Mario Turchetti)
 
-*首次发表于 2005 年 3 月 25 日；实质性修订于 2018 年 7 月 30 日*
+_首次发表于 2005 年 3 月 25 日；实质性修订于 2018 年 7 月 30 日_
 
 让·博丹（1529/30-1596）是一位律师、经济学家、自然哲学家、历史学家，也是 16 世纪主要的政治理论家之一。博丹令人着迷且神秘的原因有两个：一方面，他的生平仍然笼罩在传说之中；另一方面，对他的思想和政治立场的误解导致历史学家之间出现了矛盾和差异，这些错误地归因于博丹本人。他最重要的作品《国家六书》（1576 年）代表了法国文艺复兴时期法律和政治思想的总结。他的《简明历史学方法》（1566 年）是早期现代欧洲人文主义的顶峰之作。最后，他的作品《七人谈论崇高之秘》（1683 年，可能是他真正的作品）在他去世后出版，提供了关于他自己宗教观点的线索。博丹的精神信仰与他所处时代的任何官方宗教都不一致，而更像是一种自然宗教。
 
@@ -37,11 +37,11 @@
 
 在图卢兹学习结束后，博丹成为了拉丁文翻译的科学编辑（1555 年的奥庇安尼（Oppiani）《狩猎论》的希腊文翻译）。在这部作品中，博丹向他的保护者、昂热主教加布里埃尔·布韦里（Gabriel Bouvery）致以热情的致辞。1559 年，他以拉丁文出版了《关于共和国青年教育的演讲：致图卢兹参议院和人民》（Oratio de instituenda in republica juventute ad senatum populumque Tolosatem, 1559）。在这里，博丹赞扬人文主义，并呼吁在公立学校中教授人文主义。根据博丹的观点，如果青年接受文化教育中包含人文主义，国家的政治和宗教和谐将得到加强（Oratio 25）：
 
-我坚持认为，没有什么法律比为所有儿童提供共同而一致的教育更能加强城市社会纽带的神圣和神圣。即使在精神事务中，它也能实现所有公民之间最完美的信念和谐（*summa conspiratione civium*）。然而，如果教会领袖的角色是确保真正的宗教（*religo vera*）不被迷信或不虔诚所玷污，那么作为掌握国家大权的执法官员，也有责任确保年轻人不会放弃一个不变的宗教而追随其他不同的信仰（*ab una et eadem religione in varias distrahatur*）。通过这种方式，我们可以保持国家的表面。\[作者翻译]\[[1](https://plato.stanford.edu/entries/bodin/notes.html#note-1)]
+我坚持认为，没有什么法律比为所有儿童提供共同而一致的教育更能加强城市社会纽带的神圣和神圣。即使在精神事务中，它也能实现所有公民之间最完美的信念和谐（_summa conspiratione civium_）。然而，如果教会领袖的角色是确保真正的宗教（_religo vera_）不被迷信或不虔诚所玷污，那么作为掌握国家大权的执法官员，也有责任确保年轻人不会放弃一个不变的宗教而追随其他不同的信仰（_ab una et eadem religione in varias distrahatur_）。通过这种方式，我们可以保持国家的表面。\[作者翻译]\[[1](https://plato.stanford.edu/entries/bodin/notes.html#note-1)]
 
 对于国内的公民协议和合作，博丹认为，所有公民都应接受同一种教育，所有信徒都应信奉同一种宗教。文化和宗教的多样性应该被避免。这些思想在他的一生中始终是重要的主题。
 
-1560 年，博丹回到巴黎，被议会接待为“国王的顾问”。1562 年，他签署了巴黎圣母院教堂于 1561 年 11 月 15 日开始实施的天主教誓言。在内战开始时，博丹写了一封信给巴黎议会的顾问让·鲍特鲁，他也被福音派思想所吸引。在这封信中，博丹认为“真正的信仰”是困扰法国的内战的原因。然而，他补充说，没有比“人类力量共谋反对它”更好的证明基督教真理的证据。如果宗教可以被视为战争的根源和原因，那么这些战争可能就像一个关心的医生，不能治愈深层次的疾病而不引起患者剧痛或引起患者的呻吟。”因此，君士坦丁为“基督教宗教”而与暴君斗争，而在他之前，摩西和犹大·玛加比为了对抗迷信而战斗（*Lettre Bautru*，\[Ro] 79-80）。博丹对这个问题的看法包含在一份简短的文件中，他在其中更关心描述他的信仰的特点，而不是讨论当前战争的原因。他回忆起古代和基督教时代的智者们都以高尚的道德和虔诚著称。
+1560 年，博丹回到巴黎，被议会接待为“国王的顾问”。1562 年，他签署了巴黎圣母院教堂于 1561 年 11 月 15 日开始实施的天主教誓言。在内战开始时，博丹写了一封信给巴黎议会的顾问让·鲍特鲁，他也被福音派思想所吸引。在这封信中，博丹认为“真正的信仰”是困扰法国的内战的原因。然而，他补充说，没有比“人类力量共谋反对它”更好的证明基督教真理的证据。如果宗教可以被视为战争的根源和原因，那么这些战争可能就像一个关心的医生，不能治愈深层次的疾病而不引起患者剧痛或引起患者的呻吟。”因此，君士坦丁为“基督教宗教”而与暴君斗争，而在他之前，摩西和犹大·玛加比为了对抗迷信而战斗（_Lettre Bautru_，\[Ro] 79-80）。博丹对这个问题的看法包含在一份简短的文件中，他在其中更关心描述他的信仰的特点，而不是讨论当前战争的原因。他回忆起古代和基督教时代的智者们都以高尚的道德和虔诚著称。
 
 在 1566 年，博丹出版了《易于理解历史的方法》（Methodus）。在这部作品中，博丹发展了他关于普遍历史知识的概念。历史和法律知识不仅能够使国家得到适当的管理和治理，还能使国家的形式和变化（conversiones）变得可理解。
 
@@ -49,7 +49,7 @@
 
 1576 年对博丹的生活至关重要；在那一年，他出版了他的《共和国六书》（République）。在这部宏大的作品中，博丹试图恢复法国王国的制度基础，因为正在进行的战争威胁到了这些基础，其中包括改革派关于暴政和暴君杀戮的教义。例如，博丹在《共和国》第一卷第八章中写道，关于某些诽谤和论文的作者：
 
-...那些写过有关官员职责\[[2](https://plato.stanford.edu/entries/bodin/notes.html#note-2)]和其他类似书籍\[[3](https://plato.stanford.edu/entries/bodin/notes.html#note-3)]的人是错误的，支持人民阶级\[三级会议]比君主更重要的观点。这样的观点会导致顺从的臣民反叛，而他们应该服从君主……这些观念是荒谬的（*absurdes*）和不相容的（*incompatibles*）。\[作者翻译；参见\[Mc] 95]
+...那些写过有关官员职责\[[2](https://plato.stanford.edu/entries/bodin/notes.html#note-2)]和其他类似书籍\[[3](https://plato.stanford.edu/entries/bodin/notes.html#note-3)]的人是错误的，支持人民阶级\[三级会议]比君主更重要的观点。这样的观点会导致顺从的臣民反叛，而他们应该服从君主……这些观念是荒谬的（_absurdes_）和不相容的（_incompatibles_）。\[作者翻译；参见\[Mc] 95]
 
 通过将这些学说描述为“荒谬和不相容”，博丹提出了严厉的批评，并在他的《国家论》中为自己的回应奠定了基础。博丹总体上支持抵抗权利，但反对“拿起武器”的权利。武装抵抗是“修道会”声称的权利，尤其是在圣巴托洛缪大屠杀之后。但是，1576 年对法国历史同样重要：在国王于 5 月 6 日发布了博莱伊和约（Paix de Monsieur）并召集了布卢瓦的三级会议之后，宗教战争暂时平息。在国王的法令中，除了“所谓的宗教改革派的追随者”一词外，还区分了“联合”天主教徒或“天主教联盟”和“联合”的天主教徒。联合的天主教徒是一群与瓜埃纳公爵亨利结盟的天主教贵族，他们主张信仰的统一，并努力在法国实现宗教和谐。\[[4](https://plato.stanford.edu/entries/bodin/notes.html#note-4)]双方形成了各种联盟和组织，使法国变得越来越分裂。
 
@@ -71,15 +71,15 @@
 
 联邦的胜利将确保宗教和谐和王国制度的恢复。这是博丹的愿望，也正是天主教徒和“虔诚的基督徒国王”亨利四世后来通过 1598 年的南特敕令实现的。如今，普遍接受的观点认为南特敕令是一项“永久且不可撤销”的永久宽容法律（或两种宗教的共存），这是错误的。这项司法措施旨在短期内恢复王国的社会和政治凝聚力。从长远来看，它旨在实现宗教的统一，只有国王的信仰。这就是为什么南特敕令被定义为“和谐法”，通过临时宽容。这是皮埃尔·德·贝洛伊的权威判断，他是南特敕令的唯一当代法学家和评论家。\[9] 博丹没有活着看到这一切。他在 1596 年 6 月至 9 月之间死于瘟疫，之前在他的遗嘱中宣布希望被埋葬在拉昂的方济各会教堂。
 
-在他的最后几年里，博丹从事了两个项目。第一个是《七人论崇高之秘》（*Colloquium of the Seven about Secrets of the Sublime*），涉及宗教的本质。如果确实是博丹的著作（对于它的归属有正反两方的支持者，我们将会看到），那么它将会在他生命的最后几年里写成。这部作品在他去世后很久才出版（*Heptaplomeres*，1683 年）。另一个是《宇宙自然剧场》（*Theater of Universal Nature*，1596 年），涉及自然哲学。他刚好有时间在 1596 年 3 月 1 日给雅克·米特伯爵写了一封献辞信。
+在他的最后几年里，博丹从事了两个项目。第一个是《七人论崇高之秘》（_Colloquium of the Seven about Secrets of the Sublime_），涉及宗教的本质。如果确实是博丹的著作（对于它的归属有正反两方的支持者，我们将会看到），那么它将会在他生命的最后几年里写成。这部作品在他去世后很久才出版（_Heptaplomeres_，1683 年）。另一个是《宇宙自然剧场》（_Theater of Universal Nature_，1596 年），涉及自然哲学。他刚好有时间在 1596 年 3 月 1 日给雅克·米特伯爵写了一封献辞信。
 
 ## 2. 博丹的历史和法律方法论
 
-当他开始研究时，博丹被分析和系统化作为组织知识的方法所吸引。在给他的作品命名为“方法”时，他赋予了一个新的和明确的含义，之前的作者用它来表示“分割”和“*比率*”或学习一门学科的“过程”。在《方法》中，博丹鼓励读者使用他称之为“对艺术教学的卓越指南”的分析，以便对历史的理解（*historiarum scientia*）能够完整而容易（*Methodus*，\[Re] 20；拉丁文\[Me] 116）。根据博丹的观点，通过分析，人们能够将普遍性的事物划分为部分，并将每个部分划分为子部分，而不会失去整体的连贯性。因此，他说，综合不再是必要的，因为几乎所有历史记载的个别事件已经相互适应得很好，并且最好的历史学家已经将这些部分和区域性的记载仔细重建成了普遍历史的画卷。博丹写道（*Methodus* \[Me] 116）：
+当他开始研究时，博丹被分析和系统化作为组织知识的方法所吸引。在给他的作品命名为“方法”时，他赋予了一个新的和明确的含义，之前的作者用它来表示“分割”和“_比率_”或学习一门学科的“过程”。在《方法》中，博丹鼓励读者使用他称之为“对艺术教学的卓越指南”的分析，以便对历史的理解（_historiarum scientia_）能够完整而容易（_Methodus_，\[Re] 20；拉丁文\[Me] 116）。根据博丹的观点，通过分析，人们能够将普遍性的事物划分为部分，并将每个部分划分为子部分，而不会失去整体的连贯性。因此，他说，综合不再是必要的，因为几乎所有历史记载的个别事件已经相互适应得很好，并且最好的历史学家已经将这些部分和区域性的记载仔细重建成了普遍历史的画卷。博丹写道（_Methodus_ \[Me] 116）：
 
 > 我称之为普遍历史的是那些涵盖所有事务、或最著名民族的事务，或那些从他们的国家早期发展阶段传承下来的事务（\[Re] 21）。
 
-博丹将政治知识赋予了独特的角色，从而使他的著作与 15 世纪末出版的许多类似的*ars historica*的处理方式有所区别。这一流派的杰作产生于意大利，如弗朗切斯科·帕特里齐的《Della historia dialoghi dece》，1560 年；以及法国的弗朗索瓦·鲍丁的《De institutione historiae universae et ejus cum jurisprudentia conjunctione》，巴黎，1561 年。尽管他没有引用鲍丁，但博丹受到了这位法国作者的影响，他是第一个以科学的方式描述法律与普遍历史之间多重联系的人。章节标题包括：
+博丹将政治知识赋予了独特的角色，从而使他的著作与 15 世纪末出版的许多类似的_ars historica_的处理方式有所区别。这一流派的杰作产生于意大利，如弗朗切斯科·帕特里齐的《Della historia dialoghi dece》，1560 年；以及法国的弗朗索瓦·鲍丁的《De institutione historiae universae et ejus cum jurisprudentia conjunctione》，巴黎，1561 年。尽管他没有引用鲍丁，但博丹受到了这位法国作者的影响，他是第一个以科学的方式描述法律与普遍历史之间多重联系的人。章节标题包括：
 
 1. 什么是历史，以及有多少种类
 2. 阅读历史论著的顺序
@@ -98,9 +98,9 @@
 
 在他的青年时期，博丹接受了天主教的教育，并且一直忠于教会直到去世。在 1596 年 6 月 7 日的遗嘱中，他表达了他的宗教信仰，并要求被埋葬在一个天主教堂中，以表明他的宗教信仰。然而，在他的中年时期，他对教会的等级制度持批评态度，并偶尔表达反教皇的情绪。根据这些证据，他的传记作者迅速将他标记为新教徒。然而，在他的《致让·博德鲁·德·马特拉斯的信》中，这是一篇基于他年轻时宗教思想的文章，很明显博丹并不是一个纯粹的新教徒，而是对罗马天主教教士、教会等级制度以及一些可疑的宗教实践持批评态度的人。博丹是一个热衷于“真正宗教”的信徒，他认为“真正宗教无非是以纯净的心灵仰望上帝”。这些话揭示了他不是一个改革派加尔文主义者，而是一个信奉一种教义不明确但可以被描述为自然宗教的人。博丹对宗教有着广阔的视野和对全能上帝的真诚信仰。如果他确实赞同一些新教徒对传统天主教教义的批评，比如“崇拜圣人像、敬拜圣餐和炼狱之火的信仰”，那么博丹并没有像某些教派那样将上帝视为这些错误的责任人（比如伊壁鸠鲁派，尽管这个暗示并不明确）。
 
-> 这就相当于称上帝为一个恶棍（*sceleratum*），因为在基督降临之前的千年中，除了七千人（如神圣的话语所说）之外，所有人都生活在最卑劣的邪恶中。这是荒谬的。（《致博德鲁的信》，\[Ro] 81）
+> 这就相当于称上帝为一个恶棍（_sceleratum_），因为在基督降临之前的千年中，除了七千人（如神圣的话语所说）之外，所有人都生活在最卑劣的邪恶中。这是荒谬的。（《致博德鲁的信》，\[Ro] 81）
 
-在这封信中，博丹没有对圣礼和教义发表任何评论。相反，他认为基督的宗教，也就是他自己所属的宗教（*mea vel potius Christi religio*），对所有有善意的人都是可接受的。这包括古代世界的杰出人物，尤其是柏拉图主义者，博丹认为他们“接近基督徒”。他的言辞虽然远非改革派的信徒之辞，但同样是一个批评教皇宫廷、主张改革天主教会、呼吁回归福音真谛的人的言辞。另一方面，在热衷于天主教的人中，博丹对于良心自由的观点引起了怀疑，尽管他对于宗教宽容的观点与此不同（前者是个人的事，后者是公民和公共生活的事）。根据博丹所在的拉昂市的一位当代人安托万·里查尔的说法，博丹是一个“政治家和危险的天主教徒”（里查尔 1869 年，68 页；引自 Chauviré 1914 年，80 页）。后来的作家特拉亚诺·博卡利尼称博丹为“臭名昭著的无神论者”，因为他提倡“良心自由”（博卡利尼 1618 年，I，64，第 195 页）。
+在这封信中，博丹没有对圣礼和教义发表任何评论。相反，他认为基督的宗教，也就是他自己所属的宗教（_mea vel potius Christi religio_），对所有有善意的人都是可接受的。这包括古代世界的杰出人物，尤其是柏拉图主义者，博丹认为他们“接近基督徒”。他的言辞虽然远非改革派的信徒之辞，但同样是一个批评教皇宫廷、主张改革天主教会、呼吁回归福音真谛的人的言辞。另一方面，在热衷于天主教的人中，博丹对于良心自由的观点引起了怀疑，尽管他对于宗教宽容的观点与此不同（前者是个人的事，后者是公民和公共生活的事）。根据博丹所在的拉昂市的一位当代人安托万·里查尔的说法，博丹是一个“政治家和危险的天主教徒”（里查尔 1869 年，68 页；引自 Chauviré 1914 年，80 页）。后来的作家特拉亚诺·博卡利尼称博丹为“臭名昭著的无神论者”，因为他提倡“良心自由”（博卡利尼 1618 年，I，64，第 195 页）。
 
 《七重论》于 1593 年左右写成，后来在 1683 年由基尔出版。在这里，作者给出了他的宗教信仰的证据（假设博丹确实是作者）。作品中的七位演讲者代表了七种不同的宗教、信仰和哲学思想：科罗尼代表天主教；所罗门代表犹太教；塞纳米代表怀疑主义；奥克塔夫斯是一个背叛者，后来皈依伊斯兰教；弗里德里希代表路德教；库尔修斯代表加尔文教；托尔贝代表自然宗教。托尔贝经常代表作者的个人信仰，但并非总是如此。尽管他们观点各异，但七人一致认为，公开争论宗教基本原则是被禁止的，因为“所有争议的事情都会立即受到质疑。”他们还一致认为，应该尊重良心自由，因为“在宗教问题上不应该受到限制，信仰应该是自愿接受的，而不是强加的”，正如特尔图利安所说。另一方面，演讲者们在宗教崇拜自由上存在分歧。即使是加尔文主义者库尔修斯也承认，“在同一座城市允许多种宗教公开实践的愿望，在我看来是世界上最棘手的问题之一。”尽管作者故意将这个讨论留给读者自行决定，但对话的关键在于托尔贝的观点，他认为“自然法和自然宗教，即自然激发在人心中的法律，足以拯救人类。”神学家约翰·迪克曼在他的论文《论自然主义和其他，尤其是 J·博丹》中驳斥了博丹的《七重论》（迪克曼 1683）。但从莱布尼茨开始，《七重论》因其卓越的博学和所涉及问题的深度而一直吸引学者们的注意。
 
@@ -119,7 +119,7 @@
 5. 在适应人们不同状况和确定他们性情的手段时应遵守的秩序
 6. 人口普查和审查制度。
 
-让·博丹对当时的政治科学做出的主要贡献是他对主权的定义。他认为，主权对国家的内政（如行使完全的政治权力）和外交事务（如战争和国际关系的处理）都有影响。“威严或主权是对公民和臣民拥有的最高、绝对和永久的权力，拉丁语称之为*Majestas*”（《共和国论》，I, 8 \[Mc] 84）。博丹对暗杀暴君的讨论与他的政治理论一致。例如，他指出，虽然有时候暗杀暴君是合理的（例如对付暴政篡位者），但如果“君主是绝对的主权者”，那么杀害被认为是暴君的君主是被禁止的。博丹解释道（《共和国论》II, 5）：
+让·博丹对当时的政治科学做出的主要贡献是他对主权的定义。他认为，主权对国家的内政（如行使完全的政治权力）和外交事务（如战争和国际关系的处理）都有影响。“威严或主权是对公民和臣民拥有的最高、绝对和永久的权力，拉丁语称之为_Majestas_”（《共和国论》，I, 8 \[Mc] 84）。博丹对暗杀暴君的讨论与他的政治理论一致。例如，他指出，虽然有时候暗杀暴君是合理的（例如对付暴政篡位者），但如果“君主是绝对的主权者”，那么杀害被认为是暴君的君主是被禁止的。博丹解释道（《共和国论》II, 5）：
 
 > 如果君主是绝对的主权者，如法国、西班牙、英格兰、苏格兰、埃塞俄比亚、土耳其、波斯和莫斯科的真正国王，他们的权威毫无疑问是属于他们自己的，而不与任何臣民共享，那么无论是特定的臣民还是整体上，都无论在法律程序还是武力行动上，都不得以任何情况企图对他们的国王的生命和荣誉进行任何行动，即使他犯下了一切可能的邪恶、亵渎和残忍的行为。（见\[To]和\[Mc] 222）
 
@@ -129,7 +129,7 @@
 
 > 专制君主制不应与暴政混淆。一个在一场正义的战争中打败敌人后，根据战争法律对他们的财产和人身享有绝对权利，并以此统治他们，这并没有什么不合适；就像一个家庭的主人对待他的奴隶和他们的财产，并根据国际法对他们进行处理一样。但是，通过不正义的战争或其他手段奴役一个自由民族并夺取他们的财产的君主不是专制君主，而是暴君。（见\[To]；参见\[Mc] 201）
 
-专制和暴政之间的区别是至关重要的。专制是合法的，有时合法。而暴政则总是非法的，违法的，并违背自然和神圣法。因此，博丹证明他正在建立自己的主权理论，而不是专制主义的理论。同样的情况也适用于绝对君主制。当博丹用形容词“绝对”来定义一个君主时，他是作为一个罗马法学家和罗马法的历史学家，对他来说，“绝对”一词与“legibus solutus”（拥有主权者的特权）相关联。人们必须密切关注博丹的著作，以理解他对“绝对”的概念。对于博丹来说，一个君主是“不受”（*absolutus*）他或他的前任颁布的民法或正法所约束的。然而，君主始终受制于自然和神圣法。根据博丹的观点，主权可以是至高无上的，但也受到自然和神圣法的限制。法国的国王之所以辉煌，是因为他们的主权受到神圣和自然法的限制（参见《方法》\[Me] 208-209）。不幸的是，在 19 世纪引入“专制主义”一词后，政治哲学的历史学家开始将博丹视为专制主义的理论家。这是一种持续至今的趋势。这样做，一些历史学家将一种与博丹无关的学说归于他。相反，博丹系统化并定义了一种主权理论。但这个历史解释问题取决于方法论、同步和历时的观点：当历史学家不将博丹与马基雅维利相比较时，他们经常将博丹与那些在他之后出现的人进行比较：格罗蒂乌斯、阿尔图修斯、洛克，尤其是霍布斯、孟德斯鸠和卢梭。只要这不是历史学家唯一的分析方法，没有什么能阻止历史学家进行这样的比较。正如所有历史学家所理解的那样，为了全面准确地理解一个作者，有必要将他的作品置于他所处的历史时期的背景和辩论中。因此，人们应该根据博丹所处时代的作品、来源和文件来评判和解释博丹，而不是根据未来的作品。
+专制和暴政之间的区别是至关重要的。专制是合法的，有时合法。而暴政则总是非法的，违法的，并违背自然和神圣法。因此，博丹证明他正在建立自己的主权理论，而不是专制主义的理论。同样的情况也适用于绝对君主制。当博丹用形容词“绝对”来定义一个君主时，他是作为一个罗马法学家和罗马法的历史学家，对他来说，“绝对”一词与“legibus solutus”（拥有主权者的特权）相关联。人们必须密切关注博丹的著作，以理解他对“绝对”的概念。对于博丹来说，一个君主是“不受”（_absolutus_）他或他的前任颁布的民法或正法所约束的。然而，君主始终受制于自然和神圣法。根据博丹的观点，主权可以是至高无上的，但也受到自然和神圣法的限制。法国的国王之所以辉煌，是因为他们的主权受到神圣和自然法的限制（参见《方法》\[Me] 208-209）。不幸的是，在 19 世纪引入“专制主义”一词后，政治哲学的历史学家开始将博丹视为专制主义的理论家。这是一种持续至今的趋势。这样做，一些历史学家将一种与博丹无关的学说归于他。相反，博丹系统化并定义了一种主权理论。但这个历史解释问题取决于方法论、同步和历时的观点：当历史学家不将博丹与马基雅维利相比较时，他们经常将博丹与那些在他之后出现的人进行比较：格罗蒂乌斯、阿尔图修斯、洛克，尤其是霍布斯、孟德斯鸠和卢梭。只要这不是历史学家唯一的分析方法，没有什么能阻止历史学家进行这样的比较。正如所有历史学家所理解的那样，为了全面准确地理解一个作者，有必要将他的作品置于他所处的历史时期的背景和辩论中。因此，人们应该根据博丹所处时代的作品、来源和文件来评判和解释博丹，而不是根据未来的作品。
 
 ## 5. Culture of a Renaissance Man: Economics, Sorcery, Naturalism
 
@@ -191,348 +191,348 @@
 
 ### Works by Bodin Cited in the Text
 
-| \[*Oppiani*]       | *Oppiani De venatione*, Libri IIII, J. Bodino Andegavensi interprete, Paris, apud Michaëlem Vascosanum, 1555.                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| \[_Oppiani_]       | _Oppiani De venatione_, Libri IIII, J. Bodino Andegavensi interprete, Paris, apud Michaëlem Vascosanum, 1555.                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \[*Oratio*]        | *Oratio de instituenda in republica juventute ad senatum populumque Tolosatem*, Toulosae, ex officina Petri Putei, 1559. Latin text and French trans. in \[Me] 30; English trans. in \[Mo].                                                                                                                                                                                                                                                                                                                                                                                   |
-| \[*Methodus*]      | *Methodus ad facilem historiarum cognitionem*, Parisiis, apud Martinum Juvenem, 1566. Text and French trans. in \[Me] 104–269; English translation in \[Re]. Italian translation by Sara Miglietti, Pisa, Edizioni della Normale, 2013.                                                                                                                                                                                                                                                                                                                                       |
-| \[*Response*]      | *Les Paradoxes de Monsieur de Malestroit, conseiller du Roy et maistre ordinaire de ses comptes, sur le faict des monnoyes, presentez à sa Majesté, au moi de mars 1566, avec la response de M. Jean Bodin ausdicts Paradoxes*, Paris, Martin Le Jeune, 1568. English translation in \[T].                                                                                                                                                                                                                                                                                    |
-| \[*Lettre Bautru*] | *Lettre à Jean Bautru de Matras*, 1568. Latin text in \[Ro] 79–81.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| \[*La Harangue*]   | *La Harangue de Messire Charles de Cars evesque et duc de Langres prononcée aux magnifiques ambassadeurs de Poulogne estans à Metz le 8e jour d’aoust 1573 tournée de François en Latin par J. Bodin Av. cat.*, Paris, 1573.                                                                                                                                                                                                                                                                                                                                                  |
-| \[*Conseil*]       | *Consilia Johannis Bodini Galli et Fausti Longiani Itali, De Principe recte institutendo. Cum praeceptis cuiusdam principis politicis, quae bene instituto in imperio observanda. Ex Gallica, Italica et Castellana lingua latine reddita a Johanne Bornitio Erphordiae, Excusa per Iohannem Pistorium, Anno 1603. Consilium Johannis Bodini de institutione principis aut alius nobilioris ingenii* (Erfurt, 1603), in \[Ro] 11–16 (Latin text without translation).                                                                                                         |
-| \[*République*]    | *Les Six Livres de la République*, Paris, Du Puys, 1576. French editions in 1576, 1577, 1578, 1579, 1580, 1582, 1583, 1587, 1591, 1593, 1594, 1599, 1608, 1610, 1629, 1961, 1986, 2013. Latin editions in 1586, 1591, 1594, 1601, 1609, 1619, 1622, 1641, 2013. Italian editions in 1588 and 1964–1997. Spanish edition in 1590. German editions in 1592, 1611 and 1986. English edition in 1606. Bilingual edition, French with Latin, in 2013. (See the subsection below on Editions of the Commonwealth.) The seminal English translation in \[Kn] is reproduced in \[Mc]. |
-| \[*Recueil*]       | *Recueil de tout ce qui s’est négocié en la compagnie du Tiers État de France, en l’Assemblée généale des trois estats, assignés par le Roy en la ville de Bloys au 15 nov. 1576*, place of publication unknown, 1577                                                                                                                                                                                                                                                                                                                                                         |
-| \[*Exposition*]    | *Juris universi distributio*, Paris, J. Du Puys, 1578. Text and French trans. in \[J]; English trans. of extracts in A.L. Fell, *Bodin’s Humanistic Legal System and Rejection of Medieval Political Theology*, Boston: Mass., Oelgeschlager, Gunn and Hain, 1987.                                                                                                                                                                                                                                                                                                            |
-| \[1579]            | *Artis historicae penus octodecim scriptorium tam veterum quam recentiorum monumentis et inter eos Jo. praecipue Bodini libris Methodi historiae sex instructa*, Basileae, P. Pernae officina, 1579.                                                                                                                                                                                                                                                                                                                                                                          |
-| \[*Apologie*]      | *Apologie de René Herpin pour la République de Jean Bodin*, Paris, Jacques du Puys, 1581. (Herpin is an angevingian name which Bodin used for this work.)                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| \[*Démonomanie*]   | *De la démonomanie des sorciers*, Paris, Jacques Du Puys, 1581; *De magorum daemonomania, Libri VI*, Hildesheim. Olms, 2003. English translation in \[S].                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| \[*Épître*]        | *Epistre de J. Bodin touchant l’institution de ses enfants à son neveu*, Bibliothèque Nationale MS Latin 6564, fols. 483–485, 1585. Published in \[Ro] 3–4.                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| \[*Lettre Bodin*]  | *Lettre de Monsieur Bodin où il traite des occasions qui l’ont fait rendre ligueur*, January 20, 1590. Text in \[Ro] 87–93. Some letters of Bodin are published in various collections; see the appendix of Chauviré 1914 and Moreau-Reibel 1935.                                                                                                                                                                                                                                                                                                                             |
-| \[*Heptaplomeres*] | *Colloquium Heptaplomeres de rerum sublimium arcanis abditis*, ed. L. Noack, Schwerin, 1857 (first ed. Kiel, 1683). English translation in \[Ku].                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| \[*Theatrum*]      | *Universae naturae theatrum, in quo rerum omnium effectrices causae et fines quinque libris discutiuntur*, Lugduni, apud Jacobum Roussin, 1596. English trans. of extracts in A. L. Fell, *Bodin’s Humanistic Legal System and Rejection of Medieval Political Theology*, Boston, (Mass.), Oelgeschlager, Gunn and Hain, 1987.                                                                                                                                                                                                                                                |
-| \[*Paradoxon*]     | *Io. Bodini Paradoxon, quod nec virtus ulla in mediocritate, nec summum hominis bonum in virtutis actione consistere possit, Ad Bernardum Potierum Ludovici F*., Parisiis, Excudebat Dionysius Duvallius, 1596; Latin Text and Italian Translation in bilingual Edition by Andrea Suggi, *Paradosso* *sulla virtù*, Milano: Nino Aragno, 2009.                                                                                                                                                                                                                                |
+| \[_Oratio_]        | _Oratio de instituenda in republica juventute ad senatum populumque Tolosatem_, Toulosae, ex officina Petri Putei, 1559. Latin text and French trans. in \[Me] 30; English trans. in \[Mo].                                                                                                                                                                                                                                                                                                                                                                                   |
+| \[_Methodus_]      | _Methodus ad facilem historiarum cognitionem_, Parisiis, apud Martinum Juvenem, 1566. Text and French trans. in \[Me] 104–269; English translation in \[Re]. Italian translation by Sara Miglietti, Pisa, Edizioni della Normale, 2013.                                                                                                                                                                                                                                                                                                                                       |
+| \[_Response_]      | _Les Paradoxes de Monsieur de Malestroit, conseiller du Roy et maistre ordinaire de ses comptes, sur le faict des monnoyes, presentez à sa Majesté, au moi de mars 1566, avec la response de M. Jean Bodin ausdicts Paradoxes_, Paris, Martin Le Jeune, 1568. English translation in \[T].                                                                                                                                                                                                                                                                                    |
+| \[_Lettre Bautru_] | _Lettre à Jean Bautru de Matras_, 1568. Latin text in \[Ro] 79–81.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| \[_La Harangue_]   | _La Harangue de Messire Charles de Cars evesque et duc de Langres prononcée aux magnifiques ambassadeurs de Poulogne estans à Metz le 8e jour d’aoust 1573 tournée de François en Latin par J. Bodin Av. cat._, Paris, 1573.                                                                                                                                                                                                                                                                                                                                                  |
+| \[_Conseil_]       | _Consilia Johannis Bodini Galli et Fausti Longiani Itali, De Principe recte institutendo. Cum praeceptis cuiusdam principis politicis, quae bene instituto in imperio observanda. Ex Gallica, Italica et Castellana lingua latine reddita a Johanne Bornitio Erphordiae, Excusa per Iohannem Pistorium, Anno 1603. Consilium Johannis Bodini de institutione principis aut alius nobilioris ingenii_ (Erfurt, 1603), in \[Ro] 11–16 (Latin text without translation).                                                                                                         |
+| \[_République_]    | _Les Six Livres de la République_, Paris, Du Puys, 1576. French editions in 1576, 1577, 1578, 1579, 1580, 1582, 1583, 1587, 1591, 1593, 1594, 1599, 1608, 1610, 1629, 1961, 1986, 2013. Latin editions in 1586, 1591, 1594, 1601, 1609, 1619, 1622, 1641, 2013. Italian editions in 1588 and 1964–1997. Spanish edition in 1590. German editions in 1592, 1611 and 1986. English edition in 1606. Bilingual edition, French with Latin, in 2013. (See the subsection below on Editions of the Commonwealth.) The seminal English translation in \[Kn] is reproduced in \[Mc]. |
+| \[_Recueil_]       | _Recueil de tout ce qui s’est négocié en la compagnie du Tiers État de France, en l’Assemblée généale des trois estats, assignés par le Roy en la ville de Bloys au 15 nov. 1576_, place of publication unknown, 1577                                                                                                                                                                                                                                                                                                                                                         |
+| \[_Exposition_]    | _Juris universi distributio_, Paris, J. Du Puys, 1578. Text and French trans. in \[J]; English trans. of extracts in A.L. Fell, _Bodin’s Humanistic Legal System and Rejection of Medieval Political Theology_, Boston: Mass., Oelgeschlager, Gunn and Hain, 1987.                                                                                                                                                                                                                                                                                                            |
+| \[1579]            | _Artis historicae penus octodecim scriptorium tam veterum quam recentiorum monumentis et inter eos Jo. praecipue Bodini libris Methodi historiae sex instructa_, Basileae, P. Pernae officina, 1579.                                                                                                                                                                                                                                                                                                                                                                          |
+| \[_Apologie_]      | _Apologie de René Herpin pour la République de Jean Bodin_, Paris, Jacques du Puys, 1581. (Herpin is an angevingian name which Bodin used for this work.)                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| \[_Démonomanie_]   | _De la démonomanie des sorciers_, Paris, Jacques Du Puys, 1581; _De magorum daemonomania, Libri VI_, Hildesheim. Olms, 2003. English translation in \[S].                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| \[_Épître_]        | _Epistre de J. Bodin touchant l’institution de ses enfants à son neveu_, Bibliothèque Nationale MS Latin 6564, fols. 483–485, 1585. Published in \[Ro] 3–4.                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| \[_Lettre Bodin_]  | _Lettre de Monsieur Bodin où il traite des occasions qui l’ont fait rendre ligueur_, January 20, 1590. Text in \[Ro] 87–93. Some letters of Bodin are published in various collections; see the appendix of Chauviré 1914 and Moreau-Reibel 1935.                                                                                                                                                                                                                                                                                                                             |
+| \[_Heptaplomeres_] | _Colloquium Heptaplomeres de rerum sublimium arcanis abditis_, ed. L. Noack, Schwerin, 1857 (first ed. Kiel, 1683). English translation in \[Ku].                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| \[_Theatrum_]      | _Universae naturae theatrum, in quo rerum omnium effectrices causae et fines quinque libris discutiuntur_, Lugduni, apud Jacobum Roussin, 1596. English trans. of extracts in A. L. Fell, _Bodin’s Humanistic Legal System and Rejection of Medieval Political Theology_, Boston, (Mass.), Oelgeschlager, Gunn and Hain, 1987.                                                                                                                                                                                                                                                |
+| \[_Paradoxon_]     | _Io. Bodini Paradoxon, quod nec virtus ulla in mediocritate, nec summum hominis bonum in virtutis actione consistere possit, Ad Bernardum Potierum Ludovici F_., Parisiis, Excudebat Dionysius Duvallius, 1596; Latin Text and Italian Translation in bilingual Edition by Andrea Suggi, _Paradosso_ _sulla virtù_, Milano: Nino Aragno, 2009.                                                                                                                                                                                                                                |
 
 ### Translations and Critical Editions Cited
 
-| \[J]  | Jerphagnon, Lucien, text and French trans., *Juris universi distributio*, commentary by Simone Goyard-Fabre, notes by René-Marie Rampelberg, Paris, P.U. France, 1985.                                                                                                                                                                                      |
+| \[J]  | Jerphagnon, Lucien, text and French trans., _Juris universi distributio_, commentary by Simone Goyard-Fabre, notes by René-Marie Rampelberg, Paris, P.U. France, 1985.                                                                                                                                                                                      |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \[Kn] | Knolles, R., trans., *The Six Bookes of a Commonweale, Written by I. Bodin a famous Lawyer, and a man of great Experience in matter of State*, based on French and Latin editions, London: Impensis G. Bishop, 1606.                                                                                                                                        |
-| \[Ku] | Kuntz, M., trans., *Colloquium of the Seven about Secrets of the Sublime*, Princeton: Princeton University Press, 1975.                                                                                                                                                                                                                                     |
-| \[Me] | Mesnard, Pierre, ed.,*Œuvres philosophiques de Jean Bodin*, Paris: Presses Universitaires de France, 1951. (Collection “Corpus géneral des philosophes français. Auteurs modernes”, t. 5, 3); contains Latin texts and Mesnard’s French trans. of “Le discours au Sénat et au peuple de Toulouse”;“Tableau du droit universel”; “La méthode de l’histoire”. |
-| \[Mc] | McRae, K.D., ed., *The six books of a commonweale: a facsimile reprint of the English translation of 1606, corrected and supplemented in the light of a new comparison with the French and Latin texts*, Cambridge: Harvard University Press, 1962.                                                                                                         |
-| \[Mo] | More, G.A., trans., *Address to the Senate and People of Toulouse on the Education of Youth in the Commonwealth*, Chevy Chase, 1965.                                                                                                                                                                                                                        |
-| \[Re] | Reynolds, B., trans., *Method for the easy comprehension of History*, New York: Columbia University Press, 1945.                                                                                                                                                                                                                                            |
-| \[Ro] | Rose, Paul Laurence, ed., *Selected Writings on Philosophy, Religion and Politics*, Genève: Droz, 1980. Contains “Épitre à son neveau” 1586; “Consilium de institutione principis” 1603; “Sapientiae moralis epitome” 1586; “Paradoxon” 1596; “Le Paradoxe de J. Bodin” 1598; “Lettre à Jean Bautru de Matras” 1568–69?; “Lettre de M. Bodin” 1590.         |
-| \[S]  | Scott, R.A., trans., *On the Demon-Mania of Witches*, Toronto: Victoria University Press, 1995.                                                                                                                                                                                                                                                             |
-| \[T]  | Tudor, H., trans., *Response to the Paradoxes of Malestroit*, Thoemmes Press, 1997.                                                                                                                                                                                                                                                                         |
-| \[To] | Tooley, M.J., trans., *Six Books of the Commonwealth*, Oxford: Blackwell, 1955. [\[Available online\]](https://web.archive.org/web/20170705212304/http://www.constitution.org/bodin/bodin.txt).                                                                                                                                                             |
+| \[Kn] | Knolles, R., trans., _The Six Bookes of a Commonweale, Written by I. Bodin a famous Lawyer, and a man of great Experience in matter of State_, based on French and Latin editions, London: Impensis G. Bishop, 1606.                                                                                                                                        |
+| \[Ku] | Kuntz, M., trans., _Colloquium of the Seven about Secrets of the Sublime_, Princeton: Princeton University Press, 1975.                                                                                                                                                                                                                                     |
+| \[Me] | Mesnard, Pierre, ed.,_Œuvres philosophiques de Jean Bodin_, Paris: Presses Universitaires de France, 1951. (Collection “Corpus géneral des philosophes français. Auteurs modernes”, t. 5, 3); contains Latin texts and Mesnard’s French trans. of “Le discours au Sénat et au peuple de Toulouse”;“Tableau du droit universel”; “La méthode de l’histoire”. |
+| \[Mc] | McRae, K.D., ed., _The six books of a commonweale: a facsimile reprint of the English translation of 1606, corrected and supplemented in the light of a new comparison with the French and Latin texts_, Cambridge: Harvard University Press, 1962.                                                                                                         |
+| \[Mo] | More, G.A., trans., _Address to the Senate and People of Toulouse on the Education of Youth in the Commonwealth_, Chevy Chase, 1965.                                                                                                                                                                                                                        |
+| \[Re] | Reynolds, B., trans., _Method for the easy comprehension of History_, New York: Columbia University Press, 1945.                                                                                                                                                                                                                                            |
+| \[Ro] | Rose, Paul Laurence, ed., _Selected Writings on Philosophy, Religion and Politics_, Genève: Droz, 1980. Contains “Épitre à son neveau” 1586; “Consilium de institutione principis” 1603; “Sapientiae moralis epitome” 1586; “Paradoxon” 1596; “Le Paradoxe de J. Bodin” 1598; “Lettre à Jean Bautru de Matras” 1568–69?; “Lettre de M. Bodin” 1590.         |
+| \[S]  | Scott, R.A., trans., _On the Demon-Mania of Witches_, Toronto: Victoria University Press, 1995.                                                                                                                                                                                                                                                             |
+| \[T]  | Tudor, H., trans., _Response to the Paradoxes of Malestroit_, Thoemmes Press, 1997.                                                                                                                                                                                                                                                                         |
+| \[To] | Tooley, M.J., trans., _Six Books of the Commonwealth_, Oxford: Blackwell, 1955. [\[Available online\]](https://web.archive.org/web/20170705212304/http://www.constitution.org/bodin/bodin.txt).                                                                                                                                                             |
 
 ### Bibliographies
 
 * [Bibliographie critique des \&eeacute;ditions anciennes de J. Bodin](https://projects.iq.harvard.edu/files/bodinproject/files/lxx2\*crahay\*bibliographiecritique\*199212598.pdf), R. Crahay, M.-T. Isaac, and M.-T. Lenger, Gembloux: Académie royale de Belgique, 1992.
-* Couzinet, Marie-Dominique, *Bibliographie des écrivains français: Jean Bodin*, Roma, Paris, Memini, 2001.
+* Couzinet, Marie-Dominique, _Bibliographie des écrivains français: Jean Bodin_, Roma, Paris, Memini, 2001.
 * [Supplemental bibliography of secondary sources on Jean Bodin](https://projects.iq.harvard.edu/files/bodinproject/files/bodin\*bibliography\*oct2016.docx), The Bodin Project.
-* “A Consolidated Bibliography”, in H. A. Lloyd (ed.), in *The Reception of Bodin*, Leiden: Brill, 2013, 417–452.
+* “A Consolidated Bibliography”, in H. A. Lloyd (ed.), in _The Reception of Bodin_, Leiden: Brill, 2013, 417–452.
 
-### Editions of the *Commonwealth*
+### Editions of the _Commonwealth_
 
-The first volume of a planned six-volume critical edition of *Six Livres de la République,* with the French text and facing Latin translation by Bodin (Paris: Classiques Garnier, 2013) and is available online (see section 7 above). For the complete French text, based on the 1593 edition, see *Les six livres de la République*, edited by Christiane Frémont, Marie-Dominique Couzinet, Henri Rochais, 6 vols, Paris: Fayard, 1976. A facsimile edition of the 1583 text was published in 1971 by Scientia Verlag.
+The first volume of a planned six-volume critical edition of _Six Livres de la République,_ with the French text and facing Latin translation by Bodin (Paris: Classiques Garnier, 2013) and is available online (see section 7 above). For the complete French text, based on the 1593 edition, see _Les six livres de la République_, edited by Christiane Frémont, Marie-Dominique Couzinet, Henri Rochais, 6 vols, Paris: Fayard, 1976. A facsimile edition of the 1583 text was published in 1971 by Scientia Verlag.
 
-For translations, see: (English) *The Six Books of a Commonwealth*, edited by K. D. MacRae, Cambridge MA: Harvard University Press, 1962, as well as the extracts in A. L. Fell, *Bodin’s Humanistic Legal System and Rejection of Medieval Political Theology*, Boston: Oelgeschlager, Gunn and Hain, 1987, and *On Sovereignty*. *Four Chapters from The Six Books of the Commonwealth*, trans. by J. H. Franklin, Cambridge, Cambridge University Press, 1992, and the abridged translation, *Six Books of the Commonwealth*, edited by M. J. Tooley (cited above as \[To]), which is available online; (Spanish) *Los seis libros de la República 1*, ed. José Luis Bermejo Cabrero, 2 vols, Madrid: Centro de Estudios Constitucionales, 1992; (German), *Sechs Bücher über den Staat*, edited by P.C. Mayer-Tasch, transl. B. Wimmer, München: Beck, 1981; and (Italian) *I sei libri dello Stato*, a cura di Margherita Isnardi Parente e Diego Quaglioni, 3 vols, Torino: Unione tipografico-editrice, 1964–1997.
+For translations, see: (English) _The Six Books of a Commonwealth_, edited by K. D. MacRae, Cambridge MA: Harvard University Press, 1962, as well as the extracts in A. L. Fell, _Bodin’s Humanistic Legal System and Rejection of Medieval Political Theology_, Boston: Oelgeschlager, Gunn and Hain, 1987, and _On Sovereignty_. _Four Chapters from The Six Books of the Commonwealth_, trans. by J. H. Franklin, Cambridge, Cambridge University Press, 1992, and the abridged translation, _Six Books of the Commonwealth_, edited by M. J. Tooley (cited above as \[To]), which is available online; (Spanish) _Los seis libros de la República 1_, ed. José Luis Bermejo Cabrero, 2 vols, Madrid: Centro de Estudios Constitucionales, 1992; (German), _Sechs Bücher über den Staat_, edited by P.C. Mayer-Tasch, transl. B. Wimmer, München: Beck, 1981; and (Italian) _I sei libri dello Stato_, a cura di Margherita Isnardi Parente e Diego Quaglioni, 3 vols, Torino: Unione tipografico-editrice, 1964–1997.
 
 ### Secondary Literature
 
-* Andrew, Edward, 2011, “Jean Bodin on Sovereignty”, *Republics of Letters: A Journal for the Study of Knowledge, Politics, and the Arts*, 2: 75–84.
-* Aviles, Fernandez, Miguel, 1985, “La Censura Inquisitorial de *Los seis libros de la Republica* de Jean Bodin”, *Hispania sacra*, 37: 655–692.
-* Baldini, Enzo A., ed., 1997, *J. Bodin a 400 anni dalla morte: bilancio storiografico e prospettive di ricerca,* in *Il* *pensiero politico*, 30.
-* –––, 2000, “Jean Bodin e l’Indice dei Libri proibiti”, in *Censura ecclesiastica e cultura politica in Italia tra Cinquecento e Seicento*, a cura di Cristina Stango, Firenze: Olschki, 79–100.
-* –––, 2001, “Primi attacchi romani alla *République* di Bodin sul finire del 1588. I testi di Minuccio Minucci e di Filippo Sega”, *Il pensiero politico*, 34: 3–41.
-* Barret-Kriegel, Blandine, 1985, “Jean Bodin, de l’empire à la souveraineté; de l’état de justice à l’état administratif”, *Actes du colloque interdisciplinaire d’Angers (24–27 mai 1984)*, 1: 345–356.
-* Bart, Jean, 2005, “La justification du tyrannicide selon les monarchomaques”, in *Le droit de résistance à l’oppression: le droit contre le droit. Actes du colloque de Dijon, 12–13 décembre 2002*, edited by by Dominique Gros and Olivier Camy, *Le Genre humain*, 44: 47–57.
-* Basdevant, Jules, 1944, “Contribution de Jean Bodin à la formation du droit international”, *Revue historique de droit français et étranger*, 4e série, 22: 143–178.
-* Bayle, Pierre, 1730, “Jean Bodin,” *Dictionnaire historique et critique*, Amsterdam: P. Brunel, l, p. 588–594.
-* Baudrillart, Henri, 1853, *J. Bodin et son temps: tableau des théories politiques et des idées économiques au XVIe siècle*, Paris: Guillaumin.
-* Beaud, Olivier, 2002, “Lo Stato di sudditi e la modernità dell’opera di Bodin”, in his *La potenza dello Stato*, Napoli: Edizioni Scientifiche Italiane.
-* Beaulac, Stéphane, 2003, “The Social Power of Bodin’s ‘Sovereignty’ And International Law Bodin’s ‘Sovereignty’”, *Melbourne Journal of International Law*, 4: 28.
-* –––, 2004, *The Power of Language in the Making of International Law: the Word ‘Sovereignty’ in Bodin and Vattel and the Myth of Westphalia*, Leiden: M. Nijhoff.
-* Becker, Anna, 2014, “Jean Bodin on Oeconomics and Politics”, *History of European Ideas*, 40: 135–154.
-* Bellussi, Germano, 1985, “L’absolutisme politique et la tolérance religieuse dans l’œuvre de Jean Bodin et de Thomas Hobbes”, in *Actes du colloque interdisciplinaire d’Angers (24–27 mai 1984)*, 1: 43–47.
-* Benedettini, Riccardo, 2009, \*“\*I *Six livres de la République* di Jean Bodin tradotti da Lorenzo Conti: tra segni di censura e filologia”, *Il* *pensiero politico*, 42: 198–229.
-* Bermejo Cabrera, José Luis, 1992\*.\* “Textos normativos hispánicos en la obra de Jean Bodin”, *Anuario de historia del derecho español*, 62: 587–592.
-* Berns, Thomas, 1999, “Souveraineté, droit et gouvernementalité: à partir des *Six livres de la République* de Jean Bodin”, *Bolletino: Archivio della ragion di Stato*, 7–8: 125–143.
-* –––, 2000, “Bodin: la souveraineté saisie par ses marques\*”\*, *Bibliothèque d’humanisme et Renaissance*, 62: 611–623.
-* Berriot, François, 1994, “Jean Bodin et l’Islam”, in his *Spiritualités, hétérodoxies et imaginaires*, Saint-Etienne: Publications de l’Université de Saint-Étienne, 207–220.
-* Biral, Alessandro, 1980, “Jean Bodin e la moderna scienza politica”, in A. Biral, A. Cavarero, C. Pacchiani (eds.), *Teorie politiche e Stato nell’epoca dell’assolutismo*, Roma: Istituto della Enciclopedia italiana.
-* Blair, Ann, 1997, *The Theater of Nature: Jean Bodin and Renaissance Science*, Princeton: Princeton University Press.
-* –––, 2004, “La philosophie naturelle dans l’œuvre de Jean Bodin”, in *L’œuvre de Jean Bodin: actes du colloque tenu à Lyon à l’occasion du quatrième centenaire de sa mort, 11–13 janvier 1996*, éd. G.-A. Pérouse, N. Dockès-Lallement, J.-M. Servet, Paris: H. Champion, 359–369.
+* Andrew, Edward, 2011, “Jean Bodin on Sovereignty”, _Republics of Letters: A Journal for the Study of Knowledge, Politics, and the Arts_, 2: 75–84.
+* Aviles, Fernandez, Miguel, 1985, “La Censura Inquisitorial de _Los seis libros de la Republica_ de Jean Bodin”, _Hispania sacra_, 37: 655–692.
+* Baldini, Enzo A., ed., 1997, _J. Bodin a 400 anni dalla morte: bilancio storiografico e prospettive di ricerca,_ in _Il_ _pensiero politico_, 30.
+* –––, 2000, “Jean Bodin e l’Indice dei Libri proibiti”, in _Censura ecclesiastica e cultura politica in Italia tra Cinquecento e Seicento_, a cura di Cristina Stango, Firenze: Olschki, 79–100.
+* –––, 2001, “Primi attacchi romani alla _République_ di Bodin sul finire del 1588. I testi di Minuccio Minucci e di Filippo Sega”, _Il pensiero politico_, 34: 3–41.
+* Barret-Kriegel, Blandine, 1985, “Jean Bodin, de l’empire à la souveraineté; de l’état de justice à l’état administratif”, _Actes du colloque interdisciplinaire d’Angers (24–27 mai 1984)_, 1: 345–356.
+* Bart, Jean, 2005, “La justification du tyrannicide selon les monarchomaques”, in _Le droit de résistance à l’oppression: le droit contre le droit. Actes du colloque de Dijon, 12–13 décembre 2002_, edited by by Dominique Gros and Olivier Camy, _Le Genre humain_, 44: 47–57.
+* Basdevant, Jules, 1944, “Contribution de Jean Bodin à la formation du droit international”, _Revue historique de droit français et étranger_, 4e série, 22: 143–178.
+* Bayle, Pierre, 1730, “Jean Bodin,” _Dictionnaire historique et critique_, Amsterdam: P. Brunel, l, p. 588–594.
+* Baudrillart, Henri, 1853, _J. Bodin et son temps: tableau des théories politiques et des idées économiques au XVIe siècle_, Paris: Guillaumin.
+* Beaud, Olivier, 2002, “Lo Stato di sudditi e la modernità dell’opera di Bodin”, in his _La potenza dello Stato_, Napoli: Edizioni Scientifiche Italiane.
+* Beaulac, Stéphane, 2003, “The Social Power of Bodin’s ‘Sovereignty’ And International Law Bodin’s ‘Sovereignty’”, _Melbourne Journal of International Law_, 4: 28.
+* –––, 2004, _The Power of Language in the Making of International Law: the Word ‘Sovereignty’ in Bodin and Vattel and the Myth of Westphalia_, Leiden: M. Nijhoff.
+* Becker, Anna, 2014, “Jean Bodin on Oeconomics and Politics”, _History of European Ideas_, 40: 135–154.
+* Bellussi, Germano, 1985, “L’absolutisme politique et la tolérance religieuse dans l’œuvre de Jean Bodin et de Thomas Hobbes”, in _Actes du colloque interdisciplinaire d’Angers (24–27 mai 1984)_, 1: 43–47.
+* Benedettini, Riccardo, 2009, \*“\*I _Six livres de la République_ di Jean Bodin tradotti da Lorenzo Conti: tra segni di censura e filologia”, _Il_ _pensiero politico_, 42: 198–229.
+* Bermejo Cabrera, José Luis, 1992\*.\* “Textos normativos hispánicos en la obra de Jean Bodin”, _Anuario de historia del derecho español_, 62: 587–592.
+* Berns, Thomas, 1999, “Souveraineté, droit et gouvernementalité: à partir des _Six livres de la République_ de Jean Bodin”, _Bolletino: Archivio della ragion di Stato_, 7–8: 125–143.
+* –––, 2000, “Bodin: la souveraineté saisie par ses marques\*”\*, _Bibliothèque d’humanisme et Renaissance_, 62: 611–623.
+* Berriot, François, 1994, “Jean Bodin et l’Islam”, in his _Spiritualités, hétérodoxies et imaginaires_, Saint-Etienne: Publications de l’Université de Saint-Étienne, 207–220.
+* Biral, Alessandro, 1980, “Jean Bodin e la moderna scienza politica”, in A. Biral, A. Cavarero, C. Pacchiani (eds.), _Teorie politiche e Stato nell’epoca dell’assolutismo_, Roma: Istituto della Enciclopedia italiana.
+* Blair, Ann, 1997, _The Theater of Nature: Jean Bodin and Renaissance Science_, Princeton: Princeton University Press.
+* –––, 2004, “La philosophie naturelle dans l’œuvre de Jean Bodin”, in _L’œuvre de Jean Bodin: actes du colloque tenu à Lyon à l’occasion du quatrième centenaire de sa mort, 11–13 janvier 1996_, éd. G.-A. Pérouse, N. Dockès-Lallement, J.-M. Servet, Paris: H. Champion, 359–369.
 * –––, 2013, “Authorial Strategies in Jean Bodin”, in Lloyd, ed., 2013, 137–156.
-* Blanc, Jérôme, 2006, “Les monnaies de la *République*: un retour sur les idées monétaires de Jean Bodin”, *Cahiers d’économie politique: histoire de la pensée et théorie*, 50: 165–190.
-* Boccalini, Trajano, 1618, *De’ Ragguagli di Parnaso*, Venetia: appresso Giovanni Gherigli.
-* Bodin, Jean, *On the Demon-mania of Witches*, translated by Randy Scott, edited by Jonathan Pearl, Toronto: Centre for Reformation and Renaissance Studies, 2001.
-* Bonnay, Richard, 2003, “Reconsidering Absolutism in Early Modern Europe: the Development of an Idea”, *Bulletin of Asia-Pacific Studies*, 13: 32.
-* Bordier, Henri, 1879, Jehan Bodin, *La France protestante ou Vies des protestants français*, 2nd edition, 6 vol. (A-G), Paris: Sandoz-Fischbacher, vol. 2, 671.
-* Botero, Giovanni, *De la raison d’état (1589–1598)*, édition et trad. de l’italien par Pierre Benedittini et Romain Descendre, Paris: Gallimard, 2014.
-* Boucher, Jacqueline, 1983, “L’incarcération de Jean Bodin pendant la troisième guerre de religion”, *Nouvelle revue du Seizième siècle*, 1: 33–44.
-* –––, 2007a, *Société et mentalités autour de Henri III*, Paris: H. Champion.
-* –––, 2007b, “Sous Henri III: l’impossible coexistence religieuse souhaitée par Michel de l’Hospital”, in *Le Chancelier Michel de l’Hospital: actes du colloque de Riom \[Puy-de Dôme], 8-9 septembre 2006*, in *Revue d’Auvergne*, 121: 127–137.
-* Boyer-Xambeu, M. T., Deleplace, G., Gillard, L., Jannin P., 1986, *Monnaie privée et pouvoir des princes: économie des relations monétaires à la Renaissance*, Paris: Presses du Centre National de la Recherche Scientifique.
+* Blanc, Jérôme, 2006, “Les monnaies de la _République_: un retour sur les idées monétaires de Jean Bodin”, _Cahiers d’économie politique: histoire de la pensée et théorie_, 50: 165–190.
+* Boccalini, Trajano, 1618, _De’ Ragguagli di Parnaso_, Venetia: appresso Giovanni Gherigli.
+* Bodin, Jean, _On the Demon-mania of Witches_, translated by Randy Scott, edited by Jonathan Pearl, Toronto: Centre for Reformation and Renaissance Studies, 2001.
+* Bonnay, Richard, 2003, “Reconsidering Absolutism in Early Modern Europe: the Development of an Idea”, _Bulletin of Asia-Pacific Studies_, 13: 32.
+* Bordier, Henri, 1879, Jehan Bodin, _La France protestante ou Vies des protestants français_, 2nd edition, 6 vol. (A-G), Paris: Sandoz-Fischbacher, vol. 2, 671.
+* Botero, Giovanni, _De la raison d’état (1589–1598)_, édition et trad. de l’italien par Pierre Benedittini et Romain Descendre, Paris: Gallimard, 2014.
+* Boucher, Jacqueline, 1983, “L’incarcération de Jean Bodin pendant la troisième guerre de religion”, _Nouvelle revue du Seizième siècle_, 1: 33–44.
+* –––, 2007a, _Société et mentalités autour de Henri III_, Paris: H. Champion.
+* –––, 2007b, “Sous Henri III: l’impossible coexistence religieuse souhaitée par Michel de l’Hospital”, in _Le Chancelier Michel de l’Hospital: actes du colloque de Riom \[Puy-de Dôme], 8-9 septembre 2006_, in _Revue d’Auvergne_, 121: 127–137.
+* Boyer-Xambeu, M. T., Deleplace, G., Gillard, L., Jannin P., 1986, _Monnaie privée et pouvoir des princes: économie des relations monétaires à la Renaissance_, Paris: Presses du Centre National de la Recherche Scientifique.
 * Braun, Harald E., 2013, “Making the Canon? The Early Reception of the République in Castilian Political Thought”, in Lloyd, ed., 2013 257–292.
-* Brown, John L., 1939, *The Methodus ad facilem Historiarum Cognitionem of J. Bodin. A Critical Study*, Washington DC.
-* Bruschi, Christian, 2004, “ Mesnage’ et république \[chez Jean Bodin]”, in *L’œuvre de Jean Bodin*, éd. G.-A. Pérouse *et al*., Paris: H. Champion, 19–38.
-* Buddruss Eckhard, 1987, “Érudition classique et théorie quantitative de la monnaie dans la Réponse à Malestroit de Jean Bodin”, *Journal des savants*, 1: 89–125.
-* Burgess, Glenn, 2012, “Tyrants, Absolute Kings, Arbitrary Rulers and the Commonwealth of England: Some Reflections on Seventeenth Century Political Vocabulary”, in *Monarchism and Absolutism in Early Modern Europe*, edited by Cesare Cuttica and Glenn Burgess, London: Pickering & Chatto, 147–158.
+* Brown, John L., 1939, _The Methodus ad facilem Historiarum Cognitionem of J. Bodin. A Critical Study_, Washington DC.
+* Bruschi, Christian, 2004, “ Mesnage’ et république \[chez Jean Bodin]”, in _L’œuvre de Jean Bodin_, éd. G.-A. Pérouse _et al_., Paris: H. Champion, 19–38.
+* Buddruss Eckhard, 1987, “Érudition classique et théorie quantitative de la monnaie dans la Réponse à Malestroit de Jean Bodin”, _Journal des savants_, 1: 89–125.
+* Burgess, Glenn, 2012, “Tyrants, Absolute Kings, Arbitrary Rulers and the Commonwealth of England: Some Reflections on Seventeenth Century Political Vocabulary”, in _Monarchism and Absolutism in Early Modern Europe_, edited by Cesare Cuttica and Glenn Burgess, London: Pickering & Chatto, 147–158.
 * –––, 2013, “Bodin in the English Revolution”, in Lloyd, ed., 2013, 387–408.
 * Burke, Peter, 2013, “The History and Theory of Reception”, in Lloyd, ed., 2013, 21–38.
-* Cappa Legora, Antonio, 1913, *I Monarcomachi, saggio sulla teorica della resistenza nel secolo XVI*, Torino: Fratelli Bocca.
-* Cardascia, Guillaume, 1937, “Sur une édition genevoise de la *République* de Jean Bodin”, *Humanisme et Renaissance*, 4: 212–214.
-* –––, 1943, “Machiavel et Jean Bodin”, *Bibliothèque d’Humanisme et Renaissance*, 3: 129–167.
-* Carta, Paolo, 1997, “Il diritto di confisca nella *République* di Jean Bodin”, *I\*\*l pensiero politico*, 30: 311–324.
-* –––, 2000, “La lettera di Jean Bodin à Barnabé Brisson in una traduzione coeva”, *Il pensiero politico*, 33: 63–95.
-* Céard, Jean, 2009, “L’auteur du *Colloquium Heptaplomeres*, lecteur de Bodin”, in Faltenbacher, ed., 2009, 117–134.
-* Cebà, Ansaldo, 2001, *Il cittadino di repubblica* \[1617], a cura di V. I. Comparato, Firenze: Centro Editoriale Toscano.
-* Cervelli, Innocenzo, 1997, “Bodin, Daniele e Marco Polo”, *Il* *pensiero politico*, 30: 233–249.
-* Cesbron, G., Jean Foyer, and Geneviève Rivoire (eds.), *Actes du Colloque interdisciplinaire d’Angers, 24 au 27 mai 1984*, \[organized by] Université d’Angers, Centre de recherches de littérature et de linguistique de l’Anjou et des bocages de l’ouest, 2 vols, Angers: Presses de l’Université, 1985.
-* Chanteur, Janine, 1967, “Jean Bodin et les critères de la légitimité dans la République”, in his *L’idée de légitimité*, Paris: PuF.
-* –––, 1991, “La loi naturelle et la souveraineté chez Jean Bodin”, in *Théologie et droit dans la science politique de l’État moderne.* Actes de la table ronde de Rome (12–14 novembre 1987), Rome: École Française de Rome, 283–294.
-* Chantrel, Laure, 2004, “Une relecture des travaux de Jean Bodin sur la fiscalité à partir des comptes rendus des États généraux de 1560 à 1588”, in *L’œuvre de Jean Bodin*, éd. G.-A. Pérouse *et al*., Paris: H. Champion, 333–352.
-* Chauviré, Roger, 1914, *J. Bodin, auteur de la “République”*, La Flèche: Besnier.
-* –––, 1929, “La pensée religieuse de Jean Bodin (d’après des documents nouveaux)”, *La province d’Anjou*, 4: 433–452.
-* Chrom Jacobsen, Mogens, 2000, *Jean Bodin et le dilemme de la philosophie politique moderne*, Copenhagen: Museum Tusculanum Press.
-* Church, William Farr, 1941, “Jean Bodin and His Contemporaries”, in his *Constitutional Thought in Sixteenth Century France. A Study in The Evolution of Ideas*, Cambridge, MA: Harvard University Press.
-* Cid Vázquez, Maria Teresa, 2004, “Estado, formas de gobierno y soberanía en el pensamiento político español del siglo XVII”, *Cuadernos de pensamiento*, 16: 109–158.
-* Collinet, Paul, 1908, “J. Bodin et la Saint-Barthélemy. Documents inédits sur sa vie, de juillet 1572 à mars 1573”, *Nouvelle revue de droit français et étranger*, 32: 752–756.
-* –––, 1910, “Rectifications à l’article: J. Bodin et la Saint-Barthélemy”, *Nouvelle revue de droit français et étranger*, 34: 128–129.
-* Comparato, Vittor Ivo, 1981, *Jean Bodin. Antologia di scritti politici*, Bologna: Il Mulino.
-* –––, 1982, “Note su Bodin e Aristotele, sovranità e proprietà nella definizione di Stato”, *Materiali di storia. Annali della Facoltà di Scienze politiche di Perugia*, 18, 6: 7–13.
-* –––, 1987, “Il modello di legislatore nella *République* di Jean Bodin”, in *L’educazione giuridica, V. Modelli di legislazione e legislatori*, 1, Napoli: Ed. scientifiche italiane, 91–101.
+* Cappa Legora, Antonio, 1913, _I Monarcomachi, saggio sulla teorica della resistenza nel secolo XVI_, Torino: Fratelli Bocca.
+* Cardascia, Guillaume, 1937, “Sur une édition genevoise de la _République_ de Jean Bodin”, _Humanisme et Renaissance_, 4: 212–214.
+* –––, 1943, “Machiavel et Jean Bodin”, _Bibliothèque d’Humanisme et Renaissance_, 3: 129–167.
+* Carta, Paolo, 1997, “Il diritto di confisca nella _République_ di Jean Bodin”, _I\*\*l pensiero politico_, 30: 311–324.
+* –––, 2000, “La lettera di Jean Bodin à Barnabé Brisson in una traduzione coeva”, _Il pensiero politico_, 33: 63–95.
+* Céard, Jean, 2009, “L’auteur du _Colloquium Heptaplomeres_, lecteur de Bodin”, in Faltenbacher, ed., 2009, 117–134.
+* Cebà, Ansaldo, 2001, _Il cittadino di repubblica_ \[1617], a cura di V. I. Comparato, Firenze: Centro Editoriale Toscano.
+* Cervelli, Innocenzo, 1997, “Bodin, Daniele e Marco Polo”, _Il_ _pensiero politico_, 30: 233–249.
+* Cesbron, G., Jean Foyer, and Geneviève Rivoire (eds.), _Actes du Colloque interdisciplinaire d’Angers, 24 au 27 mai 1984_, \[organized by] Université d’Angers, Centre de recherches de littérature et de linguistique de l’Anjou et des bocages de l’ouest, 2 vols, Angers: Presses de l’Université, 1985.
+* Chanteur, Janine, 1967, “Jean Bodin et les critères de la légitimité dans la République”, in his _L’idée de légitimité_, Paris: PuF.
+* –––, 1991, “La loi naturelle et la souveraineté chez Jean Bodin”, in _Théologie et droit dans la science politique de l’État moderne._ Actes de la table ronde de Rome (12–14 novembre 1987), Rome: École Française de Rome, 283–294.
+* Chantrel, Laure, 2004, “Une relecture des travaux de Jean Bodin sur la fiscalité à partir des comptes rendus des États généraux de 1560 à 1588”, in _L’œuvre de Jean Bodin_, éd. G.-A. Pérouse _et al_., Paris: H. Champion, 333–352.
+* Chauviré, Roger, 1914, _J. Bodin, auteur de la “République”_, La Flèche: Besnier.
+* –––, 1929, “La pensée religieuse de Jean Bodin (d’après des documents nouveaux)”, _La province d’Anjou_, 4: 433–452.
+* Chrom Jacobsen, Mogens, 2000, _Jean Bodin et le dilemme de la philosophie politique moderne_, Copenhagen: Museum Tusculanum Press.
+* Church, William Farr, 1941, “Jean Bodin and His Contemporaries”, in his _Constitutional Thought in Sixteenth Century France. A Study in The Evolution of Ideas_, Cambridge, MA: Harvard University Press.
+* Cid Vázquez, Maria Teresa, 2004, “Estado, formas de gobierno y soberanía en el pensamiento político español del siglo XVII”, _Cuadernos de pensamiento_, 16: 109–158.
+* Collinet, Paul, 1908, “J. Bodin et la Saint-Barthélemy. Documents inédits sur sa vie, de juillet 1572 à mars 1573”, _Nouvelle revue de droit français et étranger_, 32: 752–756.
+* –––, 1910, “Rectifications à l’article: J. Bodin et la Saint-Barthélemy”, _Nouvelle revue de droit français et étranger_, 34: 128–129.
+* Comparato, Vittor Ivo, 1981, _Jean Bodin. Antologia di scritti politici_, Bologna: Il Mulino.
+* –––, 1982, “Note su Bodin e Aristotele, sovranità e proprietà nella definizione di Stato”, _Materiali di storia. Annali della Facoltà di Scienze politiche di Perugia_, 18, 6: 7–13.
+* –––, 1987, “Il modello di legislatore nella _République_ di Jean Bodin”, in _L’educazione giuridica, V. Modelli di legislazione e legislatori_, 1, Napoli: Ed. scientifiche italiane, 91–101.
 * –––, 2013, “The Italian ‘Readers’ of Bodin, 17th–18th Centuries: Readers of Bodin in Italy – From Albergati to Filangieri”, in Lloyd, ed., 2013, 343–370.
-* Comparato, Vittor Ivo (ed.), 1981, *“La République” di J. Bodin*, Atti del Convegno di Perugia, 14–15 nov. 1980, in *Il* *pensiero politico*, 14.
-* Conti Odorisio, Ginevra, 2007, *La famille et l’État dans* La République *de Jean Bodin*, Paris: l’Harmattan.
-* Cornu, Pierre, 1907, “Jean Bodin de Monguichet”, *Revue de l’Anjou*, 56 (Janvier-Février): 109-111.
-* Costa, Pietro, 1999, “La celebrazione della sovranità: Jean Bodin”, in his *Civitas*\*. Storia della cittadinanza in Europa. Vol. 1: Dalla civiltà comunale al Settecento\*, Roma-Bari: Laterza, 65-80.
-* Cotroneo, Girolamo, 1962, “La ‘storia integrale’ nella *Methodus* di Jean Bodin”, in *Historica*, 15: 95–107.
-* –––, 1964a, “Il senso della storia nella *Methodus* di Jean Bodin”, in *Rivista di studi crociani*, 1: 296–311.
-* –––, 1964b, “Introduzione allo studio della *Methodus* di Jean Bodin (1530?–1596)”, in *Atti dell’Accademia Pontaniana*, 13: 221–223.
-* –––, 1966a, “Il problema della storia nel *De institutione* di François Baudouin”, in *Rivista di studi crociani*, 3: 403–416.
-* –––, 1966b, *J\*\*ean Bodin teorico della storia*, Napoli: Edizioni scientifiche.
-* –––, 1970, *I trattatisti dell’Ars historica*, Napoli: Giannini.
-* –––, 1981, “Ancora sui rapporti fra la *Methodus* e la *République*”, *Il* *pensiero politico*, 14: 18–25.
-* –––, 2014, “Il ritorno di Bodin”, *Filosofia politica*, 1: 137–142.
-* Couzinet, Marie-Dominique, 1991, *La logique divine dans les*, Six livres de la République *de Jean Bodin: hypothèse de lecture*, Florence: European University Institute.
-* Couzinet, Marie-Dominique, 1995a, “Jean Bodin: état des lieux et perspectives de recherche”, *Bulletin de l’Association d’étude sur l’humanisme, la réforme et la renaissance*, 40: 11–22.
-* –––, 1995b, “Fonction de la géographie dans la connaissance historique: le modèle cosmographique de l’histoire universelle chez F. Bauduin et J. Bodin”, *Corpus*, 28: 113–145.
-* –––, 1996a, *Histoire et méthode à la Renaissance. Une lecture de la Methodus de J. Bodin*, Paris: Vrin.
-* –––, 1996b, “La *Methodus ad facilem historiarum cognitionem* de Jean Bodin: histoire cosmographie et méthode”, in *J. Bodin, nature, histoire, droit et politique*, éd. Y. Ch. Zarka, Paris: Presses Universitaires de France, 23–42.
-* –––, 2001, *Bibliographie des écrivains français. Jean Bodin*, Roma-Paris: Memini.
-* –––, 2007, “La philosophie morale de Jean Bodin dans le Paradoxe de 1596”, in his *Sub specie hominis*: *études sur le savoir humain au xvi\*\*e* *siècle*, Paris: Vrin.
+* Comparato, Vittor Ivo (ed.), 1981, _“La République” di J. Bodin_, Atti del Convegno di Perugia, 14–15 nov. 1980, in _Il_ _pensiero politico_, 14.
+* Conti Odorisio, Ginevra, 2007, _La famille et l’État dans_ La République _de Jean Bodin_, Paris: l’Harmattan.
+* Cornu, Pierre, 1907, “Jean Bodin de Monguichet”, _Revue de l’Anjou_, 56 (Janvier-Février): 109-111.
+* Costa, Pietro, 1999, “La celebrazione della sovranità: Jean Bodin”, in his _Civitas_\*. Storia della cittadinanza in Europa. Vol. 1: Dalla civiltà comunale al Settecento\*, Roma-Bari: Laterza, 65-80.
+* Cotroneo, Girolamo, 1962, “La ‘storia integrale’ nella _Methodus_ di Jean Bodin”, in _Historica_, 15: 95–107.
+* –––, 1964a, “Il senso della storia nella _Methodus_ di Jean Bodin”, in _Rivista di studi crociani_, 1: 296–311.
+* –––, 1964b, “Introduzione allo studio della _Methodus_ di Jean Bodin (1530?–1596)”, in _Atti dell’Accademia Pontaniana_, 13: 221–223.
+* –––, 1966a, “Il problema della storia nel _De institutione_ di François Baudouin”, in _Rivista di studi crociani_, 3: 403–416.
+* –––, 1966b, _J\*\*ean Bodin teorico della storia_, Napoli: Edizioni scientifiche.
+* –––, 1970, _I trattatisti dell’Ars historica_, Napoli: Giannini.
+* –––, 1981, “Ancora sui rapporti fra la _Methodus_ e la _République_”, _Il_ _pensiero politico_, 14: 18–25.
+* –––, 2014, “Il ritorno di Bodin”, _Filosofia politica_, 1: 137–142.
+* Couzinet, Marie-Dominique, 1991, _La logique divine dans les_, Six livres de la République _de Jean Bodin: hypothèse de lecture_, Florence: European University Institute.
+* Couzinet, Marie-Dominique, 1995a, “Jean Bodin: état des lieux et perspectives de recherche”, _Bulletin de l’Association d’étude sur l’humanisme, la réforme et la renaissance_, 40: 11–22.
+* –––, 1995b, “Fonction de la géographie dans la connaissance historique: le modèle cosmographique de l’histoire universelle chez F. Bauduin et J. Bodin”, _Corpus_, 28: 113–145.
+* –––, 1996a, _Histoire et méthode à la Renaissance. Une lecture de la Methodus de J. Bodin_, Paris: Vrin.
+* –––, 1996b, “La _Methodus ad facilem historiarum cognitionem_ de Jean Bodin: histoire cosmographie et méthode”, in _J. Bodin, nature, histoire, droit et politique_, éd. Y. Ch. Zarka, Paris: Presses Universitaires de France, 23–42.
+* –––, 2001, _Bibliographie des écrivains français. Jean Bodin_, Roma-Paris: Memini.
+* –––, 2007, “La philosophie morale de Jean Bodin dans le Paradoxe de 1596”, in his _Sub specie hominis_: _études sur le savoir humain au xvi\*\*e_ _siècle_, Paris: Vrin.
 * –––, 2013, “On Bodin’s Method”, in Lloyd, ed., 2013, 39–66.
-* Crahay, Roland, 1981, “Jean Bodin devant la censure: la condamnation de la République”, *Il pensiero politico*, 14: 154–172.
-* –––, 1984a, “Jean Bodin aux États généraux de 1576”, in *Assemblee di stati e istituzioni rappresentative nella storia del pensiero politico moderno*, Città di Castello: Maggioli Editore, 1: 85–120.
-* –––, 1984b (with M.-Th. Isaac et M.-Th. Lenger), “Les éditions de l’*Apologie de René Herpin*. Contribution à la bibliographie historique des œuvres de Jean Bodin”, in *Palaestra Typographica. Aspects de la production du livre humaniste et religieux au XVIe siècle*, Aubel: Gason, 97–129.
-* –––, 1985, “Controverses et censures religieuses à propos de la *République* de Jean Bodin”, in *D’Érasme à Campanella. Textes de Roland Crahay*, J. Marx éd., Bruxelles: Éditions de l’Université de Bruxelles, 132–152.
-* –––, with M.-Th. Isaac and M.-Th. Lenger (eds.), 1992, *Bibliographie critique des éditions anciennes de Jean Bodin*, Préface de V. I. Comparato, Gembloux: Académie Royale de Belgique.
-* Cremer, Albert, 1975, “Les théoriciens italiens de la Raison d’État juges de Jean Bodin”, *Revue d’Histoire diplomatique*, 89: 249–261.
-* –––, 1977, “La ‘protection’ dans le droit international public européen du XVIe siècle”, *Théories et pratiques politiques à la Renaissance. XVIIe Colloque international de Tours*, Paris: Vrin, 145–157.
-* –––, 1982, “La genèse du droit des gens moderne et la conscience européenne: Francisco de Vitoria et Jean Bodin”, in *La conscience européenne aux xv e et xvi e siècles*. Actes du Colloque international organisé à l’ENSJF, 30 septembre – 3 octobre 1980, Paris: École Normale Supérieure des Jeunes Filles, 88–102.
-* Crouzet, Denis, 2018, “La rupture de l’unité de foi dans la France du XVIe siècle”, in *L’Histoire en questions. Mélanges en l’honneur de Mario Turchetti*, Silvia Arletta (ed.), Paris: Classiques Garnier, 101–126.
-* Daston, Lorraine, and Michael Stolleis, 2008, *Natural Law and the Laws of Nature in Early Modern Europe: Jurisprudence, Theology, Moral and Natural Philosophy*, Aldershot: Ashgate.
-* Daubresse, Sylvie, 2005, *Le Parlement de Paris, ou la voix de la raison (1559–1589)*, Genève: Droz.
-* –––, 2006, “Le Parlement et l’enregistrement des actes royaux au XVIe siècle”, in *Dire le droit: normes, juges, jurisconsultes. Actes du colloque international des 4–5 novembre 2004*, tenu à l’Université Paris II, edited by Barbara Anagnostou-Cana, Paris: Ed. Panthéon-Assas, 253-266.
-* Daussy, Hugues, 2007, “La question d’obéissance aux autorités dans l’œuvre d’Innocent Gentillet, magistrat réformé”, in *Hommes de loi et politique, XVIe-XVIIIe siècle*, éd. Hugues Daussy et Frédérique Pitou, Rennes: Presses de l’Université de Rennes, 21–34.
-* –––, 2014, *Le parti huguenot. Chronique d’une désillusion (1557–1572)*, Genève: Droz.
-* De Caprariis, Vittorio, 1959, *Propaganda e pensiero politico in Francia durante les guerre di religione)*, I: 1559–1572, Napoli: Edizioni Scientifiche Italiane.
-* Delachenal, Roland, 1885, *Histoire des avocats du Parlement de Paris (1300–1600)*, Paris: Plon.
-* Del Prete, Antonella, 2008, “*Menu peuple, multitude, populace*: considerazioni sul vocabolario politico-sociale di Jean Bodin”, *Laboratorio dell’ISPF*, 5, 1: 4–27.
-* Demelmestre, Gaëlle, 2011, *Les deux souverainetés et leur destin. Le tournant Bodin-Althusius*, Paris: Cerf.
-* Denzer, Horst, ed., 1973, *J. Bodin. Verhandlungen der internationalen Tagung in München*, München: Beck.
-* Desan, Philippe, 1987a, *Naissance de la méthode (Machiavel, La Ramée, Bodin, Montaigne, Descartes)*, Paris: Nizet.
-* –––, 1987b, “La justice mathématique de Jean Bodin”, *Corpus, revue de philosophie*, 4: 19–29.
-* –––, 1995, “L’histoire mathématique de Jean Bodin”, in Desan, *Penser l’histoire à la Renaissance*, Caen: Paradigme, 145–169.
-* Descendre, Romain, 2009, *L’état du monde: Giovanni Botero entre raison d’état et géopolitique*, Genève: Droz.
-* Desideri, Paolo, 1998, “Plutarco nel pensiero politico di Jean Bodin”, in *L’eredità culturale di Plutarco dall’antichità al Rinascimento*. Atti del VII colloquio su Plutarco, Milano-Gragnano 28-30 maggio 1997, Napoli: D’Auria, 299–311.
-* –––, 2008, “Les *Moralia* dans la *Méthode* et les S*ix livres sur la République* de Jean Bodin”, in *Moralia et œuvres meslées à la Renaissance: actes du colloque international de Toulouse, 19–21 mai 2005*, éd. Olivier Guerrier, Paris: Champion, 199–215.
-* Di Bello, Anna, 2014, *Stato e sovranità nel* De Republica libri sex *di Jean Bodin*, Napoli: Liguori.
-* Diecmann, Johann, 1683, *De naturalismo tum aliorum, tum maxime J. Bodini*, Kiel: Reumann.
-* Dockès, Nicole, 1986, “La loi, l’équité, la justice et la paix ou la justice selon Jean Bodin”, in *Le juste et l’injuste à la Renaissance et à l’âge classique*. Actes du colloque international tenu à Saint-Étienne, 21-23 avril 1983, Saint-Étienne: Publication de l’Université de Saint-Étienne, 65-89.
-* Dockès-Lallement, Nicole, 2004, “Les républiques sous l’influence des nombres: le hasard et la nécessité chez Jean Bodin”, in *L’œuvre de Jean Bodin*, éd. G.-A. Pérouse *et al*., Paris: H. Champion, 127–149.
-* Droz, Eugénie, 1948, “Le carme Jean Bodin, hérétique,” *Bibliothèque d’humanisme et Renaissance*, 10: 77–94.
-* Dunning, Wm. A., 1896, “Jean Bodin on Sovereignty, with some References to the Doctrine of Thomas Hobbes”, *Political Science Quarterly*, 11 (1): 82–104.
-* Ducos, Michèle, 1987, “Le tableau du droit universel de Jean Bodin et la tradition romaine”, *Bulletin de l’Association Guillaume Budé*, 49–61.
-* Esmein, Adhémar, 1900, “La théorie de l’intervention internationale chez quelques publicistes français du XVIe siècle”, *Nouvelle revue historique du droit français et étranger*, 24: 549–574.
-* Fabbri, Natacha, 2004, “La concordia nel *Colloquium heptaplomeres* di Jean Bodin”, *Rinascimento*, 44, 297–324.
-* Faltenbacher, Karl F., 1985, “Comparaison entre le *Colloquium Heptaplomeres* de Jean Bodin et les *Coloquios y doctrina cristiana* de Fray Bernardino de Sahagun”, in *Jean Bodin, Actes du Colloque interdisciplinaire d’Angers (mai 1984)*, Angers: Presses Universitaires, II, 453–458, 618–623.
-* Faltenbacher, K. F., ed., 2002, *Magie, Religion und Wissenschaften im Colloquium heptaplomeres*. Ergebnisse der Tagungen in Paris 1994 und in der Villa Vigoni 1999, Darmstadt: Wissenschaftliche Buchgesellschaft.
-* Faltenbacher, K. F., ed., 2009, *Der kritische Dialog des Colloquium Heptaplomeres: Wissenschaft, Philosophie und Religion zu Beginn des 17. Jahrhunderts*. *Ergebnisse der Tagung vom 6. bis 7. November 2006 am Frankreich-Zentrum der Freien Universität Berlin*, Darmstadt: Wissenschaftliche Buchgesellschaft,
-* Ferrière, Georges, 2004, “Sujets et citoyens selon Bodin”, in *Sujet et citoyen: actes du Colloque de Lyon, 11–12 septembre 2003*, Aix-en-Provence: Presses universitaires d’Aix-Marseille.
-* Ferronato, M., and L. Bianchin, eds., 2011, *Silete theologi in munere alieno. Alberico Gentili e la seconda scolastica*, Padova: Cedam.
-* Fiocchi, Claudio, and Simonetta, Stefano, 2001, “Il *principatus* *despoticus* nell’aristotelismo bassomedievale”, in *Dispotismo. Genesi e sviluppi di un concetto filosofico-politico*, Domenico Felice ed., tomo I, Napoli: Liguori, 95–126.
-* –––, 2004, *Mala Potestas. La Tirannia nel Pensiero Politico Medioevale*, Bergamo: Lubrina.
-* –––, 2007, *Dispotismo e libertà nel pensiero medievale. Riflessioni all’ombra di Aristotele (sec.* *XIII – XIV)*, Bergamo: Lubrina.
-* Foisneau, Luc, 1999, “Bodin ou l’affirmation des droits de la souveraineté”, in *Histoire de la philosophie politique*, A. Renaut éd., Paris: Calman-Lévy, 2: 237-250.
+* Crahay, Roland, 1981, “Jean Bodin devant la censure: la condamnation de la République”, _Il pensiero politico_, 14: 154–172.
+* –––, 1984a, “Jean Bodin aux États généraux de 1576”, in _Assemblee di stati e istituzioni rappresentative nella storia del pensiero politico moderno_, Città di Castello: Maggioli Editore, 1: 85–120.
+* –––, 1984b (with M.-Th. Isaac et M.-Th. Lenger), “Les éditions de l’_Apologie de René Herpin_. Contribution à la bibliographie historique des œuvres de Jean Bodin”, in _Palaestra Typographica. Aspects de la production du livre humaniste et religieux au XVIe siècle_, Aubel: Gason, 97–129.
+* –––, 1985, “Controverses et censures religieuses à propos de la _République_ de Jean Bodin”, in _D’Érasme à Campanella. Textes de Roland Crahay_, J. Marx éd., Bruxelles: Éditions de l’Université de Bruxelles, 132–152.
+* –––, with M.-Th. Isaac and M.-Th. Lenger (eds.), 1992, _Bibliographie critique des éditions anciennes de Jean Bodin_, Préface de V. I. Comparato, Gembloux: Académie Royale de Belgique.
+* Cremer, Albert, 1975, “Les théoriciens italiens de la Raison d’État juges de Jean Bodin”, _Revue d’Histoire diplomatique_, 89: 249–261.
+* –––, 1977, “La ‘protection’ dans le droit international public européen du XVIe siècle”, _Théories et pratiques politiques à la Renaissance. XVIIe Colloque international de Tours_, Paris: Vrin, 145–157.
+* –––, 1982, “La genèse du droit des gens moderne et la conscience européenne: Francisco de Vitoria et Jean Bodin”, in _La conscience européenne aux xv e et xvi e siècles_. Actes du Colloque international organisé à l’ENSJF, 30 septembre – 3 octobre 1980, Paris: École Normale Supérieure des Jeunes Filles, 88–102.
+* Crouzet, Denis, 2018, “La rupture de l’unité de foi dans la France du XVIe siècle”, in _L’Histoire en questions. Mélanges en l’honneur de Mario Turchetti_, Silvia Arletta (ed.), Paris: Classiques Garnier, 101–126.
+* Daston, Lorraine, and Michael Stolleis, 2008, _Natural Law and the Laws of Nature in Early Modern Europe: Jurisprudence, Theology, Moral and Natural Philosophy_, Aldershot: Ashgate.
+* Daubresse, Sylvie, 2005, _Le Parlement de Paris, ou la voix de la raison (1559–1589)_, Genève: Droz.
+* –––, 2006, “Le Parlement et l’enregistrement des actes royaux au XVIe siècle”, in _Dire le droit: normes, juges, jurisconsultes. Actes du colloque international des 4–5 novembre 2004_, tenu à l’Université Paris II, edited by Barbara Anagnostou-Cana, Paris: Ed. Panthéon-Assas, 253-266.
+* Daussy, Hugues, 2007, “La question d’obéissance aux autorités dans l’œuvre d’Innocent Gentillet, magistrat réformé”, in _Hommes de loi et politique, XVIe-XVIIIe siècle_, éd. Hugues Daussy et Frédérique Pitou, Rennes: Presses de l’Université de Rennes, 21–34.
+* –––, 2014, _Le parti huguenot. Chronique d’une désillusion (1557–1572)_, Genève: Droz.
+* De Caprariis, Vittorio, 1959, _Propaganda e pensiero politico in Francia durante les guerre di religione)_, I: 1559–1572, Napoli: Edizioni Scientifiche Italiane.
+* Delachenal, Roland, 1885, _Histoire des avocats du Parlement de Paris (1300–1600)_, Paris: Plon.
+* Del Prete, Antonella, 2008, “_Menu peuple, multitude, populace_: considerazioni sul vocabolario politico-sociale di Jean Bodin”, _Laboratorio dell’ISPF_, 5, 1: 4–27.
+* Demelmestre, Gaëlle, 2011, _Les deux souverainetés et leur destin. Le tournant Bodin-Althusius_, Paris: Cerf.
+* Denzer, Horst, ed., 1973, _J. Bodin. Verhandlungen der internationalen Tagung in München_, München: Beck.
+* Desan, Philippe, 1987a, _Naissance de la méthode (Machiavel, La Ramée, Bodin, Montaigne, Descartes)_, Paris: Nizet.
+* –––, 1987b, “La justice mathématique de Jean Bodin”, _Corpus, revue de philosophie_, 4: 19–29.
+* –––, 1995, “L’histoire mathématique de Jean Bodin”, in Desan, _Penser l’histoire à la Renaissance_, Caen: Paradigme, 145–169.
+* Descendre, Romain, 2009, _L’état du monde: Giovanni Botero entre raison d’état et géopolitique_, Genève: Droz.
+* Desideri, Paolo, 1998, “Plutarco nel pensiero politico di Jean Bodin”, in _L’eredità culturale di Plutarco dall’antichità al Rinascimento_. Atti del VII colloquio su Plutarco, Milano-Gragnano 28-30 maggio 1997, Napoli: D’Auria, 299–311.
+* –––, 2008, “Les _Moralia_ dans la _Méthode_ et les S_ix livres sur la République_ de Jean Bodin”, in _Moralia et œuvres meslées à la Renaissance: actes du colloque international de Toulouse, 19–21 mai 2005_, éd. Olivier Guerrier, Paris: Champion, 199–215.
+* Di Bello, Anna, 2014, _Stato e sovranità nel_ De Republica libri sex _di Jean Bodin_, Napoli: Liguori.
+* Diecmann, Johann, 1683, _De naturalismo tum aliorum, tum maxime J. Bodini_, Kiel: Reumann.
+* Dockès, Nicole, 1986, “La loi, l’équité, la justice et la paix ou la justice selon Jean Bodin”, in _Le juste et l’injuste à la Renaissance et à l’âge classique_. Actes du colloque international tenu à Saint-Étienne, 21-23 avril 1983, Saint-Étienne: Publication de l’Université de Saint-Étienne, 65-89.
+* Dockès-Lallement, Nicole, 2004, “Les républiques sous l’influence des nombres: le hasard et la nécessité chez Jean Bodin”, in _L’œuvre de Jean Bodin_, éd. G.-A. Pérouse _et al_., Paris: H. Champion, 127–149.
+* Droz, Eugénie, 1948, “Le carme Jean Bodin, hérétique,” _Bibliothèque d’humanisme et Renaissance_, 10: 77–94.
+* Dunning, Wm. A., 1896, “Jean Bodin on Sovereignty, with some References to the Doctrine of Thomas Hobbes”, _Political Science Quarterly_, 11 (1): 82–104.
+* Ducos, Michèle, 1987, “Le tableau du droit universel de Jean Bodin et la tradition romaine”, _Bulletin de l’Association Guillaume Budé_, 49–61.
+* Esmein, Adhémar, 1900, “La théorie de l’intervention internationale chez quelques publicistes français du XVIe siècle”, _Nouvelle revue historique du droit français et étranger_, 24: 549–574.
+* Fabbri, Natacha, 2004, “La concordia nel _Colloquium heptaplomeres_ di Jean Bodin”, _Rinascimento_, 44, 297–324.
+* Faltenbacher, Karl F., 1985, “Comparaison entre le _Colloquium Heptaplomeres_ de Jean Bodin et les _Coloquios y doctrina cristiana_ de Fray Bernardino de Sahagun”, in _Jean Bodin, Actes du Colloque interdisciplinaire d’Angers (mai 1984)_, Angers: Presses Universitaires, II, 453–458, 618–623.
+* Faltenbacher, K. F., ed., 2002, _Magie, Religion und Wissenschaften im Colloquium heptaplomeres_. Ergebnisse der Tagungen in Paris 1994 und in der Villa Vigoni 1999, Darmstadt: Wissenschaftliche Buchgesellschaft.
+* Faltenbacher, K. F., ed., 2009, _Der kritische Dialog des Colloquium Heptaplomeres: Wissenschaft, Philosophie und Religion zu Beginn des 17. Jahrhunderts_. _Ergebnisse der Tagung vom 6. bis 7. November 2006 am Frankreich-Zentrum der Freien Universität Berlin_, Darmstadt: Wissenschaftliche Buchgesellschaft,
+* Ferrière, Georges, 2004, “Sujets et citoyens selon Bodin”, in _Sujet et citoyen: actes du Colloque de Lyon, 11–12 septembre 2003_, Aix-en-Provence: Presses universitaires d’Aix-Marseille.
+* Ferronato, M., and L. Bianchin, eds., 2011, _Silete theologi in munere alieno. Alberico Gentili e la seconda scolastica_, Padova: Cedam.
+* Fiocchi, Claudio, and Simonetta, Stefano, 2001, “Il _principatus_ _despoticus_ nell’aristotelismo bassomedievale”, in _Dispotismo. Genesi e sviluppi di un concetto filosofico-politico_, Domenico Felice ed., tomo I, Napoli: Liguori, 95–126.
+* –––, 2004, _Mala Potestas. La Tirannia nel Pensiero Politico Medioevale_, Bergamo: Lubrina.
+* –––, 2007, _Dispotismo e libertà nel pensiero medievale. Riflessioni all’ombra di Aristotele (sec._ _XIII – XIV)_, Bergamo: Lubrina.
+* Foisneau, Luc, 1999, “Bodin ou l’affirmation des droits de la souveraineté”, in _Histoire de la philosophie politique_, A. Renaut éd., Paris: Calman-Lévy, 2: 237-250.
 * –––, 2013, “Sovereignty and Reason of State: Bodin, Botero, Richelieu and Hobbes”, in Lloyd, ed., 2013, 323–342.
-* Fontana, Letizia, 2009, “Bilan historiographique de la question du séjour de Jean Bodin à Genève,” *Bibliothèque d’humanisme et Renaissance*, 71, 101–111.
-* Fournol, Etienne-Maurice, 2011, *Bodin, prédécesseur de Montesquieu: étude sur quelques théories politiques de la* République *et* *de* l’Esprit des lois, Geneva: Slatkine.
-* Franklin, J.H., 1973, *J. Bodin and the Rise of Absolutist Theory*, Cambridge: Cambridge University Press.
-* ––– ed., 2006, *Jean Bodin*, Aldershot: Ashgate,
-* Friedeburg, Robert von, 2011, “*Cuius Regio, Eius Religio*: The Ambivalent Meanings of State Building in Protestant Germany, 1555–1655”, in *Diversity and Dissent. Negotiating Religious Difference in Central Europe, 1500–1800*, edited by Howard Louthan, Gary B. Cohen and Franz A. J. Szabo, New York: Berghahn Books, 73–91.
+* Fontana, Letizia, 2009, “Bilan historiographique de la question du séjour de Jean Bodin à Genève,” _Bibliothèque d’humanisme et Renaissance_, 71, 101–111.
+* Fournol, Etienne-Maurice, 2011, _Bodin, prédécesseur de Montesquieu: étude sur quelques théories politiques de la_ République _et_ _de_ l’Esprit des lois, Geneva: Slatkine.
+* Franklin, J.H., 1973, _J. Bodin and the Rise of Absolutist Theory_, Cambridge: Cambridge University Press.
+* ––– ed., 2006, _Jean Bodin_, Aldershot: Ashgate,
+* Friedeburg, Robert von, 2011, “_Cuius Regio, Eius Religio_: The Ambivalent Meanings of State Building in Protestant Germany, 1555–1655”, in _Diversity and Dissent. Negotiating Religious Difference in Central Europe, 1500–1800_, edited by Howard Louthan, Gary B. Cohen and Franz A. J. Szabo, New York: Berghahn Books, 73–91.
 * –––, 2013, “The Reception of Bodin in the Holy Roman Empire and the Making of the Territorial State”, in Lloyd, ed., 2013, 293–322.
-* Gajda, Alexandra, 2010, “Tacitus and Political Thought in Early Modern Europe, *c*. 1530-*c*. 1640”, in *The Cambridge Companion to Tacitus*, edited by A.J. Woodman, Cambridge: Cambridge University Press, 253–68.
-* García Gestoso, Noemi, 2003,“Sobre los orígenes históricos y teóricos del concepto de soberanía: especial referencia a los seis libros de la República de J. Bodino”, *Revista de estudios políticos*, 120: 301–328.
-* Gardot, André, 1934, “Jean Bodin: sa place parmi les fondateurs du droit international”, *Académie de droit international, Recueil des cours*, 50: 549–753 (Paris: Librairie du recueil Sirey, 1935; Leiden: Brill, 2008).
-* Gelderen, Martin van, 2004, “Republikanismus in Europa: Deutsch-Niederlandische perspektiven 1580–1650”, *Historische Zeitschrift*, 278: 283–309.
-* Gentili, Alberico, 2008, *Il diritto di guerra \[De iure belli* (1598)], trad. da P. Nencini, a cura di G. Marchetto e C. Zendri, Milano: Giuffré.
-* Gianturco, Elio, 1934, “Bodin’s Conception of the Venetian Constitution and his Critical Rift with Fabio Albergati”, *Revue de Littérature comparée*, 18: 684–695.
-* Giesey, Ralph E., 2004, *Rulership in France, 15th-17th Centuries*, Aldershot: Ashgate.
-* –––, 2007, *Le rôle méconnu de la loi Salique: la succession royale, XIVe-XVIe siècles*, Paris: Les Belles Lettres.
-* González Fernández, M., 2007, “Tolerancia(s): da vaga neoliberal a Jean Bodin”, in *Desafíos do século XXI*, ed. Francisco Javier Barcia González y Nel Rodríguez Rial, Santiago de Compostela: Universidad de Santiago de Compostela, 197–214.
-* Goyard-Fabre, Simone, 1986, *J. Bodin et le droit de la République*, Paris: P. U. France.
-* –––, 1988, “Souveraineté et citoyenneté dans *Les six livres de la République* de Jean Bodin”, *L’école des lettres. Revue pédagogique du second cycle*, 80, 2: 47–55.
-* –––, 1991, “La souveraineté de Bodin à Hobbes”, *Hobbes Studies*, 4: 3–25.
-* –––, 1992a, “Jean Bodin et les trois justices”, in *Aequitas, Aequalitas, Auctoritas. Raison théorique et légitimation de l’autorité dans le XVIe siècle*, D. Letocha (ed.), Paris: Vrin, 3–15.
-* –––, 1992b, “La notion de souveraineté de Bodin à Hobbes”, in *Hobbes et son vocabulaire*, Y. Ch. Zarka éd., Paris: Vrin, 207–230.
-* –––, 1999, *Jean Bodin (1529 –1596) et sa politique philosophique*, Paris: Ellipses.
-* Grafton, Anthony, 2007, *What* *was History? The Art of History in Early Modern Europe*, Cambridge: Cambridge University Press.
-* Greengrass, Mark, 1994, “A Day in the Life of the Third Estate: Blois, 26 December 1576”, in *Politics, Ideology, and the Law in Early Modern Europe: Essays in Honor of J.H.M. Salmon*, edited by Adrianna Bakos, Rochester, NY: University of Rochester Press, 73–90.
-* –––, 2005, ‘Passions and the Patria: Michel de l’Hospital and the Reformation of the French Polity in the Wars of Religion’, in *‘Patria’ und ‘Patrioten’ vor dem Patriotismus: Flichten, Rechte, Glauben und die Rekonfiguriegung europäischer Gemeinwesen im 17. Jahrhundert*, hrsg. Robert von Friedeburg, Wiesbaden: Harrassowitz, 287–308.
-* –––, 2007a, *Governing Passions: Peace and Reform in the French kingdom, 1576–1585*, Oxford: Oxford University Press.
-* –––, 2007b, “Money, Majesty and Virtue: The Rhetoric of Monetary Reform in Later Sixteenth-Century France”, *French History*, 21: 165–186.
+* Gajda, Alexandra, 2010, “Tacitus and Political Thought in Early Modern Europe, _c_. 1530-_c_. 1640”, in _The Cambridge Companion to Tacitus_, edited by A.J. Woodman, Cambridge: Cambridge University Press, 253–68.
+* García Gestoso, Noemi, 2003,“Sobre los orígenes históricos y teóricos del concepto de soberanía: especial referencia a los seis libros de la República de J. Bodino”, _Revista de estudios políticos_, 120: 301–328.
+* Gardot, André, 1934, “Jean Bodin: sa place parmi les fondateurs du droit international”, _Académie de droit international, Recueil des cours_, 50: 549–753 (Paris: Librairie du recueil Sirey, 1935; Leiden: Brill, 2008).
+* Gelderen, Martin van, 2004, “Republikanismus in Europa: Deutsch-Niederlandische perspektiven 1580–1650”, _Historische Zeitschrift_, 278: 283–309.
+* Gentili, Alberico, 2008, _Il diritto di guerra \[De iure belli_ (1598)], trad. da P. Nencini, a cura di G. Marchetto e C. Zendri, Milano: Giuffré.
+* Gianturco, Elio, 1934, “Bodin’s Conception of the Venetian Constitution and his Critical Rift with Fabio Albergati”, _Revue de Littérature comparée_, 18: 684–695.
+* Giesey, Ralph E., 2004, _Rulership in France, 15th-17th Centuries_, Aldershot: Ashgate.
+* –––, 2007, _Le rôle méconnu de la loi Salique: la succession royale, XIVe-XVIe siècles_, Paris: Les Belles Lettres.
+* González Fernández, M., 2007, “Tolerancia(s): da vaga neoliberal a Jean Bodin”, in _Desafíos do século XXI_, ed. Francisco Javier Barcia González y Nel Rodríguez Rial, Santiago de Compostela: Universidad de Santiago de Compostela, 197–214.
+* Goyard-Fabre, Simone, 1986, _J. Bodin et le droit de la République_, Paris: P. U. France.
+* –––, 1988, “Souveraineté et citoyenneté dans _Les six livres de la République_ de Jean Bodin”, _L’école des lettres. Revue pédagogique du second cycle_, 80, 2: 47–55.
+* –––, 1991, “La souveraineté de Bodin à Hobbes”, _Hobbes Studies_, 4: 3–25.
+* –––, 1992a, “Jean Bodin et les trois justices”, in _Aequitas, Aequalitas, Auctoritas. Raison théorique et légitimation de l’autorité dans le XVIe siècle_, D. Letocha (ed.), Paris: Vrin, 3–15.
+* –––, 1992b, “La notion de souveraineté de Bodin à Hobbes”, in _Hobbes et son vocabulaire_, Y. Ch. Zarka éd., Paris: Vrin, 207–230.
+* –––, 1999, _Jean Bodin (1529 –1596) et sa politique philosophique_, Paris: Ellipses.
+* Grafton, Anthony, 2007, _What_ _was History? The Art of History in Early Modern Europe_, Cambridge: Cambridge University Press.
+* Greengrass, Mark, 1994, “A Day in the Life of the Third Estate: Blois, 26 December 1576”, in _Politics, Ideology, and the Law in Early Modern Europe: Essays in Honor of J.H.M. Salmon_, edited by Adrianna Bakos, Rochester, NY: University of Rochester Press, 73–90.
+* –––, 2005, ‘Passions and the Patria: Michel de l’Hospital and the Reformation of the French Polity in the Wars of Religion’, in _‘Patria’ und ‘Patrioten’ vor dem Patriotismus: Flichten, Rechte, Glauben und die Rekonfiguriegung europäischer Gemeinwesen im 17. Jahrhundert_, hrsg. Robert von Friedeburg, Wiesbaden: Harrassowitz, 287–308.
+* –––, 2007a, _Governing Passions: Peace and Reform in the French kingdom, 1576–1585_, Oxford: Oxford University Press.
+* –––, 2007b, “Money, Majesty and Virtue: The Rhetoric of Monetary Reform in Later Sixteenth-Century France”, _French History_, 21: 165–186.
 * –––, 2013, “The Experiential World of Jean Bodin”, in Lloyd, ed., 2013, 67–96.
-* –––, 2014, *Christendom Destroyed: Europe 1517–1648*, New York: Penguin.
-* Harmon, Mont Judd, 1964, “Monarchomachs, Divine Right, and the Theory of Jean Bodin”, in *Political Thought from Plato to the Present*, M. J. Harmon, New York: McGraw-Hill, 196–215.
-* Hegmann, Horst, 1994, *Politischer Individualismus: die Rekonstruktion einer Sozialtheorie unter Bezugnahme auf Machiavelli, Bodin und Hobbes*, Berlin: Duncker & Humblot.
-* Heller, Henry, 1994, “Bodin on Slavery and Primitive Accumulation”, *The Sixteenth Century Journal*, 25(1): 53–65.
-* Herrero Sanchez, Manuel, 2009, “El padre Mariana y el tiranicidio”, *Torre de los Lujanes*, 65: 103–121.
-* Holt, Mack P., 1986, *The Duke of Anjou and the Political Struggle during the Wars of Religion*, Cambridge: Cambridge University Press.
-* Houllemare, Marie, 2011, *Politique de la parole: le Parlement de Paris au XVIe siècle*, Genève: Droz.
-* Isnardi Parente, Margherita, 2008, *Rinascimento politico in Europa*, Studi raccolti da D. Quaglioni e P. Carta, Padova: Cedam.
-* Jacobsen, Mogens Chrom, 2000, *J. Bodin et le dilemme de la philosophie politique moderne*, Copenhagen: Museum Tusculanum Press.
-* Jostock, Ingeborg, 2007a, *La censure négociée: le contrôle du livre à Genève, 1560–1625*, Genève: Droz.
-* –––, 2007b, “Réviser Bodin: l’édition genevoise de la *République*”, in his *La censure négociée.* *Le contrôle du livre à Genève, 1560–1625*, Genève: Droz, 208–212.
-* Jouanna, Arlette, 2006, “Capituler avec son prince: la question de la contractualisation de la loi au XVIe siècle”, in *“Et de sa bouche sortait un glaive”: les monarchomaques au XVIe siècle. Actes de la journée d’étude tenue à Tours en mai 2003*, edited by Paul-Alexis Mellet, Genève: Droz, 131–143
-* King, Preston, 1999, *The Ideology of Order: A Comparative Analysis of J. Bodin and Thomas Hobbes*, London: F. Cass.
-* Krause, Virginia, 2013, “Listening to Witches: Bodin’s Use of Confession in *De la Démonomanie des Sorciers*”, in Lloyd, ed., 2013, 97–116.
-* Krulic, Brigitte, ed., 2010, *Raison(s) d’état(s) en Europe: traditions, usages, recompositions*, New York: Peter Lang.
-* Lassabatère, Thierry, 2010, “Pouvoir royal et bien commun chez Eustache Deschamps, Nicolas de Herberay et Jean Bodin: une chaîne de pensée entre Moyen âge et Renaissance”, in *Pouvoir d’un seul et bien commun (VIe-XVIe siècles): actes du colloque du 19 décembre 2008, Université Paris-Ouest Nanterre*, edited by Frank Collard, *Revue française d’histoire et d’idées politiques*, 32: 395–410.
-* Lazzarino del Grosso, Anna Maria, 1988, “Nobiltà e *roture* nel pensiero di Jean Bodin” in *Gesellschaftgeschichte*\*. Festschrift für Karls Bosl zum 80.\* *Geburtstag*, II, Ferdinand Seibt Hrsg., München: Oldenburg, 131–148.
-* –––, 2002, “La *Respublica Hebraeorum* come modello politico ‘scientifico’ nella *Methodus* di Jean Bodin”, *Il pensiero politico*, 35: 382–398.
-* –––, 2004, *Bodin e la critica della democrazia*, Napoli: Istituto Suor Orsola Benincasa.
-* –––, 2005, “Jean Bodin e il problema del potere”, in *Il potere come problema nella letteratura politica della prima Età moderna*, S. Testoni Binetti ed., Firenze: Centro Editoriale Toscano, 91–112.
-* –––, 2007, “Le Magistrature in Bodin”, *Il pensiero politico*, 40: 394–409.
-* Lee, Daniel, 2013, “ ‘Office is a Thing Borrowed’: Jean Bodin on Offices and Seigneurial Government”, *Political Theory*, 41, 3: 409–440.
-* –––, 2016, “The Roman Law Foundations of Bodin’s Early Doctrine of Sovereignty”, ch. 5; “Jean Bodin, Popular Sovereignty, and Constitutional Government”, ch. 6, in his *Popular Sovereignty in Early Modern Constitutional Thought*, Oxford: Oxford University Press, 159–224.
-* Le Thiec, G., 2004, “L’Empire ottoman, modèle de monarchie seigneuriale dans l’œuvre de Bodin”, in *L’œuvre de Jean Bodin*, éd. G.-A. Pérouse *et al*., Paris: H. Champion, 55–77.
-* Letrouit, Jean, 1995, “Jean Bodin, auteur du *Colloquium Heptaplomeres*”, *La lettre clandestine*, 4: 38–45.
-* Levron, Jacques, 1948, “Jean Bodin, Sieur de Saint-Amand ou Jean Bodin, originaire de Saint-Amand,” *Bibliothèque d’humanisme et Renaissance*, 10: 69–76 .
-* –––, 1950, *Jean Bodin et sa famille. Textes et commentaires*, Angers: H. Siraudeau.
-* Lewis, J. U., 2006, “Jean Bodin’s ‘Logic of Sovereignty’”, *Political Studies*, 16: 206–222.
-* Lloyd, Howell A., 1991, “Sovereignty: Bodin, Hobbes, Rousseau,” *Revue Internationale de philosophie*, 45, 179, 353–379.
-* ––– ed., 2013, *The Reception of Bodin*, Leiden, Boston: Brill.
-* –––, 2017, *Jean Bodin*. ‘*This Pre-eminent Man of France*’. *An Intellectual Biography*, Oxford: Oxford University Press.
-* Lutfalla, M., 2004, “Inflation et endettement: l’éternelle actualité de Jean Bodin”, In *L’œuvre de Jean Bodin*, éd. G.-A. Pérouse *et al*., Paris: H. Champion 285–295.
+* –––, 2014, _Christendom Destroyed: Europe 1517–1648_, New York: Penguin.
+* Harmon, Mont Judd, 1964, “Monarchomachs, Divine Right, and the Theory of Jean Bodin”, in _Political Thought from Plato to the Present_, M. J. Harmon, New York: McGraw-Hill, 196–215.
+* Hegmann, Horst, 1994, _Politischer Individualismus: die Rekonstruktion einer Sozialtheorie unter Bezugnahme auf Machiavelli, Bodin und Hobbes_, Berlin: Duncker & Humblot.
+* Heller, Henry, 1994, “Bodin on Slavery and Primitive Accumulation”, _The Sixteenth Century Journal_, 25(1): 53–65.
+* Herrero Sanchez, Manuel, 2009, “El padre Mariana y el tiranicidio”, _Torre de los Lujanes_, 65: 103–121.
+* Holt, Mack P., 1986, _The Duke of Anjou and the Political Struggle during the Wars of Religion_, Cambridge: Cambridge University Press.
+* Houllemare, Marie, 2011, _Politique de la parole: le Parlement de Paris au XVIe siècle_, Genève: Droz.
+* Isnardi Parente, Margherita, 2008, _Rinascimento politico in Europa_, Studi raccolti da D. Quaglioni e P. Carta, Padova: Cedam.
+* Jacobsen, Mogens Chrom, 2000, _J. Bodin et le dilemme de la philosophie politique moderne_, Copenhagen: Museum Tusculanum Press.
+* Jostock, Ingeborg, 2007a, _La censure négociée: le contrôle du livre à Genève, 1560–1625_, Genève: Droz.
+* –––, 2007b, “Réviser Bodin: l’édition genevoise de la _République_”, in his _La censure négociée._ _Le contrôle du livre à Genève, 1560–1625_, Genève: Droz, 208–212.
+* Jouanna, Arlette, 2006, “Capituler avec son prince: la question de la contractualisation de la loi au XVIe siècle”, in _“Et de sa bouche sortait un glaive”: les monarchomaques au XVIe siècle. Actes de la journée d’étude tenue à Tours en mai 2003_, edited by Paul-Alexis Mellet, Genève: Droz, 131–143
+* King, Preston, 1999, _The Ideology of Order: A Comparative Analysis of J. Bodin and Thomas Hobbes_, London: F. Cass.
+* Krause, Virginia, 2013, “Listening to Witches: Bodin’s Use of Confession in _De la Démonomanie des Sorciers_”, in Lloyd, ed., 2013, 97–116.
+* Krulic, Brigitte, ed., 2010, _Raison(s) d’état(s) en Europe: traditions, usages, recompositions_, New York: Peter Lang.
+* Lassabatère, Thierry, 2010, “Pouvoir royal et bien commun chez Eustache Deschamps, Nicolas de Herberay et Jean Bodin: une chaîne de pensée entre Moyen âge et Renaissance”, in _Pouvoir d’un seul et bien commun (VIe-XVIe siècles): actes du colloque du 19 décembre 2008, Université Paris-Ouest Nanterre_, edited by Frank Collard, _Revue française d’histoire et d’idées politiques_, 32: 395–410.
+* Lazzarino del Grosso, Anna Maria, 1988, “Nobiltà e _roture_ nel pensiero di Jean Bodin” in _Gesellschaftgeschichte_\*. Festschrift für Karls Bosl zum 80.\* _Geburtstag_, II, Ferdinand Seibt Hrsg., München: Oldenburg, 131–148.
+* –––, 2002, “La _Respublica Hebraeorum_ come modello politico ‘scientifico’ nella _Methodus_ di Jean Bodin”, _Il pensiero politico_, 35: 382–398.
+* –––, 2004, _Bodin e la critica della democrazia_, Napoli: Istituto Suor Orsola Benincasa.
+* –––, 2005, “Jean Bodin e il problema del potere”, in _Il potere come problema nella letteratura politica della prima Età moderna_, S. Testoni Binetti ed., Firenze: Centro Editoriale Toscano, 91–112.
+* –––, 2007, “Le Magistrature in Bodin”, _Il pensiero politico_, 40: 394–409.
+* Lee, Daniel, 2013, “ ‘Office is a Thing Borrowed’: Jean Bodin on Offices and Seigneurial Government”, _Political Theory_, 41, 3: 409–440.
+* –––, 2016, “The Roman Law Foundations of Bodin’s Early Doctrine of Sovereignty”, ch. 5; “Jean Bodin, Popular Sovereignty, and Constitutional Government”, ch. 6, in his _Popular Sovereignty in Early Modern Constitutional Thought_, Oxford: Oxford University Press, 159–224.
+* Le Thiec, G., 2004, “L’Empire ottoman, modèle de monarchie seigneuriale dans l’œuvre de Bodin”, in _L’œuvre de Jean Bodin_, éd. G.-A. Pérouse _et al_., Paris: H. Champion, 55–77.
+* Letrouit, Jean, 1995, “Jean Bodin, auteur du _Colloquium Heptaplomeres_”, _La lettre clandestine_, 4: 38–45.
+* Levron, Jacques, 1948, “Jean Bodin, Sieur de Saint-Amand ou Jean Bodin, originaire de Saint-Amand,” _Bibliothèque d’humanisme et Renaissance_, 10: 69–76 .
+* –––, 1950, _Jean Bodin et sa famille. Textes et commentaires_, Angers: H. Siraudeau.
+* Lewis, J. U., 2006, “Jean Bodin’s ‘Logic of Sovereignty’”, _Political Studies_, 16: 206–222.
+* Lloyd, Howell A., 1991, “Sovereignty: Bodin, Hobbes, Rousseau,” _Revue Internationale de philosophie_, 45, 179, 353–379.
+* ––– ed., 2013, _The Reception of Bodin_, Leiden, Boston: Brill.
+* –––, 2017, _Jean Bodin_. ‘_This Pre-eminent Man of France_’. _An Intellectual Biography_, Oxford: Oxford University Press.
+* Lutfalla, M., 2004, “Inflation et endettement: l’éternelle actualité de Jean Bodin”, In _L’œuvre de Jean Bodin_, éd. G.-A. Pérouse _et al_., Paris: H. Champion 285–295.
 * Machielsen, Jan, 2013, “Bodin in the Netherlands”, in Lloyd, ed., 2013, 157–192.
-* Malcolm, Noel, 2006, “Jean Bodin and the Authorship of the *Colloquium Heptaplomeres*,” *Journal of the Warburg and Courtauld Institutes*, 69: 95–150.
+* Malcolm, Noel, 2006, “Jean Bodin and the Authorship of the _Colloquium Heptaplomeres_,” _Journal of the Warburg and Courtauld Institutes_, 69: 95–150.
 * Marabuto, Madeleine, 1963, “Théodore de Bèze et Jean Boucher: théoriciens de la résistance à la tyrannie”, Gagny: S. et O.
 * –––, 1967, “Les théories politiques des monarchomaques français”, thèse de droit, 2 vols, Université de Paris II.
-* Marocco Stuardi, Donatella, 2006, *La République di Jean Bodin: sovranità, governo, giustizia*, Milano: Franco Angeli.
-* Mayer, Jacob Peter, ed., 1979, *Fundamental Studies on Jean Bodin*, New York: Arno Press.
-* Melani, Igor, 2006, *Il tribunale della storia. leggere la* Methodus *di Jean Bodin*, Firenze: Olschki.
-* –––, 2012, “*De* *rebus singulis rectius judicare*. Usi della storia, antropologia politica, formazione del funzionario nella *Methodus* di Jean Bodin”, in *Storici antichi e storici moderni nella* Methodus *di Jean Bodin*, Giuseppe Zecchini e Alessandro Galimberti ed., Milano: Vita e Pensiero, 133–172.
-* Mendras, Henri, 1999, “Le ‘mal de Bodin’. À la recherche d’une souveraineté perdue”, *Le Débat*, 105: 71–89.
-* Mesnard, P., 1929, “La pensée religieuse de Bodin,” *Revue du seizième siècle*, 16: 77–121.
-* –––, 1936, *L’essor de la philosophie politique au XVIe siècle*, Paris: Boivin, 1936 (reprint: 1977).
-* Miglietti, Sara, 2004, \*“\*Presenze boeziane nel *Colloquium Heptaplomeres* di Jean Bodin”, *Rinascimento*, 44: 273–295.
-* –––, 2010, “Amitié, harmonie et paix politique chez Aristote et Jean Bodin”, *Asterion*, 7, Lyon, ENS Lettres et Sciences humaines (online journal).
-* ––– (ed.), 2013, J. Bodin, *Methodus ad facilem historiarum congnitione*, edizione, introduzione e commento, Pisa: Edizioni della Normale.
-* –––, 2013, “Reading from the Margins: Some Insights into the Early Reception of Bodin’s *Methodus*”, in Lloyd, ed., 2013, 193–218.
-* Mittica, Paola, and Vida, Silvia, 2001, “Dispotismo e politica in Aristotele”, in *Dispotismo. Genesi e sviluppi di un concetto filosofico-politico*, Domenico Felice ed., tomo I, Napoli: Liguori, 1–32.
-* Moreau-Reibel, Jean, 1933, *J. Bodin et le Droit public comparé dans ses rapports avec la philosophie de l’histoire*, Paris, Vrin.
-* –––, 1935, “J. Bodin et la Ligue d’après des lettres inédites,” *Humanisme et Renaissance*, 2: 425–436.
-* –––, 1950, *Le droit de société interhumaine et le* ‘*jus gentium*’: *essai sur les origines et le développement des notions jusqu’à Grotius*, Leiden, Boston: Brill, 2008 (London: Martinus Nijhoff, 1950).
-* Mosse, George Lachman, 1948, “The Influence of Jean Bodin’s *Republic* on English Political Thought”, *Medievalia et humanistica*, 5: 73–83.
-* Nadeau, Christian, 2005, “Les constitutionalistes français face au problème de la constitution mixte: Claude de Seyssel et Jean Bodin”, in *Le Gouvernement mixte.* *De l’idéal politique au monstre constitutionnel en Europe (XIIIe – XVIIe siècle)*, Marie-Gaille-Nikodimov éd., Publications de l’Université de Saint-Étienne.
-* Naef, Henri, 1946, “La jeunesse de Jean Bodin, ou les conversions oubliées,” *Bibliothèque d’humanisme et Renaissance*, 8: 137–155.
-* Nelson, Eric, 2004, *The Greek Tradition in Republican Thought*, Cambridge: Cambridge University Press.
-* Opitz-Belakhal, Claudia, 2006, *Das Universum des Jean Bodin: Staatsbildung, Macht und Geschlecht im 16. Jahrhundert*, Frankfurt am Main, New York: Campus.
-* –––, 2007, ‘Jean Bodin, Idee und Interesse’, in *Politische Ideen und Gesellschaftstheorien seit der frühen Neuzeit*, hrsg. by Helmut Reinalter, Wien: Braumüller, 115–132.
-* –––, 2008, “Der Magistrat als Hexenjäger. Hexenverfolgung und staatliche Ordnung bei Jean Bodin”, in *Hexenprozess und Staatsbildung/Witch-Trials and State-Building*, hrsg. Johannes Dillinger und Jurgen Michel Schmidt, Bielefeld: Verlag für Regionalgeschichte, 41–58.
-* Paganini, Gianni, 2013, “La ”Civil Conversazione“ nell’epoca delle Guerre di religione: Il *Colloquium heptaplomeres* di Jean Bodin”, in *L’antidoto di Mercurio. La “civil conversazione*” *tra Rinascimento ed età moderna*, a cura di Nicola Panichi, Firenze: Leo S. Olschki Editore.
-* Panichi, Nicola, 2004, “Danaé et Jupiter: de la politique à l’‘oeconomie politique’: Jean Bodin et Montchrestien”, in *L’œuvre de Jean Bodin*, éd. G.-A. Pérouse *et al*., Paris: H. Champion, 169–206.
-* Pantin, Isabelle, 2009, “Le *Colloquium heptaplomeres* et sa cosmologie. Le problème de la cohérence du texte,” in Faltenbacher, ed., 2009, 185–207.
-* Parinetto, Luigi, 2002, \*L’inquisitore libertino: discorso sulla tolleranza religiosa e sull’ateismo: a proposito dell’\*Heptaplomeres *di Jean Bodin*, Milano: Terziari.
-* Périgot, Béatrice, 2004, “La notion de ‘République’ chez Bodin”, *L’œuvre de Jean Bodin*, éd. G.-A. Pérouse *et al*., Paris, 39–53.
-* Petris, Loris, 2002, “*De pace*. Autour d’un inédit de Michel de l’Hospital: le magistrat et la ‘guerre juste’”, *Bibliothèque d’humanisme et Renaissance*, 64: 327–346.
-* Piano Mortari, Vincenzo, 1962, *Diritto romano e diritto nazionale in Francia nel secolo XVI*, Milano: Giuffré.
-* –––, 1991, “Aspetti della metodologia giuridica di J. Bodin”, in his *Itinera juris. Studi di storia giuridica dell’ età moderna*, Napoli: Jovene, 145–172.
-* Quaglioni, D., 1992, *I limiti della sovranità: il pensiero di J. Bodin nella cultura politica e giuridica dell’età moderna*, Padova: Cedam.
-* –––, 2003, *À une déesse inconnue: la conception pré-moderne de la justice*, trad. M.-D. Couzinet, Paris: Publications de la Sorbonne.
-* –––, 2010, “Pour une histoire du droit de guerre au début de l’âge moderne: Bodin, Gentili, Grotius”, in *Justice et armes au XVIe siècle*, éd. D. Quaglioni et J.-C. Zancarini, *Laboratoire italien*, 10: 9–20.
+* Marocco Stuardi, Donatella, 2006, _La République di Jean Bodin: sovranità, governo, giustizia_, Milano: Franco Angeli.
+* Mayer, Jacob Peter, ed., 1979, _Fundamental Studies on Jean Bodin_, New York: Arno Press.
+* Melani, Igor, 2006, _Il tribunale della storia. leggere la_ Methodus _di Jean Bodin_, Firenze: Olschki.
+* –––, 2012, “_De_ _rebus singulis rectius judicare_. Usi della storia, antropologia politica, formazione del funzionario nella _Methodus_ di Jean Bodin”, in _Storici antichi e storici moderni nella_ Methodus _di Jean Bodin_, Giuseppe Zecchini e Alessandro Galimberti ed., Milano: Vita e Pensiero, 133–172.
+* Mendras, Henri, 1999, “Le ‘mal de Bodin’. À la recherche d’une souveraineté perdue”, _Le Débat_, 105: 71–89.
+* Mesnard, P., 1929, “La pensée religieuse de Bodin,” _Revue du seizième siècle_, 16: 77–121.
+* –––, 1936, _L’essor de la philosophie politique au XVIe siècle_, Paris: Boivin, 1936 (reprint: 1977).
+* Miglietti, Sara, 2004, \*“\*Presenze boeziane nel _Colloquium Heptaplomeres_ di Jean Bodin”, _Rinascimento_, 44: 273–295.
+* –––, 2010, “Amitié, harmonie et paix politique chez Aristote et Jean Bodin”, _Asterion_, 7, Lyon, ENS Lettres et Sciences humaines (online journal).
+* ––– (ed.), 2013, J. Bodin, _Methodus ad facilem historiarum congnitione_, edizione, introduzione e commento, Pisa: Edizioni della Normale.
+* –––, 2013, “Reading from the Margins: Some Insights into the Early Reception of Bodin’s _Methodus_”, in Lloyd, ed., 2013, 193–218.
+* Mittica, Paola, and Vida, Silvia, 2001, “Dispotismo e politica in Aristotele”, in _Dispotismo. Genesi e sviluppi di un concetto filosofico-politico_, Domenico Felice ed., tomo I, Napoli: Liguori, 1–32.
+* Moreau-Reibel, Jean, 1933, _J. Bodin et le Droit public comparé dans ses rapports avec la philosophie de l’histoire_, Paris, Vrin.
+* –––, 1935, “J. Bodin et la Ligue d’après des lettres inédites,” _Humanisme et Renaissance_, 2: 425–436.
+* –––, 1950, _Le droit de société interhumaine et le_ ‘_jus gentium_’: _essai sur les origines et le développement des notions jusqu’à Grotius_, Leiden, Boston: Brill, 2008 (London: Martinus Nijhoff, 1950).
+* Mosse, George Lachman, 1948, “The Influence of Jean Bodin’s _Republic_ on English Political Thought”, _Medievalia et humanistica_, 5: 73–83.
+* Nadeau, Christian, 2005, “Les constitutionalistes français face au problème de la constitution mixte: Claude de Seyssel et Jean Bodin”, in _Le Gouvernement mixte._ _De l’idéal politique au monstre constitutionnel en Europe (XIIIe – XVIIe siècle)_, Marie-Gaille-Nikodimov éd., Publications de l’Université de Saint-Étienne.
+* Naef, Henri, 1946, “La jeunesse de Jean Bodin, ou les conversions oubliées,” _Bibliothèque d’humanisme et Renaissance_, 8: 137–155.
+* Nelson, Eric, 2004, _The Greek Tradition in Republican Thought_, Cambridge: Cambridge University Press.
+* Opitz-Belakhal, Claudia, 2006, _Das Universum des Jean Bodin: Staatsbildung, Macht und Geschlecht im 16. Jahrhundert_, Frankfurt am Main, New York: Campus.
+* –––, 2007, ‘Jean Bodin, Idee und Interesse’, in _Politische Ideen und Gesellschaftstheorien seit der frühen Neuzeit_, hrsg. by Helmut Reinalter, Wien: Braumüller, 115–132.
+* –––, 2008, “Der Magistrat als Hexenjäger. Hexenverfolgung und staatliche Ordnung bei Jean Bodin”, in _Hexenprozess und Staatsbildung/Witch-Trials and State-Building_, hrsg. Johannes Dillinger und Jurgen Michel Schmidt, Bielefeld: Verlag für Regionalgeschichte, 41–58.
+* Paganini, Gianni, 2013, “La ”Civil Conversazione“ nell’epoca delle Guerre di religione: Il _Colloquium heptaplomeres_ di Jean Bodin”, in _L’antidoto di Mercurio. La “civil conversazione_” _tra Rinascimento ed età moderna_, a cura di Nicola Panichi, Firenze: Leo S. Olschki Editore.
+* Panichi, Nicola, 2004, “Danaé et Jupiter: de la politique à l’‘oeconomie politique’: Jean Bodin et Montchrestien”, in _L’œuvre de Jean Bodin_, éd. G.-A. Pérouse _et al_., Paris: H. Champion, 169–206.
+* Pantin, Isabelle, 2009, “Le _Colloquium heptaplomeres_ et sa cosmologie. Le problème de la cohérence du texte,” in Faltenbacher, ed., 2009, 185–207.
+* Parinetto, Luigi, 2002, \*L’inquisitore libertino: discorso sulla tolleranza religiosa e sull’ateismo: a proposito dell’\*Heptaplomeres _di Jean Bodin_, Milano: Terziari.
+* Périgot, Béatrice, 2004, “La notion de ‘République’ chez Bodin”, _L’œuvre de Jean Bodin_, éd. G.-A. Pérouse _et al_., Paris, 39–53.
+* Petris, Loris, 2002, “_De pace_. Autour d’un inédit de Michel de l’Hospital: le magistrat et la ‘guerre juste’”, _Bibliothèque d’humanisme et Renaissance_, 64: 327–346.
+* Piano Mortari, Vincenzo, 1962, _Diritto romano e diritto nazionale in Francia nel secolo XVI_, Milano: Giuffré.
+* –––, 1991, “Aspetti della metodologia giuridica di J. Bodin”, in his _Itinera juris. Studi di storia giuridica dell’ età moderna_, Napoli: Jovene, 145–172.
+* Quaglioni, D., 1992, _I limiti della sovranità: il pensiero di J. Bodin nella cultura politica e giuridica dell’età moderna_, Padova: Cedam.
+* –––, 2003, _À une déesse inconnue: la conception pré-moderne de la justice_, trad. M.-D. Couzinet, Paris: Publications de la Sorbonne.
+* –––, 2010, “Pour une histoire du droit de guerre au début de l’âge moderne: Bodin, Gentili, Grotius”, in _Justice et armes au XVIe siècle_, éd. D. Quaglioni et J.-C. Zancarini, _Laboratoire italien_, 10: 9–20.
 * –––, 2013, “The Italian ‘Readers’ of Bodin, 17th–18th Centuries: The Italian ‘Readers’ out of Italy – Alberico Gentili (1522–1608)”, in Lloyd, ed., 2013, 371–386.
-* Quarta, Cristina, 2004, *Ayrault e Bodin: diritto, famiglia e formazione morale nel XVI secolo*, Manduria: P. Lacaita.
-* Reinhardt, Nicole, 2007, “Juan de Mariana: Bibelexegese und Tyrannenmord”, in *Die Bibel als politisches Argument: Voraussetzungen und Folgen biblischer Herrschaftslegitimation in der Vormoderne*, hrsg. by A. Peçar und K. Trampedach, München: Oldenbourg, 273–94.
-* Reulos, Michel, 1970, “Une Institution Romaine vue par un auteur du XVIe siècle: *la censure* dans Jean Bodin”, *Études offertes à Jean Maqueron*, Aix-en-Provence: Faculté de droit et des sciences économiques, 585–590.
-* –––, 1982, “Le droit face à la notion de souveraineté dégagée par Jean Bodin”, in *Diritto e potere nella storia europea*, Atti del IV Congresso Internazionale della Società Italiana di Storia del diritto in onore di Bruno Paradisi, Firenze: Olschki, 451–462.
-* –––, 1984, “Le chapitre VII du livre III de *La République* de Jean Bodin. Des corps, collèges et communautés”, in *La littérature de la Renaissance. Mélanges d’histoire et de critique littéraires offerts à Henri Weber*, Marguerite Soulié éd., Genève: Slatkine, 263–276.
-* Reynolds, Beatrice, 1931, *Proponents of Limited Monarchy in Sixteenth Century France: Francis Hotman and Jean Bodin*, Ph.D. dissertaion, Columbia University.
-* Ribeiro de Barros, Alberto, 2003, “Bodin et le projet d’une science du droit: la *Juris universi distributio* (1578)”, *Nouvelle revue du XVIe siècle*, 21: 57–70.
-* Richart, Antoine, 1869, *Mémoires sur la Ligue dans le Laonnois*, Laon: La Société académique de Laon.
-* Richter Melvin, and Burke, Martin J, eds., 2012, *Why Concepts Matter, Translating Social and Political Thought*, Leiden, Boston: Brill.
-* Rose, P.L., 1980, *J. Bodin and the Grand God of Nature.* *The Moral and Religious Universe of a Judaiser*, Genève: Droz.
-* –––, 1978, “The Politique and the Prophet: Bodin and the Catholic League 1589–1594”, *The Historical Journal*, 21(4): 783–808.
-* Rossin, Nicolai, 2003, *Soveränität zwischen Macht und Recht.* *Probleme der Lehren politischer Souveränität in der frühen Neuzeit am Beispiel von Machiavelli, Bodin und Hobbes*, Hamburg: Kovac.
-* Salmon, John Hearsey McMillan, 1973, “François Hotman and Jean Bodin: The Dilemma of Sixteenth Century French Constitutionalism”, *History Today*, 23(11): 801–809.
-* –––, 1987, “Bodin and the Monarchomachs”, in his *Renaissance and Revolt. Essays in the Intellectual and Social History of the Early Modern France*, Cambridge: Cambridge U. P., 119–135.
-* –––, 2007, “France”, in *European Political Thought 1450–1700*, ed. by H. A. Lloyd, G. Burgess and S. Hodson, New Haven and London: Yale U. P., 458–497.
-* Scapparone, Elisabetta, 2001, “Concezioni dell’anima: Ficino e Bodin”, *Rinascimento*, 41: 71–91.
-* Scattola, Merio, 1996, “Il concetto di tirannide nel pensiero politico tedesco della prima età moderna”, In *Filosofia politica*, 10: 391–420.
-* –––, 1999, “Ordine della giustizia e dottrina della sovranità in Jean Bodin”, in *Il potere. Per la storia della filosofia politica moderna*, Giuseppe Duso ed., Roma: Carocci, 61–75.
-* –––, 2015a, “*Regnum, tyrannis, dominatus*: l’aristotelismo politico tedesco del primo Seicento di fronte al problema del potere assoluto”, *Storia del pensiero politico*, 2015/3: 355–378.
-* –––, 2015b, “Diritto naturale e diritto di resistenza nella polemistica luterana di metà cinquecento”, in *Revista* *crítica de Derecho Canónico Pluriconfesional*, n. 2: 83–108.
-* –––, 2017, “Before and after Natural Law”, in *Early Modern Natural Law Theories. Contexts and Strategies in the Early Enlightenment*, ed. by T. J. Hochstrasser and P. Schröder, Dordrecht: Springer International Publishing AG.
-* Schiffman, Zachary Sayre, 2000, “Jean Bodin, Roman Law, and the Renaissance Conception of the Past”, in *Cultural Visions: Essays in the History of Culture*, edited by Penny Schine Gold and Benjamin C. Sax, Amsterdam: Rodopi, 271–287.
-* Schüz, Jonathan, 2013, “Bodin’s *Démonomanie* in the German Vernacular”, in Lloyd, ed., 2013, 237–256.
-* Sciacca, Enzo, 2005, *Principati e repubbliche: Machiavelli, politiche e il pensiero francese del Cinquecento*, Firenze: Editoriale Toscano.
-* Sebastián Piana, Ricardo, 2009, “Jean Bodin: retomando su pensamiento en torno a la crisis de la soberanía”, *Revista de derecho y ciencias penales*, 12: 45–58.
-* Skinner, Quentin, 1978, *The Foundations of Modern Political Thought*, 2 vols, Cambridge: Cambridge University Press.
-* –––, 2002, *Visions of Politics*, vol. I: *Regarding Method*, Cambridge: Cambridge University Press.
-* Smith, Constance I., 1963, “Filmer, and the Knolles Translation of Bodin”, *The Philosophical Quarterly*, 13(52): 248–252.
-* Spitz, Jean-Fabian, 1998, *Bodin* *et la souveraineté*, Paris: P.U.F.
-* Straumann, Benjamin, 2016, “Jean Bodin and the Fall of Roman Republic”, in his *Crisis and Constitutionalism: Roman Political Thought from the Fall of the Republic to the Age of Revolution*, New York: Oxford University Press, 278–302.
-* Suggi, Andrea, 2005, *Sovranità e armonia. La tolleranza religiosa nel «Colloquium Heptaplomeres» di Jean Bodin*, Roma: Edizioni di Storia e Letteratura.
-* –––, 2006, ed., J. Bodin, *La Demonomania de gli stregoni, cioè furori et malie de’ demoni col mezo de gli Huomini: divisa in libri IIII di Gio. Bodino Francese, Tradotta dal K. Hercole Cato, In Venetia, Presso Aldo, 1587*, introduzione e riproduzione anastatica, Roma: Edizioni di Storia e Letteratura.
-* –––, 2007a, “Una nota su religione e politica in Bodin. Tra il Paradoxon e la Lettre de Monsieur Bodin”, *Rinascimento*, 47: 347–365.
-* –––, 2007b, “Educazione umanistica e pace religiosa nella ”Oratio de instituenda in *Republica* juventute“ di Jean Bodin”, *Bruniana & Campanelliana*, 13: 521–536.
-* ––– (ed.), 2009, J. Bodin, *Paradosso sulla virtù*, Milano: Nino Aragno. Latin Text and Italian Translation in bilingual Edition of *Jo. Bodini Paradoxon, quod nec virtus ulla mediocritate, nec summum hominis bonum in virtutibus actione consistere possit*, Parisiis, excudebat D. Duvallius, 1596.
-* Tenenti, Alberto, 2001, “Il doppio volto della storia comparata nella ”Methodus“ di Jean Bodin”, *Rivista di letterature moderne e comparate*, 54: 3–16.
-* Terrel, Jean, 2001, *Les théories du pacte social: droit naturel, souveraineté et contrat de Bodin à Rousseau*, Paris: Seuil.
-* Thermes, Diana, 2002, *Ripensare Bodin: pubblico e privato nel cittadino premoderno*, Roma: Philos.
-* Thiveaud, Emmanuel, 2004, “Finances et souveraineté dans *les Six Livres de la République* de Bodin”, in *L’Oeuvre de Jean Bodin*, éd. G.-A. Pérouse *et al.*, Paris, 237–257.
-* Turchetti, M., 1991, “Religious Concord and Political Tolerance in Sixteenth- and Seventeenth-Century France”, *The Sixteenth-Century Journal*, 22: 15-25.
-* –––, 1993, “Une question mal posée: la qualification de perpétuel et irrévocable appliquée à l’Édit de Nantes (1598)”, *Bulletin de la Société de l’histoire du protestantisme français*, 139: 42–78.
-* –––, 1999, “Middle Parties in France during the Wars of Religion”, in *Reformation, Revolt and Civil War in France and the Netherlands, 1555–1585*, Amsterdam: Royal Netherlands Academy of Arts and Sciences, 165–183.
-* –––, 2001, “Une question mal posée: la ”tolérance“ dans les édits de Janvier (1562) et d’Amboise (1563). Les premiers commentaires et interprétations: Jean Bégat”, in *La formazione storica della alterità*. *Studi di storia della tolleranza nell’étà moderna offerti a Antonio Rotondò*, promossi da Henry Méchoulan, Richard H. Popkin *et al*., vol. 1: *Secolo XVI*, Firenze: Olschki, 245–294.
-* –––, 2002, “Une question mal posée: l’origine et l’identité des ‘Politiques’ au temps des guerres de religion”, in *De Michel de l’Hospital à l’Édit de Nantes*, éd. Thierry Wanegffelen, Clermont-Ferrand: P. U. Blaise-Pascal, 357-390.
-* –––, 2007, “Jean Bodin théoricien de la souveraineté, non de l’absolutisme”, in *Chiesa cattolica e mondo moderno, Scritti in onore di Paolo Prodi*, a cura di Adriano Prosepri *et al*., Bologna: Il Mulino, 437–455.
-* –––, 2008, “Despotism and Tyranny. Unmasking a Tenacious Confusion,” *European Journal of Political Theory*, 7: 159–182.
-* –––, 2009, “The Contribution of Calvin and Calvinism to the Birth of Modern Democracy”, in *John Calvin’s Impact on Church and Society, 1509–2009*, edited by Martin Ernst Hirzel and Martin Sallmann, Grand Rapids, Michigan: Eerdmans Publishing Co., 192–217.
-* –––, 2012, “Bodin as Self-Translator of his *République*: Why the Omission of ”*Politicus*“ and Allied Terms from the Latin Version”, in *Why Concepts Matter*, edited by M. Richter, Leiden, Boston: Brill, 109–118.
-* –––, 2013, *Tyrannie et tyrannicide de l’Antiquité à nos jours*, 2nd ed., Paris: Classiques Garnier (first edition, 2001).
-* –––, 2018, “La leçon de Jean Bodin (1530–1596) sur la distinction « vitale »,, oubliée, entre despotisme et tyrannie”, in *Le prince, le despote, le tyran. Figures du souverain en Europe, de la Renaissance aux Lumières*, Myriam-Isabelle Ducrocq and Laïla Ghermani (eds.), Paris: Honoré Champion, 51–74.
-* Tutino, Stefania, 2007, “Huguenots, Jesuits and Tyrants: Notes on the *Vindiciae Contra Tyrannos* in Early Modern England”, *Journal of Early Modern History*, 11: 175–196.
-* –––, 2010, *Empire of Souls: Robert Bellarmine and the Christian Commonwealth*, Oxford: Oxford University Press.
+* Quarta, Cristina, 2004, _Ayrault e Bodin: diritto, famiglia e formazione morale nel XVI secolo_, Manduria: P. Lacaita.
+* Reinhardt, Nicole, 2007, “Juan de Mariana: Bibelexegese und Tyrannenmord”, in _Die Bibel als politisches Argument: Voraussetzungen und Folgen biblischer Herrschaftslegitimation in der Vormoderne_, hrsg. by A. Peçar und K. Trampedach, München: Oldenbourg, 273–94.
+* Reulos, Michel, 1970, “Une Institution Romaine vue par un auteur du XVIe siècle: _la censure_ dans Jean Bodin”, _Études offertes à Jean Maqueron_, Aix-en-Provence: Faculté de droit et des sciences économiques, 585–590.
+* –––, 1982, “Le droit face à la notion de souveraineté dégagée par Jean Bodin”, in _Diritto e potere nella storia europea_, Atti del IV Congresso Internazionale della Società Italiana di Storia del diritto in onore di Bruno Paradisi, Firenze: Olschki, 451–462.
+* –––, 1984, “Le chapitre VII du livre III de _La République_ de Jean Bodin. Des corps, collèges et communautés”, in _La littérature de la Renaissance. Mélanges d’histoire et de critique littéraires offerts à Henri Weber_, Marguerite Soulié éd., Genève: Slatkine, 263–276.
+* Reynolds, Beatrice, 1931, _Proponents of Limited Monarchy in Sixteenth Century France: Francis Hotman and Jean Bodin_, Ph.D. dissertaion, Columbia University.
+* Ribeiro de Barros, Alberto, 2003, “Bodin et le projet d’une science du droit: la _Juris universi distributio_ (1578)”, _Nouvelle revue du XVIe siècle_, 21: 57–70.
+* Richart, Antoine, 1869, _Mémoires sur la Ligue dans le Laonnois_, Laon: La Société académique de Laon.
+* Richter Melvin, and Burke, Martin J, eds., 2012, _Why Concepts Matter, Translating Social and Political Thought_, Leiden, Boston: Brill.
+* Rose, P.L., 1980, _J. Bodin and the Grand God of Nature._ _The Moral and Religious Universe of a Judaiser_, Genève: Droz.
+* –––, 1978, “The Politique and the Prophet: Bodin and the Catholic League 1589–1594”, _The Historical Journal_, 21(4): 783–808.
+* Rossin, Nicolai, 2003, _Soveränität zwischen Macht und Recht._ _Probleme der Lehren politischer Souveränität in der frühen Neuzeit am Beispiel von Machiavelli, Bodin und Hobbes_, Hamburg: Kovac.
+* Salmon, John Hearsey McMillan, 1973, “François Hotman and Jean Bodin: The Dilemma of Sixteenth Century French Constitutionalism”, _History Today_, 23(11): 801–809.
+* –––, 1987, “Bodin and the Monarchomachs”, in his _Renaissance and Revolt. Essays in the Intellectual and Social History of the Early Modern France_, Cambridge: Cambridge U. P., 119–135.
+* –––, 2007, “France”, in _European Political Thought 1450–1700_, ed. by H. A. Lloyd, G. Burgess and S. Hodson, New Haven and London: Yale U. P., 458–497.
+* Scapparone, Elisabetta, 2001, “Concezioni dell’anima: Ficino e Bodin”, _Rinascimento_, 41: 71–91.
+* Scattola, Merio, 1996, “Il concetto di tirannide nel pensiero politico tedesco della prima età moderna”, In _Filosofia politica_, 10: 391–420.
+* –––, 1999, “Ordine della giustizia e dottrina della sovranità in Jean Bodin”, in _Il potere. Per la storia della filosofia politica moderna_, Giuseppe Duso ed., Roma: Carocci, 61–75.
+* –––, 2015a, “_Regnum, tyrannis, dominatus_: l’aristotelismo politico tedesco del primo Seicento di fronte al problema del potere assoluto”, _Storia del pensiero politico_, 2015/3: 355–378.
+* –––, 2015b, “Diritto naturale e diritto di resistenza nella polemistica luterana di metà cinquecento”, in _Revista_ _crítica de Derecho Canónico Pluriconfesional_, n. 2: 83–108.
+* –––, 2017, “Before and after Natural Law”, in _Early Modern Natural Law Theories. Contexts and Strategies in the Early Enlightenment_, ed. by T. J. Hochstrasser and P. Schröder, Dordrecht: Springer International Publishing AG.
+* Schiffman, Zachary Sayre, 2000, “Jean Bodin, Roman Law, and the Renaissance Conception of the Past”, in _Cultural Visions: Essays in the History of Culture_, edited by Penny Schine Gold and Benjamin C. Sax, Amsterdam: Rodopi, 271–287.
+* Schüz, Jonathan, 2013, “Bodin’s _Démonomanie_ in the German Vernacular”, in Lloyd, ed., 2013, 237–256.
+* Sciacca, Enzo, 2005, _Principati e repubbliche: Machiavelli, politiche e il pensiero francese del Cinquecento_, Firenze: Editoriale Toscano.
+* Sebastián Piana, Ricardo, 2009, “Jean Bodin: retomando su pensamiento en torno a la crisis de la soberanía”, _Revista de derecho y ciencias penales_, 12: 45–58.
+* Skinner, Quentin, 1978, _The Foundations of Modern Political Thought_, 2 vols, Cambridge: Cambridge University Press.
+* –––, 2002, _Visions of Politics_, vol. I: _Regarding Method_, Cambridge: Cambridge University Press.
+* Smith, Constance I., 1963, “Filmer, and the Knolles Translation of Bodin”, _The Philosophical Quarterly_, 13(52): 248–252.
+* Spitz, Jean-Fabian, 1998, _Bodin_ _et la souveraineté_, Paris: P.U.F.
+* Straumann, Benjamin, 2016, “Jean Bodin and the Fall of Roman Republic”, in his _Crisis and Constitutionalism: Roman Political Thought from the Fall of the Republic to the Age of Revolution_, New York: Oxford University Press, 278–302.
+* Suggi, Andrea, 2005, _Sovranità e armonia. La tolleranza religiosa nel «Colloquium Heptaplomeres» di Jean Bodin_, Roma: Edizioni di Storia e Letteratura.
+* –––, 2006, ed., J. Bodin, _La Demonomania de gli stregoni, cioè furori et malie de’ demoni col mezo de gli Huomini: divisa in libri IIII di Gio. Bodino Francese, Tradotta dal K. Hercole Cato, In Venetia, Presso Aldo, 1587_, introduzione e riproduzione anastatica, Roma: Edizioni di Storia e Letteratura.
+* –––, 2007a, “Una nota su religione e politica in Bodin. Tra il Paradoxon e la Lettre de Monsieur Bodin”, _Rinascimento_, 47: 347–365.
+* –––, 2007b, “Educazione umanistica e pace religiosa nella ”Oratio de instituenda in _Republica_ juventute“ di Jean Bodin”, _Bruniana & Campanelliana_, 13: 521–536.
+* ––– (ed.), 2009, J. Bodin, _Paradosso sulla virtù_, Milano: Nino Aragno. Latin Text and Italian Translation in bilingual Edition of _Jo. Bodini Paradoxon, quod nec virtus ulla mediocritate, nec summum hominis bonum in virtutibus actione consistere possit_, Parisiis, excudebat D. Duvallius, 1596.
+* Tenenti, Alberto, 2001, “Il doppio volto della storia comparata nella ”Methodus“ di Jean Bodin”, _Rivista di letterature moderne e comparate_, 54: 3–16.
+* Terrel, Jean, 2001, _Les théories du pacte social: droit naturel, souveraineté et contrat de Bodin à Rousseau_, Paris: Seuil.
+* Thermes, Diana, 2002, _Ripensare Bodin: pubblico e privato nel cittadino premoderno_, Roma: Philos.
+* Thiveaud, Emmanuel, 2004, “Finances et souveraineté dans _les Six Livres de la République_ de Bodin”, in _L’Oeuvre de Jean Bodin_, éd. G.-A. Pérouse _et al._, Paris, 237–257.
+* Turchetti, M., 1991, “Religious Concord and Political Tolerance in Sixteenth- and Seventeenth-Century France”, _The Sixteenth-Century Journal_, 22: 15-25.
+* –––, 1993, “Une question mal posée: la qualification de perpétuel et irrévocable appliquée à l’Édit de Nantes (1598)”, _Bulletin de la Société de l’histoire du protestantisme français_, 139: 42–78.
+* –––, 1999, “Middle Parties in France during the Wars of Religion”, in _Reformation, Revolt and Civil War in France and the Netherlands, 1555–1585_, Amsterdam: Royal Netherlands Academy of Arts and Sciences, 165–183.
+* –––, 2001, “Une question mal posée: la ”tolérance“ dans les édits de Janvier (1562) et d’Amboise (1563). Les premiers commentaires et interprétations: Jean Bégat”, in _La formazione storica della alterità_. _Studi di storia della tolleranza nell’étà moderna offerti a Antonio Rotondò_, promossi da Henry Méchoulan, Richard H. Popkin _et al_., vol. 1: _Secolo XVI_, Firenze: Olschki, 245–294.
+* –––, 2002, “Une question mal posée: l’origine et l’identité des ‘Politiques’ au temps des guerres de religion”, in _De Michel de l’Hospital à l’Édit de Nantes_, éd. Thierry Wanegffelen, Clermont-Ferrand: P. U. Blaise-Pascal, 357-390.
+* –––, 2007, “Jean Bodin théoricien de la souveraineté, non de l’absolutisme”, in _Chiesa cattolica e mondo moderno, Scritti in onore di Paolo Prodi_, a cura di Adriano Prosepri _et al_., Bologna: Il Mulino, 437–455.
+* –––, 2008, “Despotism and Tyranny. Unmasking a Tenacious Confusion,” _European Journal of Political Theory_, 7: 159–182.
+* –––, 2009, “The Contribution of Calvin and Calvinism to the Birth of Modern Democracy”, in _John Calvin’s Impact on Church and Society, 1509–2009_, edited by Martin Ernst Hirzel and Martin Sallmann, Grand Rapids, Michigan: Eerdmans Publishing Co., 192–217.
+* –––, 2012, “Bodin as Self-Translator of his _République_: Why the Omission of ”_Politicus_“ and Allied Terms from the Latin Version”, in _Why Concepts Matter_, edited by M. Richter, Leiden, Boston: Brill, 109–118.
+* –––, 2013, _Tyrannie et tyrannicide de l’Antiquité à nos jours_, 2nd ed., Paris: Classiques Garnier (first edition, 2001).
+* –––, 2018, “La leçon de Jean Bodin (1530–1596) sur la distinction « vitale »,, oubliée, entre despotisme et tyrannie”, in _Le prince, le despote, le tyran. Figures du souverain en Europe, de la Renaissance aux Lumières_, Myriam-Isabelle Ducrocq and Laïla Ghermani (eds.), Paris: Honoré Champion, 51–74.
+* Tutino, Stefania, 2007, “Huguenots, Jesuits and Tyrants: Notes on the _Vindiciae Contra Tyrannos_ in Early Modern England”, _Journal of Early Modern History_, 11: 175–196.
+* –––, 2010, _Empire of Souls: Robert Bellarmine and the Christian Commonwealth_, Oxford: Oxford University Press.
 * Ulph, Owen, 2006, “Jean Bodin and the Estates-General of 1576”, in Franklin, ed., 2006, 201–209.
-* Valente, Michaela, 2012, “Storia e politica. Bodin e gli storici coevi della *Methodus*”, in *Storici antichi e storici moderni nella* Methodus *di Jean Bodin*, G. Zecchini ed., Milano: Vita e Pensiero, 109–132.
+* Valente, Michaela, 2012, “Storia e politica. Bodin e gli storici coevi della _Methodus_”, in _Storici antichi e storici moderni nella_ Methodus _di Jean Bodin_, G. Zecchini ed., Milano: Vita e Pensiero, 109–132.
 * –––, 2013, “The Works of Bodin under the Lens of Roman Theologians and Inquisitors”, in Lloyd, ed., 2013, 219–236.
-* Vasoli, Cesare, 2008, *Armonia e giustizia: studi sulle idee filosofiche di Jean Bodin*, edited by A. E. Baldini: Firenze, Olschki.
-* Villey, Michel, 1970, “La justice harmonique selon Bodin”, *Archives de philosophie du droit*, 15: 301–315.
-* Weber, Henri, 1986, “Utilisation de la *Politique* d’Aristote dans la *République* de Bodin”, in his *A travers le XVIe siècle*, vol. 2: *Histoire des idées*, Paris: Nizet, 137–146.
-* Weber, Hermann, 1987, “Jean Bodin et la vérité historique”, *Certitudes et incertitudes de l’histoire.* Trois colloques sur l’Histoire de l’Institut collégial européen, éd. Gilbert Gadoffre, Paris: Presses Universitaires de France, 77–86.
-* Weill, Georges J., 1891, *Les théories sur le pouvoir royal en France pendant les guerres de religion*, Paris (reprint 1971).
-* Weiss, Nathaniel, 1889, *La Chambre ardente, étude sur la liberté de conscience en France sous François Ier et Henri II, 1540–1550, suivie d’environ 5000 arrêts inédits, rendus par le Parlement de Paris de mai 1547 à mars 1550*, Paris: Fischbacher.
-* –––, 1923, “Huguenots emprisonnés à la Conciergerie du Palais de Paris en mars 1569”, *Bulletin de la Société de l’Histoire du Protestantisme Français*, 21: 87–89.
-* Wier, Jean, 1579, *Histoires, disputes et discours des illusions et impostures des diables, des magiciens infâmes, sorcières et empoisonneurs: des ensorceléz et demoniaques et de la guerision d’iceux; item de la punition que meritent les magiciens, les empoissoneurs, et les sorcieres; le tout compris en six libres augmentez de moitié en cest derniere edition. Deux dialogues \[de Thomas Erastus] … touchant le pouvoir des sorcieres: et de la punition qu’elles meritent*, Paris, Jacques Chouet (Latin ed., Basel, 1568).
-* Wilson, John F., 2008, “Royal Monarchy: ‘Absolute’ Sovereignty in Jean Bodin’s *Six Books of the Republic*”, *Interpretation: a Journal of Political Philosophy*, 35, 241–264.
-* Wolff, Jacques, 1985, “Les finances publiques chez Bodin et Boisguilbert”, in *Mélanges offerts à Max Cluseau*, publiés par l’ESC Toulouse et l’Université des Sciences Sociales, Toulouse: Presses I.E.P., 699–711.
-* Wolodkiewicz, Witold, 1985, “Bodin et le droit privé romain”, in *Jean Bodin. Actes du colloque interdisciplinaire d’Angers (24–27 mai 1984)*, vol. 1, Angers, 303–312.
-* Wootton, David, 2002, “Pseudo-Bodin’s *Colloquium Heptaplomeres* and Bodin’s *Démonomanie*”, in Faltenbacher, ed., 2002, 175–225.
+* Vasoli, Cesare, 2008, _Armonia e giustizia: studi sulle idee filosofiche di Jean Bodin_, edited by A. E. Baldini: Firenze, Olschki.
+* Villey, Michel, 1970, “La justice harmonique selon Bodin”, _Archives de philosophie du droit_, 15: 301–315.
+* Weber, Henri, 1986, “Utilisation de la _Politique_ d’Aristote dans la _République_ de Bodin”, in his _A travers le XVIe siècle_, vol. 2: _Histoire des idées_, Paris: Nizet, 137–146.
+* Weber, Hermann, 1987, “Jean Bodin et la vérité historique”, _Certitudes et incertitudes de l’histoire._ Trois colloques sur l’Histoire de l’Institut collégial européen, éd. Gilbert Gadoffre, Paris: Presses Universitaires de France, 77–86.
+* Weill, Georges J., 1891, _Les théories sur le pouvoir royal en France pendant les guerres de religion_, Paris (reprint 1971).
+* Weiss, Nathaniel, 1889, _La Chambre ardente, étude sur la liberté de conscience en France sous François Ier et Henri II, 1540–1550, suivie d’environ 5000 arrêts inédits, rendus par le Parlement de Paris de mai 1547 à mars 1550_, Paris: Fischbacher.
+* –––, 1923, “Huguenots emprisonnés à la Conciergerie du Palais de Paris en mars 1569”, _Bulletin de la Société de l’Histoire du Protestantisme Français_, 21: 87–89.
+* Wier, Jean, 1579, _Histoires, disputes et discours des illusions et impostures des diables, des magiciens infâmes, sorcières et empoisonneurs: des ensorceléz et demoniaques et de la guerision d’iceux; item de la punition que meritent les magiciens, les empoissoneurs, et les sorcieres; le tout compris en six libres augmentez de moitié en cest derniere edition. Deux dialogues \[de Thomas Erastus] … touchant le pouvoir des sorcieres: et de la punition qu’elles meritent_, Paris, Jacques Chouet (Latin ed., Basel, 1568).
+* Wilson, John F., 2008, “Royal Monarchy: ‘Absolute’ Sovereignty in Jean Bodin’s _Six Books of the Republic_”, _Interpretation: a Journal of Political Philosophy_, 35, 241–264.
+* Wolff, Jacques, 1985, “Les finances publiques chez Bodin et Boisguilbert”, in _Mélanges offerts à Max Cluseau_, publiés par l’ESC Toulouse et l’Université des Sciences Sociales, Toulouse: Presses I.E.P., 699–711.
+* Wolodkiewicz, Witold, 1985, “Bodin et le droit privé romain”, in _Jean Bodin. Actes du colloque interdisciplinaire d’Angers (24–27 mai 1984)_, vol. 1, Angers, 303–312.
+* Wootton, David, 2002, “Pseudo-Bodin’s _Colloquium Heptaplomeres_ and Bodin’s _Démonomanie_”, in Faltenbacher, ed., 2002, 175–225.
 
 ## Academic Tools
 
@@ -545,8 +545,8 @@ For translations, see: (English) *The Six Books of a Commonwealth*, edited by K.
 ## Other Internet Resources
 
 * [Bodin Project](https://projects.iq.harvard.edu/bodinproject), originally based at the University of Hull, now at Harvard.
-* [*Six Books of the Commonwealth by Jean Bodin*](https://web.archive.org/web/20170705212304/http://www.constitution.org/bodin/bodin.txt), Abridged and translated by M. J. Tooley, 1955, Oxford: Basil Blackwell.
-* [*Colloquium Heptaplomeres*](http://www.gutenberg.org/etext/17859), Project Gutenberg.
+* [_Six Books of the Commonwealth by Jean Bodin_](https://web.archive.org/web/20170705212304/http://www.constitution.org/bodin/bodin.txt), Abridged and translated by M. J. Tooley, 1955, Oxford: Basil Blackwell.
+* [_Colloquium Heptaplomeres_](http://www.gutenberg.org/etext/17859), Project Gutenberg.
 
 ## Related Entries
 

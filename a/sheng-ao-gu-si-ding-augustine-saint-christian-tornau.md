@@ -1,12 +1,12 @@
 # 圣奥古斯丁 Augustine, Saint (Christian Tornau)
 
-*首次发布于 2009 年 9 月 8 日；实质性修订于 2021 年 10 月 26 日*
+_首次发布于 2009 年 9 月 8 日；实质性修订于 2021 年 10 月 26 日_
 
 注意力涉及我们心理生活的选择性指向。这种选择性的性质是现有注意力理论之间争议的主要点之一。一些最有影响力的理论将注意力的选择性视为大脑处理多个可感知刺激的复杂属性的能力限制所导致的结果。其他理论认为，注意力的选择性是由于思考主体有意识地同时考虑多个思维过程的能力限制所导致的结果。第三组理论试图解释注意力的选择性，而不需要提及能力的限制。这些后者的理论将注意力的选择性与维持单一连贯行动所需的选择性、根据预期精确度对感觉信息的加权，或者相互抑制的处理流之间的竞争联系起来。
 
-注意力的实例在多个变化维度上有所不同。在某些实例中，注意力是一种*感知*现象。在其他实例中，它是与*行动*相关的现象。在某些实例中，注意力的选择性是*自愿的*。在其他实例中，它是由于感知领域中引人注意的物品具有很高的显著性，而与主体的意愿完全无关的驱动。给出一个适用于注意力的自愿和非自愿实例，以及感知和行动实例的统一理论的困难，使得注意力成为一个自身具有哲学意义的话题。
+注意力的实例在多个变化维度上有所不同。在某些实例中，注意力是一种_感知_现象。在其他实例中，它是与_行动_相关的现象。在某些实例中，注意力的选择性是_自愿的_。在其他实例中，它是由于感知领域中引人注意的物品具有很高的显著性，而与主体的意愿完全无关的驱动。给出一个适用于注意力的自愿和非自愿实例，以及感知和行动实例的统一理论的困难，使得注意力成为一个自身具有哲学意义的话题。
 
-注意力也是哲学上感兴趣的一个话题，因为它与许多其他哲学上令人困惑的现象似乎有关。有经验和理论考虑表明，注意力与*意识*密切相关，对于这种关系是必要的、充分的（或两者都是或两者都不是）存在争议。还有争议——被认为对于关于意识的再现论的可行性至关重要——关于注意力如何调节有意识体验的现象特征。不同的考虑将注意力与*指示性引用*、对*他人心智*的理解的发展以及*意志*的行使联系起来。一些传统美德伦理学的研究认为注意力在道德上很重要，因为至少有一些美德要求人适当地关注。注意力在一些关于*情感*的认识论意义的理论和一些关于自我归属心理状态的认识论特殊性的讨论中也被赋予了重要角色。
+注意力也是哲学上感兴趣的一个话题，因为它与许多其他哲学上令人困惑的现象似乎有关。有经验和理论考虑表明，注意力与_意识_密切相关，对于这种关系是必要的、充分的（或两者都是或两者都不是）存在争议。还有争议——被认为对于关于意识的再现论的可行性至关重要——关于注意力如何调节有意识体验的现象特征。不同的考虑将注意力与_指示性引用_、对_他人心智_的理解的发展以及_意志_的行使联系起来。一些传统美德伦理学的研究认为注意力在道德上很重要，因为至少有一些美德要求人适当地关注。注意力在一些关于_情感_的认识论意义的理论和一些关于自我归属心理状态的认识论特殊性的讨论中也被赋予了重要角色。
 
 关于注意力与这些其他现象的关系的争议通常包括对通过对注意力在神经心理学和认知水平上的实证研究发展起来的理论的哲学意义的辩论。注意力的文化和经济方面也成为哲学上的一个关注点，一些理论家认为新媒体的社会意义主要是由于这些媒体以新颖的方式吸引并争夺我们的注意力。
 
@@ -110,7 +110,7 @@ Locke 对注意力的模态观点导致一旦我们的思维理论确立，就�
 
 这些过程中的第一个是相当熟悉的。詹姆斯所指的“感觉器官的适应或调整”是指将耳朵指向正确的方向，使眼睛聚焦，嗅一下等等这些过程。
 
-詹姆斯关于“预期准备”和“意念中心”的讲话有点不太清楚，但重点再次是非常明确的。詹姆斯在这里所指的就是简单的*想象力*。他的观点是，当注意力不涉及调整自己的感官器官时，它就是想象自己正在关注或寻找的事物或行为。
+詹姆斯关于“预期准备”和“意念中心”的讲话有点不太清楚，但重点再次是非常明确的。詹姆斯在这里所指的就是简单的_想象力_。他的观点是，当注意力不涉及调整自己的感官器官时，它就是想象自己正在关注或寻找的事物或行为。
 
 詹姆斯用赫尔曼·冯·赫尔姆霍兹的一个例子来说明他关于注意力与想象力的联系的观点。这个例子对詹姆斯来说非常重要，它展示了注意力的一些重要特征，而后来的理论家往往忽视了这些特征。这个例子涉及到在试图辨别钢琴上演奏的音符中的泛音时需要付出的注意力的多样性。赫尔姆霍兹要求我们坐在钢琴前，弹奏一个 G 音，然后想象刚刚听到的声音，再弹奏一个低音的 C。据称，这样做可以让人听到在弹奏 C 音时产生的声音中可以清楚地听到 G 音（作为第三泛音）的存在。赫尔姆霍兹的观点是，当听寻泛音时所付出的注意力的形成是通过想象那个泛音的声音来实现的。詹姆斯进一步声称，在许多情况下，关注自己正在做的事情就是这种准备性的想象参与。
 
@@ -120,7 +120,7 @@ Locke 对注意力的模态观点导致一旦我们的思维理论确立，就�
 
 无论是身体还是心灵的任何功能，只要它受到兴趣的驱使并导致我们对其产物的全神贯注，就会成为主动的注意力。没有主要的注意力行为，也没有特定的注意力行为，根本就没有一种特定的注意力行为。（1886，316）
 
-尽管布拉德利没有使用洛克的词汇（而且詹姆斯本人似乎也没有以这种方式理解布拉德利），但布拉德利在这里的立场与洛克的主张有很多共同之处，即注意力是一种*方式*。布拉德利的立场与洛克的立场类似，即注意力的实例所必需的不是正在发生的*哪些*过程的内容，而是关于这些事情*如何*发生的事实。因此，他认为将过程列举出来并不适合作为注意力理论的形式。
+尽管布拉德利没有使用洛克的词汇（而且詹姆斯本人似乎也没有以这种方式理解布拉德利），但布拉德利在这里的立场与洛克的主张有很多共同之处，即注意力是一种_方式_。布拉德利的立场与洛克的立场类似，即注意力的实例所必需的不是正在发生的_哪些_过程的内容，而是关于这些事情_如何_发生的事实。因此，他认为将过程列举出来并不适合作为注意力理论的形式。
 
 与布拉德利和詹姆斯同时代的其他作家对给予关注以通俗解释的项目采取了不同的方法。在修德尔·里博的 1888 年著作《关注心理学》中，解释关注的尝试采取了我们现在会归类为行为主义的方法。在 1888 年，行为主义尚未成为哲学或心理学理论中的一般方法，但里博的建议，即关注的行为表现对其至关重要，仍然可以被认为是行为主义的早期表述：
 
@@ -164,7 +164,7 @@ Broadbent 本人对于将他关于容量瓶颈的观点作为注意力理论提�
 
 #### 2.1.1 早期选择理论
 
-布罗德本特对处理在注意力前系统和注意力后系统之间的分配的描述，定义了“早期选择”注意力理论。他声称，只有非常简单的属性被大容量系统检测到，而任何语义属性或与刺激的特定*身份*有关的属性，只有在刺激的表示通过注意力瓶颈并进入较小容量的系统之后才能被检测到。
+布罗德本特对处理在注意力前系统和注意力后系统之间的分配的描述，定义了“早期选择”注意力理论。他声称，只有非常简单的属性被大容量系统检测到，而任何语义属性或与刺激的特定_身份_有关的属性，只有在刺激的表示通过注意力瓶颈并进入较小容量的系统之后才能被检测到。
 
 这种早期选择理论的个人层面后果是，只有当我们注意到它们时，我们才能认识到事物是什么以及它们的意义，但即使我们不注意它们，我们也可以检测到事物的简单物理属性。这个理论可以被看作是对两个直观观念的沟通理论化的表达，而 Broadbent 自己的研究已经为这些观念提供了实证的基础。第一个观念是，人对自己环境中简单特征的意识没有直接的控制，比如说有人在隔壁房间里说话这个事实。无论一个人注意什么，如果有人在说话，他就会继续听到一些闲聊。第二个观念是，事物的细节，比如闲聊的语义内容，只有当一个人注意到一两件事物时才能被察觉到：如果一个人想知道闲聊是关于什么的，他就必须倾听，这就需要将注意力从其他可能发生的事情上解脱出来。
 
@@ -190,7 +190,7 @@ O'Connor 等人的研究结果对一些最近的理论造成了较少的问题�
 
 在布罗德本特的开创性工作之后的几十年里，早期和晚期选择理论主导了对注意力的讨论。然而到了九十年代初，人们已经清楚，早期选择理论的支持者和晚期选择理论的支持者之间的争论已经变得毫无意义。因此，认为这些争论是基于某种错误的假设。关于这个错误假设可能是什么，提出了几种不同的诊断。至今为止，对于哪种诊断是正确的，没有达成一致意见，结果是一些理论家（如上一节末尾讨论的那些）仍然保留早期和晚期选择理论的观点，而其他人则认为这是一个错误的倒退步骤。
 
-一个诊断是早期/晚期辩论是无果的，因为“早期”和“晚期”这两个术语本身就有问题。如果感知处理发生在一个并行处理架构中，没有任何主导信息流的方向，那么将该架构的一部分标记为比其他部分更早或更晚是没有意义的。如果注意力瓶颈位于具有这种架构的系统中，那么这可能解释了为什么对于注意力选择是早期还是晚期的问题没有令人满意的答案。似乎有些作者认为早期和晚期选择理论之间的辩论失败是因为这场辩论要求我们对选择发生的处理流程的*线性性*做出假设（参见，例如，Prinz 和 Hommel，2002 年，3 页）。这是一个需要谨慎对待的想法。
+一个诊断是早期/晚期辩论是无果的，因为“早期”和“晚期”这两个术语本身就有问题。如果感知处理发生在一个并行处理架构中，没有任何主导信息流的方向，那么将该架构的一部分标记为比其他部分更早或更晚是没有意义的。如果注意力瓶颈位于具有这种架构的系统中，那么这可能解释了为什么对于注意力选择是早期还是晚期的问题没有令人满意的答案。似乎有些作者认为早期和晚期选择理论之间的辩论失败是因为这场辩论要求我们对选择发生的处理流程的_线性性_做出假设（参见，例如，Prinz 和 Hommel，2002 年，3 页）。这是一个需要谨慎对待的想法。
 
 关于早期/晚期选择辩论陷入无果的一个有问题的假设是关于线性性的主张，这一主张在 Alan Allport 的一篇重要论文中得到了最有影响力的处理（Allport，1992 年）。Allport 指出了早期/晚期选择辩论所需的几个有问题的假设。他对他认为有问题的线性性假设的描述是：
 
@@ -226,7 +226,7 @@ Treisman 提出的解决方案利用了“空间”表示是无处不在的事�
 
 对于 Treisman 声称注意力的窗口与特征绑定的窗口相对应的解释意义，有多种理解方式。Treisman 早期的工作将这一主张作为识别注意力过程的尝试（通过告诉我们它们是特征整合的过程）。在她的后期工作中，所提供的解释不再仅仅是注意力扮演解释对象的角色，而是将绑定问题的解决作为注意力所能实现的选择性的一种作用。
 
-有一些工作将特征整合理论应用于更宏大的解释目标中。该理论在约翰·坎贝尔（John Campbell）2002 年的《指称与意识》（*Reference and Consciousness*）中发挥了重要作用，试图通过注意力来解释指示性表达的参照是如何由其制作者确定并由其消费者理解的（参见第 3.2 节[3.2](https://plato.stanford.edu/entries/attention/#AttDemRef)）。特里斯曼本人也提出，虽然不确定，但特征整合理论的后代可能为“主观体验世界的有界、统一、解释性、个人观点”提供部分解释（特里斯曼，2003 年，111 页）。她进一步提出，同样是暂时的，这种理论提供的解释“应该为我们提供有关创造意识的条件的所有信息”（*op cit*）。
+有一些工作将特征整合理论应用于更宏大的解释目标中。该理论在约翰·坎贝尔（John Campbell）2002 年的《指称与意识》（_Reference and Consciousness_）中发挥了重要作用，试图通过注意力来解释指示性表达的参照是如何由其制作者确定并由其消费者理解的（参见第 3.2 节[3.2](https://plato.stanford.edu/entries/attention/#AttDemRef)）。特里斯曼本人也提出，虽然不确定，但特征整合理论的后代可能为“主观体验世界的有界、统一、解释性、个人观点”提供部分解释（特里斯曼，2003 年，111 页）。她进一步提出，同样是暂时的，这种理论提供的解释“应该为我们提供有关创造意识的条件的所有信息”（_op cit_）。
 
 与那些认为特征绑定理论将成为我们关于注意力、意识统一或其他任何事物的理论的重要组成部分的人相对立的是一些哲学家（以及较少数的心理学家），他们否认特征绑定会产生任何需要严肃认知装置来解决的问题。这些主张出于各种原因而提出。它们通常作为认知神经科学概念框架大规模修订提案的一部分。凯文·奥雷根（Kevin O'Regan）和阿尔瓦·诺埃（Alva Noë）对绑定问题的拒绝“本质上是一个伪问题”（O'Regan and Noë，2001 年，967 页）是他们对感知需要对所感知的事物进行表示的观念的总体攻击的一部分。文森特·迪洛洛（Vincent Di Lollo）提出，产生绑定问题的神经编码假设已经被取代，结果绑定问题变得不明确（Di Lollo，2012 年）。而 M.R.本内特（M.R. Bennett）和 P.M.S.哈克（P.M.S. Hacker）在他们的批判神经科学哲学基础的书中声称，在神经科学中流行的表示和信息概念存在各种混淆，这些混淆导致神经科学家普遍发表“对所谓的绑定问题的混乱陈述”（Bennett and Hacker，2003 年，14 页）。关于绑定问题的这些关于其地位的辩论（由 Plate，2007 年回顾）涉及认知科学的基础问题。它们已不再专门关注对注意力的解释。
 
@@ -262,7 +262,7 @@ Watzl 还声称，任何缺乏这种结构的心灵因此都会缺乏对世界�
 
 在这种贝叶斯方法在心灵方面得到最深入发展的哲学版本中（Hohwy，2013 年；Clark，2013 年），整个认知被理解为贝叶斯更新的过程，其中一个层次化组织的假设系列不断被测试，每个假设都会根据来自下一层次的证据进行更新。这一理论的支持者试图在这种层次结构框架中找到认知的所有方面的空间，包括知觉、思维和行动。他们理论的一个核心观点是，通过这个层次结构上传递的信息以信号的形式编码，这些信号代表了层次结构上一级假设所做预测的错误，而每个时刻的经验内容由做出最少错误预测的假设给出。（该理论的不同版本使用不同的技术来计算这些预测错误的相对大小。）鉴于他们对预测错误编码的承诺，这些理论的一个核心观点是，我们与世界的感官接触的作用是提供关于我们先前假设错误之处的信息：我们的感官并不提供关于开始下雨的信息，而只提供比我们预期的更多下雨的信息。
 
-这一理论的支持者声称它“使我们能够以新的视角看待注意力，并提供其在我们整体心理经济中的功能角色的替代概念”（Hohwy，2014 年，第 191 页）。根据这些“替代概念”，注意力根据预期的*精确度*调整传入的预测误差信号的权重（Hohwy，2012 年）。这里所说的“精确度”是指与准确性相对的意义。所谓“准确性”是指信号所指示的值与实际值之间的差异的度量，而“精确度”是指信号中的随机波动的度量，即使实际输入保持不变。从这个意义上说，一个校准不准确的仪器可能非常精确，但并不特别准确。
+这一理论的支持者声称它“使我们能够以新的视角看待注意力，并提供其在我们整体心理经济中的功能角色的替代概念”（Hohwy，2014 年，第 191 页）。根据这些“替代概念”，注意力根据预期的_精确度_调整传入的预测误差信号的权重（Hohwy，2012 年）。这里所说的“精确度”是指与准确性相对的意义。所谓“准确性”是指信号所指示的值与实际值之间的差异的度量，而“精确度”是指信号中的随机波动的度量，即使实际输入保持不变。从这个意义上说，一个校准不准确的仪器可能非常精确，但并不特别准确。
 
 各种经验证据使得大脑在处理知觉信号时考虑到预期的精确度成为可能。例如，在腹语师幻觉中，预期的精确度可能起到了一定的作用：因为视觉被期望能够更精确地指示位置，所以听觉听到的声音似乎来自其源头所在的位置。其他考虑同样使得注意力在适应这些预期精确度的变化中发挥了作用，当我们从一个上下文转移到另一个上下文时。如果我们预期视觉信号可能是嘈杂的——也许是因为浓雾开始降临——那么我们可能会比平常更加重视听觉信号中存在的信息。注意力在实现这种权重变化中似乎起到了作用。这一理论的支持者声称“注意力只不过是层次推理中的精确度优化”（Hohwy，1014 年，第 244 页，引用了 Feldman 和 Friston，2010 年）。Ransom 等人提出，通过将注意力始终视为精确度优化，这一理论难以解释某些形式的自愿注意力（Ransom 等人，2017 年）。Clark 提出，如果将自愿注意力的来源与信念而不是欲望联系起来，就可以应对这一挑战（Clark，2017 年）。
 
@@ -270,9 +270,9 @@ Watzl 还声称，任何缺乏这种结构的心灵因此都会缺乏对世界�
 
 与 Hohwy 和 Clark 提出的精确优化理论一样，在预测误差编码理论框架内，由 Neisser、Neumann、Allport 和 Wu 提出的一致性理论也提出了关于注意力功能的其他观点，而不仅仅是处理能力的限制管理。尽管存在这些非 Broadbentian 的注意力功能概念，但许多心理学家仍然认为，注意力的选择性服务于处理能力的限制管理，这一观点是不可争议的。"因为视觉系统无法同时处理所有输入，所以必须存在注意力过程来帮助视觉系统选择一些输入"的说法仍然被视为一种平凡的陈述，可以作为介绍自己的研究时无争议的开场句。（刚才给出的例子来自 Vecera（2000）的开头，但很容易找到更多类似的例子。）
 
-对于那些拒绝这个陈词滥调的人，认为注意力的*功能*不仅仅是处理能力的限制管理，自然会认为注意力选择的*机制*可能不是容量瓶颈。
+对于那些拒绝这个陈词滥调的人，认为注意力的_功能_不仅仅是处理能力的限制管理，自然会认为注意力选择的_机制_可能不是容量瓶颈。
 
-实现选择性的最清晰的非瓶颈机制是*竞争*。由于组织良好的竞争总能选择出一个优胜者，无论竞争者的水平和数量如何，竞争机制的选择性与瓶颈或其他处理能力的限制无关。
+实现选择性的最清晰的非瓶颈机制是_竞争_。由于组织良好的竞争总能选择出一个优胜者，无论竞争者的水平和数量如何，竞争机制的选择性与瓶颈或其他处理能力的限制无关。
 
 实现选择性的基于竞争的机制至少有两种：在简单的“竞赛”机制中，每个竞争者独立完成一个与其他竞争者完成的过程在某种变化维度上可比较的过程。在相关变化维度上取得最高值的竞争者被选为获胜者。在“斗争”中，竞争者不仅仅是希望自己的处理比其他竞争者做得更好。相反，对其他竞争者的积极压制是每个竞争者进行的过程的一部分。已经提出了关于注意力的简单竞赛模型（Shibuya 和 Bundesen，1988 年，Bundesen，1987 年），但我们目前最好的理论是在简单竞赛机制中补充一些相互斗争的组成部分，或者通过额外的自上而下的控制过程（例如，Bundesen 和 Habekost，2008 年）。
 
@@ -294,7 +294,7 @@ Watzl 还声称，任何缺乏这种结构的心灵因此都会缺乏对世界�
 
 传统上，瓶颈隐喻一直指导着试图确定认知资源仅作用于被关注刺激的理论，而聚光灯隐喻则指导着试图确定刺激的哪些特征决定了在任何给定时刻是否将注意力集中在该刺激上的理论（例如，Watchel，1967；Woodman 和 Luck，1999；有关讨论，请参见 Fernandez-Duque 和 Johnson，2002）。聚光灯隐喻所暗示的观点是，刺激的位置最终决定了该刺激是否受到关注：这里的重点不是否认人们可以因为某物色彩鲜艳或有趣而注意到它。相反，重点是人们只有通过将注意力集中在这些事物的位置上才会注意到色彩鲜艳或有趣的事物。
 
-一个人很容易理解为什么聚光灯的隐喻如此吸引人。如果我们面对一系列不同颜色的形状，在不同的位置出现和消失，那么我们可能会执行许多需要注意力的任务。有些任务可能要求我们关注屏幕顶部正在发生的事情，有些可能要求我们关注所有红色的形状，或者所有的三角形，或者其他东西。其中一些关注的方式似乎比其他方式更基本。例如，关注屏幕顶部的事物可能是一项原始任务，而关注三角形不能以同样的方式是原始的：我们不能*简单地*关注三角形。如果我们想关注三角形，我们首先需要弄清楚三角形在哪里。另一方面，如果我们想关注屏幕顶部的事物，我们不需要弄清楚它们是否是三角形。因此，有理由认为当我们关注三角形时，我们是通过关注它们的位置来做到的。从这个意义上说，基于位置的关注似乎比基于形状的关注更基本。
+一个人很容易理解为什么聚光灯的隐喻如此吸引人。如果我们面对一系列不同颜色的形状，在不同的位置出现和消失，那么我们可能会执行许多需要注意力的任务。有些任务可能要求我们关注屏幕顶部正在发生的事情，有些可能要求我们关注所有红色的形状，或者所有的三角形，或者其他东西。其中一些关注的方式似乎比其他方式更基本。例如，关注屏幕顶部的事物可能是一项原始任务，而关注三角形不能以同样的方式是原始的：我们不能_简单地_关注三角形。如果我们想关注三角形，我们首先需要弄清楚三角形在哪里。另一方面，如果我们想关注屏幕顶部的事物，我们不需要弄清楚它们是否是三角形。因此，有理由认为当我们关注三角形时，我们是通过关注它们的位置来做到的。从这个意义上说，基于位置的关注似乎比基于形状的关注更基本。
 
 认为基于位置的关注比基于形状的关注更基本的想法可能会让人们认为，基于位置的关注是绝对基本的，因此注意力总是且只能根据位置分配。如果这是正确的，那么关于注意力空间分配的理论——关于“注意力聚光灯”的移动和聚焦的理论——将成为解释注意力如何工作的一个重要组成部分。这对于那些希望提供一个统一的注意力理论的人来说是个好消息，对于更一般地解释注意力的科学项目来说也是个好消息，因为注意力的聚光灯行为是其中一些最为理解的方面（参见 Logan，1996 年）。
 
@@ -306,7 +306,7 @@ Watzl 还声称，任何缺乏这种结构的心灵因此都会缺乏对世界�
 
 这些汇聚的数据来源表明，注意力的聚光灯不仅仅是根据任何单一空间参考框架中的坐标进行分配。对于那些试图在大脑中定位注意力分配机制的人来说，这是一个重要的发现（因为不同的脑区在空间映射和对其中物体的空间信息表示方面存在差异）。它对于引导心理学家摒弃简单的聚光灯隐喻产生了影响。然而，需要注意的是，这些发现并不威胁到聚光灯隐喻所暗示的核心观点：一个人关注的事物可能仍然取决于他们关注的位置，即使有很多复杂的因素决定了具体的位置。
 
-其他效应对于纯粹的聚光灯观点来说有些更具破坏性，尽管它们也没有完全否定它。注意力分配的超越空间复杂性已经在 Dwight Kravitz 和 Marlene Behrmann（Kravitz 和 Behrmann，2011）的一系列实验中得到了很好的证明。这些实验的参与者的注意力由一个在计算机屏幕上显示的形状的一端呈现的简短刺激引导。这个形状可能是一个简单的矩形，一个两端鼓起的矩形，或者一个更复杂的“H”或“h”形状。它与另一个形状一起呈现，其中在某些情况下具有相同的形状和颜色，在其他情况下则不同。然后通过测量在这些对象上和附近呈现的刺激的反应时间来探测注意力的分配。Kravitz 和 Behrmann 发现，他们的刺激的所有不同属性*相互作用*来决定注意力分配到这些刺激出现的屏幕的方式。最引人注目的是，他们发现在屏幕上的形状是大写和小写“H”的试验和形状是大写 H 和数字 4 的试验之间的注意力分配存在差异，尽管这个数字 4 的形状与小写 h 完全相同，但是上下颠倒呈现。这样的发现表明，即使是由简单的空间提示触发的注意力，也不仅仅是基于位置分配，还基于形状、颜色和任意学习的含义。
+其他效应对于纯粹的聚光灯观点来说有些更具破坏性，尽管它们也没有完全否定它。注意力分配的超越空间复杂性已经在 Dwight Kravitz 和 Marlene Behrmann（Kravitz 和 Behrmann，2011）的一系列实验中得到了很好的证明。这些实验的参与者的注意力由一个在计算机屏幕上显示的形状的一端呈现的简短刺激引导。这个形状可能是一个简单的矩形，一个两端鼓起的矩形，或者一个更复杂的“H”或“h”形状。它与另一个形状一起呈现，其中在某些情况下具有相同的形状和颜色，在其他情况下则不同。然后通过测量在这些对象上和附近呈现的刺激的反应时间来探测注意力的分配。Kravitz 和 Behrmann 发现，他们的刺激的所有不同属性_相互作用_来决定注意力分配到这些刺激出现的屏幕的方式。最引人注目的是，他们发现在屏幕上的形状是大写和小写“H”的试验和形状是大写 H 和数字 4 的试验之间的注意力分配存在差异，尽管这个数字 4 的形状与小写 h 完全相同，但是上下颠倒呈现。这样的发现表明，即使是由简单的空间提示触发的注意力，也不仅仅是基于位置分配，还基于形状、颜色和任意学习的含义。
 
 发现注意力可以根据颜色、形状和含义有选择地调节刺激的处理，并不妨碍我们坚持认为刺激的位置在分配注意力的过程中起着特殊的作用。心理学中的多条研究线路试图确定大脑中的某个表示，其中项目以一种方式编码，决定了注意力分配给它们的程度。在这些研究线路中最早建立的一条线路——从 Koch 和 Ullman（1985）的工作开始——认为这种表示是一种“地图”，在某种字面意义上：这种表示被认为是一个在某个区域中表示每个位置的表示，并且这些位置的表示以某种格式立即编码它们之间的空间关系。每个被表示的对象被认为是被表示为位于某个位置，并且分配给这些位于对象的属性被认为决定了注意力将被支付给这些对象所占据的位置的可能性。根据假设这些“显著性地图”的理论，位置在决定注意力分配的方式中起着独特的作用，尽管其他属性也对该分配起到贡献。
 
@@ -326,9 +326,9 @@ Watzl 还声称，任何缺乏这种结构的心灵因此都会缺乏对世界�
 
 这种理论的核心思想是“定向注意力的程序无论是明显还是隐蔽的是相同的，但在后一种情况下，眼睛在某个外围阶段被阻塞”（Rizzolatti 等人，1987 年，37 页）。运动理论的支持者（如 Moore、Armstrong 和 Fallah，2003 年）将他们的工作描述为对 19 世纪末亚历山大·贝恩提出的观点的复兴。贝恩（正如我们在[1.5 节](https://plato.stanford.edu/entries/attention/#WilJamHisConDefThe)中所见）将注意力与通常导致注意力行为表现的运动控制过程的截断版本等同起来，这些过程“停留在器官实际运动之前”（贝恩，1888 年，371 页）。
 
-这些版本的运动理论应该与将注意力和运动控制视为密切相关但不强调已被牵涉到注意力的运动控制过程是控制*感觉*器官运动的理论区分开来。在这些理论中（这些理论是“选择行动”观点的自然但非必要伴生物，详见[第 2.5 节](https://plato.stanford.edu/entries/attention/#CohThe)），注意力与运动控制有着密切的关系。支持这种一般联系的一条实验证据来自 Heiner Deubel 及其合作者的研究，他们发现对物体在行动中的作用方式进行的各种改变会对在该物体上或附近呈现的刺激的感知辨别产生影响。在这其中的一个引人注目的例子中，Deubel 和 Schneider 发现，注意力分配到围绕一个 6.5 厘米的木制 X 形状的空间上，取决于被试者是用左手从左上和右下两个臂部抓取形状，还是用右手从上右和下左两个臂部抓取形状（Deubel 和 Schneider，2004 年）。在每种情况下，注意力不仅分配给形状本身，还分配给待抓取的部分。（有关注意力和行动目标之间相互作用的其他证据，请参见 Tipper，Howard 和 Houghton，1998 年。）
+这些版本的运动理论应该与将注意力和运动控制视为密切相关但不强调已被牵涉到注意力的运动控制过程是控制_感觉_器官运动的理论区分开来。在这些理论中（这些理论是“选择行动”观点的自然但非必要伴生物，详见[第 2.5 节](https://plato.stanford.edu/entries/attention/#CohThe)），注意力与运动控制有着密切的关系。支持这种一般联系的一条实验证据来自 Heiner Deubel 及其合作者的研究，他们发现对物体在行动中的作用方式进行的各种改变会对在该物体上或附近呈现的刺激的感知辨别产生影响。在这其中的一个引人注目的例子中，Deubel 和 Schneider 发现，注意力分配到围绕一个 6.5 厘米的木制 X 形状的空间上，取决于被试者是用左手从左上和右下两个臂部抓取形状，还是用右手从上右和下左两个臂部抓取形状（Deubel 和 Schneider，2004 年）。在每种情况下，注意力不仅分配给形状本身，还分配给待抓取的部分。（有关注意力和行动目标之间相互作用的其他证据，请参见 Tipper，Howard 和 Houghton，1998 年。）
 
-运动理论和其他基于行动的理论对注意力的某些实例提供了合理的解释，但它们存在一些限制，使它们无法具有完全的普遍性：由于眼睛或肢体的运动始终是运动*到一个位置*，运动理论将难以解释除位置外的其他注意力分配基础。因此，它们面临着我们在考虑纯粹的聚光灯理论时所看到的限制，即无法解释不对应于所关注位置差异的注意力转移。而且，对于感觉模态中感觉器官的定向性不如视觉情况那样直接的空间注意力，运动理论如何应用也不太清楚。然而，运动理论确实提供了一个合理且有支持的解释，解释了在典型的注意力实验中显示的基于位置的视觉注意力的多样性。
+运动理论和其他基于行动的理论对注意力的某些实例提供了合理的解释，但它们存在一些限制，使它们无法具有完全的普遍性：由于眼睛或肢体的运动始终是运动_到一个位置_，运动理论将难以解释除位置外的其他注意力分配基础。因此，它们面临着我们在考虑纯粹的聚光灯理论时所看到的限制，即无法解释不对应于所关注位置差异的注意力转移。而且，对于感觉模态中感觉器官的定向性不如视觉情况那样直接的空间注意力，运动理论如何应用也不太清楚。然而，运动理论确实提供了一个合理且有支持的解释，解释了在典型的注意力实验中显示的基于位置的视觉注意力的多样性。
 
 运动理论在解释一些典型的注意力实验中发现的注意力类型方面的成功，可以有乐观或悲观的解释。乐观的解释认为运动理论提供了对一些更简单和更核心的注意力类型进行处理的成功解释。悲观的解释认为运动理论揭示了我们通常实验范式中的问题。在典型的实验室任务中，参与者将注意力集中在视野的不同部分，同时保持眼睛固定在中央点上。这些任务中注意力的行为特征通常表现为对被关注刺激的反应时间的减少。这些行为特征的神经相关性是指哪些刺激最强烈地驱动处理它们的神经回路的某些偏好。运动理论的核心发现是，这些神经和行为效应可以由负责引导眼球运动的活动的减弱版本产生。对这一发现的悲观解释是，传统上被认为指示注意力方向的迹象实际上只是我们的实验范式通过强加实验参与者将目光集中在一个位置上的限制所引起的截断眼球运动的结果。如果这是正确的，那么在注意力实验室中研究的现象可能并不是被认为重要的心理现象。
 
@@ -356,7 +356,7 @@ Watzl 还声称，任何缺乏这种结构的心灵因此都会缺乏对世界�
 
 由于排除了直接的检查程序，我们需要一种更加理论驱动的方式来评估那些声称不关注某个项目的后果是该项目从意识经验中消失的人和那些声称不关注只是使主体在与这些未关注项目相关的认识位置上处于不利地位的人之间的争议。我们目前的理论状况是这样的，试图通过最佳解释的推理来解决这个争议是为时过早的，因为争议的双方都没有一个已经完全解决了注意力/意识关系的理论，使得不同的解释可以进行比较。然而，我们可以看到这场辩论中双方可能会引用的一些考虑因素。那些支持注意力对意识的必要性的人可以指出这个观点与那些在意识解释中注意力起重要作用的理论（例如，普林兹，2005 年，2012 年）非常一致。他们还可以根据意识和注意力进化的理论发展论证（Montemayor＆Haladjian，2015 年）。那些更喜欢对不注意盲视效应进行认识缺陷解释的人（Mole，2011 年，§7.3.7）可以指出，这种解释自然地流露出根据注意力对一个项目的关注提供了所需的熟悉程度，以便使用指示性概念来指称该项目（这是由坎贝尔，2002 年提倡的观点，并在下面的第 3.2 节中讨论）：如果对大猩猩的关注对形成涉及指示性思维（例如“那是只大猩猩”）是必要的，那么对于那些不注意的人无法回答“有没有大猩猩？”这样的问题，有一个直接的解释，与未关注的项目仍然出现在意识中的想法是一致的。
 
-在忽略不计的大猩猩的情况下，难点在于确定未关注的项目是否存在于意识中，但只是作为尚未指向的未个体化的项目存在，还是这些未关注的项目完全不存在于意识中。这个困难的一部分源于这样一个事实，即尽管大多数人不关注大猩猩，但他们*可以*关注他，如果有什么事情促使他们这样做的话，他们本来会这样做的。在我们未能关注的情况下，可能有更多的数据可供内省和实验室测量，这些情况下我们未能关注有一些更系统的解释。Ned Block 提出，在我们对外围刺激的感知中，当这些刺激受到“身份拥挤”现象的影响时，就会出现这样的情况（Block，2013a）。一个单独的“T”或“F”即使在视野的外围部分呈现时，也可以相当清楚地看到。但是，如果在这个单独字符的旁边还有其他字符，那么这些字符的属性就容易产生感知混淆。注意力似乎将我们试图挑选出的一个个体字符周围的所有字符的属性绑定在一起。因此，在感知的外围，注意力无法被集中到与一个个体字符紧密匹配的区域上。由于这种“拥挤”效应，当字母或形状落入高清中心之外的视野部分时，字母或形状的属性仍然可以被看到，并且可以可靠地报告存在多个项目的事实。基于经验和内省的考虑，Block 声称，即使在这些拥挤的字符与它们被拥挤的其他字符共享所有特征的情况下，这些拥挤的字符也被有意识地区分出来。他声称这些字符在意识中作为对象出现。由于注意力不能被分配到比这些字符所属的群体更细粒度的东西上，这些字符本身不是受到关注的对象。因此，Block 认为“身份拥挤”提供了反例，反驳了我们只有在关注它们时才意识到对象的说法。
+在忽略不计的大猩猩的情况下，难点在于确定未关注的项目是否存在于意识中，但只是作为尚未指向的未个体化的项目存在，还是这些未关注的项目完全不存在于意识中。这个困难的一部分源于这样一个事实，即尽管大多数人不关注大猩猩，但他们_可以_关注他，如果有什么事情促使他们这样做的话，他们本来会这样做的。在我们未能关注的情况下，可能有更多的数据可供内省和实验室测量，这些情况下我们未能关注有一些更系统的解释。Ned Block 提出，在我们对外围刺激的感知中，当这些刺激受到“身份拥挤”现象的影响时，就会出现这样的情况（Block，2013a）。一个单独的“T”或“F”即使在视野的外围部分呈现时，也可以相当清楚地看到。但是，如果在这个单独字符的旁边还有其他字符，那么这些字符的属性就容易产生感知混淆。注意力似乎将我们试图挑选出的一个个体字符周围的所有字符的属性绑定在一起。因此，在感知的外围，注意力无法被集中到与一个个体字符紧密匹配的区域上。由于这种“拥挤”效应，当字母或形状落入高清中心之外的视野部分时，字母或形状的属性仍然可以被看到，并且可以可靠地报告存在多个项目的事实。基于经验和内省的考虑，Block 声称，即使在这些拥挤的字符与它们被拥挤的其他字符共享所有特征的情况下，这些拥挤的字符也被有意识地区分出来。他声称这些字符在意识中作为对象出现。由于注意力不能被分配到比这些字符所属的群体更细粒度的东西上，这些字符本身不是受到关注的对象。因此，Block 认为“身份拥挤”提供了反例，反驳了我们只有在关注它们时才意识到对象的说法。
 
 Block 的观点是，拥挤的字符在意识中作为个体化的对象出现，而不是作为某种丰富特征的一部分，这一观点受到了质疑（Taylor，2013 年，Richards，2013 年）。作为回应，Block 提出了一种推理，即多个相关现象的最佳解释支持他对效应的解释（Block，2013b 年）。
 
@@ -392,7 +392,7 @@ Mattia Riccardi 以一种截然不同的现象学角色来解释注意力，他�
 
 ### 3.2 注意力和指示性引用
 
-意识只是被认为与注意力有关的一种哲学上令人困惑的心理现象，可能在解释上具有启示性的还有*指示性引用*。约翰·坎贝尔是注意力对指示性引用解释的支持者之一，他写道：
+意识只是被认为与注意力有关的一种哲学上令人困惑的心理现象，可能在解释上具有启示性的还有_指示性引用_。约翰·坎贝尔是注意力对指示性引用解释的支持者之一，他写道：
 
 …对一个对象的有意识的关注的概念在解释上起到了作用：它必须解释我们如何对指示物的引用有所了解。（2002 年，45 页）
 
@@ -432,7 +432,7 @@ Campbell 所倡导的解释方法，以及 Russell 所考虑的方法，传统�
 
 尽管每个哲学家都倾向于以反映他们其他理论承诺的方式来构建它，但某种形式的关注始终参与认识运动的观念可以在理论前合理地被提出。无意识盲视实验中，参与者在关注其他事物时被视觉呈现大的变化，表明不注意的人可能会忽略所有种类的可感知的事物，而关注的人会发现这些事物是显而易见的。在先验推理的情况下，似乎也存在类似的情况：正如没有任何物体是如此巨大、如此核心和如此明亮，以至于没有一个有意识和有视力的观察者会错过它，同样，在推理过程中也没有一个步骤是如此简单、如此有说服力和如此明显，以至于每个思考者，无论是专注还是不专注，都能够认识到它。正如无意识盲视效应似乎表明，在认知者与事物的感知相遇之前，存在着认知需求，思考者必须满足这些需求才能获得对事物的知识，同样，可以合理地认为，在思考者理解一个思想的同时，也存在类似的注意需求，这使得她对该思想的后果产生了合理的信念。然而，对无意识盲视效应的这种解释是有争议的。尼古拉斯·西林斯（Nicholas Silins）和苏珊娜·西格尔（Susanna Siegel）提出，即使不注意有时可以解释一个感知者未能形成对其视觉领域中发生的事物的信念，但未被关注的经验方面仍然能够为这些信念提供合理性的依据（Silins 和 Sigel，2019）。埃米尔·塔尔巴德（Émile Thalbard）持相反观点（Thalabard，2020）。
 
-在先验情况和感知情况下，获取知识似乎在某些场合需要关注，而在这两种情况下，这种要求似乎是*实际的*要求。也许，如果要从与大猩猩的经验中获得大猩猩存在的知识，就需要对某些命题有所了解（这些命题可以作为推理中的主要前提，通过这种推理解释一个人的感知经验），但从经验中获取知识的要求不能是必须记住这些命题。在先验领域也是如此。在先验权利被认可之前所需的不是必须拥有某个命题的先验知识，从中可以推导出这种权利。假设当前命题知识是进行这些推理所必需的，将会陷入刘易斯·卡罗尔（Lewis Carroll）的乌龟到阿基里斯（Carroll，1895）所设定的回归中。认识运动所需的不是命题的当前知识，而是正确类型的主动关注。
+在先验情况和感知情况下，获取知识似乎在某些场合需要关注，而在这两种情况下，这种要求似乎是_实际的_要求。也许，如果要从与大猩猩的经验中获得大猩猩存在的知识，就需要对某些命题有所了解（这些命题可以作为推理中的主要前提，通过这种推理解释一个人的感知经验），但从经验中获取知识的要求不能是必须记住这些命题。在先验领域也是如此。在先验权利被认可之前所需的不是必须拥有某个命题的先验知识，从中可以推导出这种权利。假设当前命题知识是进行这些推理所必需的，将会陷入刘易斯·卡罗尔（Lewis Carroll）的乌龟到阿基里斯（Carroll，1895）所设定的回归中。认识运动所需的不是命题的当前知识，而是正确类型的主动关注。
 
 在从经验中获取知识或认识先验权利之前，必须满足的注意力要求并不仅仅是警觉性的要求。仅仅说思考者必须对相关的观念给予一些关注是无法完全捕捉到这些要求的。一个思考者可能会关注一个三段论，但如果他只是关注其节奏，他可能仍然无法看出结论的推导过程。对于知识获取的注意力要求的非循环论证的描述将是认识论的一个重要贡献。目前关于注意力的研究，因其将注意力视为感知现象，可能只能给我们提供我们所需的一部分普遍理论。对于纯粹智力形式的注意力的研究仍然很少。这一缺点已经被马克·福特尼强调过，他认为忽视了智力注意力导致哲学家们误解了关于注意力和意识的经验文献中的一些观点（福特尼，2019 年）。福特尼还声称，与智力注意力有关的考虑应在关于现象学透明度的辩论以及这种透明度对自我归属思想的认识论的影响的辩论中起到核心作用（这些辩论在福特尼的讨论中由伯恩，2018 年所示）。福特尼建议，当注意力被赋予这种作用时，认知心理学的某些结果可以为这些辩论提供启示。他认为，从这个角度来看，关于当前思维透明度的一些观点开始显得可疑（福特尼，2020 年）。
 
@@ -452,7 +452,7 @@ Campbell 所倡导的解释方法，以及 Russell 所考虑的方法，传统�
 
 美学的主题可以以各种方式划定，每一种方式都有一定的争议（参见 Lopes，2014）。一个自然的想法是，美学可以被认定为哲学的一个分支，它关注的是一种特定的体验。如果这个提议要有信息量，显然需要补充一些关于这种体验的具体说明。很明显，这个说明不能通过对所体验的对象的外延规定来给出：同一种酒可能被鉴赏家和口渴的人所体验，但只有其中一种体验是美学的；同一幅画可能被艺术爱好者以美学的角度看待，而被销售商以纯粹的财务角度看待。
 
-对此的一种回应是将体验细分得比对象更细致，而是通过确定一些特定的*属性*，这些属性被体验为属于美学情况下的对象（参见[美学概念条目](https://plato.stanford.edu/entries/aesthetic-concept/#AesObj)中关于美学对象的部分）。另一种回应是不仅考虑所体验的内容，还要考虑主体体验它们的方式，也许是通过确定一种特定的*态度*来描述美学情况下的主体，或者通过确定主体所实现的某种注意力模式（参见[美学概念条目](https://plato.stanford.edu/entries/aesthetic-concept/#AesAtt)中关于美学态度的部分）。
+对此的一种回应是将体验细分得比对象更细致，而是通过确定一些特定的_属性_，这些属性被体验为属于美学情况下的对象（参见[美学概念条目](https://plato.stanford.edu/entries/aesthetic-concept/#AesObj)中关于美学对象的部分）。另一种回应是不仅考虑所体验的内容，还要考虑主体体验它们的方式，也许是通过确定一种特定的_态度_来描述美学情况下的主体，或者通过确定主体所实现的某种注意力模式（参见[美学概念条目](https://plato.stanford.edu/entries/aesthetic-concept/#AesAtt)中关于美学态度的部分）。
 
 试图确定这种审美注意模式在哲学传统中得到了很好的代表。康德关于美的判断具有无私愉悦的第一时刻的著名说法通常被解读为态度识别方法的范例（参见[Kant 的美学和目的论](https://plato.stanford.edu/entries/kant-aesthetics/)条目），但杰西卡·威廉姆斯认为康德必须也在运用一种审美注意的概念，作为一种涉及想象力和理解力独特结合的注意模式（威廉姆斯，2021 年）。
 
@@ -478,7 +478,7 @@ Bence Nanay 提出了一个具有类似目标的立场 - 不追求给出审美�
 
 ### 4.3 社会和政治理论中的注意力
 
-许多理论家和评论家指出，一些最大的企业，如谷歌和 Facebook，从其最知名的产品的最终用户那里获得的资金非常少，但却从这些用户那里获得了大量的关注。注意到这一点的作家们通常认为这是当前*时代精神*的一个症状（Williams, 2018, Odell, 2019）。这种贡献通常被认为是有害的。迈克尔·戈尔德哈伯似乎是最早将这种情况描述为从“信息经济”转向“关注经济”的人之一（Goldhaber, 1997），他遵循了赫伯特·西蒙的建议，即当信息丰富时，关注变得稀缺，可以给出一个经济解释（Simon, 1971）。
+许多理论家和评论家指出，一些最大的企业，如谷歌和 Facebook，从其最知名的产品的最终用户那里获得的资金非常少，但却从这些用户那里获得了大量的关注。注意到这一点的作家们通常认为这是当前_时代精神_的一个症状（Williams, 2018, Odell, 2019）。这种贡献通常被认为是有害的。迈克尔·戈尔德哈伯似乎是最早将这种情况描述为从“信息经济”转向“关注经济”的人之一（Goldhaber, 1997），他遵循了赫伯特·西蒙的建议，即当信息丰富时，关注变得稀缺，可以给出一个经济解释（Simon, 1971）。
 
 关于当代世纪见证了关注的独特商品化的建议已经广泛传播。这种转变已经被使用各种社会和政治哲学的概念资源进行理论化。乔纳森·贝勒以提供“价值关注理论”（Beller 2006）的广泛马克思主义方法为例。克林顿·卡斯特罗和亚当·范倩利用德布拉·萨茨关于“有害市场”的概念，主张应该以类似于对烟草行业的监管方式来监管旨在最大化关注参与的技术（Castro & Pham, 2020，参考 Satz, 2010）。乔治·弗兰克运用从列维纳斯和海德格尔的作品中得出的概念，对关注经济在调解我们的相互承认和尊重交易中的作用进行了阐述（Franck, 1998）。
 
@@ -490,295 +490,295 @@ Bence Nanay 提出了一个具有类似目标的立场 - 不追求给出审美�
 
 Today critical editions of most of Augustine’s works are available. Almost all the books, the complete letters and a considerable portion of the sermons have been edited in the series
 
-* \[*CSEL*] *Corpus Scriptorum Ecclesiasticorum Latinorum* (Wien: Holder, Pichler, Tempsky, latest volumes Berlin: De Gruyter) and
-* \[*CCL*] *Corpus Christianorum Series Latina* (Turnhout: Brepols). New critical editions are continually being prepared and older ones replaced.
+* \[_CSEL_] _Corpus Scriptorum Ecclesiasticorum Latinorum_ (Wien: Holder, Pichler, Tempsky, latest volumes Berlin: De Gruyter) and
+* \[_CCL_] _Corpus Christianorum Series Latina_ (Turnhout: Brepols). New critical editions are continually being prepared and older ones replaced.
 
-The *Patrologia Latina* edition \[*PL*] (Jacques-Paul Migne (ed.), Paris 1877), which used to be the standard edition, is a reprint of the edition of the Benedictines of St.-Maur in Paris from the seventeenth century and naturally does not meet modern critical standards; it remains necessary only for about a third of the sermons for which modern editions are still lacking.
+The _Patrologia Latina_ edition \[_PL_] (Jacques-Paul Migne (ed.), Paris 1877), which used to be the standard edition, is a reprint of the edition of the Benedictines of St.-Maur in Paris from the seventeenth century and naturally does not meet modern critical standards; it remains necessary only for about a third of the sermons for which modern editions are still lacking.
 
 For a full list of Augustine’s works and the standard critical editions see
 
-* *Augustinus-Lexikon* 4 (2012–2018), pp. XI–XXXIV ([available online](https://www.augustinus.de/einfuehrung/werke-mit-werkeliste?start=3)); Fitzgerald (ed.) 1999, xxxv–il.
+* _Augustinus-Lexikon_ 4 (2012–2018), pp. XI–XXXIV ([available online](https://www.augustinus.de/einfuehrung/werke-mit-werkeliste?start=3)); Fitzgerald (ed.) 1999, xxxv–il.
 
 A complete work list is also found in Fuhrer 2018a: 1680–1687.
 
 ### Translations
 
-The most famous works of Augustine, *Confessiones* and *De civitate dei*, have often been translated in various modern languages, but for many of the other works only dated translations or none at all are available. The *Zentrum für Augustinusforschung*, Würzburg, provides a list of (mostly older) translations that are [available online](https://www.augustinus.de/einfuehrung/uebersetzungen-im-www).
+The most famous works of Augustine, _Confessiones_ and _De civitate dei_, have often been translated in various modern languages, but for many of the other works only dated translations or none at all are available. The _Zentrum für Augustinusforschung_, Würzburg, provides a list of (mostly older) translations that are [available online](https://www.augustinus.de/einfuehrung/uebersetzungen-im-www).
 
 #### English
 
 English translations of Augustine’s works down to 1999 are listed in Fitzgerald (ed.) 1999, xxxv–xlii. A nearly complete modern translation is:
 
-* \[*WSA*] *The Works of Saint Augustine. A Translation for the 21st Century*, 46 vols., John E. Rotelle et al. (eds.), New York: New City Press, 1991–2019. Reliable and modern, but almost without annotation.
+* \[_WSA_] _The Works of Saint Augustine. A Translation for the 21st Century_, 46 vols., John E. Rotelle et al. (eds.), New York: New City Press, 1991–2019. Reliable and modern, but almost without annotation.
 
 Two older series of Patristic writers in translation include selected works of Augustine:
 
-* \[*FC*] *The Fathers of the Church*, Ludwig Schopp et al. (eds.), New York: Cima Publishing, 1947ff.
-* \[*ACW*] *Ancient Christian Writers. The Works of the Fathers in Translation*, Johannes Quasten et al. (eds.), New York: Newman Press 1946ff.
+* \[_FC_] _The Fathers of the Church_, Ludwig Schopp et al. (eds.), New York: Cima Publishing, 1947ff.
+* \[_ACW_] _Ancient Christian Writers. The Works of the Fathers in Translation_, Johannes Quasten et al. (eds.), New York: Newman Press 1946ff.
 
 #### French
 
 The last complete translations of Augustine into French date from the nineteenth century. The—still incomplete—standard translation series is:
 
-* \[*BA*] *Bibliothèque Augustinienne. Œuvres de saint Augustin*, Paris: Études Augustiniennes 1936ff. Bilingual editions with rich annotation that often comes close to a commentary. Especially important are the volumes on
-  * *Confessiones* (*BA* 13–14, edited by Aimé Solignac et al., 1962),
-  * *De civitate dei* (*BA* 33–37, edited by Guillaume Bardy and Guillaume Combès, 1959–1960),
-  * *De Genesi ad litteram* (*BA* 48–49, edited by Paul Agaësse and Aimé Solignac, 1972) and
-  * *Letters* 1–30 (*BA* 40/A, edited by Serge Lancel, Emmanuel Bermon et al., 2011).
+* \[_BA_] _Bibliothèque Augustinienne. Œuvres de saint Augustin_, Paris: Études Augustiniennes 1936ff. Bilingual editions with rich annotation that often comes close to a commentary. Especially important are the volumes on
+  * _Confessiones_ (_BA_ 13–14, edited by Aimé Solignac et al., 1962),
+  * _De civitate dei_ (_BA_ 33–37, edited by Guillaume Bardy and Guillaume Combès, 1959–1960),
+  * _De Genesi ad litteram_ (_BA_ 48–49, edited by Paul Agaësse and Aimé Solignac, 1972) and
+  * _Letters_ 1–30 (_BA_ 40/A, edited by Serge Lancel, Emmanuel Bermon et al., 2011).
 
 #### German
 
-No complete translation of Augustine’s work into German exists. Useful older translations are available in the series *Bibliothek der Kirchenväter* (*BKV*; 1st series: 8 vols., München: Kösel 1871–1879; 2nd series: 12 vols., München: Kösel 1911–1936). An annotated bilingual edition of Augustine’s *Opera omnia* was begun in 2002:
+No complete translation of Augustine’s work into German exists. Useful older translations are available in the series _Bibliothek der Kirchenväter_ (_BKV_; 1st series: 8 vols., München: Kösel 1871–1879; 2nd series: 12 vols., München: Kösel 1911–1936). An annotated bilingual edition of Augustine’s _Opera omnia_ was begun in 2002:
 
-* \[*AOW*] *Augustinus: Opera—Werke*, Wilhelm Geerlings, Johannes Brachtendorf, and Volker Henning Drecoll (eds.), Paderborn: Schöningh, 2002ff. 82 volumes planned, 13 completed.
+* \[_AOW_] _Augustinus: Opera—Werke_, Wilhelm Geerlings, Johannes Brachtendorf, and Volker Henning Drecoll (eds.), Paderborn: Schöningh, 2002ff. 82 volumes planned, 13 completed.
 
 A bilingual edition of the anti-Pelagian treatises with full annotation is:
 
-* Kopp, Sebastian, Thomas Gerhard Ring, and Adolar Zumkeller (eds.), 1955–1997, *Sankt Augustinus—Der Lehrer der Gnade. Gesamtausgabe seiner antipelagianischen Schriften*, 8 vols. (6 completed), Würzburg: Augustinus-Verlag.
+* Kopp, Sebastian, Thomas Gerhard Ring, and Adolar Zumkeller (eds.), 1955–1997, _Sankt Augustinus—Der Lehrer der Gnade. Gesamtausgabe seiner antipelagianischen Schriften_, 8 vols. (6 completed), Würzburg: Augustinus-Verlag.
 
 #### Italian
 
-* \[*NBA*] *Nuova Biblioteca Agostiniana. Opere di Sant’Agostino. Edizione latino-italiana*, 44 vols., Agostino Trapé et al. (eds.), Roma: Città Nuova Editrice, 1965–2010. Complete.
+* \[_NBA_] _Nuova Biblioteca Agostiniana. Opere di Sant’Agostino. Edizione latino-italiana_, 44 vols., Agostino Trapé et al. (eds.), Roma: Città Nuova Editrice, 1965–2010. Complete.
 
 ### Commentaries
 
-Except for the *Confessiones* and the Cassiciacum dialogues, detailed commentaries on Augustine’s writings are rare, especially in English. Here is a selection:
+Except for the _Confessiones_ and the Cassiciacum dialogues, detailed commentaries on Augustine’s writings are rare, especially in English. Here is a selection:
 
-* O’Donnell; James J., 1992, *Augustine: Confessions*, 3 vols., Oxford: Oxford University Press. Introduction, text and commentary. \[[O’Donnell 1992 available online](https://www.stoa.org/hippo/)]
-* Simonetti, Manlio et al. (eds.), 1992–1997, *Sant’Agostino. Confessioni*. 5 vols., Milano: Mondadori. Critically revised text, translation and commentary.
-* Flasch, Kurt, 1993, *Was ist Zeit? Augustinus von Hippo. Das XI. Buch der Confessiones*, Frankfurt/Main: Klostermann (2nd edition 2004).
-* Fuhrer, Therese, 1997, *Augustin, Contra Academicos (vel De Academicis), Bücher 2 und 3, Einleitung und Kommentar*, Berlin/New York: De Gruyter.
-* Watson, Gerard, 1990, *Saint Augustine. Soliloquies and Immortality of the Soul, with an Introduction, translation and Commentary*, Warminster: Aris & Phillips.
-* Bermon, Emmanuel, 2007, *La signification et l’enseignement. Texte latin, traduction française et commentaire du ‘De magistro’ de Saint Augustin*, Paris: Vrin.
+* O’Donnell; James J., 1992, _Augustine: Confessions_, 3 vols., Oxford: Oxford University Press. Introduction, text and commentary. \[[O’Donnell 1992 available online](https://www.stoa.org/hippo/)]
+* Simonetti, Manlio et al. (eds.), 1992–1997, _Sant’Agostino. Confessioni_. 5 vols., Milano: Mondadori. Critically revised text, translation and commentary.
+* Flasch, Kurt, 1993, _Was ist Zeit? Augustinus von Hippo. Das XI. Buch der Confessiones_, Frankfurt/Main: Klostermann (2nd edition 2004).
+* Fuhrer, Therese, 1997, _Augustin, Contra Academicos (vel De Academicis), Bücher 2 und 3, Einleitung und Kommentar_, Berlin/New York: De Gruyter.
+* Watson, Gerard, 1990, _Saint Augustine. Soliloquies and Immortality of the Soul, with an Introduction, translation and Commentary_, Warminster: Aris & Phillips.
+* Bermon, Emmanuel, 2007, _La signification et l’enseignement. Texte latin, traduction française et commentaire du ‘De magistro’ de Saint Augustin_, Paris: Vrin.
 
 ### Reference Works
 
-* *Augustinus-Lexikon*, edited by Cornelius Mayer et al., Basel: Schwabe, 1986ff. Four volumes out of five completed (down to “Sacrificium”). Articles in English, French and German, lemmata in Latin. Also available online (license required).
-* *Corpus Augustinianum Gissense*, a Cornelio Mayer editum 3.0 (CAG-online), Basel: Schwabe. Searchable database of Augustine’s complete works in Latin, based on the most recent editions (including quotation search), and bibliographical database with over 50,000 titles. License required. Free access to the bibliographical database at the “Literatur-Portal” of *Zentrum für Augustinusforschung*, Würzburg ([available online](https://www.augustinus.de/literatur/literaturdatenbank)).
-* Drecoll, Volker Henning (ed.), 2007, *Augustin Handbuch*, Tübingen: Mohr Siebeck.
-* Fitzgerald, Allan D. (ed.), 1999, *Augustine through the Ages. An Encyclopedia*, Grand Rapids, MI: Eerdmans 1999. Encyclopedia in one volume, translated into
-  * French: *Saint Augustin. La Méditerranée et l’Europe, IVe–XXIe siècle*, Paris: Édition du Cerf, 2005
-  * Italian: *Agostino. Dizionario enciclopedico*, Roma: Città Nuova Editrice, 2007.
-* Fuhrer, Therese, 2018a, “§ 144. Augustinus von Hippo”, in Christoph Riedweg, Christoph Horn, and Dietmar Wyrwa (eds.), *Die Philosophie der Antike* 5.2: *Philosophie der Kaiserzeit und der Spätantike*, Basel: Schwabe, pp. 1672–1750. With full bibliography down to 2018 (ib. pp. 1828–1853).
-* Pollmann, Karla (ed.), 2013, *The Oxford Guide to the Historical Reception of Augustine*, 3 vols., Oxford: Oxford University Press.
+* _Augustinus-Lexikon_, edited by Cornelius Mayer et al., Basel: Schwabe, 1986ff. Four volumes out of five completed (down to “Sacrificium”). Articles in English, French and German, lemmata in Latin. Also available online (license required).
+* _Corpus Augustinianum Gissense_, a Cornelio Mayer editum 3.0 (CAG-online), Basel: Schwabe. Searchable database of Augustine’s complete works in Latin, based on the most recent editions (including quotation search), and bibliographical database with over 50,000 titles. License required. Free access to the bibliographical database at the “Literatur-Portal” of _Zentrum für Augustinusforschung_, Würzburg ([available online](https://www.augustinus.de/literatur/literaturdatenbank)).
+* Drecoll, Volker Henning (ed.), 2007, _Augustin Handbuch_, Tübingen: Mohr Siebeck.
+* Fitzgerald, Allan D. (ed.), 1999, _Augustine through the Ages. An Encyclopedia_, Grand Rapids, MI: Eerdmans 1999. Encyclopedia in one volume, translated into
+  * French: _Saint Augustin. La Méditerranée et l’Europe, IVe–XXIe siècle_, Paris: Édition du Cerf, 2005
+  * Italian: _Agostino. Dizionario enciclopedico_, Roma: Città Nuova Editrice, 2007.
+* Fuhrer, Therese, 2018a, “§ 144. Augustinus von Hippo”, in Christoph Riedweg, Christoph Horn, and Dietmar Wyrwa (eds.), _Die Philosophie der Antike_ 5.2: _Philosophie der Kaiserzeit und der Spätantike_, Basel: Schwabe, pp. 1672–1750. With full bibliography down to 2018 (ib. pp. 1828–1853).
+* Pollmann, Karla (ed.), 2013, _The Oxford Guide to the Historical Reception of Augustine_, 3 vols., Oxford: Oxford University Press.
 
 ### Introductory and General
 
-* Brown, Peter, 2000, *Augustine of Hippo. A Biography. A New Edition with an Epilogue*, second edition, London: Faber & Faber (first edition 1967). Translated into
-  * German: *Augustinus von Hippo. Eine Biographie*, Frankfurt: Societäts-Verlag, 1973, second edition 2000.
-  * French: *La vie de saint Augustin*, Paris: Éditions du Seuil, 1971.
-* Catapano, Giovanni, 2010a, *Agostino*, Roma: Carocci.
-* Gilson, Étienne, 1943, *Introduction à l’étude de saint Augustin*, second edition, Paris: Vrin. English translation: *The Christian Philosophy of Saint Augustine*, L.E.M. Lynch (trans.), New York: Random House, 1960.
-* Horn, Christoph, 1995, *Augustinus*, München: Beck.
-* Kirwan, Christopher, 1989, *Augustine*, New York: Routledge.
-* Matthews, Gareth B., 2005, *Augustine*, Malden: Blackwell.
-* Meconi, David Vincent and Eleonore Stump (eds.), 2014, *The Cambridge Companion to Augustine*, second edition, Cambridge: Cambridge University Press 2014. Revised and enlarged edition of Stump and Kretzmann (eds.) 2001. doi:10.1017/CCO9781139178044
-* O’Donnell, James J., 2005, *Augustine. A New Biography*, New York: HarperCollins.
-* Rist, John M., 1994, *Augustine. Ancient Thought Baptized*, Cambridge: Cambridge University Press.
-* Stump, Eleonore and Norman Kretzmann (eds.), 2001, *The Cambridge Companion to Augustine*, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521650186
-* Vessey, Mark (ed.), 2012, *A Companion to Augustine*, Chichester: Blackwell. doi:10.1002/9781118255483
-* Wetzel, James, 2010, *Augustine. A Guide for the Perplexed*, London/New York: Bloomsbury.
+* Brown, Peter, 2000, _Augustine of Hippo. A Biography. A New Edition with an Epilogue_, second edition, London: Faber & Faber (first edition 1967). Translated into
+  * German: _Augustinus von Hippo. Eine Biographie_, Frankfurt: Societäts-Verlag, 1973, second edition 2000.
+  * French: _La vie de saint Augustin_, Paris: Éditions du Seuil, 1971.
+* Catapano, Giovanni, 2010a, _Agostino_, Roma: Carocci.
+* Gilson, Étienne, 1943, _Introduction à l’étude de saint Augustin_, second edition, Paris: Vrin. English translation: _The Christian Philosophy of Saint Augustine_, L.E.M. Lynch (trans.), New York: Random House, 1960.
+* Horn, Christoph, 1995, _Augustinus_, München: Beck.
+* Kirwan, Christopher, 1989, _Augustine_, New York: Routledge.
+* Matthews, Gareth B., 2005, _Augustine_, Malden: Blackwell.
+* Meconi, David Vincent and Eleonore Stump (eds.), 2014, _The Cambridge Companion to Augustine_, second edition, Cambridge: Cambridge University Press 2014. Revised and enlarged edition of Stump and Kretzmann (eds.) 2001. doi:10.1017/CCO9781139178044
+* O’Donnell, James J., 2005, _Augustine. A New Biography_, New York: HarperCollins.
+* Rist, John M., 1994, _Augustine. Ancient Thought Baptized_, Cambridge: Cambridge University Press.
+* Stump, Eleonore and Norman Kretzmann (eds.), 2001, _The Cambridge Companion to Augustine_, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521650186
+* Vessey, Mark (ed.), 2012, _A Companion to Augustine_, Chichester: Blackwell. doi:10.1002/9781118255483
+* Wetzel, James, 2010, _Augustine. A Guide for the Perplexed_, London/New York: Bloomsbury.
 
 ### Greek and Latin Authors Cited
 
-* Cicero, *De officiis*, Michael Winterbottom (ed.), Oxford: Oxford University Press, 1994.
-* –––, *Tusculanae disputationes*, Max Pohlenz (ed.), Leipzig: Teubner, 1918.
-* Diogenes Laertius, *Lives of eminent philosophers*, Tiziano Dorandi (ed.), Cambridge: Cambridge University Press, 2013.
-* Macrobius, *Commentarii in Somnium Scipionis – Commentaire au songe de Scipion*, Mireille Armisen-Marchetti (ed. trans.), 2 vols., Paris, 2003.
-* Plato, *Opera*, Elizabeth A. Duke, et al. (eds.), Oxford: Oxford University Press, 1995 (vol. 1); John Burnet (ed.), Oxford: Oxford University Press 1901–1907 (vols. 2–5).
-* Plotinus, *Opera*, Paul Henry and Hans-Rudolf Schwyzer (eds.), 3 vols., Oxford: Oxford University Press, 1964–1982.
-* Porphyry, *Sententiae ad intelligibilia ducentes*, Erich Lamberz (ed.), Leipzig: Teubner, 1975.
-* Possidius, *Sancti Augustini vita*, Herbert T. Weiskotten (ed.), Princeton: Princeton University Press, 1919.
-* Sextus Empiricus, *Opera*, Hermann Mutschmann et al. (eds.), 4 vols., Leipzig: Teubner, 1914–1962.
-* Long, Anthony A. and David N. Sedley (eds.), 1987, *The Hellenistic Philosophers*, Cambridge: Cambridge University Press.
+* Cicero, _De officiis_, Michael Winterbottom (ed.), Oxford: Oxford University Press, 1994.
+* –––, _Tusculanae disputationes_, Max Pohlenz (ed.), Leipzig: Teubner, 1918.
+* Diogenes Laertius, _Lives of eminent philosophers_, Tiziano Dorandi (ed.), Cambridge: Cambridge University Press, 2013.
+* Macrobius, _Commentarii in Somnium Scipionis – Commentaire au songe de Scipion_, Mireille Armisen-Marchetti (ed. trans.), 2 vols., Paris, 2003.
+* Plato, _Opera_, Elizabeth A. Duke, et al. (eds.), Oxford: Oxford University Press, 1995 (vol. 1); John Burnet (ed.), Oxford: Oxford University Press 1901–1907 (vols. 2–5).
+* Plotinus, _Opera_, Paul Henry and Hans-Rudolf Schwyzer (eds.), 3 vols., Oxford: Oxford University Press, 1964–1982.
+* Porphyry, _Sententiae ad intelligibilia ducentes_, Erich Lamberz (ed.), Leipzig: Teubner, 1975.
+* Possidius, _Sancti Augustini vita_, Herbert T. Weiskotten (ed.), Princeton: Princeton University Press, 1919.
+* Sextus Empiricus, _Opera_, Hermann Mutschmann et al. (eds.), 4 vols., Leipzig: Teubner, 1914–1962.
+* Long, Anthony A. and David N. Sedley (eds.), 1987, _The Hellenistic Philosophers_, Cambridge: Cambridge University Press.
 
 ### Selected Secondary Literature
 
-* Ayres, Lewis, 2010, *Augustine and the Trinity*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780301
-* BeDuhn, Jason D., 2010, *Augustine’s Manichaean Dilemma 1: Conversion and Apostasy, 373–388 C.E.*, Philadelphia: University of Pennsylvania Press.
-* –––, 2013, *Augustine’s Manichaean Dilemma 2. Making a “Catholic” Self, 388–401 C.E.*, Philadelphia: University of Pennsylvania Press.
-* Bermon, Emmanuel, 2001, *Le cogito dans la pensée de saint Augustin*, Paris: Vrin.
-* Bermon, Emmanuel and Gerard O’Daly (eds.), 2012, *Le De Trinitate de saint Augustin. Exégèse, logique et noétique. Actes du colloque international de Bordeaux, 16–19 juin 2010*, Paris: Études Augustiniennes.
+* Ayres, Lewis, 2010, _Augustine and the Trinity_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780301
+* BeDuhn, Jason D., 2010, _Augustine’s Manichaean Dilemma 1: Conversion and Apostasy, 373–388 C.E._, Philadelphia: University of Pennsylvania Press.
+* –––, 2013, _Augustine’s Manichaean Dilemma 2. Making a “Catholic” Self, 388–401 C.E._, Philadelphia: University of Pennsylvania Press.
+* Bermon, Emmanuel, 2001, _Le cogito dans la pensée de saint Augustin_, Paris: Vrin.
+* Bermon, Emmanuel and Gerard O’Daly (eds.), 2012, _Le De Trinitate de saint Augustin. Exégèse, logique et noétique. Actes du colloque international de Bordeaux, 16–19 juin 2010_, Paris: Études Augustiniennes.
 * Bittner, Rüdiger, 1999, “Augustine’s Philosophy of History”, in Matthews 1999: 345–360.
-* Bochet, Isabelle, 2011, “Les *quaestiones* attribuées à Porphyre dans la Lettre 102 d’Augustin”, in Sébastien Morlet (ed.), *Le traité de Porphyre Contre les chrétiens. Un siècle de recherches, nouvelles questions. Actes du colloque international organisé les 8 et 9 septembre 2009 à l’Université de Paris IV-Sorbonne*, Paris: Études Augustiniennes, pp. 371–394.
+* Bochet, Isabelle, 2011, “Les _quaestiones_ attribuées à Porphyre dans la Lettre 102 d’Augustin”, in Sébastien Morlet (ed.), _Le traité de Porphyre Contre les chrétiens. Un siècle de recherches, nouvelles questions. Actes du colloque international organisé les 8 et 9 septembre 2009 à l’Université de Paris IV-Sorbonne_, Paris: Études Augustiniennes, pp. 371–394.
 * Børresen, Kari E., 2013, “Challenging Augustine in Feminist Theology and Gender Studies”, in Pollmann 2013: 135–141.
-* Bouton-Touboulic, Anne-Isabelle, 2004, *L’ordre caché. La notion d’ordre chez saint Augustin*, Paris: Études Augustiniennes.
-* –––, 2012, “Qu’il n’y a pas d’amour sans connaissance: étude d’un argument du *De Trinitate*, livres VIII–XV”, in Bermon and O’Daly 2012: 181–203.
-* Brachtendorf, Johannes, 2000, *Die Struktur des menschlichen Geistes nach Augustinus. Selbstreflexion und Erkenntnis Gottes in De trinitate*, Hamburg: Meiner.
-* –––, 2005, *Augustins ‘Confessiones’*, Darmstadt: Wissenschaftliche Buchgesellschaft.
-* –––, 2012, “Time, Memory, and Selfhood in *De Trinitate*”, in Bermon and O’Daly 2012: 221–233.
-* Brittain, Charles, 2002, “Non-Rational Perception in the Stoics and Augustine”, *Oxford Studies in Ancient Philosophy*, 22: 253–308.
-* –––, 2003, “Colloquium 7: Attention Deficit in Plotinus and Augustine: Psychological Problems in Christian and Platonist Theories of the Grades of Virtue”, *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 18: 223–275. doi:10.1163/22134417-90000043
-* –––, 2012a, “Self-Knowledge in Cicero and Augustine (*De trinitate*, X, 5, 7–10, 16)”, in Catapano and Cillerai 2012: 107–135.
-* –––, 2012b, “Intellectual Self-Knowledge in Augustine (*De Trinitate* 14.7–14)”, in Bermon and O’Daly 2012: 313–330.
-* Brown, Peter, 1988, *The Body and Society. Men, Women and Sexual Renunciation in Early Christianity*, New York: Columbia University Press. Translated into
-  * German: *Die Keuschheit der Engel. Sexuelle Entsagung, Askese und Körperlichkeit im frühen Christentum*, München: Hanser, 1991.
-  * French: *Le Renoncement à la chair. Virginité, célibat et continence dans le christianisme primitif*, Paris: Gallimard, 1995.
-* Bubacz, Bruce, 1981, *St. Augustine’s Theory of Knowledge. A Contemporary Analysis*, New York: Edwin Mellen Press.
-* Burnell, Peter J., 1992, “The Status of Politics in St. Augustine’s ‘City of God’”, *History of Political Thought*, 13(1): 13–29.
-* –––, 1995, “Concupiscence and Moral Freedom in Augustine and before Augustine”:, *Augustinian Studies*, 26(1): 49–63. doi:10.5840/augstudies19952612
-* Burnyeat, Myles F., 1987, “Wittgenstein and Augustine *De Magistro*”, *Aristotelian Society Supplementary Volume*, 61: 1–24. Reprinted in Matthews 1999: 286–303. doi:10.1093/aristoteliansupp/61.1.1
+* Bouton-Touboulic, Anne-Isabelle, 2004, _L’ordre caché. La notion d’ordre chez saint Augustin_, Paris: Études Augustiniennes.
+* –––, 2012, “Qu’il n’y a pas d’amour sans connaissance: étude d’un argument du _De Trinitate_, livres VIII–XV”, in Bermon and O’Daly 2012: 181–203.
+* Brachtendorf, Johannes, 2000, _Die Struktur des menschlichen Geistes nach Augustinus. Selbstreflexion und Erkenntnis Gottes in De trinitate_, Hamburg: Meiner.
+* –––, 2005, _Augustins ‘Confessiones’_, Darmstadt: Wissenschaftliche Buchgesellschaft.
+* –––, 2012, “Time, Memory, and Selfhood in _De Trinitate_”, in Bermon and O’Daly 2012: 221–233.
+* Brittain, Charles, 2002, “Non-Rational Perception in the Stoics and Augustine”, _Oxford Studies in Ancient Philosophy_, 22: 253–308.
+* –––, 2003, “Colloquium 7: Attention Deficit in Plotinus and Augustine: Psychological Problems in Christian and Platonist Theories of the Grades of Virtue”, _Proceedings of the Boston Area Colloquium in Ancient Philosophy_, 18: 223–275. doi:10.1163/22134417-90000043
+* –––, 2012a, “Self-Knowledge in Cicero and Augustine (_De trinitate_, X, 5, 7–10, 16)”, in Catapano and Cillerai 2012: 107–135.
+* –––, 2012b, “Intellectual Self-Knowledge in Augustine (_De Trinitate_ 14.7–14)”, in Bermon and O’Daly 2012: 313–330.
+* Brown, Peter, 1988, _The Body and Society. Men, Women and Sexual Renunciation in Early Christianity_, New York: Columbia University Press. Translated into
+  * German: _Die Keuschheit der Engel. Sexuelle Entsagung, Askese und Körperlichkeit im frühen Christentum_, München: Hanser, 1991.
+  * French: _Le Renoncement à la chair. Virginité, célibat et continence dans le christianisme primitif_, Paris: Gallimard, 1995.
+* Bubacz, Bruce, 1981, _St. Augustine’s Theory of Knowledge. A Contemporary Analysis_, New York: Edwin Mellen Press.
+* Burnell, Peter J., 1992, “The Status of Politics in St. Augustine’s ‘City of God’”, _History of Political Thought_, 13(1): 13–29.
+* –––, 1995, “Concupiscence and Moral Freedom in Augustine and before Augustine”:, _Augustinian Studies_, 26(1): 49–63. doi:10.5840/augstudies19952612
+* Burnyeat, Myles F., 1987, “Wittgenstein and Augustine _De Magistro_”, _Aristotelian Society Supplementary Volume_, 61: 1–24. Reprinted in Matthews 1999: 286–303. doi:10.1093/aristoteliansupp/61.1.1
 * Byers, Sarah, 2012a, “Augustine and the Philosophers”, in Vessey 2012: 175–187. doi:10.1002/9781118255483.ch14
-* –––, 2012b, “The Psychology of Compassion: Stoicism in *City of God* 9.5”, in Wetzel 2012: 130–148. doi:10.1017/CBO9781139014144.008
-* –––, 2013, *Perception, Sensibility, and Moral Motivation in Augustine: A Stoic-Platonic Synthesis*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139086110
-* Cary, Phillip, 2000, *Augustine’s Invention of the Inner Self. The Legacy of a Christian Platonist*, Oxford: Oxford University Press.
-* –––, 2008a, *Inner Grace: Augustine in the Traditions of Plato and Paul*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195336481.001.0001
-* –––, 2008b, *Outward Signs: The Powerlessness of External Things in Augustine’s Thought*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195336498.001.0001
-* Cary, Phillip, John Doody, and Kim Paffenroth (eds.), 2010, *Augustine and Philosophy*, Lanham, MD: Lexington Books.
-* Cassin, Mireille, 2017, *Augustin est-il mystique?*, Paris: Les éditions du Cerf.
-* Castagnoli, Luca, 2010, *Ancient Self-Refutation: The Logic and History of the Self-Refutation Argument from Democritus to Augustine*, Cambridge: Cambridge University Press.
-* Catapano, Giovanni, 2010, “Augustine”, in *The Cambridge History of Philosophy in Late Antiquity*, Lloyd Gerson (ed.), Cambridge: Cambridge University Press, 1:552–581. doi:10.1017/CHOL9780521764407.038
-* –––, 2013, “The Epistemological Background of Augustine’s Dialogues”, in Sabine Föllinger and Gernot M. Müller (eds.), *Der Dialog in der Antike. Formen und Funktionen einer literarischen Gattung zwischen Philosophie, Wissensvermittlung und dramatischer Inszenierung*, Berlin/Boston: De Gruyter, pp. 107–122.
-* –––, 2012–2018a, “Philosophia”, *Augustinus-Lexikon*, 4: 719–742.
-* –––, 2012–2018b, “Ratio”, *Augustinus-Lexikon*, 4: 1069–1084.
-* –––, forthcoming, “Signum—res”, *Augustinus-Lexikon*, 5.
-* Catapano, Giovanni and Beatrice Cillerai (eds.), 2012, *Il De trinitate di Agostino e la sua fortuna nella filosofia medievale/Augustine’s De trinitate and Its Fortune in Medieval Philosophy* (= *Medioevo. Rivista di storia della filosofia medievale* 27), Padova: Il Poligrafo.
-* Chappell, Timothy D.J., 1995, *Aristotle and Augustine on Freedom. Two Theories of Freedom, Voluntary Action and Akrasia*, New York: St. Martin’s Press.
-* Cillerai, Beatrice, 2008, *La memoria come ‘capacitas Dei’ secondo Agostino. Unità e complessità*, Pisa: Edizioni ETS.
+* –––, 2012b, “The Psychology of Compassion: Stoicism in _City of God_ 9.5”, in Wetzel 2012: 130–148. doi:10.1017/CBO9781139014144.008
+* –––, 2013, _Perception, Sensibility, and Moral Motivation in Augustine: A Stoic-Platonic Synthesis_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139086110
+* Cary, Phillip, 2000, _Augustine’s Invention of the Inner Self. The Legacy of a Christian Platonist_, Oxford: Oxford University Press.
+* –––, 2008a, _Inner Grace: Augustine in the Traditions of Plato and Paul_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195336481.001.0001
+* –––, 2008b, _Outward Signs: The Powerlessness of External Things in Augustine’s Thought_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195336498.001.0001
+* Cary, Phillip, John Doody, and Kim Paffenroth (eds.), 2010, _Augustine and Philosophy_, Lanham, MD: Lexington Books.
+* Cassin, Mireille, 2017, _Augustin est-il mystique?_, Paris: Les éditions du Cerf.
+* Castagnoli, Luca, 2010, _Ancient Self-Refutation: The Logic and History of the Self-Refutation Argument from Democritus to Augustine_, Cambridge: Cambridge University Press.
+* Catapano, Giovanni, 2010, “Augustine”, in _The Cambridge History of Philosophy in Late Antiquity_, Lloyd Gerson (ed.), Cambridge: Cambridge University Press, 1:552–581. doi:10.1017/CHOL9780521764407.038
+* –––, 2013, “The Epistemological Background of Augustine’s Dialogues”, in Sabine Föllinger and Gernot M. Müller (eds.), _Der Dialog in der Antike. Formen und Funktionen einer literarischen Gattung zwischen Philosophie, Wissensvermittlung und dramatischer Inszenierung_, Berlin/Boston: De Gruyter, pp. 107–122.
+* –––, 2012–2018a, “Philosophia”, _Augustinus-Lexikon_, 4: 719–742.
+* –––, 2012–2018b, “Ratio”, _Augustinus-Lexikon_, 4: 1069–1084.
+* –––, forthcoming, “Signum—res”, _Augustinus-Lexikon_, 5.
+* Catapano, Giovanni and Beatrice Cillerai (eds.), 2012, _Il De trinitate di Agostino e la sua fortuna nella filosofia medievale/Augustine’s De trinitate and Its Fortune in Medieval Philosophy_ (= _Medioevo. Rivista di storia della filosofia medievale_ 27), Padova: Il Poligrafo.
+* Chappell, Timothy D.J., 1995, _Aristotle and Augustine on Freedom. Two Theories of Freedom, Voluntary Action and Akrasia_, New York: St. Martin’s Press.
+* Cillerai, Beatrice, 2008, _La memoria come ‘capacitas Dei’ secondo Agostino. Unità e complessità_, Pisa: Edizioni ETS.
 * –––, 2012, “La mens-imago et la « mémoire métaphysique » dans la réflexion trinitaire de saint Augustin”, in Bermon and O’Daly 2012: 291–312.
-* Clark, Elizabeth A., 1996, *St. Augustine on Marriage and Sexuality*, Washington, DC: The Catholic University of America Press.
-* –––, 2000, “Vitiated Seeds and Holy Vessels. Augustine’s Manichean Past”, in Karen L. King (ed.), *Images of the Feminine in Gnosticism*, Harrisburg, PA: Trinity Press International, pp. 367–401.
-* Clark, Gillian, 2009, “Can We Talk? Augustine and the Possibility of Dialogue”, in *The End of Dialogue in Antiquity*, Simon Goldhill (ed.), Cambridge: Cambridge University Press, 117–134. doi:10.1017/CBO9780511575464.007
-* –––, 2015, *Monica. An Ordinary Saint*, Oxford: Oxford University Press.
-* Colish, Marcia L., 1980, *The Stoic Tradition from Antiquity to the Early Middle Ages II: Stoicism in Latin Christian Thought through the Sixth Century*, Leiden: Brill.
-* den Bok, Nico W., 1994, “Freedom of the Will: A Systematic and Biographical Sounding of Augustine’s Thoughts on Human Willing”, *Augustiniana*, 44(3/4): 237–270.
-* Dihle, Albrecht, 1982, *The Theory of Will in Classical Antiquity*, Berkeley: University of California Press 1982. German translation: *Die Vorstellung vom Willen in der Antike*, Göttingen: Vandenhoeck & Ruprecht, 1985.
-* Dobell, Brian, 2009, *Augustine’s Intellectual Conversion: The Journey from Platonism to Christianity*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511691744
-* Dodaro, Robert, 2004a, *Christ and the Just Society in the Thought of Augustine*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487668
-* –––, 2004b, “Political and Theological Virtues in Augustine, Letter 155 to Macedonius”, *Augustiniana*, 54(1/4): 431–474.
-* –––, 2009, “*Ecclesia* and *Res publica.* How Augustinian are Neo-Augustinian Politics?”, in: Lieven Boeve, Mathijs Lamberigts, and Maarten Wisse (eds.), *Augustine and Postmodern Thought. A New Alliance against Modernity?* Leuven: Peeters, pp. 237–271.
+* Clark, Elizabeth A., 1996, _St. Augustine on Marriage and Sexuality_, Washington, DC: The Catholic University of America Press.
+* –––, 2000, “Vitiated Seeds and Holy Vessels. Augustine’s Manichean Past”, in Karen L. King (ed.), _Images of the Feminine in Gnosticism_, Harrisburg, PA: Trinity Press International, pp. 367–401.
+* Clark, Gillian, 2009, “Can We Talk? Augustine and the Possibility of Dialogue”, in _The End of Dialogue in Antiquity_, Simon Goldhill (ed.), Cambridge: Cambridge University Press, 117–134. doi:10.1017/CBO9780511575464.007
+* –––, 2015, _Monica. An Ordinary Saint_, Oxford: Oxford University Press.
+* Colish, Marcia L., 1980, _The Stoic Tradition from Antiquity to the Early Middle Ages II: Stoicism in Latin Christian Thought through the Sixth Century_, Leiden: Brill.
+* den Bok, Nico W., 1994, “Freedom of the Will: A Systematic and Biographical Sounding of Augustine’s Thoughts on Human Willing”, _Augustiniana_, 44(3/4): 237–270.
+* Dihle, Albrecht, 1982, _The Theory of Will in Classical Antiquity_, Berkeley: University of California Press 1982. German translation: _Die Vorstellung vom Willen in der Antike_, Göttingen: Vandenhoeck & Ruprecht, 1985.
+* Dobell, Brian, 2009, _Augustine’s Intellectual Conversion: The Journey from Platonism to Christianity_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511691744
+* Dodaro, Robert, 2004a, _Christ and the Just Society in the Thought of Augustine_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487668
+* –––, 2004b, “Political and Theological Virtues in Augustine, Letter 155 to Macedonius”, _Augustiniana_, 54(1/4): 431–474.
+* –––, 2009, “_Ecclesia_ and _Res publica._ How Augustinian are Neo-Augustinian Politics?”, in: Lieven Boeve, Mathijs Lamberigts, and Maarten Wisse (eds.), _Augustine and Postmodern Thought. A New Alliance against Modernity?_ Leuven: Peeters, pp. 237–271.
 * –––, 2012, “Augustine on the Statesman and the Two Cities”, in Vessey 2012: 386–397. doi:10.1002/9781118255483.ch30
-* Doody, John, Kevin L. Hughes, and Kim Paffenroth (eds.), 2005, *Augustine and Politics*, Lanham: Lexington Books.
-* Drecoll, Volker Henning, 1999, *Die Entstehung der Gnadenlehre Augustins*, Tübingen: Mohr Siebeck.
-* –––, 2004–2010, “Gratia”, *Augustinus-Lexikon*, 3. 182–242.
-* –––, 2012–2018, “Pelagius, Pelagiani”, *Augustinus-Lexikon*, 4: 624–666.
-* du Roy, Olivier, 1966, *L’intelligence de la foi en la Trinité selon saint Augustin. Genèse de sa théologie trinitaire jusqu’en 391*, Paris: Études Augustiniennes.
+* Doody, John, Kevin L. Hughes, and Kim Paffenroth (eds.), 2005, _Augustine and Politics_, Lanham: Lexington Books.
+* Drecoll, Volker Henning, 1999, _Die Entstehung der Gnadenlehre Augustins_, Tübingen: Mohr Siebeck.
+* –––, 2004–2010, “Gratia”, _Augustinus-Lexikon_, 3. 182–242.
+* –––, 2012–2018, “Pelagius, Pelagiani”, _Augustinus-Lexikon_, 4: 624–666.
+* du Roy, Olivier, 1966, _L’intelligence de la foi en la Trinité selon saint Augustin. Genèse de sa théologie trinitaire jusqu’en 391_, Paris: Études Augustiniennes.
 * Dutton, Blake D., 2014, “The Privacy of the Mind and the Fully Approvable Reading of Scripture”, in Mann 2014: 155–180. doi:10.1093/acprof:oso/9780199577552.003.0008
-* Dyson, Robert W., 2001, *The Pilgrim City. Social and Political Ideas in the Writings of St. Augustine of Hippo*, Woodbridge: Boydell.
-* Flasch, Kurt, 1995, *Logik des Schreckens. Aurelius Augustinus, De diversis quaestionibus ad Simplicianum I 2*, Deutsche Erstübersetzung von Walter Schäfer. Herausgegeben und erklärt von Kurt Flasch, second edition, Mainz: Dieterich (first edition 1990).
-* Frede, Michael, 2011, *A Free Will. Origins of the Notion in Ancient Thought*, Anthony A. Long (ed.), Berkeley: University of California Press.
-* Fuchs, Marko J., 2010, *Sum und cogito. Grundfiguren endlichen Selbstseins bei Augustinus und Descartes*, Paderborn: Schöningh.
+* Dyson, Robert W., 2001, _The Pilgrim City. Social and Political Ideas in the Writings of St. Augustine of Hippo_, Woodbridge: Boydell.
+* Flasch, Kurt, 1995, _Logik des Schreckens. Aurelius Augustinus, De diversis quaestionibus ad Simplicianum I 2_, Deutsche Erstübersetzung von Walter Schäfer. Herausgegeben und erklärt von Kurt Flasch, second edition, Mainz: Dieterich (first edition 1990).
+* Frede, Michael, 2011, _A Free Will. Origins of the Notion in Ancient Thought_, Anthony A. Long (ed.), Berkeley: University of California Press.
+* Fuchs, Marko J., 2010, _Sum und cogito. Grundfiguren endlichen Selbstseins bei Augustinus und Descartes_, Paderborn: Schöningh.
 * Fuhrer, Therese, 1999, “Zum erkenntnistheoretischen Hintergrund von Augustins Glaubensbegriff”, in Fuhrer and Erler 1999: 191–211.
-* –––, 2013, “Augustine’s Moulding of the Manichaean Idea of God in the *Confessions*”, *Vigiliae Christianae*, 67(5): 531–547. doi:10.1163/15700720-12341155
-* –––, 2018b, “*Ille intus magister*. On Augustine’s didactic concept of interiority”, in Peter Gemeinhardt et al. (eds.), *Teachers in late antique Christianity*, Tübingen: Mohr Siebeck, pp. 129–146.
-* Fuhrer, Therese and Michael Erler (eds.), 1999, *Zur Rezeption der hellenistischen Philosophie in der Spätantike*, Stuttgart: Teubner.
-* Gioia, Luigi, 2007, *The Theological Epistemology of Augustine’s De Trinitate*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199553464.001.0001
-* Hadot, Ilsetraut, 2005, *Arts libéraux et philosophie dans la pensée antique*, second edition, Paris: Vrin (first edition 1984).
-* Hagendahl, Harald, 1967, *Augustine and the Latin Classics*, Stockholm: Almqvist & Wiksell.
-* Harding, Brian, 2008, *Augustine and Roman Virtue*, London/New York: Bloomsbury.
-* Harrison, Carol, 2006, *Rethinking Augustine’s Early Theology: An Argument for Continuity*, Oxford: Oxford University Press. doi:10.1093/0199281661.001.0001
+* –––, 2013, “Augustine’s Moulding of the Manichaean Idea of God in the _Confessions_”, _Vigiliae Christianae_, 67(5): 531–547. doi:10.1163/15700720-12341155
+* –––, 2018b, “_Ille intus magister_. On Augustine’s didactic concept of interiority”, in Peter Gemeinhardt et al. (eds.), _Teachers in late antique Christianity_, Tübingen: Mohr Siebeck, pp. 129–146.
+* Fuhrer, Therese and Michael Erler (eds.), 1999, _Zur Rezeption der hellenistischen Philosophie in der Spätantike_, Stuttgart: Teubner.
+* Gioia, Luigi, 2007, _The Theological Epistemology of Augustine’s De Trinitate_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199553464.001.0001
+* Hadot, Ilsetraut, 2005, _Arts libéraux et philosophie dans la pensée antique_, second edition, Paris: Vrin (first edition 1984).
+* Hagendahl, Harald, 1967, _Augustine and the Latin Classics_, Stockholm: Almqvist & Wiksell.
+* Harding, Brian, 2008, _Augustine and Roman Virtue_, London/New York: Bloomsbury.
+* Harrison, Carol, 2006, _Rethinking Augustine’s Early Theology: An Argument for Continuity_, Oxford: Oxford University Press. doi:10.1093/0199281661.001.0001
 * Harrison, Simon, 1999, “Do We Have a Will? Augustine’s Way in to the Will”, in Matthews 1999: 195–205.
-* –––, 2006, *Augustine’s Way into the Will: The Theological and Philosophical Significance of De Libero Arbitrio*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198269847.001.0001
+* –––, 2006, _Augustine’s Way into the Will: The Theological and Philosophical Significance of De Libero Arbitrio_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198269847.001.0001
 * Helm, Paul, 2014, “Thinking Eternally\*”, in Mann 2014: 135–154. doi:10.1093/acprof:oso/9780199577552.003.0007
-* Hoffmann, Philippe, 2017, “Temps et éternité dans le livre XI des Confessions : Augustin, Plotin, Porphyre et Saint Paul”, *Revue d’Etudes Augustiniennes et Patristiques*, 63(1): 31–79. doi:10.1484/J.REA.4.2017072
+* Hoffmann, Philippe, 2017, “Temps et éternité dans le livre XI des Confessions : Augustin, Plotin, Porphyre et Saint Paul”, _Revue d’Etudes Augustiniennes et Patristiques_, 63(1): 31–79. doi:10.1484/J.REA.4.2017072
 * Holmes, Robert L., 1999, “St. Augustine and the Just War Theory”, in Matthews 1999: 323–344.
-* Hölscher, Ludger, 1986, *The Reality of Mind. Augustine’s Philosophical Arguments for the Human Soul as a Spiritual Substance*, London/New York: Routledge. German translation: *Die Realität des Geistes. Eine Darstellung und phänomenologische Neubegründung der Argumente Augustins für die geistige Substantialität der Seele*, Heidelberg: Winter 1999.
-* Holte, Ragnar, 1962, *Béatitude et sagesse. Saint Augustin et le problème de la fin de l’homme dans la philosophie ancienne*, Paris: Études Augustiniennes.
-* Horn, Christoph, 1996, “Augustinus und die Entstehung des philosophischen Willensbegriffs”, *Zeitschrift für philosophische Forschung* 50(1/2): 113–132.
-* ––– (ed.), 1997, *Augustinus. De civitate dei*, (*Klassiker Auslegen*, 11), Berlin: Akademie Verlag.
+* Hölscher, Ludger, 1986, _The Reality of Mind. Augustine’s Philosophical Arguments for the Human Soul as a Spiritual Substance_, London/New York: Routledge. German translation: _Die Realität des Geistes. Eine Darstellung und phänomenologische Neubegründung der Argumente Augustins für die geistige Substantialität der Seele_, Heidelberg: Winter 1999.
+* Holte, Ragnar, 1962, _Béatitude et sagesse. Saint Augustin et le problème de la fin de l’homme dans la philosophie ancienne_, Paris: Études Augustiniennes.
+* Horn, Christoph, 1996, “Augustinus und die Entstehung des philosophischen Willensbegriffs”, _Zeitschrift für philosophische Forschung_ 50(1/2): 113–132.
+* ––– (ed.), 1997, _Augustinus. De civitate dei_, (_Klassiker Auslegen_, 11), Berlin: Akademie Verlag.
 * –––, 1999, “Augustinus über Tugend, Moralität und das höchste Gut”, in Fuhrer and Erler 1999: 173–190.
 * –––, 2012, “Augustine’s Theory of Mind and Self-Knowledge: Some Fundamental Problems”, in Bermon and O’Daly 2012: 205–219.
-* Irwin, Terence H., 1999, “Splendid Vices? Augustine For and Against Pagan Virtues”, *Medieval Philosophy and Theology*, 8(2): 105–127. doi:10.1017/S1057060899082018
-* Kahn, Charles H., 1988, “Discovering the Will. From Aristotle to Augustine”, in John M. Dillon and Anthony A. Long (eds.), *The Question of ‘Eclecticism’. Studies in Later Greek Philosophy*, Berkeley, CA: The University of California Press, pp. 234–259.
-* Kany, Roland, 2007, *Augustins Trinitätsdenken. Bilanz, Kritik und Weiterführung der modernen Forschung zu ‘De trinitate’*, Tübingen: Mohr Siebeck.
-* Karfíková, Lenka, 2012, *Grace and the Will According to Augustine*, Markéta Janebová (trans.), Leiden/Boston: Brill. doi:10.1163/9789004229211
-* –––, 2017, “Augustine on Recollection between Plato and Plotinus”, in Markus Vinzent (ed.), *Studia Patristica 75. Papers presented at the Seventeenth International Conference on Patristic Studies held in Oxford 2015*, Leuven: Peeters, pp. 81–102.
-* King, Peter, 2012, “The Semantics of Augustine’s Trinitarian Analysis in *De Trinitate* 5–7”, in Bermon and O’Daly 201: 123–135.
+* Irwin, Terence H., 1999, “Splendid Vices? Augustine For and Against Pagan Virtues”, _Medieval Philosophy and Theology_, 8(2): 105–127. doi:10.1017/S1057060899082018
+* Kahn, Charles H., 1988, “Discovering the Will. From Aristotle to Augustine”, in John M. Dillon and Anthony A. Long (eds.), _The Question of ‘Eclecticism’. Studies in Later Greek Philosophy_, Berkeley, CA: The University of California Press, pp. 234–259.
+* Kany, Roland, 2007, _Augustins Trinitätsdenken. Bilanz, Kritik und Weiterführung der modernen Forschung zu ‘De trinitate’_, Tübingen: Mohr Siebeck.
+* Karfíková, Lenka, 2012, _Grace and the Will According to Augustine_, Markéta Janebová (trans.), Leiden/Boston: Brill. doi:10.1163/9789004229211
+* –––, 2017, “Augustine on Recollection between Plato and Plotinus”, in Markus Vinzent (ed.), _Studia Patristica 75. Papers presented at the Seventeenth International Conference on Patristic Studies held in Oxford 2015_, Leuven: Peeters, pp. 81–102.
+* King, Peter, 2012, “The Semantics of Augustine’s Trinitarian Analysis in _De Trinitate_ 5–7”, in Bermon and O’Daly 201: 123–135.
 * –––, 2014a, “Augustine on Knowledge”, in Meconi and Stump 2014: 142–165. doi:10.1017/CCO9781139178044.013
 * –––, 2014b, “Augustine on Language”, in Meconi and Stump 2014: 292–310. doi:10.1017/CCO9781139178044.023
 * Kirwan, Christopher, 2001, “Augustine’s Philosophy of Language”, in Stump and Kretzmann 2001: 186–204. doi:10.1017/CCOL0521650186.015
 * Knuuttila, Simo, 2001, “Time and Creation in Augustine”, in Stump and Kretzmann 2001: 103–115. Reprinted in Meconi and Stump 2014: 81–97. doi:10.1017/CCOL0521650186.009 doi:10.1017/CCO9781139178044.008
-* Lagouanère, Jérôme, 2012, *Intériorité et réflexivité dans la pensée de saint Augustin. Formes et genèse d’une conceptualization*, Paris: Études Augustiniennes.
-* Lamberigts, Mathijs, 2000, “A Critical Evaluation of Critiques of Augustine’s View of Sexuality”, in Robert Dodaro and George Lawless (eds.), *Augustine and his Critics. Essays in Honour of Gerald Bonner*, London/New York: Routledge, pp. 176–197.
-* –––, 2001, “Was Augustine a Manichaean? The Assessment of Julian of Aeclanum”, in Johannes van Oort et al. (eds.), *Augustine and Manicheism in the Latin West*, Leiden: Brill, pp. 113–136.
-* –––, 2004, “Augustine on Predestination. Some *Quaestiones Disputatae* Revisited”, *Augustiniana*, 54(1/4): 279–305.
-* Lancel, Serge and James S. Alexander, 1996–2002, “Donatistae”, *Augustinus-Lexikon*, 2: 606–638.
-* Lettieri, Gaetano, 2001, *L’altro Agostino. Ermeneutica e retorica della grazia dalla crisi alla metamorfosi del De doctrina christiana*, Brescia: Morcelliana.
-* Lössl, Josef, 2002, “Augustine on Predestination: Consequences for the Reception”, *Augustiniana*, 52(2/4): 241–272.
-* Lorenz, Rudolf, 1964, “Gnade und Erkenntnis bei Augustinus”, *Zeitschrift für Kirchengeschichte*, 75: 21–78. Reprinted in Carl Andresen (ed.), *Zum Augustin-Gespräch der Gegenwart II*, Darmstadt: Wissenschaftliche Buchgesellschaft 1981, pp. 43–125.
+* Lagouanère, Jérôme, 2012, _Intériorité et réflexivité dans la pensée de saint Augustin. Formes et genèse d’une conceptualization_, Paris: Études Augustiniennes.
+* Lamberigts, Mathijs, 2000, “A Critical Evaluation of Critiques of Augustine’s View of Sexuality”, in Robert Dodaro and George Lawless (eds.), _Augustine and his Critics. Essays in Honour of Gerald Bonner_, London/New York: Routledge, pp. 176–197.
+* –––, 2001, “Was Augustine a Manichaean? The Assessment of Julian of Aeclanum”, in Johannes van Oort et al. (eds.), _Augustine and Manicheism in the Latin West_, Leiden: Brill, pp. 113–136.
+* –––, 2004, “Augustine on Predestination. Some _Quaestiones Disputatae_ Revisited”, _Augustiniana_, 54(1/4): 279–305.
+* Lancel, Serge and James S. Alexander, 1996–2002, “Donatistae”, _Augustinus-Lexikon_, 2: 606–638.
+* Lettieri, Gaetano, 2001, _L’altro Agostino. Ermeneutica e retorica della grazia dalla crisi alla metamorfosi del De doctrina christiana_, Brescia: Morcelliana.
+* Lössl, Josef, 2002, “Augustine on Predestination: Consequences for the Reception”, _Augustiniana_, 52(2/4): 241–272.
+* Lorenz, Rudolf, 1964, “Gnade und Erkenntnis bei Augustinus”, _Zeitschrift für Kirchengeschichte_, 75: 21–78. Reprinted in Carl Andresen (ed.), _Zum Augustin-Gespräch der Gegenwart II_, Darmstadt: Wissenschaftliche Buchgesellschaft 1981, pp. 43–125.
 * MacDonald, Scott, 1999, “Primal Sin”, in Matthews 1999: 110–139.
-* –––, 2012a, “Revisiting the Intelligibles: The Theory of Illumination in *De trinitate*, XII”, in Catapano and Cillerai 2012: 137–160.
-* –––, 2012b, “Augustine’s Cognitive Voluntarism in *De trinitate* 11”, in Bermon and O’Daly 2012: 235–250.
+* –––, 2012a, “Revisiting the Intelligibles: The Theory of Illumination in _De trinitate_, XII”, in Catapano and Cillerai 2012: 137–160.
+* –––, 2012b, “Augustine’s Cognitive Voluntarism in _De trinitate_ 11”, in Bermon and O’Daly 2012: 235–250.
 * –––, 2014, “The Divine Nature: Being and Goodness”, in Meconi and Stump 2014: 17–36. doi:10.1017/CCO9781139178044.004
-* Madec, Goulven, 1989, *La patrie et la voie. Le Christ dans la vie et la pensée de saint Augustin*, Paris: Desclée.
-* –––, 1996, *Saint Augustin et la philosophie. Notes critiques*, second edition, Paris: Études Augustiniennes.
+* Madec, Goulven, 1989, _La patrie et la voie. Le Christ dans la vie et la pensée de saint Augustin_, Paris: Desclée.
+* –––, 1996, _Saint Augustin et la philosophie. Notes critiques_, second edition, Paris: Études Augustiniennes.
 * Mann, William E., 1999, “Inner-Life Ethics”, in Matthews 1999: 140–165.
-* ––– (ed.), 2006, *Augustine’s Confessions. Critical Essays*, Lanham: Rowman & Littlefield.
+* ––– (ed.), 2006, _Augustine’s Confessions. Critical Essays_, Lanham: Rowman & Littlefield.
 * –––, 2014, “Augustine on Evil and Original Sin”, in Meconi and Stump 2014: 98–107. doi:10.1017/CCO9781139178044.009
-* ––– (ed.), 2014, *Augustine’s Confessions: Philosophy in Autobiography*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199577552.001.0001
-* Markus, Robert A., 1970, *Saeculum. History and Society in the Theology of St Augustine*, Cambridge: Cambridge University Press.
-* ––– (ed.), 1972, *Augustine. A Collection of Critical Essays*, New York: Anchor Books. Anthology of older essays.
-* –––, 2006, *Christianity and the Secular*, Notre Dame: University of Notre Dame Press.
-* Matthews, Gareth B., 1992, *Thought’s Ego in Augustine and Descartes*, Ithaca, NY: Cornell University Press.
-* ––– (ed.), 1999, *The Augustinian Tradition*, Berkeley, CA: University of California Press.
+* ––– (ed.), 2014, _Augustine’s Confessions: Philosophy in Autobiography_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199577552.001.0001
+* Markus, Robert A., 1970, _Saeculum. History and Society in the Theology of St Augustine_, Cambridge: Cambridge University Press.
+* ––– (ed.), 1972, _Augustine. A Collection of Critical Essays_, New York: Anchor Books. Anthology of older essays.
+* –––, 2006, _Christianity and the Secular_, Notre Dame: University of Notre Dame Press.
+* Matthews, Gareth B., 1992, _Thought’s Ego in Augustine and Descartes_, Ithaca, NY: Cornell University Press.
+* ––– (ed.), 1999, _The Augustinian Tradition_, Berkeley, CA: University of California Press.
 * –––, 2010, “Augustine’s First-Person Perspective”, in Cary, Doody, and Paffenroth 2010: 41–60.
-* Mayer, Cornelius Petrus, 1969, *Die Zeichen in der geistigen Entwicklung und in der Theologie des jungen Augustinus*, Würzburg: Augustinus-Verlag.
-* –––, 1974, *Die Zeichen in der geistigen Entwicklung und in der Theologie Augustins. II. Teil: Die antimanichäische Epoche*, Würzburg: Augustinus-Verlag.
-* –––, 1996–2002, “Creatio, creator, creatura”, *Augustinus-Lexikon*, 2: 56–116.
-* Mendelson, Michael, 1998, “‘The Business of Those Absent’: The Origin of the Soul in Augustine’s *De Genesi Ad Litteram* 10.6-26”, *Augustinian Studies*, 29(1): 25–81. doi:10.5840/augstudies19982918
-* Menn, Stephen, 1998, *Descartes and Augustine*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511608995
+* Mayer, Cornelius Petrus, 1969, _Die Zeichen in der geistigen Entwicklung und in der Theologie des jungen Augustinus_, Würzburg: Augustinus-Verlag.
+* –––, 1974, _Die Zeichen in der geistigen Entwicklung und in der Theologie Augustins. II. Teil: Die antimanichäische Epoche_, Würzburg: Augustinus-Verlag.
+* –––, 1996–2002, “Creatio, creator, creatura”, _Augustinus-Lexikon_, 2: 56–116.
+* Mendelson, Michael, 1998, “‘The Business of Those Absent’: The Origin of the Soul in Augustine’s _De Genesi Ad Litteram_ 10.6-26”, _Augustinian Studies_, 29(1): 25–81. doi:10.5840/augstudies19982918
+* Menn, Stephen, 1998, _Descartes and Augustine_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511608995
 * –––, 2014, “The Desire for God and the Aporetic Method in Augustine’s Confessions”, in Mann 2014: 71–107. doi:10.1093/acprof:oso/9780199577552.003.0005
-* Mesch, Walter, 1998, *Reflektierte Gegenwart. Eine Studie über Zeit und Ewigkeit bei Platon, Aristoteles, Plotin und Augustinus*, Frankfurt/Main: Klostermann.
+* Mesch, Walter, 1998, _Reflektierte Gegenwart. Eine Studie über Zeit und Ewigkeit bei Platon, Aristoteles, Plotin und Augustinus_, Frankfurt/Main: Klostermann.
 * Miles, Margaret R., 2007, “Not Nameless but Unnamed. The Woman torn from Augustine’s Side”, in Stark 2007b: 167–188.
 * –––, 2012, “From Rape to Resurrection: Sin, Sexual Difference, and Politics”, in Wetzel 2012: 75–92. doi:10.1017/CBO9781139014144.005
-* Müller, Christof, 1996–2002, “Femina”, *Augustinus-Lexikon*, 2: 1266–1281.
-* Müller, Jörn, 2009, *Willensschwäche in Antike und Mittelalter. Eine Problemgeschichte von Sokrates bis Johannes Duns Scotus*, Leuven: Peeters.
-* Nash, Ronald H., 1969, *The Light of the Mind. St. Augustine’s Theory of Knowledge*, Lexington: University Press of Kentucky.
-* Nawar, Tamer, 2014, “*Adiutrix Virtutum*? Augustine on Friendship and Virtue”, in Suzanne Stern-Gillet and Gary M. Gurtler (eds.), *Ancient and Medieval Concepts of Friendship*, Albany, NY: SUNY Press, pp. 197–226.
-* –––, 2015, “Augustine on the Varieties of Understanding and Why There is No Learning from Words”, *Oxford Studies in Medieval Philosophy*, 3: 1–31. doi:10.1093/acprof:oso/9780198743798.003.0001
-* Nisula, Timo, 2012, *Augustine and the Functions of Concupiscence*, Leiden/Boston: Brill.
-* O’Connell, Robert J., 1968, *St. Augustine’s Early Theory of Man, A.D. 386–391*, Cambridge, MA: The Belknap Press.
-* –––, 1987, *The Origin of the Soul in St. Augustine’s Later Works*, New York: Fordham University Press.
-* O’Daly, Gerard, 1976, “Memory in Plotinus and two early texts of St. Augustine”, *Studia Patristica 14. Papers presented to the Sixth International Conference on Patristic Studies held in Oxford 1971*, Berlin: Akademie Verlag 1976, pp. 461–469. Reprinted in O’Daly 2001: no. III.
-* –––, 1987 *Augustine’s Philosophy of Mind*, London: Duckworth.
-* –––, 1986–1994, “Anima, animus”, *Augustinus-Lexikon*, 1: 315–340.
-* –––, 1999, *Augustine’s City of God. A Reader’s Guide*, Oxford: Oxford University Press.
-* –––, 2001, *Platonism Pagan and Christian. Studies in Plotinus and Augustine*, Aldershot: Variorum.
-* O’Donovan, O., 1980, *The Problem of Self-Love in St. Augustine*, New Haven: Yale University Press.
-* Paffenroth, Kim and Robert P. Kennedy (eds.), 2003, *A Reader’s Companion to Augustine’s Confessions*, Louisville: Westminster John Knox Press.
-* Pagels, Elaine, 1989, *Adam, Eve and the Serpent*, New York: Vintage Books. German translation: *Adam, Eva und die Schlange*, Hamburg: Rowohlt 1991.
-* Pépin, Jean, 1977, *Ex Platonicorum persona. Études sur les lectures philosophiques de saint Augustin*, Amsterdam: Hakkert. Reprint of earlier studies.
-* Pollmann, Karla, 1996, *Doctrina christiana. Untersuchungen zu den Anfängen der christlichen Hermeneutik unter besonderer Berücksichtigung von Augustinus, De doctrina christiana*, Freiburg/Schweiz: Unversitäts-Verlag.
-* Pollmann, Karla and Mark Vessey (eds.), 2005, *Augustine and the Disciplines. From Cassiciacum to Confessions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199230044.001.0001
-* Power, Kim, 1996, *Veiled Desire. Augustine on Women*, New York: Continuum Books.
+* Müller, Christof, 1996–2002, “Femina”, _Augustinus-Lexikon_, 2: 1266–1281.
+* Müller, Jörn, 2009, _Willensschwäche in Antike und Mittelalter. Eine Problemgeschichte von Sokrates bis Johannes Duns Scotus_, Leuven: Peeters.
+* Nash, Ronald H., 1969, _The Light of the Mind. St. Augustine’s Theory of Knowledge_, Lexington: University Press of Kentucky.
+* Nawar, Tamer, 2014, “_Adiutrix Virtutum_? Augustine on Friendship and Virtue”, in Suzanne Stern-Gillet and Gary M. Gurtler (eds.), _Ancient and Medieval Concepts of Friendship_, Albany, NY: SUNY Press, pp. 197–226.
+* –––, 2015, “Augustine on the Varieties of Understanding and Why There is No Learning from Words”, _Oxford Studies in Medieval Philosophy_, 3: 1–31. doi:10.1093/acprof:oso/9780198743798.003.0001
+* Nisula, Timo, 2012, _Augustine and the Functions of Concupiscence_, Leiden/Boston: Brill.
+* O’Connell, Robert J., 1968, _St. Augustine’s Early Theory of Man, A.D. 386–391_, Cambridge, MA: The Belknap Press.
+* –––, 1987, _The Origin of the Soul in St. Augustine’s Later Works_, New York: Fordham University Press.
+* O’Daly, Gerard, 1976, “Memory in Plotinus and two early texts of St. Augustine”, _Studia Patristica 14. Papers presented to the Sixth International Conference on Patristic Studies held in Oxford 1971_, Berlin: Akademie Verlag 1976, pp. 461–469. Reprinted in O’Daly 2001: no. III.
+* –––, 1987 _Augustine’s Philosophy of Mind_, London: Duckworth.
+* –––, 1986–1994, “Anima, animus”, _Augustinus-Lexikon_, 1: 315–340.
+* –––, 1999, _Augustine’s City of God. A Reader’s Guide_, Oxford: Oxford University Press.
+* –––, 2001, _Platonism Pagan and Christian. Studies in Plotinus and Augustine_, Aldershot: Variorum.
+* O’Donovan, O., 1980, _The Problem of Self-Love in St. Augustine_, New Haven: Yale University Press.
+* Paffenroth, Kim and Robert P. Kennedy (eds.), 2003, _A Reader’s Companion to Augustine’s Confessions_, Louisville: Westminster John Knox Press.
+* Pagels, Elaine, 1989, _Adam, Eve and the Serpent_, New York: Vintage Books. German translation: _Adam, Eva und die Schlange_, Hamburg: Rowohlt 1991.
+* Pépin, Jean, 1977, _Ex Platonicorum persona. Études sur les lectures philosophiques de saint Augustin_, Amsterdam: Hakkert. Reprint of earlier studies.
+* Pollmann, Karla, 1996, _Doctrina christiana. Untersuchungen zu den Anfängen der christlichen Hermeneutik unter besonderer Berücksichtigung von Augustinus, De doctrina christiana_, Freiburg/Schweiz: Unversitäts-Verlag.
+* Pollmann, Karla and Mark Vessey (eds.), 2005, _Augustine and the Disciplines. From Cassiciacum to Confessions_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199230044.001.0001
+* Power, Kim, 1996, _Veiled Desire. Augustine on Women_, New York: Continuum Books.
 * Rist, John, 2001, “Faith and Reason”, in Stump and Kretzmann 2001: 26–39. doi:10.1017/CCOL0521650186.003
-* Schäfer, Christian, 2000, “Augustine on Mode, Form, and Natural Order”:, *Augustinian Studies*, 31(1): 59–77. doi:10.5840/augstudies20003111
-* –––, 2002, *Unde malum. Die Frage nach dem Woher des Bösen bei Plotin, Augustinus und Dionysius*, Würzburg: Königshausen & Neumann.
-* Seelbach, Larissa Carina, 2002, *Das weibliche Geschlecht ist ja kein Gebrechen. Die Frau und ihre Gottebenbildlichkeit bei Augustin*, Würzburg: Augustinus-Verlag.
-* Shanzer, Danuta, 2002, “*Avulsa a latere meo*. Augustine’s Spare Rib—*Confessiones* 6.15.25”, *The Journal of Roman Studies*, 92: 157–176. doi:10.2307/3184864
-* –––, 2005, “Augustine’s Disciplines: *Silent diutius Musae Varronis*?”, in Pollmann and Vessey 2005: 69–112.
-* Siebert, Matthew Kent, 2018, “Augustine’s Development on Testimonial Knowledge”, *Journal of the History of Philosophy*, 56(2): 215–237. doi:10.1353/hph.2018.0021
-* Sorabji, Richard, 2000, *Emotion and Peace of Mind: From Stoic Agitation to Christian Temptation*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199256600.001.0001
+* Schäfer, Christian, 2000, “Augustine on Mode, Form, and Natural Order”:, _Augustinian Studies_, 31(1): 59–77. doi:10.5840/augstudies20003111
+* –––, 2002, _Unde malum. Die Frage nach dem Woher des Bösen bei Plotin, Augustinus und Dionysius_, Würzburg: Königshausen & Neumann.
+* Seelbach, Larissa Carina, 2002, _Das weibliche Geschlecht ist ja kein Gebrechen. Die Frau und ihre Gottebenbildlichkeit bei Augustin_, Würzburg: Augustinus-Verlag.
+* Shanzer, Danuta, 2002, “_Avulsa a latere meo_. Augustine’s Spare Rib—_Confessiones_ 6.15.25”, _The Journal of Roman Studies_, 92: 157–176. doi:10.2307/3184864
+* –––, 2005, “Augustine’s Disciplines: _Silent diutius Musae Varronis_?”, in Pollmann and Vessey 2005: 69–112.
+* Siebert, Matthew Kent, 2018, “Augustine’s Development on Testimonial Knowledge”, _Journal of the History of Philosophy_, 56(2): 215–237. doi:10.1353/hph.2018.0021
+* Sorabji, Richard, 2000, _Emotion and Peace of Mind: From Stoic Agitation to Christian Temptation_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199256600.001.0001
 * Stark, Judith Chelius, 2007a, “Augustine on Women. In God’s Image but Less So”, in Stark 2007b: 215–241.
-* ––– (ed.), 2007b, *Feminist Interpretations of Augustine*, University Park, PA: Pennsylvania State University Press.
-* Stróżyński, Mateusz, 2013, “There Is No Searching for the Self: Self-Knowledge in Book Ten of Augustine’s *De Trinitate*”, *Phronesis*, 58(3): 280–300. doi:10.1163/15685284-12341250
+* ––– (ed.), 2007b, _Feminist Interpretations of Augustine_, University Park, PA: Pennsylvania State University Press.
+* Stróżyński, Mateusz, 2013, “There Is No Searching for the Self: Self-Knowledge in Book Ten of Augustine’s _De Trinitate_”, _Phronesis_, 58(3): 280–300. doi:10.1163/15685284-12341250
 * Stump, Eleonore, 2001, “Augustine on Free Will”, in Stump and Kretzmann 2001: 124–147. Shortened version in Meconi and Stump 2014: 166–186. doi:10.1017/CCOL0521650186.011 doi:10.1017/CCO9781139178044.014
-* Teske, Roland J., 2009, *Augustine of Hippo: Philosopher, Exegete, and Theologian. A Second Collection of Essays*, Milwaukee: Marquette University Press.
-* Tornau, Christian, 2006a, *Zwischen Rhetorik und Philosophie. Augustins Argumentationstechnik in De civitate dei und ihr bildungsgeschichtlicher Hintergrund*, Berlin: De Gruyter.
-* –––, 2006b, “Does Augustine Accept Pagan Virtue? The Place of Book 5 in the Argument of the *City of God*”, in Frances Young, Mark Edwards, and Paul Parvis (eds.), *Studia Patristica 43. Papers presented at the XIVth International Conference on Patristic Studies held in Oxford 2003*, Leuven: Peeters, pp. 263–275.
-* –––, 2013, “Augustinus und die neuplatonischen Tugendgrade. Versuch einer Interpretation von Augustins Brief 155 an Macedonius”, in Filip Karfík and Euree Song (eds.), *Plato Revived. Essays on Ancient Platonism in Honour of Dominic O’Meara*, Berlin/Boston: De Gruyter, pp. 215–240.
-* –––, 2014, “Intelligible Matter and the Genesis of Intellect: The Metamorphosis of a Plotinian Theme in *Confessions* 12–13”, in Mann 2014: 181–218. doi:10.1093/acprof:oso/9780199577552.003.0009
-* –––, 2015, “Happiness in This Life? Augustine on the Principle That Virtue Is Self-Sufficient for Happiness”, in *The Quest for the Good Life: Ancient Philosophers on Happiness*, Øyvind Rabbås, Eyjólfur K. Emilsson, Hallvard Fossheim, and Miira Tuominen (eds.), Oxford: Oxford University Press, 265–280. doi:10.1093/acprof:oso/9780198746980.003.0015
-* –––, 2017, “*Ratio in Subiecto?* The Sources of Augustine’s Proof for the Immortality of the Soul in the *Soliloquia* and Its Defense in *De Immortalitate Animae*”, *Phronesis*, 62(3): 319–354. doi:10.1163/15685284-12341330
-* van Dusen, David, 2014, *The Space of Time. A Sensualist Interpretation of Time in Augustine, Confessions X to XII*, Leiden/Boston: Brill.
-* van Fleteren, Frederick, 2010, “Augustine and Philosophy: *Intellectus Fidei*”, in Cary, Doody, and Paffenroth 2010: 23–40.
+* Teske, Roland J., 2009, _Augustine of Hippo: Philosopher, Exegete, and Theologian. A Second Collection of Essays_, Milwaukee: Marquette University Press.
+* Tornau, Christian, 2006a, _Zwischen Rhetorik und Philosophie. Augustins Argumentationstechnik in De civitate dei und ihr bildungsgeschichtlicher Hintergrund_, Berlin: De Gruyter.
+* –––, 2006b, “Does Augustine Accept Pagan Virtue? The Place of Book 5 in the Argument of the _City of God_”, in Frances Young, Mark Edwards, and Paul Parvis (eds.), _Studia Patristica 43. Papers presented at the XIVth International Conference on Patristic Studies held in Oxford 2003_, Leuven: Peeters, pp. 263–275.
+* –––, 2013, “Augustinus und die neuplatonischen Tugendgrade. Versuch einer Interpretation von Augustins Brief 155 an Macedonius”, in Filip Karfík and Euree Song (eds.), _Plato Revived. Essays on Ancient Platonism in Honour of Dominic O’Meara_, Berlin/Boston: De Gruyter, pp. 215–240.
+* –––, 2014, “Intelligible Matter and the Genesis of Intellect: The Metamorphosis of a Plotinian Theme in _Confessions_ 12–13”, in Mann 2014: 181–218. doi:10.1093/acprof:oso/9780199577552.003.0009
+* –––, 2015, “Happiness in This Life? Augustine on the Principle That Virtue Is Self-Sufficient for Happiness”, in _The Quest for the Good Life: Ancient Philosophers on Happiness_, Øyvind Rabbås, Eyjólfur K. Emilsson, Hallvard Fossheim, and Miira Tuominen (eds.), Oxford: Oxford University Press, 265–280. doi:10.1093/acprof:oso/9780198746980.003.0015
+* –––, 2017, “_Ratio in Subiecto?_ The Sources of Augustine’s Proof for the Immortality of the Soul in the _Soliloquia_ and Its Defense in _De Immortalitate Animae_”, _Phronesis_, 62(3): 319–354. doi:10.1163/15685284-12341330
+* van Dusen, David, 2014, _The Space of Time. A Sensualist Interpretation of Time in Augustine, Confessions X to XII_, Leiden/Boston: Brill.
+* van Fleteren, Frederick, 2010, “Augustine and Philosophy: _Intellectus Fidei_”, in Cary, Doody, and Paffenroth 2010: 23–40.
 * van Oort, Johannes, 2012, “Augustine and the Books of the Manicheans”, in Vessey 2012: 188–199. doi:10.1002/9781118255483.ch15
-* ––– (ed.), 2013, *Augustine and Manichaean Christianity. Selected Papers from the First South African Conference on Augustine of Hippo. University of Pretoria, 24–26 April 2012*, Leiden/Boston: Brill.
-* –––, 2016, “Once Again: Augustine’s Manichaean Dilemma”, *Augustiniana*, 66(1/4): 233–245.
-* –––, forthcoming, *Augustine and Mani*, Leiden/Boston: Brill. Collected papers on Augustine and Manicheism.
-* van Riel, Gerd, 2007, “Augustine’s Exegesis of ‘Heaven and Earth’ in Conf. XII: Finding Truth amidst Philosophers, Heretics and Exegetes”, *Quaestio*, 7: 191–228. doi: 10.1484/J.QUAESTIO.1.100154
-* Vessey, Mark, Karla Pollmann, and Allan D. Fitzgerald (eds.), 1999, *History, Apocalypse, and the Secular Imagination. New Essays on Augustine’s City of God*, Bowling Green: Philosophy Documentation Center.
-* von Heyking, John, 2001, *Augustine and Politics as Longing in the World*, Columbia: University of Missouri Press.
-* Weissenberg, Timo J., 2005, *Die Friedenslehre des Augustinus. Theologische Grundlagen und ethische Entfaltung*, Stuttgart: Kohlhammer.
+* ––– (ed.), 2013, _Augustine and Manichaean Christianity. Selected Papers from the First South African Conference on Augustine of Hippo. University of Pretoria, 24–26 April 2012_, Leiden/Boston: Brill.
+* –––, 2016, “Once Again: Augustine’s Manichaean Dilemma”, _Augustiniana_, 66(1/4): 233–245.
+* –––, forthcoming, _Augustine and Mani_, Leiden/Boston: Brill. Collected papers on Augustine and Manicheism.
+* van Riel, Gerd, 2007, “Augustine’s Exegesis of ‘Heaven and Earth’ in Conf. XII: Finding Truth amidst Philosophers, Heretics and Exegetes”, _Quaestio_, 7: 191–228. doi: 10.1484/J.QUAESTIO.1.100154
+* Vessey, Mark, Karla Pollmann, and Allan D. Fitzgerald (eds.), 1999, _History, Apocalypse, and the Secular Imagination. New Essays on Augustine’s City of God_, Bowling Green: Philosophy Documentation Center.
+* von Heyking, John, 2001, _Augustine and Politics as Longing in the World_, Columbia: University of Missouri Press.
+* Weissenberg, Timo J., 2005, _Die Friedenslehre des Augustinus. Theologische Grundlagen und ethische Entfaltung_, Stuttgart: Kohlhammer.
 * Weithman, Paul J., 1999, “Toward an Augustinian Liberalism”, in Matthews 1999: 304–322.
 * –––, 2001, “Augustine’s Political Philosophy”, in Stump and Kretzmann 2001: 234–252. Revised version in Meconi and Stump 2014: 231–250. doi:10.1017/CCOL0521650186.017 doi:10.1017/CCO9781139178044.019
-* Wetzel, James, 1992, *Augustine and the Limits of Virtue*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511983627
+* Wetzel, James, 1992, _Augustine and the Limits of Virtue_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511983627
 * –––, 2001, “Predestination, Pelagianism, and Foreknowledge”, in Stump and Kretzmann 2001: 49–58. doi:10.1017/CCOL0521650186.005
-* ––– (ed.), 2012, *Augustine’s ‘City of God’: A Critical Guide*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139014144
+* ––– (ed.), 2012, _Augustine’s ‘City of God’: A Critical Guide_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139014144
 * Williams, Thomas, 2001, “Biblical Interpretation”, in Stump and Kretzmann 2001: 59–70. doi:10.1017/CCOL0521650186.006 Revised version under the title “Hermeneutics and Reading Scripture”, in Meconi and Stump 2014: 311–328. doi:10.1017/CCO9781139178044.024
 * Wolterstorff, Nicholas, 2012, “Augustine’s Rejection of Eudaimonism”, in Wetzel 2012: 149–166. doi:10.1017/CBO9781139014144.009
-* Zagzebski, Linda Trinkaus, 1991, *The Dilemma of Freedom and Foreknowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195107630.001.0001
-* zum Brunn, Émilie, 1969 \[1988], “Le dilemme de l’être et du néant chez saint Augustin. Des premiers dialogues aux *Confessions*”, *Recherches augustiniennes*, 6: 3–102. Translated as *St. Augustine. Being and Nothingness*, New York: Paragon House Publishers 1988.
+* Zagzebski, Linda Trinkaus, 1991, _The Dilemma of Freedom and Foreknowledge_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195107630.001.0001
+* zum Brunn, Émilie, 1969 \[1988], “Le dilemme de l’être et du néant chez saint Augustin. Des premiers dialogues aux _Confessions_”, _Recherches augustiniennes_, 6: 3–102. Translated as _St. Augustine. Being and Nothingness_, New York: Paragon House Publishers 1988.
 
 ## Academic Tools
 
@@ -790,7 +790,7 @@ Except for the *Confessiones* and the Cassiciacum dialogues, detailed commentari
 
 ## Other Internet Resources
 
-* Mendelson, Michael, “Saint Augustine,” *Stanford Encyclopedia of Philosophy* (Fall 2010 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2019/entries/augustine/](https://plato.stanford.edu/archives/fall2019/entries/augustine/). \[This was the previous entry on Saint Augustine in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=augustine).]
+* Mendelson, Michael, “Saint Augustine,” _Stanford Encyclopedia of Philosophy_ (Fall 2010 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2019/entries/augustine/](https://plato.stanford.edu/archives/fall2019/entries/augustine/). \[This was the previous entry on Saint Augustine in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=augustine).]
 * [Augustine of Hippo](http://faculty.georgetown.edu/jod/augustine/), by James J. O’Donnell (Georgetown).
 * [Zentrum für Augustinusforschung (ZAF)](https://www.augustinus.de/), Würzburg (Germany), with [list of critical editions](https://www.augustinus.de/einfuehrung/die-augustinus-editionen-werkeliste), [bibliographical database](https://www.augustinus.de/literatur/literaturdatenbank) and links to [online translations](https://www.augustinus.de/einfuehrung/uebersetzungen-im-www)
 
@@ -799,4 +799,4 @@ Except for the *Confessiones* and the Cassiciacum dialogues, detailed commentari
 [Christian theology, philosophy and](https://plato.stanford.edu/entries/christiantheology-philosophy/) | [divine: illumination](https://plato.stanford.edu/entries/illumination/) | [emotion: in the Christian tradition](https://plato.stanford.edu/entries/emotion-Christian-tradition/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [free will](https://plato.stanford.edu/entries/freewill/) | [free will: divine foreknowledge and](https://plato.stanford.edu/entries/free-will-foreknowledge/) | [medieval philosophy](https://plato.stanford.edu/entries/medieval-philosophy/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [Neoplatonism](https://plato.stanford.edu/entries/neoplatonism/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [political philosophy: ancient](https://plato.stanford.edu/entries/ancient-political/) | [Porphyry](https://plato.stanford.edu/entries/porphyry/) | [skepticism: ancient](https://plato.stanford.edu/entries/skepticism-ancient/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Christian Tornau](http://www.klassphil.uni-wuerzburg.de/professur\*fuer\*klassische\*philologie/) <[*christian.tornau@uni-wuerzburg.de*](mailto:christian%2etornau%40uni-wuerzburg%2ede)>
+[Christian Tornau](http://www.klassphil.uni-wuerzburg.de/professur\*fuer\*klassische\*philologie/) <[_christian.tornau@uni-wuerzburg.de_](mailto:christian%2etornau%40uni-wuerzburg%2ede)>

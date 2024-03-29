@@ -1,8 +1,8 @@
 # 生物学哲学 philosophy of (Jay Odenbaugh and Paul Griffiths)
 
-*首次发表于 2008 年 7 月 4 日；实质性修订于 2020 年 6 月 1 日*
+_首次发表于 2008 年 7 月 4 日；实质性修订于 2020 年 6 月 1 日_
 
-过去四十年来，生物学在哲学界的兴趣增长反映了同一时期生物科学的日益重要。现在有大量关于许多不同生物主题的文献，不可能在这篇文章中总结这些工作。相反，这篇文章旨在解释生物学哲学的*本质*。为什么生物学对哲学重要，反之亦然？在文章末尾提供了一份涉及生物学哲学特定主题的百科全书条目列表。
+过去四十年来，生物学在哲学界的兴趣增长反映了同一时期生物科学的日益重要。现在有大量关于许多不同生物主题的文献，不可能在这篇文章中总结这些工作。相反，这篇文章旨在解释生物学哲学的_本质_。为什么生物学对哲学重要，反之亦然？在文章末尾提供了一份涉及生物学哲学特定主题的百科全书条目列表。
 
 生物学哲学的一般研究可以分为三种不同的哲学探究。首先，在生物学的背景下讨论了科学哲学的一般命题。其次，对生物学本身的概念问题进行了哲学分析。第三，传统哲学问题的讨论中引用了生物学。
 
@@ -29,7 +29,7 @@
 
 生物学哲学的一般范畴下有三种不同类型的哲学探究。首先，生物学的背景下探讨科学哲学的一般命题。其次，对生物学本身的概念（或理论）问题进行哲学分析。第三，传统哲学问题的讨论中引用生物学。生物学哲学的第一个重要辩论是以遗传学为例，探索科学哲学中还原主义和反还原主义的使用。肯尼斯·F·沙夫纳（Kenneth F. Schaffner）将逻辑实证主义的理论还原模型应用于经典孟德尔遗传学和分子遗传学之间的关系（Schaffner 1967a; Schaffner 1967b; Schaffner 1969）。大卫·赫尔（David Hull）认为，这一尝试的教训是孟德尔遗传学无法还原为分子遗传学（Hull 1974; Hull 1975）。这场辩论加强了 20 世纪 70 年代和 80 年代的共识，即特殊科学与更基础的科学是自治的（Fodor 1974; Kitcher 1984）。然而，生物学分子革命不是科学还原的成功实例这一主张的明显荒谬性也导致了对理论还原的越来越充分的模型的制定（Wimsatt 1976; Wimsatt 1980; Schaffner 1993; Waters 1994; Rosenberg 1997; Sarkar 1998）。
 
-在另一场重要的早期辩论中，哲学家们试图解决生物学本身的概念问题。繁殖适应度的概念是进化理论的核心，但其地位一直存在问题。生物学家们难以避免受到批评，即“如果我们试图以严格意义上的进化定律来制定法则，似乎会陷入自指性。因此，假设我们说即使在仙女座，‘适者生存’，我们什么也没说，因为‘适者’必须以‘生存’为基础来定义”（Smart 1959, 366）。这被称为“自指性问题”。亚历山大·罗森伯格（Alexander Rosenberg）和玛丽·B·威廉姆斯（Mary B. Williams）认为，适应度是一个不可还原的原始概念，其意义来自于进化理论的公理化表述中的位置（Rosenberg 1983; Sober 1984a; Williams and Rosenberg 1985）。如果正确，这将解决自指性问题，因为公理通常被认为是自指的。在 20 世纪 70 年代，新一代的生物学哲学家提出了自指性问题的不同解决方案。首先，他们认为适应度是生物体的一种上位性属性：每个特定生物体的适应度必然依赖于生物体及其特定环境的一些具体的物理特征，但具有相同适应度的两个生物体可能具有非常不同的物理特征集（Rosenberg 1978）。其次，他们认为这种上位性属性是一种*倾向*，即通过概率分布表示的可能后代数量的概率倾向（Mills and Beatty 1979）。尽管适应度是以繁殖成功为基础定义的，但适者生存并不是适应度最高的生物体拥有最多后代的自指性。这就像骰子更容易掷出偶数而不是六一样，并不是自指性。适者生存的倾向和骰子均等地落在每一面的倾向都使我们能够对将发生的事情进行有限的预测，随着样本大小的增加，预测变得更加可靠。然而，目前尚不清楚是否可能指定一个概率分布或一组分布，能够扮演种群生物学中适应度实际扮演的所有角色（Beatty & Finsen 1989, Sober 2001; Pence & Ramsey 2013）。
+在另一场重要的早期辩论中，哲学家们试图解决生物学本身的概念问题。繁殖适应度的概念是进化理论的核心，但其地位一直存在问题。生物学家们难以避免受到批评，即“如果我们试图以严格意义上的进化定律来制定法则，似乎会陷入自指性。因此，假设我们说即使在仙女座，‘适者生存’，我们什么也没说，因为‘适者’必须以‘生存’为基础来定义”（Smart 1959, 366）。这被称为“自指性问题”。亚历山大·罗森伯格（Alexander Rosenberg）和玛丽·B·威廉姆斯（Mary B. Williams）认为，适应度是一个不可还原的原始概念，其意义来自于进化理论的公理化表述中的位置（Rosenberg 1983; Sober 1984a; Williams and Rosenberg 1985）。如果正确，这将解决自指性问题，因为公理通常被认为是自指的。在 20 世纪 70 年代，新一代的生物学哲学家提出了自指性问题的不同解决方案。首先，他们认为适应度是生物体的一种上位性属性：每个特定生物体的适应度必然依赖于生物体及其特定环境的一些具体的物理特征，但具有相同适应度的两个生物体可能具有非常不同的物理特征集（Rosenberg 1978）。其次，他们认为这种上位性属性是一种_倾向_，即通过概率分布表示的可能后代数量的概率倾向（Mills and Beatty 1979）。尽管适应度是以繁殖成功为基础定义的，但适者生存并不是适应度最高的生物体拥有最多后代的自指性。这就像骰子更容易掷出偶数而不是六一样，并不是自指性。适者生存的倾向和骰子均等地落在每一面的倾向都使我们能够对将发生的事情进行有限的预测，随着样本大小的增加，预测变得更加可靠。然而，目前尚不清楚是否可能指定一个概率分布或一组分布，能够扮演种群生物学中适应度实际扮演的所有角色（Beatty & Finsen 1989, Sober 2001; Pence & Ramsey 2013）。
 
 “概念问题”这个词应该被广泛理解。生物哲学家所做的概念工作在许多情况下与理论生物学融为一体。它有时也会引导哲学家审查和批评生物学家构建的论证链条，从而直接参与进行中的生物学辩论。同样地，我们所描述的生物学哲学的第一种形式——使用生物学例子来处理科学哲学中的一般问题——有时会通过具体的改进生物学方法的建议而反馈到生物学本身。生物学哲学文献中一个引人注目的特点是哲学家经常在生物学期刊上发表文章，而生物学家经常为生物学哲学期刊做出贡献。生物学哲学还有一个潜在重要的角色，作为生物学和社会之间的调解者。关于生物学的普遍发现和理论工作，大众对生物学的表述得出广泛的教训。科学哲学家在评估这些对特定生物学发现意义的解释方面具有明显的作用（Stotz 和 Griffiths 2008）。作为两个重要的例子，生物学哲学家在创造论/智能设计（Kitcher 1982; Ruse 1982; Pennock 2000; Sarkar 2007）和社会生物学/进化心理学（Kitcher 1985; Buller 2006; Richardson 2010; Barker 2015）方面提供了很多清晰的观点。
 
@@ -53,9 +53,9 @@
 
 ## 5. 分子生物学的哲学
 
-我们上面提到，将孟德尔遗传学归纳为分子遗传学是生物学哲学中首次讨论的主题之一。Schaffner 和 Hull 之间的最初辩论之后，出现了所谓的“反约简共识”（Kitcher 1984）。约简主义立场在 Kenneth Waters 的一系列重要论文（1990 年，1994 年）中得到复兴，关于这两个学科之间的认知关系的辩论至今仍在继续。然而，现在的问题不再是简单地在约简和不可约简之间做出选择（Griffiths 1999; Kitcher 1999; Sober 1999）。相反，引入和讨论了多重实现、实现和机制等各种概念（Wilson 2005，Craver 2007; Polger & Shapiro 2016）。这些概念在思考遗传学以及神经科学和细胞生物学等更广泛领域时都非常重要。例如，Lindley Darden、Schaffner 和其他人认为分子生物学的解释并不仅仅局限于一个本体层次，因此从十九世纪物理学中的现象学气体定律约简到分子运动学的经典例子中得出的“约简”概念根本不适用（Darden and Maull 1977; Schaffner 1993）。此外，分子生物学没有像物理科学中那样基于一套定律或一套数学模型的宏大理论。相反，已经在一个模式生物体中详细揭示的高度特异性机制似乎充当“典范”，允许研究在其他使用相同或相关分子相互作用物的生物体中类似但不一定相同的机制。Darden 和其他人认为这些“机制”——特定实体集合及其独特活动——是科学发现和科学解释的基本单位，不仅适用于分子生物学，还适用于广泛的特殊科学领域（Machamer, Darden *et al.* 2000; Craver & Darden 2013; 另见 Bechtel and Richardson 1993）。关于机制的概念是否适用于生物学的其他领域存在一个有趣的问题（Skipper & Millstein 2005; Havstad 2011）。
+我们上面提到，将孟德尔遗传学归纳为分子遗传学是生物学哲学中首次讨论的主题之一。Schaffner 和 Hull 之间的最初辩论之后，出现了所谓的“反约简共识”（Kitcher 1984）。约简主义立场在 Kenneth Waters 的一系列重要论文（1990 年，1994 年）中得到复兴，关于这两个学科之间的认知关系的辩论至今仍在继续。然而，现在的问题不再是简单地在约简和不可约简之间做出选择（Griffiths 1999; Kitcher 1999; Sober 1999）。相反，引入和讨论了多重实现、实现和机制等各种概念（Wilson 2005，Craver 2007; Polger & Shapiro 2016）。这些概念在思考遗传学以及神经科学和细胞生物学等更广泛领域时都非常重要。例如，Lindley Darden、Schaffner 和其他人认为分子生物学的解释并不仅仅局限于一个本体层次，因此从十九世纪物理学中的现象学气体定律约简到分子运动学的经典例子中得出的“约简”概念根本不适用（Darden and Maull 1977; Schaffner 1993）。此外，分子生物学没有像物理科学中那样基于一套定律或一套数学模型的宏大理论。相反，已经在一个模式生物体中详细揭示的高度特异性机制似乎充当“典范”，允许研究在其他使用相同或相关分子相互作用物的生物体中类似但不一定相同的机制。Darden 和其他人认为这些“机制”——特定实体集合及其独特活动——是科学发现和科学解释的基本单位，不仅适用于分子生物学，还适用于广泛的特殊科学领域（Machamer, Darden _et al._ 2000; Craver & Darden 2013; 另见 Bechtel and Richardson 1993）。关于机制的概念是否适用于生物学的其他领域存在一个有趣的问题（Skipper & Millstein 2005; Havstad 2011）。
 
-分子生物学哲学中的另一个重要主题是基因的概念（Beurton, Falk and Rheinberger 2000; Waters 2000, 2004; Griffiths and Stotz 2007）。哲学家们还广泛地探讨了遗传信息的概念，文献的总体趋势是，很难准确地重构这个概念，以使其能够充分体现分子生物学家对其的重视（Sarkar 1996; Maynard Smith 2000; Godfrey-Smith 2001; Griffiths 2001; Jablonka 2002; Rosenberg 2006）。例如，DNA 是否实际携带*语义*信息（Shea 2007）？如果不是，这是一个有用的虚构，还是阻碍了分子生物学的发展（Levy 2001）？
+分子生物学哲学中的另一个重要主题是基因的概念（Beurton, Falk and Rheinberger 2000; Waters 2000, 2004; Griffiths and Stotz 2007）。哲学家们还广泛地探讨了遗传信息的概念，文献的总体趋势是，很难准确地重构这个概念，以使其能够充分体现分子生物学家对其的重视（Sarkar 1996; Maynard Smith 2000; Godfrey-Smith 2001; Griffiths 2001; Jablonka 2002; Rosenberg 2006）。例如，DNA 是否实际携带_语义_信息（Shea 2007）？如果不是，这是一个有用的虚构，还是阻碍了分子生物学的发展（Levy 2001）？
 
 ## 6. 发展生物学的哲学
 
@@ -77,222 +77,222 @@
 
 ## Bibliography
 
-Recent textbooks include Elliott Sober’s *Philosophy of Biology* (Sober 1999), Kim Sterelny and Paul Griffiths’s *Sex and Death: An Introduction to Philosophy of Biology* (1999), Marjorie Greene and David Depew’s *The Philosophy of Biology: An Episodic History* (2004), Brian Gavey’s *Philosophy of Biology* (2007), Alexander Rosenberg and Daniel McShea’s *Philosophy of Biology: A contemporary introduction* (2008), and Peter Godfrey-Smith’s *Philosophy of Biology* (2014).Valuable edited collections designed to supplement such a text are Elliott Sober’s *Conceptual Issues in Evolutionary Biology* (Sober 2006) which collects the classic papers on core debates, David Hull and Michael Ruse’s *The Philosophy of Biology* which aims at a comprehensive survey using recent papers (1998), and the *Cambridge Companion to the Philosophy of Biology* (Hull and Ruse 2007), *The Handbook of Philosophy of Biology* (Matthen and Stephens 2007), and *Blackwell Companion to the Philosophy of Biology* (Sarkar and Plutynski 2008) which all consist of essays on key topics by leading authors.
+Recent textbooks include Elliott Sober’s _Philosophy of Biology_ (Sober 1999), Kim Sterelny and Paul Griffiths’s _Sex and Death: An Introduction to Philosophy of Biology_ (1999), Marjorie Greene and David Depew’s _The Philosophy of Biology: An Episodic History_ (2004), Brian Gavey’s _Philosophy of Biology_ (2007), Alexander Rosenberg and Daniel McShea’s _Philosophy of Biology: A contemporary introduction_ (2008), and Peter Godfrey-Smith’s _Philosophy of Biology_ (2014).Valuable edited collections designed to supplement such a text are Elliott Sober’s _Conceptual Issues in Evolutionary Biology_ (Sober 2006) which collects the classic papers on core debates, David Hull and Michael Ruse’s _The Philosophy of Biology_ which aims at a comprehensive survey using recent papers (1998), and the _Cambridge Companion to the Philosophy of Biology_ (Hull and Ruse 2007), _The Handbook of Philosophy of Biology_ (Matthen and Stephens 2007), and _Blackwell Companion to the Philosophy of Biology_ (Sarkar and Plutynski 2008) which all consist of essays on key topics by leading authors.
 
-* Amundson, R., 1994. “Two concepts of constraint: adaptationism and the challenge from developmental biology,” *Philosophy of Science*, 61(4): 556–578.
-* –––, 2005. *The changing rule of the embryo in evolutionary biology: Structure and synthesis*, New York: Cambridge University Press.
-* Ariew, A., 1999. “Innateness is Canalization”, in V. Hardcastle (ed.) *Where Biology Meets Psychology*, Cambridge, MA: MIT Press.
-* Ayala, F. J., 1976. “Biology as an autonomous science,” in M. Grene, and E. Mendelsohn (eds.): *Boston Studies in Philosophy of Science XXVII* (Topics in Philosophy of Biology), 313–329.
-* Barker, G., 2015. *Beyond Biofatalism: Human Nature for an Evolving World*, New York: Columbia University Press.
-* Beatty, J., 1980. “Optimality-design and the strategy of model-building in evolutionary biology,” *Philosophy of Science*, 47: 532–61.
-* Beatty, J., & Finsen, S., 1989. “Rethinking the propensity interpretation: A peek inside Pandora’s box,” *In What the Philosophy of Biology is*, Dordrecht: Springer, 17–30.
-* Beatty, J., 1995. “The Evolutionary Contingency Thesis,” in G. Wolters and J. Lennox (eds.), *Concepts, Theories, and Rationality in the Biological Sciences*, University of Pittsburgh Press.
-* Bechtel, W., Mandik, P. *et al*. (eds.), 2001. *Philosophy and the Neurosciences: A Reader*, Oxford: Blackwell.
-* Bechtel, W., and Richardson, R., 1993. *Discovering Complexity*, Princeton: Princeton University Press.
-* Beckner, M., 1959. *The biological way of thought*, New York: Columbia University Press.
-* Beurton, P., Falk, R., and Rheinberger, H.-J. (eds.), 2000. *The Concept of the Gene in Development and Evolution*, Cambridge: Cambridge University Press.
-* Birch, J., 2017. *The Philosophy of Social Evolution*, Oxford University Press.
-* Boorse, C., 1976. “Wright on functions,” *Philosophical Review*, 85(1): 70–86.
-* Boyd, R., 1999. “Homeostasis, species, and higher taxa,” in *Species: New interdisciplinary essays*, edited by R. Wilson, Cambridge, MA: Bradford/MIT Press.
-* Brandon, R. N. (ed.), 1996. *Concepts and Methods in Evolutionary Biology*, Cambridge: Cambridge University Press.
-* –––, 1997. “Does biology have laws? The experimental evidence”, *PSA* 1996 (Volume 2), 444–457.
-* –––, 2005. “The Difference between Selection and Drift: A Reply to Millstein,” *Biology & Philosophy*, 20(1): 153–170.
-* Brandon, R. N. and Burian, R. M. (eds.), 1984. *Genes, Organisms, and Populations*, Cambridge, MA: MIT Press.
-* Brandon, R., and M. D. Rausher, 1996. “Testing adaptationism: A comment on Orzack and Sober,” *The American Naturalist*, 148: 189–201.
-* Brandon, R. N. and Sansom, R. (eds.), 2007. *Integrating Evolution and Development*, Cambridge: Cambridge University Press.
-* Brennan, A., 2014. *Thinking about Nature (Routledge Revivals): An Investigation of Nature, Value and Ecology*, London: Routledge.
-* Buller, D. J., 2006. *Adapting Minds: Evolutionary Psychology and the Persistent Quest for Human Nature*, Cambridge, MA: MIT press.
-* Callebaut, W., 1993. *Taking the Naturalistic Turn, or How Real Philosophy of Science is Done*, Chicago: University of Chicago Press.
-* Colyvan, M., Linquist, S., Grey, W., Griffiths, P. E., Odenbaugh, J., & Possingham, H. P., 2009. “Philosophical Issues in Ecology: Recent Trends and Future Directions,” *Ecology and Society*, 14(2): 22; [online publication](https://www.ecologyandsociety.org/vol14/iss2/art22/).
-* Cooper, G., 2003. *The Science of the Struggle for Existence: On the foundations of ecology*, Cambridge: Cambridge University Press.
-* Coyne, J. A. and Orr, H. A., 2004. *Speciation*, Sunderland, MA: Sinauer Associates, Inc.
-* Craver, C. F., 2007. *Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience*, Oxford: Oxford University Press.
-* Craver, C. F., & Darden, L., 2013. *In Search of Mechanisms: Discoveries Across the Life Sciences*, Chicago: University of Chicago Press.
-* Currie, A., 2018. *Rock, bone, and ruin: An optimist’s guide to the historical sciences*, Cambridge, MA: MIT Press.
-* Darden, L. and Maull, N., 1977. “Interfield theories,” *Philosophy of Science*, 44(1): 43–64.
-* Dawkins, R., 1976. *The Selfish Gene*, Oxford: Oxford University Press.
-* Dretske, F., 1991. *Explaining Behavior: Reasons in a World of Causes*, Cambridge, MA: MIT Press.
-* –––, 1997. *Naturalizing the Mind*, Cambridge, MA: MIT Press.
-* Dupré, J. (ed.), 1987. *The Latest on the Best: Essays on Optimality and Evolution*, Cambridge, MA: MIT Press.
-* –––, 1993. *The Disorder of Things: Metaphysical Foundations of the Disunity of Science*, Cambridge, MA: Harvard University Press.
-* –––, 2002. “Is ‘Natural Kind’ a Natural Kind Term?“ *Monist*, 85(1): 29–49.
-* Dussault, A. C. and F. Bouchard, 2017. {special-character:ldquo]A persistence enhancing propensity account of ecological function to explain ecosystem evolution,” *Synthese*, 194(4): 1115–1145.
-* Ehrlich, P. and Raven, P., 1969. “Differentiation of Populations,” *Science*, 165(3899): 1228–1232.
-* Eliot, C., 2011a. “The Legend of Order and Chaos: Communities and Early Community Ecology,” in *Handbook of the Philosophy of Ecology*, K. de Laplante, B. Brown, and K. Peacocke (eds.), Haarlem: Elsevier, 49–108.
-* Eliot, C., 2011b. “Competition Theory and Channeling Explanation,” *Philosophy and Theory in Biology*, 3: 1–16.
-* Ereshefsky, M., 1992a. “Eliminative pluralism,” *Philosophy of Science*, 59(4): 671–690.
-* –––, 1992b. *The Units of Evolution: Essays on the Nature of Species*, Cambridge, MA: MIT Press.
-* Fodor, J. A., 1974. “Special sciences. ” *Synthese*, 28: 77–115.
-* Forber, P., 2009. “Spandrels and a Pervasive Problem of Evidence,” *Biology and Philosophy*, 24: 247–266.
-* Garson, J., 2019. *What Biological Functions Are and Why They Matter*, Cambridge: Cambridge University Press.
-* Garvey, B., 2007. *Philosophy of Biology*, Stocksfield: Acumen.
-* Ghiselin, M. T., 1974. “A radical solution to the species problem,” *Systematic Zoology*, 23: 536–44.
-* Ginzburg, L., and Colyvan, M., 2004. *Ecological Orbits: How planets Move and Populations Grow*, Oxford and New York: Oxford University Press.
-* Godfrey-Smith, P., 2001a. “Three kinds of adaptationism,” in *Adaptationism and Optimality*, S. H. Orzack, and E. Sober (eds.), New York: Cambridge University Press, pp. 335–357.
-* –––, 2001b. “On the Theoretical Role of ‘Genetic Coding’” *Philosophy of Science*, 67: 26–44.
-* Godfrey-Smith, Peter & R.C. Lewontin, 1993. “The Dimensions of Selection,” *Philosophy of Science*, 60(3): 373–395.
-* Godfrey-Smith, Peter & Benjamin Kerr, 2002. “Group Fitness and Multi-Level Selection: Replies to Commentaries,” *Biology and Philosophy*, 17(4): 539–549.
-* Gould, S. J., and R. C. Lewontin, 1979. “The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme“, *Proceedings of the Royal Society London, Series B*, 205: 581–598.
-* Gray, R., 1992. “Death of the Gene: Developmental Systems Strike Back” in P. Griffiths (ed.), *Trees of Life: Essays in the Philosophy of Biology*, Dordrecht: Kluwer.
-* Grene, Marjorie G., and David Depew, 2004. *The Philosophy of Biology: An Episodic History*, Cambridge: Cambridge University Press.
-* Griffiths, Paul E., 1999. “Squaring the circle: Natural kinds with historical essences,” in *Species, New interdisciplinary essays*, edited by R. A. Wilson, Cambridge, MA: Bradford/MIT Press:209–228.
-* Griffiths, P. E., 2001. “Genetic Information: A Metaphor in Search of a Theory,” *Philosophy of Science*, 68(3): 394–412.
-* Griffiths, P., 2002. “What is Innateness?,” *Monist*, 85: 70–85.
-* Griffiths, P. and R. Gray, 1994. “Developmental Systems and Evolutionary Explanation” *Journal of Philosophy*, 91: 277–304.
-* Griffiths, P. E. and Stotz, K., 2007. “Gene,” in M. Ruse and D. Hull, (eds.): *Cambridge Companion to Philosophy of Biology*, Cambridge: Cambridge University Press, 85–102.
-* Haber, M.H., 2008. “Phylogenetic Inference,” in A. Tucker (ed.), *A Companion to Philosophy of History and Historiography*, Malden, MA: Blackwell Publishing.
-* Havstad, J. C., 2011. “Problems for natural selection as a mechanism,” *Philosophy of Science*, 78(3): 512–523.
-* Hempel, Carl, 1965. *Aspects of Scientific Explanation and Other Essays in the Philosophy of Science*, New York: The Free Press.
-* Hennig, W., 1966. *Phylogenetic Systematics*, Urbana, IL: University of Illinois Press.
-* Hull, D. L., 1965. “The Effects of Essentialism on Taxonomy: 2,000 Years of Stasis,” *British Journal for the Philosophy of Science*, 15: 314–326 and 16: 1–18.
-* –––, 1970. “Contemporary systematic philosophies,” *Annual Review of Ecology and Systematics*, 1: 19–54.
-* –––, 1974. *Philosophy of Biological Science*, Englewood Cliffs: Prentice-Hall.
-* –––, 1975. “Informal Aspects of Theory Reduction,” in Cohen, R. S. and Michalos, A. (eds.): *Proceedings of the Biennial Meeting of the Philosopy of Science Association, 1974*, Dordrecht: D. Reidel, 653–670.
-* –––, 1976. “Are species really individuals?” *Systematic zoology*, 25(2): 174–191.
-* –––, 1978. “A matter of individuality.“ *Philosophy of science*, 45(3): 335–360.
-* –––, 1980. “Individuality and Selection,” *Annual Review of Ecology and Systematics*, 11: 311–332.
-* –––, 1986. “On human nature,” In *PSA 1986* (Volume 2), *Proceedings of the biennial meeting of the philosophy of science association*, Philosophy of Science Association, pp. 3–13.
-* –––, 1988. *Science as a Process: An Evolutionary Account of the Social and Conceptual Development of Science*, Chicago: University of Chicago Press.
-* –––, 1999. “On the plurality of species: questioning the party line,” in *Species: New Interdisciplinary Essays*, Cambridge, MA: MIT Press, pp. 307–315.
-* Hull, D. L. and Ruse, M. (eds.), 1998. *The Philosophy of Biology*, Oxford: Oxford University Press.
-* Hull, D. L. and Ruse, M., 2007. *The Cambridge Companion to the Philosophy of Biology*, New York, Cambridge University Press.
-* Jablonka, E., 2002. “Information Interpretation, Inheritance, and Sharing,” *Philosophy of Science*, 69(4): 578–605.
-* Jax, K., 2005. “Function and ‘functioning’ in ecology: what does it mean?” *Oikos*, 111(3): 641–648.
-* Justus, J., 2008. “Ecological and Lyapunov stability,” *Philosophy of Science*, 75: 421–436.
-* –––, 2012. “The elusive basis of inferential robustness.“ *Philosophy of Science*, 79(5): 795–807.
-* Kitcher, P., 1982. *Abusing science: The case against creationism*, Cambridge, MA: MIT Press.
-* –––, 1984. “1953 and all that: a tale of two sciences,” *Philosophical Review*, 93: 335–373.
-* –––, 1984. “Species,” *Philosophy of Science*, 51(2): 308–333.
-* –––, 1985. *Vaulting Ambition: Sociobiology and the Question for Human Nature*, Cambridge, MA: MIT Press.
-* –––, 1989. “Some puzzles about species,” in Michael Ruse (ed.), *What the Philosophy of Biology Is: Essays Dedicated to David Hull*, Dordrecht: Kluwer Academic Publishers, pp. 183–208.
-* –––, 1999. “The hegemony of molecular biology,” *Biology and Philosophy*, 14(2): 195–210.
-* Kronfeldner, M., 2018. *What’s left of human nature?: A post-essentialist, pluralist, and interactive account of a contested concept*, Cambridge, MA: MIT Press.
-* Levy, A., 2011. “Information in biology: A fictionalist account,” *Noûs*, 45(4): 640–657.
-* Lewens, T., 2015. *Cultural evolution: conceptual challenges*, Oxford: Oxford University Press.
-* Linquist, S., 2008. “But is it progress? On the alleged advances of conservation biology over ecology,” *Biology and Philosophy*, 23: 529–544.
-* Linquist, S., Gregory, T. R., Elliott, T. A., Saylor, B., Kremer, S. C., & Cottenie, K., 2016. “Yes! There are resilient generalizations (or ‘laws’) in ecology,” *The Quarterly Review of Biology*, 91(2): 119–131.
-* Lloyd, E. A., 1988. *The Structure and Confirmation of Evolutionary Theory*, Westport: Greenwood Press.
-* –––, 2005. “Why the Gene Will Not Return,” *Philosophy of Science*, 72(2): 287–310.
-* –––, 2015. “Adaptationism and the logic of research questions: how to think clearly about evolutionary causes.“ *Biological Theory*, 10(4): 343–362.
-* Machamer, P., Darden, L. *et al*., 2000. “Thinking about Mechanisms,” *Philosophy of Science*, 67(1): 1–25.
-* Machery, E., 2008. “A plea for human nature,” *Philosophical Psychology*, 21(3): 321–329.
-* MacLaurin, J. and Sterelny, K., 2008. *What is Biodiversity?* Chicago: University of Chicago Press.
-* Maienschein, J. and Laubichler, M. L., 2004. *From Embryology to Evo-Devo*, Cambridge: Cambridge University Press.
-* Mameli, M. and Bateson, P., 2006. “Innateness and the Sciences,” *Biology and Philosophy*, 21: 155–188.
-* Matthen, M., & Ariew, A., 2002. “Two ways of thinking about fitness and natural selection,” *The Journal of Philosophy*, 99(2): 55–83.
-* Maynard Smith, J., 2000. “The concept of information in biology,” *Philosophy of Science*, 67(2): 177–194.
-* Maynard Smith, J., Burian, R. *et al*., 1985. “Developmental Constraints and Evolution,” *Quarterly Review of Biology*, 60(3): 265–287.
-* Mayr, E., 1963. *Animal species and evolution*, Cambridge, MA: Harvard University Press.
-* –––, 1969. “Footnotes on the Philosophy of Biology,” *Philosophy of Science*, 36(2): 197–202.
-* –––, 1982. *The Growth of Biological Thought*, Cambridge, MA: Harvard University Press.
-* Millikan, R. G., 1984. *Language, Thought and Other Biological Categories*, Cambridge, MA: MIT Press.
-* –––, 1995. *White queen psychology and other essays for Alice*, Cambridge, MA: MIT Press.
-* –––, 2004. *Varieties of meaning: the 2002 Jean Nicod lectures*, Cambridge, MA: MIT Press.
-* –––, 2005. *Language: A biological model*, Oxford: Oxford University Press.
-* Mills, S. and Beatty, J., 1979. “The propensity interpretation of fitness,” *Philosophy of Science*, 46: 263–286.
-* Millstein, Roberta L., 2002. “Are Random Drift and Natural Selection Conceptually Distinct?” *Biology & Philosophy*, 17(1): 33–53.
-* –––, 2005. “Selection Vs. Drift: A Response to Brandon’s Reply,” *Biology & Philosophy*, 20(1): 171–175.
-* –––, 2007. “Distinguishing drift and selection empirically: ‘The Great Snail Debate’ of the 1950s,” *Journal of the History of Biology*, 41: 339–367.
-* Mishler, B. D., & Brandon, R. N., 1987. “Individuality, pluralism, and the phylogenetic species concept,” *Biology and Philosophy*, 2(4): 397–414.
-* Mitchell, S. D., 1997. “Pragmatic laws,” *Philosophy of Science*, 64: S468–S479.
-* –––, 2000. “Dimensions of scientific laws,” *Philosophy of Science*, 67: 242–265.
-* Nagel, Ernest, 1961. *The Structure of Science: Problems in the Logic of Scientific Explanation*, New York: Harcourt, Brace & World.
-* Neander, K., 1991. “Functions as selected effects: the conceptual analyst’s defense,” *Philosophy of Science*, 58: 168–184.
-* –––, 2017. *A mark of the mental: In defense of informational teleosemantics*, Cambridge, MA: MIT Press.
-* Nunes-Neto, N., A. Moreno, and C. N. El-Hani, 2014. “Function in ecology: an organizational approach,” *Biology & Philosophy*, 29(1): 123–141.
-* O’Connor, C., 2019. *The Origins of Unfairness: Social Categories and Cultural Evolution*, Oxford: Oxford University Press.
-* O’Malley, M., 2014. *Philosophy of microbiology*, Cambridge: Cambridge University Press.
-* Odenbaugh, J., 2001. “Ecology, stability, model building and environmental policy: a reply to some of the pessimism,” *Philosophy of Science*, 68: S493–S505.
-* –––, 2003. “Complex systems, trade-offs, and theoretical population biology: Richard Levin’s ‘strategy of model building in population biology’ revisited,” *Philosophy of Science*, 70(5): 1496–1507.
-* –––, 2005. “Idealized, inaccurate but successful: A pragmatic approach to evaluating models in theoretical ecology,” *Biology and Philosophy*, 20(2-3): 231–255.
-* –––, 2007. “Seeing the forest and the trees,” *Philosophy of Science*, 74: 628–641.
-* –––, 2010. “On the very idea of an ecosystem,” in *New waves in metaphysics*, A. Hazlett (ed.), London: Palgrave, pp. 240–258.
-* Okasha, S., 2002. “Darwinian metaphysics: Species and the question of essentialism,” *Synthese*, 131(2): 191–213.
-* –––, 2007. *Evolution and the Levels of Selection*, New York and Oxford: Oxford University Press.
-* Orzack, S. H., and E. Sober, 1994. “Optimality models and the test of adaptationism,” *The American Naturalist*, 143: 361–380.
-* –––, 2001. *Optimality and Adaptation*, Cambridge: Cambridge University Press.
-* Oyama, S., 2000. *The Ontogeny of Information, 2nd Edition*, Duke University Press.
-* –––, 2000. *Evolution’s Eye*, Duke University Press.
-* Oyama, S., P. Griffiths and R. Gray (eds.), 2001. *Cycles of Contingency*, Cambridge, MA: MIT Press.
-* Papineau, David, 1987. *Reality and Representation*, Blackwell.
-* –––, 1993. *Philosophical naturalism*, Blackwell.
-* Pence, C. H., & Ramsey, G., 2013. “A new foundation for the propensity interpretation of fitness,” *The British Journal for the Philosophy of Science*, 64(4): 851–881.
-* Pigliucci, M. and Kaplan, J. M., 2006. *Making Sense of Evolution: The Conceptual Foundations of Evolutionary Theory*, Chicago: University of Chicago Press.
-* Pittendrigh, C. S., 1958. “Adaptation, natural selection and behavior,” *Behavior and Evolution*, in A. Roe and G. G. Simpson (eds.), New Haven: Yale University Press, 390–416.
-* Plutynski, A., 2018. *Explaining cancer: Finding order in disorder*, Oxford: Oxford University Press.
-* Polger, T. W., & Shapiro, L. A., 2016. *The multiple realization book*, Oxford: Oxford University Press.
-* Potochnik, A., 2009. “Optimality modeling in a suboptimal world,” *Biology and Philosophy*, 24: 183–197.
-* Ramsey, G., 2013. “Human nature in a post-essentialist world,” *Philosophy of Science*, 80(5): 983–993. Chicago
-* Richardson, R. C., 2010. *Evolutionary psychology as maladapted psychology*, Cambridge, MA: MIT Press.
-* Robert, J. S., 2004. *Embryology, Epigenesis and Evolution: Taking Development Seriously*, Cambridge and New York: Cambridge University Press.
-* Rosenberg, A., 1978. “The supervenience of biological concepts,” *Philosophy of Science*, 45: 368–386.
-* –––, 1983. “Fitness,” *Journal of Philosophy*, 80: 457–473.
-* –––, 1997. “Reductionism redux: computing the embryo,” *Biology and Philosophy*, 12(4): 445”470.
-* –––, 2008. *Darwinian reductionism: Or, how to stop worrying and love molecular biology*, Chicago: University of Chicago Press.
-* Rosenberg, A. and McShea, D. W., 2008. *Philosophy of Biology: A contemporary introduction*, New York and London: Routledge.
-* Ruse, M., 1982. *Darwinism Defended*, Addison-Wesley.
-* –––, 1988. *Philosophy of biology today*, SUNY Press.
-* Santana, C.,, 2014. “Save the planet: Eliminate biodiversity,” *Biology & Philosophy*, 29(6): 761–780.
-* Sarkar, S., 1992. “Models of reduction and categories of reductionism,” *Synthese*, 91: 167–94.
-* –––, 1996. “Biological information: A sceptical look at some central dogmas of molecular biology,” in Sarkar, S. (ed.), *The Philosophy and History of Molecular Biology: New Perspectives* (Boston Studies in the Philosophy of Science 183), Dordrecht and Boston: Kluwer Academic, 187–232.
-* –––, 1998. *Genetics and Reductionism*, Cambridge: Cambridge University Press.
-* –––, 2005. *Biodiversity and Environmental Philosophy: An Introduction*, Cambridge: Cambridge University Press.
-* –––, 2007. *Doubting Darwin?: Creationist designs on evolution*, Malden, MA: Blackwell Publishing.
-* –––, 2011. “Drift and the Causes of Evolution,” in P. McKay Illari, F. Russo and J. Williamson (eds.) *Causality in the Sciences*, Oxford: Oxford University Press, 445–469.
-* Sarkar, S. and Plutynski, A., 2008. *A Companion to the Philosophy of Biology*, Oxford: Blackwell.
-* Schaffner, K. F., 1967a. *Antireductionism and Molecular Biology*, in Munson, R. (ed.) *Man and Nature: Philosophical Issues in Biology*, New York: Dell, 44–54.
-* –––, 1967b. “Approaches to Reduction,” *Philosophy of Science*, 34: 137–47.
-* –––, 1969. “The Watson-Crick model and reductionism,” *British Journal for the Philosophy of Science*, 20: 325–48.
-* –––, 1993. *Discovery and Explanation in Biology and Medicine*, Chicago and London: University of Chicago Press.
-* Segerstråle, U. C. O., 2000. *Defenders of the truth: The battle for science in the sociology debate and beyond*, Oxford: Oxford University Press.
-* Shea, N., 2007. “Representation in the genome and in other inheritance systems”, *Biology and Philosophy*, 22(3): 313–331.
-* Shrader-Frechette, K. S. and McCoy, E. D., 1993. *Method in Ecology: Strategies for Conservation*, Cambridge and New York: Cambridge University Press.
-* Skipper Jr, R. A., & Millstein, R. L., 2005. “Thinking about evolutionary mechanisms: Natural selection,” *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 36(2): 327–347.
-* Smart, J. J. C., 1959. “Can biology be an exact science?” *Synthese*, 11(4): 359–368.
-* Sober, E., 1984a. “Fact, fiction and fitness: a reply to Rosenberg,” *Journal of Philosophy*, 81: 372–383.
-* –––, 1984b. *The Nature of Selection: Evolutionary Theory in Philosophical Focus*, Cambridge, MA: MIT Press.
-* –––, 1988. *Reconstructing the Past: Parsimony, Evolution and Inference*, Cambridge, MA: MIT Press.
-* –––, 1997. “Two Outbreaks of Lawlessness in Recent Philosophy of Science,” *Philosophy of Science* 2: 458–467.
-* –––, 1999. *Philosophy of Biology*, Boulder and Oxford: Westview Press.
-* –––, 2001. “The Two Faces of Fitness,” in R. Singh, D. Paul, C. Krimbas, and J. Beatty (eds.), *Thinking about Evolution: Historical, Philosophical, and Political Perspectives* (Volume 2), Cambridge: Cambridge University Press, pp. 309–321.
-* –––, 2004. “The Contest between Parsimony and Likelihood,” *Systematic Biology*, 53: 644–53.
-* Sober, E., (ed.), 2006. *Conceptual Issues in Evolutionary Biology*, Cambridge, MA: MIT Press.
-* Sober, E. and Wilson, D. S., 1998. *Unto Others: The Evolution and Psychology of Unselfish Behavior*, Cambridge, MA: Harvard University Press.
-* Sokal, R. R. and T. J. Crovello, 1970. “The biological species concept: a critical evaluation,” *The American Naturalist*, 104 (936): 127–153.
-* Sterelny, K., 2006. “Local ecological communities,” *Philosophy of Science*, 73: 215–231.
-* –––, 2012. *The evolved apprentice*, MIT Press.
-* Sterelny, K. and Griffiths, P. E., 1999. *Sex and Death: An Introduction to the Philosophy of Biology*, Chicago: University of Chicago Press.
-* Sterelny, K., K. Smith, and M. Dickison, 1996. “The extended replicator,” *Biology and Philosophy*, 11: 377–403.
-* Sterelny, K., & Kitcher, P., 1988. “The return of the gene,” *The Journal of Philosophy*, 85(7): 339–361.
-* Stotz, K. and Griffiths, P. E., 2008. “Biohumanities: Rethinking the relationship between biosciences, philosophy and history of science, and society,” *Quarterly Review of Biology*, 83(1): 37–45.
-* Thompson, P., 1988. *The structure of biological theories*, Albany, NY: SUNY Press.
-* Turner, D., 2011. *Paleontology: a philosophical introduction*, Cambridge: Cambridge University Press.
-* Van Valen, L., 1976. “Ecological species, multispecies, and oaks,” *Taxon*, 25(2–3): 233–239.
-* Walsh, Denis, 2006. “Evolutionary Essentialism,” *British Journal for the Philosophy of Science*, 57(2): 425–448.
-* Walsh, D. M., Lewens, T., & Ariew, A., 2002. “The trials of life: Natural selection and random drift,” *Philosophy of Science*, 69(3): 429–446.
-* Waters, C. K., 1990. *Why the Antireductionist Consensus Won’t Survive the Case of Classical Mendelian Genetics*, in A. Fine, M. Forbes and L. Wessells (eds.), *Proceedings of the Biennial Meeting of the Philosophy of Science Association* (Volume 1: Contributed Papers), Chicago: University of Chicago Press, 125–139.
-* –––, 1994. “Genes made molecular,” *Philosophy of Science*, 61: 163–185.
-* –––, 1998. “Causal Regularities in the Biological World of Contingent Distributions,” *Biology and Philosophy*, 13: 5–36.
-* –––, 2000. “Molecules made biological,” *Revue internationale de philosophie*, 54(214/4): 539–564.
-* –––, 2004. “What was classical genetics?,” *Studies in History and Philosophy of Science* (Part A), 35(4): 783–809.
-* –––, 2005. “Why Genic and Multilevel Selection Theories Are Here to Stay,” *Philosophy of Science*, 72(2): 311–333.
-* Weisberg, M., 2012. *Simulation and similarity: Using models to understand the world*, Oxford: Oxford University Press.
-* Weisberg, M., & Reisman, K., 2008. “The robust Volterra principle,” *Philosophy of science*, 75(1): 106–131.
-* Wiley, E. O., 1978. “The evolutionary species concept reconsidered,” *Systematic Biology*, 27(1): 17–26.
-* Wilkins, J. S., 2009. *Species: a history of the idea, Volume 1*, Berkeley: University of California Press.
-* Williams, George C., 1966. *Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought*, Princeton, NJ: Princeton University Press.
-* Williams, M. B. and Rosenberg, A., 1985. “‘Fitness’ in fact and fiction: a rejoinder to Sober,” *Journal of Philosophy*, 82: 738–749.
-* Wilson, E. O., 1975. *Sociobiology: The New Synthesis*, Cambridge, MA: Harvard University Press.
-* –––, 1978. *On Human Nature*, Cambridge, MA: Harvard University Press.
-* Wilson, R. A., 2005. *Genes and the agents of life: the individual in the fragile sciences biology*, Cambridge: Cambridge University Press.
-* Wilson, R. A. (ed.), 1999. *Species: New Interdisciplinary Essays*, Cambridge, MA: MIT Press.
-* Wilson, R. A., Barker, M. J., & Brigandt, I., 2007. ‘When traditional essentialism fails: biological natural kinds.’ *Philosophical Topics*, 35(1/2): 189–215.
-* Wimsatt, W. C., 1972. “Teleology and the Logical Structure of Function Statements,” *Studies in History and Philosophy of Science*, 3: 1–80.
-* –––, 1976. “Reductive Explanation: A Functional Account,” in R.S. Cohen, C.A. Hooker, A.C. Michalos, J.W. Van Evra (eds.), *PSA 1974* (Boston Studies in the Philosophy of Science: Volume 32), Dordrecht: Springer, 617–710.
-* –––, 1980a. *Reductionistic Research Strategies and Their Biases in the Units of Selection Controversy*, in T. Nickles (ed.), *Scientific Discovery: Case Studies*, Dordrecht: D. Reidel, 213–259.
-* –––, 1980b. “Units of Selection and the Structure of the Multi-Level Genome,” *PSA 1980* (Volume 2), Chicago: University of Chicago Press, 122–183.
-* Woodger, J. H., 1952. *Biology and Language: An Introduction to the Methodology of the Biological Sciences including Medicine*, Cambridge: Cambridge University Press.
-* Wright, L., 1973. “Functions,” *Philosophical Review*, 82: 139–168.
+* Amundson, R., 1994. “Two concepts of constraint: adaptationism and the challenge from developmental biology,” _Philosophy of Science_, 61(4): 556–578.
+* –––, 2005. _The changing rule of the embryo in evolutionary biology: Structure and synthesis_, New York: Cambridge University Press.
+* Ariew, A., 1999. “Innateness is Canalization”, in V. Hardcastle (ed.) _Where Biology Meets Psychology_, Cambridge, MA: MIT Press.
+* Ayala, F. J., 1976. “Biology as an autonomous science,” in M. Grene, and E. Mendelsohn (eds.): _Boston Studies in Philosophy of Science XXVII_ (Topics in Philosophy of Biology), 313–329.
+* Barker, G., 2015. _Beyond Biofatalism: Human Nature for an Evolving World_, New York: Columbia University Press.
+* Beatty, J., 1980. “Optimality-design and the strategy of model-building in evolutionary biology,” _Philosophy of Science_, 47: 532–61.
+* Beatty, J., & Finsen, S., 1989. “Rethinking the propensity interpretation: A peek inside Pandora’s box,” _In What the Philosophy of Biology is_, Dordrecht: Springer, 17–30.
+* Beatty, J., 1995. “The Evolutionary Contingency Thesis,” in G. Wolters and J. Lennox (eds.), _Concepts, Theories, and Rationality in the Biological Sciences_, University of Pittsburgh Press.
+* Bechtel, W., Mandik, P. _et al_. (eds.), 2001. _Philosophy and the Neurosciences: A Reader_, Oxford: Blackwell.
+* Bechtel, W., and Richardson, R., 1993. _Discovering Complexity_, Princeton: Princeton University Press.
+* Beckner, M., 1959. _The biological way of thought_, New York: Columbia University Press.
+* Beurton, P., Falk, R., and Rheinberger, H.-J. (eds.), 2000. _The Concept of the Gene in Development and Evolution_, Cambridge: Cambridge University Press.
+* Birch, J., 2017. _The Philosophy of Social Evolution_, Oxford University Press.
+* Boorse, C., 1976. “Wright on functions,” _Philosophical Review_, 85(1): 70–86.
+* Boyd, R., 1999. “Homeostasis, species, and higher taxa,” in _Species: New interdisciplinary essays_, edited by R. Wilson, Cambridge, MA: Bradford/MIT Press.
+* Brandon, R. N. (ed.), 1996. _Concepts and Methods in Evolutionary Biology_, Cambridge: Cambridge University Press.
+* –––, 1997. “Does biology have laws? The experimental evidence”, _PSA_ 1996 (Volume 2), 444–457.
+* –––, 2005. “The Difference between Selection and Drift: A Reply to Millstein,” _Biology & Philosophy_, 20(1): 153–170.
+* Brandon, R. N. and Burian, R. M. (eds.), 1984. _Genes, Organisms, and Populations_, Cambridge, MA: MIT Press.
+* Brandon, R., and M. D. Rausher, 1996. “Testing adaptationism: A comment on Orzack and Sober,” _The American Naturalist_, 148: 189–201.
+* Brandon, R. N. and Sansom, R. (eds.), 2007. _Integrating Evolution and Development_, Cambridge: Cambridge University Press.
+* Brennan, A., 2014. _Thinking about Nature (Routledge Revivals): An Investigation of Nature, Value and Ecology_, London: Routledge.
+* Buller, D. J., 2006. _Adapting Minds: Evolutionary Psychology and the Persistent Quest for Human Nature_, Cambridge, MA: MIT press.
+* Callebaut, W., 1993. _Taking the Naturalistic Turn, or How Real Philosophy of Science is Done_, Chicago: University of Chicago Press.
+* Colyvan, M., Linquist, S., Grey, W., Griffiths, P. E., Odenbaugh, J., & Possingham, H. P., 2009. “Philosophical Issues in Ecology: Recent Trends and Future Directions,” _Ecology and Society_, 14(2): 22; [online publication](https://www.ecologyandsociety.org/vol14/iss2/art22/).
+* Cooper, G., 2003. _The Science of the Struggle for Existence: On the foundations of ecology_, Cambridge: Cambridge University Press.
+* Coyne, J. A. and Orr, H. A., 2004. _Speciation_, Sunderland, MA: Sinauer Associates, Inc.
+* Craver, C. F., 2007. _Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience_, Oxford: Oxford University Press.
+* Craver, C. F., & Darden, L., 2013. _In Search of Mechanisms: Discoveries Across the Life Sciences_, Chicago: University of Chicago Press.
+* Currie, A., 2018. _Rock, bone, and ruin: An optimist’s guide to the historical sciences_, Cambridge, MA: MIT Press.
+* Darden, L. and Maull, N., 1977. “Interfield theories,” _Philosophy of Science_, 44(1): 43–64.
+* Dawkins, R., 1976. _The Selfish Gene_, Oxford: Oxford University Press.
+* Dretske, F., 1991. _Explaining Behavior: Reasons in a World of Causes_, Cambridge, MA: MIT Press.
+* –––, 1997. _Naturalizing the Mind_, Cambridge, MA: MIT Press.
+* Dupré, J. (ed.), 1987. _The Latest on the Best: Essays on Optimality and Evolution_, Cambridge, MA: MIT Press.
+* –––, 1993. _The Disorder of Things: Metaphysical Foundations of the Disunity of Science_, Cambridge, MA: Harvard University Press.
+* –––, 2002. “Is ‘Natural Kind’ a Natural Kind Term?“ _Monist_, 85(1): 29–49.
+* Dussault, A. C. and F. Bouchard, 2017. {special-character:ldquo]A persistence enhancing propensity account of ecological function to explain ecosystem evolution,” _Synthese_, 194(4): 1115–1145.
+* Ehrlich, P. and Raven, P., 1969. “Differentiation of Populations,” _Science_, 165(3899): 1228–1232.
+* Eliot, C., 2011a. “The Legend of Order and Chaos: Communities and Early Community Ecology,” in _Handbook of the Philosophy of Ecology_, K. de Laplante, B. Brown, and K. Peacocke (eds.), Haarlem: Elsevier, 49–108.
+* Eliot, C., 2011b. “Competition Theory and Channeling Explanation,” _Philosophy and Theory in Biology_, 3: 1–16.
+* Ereshefsky, M., 1992a. “Eliminative pluralism,” _Philosophy of Science_, 59(4): 671–690.
+* –––, 1992b. _The Units of Evolution: Essays on the Nature of Species_, Cambridge, MA: MIT Press.
+* Fodor, J. A., 1974. “Special sciences. ” _Synthese_, 28: 77–115.
+* Forber, P., 2009. “Spandrels and a Pervasive Problem of Evidence,” _Biology and Philosophy_, 24: 247–266.
+* Garson, J., 2019. _What Biological Functions Are and Why They Matter_, Cambridge: Cambridge University Press.
+* Garvey, B., 2007. _Philosophy of Biology_, Stocksfield: Acumen.
+* Ghiselin, M. T., 1974. “A radical solution to the species problem,” _Systematic Zoology_, 23: 536–44.
+* Ginzburg, L., and Colyvan, M., 2004. _Ecological Orbits: How planets Move and Populations Grow_, Oxford and New York: Oxford University Press.
+* Godfrey-Smith, P., 2001a. “Three kinds of adaptationism,” in _Adaptationism and Optimality_, S. H. Orzack, and E. Sober (eds.), New York: Cambridge University Press, pp. 335–357.
+* –––, 2001b. “On the Theoretical Role of ‘Genetic Coding’” _Philosophy of Science_, 67: 26–44.
+* Godfrey-Smith, Peter & R.C. Lewontin, 1993. “The Dimensions of Selection,” _Philosophy of Science_, 60(3): 373–395.
+* Godfrey-Smith, Peter & Benjamin Kerr, 2002. “Group Fitness and Multi-Level Selection: Replies to Commentaries,” _Biology and Philosophy_, 17(4): 539–549.
+* Gould, S. J., and R. C. Lewontin, 1979. “The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme“, _Proceedings of the Royal Society London, Series B_, 205: 581–598.
+* Gray, R., 1992. “Death of the Gene: Developmental Systems Strike Back” in P. Griffiths (ed.), _Trees of Life: Essays in the Philosophy of Biology_, Dordrecht: Kluwer.
+* Grene, Marjorie G., and David Depew, 2004. _The Philosophy of Biology: An Episodic History_, Cambridge: Cambridge University Press.
+* Griffiths, Paul E., 1999. “Squaring the circle: Natural kinds with historical essences,” in _Species, New interdisciplinary essays_, edited by R. A. Wilson, Cambridge, MA: Bradford/MIT Press:209–228.
+* Griffiths, P. E., 2001. “Genetic Information: A Metaphor in Search of a Theory,” _Philosophy of Science_, 68(3): 394–412.
+* Griffiths, P., 2002. “What is Innateness?,” _Monist_, 85: 70–85.
+* Griffiths, P. and R. Gray, 1994. “Developmental Systems and Evolutionary Explanation” _Journal of Philosophy_, 91: 277–304.
+* Griffiths, P. E. and Stotz, K., 2007. “Gene,” in M. Ruse and D. Hull, (eds.): _Cambridge Companion to Philosophy of Biology_, Cambridge: Cambridge University Press, 85–102.
+* Haber, M.H., 2008. “Phylogenetic Inference,” in A. Tucker (ed.), _A Companion to Philosophy of History and Historiography_, Malden, MA: Blackwell Publishing.
+* Havstad, J. C., 2011. “Problems for natural selection as a mechanism,” _Philosophy of Science_, 78(3): 512–523.
+* Hempel, Carl, 1965. _Aspects of Scientific Explanation and Other Essays in the Philosophy of Science_, New York: The Free Press.
+* Hennig, W., 1966. _Phylogenetic Systematics_, Urbana, IL: University of Illinois Press.
+* Hull, D. L., 1965. “The Effects of Essentialism on Taxonomy: 2,000 Years of Stasis,” _British Journal for the Philosophy of Science_, 15: 314–326 and 16: 1–18.
+* –––, 1970. “Contemporary systematic philosophies,” _Annual Review of Ecology and Systematics_, 1: 19–54.
+* –––, 1974. _Philosophy of Biological Science_, Englewood Cliffs: Prentice-Hall.
+* –––, 1975. “Informal Aspects of Theory Reduction,” in Cohen, R. S. and Michalos, A. (eds.): _Proceedings of the Biennial Meeting of the Philosopy of Science Association, 1974_, Dordrecht: D. Reidel, 653–670.
+* –––, 1976. “Are species really individuals?” _Systematic zoology_, 25(2): 174–191.
+* –––, 1978. “A matter of individuality.“ _Philosophy of science_, 45(3): 335–360.
+* –––, 1980. “Individuality and Selection,” _Annual Review of Ecology and Systematics_, 11: 311–332.
+* –––, 1986. “On human nature,” In _PSA 1986_ (Volume 2), _Proceedings of the biennial meeting of the philosophy of science association_, Philosophy of Science Association, pp. 3–13.
+* –––, 1988. _Science as a Process: An Evolutionary Account of the Social and Conceptual Development of Science_, Chicago: University of Chicago Press.
+* –––, 1999. “On the plurality of species: questioning the party line,” in _Species: New Interdisciplinary Essays_, Cambridge, MA: MIT Press, pp. 307–315.
+* Hull, D. L. and Ruse, M. (eds.), 1998. _The Philosophy of Biology_, Oxford: Oxford University Press.
+* Hull, D. L. and Ruse, M., 2007. _The Cambridge Companion to the Philosophy of Biology_, New York, Cambridge University Press.
+* Jablonka, E., 2002. “Information Interpretation, Inheritance, and Sharing,” _Philosophy of Science_, 69(4): 578–605.
+* Jax, K., 2005. “Function and ‘functioning’ in ecology: what does it mean?” _Oikos_, 111(3): 641–648.
+* Justus, J., 2008. “Ecological and Lyapunov stability,” _Philosophy of Science_, 75: 421–436.
+* –––, 2012. “The elusive basis of inferential robustness.“ _Philosophy of Science_, 79(5): 795–807.
+* Kitcher, P., 1982. _Abusing science: The case against creationism_, Cambridge, MA: MIT Press.
+* –––, 1984. “1953 and all that: a tale of two sciences,” _Philosophical Review_, 93: 335–373.
+* –––, 1984. “Species,” _Philosophy of Science_, 51(2): 308–333.
+* –––, 1985. _Vaulting Ambition: Sociobiology and the Question for Human Nature_, Cambridge, MA: MIT Press.
+* –––, 1989. “Some puzzles about species,” in Michael Ruse (ed.), _What the Philosophy of Biology Is: Essays Dedicated to David Hull_, Dordrecht: Kluwer Academic Publishers, pp. 183–208.
+* –––, 1999. “The hegemony of molecular biology,” _Biology and Philosophy_, 14(2): 195–210.
+* Kronfeldner, M., 2018. _What’s left of human nature?: A post-essentialist, pluralist, and interactive account of a contested concept_, Cambridge, MA: MIT Press.
+* Levy, A., 2011. “Information in biology: A fictionalist account,” _Noûs_, 45(4): 640–657.
+* Lewens, T., 2015. _Cultural evolution: conceptual challenges_, Oxford: Oxford University Press.
+* Linquist, S., 2008. “But is it progress? On the alleged advances of conservation biology over ecology,” _Biology and Philosophy_, 23: 529–544.
+* Linquist, S., Gregory, T. R., Elliott, T. A., Saylor, B., Kremer, S. C., & Cottenie, K., 2016. “Yes! There are resilient generalizations (or ‘laws’) in ecology,” _The Quarterly Review of Biology_, 91(2): 119–131.
+* Lloyd, E. A., 1988. _The Structure and Confirmation of Evolutionary Theory_, Westport: Greenwood Press.
+* –––, 2005. “Why the Gene Will Not Return,” _Philosophy of Science_, 72(2): 287–310.
+* –––, 2015. “Adaptationism and the logic of research questions: how to think clearly about evolutionary causes.“ _Biological Theory_, 10(4): 343–362.
+* Machamer, P., Darden, L. _et al_., 2000. “Thinking about Mechanisms,” _Philosophy of Science_, 67(1): 1–25.
+* Machery, E., 2008. “A plea for human nature,” _Philosophical Psychology_, 21(3): 321–329.
+* MacLaurin, J. and Sterelny, K., 2008. _What is Biodiversity?_ Chicago: University of Chicago Press.
+* Maienschein, J. and Laubichler, M. L., 2004. _From Embryology to Evo-Devo_, Cambridge: Cambridge University Press.
+* Mameli, M. and Bateson, P., 2006. “Innateness and the Sciences,” _Biology and Philosophy_, 21: 155–188.
+* Matthen, M., & Ariew, A., 2002. “Two ways of thinking about fitness and natural selection,” _The Journal of Philosophy_, 99(2): 55–83.
+* Maynard Smith, J., 2000. “The concept of information in biology,” _Philosophy of Science_, 67(2): 177–194.
+* Maynard Smith, J., Burian, R. _et al_., 1985. “Developmental Constraints and Evolution,” _Quarterly Review of Biology_, 60(3): 265–287.
+* Mayr, E., 1963. _Animal species and evolution_, Cambridge, MA: Harvard University Press.
+* –––, 1969. “Footnotes on the Philosophy of Biology,” _Philosophy of Science_, 36(2): 197–202.
+* –––, 1982. _The Growth of Biological Thought_, Cambridge, MA: Harvard University Press.
+* Millikan, R. G., 1984. _Language, Thought and Other Biological Categories_, Cambridge, MA: MIT Press.
+* –––, 1995. _White queen psychology and other essays for Alice_, Cambridge, MA: MIT Press.
+* –––, 2004. _Varieties of meaning: the 2002 Jean Nicod lectures_, Cambridge, MA: MIT Press.
+* –––, 2005. _Language: A biological model_, Oxford: Oxford University Press.
+* Mills, S. and Beatty, J., 1979. “The propensity interpretation of fitness,” _Philosophy of Science_, 46: 263–286.
+* Millstein, Roberta L., 2002. “Are Random Drift and Natural Selection Conceptually Distinct?” _Biology & Philosophy_, 17(1): 33–53.
+* –––, 2005. “Selection Vs. Drift: A Response to Brandon’s Reply,” _Biology & Philosophy_, 20(1): 171–175.
+* –––, 2007. “Distinguishing drift and selection empirically: ‘The Great Snail Debate’ of the 1950s,” _Journal of the History of Biology_, 41: 339–367.
+* Mishler, B. D., & Brandon, R. N., 1987. “Individuality, pluralism, and the phylogenetic species concept,” _Biology and Philosophy_, 2(4): 397–414.
+* Mitchell, S. D., 1997. “Pragmatic laws,” _Philosophy of Science_, 64: S468–S479.
+* –––, 2000. “Dimensions of scientific laws,” _Philosophy of Science_, 67: 242–265.
+* Nagel, Ernest, 1961. _The Structure of Science: Problems in the Logic of Scientific Explanation_, New York: Harcourt, Brace & World.
+* Neander, K., 1991. “Functions as selected effects: the conceptual analyst’s defense,” _Philosophy of Science_, 58: 168–184.
+* –––, 2017. _A mark of the mental: In defense of informational teleosemantics_, Cambridge, MA: MIT Press.
+* Nunes-Neto, N., A. Moreno, and C. N. El-Hani, 2014. “Function in ecology: an organizational approach,” _Biology & Philosophy_, 29(1): 123–141.
+* O’Connor, C., 2019. _The Origins of Unfairness: Social Categories and Cultural Evolution_, Oxford: Oxford University Press.
+* O’Malley, M., 2014. _Philosophy of microbiology_, Cambridge: Cambridge University Press.
+* Odenbaugh, J., 2001. “Ecology, stability, model building and environmental policy: a reply to some of the pessimism,” _Philosophy of Science_, 68: S493–S505.
+* –––, 2003. “Complex systems, trade-offs, and theoretical population biology: Richard Levin’s ‘strategy of model building in population biology’ revisited,” _Philosophy of Science_, 70(5): 1496–1507.
+* –––, 2005. “Idealized, inaccurate but successful: A pragmatic approach to evaluating models in theoretical ecology,” _Biology and Philosophy_, 20(2-3): 231–255.
+* –––, 2007. “Seeing the forest and the trees,” _Philosophy of Science_, 74: 628–641.
+* –––, 2010. “On the very idea of an ecosystem,” in _New waves in metaphysics_, A. Hazlett (ed.), London: Palgrave, pp. 240–258.
+* Okasha, S., 2002. “Darwinian metaphysics: Species and the question of essentialism,” _Synthese_, 131(2): 191–213.
+* –––, 2007. _Evolution and the Levels of Selection_, New York and Oxford: Oxford University Press.
+* Orzack, S. H., and E. Sober, 1994. “Optimality models and the test of adaptationism,” _The American Naturalist_, 143: 361–380.
+* –––, 2001. _Optimality and Adaptation_, Cambridge: Cambridge University Press.
+* Oyama, S., 2000. _The Ontogeny of Information, 2nd Edition_, Duke University Press.
+* –––, 2000. _Evolution’s Eye_, Duke University Press.
+* Oyama, S., P. Griffiths and R. Gray (eds.), 2001. _Cycles of Contingency_, Cambridge, MA: MIT Press.
+* Papineau, David, 1987. _Reality and Representation_, Blackwell.
+* –––, 1993. _Philosophical naturalism_, Blackwell.
+* Pence, C. H., & Ramsey, G., 2013. “A new foundation for the propensity interpretation of fitness,” _The British Journal for the Philosophy of Science_, 64(4): 851–881.
+* Pigliucci, M. and Kaplan, J. M., 2006. _Making Sense of Evolution: The Conceptual Foundations of Evolutionary Theory_, Chicago: University of Chicago Press.
+* Pittendrigh, C. S., 1958. “Adaptation, natural selection and behavior,” _Behavior and Evolution_, in A. Roe and G. G. Simpson (eds.), New Haven: Yale University Press, 390–416.
+* Plutynski, A., 2018. _Explaining cancer: Finding order in disorder_, Oxford: Oxford University Press.
+* Polger, T. W., & Shapiro, L. A., 2016. _The multiple realization book_, Oxford: Oxford University Press.
+* Potochnik, A., 2009. “Optimality modeling in a suboptimal world,” _Biology and Philosophy_, 24: 183–197.
+* Ramsey, G., 2013. “Human nature in a post-essentialist world,” _Philosophy of Science_, 80(5): 983–993. Chicago
+* Richardson, R. C., 2010. _Evolutionary psychology as maladapted psychology_, Cambridge, MA: MIT Press.
+* Robert, J. S., 2004. _Embryology, Epigenesis and Evolution: Taking Development Seriously_, Cambridge and New York: Cambridge University Press.
+* Rosenberg, A., 1978. “The supervenience of biological concepts,” _Philosophy of Science_, 45: 368–386.
+* –––, 1983. “Fitness,” _Journal of Philosophy_, 80: 457–473.
+* –––, 1997. “Reductionism redux: computing the embryo,” _Biology and Philosophy_, 12(4): 445”470.
+* –––, 2008. _Darwinian reductionism: Or, how to stop worrying and love molecular biology_, Chicago: University of Chicago Press.
+* Rosenberg, A. and McShea, D. W., 2008. _Philosophy of Biology: A contemporary introduction_, New York and London: Routledge.
+* Ruse, M., 1982. _Darwinism Defended_, Addison-Wesley.
+* –––, 1988. _Philosophy of biology today_, SUNY Press.
+* Santana, C.,, 2014. “Save the planet: Eliminate biodiversity,” _Biology & Philosophy_, 29(6): 761–780.
+* Sarkar, S., 1992. “Models of reduction and categories of reductionism,” _Synthese_, 91: 167–94.
+* –––, 1996. “Biological information: A sceptical look at some central dogmas of molecular biology,” in Sarkar, S. (ed.), _The Philosophy and History of Molecular Biology: New Perspectives_ (Boston Studies in the Philosophy of Science 183), Dordrecht and Boston: Kluwer Academic, 187–232.
+* –––, 1998. _Genetics and Reductionism_, Cambridge: Cambridge University Press.
+* –––, 2005. _Biodiversity and Environmental Philosophy: An Introduction_, Cambridge: Cambridge University Press.
+* –––, 2007. _Doubting Darwin?: Creationist designs on evolution_, Malden, MA: Blackwell Publishing.
+* –––, 2011. “Drift and the Causes of Evolution,” in P. McKay Illari, F. Russo and J. Williamson (eds.) _Causality in the Sciences_, Oxford: Oxford University Press, 445–469.
+* Sarkar, S. and Plutynski, A., 2008. _A Companion to the Philosophy of Biology_, Oxford: Blackwell.
+* Schaffner, K. F., 1967a. _Antireductionism and Molecular Biology_, in Munson, R. (ed.) _Man and Nature: Philosophical Issues in Biology_, New York: Dell, 44–54.
+* –––, 1967b. “Approaches to Reduction,” _Philosophy of Science_, 34: 137–47.
+* –––, 1969. “The Watson-Crick model and reductionism,” _British Journal for the Philosophy of Science_, 20: 325–48.
+* –––, 1993. _Discovery and Explanation in Biology and Medicine_, Chicago and London: University of Chicago Press.
+* Segerstråle, U. C. O., 2000. _Defenders of the truth: The battle for science in the sociology debate and beyond_, Oxford: Oxford University Press.
+* Shea, N., 2007. “Representation in the genome and in other inheritance systems”, _Biology and Philosophy_, 22(3): 313–331.
+* Shrader-Frechette, K. S. and McCoy, E. D., 1993. _Method in Ecology: Strategies for Conservation_, Cambridge and New York: Cambridge University Press.
+* Skipper Jr, R. A., & Millstein, R. L., 2005. “Thinking about evolutionary mechanisms: Natural selection,” _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 36(2): 327–347.
+* Smart, J. J. C., 1959. “Can biology be an exact science?” _Synthese_, 11(4): 359–368.
+* Sober, E., 1984a. “Fact, fiction and fitness: a reply to Rosenberg,” _Journal of Philosophy_, 81: 372–383.
+* –––, 1984b. _The Nature of Selection: Evolutionary Theory in Philosophical Focus_, Cambridge, MA: MIT Press.
+* –––, 1988. _Reconstructing the Past: Parsimony, Evolution and Inference_, Cambridge, MA: MIT Press.
+* –––, 1997. “Two Outbreaks of Lawlessness in Recent Philosophy of Science,” _Philosophy of Science_ 2: 458–467.
+* –––, 1999. _Philosophy of Biology_, Boulder and Oxford: Westview Press.
+* –––, 2001. “The Two Faces of Fitness,” in R. Singh, D. Paul, C. Krimbas, and J. Beatty (eds.), _Thinking about Evolution: Historical, Philosophical, and Political Perspectives_ (Volume 2), Cambridge: Cambridge University Press, pp. 309–321.
+* –––, 2004. “The Contest between Parsimony and Likelihood,” _Systematic Biology_, 53: 644–53.
+* Sober, E., (ed.), 2006. _Conceptual Issues in Evolutionary Biology_, Cambridge, MA: MIT Press.
+* Sober, E. and Wilson, D. S., 1998. _Unto Others: The Evolution and Psychology of Unselfish Behavior_, Cambridge, MA: Harvard University Press.
+* Sokal, R. R. and T. J. Crovello, 1970. “The biological species concept: a critical evaluation,” _The American Naturalist_, 104 (936): 127–153.
+* Sterelny, K., 2006. “Local ecological communities,” _Philosophy of Science_, 73: 215–231.
+* –––, 2012. _The evolved apprentice_, MIT Press.
+* Sterelny, K. and Griffiths, P. E., 1999. _Sex and Death: An Introduction to the Philosophy of Biology_, Chicago: University of Chicago Press.
+* Sterelny, K., K. Smith, and M. Dickison, 1996. “The extended replicator,” _Biology and Philosophy_, 11: 377–403.
+* Sterelny, K., & Kitcher, P., 1988. “The return of the gene,” _The Journal of Philosophy_, 85(7): 339–361.
+* Stotz, K. and Griffiths, P. E., 2008. “Biohumanities: Rethinking the relationship between biosciences, philosophy and history of science, and society,” _Quarterly Review of Biology_, 83(1): 37–45.
+* Thompson, P., 1988. _The structure of biological theories_, Albany, NY: SUNY Press.
+* Turner, D., 2011. _Paleontology: a philosophical introduction_, Cambridge: Cambridge University Press.
+* Van Valen, L., 1976. “Ecological species, multispecies, and oaks,” _Taxon_, 25(2–3): 233–239.
+* Walsh, Denis, 2006. “Evolutionary Essentialism,” _British Journal for the Philosophy of Science_, 57(2): 425–448.
+* Walsh, D. M., Lewens, T., & Ariew, A., 2002. “The trials of life: Natural selection and random drift,” _Philosophy of Science_, 69(3): 429–446.
+* Waters, C. K., 1990. _Why the Antireductionist Consensus Won’t Survive the Case of Classical Mendelian Genetics_, in A. Fine, M. Forbes and L. Wessells (eds.), _Proceedings of the Biennial Meeting of the Philosophy of Science Association_ (Volume 1: Contributed Papers), Chicago: University of Chicago Press, 125–139.
+* –––, 1994. “Genes made molecular,” _Philosophy of Science_, 61: 163–185.
+* –––, 1998. “Causal Regularities in the Biological World of Contingent Distributions,” _Biology and Philosophy_, 13: 5–36.
+* –––, 2000. “Molecules made biological,” _Revue internationale de philosophie_, 54(214/4): 539–564.
+* –––, 2004. “What was classical genetics?,” _Studies in History and Philosophy of Science_ (Part A), 35(4): 783–809.
+* –––, 2005. “Why Genic and Multilevel Selection Theories Are Here to Stay,” _Philosophy of Science_, 72(2): 311–333.
+* Weisberg, M., 2012. _Simulation and similarity: Using models to understand the world_, Oxford: Oxford University Press.
+* Weisberg, M., & Reisman, K., 2008. “The robust Volterra principle,” _Philosophy of science_, 75(1): 106–131.
+* Wiley, E. O., 1978. “The evolutionary species concept reconsidered,” _Systematic Biology_, 27(1): 17–26.
+* Wilkins, J. S., 2009. _Species: a history of the idea, Volume 1_, Berkeley: University of California Press.
+* Williams, George C., 1966. _Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought_, Princeton, NJ: Princeton University Press.
+* Williams, M. B. and Rosenberg, A., 1985. “‘Fitness’ in fact and fiction: a rejoinder to Sober,” _Journal of Philosophy_, 82: 738–749.
+* Wilson, E. O., 1975. _Sociobiology: The New Synthesis_, Cambridge, MA: Harvard University Press.
+* –––, 1978. _On Human Nature_, Cambridge, MA: Harvard University Press.
+* Wilson, R. A., 2005. _Genes and the agents of life: the individual in the fragile sciences biology_, Cambridge: Cambridge University Press.
+* Wilson, R. A. (ed.), 1999. _Species: New Interdisciplinary Essays_, Cambridge, MA: MIT Press.
+* Wilson, R. A., Barker, M. J., & Brigandt, I., 2007. ‘When traditional essentialism fails: biological natural kinds.’ _Philosophical Topics_, 35(1/2): 189–215.
+* Wimsatt, W. C., 1972. “Teleology and the Logical Structure of Function Statements,” _Studies in History and Philosophy of Science_, 3: 1–80.
+* –––, 1976. “Reductive Explanation: A Functional Account,” in R.S. Cohen, C.A. Hooker, A.C. Michalos, J.W. Van Evra (eds.), _PSA 1974_ (Boston Studies in the Philosophy of Science: Volume 32), Dordrecht: Springer, 617–710.
+* –––, 1980a. _Reductionistic Research Strategies and Their Biases in the Units of Selection Controversy_, in T. Nickles (ed.), _Scientific Discovery: Case Studies_, Dordrecht: D. Reidel, 213–259.
+* –––, 1980b. “Units of Selection and the Structure of the Multi-Level Genome,” _PSA 1980_ (Volume 2), Chicago: University of Chicago Press, 122–183.
+* Woodger, J. H., 1952. _Biology and Language: An Introduction to the Methodology of the Biological Sciences including Medicine_, Cambridge: Cambridge University Press.
+* Wright, L., 1973. “Functions,” _Philosophical Review_, 82: 139–168.
 
 ## Academic Tools
 
@@ -307,16 +307,16 @@ Recent textbooks include Elliott Sober’s *Philosophy of Biology* (Sober 1999),
 * [International Society for the History, Philosophy and Social Studies of Biology](http://www.ishpssb.org/)
 * [Biohumanities Podcasts](http://www.representinggenes.org/biohumanities/podcasts/)
 * [The Complete Works of Charles Darwin Online](http://darwin-online.org.uk/)
-* [Online resources for Scott Gilbert’s *Developmental Biology*](http://8e.devbio.com/), contains fascinating essays on the history and philosophy of biology and bioethics.
+* [Online resources for Scott Gilbert’s _Developmental Biology_](http://8e.devbio.com/), contains fascinating essays on the history and philosophy of biology and bioethics.
 
 ## Related Entries
 
-[adaptationism](https://plato.stanford.edu/entries/adaptationism/) | [altruism: biological](https://plato.stanford.edu/entries/altruism-biological/) | biocomplexity | [biological development: theories of](https://plato.stanford.edu/entries/theories-biological-development/) | [biological individuals](https://plato.stanford.edu/entries/biology-individual/) | [biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | character-trait | [conservation biology](https://plato.stanford.edu/entries/conservation-biology/) | [creationism](https://plato.stanford.edu/entries/creationism/) | [Darwinism](https://plato.stanford.edu/entries/darwinism/) | [developmental biology](https://plato.stanford.edu/entries/biology-developmental/) | [developmental biology: evolution and development](https://plato.stanford.edu/entries/evolution-development/) | [ecology](https://plato.stanford.edu/entries/ecology/) | [ecology: biodiversity](https://plato.stanford.edu/entries/biodiversity/) | [evolution](https://plato.stanford.edu/entries/evolution/) | [evolution: concept before Darwin](https://plato.stanford.edu/entries/evolution-before-darwin/) | [evolution: cultural](https://plato.stanford.edu/entries/evolution-cultural/) | [evolution: from the *Origin of Species* to the *Descent of Man*](https://plato.stanford.edu/entries/origin-descent/) | [fitness](https://plato.stanford.edu/entries/fitness/) | [gene](https://plato.stanford.edu/entries/gene/) | [genetics](https://plato.stanford.edu/entries/genetics/) | [genetics: ecological](https://plato.stanford.edu/entries/ecological-genetics/) | [genetics: genotype/phenotype distinction](https://plato.stanford.edu/entries/genotype-phenotype/) | [genetics: molecular](https://plato.stanford.edu/entries/molecular-genetics/) | [genetics: population](https://plato.stanford.edu/entries/population-genetics/) | [heritability](https://plato.stanford.edu/entries/heritability/) | [human genome project](https://plato.stanford.edu/entries/human-genome/) | [immunology, philosophy of](https://plato.stanford.edu/entries/immunology/) | [information: biological](https://plato.stanford.edu/entries/information-biological/) | [innate/acquired distinction](https://plato.stanford.edu/entries/innate-acquired/) | [life](https://plato.stanford.edu/entries/life/) | [molecular biology](https://plato.stanford.edu/entries/molecular-biology/) | [natural selection](https://plato.stanford.edu/entries/natural-selection/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/) | [neuroscience, philosophy of](https://plato.stanford.edu/entries/neuroscience/) | [psychology: evolutionary](https://plato.stanford.edu/entries/evolutionary-psychology/) | [reduction, scientific: in biology](https://plato.stanford.edu/entries/reduction-biology/) | [replication and reproduction](https://plato.stanford.edu/entries/replication/) | [sociobiology](https://plato.stanford.edu/entries/sociobiology/) | [species](https://plato.stanford.edu/entries/species/) | [teleology: teleological notions in biology](https://plato.stanford.edu/entries/teleology-biology/)
+[adaptationism](https://plato.stanford.edu/entries/adaptationism/) | [altruism: biological](https://plato.stanford.edu/entries/altruism-biological/) | biocomplexity | [biological development: theories of](https://plato.stanford.edu/entries/theories-biological-development/) | [biological individuals](https://plato.stanford.edu/entries/biology-individual/) | [biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | character-trait | [conservation biology](https://plato.stanford.edu/entries/conservation-biology/) | [creationism](https://plato.stanford.edu/entries/creationism/) | [Darwinism](https://plato.stanford.edu/entries/darwinism/) | [developmental biology](https://plato.stanford.edu/entries/biology-developmental/) | [developmental biology: evolution and development](https://plato.stanford.edu/entries/evolution-development/) | [ecology](https://plato.stanford.edu/entries/ecology/) | [ecology: biodiversity](https://plato.stanford.edu/entries/biodiversity/) | [evolution](https://plato.stanford.edu/entries/evolution/) | [evolution: concept before Darwin](https://plato.stanford.edu/entries/evolution-before-darwin/) | [evolution: cultural](https://plato.stanford.edu/entries/evolution-cultural/) | [evolution: from the _Origin of Species_ to the _Descent of Man_](https://plato.stanford.edu/entries/origin-descent/) | [fitness](https://plato.stanford.edu/entries/fitness/) | [gene](https://plato.stanford.edu/entries/gene/) | [genetics](https://plato.stanford.edu/entries/genetics/) | [genetics: ecological](https://plato.stanford.edu/entries/ecological-genetics/) | [genetics: genotype/phenotype distinction](https://plato.stanford.edu/entries/genotype-phenotype/) | [genetics: molecular](https://plato.stanford.edu/entries/molecular-genetics/) | [genetics: population](https://plato.stanford.edu/entries/population-genetics/) | [heritability](https://plato.stanford.edu/entries/heritability/) | [human genome project](https://plato.stanford.edu/entries/human-genome/) | [immunology, philosophy of](https://plato.stanford.edu/entries/immunology/) | [information: biological](https://plato.stanford.edu/entries/information-biological/) | [innate/acquired distinction](https://plato.stanford.edu/entries/innate-acquired/) | [life](https://plato.stanford.edu/entries/life/) | [molecular biology](https://plato.stanford.edu/entries/molecular-biology/) | [natural selection](https://plato.stanford.edu/entries/natural-selection/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/) | [neuroscience, philosophy of](https://plato.stanford.edu/entries/neuroscience/) | [psychology: evolutionary](https://plato.stanford.edu/entries/evolutionary-psychology/) | [reduction, scientific: in biology](https://plato.stanford.edu/entries/reduction-biology/) | [replication and reproduction](https://plato.stanford.edu/entries/replication/) | [sociobiology](https://plato.stanford.edu/entries/sociobiology/) | [species](https://plato.stanford.edu/entries/species/) | [teleology: teleological notions in biology](https://plato.stanford.edu/entries/teleology-biology/)
 
 ### Acknowledgments
 
 The SEP Editors would like to thank Sally Ferguson for her editorial work on earlier versions of this entry.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Jay Odenbaugh](http://jay-odenbaugh.squarespace.com/) <[*jay@lclark.edu*](mailto:jay%40lclark%2eedu)>\
+[Jay Odenbaugh](http://jay-odenbaugh.squarespace.com/) <[_jay@lclark.edu_](mailto:jay%40lclark%2eedu)>\
 [Paul Griffiths](http://griffithslab.org/)

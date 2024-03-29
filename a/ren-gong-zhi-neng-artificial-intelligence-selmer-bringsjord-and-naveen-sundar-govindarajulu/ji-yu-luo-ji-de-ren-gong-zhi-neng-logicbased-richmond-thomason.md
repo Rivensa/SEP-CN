@@ -1,6 +1,6 @@
 # 基于逻辑的人工智能 logic-based (Richmond Thomason)
 
-*首次发表于 2003 年 8 月 27 日；实质性修订于 2024 年 2 月 27 日*
+_首次发表于 2003 年 8 月 27 日；实质性修订于 2024 年 2 月 27 日_
 
 人工智能（以下简称“AI”）是计算机科学的一个子领域，致力于开发能够展示智能行为的程序。\[[1](https://plato.stanford.edu/entries/logic-ai/notes.html#note-1)]
 
@@ -88,20 +88,20 @@
 
 这些主题与《符号逻辑杂志》的内容几乎没有共同之处，该杂志是数理逻辑的主要记录期刊。但是与《哲学逻辑杂志》存在很大的重叠，特别是在时态逻辑、认知逻辑、逻辑方法与实际推理以及信念变化等主题上。当然，也存在一些差异；《哲学逻辑杂志》很少涉及复杂性理论或潜在的自动推理应用。
 
-成立于 1936 年，*JSL*旨在汇集在逻辑领域工作的数学家和哲学家。第一卷中的文章在数学家和哲学家之间几乎平均分配，早期的卷册并没有显示出两个群体在主题上有明显的差异。
+成立于 1936 年，_JSL_旨在汇集在逻辑领域工作的数学家和哲学家。第一卷中的文章在数学家和哲学家之间几乎平均分配，早期的卷册并没有显示出两个群体在主题上有明显的差异。
 
-这种情况在 1960 年代发生了变化。1969 年的*JSL*卷册中有 39 篇数学家的文章，只有 9 篇是哲学家的。到了 1970 年代初，许多哲学家认为逻辑方面的哲学论文不太可能被*JSL*接受，而且被接受的论文也不太可能被哲学家阅读。此时，这两个群体已经明显分道扬镳。数学家追求越来越复杂和技术性的方法和定理，而许多哲学家认为这种趋势缺乏启发性，与哲学无关。这些分歧导致了 1972 年《哲学逻辑学杂志》的创刊。第一期中的样本主题包括：
+这种情况在 1960 年代发生了变化。1969 年的_JSL_卷册中有 39 篇数学家的文章，只有 9 篇是哲学家的。到了 1970 年代初，许多哲学家认为逻辑方面的哲学论文不太可能被_JSL_接受，而且被接受的论文也不太可能被哲学家阅读。此时，这两个群体已经明显分道扬镳。数学家追求越来越复杂和技术性的方法和定理，而许多哲学家认为这种趋势缺乏启发性，与哲学无关。这些分歧导致了 1972 年《哲学逻辑学杂志》的创刊。第一期中的样本主题包括：
 
 1. 对与哲学相关的逻辑理论分支的贡献，例如归纳逻辑、模态逻辑、义务逻辑、量子逻辑、时态逻辑、自由逻辑、问题逻辑、命令逻辑、偏好逻辑、条件逻辑、多值逻辑、相关逻辑；
 2. 对利用形式逻辑工具进行哲学讨论的贡献...；
 3. 关于逻辑和语言的逻辑结构的哲学问题的讨论，...；
 4. 关于特殊科学的哲学工作，....
 
-这里的共同线索是希望将数学逻辑的方法应用于非数学领域。例如，量子逻辑和归纳逻辑将逻辑应用于物理学和经验科学。*JPL*列表中的其他主题涉及逻辑发展，可能有助于处理非科学推理。
+这里的共同线索是希望将数学逻辑的方法应用于非数学领域。例如，量子逻辑和归纳逻辑将逻辑应用于物理学和经验科学。_JPL_列表中的其他主题涉及逻辑发展，可能有助于处理非科学推理。
 
 ### 1.3 人工智能中的逻辑和哲学逻辑
 
-[McCarthy 1959](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1959a1)，一个早期的逻辑人工智能贡献，讨论了如何到达机场的问题。在这里，麦卡锡提出了一个现实的推理问题。它的解决方案可能涉及许多相关的推理，尽管最终它可能看起来像一个证明——证明执行某些动作将产生一个某人位于机场的结果——但它与数学练习不同，因为它利用了更广泛和不易处理的资源。这些资源包括因果知识以及目标和偏好。相比之下，哲学逻辑的研究论文使用推理示例来*说明*，而不是*激发*逻辑理论，它们引用的推理示例是简单的、孤立的推理。
+[McCarthy 1959](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1959a1)，一个早期的逻辑人工智能贡献，讨论了如何到达机场的问题。在这里，麦卡锡提出了一个现实的推理问题。它的解决方案可能涉及许多相关的推理，尽管最终它可能看起来像一个证明——证明执行某些动作将产生一个某人位于机场的结果——但它与数学练习不同，因为它利用了更广泛和不易处理的资源。这些资源包括因果知识以及目标和偏好。相比之下，哲学逻辑的研究论文使用推理示例来_说明_，而不是_激发_逻辑理论，它们引用的推理示例是简单的、孤立的推理。
 
 将早期的逻辑人工智能工作描述为致力于一个新的、雄心勃勃的应用领域的哲学逻辑，并不完全错误。事实上，AI 逻辑学家的第一代\[[4](https://plato.stanford.edu/entries/logic-ai/notes.html#note-4)]阅读了哲学逻辑的文献，并受其影响。然而，随后两个领域开始分道扬镳。在逻辑人工智能领域出现了新的逻辑理论（非单调逻辑是最重要的例子），这些理论并未出现在哲学家的思考中。AI 社区对算法的理论分析以及有用技术的兴趣，也导致了其他差异。AI 研究人员经常关注使用前所未有的大量数据和推理规则的雄心勃勃的应用。它们的庞大规模产生了新的问题和新的方法论。另一方面，哲学逻辑学家是哲学家，因此他们通常对计算机科学家不感兴趣的主题（例如形而上学主题）感兴趣。
 
@@ -127,12 +127,12 @@
 
 ### 2.2 常识的形式化
 
-麦卡锡的长期目标是形式化*常识推理*，即人类在日常问题上进行的非科学推理。我们已经提到了一个规划问题：如何去机场。其他例子包括：
+麦卡锡的长期目标是形式化_常识推理_，即人类在日常问题上进行的非科学推理。我们已经提到了一个规划问题：如何去机场。其他例子包括：
 
-1. *叙事理解.* 从叙述中重建隐含信息的推理，例如事件的顺序和推断的因果关系。
-2. *诊断.* 例如，根据观察解释物理设备的故障。
-3. *空间推理.* 例如，推理刚体的部分及其形状，以及它们与整体形状的关系。
-4. *推理其他智能体的态度.* 例如，根据“钥匙孔观察”或在简短的互动访谈中获得的对话线索，对其他智能体的信念和欲望进行明智的猜测。
+1. _叙事理解._ 从叙述中重建隐含信息的推理，例如事件的顺序和推断的因果关系。
+2. _诊断._ 例如，根据观察解释物理设备的故障。
+3. _空间推理._ 例如，推理刚体的部分及其形状，以及它们与整体形状的关系。
+4. _推理其他智能体的态度._ 例如，根据“钥匙孔观察”或在简短的互动访谈中获得的对话线索，对其他智能体的信念和欲望进行明智的猜测。
 
 麦卡锡的目标对大多数哲学家来说可能看起来是荒谬的，因为他们被训练成将常识视为难以捉摸和不连贯的。但哲学家在哲学争议中引用常识时，常识的运用是有问题的。麦卡锡考虑的是日常实际的常识。如果在这些情境中常识不可靠，我们将无法应对简单的日常任务。形式化支持这些任务的推理可能是不可行的，但这个项目本身既不是误导的，也不是狂想的。
 
@@ -142,9 +142,9 @@
 
 ### 3.1 非单调性
 
-虽然数学证明必须涵盖每一种可能性，但实际推理常常忽略一些可能性。考虑一下去机场的计划。它可能会受到地震、陨石撞击或高速公路事故的阻碍。但忽略前两个因素是完全合理的，甚至第三个因素通常也可以安全地忽略。接受一个计划，与接受一个证明不同，是有风险的。事实上，风险和可能出现不愉快的意外是合乎常识的推理的特点。这意味着这种推理是*非单调的*。
+虽然数学证明必须涵盖每一种可能性，但实际推理常常忽略一些可能性。考虑一下去机场的计划。它可能会受到地震、陨石撞击或高速公路事故的阻碍。但忽略前两个因素是完全合理的，甚至第三个因素通常也可以安全地忽略。接受一个计划，与接受一个证明不同，是有风险的。事实上，风险和可能出现不愉快的意外是合乎常识的推理的特点。这意味着这种推理是_非单调的_。
 
-经典逻辑是为数学设计的，它们的推理关系是单调的。也就是说，如果一组公式蕴含一个结果，那么一个更大的集合也将蕴含这个结果。如果一个逻辑的推理关系缺乏这个特性，那么它就是非单调的。*优先模型*提供了一种通用的方法来引导非单调的推理关系。调用一个函数，对于每个公式，产生一个模型的子集；一般来说，我们期望这个子集是这些模型的一个真子集。然后我们说，如果每个模型都满足，那么就认为蕴含。只要我们不假设如果，蕴含关系就是非单调的。
+经典逻辑是为数学设计的，它们的推理关系是单调的。也就是说，如果一组公式蕴含一个结果，那么一个更大的集合也将蕴含这个结果。如果一个逻辑的推理关系缺乏这个特性，那么它就是非单调的。_优先模型_提供了一种通用的方法来引导非单调的推理关系。调用一个函数，对于每个公式，产生一个模型的子集；一般来说，我们期望这个子集是这些模型的一个真子集。然后我们说，如果每个模型都满足，那么就认为蕴含。只要我们不假设如果，蕴含关系就是非单调的。
 
 不确定性并不是忽视一种可能性的唯一原因。其他原因包括（1）对正常和通常情况的感觉；（2）认识上的可原谅性-免受忽视可能性所带来的任何责备；（3）进一步思考的估计成本；以及（4）不注意和纯粹的认知懒惰。其中一些可能比其他因素更“理性”，但实际上很难确定理性和非理性因素之间的界限。可能没有人成功地阐明和梳理这些激励因素。
 
@@ -166,7 +166,7 @@
 
 在 TMS 中，对于一个信念的支持部分可以包括对其他信念的“缺席”。这引入了非单调性。例如，它提供了默认值：由于相反信念的缺席而引发的信念。
 
-TMS 算法及其改进对人工智能应用产生了重大影响，这就需要进行逻辑分析。（即使在相当简单的情况下，如果没有分析工具，很难看出 TMS 应该产生什么后果。）这为那些试图发展非单调逻辑的人提供了一个自然而高度具体的挑战。TMS 还提出了非单调性与基于不可证明性的推理有关的观点；这一洞察对于模态方法和默认逻辑非常重要。而 TMS 对论证之间相互作用的强调则引发了非单调逻辑中一个至今仍然重要的主题。*抽象论证*是一个与逻辑编程有关的默认推理框架，一直受到广泛关注。例如，参见[Besnard & Hunter 2008](https://plato.stanford.edu/entries/logic-ai/#besnard\*p-hunter\*a:2008a)和[Rahwan & Simari 2009](https://plato.stanford.edu/entries/logic-ai/#rahwan-simari:2009a)。
+TMS 算法及其改进对人工智能应用产生了重大影响，这就需要进行逻辑分析。（即使在相当简单的情况下，如果没有分析工具，很难看出 TMS 应该产生什么后果。）这为那些试图发展非单调逻辑的人提供了一个自然而高度具体的挑战。TMS 还提出了非单调性与基于不可证明性的推理有关的观点；这一洞察对于模态方法和默认逻辑非常重要。而 TMS 对论证之间相互作用的强调则引发了非单调逻辑中一个至今仍然重要的主题。_抽象论证_是一个与逻辑编程有关的默认推理框架，一直受到广泛关注。例如，参见[Besnard & Hunter 2008](https://plato.stanford.edu/entries/logic-ai/#besnard\*p-hunter\*a:2008a)和[Rahwan & Simari 2009](https://plato.stanford.edu/entries/logic-ai/#rahwan-simari:2009a)。
 
 #### 3.2.2 闭世界推理
 
@@ -174,15 +174,15 @@ TMS 算法及其改进对人工智能应用产生了重大影响，这就需要�
 
 #### 3.2.3 规划
 
-理性规划在没有能够推理一系列考虑行动结果的能力时是不可能的。这种预测性推理是局部的；在一个具有许多动态变量的复杂世界中，我们假设大多数变量在执行某个行动后不会改变。如何形式化这种“因果惯性”的问题被称为*框架问题*。
+理性规划在没有能够推理一系列考虑行动结果的能力时是不可能的。这种预测性推理是局部的；在一个具有许多动态变量的复杂世界中，我们假设大多数变量在执行某个行动后不会改变。如何形式化这种“因果惯性”的问题被称为_框架问题_。
 
 很自然地，我们假设惯性是默认存在的——除非有特殊理由认为它们会改变，否则变量在执行某个行动后不会改变。这表明非单调时间形式化方法在推理行动和变化方面可能有用，并且特别可能解决框架问题。[Sandewall 1972](https://plato.stanford.edu/entries/logic-ai/#sandewall:1972a)是这方面的早期尝试。后续的研究在这个方向上提供了一个特别重要和有启发性的案例研究，展示了逻辑在人工智能中的应用；请参见[第 4.4 节](https://plato.stanford.edu/entries/logic-ai/#PredFramProb)进行进一步讨论。
 
 ### 3.3 最早的形式化方法
 
-[第 3.2 节](https://plato.stanford.edu/entries/logic-ai/#Begi)提到了三种对非单调逻辑有影响的方法：*圆周缩减*（麦卡锡）、*模态方法*（多伊尔和麦克德莫特）和*默认逻辑*（赖特）。
+[第 3.2 节](https://plato.stanford.edu/entries/logic-ai/#Begi)提到了三种对非单调逻辑有影响的方法：_圆周缩减_（麦卡锡）、_模态方法_（多伊尔和麦克德莫特）和_默认逻辑_（赖特）。
 
-在[McCarthy 1993a](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1993a)中，麦卡锡敦促我们在考虑环绕论的早期历史时，要考虑一组三篇论文：麦卡锡[1986](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1986a1)、[1980](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1980a)和[1987](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1977a5)。第一篇论文将麦卡锡和海耶斯[1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-hayes\*pj1:1969a1)的战略思想与需要非单调逻辑的联系起来，并概述了*领域环绕论*的逻辑思想，这是环绕论的最简单情况。第二篇论文提供了更全面的逻辑基础，并引入了更一般和强大的*谓词环绕论*方法。第三篇论文讨论了具有挑战性的常识例子和形式化技术。
+在[McCarthy 1993a](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1993a)中，麦卡锡敦促我们在考虑环绕论的早期历史时，要考虑一组三篇论文：麦卡锡[1986](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1986a1)、[1980](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1980a)和[1987](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1977a5)。第一篇论文将麦卡锡和海耶斯[1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-hayes\*pj1:1969a1)的战略思想与需要非单调逻辑的联系起来，并概述了_领域环绕论_的逻辑思想，这是环绕论的最简单情况。第二篇论文提供了更全面的逻辑基础，并引入了更一般和强大的_谓词环绕论_方法。第三篇论文讨论了具有挑战性的常识例子和形式化技术。
 
 所有形式的环绕论都涉及将注意力限制在某些集合最小化的模型上；因此，环绕论可以与非单调性的首选模型处理方法归为一类。麦卡锡的方法是保守的：它使用经典的二阶逻辑。因此，环绕论文献可以避免逻辑基础，并集中于形式化。其他形式的非单调逻辑，包括默认逻辑和模态非单调逻辑，引发了对哲学逻辑学家来说似曾相识的问题。这些问题涉及到设计新逻辑、系统研究关于有效性的问题以及管理替代逻辑的增多。
 
@@ -194,7 +194,7 @@ TMS 算法及其改进对人工智能应用产生了重大影响，这就需要�
 
 我们将这样的规则写为 ; 。
 
-一个重要的特例是 的一个*正常默认*，一个简单的规则，即在假设 的条件下，默认情况下 成立。这可以通过将结论的否定本身作为必须缺失的内容来形式化。
+一个重要的特例是 的一个_正常默认_，一个简单的规则，即在假设 的条件下，默认情况下 成立。这可以通过将结论的否定本身作为必须缺失的内容来形式化。
 
 :
 
@@ -202,15 +202,15 @@ TMS 算法及其改进对人工智能应用产生了重大影响，这就需要�
 
 特殊情况规定，一个结论 默认成立，即 或简称 。
 
-一个*默认理论*由两个组成部分组成：一组作为公理的公式和一组默认规则。
+一个_默认理论_由两个组成部分组成：一组作为公理的公式和一组默认规则。
 
-乍一看，如何描述默认逻辑中的证明是令人困惑的，因为可证性的默认解释是循环的：证明是根据正确推理的链条来定义的，但正确推理是根据（不）可证性来定义的。因此，可证性不能像单调情况那样归纳地进行描述。早期的理论[Sandewall 1972](https://plato.stanford.edu/entries/logic-ai/#sandewall:1972a)没有成功地解决这个困难。[McDermott & Doyle 1980](https://plato.stanford.edu/entries/logic-ai/#mcdermott\*d-doyle\*j:1980a)和[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter\*r:1980a1)提出了解决这个问题的方法。在这两种情况下，逻辑任务是（1）开发一种形式体系，可以在其中表达像 这样的规则，并且（2）定义非单调公理和规则的组合 与理论 之间的关系，后者可以被视为 的合理推论。在后来成为标准的术语中，我们需要定义默认理论 与其 *扩展* 之间的关系。
+乍一看，如何描述默认逻辑中的证明是令人困惑的，因为可证性的默认解释是循环的：证明是根据正确推理的链条来定义的，但正确推理是根据（不）可证性来定义的。因此，可证性不能像单调情况那样归纳地进行描述。早期的理论[Sandewall 1972](https://plato.stanford.edu/entries/logic-ai/#sandewall:1972a)没有成功地解决这个困难。[McDermott & Doyle 1980](https://plato.stanford.edu/entries/logic-ai/#mcdermott\*d-doyle\*j:1980a)和[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter\*r:1980a1)提出了解决这个问题的方法。在这两种情况下，逻辑任务是（1）开发一种形式体系，可以在其中表达像 这样的规则，并且（2）定义非单调公理和规则的组合 与理论 之间的关系，后者可以被视为 的合理推论。在后来成为标准的术语中，我们需要定义默认理论 与其 _扩展_ 之间的关系。
 
 这是与经典逻辑截然不同的一种方式，它将公理基础与一组后果关联起来。默认理论可以确定许多不同的后果集合，而逻辑本身无法在它们之间进行选择。
 
 回顾起来，我们可以确定非单调逻辑的两种方法：基于“偏好”的方法和基于“冲突”的方法。第一种方法的理论（如圆满化）涉及对普通模型论定义的相对简单的修改，利用模型之间的偏好关系。第二种方法的理论（如默认逻辑）需要对逻辑思想进行更彻底的改造。多个扩展的可能性——从一组前提中可以得出不同的可能的一致、推理完备的结论集——意味着我们必须将逻辑推理视为一个关系，而不是将其视为将一组公理映射到其逻辑闭包的函数。由于逻辑推理如此基础，这代表了一个重大的理论转变。通过多个扩展，我们仍然可以以各种方式检索理论与公式之间的推理关系，其中最简单的方法是说如果在每个扩展中都是的成员，则“非单调地蕴含”。然而，基于冲突的推理关系提供了比基于偏好的推理关系更丰富的基础结构。
 
-Reiter 以保守的方式处理形式化问题。默认逻辑的语言与一阶逻辑的语言相同，其公式无法表达默认值。但是，一个理论可以涉及一组*默认规则*，即形式为的规则。因此，一个*默认理论*是一个由一组（单调的）公理和一组默认规则组成的对。[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter\*r:1980a1)提供了这种理论扩展的不动点定义，并为这种方法开发了理论基础，证明了一些基本定理。
+Reiter 以保守的方式处理形式化问题。默认逻辑的语言与一阶逻辑的语言相同，其公式无法表达默认值。但是，一个理论可以涉及一组_默认规则_，即形式为的规则。因此，一个_默认理论_是一个由一组（单调的）公理和一组默认规则组成的对。[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter\*r:1980a1)提供了这种理论扩展的不动点定义，并为这种方法开发了理论基础，证明了一些基本定理。
 
 其中一个定理将在[第 4.5 节](https://plato.stanford.edu/entries/logic-ai/#NonmTreaInerPackProb)中提到，与耶鲁枪击异常有关。其思想是采用一个猜测的扩展（将是一个集合）并将该集合用于一种类似证明的过程中的一致性检查，该过程依次将默认规则应用于以开始的阶段。
 
@@ -237,13 +237,13 @@ Doyle 和 McDermott 的论文引用了逻辑 AI 的早期文献，将非单调�
 
 ### 3.4 非单调逻辑的后续工作
 
-非单调逻辑是一个复杂而强大的研究领域。由于有许多不同的基础范式用于形式化非单调推理，并且这些范式之间的关系并不简单，因此提供该主题的综述变得困难。对该领域的一个重要部分进行充分的描述需要类似于一本书的篇幅。有许多书籍和手册文章可供参考，包括[Łukaszewicz 1990](https://plato.stanford.edu/entries/logic-ai/#lukasiewicz\*w:1990a)、[Brewka 1991](https://plato.stanford.edu/entries/logic-ai/#brewka:1991b)、[Besnard 1992](https://plato.stanford.edu/entries/logic-ai/#besnard:1992a)、[Marek & Truszczynski 1994](https://plato.stanford.edu/entries/logic-ai/#marek-truszcynski:1994a)、[Gabbay ](https://plato.stanford.edu/entries/logic-ai/#gabbay-etal:1994a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#gabbay-etal:1994a)*​*[*. 1994*](https://plato.stanford.edu/entries/logic-ai/#gabbay-etal:1994a)*、*[*Antoniou 1997*](https://plato.stanford.edu/entries/logic-ai/#antoniou:1997a)*、*[*Brewka* ](https://plato.stanford.edu/entries/logic-ai/#brewka-etal:1997a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#brewka-etal:1997a)\*​[. 1997](https://plato.stanford.edu/entries/logic-ai/#brewka-etal:1997a)、[Schlechta 1997](https://plato.stanford.edu/entries/logic-ai/#schlechta:1997a)、[Makinson 2005](https://plato.stanford.edu/entries/logic-ai/#makinson:2005b)、[Antoniou & Wang 2007](https://plato.stanford.edu/entries/logic-ai/#antoniou-wang\*kw:2007a)、[Bochman 2007](https://plato.stanford.edu/entries/logic-ai/#bochman\*a:2007a)、[Horty 2012](https://plato.stanford.edu/entries/logic-ai/#horty:2012a)、[Straßer 2014](https://plato.stanford.edu/entries/logic-ai/#strasser\*c:2014a)和[Straßer & Antonelli 2019](https://plato.stanford.edu/entries/logic-ai/#strasser\*c-antonelli\*ga:2019a)。[Ginsberg 1987](https://plato.stanford.edu/entries/logic-ai/#ginsberg:1987a)这本书对于对该主题的早期历史感兴趣的读者来说是一个有用的资源，并且有一个出色的引言。
+非单调逻辑是一个复杂而强大的研究领域。由于有许多不同的基础范式用于形式化非单调推理，并且这些范式之间的关系并不简单，因此提供该主题的综述变得困难。对该领域的一个重要部分进行充分的描述需要类似于一本书的篇幅。有许多书籍和手册文章可供参考，包括[Łukaszewicz 1990](https://plato.stanford.edu/entries/logic-ai/#lukasiewicz\*w:1990a)、[Brewka 1991](https://plato.stanford.edu/entries/logic-ai/#brewka:1991b)、[Besnard 1992](https://plato.stanford.edu/entries/logic-ai/#besnard:1992a)、[Marek & Truszczynski 1994](https://plato.stanford.edu/entries/logic-ai/#marek-truszcynski:1994a)、[Gabbay ](https://plato.stanford.edu/entries/logic-ai/#gabbay-etal:1994a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#gabbay-etal:1994a)_​_[_. 1994_](https://plato.stanford.edu/entries/logic-ai/#gabbay-etal:1994a)_、_[_Antoniou 1997_](https://plato.stanford.edu/entries/logic-ai/#antoniou:1997a)_、_[_Brewka_ ](https://plato.stanford.edu/entries/logic-ai/#brewka-etal:1997a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#brewka-etal:1997a)\*​[. 1997](https://plato.stanford.edu/entries/logic-ai/#brewka-etal:1997a)、[Schlechta 1997](https://plato.stanford.edu/entries/logic-ai/#schlechta:1997a)、[Makinson 2005](https://plato.stanford.edu/entries/logic-ai/#makinson:2005b)、[Antoniou & Wang 2007](https://plato.stanford.edu/entries/logic-ai/#antoniou-wang\*kw:2007a)、[Bochman 2007](https://plato.stanford.edu/entries/logic-ai/#bochman\*a:2007a)、[Horty 2012](https://plato.stanford.edu/entries/logic-ai/#horty:2012a)、[Straßer 2014](https://plato.stanford.edu/entries/logic-ai/#strasser\*c:2014a)和[Straßer & Antonelli 2019](https://plato.stanford.edu/entries/logic-ai/#strasser\*c-antonelli\*ga:2019a)。[Ginsberg 1987](https://plato.stanford.edu/entries/logic-ai/#ginsberg:1987a)这本书对于对该主题的早期历史感兴趣的读者来说是一个有用的资源，并且有一个出色的引言。
 
 #### 3.4.1 偏好语义
 
 [3.1 节](https://plato.stanford.edu/entries/logic-ai/#Nonm)解释了如何使用优先模型来描述非单调的推理关系。这种对非单调性的模型理论方法在[Shoham 1988](https://plato.stanford.edu/entries/logic-ai/#shoham:1988a)中得到了澄清，这是在[3.2 节](https://plato.stanford.edu/entries/logic-ai/#Begi)讨论的工作之后的五年。Shoham 的工作提供了一种更一般和抽象的方法。
 
-优先语义依赖于一个将模型集合映射到的子集的函数。*优先蕴涵*的关键定义规定，如果对于每个模型，当(*Models*意味着时，是(*Models*的一个（非单调）结果。Shoham 通过模型之间的偏序关系来描述。是在中的模型集合，这些模型在中是最小的。为了确保除非经典地蕴涵矛盾，否则没有集合可以优先地蕴涵矛盾，必须禁止无限下降的链。
+优先语义依赖于一个将模型集合映射到的子集的函数。_优先蕴涵_的关键定义规定，如果对于每个模型，当(_Models_意味着时，是(_Models_的一个（非单调）结果。Shoham 通过模型之间的偏序关系来描述。是在中的模型集合，这些模型在中是最小的。为了确保除非经典地蕴涵矛盾，否则没有集合可以优先地蕴涵矛盾，必须禁止无限下降的链。
 
 这种对非单调性的处理类似于早期条件语义理论中的模态语义理论 - 使用条件语义的演示，如与前提相关联的世界集合的[Chellas 1975](https://plato.stanford.edu/entries/logic-ai/#chellas:1975a)。当然，经典条件逻辑的结果关系是单调的，条件语义使用可能世界，而不是模型。但条件语句的左非单调性（事实上，不蕴含不引起与非单调结果关系相关的问题。条件语句与非单调逻辑之间的相互关系成为非单调逻辑后续工作中的重要主题。例如，[Gärdenfors＆Makinson 1994](https://plato.stanford.edu/entries/logic-ai/#gardenfors-makinson:1994a)，[Boutilier 1992](https://plato.stanford.edu/entries/logic-ai/#boutilier:1992a)，[Pearl 1994](https://plato.stanford.edu/entries/logic-ai/#pearl:1994b)，[Gabbay 1995](https://plato.stanford.edu/entries/logic-ai/#gabbay:1995a)，[Delgrande 1998](https://plato.stanford.edu/entries/logic-ai/#delgrande:1998b)，[Arlo-Costa＆Shapiro 1992](https://plato.stanford.edu/entries/logic-ai/#arlocosta-shapiro:1992a)，[Alcourrón 1995](https://plato.stanford.edu/entries/logic-ai/#alcourron:1995a)，[Asher 1995](https://plato.stanford.edu/entries/logic-ai/#asher:1995a)，[Kern-Isberner 2001](https://plato.stanford.edu/entries/logic-ai/#kernisberner:2001a)，[Giordano＆Schwind 2004](https://plato.stanford.edu/entries/logic-ai/#giordano-schwind\*c:2004a)，[Lent＆Thomason 2015](https://plato.stanford.edu/entries/logic-ai/#lent-thomason:2015a)和[Casini＆Straccia 2022](https://plato.stanford.edu/entries/logic-ai/#casini-straccia:2022a)。
 
@@ -251,18 +251,18 @@ Doyle 和 McDermott 的论文引用了逻辑 AI 的早期文献，将非单调�
 
 #### 3.4.2 模态和认识论理论
 
-无论是 Doyle 还是 McDermott 都没有在初始阶段之外深入探讨模态方法。然而，在 Robert Stalnaker 的有益建议下（参见[Stalnaker 1993](https://plato.stanford.edu/entries/logic-ai/#stalnaker:1993c)），Robert C. Moore 提出了一种模态理论，对早期的想法进行了许多改进。Moore 在他的系统中赋予了模态运算符一个认识论解释，基于这样一个概念：默认规则是指除非有知识阻止推论，否则允许推论的推理主体。在 Moore 的*自我认知逻辑*中，一个理论的扩展是一个超集，它是*稳定的*，即它是演绎闭合的，并且满足以下两个规则：
+无论是 Doyle 还是 McDermott 都没有在初始阶段之外深入探讨模态方法。然而，在 Robert Stalnaker 的有益建议下（参见[Stalnaker 1993](https://plato.stanford.edu/entries/logic-ai/#stalnaker:1993c)），Robert C. Moore 提出了一种模态理论，对早期的想法进行了许多改进。Moore 在他的系统中赋予了模态运算符一个认识论解释，基于这样一个概念：默认规则是指除非有知识阻止推论，否则允许推论的推理主体。在 Moore 的_自我认知逻辑_中，一个理论的扩展是一个超集，它是_稳定的_，即它是演绎闭合的，并且满足以下两个规则：
 
 1. 如果 那么 。
 2. 如果 那么 。
 
-通常在自我认知扩展中对基于的条件进行*基于性*的约束，以确保扩展的每个成员都有一些与追溯到的原因。已经考虑了各种这样的条件；最简单的条件限制扩展满足以下条件：
+通常在自我认知扩展中对基于的条件进行_基于性_的约束，以确保扩展的每个成员都有一些与追溯到的原因。已经考虑了各种这样的条件；最简单的条件限制扩展满足以下条件：
 
 3. 是的非模态后果的集合。
 
 自我认知逻辑仍然是非单调逻辑的一种流行方法，部分原因是它在为逻辑编程提供理论基础方面的实用性。参见[Marek & Truszczynski 1991](https://plato.stanford.edu/entries/logic-ai/#marek-truszcynski:1991a)、[Marek & Truszczynski 1989](https://plato.stanford.edu/entries/logic-ai/#marek-truszynski:1989a)、[Konolige 1994](https://plato.stanford.edu/entries/logic-ai/#konolige:1994b)、[Antoniou 1997](https://plato.stanford.edu/entries/logic-ai/#antoniou:1997a)、[Moore 1993](https://plato.stanford.edu/entries/logic-ai/#moore\*rc:1993b)和[Deneker ](https://plato.stanford.edu/entries/logic-ai/#denecker-etal:2003a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#denecker-etal:2003a)\*​[. 2003](https://plato.stanford.edu/entries/logic-ai/#denecker-etal:2003a)。
 
-认知逻辑启发了其他非单调逻辑的方法。与其他非单调性的模态理论一样，这些方法使用模态性来反映对象语言中的一致性，因此允许表达类似于的默认规则。但是，与一致性不同，这些方法使用的是*无知*。参见[Halpern & Moses 1985](https://plato.stanford.edu/entries/logic-ai/#halpern-moses:1984a2)和[Levesque 1987](https://plato.stanford.edu/entries/logic-ai/#levesque:1987a)以了解这个想法的变体。这些理论在[Meyer & van der Hoek 1995](https://plato.stanford.edu/entries/logic-ai/#meyer\*jjc-vanderhoek:1995a)中得到解释并与其他非单调逻辑进行比较。在最近的工作中，Levesque 的想法被系统地呈现并应用于知识库理论中[Levesque & Lakemeyer 2000](https://plato.stanford.edu/entries/logic-ai/#levesque-lakemeyer:2000a)。
+认知逻辑启发了其他非单调逻辑的方法。与其他非单调性的模态理论一样，这些方法使用模态性来反映对象语言中的一致性，因此允许表达类似于的默认规则。但是，与一致性不同，这些方法使用的是_无知_。参见[Halpern & Moses 1985](https://plato.stanford.edu/entries/logic-ai/#halpern-moses:1984a2)和[Levesque 1987](https://plato.stanford.edu/entries/logic-ai/#levesque:1987a)以了解这个想法的变体。这些理论在[Meyer & van der Hoek 1995](https://plato.stanford.edu/entries/logic-ai/#meyer\*jjc-vanderhoek:1995a)中得到解释并与其他非单调逻辑进行比较。在最近的工作中，Levesque 的想法被系统地呈现并应用于知识库理论中[Levesque & Lakemeyer 2000](https://plato.stanford.edu/entries/logic-ai/#levesque-lakemeyer:2000a)。
 
 ## 4. 推理行动和变化
 
@@ -296,7 +296,7 @@ AI 规划问题的经典表示，如[Amarel 1968](https://plato.stanford.edu/ent
 
 这种形式化，以动态逻辑的风格，实际上是对麦卡锡的一种有吸引力的替代方案。
 
-但是[McCarthy＆Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-hayes\*pj1:1969a1)使用了一种更接近一阶逻辑的语言。（这种形式化风格是 McCarthy 的作品的特点；参见[McCarthy 1979](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1979c1)。）将动作视为个体。而可以随时间改变真值的命题（命题*流变量*）也被视为个体。其中 表示一种情境， 表示一个流变量， 表示在 中 为真。
+但是[McCarthy＆Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-hayes\*pj1:1969a1)使用了一种更接近一阶逻辑的语言。（这种形式化风格是 McCarthy 的作品的特点；参见[McCarthy 1979](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1979c1)。）将动作视为个体。而可以随时间改变真值的命题（命题_流变量_）也被视为个体。其中 表示一种情境， 表示一个流变量， 表示在 中 为真。
 
 自 19 世纪和 20 世纪初逻辑学家的开创性工作以来，形式化数学领域的过程已经变得常规化。尽管（与集合论一样），关于哪些公理和逻辑基础最适合形式化数学领域可能存在争议，但形式化的方法和评估标准是自动的，且（大多数）未经审查的。这种方法论的清晰性尚未成功扩展到其他领域；即使是对经验科学的形式化也存在难题，尚未解决。\[17]
 
@@ -304,7 +304,7 @@ AI 规划问题的经典表示，如[Amarel 1968](https://plato.stanford.edu/ent
 
 ### 4.4 预测和框架问题
 
-要判断一个计划是否实现了其目标，你需要看目标是否在计划的最终状态中保持。这需要进行*预测性*推理，这是一种时态逻辑文献中忽视的推理类型。与力学类似，预测涉及从早期状态推断出后续状态。但是（至少在简单的规划问题中），变化是由行动驱动而不是由微分方程驱动的。对这种定性形式的时间推理以及相关推理形式（例如，计划识别，旨在从观察到的行动中推断目标，以及叙事解释，旨在填补时间叙述中的隐含信息）的研究是常识逻辑主义简史中最令人印象深刻的章节之一。
+要判断一个计划是否实现了其目标，你需要看目标是否在计划的最终状态中保持。这需要进行_预测性_推理，这是一种时态逻辑文献中忽视的推理类型。与力学类似，预测涉及从早期状态推断出后续状态。但是（至少在简单的规划问题中），变化是由行动驱动而不是由微分方程驱动的。对这种定性形式的时间推理以及相关推理形式（例如，计划识别，旨在从观察到的行动中推断目标，以及叙事解释，旨在填补时间叙述中的隐含信息）的研究是常识逻辑主义简史中最令人印象深刻的章节之一。
 
 预测的本质是推断在执行一个动作后所发生的情况中的内容，给定关于初始情况的信息。如果代理人对初始情况有完全的了解，这个问题就容易得多——这个假设通常是不现实的，但在经典规划形式化中很常见。
 
@@ -328,13 +328,13 @@ AI 规划问题的经典表示，如[Amarel 1968](https://plato.stanford.edu/ent
 
 我们可以用 Reiter 的默认逻辑来说明形式化。回想一下，在 Reiter 的理论中，默认规则被表示为规则，而不是公理；这意味着我们需要使用默认规则模式来形式化惯性。对于每个流畅、动作和情境，惯性模式将包括以下规则：
 
-这种做事方式使得流畅的真值的任何变化都是一个*prima facie*的异常。但根据 Reiter 对扩展的描述，这些默认规则在与给出状态动态的（单调）公理冲突时被覆盖。例如，如果有一个单调的因果公理，规定将某个棋子移动到 Q4 将使棋子位于 Q4，那么实例
+这种做事方式使得流畅的真值的任何变化都是一个_prima facie_的异常。但根据 Reiter 对扩展的描述，这些默认规则在与给出状态动态的（单调）公理冲突时被覆盖。例如，如果有一个单调的因果公理，规定将某个棋子移动到 Q4 将使棋子位于 Q4，那么实例
 
 将被覆盖，并且在执行移动-P4 到 Q4 操作后，兵将不会保持原位。**惯性**将确保其他棋子保持不动。
 
 广受关注的框架问题被孤立地脱离了上下文。如果有人对于理解在部署类似情境演算的形式化方法时出现的哲学上有趣的问题感兴趣，最好考虑更广泛的问题范围。这些问题不仅包括框架问题本身，还包括资格问题、分歧问题，以及一系列特定的挑战，例如本节后面提到的场景。而且还必须思考如何进行概括：例如如何处理不完全信息、多个代理同时行动以及环境中的持续变化。
 
-*资格问题*与几乎任何常识概括的形式化有关。通常，这些概括会涉及一个开放且似乎难以处理的例外数组。同样的现象，在分析哲学中被称为“*ceteris paribus*概括问题”，也出现在自然语言中的*泛指*结构的语义中。
+_资格问题_与几乎任何常识概括的形式化有关。通常，这些概括会涉及一个开放且似乎难以处理的例外数组。同样的现象，在分析哲学中被称为“_ceteris paribus_概括问题”，也出现在自然语言中的_泛指_结构的语义中。
 
 非单调逻辑通过实现增量形式化为这个问题做出了贡献。如果将一个常识概括表述为默认规则，那么可以非破坏性地添加进一步的限定。默认公理被保留，然后添加一个例外，该例外本身可能是一个默认规则。即使它不能解决更深层次的哲学问题，这也是有帮助的。
 
@@ -342,9 +342,9 @@ AI 规划问题的经典表示，如[Amarel 1968](https://plato.stanford.edu/ent
 
 并非每种非单调逻辑都提供了优雅的资格机制。例如，普通的默认逻辑无法提供直观上期望的结论，因为它没有办法让默认规则覆盖其他默认规则。要实现这种效果，需要一种高级版本的逻辑，其中默认规则具有优先级。这可能会大大复杂化理论；例如，参见[阿舍尔和莫罗 1991 年](https://plato.stanford.edu/entries/logic-ai/#asher-morreau:1991a)和[霍蒂 1994 年](https://plato.stanford.edu/entries/logic-ai/#horty:1994a)。正如[埃尔坎 1995 年](https://plato.stanford.edu/entries/logic-ai/#elkan:1995a)指出的，资格问题引发了计算问题。
 
-相对于时间推理中的其他问题，对于表征行动的资格问题给予的关注相对较少。特别是，对于*不成功*的行动的标准解释有些不直观。例如，在[Lifschitz 1987](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1987c)的形式化中，只有在前提条件得到满足时，行动的常规效果才能得到保证，这与前提条件全部成功的行动有所区别。就好像在任何时刻都可以进行一笔 100 万美元的交易，尽管如果你没有钱，特定的效果将无法保证。\[[23](https://plato.stanford.edu/entries/logic-ai/notes.html#note-23)]此外，对于那些甚至无法尝试的行动（比如在悉尼时试图登机伦敦的飞机）、可以尝试但预计会失败的行动（比如在资金不足时取款）、可以尝试并有合理成功希望的行动，以及可以尝试并保证成功的行动之间没有区别。正如 J.L.奥斯汀在[Austin 1961](https://plato.stanford.edu/entries/logic-ai/#austin:1961x)中明确指出的那样，行动的尝试方式以及尝试行动的失败方式是常识推理中一个发展完善的部分。显然，在考虑可能失败的行动的计划时，人们可能需要推理失败的后果。对行动的病理进行形式化，提供关于行动及其包含的计划可能出错的系统理论，将是规划形式化的有益补充，也将阐明哲学中的重要主题。
+相对于时间推理中的其他问题，对于表征行动的资格问题给予的关注相对较少。特别是，对于_不成功_的行动的标准解释有些不直观。例如，在[Lifschitz 1987](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1987c)的形式化中，只有在前提条件得到满足时，行动的常规效果才能得到保证，这与前提条件全部成功的行动有所区别。就好像在任何时刻都可以进行一笔 100 万美元的交易，尽管如果你没有钱，特定的效果将无法保证。\[[23](https://plato.stanford.edu/entries/logic-ai/notes.html#note-23)]此外，对于那些甚至无法尝试的行动（比如在悉尼时试图登机伦敦的飞机）、可以尝试但预计会失败的行动（比如在资金不足时取款）、可以尝试并有合理成功希望的行动，以及可以尝试并保证成功的行动之间没有区别。正如 J.L.奥斯汀在[Austin 1961](https://plato.stanford.edu/entries/logic-ai/#austin:1961x)中明确指出的那样，行动的尝试方式以及尝试行动的失败方式是常识推理中一个发展完善的部分。显然，在考虑可能失败的行动的计划时，人们可能需要推理失败的后果。对行动的病理进行形式化，提供关于行动及其包含的计划可能出错的系统理论，将是规划形式化的有益补充，也将阐明哲学中的重要主题。
 
-由*分支问题*（首次由[Finger 1987](https://plato.stanford.edu/entries/logic-ai/#finger\*j:1987a)描述）提出的挑战是形式化行动的间接后果，其中“间接”效果是同步的\[[24](https://plato.stanford.edu/entries/logic-ai/notes.html#note-24)]，但是因果上是派生的。如果一个人走进一个房间，直接效果是他现在在房间里。还有许多间接效果，例如他的衬衫现在也在房间里。
+由_分支问题_（首次由[Finger 1987](https://plato.stanford.edu/entries/logic-ai/#finger\*j:1987a)描述）提出的挑战是形式化行动的间接后果，其中“间接”效果是同步的\[[24](https://plato.stanford.edu/entries/logic-ai/notes.html#note-24)]，但是因果上是派生的。如果一个人走进一个房间，直接效果是他现在在房间里。还有许多间接效果，例如他的衬衫现在也在房间里。
 
 从这个表述中可以看出，假设在行动形式主义的人工智能文献中，预设了行动的直接后果（与行动本身紧密相关并由其成功执行所确保）与其他后果之间的区别。这个假设通常被毫无疑问地接受。你可以为其常识上的合理性提出充分的论据，例如，我们很多表示行动的词语（如“加热”、“延长”、“填充”）都是从与其惯常相关的效果中派生出来的。在这些情况下，成功是必然的：如果有人把某物加热了，那就意味着它变热了。但是也存在一些复杂情况。[Lin 1995](https://plato.stanford.edu/entries/logic-ai/#lin\*fz:1995a)讨论了一个简单的例子：一个特定的手提箱有两个锁，只有当两个锁都打开时，它才是打开的。然后（假设行动不是同时进行的）如果打开一个锁只有在另一个锁打开的情况下才能打开手提箱。Lin 的形式化处理将打开每个锁都视为一种行动，具有直接后果。但是打开手提箱并不是一种行动，而是一种间接效果。
 
@@ -440,17 +440,17 @@ AI 规划问题的经典表示，如[Amarel 1968](https://plato.stanford.edu/ent
 
 在这里，我们描述了在[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner\*h:1999a)中提出的因果解决方案。Turner 回到了[Geffner 1992](https://plato.stanford.edu/entries/logic-ai/#geffner:1992c)的思想，但将它们放置在一个更简单的逻辑环境中，并将它们应用于更复杂的场景的形式化，以说明因果惯性与其他考虑因素的相互作用，特别是分支问题。
 
-分支是由存在的*静态*法则引起的，这些法则将行动的直接后果与其他变化联系起来。一个启动汽车的场景说明了困难。有一个动作，即*turn-on*，它打开点火开关；假设这个动作没有前提条件。有一个表示点火开关是否打开的流畅状态，一个表示电池是否没电的流畅状态，以及一个表示发动机是否运行的流畅状态。一个静态法则说，如果点火开关打开且电池没电，发动机就会运行。（假设在这个场景中已经排除了其他故障的可能性；不启动的唯一可能原因是电池没电。）我们想考虑的是在点火开关未打开、电池未没电且汽车未运行的情况下执行*turn-on*的转换。
+分支是由存在的_静态_法则引起的，这些法则将行动的直接后果与其他变化联系起来。一个启动汽车的场景说明了困难。有一个动作，即_turn-on_，它打开点火开关；假设这个动作没有前提条件。有一个表示点火开关是否打开的流畅状态，一个表示电池是否没电的流畅状态，以及一个表示发动机是否运行的流畅状态。一个静态法则说，如果点火开关打开且电池没电，发动机就会运行。（假设在这个场景中已经排除了其他故障的可能性；不启动的唯一可能原因是电池没电。）我们想考虑的是在点火开关未打开、电池未没电且汽车未运行的情况下执行_turn-on_的转换。
 
-当然，我们希望在这种情况下推断出，*打开*的表现将导致点火开启、电池未耗尽且发动机运行的情况。但是，对立的因果定律使得这个结论变得困难。问题在于：我们可以通过对立我们唯一的静态定律得出结论，即如果点火开启而发动机未运行，则电池已耗尽。这个定律不仅在我们的场景中是正确的，而且可以用来解释启动汽车失败的尝试。但是，如果它用于预测，那么执行*打开*将产生一个“墨菲定律”的结果，其中点火开启，电池已耗尽，发动机未运行。在这个不希望的结果中，一切都有原因：电池因为因果惯性而耗尽，发动机因为对立的因果定律而未运行。
+当然，我们希望在这种情况下推断出，_打开_的表现将导致点火开启、电池未耗尽且发动机运行的情况。但是，对立的因果定律使得这个结论变得困难。问题在于：我们可以通过对立我们唯一的静态定律得出结论，即如果点火开启而发动机未运行，则电池已耗尽。这个定律不仅在我们的场景中是正确的，而且可以用来解释启动汽车失败的尝试。但是，如果它用于预测，那么执行_打开_将产生一个“墨菲定律”的结果，其中点火开启，电池已耗尽，发动机未运行。在这个不希望的结果中，一切都有原因：电池因为因果惯性而耗尽，发动机因为对立的因果定律而未运行。
 
-想要详细探讨在相对表达力强的行动语言中嵌入非单调解决方案的问题的读者可以参考[Gelfond & Lifschitz 1998](https://plato.stanford.edu/entries/logic-ai/#gelfond-lifschitz:1998a)。这篇论文提出了一系列越来越强大和复杂的行动语言，其中包含了对 Ramification 问题的一种相对*特设*的解决方案。[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner\*h:1999a)是在这些方面的一种改进。
+想要详细探讨在相对表达力强的行动语言中嵌入非单调解决方案的问题的读者可以参考[Gelfond & Lifschitz 1998](https://plato.stanford.edu/entries/logic-ai/#gelfond-lifschitz:1998a)。这篇论文提出了一系列越来越强大和复杂的行动语言，其中包含了对 Ramification 问题的一种相对_特设_的解决方案。[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner\*h:1999a)是在这些方面的一种改进。
 
 Turner 的想法是将 视为一个带有非单调优先模型解释的模态运算符。在优先模型中普遍存在普遍因果关系：被引起的命题和真命题必须一致。此外，该模型必须是唯一的；它必须是与语言的外延部分一致的唯一可能性。
 
-为了理解这个想法，回顾一下在 的可能世界解释中，世界可以与*状态描述*（即完整、一致的文字集合 ）相对应。这使我们可以将模型视为一对 ，其中 是包括 在内的解释集合。模态运算符 具有标准语义。其中 是一组解释，当且仅当对于所有 ，对于所有 都*满足*一组公式 时， 。
+为了理解这个想法，回顾一下在 的可能世界解释中，世界可以与_状态描述_（即完整、一致的文字集合 ）相对应。这使我们可以将模型视为一对 ，其中 是包括 在内的解释集合。模态运算符 具有标准语义。其中 是一组解释，当且仅当对于所有 ，对于所有 都_满足_一组公式 时， 。
 
-Turner 对于的首选模型是这样的一对：（1）满足，（2） ，（3）是满足条件（1）和（2）的唯一解释*I*，*S*。条件（2）保证了“因果关系的普遍性”；它验证了。条件（3）以最强的意义上将因果关系“基于”非因果信息（在我们感兴趣的模型中，这将涉及哪些情况下的哪些流变量），它是由这些信息唯一确定的。
+Turner 对于的首选模型是这样的一对：（1）满足，（2） ，（3）是满足条件（1）和（2）的唯一解释_I_，_S_。条件（2）保证了“因果关系的普遍性”；它验证了。条件（3）以最强的意义上将因果关系“基于”非因果信息（在我们感兴趣的模型中，这将涉及哪些情况下的哪些流变量），它是由这些信息唯一确定的。
 
 尽管不明显，但 Turner 对于首选模型的描述与更一般的非单调逻辑（如默认逻辑）相关。有关详细信息，请参阅[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner\*h:1999a)。
 
@@ -502,9 +502,9 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 
 空间推理的人工智能文献非常广泛；有关这里未讨论的一些领域的参考文献，请参见[Stock 1997](https://plato.stanford.edu/entries/logic-ai/#stock:1997a)、[Kapur & Mundy 1988](https://plato.stanford.edu/entries/logic-ai/#kapur\*d-etal:1988a)、[Hammer 1995](https://plato.stanford.edu/entries/logic-ai/#hammer:1995a)、[Wilson 1998](https://plato.stanford.edu/entries/logic-ai/#wilson\*rh:1998a)、[Osherson & Lasnik 1990](https://plato.stanford.edu/entries/logic-ai/#osherson-lasnik:1990b)、[Renz & Nebel 1999](https://plato.stanford.edu/entries/logic-ai/#renz-nebel:1999a)、[Yeap & Jeffries 1999](https://plato.stanford.edu/entries/logic-ai/#yeap-jeffreys:1999a)、[Chen 1990](https://plato.stanford.edu/entries/logic-ai/#chen\*s:1990a)、[Burger & Bhanu 1992](https://plato.stanford.edu/entries/logic-ai/#burger\*w-bhanu:1992a)、[Allwein & Barwise 1996](https://plato.stanford.edu/entries/logic-ai/#allwein-barwise:1996a)、[Glasgow ](https://plato.stanford.edu/entries/logic-ai/#glasgow-etal:1995a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#glasgow-etal:1995a)\*​[. 1995](https://plato.stanford.edu/entries/logic-ai/#glasgow-etal:1995a)和[Kosslyn 1990](https://plato.stanford.edu/entries/logic-ai/#kosslyn:1990a)。在这里，我们只讨论与哲学逻辑中的并行工作密切相关的一个趋势。
 
-二十世纪初，Stanisław Leśniewski 在逻辑文献中引入了对空间的定性方法；参见[Leśniewski 1916](https://plato.stanford.edu/entries/logic-ai/#lesniewski:1916a)，该文提出了一个关于物理个体之间的部分-整体关系的*mereology*或定性理论的概念。这种关于区域之间关系的逻辑理论的思想在哲学逻辑中仍然活跃，尽管吸引了相对较少的研究者。哲学文献中的更近期的研究，特别是[Casati & Varzi 1999](https://plato.stanford.edu/entries/logic-ai/#casati-varzi:1999a)、[Simons 1987](https://plato.stanford.edu/entries/logic-ai/#simons\*p:1987a)、[Casati & Varzi 1996](https://plato.stanford.edu/entries/logic-ai/#casati-varzi:1996a)、[Clarke 1981](https://plato.stanford.edu/entries/logic-ai/#clarke\*b:1981a)和[Clarke 1985](https://plato.stanford.edu/entries/logic-ai/#clarke\*b:1985a)，对当前的计算工作产生了影响。
+二十世纪初，Stanisław Leśniewski 在逻辑文献中引入了对空间的定性方法；参见[Leśniewski 1916](https://plato.stanford.edu/entries/logic-ai/#lesniewski:1916a)，该文提出了一个关于物理个体之间的部分-整体关系的_mereology_或定性理论的概念。这种关于区域之间关系的逻辑理论的思想在哲学逻辑中仍然活跃，尽管吸引了相对较少的研究者。哲学文献中的更近期的研究，特别是[Casati & Varzi 1999](https://plato.stanford.edu/entries/logic-ai/#casati-varzi:1999a)、[Simons 1987](https://plato.stanford.edu/entries/logic-ai/#simons\*p:1987a)、[Casati & Varzi 1996](https://plato.stanford.edu/entries/logic-ai/#casati-varzi:1996a)、[Clarke 1981](https://plato.stanford.edu/entries/logic-ai/#clarke\*b:1981a)和[Clarke 1985](https://plato.stanford.edu/entries/logic-ai/#clarke\*b:1985a)，对当前的计算工作产生了影响。
 
-利兹大学的计算机科学家们开发的区域连接演算（RCC）是基于一种原始的空间区域关系的：对于 ，其预期解释是 和 的值的闭包的交集非空。详细信息和参考文献请参见[Cohn ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)*​*[*. 1997*](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)*和*[*Cohn 1996*](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-:1997a)*。用这个简单的原始概念可以定义的范围令人惊讶，但技术细节很快变得复杂；例如，请参见*[*Gotts 1994*](https://plato.stanford.edu/entries/logic-ai/#gotts:1994a)*和*[*Gotts 1996*](https://plato.stanford.edu/entries/logic-ai/#gotts:1996a)*。*[*Cohn* ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)\*​[. 1997](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)中引用的工作描述了基于 RCC 及其扩展的直觉命题逻辑中的约束传播技术和编码作为支持实现推理的方法。基于 RCC 的最新工作涉及表示和推理运动，当然这涉及到空间和时间问题的结合；请参见[Wolter & Zakharyaschev 2000](https://plato.stanford.edu/entries/logic-ai/#wolter-zakharyaschev:2000a)。有关运动的定性理论的更多信息以及其他方法的参考，请参见[Galton 1997](https://plato.stanford.edu/entries/logic-ai/#galton:1997a)。
+利兹大学的计算机科学家们开发的区域连接演算（RCC）是基于一种原始的空间区域关系的：对于 ，其预期解释是 和 的值的闭包的交集非空。详细信息和参考文献请参见[Cohn ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)_​_[_. 1997_](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)_和_[_Cohn 1996_](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-:1997a)_。用这个简单的原始概念可以定义的范围令人惊讶，但技术细节很快变得复杂；例如，请参见_[_Gotts 1994_](https://plato.stanford.edu/entries/logic-ai/#gotts:1994a)_和_[_Gotts 1996_](https://plato.stanford.edu/entries/logic-ai/#gotts:1996a)_。_[_Cohn_ ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)\*​[. 1997](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)中引用的工作描述了基于 RCC 及其扩展的直觉命题逻辑中的约束传播技术和编码作为支持实现推理的方法。基于 RCC 的最新工作涉及表示和推理运动，当然这涉及到空间和时间问题的结合；请参见[Wolter & Zakharyaschev 2000](https://plato.stanford.edu/entries/logic-ai/#wolter-zakharyaschev:2000a)。有关运动的定性理论的更多信息以及其他方法的参考，请参见[Galton 1997](https://plato.stanford.edu/entries/logic-ai/#galton:1997a)。
 
 ## 7. 关于知识的推理
 
@@ -512,7 +512,7 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 
 认识论态度在博弈论以及逻辑人工智能中起着重要作用，并且在这两个应用领域中的工作要么与 Hintikka 的模态方法相平行，要么受其影响。在几篇论文中（包括[McCarthy 1979](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1979c1)），约翰·麦卡锡推荐了一种使用一阶逻辑来形式化知识的方法，但是这种方法明确地量化了个体概念等内容。然而，在这里，我们讨论的是大多数计算机科学家采取的方法，他们与麦卡锡不同，使用模态逻辑，但与 Hintikka 不同，他们专注于多主体情况。
 
-[Fagin ](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)*​*[*. 1995*](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)*简化了底层的模态性，使用 表示知识（或者使用 表示信念），但是专注于代理人对彼此态度的看法。这样的逻辑在分布式系统的分析中有直接应用，动态系统通过消息行为实现变化，这些行为根据由通信协议确定的规则修改代理人的知识。多主体认识论逻辑是应用需求为逻辑学做出重要贡献的另一个例子。*[*Fagin* ](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)\*​[. 1995](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)是任何对这个主题感兴趣的人必读的重要资料。认识论逻辑的其他应用工作记录在从 1986 年开始的一系列会议的论文集中，其中包括[Halpern 1986](https://plato.stanford.edu/entries/logic-ai/#halpern:1986c)。这些会议记录了哲学家与计算机科学中的逻辑学家之间最成功的合作之一，尽管参与的哲学家群体相对较小。这些会议的重点逐渐从计算机科学转向经济学。
+[Fagin ](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)_​_[_. 1995_](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)_简化了底层的模态性，使用 表示知识（或者使用 表示信念），但是专注于代理人对彼此态度的看法。这样的逻辑在分布式系统的分析中有直接应用，动态系统通过消息行为实现变化，这些行为根据由通信协议确定的规则修改代理人的知识。多主体认识论逻辑是应用需求为逻辑学做出重要贡献的另一个例子。_[_Fagin_ ](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)\*​[. 1995](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)是任何对这个主题感兴趣的人必读的重要资料。认识论逻辑的其他应用工作记录在从 1986 年开始的一系列会议的论文集中，其中包括[Halpern 1986](https://plato.stanford.edu/entries/logic-ai/#halpern:1986c)。这些会议记录了哲学家与计算机科学中的逻辑学家之间最成功的合作之一，尽管参与的哲学家群体相对较小。这些会议的重点逐渐从计算机科学转向经济学。
 
 计算机科学家习惯将推理视为符号表示的操作。而正是由于人工智能，有限理性成为一个严肃关注的话题，为哲学和经济学的理想化提供了一种对立面。\[[27](https://plato.stanford.edu/entries/logic-ai/notes.html#note-27)] 因此，你可能会认为，在人工智能领域，认知态度在逻辑推论下的封闭性将不受欢迎。但事实并非如此；在涉及的领域中，可能世界方法不仅是主导理论，而且甚至在机器人应用中得到了提倡；参见[Rosenschein & Kaelbling 1995](https://plato.stanford.edu/entries/logic-ai/#rosenschein\*sj-kaelbling:1995a); [Rosenschein 1989](https://plato.stanford.edu/entries/logic-ai/#rosenschein\*sj:1989a)。然而，超内涵性问题在人工智能文献中得到了研究；参见[Perlis 1985](https://plato.stanford.edu/entries/logic-ai/#perlis:1985a); [Konolige 1986](https://plato.stanford.edu/entries/logic-ai/#konolige:1986a); [Lakemeyer 1997](https://plato.stanford.edu/entries/logic-ai/#lakemeyer:1994a); [Levesque 1984](https://plato.stanford.edu/entries/logic-ai/#levesque:1984b))。尽管人工智能领域对这一主题的研究提供了新的理论和一些新的结果，但尚未出现主导方法。
 
@@ -542,7 +542,7 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 
 一个厨师正在将生鸡蛋敲在一个玻璃碗的边缘上。如果操作正确，鸡蛋撞击碗的边缘会将蛋壳劈成两半。厨师将鸡蛋悬在碗上方，用手指分开蛋壳的两半，扩大裂缝，鸡蛋的内容物会轻轻地掉进碗里。最终的结果是整个鸡蛋的内容物都在碗里，鸡蛋没有破裂，而蛋壳的两半在厨师的手指间。
 
-*变体：* 如果厨师将鸡蛋迅速撞击会发生什么？如果非常缓慢撞击会怎样？厨师将鸡蛋放在碗里并用手稳定施加压力会怎样？厨师在破裂鸡蛋后试图像剥煮熟鸡蛋一样剥离鸡蛋的内容物会怎样？碗是由活页纸制成的会怎样？由软黏土制成的会怎样？碗比鸡蛋小会怎样？碗倒置会怎样？厨师用煮熟的鸡蛋尝试这个过程会怎样？用椰子？用 M\&M 巧克力？
+_变体：_ 如果厨师将鸡蛋迅速撞击会发生什么？如果非常缓慢撞击会怎样？厨师将鸡蛋放在碗里并用手稳定施加压力会怎样？厨师在破裂鸡蛋后试图像剥煮熟鸡蛋一样剥离鸡蛋的内容物会怎样？碗是由活页纸制成的会怎样？由软黏土制成的会怎样？碗比鸡蛋小会怎样？碗倒置会怎样？厨师用煮熟的鸡蛋尝试这个过程会怎样？用椰子？用 M\&M 巧克力？
 
 随着问题本身，三个解决方案被发布：[Shanahan 2004](https://plato.stanford.edu/entries/logic-ai/#shanahan:2004a)，[Lifschitz 1998a](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1998b)，以及[Morgenstern 2001](https://plato.stanford.edu/entries/logic-ai/#morgenstern:2001a)的一个版本。比较这些解决方案是有益的，相似之处超过了差异。所有的作者都认为这是一个规划问题，并在形式化中使用了情境演算或事件演算的版本。每个公理化都是模块化的，例如，有专门用于相关几何和材料属性的模块。每个作者都通过展示公理支持在简单情况下破解鸡蛋计划的正确性来提供了“概念证明”。没有一个作者考虑到戴维斯对问题的所有阐述，但公理是以阐述为目标并考虑了一些阐述。目前尚不清楚任何作者是否实际实施了他们的形式化（例如，使用定理证明器、动画或机器人控制器）。
 
@@ -568,7 +568,7 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 
 ### 9.2 非单调继承
 
-当允许将一个领域组织成层次结构并允许有例外时，会出现更复杂的逻辑问题。探索如何使分类逻辑非单调是一种处理这个主题的方法；但是，*非单调继承*是一个独立的主题。尽管与非单调逻辑有很强的关联，非单调继承更多地依赖于基于图形的表示，而不是传统的逻辑思想，并且似乎提供了一种更细粒度的非单调推理方法，引发了全新的问题，并且很快变得棘手。因此，非单调继承系统往往表达能力较弱，并且它们与更强大的非单调逻辑之间的关系从未完全澄清。有关此主题的背景，请参阅[Thomason 1992](https://plato.stanford.edu/entries/logic-ai/#thomason\*rh:1992a)和[Horty 1994](https://plato.stanford.edu/entries/logic-ai/#horty:1994a)。
+当允许将一个领域组织成层次结构并允许有例外时，会出现更复杂的逻辑问题。探索如何使分类逻辑非单调是一种处理这个主题的方法；但是，_非单调继承_是一个独立的主题。尽管与非单调逻辑有很强的关联，非单调继承更多地依赖于基于图形的表示，而不是传统的逻辑思想，并且似乎提供了一种更细粒度的非单调推理方法，引发了全新的问题，并且很快变得棘手。因此，非单调继承系统往往表达能力较弱，并且它们与更强大的非单调逻辑之间的关系从未完全澄清。有关此主题的背景，请参阅[Thomason 1992](https://plato.stanford.edu/entries/logic-ai/#thomason\*rh:1992a)和[Horty 1994](https://plato.stanford.edu/entries/logic-ai/#horty:1994a)。
 
 ## 10. 上下文推理
 
@@ -580,7 +580,7 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 
 其中 被读作“是真的”。这类似于情境演算的 构造，但现在 代表一个上下文，而 是一个可能复杂的命题表示，许多人（包括麦卡锡）认为它指的是一个句子。
 
-这里既有模态逻辑的类比，也有带有明确真值谓词的语言。但是，对于上下文逻辑的应用所设想的机会和问题在很多方面都是新的。在麦卡锡最初的建议之后，关于上下文逻辑的研究包括[McCarthy & Buvac 1998](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-buvac:1995a2)、[Guha 1991](https://plato.stanford.edu/entries/logic-ai/#guha:1991a)，以及会议论文集[Akman ](https://plato.stanford.edu/entries/logic-ai/#akman-etal:2001a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#akman-etal:2001a)*​*[*. 2001*](https://plato.stanford.edu/entries/logic-ai/#akman-etal:2001a)*和*[*Bouquet* ](https://plato.stanford.edu/entries/logic-ai/#bouquet-etal:1999a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#bouquet-etal:1999a)\*​[. 1999](https://plato.stanford.edu/entries/logic-ai/#bouquet-etal:1999a)中的一些论文。关于麦卡锡建议所激发的 Richard Montague 的内涵逻辑的扩展，请参见[Thomason 2003](https://plato.stanford.edu/entries/logic-ai/#thomason\*rh:2003a)和[2005](https://plato.stanford.edu/entries/logic-ai/#thomason\*rh:2005a)。
+这里既有模态逻辑的类比，也有带有明确真值谓词的语言。但是，对于上下文逻辑的应用所设想的机会和问题在很多方面都是新的。在麦卡锡最初的建议之后，关于上下文逻辑的研究包括[McCarthy & Buvac 1998](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-buvac:1995a2)、[Guha 1991](https://plato.stanford.edu/entries/logic-ai/#guha:1991a)，以及会议论文集[Akman ](https://plato.stanford.edu/entries/logic-ai/#akman-etal:2001a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#akman-etal:2001a)_​_[_. 2001_](https://plato.stanford.edu/entries/logic-ai/#akman-etal:2001a)_和_[_Bouquet_ ](https://plato.stanford.edu/entries/logic-ai/#bouquet-etal:1999a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#bouquet-etal:1999a)\*​[. 1999](https://plato.stanford.edu/entries/logic-ai/#bouquet-etal:1999a)中的一些论文。关于麦卡锡建议所激发的 Richard Montague 的内涵逻辑的扩展，请参见[Thomason 2003](https://plato.stanford.edu/entries/logic-ai/#thomason\*rh:2003a)和[2005](https://plato.stanford.edu/entries/logic-ai/#thomason\*rh:2005a)。
 
 由于某种原因，关于上下文明确形式化的研究在计算机界并没有得到深入的追求，但是对于信息整合的应用，请参见[Snidaro 2019](https://plato.stanford.edu/entries/logic-ai/#snidaro\*l-etal:2019a)。
 
@@ -594,269 +594,269 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 
 当这些思想与在上述[第 4 节](https://plato.stanford.edu/entries/logic-ai/#ReasAbouActiChan)中讨论的关于规划和行动推理基础的工作相结合时，我们开始看到更加强大的实践推理模型。但是，通过将形式化扩展到包括偏好和意图，这一发展可以进一步推进。\[[30](https://plato.stanford.edu/entries/logic-ai/notes.html#note-30)]
 
-最终，我们需要一个智能推理和行动代理的模型。开发这样的模型不一定完全是逻辑的问题，但根据一种思想流派，逻辑在其中起着核心作用；例如，参见[Baral & Gelfond 2000](https://plato.stanford.edu/entries/logic-ai/#baral-gelfond:2000a)、[Wobcke ](https://plato.stanford.edu/entries/logic-ai/#wobcke-etal:1998a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#wobcke-etal:1998a)*​*[*. 1998*](https://plato.stanford.edu/entries/logic-ai/#wobcke-etal:1998a)*、*[*Burkhard* ](https://plato.stanford.edu/entries/logic-ai/#burkhard\*hd-etal:1998a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#burkhard\*hd-etal:1998a)\*​[. 1998](https://plato.stanford.edu/entries/logic-ai/#burkhard\*hd-etal:1998a)、[Wooldridge 2000](https://plato.stanford.edu/entries/logic-ai/#wooldridge\*mj:2000a)、[Thielscher 2005](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m:2005a)和[Levesque & Lakemeyer 2008](https://plato.stanford.edu/entries/logic-ai/#levesque\*hj-lakemeyer\*g:2008a)。
+最终，我们需要一个智能推理和行动代理的模型。开发这样的模型不一定完全是逻辑的问题，但根据一种思想流派，逻辑在其中起着核心作用；例如，参见[Baral & Gelfond 2000](https://plato.stanford.edu/entries/logic-ai/#baral-gelfond:2000a)、[Wobcke ](https://plato.stanford.edu/entries/logic-ai/#wobcke-etal:1998a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#wobcke-etal:1998a)_​_[_. 1998_](https://plato.stanford.edu/entries/logic-ai/#wobcke-etal:1998a)_、_[_Burkhard_ ](https://plato.stanford.edu/entries/logic-ai/#burkhard\*hd-etal:1998a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#burkhard\*hd-etal:1998a)\*​[. 1998](https://plato.stanford.edu/entries/logic-ai/#burkhard\*hd-etal:1998a)、[Wooldridge 2000](https://plato.stanford.edu/entries/logic-ai/#wooldridge\*mj:2000a)、[Thielscher 2005](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m:2005a)和[Levesque & Lakemeyer 2008](https://plato.stanford.edu/entries/logic-ai/#levesque\*hj-lakemeyer\*g:2008a)。
 
 ## 12. 阅读材料
 
 [Minker 2000b](https://plato.stanford.edu/entries/logic-ai/#minker:2000b) 是一本关于基于逻辑的人工智能领域的综合性调研论文集，包括对文献的广泛引用和原创贡献。杰克·明克尔（Jack Minker）的引言，[Minker 2000a](https://plato.stanford.edu/entries/logic-ai/#minker:2000a)，对该领域提供了有用的导向。对于希望进一步研究这个主题的读者来说，这本书是一个很好的起点。[Brachman & Levesque 2004](https://plato.stanford.edu/entries/logic-ai/#brachman-levesque:2004a) 以教科书的形式介绍了知识表示领域。[Davis 1991](https://plato.stanford.edu/entries/logic-ai/#davis\*e:1991a) 和 [Mueller 2006](https://plato.stanford.edu/entries/logic-ai/#mueller\*et:2006a) 是关于形式化常识推理这一具有挑战性问题的专著。[Straßer & Antonelli 2012](https://plato.stanford.edu/entries/logic-ai/#strasser\*c-antonelli\*ga:2019a) 是对非单调逻辑感兴趣的读者的良好入门点，而 [Shanahan 2009](https://plato.stanford.edu/entries/logic-ai/#shanahan:2009a) 则是对框架问题的有用讨论。[Wooldridge 2000](https://plato.stanford.edu/entries/logic-ai/#wooldridge\*mj:2000a) 讨论了理性代理的逻辑形式化。
 
-知识表示与推理会议的论文集提供了从 1989 年至今人工智能领域逻辑研究的最详细记录：[Brachman ](https://plato.stanford.edu/entries/logic-ai/#brachman-etal:1989b)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#brachman-etal:1989b)*​*[*. 1989*](https://plato.stanford.edu/entries/logic-ai/#brachman-etal:1989b)*、*[*Allen* ](https://plato.stanford.edu/entries/logic-ai/#allen\*jf-etal:1991a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#allen\*jf-etal:1991a)*​*[*. 1991*](https://plato.stanford.edu/entries/logic-ai/#allen\*jf-etal:1991a)*、*[*Nebel* ](https://plato.stanford.edu/entries/logic-ai/#nebel-etal:1992a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#nebel-etal:1992a)*​*[*. 1992*](https://plato.stanford.edu/entries/logic-ai/#nebel-etal:1992a)*、*[*Doyle* ](https://plato.stanford.edu/entries/logic-ai/#doyle\*j-etal:1994a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#doyle\*j-etal:1994a)*​*[*. 1994*](https://plato.stanford.edu/entries/logic-ai/#doyle\*j-etal:1994a)*、*[*Aiello* ](https://plato.stanford.edu/entries/logic-ai/#aiello-etal:1996a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#aiello-etal:1996a)*​*[*. 1996*](https://plato.stanford.edu/entries/logic-ai/#aiello-etal:1996a)*、*[*Cohn* ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1998a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1998a)*​*[*. 1998*](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1998a)*、*[*Cohn* ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:2000a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:2000a)*​*[*. 2000*](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:2000a)*、*[*Fensel* ](https://plato.stanford.edu/entries/logic-ai/#fensel-etal:2002a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#fensel-etal:2002a)*​*[*. 2002*](https://plato.stanford.edu/entries/logic-ai/#fensel-etal:2002a)*、*[*Dubois* ](https://plato.stanford.edu/entries/logic-ai/#dubois\*d-etal:2004a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#dubois\*d-etal:2004a)*​*[*. 2004*](https://plato.stanford.edu/entries/logic-ai/#dubois\*d-etal:2004a)*、*[*Doherty* ](https://plato.stanford.edu/entries/logic-ai/#doherty-etal:2006a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#doherty-etal:2006a)*​*[*. 2006*](https://plato.stanford.edu/entries/logic-ai/#doherty-etal:2006a)*、*[*Brewka & Lang 2008*](https://plato.stanford.edu/entries/logic-ai/#brewka-lang\*j:2008a)*、*[*Lin* ](https://plato.stanford.edu/entries/logic-ai/#lin\*fz-etal:2010a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#lin\*fz-etal:2010a)*​*[*. 2010*](https://plato.stanford.edu/entries/logic-ai/#lin\*fz-etal:2010a)*、*[*Eiter* ](https://plato.stanford.edu/entries/logic-ai/#eiter\*t-etal:2012a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#eiter\*t-etal:2012a)*​*[*. 2012*](https://plato.stanford.edu/entries/logic-ai/#eiter\*t-etal:2012a)*、*[*Baral* ](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2014a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2014a)*​*[*. 2014*](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2014a)*、*[*Baral* ](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2016a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2016a)*​*[*. 2016*](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2016a)*、*[*Thielscher* ](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m-etal:2018a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m-etal:2018a)*​*[*. 2018*](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m-etal:2018a)*、*[*Calvanese* ](https://plato.stanford.edu/entries/logic-ai/#calvanese\*d-etal:2020a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#calvanese\*d-etal:2020a)*​*[*. 2020*](https://plato.stanford.edu/entries/logic-ai/#calvanese\*d-etal:2020a)*、*[*Bienvenu* ](https://plato.stanford.edu/entries/logic-ai/#bienvenu\*m-etal:2021a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#bienvenu\*m-etal:2021a)*​*[*. 2021*](https://plato.stanford.edu/entries/logic-ai/#bienvenu\*m-etal:2021a)*和*[*Kern-Isberner* ](https://plato.stanford.edu/entries/logic-ai/#kernisberner\*g-etal:2022a)*​*[et al](https://plato.stanford.edu/entries/logic-ai/#kernisberner\*g-etal:2022a)\*​[. 2022](https://plato.stanford.edu/entries/logic-ai/#kernisberner\*g-etal:2022a)。
+知识表示与推理会议的论文集提供了从 1989 年至今人工智能领域逻辑研究的最详细记录：[Brachman ](https://plato.stanford.edu/entries/logic-ai/#brachman-etal:1989b)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#brachman-etal:1989b)_​_[_. 1989_](https://plato.stanford.edu/entries/logic-ai/#brachman-etal:1989b)_、_[_Allen_ ](https://plato.stanford.edu/entries/logic-ai/#allen\*jf-etal:1991a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#allen\*jf-etal:1991a)_​_[_. 1991_](https://plato.stanford.edu/entries/logic-ai/#allen\*jf-etal:1991a)_、_[_Nebel_ ](https://plato.stanford.edu/entries/logic-ai/#nebel-etal:1992a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#nebel-etal:1992a)_​_[_. 1992_](https://plato.stanford.edu/entries/logic-ai/#nebel-etal:1992a)_、_[_Doyle_ ](https://plato.stanford.edu/entries/logic-ai/#doyle\*j-etal:1994a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#doyle\*j-etal:1994a)_​_[_. 1994_](https://plato.stanford.edu/entries/logic-ai/#doyle\*j-etal:1994a)_、_[_Aiello_ ](https://plato.stanford.edu/entries/logic-ai/#aiello-etal:1996a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#aiello-etal:1996a)_​_[_. 1996_](https://plato.stanford.edu/entries/logic-ai/#aiello-etal:1996a)_、_[_Cohn_ ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1998a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1998a)_​_[_. 1998_](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1998a)_、_[_Cohn_ ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:2000a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:2000a)_​_[_. 2000_](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:2000a)_、_[_Fensel_ ](https://plato.stanford.edu/entries/logic-ai/#fensel-etal:2002a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#fensel-etal:2002a)_​_[_. 2002_](https://plato.stanford.edu/entries/logic-ai/#fensel-etal:2002a)_、_[_Dubois_ ](https://plato.stanford.edu/entries/logic-ai/#dubois\*d-etal:2004a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#dubois\*d-etal:2004a)_​_[_. 2004_](https://plato.stanford.edu/entries/logic-ai/#dubois\*d-etal:2004a)_、_[_Doherty_ ](https://plato.stanford.edu/entries/logic-ai/#doherty-etal:2006a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#doherty-etal:2006a)_​_[_. 2006_](https://plato.stanford.edu/entries/logic-ai/#doherty-etal:2006a)_、_[_Brewka & Lang 2008_](https://plato.stanford.edu/entries/logic-ai/#brewka-lang\*j:2008a)_、_[_Lin_ ](https://plato.stanford.edu/entries/logic-ai/#lin\*fz-etal:2010a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#lin\*fz-etal:2010a)_​_[_. 2010_](https://plato.stanford.edu/entries/logic-ai/#lin\*fz-etal:2010a)_、_[_Eiter_ ](https://plato.stanford.edu/entries/logic-ai/#eiter\*t-etal:2012a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#eiter\*t-etal:2012a)_​_[_. 2012_](https://plato.stanford.edu/entries/logic-ai/#eiter\*t-etal:2012a)_、_[_Baral_ ](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2014a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2014a)_​_[_. 2014_](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2014a)_、_[_Baral_ ](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2016a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2016a)_​_[_. 2016_](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2016a)_、_[_Thielscher_ ](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m-etal:2018a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m-etal:2018a)_​_[_. 2018_](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m-etal:2018a)_、_[_Calvanese_ ](https://plato.stanford.edu/entries/logic-ai/#calvanese\*d-etal:2020a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#calvanese\*d-etal:2020a)_​_[_. 2020_](https://plato.stanford.edu/entries/logic-ai/#calvanese\*d-etal:2020a)_、_[_Bienvenu_ ](https://plato.stanford.edu/entries/logic-ai/#bienvenu\*m-etal:2021a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#bienvenu\*m-etal:2021a)_​_[_. 2021_](https://plato.stanford.edu/entries/logic-ai/#bienvenu\*m-etal:2021a)_和_[_Kern-Isberner_ ](https://plato.stanford.edu/entries/logic-ai/#kernisberner\*g-etal:2022a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#kernisberner\*g-etal:2022a)\*​[. 2022](https://plato.stanford.edu/entries/logic-ai/#kernisberner\*g-etal:2022a)。
 
 ## Bibliography
 
-* Aiello, Luigia Carlucci, Doyle, Jon, and Shapiro, Stuart (eds.), 1996, *KR’96: Principles of Knowledge Representation and Reasoning*, San Francisco: Morgan Kaufmann.
-* Akman, Varol, Bouquet, Paolo, Thomason, Richmond, and Young, Roger A. (eds.), 2001, *Modeling and Using Context*, Berlin: Springer-Verlag.
-* Alcourrón, Carlos E., 1995, “Defeasible logics: Demarcation and affinities”, in *Conditionals: From Philosophy to Computer Science*, Gabriella Crocco, Luis Fariñas del Cerro, and A. Herzig (eds.), Oxford: Oxford University Press, 67–102.
-* Allen, James F., Fikes, Richard, and Sandewall, Erik (eds.), 1989, *KR’89: Principles of Knowledge Representation and Reasoning*, San Francisco: Morgan Kaufmann.
-* Allen, James F., Fikes, Richard, and Sandewall, Erik (eds.), 1991, *KR’91: Principles of Knowledge Representation and Reasoning*, San Mateo, California: Morgan Kaufmann.
-* Allwein, Gerard and Barwise, Jon (eds.), 1996, *Logical Reasoning with Diagrams*, Oxford: Oxford University Press.
-* Amarel, Saul, 1968, “On representations of problems of reasoning about actions”, in *Machine Intelligence 3*, Donald Mitchie (ed.), Chichester, England: Ellis Horwood, 131–171.
-* Antoniou, Grigoris, 1997, *Nonmonotonic Reasoning*, Cambridge, Massachusetts: The MIT Press.
-* Antoniou, Grigoris and Wang, Kewen, 2007, “Default logic”, in *Handbook of the History of Logic, Volume 8: The Many-Valued and Nonmonotonic Turn in Logic*, Dov Gabbay and John Woods (eds.), Amsterdam: Elsevier Science Publishers, 517–555.
-* Arlo-Costa, Horacio and Shapiro, Scott, 1992, “Maps between nonmonotonic logic and conditional logic”, in *KR’92. Principles of Knowledge Representation and Reasoning: Proceedings of the Third International Conference*, Bernhard Nebel, Charles Rich, and William Swartout (eds.), San Mateo, California: Morgan Kaufmann, 553–564.
-* Asher, Nicholas, 1995, “Commonsense entailment: A conditional logic for some generics”, in *Conditionals: From Philosophy to Computer Science*, Gabriella Crocco, Luis Fariñas del Cerro, and A. Herzig (eds.), Oxford: Oxford University Press, 103–145.
-* Asher, Nicholas and Morreau, Michael, 1991, “Commonsense entailment: a modal theory of nonmonotonic reasoning”, in *Proceedings of the Twelfth International Joint Conference on Artificial Intelligence*, J. Mylopoulos and R. Reiter (eds.), Los Altos, California: Morgan Kaufmann, 387–392.
-* Austin, John L., 1961, “A plea for excuses”, in *Philosophical Papers*, J.O. Urmson and G.J. Warnock (eds.), Oxford: Oxford University Press.
-* Bacchus, Fahiem, Halpern, Joseph Y., and Levesque, Hector J., 1999, “Reasoning about noisy sensors and effectors in the situation calculus”, *Artificial Intelligence*, 111(1–2): 171–208.
-* Baker, Andrew B., 1989, “A simple solution to the Yale shooting problem”, in *KR’89: Principles of Knowledge Representation and Reasoning*, Ronald J. Brachman, Hector J. Levesque, and Raymond Reiter (eds.), San Mateo, California: Morgan Kaufmann, 11–20.
-* Baral, Chitta, 1995, “Reasoning about actions: Non-deterministic effects, constraints, and qualification”, in *Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence*, Chris Mellish (ed.), San Francisco: Morgan Kaufmann, 2017–2023.
-* Baral, Chita, De Giacomo, Giuseppe, and Eiter, Thomas (eds.), 2014, *KR2014: Principles of Knowledge Representation and Reasoning*, Menlo Park, California: AAAI Press.
-* Baral, Chita, Delgrande, James, and Wolter, Frank (eds.), 2016, *KR2016: Principles of Knowledge Representation and Reasoning*, Menlo Park, California: AAAI Press.
-* Baral, Chitta and Gelfond, Michael, 2000, “Reasoning agents in dynamic domains”, in *Logic-Based Artificial Intelligence*, Jack Minker (ed.), Dordrecht: Kluwer Academic Publishers, 257–279.
-* Besnard, Philippe, 1992, *Default Logic*, Berlin: Springer-Verlag.
-* Besnard, Philippe and Hunter, Anthony, 2008, *Elements of Argumentation*, Cambridge, Massachusetts: The MIT Press.
-* Bienvenu, Meghyn, Lakemeyer, Gerhard, and Erdem, Esra (eds.), 2021, *KR2021: Principles of Knowledge Representation and Reasoning*, Menlo Park, California: AAAI Press.
-* Bochman, Alexander, 2004, “A causal approach to nonmonotonic reasoning”, *Artificial Intelligence*, 160(1–2): 105–143.
-* Bochman, Alexander, 2007, “Nonmonotonic reasoning”, in *Handbook of the History of Logic. Volume 8: The Many Valued and Nonmonotonic Turn in Logic*, Dov M. Gabbay and John Woods (eds.), Amsterdam: Elsevier Publishing Co., 557–622.
-* Boolos, George, 1993, *The Logic of Provability*, Cambridge, England: Cambridge Universoti Press.
-* Bouquet, Paolo, Serafini, Luigi, Brézillon, Patrick, Benerecetti, Massimo, and Castellani, Francesca (eds.), 1999, *Modeling and Using Contexts: Proceedings of the Second International and Interdisciplinary Conference, CONTEXT’99*, Berlin: Springer-Verlag.
+* Aiello, Luigia Carlucci, Doyle, Jon, and Shapiro, Stuart (eds.), 1996, _KR’96: Principles of Knowledge Representation and Reasoning_, San Francisco: Morgan Kaufmann.
+* Akman, Varol, Bouquet, Paolo, Thomason, Richmond, and Young, Roger A. (eds.), 2001, _Modeling and Using Context_, Berlin: Springer-Verlag.
+* Alcourrón, Carlos E., 1995, “Defeasible logics: Demarcation and affinities”, in _Conditionals: From Philosophy to Computer Science_, Gabriella Crocco, Luis Fariñas del Cerro, and A. Herzig (eds.), Oxford: Oxford University Press, 67–102.
+* Allen, James F., Fikes, Richard, and Sandewall, Erik (eds.), 1989, _KR’89: Principles of Knowledge Representation and Reasoning_, San Francisco: Morgan Kaufmann.
+* Allen, James F., Fikes, Richard, and Sandewall, Erik (eds.), 1991, _KR’91: Principles of Knowledge Representation and Reasoning_, San Mateo, California: Morgan Kaufmann.
+* Allwein, Gerard and Barwise, Jon (eds.), 1996, _Logical Reasoning with Diagrams_, Oxford: Oxford University Press.
+* Amarel, Saul, 1968, “On representations of problems of reasoning about actions”, in _Machine Intelligence 3_, Donald Mitchie (ed.), Chichester, England: Ellis Horwood, 131–171.
+* Antoniou, Grigoris, 1997, _Nonmonotonic Reasoning_, Cambridge, Massachusetts: The MIT Press.
+* Antoniou, Grigoris and Wang, Kewen, 2007, “Default logic”, in _Handbook of the History of Logic, Volume 8: The Many-Valued and Nonmonotonic Turn in Logic_, Dov Gabbay and John Woods (eds.), Amsterdam: Elsevier Science Publishers, 517–555.
+* Arlo-Costa, Horacio and Shapiro, Scott, 1992, “Maps between nonmonotonic logic and conditional logic”, in _KR’92. Principles of Knowledge Representation and Reasoning: Proceedings of the Third International Conference_, Bernhard Nebel, Charles Rich, and William Swartout (eds.), San Mateo, California: Morgan Kaufmann, 553–564.
+* Asher, Nicholas, 1995, “Commonsense entailment: A conditional logic for some generics”, in _Conditionals: From Philosophy to Computer Science_, Gabriella Crocco, Luis Fariñas del Cerro, and A. Herzig (eds.), Oxford: Oxford University Press, 103–145.
+* Asher, Nicholas and Morreau, Michael, 1991, “Commonsense entailment: a modal theory of nonmonotonic reasoning”, in _Proceedings of the Twelfth International Joint Conference on Artificial Intelligence_, J. Mylopoulos and R. Reiter (eds.), Los Altos, California: Morgan Kaufmann, 387–392.
+* Austin, John L., 1961, “A plea for excuses”, in _Philosophical Papers_, J.O. Urmson and G.J. Warnock (eds.), Oxford: Oxford University Press.
+* Bacchus, Fahiem, Halpern, Joseph Y., and Levesque, Hector J., 1999, “Reasoning about noisy sensors and effectors in the situation calculus”, _Artificial Intelligence_, 111(1–2): 171–208.
+* Baker, Andrew B., 1989, “A simple solution to the Yale shooting problem”, in _KR’89: Principles of Knowledge Representation and Reasoning_, Ronald J. Brachman, Hector J. Levesque, and Raymond Reiter (eds.), San Mateo, California: Morgan Kaufmann, 11–20.
+* Baral, Chitta, 1995, “Reasoning about actions: Non-deterministic effects, constraints, and qualification”, in _Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence_, Chris Mellish (ed.), San Francisco: Morgan Kaufmann, 2017–2023.
+* Baral, Chita, De Giacomo, Giuseppe, and Eiter, Thomas (eds.), 2014, _KR2014: Principles of Knowledge Representation and Reasoning_, Menlo Park, California: AAAI Press.
+* Baral, Chita, Delgrande, James, and Wolter, Frank (eds.), 2016, _KR2016: Principles of Knowledge Representation and Reasoning_, Menlo Park, California: AAAI Press.
+* Baral, Chitta and Gelfond, Michael, 2000, “Reasoning agents in dynamic domains”, in _Logic-Based Artificial Intelligence_, Jack Minker (ed.), Dordrecht: Kluwer Academic Publishers, 257–279.
+* Besnard, Philippe, 1992, _Default Logic_, Berlin: Springer-Verlag.
+* Besnard, Philippe and Hunter, Anthony, 2008, _Elements of Argumentation_, Cambridge, Massachusetts: The MIT Press.
+* Bienvenu, Meghyn, Lakemeyer, Gerhard, and Erdem, Esra (eds.), 2021, _KR2021: Principles of Knowledge Representation and Reasoning_, Menlo Park, California: AAAI Press.
+* Bochman, Alexander, 2004, “A causal approach to nonmonotonic reasoning”, _Artificial Intelligence_, 160(1–2): 105–143.
+* Bochman, Alexander, 2007, “Nonmonotonic reasoning”, in _Handbook of the History of Logic. Volume 8: The Many Valued and Nonmonotonic Turn in Logic_, Dov M. Gabbay and John Woods (eds.), Amsterdam: Elsevier Publishing Co., 557–622.
+* Boolos, George, 1993, _The Logic of Provability_, Cambridge, England: Cambridge Universoti Press.
+* Bouquet, Paolo, Serafini, Luigi, Brézillon, Patrick, Benerecetti, Massimo, and Castellani, Francesca (eds.), 1999, _Modeling and Using Contexts: Proceedings of the Second International and Interdisciplinary Conference, CONTEXT’99_, Berlin: Springer-Verlag.
 * Boutilier, Craig, 1992, “Conditional logics for default reasoning and belief revision”, Tech. Rep. KRR-TR-92-1, Computer Science Department, University of Toronto, Toronto, Ontario.
-* Boutilier, Craig, 1996, “Iterated revision and minimal change of conditional beliefs”, *Journal of Philosophical Logic*, 25(3): 263–305.
-* Boutilier, Craig, Dean, Thomas, and Hanks, Steve, 1996, “Planning under uncertainty: Structural assumptions and computational leverage”, in *New Directions in AI Planning*, Malik Ghallab and Alfredo Milani (eds.), Amsterdam: IOS Press, 157–171.
-* Brachman, Ronald J., Levesque, Hector J., and Reiter,, Raymond, 1989, *KR’89: Principles of Knowledge Representation and Reasoning*, San Mateo, Morgan Kaufmann.
-* Brachman, Ronald J., McGuinness, Deborah L., Patel-Schneider, Peter F., and Resnik, Lori A., 1991, “Living with CLASSIC: When and how to use a KL-ONE-like language”, in *Principles of Semantic Networks*, John F. Sowa (ed.), San Mateo, California: Morgan Kaufmann, 401–456.
-* Brachman, Ronald J. and Levesque, Hector J., 2004, *Knowledge Representation and Reasoning*, Amsterdam: Elsevier.
-* Brewka, Gerhard, 1991, *Nonmonotonic Reasoning: Logical Foundations of Commonsense*, Cambridge, England: Cambridge University Press.
-* Brewka, Gerhard, Dix, Jürgen, and Konolige, Kurt, 1997, *Nonmonotonic Reasoning: An Overview*, Stanford: CSLI Publications.
-* Brewka, Gerhard and Lang, Jérôme (eds.), 2008, *KR2008: Proceedings of the Eleventh National Conference*, Menlo Park, California: AAAI Press.
-* Burger, Wilhelm and Bhanu, Bir, 1992, *Qualitative Motion Planning*, Dordrecht: Kluwer Academic Publishers.
-* Burkhard, Hans-Dieter, Hannebauer, Markus, and Wendler, Jan, 1998, “Belief-desire-intention deliberation in artificial soccer”, *The AI Magazine*, 1998(3): 87–93.
-* Burgess, John P., 1984, “Basic tense logic”, in *Handbook of Philosophical Logic, Volume II: Extensions of Classical Logic*, Dov Gabbay and Franz Guenther (eds.), Dordrecht: D. Reidel Publishing Co., 89–133.
-* Calvanese, Diego, Erdem, Esra, and Thielscher, Michael (eds.), 2020, *KR2020: Principles of Knowledge Representation and Reasoning*, Menlo Park, California: AAAI Press.
-* Carlson, Greg N. and Pelletier, Francis Jeffry (eds.), 1995, *The Generic Book*, Chicago, IL: Chicago University Press.
-* Carnap, Rudolph, 1955, “Meaning and synonymy in natural languages”, *Philosophical Studies*, 7: 33–47. Reprinted in [Carnap 1956](https://plato.stanford.edu/entries/logic-ai/#carnap:1956a), pp. 233–247.
-* Carnap, Rudolph, 1956, *Meaning and Necessity*, Chicago: Chicago University Press, second edition (First edition published in 1947.).
-* Casati, Roberto and Varzi, Achille C., 1996, *Holes and Other Superficialities*, Cambridge, Massachusetts: The MIT Press.
-* Casati, Roberto and Varzi, Achille C., 1999, *Parts and Places: The Structures of Spatial Representation*, Cambridge, Massachusetts: The MIT Press.
-* Casini, Giovanni and Straccia, Umberto, 2022, “A general framework for modelling conditional reasoning—Preliminary Report”, in *KR2022: Principles of Knowledge Representation and Reasoning, Proceedings of the Nineteenth International Conference*, Gabriele Kern-Isberner and Gerhard Lakemeyer and Thomas Meyer (eds.), Menlo Park, California, 575–595.
-* Chellas, Brian, 1975, “Basic conditional logic”, *Journal of Philosophical Logic*, 4(2): 133–154.
-* Chen, Su-Shing (ed.), 1990, *Advances in Spatial Reasoning, Volume 1*, Norwood, New Jersey: Ablex.
-* Chopra, Amit, van der Torre, Leon, Verhagen, Harko, and Villata, Serena 1997, *Handbook of Normative Multiagent Systems*, London: College Publications.
-* Clancey, William J., 1983, “The epistemology of a rule-based expert system: a framework for explanation”, *Artificial Intelligence*, 20: 215–251.
-* Clark, Keith L., 1978, “Negation as failure”, in *Logic and Data Bases*, H. Gallaire and Jack Minker (eds.), New York: Plenum Press, 293–322.
-* Clarke, Bowman L., 1981, “A calculus of individuals based on ‘connection’”, *Notre Dame Journal of Formal Logic*, 22(3): 204–218.
-* Clarke, Bowman L., 1985, “Individuals and points”, *Notre Dame Journal of Formal Logic*, 26(1): 61–75.
-* Cohen, Philip R. and Levesque, Hector J., 1990, “Intention is choice with commitment”, *Artificial Intelligence*, 42(3): 213–261.
-* Cohn, Anthony G., 1996, “Qualitative spatial representation and reasoning techniques”, in *KI-97, Advances in Artificial Intelligence*, Gerhard Brewka, Christopher Habel, and Bernhard Nebel (eds.), Berlin: Springer-Verlag, 1-30.
-* Cohn, Anthony G., Bennett, Brandon, Gooday, John, and Gotts, Nicholas M., 1997, “Representing and reasoning with qualitative spatial relations”, in *Spatial and Temporal Reasoning*, Oliviero Stock (ed.), Dordrecht: Kluwer Academic Publishers, 97–134.
-* Cohn, Anthony G., Schubert, Lenhart, and Shapiro, Stuart C. (eds.), 1998, *KR’98: Principles of Knowledge Representation and Reasoning*, San Francisco: Morgan Kaufmann.
-* Cohn, Anthony G., Giunchiglia, Fausto, and Selman, Bart (eds.), 2000, *KR2000: Principles of Knowledge Representation and Reasoning*, San Francisco: Morgan Kaufmann.
-* Copeland, B. Jack, 1996, “Arthur Prior’s life and legacy”, in *Logic and Reality: Essays on the Legacy of Arthur Prior*, Jack Copeland (ed.), Oxford: Oxford University Press, 1–40.
-* Davis, Ernest, 1991, *Common Sense Reasoning*, San Francisco: Morgan Kaufmann.
-* Davis, Ernest and Morgenstern, Leora, 2004, “Introduction: Progress in formal commonsense reasoning”, *Artificial Intelligence*, 153(1–2): 1–12.
-* Davis, Martin, 1988, “Mathematical Logic and the Origin of Modern Computers”, in *The Universal Turing Machine: A Half-Century Survey*, Jack Copeland (ed.), Oxford: Oxford University Press, 149–174.
-* Davis, Ernest, 2008, “Physical reasoning”, in *Handbook of Knowledge Representation*, van Harmelen, Frank, Lifschitz, Vladimir and Porter, Bruce (eds.), : Elsevier, 597–620.
-* DeJong, Gerald D. and Bennett, Scott W., 1989, “Permissive planning: Extending classical planning to uncertain task domains”, *Artificial Intelligence*, 89(1–2): 173–217.
-* Delgrande, James P., 1998, “Conditional logics for defeasible logics”, in *Handbook of Defeasible Reasoning and Uncertainty Management Systems, Volume 2*, Dov M. Gabbay and Philippe Smets (eds.), Dordrecht: Kluwer Academic Publishers, 135–174.
-* Deneker, Marc, Marek, Victor W., and Truszczyński, Miroslaw 1998, “Uniform semantic treatment of default and autoepistemic logics”, *Artificial Intelligence*, 143(1): 79–122.
-* Dennett, Daniel, 1987, “Cognitive wheels: The frame problem of AI”, in *The Robot’s Dilemma: The Frame Problem in Artificial Intelligence*, Zenon Pylyshyn (ed.), Norwood, New Jersey: Ablex Publishing Co., 41–64.
-* Doherty, Patrick, Fikes, Richard, and Sandewall, Erik (eds.), 2006, *KR’2006: Proceedings, Tenth International Conference on Principles of Knowledge Representation and Reasoning*, Palo Alto: AAAI Press.
-* Doyle, Jon, 1995, “A truth maintenance system”, *Artificial Intelligence*, 12(1): 231–272.
-* Doyle, Jon, Sandewall, Erik, and Torasso, Pietro (eds.), 1994, *KR’94: Principles of Knowledge Representation and Reasoning*, San Francisco: Morgan Kaufmann.
-* Doyle, Jon and Thomason, Richmond H., 1999, “Background to qualitative decision theory”, *AI Magazine*, 20(2): 55–68.
-* Dubois, Didier, Welty, Christopher, and Williams, Mary-Anne (eds.), 2004,*KR2004: Principles of Knowledge Representation and Reasoning*, Palo Alto: AAAI Press.
-* Eiter, Tomas, McIlraith, Sheila A., and Brewka, Gerald (eds.), 1992, *KR2012: Proceedings of the Thirteenth International Conference*, Menlo Park, California: AAAI Press.
-* Elkan, Charles, 1991, “Reasoning about action in first-order logic”, in *Proceedings of the Conference of the Canadian Society for Computational Studies of Intelligence (CSCSI)*, Canadian Society for Computational Studies of Intelligence, San Francisco: Morgan Kaufman, 221–227.
-* Elkan, Charles, 1995, “On solving the qualification problem”, in *Working Notes of the AAAI Spring Symposium on Extending Theories of Action: Formal Theories and Applications*, Menlo Park, California: American Association for Artificial Intelligence.
-* Fagin, Ronald, Halpern, Joseph Y., Moses, Yoram, and Vardi, Moshe Y., 1995, *Reasoning about Knowledge*, Cambridge, Massachusetts: The MIT Press.
-* Fensel, Dieter, Giunchiglia, Fausto, McGuinness, Deborah, and Williams, Mary-Anne (eds.), 2002, *KR2002: Principles of Knowledge Representation and Reasoning*, San Francisco, California: Morgan Kaufmann.
-* Fikes, Richard, 1996, “Ontologies: What are they, and where’s the research?”, in *KR’96: Principles of Knowledge Representation and Reasoning*, Luigia Carlucci Aiello, Jon Doyle, and Stuart Shapiro (eds.), San Francisco, California: Morgan Kaufmann, 652–654.
-* Finger, Jeffrey J., 1987, *Exploiting Constraints in Design Synthesis*, Ph.D. dissertation, Department of Computer Science, Stanford University, Stanford, California.
-* Fodor, Jerry A., 1987, “Modules, frames, fridgeons, sleeping dogs, and the music of the spheres”, in *The Robot’s Dilemma: The Frame Problem in Artificial Intelligence*, Zenon Pylyshyn (ed.), Norwood, New Jersey: Ablex Publishing Co., 139–149.
-* Forbus, Kenneth 2008, “Qualitative Modeling”, in *Handbook of Knowledge Representation*, van Harmelen, Frank, Lifschitz, Vladimir and Porter, Bruce (eds.), : Elsevier, 361–393.
-* Ford, Kenneth M. and Pylyshyn, Zenon (eds.), 1996, *The Robot’s Dilemma Revisited: The Frame Problem in Artificial Intelligence*, Norwood, New Jersey: Ablex Publishing Co.
-* Gabbay, Dov, Hogger, Christopher J., and Robinson, J. A. (eds.), 1994, *Handbook of Logic in Artificial Intelligence and Logic Programming, Volume 3: Nonmonotonic Reasoning and Uncertain Reasoning*, Oxford: Oxford University Press.
-* Gabbay, Dov M., 1995, “Conditional implications and non-monotonic consequence”, in *Conditionals: From Philosophy to Computer Science*, Gabriella Crocco, Luis Fariñas del Cerro, and A. Herzig (eds.), Oxford: Oxford University Press, 337–359.
-* Galton, Anthony, 1997, “Space, time, and movement”, in *Spatial and Temporal Reasoning*, Oliviero Stock (ed.), Dordrecht: Kluwer Academic Publishers, 321–352.
-* Gärdenfors, Peter and Makinson, David, 1994, “Nonmonotonic inferences based on expectations”, *Artificial Intelligence*, 65(2): 197–245.
-* Geffner, Hector, 1990, “Causal theories of nonmonotonic reasoning”, in *Proceedings of the Eighth National Conference on Artificial Intelligence*, Thomas Dietterich and William Swartout (eds.), American Association for Artificial Intelligence, Menlo Park, CA: AAAI Press, 524–530.
-* Geffner, Hector, 1992, *Default Reasoning: Causal and Conditional Theories*, Cambridge, Massachusetts: MIT Press.
-* Gelfond, Michael and Lifschitz, Vladimir, 1998, [“Action languages”](https://www.diva-portal.org/smash/get/diva2:1716299/FULLTEXT02.pdf), *Electronic Transactions on AI*, 3.
-* Genesereth, Michael and Nilsson, Nils J., 1987, *Logical Foundations of Artificial Intelligence*, San Mateo, California: Morgan Kaufmann.
-* Ghallab, Malik, Nau, Dana, and Traverso, Paolo, 2014, “The actor’s view of automated planning and acting: A position paper”, *Artificial Intelligence*, 208: 1–17.
-* Ginsberg, Matthew L. (ed.), 1987, *Readings in Nonmonotonic Reasoning*, Los Altos, California: Morgan Kaufmann. (Out of print.).
-* Giordano, Laura and Schwind, Camilla, 2004, “Conditional logic of actions and causation”, *Artificial Intelligence*, 157(1–2): 239–279.
-* Giunchiglia, Enrico, Kartha, G. Neelakantan, and Lifschitz, Vladimir, 1997, “Representing action: Indeterminacy and ramifications”, *Artificial Intelligence*, 95(2): 409–438.
-* Giunchiglia, Enrico and Lifschitz, Vladimir, 1998, “An action language based on causal explanation”, in *Proceedings of the Fourteenth National Conference on Artificial Intelligence and the Ninth Innovative Applications of Artificial Intelligence Conference*, Ted Senator and Bruce Buchanan (eds.), American Association for Artificial Intelligence, Menlo Park, California: AAAI Press, 623–628.
-* Glasgow, Janice, Narayanan, N. Hari, and Chandrasekaran, B. (eds.), 1995, *Diagrammatic Reasoning*, Cambridge, Massachusetts: The MIT Press.
-* Goodman, Nelson, 1946, *Fact, Fiction and Forecast*, Cambridge, Massachusetts: Harvard University Press, fourth edition.
-* Gotts, N.M., 1994, “How far can we ‘C’? defining a doughnut using connection alone”, in *KR’94: Principles of Knowledge Representation and Reasoning*, Jon Doyle, Erik Sandewall, and Pietro Torasso (eds.), San Francisco, California: Morgan Kaufmann, 246–257.
+* Boutilier, Craig, 1996, “Iterated revision and minimal change of conditional beliefs”, _Journal of Philosophical Logic_, 25(3): 263–305.
+* Boutilier, Craig, Dean, Thomas, and Hanks, Steve, 1996, “Planning under uncertainty: Structural assumptions and computational leverage”, in _New Directions in AI Planning_, Malik Ghallab and Alfredo Milani (eds.), Amsterdam: IOS Press, 157–171.
+* Brachman, Ronald J., Levesque, Hector J., and Reiter,, Raymond, 1989, _KR’89: Principles of Knowledge Representation and Reasoning_, San Mateo, Morgan Kaufmann.
+* Brachman, Ronald J., McGuinness, Deborah L., Patel-Schneider, Peter F., and Resnik, Lori A., 1991, “Living with CLASSIC: When and how to use a KL-ONE-like language”, in _Principles of Semantic Networks_, John F. Sowa (ed.), San Mateo, California: Morgan Kaufmann, 401–456.
+* Brachman, Ronald J. and Levesque, Hector J., 2004, _Knowledge Representation and Reasoning_, Amsterdam: Elsevier.
+* Brewka, Gerhard, 1991, _Nonmonotonic Reasoning: Logical Foundations of Commonsense_, Cambridge, England: Cambridge University Press.
+* Brewka, Gerhard, Dix, Jürgen, and Konolige, Kurt, 1997, _Nonmonotonic Reasoning: An Overview_, Stanford: CSLI Publications.
+* Brewka, Gerhard and Lang, Jérôme (eds.), 2008, _KR2008: Proceedings of the Eleventh National Conference_, Menlo Park, California: AAAI Press.
+* Burger, Wilhelm and Bhanu, Bir, 1992, _Qualitative Motion Planning_, Dordrecht: Kluwer Academic Publishers.
+* Burkhard, Hans-Dieter, Hannebauer, Markus, and Wendler, Jan, 1998, “Belief-desire-intention deliberation in artificial soccer”, _The AI Magazine_, 1998(3): 87–93.
+* Burgess, John P., 1984, “Basic tense logic”, in _Handbook of Philosophical Logic, Volume II: Extensions of Classical Logic_, Dov Gabbay and Franz Guenther (eds.), Dordrecht: D. Reidel Publishing Co., 89–133.
+* Calvanese, Diego, Erdem, Esra, and Thielscher, Michael (eds.), 2020, _KR2020: Principles of Knowledge Representation and Reasoning_, Menlo Park, California: AAAI Press.
+* Carlson, Greg N. and Pelletier, Francis Jeffry (eds.), 1995, _The Generic Book_, Chicago, IL: Chicago University Press.
+* Carnap, Rudolph, 1955, “Meaning and synonymy in natural languages”, _Philosophical Studies_, 7: 33–47. Reprinted in [Carnap 1956](https://plato.stanford.edu/entries/logic-ai/#carnap:1956a), pp. 233–247.
+* Carnap, Rudolph, 1956, _Meaning and Necessity_, Chicago: Chicago University Press, second edition (First edition published in 1947.).
+* Casati, Roberto and Varzi, Achille C., 1996, _Holes and Other Superficialities_, Cambridge, Massachusetts: The MIT Press.
+* Casati, Roberto and Varzi, Achille C., 1999, _Parts and Places: The Structures of Spatial Representation_, Cambridge, Massachusetts: The MIT Press.
+* Casini, Giovanni and Straccia, Umberto, 2022, “A general framework for modelling conditional reasoning—Preliminary Report”, in _KR2022: Principles of Knowledge Representation and Reasoning, Proceedings of the Nineteenth International Conference_, Gabriele Kern-Isberner and Gerhard Lakemeyer and Thomas Meyer (eds.), Menlo Park, California, 575–595.
+* Chellas, Brian, 1975, “Basic conditional logic”, _Journal of Philosophical Logic_, 4(2): 133–154.
+* Chen, Su-Shing (ed.), 1990, _Advances in Spatial Reasoning, Volume 1_, Norwood, New Jersey: Ablex.
+* Chopra, Amit, van der Torre, Leon, Verhagen, Harko, and Villata, Serena 1997, _Handbook of Normative Multiagent Systems_, London: College Publications.
+* Clancey, William J., 1983, “The epistemology of a rule-based expert system: a framework for explanation”, _Artificial Intelligence_, 20: 215–251.
+* Clark, Keith L., 1978, “Negation as failure”, in _Logic and Data Bases_, H. Gallaire and Jack Minker (eds.), New York: Plenum Press, 293–322.
+* Clarke, Bowman L., 1981, “A calculus of individuals based on ‘connection’”, _Notre Dame Journal of Formal Logic_, 22(3): 204–218.
+* Clarke, Bowman L., 1985, “Individuals and points”, _Notre Dame Journal of Formal Logic_, 26(1): 61–75.
+* Cohen, Philip R. and Levesque, Hector J., 1990, “Intention is choice with commitment”, _Artificial Intelligence_, 42(3): 213–261.
+* Cohn, Anthony G., 1996, “Qualitative spatial representation and reasoning techniques”, in _KI-97, Advances in Artificial Intelligence_, Gerhard Brewka, Christopher Habel, and Bernhard Nebel (eds.), Berlin: Springer-Verlag, 1-30.
+* Cohn, Anthony G., Bennett, Brandon, Gooday, John, and Gotts, Nicholas M., 1997, “Representing and reasoning with qualitative spatial relations”, in _Spatial and Temporal Reasoning_, Oliviero Stock (ed.), Dordrecht: Kluwer Academic Publishers, 97–134.
+* Cohn, Anthony G., Schubert, Lenhart, and Shapiro, Stuart C. (eds.), 1998, _KR’98: Principles of Knowledge Representation and Reasoning_, San Francisco: Morgan Kaufmann.
+* Cohn, Anthony G., Giunchiglia, Fausto, and Selman, Bart (eds.), 2000, _KR2000: Principles of Knowledge Representation and Reasoning_, San Francisco: Morgan Kaufmann.
+* Copeland, B. Jack, 1996, “Arthur Prior’s life and legacy”, in _Logic and Reality: Essays on the Legacy of Arthur Prior_, Jack Copeland (ed.), Oxford: Oxford University Press, 1–40.
+* Davis, Ernest, 1991, _Common Sense Reasoning_, San Francisco: Morgan Kaufmann.
+* Davis, Ernest and Morgenstern, Leora, 2004, “Introduction: Progress in formal commonsense reasoning”, _Artificial Intelligence_, 153(1–2): 1–12.
+* Davis, Martin, 1988, “Mathematical Logic and the Origin of Modern Computers”, in _The Universal Turing Machine: A Half-Century Survey_, Jack Copeland (ed.), Oxford: Oxford University Press, 149–174.
+* Davis, Ernest, 2008, “Physical reasoning”, in _Handbook of Knowledge Representation_, van Harmelen, Frank, Lifschitz, Vladimir and Porter, Bruce (eds.), : Elsevier, 597–620.
+* DeJong, Gerald D. and Bennett, Scott W., 1989, “Permissive planning: Extending classical planning to uncertain task domains”, _Artificial Intelligence_, 89(1–2): 173–217.
+* Delgrande, James P., 1998, “Conditional logics for defeasible logics”, in _Handbook of Defeasible Reasoning and Uncertainty Management Systems, Volume 2_, Dov M. Gabbay and Philippe Smets (eds.), Dordrecht: Kluwer Academic Publishers, 135–174.
+* Deneker, Marc, Marek, Victor W., and Truszczyński, Miroslaw 1998, “Uniform semantic treatment of default and autoepistemic logics”, _Artificial Intelligence_, 143(1): 79–122.
+* Dennett, Daniel, 1987, “Cognitive wheels: The frame problem of AI”, in _The Robot’s Dilemma: The Frame Problem in Artificial Intelligence_, Zenon Pylyshyn (ed.), Norwood, New Jersey: Ablex Publishing Co., 41–64.
+* Doherty, Patrick, Fikes, Richard, and Sandewall, Erik (eds.), 2006, _KR’2006: Proceedings, Tenth International Conference on Principles of Knowledge Representation and Reasoning_, Palo Alto: AAAI Press.
+* Doyle, Jon, 1995, “A truth maintenance system”, _Artificial Intelligence_, 12(1): 231–272.
+* Doyle, Jon, Sandewall, Erik, and Torasso, Pietro (eds.), 1994, _KR’94: Principles of Knowledge Representation and Reasoning_, San Francisco: Morgan Kaufmann.
+* Doyle, Jon and Thomason, Richmond H., 1999, “Background to qualitative decision theory”, _AI Magazine_, 20(2): 55–68.
+* Dubois, Didier, Welty, Christopher, and Williams, Mary-Anne (eds.), 2004,_KR2004: Principles of Knowledge Representation and Reasoning_, Palo Alto: AAAI Press.
+* Eiter, Tomas, McIlraith, Sheila A., and Brewka, Gerald (eds.), 1992, _KR2012: Proceedings of the Thirteenth International Conference_, Menlo Park, California: AAAI Press.
+* Elkan, Charles, 1991, “Reasoning about action in first-order logic”, in _Proceedings of the Conference of the Canadian Society for Computational Studies of Intelligence (CSCSI)_, Canadian Society for Computational Studies of Intelligence, San Francisco: Morgan Kaufman, 221–227.
+* Elkan, Charles, 1995, “On solving the qualification problem”, in _Working Notes of the AAAI Spring Symposium on Extending Theories of Action: Formal Theories and Applications_, Menlo Park, California: American Association for Artificial Intelligence.
+* Fagin, Ronald, Halpern, Joseph Y., Moses, Yoram, and Vardi, Moshe Y., 1995, _Reasoning about Knowledge_, Cambridge, Massachusetts: The MIT Press.
+* Fensel, Dieter, Giunchiglia, Fausto, McGuinness, Deborah, and Williams, Mary-Anne (eds.), 2002, _KR2002: Principles of Knowledge Representation and Reasoning_, San Francisco, California: Morgan Kaufmann.
+* Fikes, Richard, 1996, “Ontologies: What are they, and where’s the research?”, in _KR’96: Principles of Knowledge Representation and Reasoning_, Luigia Carlucci Aiello, Jon Doyle, and Stuart Shapiro (eds.), San Francisco, California: Morgan Kaufmann, 652–654.
+* Finger, Jeffrey J., 1987, _Exploiting Constraints in Design Synthesis_, Ph.D. dissertation, Department of Computer Science, Stanford University, Stanford, California.
+* Fodor, Jerry A., 1987, “Modules, frames, fridgeons, sleeping dogs, and the music of the spheres”, in _The Robot’s Dilemma: The Frame Problem in Artificial Intelligence_, Zenon Pylyshyn (ed.), Norwood, New Jersey: Ablex Publishing Co., 139–149.
+* Forbus, Kenneth 2008, “Qualitative Modeling”, in _Handbook of Knowledge Representation_, van Harmelen, Frank, Lifschitz, Vladimir and Porter, Bruce (eds.), : Elsevier, 361–393.
+* Ford, Kenneth M. and Pylyshyn, Zenon (eds.), 1996, _The Robot’s Dilemma Revisited: The Frame Problem in Artificial Intelligence_, Norwood, New Jersey: Ablex Publishing Co.
+* Gabbay, Dov, Hogger, Christopher J., and Robinson, J. A. (eds.), 1994, _Handbook of Logic in Artificial Intelligence and Logic Programming, Volume 3: Nonmonotonic Reasoning and Uncertain Reasoning_, Oxford: Oxford University Press.
+* Gabbay, Dov M., 1995, “Conditional implications and non-monotonic consequence”, in _Conditionals: From Philosophy to Computer Science_, Gabriella Crocco, Luis Fariñas del Cerro, and A. Herzig (eds.), Oxford: Oxford University Press, 337–359.
+* Galton, Anthony, 1997, “Space, time, and movement”, in _Spatial and Temporal Reasoning_, Oliviero Stock (ed.), Dordrecht: Kluwer Academic Publishers, 321–352.
+* Gärdenfors, Peter and Makinson, David, 1994, “Nonmonotonic inferences based on expectations”, _Artificial Intelligence_, 65(2): 197–245.
+* Geffner, Hector, 1990, “Causal theories of nonmonotonic reasoning”, in _Proceedings of the Eighth National Conference on Artificial Intelligence_, Thomas Dietterich and William Swartout (eds.), American Association for Artificial Intelligence, Menlo Park, CA: AAAI Press, 524–530.
+* Geffner, Hector, 1992, _Default Reasoning: Causal and Conditional Theories_, Cambridge, Massachusetts: MIT Press.
+* Gelfond, Michael and Lifschitz, Vladimir, 1998, [“Action languages”](https://www.diva-portal.org/smash/get/diva2:1716299/FULLTEXT02.pdf), _Electronic Transactions on AI_, 3.
+* Genesereth, Michael and Nilsson, Nils J., 1987, _Logical Foundations of Artificial Intelligence_, San Mateo, California: Morgan Kaufmann.
+* Ghallab, Malik, Nau, Dana, and Traverso, Paolo, 2014, “The actor’s view of automated planning and acting: A position paper”, _Artificial Intelligence_, 208: 1–17.
+* Ginsberg, Matthew L. (ed.), 1987, _Readings in Nonmonotonic Reasoning_, Los Altos, California: Morgan Kaufmann. (Out of print.).
+* Giordano, Laura and Schwind, Camilla, 2004, “Conditional logic of actions and causation”, _Artificial Intelligence_, 157(1–2): 239–279.
+* Giunchiglia, Enrico, Kartha, G. Neelakantan, and Lifschitz, Vladimir, 1997, “Representing action: Indeterminacy and ramifications”, _Artificial Intelligence_, 95(2): 409–438.
+* Giunchiglia, Enrico and Lifschitz, Vladimir, 1998, “An action language based on causal explanation”, in _Proceedings of the Fourteenth National Conference on Artificial Intelligence and the Ninth Innovative Applications of Artificial Intelligence Conference_, Ted Senator and Bruce Buchanan (eds.), American Association for Artificial Intelligence, Menlo Park, California: AAAI Press, 623–628.
+* Glasgow, Janice, Narayanan, N. Hari, and Chandrasekaran, B. (eds.), 1995, _Diagrammatic Reasoning_, Cambridge, Massachusetts: The MIT Press.
+* Goodman, Nelson, 1946, _Fact, Fiction and Forecast_, Cambridge, Massachusetts: Harvard University Press, fourth edition.
+* Gotts, N.M., 1994, “How far can we ‘C’? defining a doughnut using connection alone”, in _KR’94: Principles of Knowledge Representation and Reasoning_, Jon Doyle, Erik Sandewall, and Pietro Torasso (eds.), San Francisco, California: Morgan Kaufmann, 246–257.
 * Gotts, N.M., 1996, “Topology from a single primitive relation: Defining topological properties and relations in terms of connection”, Tech. Rep. 96.24, School of Computer Studies, University of Leeds, Leeds.
 * Guha, Ramanathan V., 1991, “Contexts: a formalization and some applications”, Tech. Rep. STAN-CS-91-1399, Stanford Computer Science Department, Stanford, California.
-* Guidotti, Riccardo, Monreale, Anna, Ruggieri, Salvatore, Turini, Franco, Giannotti, Fosca, and Pedreschi, Dino, 2018, “A survey of methods for explaining black box models”, *ACM Computing Surveys*, 51(5): 1–42.
-* Gustaffson, Joakim and Doherty, Patrick, 1996, “Embracing occlusion in specifying the indirect effects of actions”, in *KR’96: Principles of Knowledge Representation and Reasoning*, Luigia Carlucci Aiello, Jon Doyle, and Stuart Shapiro (eds.), San Francisco, California: Morgan Kaufmann, 87–98.
-* Halpern, Joseph Y. (ed.), 1986, *Theoretical Aspects of Reasoning about Knowledge: Proceedings of the First Conference (TARK 1986)*, Los Altos, California: Morgan Kaufmann Publishers, Inc.
-* Halpern, Joseph L., 2016, *Actual Causality*, Cambridge, Massachusetts: The MIT Press.
-* Halpern, Joseph Y. and Moses, Yoram, 1985, “Towards a theory of knowledge and ignorance”, in *Logics and Models of Concurrent Systems*, Krzysztof R. Apt (ed.), Berlin: Springer-Verlag, 459–476.
-* Halpern, Joseph, and Pearl, Judea, 2001, “Causes and explanations: a Structural-model approach”, in *Uncertainty in Artificial Intelligence. Proceedings of the Seventeenth Conference*, San Francisco: Morgan Kaufmann, 194–202.
-* Hammer, Eric M., 1995, *Logic and Visual Information*, Stanford, California: CSLI Publications.
+* Guidotti, Riccardo, Monreale, Anna, Ruggieri, Salvatore, Turini, Franco, Giannotti, Fosca, and Pedreschi, Dino, 2018, “A survey of methods for explaining black box models”, _ACM Computing Surveys_, 51(5): 1–42.
+* Gustaffson, Joakim and Doherty, Patrick, 1996, “Embracing occlusion in specifying the indirect effects of actions”, in _KR’96: Principles of Knowledge Representation and Reasoning_, Luigia Carlucci Aiello, Jon Doyle, and Stuart Shapiro (eds.), San Francisco, California: Morgan Kaufmann, 87–98.
+* Halpern, Joseph Y. (ed.), 1986, _Theoretical Aspects of Reasoning about Knowledge: Proceedings of the First Conference (TARK 1986)_, Los Altos, California: Morgan Kaufmann Publishers, Inc.
+* Halpern, Joseph L., 2016, _Actual Causality_, Cambridge, Massachusetts: The MIT Press.
+* Halpern, Joseph Y. and Moses, Yoram, 1985, “Towards a theory of knowledge and ignorance”, in _Logics and Models of Concurrent Systems_, Krzysztof R. Apt (ed.), Berlin: Springer-Verlag, 459–476.
+* Halpern, Joseph, and Pearl, Judea, 2001, “Causes and explanations: a Structural-model approach”, in _Uncertainty in Artificial Intelligence. Proceedings of the Seventeenth Conference_, San Francisco: Morgan Kaufmann, 194–202.
+* Hammer, Eric M., 1995, _Logic and Visual Information_, Stanford, California: CSLI Publications.
 * Hanks, Steven and McDermott, Drew, 1985, “Temporal reasoning and default logics”, Tech. Rep. YALEU/CSD/RR#430, Department of Computer Science, Yale University, New Haven, Connecticut.
-* Hanks, Steven and McDermott, Drew, 1986, “Default reasoning, nonmonotonic logics and the frame problem”, in *Proceedings of the Fifth National Conference on Artificial Intelligence*, Tom Kehler and Stan Rosenschein (eds.), American Association for Artificial Intelligence, Los Altos, California: Morgan Kaufmann, 328–333.
-* Hanks, Steven and McDermott, Drew, 1987, “Non-monotonic logics and temporal projection”, *Artificial Intelligence*, 33(3): 379–412.
-* Haugeland, John, 1981, “Semantic engines: An introduction to mind design”, in *Mind Design*, John Haugeland (ed.), Cambridge, Massachusetts: The MIT Press, 1–34.
-* Haugh, Brian, 1987, “Simple causal minimization for temporal persistence and projection”, in *Proceedings of the Seventh National Conference on Artificial Intelligence*, Kenneth Forbus and Howard Shrobe (eds.), American Association for Artificial Intelligence, Menlo Park, California: AAAI Press, 218–223.
-* Hintikka, Jaakko, 1962, *Knowledge and Belief*, Ithaca, New York: Cornell University Press.
-* Hitchcock, Christopher, 2022, “Causal models”, in *The Stanford Encyclopedia of Philosophy*, Edward N. Zalta (ed.), URL https://plato.stanford.edu/archives/spr2022/entries/causal-models/.
-* Hobbs, Jerry and Gordon, Andrew, 2005, “Encoding knowledge of commonsense psychology”, *7th International Symposium on Logical Formalizations of Commonsense Reasoning.* May 22–24, 2005, Corfu, Greece.
-* Horty, John F., 1994, “Some direct theories of nonmonotonic inheritance”, in *Handbook of Logic in Artificial Intelligence and Logic Programming, Volume 3: Nonmonotonic Reasoning and Uncertain Reasoning*, Dov Gabbay, Christopher J. Hogger, and J. A. Robinson (eds.), Oxford University Press, 111–187.
-* Horty, John F., 2001, *Agency and Deontic Logic*, Oxford: Oxford University Press.
-* Horty, John, 2012, *Reasons as Defaults*, Oxford: Oxford University Press.
-* Israel, David J., 1991, “A short sketch of the life and career of John McCarthy”, in *Artificial Intelligence and Mathematical Theory of Computation: Papers in Honor of John McCarthy*, Vladimir Lifschitz (ed.), San Diego, California: Academic Press.
-* Iwasaki, Yumi and Simon, Herbert, 1986, “Causality in device behavior”, *Artificial Intelligence*, 29(1): 3–32.
+* Hanks, Steven and McDermott, Drew, 1986, “Default reasoning, nonmonotonic logics and the frame problem”, in _Proceedings of the Fifth National Conference on Artificial Intelligence_, Tom Kehler and Stan Rosenschein (eds.), American Association for Artificial Intelligence, Los Altos, California: Morgan Kaufmann, 328–333.
+* Hanks, Steven and McDermott, Drew, 1987, “Non-monotonic logics and temporal projection”, _Artificial Intelligence_, 33(3): 379–412.
+* Haugeland, John, 1981, “Semantic engines: An introduction to mind design”, in _Mind Design_, John Haugeland (ed.), Cambridge, Massachusetts: The MIT Press, 1–34.
+* Haugh, Brian, 1987, “Simple causal minimization for temporal persistence and projection”, in _Proceedings of the Seventh National Conference on Artificial Intelligence_, Kenneth Forbus and Howard Shrobe (eds.), American Association for Artificial Intelligence, Menlo Park, California: AAAI Press, 218–223.
+* Hintikka, Jaakko, 1962, _Knowledge and Belief_, Ithaca, New York: Cornell University Press.
+* Hitchcock, Christopher, 2022, “Causal models”, in _The Stanford Encyclopedia of Philosophy_, Edward N. Zalta (ed.), URL https://plato.stanford.edu/archives/spr2022/entries/causal-models/.
+* Hobbs, Jerry and Gordon, Andrew, 2005, “Encoding knowledge of commonsense psychology”, _7th International Symposium on Logical Formalizations of Commonsense Reasoning._ May 22–24, 2005, Corfu, Greece.
+* Horty, John F., 1994, “Some direct theories of nonmonotonic inheritance”, in _Handbook of Logic in Artificial Intelligence and Logic Programming, Volume 3: Nonmonotonic Reasoning and Uncertain Reasoning_, Dov Gabbay, Christopher J. Hogger, and J. A. Robinson (eds.), Oxford University Press, 111–187.
+* Horty, John F., 2001, _Agency and Deontic Logic_, Oxford: Oxford University Press.
+* Horty, John, 2012, _Reasons as Defaults_, Oxford: Oxford University Press.
+* Israel, David J., 1991, “A short sketch of the life and career of John McCarthy”, in _Artificial Intelligence and Mathematical Theory of Computation: Papers in Honor of John McCarthy_, Vladimir Lifschitz (ed.), San Diego, California: Academic Press.
+* Iwasaki, Yumi and Simon, Herbert, 1986, “Causality in device behavior”, _Artificial Intelligence_, 29(1): 3–32.
 * Johnston, Benjamin and Williams, Mary-Anne, “A generic framework for approximate simulation in commonsense reasoning systems”, AAAI 2007 Spring Symposium on Commonsense Reasoning, American Association for Artificial Intelligence, Menlo Park, 2007.
-* Kapur, Deepak and Mundy, Joseph L., 1988, “Geometric reasoning and artificial intelligence: Introduction to the special volume”, *Artificial Intelligence*, 37(1–3): 1–11.
-* Kern-Isberner, Gabriele, 2001, *Conditionals in Nonmonotonic Reasoning and Belief Revision: Considering Conditionals as Agents*, Berlin: Springer-Verlag.
-* Kern-Isberner, Gabriele, Lakemeyer, Gerhard, and Meyer, Thomas (eds.), 2022, *KR2022: Principles of Knowledge Representation and Reasoning*, Menlo Park, California: AAAI Press.
-* Konolige, Kurt, 1986, “What awareness isn’t: A sentential view of implicit and explicit belief”, in *Theoretical Aspects of Reasoning about Knowledge: Proceedings of the First Conference*, Joseph Y. Halpern (ed.), Los Altos, California: Morgan Kaufmann Publishers, Inc., 241–250.
-* Konolige, Kurt, 1988, “On the relation between default and autoepistemic logic”, *Artificial Intelligence*, 35(3): 343–382. (See also errata, Artificial Intelligence (1): 115.).
-* Konolige, Kurt, 1994, “Autoepistemic logic”, in *Handbook of Logic in Artificial Intelligence and Logic Programming, Volume 3: Nonmonotonic Reasoning and Uncertain Reasoning*, Dov Gabbay, Christopher J. Hogger, and J. A. Robinson (eds.), Oxford: Oxford University Press, 217–295.
-* Konolige, Kurt and Pollack, Martha, 1993, “A representationalist theory of intention”, in *Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence*, Ruzena Bajcsy (ed.), San Mateo, California: Morgan Kaufmann.
-* Kosslyn, Stephen Michael, 1990, “Visual cognition: Introduction”, in *An Invitation to Cognitive Science. Volume 2: Visual Cognition and Action*, Daniel N. Osherson and Howard Lasnik (eds.), Cambridge, Massachusetts: The MIT Press, 3–4.
-* Kowalski, Robert A. and Sergot, Marek J., 1986, “A logic-based calculus of events”, *New Generation Computing*, 4: 67–95.
-* Lakemeyer, Gerhard, 1997, “Limited reasoning in first-order knowledge bases”, *Artificial Intelligence*, 71(2): 213–255.
-* Laux, Armin and Wansing, Heinrich (eds.), 1995, *Knowledge and Belief in Philosophy and Artificial Intelligence*, Berlin: Akedemie Verlag.
-* Lehmann, Daniel and Magidor, Menachem, 1992, “What does a conditional knowledge base entail?”, *Artificial Intelligence*, 55(1): 1–60.
-* Lenat, Douglas B. and Guha, R.V., 1989, *Building Large Knowledge-Based Systems: Representation and Inference in the CYC Project.*, Reading, Massachusetts: Addison-Wesley Publishing Company.
-* Lent, Jeremy and Thomason, Richmond, 2015, “Action models for conditionals”, *Journal of Logic, Language, and Information*, 24(2): 211–231.
+* Kapur, Deepak and Mundy, Joseph L., 1988, “Geometric reasoning and artificial intelligence: Introduction to the special volume”, _Artificial Intelligence_, 37(1–3): 1–11.
+* Kern-Isberner, Gabriele, 2001, _Conditionals in Nonmonotonic Reasoning and Belief Revision: Considering Conditionals as Agents_, Berlin: Springer-Verlag.
+* Kern-Isberner, Gabriele, Lakemeyer, Gerhard, and Meyer, Thomas (eds.), 2022, _KR2022: Principles of Knowledge Representation and Reasoning_, Menlo Park, California: AAAI Press.
+* Konolige, Kurt, 1986, “What awareness isn’t: A sentential view of implicit and explicit belief”, in _Theoretical Aspects of Reasoning about Knowledge: Proceedings of the First Conference_, Joseph Y. Halpern (ed.), Los Altos, California: Morgan Kaufmann Publishers, Inc., 241–250.
+* Konolige, Kurt, 1988, “On the relation between default and autoepistemic logic”, _Artificial Intelligence_, 35(3): 343–382. (See also errata, Artificial Intelligence (1): 115.).
+* Konolige, Kurt, 1994, “Autoepistemic logic”, in _Handbook of Logic in Artificial Intelligence and Logic Programming, Volume 3: Nonmonotonic Reasoning and Uncertain Reasoning_, Dov Gabbay, Christopher J. Hogger, and J. A. Robinson (eds.), Oxford: Oxford University Press, 217–295.
+* Konolige, Kurt and Pollack, Martha, 1993, “A representationalist theory of intention”, in _Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence_, Ruzena Bajcsy (ed.), San Mateo, California: Morgan Kaufmann.
+* Kosslyn, Stephen Michael, 1990, “Visual cognition: Introduction”, in _An Invitation to Cognitive Science. Volume 2: Visual Cognition and Action_, Daniel N. Osherson and Howard Lasnik (eds.), Cambridge, Massachusetts: The MIT Press, 3–4.
+* Kowalski, Robert A. and Sergot, Marek J., 1986, “A logic-based calculus of events”, _New Generation Computing_, 4: 67–95.
+* Lakemeyer, Gerhard, 1997, “Limited reasoning in first-order knowledge bases”, _Artificial Intelligence_, 71(2): 213–255.
+* Laux, Armin and Wansing, Heinrich (eds.), 1995, _Knowledge and Belief in Philosophy and Artificial Intelligence_, Berlin: Akedemie Verlag.
+* Lehmann, Daniel and Magidor, Menachem, 1992, “What does a conditional knowledge base entail?”, _Artificial Intelligence_, 55(1): 1–60.
+* Lenat, Douglas B. and Guha, R.V., 1989, _Building Large Knowledge-Based Systems: Representation and Inference in the CYC Project._, Reading, Massachusetts: Addison-Wesley Publishing Company.
+* Lent, Jeremy and Thomason, Richmond, 2015, “Action models for conditionals”, _Journal of Logic, Language, and Information_, 24(2): 211–231.
 * Leśniewski, Stanisław, 1916, “Podstawy ogólnej teorii mnogosci I”, English Title: “Foundations of a general set theory I.”, Moscow: Popławski.
-* Levesque, Hector and Lakemeyer, Gerhard, 2000, *The Logic of Knowledge Bases*, Cambridge, Massachusetts: The MIT Press.
-* Levesque, Hector J., 1984, “A logic of implicit and explicit belief”, in *Proceedings of the Fourth National Conference on Artificial Intelligence*, American Association for Artificial Intelligence, 198–202.
-* Levesque, Hector J., 1987, “Taking issue: Guest editor’s introduction”, *Computational Intelligence*, 3(3): 149–150.
-* Levesque, Hector and Lakemeyer, Gerhard, 2008, “Cognitive robotics”, in *Handbook of Knowledge Representation*, Harmelen, Frank van, Lifschitz, Vladimir, and Porter, Bruce (eds.), Amsterdam: Elsevier, 969–886.
-* Levy, Alon Y., 2000, “Logic-based techniques in data integration”, in *Logic-Based Artificial Intelligence*, Jack Minker (ed.), Dordrecht: Kluwer Academic Publishers, 575–595.
-* Lin, Fangshen, Sattler, Ulrike, and Truszczyński, Miroslaw (eds.), 2010, *KR2010: Principles of Knowledge Representation and Reasoning*, Menlo Park, California: AAAI Press.
-* Lifschitz, Vladimir, 1987, “Formal theories of action: Preliminary report”, in *Proceedings of the Tenth International Joint Conference on Artificial Intelligence*, John McDermott (ed.), Los Altos, California: Morgan Kaufmann.
-* Lifschitz, Vladimir (ed.), 1990a, *Formalizing Common Sense: Papers by John McCarthy*, Norwood, New Jersey: Ablex Publishing Corporation.
-* Lifschitz, Vladimir, 1990b, “Understanding common sense: McCarthy’s research in artificial intelligence”, in *Formalizing Common Sense: Papers by John McCarthy*, Vladimir Lifschitz (ed.), Norwood, New Jersey: Ablex Publishing Corporation, 1–8.
-* Lifschitz, Vladimir, 1997, “On the logic of causal explanation”, *Artificial Intelligence*, 96(2): 451–465.
+* Levesque, Hector and Lakemeyer, Gerhard, 2000, _The Logic of Knowledge Bases_, Cambridge, Massachusetts: The MIT Press.
+* Levesque, Hector J., 1984, “A logic of implicit and explicit belief”, in _Proceedings of the Fourth National Conference on Artificial Intelligence_, American Association for Artificial Intelligence, 198–202.
+* Levesque, Hector J., 1987, “Taking issue: Guest editor’s introduction”, _Computational Intelligence_, 3(3): 149–150.
+* Levesque, Hector and Lakemeyer, Gerhard, 2008, “Cognitive robotics”, in _Handbook of Knowledge Representation_, Harmelen, Frank van, Lifschitz, Vladimir, and Porter, Bruce (eds.), Amsterdam: Elsevier, 969–886.
+* Levy, Alon Y., 2000, “Logic-based techniques in data integration”, in _Logic-Based Artificial Intelligence_, Jack Minker (ed.), Dordrecht: Kluwer Academic Publishers, 575–595.
+* Lin, Fangshen, Sattler, Ulrike, and Truszczyński, Miroslaw (eds.), 2010, _KR2010: Principles of Knowledge Representation and Reasoning_, Menlo Park, California: AAAI Press.
+* Lifschitz, Vladimir, 1987, “Formal theories of action: Preliminary report”, in _Proceedings of the Tenth International Joint Conference on Artificial Intelligence_, John McDermott (ed.), Los Altos, California: Morgan Kaufmann.
+* Lifschitz, Vladimir (ed.), 1990a, _Formalizing Common Sense: Papers by John McCarthy_, Norwood, New Jersey: Ablex Publishing Corporation.
+* Lifschitz, Vladimir, 1990b, “Understanding common sense: McCarthy’s research in artificial intelligence”, in _Formalizing Common Sense: Papers by John McCarthy_, Vladimir Lifschitz (ed.), Norwood, New Jersey: Ablex Publishing Corporation, 1–8.
+* Lifschitz, Vladimir, 1997, “On the logic of causal explanation”, _Artificial Intelligence_, 96(2): 451–465.
 * Lifschitz, Vladimir, 1998a, “Cracking an Egg: An Exercise in Commonsense Reasoning”, presented at the Fourth Symposium on Logical Formalizations of Commonsense Reasoning, London, January 1998. [Lifschitz 1998a available online in PostScript](https://www.cs.utexas.edu/\~vl/papers/egg.ps).
-* Lifschitz, Vladimir, 1998b, “Situation calculus and causal logic”, in *KR’98: Principles of Knowledge Representation and Reasoning*, Anthony G. Cohn, Lenhart Schubert, and Stuart C. Shapiro (eds.), San Francisco, California: Morgan Kaufmann, 536–546.
-* Lin, Fangzhen, 1995, “Embracing causality in specifying the indirect effects of actions”, in *Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence*, Chris Mellish (ed.), San Francisco: Morgan Kaufmann, 1985–1991.
-* Lin, Fangzhen, Sattler, Ulrike, and Truszczynski, Miroslaw (eds.), 2010, *KR2010: Proceedings of the Twelfth International Conference*, Palo Alto: AAAI Press.
-* Lormand, Eric, 1996, “The holorobophobe’s dilemma”, in *The Robot’s Dilemma Revisited: The Frame Problem in Artificial Intelligence*, Kenneth M. Ford and Zenon Pylyshyn (eds.), Norwood, New Jersey: Ablex Publishing Co., 61–88.
-* Łukaszewicz, Witold, 1990, *Non-Monotonic Reasoning: Formalization of Commonsense Reasoning*, New York: Ellis Horwood.
-* Makinson, David, 2005a, “How to go non-monotonic”, in *Handbook of Philosophical Logic* (Volume 12, Second edition), Dov Gabbay and Franz Guenthner (eds.), Berlin: Springer-Verlag, 175–278.
-* Makinson, David, 2005b, *Bridges from Classical to Nonmonotonic Logic*, London: King’s College Publications.
-* Makinson, David C. and Leendert van der Torre “Input/output logics”, *Journal of Philosophical Logic*, 29(4): 383–408.
-* Marek, Victor and Truszczynski, Mirosaw, 1991, “Autoepistemic logic”, *Journal of the Association for Computing Machinery*, 38(3): 588–619.
-* Marek, Wictor and Truszczynski, Mirosaw, 1989, “Relating autoepistemic and default logics”, in *KR’89: Principles of Knowledge Representation and Reasoning*, Ronald J. Brachman, Hector J. Levesque, and Raymond Reiter (eds.), San Mateo, California: Morgan Kaufmann, 276–288.
-* Marek, Wictor and Truszczynski, Mirosaw, 1994, *Nonmonotonic Logic: Context-Dependent Reasoning*, Berlin: Springer-Verlag.
-* McCain, Norman and Turner, Hudson, 1995, “A causal theory of ramifications and qualifications”, in *Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence*, Chris Mellish (ed.), San Francisco: Morgan Kaufmann, 1978–1984.
-* McCain, Norman and Turner, Hudson, 1997, “Causal theories of action and change”, in *Proceedings of the Thirteenth National Conference on Artificial Intelligence and the Eighth Innovative Applications of Artificial Intelligence Conference*, Howard Shrobe and Ted Senator (eds.), American Association for Artificial Intelligence, Menlo Park, California: AAAI Press, 460–465.
-* McCarthy, John, 1959, “Programs with common sense”, in *Proceedings of the Teddington Conference on the Mechanization of Thought Processes*, London: Her Majesty’s Stationary Office, 75–91.
-* McCarthy, John, 1979, “First order theories of individual concepts and propositions”, in *Machine Intelligence 9*, J.E. Hayes, D. Mitchie, and L.I. Mikulich (eds.), Chichester, England: Ellis Horwood, 129–148.
-* McCarthy, John, 1980, “Circumscription: A form of non-monotonic reasoning”, *Artificial Intelligence*, 13: 27–39.
+* Lifschitz, Vladimir, 1998b, “Situation calculus and causal logic”, in _KR’98: Principles of Knowledge Representation and Reasoning_, Anthony G. Cohn, Lenhart Schubert, and Stuart C. Shapiro (eds.), San Francisco, California: Morgan Kaufmann, 536–546.
+* Lin, Fangzhen, 1995, “Embracing causality in specifying the indirect effects of actions”, in _Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence_, Chris Mellish (ed.), San Francisco: Morgan Kaufmann, 1985–1991.
+* Lin, Fangzhen, Sattler, Ulrike, and Truszczynski, Miroslaw (eds.), 2010, _KR2010: Proceedings of the Twelfth International Conference_, Palo Alto: AAAI Press.
+* Lormand, Eric, 1996, “The holorobophobe’s dilemma”, in _The Robot’s Dilemma Revisited: The Frame Problem in Artificial Intelligence_, Kenneth M. Ford and Zenon Pylyshyn (eds.), Norwood, New Jersey: Ablex Publishing Co., 61–88.
+* Łukaszewicz, Witold, 1990, _Non-Monotonic Reasoning: Formalization of Commonsense Reasoning_, New York: Ellis Horwood.
+* Makinson, David, 2005a, “How to go non-monotonic”, in _Handbook of Philosophical Logic_ (Volume 12, Second edition), Dov Gabbay and Franz Guenthner (eds.), Berlin: Springer-Verlag, 175–278.
+* Makinson, David, 2005b, _Bridges from Classical to Nonmonotonic Logic_, London: King’s College Publications.
+* Makinson, David C. and Leendert van der Torre “Input/output logics”, _Journal of Philosophical Logic_, 29(4): 383–408.
+* Marek, Victor and Truszczynski, Mirosaw, 1991, “Autoepistemic logic”, _Journal of the Association for Computing Machinery_, 38(3): 588–619.
+* Marek, Wictor and Truszczynski, Mirosaw, 1989, “Relating autoepistemic and default logics”, in _KR’89: Principles of Knowledge Representation and Reasoning_, Ronald J. Brachman, Hector J. Levesque, and Raymond Reiter (eds.), San Mateo, California: Morgan Kaufmann, 276–288.
+* Marek, Wictor and Truszczynski, Mirosaw, 1994, _Nonmonotonic Logic: Context-Dependent Reasoning_, Berlin: Springer-Verlag.
+* McCain, Norman and Turner, Hudson, 1995, “A causal theory of ramifications and qualifications”, in _Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence_, Chris Mellish (ed.), San Francisco: Morgan Kaufmann, 1978–1984.
+* McCain, Norman and Turner, Hudson, 1997, “Causal theories of action and change”, in _Proceedings of the Thirteenth National Conference on Artificial Intelligence and the Eighth Innovative Applications of Artificial Intelligence Conference_, Howard Shrobe and Ted Senator (eds.), American Association for Artificial Intelligence, Menlo Park, California: AAAI Press, 460–465.
+* McCarthy, John, 1959, “Programs with common sense”, in _Proceedings of the Teddington Conference on the Mechanization of Thought Processes_, London: Her Majesty’s Stationary Office, 75–91.
+* McCarthy, John, 1979, “First order theories of individual concepts and propositions”, in _Machine Intelligence 9_, J.E. Hayes, D. Mitchie, and L.I. Mikulich (eds.), Chichester, England: Ellis Horwood, 129–148.
+* McCarthy, John, 1980, “Circumscription: A form of non-monotonic reasoning”, _Artificial Intelligence_, 13: 27–39.
 * McCarthy, John, 1983, “Situations, actions, and causal laws”, Tech. Rep. Memo 2, Stanford Artificial Intelligence Project, Stanford University.
-* McCarthy, John, 1986, “Applications of circumscription to formalizing common sense knowledge”, *Artificial Intelligence*, 13: 27–39.
-* McCarthy, John, 1987, “Epistemological problems of artificial intelligence”, in *Readings in Nonmonotonic Reasoning*, Matthew L. Ginsberg (ed.), Los Altos, California: Morgan Kaufmann, 46–55.
-* McCarthy, John, 1993a, “History of circumscription”, *Artificial Intelligence*, 59: 23–26.
-* McCarthy, John, 1993b, “Notes on formalizing contexts”, in *Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence*, Ruzena Bajcsy (ed.), San Mateo, California: Morgan Kaufmann, 555–560.
+* McCarthy, John, 1986, “Applications of circumscription to formalizing common sense knowledge”, _Artificial Intelligence_, 13: 27–39.
+* McCarthy, John, 1987, “Epistemological problems of artificial intelligence”, in _Readings in Nonmonotonic Reasoning_, Matthew L. Ginsberg (ed.), Los Altos, California: Morgan Kaufmann, 46–55.
+* McCarthy, John, 1993a, “History of circumscription”, _Artificial Intelligence_, 59: 23–26.
+* McCarthy, John, 1993b, “Notes on formalizing contexts”, in _Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence_, Ruzena Bajcsy (ed.), San Mateo, California: Morgan Kaufmann, 555–560.
 * McCarthy, John, 1999, [“Elaboration tolerance”](http://www-formal.stanford.edu/jmc/elaboration.html) .
-* McCarthy, John and Buvac, Saša, 1998, “Formalizing context (expanded notes)”, in *Computing Natural Language*, Atocha Aliseda, Rob van Glabbeek, and Dag Westerståhl (eds.), Stanford, California: CSLI Publications, 13–50.
-* McCarthy, John and Hayes, Patrick J., 1969, “Some philosophical problems from the standpoint of artificial intelligence”, in *Machine Intelligence 4*, B. Meltzer and D. Michie (eds.), Edinburgh: Edinburgh University Press, 463–502.
-* McDermott, Drew, 1982, “Nonmonotonic logic II: Nonmonotonic modal theories”, *Journal of the Association for Computing Machinery*, 29(1): 33–57.
-* McDermott, Drew and Doyle, Jon, 1980, “Non-monotonic logic I”, *Artificial Intelligence*, 13: 41–72.
-* Meyer, John-Jules Ch. and van der Hoek, Wiebe, 1995, *Epistemic Logic for AI and Computer Science*, Cambridge: Cambridge University Press.
-* Minker, Jack, 1997, “Logic and databases: Past, present and future”, *AI Magazine*, 18(3): 21–47.
-* Minker, Jack, 2000a, “Introduction to logic-based artificial intelligence”, in *Logic-Based Artificial Intelligence*, Jack Minker (ed.), Dordrecht: Kluwer Academic Publishers, 3–33.
-* Minker, Jack (ed.), 2000, *Logic-Based Artificial Intelligence*, Dordrecht: Kluwer Academic Publishers.
+* McCarthy, John and Buvac, Saša, 1998, “Formalizing context (expanded notes)”, in _Computing Natural Language_, Atocha Aliseda, Rob van Glabbeek, and Dag Westerståhl (eds.), Stanford, California: CSLI Publications, 13–50.
+* McCarthy, John and Hayes, Patrick J., 1969, “Some philosophical problems from the standpoint of artificial intelligence”, in _Machine Intelligence 4_, B. Meltzer and D. Michie (eds.), Edinburgh: Edinburgh University Press, 463–502.
+* McDermott, Drew, 1982, “Nonmonotonic logic II: Nonmonotonic modal theories”, _Journal of the Association for Computing Machinery_, 29(1): 33–57.
+* McDermott, Drew and Doyle, Jon, 1980, “Non-monotonic logic I”, _Artificial Intelligence_, 13: 41–72.
+* Meyer, John-Jules Ch. and van der Hoek, Wiebe, 1995, _Epistemic Logic for AI and Computer Science_, Cambridge: Cambridge University Press.
+* Minker, Jack, 1997, “Logic and databases: Past, present and future”, _AI Magazine_, 18(3): 21–47.
+* Minker, Jack, 2000a, “Introduction to logic-based artificial intelligence”, in _Logic-Based Artificial Intelligence_, Jack Minker (ed.), Dordrecht: Kluwer Academic Publishers, 3–33.
+* Minker, Jack (ed.), 2000, _Logic-Based Artificial Intelligence_, Dordrecht: Kluwer Academic Publishers.
 * Minsky, Marvin, 1974, “A framework for representing knowledge”, Tech. Rep. 306, Artificial Intelligence Laboratory, MIT. Republished in several places, including [Haugeland 1981](https://plato.stanford.edu/entries/logic-ai/#haugeland:1981b).
-* Moore, Johanna, 1995, *Participating in Explanatory Dialogues*, The MIT Press.
-* Moore, Robert C., 1993, “Autoepistemic logic revisited”, *Artificial Intelligence*, 59(1–2): 27–30.
-* Moore, Robert C., 1995, *Logic and Representation*, Cambridge, England: Cambridge University Press.
-* Morgenstern, Leora, 1996, “The problem with solutions to the frame problem”, in *The Robot’s Dilemma Revisited: The Frame Problem in Artificial Intelligence*, Kenneth M. Ford and Zenon Pylyshyn (eds.), Norwood, New Jersey: Ablex Publishing Co., 99–133.
-* Morgenstern, Leora, 2001, “Mid-Sized Axiomatizations of Commonsense Problems: A Case Study in Egg Cracking”, *Studia Logica*, 67(3):333–384.
-* Morgenstern, Leora and Stein, Lynn, 1994, “Motivated action theory: a formal theory of causal reasoning”, *Artificial Intelligence*, 71(1): 1–42.
-* Mueller, Erik T., 2006, *Common Sense Reasoning*, Elsevier.
-* Nakashima, Hideyuki, Matsubara, Hitoshi, and Osawa, Ichiro, 1997, “Causality as a key to the frame problem”, *Artificial Intelligence*, 91(1): 37–50.
-* Nebel, Bernhard, Rich, Charles, and Swartout, William (eds.), 1992, *KR’: Principles of Knowledge Representation and Reasoning*, San Francisco: Morgan Kaufmann.
-* Nilsson, Nils J., 1991, “Logic and artificial intelligence”, *Artificial Intelligence*, 47(1–3): 31–56.
-* Ohrstrom, Peter and Hasle, Per F.V., 1995, *Temporal Logic from Ancient Ideas to Artificial Intelligence*, Dordrecht: Kluwer Academic Publishers.
-* Osherson, Daniel N. and Lasnik, Howard (eds.), 1990, *An Invitation to Cognitive Science. Volume 2: Visual Cognition and Action*, Cambridge, Massachusetts: The MIT Press.
-* Pearl, Judea, 1994, “From Adams’ conditionals to default expressions, causal conditionals, and counterfactuals”, in *Probability and Conditionals: Belief Revision and Rational Decision*, Ellery Eells and Brian Skyrms (eds.), Cambridge, England: Cambridge University Press, 47–74.
-* Pearl, Judea, 2000, *Causality: Models, Reasoning, and Inference*, Cambridge, England: Cambridge University Press.
-* Perlis, Donald, 1985, “Languages with self-reference I: Foundations”, *Artificial Intelligence*, 25: 301–322.
-* Pollack, Martha, 1992, “The uses of plans”, *Artificial Intelligence*, 57(1): 43–68.
-* Pollock, John L., 1995, *Cognitive Carpentry: A Manual for How to Build a Person*, Cambridge, Massachusetts: The MIT Press.
-* Prior, Arthur, 1956, *Time and Modality*, Oxford: Oxford University Press.
-* Prior, Arthur, 1967, *Past, Present and Future*, Oxford: Oxford University Press.
-* Prior, Arthur, 1968, *Papers on Time and Tense*, Oxford: Oxford University Press.
-* Pylyshyn, Zenon (ed.), 1987, *The Robot’s Dilemma: The Frame Problem in Artificial Intelligence*, Norwood, New Jersey: Ablex Publishing Co.
-* Quine, Willard V.O, 1960, “Variables explained away”, in *Selected Logic Papers*, Willard V. Quine (ed.), Cambridge, Massachusetts: Harvard University Press, 227–235.
-* Rahwan, Iyad and Simari, Guillermo R., 2009, *Argumentation in Artificial Intelligence*, Berlin: Springer-Verlag.
-* Reiter, Raymond, 1978, “On closed world data bases”, in *Logic and Data Bases*, H. Gallaire and J. Minker (eds.), New York: Plenum Press, 55–76.
-* Reiter, Raymond, 1980, “A logic for default reasoning”, *Artificial Intelligence*, 13: 81–32.
-* Reiter, Raymond, 1993, “Proving properties of states in the situation calculus”, *Artificial Intelligence*, 64: 337–351.
-* Reiter, Raymond, 2001, *Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems*, Cambridge, Massachusetts: The MIT Press.
-* Rendsvig, Rasmus and Symons,John 2022, “Epistemic logic”, in *The Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward M. Zalta (ed.), URL =[https://plato.stanford.edu/archives/spr2022/entries/logic-epistemic/“](https://plato.stanford.edu/archives/spr2022/entries/logic-epistemic/).
-* Renz, Jochen and Nebel, Bernhard, 1999, ”On the complexity of qualitative spatial reasoning: A maximal tractable fragment of the region connection calculus“, *Artificial Intelligence*, 108(1–2): 69–123.
-* Rosenschein, Stanley J., 1989, ”Synthesizing information-tracking automata from environment descriptions“, in *KR’89: Principles of Knowledge Representation and Reasoning*, Ronald J. Brachman, Hector J. Levesque, and Raymond Reiter (eds.), San Mateo, California: Morgan Kaufmann, 386–393.
-* Rosenschein, Stanley J. and Kaelbling, Leslie Pack, 1995, ”A situated view of representation and control“, *Artificial Intelligence*, 73(1–2): 149–173.
-* Russell, Stuart and Norvig, Peter, 2020, *Artificial Intelligence: A Modern Approach*, Englewood Cliffs, New Jersey: Prentice Hall, fourth edition.
-* Russell, Stuart J. and Wefald, Eric, 1991, *Do the Right Thing*, Cambridge, Massachusetts: The MIT Press.
-* Sadek, M.D., 1992, ”A study in the logic of intention“, in *KR’92. Principles of Knowledge Representation and Reasoning: Proceedings of the Third International Conference*, Bernhard Nebel, Charles Rich, and William Swartout (eds.), San Mateo, California: Morgan Kaufmann, 462–473.
-* Sandewall, Eric, 1972, ”An approach to the frame problem, and its implementation“, in *Machine Intelligence 7*, D. Michie and B. Meltzer (eds.), Edinburgh University Press, 195–204.
-* Sandewall, Erik, 1994, *Features and Fluents: A Systematic Approach to the Representation of Knowledge About Dynamical Systems*, Oxford: Oxford University Press.
-* Schlechta, Karl, 1997, *Nonmonotonic Logics*, Berlin: Springer-Verlag.
-* Schlechta, Karl, 2007, ”Non-monotonic logics: A preferential approach“, in *Handbook of the History of Logic, Volume 8: The Many-Valued and Nonmonotonic Turn in Logic*, Dov Gabbay and John Woods (eds.), Amsterdam: Elsevier Science Publishers, 451–516.
-* Schubert, Lenhart, 1990, ”Monotonic solution of the frame problem in the situation calculus; an efficient method for worlds with fully specified actions“, in *Knowledge Representation and Defeasible Reasoning*, Henry Kyburg, Ronald Loui, and Greg Carlson (eds.), Dordrecht: Kluwer Academic Publishers, 23–67.
-* Seligman, Jerry and Moss, Lawrence S., 1996, ”Situation theory“, in *Handbook of Logic and Language*, Johan van Benthem and Alice ter Meulen (eds.), Amsterdam: Elsevier, 239–307.
-* Shanahan, Murray, 1997, *Solving the Frame Problem*, Cambridge, Massachusetts: The MIT Press.
-* Shanahan, Murray, 2004, ”An attempt to formalise a non-trivial benchmark problem in common sense reasoning“, *Artificial Intelligence*, 153(1–2): 141–165.
-* Shanahan, Murray, 2009, ”The Frame Problem“, *The Stanford Encyclopedia of Philosophy* (Winter 2009 Edition), Edward N. Zalta (ed.), URL [The Frame Problem (Stanford Encyclopedia of Philosophy/Winter 2009 Edition)](https://plato.stanford.edu/archives/win2009/entries/frame-problem/).
-* Shoham, Yoav, 1988, *Reasoning About Change: Time and Causation From the Standpoint of Artificial Intelligence*, Cambridge, Massachusetts: The MIT Press.
-* Simon, Herbert, 1952, ”On the definition of the causal relation“, *The Journal of Philosophy*, 49: 517–528.
+* Moore, Johanna, 1995, _Participating in Explanatory Dialogues_, The MIT Press.
+* Moore, Robert C., 1993, “Autoepistemic logic revisited”, _Artificial Intelligence_, 59(1–2): 27–30.
+* Moore, Robert C., 1995, _Logic and Representation_, Cambridge, England: Cambridge University Press.
+* Morgenstern, Leora, 1996, “The problem with solutions to the frame problem”, in _The Robot’s Dilemma Revisited: The Frame Problem in Artificial Intelligence_, Kenneth M. Ford and Zenon Pylyshyn (eds.), Norwood, New Jersey: Ablex Publishing Co., 99–133.
+* Morgenstern, Leora, 2001, “Mid-Sized Axiomatizations of Commonsense Problems: A Case Study in Egg Cracking”, _Studia Logica_, 67(3):333–384.
+* Morgenstern, Leora and Stein, Lynn, 1994, “Motivated action theory: a formal theory of causal reasoning”, _Artificial Intelligence_, 71(1): 1–42.
+* Mueller, Erik T., 2006, _Common Sense Reasoning_, Elsevier.
+* Nakashima, Hideyuki, Matsubara, Hitoshi, and Osawa, Ichiro, 1997, “Causality as a key to the frame problem”, _Artificial Intelligence_, 91(1): 37–50.
+* Nebel, Bernhard, Rich, Charles, and Swartout, William (eds.), 1992, _KR’: Principles of Knowledge Representation and Reasoning_, San Francisco: Morgan Kaufmann.
+* Nilsson, Nils J., 1991, “Logic and artificial intelligence”, _Artificial Intelligence_, 47(1–3): 31–56.
+* Ohrstrom, Peter and Hasle, Per F.V., 1995, _Temporal Logic from Ancient Ideas to Artificial Intelligence_, Dordrecht: Kluwer Academic Publishers.
+* Osherson, Daniel N. and Lasnik, Howard (eds.), 1990, _An Invitation to Cognitive Science. Volume 2: Visual Cognition and Action_, Cambridge, Massachusetts: The MIT Press.
+* Pearl, Judea, 1994, “From Adams’ conditionals to default expressions, causal conditionals, and counterfactuals”, in _Probability and Conditionals: Belief Revision and Rational Decision_, Ellery Eells and Brian Skyrms (eds.), Cambridge, England: Cambridge University Press, 47–74.
+* Pearl, Judea, 2000, _Causality: Models, Reasoning, and Inference_, Cambridge, England: Cambridge University Press.
+* Perlis, Donald, 1985, “Languages with self-reference I: Foundations”, _Artificial Intelligence_, 25: 301–322.
+* Pollack, Martha, 1992, “The uses of plans”, _Artificial Intelligence_, 57(1): 43–68.
+* Pollock, John L., 1995, _Cognitive Carpentry: A Manual for How to Build a Person_, Cambridge, Massachusetts: The MIT Press.
+* Prior, Arthur, 1956, _Time and Modality_, Oxford: Oxford University Press.
+* Prior, Arthur, 1967, _Past, Present and Future_, Oxford: Oxford University Press.
+* Prior, Arthur, 1968, _Papers on Time and Tense_, Oxford: Oxford University Press.
+* Pylyshyn, Zenon (ed.), 1987, _The Robot’s Dilemma: The Frame Problem in Artificial Intelligence_, Norwood, New Jersey: Ablex Publishing Co.
+* Quine, Willard V.O, 1960, “Variables explained away”, in _Selected Logic Papers_, Willard V. Quine (ed.), Cambridge, Massachusetts: Harvard University Press, 227–235.
+* Rahwan, Iyad and Simari, Guillermo R., 2009, _Argumentation in Artificial Intelligence_, Berlin: Springer-Verlag.
+* Reiter, Raymond, 1978, “On closed world data bases”, in _Logic and Data Bases_, H. Gallaire and J. Minker (eds.), New York: Plenum Press, 55–76.
+* Reiter, Raymond, 1980, “A logic for default reasoning”, _Artificial Intelligence_, 13: 81–32.
+* Reiter, Raymond, 1993, “Proving properties of states in the situation calculus”, _Artificial Intelligence_, 64: 337–351.
+* Reiter, Raymond, 2001, _Knowledge in Action: Logical Foundations for Specifying and Implementing Dynamical Systems_, Cambridge, Massachusetts: The MIT Press.
+* Rendsvig, Rasmus and Symons,John 2022, “Epistemic logic”, in _The Stanford Encyclopedia of Philosophy_ (Spring 2022 Edition), Edward M. Zalta (ed.), URL =[https://plato.stanford.edu/archives/spr2022/entries/logic-epistemic/“](https://plato.stanford.edu/archives/spr2022/entries/logic-epistemic/).
+* Renz, Jochen and Nebel, Bernhard, 1999, ”On the complexity of qualitative spatial reasoning: A maximal tractable fragment of the region connection calculus“, _Artificial Intelligence_, 108(1–2): 69–123.
+* Rosenschein, Stanley J., 1989, ”Synthesizing information-tracking automata from environment descriptions“, in _KR’89: Principles of Knowledge Representation and Reasoning_, Ronald J. Brachman, Hector J. Levesque, and Raymond Reiter (eds.), San Mateo, California: Morgan Kaufmann, 386–393.
+* Rosenschein, Stanley J. and Kaelbling, Leslie Pack, 1995, ”A situated view of representation and control“, _Artificial Intelligence_, 73(1–2): 149–173.
+* Russell, Stuart and Norvig, Peter, 2020, _Artificial Intelligence: A Modern Approach_, Englewood Cliffs, New Jersey: Prentice Hall, fourth edition.
+* Russell, Stuart J. and Wefald, Eric, 1991, _Do the Right Thing_, Cambridge, Massachusetts: The MIT Press.
+* Sadek, M.D., 1992, ”A study in the logic of intention“, in _KR’92. Principles of Knowledge Representation and Reasoning: Proceedings of the Third International Conference_, Bernhard Nebel, Charles Rich, and William Swartout (eds.), San Mateo, California: Morgan Kaufmann, 462–473.
+* Sandewall, Eric, 1972, ”An approach to the frame problem, and its implementation“, in _Machine Intelligence 7_, D. Michie and B. Meltzer (eds.), Edinburgh University Press, 195–204.
+* Sandewall, Erik, 1994, _Features and Fluents: A Systematic Approach to the Representation of Knowledge About Dynamical Systems_, Oxford: Oxford University Press.
+* Schlechta, Karl, 1997, _Nonmonotonic Logics_, Berlin: Springer-Verlag.
+* Schlechta, Karl, 2007, ”Non-monotonic logics: A preferential approach“, in _Handbook of the History of Logic, Volume 8: The Many-Valued and Nonmonotonic Turn in Logic_, Dov Gabbay and John Woods (eds.), Amsterdam: Elsevier Science Publishers, 451–516.
+* Schubert, Lenhart, 1990, ”Monotonic solution of the frame problem in the situation calculus; an efficient method for worlds with fully specified actions“, in _Knowledge Representation and Defeasible Reasoning_, Henry Kyburg, Ronald Loui, and Greg Carlson (eds.), Dordrecht: Kluwer Academic Publishers, 23–67.
+* Seligman, Jerry and Moss, Lawrence S., 1996, ”Situation theory“, in _Handbook of Logic and Language_, Johan van Benthem and Alice ter Meulen (eds.), Amsterdam: Elsevier, 239–307.
+* Shanahan, Murray, 1997, _Solving the Frame Problem_, Cambridge, Massachusetts: The MIT Press.
+* Shanahan, Murray, 2004, ”An attempt to formalise a non-trivial benchmark problem in common sense reasoning“, _Artificial Intelligence_, 153(1–2): 141–165.
+* Shanahan, Murray, 2009, ”The Frame Problem“, _The Stanford Encyclopedia of Philosophy_ (Winter 2009 Edition), Edward N. Zalta (ed.), URL [The Frame Problem (Stanford Encyclopedia of Philosophy/Winter 2009 Edition)](https://plato.stanford.edu/archives/win2009/entries/frame-problem/).
+* Shoham, Yoav, 1988, _Reasoning About Change: Time and Causation From the Standpoint of Artificial Intelligence_, Cambridge, Massachusetts: The MIT Press.
+* Simon, Herbert, 1952, ”On the definition of the causal relation“, _The Journal of Philosophy_, 49: 517–528.
 * Simon, Herbert, 1966, ”On reasoning about action“, Tech. Rep. Complex Information Processing Paper #87, Carnegie Institute of Technology, Pittsburgh, Pennsylvania.
-* Simon, Herbert A., 1977, *Models of Discovery*, Dordrecht: D. Reidel Publishing Co.
-* Simon, Herbert A., 1982a, *Models of Bounded Rationality, Volume 1*, Cambridge, Massachusetts: The MIT Press.
-* Simon, Herbert A., 1982b, *Models of Bounded Rationality, Volume 2*, Cambridge, Massachusetts: The MIT Press.
-* Simons, Peter, 1987, *Parts: A Study in Ontology*, Oxford: Oxford University Press.
-* Snidaro, Lauro, Herrero Jesús Garcíia, Llinas, James, and Blash, Erik, 2019, ”Recent trends in context exploitation for information fusion and AI“, *The AI Magazine*, 40(3): 14–27.
-* Stalnaker, Robert C., 1993, ”A note on non-monotonic modal logic“, *Artificial Intelligence*, 64(2): 183–196. Widely circulated in manuscript form, 1980 to 1992.
-* Stefik, Mark J., 1995, *An Introduction to Knowledge Systems*, San Francisco: Morgan Kaufmann.
-* Stock, Oliviero (ed.), 1997, *Spatial and Temporal Reasoning*, Dordrecht: Kluwer Academic Publishers.
-* Stone, Matthew, 1998, *Modality in Dialogue: Planning, Pragmatics and Computation*, Ph.D. dissertation, Computer Science Department, University of Pennsylvania, Philadelphia, Pennsylvania.
-* Straßer, Christian, 2014, *Adaptive Logic and Defeasible Reasoning: Applications in Argumentation, Normative Reasoning and Default Reasoning*, Berlin: Springer Verlag.
-* Straßer, Christian, and Antonelli, G. Aldo, 2019, ”Non-Monotonic Logic“, *The Stanford Encyclopedia of Philosophy* (Winter 2012 Edition), Edward N. Zalta (ed.), URL [Non-monotonic Logic (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/logic-nonmonotonic/).
-* Thielscher, Michael, 1989, ”Ramification and causality“, *Artificial Intelligence*, 89(1–2): 317–364.
-* Thielscher, Michael, 1996, ”Causality and the qualification problem“, in *KR’96: Principles of Knowledge Representation and Reasoning*, Luigia Carlucci Aiello, Jon Doyle, and Stuart Shapiro (eds.), San Francisco, California: Morgan Kaufmann, 51–62.
-* Thielscher, Michael, 2005, *Reasoning Robots: The Art and Science of Programming Robotic Agents*, Dordrecht: Kluwer Academic Publishers.
-* Thielscher, Michael, Toni, Francesco, and Wolter, Frank (eds.), 2018, *KR2018: Principles of Knowledge Representation and Reasoning*, Menlo Park, California: AAAI Press.
-* Thomason, Richmond H., 1992, ”NETL and subsequent path-based inheritance theories“, in *Semantic Networks in Artificial Intelligence*, Fritz Lehmann (ed.), Oxford: Pergamon Press, 179–204.
-* Thomason, Richmond, 2003, ”Dynamic contextual intensional logic: logical foundations and an application“, in *Modeling and Using Context: Fourth International and Interdisciplinary Conference*, Patrick Blackburn, Chiara Ghidini, and Roy Turner (eds.), Berlin: Springer-Verlag, 328-341.
-* Thomason, Richmond, 2005, ”Making contextual intensional logic nonmonotonic“, in *Modeling and Using Context: Fifth International and Interdisciplinary Conference*, Anind Dey, Boicho Kokinov, David Leake, and Roy Turner (eds.), Berlin: Springer-Verlag, 502–514.
-* Turner, Hudson, 1999, ”A logic of universal causation“, *Artificial Intelligence*, 113(1–2): 87–123.
-* van Benthem, Johan, 1983, *The Logic of Time*, Dordrecht: D. Reidel Publishing Company.
-* van der Torre, Leendert W.N., 1997, *Reasoning about Obligations: Defeasibility in Preference-Based Deontic Logic*, Amsterdam: Thesis Publishers.
-* van Harmelen, Frank, Lifschitz, Vladimir, and Porter, Bruce (eds.) 2008,*Handbook of Knowledge Representation*, Amsterdam: Elsevier.
-* von Wright, Georg Henrik, 1983, *Practical Reason: Philosophical Papers, Volume 1*, Ithaca: Cornell University Press.
-* Weld, Daniel S. and de Kleer, Johan (eds.), 1990, *Qualitative Reasoning about Physical Systems*, San Mateo, California: Morgan Kaufmann.
-* Wilson, Randall H., 1998, ”Geometric reasoning about assembly tools“, *Artificial Intelligence*, 98(1–2): 237–279.
-* Wobcke, Wayne, Pagnucco, Maurice, and Zhang, C. (eds.), 1998, *Agents and Multi-Agent Systems—Formalisms, Methodologies, and Applications*, Berlin: Springer-Verlag.
-* Wolter, Frank and Zakharyaschev, Michael, 2000, ”Spatio-temporal representation and reasoning based on RCC-8“, in *KR2000: Principles of Knowledge Representation and Reasoning*, Anthony G. Cohn, Fausto Giunchiglia, and Bart Selman (eds.), San Francisco: Morgan Kaufmann, 3–14.
-* Woods, William A. and Schmolze, James G., 1992, ”The KL-ONE family“, in *Semantic Networks in Artificial Intelligence*, Fritz Lehmann (ed.), Oxford: Pergamon Press, 133–177.
-* Wooldridge, Michael J., 2000, *Reasoning about Rational Agents*, Cambridge, England: Cambridge University Press.
-* Yeap, Wai K. and Jeffries, Margaret E., 1999, ”Computing a representation of the local environment“, *Artificial Intelligence*, 107(2): 265–301.
+* Simon, Herbert A., 1977, _Models of Discovery_, Dordrecht: D. Reidel Publishing Co.
+* Simon, Herbert A., 1982a, _Models of Bounded Rationality, Volume 1_, Cambridge, Massachusetts: The MIT Press.
+* Simon, Herbert A., 1982b, _Models of Bounded Rationality, Volume 2_, Cambridge, Massachusetts: The MIT Press.
+* Simons, Peter, 1987, _Parts: A Study in Ontology_, Oxford: Oxford University Press.
+* Snidaro, Lauro, Herrero Jesús Garcíia, Llinas, James, and Blash, Erik, 2019, ”Recent trends in context exploitation for information fusion and AI“, _The AI Magazine_, 40(3): 14–27.
+* Stalnaker, Robert C., 1993, ”A note on non-monotonic modal logic“, _Artificial Intelligence_, 64(2): 183–196. Widely circulated in manuscript form, 1980 to 1992.
+* Stefik, Mark J., 1995, _An Introduction to Knowledge Systems_, San Francisco: Morgan Kaufmann.
+* Stock, Oliviero (ed.), 1997, _Spatial and Temporal Reasoning_, Dordrecht: Kluwer Academic Publishers.
+* Stone, Matthew, 1998, _Modality in Dialogue: Planning, Pragmatics and Computation_, Ph.D. dissertation, Computer Science Department, University of Pennsylvania, Philadelphia, Pennsylvania.
+* Straßer, Christian, 2014, _Adaptive Logic and Defeasible Reasoning: Applications in Argumentation, Normative Reasoning and Default Reasoning_, Berlin: Springer Verlag.
+* Straßer, Christian, and Antonelli, G. Aldo, 2019, ”Non-Monotonic Logic“, _The Stanford Encyclopedia of Philosophy_ (Winter 2012 Edition), Edward N. Zalta (ed.), URL [Non-monotonic Logic (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/logic-nonmonotonic/).
+* Thielscher, Michael, 1989, ”Ramification and causality“, _Artificial Intelligence_, 89(1–2): 317–364.
+* Thielscher, Michael, 1996, ”Causality and the qualification problem“, in _KR’96: Principles of Knowledge Representation and Reasoning_, Luigia Carlucci Aiello, Jon Doyle, and Stuart Shapiro (eds.), San Francisco, California: Morgan Kaufmann, 51–62.
+* Thielscher, Michael, 2005, _Reasoning Robots: The Art and Science of Programming Robotic Agents_, Dordrecht: Kluwer Academic Publishers.
+* Thielscher, Michael, Toni, Francesco, and Wolter, Frank (eds.), 2018, _KR2018: Principles of Knowledge Representation and Reasoning_, Menlo Park, California: AAAI Press.
+* Thomason, Richmond H., 1992, ”NETL and subsequent path-based inheritance theories“, in _Semantic Networks in Artificial Intelligence_, Fritz Lehmann (ed.), Oxford: Pergamon Press, 179–204.
+* Thomason, Richmond, 2003, ”Dynamic contextual intensional logic: logical foundations and an application“, in _Modeling and Using Context: Fourth International and Interdisciplinary Conference_, Patrick Blackburn, Chiara Ghidini, and Roy Turner (eds.), Berlin: Springer-Verlag, 328-341.
+* Thomason, Richmond, 2005, ”Making contextual intensional logic nonmonotonic“, in _Modeling and Using Context: Fifth International and Interdisciplinary Conference_, Anind Dey, Boicho Kokinov, David Leake, and Roy Turner (eds.), Berlin: Springer-Verlag, 502–514.
+* Turner, Hudson, 1999, ”A logic of universal causation“, _Artificial Intelligence_, 113(1–2): 87–123.
+* van Benthem, Johan, 1983, _The Logic of Time_, Dordrecht: D. Reidel Publishing Company.
+* van der Torre, Leendert W.N., 1997, _Reasoning about Obligations: Defeasibility in Preference-Based Deontic Logic_, Amsterdam: Thesis Publishers.
+* van Harmelen, Frank, Lifschitz, Vladimir, and Porter, Bruce (eds.) 2008,_Handbook of Knowledge Representation_, Amsterdam: Elsevier.
+* von Wright, Georg Henrik, 1983, _Practical Reason: Philosophical Papers, Volume 1_, Ithaca: Cornell University Press.
+* Weld, Daniel S. and de Kleer, Johan (eds.), 1990, _Qualitative Reasoning about Physical Systems_, San Mateo, California: Morgan Kaufmann.
+* Wilson, Randall H., 1998, ”Geometric reasoning about assembly tools“, _Artificial Intelligence_, 98(1–2): 237–279.
+* Wobcke, Wayne, Pagnucco, Maurice, and Zhang, C. (eds.), 1998, _Agents and Multi-Agent Systems—Formalisms, Methodologies, and Applications_, Berlin: Springer-Verlag.
+* Wolter, Frank and Zakharyaschev, Michael, 2000, ”Spatio-temporal representation and reasoning based on RCC-8“, in _KR2000: Principles of Knowledge Representation and Reasoning_, Anthony G. Cohn, Fausto Giunchiglia, and Bart Selman (eds.), San Francisco: Morgan Kaufmann, 3–14.
+* Woods, William A. and Schmolze, James G., 1992, ”The KL-ONE family“, in _Semantic Networks in Artificial Intelligence_, Fritz Lehmann (ed.), Oxford: Pergamon Press, 133–177.
+* Wooldridge, Michael J., 2000, _Reasoning about Rational Agents_, Cambridge, England: Cambridge University Press.
+* Yeap, Wai K. and Jeffries, Margaret E., 1999, ”Computing a representation of the local environment“, _Artificial Intelligence_, 107(2): 265–301.
 
 ## Academic Tools
 
@@ -883,4 +883,4 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 I am grateful to John McCarthy, who read an early draft of this article and provided extensive and helpful comments.
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-Richmond Thomason <[*rthomaso@umich.edu*](mailto:rthomaso%40umich%2eedu)>
+Richmond Thomason <[_rthomaso@umich.edu_](mailto:rthomaso%40umich%2eedu)>

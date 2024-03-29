@@ -1,6 +1,6 @@
 # 论点与论证 argument and argumentation (Catarina Dutilh Novaes)
 
-*首次发布于 2021 年 7 月 16 日*
+_首次发布于 2021 年 7 月 16 日_
 
 论点是哲学的一个核心概念。哲学家们在论证主张时严重依赖论点，并且这些实践已经激发了对论点与论证的思考数千年。此外，论证实践也普遍存在于其他领域；它们渗透于科学探究、法律程序、教育和政治机构。论证研究是一个跨学科的研究领域，涉及哲学家、语言理论家、法学学者、认知科学家、计算机科学家和政治科学家等众多学科。本文概述了关于论证的文献，主要参考了哲学来源，同时广泛涉及其他学科的相关来源。
 
@@ -58,23 +58,23 @@
 
 > 所有人类都是生物。所有生物都是有限的。因此，所有人类都是有限的。
 
-在一个演绎有效的论证中，只要前提为真，结论在*所有*情况下都是真的，没有例外。对这个观点稍微更加技术性的解释如下：在所有可能的世界中，只要前提成立，结论也将成立。这意味着，如果我知道演绎有效的论证的前提在给定的情况下是真实的，那么我可以毫无疑问地得出结论在该情况下也是真实的。演绎论证通常与（但有例外，比如相关逻辑）相关的一个重要特性是*单调性*：如果前提*A*和*B*演绎出结论*C*，那么任意添加一个前提*D*都不会使论证无效。换句话说，如果论证“*A*和*B*；因此*C*”是演绎有效的，那么论证“*A*、*B*和*D*；因此*C*”同样是演绎有效的。
+在一个演绎有效的论证中，只要前提为真，结论在_所有_情况下都是真的，没有例外。对这个观点稍微更加技术性的解释如下：在所有可能的世界中，只要前提成立，结论也将成立。这意味着，如果我知道演绎有效的论证的前提在给定的情况下是真实的，那么我可以毫无疑问地得出结论在该情况下也是真实的。演绎论证通常与（但有例外，比如相关逻辑）相关的一个重要特性是_单调性_：如果前提_A_和_B_演绎出结论_C_，那么任意添加一个前提_D_都不会使论证无效。换句话说，如果论证“_A_和_B_；因此_C_”是演绎有效的，那么论证“_A_、_B_和_D_；因此_C_”同样是演绎有效的。
 
-演绎论证是熟悉的逻辑系统（如（经典）命题逻辑和谓词逻辑）以及亚经典系统（如直觉主义逻辑和相关逻辑）的研究对象（尽管在相关逻辑中，单调性的特性不成立，因为它可能导致前提和结论之间的相关性标准的违反——请参见[相关逻辑](https://plato.stanford.edu/entries/logic-relevance/)）。在这些系统中，所讨论的逻辑蕴涵关系满足必要真理保持的特性（请参见[逻辑蕴涵](https://plato.stanford.edu/entries/logical-consequence/)）。这并不奇怪，因为这些系统最初是为了捕捉一种非常特定的论证形式而设计的，即*数学*论证（证明），这一点在 Frege、Russell、Hilbert、Gentzen 等人的开创性工作中得到了体现。遵循古希腊数学中确立的范例，并以欧几里得的《几何原本》著称，数学证明中的论证步骤（至少在这个传统中）必须具有必要真理保持的特性（Netz 1999）。这个范例影响了几千年，并且仍然规范着可以被描述为“经典”数学证明观念（Dutilh Novaes 2020a），即使证明的实践也是多样的。（事实上，在数学中的论证不仅仅是演绎论证\[Aberdein & Dove 2013]。）
+演绎论证是熟悉的逻辑系统（如（经典）命题逻辑和谓词逻辑）以及亚经典系统（如直觉主义逻辑和相关逻辑）的研究对象（尽管在相关逻辑中，单调性的特性不成立，因为它可能导致前提和结论之间的相关性标准的违反——请参见[相关逻辑](https://plato.stanford.edu/entries/logic-relevance/)）。在这些系统中，所讨论的逻辑蕴涵关系满足必要真理保持的特性（请参见[逻辑蕴涵](https://plato.stanford.edu/entries/logical-consequence/)）。这并不奇怪，因为这些系统最初是为了捕捉一种非常特定的论证形式而设计的，即_数学_论证（证明），这一点在 Frege、Russell、Hilbert、Gentzen 等人的开创性工作中得到了体现。遵循古希腊数学中确立的范例，并以欧几里得的《几何原本》著称，数学证明中的论证步骤（至少在这个传统中）必须具有必要真理保持的特性（Netz 1999）。这个范例影响了几千年，并且仍然规范着可以被描述为“经典”数学证明观念（Dutilh Novaes 2020a），即使证明的实践也是多样的。（事实上，在数学中的论证不仅仅是演绎论证\[Aberdein & Dove 2013]。）
 
-然而，一些哲学家认为演绎有效性和必要真理保持实际上是不同的。一些人通过熟悉的逻辑悖论（如说谎者悖论或 Curry 的悖论）得出了这个结论（Beall 2009；Field 2008；请参见[说谎者悖论](https://plato.stanford.edu/entries/liar-paradox/)和[Curry 的悖论](https://plato.stanford.edu/entries/curry-paradox/)）。还有人辩护说存在着*有条件的逻辑真理*（Kaplan 1989；Nelson & Zalta 2012），这挑战了必要真理保持的观念。也有人提出，在从前提到结论的过程中，保持的是*保证或可断言性*而不是真理（Restall 2004）。还有一些人，比如对于半矛盾逻辑的保全主义方法的支持者，认为演绎蕴涵关系所保持的是一组前提的一致性或不一致性（Schotch、Brown 和 Jennings 2009；请参见[半矛盾逻辑](https://plato.stanford.edu/entries/logic-paraconsistent/)）。然而，公正地说，演绎有效性主要是以必要真理保持的观点来理解仍然是被接受的观点。
+然而，一些哲学家认为演绎有效性和必要真理保持实际上是不同的。一些人通过熟悉的逻辑悖论（如说谎者悖论或 Curry 的悖论）得出了这个结论（Beall 2009；Field 2008；请参见[说谎者悖论](https://plato.stanford.edu/entries/liar-paradox/)和[Curry 的悖论](https://plato.stanford.edu/entries/curry-paradox/)）。还有人辩护说存在着_有条件的逻辑真理_（Kaplan 1989；Nelson & Zalta 2012），这挑战了必要真理保持的观念。也有人提出，在从前提到结论的过程中，保持的是_保证或可断言性_而不是真理（Restall 2004）。还有一些人，比如对于半矛盾逻辑的保全主义方法的支持者，认为演绎蕴涵关系所保持的是一组前提的一致性或不一致性（Schotch、Brown 和 Jennings 2009；请参见[半矛盾逻辑](https://plato.stanford.edu/entries/logic-paraconsistent/)）。然而，公正地说，演绎有效性主要是以必要真理保持的观点来理解仍然是被接受的观点。
 
 相关地，关于演绎的证明存在一些紧迫的哲学问题，比如演绎中所涉及的必然性的确切性质（形而上学的、逻辑的、语言的、认识论的；Shapiro 2005），以及是否可能为演绎提供一个非循环的基础（Dummett 1978）。此外，人们常常指出，演绎论证不具备扩大性可能意味着它不能提供信息，这反过来又意味着它的实用性相当有限；这个问题被描述为“演绎的丑闻”（Sequoiah-Grayson 2008）。
 
-不管怎样，自从亚里士多德在《前分析》（*Prior Analytics*）中提出了第一个完整的演绎论证和推理理论（以及相应的科学证明理论，《后分析》*Posterior Analytics*；参见[历史补充](https://plato.stanford.edu/entries/argument/supplement.html)），演绎论证一直在哲学和科学中占据着特殊的地位。演绎论证的迷人之处在于其确定性和无可置疑性。*几何学的更多*（这是斯宾诺莎引入的一个短语，用来描述他的《伦理学》的论证结构遵循“几何学风格”——参见[斯宾诺莎](https://plato.stanford.edu/entries/spinoza/)条目）在数学以外的许多领域产生了影响。然而，对演绎论证的关注可能过分偏向于其他类型的论证，这在某种程度上可能使对论点与论证的研究偏离了一个特定的方向（参见（Bermejo-Luque 2020）对演绎主义在论证研究中的批评）。
+不管怎样，自从亚里士多德在《前分析》（_Prior Analytics_）中提出了第一个完整的演绎论证和推理理论（以及相应的科学证明理论，《后分析》_Posterior Analytics_；参见[历史补充](https://plato.stanford.edu/entries/argument/supplement.html)），演绎论证一直在哲学和科学中占据着特殊的地位。演绎论证的迷人之处在于其确定性和无可置疑性。_几何学的更多_（这是斯宾诺莎引入的一个短语，用来描述他的《伦理学》的论证结构遵循“几何学风格”——参见[斯宾诺莎](https://plato.stanford.edu/entries/spinoza/)条目）在数学以外的许多领域产生了影响。然而，对演绎论证的关注可能过分偏向于其他类型的论证，这在某种程度上可能使对论点与论证的研究偏离了一个特定的方向（参见（Bermejo-Luque 2020）对演绎主义在论证研究中的批评）。
 
-近几十年来，一种观点逐渐流行起来，即日常推理和论证很大程度上不遵循演绎论证的规范。在推理心理学中，Oaksford 和 Chater 在上世纪 80 年代就首次提出了人类推理在“野外”中本质上是概率性的，遵循贝叶斯概率的基本规范（Oaksford & Chater 2018；Elqayam 2018；参见下面的[第 5.3 节](https://plato.stanford.edu/entries/argument/#CrosCultPersArgu)）。计算机科学家和人工智能研究人员也对非单调推理和论证产生了浓厚的兴趣（Reiter 1980），他们认识到，在特定的科学背景之外，人类推理往往是深具*可驳斥性*（Pollock 1987；参见[非单调逻辑](https://plato.stanford.edu/entries/logic-nonmonotonic/)和[可驳斥推理](https://plato.stanford.edu/entries/reasoning-defeasible/)条目）。因此，从这个角度来看，演绎论证可能被认为是人类整体论证实践中的例外而不是规则（Dutilh Novaes 2020a）。但也有其他人，尤其是哲学家，仍然坚持认为演绎推理和论证的使用是广泛的，并且超越了专家领域（Shapiro 2014；Williamson 2018）。
+近几十年来，一种观点逐渐流行起来，即日常推理和论证很大程度上不遵循演绎论证的规范。在推理心理学中，Oaksford 和 Chater 在上世纪 80 年代就首次提出了人类推理在“野外”中本质上是概率性的，遵循贝叶斯概率的基本规范（Oaksford & Chater 2018；Elqayam 2018；参见下面的[第 5.3 节](https://plato.stanford.edu/entries/argument/#CrosCultPersArgu)）。计算机科学家和人工智能研究人员也对非单调推理和论证产生了浓厚的兴趣（Reiter 1980），他们认识到，在特定的科学背景之外，人类推理往往是深具_可驳斥性_（Pollock 1987；参见[非单调逻辑](https://plato.stanford.edu/entries/logic-nonmonotonic/)和[可驳斥推理](https://plato.stanford.edu/entries/reasoning-defeasible/)条目）。因此，从这个角度来看，演绎论证可能被认为是人类整体论证实践中的例外而不是规则（Dutilh Novaes 2020a）。但也有其他人，尤其是哲学家，仍然坚持认为演绎推理和论证的使用是广泛的，并且超越了专家领域（Shapiro 2014；Williamson 2018）。
 
 ### 2.2 归纳
 
 归纳论证是一种通过对过去实例和规律的观察，得出关于未来实例和一般原则的结论的论证。例如，对太阳每天都从东方升起的观察，可以得出明天太阳仍将从东方升起的结论，并得出“太阳总是从东方升起”的一般原则。一般来说，归纳论证是基于统计频率，从而超越最初考虑的样本案例的一般化：从已观察到未观察。在一个好的归纳论证中，即一个“有力”的归纳论证中，前提的真实性对于结论的真实性提供了一定程度的支持。与演绎有效论证相比，在归纳论证中，支持程度永远不会达到最大，因为在前提为真的情况下，结论可能是错误的。用可能世界的术语来解释，演绎有效论证中，结论在所有前提成立的可能世界中都成立，而在一个好的归纳论证中，结论在大部分前提成立的可能世界中成立。这些世界的比例可以衡量前提对结论的支持程度（参见[归纳逻辑](https://plato.stanford.edu/entries/logic-inductive/)条目）。
 
-归纳论证在科学和其他领域已经被认可和使用了几千年。归纳的概念（希腊语中的*epagoge*）被亚里士多德理解为从个别到普遍的进展，并在他对科学方法和辩证实践的构想中占据重要地位（参见[亚里士多德的逻辑，第 3.1 节](https://plato.stanford.edu/entries/aristotle-logic/#IndDed)条目）。然而，在亚里士多德传统中，科学方法的演绎主义观念仍然更具影响力，受到《后分析》中科学证明理论的启发。直到现代早期的所谓“科学革命”，实验和个别案例的观察才成为科学方法论的支柱之一，这一转变与弗朗西斯·培根（1561-1626）的形象密切相关（参见[弗朗西斯·培根](https://plato.stanford.edu/entries/francis-bacon/)条目）。
+归纳论证在科学和其他领域已经被认可和使用了几千年。归纳的概念（希腊语中的_epagoge_）被亚里士多德理解为从个别到普遍的进展，并在他对科学方法和辩证实践的构想中占据重要地位（参见[亚里士多德的逻辑，第 3.1 节](https://plato.stanford.edu/entries/aristotle-logic/#IndDed)条目）。然而，在亚里士多德传统中，科学方法的演绎主义观念仍然更具影响力，受到《后分析》中科学证明理论的启发。直到现代早期的所谓“科学革命”，实验和个别案例的观察才成为科学方法论的支柱之一，这一转变与弗朗西斯·培根（1561-1626）的形象密切相关（参见[弗朗西斯·培根](https://plato.stanford.edu/entries/francis-bacon/)条目）。
 
 归纳推理/论证在科学和日常生活中无处不在，并且在很大程度上是相当可靠的。我们周围世界的运作似乎展示了相当数量的统计规律性，这在归纳问题的文献中被称为“一致性原则”（稍后将讨论）。此外，有人认为从先前观察到的频率进行概括是人类认知最基本的原则（Clark 2016）。
 
@@ -96,13 +96,13 @@
 
 ### 2.4 类比
 
-类比论点基于这样的观点：如果两个事物相似，那么对其中一个事物的真实性也很可能适用于另一个事物（参见[类比和类推推理](https://plato.stanford.edu/entries/reasoning-analogy/)）。类比论点广泛应用于人类活动的不同领域，例如在法律背景下（参见[法律推理中的先例和类比](https://plato.stanford.edu/entries/legal-reas-prec/)）。举个例子，以反对以非人类动物作为食物消费的论点为例：如果外星物种以人类作为食物进行养殖，那是错误的；因此，通过类比，我们人类以非人类动物作为食物进行养殖也是错误的。这个普遍的观点可以用以下模式来表达（改编自[类比和类推推理](https://plato.stanford.edu/entries/reasoning-analogy/)的条目；*S*是源领域，*T*是类比的目标领域）：
+类比论点基于这样的观点：如果两个事物相似，那么对其中一个事物的真实性也很可能适用于另一个事物（参见[类比和类推推理](https://plato.stanford.edu/entries/reasoning-analogy/)）。类比论点广泛应用于人类活动的不同领域，例如在法律背景下（参见[法律推理中的先例和类比](https://plato.stanford.edu/entries/legal-reas-prec/)）。举个例子，以反对以非人类动物作为食物消费的论点为例：如果外星物种以人类作为食物进行养殖，那是错误的；因此，通过类比，我们人类以非人类动物作为食物进行养殖也是错误的。这个普遍的观点可以用以下模式来表达（改编自[类比和类推推理](https://plato.stanford.edu/entries/reasoning-analogy/)的条目；_S_是源领域，_T_是类比的目标领域）：
 
-1. *S*在某些（已知的）方面与*T*相似。
-2. *S*具有进一步的特征*Q*。
-3. 因此，*T*也具有特征*Q*，或者与*Q*相似的某个特征*Q*。
+1. _S_在某些（已知的）方面与_T_相似。
+2. _S_具有进一步的特征_Q_。
+3. 因此，_T_也具有特征_Q_，或者与_Q_相似的某个特征_Q_。
 
-第一个前提建立了两种情况、对象、现象等之间的类比。第二个前提陈述了源领域具有某个属性。因此，结论是目标领域也具有这个属性，或者具有相应的合适对应物。虽然信息丰富，但这个模式并不能区分好的类比论证和不好的类比论证，因此在解释什么是好的类比论证方面并没有提供太多的帮助。实际上，有争议的情况通常涉及前提 1，特别是关于*S*和*T*是否在某种程度上足够相似，这种相似性与是否具有特征*Q*相关。
+第一个前提建立了两种情况、对象、现象等之间的类比。第二个前提陈述了源领域具有某个属性。因此，结论是目标领域也具有这个属性，或者具有相应的合适对应物。虽然信息丰富，但这个模式并不能区分好的类比论证和不好的类比论证，因此在解释什么是好的类比论证方面并没有提供太多的帮助。实际上，有争议的情况通常涉及前提 1，特别是关于_S_和_T_是否在某种程度上足够相似，这种相似性与是否具有特征_Q_相关。
 
 类比论点广泛存在于所有已知的哲学传统中，包括三个主要的古代传统：希腊、中国和印度（参见[历史补充](https://plato.stanford.edu/entries/argument/supplement.html)）。类比在古希腊哲学文本中随处可见，例如在柏拉图的对话录中。例如，在《哥吉亚斯》中，修辞的技巧被比作烘焙点心-诱人但最终不健康-而哲学则对应于医学-潜在的痛苦和不愉快，但对灵魂/身体有益（Irani 2017）。亚里士多德在《先验分析》和《论题》中广泛讨论了类比（参见[类比和类比推理条目的第 3.2 节](https://plato.stanford.edu/entries/reasoning-analogy/#AriThe)）。在古代中国哲学中，类比占据了非常重要的地位；事实上，它可能是中国思想家主要的论证形式。墨家思想家对类比论点特别感兴趣（参见有关[中国早期哲学中的逻辑和语言](https://plato.stanford.edu/entries/chinese-logic-language/)、[墨家主义](https://plato.stanford.edu/entries/mohism/)和[墨家经典](https://plato.stanford.edu/entries/mohist-canons/)的条目）。在拉丁中世纪传统中，类比也受到了持续的关注，特别是在逻辑、神学和形而上学领域（参见[中世纪类比理论的条目](https://plato.stanford.edu/entries/analogy-medieval/)）。
 
@@ -132,11 +132,11 @@
 
 ### 3.1 对抗性与合作性论证
 
-过去几十年的文献中，一个受到广泛关注的问题是论证活动是主要对抗性的还是主要合作性的。实际上，这个问题对应着两个子问题：*描述性*问题，即论证实例总体上是主要对抗性的还是合作性的；以及*规范性*问题，即论证*应该*是（主要）对抗性的还是合作性的。一些作者对描述性问题回答“对抗性”，对规范性问题回答“合作性”，从而指出了实践和规范理想之间存在的差异，这种差异需要得到纠正（或者他们声称如此；Cohen 1995）。
+过去几十年的文献中，一个受到广泛关注的问题是论证活动是主要对抗性的还是主要合作性的。实际上，这个问题对应着两个子问题：_描述性_问题，即论证实例总体上是主要对抗性的还是合作性的；以及_规范性_问题，即论证_应该_是（主要）对抗性的还是合作性的。一些作者对描述性问题回答“对抗性”，对规范性问题回答“合作性”，从而指出了实践和规范理想之间存在的差异，这种差异需要得到纠正（或者他们声称如此；Cohen 1995）。
 
 一个例子是：最近，一些极右派的网络名人主张论证可以用来压倒对手，正如白人至上主义者 S. Molyneux 在他的著作《论证的艺术：西方文明的最后防线》（2017）中所描述的那样。这种激进的做法反映了将论证视为一种竞争或战斗的观念，其中目标是“得分”和“击败对手”。批评（过度）对抗性论证实践的作者包括（Moulton 1983；Gilbert 1994；Rooney 2012；Hundleby 2013；Bailin & Battersby 2016）。其中许多（但不是全部）作者特别从女性主义的角度提出了批评（参见[女性主义对论证的观点](https://plato.stanford.edu/entries/feminism-argumentation/)）。
 
-对抗性论证的女性主义批评挑战了将论证视为一种竞争形式的理念，其中男性编码的侵略和暴力价值观占主导地位（Kidd 2020）。对于这些作者来说，这种理念鼓励了过度使用强硬手段的论证表演。侵略性论证的实例反过来产生了一系列问题：认识论后果——通过对抗性论证无法最好地追求真理，以及道德/伦理/政治后果——这些做法排除了许多人参与论证交流，特别是那些侵略行为不构成社会可接受行为的人（尤其是女性和其他社会弱势群体）。这些作者捍卫了将论证视为一种合作、培育活动的替代观念（Gilbert 1994；Bailin & Battersby 2016），这些观念传统上是女性编码的价值观。关键是，他们认为对抗性论证的观念是*可选的*，坚持认为替代观念同样合法，并且应该被采纳和培养。
+对抗性论证的女性主义批评挑战了将论证视为一种竞争形式的理念，其中男性编码的侵略和暴力价值观占主导地位（Kidd 2020）。对于这些作者来说，这种理念鼓励了过度使用强硬手段的论证表演。侵略性论证的实例反过来产生了一系列问题：认识论后果——通过对抗性论证无法最好地追求真理，以及道德/伦理/政治后果——这些做法排除了许多人参与论证交流，特别是那些侵略行为不构成社会可接受行为的人（尤其是女性和其他社会弱势群体）。这些作者捍卫了将论证视为一种合作、培育活动的替代观念（Gilbert 1994；Bailin & Battersby 2016），这些观念传统上是女性编码的价值观。关键是，他们认为对抗性论证的观念是_可选的_，坚持认为替代观念同样合法，并且应该被采纳和培养。
 
 相比之下，其他人认为，适当理解时，对抗性实际上可以被视为论证的一个组成部分，事实上也是可取的（Govier 1999；Aikin 2011；Casey 2020；但请注意，这些作者各自对论证中的对抗性提出了不同的解释）。这些作者对上述描述性和规范性问题都回答了“对抗性”。一个总体主题是需要区分（过度的）侵略性和对抗性本身。例如，Govier 区分了辅助（负面的）对抗性和最小对抗性（Govier 1999）。这种想法是，虽然女性主义对论证中过度侵略的批评是正确的，但是以不同方式构思和实践的对抗性论证不一定会像更极端的好战论证版本那样产生不利后果。此外，对于这些作者来说，论证中的对抗性根本不是可选的：它是论证实践的固有特征，但这些实践也需要合作和一致的背景，例如对接受的推理规则的共识。
 
@@ -150,7 +150,7 @@
 
 良好论证的规范主要致力于促进真实言辞的传播和揭示虚假，无论是有意还是无意的。\[...] 良好论证的规范是一种鼓励通过真诚、不懈怠和相互纠正的言辞交流来交换真理的实践的一部分。（Goldman 1994: 30）
 
-当然，至少在理论上，按照这些方式与自己进行辩论，权衡立场的利弊是可能的。但是，许多哲学家，尤其是约翰·斯图尔特·密尔，认为涉及真正意见不合的人之间的*人际*辩论情境最能实现辩论的认识潜力，以改善我们的信念（他在《论自由》（1859 年）中阐述了这一观点；请参阅[约翰·斯图尔特·密尔](https://plato.stanford.edu/entries/mill/)条目）。当我们的观念受到与我们意见不合的人的挑战时，我们被迫更加深入和批判地考虑自己的信念。结果是，那些经受住了批判挑战的信念将比我们在此类交流之前持有的信念更加坚实。因此，持不同意见者通过对自己不同意的立场采取批判性立场，迫使我们保持认识论警觉，而不是对现有的根深蒂固的信念感到过于舒适。根据这种观念，辩论者通过对立立场采取对抗性的批判立场来相互合作。
+当然，至少在理论上，按照这些方式与自己进行辩论，权衡立场的利弊是可能的。但是，许多哲学家，尤其是约翰·斯图尔特·密尔，认为涉及真正意见不合的人之间的_人际_辩论情境最能实现辩论的认识潜力，以改善我们的信念（他在《论自由》（1859 年）中阐述了这一观点；请参阅[约翰·斯图尔特·密尔](https://plato.stanford.edu/entries/mill/)条目）。当我们的观念受到与我们意见不合的人的挑战时，我们被迫更加深入和批判地考虑自己的信念。结果是，那些经受住了批判挑战的信念将比我们在此类交流之前持有的信念更加坚实。因此，持不同意见者通过对自己不同意的立场采取批判性立场，迫使我们保持认识论警觉，而不是对现有的根深蒂固的信念感到过于舒适。根据这种观念，辩论者通过对立立场采取对抗性的批判立场来相互合作。
 
 辩论旨在提高认识的观点在许多方面都很有吸引力，但是在许多现实情况下，这是否反映了辩论的实际结果还是值得怀疑的。实际上，似乎往往我们在辩论时并不像密尔那样：我们不倾向于以开放的心态接受异议意见。事实上，有相当多的证据表明，在大多数现实情况下，辩论实际上并不是改变观念的一种非常有效的手段（Gordon-Smith 2019）。人们通常不愿意改变对根深蒂固信念的看法，因此当面对与这些信念相矛盾的论证或证据时，他们往往要么回避，要么贬低论证的来源不可靠（Dutilh Novaes 2020c）——这也被称为“确认偏见”现象（Nickerson 1998）。
 
@@ -172,13 +172,13 @@
 
 > 在一个不公正的社会中，所谓的合作理由交换实际上延续了压迫的模式。（Goodwin 2007: 77）
 
-这个普遍观点已经被一些政治思想家提出（例如，Young 2000），他们强调了以共识为导向的政治讨论的排斥性含义。结果是，共识不仅可能是辩论的一个不切实际的目标；在许多情况下，它甚至可能不是一个*可取的*目标（例如，当存在巨大的权力失衡时）。尽管存在这些担忧，但在文献中，辩论的主要目标是追求共识的观点仍然具有影响力。
+这个普遍观点已经被一些政治思想家提出（例如，Young 2000），他们强调了以共识为导向的政治讨论的排斥性含义。结果是，共识不仅可能是辩论的一个不切实际的目标；在许多情况下，它甚至可能不是一个_可取的_目标（例如，当存在巨大的权力失衡时）。尽管存在这些担忧，但在文献中，辩论的主要目标是追求共识的观点仍然具有影响力。
 
 ### 3.4 论点与论证与冲突管理
 
-最后，一些作者将论证归因于管理（已存在的）冲突的潜力。从某种意义上讲，刚才讨论的以共识为导向的论证观点是冲突管理论证的一个特例，基于这样的假设：管理冲突和分歧的最佳方式是追求共识，从而*消除*冲突。但是，冲突可以以不同的方式进行管理，其中并非所有方式都会导致共识；实际上，一些作者认为，即使明确的目标不是达成共识，论证也可以帮助缓解冲突。重要的是，将冲突管理（或其变体）视为论证的功能的作者在对论证的价值的整体评价上存在差异：有些人认为它至多是徒劳无益，至少是破坏性的\[[5](https://plato.stanford.edu/entries/argument/notes.html#note-5)]，而其他人则将论证在冲突管理中赋予更积极的作用。
+最后，一些作者将论证归因于管理（已存在的）冲突的潜力。从某种意义上讲，刚才讨论的以共识为导向的论证观点是冲突管理论证的一个特例，基于这样的假设：管理冲突和分歧的最佳方式是追求共识，从而_消除_冲突。但是，冲突可以以不同的方式进行管理，其中并非所有方式都会导致共识；实际上，一些作者认为，即使明确的目标不是达成共识，论证也可以帮助缓解冲突。重要的是，将冲突管理（或其变体）视为论证的功能的作者在对论证的价值的整体评价上存在差异：有些人认为它至多是徒劳无益，至少是破坏性的\[[5](https://plato.stanford.edu/entries/argument/notes.html#note-5)]，而其他人则将论证在冲突管理中赋予更积极的作用。
 
-这个范畴还包括了一些作者讨论（并批评）的论点与论证的概念化（Cohen 1995; Bailin & Battersby 2016）；在这种情况下，冲突不是被管理，而是通过论证来*实施*（可能还会加剧）。从这个角度来看，论证的功能与组织竞争性活动（如体育运动甚至战争，有适当的规则）的功能基本上没有什么不同（Aikin 2011）。
+这个范畴还包括了一些作者讨论（并批评）的论点与论证的概念化（Cohen 1995; Bailin & Battersby 2016）；在这种情况下，冲突不是被管理，而是通过论证来_实施_（可能还会加剧）。从这个角度来看，论证的功能与组织竞争性活动（如体育运动甚至战争，有适当的规则）的功能基本上没有什么不同（Aikin 2011）。
 
 当冲突出现时，人们有各种选择：他们可以选择不参与，而是选择逃避；他们可以进入全面战斗状态，包括身体攻击；或者他们可以选择介于战斗或逃避极端之间的方法。论证可以被合理地归类为一种中间的回应：
 
@@ -208,9 +208,9 @@
 
 他们引入了有影响力的“普遍”和“特定”受众之间的区别：虽然每个论证都是针对特定个体或群体的，但普遍受众的概念作为一种规范理想，涵盖了对什么被视为合法论证的共享标准的一致认同（参见 Eemeren，Garssen 等人 2014 年：第 5 章）。
 
-这些先驱的工作为后续的论点与论证理论研究奠定了基础。在接下来的几十年里，一种影响深远的方法是由弗兰斯·范·埃默伦（Frans van Eemeren）和罗布·格鲁滕多斯特（Rob Grootendorst）发展起来的实用辩证学传统（Eemeren＆Grootendorst 1984, 2004）。他们还创办了《论证》（*Argumentation*）杂志，这是论点与论证理论中的旗舰杂志之一。实用辩证学的发展是为了研究论证作为一种话语活动，一种作为特定交际语言活动的一部分而发生的复杂言语行为，具有特定的交际目标（“实用”指的是目标的功能性视角，“辩证”指的是交互组成部分）。对于这些作者来说，论证性话语主要是为了合理解决意见分歧。实用辩证学具有描述性和规范性两个组成部分，因此既提供了分析具体论证实例的工具，又提供了评估论证正确性和成功性的工具（参见 Eemeren，Garssen 等人 2014 年第 10 章）。
+这些先驱的工作为后续的论点与论证理论研究奠定了基础。在接下来的几十年里，一种影响深远的方法是由弗兰斯·范·埃默伦（Frans van Eemeren）和罗布·格鲁滕多斯特（Rob Grootendorst）发展起来的实用辩证学传统（Eemeren＆Grootendorst 1984, 2004）。他们还创办了《论证》（_Argumentation_）杂志，这是论点与论证理论中的旗舰杂志之一。实用辩证学的发展是为了研究论证作为一种话语活动，一种作为特定交际语言活动的一部分而发生的复杂言语行为，具有特定的交际目标（“实用”指的是目标的功能性视角，“辩证”指的是交互组成部分）。对于这些作者来说，论证性话语主要是为了合理解决意见分歧。实用辩证学具有描述性和规范性两个组成部分，因此既提供了分析具体论证实例的工具，又提供了评估论证正确性和成功性的工具（参见 Eemeren，Garssen 等人 2014 年第 10 章）。
 
-论点与论证理论中的另一位重要作者是道格拉斯·沃尔顿（Douglas Walton），他开创了论证方案方法，借鉴了形式逻辑的工具，但扩展了这些工具以处理比传统逻辑系统所涵盖的更广泛的论证（Walton，Reed，＆Macagno 2008）。沃尔顿还与埃里克·克拉贝（Erik Krabbe）合作，提出了一种有影响力的对话论证解释（Walton＆Krabbe 1995）。拉尔夫·约翰逊（Ralph Johnson）和安东尼·布莱尔（Anthony Blair）通过在温莎（加拿大安大略省）创办推理、论证和修辞研究中心以及发起《非正式逻辑》（*Informal Logic*）杂志，进一步巩固了论点与论证理论和非正式逻辑领域。他们的教材《逻辑自卫》（Johnson＆Blair 1977）也具有重要影响力。
+论点与论证理论中的另一位重要作者是道格拉斯·沃尔顿（Douglas Walton），他开创了论证方案方法，借鉴了形式逻辑的工具，但扩展了这些工具以处理比传统逻辑系统所涵盖的更广泛的论证（Walton，Reed，＆Macagno 2008）。沃尔顿还与埃里克·克拉贝（Erik Krabbe）合作，提出了一种有影响力的对话论证解释（Walton＆Krabbe 1995）。拉尔夫·约翰逊（Ralph Johnson）和安东尼·布莱尔（Anthony Blair）通过在温莎（加拿大安大略省）创办推理、论证和修辞研究中心以及发起《非正式逻辑》（_Informal Logic_）杂志，进一步巩固了论点与论证理论和非正式逻辑领域。他们的教材《逻辑自卫》（Johnson＆Blair 1977）也具有重要影响力。
 
 ### 4.2 人工智能与计算机科学
 
@@ -226,7 +226,7 @@
 
 论证也是认知科学和心理学中的一个重要研究课题。这些领域的研究人员主要关注的是人们实际上如何进行论证的描述性问题，而不是他们应该如何进行论证的规范性问题（尽管其中一些人也得出了规范性的结论，例如 Hahn & Oaksford 2006; Hahn & Hornikx, 2016）。控制实验是研究描述性问题的一种方式。
 
-在过去的 10 年里，认知科学和心理学领域对*论点与论证*进行了系统研究，这一研究显著增加。在此之前，关于推理的广泛研究被认为是个体内部过程，其中大部分是使用诸如三段论论证等任务材料进行的（Dutilh Novaes 2020b）。但由于认知科学和心理学中存在个体主义偏见（Mercier 2018），这些研究者没有明确将他们的发现与“给出和要求理由”的公共行为联系起来。直到最近，论证才开始受到这些研究者的持续关注。Hugo Mercier 及其同事（Mercier & Sperber 2017; Mercier 2018）以及 Ulrike Hahn 及其同事（Hahn & Oaksford 2007; Hornikx & Hahn 2012; Collins & Hahn 2018）的研究具有特别的影响力（另见 Paglieri, Bonelli, & Felletti 2016，这是一本包含心理学论证研究代表性概述的编辑卷）。另一条有趣的研究线索是对幼儿推理和论证能力发展的研究（Köymen, Mammen, & Tomasello 2016; Köymen & Tomasello 2020）。
+在过去的 10 年里，认知科学和心理学领域对_论点与论证_进行了系统研究，这一研究显著增加。在此之前，关于推理的广泛研究被认为是个体内部过程，其中大部分是使用诸如三段论论证等任务材料进行的（Dutilh Novaes 2020b）。但由于认知科学和心理学中存在个体主义偏见（Mercier 2018），这些研究者没有明确将他们的发现与“给出和要求理由”的公共行为联系起来。直到最近，论证才开始受到这些研究者的持续关注。Hugo Mercier 及其同事（Mercier & Sperber 2017; Mercier 2018）以及 Ulrike Hahn 及其同事（Hahn & Oaksford 2007; Hornikx & Hahn 2012; Collins & Hahn 2018）的研究具有特别的影响力（另见 Paglieri, Bonelli, & Felletti 2016，这是一本包含心理学论证研究代表性概述的编辑卷）。另一条有趣的研究线索是对幼儿推理和论证能力发展的研究（Köymen, Mammen, & Tomasello 2016; Köymen & Tomasello 2020）。
 
 Mercier 和 Sperber 提出了一种互动主义的推理观点，根据这种观点，推理的主要功能是用于社会互动，其中理由被交换，理由的接收者决定是否认为它们具有说服力，换句话说，用于论证（Mercier & Sperber 2017）。他们回顾了大量证据，表明在从前提中得出结论以扩展自己的知识方面，推理是相当有缺陷的。基于这一点，他们根据进化论的论证得出结论，推理的功能必须是不同的，确实是对人类社会性特征和接收他人信息时需要行使认知警惕性的需求的回应。这一观点开创了一个丰富的研究计划，他们与同事们已经进行了十多年，并取得了一些有趣的结果，例如，我们似乎更擅长评估他人提出的论证质量，而不是自己提出高质量的论证（Mercier 2018）。
 
@@ -246,7 +246,7 @@ Mercier 和 Sperber 提出了一种互动主义的推理观点，根据这种观
 
 论点与论证在许多特定的有组织社会实践中至关重要，特别是在政治、科学、法律和教育领域。相关的论证实践在各个相应的知识领域中进行研究；事实上，虽然一些普遍原则可能适用于各个领域的论证实践，但也有一些可能是特定应用和领域特有的。
 
-正如前面提到的，论证通常被视为政治民主实践的重要组成部分，因此对政治科学家和政治理论家来说具有极大的兴趣（哈贝马斯 1992 \[1996]；杨 2000；兰德莫尔 2013；费什金 2016；参见[民主](https://plato.stanford.edu/entries/democracy/)词条）。（在这个背景下，通常使用的术语是“研讨”而不是“论证”，但从我们的目的来看，这两者可以视为大致同义。）诸如实用辩证法和图尔敏模型之类的论证通用理论可以应用于政治论证，并产生启示性的结果（沃达克 2016；穆罕默德 2016）。更一般地说，政治话语似乎具有很强的论证成分，特别是如果将论证更广泛地理解为不仅涉及理性话语（*logos*），而且还包括修辞学家所称的*感情*和*品格*（Zarefsky 2014；Amossy 2018）。但是，批评者指出，在政治背景下的论证和研讨也存在经典研讨模型的局限性（桑德斯 1997；塔利斯 2019）。
+正如前面提到的，论证通常被视为政治民主实践的重要组成部分，因此对政治科学家和政治理论家来说具有极大的兴趣（哈贝马斯 1992 \[1996]；杨 2000；兰德莫尔 2013；费什金 2016；参见[民主](https://plato.stanford.edu/entries/democracy/)词条）。（在这个背景下，通常使用的术语是“研讨”而不是“论证”，但从我们的目的来看，这两者可以视为大致同义。）诸如实用辩证法和图尔敏模型之类的论证通用理论可以应用于政治论证，并产生启示性的结果（沃达克 2016；穆罕默德 2016）。更一般地说，政治话语似乎具有很强的论证成分，特别是如果将论证更广泛地理解为不仅涉及理性话语（_logos_），而且还包括修辞学家所称的_感情_和_品格_（Zarefsky 2014；Amossy 2018）。但是，批评者指出，在政治背景下的论证和研讨也存在经典研讨模型的局限性（桑德斯 1997；塔利斯 2019）。
 
 此外，科学界似乎提供了（在很大程度上）良好的论证实践示例。这些是纪律严明的集体认识活动系统，每个领域都有默许但广泛认可的论证参与规范（这并不意味着对这些规范没有争议）。数学的情况已经在上面提到过：数学证明的实践自然被理解为论证实践（Dutilh Novaes 2020a）。此外，当科学家提出一个新的科学主张时，必须用论证和证据支持，这些论证和证据很可能会使她的同行们信服，因为它们是根据广泛认可的科学方法的应用得出的（Longino 1990；Weinstein 1990；Rehg 2008；参见[科学知识的社会维度](https://plato.stanford.edu/entries/scientific-knowledge-social/)词条）。其他科学家将进一步审查提供的证据和论证，并在发现理论的某些方面不够令人信服时提出异议或关切。因此，科学可以被视为一种“给予和要求理由的游戏”（Zamora Bonilla 2006）。科学论证的某些特征似乎确保了其成功：科学家通常将其他科学家视为原则上的同行，因此（至少通常）默认情况下对其他科学家有相当程度的信任；科学基于“有组织的怀疑”原则（这是科学社会学先驱罗伯特·默顿\[Merton, 1942]引入的一个术语），这意味着要求进一步理由不应被视为个人攻击。这些可以说是因素，通过这些制度因素，将科学论证与其他领域的论证区分开来（Mercier & Heintz 2014）。但最终，科学家是整个社会的一部分，因此科学和政治论证如何交叉成为一个特别重要的问题（基彻尔 2001）。
 
@@ -262,11 +262,11 @@ Mercier 和 Sperber 提出了一种互动主义的推理观点，根据这种观
 
 近年来，认识不公的概念在哲学家中引起了广泛关注（Fricker 2007; McKinnon 2016）。认识不公发生在一个人因社会类别如性别、种族、阶级、能力等偏见而在知识者身份上受到不公平对待（参见[feminist epistemology and philosophy of science](https://plato.stanford.edu/entries/feminism-epistemology/)）。文献中讨论的认识不公的主要类别之一涉及证词，被称为“证词不公”：当证词者在相关主题上的实际专业知识未得到与之相称的可信度时，就会发生这种不公平对待，这是由于偏见所致（关于可信度过剩是否也是一种证词不公，在文献中存在争议\[Medina 2011]）。
 
-由于论证可以被视为分享知识和信息的重要机制，即具有重要的认识论意义（Goldman 2004），问题就出现了：是否可能存在与论证特定相关的认识论不公正的情况，这可以被描述为*论证不公正*，并且与其他已被认可的认识论不公正形式（如证词不公正）明显不同。Bondy（Bondy 2010）首次阐述了论证不公正的概念，该概念是根据 Fricker 的认识论不公正概念建立的，并依赖于广义认识论对论证的理解。然而，Bondy 的分析没有考虑到自 Fricker 的有影响力的工作以来已成为认识论不公正分析的核心的一些结构要素，因此似乎还需要进一步讨论论证中的认识论不公正。例如，在分歧的情况下，认识论不公正可能导致对理性论证的进一步障碍，从而导致深刻的分歧（Lagewaard 2021）。
+由于论证可以被视为分享知识和信息的重要机制，即具有重要的认识论意义（Goldman 2004），问题就出现了：是否可能存在与论证特定相关的认识论不公正的情况，这可以被描述为_论证不公正_，并且与其他已被认可的认识论不公正形式（如证词不公正）明显不同。Bondy（Bondy 2010）首次阐述了论证不公正的概念，该概念是根据 Fricker 的认识论不公正概念建立的，并依赖于广义认识论对论证的理解。然而，Bondy 的分析没有考虑到自 Fricker 的有影响力的工作以来已成为认识论不公正分析的核心的一些结构要素，因此似乎还需要进一步讨论论证中的认识论不公正。例如，在分歧的情况下，认识论不公正可能导致对理性论证的进一步障碍，从而导致深刻的分歧（Lagewaard 2021）。
 
 此外，正如对对抗性方法的批评者经常指出的那样，论证也可以被用作一种压制和压迫的工具，用来压倒和贬低对话者（Nozick 1981），尤其是在特定背景下地位“较低”的对话者（Moulton 1983；参见[女性主义论证方法](https://plato.stanford.edu/entries/feminism-argumentation/)条目）。从这个角度来看，很明显，论证也可以被用来加强和加剧不公正、不平等和权力差异（Goodwin 2007）。鉴于这种可能性，并为了应对论证情境中过度攻击性的永恒风险，似乎需要一个规范性的观点来说明论证应该如何进行，以避免这些问题的结果。
 
-其中一种方法是*德性论证理论*。德性论证理论借鉴了德性伦理学和德性认识论（参见[德性伦理学](https://plato.stanford.edu/entries/ethics-virtue/)和[德性认识论](https://plato.stanford.edu/entries/epistemology-virtue/)条目），它试图从论证者的性情和品格而不是例如从论证的性质（与论证者无关）的角度来理论化如何进行良好的论证（Aberdein & Cohen 2016）。文献中确定的一些论证德性包括：愿意倾听他人（Cohen 2019）、愿意认真对待新颖观点（Kwong 2016）、谦逊（Kidd 2016）和开放心态（Tanesini 2020）。
+其中一种方法是_德性论证理论_。德性论证理论借鉴了德性伦理学和德性认识论（参见[德性伦理学](https://plato.stanford.edu/entries/ethics-virtue/)和[德性认识论](https://plato.stanford.edu/entries/epistemology-virtue/)条目），它试图从论证者的性情和品格而不是例如从论证的性质（与论证者无关）的角度来理论化如何进行良好的论证（Aberdein & Cohen 2016）。文献中确定的一些论证德性包括：愿意倾听他人（Cohen 2019）、愿意认真对待新颖观点（Kwong 2016）、谦逊（Kidd 2016）和开放心态（Tanesini 2020）。
 
 同样地，有缺陷的论证不仅仅是以论证的结构特性（例如，谬误的论证模式）为概念化，而且还以论证者展示的缺点为基础，例如傲慢和狭隘等（Aberdein 2016）。美德论证理论现在构成了一个充满活力的研究计划，这一点可以从《Topoi》专题问题中得到证实（请参见\[Aberdein＆Cohen 2016]的介绍）。它允许对论证理论中的经典主题进行重新概念化，同时承诺提供如何更好地进行论证的具体建议。然而，它是否能完全对抗认识论不公和论证的压迫性用途，至少在更广泛的与权力动态相关的结构因素没有得到充分考虑的情况下，这是有争议的（Kukla 2014）。
 
@@ -300,7 +300,7 @@ Mercier 和 Sperber 提出了一种互动主义的推理观点，根据这种观
 
 ### 5.4 论点与论证与互联网
 
-到目前为止，我们还没有考虑到论证可以通过不同的媒体进行的问题。当然，论证可以在面对面的口头交流中展开——在议会讨论、政治辩论、法庭上——也可以在书面形式中展开——在科学文章、互联网上、报纸社论中。此外，论证可以同步进行，进行实时的理由交换，也可以异步进行。虽然可以合理地期望这些不同媒体和环境之间会有一些共同点，但也有可能不同环境的特定特征会显著影响论证的进行方式：不同的环境为辩论者提供了不同类型的*可供性*（Halpern & Gibbs 2013; Weger & Aakhus 2003; 有关可供性概念，请参见[具身认知](https://plato.stanford.edu/entries/embodied-cognition/)条目）。事实上，如果互联网代表了一种根本新颖的认知生态（Smart, Heersmink, & Clowes 2017），那么它很可能会产生不同形式的辩论参与（Lewiński 2010）。然而，这些新形式是否代表了*进步*（根据某种合适的度量标准）是一个有争议的问题。
+到目前为止，我们还没有考虑到论证可以通过不同的媒体进行的问题。当然，论证可以在面对面的口头交流中展开——在议会讨论、政治辩论、法庭上——也可以在书面形式中展开——在科学文章、互联网上、报纸社论中。此外，论证可以同步进行，进行实时的理由交换，也可以异步进行。虽然可以合理地期望这些不同媒体和环境之间会有一些共同点，但也有可能不同环境的特定特征会显著影响论证的进行方式：不同的环境为辩论者提供了不同类型的_可供性_（Halpern & Gibbs 2013; Weger & Aakhus 2003; 有关可供性概念，请参见[具身认知](https://plato.stanford.edu/entries/embodied-cognition/)条目）。事实上，如果互联网代表了一种根本新颖的认知生态（Smart, Heersmink, & Clowes 2017），那么它很可能会产生不同形式的辩论参与（Lewiński 2010）。然而，这些新形式是否代表了_进步_（根据某种合适的度量标准）是一个有争议的问题。
 
 在 1990 年代互联网的早期，人们对在线空间能够实现哈贝马斯式的公共领域进行政治讨论（Hindman 2009）抱有很大的希望。互联网被认为是在全球思想市场中实现米尔式自由思想交流理想的伟大平等化工具（Mill 1859）。在线上，每个人的声音都有平等的机会被听到，每个人都可以为对话做出贡献，每个人同时可以成为记者、新闻消费者、积极公民、倡导者和活动家。
 
@@ -316,239 +316,239 @@ Mercier 和 Sperber 提出了一种互动主义的推理观点，根据这种观
 
 ### References for the Main Text
 
-* Aberdein, Andrew, 2016, “The Vices of Argument”, *Topoi*, 35(2): 413–422. doi:10.1007/s11245-015-9346-z
-* Aberdein, Andrew and Daniel H. Cohen, 2016, “Introduction: Virtues and Arguments”, *Topoi*, 35(2): 339–343. doi:10.1007/s11245-016-9366-3
-* Aberdein, Andrew and Ian J Dove (eds.), 2013, *The Argument of Mathematics*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-6534-4
-* Aikin, Scott, 2011, “A Defense of War and Sport Metaphors in Argument”, *Philosophy & Rhetoric*, 44(3): 250–272.
-* Amossy, Ruth, 2002, “How to Do Things with Doxa: Toward an Analysis of Argumentation in Discourse”, *Poetics Today*, 23(3): 465–487. doi:10.1215/03335372-23-3-465
-* –––, 2009, “Argumentation in Discourse: A Socio-Discursive Approach to Arguments”, *Informal Logic*, 29(3): 252–267. doi:10.22329/il.v29i3.2843
-* –––, 2018, “Understanding Political Issues through Argumentation Analysis”, in *The Routledge Handbook of Language and Politics*, Ruth Wodak and Bernard Forchtner (eds.), New York: Routledge, pp. 135–149.
-* Askeland, Bjarte, 2020, “The Potential of Abductive Legal Reasoning”, *Ratio Juris*, 33(1): 66–81. doi:10.1111/raju.12268
-* Atkinson, Katie, Federico Cerutti, Peter McBurney, Simon Parsons, and Iyad Rahwan (eds), 2016, *Special Issue on Argumentation in Multi-Agent Systems*, of *Argument & Computation*, 7(2–3).
-* Bailin, Sharon and Mark Battersby, 2016, “DAMed If You Do; DAMed If You Don’t: Cohen’s ‘Missed Opportunities’”, in *Proceedings of the Ontario Society for the Study of Argumentation Conference*, Vol. 11. \[[Bailin and Battersby 2016 available online](https://scholar.uwindsor.ca/ossaarchive/OSSA11/papersandcommentaries/90)]
-* Ball, Linden J and Valerie A. Thompson (eds.), 2018, *International Handbook of Thinking and Reasoning*, London: Routledge. doi:10.4324/9781315725697
-* Bartlett, Jamie, 2018, *The People vs Tech: How the Internet is Killing Democracy (and How We Can Save It)*, London: Ebury Press.
-* Beall, Jc, 2009, *Spandrels of Truth*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199268733.001.0001
-* Benkler, Yochai, Robert Faris, and Hal Roberts, 2018, *Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics*, New York: Oxford University Press. doi:10.1093/oso/9780190923624.001.0001
-* Bermejo Luque, Lilian, 2011, *Giving Reasons: A Linguistic-Pragmatic Approach to Argumentation Theory* (Argumentation Library 20), Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-1761-9
-* –––, 2020, “What Is Wrong with Deductivism?”, *Informal Logic*, 40(3): 295–316. doi:10.22329/il.v40i30.6214
-* Betz, Gregor, 2013, *Debate Dynamics: How Controversy Improves Our Beliefs*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-4599-5
-* Bex, Floris, Henry Prakken, Chris Reed, and Douglas Walton, 2003, “Towards a Formal Account of Reasoning about Evidence: Argumentation Schemes and Generalisations”, *Artificial Intelligence and Law*, 11(2/3): 125–165. doi:10.1023/B:ARTI.0000046007.11806.9a
-* Bex, Floris and Bart Verheij, 2013, “Legal Stories and the Process of Proof”, *Artificial Intelligence and Law*, 21(3): 253–278. doi:10.1007/s10506-012-9137-4
-* Biro, John and Harvey Siegel, 2006, “In Defense of the Objective Epistemic Approach to Argumentation”, *Informal Logic*, 26(1): 91–101. doi:10.22329/il.v26i1.432
-* Bondy, Patrick, 2010, “Argumentative Injustice”, *Informal Logic*, 30(3): 263–278. doi:10.22329/il.v30i3.3034
-* Brandom, Robert B., 1994, *Making It Explicit: Reasoning, Representing, and Discursive Commitment*, Cambridge, MA: Harvard University Press.
-* Campos, Daniel G., 2011, “On the Distinction between Peirce’s Abduction and Lipton’s Inference to the Best Explanation”, *Synthese*, 180(3): 419–442. doi:10.1007/s11229-009-9709-3
-* Casey, John, 2020, “Adversariality and Argumentation”, *Informal Logic*, 40(1): 77–108. doi:10.22329/il.v40i1.5969
-* Castelain, Thomas, Vittorio Girotto, Frank Jamet, and Hugo Mercier, 2016, “Evidence for Benefits of Argumentation in a Mayan Indigenous Population”, *Evolution and Human Behavior*, 37(5): 337–342. doi:10.1016/j.evolhumbehav.2016.02.002
-* Clark, Andy, 2016, *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190217013.001.0001
-* Cohen, Daniel H., 1995, “Argument Is War…and War Is Hell: Philosophy, Education, and Metaphors for Argumentation”, *Informal Logic*, 17(2): 177–188. doi:10.22329/il.v17i2.2406
-* –––, 2019, “Argumentative Virtues as Conduits for Reason’s Causal Efficacy: Why the Practice of Giving Reasons Requires That We Practice Hearing Reasons”, *Topoi*, 38(4): 711–718. doi:10.1007/s11245-015-9364-x
+* Aberdein, Andrew, 2016, “The Vices of Argument”, _Topoi_, 35(2): 413–422. doi:10.1007/s11245-015-9346-z
+* Aberdein, Andrew and Daniel H. Cohen, 2016, “Introduction: Virtues and Arguments”, _Topoi_, 35(2): 339–343. doi:10.1007/s11245-016-9366-3
+* Aberdein, Andrew and Ian J Dove (eds.), 2013, _The Argument of Mathematics_, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-6534-4
+* Aikin, Scott, 2011, “A Defense of War and Sport Metaphors in Argument”, _Philosophy & Rhetoric_, 44(3): 250–272.
+* Amossy, Ruth, 2002, “How to Do Things with Doxa: Toward an Analysis of Argumentation in Discourse”, _Poetics Today_, 23(3): 465–487. doi:10.1215/03335372-23-3-465
+* –––, 2009, “Argumentation in Discourse: A Socio-Discursive Approach to Arguments”, _Informal Logic_, 29(3): 252–267. doi:10.22329/il.v29i3.2843
+* –––, 2018, “Understanding Political Issues through Argumentation Analysis”, in _The Routledge Handbook of Language and Politics_, Ruth Wodak and Bernard Forchtner (eds.), New York: Routledge, pp. 135–149.
+* Askeland, Bjarte, 2020, “The Potential of Abductive Legal Reasoning”, _Ratio Juris_, 33(1): 66–81. doi:10.1111/raju.12268
+* Atkinson, Katie, Federico Cerutti, Peter McBurney, Simon Parsons, and Iyad Rahwan (eds), 2016, _Special Issue on Argumentation in Multi-Agent Systems_, of _Argument & Computation_, 7(2–3).
+* Bailin, Sharon and Mark Battersby, 2016, “DAMed If You Do; DAMed If You Don’t: Cohen’s ‘Missed Opportunities’”, in _Proceedings of the Ontario Society for the Study of Argumentation Conference_, Vol. 11. \[[Bailin and Battersby 2016 available online](https://scholar.uwindsor.ca/ossaarchive/OSSA11/papersandcommentaries/90)]
+* Ball, Linden J and Valerie A. Thompson (eds.), 2018, _International Handbook of Thinking and Reasoning_, London: Routledge. doi:10.4324/9781315725697
+* Bartlett, Jamie, 2018, _The People vs Tech: How the Internet is Killing Democracy (and How We Can Save It)_, London: Ebury Press.
+* Beall, Jc, 2009, _Spandrels of Truth_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199268733.001.0001
+* Benkler, Yochai, Robert Faris, and Hal Roberts, 2018, _Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics_, New York: Oxford University Press. doi:10.1093/oso/9780190923624.001.0001
+* Bermejo Luque, Lilian, 2011, _Giving Reasons: A Linguistic-Pragmatic Approach to Argumentation Theory_ (Argumentation Library 20), Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-1761-9
+* –––, 2020, “What Is Wrong with Deductivism?”, _Informal Logic_, 40(3): 295–316. doi:10.22329/il.v40i30.6214
+* Betz, Gregor, 2013, _Debate Dynamics: How Controversy Improves Our Beliefs_, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-4599-5
+* Bex, Floris, Henry Prakken, Chris Reed, and Douglas Walton, 2003, “Towards a Formal Account of Reasoning about Evidence: Argumentation Schemes and Generalisations”, _Artificial Intelligence and Law_, 11(2/3): 125–165. doi:10.1023/B:ARTI.0000046007.11806.9a
+* Bex, Floris and Bart Verheij, 2013, “Legal Stories and the Process of Proof”, _Artificial Intelligence and Law_, 21(3): 253–278. doi:10.1007/s10506-012-9137-4
+* Biro, John and Harvey Siegel, 2006, “In Defense of the Objective Epistemic Approach to Argumentation”, _Informal Logic_, 26(1): 91–101. doi:10.22329/il.v26i1.432
+* Bondy, Patrick, 2010, “Argumentative Injustice”, _Informal Logic_, 30(3): 263–278. doi:10.22329/il.v30i3.3034
+* Brandom, Robert B., 1994, _Making It Explicit: Reasoning, Representing, and Discursive Commitment_, Cambridge, MA: Harvard University Press.
+* Campos, Daniel G., 2011, “On the Distinction between Peirce’s Abduction and Lipton’s Inference to the Best Explanation”, _Synthese_, 180(3): 419–442. doi:10.1007/s11229-009-9709-3
+* Casey, John, 2020, “Adversariality and Argumentation”, _Informal Logic_, 40(1): 77–108. doi:10.22329/il.v40i1.5969
+* Castelain, Thomas, Vittorio Girotto, Frank Jamet, and Hugo Mercier, 2016, “Evidence for Benefits of Argumentation in a Mayan Indigenous Population”, _Evolution and Human Behavior_, 37(5): 337–342. doi:10.1016/j.evolhumbehav.2016.02.002
+* Clark, Andy, 2016, _Surfing Uncertainty: Prediction, Action, and the Embodied Mind_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190217013.001.0001
+* Cohen, Daniel H., 1995, “Argument Is War…and War Is Hell: Philosophy, Education, and Metaphors for Argumentation”, _Informal Logic_, 17(2): 177–188. doi:10.22329/il.v17i2.2406
+* –––, 2019, “Argumentative Virtues as Conduits for Reason’s Causal Efficacy: Why the Practice of Giving Reasons Requires That We Practice Hearing Reasons”, _Topoi_, 38(4): 711–718. doi:10.1007/s11245-015-9364-x
 * Collins, Peter J. and Ulrike Hahn, 2018, “Fallacies of Argumentation”, in Ball and Thomson 2018: 88–108.
-* Doury, Marianne, 2009, “Argument Schemes Typologies in Practice: The Case of Comparative Arguments”, in *Pondering on Problems of Argumentation*, Frans H. van Eemeren and Bart Garssen (eds.), (Argumentation Library 14), Dordrecht: Springer Netherlands, pp. 141–155. doi:10.1007/978-1-4020-9165-0\*11
-* Driver, Rosalind, Paul Newton, and Jonathan Osborne, 2000, “Establishing the Norms of Scientific Argumentation in Classrooms”, *Science Education*, 84(3): 287–312.
-* Dummett, Michael, 1978, “The Justification of Deduction”, in his *Truth and Other Enigmas*, Cambridge MA: Harvard University Press, pp. 290–318.
-* Dung, Phan Minh, 1995, “On the Acceptability of Arguments and Its Fundamental Role in Nonmonotonic Reasoning, Logic Programming and *n*-Person Games”, *Artificial Intelligence*, 77(2): 321–357. doi:10.1016/0004-3702(94)00041-X
-* Dutilh Novaes, Catarina, 2015, “The Formal and the Formalized: The Cases of Syllogistic and Supposition Theory”, *Kriterion: Revista de Filosofia*, 56(131): 253–270. doi:10.1590/0100-512X2015n13114cdn
-* –––, 2020a, *The Dialogical Roots of Deduction: Historical, Cognitive, and Philosophical Perspectives on Reasoning*, Cambridge: Cambridge University Press. doi:10.1017/9781108800792
-* –––, 2020b, “Logic and the Psychology of Reasoning”, in *The Routledge Handbook of Philosophy of Relativism*, Martin Kusch (ed.), London: Routledge, pp. 445–454.
-* –––, 2020c, “The Role of Trust in Argumentation”, *Informal Logic*, 40(2): 205–236. doi:10.22329/il.v40i2.6328
-* –––, forthcoming, “Who’s Afraid of Adversariality? Conflict and Cooperation in Argumentation”, *Topoi*, first online: 23 December 2020. doi:10.1007/s11245-020-09736-9
-* Dworkin, Ronald, 1977, *Taking Rights Seriously*, Cambridge, MA: Harvard University Press.
-* Eemeren, Frans H. van and Rob Grootendorst, 1984, *Speech Acts in Argumentative Discussions: A Theoretical Model for the Analysis of Discussions Directed towards Solving Conflicts of Opinion*, Dordrecht: Foris Publications. doi:10.1515/9783110846089
-* –––, 2004, *A Systematic Theory of Argumentation: The Pragma-Dialectical Approach*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511616389
-* Eemeren, Frans H. van, Bart Garssen, Erik C. W. Krabbe, A. Francisca Snoeck Henkemans, Bart Verheij, and Jean H. M. Wagemans, 2014, *Handbook of Argumentation Theory*, Dordrecht: Springer Netherlands. doi:10.1007/978-90-481-9473-5
-* Eemeren, Frans H. van, Rob Grootendorst, Ralph H. Johnson, Christian Plantin, and Charles A. Willard, 1996, *Fundamentals of Argumentation Theory: A Handbook of Historical Backgrounds and Contemporary Developments*, Mahwah, NJ: Routledge. doi:10.4324/9780203811306
+* Doury, Marianne, 2009, “Argument Schemes Typologies in Practice: The Case of Comparative Arguments”, in _Pondering on Problems of Argumentation_, Frans H. van Eemeren and Bart Garssen (eds.), (Argumentation Library 14), Dordrecht: Springer Netherlands, pp. 141–155. doi:10.1007/978-1-4020-9165-0\*11
+* Driver, Rosalind, Paul Newton, and Jonathan Osborne, 2000, “Establishing the Norms of Scientific Argumentation in Classrooms”, _Science Education_, 84(3): 287–312.
+* Dummett, Michael, 1978, “The Justification of Deduction”, in his _Truth and Other Enigmas_, Cambridge MA: Harvard University Press, pp. 290–318.
+* Dung, Phan Minh, 1995, “On the Acceptability of Arguments and Its Fundamental Role in Nonmonotonic Reasoning, Logic Programming and _n_-Person Games”, _Artificial Intelligence_, 77(2): 321–357. doi:10.1016/0004-3702(94)00041-X
+* Dutilh Novaes, Catarina, 2015, “The Formal and the Formalized: The Cases of Syllogistic and Supposition Theory”, _Kriterion: Revista de Filosofia_, 56(131): 253–270. doi:10.1590/0100-512X2015n13114cdn
+* –––, 2020a, _The Dialogical Roots of Deduction: Historical, Cognitive, and Philosophical Perspectives on Reasoning_, Cambridge: Cambridge University Press. doi:10.1017/9781108800792
+* –––, 2020b, “Logic and the Psychology of Reasoning”, in _The Routledge Handbook of Philosophy of Relativism_, Martin Kusch (ed.), London: Routledge, pp. 445–454.
+* –––, 2020c, “The Role of Trust in Argumentation”, _Informal Logic_, 40(2): 205–236. doi:10.22329/il.v40i2.6328
+* –––, forthcoming, “Who’s Afraid of Adversariality? Conflict and Cooperation in Argumentation”, _Topoi_, first online: 23 December 2020. doi:10.1007/s11245-020-09736-9
+* Dworkin, Ronald, 1977, _Taking Rights Seriously_, Cambridge, MA: Harvard University Press.
+* Eemeren, Frans H. van and Rob Grootendorst, 1984, _Speech Acts in Argumentative Discussions: A Theoretical Model for the Analysis of Discussions Directed towards Solving Conflicts of Opinion_, Dordrecht: Foris Publications. doi:10.1515/9783110846089
+* –––, 2004, _A Systematic Theory of Argumentation: The Pragma-Dialectical Approach_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511616389
+* Eemeren, Frans H. van, Bart Garssen, Erik C. W. Krabbe, A. Francisca Snoeck Henkemans, Bart Verheij, and Jean H. M. Wagemans, 2014, _Handbook of Argumentation Theory_, Dordrecht: Springer Netherlands. doi:10.1007/978-90-481-9473-5
+* Eemeren, Frans H. van, Rob Grootendorst, Ralph H. Johnson, Christian Plantin, and Charles A. Willard, 1996, _Fundamentals of Argumentation Theory: A Handbook of Historical Backgrounds and Contemporary Developments_, Mahwah, NJ: Routledge. doi:10.4324/9780203811306
 * Elqayam, Shira, 2018, “The New Paradigm in Psychology of Reasoning”, in Ball and Thomson 2018: 130–150.
-* Erduran, Sibel and María Pilar Jiménez-Aleixandre (eds.), 2007, *Argumentation in Science Education: Perspectives from Classroom-Based Research* (Science & Technology Education Library 35), Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-6670-2
-* Eva, Benjamin and Stephan Hartmann, 2018, “Bayesian Argumentation and the Value of Logical Validity”, *Psychological Review*, 125(5): 806–821. doi:10.1037/rev0000114
-* Everett, Daniel Leonard, 2008, *Don’t Sleep! There are Snakes: Life and Language in the Amazonian Jungle*, New York, NY: Vintage Books.
-* Fantl, Jeremy, 2018, *The Limitations of the Open Mind*, Oxford: Oxford University Press. doi:10.1093/oso/9780198807957.001.0001
-* Feteris, Eveline T., 2017, *Fundamentals of Legal Argumentation: A Survey of Theories on the Justification of Judicial Decisions*, second edition, (Argumentation Library 1), Dordrecht: Springer Netherlands. doi:10.1007/978-94-024-1129-4
-* Field, Hartry, 2008, *Saving Truth From Paradox*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199230747.001.0001
+* Erduran, Sibel and María Pilar Jiménez-Aleixandre (eds.), 2007, _Argumentation in Science Education: Perspectives from Classroom-Based Research_ (Science & Technology Education Library 35), Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-6670-2
+* Eva, Benjamin and Stephan Hartmann, 2018, “Bayesian Argumentation and the Value of Logical Validity”, _Psychological Review_, 125(5): 806–821. doi:10.1037/rev0000114
+* Everett, Daniel Leonard, 2008, _Don’t Sleep! There are Snakes: Life and Language in the Amazonian Jungle_, New York, NY: Vintage Books.
+* Fantl, Jeremy, 2018, _The Limitations of the Open Mind_, Oxford: Oxford University Press. doi:10.1093/oso/9780198807957.001.0001
+* Feteris, Eveline T., 2017, _Fundamentals of Legal Argumentation: A Survey of Theories on the Justification of Judicial Decisions_, second edition, (Argumentation Library 1), Dordrecht: Springer Netherlands. doi:10.1007/978-94-024-1129-4
+* Field, Hartry, 2008, _Saving Truth From Paradox_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199230747.001.0001
 * Fisher, Matthew and Frank C. Keil, 2016, “The Trajectory of Argumentation and Its Multifaceted Functions”, in Paglieri, Bonelli, and Felletti 2016: 347–362.
-* Fishkin, James, 2016, “Deliberative Democracy”, in *Emerging Trends in the Social and Behavioral Sciences*, Robert A. Scott and Marlis C. Buchmann, New York: Wiley.
-* Fogelin, Robert, 1985, “The Logic of Deep Disagreements”, *Informal Logic*, 7(1): 3–11. doi:10.22329/il.v7i1.2696
-* Fraassen, Bas C. van, 1989, *Laws and Symmetry*, Oxford: Oxford University Press. doi:10.1093/0198248601.001.0001
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
-* Geuss, Raymond, 2019, “A Republic of Discussion: Habermas at Ninety”, *The Point Magazine*, 18 June 2019. \[[Geuss 2019 available online](https://thepointmag.com/politics/a-republic-of-discussion-habermas-at-ninety/)]
-* Gilbert, Michael A., 1994, “Feminism, Argumentation and Coalescence”, *Informal Logic*, 16(2): 95–113. doi:10.22329/il.v16i2.2444
-* –––, 1997, *Coalescent Argumentation*, Mahwah, NJ: L. Erlbaum Associates.
-* –––, 2004, “Emotion, Argumentation and Informal Logic”, *Informal Logic*, 24(3): 245–264. doi:10.22329/il.v24i3.2147
-* Goldman, Alvin I., 1994, “Argumentation and Social Epistemology”, *Journal of Philosophy*, 91(1): 27–49. doi:10.2307/2940949
-* –––, 2004, “An Epistemological Approach to Argumentation”, *Informal Logic*, 23(1): 49–61. doi:10.22329/il.v23i1.2153
-* González González, Manuela, Julder Gómez, and Mariantonia Lemos, 2019, “Theoretical Considerations for the Articulation of Emotion and Argumentation in the Arguer: A Proposal for Emotion Regulation in Deliberation”, *Argumentation*, 33(3): 349–364. doi:10.1007/s10503-018-09476-6
-* Goodwin, Jean, 2007, “Argument Has No Function”, *Informal Logic*, 27(1): 69–90. doi:10.22329/il.v27i1.465
-* Gordon, Peter, 2004, “Numerical Cognition Without Words: Evidence from Amazonia”, *Science*, 306(5695): 496–499. doi:10.1126/science.1094492
-* Gordon-Smith, Eleanor, 2019, *Stop Being Reasonable: How We Really Change Minds*, New York: Public Affairs.
-* Govier, Trudy, 1999, *The Philosophy of Argument*, Newport News, VA: Vale Press.
-* Habermas, Jürgen, 1981 \[1984], *Theorie des kommunikativen Handelns. Bd. 1, Handlungsrationalität und gesellschaftliche Rationalisierung*, Frankfurt am Main: Suhrkamp. Translated as *The Theory of Communicative Action. Vol. I: Reason and the Rationalization of Society*, Thomas McCarthy (trans.), Boston: Beacon Press.
-* –––, 1992 \[1996], *Faktizität und Geltung: Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats*, Frankfurt am Main: Suhrkamp. Translated as *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, William Rehg (trans.), Cambridge, MA: MIT Press.
-* Habernal, Ivan and Iryna Gurevych, 2017, “Argumentation Mining in User-Generated Web Discourse”, *Computational Linguistics*, 43(1): 125–179. doi:10.1162/COLI\*a\*00276
-* Hahn, Ulrike and Jos Hornikx, 2016, “A Normative Framework for Argument Quality: Argumentation Schemes with a Bayesian Foundation”, *Synthese*, 193(6): 1833–1873. doi:10.1007/s11229-015-0815-0
-* Hahn, Ulrike and Mike Oaksford, 2006, “A Normative Theory of Argument Strength”, *Informal Logic*, 26(1): 1–24. doi:10.22329/il.v26i1.428
-* –––, 2007, “The Rationality of Informal Argumentation: A Bayesian Approach to Reasoning Fallacies”, *Psychological Review*, 114(3): 704–732. doi:10.1037/0033-295X.114.3.704
-* Halpern, Daniel and Jennifer Gibbs, 2013, “Social Media as a Catalyst for Online Deliberation? Exploring the Affordances of Facebook and YouTube for Political Expression”, *Computers in Human Behavior*, 29(3): 1159–1168. doi:10.1016/j.chb.2012.10.008
-* Hamblin, C. L., 1970, *Fallacies*, London: Methuen.
-* Hample, Dale, 2006, *Arguing: Exchanging Reasons Face to Face*, New York: Routledge. doi:10.4324/9781410613486
-* –––, 2018, *Interpersonal Arguing*, New York: Peter Lang.
-* Harman, Gilbert H., 1965, “The Inference to the Best Explanation”, *The Philosophical Review*, 74(1): 88–95. doi:10.2307/2183532
-* Hart, H. L. A., 1961, *The Concept of Law*, Oxford: Clarendon.
-* Henrich, Joseph, Steven J. Heine, and Ara Norenzayan, 2010, “The Weirdest People in the World?”, *Behavioral and Brain Sciences*, 33(2–3): 61–83. doi:10.1017/S0140525X0999152X
-* Hindman, Matthew, 2009, *The Myth of Digital Democracy*, Princeton, NJ: Princeton University Press.
-* Hintikka, Jaakko and Gabriel Sandu, 1997, “Game-Theoretical Semantics”, in *Handbook of Logic and Language*, Johan van Benthem and Alice ter Meulen (eds), Amsterdam: Elsevier, pp. 361–410.
-* Hitchcock, David, 2007, “Informal Logic and the Concept of Argument”, in *Philosophy of Logic*, Dale Jacquette (ed.), Amsterdam, Elsevier, pp. 101–129.
-* Hornikx, Jos and Judith de Best, 2011, “Persuasive Evidence in India: An Investigation of the Impact of Evidence Types and Evidence Quality”, *Argumentation and Advocacy*, 47(4): 246–257. doi:10.1080/00028533.2011.11821750
-* Hornikx, Jos and Ulrike Hahn, 2012, “Reasoning and Argumentation: Towards an Integrated Psychology of Argumentation”, *Thinking & Reasoning*, 18(3): 225–243. doi:10.1080/13546783.2012.674715
-* Hornikx, Jos and Hans Hoeken, 2007, “Cultural Differences in the Persuasiveness of Evidence Types and Evidence Quality”, *Communication Monographs*, 74(4): 443–463. doi:10.1080/03637750701716578
-* Howes, Moira and Catherine Hundleby, 2018, “The Epistemology of Anger in Argumentation”, *Symposion*, 5(2): 229–254. doi:10.5840/symposion20185218
-* Howson, Colin, 2000, *Hume’s Problem: Induction and the Justification of Belief*, Oxford: Oxford University Press. doi:10.1093/0198250371.001.0001
-* Hundleby, Catherine, 2013, “Aggression, Politeness, and Abstract Adversaries”, *Informal Logic*, 33(2): 238–262. doi:10.22329/il.v33i2.3895
-* Hutchins, Edwin, 1980, *Culture and Inference: A Trobriand Case Study*, Cambridge, MA: Harvard University Press.
-* Irani, Tushar, 2017, *Plato on the Value of Philosophy: The Art of Argument in the ‘Gorgias’ and ‘Phaedrus’*, Cambridge: Cambridge University Press. doi:10.1017/9781316855621
-* Isenberg, Daniel J., 1986, “Group Polarization: A Critical Review and Meta-Analysis”, *Journal of Personality and Social Psychology*, 50(6): 1141–1151. doi:10.1037/0022-3514.50.6.1141
-* Jackson, Sally, 2019, “Reason-Giving and the Natural Normativity of Argumentation”, *Topoi*, 38(4): 631–643. doi:10.1007/s11245-018-9553-5
-* Jackson, Sally and Scott Jacobs, 1980, “Structure of Conversational Argument: Pragmatic Bases for the Enthymeme”, *Quarterly Journal of Speech*, 66(3): 251–265. doi:10.1080/00335638009383524
-* Johnson, Ralph Henry and J. Anthony Blair, 1977, *Logical Self-Defense*, Toronto: McGraw Hill-Ryerson.
-* Jorgensen Bolinger, Renée, 2021, “Demographic Statistics in Defensive Decisions”, *Synthese*, 198(5): 4833–4850. doi:10.1007/s11229-019-02372-w
-* Josephson, John R. and Susan G. Josephson (eds.), 1994, *Abductive Inference: Computation, Philosophy, Technology*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511530128
-* Kahan, Dan M., 2017, *Misconceptions, Misinformation, and the Logic of Identity-Protective Cognition*, Cultural Cognition Project Working Paper 164, Yale Law School Public Law Research Paper 605; Yale Law & Economics Research Paper 575. \[[Kahan 2017 available online](https://www.ssrn.com/abstract=2973067)]
-* Kaplan, David, 1989, “Demonstratives: An Essay on the Semantics, Logic, Metaphysics and Epistemology of Demonstratives and other Indexicals”, in *Themes From Kaplan*, Joseph Almog, John Perry, and Howard Wettstein, New York: Oxford University Press, pp. 481–563.
-* Keil, Frank C., 2006, “Explanation and Understanding”, *Annual Review of Psychology*, 57: 227–254. doi:10.1146/annurev.psych.57.102904.190100
-* Kidd, Ian James, 2016, “Intellectual Humility, Confidence, and Argumentation”, *Topoi*, 35(2): 395–402. doi:10.1007/s11245-015-9324-5
-* –––, 2020, “Martial Metaphors and Argumentative Virtues and Vices”, in *Polarisation, Arrogance, and Dogmatism: Philosophical Perspectives*, Alessandra Tanesini and Michael Lynch, London: Routledge, pp. 25–38.
-* Kitcher, Philip, 2001, *Science, Truth, and Democracy*, Oxford: Oxford University Press. doi:10.1093/0195145836.001.0001
-* Köymen, Bahar, Maria Mammen, and Michael Tomasello, 2016, “Preschoolers Use Common Ground in Their Justificatory Reasoning with Peers”, *Developmental Psychology*, 52(3): 423–429. doi:10.1037/dev0000089
-* Köymen, Bahar and Michael Tomasello, 2020, “The Early Ontogeny of Reason Giving”, *Child Development Perspectives*, 14(4): 215–220. doi:10.1111/cdep.12384
-* Krabbe, Erik C. W. and Jan Albert van Laar, 2015, “That’s No Argument! The Dialectic of Non-Argumentation”, *Synthese*, 192(4): 1173–1197. doi:10.1007/s11229-014-0609-9
-* Kramer, Adam D. I., Jamie E. Guillory, and Jeffrey T. Hancock, 2014, “Experimental Evidence of Massive-Scale Emotional Contagion through Social Networks”, *Proceedings of the National Academy of Sciences*, 111(24): 8788–8790. doi:10.1073/pnas.1320040111
-* Kuhn, Deanna and Amanda Crowell, 2011, “Dialogic Argumentation as a Vehicle for Developing Young Adolescents’ Thinking”, *Psychological Science*, 22(4): 545–552. doi:10.1177/0956797611402512
-* Kukla, Quill Rebecca, 2014, “Performative Force, Convention, and Discursive Injustice”, *Hypatia*, 29(2): 440–457. doi:10.1111/j.1527-2001.2012.01316.x
-* Kwong, Jack M. C., 2016, “Open-Mindedness as a Critical Virtue”, *Topoi*, 35(2): 403–411. doi:10.1007/s11245-015-9317-4
-* Lagewaard, T. J., 2021, “Epistemic Injustice and Deepened Disagreement”, *Philosophical Studies*, 178(5): 1571–1592. doi:10.1007/s11098-020-01496-x
-* Lamond, Grant, 2014, “Analogical Reasoning in the Common Law”, *Oxford Journal of Legal Studies*, 34(3): 567–588. doi:10.1093/ojls/gqu014
-* Landemore, Hélène, 2013, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*, Princeton, NJ: Princeton University Press.
-* Lewiński, Marcin, 2010, “Collective Argumentative Criticism in Informal Online Discussion Forums”, *Argumentation and Advocacy*, 47(2): 86–105. doi:10.1080/00028533.2010.11821740
-* Lewiński, Marcin and Mark Aakhus, 2014, “Argumentative Polylogues in a Dialectical Framework: A Methodological Inquiry”, *Argumentation*, 28(2): 161–185. doi:10.1007/s10503-013-9307-x
-* Lewiński, Marcin and Dima Mohammed, 2016, “Argumentation Theory”, in *The International Encyclopedia of Communication Theory and Philosophy*, Klaus Bruhn Jensen, Robert T. Craig, Jefferson Pooley, and Eric W. Rothenbuhler (eds.), Hoboken, NJ: Wiley. doi:10.1002/9781118766804.wbiect198
-* Lipton, Peter, 1971 \[2003], *Inference to the Best Explanation*, London: Routledge. Second edition, 2003. doi:10.4324/9780203470855
-* Lombrozo, Tania, 2007, “Simplicity and Probability in Causal Explanation”, *Cognitive Psychology*, 55(3): 232–257. doi:10.1016/j.cogpsych.2006.09.006
-* Longino, Helen E., 1990, *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*, Princeton, NJ: Princeton University Press.
-* Lorenzen, Paul and Kuno Lorenz, 1978, *Dialogische Logik*, Darmstadt: Wissenschafstliche Buchgesellschaft.
-* Lumer, Christoph, 2005, “Introduction: The Epistemological Approach to Argumentation—A Map”, *Informal Logic*, 25(3): 189–212. doi:10.22329/il.v25i3.1134
-* Lynch, Michael Patrick, 2019, *Know-It-All Society: Truth and Arrogance in Political Culture*, New York, NY: Liveright.
-* Mäs, Michael and Andreas Flache, 2013, “Differentiation without Distancing. Explaining Bi-Polarization of Opinions without Negative Influence”, *PLoS ONE*, 8(11): e74516. doi:10.1371/journal.pone.0074516
-* MacCormick, Neil, 1978, *Legal Reasoning and Legal Theory*, Oxford: Clarendon.
-* Mackenzie, Jim, 1989, “Reasoning and Logic”, *Synthese*, 79(1): 99–117. doi:10.1007/BF00873257
-* Massey, Gerald J., 1981, “The Fallacy behind Fallacies”, *Midwest Studies in Philosophy*, 6: 489–500. doi:10.1111/j.1475-4975.1981.tb00454.x
-* McKinnon, Rachel, 2016, “Epistemic Injustice”, *Philosophy Compass*, 11(8): 437–446. doi:10.1111/phc3.12336
-* Medina, José, 2011, “The Relevance of Credibility Excess in a Proportional View of Epistemic Injustice: Differential Epistemic Authority and the Social Imaginary”, *Social Epistemology*, 25(1): 15–35. doi:10.1080/02691728.2010.534568
-* Mercier, Hugo, 2011, “On the Universality of Argumentative Reasoning”, *Journal of Cognition and Culture*, 11(1–2): 85–113. doi:10.1163/156853711X568707
-* –––, 2013, “Introduction: Recording and Explaining Cultural Differences in Argumentation”, *Journal of Cognition and Culture*, 13(5): 409–417. doi:10.1163/15685373-12342101
+* Fishkin, James, 2016, “Deliberative Democracy”, in _Emerging Trends in the Social and Behavioral Sciences_, Robert A. Scott and Marlis C. Buchmann, New York: Wiley.
+* Fogelin, Robert, 1985, “The Logic of Deep Disagreements”, _Informal Logic_, 7(1): 3–11. doi:10.22329/il.v7i1.2696
+* Fraassen, Bas C. van, 1989, _Laws and Symmetry_, Oxford: Oxford University Press. doi:10.1093/0198248601.001.0001
+* Fricker, Miranda, 2007, _Epistemic Injustice: Power and the Ethics of Knowing_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
+* Geuss, Raymond, 2019, “A Republic of Discussion: Habermas at Ninety”, _The Point Magazine_, 18 June 2019. \[[Geuss 2019 available online](https://thepointmag.com/politics/a-republic-of-discussion-habermas-at-ninety/)]
+* Gilbert, Michael A., 1994, “Feminism, Argumentation and Coalescence”, _Informal Logic_, 16(2): 95–113. doi:10.22329/il.v16i2.2444
+* –––, 1997, _Coalescent Argumentation_, Mahwah, NJ: L. Erlbaum Associates.
+* –––, 2004, “Emotion, Argumentation and Informal Logic”, _Informal Logic_, 24(3): 245–264. doi:10.22329/il.v24i3.2147
+* Goldman, Alvin I., 1994, “Argumentation and Social Epistemology”, _Journal of Philosophy_, 91(1): 27–49. doi:10.2307/2940949
+* –––, 2004, “An Epistemological Approach to Argumentation”, _Informal Logic_, 23(1): 49–61. doi:10.22329/il.v23i1.2153
+* González González, Manuela, Julder Gómez, and Mariantonia Lemos, 2019, “Theoretical Considerations for the Articulation of Emotion and Argumentation in the Arguer: A Proposal for Emotion Regulation in Deliberation”, _Argumentation_, 33(3): 349–364. doi:10.1007/s10503-018-09476-6
+* Goodwin, Jean, 2007, “Argument Has No Function”, _Informal Logic_, 27(1): 69–90. doi:10.22329/il.v27i1.465
+* Gordon, Peter, 2004, “Numerical Cognition Without Words: Evidence from Amazonia”, _Science_, 306(5695): 496–499. doi:10.1126/science.1094492
+* Gordon-Smith, Eleanor, 2019, _Stop Being Reasonable: How We Really Change Minds_, New York: Public Affairs.
+* Govier, Trudy, 1999, _The Philosophy of Argument_, Newport News, VA: Vale Press.
+* Habermas, Jürgen, 1981 \[1984], _Theorie des kommunikativen Handelns. Bd. 1, Handlungsrationalität und gesellschaftliche Rationalisierung_, Frankfurt am Main: Suhrkamp. Translated as _The Theory of Communicative Action. Vol. I: Reason and the Rationalization of Society_, Thomas McCarthy (trans.), Boston: Beacon Press.
+* –––, 1992 \[1996], _Faktizität und Geltung: Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats_, Frankfurt am Main: Suhrkamp. Translated as _Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy_, William Rehg (trans.), Cambridge, MA: MIT Press.
+* Habernal, Ivan and Iryna Gurevych, 2017, “Argumentation Mining in User-Generated Web Discourse”, _Computational Linguistics_, 43(1): 125–179. doi:10.1162/COLI\*a\*00276
+* Hahn, Ulrike and Jos Hornikx, 2016, “A Normative Framework for Argument Quality: Argumentation Schemes with a Bayesian Foundation”, _Synthese_, 193(6): 1833–1873. doi:10.1007/s11229-015-0815-0
+* Hahn, Ulrike and Mike Oaksford, 2006, “A Normative Theory of Argument Strength”, _Informal Logic_, 26(1): 1–24. doi:10.22329/il.v26i1.428
+* –––, 2007, “The Rationality of Informal Argumentation: A Bayesian Approach to Reasoning Fallacies”, _Psychological Review_, 114(3): 704–732. doi:10.1037/0033-295X.114.3.704
+* Halpern, Daniel and Jennifer Gibbs, 2013, “Social Media as a Catalyst for Online Deliberation? Exploring the Affordances of Facebook and YouTube for Political Expression”, _Computers in Human Behavior_, 29(3): 1159–1168. doi:10.1016/j.chb.2012.10.008
+* Hamblin, C. L., 1970, _Fallacies_, London: Methuen.
+* Hample, Dale, 2006, _Arguing: Exchanging Reasons Face to Face_, New York: Routledge. doi:10.4324/9781410613486
+* –––, 2018, _Interpersonal Arguing_, New York: Peter Lang.
+* Harman, Gilbert H., 1965, “The Inference to the Best Explanation”, _The Philosophical Review_, 74(1): 88–95. doi:10.2307/2183532
+* Hart, H. L. A., 1961, _The Concept of Law_, Oxford: Clarendon.
+* Henrich, Joseph, Steven J. Heine, and Ara Norenzayan, 2010, “The Weirdest People in the World?”, _Behavioral and Brain Sciences_, 33(2–3): 61–83. doi:10.1017/S0140525X0999152X
+* Hindman, Matthew, 2009, _The Myth of Digital Democracy_, Princeton, NJ: Princeton University Press.
+* Hintikka, Jaakko and Gabriel Sandu, 1997, “Game-Theoretical Semantics”, in _Handbook of Logic and Language_, Johan van Benthem and Alice ter Meulen (eds), Amsterdam: Elsevier, pp. 361–410.
+* Hitchcock, David, 2007, “Informal Logic and the Concept of Argument”, in _Philosophy of Logic_, Dale Jacquette (ed.), Amsterdam, Elsevier, pp. 101–129.
+* Hornikx, Jos and Judith de Best, 2011, “Persuasive Evidence in India: An Investigation of the Impact of Evidence Types and Evidence Quality”, _Argumentation and Advocacy_, 47(4): 246–257. doi:10.1080/00028533.2011.11821750
+* Hornikx, Jos and Ulrike Hahn, 2012, “Reasoning and Argumentation: Towards an Integrated Psychology of Argumentation”, _Thinking & Reasoning_, 18(3): 225–243. doi:10.1080/13546783.2012.674715
+* Hornikx, Jos and Hans Hoeken, 2007, “Cultural Differences in the Persuasiveness of Evidence Types and Evidence Quality”, _Communication Monographs_, 74(4): 443–463. doi:10.1080/03637750701716578
+* Howes, Moira and Catherine Hundleby, 2018, “The Epistemology of Anger in Argumentation”, _Symposion_, 5(2): 229–254. doi:10.5840/symposion20185218
+* Howson, Colin, 2000, _Hume’s Problem: Induction and the Justification of Belief_, Oxford: Oxford University Press. doi:10.1093/0198250371.001.0001
+* Hundleby, Catherine, 2013, “Aggression, Politeness, and Abstract Adversaries”, _Informal Logic_, 33(2): 238–262. doi:10.22329/il.v33i2.3895
+* Hutchins, Edwin, 1980, _Culture and Inference: A Trobriand Case Study_, Cambridge, MA: Harvard University Press.
+* Irani, Tushar, 2017, _Plato on the Value of Philosophy: The Art of Argument in the ‘Gorgias’ and ‘Phaedrus’_, Cambridge: Cambridge University Press. doi:10.1017/9781316855621
+* Isenberg, Daniel J., 1986, “Group Polarization: A Critical Review and Meta-Analysis”, _Journal of Personality and Social Psychology_, 50(6): 1141–1151. doi:10.1037/0022-3514.50.6.1141
+* Jackson, Sally, 2019, “Reason-Giving and the Natural Normativity of Argumentation”, _Topoi_, 38(4): 631–643. doi:10.1007/s11245-018-9553-5
+* Jackson, Sally and Scott Jacobs, 1980, “Structure of Conversational Argument: Pragmatic Bases for the Enthymeme”, _Quarterly Journal of Speech_, 66(3): 251–265. doi:10.1080/00335638009383524
+* Johnson, Ralph Henry and J. Anthony Blair, 1977, _Logical Self-Defense_, Toronto: McGraw Hill-Ryerson.
+* Jorgensen Bolinger, Renée, 2021, “Demographic Statistics in Defensive Decisions”, _Synthese_, 198(5): 4833–4850. doi:10.1007/s11229-019-02372-w
+* Josephson, John R. and Susan G. Josephson (eds.), 1994, _Abductive Inference: Computation, Philosophy, Technology_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511530128
+* Kahan, Dan M., 2017, _Misconceptions, Misinformation, and the Logic of Identity-Protective Cognition_, Cultural Cognition Project Working Paper 164, Yale Law School Public Law Research Paper 605; Yale Law & Economics Research Paper 575. \[[Kahan 2017 available online](https://www.ssrn.com/abstract=2973067)]
+* Kaplan, David, 1989, “Demonstratives: An Essay on the Semantics, Logic, Metaphysics and Epistemology of Demonstratives and other Indexicals”, in _Themes From Kaplan_, Joseph Almog, John Perry, and Howard Wettstein, New York: Oxford University Press, pp. 481–563.
+* Keil, Frank C., 2006, “Explanation and Understanding”, _Annual Review of Psychology_, 57: 227–254. doi:10.1146/annurev.psych.57.102904.190100
+* Kidd, Ian James, 2016, “Intellectual Humility, Confidence, and Argumentation”, _Topoi_, 35(2): 395–402. doi:10.1007/s11245-015-9324-5
+* –––, 2020, “Martial Metaphors and Argumentative Virtues and Vices”, in _Polarisation, Arrogance, and Dogmatism: Philosophical Perspectives_, Alessandra Tanesini and Michael Lynch, London: Routledge, pp. 25–38.
+* Kitcher, Philip, 2001, _Science, Truth, and Democracy_, Oxford: Oxford University Press. doi:10.1093/0195145836.001.0001
+* Köymen, Bahar, Maria Mammen, and Michael Tomasello, 2016, “Preschoolers Use Common Ground in Their Justificatory Reasoning with Peers”, _Developmental Psychology_, 52(3): 423–429. doi:10.1037/dev0000089
+* Köymen, Bahar and Michael Tomasello, 2020, “The Early Ontogeny of Reason Giving”, _Child Development Perspectives_, 14(4): 215–220. doi:10.1111/cdep.12384
+* Krabbe, Erik C. W. and Jan Albert van Laar, 2015, “That’s No Argument! The Dialectic of Non-Argumentation”, _Synthese_, 192(4): 1173–1197. doi:10.1007/s11229-014-0609-9
+* Kramer, Adam D. I., Jamie E. Guillory, and Jeffrey T. Hancock, 2014, “Experimental Evidence of Massive-Scale Emotional Contagion through Social Networks”, _Proceedings of the National Academy of Sciences_, 111(24): 8788–8790. doi:10.1073/pnas.1320040111
+* Kuhn, Deanna and Amanda Crowell, 2011, “Dialogic Argumentation as a Vehicle for Developing Young Adolescents’ Thinking”, _Psychological Science_, 22(4): 545–552. doi:10.1177/0956797611402512
+* Kukla, Quill Rebecca, 2014, “Performative Force, Convention, and Discursive Injustice”, _Hypatia_, 29(2): 440–457. doi:10.1111/j.1527-2001.2012.01316.x
+* Kwong, Jack M. C., 2016, “Open-Mindedness as a Critical Virtue”, _Topoi_, 35(2): 403–411. doi:10.1007/s11245-015-9317-4
+* Lagewaard, T. J., 2021, “Epistemic Injustice and Deepened Disagreement”, _Philosophical Studies_, 178(5): 1571–1592. doi:10.1007/s11098-020-01496-x
+* Lamond, Grant, 2014, “Analogical Reasoning in the Common Law”, _Oxford Journal of Legal Studies_, 34(3): 567–588. doi:10.1093/ojls/gqu014
+* Landemore, Hélène, 2013, _Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many_, Princeton, NJ: Princeton University Press.
+* Lewiński, Marcin, 2010, “Collective Argumentative Criticism in Informal Online Discussion Forums”, _Argumentation and Advocacy_, 47(2): 86–105. doi:10.1080/00028533.2010.11821740
+* Lewiński, Marcin and Mark Aakhus, 2014, “Argumentative Polylogues in a Dialectical Framework: A Methodological Inquiry”, _Argumentation_, 28(2): 161–185. doi:10.1007/s10503-013-9307-x
+* Lewiński, Marcin and Dima Mohammed, 2016, “Argumentation Theory”, in _The International Encyclopedia of Communication Theory and Philosophy_, Klaus Bruhn Jensen, Robert T. Craig, Jefferson Pooley, and Eric W. Rothenbuhler (eds.), Hoboken, NJ: Wiley. doi:10.1002/9781118766804.wbiect198
+* Lipton, Peter, 1971 \[2003], _Inference to the Best Explanation_, London: Routledge. Second edition, 2003. doi:10.4324/9780203470855
+* Lombrozo, Tania, 2007, “Simplicity and Probability in Causal Explanation”, _Cognitive Psychology_, 55(3): 232–257. doi:10.1016/j.cogpsych.2006.09.006
+* Longino, Helen E., 1990, _Science as Social Knowledge: Values and Objectivity in Scientific Inquiry_, Princeton, NJ: Princeton University Press.
+* Lorenzen, Paul and Kuno Lorenz, 1978, _Dialogische Logik_, Darmstadt: Wissenschafstliche Buchgesellschaft.
+* Lumer, Christoph, 2005, “Introduction: The Epistemological Approach to Argumentation—A Map”, _Informal Logic_, 25(3): 189–212. doi:10.22329/il.v25i3.1134
+* Lynch, Michael Patrick, 2019, _Know-It-All Society: Truth and Arrogance in Political Culture_, New York, NY: Liveright.
+* Mäs, Michael and Andreas Flache, 2013, “Differentiation without Distancing. Explaining Bi-Polarization of Opinions without Negative Influence”, _PLoS ONE_, 8(11): e74516. doi:10.1371/journal.pone.0074516
+* MacCormick, Neil, 1978, _Legal Reasoning and Legal Theory_, Oxford: Clarendon.
+* Mackenzie, Jim, 1989, “Reasoning and Logic”, _Synthese_, 79(1): 99–117. doi:10.1007/BF00873257
+* Massey, Gerald J., 1981, “The Fallacy behind Fallacies”, _Midwest Studies in Philosophy_, 6: 489–500. doi:10.1111/j.1475-4975.1981.tb00454.x
+* McKinnon, Rachel, 2016, “Epistemic Injustice”, _Philosophy Compass_, 11(8): 437–446. doi:10.1111/phc3.12336
+* Medina, José, 2011, “The Relevance of Credibility Excess in a Proportional View of Epistemic Injustice: Differential Epistemic Authority and the Social Imaginary”, _Social Epistemology_, 25(1): 15–35. doi:10.1080/02691728.2010.534568
+* Mercier, Hugo, 2011, “On the Universality of Argumentative Reasoning”, _Journal of Cognition and Culture_, 11(1–2): 85–113. doi:10.1163/156853711X568707
+* –––, 2013, “Introduction: Recording and Explaining Cultural Differences in Argumentation”, _Journal of Cognition and Culture_, 13(5): 409–417. doi:10.1163/15685373-12342101
 * –––, 2018, “Reasoning and Argumentation”, in Ball and Thomson 2018: 401–414.
-* Mercier, Hugo and Christophe Heintz, 2014, “Scientists’ Argumentative Reasoning”, *Topoi*, 33(2): 513–524. doi:10.1007/s11245-013-9217-4
-* Mercier, Hugo and Dan Sperber, 2017, *The Enigma of Reason*, Cambridge, MA: Harvard University Press.
-* Mercier, Hugo, M. Deguchi, J.-B. Van der Henst, and H. Yama, 2016, “The Benefits of Argumentation Are Cross-Culturally Robust: The Case of Japan”, *Thinking & Reasoning*, 22(1): 1–15. doi:10.1080/13546783.2014.1002534
-* Merton, Robert, 1942, *The Sociology of Science: Theoretical and Empirical Investigations*, Chicago: University of Chicago Press.
-* Mill, John Stuart, 1859, *On Liberty*, London: John W. Parker and Son. Reprinted Peterborough: Broadview Press, 1999.
-* Mohammed, Dima, 2016, “Goals in Argumentation: A Proposal for the Analysis and Evaluation of Public Political Arguments”, *Argumentation*, 30(3): 221–245. doi:10.1007/s10503-015-9370-6
-* Mouffe, Chantal, 1999, “Deliberative Democracy or Agonistic Pluralism?”, *Social Research*, 66(3): 745–758.
-* –––, 2000, *The Democratic Paradox*, London: Verso.
-* Moulton, Janice, 1983, “A Paradigm of Philosophy: The Adversary Method”, in *Discovering Reality*, Sandra Harding and Merrill B. Hintikka (eds.), (Synthese Library 161), Dordrecht: Kluwer Academic Publishers, pp. 149–164. doi:10.1007/0-306-48017-4\*9
-* Muller Mirza, Nathalie and Anne-Nelly Perret-Clermont (eds.), 2009, *Argumentation and Education: Theoretical Foundations and Practices*, Boston, MA: Springer US. doi:10.1007/978-0-387-98125-3
-* Nelson, Michael and Edward N. Zalta, 2012, “A Defense of Contingent Logical Truths”, *Philosophical Studies*, 157(1): 153–162. doi:10.1007/s11098-010-9624-y
-* Netz, Reviel, 1999, *The Shaping of Deduction in Greek Mathematics: A Study in Cognitive History*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511543296
-* Nguyen, C. Thi, 2020, “Echo Chambers and Epistemic Bubbles”, *Episteme*, 17(2): 141–161. doi:10.1017/epi.2018.32
-* Nickerson, Raymond S., 1998, “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises”, *Review of General Psychology*, 2(2): 175–220. doi:10.1037/1089-2680.2.2.175
-* Norman, Andy, 2016, “Why We Reason: Intention-Alignment and the Genesis of Human Rationality”, *Biology & Philosophy*, 31(5): 685–704. doi:10.1007/s10539-016-9532-4
-* Norton, John D., 2003, “A Material Theory of Induction”, *Philosophy of Science*, 70(4): 647–670. doi:10.1086/378858
-* Nozick, Robert, 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
+* Mercier, Hugo and Christophe Heintz, 2014, “Scientists’ Argumentative Reasoning”, _Topoi_, 33(2): 513–524. doi:10.1007/s11245-013-9217-4
+* Mercier, Hugo and Dan Sperber, 2017, _The Enigma of Reason_, Cambridge, MA: Harvard University Press.
+* Mercier, Hugo, M. Deguchi, J.-B. Van der Henst, and H. Yama, 2016, “The Benefits of Argumentation Are Cross-Culturally Robust: The Case of Japan”, _Thinking & Reasoning_, 22(1): 1–15. doi:10.1080/13546783.2014.1002534
+* Merton, Robert, 1942, _The Sociology of Science: Theoretical and Empirical Investigations_, Chicago: University of Chicago Press.
+* Mill, John Stuart, 1859, _On Liberty_, London: John W. Parker and Son. Reprinted Peterborough: Broadview Press, 1999.
+* Mohammed, Dima, 2016, “Goals in Argumentation: A Proposal for the Analysis and Evaluation of Public Political Arguments”, _Argumentation_, 30(3): 221–245. doi:10.1007/s10503-015-9370-6
+* Mouffe, Chantal, 1999, “Deliberative Democracy or Agonistic Pluralism?”, _Social Research_, 66(3): 745–758.
+* –––, 2000, _The Democratic Paradox_, London: Verso.
+* Moulton, Janice, 1983, “A Paradigm of Philosophy: The Adversary Method”, in _Discovering Reality_, Sandra Harding and Merrill B. Hintikka (eds.), (Synthese Library 161), Dordrecht: Kluwer Academic Publishers, pp. 149–164. doi:10.1007/0-306-48017-4\*9
+* Muller Mirza, Nathalie and Anne-Nelly Perret-Clermont (eds.), 2009, _Argumentation and Education: Theoretical Foundations and Practices_, Boston, MA: Springer US. doi:10.1007/978-0-387-98125-3
+* Nelson, Michael and Edward N. Zalta, 2012, “A Defense of Contingent Logical Truths”, _Philosophical Studies_, 157(1): 153–162. doi:10.1007/s11098-010-9624-y
+* Netz, Reviel, 1999, _The Shaping of Deduction in Greek Mathematics: A Study in Cognitive History_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511543296
+* Nguyen, C. Thi, 2020, “Echo Chambers and Epistemic Bubbles”, _Episteme_, 17(2): 141–161. doi:10.1017/epi.2018.32
+* Nickerson, Raymond S., 1998, “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises”, _Review of General Psychology_, 2(2): 175–220. doi:10.1037/1089-2680.2.2.175
+* Norman, Andy, 2016, “Why We Reason: Intention-Alignment and the Genesis of Human Rationality”, _Biology & Philosophy_, 31(5): 685–704. doi:10.1007/s10539-016-9532-4
+* Norton, John D., 2003, “A Material Theory of Induction”, _Philosophy of Science_, 70(4): 647–670. doi:10.1086/378858
+* Nozick, Robert, 1981, _Philosophical Explanations_, Cambridge, MA: Harvard University Press.
 * Oaksford, Mike and Nick Chater, 2018, “Probabilities and Bayesian Rationality”, in Ball and Thomson 2018: 415–433.
-* Olson, Kevin, 2011 \[2014], “Deliberative Democracy”, in *Jürgen Habermas: Key Concepts*, Barbara Fultner (ed.), Durham, UK: Acument; reprinted London: Routledge, 2014, pp. 140–155.
+* Olson, Kevin, 2011 \[2014], “Deliberative Democracy”, in _Jürgen Habermas: Key Concepts_, Barbara Fultner (ed.), Durham, UK: Acument; reprinted London: Routledge, 2014, pp. 140–155.
 * Olsson, Erik J., 2013, “A Bayesian Simulation Model of Group Deliberation and Polarization”, in Zenker 2013: 113–133. doi:10.1007/978-94-007-5357-0\*6
-* Oswald, Steve, Thierry Herman, and Jérôme Jacquin (eds.), 2018, *Argumentation and Language — Linguistic, Cognitive and Discursive Explorations* (Argumentation Library 32), Cham: Springer International Publishing. doi:10.1007/978-3-319-73972-4
-* Paglieri, Fabio, Laura Bonelli, and Silvia Felletti, 2016, *The Psychology of Argument: Cognitive Approaches to Argumentation and Persuasion*, London: College Publications.
-* Patterson, Steven W, 2011, “Functionalism, Normativity and the Concept of Argumentation”, *Informal Logic*, 31(1): 1–26. doi:10.22329/il.v31i1.3013
-* Peldszus, Andreas and Manfred Stede, 2013, “From Argument Diagrams to Argumentation Mining in Texts: A Survey”, *International Journal of Cognitive Informatics and Natural Intelligence*, 7(1): 1–31. doi:10.4018/jcini.2013010101
-* Perelman, Chaim and Lucia Olbrechts-Tyteca, 1958 \[1969], *Traité de l’argumentation; la nouvelle rhétorique*, Paris: Presses universitaires de France. Translated as *The New Rhetoric: A Treatise on Argumentation*, John Wilkinson and Purcell Weaver (trans), Notre Dame, IN: University of Notre Dame Press, 1969.
-* Pollock, John L., 1987, “Defeasible Reasoning”, *Cognitive Science*, 11(4): 481–518. doi:10.1207/s15516709cog1104\*4
-* Prakken, Henry and Giovanni Sartor, 2015, “Law and Logic: A Review from an Argumentation Perspective”, *Artificial Intelligence*, 227(October): 214–245. doi:10.1016/j.artint.2015.06.005
-* Rahwan, Iyad and Guillermo Simari (eds.), 2009, *Argumentation in Artificial Intelligence*, Boston, MA: Springer US. doi:10.1007/978-0-387-98197-0
-* Raz, J., 2001, “Reasoning with Rules”, *Current Legal Problems*, 54(1): 1–18. doi:10.1093/clp/54.1.1
-* Rehg, William, 2008, *Cogent Science in Context: The Science Wars, Argumentation Theory, and Habermas*, Cambridge, MA: MIT Press.
-* Reiter, R., 1980, “A Logic for Default Reasoning”, *Artificial Intelligence*, 13(1–2): 81–132. doi:10.1016/0004-3702(80)90014-4
-* Restall, Greg, 2004, “Logical Pluralism and the Preservation of Warrant”, in *Logic, Epistemology, and the Unity of Science*, Shahid Rahman, John Symons, Dov M. Gabbay, and Jean Paul van Bendegem (eds.), Dordrecht: Springer Netherlands, pp. 163–173. doi:10.1007/978-1-4020-2808-3\*10
-* Rooney, Phyllis, 2012, “When Philosophical Argumentation Impedes Social and Political Progress”, *Journal of Social Philosophy*, 43(3): 317–333. doi:10.1111/j.1467-9833.2012.01568.x
-* Sanders, Lynn M., 1997, “Against Deliberation”, *Political Theory*, 25(3): 347–376. doi:10.1177/0090591797025003002
-* Schmitt, Carl, 1922 \[2005], *Politische Theologie: Vier Kapitel zur Lehre von der Souveränität*, München Und Leipzig: Duncker & Humblot. Part translated as *Political Theology: Four Chapters on the Concept of Sovereignty*, George Schwab (trans.), Chicago: University of Chicago Press, 1985. Translation reprinted 2005.
-* Schotch, Peter K., Bryson Brown, and Raymond E. Jennings (eds.), 2009, *On Preserving: Essays on Preservationism and Paraconsistent Logic*, (Toronto Studies in Philosophy), Toronto/Buffalo, NY: University of Toronto Press.
-* Sequoiah-Grayson, Sebastian, 2008, “The Scandal of Deduction: Hintikka on the Information Yield of Deductive Inferences”, *Journal of Philosophical Logic*, 37(1): 67–94. doi:10.1007/s10992-007-9060-4
-* Shapiro, Stewart, 2005, “Logical Consequence, Proof Theory, and Model Theory”, in *Oxford Handbook of Philosophy of Mathematics and Logic*, Stewart Shapiro (ed.), Oxford: Oxford University Press, pp. 651–670.
-* –––, 2014, *Varieties of Logic*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199696529.001.0001
-* Siegel, Harvey, 1995, “Why Should Educators Care about Argumentation?”, *Informal Logic*, 17(2): 159–176. doi:10.22329/il.v17i2.2405
-* Sinhababu, Neil, 2017, *Humean Nature: How Desire Explains Action, Thought, and Feeling*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198783893.001.0001
-* Sklar, Elizabeth I. and Mohammad Q. Azhar, 2018, “Explanation through Argumentation”, in *Proceedings of the 6th International Conference on Human-Agent Interaction*, Southampton, UK: ACM, pp. 277–285. doi:10.1145/3284432.3284470
-* Smart, Paul, Richard Heersmink, and Robert W. Clowes, 2017, “The Cognitive Ecology of the Internet”, in *Cognition Beyond the Brain: Computation, Interactivity and Human Artifice*, Stephen J. Cowley and Frédéric Vallée-Tourangeau (eds.), Cham: Springer International Publishing, pp. 251–282. doi:10.1007/978-3-319-49115-8\*13
-* Sober, Elliott, 2015, *Ockham’s Razors: A User’s Manual*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107705937
-* Sperber, Dan, Fabrice Clément, Christophe Heintz, Olivier Mascaro, Hugo Mercier, Gloria Origgi, and Deirdre Wilson, 2010, “Epistemic Vigilance”, *Mind & Language*, 25(4): 359–393. doi:10.1111/j.1468-0017.2010.01394.x
-* Stebbing, Lizzie Susan, 1939, *Thinking to Some Purpose*, Harmondsworth: Penguin.
-* Sunstein, Cass R., 2002, “The Law of Group Polarization”, *Journal of Political Philosophy*, 10(2): 175–195. doi:10.1111/1467-9760.00148
-* –––, 2017, *#republic: Divided Democracy in the Age of Social Media*, Princeton, NJ: Princeton University Press.
-* Taber, Charles S. and Milton Lodge, 2006, “Motivated Skepticism in the Evaluation of Political Beliefs”, *American Journal of Political Science*, 50(3): 755–769. doi:10.1111/j.1540-5907.2006.00214.x
-* Talisse, Robert B., 2019, *Overdoing Democracy: Why We Must Put Politics in Its Place*, New York: Oxford University Press. doi:10.1093/oso/9780190924195.001.0001
+* Oswald, Steve, Thierry Herman, and Jérôme Jacquin (eds.), 2018, _Argumentation and Language — Linguistic, Cognitive and Discursive Explorations_ (Argumentation Library 32), Cham: Springer International Publishing. doi:10.1007/978-3-319-73972-4
+* Paglieri, Fabio, Laura Bonelli, and Silvia Felletti, 2016, _The Psychology of Argument: Cognitive Approaches to Argumentation and Persuasion_, London: College Publications.
+* Patterson, Steven W, 2011, “Functionalism, Normativity and the Concept of Argumentation”, _Informal Logic_, 31(1): 1–26. doi:10.22329/il.v31i1.3013
+* Peldszus, Andreas and Manfred Stede, 2013, “From Argument Diagrams to Argumentation Mining in Texts: A Survey”, _International Journal of Cognitive Informatics and Natural Intelligence_, 7(1): 1–31. doi:10.4018/jcini.2013010101
+* Perelman, Chaim and Lucia Olbrechts-Tyteca, 1958 \[1969], _Traité de l’argumentation; la nouvelle rhétorique_, Paris: Presses universitaires de France. Translated as _The New Rhetoric: A Treatise on Argumentation_, John Wilkinson and Purcell Weaver (trans), Notre Dame, IN: University of Notre Dame Press, 1969.
+* Pollock, John L., 1987, “Defeasible Reasoning”, _Cognitive Science_, 11(4): 481–518. doi:10.1207/s15516709cog1104\*4
+* Prakken, Henry and Giovanni Sartor, 2015, “Law and Logic: A Review from an Argumentation Perspective”, _Artificial Intelligence_, 227(October): 214–245. doi:10.1016/j.artint.2015.06.005
+* Rahwan, Iyad and Guillermo Simari (eds.), 2009, _Argumentation in Artificial Intelligence_, Boston, MA: Springer US. doi:10.1007/978-0-387-98197-0
+* Raz, J., 2001, “Reasoning with Rules”, _Current Legal Problems_, 54(1): 1–18. doi:10.1093/clp/54.1.1
+* Rehg, William, 2008, _Cogent Science in Context: The Science Wars, Argumentation Theory, and Habermas_, Cambridge, MA: MIT Press.
+* Reiter, R., 1980, “A Logic for Default Reasoning”, _Artificial Intelligence_, 13(1–2): 81–132. doi:10.1016/0004-3702(80)90014-4
+* Restall, Greg, 2004, “Logical Pluralism and the Preservation of Warrant”, in _Logic, Epistemology, and the Unity of Science_, Shahid Rahman, John Symons, Dov M. Gabbay, and Jean Paul van Bendegem (eds.), Dordrecht: Springer Netherlands, pp. 163–173. doi:10.1007/978-1-4020-2808-3\*10
+* Rooney, Phyllis, 2012, “When Philosophical Argumentation Impedes Social and Political Progress”, _Journal of Social Philosophy_, 43(3): 317–333. doi:10.1111/j.1467-9833.2012.01568.x
+* Sanders, Lynn M., 1997, “Against Deliberation”, _Political Theory_, 25(3): 347–376. doi:10.1177/0090591797025003002
+* Schmitt, Carl, 1922 \[2005], _Politische Theologie: Vier Kapitel zur Lehre von der Souveränität_, München Und Leipzig: Duncker & Humblot. Part translated as _Political Theology: Four Chapters on the Concept of Sovereignty_, George Schwab (trans.), Chicago: University of Chicago Press, 1985. Translation reprinted 2005.
+* Schotch, Peter K., Bryson Brown, and Raymond E. Jennings (eds.), 2009, _On Preserving: Essays on Preservationism and Paraconsistent Logic_, (Toronto Studies in Philosophy), Toronto/Buffalo, NY: University of Toronto Press.
+* Sequoiah-Grayson, Sebastian, 2008, “The Scandal of Deduction: Hintikka on the Information Yield of Deductive Inferences”, _Journal of Philosophical Logic_, 37(1): 67–94. doi:10.1007/s10992-007-9060-4
+* Shapiro, Stewart, 2005, “Logical Consequence, Proof Theory, and Model Theory”, in _Oxford Handbook of Philosophy of Mathematics and Logic_, Stewart Shapiro (ed.), Oxford: Oxford University Press, pp. 651–670.
+* –––, 2014, _Varieties of Logic_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199696529.001.0001
+* Siegel, Harvey, 1995, “Why Should Educators Care about Argumentation?”, _Informal Logic_, 17(2): 159–176. doi:10.22329/il.v17i2.2405
+* Sinhababu, Neil, 2017, _Humean Nature: How Desire Explains Action, Thought, and Feeling_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198783893.001.0001
+* Sklar, Elizabeth I. and Mohammad Q. Azhar, 2018, “Explanation through Argumentation”, in _Proceedings of the 6th International Conference on Human-Agent Interaction_, Southampton, UK: ACM, pp. 277–285. doi:10.1145/3284432.3284470
+* Smart, Paul, Richard Heersmink, and Robert W. Clowes, 2017, “The Cognitive Ecology of the Internet”, in _Cognition Beyond the Brain: Computation, Interactivity and Human Artifice_, Stephen J. Cowley and Frédéric Vallée-Tourangeau (eds.), Cham: Springer International Publishing, pp. 251–282. doi:10.1007/978-3-319-49115-8\*13
+* Sober, Elliott, 2015, _Ockham’s Razors: A User’s Manual_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107705937
+* Sperber, Dan, Fabrice Clément, Christophe Heintz, Olivier Mascaro, Hugo Mercier, Gloria Origgi, and Deirdre Wilson, 2010, “Epistemic Vigilance”, _Mind & Language_, 25(4): 359–393. doi:10.1111/j.1468-0017.2010.01394.x
+* Stebbing, Lizzie Susan, 1939, _Thinking to Some Purpose_, Harmondsworth: Penguin.
+* Sunstein, Cass R., 2002, “The Law of Group Polarization”, _Journal of Political Philosophy_, 10(2): 175–195. doi:10.1111/1467-9760.00148
+* –––, 2017, _#republic: Divided Democracy in the Age of Social Media_, Princeton, NJ: Princeton University Press.
+* Taber, Charles S. and Milton Lodge, 2006, “Motivated Skepticism in the Evaluation of Political Beliefs”, _American Journal of Political Science_, 50(3): 755–769. doi:10.1111/j.1540-5907.2006.00214.x
+* Talisse, Robert B., 2019, _Overdoing Democracy: Why We Must Put Politics in Its Place_, New York: Oxford University Press. doi:10.1093/oso/9780190924195.001.0001
 * Tanesini, Alessandra, 2020, “Arrogance, Polarisation and Arguing to Win”, in Tanesini and Lynch 2020: 158–174.
-* Tanesini, Alessandra and Michael P. Lynch (eds.), 2020, *Polarisation, Arrogance, and Dogmatism: Philosophical Perspectives*, London: Routledge. doi:10.4324/9780429291395
-* Thomson, Judith Jarvis, 1971, “A Defense of Abortion”, *Philosophy and Public Affairs*, 1(1): 47–66.
-* Tindale, Christopher W., 2007, *Fallacies and Argument Appraisal*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806544
-* –––, 2021, *The Anthropology of Argument: Cultural Foundations of Rhetoric and Reason*, New York: Routledge. doi:10.4324/9781003107637
-* Tomasello, Michael, 2014, *A Natural History of Human Thinking*, Cambridge, MA: Harvard University Press.
-* Toulmin, Stephen E., 1958 \[2003], *The Uses of Argument*, Cambridge University Press. Second edition, 2003. doi:10.1017/CBO9780511840005
-* Van Laar, Jan Albert and Erik C. W. Krabbe, 2019, “Pressure and Argumentation in Public Controversies”, *Informal Logic*, 39(3): 205–227. doi:10.22329/il.v39i3.5739
-* Walton, Douglas N., 1992, *The Place of Emotion in Argument*, University Park, PA: Pennsylvania State University Press.
-* –––, 2002, *Legal Argumentation and Evidence*, University Park, PA: Pennsylvania State University Press.
-* Walton, Douglas N. and Erik C.W. Krabbe, 1995, *Commitment in Dialogue: Basic Concepts of Interpersonal Reasoning*, Albany, NY: State University of New York Press.
-* Walton, Douglas N., Christopher Reed, and Fabrizio Macagno, 2008, *Argumentation Schemes*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511802034
-* Weger, Harry, Jr., and Mark Aakhus, 2003, “Arguing in Internet Chat Rooms: Argumentative Adaptations to Chat Room Design and Some Consequences for Public Deliberation at a Distance”, *Argumentation and Advocacy*, 40(1): 23–38. doi:10.1080/00028533.2003.11821595
-* Weinstein, Mark, 1990, “Towards an Account of Argumentation in Science”, *Argumentation*, 4(3): 269–298. doi:10.1007/BF00173968
-* Wenman, Mark, 2013, *Agonistic Democracy: Constituent Power in the Era of Globalisation*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511777158
-* Williamson, Timothy, 2018, *Doing Philosophy: From Common Curiosity to Logical Reasoning*, Oxford: Oxford University Press.
-* Wodak, Ruth, 2016, “Argumentation, Political”, in *The International Encyclopedia of Political Communication*, Gianpietro Mazzoleni (ed.), London: Blackwell, 9 pages.
-* Yardi, Sarita and Danah Boyd, 2010, “Dynamic Debates: An Analysis of Group Polarization Over Time on Twitter”, *Bulletin of Science*, Technology & Society, 30(5): 316–327. doi:10.1177/0270467610380011
-* Young, Iris Marion, 2000, *Inclusion and Democracy*, Oxford: Oxford University Press. doi:10.1093/0198297556.001.0001
-* Zamora Bonilla, Jesús, 2006, “Science as a Persuasion Game: An Inferentialist Approach”, *Episteme*, 2(3): 189–201. doi:10.3366/epi.2005.2.3.189
-* Zarefsky, David, 2014, *Political Argumentation in the United States*, Amsterdam: John Benjamins.
-* Zenker, Frank (ed.), 2013, *Bayesian Argumentation: The Practical Side of Probability*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-5357-0
+* Tanesini, Alessandra and Michael P. Lynch (eds.), 2020, _Polarisation, Arrogance, and Dogmatism: Philosophical Perspectives_, London: Routledge. doi:10.4324/9780429291395
+* Thomson, Judith Jarvis, 1971, “A Defense of Abortion”, _Philosophy and Public Affairs_, 1(1): 47–66.
+* Tindale, Christopher W., 2007, _Fallacies and Argument Appraisal_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806544
+* –––, 2021, _The Anthropology of Argument: Cultural Foundations of Rhetoric and Reason_, New York: Routledge. doi:10.4324/9781003107637
+* Tomasello, Michael, 2014, _A Natural History of Human Thinking_, Cambridge, MA: Harvard University Press.
+* Toulmin, Stephen E., 1958 \[2003], _The Uses of Argument_, Cambridge University Press. Second edition, 2003. doi:10.1017/CBO9780511840005
+* Van Laar, Jan Albert and Erik C. W. Krabbe, 2019, “Pressure and Argumentation in Public Controversies”, _Informal Logic_, 39(3): 205–227. doi:10.22329/il.v39i3.5739
+* Walton, Douglas N., 1992, _The Place of Emotion in Argument_, University Park, PA: Pennsylvania State University Press.
+* –––, 2002, _Legal Argumentation and Evidence_, University Park, PA: Pennsylvania State University Press.
+* Walton, Douglas N. and Erik C.W. Krabbe, 1995, _Commitment in Dialogue: Basic Concepts of Interpersonal Reasoning_, Albany, NY: State University of New York Press.
+* Walton, Douglas N., Christopher Reed, and Fabrizio Macagno, 2008, _Argumentation Schemes_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511802034
+* Weger, Harry, Jr., and Mark Aakhus, 2003, “Arguing in Internet Chat Rooms: Argumentative Adaptations to Chat Room Design and Some Consequences for Public Deliberation at a Distance”, _Argumentation and Advocacy_, 40(1): 23–38. doi:10.1080/00028533.2003.11821595
+* Weinstein, Mark, 1990, “Towards an Account of Argumentation in Science”, _Argumentation_, 4(3): 269–298. doi:10.1007/BF00173968
+* Wenman, Mark, 2013, _Agonistic Democracy: Constituent Power in the Era of Globalisation_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511777158
+* Williamson, Timothy, 2018, _Doing Philosophy: From Common Curiosity to Logical Reasoning_, Oxford: Oxford University Press.
+* Wodak, Ruth, 2016, “Argumentation, Political”, in _The International Encyclopedia of Political Communication_, Gianpietro Mazzoleni (ed.), London: Blackwell, 9 pages.
+* Yardi, Sarita and Danah Boyd, 2010, “Dynamic Debates: An Analysis of Group Polarization Over Time on Twitter”, _Bulletin of Science_, Technology & Society, 30(5): 316–327. doi:10.1177/0270467610380011
+* Young, Iris Marion, 2000, _Inclusion and Democracy_, Oxford: Oxford University Press. doi:10.1093/0198297556.001.0001
+* Zamora Bonilla, Jesús, 2006, “Science as a Persuasion Game: An Inferentialist Approach”, _Episteme_, 2(3): 189–201. doi:10.3366/epi.2005.2.3.189
+* Zarefsky, David, 2014, _Political Argumentation in the United States_, Amsterdam: John Benjamins.
+* Zenker, Frank (ed.), 2013, _Bayesian Argumentation: The Practical Side of Probability_, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-5357-0
 
 ### References for the Historical Supplement
 
-* Angelelli, Ignacio, 1970, “The Techniques of Disputation in the History of Logic”, *The Journal of Philosophy*, 67(20): 800–815. doi:10.2307/2024013
-* Ashworth, E. J., 2011, “The scope of logic: Soto and Fonseca on dialectic and informal arguments”, in *Methods and Methodologies: Aristotelian Logic East and West, 500–1500*, Margaret Cameron and John Marenbon, Leiden: Brill, pp. 127–145.
-* Bazán, B. C., J. W. Wippel, G. Fransen, and D. Jacquart, 1985, *Les Questions Disputées et Les Questions Quodlibétiques dans les Facultés de Théologie, de Droit et de Médecine*, Turnhout: Brepols.
-* Castelnérac, Benoît and Mathieu Marion, 2009, “Arguing for Inconsistency: Dialectical Games in the Academy”, in *Acts of Knowledge: History, Philosophy and Logic*, Giuseppe Primiero and Shahid Rahman (eds), London: College Publications, pp. 37–76.
-* DiPasquale, David M., 2019, *Alfarabi’s “Book of Dialectic (Kitāb al-Jadal)”: On the Starting Point of Islamic Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/9781108277822
-* Duncombe, Matthew and Catarina Dutilh Novaes, 2016, “Dialectic and logic in Aristotle and his tradition”, *History and Philosophy of Logic*, 37: 1–8.
-* Dutilh Novaes, Catarina, 2017, “What is logic?”, *Aeon Magazine*, 12 January 2017. \[[Dutilh Novaes 2017 available online](https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic)]
-* –––, 2020, *The Dialogical Roots of Deduction: Historical, Cognitive, and Philosophical Perspectives on Reasoning*, Cambridge: Cambridge University Press. doi:10.1017/9781108800792
-* El-Rouayheb, Khaled, 2016, “Arabic Logic after Avicenna”, in *The Cambridge Companion to Medieval Logic*, Catarina Dutilh Novaes and Stephen Read (eds.), Cambridge: Cambridge University Press, pp. 67–93. doi:10.1017/CBO9781107449862.004
-* Fink, Jakob L., 2012, “Introduction”, in *The Development of Dialectic from Plato to Aristotle*, Jakob Leth Fink (ed.), Cambridge: Cambridge University Press, pp. 1–24. doi:10.1017/CBO9780511997969.001
-* Fraser, Chris, 2013, “Distinctions, Judgment, and Reasoning in Classical Chinese Thought”, *History and Philosophy of Logic*, 34(1): 1–24. doi:10.1080/01445340.2012.724927
-* Ganeri, Dr Jonardon, 2001, “Introduction: Indian Logic and the Colonization of Reason”, in his *Indian Logic: A Reader*, London: Routledge, pp. 1–25.
-* Hansen, Chad, 1983, *Language and Logic in Ancient China*, Ann Arbor, MI: University of Michigan Press.
-* Hansen, Mogens Herman, 1977–88 \[1991], *Det Athenske Demokrati*. Revised and translated as *The Athenian Democracy in the Age of Demosthenes: Structure, Principles, and Ideology*, J.A. Crook (trans.), Oxford: Blackwell, 1991.
-* Irani, Tushar, 2017, *Plato on the Value of Philosophy: The Art of Argument in the “Gorgias” and “Phaedrus”*, Cambridge: Cambridge University Press. doi:10.1017/9781316855621
-* Matilal, Bimal Krishna, 1998, *The Character of Logic in India*, Albany, NY: State University of New York Press.
-* Miller, Larry Benjamin, 2020, *Islamic Disputation Theory: The Uses & Rules of Argument in Medieval Islam*, (Logic, Argumentation & Reasoning 21), Cham: Springer International Publishing. doi:10.1007/978-3-030-45012-0
-* Nauta, Lodi, 2009, *In Defense of Common Sense: Lorenzo Valla’s Humanist Critique of Scholastic Philosophy*, Cambridge, MA: Harvard University Press.
-* Nicholson, Hugh, 2010, “The Shift from Agonistic to Non-Agonistic Debate in Early Nyāya”, *Journal of Indian Philosophy*, 38(1): 75–95. doi:10.1007/s10781-009-9081-0
-* Notomi, Noburu, 2014, “The Sophists”, in *Routledge Companion to Ancient Philosophy*, Frisbee Sheffield and James Warren (eds.), New York: Routledge, pp. 94–110.
-* Novikoff, Alex J., 2013, *The Medieval Culture of Disputation: Pedagogy, Practice, and Performance*, Philadelphia, PA: University of Pennsylvania Press.
-* Phillips, Stephen H., 2017, “Fallacies and Defeaters in Early Navya Nyaya”, *Indian Epistemology and Metaphysics*, Joerg Tuske (ed.), London: Bloomsbury Academic, pp. 33–52.
-* Prets, Ernst, 2001, “Futile and False Rejoinders, Sophistical Arguments and Early Indian Logic”, *Journal of Indian Philosophy*, 29(5/6): 545–558. doi:10.1023/A:1013894810880
-* Siderits, Mark, 2003, “Deductive, Inductive, Both or Neither?”, *Journal of Indian Philosophy*, 31(1/3): 303–321. doi:10.1023/A:1024691426770
-* Solomon, Esther Abraham, 1976, *Indian Dialectics: Methods of Philosophical Discussion*, Ahmedabad: B.J. Institute of Learning and Research.
-* Taber, John A., 2004, “Is Indian Logic Nonmonotonic?”, *Philosophy East and West*, 54(2): 143–170. doi:10.1353/pew.2004.0009
-* Wolfsdorf, David, 2013, “Socratic Philosophizing”, in *The Bloomsbury Companion to Socrates*, John Bussanich and Nicholas D. Smith (eds.), London; New York: Continuum, pp. 34–67.
-* Young, Walter Edward, 2017, *The Dialectical Forge*, (Logic, Argumentation & Reasoning 9), Cham: Springer International Publishing. doi:10.1007/978-3-319-25522-4
+* Angelelli, Ignacio, 1970, “The Techniques of Disputation in the History of Logic”, _The Journal of Philosophy_, 67(20): 800–815. doi:10.2307/2024013
+* Ashworth, E. J., 2011, “The scope of logic: Soto and Fonseca on dialectic and informal arguments”, in _Methods and Methodologies: Aristotelian Logic East and West, 500–1500_, Margaret Cameron and John Marenbon, Leiden: Brill, pp. 127–145.
+* Bazán, B. C., J. W. Wippel, G. Fransen, and D. Jacquart, 1985, _Les Questions Disputées et Les Questions Quodlibétiques dans les Facultés de Théologie, de Droit et de Médecine_, Turnhout: Brepols.
+* Castelnérac, Benoît and Mathieu Marion, 2009, “Arguing for Inconsistency: Dialectical Games in the Academy”, in _Acts of Knowledge: History, Philosophy and Logic_, Giuseppe Primiero and Shahid Rahman (eds), London: College Publications, pp. 37–76.
+* DiPasquale, David M., 2019, _Alfarabi’s “Book of Dialectic (Kitāb al-Jadal)”: On the Starting Point of Islamic Philosophy_, Cambridge: Cambridge University Press. doi:10.1017/9781108277822
+* Duncombe, Matthew and Catarina Dutilh Novaes, 2016, “Dialectic and logic in Aristotle and his tradition”, _History and Philosophy of Logic_, 37: 1–8.
+* Dutilh Novaes, Catarina, 2017, “What is logic?”, _Aeon Magazine_, 12 January 2017. \[[Dutilh Novaes 2017 available online](https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic)]
+* –––, 2020, _The Dialogical Roots of Deduction: Historical, Cognitive, and Philosophical Perspectives on Reasoning_, Cambridge: Cambridge University Press. doi:10.1017/9781108800792
+* El-Rouayheb, Khaled, 2016, “Arabic Logic after Avicenna”, in _The Cambridge Companion to Medieval Logic_, Catarina Dutilh Novaes and Stephen Read (eds.), Cambridge: Cambridge University Press, pp. 67–93. doi:10.1017/CBO9781107449862.004
+* Fink, Jakob L., 2012, “Introduction”, in _The Development of Dialectic from Plato to Aristotle_, Jakob Leth Fink (ed.), Cambridge: Cambridge University Press, pp. 1–24. doi:10.1017/CBO9780511997969.001
+* Fraser, Chris, 2013, “Distinctions, Judgment, and Reasoning in Classical Chinese Thought”, _History and Philosophy of Logic_, 34(1): 1–24. doi:10.1080/01445340.2012.724927
+* Ganeri, Dr Jonardon, 2001, “Introduction: Indian Logic and the Colonization of Reason”, in his _Indian Logic: A Reader_, London: Routledge, pp. 1–25.
+* Hansen, Chad, 1983, _Language and Logic in Ancient China_, Ann Arbor, MI: University of Michigan Press.
+* Hansen, Mogens Herman, 1977–88 \[1991], _Det Athenske Demokrati_. Revised and translated as _The Athenian Democracy in the Age of Demosthenes: Structure, Principles, and Ideology_, J.A. Crook (trans.), Oxford: Blackwell, 1991.
+* Irani, Tushar, 2017, _Plato on the Value of Philosophy: The Art of Argument in the “Gorgias” and “Phaedrus”_, Cambridge: Cambridge University Press. doi:10.1017/9781316855621
+* Matilal, Bimal Krishna, 1998, _The Character of Logic in India_, Albany, NY: State University of New York Press.
+* Miller, Larry Benjamin, 2020, _Islamic Disputation Theory: The Uses & Rules of Argument in Medieval Islam_, (Logic, Argumentation & Reasoning 21), Cham: Springer International Publishing. doi:10.1007/978-3-030-45012-0
+* Nauta, Lodi, 2009, _In Defense of Common Sense: Lorenzo Valla’s Humanist Critique of Scholastic Philosophy_, Cambridge, MA: Harvard University Press.
+* Nicholson, Hugh, 2010, “The Shift from Agonistic to Non-Agonistic Debate in Early Nyāya”, _Journal of Indian Philosophy_, 38(1): 75–95. doi:10.1007/s10781-009-9081-0
+* Notomi, Noburu, 2014, “The Sophists”, in _Routledge Companion to Ancient Philosophy_, Frisbee Sheffield and James Warren (eds.), New York: Routledge, pp. 94–110.
+* Novikoff, Alex J., 2013, _The Medieval Culture of Disputation: Pedagogy, Practice, and Performance_, Philadelphia, PA: University of Pennsylvania Press.
+* Phillips, Stephen H., 2017, “Fallacies and Defeaters in Early Navya Nyaya”, _Indian Epistemology and Metaphysics_, Joerg Tuske (ed.), London: Bloomsbury Academic, pp. 33–52.
+* Prets, Ernst, 2001, “Futile and False Rejoinders, Sophistical Arguments and Early Indian Logic”, _Journal of Indian Philosophy_, 29(5/6): 545–558. doi:10.1023/A:1013894810880
+* Siderits, Mark, 2003, “Deductive, Inductive, Both or Neither?”, _Journal of Indian Philosophy_, 31(1/3): 303–321. doi:10.1023/A:1024691426770
+* Solomon, Esther Abraham, 1976, _Indian Dialectics: Methods of Philosophical Discussion_, Ahmedabad: B.J. Institute of Learning and Research.
+* Taber, John A., 2004, “Is Indian Logic Nonmonotonic?”, _Philosophy East and West_, 54(2): 143–170. doi:10.1353/pew.2004.0009
+* Wolfsdorf, David, 2013, “Socratic Philosophizing”, in _The Bloomsbury Companion to Socrates_, John Bussanich and Nicholas D. Smith (eds.), London; New York: Continuum, pp. 34–67.
+* Young, Walter Edward, 2017, _The Dialectical Forge_, (Logic, Argumentation & Reasoning 9), Cham: Springer International Publishing. doi:10.1007/978-3-319-25522-4
 
 ## Academic Tools
 
@@ -571,4 +571,4 @@ Mercier 和 Sperber 提出了一种互动主义的推理观点，根据这种观
 Thanks to Merel Talbi, Elias Anttila, César dos Santos, Hein Duijf, Silvia Ivani, Caglar Dede, Colin Rittberg, Marcin Lewiński, Andrew Aberdein, Malcolm Keating, Maksymillian Del Mar, and an anonymous referee for suggestions and/or comments on earlier drafts. This research was supported by H2020 European Research Council \[771074-SEA].
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Catarina Dutilh Novaes](https://www.cdutilhnovaes.com/) <[*cdutilhnovaes@gmail.com*](mailto:cdutilhnovaes%40gmail%2ecom)>
+[Catarina Dutilh Novaes](https://www.cdutilhnovaes.com/) <[_cdutilhnovaes@gmail.com_](mailto:cdutilhnovaes%40gmail%2ecom)>

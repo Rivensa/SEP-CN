@@ -1,26 +1,26 @@
 # 亚里士多德的美学 aesthetics (Pierre Destrée)
 
-*首次发布于 2021 年 12 月 3 日*
+_首次发布于 2021 年 12 月 3 日_
 
-术语“美学”虽然源自希腊语（*aisthetikos*，意为“与感官体验相关”），但它是一个现代的词汇，由鲍姆加滕在他的主要著作《美学》（1750 年）中创造而成。直到后来，它才成为一个整个哲学研究领域的名称。亚里士多德并没有使用这个术语。但在柏拉图之后，他使用了“模仿”这个词（即，字面上的“模仿艺术”），并且由于他认为“模仿”是我们所称之为“艺术”的所有实例（或种类）中最普遍的术语（或属类），比如绘画、雕塑、音乐、诗歌或舞蹈，这样一个词可能非常适合对（我们所称之为）“艺术作品”的研究。但事实是，他并没有写过一本名为“关于模仿艺术”的著作。相反，他写的主要著作的名称是《诗学》，字面上是“创作诗歌的艺术”，它主要关注悲剧，我们现在仍然可以阅读到它的第一“卷”，以及喜剧，它的第二“卷”现在已经失传。\[[1](https://plato.stanford.edu/entries/aristotle-aesthetics/notes.html#note-1)]如今被称为《诗学》，这本著作从未由亚里士多德本人出版或适当编辑过（可能主要是“教学笔记”）；像其他传世的著作一样，它一直留在他的哲学学派——雅典学园（也就是他所谓的“内教”作品）之中。但亚里士多德还以“外教作品”（即在雅典学园之外流传的著作）的形式出版了各种关于诗歌的书籍，尤其是一本名为《关于诗人》的书，以及另一本《荷马问题》（我们仍然可以阅读到其中的一些片段），甚至还有一本（现在完全失传的）关于在雅典节日上演的悲剧和喜剧的目录，记录了哪些作品获得了哪些奖项。因此，诗歌，尤其是戏剧诗歌和戏剧，似乎是亚里士多德主要关注的对象，而不是艺术的整体。
+术语“美学”虽然源自希腊语（_aisthetikos_，意为“与感官体验相关”），但它是一个现代的词汇，由鲍姆加滕在他的主要著作《美学》（1750 年）中创造而成。直到后来，它才成为一个整个哲学研究领域的名称。亚里士多德并没有使用这个术语。但在柏拉图之后，他使用了“模仿”这个词（即，字面上的“模仿艺术”），并且由于他认为“模仿”是我们所称之为“艺术”的所有实例（或种类）中最普遍的术语（或属类），比如绘画、雕塑、音乐、诗歌或舞蹈，这样一个词可能非常适合对（我们所称之为）“艺术作品”的研究。但事实是，他并没有写过一本名为“关于模仿艺术”的著作。相反，他写的主要著作的名称是《诗学》，字面上是“创作诗歌的艺术”，它主要关注悲剧，我们现在仍然可以阅读到它的第一“卷”，以及喜剧，它的第二“卷”现在已经失传。\[[1](https://plato.stanford.edu/entries/aristotle-aesthetics/notes.html#note-1)]如今被称为《诗学》，这本著作从未由亚里士多德本人出版或适当编辑过（可能主要是“教学笔记”）；像其他传世的著作一样，它一直留在他的哲学学派——雅典学园（也就是他所谓的“内教”作品）之中。但亚里士多德还以“外教作品”（即在雅典学园之外流传的著作）的形式出版了各种关于诗歌的书籍，尤其是一本名为《关于诗人》的书，以及另一本《荷马问题》（我们仍然可以阅读到其中的一些片段），甚至还有一本（现在完全失传的）关于在雅典节日上演的悲剧和喜剧的目录，记录了哪些作品获得了哪些奖项。因此，诗歌，尤其是戏剧诗歌和戏剧，似乎是亚里士多德主要关注的对象，而不是艺术的整体。
 
 很可能亚里士多德认为悲剧和喜剧是典范的艺术作品，它们构成了市民和宗教节日中最吸引人和令人兴奋的部分，这些节日对于大多数雅典人和希腊城市的人民来说都是如此重要。但他几乎将整本书都专门献给了音乐（《政治学》第八卷），值得注意的是，他的追随者也是如此：除了他自己关于诗歌和喜剧的著作外，提奥弗拉斯托斯还写了一本关于音乐的三卷书（全部失传，只剩下一些片段），亚里士多德的学生亚里士多德克西诺斯则是我们现在（部分）还保留着的音乐重要著作的作者。另一方面，在亚里士多德之前，柏拉图对艺术普遍表达了相当强烈的观点，不仅仅是对诗歌或音乐；在《理想国》的第十卷中，苏格拉底对整个模仿艺术进行了批判性的回顾，其中涉及到了相当普遍的模仿艺术。由于很难不将亚里士多德视为以某种方式回应柏拉图对艺术的批评，所以可以合理地假设他对艺术有一些普遍的观点，而不仅仅是对诗歌或音乐。
 
-但也许应该认真考虑亚里士多德是否具有普遍的美学观点的主要原因，来自于一段在亚里士多德研究中很少被引用的非凡段落。在《伦理学》的一段中，亚里士多德坚持认为，欣赏雕塑或听音乐的愉悦体验与缺乏自我控制（*akrasia*，或我们通常称之为“意志薄弱”）所涉及的愉悦毫无关系：
+但也许应该认真考虑亚里士多德是否具有普遍的美学观点的主要原因，来自于一段在亚里士多德研究中很少被引用的非凡段落。在《伦理学》的一段中，亚里士多德坚持认为，欣赏雕塑或听音乐的愉悦体验与缺乏自我控制（_akrasia_，或我们通常称之为“意志薄弱”）所涉及的愉悦毫无关系：
 
-没有人会因为凝视美丽的雕像、美丽的马匹或人类，或者聆听某人的歌唱而被认为是缺乏自制力的，没有任何渴望吃喝或性欲，只是为了凝视美丽的物体或聆听歌唱而已——就像那些被塞壬迷住的人一样。（ *《伦理学》III 2.1230b25–35*）
+没有人会因为凝视美丽的雕像、美丽的马匹或人类，或者聆听某人的歌唱而被认为是缺乏自制力的，没有任何渴望吃喝或性欲，只是为了凝视美丽的物体或聆听歌唱而已——就像那些被塞壬迷住的人一样。（ _《伦理学》III 2.1230b25–35_）
 
-当人们看着美丽的雕像或人物，或者聆听音乐时，除了对这种凝视或聆听的渴望之外，他们享受的是这些事物的“内在品质”，而不是“附带的联系”（或“偶然地”，*kata symbebêkos*）。只有人类才能享受这样的体验，动物不能；狮子只能将羚羊视为潜在的食物，而从不因其美丽而欣赏它（ *《尼科马科伦理学》III 13.1118a22–23*）。亚里士多德补充说，对于嗅觉也是如此，他引用了音乐家斯特拉托尼科斯的一句机智的话：一顿饭“闻起来美味”，而一朵芬芳的花“闻起来美丽”（ *《伦理学》III 2.1231a11–12*）。
+当人们看着美丽的雕像或人物，或者聆听音乐时，除了对这种凝视或聆听的渴望之外，他们享受的是这些事物的“内在品质”，而不是“附带的联系”（或“偶然地”，_kata symbebêkos_）。只有人类才能享受这样的体验，动物不能；狮子只能将羚羊视为潜在的食物，而从不因其美丽而欣赏它（ _《尼科马科伦理学》III 13.1118a22–23_）。亚里士多德补充说，对于嗅觉也是如此，他引用了音乐家斯特拉托尼科斯的一句机智的话：一顿饭“闻起来美味”，而一朵芬芳的花“闻起来美丽”（ _《伦理学》III 2.1231a11–12_）。
 
 不容否认，这段文字指向了我们现今所称的“审美无私”，这意味着一种典型的人类愉悦体验，关注的是物体本身及其内在品质。而且，可以补充的是，它还指向了对所凝视或聆听的事物质量的判断。事实上，在《尼科马科伦理学》的另一段文字中，亚里士多德明确暗示了这一点：
 
-一个有德行的人，作为一个有德行的人，对于表达道德美德的行为感到愉悦，并对由道德恶习引起的行为感到不悦，就像音乐家喜欢美妙的歌曲，但对糟糕的歌曲感到痛苦一样。（*NE* IX 9.1170a8–11）
+一个有德行的人，作为一个有德行的人，对于表达道德美德的行为感到愉悦，并对由道德恶习引起的行为感到不悦，就像音乐家喜欢美妙的歌曲，但对糟糕的歌曲感到痛苦一样。（_NE_ IX 9.1170a8–11）
 
 有德行的人因为了解德行的内涵，而对别人表现出的道德善行感到欣喜。音乐家从音乐中获得的愉悦体验主要是与听觉有关的感官体验，当然也源自于她对音乐的知识，就像道德行为一样。换句话说，对音乐或任何艺术形式有经验和知识，使人能够成为一个良好的评判者，也就是我们所说的“审美”品味的人。建立和传递这种知识的目标，以帮助读者成为良好的评判者，可以被认为是亚里士多德写作艺术的主要原因。
 
 以下介绍回顾了亚里士多德在他所致力于的（我们所称之为）艺术作品中涉及的一些最核心的主题。当然，《诗学》是我们进入这个领域的主要入口，但他发表的作品实际上是古代唯一在他的学派之外可获得的作品；很可能，从菲洛德莫斯到后期新柏拉图主义者的非亚里士多德哲学家只能接触到这些作品，而不是《诗学》。在现代学术研究中，这些作品通常被边缘化，甚至被忽视，理由是它们似乎没有反映出任何深刻的哲学洞察力。事实上，它们是面向广大公众的。但是（正如我们将看到的），没有任何迹象表明《论诗人》中哲学上较少涉及的观点与《诗学》中的观点完全不同，在后者中，亚里士多德毫不犹豫地提到了前者。《荷马问题》也是如此：《诗学》的第 25 章似乎以更抽象的方式重新阐述了亚里士多德在那部作品中讨论的众多解释问题的原则。因此，亚里士多德可能希望向更广泛的公众传达他教授哲学学生的内容。亚里士多德经常建议我们从更明显、具体的观点开始，然后再追求更复杂、更深入的洞察力。让我们遵循这个方法论建议，从这两部发表的作品开始。
 
-*读者请注意*。在我们深入讨论我们的主题之前，先提个警告。《诗学》是古代世界中引起最多争议的作品之一，而且至今仍然如此。众所周知，比起其他任何词汇，*katharsis*这个词从文艺复兴时期（该论文被重新发现的时候）开始，引发了最多的争议（并且产生了最多的文字）。但毫不夸张地说，《诗学》的几乎每一页，如果不是每个句子，都被解释成了不同的方式，许多更一般的主题也是如此，比如这篇论文是写给谁的问题，它的总体目标或者说它的整体意义。希腊文本不仅传承得相当差（并且仍然在专家之间引发许多文献学争议），而且非常复杂和晦涩，许多术语实际上相当模糊或者含糊不清，因此可以有多种可能的解释（和翻译）。因此，这个总体介绍的读者应该被警告，就像任何其他《诗学》的介绍一样，它是基于一系列（希望是连贯的）解释选择的基础上的；其他一些主要的解释选择将会被简要描述，或者在注释中标出。\[[2](https://plato.stanford.edu/entries/aristotle-aesthetics/notes.html#note-2)]
+_读者请注意_。在我们深入讨论我们的主题之前，先提个警告。《诗学》是古代世界中引起最多争议的作品之一，而且至今仍然如此。众所周知，比起其他任何词汇，_katharsis_这个词从文艺复兴时期（该论文被重新发现的时候）开始，引发了最多的争议（并且产生了最多的文字）。但毫不夸张地说，《诗学》的几乎每一页，如果不是每个句子，都被解释成了不同的方式，许多更一般的主题也是如此，比如这篇论文是写给谁的问题，它的总体目标或者说它的整体意义。希腊文本不仅传承得相当差（并且仍然在专家之间引发许多文献学争议），而且非常复杂和晦涩，许多术语实际上相当模糊或者含糊不清，因此可以有多种可能的解释（和翻译）。因此，这个总体介绍的读者应该被警告，就像任何其他《诗学》的介绍一样，它是基于一系列（希望是连贯的）解释选择的基础上的；其他一些主要的解释选择将会被简要描述，或者在注释中标出。\[[2](https://plato.stanford.edu/entries/aristotle-aesthetics/notes.html#note-2)]
 
 * [1. ](https://plato.stanford.edu/entries/aristotle-aesthetics/#PoetHowJudgPoet)​\*[关于诗人](https://plato.stanford.edu/entries/aristotle-aesthetics/#PoetHowJudgPoet)\*​[：如何评判诗歌？](https://plato.stanford.edu/entries/aristotle-aesthetics/#PoetHowJudgPoet)
 * [2. ](https://plato.stanford.edu/entries/aristotle-aesthetics/#HomeProbHowDefePoet)​\*[荷马问题](https://plato.stanford.edu/entries/aristotle-aesthetics/#HomeProbHowDefePoet)\*​[：如何捍卫诗歌？](https://plato.stanford.edu/entries/aristotle-aesthetics/#HomeProbHowDefePoet)
@@ -38,7 +38,7 @@
 
 ***
 
-## 1. *论诗人*：如何评判诗歌？
+## 1. _论诗人_：如何评判诗歌？
 
 这部作品是一本分为三卷的对话，显然在古代世界中广泛阅读。虽然《诗学》在古代似乎没有引起回响，《论诗人》似乎已经成为亚里士多德美学的参考著作；我们所拥有的碎片来自各种各样的来源，包括菲洛德莫斯、伪普鲁塔克、亚西奈斯、狄奥根尼斯·拉尔提乌斯、马克罗比乌斯和普罗克鲁斯。许多碎片涉及有趣的故事，如荷马的诞生和死亡，或诗人之间的竞争。然而，如果得出整个作品由这些故事组成而没有任何理论背景的结论，那将是错误的。实际上，《诗学》中至关重要的两个主题似乎在《论诗人》中也是核心：模仿和诗人的缺点。
 
@@ -58,13 +58,13 @@
 
 > 关于影响观众反应的事情，这与诗歌创作的艺术必然相关。（15，1454b15-18）
 
-这个句子经常显得晦涩难懂。但我们在我们的片段中找到了一个这样的错误的例子。这是后期罗马作家马克罗比乌斯的一段引文，他引用了一段希腊文，假设他在引用亚里士多德的话（*ipsa Aristotelis verba*），在这里我们看到亚里士多德谴责了欧里庇得斯的一个错误，他在他的一部戏剧中说艾托利亚战士没有在左脚上穿鞋。这是一个错误，因为这些战士通常是在右脚上不穿鞋战斗。从历史角度来看，这个错误可能看起来无关紧要，但如果考虑到对观众的影响，它是一个严重的缺陷。想象一下，观众在剧场中意识到这个错误：场景将不再是悲剧性的，错误将变得滑稽可笑，引发笑声。
+这个句子经常显得晦涩难懂。但我们在我们的片段中找到了一个这样的错误的例子。这是后期罗马作家马克罗比乌斯的一段引文，他引用了一段希腊文，假设他在引用亚里士多德的话（_ipsa Aristotelis verba_），在这里我们看到亚里士多德谴责了欧里庇得斯的一个错误，他在他的一部戏剧中说艾托利亚战士没有在左脚上穿鞋。这是一个错误，因为这些战士通常是在右脚上不穿鞋战斗。从历史角度来看，这个错误可能看起来无关紧要，但如果考虑到对观众的影响，它是一个严重的缺陷。想象一下，观众在剧场中意识到这个错误：场景将不再是悲剧性的，错误将变得滑稽可笑，引发笑声。
 
-这个话题绝不是边缘化的。相反，指出诗人们，即使是最好的诗人，犯的错误应该帮助我们读者区分好诗和糟糕的诗（或者至少是诗歌或戏剧中的好和坏的片段或场景），也就是说，使我们成为“批判性”的诗歌读者或戏剧观众。公元 1 世纪的修辞学家迪奥·克里索斯托姆报道了一个传统，根据这个传统，亚里士多德是“文学批评（*kritikê*）的起源”（Janko 2011，T4）。他肯定主要是指像萨莫斯拉斯的亚里士多德评论者那样的学者的工作，这些评论者的工作包括对荷马史诗的评论，或者对阿里斯托芬的评论；但是只有在假设评判某个文学作品的优点和缺点（这是动词*krinein*的核心意义）是问题的核心时，这样的工作才有意义。从《论诗人》中我们可以看到，这种活动并不是专门留给学术界的少数人的领域。相反，每个受过教育的人都可以期望参与这样的批判性评估。在柏拉图的《普罗泰戈拉》中，柏拉图让著名的辩士说道：
+这个话题绝不是边缘化的。相反，指出诗人们，即使是最好的诗人，犯的错误应该帮助我们读者区分好诗和糟糕的诗（或者至少是诗歌或戏剧中的好和坏的片段或场景），也就是说，使我们成为“批判性”的诗歌读者或戏剧观众。公元 1 世纪的修辞学家迪奥·克里索斯托姆报道了一个传统，根据这个传统，亚里士多德是“文学批评（_kritikê_）的起源”（Janko 2011，T4）。他肯定主要是指像萨莫斯拉斯的亚里士多德评论者那样的学者的工作，这些评论者的工作包括对荷马史诗的评论，或者对阿里斯托芬的评论；但是只有在假设评判某个文学作品的优点和缺点（这是动词_krinein_的核心意义）是问题的核心时，这样的工作才有意义。从《论诗人》中我们可以看到，这种活动并不是专门留给学术界的少数人的领域。相反，每个受过教育的人都可以期望参与这样的批判性评估。在柏拉图的《普罗泰戈拉》中，柏拉图让著名的辩士说道：
 
 > 在我看来，一个人教育中最重要的部分是精通诗歌，也就是能够理解诗人的作品中哪些是正确的，哪些是错误的，知道如何区分它们，并且知道如何对这些判断进行解释，如果有人问起的话。（338e–339a）
 
-柏拉图无疑嘲笑了这样的说法，就像在《伊昂》中嘲笑那些相信自己拥有“诗歌科学”或“诗歌创作技巧”的吟游诗人一样（在 532c 中，柏拉图等效地使用了“技术”和“诗歌科学”这两个词，或者简单地使用“诗歌创作”）。在写作《关于诗歌创作的论文》（*Peri poiêtikês*）时，我们可以假设，与柏拉图不同，亚里士多德遵循了普罗泰戈拉斯所指示的道路。在出版《关于诗人》这样更易理解的作品时，亚里士多德似乎认为每个人都应该有机会成为一位优秀的诗歌评判者，以便更好地欣赏她所阅读的诗歌或经常在剧院观看的戏剧的价值。【3】（请注意，在亚里士多德时代，许多悲剧和喜剧作家仍在写作许多剧本，并且埃斯库罗斯、索福克勒斯或欧里庇得斯的几部戏剧以书籍形式存在，并且在雅典和希腊世界其他地方定期上演）。
+柏拉图无疑嘲笑了这样的说法，就像在《伊昂》中嘲笑那些相信自己拥有“诗歌科学”或“诗歌创作技巧”的吟游诗人一样（在 532c 中，柏拉图等效地使用了“技术”和“诗歌科学”这两个词，或者简单地使用“诗歌创作”）。在写作《关于诗歌创作的论文》（_Peri poiêtikês_）时，我们可以假设，与柏拉图不同，亚里士多德遵循了普罗泰戈拉斯所指示的道路。在出版《关于诗人》这样更易理解的作品时，亚里士多德似乎认为每个人都应该有机会成为一位优秀的诗歌评判者，以便更好地欣赏她所阅读的诗歌或经常在剧院观看的戏剧的价值。【3】（请注意，在亚里士多德时代，许多悲剧和喜剧作家仍在写作许多剧本，并且埃斯库罗斯、索福克勒斯或欧里庇得斯的几部戏剧以书籍形式存在，并且在雅典和希腊世界其他地方定期上演）。
 
 ## 2.《荷马问题》：如何捍卫诗歌？
 
@@ -96,9 +96,9 @@
 
 这个非常粗略的描述了《诗学》的目标和方法，实际上从它的第一句话就已经宣告了：
 
-> 这篇论文是关于如何创作诗歌的：什么是诗歌本身？有哪些诗歌体裁？每个体裁都有什么能力（*dunamis*）？情节应该如何构建才能得到一部成功的诗歌作品？应该有多少个组成部分，这些组成部分应该是什么样的？（1, 1447a8–11）
+> 这篇论文是关于如何创作诗歌的：什么是诗歌本身？有哪些诗歌体裁？每个体裁都有什么能力（_dunamis_）？情节应该如何构建才能得到一部成功的诗歌作品？应该有多少个组成部分，这些组成部分应该是什么样的？（1, 1447a8–11）
 
-这给我们提供了《诗学》的一个清晰的计划，它分为两个部分：第一部分专门讨论诗歌的“本质”（第 1-5 章），可以看作是对诗歌是什么的一种总体介绍；第二部分，实际上是它的主体部分，专门讨论诗歌的体裁，主要是悲剧和喜剧，其中情节被视为主要的“组成部分”。但也许最关键的是，它还引入了每个诗歌体裁的“能力”的问题。所使用的词是*dunamis*，在这里应该理解为“将某物推动起来的能力”，也就是在我们的情况下，它对诗歌的接受者产生的影响或“效果”。可以说，它是同一事物更“客观”一面的“主观”对应物，也就是功能或作用（*ergon*或*energeia*）本身。因此，每种诗歌体裁的功能、能力或效果实际上是这个研究中最重要的内容。而（出于我们将要看到的原因），情节被亚里士多德视为实现这种效果的最佳工具。现在，不可否认的是，一个成功的诗人是在创作剧本时专注于情节的人。但这并不是亚里士多德关注的重点。他的主要议程是在他的论文一开始就警告读者，如果他们想要评判某部诗歌作品的成功程度，即它的功能表现得有多好，他们必须关注情节是如何构建的。
+这给我们提供了《诗学》的一个清晰的计划，它分为两个部分：第一部分专门讨论诗歌的“本质”（第 1-5 章），可以看作是对诗歌是什么的一种总体介绍；第二部分，实际上是它的主体部分，专门讨论诗歌的体裁，主要是悲剧和喜剧，其中情节被视为主要的“组成部分”。但也许最关键的是，它还引入了每个诗歌体裁的“能力”的问题。所使用的词是_dunamis_，在这里应该理解为“将某物推动起来的能力”，也就是在我们的情况下，它对诗歌的接受者产生的影响或“效果”。可以说，它是同一事物更“客观”一面的“主观”对应物，也就是功能或作用（_ergon_或_energeia_）本身。因此，每种诗歌体裁的功能、能力或效果实际上是这个研究中最重要的内容。而（出于我们将要看到的原因），情节被亚里士多德视为实现这种效果的最佳工具。现在，不可否认的是，一个成功的诗人是在创作剧本时专注于情节的人。但这并不是亚里士多德关注的重点。他的主要议程是在他的论文一开始就警告读者，如果他们想要评判某部诗歌作品的成功程度，即它的功能表现得有多好，他们必须关注情节是如何构建的。
 
 现在，具体来说，诗歌的目标或功能是什么呢？荷马已经非常明确地告诉我们，尤其是在著名的塞壬事件中（《奥德赛》12.39-54；154-200），他的诗歌的目标是快乐。听塞壬们唱诗，可能是荷马自己的《伊利亚特》（因为他们唱出了特洛伊城墙下发生的一切），是奥德修斯，实际上是每个人都强烈渴望的，如此强烈，正如这一事件充分说明的那样，他甚至可能忘记他旅程的真正目标，即回家与家人团聚的目标。亚里士多德在《诗学》中提到了这一事件，当他在已经引用的那段中描述欣赏美丽雕像、听美妙歌曲或诗歌时，他毫不犹豫地提到了这一事件。在《诗学》中，这是他默认的：他像荷马一样假设，提供快乐是诗人必须追求的目标。当一首诗能够给消费者带来快乐时，它就是成功的。但是，诗歌所要提供的这种快乐究竟是什么？诗歌如何实现这个功能？这些是《诗学》所探讨的问题。
 
@@ -118,9 +118,9 @@
 
 现在是时候问问我们，诗歌的这种愉悦到底是什么。在《诗学》第 4 章，亚里士多德以一个悖论的例子引起了人们的注意：在现实世界中，看到这样的动物会引起厌恶和痛苦，但看到它的画却会产生愉悦。他解释了为什么：
 
-看到相似之物是令人愉悦的，因为在思考它时，人们通过推理来理解（*manthanein*）它的每个细节：例如，那个人是某某人。（1448b15–17）
+看到相似之物是令人愉悦的，因为在思考它时，人们通过推理来理解（_manthanein_）它的每个细节：例如，那个人是某某人。（1448b15–17）
 
-这句话经常被理解为对审美愉悦的认知主义方法的一种承诺。艺术作品，无论是图片还是悲剧，所带来的愉悦来自于它所允许的理解，或者实际上是“学习”（动词*manthanein*可以有两种含义）；而图片中所描绘的人的例子将指向这样一个观点：凝视它，我们可以对那个人有所新的、新鲜的了解。\[4]（有些解释者甚至将短语“那个人是某某人”解读为指涉他的本质或某种本质特质，图片可以让我们把握到这一点\[Gallop 1990]）。由于这是一种模拟通常提供的愉悦，因此很容易得出结论，悲剧或喜剧所提供的愉悦必定是这种认知愉悦的一种形式。但正如其他人所回答的（尤其是 Lear 1988 和 Ferrari 1999），这样的解释是基于对文本的过度阅读，特别是如果充分考虑亚里士多德随即补充的内容：
+这句话经常被理解为对审美愉悦的认知主义方法的一种承诺。艺术作品，无论是图片还是悲剧，所带来的愉悦来自于它所允许的理解，或者实际上是“学习”（动词_manthanein_可以有两种含义）；而图片中所描绘的人的例子将指向这样一个观点：凝视它，我们可以对那个人有所新的、新鲜的了解。\[4]（有些解释者甚至将短语“那个人是某某人”解读为指涉他的本质或某种本质特质，图片可以让我们把握到这一点\[Gallop 1990]）。由于这是一种模拟通常提供的愉悦，因此很容易得出结论，悲剧或喜剧所提供的愉悦必定是这种认知愉悦的一种形式。但正如其他人所回答的（尤其是 Lear 1988 和 Ferrari 1999），这样的解释是基于对文本的过度阅读，特别是如果充分考虑亚里士多德随即补充的内容：
 
 > 如果你以前从未见过这个人，你不会从他的相似之物中获得任何愉悦，作为一种再现。但你会因为出色的执行或色彩，或者出于其他某种原因而获得愉悦。（1448b17–19）
 
@@ -138,7 +138,7 @@
 
 ### 3.2. 悲剧
 
-正如我们所见，最好的悲剧是那种能够最好地产生悲怜和恐惧的力量的悲剧，因此能够最好地实现其功能或目标，即从这些情感的体验中获得的快乐。亚里士多德在他对悲剧的分析中提出的是突出诗人如何实现这一功能的手段，这反过来应该为戏剧观众提供他们需要具备的正确理解，以便能够评判他们可能观看或阅读的某个剧目的质量。正如亚里士多德在一开始就宣布的那样，情节应被认为是最重要的手段，而且它得到了最广泛的论述，而其他悲剧的“要素”，如角色的描绘和他们的表达（或者我们更常称之为风格，即他们的对话是如何书写的），紧随其后。从诗歌的目标或功能的角度来看，这种关注是必然的。悲剧通常描绘了命运的变化，包括环境的逆转和痛苦，这当然是如何产生对主要英雄的恐惧和怜悯的。因此，导致这种结果的英雄行为必须是悲剧主要描绘或代表的内容，以及其他构成这一结果的特征。从角色的各种行为和言辞（或亚里士多德所称的“事件”，*pragmata*）中构建或组合情节的方式应该是构成诗人的“目标”（*诗学* 6，1450a22-23）。这是诗人必须追求的目标，如果他想最终得到一个能够正确实现其目标或功能的悲剧。
+正如我们所见，最好的悲剧是那种能够最好地产生悲怜和恐惧的力量的悲剧，因此能够最好地实现其功能或目标，即从这些情感的体验中获得的快乐。亚里士多德在他对悲剧的分析中提出的是突出诗人如何实现这一功能的手段，这反过来应该为戏剧观众提供他们需要具备的正确理解，以便能够评判他们可能观看或阅读的某个剧目的质量。正如亚里士多德在一开始就宣布的那样，情节应被认为是最重要的手段，而且它得到了最广泛的论述，而其他悲剧的“要素”，如角色的描绘和他们的表达（或者我们更常称之为风格，即他们的对话是如何书写的），紧随其后。从诗歌的目标或功能的角度来看，这种关注是必然的。悲剧通常描绘了命运的变化，包括环境的逆转和痛苦，这当然是如何产生对主要英雄的恐惧和怜悯的。因此，导致这种结果的英雄行为必须是悲剧主要描绘或代表的内容，以及其他构成这一结果的特征。从角色的各种行为和言辞（或亚里士多德所称的“事件”，_pragmata_）中构建或组合情节的方式应该是构成诗人的“目标”（_诗学_ 6，1450a22-23）。这是诗人必须追求的目标，如果他想最终得到一个能够正确实现其目标或功能的悲剧。
 
 如果一个诗人将描述人物的激烈抨击串联在一起，无论他们在表达和推理方面多么完美，他都无法实现我们所说的悲剧的功能：（1450a29–31）
 
@@ -160,21 +160,21 @@
 
 这正是为什么写诗比写历史更具哲学性和更有价值的原因。因为诗歌倾向于整体的描绘，而历史则告诉我们具体的案例研究。（9, 1451b5–7）
 
-很容易将这一点解释为亚里士多德认为诗歌处理的是“普遍性”（*katholou*）的意义上，从而传达“普遍真理”。许多哲学家读者认为亚里士多德对诗歌持有宏大的观点，而历史学家则指责他削弱了历史的重要性。这两种观点可能都是过度反应。亚里士多德并没有说历史不具有哲学性，而是说诗歌比历史更具有哲学性。由于哲学是对因果理解的追求，我们可以推测“哲学性”实际上意味着“从因果关系的角度看待事物”。当然，正如希罗多德在他的《历史》第一句中所声称的那样，历史也是对他所报道事件的原因的追寻；但他的主要关注点必须是如实地报道和解释那些实际发生的事件，例如“阿尔西比亚德斯做了什么或发生了什么”（1451b11）。诗人所做的是将他想要引入情节的任何事件转化为一个合理的事件，即使是最不可能的事实事件！
+很容易将这一点解释为亚里士多德认为诗歌处理的是“普遍性”（_katholou_）的意义上，从而传达“普遍真理”。许多哲学家读者认为亚里士多德对诗歌持有宏大的观点，而历史学家则指责他削弱了历史的重要性。这两种观点可能都是过度反应。亚里士多德并没有说历史不具有哲学性，而是说诗歌比历史更具有哲学性。由于哲学是对因果理解的追求，我们可以推测“哲学性”实际上意味着“从因果关系的角度看待事物”。当然，正如希罗多德在他的《历史》第一句中所声称的那样，历史也是对他所报道事件的原因的追寻；但他的主要关注点必须是如实地报道和解释那些实际发生的事件，例如“阿尔西比亚德斯做了什么或发生了什么”（1451b11）。诗人所做的是将他想要引入情节的任何事件转化为一个合理的事件，即使是最不可能的事实事件！
 
 > 因为没有什么能阻止真实发生的事情被转化为可能以及在所有可能性中可能发生的事情，正是这一点使他成为这些事情的诗人。（1451b30–32）
 
-这使得诗歌在“创作诗歌”（*poiêsis*一词允许两种含义）的主动意义上成为一门“更具哲学性”的艺术。这涉及到“普遍性”（universals）的非技术意义，正如亚里士多德所解释的：
+这使得诗歌在“创作诗歌”（_poiêsis_一词允许两种含义）的主动意义上成为一门“更具哲学性”的艺术。这涉及到“普遍性”（universals）的非技术意义，正如亚里士多德所解释的：
 
 > 一个普遍的画面是这样的：某种类型的人在大多数情况下或出于必要会说或做的事情。（1451b8–9）
 
 “普遍的”或“普遍性”在这里并不描述一个具体的项目，而是描述了一个人可能会期望某人说或做事情的方式，根据她的个人特点。这不仅适用于悲剧，也适用于喜剧，其中（与大多数从众所周知的神话中汲取情节的悲剧相反）角色的具体名称由诗人自行选择，并在情节写好后添加（1451b11–14）：因此，在这里，关键是创造一个合理的情节，使得剧中角色的所有行为和言语似乎有因果关系；这就是使它们对观众来说合理的原因。
 
-第二类要求涉及情节的内容。一般来说，情节由构成“戏剧行动”的所有事件组成。但是，在这些事件中，首要的是三个特征。首先，情节的转折是“事件顺序的彻底改变”（11, 1452a22–23）。亚里士多德坚持认为，这必须“很可能或必然发生”，否则它们就无法达到其目的，即引发观众强烈的情感反应。情感反应也是通过认知来创造的：在某个重要事件发生之后或之前，人们会认识到他或她与主角之间的某种关系（1452a36–b3）。最后但同样重要的是：观众对苦难（*pathê*）作出反应，或者更确切地说，亚里士多德确定为“导致死亡或巨大痛苦的行动”（1452b11–12），即造成巨大痛苦的暴力行为。当这种行动涉及亲属时，效果最佳：从情感角度来看，观看一场场景，例如一个母亲要杀死她的儿子，或者一个女儿要杀死她的父亲（14, 1453b19–22），会更具有力量。在这样的悲剧场景中，涉及意外但合理的命运变化、令人吃惊的认知和暴力行为，如果想引发悲剧情感，正确地处理它们是绝对关键的。这些情感是怜悯和恐惧，它们是同一情感体验的两个时刻或方面，其中恐惧主要涉及一个角色即将对亲属犯下不可挽回的行为的时刻，而怜悯则发生在涉及各方的苦难和深刻不幸之时。
+第二类要求涉及情节的内容。一般来说，情节由构成“戏剧行动”的所有事件组成。但是，在这些事件中，首要的是三个特征。首先，情节的转折是“事件顺序的彻底改变”（11, 1452a22–23）。亚里士多德坚持认为，这必须“很可能或必然发生”，否则它们就无法达到其目的，即引发观众强烈的情感反应。情感反应也是通过认知来创造的：在某个重要事件发生之后或之前，人们会认识到他或她与主角之间的某种关系（1452a36–b3）。最后但同样重要的是：观众对苦难（_pathê_）作出反应，或者更确切地说，亚里士多德确定为“导致死亡或巨大痛苦的行动”（1452b11–12），即造成巨大痛苦的暴力行为。当这种行动涉及亲属时，效果最佳：从情感角度来看，观看一场场景，例如一个母亲要杀死她的儿子，或者一个女儿要杀死她的父亲（14, 1453b19–22），会更具有力量。在这样的悲剧场景中，涉及意外但合理的命运变化、令人吃惊的认知和暴力行为，如果想引发悲剧情感，正确地处理它们是绝对关键的。这些情感是怜悯和恐惧，它们是同一情感体验的两个时刻或方面，其中恐惧主要涉及一个角色即将对亲属犯下不可挽回的行为的时刻，而怜悯则发生在涉及各方的苦难和深刻不幸之时。
 
 如果情节是悲剧的核心，并不意味着剧本的其他特点不重要。这尤其适用于角色的描绘和他们的对话方式。这两者在使情节成功方面起着重要作用。简而言之，角色必须是“可信的”：当我们看到一个角色做或说某事时，我们必须相信他们。角色必须是通常具有美德的，否则我们无法钦佩他们，而怜悯则要求我们认为他们的不幸是不应该遭受的。相反，一个女人不应该被描绘成像一个哲学家那样说话（例如欧里庇得斯的一部戏剧中的梅纳利普），因为古希腊观众永远不会期望看到一个女人像男性哲学家那样说话（15, 1454a16–32）。如果想让观众沉浸在悲剧中，构建符合观众期望的角色至关重要。至于“表达”或风格，角色必须以相对清晰和通俗的方式说话，以便观众能够轻松地跟随情节。但是，在适当的时候必须添加一些修辞手法，如罕见的词语或隐喻，特别是当一个角色的发言可能增加场景的情感冲击时。亚里士多德比较了两种说同一件事的方式：
 
-> 在他的《菲洛克忒忒斯》中，埃斯库罗斯写道：“腐蚀我脚底的溃疡”，而欧里庇得斯用“盛宴于”（*thoinaô*）代替了“腐蚀”（22, 1458b19–24）。
+> 在他的《菲洛克忒忒斯》中，埃斯库罗斯写道：“腐蚀我脚底的溃疡”，而欧里庇得斯用“盛宴于”（_thoinaô_）代替了“腐蚀”（22, 1458b19–24）。
 
 稀有而富有诗意的动词欧里庇得斯使用的产生了一种不寻常的印象，正因为这个事实，它打动了观众，这当然是进一步增加他们对这个脚受痛苦坏疽困扰的角色的怜悯之情的一种手段。
 
@@ -194,7 +194,7 @@
 
 因此，似乎更加简约的阅读可能更适合亚里士多德的文本。约翰·费拉里提出了一种这样的阅读，即将“净化”一词视为描述缓解悲剧情感刺激所产生的紧张状态的过程（费拉里 1999 年，2019 年）。这种解释的巨大优势在于它不预设《诗学》之外的任何内容，也不似乎与亚里士多德的任何明确陈述相矛盾；但人们可能会想知道它是否真正解释了“这种情感的净化”这一短语，其中“紧张”或“悬念”似乎并不存在。另一种阅读可能如下所示。在他的生物学著作中，亚里士多德经常使用“净化”一词来指代月经血或出血以及男性射精：在这些情况下，“净化”意味着流动本身（或由转喻，血液）；而这种液体并不是有害的（有趣的是，与希波克拉底的观点相反，亚里士多德并不认为月经血是“不洁的”）。他只是认为，将这种液体保留在体内而不排出可能是不健康的，因此需要定期排出。正如亚里士多德非常清楚的，古代剧院观众通过大声尖叫和哭泣以非常身体的方式表达他们的情感反应。因此，对于怜悯和恐惧的情感的“净化”可能意味着命名这种情感的身体表达或发泄。这种最后的阅读也许看起来不值得亚里士多德的哲学天才。但它符合亚里士多德自己提出的目标：解释悲剧如何实现其功能，即产生怜悯和恐惧的情感以及伴随它们的愉悦。说悲剧是一种“通过激起怜悯和恐惧，实现这种情感的净化”的“模仿”，可能只是意味着悲剧确实应该旨在让观众在剧场中表达和释放他们的情感。\[[6](https://plato.stanford.edu/entries/aristotle-aesthetics/notes.html#note-6)]
 
-第二个令人困惑的问题涉及现代美学家所称为“负面情绪的悖论快乐”。我们如何能够享受通常令人痛苦的怜悯和恐惧等情绪呢？人们往往认为，通过所伴随的宽慰感，*净化*可以将这些情绪的痛苦转化为快乐。但是，将观众从戏剧中获得的快乐仅仅归结为这种快乐，即*净化*的结果或后果，这将是非常违反直觉的。因为这样一来，就必须假设戏剧观众在整个剧中都会遭受痛苦，最终经历一次*净化*，并在离开剧院时获得快乐！正如亚里士多德自己肯定注意到的那样，一个曾为即将遭受严重痛苦的英雄感到巨大恐惧并在两个小时的演出中哭泣的观众，通常会在离开剧院时感到身体上的宽慰。但是，当他说诗人必须“通过模仿（dia mimêseôs）从怜悯和恐惧中产生快乐”时，亚里士多德可能是想暗示模仿是使这些情绪成为快乐源泉的原因。我们如何更准确地理解这一点呢？依靠肯德尔·沃尔顿（Kendall Walton）的“假装”理论，人们可能会诱惑地认为这里的模仿是允许观众假装拥有这些情绪的东西。但是没有任何迹象表明亚里士多德会持有这样的观点；相反，他描述了即使是简单阅读像索福克勒斯的《伊底帕斯王》这样强大情节的作品所产生的效果时，他谈到了颤抖或起鸡皮疙瘩（phrittein），这似乎表明我们实际上经历了强烈的情绪反应（14，1453b3-6）。（对于引起眼泪的怜悯也是如此）。因此，只要我们沉浸在悲剧情节中并“相信”其中的角色，这可能在某种程度上是一种痛苦的情绪体验。但我们也知道，以这种方式体验的故事发生在一个想象的世界中，那里没有真正的对象可被恐惧。因此，可以说，模仿使我们能够体验恐惧本身（正如亚里士多德在《灵魂论》的一段中所说，想象恐怖的对象是“由我们决定的”，而在现实世界中看到它们则不是：427b14-21），这是令人愉快的。然而，这并不意味着这会消除经历的痛苦。正如柏拉图明确指出的（没有理由认为亚里士多德会不赞同），这正是使悲剧的快乐如此矛盾吸引人的原因：它们是一种痛苦和快乐的混合（Philebus 48a）。
+第二个令人困惑的问题涉及现代美学家所称为“负面情绪的悖论快乐”。我们如何能够享受通常令人痛苦的怜悯和恐惧等情绪呢？人们往往认为，通过所伴随的宽慰感，_净化_可以将这些情绪的痛苦转化为快乐。但是，将观众从戏剧中获得的快乐仅仅归结为这种快乐，即_净化_的结果或后果，这将是非常违反直觉的。因为这样一来，就必须假设戏剧观众在整个剧中都会遭受痛苦，最终经历一次_净化_，并在离开剧院时获得快乐！正如亚里士多德自己肯定注意到的那样，一个曾为即将遭受严重痛苦的英雄感到巨大恐惧并在两个小时的演出中哭泣的观众，通常会在离开剧院时感到身体上的宽慰。但是，当他说诗人必须“通过模仿（dia mimêseôs）从怜悯和恐惧中产生快乐”时，亚里士多德可能是想暗示模仿是使这些情绪成为快乐源泉的原因。我们如何更准确地理解这一点呢？依靠肯德尔·沃尔顿（Kendall Walton）的“假装”理论，人们可能会诱惑地认为这里的模仿是允许观众假装拥有这些情绪的东西。但是没有任何迹象表明亚里士多德会持有这样的观点；相反，他描述了即使是简单阅读像索福克勒斯的《伊底帕斯王》这样强大情节的作品所产生的效果时，他谈到了颤抖或起鸡皮疙瘩（phrittein），这似乎表明我们实际上经历了强烈的情绪反应（14，1453b3-6）。（对于引起眼泪的怜悯也是如此）。因此，只要我们沉浸在悲剧情节中并“相信”其中的角色，这可能在某种程度上是一种痛苦的情绪体验。但我们也知道，以这种方式体验的故事发生在一个想象的世界中，那里没有真正的对象可被恐惧。因此，可以说，模仿使我们能够体验恐惧本身（正如亚里士多德在《灵魂论》的一段中所说，想象恐怖的对象是“由我们决定的”，而在现实世界中看到它们则不是：427b14-21），这是令人愉快的。然而，这并不意味着这会消除经历的痛苦。正如柏拉图明确指出的（没有理由认为亚里士多德会不赞同），这正是使悲剧的快乐如此矛盾吸引人的原因：它们是一种痛苦和快乐的混合（Philebus 48a）。
 
 ### 3.3 喜剧
 
@@ -212,11 +212,11 @@
 
 > 特别是在这些\[有趣的比较]方面，如果诗人做得不好，他们就会在观众中失败，如果他们做得好，他们就会受欢迎。(11, 1413a10–11)
 
-无法重建那些“笑话类型”到底是什么。但在他对修辞手法的处理中，亚里士多德唤起了喜剧诗人使用的那些手法。中心思想是不协调。亚里士多德认为，一篇想要说服听众的严肃演讲必须使用“适当”或“恰当”的风格，选择的词语必须与它们所表示的事物“成比例”（*to analogon*）。如果存在不成比例，或者我们所称的“不协调”，那篇演讲的风格将“像喜剧一样”。为了举例说明他所认真陈述的观点，亚里士多德拿悲剧作家克利奥芬开玩笑，他的风格（至少在亚里士多德眼中）更像是喜剧作家的：“他的一些表达就像是在说：尊贵的无花果树”（III 7, 1408a10–16）。这种表达很有趣（对于悲剧风格来说一点也不合适），因为这个形容词通常是用来形容女神或女王的，而那棵树在古希腊被认为毫无价值。
+无法重建那些“笑话类型”到底是什么。但在他对修辞手法的处理中，亚里士多德唤起了喜剧诗人使用的那些手法。中心思想是不协调。亚里士多德认为，一篇想要说服听众的严肃演讲必须使用“适当”或“恰当”的风格，选择的词语必须与它们所表示的事物“成比例”（_to analogon_）。如果存在不成比例，或者我们所称的“不协调”，那篇演讲的风格将“像喜剧一样”。为了举例说明他所认真陈述的观点，亚里士多德拿悲剧作家克利奥芬开玩笑，他的风格（至少在亚里士多德眼中）更像是喜剧作家的：“他的一些表达就像是在说：尊贵的无花果树”（III 7, 1408a10–16）。这种表达很有趣（对于悲剧风格来说一点也不合适），因为这个形容词通常是用来形容女神或女王的，而那棵树在古希腊被认为毫无价值。
 
-在悲剧的情况下，亚里士多德的目标是为读者重建诗歌创作的艺术，以便使他们能够区分好的悲剧和糟糕的悲剧，并解释为什么。我们没有在《诗学》中直接找到这一点的回响，但《Nicomachean Ethics》中的一段话提供了一个值得追随的线索。它来自于专门讨论“幽默感”（*eutrapelia*）这种美德的章节，它包括在朋友中开好笑的玩笑以及能够优雅地接受对自己的嘲笑。在这个背景下，我们读到了这样的陈述：
+在悲剧的情况下，亚里士多德的目标是为读者重建诗歌创作的艺术，以便使他们能够区分好的悲剧和糟糕的悲剧，并解释为什么。我们没有在《诗学》中直接找到这一点的回响，但《Nicomachean Ethics》中的一段话提供了一个值得追随的线索。它来自于专门讨论“幽默感”（_eutrapelia_）这种美德的章节，它包括在朋友中开好笑的玩笑以及能够优雅地接受对自己的嘲笑。在这个背景下，我们读到了这样的陈述：
 
-> 自由人的娱乐与奴隶的娱乐大不相同，受过教育的人的娱乐与未受教育的人的娱乐也不同。这在古代和现代的喜剧中也可以看出：在前者中，让人发笑的是淫秽的语言，而在后者中，是暗示（*huponoia*），这种差异在优雅（*euschêmosunê*）方面是不小的。（IV 8, 1128a20–25）
+> 自由人的娱乐与奴隶的娱乐大不相同，受过教育的人的娱乐与未受教育的人的娱乐也不同。这在古代和现代的喜剧中也可以看出：在前者中，让人发笑的是淫秽的语言，而在后者中，是暗示（_huponoia_），这种差异在优雅（_euschêmosunê_）方面是不小的。（IV 8, 1128a20–25）
 
 确实，这个类比旨在阐明体面公民在现实世界中应该制造或听到什么样的笑话。但这个类比也揭示了亚里士多德在戏剧方面提出的规范判断：好的喜剧，即面向受过教育的观众的喜剧，应该使用暗示和典故，而不是淫秽的语言。这不是一种伦理规范，而是与制造笑声的艺术内在相关的规范。使用粗俗和淫秽语言的笑话可以称为“简单笑话”，它们不需要笑话制作者具备独创性和创造力。相反，好笑话必须是“精致”的或“优雅”的，展示出对修辞手法的巧妙运用，真正体现出不协调和复杂的特点。\[[10](https://plato.stanford.edu/entries/aristotle-aesthetics/notes.html#note-10)]
 
@@ -226,9 +226,9 @@
 
 更一般地说，对于对《诗学》（以及亚里士多德的美学）进行这种伦理解读至少有两个主要的反驳。\[12]首先，那么喜剧呢？当他提到喜剧的可能积极用途时，柏拉图提出，有道德的公民应该观看喜剧，以更好地理解恶习的样子：“我们必须学会识别滑稽，以避免因无知而做出或说出任何荒谬的事情”（《法律》VII 816e）。值得注意的是，亚里士多德从未提到过这样一个奇怪的建议：当我们享受喜剧情节中的笑话和失误时，我们怎么可能了解恶习呢？第二个回答来自亚里士多德在《政治学》VIII 中对音乐的论述。在那里，他首先忠实地重复了柏拉图的建议：由于音乐可以代表像勇气这样的美德，孩子们必须学会演奏它，通过享受唱歌和演奏这样的音乐，他们将下意识地开始享受这些美德。但是，然后，在第二个例子中，亚里士多德有力地、虽然含蓄地反对了柏拉图。在《法律》中，柏拉图非常坚持认为，马格尼西亚的成年公民必须继续唱歌和跳舞，以增强他们的美德（II 664d）。亚里士多德同样坚持认为，一旦成年，他理想城市的公民停止唱歌和演奏音乐，而是雇佣专业音乐家，在他们的“空闲时间”里欣赏他们的音乐（VIII 6, 1340b35–39）。
 
-“空闲时间”或“休闲”（*scholê*）是一个关键概念（关于此，请参见 Too 1998；Heath 2014；和 Ferrari 2019）。它并不意味着从工作中休息或休息；它是一种享受活动本身的时间或生活方式。在《Nicomachean Ethics》中，它是支持理论活动至高无上的论证的核心：虽然沉思通常是一种闲暇的活动，但政治活动构成了非闲暇的生活，这种生活旨在实现实际目标（X 8, 1177b4–24）。在《政治学》VII-VIII 中，当亚里士多德为自己提出的完美城市组织方式辩护时，他甚至说：“能够正确享受休闲是一切的原则”（VIII 3, 1337b31–32）。在音乐的情况下，亚里士多德明确指出，如果音乐可以被用于实现放松的实际目的（有点像我们的背景音乐），或者培养美德（如孩子们必须做的），音乐也可以被单纯地欣赏，只是为了享受它本身。在这里，亚里士多德似乎在重复他在已经引用的《Eudemian Ethics》的段落中所说的，但他添加了一些我们在那里找不到的东西：以“休闲”为目的的音乐被描述为一种“以智慧（*phronêsis*）为目的的音乐”（*VIII* 5, 1339a14–26）。
+“空闲时间”或“休闲”（_scholê_）是一个关键概念（关于此，请参见 Too 1998；Heath 2014；和 Ferrari 2019）。它并不意味着从工作中休息或休息；它是一种享受活动本身的时间或生活方式。在《Nicomachean Ethics》中，它是支持理论活动至高无上的论证的核心：虽然沉思通常是一种闲暇的活动，但政治活动构成了非闲暇的生活，这种生活旨在实现实际目标（X 8, 1177b4–24）。在《政治学》VII-VIII 中，当亚里士多德为自己提出的完美城市组织方式辩护时，他甚至说：“能够正确享受休闲是一切的原则”（VIII 3, 1337b31–32）。在音乐的情况下，亚里士多德明确指出，如果音乐可以被用于实现放松的实际目的（有点像我们的背景音乐），或者培养美德（如孩子们必须做的），音乐也可以被单纯地欣赏，只是为了享受它本身。在这里，亚里士多德似乎在重复他在已经引用的《Eudemian Ethics》的段落中所说的，但他添加了一些我们在那里找不到的东西：以“休闲”为目的的音乐被描述为一种“以智慧（_phronêsis_）为目的的音乐”（_VIII_ 5, 1339a14–26）。
 
-不幸的是，亚里士多德没有明确说明他所指的具体含义，这个短语已经被各种方式解释过。同样，一些学者提出了一种伦理解读：所涉及的智慧将等同于任何道德行为所需的实践智慧或智慧（通常称为*phronêsis*）。因此，通过听描绘勇气等内容的音乐，人们可以更好地理解勇气是什么。尽管这种解读似乎很自然，但它与亚里士多德在同一页面上重复的内容相矛盾：道德或政治行为基本上是一种非闲暇的活动（*ascholia*）。如果亚里士多德在描述如何管理非闲暇的道德生活时，推荐这种闲暇使用音乐的方式，那将是奇怪的！在那些页面上重复出现的另一个主题应该给我们一个更好的线索：学习如何唱歌和演奏乐器的最终目的是帮助这些未来的公民成为音乐的“好评判者”（VIII 6, 1340b35–39）。在《法律》中，柏拉图也使用了这个短语，并且他的意思是成年公民应该能够辨别出道德上好的歌曲和道德上坏的歌曲，从而使他们能够决定在马格尼西亚应该唱哪些歌曲（II 669a-670c）。没有理由相信亚里士多德会支持这样一个强烈的伦理-政治议程。相反，很有可能亚里士多德只是通过“评判”来指出，通过亲身体验演奏音乐，公民将能够评判和欣赏音乐的优质。正如所有音乐鉴赏家所知，这种欣赏既是感知的（因为我们确实喜欢听声音和节奏），也在某种程度上是知识性的：鉴赏家同样欣赏一首音乐作品的构造得多么好或有创意。\[13]
+不幸的是，亚里士多德没有明确说明他所指的具体含义，这个短语已经被各种方式解释过。同样，一些学者提出了一种伦理解读：所涉及的智慧将等同于任何道德行为所需的实践智慧或智慧（通常称为_phronêsis_）。因此，通过听描绘勇气等内容的音乐，人们可以更好地理解勇气是什么。尽管这种解读似乎很自然，但它与亚里士多德在同一页面上重复的内容相矛盾：道德或政治行为基本上是一种非闲暇的活动（_ascholia_）。如果亚里士多德在描述如何管理非闲暇的道德生活时，推荐这种闲暇使用音乐的方式，那将是奇怪的！在那些页面上重复出现的另一个主题应该给我们一个更好的线索：学习如何唱歌和演奏乐器的最终目的是帮助这些未来的公民成为音乐的“好评判者”（VIII 6, 1340b35–39）。在《法律》中，柏拉图也使用了这个短语，并且他的意思是成年公民应该能够辨别出道德上好的歌曲和道德上坏的歌曲，从而使他们能够决定在马格尼西亚应该唱哪些歌曲（II 669a-670c）。没有理由相信亚里士多德会支持这样一个强烈的伦理-政治议程。相反，很有可能亚里士多德只是通过“评判”来指出，通过亲身体验演奏音乐，公民将能够评判和欣赏音乐的优质。正如所有音乐鉴赏家所知，这种欣赏既是感知的（因为我们确实喜欢听声音和节奏），也在某种程度上是知识性的：鉴赏家同样欣赏一首音乐作品的构造得多么好或有创意。\[13]
 
 诚然，所有这些在《诗学》中都没有提到，甚至连“闲暇”这个词都没有出现。但是当他在《政治学》中提出了他对一种应该被听到和欣赏的音乐的概念时，令人惊讶的是亚里士多德以荷马为例来进行了辩解，并引用了《奥德赛》中的几句诗句：除了用于放松和道德教育的音乐外，还有
 
@@ -240,110 +240,110 @@
 
 亚里士多德在诗歌方面从未提出过这样的建议；事实上，如果一个人认为诗歌是一种特殊的天赋，就像亚里士多德所认为的那样，那么提议每个孩子都应该练习创作诗歌就会显得奇怪。也许可以将他关于诗歌的著作视为对这些艺术品的后期教育的一种方式。通过阅读《诗学》（如果他们有机会进入雅典学院）或亚里士多德的出版作品，人们可以成为诗歌的鉴赏家，并且也能够充分享受它。
 
-人们常常声称古人并不像我们现代人那样重视艺术品。古希腊戏剧，包括诗歌、舞台绘画和音乐，这一论点认为，只是宗教节日中的一个时刻，整个城市都会团结在共同的活动和价值观中。尽管他对戏剧进行了种种批评，还创造了“戏剧统治”（《法律》第三卷 701a）这个蔑视的词，但柏拉图仍然强调正确类型的诗歌和音乐应在青年的道德教育中起到关键作用。但亚里士多德似乎对戏剧表演的宗教和政治背景不太关心；而且他并没有对悲剧中神的角色发表任何值得注意的言论。 （实际上，这些元素甚至是古典学者经常对他提出的批评的一个问题）他强烈反对将艺术完全服从于任何其他有用的目标：“对于那些心灵伟大而自由的人来说，到处寻找有用之物是完全不合适的”（《政治学》第八卷第 3 章，1338b2-4）。换句话说，如果听某种类型的音乐出于教育或治疗目的确实有用，那么音乐也可以并且应该为自身而欣赏，绘画和诗歌也是如此。确实，就它们本身而言，模仿的对象可能并不值得。但正如亚里士多德在他的《动物部分》前言中所说的，即使是最低级的动物，也会为那些能够了解它们的原因并具有哲学理解天赋的人们提供“非凡的快乐”（I 5，645a9-10）。在动物和植物的情况下，我们欣赏“艺术性的自然”（*dêmiourgêsasa phusis*）构建它们的方式。在艺术品的情况下，
+人们常常声称古人并不像我们现代人那样重视艺术品。古希腊戏剧，包括诗歌、舞台绘画和音乐，这一论点认为，只是宗教节日中的一个时刻，整个城市都会团结在共同的活动和价值观中。尽管他对戏剧进行了种种批评，还创造了“戏剧统治”（《法律》第三卷 701a）这个蔑视的词，但柏拉图仍然强调正确类型的诗歌和音乐应在青年的道德教育中起到关键作用。但亚里士多德似乎对戏剧表演的宗教和政治背景不太关心；而且他并没有对悲剧中神的角色发表任何值得注意的言论。 （实际上，这些元素甚至是古典学者经常对他提出的批评的一个问题）他强烈反对将艺术完全服从于任何其他有用的目标：“对于那些心灵伟大而自由的人来说，到处寻找有用之物是完全不合适的”（《政治学》第八卷第 3 章，1338b2-4）。换句话说，如果听某种类型的音乐出于教育或治疗目的确实有用，那么音乐也可以并且应该为自身而欣赏，绘画和诗歌也是如此。确实，就它们本身而言，模仿的对象可能并不值得。但正如亚里士多德在他的《动物部分》前言中所说的，即使是最低级的动物，也会为那些能够了解它们的原因并具有哲学理解天赋的人们提供“非凡的快乐”（I 5，645a9-10）。在动物和植物的情况下，我们欣赏“艺术性的自然”（_dêmiourgêsasa phusis_）构建它们的方式。在艺术品的情况下，
 
-我们喜欢凝视动物的肖像，因为我们同时在思考艺术工艺（*dêmiourgêsasa technê*），无论是绘画还是雕塑，是如何创造它们的；（645a11–12）
+我们喜欢凝视动物的肖像，因为我们同时在思考艺术工艺（_dêmiourgêsasa technê_），无论是绘画还是雕塑，是如何创造它们的；（645a11–12）
 
-也就是说，当我们成为艺术的鉴赏家时。确实，正如亚里士多德在那篇序言中也说的那样，像天体和不动的神明这样的神圣存在更值得思考（主要是因为它们是永恒的）。而且，正如他在他的《Nicomachean Ethics》和《政治学》中反复强调的那样，哲学思考，最终体现在我们对这些神圣对象的智力锻炼上，是人们能够达到的最高活动。但是这种哲学思考，无论是针对这些神圣实体还是动植物的原因，被认为是“天生具有哲学理解能力”的人所保留，而这样的人很少，正如亚里士多德似乎很遗憾地承认的那样。相比之下，只要接受正确的艺术教育，成为艺术鉴赏家，欣赏艺术可以成为每个人幸福（或典型的人类繁荣：*eudaimonia*）的一部分。
+也就是说，当我们成为艺术的鉴赏家时。确实，正如亚里士多德在那篇序言中也说的那样，像天体和不动的神明这样的神圣存在更值得思考（主要是因为它们是永恒的）。而且，正如他在他的《Nicomachean Ethics》和《政治学》中反复强调的那样，哲学思考，最终体现在我们对这些神圣对象的智力锻炼上，是人们能够达到的最高活动。但是这种哲学思考，无论是针对这些神圣实体还是动植物的原因，被认为是“天生具有哲学理解能力”的人所保留，而这样的人很少，正如亚里士多德似乎很遗憾地承认的那样。相比之下，只要接受正确的艺术教育，成为艺术鉴赏家，欣赏艺术可以成为每个人幸福（或典型的人类繁荣：_eudaimonia_）的一部分。
 
 ## Bibliography
 
 ### A. Selected Texts, Translations, Commentaries
 
-* Aristotle, *Nicomachean Ethics* (NE), *Eudemian Ethics* (EE), *De Anima*, *Parts of Animals*, *Rhetoric*, *Politics*, fragments of *On Poets*, and fragments of *Homeric Problems*; any edition. All translations by the author of this entry unless otherwise noted.
-* Bywater, Ingram (ed./trans.), 1909, *Aristotle, On the Art of Poetry. A Revised Text, with Critical Introduction, Translation and Commentary*, Oxford: Clarendon Press.
-* Carroll, Mitchell, 1895, *Aristotle’s Poetics, C. XXV, in the Light of the Homeric Scholia*, Baltimore: J. Murphy.
-* Destrée, Pierre, 2021, *Aristote. La Poétique*, Paris: Flammarion.
-* Donini, Pierluigi, 2008, *Aristotele. Poetica*, Turin: Einaudi.
-* Dupont-Roc, Roselyne and Jean Lallot, 1980, *Aristote. La Poétique*, Paris: Le Seuil.
-* Else, Gerald F., 1957, *Aristotle’s Poetics: The Argument*, Cambridge, MA: Harvard University Press.
-* Flashar, Hellmut, Uwe Dubielzig, and Barbara Breitenberger (eds.), 2006, *Fragmente zu Philosophie, Rhetorik, Poetik, Dichtung*, (*Aristoteles Werke*, Band 20/I), Berlin: Akademie Verlag. doi:10.1524/9783050048901
-* Goldschmidt, Victor, 1982, *Temps physique et temps tragique chez Aristote*, Paris: Vrin.
-* Gorgias, *Helen* (*Encomium of Helen*), any edition. Translation by the author.
-* Halliwell, Stephen, 1987, *The Poetics of Aristotle*, London: Duckworth.
-* ––– (ed./trans.), 1995, *Aristotle: Poetics* (Loeb Classical Library, 199), Cambridge, MA: Harvard University Press.
-* Heath, Malcolm (trans.), 1996, *Aristotle: Poetics*, Harmondsworth: Penguin.
-* Iamblichus, *On Mysteries*, translated in Janko 1987.
-* Janko, Richard, 1984, *Aristotle on Comedy: Towards a Reconstruction of Poetics Ii*, London: Duckworth.
-* ––– (trans.), 1987, *Aristotle. Poetics I with the Tractatus Coislinianus*, Indianapolis, IN: Hackett.
-* ––– (trans./ed.), 2011, *Philodemus, On Poems, Books 3–4, with the Fragments of Aristotle, On Poets*, Oxford: Oxford University Press.
-* Kassel, Rudolf (trans.), 1965, *Aristotelis de arte poetica liber*, Oxford: Clarendon Press.
-* Kraut, Richard (trans.), 1997, *Aristotle. Politics VII and VIII*, Oxford: Clarendon Press.
-* Plato, *Republic*, *Philebus*, and *Laws*, any edition. All translations by the author unless otherwise noted.
-* Proclus, *Commentary on Plato’s* Republic, translated in Janko 1987.
-* Schmitt, Arbogast, 2008, *Aristoteles. Poetik*, Berlin: Akademie Verlag.
-* Sinnott, Eduardo, 2006, *Aristóteles. Poetica*, Buenos Aires: Colihue.
-* Tarán, Leonardo and Dimitri Gutas, 2012, *Aristotle “Poetics”: Editio Maior of the Greek Text with Historical Introductions and Philological Commentaries*, Leiden/Boston: Brill.
+* Aristotle, _Nicomachean Ethics_ (NE), _Eudemian Ethics_ (EE), _De Anima_, _Parts of Animals_, _Rhetoric_, _Politics_, fragments of _On Poets_, and fragments of _Homeric Problems_; any edition. All translations by the author of this entry unless otherwise noted.
+* Bywater, Ingram (ed./trans.), 1909, _Aristotle, On the Art of Poetry. A Revised Text, with Critical Introduction, Translation and Commentary_, Oxford: Clarendon Press.
+* Carroll, Mitchell, 1895, _Aristotle’s Poetics, C. XXV, in the Light of the Homeric Scholia_, Baltimore: J. Murphy.
+* Destrée, Pierre, 2021, _Aristote. La Poétique_, Paris: Flammarion.
+* Donini, Pierluigi, 2008, _Aristotele. Poetica_, Turin: Einaudi.
+* Dupont-Roc, Roselyne and Jean Lallot, 1980, _Aristote. La Poétique_, Paris: Le Seuil.
+* Else, Gerald F., 1957, _Aristotle’s Poetics: The Argument_, Cambridge, MA: Harvard University Press.
+* Flashar, Hellmut, Uwe Dubielzig, and Barbara Breitenberger (eds.), 2006, _Fragmente zu Philosophie, Rhetorik, Poetik, Dichtung_, (_Aristoteles Werke_, Band 20/I), Berlin: Akademie Verlag. doi:10.1524/9783050048901
+* Goldschmidt, Victor, 1982, _Temps physique et temps tragique chez Aristote_, Paris: Vrin.
+* Gorgias, _Helen_ (_Encomium of Helen_), any edition. Translation by the author.
+* Halliwell, Stephen, 1987, _The Poetics of Aristotle_, London: Duckworth.
+* ––– (ed./trans.), 1995, _Aristotle: Poetics_ (Loeb Classical Library, 199), Cambridge, MA: Harvard University Press.
+* Heath, Malcolm (trans.), 1996, _Aristotle: Poetics_, Harmondsworth: Penguin.
+* Iamblichus, _On Mysteries_, translated in Janko 1987.
+* Janko, Richard, 1984, _Aristotle on Comedy: Towards a Reconstruction of Poetics Ii_, London: Duckworth.
+* ––– (trans.), 1987, _Aristotle. Poetics I with the Tractatus Coislinianus_, Indianapolis, IN: Hackett.
+* ––– (trans./ed.), 2011, _Philodemus, On Poems, Books 3–4, with the Fragments of Aristotle, On Poets_, Oxford: Oxford University Press.
+* Kassel, Rudolf (trans.), 1965, _Aristotelis de arte poetica liber_, Oxford: Clarendon Press.
+* Kraut, Richard (trans.), 1997, _Aristotle. Politics VII and VIII_, Oxford: Clarendon Press.
+* Plato, _Republic_, _Philebus_, and _Laws_, any edition. All translations by the author unless otherwise noted.
+* Proclus, _Commentary on Plato’s_ Republic, translated in Janko 1987.
+* Schmitt, Arbogast, 2008, _Aristoteles. Poetik_, Berlin: Akademie Verlag.
+* Sinnott, Eduardo, 2006, _Aristóteles. Poetica_, Buenos Aires: Colihue.
+* Tarán, Leonardo and Dimitri Gutas, 2012, _Aristotle “Poetics”: Editio Maior of the Greek Text with Historical Introductions and Philological Commentaries_, Leiden/Boston: Brill.
 
 ### B. Selected Secondary Literature
 
-* Armstrong, J. M., 1998, “Aristotle on the Philosophical Nature of Poetry”, *The Classical Quarterly*, 48(2): 447–455. doi:10.1093/cq/48.2.447
-* Belfiore, Elizabeth S., 1992, *Tragic Pleasures: Aristotle on Plot and Emotion*, Princeton, NJ: Princeton University Press. doi:10.1515/9781400862573
-* Bernays, Jacob, 1858, *Grundzüge der verlorenen Abhandlung des Aristoteles über die Wirkung der Tragödie*, Breslau.
-* Bouchard, Elsa, 2012, “Audience, Poetic Justice, and Aesthetic Value in Aristotle’s Poetics”, in *Aesthetic Value in Classical Antiquity*, Ineke Sluiter and Ralph M. Rosen (eds.), Leiden: Brill, 183–213. doi:10.1163/9789004232822\*009
-* –––, 2016, *Du Lycée au Musée: théorie poétique et critique littéraire à l’époque hellénistique*, Paris: Presses de l’université de Paris-Sorbonne.
-* Curran, Angela, 2016, *Routledge Philosophy Guidebook to Aristotle and the “Poetics”*, London: Routledge. doi:10.4324/9781315771991
-* Depew, David J., 1991, “Politics, Music, and Contemplation in Aristotle’s Ideal State”, in *A Companion to Aristotle’s “Politics”*, David Keyt and Fred D. Miller, Jr. (eds.), Oxford: Blackwell, 346–80.
-* –––, 2006, “From Hymn to Tragedy: Aristotle’s Biological Genealogy of Poetic Kinds”, in *The Origins of Theater in Ancient Greece and Beyond: From Ritual to Drama*, Eric Csapo and Margaret C. Miller (eds), New York: Cambridge University Press, 126–149.
-* Destrée, Pierre, 2013, “Aristotle on the Paradox of Tragic Pleasure”, in *Suffering Art Gladly: The Paradox of Negative Emotion in Art*, Jerrold Levinson (ed.), London: Palgrave Macmillan UK, 3–27. doi:10.1057/9781137313713\*1
-* –––, 2016, “Aristotle on the Power of Music in Tragedy”, *Greek and Roman Musical Studies*, 4(2): 231–252. doi:10.1163/22129758-12341277
-* –––, 2018, “Aristotle on Music for Leisure”, in *Music, Text, and Culture in Ancient Greece*, Tom Phillips and Armand D’Angour (eds), Oxford: Oxford University Press, 183–202.
-* –––, 2019, “Aristotle on Why We Laugh at Jokes”, in *Laughter, Humor, and Comedy in Ancient Philosophy*, Pierre Destrée and Franco V. Trivigno (eds.), Oxford: Oxford University Press, 35–51. doi:10.1093/oso/9780190460549.003.0003
-* Destrée, Pierre, Malcolm Heath, and Dana L. Munteanu (eds.), 2020, *The Poetics in Its Aristotelian Context*, London: Routledge. doi:10.4324/9780429347276
-* Donini, Pierluigi, 2004, *La tragedia e la vita. Saggi sulla Poetica di Aristotele*, Alessandria: Editioni dell’ Orso.
-* Dow, Jamie, 2021, “Beware of Imitations!: Aristotle and the Paradox of Fiction”, *Ancient Philosophy*, 41(2): 519–549. doi:10.5840/ancientphil202141231
-* Ferrari, G. R. F., 1999, “Aristotle’s Literary Aesthetics”, *Phronesis*, 44(3): 181–198. doi:10.1163/15685289960500024
-* –––, 2019, “Aristotle on Musical Catharsis and the Pleasure of a Good Story”, *Phronesis*, 64(2): 117–171. doi:10.1163/15685284-12341956
-* Ford, Andrew Laughlin, 1995, “Katharsis: The Ancient Problem”, in *Performativity and Performance*, Andrew Parker and Eve Kosofsky Sedgwick (eds),New York: Routledge, 109–132.
-* –––, 2002, *The Origins of Criticism: Literary Culture and Poetic Theory in Classical Greece*, Princeton, NJ: Princeton University Press.
-* –––, 2004, “Catharsis: The Power of Music in Aristotle’s Politics”, in *Music and the Muses: The Culture of Mousike in the Classical Athenian City*, Penelope Murray and Peter Wilson (eds.), Oxford: Oxford University Press, 309–336. doi:10.1093/acprof:oso/9780199242399.003.0012
-* –––, 2015, “The Purpose of Aristotle’s *Poetics*”, *Classical Philology*, 110(1): 1–21. doi:10.1086/678678
+* Armstrong, J. M., 1998, “Aristotle on the Philosophical Nature of Poetry”, _The Classical Quarterly_, 48(2): 447–455. doi:10.1093/cq/48.2.447
+* Belfiore, Elizabeth S., 1992, _Tragic Pleasures: Aristotle on Plot and Emotion_, Princeton, NJ: Princeton University Press. doi:10.1515/9781400862573
+* Bernays, Jacob, 1858, _Grundzüge der verlorenen Abhandlung des Aristoteles über die Wirkung der Tragödie_, Breslau.
+* Bouchard, Elsa, 2012, “Audience, Poetic Justice, and Aesthetic Value in Aristotle’s Poetics”, in _Aesthetic Value in Classical Antiquity_, Ineke Sluiter and Ralph M. Rosen (eds.), Leiden: Brill, 183–213. doi:10.1163/9789004232822\*009
+* –––, 2016, _Du Lycée au Musée: théorie poétique et critique littéraire à l’époque hellénistique_, Paris: Presses de l’université de Paris-Sorbonne.
+* Curran, Angela, 2016, _Routledge Philosophy Guidebook to Aristotle and the “Poetics”_, London: Routledge. doi:10.4324/9781315771991
+* Depew, David J., 1991, “Politics, Music, and Contemplation in Aristotle’s Ideal State”, in _A Companion to Aristotle’s “Politics”_, David Keyt and Fred D. Miller, Jr. (eds.), Oxford: Blackwell, 346–80.
+* –––, 2006, “From Hymn to Tragedy: Aristotle’s Biological Genealogy of Poetic Kinds”, in _The Origins of Theater in Ancient Greece and Beyond: From Ritual to Drama_, Eric Csapo and Margaret C. Miller (eds), New York: Cambridge University Press, 126–149.
+* Destrée, Pierre, 2013, “Aristotle on the Paradox of Tragic Pleasure”, in _Suffering Art Gladly: The Paradox of Negative Emotion in Art_, Jerrold Levinson (ed.), London: Palgrave Macmillan UK, 3–27. doi:10.1057/9781137313713\*1
+* –––, 2016, “Aristotle on the Power of Music in Tragedy”, _Greek and Roman Musical Studies_, 4(2): 231–252. doi:10.1163/22129758-12341277
+* –––, 2018, “Aristotle on Music for Leisure”, in _Music, Text, and Culture in Ancient Greece_, Tom Phillips and Armand D’Angour (eds), Oxford: Oxford University Press, 183–202.
+* –––, 2019, “Aristotle on Why We Laugh at Jokes”, in _Laughter, Humor, and Comedy in Ancient Philosophy_, Pierre Destrée and Franco V. Trivigno (eds.), Oxford: Oxford University Press, 35–51. doi:10.1093/oso/9780190460549.003.0003
+* Destrée, Pierre, Malcolm Heath, and Dana L. Munteanu (eds.), 2020, _The Poetics in Its Aristotelian Context_, London: Routledge. doi:10.4324/9780429347276
+* Donini, Pierluigi, 2004, _La tragedia e la vita. Saggi sulla Poetica di Aristotele_, Alessandria: Editioni dell’ Orso.
+* Dow, Jamie, 2021, “Beware of Imitations!: Aristotle and the Paradox of Fiction”, _Ancient Philosophy_, 41(2): 519–549. doi:10.5840/ancientphil202141231
+* Ferrari, G. R. F., 1999, “Aristotle’s Literary Aesthetics”, _Phronesis_, 44(3): 181–198. doi:10.1163/15685289960500024
+* –––, 2019, “Aristotle on Musical Catharsis and the Pleasure of a Good Story”, _Phronesis_, 64(2): 117–171. doi:10.1163/15685284-12341956
+* Ford, Andrew Laughlin, 1995, “Katharsis: The Ancient Problem”, in _Performativity and Performance_, Andrew Parker and Eve Kosofsky Sedgwick (eds),New York: Routledge, 109–132.
+* –––, 2002, _The Origins of Criticism: Literary Culture and Poetic Theory in Classical Greece_, Princeton, NJ: Princeton University Press.
+* –––, 2004, “Catharsis: The Power of Music in Aristotle’s Politics”, in _Music and the Muses: The Culture of Mousike in the Classical Athenian City_, Penelope Murray and Peter Wilson (eds.), Oxford: Oxford University Press, 309–336. doi:10.1093/acprof:oso/9780199242399.003.0012
+* –––, 2015, “The Purpose of Aristotle’s _Poetics_”, _Classical Philology_, 110(1): 1–21. doi:10.1086/678678
 * Frede. Dorothea, 1992, “Necessity, Chance, and ‘What Happens for the Most Part’”, in Rorty 1992: 197–219.
-* Gallop David, 1990, “Animals in the *Poetics*”, in *Oxford Studies in Ancient Philosophy 8*, Oxford: Oxford University Press, 145–171.
-* Golden, Leon, 1976, “The Clarification Theory of ‘Katharsis’”, *Hermes*, 104(4): 437–452.
-* –––, 1984, “Aristotle on Comedy”, *The Journal of Aesthetics and Art Criticism*, 42(3): 283–290. doi:10.2307/429709
-* González, José M., 2019, “The Aristotelian Psychology of Tragic Mimesis”, *Phronesis*, 64(2): 172–245. doi:10.1163/15685284-12341958
-* Hall, Edith, 1996, “Is There a *Polis* In Aristotle’s *Poetics*?” in *Tragedy and the Tragic: Greek Theatre and Beyond*, M.S. Silk (ed.), Oxford: Oxford University Press, 295–309.
-* Halliwell, Stephen, 1986, *Aristotle’s Poetics*, London: Duckworth.
-* –––, 2002, *The Aesthetics of Mimesis: Ancient Texts and Modern Problems*, Princeton, NJ: Princeton University Press.
-* –––, 2008, *Greek Laughter: A Study of Cultural Psychology from Homer to Early Christianity*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511483004
-* –––, 2011, *Between Ecstasy and TruthInterpretations of Greek Poetics from Homer to Longinus*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199570560.001.0001
-* Heath, Malcolm, 1989, “Aristotelian Comedy”, *The Classical Quarterly*, 39(2): 344–354. doi:10.1017/S0009838800037411
-* –––, 1991, “The Universality of Poetry in Aristotle’s Poetics”, *The Classical Quarterly*, 41(2): 389–402. doi:10.1017/S0009838800004559
-* –––, 2009, “Should There Have Been a *Polis* in Aristotle’s *Poetics*?”, *The Classical Quarterly*, 59(2): 468–485. doi:10.1017/S0009838809990115
-* –––, 2013, *Ancient Philosophical Poetics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139018258
-* –––, 2014, “Aristotle and the Value of Tragedy”, *The British Journal of Aesthetics*, 54(2): 111–123. doi:10.1093/aesthj/ayu006
-* –––, 2017, “Aristotle on the Best Kind of Tragic Plot: Re-Reading Poetics 13–14”, in *Reading Aristotle: Exposition and Argument*, William Wians and Ron Polansky (eds.), Leiden: Brill, 334–351. doi:10.1163/9789004340084\*014
-* Höffe, Otfried (ed.), 2009, *Aristoteles. Poetik* (Klassiker Auslegen, 38), Berlin: Akademie Verlag. doi:10.1524/9783050050119
+* Gallop David, 1990, “Animals in the _Poetics_”, in _Oxford Studies in Ancient Philosophy 8_, Oxford: Oxford University Press, 145–171.
+* Golden, Leon, 1976, “The Clarification Theory of ‘Katharsis’”, _Hermes_, 104(4): 437–452.
+* –––, 1984, “Aristotle on Comedy”, _The Journal of Aesthetics and Art Criticism_, 42(3): 283–290. doi:10.2307/429709
+* González, José M., 2019, “The Aristotelian Psychology of Tragic Mimesis”, _Phronesis_, 64(2): 172–245. doi:10.1163/15685284-12341958
+* Hall, Edith, 1996, “Is There a _Polis_ In Aristotle’s _Poetics_?” in _Tragedy and the Tragic: Greek Theatre and Beyond_, M.S. Silk (ed.), Oxford: Oxford University Press, 295–309.
+* Halliwell, Stephen, 1986, _Aristotle’s Poetics_, London: Duckworth.
+* –––, 2002, _The Aesthetics of Mimesis: Ancient Texts and Modern Problems_, Princeton, NJ: Princeton University Press.
+* –––, 2008, _Greek Laughter: A Study of Cultural Psychology from Homer to Early Christianity_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511483004
+* –––, 2011, _Between Ecstasy and TruthInterpretations of Greek Poetics from Homer to Longinus_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199570560.001.0001
+* Heath, Malcolm, 1989, “Aristotelian Comedy”, _The Classical Quarterly_, 39(2): 344–354. doi:10.1017/S0009838800037411
+* –––, 1991, “The Universality of Poetry in Aristotle’s Poetics”, _The Classical Quarterly_, 41(2): 389–402. doi:10.1017/S0009838800004559
+* –––, 2009, “Should There Have Been a _Polis_ in Aristotle’s _Poetics_?”, _The Classical Quarterly_, 59(2): 468–485. doi:10.1017/S0009838809990115
+* –––, 2013, _Ancient Philosophical Poetics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139018258
+* –––, 2014, “Aristotle and the Value of Tragedy”, _The British Journal of Aesthetics_, 54(2): 111–123. doi:10.1093/aesthj/ayu006
+* –––, 2017, “Aristotle on the Best Kind of Tragic Plot: Re-Reading Poetics 13–14”, in _Reading Aristotle: Exposition and Argument_, William Wians and Ron Polansky (eds.), Leiden: Brill, 334–351. doi:10.1163/9789004340084\*014
+* Höffe, Otfried (ed.), 2009, _Aristoteles. Poetik_ (Klassiker Auslegen, 38), Berlin: Akademie Verlag. doi:10.1524/9783050050119
 * Janko, Richard, 1992, “From Catharsis to the Aristotelian Mean”, in Rorty 1992: 341–358.
-* Jones, Elizabeth M., 2012, “Allocating Musical Pleasure: Performance, Pleasure, and Value in Aristotle’s Politics”, in *Aesthetic Value in Classical Antiquity*, Ineke Sluiter and Ralph M. Rosen (eds.), Leiden: Brill, 159–182. doi:10.1163/9789004232822\*008
-* Konstan, David, 2006, “Aristotle on the Tragic Emotions”, in *The Soul of Tragedy: Essays on Athenian Drama*, Victoria Pedrick and Stephen M. Oberhelman (eds), Chicago, IL: University of Chicago Press, 13–25.
-* Lear, Jonathan, 1988 \[1992], “Katharsis”, *Phronesis* 33(3): 297–326. Reprinted in Rorty 1992: 315–340. doi:10.1163/156852888X00216
-* Lockwood, Thornton C., 2017, “Aristotle on the (Alleged) Inferiority of History to Poetry”, in *Reading Aristotle: Argument and Exposition*, William Wians and Ron Polansky (eds.), Leiden: Brill, 315–333. doi:10.1163/9789004340084\*013
-* Lord, Carnes, 1982, *Education and Culture in the Political Thought of Aristotle*, Ithaca, NY: Cornell University Press.
-* –––, 1974, “Aristotle’s History of Poetry”, *Transactions of the American Philological Association*, 104: 195–229. doi:10.2307/2936090
-* Luserke, Matthias (ed.), 1991, *Die aristotelische Katharsis: Dokumente ihrer Deutung im 19. und 20. Jahrhundert*, Hildesheim: Olms.
-* Mayhew, Robert, 2019, *Aristotle’s Lost Homeric Problems: Textual Studies*, Oxford: Oxford University Press. doi:10.1093/oso/9780198834564.001.0001
-* Munteanu, Dana LaCourse, 2012, *Tragic Pathos: Pity and Fear in Greek Philosophy and Tragedy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139028257
-* Narbonne, Jean-Marc, 2017, “Likely and Necessary: The Poetics of Aristotle and the Problem of Literary Leeway”, *Proceedings of the Boston Area Colloquium of Ancient Philosophy*, 33: 69–87. doi:10.1163/22134417-00331P08
-* Nehamas, Alexander, 1994, “Pity and Fear in the *Rhetoric* and the *Poetics*”, in *Aristotle’s Rhetoric: Philosophical Essays*, David J. Furley and Alexander Nehamas (eds), Princeton, NJ: Princeton University Press, 257–282.
-* Nussbaum, Martha C., 1986, “Luck and the Tragic Emotions”, in her *The Fragility of Goodness*, Cambridge: Cambridge University Press, 378–394.
-* –––, 1992, “Tragedy and Self-Sufficiency: Plato and Aristotle on Fear and Pity”, *Oxford Studies in Ancient Philosophy 10*, Oxford: Clarendon Press, 107–159. Reprinted in Rorty 1992, pp. 261–290.
-* O’Sullivan, Neil, 1995, “Aristotle on Dramatic Probability”, *Classical Journal*, 91(6): 47–63.
-* Peponi, Anastasia-Erasmia, 2017, “Aristotle’s Definition of Dance”, in *Choreutika. Performing and Theorizing Dance in Ancient Greece*, Laura Gianvittorio (ed.), Pise/Rome: F. Serra, 215–243.
-* Rapp, Christof, 2006, “Katharsis der Emotionen”, in *Katharsis vor Aristoteles. Zum kulturellen Hintergrund des Tragödiensatzes*, Martin Vöhler and Bernd Seidensticker (eds), Berlin/New York: de Gruyter, 149–172. doi:10.1515/9783110204285.3.149
-* Rees, B. R., 1972, “*Pathos* in the *Poetics* of Aristotle”, *Greece and Rome*, 19(1): 1–11. doi:10.1017/S0017383500016636
-* Rorty, Amélie Oksenberg (ed.), 1992, *Essays on Aristotle’s Poetics*, Princeton, NJ: Princeton University Press.
-* Schütrumpf, Eckart, 1989, “Traditional Elements in the Concept of *Hamartia* in Aristotle’s *Poetics*”, *Harvard Studies in Classical Philology*, 92: 137–156. doi:10.2307/311356
-* Scott, Gregory, 1999, “The Poetics of Performance: The Necessity of Performance, Spectacle, Music, and Dance in Aristotelian Tragedy”, in *Performance and Authenticity in the Arts*, Salim Kemal and Ivan Gaskell (eds), New York: Cambridge University Press, 15–48.
-* –––, 2003, “Purging the *Poetics*”, in *Oxford Studies in Ancient Philosophy 25*, Oxford: Oxford University Press, 233–263.
-* Sifakis, Gregory Michael, 2001, *Aristotle on the Function of Tragic Poetry*, Herakleion: Crete University Press.
-* Stinton, T. C. W., 1975, “Hamartia in Aristotle And Greek Tragedy”, *The Classical Quarterly*, 25(2): 221–254. doi:10.1017/S0009838800030068
-* Too, Y. Lee, 1998, “Discriminating Pleasures: Aristotle’s Poetics and the Civic Spectator”, in his *The Idea of Ancient Literary Criticism*, Oxford: Oxford University Press, 82–114.
-* Trivigno, Franco V., 2020, “Was *phthonos* a comedic emotion for Aristotle? On the pleasure and moral psychology of laughter”, in Destrée, Heath, and Munteanu 2020: 66–87.
-* Tsitsiridis, Stavros, 2005, “Mimesis and Understanding: An Interpretation of Aristotle’s Poetics 4.1448b4–19”, *The Classical Quarterly*, 55(2): 435–446. doi:10.1093/cq/bmi041
-* Veloso, Claudio William, 2007, “Aristotle’s *Poetics* without Katharsis, Fear, or Pity”, in *Oxford Studies in Ancient Philosophy 33*, Oxford: Oxford University Press, pp. 254–84.
-* Yates, Velvet, 1998, “A Sexual Model of Catharsis”, *Apeiron*, 31(1): 35–58. doi:10.1515/APEIRON.1998.31.1.35
+* Jones, Elizabeth M., 2012, “Allocating Musical Pleasure: Performance, Pleasure, and Value in Aristotle’s Politics”, in _Aesthetic Value in Classical Antiquity_, Ineke Sluiter and Ralph M. Rosen (eds.), Leiden: Brill, 159–182. doi:10.1163/9789004232822\*008
+* Konstan, David, 2006, “Aristotle on the Tragic Emotions”, in _The Soul of Tragedy: Essays on Athenian Drama_, Victoria Pedrick and Stephen M. Oberhelman (eds), Chicago, IL: University of Chicago Press, 13–25.
+* Lear, Jonathan, 1988 \[1992], “Katharsis”, _Phronesis_ 33(3): 297–326. Reprinted in Rorty 1992: 315–340. doi:10.1163/156852888X00216
+* Lockwood, Thornton C., 2017, “Aristotle on the (Alleged) Inferiority of History to Poetry”, in _Reading Aristotle: Argument and Exposition_, William Wians and Ron Polansky (eds.), Leiden: Brill, 315–333. doi:10.1163/9789004340084\*013
+* Lord, Carnes, 1982, _Education and Culture in the Political Thought of Aristotle_, Ithaca, NY: Cornell University Press.
+* –––, 1974, “Aristotle’s History of Poetry”, _Transactions of the American Philological Association_, 104: 195–229. doi:10.2307/2936090
+* Luserke, Matthias (ed.), 1991, _Die aristotelische Katharsis: Dokumente ihrer Deutung im 19. und 20. Jahrhundert_, Hildesheim: Olms.
+* Mayhew, Robert, 2019, _Aristotle’s Lost Homeric Problems: Textual Studies_, Oxford: Oxford University Press. doi:10.1093/oso/9780198834564.001.0001
+* Munteanu, Dana LaCourse, 2012, _Tragic Pathos: Pity and Fear in Greek Philosophy and Tragedy_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139028257
+* Narbonne, Jean-Marc, 2017, “Likely and Necessary: The Poetics of Aristotle and the Problem of Literary Leeway”, _Proceedings of the Boston Area Colloquium of Ancient Philosophy_, 33: 69–87. doi:10.1163/22134417-00331P08
+* Nehamas, Alexander, 1994, “Pity and Fear in the _Rhetoric_ and the _Poetics_”, in _Aristotle’s Rhetoric: Philosophical Essays_, David J. Furley and Alexander Nehamas (eds), Princeton, NJ: Princeton University Press, 257–282.
+* Nussbaum, Martha C., 1986, “Luck and the Tragic Emotions”, in her _The Fragility of Goodness_, Cambridge: Cambridge University Press, 378–394.
+* –––, 1992, “Tragedy and Self-Sufficiency: Plato and Aristotle on Fear and Pity”, _Oxford Studies in Ancient Philosophy 10_, Oxford: Clarendon Press, 107–159. Reprinted in Rorty 1992, pp. 261–290.
+* O’Sullivan, Neil, 1995, “Aristotle on Dramatic Probability”, _Classical Journal_, 91(6): 47–63.
+* Peponi, Anastasia-Erasmia, 2017, “Aristotle’s Definition of Dance”, in _Choreutika. Performing and Theorizing Dance in Ancient Greece_, Laura Gianvittorio (ed.), Pise/Rome: F. Serra, 215–243.
+* Rapp, Christof, 2006, “Katharsis der Emotionen”, in _Katharsis vor Aristoteles. Zum kulturellen Hintergrund des Tragödiensatzes_, Martin Vöhler and Bernd Seidensticker (eds), Berlin/New York: de Gruyter, 149–172. doi:10.1515/9783110204285.3.149
+* Rees, B. R., 1972, “_Pathos_ in the _Poetics_ of Aristotle”, _Greece and Rome_, 19(1): 1–11. doi:10.1017/S0017383500016636
+* Rorty, Amélie Oksenberg (ed.), 1992, _Essays on Aristotle’s Poetics_, Princeton, NJ: Princeton University Press.
+* Schütrumpf, Eckart, 1989, “Traditional Elements in the Concept of _Hamartia_ in Aristotle’s _Poetics_”, _Harvard Studies in Classical Philology_, 92: 137–156. doi:10.2307/311356
+* Scott, Gregory, 1999, “The Poetics of Performance: The Necessity of Performance, Spectacle, Music, and Dance in Aristotelian Tragedy”, in _Performance and Authenticity in the Arts_, Salim Kemal and Ivan Gaskell (eds), New York: Cambridge University Press, 15–48.
+* –––, 2003, “Purging the _Poetics_”, in _Oxford Studies in Ancient Philosophy 25_, Oxford: Oxford University Press, 233–263.
+* Sifakis, Gregory Michael, 2001, _Aristotle on the Function of Tragic Poetry_, Herakleion: Crete University Press.
+* Stinton, T. C. W., 1975, “Hamartia in Aristotle And Greek Tragedy”, _The Classical Quarterly_, 25(2): 221–254. doi:10.1017/S0009838800030068
+* Too, Y. Lee, 1998, “Discriminating Pleasures: Aristotle’s Poetics and the Civic Spectator”, in his _The Idea of Ancient Literary Criticism_, Oxford: Oxford University Press, 82–114.
+* Trivigno, Franco V., 2020, “Was _phthonos_ a comedic emotion for Aristotle? On the pleasure and moral psychology of laughter”, in Destrée, Heath, and Munteanu 2020: 66–87.
+* Tsitsiridis, Stavros, 2005, “Mimesis and Understanding: An Interpretation of Aristotle’s Poetics 4.1448b4–19”, _The Classical Quarterly_, 55(2): 435–446. doi:10.1093/cq/bmi041
+* Veloso, Claudio William, 2007, “Aristotle’s _Poetics_ without Katharsis, Fear, or Pity”, in _Oxford Studies in Ancient Philosophy 33_, Oxford: Oxford University Press, pp. 254–84.
+* Yates, Velvet, 1998, “A Sexual Model of Catharsis”, _Apeiron_, 31(1): 35–58. doi:10.1515/APEIRON.1998.31.1.35
 
 ## Academic Tools
 
@@ -366,4 +366,4 @@
 The author is very grateful to E. Belfiore, M. Johnson, M.E. Peláez, and C. Shields for their very helpful remarks, critiques, and suggestions.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Pierre Destrée <[*Destree@sofi.ucl.ac.be*](mailto:Destree%40sofi%2eucl%2eac%2ebe)>
+Pierre Destrée <[_Destree@sofi.ucl.ac.be_](mailto:Destree%40sofi%2eucl%2eac%2ebe)>
