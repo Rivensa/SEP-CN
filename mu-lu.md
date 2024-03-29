@@ -339,7 +339,7 @@
 
 * [\*爱德华·凯尔德——见 19 世纪苏格兰哲学 Caird, Edward — see Scottish Philosophy: in the 19th century](c/ai-de-hua-kai-er-de-jian-su-ge-lan-zhe-xue-19-shi-ji-su-ge-lan-zhe-xue-caird-edward-see-scottish-phi.md)
 * [\*卡利克勒斯——见柏拉图：卡利克勒斯和塞拉西马柯 Callicles — see Plato: Callicles and Thrasymachus](c/ka-li-ke-le-si-jian-bai-la-tu-ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-see-plato-callicles-and-th.md)
-* [剑桥柏拉图派 Cambridge Platonists (Sarah Hutton)](c/jian-qiao-bai-la-tu-pai-cambridge-platonists-sarah-hutton.md)
+* [剑桥柏拉图派 Cambridge Platonists (Sarah Hutton)](c/jian-qiao-bai-la-tu-xue-pai-cambridge-platonists-sarah-hutton.md)
 * [托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)](c/tuo-ma-si-kang-pa-nei-la-campanella-tommaso-germana-ernst-and-jeanpaul-de-lucca.md)
 * [\*乔治·坎贝尔——见 18 世纪苏格兰哲学 Campbell, George — see Scottish Philosophy: in the 18th Century](c/qiao-zhi-kan-bei-er-jian-su-ge-lan-zhe-xue-18-shi-ji-su-ge-lan-zhe-xue-campbell-george-see-scottish.md)
 * [癌症 cancer (Anya Plutynski and Lucie Laplane)](c/ai-zheng-cancer-anya-plutynski-and-lucie-laplane.md)
