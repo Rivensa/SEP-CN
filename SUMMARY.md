@@ -521,6 +521,8 @@
   * [意识的统一性 unity of (Andrew Brook and Paul Raymont)](c/yi-shi-consciousness-robert-van-gulick/yi-shi-de-tong-yi-xing-unity-of-andrew-brook-and-paul-raymont.md)
 * [\*同意——见政治义务 consent — see political obligation](c/tong-yi-jian-zheng-zhi-yi-wu-consent-see-political-obligation.md)
 * [中世纪结果理论 consequence, medieval theories of (Catarina Dutilh Novaes)](c/zhong-shi-ji-jie-guo-li-lun-consequence-medieval-theories-of-catarina-dutilh-novaes.md)
+* [结果主义 consequentialism (Walter Sinnott-Armstrong)](c/jie-guo-zhu-yi-consequentialism-walter-sinnottarmstrong/README.md)
+  * [规则后果主义 rule (Brad Hooker)](c/jie-guo-zhu-yi-consequentialism-walter-sinnottarmstrong/gui-ze-hou-guo-zhu-yi-rule-brad-hooker.md)
 * [功利主义 consequentializing (Douglas W. Portmore)](c/gong-li-zhu-yi-consequentializing-douglas-w.-portmore.md)
 * [保育生物学 conservation biology (Jay Odenbaugh)](c/bao-yu-sheng-wu-xue-conservation-biology-jay-odenbaugh.md)
 * [保守主义 conservatism (Andy Hamilton)](c/bao-shou-zhu-yi-conservatism-andy-hamilton.md)
@@ -529,6 +531,7 @@
 * [\*建构主义 constructivism](c/jian-gou-zhu-yi-constructivism/README.md)
   * [元伦理学中的建构主义 in metaethics (Carla Bagnoli)](c/jian-gou-zhu-yi-constructivism/yuan-lun-li-xue-zhong-de-jian-gou-zhu-yi-in-metaethics-carla-bagnoli.md)
   * [政治哲学中的建构主义 in political philosophy (Andrew Williams)](c/jian-gou-zhu-yi-constructivism/zheng-zhi-zhe-xue-zhong-de-jian-gou-zhu-yi-in-political-philosophy-andrew-williams.md)
+* [语境主义认识论 contextualism, epistemic (Patrick Rysiew)](c/yu-jing-zhu-yi-ren-shi-lun-contextualism-epistemic-patrick-rysiew.md) 
 * [大陆理性主义 Continental Rationalism (Shannon Dea, Julie Walsh, and Thomas M. Lennon)](c/da-lu-li-xing-zhu-yi-continental-rationalism-shannon-dea-julie-walsh-and-thomas-m.-lennon.md)
 * [连续性与无穷小 continuity and infinitesimals (John L. Bell)](c/lian-xu-xing-yu-wu-qiong-xiao-continuity-and-infinitesimals-john-l.-bell.md)
 * [\*连续统假设——见集合论：连续统假设 continuum hypothesis — see set theory: continuum hypothesis](c/lian-xu-tong-jia-she-jian-ji-he-lun-lian-xu-tong-jia-she-continuum-hypothesis-see-set-theory-continu.md)
@@ -555,6 +558,7 @@
 * [创造与保全 creation and conservation (David Vander Laan)](c/chuang-zao-yu-bao-quan-creation-and-conservation-david-vander-laan.md)
 * [神创论 creationism (Michael Ruse)](c/shen-chuang-lun-creationism-michael-ruse.md)
 * [创造力 creativity (Elliot Samuel Paul and Dustin Stokes)](c/chuang-zao-li-creativity-elliot-samuel-paul-and-dustin-stokes.md)
+* [哈斯代·本·亚伯拉罕·克雷斯卡斯 Crescas, Hasdai (Shalom Sadik)](c/ha-si-dai-ben-ya-bo-la-han-ke-lei-si-ka-si-crescas-hasdai-shalom-sadik.md)
 * [刑法理论 criminal law, theories of (James Edwards)](c/xing-fa-li-lun-criminal-law-theories-of-james-edwards.md)
 * [种族批判哲学 critical philosophy of race (Linda Alcoff)](c/zhong-zu-pi-pan-zhe-xue-critical-philosophy-of-race-linda-alcoff.md)
 * [\*批判性种族理论——见种族批判哲学 critical race theory — see critical philosophy of race](c/pi-pan-xing-zhong-zu-li-lun-jian-zhong-zu-pi-pan-zhe-xue-critical-race-theory-see-critical-philosoph.md)
@@ -570,7 +574,6 @@
   * [文化与认知科学 and cognitive science (Daniel Kelly and Andreas De Block)](c/wen-hua-culture-patti-tamara-lenard/wen-hua-yu-ren-zhi-ke-xue-and-cognitive-science-daniel-kelly-and-andreas-de-block.md)
 * [柯里悖论 Curry’s paradox (Lionel Shapiro and Jc Beall)](c/ke-li-bei-lun-currys-paradox-lionel-shapiro-and-jc-beall.md)
 * [库萨的尼古拉 Cusanus, Nicolaus \[Nicolas of Cusa\] (Clyde Lee Miller)](c/ku-sa-de-ni-gu-la-cusanus-nicolaus-nicolas-of-cusa-clyde-lee-miller.md)
-* [哈斯代·本·亚伯拉罕·克雷斯卡斯 Crescas, Hasdai (Shalom Sadik)](c/ha-si-dai-ben-ya-bo-la-han-ke-lei-si-ka-si-crescas-hasdai-shalom-sadik.md)
-* [语境主义认识论 contextualism, epistemic (Patrick Rysiew)](c/yu-jing-zhu-yi-ren-shi-lun-contextualism-epistemic-patrick-rysiew.md)
-* [结果主义 consequentialism (Walter Sinnott-Armstrong)](c/jie-guo-zhu-yi-consequentialism-walter-sinnottarmstrong/README.md)
-  * [规则后果主义 rule (Brad Hooker)](c/jie-guo-zhu-yi-consequentialism-walter-sinnottarmstrong/gui-ze-hou-guo-zhu-yi-rule-brad-hooker.md)
+
+
+
