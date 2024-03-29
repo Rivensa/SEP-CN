@@ -343,6 +343,7 @@
 * [剑桥柏拉图学派 Cambridge Platonists (Sarah Hutton)](c/jian-qiao-bai-la-tu-xue-pai-cambridge-platonists-sarah-hutton.md)
 * [托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)](c/tuo-ma-si-kang-pa-nei-la-campanella-tommaso-germana-ernst-and-jeanpaul-de-lucca.md)
 * [\*乔治·坎贝尔——见苏格兰哲学：18 世纪苏格兰哲学 Campbell, George — see Scottish Philosophy: in the 18th Century](c/qiao-zhi-kan-bei-er-jian-su-ge-lan-zhe-xue-18-shi-ji-su-ge-lan-zhe-xue-campbell-george-see-scottish.md)
+* [阿尔贝·加缪 Camus, Albert (Ronald Aronson)](c/a-er-bei-jia-mou-camus-albert-ronald-aronson.md)
 * [癌症 cancer (Anya Plutynski and Lucie Laplane)](c/ai-zheng-cancer-anya-plutynski-and-lucie-laplane.md)
 * [可行能力 capability approach (Ingrid Robeyns and Morten Fibieger Byskov)](c/ke-hang-neng-li-capability-approach-ingrid-robeyns-and-morten-fibieger-byskov.md)
 * [吉罗拉莫·卡尔达诺 Cardano, Girolamo \[Geronimo\] (Guido Giglioni and Jonathan Regier)](c/ji-luo-la-mo-ka-er-da-nuo-cardano-girolamo-geronimo-guido-giglioni-and-jonathan-regier.md)
