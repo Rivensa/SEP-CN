@@ -1,2 +1,487 @@
 # 范畴 categories (Amie Thomasson)
 
+*首次发表于 2004 年 6 月 3 日星期四；实质性修订于 2022 年 11 月 22 日星期二*
+
+一个范畴系统是最高种类或属的完整列表。传统上，沿袭亚里士多德，这些被认为是实体的最高属（在术语的最广泛意义上），因此，在这种现实主义精神下进行的范畴系统理想情况下将提供一切存在的清单，从而回答形而上学最基本的问题：“有什么？”对于我们能否辨别‘现实本身’的基本范畴系统的独特性产生怀疑，导致其他人处理范畴系统的方式不是旨在编目世界本身中的最高种类，而是旨在阐明我们概念系统或语言的范畴。因此，康德通过描绘对任何可能认知对象都是*先验*必要的范畴，从而转向了概念主义方法。由于这些范畴保证适用于任何可能的认知对象，它们保留了一定类型的本体论意义，尽管这种应用仅限于现象，而不是事物本身。在康德之后，通常以一种中立的精神来处理范畴项目，布莱恩·卡尔（1987 年，7 页）称之为“范畴描述主义”，描述了世界根据我们的思想、经验或语言将具有的范畴结构，同时避免对这些范畴是否被占据或本体上基础做出承诺。埃德蒙德·胡塞尔以类似这种方式处理范畴，因为他首先列出了*意义*的范畴，然后可以用来描绘*本体论*范畴（意味着的可能对象的范畴）作为意义范畴的对应物，而不关心关于这些本体论范畴中的各种对象是否真的存在的任何经验事实。
+
+以任何这些方式描绘出的本体论范畴系统在哲学上有许多用途，但那些提供这种范畴系统的人也面临各种困难。他们必须解决的问题包括确定区分范畴的适当方法是什么，有多少种类别以及它们是什么，是否存在一个单一的*总种类*包含所有其他种类，以及我们是否应该区分单一的范畴系统还是多维度的范畴 - 这些问题上几乎没有达成一致。
+
+在过去的一百年里，对于提供一个独特真实和完整的本体范畴体系的可能性的怀疑，导致了对范畴的讨论从试图提供完整的范畴体系转向了仅仅试图划分特定区别，尤其是在我们的概念或语言范畴之间。与范畴体系不同，对范畴差异的研究通常并不旨在回答关于事物或事物种类存在的深层形而上问题；相反，范畴差异通常被阐明为诊断和避免各种哲学问题和困惑的一种方式。然而，即使是那些仅仅主张范畴差异的人也需要说明两个概念、术语或对象属于不同范畴的条件。
+
+* [1. 范畴体系](https://plato.stanford.edu/entries/categories/#CatSys)
+* [1.1 亚里士多德现实主义](https://plato.stanford.edu/entries/categories/#AriRea)
+* [1.2 康德概念主义](https://plato.stanford.edu/entries/categories/#KanCon)
+* [1.3 赫塞尔的描述主义](https://plato.stanford.edu/entries/categories/#HusDes)
+* [1.4 当代范畴系统](https://plato.stanford.edu/entries/categories/#ConCatSys)
+* [1.5 对范畴系统的怀疑](https://plato.stanford.edu/entries/categories/#SkeAboCatSys)
+* [1.6 其他学科中的范畴](https://plato.stanford.edu/entries/categories/#CatOthDis)
+* [2. 类别差异](https://plato.stanford.edu/entries/categories/#CatDif)
+* [2.1 类别区分的用途](https://plato.stanford.edu/entries/categories/#UseCatDis)
+* [2.2 区分范畴的赖尔/胡塞尔方法](https://plato.stanford.edu/entries/categories/#RylMetDisCat)
+* [2.3 区分范畴的弗雷格方法](https://plato.stanford.edu/entries/categories/#DumMetDisCat)
+* [参考文献](https://plato.stanford.edu/entries/categories/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/categories/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/categories/#Oth)
+* [相关条目](https://plato.stanford.edu/entries/categories/#Rel)
+
+---
+
+## 1. 类别系统
+
+### 1.1 亚里士多德的现实主义
+
+哲学对范畴的兴趣可以追溯到亚里士多德，在他的著作《范畴学》中，试图列举世界上实体可分为的最一般种类。他并不从单一的最高种类开始，而是将以下列为“没有任何组合的说法”的十个最高类别：
+
+* 实体（例如，人，马）
+* Quantity（例如，四英尺，五英尺）
+* Quality（例如，白色，语法上的）
+* 关系（例如，双倍，一半）
+* 地点（例如，在理学院，在市场）
+* 日期（例如，昨天，去年）
+* 姿势（例如，躺着，坐着）
+* State（例如，穿着鞋子，穿着盔甲）
+* Action（例如，切割，燃烧）
+* Passion（例如，被切割，被烧伤）
+
+存在两种物质：主要物质是，例如，一个*个体*人或马；这些个体的种类（和属）（例如，*人*，*动物*）是次要物质。虽然十个范畴都是同样最高级别的种类，但主要物质仍然具有一定的优先级，因为“所有其他事物要么是关于主要物质作为主语说的，要么是在它们作为主语中说的。因此，如果主要物质不存在，任何其他事物都不可能存在”（*范畴学* 2b4）。
+
+在其他地方，恩斯特·卡西尔在《形而上学》(998b22)中明确提出，不可能存在一个最高的类别（例如，存在或统一）被不同类别的实体共享（参见 Ackrill 1963, 81）。因为一个物种是根据其包容的类和差异来定义的（例如，人可以被定义为一个理性的动物），而类（动物）可以被预言为物种（人），但不能被预言为差异（理性）。因此，如果存在（或统一）是一个类，就不能说任何差异具有存在（或为一）；但是“任何类别的差异都必须具有存在和为一”（《形而上学》998b22-3）。
+
+古希腊术语“kategoria”描述了在法庭上可以针对某人说的内容，事实上，亚里士多德使用可以说的内容或主题内的内容作为区分类别的途径。然而，关于他是如何确定他的类别的问题在文献中存在争议（Studtmann 2007）。在一个著名的解释中，由 J.L.阿克里尔提出，亚里士多德通过区分“关于某事可能被问到的不同问题”并注意到“只有对任何特定问题可以适当给出有限范围的答案”（Ackrill 1963, 78-9）来确定他的类别列表，例如，“它是什么”这个问题只能问到物质，只有描述物质的答案是合适的。相比之下，“多少”这个问题需要一个数量作为答案，依此类推。
+
+但是尽管按照这种解释，亚里士多德似乎是通过考虑不同类型的问题和答案来得出他的范畴，他提供的范畴应该是实体的范畴，而不是语言的范畴；语言只是关于*世界*真理的线索。正如 J. L. Ackrill 所写，亚里士多德的《范畴论》“主要不是或明确地关于名称，而是关于名称所指的事物...亚里士多德在很大程度上依赖语言事实和测试，但他的目的是发现关于非语言项目的真理”（1963 年，71 页）。
+
+也有其他关于亚里士多德的范畴是如何得出的解释。有人认为亚里士多德的列表是通过反思语法范畴得出的，并假定语言结构与世界结构之间存在类似性（Baumer 1993）。但也有人提出了其他解释，认为亚里士多德得出他的范畴并非通过考虑语言事项，如语法结构或我们可能提出的问题。相反，他们认为这些范畴源于更世俗的考虑，比如任何明智的个别事物必须与哪些类型的实体相关联（Moravcsik 1967）。有关解释选择的概述，请参阅 Studtmann（2007）。
+
+无论如何，无论这些范畴是如何衍生出来的，亚里士多德对于范畴的处理方式通常被认为是符合布赖恩·卡尔所称的“范畴现实主义”的精神 - 一种将范畴系统构想为存在的最高类属列表的方法（不仅仅是语言或思想 - 即使这些可能被用来推导形而上学范畴）。正如斯图德曼（2007）所说，亚里士多德“假定而不是为世界的形而上结构辩护一种现实主义的姿态”。在这种方法论下，一个完整的范畴系统将提供对存在的系统性清单，考虑到最抽象的层面（尽管不清楚亚里士多德是否打算让他的范畴是穷尽的）。因此，在范畴现实主义方法中，提供一个范畴系统可以被看作是形而上学的一个中心任务，甚至是*中心任务*（参见格罗斯曼 1983 年，3）。这样一个范畴系统也可能在回答自然界的个别问题中发挥中心作用，为“这是什么？”这种问题提供最一般的回答，并通过指定这类事物所属的最一般类别（属）以及区别它们与同一类别其他事物的特殊性，为更狭窄类型的事物的定义提供基础。这已经成为范畴的典范方法，并且一些最近的作者以亚里士多德式现实主义的精神提出了新的范畴理论（见下文§1.4）。
+
+### 1.2 康德式概念主义
+
+然而，其他人却对这种强有力的现实主义类别方法望而却步，通常是因为怀疑我们能否辨别“现实本身”中的内在分歧，而将类别项目视为阐明统辖我们概念体系的最高类别的问题。这种对卡西尔(1987, 6)所称的“范畴概念主义”的方法转变是由伊曼纽尔·康德闻名的。康德著名地否认我们能够接触到隐藏在表象或现象背后的事物“本身”的内在分歧（如果有的话），但他认为我们*能够*发现统辖人类理解的基本范畴，这是任何现象的可能认知的基础。因此，正如 H·J·帕顿所说，对于康德来说，“我们只有通过范畴才能具有*a priori*知识，前提是这些范畴是由心灵的本质所决定的，并且是心灵对其所知对象施加的”（1936, 258）。
+
+在他的《纯粹理性批判》中，康德首先通过列举可能的*判断*形式(A70/B95–A93/B109)来得出他的范畴列表。根据这一观点，客观经验判断（即声称参照对象而不仅仅是主观的表象或感觉印象的经验判断，并声称对所有判断主体都具有普遍有效性）之所以具有客观性和普遍性，是因为相关判断形式中体现了的先验概念。如果我们能够确定所有可能的客观经验判断形式，那么我们就可以希望将它们作为发现用于做出这类判断的所有最一般概念或范畴的基础，从而用于认知对象（科纳 1955, 48–49）。
+
+因此，在区分他的范畴时，康德从亚里士多德的逻辑出发，概述了可以对任何判断进行分类的四个方面：根据其数量、质量、关系或方式。在每个这些方面或判断的“时刻”中，有三种备选分类；因此，例如，在数量方面，判断可以是普遍的、特殊的或单个的；在其关系方面，判断可以是范畴的、假设的或分离的，依此类推。这些亚里士多德对判断进行分类的方式是识别理解的十二个相关概念的线索。因此，例如，通过注意到所有判断要么是普遍的（例如，所有天鹅都是白色），要么是特殊的（例如，一些天鹅是白色），要么是单个的（例如，西格蒙德是白色），我们可以得出数量的三个相应范畴：单一、多数和整体。通过这种途径，康德最终区分了十二个纯粹的理解概念（A80/B106），分为三个类别的四个类别：
+
+* 数量
+
+* Unity
+
+* Plurality
+
+* Totality
+
+* Quality
+
+ *现实*
+
+ *否定*
+
+* 限制
+
+* 关系
+
+* Inherence and Subsistence (substance and accident)
+
+* Causality and Dependence (cause and effect)
+
+* Community (reciprocity)
+
+* Modality
+
+* 可能性
+
+* 存在
+
+* 必要性
+
+这些范畴被呈现为一个单一的详尽列表，其中四类范畴对已知对象施加四种不同形式的统一（Paton 1936, 295–9）。因此，人们可以分别探讨一个对象的数量、质量、关系和方式，每种情况下都会得到三个子答案之一，以更完整地描述对象。
+
+虽然这些是理解的范畴，但它们仍然保留着某种本体论的意义，因为它是*先验的*，它们普遍适用于可能认知的所有对象(A79/B105)。通过勾画那些对对象的认知是*先验*必要的概念，我们可以获得对统辖任何可能认知的对象的范畴的知识，从而获得一种描述性的本体论范畴集，尽管这些必须明确理解为对象的可能认知的范畴，而不是事物本身的范畴。因此，康德能够将他的概念系统视为一种类似于亚里士多德意义上的范畴系统，“因为我们的首要目的与他的[亚里士多德]相同，尽管在执行方式上有很大不同”(A80/B105)。然而，显然对于康德来说，这些范畴的原始来源在于人类理解的原则，而不是在于心灵独立于思维的现实中的内在分歧，并且可以通过关注人类判断的可能形式来发现，而不是通过研究世界本身，也不是通过研究我们的偶然言说方式。
+
+像康德这样的方法最近被 P.F.斯特劳森和其他跟随他的人所捍卫，他们从事“描述性形而上学”的项目，这个项目关注描述“我们概念结构的最一般特征”(1959 [1963], xiii)，因此提供比我们可能期望从语言分析中得到的更一般和持久的结果。
+
+### 1.3 赫塞尔的描述主义
+
+恩斯特·卡西尔（Ernst Cassirer）在研究范畴时引入了两种创新。首先，亚里士多德用语言作为本体范畴的线索，康德将概念视为可能认知对象的范畴的途径，而赫塞尔明确区分了*意义*的范畴和*对象*的范畴，并试图揭示每种类型范畴之间的类似规律性关系（Smith 2007, 139 页及以下）。其次，亚里士多德和康德各自阐述了一个范畴系统，而赫塞尔区分了两种获得最高层本体分类的方式：通过*形式化*和*概括*，从而产生了两个独立、正交的范畴系统，处于两个不同的维度（参见 Smith 2004 年第 8 章）。
+
+Husserl 非常谨慎地区分*意义*的类别（通过这些类别，我们可以思考关于对象的最高种类或“本质”）与所指的类别 - 后者是对象的类别，或本体论类别，被认为是实体可能具有的最高本质：“通过‘类别’，我们一方面可以理解为意义的概念，但另一方面也可以更好地理解这些意义中表达的形式本质本身”（1913 [1962]，61-2）。然而，尽管这两种类别必须加以区分，根据 Husserl，这两种类别的类别本质上是相关的（见下文），因此我们可以通过一种类别了解另一种类别。
+
+无论我们是在研究意义类别还是对象类别，Husserl 非常清楚地指出，对于他来说，类别的研究是完全*先验*的问题；意义和对象的类别“仅仅是与我们不同的思维功能相关：它们的具体基础仅仅可以在可能的思维行为中找到，或者在这些行为中可以被抓住的相关物”（1913 [2000]，237）。正如他后来在《思想》中所说，对类别的研究是对本质的研究，基于对意义类型和相关事物类型的*本质洞察*。这种本质研究可以通过对案例的想象变化进行，独立于任何事实，包括是否实际上存在任何被区分的本体论种类（1913 [1962]，51）。因此，Husserl 的本体论类别，在这个意义上，是对可能事物的最高本质的*描述性*类别（可能属于这些本质），并且并不打算提供事物*实际*存在的清单（作为经验事实）。
+
+Husserl 在《逻辑研究》中对意义类别进行了广泛讨论，认为意义类别的差异（似乎更像是句法而不是语义类别）可以通过注意用一个术语替换另一个术语时产生的无意义来加以区分。例如，在句子“这棵树是绿色的”中，我们可以用“椅子”替换“树”（但不能用“粗心”替换），而不会使意义变成无意义，标志着*nominative material*和*adjectival material*的意义类别之间的区别（1913 [2000]，511-512）。Husserl 对“无意义”的理解相当严格：他仅将那些在句法上不正确的词组（因此它们形成了一个简单的“词堆”，无法组合成任何统一的意义（Husserl 1913 [2000]，522））视为严格的无意义，因此作为意义类别差异的标志。 （Husserl 反复区分了像“一个圆或”这样的动词形式的无意义（其中没有统一的意义出现）与仅仅是“一个圆形的正方形”之类的荒谬情况，其中表达具有统一的意义，尽管是*先验*的，没有任何对象可以对应该表达（1913 [2000]，516-17））。
+
+与意义类别相关的是*本体论*类别；例如，对象、事实状态、单位、多样性、数量和关系是（形式）类别，对对象进行分类，而不是对意义进行分类（Husserl 1913 [2000]，237）。根据 Husserl 的说法，这两种类别是通过“理想法则”相连的。因此，例如，据推测，对象是名词表达的意义类别的本体论对应物，属性是形容词表达的本体论对应物，事实状态是命题的本体论对应物。因此，虽然 Husserl 并没有（据我所知）明确阐明一种辨别*本体论*类别的方法，但也许我们可以通过从上述无意义测试开始区分意义类别，然后将注意力转向相关的本体论类别，因为“关于意义的纯粹真理可以转化为关于对象的纯粹真理”（1913 [1962]，61）。
+
+除了明确区分意义类别与可能被“指称”的相关对象类别之外，胡塞尔还通过区分最高*形式*本质（胡塞尔称之为“范畴”）与最高*实质*本质（他称之为“区域”）向范畴研究引入了第二个创新（1913 [1962]，§10；参见 Smith 1995，329-330 和 Smith 2007，142-148）。到目前为止，我一直在描述*形式*本体论范畴，这些范畴是通过无意义测试可区分的不同意义类别的相关物。事实上，胡塞尔将术语“范畴”保留给最高形式种属，这些种属是通过一种*形式化*过程——即内容的去除来区分的。这些“范畴本质”从树顶部的“一般对象”开始，然后在下一层分为包括（例如）对象、事实、属性、关系、数等类别（比较列表 1913 [2000]，237 和 1913 [1962]，61）。正如亚里士多德区分（独立的）主要物质与（依赖的）其他种类的事物一样，在他的形式范畴中，胡塞尔将个体的“基质”范畴（或更确切地说，仅仅是*这里*）与依赖的“句法客体性”区分开来——这些是从我们谈论主要物质的方式中派生出来的名词术语的相关物（1913 [1962]，62-3 和 67）（例如，名词术语“亮度关系”可能源自“A 比 B 更亮”的说法（1913 [2000]，797-8））。
+
+相比之下，胡塞尔的实质范畴根据实体的本质或本质进行分类，最高实质种属是通过*概括*到涉及的最一般内容种类，而不是通过涉及所有内容的*形式化*过程来得到的（1913 [1962]，65）。最高实质范畴包括三个区域：自然（包括物理对象和事件）、文化（包括人造物、社会实体和价值观）和意识（参见 Smith 2004）。虽然形式和实质范畴系统各自形成一个等级制度（1913 [1962]，64），但考虑到它们的范畴是不相互排斥的，因为同一实体可以根据其实质本质或形式进行分类。有关胡塞尔范畴的进一步讨论，请参见 Smith（2007，135-161）。
+
+Husserl 在明确区分物质本体论范畴的适当方法方面并没有提供明确说明，但他确实区分了物质荒谬与形式荒谬，并且区分了标志着意义范畴差异的形式无意义的概念（1913 [2000]，523）。如果根据纯粹的形式逻辑规律，不考虑使用哪些特定的物质概念，表达式就是*形式上*荒谬的，例如，“一个又圆又不圆的东西”在形式上是荒谬的；无论我们用什么形容词替换‘圆’或者用什么名词替换‘东西’，它的荒谬性都将保持不变。另一方面，如果不存在任何对应对象的可能性是基于所使用的特定物质概念，那么表达式就是物质上荒谬的，例如，‘一个圆的正方形’是一个基于‘圆’和‘正方形’的特定含义而产生的物质上荒谬的表达。因此，我们可能尝试通过替换不同*物质*种类的对象的表达式而区分物质本体论范畴；例如，‘一个圆桌’是有意义的，但如果我们用一个几何图形的术语如‘正方形’或者一周中的某一天如‘星期四’替换‘桌子’，我们就得到了一个物质上荒谬的陈述（对此没有任何对应物是*a priori*的）。正如我们将在下文 2.2 节中看到的那样，吉尔伯特·赖尔以某种方式发展了胡塞尔的无意义测试，用于区分类别差异。
+
+Roman Ingarden（1960 [1964]，22ff）将 Husserl 的多维本体论推进了一步。与 Husserl 一样，他区分了形式范畴和物质范畴，但他还在第三维度上区分了范畴：存在范畴（描述实体存在方式的范畴）。Ingarden 列出的最高存在范畴包括真实（时空存在）、理想（抽象）、绝对（完全独立，非时态）和纯粹意向（意识依赖）。虽然任何可想象的实体应该在每个维度的一个范畴中独特定位，但这三种本体论是相互正交的，提供了考虑所讨论实体的不同最抽象方式。因此，例如，一个雕塑可以在形式上被归类为一个物体，在物质上被归类为一件艺术品，在存在上被归类为纯粹意向。
+
+### 1.4 最近的范畴系统
+
+在二十世纪，本体论范畴系统在某种程度上已经过时（我将在下文§1.5 中讨论原因），大多数关于范畴的讨论转向仅仅阐明范畴的*差异*，而不是旨在概述一个全面的范畴系统。
+
+一个重要的例外是塞缪尔·亚历山大（Samuel Alexander）的作品《空间、时间和神》（*Space, Time and Deity*），他在 1920 年的作品中以现实主义精神发展了一种范畴理论。亚历山大捍卫一种唯一论的本体论，他将时空（Space-Time）设定为“涵盖现实中每个实体和每个特征的唯一的单一实体”（Fisher 2015, 246）。他认为这些范畴是基于时空的内在本质，只将“普遍”的特征作为范畴特征，即每个实体都具有的特征。他确定的范畴分为三个“等级”（或者说递增复杂度的等级，后一个等级预设前一个等级），给出了以下系统：
+
+* 等级 1
+
+* 存在
+
+* 普遍性
+
+* Relation
+
+* Order
+
+* 二年级
+
+* 实质
+
+* 因果关系
+
+* 数量
+
+* 数字
+
+* 三年级
+
+* 运动
+
+最近几年，也出现了一些显著的尝试，以现实主义或描述主义精神提供新的范畴系统，尽管人们对这些范畴是什么，以及如何在竞争的系统中做出决定存在着很少的一致意见。
+
+Ingvar Johansson（1989 年）和 Roderick Chisholm（1996 年）都采取新亚里士多德现实主义的方法来处理范畴，试图建立一个完整的范畴系统，这被理解为提供世界上真实实体的范畴列表。Ingvar Johansson 明确坚持他对世界的兴趣：“这本书是关于世界的。我关心的是本体论，而不仅仅是语言”（1989 年，1），并试图提供“一个被视为存在的真实实体方面的范畴的现实主义理论”（1989 年，2）。他的列表（1989 年，20）包括九个主要范畴（其中一些进一步细分）：
+
+* 时空
+
+* 事态
+
+* 质量
+
+* Substance
+
+* Property
+
+* External Relation
+
+* Grounded Relation
+
+* 惯性
+
+* 自发性
+
+* 趋势
+
+* 意向性
+
+* 真实
+
+* 表示性
+
+* 代表性
+
+* 虚构的
+
+与亚里士多德不同，约翰松在辨别本体论范畴时没有明确地使用语言，而是诉诸于逐步抽象的方法（Johansson 1989, 1–2）。因此，例如，我们通过从特定的深红色调上升到红色，颜色，最终到品质，来得出“品质”这一范畴。类似地（以塞拉斯的例子为例），一个人可能会尝试通过考虑一个个体实体，比如说，菲多，然后通过“菲多是一只达克斯猎犬”逐步抽象到“菲多是一只狗”和“菲多是一只动物”，最终得出“菲多是一个实体”（1970 [1974], 321）。与亚里士多德的范畴类似，约翰松的范畴在一系列区分中达到顶峰，没有一个最高的单一范畴包含它们所有。
+
+像亚里士多德和约翰松一样，罗德里克·奇索姆将他关于范畴的工作描述为“关于现实的最终范畴”（1996, 3）。然而，与他们不同，奇索姆（1996, 3）以波菲里的树的形式列出范畴，从一个包括一切的最一般的单一范畴开始，但在较低级别的分支处分为逐渐变窄的属。 （关于这样的普遍术语如“实体”或“事物”是否可以被视为命名一个最高范畴的有趣讨论，请参阅汤普森 1957 年，参见下文§2.3）。奇索姆的范畴系统如下：
+
+* Entia
+
+* Contingent
+
+* States
+
+* Events
+
+* 个体
+
+* 边界
+
+* Substances
+
+* 必要
+
+* States
+
+* Nonstates
+
+* 属性
+
+* 实体
+
+其他当代作者以纯粹描述的精神探讨了范畴的问题。例如，Reinhardt Grossmann 区分了八个最高的范畴（1983，xvi）：
+
+* 个体
+
+* 属性
+
+* 关系
+
+* Classes
+
+* Structures
+
+* 量词
+
+* 事实
+
+* 否定
+
+但尽管格罗斯曼将他的书描述为一次“使亚里士多德的《范畴论》保持最新状态”的尝试（1983 年，xv），他明确否认自己对于他所区分的八个范畴中是否存在任何事物是否有任何主张，认为这超出了本体论的范围（1983 年，10-12）。
+
+Joshua Hoffman 和 Gary Rosenkrantz（1994）提出了一个树形系统的范畴，*实体*是*summum genus*，细分为*抽象*和*具体*（而不是 Chisholm 的*偶然*和*必然*），每个又进一步细分为：%%* 实体
+
+* 摘要
+
+* 财产
+
+* 关系
+
+* 主张
+
+ *具体的*
+
+ *事件*
+
+ *时间*
+
+ *地点*
+
+* Substance
+
+* Material Object
+
+* Spirit
+
+* Limit
+
+* 收集
+
+* 剥夺
+
+* Trope
+
+他们也明确以范畴描述的精神提供他们的范畴系统，作为对存在可能的各种范畴进行分析，而不是对这些范畴中哪些是非空的做出任何断言（1994 年，7-8 页）。
+
+E. J. Lowe 认为范畴是“存在和共存的事物种类”（2006 年，5 页）。他认为，这些范畴应根据其成员的存在和/或身份条件来个体化；基本范畴是那些关于其成员的存在和身份条件不能完全用它们与其他范畴实体之间的本体依赖关系来规定的范畴（2006 年，8 页）。因此，他认为存在四个基本的本体范畴：对象（如 Fido 这样的个体物质）、模式（如 Fido 的四条腿这样的属性或关系实例）、种类（如 *dog* 这样的实质普遍性）、以及属性（如 *being four-legged* 这样的属性或关系普遍性）。但尽管他认为确切存在四个 *基本* 范畴，Lowe 仍然采取了一种分层安排范畴的方法。这四个基本范畴出现在他的分层图表的第三级；出现在更高级别的范畴（第二级的个体和普遍性；顶层的实体）是“纯粹的抽象，本身并不在本体上做出严肃的本体论工作”（2006 年，39 页）。他更完整的范畴图表如下：
+
+* Entities
+
+* Particulars
+
+* Objects
+
+* Substances
+
+* 非物质
+
+* 模式（单子和关系）
+
+* Universals
+
+* Kinds
+
+* 属性（属性和关系）
+
+其他人以明确的现实主义精神开发范畴，并受到提供简约本体论的目标驱使，旨在提供更简约的基本本体论范畴系统。例如，劳瑞·保罗（2016）最近捍卫了一种“一范畴”本体论，仅接受（在基本层面上）存在内在特征或品质。针对那些接受更多范畴的人，她认为我们没有必要（例如）在个体和它们的属性之间进行基本划分，并且一种“一范畴”本体论既更为简约，又更有权利在其“本体接合点”上划分世界。
+
+### 1.5 对范畴系统的怀疑
+
+传统上，无论是现实主义者还是描述主义者的范畴系统，似乎都假定存在一个关于实体类别的问题有一个唯一正确答案 - 实际上，发现这个答案是大多数对本体类别进行的调查的目标。例如，Grossman 认为，类别列表必须是完整的，包含一切，每样东西都在*适当*的位置上（1983 年，4 页）。Johansson 同样将他的项目视为“发展一个一致的系统，包含*所有*世界所需的最抽象类别，以给出对世界的真实描述”（1989 年，1 页）。关于提供的许多类别系统中哪一个是正确的争论似乎也假定存在一个唯一正确的类别列表。
+
+但实际的范畴系统提供的内容差异如此之大，以至于即使对过去的类别系统进行简短调查，也会动摇人们对于可能找到如此独特、真实和完整的类别系统的信念。鉴于对于本体论范畴是什么这个问题有如此多样的答案，我们又以什么标准来选择其中哪一个是唯一正确的呢？
+
+一些最低限度的充分性标准立即显而易见（Butchvarov 1995, 75）。无论是采取现实主义还是描述主义方法来提供一个类别系统，如果该系统被认为是全面的，那么它显然必须至少符合详尽的标准 - 为一切存在的事物（在现实主义方法中）或可能存在的事物（在描述性方法中）提供一个类别。尽管如此，人们可以像 Hoffman 和 Rosenkrantz（1994, 140）那样，提出一套*一些*基本类别的系统，而不将其视为详尽无遗。
+
+另一个充分性的最低标准通常被认为是最高类别（或者对于树系统来说，分支每个级别的类别）是相互排斥的，确保任何事物（或可能的事物）都恰好属于一个最高类别，或者每个级别的一个类别（Chisholm 1989, 162）。 （这仍然允许嵌套类别，因此某物可能既属于更具体的类别如物质，也属于更一般的类别如个体。）
+
+但这些标准并不足以提供所需的保证。首先，我们缺乏保证大多数提出的类别系统甚至符合这些最低条件。正如上文所述，亚里士多德主要通过考虑可以提出的问题类型（以及适合它们的回答类型）来推导出他的类别。然而，很难知道所有种类的问题都已经被调查，因此很难知道是否已经提供了一个详尽的类别列表 - 亚里士多德并没有试图证明这一点（Ackrill 1963, 80–81）。事实上，亚里士多德在不同地方提供不同的类别列表表明他并未认为自己的列表是最终和详尽的。同样，康德的类别系统只有在他从中推导出它们的判断形式列表穷尽了可能的判断形式时才被认为是详尽的 - 但我们有理由认为情况并非如此（Körner 1955, 50）。正如我们所见，约翰逊（Johansson）反而使用了逐步抽象的方法。但是，按照这种方法进行，如何确保因此区分出的类别是详尽的并不清楚（如果我们还不知道最高种类是什么，我们怎么知道我们已经考虑了每一种最高种类的事物？），甚至是相互排斥的。
+
+其次，即使我们可以验证互斥性和穷尽性标准得到满足，这些条件本身也远远不足以唯一确定一个范畴系统。只要接受排中律，就可以随意生成无穷无尽的互斥性和穷尽性分类：我们可以将事物划分为时空定位和非时空定位，有意识和无意识，延伸和非延伸等等，这只是事物可能被划分的更相关方式中的一部分。事实上，对于范畴的困惑之一源于哲学家选择了许多不同的划分方式作为*基本*的范畴差异 - 对于笛卡尔来说，是延伸和思维（非延伸），对于奇索姆来说是偶然和必然，对于霍夫曼和罗森克兰茨来说是具体和抽象，等等。因此，对于存在一个*唯一*的范畴集合的怀疑另一个原因在于，范畴被认为是事物（可能）归属的最抽象的种属。但从任何给定实体，抽象显然可以以多种方式进行 - 即使我们小心地以确保互斥性和穷尽性的方式进行。
+
+对于发现唯一真实的范畴系统的可能性的怀疑导致许多人完全避开范畴系统的讨论，而另一些人则采取某种关于范畴系统的相对主义，不再认真地将范畴系统作为事物可能归属的最高种属的*唯一*集合候选名单。例如，詹·韦斯特霍夫（2005）认为，本体论范畴没有唯一的绝对集合。在他看来，本体论中的范畴类似于数学理论中的公理；在每种情况下，都可以有多种方式从相对简单的基础上系统化我们的知识。结果是关于范畴系统的一种相对性：“我们选择哪种本体论范畴集合主要是一种便利性问题，就像命题逻辑或牛顿力学的特定公理化比其他公理化更方便使用一样”（2005，218）。因此，韦斯特霍夫认为，我们必须重新评估本体论中的本体论范畴的重要性 - 这些不应被视为“世界最基本的部分，而是...我们对世界的系统化的最基本部分”（2005，135）。
+
+其他人将哲学家明确提供或预设的各种范畴系统仅视为对其思想特定假设或其时代偏见的证据 - 而不是关于世界及其划分的任何证据。例如，斯蒂芬·科纳（Stephan Körner）对范畴框架的讨论旨在明确一个思想家的框架如何对对象进行分类，利用某些个体化原则，并阐明他坚持该框架的理由（1970 年，10 页）。类似地，R·G·柯林伍德（R. G. Collingwood）将形而上学的任务一般视为仅仅揭示“潜在于普通科学之下的假设”（1940 年[1998]）。
+
+关于（1）保证范畴的相互排他性和共同穷尽性以及（2）任何单一范畴系统是否可以声称是唯一正确的特定担忧，可以通过某些方式来制定本体论范畴来解决。第一种担忧可以通过确保以保证相互排他性和穷尽性定义同一级别的范畴的方式来解决。因此，例如，汤马森（Thomasson）（1999 年，第 8 章）区分范畴，根据所谓实体在心理状态上具有或缺乏的依赖关系来区分（第二维度则根据所谓实体在时空定位对象上具有或缺乏的依赖关系来区分），因此排中律确保了所区分范畴的相互排他性和穷尽性。（达梅特的区分范畴方法提供了另一种保证相互排他性的途径 - 请参见下文第 2.3 节）。
+
+多维系统（Husserl 1913 [1962]，§10；Ingarden 1960 [1964]，第 2 章；Thomasson 1999，第 8 章；Smith 2007，第 8 章）在一定程度上解决了第二个担忧，承认分类的不同维度是可能的，并且没有一个一维列表可以声称完整。原则上，多维论者甚至可能接受没有固定数量或限制有多少个一维类别列表，尽管每个这样的列表可能声称提供了在所选方面考虑的实体的独特、正确、详尽的分类。
+
+无论如何，鉴于类别系统的巨大潜在用途（其中许多并不依赖于该类别系统是唯一“正确”的主张），我们不应过早放弃发展和评估分类系统的努力。即使我们不认为类别系统提供了存在的真实清单或对现实的基本内在“划分”的描述，以描述主义精神制定的类别系统提供了一个框架，可以在其中以系统和全面的方式回答存在问题，通过列举类别，我们可以进一步调查是否真的存在每种类型的事物。从类别框架中工作可以帮助确保我们提供的任何本体论都是有原则的和统一的，避免 *临时* 和零碎的决定。描述主义者的类别还提供了一个工具，可以在本体论的其他地方使用，例如，帮助确保可以合法地进行简约性比较（通过检查各种理论接受哪些实体类别，拒绝哪些实体类别），并检查潜在解决形而上学问题的方案是否被忽视，因为使用的类别系统不是详尽的（Thomasson 1999，第 8 章和第 9 章）。类别系统的另一个重要用途是，有了一套提出的类别，我们可以像 Daniel Nolan（2011）建议的那样，继续研究放置在不同类别中的实体之间关系的问题：例如，关于事件是否依赖于或基于事物的问题，或者（如 Nolan 所建议的）事物和事件最终是否可以被确定为属于单一类别。对分类的假设在哲学讨论中起着如此重要的作用（例如，关于心灵的笛卡尔理论，数学的柏拉图主义理论等的讨论），因此，进行有关类别的工作，以使这些类别假设明确化并开放它们供检查，无论对于发现唯一正确的类别系统的前景存疑，这仍然是一种非常有用的练习。
+
+### 1.6 其他学科中的范畴
+
+对于那些以描述精神接近范畴的人来说，确定我们语言或思维的范畴，自然而然地会求助于语言学或认知科学。
+
+一种确定自然语言中隐含的本体范畴的突出方法是通过自然语言本体论，这为进行一种描述性范畴方法提供了一种途径。然而，正如弗里德里克·莫尔特曼（2017）所指出的，进行自然语言本体论的方法论与试图通过简单询问人们明确接受或在反思中可能接受的本体论主张或范畴来确定常识本体论的方法是有重要区别的。例如，自然语言本体论并不是通过查看说话者明确表述的（或可能同意的）关于范畴的主张来确定自然语言的本体范畴，比如“对象不是事件”。相反，自然语言的范畴区分是通过揭示普通说话者使用的句子的*预设*来揭示的。例如，可以接受地说“这座建筑去年存在”但不能说“这座建筑去年发生”，以及“约翰的到来上周发生”但不能说“约翰的到来上周存在”，据称，这暗示了物质对象和事件之间的范畴差异，因为这些谓词的适用条件显然预设它们适用于不同范畴的实体（莫尔特曼 2017 年，第 3.1 节）。由于自然语言本体论“关注说话者在使用语言时接受的本体范畴和结构，而不是关注说话者在进行某种形式的哲学反思时接受的本体范畴”，其结果可能与许多哲学家反思接受的本体范畴大不相同，甚至与通常归因于自然语言的本体茴。我们有理由从事自然语言本体论，莫尔特曼认为，因为它可能为我们提供“对我们如何内在地构想事物的最佳指示”（2017 年，第 7 节）。一个仍然存在的问题是是否会在所有自然语言中找到统一的本体论，也许是由我们的认知结构确定的。
+
+一个人当然可以求助于认知科学，试图回答一个问题，即我们的认知结构是否确定了一个固定的范畴系统。而事实上，在认知科学中，对范畴的讨论也起着重要作用，其目标不是发现存在的基本范畴，而是体验者如何对其世界进行分类的手段。在这里，争论集中在人类实际上如何将事物分组为范畴 —— 是否涉及定义性特征的列表（可观察或隐藏的）、与原型的相似性、以概率加权的显著特征等。争论还涉及概念和语言范畴之间的关系，哪些层次的范畴更基本，是否存在一组最基本的范畴，跨文化群体的分类是否一致，以及一些基本范畴是否是先天的。心理学家苏珊·凯瑞（2011）进行了许多关于婴儿和灵长类动物的研究，她认为这些研究表明，有一些‘核心认知’概念是先天的，旨在代表世界中某些实体类别，并且在无语言的人类婴儿、成人和其他灵长类动物之间共享。这些概念包括对象的概念（被视为利用界限性和时空连续性进行个体化的分类概念）、数量、故意代理和因果关系。有关认知科学中关于分类的争论的进一步讨论，请参阅拉科夫（1987）和拉基森与奥克斯（2003）。
+
+最近，本体范畴的研究引起了哲学家们的兴趣，也引起了信息科学和生物医学科学的兴趣，本体论被用于组织信息系统中所代表的知识（史密斯 2003）。在某些情况下，开发的本体是特定领域的（例如医学信息、地理信息等），但也有很多人对开发一个适用于所有特定领域并实现系统间数据共享的‘顶层’本体产生了浓厚兴趣。正是这些顶层本体最直接地借鉴了哲学上关于本体范畴的工作，尽管范畴性区分在特定领域的本体中也起着至关重要的作用。关于分类的这两类哲学工作都有望在信息管理方面产生各种实际应用，这些应用目前才刚刚开始被探索（参见索瓦 1995 年，蒙恩与史密斯（编）2008 年）。
+
+## 2. 类别差异
+
+最近关于类别的许多研究受到了对提供一个本体类别系统的可能性持怀疑态度的影响。像上面提到的那些困难已经削弱了一个独特真实和全面的本体类别系统可以被找到的想法。注意到类别系统的不断增加而产生的怀疑，加剧了对形而上学的普遍怀疑。在某些情况下，这是由于逻辑实证主义者断言所有形而上学言论都是无稽之谈。最近，怀疑主要源自对形而上学认识论的普遍怀疑（Bennett 2009，Kriegel 2013，Thomasson 2015），以及更具体的怀疑，即我们是否能理解世界具有明显的“本体结构”这一观念，或者我们能否发现这种结构是什么。
+
+因此，虽然在过去一个世纪，范畴在分析哲学中继续发挥着核心作用，而一些人继续以现实主义精神致力于范畴的研究，但另一些人已经将注意力转向识别*语义*范畴中的*差异*，而不是描绘*本体论*范畴的*系统*。因此，当吉尔伯特·赖尔（1949 年，1938 年[1971]）谈到范畴时，他并没有直接谈论*实体*的范畴，而是谈论概念的不同逻辑类型，这些类型的差异可通过在某些类型的句子中用一种术语替换另一种术语而导致的荒谬来检测（见下文§2.2）。威尔弗里德·塞拉斯（Wilfrid Sellars），发展了奥卡姆的策略，明确地认为我们可以将范畴陈述解释为关于某些表达式的概念角色（以及其他语言中的功能对应物）的伪装元语陈述。根据塞拉斯的观点，“苏格拉底是一个实体”，例如，意味着“The ·苏格拉底·是一个基本的心智单数术语”，而“黄色是一种品质”意味着“The ·黄色·是（一元）谓词（在心理语言中）”（1970 年[1974]，328）（其中“·___·”符号的作用是使我们能够谈论语言角色，而不受限于特定的自然语言）。因此，我们可以复制传统范畴之间的工作区别，例如，实体和品质，而不将自己本体论上承诺于品质或其他抽象概念的存在（1970 年[1974]，329）。在塞拉斯的观点中，这些范畴是“元概念的，第二阶段的对最基本类型的第一阶段概念角色的功能分类，这些角色存在于一个受规范的语言实践或概念框架中”（O’Shea 即将出版，第 1 节）。这种塞拉斯式看待范畴的有趣结果是，它们并非固定不变，而是随着我们受规范实践中的概念角色的变化而变化（O’Shea 即将出版，第 2 节）。
+
+### 2.1 范畴区别的用途
+
+那些专注于阐明范畴区别而不是建立完整范畴系统的人通常会引用范畴，不是希望回答诸如“什么存在”之类的基本形而上学问题，而是作为揭示、避免或消解各种被认为是哲学错误、混淆和悖论的方式。
+
+因此，例如，罗素和怀特海德引入了类型理论（在某种意义上可以被视为一种范畴理论）来避免弗雷格集合论中发现的某种悖论（在那里我们必须考虑所有非自身成员集合的假设集，只有当它既不是自身的成员时才是自身的成员），说谎者悖论（“这个句子是假的”，只有当它是假的时才是真的），等等。根据他们的分析，这些悖论是由于试图通过将预设存在总体的成员收集到一个单一总体中而形成一个不合法的整体所导致的。为了避免这种悖论，我们必须接受“任何涉及到一个集合的*所有*的事物都不应该是该集合的一部分”（1913 [1962]，37），因此这样的整体（涉及到一个集合的所有事物）必须是更高类型的，例如，使集合类的类型高于个体集合的类型，依此类推，导致无限类型的层次结构。混合类型会产生悖论性主张被拒绝为不合法和无意义（1913 [1962]）。
+
+最著名的是，Ryle（1949）提出了范畴错误的概念，以消除他认为笼罩在笛卡尔心灵理论中的混淆，从而解决心灵哲学中许多明显的问题。根据 Ryle 的观点，当一个人错误地将某个表达式的逻辑类型或范畴弄错时，就会犯范畴错误（1949，16-17）。因此，例如，一个外国人如果观察牛津的各个学院、图书馆和行政办公室，然后要求看大学，那么他就犯了范畴错误。这个外国人错误地将大学误认为是他所见过的其他机构，而实际上它是完全不同范畴的东西：“他已经看到的一切是如何组织起来的方式”（1949，16）。根据 Ryle 的观点，笛卡尔心灵理论背后的范畴错误在于将信仰、知识、立志或厌恶等心理概念表现为行为或过程（并得出它们必须是隐蔽、不可观察的行为或过程的结论），而实际上，信仰、知识等概念实际上是倾向性的（1949，33）。正确地注意范畴区别可能有助于消除各种哲学问题和困惑，范畴错误的概念被广泛应用（由 Ryle 和其他人）以达到这个目的。Ofra Magidor 认为“Ryle 认为二元论立场的中心错误是什么远非明显”（2013，10）。然而，Jonah Goldwater（即将出版）认为，在《心灵的概念》中，Ryle 确定的范畴错误都是错误地将属于两个不同范畴的实体结合在一起的形式 - 隐含地将它们的连词分配到一个共同的范畴中。但根据 Ryle 的观点（Goldwater 认为），通常没有一个最高的范畴（“存在”），我们可以将这些结合实体归入其中，因此我们不能明智地将它们结合、计数或量化。Goldwater 认为，这不仅澄清了 Ryle 对笛卡尔和物理主义心灵理论的批评基础，还有潜力消解形而上学中的各种当前争论，例如基于否认（例如）在基座上既有雕像又有一块块的论据反对共位的论点。Huw Price（2009，330-335）认为，Ryle 确定的范畴差异可以看作是语言使用中的功能差异的基础。正如 Price 所说，范畴错误是潜在功能差异的症状，这表明要评估范畴错误的主张及其与传统“形而上学”问题的相关性，我们需要进行“关于语言在人类生活中基础功能的一阶科学调查”（Price 2009，335）。 Thomasson (2022, 23–29) 接受了这个想法，并开始暗示系统功能语言学的研究如何可以帮助我们理解语言功能上的差异，这可能潜在地涵盖了一系列哲学问题。
+
+对类别区分的研究也在评估形而上学中的传统争论中有其他应用。Thomasson (2007) 认为本体论中的各种错误和困惑可以追溯到错误使用类别中立的存在性和量化主张。在本体论中，许多论证依赖于关于在各种情况下是否存在某个*对象*（或有多少个对象）的主张，其中术语“对象”必须以类别中立的方式使用才能进行论证（Thomasson 2007, 112–118）。但是，如果存在性和量化主张必须暗示地预设我们正在对其进行量化的某个类别或类别，那么这样的论证就会误入歧途。Thomasson (2007) 提出了独立的理由，认为所有量化至少必须暗示地预设我们正在对其进行量化的某个类别或类别， 并认为采纳这种观点为消除接受普通对象本体论所产生的一系列问题提供了统一基础。Jonah Goldwater (2021) 认为，通常提出的关于消除某种实体的论证都依赖于错误的原则或关于本体类别的判断，正确的反应通常是纠正这些关于类别的错误，而不是消除这些实体。Goldwater 认为，这种分析为“允许主义”本体论提供了一种间接支持，这种本体论将接受数、属性、孔洞或其他实体的存在，而形而上学家通常试图避免承诺这些实体。
+
+工作在类别区分上也与语言学和语言哲学中关于范畴错误究竟是什么，以及为什么范畴错误是不得体的讨论相关。分析范畴错误以及它们为何不得体（正如 Magidor 2019 所指出的那样）对句法、语义、语用以及隐喻和虚构话语的语言学理论具有进一步的意义。Magidor（2013 年，2019 年）调查了过去关于什么使得范畴错误不得体的问题的答案，包括：它们在句法上是不合法的，它们是毫无意义的，它们是有意义的但缺乏真值，以及它们（尽管形式良好，有意义且具有真值）在语用上是不恰当的。Magidor 反对前三个选项，而是支持一个关于为什么似乎包含范畴错误的句子不得体的预设解释。大致上，根据她的观点，像“二是绿色的”这样的句子会触发二是有颜色这一预设——这一预设很难被接受（2013 年，132 页）。因此，在她的分析中，这个句子是不得体的，但仍然具有真值（它是错误的）。
+
+### 2.2 利尔/胡塞尔区分范畴的方法
+
+尽管只利用范畴差异的概念（而不打算提供一个范畴系统）的人无需担心如何提供一个详尽的范畴列表，但他们仍然需要说明我们何时可以合理地声称两个实体、概念或术语属于不同的范畴的条件，以便我们知道何时发生了范畴错误（以及何时没有）。否则，他们将面临关于有哪些范畴或范畴差异在哪里的观点是武断或临时性的指控。然而，关于区分范畴的适当标准，人们之间的一致性并不比有哪些范畴更多。
+
+莱尔（Ryle）著名地认为荒谬是发现范畴差异的关键。但尽管莱尔使这种方法出名，他显然是从胡塞尔（Husserl）区分意义范畴的方法中得到这个想法的（参见莱尔 1970 年，第 8 页；西蒙斯 1995 年，第 120 页；托马森 2002 年，第 124-8 页，以及上文第 1.3 节）。然而，虽然胡塞尔使用*句法*无意义作为区分*意义*范畴的方法（产生不同的语法范畴），莱尔扩展了这个想法，将更广泛概念的*荒谬*视为*逻辑*或*概念*范畴差异的症状（1938 年[1971]，180 页）。因此，例如，“她泪流满面地回家，还有一辆轿子”（莱尔 1949 年，第 22 页）这种陈述在句法上是完全正确的，但莱尔仍将其归类为荒谬的句子，其中荒谬是这样一个事实的症状，即该句子连接了不同范畴的术语。
+
+在他早期的论文《范畴》中，Ryle 描述了区分范畴差异的测试如下：“如果存在这样的句子结构，即当将这些因素的表达作为相同的间隙符号的替代补语导入时，结果句子在一种情况下是有意义的，在另一种情况下是荒谬的，那么两个命题因素就属于不同的范畴或类型”（1938 [1971]，181）- 换句话说，如果存在这样的上下文，替换一个表达（或者说：它们所表示的内容）会导致荒谬，那么两个表达（或者说：它们所表示的内容）在范畴上是不同的。当然，这个测试并不能确定两个表达*是*相同的范畴（只能确定它们不是），因为存在无限数量的句子结构，而且总是可以找到一个不允许替换而不导致荒谬的情况。它也未明确和仅凭直觉界定了“荒谬”本身的概念；事实上，Ryle 在他的论文《范畴》中以问题“但是什么是荒谬的测试？”结束（1938 [1971]，184）。Ryle 的方法在更正式的方式上由 Fred Sommers 进一步发展（1959, 1971)。
+
+J. J. C. Smart（1953 年）批评了 Ryle 在区分范畴时的标准，理由是这个标准似乎可以用来确定任意两个表达之间的范畴差异。“因此，如果在空白处填入‘椅子’或‘长凳’，‘-的座位很硬’是可以的，但如果填入‘桌子’或‘床’就不行。如果家具词语不构成一个范畴，我们很可能会问什么构成了范畴”（1953, 227）。除了一种特定类型的直觉上的不可接受性之外，我们似乎没有其他测试荒谬的方法，这使得我们无法断定‘星期六在床上’是范畴违规，但‘床的座位很硬’不是。Bernard Harrison 试图通过区分由于违反范畴事实（比如前者）而导致的不恰当性与由于违反使用事实（后者）而导致的不恰当性来应对这一挑战（1965, 315–16）。‘床’这个术语的使用可能会被扩展到使‘床的座位很硬’是可以接受的（例如，如果床被制成带座位的），而‘星期六’不可能被扩展到使‘星期六在床上’是可以接受的- 任何尝试的‘扩展’都只会涉及使用‘星期六’同音异义地（例如，作为一周中某天和一个人的名字）（1965, 316–18）。有关通过互换方法来区分范畴的讨论，请参阅 Westerhoff（2005, 40–59 和 2002, 338–339）。Westerhoff（2004）发展了一种基于世界事务中的可替代性而不是语言来区分范畴的方法。
+
+### 2.3 区分范畴的弗雷格方法
+
+弗雷格将范畴中的区别视为语言表达类型的区别对应物。例如，*对象*的范畴是通过参考*专有名词*的语言范畴来区分（Dummett 1973 [1981], 55–56; 参见 Wright 1983, 13 和 Hale 1987, 3–4）- 即，对象就是专有名词的对应物，其中专有名词被认为包括所有单数术语（包括在定冠词前面的单数实质短语）。近年来，追随弗雷格方法的研究已由迈克尔·邓梅特（1973 [1981]）和鲍勃·黑尔（2010）进行了进一步发展和辩护。
+
+Hale 发展并捍卫了弗雷格的观念，即“将非语言实体划分为不同类型或类别取决于通过这些实体的指称方式的类型的先前分类”（2010 年，403 页）。在他发展这一观念时，成为一个对象意味着“成为一个*可能的*特指项的指称对象，成为一个属性意味着成为一个*可能的*（一级）谓词的指称对象，其他情况类似”（2010 年，411 页）。他还认为，这鼓励了一种对存在问题的贬值化方法，根据这种方法，我们可以通过简单地论证“涉及相关类型表达式的真实陈述”来论证某种类型实体的存在（2010 年，406 页）。
+
+Dummett（1973 [1981]）也旨在发展和明确弗雷格式的类别区分方法。弗雷格让所谓的“专有名词”与其他词类之间的区别仅仅是直观理解，但达梅特认为，例如，可以通过要求术语的可替代性同时保持句子的良构性（正如我们在§1.3 中所见，这也在胡塞尔的意义类别区分中发挥作用），并同时保持各种推理模式的有效性（后者的要求是为了区分专有名词与其他实质性术语，如“某人”和“无人”）来开始区分专有名词的标准（1973 [1981]，58 页以下）。 （有关这些标准的进一步细化，请参见 Dummett（1973 [1981]，61-73 页）和 Hale（1987 年，第 2 章）。）
+
+根据弗雷格的要求（1884 [1968]，§62），即名称必须与认同标准相关联，达梅特认为需要一个额外的测试（超出这些形式测试），以区分真正的专有名称（与对象对应）和其他类型的表达：“即使一个表达通过了我们设计的更加形式化的测试，除非我们可以谈论一个由表达的意义确定的认同标准，适用于它所代表的对象，否则它不应被归类为专有名称，或被认为代表一个对象”（1973 [1981]，79）。
+
+因此，一旦区分了语法范畴，使我们能够通过参考*专有名称*的语言范畴来区分逻辑范畴*对象*，我们就可以继续在对象之间划分范畴区别。为了避免混淆，达梅特将第一范围的区别（在对象、属性、关系等的逻辑范畴之间的区别）称为“类型”之间的区别，将第二范围的区别（在类型*对象*内）称为“类别”之间的区别（1973 [1981]，76）。
+
+由于正如恩斯特·卡西尔（Ernst Cassirer）所辩论的（在 Lowe 1989 和 Wiggins 2001 中进一步发展的观点），专有名词和分类术语必须与确定术语可以再次正确应用于同一事物的条件的同一性标准相关联（1973 [1981]，73–75），我们可以使用相关的同一性标准来区分所指对象的类别。所有那些共享同一性标准的名称和一般分类术语（可用于构成复合名称）被称为属于相同*类别*的术语，即使相关分类术语的应用标准有所不同（1973 [1981]，546）。因此，例如，分类术语“马”和“牛”（同样，马和牛的名称）属于相同的类别，因为它们共享适用于动物的同一性标准。
+
+正如 Lowe（1989，108–118）所指出的，这种对类别的处理阻止了形而上学中某些还原主义移动。例如，如果诸如“人”和“有机体”之类的分类术语与不同的同一性条件相关联，那么那些试图将人与生物有机体还原地识别的人就涉及类别错误。
+
+最近，一种观点变得流行，即可以根据与每个类别的术语相关联的同一性和/或存在条件来描绘对象之间的类别区别。尽管在细节上有所不同，但这种方法的版本不仅被弗雷格（Frege）、邓梅特（Dummett）和哈尔（Hale）利用，而且还被洛厄（Lowe，2006 年，第 6 页）和托马森（Thomasson，2007 年）所采用。
+
+这种描绘对象之间类别区别的方法可以避免各种潜在问题和怀疑源。它不会受到像斯马特（Smart）为赖尔（Ryle）的标准提出的那些问题的影响，因为一周中的日子显然具有不同的同一性条件，而不同于人，而床和椅子似乎共享同一性条件（适用于制品的条件）。这种描绘类别的方法也不会受到上述类别系统引发的怀疑的影响。在这里，没有声称提供一个详尽的类别列表，这是有原则的原因：只要可以创造出与不同同一性条件相关联的名词术语或概念，不同的类别就可能被讨论。
+
+遵循这种方法还可以保证所区分的范畴是相互排斥的，因为这一立场的必然结果是，只有当实体受相同的认同条件支配（并符合这些条件）时，才能确定实体，因此可以*先验地*排除同一实体可能属于两个或更多不同类别的情况，违反了相互排斥的要求。
+
+区分范畴的这种方法还提供了一个有原则的方式来回答一些关于范畴理论的核心问题，包括是否存在单一的*至上属*，以及语言/概念范畴与本体论范畴之间的关系是什么。根据邓美特的观点，“事物”、“实体”或“对象”等完全一般的术语并非真正的分类术语，因为它们未能提供任何认同的标准。因此，显然根据这一观点（如亚里士多德的观点），没有一个*至上属*，可以将诸如*人工制品*、*动物*等范畴排列为物种，因为（缺乏认同标准）这种候选的概括性术语如“对象”、“存在”、“实体”等甚至不是分类术语，因此不能是范畴术语。
+
+观点，如莱尔和弗雷格的方法一样，通过语言区分类别，有时被批评为只能注意某些语言表达的类别差异。为什么会有人问，那又如何告诉我们关于*真实事物*类别的差异呢？
+
+哈尔(Hale)认为，如果我们希望表征基本逻辑类别（或类型）如对象和属性，那么没有严肃的替代方案可供选择，只能使用旨在指称不同类型实体的表达类型（2010 年，408 页）。因为如何成为对象或属性显然不能仅通过指示或更具实质性的标准来传达，而不受限制地反对各种关于存在哪些对象或属性的观点。此外，他认为，我们可以通过将对象和属性视为与*可能*的、而非仅仅是实际的相关类型表达相对应，避免使我们的（逻辑）类别过度依赖于我们实际拥有的语言（2010 年，411 页）。
+
+Dummett 对于理解对象类别的方式也为回应这一反对意见打开了大门。因为 Dummett 认为，没有一些相关的范畵概念，我们无法单独确定对象（即使使用名称或指示词）（1973 [1981]，571）。范畵概念对我们单独确定“事物”是必要的，不能从考虑“事物”而不考虑类别预先确定而导出。（因此，从这个观点可以得出结论，Johansson 认为我们可以通过从考虑个体*事物*进行抽象来得出类别的想法是错误的。）在这个观点下，类别不仅*可能*而且*必须*主要通过区分与不同种类术语和名称的正确使用相关的同一性条件来加以区分。如果我们除了通过某种范畵概念（提供应用和同一性条件）无法指称、发现或单独确定对象，那么我们的种类术语或名称中的范畵差异（通过它们在同一性条件中的差异标志）就是*因此*，自动地，这些术语所指对象中的类别差异 - 这里根本不会出现“错误”的可能性，并且确保了用于指称给定实体的表达式的类别与所指实体的类别之间的联系。
+
+## Bibliography
+
+* Ackrill, J. L., 1963, *Aristotle’s Categories and De Interpretatione* (translation with notes), Oxford: Clarendon Press.
+* Alexander, Samuel, 1920, *Space, Time and Deity*, London: Macmillan.
+* Aristotle, 1953, *Metaphysics*, revised text translated with commentary and introduction by W. D. Ross, Oxford: Clarendon Press.
+* Aristotle, 1963, *Categories*, translated with notes by J. L. Ackrill, Oxford: Clarendon Press.
+* Baumer, Michael, 1993, “Chasing Aristotle’s Categories down the Tree of Grammar”, *Journal of Philosophical Research*, 18: 341–449.
+* Bennett, Karen, 2009, “Composition, Colocation and Metaontology”, in David Chalmers, Ryan Wasserman, and David Manley (eds.), *Metametaphysics: New Essays on the Foundations of Ontology*, Oxford: Oxford University Press: 38–76.
+* Butchvarov, Panayot, 1995, “Categories”, in *A Companion to Metaphysics*, Jaegwon Kim and Ernest Sosa (eds.), Oxford: Blackwell.
+* Carey, Susan, 2009, *The Origin of Concepts*, Oxford: Oxford University Press.
+* Carr, Brian, 1987, *Metaphysics: An Introduction*, Atlantic Highlands, New Jersey: Humanities Press International.
+* Carstairs, A. D., 1971, “Ryle, Hillman and Harrison on Categories”, *Mind*, 80(319): 403–408.
+* Chisholm, Roderick, 1989, *On Metaphysics*, Minneapolis: University of Minnesota Press.
+* –––, 1996, *A Realistic Theory of Categories*, Cambridge: Cambridge University Press.
+* Collingwood, R. G., 1940 [1998], *An Essay on Metaphysics*, Oxford: Clarendon.
+* Cumpa, Javier and Erwin Tegtmeier (eds.), 2011, *Ontological Categories*. Frankfurt: Ontos.
+* Dummett, Michael, 1973 [1981], *Frege: Philosophy of Language*, second edition, Cambridge, MA: Harvard University Press.
+* Fisher, A. R. J., 2015, “Samuel Alexander’s Theory of Categories”, *The Monist*, 98(3): 246–67.
+* Frege, Gottlob, 1884 [1968], *Die Grundlagen der Arithmetik/The Foundations of Arithmetic*, J. L. Austin (trans.), Evanston, Illinois: Northwestern University Press.
+* Goldwater, Jonah, 2018, “Ryle, the Double-Counting Problem, and the Logical Form of Category Mistakes”, *The Journal of the History of Philosophy,* 56(2): 337–59.
+* Goldwater, Jonah, 2021, “Paraphrase, Categories, and Ontology”, *Analytic Philosophy* 00-1-18 DOI: 10.1111/phib.12240.
+* Grossmann, Reinhardt, 1983, *The Categorial Structure of the World*, Bloomington, Indiana: Indiana University Press.
+* Hale, Bob, 1987, *Abstract Objects*, Oxford: Blackwell.
+* –––, 2010, “The Bearable Lightness of Being”. *Axiomathes*, 20: 399–422.
+* Harrison, Bernard, 1965, “Category Mistakes and Rules of Language”. *Mind*, 74(295): 309–325.
+* Hoffman, Joshua and Gary S. Rosenkrantz, 1994, *Substance among other Categories*, Cambridge: Cambridge University Press.
+* Husserl, Edmund, 1913 [1962], *Ideas: General Introduction to Pure Phenomenology*, W. R. Boyce Gibson (trans.), New York: Collier Books.
+* –––, 1913 [2000]. *Logical Investigations* (2nd edition; 2 volumes), J. N. Findlay (trans.), London: Routledge.
+* Ingarden, Roman, 1960 [1964], *Time and Modes of Being*, Helen R. Michejda (trans.), Springfield, Illinois: Charles C. Thomas.
+* Johansson, Ingvar, 1989, *Ontological Investigations*, New York: Routledge.
+* Kant, Immanuel, 1781 [1958], *Critique of Pure Reason*, Norman Kemp Smith (trans.), London: Macmillan.
+* Körner, Stephan, 1955, *Kant*, Harmondsworth, England: Penguin.
+* –––, 1970, *Categorial Frameworks*, Oxford: Blackwell.
+* Kriegel, Uriah, 2013, “The Epistemological Challenge of Revisionary Metaphysics”, *Philosopher’s Imprint*, 13(12): 1–30.
+* Lakoff, George, 1987, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind*, Chicago: University of Chicago Press.
+* Lowe, E. J., 1989, *Kinds of Being: A Study of Individuation, Identity and the Logic of Sortal Terms*, Oxford: Blackwell.
+* –––, 2006, *The Four-Category Ontology: A Metaphysical Foundation for Natural Science*, Oxford: Clarendon.
+* Magidor, Ofra, 2013, *Category Mistakes*. Oxford: Oxford University Press.
+* –––, 2019, “Category Mistakes”. *The Stanford Encyclopedia of Philosophy* (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/fall2022/entries/category-mistakes/>.
+* Moltmann, Friederike, 2017, “Natural Language Ontology”, in *The Oxford Research Encyclopedia of Linguistics*, New York: Oxford University Press.
+* Moravcsik, J. M. E., 1967, “Aristotle’s Theory of Categories”, in *Aristotle: A Collection of Critical Essays*, Garden City: Doubleday and Co.: 125–48.
+* Munn, Katherine and Barry Smith (eds.), 2008, *Applied Ontology: An Introduction*, Frankfurt: Ontos Verlag.
+* Nolan, Daniel, 2011, “Categories and Ontological Dependence”, in *The Monist*, 94(2): 277–300.
+* O’Shea, James (forthcoming). “On Sellars’s Analytic-Kantian Conception of Categories as Classifying Conceptual Roles”, in Javier Cumpa, ed. *Categorial Ontologies: From Realism to Eliminativism,* London: Routledge.
+* Paton, H. J., 1936, *Kant’s Metaphysic of Experience*, London: George Allen and Unwin.
+* Paul, L. A., 2016, “A One-Category Ontology”, in John A. Keller (ed.), *Freedom, Metaphysics and Method: Themes from van Inwagen*, Oxford: Oxford University Press.
+* Price, Huw, 2009, “Metaphysics after Carnap: The Ghost who Walks?” in *Metametaphysics: New Essays on the Foundations of Ontology,* ed. David J. Chalmers, David Manley and Ryan Wasserman. Oxford: Oxford University Press.
+* Rakison, David and Lisa M. Oakes, 2003, *Early Category and Concept Development*, Oxford: Oxford University Press.
+* Russell, Bertrand and Alfred North Whitehead, 1913 [1962], *Principia Mathematica* to *56, Cambridge: Cambridge University Press.
+* Ryle, Gilbert, 1938 [1971], “Categories”, in *Collected Papers, Volume II: Collected Essays*, New York: Barnes and Noble.
+* –––, 1949, *The Concept of Mind*, Chicago: University of Chicago Press.
+* –––, 1970, “Autobiographical”, in Oscar P. Wood and George Pitcher (eds.), *Ryle*, New York: Doubleday and Co.
+* Sellars, Wilfrid, 1970 [1974], “Toward a Theory of the Categories”, reprinted in *Essays in Philosophy and its History*, Dordrecht, Holland: D. Reidel.
+* Simons, Peter, 1992, *Philosophy and Logic in Central Europe from Bolzano to Tarski*, Dordrecht, The Netherlands: Kluwer.
+* –––, 1995, “Meaning and Language”, in Barry Smith and David W. Smith (eds.), *The Cambridge Companion to Husserl*, Cambridge: Cambridge University Press.
+* Smart, J. J. C., 1953, “A Note on Categories”. *British Journal for the Philosophy of Science*, 4(15): 227–8.
+* Smith, Barry, 2003, “Ontology”, in *Blackwell Guide to the Philosophy of Computing and Information*, Oxford: Blackwell.
+* Smith, David Woodruff, 1995, “Mind and Body”, in Barry Smith and David Woodruff Smith (eds.), *The Cambridge Companion to Husserl*, Cambridge: Cambridge University Press.
+* –––, 2004, *Mind World: Essays in Phenomenology and Ontology*, Cambridge: Cambridge University Press.
+* –––, 2007, *Husserl*, London: Routledge.
+* Sommers, Fred, 1959, “The Ordinary Language Tree”, *Mind*, 68: 160–85.
+* –––, 1971, “Structural Ontology”, *Philosophia*, 1: 21–42.
+* –––, 1982, *The Logic of Natural Language*, Oxford: Clarendon Press.
+* Sowa, John, 1995, “Top Level Ontological Categories”. *International Journal of Human-Computer Studies*, 43(5-6): 669–85.
+* Strawson, P. F., 1959 [1963], *Individuals: An Essay in Descriptive Metaphysics*, New York: Anchor Books.
+* Studtmann, Paul, 2007, “Aristotle’s Categories”, *The Stanford Encyclopedia of Philosophy* (Fall 2008 edition). Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2008/entries/aristotle-categories/>.
+* Thomasson, Amie L., 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
+* –––, 2002, “Phenomenology and the Development of Analytic Philosophy”, *Southern Journal of Philosophy*, 40 (Supplement): 115–142.
+* –––, 2007, *Ordinary Objects*, New York: Oxford University Press.
+* –––, 2015, *Ontology Made Easy*, New York: Oxford University Press.
+* –––, 2022, “How Should we Think about Linguistic Function?”, *Inquiry,* DOI: 10.1080/0020174X.2022.2074886
+* Thompson, Manley, 1957, “On Category Differences”, *Philosophical Review*, 66(4): 486–508.
+* Westerhoff, Jan, 2002, “Defining ‘Ontological Category’”, *Proceedings of the Aristotelian Society*, 102(3): 337–343.
+* –––, 2004, “The Construction of Ontological Categories”, *Australasian Journal of Philosophy*, 84(4): 599–620.
+* –––, 2005, *Ontological Categories: Their Nature and Significance*, Oxford: Clarendon.
+* Wiggins, David, 2001, *Sameness and Substance Renewed*, Cambridge: Cambridge University Press.
+* Wright, Crispin, 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=categories). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/categories/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=categories&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/categories/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [“Recent Advances in Metaphysics”](http://www.cs.vassar.edu/~weltyc/fois/fois-2001/keynote) by E. J. Lowe, Durham University.
+* [“Ontological Categories and How to Use Them”](http://ejap.louisiana.edu/EJAP/1997.spring/thomasson976.html) by Amie L. Thomasson
+* [Descriptive and Formal Ontology: A Resource Guide to Contemporary Research](http://www.formalontology.it/) by Raul Corazzon.
+* [The Buffalo Ontology Site](http://ontology.buffalo.edu/), State University of New York, Buffalo.
+* [John Bateman’s Ontology Portal](http://www.fb10.uni-bremen.de/anglistik/langpro/webspace/jb/info-pages/ontology/ontology-root.htm).
+
+## Related Entries
+
+[Aristotle, General Topics: categories](https://plato.stanford.edu/entries/aristotle-categories/) | [category mistakes](https://plato.stanford.edu/entries/category-mistakes/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [Ingarden, Roman](https://plato.stanford.edu/entries/ingarden/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [ontology, natural language](https://plato.stanford.edu/entries/natural-language-ontology/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [sortals](https://plato.stanford.edu/entries/sortals/)
+
+### Acknowledgments
+
+Many thanks go to Willem de Vries, Simon Evnine, Jonathan Lowe, Friederike Moltmann, Linda Palmer, David Woodruff Smith, Jennifer Uleman, and Achille Varzi for very helpful comments on earlier drafts of this entry. Thanks also to Amanda McMullen and an anonymous referee for help in identifying new literature relevant to the (2013) revised version of this entry.
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+[Amie Thomasson](http://philosophy.dartmouth.edu/people/amie-l-thomasson) <[*amie.l.thomasson@dartmouth.edu*](mailto:amie%2el%2ethomasson%40dartmouth%2eedu)>
