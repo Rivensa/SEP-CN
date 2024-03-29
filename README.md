@@ -2,7 +2,7 @@
 
 [原版目录](https://plato.stanford.edu/contents.html)
 
-[本书目录](broken-reference)
+[本书目录](mu-lu.md)
 
 [在线预览](https://tphil.gitbook.io/sep/)
 
