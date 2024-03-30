@@ -1,2 +1,352 @@
 # 中国哲学中的社会与政治思想 social and political thought (Stephen C. Angle)
 
+*首次发表于 2016 年 7 月 21 日星期四；实质性修订于 2022 年 1 月 13 日星期四*
+
+社会和政治思想中的问题从中国哲学的早期时刻一直到今天都是核心问题。在十九世纪之前，"社会"和"政治"在中文中没有明确的对应词，但中国思想家一直关注理解个人和制度如何在我们可以称之为社会和政治模式中产生广泛影响。在某些情况下，哲学家狭窄地关注治理和国家，但在许多其他情况下，并没有明确区分政治、社会，甚至家庭或个人的领域。社会和政治思想的范围，以及它与其他问题如个人伦理的关系，在[第 1 节](https://plato.stanford.edu/entries/chinese-social-political/#ScopPoli)中有所讨论。
+
+本条目的大部分内容按时间顺序排列，从古典（或帝制前）时代最重要的文本开始；然后简要介绍早期帝制时代的发展；接着更仔细地审视了 800 年的宋明理学时代的一些关键发展；最后介绍了中国社会和政治思想在过去 150 年的发展。每个部分内部的组织方式有所不同，这是因为我们的信息来源不同。虽然关于古典文本的构成和年代的理论仍然存在激烈的争议，但至少可以明确的是，我们不应默认将这些文本视为单一作者在单一时期的产物，更不要将其视为代表已建立的学派理论。相反，将个别文本，有时甚至是个别章节，作为我们分析的基本单位是有意义的。随着我们进入后期时代，文献的性质和作者身份变得更加清晰，因此对条目后续部分进行主题组织是有意义的。
+
+有几个问题是中国社会和政治思想中教义和辩论的核心问题，其中如何维持“秩序（*zhi*）”——通常更具体地理解为“和谐（*he*）”——是最基本的问题。我们应该在多大程度上依赖制度（以及何种类型的制度？），人类领导力又有多重要？什么样的角色、关系或等级应该构建我们的社会，它们如何被证明是合理的？它们可以被质疑或改变吗？就社会被划分为统治者和被统治者而言，彼此应该承担什么责任，为什么？我们将看到，社会和政治主题经常与中国哲学的其他方面联系在一起——例如，对刚提出的一些问题的回答会引发进一步的伦理、认识论或形而上学问题——但在很大程度上，我们仍然可以理解社会和政治思想本身的意义。
+
+* [1. “政治” 的范围](https://plato.stanford.edu/entries/chinese-social-political/#ScopPoli)
+* [2. 古典时代](https://plato.stanford.edu/entries/chinese-social-political/#ClasEra)
+* [2.1 ](https://plato.stanford.edu/entries/chinese-social-political/#GuanCarrStic)​*[管子](https://plato.stanford.edu/entries/chinese-social-political/#GuanCarrStic)*​[：胡萝卜和大棒](https://plato.stanford.edu/entries/chinese-social-political/#GuanCarrStic)
+* [2.2 ](https://plato.stanford.edu/entries/chinese-social-political/#MoziTheoUtilJust)​*[Mozi](https://plato.stanford.edu/entries/chinese-social-political/#MoziTheoUtilJust)*​[: 神学或功利主义的正当性？](https://plato.stanford.edu/entries/chinese-social-political/#MoziTheoUtilJust)
+* [2.3 ](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)​*[Analects](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)*​[ (](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)​*[论语](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)*​[) 和 ](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)​*[Mencius](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)*
+* [2.4 ](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)​*[Dao De Jing](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)*​[: 自然与无为(](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)​*[无为](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)*​[)](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)
+* [2.5 ](https://plato.stanford.edu/entries/chinese-social-political/#ZhuaRejeGove)​*[庄子](https://plato.stanford.edu/entries/chinese-social-political/#ZhuaRejeGove)*​[: 拒绝治理](https://plato.stanford.edu/entries/chinese-social-political/#ZhuaRejeGove)
+* [2.6 ](https://plato.stanford.edu/entries/chinese-social-political/#BookLordShanBeneThroOrde)​*[商君书](https://plato.stanford.edu/entries/chinese-social-political/#BookLordShanBeneThroOrde)*​[: 秩序造福](https://plato.stanford.edu/entries/chinese-social-political/#BookLordShanBeneThroOrde)
+* [2.7 申不害: 官僚主义的“无为”](https://plato.stanford.edu/entries/chinese-social-political/#ShenBuhaBureNonActi)
+* [2.8 科学: 转变人民](https://plato.stanford.edu/entries/chinese-social-political/#XunzTranPeop)
+* [2.9 科学: 实用政策的务实理由](https://plato.stanford.edu/entries/chinese-social-political/#HanFeizPragJustPracPoli)
+* [3. 早期帝国时代](https://plato.stanford.edu/entries/chinese-social-political/#EarlImpeEra)
+* [4. 新儒家时代](https://plato.stanford.edu/entries/chinese-social-political/#NeoConfEra)
+* [4.1 派别与政治独立](https://plato.stanford.edu/entries/chinese-social-political/#FactPoliInde)
+* [4.2 制度与以人为本的治理理论](https://plato.stanford.edu/entries/chinese-social-political/#InstVsCharCentTheoGove)
+* [4.3 最后思考](https://plato.stanford.edu/entries/chinese-social-political/#FinaThou)
+* [5. 现代时代](https://plato.stanford.edu/entries/chinese-social-political/#ModeEra)
+* [参考文献](https://plato.stanford.edu/entries/chinese-social-political/#Bib)
+* [主要文本](https://plato.stanford.edu/entries/chinese-social-political/#PrimText)
+* [次要文本](https://plato.stanford.edu/entries/chinese-social-political/#SecoText)
+* [学术工具](https://plato.stanford.edu/entries/chinese-social-political/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/chinese-social-political/#Oth)
+* [相关条目](https://plato.stanford.edu/entries/chinese-social-political/#Rel)
+
+---
+
+## 1. “政治”的范围
+
+根据一种常见的解读，统治者的权威基于个人的道德魅力（或德）。著名的“天命”理论源于周人合法化其征服商朝的方式。《尚书》中的段落告诉我们，天（周人的神明）将其“命令”从商朝转移给周的领导者，这是因为商王的堕落和暴政。周的领导声称通过使用甲骨文占卜来知晓这一点：他们采纳了商人占卜的做法，但将其用于证明政治权威的新用途，从而转移了天的青睐（部分地通过模糊商神和他们自己之间的区别）。这一转变的一个方面是将天转变为一个道德形象，一个根据领导者的 perceived virtue 做出判断的神（Allan 1984）。正如我们将在下文看到的，到了战国时代和儒家哲学的基础文本，已经发生了进一步的转变：天不再是一个具体的形象，而更接近于宇宙规范秩序的抽象意义，其意图也不再通过占卜可得。然而，大多数现代学者认为，在古典思想家中，伦理理想继续作为政治权威的最终理由。
+
+然而，必须承认，在儒家文本中，对程序事项和“秩序”规范的关注是有的，至少在一定程度上与统治者的德行分开。一些解释者认为，这意味着儒家承认了一种独特的“政治”规范，并且这种政治关注对儒家来说比实现个体的高尚伦理状态更为重要。例如，在讨论孟子何时认为叛乱是正当的情况下，Justin Tiwald 强调孟子“非常重视统治者被适当指定执行任务的程序要求”（Tiwald 2008: 274）。更明确地，Loubna El Amine 在她的《古典儒家政治思想》中长篇论述了政治领域的重要性。她说，虽然“政治领域并非完全独立于伦理领域，...政治秩序而非道德教化是目的”；而且“政治秩序本身就是一个目的，而不是通往美德的手段”（El Amine 2015: 15）。
+
+所有翻译者都同意，至少存在一种狭窄类型的政治合法性，告诉我们谁应该是合法的王位继承人。根据《孟子》，在早期，政治权力是通过圣人的、特定的评估传承下去的，评估谁最有资格统治，再加上天的认可，通过人民的行为来体现。这就是王位是如何从尧传给舜，再从舜传给禹的。然而，这种做法很快就崩溃了，在其（所谓的）位置上出现了世袭君主制度的机制。这是一个巧妙的解释，解释了为什么孔子从未被选为像舜那样统治的方式。牟宗三有影响力地主张，从圣智判断谁最适合统治，到世袭君主制，是从一种整体伦理权威转变为仅仅是对权力管理的有效技术，而不是真正的政治权威的转变。换句话说，牟同意埃尔·阿明关于存在一个相对独立的政治领域的观点，尽管作为一位现代儒家哲学家，牟对这种肤浅的政治形式与“秩序”之上更深层次的正当化脱节感到遗憾，并主张重新构想儒家政治。
+
+虽然牟认为儒家政治思想过于狭隘的论点无疑是有争议的，但所有人都同意，至少一些古典思想家关注的是对权力管理和维护秩序的有效技术，而不是伦理关切。事实上，证明儒家确实拒绝将伦理和政治分开的一个更好的论点就是，儒家的许多批评者就是这样解释他们的。无论我们对早期儒家做出什么决定，很明显，一个世纪后，大多数新儒家认为伦理和政治是相互包含的，正如我们将在[第 4 节](https://plato.stanford.edu/entries/chinese-social-political/#NeoConfEra)中看到的那样。
+
+## 2. 古典时代
+
+一些历史背景将有助于我们开始之前。周人约在公元前 1046 年征服商朝，在接下来的几百年里，现在中国中原地区要么直接由周王统治，要么由效忠于周的精英家族统治，形成一种封建制度。到了春秋时代（公元前 771 年至公元前 476 年），诸侯的权力已经超过了周王，但粗糙的和平仍然存在，不同的诸侯行使着“霸”（*ba*）的职能。然后这种体系崩溃了，前帝国时期进入最后阶段，战国时代（通常被认为是公元前 475 年至公元前 221 年），这个时代因为在周朝实际灭亡后建立自己为独立势力的诸国之间进行的不断战争而得名。在这个时期，战争不仅很普遍；而且范围日益扩大，因为精英的战车军队被更大规模的征兵军队所取代。这种变化反过来又与国家提高、组织和供养如此庞大军队的能力增强有关。更大的人口和更复杂的政府结构都是这些发展的背后原因。最后，所有这些相互关联的发展既推动了，又受到了这个时代社会和政治哲学的影响。我们在这里研究的文本都可以追溯到战国时代，这是一个建立了中国思想家们在以后几个世纪中讨论的关键术语和问题的辩论多元化时期。对这个时代的三种一般性、引人深思的处理是 El Amine 2015 年，Bai 2012 年和 Pines 2012 年，而萧 1979 年则是这一主题的经典论述。
+
+### 2.1 *管子*：胡萝卜和大棒
+
+《*管子*》的最早章节是在齐国创作的，可以追溯到公元前 4 世纪中叶，是关于治理的最早理论著作之一。在《养民》中的一段著名文字中，我们发现“治国之道，在乎顺民心”。成功并非定义为让人民快乐——我们从其他地方了解到，对统治者来说，成功意味着拥有一个能够经久不衰的强大国家——但原来遵循人民意愿是成功的必要条件。因此：
+
+> 当粮仓充足时，人民将懂得适度和节制；当衣食充裕时，他们将明白尊荣和耻辱之别。
+
+ 同样，
+
+> 如果统治者能确保人民的生存并为他们提供安全，他们将愿意为他忍受危险和灾难。(《庄子》第 1 章，第 54 页和 52 页)
+
+这并不意味着人民应该得到自由放任。如果他们吃得饱，从事适合他们的工作，他们很可能会遵守礼节和节制，但作者补充道，统治者必须“明确通往必死之路”，这意味着对那些误入歧途者实施“严厉的惩罚” (GZ ch. 1, p. 55)。在文中的另一章节中，可能是同一作者写的，我们发现：
+
+> 治理人民的人希望他们易于控制。既然他们希望他们易于控制，他们必须认真关注标准（*fa*）。 (GZ ch. 3, p. 98)
+
+这些“标准”随后被列举出来，包括尊重等级和礼仪服饰，给予应得的薪水和奖励，授予官职，并施行惩罚。《管子》因此向我们展示了战国时期文本中贯穿始终的两种治理技术版本：培养人民和为他们设立标准。
+
+### 2.2 科学：神学或功利主义的理由？
+
+与《管子》大致同时代的是《墨子》，其中的一章开始如下：
+
+> 在古代，当人们初生之时，在还没有任何惩罚或政府之前，在他们的语言中，每个人对正义（*yi*）都有不同的概念。一个人有一个概念，两个人有两个……因此，那些有好教义的人会将它们保密并拒绝传授。（《墨子》第 11 章，第 91 页，作者进行了重大修改的翻译）
+
+这当然导致了混乱和苦难，其原因是缺乏“一位领导者来治理”。因此选择了一位统治者，宣称其为“天子”，并配备了一支辅佐他的部长团队。统治者随后确立了一种所有人都会遵从的正确观念。文本描述了一个全面的等级制度，根据这个制度，每个人都会听从他或她的上级对于什么是“善（*shan*）”的判断，最终导向依据天命做出判断的统治者。
+
+“天（*tian*）”是一个难以理解的术语。它曾清楚地指代一个宗教实体，但最终被理解为更自然的术语。在本章中它的含义是学术上存在争议的问题。在很大程度上，战国时期的治理哲学家并不诉诸超自然的标准来证明他们的主张。即使在《墨子》中，如果考虑其他章节的证据，对于“*tian*”的解释争议可能是无意义的。其他章节记录说，正如木匠可以使用圆规来确定什么是圆的，了解“天意”将使人能够可靠地判断什么是正确的。圆规的显著之处在于使用它不需要特殊知识：它是一个公共的、客观的圆的标准。如果“天意”要类比的话，那么正确必须有一个公共的、客观的标准。神的意志的神秘知识似乎不是这样一个公共的、客观的标准的好候选者。然而，文本提供了另一种选择：它经常谈到最大程度地“利（*li*）”益人民作为一个标准。因此，解决所有这些问题的一个巧妙方法是得出结论，“天意”是对“利益”标准的比喻性引用。因此，墨家的正确治理最终将是一种功利主义判断的问题。
+
+### 2.3 *论语* (*Lunyu*) 和 *孟子*
+
+表面上是孔子和他的学生的格言集，*论语* 的大部分，如果不是全部，是在孔子去世后撰写的，其各个章节表达了那些认同孔子遗产的个人的教导。文本中最早的章节（公元前 5 世纪中期至公元前 4 世纪中期；第 3-9 章）很可能是中国最早期的书面哲学反思，但与治理几乎没有直接关系。在文本中最引人注目的转变之一中，治理成为一组章节的中心（第 12、13、2 章），这些章节可能可以追溯到公元前 4 世纪的最后一个季度（Brooks & Brooks 1998）。*论语* 这一部分的理论与*管子* 有很多共同之处。当被问及政府时，“孔子”被说成说：“足食，足兵，民信之矣”（《论语》12:7，第 91 页）。其中，“信（*xin*）”最为重要。“信”在这里意味着一个人认同自己的统治者，这样做是因为他显然追求对自己有益的事物（另见《论语》13:29-30）。
+
+人们认同统治者并以其为榜样的动态贯穿于文本对治理的理解中。当被问及统治者是否应该杀死那些不遵循道的人时，孔子回答道：
+
+> 你在那里统治；杀人有何用？如果你渴望善，人民也会善。君子的德性如风，小人的德性如草。风吹在草上，草必定会弯曲。（《论语》12:19，第 94 页；另见《论语》2:1）
+
+与《管子》中将“刑罚”作为一种“法”的强调不同，这里的《论语》减少了对杀戮的重视。这一点在文中关于治理的最著名的格言中得到了强化：
+
+> 以政治引导他们，以刑罚规范他们，人民将无耻地逃避。以德引导他们，以礼制约他们，他们将产生羞耻感—而且，他们将井然有序。(LY 2:3, p. 110)
+
+文中只有少数几段强调在一个良好社会中继续需要刑罚，它们都出现在文末：13:3 明显是插入的，而类似的 20:2，可能可以追溯到公元前三世纪中叶。
+
+在各种方式中，*孟子*延续了*论语*12、13 和 2 留下的内容。*孟子*的一个创新是给其首选的治理模式取名为“仁政”。这意味着统治者应该像父母爱自己的孩子一样去爱民众：供养他们，教育他们，做他们的楷模。文本强调，虽然这一政策对所有人都有益，但人们必须出于仁爱之心而不是出于冷酷计算来追求它。由于统治者通过自己的榜样能够改变他人，如果他仅仅基于“利”行事，那么他的臣民也会如此，每个人都会从自己狭隘的角度出发。结果将是混乱和苦难，而不是秩序、和谐和互惠，这些都将源自真正的仁政（《孟子》1A:1）。
+
+*孟子*强调仁政以及义与单纯关注利益之间的区别，拒绝只考虑利益而不顾义的功利主义计算。它还反对强制性权威，认识到即使是示范和角色仿效也是间接起作用的：
+
+> 你永远不能通过试图用善来支配人们而赢得他们的忠诚；但如果你用善来培育他们，那么你将赢得全世界的忠诚。（《孟子》4B:16；另见 7A:14）
+
+从文本的其他地方我们可以看出，孟子（或他的追随者）知道并不赞成墨家；这段文字批评了墨家通过等级制度直接强制实施善的标准的做法。《孟子》包含许多等级观念（尤其见 MC 3A:4），但它对人民如果得到供养就有能力行善有相当的信心，反之则没有（见 MC 1A7，3A3）。
+
+《墨子》和《管子》都强调需要客观标准（*fa*），许多后续文本也是如此。在这个背景下，《论语》12、13 和 2 以及《孟子》显得不太重视*fa*。即使在《孟子》中出现工具隐喻（MC 4A:1），它也是应用于“仁政”这一概念，而不是具体的、可制度化的标准。这并不是说《论语》和《孟子》缺乏“标准”的概念。然而，它们的标准坚决是特定的，而不是客观和普遍的：由道德君主树立的典范。后来的《论语》（例如，13:3，一个后来的插入）和《荀子》（见下文）承认了对于强制的作用，但在早期的“儒家”文本中，权威是非强制性的。人们最初是自愿跟随，因为善良的君主供养了他们，后来是因为他们逐渐爱上他，将他视为父亲：他们从个体转变为整个国家家庭的成员。
+
+### 2.4 *道德经*：自然与无为（*Wuwei*）
+
+《郭店》版本的《道德经》，于 1993 年在一座墓穴中被发现，开篇如下：
+
+> 斩知奸，去辩说，民利百倍。斩巧诈，去利名，盗贼无有。斩为无，去为有，复见孝慈。……昭若不惑，简若解纷。少私寡欲。 (Henricks 2000: 28; 参见《道德经》第 19 章)
+
+在几个方面，这里表达的态度与《孟子》相似：明确讨论“利”被拒绝，尽管间接目标是造福于民；辩论——无论是指诉讼还是逻辑辩论——都被拒绝；倡导简朴生活，拥有“少欲”（参见《孟子》7B:35）。至少在前两点上，墨家似乎是特定的目标（在《孟子》中也是如此）。
+
+尽管存在这些共鸣，但《道德经》和《孟子》之间也存在重要的区别。最重要的是它们在统治者应该做什么方面的积极观点上的差异。在《孟子》中，统治者被教导要遵循古代君王的方式，建立人道政府。《道德经》在阐明任何特定人类标准方面要谨慎得多；事实上，在文本的传世版本中，郭店本的一句话被更新为“断‘仁’舍‘义’”，从而将最初仅针对墨家的待遇扩展给了孔子的追随者。
+
+就《道德经》而言，最好的社区是那些自然形成并蓬勃发展的社区，几乎不受上级指导。后来的章节将补充说，如果社区小而偏僻，则社区是最好的（《道德经》第 80 章），并为这些社区的成功提供理论上的理由，例如：
+
+> 道被尊崇，德被尊敬，不是因为有任何权威的规定，而是因为它们被自然地如此对待（《道德经》第 51 章）
+
+统治者通过允许自然而然地发展来取得成功：通过“无为” (*wuwei*)。具有讽刺意味的是，《道德经》的一些教导被某些后来的思想家当作直接的政治建议加以利用。例如，《韩非子》（更多内容见下文）回应《道德经》，呼吁统治者避免明确阐述标准或欲望，但这样做是为了确保大臣不能讨好统治者，而不是出于对标准本身的更深层反对。
+
+### 2.5 *庄子*：拒绝治理
+
+与经常被视为同属“道家”文本的《道德经》不同，《庄子》似乎不关心治理或针对统治者。这并不是说这个文本主张无政府主义；与战国时期的所有文本一样，它似乎认为国家会有统治者。然而，与任何其他文本相比，它对统治者面临的问题不感兴趣，甚至似乎不愿赋予统治者任何特殊权威。它与那些认为人们必须与其国家产生认同感的思想家完全不一致。事实上，对于这个文本对治理问题的态度，一个解释可能是：避免承诺，接受一切。
+
+文本的核心是一个激进的语言学和认识论论证，反对接受任何一个观点作为最终、永恒正确的。当一个人意识到所有肯定和否定的视角性质时，就会获得“清晰（*ming*）”。获得了这种清晰后，把自己置于任何一套评价标准之上就没有意义，比如“我们的国家必须胜利”甚至“人类繁荣胜过植物”。在战国时期残酷现实的背景下，这些教条可能吸引了许多人。
+
+### 2.6 *商君书*：以治为利
+
+《商君书》（*Shangjun shu*）建立在我们已经遇到的两个主题之上。首先，它认为“民之利在治（*zhi*）”（SJS ch. 7）。这隐含地接受了“利益（*li*）”是评判治理理论的标准，但它也特别强调了“利益”的集体性质。据我们所知，在充满战乱的世界中，只有国家强大了，其居民才能繁荣。因此，那些为了自身利益而非“国家利益”行事的人将受到惩罚（SJS ch. 14）。这篇文章不喜欢那些喜欢辩论并推动自己议程的人；它更倾向于一个致力于农业、“朴（*pu*）且易于引导”的人民（SJS ch. 3）。简言之，我们可以看到，“造福人民”的概念周围的模糊性导致了一个结果，即如果更清晰的标准可以被合理地视为造福人民的必要条件，那么这些标准就会占据中心舞台。一个主要例子就是“治”。可以自然地假设，混乱与人民的幸福是不相容的，因此统治者可以专注于治理，让利益随之而来。然而，特别是当结合了人们倾向于自私并不了解什么才是真正对他们有益的想法时，对治的关注很快就会导致暴政。
+
+另一个我们已经看到的观念是，治理需要客观标准。这是《商君书》的一个中心主题。它反复强调了公正、公共标准（*fa*）在惩罚和奖励的应用中的重要性。“*Fa*”通常被翻译为“法律”，但在这里和其他地方的用法显然比单纯的刑法要广泛。一种标准，确实是刑律（*xian*），但标准有许多其他形式。奖惩经常与标准挂钩的事实清楚地表明这些是规范性期望，而不仅仅是理想。从另一个角度看，“*fa*”不仅仅是理想：它们是制度化的。这一方面无疑解释了将“*fa*”翻译为“法律”的吸引力的部分原因，因为我们常常认为法律是受某种执行约束的规范，不同于伦理理想。
+
+最后，文本还坚持要求不要就标准是什么或何时达到标准进行辩论：君主独自根据对时代需求的评估确定标准。他既不应模仿古代，也不应遵循当前标准。关键在于他的标准要明确规定人们所期望扮演的不同角色（*fen*），以及将强制执行这些角色的奖励和惩罚。文本补充说，明智的君主不会不履行自己的角色，否则就会“损害标准”。
+
+### 2.7 沈卜海：官僚主义的“无为”
+
+沈氏于公元前 354 年成为韩国宰相，并于公元前 337 年去世。早期的书目中列有一部以他的名字命名的文本，但现在只剩下其他作品中的引文；原作已经失传。因此，很难确定这些材料的日期。
+
+沈氏的核心见解似乎是政府应该建立在官僚体系而不是封建原则之上。克里尔指出，沈氏倡导“通过专业官员进行管理的体制，这些官员的职能或多或少地被明确定义”（SBH p. 55）。统治者不应该寻找优秀的人并赋予他们责任，而是应该为体制中的每个角色找到合适的人选。在这种理论中，统治者的角色很简单：界定所需的职能并选择人员来执行，然后“无为”。无为并不意味着字面上的不采取行动，而是统治者只需确保体制顺利运行。沈氏将统治者比作天平：
+
+> … 只是建立平衡，自身无所作为；然而，仅仅保持平衡就会导致轻重自现。（SBH p. 352）
+
+与《道德经》不同，似乎更相信自然胜过人的信任，沈卜海更相信人造制度胜过个人的决策能力。
+
+### 2.8 《荀子》：改造人民
+
+《荀子》第 19 章包含战国时代最著名的起源故事之一。
+
+从什么地方起源了仪式（*li*）？我说：人类生来就有欲望。当他们有欲望却得不到欲望的对象时，他们就不得不寻求满足的手段。如果他们的追求没有度量或限制，那么他们就不得不互相斗争。如果他们互相斗争，那么就会有混乱，如果有混乱，他们就会贫困。前任君王憎恶这种混乱，因此他们建立了仪式和正义，以区分人民，培养他们的欲望，并满足他们的追求。（XZ ch. 19, p. 201，作者稍作修改）
+
+仪式（*li*——与“利益”那个字不同）在《论语》的许多章节中都很重要，但在这里扮演着更为核心的角色。虽然人们（与动物不同）有能力注意和遵守区别（*fen*），但他们不会自然而然地这样做。他们的欲望必须通过持续的仪式教育来塑造，以便社会和人民能够繁荣和谐。文本明确将仪式与“标准（*fa*）”联系起来：“拒绝仪式就是没有标准”，“没有标准的人将迷失无导”（XZ ch. 2, p. 14，修改）。与《商君书》中关于何时应受到惩罚和奖励的明确规定不同，即《荀子》认为标准是通过受过专家教师的仪式教育而形成的——通过自己的直接老师，通过自己的统治者，以及通过最初建立适当仪式的圣王。这两个文本都试图利用人们心理的特点来建立秩序，都以造福人民为名。中心区别在于，回溯到《论语》2:3，即《商君书》直接依赖人们对利益的欲望和对伤害的厌恶，而《荀子》依赖人们关心“区别”以便转变他们。一旦转变，仪式礼仪和羞耻感，而不是直接关注利益，将引导他们。
+
+尽管荀子非常强调标准的作用，但他也以著名的论断而闻名：“有创造秩序的人，没有自行创造秩序的标准”（XZ ch. 12, p.117，稍作修改）。荀子著作中的一个主要主题是明确的标准必然模糊不清，因此对它们的正确实施是不确定的。他还认为，正确实施标准需要大量的技巧和技术。此外，他指出，标准有时似乎彼此冲突，需要智慧和经验来平衡这些相互竞争的考量。最后，没有固定的规则系统化方式。情况的变化要求有时必须修订规则的优先级，这也需要良好的判断力。出于所有这些原因，荀子认为是好人创造了秩序，而不是标准本身。
+
+### 2.9 *韩非子*：实用政策的务实理由
+
+像几篇早期的文本一样，*韩非子* 对治理的客观标准非常强调。统治者应该比较“名（*ming*）”—也就是，一个立场的职责的明确陈述—与结果，并根据两者的对应情况给予奖励或处罚。我们还读到：“一个真正开明的统治者使用标准（*fa*）来为他选择人；他不是自己选择他们”（HFZ 第 6 章，第 24 页）。虽然统治者不会根据自己的判断或心血选择大臣，但他仍然必须首先确立标准；他不能仅仅依赖传统或先例：
+
+> 圣人不试图实行古代的方式或遵守固定的标准，而是审视当今事务并采取必要的预防措施。（HFZ 第 49 章，第 96-97 页）
+
+这与早期几篇文本中提倡遵循过去传统的观点形成鲜明对比。在其中一些文本中，早期时代记录或想象中的做法被认为具有认识论意义：是先哲见解的证据。其他一些对自然主义理由持更怀疑态度的人暗示，遵守传统是我们达成统一标准的唯一手段，没有这样的一致，混乱就会逼近。
+
+然而，比起遵循旧做法的愿望，更普遍的观念是时代在变，善治者必须随之变化。新时代需要新标准。甚至一些以自然秩序为最终理由的文本也支持这一点：自然的基本模式可能不会改变，但随着人类社会的增长和变化，它们的具体应用可以改变。尽管其他对变革的理由更加务实，但《韩非子》可能是最明确的。在这里，我们读到统治者被教导要衡量实施新标准所带来的收益是否超过随之而来的损失；“……如果发现利益将超过损失，就继续前进”（《韩非子》第 47 章）。
+
+《韩非子》也比任何早期文本更清晰地阐明了为什么通过规范统治胜过通过智者和贤者统治。第 40 章通过以下辩证法向读者阐明。我们从被归因于申子的观念开始，即美德和智慧对于善治是不必要的；一切取决于“政治手段（*shi*）”和“地位（*wei*）”。对此，一位批评者回应说，“才能（*cai*）”也是必要的：将权力交给不称职的人，结果将是混乱。结论是：当统治者如此善恶难变，我们将称之为“天性所致”，并将其搁置一旁。但这样的人很少。作者对普通统治者感兴趣，对他们来说，“*shi*”至关重要。因此，最终我们又回到申子的立场，这是对绝大多数统治者唯一可取的立场，也是对所有对作者建议有所作用的统治者而言。
+
+另一个文本的主题是个人与公共、国家利益之间的冲突。我们看到，即使对于有德行的人来说，家庭忠诚通常胜过国家忠诚，因此：
+
+> 由于上下之间的利益差异如此之大，统治者赞扬个人行为的同时，试图确保国家的土地和粮食祭坛上的祝福是没有希望的。(HFZ ch. 49, p. 107)
+
+作者将这解析为“私（*si*）”与“公（*gong*）”观点之间的冲突，并认为这两者是彼此无法调和的。
+
+统治者，特别是，必须注意*gong*和*si*之间的区别。例如，
+
+> … 就统治者而言，他绝不能自私地(*si*)利用他的智慧大臣或能干的人，以免人民受到诱惑，走出他们的社区去结交朋友。(HFZ，第 6 章，第 25 页)
+
+明显的建议是，如果人民密谋反对他，统治者是可以受到责备的。在另一章中，我们读到
+
+> 不听忠臣的劝告，执意一意孤行，最终会毁掉你的良好声誉，并成为他人的笑柄。 (HFZ ch. 10, p. 49)
+
+虽然文中确实有一些部分描绘了统治者和大臣之间的关系是冲突的——因为后者往往只关注自己的私人利益，而忽视了国家更广泛的福祉——但至少这一章鼓励他们之间建立更积极的关系。
+
+## 3. 早期帝国时代
+
+在公元前 221 年，秦国国王征服了最后的对手，并自封为始皇帝，开创了秦朝和中国帝制时代。始皇帝的成功在一定程度上建立在他遵循的类似于《商君书》中的社会和政治观念上，并努力以前所未有的方式在新帝国中推行社会政治标准化和控制。秦朝并没有延续其创始人的时间很长，但随后是长达四个世纪的汉朝，其中确立了许多帝制中国国家和社会的关键特征。汉朝在公元 220 年灭亡后，随之而来是漫长的分裂时期；在这段时期以及随后的隋唐两代，知识分子们对社会政治哲学的关注减少，转而关注精神修养和抽象形而上学的问题：特别是这个时代是中国佛教开始兴盛的时期。虽然当然可以找到社会政治思想（例如参见邱杜克 2000 年），但在本节中专注于汉朝是有意义的。
+
+在社会政治哲学领域，汉代思想家做出了三项主要贡献。首先，他们试图更好地理解和系统化他们从古典时代继承的东西。在某种程度上，他们通过编辑和建立早期文本的标准版本来实现这一点；许多这些现在经典的文本是由汉代学者完成的。这项工作的另一个重要方面是建立分类，以便理解古典时代的作者和辩论。对“学派（*jia*）”的区分，如儒家、墨家、法家（经常被翻译为“法家”）和道家（*daodejia*），来自于汉代学者努力区分早期思想家对治理方法的不同看法（Csikszentmihalyi 2006: xvii；Smith 2003）。汉代的第二个重要贡献在于思想和实践的交汇处：统治者和顾问们实施了各种旨在实现社会政治目标的制度，这些目标建立在对古典思想的综合之上。也就是说，尽管努力区分各种古典学派的思想，但汉代的许多思想和实践是高度综合的，试图协调各学派的见解。这意味着建立一个以法律和其他“标准”以及仪式和统治者的道德品质为基础的国家。汉代皇帝建立了中央教育机构，并开始实行通过考试将才华横溢的学者引入政府的做法（尽管规模远不及后来的宋明理学时代）。
+
+汉代思想家的第三个贡献是他们对国家和社会组织方式以及如何融入更大宇宙的个人哲学思考；我们将简要考虑三个例子。贾谊（公元前 200-公元前 168 年）是一位政治家和思想家，他的折衷哲学思考代表了他所处时代。然而，他最为人所知的是他听起来“儒家”风格的伦理和政治著作。例如，他仔细阐述了太子应该如何接受教育，与严谨正确的人们生活在一起，以获得正确的“第二天性”，就像习得母语一样。随着太子的成长，他必须面对世界的现实和自身的错误：贾谊规定“竖木为吏，人或有过，鼓吏以责”（HCT 第 12-13 页）。贾谊在另一篇文章中详细阐述了所隐含的社会政治秩序愿景，主张虽然普通民众在违反法律等标准时必须受到惩罚，但高级官员应遵守礼仪和道德而非公共法律。这些后者的方法有助于培养羞耻感，内在的道德指南针，进而使官员能够从公开的责备中学习—这是明确合法的—并在法庭上明智裁决（HCT，第 36-37 页）。
+
+汉代社会政治思想的另一个特点是强调“无为（*wuwei*）”。这个术语最为人所知于《道德经》，尽管这个术语以及更广泛地说，非目的性、自发行动的理想在战国思想中很普遍（Slingerland 2003）。在汉代，我们看到它被应用于许多不同的治理方法。《道德经》中心的乌托邦愿景（至少在一种普遍解读中）仍然存在，但更普遍的是将礼仪或法律标准与无为的理念综合起来。例如，一位官员推荐早期圣王的做法，即“制定法律和敕令时，确保[这些法律和敕令]符合人的性情，然后再实施”（HCT，第 60 页）。通过这种方式，人们自然遵循法律，不需要国家明确干预。强调明显标准和无为等理念的文本是很常见的；事实上，《道德经》最早的现存评论被包括为章节—很可能是在汉代被添加到文本中—《韩非子》中，正如我们上面所看到的，后者是基于标准的治理的典范。
+
+最后，汉代许多思想家强调人类活动如何融入并甚至受到宇宙过程和模式的影响。以下是这种自然主义对政治秩序的辩护的一个例子：
+
+五行各按其顺序移动……这就是木主宰生命，金主宰死亡，火主宰热量，水主宰寒冷的原因。人类别无选择，只能按照它们的顺序行事，官员也别无选择，只能按照他们的能力行事。(HCT, p. 178)
+
+在这样的背景下，天文和其他预兆扮演着重要的政治角色，尽管汉代也有著名的怀疑论者，如王充（27 年-100 年），否认它们的重要性。总的来说，我们可以说汉代把一种强调社会政治和谐的规范视觉传承给了中国，甚至包括与宇宙的和谐，这种视觉既有各种客观标准的空间，又有善良统治者和大臣扮演的重要角色。
+
+## 4. 新儒家时代
+
+新儒家时代始于公元 960 年建立的早期宋朝。社会和政治变革的结合为新的社会政治理论创造了肥沃的土壤。唐朝（618-907）社会中社会地位的关键标志是一个人的世系，社会组织大致围绕着类似于国家赞助的贵族制度。为了寻求自身的合法性，新宋朝的领导者决定与一个转变后更多基于教育和功绩主张而非血统的精英阶层合作。精英不再是官方家族，而是成为一个“文人社群”；宋代社会的识字率和出版量远远超过唐代前辈，学者们通常将新精英称为“文人”（Bol 2008: 31-9）。在这片肥沃的土壤中，文人应当反思道路并努力影响他们的社会的观念生根并发芽。
+
+在二十世纪中叶，一系列学者提出了关于新儒家与帝国权力关系的两个紧密相关的命题。第一个是专制论，根据这一理论，帝国权力开始在宋代增长，最终在后来的朝代达到专制水平。第二个是内转论，认为新儒家在政治事务中基本上放弃了参与，特别是在失去中国北方后（Liu 1988）。然而，近几十年来，新的研究已经相当有力地表明，宋代期间官员和文人的权力仍然显著，并且新儒家仍然在政治上积极参与（Bol 2008: 119；Levey 1991: 545f）。然而，政治参与的性质发生了变化。新儒家并非简单地主张内转，更准确地说，他们往往更倾向于支持一种本地化、分权化的治理方式。除此之外，他们开始认识到非国家空间对于在更广泛层面上实现成功变革至关重要。这并不意味着新儒家放弃了教育、引导和侍奉皇帝的努力，明清早期的强势皇帝设法将焦点重新集中在自己身上一段时间。然而，总体而言，新儒家治理理论的重点在现代口号“全球思考，本地行动”中得到了很好的体现。
+
+根据新儒家的观点，治理机构同时在两个层面运作，一个是社会政治层面，另一个是个人层面。在社会政治层面，他们关注在一个充满不完美个体的大国中维持秩序的实际问题。在个人层面，他们关注个体的道德品质。有人可能认为在这两个层面上的运作存在矛盾，因为制定良好的制度和政策需要考虑到人类的不完美，然而全心全意改善个人品质则要求我们超越这些不完美。新儒家持不同意见。对他们而言，社会政治与个人之间的连续性在经典《大学》中得到了最典型的表达：
+
+想要点亮世间一切的美德，古人首先整顿了他们的国家。那些想要整顿国家的人首先整顿了他们的家庭。那些想要整顿家庭的人首先修养了自己。那些想要修养自己的人首先正心修身。那些想要正心修身的人首先使意诚。那些想要使意诚的人首先通达。通达在于研究事物。（《大学》4）
+
+我们可以理解这段文字描述的连续性为一系列按时间顺序连接的步骤：首先研究事物，然后通达，然后使意诚，依此类推，最终整顿国家。但实际上，新儒家倾向于将这些步骤视为相互构成的：研究事物就是通达，通过个人修养的行为来规范家庭，有秩序的家庭是国家整顿的一部分。个人修养与社会政治秩序之间的内在关系体现在经常使用的口号“内圣外王”中：伦理道德和治理是同一枚硬币的两面。换句话说，社会政治秩序意味着对国家人民以及他们的领导者进行伦理转化；用文本的语言来说，这就是“点亮世间一切的美德”。
+
+几乎没有例外，新儒家接受世袭君主制作为他们的政府形式。然而，这并不意味着所有君主自动享有充分的合法性。早在唐代的后半期，儒家和佛教学者已经开始声称，适当的道德或精神教导是以家族传承的方式传承下来的。韩愈（768–824）声称，儒家“道”的传承已经失传了许多个世纪；北宋新儒家的先驱们认为，只有在他们这一代人中，这条道才得以恢复。换句话说，从一个君主到另一个君主的合法继承并不保证个别统治者——甚至他们的整个王朝——都在遵循这条道。朱熹（1130–1200）在他说“道统”传承给那些能够领悟早期圣人经典中蕴含的深刻真理的人时，将这一观念表达得最有影响力。根据这一观点，最早的圣人既领悟了道又统治了，但随着时间的推移，统治者们失去了与道德之道的联系。孔子和孟子等少数伟大的导师理解了道并试图引导他们的社会走向正确的方向，尽管他们不是统治者，但最终道的传承在程朱时代得以恢复（程颢[1032–1085]和程颐[1033–1107]）。
+
+这种道统可以脱离更为表面的王权继承的观念有许多重要的含义，特别是当结合治理在两个层面运作的观点时（维护社会秩序和实现道德转化）。新儒家从古代经典借来一个术语，认为一个成功维持秩序但未能实现更广泛转化的统治者只是一个“霸主”，而不是真正的“君王”。成为霸主当然比成为残暴的暴君要好，但即使是成功的霸主仍然需要向更伟大的目标努力。与此同时，通往这些更伟大成就的守门人是那些已经获得道统的学者。因此，根据这种思维方式，君主必须接受士人领袖应该成为他们的老师甚至共同统治者，或者君主的中央权威应该受到限制，以便道德修养的士人可以主宰地方事务。在新儒家时期，士人在主张源自道统的权威方面取得了不同程度的成功。
+
+### 4.1 派别与政治独立
+
+威廉·德巴里（William de Bary）是新儒家中最有影响力的西方学者之一，他说，儒家思想的一个重要“问题”是，它对儒家君子（*junzi*）提出了巨大的道德要求，却没有提供政治权力来实现这些要求。君子肩负着培育仁慈君主和塑造符合公共福祉的社会和政治制度的责任，但儒家也致力于一个几乎不给予君子足够杠杆的系统来完成这些艰巨任务。他们以各种方式削弱了自己的影响力，其中一些方式是显而易见的（儒家接受强大且在很大程度上不受限制的君主政府），而另一些方式则更为微妙。德巴里认为，削弱儒家自身权力的一种方式是拒绝迎合特定的选民团体或派别，站在正确和公共利益的一边，而不是与盟友或便利的朋友站在一起。他们的弱点在于
+
+> 在他们无力或无法建立自己的任何权力基础时……除了在罕见的、短暂的时刻，他们面对的是国家，以及在皇室中控制它的人，作为没有组织党派或积极选民支持的个人学者。(de Bary 1991: 49)
+
+的确，毫无疑问，儒家大臣的角色是复杂的，而且经常令人困扰。本节突出了其关键维度之一。
+
+让我们从一些背景开始。从晚典型时期一直到早期的宋代，“派系”（*pengdang*）这个术语总是带有贬义，指的是那些旨在利用他们在政府中的角色来促进自己私利的“小人”协会。甚至在更早的文本中，对“派系”这一理解有一定程度的支持，但对我们而言重要的是，早期文本（如孔子的《论语》）中的一些段落也表明，君子可以结成协会，只要他们不以党派方式行事（Levine 2008: 25–6 和 34–5; LY 12:24）。在北宋政治和思想争论的激烈中，一个关键问题浮出水面，那就是平等者之间的水平关联在任何情况下是否合适，或者忠诚的唯一轴线是垂直的，从个人向上到统治者（以及进一步，到道或宇宙模式*tianli*）。
+
+我们可以确定这个问题有三种不同的立场。最常见的是长期以来认为派系和派系主义是自我为中心的领域；相比之下，优秀的人是个人忠诚的。对此的激进替代观点是欧阳修（1007–1072）最有力地提出的主张，他认为真正的派系——他理解为长期组织起来追求共同利益的团体——只能由优秀的人形成。小人物的关联只是为了个人利益而暂时形成（Levine 2008: 47–56；欧阳的文章见于德巴里和布鲁姆 1999）。欧阳关键地补充说，真正优秀的人会团结在共同的道路（*tongdao*）周围，因此在统治者的朝廷上的争吵不可避免地被视为自我为中心的迹象。最后，第三种立场赞同第一种观点，将“派系”用作忽视共同利益的自私团体的术语，但同意第二种观点，即优秀的人可以并且应该相互合作，以促进彼此的提升：“当优秀的人修养自己并调节他们的心灵时，他们的道路是与他人合作的道路”（Levine 2008: 58）。因此，根据这第三种立场，虽然优秀的人不应在朝廷上参与派系争斗，但他们应该共同努力修养自己并追求共同利益。
+
+那么，在实践中应该如何处理派系问题，以及关于部长间分歧的问题呢？同样，有三种主要立场。那些认为优秀的人应该个人忠诚的人倾向于主张统治者应该尽力消灭所有派系。这一观点的一个有力论据是，即使有一派优秀的人，他们也会被自私派系所占多数；派系主义本身是破坏性的，因此应该被根除（Levine 2008: 46–7）。欧阳修的激进观点认为，真正的优秀人的派系可以被识别出来，他们的一致声音——毕竟是围绕追求共同利益而统一的——应该被听取。小人物的虚假派系应该被镇压。第三种观点最后承认，派系主义似乎是不可避免的，并呼吁一个强大而明智的统治者，他能够鼓励垂直忠诚，并在竞争的部长论点之间做出裁决。通过以这种方式依赖统治者，这第三种观点能够始终坚持认为，优秀的人不需要自己组成部长派系，尽管他们应该合作，以促进相互的道德发展。
+
+在他所处的时代，欧阳修的激进观点并未取得胜利，但随着时间推移，在新儒家中普遍流传起来的观念是存在一个真正的派别。朱熹鼓励他的同时代人支持建立这样一个“优秀人士的派别”，加入其中，甚至让皇帝自己成为这个派别的一部分。对于朱熹来说，正是这个优秀人士的派别——那些掌握了“道统”的人——在社会中拥有最终的合法性，因此即使皇帝也需要接受适当的教育，以便努力加入这个群体。朱熹明确表示，保持派别中人的道德纯洁至关重要；“如果有恶人和邪恶之徒，那么你们应该将他们彻底驱逐出去”（WJ 卷 21，第 1244 页）。类似观点也可以在新儒家最著名的派别东林的领导人中找到。这个明末时期的运动是多方面的，包括广泛的伦理复兴运动、一个国家性的儒家“道德团结”以及北京的一个官僚派别；整个运动以其在中国南部由私人资助的东林书院为机构基础而得名（Dardess 2002）。东林派别竭尽全力推动其事业，他们坚信自己在进行一场善良和为公的斗争，对抗邪恶和以自我为中心的人。东林党人助长了一种有毒的政治氛围，双方都在妖魔化对手。斗争的关键时刻是当一个东林人物发布一份公开文件，明确指控一位领导宫廷的人品行不端。用一位现代学者的话来说，这份文件是用“道德恐怖主义的语言”写成的：这种语言是毫不妥协的，“情感被激发到最高程度”（Dardess 2002：71）。不久之后，发生了一场猛烈的反击，关键的东林人物被逮捕、拷打和杀害，书院被夷为平地，运动被粉碎。
+
+对于新儒家关于派别的观念，有三点观察是必要的。首先，回到德巴里关于“儒家问题”的概念，我们从本节开始时就提到过，新儒家的原则使得合适的儒家官员难以建立自己的权力基础，部分原因是因为他们不应该对团体有特殊的承诺或忠诚。其次，即使忠诚的主要轴线是垂直的（对皇帝、公共利益以及更抽象的道等），水平的团结与新儒家关于修身的关键方面非常契合，比如一个人的社区在培养道德“承诺”方面所起的作用。在这种光线下，鉴于“唯一真正派别”观点可能导致的极端，可以诱人地得出结论，上述第三种派别观是最有吸引力的。最后，近年来的学者对新儒家关于派别的观点意义存在分歧。一位学者认为
+
+> 如果儒家士大夫能够通过合法化的派别组织（如东林书院）将他们的地方影响力传递到省级和国家级，那么可以想象，会释放出什么样的政治力量进入儒家政治文化；
+
+他继续提出了一个与“西方对抗绝对君主制并走向议会制度的趋势”(Elman 1989: 389)相类似的观点。相比之下，另一位学者认为
+
+> 东林事件并非某种可能未来议会民主的前兆。东林儒家思想从根本上是君主主义和专制主义的。(Dardess 2002: 7)
+
+### 4.2 制度论与以人为中心的治理理论
+
+最基本的，中国在宋明理学时代的政府结构分为四个部分：(1) 皇帝、皇室家族和像太监这样的内廷侍从；(2) 外廷大臣、官僚机构和为官僚机构提供人员的士族家庭；(3) 普通百姓；以及(4) 帮助塑造(1)–(3)相互作用方式的制度。宋明理学时代的一个重要争论是关于制度的相对重要性或优先级。这场争论呈现多种形式，但归根结底是对支撑有序社会结构的两种理解方式之间存在紧张关系的感知。一种看法认为制度及其组成部分（传统、规则和法规等）更为基础。另一种看法认为指导和属于这些制度的人，特别是这些人的品格（理解为才能和道德倾向的结合）更为基础。哲学家在这个问题上的立场可以帮助解释他们在治理问题上的其他关键问题上的立场。那些倾向于认为制度更为基础的人更倾向于将法律和监管改革视为解决大规模问题的主要途径。那些认为人的品格更为基础的人通常认为解决这类问题的方法在于道德修养和转变（特别是皇帝本人的）。在一定程度上，前者认为制度应设计为考虑到人类的缺陷和不足，以便国家不需要大量人民具备美德才能创造社会秩序，而后者则担心为有缺陷的人设计的制度将在某些层面上抑制使政府真正变革的那种自我提升。为便于参考，让我们使用术语“以人为中心”和“制度主义者”来指代这两种立场。
+
+在一个略显简化的历史描述中，大多数宋明理学者主张以人为中心的政治理论，认为人们的道德修养而不是制度改革是恢复社会秩序最可行的手段。据说这就是上文所述“内在转向”的导火索，鼓励个人放弃对国家治理的兴趣，转而专注于自身道德的自我提升。这种历史版本并非完全误导。南宋的宋明理学者经常将北宋的覆灭归咎于其在制度改革方面的失败实验，尤其是制度主义思想家兼政治家王安石（1021–1086）的实践。而最著名的宋明理学哲学家往往更倾向于发表与以人为中心理论更一致的言论，包括程颢、程颐、王阳明等人。
+
+但事实要复杂得多，也更具哲学意义。从宋朝一直到清朝，新儒家中有许多对“经世”感兴趣的思想家。到了明末清初，“经世”开始几乎可以描述任何可用于国家实际运作的方法或技术，被广泛解释为包括数学和历史在内。但在早期新儒家中普遍的较狭义解释中，它指的是一个旨在通过制度改革而不是通过性格的巨大转变来解决社会问题的哲学立场。学者们有时将这些思想家描述为属于“经世学派”，其中包括陈亮（1143–1194）和叶适（1150–1223）等宋代哲学家，以及明代新儒家王廷相（1474–1544）（牛根生 1998 年；蒂尔曼 1982 年；王宪 2006 年）。它还包括那些经历明朝灭亡和清朝兴起的有改革意识的新儒家，如顾炎武（1613–1682）和黄宗羲（1610–1695）。即使对于更以人的性格为中心的儒家来说，说人的性格比制度更为根本意味着什么也存在争议。
+
+要理解由此产生的辩论的微妙之处，有助于从回想古典儒家哲学家荀子开始，他以捍卫以人的性格为中心的观点而闻名；如上所述，他认为“有治乱者，无自治者”。对荀子观点的讨论为新儒家提供了发展新解释的机会，解释人的性格如何可能优先于制度。胡宏（1106–1161）做出了一个至关重要的阐述。在胡的观点中，人们在治理的解释秩序中以两个层面参与其中：首先，他们是实施规则和法规的人。在这个层面上，胡的分析紧随荀子，强调法律的必要模糊性，以及需要懂得系统性地理解各项法律的熟练的官员。但第二，人们也是在规则不适应情况时修正规则的人。也就是说，人类治理不仅是作为执行者，也是作为创制者：
+
+> 荀子说，“有治乱者，无自治者”。我谨提出，我们可以通过类比来说明这一点，即在一段混乱时期之后想要恢复秩序，就像试图乘船渡过河流或湖泊一样。规则就像船，人们（即统治者及其官员）就像舵手。如果船受损，舵被损坏，那么即使（舵手）拥有看似神奇的技术，每个人都明白船是无法渡过的。因此，每当出现大混乱时，有必要改革规则。从未有过成功恢复秩序而不改革规则的案例。（HHJ 第 23–24 页）
+
+简而言之，对于胡来说，人们对成功治理的功劳不仅在于正确引导机构，还在于创造和修改治理基础规则。功劳不仅归于舵手，也归于造船工。
+
+虽然人类的自由裁量权可能使有才华和品德良好的人更新规则或在不同情境下以不同方式应用规则，但也可能使缺乏才华和品德的人滥用规则。在这些情况下，有助于设定限制滥用权力和领导权的规则，要求领导者遵守规则。最有力地支持这一观点的哲学家是明末清初的黄宗羲。在一篇名为《论原罚》的卓越文章中，黄宗羲认为我们应该区分合法和非法的标准，非法的标准之所以被区分出来，是因为它们主要是为了服务统治者的利益而被创造或修改的。黄宗羲说，规则之所以合法，是因为它们被设计的目的，而不仅仅是传统或尊重创造这些规则的祖先的责任。当规则被设计时考虑到人民的利益，它们往往是宽松和开放的，因为它们的目的不仅是控制人类行为，还包括培养美德。如果人们的有序行为是自愿的而不是受到威胁的，他们更有可能培养出美德品质，如果他们在保护自身利益的规则体系下成长，他们也更有可能自愿行动。具有讽刺意味的是，自私权威的规则需要越来越严格。因为它们严重依赖强制手段，并且违背普通人的福祉，政策制定者不得不制定一系列规则来管理人类行为，然后制定第二层规则来建立执行第一层规则的机构，再制定第三层规则来执行第二层规则，依此类推。结果是，这种体制比循行者原则的支持者设想的要缺乏灵活性和自由裁量权得多（YF p. 317）。
+
+### 4.3 总结思考
+
+根据大多数新儒家的观点，尊崇皇帝意味着对皇帝角色的仪式尊重和对皇帝合法权威的服从，但并非无条件忠诚于统治者无论其言行如何。最终的忠诚应归于道，新儒家也用“天理”一词来讨论这一概念，即万物的最终和谐。新儒家生活在一个公共文化中，在这个文化中，至少原则上，人们期望大臣们通过勇敢地指出缺陷并规劝君主来展示他们的忠诚。许多新儒家，包括朱熹在内，默默地或不情愿地承认存在一些情况下，人们不应服从自己的皇帝，大概是在劝阻误入歧途的统治者的所有尝试都耗尽之后（Schirokauer 1978: 141–43）。我们在上文讨论的东林事变中已经看到了一些这种情况；还有许多其他情况，大臣们，无论是个人还是集体，试图斥责或改革一个错误的统治者。这些争议通常围绕仪式事项展开，因为通过仪式表达的人际关系的稳定对于社会和宇宙的整体和谐至关重要。在新儒家时代的大部分时间里，政治行为者也发现有必要通过对古典文本的引用来证明他们的提议，因此，一位当代学者因此主张这些文本在某种程度上起到了“宪法”作用（Song 2015）。尽管文人以各种方式在一定程度上限制统治者的选择，统治者的权力仍然是至关重要的。尽管深信和谐依赖于人民的幸福是毫无疑问的，这无疑使农民过上了比他们本来可能更好的生活，但最终，新儒家社会政治思想只给予他们一种政治出路：起义（Angle 2009: ch. 10）。
+
+## 5. 现代时代
+
+清朝最后几年（1911 年垮台），在国内挑战和外国政治哲学的双重刺激下，政治思想蓬勃发展。1917 年的俄国革命进一步助长了火势，此时，新生的中华民国正与内外威胁作斗争。政治权威的性质和来源再次成为争论的话题。许多人现在认为，目标是某种“民主”，在这种民主中，人民（至少在原则上）是主权者。但是，谁被视为“人民”，他们如何被引导或代表，以及如何平衡集体与个人目标，所有这些都有待商榷。在更广泛的层面上，存在着一场辩论，一方认为答案在于某种“主义”——即，像马克思主义这样的一揽子意识形态，另一方则更倾向于更务实地通过建立制度逐个解决“问题”。几十年后，在建立人民共和国之后，类似的问题在“红色”（意识形态和道德纯洁）与“专家”（具有技术专长）之间的对比中得到解决。以各种方式，这些二十世纪的辩论与古典和新儒家之间关于以制度为中心还是以品德为中心的治理理论之间的争论相呼应。道德高尚的个人是理想社会的关键吗？还是应该以客观的成功标准，结合客观的制度，作为社会的政治基础？在冲突情况下，哪个更为重要？
+
+当然，二十世纪中国政治格局中的各个群体，从“新儒家”到民族主义者、自由主义者到马克思主义者，对这些问题都没有提出单一答案。然而，“主义”方法在整个世纪的大部分时间里占据上风，托马斯·梅茨格（Thomas Metzger）表明，各阵营的中国政治思想家倾向于他所称的“认识论乐观主义”，即相信普遍适用的道德和政治真理是可以被认知的，因此应该赋予那些有能力洞察这一真理的有才华的个人极大的权威（Metzger 2005）。另一种表达方式是说，二十世纪中国政治思想中存在着强烈的乌托邦倾向，这一倾向推动了激进解决方案的出现，并导致对持续的不和谐或零碎进展感到不满。甚至中国自由主义者在许多情况下也设想了和谐的社会，其中个人自我实现与更大集体的实现相辅相成，他们通常称之为“更大的自我（*dawo*）”（Zarrow 2021）。
+
+在二十世纪，一些哲学家比其他人更意识到乌托邦主义的问题。牟宗三（1909–1995），新儒家运动的领袖，不仅意识到了这一点，而且提出了一个特别富有创造性的解决个人美德（或道德）与公共标准（或政治）之间反复紧张关系的方法。牟的洞见是，道德与政治之间的关系是“辩证的”。牟认为，政治领袖的政治美德不应直接延伸自其个人的道德美德，而是二者之间需要有一种间接关系。政治和政治美德必须源于道德，但仍然具有独立的客观存在。这意味着，例如，人权必须有道德基础，但却要按照与道德标准分离的标准来衡量。反之亦然：完全的道德美德要求部分“自我刊限”，即客观结构（Mou 1991: 59）。客观结构（如法律）与主观感受、内化的道德根本不同，我们都应该个别努力追求后者。这意味着，无论一个人的道德成就达到何种程度，
+
+> 只要一个人的美德在政治中得以体现，就不能超越相关限制（即政治世界的最高原则），实际上必须将自己崇高的品格奉献给这些限制的实现。（Mou 1991: 128）
+
+简言之，圣人不能违法或违反宪法。因此，政治在道德之外拥有独立性。
+
+哲学家们对牟的论点评价不一，但它可以作为当代中国政治思想中持续创造力的一个例证（Angle 2012）。中国充满活力的社会为新观念和新政治形式的形成和检验提供了一个坩埚，未来几年将会得到验证。可以肯定的是，真正新颖和具有挑战性的观念并不在当代中国政治话语中占主导地位，但它们仍然存在于整个政治光谱中。强大的政治价值观和制度是否会成为西方政治理论家熟悉的模式的替代方案，还有待观察，正如我们还无法预见马克思主义、儒家、自由主义和其他传统在未来中国政治思想中将发挥何种作用。对和谐与美德的关注不太可能消失，但（正如牟的例子所示），这并不意味着中国未来政治制度和理论的兴趣会受到限制。
+
+## Bibliography
+
+### Primary Texts
+
+| [DDJ] | *Dao De Jing*; see the entry on [Laozi](https://plato.stanford.edu/entries/laozi/). |
+| --- | --- |
+| [GL] | *Greater Learning*: for a translation, see Wing-tsit Chan, *A Sourcebook in Chinese Philosophy*, Princeton: Princeton University Press, 1963. |
+| [GZ] | *Guanzi*; for a translation see W. Allyn Rickett (ed. and trans.), *Guanzi: Political, Economic, and Philosophical Essays from Early China*, Princeton: Princeton University Press, 1985. |
+| [HCT] | *Readings in Han Chinese Thought*, Mark Csikszentmihalyi (ed. and trans.), Indianapolis: Hackett Press, 2006. (Cited texts include Jia Yi, “Protecting and Tutoring” and “The Platform Steps”; Chao Cuo, “Responses to an Imperial Edict”; and Dong Zhongshu, “The Meaning of the Five Phases.”) |
+| [HFZ] | *Han Feizi*; for a translation, see *Han Fei Tzu: Basic Writings*, Burton Watrson (trans.), New York: Columbia University Press, 1964; and see the entry on [Legalism in Chinese Philosophy](https://plato.stanford.edu/entries/chinese-legalism/). |
+| [HHJ] | *Hu Hong Ji*; Hu Hong 胡宏, 《胡宏集》 [Collected Works of Hu Hong], Beijing: Zhonghua Shuju, 1987. |
+| [LY] | *Lunyu* (*Analects*); for a translation, see *The Original Analects*, E. Bruce and A. Taeko Brooks (eds. and trans.), New York: Columbia University Press, 1998; see the entry on [Confucius](https://plato.stanford.edu/entries/confucius/). |
+| [MC] | *Mencius* (or *Mengzi*); see the entry on [Mencius](https://plato.stanford.edu/entries/mencius/). |
+| [MZ] | *Mozi*: for a translation, see *The Mozi: A Complete Translation*, Ian Johnston (trans.), New York: Columbia University Press, 2010; see the entry on [Mohism](https://plato.stanford.edu/entries/mohism/). |
+| [SBH] | Shen Buhai; Cited from the collection of fragments: Herrlee G. Creel, *Shen Pu-hai: A Chinese Political Philosopher of the Fourth Century B.C.*, Chicago: University of Chicago Press, 1974. |
+| [SJS] | *Book of Lord Shang*: for a translation, see Yuri Pines (ed. and trans.), *The Book of Lord Shang: Apologetics of State Power in Early China*, New York: Columbia University Press, 2017; see the entry on [Legalism in Chinese Philosophy](https://plato.stanford.edu/entries/chinese-legalism/). |
+| [WJ] | Zhu Xi’s *Wenji* (Collected Writings); Zhu Xi 朱熹, 《朱 子全書》 [*Complete Works of Master Zhu*], Shanghai and Hefei: Shanghai Guji chubanshe and Anhui Jiaoyu chubanshe, 2002; see the entry on [Zhu Xi](https://plato.stanford.edu/entries/zhu-xi/). |
+| [XZ] | *Xunzi*; for a translation, see *Xunzi: The Complete Text*, Eric L. Hutton (trans.), Princeton: Princeton University Press, 2014; see the entry on [Xunzi](https://plato.stanford.edu/entries/xunzi/). |
+| [YF] | Huang Zongxi’s “Yuan Fa” (“On Standards”); for a translation, see Huang Zongxi, “On Law”, in Justin Tiwald and Bryan W. Van Norden (ed.), *Readings in Later Chinese Philosophy: Han Dynasty to the 20th Century*, Cambridge: Hackett, 2014, 315–18. |
+| [ZZ] | *Zhuangzi*; for a translation, see *Zhuangzi: The Essential Writings*, Brook Ziporyn (trans.), Indianapolis: Hackett Press, 2009; see the entry on [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/). |
+
+### Secondary Texts
+
+* Allan, Sarah, 1984, “Drought, Human Sacrifice and the Mandate of Heaven in a Lost Text from the *Shang shu*”, *Bulletin of the School of Oriental and African Studies*, 47(3): 523–39.
+* Angle, Stephen C., 2009, *Sagehood: The Contemporary Significance of Neo-Confucian Philosophy*, New York: Oxford University Press.
+* –––, 2012, *Contemporary Confucian Political Philosophy: Toward Progressive Confucianism*, Cambridge, UK: Polity Press.
+* ––– and Justin Tiwald, 2017, *Neo-Confucianism: A Philosophical Introduction*, Oxford: Polity Press.
+* Bai, Tongdong, 2012, *China: The Political Philosophy of the Middle Kingdom*, London: Zed Books.
+* Bol, Peter K., 2008, *Neo-Confucianism in History*, Cambridge: Harvard University Asia Center.
+* Brooks, E. Bruce and A. Taeko Brooks (trans. and ed.), 1998, *The Original Analects: Sayings of Confucius and His Successors*, New York: Columbia University Press.
+* Chiu-Duke, Josephine, 2000, *To Rebuild the Empire: Lu Chih’s Confucian Pragmatist Approach to the Mid-T’ang Predicament*, Albany: State University of New York Press.
+* Creel, Herrlee G., 1974, *Shen Pu-hai: A Chinese Political Philosopher of the Fourth Century B.C.*, Chicago: University of Chicago Press.
+* Csikszentmihalyi, Mark, 2006, *Readings in Han Chinese Thought*, Indianapolis: Hackett.
+* Dardess, John W., 2002, *Blood and History in China: The Donglin Faction and Its Repression, 1620–1627*, Honolulu: University of Hawai‘i Press.
+* de Bary, William Theodore, 1991, *The Trouble with Confucianism*, Cambridge: Harvard University Press.
+* de Bary, William Theodore and Irene Bloom (eds.), 1999, *Sources of Chinese Tradition, vol. 1*, (2nd edition), New York: Columbia University Press
+* El Amine, Loubna, 2015, *Classical Confucian Political Thought: A New Interpretation*, Princeton: Princeton University Press.
+* Elman, Benjamin A., 1989, “Imperial Politics and Confucian Societies in Late Imperial China: The Hanlin and Donglin Academies”, *Modern China*, 15(4): 379–418.
+* Fraser, Chris, 2016, *The Philosophy of the Mòzĭ: The First Consequentialists*, New York: Columbia University Press.
+* Harris, Eirik L., 2016, “Xunzi’s Political Philosophy”, in Eric Hutton (ed.), *Dao Companion to the Philosophy of Xunzi*, Dordrecht: Springer, pp. 95–138.
+* Henricks, Robert G., 2000, *Lao Tzu’s “Tao Te Ching”: A Translation of the Startling New Documents Found at Guodian*, New York: Columbia University Press.
+* Hsiao, Kung-chuan, 1979, *A History of Chinese Political Thought. Volume 1: From the Beginnings to the Sixth Century A.D.*, Frederick W. Mote (trans.), Princeton: Princeton University Press.
+* Kim, Sungmoon, 2020, *Theorizing Confucian Virtue Politics: The Political Philosophy of Mencius and Xunzi*, Cambridge: Cambridge University Press.
+* Levey, Matthew, 1991, “Chu Hsi as a ‘Neo-Confucian’: Chu Hsi’s Critique of Heterodoxy, Heresy, and the ‘Confucian’ Tradition”, PhD dissertation, University of Chicago.
+* Levine, Ari Daniel, 2008, *Divided by a Common Language: Factional Conflict in Late Northern Song China*, Honolulu: University of Hawai‘i Press.
+* Liu, James T.C., 1988, *China Turning Inward: Intellectual-political changes in the early twelfth century*, Cambridge: Harvard University Press.
+* Metzger, Thomas A., 2005, *A Cloud Across the Pacific: Essays on the Clash Between Chinese and Western Political Theories Today*, Hong Kong: Chinese University of Hong Kong Press.
+* Mou Zongsan 牟宗三, 1991, 《政道與治道》 [*Authority and Governance*], Taipei: Xuesheng Shuju.
+* Niu, Pu, 1998, “Confucian Statecraft in Song China: Ye Shi and the Yongjia School”, PhD. dissertation, Arizona State University.
+* Ong, Chang Woei, 2006, “The Principles are Many: Wang Tingxiang and Intellectual Transition in Mid-Ming China”, *Harvard Journal of Asiatic Studies*, 66(2): 461–93.
+* Pines, Yuri, 2012, *The Everlasting Empire: The Political Culture of Ancient China and Its Imperial Legacy*, Princeton: Princeton University Press.
+* Schirokauer, Conrad, 1978, “Chu Hsi’s Political Thought”, *Journal of Chinese Philosophy*, 5: 127–48.
+* Slingerland, Edward, 2003, *Effortless Action: Wu-Wei as Conceptual Metaphor and Spiritual Ideal in Early China*, Oxford: Oxford University Press.
+* Smith, Kidder, 2003, “Sima Tan and the Invention of Daoism, Legalism, et cetera”, *Journal of Asian Studies*, 62(1): 129–56.
+* Song, Jaeyoon, 2015, *Traces of Grand Peace: Classics and State Activism in Imperial China*, Cambridge, MA: Harvard University Press.
+* Tillman, Hoyt Cleveland, 1982, *Utilitarian Confucianism*, Cambridge, MA: Council on East Asian Studies.
+* Tiwald, Justin, 2008, “A Right of Rebellion in the *Mengzi*?”, *Dao: A Journal of Comparative Philosophy*, 7(3): 269–82.
+* Wilson, Thomas A, 1995, *Genealogy of the way: the construction and uses of the Confucian tradition in late imperial China*, Stanford, CA: Stanford University Press.
+* Zarrow, Peter, 2021, *Abolishing Boundaries: Global Utopias in the Formation of Modern Chinese Political Thoughts, 1880–1940*, New York: State University of New York Press.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-social-political). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/chinese-social-political/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=chinese-social-political&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/chinese-social-political/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Warp, Weft, and Way: Chinese and Comparative Philosophy](http://warpweftandway.com/), with [numerous contributors](http://warpweftandway.com/contributors/).
+* [Modern Chinese Political Thought](http://www.oxfordbibliographies.com/view/document/obo-9780199920082/obo-9780199920082-0083.xml) an Oxford Bibliography online, by Leigh Jenco (LSE).
+* [Chinese Political Philosophy](http://philpapers.org/browse/chinese-political-philosophy), bibliography at philpapers.org, maintained by Shaojin Chai (University of Notre Dame).
+
+## Related Entries
+
+[Chinese Philosophy: ethics](https://plato.stanford.edu/entries/ethics-chinese/) | [Chinese Philosophy: legalism in](https://plato.stanford.edu/entries/chinese-legalism/) | [Chinese Philosophy: Mohism](https://plato.stanford.edu/entries/mohism/) | [Chinese Philosophy: translating and interpreting](https://plato.stanford.edu/entries/chinese-translate-interpret/) | [Confucius](https://plato.stanford.edu/entries/confucius/) | [Laozi](https://plato.stanford.edu/entries/laozi/) | [Mencius](https://plato.stanford.edu/entries/mencius/) | [Wang Yangming](https://plato.stanford.edu/entries/wang-yangming/) | [Xunzi](https://plato.stanford.edu/entries/xunzi/) | [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/) | [Zhu Xi](https://plato.stanford.edu/entries/zhu-xi/)
+
+### Acknowledgments
+
+The section of this entry on Neo-Confucian socio-political thought is drawn in significant part from on-going collaborative work on Neo-Confucianism that I am undertaking with Justin Tiwald, and I gratefully acknowledge both his influence on my understanding of these matters, and his willingness to allow me to use some of our joint findings here.
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+Stephen C. Angle <[*sangle@wesleyan.edu*](mailto:sangle%40wesleyan%2eedu)>
