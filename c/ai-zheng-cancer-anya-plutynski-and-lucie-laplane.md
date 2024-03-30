@@ -1,6 +1,6 @@
 # 癌症 cancer (Anya Plutynski and Lucie Laplane)
 
-*首次发表于 2019 年 5 月 7 日星期二；实质性修订于 2023 年 10 月 23 日星期一*
+_首次发表于 2019 年 5 月 7 日星期二；实质性修订于 2023 年 10 月 23 日星期一_
 
 癌症是全球主要的健康问题；它是导致死亡的主要原因之一，除了少数例外，发病率和死亡率一直在稳步增加（WHO，2020）。也许并不令人惊讶，癌症是生物医学研究的中心话题，每年吸引数十亿美元的投入。2019 年，美国国家癌症研究所（NCI）拨款 57.4 亿美元的联邦资金，比 2018 年增加了 7900 万美元（NCI，2019—请参阅其他互联网资源）。在 PubMed 中搜索“癌症”一词返回了三百多万条结果。
 
@@ -27,13 +27,13 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/cancer/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/cancer/#Rel)
 
----
+***
 
 ## 1.定义和分类癌症
 
 什么是癌症？癌症是一种疾病，还是多种疾病？如果是多种，那么有多少种癌症？人们可能认为这些问题仅仅是经验性的。然而，事实证明，定义和分类癌症不仅仅是基于经验的原因而存在争议。至少有两个更广泛的哲学问题涉及其中。首先，在如何表征疾病、区分疾病和健康以及因此一般分类疾病方面，几乎没有达成一致意见（参见[健康和疾病概念](https://plato.stanford.edu/entries/health-disease/)条目）。其次，癌症表现出使得生成分类变得困难的特征；它们是异质的，并且在其病因和病程中变化多端。在第 1.1 节中，我们将考虑面临癌症分类挑战的固有异质性，而在第 1.2 节中，我们将考虑面临癌症分类挑战的病程变化。
 
-*Prima facie*，区分疾病的是典型症状、疾病病程和共同原因。然而，癌症可能在临床上没有可检测的症状，病程不确定，并且是一种多因素疾病。很难找出一个对于一般癌症唯一必要的“因果瓶颈”，更不用说每种癌症类型和亚型了。虽然通常通过其起源细胞来对癌症进行分类——或者说它们起源的组织、器官和细胞类型（例如，皮肤或卵巢的鳞状细胞癌），但事实证明，癌症可能包含不同起源细胞的混合体，并且在相同的细胞或组织中产生的癌症可能具有非常不同的特征，可能以不同方式演变，并且对治疗的脆弱性也不同（Marusyk 等，2012 年）。那么，我们如何对这些表现不佳的种类进行分类呢？这些难题使研究人员开始思考是否每种癌症都有独特的遗传或分子“特征”，可以帮助我们估计病程风险或复发机会，以及预测对治疗的反应。也许这些分子特征是癌症类型和亚型的自然分类的关键？
+_Prima facie_，区分疾病的是典型症状、疾病病程和共同原因。然而，癌症可能在临床上没有可检测的症状，病程不确定，并且是一种多因素疾病。很难找出一个对于一般癌症唯一必要的“因果瓶颈”，更不用说每种癌症类型和亚型了。虽然通常通过其起源细胞来对癌症进行分类——或者说它们起源的组织、器官和细胞类型（例如，皮肤或卵巢的鳞状细胞癌），但事实证明，癌症可能包含不同起源细胞的混合体，并且在相同的细胞或组织中产生的癌症可能具有非常不同的特征，可能以不同方式演变，并且对治疗的脆弱性也不同（Marusyk 等，2012 年）。那么，我们如何对这些表现不佳的种类进行分类呢？这些难题使研究人员开始思考是否每种癌症都有独特的遗传或分子“特征”，可以帮助我们估计病程风险或复发机会，以及预测对治疗的反应。也许这些分子特征是癌症类型和亚型的自然分类的关键？
 
 ### 1.1 癌症的内在异质性
 
@@ -55,7 +55,7 @@
 
 相比之下，虽然 Broadbent（2009 年，2014 年）、Williams（2011 年）和 Khalidi（2013 年）认为像癌症这样的疾病缺乏基本属性，疾病分类是自然分类，因为它们指出了与正常功能能力的明显“偏差”或稳态属性簇。Broadbent（2009 年，2014 年）的“对比”疾病分类模型认为疾病在独特原因的光下是不同的。只要“对照组”和“病例”共享的一组原因中至少有一个差异（其中病例具有与正常功能能力“偏离（负面）”的独特“部分和过程”），我们就有一个不同的疾病。Broadbent 认为这一解释可以解释为什么“宫颈癌是一种疾病，但 HPV 炎不是”。尽管如此，这个案例引发了一个有趣的问题，即潜在的而非明显的功能障碍是否更核心于疾病分类。在公共卫生背景下，控制“无症状”或潜在的功能障碍状态通常很重要。目前不会导致癌症的 HPV 菌株很可能会进化出引发癌症的能力。因此，也许从公共卫生的角度来看，“HPV 炎”是一个完全合法的疾病类别，以便部署限制 HPV 传播的干预措施。也就是说，从预防医学的角度来看，重要的是疾病类别是否适合预测和干预，即使功能紊乱并非总是（甚至大多数情况下都不是）会发生。我们在划分疾病类型时应该做出哪种分类选择可能不仅取决于我们有兴趣在回顾性解释中解释哪种对比，还取决于我们希望在前瞻性中促进哪种干预。
 
-Khalidi（2013 年）认为癌症可能是一种稳态属性簇类型，因为癌症是由“稳态”机制驱动的，即对“看护者”基因的突变，或者在防止或允许肿瘤出现方面发挥“守门人”角色的基因。根据这一观点，对特定“看护者”基因的突变的获取发挥了类似于 Boyd（1999 年）的“稳态机制”的功能，因为它们允许癌细胞进一步获得“癌细胞的标志”属性。Khalidi 借鉴了两位著名的癌症研究者 Hanahan 和 Weinberg（2000 年，2011 年）对癌症的一个非常普遍的观点。他们确定了他们认为是癌症的“标志”：“大多数甚至所有类型的人类癌症共享的少数分子、生化和细胞特征—获得的能力。”他们确定了这些“在细胞生理学中的六个基本改变，共同决定了恶性生长”的特征为：自给自足的生长信号、对抗生长信号的不敏感、逃避凋亡（细胞死亡）、持续血管生成（发展血液供应的能力）、组织侵袭和转移（Hanahan 和 Weinberg 2000 年，57 页）。以*TP53*为例，它被称为肿瘤抑制基因，因为它具有通过通常诱导凋亡或细胞死亡来响应与细胞损伤相关信号的功能。它是大多数经测序的癌症中唯一发生突变的基因之一（Bailey 等，2018 年）。因此，Weinberg（2013 年）将其描述为“主要守护者和执行者”，因为它通过在出现问题迹象时诱导细胞死亡来防止进一步的突变。在 Khalidi 的观点中，人们应该将这些能力的破坏理解为癌症的“稳态机制”。
+Khalidi（2013 年）认为癌症可能是一种稳态属性簇类型，因为癌症是由“稳态”机制驱动的，即对“看护者”基因的突变，或者在防止或允许肿瘤出现方面发挥“守门人”角色的基因。根据这一观点，对特定“看护者”基因的突变的获取发挥了类似于 Boyd（1999 年）的“稳态机制”的功能，因为它们允许癌细胞进一步获得“癌细胞的标志”属性。Khalidi 借鉴了两位著名的癌症研究者 Hanahan 和 Weinberg（2000 年，2011 年）对癌症的一个非常普遍的观点。他们确定了他们认为是癌症的“标志”：“大多数甚至所有类型的人类癌症共享的少数分子、生化和细胞特征—获得的能力。”他们确定了这些“在细胞生理学中的六个基本改变，共同决定了恶性生长”的特征为：自给自足的生长信号、对抗生长信号的不敏感、逃避凋亡（细胞死亡）、持续血管生成（发展血液供应的能力）、组织侵袭和转移（Hanahan 和 Weinberg 2000 年，57 页）。以_TP53_为例，它被称为肿瘤抑制基因，因为它具有通过通常诱导凋亡或细胞死亡来响应与细胞损伤相关信号的功能。它是大多数经测序的癌症中唯一发生突变的基因之一（Bailey 等，2018 年）。因此，Weinberg（2013 年）将其描述为“主要守护者和执行者”，因为它通过在出现问题迹象时诱导细胞死亡来防止进一步的突变。在 Khalidi 的观点中，人们应该将这些能力的破坏理解为癌症的“稳态机制”。
 
 乍一看，这似乎是一种稳态特性群集的生动案例；在 Khalidi 的观点中，正是这些独特的“看护者”突变使得癌症成为可能或促进了癌症的发展。然而，我们认为癌症的机制“开始和结束”的位置在很大程度上是一个实用主义问题（Craver 2009）；可以说，人们可以将“癌症的稳态机制”划分为许多或少量的癌症亚型（Plutynski，2018）。自 2001 年以来，Hanahan 和 Weinberg 的最初观点变得复杂起来。2011 年，Hanahan 和 Weinberg 更新了他们的标志，增加了四个： “基因组不稳定性，产生促进其获得的遗传多样性，以及炎症，促进多个标志功能…能量代谢的重编程，以及逃避免疫破坏。”而且，“除了癌细胞外，肿瘤还展示了另一个复杂的维度：它们包含一系列被招募的，表面上正常的细胞，通过在肿瘤微环境中创造标志特征来促成其获得”（2011，646）。换句话说，癌症的标志似乎不再仅涉及癌细胞的全部和唯一内在特性，而还包括癌细胞与免疫系统和肿瘤外环境之间的动态相互作用。这对 Khalidi 认为看护者突变是癌症机制的观点可能并不构成严重挑战。可以说，人们可以将稳态机制扩展到肿瘤微环境。然而，由于上述讨论的癌症致因的情境敏感性，这样的策略变得复杂。随着年龄增长，皮肤表面的许多细胞拥有与乳腺肿瘤中的细胞一样多的“看护者”基因突变，但大多数这样的皮肤细胞会脱落并且从未发展成疾病（Martincorena 等，2015）。“相同”的机制很可能在一个情境中导致伤害，在另一个情境中则完全无害。
 
@@ -83,7 +83,7 @@ Khalidi（2013 年）认为癌症可能是一种稳态属性簇类型，因为�
 
 ## 2. 解释癌症：理论、模型和机制
 
-什么是解释癌症的意义？这个问题含糊不清，充满了困难。因为，“癌症”一词可能指的是几个解释目标：细胞转化为“癌细胞”的一般过程，对癌变过程的非常一般的描述，尤其是固体肿瘤中的侵袭和转移过程，肿瘤内部异质性的出现和作用，不同癌症类型的发病率差异，不同环境、社会经济群体、种族、年龄或性别中的癌症发病率或死亡模式。这些解释目标中的每一个都可以说是需要完全不同*类型*的解释，而不仅仅是不同的解释信息。这些解释在性质上不同的事实可能（部分地）解释了为什么在哲学家中关于癌症研究中解释的目的和性质存在如此多的观点，这些观点借鉴了生物哲学家之间关于解释规范的长期辩论（参见[科学解释](https://plato.stanford.edu/entries/scientific-explanation/)和[系统与合成生物学哲学](https://plato.stanford.edu/entries/systems-synthetic-biology/)的条目）。也许并不令人惊讶，癌症科学家之间也存在关于竞争性研究议程和解释规范的争议的历史。
+什么是解释癌症的意义？这个问题含糊不清，充满了困难。因为，“癌症”一词可能指的是几个解释目标：细胞转化为“癌细胞”的一般过程，对癌变过程的非常一般的描述，尤其是固体肿瘤中的侵袭和转移过程，肿瘤内部异质性的出现和作用，不同癌症类型的发病率差异，不同环境、社会经济群体、种族、年龄或性别中的癌症发病率或死亡模式。这些解释目标中的每一个都可以说是需要完全不同_类型_的解释，而不仅仅是不同的解释信息。这些解释在性质上不同的事实可能（部分地）解释了为什么在哲学家中关于癌症研究中解释的目的和性质存在如此多的观点，这些观点借鉴了生物哲学家之间关于解释规范的长期辩论（参见[科学解释](https://plato.stanford.edu/entries/scientific-explanation/)和[系统与合成生物学哲学](https://plato.stanford.edu/entries/systems-synthetic-biology/)的条目）。也许并不令人惊讶，癌症科学家之间也存在关于竞争性研究议程和解释规范的争议的历史。
 
 ### 2.1 癌症的机械图景
 
@@ -117,7 +117,7 @@ Soto、Sonnenschein 和其他人认为 SMT 和 TOFT 是相互不兼容的，癌�
 
 另一个在某种程度上挑战癌症机械图景的重要研究项目是“癌症干细胞”理论（CSC）。Fagan（2016）对癌症干细胞的概念以及该领域的当前状况进行了以下描述：
 
-癌症干细胞（CSCs）被认为是肿瘤或血液性癌症中一小部分具有自我更新能力的干细胞，负责维持和促进恶性生长。这一观念具有重要的临床意义。如果 CSC 模型是正确的，那么当前寻求根除*所有*癌细胞的临床策略应该进行修订，以专门针对 CSC 进行治疗。
+癌症干细胞（CSCs）被认为是肿瘤或血液性癌症中一小部分具有自我更新能力的干细胞，负责维持和促进恶性生长。这一观念具有重要的临床意义。如果 CSC 模型是正确的，那么当前寻求根除_所有_癌细胞的临床策略应该进行修订，以专门针对 CSC 进行治疗。
 
 癌症干细胞理论在某种程度上源自一种观点，即癌症在几个方面类似于普通组织（尽管扭曲），包含了一部分增殖的干细胞及其更多分化的后代。这一观点在 20 世纪 60 年代和 70 年代的癌症研究中起着重要作用，有时被称为“发育”癌症理论，因为它认为癌症是一种“发育”或细胞分化的疾病（Pierce & Speers 1988，Morange 2015，Laplane 2014）。这种癌症发病模型在 90 年代得到复兴，当 Lapidot、Bonnet 和 Dick 鉴定出“白血病干细胞”（Lapidot 等，1994 年，Bonnet 和 Dick 1997 年），并在 21 世纪初在乳腺癌中发现了类似的细胞群，表明 CSCs 是所有癌症的一般特征（Al-Hajj 等，2003 年）。认为肿瘤内存在扮演独特角色的细胞亚群——无论是在启动癌症还是在播种新癌症方面，这一观念在当前研究中具有影响力，为治疗和预防开辟了新途径。
 
@@ -175,228 +175,228 @@ Dobzhansky（1973）写道：“除了在进化的光芒下，生物学中没有
 
 ## Bibliography
 
-* Ahlgren, M., Melbye M., Wohlfahrt J.,& Sørensen T.I., 2004, “Growth patterns and the risk of breast cancer in women”, *New England Journal of Medicine*, 351: 1619–1626.
-* Aktipis, A., 2020, *The Cheating Cell: How Evolution Helps us Understand and Treat Cancer*, Princeton: Princeton University Press.
-* Aktipis, C.A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S. , 2015, “Cancer across the tree of life: cooperation and cheating in multicellularity”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370 (1673): 20140219.
-* Al-Hajj, M., & Clarke, M. F., 2004, “Self-renewal and solid tumor stem cells”, *Oncogene*, 23(43): 7274.
-* Alvarado, L.C., 2013, “Do evolutionary life-history trade-offs influence prostate cancer risk? A review of population variation in testosterone levels and prostate cancer disparities”, *Evolutionary Applications*, 6: 117–133.
-* Aronowitz, R. A., 2007, *Unnatural history: Breast cancer and American society*, New York: Cambridge University Press.
-* –––, 2009, “The converged experience of risk and disease”, *The Milbank Quarterly*, 87(2): 417–442.
-* –––, 2015, *Risky medicine: our quest to cure fear and uncertainty*, Chicago: University of Chicago Press.
-* Ashcroft, R., 2002, “What is clinical effectiveness?”, *Studies in History and Philosophy of Science* (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 33(2): 219–233.
-* Bailey, Matthew H., Collin Tokheim, Eduard Porta-Pardo, Sohini Sengupta, Denis Bertrand, Amila Weerasinghe, Antonio Colaprico, et al., 2018, “Comprehensive characterization of cancer driver genes and mutations”, *Cell*, 173(2): 371–385.
-* Baxendale, M., 2019, “Mapping the continuum of research strategies”, *Synthese*, 196: 4711–4733.
-* Bechtel, W., 2018, “The importance of constraints and control in biological mechanisms: Insights from cancer research”, *British Journal for the Philosophy of Science*, 85(4): 573–593.
-* –––, 2019, “From parts to mechanisms: research heuristics for addressing heterogeneity in cancer genetics”, *History and Philosophy of the Life Sciences*, 41(3): 27.
-* Bedessem, B., & Ruphy, S., 2015, “SMT or TOFT? How the two main theories of carcinogenesis are made (artificially) incompatible”, *Acta Biotheoretica*, 63: 257–267.
-* Beneduce, C., & Bertolasao, M., 2022, *Personalized Medicine in the Making*, Cham: Springer.
-* Bertolaso, M., 2011, “The two sides of the hourglass: Analytic and synthetic approaches in cancer research”, *Ludus vitalis: revista de filosofía de las ciencias de la vida*, 19(35): 73–95.
-* –––, 2011, “Hierarchies and causal relationships in interpretative models of the neoplastic process”, *History and Philosophy of the Life Sciences*, 33(4): 515–535.
-* –––, 2016, *Philosophy of Cancer*, Dordrecht: Springer Science+ Business Media Dordrecht.
-* Bertolaso, M., and Dupré, J. (2018) “A processual perspective on cancer”, in *Everything flows: towards a processual philosophy of biology*, D.J. Nicholson & J. Dupré (eds.), Oxford: Oxford University Press. pp. 321–336.
-* Bich, L., & Bechtel, W., 2022, “Organization needs organization: Understanding integrated control in living organisms”, *Studies in History and Philosophy of Science*, 93: 96–106.
-* Bich, L., Mossio, M., Ruiz-Mirazo, K., & Moreno, A., 2016, “Biological regulation: controlling the system from within”, *Biology & Philosophy*, 31: 237–265.
-* Bich, L., Pradeu, T., & Moreau, J.-F., 2019, “Understanding multicellularity: the functional organization of the intercellular space”, *Frontiers in Physiology*, 10: 1170.
-* Birch, J., Creel, K. A., Jha, A. K., & Plutynski, A., 2022, “Clinical decisions using AI must consider patient values”, *Nature Medicine*, 28(2): 229–232.
-* Bishop, J.M., 1995, “Cancer: the rise of the genetic paradigm”, *Genes & Development*, 9: 1309–1315.
-* Bizzarri, M., & Cucina, A., 2016, “SMT and TOFT: Why and how they are opposite and incompatible paradigms”, *Acta Biotheoretica*, 64: 221–239.
-* Blasimme, A., Maugeri, P., & Germain, P. L., 2013, “What mechanisms can’t do: Explanatory frameworks and the function of the p53 gene in molecular oncology”, *Studies in History and Philosophy of Science* (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 44(3): 374–384
-* Boddy, A. M., Kokko, H., Breden, F., Wilkinson, G. S., & Aktipis, C. A., 2015, “Cancer susceptibility and reproductive trade-offs: a model of the evolution of cancer defences”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1673): 20140220.
-* Boniolo, G., 2017, “Patchwork narratives for tumour heterogeneity”, in Leitgeb, H., Niiniluoto, I., Seppälä, P. & Sober, E. (eds), *Logic, Methodology and Philosophy of Science – Proceedings of the 15th International Congress*, London: College Publications.
-* Boniolo, G., & Campaner, R., 2019a, “Complexity and integration. A philosophical analysis of how cancer complexity can be faced in the era of precision medicine”, *European Journal for Philosophy of Science*, 9: 1–25.
-* –––, 2019b, “Causal reasoning and clinical practice: Challenges from molecular biology”, *Topoi*, 38(2): 423–435.
-* Boniolo, G., Campaner, R., & Carrara, M., 2021, “Patient Similarity in the Era of Precision Medicine: A Philosophical Analysis”, *Erkenntnis*, 1–22.
-* Boniolo, F., Boniolo, G., & Valente, G., 2023, “Prediction via Similarity: Biomedical Big Data and the Case of Cancer Models”, *Philosophy & Technology*, 36(1): 8.
-* Boniolo, G., Nathan, M.J. (eds), 2016, *Philosophy of molecular medicine: foundational issues in research and practice*, London New York: Routledge, Taylor & Francis Group.
-* Bonnet, D., & Dick, J. E., 1997, “Human acute myeloid leukemia is organized as a hierarchy that originates from a primitive hematopoietic cell”, *Nature Medicine*, 3(7): 730.
-* Bouchard, F., Huneman, P., 2013, *From Groups to Individuals: Perspectives on Biological Associations and Emerging Individuality*, Cambridge, MA: MIT Press.
-* Bourrat, P., & Griffiths, P. E., forthcoming, “The idea of mismatch in evolutionary medicine”, *British Journal for the Philosophy of Science*, doi:10.1086/716543
-* Boyd, Richard, 1999, “Homeostasis, Species, and Higher Taxa”, in *Species—New Interdisciplinary Essays*, R. Wilson (ed.), Cambridge, MA: MIT Press, pp. 141–185.
-* Broadbent, A., 2009, “Causation and models of disease in epidemiology”. *Studies in History and Philosophy of Science* (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 40(4): 302–311.
-* –––, 2011, “Inferring Causation in Epidemiology: Mechanisms, Black Boxes, and Contrasts”, in *Causation in the Sciences*, P. Illari, F. Russo, & J. Williamson (eds.), Oxford: Oxford University Press, 45–69.
-* –––, 2013, *Philosophy of epidemiology*, London: Palgrave Macmillan.
-* –––, 2014, “Disease as a theoretical concept: The case of ‘HPV-itis’”, *Studies in History and Philosophy of Science* (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 48(1): 250–257.
-* Brown, M. J., 2013, “Values in science beyond underdetermination and inductive risk”, *Philosophy of Science*, 80(5): 829–839.
-* Bueno, O., Chen R.-L., & Fagan, M.B. (eds.), 2019, *Individuation, Process, and Scientific Practices*, Oxford, New York: Oxford University Press.
-* Cairns, J., 1975, “Mutation selection and the natural history of cancer”, *Nature*, 255(5505): 197.
-* Callahan R, Darzi A., 2015, “Five policy levers to meet the value challenge in cancer care”, *Health Affairs*, 34(9): 1563–8.
-* Cancer Genome Atlas Network, 2015, “Comprehensive genomic characterization of head and neck squamous cell carcinomas”, *Nature*, 517(7536): 576.
-* Cartwright, N., 2011, “A philosopher’s view of the long road from RCTs to effectiveness”, *The Lancet*, 377(9775): 1400–1401.
-* Chin-Yee, B., & Upshur, R., 2019, “Three problems with big data and artificial intelligence in medicine”, *Perspectives in Biology and Medicine*, 62(2): 237–256.
-* Chin-Yee, B. & Plutynski, A., forthcoming, “Concepts of Actionability in Precision Oncology”, *Philosophy of Science*.
-* Clarke E., 2013, “The Multiple Realizability of Biological Individuals”, *Journal of Philosophy*, 110(8): 413–435.
-* –––, 2011, “The Problem of Biological Individuality”, *Biological Theory*, 5(4): 312–325
-* Clarke, A. E., & Fujimura, J. H. (eds.), 2014, *The right tools for the job: At work in twentieth-century life sciences*, Princeton: Princeton University Press.
-* Clevers, H., 2016, “Cancer therapy: defining stemness”, *Nature*, 534(7606): 176.
-* Collins, F. S., & Barker, A. D., 2007, “Mapping the cancer genome”, *Scientific American*, 296(3): 50–57.
-* Cranor, C. F., 1993, *Regulating toxic substances: A philosophy of science and the law*, New York, Oxford University Press.
-* –––, 2006, *Toxic torts: Science, law, and the possibility of justice*, New York: Cambridge University Press; 2nd edition, 2016.
-* –––, 2011, *Legally Poisoned: How the Law Puts Us at Risk from Toxicants*, Cambridge, MA: Harvard University Press
-* –––, 2017. *Tragic failures: How and why we are harmed by toxic chemicals*, Oxford: Oxford University Press.
-* Craver, C. F., 2009, “Mechanisms and natural kinds”, *Philosophical Psychology*, 22(5): 575–594.
-* Crespi, B., & Summers, K., 2005, “Evolutionary biology of cancer”, *Trends in Ecology & Evolution*, 20(10): 545–552.
-* Damuth J., & Heisler, I.L., 1988, “Alternative formulations of multilevel selection”, *Biology and Philosophy*, 3: 407–430.
-* Deaton, A., & Cartwright, N., 2018, “Understanding and misunderstanding randomized controlled trials”, *Social Science & Medicine*, 210: 2–21.
-* DiMarco, M., 2021, “Wishful intelligibility, black boxes, and epidemiological explanation”, *Philosophy of Science*, 88(5): 824–834.
-* DiMarco, M., Zhao, H., Boulicault, M., & Richardson, S. S., 2022, “Why ‘sex as a biological variable’ conflicts with precision medicine initiatives”, *Cell Reports Medicine*, 3(4).
-* Dobzhansky, T., 1973, “Nothing in Biology Makes Sense except in the Light of Evolution”, *The American Biology Teacher*, 35: 125–129.
-* Douglas, H., 2000, “Inductive risk and values in science”, *Philosophy of Science*, 67(4): 559–579.
-* Dupré, J., 1996, *The disorder of things: Metaphysical foundations of the disunity of science*, Cambridge, MA: Harvard University Press.
-* Elliott, K. C., 2011, *Is a little pollution good for you?: Incorporating societal values in environmental research*, New York: Oxford University Press USA.
-* Ereshefsky, M., 2009, “Defining ‘health’ and ‘disease’”, *Studies in History and Philosophy of Science* (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 40(3): 221–227.
-* Ereshefsky, M., & Reydon, T. A., 2015, “Scientific kinds”, *Philosophical Studies*, 172(4): 969–986.
-* Esserman, L. J., Thompson, I. M., Reid, B., Nelson, P., Ransohoff, D. F., Welch, H. G., … & Bissell, M., 2014, “Addressing overdiagnosis and overtreatment in cancer: a prescription for change”, *The Lancet Oncology*, 15(6): e234–e242.
-* Fagan, M., 2013, *Philosophy of Stem Cell Biology. Knowledge in Flesh and Blood*, London: Palgrave-Macmillan.
-* –––, 2021, *Stem Cells*, Cambridge, MA: Cambridge University Press.
-* –––, 2016, “Pathways to the clinic: cancer stem cells and challenges for translational research”, in G. Boniolo & M.J. Nathan (eds.), *Philosophy of molecular medicine: Foundational issues in research and practice*, New York: Taylor & Francis.
-* Foulds, L., 1958, “The natural history of cancer”,, *Journal of Chronic Diseases*, 8(1): 2–37.
-* Frank, S. A., 2007, *Dynamics of cancer: incidence, inheritance, and evolution*, Princeton: Princeton University Press.
-* Frank, S. A. & Nowak, M. A., 2004, “Problems of somatic mutation and cancer”, *BioEssays*, 26: 291–299.
-* Fujimura, J. H., 1987, “Constructing ‘Do-able’ Problems in Cancer Research: Articulating Alignment”, *Social Studies of Science*, 17(2): 257–293.
-* –––, 1992, “Crafting science: Standardized packages, boundary objects, and ‘translation’”, in A. Pickering (ed.), *Science as Practice and Culture*, Chicago: University of Chicago Press, pp. 168–211
-* –––, 1996, *Crafting science: A sociohistory of the quest for the genetics of cancer*, Cambridge, MA: Harvard University Press.
-* Gardner, A., 2015, “The genetical theory of multilevel selection”, *Journal of Evolutionary Biology*, 28: 305–319.
-* Germain, P-L., 2012, “Cancer Cells and Adaptive Explanations”, *Biology and Philosophy*, 27 (6): 785–810.
-* –––, 2014, “Living instruments and theoretical terms: Xenografts as measurements in cancer research”, in *New Directions in the Philosophy of Science*, Cham: Springer, pp. 141–155.
-* Germain, P. L., & Laplane, L., 2017, “Metastasis as supra-cellular selection? A reply to Lean and Plutynski”, *Biology & Philosophy*, 32(2): 281–287.
-* Giles, G. G., Severi, G., English, D. R., … Hoper, J. L., 2003, “Early growth, adult body size and prostate cancer risk”, *International Journal of Cancer*, 103: 241–245.
-* Godfrey-Smith, P. 2009, *Darwinian populations and natural selection*, Oxford: Oxford University Press.
-* Goldwasser, S., 2023, “Standard aberration: cancer biology and the modeling account of normal function”, *Biology & Philosophy*, 38(1): 4.
-* Goldwasser S., forthcoming, “Finding normality in abnormality: On the ascription of normal functions to cancer”, *Philosophy of Science*.
-* González-Moreno, M., Saborido, C., & Teira, D. 2015, “Disease-mongering through clinical trials”, *Studies in History and Philosophy of Science* (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 51: 11–18.
-* Greaves, M., 2001, *Cancer: the evolutionary legacy*, Oxford: Oxford University Press.
-* Greaves, M., & Maley, C. C., 2012, “Clonal evolution in cancer”, *Nature*, 481(7381): 306.
-* Green, S., Şerban, M., Scholl, R., Jones, N., Brigandt, I., & Bechtel, W., 2018, “Network analyses in systems biology: new strategies for dealing with biological complexity”, *Synthese*, 195: 1751–1777.
-* Green, S., 2021, “Cancer beyond genetics: on the practical implications of downward causation”, in *Biological Levels: Composition, Scale and Evolution in Complex Systems*, D. S. Brooks, J. DiFrisco and W. C. Wimsatt (eds.), Cambridge, MA: MIT Press, pp. 195– 213.
-* Green, S., Dam, M. S., & Svendsen, M. N., 2021, “Mouse avatars of human cancers: the temporality of translation in precision oncology”, *History and Philosophy of the Life Sciences*, 43(1): 27.
-* Green, S., Dam, M. S., & Svendsen, M. N., 2022, “Patient-Derived Organoids in Precision Oncology Precision oncology–Towards a Science of and for the Individual?” in *Personalized Medicine in the Making: Philosophical Perspectives from Biology to Healthcare* Cham: Springer International Publishing, pp. 125–146.
-* Greaves, M., 2007, “Darwinian medicine: a case for cancer”, *Nature Reviews Cancer*, 7: 213–221.
-* Hanahan, D., & Weinberg, R. A., 2000, “The hallmarks of cancer”, *Cell*, 100(1): 57–70.
-* –––, 2011. “Hallmarks of cancer: the next generation”, *Cell*, 144(5): 646–674.
-* Hausman, D. M., 2012, “Health, naturalism, and functional efficiency”, *Philosophy of Science*, 79(4): 519–541.
-* Hey, S. P., 2015, “Judging quality and coordination in biomarker diagnostic development”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 30(2): 207–227.
-* Hey, S. P., 2019, “Heuristics and Explanation in Translational Medicine”, *Perspectives in Biology and Medicine*, 62(4): 675–689.
-* Hey, S. P., & Barsanti-Innes, B., 2016, “Epistemology, ethics, and progress in precision medicine”, *Perspectives in Biology and Medicine*, 59(3): 293–310.
-* Hey, S. P., D’Andrea, E., Jung, E. H., Tessema, F., Luo, J., Gyawali, B., & Kesselheim, A. S., 2019, “Challenges and opportunities for biomarker validation”, *The Journal of Law, Medicine & Ethics*, 47(3): 357–361.
-* Hill, A. B., 1965, “The Environment and Disease: Association or Causation?”, *Proceedings of the Royal Society of Medicine*, 58: 295–300.
-* Hoadley, Katherine A., Christina Yau, Denise M. Wolf, Andrew D. Cherniack, David Tamborero, Sam Ng, Max DM Leiserson, et al., 2014, “Multiplatform analysis of 12 cancer types reveals molecular classification within and across tissues of origin”, *Cell*, 158(4): 929–944.
-* Hoadley, K. A., Yau, C., Hinoue, T., Wolf, D. M., Lazar, A. J., Drill, E., … & Akbani, R., 2018, “Cell-of-origin patterns dominate the molecular classification of 10,000 tumors from 33 types of cancer”, *Cell*, 173(2): 291–304.
-* Howick, J. H., 2011, *The philosophy of evidence-based medicine*, Hoboken, NJ: John Wiley & Sons.
-* Hsu, J.I., Dayaram, T., Tovy, A., … & Goodell, M.A., 2018, “PPM1D Mutations Drive Clonal Hematopoiesis in Response to Cytotoxic Chemotherapy”, *Cell Stem Cell*, 23: 700–713.e6.
-* John, S. 2018, “Epistemic trust and the ethics of science communication: against transparency, openness, sincerity and honesty”, *Social Epistemology*, 32(2): 75–87.
-* Kent, D. G., & Green, A. R. 2017. “Order matters: the order of somatic mutations influences cancer evolution”, *Cold Spring Harbor Perspectives in Medicine*, 7(4).
-* Khalidi, M.A.K., 1998, “Natural kinds and crosscutting categories”, *The Journal of Philosophy*, 95(1): 33–50.
-* –––, 2013, *Natural categories and human kinds: Classification in the natural and social sciences*, Cambridge: Cambridge University Press.
-* Kim, J., 2000, “Making sense of downward causation”, in P. B. Andersen, C. Emmeche, N. O. Finnemann & P. V. Christiansen (eds.) *Downward Causation*, Aarhus: University of Aarhus Press, pp 305–321
-* Kincaid, H., 2008, “Do We Need Theory to Study Disease?: lessons from cancer research and their implications for mental illness”, *Perspectives in Biology and Medicine*, 51(3): 367–378.
-* Lapidot, T., Sirard, C., Vormoor, J., Murdoch, B., Hoang, T., Caceres-Cortes, J., … & Dick, J. E., 1994, “A cell initiating human acute myeloid leukaemia after transplantation into SCID mice”, *Nature*, 367(6464): 645.
-* Lange, M., 2007, “The End of Diseases”, *Philosophical Topics*, 35: 265–292.
-* Laplane, L.,2014, “Identifying theories in developmental biology. The case of the cancer stem cell theory”, in A. Minelli & T. Pradeu (eds.), *Toward a theory of development*, Oxford: Oxford University Press, pp 246–259.
-* –––, 2016, *Cancer Stem Cells*, Cambridge, MA: Harvard University Press.
-* –––, 2018, “Cancer stem cells modulate patterns and processes of evolution in cancers”, *Biology & Philosophy*, 33(3–4): 18.
-* Laplane, L., Duluc, D., Larmonier, N., Pradeu, T. & Bikfalvi, A., 2018, “The multiple layers of the tumor environment”, *Trends Cancer*, 4: 802– 809.
-* Laplane, L. and Solary, E., 2019a “Philosophy of Biology: Towards a classification of stem cells”, *eLife*, 8: e46563.
-* Laplane, L., Duluc, D., Bikfalvi, A., Larmonier, N. & Pradeu, T., 2019b, “Beyond the tumour microenvironment”, *International Journal of Cancer*, 145: 2611– 2618.
-* Lean, C. and Plutynski, A., 2016, “The Evolution of Failure: Explaining Cancer as an Evolutionary Process”, *Biology and Philosophy*, 31(1): 39–57.
-* Love AC, Brigandt I., 2017, “Philosophical Dimensions of Individuality”, in S. Lidgard and L.K. Nyhart (eds.), *Biological Individuality: Integrating Scientific, Philosophical, and Historical Perspectives*, Chicago: University of Chicago Press.
-* Lyne, A.-M., Laplane, L. & Perié, L., 2021, “To portray clonal evolution in blood cancer, count your stem cells”, *Blood*, 137: 1862–1870.
-* Machamer, P., Darden, L., & Craver, C. F., 2000, “Thinking about mechanisms”, *Philosophy of Science*, 67(1): 1–25.
-* Malaterre, C., 2007, “Organicism and reductionism in cancer research: Towards a systemic approach”, *International Studies in the Philosophy of Science*, 21(1): 57–73.
-* –––, 2011, “Making sense of Downward Causation in Manipulationism (with Illustrations from Cancer Research)”, *History and Philosophy of the Life Sciences*, (33): 537–562.
-* Maman, S., & Witz, I. P., 2018, “A history of exploring cancer in context”, *Nature Reviews Cancer*, 18(6): 359–376.
-* Marcum, J. A., 2005, “Metaphysical presuppositions and scientific practices: Reductionism and organicism in cancer research”, *International Studies in the Philosophy of Science*, 19(1): 31–45.
-* Martincorena, Iñigo, Amit Roshan, Moritz Gerstung, Peter Ellis, Peter Van Loo, Stuart McLaren, David C. Wedge, et al., 2015, “High burden and pervasive positive selection of somatic mutations in normal human skin”, *Science* 348(6237): 880–886.
-* Marusyk, A., Almendro, V. & Polyak, K., 2012, “Intra-tumour heterogeneity: a looking glass for cancer?”, *Nature Reviews Cancer*, 12: 323–34.
-* Mauvais-Jarvis, F., Merz, N. B., Barnes, P. J., Brinton, R. D., Carrero, J. J., DeMeo, D. L., … & Suzuki, A., 2020, “Sex and gender: modifiers of health, disease, and medicine”, *The Lancet*, 396(10250): 565–582.
-* Mayo, D. G., & Hollander, R. D. (eds.), 1994, *Acceptable evidence: Science and values in risk management*, Oxford: Oxford University Press on Demand.
-* Merlo, L. M., Pepper, J. W., Reid, B. J., & Maley, C. C., 2006, “Cancer as an evolutionary and ecological process”, *Nature Reviews Cancer*, 6(12): 924–935.
-* Mitchell, S. D., 2009, *Unsimple truths: Science, complexity, and policy*, Chicago: University of Chicago Press.
-* Montévil M, Mossio M, 2015, “Biological organisation as closure of constraints”, *Journal of Theoretical Biology*, 372: 179–191.
-* Mossio M, Saborido C, Moreno A., 2009, “An organizational account of biological functions”, *British Journal for Philosophy of Science*, 60(4): 813–841.
-* Mossio, M., & Bich, L., 2017, “What makes biological organisation teleological?” *Synthese*, 194(4): 1089–1114.
-* Morange, M., 1993, “The Discovery of Cellular Oncogenes”, *History and Philosophy of the Life Sciences*, 15(1): 45–58
-* –––, 1997, “From the regulatory vision of cancer to the oncogene paradigm, 1975–1985”, *Journal of the History of Biology*, 30(1): 1–29.
-* –––, 2003, “History of cancer research”, *Encyclopedia of Life Sciences*, London: Nature Publishing Group
-* –––, 2015, “Is There an Explanation for… the Diversity of Explanations in Biological Studies?”, in P. A. Braillard and C. Malaterre (eds.), *Explanation in Biology: An Enquiry into the Diversity of Explanatory Patterns in the Life Sciences*, Dordrecht: Springer, pp. 31–46
-* Morgan, G., 2022, *Cancer Virus Hunters: A History of Tumor Virology*, Baltimore: Johns Hopkins University Press.
-* Okasha, S., 2005, “Multilevel selection and the major transitions in evolution”, *Philosophy of Science*, 72(5): 1013–1025.
-* –––, 2006, *Evolution and the levels of selection*, Oxford: Oxford University Press.
-* –––, forthcoming, “Cancer and the levels of selection”, *The British Journal for the Philosophy of Science*. doi:10.1086/716178
-* Oreskes, N., & Conway, E. M., 2011, *Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming*, New York: Bloomsbury Publishing USA.
-* Ortmann, C.A., Kent, D.G., Nangalia, J., … & Green, A.R., 2015, “Effect of mutation order on myeloproliferative neoplasms”, *The New England Journal of Medicine*, 372: 601–12.
-* Parke, E. C., & Plutynski, A., 2023, “Going big by going small: Trade-offs in microbiome explanations of cancer”, *Studies in History and Philosophy of Science*, 97: 101–110.
-* Pierce, G. B., & Speers, W. C., 1988, “Tumors as caricatures of the process of tissue renewal: prospects for therapy by directing differentiation”, *Cancer Research*, 48(8): 1996–2004.
-* Plutynski, A., 2017, “Safe or Sorry? Cancer Screening and Inductive Risk”, in *Exploring Inductive Risk: Case Studies of Values in Science*, K.C. Elliott & T. Richards (eds.), Oxford: Oxford University Press, pp. 149–171.
-* –––, 2018, *Explaining Cancer: Finding Order in Disorder*, New York: Oxford University Press.
-* –––, 2018b, “The origins of ‘dynamic reciprocity’: Mina Bissell’s expansive picture of cancer causation”, in O. Harman and M. Dietrich (eds.), *Dreamers, Visionaries, and Revolutionaries in the Life Sciences*, Chicago: University of Chicago Press, Chicago, 96– 110.
-* –––, 2021a, “How is cancer complex?” *European Journal for Philosophy of Science*, 11(2): 55.
-* –––, 2021b, “Is cancer a matter of luck?” *Biology & Philosophy*, 36: 3.
-* –––, 2022, “Why Precision Oncology Precision oncology Is Not Very Precise (and Why This Should Not Surprise Us)”, in *Personalized Medicine in the Making: Philosophical Perspectives from Biology to Healthcare*, C. Beneduce & M. Bertolaso (eds.), Cham: Springer International Publishing, pp. 3–21.
-* Pradeu, T., 2012, *The Limits of the Self: Immunology and Biological Identity*, New York: Oxford University Press.
-* –––, 2013, “Immunity and the emergence of individuality”, in *From Groups to Individuals: Evolution and Emerging Individuality*, F. Bouchard and P. Huneman (eds.), Cambridge, MA: MIT Press, pp. 77–96
-* –––, 2016, “The many faces of biological individuality”, *Biology and Philosophy*, 31: 761–773.
-* –––, 2019, *Philosophy of Immunology*, Cambridge: Cambridge University Press.
-* Pradeu, T., Daignan‐Fornier, B., Ewald, A., Germain, P. L., Okasha, S., Plutynski, A., … & Laplane, L., 2023, “Reuniting philosophy and science to advance cancer research”, *Biological Reviews*, 98(5): 1668–1686.
-* Prasad, V. K., 2020, *Malignant: how bad policy and bad evidence harm people with Cancer*, Baltimore: Johns Hopkins University Press.
-* Prasad, V., & Gale, R. P., 2016, “Precision medicine in acute myeloid leukemia: Hope, hype or both?”, *Leukemia Research*, 48: 73–77.
-* Prasad, V., Fojo, T., & Brada, M., 2016, “Precision oncology: origins, optimism, and potential”, *The Lancet Oncology*, 17(2): e81–e86.
-* Proctor, R. N., 1996, *Cancer Wars: How Politics Shapes What We Know and Don’t Know About Cancer*, New York: Basic Books.
-* Reid, L., 2017, “Truth or Spin? Disease Definition in Cancer Screening”, *Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine*, 42(4): 385–404.
-* Reya, T., Morrison, S. J., Clarke, M. F. & Weissman, I. L., 2001, “Stem cells, cancer, and cancer stem cells”, *Nature*, 414: 105–11.
-* Rondeau, E., Larmonier, N., Pradeu, T. & Bikfalvi, A., 2019, “Philosophy of biology: characterizing causality in cancer”, *eLife*, 8: e53755.
-* Russo, F., &Williamson, J., 2007, “Interpreting Causality in the Health Sciences”, *International Studies in the Philosophy of Science*, 21(2): 157–70.
-* Schaffner, K. F., 2006, “Reduction: the Cheshire cat problem and a return to roots”, *Synthese*, 151: 377–402.
-* Schedin, P., 2006, “Pregnancy-associated breast cancer and metastasis”, *Nature Reviews Cancer*, 6(4): 281.
-* Schwartz, P. H., 2014, “Small tumors as risk factors not disease”, *Philosophy of Science*, 81(5): 986–998.
-* Sepich-Poore, G. D., Guccione, C., Laplane, L., Pradeu, T., Curtius, K. & Knight, R., 2022, “Cancer’s second genome: microbial cancer diagnostics and redefining clonal evolution as a multispecies process”, *BioEssays*, 44: 2100252.
-* Shipitsin, M., Campbell, L. L., Argani, P., … & Polyak, K., 2007, “Molecular definition of breast tumor heterogeneity”, *Cancer Cell*, 11: 259–273.
-* Sholl, J., 2022, “Everything in moderation or moderating everything? Nutrient balancing in the context of evolution and cancer metabolism”, *Biology & Philosophy*, 37(2): 14.
-* Sholl, J., Sepich-Poore, G.D., Knight, R. & Pradeu, T., 2022, “Redrawing therapeutic boundaries: microbiota and cancer”, *Trends in Cancer*, 8: 87–97.
-* Shpak, M. & Lu, J., 2016, “An Evolutionary Genetic Perspective on Cancer Biology”, *Annual Review of Ecology, Evolution, and Systematics*, 47: 25–49.
-* Shrader-Frechette, K. S., 1993, *Burying uncertainty: Risk and the case against geological disposal of nuclear waste*, San Francisco: University of California Press.
-* –––, 2002, *Environmental justice: Creating equality, reclaiming democracy*, New York: Oxford University Press.
-* Shrager, J., Shapiro, M., & Hoos, W., 2019, “Is cancer solvable? Towards efficient and ethical biomedical science”, *The Journal of Law, Medicine & Ethics*, 47(3): 362–368.
-* Siegel, R. L., Miller, K. D., & Jemal, A., 2017, “Cancer statistics, 2017”, *CA: A Cancer Journal for Clinicians*, 67(1): 7–30
-* Slater, M. H., 2014, “Natural kindness”, *The British Journal for the Philosophy of Science*, 66(2): 375–411.
-* Solomon, M., 2015, *Making medical knowledge*, New York: Oxford University Press, USA.
-* Sonnenschein, C. & Soto, A.M., 2000, “Somatic mutation theory of carcinogenesis: why it should be dropped and replaced”, *Molecular Carcinogenesis*, 29: 205–11
-* –––, 2008, “Theories of carcinogenesis: an emerging perspective”, *Seminars in Cancer Biology*, 18: 372–7.
-* Sorenson, R., 2011, “Paranatural Kinds”, in *Carving Nature at Its Joints: Natural Kinds in Metaphysics and Science*, J. K. Campbell, M. O’Rourke, & M. H. Slater (eds.), Cambridge, MA: MIT Press. 113–128.
-* Soto, A. M., & Sonnenschein, C., 2004, “The somatic mutation theory of cancer: growing problems with the paradigm?”, *Bioessays*, 26(10): 1097–1107.
-* –––, 2005, “Emergentism as a default: cancer as a problem of tissue organization”, *Journal of Biosciences*, 30(1): 103–11
-* Stearns, S. C. & Koella, J. C., (eds.), 2007, *Evolution in Health and Disease*, Oxford, New York: Oxford University Press.
-* Soto, A. M., Sonnenschein, C. & Miquel, P. A., 2008, “On physicalism and Downward Causation in Developmental and Cancer Biology”, *Acta Biotheoretica*, 56: 257–274.
-* Steel, D., 2007, *Across the boundaries: Extrapolation in biology and social science*, Oxford: Oxford University Press.
-* –––, 2010, “Epistemic values and the argument from inductive risk”, *Philosophy of Science*, 77(1): 14–34.
-* –––, 2015, *Philosophy and the precautionary principle*, New York: Cambridge University Press.
-* Stegenga, J., 2015, “Measuring effectiveness”, *Studies in History and Philosophy of Science* (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 54: 62–71.
-* –––, 2018, *Medical Nihilism*, Oxford: Oxford University Press.
-* Strauss, B., M. Bertolaso, I. Ernberg and M. J. Bissell (eds.), 2021, *Rethinking Cancer: A New Paradigm for the Postgenomics Era*, Cambridge, MA: MIT Press.
-* Tabery, J., 2023, *Tyranny of the Gene: Personalized Medicine and Its Threat to Public Health*, New York: Knopf.
-* Temin, H., 1974, “Introduction to virus-caused cancers”, *Cancer* 34 (Supplement): 1347–1352.
-* Tomasetti, C. & Vogelstein, B. 2015, “Variation in cancer risk among tissues can be explained by the number of stem cell divisions”, *Science*, 347: 78– 81.
-* Tomasetti, C., Li, L., & Vogelstein, B., 2017, “Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention”, *Science*, 355: 1330–1334.
-* Ushijima, T., Clark, S. J. & Tan, P., 2021, “Mapping genomic and epigenomic evolution in cancer ecosystems”, *Science*, 373: 1474–1479.
-* Valles, S. A., 2012, “Evolutionary medicine at twenty: rethinking adaptationism and disease”, *Biology & Philosophy*, 27: 241–261.
-* –––, 2018, *Philosophy of population health: Philosophy for a new public health era*, London: Routledge.
-* –––, 2021, “A pluralistic and socially responsible philosophy of epidemiology field should actively engage with social determinants of health and health disparities”, *Synthese*, 198 (Supplement 10): 2589–2611.
-* Vogelstein, B. & Kinzler, K. W., 1993, “The multistep nature of cancer”, *Trends Genet*, 9: 138–141.
-* Vogt, H., Green, S., Ekstrøm, C. T., & Brodersen, J., 2019, “How precision medicine and screening with big data could increase overdiagnosis”, *The BMJ*, 366: l5270. doi:10.1136/bmj.l5270
-* Weinberg, R., 2013, *The Biology of Cancer*, New York: Garland science.
-* Weaver, V. M., Petersen, O. W., Wang, F., Larabell, C. A., Briand, P., Damsky, C., & Bissell, M. J., 1997, “Reversion of the malignant phenotype of human breast cells in three-dimensional culture and in vivo by integrin blocking antibodies”, *The Journal of Cell Biology*, 137(1): 231–245.
-* Weaver, V. M., Lelièvre, S., Lakins, J. N., Chrenek, M. A., Jones, J. C., Giancotti, F., … & Bissell, M. J., 2002, “β4 integrin-dependent formation of polarized three-dimensional architecture confers resistance to apoptosis in normal and malignant mammary epithelium”, *Cancer Cell*, 2(3): 205–216.
-* Welch, H.G. & Black, W.C., 2010, “Overdiagnosis in cancer”, *Journal of the National Cancer Institute*, 102: 605–613.
-* Wicha, M. S., Liu, S. & Dontu, G., 2006, “Cancer stem cells: an old idea–a paradigm shift”, *Cancer Research*, 66: 1883–1886.
-* Williams, Neil E., 2011, “Arthritis and nature’s joints”, in *Carving Nature at Its Joints: Natural Kinds in Metaphysics and Science*, Joseph Keim Campbell, Michael O’Rourke, & Matthew H. Slater (eds.), Cambridge, MA: MIT Press, pp. 199–230.
-* Wodarz, D. & Komarova, N. L., 2014, *Dynamics of cancer: mathematical foundations of oncology*, New Jersey: World Scientific.
+* Ahlgren, M., Melbye M., Wohlfahrt J.,& Sørensen T.I., 2004, “Growth patterns and the risk of breast cancer in women”, _New England Journal of Medicine_, 351: 1619–1626.
+* Aktipis, A., 2020, _The Cheating Cell: How Evolution Helps us Understand and Treat Cancer_, Princeton: Princeton University Press.
+* Aktipis, C.A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S. , 2015, “Cancer across the tree of life: cooperation and cheating in multicellularity”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 370 (1673): 20140219.
+* Al-Hajj, M., & Clarke, M. F., 2004, “Self-renewal and solid tumor stem cells”, _Oncogene_, 23(43): 7274.
+* Alvarado, L.C., 2013, “Do evolutionary life-history trade-offs influence prostate cancer risk? A review of population variation in testosterone levels and prostate cancer disparities”, _Evolutionary Applications_, 6: 117–133.
+* Aronowitz, R. A., 2007, _Unnatural history: Breast cancer and American society_, New York: Cambridge University Press.
+* –––, 2009, “The converged experience of risk and disease”, _The Milbank Quarterly_, 87(2): 417–442.
+* –––, 2015, _Risky medicine: our quest to cure fear and uncertainty_, Chicago: University of Chicago Press.
+* Ashcroft, R., 2002, “What is clinical effectiveness?”, _Studies in History and Philosophy of Science_ (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 33(2): 219–233.
+* Bailey, Matthew H., Collin Tokheim, Eduard Porta-Pardo, Sohini Sengupta, Denis Bertrand, Amila Weerasinghe, Antonio Colaprico, et al., 2018, “Comprehensive characterization of cancer driver genes and mutations”, _Cell_, 173(2): 371–385.
+* Baxendale, M., 2019, “Mapping the continuum of research strategies”, _Synthese_, 196: 4711–4733.
+* Bechtel, W., 2018, “The importance of constraints and control in biological mechanisms: Insights from cancer research”, _British Journal for the Philosophy of Science_, 85(4): 573–593.
+* –––, 2019, “From parts to mechanisms: research heuristics for addressing heterogeneity in cancer genetics”, _History and Philosophy of the Life Sciences_, 41(3): 27.
+* Bedessem, B., & Ruphy, S., 2015, “SMT or TOFT? How the two main theories of carcinogenesis are made (artificially) incompatible”, _Acta Biotheoretica_, 63: 257–267.
+* Beneduce, C., & Bertolasao, M., 2022, _Personalized Medicine in the Making_, Cham: Springer.
+* Bertolaso, M., 2011, “The two sides of the hourglass: Analytic and synthetic approaches in cancer research”, _Ludus vitalis: revista de filosofía de las ciencias de la vida_, 19(35): 73–95.
+* –––, 2011, “Hierarchies and causal relationships in interpretative models of the neoplastic process”, _History and Philosophy of the Life Sciences_, 33(4): 515–535.
+* –––, 2016, _Philosophy of Cancer_, Dordrecht: Springer Science+ Business Media Dordrecht.
+* Bertolaso, M., and Dupré, J. (2018) “A processual perspective on cancer”, in _Everything flows: towards a processual philosophy of biology_, D.J. Nicholson & J. Dupré (eds.), Oxford: Oxford University Press. pp. 321–336.
+* Bich, L., & Bechtel, W., 2022, “Organization needs organization: Understanding integrated control in living organisms”, _Studies in History and Philosophy of Science_, 93: 96–106.
+* Bich, L., Mossio, M., Ruiz-Mirazo, K., & Moreno, A., 2016, “Biological regulation: controlling the system from within”, _Biology & Philosophy_, 31: 237–265.
+* Bich, L., Pradeu, T., & Moreau, J.-F., 2019, “Understanding multicellularity: the functional organization of the intercellular space”, _Frontiers in Physiology_, 10: 1170.
+* Birch, J., Creel, K. A., Jha, A. K., & Plutynski, A., 2022, “Clinical decisions using AI must consider patient values”, _Nature Medicine_, 28(2): 229–232.
+* Bishop, J.M., 1995, “Cancer: the rise of the genetic paradigm”, _Genes & Development_, 9: 1309–1315.
+* Bizzarri, M., & Cucina, A., 2016, “SMT and TOFT: Why and how they are opposite and incompatible paradigms”, _Acta Biotheoretica_, 64: 221–239.
+* Blasimme, A., Maugeri, P., & Germain, P. L., 2013, “What mechanisms can’t do: Explanatory frameworks and the function of the p53 gene in molecular oncology”, _Studies in History and Philosophy of Science_ (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 44(3): 374–384
+* Boddy, A. M., Kokko, H., Breden, F., Wilkinson, G. S., & Aktipis, C. A., 2015, “Cancer susceptibility and reproductive trade-offs: a model of the evolution of cancer defences”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 370(1673): 20140220.
+* Boniolo, G., 2017, “Patchwork narratives for tumour heterogeneity”, in Leitgeb, H., Niiniluoto, I., Seppälä, P. & Sober, E. (eds), _Logic, Methodology and Philosophy of Science – Proceedings of the 15th International Congress_, London: College Publications.
+* Boniolo, G., & Campaner, R., 2019a, “Complexity and integration. A philosophical analysis of how cancer complexity can be faced in the era of precision medicine”, _European Journal for Philosophy of Science_, 9: 1–25.
+* –––, 2019b, “Causal reasoning and clinical practice: Challenges from molecular biology”, _Topoi_, 38(2): 423–435.
+* Boniolo, G., Campaner, R., & Carrara, M., 2021, “Patient Similarity in the Era of Precision Medicine: A Philosophical Analysis”, _Erkenntnis_, 1–22.
+* Boniolo, F., Boniolo, G., & Valente, G., 2023, “Prediction via Similarity: Biomedical Big Data and the Case of Cancer Models”, _Philosophy & Technology_, 36(1): 8.
+* Boniolo, G., Nathan, M.J. (eds), 2016, _Philosophy of molecular medicine: foundational issues in research and practice_, London New York: Routledge, Taylor & Francis Group.
+* Bonnet, D., & Dick, J. E., 1997, “Human acute myeloid leukemia is organized as a hierarchy that originates from a primitive hematopoietic cell”, _Nature Medicine_, 3(7): 730.
+* Bouchard, F., Huneman, P., 2013, _From Groups to Individuals: Perspectives on Biological Associations and Emerging Individuality_, Cambridge, MA: MIT Press.
+* Bourrat, P., & Griffiths, P. E., forthcoming, “The idea of mismatch in evolutionary medicine”, _British Journal for the Philosophy of Science_, doi:10.1086/716543
+* Boyd, Richard, 1999, “Homeostasis, Species, and Higher Taxa”, in _Species—New Interdisciplinary Essays_, R. Wilson (ed.), Cambridge, MA: MIT Press, pp. 141–185.
+* Broadbent, A., 2009, “Causation and models of disease in epidemiology”. _Studies in History and Philosophy of Science_ (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 40(4): 302–311.
+* –––, 2011, “Inferring Causation in Epidemiology: Mechanisms, Black Boxes, and Contrasts”, in _Causation in the Sciences_, P. Illari, F. Russo, & J. Williamson (eds.), Oxford: Oxford University Press, 45–69.
+* –––, 2013, _Philosophy of epidemiology_, London: Palgrave Macmillan.
+* –––, 2014, “Disease as a theoretical concept: The case of ‘HPV-itis’”, _Studies in History and Philosophy of Science_ (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 48(1): 250–257.
+* Brown, M. J., 2013, “Values in science beyond underdetermination and inductive risk”, _Philosophy of Science_, 80(5): 829–839.
+* Bueno, O., Chen R.-L., & Fagan, M.B. (eds.), 2019, _Individuation, Process, and Scientific Practices_, Oxford, New York: Oxford University Press.
+* Cairns, J., 1975, “Mutation selection and the natural history of cancer”, _Nature_, 255(5505): 197.
+* Callahan R, Darzi A., 2015, “Five policy levers to meet the value challenge in cancer care”, _Health Affairs_, 34(9): 1563–8.
+* Cancer Genome Atlas Network, 2015, “Comprehensive genomic characterization of head and neck squamous cell carcinomas”, _Nature_, 517(7536): 576.
+* Cartwright, N., 2011, “A philosopher’s view of the long road from RCTs to effectiveness”, _The Lancet_, 377(9775): 1400–1401.
+* Chin-Yee, B., & Upshur, R., 2019, “Three problems with big data and artificial intelligence in medicine”, _Perspectives in Biology and Medicine_, 62(2): 237–256.
+* Chin-Yee, B. & Plutynski, A., forthcoming, “Concepts of Actionability in Precision Oncology”, _Philosophy of Science_.
+* Clarke E., 2013, “The Multiple Realizability of Biological Individuals”, _Journal of Philosophy_, 110(8): 413–435.
+* –––, 2011, “The Problem of Biological Individuality”, _Biological Theory_, 5(4): 312–325
+* Clarke, A. E., & Fujimura, J. H. (eds.), 2014, _The right tools for the job: At work in twentieth-century life sciences_, Princeton: Princeton University Press.
+* Clevers, H., 2016, “Cancer therapy: defining stemness”, _Nature_, 534(7606): 176.
+* Collins, F. S., & Barker, A. D., 2007, “Mapping the cancer genome”, _Scientific American_, 296(3): 50–57.
+* Cranor, C. F., 1993, _Regulating toxic substances: A philosophy of science and the law_, New York, Oxford University Press.
+* –––, 2006, _Toxic torts: Science, law, and the possibility of justice_, New York: Cambridge University Press; 2nd edition, 2016.
+* –––, 2011, _Legally Poisoned: How the Law Puts Us at Risk from Toxicants_, Cambridge, MA: Harvard University Press
+* –––, 2017. _Tragic failures: How and why we are harmed by toxic chemicals_, Oxford: Oxford University Press.
+* Craver, C. F., 2009, “Mechanisms and natural kinds”, _Philosophical Psychology_, 22(5): 575–594.
+* Crespi, B., & Summers, K., 2005, “Evolutionary biology of cancer”, _Trends in Ecology & Evolution_, 20(10): 545–552.
+* Damuth J., & Heisler, I.L., 1988, “Alternative formulations of multilevel selection”, _Biology and Philosophy_, 3: 407–430.
+* Deaton, A., & Cartwright, N., 2018, “Understanding and misunderstanding randomized controlled trials”, _Social Science & Medicine_, 210: 2–21.
+* DiMarco, M., 2021, “Wishful intelligibility, black boxes, and epidemiological explanation”, _Philosophy of Science_, 88(5): 824–834.
+* DiMarco, M., Zhao, H., Boulicault, M., & Richardson, S. S., 2022, “Why ‘sex as a biological variable’ conflicts with precision medicine initiatives”, _Cell Reports Medicine_, 3(4).
+* Dobzhansky, T., 1973, “Nothing in Biology Makes Sense except in the Light of Evolution”, _The American Biology Teacher_, 35: 125–129.
+* Douglas, H., 2000, “Inductive risk and values in science”, _Philosophy of Science_, 67(4): 559–579.
+* Dupré, J., 1996, _The disorder of things: Metaphysical foundations of the disunity of science_, Cambridge, MA: Harvard University Press.
+* Elliott, K. C., 2011, _Is a little pollution good for you?: Incorporating societal values in environmental research_, New York: Oxford University Press USA.
+* Ereshefsky, M., 2009, “Defining ‘health’ and ‘disease’”, _Studies in History and Philosophy of Science_ (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 40(3): 221–227.
+* Ereshefsky, M., & Reydon, T. A., 2015, “Scientific kinds”, _Philosophical Studies_, 172(4): 969–986.
+* Esserman, L. J., Thompson, I. M., Reid, B., Nelson, P., Ransohoff, D. F., Welch, H. G., … & Bissell, M., 2014, “Addressing overdiagnosis and overtreatment in cancer: a prescription for change”, _The Lancet Oncology_, 15(6): e234–e242.
+* Fagan, M., 2013, _Philosophy of Stem Cell Biology. Knowledge in Flesh and Blood_, London: Palgrave-Macmillan.
+* –––, 2021, _Stem Cells_, Cambridge, MA: Cambridge University Press.
+* –––, 2016, “Pathways to the clinic: cancer stem cells and challenges for translational research”, in G. Boniolo & M.J. Nathan (eds.), _Philosophy of molecular medicine: Foundational issues in research and practice_, New York: Taylor & Francis.
+* Foulds, L., 1958, “The natural history of cancer”,, _Journal of Chronic Diseases_, 8(1): 2–37.
+* Frank, S. A., 2007, _Dynamics of cancer: incidence, inheritance, and evolution_, Princeton: Princeton University Press.
+* Frank, S. A. & Nowak, M. A., 2004, “Problems of somatic mutation and cancer”, _BioEssays_, 26: 291–299.
+* Fujimura, J. H., 1987, “Constructing ‘Do-able’ Problems in Cancer Research: Articulating Alignment”, _Social Studies of Science_, 17(2): 257–293.
+* –––, 1992, “Crafting science: Standardized packages, boundary objects, and ‘translation’”, in A. Pickering (ed.), _Science as Practice and Culture_, Chicago: University of Chicago Press, pp. 168–211
+* –––, 1996, _Crafting science: A sociohistory of the quest for the genetics of cancer_, Cambridge, MA: Harvard University Press.
+* Gardner, A., 2015, “The genetical theory of multilevel selection”, _Journal of Evolutionary Biology_, 28: 305–319.
+* Germain, P-L., 2012, “Cancer Cells and Adaptive Explanations”, _Biology and Philosophy_, 27 (6): 785–810.
+* –––, 2014, “Living instruments and theoretical terms: Xenografts as measurements in cancer research”, in _New Directions in the Philosophy of Science_, Cham: Springer, pp. 141–155.
+* Germain, P. L., & Laplane, L., 2017, “Metastasis as supra-cellular selection? A reply to Lean and Plutynski”, _Biology & Philosophy_, 32(2): 281–287.
+* Giles, G. G., Severi, G., English, D. R., … Hoper, J. L., 2003, “Early growth, adult body size and prostate cancer risk”, _International Journal of Cancer_, 103: 241–245.
+* Godfrey-Smith, P. 2009, _Darwinian populations and natural selection_, Oxford: Oxford University Press.
+* Goldwasser, S., 2023, “Standard aberration: cancer biology and the modeling account of normal function”, _Biology & Philosophy_, 38(1): 4.
+* Goldwasser S., forthcoming, “Finding normality in abnormality: On the ascription of normal functions to cancer”, _Philosophy of Science_.
+* González-Moreno, M., Saborido, C., & Teira, D. 2015, “Disease-mongering through clinical trials”, _Studies in History and Philosophy of Science_ (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 51: 11–18.
+* Greaves, M., 2001, _Cancer: the evolutionary legacy_, Oxford: Oxford University Press.
+* Greaves, M., & Maley, C. C., 2012, “Clonal evolution in cancer”, _Nature_, 481(7381): 306.
+* Green, S., Şerban, M., Scholl, R., Jones, N., Brigandt, I., & Bechtel, W., 2018, “Network analyses in systems biology: new strategies for dealing with biological complexity”, _Synthese_, 195: 1751–1777.
+* Green, S., 2021, “Cancer beyond genetics: on the practical implications of downward causation”, in _Biological Levels: Composition, Scale and Evolution in Complex Systems_, D. S. Brooks, J. DiFrisco and W. C. Wimsatt (eds.), Cambridge, MA: MIT Press, pp. 195– 213.
+* Green, S., Dam, M. S., & Svendsen, M. N., 2021, “Mouse avatars of human cancers: the temporality of translation in precision oncology”, _History and Philosophy of the Life Sciences_, 43(1): 27.
+* Green, S., Dam, M. S., & Svendsen, M. N., 2022, “Patient-Derived Organoids in Precision Oncology Precision oncology–Towards a Science of and for the Individual?” in _Personalized Medicine in the Making: Philosophical Perspectives from Biology to Healthcare_ Cham: Springer International Publishing, pp. 125–146.
+* Greaves, M., 2007, “Darwinian medicine: a case for cancer”, _Nature Reviews Cancer_, 7: 213–221.
+* Hanahan, D., & Weinberg, R. A., 2000, “The hallmarks of cancer”, _Cell_, 100(1): 57–70.
+* –––, 2011. “Hallmarks of cancer: the next generation”, _Cell_, 144(5): 646–674.
+* Hausman, D. M., 2012, “Health, naturalism, and functional efficiency”, _Philosophy of Science_, 79(4): 519–541.
+* Hey, S. P., 2015, “Judging quality and coordination in biomarker diagnostic development”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 30(2): 207–227.
+* Hey, S. P., 2019, “Heuristics and Explanation in Translational Medicine”, _Perspectives in Biology and Medicine_, 62(4): 675–689.
+* Hey, S. P., & Barsanti-Innes, B., 2016, “Epistemology, ethics, and progress in precision medicine”, _Perspectives in Biology and Medicine_, 59(3): 293–310.
+* Hey, S. P., D’Andrea, E., Jung, E. H., Tessema, F., Luo, J., Gyawali, B., & Kesselheim, A. S., 2019, “Challenges and opportunities for biomarker validation”, _The Journal of Law, Medicine & Ethics_, 47(3): 357–361.
+* Hill, A. B., 1965, “The Environment and Disease: Association or Causation?”, _Proceedings of the Royal Society of Medicine_, 58: 295–300.
+* Hoadley, Katherine A., Christina Yau, Denise M. Wolf, Andrew D. Cherniack, David Tamborero, Sam Ng, Max DM Leiserson, et al., 2014, “Multiplatform analysis of 12 cancer types reveals molecular classification within and across tissues of origin”, _Cell_, 158(4): 929–944.
+* Hoadley, K. A., Yau, C., Hinoue, T., Wolf, D. M., Lazar, A. J., Drill, E., … & Akbani, R., 2018, “Cell-of-origin patterns dominate the molecular classification of 10,000 tumors from 33 types of cancer”, _Cell_, 173(2): 291–304.
+* Howick, J. H., 2011, _The philosophy of evidence-based medicine_, Hoboken, NJ: John Wiley & Sons.
+* Hsu, J.I., Dayaram, T., Tovy, A., … & Goodell, M.A., 2018, “PPM1D Mutations Drive Clonal Hematopoiesis in Response to Cytotoxic Chemotherapy”, _Cell Stem Cell_, 23: 700–713.e6.
+* John, S. 2018, “Epistemic trust and the ethics of science communication: against transparency, openness, sincerity and honesty”, _Social Epistemology_, 32(2): 75–87.
+* Kent, D. G., & Green, A. R. 2017. “Order matters: the order of somatic mutations influences cancer evolution”, _Cold Spring Harbor Perspectives in Medicine_, 7(4).
+* Khalidi, M.A.K., 1998, “Natural kinds and crosscutting categories”, _The Journal of Philosophy_, 95(1): 33–50.
+* –––, 2013, _Natural categories and human kinds: Classification in the natural and social sciences_, Cambridge: Cambridge University Press.
+* Kim, J., 2000, “Making sense of downward causation”, in P. B. Andersen, C. Emmeche, N. O. Finnemann & P. V. Christiansen (eds.) _Downward Causation_, Aarhus: University of Aarhus Press, pp 305–321
+* Kincaid, H., 2008, “Do We Need Theory to Study Disease?: lessons from cancer research and their implications for mental illness”, _Perspectives in Biology and Medicine_, 51(3): 367–378.
+* Lapidot, T., Sirard, C., Vormoor, J., Murdoch, B., Hoang, T., Caceres-Cortes, J., … & Dick, J. E., 1994, “A cell initiating human acute myeloid leukaemia after transplantation into SCID mice”, _Nature_, 367(6464): 645.
+* Lange, M., 2007, “The End of Diseases”, _Philosophical Topics_, 35: 265–292.
+* Laplane, L.,2014, “Identifying theories in developmental biology. The case of the cancer stem cell theory”, in A. Minelli & T. Pradeu (eds.), _Toward a theory of development_, Oxford: Oxford University Press, pp 246–259.
+* –––, 2016, _Cancer Stem Cells_, Cambridge, MA: Harvard University Press.
+* –––, 2018, “Cancer stem cells modulate patterns and processes of evolution in cancers”, _Biology & Philosophy_, 33(3–4): 18.
+* Laplane, L., Duluc, D., Larmonier, N., Pradeu, T. & Bikfalvi, A., 2018, “The multiple layers of the tumor environment”, _Trends Cancer_, 4: 802– 809.
+* Laplane, L. and Solary, E., 2019a “Philosophy of Biology: Towards a classification of stem cells”, _eLife_, 8: e46563.
+* Laplane, L., Duluc, D., Bikfalvi, A., Larmonier, N. & Pradeu, T., 2019b, “Beyond the tumour microenvironment”, _International Journal of Cancer_, 145: 2611– 2618.
+* Lean, C. and Plutynski, A., 2016, “The Evolution of Failure: Explaining Cancer as an Evolutionary Process”, _Biology and Philosophy_, 31(1): 39–57.
+* Love AC, Brigandt I., 2017, “Philosophical Dimensions of Individuality”, in S. Lidgard and L.K. Nyhart (eds.), _Biological Individuality: Integrating Scientific, Philosophical, and Historical Perspectives_, Chicago: University of Chicago Press.
+* Lyne, A.-M., Laplane, L. & Perié, L., 2021, “To portray clonal evolution in blood cancer, count your stem cells”, _Blood_, 137: 1862–1870.
+* Machamer, P., Darden, L., & Craver, C. F., 2000, “Thinking about mechanisms”, _Philosophy of Science_, 67(1): 1–25.
+* Malaterre, C., 2007, “Organicism and reductionism in cancer research: Towards a systemic approach”, _International Studies in the Philosophy of Science_, 21(1): 57–73.
+* –––, 2011, “Making sense of Downward Causation in Manipulationism (with Illustrations from Cancer Research)”, _History and Philosophy of the Life Sciences_, (33): 537–562.
+* Maman, S., & Witz, I. P., 2018, “A history of exploring cancer in context”, _Nature Reviews Cancer_, 18(6): 359–376.
+* Marcum, J. A., 2005, “Metaphysical presuppositions and scientific practices: Reductionism and organicism in cancer research”, _International Studies in the Philosophy of Science_, 19(1): 31–45.
+* Martincorena, Iñigo, Amit Roshan, Moritz Gerstung, Peter Ellis, Peter Van Loo, Stuart McLaren, David C. Wedge, et al., 2015, “High burden and pervasive positive selection of somatic mutations in normal human skin”, _Science_ 348(6237): 880–886.
+* Marusyk, A., Almendro, V. & Polyak, K., 2012, “Intra-tumour heterogeneity: a looking glass for cancer?”, _Nature Reviews Cancer_, 12: 323–34.
+* Mauvais-Jarvis, F., Merz, N. B., Barnes, P. J., Brinton, R. D., Carrero, J. J., DeMeo, D. L., … & Suzuki, A., 2020, “Sex and gender: modifiers of health, disease, and medicine”, _The Lancet_, 396(10250): 565–582.
+* Mayo, D. G., & Hollander, R. D. (eds.), 1994, _Acceptable evidence: Science and values in risk management_, Oxford: Oxford University Press on Demand.
+* Merlo, L. M., Pepper, J. W., Reid, B. J., & Maley, C. C., 2006, “Cancer as an evolutionary and ecological process”, _Nature Reviews Cancer_, 6(12): 924–935.
+* Mitchell, S. D., 2009, _Unsimple truths: Science, complexity, and policy_, Chicago: University of Chicago Press.
+* Montévil M, Mossio M, 2015, “Biological organisation as closure of constraints”, _Journal of Theoretical Biology_, 372: 179–191.
+* Mossio M, Saborido C, Moreno A., 2009, “An organizational account of biological functions”, _British Journal for Philosophy of Science_, 60(4): 813–841.
+* Mossio, M., & Bich, L., 2017, “What makes biological organisation teleological?” _Synthese_, 194(4): 1089–1114.
+* Morange, M., 1993, “The Discovery of Cellular Oncogenes”, _History and Philosophy of the Life Sciences_, 15(1): 45–58
+* –––, 1997, “From the regulatory vision of cancer to the oncogene paradigm, 1975–1985”, _Journal of the History of Biology_, 30(1): 1–29.
+* –––, 2003, “History of cancer research”, _Encyclopedia of Life Sciences_, London: Nature Publishing Group
+* –––, 2015, “Is There an Explanation for… the Diversity of Explanations in Biological Studies?”, in P. A. Braillard and C. Malaterre (eds.), _Explanation in Biology: An Enquiry into the Diversity of Explanatory Patterns in the Life Sciences_, Dordrecht: Springer, pp. 31–46
+* Morgan, G., 2022, _Cancer Virus Hunters: A History of Tumor Virology_, Baltimore: Johns Hopkins University Press.
+* Okasha, S., 2005, “Multilevel selection and the major transitions in evolution”, _Philosophy of Science_, 72(5): 1013–1025.
+* –––, 2006, _Evolution and the levels of selection_, Oxford: Oxford University Press.
+* –––, forthcoming, “Cancer and the levels of selection”, _The British Journal for the Philosophy of Science_. doi:10.1086/716178
+* Oreskes, N., & Conway, E. M., 2011, _Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming_, New York: Bloomsbury Publishing USA.
+* Ortmann, C.A., Kent, D.G., Nangalia, J., … & Green, A.R., 2015, “Effect of mutation order on myeloproliferative neoplasms”, _The New England Journal of Medicine_, 372: 601–12.
+* Parke, E. C., & Plutynski, A., 2023, “Going big by going small: Trade-offs in microbiome explanations of cancer”, _Studies in History and Philosophy of Science_, 97: 101–110.
+* Pierce, G. B., & Speers, W. C., 1988, “Tumors as caricatures of the process of tissue renewal: prospects for therapy by directing differentiation”, _Cancer Research_, 48(8): 1996–2004.
+* Plutynski, A., 2017, “Safe or Sorry? Cancer Screening and Inductive Risk”, in _Exploring Inductive Risk: Case Studies of Values in Science_, K.C. Elliott & T. Richards (eds.), Oxford: Oxford University Press, pp. 149–171.
+* –––, 2018, _Explaining Cancer: Finding Order in Disorder_, New York: Oxford University Press.
+* –––, 2018b, “The origins of ‘dynamic reciprocity’: Mina Bissell’s expansive picture of cancer causation”, in O. Harman and M. Dietrich (eds.), _Dreamers, Visionaries, and Revolutionaries in the Life Sciences_, Chicago: University of Chicago Press, Chicago, 96– 110.
+* –––, 2021a, “How is cancer complex?” _European Journal for Philosophy of Science_, 11(2): 55.
+* –––, 2021b, “Is cancer a matter of luck?” _Biology & Philosophy_, 36: 3.
+* –––, 2022, “Why Precision Oncology Precision oncology Is Not Very Precise (and Why This Should Not Surprise Us)”, in _Personalized Medicine in the Making: Philosophical Perspectives from Biology to Healthcare_, C. Beneduce & M. Bertolaso (eds.), Cham: Springer International Publishing, pp. 3–21.
+* Pradeu, T., 2012, _The Limits of the Self: Immunology and Biological Identity_, New York: Oxford University Press.
+* –––, 2013, “Immunity and the emergence of individuality”, in _From Groups to Individuals: Evolution and Emerging Individuality_, F. Bouchard and P. Huneman (eds.), Cambridge, MA: MIT Press, pp. 77–96
+* –––, 2016, “The many faces of biological individuality”, _Biology and Philosophy_, 31: 761–773.
+* –––, 2019, _Philosophy of Immunology_, Cambridge: Cambridge University Press.
+* Pradeu, T., Daignan‐Fornier, B., Ewald, A., Germain, P. L., Okasha, S., Plutynski, A., … & Laplane, L., 2023, “Reuniting philosophy and science to advance cancer research”, _Biological Reviews_, 98(5): 1668–1686.
+* Prasad, V. K., 2020, _Malignant: how bad policy and bad evidence harm people with Cancer_, Baltimore: Johns Hopkins University Press.
+* Prasad, V., & Gale, R. P., 2016, “Precision medicine in acute myeloid leukemia: Hope, hype or both?”, _Leukemia Research_, 48: 73–77.
+* Prasad, V., Fojo, T., & Brada, M., 2016, “Precision oncology: origins, optimism, and potential”, _The Lancet Oncology_, 17(2): e81–e86.
+* Proctor, R. N., 1996, _Cancer Wars: How Politics Shapes What We Know and Don’t Know About Cancer_, New York: Basic Books.
+* Reid, L., 2017, “Truth or Spin? Disease Definition in Cancer Screening”, _Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine_, 42(4): 385–404.
+* Reya, T., Morrison, S. J., Clarke, M. F. & Weissman, I. L., 2001, “Stem cells, cancer, and cancer stem cells”, _Nature_, 414: 105–11.
+* Rondeau, E., Larmonier, N., Pradeu, T. & Bikfalvi, A., 2019, “Philosophy of biology: characterizing causality in cancer”, _eLife_, 8: e53755.
+* Russo, F., \&Williamson, J., 2007, “Interpreting Causality in the Health Sciences”, _International Studies in the Philosophy of Science_, 21(2): 157–70.
+* Schaffner, K. F., 2006, “Reduction: the Cheshire cat problem and a return to roots”, _Synthese_, 151: 377–402.
+* Schedin, P., 2006, “Pregnancy-associated breast cancer and metastasis”, _Nature Reviews Cancer_, 6(4): 281.
+* Schwartz, P. H., 2014, “Small tumors as risk factors not disease”, _Philosophy of Science_, 81(5): 986–998.
+* Sepich-Poore, G. D., Guccione, C., Laplane, L., Pradeu, T., Curtius, K. & Knight, R., 2022, “Cancer’s second genome: microbial cancer diagnostics and redefining clonal evolution as a multispecies process”, _BioEssays_, 44: 2100252.
+* Shipitsin, M., Campbell, L. L., Argani, P., … & Polyak, K., 2007, “Molecular definition of breast tumor heterogeneity”, _Cancer Cell_, 11: 259–273.
+* Sholl, J., 2022, “Everything in moderation or moderating everything? Nutrient balancing in the context of evolution and cancer metabolism”, _Biology & Philosophy_, 37(2): 14.
+* Sholl, J., Sepich-Poore, G.D., Knight, R. & Pradeu, T., 2022, “Redrawing therapeutic boundaries: microbiota and cancer”, _Trends in Cancer_, 8: 87–97.
+* Shpak, M. & Lu, J., 2016, “An Evolutionary Genetic Perspective on Cancer Biology”, _Annual Review of Ecology, Evolution, and Systematics_, 47: 25–49.
+* Shrader-Frechette, K. S., 1993, _Burying uncertainty: Risk and the case against geological disposal of nuclear waste_, San Francisco: University of California Press.
+* –––, 2002, _Environmental justice: Creating equality, reclaiming democracy_, New York: Oxford University Press.
+* Shrager, J., Shapiro, M., & Hoos, W., 2019, “Is cancer solvable? Towards efficient and ethical biomedical science”, _The Journal of Law, Medicine & Ethics_, 47(3): 362–368.
+* Siegel, R. L., Miller, K. D., & Jemal, A., 2017, “Cancer statistics, 2017”, _CA: A Cancer Journal for Clinicians_, 67(1): 7–30
+* Slater, M. H., 2014, “Natural kindness”, _The British Journal for the Philosophy of Science_, 66(2): 375–411.
+* Solomon, M., 2015, _Making medical knowledge_, New York: Oxford University Press, USA.
+* Sonnenschein, C. & Soto, A.M., 2000, “Somatic mutation theory of carcinogenesis: why it should be dropped and replaced”, _Molecular Carcinogenesis_, 29: 205–11
+* –––, 2008, “Theories of carcinogenesis: an emerging perspective”, _Seminars in Cancer Biology_, 18: 372–7.
+* Sorenson, R., 2011, “Paranatural Kinds”, in _Carving Nature at Its Joints: Natural Kinds in Metaphysics and Science_, J. K. Campbell, M. O’Rourke, & M. H. Slater (eds.), Cambridge, MA: MIT Press. 113–128.
+* Soto, A. M., & Sonnenschein, C., 2004, “The somatic mutation theory of cancer: growing problems with the paradigm?”, _Bioessays_, 26(10): 1097–1107.
+* –––, 2005, “Emergentism as a default: cancer as a problem of tissue organization”, _Journal of Biosciences_, 30(1): 103–11
+* Stearns, S. C. & Koella, J. C., (eds.), 2007, _Evolution in Health and Disease_, Oxford, New York: Oxford University Press.
+* Soto, A. M., Sonnenschein, C. & Miquel, P. A., 2008, “On physicalism and Downward Causation in Developmental and Cancer Biology”, _Acta Biotheoretica_, 56: 257–274.
+* Steel, D., 2007, _Across the boundaries: Extrapolation in biology and social science_, Oxford: Oxford University Press.
+* –––, 2010, “Epistemic values and the argument from inductive risk”, _Philosophy of Science_, 77(1): 14–34.
+* –––, 2015, _Philosophy and the precautionary principle_, New York: Cambridge University Press.
+* Stegenga, J., 2015, “Measuring effectiveness”, _Studies in History and Philosophy of Science_ (Part C: Studies in History and Philosophy of Biological and Biomedical Sciences), 54: 62–71.
+* –––, 2018, _Medical Nihilism_, Oxford: Oxford University Press.
+* Strauss, B., M. Bertolaso, I. Ernberg and M. J. Bissell (eds.), 2021, _Rethinking Cancer: A New Paradigm for the Postgenomics Era_, Cambridge, MA: MIT Press.
+* Tabery, J., 2023, _Tyranny of the Gene: Personalized Medicine and Its Threat to Public Health_, New York: Knopf.
+* Temin, H., 1974, “Introduction to virus-caused cancers”, _Cancer_ 34 (Supplement): 1347–1352.
+* Tomasetti, C. & Vogelstein, B. 2015, “Variation in cancer risk among tissues can be explained by the number of stem cell divisions”, _Science_, 347: 78– 81.
+* Tomasetti, C., Li, L., & Vogelstein, B., 2017, “Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention”, _Science_, 355: 1330–1334.
+* Ushijima, T., Clark, S. J. & Tan, P., 2021, “Mapping genomic and epigenomic evolution in cancer ecosystems”, _Science_, 373: 1474–1479.
+* Valles, S. A., 2012, “Evolutionary medicine at twenty: rethinking adaptationism and disease”, _Biology & Philosophy_, 27: 241–261.
+* –––, 2018, _Philosophy of population health: Philosophy for a new public health era_, London: Routledge.
+* –––, 2021, “A pluralistic and socially responsible philosophy of epidemiology field should actively engage with social determinants of health and health disparities”, _Synthese_, 198 (Supplement 10): 2589–2611.
+* Vogelstein, B. & Kinzler, K. W., 1993, “The multistep nature of cancer”, _Trends Genet_, 9: 138–141.
+* Vogt, H., Green, S., Ekstrøm, C. T., & Brodersen, J., 2019, “How precision medicine and screening with big data could increase overdiagnosis”, _The BMJ_, 366: l5270. doi:10.1136/bmj.l5270
+* Weinberg, R., 2013, _The Biology of Cancer_, New York: Garland science.
+* Weaver, V. M., Petersen, O. W., Wang, F., Larabell, C. A., Briand, P., Damsky, C., & Bissell, M. J., 1997, “Reversion of the malignant phenotype of human breast cells in three-dimensional culture and in vivo by integrin blocking antibodies”, _The Journal of Cell Biology_, 137(1): 231–245.
+* Weaver, V. M., Lelièvre, S., Lakins, J. N., Chrenek, M. A., Jones, J. C., Giancotti, F., … & Bissell, M. J., 2002, “β4 integrin-dependent formation of polarized three-dimensional architecture confers resistance to apoptosis in normal and malignant mammary epithelium”, _Cancer Cell_, 2(3): 205–216.
+* Welch, H.G. & Black, W.C., 2010, “Overdiagnosis in cancer”, _Journal of the National Cancer Institute_, 102: 605–613.
+* Wicha, M. S., Liu, S. & Dontu, G., 2006, “Cancer stem cells: an old idea–a paradigm shift”, _Cancer Research_, 66: 1883–1886.
+* Williams, Neil E., 2011, “Arthritis and nature’s joints”, in _Carving Nature at Its Joints: Natural Kinds in Metaphysics and Science_, Joseph Keim Campbell, Michael O’Rourke, & Matthew H. Slater (eds.), Cambridge, MA: MIT Press, pp. 199–230.
+* Wodarz, D. & Komarova, N. L., 2014, _Dynamics of cancer: mathematical foundations of oncology_, New Jersey: World Scientific.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cancer). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/cancer/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=cancer&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/cancer/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cancer).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/cancer/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=cancer\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/cancer/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -407,8 +407,8 @@ Dobzhansky（1973）写道：“除了在进化的光芒下，生物学中没有
 
 ## Related Entries
 
-[genomics and postgenomics](https://plato.stanford.edu/entries/genomics/) | [health](https://plato.stanford.edu/entries/health-disease/) | [mechanism in science](https://plato.stanford.edu/entries/science-mechanisms/) | [medicine, philosophy of](https://plato.stanford.edu/entries/medicine/) | [systems and synthetic biology, philosophy of](https://plato.stanford.edu/entries/systems-synthetic-biology/)
+[genomics and postgenomics](https://plato.stanford.edu/entries/genomics/) | [health](https://plato.stanford.edu/entries/health-disease/) | [mechanism in science](https://plato.stanford.edu/entries/science-mechanisms/) | [medicine, philosophy of](https://plato.stanford.edu/entries/medicine/) | [systems and synthetic biology, philosophy of](https://plato.stanford.edu/entries/systems-synthetic-biology/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Anya Plutynski](https://philosophy.artsci.wustl.edu/people/anya-plutynski) <[*aplutyns@wustl.edu*](mailto:aplutyns%40wustl%2eedu)>  
-[Lucie Laplane](https://www.pantheonsorbonne.fr/page-perso/llaplane) <[*lucie.laplane@univ-paris1.fr*](mailto:lucie%2elaplane%40univ-paris1%2efr)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Anya Plutynski](https://philosophy.artsci.wustl.edu/people/anya-plutynski) <[_aplutyns@wustl.edu_](mailto:aplutyns%40wustl%2eedu)>\
+[Lucie Laplane](https://www.pantheonsorbonne.fr/page-perso/llaplane) <[_lucie.laplane@univ-paris1.fr_](mailto:lucie%2elaplane%40univ-paris1%2efr)>

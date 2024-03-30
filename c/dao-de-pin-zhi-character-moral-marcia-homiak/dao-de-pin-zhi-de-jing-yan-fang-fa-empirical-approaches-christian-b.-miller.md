@@ -1,6 +1,6 @@
 # 道德品质的经验方法 empirical approaches (Christian B. Miller)
 
-*首次发布于 2016 年 8 月 3 日星期三；实质性修订于 2023 年 6 月 16 日星期五*
+_首次发布于 2016 年 8 月 3 日星期三；实质性修订于 2023 年 6 月 16 日星期五_
 
 本世纪之交，哲学家们对道德品质的实证问题越来越关注。至少可以追溯到西方的柏拉图和亚里士多德，以及东方的孔子，哲学家们传统上在理论化品质时在一定程度上借鉴实证数据。近年来主要的区别之一是这些实证数据的来源，即社会和人格心理学家在道德相关思想和行为方面的研究。
 
@@ -24,23 +24,23 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/moral-character-empirical/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/moral-character-empirical/#Rel)
 
----
+***
 
 ## 1. 哲学中的情境主义
 
 在 20 世纪 60 年代末和 70 年代，心理学中的情境主义运动成为中心。一场激烈的“人-情境辩论”随之而来，质疑传统人格特质的存在甚至对人格心理学学科的必要性。描述这一时代的作家称其为“创伤性”的和“激烈”的，涉及“战争”和“激烈但徒劳的战斗”（Mischel 2009: 283, 1999b: 39）。然而，到了 20 世纪 80 年代，许多心理学家与情境主义运动分道扬镳，如今很少有人会认同当时提出的主张。
 
-这篇文章不会深入探讨心理学的辩论（详见米勒 2014 年：第 4 章进行广泛讨论）。提到这一点是为了为哲学中后来的情境主义运动做铺垫。负责启动这一讨论的主要哲学家是吉尔伯特·哈曼（Gilbert Harman），他在一系列可以追溯到 1999 年的论文中提出了这一观点，约翰·多里斯（John Doris）在几篇论文中提到，并且最重要的是在他 2002 年的著作《*缺乏品格：个性与道德行为*》中（哈曼 1999, 2000, 2001, 2003, 2009; 多里斯 1998, 2002, 2010; 以及梅里特等人 2010 年。支持他们观点的其他人，请参阅布莱克本 1998 年：36-37; 坎贝尔 1999; 赫卡 2001 年：44; 戈尔迪 2004 年：第 3 章; 弗拉纳斯 2005 年; 阿皮亚 2008 年：第 2 章; 厄普顿 2009; 巴德瓦尔 2009; 萨基西安 2010; 以及阿尔法诺 2013）。总体而言，哈曼和多里斯利用了在心理学情境主义运动期间具有影响力的研究和主张，并将它们应用于当代伦理理论的讨论。特别是，他们关注的重点是实证数据，以他们的解释，如何可能对亚里士多德的德性伦理学构成困扰。
+这篇文章不会深入探讨心理学的辩论（详见米勒 2014 年：第 4 章进行广泛讨论）。提到这一点是为了为哲学中后来的情境主义运动做铺垫。负责启动这一讨论的主要哲学家是吉尔伯特·哈曼（Gilbert Harman），他在一系列可以追溯到 1999 年的论文中提出了这一观点，约翰·多里斯（John Doris）在几篇论文中提到，并且最重要的是在他 2002 年的著作《_缺乏品格：个性与道德行为_》中（哈曼 1999, 2000, 2001, 2003, 2009; 多里斯 1998, 2002, 2010; 以及梅里特等人 2010 年。支持他们观点的其他人，请参阅布莱克本 1998 年：36-37; 坎贝尔 1999; 赫卡 2001 年：44; 戈尔迪 2004 年：第 3 章; 弗拉纳斯 2005 年; 阿皮亚 2008 年：第 2 章; 厄普顿 2009; 巴德瓦尔 2009; 萨基西安 2010; 以及阿尔法诺 2013）。总体而言，哈曼和多里斯利用了在心理学情境主义运动期间具有影响力的研究和主张，并将它们应用于当代伦理理论的讨论。特别是，他们关注的重点是实证数据，以他们的解释，如何可能对亚里士多德的德性伦理学构成困扰。
 
 他们的广泛论证策略分为两个阶段：
 
-* *第一阶段*。借鉴心理学研究，表明人们通常没有他们所说的全局性品质。
-* *第二阶段*。证明这对亚里士多德的德性伦理学以及任何其他在某种核心方式上致力于全局性品质的规范伦理观来说是一个严重问题。
+* _第一阶段_。借鉴心理学研究，表明人们通常没有他们所说的全局性品质。
+* _第二阶段_。证明这对亚里士多德的德性伦理学以及任何其他在某种核心方式上致力于全局性品质的规范伦理观来说是一个严重问题。
 
 首先，我们需要在深入了解两个阶段的细节之前澄清全球性品质是什么。根据多丽丝（Doris）的说法，全球性品质具有两个主要特征：
 
-* *一致性*。品质在各种可能大不相同的与品质相关的引发条件下，都能可靠地表现出来，这些条件可能对该品质的表现具有不同程度的有利性。
-* *稳定性*。道德品质在相似的道德相关诱发条件的重复试验中可靠地表现出来（Doris 2002: 22. 他提到的第三个特征，评价整合，在他的讨论中并不占据太大比重。）。
+* _一致性_。品质在各种可能大不相同的与品质相关的引发条件下，都能可靠地表现出来，这些条件可能对该品质的表现具有不同程度的有利性。
+* _稳定性_。道德品质在相似的道德相关诱发条件的重复试验中可靠地表现出来（Doris 2002: 22. 他提到的第三个特征，评价整合，在他的讨论中并不占据太大比重。）。
 
 举个例子会有所帮助。以节制为例。一个具有这种品质的人被期望会在同一类型的情境中展现出来，比如在餐馆就餐时。但也被期望在与该品质相关的其他情境中展现出来，比如饮酒、性活动等，以及在家吃饭、在机场吃饭、和朋友一起吃饭、独自进餐等。对于其他我们可能称之为“传统”美德的例子，比如勇气、诚实和仁慈，也是如此。像残忍和不诚实这样的恶习也算是全局性的品质特征。
 
@@ -64,9 +64,9 @@ Harman 和 Doris 没有利用实验证据来挑战品质特征的稳定性。正
 
 专注于帮助和同情，以下是他们讨论中占据中心位置的三项研究：
 
-* *电话亭里的一角钱*。心理学家伊森和莱文让实验组在电话亭的投币口找到一枚一角钱，而对照组没有。随后，两组个体都有机会帮助捡起掉落的文件。实验组中有 88%提供帮助；而对照组只有 4%提供帮助（伊森和莱文，1972 年）。这项研究存在复制问题，但有许多其他关于情绪对帮助的影响的研究发现了类似的模式（参见米勒，2013 年：第 3 章）。
-* *处于困境的女士*。在 1969 年的“处于困境的女士”实验中，参与者听到隔壁房间传来一声巨响，伴随着一位女性的尖叫。听起来像是书架倒在她身上，紧接着是痛苦的哭声。问题是参与者是否会采取任何行动来帮助。那些独自一人的人有 70%的时间会提供帮助。但令人震惊的是，如果一个参与者和一个什么都不做的陌生人在同一个房间里，帮助发生的概率只有 7%（Latané和 Rodin 1969: 193–195; Latané和 Darley 1970: 60–63）。
-* *服从权威*。斯坦利·米尔格拉姆的电击实验可以说是心理学史上最著名的实验。尤其相关的是第五个实验，在那里，参与者必须给另一个房间里的一个无辜者做测试，并为每个错误答案转动一个旋钮，电击强度逐渐增大。在 270 伏特时，被测试者要求停止测试，并发出痛苦的尖叫声。在更高的电压水平下，请求变得绝望和歇斯底里。然而，在权威人士的压力下，80%的参与者至少达到了 270 伏特，65%的人一直进行到 450 伏特的 XXX 水平，这是一种致命的电击水平（他们认为是）（Milgram 1974: 60）。
+* _电话亭里的一角钱_。心理学家伊森和莱文让实验组在电话亭的投币口找到一枚一角钱，而对照组没有。随后，两组个体都有机会帮助捡起掉落的文件。实验组中有 88%提供帮助；而对照组只有 4%提供帮助（伊森和莱文，1972 年）。这项研究存在复制问题，但有许多其他关于情绪对帮助的影响的研究发现了类似的模式（参见米勒，2013 年：第 3 章）。
+* _处于困境的女士_。在 1969 年的“处于困境的女士”实验中，参与者听到隔壁房间传来一声巨响，伴随着一位女性的尖叫。听起来像是书架倒在她身上，紧接着是痛苦的哭声。问题是参与者是否会采取任何行动来帮助。那些独自一人的人有 70%的时间会提供帮助。但令人震惊的是，如果一个参与者和一个什么都不做的陌生人在同一个房间里，帮助发生的概率只有 7%（Latané和 Rodin 1969: 193–195; Latané和 Darley 1970: 60–63）。
+* _服从权威_。斯坦利·米尔格拉姆的电击实验可以说是心理学史上最著名的实验。尤其相关的是第五个实验，在那里，参与者必须给另一个房间里的一个无辜者做测试，并为每个错误答案转动一个旋钮，电击强度逐渐增大。在 270 伏特时，被测试者要求停止测试，并发出痛苦的尖叫声。在更高的电压水平下，请求变得绝望和歇斯底里。然而，在权威人士的压力下，80%的参与者至少达到了 270 伏特，65%的人一直进行到 450 伏特的 XXX 水平，这是一种致命的电击水平（他们认为是）（Milgram 1974: 60）。
 
 其他研究包括普林斯顿神学院的匆忙研究（Darley 和 Batson 1973）和辛巴多监狱实验（Haney 等，1973）。
 
@@ -78,7 +78,7 @@ Harman 和 Doris 没有利用实验证据来挑战品质特征的稳定性。正
 
 重要的是要清楚哈曼和多丽斯认为他们在争论什么（在这里参考米勒 2014 年：193-194）。不应将他们解读为在形而上学上提出以下观点：
 
-从形而上学的角度来看，*仁慈的品质*是不存在的。
+从形而上学的角度来看，_仁慈的品质_是不存在的。
 
 这是形而上学的辩论问题，而不是这些心理学实验可以证实的事情。此外，它们不应被解读为支持以下强有力的经验主张：
 
@@ -90,11 +90,11 @@ Harman 和 Doris 没有利用实验证据来挑战品质特征的稳定性。正
 
 鉴于心理学证据，我们无法凭借这些证据相信大多数人具有传统的美德或恶习，比如同情心。
 
-他们确实接受了这一观点，但他们也提出了更强烈的主张。哈曼表示，“甚至可能不存在所谓的品质”（Harman 1999: 328；有关最近的修正，请参见 Harman 2009: 238, 241）。多里斯认为，“人们通常缺乏品质”（Doris 1998: 506, 2002: 2）。在与玛丽亚·梅里特（Maria Merritt）合著的一篇文章中，他们共同表示，“行为通常*不*受到稳健特质的支配”（Merritt 等人 2010: 358，强调为他们自己）。
+他们确实接受了这一观点，但他们也提出了更强烈的主张。哈曼表示，“甚至可能不存在所谓的品质”（Harman 1999: 328；有关最近的修正，请参见 Harman 2009: 238, 241）。多里斯认为，“人们通常缺乏品质”（Doris 1998: 506, 2002: 2）。在与玛丽亚·梅里特（Maria Merritt）合著的一篇文章中，他们共同表示，“行为通常_不_受到稳健特质的支配”（Merritt 等人 2010: 358，强调为他们自己）。
 
 这里是如何理解他们的结论的：
 
-鉴于心理证据，我们有理由相信，基于这些证据，大多数人*并没有*拥有传统的美德或恶习，比如同情心。
+鉴于心理证据，我们有理由相信，基于这些证据，大多数人_并没有_拥有传统的美德或恶习，比如同情心。
 
 考虑到这一点，让我们转向他们论证的第二阶段。
 
@@ -108,7 +108,7 @@ Harman 和 Doris 没有利用实验证据来挑战品质特征的稳定性。正
 
 接下来是 Doris 在他 1998 年的论文中：
 
-> 亚里士多德式的德行伦理学，当被解释为引用一般适用的描述性心理学时…[受到]有害的经验批评 (Doris 1998: 520)。
+> 亚里士多德式的德行伦理学，当被解释为引用一般适用的描述性心理学时…\[受到]有害的经验批评 (Doris 1998: 520)。
 
 他们共同的假设似乎是亚里士多德主义者不仅提出规范性的主张，而且提出经验性的主张，特别是道德美德和/或恶习被大多数人普遍持有 (另见 Merritt 2000: 366; Sreenivasan 2002: 48, 57, 63; Sabini and Silver 2005: 538)。鉴于在第一阶段他们认为这在经验上被证伪，因此可以得出结论，亚里士多德式的德行伦理学存在严重问题。
 
@@ -126,45 +126,45 @@ Here in this second stage it is hard to pin down exactly how the argument was su
 
 以下回应针对全球性品质特征的论点。
 
-* *评估品格的特定实验的不足*。 一个自然的问题是，Harman 和 Doris 引用的实验是否真的表明大多数人缺乏同情心这种美德。 一些哲学家已经提出了反对意见。
+* _评估品格的特定实验的不足_。 一个自然的问题是，Harman 和 Doris 引用的实验是否真的表明大多数人缺乏同情心这种美德。 一些哲学家已经提出了反对意见。
 
 例如，Miller（2003）对《电话亭里的一角》提出了质疑。对齐姆巴多监狱实验引起了严重关注，有呼吁将其从心理学教科书中删除的声音（Blum 2018）。其他人并不认为米尔格拉姆实验和达利和巴森普林斯顿神学院实验对同情心的拥有有太多启发（见 Sreenivasan 2002：60-61；Annas 2003：14（见其他互联网资源）；Adams 2006：147；Snow 2010：103-107，111-116。有关这一回应线的一般讨论，请参见 Montmarquet 2003：365-368；Russell 2009：279-287）。关于像“困境中的女士”这样的旁观者干预研究，可以提出异议，认为它们是在实验室中人为进行的。在有史以来仅进行的一项自然主义旁观者干预研究中，Philpot 及其同事（2019）分析了荷兰、南非和英国公共城市地区 219 个闭路电视录像中的攻击行为。他们发现，“至少有一个旁观者在 90.9%的情况下进行了干预，每个视频平均有 3.76 名干预者”，尽管另一方面，在任何特定事件中的旁观者平均人数为 16.29（Philpot 等人 2019）。
 
 如果有足够多的研究被这样质疑，那么论证的第一阶段将无法通过，因此第二阶段的论证如何进行将不重要（有关对这一回应的批评，请参见 Russell 2009：279-287）。
 
-* *竞争的美德*。这个下一个回应可以被视为前一个版本的不同版本。它质疑哈曼/多里斯论点的第一阶段，暗示相关研究的结果最好被解释为展示了美德的竞争，而不是表明缺乏美德，或者这个回应的一个较弱版本会说，至少哈曼和多里斯没有做足够的工作来排除这个假设。
+* _竞争的美德_。这个下一个回应可以被视为前一个版本的不同版本。它质疑哈曼/多里斯论点的第一阶段，暗示相关研究的结果最好被解释为展示了美德的竞争，而不是表明缺乏美德，或者这个回应的一个较弱版本会说，至少哈曼和多里斯没有做足够的工作来排除这个假设。
 
-例如，与其说标准的米尔格拉姆实验证明大多数参与者缺乏同情心这一点，也许更好的解释是说，他们的同情心被另一种美德所压倒，而这种美德在当时似乎具有更高的优先级（也许是错误的）。这种美德的候选者可能是服从。再比如*遇难女士*研究。在这里，参与者的同情心可能被另一种美德所压倒，比如信任，因为他们跟随房间里的另一个人的榜样，而那个人没有做出回应。同样，对于在这场辩论中提到的其他研究，也可以找到其他竞争美德的候选者（有关讨论，请参见所罗门 2003 年：53、55-56；坎特卡尔 2004 年：473；克里斯蒂安松 2008 年：64-65；斯诺 2010 年：106。有关批评，请参见哈曼 2003 年：91；普林兹 2009 年：123；罗素 2009 年：282-283、286）。
+例如，与其说标准的米尔格拉姆实验证明大多数参与者缺乏同情心这一点，也许更好的解释是说，他们的同情心被另一种美德所压倒，而这种美德在当时似乎具有更高的优先级（也许是错误的）。这种美德的候选者可能是服从。再比如_遇难女士_研究。在这里，参与者的同情心可能被另一种美德所压倒，比如信任，因为他们跟随房间里的另一个人的榜样，而那个人没有做出回应。同样，对于在这场辩论中提到的其他研究，也可以找到其他竞争美德的候选者（有关讨论，请参见所罗门 2003 年：53、55-56；坎特卡尔 2004 年：473；克里斯蒂安松 2008 年：64-65；斯诺 2010 年：106。有关批评，请参见哈曼 2003 年：91；普林兹 2009 年：123；罗素 2009 年：282-283、286）。
 
-**心理状态也很重要**。心理学中情境主义文献中经常提到的一个观点是，所谓的“情境力量”，与全局性品质特征甚至更为熟悉的民间心理状态（如信念和欲望）相比，是解释我们行为的最佳原因之一（参见例如 Ross 和 Nisbett 1991: 59; Sabini 和 Silver 2005: 546–554）。2005 年发表在《*伦理学*》杂志上的一篇论文中，领先的心理学家约翰·萨比尼（John Sabini）和莫里·银（Maury Silver）通过主要批评这一观点来参与哈曼（Harman）和多里斯（Doris）的研究。他们的方法是重新评估诸如《*困境中的女士*》等主要研究，以显示心理状态甚至品质特征确实是解释结果的核心。总结他们的观点，他们写道，
+**心理状态也很重要**。心理学中情境主义文献中经常提到的一个观点是，所谓的“情境力量”，与全局性品质特征甚至更为熟悉的民间心理状态（如信念和欲望）相比，是解释我们行为的最佳原因之一（参见例如 Ross 和 Nisbett 1991: 59; Sabini 和 Silver 2005: 546–554）。2005 年发表在《_伦理学_》杂志上的一篇论文中，领先的心理学家约翰·萨比尼（John Sabini）和莫里·银（Maury Silver）通过主要批评这一观点来参与哈曼（Harman）和多里斯（Doris）的研究。他们的方法是重新评估诸如《_困境中的女士_》等主要研究，以显示心理状态甚至品质特征确实是解释结果的核心。总结他们的观点，他们写道，
 
 > 必须在这种情况下行动的人们被尴尬的预期所困扰和抑制，我们认为这是社会心理研究中应得到的教训。我们还建议，人们并不了解尴尬的恐惧对行为的潜在影响（Sabini 和 Silver 2005: 559）。
 
 因此，与关于情境力量的说法相反，Sabini 和 Silver 认为，诸如害怕尴尬之类的心理原因是道德相关行为的最佳解释和预测中不可消除的因素。但他们确实承认，这些研究为“立即情境的特征提供了支持，这些特征本身并不具有道德意义”（2005: 561）。因此，综合起来，他们似乎认为心理倾向确实存在并构成各种品质，但这些品质最终并不是美德的（有关类似回应，请参见 Kupperman 2001: 245–247；Solomon 2003: 48, 56；Wielenberg 2006: 471–490；批评请参见 Russell 2009: 288；Merritt 等人 2010: 367–369）。
 
-* *CAPS*。像 Nancy Snow 和 Daniel Russell 这样的哲学家已经利用了心理学中的“认知-情感人格系统”或“CAPS”模型，以发展对情境主义的亚里士多德式回应（Miller 2003；Adams 2006: 131–138；Russell 2009：第 8-10 章；Snow 2010：第 1 章）。由于 CAPS 模型将在下一节中介绍，因此对这一回应的讨论将推迟至那时。
+* _CAPS_。像 Nancy Snow 和 Daniel Russell 这样的哲学家已经利用了心理学中的“认知-情感人格系统”或“CAPS”模型，以发展对情境主义的亚里士多德式回应（Miller 2003；Adams 2006: 131–138；Russell 2009：第 8-10 章；Snow 2010：第 1 章）。由于 CAPS 模型将在下一节中介绍，因此对这一回应的讨论将推迟至那时。
 
 #### 1.2.2 处理第二阶段的回应
 
 其余的回应涉及从反对全球性品质的证据到得出亚里士多德德式美德伦理存在问题的结论。
 
-* *稀有性*。也许是亚里士多德德性伦理学辩护者最广泛使用的回应，稀有性回应只是否认任何合理形式的观点致力于经验主张，即大多数人具有美德。相反，德性伦理学可能作为一种规范理论是正确的，而作为偶然事实，一个特定社会的人们在获得美德方面做得很糟糕（参见 DePaul 1999: 150–153; Miller 2003; Kamtekar 2004: 466; Wielenberg 2006: 490; Russell 2009: 170; 对该回应的批评，请参见 Annas 2003（见其他互联网资源），2011: 173; Russell 2009: 284）。
+* _稀有性_。也许是亚里士多德德性伦理学辩护者最广泛使用的回应，稀有性回应只是否认任何合理形式的观点致力于经验主张，即大多数人具有美德。相反，德性伦理学可能作为一种规范理论是正确的，而作为偶然事实，一个特定社会的人们在获得美德方面做得很糟糕（参见 DePaul 1999: 150–153; Miller 2003; Kamtekar 2004: 466; Wielenberg 2006: 490; Russell 2009: 170; 对该回应的批评，请参见 Annas 2003（见其他互联网资源），2011: 173; Russell 2009: 284）。
 
-这不是对该观点的 *临时* 修订，旨在抵御情境主义挑战。柏拉图和亚里士多德很久以前就认为美德是稀有的，大多数研究品格的哲学家也是如此（参见 DePaul 1999 关于柏拉图和 *Nicomachean Ethics* 1099b29–32, 1103b16–31, 1152a30–34, 1179b25–29, 1180a1–5, 15–19）。正如亚里士多德所说，
+这不是对该观点的 _临时_ 修订，旨在抵御情境主义挑战。柏拉图和亚里士多德很久以前就认为美德是稀有的，大多数研究品格的哲学家也是如此（参见 DePaul 1999 关于柏拉图和 _Nicomachean Ethics_ 1099b29–32, 1103b16–31, 1152a30–34, 1179b25–29, 1180a1–5, 15–19）。正如亚里士多德所说，
 
 > 许多人自然服从于恐惧，而不是羞耻；他们避开卑劣的行为是因为惩罚，而不是因为它是可耻的。因为他们生活在感觉中，所以追求他们适当的快乐和快乐的来源，并避开相反的痛苦，甚至没有对什么是美好和真正愉快的概念，因为他们没有尝过它（Nicomachean Ethics 1179b11–16）。
 
-* *亚里士多德性格的错误观念*。一些亚里士多德学派承认哈曼和多丽斯成功地提出了一些关于特质的经验充分性的问题，但他们抱怨这种观念并不是一个足够微妙和复杂的亚里士多德观念。因此，Rachana Kamtekar 写道，
+* _亚里士多德性格的错误观念_。一些亚里士多德学派承认哈曼和多丽斯成功地提出了一些关于特质的经验充分性的问题，但他们抱怨这种观念并不是一个足够微妙和复杂的亚里士多德观念。因此，Rachana Kamtekar 写道，
 
 > 道德品质被情境主义社会心理学研究揭穿的特征与传统美德伦理学中对道德品质的理解几乎没有任何关系。传统美德伦理学提供了一种比情境主义攻击的理解更为优越的道德品质概念（Kamtekar 2004: 460; 类似主张请参见 DePaul 1999: 149–150; Kupperman 2001: 241–243; Annas 2003: 13（参见其他互联网资源），2011: 172–176）。
 
 Kamtekar 指出了几点不同之处。其中之一是，在亚里士多德的观点中，美德被认为是“对自己的情境做出适当反应的倾向—在判断、感受和行动中”（2004: 477）。此外，亚里士多德明确指出，这些美德需要实践智慧，这是一种“善于深思熟虑什么有助于一般美好生活的倾向”（2004: 480）。而且，美德确实需要跨情境一致性，但这需要谨慎处理，因为这种一致性是相对于个体自己对生活的看法，由价值观、目标、计划等塑造。因此，对外界观察者来说，某人的行为可能非常不一致，但从她自己的角度来看，行为模式是完全合乎逻辑的（2004: 485，对此回应的批评请参见 Adams 2006: 121; Sosa 2009: 280–283; Merritt et al. 2010: 358–360）。
 
-* *亚里士多德关于品质的概念是错误的概念*。讨论中的其他参与者对捍卫亚里士多德关于品质的概念兴趣不大。相反，他们想看看非亚里士多德账户能提供什么，以及它们是否能更好地适应上述引用研究。走向这个方向的三位哲学家的例子是玛丽亚·梅里特（Maria Merritt），支持休谟的观点，埃里克·维伦伯格（Eric Wielenberg），支持康德的观点，以及爱德华·斯林格兰（Edward Slingerland），支持儒家的观点（Merritt 2000；Wielenberg 2006：466, 469；Slingerland 2011）。
+* _亚里士多德关于品质的概念是错误的概念_。讨论中的其他参与者对捍卫亚里士多德关于品质的概念兴趣不大。相反，他们想看看非亚里士多德账户能提供什么，以及它们是否能更好地适应上述引用研究。走向这个方向的三位哲学家的例子是玛丽亚·梅里特（Maria Merritt），支持休谟的观点，埃里克·维伦伯格（Eric Wielenberg），支持康德的观点，以及爱德华·斯林格兰（Edward Slingerland），支持儒家的观点（Merritt 2000；Wielenberg 2006：466, 469；Slingerland 2011）。
 
 #### 1.2.3 结论
 
-这不是评估这些不同回应并看哪一个是最有力的地方。然而，重要的是要注意，它们不应被孤立对待。例如，有人可能会将第一阶段的回应（如*Mental States are Important Too*）与第二阶段的回应（如*Rarity*）结合起来。
+这不是评估这些不同回应并看哪一个是最有力的地方。然而，重要的是要注意，它们不应被孤立对待。例如，有人可能会将第一阶段的回应（如_Mental States are Important Too_）与第二阶段的回应（如_Rarity_）结合起来。
 
 让我用两点来总结这次讨论。首先，我们应该简要考虑一下，如果我们承认大多数人没有传统美德，关于品质的经验故事会是什么样子。毕竟，哲学家可以接受这个结论，而不必接受哈曼和多里斯基于实验文献提出的论点。正如已经指出的，柏拉图和亚里士多德都接受了这一点，许多其他人也是如此。
 
@@ -188,7 +188,7 @@ Walter Mischel 经常被誉为心理学情境主义运动的领袖，尤其是�
 
 被广泛误解为暗示人们没有一贯性，个体差异不重要，而“情境”是行为的主要决定因素（Mischel 1973: 254）。
 
- 的确，他写道，
+的确，他写道，
 
 会浪费精力制造假争议，将人与情境对立起来，以此来看哪个更重要（Mischel 1973: 255–256）。
 
@@ -196,7 +196,7 @@ Walter Mischel 经常被誉为心理学情境主义运动的领袖，尤其是�
 
 #### 2.1.1 认知-情感单元
 
-*认知-情感单元* 是 CAPS 模型的基本构建单元。它们不是全局性的性格特征，而是特定的心理状态和过程。以下是米歇尔在 1973 年论文中列出的清单（Mischel 1973: 265, 275；有关更新版本，请参阅 Mischel 和 Shoda 1995: 252）：
+_认知-情感单元_ 是 CAPS 模型的基本构建单元。它们不是全局性的性格特征，而是特定的心理状态和过程。以下是米歇尔在 1973 年论文中列出的清单（Mischel 1973: 265, 275；有关更新版本，请参阅 Mischel 和 Shoda 1995: 252）：
 
 * 在特定情况下的行为结果和刺激结果期望
 * 主观刺激价值
@@ -208,7 +208,7 @@ Walter Mischel 经常被誉为心理学情境主义运动的领袖，尤其是�
 
 #### 2.1.2 如果-那么情境-行为的因果关系
 
-*如果-那么情境-行为的因果关系* 是 CAPS 模型的另一个核心特征。这些因果关系是表示个体人格某个方面的条件语句，其中“如果”是情境，“那么”是行为。例如，米歇尔及其同事研究了夏令营中儿童的行为。他们发现在一个案例中，如果一个孩子被同龄人取笑，那么他不太可能表现出言语攻击。然而，对另一个孩子来说并非如此（有关该夏令营的相关数据，请参见米歇尔 1984: 361–362；赖特和米歇尔 1987；以及 Shoda 等人 1993, 1994）。这种差异可以通过诉诸于他们不同的认知-情感单元来解释。一些孩子可能想要伤害那些取笑他们的人，而另一些可能想要逃跑（有关 CAPS 模型中个体差异的更多信息，请参见米歇尔和 Shoda 1995: 253, 1998: 237–240, 2008: 211–212）。更一般地，米歇尔和 Shoda 指出，
+_如果-那么情境-行为的因果关系_ 是 CAPS 模型的另一个核心特征。这些因果关系是表示个体人格某个方面的条件语句，其中“如果”是情境，“那么”是行为。例如，米歇尔及其同事研究了夏令营中儿童的行为。他们发现在一个案例中，如果一个孩子被同龄人取笑，那么他不太可能表现出言语攻击。然而，对另一个孩子来说并非如此（有关该夏令营的相关数据，请参见米歇尔 1984: 361–362；赖特和米歇尔 1987；以及 Shoda 等人 1993, 1994）。这种差异可以通过诉诸于他们不同的认知-情感单元来解释。一些孩子可能想要伤害那些取笑他们的人，而另一些可能想要逃跑（有关 CAPS 模型中个体差异的更多信息，请参见米歇尔和 Shoda 1995: 253, 1998: 237–240, 2008: 211–212）。更一般地，米歇尔和 Shoda 指出，
 
 情境的特征激活一组内部反应——不仅仅是认知的，还有情感的——基于个体对这些特征的先前经验（Mischel and Shoda 1995: 251）。
 
@@ -222,19 +222,19 @@ Walter Mischel 经常被誉为心理学情境主义运动的领袖，尤其是�
 
 名义特征被定义为第三方观察者在描述情境时会使用的更通用特征，例如物理位置、时间或事件。例如，去保龄球馆、吃午餐、做税务、与史密斯在电脑上交谈以及看电影（这种区别与心理学中的特定论与普适论方法的技术术语相关。粗略地说，特定论方法使用被问及参与者提供的标准，而普适论方法使用除参与者之外的个体提供的标准。有关详细讨论，请参见 Lamiell 1997）。
 
-这个观点是，情况可能在名义特征上对观察者看来非常不同，但对于当事人来说，可能存在重要的相似之处（或*反之亦然*）。例如，一个人可能会在保龄球馆和办公室感受到针对自己的批评，并在两种情况下采取相同的防御策略，尽管在其他方面它们可能看起来非常不同。更一般的教训是，心理学家在研究个性时需要注意情境的名义特征和心理上显著的特征。
+这个观点是，情况可能在名义特征上对观察者看来非常不同，但对于当事人来说，可能存在重要的相似之处（或_反之亦然_）。例如，一个人可能会在保龄球馆和办公室感受到针对自己的批评，并在两种情况下采取相同的防御策略，尽管在其他方面它们可能看起来非常不同。更一般的教训是，心理学家在研究个性时需要注意情境的名义特征和心理上显著的特征。
 
 #### 2.1.4 个体内行为特征
 
-将所有这些要素放在一起，我们可以介绍 CAPS 模型的下一个组成部分，即*个体内行为特征*。与其关注个体在一个特定情境中的行为，行为特征描述了她在多种情境下的行为模式。而个情境的区别在于它们的心理相关特征。例如，Mischel 和同事通过研究儿童在夏令营中的攻击性行为，如同龄人的取笑，“被同龄人接近时”，以及“被成人辅导员警告时”，提出了行为特征。不足为奇的是，儿童在不同情境下的行为往往有所不同。因此，CAPS 模型，
+将所有这些要素放在一起，我们可以介绍 CAPS 模型的下一个组成部分，即_个体内行为特征_。与其关注个体在一个特定情境中的行为，行为特征描述了她在多种情境下的行为模式。而个情境的区别在于它们的心理相关特征。例如，Mischel 和同事通过研究儿童在夏令营中的攻击性行为，如同龄人的取笑，“被同龄人接近时”，以及“被成人辅导员警告时”，提出了行为特征。不足为奇的是，儿童在不同情境下的行为往往有所不同。因此，CAPS 模型，
 
-> 预测一个人在某一领域的行为会随着情境的变化而改变——当*如果*改变时，*那么*也会改变——即使人格系统保持完全不变（Mischel 和 Shoda 1995: 257，他们的强调）。
+> 预测一个人在某一领域的行为会随着情境的变化而改变——当_如果_改变时，_那么_也会改变——即使人格系统保持完全不变（Mischel 和 Shoda 1995: 257，他们的强调）。
 
 (有关行为特征的更多信息，请参见 Shoda 等人 1994 年：675–678，Mischel 和 Shoda 1995 年：249、251、255、258，1998 年：242、245，2008 年：208、224、228、233。)
 
 让我在这一点上停止对 CAPS 的介绍，尽管观点还有很多。 Mischel 对我们迄今为止所涵盖的内容进行了有益的总结：
 
-随着个人经历包含不同心理特征的情境，不同的【认知-情感单元】及其特征性相互关系会与这些特征激活。因此，【认知-情感单元】的激活会随着时间和情境的变化而变化...尽管在特定时间激活的认知和情感会发生变化，*它们*如何变化，即它们的激活顺序和模式保持稳定，反映了系统内部组织的稳定结构。结果是一种独特的*如果...那么...* 关系模式，或者行为特征，表现为个体在不同情境中移动时所展现的（2004: 11，重点在他）。
+随着个人经历包含不同心理特征的情境，不同的【认知-情感单元】及其特征性相互关系会与这些特征激活。因此，【认知-情感单元】的激活会随着时间和情境的变化而变化...尽管在特定时间激活的认知和情感会发生变化，_它们_如何变化，即它们的激活顺序和模式保持稳定，反映了系统内部组织的稳定结构。结果是一种独特的_如果...那么..._ 关系模式，或者行为特征，表现为个体在不同情境中移动时所展现的（2004: 11，重点在他）。
 
 有了这个理解，现在让我们转向一些哲学含义。
 
@@ -248,7 +248,7 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 举个例子，我倾向于害怕老鼠。所以如果有一只落在我的床上，我很可能会逃跑（至少可以这么说）。看到老鼠后，我的老鼠恐惧会被触发，导致在这一特定时刻对这只老鼠产生一种恐惧的感觉，这与其他心理活动相连，共同导致我逃跑。
 
-关于其他心理活动的最后一点很重要。我的老鼠恐惧倾向与各种其他心理倾向相关联，比如倾向于相信老鼠携带疾病并且我应该远离它们，不想从老鼠身上感染任何疾病的愿望等等。换句话说，CAPS 模型认可存在着*群集*的相互关联的心理状态倾向，并且一旦被激活，它们会导致形成多个当前的思维和感觉。正如 Mischel 和 Shoda 所写，
+关于其他心理活动的最后一点很重要。我的老鼠恐惧倾向与各种其他心理倾向相关联，比如倾向于相信老鼠携带疾病并且我应该远离它们，不想从老鼠身上感染任何疾病的愿望等等。换句话说，CAPS 模型认可存在着_群集_的相互关联的心理状态倾向，并且一旦被激活，它们会导致形成多个当前的思维和感觉。正如 Mischel 和 Shoda 所写，
 
 认知-情感表征和情感状态动态相互作用，并相互影响。它们之间的关系组织形成了人格结构的核心，并指导和限制它们的影响（2008 年：211，另见 212、219、233）。
 
@@ -284,14 +284,12 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 但是，与其更详细地解决这些问题，不如直接转向五大特质。主要始于上世纪 80 年代，心理学家们通过两种不同的途径得出了五大特质分类法（McCrae 和 John 1992: 181–187；Goldberg 1993: 30；有关早期研究的评论，请参见 John 等人 2008a）。Lewis Goldberg 最著名的是与第一种方法相关联。他认为，我们可以从日常语言中了解个性特征，因为长时间以来，我们说话的方式受到人们倾向于不同方式的影响。以下是他所谓的“词汇假设”的一种表述：
 
-> 对于系统化个性差异的最有前景的经验方法之一，是基于一个关键假设：在人们日常交往中最重要的个体差异最终将被编码到他们的语言中……[这] 有一个非常重要的推论：在人类交往中，一个个体差异越重要，越多的语言将为其提供一个项目（Goldberg 1981: 141–142，另请参阅 Saucier 和 Goldberg 1996b）。
+> 对于系统化个性差异的最有前景的经验方法之一，是基于一个关键假设：在人们日常交往中最重要的个体差异最终将被编码到他们的语言中……\[这] 有一个非常重要的推论：在人类交往中，一个个体差异越重要，越多的语言将为其提供一个项目（Goldberg 1981: 141–142，另请参阅 Saucier 和 Goldberg 1996b）。
 
 使用这个想法，戈德堡编制了在日常语言中发现的特质词的长列表。这是他 1992 年《100 个单极标记》列表中的三个形容词（戈德堡 1992 年：41）：
 
 * 害怕
-
 * Fretful
-
 * Generous
 
 为了简化他的名单，戈德伯格要求研究参与者从 1（极不准确）到 9（极其准确）对某种特质描述自己或他人的程度进行评分。然后，使用因子分析，戈德伯格可以看到哪些特质形容词彼此密切相关，从而可以合理地假设一个“因子”或“潜在变量”，这可以作为更基本的潜在特质（戈德伯格 1990 年，1992 年，1993 年和 Saucier 和 Goldberg 1996a；有关心理学中因子分析的介绍，请参见 Leary 2004 年：187–192）。令人不惊的是，害怕和焦虑是高度相关的，并被归类为“神经质”在五大人格特质中。
@@ -304,7 +302,7 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 * 我不太喜欢与人聊天。
 * 我不太认真对待像投票这样的公民义务。
 
-他们将被要求根据从*强烈不同意*到*强烈同意*的 1 到 5 分的标尺进行回答。然后将对这份问卷数据进行因素分析。
+他们将被要求根据从_强烈不同意_到_强烈同意_的 1 到 5 分的标尺进行回答。然后将对这份问卷数据进行因素分析。
 
 已经对形容词和问卷数据进行了许多分析，并使用了自我、朋友、配偶、雇主和专家的报告（McCrae 1982; McCrae and Costa 1987; Piedmont 1998: 52–56, 第 5 章）。还进行了大量的跨文化工作，将项目翻译成数十种语言（McCrae and Costa 1997; Piedmont 1998: 43–46, 73–74; Caprara and Cervone 2000: 73–75）。通常出现的是五种基本或核心人格特质（有一个非常有帮助的评论，请参见 John 等人 2008a）：
 
@@ -322,17 +320,17 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 在大五人格分类中的五种人格特质并不构成唯一的人格特质。关于这些特质，研究人员已经确定了各种次特质或“方面”，这些次特质较不宽泛，据说更准确。不幸的是，当涉及到特质的方面水平时，文献中存在更多争议，包括每个大五特质有多少个方面，以及如何称呼它们（Costa 和 McCrae 1995 年：24-27；McCrae 和 Costa 2003 年：47；Ozer 和 Benet-Martínez 2006 年：403；Crowe 等人 2018 年）。然而，在这里，有一个广泛使用的版本来自 McCrae 和 Costa 的工作，涵盖了 30 个方面（Costa 和 McCrae 1995 年：28）：
 
-| 神经质 | 焦虑、愤怒敌意、抑郁、自我意识、冲动、脆弱 |
+\| 神经质 | 焦虑、愤怒敌意、抑郁、自我意识、冲动、脆弱 |
 
-| --- | --- |
+\| --- | --- |
 
-| 外向性 | 温暖、社交、自信、活跃、寻求刺激、积极情绪 |
+\| 外向性 | 温暖、社交、自信、活跃、寻求刺激、积极情绪 |
 
-| 开放性 | 幻想，美学，感受，行动，思想，价值观 |
+\| 开放性 | 幻想，美学，感受，行动，思想，价值观 |
 
-| 宜人性 | 信任，直率，利他主义，顺从，谦逊，温和 |
+\| 宜人性 | 信任，直率，利他主义，顺从，谦逊，温和 |
 
-| 诚实守信 | 能力、秩序、尽职、追求成就、自律、审慎 |
+\| 诚实守信 | 能力、秩序、尽职、追求成就、自律、审慎 |
 
 回想一下，是麦克雷和科斯塔开发了拥有 240 个项目的 NEO-PI-R 人格调查问卷。并非偶然，其中有 8 个项目专门设计用于衡量这些方面中的每一个。例如，“我保持我的物品整洁干净”和“我喜欢把所有东西都放在固定的地方，这样我就知道它在哪里”属于秩序意识方面（科斯塔和麦克雷 1992 年：73）。
 
@@ -361,9 +359,9 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 更不用说，即使使用更好的项目来评估美德，许多哲学家认为问卷调查的价值有限。在几个弱点中，它们忽略了潜意识过程在影响行为方面的作用，反而可能反映了一个人对自己品质的显著误解。
 
-第三个哲学家要谨慎将大五人格特质的研究应用于道德品质研究的原因也是方法论上的。至少在理解大五人格分类的一种方式上，它对人们的分类并不是基于他们是否具有外向等特质，而是基于他们拥有这些特质的*程度*。换句话说，它假定*每个人*都具有外向特质，主要问题只是某个特定个体在外向量表上的表现程度。外向性也适用于内向性。每个人也都有那种特质。
+第三个哲学家要谨慎将大五人格特质的研究应用于道德品质研究的原因也是方法论上的。至少在理解大五人格分类的一种方式上，它对人们的分类并不是基于他们是否具有外向等特质，而是基于他们拥有这些特质的_程度_。换句话说，它假定_每个人_都具有外向特质，主要问题只是某个特定个体在外向量表上的表现程度。外向性也适用于内向性。每个人也都有那种特质。
 
-实际上，至少根据这种具体的大五方法解读，每个人都会具有*所有的特质*，至少在某种程度上。如果我们将大五人格分类扩展到包括所有道德品质，那么每个人都会在某种程度上是有德行的。但这还不是全部。每个人也会在某种程度上有恶行。即使涉及相反的美德和恶习，如勇气和懦弱，这也是正确的。
+实际上，至少根据这种具体的大五方法解读，每个人都会具有_所有的特质_，至少在某种程度上。如果我们将大五人格分类扩展到包括所有道德品质，那么每个人都会在某种程度上是有德行的。但这还不是全部。每个人也会在某种程度上有恶行。即使涉及相反的美德和恶习，如勇气和懦弱，这也是正确的。
 
 许多道德哲学家可能会担心这种方法对他们研究品质的工作有多大帮助。因为他们通常接受以下假设：
 
@@ -397,7 +395,7 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 ### 4.1 背景
 
-道德品质在正面心理学中的规范方法可在《*品德优点与美德：手册与分类*》中找到，该书由克里斯托弗·彼得森（Christopher Peterson）和马丁·塞利格曼（Martin Seligman）编辑，于 2004 年出版。彼得森和塞利格曼在 50 多位领先学者的帮助下，整理了一套他们认为是“理智手册”的品德特质分类（2004 年：4），重点关注心理健康而非疾病，这是在正面心理学运动之前该领域所做的大部分工作。
+道德品质在正面心理学中的规范方法可在《_品德优点与美德：手册与分类_》中找到，该书由克里斯托弗·彼得森（Christopher Peterson）和马丁·塞利格曼（Martin Seligman）编辑，于 2004 年出版。彼得森和塞利格曼在 50 多位领先学者的帮助下，整理了一套他们认为是“理智手册”的品德特质分类（2004 年：4），重点关注心理健康而非疾病，这是在正面心理学运动之前该领域所做的大部分工作。
 
 为了制定他们的分类，他们搜集了来自儒家、佛教、古希腊哲学和中世纪伊斯兰教等传统的著作。他们审查了查理曼大帝、本杰明·富兰克林、童子军和女童子军、Hallmark 贺卡以及宝可梦角色的特质清单（2004 年：15，33-52）。自然而然，他们列出了一长串特质，需要一些标准来缩减清单。以下是他们提出的 10 个标准（2004 年：17-27）：
 
@@ -418,17 +416,32 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 一起，美德和品质构成了官方的 VIA 分类（2004 年：29-30）：
 
-| 智慧 | 创造力 <br>好奇心 <br>开放心态 <br>热爱学习 <br>观点 |
+\| 智慧 | 创造力\
+好奇心\
+开放心态\
+热爱学习\
+观点 |
 
-| 勇气 | 勇敢<b1001></b1001>坚持<b1002></b1002>诚信<b1003></b1003>活力 |
+\| 勇气 | 勇敢坚持诚信活力 |
 
-| 人性 | 爱<br>善良<br>社会智慧 |
+\| 人性 | 爱\
+善良\
+社会智慧 |
 
-| 正义 | 公民品质<br>公平<br>领导力 |
+\| 正义 | 公民品质\
+公平\
+领导力 |
 
-| 节制 | 宽恕与仁慈<br>谦逊/谦虚<br>审慎<br>自律 |
+\| 节制 | 宽恕与仁慈\
+谦逊/谦虚\
+审慎\
+自律 |
 
-| 超越 | 欣赏美与卓越<br>感恩<br>希望<br>幽默<br>灵性 |
+\| 超越 | 欣赏美与卓越\
+感恩\
+希望\
+幽默\
+灵性 |
 
 自然，彼得森和塞利格曼在澄清每个意义上有很多要说。但在这里，重要的是要记住几个更一般的观点。
 
@@ -436,7 +449,7 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 利用道德品质进行研究已经非常广泛，许多研究特别关注特定品格优点与健康、教育成功等其他变量之间的相关性（有关综述，请参阅 Niemiec 2013）。彼得森和塞利格曼还开发了几种品格优点评估工具，其中主要的是 VIA-IS。这个包含 240 个项目的测量工具采用了一个 5 点李克特量表，以“非常像我”和“非常不像我”为锚定点（2004: 629）。其项目示例包括（2004: 629）：
 
-* 我从不忙到没有时间帮助朋友。[善良]
+* 我从不忙到没有时间帮助朋友。\[善良]
 * 我总是信守承诺。【诚信】
 * 我很难接受任何人的爱。【爱】
 
@@ -454,7 +467,7 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 事实上，从表面上看，哲学家们应该对这个框架非常愿意，并有兴趣将其纳入他们对品质的思考中。与五大人格特质不同，VIA 专注于品德特质，而不是一般的人格特质（Peterson 和 Park 2009: 26–27）。虽然可能会有一些遗漏，但它非常全面。此外，与大多数五大人格的支持者不同，Peterson、Seligman 和他们的同事似乎更乐于用形而上的方式描述品德特质作为具有因果力的倾向。
 
-但是这里需要谨慎（有关一些顾虑，请参见 Miller 2019b）。与本条目中审查的其他三种方法不同，VIA 并*不是*经验性得出的。正如 Peterson 在后来的一篇文章中指出的，“我们将品德优势分类为核心美德是一个概念方案，而不是一个经验性主张”（Peterson 和 Park 2009: 31）。我们已经看到，这是一个从哲学家、宗教思想家和良好品质的著名典范的著作，以及在贺卡和游戏中更受欢迎的品质表达中得出的理论分类（Peterson 和 Seligman 2004: 9–10）。此外，Peterson 和 Seligman 明确表示，他们将自己的方法与德行伦理学对齐（2004: 10）。
+但是这里需要谨慎（有关一些顾虑，请参见 Miller 2019b）。与本条目中审查的其他三种方法不同，VIA 并_不是_经验性得出的。正如 Peterson 在后来的一篇文章中指出的，“我们将品德优势分类为核心美德是一个概念方案，而不是一个经验性主张”（Peterson 和 Park 2009: 31）。我们已经看到，这是一个从哲学家、宗教思想家和良好品质的著名典范的著作，以及在贺卡和游戏中更受欢迎的品质表达中得出的理论分类（Peterson 和 Seligman 2004: 9–10）。此外，Peterson 和 Seligman 明确表示，他们将自己的方法与德行伦理学对齐（2004: 10）。
 
 不幸的是，对 VIA 的随后经验测试引发了问题。MacDonald 和同事（2008 年）发现，最适合问卷数据的不是 VIA 中的六个因素，而是四个因素。McGrath（2014 年）发现支持五个因素。Noftle 及其同事（2011 年）使用验证性因素分析来测试现有的六因素、五因素、四因素和一因素模型，但没有找到对任何模型的支持（2011: 212）。他们得出结论，
 
@@ -474,146 +487,146 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 ## Bibliography
 
-* Adams, Robert, 2006, *A Theory of Virtue: Excellence in Being for the Good*, Oxford: Clarendon Press.
-* Alfano, Mark, 2012, “Expanding the Situationist Challenge to Responsibilist Virtue Epistemology,” *The Philosophical Quarterly*, 62: 223–249.
-* –––, 2013, *Character as Moral Fiction*, Cambridge: Cambridge University Press.
-* Alfano, Mark and Abrol Fairweather (eds.), 2017, *Epistemic Situationism*, Oxford: Oxford University Press.
-* Annas, Julia, 2011, *Intelligent Virtue*, Oxford: Oxford University Press.
-* Appiah, Kwame, 2008, *Experiments in Ethics*, Cambridge: Harvard University Press.
-* Aristotle, *Nicomachean Ethics*, T. Irwin (trans.), Indianapolis: Hackett Publishing Company, 1985.
-* Ashton, Michael C. and Kibeom Lee, 2001, “A Theoretical Basis for the Major Dimensions of Personality,” *European Journal of Personality*, 15: 327–353. doi:10.1002/per.417
-* –––, 2005, “Honesty-Humility, the Big Five, and the Five-Factor Model”, *Journal of Personality*, 73(5): 1321–1353. doi:10.1111/j.1467-6494.2005.00351.x
-* –––, 2020, “Objections to the HEXACO Model of Personality Structure–And Why Those Objections Fail,” *European Journal of Personality*, https://doi.org/10.1002/per.2242
-* Badhwar, Neera K., 2009, “The Milgram Experiments, Learned Helplessness, and Character Traits”, *The Journal of Ethics*, 13(2): 257–289. doi:10.1007/s10892-009-9052-4
-* Bates, Tom and Pauline Kleingeld, 2018, “Virtue, Vice, and Situationism,” in *The Oxford Handbook of Virtue*, Nancy E. Snow (ed.), New York: Oxford University Press, 524–545.
-* Blackburn, Simon, 1998, *Ruling Passions: A Theory of Practical Reasoning*, Oxford: Oxford University Press.
-* Blum, Ben, 2018, “The Lifespan of a Lie. The Most Famous Psychology Study of All Time was a Sham. Why can’t We Escape the Stanford Prison Experiment?” *Medium*, June 7 [[Blum 2018 available online](https://gen.medium.com/the-lifespan-of-a-lie-d869212b1f62)].
-* Bogg, T. and B. Roberts, 2004, “Conscientiousness and Health-Related Behaviors: A Meta-Analysis of the Leading Behavioral Contributors to Mortality,” *Psychological Bulletin*, 130: 887–919.
-* Campbell, John, 1999, “Can Philosophical Accounts of Altruism Accommodate Experimental Data on Helping Behavior?” *Australasian Journal of Philosophy*, 77: 26–45.
-* Caprara, G. and D. Cervone, 2000, *Personality: Determinants, Dynamics, and Potentials*, Cambridge: Cambridge University Press.
-* Cervone, D. and Y. Shoda (eds.), 1999, *The Coherence of Personality: Social-Cognitive Bases of Consistency, Variability, and Organization*, New York: The Guilford Press.
-* Costa, P. and R. McCrae, 1985, *The NEO Personality Inventory Manual*, Odessa: Psychological Assessment Resources.
-* –––, 1992, *Revised NEO Personality Inventory (NEO-PI-R) and NEO Five-Factor Inventory (NEO-FFI) Professional Manual*, Odessa: Psychological Assessment Resources.
-* –––, 1995, “Domains and Facets: Hierarchical Personality Assessment using the Revised NEO Personality Inventory”, *Journal of Personality Assessment,* 64: 21–50.
-* Crowe, M., D. Lynam, and J. Miller, 2018, “Uncovering the Structure of Agreeableness from Self-Report Measures,” *Journal of Personality*, 86: 771–787.
-* Darley, J. and C. Batson, 1973, “‘From Jerusalem to Jericho:’ A Study of Situational and Dispositional Variables in Helping Behavior,” *Journal of Personality and Social Psychology*, 27: 100–108.
-* DePaul, Michael, 1999, “Character Traits, Virtues, and Vices: Are There None?” *Proceedings of the World Congress of Philosophy*, Philosophy Documentation Center. 1: 141–157.
-* Doris, John, 1998, “Persons, Situations, and Virtue Ethics,” *Noûs*, 32: 504–530.
-* –––, 2002, *Lack of Character: Personality and Moral Behavior*, Cambridge: Cambridge University Press.
-* –––, 2010, “Heated Agreement: *Lack of Character* as *Being for the Good* ”, *Philosophical Studies*, 148: 135–146.
-* Doris, John and Lauren Olin, 2014, “Vicious Minds,” *Philosophical Studies*, 168: 665–692.
-* Funder, D, 2007, *The Personality Puzzle*, fourth edition, New York: W.W. Norton & Company.
-* Goldberg, L, 1981, “Language and Individual Differences: The Search for Universals in Personality Lexicons”, in *Review of Personality and Social Psychology,* L. Wheeler (ed.), Volume 2. Beverly Hills: Sage, pp. 141–165.
-* –––, 1990, “An Alternative ‘Description of Personality’: The Big-Five Factor Structure,” *Journal of Personality and Social Psychology*, 59: 1216–1229.
-* –––, 1992, “The Development of Markers for the Big-Five Factor Structure,” *Psychological Assessment*, 4: 26–42.
-* –––, 1993, “The Structure of Phenotypic Personality Traits,” *American Psychologist*, 48: 26–34.
-* Goldberg, L. and G. Saucier, 1995, “So What Do You Propose We Use Instead? A Reply to Block,” *Psychological Bulletin*, 117: 221–225.
-* Goldie, Peter, 2004, *On Personality*, London: Routledge.
-* Gurven M, C. von Rueden, M. Massenkoff, H. Kaplan, and M. Lero Vie, 2013, “How Universal is the Big Five? Testing the Five-Factor Model of Personality Variation among Forager-Farmers in the Bolivian Amazon,” *Journal of Personality and Social Psychology*, 104: 354–70.
-* Haney, C., C. Banks, and P. Zimbardo, 1973, “A Study of Prisoners and Guards in a Simulated Prison,” in *Readings about the Social Animal*, E. Aronson (ed.), third edition, San Francisco: Freeman, 52–67.
-* Harman, Gilbert, 1999, “Moral Philosophy meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error,” *Proceedings of the Aristotelian Society,* 99: 315–331.
-* –––, 2000, “The Nonexistence of Character Traits,” *Proceedings of the Aristotelian Society*, 100: 223–226.
-* –––, 2001, “Virtue Ethics without Character Traits,” in *Fact and Value*, A. Byrne, R. Stalnaker, and R. Wedgwood (eds). Cambridge: MIT Press, 117–127.
-* –––, 2003, “No Character or Personality,” *Business Ethics Quarterly*, 13: 87–94.
-* –––, 2009, “Skepticism about Character Traits,” *The Journal of Ethics*, 13: 235–242.
-* Hogan, R, 1991, “Personality and Personality Measurement,” in *Handbook of Industrial and Organizational Psychology*, second edition, M.D. Dunnette and L.M. Hough (eds), Palo Alto: Consulting Psychologists Press, pp. 873–919.
+* Adams, Robert, 2006, _A Theory of Virtue: Excellence in Being for the Good_, Oxford: Clarendon Press.
+* Alfano, Mark, 2012, “Expanding the Situationist Challenge to Responsibilist Virtue Epistemology,” _The Philosophical Quarterly_, 62: 223–249.
+* –––, 2013, _Character as Moral Fiction_, Cambridge: Cambridge University Press.
+* Alfano, Mark and Abrol Fairweather (eds.), 2017, _Epistemic Situationism_, Oxford: Oxford University Press.
+* Annas, Julia, 2011, _Intelligent Virtue_, Oxford: Oxford University Press.
+* Appiah, Kwame, 2008, _Experiments in Ethics_, Cambridge: Harvard University Press.
+* Aristotle, _Nicomachean Ethics_, T. Irwin (trans.), Indianapolis: Hackett Publishing Company, 1985.
+* Ashton, Michael C. and Kibeom Lee, 2001, “A Theoretical Basis for the Major Dimensions of Personality,” _European Journal of Personality_, 15: 327–353. doi:10.1002/per.417
+* –––, 2005, “Honesty-Humility, the Big Five, and the Five-Factor Model”, _Journal of Personality_, 73(5): 1321–1353. doi:10.1111/j.1467-6494.2005.00351.x
+* –––, 2020, “Objections to the HEXACO Model of Personality Structure–And Why Those Objections Fail,” _European Journal of Personality_, https://doi.org/10.1002/per.2242
+* Badhwar, Neera K., 2009, “The Milgram Experiments, Learned Helplessness, and Character Traits”, _The Journal of Ethics_, 13(2): 257–289. doi:10.1007/s10892-009-9052-4
+* Bates, Tom and Pauline Kleingeld, 2018, “Virtue, Vice, and Situationism,” in _The Oxford Handbook of Virtue_, Nancy E. Snow (ed.), New York: Oxford University Press, 524–545.
+* Blackburn, Simon, 1998, _Ruling Passions: A Theory of Practical Reasoning_, Oxford: Oxford University Press.
+* Blum, Ben, 2018, “The Lifespan of a Lie. The Most Famous Psychology Study of All Time was a Sham. Why can’t We Escape the Stanford Prison Experiment?” _Medium_, June 7 \[[Blum 2018 available online](https://gen.medium.com/the-lifespan-of-a-lie-d869212b1f62)].
+* Bogg, T. and B. Roberts, 2004, “Conscientiousness and Health-Related Behaviors: A Meta-Analysis of the Leading Behavioral Contributors to Mortality,” _Psychological Bulletin_, 130: 887–919.
+* Campbell, John, 1999, “Can Philosophical Accounts of Altruism Accommodate Experimental Data on Helping Behavior?” _Australasian Journal of Philosophy_, 77: 26–45.
+* Caprara, G. and D. Cervone, 2000, _Personality: Determinants, Dynamics, and Potentials_, Cambridge: Cambridge University Press.
+* Cervone, D. and Y. Shoda (eds.), 1999, _The Coherence of Personality: Social-Cognitive Bases of Consistency, Variability, and Organization_, New York: The Guilford Press.
+* Costa, P. and R. McCrae, 1985, _The NEO Personality Inventory Manual_, Odessa: Psychological Assessment Resources.
+* –––, 1992, _Revised NEO Personality Inventory (NEO-PI-R) and NEO Five-Factor Inventory (NEO-FFI) Professional Manual_, Odessa: Psychological Assessment Resources.
+* –––, 1995, “Domains and Facets: Hierarchical Personality Assessment using the Revised NEO Personality Inventory”, _Journal of Personality Assessment,_ 64: 21–50.
+* Crowe, M., D. Lynam, and J. Miller, 2018, “Uncovering the Structure of Agreeableness from Self-Report Measures,” _Journal of Personality_, 86: 771–787.
+* Darley, J. and C. Batson, 1973, “‘From Jerusalem to Jericho:’ A Study of Situational and Dispositional Variables in Helping Behavior,” _Journal of Personality and Social Psychology_, 27: 100–108.
+* DePaul, Michael, 1999, “Character Traits, Virtues, and Vices: Are There None?” _Proceedings of the World Congress of Philosophy_, Philosophy Documentation Center. 1: 141–157.
+* Doris, John, 1998, “Persons, Situations, and Virtue Ethics,” _Noûs_, 32: 504–530.
+* –––, 2002, _Lack of Character: Personality and Moral Behavior_, Cambridge: Cambridge University Press.
+* –––, 2010, “Heated Agreement: _Lack of Character_ as _Being for the Good_ ”, _Philosophical Studies_, 148: 135–146.
+* Doris, John and Lauren Olin, 2014, “Vicious Minds,” _Philosophical Studies_, 168: 665–692.
+* Funder, D, 2007, _The Personality Puzzle_, fourth edition, New York: W.W. Norton & Company.
+* Goldberg, L, 1981, “Language and Individual Differences: The Search for Universals in Personality Lexicons”, in _Review of Personality and Social Psychology,_ L. Wheeler (ed.), Volume 2. Beverly Hills: Sage, pp. 141–165.
+* –––, 1990, “An Alternative ‘Description of Personality’: The Big-Five Factor Structure,” _Journal of Personality and Social Psychology_, 59: 1216–1229.
+* –––, 1992, “The Development of Markers for the Big-Five Factor Structure,” _Psychological Assessment_, 4: 26–42.
+* –––, 1993, “The Structure of Phenotypic Personality Traits,” _American Psychologist_, 48: 26–34.
+* Goldberg, L. and G. Saucier, 1995, “So What Do You Propose We Use Instead? A Reply to Block,” _Psychological Bulletin_, 117: 221–225.
+* Goldie, Peter, 2004, _On Personality_, London: Routledge.
+* Gurven M, C. von Rueden, M. Massenkoff, H. Kaplan, and M. Lero Vie, 2013, “How Universal is the Big Five? Testing the Five-Factor Model of Personality Variation among Forager-Farmers in the Bolivian Amazon,” _Journal of Personality and Social Psychology_, 104: 354–70.
+* Haney, C., C. Banks, and P. Zimbardo, 1973, “A Study of Prisoners and Guards in a Simulated Prison,” in _Readings about the Social Animal_, E. Aronson (ed.), third edition, San Francisco: Freeman, 52–67.
+* Harman, Gilbert, 1999, “Moral Philosophy meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error,” _Proceedings of the Aristotelian Society,_ 99: 315–331.
+* –––, 2000, “The Nonexistence of Character Traits,” _Proceedings of the Aristotelian Society_, 100: 223–226.
+* –––, 2001, “Virtue Ethics without Character Traits,” in _Fact and Value_, A. Byrne, R. Stalnaker, and R. Wedgwood (eds). Cambridge: MIT Press, 117–127.
+* –––, 2003, “No Character or Personality,” _Business Ethics Quarterly_, 13: 87–94.
+* –––, 2009, “Skepticism about Character Traits,” _The Journal of Ethics_, 13: 235–242.
+* Hogan, R, 1991, “Personality and Personality Measurement,” in _Handbook of Industrial and Organizational Psychology_, second edition, M.D. Dunnette and L.M. Hough (eds), Palo Alto: Consulting Psychologists Press, pp. 873–919.
 * –––, 1996, “A Socioanalytic Perspective on the Five-Factor Model,” in Wiggins 1996: 163–179.
-* Hurka, Thomas, 2001, *Virtue, Vice, and Value*, Oxford: Oxford University Press.
-* Isen, A. and P. Levin, 1972, “Effect of Feeling Good on Helping: Cookies and Kindness,” *Journal of Personality and Social Psychology*, 21: 384–388.
-* John, O. and R. Robins, 1994, “Traits and Types, Dynamics and Development: No Doors Should Be Closed in the Study of Personality,” *Psychological Inquiry*, 5: 137–142.
+* Hurka, Thomas, 2001, _Virtue, Vice, and Value_, Oxford: Oxford University Press.
+* Isen, A. and P. Levin, 1972, “Effect of Feeling Good on Helping: Cookies and Kindness,” _Journal of Personality and Social Psychology_, 21: 384–388.
+* John, O. and R. Robins, 1994, “Traits and Types, Dynamics and Development: No Doors Should Be Closed in the Study of Personality,” _Psychological Inquiry_, 5: 137–142.
 * John, O., L. Naumann, and C. Soto, 2008a, “Paradigm Shift to the Integrative Big Five Trait Taxonomy: History, Measurement, and Conceptual Issues,” in John, Robins, and Pervin 2008b: 114–158.
-* John, O., R. Robins, and L. Pervin (eds.), 2008b, *Handbook of Personality: Theory and Research*, third edition, New York: The Guilford Press.
-* Johnson, J, 1999, “Persons in Situations: Distinguishing New Wine from Old Wine in New Bottles,” *European Journal of Personality*, 13: 443–453.
-* Kamtekar, Rachana, 2004, “Situationism and Virtue Ethics on the Content of Our Character,” *Ethics*, 114: 458–491.
-* Kristjánsson, Kristján, 2008, “An Aristotelian Critique of Situationism,” *Philosophy*, 83: 55–76.
-* –––, 2013, *Virtues and Vices in Positive Psychology: A Philosophical Critique*, Cambridge: Cambridge University Press.
-* Kunnel John R, B. Xavier, A. Waldmeier, A. Meyer, and J. Gaab, 2019, “Psychometric Evaluation of the BFI-10 and the NEO-FFI-3 in Indian Adolescents,” *Frontiers in Psychology*, 10: 1057. doi:10.3389/fpsyg.2019.01057
-* Kupperman, Joel, 2001, “The Indispensability of Character,” *Philosophy*, 76: 239–250.
-* Laajaj, R., K. Macours, D. A. Pinzon Hernandez, O. Arias, S. Gosling, J. Potter, M. Rubio-Codina, and R. Vakis, 2019, “Challenges to Capture the Big Five Personality Traits in non-WEIRD Populations,” *Science Advances*, 5: 1–13.
-* Lamiell, J., 1997, “Individuals and the Differences between Them,” in *Handbook of Personality Psychology*, R. Hogan, J. Johnson, and S. Briggs (eds.), San Diego: Academic Press, pp. 117–41.
-* Latané, B. and J. Darley, 1970, *The Unresponsive Bystander: Why Doesn’t He Help?*, New York: Appleton-Century-Crofts.
-* Latané, B. and J. Rodin, 1969, “A Lady in Distress: Inhibiting Effects of Friends and Strangers on Bystander Intervention,” *Journal of Experimental Social Psychology*, 5: 189–202.
-* Leary, M, 2004, *Introduction to Behavioral Research Methods*, fourth edition, Boston: Pearson.
-* Lee, K. and M. Ashton, 2004, “Psychometric Properties of the HEXACO Personality Inventory,” *Multivariate Behavioral Research*, 39: 329–358.
-* Lopez, S., J. Pedrotti, and C. Snyder, 2015, *Positive Psychology: The Scientific and Practical Explorations of Human Strengths*, Thousand Oaks: SAGE.
+* John, O., R. Robins, and L. Pervin (eds.), 2008b, _Handbook of Personality: Theory and Research_, third edition, New York: The Guilford Press.
+* Johnson, J, 1999, “Persons in Situations: Distinguishing New Wine from Old Wine in New Bottles,” _European Journal of Personality_, 13: 443–453.
+* Kamtekar, Rachana, 2004, “Situationism and Virtue Ethics on the Content of Our Character,” _Ethics_, 114: 458–491.
+* Kristjánsson, Kristján, 2008, “An Aristotelian Critique of Situationism,” _Philosophy_, 83: 55–76.
+* –––, 2013, _Virtues and Vices in Positive Psychology: A Philosophical Critique_, Cambridge: Cambridge University Press.
+* Kunnel John R, B. Xavier, A. Waldmeier, A. Meyer, and J. Gaab, 2019, “Psychometric Evaluation of the BFI-10 and the NEO-FFI-3 in Indian Adolescents,” _Frontiers in Psychology_, 10: 1057. doi:10.3389/fpsyg.2019.01057
+* Kupperman, Joel, 2001, “The Indispensability of Character,” _Philosophy_, 76: 239–250.
+* Laajaj, R., K. Macours, D. A. Pinzon Hernandez, O. Arias, S. Gosling, J. Potter, M. Rubio-Codina, and R. Vakis, 2019, “Challenges to Capture the Big Five Personality Traits in non-WEIRD Populations,” _Science Advances_, 5: 1–13.
+* Lamiell, J., 1997, “Individuals and the Differences between Them,” in _Handbook of Personality Psychology_, R. Hogan, J. Johnson, and S. Briggs (eds.), San Diego: Academic Press, pp. 117–41.
+* Latané, B. and J. Darley, 1970, _The Unresponsive Bystander: Why Doesn’t He Help?_, New York: Appleton-Century-Crofts.
+* Latané, B. and J. Rodin, 1969, “A Lady in Distress: Inhibiting Effects of Friends and Strangers on Bystander Intervention,” _Journal of Experimental Social Psychology_, 5: 189–202.
+* Leary, M, 2004, _Introduction to Behavioral Research Methods_, fourth edition, Boston: Pearson.
+* Lee, K. and M. Ashton, 2004, “Psychometric Properties of the HEXACO Personality Inventory,” _Multivariate Behavioral Research_, 39: 329–358.
+* Lopez, S., J. Pedrotti, and C. Snyder, 2015, _Positive Psychology: The Scientific and Practical Explorations of Human Strengths_, Thousand Oaks: SAGE.
 * Lukes, Steven, 2009, “Comment: Do People Have Character Traits,” in Mantzavinos 2009: 291–298.
-* Macdonald, C., M. Bore, and D. Munro, 2008, “Values in Action Scale and the Big 5: An Empirical Indication of Structure,” *Journal of Research in Personality*, 42: 787–799.
-* Mantzavinos, C. (ed.), 2009, *Philosophy of the Social Sciences: Philosophical Theory and Scientific Practice*, Cambridge: Cambridge University Press.
-* McCrae, R, 1982, “Consensual Validation of Personality Traits: Evidence from Self-Reports and Ratings,” *Journal of Personality and Social Psychology*, 43: 293–303.
-* McCrae, R. and P. Costa, 1987, “Validation of the Five-Factor Model of Personality Across Instruments and Observers,” *Journal of Personality and Social Psychology*, 52: 81–90.
-* –––, 1997, “Personality Trait Structure as a Human Universal,” *American Psychologist*, 52: 509–516.
-* –––, 2003, *Personality in Adulthood: A Five-Factor Theory Perspective*, second edition, New York: The Guilford Press.
+* Macdonald, C., M. Bore, and D. Munro, 2008, “Values in Action Scale and the Big 5: An Empirical Indication of Structure,” _Journal of Research in Personality_, 42: 787–799.
+* Mantzavinos, C. (ed.), 2009, _Philosophy of the Social Sciences: Philosophical Theory and Scientific Practice_, Cambridge: Cambridge University Press.
+* McCrae, R, 1982, “Consensual Validation of Personality Traits: Evidence from Self-Reports and Ratings,” _Journal of Personality and Social Psychology_, 43: 293–303.
+* McCrae, R. and P. Costa, 1987, “Validation of the Five-Factor Model of Personality Across Instruments and Observers,” _Journal of Personality and Social Psychology_, 52: 81–90.
+* –––, 1997, “Personality Trait Structure as a Human Universal,” _American Psychologist_, 52: 509–516.
+* –––, 2003, _Personality in Adulthood: A Five-Factor Theory Perspective_, second edition, New York: The Guilford Press.
 * –––, 2008, “The Five-Factor Theory of Personality,” in John, Robins, and Pervin 2008b: 159–181.
-* McCrae, R. and O. John, 1992, “An Introduction to the Five-Factor Model and Its Applications,” *Journal of Personality*, 60: 175–215.
-* McGrath, R, 2014, “Scale- and Item-Level Factor Analysis of the VIA Inventory of Strengths,” *Assessment*, 21: 4–14.
-* –––, 2015, “Integrating Psychological and Cultural Perspectives on Virtue: The Hierarchical Structure of Character Strengths,” *The Journal of Positive Psychology*, 10: 407–424.
-* Merritt, Maria, 2000, “Virtue Ethics and Situationist Personality Psychology,” *Ethical Theory and Moral Practice*, 3: 365–383.
-* Merritt, Maria, John Doris, and Gilbert Harman, 2010, “Character,” in *The Moral Psychology Handbook*, J. Doris and the Moral Psychology Research Group (eds), Oxford: Oxford University Press, 355–401.
-* Milgram, S, 1974, *Obedience to Authority*, New York: Harper & Row.
-* Miller, Christian, 2003, “Social Psychology and Virtue Ethics,” *The Journal of Ethics*, 7: 365–392.
-* –––, 2013, *Moral Character: An Empirical Theory*, Oxford: Oxford University Press.
-* –––, 2014, *Character and Moral Psychology*, Oxford: Oxford University Press.
-* –––, 2016, “Does the CAPS Model Improve Our Understanding of Personality and Character?” in *From Personality to Virtue*, Jonathan Webber and Alberto Masala (ed.), Oxford: Oxford University Press, pp. 155–185.
-* –––, 2017, “Character and Situationism: New Directions,” *Ethical Theory and Moral Practice*, 20: 459–471.
-* –––, 2019a, “Some Complexities of Categorizing Character Traits,” in *Virtue Ethics: Retrospect and Prospect*. Elisa Grimi (ed.). Springer, pp. 81–98.
-* –––, 2019b, “Some Philosophical Concerns about How the VIA Classifies Character Traits and the VIA-IS Measures Them,” *Journal of Positive Psychology*, 14: 6–19.
-* –––, forthcoming, “Flirting with Skepticism about Practical Wisdom,” in *Practical Wisdom: Philosophical and Psychological Perspectives*, Routledge.
-* Mischel, W, 1968, *Personality and Assessment*, New York: John J. Wiley and Sons.
-* –––, 1973, “Toward a Cognitive Social Learning Reconceptualization of Personality,” *Psychological Review*, 80: 252–283.
-* –––, 1984, “Convergences and Challenges in the Search for Consistency,” *American Psychologist*, 39: 351–364.
-* –––, 1999a, “Implications of Person-Situation Interaction: Getting Over the Field’s Borderline Personality Disorder,” *European Journal of Personality*, 13: 455–461.
+* McCrae, R. and O. John, 1992, “An Introduction to the Five-Factor Model and Its Applications,” _Journal of Personality_, 60: 175–215.
+* McGrath, R, 2014, “Scale- and Item-Level Factor Analysis of the VIA Inventory of Strengths,” _Assessment_, 21: 4–14.
+* –––, 2015, “Integrating Psychological and Cultural Perspectives on Virtue: The Hierarchical Structure of Character Strengths,” _The Journal of Positive Psychology_, 10: 407–424.
+* Merritt, Maria, 2000, “Virtue Ethics and Situationist Personality Psychology,” _Ethical Theory and Moral Practice_, 3: 365–383.
+* Merritt, Maria, John Doris, and Gilbert Harman, 2010, “Character,” in _The Moral Psychology Handbook_, J. Doris and the Moral Psychology Research Group (eds), Oxford: Oxford University Press, 355–401.
+* Milgram, S, 1974, _Obedience to Authority_, New York: Harper & Row.
+* Miller, Christian, 2003, “Social Psychology and Virtue Ethics,” _The Journal of Ethics_, 7: 365–392.
+* –––, 2013, _Moral Character: An Empirical Theory_, Oxford: Oxford University Press.
+* –––, 2014, _Character and Moral Psychology_, Oxford: Oxford University Press.
+* –––, 2016, “Does the CAPS Model Improve Our Understanding of Personality and Character?” in _From Personality to Virtue_, Jonathan Webber and Alberto Masala (ed.), Oxford: Oxford University Press, pp. 155–185.
+* –––, 2017, “Character and Situationism: New Directions,” _Ethical Theory and Moral Practice_, 20: 459–471.
+* –––, 2019a, “Some Complexities of Categorizing Character Traits,” in _Virtue Ethics: Retrospect and Prospect_. Elisa Grimi (ed.). Springer, pp. 81–98.
+* –––, 2019b, “Some Philosophical Concerns about How the VIA Classifies Character Traits and the VIA-IS Measures Them,” _Journal of Positive Psychology_, 14: 6–19.
+* –––, forthcoming, “Flirting with Skepticism about Practical Wisdom,” in _Practical Wisdom: Philosophical and Psychological Perspectives_, Routledge.
+* Mischel, W, 1968, _Personality and Assessment_, New York: John J. Wiley and Sons.
+* –––, 1973, “Toward a Cognitive Social Learning Reconceptualization of Personality,” _Psychological Review_, 80: 252–283.
+* –––, 1984, “Convergences and Challenges in the Search for Consistency,” _American Psychologist_, 39: 351–364.
+* –––, 1999a, “Implications of Person-Situation Interaction: Getting Over the Field’s Borderline Personality Disorder,” _European Journal of Personality_, 13: 455–461.
 * –––, 1999b, “Personality Coherence and Dispositions in a Cognitive-Affective Personality System (CAPS) Approach,” in Cervone and Shoda 1999: pp. 37–60.
-* –––, 2004, “Toward an Integrative Science of the Person,” *Annual Review of Psychology*, 55: 1–22.
-* –––, 2009, “From *Personality and Assessment* (1968) to Personality Science, 2009,” *Journal of Research in Personality*, 43: 282–290.
-* Mischel, W. and Y. Shoda, 1995, “A Cognitive-Affective System Theory of Personality: Reconceptualizing Situations, Dispositions, Dynamics, and Invariance in Personality Structure,” *Psychological Review*, 102: 246–268.
-* –––, 1998, “Reconciling Processing Dynamics and Personality Dispositions,” *Annual Review of Psychology*, 49: 229–258.
+* –––, 2004, “Toward an Integrative Science of the Person,” _Annual Review of Psychology_, 55: 1–22.
+* –––, 2009, “From _Personality and Assessment_ (1968) to Personality Science, 2009,” _Journal of Research in Personality_, 43: 282–290.
+* Mischel, W. and Y. Shoda, 1995, “A Cognitive-Affective System Theory of Personality: Reconceptualizing Situations, Dispositions, Dynamics, and Invariance in Personality Structure,” _Psychological Review_, 102: 246–268.
+* –––, 1998, “Reconciling Processing Dynamics and Personality Dispositions,” _Annual Review of Psychology_, 49: 229–258.
 * –––, 2008, “Toward a Unified Theory of Personality: Integrating Dispositions and Processing Dynamics within the Cognitive-Affective Processing System,” in John, Robins, and Pervin 2008b: 208–241.
-* Moneta, G, 2014, *Positive Psychology: A Critical Introduction*, New York: Palgrave Macmillan.
-* Montmarquet, James, 2003, “Moral Character and Social Science Research,” *Philosophy*, 78: 355–368.
-* Mount, M. and M. Barrick, 1998, “Five Reasons why the ‘Big Five’ Article has been Frequently Cited,” *Personnel Psychology*, 51: 849–857.
-* Mumford, Stephen, 1998, *Dispositions*, Oxford: Oxford University Press.
-* Niemiec, R, 2013, “VIA Character Strengths: Research and Practice (The First 10 Years),” in *Well-being and Cultures: Perspectives on Positive Psychology*, H.H. Knoop and A. Delle Fave (eds.), New York: Springer, pp. 11–30.
-* Noftle, E., S. Schnitker, and R. Robins, 2011, “Character and Personality: Connections between Positive Psychology and Personality Psychology,” in *Designing Positive Psychology: Taking Stock and Moving Forward*, K. Sheldon, T. Kashdan, and M. Steger (eds.), Oxford: Oxford University Press, pp. 207–227.
-* Ozer, D. and S. Reise, 1994, “Personality Assessment,” in *Annual Review of Psychology*, L. Porter and M. Rosenzweig (eds), Volume 45. Palo Alto: Annual Reviews, pp. 357–388.
-* Ozer, D. and V. Benet-Martínez, 2006, “Personality and the Prediction of Consequential Outcome,” *Annual Review of Psychology*, 57: 401–421.
-* Peterson, C. and M. Seligman (eds), 2004, *Character Strengths and Virtues: A Handbook and Classification*, Oxford: Oxford University Press.
+* Moneta, G, 2014, _Positive Psychology: A Critical Introduction_, New York: Palgrave Macmillan.
+* Montmarquet, James, 2003, “Moral Character and Social Science Research,” _Philosophy_, 78: 355–368.
+* Mount, M. and M. Barrick, 1998, “Five Reasons why the ‘Big Five’ Article has been Frequently Cited,” _Personnel Psychology_, 51: 849–857.
+* Mumford, Stephen, 1998, _Dispositions_, Oxford: Oxford University Press.
+* Niemiec, R, 2013, “VIA Character Strengths: Research and Practice (The First 10 Years),” in _Well-being and Cultures: Perspectives on Positive Psychology_, H.H. Knoop and A. Delle Fave (eds.), New York: Springer, pp. 11–30.
+* Noftle, E., S. Schnitker, and R. Robins, 2011, “Character and Personality: Connections between Positive Psychology and Personality Psychology,” in _Designing Positive Psychology: Taking Stock and Moving Forward_, K. Sheldon, T. Kashdan, and M. Steger (eds.), Oxford: Oxford University Press, pp. 207–227.
+* Ozer, D. and S. Reise, 1994, “Personality Assessment,” in _Annual Review of Psychology_, L. Porter and M. Rosenzweig (eds), Volume 45. Palo Alto: Annual Reviews, pp. 357–388.
+* Ozer, D. and V. Benet-Martínez, 2006, “Personality and the Prediction of Consequential Outcome,” _Annual Review of Psychology_, 57: 401–421.
+* Peterson, C. and M. Seligman (eds), 2004, _Character Strengths and Virtues: A Handbook and Classification_, Oxford: Oxford University Press.
 * Peterson, C. and N. Park, 2009, “Classifying and Measuring Strengths of Character,” in Snyder and Lopez 2009: 25–33.
-* Philpot, R., L. S. Liebst, M. Levine, W. Bernasco, and M. R. Lindegaard, 2019, “Would I Be Helped? Cross-National CCTV Footage Shows That Intervention Is the Norm in Public Conflicts,” *American Psychologist*, 75: 66–75.
-* Piedmont, R, 1998, *The Revised NEO Personality Inventory: Clinical and Research Applications*, New York: Plenum Press.
-* Prinz, Jesse, 2009, “The Normativity Challenge: Cultural Psychology Provides the Real Threat to Virtue Ethics,” *The Journal of Ethics*, 13: 117–144.
-* Roberts, B., N. Kuncel, R. Shiner, A. Caspi, and L. Goldberg, 2007, “The Power of Personality: The Comparative Validity of Personality Traits, Socioeconomic Status, and Cognitive Ability for Predicting Important Life Outcomes,” *Perspectives on Psychological Science*, 2: 313–345.
-* Ross, L. and R. Nisbett, 1991, *The Person and the Situation: Perspectives of Social Psychology*, New York: McGraw-Hill.
-* Russell, Daniel, 2009, *Practical Intelligence and the Virtues*, Oxford: Clarendon Press.
-* Sabini, J. and M. Silver, 2005, “Lack of Character? Situationism Critiqued,” *Ethics*, 115: 535–562.
-* Sarkissian, Hagop, 2010, “Minor Tweaks, Major Payoffs: The Problem and Promise of Situationism in Moral Philosophy,” *Philosophers’ Imprint*, 10:1–15.
-* Saucier, G. and L. Goldberg, 1996a, “Evidence for the Big Five in Analyses of Familiar English Personality Adjectives,” *European Journal of Personality*, 10: 61–77.
+* Philpot, R., L. S. Liebst, M. Levine, W. Bernasco, and M. R. Lindegaard, 2019, “Would I Be Helped? Cross-National CCTV Footage Shows That Intervention Is the Norm in Public Conflicts,” _American Psychologist_, 75: 66–75.
+* Piedmont, R, 1998, _The Revised NEO Personality Inventory: Clinical and Research Applications_, New York: Plenum Press.
+* Prinz, Jesse, 2009, “The Normativity Challenge: Cultural Psychology Provides the Real Threat to Virtue Ethics,” _The Journal of Ethics_, 13: 117–144.
+* Roberts, B., N. Kuncel, R. Shiner, A. Caspi, and L. Goldberg, 2007, “The Power of Personality: The Comparative Validity of Personality Traits, Socioeconomic Status, and Cognitive Ability for Predicting Important Life Outcomes,” _Perspectives on Psychological Science_, 2: 313–345.
+* Ross, L. and R. Nisbett, 1991, _The Person and the Situation: Perspectives of Social Psychology_, New York: McGraw-Hill.
+* Russell, Daniel, 2009, _Practical Intelligence and the Virtues_, Oxford: Clarendon Press.
+* Sabini, J. and M. Silver, 2005, “Lack of Character? Situationism Critiqued,” _Ethics_, 115: 535–562.
+* Sarkissian, Hagop, 2010, “Minor Tweaks, Major Payoffs: The Problem and Promise of Situationism in Moral Philosophy,” _Philosophers’ Imprint_, 10:1–15.
+* Saucier, G. and L. Goldberg, 1996a, “Evidence for the Big Five in Analyses of Familiar English Personality Adjectives,” _European Journal of Personality_, 10: 61–77.
 * –––, 1996b, “The Language of Personality: Lexical Perspectives on the Five-Factor Model,” in Wiggins 1996: 21–50.
 * Shoda, Y., 1999, “Behavioral Expressions of a Personality System: Generation and Perception of Behavioral Signatures,” in Cervone and Shoda 1999: 155–181.
-* Shoda, Y., W. Mischel, and J. Wright, 1993, “The Role of Situational Demands and Cognitive Competencies in Behavior Organization and Personality Coherence,” *Journal of Personality and Social Psychology*, 65: 1023–1035.
-* –––, 1994, “Intraindividual Stability in the Organization and Patterning of Behavior: Incorporating Psychological Situations into the Idiographic Analysis of Personality,” *Journal of Personality and Social Psychology*, 67: 674–687.
-* Slingerland, Edward, 2011, “The Situationist Critique and Early Confucian Virtue Ethics,” *Ethics*, 121: 390–419.
-* Smaldino, P. E., A. Lukaszewski, C. von Rueden, and M. Gruven, 2019, “Niche diversity can explain Cross-Cultural Differences in Personality Structure,” *Nature Human Behavior*, 3: 1276–1283.
-* Snow, Nancy, 2010, *Virtue as Social Intelligence: An Empirically Grounded Theory*, New York: Routledge Press.
-* Snyder, C. and S. Lopez (eds.), 2009, *Oxford Handbook of Positive Psychology*, Oxford: Oxford University Press.
-* Solomon, Robert, 2003, “Victims of Circumstances? A Defense of Virtue Ethics in Business,” *Business Ethics Quarterly*, 13: 43–62.
+* Shoda, Y., W. Mischel, and J. Wright, 1993, “The Role of Situational Demands and Cognitive Competencies in Behavior Organization and Personality Coherence,” _Journal of Personality and Social Psychology_, 65: 1023–1035.
+* –––, 1994, “Intraindividual Stability in the Organization and Patterning of Behavior: Incorporating Psychological Situations into the Idiographic Analysis of Personality,” _Journal of Personality and Social Psychology_, 67: 674–687.
+* Slingerland, Edward, 2011, “The Situationist Critique and Early Confucian Virtue Ethics,” _Ethics_, 121: 390–419.
+* Smaldino, P. E., A. Lukaszewski, C. von Rueden, and M. Gruven, 2019, “Niche diversity can explain Cross-Cultural Differences in Personality Structure,” _Nature Human Behavior_, 3: 1276–1283.
+* Snow, Nancy, 2010, _Virtue as Social Intelligence: An Empirically Grounded Theory_, New York: Routledge Press.
+* Snyder, C. and S. Lopez (eds.), 2009, _Oxford Handbook of Positive Psychology_, Oxford: Oxford University Press.
+* Solomon, Robert, 2003, “Victims of Circumstances? A Defense of Virtue Ethics in Business,” _Business Ethics Quarterly_, 13: 43–62.
 * Sosa, Ernest, 2009, “Situations against Virtues: The Situationist Attack on Virtue Theory,” in Mantzavinos 2009: 274–290.
-* Sreenivasan, Gopal, 2002, “Errors about Errors: Virtue Theory and Trait Attribution,” *Mind*, 111: 47–68.
-* Thalmayer, A. G., G. Saucier, L. Ole-Kotikash, and D. Payne, 2020, “Personality Structure in East and West Africa: Lexical Studies of Personality in Maa and Supyire-Senufo”, *Journal of Personality and Social Psychology*, 119: 1132–1152.
-* Thalmayer, A. G., S. Job, E. N. Shino, S. L. Robinson, and G. Saucier, 2021, “ǂŪsigu: A Mixed-Method Lexical Study of Character Description in Khoekhoegowab”, *Journal of Personality and Social Psychology*, 121: 1258–1283.
-* Upton, Candace, 2009, “The Structure of Character,” *The Journal of Ethics*, 13: 175–193.
-* Vranas, Peter, 2005, “The Indeterminacy Paradox: Character Evaluations and Human Psychology,” *Noûs*, 39: 1–42.
-* Wielenberg, Erik, 2006, “Saving Character”, *Ethical Theory and Moral Practice*, 9: 461–491.
-* Wiggins, J. (ed.), 1996, *The Five-Factor Model of Personality: Theoretical Perspectives*, New York: The Guilford Press.
+* Sreenivasan, Gopal, 2002, “Errors about Errors: Virtue Theory and Trait Attribution,” _Mind_, 111: 47–68.
+* Thalmayer, A. G., G. Saucier, L. Ole-Kotikash, and D. Payne, 2020, “Personality Structure in East and West Africa: Lexical Studies of Personality in Maa and Supyire-Senufo”, _Journal of Personality and Social Psychology_, 119: 1132–1152.
+* Thalmayer, A. G., S. Job, E. N. Shino, S. L. Robinson, and G. Saucier, 2021, “ǂŪsigu: A Mixed-Method Lexical Study of Character Description in Khoekhoegowab”, _Journal of Personality and Social Psychology_, 121: 1258–1283.
+* Upton, Candace, 2009, “The Structure of Character,” _The Journal of Ethics_, 13: 175–193.
+* Vranas, Peter, 2005, “The Indeterminacy Paradox: Character Evaluations and Human Psychology,” _Noûs_, 39: 1–42.
+* Wielenberg, Erik, 2006, “Saving Character”, _Ethical Theory and Moral Practice_, 9: 461–491.
+* Wiggins, J. (ed.), 1996, _The Five-Factor Model of Personality: Theoretical Perspectives_, New York: The Guilford Press.
 * Wiggins, J. and P. Trapnell, 1996, “A Dyadic-Interactional Perspective on the Five-Factor Model,” in Wiggins 1996: 88–162.
-* Wright, J. and W. Mischel, 1987, “A Conditional Approach to Dispositional Constructs: The Local Predictability of Social Behavior”, *Journal of Personality and Social Psychology*, 53: 1159–1177.
+* Wright, J. and W. Mischel, 1987, “A Conditional Approach to Dispositional Constructs: The Local Predictability of Social Behavior”, _Journal of Personality and Social Psychology_, 53: 1159–1177.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-character-empirical). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/moral-character-empirical/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=moral-character-empirical&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/moral-character-empirical/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-character-empirical).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/moral-character-empirical/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=moral-character-empirical\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/moral-character-empirical/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -623,11 +636,11 @@ Mischel 和他的团队在建立这种联系方面并不是很有帮助。他们
 
 ## Related Entries
 
-[character, moral](https://plato.stanford.edu/entries/moral-character/) | [ethics: ancient](https://plato.stanford.edu/entries/ethics-ancient/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [experimental moral philosophy](https://plato.stanford.edu/entries/experimental-moral/) | [happiness](https://plato.stanford.edu/entries/happiness/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/)
+[character, moral](https://plato.stanford.edu/entries/moral-character/) | [ethics: ancient](https://plato.stanford.edu/entries/ethics-ancient/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [experimental moral philosophy](https://plato.stanford.edu/entries/experimental-moral/) | [happiness](https://plato.stanford.edu/entries/happiness/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/)
 
 ### Acknowledgments
 
 Work on this entry was supported by a grant from the Templeton Religion Trust. The statements made here are those of the author and are not necessarily endorsed by the Templeton Religion Trust. Sections 1, 2, and 3 are drawn from Miller 2014, with permission of Oxford University Press, and have been revised for this entry. Thanks to Mark Timmons for catching several typos, and to two readers, one for suggesting that there be some clarification of the personality versus character trait distinction, and the other for providing very helpful citations on cross-cultural variation in findings pertaining to the Big Five
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Christian B. Miller](http://www.wfu.edu/~millerc) <[*millerc@wfu.edu*](mailto:millerc%40wfu%2eedu)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Christian B. Miller](http://www.wfu.edu/\~millerc) <[_millerc@wfu.edu_](mailto:millerc%40wfu%2eedu)>

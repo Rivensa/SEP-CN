@@ -1,6 +1,6 @@
 # 变化与不一致 and inconsistency (Chris Mortensen)
 
-*首次发表于 2002 年 12 月 18 日星期三；实质性修订于 2020 年 2 月 13 日星期四*
+_首次发表于 2002 年 12 月 18 日星期三；实质性修订于 2020 年 2 月 13 日星期四_
 
 变化在我们的生活中是如此普遍，以至于几乎无法描述和分析。可以用一种非常普遍的方式来思考它，即变更。但是，一件事物的变更引发了微妙的问题。其中一个最令人困惑的问题是变化的一致性问题：一个事物如何具有不兼容的属性，却仍然保持相同的事物？有人认为变化是一个连贯的过程，并且由时间的存在来实现。其他人认为理解变化的唯一方法是将其视为不一致性。本文概述了这一问题及相关问题的历史，并得出结论：将变化视为不一致性的论点并非那么容易被轻易摒弃。
 
@@ -18,7 +18,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/change/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/change/#Rel)
 
----
+***
 
 ## 1. 引言
 
@@ -62,19 +62,19 @@ Zeno 的杰出悖论通常被视为捍卫巴门尼德的尝试。我们不会详
 
 如果一个变化中的事物具有不同和不兼容的属性，那么就会出现矛盾。当面对事物变化这一事实时，显而易见的做法是像康德（1781）那样说它们随时间变化，这样可以避免不一致。但随之而来的另一个问题是什么意义上的一致可以使一件事物在变化中持续存在？时间和空间上的一致是普遍性的标志，但我们也将诸如台球和人这样的个别事物视为在时间上具有自我认同。
 
-亚里士多德（Aristotle）关于事物持续性的观点在这里值得注意。冒着对其他地方已经详细讨论的内容进行极度简化的风险（请参阅[亚里士多德的形而上学](https://plato.stanford.edu/entries/aristotle-metaphysics/)条目），可以说他早期认为随着时间的推移和变化而持续存在的*基质*可以与*物质*等同，物质的*形式*是被获得或丢失的（《物理学》I，5-7）。当他写《范畴论》时，被认为容易受到相反属性影响的是*实质*；因此实质本身没有对立面（范畴论 4a10）。在《形而上学》Z 中，对实质的更复杂的学说进行了阐述。实质不是基质、物质，因为那缺乏特殊性。*它*的实质，*那个东西*存在的本质，没有它就不存在，是它的*本质*。亚里士多德随后将本质与他的因果理论联系起来，被各种方式认同为最终原因和形式原因。
+亚里士多德（Aristotle）关于事物持续性的观点在这里值得注意。冒着对其他地方已经详细讨论的内容进行极度简化的风险（请参阅[亚里士多德的形而上学](https://plato.stanford.edu/entries/aristotle-metaphysics/)条目），可以说他早期认为随着时间的推移和变化而持续存在的_基质_可以与_物质_等同，物质的_形式_是被获得或丢失的（《物理学》I，5-7）。当他写《范畴论》时，被认为容易受到相反属性影响的是_实质_；因此实质本身没有对立面（范畴论 4a10）。在《形而上学》Z 中，对实质的更复杂的学说进行了阐述。实质不是基质、物质，因为那缺乏特殊性。_它_的实质，_那个东西_存在的本质，没有它就不存在，是它的_本质_。亚里士多德随后将本质与他的因果理论联系起来，被各种方式认同为最终原因和形式原因。
 
 尽管亚里士多德关于变化的观点 — 特别是他区分本质和意外的观点 — 有时被认为包含了对通过变化实现持续性身份问题的解决方案，但笔者认为它们实际上并没有真正抓住问题的最基本形式。这在《范畴论》中可能最为明显，那里实质能够容纳不兼容的意外特征几乎是定义性的。
 
 问题可以通过反思相同性法则而变得更加尖锐。如果一个事物在 t1 时与 t2 时相同，那么它们应该共享所有属性。如果这不是什么样的同一性呢？但是，如果不同时的属性是不兼容的，那么就会产生矛盾。由于他们坚决认为矛盾从来都不是真实的，伟大的佛教逻辑学家达摩笈多（公元 7 世纪）及其评论家达摩陀罗（公元 8-9 世纪），他们肯定读过亚里士多德的著作，推断出随时间而同一并不存在（见谢尔巴茨基（1930）卷 2）。这就是佛教的瞬间论，本质上是瞬时时间片的本体论。存在的瞬间性理论与佛教的一切无常核心理论完美契合。瞬间论似乎是对无常的过度强调，对于解脱目的来说显然是不必要的，如果不考虑其有利论点的明显力量，更不用说它与现代物理学的时空本体论相符。另一方面，心理上非常难以相信自己的自我，作为一个真正自恒的东西，没有从过去的瞬间中持续下来。即便如此，人类存在的瞬间性论在德里克·帕菲特（1984）身上找到了最近的支持者，他质疑什么样的原则能够足够紧密地统一时间阶段，值得称之为同一性。他认为没有一个原则能够做到，提出内化我们生命的瞬间性对我们如何面对死亡有益。
 
-这个主题在最近关于“临时固有特性”的讨论中有所体现，这也与前面提到的“剑桥变化”概念相关。事物的剑桥变化仍然是*某种东西*的变化，但并不总是*事物本身*的变化。因此，我们可能试图通过其*固有*属性的变化来分离事物本身的变化。但这样一来，我们就面临着在其固有属性发生变化的情况下，它以何种方式继续成为同一个事物的问题。显然，这引发了如何定义固有性概念的问题。我们在这里不讨论这个问题，因为它在本*百科全书*的其他地方有所讨论，参见韦瑟森（2002）。因此，假设一个事物的固有和外在属性之间*原 facie*的区别，事物如何在其固有属性发生变化时持续存在？大卫·刘易斯和其他人就这个问题进行了辩论，例如，刘易斯（1986），（1988）。解决方案的几个选项被讨论，其中三个如下。
+这个主题在最近关于“临时固有特性”的讨论中有所体现，这也与前面提到的“剑桥变化”概念相关。事物的剑桥变化仍然是_某种东西_的变化，但并不总是_事物本身_的变化。因此，我们可能试图通过其_固有_属性的变化来分离事物本身的变化。但这样一来，我们就面临着在其固有属性发生变化的情况下，它以何种方式继续成为同一个事物的问题。显然，这引发了如何定义固有性概念的问题。我们在这里不讨论这个问题，因为它在本_百科全书_的其他地方有所讨论，参见韦瑟森（2002）。因此，假设一个事物的固有和外在属性之间_原 facie_的区别，事物如何在其固有属性发生变化时持续存在？大卫·刘易斯和其他人就这个问题进行了辩论，例如，刘易斯（1986），（1988）。解决方案的几个选项被讨论，其中三个如下。
 
-(1) 基本存在物是由时间索引的事物，即时间切片。主要存在的是一时的事物：“a 在 t 时是红色”被翻译为“a 在 t 时是红色”。随时间持续的事物是由这些部分组成的整体，人们说持续存在的事物*持续*而不是*忍受*。这是刘易斯、现任作者和时空理论所青睐的解决方案。
+(1) 基本存在物是由时间索引的事物，即时间切片。主要存在的是一时的事物：“a 在 t 时是红色”被翻译为“a 在 t 时是红色”。随时间持续的事物是由这些部分组成的整体，人们说持续存在的事物_持续_而不是_忍受_。这是刘易斯、现任作者和时空理论所青睐的解决方案。
 
 (2) 第二个选择是说，与其索引事物，不如索引属性：“a 在 t 时是红色”被翻译为“a 是红色在 t 时”。这个选择似乎没有任何捍卫者，也许是因为普遍属性被认为完全存在于它们的每个实例中，而索引显然否认了这一点。
 
-(3) 第三种选择将其基本最小概念确定为指标修改整个事件：(a 的红色)在 t 时成立。另一种变体是将指标视为修改'实例化'关系：a 在 t 时实例化红色。这一立场的不同版本曾受到几位贡献者的推崇：约翰斯顿（1987 年），洛厄（1987 年），（1988 年），哈斯兰格（1989 年）。然而，任何地方对于副词风格分析的问题在于提供足够的语义学，足够的逻辑结构来解释句子分析下的逻辑含义，正如戴维森（1967 年）所指出的。因此，例如有这样的事情：(((Fa)在 t 时)&a=b)蕴含((Fb)在 t 时)；或(((Fa)在 t1 时)&((Ga)在 t2 时)&(F 与 G 不兼容))蕴含不是 t1=t2；或(((Fa)在 t 时)&((Gb)在 t 时)&(F 与 G 不兼容))蕴含不是 a=b。因此不能止步于一种极简主义立场。至少，刘易斯的优点在于提供了一种可行的语义学，与模态语义中的对应理论直接平行。当然，刘易斯偏爱的立场的基本本体论是达摩祈多的，尽管刘易斯没有注意到这一点。更重要的是，达摩祈多的策略并不依赖于内在/外在区别。即使归因是外在的，矛盾归因的问题仍会出现，达摩祈多的论证是对一时一物的莱布尼茨定律的直接应用。如果时间切片被允许存在，而且如果相对论理论认可它们，那么达摩祈多的论证就成立了。
+(3) 第三种选择将其基本最小概念确定为指标修改整个事件：(a 的红色)在 t 时成立。另一种变体是将指标视为修改'实例化'关系：a 在 t 时实例化红色。这一立场的不同版本曾受到几位贡献者的推崇：约翰斯顿（1987 年），洛厄（1987 年），（1988 年），哈斯兰格（1989 年）。然而，任何地方对于副词风格分析的问题在于提供足够的语义学，足够的逻辑结构来解释句子分析下的逻辑含义，正如戴维森（1967 年）所指出的。因此，例如有这样的事情：(((Fa)在 t 时)\&a=b)蕴含((Fb)在 t 时)；或(((Fa)在 t1 时)&((Ga)在 t2 时)&(F 与 G 不兼容))蕴含不是 t1=t2；或(((Fa)在 t 时)&((Gb)在 t 时)&(F 与 G 不兼容))蕴含不是 a=b。因此不能止步于一种极简主义立场。至少，刘易斯的优点在于提供了一种可行的语义学，与模态语义中的对应理论直接平行。当然，刘易斯偏爱的立场的基本本体论是达摩祈多的，尽管刘易斯没有注意到这一点。更重要的是，达摩祈多的策略并不依赖于内在/外在区别。即使归因是外在的，矛盾归因的问题仍会出现，达摩祈多的论证是对一时一物的莱布尼茨定律的直接应用。如果时间切片被允许存在，而且如果相对论理论认可它们，那么达摩祈多的论证就成立了。
 
 其他人在变化的一致性问题上采取了不同的道路。赫拉克利特（公元前 6 世纪）以引人注目的方式写作，提出了他的对立统一学说。然而，他所留下的少数句子过于晦涩和零碎，无法让人对解释产生信心。他谈到同一条河在不同时间有不同的水，但这一观察没有得到进一步发展。同样，他谈到海洋一度既是保护生命的（对鱼类）又是夺取生命的（对人类），并说“上升的道路和下降的道路是一样的。”然而，这些例子并不足以让人相信真正的矛盾。
 
@@ -84,7 +84,7 @@ Zeno 的杰出悖论通常被视为捍卫巴门尼德的尝试。我们不会详
 
 在这个论点中有一些吸引人的地方。正如普里斯特和劳特利所说，“在变化中……在每个阶段，变化的物品既处于某种给定状态，因为它刚刚达到了那种状态，但又不处于那种状态，因为它不是静止的，而是在通过并超越那种状态”（普里斯特，劳特利和诺曼，1989 年，第 7 页）。想象一个物体在某个特定时间停下来，并将其与同一物体继续前进进行比较。在那一瞬间，这个物体必须有某种特征来区分这两种情况，否则在那个时刻就没有什么可以被视为持续变化。原因无法做到这一点，因为一个物体可以在没有受到外力作用的情况下保持其运动状态，就像牛顿教导我们的那样。速度也无法做到这一点，因为速度是与周围点的关系。事实上，一个瞬间静止的物体和在该瞬间附近静止一段时间的物体之间的速度没有区别；然而一个在变化，另一个没有。
 
-我们将在下一节更仔细地研究这个论点。然而，在这里我们可以提醒自己黑格尔的唯心主义。几乎每个人都同意，思想中的矛盾比外部世界中的矛盾更容易接受。在运动现象学的特殊情况中，认为直接感知运动与仅仅静态记忆中位置差异的区别在于，刺激中附近的微小变化被解读为一种缓冲区，它们不像静态记忆那样进行比较，而更像是重叠或叠加，就像矛盾那样。毕竟，我们并不擅长区分时间的小间隔，正如每秒 25 帧的成功所表明的那样。因此，头脑构建了一种矛盾理论，不断更新。事实上，这很可能是我们早些时候提到的令人困扰的直觉的根源，即在变化中持续存在的是同一事物，尽管承认它在不同（附近）时间具有不同的属性。如果这是正确的，那么如果认同黑格尔的观点，认为世界是一种想法，那么像运动这样的思想的矛盾很可能会延伸到它们在世界中的实现的矛盾。事实上，即使没有全面的唯心主义假设，也始终要谨慎，即如果可以提出一种描述认识状态，即认知状态的理论（无论是否一致），那么我们如何能完全确信世界简单地*不可能*是那样呢？
+我们将在下一节更仔细地研究这个论点。然而，在这里我们可以提醒自己黑格尔的唯心主义。几乎每个人都同意，思想中的矛盾比外部世界中的矛盾更容易接受。在运动现象学的特殊情况中，认为直接感知运动与仅仅静态记忆中位置差异的区别在于，刺激中附近的微小变化被解读为一种缓冲区，它们不像静态记忆那样进行比较，而更像是重叠或叠加，就像矛盾那样。毕竟，我们并不擅长区分时间的小间隔，正如每秒 25 帧的成功所表明的那样。因此，头脑构建了一种矛盾理论，不断更新。事实上，这很可能是我们早些时候提到的令人困扰的直觉的根源，即在变化中持续存在的是同一事物，尽管承认它在不同（附近）时间具有不同的属性。如果这是正确的，那么如果认同黑格尔的观点，认为世界是一种想法，那么像运动这样的思想的矛盾很可能会延伸到它们在世界中的实现的矛盾。事实上，即使没有全面的唯心主义假设，也始终要谨慎，即如果可以提出一种描述认识状态，即认知状态的理论（无论是否一致），那么我们如何能完全确信世界简单地_不可能_是那样呢？
 
 采取比黑格尔更为谨慎的观点，尽管 Von Wright（1968）提出了一个有趣的条件账户，其中变化必须被视为不一致。该账户需要两个条件。第一个条件是将时间视为结构化的嵌套区间，而不是原子点瞬间的集合。这是一个有吸引力的提议，因为从未有人看到过时间或空间点。当然，标准的相对论理论提出时空是点状的，通常的连续数学也是如此。但是，可以制定出一个成功的非点状数学，使用区间，尽管会增加相当多的复杂性（参见例如，Weyl 1960）。现在在区间的本体论中，由于没有原子点可以附加唯一的命题，最多只能说一个命题在区间的某个地方成立，极端情况是它在整个区间内都成立。
 
@@ -100,7 +100,7 @@ Zeno 的杰出悖论通常被视为捍卫巴门尼德的尝试。我们不会详
 
 普里斯特希望有一个内在的变化描述，其中变化仅仅取决于物体在瞬间的特征，无论它是否在瞬间发生变化。他提出了三个反对外在描述的论点。首先是“相接”论证（第 203 页）。以时间的通常观点为连续分布的点瞬间集合，在任何变化中，必须有一个间隔，整个间隔中都是 p，与整个间隔相邻，整个间隔中都是¬p。无论 p 是否有最后的瞬间而¬p 没有第一个瞬间，或者 p 没有最后的瞬间而¬p 有第一个瞬间，都不重要；无论哪种情况，都没有时间来表明系统正在发生变化。例如，如果我们说变化发生在边界点，那么关于该点没有任何区别，以区分它与完全没有变化的情况，因为相邻的间隔中每个都持有相同的命题。因此，普里斯特说，在电影观中根本没有变化：因为变化必须发生在某个时间点，而在这种情况下是不存在的。
 
-Priest 的第二个论点（第 217 页）涉及因果关系。宇宙“拉普拉斯”至少是可以想象的，他指的是任何时候的状态由之前的状态决定。但是，如果变化是电影式的，那么说先前时间的世界瞬时状态决定其随后时间的状态就没有意义：例如，甚至速度也不是由物体的固有瞬时状态决定的。现在，拉普拉斯宇宙是可能的，但电影观点使拉普拉斯变化*先验*错误。因此，Priest 得出结论，拒绝拉普拉斯观点。
+Priest 的第二个论点（第 217 页）涉及因果关系。宇宙“拉普拉斯”至少是可以想象的，他指的是任何时候的状态由之前的状态决定。但是，如果变化是电影式的，那么说先前时间的世界瞬时状态决定其随后时间的状态就没有意义：例如，甚至速度也不是由物体的固有瞬时状态决定的。现在，拉普拉斯宇宙是可能的，但电影观点使拉普拉斯变化_先验_错误。因此，Priest 得出结论，拒绝拉普拉斯观点。
 
 Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论的版本。在变化的电影观点中，箭在任何瞬间都没有任何关于其运动的东西：它与静止的箭无法区分。但是，这样就没有任何构成其运动的东西：无限多个零运动并不相加得到任何东西，只是零运动。针对根据测度论的回答，（不可数地）无限多个零测度点可以具有非零测度，Priest 认为这只是数学：“...当人们试图理解箭是如何实际实现其运动时，这并没有减轻不适...在其运动的任何点上，它根本不前进。然而，在某种看似神奇的方式中，在这些点的集合中，它前进了。现在，一堆无物，甚至是无限多的无物，都是无物。那么它是如何做到的呢？”（第 218-9 页）
 
@@ -114,7 +114,7 @@ Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论�
 
 在询问这个精心制定的立场的论据有多强时，我们回到普里斯特（Priest）反对对手一致、外在、电影观点的三个论点。我们回想第一个论点是“对接”论点：一致的变化不能允许有变化发生的（单一）时间。这不会动摇反对派，他们会回答说这是变化的本质，即使是点上的变化，也需要与附近的点进行比较；因此，对变化的内在概念的需求是一个错误。
 
-第二个论点是电影观点与拉普拉斯观点相矛盾，即过去决定现在。普里斯特表达得不太可信：他说拉普拉斯主义是可能的，而电影观点则“*先验*”地排除了它（第 217 页）。但这是一种模态谬误：只有在采纳拉普拉斯观点时，电影观点才被排除，因此这只是相对先验。
+第二个论点是电影观点与拉普拉斯观点相矛盾，即过去决定现在。普里斯特表达得不太可信：他说拉普拉斯主义是可能的，而电影观点则“_先验_”地排除了它（第 217 页）。但这是一种模态谬误：只有在采纳拉普拉斯观点时，电影观点才被排除，因此这只是相对先验。
 
 第三个论点，变化的箭，尽管有更大的力量。任何数量，甚至是无限数量的零怎么可能加起来得到一个非零呢？测度论的数学可能会说，区间具有非零测度，而单个点为零，但那又怎样呢？我们需要的是一个能够使其应用可理解且非任意的故事。如果这个故事无法提供，那么就会有一个强烈的反直觉，即零标志着不存在的缺失；没有任何缺失或不存在的事物或数量会构成一个现存的事物或数量。
 
@@ -126,33 +126,33 @@ Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论�
 
 ## 7. 不连续变化和莱布尼茨连续条件
 
-如果 LCC 有变化的机会，那么它需要进一步限制，超出了原子命题及其否定。这是因为当应用于某些原子命题时，它会产生不合理的后果。考虑任何增函数 f(t)。那么形式为 f(t)<f(a) 的命题将在 t<a 时成立。然后根据 LCC，f(a)<f(a)。即使在考虑到矛盾的命题 −f(a)<f(a) 之前，这显然是一个多余的结论。因此，本文作者（1997）建议将应用限制在等式理论的原子命题上，即形式为 f(t)=0 的命题。从独立的角度来看，这并不那么不合理，因为自然的基本规律是用等式形式表达的。
+如果 LCC 有变化的机会，那么它需要进一步限制，超出了原子命题及其否定。这是因为当应用于某些原子命题时，它会产生不合理的后果。考虑任何增函数 f(t)。那么形式为 f(t)\<f(a) 的命题将在 t\<a 时成立。然后根据 LCC，f(a)\<f(a)。即使在考虑到矛盾的命题 −f(a)\<f(a) 之前，这显然是一个多余的结论。因此，本文作者（1997）建议将应用限制在等式理论的原子命题上，即形式为 f(t)=0 的命题。从独立的角度来看，这并不那么不合理，因为自然的基本规律是用等式形式表达的。
 
 如此受限，我们可以注意到，远非不合理，事实证明，在一大类合理模型中，特别是前面提到的 C-无穷世界中，LCC 是满足的，其中每个函数都是连续的。这些包括所有 GR 的函数。现在，C-无穷世界为我们提供了一种因果关系的折中方案。也许所有的相关性都是巧合，但至少如果函数是连续的，那么因果关系就是一种独特的相关性，因为它是在本地传输的。这可以有益地应用，不是为了产生不一致变化的一般解释，而是为了某些不一致变化的特定解释，如下所示。
 
-量子测量长期以来一直存在问题，不止一个原因。一个原因是它代表了与 Schrödinger 演化根本不同的一种过程。另一个原因是它是不连续但有因果关系的变化：通过测量可以让事情发生，尽管无法确定确切的结果。第三个原因是非局部性本身：非局部性*ipso facto*是不连续的，但非局部性受一种统计因果关系的支配。但现在，为了至少解决其中一些问题，已经提出利用不一致连续函数的理论。当一个函数在经典意义上是不连续的时，这些函数就会出现，但我们不一致地将函数的极限（假设它有极限）与其在极限处的值等同起来。这些函数，因为是连续的，可以被证明满足 LCC。但是，假设形式细节存在，有什么理由应用它们呢？确切地说，我们希望保留一定程度的因果关系，即 LCC-因果关系，同时保留过程的基本不连续性和不可预测性。因此，口号“非局部性是不一致的局部性”，这并不是要应用于一般变化，而是要应用于我们有理由认为是有因果关系的不连续变化。
+量子测量长期以来一直存在问题，不止一个原因。一个原因是它代表了与 Schrödinger 演化根本不同的一种过程。另一个原因是它是不连续但有因果关系的变化：通过测量可以让事情发生，尽管无法确定确切的结果。第三个原因是非局部性本身：非局部性_ipso facto_是不连续的，但非局部性受一种统计因果关系的支配。但现在，为了至少解决其中一些问题，已经提出利用不一致连续函数的理论。当一个函数在经典意义上是不连续的时，这些函数就会出现，但我们不一致地将函数的极限（假设它有极限）与其在极限处的值等同起来。这些函数，因为是连续的，可以被证明满足 LCC。但是，假设形式细节存在，有什么理由应用它们呢？确切地说，我们希望保留一定程度的因果关系，即 LCC-因果关系，同时保留过程的基本不连续性和不可预测性。因此，口号“非局部性是不一致的局部性”，这并不是要应用于一般变化，而是要应用于我们有理由认为是有因果关系的不连续变化。
 
 ## 8. 运动的认知
 
-正如我们之前所看到的，关于变化不一致性的基本情况取决于以下前提：(i) Fa，(ii) Gb，(iii) Fx→∼Gx，(iv) a=b。直到最后一个前提，一切都是一致的，但是将不同时间的实体 a 和 b 进行对应却使得同一事物具有不一致的属性。在第 5 节中曾建议，借鉴黑格尔的观点，即使我们说变化是一个一致的过程，*感知*变化可能涉及不一致的表征。现在是时候更仔细地看看认知科学对此能告诉我们什么了。结果表明，这个论点并不具有决定性，但具有启发性。集中精力研究运动感知的例子是很有用的。在 Palmer (1999)的第 10 章中可以找到一份全面的调查。
+正如我们之前所看到的，关于变化不一致性的基本情况取决于以下前提：(i) Fa，(ii) Gb，(iii) Fx→∼Gx，(iv) a=b。直到最后一个前提，一切都是一致的，但是将不同时间的实体 a 和 b 进行对应却使得同一事物具有不一致的属性。在第 5 节中曾建议，借鉴黑格尔的观点，即使我们说变化是一个一致的过程，_感知_变化可能涉及不一致的表征。现在是时候更仔细地看看认知科学对此能告诉我们什么了。结果表明，这个论点并不具有决定性，但具有启发性。集中精力研究运动感知的例子是很有用的。在 Palmer (1999)的第 10 章中可以找到一份全面的调查。
 
 一个感知运动的基本机制是 Reichardt 检测器。目前尚不完全确定中枢神经系统中是否存在这样的机制。另一方面，正如我们所看到的，它是如此简单，以至于很难想象我们的大脑中没有 Reichardt 检测器。
 
-最初的 Reichardt 检测器涉及两个空间分离的视网膜传感器，分别在时间 t1、t2 响应入射光的强度 I1、I2。本质上，I 测量了单个视网膜细胞上的入射光子数。 （为方便起见，我们可以将输入视为给定视网膜细胞的输出，尽管输出是电化学的，适合作为传感器。）两个输入中的一个，比如 I1，经历了延迟，因此在稍后的时间 t2 与另一个未延迟的输入 I2 进行比较。有不同的比较方法：Reichardt 建议了加法和乘法，但更合理的是考虑从一个值中减去另一个值（对于给定的 Reichardt 检测器来说是一个固定的操作）。然后，I1 和 I2 之间的差异进一步传播到中枢神经系统中。因此，我们有一个*变化检测器*，当 t1 时的 I1 到 t2 时的 I2 的强度没有变化时，I2-I1=0。
+最初的 Reichardt 检测器涉及两个空间分离的视网膜传感器，分别在时间 t1、t2 响应入射光的强度 I1、I2。本质上，I 测量了单个视网膜细胞上的入射光子数。 （为方便起见，我们可以将输入视为给定视网膜细胞的输出，尽管输出是电化学的，适合作为传感器。）两个输入中的一个，比如 I1，经历了延迟，因此在稍后的时间 t2 与另一个未延迟的输入 I2 进行比较。有不同的比较方法：Reichardt 建议了加法和乘法，但更合理的是考虑从一个值中减去另一个值（对于给定的 Reichardt 检测器来说是一个固定的操作）。然后，I1 和 I2 之间的差异进一步传播到中枢神经系统中。因此，我们有一个_变化检测器_，当 t1 时的 I1 到 t2 时的 I2 的强度没有变化时，I2-I1=0。
 
 为了更好地理解这意味着什么，我们注意到上述探测器可以分解成两个更简单的机制。
 
-其中一个是*空间变化*或*空间差异*探测器。这由两个传感器组成，它们的输出*没有延迟*，通过减法进行比较。如果两个输入单元的位置为 x1、x2，则*商*(I2−I1)/(x2−x1)测量了在空间距离 x2−x1 上 I 的*同时*值的差异。这可以写成导数 dI/dx。如果两个输入单元在同一时间测量的 I 没有差异，则它及其分子均为零。时间变量 t 在此处是固定的。顺便提一下，我们还可以看到这里强调的空间关系知觉机制，正如*格式塔*心理学家所强调的那样。
+其中一个是_空间变化_或_空间差异_探测器。这由两个传感器组成，它们的输出_没有延迟_，通过减法进行比较。如果两个输入单元的位置为 x1、x2，则_商_(I2−I1)/(x2−x1)测量了在空间距离 x2−x1 上 I 的_同时_值的差异。这可以写成导数 dI/dx。如果两个输入单元在同一时间测量的 I 没有差异，则它及其分子均为零。时间变量 t 在此处是固定的。顺便提一下，我们还可以看到这里强调的空间关系知觉机制，正如_格式塔_心理学家所强调的那样。
 
-这两种更简单的机制中的第二种是*时间变化*检测器。它由一个单一的输入细胞组成，其在 t1 时刻的输出 I1 被分成两部分，其中一部分通过延迟，然后与下一时刻 t2 的未延迟信号 I2 进行比较。商(I2−I1)/(t2−t1)测量了在单个输入上 I 的变化。这可以写成 dI/dt。如果同一细胞在不同时间接收到的强度没有变化，则这个商及其分子都为零。空间变量 x 在这里是固定的。
+这两种更简单的机制中的第二种是_时间变化_检测器。它由一个单一的输入细胞组成，其在 t1 时刻的输出 I1 被分成两部分，其中一部分通过延迟，然后与下一时刻 t2 的未延迟信号 I2 进行比较。商(I2−I1)/(t2−t1)测量了在单个输入上 I 的变化。这可以写成 dI/dt。如果同一细胞在不同时间接收到的强度没有变化，则这个商及其分子都为零。空间变量 x 在这里是固定的。
 
-这两种机制提供了记录和测量空间和时间变化的方法。现在很明显，这两种机制在耦合在一起时，正好是原始的 Reichardt 检测器。但现在我们可以确切地看到它测量的是什么。微积分使我们能够写成 dx/dt=(dI/dt)/(dI/dx)。但 dx/dt 是位置随时间变化的速率，即*速度*。重要的是，这里固定的是强度变量 I。因此，这测量的是一个*单一强度*，比如移动点、边缘或阴影，如何随时间改变其空间位置。这就是*运动*。对于给定的一对输入细胞，运动的方向是固定的（不同方向有不同的检测器），因此我们有一个记录*速度*的注册器。
+这两种机制提供了记录和测量空间和时间变化的方法。现在很明显，这两种机制在耦合在一起时，正好是原始的 Reichardt 检测器。但现在我们可以确切地看到它测量的是什么。微积分使我们能够写成 dx/dt=(dI/dt)/(dI/dx)。但 dx/dt 是位置随时间变化的速率，即_速度_。重要的是，这里固定的是强度变量 I。因此，这测量的是一个_单一强度_，比如移动点、边缘或阴影，如何随时间改变其空间位置。这就是_运动_。对于给定的一对输入细胞，运动的方向是固定的（不同方向有不同的检测器），因此我们有一个记录_速度_的注册器。
 
 在经过中，加速度检测也很容易解释：分割来自运动检测器的输出，延迟一个信号，然后进行比较。
 
 我们可以看到，关于不同时间的信息是如何进行比较的，是通过延迟来自某个时间的信息。延迟是一种缓冲。然后，通过在一个比较器处同时呈现两个信息，将信息“叠加”在下一个时间的信息上。通过从中减去一个信息来获得“综合图像”。这在某种程度上是一种连接，因为它将两个信息片段放在一起。但这显然不会导致具有矛盾内容的状态。实际上，这并不会导致一个随时间持续存在的事物的图像，因为不同位置-时间的相同强度 I 可能是由完全无关的事件引起的。但关于感知运动还有更多要说的。
 
-我们可以通过考虑一个被统称为*phi*的现象家族来学到更多，这一家族通常更广泛地归类为*表观运动*。最简单的例子是两个间歇性发光的灯，来回闪烁。我们自然地将其表示为*一个移动的光*。这不仅仅是强度的相同，而是作为一个*持久的*事物的表征。此外，如果我们要成功地通过间歇性的呈现来追踪猎物或危险，那么我们演化出这种反应并不奇怪。再想想一排灯，就像霓虹灯上的灯泡，要么只有一个灯泡亮着但位置变化，要么只有一个灯泡不亮，同样位置有系统地变化。或者想象一个时钟表盘，有一个灯泡坏了，在圆圈周围移动。我们的经验内容是一个持久的单一事物，不同的时间有不同的位置。这就是 phi 现象。加快速度（有时被称为*magni-phi*），它不再看起来是离散的，而是呈现为一个连续移动的事物，这增强了效果。
+我们可以通过考虑一个被统称为_phi_的现象家族来学到更多，这一家族通常更广泛地归类为_表观运动_。最简单的例子是两个间歇性发光的灯，来回闪烁。我们自然地将其表示为_一个移动的光_。这不仅仅是强度的相同，而是作为一个_持久的_事物的表征。此外，如果我们要成功地通过间歇性的呈现来追踪猎物或危险，那么我们演化出这种反应并不奇怪。再想想一排灯，就像霓虹灯上的灯泡，要么只有一个灯泡亮着但位置变化，要么只有一个灯泡不亮，同样位置有系统地变化。或者想象一个时钟表盘，有一个灯泡坏了，在圆圈周围移动。我们的经验内容是一个持久的单一事物，不同的时间有不同的位置。这就是 phi 现象。加快速度（有时被称为_magni-phi_），它不再看起来是离散的，而是呈现为一个连续移动的事物，这增强了效果。
 
 想象一个黑点在我们的视野中移动的例子。回想一下本节开头关于变化的一般原则，我们可以肯定前三个前提是关于我们经验内容的陈述：(i) a 在 t1 时在 x1 处，(ii) b 在 t2 时在 x2 处，(iii) 如果任何东西在 t1 时在 x1 处，那么它在 t2 时不在 x2 处。现在加入 phi 体验的内容：(iv) a=b，我们推断出 a 在 t1 时也不在 x1 处。
 
@@ -172,54 +172,54 @@ Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论�
 
 ## Bibliography
 
-* Cohen, S. Marc, 2001, “Aristotle’s Metaphysics,” *Stanford Encyclopedia of Philosophy* (Winter 2001 Edition), Edward N. Zalta (ed.), URL = <[Aristotle&#146;s Metaphysics (Stanford Encyclopedia of Philosophy/Winter 2001 Edition)](https://plato.stanford.edu/archives/win2001/entries/aristotle-metaphysics/)>.
-* Dainton, Barry, 2001, *Time and Space*, Chesham: Acumen.
-* Davidson, Donald, 1967, “The Logical Form of Action Sentences,” in N. Rescher (ed.), *The Logic of Decision and Action*, Pittsburgh: University of Pittsburgh Press.
-* Dharmakirti, 1930, “A System of Logic” (with Commentary by Dharmottara), in F. Th. Scherbatsky, *Buddhist Logic*, New York: Dover, 1962.
-* Geach, Peter, 1969, *God and the Soul*, London: Routledge and Kegan Paul.
-* Gruber, Ronald P., Michael Bach, and Richard A. Block, 2015, “Perceiving Two Levels of the Flow of Time,” *Journal of Consciousness Studies*, 22(5–6): 7–22.
-* Haslanger, Sally, 1989, “Endurance and Temporary Intrinsics,” *Analysis*, 49: 119–125.
-* Herakleitos, *Fragments*, T.H. Robinson (trans.), Toronto: University of Toronto Press, 1987.
-* Hamblin, Charles, 1969, “Starting and Stopping,” *The Monist*, 53: 410–425.
-* Hegel, Georg W.F., 1812, *Wissenschaft der Logik*, see A. Miller (trans.), *Hegel’s Science of Logic*, London: Allen and Unwin, 1969.
-* Johnston, Mark, 1987, “Is There a Problem About Persistence?, ” *Proceedings of the Aristotelian Society* (Supplement), 61: 107–35.
-* Kant, Immanuel, 1781, *Critique of Pure Reason*, N. Kemp Smith (trans.), London: McMillan, 1933. (See The Transcendental Aesthetic, Section 5.)
-* Lewis, David, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
-* –––, 1988, “Rearrangement of Particles: Reply to Lowe,” *Analysis*, 48: 65–72.
-* Lowe, E.J., 1987, “Lewis on Perdurance versus Endurance,” *Analysis*, 47: 152–154.
-* –––, 1988, “The Problems of Intrinsic Change: Rejoinder to Lewis,” *Analysis*, 48: 72–77.
-* McTaggart, J.E., 1908, “The Unreality of Time,” *Mind*, 17: 457–74.
-* Medlin, Brian, 1963, “The Origin of Motion,” *Mind*, 72: 155–175.
-* Mellor, Hugh, 1981, *Real Time*, Cambridge: Cambridge University Press.
-* Mortensen, Chris, 1985, “The Limits of Change,” *Australasian Journal of Philosophy*, 63: 1–10.
-* –––, 1997, “The Leibniz Continuity Condition, Inconsistency and Quantum Dynamics,” *The Journal of Philosophical Logic*, 26: 377–389.
-* –––, 2013, “Motion Perception as Inconsistent,” *Philosophical Psychology*, 26(5): 913–924.
-* Nerlich, Graham, 1976, *The Shape of Space*, Cambridge: Cambridge University Press.
-* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: The Clarendon Press.
-* Palmer, Stephen, 1999, *Vision Science: Photons to Phenomenology*, Cambridge, MA: MIT Press.
-* Price, Huw, 1996, *Time’s Arrow and Archimedes’ Point*, Oxford: Oxford University Press.
-* Priest, Graham, 1987, *In Contradiction*, Dordrecht: Nijhoff; second edition, Oxford: Oxford University Press, 2006.
-* Priest, G., R. Routley and J. Norman (eds.), 1989, *Paraconsistent Logic*, Munich: Philosophia Verlag.
-* Savitt, Steven, 2006, “Being and Becoming in Modern Physics,” *Stanford Encyclopedia of Philosophy* (Fall 2006 Edition), Edward N. Zalta (ed.), URL = <[Being and Becoming in Modern Physics (Stanford Encyclopedia of Philosophy/Fall2006 Edition)](https://plato.stanford.edu/archives/fall2006/entries/spacetime-bebecome/)>.
-* von Wright, Georg H., 1968, *Time, Change and Contradiction*, Cambridge: Cambridge University Press.
-* Weatherson, Brian, 2002, “Intrinsic vs. Extrinsic Properties”, *Stanford Encyclopedia of Philosophy* (Spring 2002 Edition), Edward N. Zalta (ed.), URL = <[Intrinsic vs. Extrinsic Properties (Stanford Encyclopedia of Philosophy/Spring 2002 Edition)](https://plato.stanford.edu/archives/spr2002/entries/intrinsic-extrinsic/)>.
-* Weyl, H., 1960, *Das Kontinuum und Andere Monographien*, New York: Chelsea.
+* Cohen, S. Marc, 2001, “Aristotle’s Metaphysics,” _Stanford Encyclopedia of Philosophy_ (Winter 2001 Edition), Edward N. Zalta (ed.), URL = <[Aristotle�s Metaphysics (Stanford Encyclopedia of Philosophy/Winter 2001 Edition)](https://plato.stanford.edu/archives/win2001/entries/aristotle-metaphysics/)>.
+* Dainton, Barry, 2001, _Time and Space_, Chesham: Acumen.
+* Davidson, Donald, 1967, “The Logical Form of Action Sentences,” in N. Rescher (ed.), _The Logic of Decision and Action_, Pittsburgh: University of Pittsburgh Press.
+* Dharmakirti, 1930, “A System of Logic” (with Commentary by Dharmottara), in F. Th. Scherbatsky, _Buddhist Logic_, New York: Dover, 1962.
+* Geach, Peter, 1969, _God and the Soul_, London: Routledge and Kegan Paul.
+* Gruber, Ronald P., Michael Bach, and Richard A. Block, 2015, “Perceiving Two Levels of the Flow of Time,” _Journal of Consciousness Studies_, 22(5–6): 7–22.
+* Haslanger, Sally, 1989, “Endurance and Temporary Intrinsics,” _Analysis_, 49: 119–125.
+* Herakleitos, _Fragments_, T.H. Robinson (trans.), Toronto: University of Toronto Press, 1987.
+* Hamblin, Charles, 1969, “Starting and Stopping,” _The Monist_, 53: 410–425.
+* Hegel, Georg W.F., 1812, _Wissenschaft der Logik_, see A. Miller (trans.), _Hegel’s Science of Logic_, London: Allen and Unwin, 1969.
+* Johnston, Mark, 1987, “Is There a Problem About Persistence?, ” _Proceedings of the Aristotelian Society_ (Supplement), 61: 107–35.
+* Kant, Immanuel, 1781, _Critique of Pure Reason_, N. Kemp Smith (trans.), London: McMillan, 1933. (See The Transcendental Aesthetic, Section 5.)
+* Lewis, David, 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
+* –––, 1988, “Rearrangement of Particles: Reply to Lowe,” _Analysis_, 48: 65–72.
+* Lowe, E.J., 1987, “Lewis on Perdurance versus Endurance,” _Analysis_, 47: 152–154.
+* –––, 1988, “The Problems of Intrinsic Change: Rejoinder to Lewis,” _Analysis_, 48: 72–77.
+* McTaggart, J.E., 1908, “The Unreality of Time,” _Mind_, 17: 457–74.
+* Medlin, Brian, 1963, “The Origin of Motion,” _Mind_, 72: 155–175.
+* Mellor, Hugh, 1981, _Real Time_, Cambridge: Cambridge University Press.
+* Mortensen, Chris, 1985, “The Limits of Change,” _Australasian Journal of Philosophy_, 63: 1–10.
+* –––, 1997, “The Leibniz Continuity Condition, Inconsistency and Quantum Dynamics,” _The Journal of Philosophical Logic_, 26: 377–389.
+* –––, 2013, “Motion Perception as Inconsistent,” _Philosophical Psychology_, 26(5): 913–924.
+* Nerlich, Graham, 1976, _The Shape of Space_, Cambridge: Cambridge University Press.
+* Parfit, Derek, 1984, _Reasons and Persons_, Oxford: The Clarendon Press.
+* Palmer, Stephen, 1999, _Vision Science: Photons to Phenomenology_, Cambridge, MA: MIT Press.
+* Price, Huw, 1996, _Time’s Arrow and Archimedes’ Point_, Oxford: Oxford University Press.
+* Priest, Graham, 1987, _In Contradiction_, Dordrecht: Nijhoff; second edition, Oxford: Oxford University Press, 2006.
+* Priest, G., R. Routley and J. Norman (eds.), 1989, _Paraconsistent Logic_, Munich: Philosophia Verlag.
+* Savitt, Steven, 2006, “Being and Becoming in Modern Physics,” _Stanford Encyclopedia of Philosophy_ (Fall 2006 Edition), Edward N. Zalta (ed.), URL = <[Being and Becoming in Modern Physics (Stanford Encyclopedia of Philosophy/Fall2006 Edition)](https://plato.stanford.edu/archives/fall2006/entries/spacetime-bebecome/)>.
+* von Wright, Georg H., 1968, _Time, Change and Contradiction_, Cambridge: Cambridge University Press.
+* Weatherson, Brian, 2002, “Intrinsic vs. Extrinsic Properties”, _Stanford Encyclopedia of Philosophy_ (Spring 2002 Edition), Edward N. Zalta (ed.), URL = <[Intrinsic vs. Extrinsic Properties (Stanford Encyclopedia of Philosophy/Spring 2002 Edition)](https://plato.stanford.edu/archives/spr2002/entries/intrinsic-extrinsic/)>.
+* Weyl, H., 1960, _Das Kontinuum und Andere Monographien_, New York: Chelsea.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=change). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/change/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=change&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/change/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=change).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/change/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=change\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/change/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Heraclitus](https://plato.stanford.edu/entries/heraclitus/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/) | [logic: paraconsistent](https://plato.stanford.edu/entries/logic-paraconsistent/) | [Mach, Ernst](https://plato.stanford.edu/entries/ernst-mach/) | [mathematics: inconsistent](https://plato.stanford.edu/entries/mathematics-inconsistent/) | [McTaggart, John M. E.](https://plato.stanford.edu/entries/mctaggart/) | [Newton, Isaac: philosophy](https://plato.stanford.edu/entries/newton-philosophy/) | [Newton, Isaac: views on space, time, and motion](https://plato.stanford.edu/entries/newton-stm/) | [Parmenides](https://plato.stanford.edu/entries/parmenides/) | [space and time: being and becoming in modern physics](https://plato.stanford.edu/entries/spacetime-bebecome/) | [time](https://plato.stanford.edu/entries/time/) | [Zeno of Elea: Zeno’s paradoxes](https://plato.stanford.edu/entries/paradox-zeno/)
+[Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Heraclitus](https://plato.stanford.edu/entries/heraclitus/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/) | [logic: paraconsistent](https://plato.stanford.edu/entries/logic-paraconsistent/) | [Mach, Ernst](https://plato.stanford.edu/entries/ernst-mach/) | [mathematics: inconsistent](https://plato.stanford.edu/entries/mathematics-inconsistent/) | [McTaggart, John M. E.](https://plato.stanford.edu/entries/mctaggart/) | [Newton, Isaac: philosophy](https://plato.stanford.edu/entries/newton-philosophy/) | [Newton, Isaac: views on space, time, and motion](https://plato.stanford.edu/entries/newton-stm/) | [Parmenides](https://plato.stanford.edu/entries/parmenides/) | [space and time: being and becoming in modern physics](https://plato.stanford.edu/entries/spacetime-bebecome/) | [time](https://plato.stanford.edu/entries/time/) | [Zeno of Elea: Zeno’s paradoxes](https://plato.stanford.edu/entries/paradox-zeno/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[*Chris.Mortensen@adelaide.edu.au*](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[_Chris.Mortensen@adelaide.edu.au_](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>

@@ -1,6 +1,6 @@
 # 道德品质 character, moral (Marcia Homiak)
 
-*首次发表于 2003 年 1 月 15 日星期三；实质性修订于 2019 年 4 月 15 日星期一*
+_首次发表于 2003 年 1 月 15 日星期三；实质性修订于 2019 年 4 月 15 日星期一_
 
 关于道德品质的问题最近在哲学讨论中占据了中心位置。这一发展的部分解释可以追溯到 1958 年 G.E.M.安斯康姆（G. E. M. Anscombe）发表的开创性文章《现代道德哲学》。在那篇论文中，安斯康姆认为，康德主义和功利主义，作为西方道德哲学的两大传统，错误地将道德基础放在了像义务和责任这样的法律主义概念上。安斯康姆认为，要正确地进行伦理学，就必须从人类如何茁壮成长或过上美好生活开始。这意味着回到一些对古希腊道德家非常重要的问题上。这些问题集中在“美德”的本质（或者我们可能认为是令人钦佩的道德品质），一个人如何变得有美德（是通过教导吗？是自然而然产生的吗？我们对其发展负有责任吗？），以及为了使变得有美德成为可能，可能需要哪些关系和制度。对这些古老问题的回答如今在哲学的各个领域中出现，包括伦理学（尤其是美德伦理学）、女性主义伦理学、政治哲学、教育哲学和文学哲学。对美德和品质的兴趣也间接地是政治哲学转向更实践的结果，受到了 1971 年约翰·罗尔斯（John Rawls）的《正义论》的启发。特别是在《正义论》的第三部分中，罗尔斯提供了一个关于如何在一个公正的国家中培养个体以发展良好公民所期望的美德的图景。尽管他的兴趣不在于道德教育本身，但他对个体如何获得正义感以及如何培养他所称的自尊的讨论激发了其他哲学家探索美德的心理基础以及友谊、家庭、社区和有意义的工作对良好道德品质的贡献。
 
@@ -16,15 +16,10 @@
 * [3. 古希腊后的美德和品格](https://plato.stanford.edu/entries/moral-character/#VirMorChaAftGre)
 * [3.1 早期自然法理论家](https://plato.stanford.edu/entries/moral-character/#EarNatLawThe)
 * [3.2 康德](https://plato.stanford.edu/entries/moral-character/#Kan)
-
 * [3.3 Hume](https://plato.stanford.edu/entries/moral-character/#Hum)
-
 * [3.4 马克思和密尔](https://plato.stanford.edu/entries/moral-character/#MarMil)
-
 * [3.5 T. H. Green](https://plato.stanford.edu/entries/moral-character/#THGreen)
-
 * [3.6 Rawls](https://plato.stanford.edu/entries/moral-character/#Raw)
-
 * [4. 当代关于性格的问题](https://plato.stanford.edu/entries/moral-character/#ConQueAboCha)
 * [5. 道德性格与实证研究](https://plato.stanford.edu/entries/moral-character/#MorChaEmp)
 * [5.1 情境主义提出的挑战](https://plato.stanford.edu/entries/moral-character/#ChaPosSit)
@@ -37,13 +32,13 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/moral-character/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/moral-character/#Rel)
 
----
+***
 
 ## 1. 术语
 
-英文单词“character”源自希腊语*charaktêr*，最初用于指硬币上的印记。后来，“character”更普遍地指代一个独特标记，用以区别一物与他物，然后主要指区分个体的品质集合。在现代用法中，这种对独特性或个性的强调往往使“character”与“personality”融为一体。例如，当我们想到一个人独特的习惯、社交姿态或着装习惯时，我们可能会说“他有个性”或“他是个很有个性的人”。
+英文单词“character”源自希腊语_charaktêr_，最初用于指硬币上的印记。后来，“character”更普遍地指代一个独特标记，用以区别一物与他物，然后主要指区分个体的品质集合。在现代用法中，这种对独特性或个性的强调往往使“character”与“personality”融为一体。例如，当我们想到一个人独特的习惯、社交姿态或着装习惯时，我们可能会说“他有个性”或“他是个很有个性的人”。
 
-然而，正如上文所暗示的，哲学上对“character”一词的使用有着不同的语言历史。在《*Nicomachean Ethics*》第二卷开头，亚里士多德告诉我们，人类的优点有两种不同类型，一种是思想上的优点，另一种是品德上的优点。他用于品德优点的短语——*êthikai aretai*，我们通常翻译为“道德美德”或“道德优点”。希腊语*êthikos*（伦理的）是与*êthos*（品德）同源的形容词。当我们谈论道德美德或品德优点时，重点不在于单纯的独特性或个性，而在于那些使个体成为道德上令人钦佩的人的品质组合。
+然而，正如上文所暗示的，哲学上对“character”一词的使用有着不同的语言历史。在《_Nicomachean Ethics_》第二卷开头，亚里士多德告诉我们，人类的优点有两种不同类型，一种是思想上的优点，另一种是品德上的优点。他用于品德优点的短语——_êthikai aretai_，我们通常翻译为“道德美德”或“道德优点”。希腊语_êthikos_（伦理的）是与_êthos_（品德）同源的形容词。当我们谈论道德美德或品德优点时，重点不在于单纯的独特性或个性，而在于那些使个体成为道德上令人钦佩的人的品质组合。
 
 这篇文章将讨论希腊人对于具有或缺乏道德美德的“道德品格”的理解。如果某人缺乏美德，她可能具有几种道德恶习之一，或者她可能被描述为处于美德和恶习之间的某种状态，比如节制或无节制。
 
@@ -59,7 +54,7 @@
 
 ### 2.2 美德与幸福
 
-大多数希腊道德家认为，如果我们是理性的，我们的目标是过上美好的生活（*eu zên*）或幸福（*eudaimonia*）。过上美好的生活或幸福是我们的最终目标，因为幸福的概念有助于组织我们各种次要目标，指示我们各个目标的相对重要性，并指示它们如何结合成一些理性的整体方案。因此，斯多嘉派将幸福与“一致生活”（*homologoumenôs zên*）等同起来，亚里士多德说幸福是“完美”或“完整”（*teleios*），并且具有明显的人性特征。当我们过得好时，我们的生活值得模仿和赞扬。因为根据希腊道德家的观点，我们幸福这件事反映了我们以及我们所取得的成就，而不仅仅是关于我们所处幸运环境的情况。因此，他们认为幸福不能简单地包括“外部物质”或“幸运之物”，因为这些物质是外在于我们自己的选择和决定之外的。无论幸福是什么，它必须考虑到幸福生活是由行动的理性主体所过的生活，而不仅仅是他们所处环境的受害者。
+大多数希腊道德家认为，如果我们是理性的，我们的目标是过上美好的生活（_eu zên_）或幸福（_eudaimonia_）。过上美好的生活或幸福是我们的最终目标，因为幸福的概念有助于组织我们各种次要目标，指示我们各个目标的相对重要性，并指示它们如何结合成一些理性的整体方案。因此，斯多嘉派将幸福与“一致生活”（_homologoumenôs zên_）等同起来，亚里士多德说幸福是“完美”或“完整”（_teleios_），并且具有明显的人性特征。当我们过得好时，我们的生活值得模仿和赞扬。因为根据希腊道德家的观点，我们幸福这件事反映了我们以及我们所取得的成就，而不仅仅是关于我们所处幸运环境的情况。因此，他们认为幸福不能简单地包括“外部物质”或“幸运之物”，因为这些物质是外在于我们自己的选择和决定之外的。无论幸福是什么，它必须考虑到幸福生活是由行动的理性主体所过的生活，而不仅仅是他们所处环境的受害者。
 
 希腊道德家得出结论，幸福的生活必须突出德行的实践，因为品德稳定持久，不是幸运的产物，而是学习或培养的结果。此外，品德优点是人类的卓越之处，因为它们是理性的最佳实践，而理性是人类的特征活动。希腊哲学家声称，德行的实践完成或完善了人类的生活。
 
@@ -81,13 +76,13 @@
 
 #### 亚里士多德对良好道德品质的定义
 
-亚里士多德在《*尼各马可伦理学*》II.6 中定义了善良的品格：
+亚里士多德在《_尼各马可伦理学_》II.6 中定义了善良的品格：
 
-> 因此，卓越[的品格]是一种与选择有关的状态，位于相对于我们的中庸之处，这由理性决定，并且是以实践智慧者(*phronimos*)的方式来确定的。现在，它是两种恶习之间的中庸，一种是依赖于过度的，另一种是依赖于缺陷的。(1106b36–1107a3)
+> 因此，卓越\[的品格]是一种与选择有关的状态，位于相对于我们的中庸之处，这由理性决定，并且是以实践智慧者(_phronimos_)的方式来确定的。现在，它是两种恶习之间的中庸，一种是依赖于过度的，另一种是依赖于缺陷的。(1106b36–1107a3)
 
 通过将品德卓越称为一种状态，亚里士多德的意思是它既不是一种感觉，也不是一种能力，更不是一种仅仅倾向于以特定方式行为的倾向。相反，当我们在感觉和行为方面处于良好状态时，我们就处于一种稳定状态。当我们在感觉和行为方面处于适中状态时，我们就处于良好状态。另一方面，如果我们有邪恶的品格，我们在感觉和行为方面就处于不良状态，并且我们未能达到适中状态。
 
-因此，要达到适中状态并不容易。“任何人都可以生气 - 那很容易 - 或者给钱或花钱；但要对正确的人，以正确的程度，在正确的时间，以正确的目的，以正确的方式做到这一点，这并不是每个人都能做到的，也并不容易。”这就是为什么善良是值得赞扬的（*epaineton*）和美好的（*kalon*）（*Nicomachean Ethics* 1109a26–30）。
+因此，要达到适中状态并不容易。“任何人都可以生气 - 那很容易 - 或者给钱或花钱；但要对正确的人，以正确的程度，在正确的时间，以正确的目的，以正确的方式做到这一点，这并不是每个人都能做到的，也并不容易。”这就是为什么善良是值得赞扬的（_epaineton_）和美好的（_kalon_）（_Nicomachean Ethics_ 1109a26–30）。
 
 #### 德行作为一种中庸状态
 
@@ -95,31 +90,31 @@
 
 #### 品德人的心理统一和非品德条件的不一致
 
-善良人的情感反应与情况相符表明她的情感反应与她正确推理的行为一致。亚里士多德说，品德人灵魂的非理性部分“以相同的声音说话”（*homophônei*，*Nicomachean Ethics* 1102b28），与理性部分相同。品德人的灵魂是统一的，没有冲突，这使得品德状态与节制（*enkrateia*）、无节制（*akrasia*）和一般恶习（*kakia*）等各种非品德条件有所区别。
+善良人的情感反应与情况相符表明她的情感反应与她正确推理的行为一致。亚里士多德说，品德人灵魂的非理性部分“以相同的声音说话”（_homophônei_，_Nicomachean Ethics_ 1102b28），与理性部分相同。品德人的灵魂是统一的，没有冲突，这使得品德状态与节制（_enkrateia_）、无节制（_akrasia_）和一般恶习（_kakia_）等各种非品德条件有所区别。
 
-亚里士多德似乎认为，从根本上说，任何不道德的人都受到内心的怀疑或冲突困扰，即使在表面上她看起来像道德人一样心理统一。虽然一个邪恶的人可能表现出对正义的蔑视和对物质财富和权力的追求方面一心一意，但她必须寻求他人的陪伴来忘记或忽视自己的行为。亚里士多德似乎在谈到邪恶的人时考虑到了这一点，在《*混沌*》IX.4 中说，他们与自己对立，不爱自己。另一方面，道德善良的人喜欢自己，乐于行善。
+亚里士多德似乎认为，从根本上说，任何不道德的人都受到内心的怀疑或冲突困扰，即使在表面上她看起来像道德人一样心理统一。虽然一个邪恶的人可能表现出对正义的蔑视和对物质财富和权力的追求方面一心一意，但她必须寻求他人的陪伴来忘记或忽视自己的行为。亚里士多德似乎在谈到邪恶的人时考虑到了这一点，在《_混沌_》IX.4 中说，他们与自己对立，不爱自己。另一方面，道德善良的人喜欢自己，乐于行善。
 
 像道德上邪恶的人一样，有节制和无节制的人内心矛盾，但他们比道德上邪恶的人更意识到自己内心的动荡。有节制本质上是一种自我控制：有节制的人认识到自己应该做什么并去做，但为此她必须与顽固的情感斗争。无节制的人也在某种程度上知道自己应该做什么，但由于顽固的情感而未能做到。
 
-亚里士多德对无节制的看法似乎融合了苏格拉底和柏拉图的元素。回想一下，苏格拉底解释表面上无节制的行为是由于对导致善的原因的无知。他认为，每个人都渴望善，并在行动中以之为目标，因此没有人会故意选择一条被认为会产生较少整体善的行动路线。另一方面，柏拉图认为，无节制可能发生在一个人的非理性欲望驱使他以不被他的理性对更大善的渴望所认可的方式行动时。亚里士多德似乎同意苏格拉底的观点，即无节制者的认知状态在无节制行为发生时是有缺陷的，但他也同意柏拉图的观点，即一个人的非理性欲望导致了无节制的行为。这可能是亚里士多德在写下“苏格拉底试图建立的立场似乎实际上是正确的；因为克制不是克服被认为是适当知识的激情...而是感性知识”（*Nicomachean Ethics*，1147b14-17）时的意思。
+亚里士多德对无节制的看法似乎融合了苏格拉底和柏拉图的元素。回想一下，苏格拉底解释表面上无节制的行为是由于对导致善的原因的无知。他认为，每个人都渴望善，并在行动中以之为目标，因此没有人会故意选择一条被认为会产生较少整体善的行动路线。另一方面，柏拉图认为，无节制可能发生在一个人的非理性欲望驱使他以不被他的理性对更大善的渴望所认可的方式行动时。亚里士多德似乎同意苏格拉底的观点，即无节制者的认知状态在无节制行为发生时是有缺陷的，但他也同意柏拉图的观点，即一个人的非理性欲望导致了无节制的行为。这可能是亚里士多德在写下“苏格拉底试图建立的立场似乎实际上是正确的；因为克制不是克服被认为是适当知识的激情...而是感性知识”（_Nicomachean Ethics_，1147b14-17）时的意思。
 
 #### 道德教育与人类功能
 
 因为亚里士多德认为美德是一种统一的、没有冲突的状态，情感反应和理性评估发出相同的声音，他像柏拉图一样认为，培养我们的情感反应对于培养品德至关重要。如果我们的情感反应得到正确的教育，我们将学会在正确的事物上感到快乐或痛苦。与柏拉图一样，亚里士多德认为，我们可以从一个人的快乐和痛苦中看出他的品格状态。
 
-为了解释一个有德行的人的快乐是什么样的，亚里士多德回到了美德是人的优秀状态的观念。美德是使人变得善良并使他表现出色的状态（*Nicomachean Ethics* 1106a15–24）。他的功能（他的*ergon*或特征活动）是理性活动，所以当我们充分发挥我们的理性力量时，当我们意识到自己作为理性生物的本质时，我们就是善良（有美德的）的人，过得好（我们是幸福的）（*Nicomachean Ethics*，I.7）。
+为了解释一个有德行的人的快乐是什么样的，亚里士多德回到了美德是人的优秀状态的观念。美德是使人变得善良并使他表现出色的状态（_Nicomachean Ethics_ 1106a15–24）。他的功能（他的_ergon_或特征活动）是理性活动，所以当我们充分发挥我们的理性力量时，当我们意识到自己作为理性生物的本质时，我们就是善良（有美德的）的人，过得好（我们是幸福的）（_Nicomachean Ethics_，I.7）。
 
-根据亚里士多德的观点，人类能够进行非人类动物无法进行的推理。他们可以思考该做什么，过什么样的生活，成为什么样的人。他们可以寻找行动或生活某种方式而不是另一种方式的理由。换句话说，他们可以进行实践推理。他们还可以思考世界的本质以及为什么世界似乎表现出某种行为。他们可以考虑有关宇宙的科学和形而上学真理。这就是进行理论推理（“沉思”或*theôria*）。学者们对于这些类型的推理是否以及如何可以区分意见不一。（有关亚里士多德的理论和实践理性的讨论，请参阅相关条目[Aristotle’s ethics](https://plato.stanford.edu/entries/aristotle-ethics/)。）但正如我们在讨论亚里士多德的*Politics*时将看到的那样，至少可以假定在本讨论中，理论和实践的理性活动是相关的理性活动类型，因为每种类型都涉及运用自己的思维和认知能力，并考虑自己已经找出的真理。
+根据亚里士多德的观点，人类能够进行非人类动物无法进行的推理。他们可以思考该做什么，过什么样的生活，成为什么样的人。他们可以寻找行动或生活某种方式而不是另一种方式的理由。换句话说，他们可以进行实践推理。他们还可以思考世界的本质以及为什么世界似乎表现出某种行为。他们可以考虑有关宇宙的科学和形而上学真理。这就是进行理论推理（“沉思”或_theôria_）。学者们对于这些类型的推理是否以及如何可以区分意见不一。（有关亚里士多德的理论和实践理性的讨论，请参阅相关条目[Aristotle’s ethics](https://plato.stanford.edu/entries/aristotle-ethics/)。）但正如我们在讨论亚里士多德的_Politics_时将看到的那样，至少可以假定在本讨论中，理论和实践的理性活动是相关的理性活动类型，因为每种类型都涉及运用自己的思维和认知能力，并考虑自己已经找出的真理。
 
-如何才能充分实现这些能力？不是通过精通每一种需要根据理性进行思考和判断的活动。否则，一个人将不得不掌握各种文化、科学和哲学活动。相反，亚里士多德的观点是，一个人发展这些能力的程度取决于他是否喜欢并重视在各种不同甚至看似毫不相关的活动中运用他实现的理性能力。当这种情况发生时，他运用这些能力将成为持续的自尊和乐趣之源。他开始喜欢自己的生活和自己，现在是一个真正的自我爱者（*Nicomachean Ethics* 1168b28–1169a3)。
+如何才能充分实现这些能力？不是通过精通每一种需要根据理性进行思考和判断的活动。否则，一个人将不得不掌握各种文化、科学和哲学活动。相反，亚里士多德的观点是，一个人发展这些能力的程度取决于他是否喜欢并重视在各种不同甚至看似毫不相关的活动中运用他实现的理性能力。当这种情况发生时，他运用这些能力将成为持续的自尊和乐趣之源。他开始喜欢自己的生活和自己，现在是一个真正的自我爱者（_Nicomachean Ethics_ 1168b28–1169a3)。
 
-在《尼各马可伦理学》IX.8 中，亚里士多德通过对比真正的自爱与应受指责的缺陷类型，阐明了有品德的人的动机和推理。具有应受指责自爱的人最想要的是拥有最大份额的金钱、荣誉和肉体快乐（参见 I.5）。因为一个人不能在不剥夺他人这些好处的情况下拥有很大份额，所以这些是争夺和争斗的物品。对这些外部物品的竞争性方法导致了各种道德恶劣行为，例如过度欲望（*pleonexia*）、侵略、奢侈浪费、放纵、自夸和虚荣。与应受指责的自爱者相比，真正的自爱者将从正确的事物中获得乐趣（他们将享受他们的思考和决策能力的运用，而不是财富或权力的积累）。因此，他们将避免许多行为，并且对许多普通恶习的快乐不感兴趣。由于他们对外部物品有正确的态度，如果通过这样做可以实现美好的事物，他们将准备牺牲这些物品。他们意识到，当每个人都专注于做正确的事情时，他们的行动促进了共同利益（1169a6）。有品德的人的推理反映了他正确的生活观念（他具有*phronêsis*或实践智慧）和对美好的关注：他看到他自己的利益包含在社区的利益中（1169a3–6）。
+在《尼各马可伦理学》IX.8 中，亚里士多德通过对比真正的自爱与应受指责的缺陷类型，阐明了有品德的人的动机和推理。具有应受指责自爱的人最想要的是拥有最大份额的金钱、荣誉和肉体快乐（参见 I.5）。因为一个人不能在不剥夺他人这些好处的情况下拥有很大份额，所以这些是争夺和争斗的物品。对这些外部物品的竞争性方法导致了各种道德恶劣行为，例如过度欲望（_pleonexia_）、侵略、奢侈浪费、放纵、自夸和虚荣。与应受指责的自爱者相比，真正的自爱者将从正确的事物中获得乐趣（他们将享受他们的思考和决策能力的运用，而不是财富或权力的积累）。因此，他们将避免许多行为，并且对许多普通恶习的快乐不感兴趣。由于他们对外部物品有正确的态度，如果通过这样做可以实现美好的事物，他们将准备牺牲这些物品。他们意识到，当每个人都专注于做正确的事情时，他们的行动促进了共同利益（1169a6）。有品德的人的推理反映了他正确的生活观念（他具有_phronêsis_或实践智慧）和对美好的关注：他看到他自己的利益包含在社区的利益中（1169a3–6）。
 
 #### 关系和社区的需求
 
-因为个人的利益包含在社区的利益中，个人理性力量的充分实现不是他可以独自实现或维持的。亚里士多德在《*混沌*》IX.9 中说，一个孤独的人要保持持续活跃是困难的，但与他人一起则更容易。为了充分发挥我们的力量，我们至少需要一群分享我们兴趣并与我们合作实现我们共同认可目标的伙伴。在这种合作活动中，我们是更大企业的一部分，所以当他人行动时，就好像我们也在行动一样。通过这种方式，这些活动扩展了我们对“我们”是谁的概念，并使我们的力量使用更连续、更稳定。亚里士多德列举的例子包括船上的水手、远征军中的士兵、家庭成员、商业关系、宗教团体、政治社区的公民以及从事沉思活动的同事。正如亚里士多德在《修辞学》II.4 中解释的那样，如果我们和合作伙伴都尽责，每个人都会对其他参与者产生友谊之情。通过这种方式，成功的合作活动改变了人们的欲望和动机。尽管我们可能出于自私原因发起活动，但心理结果是我们开始喜欢我们的合作伙伴，并出于他们自身的利益而关心他们。亚里士多德指出，这种变化是由我们引起的。它不是选择的。一旦形成友谊的纽带，我们展现亚里士多德在《*混沌*》IV.6–8 中描述的社会美德，包括慷慨、友好和温和的性情。
+因为个人的利益包含在社区的利益中，个人理性力量的充分实现不是他可以独自实现或维持的。亚里士多德在《_混沌_》IX.9 中说，一个孤独的人要保持持续活跃是困难的，但与他人一起则更容易。为了充分发挥我们的力量，我们至少需要一群分享我们兴趣并与我们合作实现我们共同认可目标的伙伴。在这种合作活动中，我们是更大企业的一部分，所以当他人行动时，就好像我们也在行动一样。通过这种方式，这些活动扩展了我们对“我们”是谁的概念，并使我们的力量使用更连续、更稳定。亚里士多德列举的例子包括船上的水手、远征军中的士兵、家庭成员、商业关系、宗教团体、政治社区的公民以及从事沉思活动的同事。正如亚里士多德在《修辞学》II.4 中解释的那样，如果我们和合作伙伴都尽责，每个人都会对其他参与者产生友谊之情。通过这种方式，成功的合作活动改变了人们的欲望和动机。尽管我们可能出于自私原因发起活动，但心理结果是我们开始喜欢我们的合作伙伴，并出于他们自身的利益而关心他们。亚里士多德指出，这种变化是由我们引起的。它不是选择的。一旦形成友谊的纽带，我们展现亚里士多德在《_混沌_》IV.6–8 中描述的社会美德，包括慷慨、友好和温和的性情。
 
-亚里士多德认为，除了友谊外，更广泛的社会关系也是我们理性力量充分发展所需的。他在《*混沌*》I.7 中说，我们天生是政治性的存在，我们的能力在特定类型的政治社区（*polis*或城邦）中得到充分实现。亚里士多德理想的政治社区由认识到过着充实活跃生活的价值并旨在为其同胞创造最美好生活的公民领导。因此促进共同利益（*政治学*1278b19–26，参见 1280b8–12）。当公民就社区的教育、担任职务和经济政策进行研讨和立法时，他们的目标是确定和促进公民可以充分发展其审议和决策能力的条件（*政治学*1332b12–41）。
+亚里士多德认为，除了友谊外，更广泛的社会关系也是我们理性力量充分发展所需的。他在《_混沌_》I.7 中说，我们天生是政治性的存在，我们的能力在特定类型的政治社区（_polis_或城邦）中得到充分实现。亚里士多德理想的政治社区由认识到过着充实活跃生活的价值并旨在为其同胞创造最美好生活的公民领导。因此促进共同利益（_政治学_1278b19–26，参见 1280b8–12）。当公民就社区的教育、担任职务和经济政策进行研讨和立法时，他们的目标是确定和促进公民可以充分发展其审议和决策能力的条件（_政治学_1332b12–41）。
 
 因此，亚里士多德在《政治学》第七至第八卷中建议城市为所有公民提供公共教育体系，这一建议在他那个时代是激进的。他设想年轻人不仅要学会阅读和写作，还要欣赏周围世界的美丽，并对宇宙如何运作有一些了解。如果教育成功，年轻人将希望运用他们的能力来决策、判断和区分。然后，他们将能够在市民大会和司法系统中担任决策者的角色，并且由于抽签和轮换制度，最终成为公职的持有者。城市的经济政策支持政治和教育机构的目标。因为亚里士多德认为，如果公民要充分参与公共生活，他们需要物质资源，他建议国家向所有人分配土地。然而，在他看来，没有必要建立经济平等，只要现有的不平等不足以促进精英集团的形成或引发正当的愤怒或嫉妒。这些各种政策 - 教育、政治、经济 - 使正义意识能够弥漫整个城市，因为它们证实所有公民都被视为平等的实际协商者和政策制定者。
 
@@ -137,11 +132,11 @@
 
 斯多葛学派的哲学存在了大约五个世纪，从公元前 300 年左右的建立到公元二世纪。像苏格拉底、柏拉图和亚里士多德一样，斯多葛哲学家在一些关于美德的问题上存在分歧，但他们似乎也分享了一些共同的核心观点。本节关于性格的条目将简要讨论他们的共同观点。
 
-斯多嘉哲学家对人格的看法与苏格拉底的观点接近，但他们通过与亚里士多德的一致达到这一观点。斯多嘉哲学家认为，人类的美好生活是与自然和谐相处的生活。他们同意亚里士多德的观点，即人的本质是与理性和谐相处的生活。因此，为了找到与自然和谐的事物，他们寻求人类理性力量的发展。他们认为，当一个人开始运用理性来满足和组织自己的欲望和需求时，他开始珍视理性的运用本身。他意识到，展现出理性秩序的行为远比他个人行为追求的任何自然优势（如健康、友谊或社区）更有价值。毕竟，正如亚里士多德所说，人类的善应该是稳定的，受我们控制的，并且难以被剥夺。斯多嘉哲学家得出结论，人类的善在于优秀的理性活动，因为一个人可以通过理性选择来引导自己的行为，无论他可能遇到什么不幸。贤德之人成为具有并根据善知识行事的智者（*sophos*）。他的行为受他对完善自己的理性并与自然的理性秩序一致行动的洞察的影响。与苏格拉底一样，斯多嘉哲学家对美德的看法侧重于贤德之人的认知状态：正是他对宇宙理性秩序的认识以及他希望与该理性秩序一致的愿望导致他采取行动。
+斯多嘉哲学家对人格的看法与苏格拉底的观点接近，但他们通过与亚里士多德的一致达到这一观点。斯多嘉哲学家认为，人类的美好生活是与自然和谐相处的生活。他们同意亚里士多德的观点，即人的本质是与理性和谐相处的生活。因此，为了找到与自然和谐的事物，他们寻求人类理性力量的发展。他们认为，当一个人开始运用理性来满足和组织自己的欲望和需求时，他开始珍视理性的运用本身。他意识到，展现出理性秩序的行为远比他个人行为追求的任何自然优势（如健康、友谊或社区）更有价值。毕竟，正如亚里士多德所说，人类的善应该是稳定的，受我们控制的，并且难以被剥夺。斯多嘉哲学家得出结论，人类的善在于优秀的理性活动，因为一个人可以通过理性选择来引导自己的行为，无论他可能遇到什么不幸。贤德之人成为具有并根据善知识行事的智者（_sophos_）。他的行为受他对完善自己的理性并与自然的理性秩序一致行动的洞察的影响。与苏格拉底一样，斯多嘉哲学家对美德的看法侧重于贤德之人的认知状态：正是他对宇宙理性秩序的认识以及他希望与该理性秩序一致的愿望导致他采取行动。
 
-要成为贤德之人，除了认知能力之外，无需发展任何其他能力，因为斯多嘉哲学家反对柏拉图和亚里士多德的观点，即灵魂中实际上没有非理性部分。尽管斯多嘉哲学家承认存在愤怒、恐惧等激情，但他们将其视为对善恶的错误判断。由于智者或贤德之人是明智的，对善恶没有错误判断，他们没有激情。因此，如果智者在不幸中失去任何自然优势，他对此没有情感。相反，他将其视为“中性”（*adiaphora*）。因此，人们可能会想，智者如何真正被称为贤德之人。因为如果他将自己和他人的健康和福祉视为中性，为什么他会采取行动来确保或保护他自己和他人的福祉，正如一个贤德之人应该做的？斯多嘉哲学家回答说，自然优势仍然被追求，但只是为了与自然和谐，并充分实现自己的理性力量。它们是“优先中性”。
+要成为贤德之人，除了认知能力之外，无需发展任何其他能力，因为斯多嘉哲学家反对柏拉图和亚里士多德的观点，即灵魂中实际上没有非理性部分。尽管斯多嘉哲学家承认存在愤怒、恐惧等激情，但他们将其视为对善恶的错误判断。由于智者或贤德之人是明智的，对善恶没有错误判断，他们没有激情。因此，如果智者在不幸中失去任何自然优势，他对此没有情感。相反，他将其视为“中性”（_adiaphora_）。因此，人们可能会想，智者如何真正被称为贤德之人。因为如果他将自己和他人的健康和福祉视为中性，为什么他会采取行动来确保或保护他自己和他人的福祉，正如一个贤德之人应该做的？斯多嘉哲学家回答说，自然优势仍然被追求，但只是为了与自然和谐，并充分实现自己的理性力量。它们是“优先中性”。
 
-与柏拉图和亚里士多德不同，斯多葛派认为美德不是由任何特定类型的社区发展和维持的。诚然，社会关系和社区是受欢迎的中性因素之一，因为它们应该优先于敌意、战争和敌意的相反条件。但它们对任何人的幸福并非必需。如果我们失去它们，这并不是真正的损失。因此，斯多葛派的厄比克泰德（约公元 55 年至公元 135 年），一位获得自由的奴隶，认为家人的死亡并非真正的损失，也不比打破杯子更糟。对斯多葛派重要的社区是宇宙。当人们达到完美的理性时，他们符合由神圣理性统治的宇宙的理性秩序。这表明我们所有人，无论是否有美德，都受一条法律的统治，因此属于一个普遍的社区。作为理性生物，我们承认这一点，因为我们意识到我们与其他人类分享理性。斯多葛派的马库斯·奥勒留（121 年至 180 年），一位罗马皇帝，以这种方式建立联系：“如果是这样【即，理性是共享的】，那么规定应该做什么或不做什么的理性也是共同的。如果是这样，法律也是共同的；如果是这样，我们是公民；如果是这样，我们是一个宪法的参与者；如果是这样，宇宙是一种共和国”（马库斯·奥勒留，《沉思录*The Meditations*，iv.4）。斯多葛派得出结论，作为理性生物，我们没有理由不将关心扩展到我们的家人、朋友和直接社区以外，延伸到我们世界社区的同胞公民。
+与柏拉图和亚里士多德不同，斯多葛派认为美德不是由任何特定类型的社区发展和维持的。诚然，社会关系和社区是受欢迎的中性因素之一，因为它们应该优先于敌意、战争和敌意的相反条件。但它们对任何人的幸福并非必需。如果我们失去它们，这并不是真正的损失。因此，斯多葛派的厄比克泰德（约公元 55 年至公元 135 年），一位获得自由的奴隶，认为家人的死亡并非真正的损失，也不比打破杯子更糟。对斯多葛派重要的社区是宇宙。当人们达到完美的理性时，他们符合由神圣理性统治的宇宙的理性秩序。这表明我们所有人，无论是否有美德，都受一条法律的统治，因此属于一个普遍的社区。作为理性生物，我们承认这一点，因为我们意识到我们与其他人类分享理性。斯多葛派的马库斯·奥勒留（121 年至 180 年），一位罗马皇帝，以这种方式建立联系：“如果是这样【即，理性是共享的】，那么规定应该做什么或不做什么的理性也是共同的。如果是这样，法律也是共同的；如果是这样，我们是公民；如果是这样，我们是一个宪法的参与者；如果是这样，宇宙是一种共和国”（马库斯·奥勒留，《沉思录_The Meditations_，iv.4）。斯多葛派得出结论，作为理性生物，我们没有理由不将关心扩展到我们的家人、朋友和直接社区以外，延伸到我们世界社区的同胞公民。
 
 斯多葛派代表了一种生活方式，根据这种方式，一个人可能为他人的幸福而努力，无论是朋友还是陌生人，而不关心物质回报或世俗成功。由于他们对美德的看法独立于任何特定的社会或政治结构，他们的信息对各种人群都具有吸引力，无论是希腊人还是非希腊人，奴隶还是自由人，富人还是穷人。
 
@@ -177,7 +172,7 @@
 
 ### 3.3 休谟
 
-大卫·休谟（1711–1776）明确表示偏爱古代伦理学（Hume，*Enquiries*，318），声称道德是古人并未被现代人超越的一门科学（Hume，*Enquiries*，330）。像一些希腊道德家一样，休谟认为道德必须植根于我们的激情本性。对于休谟来说，道德推动我们行动，而单靠理性是不行的。他对古代伦理学的偏爱最明显地体现在他对美德的本质的关注以及他努力解释美德如何从我们的感情和欲望中产生。
+大卫·休谟（1711–1776）明确表示偏爱古代伦理学（Hume，_Enquiries_，318），声称道德是古人并未被现代人超越的一门科学（Hume，_Enquiries_，330）。像一些希腊道德家一样，休谟认为道德必须植根于我们的激情本性。对于休谟来说，道德推动我们行动，而单靠理性是不行的。他对古代伦理学的偏爱最明显地体现在他对美德的本质的关注以及他努力解释美德如何从我们的感情和欲望中产生。
 
 休谟将美德分为两种类型：人为和自然。人为美德包括正义、信守承诺和效忠合法政府。自然美德包括勇气、宽宏大量、雄心壮志、友谊、慷慨、忠诚和感恩等许多其他美德。尽管每种自然美德的实践通常会产生良好的结果，但人为美德的好处是间接的，因为这些美德的实践被接受实践时才会产生好的结果。
 
@@ -211,7 +206,7 @@ Hume 认为我们从做好的事情中培养自尊，如果我们做得好的事
 
 要进一步讨论密尔对幸福观的看法，请参阅 Brink（1992）。
 
-密尔认为，严重不平等的社会通过阻止个体发展其审慎能力，以不健康的方式塑造个体的性格，并妨碍他们过上有德行的生活。例如，密尔认为，与他那个时代的观点存在深刻分歧，系统地使妇女屈居下风的社会伤害了男性和女性，几乎不可能让男性和女性建立真正亲密和理解的关系。在《妇女的受制》，密尔写道，家庭在他那个时代的构成是一个“专制的学校”，教导那些从中受益的人自私、放纵和不公正的恶习。在工人阶级男性中，妻子过分依赖丈夫的事实激发了卑鄙和野蛮。在《妇女的受制》的第四章中，密尔甚至声称“[人类中存在的所有自私倾向、自我崇拜、不公正的自我优先，都源自并主要得到现行男女关系构成的关系的滋养”（密尔 1988，86 页）。被法律和社会屈从于男性的女性变得温顺、顺从、牺牲自我的和操纵性。简言之，男性表现出奴隶主的恶习，而女性表现出奴隶的恶习。为了可能实现道德生活和心理健康的关系，密尔呼吁改变婚姻安排，通过法律的变革来促进妇女和男性审慎能力的发展和行使。只有在这种条件下，妇女和男性才能获得真正的自尊感，而不是虚假的自卑感和优越感。
+密尔认为，严重不平等的社会通过阻止个体发展其审慎能力，以不健康的方式塑造个体的性格，并妨碍他们过上有德行的生活。例如，密尔认为，与他那个时代的观点存在深刻分歧，系统地使妇女屈居下风的社会伤害了男性和女性，几乎不可能让男性和女性建立真正亲密和理解的关系。在《妇女的受制》，密尔写道，家庭在他那个时代的构成是一个“专制的学校”，教导那些从中受益的人自私、放纵和不公正的恶习。在工人阶级男性中，妻子过分依赖丈夫的事实激发了卑鄙和野蛮。在《妇女的受制》的第四章中，密尔甚至声称“\[人类中存在的所有自私倾向、自我崇拜、不公正的自我优先，都源自并主要得到现行男女关系构成的关系的滋养”（密尔 1988，86 页）。被法律和社会屈从于男性的女性变得温顺、顺从、牺牲自我的和操纵性。简言之，男性表现出奴隶主的恶习，而女性表现出奴隶的恶习。为了可能实现道德生活和心理健康的关系，密尔呼吁改变婚姻安排，通过法律的变革来促进妇女和男性审慎能力的发展和行使。只有在这种条件下，妇女和男性才能获得真正的自尊感，而不是虚假的自卑感和优越感。
 
 像亚里士多德一样，密尔认识到政治制度的力量，可以转变个人的欲望和目标，并在道德上加以改善。在《代议政府考虑》第三章中，密尔赞赏古代雅典的民主制度。他认为，通过参与这些制度，雅典人被要求超越个人的偏见，考虑整体利益。他写道，通过与他人合作管理他们的社区，每个公民“被视为公众之一，他们的任何利益都是他的利益”（密尔 1991 年，79 页）。
 
@@ -221,9 +216,9 @@ Hume 认为我们从做好的事情中培养自尊，如果我们做得好的事
 
 T. H. Green（1836–1882）在转向哲学之前是古典学生和教师。他对柏拉图和亚里士多德的希腊文本很熟悉。在他的《伦理学导论》第三册中发展出对一个人的善的看法时，格林发现自己的观点在柏拉图和亚里士多德以及尤其是亚里士多德对幸福、人类善和特定美德的处理中得到了预见。格林的目标是要表明一个人的善在于他的“自我满足”或“自我实现”。要实现自我需要完全发展自己作为一个理性行动者的能力。而这需要以他人的利益为自己的目标。格林认为亚里士多德对于善良人的动机的本质是正确的。在《伦理学导论》263 页中，他指出亚里士多德认为善良的人行事是为了美好的缘故，他认识到以这种方式行事要求代理人关心社区的利益。因此，代理人的善与他人的善是相连的。
 
-为了阐明他对亚里士多德的阅读，格林讨论了亚里士多德的两种美德：勇气和节制。他指出，这两种美德似乎比常识所暗示的范围更为有限。在讨论勇气时，亚里士多德将勇气限定为面对死亡的恐惧，以保卫自己的城市（*Nicomachean Ethics* 1115a25–29）。一个面对溺水或疾病死亡的人并不勇敢。勇气被限定为在战斗中面对死亡，因为这样的行动旨在追求共同利益，是最高形式的死亡。格林利用亚里士多德讨论中的这些观点来展示亚里士多德的观点建立在一个可以扩大勇气情境的一般原则上，而这一点格林是接受的。在格林看来，勇气是面对死亡危险的问题，“为了代理人所能构想的最高公共事业而服务”（1969 年，260）。
+为了阐明他对亚里士多德的阅读，格林讨论了亚里士多德的两种美德：勇气和节制。他指出，这两种美德似乎比常识所暗示的范围更为有限。在讨论勇气时，亚里士多德将勇气限定为面对死亡的恐惧，以保卫自己的城市（_Nicomachean Ethics_ 1115a25–29）。一个面对溺水或疾病死亡的人并不勇敢。勇气被限定为在战斗中面对死亡，因为这样的行动旨在追求共同利益，是最高形式的死亡。格林利用亚里士多德讨论中的这些观点来展示亚里士多德的观点建立在一个可以扩大勇气情境的一般原则上，而这一点格林是接受的。在格林看来，勇气是面对死亡危险的问题，“为了代理人所能构想的最高公共事业而服务”（1969 年，260）。
 
-格林以类似的方式解释了亚里士多德对节制的限制。并非所有形式的克制都被亚里士多德视为节制。它仅限于对食物、饮料和性欲望的快乐的克制，这些快乐是我们与非人类动物分享的。放纵的人就像祈祷自己的喉咙能比鹤的更长的美食家：他只对感官刺激感兴趣，而不重视运用理性能力。格林认识到，亚里士多德需要控制这些欲望，因为放纵对共同利益构成危险。他写道：“应该对肉体的欲望进行一种约束，以防止它们演变成希腊人所知的*hubris* - 一种自我主张和侵犯他人权利的行为...这被视为公民精神的对立面”（1969 年，263）。
+格林以类似的方式解释了亚里士多德对节制的限制。并非所有形式的克制都被亚里士多德视为节制。它仅限于对食物、饮料和性欲望的快乐的克制，这些快乐是我们与非人类动物分享的。放纵的人就像祈祷自己的喉咙能比鹤的更长的美食家：他只对感官刺激感兴趣，而不重视运用理性能力。格林认识到，亚里士多德需要控制这些欲望，因为放纵对共同利益构成危险。他写道：“应该对肉体的欲望进行一种约束，以防止它们演变成希腊人所知的_hubris_ - 一种自我主张和侵犯他人权利的行为...这被视为公民精神的对立面”（1969 年，263）。
 
 绿先生发现他的观点在希腊人中得到了预见是正确的。他像亚里士多德一样看到，生活得好需要发挥自己发展起来的理性力量，并且那些已经实现自己力量并形成美德品质的人们致力于共同利益，这是他们自身利益的一部分。像亚里士多德一样，格林认为这样的发展需要一个参与特殊政治共同体的人——一个“在那里，相互尊重的公民自由结合”制定平等法律和共同利益的地方（1969 年，263 页）。
 
@@ -243,7 +238,7 @@ T. H. Green（1836–1882）在转向哲学之前是古典学生和教师。他�
 
 在道德发展的第一阶段，假设家庭制度是公正的，孩子们会因为父母清楚地表明他们喜欢和珍视自己的孩子而来爱他们的父母。在第二阶段，假设合作协会是公平安排的并且被认为是如此，合作协会的成员（Rawls 的“社会联盟”）会喜欢和珍视他们的合作伙伴。当成员们负责地完成自己的任务，每个人为一个被相互认可的目标做出贡献，并且所有参与者展现出适当的能力时，这种情况就会发生。在这些条件下，参与者开始享受他们自己的参与，享受他人的技能和能力展示，并与他们的合作伙伴建立友谊和信任的纽带。由于活动是互补的，个体可以在他人的行为中看到自己。通过这种方式，个体对自己正在做的事情的感知变得有价值。他们的自我爱，用亚里士多德的语言来说，成为了一个群体的成就。
 
-最后，在第三阶段，当个体意识到受到正义原则调节的制度如何促进他们自身和其他公民的利益时，他们会对这些原则产生依恋，并发展出一种渴望应用并按照这些原则行事的愿望。像亚里士多德理想的*城邦*的主要制度一样，受 Rawls 的两个正义原则调节的制度旨在通过提供个人自我价值的社会基础（Rawls 的“自尊”的主要利益）来促进公民的利益。根据正义的第一原则提供平等自由的机会使公民能够形成协会，以追求他们的共同目标和理想。正如我们所见，这些协会对于产生和维持自尊是必要的。根据 Rawls 的第二个正义原则，政治自由的公平价值的保证，以及教育机会的公平平等，防止财产和财富的过度积累，并为所有人提供相似动机和能力的人具有大致相等的文化和成就前景（1999a，63）。这两个原则的结合确保个人有合理的希望实现他们的目标。最后，差别原则旨在确保每个人都有体面的生活水准，无论个体公民的社会地位、天赋或运气如何。Rawls 写道，差别原则对应于“不希望拥有更大的优势，除非这对于那些处境较差的人有利”（1999a，90）。通过这些各种方式，这两个原则的结合构成了公开承认每个公民具有平等价值的认可。
+最后，在第三阶段，当个体意识到受到正义原则调节的制度如何促进他们自身和其他公民的利益时，他们会对这些原则产生依恋，并发展出一种渴望应用并按照这些原则行事的愿望。像亚里士多德理想的_城邦_的主要制度一样，受 Rawls 的两个正义原则调节的制度旨在通过提供个人自我价值的社会基础（Rawls 的“自尊”的主要利益）来促进公民的利益。根据正义的第一原则提供平等自由的机会使公民能够形成协会，以追求他们的共同目标和理想。正如我们所见，这些协会对于产生和维持自尊是必要的。根据 Rawls 的第二个正义原则，政治自由的公平价值的保证，以及教育机会的公平平等，防止财产和财富的过度积累，并为所有人提供相似动机和能力的人具有大致相等的文化和成就前景（1999a，63）。这两个原则的结合确保个人有合理的希望实现他们的目标。最后，差别原则旨在确保每个人都有体面的生活水准，无论个体公民的社会地位、天赋或运气如何。Rawls 写道，差别原则对应于“不希望拥有更大的优势，除非这对于那些处境较差的人有利”（1999a，90）。通过这些各种方式，这两个原则的结合构成了公开承认每个公民具有平等价值的认可。
 
 一旦建立了这些公正的制度，罗尔斯认为社会分工的最糟糕方面就可以被克服。他写道，“没有人需要完全依赖他人，并被迫在令人思维和感性枯竭的单调和例行职业之间做出选择”（1999a，464）。在这里，罗尔斯指出了许多类型有薪劳动与亚里士多德感到不安的相同问题。有薪劳动经常限制工人行使决策权的能力，并要求她们顺从他人的指导。当然，罗尔斯并不像亚里士多德那样建议解决这些问题。但他认为这些问题需要解决，一个公正的社会可以解决这些问题，也许可以通过采纳密尔的提议（见上文 3.4 节）来重组工作场所成为工人管理的合作社（2001，178）。
 
@@ -273,7 +268,7 @@ T. H. Green（1836–1882）在转向哲学之前是古典学生和教师。他�
 
 ### 5.1 情境主义带来的挑战
 
-这一部分将从对依赖实验社会心理学结果的一些最近哲学作品对品格进行简要讨论开始。这些哲学作品质疑了特别是古希腊道德家和从古代观点出发的当代哲学家所关注的品格和美德的概念。受实验社会心理学这一传统影响的哲学家们，通常被标记为“情境主义”，否认了品格特质是古代或当代哲学家所建议的稳定、一致或评价整合的概念。古代道德家假定美德是“*稳健*特质：如果一个人具有稳健特质，可以有信心地期望他们在各种相关情境下展现出与特质相关的行为，即使其中一些或全部情境并不是最有利于这种行为的”（2002 年，18）。多里斯和其他人认为，特质在这个意义上并不稳健。它们不稳定或一致，并且被错误地用来解释人们为何表现出某种行为。这些哲学家认为，正如实验传统所指出的，人类行为的很大部分可以归因于人们所处情境的看似微不足道的特征。因此，对于持有这些观点的哲学家来说，“情境主义”这个标签是恰当的。有关这一观点的变体，请参见哈曼（1999 年，2000 年），多里斯（2002 年）和弗拉纳斯（2005 年）。
+这一部分将从对依赖实验社会心理学结果的一些最近哲学作品对品格进行简要讨论开始。这些哲学作品质疑了特别是古希腊道德家和从古代观点出发的当代哲学家所关注的品格和美德的概念。受实验社会心理学这一传统影响的哲学家们，通常被标记为“情境主义”，否认了品格特质是古代或当代哲学家所建议的稳定、一致或评价整合的概念。古代道德家假定美德是“_稳健_特质：如果一个人具有稳健特质，可以有信心地期望他们在各种相关情境下展现出与特质相关的行为，即使其中一些或全部情境并不是最有利于这种行为的”（2002 年，18）。多里斯和其他人认为，特质在这个意义上并不稳健。它们不稳定或一致，并且被错误地用来解释人们为何表现出某种行为。这些哲学家认为，正如实验传统所指出的，人类行为的很大部分可以归因于人们所处情境的看似微不足道的特征。因此，对于持有这些观点的哲学家来说，“情境主义”这个标签是恰当的。有关这一观点的变体，请参见哈曼（1999 年，2000 年），多里斯（2002 年）和弗拉纳斯（2005 年）。
 
 这篇文章的范围超出了讨论此工作的详细内容。然而，有必要进行一些总结性的评论。（有关详细讨论，请参阅[道德品格的经验方法](https://plato.stanford.edu/entries/moral-character-empirical/)条目，第 1 节，以及[道德心理学：经验方法](https://plato.stanford.edu/entries/moral-psych-emp/)条目，第 4 节。）
 
@@ -317,89 +312,89 @@ T. H. Green（1836–1882）在转向哲学之前是古典学生和教师。他�
 
 ### Primary Literature
 
-* Aristotle, *Nicomachean Ethics*, and *Politics*, in *The Complete Works of Aristotle*, J. Barnes (ed.), 2 vols, Princeton, NJ: Princeton University Press, 1984.
-* Aurelius, M., *The Meditations of the Emperor Marcus Antoninus*, A. Farquharson (tr.), Oxford: Clarendon Press, 1944.
-* Green, T. H., *Prolegomena to Ethics*, A. C. Bradley, (ed.), New York: Thomas Y. Crowell Company, 1969.
-* Grotius, H., *On the Law of War and Peace*, F. Kelsey (tr.), Oxford: Clarendon Press, 1925.
-* Hume, D., *Enquiries Concerning Human Understanding and Concerning the Principles of Morals*, L. A. Selby-Bigge (ed.), Oxford: Clarendon Press, 1902.
-* –––, *A Treatise of Human Nature*, L. A. Selby-Bigge (ed.), rev. P. H. Nidditch, Oxford: Clarendon Press, 1978.
-* Kant, I., *The Metaphysics of Morals*, M. Gregor (tr.), Cambridge: Cambridge University Press, 1991.
-* Long, A. A. and Sedley, D. N., (eds.), 1987, *The Hellenistic Philosophers*, Cambridge: Cambridge University Press.
-* Marx, K., *Economic and Philosophic Manuscripts of 1844*, in *The Marx-Engels Reader*, R. C. Tucker (ed.), New York: W. W. Norton, 1978.
-* Mill, J.S., *Principles of Political Economy*, 2 vols., London: Colonial Press, 1900.
-* –––, *On Liberty*, D. Spitz (ed.), New York: W. W. Norton, 1975.
-* –––, *Utilitarianism*, G. Sher (ed.), Indianapolis: Hackett, 1979.
-* –––, *The Subjection of Women*, S. Okin (ed.), Indianapolis: Hackett, 1988.
-* –––, *Considerations on Representative Government*, Amherst: Prometheus Books, 1991.
-* Plato, *Complete Works*, J. Cooper (ed.), Indianapolis: Hackett, 1999.
-* Rawls, J., 1999a, *A Theory of Justice*, Cambridge, MA: Harvard.
-* –––, 1999b, *The Law of Peoples*, Cambridge, MA: Harvard.
-* –––, 2001, *Justice as Fairness: A Restatement*, Cambridge, MA: Harvard.
+* Aristotle, _Nicomachean Ethics_, and _Politics_, in _The Complete Works of Aristotle_, J. Barnes (ed.), 2 vols, Princeton, NJ: Princeton University Press, 1984.
+* Aurelius, M., _The Meditations of the Emperor Marcus Antoninus_, A. Farquharson (tr.), Oxford: Clarendon Press, 1944.
+* Green, T. H., _Prolegomena to Ethics_, A. C. Bradley, (ed.), New York: Thomas Y. Crowell Company, 1969.
+* Grotius, H., _On the Law of War and Peace_, F. Kelsey (tr.), Oxford: Clarendon Press, 1925.
+* Hume, D., _Enquiries Concerning Human Understanding and Concerning the Principles of Morals_, L. A. Selby-Bigge (ed.), Oxford: Clarendon Press, 1902.
+* –––, _A Treatise of Human Nature_, L. A. Selby-Bigge (ed.), rev. P. H. Nidditch, Oxford: Clarendon Press, 1978.
+* Kant, I., _The Metaphysics of Morals_, M. Gregor (tr.), Cambridge: Cambridge University Press, 1991.
+* Long, A. A. and Sedley, D. N., (eds.), 1987, _The Hellenistic Philosophers_, Cambridge: Cambridge University Press.
+* Marx, K., _Economic and Philosophic Manuscripts of 1844_, in _The Marx-Engels Reader_, R. C. Tucker (ed.), New York: W. W. Norton, 1978.
+* Mill, J.S., _Principles of Political Economy_, 2 vols., London: Colonial Press, 1900.
+* –––, _On Liberty_, D. Spitz (ed.), New York: W. W. Norton, 1975.
+* –––, _Utilitarianism_, G. Sher (ed.), Indianapolis: Hackett, 1979.
+* –––, _The Subjection of Women_, S. Okin (ed.), Indianapolis: Hackett, 1988.
+* –––, _Considerations on Representative Government_, Amherst: Prometheus Books, 1991.
+* Plato, _Complete Works_, J. Cooper (ed.), Indianapolis: Hackett, 1999.
+* Rawls, J., 1999a, _A Theory of Justice_, Cambridge, MA: Harvard.
+* –––, 1999b, _The Law of Peoples_, Cambridge, MA: Harvard.
+* –––, 2001, _Justice as Fairness: A Restatement_, Cambridge, MA: Harvard.
 
 ### Secondary Literature
 
-* Annas, J., 2011, *Intelligent Virtue*, Oxford: Oxford University Press.
-* Anscombe, G., 1958, “Modern Moral Philosophy”, *Philosophy*, 33: 1–19.
-* Baier, A., 1991, *A Progress of Sentiments*, Cambridge: Harvard University Press.
-* Bloomfield, P., 2014, “Some Intellectual Aspects of the Cardinal Virtues”, *Oxford Studies in Normative Ethics*, 3: 287–313.
-* Brink, D., 1992, “Mill’s Deliberative Utilitarianism”, *Philosophy & Public Affairs*, 21: 67–103.
-* Cooper, J., 1980, “Aristotle on Friendship”, in *Essays on Aristotle’s Ethics*, A. Rorty (ed.), Berkeley: University of California Press.
-* DeGolyer, M., 1985, *Science and Society, Justice and Equality: An Historical Approach to Marx*, Ph.D. dissertation, Claremont Graduate School.
-* Dent, N., 1975, *The Moral Psychology of the Virtues*, Cambridge: Cambridge University Press.
-* Doris, J., 2002, *Lack of Character: Personality and Moral Behavior*, Cambridge: Cambridge University Press.
-* Edmundson, W., 2017, *John Rawls: Reticent Socialist*, Cambridge: Cambridge University Press.
-* Elster, Jon, 1993, “Self-Realization in Work and Politics: The Marxist Conception of the Good Life,” in *The Main Debate: Communism vs. Capitalism*, T. Machan (ed.), New York: Random House.
-* Frede, D., 2013, “The Historic Decline of Virtue Ethics” in *The Cambridge Companion to Virtue Ethics*, D. Russell (ed.), Cambridge: Cambridge University Press.
-* Freeman, S., 2007, *Rawls*, London: Routledge.
-* Harman, G., 1999, “Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error”, *Proceedings of the Aristotelian Society*, 99: 315–331.
-* –––, 2000, “The Nonexistence of Character Traits”, *Proceedings of the Aristotelian Society*, 100: 223–226.
-* Homiak, M., 1997, “Aristotle on the Soul’s Conflicts: Toward an Understanding of Virtue Ethics”, in *Reclaiming the History of Ethics: Essays for John Rawls*, A. Reath, B. Herman, and C. Korsgaard (eds.), Cambridge: Cambridge University Press.
-* –––, 2000, “Hume’s Ethics: Ancient or Modern?”, *Pacific Philosophical Quarterly*, 81: 215–236.
-* –––, 2010, “Yes, We Can Live Reasonably Decently and Flourish in an Imperfect World”, in *The Value of Time and Leisure in a World of Work*, M. Haney and A. D. Kline, (eds.), Lanham, MD: Lexington Books/Rowman and Littlefield.
-* Hursthouse, R., 2001, *On Virtue Ethics*, Oxford: Oxford University Press.
-* Irwin, T., 1985, “Aristotle’s Conception of Morality,” *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 1: 115–143.
-* –––, 1989, *Classical Thought*, Oxford: Oxford University Press.
-* –––, 1996, “The Virtues: Theory and Common Sense in Greek Philosophy” in *How Should One Live?*, R. Crisp (ed.), Oxford: Clarendon Press.
-* –––, 2007, *The Development of Ethics* (Volume I), Oxford: Oxford University Press.
-* –––, 2009, *The Development of Ethics* (Volume III), Oxford: Oxford University Press.
-* Kamtekar, R., 2004, “Situationism and Virtue Ethics on the Content of Our Character”, *Ethics*, 114: 458–91.
-* Kraut, R., 2002, *Aristotle*, Oxford: Oxford University Press.
-* Kupperman, J., 2001, “The Indispensability of Character”, *Philosophy*, 76: 239–50.
-* Mason, A., 1996, “MacIntyre on Modernity and How It Has Marginalized the Virtues”, in *How* *Should One Live?*, R. Crisp (ed.), Oxford: Clarendon Press.
-* Miller, C., 2003, “Social Psychology and Virtue Ethics”, *The Journal of Ethics*, 7: 365–92.
-* –––, 2013, *Moral Character: An Empirical Theory*, Oxford: Oxford University Press.
-* –––, 2014, *Character and Moral Psychology*, Oxford: Oxford University Press.
-* Murphy, James Bernard, 1993, *The Moral Economy of Labor: Aristotelian Themes in Economic Theory*, New Haven: Yale University Press.
-* Nussbaum, M., 1990a, *Love’s Knowledge*, New York: Oxford University Press.
-* –––, 1990b, “Aristotelian Social Democracy”, in *Liberalism and the Good*, R. Douglass, G. Mara, and H. Richardson (eds.), New York: Routledge.
-* O’Neill, O., 1996, “Kant’s Virtues”, in *How Should One Live?*, R. Crisp (ed.), Oxford: Clarendon Press.
-* Radcliffe, E., 2007, “Moral Naturalism and the Possibility of Making Ourselves Better”, in *Moral Cultivation*, B. Wilburn (ed.), Lanham, MD: Lexington Books/Rowman and Littlefield.
-* Russell, D., 2009, *Practical Intelligence and the Virtues*, Oxford: Oxford University Press.
-* –––, 2015, “From Personality to Character to Virtue”, in *Current Controversies in Virtue Theory*, M. Alfano (ed.), New York: Routledge, 91–106.
-* Schneewind, J. B., 1990, “The Misfortunes of Virtue”, *Ethics*, 101: 42–63.
-* –––, 1998, *The Invention of Autonomy*, Cambridge: Cambridge University Press.
-* Sabini, J. and Silver, M., 2005, “Lack of Character? Situationism Critiqued,” *Ethics*, 115: 535–562.
-* Schofield, M., 2006, “Aristotle’s Political Ethics”, in *The Blackwell Guide to Aristotle’s Nicomachean Ethics*, R. Kraut (ed.), Oxford: Blackwell Publishing.
-* Sherman, N., 1989, *The Fabric of Character: Aristotle’s Theory of Virtue*, Oxford: Clarendon Press.
-* Snow, N., 2010, *Virtue as Social Intelligence: An Empirically Grounded Theory*, New York: Routledge.
-* Sreenivasan, G., 2013, “The Situationist Critique of Virtue Ethics” in *The Cambridge Companion to Virtue Ethics*, D. Russell (ed.), Cambridge: Cambridge University Press.
-* Stichter, M., 2007, “Ethical Expertise: the Skill Model of Virtue”, *Ethical Theory and Moral Practice*, 10: 183–194.
-* Taylor, G., 1996, “Deadly Vices?”, in *How Should One Live?*, R. Crisp (ed.), Oxford: Clarendon Press.
-* Thomas, L., 1989, *Living Morally: A Psychology of Moral Character*, Philadelphia: Temple University Press.
-* Trianosky, G., 1990, “What is Virtue Ethics All About?”, *American Philosophical Quarterly*, 27: 335–344.
-* von Wright, G., 1963, *The Varieties of Goodness*, London: Routledge & Kegan Paul.
-* Vranas, P., 2005, “The Indeterminacy Paradox: Character Evaluations and Human Psychology”, *Noûs*, 39: 1–42.
-* Watson, G., 1990, “On the Primacy of Character”, in *Identity, Character, and Morality: Essays in Moral Psychology*, O. Flanagan and A. Rorty (eds.), Cambridge, MA: MIT Press.
-* Wolf, S., 1990, *Freedom Within Reason*, Oxford: Oxford University Press.
-* –––, 2007, “Moral Psychology and the Unity of the Virtues”, *Ratio*, 20: 145–67.
+* Annas, J., 2011, _Intelligent Virtue_, Oxford: Oxford University Press.
+* Anscombe, G., 1958, “Modern Moral Philosophy”, _Philosophy_, 33: 1–19.
+* Baier, A., 1991, _A Progress of Sentiments_, Cambridge: Harvard University Press.
+* Bloomfield, P., 2014, “Some Intellectual Aspects of the Cardinal Virtues”, _Oxford Studies in Normative Ethics_, 3: 287–313.
+* Brink, D., 1992, “Mill’s Deliberative Utilitarianism”, _Philosophy & Public Affairs_, 21: 67–103.
+* Cooper, J., 1980, “Aristotle on Friendship”, in _Essays on Aristotle’s Ethics_, A. Rorty (ed.), Berkeley: University of California Press.
+* DeGolyer, M., 1985, _Science and Society, Justice and Equality: An Historical Approach to Marx_, Ph.D. dissertation, Claremont Graduate School.
+* Dent, N., 1975, _The Moral Psychology of the Virtues_, Cambridge: Cambridge University Press.
+* Doris, J., 2002, _Lack of Character: Personality and Moral Behavior_, Cambridge: Cambridge University Press.
+* Edmundson, W., 2017, _John Rawls: Reticent Socialist_, Cambridge: Cambridge University Press.
+* Elster, Jon, 1993, “Self-Realization in Work and Politics: The Marxist Conception of the Good Life,” in _The Main Debate: Communism vs. Capitalism_, T. Machan (ed.), New York: Random House.
+* Frede, D., 2013, “The Historic Decline of Virtue Ethics” in _The Cambridge Companion to Virtue Ethics_, D. Russell (ed.), Cambridge: Cambridge University Press.
+* Freeman, S., 2007, _Rawls_, London: Routledge.
+* Harman, G., 1999, “Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error”, _Proceedings of the Aristotelian Society_, 99: 315–331.
+* –––, 2000, “The Nonexistence of Character Traits”, _Proceedings of the Aristotelian Society_, 100: 223–226.
+* Homiak, M., 1997, “Aristotle on the Soul’s Conflicts: Toward an Understanding of Virtue Ethics”, in _Reclaiming the History of Ethics: Essays for John Rawls_, A. Reath, B. Herman, and C. Korsgaard (eds.), Cambridge: Cambridge University Press.
+* –––, 2000, “Hume’s Ethics: Ancient or Modern?”, _Pacific Philosophical Quarterly_, 81: 215–236.
+* –––, 2010, “Yes, We Can Live Reasonably Decently and Flourish in an Imperfect World”, in _The Value of Time and Leisure in a World of Work_, M. Haney and A. D. Kline, (eds.), Lanham, MD: Lexington Books/Rowman and Littlefield.
+* Hursthouse, R., 2001, _On Virtue Ethics_, Oxford: Oxford University Press.
+* Irwin, T., 1985, “Aristotle’s Conception of Morality,” _Proceedings of the Boston Area Colloquium in Ancient Philosophy_, 1: 115–143.
+* –––, 1989, _Classical Thought_, Oxford: Oxford University Press.
+* –––, 1996, “The Virtues: Theory and Common Sense in Greek Philosophy” in _How Should One Live?_, R. Crisp (ed.), Oxford: Clarendon Press.
+* –––, 2007, _The Development of Ethics_ (Volume I), Oxford: Oxford University Press.
+* –––, 2009, _The Development of Ethics_ (Volume III), Oxford: Oxford University Press.
+* Kamtekar, R., 2004, “Situationism and Virtue Ethics on the Content of Our Character”, _Ethics_, 114: 458–91.
+* Kraut, R., 2002, _Aristotle_, Oxford: Oxford University Press.
+* Kupperman, J., 2001, “The Indispensability of Character”, _Philosophy_, 76: 239–50.
+* Mason, A., 1996, “MacIntyre on Modernity and How It Has Marginalized the Virtues”, in _How_ _Should One Live?_, R. Crisp (ed.), Oxford: Clarendon Press.
+* Miller, C., 2003, “Social Psychology and Virtue Ethics”, _The Journal of Ethics_, 7: 365–92.
+* –––, 2013, _Moral Character: An Empirical Theory_, Oxford: Oxford University Press.
+* –––, 2014, _Character and Moral Psychology_, Oxford: Oxford University Press.
+* Murphy, James Bernard, 1993, _The Moral Economy of Labor: Aristotelian Themes in Economic Theory_, New Haven: Yale University Press.
+* Nussbaum, M., 1990a, _Love’s Knowledge_, New York: Oxford University Press.
+* –––, 1990b, “Aristotelian Social Democracy”, in _Liberalism and the Good_, R. Douglass, G. Mara, and H. Richardson (eds.), New York: Routledge.
+* O’Neill, O., 1996, “Kant’s Virtues”, in _How Should One Live?_, R. Crisp (ed.), Oxford: Clarendon Press.
+* Radcliffe, E., 2007, “Moral Naturalism and the Possibility of Making Ourselves Better”, in _Moral Cultivation_, B. Wilburn (ed.), Lanham, MD: Lexington Books/Rowman and Littlefield.
+* Russell, D., 2009, _Practical Intelligence and the Virtues_, Oxford: Oxford University Press.
+* –––, 2015, “From Personality to Character to Virtue”, in _Current Controversies in Virtue Theory_, M. Alfano (ed.), New York: Routledge, 91–106.
+* Schneewind, J. B., 1990, “The Misfortunes of Virtue”, _Ethics_, 101: 42–63.
+* –––, 1998, _The Invention of Autonomy_, Cambridge: Cambridge University Press.
+* Sabini, J. and Silver, M., 2005, “Lack of Character? Situationism Critiqued,” _Ethics_, 115: 535–562.
+* Schofield, M., 2006, “Aristotle’s Political Ethics”, in _The Blackwell Guide to Aristotle’s Nicomachean Ethics_, R. Kraut (ed.), Oxford: Blackwell Publishing.
+* Sherman, N., 1989, _The Fabric of Character: Aristotle’s Theory of Virtue_, Oxford: Clarendon Press.
+* Snow, N., 2010, _Virtue as Social Intelligence: An Empirically Grounded Theory_, New York: Routledge.
+* Sreenivasan, G., 2013, “The Situationist Critique of Virtue Ethics” in _The Cambridge Companion to Virtue Ethics_, D. Russell (ed.), Cambridge: Cambridge University Press.
+* Stichter, M., 2007, “Ethical Expertise: the Skill Model of Virtue”, _Ethical Theory and Moral Practice_, 10: 183–194.
+* Taylor, G., 1996, “Deadly Vices?”, in _How Should One Live?_, R. Crisp (ed.), Oxford: Clarendon Press.
+* Thomas, L., 1989, _Living Morally: A Psychology of Moral Character_, Philadelphia: Temple University Press.
+* Trianosky, G., 1990, “What is Virtue Ethics All About?”, _American Philosophical Quarterly_, 27: 335–344.
+* von Wright, G., 1963, _The Varieties of Goodness_, London: Routledge & Kegan Paul.
+* Vranas, P., 2005, “The Indeterminacy Paradox: Character Evaluations and Human Psychology”, _Noûs_, 39: 1–42.
+* Watson, G., 1990, “On the Primacy of Character”, in _Identity, Character, and Morality: Essays in Moral Psychology_, O. Flanagan and A. Rorty (eds.), Cambridge, MA: MIT Press.
+* Wolf, S., 1990, _Freedom Within Reason_, Oxford: Oxford University Press.
+* –––, 2007, “Moral Psychology and the Unity of the Virtues”, _Ratio_, 20: 145–67.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-character). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/moral-character/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=moral-character&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/moral-character/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-character).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/moral-character/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=moral-character\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/moral-character/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -407,7 +402,7 @@ T. H. Green（1836–1882）在转向哲学之前是古典学生和教师。他�
 
 ## Related Entries
 
-[Aristotle, General Topics: ethics](https://plato.stanford.edu/entries/aristotle-ethics/) | [character, moral: empirical approaches](https://plato.stanford.edu/entries/moral-character-empirical/) | [ethics: ancient](https://plato.stanford.edu/entries/ethics-ancient/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [Green, Thomas Hill](https://plato.stanford.edu/entries/green/) | [Kant, Immanuel: moral philosophy](https://plato.stanford.edu/entries/kant-moral/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [Mill, John Stuart: moral and political philosophy](https://plato.stanford.edu/entries/mill-moral-political/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [Rawls, John](https://plato.stanford.edu/entries/rawls/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/)
+[Aristotle, General Topics: ethics](https://plato.stanford.edu/entries/aristotle-ethics/) | [character, moral: empirical approaches](https://plato.stanford.edu/entries/moral-character-empirical/) | [ethics: ancient](https://plato.stanford.edu/entries/ethics-ancient/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [Green, Thomas Hill](https://plato.stanford.edu/entries/green/) | [Kant, Immanuel: moral philosophy](https://plato.stanford.edu/entries/kant-moral/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [Mill, John Stuart: moral and political philosophy](https://plato.stanford.edu/entries/mill-moral-political/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [Rawls, John](https://plato.stanford.edu/entries/rawls/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Marcia Homiak](http://www.oxy.edu/faculty/marcia-homiak)

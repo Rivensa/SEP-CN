@@ -1,6 +1,6 @@
 # 智利哲学 philosophy in (Ivan Jaksic)
 
-*首次发表于 2015 年 4 月 2 日星期四；实质性修订于 2020 年 3 月 31 日星期二*
+_首次发表于 2015 年 4 月 2 日星期四；实质性修订于 2020 年 3 月 31 日星期二_
 
 智利的哲学，就像拉丁美洲其他地区一样，自从 16 世纪初西班牙和葡萄牙征服和定居新大陆以来，一直是一项学术追求。在整个殖民时期，很少有哲学家冒险走出学术或宗教机构的围墙（通常是同一所机构），这段时期在大多数西班牙殖民地国家结束（古巴和波多黎各除外）的早 19 世纪。即使在独立之后，哲学仍然是一项基本的学术事业。与该地区其他国家相比，智利表现出了显著的制度连续性，除了 20 世纪最后一个季度的军事统治时期。
 
@@ -21,7 +21,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/philosophy-chile/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/philosophy-chile/#Rel)
 
----
+***
 
 ## 1. 殖民背景
 
@@ -31,7 +31,7 @@
 
 ## 2. 独立与国家主权：形成时期
 
-在独立后的哲学家们，直至 19 世纪 60 年代实证主义的到来，不得不面对教会与国家之间关系的复杂性。智利人民之间的独立斗争是智利人民对抗任意和不稳定的殖民统治，而不是对抗天主教会。相反，教会被视为建立新共和国制度中不可或缺的盟友。因此，19 世纪所有智利宪法文件都宣称天主教是国家的官方宗教。因此，包括教育机构在内的公共机构必须遵守天主教义。由于大多数哲学家是信徒，这种限制并不一定意味着问题。但作为哲学家，他们被迫审查那些世俗的或甚至对天主教教义敌对的学说和学派。在这种情况下，他们讨论了这些学说，但压制了那些可能被视为超出天主教会庇护范围的内容。因此，像大卫·休谟这样的思想家可能会被评论，但最终却因其怀疑论而受到严厉批评。法国的*唯心论*这样的学派可以被讨论，但再次剥夺了其最唯物主义的边缘。哲学作品的出口主要是中学教科书，这些教科书必须经过适当的政府机制批准，这通常意味着应用天主教会的标准来确定哲学上的可容许性和神学上的可接受性。没有明显反天主教的小册子，比如弗朗西斯科·毕尔巴奥的《智利社会性》（1844 年，1866 年汇编），这些小册子最终因亵渎和不道德而被焚烧。
+在独立后的哲学家们，直至 19 世纪 60 年代实证主义的到来，不得不面对教会与国家之间关系的复杂性。智利人民之间的独立斗争是智利人民对抗任意和不稳定的殖民统治，而不是对抗天主教会。相反，教会被视为建立新共和国制度中不可或缺的盟友。因此，19 世纪所有智利宪法文件都宣称天主教是国家的官方宗教。因此，包括教育机构在内的公共机构必须遵守天主教义。由于大多数哲学家是信徒，这种限制并不一定意味着问题。但作为哲学家，他们被迫审查那些世俗的或甚至对天主教教义敌对的学说和学派。在这种情况下，他们讨论了这些学说，但压制了那些可能被视为超出天主教会庇护范围的内容。因此，像大卫·休谟这样的思想家可能会被评论，但最终却因其怀疑论而受到严厉批评。法国的_唯心论_这样的学派可以被讨论，但再次剥夺了其最唯物主义的边缘。哲学作品的出口主要是中学教科书，这些教科书必须经过适当的政府机制批准，这通常意味着应用天主教会的标准来确定哲学上的可容许性和神学上的可接受性。没有明显反天主教的小册子，比如弗朗西斯科·毕尔巴奥的《智利社会性》（1844 年，1866 年汇编），这些小册子最终因亵渎和不道德而被焚烧。
 
 哲学家们仍然找到了忠于他们学科的方法，同时也认识到天主教作为国家官方宗教所施加的限制。也许最好的例子是安德烈斯·贝略（1781–1865）的作品，他探索了广泛的哲学来源，特别是苏格兰启蒙运动的那些。然而，他从未质疑宗教的重要性，尤其是天主教。他的《理解的哲学》于 1881 年在他去世后出版，但这部作品的重要部分在 19 世纪 40 年代就已出现。
 
@@ -45,7 +45,7 @@
 
 与拉丁美洲其他地方一样，实证主义在智利在许多领域产生了重大影响，包括哲学。实证主义的到来与智利自 19 世纪 60 年代至 19 世纪 80 年代兴起的反教权主义潮流相吻合，但其影响并不仅限于针对教会的攻击。事实上，它在教育方面产生了深远影响，促成了中等和高等教育课程的实质性转变。然而，最初，它是针对教会在智利社会中的影响的一种及时武器。
 
-Positivism 的基本吸引力在于其“进步”的概念。基于奥古斯特·孔德（Auguste Comte）的工作，实证主义允许反教权思想家将“神学”阶段视为人类进化中的原始状态，这个阶段必将被“形而上学”和“科学”阶段所取代。这种进化观的政治含义和用途是显而易见的：要达到最高水平，智利人需要摆脱天主教教会的宗教影响。正如实证主义的主要早期倡导者何塞·维克多里诺·拉斯塔里亚（José Victorino Lastarria）所阐述的，他放弃了基于抽象或“形而上学”原则的自由主义承诺，科学能够以最有效的方式解决智利社会的问题。其他人响应了这一号召，并集中精力解决诸如教育等重要优先事项。自由主义历史学家迭戈·巴罗斯·阿拉纳（Diego Barros Arana）在这方面做了很多工作，通过改革智利国立学院的课程，米格尔·路易斯·阿穆纳特吉（Miguel Luis Amunátegui）也是如此，他在担任教育部长时，于 1879 年正式在公立学校引入了科学教育。但最重要的实证主义人物是瓦伦丁·莱特利尔（Valentín Letelier，1852–1919），他的《教育哲学》（*Filosofía de la educación*，1927 [1891]）成为智利哲学研究深刻重新定位的基础。在他看来，自独立以来主导智利教育的神学和形而上学强调对围绕共同信念核心统一国家的作用微乎其微。在他看来，只有科学的确定性才能做到这一点。实现这一更高阶段的工具是逻辑，他成功地在 1893 年的教育计划中引入了逻辑，代价是伦理学和神学。与这种强调一致，胡安·塞拉皮奥·洛伊斯（Juan Serapio Lois，1844–1913）从孔特的角度出版了最完整的逻辑论著，即《实证哲学要素》（*Elementos de filosofía positiva*，1906–1908），将逻辑分析应用于一系列科学的方法论中。
+Positivism 的基本吸引力在于其“进步”的概念。基于奥古斯特·孔德（Auguste Comte）的工作，实证主义允许反教权思想家将“神学”阶段视为人类进化中的原始状态，这个阶段必将被“形而上学”和“科学”阶段所取代。这种进化观的政治含义和用途是显而易见的：要达到最高水平，智利人需要摆脱天主教教会的宗教影响。正如实证主义的主要早期倡导者何塞·维克多里诺·拉斯塔里亚（José Victorino Lastarria）所阐述的，他放弃了基于抽象或“形而上学”原则的自由主义承诺，科学能够以最有效的方式解决智利社会的问题。其他人响应了这一号召，并集中精力解决诸如教育等重要优先事项。自由主义历史学家迭戈·巴罗斯·阿拉纳（Diego Barros Arana）在这方面做了很多工作，通过改革智利国立学院的课程，米格尔·路易斯·阿穆纳特吉（Miguel Luis Amunátegui）也是如此，他在担任教育部长时，于 1879 年正式在公立学校引入了科学教育。但最重要的实证主义人物是瓦伦丁·莱特利尔（Valentín Letelier，1852–1919），他的《教育哲学》（_Filosofía de la educación_，1927 \[1891]）成为智利哲学研究深刻重新定位的基础。在他看来，自独立以来主导智利教育的神学和形而上学强调对围绕共同信念核心统一国家的作用微乎其微。在他看来，只有科学的确定性才能做到这一点。实现这一更高阶段的工具是逻辑，他成功地在 1893 年的教育计划中引入了逻辑，代价是伦理学和神学。与这种强调一致，胡安·塞拉皮奥·洛伊斯（Juan Serapio Lois，1844–1913）从孔特的角度出版了最完整的逻辑论著，即《实证哲学要素》（_Elementos de filosofía positiva_，1906–1908），将逻辑分析应用于一系列科学的方法论中。
 
 在莱特利尔的影响下，哲学获得了科学特性，特别强调实验心理学，最终引发了一场反应，不满于智利对欧洲和美国新思潮的反应迟钝的思想家之间。然而，实证主义有助于巩固哲学的研究，无论是在更高层次（通过智利大学的教育学院）还是在中学，哲学都是必修科目。
 
@@ -53,7 +53,7 @@ Positivism 的基本吸引力在于其“进步”的概念。基于奥古斯特
 
 ## 4. 反对实证主义。
 
-智利对实证主义的反叛由恩里克·莫利纳（1871-1964）领导，他是智利大学实证主义启发的教育学院的毕业生。莫利纳发现哲学研究停滞不前，并认为对科学的强调令人窒息。他最初赞同学校对教授多个学科（包括哲学）采用科学方法的强调。然而，在接触到威廉·詹姆斯和尤其是亨利·博格森的作品后，莫利纳发起了一场哲学运动，将形而上学确立为该学科中最重要的领域。在他看来，实证主义关于“进步”的概念已经变成了物质，特别是技术上的进步。在他最重要的哲学著作《*论人类生活中的精神*》（1937）中，莫利纳认为科学和技术对推动人类幸福做出了很少贡献。因此，对精神生活的强调（虽然不是宗教意义上的）应该成为该学科的中心努力以及对社会的主要贡献。他建立了一个价值观的等级制度，其中精神性质的价值高于庸俗的物质主义关注。
+智利对实证主义的反叛由恩里克·莫利纳（1871-1964）领导，他是智利大学实证主义启发的教育学院的毕业生。莫利纳发现哲学研究停滞不前，并认为对科学的强调令人窒息。他最初赞同学校对教授多个学科（包括哲学）采用科学方法的强调。然而，在接触到威廉·詹姆斯和尤其是亨利·博格森的作品后，莫利纳发起了一场哲学运动，将形而上学确立为该学科中最重要的领域。在他看来，实证主义关于“进步”的概念已经变成了物质，特别是技术上的进步。在他最重要的哲学著作《_论人类生活中的精神_》（1937）中，莫利纳认为科学和技术对推动人类幸福做出了很少贡献。因此，对精神生活的强调（虽然不是宗教意义上的）应该成为该学科的中心努力以及对社会的主要贡献。他建立了一个价值观的等级制度，其中精神性质的价值高于庸俗的物质主义关注。
 
 莫利纳的论点绝非没有政治倾向。他认为，在实证主义之后，马克思主义已成为传播物质主义关注的主要渠道。在 20 世纪中叶的智利，马克思主义确实在该国取得了重大进展，莫利纳是一代哲学家中的一员，他对马克思主义意识形态所代表的威胁感到担忧。他的回应是推进将形而上学置于各学科等级制度之首的哲学观点。然后，他着手通过自己的著作和机构活动（包括他于 1919 年创立的康塞普西翁大学的校长职务）重新调整该国的哲学研究。
 
@@ -95,187 +95,187 @@ Positivism 的基本吸引力在于其“进步”的概念。基于奥古斯特
 
 ### Primary Sources
 
-* Alberdi, Juan Bautista, 1900, “Ideas para presidir la confección del curso de filosofía contemporánea”, in *Escritos póstumos de Juan Bautista Alberdi* (Volume 15), Buenos Aires: Imprenta Juan Bautista Alberdi.
-* Allendes, Marco Antonio, 1980, “La imaginación creadora en la ciencia y el arte”, *Atenea: Revista de Ciencia, Arte y Literatura*, 442: 37–44.
-* –––, 1965, “Relación entre religión y filosofía en el pensamiento hindú”, *Anales de la Universidad de Chile*, 135: 131–152.
-* Bello, Andrés, 1881 [1981], *Filosofía del entendimiento y otros escritos filosóficos*, in, 1981, *Obras completas* (Volume 3), Caracas: Fundación La Casa de Bello.
-* –––, 1984, *Philosophy of the Understanding*, trans. by O. Carlos Stoetzer, Washington, D.C.: General Secretariat, Organization of American States.
-* Bilbao, Francisco, 1866, *Obras completas de Francisco Bilbao*, Manuel Bilbao (ed.), Buenos Aires: Imprenta de Buenos Aires.
-* Briseño, Ramón, 1845–1846, *Curso de filosofía moderna, para el uso de los colegios hispano-americanos, y particularmente para el de los de Chile: extractado de las obras de filosofía que gozan actualmente de celebridad* (Volumes 1–2), Valparaíso: Imprenta del Mercurio.
-* Claro, Andrés, 2012, *Las vasijas quebradas: Cuatro variaciones sobre* “*la tarea del traductor*,” Santiago: Ediciones Universidad Diego Portales.
-* –––, 2018, *Tiempos sin fin*, Santiago: Ediciones Bastante.
-* Cordua, Carla, 2010, *Once ensayos filosóficos*, Santiago: Ediciones Universidad Diego Portales.
-* Cordua, Carla, and Roberto Torretti, 2017, *Perspectivas*, Santiago: Ediciones Universidad Diego Portales.
-* Egaña, Juan, 1827, *Tractatus de re logica, metaphisica, et morali pro filiis et alumnis Instituti nacionalis Jacobo politanae erudiendis J.E.*, Santiago: Raimundo Rengifo.
-* Finlayson, Clarence, 1969*, Antología*, Tomás MacHale (ed.), Santiago: Editorial Andrés Bello.
-* Frei Montalva, Eduardo, 1946, *La política y el espíritu*, Santiago: Editorial del Pacífico, 2nd edition.
-* García de la Huerta, Marcos, 1985, *Crítica de la razón tecnocrática*, Santiago: Editorial Universitaria.
-* Giannini, Humberto, 1965*, Reflexiones acerca de la convivencia humana*, Santiago: Facultad de Filosofía y Educación, Universidad de Chile.
-* –––, 1968, *El mito de la autenticidad*, Santiago: Ediciones de la Universidad de Chile.
-* –––, 1981, *Desde las palabras*, Santiago: Ediciones Nueva Universidad.
-* –––, 1982, *Tiempo y espacio en Aristóteles y Kant*, Santiago: Editorial Andrés Bello.
-* –––, 1987, *La “reflexión” cotidiana: Hacia una arqueología de la experiencia*, Santiago: Editorial Universitaria.
-* –––, 2007, *La metafísica eres tu: Una reflexión ética sobre la intersubjetividad*, Santiago: Catalonia.
-* Gómez Lasa, Gastón, 1978a, *Platón: El periplo dialógico*, Valdivia: Ediciones de la Universidad Austral de Chile.
-* –––, 1978b, *Platón: Aporías dialógicas*, Valdivia: Universidad Austral de Chile.
-* –––, 1979, *Platón: Primera agonía*, Valdivia: Departamento de Extensión Académica, Universidad Austral de Chile.
-* –––, 1980a, *La institución del diálogo filosófico*, Valdivia: Universidad Austral de Chile.
-* –––, 1980b, *El expediente de Sócrates*, Valdivia: Universidad Austral de Chile, 1980.
-* –––, 2011, *El periplo de la metafísica*, Santiago: Ediciones Universidad Diego Portales.
-* Lagarrigue, Jorge, 1875, “La filosofía positiva”, *Revista Chilena*, 2: 632–645.
-* –––, 1879, “Una conversión a la Religión de la Humanidad”, *Revista Chilena*, 14: 228–246.
-* Lagarrigue, Juan Enrique, 1926, *La Religión de la Humanidad*, Santiago: Fundación Juan Enrique Lagarrigue, 5th edition.
-* Lastarria, José Victorino, 1875, *Lecciones de política positiva*, Paris: Librería de A. Bouret e Hijo.
-* –––, 1885, *Recuerdos literarios. Datos de la historia literaria de la América española y del progreso intelectual de Chile*, Santiago: Librería de M. Servat, 2nd edition.
-* –––, 1843–1844, “Investigaciones sobre la influencia social de la conquista i del sistema colonial de los españoles en Chile”, *Anales de la Universidad de Chile*, 1: 199–271.
-* Letelier, Valentín, 1895, *La lucha por la cultura: Miscelánea de artículos políticos y estudios pedagógicos*, Santiago: Imprenta y Encuadernación Barcelona.
-* –––, 1927 [1891], *Filosofía de la educación*, Buenos Aires: Cabaut, 2nd edition.
-* Lois, Juan Serapio, 1906–1908, *Elementos de filosofía positiva*, Copiapó: Imprenta de la Tribuna, 2nd edition.
-* Loyola, Pedro León, 1954, *Una oposición fundamental en el pensamiento moderno: Causalidad y evolución*, Santiago: Editorial Jurídica de Chle.
-* Mann, Wilhelm, 1915, “El espíritu general y los ramos de la enseñanza filosófica en el Liceo”, *Anales de la Universidad de Chile*, 137: 643–707.
-* Marchant, Patricio, 2014, *Escritura y temblor*, Pablo Oyarzún and Willy Thayer (eds.), Santiago: Editorial Cuarto Propio.
-* Marín, Ventura, 1834–1835, *Elementos de la filosofía del espíritu humano escritos por Ventura Marín para el uso de los alumnos del Instituto Nacional de Chile*, Santiago: Imprenta de la Independencia.
-* Martínez Bonati, Félix, 1965, *La situación universitaria*, Santiago: Prensas de la Editorial Universitaria.
-* –––, 1960, “La misión humanística y social de nuestra universidad”, *Anales de la Universidad de Chile*, 119: 114–137.
-* Millas, Jorge, 1943, *Idea de la individualidad*, Santiago: Prensas de la Universidad de Chile.
-* –––, 1960, *Ensayos sobre la historia espiritual de Occidente*, Santiago: Editorial Universitaria.
-* –––, 1962, *El desafio espiritual de la sociedad de masas*, Santiago: Editorial Universitaria.
-* –––, 1963, “Discurso sobre la universidad y su reforma”, *Anales de la Universidad de Chile*, 127: 249–261.
-* –––, 1970, *Idea de la filosofía*, Santiago: Editorial Universitaria.
-* –––, 1981, *Idea y defensa de la universidad*, Santiago: Editorial del Pacífico; Coedición Corporación de Promoción Universitaria.
-* Millas, Jorge, 2010, *Filosofía del derecho*, Juan O. Cofré (ed.), Santiago: Ediciones Universidad Diego Portales.
-* Millas, Jorge and Edison Otero, 1978, *La violencia y sus máscaras*, Santiago: Ediciones Aconcagua.
-* Molina, Enrique, 1914, *Filosofía americana: Ensayos*, Paris: Casa Editorial Garnier Hermanos.
-* –––, 1921, *De California a Harvard: Estudio sobre universidades norteamericanas y algunos problemas nuestros*, Santiago: Sociedad Imprenta y Litografía Universo.
-* –––, 1925, *Dos filósofos contemporáneos: Guyau–Bergson*, Santiago: Editorial Nascimento.
-* –––, 1942, *Confesión filosófica y llamado de superación a la América hispana*, Santiago: Editorial Nascimento.
-* –––, 1945, *Discursos universitarios*, Santiago: Editorial Nascimento.
-* –––, 1947 [1937], *De lo espiritual en la vida humana*, Santiago: Editorial Nascimento, 2nd edition.
-* Montes, Leonidas, 2017, *Adam Smith en contexto: Una revaluación crítica de algunos aspectos centrales de su pensamiento*, Madrid: Tecnos.
-* Mora, José Joaquín de, 1832, *Cursos de lógica y ética según la escuela de Edimburgo*, Lima: Imprenta de José Masías.
-* Otero, Edison, 1979, *Los signos de la violencia*, Santiago: Editorial Aconcagua.
-* –––, 1982, “El pensador en la caverna”, *Estudios Sociales*, 31(1): 79–108.
-* –––, 1985, *Los derechos de la inteligencia*, Santiago: Instituto Chileno de Estudios Humanísticos.
-* –––, 1986, “Reivindicación de la filosofía”, *Estudios Sociales*, 48(2): 195–200.
-* –––, 1986, “Los filósofos y el poder: Un anecdotario”, *Estudios Sociales*, 50(4): 47–56.
-* Otero, Edison and Ricardo López, 1989, *Pedagogía del terror: Un ensayo sobre la tortura*, Santiago: Editorial Atena.
-* Oyarzún, Luis, 1967, *Temas de la cultura chilena*, Santiago: Editorial Universitaria.
-* Oyarzún, Pablo, 1996, *El dedo de Diógenes: La anécdota en filosofía*, Santiago: Editorial Dolmen.
-* –––, 2009, *La letra volada: Ensayos sobre literatura*, Santiago: Ediciones Universidad Diego Portales.
-* Rivano, Juan, 1962, *Entre Hegel y Marx: una meditación ante los nuevos horizontes del humanismo*, Santiago: Comisión Central de Publicaciones de la Universidad de Chile.
-* –––, 1964, *Curso de lógica antigua y moderna*, Santiago: Editorial Universitaria.
-* –––, 1965, *Desde la religión al humanismo*, Santiago: Editorial Universitaria.
-* –––, 1965, *El punto de vista de la miseria*, Santiago: Facultad de Filosofía y Educación, Universidad de Chile.
-* –––, 1966, *Contra sofistas*, Santiago: Encuadernadora Hispano-Suiza.
-* –––, 1969, *Cultura de la servidumbre: Mitología de importación*, Santiago: Editorial Santiago.
-* –––, 1985, *Lógica elemental*, Santiago: Editorial Universitaria, 2nd edition.
-* –––, 1986a, *Perspectivas sobre la metáfora*, Santiago: Editorial Universitaria.
-* –––, 1986b, “Globalización y estrategias lógicas”, *Cuadernos Americanos*, 265(2): 72–85.
-* –––, 1987, *Mitos: Su función social y cultural*, Santiago: Pehuén.
-* –––, 2017, *El Eclesiastés, Diógenes, Montaigne*, Santiago: Ediciones Tácitas.
-* Rivera, Jorge Eduardo, 2016, *De asombros y nostalgias*, Santiago: Ediciones Universidad Católica de Chile.
-* Schwartzmann, Félix, 1950, *El sentimiento de lo humano en América; ensayo de antropología filosófica* (Volume 1), Santiago: Universidad de Chile.
-* –––, 1953, *El sentimiento de lo humano en América; antropología de la convivencia* (Volume 2), Santiago: Universidad de Chile.
-* –––, 1967, *Teoría de la expresión*, Santiago: Ediciones de la Universidad de Chile.
-* Stahl, Gerold, 1964, *Elementos de metalógica y metamatemáticas*, Santiago: Editorial Universitaria.
-* Torretti, Roberto, 1967, *Manuel Kant: Estudio sobre los fundamentos de la filosofía crítica*, Santiago: Ediciones de la Universidad de Chile. 2nd edition, 2005.
-* –––, 2006, *Estudios filosóficos, 1957–1987*, Santiago: Ediciones Universidad Diego Portales.
-* –––, 2007, *Estudios filosóficos, 1986–2006*, Santiago: Ediciones Universidad Diego Portales.
-* Varas, José Miguel, 1828, *Lecciones elementales de moral*, Santiago: Imprenta de la Independencia.
-* Varas, José Miguel and Ventura Marín, 1830, *Elementos de ideología*, Santiago: Imprenta de la Independencia.
-* Vial Larraín, Juan de Dios, 1965, “Idea de la universidad”, in *La universidad en tiempos de cambio*, Santiago: Editorial del Pacífico, pp. 7–12.
-* –––, 1971, *Metafísica cartesiana*, Santiago: Editorial Universitaria.
-* –––, 1979, *Tres ideas de la filosofía y una teoría*, Santiago: Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile.
-* –––, 1980, *La filosofía de Aristóteles como teología del acto*, Santiago: Editorial Universitaria.
-* –––, 1987, *Una ciencia del ser*, Santiago: Ediciones Universidad Católica.
+* Alberdi, Juan Bautista, 1900, “Ideas para presidir la confección del curso de filosofía contemporánea”, in _Escritos póstumos de Juan Bautista Alberdi_ (Volume 15), Buenos Aires: Imprenta Juan Bautista Alberdi.
+* Allendes, Marco Antonio, 1980, “La imaginación creadora en la ciencia y el arte”, _Atenea: Revista de Ciencia, Arte y Literatura_, 442: 37–44.
+* –––, 1965, “Relación entre religión y filosofía en el pensamiento hindú”, _Anales de la Universidad de Chile_, 135: 131–152.
+* Bello, Andrés, 1881 \[1981], _Filosofía del entendimiento y otros escritos filosóficos_, in, 1981, _Obras completas_ (Volume 3), Caracas: Fundación La Casa de Bello.
+* –––, 1984, _Philosophy of the Understanding_, trans. by O. Carlos Stoetzer, Washington, D.C.: General Secretariat, Organization of American States.
+* Bilbao, Francisco, 1866, _Obras completas de Francisco Bilbao_, Manuel Bilbao (ed.), Buenos Aires: Imprenta de Buenos Aires.
+* Briseño, Ramón, 1845–1846, _Curso de filosofía moderna, para el uso de los colegios hispano-americanos, y particularmente para el de los de Chile: extractado de las obras de filosofía que gozan actualmente de celebridad_ (Volumes 1–2), Valparaíso: Imprenta del Mercurio.
+* Claro, Andrés, 2012, _Las vasijas quebradas: Cuatro variaciones sobre_ “_la tarea del traductor_,” Santiago: Ediciones Universidad Diego Portales.
+* –––, 2018, _Tiempos sin fin_, Santiago: Ediciones Bastante.
+* Cordua, Carla, 2010, _Once ensayos filosóficos_, Santiago: Ediciones Universidad Diego Portales.
+* Cordua, Carla, and Roberto Torretti, 2017, _Perspectivas_, Santiago: Ediciones Universidad Diego Portales.
+* Egaña, Juan, 1827, _Tractatus de re logica, metaphisica, et morali pro filiis et alumnis Instituti nacionalis Jacobo politanae erudiendis J.E._, Santiago: Raimundo Rengifo.
+* Finlayson, Clarence, 1969\*, Antología\*, Tomás MacHale (ed.), Santiago: Editorial Andrés Bello.
+* Frei Montalva, Eduardo, 1946, _La política y el espíritu_, Santiago: Editorial del Pacífico, 2nd edition.
+* García de la Huerta, Marcos, 1985, _Crítica de la razón tecnocrática_, Santiago: Editorial Universitaria.
+* Giannini, Humberto, 1965\*, Reflexiones acerca de la convivencia humana\*, Santiago: Facultad de Filosofía y Educación, Universidad de Chile.
+* –––, 1968, _El mito de la autenticidad_, Santiago: Ediciones de la Universidad de Chile.
+* –––, 1981, _Desde las palabras_, Santiago: Ediciones Nueva Universidad.
+* –––, 1982, _Tiempo y espacio en Aristóteles y Kant_, Santiago: Editorial Andrés Bello.
+* –––, 1987, _La “reflexión” cotidiana: Hacia una arqueología de la experiencia_, Santiago: Editorial Universitaria.
+* –––, 2007, _La metafísica eres tu: Una reflexión ética sobre la intersubjetividad_, Santiago: Catalonia.
+* Gómez Lasa, Gastón, 1978a, _Platón: El periplo dialógico_, Valdivia: Ediciones de la Universidad Austral de Chile.
+* –––, 1978b, _Platón: Aporías dialógicas_, Valdivia: Universidad Austral de Chile.
+* –––, 1979, _Platón: Primera agonía_, Valdivia: Departamento de Extensión Académica, Universidad Austral de Chile.
+* –––, 1980a, _La institución del diálogo filosófico_, Valdivia: Universidad Austral de Chile.
+* –––, 1980b, _El expediente de Sócrates_, Valdivia: Universidad Austral de Chile, 1980.
+* –––, 2011, _El periplo de la metafísica_, Santiago: Ediciones Universidad Diego Portales.
+* Lagarrigue, Jorge, 1875, “La filosofía positiva”, _Revista Chilena_, 2: 632–645.
+* –––, 1879, “Una conversión a la Religión de la Humanidad”, _Revista Chilena_, 14: 228–246.
+* Lagarrigue, Juan Enrique, 1926, _La Religión de la Humanidad_, Santiago: Fundación Juan Enrique Lagarrigue, 5th edition.
+* Lastarria, José Victorino, 1875, _Lecciones de política positiva_, Paris: Librería de A. Bouret e Hijo.
+* –––, 1885, _Recuerdos literarios. Datos de la historia literaria de la América española y del progreso intelectual de Chile_, Santiago: Librería de M. Servat, 2nd edition.
+* –––, 1843–1844, “Investigaciones sobre la influencia social de la conquista i del sistema colonial de los españoles en Chile”, _Anales de la Universidad de Chile_, 1: 199–271.
+* Letelier, Valentín, 1895, _La lucha por la cultura: Miscelánea de artículos políticos y estudios pedagógicos_, Santiago: Imprenta y Encuadernación Barcelona.
+* –––, 1927 \[1891], _Filosofía de la educación_, Buenos Aires: Cabaut, 2nd edition.
+* Lois, Juan Serapio, 1906–1908, _Elementos de filosofía positiva_, Copiapó: Imprenta de la Tribuna, 2nd edition.
+* Loyola, Pedro León, 1954, _Una oposición fundamental en el pensamiento moderno: Causalidad y evolución_, Santiago: Editorial Jurídica de Chle.
+* Mann, Wilhelm, 1915, “El espíritu general y los ramos de la enseñanza filosófica en el Liceo”, _Anales de la Universidad de Chile_, 137: 643–707.
+* Marchant, Patricio, 2014, _Escritura y temblor_, Pablo Oyarzún and Willy Thayer (eds.), Santiago: Editorial Cuarto Propio.
+* Marín, Ventura, 1834–1835, _Elementos de la filosofía del espíritu humano escritos por Ventura Marín para el uso de los alumnos del Instituto Nacional de Chile_, Santiago: Imprenta de la Independencia.
+* Martínez Bonati, Félix, 1965, _La situación universitaria_, Santiago: Prensas de la Editorial Universitaria.
+* –––, 1960, “La misión humanística y social de nuestra universidad”, _Anales de la Universidad de Chile_, 119: 114–137.
+* Millas, Jorge, 1943, _Idea de la individualidad_, Santiago: Prensas de la Universidad de Chile.
+* –––, 1960, _Ensayos sobre la historia espiritual de Occidente_, Santiago: Editorial Universitaria.
+* –––, 1962, _El desafio espiritual de la sociedad de masas_, Santiago: Editorial Universitaria.
+* –––, 1963, “Discurso sobre la universidad y su reforma”, _Anales de la Universidad de Chile_, 127: 249–261.
+* –––, 1970, _Idea de la filosofía_, Santiago: Editorial Universitaria.
+* –––, 1981, _Idea y defensa de la universidad_, Santiago: Editorial del Pacífico; Coedición Corporación de Promoción Universitaria.
+* Millas, Jorge, 2010, _Filosofía del derecho_, Juan O. Cofré (ed.), Santiago: Ediciones Universidad Diego Portales.
+* Millas, Jorge and Edison Otero, 1978, _La violencia y sus máscaras_, Santiago: Ediciones Aconcagua.
+* Molina, Enrique, 1914, _Filosofía americana: Ensayos_, Paris: Casa Editorial Garnier Hermanos.
+* –––, 1921, _De California a Harvard: Estudio sobre universidades norteamericanas y algunos problemas nuestros_, Santiago: Sociedad Imprenta y Litografía Universo.
+* –––, 1925, _Dos filósofos contemporáneos: Guyau–Bergson_, Santiago: Editorial Nascimento.
+* –––, 1942, _Confesión filosófica y llamado de superación a la América hispana_, Santiago: Editorial Nascimento.
+* –––, 1945, _Discursos universitarios_, Santiago: Editorial Nascimento.
+* –––, 1947 \[1937], _De lo espiritual en la vida humana_, Santiago: Editorial Nascimento, 2nd edition.
+* Montes, Leonidas, 2017, _Adam Smith en contexto: Una revaluación crítica de algunos aspectos centrales de su pensamiento_, Madrid: Tecnos.
+* Mora, José Joaquín de, 1832, _Cursos de lógica y ética según la escuela de Edimburgo_, Lima: Imprenta de José Masías.
+* Otero, Edison, 1979, _Los signos de la violencia_, Santiago: Editorial Aconcagua.
+* –––, 1982, “El pensador en la caverna”, _Estudios Sociales_, 31(1): 79–108.
+* –––, 1985, _Los derechos de la inteligencia_, Santiago: Instituto Chileno de Estudios Humanísticos.
+* –––, 1986, “Reivindicación de la filosofía”, _Estudios Sociales_, 48(2): 195–200.
+* –––, 1986, “Los filósofos y el poder: Un anecdotario”, _Estudios Sociales_, 50(4): 47–56.
+* Otero, Edison and Ricardo López, 1989, _Pedagogía del terror: Un ensayo sobre la tortura_, Santiago: Editorial Atena.
+* Oyarzún, Luis, 1967, _Temas de la cultura chilena_, Santiago: Editorial Universitaria.
+* Oyarzún, Pablo, 1996, _El dedo de Diógenes: La anécdota en filosofía_, Santiago: Editorial Dolmen.
+* –––, 2009, _La letra volada: Ensayos sobre literatura_, Santiago: Ediciones Universidad Diego Portales.
+* Rivano, Juan, 1962, _Entre Hegel y Marx: una meditación ante los nuevos horizontes del humanismo_, Santiago: Comisión Central de Publicaciones de la Universidad de Chile.
+* –––, 1964, _Curso de lógica antigua y moderna_, Santiago: Editorial Universitaria.
+* –––, 1965, _Desde la religión al humanismo_, Santiago: Editorial Universitaria.
+* –––, 1965, _El punto de vista de la miseria_, Santiago: Facultad de Filosofía y Educación, Universidad de Chile.
+* –––, 1966, _Contra sofistas_, Santiago: Encuadernadora Hispano-Suiza.
+* –––, 1969, _Cultura de la servidumbre: Mitología de importación_, Santiago: Editorial Santiago.
+* –––, 1985, _Lógica elemental_, Santiago: Editorial Universitaria, 2nd edition.
+* –––, 1986a, _Perspectivas sobre la metáfora_, Santiago: Editorial Universitaria.
+* –––, 1986b, “Globalización y estrategias lógicas”, _Cuadernos Americanos_, 265(2): 72–85.
+* –––, 1987, _Mitos: Su función social y cultural_, Santiago: Pehuén.
+* –––, 2017, _El Eclesiastés, Diógenes, Montaigne_, Santiago: Ediciones Tácitas.
+* Rivera, Jorge Eduardo, 2016, _De asombros y nostalgias_, Santiago: Ediciones Universidad Católica de Chile.
+* Schwartzmann, Félix, 1950, _El sentimiento de lo humano en América; ensayo de antropología filosófica_ (Volume 1), Santiago: Universidad de Chile.
+* –––, 1953, _El sentimiento de lo humano en América; antropología de la convivencia_ (Volume 2), Santiago: Universidad de Chile.
+* –––, 1967, _Teoría de la expresión_, Santiago: Ediciones de la Universidad de Chile.
+* Stahl, Gerold, 1964, _Elementos de metalógica y metamatemáticas_, Santiago: Editorial Universitaria.
+* Torretti, Roberto, 1967, _Manuel Kant: Estudio sobre los fundamentos de la filosofía crítica_, Santiago: Ediciones de la Universidad de Chile. 2nd edition, 2005.
+* –––, 2006, _Estudios filosóficos, 1957–1987_, Santiago: Ediciones Universidad Diego Portales.
+* –––, 2007, _Estudios filosóficos, 1986–2006_, Santiago: Ediciones Universidad Diego Portales.
+* Varas, José Miguel, 1828, _Lecciones elementales de moral_, Santiago: Imprenta de la Independencia.
+* Varas, José Miguel and Ventura Marín, 1830, _Elementos de ideología_, Santiago: Imprenta de la Independencia.
+* Vial Larraín, Juan de Dios, 1965, “Idea de la universidad”, in _La universidad en tiempos de cambio_, Santiago: Editorial del Pacífico, pp. 7–12.
+* –––, 1971, _Metafísica cartesiana_, Santiago: Editorial Universitaria.
+* –––, 1979, _Tres ideas de la filosofía y una teoría_, Santiago: Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile.
+* –––, 1980, _La filosofía de Aristóteles como teología del acto_, Santiago: Editorial Universitaria.
+* –––, 1987, _Una ciencia del ser_, Santiago: Ediciones Universidad Católica.
 
 ### Secondary Sources
 
-* Abellán, José Luis, 1967, *Filosofía española en América, 1936–1966*, Madrid: Ediciones Guadarrama.
-* Ardao, Arturo, 1986, *Andrés Bello, filósofo*, Caracas: Biblioteca de la Academia Nacional de la Historia.
-* –––, 1963, “Assimilation and Transformation of Positivism in Latin America”, *Journal of the History of Ideas*, 24(4): 515–522.
-* Astorquiza, Fernando (ed.), 1982, *Bio-Bibliografía de la filosofía en Chile desde el siglo XVI hasta 1980*, Santiago: Universidad de Chile—Instituto Profesional de Santiago.
-* ––– (ed.), 1985, *Bio-Bliblografía de la filosofía en Chile desde 1980 hasta 1984*, Santiago: Universidad de Chile-Instituto Profesional de Santiago.
-* Atria, Manuel, 1970, “El pensamiento metafísico de Clarence Finalyson”, *Mapocho*, 23: 71–82.
-* Bader, Thomas, 1970, “Early Positivistic Thought and Ideological Conflict in Chile”, *The Americas*, 26(February): 376–393.
-* Bazán, Armando, 1954, *Vida y obra del maestro Enrique Molina*, Santiago: Editorial Nascimento.
-* Bloom, Allan, 1987, *The Closing of the American Mind: How Higher Education Has Failed Democracy and Impoverished the Souls of Today’s Students*, New York: Simon & Schuster.
-* Collier, Simon, 1967, *Ideas and Politics of Chilean Independence, 1808–1833*, Cambridge: Cambridge University Press.
-* Cristi, Renato, 1975, “El gesto filosófico de Lastarria”, *Teoría*, 5–6(December): 3–14.
-* Cristi, Renato y Carlos Ruiz, 1981, “¿Hacia una moral de mercado?”, *Mensaje*, 30(June): 244.
+* Abellán, José Luis, 1967, _Filosofía española en América, 1936–1966_, Madrid: Ediciones Guadarrama.
+* Ardao, Arturo, 1986, _Andrés Bello, filósofo_, Caracas: Biblioteca de la Academia Nacional de la Historia.
+* –––, 1963, “Assimilation and Transformation of Positivism in Latin America”, _Journal of the History of Ideas_, 24(4): 515–522.
+* Astorquiza, Fernando (ed.), 1982, _Bio-Bibliografía de la filosofía en Chile desde el siglo XVI hasta 1980_, Santiago: Universidad de Chile—Instituto Profesional de Santiago.
+* ––– (ed.), 1985, _Bio-Bliblografía de la filosofía en Chile desde 1980 hasta 1984_, Santiago: Universidad de Chile-Instituto Profesional de Santiago.
+* Atria, Manuel, 1970, “El pensamiento metafísico de Clarence Finalyson”, _Mapocho_, 23: 71–82.
+* Bader, Thomas, 1970, “Early Positivistic Thought and Ideological Conflict in Chile”, _The Americas_, 26(February): 376–393.
+* Bazán, Armando, 1954, _Vida y obra del maestro Enrique Molina_, Santiago: Editorial Nascimento.
+* Bloom, Allan, 1987, _The Closing of the American Mind: How Higher Education Has Failed Democracy and Impoverished the Souls of Today’s Students_, New York: Simon & Schuster.
+* Collier, Simon, 1967, _Ideas and Politics of Chilean Independence, 1808–1833_, Cambridge: Cambridge University Press.
+* Cristi, Renato, 1975, “El gesto filosófico de Lastarria”, _Teoría_, 5–6(December): 3–14.
+* Cristi, Renato y Carlos Ruiz, 1981, “¿Hacia una moral de mercado?”, _Mensaje_, 30(June): 244.
 * Da Costa Leiva, Miguel, 1978, “El pensamiento filosófico de Enrique Molina”, Ph.D. Dissertation, Universidad Complutense de Madrid.
-* Donoso, Ricardo, 1946, *Las ideas políticas en Chile*, (Colección Tierra Firme), Mexico: Fondo de Cultura Económica.
-* –––, 1964, “El Instituto Pedagógico: Tres generaciones de maestros”, *Journal of Inter-American Studies*, 6(January): 5–16.
-* Echeverría Yáñez, José R., 1965, *La enseñanza de la filosofía en la universidad hispanoamericana*, Washington, D.C.: Unión Panamericana.
-* Escobar, Roberto, 1970, “Clarence Finlayson: el filósofo que regresó del silencio”, *Revista Interamericana de Bibliografía*, 20(4): 459–463.
-* –––, 1976, *La filosofía en Chile*, Santiago: Universidad Técnica del Estado.
-* Figueroa, Maximiliano, 2011, *Jorge Millas: El valor de pensar*, prologue by Humberto Giannini, Santiago: Ediciones Universidad Diego Portales.
-* Frondizi, Risieri, 1948, “¿Hay una filosofía Iberoamericana?” *Realidad*, 3: 158–170.
-* Frondizi, Risieri and Jorge J. E. Gracia, 1975, *El hombre y los valores en la filosofía lainoamericana del siglo XX*, Mexico: Fondo de Cultura Económica.
-* Fuentealba H., Leonardo, 1959, “Filosofía de la historia en Letelier”, *Revista Chilena de la Historia y Geografía*, 127(January-December): 313–351.
-* Góngora, Mario, 1986, *Ensayo histórico sobre la noción de Estado en Chile en los siglos XIX y XX*, Santiago: Editorial Universitaria, 2nd edition.
-* Gracia, Jorge J. E. (ed.), 1986, *Latin American Philosophy in the Twentieth Century: Man, Values, and the Search for Philosophical Identity*, Buffalo, N.Y.: Prometheus Books.
-* –––, 1984, “Philosophical Analysis in Latin America”, *History of Philosophy Quarterly*, 1(1): 111–122.
-* Gracia, Jorge J. E. and Iván Jaksic, 1984, “The Problem of Philosophical Identity in Latin America”, *Inter-American Review of Bibliography*, 34(1): 53–71.
-* Gracia, Jorge J. E., Eduardo Rabossi, Enrique Villanueva y Marcelo Dascal (eds.), 1984, *Philosophical Analysis in Latin America*, Dordrecht, Boston, Lancaster: D. Reidel Publishing Co.
-* Hale, Charles A., 1986, “Political and Social Ideas in Latin America, 1870–1930”, in *The Cambridge History of Latin America* (Volume 4), Leslie Bethell (ed.), Cambridge: Cambridge University Press, pp. 367–643.
-* Hanisch Espíndola, Walter, S. J., 1963, *En torno a la filosofía en Chile, 1594–1810*, Santiago: Universidad Católica de Chile.
-* –––, 1968, *Rousseau, la ideología y la escuela escocesa en la filosofía chilena, 1828–1830*, Santiago: Instituto de Historia, Universidad Católica de Chile.
-* Huneeus Gana, Jorge, 1910, *Cuadro histórico de la producción intelectual de Chile*, Santiago: Biblioteca de Escritores de Chile.
-* Jaksic, Iván, 1984, “Philosophy and University Reform at the University of Chile, 1842–1973”, *Latin American Research Review*, 19(1): 57–86.
-* –––, 1989, *Academic Rebels in Chile: The Role of Philosophy in Higher Education and Politics*. Albany, N.Y.: State University of New York Press.
-* Jobet, Julio César, 1970, *Doctrina y praxis de los educadores representativos chilenos*, Santiago: Editorial Andrés Bello.
-* Jorrín, Miguel and John D. Martz, 1970, *Latin American Political Thought and Ideology*, Chapel Hill: The University of North Carolina Press.
-* Kilgore, William J., 1969, “The Development of Positivism in Latin America”, *Inter-American Review of Bibliography*, 19: 23–42.
-* Krebs, Ricardo (ed.), 1981, *Catolicismo y laicisimo: Las bases doctrinarias del conflicto entre la Iglesia y el Estado en Chile, 1875–1885*, Santiago: Ediciones Nueva Universidad, Pontificia Universidad Católica de Chile.
-* Lipp, Solomon, 1975, *Three Chilean Thinkers*, Waterloo, Ontario: Wilfrid Laurier University Press.
-* Milliani, Domingo, 1963, “Utopian Socialism, Transitional Thread from Romanticism to Positivism in Latin America”, *Journal of the History of Ideas*, 24: 523–538.
-* Molina, Enrique, 1953, *La filosofía en Chile en la primera mitad del siglo XX*, Santiago: Editorial Nascimento.
-* Ortega y Gasset, José, 1965, *Misión de la universidad y otros ensayos afines*, Madrid: Editorial Revista de Occidente, 4th edition.
-* –––, 1983, “Recuerdo del paso por Chile del filósofo José Ortega y Gasset”, *Occidente*, 301(May–June 1983): 32–38.
-* Oyarzún, Luis, 1953, *El pensamiento de Lastarria*, (Colección de Estudios Jurídicos y Sociales), Santiago: Editorial Jurídica de Chile.
-* –––, 1949, “Lastarria y los comienzos del pensamiento filosófico en Chile durante el siglo XIX”, *Revista de Filosofía*, 1(August): 27–56.
-* Pontificia Universidad Católica de Chile, 1982, *La presencia de la filosofía en la Universidad Católica (1888–1973)*, Santiago: Pontificia Universidad Católica de Chile.
-* Rodríguez, Rogelio, 1983, “Un filósofo en el exilio”, *Pluma y Pincel*, 10: 32–36.
-* –––, 1985, “Un filósofo que no calla”, *Pluma y Pincel*, 16: 12–14.
-* Sacks, Norman P., 1972, “José Victorino Lastarria: Un intelectual comprometido en la América Latina”, *Revista Chilena de Historia y Geografía*, 140: 153–193.
-* Salazar Bondy, Augusto, 1968, *¿Existe una filosofía en nuestra América?*, Mexico: Siglo XXI.
-* Sarti, Sergio, 1976, *Panorama della filosofía Ispanoamericana contemporanea*, Milan: Cisalpino-Golliardica.
-* Schultz, Margarita and Jorge Estrella, 1978, *La antropología de Félix Schwartzmann*, Santiago: Editorial Universitaria.
-* Schutte, Ofelia, 1987, “Toward an Understanding of Latin American Philosophy: Reflections on the Formation of a Cultural Identity”, *Philosophy Today*, 31(Spring): 21–34.
-* Schwartzmann, Félix, 1971, “La Philosophie au Chili”, in *La Philosophie Contemporaine*, Raymond Klibanski (ed.), Florence: La Nuova Editrice, pp. 635–642.
+* Donoso, Ricardo, 1946, _Las ideas políticas en Chile_, (Colección Tierra Firme), Mexico: Fondo de Cultura Económica.
+* –––, 1964, “El Instituto Pedagógico: Tres generaciones de maestros”, _Journal of Inter-American Studies_, 6(January): 5–16.
+* Echeverría Yáñez, José R., 1965, _La enseñanza de la filosofía en la universidad hispanoamericana_, Washington, D.C.: Unión Panamericana.
+* Escobar, Roberto, 1970, “Clarence Finlayson: el filósofo que regresó del silencio”, _Revista Interamericana de Bibliografía_, 20(4): 459–463.
+* –––, 1976, _La filosofía en Chile_, Santiago: Universidad Técnica del Estado.
+* Figueroa, Maximiliano, 2011, _Jorge Millas: El valor de pensar_, prologue by Humberto Giannini, Santiago: Ediciones Universidad Diego Portales.
+* Frondizi, Risieri, 1948, “¿Hay una filosofía Iberoamericana?” _Realidad_, 3: 158–170.
+* Frondizi, Risieri and Jorge J. E. Gracia, 1975, _El hombre y los valores en la filosofía lainoamericana del siglo XX_, Mexico: Fondo de Cultura Económica.
+* Fuentealba H., Leonardo, 1959, “Filosofía de la historia en Letelier”, _Revista Chilena de la Historia y Geografía_, 127(January-December): 313–351.
+* Góngora, Mario, 1986, _Ensayo histórico sobre la noción de Estado en Chile en los siglos XIX y XX_, Santiago: Editorial Universitaria, 2nd edition.
+* Gracia, Jorge J. E. (ed.), 1986, _Latin American Philosophy in the Twentieth Century: Man, Values, and the Search for Philosophical Identity_, Buffalo, N.Y.: Prometheus Books.
+* –––, 1984, “Philosophical Analysis in Latin America”, _History of Philosophy Quarterly_, 1(1): 111–122.
+* Gracia, Jorge J. E. and Iván Jaksic, 1984, “The Problem of Philosophical Identity in Latin America”, _Inter-American Review of Bibliography_, 34(1): 53–71.
+* Gracia, Jorge J. E., Eduardo Rabossi, Enrique Villanueva y Marcelo Dascal (eds.), 1984, _Philosophical Analysis in Latin America_, Dordrecht, Boston, Lancaster: D. Reidel Publishing Co.
+* Hale, Charles A., 1986, “Political and Social Ideas in Latin America, 1870–1930”, in _The Cambridge History of Latin America_ (Volume 4), Leslie Bethell (ed.), Cambridge: Cambridge University Press, pp. 367–643.
+* Hanisch Espíndola, Walter, S. J., 1963, _En torno a la filosofía en Chile, 1594–1810_, Santiago: Universidad Católica de Chile.
+* –––, 1968, _Rousseau, la ideología y la escuela escocesa en la filosofía chilena, 1828–1830_, Santiago: Instituto de Historia, Universidad Católica de Chile.
+* Huneeus Gana, Jorge, 1910, _Cuadro histórico de la producción intelectual de Chile_, Santiago: Biblioteca de Escritores de Chile.
+* Jaksic, Iván, 1984, “Philosophy and University Reform at the University of Chile, 1842–1973”, _Latin American Research Review_, 19(1): 57–86.
+* –––, 1989, _Academic Rebels in Chile: The Role of Philosophy in Higher Education and Politics_. Albany, N.Y.: State University of New York Press.
+* Jobet, Julio César, 1970, _Doctrina y praxis de los educadores representativos chilenos_, Santiago: Editorial Andrés Bello.
+* Jorrín, Miguel and John D. Martz, 1970, _Latin American Political Thought and Ideology_, Chapel Hill: The University of North Carolina Press.
+* Kilgore, William J., 1969, “The Development of Positivism in Latin America”, _Inter-American Review of Bibliography_, 19: 23–42.
+* Krebs, Ricardo (ed.), 1981, _Catolicismo y laicisimo: Las bases doctrinarias del conflicto entre la Iglesia y el Estado en Chile, 1875–1885_, Santiago: Ediciones Nueva Universidad, Pontificia Universidad Católica de Chile.
+* Lipp, Solomon, 1975, _Three Chilean Thinkers_, Waterloo, Ontario: Wilfrid Laurier University Press.
+* Milliani, Domingo, 1963, “Utopian Socialism, Transitional Thread from Romanticism to Positivism in Latin America”, _Journal of the History of Ideas_, 24: 523–538.
+* Molina, Enrique, 1953, _La filosofía en Chile en la primera mitad del siglo XX_, Santiago: Editorial Nascimento.
+* Ortega y Gasset, José, 1965, _Misión de la universidad y otros ensayos afines_, Madrid: Editorial Revista de Occidente, 4th edition.
+* –––, 1983, “Recuerdo del paso por Chile del filósofo José Ortega y Gasset”, _Occidente_, 301(May–June 1983): 32–38.
+* Oyarzún, Luis, 1953, _El pensamiento de Lastarria_, (Colección de Estudios Jurídicos y Sociales), Santiago: Editorial Jurídica de Chile.
+* –––, 1949, “Lastarria y los comienzos del pensamiento filosófico en Chile durante el siglo XIX”, _Revista de Filosofía_, 1(August): 27–56.
+* Pontificia Universidad Católica de Chile, 1982, _La presencia de la filosofía en la Universidad Católica (1888–1973)_, Santiago: Pontificia Universidad Católica de Chile.
+* Rodríguez, Rogelio, 1983, “Un filósofo en el exilio”, _Pluma y Pincel_, 10: 32–36.
+* –––, 1985, “Un filósofo que no calla”, _Pluma y Pincel_, 16: 12–14.
+* Sacks, Norman P., 1972, “José Victorino Lastarria: Un intelectual comprometido en la América Latina”, _Revista Chilena de Historia y Geografía_, 140: 153–193.
+* Salazar Bondy, Augusto, 1968, _¿Existe una filosofía en nuestra América?_, Mexico: Siglo XXI.
+* Sarti, Sergio, 1976, _Panorama della filosofía Ispanoamericana contemporanea_, Milan: Cisalpino-Golliardica.
+* Schultz, Margarita and Jorge Estrella, 1978, _La antropología de Félix Schwartzmann_, Santiago: Editorial Universitaria.
+* Schutte, Ofelia, 1987, “Toward an Understanding of Latin American Philosophy: Reflections on the Formation of a Cultural Identity”, _Philosophy Today_, 31(Spring): 21–34.
+* Schwartzmann, Félix, 1971, “La Philosophie au Chili”, in _La Philosophie Contemporaine_, Raymond Klibanski (ed.), Florence: La Nuova Editrice, pp. 635–642.
 * Sehlinger, Peter Joseph, 1969, “The Educational Thought and Influence of Valentín Letelier”, Ph.D. Dissertation, University of Kentucky.
-* Spindler, Frank M., 1980, “Francisco Bilbao: Chilean Disciple of Lamennais”, *Journal of the History of Ideas*, 41(3): 487–496.
-* Stabb, Martin S., 1967, *In Quest of Identity: Patterns in the Spanish American Essay of Ideas, 1890–1960*, Chapel Hill: The University of North Carolina Press.
-* Varona, Alberto, 1973, *Francisco Bilbao: Revolucionario de América*. Buenos Aires: Ediciones Excelsior.
-* Vial Larraín, Juan de Dios, 1983, “Situación de la Filosofía en Chile”, in *Las ciencias sociales en Chile, 1983: Análisis de siete disciplinas*, Santiago: Corporación de Promoción Universitaria, pp. 117–125.
-* Vicuña Subercaseaux, Benjamín, 1909, *Memoria sobre la producción intelectual en Chile*, Santiago: Sociedad Imprenta y Litografía Universo.
-* Vidal Muñoz, Santiago, 1956, “Apuntes sobre la filosofía en Chile”, *Cursos y Conferencias*, 48(March): 39–60.
-* –––, 1977, “La filosofía en Chile”, *Cuadernos de Filosofía*, 6: 19–44.
-* Woll, Allen L., 1982, *A Functional Past: The Uses of History in Nineteenth-Century Chile*, Baton Rouge and London: Louisiana State University Press.
-* Woodward, Ralph Lee (ed.), 1971, *Positivism in Latin America, 1850–1900: Are Order and Progress Reconcilable?* Lexington, Mass.: D. D. Heath and Company.
-* Zea, Leopoldo, 1949, *Dos etapas del pensamiento en Hispanoamérica: Del romanticismo al positivismo*, Mexico: El Colegio de México.
-* ––– (ed.), 1980, *Pensamiento positivista latinoamericano*, Caracas: Biblioteca Ayacucho.
+* Spindler, Frank M., 1980, “Francisco Bilbao: Chilean Disciple of Lamennais”, _Journal of the History of Ideas_, 41(3): 487–496.
+* Stabb, Martin S., 1967, _In Quest of Identity: Patterns in the Spanish American Essay of Ideas, 1890–1960_, Chapel Hill: The University of North Carolina Press.
+* Varona, Alberto, 1973, _Francisco Bilbao: Revolucionario de América_. Buenos Aires: Ediciones Excelsior.
+* Vial Larraín, Juan de Dios, 1983, “Situación de la Filosofía en Chile”, in _Las ciencias sociales en Chile, 1983: Análisis de siete disciplinas_, Santiago: Corporación de Promoción Universitaria, pp. 117–125.
+* Vicuña Subercaseaux, Benjamín, 1909, _Memoria sobre la producción intelectual en Chile_, Santiago: Sociedad Imprenta y Litografía Universo.
+* Vidal Muñoz, Santiago, 1956, “Apuntes sobre la filosofía en Chile”, _Cursos y Conferencias_, 48(March): 39–60.
+* –––, 1977, “La filosofía en Chile”, _Cuadernos de Filosofía_, 6: 19–44.
+* Woll, Allen L., 1982, _A Functional Past: The Uses of History in Nineteenth-Century Chile_, Baton Rouge and London: Louisiana State University Press.
+* Woodward, Ralph Lee (ed.), 1971, _Positivism in Latin America, 1850–1900: Are Order and Progress Reconcilable?_ Lexington, Mass.: D. D. Heath and Company.
+* Zea, Leopoldo, 1949, _Dos etapas del pensamiento en Hispanoamérica: Del romanticismo al positivismo_, Mexico: El Colegio de México.
+* ––– (ed.), 1980, _Pensamiento positivista latinoamericano_, Caracas: Biblioteca Ayacucho.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=philosophy-chile). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/philosophy-chile/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=philosophy-chile&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/philosophy-chile/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=philosophy-chile).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/philosophy-chile/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=philosophy-chile\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/philosophy-chile/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-* [Chilean Association of Philosophy](http://www.achif.cl/) (in Spanish).
+* [Chilean Association of Philosophy](http://www.achif.cl/) (in Spanish).
 
 ## Related Entries
 
-[Comte, Auguste](https://plato.stanford.edu/entries/comte/) | [Latin American Philosophy](https://plato.stanford.edu/entries/latin-american-philosophy/)
+[Comte, Auguste](https://plato.stanford.edu/entries/comte/) | [Latin American Philosophy](https://plato.stanford.edu/entries/latin-american-philosophy/)
 
 ### Acknowledgments
 
 Acknowledgments: The author wishes to thank Andrés Estefane, Francisco Gallegos, Susana Gazmuri, Sergio Missana, Juan Luis Ossa for their helpful comments.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Ivan Jaksic <[*ijaksic@stanford.edu*](mailto:ijaksic%40stanford%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Ivan Jaksic <[_ijaksic@stanford.edu_](mailto:ijaksic%40stanford%2eedu)>
