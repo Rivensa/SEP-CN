@@ -381,7 +381,7 @@
   * [机遇与随机性 versus randomness (Antony Eagle)](c/ji-yu-chance/ji-yu-yu-sui-ji-xing-versus-randomness-antony-eagle.md)
 * [\*变化 change](c/bian-hua-change/README.md)
   * [变化与不一致 and inconsistency (Chris Mortensen)](c/bian-hua-change/bian-hua-yu-bu-yi-zhi-and-inconsistency-chris-mortensen.md)
-* [\*变化：中国哲学——见中国哲学：中国易经哲学 change: Chinese philosophy of — see Chinese Philosophy: philosophy of change](c/bian-hua-zhong-guo-zhe-xue-jian-zhong-guo-zhe-xue-zhong-guo-yi-jing-zhe-xue-change-chinese-philosoph.md)
+* [\*易经：中国哲学——见中国哲学：中国易经哲学 change: Chinese philosophy of — see Chinese Philosophy: philosophy of change](c/yi-jing-zhong-guo-zhe-xue-jian-zhong-guo-zhe-xue-zhong-guo-yi-jing-zhe-xue-change-chinese-philosophy.md)
 * [混沌 chaos (Robert Bishop)](c/hun-dun-chaos-robert-bishop.md)
 * [道德品质 character, moral (Marcia Homiak)](c/dao-de-pin-zhi-character-moral-marcia-homiak/README.md)
   * [道德品质的经验方法 empirical approaches (Christian B. Miller)](c/dao-de-pin-zhi-character-moral-marcia-homiak/dao-de-pin-zhi-de-jing-yan-fang-fa-empirical-approaches-christian-b.-miller.md)
