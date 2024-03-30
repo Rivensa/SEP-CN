@@ -8,6 +8,7 @@
 * [版权说明](qian-yan/ban-quan-shuo-ming.md)
 * [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
 * [词汇表](qian-yan/ci-hui-biao.md)
+* [关于](qian-yan/guan-yu.md)
 
 ## A
 
