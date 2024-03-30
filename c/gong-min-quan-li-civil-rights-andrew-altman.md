@@ -1,2 +1,346 @@
 # 公民权利 civil rights (Andrew Altman)
 
+*首次发表于 2003 年 2 月 3 日星期一；实质性修订于 2022 年 1 月 17 日星期一*
+
+在当代法律和政治思想中，“公民权利”一词与 20 世纪中叶美国黑人组织起来的大规模解放斗争密不可分。公民权利运动旨在废除吉姆·克劳（Jim Crow）种族压迫和剥削体系，并旨在使黑人获得自由和平等的公民身份成为现实。运动中核心的公民权利概念指的是作为一种正义问题属于自由和平等公民的权利。这一概念在美国宪法修正案中得到体现，这些修正案是在南北战争中南方邦联的失败后重建时期通过的。
+
+公民权利运动旨在实现重建修正案所体现的自由平等公民权利的破碎承诺。在战争结束后的十年中，已经采取了重要步骤来实现这一承诺。然而，前南部邦联各地的暴力白人抵抗以及北方白人对这一承诺的日益减弱的承诺导致了重建的失败，以及一种新形式的种族压制的迅速巩固。正如杜波依斯（W.E.B. Du Bois）诗意地表达的：“奴隶获得自由；在阳光下停留片刻；然后再次走向奴役”（1935/1992: 30）。
+
+在公民权利运动过程中，一个相对狭窄的公民权利观念开始主导公共话语，并成为这类权利所涵盖的标准观念。术语“公民权利”开始指的不再是构成自由和平等公民身份的全部要求，而是指针对歧视的权利，最初是指基于种族和族裔的歧视，但很快扩大到包括性别、残疾、性取向和其他突出的社会和个人身份类别。作为自由和平等公民所拥有的全部要求的旧观念被淡化，因为通常被表征为涉及公民权利的问题的种类变得专门关注歧视问题。
+
+然而，尽管这两种公民权利观念在语言使用上存在差异，但它们之间并不存在实质上的不相容性。事实上，根据任何道德上合理的观点，更古老的观念包含了更为近期的观念：可以合理地说，构成自由和平等公民身份的权利不仅包括了针对歧视的权利，而且超越了这一点。但由于歧视仍然是系统性不公正的持续和广泛讨论的根源，将公民权利等同于反歧视权利的标准观念在可预见的未来不太可能消失。然而，更古老的公民权利观念并没有过时：它仍然是法律和政治话语中不可或缺的部分，常常作为隐含的规范背景的一部分，有时又作为话语明确表达的主题。本文将遵循更古老的观念，将所有自由和平等公民的权利视为公民权利；同时，本文特别关注当前的争议议题，其中涉及反歧视权利。
+
+* [1. 自由和平等的公民权](https://plato.stanford.edu/entries/civil-rights/#FreeEquaCiti)
+* [2. 标准观念](https://plato.stanford.edu/entries/civil-rights/#StanIdea)
+* [3. 权利的类别](https://plato.stanford.edu/entries/civil-rights/#CateRigh)
+* [3.1 政治和社会权利](https://plato.stanford.edu/entries/civil-rights/#PoliSociRigh)
+* [3.2 社会和福利权利](https://plato.stanford.edu/entries/civil-rights/#SociWelfRigh)
+* [3.3 文化权利](https://plato.stanford.edu/entries/civil-rights/#CultRigh)
+* [4. 投票权](https://plato.stanford.edu/entries/civil-rights/#RighVote)
+* [4.1 黑人美国人的剥夺权](https://plato.stanford.edu/entries/civil-rights/#DiseBlacAmer)
+* [4.2 公民投票权法案](https://plato.stanford.edu/entries/civil-rights/#VotiRighAct)
+* [4.3 ](https://plato.stanford.edu/entries/civil-rights/#ShelCaseAfte)​*[谢尔比](https://plato.stanford.edu/entries/civil-rights/#ShelCaseAfte)*​[案件及其后果](https://plato.stanford.edu/entries/civil-rights/#ShelCaseAfte)
+* [5. 刑事司法和种族歧视](https://plato.stanford.edu/entries/civil-rights/#CrimJustRaciProf)
+* [6. 婚姻平等](https://plato.stanford.edu/entries/civil-rights/#MarrEqua)
+* [7. 残疾](https://plato.stanford.edu/entries/civil-rights/#Disa)
+* [法律案例和法规](https://plato.stanford.edu/entries/civil-rights/#LegaCaseStat)
+* [参考书目](https://plato.stanford.edu/entries/civil-rights/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/civil-rights/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/civil-rights/#Oth)
+* [相关条目](https://plato.stanford.edu/entries/civil-rights/#Rel)
+
+---
+
+## 1. 自由和平等的公民身份
+
+在现代社会中，自由平等的公民享有参与公共舆论形成和社会集体决策（公共自治）的自由权利，以及决定个人生活方式的自由权利（私人自治）（Habermas 1996）。现代公民身份的这两个维度的重要性源自 Rawls 所说的人格的“两种道德力量”：具有并根据正义感行事的能力，以及拥有、修订并根据美好构想行事的能力（1995: 164; 2001: 18）。当一个社会及其政治体系平等并恰当地重视每个人在发展和行使自己的道德力量方面的利益时，个体作为自由平等的公民存在。
+
+自由和平等公民身份的概念在几个世纪的西方社会中逐渐形成，这些社会将成为现代代议制民主国家。这个概念可以追溯到 17 世纪的英国平等主义者和自由主义者，比如 Lilburne（1649）和洛克（1690/1952），并在法国大革命期间得到了戏剧性的表达，其“人权和公民权宣言”（1789）推翻了旧制度根深蒂固的等级制度和专制统治。但直到 20 世纪中期，关于哪些人类有能力成为社会的全面贡献成员的种族主义和性别歧视的假设导致了对谁能够合法主张自由和平等公民权利的权利的观点过于狭隘。这些假设在哲学讨论中已基本消除，尽管它们在社会的某些部分仍然存在。
+
+## 2. 标准观念
+
+在当代公共话语中，“公民权利”一词通常用来指代一系列比自由平等公民拥有的全部权利更为狭窄的权利。这种用法反映了现在通行的公民权利观念，即作为社会成员针对基于种族、性别、种族、残疾、性取向以及其他被视为在分配主要社会利益和负担时具有道德上不可接受理由的歧视而拥有的权利。歧视，反过来被理解为涵盖那些（错误地）对某些在社会上显著群体的成员造成不利的行为、政策和做法，这是基于他们的群体身份，相对于社会的其他成员而言（参见 Lippert-Rasmussen 2014）。
+
+Christopher Schmidt 认为，标准观念是 20 世纪的发展，偏离了内战后几十年盛行的公民权利概念。他指出，早期的概念涉及“签订合同的权利、拥有财产的权利、起诉的权利、在法庭作证的权利以及身体安全的权利”，所有这些被视为“公民身份的基本内容”（2021: 30 和 52）。但“当公民权利在 20 世纪中叶重生时”，出现了一个“新颖”的概念，这个概念“侧重于普遍的非歧视原则，而不是一系列有限的基本权利”（135）。
+
+Robin West 描绘了一个类似的历史画面，尽管她的重点是法律条文，而不是一般公众的理解。她写道，“根据我们对公民权利的当代理解，我们几乎没有任何权利，除了不受歧视的权利……”（2019: 74）。West 解释了美国最高法院在当前公民权利理念的主导地位方面起到了关键作用，但她也指出了主流法律学术所扮演的角色。与当前理念相反，根据 19 世纪法学家持有的“古典理解”（29），公民权利“不仅仅是基于不可接受特征而不受歧视的权利”，还包括“明确的权利*去*获得某些东西：……获得保护和安全，签订和执行合同的权利，拥有、购买或出售财产”的其他范畴性要求，这些要求对“社会成员资格”至关重要（149-50 和 157，原文重点）。作为一个寻求让法律条文承认经济实质性要求作为公民权利的进步自由主义者，West 的目标是通过将其置于古典理解的更新版本之下来超越标准理念。
+
+也许令人惊讶的是，许多呼吁进行革命性变革的激进活动人士忽视了任何比标准权利更广泛的公民权利观念。因此，安吉拉·戴维斯（Angela Davis）是这些活动人士中最杰出的人之一，她解释说，“公民权利的框架”太过狭窄，无法理解美国及其他地方黑人自由斗争的本质。这场斗争“不仅仅是获得在社会中充分参与的形式权利的问题，而且也涉及实质性权利——涉及工作、免费教育、免费医疗保健、负担得起的住房，以及结束对黑人社区的种族主义警察占领”（2016 年：72）。因此，戴维斯与法律主流一样，拒绝将获得工作、住房、医疗保健和可靠执法等物品的范畴性要求描述为“公民权利”。
+
+West 认为，标准观念与概念错误密不可分。考虑到免受私人暴力侵害的权利，West 将其描述为“不可简化的、最低限度的，甚至是典型的公民权利”（2019: 66；原文强调）。她认为，社会的每个成员都有这样的权利，如果政府未能为每个人确保这一权利，那么所有人的公民权利都将受到侵犯，尽管在这种失败中并没有涉及歧视（23）。因此，她认为“混淆了非歧视的概念与公民权利的概念”是一种概念错误（18）。
+
+此外，韦斯特认为，标准观念与规范错误紧密相连，因为它未能肯定社会成员不仅有权利不因歧视原因而被剥夺某些利益；他们还有权利获得这些利益。结果是，根据标准观念，公民权利变得“空洞”和“形式化”，缺乏实质内容，因为它们不要求在利益分配中规定结果，而只要求分配过程不受歧视影响（46 和 48）。
+
+对于西方来说，标准观念的规范缺陷在最高法院关于教育和就业的裁决中展现出来。法院裁定，个人在种族或性别方面被拒绝教育或就业机会是违反宪法权利的，但未能承认任何关于教育或就业的范畴性宪法权利（204-212）。法院甚至未能承认一项范畴性的公民警察保护权利。西方认为这些失败反映了标准观念及其对“国家在我们进入社会契约时承担的责任”的根本缩减概念（66）。
+
+然而，标准观念在概念上或规范上并非西方所声称的那样存在缺陷。这个观念始终与一种认识相结合，即除了反歧视权利之外，自由和平等的公民权利还需要获得警察保护、教育和其他现代社会可以并应该为其成员提供的福利。如果最高法院在未能将这些要求视为公民的基本权利方面犯了错误，那么问题不在于标准观念，而在于法院对自由和平等公民权利的理解贫乏。
+
+此外，韦斯特指责标准观念使公民权利变得“空洞”，因为反歧视权利仅具有“形式上”的特征，似乎过分低估了针对歧视的主张的规范意义。尽管这类主张在某种意义上是“形式上的”，但形式上的主张仍然可能具有道德重要性。戴维斯承认了这一点，写道公民权利“非常重要”，尽管她补充说“自由比公民权利更为广泛”（2016 年：72）。
+
+正式权利的规范意义可以通过考虑在自由公正选举中投票的权利来体现。在这种选举中没有任何保证或预先确定的结果，因此，投票权是正式的：这是参与一个过程的权利，而不是过程的任何特定结果的权利。但选举权并非规范上“空洞”；相反，它是一项权利，帮助现代社会的人们保护自己免受严重的不公正（见下文第 4 节）。
+
+## 3. 权利的类别
+
+公民权利经常被理解为与声称属于不同类别的权利相对比：政治、社会、福利和文化等。竞争性的公民权利概念以不同方式进行对比，目的也不同。在某种程度上，特定对比被用来表达一种不合理地限制属于自由和平等公民身份的主张的观点，这种对比就会受到批评，并基于一个适当宽广的公民权利观念进行修订。这种批评和修订导致了曾经普遍认为政治权利不是公民权利的观点被放弃。许多当代思想家（虽然不是所有人）认为，福利和文化权利与政治权利一样，对公民的自由和平等至关重要，因此应被视为公民权利的一种类型，而不是完全不同种类的权利。
+
+### 3.1 政治和社会权利
+
+直到 20 世纪中期，公民权利与政治权利和社会权利形成鲜明对比。公民权利包括拥有财产的权利，签订具有法律约束力的合同的权利，接受法律正当程序的权利，提起私人诉讼的权利，在法庭作证的权利以及信仰宗教的权利。它们还涵盖了言论自由和新闻自由（Amar 1998: 216–17）。但传统上认为，它们不包括投票权或担任公职的权利，这些权利被归为完全独立的政治权利范畴，并仅根据法律授予（一些）成年男性。社会权利涉及被视为“私人”的互动领域，其中不仅包括个人关系如友谊，还包括企业与其客户之间的交易。
+
+公民权利与政治和社会权利的分离传统上被用来限制公民权利的范围，以使某些社会群体的成员，尤其是妇女、黑人和工资工人，保持其从属地位。这些群体成员要求参与选举权的要求被拒绝，并声称，即使所有公民都有公民权利，也并非所有人都有政治权利。据称，选举权不是一项权利，而是一种“特权”，只应授予那些有资格以促进社会利益的方式行使选举权的人（Keyssar: 38 和 177）。黑人要求得到商家服务或乘坐白人可进入的火车车厢的要求被拒绝，并声称公民权利并不涉及诸如个人和企业决定与某一种族的成员而非另一种族的成员交往之类的社会事务。据称，这些决定类似于一个人选择朋友或晚餐客人。
+
+在内战之后的几十年里，美国最高法院裁定，作为宪法法律问题，政治权利并不是所有成年公民享有的权利之一，并且国会无权禁止私营公司在向公众提供商品和服务时对种族歧视。在*Minor v. Happersett*案中，法院援引了公民权利和政治权利的区别，认为，尽管妇女无疑是公民，“宪法在授予公民身份时，并不一定赋予选举权”（1874: 177）。在*Civil Rights Cases*案中，法院废除了 1875 年的《公民权利法案》，写道，宪法并未赋予国会“调整可称为社会权利的人和种族在社会中的权利，而只是宣布和维护那些属于公民身份本质的基本权利”（1883: 22）。
+
+因此，法院使用了公民-政治-社会的区分来制定其对公民身份的概念，其概念授权了按性别和种族对公民进行分层排序。法院的裁决和推理反映了当时以及此后几十年美国社会对种族和性别的主流观点。然而，这些观点并非没有受到挑战。妇女参与了妇女参政运动，并由黑人发起了挑战，他们认为，为了有效享有财产、合同和其他传统公民权利，有必要获得选举权。
+
+### 3.2 社会和福利权利
+
+在 1950 年首次发表的一篇有影响力的文章中，英国社会学家 T.H.马歇尔提出了“一个公民身份的演变，已经持续了大约 250 年”（马歇尔和博托莫尔 1987 年：7）。马歇尔采用了一种三分法的区分，在某种程度上类似于美国最高法院观点中发现的传统区分，但他的目的与任何试图按不同类别对公民进行分层排序的努力大不相同。他假定公民的权利应该是相同的，他的目的是要表明这一系列权利在几个世纪内一直在扩大。
+
+马歇尔区分了公民权利、政治权利和社会权利，并认为，几个世纪以来，公民身份的概念逐渐从仅包括公民权利扩展到包括政治权利，然后在 20 世纪时，又融入了社会权利。他区分公民权利和政治权利的观点，与美国最高法院在 19 世纪划定的财产权、合同权、正当程序等权利与投票权、担任公职等权利之间的界限相一致。但他所指的“社会权利”与美国最高法院所理解的含义大相径庭。
+
+马歇尔解释说，“社会权利”指的是“从经济福利和安全的权利到分享社会遗产并按照社会现行标准过上文明生活的权利的整个范围”(8)。其中包括“一定数量的某些基本商品和服务的最低供应（如医疗和物资、住所和教育）或可用于基本生活必需品的最低货币收入”(32)。因此，马歇尔的社会权利与最高法院在《*民权案例*》中援引的权利截然不同：法院的权利是个人与愿意与他们交往的其他人交往并排斥任何他们不喜欢的人的权利，而马歇尔的权利是分享基本社会商品的权利，他认为接触这些商品对个人福祉或福利至关重要。因此，马歇尔暗示所谓的“福利权利”是自由平等公民的权利之一，因此在广义上属于“公民权利”。
+
+在今天许多富裕国家，但不包括美国，在宪法原则上保护福利权利。例如，丹麦宪法第 75 条规定：“任何无力养活自己或其抚养者的人，在没有其他人负责其或他们的生活费时，有权获得公共援助。”德国联邦宪法法院认定该国的基本法确立了一个“社会国家”（反映了马歇尔对“社会”的使用），并确保社会的每个成员有权获得政府提供的“对于其身体生存和参与社会、文化和政治生活的最低必需物质条件”的可强制执行权（Egidy 2011: 1964）。
+
+### 3.3 文化权利
+
+文化权利包括文化少数民族的语言权利以及土著民族保留其文化制度和实践并行使某种政治自治的权利。《公民和政治权利国际公约》第 27 条规定应当保护这些权利：“在存在民族、宗教或语言少数群体的国家，属于这些少数群体的人不得被剥夺与其群体其他成员共同享有自己文化、信仰和实践自己宗教、使用自己语言的权利。”同样，加拿大《权利和自由宪章》保护少数群体的语言权利，第 27 条规定：“本宪章应当以符合保护和增进加拿大多元文化遗产的方式进行解释。”在美国，选举权法案保护某些少数语言的使用者（52 美国法典第 10303 节），宪法学说承认土著印第安部落具有某些政治自治权利。
+
+存在着关于文化成员权利的合法性和范围的重大哲学争议。金利卡(Kymlicka)认为，自由主义保护个人平等权利的承诺要求社会保护这些权利，经过适当的定义。他区分了三种权利，这些权利曾被与一个国家的主导文化不同的各种群体所主张：(1)自治权，涉及通过少数文化自身的制度行使一定程度的政治自治权的主张，(2)多元权利，涉及少数文化成员提出特殊要求以促进他们融入主流制度和实践，以及(3)代表权利，涉及少数文化提出特殊要求，让其成员在更广泛社会的立法机构和其他政治机构中任职。
+
+Kymlicka 认为，这三种类型的团体权利原则上可以为他所称之为“民族少数群体”的人口辩护，比如美国的美洲原住民、加拿大的魁北克人和土著人。民族少数群体是“一个代际社区，或多或少在一个特定领土或家园内完整地存在，[并且]共享着独特的语言和历史”（18）。Kymlicka 认为，“向[民族]少数群体授予特殊的代表权利、土地要求或语言权利……可以被视为让……[它]与多数群体更平等，通过减少较小群体对较大群体的脆弱程度”（36-37）。这些特殊权利并不涉及授予民族少数群体剥夺其成员任何公民权利的权威。相反，这些权利是“外部保护”，为该群体提供能力和豁免权，使其能够保护其文化免受更广泛社会可能有害决定的影响（35）。
+
+根据金利卡（Kymlicka）的观点，与国家少数民族（和难民）相比，大多数移民是自愿离开原始文化的，因此只有权利获得一套更有限的群体权利。这些“多元文化权利”是要求对现行法律法规进行某些调整或适应，以便让个人获得社会主流的机会。因此，金利卡认为，在美国军队中，正统犹太人应当有权在执勤时戴便帽，加拿大锡克教徒有合法要求豁免佩戴摩托车头盔的法律（31）。
+
+Kymlicka 对国家少数民族和移民之间的区别受到 Choudhry 的批评，Choudhry 写道，“在大多数情况下，移民决定并不是自由的”（2002: 64），这是由于全球经济的根深蒂固的特征和移民无法控制的其他因素。但 Patten 捍卫了 Kymlicka 区别的一种有条件形式，他认为，鉴于移民获得的利益以及国家享有追求自己国家项目的道德权利，“在国家少数民族的诉求与移民的诉求之间适度优先考虑是合理和可允许的”（2014: 295–96）。
+
+然而，帕顿认为基姆利克的方法在涉及地理分散且缺乏可作为集体自治基础的机构的文化少数群体（包括移民）时存在不足。与基姆利克相反，帕顿认为，作为公正的问题，这些人有权利使其文化实践得到国家与多数文化享有同等水平的承认和适应。这种权利源自自由主义国家“向所有公民提供公平自决机会的义务”，这一义务意味着国家“有责任对其公民所肯定的各种美好观念保持中立” 。帕顿称之为“待遇中立”的适当形式的中立是指当国家为文化少数群体成员提供相当的设施、资源和机会，使他们在追求与其对美好观念的认同相关的身份相关方面时，既不处于不利地位也不处于有利地位，相对于多数文化中的人。帕顿解释了身份相关特征，这些特征不仅仅是偏好，而且有助于定义一个人对自己是谁的感觉，并在一个人的目的体系中占据核心重要位置。
+
+根据帕滕（Patten）的观点，一个国家可能被要求向文化少数群体扩展特殊权利的领域包括语言、节日和次国家政治区划的安排。例如，平等对待可能要求国家以文化少数群体的语言提供其服务，比如协助纳税准备或提供有关健康事项的信息。尽管这些安排远远超出了基姆利卡（Kymlicka）的认可范围，但帕滕同意他的观点，即文化权利的基本目的不是确保文化的生存。正如帕滕所说，这些权利“不是文化保护的权利”（29）。一旦建立了公平机会的框架，无论出现什么样的文化结果都是公正的，即使一些文化“挣扎或……完全消失”（29）。
+
+尽管帕顿和金利卡的立场有所不同，但它们都占据着在很大程度上对文化权利的概念持有敌对态度和支持这些权利的观点之间的中间立场，认为文化的生存具有固有重要性，不可简化为个人利益。巴里持有前一种敌对观点，而泰勒持有后一种观点。
+
+Barry 断言“每个人都有权利反对压迫、剥削和伤害，可以要求主张……文化多样性和多元主义绝不会凌驾于基本自由权利的价值之上”(2001: 132–33)。法律体系应通过公正地对所有人施加相同的规则来保护这些权利，而不考虑他们的文化或宗教归属。Barry 允许一些例外情况，比如容纳一个锡克教男孩，他的头巾违反了学校的着装规定，但认为这种例外情况被证明“很少被满足”(2001: 62)。
+
+在光谱的另一端，泰勒（1994）主张一种将文化生存视为内在重要性的共同体主义形式。在他看来，针对某些做法在法律下的差别对待有时是有道理的，因为这种对待对于保持文化生机至关重要。泰勒认为，文化生存有时可以凌驾于基本的个人权利之上，比如言论自由。因此，他支持对魁北克使用英语的法律限制，以维护魁北克法语文化的生存。
+
+## 4. 投票权
+
+公民对谁应该拥有投票权的争议自 17 世纪英格兰代议制政府出现以来就一直是现代代议制政府历史的一部分。因为选举对这种治理体系至关重要，组成社会的不同群体拥有竞争性政治利益，所以应该让哪些人口拥有选举权的问题长期以来一直备受争议。财产和性别资格严重限制了选举权，直到 20 世纪。反对普选男子选举权的人声称，没有足够财产的男性缺乏独立思维和对社区利益的利害关系，因此不能负责任地行使选举权（Keyssar 2000: 8–10）。工业化产生了大量雇佣工人阶级后，反对普选的一个普遍论点是，给予工人投票权将导致建立一个灾难性的社会主义或共产主义政权。反对妇女选举权的人来自那些拥抱传统父权制观念的人，认为妇女的固有能力使她们适合于家庭生活和家庭的受限私人领域，而不适合从事政治的公共世界（Keyssar 2000: 141）。
+
+在美国，黑人男性的投票权在内战后不久被*法律上*获得，但在整个南方地区，这种权利直到公民权运动导致 1965 年的选举权法案才*事实上*被否定。然而，剥夺黑人投票权并削弱他们的选举权力的努力在该法案通过后仍然存在（见下文 4.1 - 4.3 节）。
+
+### 4.1 黑人美国人的剥夺
+
+美国宪法第 15 修正案于 1870 年获得批准，这是重建时代的一个里程碑，激进共和党人及其盟友试图确保美国的解放黑人及其同胞能成为自由和平等的*公民*。该修正案禁止因种族而剥夺或限制选举权利，并授权国会制定“适当立法”以实施这一禁令。但在修正案获得批准后的一个世纪内，南方各地的黑人才能在没有普遍和公开歧视以及经济胁迫和报复性暴力的情况下登记和投票。即使在重建时期，当时有许多黑人可以在当时占领南方的联邦军队的保护下投票，仍然经常发生对寻求行使宪法权利的黑人的歧视和暴力。
+
+最高法院对试图保护黑人选举权的联邦立法进行了曲解，宣称该立法不适合作为起诉那些公然阻止黑人登记选民的州官员的依据（*U.S. v. Reese* 1875）。在幕后交易促成拉瑟福德·海斯（Rutherford Hayes）赢得 1876 年备受争议的总统选举后，他的政府指示联邦军队停止保护黑人权利的努力。随着重建时期的结束，南方白人得以废除第 15 修正案。
+
+南方各州继续采纳选民知识素养的文凭要求和其他测试、投票税以及一系列其他措施，这些措施在地方登记员的歧视性操作下，结合恐怖主义暴力和经济胁迫，成功地使该地区绝大多数黑人丧失了选举权。尽管第 15 修正案明确规定，但在《*盖尔斯诉哈里斯*》(1903)一案中，最高法院裁定联邦司法机构并非黑人寻求废除剥夺选举权制度的合适去处。霍姆斯大法官为法院写道：“如果所声称的政治严重错误是由一个州的人民和州政府自行实施的，那么必须由他们或美利坚合众国政府的立法和政治部门来提供救济”(488)。但当时的霍姆斯和其他任何略有了解的美国人都心知肚明，南方各州或国会自愿采取行动保护黑人的选举权几乎没有现实可能性。
+
+对黑人来说，没有选举权，他们就无法安全地享有财产、合同、正当程序和其他传统上被视为自由和平等公民基本权利的权利。南方黑人没有政治权力，因此容易受到白人的无情剥削和压迫，这也是白人首先实施剥夺选举权计划的原因。重建时期的经历教会了白人，选举权是黑人用来保障其其他法律权利的权力。民权运动的主要目标之一是制定有效的联邦立法保护选举权，这并非偶然。
+
+### 4.2 公民投票权法案
+
+在公民权利运动中产生的最有效和重要的立法之一是 1965 年的《选举权法案》(VRA)。该法案在南方各州的政治体系中引发了一场“静默革命”(戴维森和格罗夫曼 1994)，大大削弱了这些州传统上享有的决定其选举制度运作规则的法律权力。历史学家和政治学家之间存在广泛的共识，即 VRA 结束了南方黑人的大规模剥夺选举权，因为法案通过后的几年内，南方各州的黑人选民登记率呈指数级增长(赖特 2013:183)。此外，研究表明，在该法案的持续诉讼帮助下，黑人当选官员的数量，特别是在地方一级，大幅增加(184)。在对 VRA 影响的评估中，赖特得出结论称，“不可否认的是，地方政治参与[黑人]在对[他们]社区和成员重要的方面产生了积极变化……[通过]确保经济增长带来的收益会更广泛地分享”(184)。这些收益包括为许多南方黑人社区提供基本公共服务，这些服务之前因歧视而被剥夺，例如铺设道路、路灯、消防站和污水处理设施。
+
+VRA 在将选举监管权从各州转移到国家政府方面采取了一系列前所未有的步骤。传统理解是，在宪法下，各州拥有确定州和地方职位选举规则的专属和最终权力。VRA 推翻了这一理解，将联邦权力插入了各州的主权领域。
+
+第二部分的 VRA 包含了全国范围内禁止任何选民资格或程序，因种族或肤色而剥夺或削弱公民投票权利的规定。该法案继续提供补救措施，以使禁令在那些在违反第 15 修正案方面特别严重的司法管辖区内生效。这些补救措施适用于符合两个条件（“覆盖公式”）的司法管辖区：1）截至 1964 年 11 月，该司法管辖区正在使用识字测试或类似设备来确定注册资格，2）在该日期注册的符合资格选民比例，或者在当年选举中投票的选民比例低于 50%。其想法是，低整体注册或投票率（低于 50%）是一个客观指标，表明相当大比例的符合资格选民因种族歧视原因被剥夺了参与选举的权利。针对符合覆盖公式的司法管辖区授权使用的措施包括废除识字测试、任命联邦考官取代地方登记员并编制选民名册，以及根据第 5 条的规定，要求获得联邦批准（通常是从司法部长那里）对选举规则的任何更改进行审批（“事先批准要求”）。七个南方州符合覆盖公式。
+
+VRA 的关键条款的合宪性受到了公民权法案涵盖的州的挑战，但最高法院在 1966 年的*南卡罗来纳诉卡岑巴赫案*中维持了这项法律。然后，该法案经过多次修订获得重新授权。这些修改旨在加强对选举过程中所谓的“第二代”种族平等障碍的保护。第一代包括识字测试和其他歧视性地阻止黑人登记的手段。第二代包括各种方式，通过选举安排削弱已登记少数族裔选民的政治权力。
+
+考虑投票稀释的以下示例。在南部的许多县，白人在整体上是多数，但黑人在县的某些地区占多数。这些县传统上被划分为各个区，每个区选出县委员会的一名成员。第一代歧视通过阻止黑人在黑人占多数的区进行登记，确保了全白人委员会。当第一代设备由于《选举权法案》的结果而被废除时，许多南部县从基于区的系统转变为全县范围的投票制，以便整个县的白人多数仍然可以选举全白人委员会。最高法院裁定，这些变化需接受联邦当局的先行审查，他们有权禁止这些变化（*艾伦诉州选举委员会* 1969 年）。将稀释视为一种种族歧视形式，在 1982 年，国会修改了第 2 节，禁止任何“导致美国公民因种族或肤色而被剥夺或缩减选举权利的任何选举规则或安排……[或者]是语言少数群体的成员”（52 美国法典 10301 和 10303）。
+
+超过四十年来，第五条的预先审查要求和基于第二条的诉讼被用来阻止种族选举稀释以及一系列被视为种族歧视的其他选举安排。然后，最高法院在 2013 年的*谢尔比县诉霍尔德*案裁决中颠覆了预先审查。
+
+### 4.3 *Shelby*案件及其后果
+
+在《谢尔比县案》中，最高法院废除了 VRA 的覆盖公式，从而使第 5 条的预先批准条款失效：没有覆盖公式，就无法确定哪些司法管辖区需要接受联邦批准以更改其选举规则。该公式最后一次更新是在 20 世纪 70 年代初，首席大法官罗伯茨为法院写道，他发现在这几十年间，“戏剧性的[种族]进步”发生后，使用该公式变得“不合理”(554 和 556)。他指出，根据该公式覆盖的司法管辖区中，黑人选民登记和投票率与白人的率相当，甚至在某些情况下更高，并且少数族裔已经“以空前的水平”(547)担任了那些州的职务。
+
+罗伯茨大法官并未否认第二代障碍的存在，但他认为国会未能重新塑造覆盖公式，以跟踪当前这些障碍最为普遍的国家地区。因此，他认为公式与选举中任何剩余的种族歧视障碍之间没有合理关系。此外，他认为第 5 条构成了对“所有州享有平等主权”原则的“明显背离”（535）。鉴于这种他认为是基本原则的背离，罗伯茨得出结论，国会没有宪法权力来强加旧的覆盖公式。
+
+在她的反对意见中，金斯伯格大法官强调了国会在 2006 年重新授权该法律之前编制的证据记录。该记录使国会得出结论，即旧的覆盖范围公式足以针对第二代障碍最为普遍的司法管辖区。例如，记录中包含一项研究，显示覆盖区域在第 2 条诉讼中更有可能被成功起诉，而其他司法管辖区则不太可能。因此，金斯伯格认为，“国会合理地得出结论，即覆盖范围公式继续确定最令人担忧的司法管辖区”（578 页）。她还解释了“平等主权”原则仅适用于一种非常有限的情况，即新州正在加入联邦时：新州不得被赋予比现有州更低或更高程度的主权。
+
+Roberts 正确地将 VRA 视为对国家政府规范州选举权力传统法律观点的“戏剧性转变”(535)。正如阿克曼所强调的，这项法案是一项激进的立法，类似于宪法修正案，因为它推翻了长期以来的法律理解(2014)。然而，Roberts 认为国会必须重塑覆盖范围的论点并不令人信服。表面上，国会依赖旧公式似乎是不合理的，尽管黑人处境发生重大变化。但事实上，情况在某些相关方面发生了变化并不意味着在所有这些方面都发生了变化，国会的进一步调查发现，在一个方面情况并未改变：旧公式选定的相同司法管辖区仍然在维护黑人无掺杂选举权方面记录最为问题。Roberts 忽略了一个事实，即黑人登记率的增加并未解决种族选举权稀释的问题，尽管他正确指出自 1970 年以来黑人担任公职的比率大幅增加，但国会得出结论认为这一增长主要是由于基于旧覆盖范围公式的积极联邦执法。
+
+在《谢尔比案》之后，被联邦事先批准要求约束的州（以及一些未受其约束的州）已经通过法律和做法，使选举比以往更加困难，并且不成比例地对黑人、土著部落成员和其他种族少数群体造成不利影响。这些法律和做法包括要求提供照片身份证和公民身份证明、限制提前投票和邮寄选票、减少投票地点的数量。防止选民舞弊是这些措施提出的主要理由。然而，全国范围内已经发起了对这些措施提出诉讼的行动。如果能够证明存在歧视意图，这些措施就容易被司法废止（《全国有色人种协进会诉麦克罗里案》2016 年），但如果没有展示这种意图的“确凿证据”，这些措施通常会得到支持（参见《布尔诺维奇诉 D.N.C 案》2021 年）。批评人士认为，这些措施违反了《选举权法》第 2 条，因为它们不成比例的种族影响意味着这些措施“导致……[对]基于种族的选举权的剥夺”（《选举权法》：第 2 条；《公民权利委员会》2018 年；赫伦和史密斯 2016 年）。但是，在如何解释第 2 条的结果导向语言以及是否应将歧视意图视为任何可行的选举安排中种族歧视主张的必要要素方面，法律和哲学问题仍然存在（奥尔特曼 1998 年）。
+
+## 5. 刑事司法和种族歧视
+
+近年来，刑事司法系统已成为美国公民权利讨论的焦点。许多评论家认为该系统等同于“新吉姆·克劳”，将黑人降为一种劣质的种姓状态（亚历山大 2012 年；有关吉姆·克劳类比的批评，请参见福尔曼 2012 年）。然而，即使不考虑这些论点，人们对美国刑事司法的各个方面都提出了公民权利方面的关注，从嫌疑人的调查和逮捕到死刑的判决。在涉及刑事司法的种族平等问题方面，美国并非唯一存在这类问题（克拉克：9-10）。例如，在法国，警方实施的基于种族的虐待是一个严重的公共关注问题，权利捍卫者办公室发现，被视为黑人或阿拉伯人的人被警方拦停的可能性是普通民众的 20 倍（布里登和莫伦 2017）。
+
+在警方确定谁犯罪时使用的最具争议的策略之一是种族(和族裔)定性。这一策略引发了一项指控，即它侵犯了其针对对象的公民权利，并且在某些情况下，法院已经同意了这一指控。例如，在*State v. Soto*案中，新泽西州的一家法院发现警方的交通检查针对黑人，并构成了对法律的“选择性执行”，违反了第 14 修正案的平等保护条款。尽管如此，关于警方何时、是否有正当理由使用种族来决定谁值得停下来询问的争论仍在继续。
+
+Risse 和 Zeckhauser 构建了一个在哲学上复杂的辩护种族歧视。他们认为，即使在像美国这样的种族主义社会，根据一系列情况中可能存在的条件，这种 profiling 也是可以被证明是合理的。他们的论点结合了功利主义和义务论的考量：功利主义的部分认为 profiling 有助于维护公共利益，而义务论的论点旨在反驳那些认为 profiling 是令人反感的歧视行为，并对受到伤害的人不公平的主张。
+
+Risse 和 Zeckhauser 承认警察滥用可能与定性相结合，但他们坚称“滥用和定性... *是不同的问题*，必须独立评估”（139；原文强调）。定性是“任何警方发起的行动，依赖于种族、族裔或国籍，而不仅仅是个人行为”（136）。这种行动不一定涉及任何警察滥用行为，比如“粗鲁的言辞、贬低的要求、肢体强制或身体伤害”（138）。滥用“必须独立纠正”（139）定性。
+
+一些批评 profiling 的人认为它作为犯罪控制措施是完全无效的。Risse 和 Zeckhauser 指出，如果这种说法是正确的，那么问题就不存在：基于这一前提， profiling 是不合理的。但他们推断，即使一些 profiling 形式对犯罪控制没有任何实质贡献，似乎也不太可能所有形式都符合这一描述，鉴于“某些种族群体的成员与犯某些罪行的倾向之间存在显著相关性”（132）。
+
+少数族裔对定性感到委屈，里斯和泽克豪泽并没有忽视这一事实。然而，他们声称，这种委屈在很大程度上是基于社会的“根本系统性种族主义”（145），而定性对少数族裔造成的伤害与这种根本种族主义造成的伤害相比“较小”（169）。例如，如果取消定性，非裔美国人的状况会“仅略有”改善，“*保持其他一切不变*”（149；原文强调）。他们解释说，“定性本身附带的伤害是*表达性的*”（146；原文强调）。定性是“结构性劣势的象征”（147），但“并非…少数族裔心中伤痛的主要原因”（149）。在里斯和泽克豪泽的功利主义计算中，抵消更有效的犯罪控制带来的好处的伤害“相对较小”（149），即象征性伤害加上被警察拦下询问的暂时不便。在他们看来，这些较小的伤害在许多情况下可能会被好处所抵消。
+
+此外，里瑟（Risse）和泽克豪泽（Zeckhauser）认为，单纯的种族识别并不具有令人反感的歧视性，因为它既没有“维持或建立*压迫关系*”的意图或效果（153；原文强调）。当它不涉及滥用时，识别的目的是为了控制犯罪，而且，由于识别“本身是依赖于潜在的压迫关系”（154），并且（主要）造成象征性伤害，它“不会加剧[一种]压迫关系”（155）。
+
+评论家批评 Risse 和 Zeckhauser 认为，个人特征分析不仅是社会潜在种族主义的象征，而且实质上也助长了这种种族主义及其有害影响。Eidelson 认为，“将种族作为犯罪的替代品很可能被视为对种族主义假设的验证，从而培养出直接导致[种族]压迫关系的偏见”（2015: 215）。在类似的论调中，Lever 主张，个人特征分析“鼓励我们将黑人视为犯罪者”，而“种族特征分析加剧了警察滥用问题”，因为这种个人特征分析“传达了一个信息，即黑人是……危险的”（2007: 24）。Hosein 认为，黑人和某些其他群体，如穆斯林和中东血统的人，“可以合理地假定，个人特征分析有助于警察滥用，因为警察（即使是错误地）认为这使他们有权对这些群体采取严厉手段”（2018: e17；原文强调）。
+
+Hosein 还提出了更根本的论点，即对黑人和其他群体进行定性分析的政策让这些群体的成员有充分理由认为政府“在很大程度上忽视了[他们]的权利和利益”，相对于社会其他部分，从而将他们置于“较低的政治地位”(e5)。与对定性分析进行功利辩护相对立，他认为政府有义务遵循正义，避免采取让政治共同体成员合理地认为他们被置于这种地位的行动：政府必须确保平等公民权利，并且所有公民必须有足够的理由相信平等对他们来说是得到保障的。
+
+Mogensen 认为，与 Risse 和 Zeckhauser 相反，种族歧视是*pro tanto*和固有错误的，因为它不尊重一个人希望以反映她的优点的方式对待的利益，这些优点是由她可以控制的个人特征决定的。他指出，基于关于未选择特征的统计概括的其他形式的差别对待，比如获得驾驶执照的最低年龄要求，也是不公平的，因为它们不尊重这种利益。但 Mogensen 的核心主张是，与其他形式不同，“对黑人公民的种族歧视在于它是一种特别棘手的问题，因为它是构成...对黑人施加的一系列不公正行为之一的一部分，通过这些行为，他们被压制到白人之下”（2019: 467）。他指出，在他看来，即使种族歧视对公众保密并提高了执法效率，它也是非常错误的。
+
+Reiman 同意 Risse 和 Zeckhauser 的观点，即某些形式的种族特征识别可以对整体安全做出重要贡献，但他也支持 Lever 的观点，即在一个种族主义社会中进行种族特征识别很可能会加剧种族主义，并增加那些受害者权利的侵犯。虽然他认为“特征识别本质上并非种族主义”（2011: 17），Reiman 认为 Risse 和 Zeckhauser 并未为证明特征识别合理性设定足够高的标准。他认为，鉴于其可能加剧现有种族主义，“种族特征识别[必须]仅用于严重犯罪，并且仅在有大量证据表明其显著增加对此类犯罪的制作者的逮捕可能性的情况下使用”（17）。在类似的论调中，Hosein 认为，只有当社会利益“迫切”且“没有其他方式可以实现相同利益而不造成类似的不公正”时，特征识别才是合理的（2018: e16）。对于 Reiman、Hosein 和其他批评者来说，对种族特征识别与系统性不公正的联系的充分认识迫使人得出结论，即如果特征识别可以被证明是合理的，那么它只能在比 Risse-Zeckhauser 论点允许的更狭窄的情况下被证明是合理的。
+
+## 6. 婚姻平等
+
+近年来最具争议的公民权利问题之一是是否应该将婚姻法扩大到包括同性伴侣。在过去的二十年里，许多国家已经放宽了他们的法律，使这样的伴侣能够结婚，尽管一些人反对认为改变传统婚姻理解（作为一名男子和一名女子的联合）在道德上或神学上是不合理的。目前承认同性婚姻的国家包括荷兰、比利时、加拿大、南非、西班牙、挪威、瑞典、墨西哥、葡萄牙、冰岛、阿根廷、丹麦、巴西、法国、英格兰、新西兰和美国。在这些国家中，大多数通过立法实现了全国范围的同性婚姻。但在美国，最高法院在 2015 年的*奥伯格费尔诉霍奇斯*案中将同性婚姻从十个州扩展到了五十个州。
+
+大多数在哲学和法律理论领域工作的学者都支持同性和异性伴侣平等对待的原则，并认为平等对待要求同性婚姻合法化（Wardle 1996; Eskridge 1996; Balkin 2020）。然而，文献中也有一些持不同意见的声音，反对婚姻平等。这些声音并不支持将同性关系定为刑事犯罪的传统做法，尽管一些人认为这种关系是“明显不值得人类和不道德的”（Finnis 1996: 14）。但他们都认为，将婚姻扩展到同性伴侣违背了重要的价值观和原则。
+
+许多支持同性婚姻权利的人认为，在基于性取向剥夺一个人结婚权利的做法与基于种族剥夺该权利一样，都是不可接受的：这两种限制形式都是对一项基本公民权利的任意剥夺（Koh 等人：18-19 和 42）。然而，这样的论点推进得太快。在反对者看来，种族和性取向之间的类比是不恰当的：他们提出的反对同性婚姻的考虑，如儿童利益或异性性行为的独特性，并不适用于跨种族婚姻。因此，关于同性婚姻的论点必须与这些考虑进行辩论。
+
+Finnis (1996), Lee (1997) 和 George (1997) 通过援引自然法来反对同性婚姻。然而，与传统的自然法理论不同，他们的版本并不依赖于任何明确的神学或形而上学主张。相反，它援引了独立的实践推理原则，阐明了行动的基本理由。这些理由是行动能够实现的基本善，对于 Finnis、Lee 和 George 来说，包括“婚姻，即男人和女人的结合” (Finnis 1996: 4)。同性恋行为、自慰和所有婚外性行为严格针对“个人满足”，不能成为任何“共同利益”的一部分。这些行为“损害了自愿选择它们的人的品格” (Lee 和 George, 1997: 135)，并且，在采取这些行动时，个人变成了他的激情的奴隶，让他的理性被他对感官快乐的原始欲望所取代。
+
+根据芬尼斯的说法，当自愿性行为是私人的时候，政府可能不会禁止它，但政府“可以正确地判断，拒绝认为‘同性恋的生活方式’是一种有效的、人类可接受的选择和生活形式”（1996 年：17）。对于芬尼斯、李和乔治来说，由于同性关系的道德缺陷，同性恋关系和异性恋关系的平等对待是不可能的。
+
+Macedo 通过辩论回应 Finnis，认为“所有不孕异性夫妇可以分享的好处，同样也可以被忠诚的同性伴侣分享”（1996: 39）。Macedo 指出 Finnis 并没有谴责不孕异性夫妇的性行为。但 Finnis 回应道，同性伴侣和不孕异性夫妇之间存在一个相关区别：后者而非前者在发生性行为时是“生物上”统一的。Lee 和 George 基本上提出了相同观点：只有异性夫妇可以“真正成为一个身体，一个有机体”（1997: 150）。但 Macedo 指出，从生物学角度来看，实现统一的并不是男人和女人，而是精子和卵子（1996: 37）。可以补充的是，“生物统一”论点似乎与 Finnis 声称他的立场“并不试图从非规范（自然事实）前提中推导规范结论”（1997: 16）相矛盾。更重要的是，Macedo 和 Koppelman 提出了一个关键观点，即在亲密关系中实现的人类善是“相互承诺和稳定参与”的功能，并且同性伴侣可以实现异性伴侣可以获得的“确切类型的人类善”（Koppelman, 1997: 1649）。因此，对同性伴侣在法律下的平等对待，包括承认同性婚姻，将消除这些伴侣面临的不可辩解的障碍，以实现这种人类善。
+
+Corvino 以这种方式解释了婚姻提供的一个中心人类利益：婚姻涉及两个个体相互和公开承诺成为对方在分享生活带来的好处和减轻负担方面的“头等重要人物”（Corvino and Gallagher: 15）。不能生育的异性夫妇以及因身体原因无法进行性关系的人都有权利结婚以确保这一利益，Corvino 认为“一旦国家为不同性别的伴侣提供婚姻作为选择，即使他们不能或选择不要孩子；...[而且] 即使他们无法进行性交，...但是然后拒绝[婚姻] 同性伴侣，这就是对待公民不平等”（89-90）。
+
+Gallagher 拒绝了 Corvino 的观点，主张“婚姻的公民或‘公民’关键任务是规范男女之间的性关系，以减少孩子们…将面临没有父亲的负担的可能性，并增加下一代将由他们的父母在一个家庭中抚养的可能性，其中父母双方都致力于彼此和他们的孩子”（Corvino and Gallagher: 96）。她认为“同性婚姻是对‘婚姻’一词含义的深刻改变…。[因为]它将婚姻与其根基于男女性关系与其他关系不同的人类现实的联系断开”（101）。
+
+然而，加拉格尔声称科尔维诺的观点建立在“两个男人或两个女人的联合与丈夫和妻子的联合完全相同”的前提上是不正确的（132）。问题在于这两种类型的联合在婚姻所服务的价值观方面是否相似。科尔维诺声称，至少在一个重要价值观方面，即为那些希望共同公开承诺成为彼此“头等重要人物”的夫妇提供支持时，没有相关差异。加拉格尔在写道“同性婚姻之所以首要错误并非因为其后果，而是因为这是一个谎言”（178）时削弱了自己的观点，具体来说，同性伴侣“像夫妻一样”（177）这一谎言。相反，根据她强调婚姻如何保护儿童（109-115），她更应该主张，调节男女之间的性关系符合儿童利益是婚姻最重要的社会目的，并且婚姻平等威胁到婚姻发挥这一功能的能力；她不应否认婚姻还有其他社会有价值的功能。
+
+Corvino 确认婚姻具有重要的保护儿童功能，同时拒绝认为这是唯一功能（192）。他与加拉格尔的主要分歧在于其他功能的重要性以及是否有充分理由认为婚姻平等威胁到保护儿童的功能。Corvino 认为，剥夺同性伴侣获得婚姻可以为他们提供的人类福祉并不是一件小事，而加拉格尔严重低估了这种获得对他们意味着什么（198）。鉴于同性伴侣如此坚决和积极地为婚姻平等而奋斗，很难不同意 Corvino 的观点。
+
+援引研究表明，男同性恋伴侣对性忠诚度的承诺相对较弱，并相对不太关心伴侣在关系之外发生性关系，加拉格尔认为，同性婚姻会削弱异性恋伴侣对忠诚的承诺，从而破坏了一项重要的婚姻规范。而且，随着忠诚规范严重削弱，异性恋婚姻会变得更加不稳定，儿童的利益也会受到损害。
+
+在科尔维诺的判断中，加拉格尔的论点建立在一个“关于同性伴侣推翻多数规范权力的不可信的经验性主张”上（195）。同性婚姻只会占所有婚姻的一小部分，而那些对忠诚无动于衷的男同性恋婚姻将只占极小比例。可以补充科尔维诺的批评，即使加拉格尔的主张并非不可信，它似乎只不过是一种猜测，基于这种猜测的理由剥夺了一部分已经明确表示这一权利对他们非常重要的成年人口中的公民权利是有问题的，与加拉格尔相反。加拉格尔可能会回应说，对社会的利益至关重要，声称未来几代人的幸福将岌岌可危。但传统婚姻的捍卫者对婚姻法的每一次自由化都提出了基本相同的主张，从废除妇女财产受夫控制的法律（使已婚妇女几乎完全处于丈夫的法律权力之下）到当前关于同性婚姻的争议。
+
+Girgis, Anderson, and George 认为，同性婚姻的辩护建立在对婚姻的错误理解上，他们称之为“修正主义观点”（4）。这种观点源自 20 世纪 60 年代的性革命，拒绝了几乎在那之前几乎所有社会中盛行的理解，“结合观”（3）。
+
+根据婚姻观点，婚姻是一种永久的承诺，“旨在生育和家庭生活”，构成男女之间的“全面联合”。这种联合使配偶在“身体和心灵上”联合，并且是通过“性交封印”的。这样的联合是“一种基本的人类善，一种独特的繁荣方式”。而婚姻夫妇的性交“有着特殊之处”，因为它构成了“最高形式的身体统一”，这种统一在任何其他关系中都无法实现。在进行性交时，婚姻伴侣“不仅仅是接触或交织”，而是以一种“具有生殖意义”的方式联合， “在身体上体现了他们特定的婚姻承诺”。相比之下，修正主义观点认为婚姻本质上是“情感联合和同居”的问题。性行为可以增进情感联系，但对于婚姻联合并非必不可少，当情感冷却时，伴侣们可能会合理地寻求结束这种联合。
+
+Girgis 等人声称，修正主义观点扭曲了我们对婚姻的理解。他们驳斥 Corvino 关于婚姻是拥有“第一人”的想法，认为这“无法区分婚姻和简单的伴侣关系”（15）。修正主义观点也无法解释为什么国家应该介入婚姻监管，或解释婚姻的核心规范——永久性和性排他性。
+
+Corvino 可以回应说，他对婚姻平等的辩护并不建立在修正主义立场上，尽管他确实拒绝了婚姻的结合观。相反，Corvino 建议一种理解婚姻的方式，使同性伴侣能够获得那些与异性性交无关的婚姻实质性利益。公开和合法认可的稳定关系中的安全性是其中之一。当感情“冷却”时结束关系的自由并不是 Corvino 对婚姻理解的一部分。虽然陪伴和友谊可以提供一个“第一人”，但它们无法像合法认可的婚姻那样提供同等保证。
+
+Girgis 等人可能会拒绝 Corvino 的观点，理由是它仅仅基于与个体感受安全程度以及如果关系是开放性的话他们会有多大可能结束关系等心理考虑，而他们的观点则建立在关于客观人类善的*先验*原则上。然而，Corvino 可以回应说，他对婚姻的理解涉及的人类善并不比 Girgis 的“全面联合”更不客观。此外，Corvino 可能会指出，即使假设异性之间的性交将男性和女性伴侣联系在一起，他的论点也可以在不诉诸诸如准形而上学命题这样的有争议主张的情况下进行，即已婚伴侣之间的性交是“最高形式”的身体统一，其他形式的性活动只是“纯粹”是身体部分的接触或相互锁定。
+
+Girgis 等人认为，婚姻的结合账户反映了其真正的本质，但自 19 世纪对掩护法的批评开始以来，大多数民主社会似乎已经拒绝了这一立场，这导致了婚姻法和规范的自由化。 Blackstone 总结了 18 世纪的法律：“通过婚姻，丈夫和妻子在法律上是一人：也就是说，在婚姻期间，女性的实际存在被暂停，或者至少被合并和整合到丈夫的实体中”（441）。在一个多世纪的时间里，掩护法受到限制，最终被取消，以支持丈夫和妻子之间的婚姻平等，尽管传统主义者反复主张这些变化违反了婚姻的本质，即“丈夫和妻子之间的人的结合”（441）。婚姻社会理解的后续变化体现在拒绝要求性交以完成婚姻以及无过错离婚法的传播中。鉴于对婚姻理解的如此根本性变化已经发生并被载入法律，目前不清楚法律和社会如何能够一贯或公正地排除同性伴侣形成婚姻关系。
+
+## 7. 残疾
+
+在 20 世纪 70 年代和 80 年代，残疾人越来越多地主张他们在法律和社会中被视为二等公民。他们组织成一个公民权利运动，要求立法帮助他们获得自由和平等公民的地位。反对基于残疾的歧视的保护被写入了[加拿大权利和自由宪章](http://laws-lois.justice.gc.ca/eng/charter/)、[欧洲联盟基本权利宪章和《残疾人权利公约》](http://www.europarl.europa.eu/charter/default_en.htm)。美国的残疾权利运动以 1990 年通过的[《美国残疾人法案》](http://www.usdoj.gov/crt/ada/pubs/ada.txt)(ADA)告终。ADA 已成为澳大利亚、印度和以色列等国立法的模范。
+
+残疾权利运动始于这样一个观念：基于残疾的歧视在道德上并无与基于种族的歧视有任何重要区别。该运动的目的是将保护基于种族的人的反歧视原则，以法律形式确立起来。但一些理论家质疑这种类比的适用程度。他们指出，将反歧视规范应用于残疾，例如通过安装通往建筑物的坡道或提供特殊教育计划，需要考虑到人们之间的身体或精神差异。这似乎是基于一个人的身体或精神特征进行的治疗，显然与传统反歧视原则背后的“色盲”理想恰恰相反。
+
+即使基于种族的平权行动似乎并不真正与考虑残疾的反歧视政策平行。平权行动的倡导者断言，社会理想是不应该根据一个人的种族或肤色来对待他们。种族意识政策被视为能够将社会朝着这一理想推进的工具（Wasserstrom：2001）。
+
+相比之下，旨在反对基于残疾的歧视的政策并不明智地被理解为临时措施或朝着一个目标迈出的步骤，即人们不会因为他们的残疾而受到待遇。这些政策永久地确立了这样一个观念，即在设计建筑物或公共汽车或构建我们物理社会环境的其他方面时，我们必须对残疾人的残疾作出响应，以便残疾人能够获得“公平的机会平等”（Rawls 2001: 43–44; Hartley 2009）。对残疾人进行永久性“适应”在如何理解残疾情境下的反歧视规范与种族情境下的反歧视规范之间标志着一个重要区别。然而，重要的是要认识到，在基本原则层面上，基于残疾的歧视之所以在道德上令人反感甚至不公正，其原因与种族歧视之所以如此的原因是平行的。在个体层面上，对残疾人的不利待遇往往根植于恶意、漠视和道德的任意性。在系统层面上，这种待遇造成了一种社会劣势模式，将残疾人降为二等公民的地位。在这两个方面，当涉及残疾人时，民权法的根据并没有什么不同。
+
+另一种认为残疾与种族不同的方式涉及残疾人经常面临的特殊需求，这些需求使他们的生活成本更高。即使社会构建的物理环境旨在为残疾人提供公平的机会平等，并确保他们的基本公民和政治自由，这些额外成本也会存在。为了有效地发挥作用，残疾人可能需要购买药物、疗法或其他形式的援助，而健全的人不需要这些来维持正常功能。在种族问题上似乎没有任何与残疾人的特殊需求相对应的情况。公民权利运动的核心理念是黑人并不需要任何特殊的需求：他们所需要的只是摆脱种族主义的重负，一旦实现了这一点，他们就会像社会中的其他人一样茁壮成长或失败。
+
+然而，Silvers (1998) 认为，种族和残疾之间的平行关系仍然存在：所有残疾人可以要求社会的公平机会和与其他人相同的基本公民权利作为正义问题。残疾人可能有的任何特殊需求并不能成为任何正当的正义要求的依据。另一方面，Kittay (2000) 认为，残疾人的特殊需求是基本正义问题。她关注严重智力残疾人，对于他们来说，在劳动市场上的公平机会和在公共领域中的政治权利将毫无意义，并且关注那些有责任照顾严重残疾人的家庭。Pogge (2000) 也质疑了 Silvers 的观点，认为否认正义要求社会提供资源来满足严重残疾人的需求是不合理的。然而，也许在涉及那些有能力“充分参与社会的政治和公民制度，更广泛地说，参与其公共生活”(Pogge, 2000: 45)的残疾人时，Silvers 方法的某些版本是可以被证明是正当的。对于这样的人来说，平等公民权利的基本公民权利要求他们有平等的机会参与这些制度，而不受其残疾的影响。尽管种族模式的某些方面可能无法应用于患有严重智力残疾的人，但 1950 年代和 60 年代美国民权斗争背后的原则仍然是理解和打击形式不公正歧视的重要规范资源，这些问题直到最近才被哲学家和更广泛的社会所关注。
+
+巴恩斯专注于身体残疾类别，并认为适用于该类别的条件“极其异质”（2016 年：9 和 46），并且没有任何共同特征适用于所有（身体上）残疾人的身体使他们成为残疾人。在她看来，残疾是一个社会构建的范畴，“人们在公民权利斗争中组织自己时发现它很有用”，“残疾*就是*残疾权利运动正在为之促进正义的任何事物”（43 - 原文强调）。巴恩斯补充说，该运动对于哪些人和条件被纳入其范围的判断并不是任意的，而是“基于规则的”，并且隐含地将残疾类别视为一个“群集概念”，适用于具有“一些足够数量的特征，例如：受到社会污名和偏见的影响；被视为不寻常或非典型；使日常任务变得困难或复杂；引起慢性疼痛；造成进入公共场所的障碍，...需要使用移动辅助工具或辅助技术[和]需要医疗护理”（45）。在巴恩斯看来，将各种被归类为残疾的条件统一起来的是它们“是残疾权利运动试图使世界成为更适合居住的事物”（48 - 原文强调）。要明确的是，她的观点不是该运动在承认一种“事物”，即使在其不存在时也会存在，而是该运动创造了我们称之为“残疾”的事物。因此，如果我们询问适用于身体残疾类别的每个条件的共同点是什么，那么巴恩斯认为，最具启发性的答案是残疾权利运动正在为患有该疾病的人争取公正对待。
+
+然而，很难看出巴恩斯的说法如何能充分解释为什么一些带有污名的特征，比如失明和聋哑，同时被视为残疾，而另一些，比如皮肤黝黑和犹太人，则不被视为残疾。在吉姆·克劳时期，黑皮肤是带有污名的，不寻常的，使得日常任务（比如获得医疗帮助或银行贷款）变得困难，并导致无法进入公共场所（在公园、医院、浴室和游泳池等公共场所发现“仅限白人”标志）。然而，民权运动并非明确或暗示着要消除基于残疾的劣势，尽管种族歧视和残疾歧视之间存在重要的相似之处。
+
+## Legal Cases and Statutes
+
+* Allen v. State Board of Elections 89 S.Ct. 817 (1969).
+* Americans With Disabilities Act. 42 U.S.C. §§12101–12213 (1999).
+* [Brnovich v. D.N.C. 594 U.S. __ (2021) available online](https://www.supremecourt.gov/opinions/20pdf/19-1257_g204.pdf).
+* Civil Rights Act of 1866. 42 U.S.C §1981 (1999).
+* Civil Rights Act of 1964. 42 U.S.C. §§2000e et seq.
+* [Civil Rights Cases 109 U.S. 3 (1883) available online](https://supreme.justia.com/cases/federal/us/109/3/).
+* [Giles v. Harris 189 U.S. 475 (1903) available online](https://supreme.justia.com/cases/federal/us/189/475/).
+* [Minor v. Happersett. 88 U.S. 162 (1874) available online](https://www.law.cornell.edu/supremecourt/text/88/162).
+* NAACP v. McCrory 831 F3d 204 (4th Cir. 2016).
+* [Obergefell v. Hodges 576 U.S. 644 (2015) available online](https://supreme.justia.com/cases/federal/us/576/14-556/).
+* [Shelby County v. Holder 570 U.S. 529 (2013) available online](https://www.law.cornell.edu/supremecourt/text/12-96).
+* [South Carolina v. Katzenbach 383 U.S. 301 (1966) available online](https://supreme.justia.com/cases/federal/us/383/301/).
+* State v Soto 734 A.2d 350 (1996).
+* [U.S. v. Reese 92 U.S. 214 (1875) available online](https://supreme.justia.com/cases/federal/us/92/214/).
+* Voting Rights Act 42 U.S.C. §§1973–1973aa-6.
+
+## Bibliography
+
+* Ackerman, Bruce, 2014, *The Civil Rights Revolution*, Cambridge, MA: Harvard University Press.
+* Alexander, Michelle, 2012, *The New Jim Crow*, revised edition, New York: New Press.
+* Altman, Andrew, 1998, “Race and Democracy: The Controversy over Racial Vote Dilution,” *Philosophy and Public Affairs*, 27: 175–201.
+* Amar, Akhil Reed, 1998, *The Bill of Rights*, New Haven: Yale University Press.
+* Balkin, Jack M. (ed.), 2020, *What Obergefell v. Hodges Should Have Said*, New Haven: Yale University Press.
+* Barnes, Elizabeth, 2016. *The Minority Body*, New York: Oxford University Press.
+* Barry, Brian, 2001, *Culture and Equality*, Cambridge, MA: Harvard University Press.
+* Becker, Lawrence, 2005, “Reciprocity, Justice, and Disability,” *Ethics*, 116: 9–39.
+* Blackstone, William, 1803 [1996], *Blackstone’s Commentaries* (Volume II), St. George Tucker (ed.), Union, NJ: Lawbook Exchange.
+* Bredeen, Aurelien and Benoît Morenne, 2017, “Fury Arises in France Over Accusations Police Beat and Raped a Black Man,” *New York Times*, February 8. [Bredeen and Morenne 2017 available online](https://www.nytimes.com/2017/02/08/world/europe/fury-rises-in-france-over-accusations-police-beat-and-raped-a-black-man.html).
+* Choudhry, Sujit, 2002, “National Minorities and Ethnic Immigrants: Liberalism’s Political Sociology,” *Journal of Political Philosophy*, 10: 54–78.
+* Clarke, Amy, 2012, “People of African Descent in Europe,” briefing paper for the U.K. Race and Europe Network. [Clarke 2021 available online](https://www.ukren.org/uploads/Black%20Europeans%20Briefing%20Paper%20Summer%202012.pdf).
+* Corvino, John and Maggie Gallagher, 2012, *Debating Same-Sex Marriage*, New York: Oxford University Press.
+* Davidson, Chandler and Bernard Grofman (eds.), 1994, *Quiet Revolution in the South: The Impact of the Voting Rights Act, 1965–1990*, Princeton: Princeton University Press.
+* Davis, Angela, 2016, *Freedom is a Constant Struggle*, Chicago: Haymarket Books.
+* Du Bois, W.E.B., 1935 [1992], *Black Reconstruction in America*, New York: Free Press.
+* Dworkin, Ronald, 1995, *Freedom’s Law*, Cambridge, MA: Harvard University Press.
+* Egidy, Stefanie, 2011, “The Fundamental Right to the Guarantee of a Subsistence Minimum in the Hartz IV Decision of the Federal Constitutional Court,” *German Law Journal*, 12: 1961–1982.
+* Eskridge, William, 1996, *The Case for Same-Sex Marriage*, New York: Free Press.
+* Eskridge Jr., William and Darren R. Spedale, 2006, *Gay Marriage: For Better or For Worse?: What We’ve Learned from the Evidence*, New York: Oxford University Press.
+* Finnis, John, 1997, “The Good of Marriage and the Morality of Sexual Relations,” *American Journal of Jurisprudence*, 42: 97–134.
+* –––, 1996, “Natural Law Theory and Limited Government,” in Robert P. George (ed.), *Natural Law, Liberalism and Morality*, Oxford: Oxford University Press, pp. 1–26.
+* Forman, James Jr., 2012, “Racial Critiques of Mass Incarceration,” *New York University Law Review*, 87: 21–69.
+* Gardner, John, 1998, “On the Ground of Her Sex(uality),” *Oxford Journal of Legal Studies*, 18: 167–87.
+* George, Robert, 1993, *Making Men Moral*, Oxford: Clarendon Press.
+* Girgis, Sherif, Ryan T. Anderson, and Robert P. George, 2012, *What is Marriage? Man and Woman: A Defense*, New York: Encounter Books.
+* Habermas, Jurgen, 1996, “Citizenship and National Identity,” in *Between Facts and Norms*, Cambridge, MA: MIT Press, pp. 491–515.
+* Hartley, Christie, 2009, “Justice for the Disabled: A Contractualist Approach,” *Journal of Social Philosophy*, 40: 17–36.
+* Herron Michael D. and Daniel A. Smith, 2016, “Race, Shelby County, and the Voter Information Verification Act in North Carolina,” *Florida State Law Review* 43: 465–506.
+* Holmes, Stephen and Cass Sunstein, 1999, *The Cost of Rights*, New York: Norton.
+* Hosein, Adam Omar, 2018, “Racial Profiling and A Reasonable Sense of Inferior Political Status.” *Journal of Political Philosophy*, 26: e1–e20.
+* Keyssar, Alexander, 2000, *The Right to Vote*, New York: Basic Books.
+* Kittay, Eva F., 2000, “At Home with My Daughter,” in L.P. Francis and A. Silvers (eds.), *Americans with Disabilities*, New York: Routledge, pp. 64–80.
+* Koh, Harold Hongju, et al., 2015, “Brief for Foreign and Comparative Law Experts Harold Hongju Koh et al. as Amici Curiae in Support of Petitioners,” *Obergefell v. Hodges*, March 6. [Koh et al. brief available online](https://scholarship.law.duke.edu/faculty_scholarship/3446/).
+* Koppelman, Andrew, 1996. *Antidiscrimination Law and Social Equality*, New Haven: Yale University Press.
+* –––, 1997, “Three Arguments for Gay Rights,” *Michigan Law Review*, 95: 1636–67.
+* Kymlicka, Will, 1995, *Multicultural Citizenship*, Oxford: Clarendon Press.
+* –––, 1994, “Individual and Community Rights,” in J. Baker (ed.), *Group Rights*, Toronto: University of Toronto Press.
+* –––, 1989, *Liberalism, Community, and Culture*, Oxford: Clarendon Press.
+* Lee, Patrick and Robert Georgem, 1997, “What Sex Can Be: Self-Alienation, Illusion, or One-Flesh?” *American Journal of Jurisprudence*, 42: 135–57.
+* Lever, Annabelle, 2007, “What’s Wrong with Racial Profiling? Another Look at the Problem,” *Criminal Justice Ethics*, 26: 20–28.
+* Lilburne, John, et al., 1649. “An Agreement of the Free People of England” (‘Leveller Manifesto’), [Lilburne 1649 available online](http://www.yorku.ca/comninel/courses/3025pdf/AgreementPeople.pdf).
+* Lim, Chong-Ming, 2018, “Disabilities are also Medically Interesting Constraints on Legitimate Interests,” *Mind*, 127: 977–1002.
+* Lippert-Rasmussen, Kasper, 2014, *Born Free and Equal?*, Oxford: Oxford University Press.
+* Locke, John, 1690 [1952], *The Second Treatise of Government*, Thomas P. Peardon (ed.), Indianapolis, Indiana: Bobbs-Merrill.
+* Macedo, Stephen, 1996, “Sexual Morality and the New Natural Law,” in R.P. George (ed.), *Natural Law, Liberalism, and Morality*, Oxford: Oxford University Press.
+* MacKinnon, Catherine, 1987, *Feminism Unmodified*, Cambridge, MA: Harvard University Press.
+* Marshall, T.H. and Tom Bottomore, 1987 [2014], *Citizenship and Social Class*, London: Pluto Press.
+* Miller, David, 2013, *Justice for Earthlings*, Cambridge: Cambridge University Press.
+* Mogensen, Andreas, 2019, “Racial Profiling and Cumulative Injustice,” *Philosophy and Phenomenological Research*, XCVIII: 452–77.
+* Pateman, Carole, 1988, *The Sexual Contract*, Stanford: Stanford University Press.
+* Patten, Alan, 2014, *Equal Recognition*, Princeton: Princeton University Press.
+* Pogge, Thomas, 2000, “Justice for People with Disabilities,” in L.P. Francis and A. Silvers (eds.), *Americans with Diabilities*, New York: Routledge, pp. 34–53.
+* Rawls, John, 1995, “Political Liberalism: Reply to Habermas,” *Journal of Philosophy*, 92: 132–80
+* –––, 2001, *Justice as Fairness: A Restatement*, Cambridge, MA: Harvard University Press.
+* Reiman, Jeffrey, 2011, “Is Racial Profiling Just? Making Criminal Justice Policy in the Original Position,” *Journal of Ethics*, 15: 3–19.
+* Risse, Mathias, 2007, “Racial Profiling: A Reply to Two Critics,” *Criminal Justice Ethics*, 26: 4–19.
+* Risse, Mathias, and Richard Zeckhauser, 2004, “Racial Profiling,” *Philosophy and Public Affair*, 32: 131–170.
+* Schmidt, Christopher W., 2021, *Civil Rights in America: A History*, New York: Cambridge University Press.
+* Silvers, Anita, 1998, “Formal Justice,” in A. Silvers, D. Wasserman and M. Mahowald (eds.), *Disability, Difference, Discrimination*, Lanham, MD: Rowman and Littlefield: 13–145.
+* Taylor, Charles, 1994, “The Politics of Recognition,” in A. Guttman (ed.), *Multiculturalism*, Princeton: Princeton University Press.
+* U.S. Commission on Civil Rights, 2018, “An Assessment of Minority Voting Rights Access in the United States.” [2018 Assessment available online](https://www.usccr.gov/files/pubs/2018/Minority_Voting_Access_2018.pdf).
+* Wardle, Lynn, 1996, “A Critical Analysis of Constitutional Claims for Same-Sex Marriage,” *Brigham Young Law Review*, 1996: 1–96
+* Wasserstrom, Richard, 2001, “Racism and Sexism,” reprinted in B. Boxill (ed.), *Race and Racism*, Oxford: Oxford University Press, pp. 307–43.
+* West, Robin, 2019, *Civil Rights*, Cambridge: Cambridge University Press.
+* Wright, Gavin, 2013, *Sharing the Prize*, Cambridge, MA: Harvard University Press.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=civil-rights). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/civil-rights/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=civil-rights&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/civil-rights/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Civil Rights Division](http://www.usdoj.gov/crt/crt-home.html), U.S. Department of Justice.
+* [The Civil Rights Project](http://www.civilrightsproject.ucla.edu/), UCLA.
+* [U.S. Commission on Civil Rights](http://www.usccr.gov/)
+* [Cornell University Legal Information Institute: Civil Rights](http://www.law.cornell.edu/topics/civil_rights.html)
+* [U.S. Equal Employment Opportunity Commission](http://www.eeoc.gov/)
+* [Human Rights Quarterly](http://muse.jhu.edu/journals/human_rights_quarterly/toc/hrq24.2.html)
+* [International Covenant on Civil and Political Rights](http://www1.umn.edu/humanrts/instree/b3ccpr.htm)
+* [International Covenant on Economic, Social and Cultural Rights](http://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx)
+* [International Human Rights Instruments](http://www1.umn.edu/humanrts/instree/ainstls1.htm)
+
+## Related Entries
+
+[affirmative action](https://plato.stanford.edu/entries/affirmative-action/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [disability: and justice](https://plato.stanford.edu/entries/disability-justice/) | [discrimination](https://plato.stanford.edu/entries/discrimination/) | [feminist philosophy, interventions: philosophy of law](https://plato.stanford.edu/entries/feminism-law/) | [homosexuality](https://plato.stanford.edu/entries/homosexuality/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [representation, political](https://plato.stanford.edu/entries/political-representation/) | [rights: group](https://plato.stanford.edu/entries/rights-group/) | [rights: human](https://plato.stanford.edu/entries/rights-human/) | [social minimum [basic income]](https://plato.stanford.edu/entries/social-minimum/)
+
+### Acknowledgments
+
+The editors would like to thank Jesse Gero for spotting several typographical errors and formatting errors of other kinds, and for taking the time to bring these to our attention.
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+[Andrew Altman](http://philosophy.gsu.edu/profile/andrew-altman/)
