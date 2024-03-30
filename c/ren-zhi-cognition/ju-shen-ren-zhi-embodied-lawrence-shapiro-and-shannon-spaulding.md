@@ -1,6 +1,6 @@
 # 具身认知 embodied (Lawrence Shapiro and Shannon Spaulding)
 
-*首次发布于 2021 年 6 月 25 日星期五*
+_首次发布于 2021 年 6 月 25 日星期五_
 
 具身认知是一个广泛的研究项目，汲取并激发了心理学、神经科学、行为学、哲学、语言学、机器人学和人工智能领域的研究成果。传统认知科学虽然也涵盖了这些学科，但它在一个与计算主义相结合的心智观念中找到了共同目标：心理过程是计算过程；大脑作为计算机，是认知的所在。相比之下，具身认知在各种程度上拒绝或重新制定了认知科学的计算承诺，强调了一个主体的物理身体在认知能力中的重要性。具身认知研究者的共同观念是，身体或身体与环境的互动在认知方面构成或有助于认知，这需要一个新的框架来进行研究。心理过程不是计算过程，或者不仅仅是计算过程。大脑不是计算机，或者不是认知的所在。
 
@@ -29,13 +29,13 @@
 * [6. 具身认知的范围](https://plato.stanford.edu/entries/embodied-cognition/#ReacEmboCogn)
 * [6.1 社会认知](https://plato.stanford.edu/entries/embodied-cognition/#SociCogn)
 * [6.2 道德认知](https://plato.stanford.edu/entries/embodied-cognition/#MoraCogn)
-* [7. 结论](https://plato.stanford.edu/entries/embodied-cognition/#Conc_1)
+* [7. 结论](https://plato.stanford.edu/entries/embodied-cognition/#Conc\_1)
 * [参考文献](https://plato.stanford.edu/entries/embodied-cognition/#Bib)
 * [学术工具](https://plato.stanford.edu/entries/embodied-cognition/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/embodied-cognition/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/embodied-cognition/#Rel)
 
----
+***
 
 ## 1. 具身认知的反衬和启示
 
@@ -47,7 +47,7 @@
 
 ### 1.1 生态心理学
 
-一种计算心理学家和生态心理学家之间的主要分歧涉及生物体暴露的刺激的性质。计算心理学家在很大程度上将这些刺激视为，用乔姆斯基的术语来说，*贫乏的*（乔姆斯基 1980）。婴儿接触到的语言话语本身并不包含足够的信息来指示一种语言的语法。同样，刺激生物体视网膜的光中存在的视觉信息本身并不指明生物体环境中表面的布局。视觉知觉面临着“逆光学”问题。对于视网膜上的任何光模式，存在无限多个可能产生该模式的远端表面。因此，视觉系统似乎面临着一个不可能完成的任务——虽然可以计算反射表面在视网膜上产生的光模式，但这个问题的逆问题似乎是无法解决的，然而视觉系统却一直在解决这个问题，并且从现象学的角度来看，是立即的。
+一种计算心理学家和生态心理学家之间的主要分歧涉及生物体暴露的刺激的性质。计算心理学家在很大程度上将这些刺激视为，用乔姆斯基的术语来说，_贫乏的_（乔姆斯基 1980）。婴儿接触到的语言话语本身并不包含足够的信息来指示一种语言的语法。同样，刺激生物体视网膜的光中存在的视觉信息本身并不指明生物体环境中表面的布局。视觉知觉面临着“逆光学”问题。对于视网膜上的任何光模式，存在无限多个可能产生该模式的远端表面。因此，视觉系统似乎面临着一个不可能完成的任务——虽然可以计算反射表面在视网膜上产生的光模式，但这个问题的逆问题似乎是无法解决的，然而视觉系统却一直在解决这个问题，并且从现象学的角度来看，是立即的。
 
 计算心理学家认为，刺激的不可避免的贫乏使认知系统需要进行推断。正如背景知识使您能够从雪地上的脚印推断出一只鹿经过一样，计算心理学家认为，认知系统依赖于潜意识的背景知识，根据刺激提供的部分线索推断出世界的样子。例如，根据计算心理学家的观点，对象大小的知觉将基于对象在视网膜上的图像大小以及观察者与对象之间距离的知识进行推断。类似地，对象形状的知觉是根据视网膜图像的形状以及关于对象相对于观察者的方向的知识进行推断的。
 
@@ -57,7 +57,7 @@
 
 连接主义系统提供了一种计算手段，它在许多情况下避开了计算认知科学中的符号主义承诺。与在内部存储的规则基础上操作符号的计算机相反，连接主义系统由节点网络组成，这些节点根据它们之间的加权连接来激发或抑制彼此的活动。不同的刺激将以不同的方式影响输入节点，在输入节点发送上游的激活值取决于节点的深层中的激活值，从而导致不同的激活模式。这种活动的结果将体现在最终节点层的激活值中——输出节点。
 
-因此，连接主义网络进行计算——它们将输入激活值转换为输出激活值——但是在这个计算过程中插入符号结构，以及一个中央处理器执行这些符号操作的明确规则，似乎是没有根据的。正如 Hatfield（1991）描述的连接主义网络，它们是*非认知的*，因为它们的运作不涉及计算论者坚持的认知陷阱，但在某种程度上仍然是计算的，因为刺激它们的输入节点会产生激活模式，从而导致输出节点中特定激活值的产生。有关连接主义的更多信息，请参阅[connectionism](https://plato.stanford.edu/entries/connectionism/)条目。
+因此，连接主义网络进行计算——它们将输入激活值转换为输出激活值——但是在这个计算过程中插入符号结构，以及一个中央处理器执行这些符号操作的明确规则，似乎是没有根据的。正如 Hatfield（1991）描述的连接主义网络，它们是_非认知的_，因为它们的运作不涉及计算论者坚持的认知陷阱，但在某种程度上仍然是计算的，因为刺激它们的输入节点会产生激活模式，从而导致输出节点中特定激活值的产生。有关连接主义的更多信息，请参阅[connectionism](https://plato.stanford.edu/entries/connectionism/)条目。
 
 许多具身认知研究者在连接主义网络中看到了一种概念化认知的新方式，并相应地解释认知过程。尽管符号论者（Fodor 1987）口中的“唯一游戏”是计算论者，但非符号解释认知可能终究是可能的。连接主义挑战获得动力的另一个因素是意识到动力系统理论的数学常常可以阐明连接主义网络中活动的展现模式，并且也可以扩展到其解释范围内包括连接主义网络所在的身体-环境相互作用。因此，一些具身认知研究者认为动力系统理论提供了最好的框架，可以从中理解认知。
 
@@ -79,11 +79,11 @@
 
 以下是本文讨论的大部分内容围绕的三个关于具身性的主题。
 
-**概念化：**  一个生物体的属性限制或约束了生物体可以获得的概念。也就是说，生物体理解其环境的概念取决于其身体的性质，因此具有不同具身形态的生物体会以不同的方式理解它们的环境。
+**概念化：** 一个生物体的属性限制或约束了生物体可以获得的概念。也就是说，生物体理解其环境的概念取决于其身体的性质，因此具有不同具身形态的生物体会以不同的方式理解它们的环境。
 
-**替换：**  传统认知科学所依赖的计算概念数组，包括*符号*、*表示*和*推理*，必须被放弃，以便采用更适合研究以身体为基础的认知系统的其他概念。
+**替换：** 传统认知科学所依赖的计算概念数组，包括_符号_、_表示_和_推理_，必须被放弃，以便采用更适合研究以身体为基础的认知系统的其他概念。
 
-**构成：**  身体（也许还有世界的某些部分）不仅仅在因果上对认知过程起作用：它在认知中扮演构成性角色，实质上是认知系统的一部分。因此，认知系统不仅仅包括神经系统和感觉器官。
+**构成：** 身体（也许还有世界的某些部分）不仅仅在因果上对认知过程起作用：它在认知中扮演构成性角色，实质上是认知系统的一部分。因此，认知系统不仅仅包括神经系统和感觉器官。
 
 以上论文并非旨在彼此独立排他——具身认知研究可能表现出同时倾向于多个方面。同样，具身认知的描述可能围绕更多更窄的主题进行组织（M. Wilson 2002）；然而，努力拓展主题，从而减少其数量，会冒着将具身认知的描述概括到程度，从而危及其所谓的新颖性的风险。
 
@@ -95,7 +95,7 @@
 
 ### 2.3 扩展认知
 
-与嵌入式认知密切相关，扩展认知从认知嵌入的主张转向另外主张，即增强代理人认知能力的环境和社会资源实际上是更大认知系统的*组成部分*，而不仅仅是对保留其传统位置完全位于代理人神经系统内的认知系统有用的工具（Clark 和 Chalmers 1998; Menary 2008）。一些人解释扩展认知的论点是认知实际上发生在神经系统之外——在认知任务中涉及的额外颅外资源内（Adams 和 Aizawa 2001; 2008; 2009; 2010）。其他人更谨慎地解释这个论点，声称代理人环境或身体的部分应被视为认知系统的一部分，即使认知并不发生在这些部分内，从而将认知系统扩展到代理人神经系统之外（Clark 和 Chalmers 1998; Wilson 1994; Wilson 和 Clark 2001）。
+与嵌入式认知密切相关，扩展认知从认知嵌入的主张转向另外主张，即增强代理人认知能力的环境和社会资源实际上是更大认知系统的_组成部分_，而不仅仅是对保留其传统位置完全位于代理人神经系统内的认知系统有用的工具（Clark 和 Chalmers 1998; Menary 2008）。一些人解释扩展认知的论点是认知实际上发生在神经系统之外——在认知任务中涉及的额外颅外资源内（Adams 和 Aizawa 2001; 2008; 2009; 2010）。其他人更谨慎地解释这个论点，声称代理人环境或身体的部分应被视为认知系统的一部分，即使认知并不发生在这些部分内，从而将认知系统扩展到代理人神经系统之外（Clark 和 Chalmers 1998; Wilson 1994; Wilson 和 Clark 2001）。
 
 ### 2.4 实践认知
 
@@ -109,29 +109,29 @@
 
 Lakoff 和 Johnson（1980; 1999）提出了对概念化的早期和有影响力的辩护。他们的论点始于一个合理的前提，即人类在学习或发展对陌生概念的理解时广泛依赖隐喻推理。例如，试图向一个孩子解释“选举”的含义。将“选举”与孩子已经理解的概念，比如“赛跑”，联系起来会让工作变得更容易。 “选举就像比赛”这个隐喻为介绍和解释“选举”概念的内容提供了一种支架。候选人就像希望赢得比赛的“赛跑者”。他们会采取各种“策略”。他们必须小心不要“起步太快”，否则可能在到达终点前“耗尽体力”。这是关于“通过漫长的赛程坚持下去”——更像是一场“马拉松”而不是“短跑”。有些人会“耍手段”，试图“绊倒”其他人，使他们失去“步调”。会有“输不起的人”，但也会有“优雅的赢家”。引用一个熟悉概念的内容——“赛跑”——为孩子提供了一个学习陌生概念——“选举”的框架或立场。
 
-在概念具体化的过程中，下一步是观察到，并非所有概念都可以通过隐喻支架来获得，以免陷入倒退的痛苦。必须有一类*基本*概念（如果不是先天的话）我们通过其他方式学习。Lakoff 和 Johnson 认为，这些基本概念源自于“直接的身体经验”（1980 年：57），这些经验来自于将人体移动穿越环境。例如，概念*上*是基本的，源自于拥有一个直立站立的身体，因此“我们做的几乎每一个动作都涉及一个运动程序，这个程序要么改变我们的上下方向，要么保持它，要么预设它，要么以某种方式考虑它”（1980 年，56）。Lakoff 和 Johnson 对人类如何获得概念如*前*、*后*、*推*、*拉*等提供了类似的解释。
+在概念具体化的过程中，下一步是观察到，并非所有概念都可以通过隐喻支架来获得，以免陷入倒退的痛苦。必须有一类_基本_概念（如果不是先天的话）我们通过其他方式学习。Lakoff 和 Johnson 认为，这些基本概念源自于“直接的身体经验”（1980 年：57），这些经验来自于将人体移动穿越环境。例如，概念_上_是基本的，源自于拥有一个直立站立的身体，因此“我们做的几乎每一个动作都涉及一个运动程序，这个程序要么改变我们的上下方向，要么保持它，要么预设它，要么以某种方式考虑它”（1980 年，56）。Lakoff 和 Johnson 对人类如何获得概念如_前_、_后_、_推_、_拉_等提供了类似的解释。
 
 基本概念反映了特定类型身体的特质。只要非基本概念依赖于这些最基本概念的隐喻延伸，它们反过来将反映特定类型身体的特质。Lakoff 和 Johnson 似乎认为，所有概念都被身体的印记“标记”，因为身体的特征“渗透”到更抽象的概念中。因此，他们得出概念化的结论：“我们身体的特殊性塑造了我们概念化和分类的可能性”（1999 年，19）。只要这是真实的，人们应该期望，具有不同类型基本概念的不同身体有机体会以非人类的方式对其世界进行概念化和分类。
 
-尽管拉科夫和约翰逊认为概念化与计算认知科学不相容，但他们这样做的理由并不充分。隐喻推理在于将一个概念内容的一部分应用于另一个概念的内容。由于这种推理明确涉及内容，并且计算主义是关于如何根据内容处理心理状态的理论，拉科夫和约翰逊对计算主义的敌意似乎是没有根据的。此外，他们对概念化的论据在很大程度上仍然是*先验*的。他们声称，与人类形态明显不同的生物——比如说球形的生物——将无法发展出一些人类概念（1980 年，57 页），但由于没有这样的存在可供测试，这一断言完全是一种推测。
+尽管拉科夫和约翰逊认为概念化与计算认知科学不相容，但他们这样做的理由并不充分。隐喻推理在于将一个概念内容的一部分应用于另一个概念的内容。由于这种推理明确涉及内容，并且计算主义是关于如何根据内容处理心理状态的理论，拉科夫和约翰逊对计算主义的敌意似乎是没有根据的。此外，他们对概念化的论据在很大程度上仍然是_先验_的。他们声称，与人类形态明显不同的生物——比如说球形的生物——将无法发展出一些人类概念（1980 年，57 页），但由于没有这样的存在可供测试，这一断言完全是一种推测。
 
 ### 3.2 具身概念
 
 一个更为发展并以经验为基础的概念化案例来自心理学和神经学研究，这些研究表明主体使用概念与主体感觉运动系统活动之间存在联系。从这些研究中产生了一种观点，即概念包含有关其拥有者感觉运动特异性的事实。因为这些特异性反映了生物体的身体特性——例如，当与世界互动时如何移动其四肢，因此其概念的内容也将受到其身体性质的限制和启发。
 
-概念是具体化的这一观念的核心是将这些概念描述为*模态*。这个标签旨在突出支持具体化概念的人反对计算论的立场。计算机中的符号——一串 1 和 0——是*非模态*的，因为它们与其内容的关系是任意的。单词也是非模态符号。符号“湖”意味着*湖*，但并非因为它与湖泊之间存在任何相似性或法则关系。没有理由认为“湖”而不是其他某个符号应该意味着*湖*——当考虑那些在非英语语言中意味着*湖*的词语时，这一点是显而易见的。从计算认知科学的角度来看，所有心理符号在这个意义上都是非模态的。
+概念是具体化的这一观念的核心是将这些概念描述为_模态_。这个标签旨在突出支持具体化概念的人反对计算论的立场。计算机中的符号——一串 1 和 0——是_非模态_的，因为它们与其内容的关系是任意的。单词也是非模态符号。符号“湖”意味着_湖_，但并非因为它与湖泊之间存在任何相似性或法则关系。没有理由认为“湖”而不是其他某个符号应该意味着_湖_——当考虑那些在非英语语言中意味着_湖_的词语时，这一点是显而易见的。从计算认知科学的角度来看，所有心理符号在这个意义上都是非模态的。
 
-模态符号，另一方面，保留有关其起源的信息。它们不仅仅是符号，而且在 Barsalou（1999 年；Barsalou 等，2003 年）的术语中是*感知符号*。例如，关于湖的想法包括大脑感觉运动区域的激活，这些区域在先前遇到实际湖泊时已被激活。一个*湖*的想法重新激活了视觉皮层的区域，这些区域响应与湖泊相对应的视觉信息；响应与湖泊相对应的听觉信息的听觉皮层区域；对应于通常与湖泊相关联的动作的运动皮层区域（尽管这种激活被抑制，以防止实际运动发生），等等。结果是一个*湖*的概念，反映了对人体和感觉系统独特的感觉和运动活动的种类。*湖*的意思类似于“看起来像*这个*，听起来像*这个*，闻起来像*这个*，让我像*这个*一样在其中游泳的东西”。此外，因为事物的外观和声音取决于感觉系统的属性，而因为某物所提供的互动取决于运动系统的属性，概念将是特定于身体的。
+模态符号，另一方面，保留有关其起源的信息。它们不仅仅是符号，而且在 Barsalou（1999 年；Barsalou 等，2003 年）的术语中是_感知符号_。例如，关于湖的想法包括大脑感觉运动区域的激活，这些区域在先前遇到实际湖泊时已被激活。一个_湖_的想法重新激活了视觉皮层的区域，这些区域响应与湖泊相对应的视觉信息；响应与湖泊相对应的听觉信息的听觉皮层区域；对应于通常与湖泊相关联的动作的运动皮层区域（尽管这种激活被抑制，以防止实际运动发生），等等。结果是一个_湖_的概念，反映了对人体和感觉系统独特的感觉和运动活动的种类。_湖_的意思类似于“看起来像_这个_，听起来像_这个_，闻起来像_这个_，让我像_这个_一样在其中游泳的东西”。此外，因为事物的外观和声音取决于感觉系统的属性，而因为某物所提供的互动取决于运动系统的属性，概念将是特定于身体的。
 
-许多关于概念模态性的证据来自对*取向依赖性空间兼容效应*（OSC）的展示（Symes，Ellis 和 Tucker 2007）。例如，Tucker 和 Ellis（1998）要求受试者判断一个给定的物体，例如一个平底锅，是正面朝上还是倒置。物体的取向可以是向右或向左。例如，平底锅的把手向右或向左延伸。受试者会通过用右手食指按右边的按钮或用左手食指按左边的按钮来指示物体是正面朝上还是倒置。当物体朝右取向时，受试者使用右手指示反应时的反应时间较短，而当物体朝左取向时，使用右手指示反应的反应时间较长，*反之亦然*，对于物体朝左取向时使用左手指示反应的情况。尽管受试者并未被要求考虑刺激物体的水平取向，但这种取向影响了反应时间（有关 OSC 的相关研究，请参见 Tucker 和 Ellis 2001；2004）。
+许多关于概念模态性的证据来自对_取向依赖性空间兼容效应_（OSC）的展示（Symes，Ellis 和 Tucker 2007）。例如，Tucker 和 Ellis（1998）要求受试者判断一个给定的物体，例如一个平底锅，是正面朝上还是倒置。物体的取向可以是向右或向左。例如，平底锅的把手向右或向左延伸。受试者会通过用右手食指按右边的按钮或用左手食指按左边的按钮来指示物体是正面朝上还是倒置。当物体朝右取向时，受试者使用右手指示反应时的反应时间较短，而当物体朝左取向时，使用右手指示反应的反应时间较长，_反之亦然_，对于物体朝左取向时使用左手指示反应的情况。尽管受试者并未被要求考虑刺激物体的水平取向，但这种取向影响了反应时间（有关 OSC 的相关研究，请参见 Tucker 和 Ellis 2001；2004）。
 
-相关地，Glenberg 和 Kaschak（2002）展示了一个*动作-句子兼容效应*（ASC）。受试者被要求判断诸如“打开抽屉”或“关闭抽屉”之类的句子的合理性。第一类句子暗示了需要将手向身体移动的动作，而第二类句子暗示了需要将手远离身体的动作。受试者会通过按一个需要将手远离身体或向身体移动的按钮来指示句子的合理性。Glenberg 和 Kaschak 发现，当反应动作与动作句子所暗示的动作相兼容时，反应时间较短。
+相关地，Glenberg 和 Kaschak（2002）展示了一个_动作-句子兼容效应_（ASC）。受试者被要求判断诸如“打开抽屉”或“关闭抽屉”之类的句子的合理性。第一类句子暗示了需要将手向身体移动的动作，而第二类句子暗示了需要将手远离身体的动作。受试者会通过按一个需要将手远离身体或向身体移动的按钮来指示句子的合理性。Glenberg 和 Kaschak 发现，当反应动作与动作句子所暗示的动作相兼容时，反应时间较短。
 
-**OSC**和**ASC**效应均已被用来表明概念是模态的。例如，对平底锅的思考会激活运动皮层中的区域，这些区域在实际操纵平底锅时会被激活。研究对象对左向平底锅的反应会较慢，因为看到平底锅的方向会激活大脑中与左手握住平底锅相关的运动区域，从而促使左手指的反应，同时抑制右手指的反应。同样，“打开”和“关闭”等词语的含义中包含了打开或关闭动作中涉及的运动活动类型。因此，物体概念的含义包含了关于物体可能如何被*类似我们的*身体操纵的信息；动作概念在一定程度上包含了关于*类似我们的*身体如何移动的信息。
+**OSC**和**ASC**效应均已被用来表明概念是模态的。例如，对平底锅的思考会激活运动皮层中的区域，这些区域在实际操纵平底锅时会被激活。研究对象对左向平底锅的反应会较慢，因为看到平底锅的方向会激活大脑中与左手握住平底锅相关的运动区域，从而促使左手指的反应，同时抑制右手指的反应。同样，“打开”和“关闭”等词语的含义中包含了打开或关闭动作中涉及的运动活动类型。因此，物体概念的含义包含了关于物体可能如何被_类似我们的_身体操纵的信息；动作概念在一定程度上包含了关于_类似我们的_身体如何移动的信息。
 
 对概念充满感觉运动信息的主张的进一步证据来自 Edmiston 和 Lupyan（2017），他们询问研究对象需要回答的问题要么需要“百科知识”——“天鹅会下蛋吗？”——要么需要视觉知识——“天鹅有喙吗？”。有趣的是，他们发现在任务过程中的视觉干扰会降低需要视觉知识的问题的表现，但不会影响需要百科知识的问题。他们将此视为概念具有具身性的证据，因为如果概念是模态的，那么视觉干扰的影响是可以预期的——在这种情况下，它们涉及大脑中视觉中枢的激活，但如果概念是与感觉运动起源脱离的非模态符号，则不会出现这种情况。
 
-一个关于具身概念的最终证据来源是神经学调查，揭示了与特定动作相关的大脑感觉运动区域的激活。阅读词语“踢”或“打”会导致与踢和打相关的大脑运动区域的活动（Pulvermüller 2005）。经由经颅磁刺激刺激这些区域可以影响对这些词语的理解（Pulvermüller 2005; Buccino et al. 2005）。再次，这类结果正是具身概念理论所预测的，但在标准计算的非具身概念理论中是意料之外的。如果概念*kick*的内容包括由运动皮层活动确定的人类腿部特有的动作，那么，正如概念化所蕴含的那样，它显示了特定类型具身的烙印。
+一个关于具身概念的最终证据来源是神经学调查，揭示了与特定动作相关的大脑感觉运动区域的激活。阅读词语“踢”或“打”会导致与踢和打相关的大脑运动区域的活动（Pulvermüller 2005）。经由经颅磁刺激刺激这些区域可以影响对这些词语的理解（Pulvermüller 2005; Buccino et al. 2005）。再次，这类结果正是具身概念理论所预测的，但在标准计算的非具身概念理论中是意料之外的。如果概念_kick_的内容包括由运动皮层活动确定的人类腿部特有的动作，那么，正如概念化所蕴含的那样，它显示了特定类型具身的烙印。
 
 批评实体概念的人提出了许多挑战。最基本的是，人们可能会质疑像刚提到的那些经验研究是否真的在针对概念。例如，为什么要认为概念“平底锅”的含义包括关于如何抓取平底锅的信息；以及“打开”的含义包括如何移动手臂的信息呢？这类说法似乎忽视了“概念”和“构想”之间的区别（Rey 1983; 1985; Shapiro 2019a）。例如，“单身汉”的概念的含义是“未婚男性”。但除了这个概念之外，还有一个“构想”，其中构想涉及典型或代表性特征之类的东西。一个单身汉的构想可能包括诸如成为花花公子、年轻或参与兄弟文化之类的东西。这些概念与“单身汉”的概念相关联，但实际上并不是概念的含义的一部分。同样，平底锅可能被抓取“这样”，或者“打开”涉及像“这样”移动手臂，可能并不是“平底锅”和“打开”的概念的含义的一部分，而是关于一个人对平底锅的构想和如何打开东西的构想的特征。
 
@@ -147,15 +147,15 @@ Lakoff 和 Johnson（1980; 1999）提出了对概念化的早期和有影响力�
 
 早期的机器人学尝试了认知是符号表示的计算的概念。例如，1966 年至 1972 年间在当时的斯坦福研究所人工智能实验室创建的机器人 Shakey 被编程用于在房间中导航，避开或推动各种形状和颜色的方块。指导 Shakey 行为的是一个名为 STRIPS 的程序，该程序在符号编码的图像上运行，将它们与 Shakey 世界的存储描述相结合。正如机器人学家布鲁克斯所描述的 Shakey 的架构，它循环执行感知-建模-规划-执行序列（Brooks 1991a）。摄像头感知环境，计算机从摄像头图像中构建环境的符号模型，STRIPS 程序将模型与环境的存储符号描述结合起来，为行动计划创建计划。Shakey 的进展很慢——有些任务可能需要几天才能完成——并且严重依赖于一个精心构造的环境，使图像更易处理。
 
-Brooks 对机器人技术的方法否定了 Shakey 设计时的计算原理，转而采用受吉布森启发的架构。结果是产生了比 Shakey 展示的灵活性更强的机器人——这些机器人可以在混乱的环境中漫游，避开障碍物，为自己设定目标，收集可回收的汽水罐等等。Brooks 的“生物”采用他所称的*包含*架构。生物不是通过循环进行感知-建模-规划-执行的序列，而是包含一系列直接连接到行为生成机制的传感器阵列。例如，Brooks 的机器人 Allen 上的传感器直接连接到三种不同的行为生成器：避障、漫游和探索。当传感器在 Allen 的路径上检测到物体时，避障机制会导致 Allen 停止前进，转向，然后继续前进。漫游生成器只会让 Allen 沿着随机方向前进，而探索生成器会引导 Allen 朝向选定的目标。正如 Brooks 所称的三种*活动层*，它们不断相互竞争。例如，如果 Allen 正在漫游并遇到障碍物，避障会介入阻止 Allen 发生碰撞。探索可以抑制漫游的激活，以使 Allen 朝向目标方向。通过这三个层之间的竞争性互动，出现了出乎意料的灵活和看似目标导向的行为。
+Brooks 对机器人技术的方法否定了 Shakey 设计时的计算原理，转而采用受吉布森启发的架构。结果是产生了比 Shakey 展示的灵活性更强的机器人——这些机器人可以在混乱的环境中漫游，避开障碍物，为自己设定目标，收集可回收的汽水罐等等。Brooks 的“生物”采用他所称的_包含_架构。生物不是通过循环进行感知-建模-规划-执行的序列，而是包含一系列直接连接到行为生成机制的传感器阵列。例如，Brooks 的机器人 Allen 上的传感器直接连接到三种不同的行为生成器：避障、漫游和探索。当传感器在 Allen 的路径上检测到物体时，避障机制会导致 Allen 停止前进，转向，然后继续前进。漫游生成器只会让 Allen 沿着随机方向前进，而探索生成器会引导 Allen 朝向选定的目标。正如 Brooks 所称的三种_活动层_，它们不断相互竞争。例如，如果 Allen 正在漫游并遇到障碍物，避障会介入阻止 Allen 发生碰撞。探索可以抑制漫游的激活，以使 Allen 朝向目标方向。通过这三个层之间的竞争性互动，出现了出乎意料的灵活和看似目标导向的行为。
 
 根据布鲁克斯（Brooks）的说法，他的机器人不需要表征。布鲁克斯借鉴生态心理学的一个概念，称他的机器人中的活动层直接连接“感知和行动”（1991b，144）。以这种方式设计的机器人不需要代表世界，因为它能够“将世界用作自己的模型”（1991b，139）。机器人的行为通过一个连续的循环演变：身体移动，改变其传感器接收到的刺激，直接导致新的运动，依此类推。由于在感觉信号和机器人行为之间没有任何东西“介入”，因此不需要扮演代表性状态的标准中介角色的东西。例如，机器人在穿过走廊时并不需要环境模型。移动-感知循环可以在没有模型的情况下完成其工作。
 
 尽管布鲁克斯的机器人相对于它们的计算祖先取得了成功，并且布鲁克斯的想法对工业（例如 Roomba 吸尘器）产生了影响，但布鲁克斯的洞见是否为一种激进的、无表征的认知科学铺平道路，正如一些实践主义者（如 Chemero（2009）和 Hutto 和 Myin（2013）所认为的那样，还远非确定。首先一个问题是，布鲁克斯的“生物”行为是否真的在没有代表性状态的帮助下进行。毕竟，这些“生物”配备了传感器，以便将信号发送到各种活动层，以便这些层可以对环境中的物体做出反应。此外，各个层之间进行通信，以调节彼此的活动。实际上，它们正在用似乎具有语义的消息相互传递信号：“继续前进”，或者“停下来！”。
 
-怀疑论者，如 Chemero（2009 年）和 Hutto 和 Myin（2013 年），专注于布鲁克斯的生物所承载的与环境的持续接触，以此为理由否定了代表作用。因为生物与世界保持着持续接触，所以它不需要代表世界。但持续接触并不总是消除了对代表作用的需求。例如，考虑一个生物可能与其环境的许多特征保持持续接触——阳光、湿度、氧气、月球的引力等等。然而，它肯定只会对其中一些特征敏感——只有其中一些特征会塑造生物的行为。描述某些特征对生物有影响而其他特征没有影响的自然方式可能涉及到代表作用——生物*检测*某些特征，代表它们，而不代表其他特征。这种类型的检测是否必须涉及代表作用将取决于一个人采用的代表作用理论。因此，一个人可能会将布鲁克斯对代表作用的挑战的成功以及实践主义者对这一挑战的接受，视为对代表作用理论的一种挑战，其细节无疑本身就会引起争议。
+怀疑论者，如 Chemero（2009 年）和 Hutto 和 Myin（2013 年），专注于布鲁克斯的生物所承载的与环境的持续接触，以此为理由否定了代表作用。因为生物与世界保持着持续接触，所以它不需要代表世界。但持续接触并不总是消除了对代表作用的需求。例如，考虑一个生物可能与其环境的许多特征保持持续接触——阳光、湿度、氧气、月球的引力等等。然而，它肯定只会对其中一些特征敏感——只有其中一些特征会塑造生物的行为。描述某些特征对生物有影响而其他特征没有影响的自然方式可能涉及到代表作用——生物_检测_某些特征，代表它们，而不代表其他特征。这种类型的检测是否必须涉及代表作用将取决于一个人采用的代表作用理论。因此，一个人可能会将布鲁克斯对代表作用的挑战的成功以及实践主义者对这一挑战的接受，视为对代表作用理论的一种挑战，其细节无疑本身就会引起争议。
 
-另一种对布鲁克斯的工作的回应怀疑像包含结构这样的架构，即使承认它不使用表征，也能否“扩展规模”——能否产生认知科学家通常研究的更高级别的行为（Shapiro 2007）。Matthen（2014）认为，一旦我们超越了布鲁克斯的生物的能力，解释行为将需要诉诸于表征。例如，想象一个知道如何从点*A*移动到点*B*，从点*A*移动到点*C*，并基于这种知识，“想出”如何从点*B*移动到点*C*的生物（Matthen 2014）。似乎这样的生物必须拥有关于点*A*、*B*和*C*之间关系的表征，才能进行这样的计算。
+另一种对布鲁克斯的工作的回应怀疑像包含结构这样的架构，即使承认它不使用表征，也能否“扩展规模”——能否产生认知科学家通常研究的更高级别的行为（Shapiro 2007）。Matthen（2014）认为，一旦我们超越了布鲁克斯的生物的能力，解释行为将需要诉诸于表征。例如，想象一个知道如何从点_A_移动到点_B_，从点_A_移动到点_C_，并基于这种知识，“想出”如何从点_B_移动到点_C_的生物（Matthen 2014）。似乎这样的生物必须拥有关于点_A_、_B_和_C_之间关系的表征，才能进行这样的计算。
 
 克拉克和托里比奥（1994）将一些认知任务描述为“依赖表征”。例如，想象或思考不存在的实体（例如，独角兽）或虚拟状态（如果我沿着这个方向锯树会发生什么？）。生物不可能与不存在的事物保持持续接触。人类如此乐意并经常思考这些想法，对于像 Chemero、Hutto 和 Myin 这样将布鲁克斯的“世界作为自身模型”的口号视为所有或大多数认知基础的实体论者来说，提出了困难。因为世界中没有独角兽，使用世界作为模型无法解释关于独角兽的思想。
 
@@ -177,11 +177,11 @@ Brooks 对机器人技术的方法否定了 Shakey 设计时的计算原理，�
 
 或者随着动态认知科学家更明确地研究认知现象，他们会发现自己需要与标准认知科学相关的工具。斯皮维（Spivey）是动力系统方法的先驱，他对表征的概念持友好态度。戴特里奇和马克曼（2001）认为，即使像协调挥手这样的行为也取决于表征，尽管这种表征的概念可能不像通常归因于计算主义的“厚实”。再次，很明显，解决围绕替代论争议的一些问题取决于一个人采用的表征理论。
 
-对动态认知科学的另一个批评是质疑所提供的微分方程是否真正具有解释性。切梅罗（Chemero，2001）和比尔（Beer，2003）坚持认为具有解释性。这些方程可以用来*预测*生物体的行为，以及处理关于行为的*反事实*（如果发生了这样那样的事情，生物体会如何行动？）——这两者都是解释的特征。另一方面，戴特里奇和马克曼（2001）认为，这些方程只提供现象的描述，而不是解释它们（另请参见 Eliasmith 1996；van Leeuwen 2005）。尽管斯皮维（Spivey）致力于动态认知科学，但他也持有这种观点。他认为，动力系统理论并不能解释认知。它的实用性在于“*模拟*大脑的运作方式”（2007，33，他的强调）。他继续说：
+对动态认知科学的另一个批评是质疑所提供的微分方程是否真正具有解释性。切梅罗（Chemero，2001）和比尔（Beer，2003）坚持认为具有解释性。这些方程可以用来_预测_生物体的行为，以及处理关于行为的_反事实_（如果发生了这样那样的事情，生物体会如何行动？）——这两者都是解释的特征。另一方面，戴特里奇和马克曼（2001）认为，这些方程只提供现象的描述，而不是解释它们（另请参见 Eliasmith 1996；van Leeuwen 2005）。尽管斯皮维（Spivey）致力于动态认知科学，但他也持有这种观点。他认为，动力系统理论并不能解释认知。它的实用性在于“_模拟_大脑的运作方式”（2007，33，他的强调）。他继续说：
 
-> 心灵的出现发生在神经元细胞集合的激活模式的媒介中，同时与它们附属的传感器（眼睛、耳朵等）和执行器（手、言语器官等）与其嵌入的环境的互动相结合。不要误解，*那*就是构成人类思维的要素：大脑、身体和环境。通过高维状态空间的轨迹仅仅是科学家描述、可视化和建模大脑、身体和环境中发生的事情的便利方式”（2007 年，33 页，他的强调）。
+> 心灵的出现发生在神经元细胞集合的激活模式的媒介中，同时与它们附属的传感器（眼睛、耳朵等）和执行器（手、言语器官等）与其嵌入的环境的互动相结合。不要误解，_那_就是构成人类思维的要素：大脑、身体和环境。通过高维状态空间的轨迹仅仅是科学家描述、可视化和建模大脑、身体和环境中发生的事情的便利方式”（2007 年，33 页，他的强调）。
 
-然而，正如 Zednik（2011）所指出的（参见 Clark 1997 和 Bechtel 1998），动力学解释所依赖的微分方程包含允许解释的术语。这就是将一段纯数学转化为应用数学的过程，通常被理解为描述因果过程（Sauer 2010）。作为应用（而非纯）数学的一个例子，例如 Lotka Volterra 方程确实解释了捕食者-猎物种群动态，当将其术语解释为捕食率和繁殖率时。这些方程揭示了捕食如何影响猎物种群的规模，猎物种群的减少如何影响捕食者种群的规模，以及繁殖如何恢复猎物种群。因此，Spivey 可能是对的，即思维的“要素”包括大脑、身体和环境，但这并不排除描述这些互动的微分方程具有解释性。它们具有解释性，*因为*它们描述了大脑、身体和环境如何相互作用以及由此产生的后果。
+然而，正如 Zednik（2011）所指出的（参见 Clark 1997 和 Bechtel 1998），动力学解释所依赖的微分方程包含允许解释的术语。这就是将一段纯数学转化为应用数学的过程，通常被理解为描述因果过程（Sauer 2010）。作为应用（而非纯）数学的一个例子，例如 Lotka Volterra 方程确实解释了捕食者-猎物种群动态，当将其术语解释为捕食率和繁殖率时。这些方程揭示了捕食如何影响猎物种群的规模，猎物种群的减少如何影响捕食者种群的规模，以及繁殖如何恢复猎物种群。因此，Spivey 可能是对的，即思维的“要素”包括大脑、身体和环境，但这并不排除描述这些互动的微分方程具有解释性。它们具有解释性，_因为_它们描述了大脑、身体和环境如何相互作用以及由此产生的后果。
 
 ## 5. 宪法
 
@@ -195,19 +195,19 @@ Chemero 对动物和环境的描述被普遍应用于动态认知科学中。耦
 
 除了技术上的耦合意义外，哲学家在捍卫宪法时经常诉诸一种更宽松的意义。例如，Clark 讨论了写作的过程。在写作时，“并不总是完全形成的思想被记录在纸上。相反，纸提供了一个介质，通过某种耦合的神经-涂鸦-阅读展开，我们得以探索那些在其他情况下可能无法接触到的思维方式”（2008 年，126 页）。Clark 的观点是，产生写作的认知系统延伸到主体的大脑之外，其构成部分包括文字所写的纸张。纸张以及阅读和写作的行为实质上是认知过程的一部分，与神经过程一样重要，因为所有这些事物之间存在持续的互动。如果可能提供描述写作产生的微分方程，它们将包括涉及所有这些事物行为的术语。因此，导致我们得出离心调速器的组成部分是单一系统的结论的推理，以及捕食者和猎物是单一系统的组成部分的结论，也将导致许多认知系统的组成部分将包括身体和世界的部分。
 
-耦合概念构成了一些支持*扩展认知*的论点。当大脑过程与身体或世界中的过程耦合时，无论是从动力系统理论中派生的技术意义上，还是涉及依赖循环的不那么严格的意义上，结果产生的“大脑+”本身就是一个单一的认知系统。这是一个认知系统，因为系统的构成部分不受限于大脑而延伸到头部之外。
+耦合概念构成了一些支持_扩展认知_的论点。当大脑过程与身体或世界中的过程耦合时，无论是从动力系统理论中派生的技术意义上，还是涉及依赖循环的不那么严格的意义上，结果产生的“大脑+”本身就是一个单一的认知系统。这是一个认知系统，因为系统的构成部分不受限于大脑而延伸到头部之外。
 
-Adams 和 Aizawa（2008 年; 2009 年; 2010 年）反对以耦合为灵感的宪法辩护，因此也反对延伸认知的概念，理由是它们犯了一种*耦合-宪法*谬误：“这里的推理模式涉及从观察到过程*X*在某种方式上与类型*j*的过程*Y*有因果联系（耦合）到结论*X*是类型*j*过程的一部分”（2009 年，81 页）。他们认为这种推理导致荒谬的结果。例如，“是旋转的保龄球与球道表面的相互作用导致所有的瓶子倒下。然而，保龄球旋转的过程并没有延伸到球道表面或瓶子（2009 年，83 页）。同样，Adams 和 Aizawa 会声称，认知过程并没有延伸到写作中涉及的纸张和涂鸦。
+Adams 和 Aizawa（2008 年; 2009 年; 2010 年）反对以耦合为灵感的宪法辩护，因此也反对延伸认知的概念，理由是它们犯了一种_耦合-宪法_谬误：“这里的推理模式涉及从观察到过程_X_在某种方式上与类型_j_的过程_Y_有因果联系（耦合）到结论_X_是类型_j_过程的一部分”（2009 年，81 页）。他们认为这种推理导致荒谬的结果。例如，“是旋转的保龄球与球道表面的相互作用导致所有的瓶子倒下。然而，保龄球旋转的过程并没有延伸到球道表面或瓶子（2009 年，83 页）。同样，Adams 和 Aizawa 会声称，认知过程并没有延伸到写作中涉及的纸张和涂鸦。
 
-这种回应不太可能打动支持宪法耦合论证的人。首先，耦合论证要求过程*X*不仅仅是与类型*j*的过程*Y*有因果联系，才能认为*X*是类型*j*过程的一部分。假设类型*j*的过程*Y*是在一张纸上写段落。让*X*是铅笔在纸张表面留下石墨时发出的声音。这种声音与书写的产生有因果联系，但宪法的辩护者不必认为它是导致书面段落产生的系统中的组成部分。这种声音并不对“循环”——神经事件、涂鸦、阅读——做出贡献，从中段落出现。因此，并非所有的因果关系都足以构成一个过程中的组成部分。
+这种回应不太可能打动支持宪法耦合论证的人。首先，耦合论证要求过程_X_不仅仅是与类型_j_的过程_Y_有因果联系，才能认为_X_是类型_j_过程的一部分。假设类型_j_的过程_Y_是在一张纸上写段落。让_X_是铅笔在纸张表面留下石墨时发出的声音。这种声音与书写的产生有因果联系，但宪法的辩护者不必认为它是导致书面段落产生的系统中的组成部分。这种声音并不对“循环”——神经事件、涂鸦、阅读——做出贡献，从中段落出现。因此，并非所有的因果关系都足以构成一个过程中的组成部分。
 
-其次，克拉克和其他宪法的捍卫者不会声称写作过程*本身*发生在产生写作的认知系统的组成部分中。当然，保龄球的旋转并不延伸到球道的地板上，当然写作过程也不延伸到一张纸上。但宪法论并不致力于这样的主张（Shapiro 2019a）。就像一个人可以说神经元是大脑的一个组成部分，即使认知并不发生在神经元中一样，或许可以说球道的地板是导致球旋转的系统中的一个组成部分，即使旋转并不发生在地板上，纸是导致写作的系统中的一个组成部分，即使写作过程并不发生*在*纸上。即使最终是不合理的，这样的结论也不会因为亚当斯和艾扎瓦提出的理由而失败。
+其次，克拉克和其他宪法的捍卫者不会声称写作过程_本身_发生在产生写作的认知系统的组成部分中。当然，保龄球的旋转并不延伸到球道的地板上，当然写作过程也不延伸到一张纸上。但宪法论并不致力于这样的主张（Shapiro 2019a）。就像一个人可以说神经元是大脑的一个组成部分，即使认知并不发生在神经元中一样，或许可以说球道的地板是导致球旋转的系统中的一个组成部分，即使旋转并不发生在地板上，纸是导致写作的系统中的一个组成部分，即使写作过程并不发生_在_纸上。即使最终是不合理的，这样的结论也不会因为亚当斯和艾扎瓦提出的理由而失败。
 
 ### 5.2 通过平等和广义计算主义的宪法
 
-除了耦合论点之外，一些哲学家，例如克拉克和查尔默斯（1998 年）以及克拉克（2008 年），通过倡导*平等原则*来捍卫认知系统包括大脑之外的组成部分的观念，而威尔逊（2004 年）则提出了*广义计算论*的概念。这些论点相似，都试图揭示功能主义对心理状态或过程的承诺如何使认知过程可以延伸到大脑之外的可能性。
+除了耦合论点之外，一些哲学家，例如克拉克和查尔默斯（1998 年）以及克拉克（2008 年），通过倡导_平等原则_来捍卫认知系统包括大脑之外的组成部分的观念，而威尔逊（2004 年）则提出了_广义计算论_的概念。这些论点相似，都试图揭示功能主义对心理状态或过程的承诺如何使认知过程可以延伸到大脑之外的可能性。
 
-平等原则指出：“[如果，当我们面对某项任务时，世界的一部分起到了一个过程的作用，如果这个过程在头脑中完成，我们会毫不犹豫地认为它是认知过程的一部分，那么这个世界的一部分就是……认知过程的一部分]”（克拉克，2008 年，222 页）。举例来说，克拉克和查尔默斯（1998 年）将患有阿尔茨海默病的奥托的当前信念与正常生物大脑的英嘉进行了比较。奥托保存了一本笔记本，其中包含了通常存储在正常运作大脑海马体中的信息。当英嘉想要参观现代艺术博物馆时，她从生物记忆中提取了现代艺术博物馆位于第 53 街的信息，这促使她乘地铁前往目的地。当奥托有同样的愿望时，他查阅他的笔记本，上面写着“现代艺术博物馆位于第 53 街”，这进而促使他前往那个地点。根据规定，奥托笔记本中对现代艺术博物馆位置的表述与英嘉大脑中的表述发挥着相同的功能作用。因此，根据平等原则，笔记本条目是一种记忆——关于现代艺术博物馆位置的当前信念。因此，笔记本是奥托许多认知过程的组成部分所在地。
+平等原则指出：“\[如果，当我们面对某项任务时，世界的一部分起到了一个过程的作用，如果这个过程在头脑中完成，我们会毫不犹豫地认为它是认知过程的一部分，那么这个世界的一部分就是……认知过程的一部分]”（克拉克，2008 年，222 页）。举例来说，克拉克和查尔默斯（1998 年）将患有阿尔茨海默病的奥托的当前信念与正常生物大脑的英嘉进行了比较。奥托保存了一本笔记本，其中包含了通常存储在正常运作大脑海马体中的信息。当英嘉想要参观现代艺术博物馆时，她从生物记忆中提取了现代艺术博物馆位于第 53 街的信息，这促使她乘地铁前往目的地。当奥托有同样的愿望时，他查阅他的笔记本，上面写着“现代艺术博物馆位于第 53 街”，这进而促使他前往那个地点。根据规定，奥托笔记本中对现代艺术博物馆位置的表述与英嘉大脑中的表述发挥着相同的功能作用。因此，根据平等原则，笔记本条目是一种记忆——关于现代艺术博物馆位置的当前信念。因此，笔记本是奥托许多认知过程的组成部分所在地。
 
 在同样的思路下，Wilson（2004）讨论了一个希望解决涉及两个大数的乘法问题的人。在脑中计算乘积是一种可能性，但在铅笔和纸的帮助下解决问题会更容易。在后一种情况下，Wilson 声称大脑会将一些本来需要自己完成的工作“转嫁”到纸上。Wilson 论证的关键在于解决乘法问题是一个计算过程，并且计算过程并不局限于特定的空间区域。当乘法问题在脑中解决时，计算过程发生在大脑内部。但是计算中的一些步骤也可以发生在脑外，即在一张纸上，这种情况下计算过程可能在脑外部分发生。因此，这两个过程存在一种平等性，无论特定的计算是内部的还是外部的。在这种情况下，人们可以找到对《宪法》的额外支持。
 
@@ -235,7 +235,7 @@ Rupert（2004）分享了类似的担忧，指出奥托和英嘉定位 MoMA 的�
 
 ### 6.1 社会认知
 
-社会认知是理解和与其他主体互动的能力。社会认知涉及各种认知能力，如注意力、记忆、情感认知和元认知（Fiske 和 Taylor 2013）。然而，传统上，关于社会认知的哲学讨论狭义地将其理解为心智化（也称为*心灵理论*或*心智阅读*）。心智化指的是对心理状态的归因，通常局限于命题态度，通常用于解释和预测他人的行为。因此，尽管社会认知是通过并涉及众多和多样的认知过程，许多哲学家倾向于简单地认为它涉及对命题态度的归因，以便预测和解释行为。有关社会认知这一观点的经典表达，请参见 Davies 和 Stone（1995a）和（1995b）。最近，哲学家开始更广泛地构想社会认知。有关对多元民间心理学的调查，请参见 Andrews、Spaulding 和 Westra（2020）。
+社会认知是理解和与其他主体互动的能力。社会认知涉及各种认知能力，如注意力、记忆、情感认知和元认知（Fiske 和 Taylor 2013）。然而，传统上，关于社会认知的哲学讨论狭义地将其理解为心智化（也称为_心灵理论_或_心智阅读_）。心智化指的是对心理状态的归因，通常局限于命题态度，通常用于解释和预测他人的行为。因此，尽管社会认知是通过并涉及众多和多样的认知过程，许多哲学家倾向于简单地认为它涉及对命题态度的归因，以便预测和解释行为。有关社会认知这一观点的经典表达，请参见 Davies 和 Stone（1995a）和（1995b）。最近，哲学家开始更广泛地构想社会认知。有关对多元民间心理学的调查，请参见 Andrews、Spaulding 和 Westra（2020）。
 
 体现认知理论家拒绝了对社会认知的狭隘解释。尽管他们不否认神经典型成年人具有归因信念和欲望以及解释和预测行为的能力，但他们认为这是我们日常社交互动中一种专门且很少使用的技能（Gallagher 2020；Gallagher 2008；Hutto 和 Ratcliffe 2007）。大多数社交互动只需要基本的基础社会认知能力，即被称为初级和次级主体性（Trevarthen 1979）。
 
@@ -265,157 +265,157 @@ Rupert（2004）分享了类似的担忧，指出奥托和英嘉定位 MoMA 的�
 
 ## Bibliography
 
-* Adams, Fred, and Ken Aizawa, 2001, “The Bounds of Cognition,” *Philosophical Psychology*, 14(1): 43–64. doi:10.1080/09515080120033571
-* –––, 2008, *The Bounds of Cognition*, Malden, MA: Blackwell.
-* –––, 2009, “Why the Mind Is Still in the Head,” in Philip Robbins and Murat Aydede (eds.), *The Cambridge Handbook of Situated Cognition*, 1st edition, Cambridge, New York: Cambridge University Press, pp, 78–95.
-* –––, 2010, “Defending the Bounds of Cognition,” in Richard Menary (ed.), *The Extended Mind*, Cambridge, Mass.: MIT Press, pp, 67–80.
-* Andrews, Kristin, Shannon Spaulding, and Evan Westra, 2020, “Introduction to *Folk Psychology: Pluralistic Approaches*,” *Synthese*, August, 1–16, doi:10.1007/s11229-020-02837-3
-* Baggs, Edward, and Anthony Chemero, 2018, “Radical Embodiment in Two Directions,” *Synthese*, 198 (Supplement 9): 2175–2190. doi:10.1007/s11229-018-02020-9
-* Barsalou, Lawrence W, 1999, “Perceptual Symbol Systems,” *Behavioral and Brain Sciences*, 22(4): 577–660. doi:10.1017/S0140525X99002149
-* –––, 2008, “Grounded Cognition,” *Annual Review of Psychology*, 59(1): 617–45. doi:10.1146/annurev.psych.59.103006.093639
-* Barsalou, Lawrence W., W. Kyle Simmons, Aron K. Barbey, and Christine D. Wilson, 2003, “Grounding Conceptual Knowledge in Modality-Specific Systems,” *Trends in Cognitive Sciences*, 7(2): 84–91. doi:10.1016/S1364-6613(02)00029-3
-* Barsalou, Lawrence W., and Katja Wiemer-Hastings, 2005, “Situating Abstract Concepts,” in Diane Pecher and Rolf A. Zwaan *(*eds.), *Grounding Cognition* (1st edition), pp. 129–63, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511499968.007
-* Bechtel, William, 1998, “Representations and Cognitive Explanations: Assessing the Dynamicist’s Challenge in Cognitive Science,” *Cognitive Science*, 22(3): 295–318. doi:10.1207/s15516709cog2203_2.
-* Beer, Randall D, 2000, “Dynamical Approaches to Cognitive Science,” *Trends in Cognitive Sciences*, 4(3): 91–99. doi:10.1016/S1364-6613(99)01440-0
-* –––, 2003, “The Dynamics of Active Categorical Perception in an Evolved Model Agent,” *Adaptive Behavior*, 11(4): 209–43. doi:10.1177/1059712303114001
-* Broadbent, Donald E., 1958, *Perception and Communication*, New York: Pergamon Press.
-* Brooks, Rodney. A., 1991a, “New Approaches to Robotics,” *Science*, 253 (5025): 1227–32. doi:10.1126/science.253.5025.1227
-* –––, 1991b, “Intelligence without Representation,” *Artificial Intelligence*, 47(1–3): 139–59. doi:10.1016/0004-3702(91)90053-M
-* Buccino, Giovanni, Lucia Riggio, Gabor Melli, Ferdinand Binkofski, Vittorio Gallese, and Giacomo Rizzolatti, 2005, “Listening to Action-Related Sentences Modulates the Activity of the Motor System: A Combined TMS and Behavioral Study,” *Cognitive Brain Research*, 24(3): 355–63. doi:10.1016/j.cogbrainres.2005.02.020
-* Chemero, Anthony, 2001, “Dynamical Explanation and Mental Representations,” *Trends in Cognitive Sciences*, 5(4): 141–42. doi:10.1016/S1364-6613(00)01627-2
-* –––, 2009, *Radical Embodied Cognitive Science*, Cambridge, MA: MIT Press.
-* –––, 2016, “Sensorimotor Empathy,” *Journal of Consciousness Studies*, 23(5–6): 138–52.
-* –––, 2021, “Epilogue: What Embodiment Is,” in Nancy Dess (ed.), *A Multidisciplinary Approach to Embodiment: Understanding Human Being*, New York: Routledge, pp. 133–40.
-* Chomsky, Noam, 1959, “On Certain Formal Properties of Grammars,” *Information and Control*, 2(2): 137–67. doi:10.1016/S0019-9958(59)90362-6
-* –––, 1980, “On Cognitive Structures and Their Devleopment: A Reply to Piaget,” in Massimo Piattelli-Palmarini (ed.), *Language and Learning : The Debate between Jean Piaget and Noam Chomsky*, Cambridge, Mass.: Harvard University Press.
-* Clark, Andy, 1997, “The Dynamical Challenge,” *Cognitive Science*, 21(4): 461–81. doi:10.1207/s15516709cog2104_3
-* –––, 2008, *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*, Oxford, New York: Oxford University Press.
-* –––, 2010, “Coupling, Constitution, and the Cognitive Kind: A Reply to Adams and Aizawa,” in Richard Menary (ed.), *The Extended Mind*, Cambridge, Mass.: MIT Press, pp. 81–100.
-* Clark, Andy, and David J. Chalmers, 1998, “The Extended Mind,” *Analysis*, 58(1): 7–19.
-* Clark, Andy, and Josefa Toribio, 1994, “Doing without Representing?” *Synthese*, 101(3): 401–31. doi:10.1007/BF01063896.
-* Cushman, Fiery, Liane Young, and Marc Hauser, 2006, “The Role of Conscious Reasoning and Intuition in Moral Judgment: Testing Three Principles of Harm,” *Psychological Science*, 17(12): 1082–89.
-* Damasio, Antonio R., 1994, “Descartes’ Error and the Future of Human Life,” *Scientific American*, 271(4): 144–144.
-* Davies, Martin, and Tony Stone, 1995a, *Folk Psychology: The Theory of Mind Debate*, Oxford: Blackwell.
-* –––, 1995b, *Mental Simulation: Evaluations and Applications* (Volume 4), Oxford: Blackwell.
-* Dietrich, Eric, and Arthur B. Markman, 2001, “Dynamical Description versus Dynamical Modeling,” *Trends in Cognitive Sciences*, 5(8): 332. doi:10.1016/S1364-6613(00)01705-8
-* Dove, Guy, 2009, “Beyond Perceptual Symbols: A Call for Representational Pluralism,” *Cognition*, 110(3): 412–31. doi:10.1016/j.cognition.2008.11.016
-* –––, 2016, “Three Symbol Ungrounding Problems: Abstract Concepts and the Future of Embodied Cognition,” *Psychonomic Bulletin & Review*, 23(4): 1109–21.
-* Edmiston, Pierce, and Gary Lupyan, 2017, “Visual Interference Disrupts Visual Knowledge,” *Journal of Memory and Language*, 92 (February): 281–92. doi:10.1016/j.jml.2016.07.002
-* Eliasmith, Chris, 1996, “The Third Contender: A Critical Examination of the Dynamicist Theory of Cognition,” *Philosophical Psychology*, 9(4): 441–63. doi:10.1080/09515089608573194
-* Fiske, Susan T., and Shelley E. Taylor, 2013, *Social Cognition: From Brains to Culture*, London: Sage.
-* Fodor, Jerry A., 1987, *Psychosemantics**: The Problem of Meaning in the Philosophy of Mind*, Cambridge, Mass.: MIT Press.
-* Fuchs, Thomas, 2013, “The Phenomenology and Development of Social Perspectives,” *Phenomenology and the Cognitive Sciences*, 12(4): 655–683. doi:10.1007/s11097-012-9267-x
-* Gallagher, Shaun, 2005, *How the Body Shapes the Mind*, Oxford, Oxford University Press.
-* –––, 2008, “Inference or Interaction: Social Cognition without Precursors,” *Philosophical Explorations*, 11(3): 163–74.
-* –––, 2020, *Action and Interaction*, Oxford: University Press.
-* Gallagher, Shaun, and Daniel D. Hutto, 2008, “Understanding Others through Primary Interaction and Narrative Practice,” in Chris Sinha, Esa Itkonen, Jordan Zlatev, and Timothy P. Racine (eds.), *The Shared Mind: Perspectives on Intersubjectivity*, Amsterdam: John Benjamins, pp. 17–38.
-* Gallese, Vittorio, 2009, “Mirror Neurons and the Neural Exploitation Hypothesis: From Embodied Simulation to Social Cognition,” in Jaimie A. Pineda (ed.), *Mirror Neuron Systems*, New York: Humana, pp. 163–90.
-* Gibson, James J., 1966, *The Senses Considered as Perceptual Systems*, Boston: Houghton Mifflin.
-* –––, 1979, *The Ecological Approach to Visual Perception*, Boston: Houghton Mifflin.
-* Glenberg, Arthur M., and Michael P. Kaschak, 2002, “Grounding Language in Action,” *Psychonomic Bulletin & Review*, 9(3): 558–65. doi:10.3758/BF03196313
-* Goldhill, Olivia, 2019, “The Replication Crisis Is Killing Psychologists’ Theory of How the Body Influences the Mind,” *Quartz*, 16 January 2019, [[Goldhill 2019 available online](https://qz.com/1525854/psychologys-replication-crisis-is-debunking-embodied-cognition-theory/)].
-* Goldman, Alvin I., 2009, “Mirroring, Mindreading, and Simulation,” in Jaimie A. Pineda (ed.), *Mirror Neuron Systems*, New York: Humana, pp. 311–30.
-* Goldman, Alvin I., and Frederique de Vignemont, 2009, “Is Social Cognition Embodied?” *Trends in Cognitive Sciences*, 13(4): 154–59.
-* Greene, Joshua D., “Beyond Point-and-Shoot Morality,” *Ethics*, 124(4): 695–726.
-* Gu, Jun, Chen-Bo Zhong, and Elizabeth Page-Gould, 2013, “Listen to Your Heart: When False Somatic Feedback Shapes Moral Behavior,” *Journal of Experimental Psychology: General*, 142(2): 307.
-* Haidt, Jonathan, 2001, “The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment,” *Psychological Review*, 108(4): 814–834.
-* Haidt, Jonathan, Silvia Helena Koller, and Maria G Dias, 1993, “Affect, Culture, and Morality, or Is It Wrong to Eat Your Dog?” *Journal of Personality and Social Psychology*, 65(4): 613–628.
-* Haken, Hermann, J. A. Scott Kelso, and Herbert Bunz, 1985, “A Theoretical Model of Phase Transitions in Human Hand Movements,” *Biological Cybernetics*, 51(5): 347–56. doi:10.1007/BF00336922
-* Hare, Robert D., 1999, *Without Conscience: The Disturbing World of the Psychopaths among Us*, New York: Guilford Press.
-* Hatfield, Gary, 1991, “Representation and Rule-Instantiation in Connectionist Systems,” in Terence Horgan and John Tienson (eds.), *Connectionism and the Philosophy of Mind* (Studies in Cognitive Systems), Dordrecht: Springer Netherlands, pp. 90–112. doi:10.1007/978-94-011-3524-5_5
-* Heidegger, Martin, 1975, *The Basic Problems of Phenomenology*, translated by Albert Hofstadter, 1988, Bloomington: Indiana University Press.
-* Hickok, Gregory, 2009, “Eight Problems for the Mirror Neuron Theory of Action Understanding in Monkeys and Humans,” *Journal of Cognitive Neuroscience*, 21(7): 1229–43. doi:10.1162/jocn.2009.21189
-* Huebner, Bryce, 2015, “Do Emotions Play a Constitutive Role in Moral Cognition?” *Topoi*, 34(2): 427–40.
-* Husserl, Edmund, 1929, *Cartesian Meditations: An Introduction to Phenomenology*, translated by Dorian Cairns, 2012, Dordrect: Springer Science & Business Media.
-* Hutchins, Edwin, 1996, *Cognition in the Wild* (second printing), Cambridge, Mass.: MIT Press.
-* Hutto, Daniel D., 2008, *Folk Psychological Narratives: The Sociocultural Basis of Understanding Reasons*, Cambridge, Mass.: MIT Press.
-* Hutto, Daniel D., and Erik Myin, 2013, *Radicalizing Enactivism: Basic Minds without Content*, Cambridge, Mass.: MIT Press.
-* Hutto, Daniel D., and M. Ratcliffe, 2007, *Folk Psychology Re-Assessed*, Dordrecht; London: Springer.
-* Kelso, J. A. Scott, 1995, *Dynamic Patterns : The Self-Organization of Brain and Behavior*, Cambridge, Mass.: MIT Press.
-* Lakens, Daniël, 2014, “Grounding Social Embodiment,” *Social Cognition*, 32 (Supplement): 168–83. doi:10.1521/soco.2014.32.supp.168
-* Lakoff, George, and Mark Johnson, 1980, *Metaphors We Live By*, Chicago: University of Chicago Press.
-* –––, 1999, *Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought*, New York: Basic Books.
-* Leeuwen, Marco van, 2005, “Questions For The Dynamicist: The Use of Dynamical Systems Theory in the Philosophy of Cognition,” *Minds and Machines*, 15(3–4): 271–333. doi:10.1007/s11023-004-8339-2
-* Mahon, Bradford Z., 2015, “What Is Embodied about Cognition?” *Language, Cognition and Neuroscience*, 30(4): 420–29. doi:10.1080/23273798.2014.987791
-* Mahon, Bradford Z., and Alfonso Caramazza, 2008, “A Critical Look at the Embodied Cognition Hypothesis and a New Proposal for Grounding Conceptual Content,” *Journal of Physiology-Paris*, Links and Interactions Between Language and Motor Systems in the Brain, 102(1): 59–70. doi:10.1016/j.jphysparis.2008.03.004
-* Maibom, Heidi, 2010, “What Experimental Evidence Shows Us about the Role of Emotions in Moral Judgement,” *Philosophy Compass*, 5(11): 999–1012.
-* Marr, David, 1982, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*, San Francisco: W. H. Freeman.
-* Martin, Taylor, and Daniel L. Schwartz, 2005a, “Physically Distributed Learning: Adapting and Reinterpreting Physical Environments in the Development of Fraction Concepts,” *Cognitive Science*, 29(4): 587–625. doi:10.1207/s15516709cog0000_15
-* –––, 2005b, “Physically Distributed Learning: Adapting and Reinterpreting Physical Environments in the Development of Fraction Concepts,” *Cognitive Science*, 29(4): 587–625. doi:10.1207/s15516709cog0000_15
-* Matthen, Mohan, 2014, “Debunking Enactivism: A Critical Notice of Hutto and Myin’s Radicalizing Enactivism,” *Canadian Journal of Philosophy*, 44(1): 118–28. doi:10.1080/00455091.2014.905251
-* Maxwell, Scott E., Michael Y. Lau, and George S. Howard, 2015, “Is Psychology Suffering from a Replication Crisis? What Does ‘Failure to Replicate’ Really Mean?” *American Psychologist*, 70(6): 487–98. doi:10.1037/a0039400
-* May, Joshua, 2018, *Regard for Reason in the Moral Mind*, Oxford: Oxford University Press.
-* May, Joshua, and Victor Kumar, 2018, “Moral Reasoning and Emotion,” in Karen Jones, Mark Timmons and Aaron Zimmerman (eds.), *Routledge Handbook on Moral Epistemology*. London: Routledge, pp. 139–156.
-* Menary, Richard, 2008, *Cognitive Integration: Mind and Cognition Unbounded*, Basingstoke, New York: Palgrave Macmillan.
-* Merleau-Ponty, Maurice, 1962, *Phenomenology of Perception*, translated by Colin Smith, London: Routledge.
-* Michaels, Claire, and Zsolt Palatinus, 2014, “A Ten Commandments for Ecological Psychology,” in Lawrence Shapiro (ed.), *The Routledge Handbook of Embodied Cognition*, New York: Routledge, Taylor & Francis Group, pp. 19–28.
-* Newell, Allen, John C. Shaw, and Herbert A. Simon, 1958, “Elements of a Theory of Human Problem Solving,” *Psychological Review*, 65(3): 151–66. doi:10.1037/h0048495
-* Nichols, Shaun, 2004, *Sentimental Rules: On the Natural Foundations of Moral Judgment*, Oxford: Oxford University Press.
-* Noë, Alva, 2004, *Action in Perception*, Cambridge, Mass: MIT Press.
-* O’Regan, J. Kevin, and Alva Noë, 2001, “A Sensorimotor Account of Vision and Visual Consciousness,” *Behavioral and Brain Sciences*, 24(5): 939–73. doi:10.1017/S0140525X01000115
-* Pouw, Wim T. J. L., Tamara van Gog, and Fred Paas, 2014, “An Embedded and Embodied Cognition Review of Instructional Manipulatives,” *Educational Psychology Review*, 26(1): 51–72. doi:10.1007/s10648-014-9255-5
-* Prinz, Jesse J., 2004, *Gut Reactions: A Perceptual Theory of Emotion*, Oxford: Oxford University Press.
-* Prinz, Jesse J., and Lawrence W. Barsalou, 2000, “Steering a Course for Embodied Representation,” in Eric Dietrich and Arthur Markman (eds.), *Cognitive Dynamics: Conceptual Change in Humans and Machines*, Cambridge, MA: MIT Press, pp. 51–77.
-* Pulvermüller, Friedemann, 2005, “Brain Mechanisms Linking Language and Action,” *Nature Reviews Neuroscience*, 6(7): 576–82. doi:10.1038/nrn1706
-* Rabelo, André L. A., Victor N. Keller, Ronaldo Pilati, and Jelte M. Wicherts, 2015, “No Effect of Weight on Judgments of Importance in the Moral Domain and Evidence of Publication Bias from a Meta-Analysis,” *PLoS ONE*, 10(8). doi:10.1371/journal.pone.0134808
-* Railton, Peter, 2017, “Moral Learning: Conceptual Foundations and Normative Relevance,” *Cognition*, 167 (October): 172–90.
-* Rey, Georges, 1983, “Concepts and Stereotypes,” *Cognition*, 15(1): 237–62. doi:10.1016/0010-0277(83)90044-6
-* –––, 1985, “Concepts and Conceptions: A Reply to Smith, Medin and Rips,” *Cognition*, 19(3): 297–303. doi:10.1016/0010-0277(85)90037-X
-* Rupert, Robert D., 2004, “Challenges to the Hypothesis of Extended Cognition,” *The Journal of Philosophy*, 101(8): 389–428.
-* Sauer, Niko, 2010, “Causality and Causation: What We Learn from Mathematical Dynamic Systems Theory,” *Transactions of the Royal Society of South Africa*, 65(1): 65–68. doi:10.1080/00359191003680091
-* Schnall, Simone, Jennifer Benton, and Sophie Harvey, 2008, “With a Clean Conscience: Cleanliness Reduces the Severity of Moral Judgments,” *Psychological Science*, 19(12): 1219–22.
-* Schnall, Simone, Jonathan Haidt, Gerald L Clore, and Alexander H Jordan, 2008, “Disgust as Embodied Moral Judgment,” *Personality and Social Psychology Bulletin*, 34(8): 1096–1109.
-* Shapiro, Lawrence, 2007, “The Embodied Cognition Research Programme,” *Philosophy Compass*, 2(2): 338–46. doi:10.1111/j.1747-9991.2007.00064.x
-* –––, 2012, “Embodied Cognition,” in Eric Margolis, Richard Samuels and Stephen P. Stich (eds.), *The Oxford Handbook of Philosophy of Cognitive Science*, New York: Oxford University Press, pp. 118–147.
-* –––, 2013, “Dynamics and Cognition,” *Minds and Machines*, 23(3): 353–75. doi:10.1007/s11023-012-9290-2
-* –––, 2019a, *Embodied Cognition*, Second Edition, London; New York: Routledge.
-* –––, 2019b, “Matters of the Flesh: The Role(s) of Body in Cognition,” in Matteo Colombo, Elizabeth Irvine and Mog Stapleton (eds.), *Andy Clark and His Critics*, New York, NY: Oxford University Press, pp. 69–80.
-* –––, 2019c, “Flesh Matters: The Body in Cognition,” *Mind & Language*, 34(1): 3–20. doi:10.1111/mila.12203
-* Spaulding, Shannon, 2010, “Embodied Cognition and Mindreading,” *Mind & Language*, 25(1): 119–40.
-* –––, 2011, “A Critique of Embodied Simulation,” *Review of Philosophy and Psychology*, 2(3): 579–99.
-* –––, 2013, “Mirror Neurons and Social Cognition,” *Mind & Language*, 28(2): 233–57.
-* Spivey, Michael J., 2007, *The Continuity of Mind* (Oxford Psychology Series), Oxford, New York: Oxford University Press.
-* Sternberg, Saul, 1969, “Memory-Scanning: Mental Processes Revealed by Reaction-Time Experiments,” *American Scientist*, 57(4): 421–57.
-* Symes, Ed, Rob Ellis, and Mike Tucker, 2007, “Visual Object Affordances: Object Orientation,” *Acta Psychologica*, 124(2): 238–55. doi:10.1016/j.actpsy.2006.03.005
-* Tettamanti, Marco, Giovanni Buccino, Maria Cristina Saccuman, Vittorio Gallese, Massimo Danna, Paola Scifo, Ferruccio Fazio, Giacomo Rizzolatti, Stefano F. Cappa, and Daniela Perani, 2005, “Listening to Action-Related Sentences Activates Fronto-Parietal Motor Circuits,” *Journal of Cognitive Neuroscience*, 17(2): 273–81. doi:10.1162/0898929053124965
-* Thelen, Esther, Gregor Schöner, Christian Scheier, and Linda B. Smith, 2001, “The Dynamics of Embodiment: A Field Theory of Infant Perseverative Reaching,” *Behavioral and Brain Sciences*, 24(1): 1–34. doi:10.1017/S0140525X01003910
-* Thelen, Esther, and Linda Smith (eds.), 1993, *A Dynamic Systems Approach to Development: Applications*, Cambridge, Mass.: MIT Press.
-* Thompson, Evan, 2010, *Mind in Life*, Cambridge, MA: Harvard University Press.
-* Trevarthen, Colwyn, 1979, “Communication and Cooperation in Early Infancy: A Description of Primary Intersubjectivity,” in Margaret Bullowa (ed.) *Before Speech: The Beginning of Interpersonal Communication*, Cambridge: Cambridge University Press, pp. 321–348.
-* Tucker, Mike, and Rob Ellis, 1998, “On the Relations between Seen Objects and Components of Potential Actions,” *Journal of Experimental Psychology: Human Perception and Performance*, 24(3): 830–46. doi:10.1037/0096-1523.24.3.830
-* –––, 2001, “The Potentiation of Grasp Types during Visual Object Categorization,” *Visual Cognition*, 8(6): 769–800. doi:10.1080/13506280042000144
-* –––, 2004, “Action Priming by Briefly Presented Objects,” *Acta Psychologica*, 116(2): 185–203. doi:10.1016/j.actpsy.2004.01.004
-* Van Gelder, Tim, 1995, “What Might Cognition Be, If Not Computation?” *The Journal of Philosophy*, 92(7): 345–81. doi:10.2307/2941061
-* –––, 1998, “The Dynamical Hypothesis in Cognitive Science,” *Behavioral and Brain Sciences*, 21(5): 615–28. doi:10.1017/S0140525X98001733
-* Varela, Francisco J., Evan Thompson, and Eleanor Rosch, 2017, *The Embodied Mind, Revised Edition: Cognitive Science and Human Experience*, Cambridge, Mass: MIT Press.
-* Ward, Dave, David Silverman, and Mario Villalobos, 2017, “Introduction: The Varieties of Enactivism,” *Topoi*, 36(3): 365–75. doi:10.1007/s11245-017-9484-6
-* Wilson, Andrew D., and Sabrina Golonka, 2013, “Embodied Cognition Is Not What You Think It Is,” *Frontiers in Psychology*, 4, published online 12 February 2013. doi:10.3389/fpsyg.2013.00058
-* Wilson, Margaret, 2002, “Six Views of Embodied Cognition,” *Psychonomic Bulletin & Review*, 9(4): 625–36. doi:10.3758/BF03196322
-* Wilson, Robert A., 1994, “Wide Computationalism,” *Mind*, 103(411): 351–72. doi:10.1093/mind/103.411.351
-* Wilson, Robert A., and Andy Clark, 2001, “How to Situate Cognition: Letting Nature Take Its Course,” in Philip Robbins and Murat Aydede (eds.) *The Cambridge Handbook of Situated Cognition*, 1st ed., Cambridge: Cambridge University Press, pp. 55–77. doi:10.1017/CBO9780511816826.004
-* Woodward, James, 2016, “Emotion versus Cognition in Moral Decision-Making: A Dubious Dichotomy,” in S. Matthew Liao (ed.), *Moral Brains: The Neuroscience of Morality*, Oxford: Oxford University Press, pp. 87–116.
-* Zahavi, Dan, 2005, *Subjectivity and Selfhood: Investigating the First-Person Perspective*, Cambridge, Mass.: MIT Press.
-* Zednik, Carlos, 2011, “The Nature of Dynamical Explanation,” *Philosophy of Science*, 78(2): 238–63.
+* Adams, Fred, and Ken Aizawa, 2001, “The Bounds of Cognition,” _Philosophical Psychology_, 14(1): 43–64. doi:10.1080/09515080120033571
+* –––, 2008, _The Bounds of Cognition_, Malden, MA: Blackwell.
+* –––, 2009, “Why the Mind Is Still in the Head,” in Philip Robbins and Murat Aydede (eds.), _The Cambridge Handbook of Situated Cognition_, 1st edition, Cambridge, New York: Cambridge University Press, pp, 78–95.
+* –––, 2010, “Defending the Bounds of Cognition,” in Richard Menary (ed.), _The Extended Mind_, Cambridge, Mass.: MIT Press, pp, 67–80.
+* Andrews, Kristin, Shannon Spaulding, and Evan Westra, 2020, “Introduction to _Folk Psychology: Pluralistic Approaches_,” _Synthese_, August, 1–16, doi:10.1007/s11229-020-02837-3
+* Baggs, Edward, and Anthony Chemero, 2018, “Radical Embodiment in Two Directions,” _Synthese_, 198 (Supplement 9): 2175–2190. doi:10.1007/s11229-018-02020-9
+* Barsalou, Lawrence W, 1999, “Perceptual Symbol Systems,” _Behavioral and Brain Sciences_, 22(4): 577–660. doi:10.1017/S0140525X99002149
+* –––, 2008, “Grounded Cognition,” _Annual Review of Psychology_, 59(1): 617–45. doi:10.1146/annurev.psych.59.103006.093639
+* Barsalou, Lawrence W., W. Kyle Simmons, Aron K. Barbey, and Christine D. Wilson, 2003, “Grounding Conceptual Knowledge in Modality-Specific Systems,” _Trends in Cognitive Sciences_, 7(2): 84–91. doi:10.1016/S1364-6613(02)00029-3
+* Barsalou, Lawrence W., and Katja Wiemer-Hastings, 2005, “Situating Abstract Concepts,” in Diane Pecher and Rolf A. Zwaan \*(\*eds.), _Grounding Cognition_ (1st edition), pp. 129–63, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511499968.007
+* Bechtel, William, 1998, “Representations and Cognitive Explanations: Assessing the Dynamicist’s Challenge in Cognitive Science,” _Cognitive Science_, 22(3): 295–318. doi:10.1207/s15516709cog2203\_2.
+* Beer, Randall D, 2000, “Dynamical Approaches to Cognitive Science,” _Trends in Cognitive Sciences_, 4(3): 91–99. doi:10.1016/S1364-6613(99)01440-0
+* –––, 2003, “The Dynamics of Active Categorical Perception in an Evolved Model Agent,” _Adaptive Behavior_, 11(4): 209–43. doi:10.1177/1059712303114001
+* Broadbent, Donald E., 1958, _Perception and Communication_, New York: Pergamon Press.
+* Brooks, Rodney. A., 1991a, “New Approaches to Robotics,” _Science_, 253 (5025): 1227–32. doi:10.1126/science.253.5025.1227
+* –––, 1991b, “Intelligence without Representation,” _Artificial Intelligence_, 47(1–3): 139–59. doi:10.1016/0004-3702(91)90053-M
+* Buccino, Giovanni, Lucia Riggio, Gabor Melli, Ferdinand Binkofski, Vittorio Gallese, and Giacomo Rizzolatti, 2005, “Listening to Action-Related Sentences Modulates the Activity of the Motor System: A Combined TMS and Behavioral Study,” _Cognitive Brain Research_, 24(3): 355–63. doi:10.1016/j.cogbrainres.2005.02.020
+* Chemero, Anthony, 2001, “Dynamical Explanation and Mental Representations,” _Trends in Cognitive Sciences_, 5(4): 141–42. doi:10.1016/S1364-6613(00)01627-2
+* –––, 2009, _Radical Embodied Cognitive Science_, Cambridge, MA: MIT Press.
+* –––, 2016, “Sensorimotor Empathy,” _Journal of Consciousness Studies_, 23(5–6): 138–52.
+* –––, 2021, “Epilogue: What Embodiment Is,” in Nancy Dess (ed.), _A Multidisciplinary Approach to Embodiment: Understanding Human Being_, New York: Routledge, pp. 133–40.
+* Chomsky, Noam, 1959, “On Certain Formal Properties of Grammars,” _Information and Control_, 2(2): 137–67. doi:10.1016/S0019-9958(59)90362-6
+* –––, 1980, “On Cognitive Structures and Their Devleopment: A Reply to Piaget,” in Massimo Piattelli-Palmarini (ed.), _Language and Learning : The Debate between Jean Piaget and Noam Chomsky_, Cambridge, Mass.: Harvard University Press.
+* Clark, Andy, 1997, “The Dynamical Challenge,” _Cognitive Science_, 21(4): 461–81. doi:10.1207/s15516709cog2104\_3
+* –––, 2008, _Supersizing the Mind: Embodiment, Action, and Cognitive Extension_, Oxford, New York: Oxford University Press.
+* –––, 2010, “Coupling, Constitution, and the Cognitive Kind: A Reply to Adams and Aizawa,” in Richard Menary (ed.), _The Extended Mind_, Cambridge, Mass.: MIT Press, pp. 81–100.
+* Clark, Andy, and David J. Chalmers, 1998, “The Extended Mind,” _Analysis_, 58(1): 7–19.
+* Clark, Andy, and Josefa Toribio, 1994, “Doing without Representing?” _Synthese_, 101(3): 401–31. doi:10.1007/BF01063896.
+* Cushman, Fiery, Liane Young, and Marc Hauser, 2006, “The Role of Conscious Reasoning and Intuition in Moral Judgment: Testing Three Principles of Harm,” _Psychological Science_, 17(12): 1082–89.
+* Damasio, Antonio R., 1994, “Descartes’ Error and the Future of Human Life,” _Scientific American_, 271(4): 144–144.
+* Davies, Martin, and Tony Stone, 1995a, _Folk Psychology: The Theory of Mind Debate_, Oxford: Blackwell.
+* –––, 1995b, _Mental Simulation: Evaluations and Applications_ (Volume 4), Oxford: Blackwell.
+* Dietrich, Eric, and Arthur B. Markman, 2001, “Dynamical Description versus Dynamical Modeling,” _Trends in Cognitive Sciences_, 5(8): 332. doi:10.1016/S1364-6613(00)01705-8
+* Dove, Guy, 2009, “Beyond Perceptual Symbols: A Call for Representational Pluralism,” _Cognition_, 110(3): 412–31. doi:10.1016/j.cognition.2008.11.016
+* –––, 2016, “Three Symbol Ungrounding Problems: Abstract Concepts and the Future of Embodied Cognition,” _Psychonomic Bulletin & Review_, 23(4): 1109–21.
+* Edmiston, Pierce, and Gary Lupyan, 2017, “Visual Interference Disrupts Visual Knowledge,” _Journal of Memory and Language_, 92 (February): 281–92. doi:10.1016/j.jml.2016.07.002
+* Eliasmith, Chris, 1996, “The Third Contender: A Critical Examination of the Dynamicist Theory of Cognition,” _Philosophical Psychology_, 9(4): 441–63. doi:10.1080/09515089608573194
+* Fiske, Susan T., and Shelley E. Taylor, 2013, _Social Cognition: From Brains to Culture_, London: Sage.
+* Fodor, Jerry A., 1987, _Psychosemantics_\*: The Problem of Meaning in the Philosophy of Mind\*, Cambridge, Mass.: MIT Press.
+* Fuchs, Thomas, 2013, “The Phenomenology and Development of Social Perspectives,” _Phenomenology and the Cognitive Sciences_, 12(4): 655–683. doi:10.1007/s11097-012-9267-x
+* Gallagher, Shaun, 2005, _How the Body Shapes the Mind_, Oxford, Oxford University Press.
+* –––, 2008, “Inference or Interaction: Social Cognition without Precursors,” _Philosophical Explorations_, 11(3): 163–74.
+* –––, 2020, _Action and Interaction_, Oxford: University Press.
+* Gallagher, Shaun, and Daniel D. Hutto, 2008, “Understanding Others through Primary Interaction and Narrative Practice,” in Chris Sinha, Esa Itkonen, Jordan Zlatev, and Timothy P. Racine (eds.), _The Shared Mind: Perspectives on Intersubjectivity_, Amsterdam: John Benjamins, pp. 17–38.
+* Gallese, Vittorio, 2009, “Mirror Neurons and the Neural Exploitation Hypothesis: From Embodied Simulation to Social Cognition,” in Jaimie A. Pineda (ed.), _Mirror Neuron Systems_, New York: Humana, pp. 163–90.
+* Gibson, James J., 1966, _The Senses Considered as Perceptual Systems_, Boston: Houghton Mifflin.
+* –––, 1979, _The Ecological Approach to Visual Perception_, Boston: Houghton Mifflin.
+* Glenberg, Arthur M., and Michael P. Kaschak, 2002, “Grounding Language in Action,” _Psychonomic Bulletin & Review_, 9(3): 558–65. doi:10.3758/BF03196313
+* Goldhill, Olivia, 2019, “The Replication Crisis Is Killing Psychologists’ Theory of How the Body Influences the Mind,” _Quartz_, 16 January 2019, \[[Goldhill 2019 available online](https://qz.com/1525854/psychologys-replication-crisis-is-debunking-embodied-cognition-theory/)].
+* Goldman, Alvin I., 2009, “Mirroring, Mindreading, and Simulation,” in Jaimie A. Pineda (ed.), _Mirror Neuron Systems_, New York: Humana, pp. 311–30.
+* Goldman, Alvin I., and Frederique de Vignemont, 2009, “Is Social Cognition Embodied?” _Trends in Cognitive Sciences_, 13(4): 154–59.
+* Greene, Joshua D., “Beyond Point-and-Shoot Morality,” _Ethics_, 124(4): 695–726.
+* Gu, Jun, Chen-Bo Zhong, and Elizabeth Page-Gould, 2013, “Listen to Your Heart: When False Somatic Feedback Shapes Moral Behavior,” _Journal of Experimental Psychology: General_, 142(2): 307.
+* Haidt, Jonathan, 2001, “The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment,” _Psychological Review_, 108(4): 814–834.
+* Haidt, Jonathan, Silvia Helena Koller, and Maria G Dias, 1993, “Affect, Culture, and Morality, or Is It Wrong to Eat Your Dog?” _Journal of Personality and Social Psychology_, 65(4): 613–628.
+* Haken, Hermann, J. A. Scott Kelso, and Herbert Bunz, 1985, “A Theoretical Model of Phase Transitions in Human Hand Movements,” _Biological Cybernetics_, 51(5): 347–56. doi:10.1007/BF00336922
+* Hare, Robert D., 1999, _Without Conscience: The Disturbing World of the Psychopaths among Us_, New York: Guilford Press.
+* Hatfield, Gary, 1991, “Representation and Rule-Instantiation in Connectionist Systems,” in Terence Horgan and John Tienson (eds.), _Connectionism and the Philosophy of Mind_ (Studies in Cognitive Systems), Dordrecht: Springer Netherlands, pp. 90–112. doi:10.1007/978-94-011-3524-5\_5
+* Heidegger, Martin, 1975, _The Basic Problems of Phenomenology_, translated by Albert Hofstadter, 1988, Bloomington: Indiana University Press.
+* Hickok, Gregory, 2009, “Eight Problems for the Mirror Neuron Theory of Action Understanding in Monkeys and Humans,” _Journal of Cognitive Neuroscience_, 21(7): 1229–43. doi:10.1162/jocn.2009.21189
+* Huebner, Bryce, 2015, “Do Emotions Play a Constitutive Role in Moral Cognition?” _Topoi_, 34(2): 427–40.
+* Husserl, Edmund, 1929, _Cartesian Meditations: An Introduction to Phenomenology_, translated by Dorian Cairns, 2012, Dordrect: Springer Science & Business Media.
+* Hutchins, Edwin, 1996, _Cognition in the Wild_ (second printing), Cambridge, Mass.: MIT Press.
+* Hutto, Daniel D., 2008, _Folk Psychological Narratives: The Sociocultural Basis of Understanding Reasons_, Cambridge, Mass.: MIT Press.
+* Hutto, Daniel D., and Erik Myin, 2013, _Radicalizing Enactivism: Basic Minds without Content_, Cambridge, Mass.: MIT Press.
+* Hutto, Daniel D., and M. Ratcliffe, 2007, _Folk Psychology Re-Assessed_, Dordrecht; London: Springer.
+* Kelso, J. A. Scott, 1995, _Dynamic Patterns : The Self-Organization of Brain and Behavior_, Cambridge, Mass.: MIT Press.
+* Lakens, Daniël, 2014, “Grounding Social Embodiment,” _Social Cognition_, 32 (Supplement): 168–83. doi:10.1521/soco.2014.32.supp.168
+* Lakoff, George, and Mark Johnson, 1980, _Metaphors We Live By_, Chicago: University of Chicago Press.
+* –––, 1999, _Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought_, New York: Basic Books.
+* Leeuwen, Marco van, 2005, “Questions For The Dynamicist: The Use of Dynamical Systems Theory in the Philosophy of Cognition,” _Minds and Machines_, 15(3–4): 271–333. doi:10.1007/s11023-004-8339-2
+* Mahon, Bradford Z., 2015, “What Is Embodied about Cognition?” _Language, Cognition and Neuroscience_, 30(4): 420–29. doi:10.1080/23273798.2014.987791
+* Mahon, Bradford Z., and Alfonso Caramazza, 2008, “A Critical Look at the Embodied Cognition Hypothesis and a New Proposal for Grounding Conceptual Content,” _Journal of Physiology-Paris_, Links and Interactions Between Language and Motor Systems in the Brain, 102(1): 59–70. doi:10.1016/j.jphysparis.2008.03.004
+* Maibom, Heidi, 2010, “What Experimental Evidence Shows Us about the Role of Emotions in Moral Judgement,” _Philosophy Compass_, 5(11): 999–1012.
+* Marr, David, 1982, _Vision: A Computational Investigation into the Human Representation and Processing of Visual Information_, San Francisco: W. H. Freeman.
+* Martin, Taylor, and Daniel L. Schwartz, 2005a, “Physically Distributed Learning: Adapting and Reinterpreting Physical Environments in the Development of Fraction Concepts,” _Cognitive Science_, 29(4): 587–625. doi:10.1207/s15516709cog0000\_15
+* –––, 2005b, “Physically Distributed Learning: Adapting and Reinterpreting Physical Environments in the Development of Fraction Concepts,” _Cognitive Science_, 29(4): 587–625. doi:10.1207/s15516709cog0000\_15
+* Matthen, Mohan, 2014, “Debunking Enactivism: A Critical Notice of Hutto and Myin’s Radicalizing Enactivism,” _Canadian Journal of Philosophy_, 44(1): 118–28. doi:10.1080/00455091.2014.905251
+* Maxwell, Scott E., Michael Y. Lau, and George S. Howard, 2015, “Is Psychology Suffering from a Replication Crisis? What Does ‘Failure to Replicate’ Really Mean?” _American Psychologist_, 70(6): 487–98. doi:10.1037/a0039400
+* May, Joshua, 2018, _Regard for Reason in the Moral Mind_, Oxford: Oxford University Press.
+* May, Joshua, and Victor Kumar, 2018, “Moral Reasoning and Emotion,” in Karen Jones, Mark Timmons and Aaron Zimmerman (eds.), _Routledge Handbook on Moral Epistemology_. London: Routledge, pp. 139–156.
+* Menary, Richard, 2008, _Cognitive Integration: Mind and Cognition Unbounded_, Basingstoke, New York: Palgrave Macmillan.
+* Merleau-Ponty, Maurice, 1962, _Phenomenology of Perception_, translated by Colin Smith, London: Routledge.
+* Michaels, Claire, and Zsolt Palatinus, 2014, “A Ten Commandments for Ecological Psychology,” in Lawrence Shapiro (ed.), _The Routledge Handbook of Embodied Cognition_, New York: Routledge, Taylor & Francis Group, pp. 19–28.
+* Newell, Allen, John C. Shaw, and Herbert A. Simon, 1958, “Elements of a Theory of Human Problem Solving,” _Psychological Review_, 65(3): 151–66. doi:10.1037/h0048495
+* Nichols, Shaun, 2004, _Sentimental Rules: On the Natural Foundations of Moral Judgment_, Oxford: Oxford University Press.
+* Noë, Alva, 2004, _Action in Perception_, Cambridge, Mass: MIT Press.
+* O’Regan, J. Kevin, and Alva Noë, 2001, “A Sensorimotor Account of Vision and Visual Consciousness,” _Behavioral and Brain Sciences_, 24(5): 939–73. doi:10.1017/S0140525X01000115
+* Pouw, Wim T. J. L., Tamara van Gog, and Fred Paas, 2014, “An Embedded and Embodied Cognition Review of Instructional Manipulatives,” _Educational Psychology Review_, 26(1): 51–72. doi:10.1007/s10648-014-9255-5
+* Prinz, Jesse J., 2004, _Gut Reactions: A Perceptual Theory of Emotion_, Oxford: Oxford University Press.
+* Prinz, Jesse J., and Lawrence W. Barsalou, 2000, “Steering a Course for Embodied Representation,” in Eric Dietrich and Arthur Markman (eds.), _Cognitive Dynamics: Conceptual Change in Humans and Machines_, Cambridge, MA: MIT Press, pp. 51–77.
+* Pulvermüller, Friedemann, 2005, “Brain Mechanisms Linking Language and Action,” _Nature Reviews Neuroscience_, 6(7): 576–82. doi:10.1038/nrn1706
+* Rabelo, André L. A., Victor N. Keller, Ronaldo Pilati, and Jelte M. Wicherts, 2015, “No Effect of Weight on Judgments of Importance in the Moral Domain and Evidence of Publication Bias from a Meta-Analysis,” _PLoS ONE_, 10(8). doi:10.1371/journal.pone.0134808
+* Railton, Peter, 2017, “Moral Learning: Conceptual Foundations and Normative Relevance,” _Cognition_, 167 (October): 172–90.
+* Rey, Georges, 1983, “Concepts and Stereotypes,” _Cognition_, 15(1): 237–62. doi:10.1016/0010-0277(83)90044-6
+* –––, 1985, “Concepts and Conceptions: A Reply to Smith, Medin and Rips,” _Cognition_, 19(3): 297–303. doi:10.1016/0010-0277(85)90037-X
+* Rupert, Robert D., 2004, “Challenges to the Hypothesis of Extended Cognition,” _The Journal of Philosophy_, 101(8): 389–428.
+* Sauer, Niko, 2010, “Causality and Causation: What We Learn from Mathematical Dynamic Systems Theory,” _Transactions of the Royal Society of South Africa_, 65(1): 65–68. doi:10.1080/00359191003680091
+* Schnall, Simone, Jennifer Benton, and Sophie Harvey, 2008, “With a Clean Conscience: Cleanliness Reduces the Severity of Moral Judgments,” _Psychological Science_, 19(12): 1219–22.
+* Schnall, Simone, Jonathan Haidt, Gerald L Clore, and Alexander H Jordan, 2008, “Disgust as Embodied Moral Judgment,” _Personality and Social Psychology Bulletin_, 34(8): 1096–1109.
+* Shapiro, Lawrence, 2007, “The Embodied Cognition Research Programme,” _Philosophy Compass_, 2(2): 338–46. doi:10.1111/j.1747-9991.2007.00064.x
+* –––, 2012, “Embodied Cognition,” in Eric Margolis, Richard Samuels and Stephen P. Stich (eds.), _The Oxford Handbook of Philosophy of Cognitive Science_, New York: Oxford University Press, pp. 118–147.
+* –––, 2013, “Dynamics and Cognition,” _Minds and Machines_, 23(3): 353–75. doi:10.1007/s11023-012-9290-2
+* –––, 2019a, _Embodied Cognition_, Second Edition, London; New York: Routledge.
+* –––, 2019b, “Matters of the Flesh: The Role(s) of Body in Cognition,” in Matteo Colombo, Elizabeth Irvine and Mog Stapleton (eds.), _Andy Clark and His Critics_, New York, NY: Oxford University Press, pp. 69–80.
+* –––, 2019c, “Flesh Matters: The Body in Cognition,” _Mind & Language_, 34(1): 3–20. doi:10.1111/mila.12203
+* Spaulding, Shannon, 2010, “Embodied Cognition and Mindreading,” _Mind & Language_, 25(1): 119–40.
+* –––, 2011, “A Critique of Embodied Simulation,” _Review of Philosophy and Psychology_, 2(3): 579–99.
+* –––, 2013, “Mirror Neurons and Social Cognition,” _Mind & Language_, 28(2): 233–57.
+* Spivey, Michael J., 2007, _The Continuity of Mind_ (Oxford Psychology Series), Oxford, New York: Oxford University Press.
+* Sternberg, Saul, 1969, “Memory-Scanning: Mental Processes Revealed by Reaction-Time Experiments,” _American Scientist_, 57(4): 421–57.
+* Symes, Ed, Rob Ellis, and Mike Tucker, 2007, “Visual Object Affordances: Object Orientation,” _Acta Psychologica_, 124(2): 238–55. doi:10.1016/j.actpsy.2006.03.005
+* Tettamanti, Marco, Giovanni Buccino, Maria Cristina Saccuman, Vittorio Gallese, Massimo Danna, Paola Scifo, Ferruccio Fazio, Giacomo Rizzolatti, Stefano F. Cappa, and Daniela Perani, 2005, “Listening to Action-Related Sentences Activates Fronto-Parietal Motor Circuits,” _Journal of Cognitive Neuroscience_, 17(2): 273–81. doi:10.1162/0898929053124965
+* Thelen, Esther, Gregor Schöner, Christian Scheier, and Linda B. Smith, 2001, “The Dynamics of Embodiment: A Field Theory of Infant Perseverative Reaching,” _Behavioral and Brain Sciences_, 24(1): 1–34. doi:10.1017/S0140525X01003910
+* Thelen, Esther, and Linda Smith (eds.), 1993, _A Dynamic Systems Approach to Development: Applications_, Cambridge, Mass.: MIT Press.
+* Thompson, Evan, 2010, _Mind in Life_, Cambridge, MA: Harvard University Press.
+* Trevarthen, Colwyn, 1979, “Communication and Cooperation in Early Infancy: A Description of Primary Intersubjectivity,” in Margaret Bullowa (ed.) _Before Speech: The Beginning of Interpersonal Communication_, Cambridge: Cambridge University Press, pp. 321–348.
+* Tucker, Mike, and Rob Ellis, 1998, “On the Relations between Seen Objects and Components of Potential Actions,” _Journal of Experimental Psychology: Human Perception and Performance_, 24(3): 830–46. doi:10.1037/0096-1523.24.3.830
+* –––, 2001, “The Potentiation of Grasp Types during Visual Object Categorization,” _Visual Cognition_, 8(6): 769–800. doi:10.1080/13506280042000144
+* –––, 2004, “Action Priming by Briefly Presented Objects,” _Acta Psychologica_, 116(2): 185–203. doi:10.1016/j.actpsy.2004.01.004
+* Van Gelder, Tim, 1995, “What Might Cognition Be, If Not Computation?” _The Journal of Philosophy_, 92(7): 345–81. doi:10.2307/2941061
+* –––, 1998, “The Dynamical Hypothesis in Cognitive Science,” _Behavioral and Brain Sciences_, 21(5): 615–28. doi:10.1017/S0140525X98001733
+* Varela, Francisco J., Evan Thompson, and Eleanor Rosch, 2017, _The Embodied Mind, Revised Edition: Cognitive Science and Human Experience_, Cambridge, Mass: MIT Press.
+* Ward, Dave, David Silverman, and Mario Villalobos, 2017, “Introduction: The Varieties of Enactivism,” _Topoi_, 36(3): 365–75. doi:10.1007/s11245-017-9484-6
+* Wilson, Andrew D., and Sabrina Golonka, 2013, “Embodied Cognition Is Not What You Think It Is,” _Frontiers in Psychology_, 4, published online 12 February 2013. doi:10.3389/fpsyg.2013.00058
+* Wilson, Margaret, 2002, “Six Views of Embodied Cognition,” _Psychonomic Bulletin & Review_, 9(4): 625–36. doi:10.3758/BF03196322
+* Wilson, Robert A., 1994, “Wide Computationalism,” _Mind_, 103(411): 351–72. doi:10.1093/mind/103.411.351
+* Wilson, Robert A., and Andy Clark, 2001, “How to Situate Cognition: Letting Nature Take Its Course,” in Philip Robbins and Murat Aydede (eds.) _The Cambridge Handbook of Situated Cognition_, 1st ed., Cambridge: Cambridge University Press, pp. 55–77. doi:10.1017/CBO9780511816826.004
+* Woodward, James, 2016, “Emotion versus Cognition in Moral Decision-Making: A Dubious Dichotomy,” in S. Matthew Liao (ed.), _Moral Brains: The Neuroscience of Morality_, Oxford: Oxford University Press, pp. 87–116.
+* Zahavi, Dan, 2005, _Subjectivity and Selfhood: Investigating the First-Person Perspective_, Cambridge, Mass.: MIT Press.
+* Zednik, Carlos, 2011, “The Nature of Dynamical Explanation,” _Philosophy of Science_, 78(2): 238–63.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=embodied-cognition). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/embodied-cognition/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=embodied-cognition&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/embodied-cognition/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=embodied-cognition).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/embodied-cognition/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=embodied-cognition\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/embodied-cognition/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Wilson, Rob and Lucia Foglia, “Embodied Cognition,” *Stanford Encyclopedia of Philosophy* (Summer 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2021/entries/embodied-cognition/>. [This was the previous entry on Embodied Cognition in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=embodied-cognition).]
-* [The Language of Thought Hypothesis](https://iep.utm.edu/lot-hypo/), entry by Matthew Katz in the *Internet Encyclopedia of Philosophy*.
-* [The Computational Theory of Mind](http://www.iep.utm.edu/compmind/), entry by Marcin Milkowski in the *Internet Encyclopedia of Philosophy*.
-* [Functionalism](https://iep.utm.edu/functism/), entry by Thomas Polger in the *Internet Encyclopedia of Philosophy*.
+* Wilson, Rob and Lucia Foglia, “Embodied Cognition,” _Stanford Encyclopedia of Philosophy_ (Summer 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2021/entries/embodied-cognition/](https://plato.stanford.edu/archives/sum2021/entries/embodied-cognition/). \[This was the previous entry on Embodied Cognition in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=embodied-cognition).]
+* [The Language of Thought Hypothesis](https://iep.utm.edu/lot-hypo/), entry by Matthew Katz in the _Internet Encyclopedia of Philosophy_.
+* [The Computational Theory of Mind](http://www.iep.utm.edu/compmind/), entry by Marcin Milkowski in the _Internet Encyclopedia of Philosophy_.
+* [Functionalism](https://iep.utm.edu/functism/), entry by Thomas Polger in the _Internet Encyclopedia of Philosophy_.
 
 ## Related Entries
 
-[artificial intelligence](https://plato.stanford.edu/entries/artificial-intelligence/) | [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) | [concepts](https://plato.stanford.edu/entries/concepts/) | [connectionism](https://plato.stanford.edu/entries/connectionism/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [functionalism](https://plato.stanford.edu/entries/functionalism/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [mental content: teleological theories of](https://plato.stanford.edu/entries/content-teleological/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [moral sentimentalism](https://plato.stanford.edu/entries/moral-sentimentalism/) | [neuroscience, philosophy of](https://plato.stanford.edu/entries/neuroscience/) | [other minds](https://plato.stanford.edu/entries/other-minds/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/)
+[artificial intelligence](https://plato.stanford.edu/entries/artificial-intelligence/) | [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) | [concepts](https://plato.stanford.edu/entries/concepts/) | [connectionism](https://plato.stanford.edu/entries/connectionism/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [functionalism](https://plato.stanford.edu/entries/functionalism/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [mental content: teleological theories of](https://plato.stanford.edu/entries/content-teleological/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [moral sentimentalism](https://plato.stanford.edu/entries/moral-sentimentalism/) | [neuroscience, philosophy of](https://plato.stanford.edu/entries/neuroscience/) | [other minds](https://plato.stanford.edu/entries/other-minds/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-Lawrence Shapiro <[*lshapiro@wisc.edu*](mailto:lshapiro%40wisc%2eedu)>  
-Shannon Spaulding <[*shannon.spaulding@okstate.edu*](mailto:shannon%2espaulding%40okstate%2eedu)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+Lawrence Shapiro <[_lshapiro@wisc.edu_](mailto:lshapiro%40wisc%2eedu)>\
+Shannon Spaulding <[_shannon.spaulding@okstate.edu_](mailto:shannon%2espaulding%40okstate%2eedu)>
