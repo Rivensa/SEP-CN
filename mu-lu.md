@@ -449,7 +449,7 @@
 * [强制 coercion (Scott Anderson)](c/qiang-zhi-coercion-scott-anderson.md)
 * [\*认知 cognition](c/ren-zhi-cognition/)
   * [\*动物——见动物认知 animal — see animal: cognition](c/ren-zhi-cognition/dong-wu-jian-dong-wu-dong-wu-ren-zhi-animal-see-animal-cognition.md)
-* [具身认知 embodied (Lawrence Shapiro and Shannon Spaulding)](c/ju-shen-ren-zhi-embodied-lawrence-shapiro-and-shannon-spaulding.md)
+* [具身认知 embodied (Lawrence Shapiro and Shannon Spaulding)](c/ren-zhi-cognition/ju-shen-ren-zhi-embodied-lawrence-shapiro-and-shannon-spaulding.md)
 * [认知障碍与道德地位 cognitive disability and moral status (David Wasserman, Adrienne Asch, Jeffrey Blustein, and Daniel Putnam)](c/ren-zhi-zhang-ai-yu-dao-de-di-wei-cognitive-disability-and-moral-status-david-wasserman-adrienne-asc.md)
 * [认知科学 cognitive science (Paul Thagard)](c/ren-zhi-ke-xue-cognitive-science-paul-thagard.md)
 * [道德认知主义与非认知主义 cognitivism vs. non-cognitivism, moral (Mark van Roojen)](c/dao-de-ren-zhi-zhu-yi-yu-fei-ren-zhi-zhu-yi-cognitivism-vs.-noncognitivism-moral-mark-van-roojen.md)

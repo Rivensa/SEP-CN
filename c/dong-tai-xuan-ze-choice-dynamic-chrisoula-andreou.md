@@ -1,6 +1,6 @@
 # 动态选择 choice, dynamic (Chrisoula Andreou)
 
-*首次发表于 2007 年 10 月 15 日星期一；实质性修订于 2020 年 10 月 20 日星期二*
+_首次发表于 2007 年 10 月 15 日星期一；实质性修订于 2020 年 10 月 20 日星期二_
 
 有时一系列选择即使每个选择看似都非常适合满足一个人的关切，但却并不总是能够很好地满足一个人的关切。在这种情况下，一个人会面临动态选择问题。换句话说，一个人会面临与其选择分散在时间上有关的问题。有越来越多的哲学文献涉及到心理学和经济学，探讨了有效动态选择面临的障碍。这些文献研究了可能导致动态选择问题的具有挑战性的选择情境和问题性偏好结构。它还提出了解决这些问题的方案。越来越多熟悉但潜在令人困惑的现象，比如自毁性的成瘾行为和危险的环境破坏，已经被动态选择理论所阐明。这表明动态选择理论的哲学和实践意义非常广泛。
 
@@ -22,7 +22,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/dynamic-choice/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/dynamic-choice/#Rel)
 
----
+***
 
 ## 1. 挑战性选择情境，问题偏好结构和动态选择问题
 
@@ -40,7 +40,7 @@
 
 (A1) 与她的孩子们一起度过为期六天的海滩假期
 
- Sure, please provide the text you would like me to translate into Simplified Chinese
+Sure, please provide the text you would like me to translate into Simplified Chinese
 
 (A2) 参加为期两个月的油画课程。
 
@@ -62,11 +62,11 @@
 
 (B1) 在山脚下折返回来拯救以撒
 
- I'm sorry, but it seems like your original text is missing. Could you please provide the text you would like me to translate into Simplified Chinese?
+I'm sorry, but it seems like your original text is missing. Could you please provide the text you would like me to translate into Simplified Chinese?
 
 (B1+) 拒绝动身前往山上，拯救以撒
 
- Translate the text to Simplified Chinese Language, please do not explain my original text.: > The Axiom of Choice
+Translate the text to Simplified Chinese Language, please do not explain my original text.: > The Axiom of Choice
 
 (B2) 顺服上帝并牺牲以撒。
 
@@ -82,13 +82,13 @@
 
 ![图 1](https://plato.stanford.edu/entries/dynamic-choice/figure1.jpg)
 
-图 1. 作为奖励可用的时间*t*接近时，奖励的折现价值逐渐增加。
+图 1. 作为奖励可用的时间_t_接近时，奖励的折现价值逐渐增加。
 
 实验心理学研究（参见，例如，Kirby＆Herrnstein 1995，Millar＆Navarick 1984，Solnick 等人 1980 和 Ainslie 2001）表明，鉴于动物（包括人类）如何贴现未来效用，存在许多情况，两个奖励的贴现曲线相交，一个是小奖励，另一个是较大的延迟奖励，如图 2 所示：
 
 ![图 2](https://plato.stanford.edu/entries/dynamic-choice/figure2.jpg)
 
-图 2. 两条交叉的折扣曲线，一条跟踪将在*t*1 时可用的小奖励的折现价值，另一条跟踪将在*t*2 时可用的大奖励的折现价值。
+图 2. 两条交叉的折扣曲线，一条跟踪将在_t_1 时可用的小奖励的折现价值，另一条跟踪将在_t_2 时可用的大奖励的折现价值。
 
 在这种情况下，代理人对未来效用的折现引起了对两种可能奖励的偏好反转。当两种奖励都不会立即到来时，在折现曲线交叉之前，代理人始终更喜欢较大的延迟奖励而不是较小的早期奖励。但是当接受小奖励的机会足够接近时，小奖励的折现价值会赶上并超过较大的延迟奖励的折现价值。随着折现曲线的交叉，代理人的偏好发生反转，她更喜欢小奖励而不是较大的延迟奖励。
 
@@ -100,27 +100,27 @@
 
 一个代理人的偏好结构不需要随时间变化才能引发动态选择问题。这样的问题也可能是由稳定但非传递的偏好引发的。
 
-一个人的偏好被视为传递的，如果它们满足以下条件：对于所有的 *x*、*y* 和 *z*，如果一个人更喜欢 *x* 而不是 *y*，*y* 而不是 *z*，那么他也更喜欢 *x* 而不是 *z*。如果一个人对一组选项的偏好不满足这个条件，那么这些偏好被视为不传递的。当一个人对一组选项的偏好是不传递的时候，那么他无法将这些选项从最喜欢到最不喜欢进行排名。即使一个人对选项的偏好是完全的，也就是说，所有的选项都相互排名。例如，假设一个人更喜欢工作 *A* 而不是工作 *B*，工作 *B* 而不是工作 *C*，但是工作 *C* 而不是工作 *A*。在这种情况下，一个人对集合 {工作 *A*，工作 *B*，工作 *C*} 的完全偏好形成一个偏好循环，可以表示为：
+一个人的偏好被视为传递的，如果它们满足以下条件：对于所有的 _x_、_y_ 和 _z_，如果一个人更喜欢 _x_ 而不是 _y_，_y_ 而不是 _z_，那么他也更喜欢 _x_ 而不是 _z_。如果一个人对一组选项的偏好不满足这个条件，那么这些偏好被视为不传递的。当一个人对一组选项的偏好是不传递的时候，那么他无法将这些选项从最喜欢到最不喜欢进行排名。即使一个人对选项的偏好是完全的，也就是说，所有的选项都相互排名。例如，假设一个人更喜欢工作 _A_ 而不是工作 _B_，工作 _B_ 而不是工作 _C_，但是工作 _C_ 而不是工作 _A_。在这种情况下，一个人对集合 {工作 _A_，工作 _B_，工作 _C_} 的完全偏好形成一个偏好循环，可以表示为：
 
 ![工作 A 工作 B 工作 C](https://plato.stanford.edu/entries/dynamic-choice/preference-loop1.jpg)
 
- 图 3。
+图 3。
 
-其中 *x* > *y* 被理解为 *x* 优先于 *y*。
+其中 _x_ > _y_ 被理解为 _x_ 优先于 _y_。
 
-能够有非传递性偏好吗？实验和理论经济学的研究（参见，例如，Tversky 1969）表明非传递性偏好存在并且可能相当普遍。考虑以下情况可能有助于说明非传递性偏好是如何产生的（无论它们是否合理）。假设 Jay 可以接受三份工作中的一份：工作*A*非常刺激但薪水低；工作*B*有些刺激且薪水相当不错；工作*C*不刺激但薪水很高。在这种情况下，人们可以想象 Jay 有以下偏好：他更喜欢工作*A*而不是工作*B*，因为薪水低和薪水相当不错之间的差异不足以让 Jay 放弃一份非常刺激的工作。同样，他更喜欢工作*B*而不是工作*C*，因为薪水相当不错和薪水很高之间的差异不足以让 Jay 放弃一份刺激的工作。但他更喜欢工作*C*而不是工作*A*，因为薪水很高和薪水低之间的差异足以让 Jay 放弃甚至是一份非常刺激的工作。
+能够有非传递性偏好吗？实验和理论经济学的研究（参见，例如，Tversky 1969）表明非传递性偏好存在并且可能相当普遍。考虑以下情况可能有助于说明非传递性偏好是如何产生的（无论它们是否合理）。假设 Jay 可以接受三份工作中的一份：工作_A_非常刺激但薪水低；工作_B_有些刺激且薪水相当不错；工作_C_不刺激但薪水很高。在这种情况下，人们可以想象 Jay 有以下偏好：他更喜欢工作_A_而不是工作_B_，因为薪水低和薪水相当不错之间的差异不足以让 Jay 放弃一份非常刺激的工作。同样，他更喜欢工作_B_而不是工作_C_，因为薪水相当不错和薪水很高之间的差异不足以让 Jay 放弃一份刺激的工作。但他更喜欢工作_C_而不是工作_A_，因为薪水很高和薪水低之间的差异足以让 Jay 放弃甚至是一份非常刺激的工作。
 
-鉴于由唐纳德·戴维森（Donald Davidson）、J. 麦金西（J. McKinsey）和帕特里克·苏普斯（Patrick Suppes）（1955 年）发展的著名“金钱泵论证”，很明显，不传递的偏好可能会有问题。就像关于赌博的荷兰书论证一样，其中代理的理性受到质疑，因为代理容易被制造出一本针对她的书（即接受一系列使她必然亏损多于可获利的赌注），金钱泵论证关注的是那些容易做出导致确定损失的选择组合的代理。根据金钱泵论证，不传递的偏好是不理性的，因为它们可能促使代理接受一系列交易提议，使代理最终仍拥有与开始相同的选项，但拥有更少的钱。以下是一个相关类型的案例。假设亚历克斯有以下不传递的偏好：他更喜欢拥有*A*型计算机而不是拥有*B*型计算机，更喜欢拥有*B*型计算机而不是拥有*C*型计算机，更喜欢拥有*C*型计算机而不是拥有*A*型计算机。还假设亚历克斯拥有一台*C*型计算机和一百美元的零花钱。最后假设，根据他在不同计算机类型之间的偏好，亚历克斯更喜欢（i）拥有*B*型计算机和比拥有*C*型计算机少一美元的零花钱，而不是拥有*C*型计算机，（ii）拥有*A*型计算机和比拥有*B*型计算机少一美元的零花钱，而不是拥有*B*型计算机，以及（iii）拥有*C*型计算机和比拥有*A*型计算机少一美元的零花钱，而不是拥有*A*型计算机。然后，一系列意外的交易机会可能给亚历克斯带来麻烦。特别是，如果给亚历克斯提供将他目前的（*C*型）计算机和一美元交换成*B*型计算机的机会，亚历克斯的偏好将促使他进行交易。 给予进一步的机会，用他当前的（类型 *B*）计算机和一美元交换成类型 *A* 的计算机，Alex 的偏好会促使他再次交易。而且，如果有机会用他当前的（类型 *A*）计算机和一美元交换成类型 *C* 的计算机，Alex 的偏好会促使他进行第三次交易。但是这一系列的交易让 Alex 最终还是拥有了最开始的那种类型的计算机，只剩下了 97 美元。而且，考虑到意想不到的交易机会可能会不断出现，Alex 的处境可能会继续恶化。尽管他重视自己的零花钱，但他的偏好使他容易被用作“金钱泵”。此外，基本金钱泵论证的有趣变体表明，具有像刚才考虑的那种非传递偏好的代理人，即使他有远见并正确预期即将到来的交易机会，也容易被金钱泵。例如，参见 Rabinowicz 2000 和 Dougherty 2014。
+鉴于由唐纳德·戴维森（Donald Davidson）、J. 麦金西（J. McKinsey）和帕特里克·苏普斯（Patrick Suppes）（1955 年）发展的著名“金钱泵论证”，很明显，不传递的偏好可能会有问题。就像关于赌博的荷兰书论证一样，其中代理的理性受到质疑，因为代理容易被制造出一本针对她的书（即接受一系列使她必然亏损多于可获利的赌注），金钱泵论证关注的是那些容易做出导致确定损失的选择组合的代理。根据金钱泵论证，不传递的偏好是不理性的，因为它们可能促使代理接受一系列交易提议，使代理最终仍拥有与开始相同的选项，但拥有更少的钱。以下是一个相关类型的案例。假设亚历克斯有以下不传递的偏好：他更喜欢拥有_A_型计算机而不是拥有_B_型计算机，更喜欢拥有_B_型计算机而不是拥有_C_型计算机，更喜欢拥有_C_型计算机而不是拥有_A_型计算机。还假设亚历克斯拥有一台_C_型计算机和一百美元的零花钱。最后假设，根据他在不同计算机类型之间的偏好，亚历克斯更喜欢（i）拥有_B_型计算机和比拥有_C_型计算机少一美元的零花钱，而不是拥有_C_型计算机，（ii）拥有_A_型计算机和比拥有_B_型计算机少一美元的零花钱，而不是拥有_B_型计算机，以及（iii）拥有_C_型计算机和比拥有_A_型计算机少一美元的零花钱，而不是拥有_A_型计算机。然后，一系列意外的交易机会可能给亚历克斯带来麻烦。特别是，如果给亚历克斯提供将他目前的（_C_型）计算机和一美元交换成_B_型计算机的机会，亚历克斯的偏好将促使他进行交易。 给予进一步的机会，用他当前的（类型 _B_）计算机和一美元交换成类型 _A_ 的计算机，Alex 的偏好会促使他再次交易。而且，如果有机会用他当前的（类型 _A_）计算机和一美元交换成类型 _C_ 的计算机，Alex 的偏好会促使他进行第三次交易。但是这一系列的交易让 Alex 最终还是拥有了最开始的那种类型的计算机，只剩下了 97 美元。而且，考虑到意想不到的交易机会可能会不断出现，Alex 的处境可能会继续恶化。尽管他重视自己的零花钱，但他的偏好使他容易被用作“金钱泵”。此外，基本金钱泵论证的有趣变体表明，具有像刚才考虑的那种非传递偏好的代理人，即使他有远见并正确预期即将到来的交易机会，也容易被金钱泵。例如，参见 Rabinowicz 2000 和 Dougherty 2014。
 
-即使他不充当货币泵，一个具有非传递偏好的代理人也可能陷入极大的麻烦中。为了看到这一点，考虑沃伦·奎因（Warren Quinn）的“自虐之谜”（1993 年）：假设某人——出于即将明显的原因，奎因称之为自虐者——身上连接着一个特殊的电器设备。该设备有 1001 个设置：0、1、2、3、…、1000，并且工作方式如下：提高一个设置会微小增加施加在自虐者身上的电流量。电流的增量非常小，以至于自虐者无法区分相邻设置之间的差异。然而，他可以区分相距较远的设置之间的差异。实际上，有些设置会让自虐者感受到极度的痛苦。每周一次，自虐者可以比较所有不同的设置。然后，他必须回到原来的设置，并决定是否要提高一个设置。如果他这样做，他将获得 10000 美元，但他永远不能永久返回到较低的设置。像我们大多数人一样，自虐者想增加他的财富，但也关心感觉良好。由于自虐者在相邻设置之间感受不到任何舒适度的差异，但在每次前进时都会获得 10000 美元，他更倾向于对于任意两个连续设置*s*和*s*+1，停在*s*+1 而不是停在*s*。但是，由于他不想为了一大笔财富而生活在极度痛苦中，他也更倾向于停在低设置（如 0）而不是停在高设置（如 1000）。
+即使他不充当货币泵，一个具有非传递偏好的代理人也可能陷入极大的麻烦中。为了看到这一点，考虑沃伦·奎因（Warren Quinn）的“自虐之谜”（1993 年）：假设某人——出于即将明显的原因，奎因称之为自虐者——身上连接着一个特殊的电器设备。该设备有 1001 个设置：0、1、2、3、…、1000，并且工作方式如下：提高一个设置会微小增加施加在自虐者身上的电流量。电流的增量非常小，以至于自虐者无法区分相邻设置之间的差异。然而，他可以区分相距较远的设置之间的差异。实际上，有些设置会让自虐者感受到极度的痛苦。每周一次，自虐者可以比较所有不同的设置。然后，他必须回到原来的设置，并决定是否要提高一个设置。如果他这样做，他将获得 10000 美元，但他永远不能永久返回到较低的设置。像我们大多数人一样，自虐者想增加他的财富，但也关心感觉良好。由于自虐者在相邻设置之间感受不到任何舒适度的差异，但在每次前进时都会获得 10000 美元，他更倾向于对于任意两个连续设置_s_和_s_+1，停在_s_+1 而不是停在_s_。但是，由于他不想为了一大笔财富而生活在极度痛苦中，他也更倾向于停在低设置（如 0）而不是停在高设置（如 1000）。
 
 鉴于他的偏好，自我折磨者无法将他面临的设置选项从最偏爱到最不偏爱进行排名。更具体地说，他的偏好包括以下偏好循环：
 
 ![setting 0 setting 1 setting 999 setting 1000 setting 0](https://plato.stanford.edu/entries/dynamic-choice/preference-loop2.jpg)
 
- 图 4。
+图 4。
 
-相关地，自虐者对可用设置选项的偏好是不传递的。如果他的偏好是传递的，那么，考虑到他更喜欢设置 2 而不是设置 1，更喜欢设置 1 而不是设置 0，他会更喜欢设置 2 而不是设置 0。考虑到他也更喜欢设置 3 而不是设置 2，他会（假设传递性）更喜欢设置 3 而不是设置 0。考虑到他也更喜欢设置 4 而不是设置 3，他会（假设传递性）更喜欢设置 4 而不是设置 0。继续这种推理方式会得出这样的结论：如果他的偏好是传递的，他会更喜欢设置 1000 而不是设置 0。由于他不更喜欢设置 1000 而不是设置 0，他的偏好是不传递的。这种不传递性会让自虐者走上一条可怕的道路。特别是，如果每周，自虐者遵循他必须在两个设置之间选择的偏好，他最终会陷入一种他完全无法接受的境地。这是相当令人不安的，特别是一旦人们意识到，尽管自虐者的情况是纯粹的科幻，但自虐者并不真正孤单地陷入困境。正如奎恩强调的那样，“我们大多数人在某种程度上都像他。[例如，我们大多数人]喜欢吃但也关心自己的外表。再多吃一口会让我们感到愉悦，也不会让我们看起来更胖；但吃很多口会”（Quinn 1993, 199）。
+相关地，自虐者对可用设置选项的偏好是不传递的。如果他的偏好是传递的，那么，考虑到他更喜欢设置 2 而不是设置 1，更喜欢设置 1 而不是设置 0，他会更喜欢设置 2 而不是设置 0。考虑到他也更喜欢设置 3 而不是设置 2，他会（假设传递性）更喜欢设置 3 而不是设置 0。考虑到他也更喜欢设置 4 而不是设置 3，他会（假设传递性）更喜欢设置 4 而不是设置 0。继续这种推理方式会得出这样的结论：如果他的偏好是传递的，他会更喜欢设置 1000 而不是设置 0。由于他不更喜欢设置 1000 而不是设置 0，他的偏好是不传递的。这种不传递性会让自虐者走上一条可怕的道路。特别是，如果每周，自虐者遵循他必须在两个设置之间选择的偏好，他最终会陷入一种他完全无法接受的境地。这是相当令人不安的，特别是一旦人们意识到，尽管自虐者的情况是纯粹的科幻，但自虐者并不真正孤单地陷入困境。正如奎恩强调的那样，“我们大多数人在某种程度上都像他。\[例如，我们大多数人]喜欢吃但也关心自己的外表。再多吃一口会让我们感到愉悦，也不会让我们看起来更胖；但吃很多口会”（Quinn 1993, 199）。
 
 鉴于货币泵论证和自虐者之谜，我们似乎可以得出这样的结论，即虽然非传递偏好有时是可以理解的，但依照它们行事可能远非明智。（然而，请注意，正如 Duncan MacIntosh（2010）所建议的，"一个不可接受的情况" 的概念在这里扮演着重要角色，如何兑现这一概念的问题需要额外关注。关于最近尝试解决这个问题的一种方法，请参见（Andreou 2015），其中将工具理性描绘为应对"主观评估反应"的，这些反应超越了代理人的偏好，有时允许某些结果在"偏好循环"中被视为（理性地）可接受，而其他结果被视为（理性地）不可接受。）
 
@@ -136,7 +136,7 @@
 
 这种情况下，看起来合乎逻辑的“局部”决定如何会导致偏离正道，这并不难理解。
 
-Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建议有趣地相关，后者认为许多活动是“由瞬时行动组成，这些行动以非局部方式相关联，跨越整个活动的整个长度”，并且“需要代理人持续欣赏整个活动的结构和结果” (2009, 406)。Ferrero 关注具有叙事维度的活动，即“…[这些]活动的特征时间结构的展开可以仅通过叙述全面而明了地描述” (412–3)，但追求模糊目标似乎也符合 Ferrero 的最初描述，以及他的想法，即相关类型的活动涉及“历时意志”的“典范操作” (406)。在所有这类活动中，“近端关注”的无情指导干扰了“活动的全局结构”所需的内容 (406)。
+Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建议有趣地相关，后者认为许多活动是“由瞬时行动组成，这些行动以非局部方式相关联，跨越整个活动的整个长度”，并且“需要代理人持续欣赏整个活动的结构和结果” (2009, 406)。Ferrero 关注具有叙事维度的活动，即“…\[这些]活动的特征时间结构的展开可以仅通过叙述全面而明了地描述” (412–3)，但追求模糊目标似乎也符合 Ferrero 的最初描述，以及他的想法，即相关类型的活动涉及“历时意志”的“典范操作” (406)。在所有这类活动中，“近端关注”的无情指导干扰了“活动的全局结构”所需的内容 (406)。
 
 ### 1.5 自主受益案例
 
@@ -144,7 +144,7 @@ Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建�
 
 在自主利益案例中，一个人受益于形成某种意图，而不是执行相关行动。在动态选择文献中占据主要地位的自主利益案例是那些执行与有益意图相关的行动会带来不利后果而不仅仅是没有奖励的案例。最著名的自主利益案例之一是格雷戈里·卡夫卡的“毒素难题”（1983 年）。在卡夫卡构想的案例中，
 
-一个古怪的亿万富翁……在你面前放了一瓶毒药……[并提供以下信息：]如果你喝下[毒药]，会让你痛苦地生病一天，但不会威胁你的生命或留下任何持久的影响……如果在今晚午夜时，你打算明天下午喝下毒药……亿万富翁将在明天早上支付给你一百万美元……你无需喝下毒药就能拿到这笔钱；事实上，如果你成功，钱将在喝下毒药的时间到来之前几个小时就已经进入你的银行账户……排除了……外部激励的安排，以及雇佣催眠师植入意图等替代花招。（Kavka 1983, 33–4）
+一个古怪的亿万富翁……在你面前放了一瓶毒药……\[并提供以下信息：]如果你喝下\[毒药]，会让你痛苦地生病一天，但不会威胁你的生命或留下任何持久的影响……如果在今晚午夜时，你打算明天下午喝下毒药……亿万富翁将在明天早上支付给你一百万美元……你无需喝下毒药就能拿到这笔钱；事实上，如果你成功，钱将在喝下毒药的时间到来之前几个小时就已经进入你的银行账户……排除了……外部激励的安排，以及雇佣催眠师植入意图等替代花招。（Kavka 1983, 33–4）
 
 这个案例有趣的部分在于，即使大多数人愿意为一百万美元喝下毒药，但要得到这一百万美元并不容易。这是因为喝下毒药并不能换取一百万美元。事实上，喝下毒药只会换来一天的疾病。正如卡夫卡解释的那样，在毒药即将被消费时，一个人要么已经在自己的账户里有了一百万，要么没有；而喝下毒药并不能获得任何（额外的）资金。假设一个人不想白白生病，喝下毒药似乎涉及采取逆向偏好的行为——如果不是不可能的话，至少也不是一件容易的事。因此，在对情况有清晰的理解的情况下，一个人很可能会发现很难，如果不是不可能的话，去形成喝下毒药的意图。假设一个人确信自己不会喝下毒药，那么就不可能形成喝下毒药的意图。如果一个人能够在某种程度上依赖未来的自己的合作，那么就可以真正地形成喝下毒药的意图，从而得到一百万美元——这对于一个人的现在和未来来说都是一个美妙的结果。但是，唉，当时机到来时，一个人的未来自己似乎没有理由喝下毒药。
 
@@ -158,7 +158,7 @@ Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建�
 
 有时我们可以使用两种策略来解决（在实际处理中）动态选择问题，这是 Kavka 在毒素难题描述中提出的。一种策略是使用花招，导致人们以与自己的偏好不符的方式推理或选择。另一种策略涉及安排外部激励措施。尽管这些策略在 Kavka 的案例中被排除在外，但它们在较不受限制的情况下可能会证明有用。本小节考虑前一种策略，下一小节考虑后一种策略。
 
-如果一个人接受了一个普遍的假设，即导致自己以一种与自己的偏好不符的方式推理或选择会使自己变得不理性，那么前一种策略可以被认为是旨在通过理性诱导而变得不理性。这种策略的一个幻想但清晰的例证是在 Derek Parfit 的作品（1984）中提出的。在 Parfit 的例子中（被标记为*Schelling 对武装抢劫的回答*，因为它借鉴了 Thomas Schelling 的观点，即“在冲突情况下无法被证明和显然是理性的决策和动机并非普遍优势”（Schelling 1960, 18）），一个强盗闯入某人的房子，并命令房主，称之为 Moe，打开他藏有黄金的保险柜。强盗威胁说如果 Moe 不遵从，他就会射杀 Moe 的孩子。但 Moe 意识到，即使他遵从，他和他的孩子很可能会被射杀，因为强盗会想要摆脱他们，以便他们不能记录他的逃跑车辆信息并将其提供给警察（警察将在大约 15 分钟内从最近的镇上赶到，以响应 Moe 的电话，这是由于第一次闯入的迹象而引起的）。幸运的是，Moe 手边有一种特殊的药物，如果服用，会导致一个短暂的不理性状态。意识到这种药物是他唯一的希望，Moe 服用了这种药物，立即失去了理智。他开始“在房间里摇晃”，说出像“继续吧。我爱我的孩子。所以请杀了他们”（Parfit 1984, 13）这样的话。鉴于 Moe 目前的状态，强盗无法做任何事情来诱使 Moe 打开保险柜。杀死 Moe 或他的孩子是没有意义的。现在唯一明智的做法是在警察到达之前赶紧离开。
+如果一个人接受了一个普遍的假设，即导致自己以一种与自己的偏好不符的方式推理或选择会使自己变得不理性，那么前一种策略可以被认为是旨在通过理性诱导而变得不理性。这种策略的一个幻想但清晰的例证是在 Derek Parfit 的作品（1984）中提出的。在 Parfit 的例子中（被标记为_Schelling 对武装抢劫的回答_，因为它借鉴了 Thomas Schelling 的观点，即“在冲突情况下无法被证明和显然是理性的决策和动机并非普遍优势”（Schelling 1960, 18）），一个强盗闯入某人的房子，并命令房主，称之为 Moe，打开他藏有黄金的保险柜。强盗威胁说如果 Moe 不遵从，他就会射杀 Moe 的孩子。但 Moe 意识到，即使他遵从，他和他的孩子很可能会被射杀，因为强盗会想要摆脱他们，以便他们不能记录他的逃跑车辆信息并将其提供给警察（警察将在大约 15 分钟内从最近的镇上赶到，以响应 Moe 的电话，这是由于第一次闯入的迹象而引起的）。幸运的是，Moe 手边有一种特殊的药物，如果服用，会导致一个短暂的不理性状态。意识到这种药物是他唯一的希望，Moe 服用了这种药物，立即失去了理智。他开始“在房间里摇晃”，说出像“继续吧。我爱我的孩子。所以请杀了他们”（Parfit 1984, 13）这样的话。鉴于 Moe 目前的状态，强盗无法做任何事情来诱使 Moe 打开保险柜。杀死 Moe 或他的孩子是没有意义的。现在唯一明智的做法是在警察到达之前赶紧离开。
 
 鉴于食用非理性药物甚至雇佣催眠师通常不是我们动态选择问题的可行解决方案，理性诱导非理性的可能性似乎在实际上并不相关。但也许我们经常受益于更或多或少是这种策略版本的非意识运用。例如，有时我们会自欺欺人或沉溺于非理性的恐惧或迷信，当方便这样做时。在毒素类型的情况下，我们许多人可能天生倾向于沉湎于和纵容迷信的恐惧，比如担心如果成功获得一百万美元但不喝下毒素就会受到厄运的恐惧。有了这种恐惧，如果得到一百万，一个人可能非常有信心会喝下毒素；因此，一个人可能很容易形成喝下毒素的意图。尽管这并不是一个人可以有意计划使用的毒素难题的解决方案（也不是解决该案例引发的理论问题的解决方案），但它可能经常帮助我们有效应对毒素类型的情况。（有关自欺欺人、“动机偏见信念”和更一般的“动机非理性”的清晰简明讨论，请参见，例如，Mele 2004。）
 
@@ -166,11 +166,11 @@ Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建�
 
 另一种经常用于处理某些动态选择问题的策略是安排外部激励措施，使未来的自己愿意配合当前的计划。这种策略在处理由折扣引起的偏好逆转时特别有用。再次考虑那位希望为体面退休存钱的人，但是，随着每次存钱的机会临近，她更倾向于把潜在的退休储蓄用于再多一次琐碎的放纵，最后才为了未来她认为对自己幸福至关重要的满足感而勒紧裤腰带。如果这位人的计划一直被她由折扣引起的偏好逆转所阻挠，她可能会得出结论：如果不通过补充能防止造成她诸多困扰的偏好逆转的激励措施，她将永远无法为体面的退休存钱。如果她幸运的话，她可能会找到一个现成的预承诺设备可以利用。例如，假设她可以在工作中注册一个计划，从一个月后开始，自动将一部分工资存入退休基金。如果她无法在没有重大惩罚的情况下取出存款，并且必须提前一个月通知停止参与该计划，那么注册该计划可能会改变她把潜在的退休储蓄用于琐碎放纵的成本和回报结构，使这个选择始终不受欢迎。如果没有现成的预承诺设备可用，她可能可以自己创建一个合适的设备。例如，如果她非常厌恶违背诺言，她可能只需向一个关心她的朋友承诺，从此以后会将一定比例的工资存入退休基金，就能解决她的问题。
 
-在某些情况下，一个人可能不太确信自己能够安排外部激励措施，以便让未来的自己自愿配合当前的计划。因此，一个人可能更倾向于相关但更极端的策略，即确保未来的自己无法阻挠当前的计划。这种策略不仅仅是让合作变得更有价值（因此，在某种意义上更具说服力），而是涉及安排使用强制手段（*以更强烈的意义上的*强迫）。这种策略的一个虚构但特别著名的应用（例如在 Elster 1984 中讨论过）是荷马的《奥德赛》中奥德修斯使用的。因为他渴望听到塞壬迷人的歌声，但又担心这样会让自己陷入危险，奥德修斯指示他的同伴将他捆绑在船桅上，并抵制他（预期中的）试图挣脱所请求的束缚的企图。
+在某些情况下，一个人可能不太确信自己能够安排外部激励措施，以便让未来的自己自愿配合当前的计划。因此，一个人可能更倾向于相关但更极端的策略，即确保未来的自己无法阻挠当前的计划。这种策略不仅仅是让合作变得更有价值（因此，在某种意义上更具说服力），而是涉及安排使用强制手段（_以更强烈的意义上的_强迫）。这种策略的一个虚构但特别著名的应用（例如在 Elster 1984 中讨论过）是荷马的《奥德赛》中奥德修斯使用的。因为他渴望听到塞壬迷人的歌声，但又担心这样会让自己陷入危险，奥德修斯指示他的同伴将他捆绑在船桅上，并抵制他（预期中的）试图挣脱所请求的束缚的企图。
 
 ### 2.3 符号效用
 
-另一种处理某些动态选择问题的策略是由罗伯特·诺齐克（1993）提出的——即将行动赋予象征性效用（或价值），然后允许自己不仅受到行动的因果重要性的影响，还受到它们象征意义的影响。根据诺齐克，“行动和结果可以象征着更进一步的事件...[并且]吸引自身其他事件的情感意义（和效用...）”（26）。如果“我们将效用归因于行动...与它们所象征的相协调，并且我们努力实现（或避免）它们，就像我们努力实现它们所代表的那样”（32），我们的选择将不同于如果我们只考虑我们行动的因果重要性时的选择。例如，考虑自我折磨者的情况。假设自我折磨者在十周内提高了十个设置。他仍然处于一个非常舒适的范围，但他开始担心最终会处于一个会让他痛苦不堪的高设置。他意识到他应该趁热打铁，于是开始象征性地将在下一个机会上提高一个设置与在每一个即将到来的机会上提高一个设置联系起来。到下一个提高设置的机会到来时，这种潜在行动的极其负面象征意义使他远离执行这一行动。对于一个结构类似但更贴近现实的例子，考虑一个喜欢暴饮暴食但又不愿变胖的人。如果这个人开始象征性地将多吃一份食物与一般暴饮暴食以及因此变胖联系起来，他可能会不愿意多吃一份，即使在因果方面，他在这种特定情况下所做的是微不足道的。
+另一种处理某些动态选择问题的策略是由罗伯特·诺齐克（1993）提出的——即将行动赋予象征性效用（或价值），然后允许自己不仅受到行动的因果重要性的影响，还受到它们象征意义的影响。根据诺齐克，“行动和结果可以象征着更进一步的事件...\[并且]吸引自身其他事件的情感意义（和效用...）”（26）。如果“我们将效用归因于行动...与它们所象征的相协调，并且我们努力实现（或避免）它们，就像我们努力实现它们所代表的那样”（32），我们的选择将不同于如果我们只考虑我们行动的因果重要性时的选择。例如，考虑自我折磨者的情况。假设自我折磨者在十周内提高了十个设置。他仍然处于一个非常舒适的范围，但他开始担心最终会处于一个会让他痛苦不堪的高设置。他意识到他应该趁热打铁，于是开始象征性地将在下一个机会上提高一个设置与在每一个即将到来的机会上提高一个设置联系起来。到下一个提高设置的机会到来时，这种潜在行动的极其负面象征意义使他远离执行这一行动。对于一个结构类似但更贴近现实的例子，考虑一个喜欢暴饮暴食但又不愿变胖的人。如果这个人开始象征性地将多吃一份食物与一般暴饮暴食以及因此变胖联系起来，他可能会不愿意多吃一份，即使在因果方面，他在这种特定情况下所做的是微不足道的。
 
 ### 2.4 计划与决心
 
@@ -196,7 +196,7 @@ Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建�
 
 根据自毁性成瘾行为最熟悉的模型，这种行为是由限制“行为自主控制范围”的渴望导致的，在某些情况下可能是无法抗拒的，“完全压倒性地影响决策” (Loewenstein 1999, 235–6)。但是，正如我们从动态选择理论中所了解的那样，自毁性行为不一定是被迫的。它也可能受到挑战性选择情境和问题偏好结构的支持，从而引发动态选择问题。对这一点的思考已经引发了关于自毁性成瘾行为可能来源的新想法。例如，George Ainslie (2001) 提出了这样一种观点，即诸如吸烟之类的成瘾习惯——即使在没有无法抗拒的渴望的情况下似乎也能蓬勃发展——往往受到折扣诱导的偏好逆转的支持。鉴于存在折扣诱导的偏好逆转的可能性，即使是一个非常在乎未来健康的人，因此不想成为一个烟民，也很容易发现自己一支接一支地吸烟，这在她看来是一系列计划好的放纵，然后又后悔不已。
 
-对动态选择理论的反思也引发了环境哲学领域的新思路。例如，Chrisoula Andreou（2006）认为，尽管危险的环境破坏通常被分析为由利益冲突导致，但即使在没有这种冲突的情况下，这种破坏也可能蓬勃发展。特别是在涉及个体上可以忽略不计的影响的情况下，就像在“潜在环境问题”（如污染）中一样，“一个代理人，无论是个人还是*统一*集体，可能仅仅是因为遵循其知情且完全可以理解但*不传递*的偏好而走向毁灭的道路”（Andreou 2006, 96）。例如，注意，如果一个统一的集体重视健康的社区，但同时又重视促进致癌环境的奢侈品的生产或使用，它可能发现自己处于一种结构上类似于自我折磨者的境地。像自我折磨者一样，这样一个集体必须应对这样一个事实，即虽然再多一天，甚至再多一个月的放纵可能会带来巨大的回报，而又不会对（身体或心理）健康造成任何重大改变，“持续的放纵远非无害”（Andreou 2006, 101）。
+对动态选择理论的反思也引发了环境哲学领域的新思路。例如，Chrisoula Andreou（2006）认为，尽管危险的环境破坏通常被分析为由利益冲突导致，但即使在没有这种冲突的情况下，这种破坏也可能蓬勃发展。特别是在涉及个体上可以忽略不计的影响的情况下，就像在“潜在环境问题”（如污染）中一样，“一个代理人，无论是个人还是_统一_集体，可能仅仅是因为遵循其知情且完全可以理解但_不传递_的偏好而走向毁灭的道路”（Andreou 2006, 96）。例如，注意，如果一个统一的集体重视健康的社区，但同时又重视促进致癌环境的奢侈品的生产或使用，它可能发现自己处于一种结构上类似于自我折磨者的境地。像自我折磨者一样，这样一个集体必须应对这样一个事实，即虽然再多一天，甚至再多一个月的放纵可能会带来巨大的回报，而又不会对（身体或心理）健康造成任何重大改变，“持续的放纵远非无害”（Andreou 2006, 101）。
 
 显然，成功实现长期目标可能需要在途中表现出一些克制；但很诱人的是推迟表现出克制，倾向于稍微放纵而不是着手进行挑战性的行动或不作为，这些行动或不作为将有助于实现重要的长期目标。在这里，就像在许多其他情境中一样，拖延被视为一种严重威胁。
 
@@ -210,71 +210,71 @@ Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建�
 
 ## Bibliography
 
-* Ainslie, George, 1999. “The Dangers of Willpower,” in *Getting Hooked*, Jon Elster and Ole-Jørgen Skog (eds.), Cambridge: Cambridge University Press, pp. 65–92.
-* –––, 2001. *Breakdown of Will*, Cambridge: Cambridge University Press.
-* Andreou, Chrisoula, 2005. “Incommensurable Alternatives and Rational Choice,” *Ratio*, 18(3): 249–61.
-* –––, 2005. “Going from Bad (or Not So Bad) to Worse: On Harmful Addictions and Habits,” *American Philosophical Quarterly*, 42(4): 323–31.
-* –––, 2006. “Environmental Damage and the Puzzle of the Self-Torturer,” *Philosophy & Public Affairs*, 34(1): 95–108.
-* –––, 2007. “There Are Preferences and Then There Are Preferences” in *Economics and the Mind*, Barbara Montero and Mark D. White (eds.), New York: Routledge, pp. 115–126.
-* –––, 2007. “Understanding Procrastination,” *Journal for the Theory of Social Behaviour*, 37(2): 183–93.
-* –––, 2012. “Self-Defeating Self-Governance,” *Philosophical Issues*, 22: 20–34.
-* –––, 2015. “The Real Puzzle of the Self-Torturer: Uncovering a New Dimension of Instrumental Rationality,” *Canadian Journal of Philosophy*, 45: 562–75
-* Andreou, Chrisoula and Mark D. White (eds.), 2010. *The Thief of Time: Philosophical Essays on Procrastination*, Oxford: Oxford University Press.
-* Bratman, Michael, 1983. “Taking Plans Seriously,” *Social Theory and Practice*, 9: 271–87.
-* –––, 1987. *Intentions, Plans, and Practical Reason*, Cambridge, MA: Harvard University Press.
-* –––, 1999. “Toxin, Temptation, and the Stability of Intention,” in *Faces of Intention*, Cambridge: Cambridge University Press, pp. 58–90.
-* –––, 2006. “Temptation Revisited,” in *Structures of Agency*, Oxford: Oxford University Press, pp. 257–282.
-* –––, 2012. “Time, Rationality, and Self-Governance,” *Philosophical Issues*, 22: 73–88.
-* –––, 2014. “Temptation and the Agent’s Standpoint,” *Inquiry*, 57: 293–310.
-* –––, 2018. *Planning, Time, and Self-Governance*, New York: Oxford University Press.
-* Broome, John, 2000. “Incommensurable Values,” in *Well-Being and Morality: Essays in Honour of James Griffin*, Roger Crisp and Brad Hooker (eds.), Oxford: Oxford University Press, pp. 21–38.
-* –––, 2001. “Are Intentions Reasons? And How Should We Cope with Incommensurable Values?” in *Practical Rationality and Preference*, Christopher W. Morris and Arthur Ripstein (eds.), Cambridge: Cambridge University Press, pp. 98–120.
-* Chang, Ruth (ed.), 1997. *Incommensurability, Incomparability, and Practical Reason*, Cambridge, MA: Harvard University Press.
-* –––, 2002. “The Possibility of Parity,” *Ethics*, 112: 659–88
-* Davidson, Donald, McKinsey, J. and Suppes, Patrick, 1955. “Outlines of a Formal Theory of Value,” *Philosophy of Science*, 22: 140–60.
-* Dougherty, Tom, 2011, “On Whether to Prefer Pain to Pass,” *Ethics*, 121: 521–37.
-* –––, 2014, “A Deluxe Money Pump,” *Thought*, 3: 21–29.
-* Elster, Jon, 1984. *Ulysses and the Sirens*, Cambridge: Cambridge University Press.
-* –––, 2000. *Ulysses Unbound*, Cambridge: Cambridge University Press.
-* Elster, Jon and Ole-Jørgen Skog (eds.), 1999. *Getting Hooked*, Cambridge: Cambridge University Press.
-* Ferrero, Luca, 2009. “What Good is a Diachronic Will?,” *Philosophical Studies*, 144: 403–30.
-* Gauthier, David, 1986. *Morals by Agreement*, Oxford: Clarendon Press.
-* –––, 1994. “Assure and Threaten,” *Ethics*, 104(4): 690–716.
-* Greene, Preston and Meghan Sullivan, 2015. “Against Time Bias,” *Ethics*, 125: 947–70.
-* Holton, Richard, 1999. “Intention and Weakness of Will,” *Journal of Philosophy*, 96: 241–62.
-* Kavka, Gregory S., 1983. “The Toxin Puzzle,” *Analysis*, 43: 33–6.
-* Kirby, Kris N. and R. J. Herrnstein, 1995. “Preference Reversals Due to Myopic Discounting of Delayed Reward,” *Psychological Science*, 6: 83–89.
-* Loewenstein, George and Jon Elster (eds.), 1992. *Choice Over Time*, New York: Russell Sage Foundation.
-* Loewenstein, George, Daniel Read, and Roy Baumeister (eds.), 2003. *Time and Decision*, New York: Russell Sage Foundation.
-* MacIntosh, Duncan, 2010. “Intransitive Preferences, Vagueness, and the Structure of Procrastination” in *The Thief of Time: Philosophical Essays on Procrastination*, Chrisoula Andreou and Mark D. White (eds.), Oxford: Oxford University Press, pp. 68–86.
-* Mele, Alfred, 2004. “Motivated Irrationality,” in *The Oxford Handbook of Rationality*, Oxford: Oxford University Press, pp. 240–256.
-* McClennen, Edward, 1990. *Rationality and Dynamic Choice*, Cambridge: Cambridge University Press.
-* –––, 1997. “Pragmatic Rationality and Rules,” *Philosophy and Public Affairs*, 26(3): 210–58.
-* Millar, Andrew and Douglas J. Navarick, 1984. “Self-Control and Choice in Humans: Effects of Video Game Playing as a Positive Reinforcer,” *Learning and Motivation*, *15*: 203–218.
-* Nozick, Robert, 1993. *The Nature of Rationality*, Princeton: Princeton University Press.
-* Parfit, Derek, 1984. *Reasons and Persons*, Oxford: Clarendon Press.
-* Portmore, Douglas W., 2019. *Opting for the Best: Oughts and Options*, New York: Oxford University Press.
-* Quinn, Warren, 1993. “The Puzzle of the Self-Torturer,” in *Morality and Action*, Cambridge: Cambridge University Press, pp. 198–209.
-* Rabinowicz, Wlodek, 2000. “Money Pump with Foresight,” in M. J. Almeida (ed.), *Imperceptible Harms and Benefits* (Library of Ethics and Applied Philosophy: 8), Dordrecht, London: Kluwer Academic, pp. 123–154.
-* Ramsey, Frank P., 1926. “Truth and Probability,” in *The Foundations of Mathematics and other Logical Essays*, R. B. Braithwaite (ed.), London: Routledge & Kegan Paul, 1931, pp. 156–198.
-* Raz, Joseph, 1997. “Incommensurability and Agency,” in *Incommensurability, Incomparability, and Practical Reason*, Ruth Chang (ed.), Cambridge, MA: Harvard University Press, pp. 110–128.
-* –––, 1986. *The Morality of Freedom*, Oxford: Clarendon Press.
-* Regan, Donald, 1997. “Value, Comparability, and Choice,” in *Incommensurability, Incomparability, and Practical Reason*, Ruth Chang (ed.), Cambridge, MA: Harvard University Press, pp. 129–150.
-* Schelling, Thomas C., 1960. *The Strategy of Conflict*, Cambridge, MA: Harvard University Press.
-* Solnick, Jay V., Catherine H. Kannenberg, David A. Eckerman, and Marcus B. Waller. “An Experimental Analysis of Impulsivity and Impulse Control in Humans,” *Learning and Motivation*, 11: 61–77.
-* Stroud, Sarah, 2010. “Is Procrastination Weakness of Will?” in *The Thief of Time: Philosophical Essays on Procrastination*, Chrisoula Andreou and Mark D. White (eds.), Oxford: Oxford University Press, pp. 51–67.
-* Tenenbaum, Sergio, forthcoming. *Rational Powers in Action*, New York: Oxford University Press.
-* Tenenbaum, Sergio and Diana Raffman, 2012. “Vague Projects and the Puzzle of the Self-Torturer,” *Ethics*, 123: 86–112.
-* Tversky, Amos, 1969. “Intransitivity of Preferences,” *Psychological Review*, 76: 31–48.
-* Velleman, David, 2000. “Deciding How to Decide,” in *The Possibility of Practical Reason*, Oxford: Clarendon Press, pp. 221–243.
+* Ainslie, George, 1999. “The Dangers of Willpower,” in _Getting Hooked_, Jon Elster and Ole-Jørgen Skog (eds.), Cambridge: Cambridge University Press, pp. 65–92.
+* –––, 2001. _Breakdown of Will_, Cambridge: Cambridge University Press.
+* Andreou, Chrisoula, 2005. “Incommensurable Alternatives and Rational Choice,” _Ratio_, 18(3): 249–61.
+* –––, 2005. “Going from Bad (or Not So Bad) to Worse: On Harmful Addictions and Habits,” _American Philosophical Quarterly_, 42(4): 323–31.
+* –––, 2006. “Environmental Damage and the Puzzle of the Self-Torturer,” _Philosophy & Public Affairs_, 34(1): 95–108.
+* –––, 2007. “There Are Preferences and Then There Are Preferences” in _Economics and the Mind_, Barbara Montero and Mark D. White (eds.), New York: Routledge, pp. 115–126.
+* –––, 2007. “Understanding Procrastination,” _Journal for the Theory of Social Behaviour_, 37(2): 183–93.
+* –––, 2012. “Self-Defeating Self-Governance,” _Philosophical Issues_, 22: 20–34.
+* –––, 2015. “The Real Puzzle of the Self-Torturer: Uncovering a New Dimension of Instrumental Rationality,” _Canadian Journal of Philosophy_, 45: 562–75
+* Andreou, Chrisoula and Mark D. White (eds.), 2010. _The Thief of Time: Philosophical Essays on Procrastination_, Oxford: Oxford University Press.
+* Bratman, Michael, 1983. “Taking Plans Seriously,” _Social Theory and Practice_, 9: 271–87.
+* –––, 1987. _Intentions, Plans, and Practical Reason_, Cambridge, MA: Harvard University Press.
+* –––, 1999. “Toxin, Temptation, and the Stability of Intention,” in _Faces of Intention_, Cambridge: Cambridge University Press, pp. 58–90.
+* –––, 2006. “Temptation Revisited,” in _Structures of Agency_, Oxford: Oxford University Press, pp. 257–282.
+* –––, 2012. “Time, Rationality, and Self-Governance,” _Philosophical Issues_, 22: 73–88.
+* –––, 2014. “Temptation and the Agent’s Standpoint,” _Inquiry_, 57: 293–310.
+* –––, 2018. _Planning, Time, and Self-Governance_, New York: Oxford University Press.
+* Broome, John, 2000. “Incommensurable Values,” in _Well-Being and Morality: Essays in Honour of James Griffin_, Roger Crisp and Brad Hooker (eds.), Oxford: Oxford University Press, pp. 21–38.
+* –––, 2001. “Are Intentions Reasons? And How Should We Cope with Incommensurable Values?” in _Practical Rationality and Preference_, Christopher W. Morris and Arthur Ripstein (eds.), Cambridge: Cambridge University Press, pp. 98–120.
+* Chang, Ruth (ed.), 1997. _Incommensurability, Incomparability, and Practical Reason_, Cambridge, MA: Harvard University Press.
+* –––, 2002. “The Possibility of Parity,” _Ethics_, 112: 659–88
+* Davidson, Donald, McKinsey, J. and Suppes, Patrick, 1955. “Outlines of a Formal Theory of Value,” _Philosophy of Science_, 22: 140–60.
+* Dougherty, Tom, 2011, “On Whether to Prefer Pain to Pass,” _Ethics_, 121: 521–37.
+* –––, 2014, “A Deluxe Money Pump,” _Thought_, 3: 21–29.
+* Elster, Jon, 1984. _Ulysses and the Sirens_, Cambridge: Cambridge University Press.
+* –––, 2000. _Ulysses Unbound_, Cambridge: Cambridge University Press.
+* Elster, Jon and Ole-Jørgen Skog (eds.), 1999. _Getting Hooked_, Cambridge: Cambridge University Press.
+* Ferrero, Luca, 2009. “What Good is a Diachronic Will?,” _Philosophical Studies_, 144: 403–30.
+* Gauthier, David, 1986. _Morals by Agreement_, Oxford: Clarendon Press.
+* –––, 1994. “Assure and Threaten,” _Ethics_, 104(4): 690–716.
+* Greene, Preston and Meghan Sullivan, 2015. “Against Time Bias,” _Ethics_, 125: 947–70.
+* Holton, Richard, 1999. “Intention and Weakness of Will,” _Journal of Philosophy_, 96: 241–62.
+* Kavka, Gregory S., 1983. “The Toxin Puzzle,” _Analysis_, 43: 33–6.
+* Kirby, Kris N. and R. J. Herrnstein, 1995. “Preference Reversals Due to Myopic Discounting of Delayed Reward,” _Psychological Science_, 6: 83–89.
+* Loewenstein, George and Jon Elster (eds.), 1992. _Choice Over Time_, New York: Russell Sage Foundation.
+* Loewenstein, George, Daniel Read, and Roy Baumeister (eds.), 2003. _Time and Decision_, New York: Russell Sage Foundation.
+* MacIntosh, Duncan, 2010. “Intransitive Preferences, Vagueness, and the Structure of Procrastination” in _The Thief of Time: Philosophical Essays on Procrastination_, Chrisoula Andreou and Mark D. White (eds.), Oxford: Oxford University Press, pp. 68–86.
+* Mele, Alfred, 2004. “Motivated Irrationality,” in _The Oxford Handbook of Rationality_, Oxford: Oxford University Press, pp. 240–256.
+* McClennen, Edward, 1990. _Rationality and Dynamic Choice_, Cambridge: Cambridge University Press.
+* –––, 1997. “Pragmatic Rationality and Rules,” _Philosophy and Public Affairs_, 26(3): 210–58.
+* Millar, Andrew and Douglas J. Navarick, 1984. “Self-Control and Choice in Humans: Effects of Video Game Playing as a Positive Reinforcer,” _Learning and Motivation_, _15_: 203–218.
+* Nozick, Robert, 1993. _The Nature of Rationality_, Princeton: Princeton University Press.
+* Parfit, Derek, 1984. _Reasons and Persons_, Oxford: Clarendon Press.
+* Portmore, Douglas W., 2019. _Opting for the Best: Oughts and Options_, New York: Oxford University Press.
+* Quinn, Warren, 1993. “The Puzzle of the Self-Torturer,” in _Morality and Action_, Cambridge: Cambridge University Press, pp. 198–209.
+* Rabinowicz, Wlodek, 2000. “Money Pump with Foresight,” in M. J. Almeida (ed.), _Imperceptible Harms and Benefits_ (Library of Ethics and Applied Philosophy: 8), Dordrecht, London: Kluwer Academic, pp. 123–154.
+* Ramsey, Frank P., 1926. “Truth and Probability,” in _The Foundations of Mathematics and other Logical Essays_, R. B. Braithwaite (ed.), London: Routledge & Kegan Paul, 1931, pp. 156–198.
+* Raz, Joseph, 1997. “Incommensurability and Agency,” in _Incommensurability, Incomparability, and Practical Reason_, Ruth Chang (ed.), Cambridge, MA: Harvard University Press, pp. 110–128.
+* –––, 1986. _The Morality of Freedom_, Oxford: Clarendon Press.
+* Regan, Donald, 1997. “Value, Comparability, and Choice,” in _Incommensurability, Incomparability, and Practical Reason_, Ruth Chang (ed.), Cambridge, MA: Harvard University Press, pp. 129–150.
+* Schelling, Thomas C., 1960. _The Strategy of Conflict_, Cambridge, MA: Harvard University Press.
+* Solnick, Jay V., Catherine H. Kannenberg, David A. Eckerman, and Marcus B. Waller. “An Experimental Analysis of Impulsivity and Impulse Control in Humans,” _Learning and Motivation_, 11: 61–77.
+* Stroud, Sarah, 2010. “Is Procrastination Weakness of Will?” in _The Thief of Time: Philosophical Essays on Procrastination_, Chrisoula Andreou and Mark D. White (eds.), Oxford: Oxford University Press, pp. 51–67.
+* Tenenbaum, Sergio, forthcoming. _Rational Powers in Action_, New York: Oxford University Press.
+* Tenenbaum, Sergio and Diana Raffman, 2012. “Vague Projects and the Puzzle of the Self-Torturer,” _Ethics_, 123: 86–112.
+* Tversky, Amos, 1969. “Intransitivity of Preferences,” _Psychological Review_, 76: 31–48.
+* Velleman, David, 2000. “Deciding How to Decide,” in _The Possibility of Practical Reason_, Oxford: Clarendon Press, pp. 221–243.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dynamic-choice). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/dynamic-choice/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=dynamic-choice&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/dynamic-choice/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dynamic-choice).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/dynamic-choice/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=dynamic-choice\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/dynamic-choice/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -283,11 +283,11 @@ Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建�
 
 ## Related Entries
 
-[decision theory](https://plato.stanford.edu/entries/decision-theory/) | [Dutch book arguments](https://plato.stanford.edu/entries/dutch-book/) | [economics: philosophy of](https://plato.stanford.edu/entries/economics/) | [free rider problem](https://plato.stanford.edu/entries/free-rider/) | [practical reason](https://plato.stanford.edu/entries/practical-reason/) | [preferences](https://plato.stanford.edu/entries/preferences/) | [prisoner’s dilemma](https://plato.stanford.edu/entries/prisoner-dilemma/) | [rational choice, normative: expected utility](https://plato.stanford.edu/entries/rationality-normative-utility/) | [value: incommensurable](https://plato.stanford.edu/entries/value-incommensurable/) | [value: pluralism](https://plato.stanford.edu/entries/value-pluralism/) | [voting: methods](https://plato.stanford.edu/entries/voting-methods/) | [weakness of will](https://plato.stanford.edu/entries/weakness-will/)
+[decision theory](https://plato.stanford.edu/entries/decision-theory/) | [Dutch book arguments](https://plato.stanford.edu/entries/dutch-book/) | [economics: philosophy of](https://plato.stanford.edu/entries/economics/) | [free rider problem](https://plato.stanford.edu/entries/free-rider/) | [practical reason](https://plato.stanford.edu/entries/practical-reason/) | [preferences](https://plato.stanford.edu/entries/preferences/) | [prisoner’s dilemma](https://plato.stanford.edu/entries/prisoner-dilemma/) | [rational choice, normative: expected utility](https://plato.stanford.edu/entries/rationality-normative-utility/) | [value: incommensurable](https://plato.stanford.edu/entries/value-incommensurable/) | [value: pluralism](https://plato.stanford.edu/entries/value-pluralism/) | [voting: methods](https://plato.stanford.edu/entries/voting-methods/) | [weakness of will](https://plato.stanford.edu/entries/weakness-will/)
 
 ### Acknowledgments
 
 I am grateful to the University of Utah Tanner Humanities Center for a mini-grant that supported my research for this entry.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Chrisoula Andreou <[*andreou@philosophy.utah.edu*](mailto:andreou%40philosophy%2eutah%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Chrisoula Andreou <[_andreou@philosophy.utah.edu_](mailto:andreou%40philosophy%2eutah%2eedu)>

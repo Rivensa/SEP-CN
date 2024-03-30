@@ -1,6 +1,6 @@
 # 中文房间 Chinese room argument (David Cole)
 
-*首次发表于 2004 年 3 月 19 日星期五；实质性修订于 2020 年 2 月 20 日星期四*
+_首次发表于 2004 年 3 月 19 日星期五；实质性修订于 2020 年 2 月 20 日星期四_
 
 中国哲学中现在广为人知的论证和思想实验，最早发表在 1980 年美国哲学家约翰·西尔（1932 年– ）的一篇文章中。它已成为近代哲学中最著名的论证之一。西尔想象自己独处一室，按照一个用于回应塞入门缝的中文字符的计算机程序操作。西尔对中文一无所知，然而，通过按照操纵符号和数字的程序，就像计算机一样，他将适当的中文字符串发送回门外，这让外面的人错误地认为房间里有一个会说中文的人。
 
@@ -29,7 +29,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/chinese-room/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/chinese-room/#Rel)
 
----
+***
 
 ## 1. 概览
 
@@ -59,7 +59,7 @@ Searle 从机器理解转向意识和意向性，并没有直接得到 1980 年�
 
 西尔的论点有四个重要的前提。其中第一个是由哲学家和数学家哥特弗里德·莱布尼茨（1646-1716）提出的论点。这个论点通常被称为“莱布尼茨的磨盘”，出现在莱布尼茨的《单子论》第 17 节中。与西尔的论点类似，莱布尼茨的论点采用了思想实验的形式。莱布尼茨要求我们想象一个物理系统，一台机器，它的行为表现得好像它在思考并且有经验（“感知”）。
 
-此外，必须承认，知觉及其所依赖的东西在机械的基础上是无法解释的，也就是说，无法用图形和运动来解释。假设有一台机器，它被构造成能够思考、感受和感知，可以想象它的尺寸增大，但比例保持不变，这样一个人就可以像进入磨坊一样进入其中。即使如此，我们在检查它的内部时，只会发现彼此相互作用的部件，永远找不到任何可以解释知觉的东西。因此，知觉必须在简单的物质中寻找，而不是在复合物或机器中寻找。[罗伯特·拉塔(Robert Latta)译]
+此外，必须承认，知觉及其所依赖的东西在机械的基础上是无法解释的，也就是说，无法用图形和运动来解释。假设有一台机器，它被构造成能够思考、感受和感知，可以想象它的尺寸增大，但比例保持不变，这样一个人就可以像进入磨坊一样进入其中。即使如此，我们在检查它的内部时，只会发现彼此相互作用的部件，永远找不到任何可以解释知觉的东西。因此，知觉必须在简单的物质中寻找，而不是在复合物或机器中寻找。\[罗伯特·拉塔(Robert Latta)译]
 
 注意，莱布尼茨在这里的策略是对比机器的外在行为，这种行为可能看起来是有意识思考的产物，与机器内部运作方式。他指出，这些内部机械操作只是部件从一个点移动到另一个点，因此没有任何意识或可以解释思考、感受或感知的东西。对于莱布尼茨来说，物理状态不足以构成或解释心理状态。
 
@@ -107,7 +107,7 @@ Searle 从机器理解转向意识和意向性，并没有直接得到 1980 年�
 
 第一个前提阐明了强人工智能的主张。第二个前提得到了中国屋思想实验的支持。这一狭窄论证的结论是，运行程序不能赋予系统语言理解能力。（关于理解论证结构的其他方式还有其他方法。理解某些主张为虚拟情况可能是相关的：例如，在前提 1 中，“存在一个程序”意味着可能存在一个程序，等等。在这种解释下，论证涉及模态逻辑，即可能性和必然性的逻辑（参见 Damper 2006 和 Shaffer 2009））。
 
-值得注意的是，上述第一个前提将理解归因于“系统”。当程序运行时，强人工智能所假设的究竟是什么会获得理解，这对于中国屋论证的成功与否至关重要。Schank 1978 年有一个标题声称他们小组的计算机，一个物理设备，理解，但在论文的正文中，他声称程序[“SAM”]正在进行理解：Schank 说 SAM“...理解它具有知识的领域的故事”（第 133 页）。正如我们将在下一节（第 4 节）看到的那样，关于理解者的身份（cpu？程序？系统？其他什么？）的这些问题很快成为中国屋批评者关注的焦点。西尔的更广泛论点包括这样一种主张，即这个思想实验更普遍地表明人们不能从语法（形式符号操作）中获得语义（意义）。这些问题及相关问题在第 5 节中讨论：更大的哲学问题。
+值得注意的是，上述第一个前提将理解归因于“系统”。当程序运行时，强人工智能所假设的究竟是什么会获得理解，这对于中国屋论证的成功与否至关重要。Schank 1978 年有一个标题声称他们小组的计算机，一个物理设备，理解，但在论文的正文中，他声称程序\[“SAM”]正在进行理解：Schank 说 SAM“...理解它具有知识的领域的故事”（第 133 页）。正如我们将在下一节（第 4 节）看到的那样，关于理解者的身份（cpu？程序？系统？其他什么？）的这些问题很快成为中国屋批评者关注的焦点。西尔的更广泛论点包括这样一种主张，即这个思想实验更普遍地表明人们不能从语法（形式符号操作）中获得语义（意义）。这些问题及相关问题在第 5 节中讨论：更大的哲学问题。
 
 ## 4. 对中国屋论的回应
 
@@ -131,17 +131,17 @@ Ned Block 是最早提出系统回答的人之一，还有许多其他人，包�
 
 玛格丽特·博登（1988 年）提出了层次考虑。“计算心理学并不认为大脑能看到豆芽或理解英语：这些有意识的状态是人的属性，而不是大脑的属性”（244 页）。“简而言之，西尔的描述机器人的伪大脑（也就是西尔在机器人中）理解英语涉及一种类别错误，类似于将大脑视为智能的承担者，而不是因果基础”。博登（1988 年）指出，房间操作者是一个有意识的主体，而计算机中的中央处理器不是 - 中国屋情景要求我们从实施者的角度看问题，但并不奇怪地未能看到更大的画面。
 
-西尔对系统回应的回答很简单：原则上，他可以内化整个系统，记住所有的指令和数据库，并在脑海中进行所有的计算。然后，他可以离开房间，到户外漫步，甚至用中文交谈。但他仍然无法为“任何形式符号附加任何意义”。这个人现在将*成为*整个系统，但他仍然不会理解中文。例如，他不会知道中文单词“汉堡包”的意思。他仍然无法从句法中获得语义。
+西尔对系统回应的回答很简单：原则上，他可以内化整个系统，记住所有的指令和数据库，并在脑海中进行所有的计算。然后，他可以离开房间，到户外漫步，甚至用中文交谈。但他仍然无法为“任何形式符号附加任何意义”。这个人现在将_成为_整个系统，但他仍然不会理解中文。例如，他不会知道中文单词“汉堡包”的意思。他仍然无法从句法中获得语义。
 
 在某种程度上，西尔的回应在某种程度上预示了后来的扩展心智观（例如克拉克和查尔默斯 1998 年）：如果奥托（Otto），他失去了记忆，可以通过将一些信息外部化到他的笔记本中来恢复这些召回能力，那么西尔可以做相反的事情：通过内化指令和笔记本，他应该获得扩展系统具有的任何能力。因此，西尔实际上得出结论，由于他没有通过内化整个系统的外部组件（例如，他仍然不知道汉堡包的中文意思），他从未在原始中国屋的部分外部化系统中获得理解。
 
-在他 2002 年的论文《从逻辑角度看中国屋》，杰克·科普兰（Jack Copeland）考虑了西尔对系统回应的回应，并认为西尔头脑中的一个小人可能会理解，尽管房间操作员本人不理解，就像头脑中的模块解决了使我们能够接住板球的张量方程一样。科普兰然后转而考虑中国体育馆，并再次似乎支持系统回应：“...个别球员[不]理解中文。但从这一点并不能推断出整体模拟不会理解中文。从部分到整体的推理错误在这里比在中国屋论证的原始版本中更加明显。”科普兰否认连接主义暗示着一个房间里的人可以模拟大脑。
+在他 2002 年的论文《从逻辑角度看中国屋》，杰克·科普兰（Jack Copeland）考虑了西尔对系统回应的回应，并认为西尔头脑中的一个小人可能会理解，尽管房间操作员本人不理解，就像头脑中的模块解决了使我们能够接住板球的张量方程一样。科普兰然后转而考虑中国体育馆，并再次似乎支持系统回应：“...个别球员\[不]理解中文。但从这一点并不能推断出整体模拟不会理解中文。从部分到整体的推理错误在这里比在中国屋论证的原始版本中更加明显。”科普兰否认连接主义暗示着一个房间里的人可以模拟大脑。
 
 约翰·豪格兰（2002）写道，西尔对系统回复的回应存在缺陷：“...他现在问的是，如果他自己在脑海中有意识地实施理论所说的足以实现另一个思维的基础形式结构和操作，那会是什么样子。”根据豪格兰的说法，他不理解中文是无关紧要的：他只是执行者。实施的更大系统会理解 - 这是一种描述层次的谬误。
 
 沙弗（2009）研究了 CRA 逻辑的模态方面，并认为系统回复的常见版本是自圆其说的。但是，沙弗声称，系统回复的模态化版本成功了，因为在某些可能的世界中，理解是复杂语法操作的新兴属性。纽特（2011）是对沙弗的回应。
 
-Stevan Harnad 在两篇论文中捍卫了 Searle 对系统回复批评者的论点。在他 1989 年的论文中，Harnad 写道：“Searle 阐述了问题如下：心智是计算机程序吗？更具体地说，如果计算机程序模拟或模仿我们需要理解的活动（比如用语言交流），那么程序本身在这样做的过程中是否可以被说成理解？”（注意具体主张：问题被认为是程序本身是否理解。）Harnad 得出结论：“乍一看，[CR 论证]似乎是有效的。它确实针对最常见的反驳，即‘系统回复’……”Harnad 似乎赞同 Searle 将理解和意识状态联系起来：Harnad 2012（其他互联网资源）认为 Searle 表明意识“感知”的核心问题需要与现实世界的感官联系在一起。（请参见下文的“机器人回复”和“意向性”部分进行讨论。）
+Stevan Harnad 在两篇论文中捍卫了 Searle 对系统回复批评者的论点。在他 1989 年的论文中，Harnad 写道：“Searle 阐述了问题如下：心智是计算机程序吗？更具体地说，如果计算机程序模拟或模仿我们需要理解的活动（比如用语言交流），那么程序本身在这样做的过程中是否可以被说成理解？”（注意具体主张：问题被认为是程序本身是否理解。）Harnad 得出结论：“乍一看，\[CR 论证]似乎是有效的。它确实针对最常见的反驳，即‘系统回复’……”Harnad 似乎赞同 Searle 将理解和意识状态联系起来：Harnad 2012（其他互联网资源）认为 Searle 表明意识“感知”的核心问题需要与现实世界的感官联系在一起。（请参见下文的“机器人回复”和“意向性”部分进行讨论。）
 
 最后，一些人认为，即使房间操作员记住规则并在脑海中执行所有操作，房间操作员也不会成为系统。Cole（1984 年）和 Block（1998 年）都认为，结果不会是 Searle 与系统的同一性，而更像是多重人格的情况——一个头脑中有不同的人。中国回复系统不会是 Searle，而是他的一个子部分。在 CR 案例中，一个人（Searle）是英语单一语种者，另一个是中文单一语种者。英语使用者对中文回复的含义毫无意识并不表明它们不被理解。这种不同人格的观点导致了虚拟心智回复。
 
@@ -153,13 +153,13 @@ Stevan Harnad 在两篇论文中捍卫了 Searle 对系统回复批评者的论�
 
 Minsky（1980）和 Sloman 和 Croucher（1980）在中国屋论证首次出现时提出了一个虚拟心智回复。在他广泛阅读的 1989 年论文《计算与意识》中，蒂姆·莫德林考虑了可能实现运行程序的计算系统的最小物理系统。他的讨论围绕着他想象中的奥林匹亚机器，一个通过转移水来实现图灵机的系统桶。莫德林的主要目标是计算论者声称这样的机器可能具有显著意识。然而，在他的讨论过程中，莫德林考虑了中国屋论证。莫德林（引用明斯基和斯洛曼以及克劳彻）指出了一个虚拟心智回复，即理解的代理可能与物理系统不同（414 页）。因此，“西尔没有做任何事情来排除同时存在的不同心智的可能性”（414-5 页）。
 
-Perlis（1992 年），Chalmers（1996 年）和 Block（2002 年）显然也支持了虚拟心灵回应的版本，Richard Hanley 在《*星际迷航的形而上学*》（1997 年）中也是如此。Penrose（2002 年）批评了这一策略，Stevan Harnad 则轻蔑地对形而上学的这种英雄式手段表示了不屑一顾。Harnad 在 1992 年的“虚拟心灵虚拟研讨会”中捍卫了 Searle 的立场，反驳了 Patrick Hayes 和 Don Perlis。Perlis 提出了一个据称源自莫德林的虚拟心灵论证。Chalmers（1996 年）指出，房间操作者只是一个因果促成者，“恶魔”，因此他的意识状态与系统的属性无关。像莫德林一样，Chalmers 提出了关于个人身份的问题 - 我们可以将中文房间视为“在同一物理空间内实现的两个心智系统。导致中文体验的组织与导致恶魔的体验的组织是完全不同的”（326）。
+Perlis（1992 年），Chalmers（1996 年）和 Block（2002 年）显然也支持了虚拟心灵回应的版本，Richard Hanley 在《_星际迷航的形而上学_》（1997 年）中也是如此。Penrose（2002 年）批评了这一策略，Stevan Harnad 则轻蔑地对形而上学的这种英雄式手段表示了不屑一顾。Harnad 在 1992 年的“虚拟心灵虚拟研讨会”中捍卫了 Searle 的立场，反驳了 Patrick Hayes 和 Don Perlis。Perlis 提出了一个据称源自莫德林的虚拟心灵论证。Chalmers（1996 年）指出，房间操作者只是一个因果促成者，“恶魔”，因此他的意识状态与系统的属性无关。像莫德林一样，Chalmers 提出了关于个人身份的问题 - 我们可以将中文房间视为“在同一物理空间内实现的两个心智系统。导致中文体验的组织与导致恶魔的体验的组织是完全不同的”（326）。
 
-Cole（1991 年，1994 年）发展了这一回应，并提出了以下论点：Searle 的论点要求理解的主体是计算机本身，或者在中文房间的类比中，是房间里的人。然而，Searle 在房间里不理解中文并不意味着没有理解正在被创造。其中一个关键考虑因素是，在 Searle 的讨论中，与中文房间的实际对话总是严重不足。Searle 考虑的是只能回答关于餐厅发生了什么的几个问题的 Schank 程序，而这些问题都是第三人称的。但是 Searle 希望他的结论适用于任何人工智能产生的回答，包括那些能通过最严格的无限制图灵测试的回答，即它们将是真实人类之间进行的对话。如果我们在原始 CR 场景中详细阐述对话，包括用中文提出“你有多高？”，“你住在哪里？”，“你早餐吃了什么？”，“你对毛的态度是什么？”等问题，立即就会清楚地看到中文回答不是*Searle*的回答。Searle 不是这些答案的作者，他的信念和欲望，记忆和个性特征（除了他的勤奋！）并没有反映在这些答案中，总的来说，Searle 的特征在产生对中文问题的回答时是没有因果作用的。这表明以下条件是成立的：如果通过运行程序创造了对中文的理解，那么理解中文的心灵不会是计算机，无论计算机是人类还是电子设备。理解中文的人将是与房间操作者不同的一个人，其信念和欲望是由程序及其数据库赋予的。因此，Searle 在操作房间时不理解中文并不意味着没有理解正在被创造。
+Cole（1991 年，1994 年）发展了这一回应，并提出了以下论点：Searle 的论点要求理解的主体是计算机本身，或者在中文房间的类比中，是房间里的人。然而，Searle 在房间里不理解中文并不意味着没有理解正在被创造。其中一个关键考虑因素是，在 Searle 的讨论中，与中文房间的实际对话总是严重不足。Searle 考虑的是只能回答关于餐厅发生了什么的几个问题的 Schank 程序，而这些问题都是第三人称的。但是 Searle 希望他的结论适用于任何人工智能产生的回答，包括那些能通过最严格的无限制图灵测试的回答，即它们将是真实人类之间进行的对话。如果我们在原始 CR 场景中详细阐述对话，包括用中文提出“你有多高？”，“你住在哪里？”，“你早餐吃了什么？”，“你对毛的态度是什么？”等问题，立即就会清楚地看到中文回答不是_Searle_的回答。Searle 不是这些答案的作者，他的信念和欲望，记忆和个性特征（除了他的勤奋！）并没有反映在这些答案中，总的来说，Searle 的特征在产生对中文问题的回答时是没有因果作用的。这表明以下条件是成立的：如果通过运行程序创造了对中文的理解，那么理解中文的心灵不会是计算机，无论计算机是人类还是电子设备。理解中文的人将是与房间操作者不同的一个人，其信念和欲望是由程序及其数据库赋予的。因此，Searle 在操作房间时不理解中文并不意味着没有理解正在被创造。
 
 Cole (1991)提出了一个额外的论点，即进行理解的心智既不是房间操作者的心智，也不是由操作者和程序组成的系统：运行一个结构合适的计算机程序可能会产生用中文提交的答案，也会对用韩文提交的问题给出答案。然而，中文答案可能显示出完全不同的知识和记忆、信念和欲望，与对韩文问题的回答不同，同时否认中文回答者了解任何韩文，反之亦然。因此，行为证据表明存在两个非相同的心智（一个只理解中文，另一个只理解韩文）。由于这些可能具有互斥的属性，它们不能是相同的，因此也不能与房间实施者的心智相同。类似地，一个视频游戏可能包括一个具有一组认知能力（聪明，懂中文）的角色，以及另一个具有不兼容的一组认知能力（愚蠢，只会英语）的角色。这些不一致的认知特征不能是实现它们的 XBOX 系统的特征。Cole 认为，这暗示着心智通常比实现它们的系统更抽象（见哲学大问题部分的《心灵与身体》）。
 
-简而言之，虚拟心灵论的论点是，由于 Searle 提供的证据表明在房间里没有理解中文的是*他*，因此《中国屋论证》无法反驳一个形式不同但同样强有力的人工智能主张，即声称可以利用编程的数字计算机创造理解。Maudlin (1989)表示 Searle 没有充分回应这一批评。
+简而言之，虚拟心灵论的论点是，由于 Searle 提供的证据表明在房间里没有理解中文的是_他_，因此《中国屋论证》无法反驳一个形式不同但同样强有力的人工智能主张，即声称可以利用编程的数字计算机创造理解。Maudlin (1989)表示 Searle 没有充分回应这一批评。
 
 然而，也有其他人对 VMR 进行了回复，包括 Stevan Harnad 和数学物理学家 Roger Penrose。Penrose 通常对 Searle 提出的中国屋论点持同情态度，并反驳了虚拟心灵的回应。Penrose 认为，无论是基于中国屋论点，还是基于库尔特·哥德尔的不完备性定理揭示的形式系统的局限性，计算过程都无法解释意识。（Penrose 有两本关于心灵和意识的书；Chalmers 和其他人已经对 Penrose 对哥德尔的引用做出了回应。）在他 2002 年的文章《意识、计算和中国屋》中，专门讨论了中国屋论点，Penrose 认为中国体育馆变体——将一个房间扩展到印度的大小，由印度人进行处理——显示出认为“与人执行该算法相关联的某种非物质‘理解’，并且其存在方式不以任何方式影响他自己的意识”是非常不可信的（230-1）。Penrose 得出结论，中国屋论点驳倒了强人工智能。Christian Kaernbach（2005 年）报告说，他对虚拟心灵理论进行了实证测试，结果为负。
 
@@ -241,11 +241,11 @@ Searle 提出了一个问题，即在归因他人理解能力时，我们究竟�
 
 对批评 CRA 的人指出，我们关于智力、理解和意义的直觉都可能是不可靠的。关于意义，韦克菲尔德 2003 年在追随布洛克 1998 年之后，为 CRA 辩护，捍卫了韦克菲尔德所称的“本质主义反对意见”，即意义的计算解释并不是对普通概念及其相关直觉的分析。相反，我们正在建立一个可能需要修订我们直觉的意义科学理论。作为一种理论，它从其解释力中获得证据，而不是从与理论前直觉的一致性（尽管韦克菲尔德本人认为意义的计算解释受到了一种有害的不确定性的影响（第 308 页及以下））。
 
-其他批评家关注中国哲学中直觉在中国房间论中的作用，认为我们关于智力和理解的直觉可能也不可靠，甚至可能与当前的科学相矛盾。关于理解，史蒂文·平克（Steven Pinker）在《*心智是如何运作的*》（1997）中认为：“……西尔仅仅是在探讨关于英语单词*理解*的事实……人们不愿使用这个词，除非符合某些典型条件……” 但是，平克声称，从科学的角度来看，并不存在任何问题。平克反对西尔对“大脑的因果能力”的诉诸，指出因果能力的明显定位是“进行正确信息处理的互连模式”。平克最后引用了一个科幻故事来结束他的讨论，在那个故事中，外星人在发现我们的头脑里装满了肉时，无法相信人类会思考。外星人的直觉是不可靠的，我们的直觉可能也是如此。
+其他批评家关注中国哲学中直觉在中国房间论中的作用，认为我们关于智力和理解的直觉可能也不可靠，甚至可能与当前的科学相矛盾。关于理解，史蒂文·平克（Steven Pinker）在《_心智是如何运作的_》（1997）中认为：“……西尔仅仅是在探讨关于英语单词_理解_的事实……人们不愿使用这个词，除非符合某些典型条件……” 但是，平克声称，从科学的角度来看，并不存在任何问题。平克反对西尔对“大脑的因果能力”的诉诸，指出因果能力的明显定位是“进行正确信息处理的互连模式”。平克最后引用了一个科幻故事来结束他的讨论，在那个故事中，外星人在发现我们的头脑里装满了肉时，无法相信人类会思考。外星人的直觉是不可靠的，我们的直觉可能也是如此。
 
 显然，中国房间论的关键在于理解语言所需的条件。1978 年，沙克（Schank）澄清了他对自己的程序能做什么的主张：“通过‘理解’，我们的意思是 SAM（他的一个程序之一）可以创建一个链接的因果关系链，代表每个故事中发生的事情。” 这是对“理解”的微妙理解，而中国房间思想实验并不取决于对“理解”的技术理解，而是关于我们在理解“汉堡包”这样的词时的直觉。事实上，到 2015 年，沙克与“理解”的弱意义疏远，认为没有计算机能够“在你告诉它某事时理解”，IBM 的 WATSON“不知道自己在说什么”。沙克的程序可能会正确连接，但可以说并不知道这些连接的实体是什么。它是否知道取决于概念是什么，见第 5.1 节。此外，当涉及归因语言理解时，我们对不同事物可能有不同的标准——对狗和幼儿更宽松。有些事物“略懂一二”一门语言。西尔（1980）承认理解有不同程度，但表示重要的是存在明显的无理解案例，AI 程序就是一个例子：“计算机的理解不仅仅是（像我对德语的理解）部分或不完整；它是零。”
 
-一些人工智能的捍卫者也关心我们对理解的理解如何影响中国屋论证。在他们的论文《理解的中国屋》中，人工智能研究员西蒙和艾森斯塔德（2002）认为，虽然西尔尔驳斥了“逻辑强人工智能”这一命题，即通过图灵测试的程序将*必然*理解，但西尔的论点并未影响“经验强人工智能”——即可以编程一个能够令人信服地满足普通理解标准的计算机的命题。然而，他们认为，要解决这些问题“就必须使用一个能够提供用于判断假设真假的‘理解’一词的定义”。他们引用 W.V.O.奎因的《词与物》一书，显示在将理解归因于人类时总会存在经验上的不确定性。中国屋是一个聪明的汉斯把戏（聪明的汉斯是一匹马，看起来好像能够踢出简单算术问题的答案，但后来发现汉斯能够察觉到训练者的无意识暗示）。同样，房间里的人不懂中文，并且可以通过密切观察来揭露他。 （西蒙和艾森斯塔德并未解释这将如何实现，或者这将如何影响论点。）西蒙和艾森斯塔德援引鲁道夫·卡尔纳普的作品，认为理解不仅仅是展示某种行为，而是使用决定外延的“内涵”，并且可以看到实际程序确实使用了适当的内涵。他们讨论了三个实际人工智能程序，并为它们辩护，包括理解在内的各种心智归因，并得出计算机理解的结论；它们通过将单词和其他语言结构与它们的指称相关联来学习“内涵，通过感官刺激检测到”。由于我们可以清楚地看到这些机器是如何工作的，“事实上，确立机器表现出理解要比确立人类表现出理解更容易……”因此，他们得出结论，支持经验强人工智能的证据是压倒性的。
+一些人工智能的捍卫者也关心我们对理解的理解如何影响中国屋论证。在他们的论文《理解的中国屋》中，人工智能研究员西蒙和艾森斯塔德（2002）认为，虽然西尔尔驳斥了“逻辑强人工智能”这一命题，即通过图灵测试的程序将_必然_理解，但西尔的论点并未影响“经验强人工智能”——即可以编程一个能够令人信服地满足普通理解标准的计算机的命题。然而，他们认为，要解决这些问题“就必须使用一个能够提供用于判断假设真假的‘理解’一词的定义”。他们引用 W.V.O.奎因的《词与物》一书，显示在将理解归因于人类时总会存在经验上的不确定性。中国屋是一个聪明的汉斯把戏（聪明的汉斯是一匹马，看起来好像能够踢出简单算术问题的答案，但后来发现汉斯能够察觉到训练者的无意识暗示）。同样，房间里的人不懂中文，并且可以通过密切观察来揭露他。 （西蒙和艾森斯塔德并未解释这将如何实现，或者这将如何影响论点。）西蒙和艾森斯塔德援引鲁道夫·卡尔纳普的作品，认为理解不仅仅是展示某种行为，而是使用决定外延的“内涵”，并且可以看到实际程序确实使用了适当的内涵。他们讨论了三个实际人工智能程序，并为它们辩护，包括理解在内的各种心智归因，并得出计算机理解的结论；它们通过将单词和其他语言结构与它们的指称相关联来学习“内涵，通过感官刺激检测到”。由于我们可以清楚地看到这些机器是如何工作的，“事实上，确立机器表现出理解要比确立人类表现出理解更容易……”因此，他们得出结论，支持经验强人工智能的证据是压倒性的。
 
 同样，丹尼尔·丹尼特在他最初于 1980 年对西尔的论点的回应中称之为“直觉泵”，这个术语是他在与霍夫斯塔德讨论中国房间论时提出的。沙维（1983）也对此表示了抱怨。丹尼特的观点（2013 年）是，中国房间论“显然是一个谬误和误导性的论证……”（第 320 页）。保罗·萨加德（2013）提出，对于哲学中的每个思想实验，都有一个相等且相反的思想实验。萨加德认为直觉是不可靠的，中国房间论就是一个例子（事实上，中国房间论现在已经被自主机器人汽车的技术所推翻）。丹尼特对我们关于智能的直觉表示了担忧。丹尼特 1987 年（“快速思维”）对中国房间的运行速度缓慢表示了担忧，他得到了几位其他评论者的支持，包括蒂姆·莫德林、大卫·查尔默斯和史蒂文·平克。中国房间的操作者最终可能会对中国问题给出适当的答案。但是思维缓慢的人是愚蠢的，而不是聪明的——在野外，他们很可能最终会死去。丹尼特认为，“速度……对于智能来说是‘本质’。如果你不能够快速地弄清楚环境变化的相关部分以自给自足，那么无论你有多复杂，你都不是实际上的聪明”（第 326 页）。因此，丹尼特将智能相对化为相对于当前环境的处理速度。
 
@@ -276,7 +276,7 @@ Searle 在这段中将意义与解释等同起来的观点是重要的。Searle 
 
 Dennett（1987）总结了这个问题：“Searle 的观点可以概括为：拿一个（任何）没有引起心理现象能力的物质对象；你不能通过编程将其转变为具有产生心理现象能力的对象——重新组织其状态之间的条件依赖关系。” Dennett 的观点则相反：编程“恰恰是可以赋予某物心智的”。但 Dennett 声称，事实上“正确类型的程序能够在除了有机的人类大脑之外的任何东西上运行的可能性是很小的”（325-6）。
 
-另一个相关的复杂性是，不清楚计算机是否以与人类完全相同的方式执行句法操作——不清楚计算机是否理解语法或句法操作。计算机不知道它正在处理的是 1 和 0。计算机不意识到它的二进制数据字符串具有某种形式，因此某些句法规则可能适用于它们，不像中国屋里的人。在计算机内部，没有文字地阅读输入数据的东西，也没有“知道”符号是什么的东西。相反，有数百万个改变状态的晶体管。一系列电压引起操作的执行。我们人类可以选择将这些电压解释为二进制数和电压变化为句法操作，但计算机不会将其操作解释为句法或其他方式。因此，也许计算机不需要像西尔勒反对的那样从句法到语义的转变；它需要从复杂的因果关系转向语义。此外，也许*任何*因果系统都可以被描述为执行句法操作——如果我们将浅色方块解释为逻辑“0”，将深色方块解释为逻辑“1”，那么一个厨房烤面包机*可能*被描述为一个将逻辑“0”重写为逻辑“1”的设备。但是，从句法到早餐并没有哲学问题。
+另一个相关的复杂性是，不清楚计算机是否以与人类完全相同的方式执行句法操作——不清楚计算机是否理解语法或句法操作。计算机不知道它正在处理的是 1 和 0。计算机不意识到它的二进制数据字符串具有某种形式，因此某些句法规则可能适用于它们，不像中国屋里的人。在计算机内部，没有文字地阅读输入数据的东西，也没有“知道”符号是什么的东西。相反，有数百万个改变状态的晶体管。一系列电压引起操作的执行。我们人类可以选择将这些电压解释为二进制数和电压变化为句法操作，但计算机不会将其操作解释为句法或其他方式。因此，也许计算机不需要像西尔勒反对的那样从句法到语义的转变；它需要从复杂的因果关系转向语义。此外，也许_任何_因果系统都可以被描述为执行句法操作——如果我们将浅色方块解释为逻辑“0”，将深色方块解释为逻辑“1”，那么一个厨房烤面包机_可能_被描述为一个将逻辑“0”重写为逻辑“1”的设备。但是，从句法到早餐并没有哲学问题。
 
 在 1990 年代，西尔勒开始利用与此相关的考虑来论证计算观点不仅是错误的，而且缺乏明确意义。计算或句法是“观察者相关的”，而不是现实的固有特征：“……你可以将计算解释赋予任何事物”（西尔勒 2002b，第 17 页），甚至是墙上油漆中的分子。由于没有什么是固有的计算性质，一个科学理论不能将不是观察者相关的心智减少为计算，而计算是观察者相关的。“计算只存在于将计算解释赋予某种现象的某个代理人或观察者之间。这是一个显而易见的观点。十年前我应该已经看到这一点，但我没有。”（西尔勒 2002b，第 17 页，最初发表于 1993 年）。
 
@@ -294,23 +294,23 @@ Rey（2002）还讨论了 Searle 的论点，即句法和符号是观察者相�
 
 有两种主要方法已经发展出来，用于解释涉及因果关系的意义。内部主义方法，如 Schank 和 Rapaport 的概念表征方法，以及概念角色语义，认为物理系统的状态从与同一系统的其他状态的因果关系中获得其语义。因此，计算机的一个状态可能代表“猕猴桃”，因为它与“鸟”和“不会飞”节点相连，也可能与典型猕猴桃的图像相连。代表“不会飞”的状态可能从否定运算符修改“能够自主飞行”的表征中获得其内容，等等，形成一个庞大的相互连接的概念网络，一种心智词典。
 
-[外部主义](https://plato.stanford.edu/entries/content-externalism/)方法由 Dennis Stampe、Fred Dretske、Hilary Putnam、Jerry Fodor、Ruth Millikan 等人发展而来，认为物理系统的状态通过与其所代表的外部现实的因果关系获得其内容。因此，大致而言，具有 KIWI 概念的系统是具有一种用于代表外部环境中猕猴桃存在的状态。这个代表猕猴桃的状态可以是任何适当与猕猴桃存在有因果关系的状态。根据系统的不同，代表猕猴桃的状态可以是大脑的状态，或者是电子设备如计算机的状态，甚至是液压系统的状态。然后，内部代表状态可以进而在决定系统行为中发挥因果作用。例如，Rey（1986）支持类似于 Dennis Stampe（1977）和 Fodor 的*心理语义学*的指示语义。这些将内容或意义定位在与世界适当的因果关系中的语义理论与机器人回应很相符。一个身体是机器人的计算机可能具有使其内部句法状态具有代表其环境中事物状态的语义属性的因果关系。
+[外部主义](https://plato.stanford.edu/entries/content-externalism/)方法由 Dennis Stampe、Fred Dretske、Hilary Putnam、Jerry Fodor、Ruth Millikan 等人发展而来，认为物理系统的状态通过与其所代表的外部现实的因果关系获得其内容。因此，大致而言，具有 KIWI 概念的系统是具有一种用于代表外部环境中猕猴桃存在的状态。这个代表猕猴桃的状态可以是任何适当与猕猴桃存在有因果关系的状态。根据系统的不同，代表猕猴桃的状态可以是大脑的状态，或者是电子设备如计算机的状态，甚至是液压系统的状态。然后，内部代表状态可以进而在决定系统行为中发挥因果作用。例如，Rey（1986）支持类似于 Dennis Stampe（1977）和 Fodor 的_心理语义学_的指示语义。这些将内容或意义定位在与世界适当的因果关系中的语义理论与机器人回应很相符。一个身体是机器人的计算机可能具有使其内部句法状态具有代表其环境中事物状态的语义属性的因果关系。
 
 因此，关于语义如何取决于因果关系，至少有两种理论流派（以及两者的结合，如 Block 1986）。这两种理论都试图提供与物质无关的解释：适当组织的因果系统的状态可以具有内容，无论这些系统由什么构成。根据这些理论，计算机可以具有具有意义的状态。计算机无需意识到自己的状态并知道它们具有意义，也无需任何外部人士欣赏这些状态的意义。在这两种理论中，意义取决于（可能复杂的）因果关系，数字计算机是设计为具有恰好这种复杂因果依赖关系的系统。值得注意的是，西尔并不赞同这些语义理论。相反，西尔对语言意义的讨论经常集中在“意向性”的概念上。
 
 ### 5.2 意向性
 
-[Intentionality](https://plato.stanford.edu/entries/intentionality/) 是关于某事物、具有内容的属性。在 19 世纪，心理学家弗朗茨·布伦塔诺重新引入了这个术语，他认为意向性是“心智的标志”。信念和欲望是有意向性的状态：它们具有命题内容（一个人相信*p*，一个人渴望*p*，其中代表命题的句子替换“*p*”）。西尔对意向性的观点是复杂的；在这里相关的是，他区分了真正心智状态的原始或内在意向性，以及语言的衍生意向性。书面或口头的句子只有在被某人解释时才具有衍生意向性。西尔认为，原始意向性至少在潜意识中是可能的。然后，西尔认为区分原始和衍生意向性也适用于计算机。我们可以解释计算机的状态具有内容，但这些状态本身并没有原始意向性。许多哲学家支持这种意向性二元论，包括塞尔（1986）甚至福多（2009），尽管福多与西尔有许多不同之处。
+[Intentionality](https://plato.stanford.edu/entries/intentionality/) 是关于某事物、具有内容的属性。在 19 世纪，心理学家弗朗茨·布伦塔诺重新引入了这个术语，他认为意向性是“心智的标志”。信念和欲望是有意向性的状态：它们具有命题内容（一个人相信_p_，一个人渴望_p_，其中代表命题的句子替换“_p_”）。西尔对意向性的观点是复杂的；在这里相关的是，他区分了真正心智状态的原始或内在意向性，以及语言的衍生意向性。书面或口头的句子只有在被某人解释时才具有衍生意向性。西尔认为，原始意向性至少在潜意识中是可能的。然后，西尔认为区分原始和衍生意向性也适用于计算机。我们可以解释计算机的状态具有内容，但这些状态本身并没有原始意向性。许多哲学家支持这种意向性二元论，包括塞尔（1986）甚至福多（2009），尽管福多与西尔有许多不同之处。
 
 在她 1988 年的著作《心智的计算机模型》的一节中，玛格丽特·博登指出意向性并不被很好理解 - 这是不要过分依赖意向性的论点的原因。此外，就我们对大脑的理解而言，我们关注的是信息功能，而不是大脑的未指明的因果能力：“...从心理学的角度来看，重要的不是生物化学本身，而是基于其的信息传递功能。”（241）西尔将意向性视为大脑的一种因果能力，是生物过程独特产生的。戴尔·雅奎特在 1989 年反对了对意向性的简化 - 他说，意向性是一种“不可削减的、不可简化的原始概念”。然而，大多数人工智能支持者认为意向性、关于性与信息紧密相关，非生物状态也可以承载信息，就像大脑状态一样。因此，许多对西尔的回应者认为他表现出物质沙文主义，认为大脑能理解，但由硅制成且具有相当信息处理能力的系统在原则上不能。双方都发表了有关这个问题的论文，比如 J·马洛尼在 1987 年发表的支持西尔的论文《正确的东西》，以及 R·沙维在 1983 年的批判性论文《重要的不是肉，而是动作》。人工智能支持者如库尔茨韦尔（1999，另见理查兹 2002）继续认为人工智能系统有可能具有理解、智能、意识和意向性等心智属性，并且在这些领域将超越人类能力。
 
 其他批评 Searle 立场的人比 Boden 更认真地对待意向性，但否认他在原始意向性和派生意向性之间的二元区别。 Dennett（1987 年）认为所有的意向性都是派生的，因为对意向性的归因 - 对动物、其他人，甚至是我们自己的归因 - 是一种工具性的，让我们能够预测行为，但它们并不是对内在属性的描述。正如我们所看到的，Dennett 关注于中国屋中事物的缓慢速度，但他认为一旦系统达到速度，它就具备了智能和派生意向性所需的一切 - 而根据 Dennett 的观点，派生意向性是唯一存在的意向性。机器可以是一个有意向性的系统，因为有意向性的解释可以预测机器的行为。 Dennett 还暗示 Searle 混淆了意向性和对意向性的意识。在他的句法-语义论证中，“Searle 显然混淆了关于语义无法从句法推导出来的说法，与关于意识无法从句法推导出语义的说法”（336 页）。对意识的强调迫使我们从第一人称的角度思考事物，但 Dennett 2017 继续强调，如果我们想要理解心智，这是一个基本错误。
 
-## 
+##
 
-其他人指出，西尔的讨论显示了从关于意向性和理解的问题转向意识问题的变化。西尔将意向性与意向性意识联系起来，认为有意向性的状态至少在潜在意识上。在他 1996 年的著作《*意识的心灵*》中，大卫·查尔默斯指出，尽管西尔最初是针对机器的意向性提出论点，但从后来的著作中可以明显看出，真正的问题是意识，西尔认为这是意向性的必要条件。数字计算机缺乏的是意识。查尔默斯使用思维实验来论证，如果可以想象将一个系统逐渐转化为另一个系统（逐渐用数字电路替换神经元，或者一次性地在肉体和硅之间来回切换），那么认为一个系统具有某种基本的心理属性（比如拥有感觉）而另一个系统缺乏这种属性是不合理的。
+其他人指出，西尔的讨论显示了从关于意向性和理解的问题转向意识问题的变化。西尔将意向性与意向性意识联系起来，认为有意向性的状态至少在潜在意识上。在他 1996 年的著作《_意识的心灵_》中，大卫·查尔默斯指出，尽管西尔最初是针对机器的意向性提出论点，但从后来的著作中可以明显看出，真正的问题是意识，西尔认为这是意向性的必要条件。数字计算机缺乏的是意识。查尔默斯使用思维实验来论证，如果可以想象将一个系统逐渐转化为另一个系统（逐渐用数字电路替换神经元，或者一次性地在肉体和硅之间来回切换），那么认为一个系统具有某种基本的心理属性（比如拥有感觉）而另一个系统缺乏这种属性是不合理的。
 
-关于意向性归因的第二种策略是由批评者采取的，实际上他们认为，意向性是与世界以正确方式进行因果联系的物理系统状态的固有特征，独立于解释（参见前面的“语法和语义”部分）。福多的语义外部主义受到弗雷德·德雷兹克的影响，但他们在涉及计算机状态的语义方面得出了不同的结论。多年来，德雷兹克发展了一个关于意义或心理内容的历史账户，这将排除将信念和理解归因于大多数机器。德雷兹克（1985）同意西尔的看法，即添加机器并不会真正添加；*我们*才是添加者，使用这些机器。德雷兹克强调自然选择和学习在产生具有真正内容的状态方面的关键作用。人类建造的系统最多只能像沼泽人一样（这些生物是由沼泽中的闪电击中并偶然成为某个人的分子级复制，比如你）-它们似乎具有意向性或心理状态，但实际上并没有，因为这些状态需要正确的历史。人工智能状态通常会是真实心理状态的伪造品；就像伪造的货币一样，它们可能看起来完全相同，但缺乏正确的渊源。但德雷兹克对信念的描述似乎使其与信念或意向状态的有意识意识相区分开来（如果这需要一个更高阶的思维），因此似乎允许将意向性归因于通过学习获得正确历史的人工系统。
+关于意向性归因的第二种策略是由批评者采取的，实际上他们认为，意向性是与世界以正确方式进行因果联系的物理系统状态的固有特征，独立于解释（参见前面的“语法和语义”部分）。福多的语义外部主义受到弗雷德·德雷兹克的影响，但他们在涉及计算机状态的语义方面得出了不同的结论。多年来，德雷兹克发展了一个关于意义或心理内容的历史账户，这将排除将信念和理解归因于大多数机器。德雷兹克（1985）同意西尔的看法，即添加机器并不会真正添加；_我们_才是添加者，使用这些机器。德雷兹克强调自然选择和学习在产生具有真正内容的状态方面的关键作用。人类建造的系统最多只能像沼泽人一样（这些生物是由沼泽中的闪电击中并偶然成为某个人的分子级复制，比如你）-它们似乎具有意向性或心理状态，但实际上并没有，因为这些状态需要正确的历史。人工智能状态通常会是真实心理状态的伪造品；就像伪造的货币一样，它们可能看起来完全相同，但缺乏正确的渊源。但德雷兹克对信念的描述似乎使其与信念或意向状态的有意识意识相区分开来（如果这需要一个更高阶的思维），因此似乎允许将意向性归因于通过学习获得正确历史的人工系统。
 
 霍华德·加德纳（Howard Gardiner）支持泽农·皮利辛（Zenon Pylyshyn）对西尔（Searle）关于大脑和意向性关系的批评，认为意向性被认为是大脑“分泌出来的某种东西”，以及皮利辛自己的对抗性思想实验，其中一个人的神经元被集成电路替代（另请参见科尔（Cole）和福尔伯（Foelber）（1984 年）以及查尔默斯（Chalmers）（1996 年）探讨神经元替换情景）。加德纳认为，西尔欠我们一个比迄今为止所给出的更精确的意向性解释，直到那时，人工智能是否能够产生它，或者它是否超出了其范围，都是一个悬而未决的问题。加德纳最后得出结论，西尔和他的批评者之间的争论可能不是科学性的，而是（准）宗教性的。
 
@@ -322,11 +322,11 @@ Rey（2002）还讨论了 Searle 的论点，即句法和符号是观察者相�
 
 意识和理解是人的特征，因此西尔伯尔似乎接受了一种形而上学，即我，我的意识自我，与我的大脑相同 - 一种心智-大脑同一理论形式。这种非常具体的形而上学体现在西尔的 CR 论证的最初表述中，在那里他将强人工智能描述为“适当编程的计算机确实是一个心智”（西尔，1980 年）。这是一个同一性主张，并且具有奇怪的后果。如果 A 和 B 是相同的，那么 A 的任何属性也是 B 的属性。计算机是物理对象。一些计算机重 6 磅并带有立体声扬声器。因此，西尔称之为强人工智能的主张将意味着一些心灵重 6 磅并带有立体声扬声器。然而，很明显，虽然人类可能重 150 磅；人类的心灵并不重 150 磅。这表明身体和机器既不能成为心灵。这些考虑支持这样一种观点，即心灵比大脑更抽象，如果是这样，那么西尔称之为强人工智能的主张之一，即计算机确实是心灵的主张，从表面上看在形而上学上是站不住脚的，除了任何思想实验之外。
 
-因此，西尔的 CR 论证是针对这样一种主张的，即计算机是一个心灵，一个适当编程的数字计算机理解语言，或者它的程序理解语言。西尔的思想实验依赖于我们强烈的直觉，即一个完全模仿计算机行为的人不会因此而开始理解中文。如上所述，许多批评者认为西尔在这一点上是完全正确的 - 无论如何编程计算机，计算机都不会成为一个真正的心灵，计算机也不会理解自然语言。但是，如果心灵不是物理对象，计算机无法成为心灵并不意味着运行 AI 程序不能*产生*对自然语言的理解，这种理解是由计算机以外的某种东西产生的（见上文 4.1 节）。
+因此，西尔的 CR 论证是针对这样一种主张的，即计算机是一个心灵，一个适当编程的数字计算机理解语言，或者它的程序理解语言。西尔的思想实验依赖于我们强烈的直觉，即一个完全模仿计算机行为的人不会因此而开始理解中文。如上所述，许多批评者认为西尔在这一点上是完全正确的 - 无论如何编程计算机，计算机都不会成为一个真正的心灵，计算机也不会理解自然语言。但是，如果心灵不是物理对象，计算机无法成为心灵并不意味着运行 AI 程序不能_产生_对自然语言的理解，这种理解是由计算机以外的某种东西产生的（见上文 4.1 节）。
 
 [功能主义](https://plato.stanford.edu/entries/functionalism/) 是在西尔的 CRA 之前的二十年间发展起来的有关心灵与身体关系的理论。功能主义是对同一理论的一种替代，这种理论在西尔的讨论中是隐含的，也是对二十世纪中期主导的行为主义的一种替代。如果功能主义是正确的，似乎没有内在的理由说明为什么计算机不能拥有心理状态。因此，CRA 的结论认为计算机在内在上无法具有心理状态，这是对功能主义的一个重要考虑因素。朱利安·巴吉尼（2009 年，37 页）写道，西尔“提出了历史上也许是最著名的反例——中国屋论证——并且在一次智力打击中对当时主导的功能主义理论造成了如此严重的损害，以至于许多人会认为它从未恢复过来。”
 
-功能主义者认为，一个心理状态*是*它所*做*的事情——状态所扮演的因果（或“功能”）角色决定了它是什么状态。功能主义者可能认为，例如，疼痛是一种通常由身体损伤引起的状态，位于身体形象中，并且是令人厌恶的。功能主义者既与行为主义者又与同一理论者保持距离。与前者相反，功能主义者认为*内部*因果过程对于拥有心理状态是重要的。因此，功能主义者可能同意西尔拒绝图灵测试过于行为主义的观点。与同一理论者相反（他们可能认为“疼痛与 C 纤维的激活是一致的”），功能主义者认为心理状态可能由各种物理系统（或非物理系统，如科尔和福尔伯 1984 年的观点，其中一个思维从物质到非物质实现，逐个神经元地变化）拥有。因此，虽然同一理论者会将疼痛与某些神经元的激活联系起来，功能主义者会将疼痛与更抽象和更高层次的东西联系起来，这是许多不同类型的基础系统可能拥有的功能角色。
+功能主义者认为，一个心理状态_是_它所_做_的事情——状态所扮演的因果（或“功能”）角色决定了它是什么状态。功能主义者可能认为，例如，疼痛是一种通常由身体损伤引起的状态，位于身体形象中，并且是令人厌恶的。功能主义者既与行为主义者又与同一理论者保持距离。与前者相反，功能主义者认为_内部_因果过程对于拥有心理状态是重要的。因此，功能主义者可能同意西尔拒绝图灵测试过于行为主义的观点。与同一理论者相反（他们可能认为“疼痛与 C 纤维的激活是一致的”），功能主义者认为心理状态可能由各种物理系统（或非物理系统，如科尔和福尔伯 1984 年的观点，其中一个思维从物质到非物质实现，逐个神经元地变化）拥有。因此，虽然同一理论者会将疼痛与某些神经元的激活联系起来，功能主义者会将疼痛与更抽象和更高层次的东西联系起来，这是许多不同类型的基础系统可能拥有的功能角色。
 
 功能主义者指责认同论者存在物质沙文主义。然而，功能主义仍然备受争议：功能主义容易受到上述中国国家类型异议的攻击，功能主义者以难以解释感知质性而著称，这一问题由倒置光谱的明显可能性突显出来，其中在功能角色相同的情况下可能存在质性不同的状态（例如 Block 1978，Maudlin 1989，Cole 1990）。
 
@@ -342,15 +342,15 @@ Searle 在 2010 年对 CRA 的结论表示，计算模型无法解释意识。�
 
 在讨论 CRA 时，西尔认为模拟和复制之间有一个重要区别。没有人会把计算机模拟的天气误认为是真实的天气，或者把计算机模拟的消化误认为是真正的消化。西尔得出结论，把计算机模拟的理解混淆为理解同样是一个严重错误。
 
-乍一看，模拟和真实物之间通常有一个重要区别。但是出现了两个问题。不清楚是否总是能够做出区分。心脏如果有的话，就是生物性的。人工心脏是心脏的模拟吗？还是心脏的功能复制品，用不同材料制成的心脏？行走通常是使用肢体进行的生物现象。那些使用人工肢体的人算是在行走吗？还是在模拟行走？机器人会行走吗？如果确定某种事物所需的属性是高层属性，那么任何共享这些属性的事物都将是那种事物，即使在其较低层属性上有所不同。查尔默斯（1996）提出了一个关于模拟何时等同于复制的原则。查尔默斯认为，与西尔和哈南德（1989）相反，*X* 的模拟可以是 *X*，即当作为 *X* 的属性是一种组织不变量时，这种属性仅取决于基础系统的功能组织，而不取决于任何其他细节。
+乍一看，模拟和真实物之间通常有一个重要区别。但是出现了两个问题。不清楚是否总是能够做出区分。心脏如果有的话，就是生物性的。人工心脏是心脏的模拟吗？还是心脏的功能复制品，用不同材料制成的心脏？行走通常是使用肢体进行的生物现象。那些使用人工肢体的人算是在行走吗？还是在模拟行走？机器人会行走吗？如果确定某种事物所需的属性是高层属性，那么任何共享这些属性的事物都将是那种事物，即使在其较低层属性上有所不同。查尔默斯（1996）提出了一个关于模拟何时等同于复制的原则。查尔默斯认为，与西尔和哈南德（1989）相反，_X_ 的模拟可以是 _X_，即当作为 _X_ 的属性是一种组织不变量时，这种属性仅取决于基础系统的功能组织，而不取决于任何其他细节。
 
 Copeland (2002)认为，教会-图灵论题并不意味着大脑（或每台机器）可以被通用图灵机模拟，因为大脑（或其他机器）可能具有无法通过简单文书例程手动执行的原始操作。（一个例子可能是，人类大脑可能显示出真正的低级随机性，而计算机被精心设计为不这样做，因此在需要表现出随机性时，计算机会使用伪随机数。）Sprevak 2007 提出了一个相关观点。图灵的 1938 年普林斯顿论文描述了这样的机器（“O-机器”）。O-机器是包括自然数函数的机器，这些函数不是图灵机可计算的。如果大脑是这样一台机器，那么，Sprevak 说：“没有可能对塞尔的中文房间论证成功地用于反对功能主义假设，即大脑实例化了一个 O-机器……”（120）。
 
-Copeland 讨论了与大脑模拟/复制区别有关的问题。他认为塞尔尔正确地指出，不能从*X*模拟*Y*，以及*Y*具有性质*P*，推断出因此*X*具有*Y*的性质*P*对于任意*P*。但 Copeland 声称，塞尔尔本人在将 CR 论证从传统人工智能扩展到针对计算主义时犯了模拟谬误。推理的逆否命题在逻辑上是等价的 - *X*模拟*Y*，*X*没有*P*，因此*Y*也没有 - 其中*P*是懂中文。错误的步骤是：CR 操作符*S*模拟神经网络*N*，并不是*S*懂中文，因此*N*也不懂中文。Copeland 还指出了 Siegelmann 和 Sontag（1994）的研究结果，显示一些连接主义网络无法被通用图灵机模拟（特别是连接权重为实数的情况）。
+Copeland 讨论了与大脑模拟/复制区别有关的问题。他认为塞尔尔正确地指出，不能从_X_模拟_Y_，以及_Y_具有性质_P_，推断出因此_X_具有_Y_的性质_P_对于任意_P_。但 Copeland 声称，塞尔尔本人在将 CR 论证从传统人工智能扩展到针对计算主义时犯了模拟谬误。推理的逆否命题在逻辑上是等价的 - _X_模拟_Y_，_X_没有_P_，因此_Y_也没有 - 其中_P_是懂中文。错误的步骤是：CR 操作符_S_模拟神经网络_N_，并不是_S_懂中文，因此_N_也不懂中文。Copeland 还指出了 Siegelmann 和 Sontag（1994）的研究结果，显示一些连接主义网络无法被通用图灵机模拟（特别是连接权重为实数的情况）。
 
 存在另一个关于模拟和复制区别的问题，源自进化过程。西尔希望将原始的意向性和真正的理解视为仅属于某些生物系统的特性，可能是进化的产物。计算机仅仅模拟这些特性。同时，在中国屋情景中，西尔认为一个系统可以展示与人类行为一样复杂的行为，模拟任何想象得到的智能和语言理解程度，并模拟处理世界的任何能力，但却一无所知。他还说，这种行为复杂的系统可以用非常普通的材料实现，例如水管和阀门。
 
-这引发了一个生物问题，超越了早期批评中国屋论证的其他心灵问题。虽然*我们*可能预设其他人有心灵，但进化并不做出这样的假设。推动生物进化的选择力是基于行为的。进化可以选择具有创造性和智能地利用环境信息的能力，只要这在生物体的行为中表现出来。如果在任何情况下，在理解系统和非理解系统之间的任何情况下行为没有明显差异，进化就无法选择真正的理解。因此，在西尔的观点中，真正理解意义的心灵与仅仅处理信息的生物没有优势，仅使用纯计算过程。因此，一个暗示理解的模拟可以像真实事物一样具有生物适应性的立场，让我们对拥有“真正”理解的系统如何以及为什么会进化留下了一个谜团。原始的意向性和真正的理解变成了外在现象。
+这引发了一个生物问题，超越了早期批评中国屋论证的其他心灵问题。虽然_我们_可能预设其他人有心灵，但进化并不做出这样的假设。推动生物进化的选择力是基于行为的。进化可以选择具有创造性和智能地利用环境信息的能力，只要这在生物体的行为中表现出来。如果在任何情况下，在理解系统和非理解系统之间的任何情况下行为没有明显差异，进化就无法选择真正的理解。因此，在西尔的观点中，真正理解意义的心灵与仅仅处理信息的生物没有优势，仅使用纯计算过程。因此，一个暗示理解的模拟可以像真实事物一样具有生物适应性的立场，让我们对拥有“真正”理解的系统如何以及为什么会进化留下了一个谜团。原始的意向性和真正的理解变成了外在现象。
 
 ## 结论
 
@@ -365,124 +365,124 @@ Copeland 讨论了与大脑模拟/复制区别有关的问题。他认为塞尔�
 ## Bibliography
 
 * Apple Inc., 2014, ‘[IOS 7 Siri](http://www.apple.com/ios/siri/)’, accessed 1/10/2014.
-* Baggini, J., 2009, ‘Painting the bigger picture’, *The Philosopher’s Magazine*, 8: 37–39.
-* Block, N., 1978, ‘Troubles with Functionalism’, in C. W. Savage (ed.), *Perception and Cognition: Issues in the Foundations of Psychology*, Minneapolis: University of Minnesota Press. (Reprinted in many anthologies on philosophy of mind and psychology.)
-* –––, 1986, ‘Advertisement for a Semantics for Psychology’, *Midwest Studies in Philosophy* (Volume X), P.A. French, *et al*. (eds.), Minneapolis: University of Minnesota Press, 615–678.
+* Baggini, J., 2009, ‘Painting the bigger picture’, _The Philosopher’s Magazine_, 8: 37–39.
+* Block, N., 1978, ‘Troubles with Functionalism’, in C. W. Savage (ed.), _Perception and Cognition: Issues in the Foundations of Psychology_, Minneapolis: University of Minnesota Press. (Reprinted in many anthologies on philosophy of mind and psychology.)
+* –––, 1986, ‘Advertisement for a Semantics for Psychology’, _Midwest Studies in Philosophy_ (Volume X), P.A. French, _et al_. (eds.), Minneapolis: University of Minnesota Press, 615–678.
 * –––, 2002, ‘Searle’s Arguments Against Cognitive Science’, in Preston and Bishop (eds.) 2002.
-* Boden, M., 1988, *Computer Models of the Mind*, Cambridge: Cambridge University Press; pp. 238–251 were excerpted and published as ‘Escaping from the Chinese Room’, in *The Philosophy of Artificial Intelligence*, ed M. A. Boden, New York: Oxford University Press, 1990.
-* Cam, P., 1990, ‘Searle on Strong AI’, *Australasian Journal of Philosophy*, 68: 103–8.
-* Chalmers, D., 1992, ‘Subsymbolic Computation and the Chinese Room’, in J. Dinsmore (ed.), *The Symbolic and Connectionist Paradigms: Closing the Gap*, Hillsdale, NJ: Lawrence Erlbaum.
-* –––, 1996, *The Conscious Mind*, Oxford: Oxford University Press.
-* –––, 1996a, “Does a Rock Implement Every Finite-State Automaton’, *Synthese* 108: 309–33.
-* –––, 1996b, ‘Minds, machines, and mathematics’, *Psyche*, 2: 11–20.
-* Churchland, P., 1985, ‘Reductionism, Qualia, and the Direct Introspection of Brain States’, *The Journal of Philosophy*, LXXXII: 8–28.
-* Churchland, P. and Churchland, P., 1990, ‘Could a machine think?’, *Scientific American*, 262(1): 32–37.
-* Clark, A., 1991, *Microcognition: Philosophy, Cognitive Science, and Parallel Distributed Processing*, Cambridge, MA: MIT Press.
-* Cole, D., 1984, ‘Thought and Thought Experiments’, *Philosophical Studies*, 45: 431–44.
-* –––, 1990, ‘Functionalism and Inverted Spectra’, *Synthese*, 82: 202–222.
-* –––, 1991a, ‘Artificial Intelligence and Personal Identity’, *Synthese*, 88: 399–417.
-* –––, 1991b, ‘Artificial Minds: Cam on Searle’, *Australasian Journal of Philosophy*, 69: 329–33.
-* –––, 1994, ‘The Causal Powers of CPUs’, in E. Dietrich (ed.), *Thinking Computers and Virtual Persons*, New York: Academic Press
-* Cole, D. and Foelber, R., 1984, Contingent Materialism’, *Pacific Philosophical Quarterly*, 65(1): 74–85.
+* Boden, M., 1988, _Computer Models of the Mind_, Cambridge: Cambridge University Press; pp. 238–251 were excerpted and published as ‘Escaping from the Chinese Room’, in _The Philosophy of Artificial Intelligence_, ed M. A. Boden, New York: Oxford University Press, 1990.
+* Cam, P., 1990, ‘Searle on Strong AI’, _Australasian Journal of Philosophy_, 68: 103–8.
+* Chalmers, D., 1992, ‘Subsymbolic Computation and the Chinese Room’, in J. Dinsmore (ed.), _The Symbolic and Connectionist Paradigms: Closing the Gap_, Hillsdale, NJ: Lawrence Erlbaum.
+* –––, 1996, _The Conscious Mind_, Oxford: Oxford University Press.
+* –––, 1996a, “Does a Rock Implement Every Finite-State Automaton’, _Synthese_ 108: 309–33.
+* –––, 1996b, ‘Minds, machines, and mathematics’, _Psyche_, 2: 11–20.
+* Churchland, P., 1985, ‘Reductionism, Qualia, and the Direct Introspection of Brain States’, _The Journal of Philosophy_, LXXXII: 8–28.
+* Churchland, P. and Churchland, P., 1990, ‘Could a machine think?’, _Scientific American_, 262(1): 32–37.
+* Clark, A., 1991, _Microcognition: Philosophy, Cognitive Science, and Parallel Distributed Processing_, Cambridge, MA: MIT Press.
+* Cole, D., 1984, ‘Thought and Thought Experiments’, _Philosophical Studies_, 45: 431–44.
+* –––, 1990, ‘Functionalism and Inverted Spectra’, _Synthese_, 82: 202–222.
+* –––, 1991a, ‘Artificial Intelligence and Personal Identity’, _Synthese_, 88: 399–417.
+* –––, 1991b, ‘Artificial Minds: Cam on Searle’, _Australasian Journal of Philosophy_, 69: 329–33.
+* –––, 1994, ‘The Causal Powers of CPUs’, in E. Dietrich (ed.), _Thinking Computers and Virtual Persons_, New York: Academic Press
+* Cole, D. and Foelber, R., 1984, Contingent Materialism’, _Pacific Philosophical Quarterly_, 65(1): 74–85.
 * Copeland, J., 2002, ‘The Chinese Room from a Logical Point of View’, in Preston and Bishop (eds.) 2002, 104–122.
-* Crane, Tim., 1996, *The Mechanical Mind*: *A Philosophical Introduction to Minds, Machines and Mental Representation*, London: Penguin.
-* Davis, Lawrence, 2001, ‘Functionalism, the Brain, and Personal Identity’, *Philosophical Studies*, 102(3): 259–279.
-* Dehaene, S., 2014, *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*, New York: Viking Penquin.
-* Dennett, D., 1978, ‘Toward a Cognitive Theory of Consciousness’, in *Brainstorms: Philosophical Essays on Mind and Psychology*, Cambridge, MA: MIT Press.
-* –––, 1981, ‘Where am I?’ in *Brainstorms: Philosophical Essays on Mind and Psychology*, Cambridge, MA: MIT Press, pp. 310–323.
-* –––, 1987, ‘Fast Thinking’, in *The Intentional Stance*, Cambridge, MA: MIT Press, 324–337.
-* –––, 1997, ‘Consciousness in Humans and Robot Minds,’ in M. Ito, Y. Miyashita and E.T. Rolls (eds.), *Cognition, computation, and consciousness*, New York: Oxford University Press, pp. 17–29.
-* –––, 2013, *Intuition Pumps and Other Tools for Thinking*, New York: W.W. Norton and Co.
-* Dneprov, A., 1961, ‘Игра’ (‘The Game’), *Знание-сила* (*Knowledge is Power*), 5: 39–42; for a link to the translation, see Mickevich 1961, Other Internet Resources.
-* Double, R., 1983, ‘Searle, Programs and Functionalism’, *Nature and System*, 5: 107–14.
-* Dretske, F. 1985, ‘Presidential Address’ (Central Division Meetings of the American Philosophical Association), *Proceedings and Addresses of the American Philosophical Association*, 59(1): 23–33.
+* Crane, Tim., 1996, _The Mechanical Mind_: _A Philosophical Introduction to Minds, Machines and Mental Representation_, London: Penguin.
+* Davis, Lawrence, 2001, ‘Functionalism, the Brain, and Personal Identity’, _Philosophical Studies_, 102(3): 259–279.
+* Dehaene, S., 2014, _Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts_, New York: Viking Penquin.
+* Dennett, D., 1978, ‘Toward a Cognitive Theory of Consciousness’, in _Brainstorms: Philosophical Essays on Mind and Psychology_, Cambridge, MA: MIT Press.
+* –––, 1981, ‘Where am I?’ in _Brainstorms: Philosophical Essays on Mind and Psychology_, Cambridge, MA: MIT Press, pp. 310–323.
+* –––, 1987, ‘Fast Thinking’, in _The Intentional Stance_, Cambridge, MA: MIT Press, 324–337.
+* –––, 1997, ‘Consciousness in Humans and Robot Minds,’ in M. Ito, Y. Miyashita and E.T. Rolls (eds.), _Cognition, computation, and consciousness_, New York: Oxford University Press, pp. 17–29.
+* –––, 2013, _Intuition Pumps and Other Tools for Thinking_, New York: W.W. Norton and Co.
+* Dneprov, A., 1961, ‘Игра’ (‘The Game’), _Знание-сила_ (_Knowledge is Power_), 5: 39–42; for a link to the translation, see Mickevich 1961, Other Internet Resources.
+* Double, R., 1983, ‘Searle, Programs and Functionalism’, _Nature and System_, 5: 107–14.
+* Dretske, F. 1985, ‘Presidential Address’ (Central Division Meetings of the American Philosophical Association), _Proceedings and Addresses of the American Philosophical Association_, 59(1): 23–33.
 * Dreyfus, H. 1965, ‘Alchemy and Artificial Intelligence’, Boston, MA: Rand Corporation.
-* –––, 1972, *What Computers Can’t Do*, New York: Harper & Row.
-* Fodor, J., 1987, *Psychosemantics*, Cambridge, MA: MIT Press.
-* –––, 1991, ‘Yin and Yang in the Chinese Room’, in D. Rosenthal (ed.), *The Nature of Mind*, New York: Oxford University Press.
-* –––, 1992, *A Theory of Content and other essays*, Cambridge, MA: MIT Press.
-* –––, 2009, ‘Where is my Mind?’, *London Review of Books*, (31)3: 13–15.
-* Ford, J., 2010, ‘Helen Keller was never in a Chinese Room’, *Minds and Machines*, VOLUME: PAGES.
-* Gardiner, H., 1987, *The Mind’s New Science: A History of the Cognitive Revolution*, New York: Basic Books.
-* Hanley, R., 1997, *The Metaphysics of Star Trek*, New York: Basic Books.
-* Harnad, S., 1989, ‘Minds, Machines and Searle’, *Journal of Experimental and Theoretical Artificial Intelligence*, 1: 5–25.
+* –––, 1972, _What Computers Can’t Do_, New York: Harper & Row.
+* Fodor, J., 1987, _Psychosemantics_, Cambridge, MA: MIT Press.
+* –––, 1991, ‘Yin and Yang in the Chinese Room’, in D. Rosenthal (ed.), _The Nature of Mind_, New York: Oxford University Press.
+* –––, 1992, _A Theory of Content and other essays_, Cambridge, MA: MIT Press.
+* –––, 2009, ‘Where is my Mind?’, _London Review of Books_, (31)3: 13–15.
+* Ford, J., 2010, ‘Helen Keller was never in a Chinese Room’, _Minds and Machines_, VOLUME: PAGES.
+* Gardiner, H., 1987, _The Mind’s New Science: A History of the Cognitive Revolution_, New York: Basic Books.
+* Hanley, R., 1997, _The Metaphysics of Star Trek_, New York: Basic Books.
+* Harnad, S., 1989, ‘Minds, Machines and Searle’, _Journal of Experimental and Theoretical Artificial Intelligence_, 1: 5–25.
 * –––, 2002, ‘Minds, Machines, and Searle2: What’s Right and Wrong about the Chinese Room Argument’, in Preston and Bishop (eds.) 2002, 294–307.
 * Haugeland, J., 2002, ‘Syntax, Semantics, Physics’, in Preston and Bishop (eds.) 2002, 379–392.
-* Hauser, L., 1997, ‘Searle’s Chinese Box: Debunking the Chinese Room Argument’, *Minds and Machines*, 7: 199–226.
+* Hauser, L., 1997, ‘Searle’s Chinese Box: Debunking the Chinese Room Argument’, _Minds and Machines_, 7: 199–226.
 * –––, 2002, ‘Nixin’ Goes to China’, in Preston and Bishop (eds.) 2002, 123–143.
-* Hayes, P., Harnad, S., Perlis, D. & Block, N., 1992, ‘Virtual Symposium on Virtual Mind’, *Minds and Machines*, 2(3): 217–238.
-* Hofstadter, D., 1981, ‘Reflections on Searle’, in Hofstadter and Dennett (eds.), *The Mind’s I*, New York: Basic Books, pp. 373–382.
-* Horgan, T., 2013, ‘Original Intentionality is Phenomenal Intentionality’, *The Monist* 96: 232–251.
-* Hudetz, A., 2012, ‘General Anesthesia and Human Brain Connectivity’, *Brain Connect*, 2(6): 291–302.
-* Jackson, F., 1986, ‘What Mary Didn’t Know’, *Journal of Philosophy*, LXXXIII: 291–5.
-* Kaernbach, C., 2005, ‘No Virtual Mind in the Chinese Room’, *Journal of Consciousness Studies*, 12(11): 31–42.
-* Kim, J., 2010, *The Philosophy of Mind*, (3rd edition), Boulder, CO: Westview Press.
-* Kurzweil, R., 2000, *The Age of Spiritual Machines: When Computers Exceed Human Intelligence*, New York: Penguin.
+* Hayes, P., Harnad, S., Perlis, D. & Block, N., 1992, ‘Virtual Symposium on Virtual Mind’, _Minds and Machines_, 2(3): 217–238.
+* Hofstadter, D., 1981, ‘Reflections on Searle’, in Hofstadter and Dennett (eds.), _The Mind’s I_, New York: Basic Books, pp. 373–382.
+* Horgan, T., 2013, ‘Original Intentionality is Phenomenal Intentionality’, _The Monist_ 96: 232–251.
+* Hudetz, A., 2012, ‘General Anesthesia and Human Brain Connectivity’, _Brain Connect_, 2(6): 291–302.
+* Jackson, F., 1986, ‘What Mary Didn’t Know’, _Journal of Philosophy_, LXXXIII: 291–5.
+* Kaernbach, C., 2005, ‘No Virtual Mind in the Chinese Room’, _Journal of Consciousness Studies_, 12(11): 31–42.
+* Kim, J., 2010, _The Philosophy of Mind_, (3rd edition), Boulder, CO: Westview Press.
+* Kurzweil, R., 2000, _The Age of Spiritual Machines: When Computers Exceed Human Intelligence_, New York: Penguin.
 * –––, 2002, ‘Locked in his Chinese Room’, in Richards 2002, 128–171.
-* Maloney, J., 1987, ‘The Right Stuff’, *Synthese*, 70: 349–72.
-* Maudlin, T., 1989, ‘Computation and Consciousness’, *Journal of Philosophy*, LXXXVI: 407–432.
-* Milkowski, M. 2017, ‘Why think that the brain is not a computer?’, *APA Newsletter on Philosophy and Computers*, 16(2), 22–28.
-* Millikan, R., 1984, *Language, Thought, and other Biological Categories*, Cambridge, MA: MIT Press.
-* Moravec, H., 1999, *Robot: Mere Machine to Transcendent Mind*, New York: Oxford University Press.
-* Nute, D., 2011, ‘A Logical Hole the Chinese Room Avoids’, *Minds and Machines*, 21: 431–3; this is a reply to Shaffer 2009.
+* Maloney, J., 1987, ‘The Right Stuff’, _Synthese_, 70: 349–72.
+* Maudlin, T., 1989, ‘Computation and Consciousness’, _Journal of Philosophy_, LXXXVI: 407–432.
+* Milkowski, M. 2017, ‘Why think that the brain is not a computer?’, _APA Newsletter on Philosophy and Computers_, 16(2), 22–28.
+* Millikan, R., 1984, _Language, Thought, and other Biological Categories_, Cambridge, MA: MIT Press.
+* Moravec, H., 1999, _Robot: Mere Machine to Transcendent Mind_, New York: Oxford University Press.
+* Nute, D., 2011, ‘A Logical Hole the Chinese Room Avoids’, _Minds and Machines_, 21: 431–3; this is a reply to Shaffer 2009.
 * Penrose, R., 2002, ‘Consciousness, Computation, and the Chinese Room’ in Preston and Bishop (eds.) 2002, 226–249.
-* Pinker, S., 1997, *How the Mind Works*, New York: Norton.
-* Preston, J. and M. Bishop (eds.), 2002, *Views into the Chinese Room: New Essays on Searle and Artificial Intelligence*, New York: Oxford University Press.
-* Pylyshyn, Z., 1980, Reply to Searle,*Behavioral and Brain Sciences*, 3.
-* Rapaport, W., 1984, ‘Searle’s Experiments with Thought’, *Philosophy of Science*, 53: 271–9.
-* ––– 2006, ‘How Helen Keller Used Syntactic Semantics to Escape from a Chinese Room’, *Minds and Machines*, 16(4): 381–436.
-* Rey, G., 1986, ‘What’s Really Going on in Searle’s “Chinese Room” ’, *Philosophical Studies*, 50: 169–85.
+* Pinker, S., 1997, _How the Mind Works_, New York: Norton.
+* Preston, J. and M. Bishop (eds.), 2002, _Views into the Chinese Room: New Essays on Searle and Artificial Intelligence_, New York: Oxford University Press.
+* Pylyshyn, Z., 1980, Reply to Searle,_Behavioral and Brain Sciences_, 3.
+* Rapaport, W., 1984, ‘Searle’s Experiments with Thought’, _Philosophy of Science_, 53: 271–9.
+* ––– 2006, ‘How Helen Keller Used Syntactic Semantics to Escape from a Chinese Room’, _Minds and Machines_, 16(4): 381–436.
+* Rey, G., 1986, ‘What’s Really Going on in Searle’s “Chinese Room” ’, _Philosophical Studies_, 50: 169–85.
 * –––, 2002, ‘Searle’s Misunderstandings of Functionalism and Strong AI’, in Preston and Bishop (eds.) 2002, 201–225.
-* Richards, J. W. (ed.), 2002, *Are We Spiritual Machines: Ray Kurzweil vs. the Critics of Strong AI*, Seattle: Discovery Institute.
-* Rosenthal, D. (ed), 1991, *The Nature of Mind*, Oxford and NY: Oxford University Press.
-* Schank, R., 2015, ‘Machines that Think are in the Movies’, in Brockman, J. (ed.), *What to Think About Machines that Think*, New York: Harper Collins
-* Schank, R. and Abelson, R., 1977, *Scripts, Plans, Goals, and Understanding*, Hillsdale, NJ: Lawrence Erlbaum.
-* Schank, R. and P. Childers, 1985, *The Cognitive Computer: On Language, Learning, and Artificial Intelligence*, New York: Addison-Wesley.
-* Schweizer, P., 2012, ‘The Externalist Foundations of a Truly Total Turing Test’, *Minds and Machines*, 22: 191–212.
-* Searle, J., 1980, ‘Minds, Brains and Programs’, *Behavioral and Brain Sciences*, 3: 417–57 [[Preprint available online](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)]
-* –––, 1984, *Minds, Brains and Science*, Cambridge, MA: Harvard University Press.
-* –––, 1989, ‘Artificial Intelligence and the Chinese Room: An Exchange’, *New York Review of Books*, 36: 2 (February 16, 1989).
-* –––, 1990a, ‘Is the Brain’s Mind a Computer Program?’, *Scientific American*, 262(1): 26–31.
-* –––, 1990b, ‘Presidential Address’, *Proceedings and Addresses of the American Philosophical Association*, 64: 21–37.
-* –––, 1998, ‘Do We Understand Consciousness?’ (Interview with Walter Freeman), *Journal of Consciousness Studies*, 6: 5–6.
-* –––, 1999, ‘The Chinese Room’, in R.A. Wilson and F. Keil (eds.), *The MIT Encyclopedia of the Cognitive Sciences*, Cambridge, MA: MIT Press.
+* Richards, J. W. (ed.), 2002, _Are We Spiritual Machines: Ray Kurzweil vs. the Critics of Strong AI_, Seattle: Discovery Institute.
+* Rosenthal, D. (ed), 1991, _The Nature of Mind_, Oxford and NY: Oxford University Press.
+* Schank, R., 2015, ‘Machines that Think are in the Movies’, in Brockman, J. (ed.), _What to Think About Machines that Think_, New York: Harper Collins
+* Schank, R. and Abelson, R., 1977, _Scripts, Plans, Goals, and Understanding_, Hillsdale, NJ: Lawrence Erlbaum.
+* Schank, R. and P. Childers, 1985, _The Cognitive Computer: On Language, Learning, and Artificial Intelligence_, New York: Addison-Wesley.
+* Schweizer, P., 2012, ‘The Externalist Foundations of a Truly Total Turing Test’, _Minds and Machines_, 22: 191–212.
+* Searle, J., 1980, ‘Minds, Brains and Programs’, _Behavioral and Brain Sciences_, 3: 417–57 \[[Preprint available online](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)]
+* –––, 1984, _Minds, Brains and Science_, Cambridge, MA: Harvard University Press.
+* –––, 1989, ‘Artificial Intelligence and the Chinese Room: An Exchange’, _New York Review of Books_, 36: 2 (February 16, 1989).
+* –––, 1990a, ‘Is the Brain’s Mind a Computer Program?’, _Scientific American_, 262(1): 26–31.
+* –––, 1990b, ‘Presidential Address’, _Proceedings and Addresses of the American Philosophical Association_, 64: 21–37.
+* –––, 1998, ‘Do We Understand Consciousness?’ (Interview with Walter Freeman), _Journal of Consciousness Studies_, 6: 5–6.
+* –––, 1999, ‘The Chinese Room’, in R.A. Wilson and F. Keil (eds.), _The MIT Encyclopedia of the Cognitive Sciences_, Cambridge, MA: MIT Press.
 * –––, 2002a, ‘Twenty-one Years in the Chinese Room’, in Preston and Bishop (eds.) 2002, 51–69.
-* –––, 2002b, ‘The Problem of Consciousness’, in *Consciousness and Language*, Cambridge: Cambridge University Press, 7–17.
-* –––, 2004, *Mind: a Brief Introduction*, Oxford: Oxford University Press.
-* –––, 2010, ‘Why Dualism (and Materialism) Fail to Account for Consciousness’, in Richard E. Lee (ed.), *Questioning Nineteenth Century Assumptions about Knowledge* (III: Dualism), New York: SUNY Press.
-* Seligman, M., 2019, ‘The Evolving Treatment of Semantics in Machine Translation’, in M. Ji and M. Oakes (eds.), *Advances in Empirical Translation Studies: Developing Translation Resources and Technologies*, Cambridge: Cambridge University Press.
-* Shaffer, M., 2009, ‘A Logical Hole in the Chinese Room’, *Minds and Machines*, 19(2): 229–235.
-* Sharvy, R., 1983, ‘It Ain’t the Meat It’s the Motion’, *Inquiry*, 26: 125–134.
+* –––, 2002b, ‘The Problem of Consciousness’, in _Consciousness and Language_, Cambridge: Cambridge University Press, 7–17.
+* –––, 2004, _Mind: a Brief Introduction_, Oxford: Oxford University Press.
+* –––, 2010, ‘Why Dualism (and Materialism) Fail to Account for Consciousness’, in Richard E. Lee (ed.), _Questioning Nineteenth Century Assumptions about Knowledge_ (III: Dualism), New York: SUNY Press.
+* Seligman, M., 2019, ‘The Evolving Treatment of Semantics in Machine Translation’, in M. Ji and M. Oakes (eds.), _Advances in Empirical Translation Studies: Developing Translation Resources and Technologies_, Cambridge: Cambridge University Press.
+* Shaffer, M., 2009, ‘A Logical Hole in the Chinese Room’, _Minds and Machines_, 19(2): 229–235.
+* Sharvy, R., 1983, ‘It Ain’t the Meat It’s the Motion’, _Inquiry_, 26: 125–134.
 * Simon, H. and Eisenstadt, S., 2002, ‘A Chinese Room that Understands’, in Preston and Bishop (eds.) 2002, 95–108.
-* Sloman, A. and Croucher, M., 1980, ‘How to turn an information processor into an understanding’, *Brain and Behavioral Sciences*, 3: 447–8.
-* Sprevak, M., 2007, ‘Chinese Rooms and Program Portability’, *British Journal for the Philosophy of Science*, 58(4): 755–776.
-* Stampe, Dennis, 1977, ‘Towards a Causal Theory of Linguistic Representation’, in P. French, T. Uehling, H. Wettstein, (eds.) *Contemporary Perspectives in the Philosophy of Language*, (Midwest Studies in Philosophy, Volume 2), Minneapolis: University of Minnesota Press, pp. 42–63.
-* Thagard, P., 1986, ‘The Emergence of Meaning: An Escape from Searle’s Chinese Room’, *Behaviorism*, 14: 139–46.
-* –––, 2013, ‘Thought Experiments Considered Harmful‘, *Perspectives on Science*, 21: 122–139.
+* Sloman, A. and Croucher, M., 1980, ‘How to turn an information processor into an understanding’, _Brain and Behavioral Sciences_, 3: 447–8.
+* Sprevak, M., 2007, ‘Chinese Rooms and Program Portability’, _British Journal for the Philosophy of Science_, 58(4): 755–776.
+* Stampe, Dennis, 1977, ‘Towards a Causal Theory of Linguistic Representation’, in P. French, T. Uehling, H. Wettstein, (eds.) _Contemporary Perspectives in the Philosophy of Language_, (Midwest Studies in Philosophy, Volume 2), Minneapolis: University of Minnesota Press, pp. 42–63.
+* Thagard, P., 1986, ‘The Emergence of Meaning: An Escape from Searle’s Chinese Room’, _Behaviorism_, 14: 139–46.
+* –––, 2013, ‘Thought Experiments Considered Harmful‘, _Perspectives on Science_, 21: 122–139.
 * Turing, A., 1948, ‘Intelligent Machinery: A Report’, London: National Physical Laboratory.
-* –––, 1950, ‘Computing Machinery and Intelligence’, *Mind*, 59: 433–460.
-* Weiss, T., 1990, ‘Closing the Chinese Room’, *Ratio*, 3: 165–81.
-* Ziemke, T., 2016, ‘The Body of Knowledge: on the role of the living body in grounding embodied cognition’, *Biosystems*, 148: 4–11.
+* –––, 1950, ‘Computing Machinery and Intelligence’, _Mind_, 59: 433–460.
+* Weiss, T., 1990, ‘Closing the Chinese Room’, _Ratio_, 3: 165–81.
+* Ziemke, T., 2016, ‘The Body of Knowledge: on the role of the living body in grounding embodied cognition’, _Biosystems_, 148: 4–11.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-room). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/chinese-room/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=chinese-room&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/chinese-room/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-room).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/chinese-room/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=chinese-room\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/chinese-room/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Harnad, S., 2012, ‘[Alan Turing and the ‘Hard’ and ‘Easy’ Problem of Cognition: Doing and Feeling](http://eprints.soton.ac.uk/340293/1/harnad-huma-turingessay.pdf),” *Turing100: Essays in Honour of Centenary Turing Year 2012*, available online.
+* Harnad, S., 2012, ‘[Alan Turing and the ‘Hard’ and ‘Easy’ Problem of Cognition: Doing and Feeling](http://eprints.soton.ac.uk/340293/1/harnad-huma-turingessay.pdf),” _Turing100: Essays in Honour of Centenary Turing Year 2012_, available online.
 * Mickevich, A., 1961, ‘[The Game](http://www.hardproblem.ru/en/posts/Events/a-russian-chinese-room-story-antedating-searle-s-1980-discussion/)’, translation of Dneprov 1961, at Center for Consciousness Studies (Philosophy Department, Moscow State University).
-* Searle, J., [Failures of Computationalism](http://www.ecs.soton.ac.uk/~harnad/Papers/Harnad/harnad93.symb.anal.net.searle.html) (Searle’s reply to Harnad, and Harnad’s response)
+* Searle, J., [Failures of Computationalism](http://www.ecs.soton.ac.uk/\~harnad/Papers/Harnad/harnad93.symb.anal.net.searle.html) (Searle’s reply to Harnad, and Harnad’s response)
 * [Papers on the Chinese Room Argument](http://philpapers.org/browse/the-chinese-room), at PhilPapers.org.
-* [Annotated Chinese Room Bibliography,](https://web.archive.org/web/20200426064652/http://host.uniroma3.it/progetti/kant/field/chinesebiblio.html) by L. Hauser.
+* [Annotated Chinese Room Bibliography,](https://web.archive.org/web/20200426064652/http://host.uniroma3.it/progetti/kant/field/chinesebiblio.html) by L. Hauser.
 
 ## Related Entries
 
-[computation: in physical systems](https://plato.stanford.edu/entries/computation-physicalsystems/) | [consciousness: and intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) | [consciousness: representational theories of](https://plato.stanford.edu/entries/consciousness-representational/) | [emergent properties](https://plato.stanford.edu/entries/properties-emergent/) | [epiphenomenalism](https://plato.stanford.edu/entries/epiphenomenalism/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [functionalism](https://plato.stanford.edu/entries/functionalism/) | [information: biological](https://plato.stanford.edu/entries/information-biological/) | [information: semantic conceptions of](https://plato.stanford.edu/entries/information-semantic/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [mental content: teleological theories of](https://plato.stanford.edu/entries/content-teleological/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [neuroscience, philosophy of](https://plato.stanford.edu/entries/neuroscience/) | [other minds](https://plato.stanford.edu/entries/other-minds/) | [thought experiments](https://plato.stanford.edu/entries/thought-experiment/) | [Turing, Alan](https://plato.stanford.edu/entries/turing/) | [Turing test](https://plato.stanford.edu/entries/turing-test/) | [zombies](https://plato.stanford.edu/entries/zombies/)
+[computation: in physical systems](https://plato.stanford.edu/entries/computation-physicalsystems/) | [consciousness: and intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) | [consciousness: representational theories of](https://plato.stanford.edu/entries/consciousness-representational/) | [emergent properties](https://plato.stanford.edu/entries/properties-emergent/) | [epiphenomenalism](https://plato.stanford.edu/entries/epiphenomenalism/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [functionalism](https://plato.stanford.edu/entries/functionalism/) | [information: biological](https://plato.stanford.edu/entries/information-biological/) | [information: semantic conceptions of](https://plato.stanford.edu/entries/information-semantic/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [mental content: teleological theories of](https://plato.stanford.edu/entries/content-teleological/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [neuroscience, philosophy of](https://plato.stanford.edu/entries/neuroscience/) | [other minds](https://plato.stanford.edu/entries/other-minds/) | [thought experiments](https://plato.stanford.edu/entries/thought-experiment/) | [Turing, Alan](https://plato.stanford.edu/entries/turing/) | [Turing test](https://plato.stanford.edu/entries/turing-test/) | [zombies](https://plato.stanford.edu/entries/zombies/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[David Cole](http://www.d.umn.edu/~dcole/) <[*dcole@d.umn.edu*](mailto:dcole%40d%2eumn%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[David Cole](http://www.d.umn.edu/\~dcole/) <[_dcole@d.umn.edu_](mailto:dcole%40d%2eumn%2eedu)>

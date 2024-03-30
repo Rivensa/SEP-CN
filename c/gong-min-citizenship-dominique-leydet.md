@@ -1,8 +1,8 @@
 # 公民 citizenship (Dominique Leydet)
 
-*首次发表于 2006 年 10 月 13 日星期五；实质性修订于 2023 年 9 月 5 日星期二*
+_首次发表于 2006 年 10 月 13 日星期五；实质性修订于 2023 年 9 月 5 日星期二_
 
-一个公民是政治共同体的成员，享有成员的权利并承担成员的责任。这一广泛定义可以在当代作者的著作中以及狄德罗和达朗贝尔的《百科全书》[1753]的“*citoyen*”一词中看出，尽管有细微差异。尽管存在这一共同的起点和某些共同参考，但 18 世纪讨论与当代辩论之间的差异是显著的。*百科全书*的主要关注点，对于生活在君主制下的人来说是可以理解的，是“公民”和“臣民”之间的关系。它们是相同的（如霍布斯所断言的）还是相互矛盾的（正如对亚里士多德的阐释所暗示的）？这个问题在今天不再那么核心，因为人们通常认为自由民主制度是思考公民身份的合适起点。然而，这并不意味着这一概念已经不再有争议。经历了相对平静的漫长时期后，自 1990 年代初以来，对公民身份的哲学兴趣出现了显著增长（Kymlicka 和 Norman 1994）。
+一个公民是政治共同体的成员，享有成员的权利并承担成员的责任。这一广泛定义可以在当代作者的著作中以及狄德罗和达朗贝尔的《百科全书》\[1753]的“_citoyen_”一词中看出，尽管有细微差异。尽管存在这一共同的起点和某些共同参考，但 18 世纪讨论与当代辩论之间的差异是显著的。_百科全书_的主要关注点，对于生活在君主制下的人来说是可以理解的，是“公民”和“臣民”之间的关系。它们是相同的（如霍布斯所断言的）还是相互矛盾的（正如对亚里士多德的阐释所暗示的）？这个问题在今天不再那么核心，因为人们通常认为自由民主制度是思考公民身份的合适起点。然而，这并不意味着这一概念已经不再有争议。经历了相对平静的漫长时期后，自 1990 年代初以来，对公民身份的哲学兴趣出现了显著增长（Kymlicka 和 Norman 1994）。
 
 两个广泛的挑战促使理论家重新审视这一概念：首先，需要承认当代自由民主国家内部的多样性；其次，全球化对领土主权国家造成的压力。我们将重点关注这两个挑战，探讨它们如何引发了新的讨论和分歧。
 
@@ -26,7 +26,7 @@
 * [其他互联网资源](https://plato.stanford.edu/entries/citizenship/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/citizenship/#Rel)
 
----
+***
 
 ## 1. 公民的维度
 
@@ -50,11 +50,11 @@
 
 自 17 世纪开始发展的自由主义传统将公民身份主要理解为一种法律地位：政治自由对于保护个人免受其他个人或当局干预是重要的。公民主要在私人团体和依恋的世界中行使这些自由，而不是在政治领域中。
 
-At first glance, the two models offer a clear set of alternatives: citizenship as a political office or a legal status; central to an individual’s sense of self or as an “occasional identity”. The citizen appears either as the primary political agent or as an individual whose private activities leave little time or inclination to engage actively in politics, entrusting the business of law-making to representatives. If the liberal model of citizenship dominates contemporary constitutional democracies, the republican critique of the *private* citizen’s passivity and insignificance is still alive and well.
+At first glance, the two models offer a clear set of alternatives: citizenship as a political office or a legal status; central to an individual’s sense of self or as an “occasional identity”. The citizen appears either as the primary political agent or as an individual whose private activities leave little time or inclination to engage actively in politics, entrusting the business of law-making to representatives. If the liberal model of citizenship dominates contemporary constitutional democracies, the republican critique of the _private_ citizen’s passivity and insignificance is still alive and well.
 
-共和党自身也存在问题。首要问题是一个担忧，自本雅明·康斯坦特以来经常重复，即他们的理想在“*grands États modernes*”（康斯坦特 1819）变化的环境中已经大部分过时。在当前背景下实现原始共和理想将是一场灾难，就像雅各宾派在法国革命期间的尝试一样（沃尔泽 1989，211）。今天的公民不会是罗马人：首先，现代国家的规模和复杂性似乎排除了共和模式所需的公民参与。如果一个人作为积极公民产生影响的机会几乎为零，那么他更有道理致力于非政治活动，无论是经济、社会还是家庭活动。他作为公民的身份并不是他自我意识的核心，政治只是他众多兴趣之一（康斯坦特 1819，316）。其次，现代国家的异质性不允许那种被投射到古代城邦的“道德统一”和相互信任，这些品质被认为是共和制度运作所必需的（沃尔泽 1989，214）。然而，如果古代美德已经无法找回，共和模式仍然可以作为今天的“一个我们在评估我们的制度和实践运作情况时诉诸的基准”（米勒 2000，84）。本质上，这涉及对模式的重新制定，质疑一些原始前提，同时坚持将公民视为积极政治行动者的理想。
+共和党自身也存在问题。首要问题是一个担忧，自本雅明·康斯坦特以来经常重复，即他们的理想在“_grands États modernes_”（康斯坦特 1819）变化的环境中已经大部分过时。在当前背景下实现原始共和理想将是一场灾难，就像雅各宾派在法国革命期间的尝试一样（沃尔泽 1989，211）。今天的公民不会是罗马人：首先，现代国家的规模和复杂性似乎排除了共和模式所需的公民参与。如果一个人作为积极公民产生影响的机会几乎为零，那么他更有道理致力于非政治活动，无论是经济、社会还是家庭活动。他作为公民的身份并不是他自我意识的核心，政治只是他众多兴趣之一（康斯坦特 1819，316）。其次，现代国家的异质性不允许那种被投射到古代城邦的“道德统一”和相互信任，这些品质被认为是共和制度运作所必需的（沃尔泽 1989，214）。然而，如果古代美德已经无法找回，共和模式仍然可以作为今天的“一个我们在评估我们的制度和实践运作情况时诉诸的基准”（米勒 2000，84）。本质上，这涉及对模式的重新制定，质疑一些原始前提，同时坚持将公民视为积极政治行动者的理想。
 
-相反于对立的两种模式，我们可以合理地将它们视为互补的。正如康斯特指出的那样，政治自由是个人自由的必要保证。与康斯特相呼应，迈克尔·沃尔泽认为这两种观念“密不可分”，因为“当局提供的安全不能仅仅被享受；它本身必须得到保障，有时甚至要对抗当局自身。作为公民的被动享受至少偶尔需要公民的积极政治”（沃尔泽，1989 年，217 页）。有时候个人只需要成为“*私人*公民”，而在其他时候他们必须成为“私人*公民*”（阿克曼，1988 年）。我们能指望政治生活的被动旁观者在需要时成为积极的公民吗？这并不是一个容易的问题，这也许可以解释为什么康斯特在他著名的论文中强调，政治自由的定期行使是道德提升的最可靠手段，可以打开公民的思想和精神，让他们关注公共利益，并重视捍卫他们的自由。这种习惯奠定了他们保护自由和支持自由的制度的能力和意愿（康斯特，1819 年，327-328 页）。[[5](https://plato.stanford.edu/entries/citizenship/notes.html#note-5)]
+相反于对立的两种模式，我们可以合理地将它们视为互补的。正如康斯特指出的那样，政治自由是个人自由的必要保证。与康斯特相呼应，迈克尔·沃尔泽认为这两种观念“密不可分”，因为“当局提供的安全不能仅仅被享受；它本身必须得到保障，有时甚至要对抗当局自身。作为公民的被动享受至少偶尔需要公民的积极政治”（沃尔泽，1989 年，217 页）。有时候个人只需要成为“_私人_公民”，而在其他时候他们必须成为“私人_公民_”（阿克曼，1988 年）。我们能指望政治生活的被动旁观者在需要时成为积极的公民吗？这并不是一个容易的问题，这也许可以解释为什么康斯特在他著名的论文中强调，政治自由的定期行使是道德提升的最可靠手段，可以打开公民的思想和精神，让他们关注公共利益，并重视捍卫他们的自由。这种习惯奠定了他们保护自由和支持自由的制度的能力和意愿（康斯特，1819 年，327-328 页）。\[[5](https://plato.stanford.edu/entries/citizenship/notes.html#note-5)]
 
 ### 1.3 女权主义批判
 
@@ -62,7 +62,7 @@ At first glance, the two models offer a clear set of alternatives: citizenship a
 
 在其古典阐述中，共和国的概念将公共/政治领域视为自由和平等的领域：在那里，自由的男性公民与他们的同行进行互动，并就共同利益进行审议，决定什么是公正或不公正，有利或有害（亚里士多德《政治学》，1253a11）。政治空间必须受到保护，不受私人领域的影响，私人领域被定义为必要性和不平等的领域，在那里，城邦的物质再生产得以确保。与繁殖的“自然世界”相关联的妇女被剥夺了公民权，并被排斥到家庭。
 
-女权主义者批评这种严格的分工是神话般的，因为分工本身以及它所假定的家庭极不平等的概念“显然是公共领域中做出的政治决策的结果”（Okin 1992, 60）。如果这种分工表面上使公民有可能作为平等的个体相互交往，女权主义者怀疑它是否曾经是实现这一目标的理想方式。因此，苏珊·奥金向共和主义者提出了问题：“哪种方式更有可能培养出能够作为彼此平等的人的更好的公民？有时需要处理事物——甚至是日常生活中的‘平凡’事物？还是*把大多数人视为事物？* ”（Okin 1992, 64–65）。一个平等的家庭比一个像专制学校一样组织的家庭更有利于培养平等的公民（J.S. Mill）；如果这意味着政治空间不能与物质世界隔离开来，那也没有什么大损失。
+女权主义者批评这种严格的分工是神话般的，因为分工本身以及它所假定的家庭极不平等的概念“显然是公共领域中做出的政治决策的结果”（Okin 1992, 60）。如果这种分工表面上使公民有可能作为平等的个体相互交往，女权主义者怀疑它是否曾经是实现这一目标的理想方式。因此，苏珊·奥金向共和主义者提出了问题：“哪种方式更有可能培养出能够作为彼此平等的人的更好的公民？有时需要处理事物——甚至是日常生活中的‘平凡’事物？还是_把大多数人视为事物？_ ”（Okin 1992, 64–65）。一个平等的家庭比一个像专制学校一样组织的家庭更有利于培养平等的公民（J.S. Mill）；如果这意味着政治空间不能与物质世界隔离开来，那也没有什么大损失。
 
 自由主义模式则将重点放在私人领域。政治自由被视为一种工具性概念：个人的形式权利保护私人领域免受外部干预，从而使他们可以自由追求各自的利益（Dietz 1998, 380–81）。然而，洛克式平等个人主义的中立语言掩盖了妇女受制于现实的事实：“女性的领域”可以被解读为“男性的财产”，因为妻子被描述为天生服从丈夫。同样，在这里，私人和公共之间的分隔阻止妇女获得进入公共领域的机会（Pateman 1989, 120; Dietz 1998, 380–81; Okin 1991, 118）。
 
@@ -80,15 +80,15 @@ At first glance, the two models offer a clear set of alternatives: citizenship a
 
 批评者认为，如果将普遍公民身份解释为需要(a) 超越特定的、具体的观点以实现共同的、普遍的观点，以及(b) 制定不考虑差异的法律和政策，那么这种模式就会变得排他性（Young 1989）。一旦普遍性被揭露为掩盖大多数文化和惯例的神话，第一个要求似乎特别令人厌恶。超越特定性的呼吁往往转化为将大多数观点强加给少数群体。第二个要求可能产生更多的不平等，而不是更少，因为不考虑差异的制度的所谓中立往往掩盖了对大多数群体的需求、利益和身份的隐性偏见。这种偏见经常给少数群体的成员带来特定的负担，即更多的不平等。
 
-这种（失败的）普世主义的批评者提出了一种基于承认差异（文化、性别、阶级、种族等）的政治相关性的公民身份替代概念。这意味着，首先，要承认民主公共领域的多元特性，由许多观点组成，其中没有一个应被认为是 *a priori* 更合法的。其次，这意味着，在某些情况下，平等尊重可能会证明差异待遇的正当性和特殊少数权利的承认。
+这种（失败的）普世主义的批评者提出了一种基于承认差异（文化、性别、阶级、种族等）的政治相关性的公民身份替代概念。这意味着，首先，要承认民主公共领域的多元特性，由许多观点组成，其中没有一个应被认为是 _a priori_ 更合法的。其次，这意味着，在某些情况下，平等尊重可能会证明差异待遇的正当性和特殊少数权利的承认。
 
-一旦这两点被承认，问题就变成了特定权利的承认是出于何种理由，合理还是不合理。这种讨论必然是特定背景下的，侧重于特定情况下群体提出的具体要求，并避免了简单的概括。这已经导致了一系列涵盖各种问题的出版物，范围从“少数群体内的少数群体”的命运到自由主义社会应该对非自由主义群体有多宽容等等。[[7](https://plato.stanford.edu/entries/citizenship/notes.html#note-7)]
+一旦这两点被承认，问题就变成了特定权利的承认是出于何种理由，合理还是不合理。这种讨论必然是特定背景下的，侧重于特定情况下群体提出的具体要求，并避免了简单的概括。这已经导致了一系列涵盖各种问题的出版物，范围从“少数群体内的少数群体”的命运到自由主义社会应该对非自由主义群体有多宽容等等。\[[7](https://plato.stanford.edu/entries/citizenship/notes.html#note-7)]
 
 差异化公民身份模式引发了自身的批评和疑问，特别是关于其实施的整体影响。批评者关注其对共同政治实践可能性的影响。考虑艾瑞丝·杨（Iris Young）对异质公共领域的愿景，参与者从他们的“特定位置”出发，试图在差异之间构建对话。这种对话要求参与者具有“公共精神”——对他人的主张持开放态度，而非一心只顾自身利益。与不要求将自己的利益证明为正确或与社会正义相容的利益集团多元主义不同，参与者应该使用审议来做出他们认为最佳或更公正的决定（杨，1989 年，267 页）。虽然欢迎杨对民主公共领域的构想，但人们可能怀疑与差异化公民身份模式相关的政策和制度是否会激励或使公民能够参与这种对话。
 
 这种分析与对多元自由民主国家公民所需美德的更广泛文献以及促进其发展的方式有关。斯蒂芬·马塞多（1990 年）、威廉·加尔斯顿（1991 年）和伊蒙·卡兰（1997 年）等人都强调了公共理性的重要性。这种美德被定义为倾听他人并以一种对其他公民的不同经历和身份敏感且尊重的方式阐述自己的立场的能力，承认这些差异可能影响政治观点。这引发了许多问题：一个差异化的公民模式如何以及在哪里培养这种及相关美德？如果一个差异化的公民模式只是让个人和团体退回到各自的飞地，他们如何能够培养参与共同论坛的动机或能力？
 
-这解释了政治哲学家对教育的持久兴趣。如果不同社会的公民要培养出“正确”的态度和性情，这是否意味着鼓励共同的教育，制定一个教授尊重差异的学校课程，同时提供跨越这些差异进行民主讨论所需的技能？在这种情况下，是否应该抵制要求设立单独学校或为少数群体提供特殊待遇的要求？如果目标是让少数群体感到受欢迎并确保他们不会退回教会学校，那么公立学校对待少数群体应该有多大的灵活性？（Callan 1997；Gutmann 1999；Brighouse 2000，2006）[[8](https://plato.stanford.edu/entries/citizenship/notes.html#note-8)]
+这解释了政治哲学家对教育的持久兴趣。如果不同社会的公民要培养出“正确”的态度和性情，这是否意味着鼓励共同的教育，制定一个教授尊重差异的学校课程，同时提供跨越这些差异进行民主讨论所需的技能？在这种情况下，是否应该抵制要求设立单独学校或为少数群体提供特殊待遇的要求？如果目标是让少数群体感到受欢迎并确保他们不会退回教会学校，那么公立学校对待少数群体应该有多大的灵活性？（Callan 1997；Gutmann 1999；Brighouse 2000，2006）\[[8](https://plato.stanford.edu/entries/citizenship/notes.html#note-8)]
 
 批评不同化公民身份的人也认为，与无视差异的普世主义背道而驰的政策会削弱公民身份的整合功能。如果拥抱多元文化和少数群体权利意味着公民们失去了集体归属感，这也可能影响到他们彼此妥协和牺牲的意愿。公民们可能会对不同背景的人纯粹采取战略性的态度。正如 Joseph Carens 所说：“从这个角度来看，不同化公民身份的危险在于，它强调对差异的承认和制度化可能会破坏使共同认同感和因此相互关联可能的条件”（Carens 2000, 193）。
 
@@ -106,7 +106,7 @@ At first glance, the two models offer a clear set of alternatives: citizenship a
 
 在 2001 年 9 月 11 日恐怖袭击事件之后，一些自由民主国家出台了立法，赋予国家撤销那些因涉嫌或被判恐怖活动而被剥夺公民身份的权力。鉴于国际法所承认的不让任何人成为无国籍人的原则，这些立法通常仅适用于持有双重或多重国籍的公民。在这种背景下，“去国籍”有时被描述为“一种用移民法来扩大反恐功能的技术”。尽管国家无法驱逐本国公民，但去国籍使他们可以首先取消公民身份，然后驱逐出境。这些立法引发了几个规范问题。首先，它们似乎与公民身份是一项基本权利而非特权的基本理念相矛盾。其次，由于它们削弱了通常与公民身份地位相关的安全性，可以将其描述为将公民身份“降级为另一类永久居住权”。第三，有人认为，通过仅针对双重（或多重）公民，新立法将他们视为二等公民。相比之下，其他理论家坚持认为，恐怖主义犯罪的性质（类似于针对国家的战争行为）需要这种回应。关于立法歧视双重公民的担忧，回应是，对单一公民和双重公民的处理差异是合理的，因为去国籍的后果在每种情况下也是非常不同的。持有单一公民身份的个人是唯一会因去国籍而面临无国籍状态后果的人。 辩论中参与者找到共同点的地方在于他们对某些立法形式的共同批评，尤其是 2006 年英国国籍、移民和避难法。在 2005 年 7 月 7 日伦敦地铁爆炸事件之后，该法案取代了 2002 年立法中存在的剥夺标准（“国家的重要利益”测试），改为一个更弱和模糊的标准，规定在个人持有公民身份“不符合公共利益”时可以撤销公民身份（Gibney 2013, 650 引述）。同样令人深感担忧的是立法措施的逐步扩大，允许进行“积极的和行政性的”取消国籍（Brown Prener 2023, 3–4）。尽管取消国籍作为一项旨在减少恐怖活动发生率的措施的效率仍然存疑，但其价值似乎主要是象征性的，表达了一些作者认为是自由民主国家对那些意图攻击它们根基的人的‘恰当’回应（Barry 和 Ferracioli 2016；见 Lenard 2018 提出的相反论点）。对取消国籍的象征性理解突显了效忠语言在当代自由民主思想中的持久重要性，尽管一些人认为这种语言与自由民主原则不相容（Irving 2022）。
 
-对穆斯林移民在西方自由民主国家的融合引起了人们对西方主导的自由政治文化、不同版本的世俗主义、宗教以及信仰公民之间复杂关系的持续关注。研究重点放在宗教在公共领域的地位（Parekh 2006，Laborde 2008，Brahm Levey 和 Modood 2009，Modood 2019），以及宗教、性别和公民身份之间的关系。[[10](https://plato.stanford.edu/entries/citizenship/notes.html#note-10)]
+对穆斯林移民在西方自由民主国家的融合引起了人们对西方主导的自由政治文化、不同版本的世俗主义、宗教以及信仰公民之间复杂关系的持续关注。研究重点放在宗教在公共领域的地位（Parekh 2006，Laborde 2008，Brahm Levey 和 Modood 2009，Modood 2019），以及宗教、性别和公民身份之间的关系。\[[10](https://plato.stanford.edu/entries/citizenship/notes.html#note-10)]
 
 ### 2.2 自由民族主义者 vs 后民族主义者
 
@@ -118,7 +118,7 @@ At first glance, the two models offer a clear set of alternatives: citizenship a
 
 一方面，国家的历史资产表显示出对内部少数文化的压迫以及对其边界外的文化、政治和经济帝国主义的遗产。另一方面，对国家（不断增长的）内部多样性的承认以及对强制同化不公正的敏感性削弱了其继续扮演 19 世纪和 20 世纪初期所扮演角色的能力。将多数文化强加于少数群体可能只会使他们更难认同国家，并削弱其合法性。
 
-在多元主义的条件下，因此，多数文化不能作为共同身份的基础。它必须被人权和法治的普世原则所取代，据称这些原则并不意味着将特定多数文化强加给少数群体。每个政治共同体随着时间对这些原则意义的独特解释，逐渐形成了体现在其政治和法律制度与实践中的特色。这些又构成了围绕国家宪法结晶的政治文化，并将这些原则转化为“具体的普遍性”。民主和自由原则在独特政治文化中的嵌入，反过来可能产生于于尔根·哈贝马斯所说的“宪法爱国主义”，这应当取代民族主义成为共同身份的焦点。在已经形成强烈民族意识的国家中，政治文化长期以来一直与多数文化纠缠不清。哈贝马斯认为，这种“融合”必须被解除，才能让不同文化、种族和宗教生活形式在*同一个*政治共同体内以平等条件共存并互动（哈贝马斯，1998 年，118 页）。
+在多元主义的条件下，因此，多数文化不能作为共同身份的基础。它必须被人权和法治的普世原则所取代，据称这些原则并不意味着将特定多数文化强加给少数群体。每个政治共同体随着时间对这些原则意义的独特解释，逐渐形成了体现在其政治和法律制度与实践中的特色。这些又构成了围绕国家宪法结晶的政治文化，并将这些原则转化为“具体的普遍性”。民主和自由原则在独特政治文化中的嵌入，反过来可能产生于于尔根·哈贝马斯所说的“宪法爱国主义”，这应当取代民族主义成为共同身份的焦点。在已经形成强烈民族意识的国家中，政治文化长期以来一直与多数文化纠缠不清。哈贝马斯认为，这种“融合”必须被解除，才能让不同文化、种族和宗教生活形式在_同一个_政治共同体内以平等条件共存并互动（哈贝马斯，1998 年，118 页）。
 
 论点的要点是，民主政治实践可以为复杂的民主社会提供足够的一种刺激，并且实际上是它们唯一可以适当利用的方式。没有必要建立在文化同质性的背景共识上，作为民主的“催化条件”，因为民主政治过程涉及公共磋商和决策，使“即使在陌生人之间也能形成一种合理的政治理解”。民主作为一套程序，可以在公民之间缺乏更多实质性共同点的情况下获得合法性，并实现社会一体化。由于它并不执着于特定的文化前提，因此可以对公民的文化构成变化做出响应，并产生一种共同的政治文化（Habermas 2001a, 73–74）。哈贝马斯的立场，因此，将民主过程和公民的政治参与放在首要位置，这在确保社会一体化方面起着关键作用：“在复杂社会中，公民的审议性意见和意志形成，以民主主权原则为基础，形成了一种抽象的、通过政治参与自我再生产的法律构建的团结的最终媒介”（Habermas 2001a, 76）。
 
@@ -128,7 +128,7 @@ At first glance, the two models offer a clear set of alternatives: citizenship a
 
 自由民族主义者和其他批评后民族主义立场的人继续争辩说，解放自由民主国家脱离其历史根基既不可能也不必要。他们认识到自由民主与国家之间的联系在历史上是偶然的，而不是必要的或概念上的，同时补充说，这并不意味着它们可以或应该被分离（Miller 1995, 29–30; Kymlicka 2003）。要求将一个国家的政治文化与多数群体的文化分离开来说起来容易，做起来却难上加难。虽然也许很容易摒弃最严重的融合形式，如果有政治意愿这样做的话（例如，在英格兰的情况下废除英国国教会），但任何政治文化都将在道德上呈现出对多数群体成员难以理解的模式。诸如“剪断脐带”或“溶解”融合之类的表达夸大了政治文化可以与背景文化脱钩的程度。据称，这并不一定是警报的原因，因为国家无需被解释为排斥少数群体。国家认同可以以足够“薄”的方式理解，以容纳少数群体，同时又足够“厚”以产生适当的团结、忠诚和信任情感。
 
-有关国籍的这种薄弱理解有不同版本。它们共同之处在于淡化血统、文化和宗教的实质共同点，而更看重政治和法律原则以及制度，同时将国家身份描述为灵活的、易于改变的。[11]（https://plato.stanford.edu/entries/citizenship/notes.html#note-11）一旦移民成为公民，他们就可以参与集体对话，公民们在这里辩论并不断重新诠释国家的身份。移民被要求展现的是“愿意接受当前政治结构并与东道国社区互动，以便形成新的共同身份”（Miller 1995, 129）。他们被期望“说一种共同的国家语言”，“对国家机构忠诚”，并“分享对将国家保持为一个独立自治社区直至未来的无限期间的承诺”（Kymlicka 2003, 273）。
+有关国籍的这种薄弱理解有不同版本。它们共同之处在于淡化血统、文化和宗教的实质共同点，而更看重政治和法律原则以及制度，同时将国家身份描述为灵活的、易于改变的。\[11]（https://plato.stanford.edu/entries/citizenship/notes.html#note-11）一旦移民成为公民，他们就可以参与集体对话，公民们在这里辩论并不断重新诠释国家的身份。移民被要求展现的是“愿意接受当前政治结构并与东道国社区互动，以便形成新的共同身份”（Miller 1995, 129）。他们被期望“说一种共同的国家语言”，“对国家机构忠诚”，并“分享对将国家保持为一个独立自治社区直至未来的无限期间的承诺”（Kymlicka 2003, 273）。
 
 鉴于他们提出的国家认同的薄弱版本，人们可能会得出这样的结论，即自由民族主义者与哈贝马斯的宪法爱国主义并没有那么远。毕竟，两种立场似乎都将共同政治文化置于核心地位。当我们审视他们各自观点的政治含义时，比如评估欧洲联盟的前景时，它们之间的距离变得明显。自由民族主义者经常对欧洲实验持怀疑态度，而超国家主义者则是坚定的支持者。这种差异源自他们对构建和维系政治文化作为整合源泉的观念。对于自由民族主义者来说，连续性是至关重要的：政治文化在很大程度上从植根于历史和叙事中的独特政治共同体中汲取力量，这种共同体在时间上向前延伸。他们对政治自愿主义持怀疑态度，对通过正式政治制度可以实现什么持怀疑态度。单靠民主程序，脱离更丰富的背景，既不能产生也不能维系强大的政治文化或共同认同感。
 
@@ -146,11 +146,11 @@ At first glance, the two models offer a clear set of alternatives: citizenship a
 
 一种表述个人对陌生人义务的方式是坚持认为，在缺乏合作关系的情况下，共同的人性是我们唯一的纽带。有人认为，只能从这一前提中推断出一种薄弱、不完善或有条件的援助义务。据说，这一义务限制了政治共同体按其意愿分配成员资格的基本权利，而不会以任何方式取代它。个人有责任在紧急需要时帮助陌生人，如果他们可以在不使自己面临重大风险或成本的情况下提供帮助。在集体层面上，其影响更为重大，因为政治共同体拥有更多资源，并可以考虑在成本相对微不足道的情况下进行更广泛的善举。相互援助的原则可能会证明，重新分配成员资格、领土、财富和资源是合理的，因为某些国家拥有的资源超出了他们可以合理需要的范围（Walzer 1983, 47）。然而，在这一框架中，再分配政策仍然完全取决于更富裕国家对自身需求及陌生人情况紧急程度的理解。没有义务同等重视非成员的利益。
 
-从制度上讲，这一立场支持《日内瓦难民地位公约》（联合国 1951 年）所称的“*非遣返*”原则：签署国不得将难民和寻求庇护者驱逐回威胁其生命和自由的原籍国。这也可以支持主张增加被富裕国家接纳的移民数量，具体取决于后者如何评估对自身利益的潜在影响。
+从制度上讲，这一立场支持《日内瓦难民地位公约》（联合国 1951 年）所称的“_非遣返_”原则：签署国不得将难民和寻求庇护者驱逐回威胁其生命和自由的原籍国。这也可以支持主张增加被富裕国家接纳的移民数量，具体取决于后者如何评估对自身利益的潜在影响。
 
-批评者认为，对移民和寻求庇护者的义务远不止于此，并呼吁实行开放边界政策和/或否定国家独自决定谁以及多少人可以进入其领土的权利。采用了三种基本策略：第一种是主张人的自由流动是一项基本人权。例如，一些人认为，任何承认个体平等道德价值并赋予他们道德首要性胜过社区的理论都不能证明拒绝外来者入境和获得公民身份的要求是合理的。正如卡伦斯在一篇早期文章中所证明的那样，这一论点适用于当代自由主义理论的三个主要流派：古典自由主义（*à la* Nozick）、罗尔斯主义和功利主义（卡伦斯 1987）。如果道德平等原则得到充分扩展，公民和外来者之间的区别就显得在道德上是任意的，既不被自然所证明，也不被成就所证明。在评估边界和移民政策时，需要平等考虑所有受影响者的利益（无论是外来者还是公民）。政治共同体不能仅根据他们对自身情况、需求和利益的理解来决定他们是否能够接纳难民申请者或潜在移民。考虑后果（例如公共秩序、福利政策的可持续性、对发展中国家人才流失的潜在影响等）并不被禁止；根本改变的是我们如何评估它们。从制度上看，这无疑会导致大多数西方民主国家的移民和难民政策发生重大变化。
+批评者认为，对移民和寻求庇护者的义务远不止于此，并呼吁实行开放边界政策和/或否定国家独自决定谁以及多少人可以进入其领土的权利。采用了三种基本策略：第一种是主张人的自由流动是一项基本人权。例如，一些人认为，任何承认个体平等道德价值并赋予他们道德首要性胜过社区的理论都不能证明拒绝外来者入境和获得公民身份的要求是合理的。正如卡伦斯在一篇早期文章中所证明的那样，这一论点适用于当代自由主义理论的三个主要流派：古典自由主义（_à la_ Nozick）、罗尔斯主义和功利主义（卡伦斯 1987）。如果道德平等原则得到充分扩展，公民和外来者之间的区别就显得在道德上是任意的，既不被自然所证明，也不被成就所证明。在评估边界和移民政策时，需要平等考虑所有受影响者的利益（无论是外来者还是公民）。政治共同体不能仅根据他们对自身情况、需求和利益的理解来决定他们是否能够接纳难民申请者或潜在移民。考虑后果（例如公共秩序、福利政策的可持续性、对发展中国家人才流失的潜在影响等）并不被禁止；根本改变的是我们如何评估它们。从制度上看，这无疑会导致大多数西方民主国家的移民和难民政策发生重大变化。
 
-Arash Abizadeh（2008）提倡的第二种策略依赖于民主合法性原则，认为强制权力的行使只有在“实际上被行使权力的人民所证明和证明”时才是合法的（41）。由于边界控制制度使公民和非公民都受到国家强制权力的约束，“特定边界控制制度的正当性不仅应归功于那些边界标记为成员的人，也应归功于非成员”（45）[13]。该论点的要点是，没有民主国家有权单方面控制自己的边界，而必须允许自由流动，或者至少在制定边界政策时听取潜在移民的意见。后一条件本身将导致西方世界移民政策的重大变化，因为共同控制的边界可能会更具渗透性。
+Arash Abizadeh（2008）提倡的第二种策略依赖于民主合法性原则，认为强制权力的行使只有在“实际上被行使权力的人民所证明和证明”时才是合法的（41）。由于边界控制制度使公民和非公民都受到国家强制权力的约束，“特定边界控制制度的正当性不仅应归功于那些边界标记为成员的人，也应归功于非成员”（45）\[13]。该论点的要点是，没有民主国家有权单方面控制自己的边界，而必须允许自由流动，或者至少在制定边界政策时听取潜在移民的意见。后一条件本身将导致西方世界移民政策的重大变化，因为共同控制的边界可能会更具渗透性。
 
 第三种策略较为间接。在国家未通过国际再分配政策满足其道德义务以保障普遍人权，即安全和生存权时，它们有道德义务接纳希望进入的人。在这里，开放边界的理念是一种工具性的，而非固有的道德原则：它是实现全球分配正义的手段（Bader 1997）。这一论证线索的优势在于，它紧密反映了开放边界的一个核心动机：对南北之间巨大不平等以及富裕国家在持续这种局面中的角色所引发的愤怒。如果成功，这种策略将为来自贫困国家的人确立特定权利，而不是一个广泛构架的自由流动权利，应该被富裕和贫困国家的个人“平等”享有。
 
@@ -160,7 +160,7 @@ Arash Abizadeh（2008）提倡的第二种策略依赖于民主合法性原则�
 
 将世界划分为国家在功能上可能是合理的，因为国家被视为“在分配和生产世界资源方面的最佳单位的第一近似”（Coleman and Harding 1995, 38）。如果我们认为国家仅仅因为是高效生产和分配的地方单位而重要，那么这将是评估移民政策时的主要考虑因素。公共秩序的论点仍然重要，同样重要的是涉及社会基本能力以确保其物质再生产的主张，但不包括涉及其文化完整性或生活方式的论点。当然，除非国家作为高效生产和分配单位的能力与它们作为具有特定共享意义文化的独特政治社区相关联，这种文化值得保存。
 
-大约四十年前，迈克尔·沃尔泽（Michael Walzer）基于“分配正义预设了一个有界世界，在这个世界中进行分配”（Walzer 1983, 31）的观点进行了辩护。由于要分配、交换和共享的物品对于特定社区具有特定的社会意义，只有在它们的边界内，冲突才能得以解决，分配方案才能被判断为公正或不公正。这里的关键假设是“政治共同体可能是我们能够接近共同意义世界的最佳方式。语言、历史和文化汇聚在一起[...] 形成一种集体意识”（Walzer 1983, 28）。此外，政治本身作为一套塑造分配冲突形式和结果的实践和制度，“建立起自己的共同纽带”（Walzer 1983, 29）。拒绝政治共同体分配成员权益的权利就是削弱它们保持“性格共同体”的完整性的能力。这样做就是在宣判它们只能成为街坊、缺乏任何具有法律强制力的准入政策的随意组织。个人的自由流动可能导致“随意聚合体”，缺乏任何内在凝聚力，也无法成为爱国情感和团结的源泉。在一个由街坊组成的世界中，成员身份将变得毫无意义。因此，应该承认政治共同体规范准入的权利，以确保其文化、经济和政治的完整性。
+大约四十年前，迈克尔·沃尔泽（Michael Walzer）基于“分配正义预设了一个有界世界，在这个世界中进行分配”（Walzer 1983, 31）的观点进行了辩护。由于要分配、交换和共享的物品对于特定社区具有特定的社会意义，只有在它们的边界内，冲突才能得以解决，分配方案才能被判断为公正或不公正。这里的关键假设是“政治共同体可能是我们能够接近共同意义世界的最佳方式。语言、历史和文化汇聚在一起\[...] 形成一种集体意识”（Walzer 1983, 28）。此外，政治本身作为一套塑造分配冲突形式和结果的实践和制度，“建立起自己的共同纽带”（Walzer 1983, 29）。拒绝政治共同体分配成员权益的权利就是削弱它们保持“性格共同体”的完整性的能力。这样做就是在宣判它们只能成为街坊、缺乏任何具有法律强制力的准入政策的随意组织。个人的自由流动可能导致“随意聚合体”，缺乏任何内在凝聚力，也无法成为爱国情感和团结的源泉。在一个由街坊组成的世界中，成员身份将变得毫无意义。因此，应该承认政治共同体规范准入的权利，以确保其文化、经济和政治的完整性。
 
 Walzer 的立场，特别是他选择的类比，已经被广泛讨论。他假设主权国家构成共享意义的社区，似乎特别站不住脚。大多数情况下，现有的国家包含各种政治社区，这些社区本身在语言、文化和意识形态上都是多元的。很难确定哪个社区的完整性受到威胁。事实上，很少有国家符合 Walzer 设想的分配正义适当背景的图景。
 
@@ -168,39 +168,39 @@ Walzer 的立场，特别是他选择的类比，已经被广泛讨论。他假�
 
 Miller 的论点多年来已经被广泛讨论（Carens 2013; Stilz 2022; Wellman 2008, 2022）。他对共同公共文化的描述被认为是不稳定和不现实的。例如，Anna Stilz 声称，自由国家的内部多样性是如此之大，“以至于可能不可能挑选出任何单一的‘共同公共文化’，关于他们的集体生活应该如何引导的一系列理解”（Stilz 2022, 13）。
 
-一些理论家试图捍卫国家自决的权利，包括限制移民的权利，而不提及政治共同体的（公共文化）。克里斯托弗·希思·韦尔曼（Chritopher Heath Wellman）认为，可以通过将关注自由结社作为自决的一个组成部分来实现这一点（Wellman 2008, 2012; 另请参见 Ferracioli 2022）。由于“结社自由包括拒绝潜在结社的权利和（通常）解除结社的权利”（Wellman 2008, 110），自由民主国家 - 或合法国家 - 有排他性排斥移民的权利：“一个国家的公民无论文化多样性还是同质性如何，只要他们能够并愿意共同履行充分保护和维护人权的政治职能，那么他们就有政治自决的权利”（Wellman 2012, 52）。排他性排斥的权利并不取消国际分配正义的义务。这意味着“富裕国家对国外人士有任何分配正义义务，这些义务不必以开放边界的形式支付”（Wellman 2012, 66）。[[17](https://plato.stanford.edu/entries/citizenship/notes.html#note-17)]
+一些理论家试图捍卫国家自决的权利，包括限制移民的权利，而不提及政治共同体的（公共文化）。克里斯托弗·希思·韦尔曼（Chritopher Heath Wellman）认为，可以通过将关注自由结社作为自决的一个组成部分来实现这一点（Wellman 2008, 2012; 另请参见 Ferracioli 2022）。由于“结社自由包括拒绝潜在结社的权利和（通常）解除结社的权利”（Wellman 2008, 110），自由民主国家 - 或合法国家 - 有排他性排斥移民的权利：“一个国家的公民无论文化多样性还是同质性如何，只要他们能够并愿意共同履行充分保护和维护人权的政治职能，那么他们就有政治自决的权利”（Wellman 2012, 52）。排他性排斥的权利并不取消国际分配正义的义务。这意味着“富裕国家对国外人士有任何分配正义义务，这些义务不必以开放边界的形式支付”（Wellman 2012, 66）。\[[17](https://plato.stanford.edu/entries/citizenship/notes.html#note-17)]
 
-None of the authors involved in this debate consider that the current levels of global inequality are morally acceptable or that prosperous liberal democratic states are doing enough to discharge their duties of international justice. Those who defend the state’s right to exclude, like Wellman, recognize that “affluent societies must dramatically relax their severe limits on immigration *if they are unwilling to provide sufficient assistance in other ways*” (Wellman 2012, 77; see also Miller 2014, 368). As Kok-Chor Tan has remarked, “the national projects of well-off nations lose their legitimacy if these nations are not also doing their fair share as determined by their duties of justice” (Tan 2004, 129; see also Brock 2020).[[18](https://plato.stanford.edu/entries/citizenship/notes.html#note-18)] Whether liberals should concentrate on reforming the international system or fight for both greater international distributive justice and more open borders remains open for debate. The two prescriptions are by no means incompatible: insisting on the illegitimacy of restrictive immigration policies under current conditions is also a way of putting rich countries on the spot and of prodding them to accept their moral responsibilities towards the world’s poor (Goodin 1992, 8).
+None of the authors involved in this debate consider that the current levels of global inequality are morally acceptable or that prosperous liberal democratic states are doing enough to discharge their duties of international justice. Those who defend the state’s right to exclude, like Wellman, recognize that “affluent societies must dramatically relax their severe limits on immigration _if they are unwilling to provide sufficient assistance in other ways_” (Wellman 2012, 77; see also Miller 2014, 368). As Kok-Chor Tan has remarked, “the national projects of well-off nations lose their legitimacy if these nations are not also doing their fair share as determined by their duties of justice” (Tan 2004, 129; see also Brock 2020).\[[18](https://plato.stanford.edu/entries/citizenship/notes.html#note-18)] Whether liberals should concentrate on reforming the international system or fight for both greater international distributive justice and more open borders remains open for debate. The two prescriptions are by no means incompatible: insisting on the illegitimacy of restrictive immigration policies under current conditions is also a way of putting rich countries on the spot and of prodding them to accept their moral responsibilities towards the world’s poor (Goodin 1992, 8).
 
 ### 3.2 公民、非公民和权利
 
 应该从前面的讨论中推断出公民身份是“外强中幼”(Bosniak 2006, 4)，边界代表着那些属于平等公民社区的人与那些仍然处于外部的人之间的明确界线吗？简短的回答是否定的。国际移民产生了 Bauböck 所说的“公民身份与合法权威领域的不匹配”，即“居住在其政府应对他们负责的国家之外以及居住在其政府不对他们负责的国家之内的公民”(Bauböck 2008, 31)。对于居住在特定公民社区内的居民外国人来说，边界不是他们已经抛在身后的东西，它实际上跟随他们进入国家内部，剥夺了他们许多完全公民享有的权利，或者使他们享有这些权利的安全性降低(Bosniak 2006)。
 
-一种解决这种不匹配的方法是重新考虑公民身份的确定方式。在一个以跨国迁移为特征的世界中，通过血统（*jus sanguinis*）或在某一领土出生（*jus soli*）获得的出生权公民身份可能会导致令人难以理解的结果：纯粹的*血统法*体制系统地排除移民及其子女，尽管后者可能在父母的新家中出生和成长，但却包括那些可能从未踏足其祖先故土的侨民后代。另一方面，*土地法*体制可能会将公民身份归属于在领土上出生是偶然的孩子，而拒绝为那些在很小的年纪来到该国的孩子提供公民身份。
+一种解决这种不匹配的方法是重新考虑公民身份的确定方式。在一个以跨国迁移为特征的世界中，通过血统（_jus sanguinis_）或在某一领土出生（_jus soli_）获得的出生权公民身份可能会导致令人难以理解的结果：纯粹的_血统法_体制系统地排除移民及其子女，尽管后者可能在父母的新家中出生和成长，但却包括那些可能从未踏足其祖先故土的侨民后代。另一方面，_土地法_体制可能会将公民身份归属于在领土上出生是偶然的孩子，而拒绝为那些在很小的年纪来到该国的孩子提供公民身份。
 
-公民权利原则（或*jus nexi*）被提出作为出生权公民身份的一种替代（或补充）：那些与政治社区有“真实而有效的联系”（Shachar 2009, 165）或者“对成员资格有永久利益”（Bauböck 2008, 35）的个人应有权主张公民身份。这一新标准旨在确保那些真正是政治社区成员的人获得公民身份，因为他们的生活前景取决于该国的法律和政策选择。
+公民权利原则（或_jus nexi_）被提出作为出生权公民身份的一种替代（或补充）：那些与政治社区有“真实而有效的联系”（Shachar 2009, 165）或者“对成员资格有永久利益”（Bauböck 2008, 35）的个人应有权主张公民身份。这一新标准旨在确保那些真正是政治社区成员的人获得公民身份，因为他们的生活前景取决于该国的法律和政策选择。
 
-如果利益相关者原则缓解了不匹配，它并不质疑权利、公民身份、领土和权威之间紧密关联。对一些人来说，恰恰是这种关联应该受到质疑，因为它与全球化世界中个体与政治实体之间关系日益流动的趋势相矛盾。人们认为，这种背景需要的不仅仅是对当前公民身份分配原则的友好修正：它需要将通常与公民身份相关联的权利与公民的法律地位分开。[[19](https://plato.stanford.edu/entries/citizenship/notes.html#note-19)]这一过程被认为已经在当代民主国家中开始，因为正如上文所述，许多与公民身份相关的公民权利和社会权利现在已经扩展到驻在国家的所有个人，而不考虑他们的法律地位。参与政治的权利也应该扩展到居住在该国的非公民居民，甚至可能扩展到那些受到特定国家影响的“非公民非居民”（Song 2009）的基本利益。
+如果利益相关者原则缓解了不匹配，它并不质疑权利、公民身份、领土和权威之间紧密关联。对一些人来说，恰恰是这种关联应该受到质疑，因为它与全球化世界中个体与政治实体之间关系日益流动的趋势相矛盾。人们认为，这种背景需要的不仅仅是对当前公民身份分配原则的友好修正：它需要将通常与公民身份相关联的权利与公民的法律地位分开。\[[19](https://plato.stanford.edu/entries/citizenship/notes.html#note-19)]这一过程被认为已经在当代民主国家中开始，因为正如上文所述，许多与公民身份相关的公民权利和社会权利现在已经扩展到驻在国家的所有个人，而不考虑他们的法律地位。参与政治的权利也应该扩展到居住在该国的非公民居民，甚至可能扩展到那些受到特定国家影响的“非公民非居民”（Song 2009）的基本利益。
 
 在国际层面出现的人权工具为权利体制去地域化的观点和确保一个人的基本权利的可能性增添了一些可信度，无论她在某一政体中的正式成员身份如何。在这种情况下，我们被承认权利并不是因为我们的（特定）公民身份，而是因为我们的（普遍）人格。
 
-除了对于解构的实证合理性存在不同评估之外，一些作者强调了涉及的风险并质疑其可取性。稳定的公民身份制度“促进内部再分配并支持共同治理”。 “[B]通过鼓励解除目前附属于公民身份的一揽子利益和保护，解构愿景的支持者也将开始推动另一种话语——一种倡导公民身份私有化和分裂的话语，这暗示着对成员福祉的集体责任减少”（沙哈尔，2009 年，67 页）。
+除了对于解构的实证合理性存在不同评估之外，一些作者强调了涉及的风险并质疑其可取性。稳定的公民身份制度“促进内部再分配并支持共同治理”。 “\[B]通过鼓励解除目前附属于公民身份的一揽子利益和保护，解构愿景的支持者也将开始推动另一种话语——一种倡导公民身份私有化和分裂的话语，这暗示着对成员福祉的集体责任减少”（沙哈尔，2009 年，67 页）。
 
-辩论选举权问题，特别是复杂的，涵盖了外部（将选举权扩展到非居民公民）和内部选举（将选举权扩大到居住的非公民）两个方面。对于支持社会成员资格论的理论家（认为在特定领土上长期居住是成为社会成员的关键）或公民身份的利益相关者概念通常认为，长期居住在一个国家应该是分配民主权利的基础。这一论点不仅涵盖了符合永久居民身份资格的移民，还包括那些非法进入该国的人（Carens 2010b，2013），以及临时移民，特别是经常被拒绝获得任何公民身份的“客工”（Lenard 2015）。从这个观点来看，免受驱逐出境的安全和在国外时享有国家保护的权利是区分公民和居住的非公民的标志。公民权利被理解为超领土的（“它们跟随公民而不是领土”），而选举权最好被理解为领土性的（Lenard 2015，131）。[[20](https://plato.stanford.edu/entries/citizenship/notes.html#note-20)]
+辩论选举权问题，特别是复杂的，涵盖了外部（将选举权扩展到非居民公民）和内部选举（将选举权扩大到居住的非公民）两个方面。对于支持社会成员资格论的理论家（认为在特定领土上长期居住是成为社会成员的关键）或公民身份的利益相关者概念通常认为，长期居住在一个国家应该是分配民主权利的基础。这一论点不仅涵盖了符合永久居民身份资格的移民，还包括那些非法进入该国的人（Carens 2010b，2013），以及临时移民，特别是经常被拒绝获得任何公民身份的“客工”（Lenard 2015）。从这个观点来看，免受驱逐出境的安全和在国外时享有国家保护的权利是区分公民和居住的非公民的标志。公民权利被理解为超领土的（“它们跟随公民而不是领土”），而选举权最好被理解为领土性的（Lenard 2015，131）。\[[20](https://plato.stanford.edu/entries/citizenship/notes.html#note-20)]
 
 虽然一些国家在地方层面扩大了对非公民居民的投票权，但过去几十年来不断扩大对非居民公民的投票权尤为引人注目（Pogonyi 2014）。这显示了一种以理解国家为具有共同价值观和共享族群文化特征的历史社区为前提的成员概念的持久存在。从这个观点来看，投票权并非以地域为基础，而是随着公民在其祖国以外定居时而产生。尽管人们可以理解通常激励国家承认侨民投票权的一些务实原因（例如承认并鼓励他们通过汇款继续为祖国做出贡献），但规范理论家大多对这一现象持批评态度（尤其参见 Lopez-Guerra 2005）。某些前社会主义联邦国家（苏联和南斯拉夫）采取的政策，即承认定居在邻近独立国家领土上的同族人的投票权，以及像匈牙利和罗马尼亚等国最近做出的将投票权扩展给跨境民族同胞群体的决定，应引起我们对“公民身份再民族化”所涉及的对地区稳定的危险的警惕（Joppke 2005，Pogonyi 2014 引用；另见 Pogonyi 2023）。此外，在选举制度未被设计为限制非居民选民团体潜在政治影响的情况下，外部投票可能影响“居民选民团体的民主自决权”（Pogonyi 2014，135-136）。
 
-在过去的十年里，许多自由主义国家出现了“投资移民”计划，这是公民身份“私有化和碎片化增加的又一迹象”。这些计划 - 就像马耳他政府在 2013 年 10 月推出的计划一样 - 引发了关于规范问题的激烈辩论（Shachar 和 Hirschl 2014；Shachar 2017；Hidalgo 2016；Joppke 2019；Erez 2021；Irving 2022）。[21] 有两个主要反对意见。首先，这些计划引发了关于对其他潜在移民的公平性问题，这些移民缺乏符合条件的资源，以及对留在原籍国的人的公平性问题。其次，它们代表了政府引发的公民身份商品化，可能扭曲公民对政治共同体和共同公民所需承诺类型的理解。相比之下，那些拒绝谴责投资移民计划的人指出，这些计划的批评者账户中经常存在的规范不一致性。在捍卫国家限制移民权利的同时，声称国家不得向外国人出售进入该国的权利是否一致（Hidalgo 2016）？一个人能够拒绝基于投资的移民标准而认可基于技能的标准吗（Erez 2022）？一个人能够批评公民投资者不居住在他们的新国家，同时又不谴责那些通过血统或世系获得双重国籍的人，而这些人并没有严肃居住在该国的意图吗（Irving 2022）？[22] 其他理论家强调，对于“投资移民”计划腐败影响的担忧是基于对公民身份的一种观念，这种观念在民主制度参与度（例如投票，政党成员资格等）下降的时代赋予其政治维度过分重要。 一个人应该正视这样一个事实，即公民身份基本上是指某些国家签发的护照为个人提供的机会和保护（Kochenov 2018）。对于那些赞同沙哈尔强硬观点的人来说，令人沮丧的现实很可能是，投资者公民计划更多地是由“全球化的物质力量”引发的更大困境的症状，而不是原因（Spiro 2018, 19；另见 Joppke 2019, 866–867）。
+在过去的十年里，许多自由主义国家出现了“投资移民”计划，这是公民身份“私有化和碎片化增加的又一迹象”。这些计划 - 就像马耳他政府在 2013 年 10 月推出的计划一样 - 引发了关于规范问题的激烈辩论（Shachar 和 Hirschl 2014；Shachar 2017；Hidalgo 2016；Joppke 2019；Erez 2021；Irving 2022）。\[21] 有两个主要反对意见。首先，这些计划引发了关于对其他潜在移民的公平性问题，这些移民缺乏符合条件的资源，以及对留在原籍国的人的公平性问题。其次，它们代表了政府引发的公民身份商品化，可能扭曲公民对政治共同体和共同公民所需承诺类型的理解。相比之下，那些拒绝谴责投资移民计划的人指出，这些计划的批评者账户中经常存在的规范不一致性。在捍卫国家限制移民权利的同时，声称国家不得向外国人出售进入该国的权利是否一致（Hidalgo 2016）？一个人能够拒绝基于投资的移民标准而认可基于技能的标准吗（Erez 2022）？一个人能够批评公民投资者不居住在他们的新国家，同时又不谴责那些通过血统或世系获得双重国籍的人，而这些人并没有严肃居住在该国的意图吗（Irving 2022）？\[22] 其他理论家强调，对于“投资移民”计划腐败影响的担忧是基于对公民身份的一种观念，这种观念在民主制度参与度（例如投票，政党成员资格等）下降的时代赋予其政治维度过分重要。 一个人应该正视这样一个事实，即公民身份基本上是指某些国家签发的护照为个人提供的机会和保护（Kochenov 2018）。对于那些赞同沙哈尔强硬观点的人来说，令人沮丧的现实很可能是，投资者公民计划更多地是由“全球化的物质力量”引发的更大困境的症状，而不是原因（Spiro 2018, 19；另见 Joppke 2019, 866–867）。
 
 ### 3.3 辩论跨国公民身份：民族主义者 vs. 全球主义者
 
 正如我们在前面的部分中所看到的，国家的主权常常被描述为全球正义的障碍。人们也质疑国家处理日益跨越国界的经济、社会和环境问题的能力。在这种情况下，主权的领土国家是否仍然应被视为正义和民主的必要制度背景？还有哪些替代方案？
 
-这种问题至少引发了公民理论家的两种回应。 “全球主义者”坚持需要重新思考民主和公民身份，超越国家范围，提出方案将民主政治扩展到地区和全球层面。相反，“国家主义者”认为，民主公民身份需要一个有界的领土空间，即国家，在这个空间内，公民可以将自己视为共同*demos*的一部分。这场辩论的核心是对民主政治代理的意义及其基本条件的分歧。
+这种问题至少引发了公民理论家的两种回应。 “全球主义者”坚持需要重新思考民主和公民身份，超越国家范围，提出方案将民主政治扩展到地区和全球层面。相反，“国家主义者”认为，民主公民身份需要一个有界的领土空间，即国家，在这个空间内，公民可以将自己视为共同_demos_的一部分。这场辩论的核心是对民主政治代理的意义及其基本条件的分歧。
 
 对条件的分歧是至关重要的，因为条件可以被定义为限制政治共同体潜在扩展的方式。民主代理的意义也可能存在争议。应该将其理解为集体代理到什么程度？政治行动应该被描述为一种共同实践吗，其中公民处于互动和相互意识的关系中，还是可以主要定义为个体行动？
 
-支持全球民主的人反对将*demos*、领土和公民身份之间的传统联系。在他们看来，公民身份不是一系列需要根植于特定领土边界所定义的*demos*的实践和权利。相反，公民身份在各种不同层级的治理“场所”中得以理想地实践：包括地方、国家、区域和全球（Maas 2017）。全球民主主义者勾勒出一个多层次的全球民主秩序，在这个秩序中，没有任何一个单一层级或场所是主导的（Pogge 1992, 58, Young 2000, 266）。这一方案意味着权力在现有主权国家之上和之下的“垂直”分散，这些国家失去了它们的中心地位。这将降低国家内部和国家之间关于权力和财富的冲突的动机，“‘从而减少战争、贫困和压迫以及环境恶化’”（Kuper 2004, 30，援引 Pogge 1992, 102–105）。
+支持全球民主的人反对将_demos_、领土和公民身份之间的传统联系。在他们看来，公民身份不是一系列需要根植于特定领土边界所定义的_demos_的实践和权利。相反，公民身份在各种不同层级的治理“场所”中得以理想地实践：包括地方、国家、区域和全球（Maas 2017）。全球民主主义者勾勒出一个多层次的全球民主秩序，在这个秩序中，没有任何一个单一层级或场所是主导的（Pogge 1992, 58, Young 2000, 266）。这一方案意味着权力在现有主权国家之上和之下的“垂直”分散，这些国家失去了它们的中心地位。这将降低国家内部和国家之间关于权力和财富的冲突的动机，“‘从而减少战争、贫困和压迫以及环境恶化’”（Kuper 2004, 30，援引 Pogge 1992, 102–105）。
 
 全球主义者将通过加强和平与安全、人权、环境、贸易和金融等领域的全球监管机制来平衡国家权力的削弱。这些机制将确立一般规则，“涉及和平与正义呼吁全球合作的那一小部分至关重要的问题”（Young 2000, 267; 另见 Held 2005）。一套全球机构将需要确保这些规则的应用；尽管全球主义者迅速指出民主原则——同意、自决和自治——及其制度含义的重要性（Pogge 1992, 64）。
 
@@ -210,19 +210,19 @@ None of the authors involved in this debate consider that the current levels of 
 
 Statists 试图确定一些民主制度和程序的基本背景条件，这些条件在某个阈值之上无法满足。他们的论点是经验性的，而不是概念性的。一个可能的候选人是 Kymlicka 提出的共同语言。他坚持认为，语言/领土政治组织是民主参与的主要论坛，而不是跨越语言界限的高级政治组织，因为民主政治本质上是“用本国语言进行政治”（Kymlicka 1999, 121）。即使在普通公民精通一种或多种外语的情况下，他们很少具备参与非本国语言政治辩论所需流利程度：只有少数人有能力和机会获得和保持必要的语言技能。在多语言环境中的政治辩论本质上是一种精英追求。
 
-事实上，政治讨论需要比商业交易或旅游所需的流利程度更高：“政治沟通具有很大的仪式成分，这些仪式化的沟通形式通常是特定于语言的。即使从技术意义上理解一门外语，如果没有对这些仪式化元素的了解，一个人可能无法理解政治辩论”（Kymlicka 1999, 121）。在这种情况下，希望英语作为一种新的全球*通用语*能够克服阻碍跨国民主政治发展的语言障碍似乎言过其实。英语的日益普及可能足以增进个人之间的相互理解，但不太可能成为一种跨国通用语，使民主政治超越国界。[[24](https://plato.stanford.edu/entries/citizenship/notes.html#note-24)]然而，这一论点可能并非像国家主义者所认为的那样不可逾越的障碍。如果跨越国家边界延伸的全球公共领域的发展确实对全球层面的民主政治至关重要，那么这可以解释为使国家公共领域相互响应。这并不要求公民们自己变得多语言，而是要求媒体告知公民其他（国家的）公共领域如何就共同利益问题展开辩论（参见 Habermas 2009, 87）。
+事实上，政治讨论需要比商业交易或旅游所需的流利程度更高：“政治沟通具有很大的仪式成分，这些仪式化的沟通形式通常是特定于语言的。即使从技术意义上理解一门外语，如果没有对这些仪式化元素的了解，一个人可能无法理解政治辩论”（Kymlicka 1999, 121）。在这种情况下，希望英语作为一种新的全球_通用语_能够克服阻碍跨国民主政治发展的语言障碍似乎言过其实。英语的日益普及可能足以增进个人之间的相互理解，但不太可能成为一种跨国通用语，使民主政治超越国界。\[[24](https://plato.stanford.edu/entries/citizenship/notes.html#note-24)]然而，这一论点可能并非像国家主义者所认为的那样不可逾越的障碍。如果跨越国家边界延伸的全球公共领域的发展确实对全球层面的民主政治至关重要，那么这可以解释为使国家公共领域相互响应。这并不要求公民们自己变得多语言，而是要求媒体告知公民其他（国家的）公共领域如何就共同利益问题展开辩论（参见 Habermas 2009, 87）。
 
 跨国倡导网络的发展也可能表明国家主义者的担忧是夸大的。它们的存在表明个人可以在除民主国家提供的论坛之外行使政治权力，并且缺乏共同的语汇并不妨碍参与。一旦我们把焦点放在跨国民间社会的发展而不是在全球层面上转移代表性制度上，全球民主就变得可以想象。作为回应，应该注意到这些网络通常围绕着共同的意识形态或美好构想（例如环境；土著人民权利，批判新自由主义全球化形式等）汇聚在一起，作为共同语汇的功能等同物。更重要的是，这些网络由围绕共同利益组织起来的自愿联合组成，不能作为政治社区本身的替代品，政治社区是民间社会组织和团体提出要求的对象。
 
-哪个政治共同体或哪些共同体可以成为跨国民间社会组织提出要求的对象？尽管像联合国气候变化大会（COP）这样的全球事件中可以看到类似全球政治社会的出现，但国家政治共同体及其正式机构仍然是主要的要求对象。在这种情况下，基姆利卡（Kymlicka）正确地指出：“倡导网络的弱跨国主义是建立在有界政治共同体的持续存在之上，甚至是寄生于其上的”（Kymlicka 2003, 291）。在这方面，尽管新兴跨国民间社会的组织和协会可以为某些忠诚的个人和团体提供政治代理的可能性，但它们并没有提供解决将民主公民权扩展到全球层面所带来问题的解决方案。[[25](https://plato.stanford.edu/entries/citizenship/notes.html#note-25)]
+哪个政治共同体或哪些共同体可以成为跨国民间社会组织提出要求的对象？尽管像联合国气候变化大会（COP）这样的全球事件中可以看到类似全球政治社会的出现，但国家政治共同体及其正式机构仍然是主要的要求对象。在这种情况下，基姆利卡（Kymlicka）正确地指出：“倡导网络的弱跨国主义是建立在有界政治共同体的持续存在之上，甚至是寄生于其上的”（Kymlicka 2003, 291）。在这方面，尽管新兴跨国民间社会的组织和协会可以为某些忠诚的个人和团体提供政治代理的可能性，但它们并没有提供解决将民主公民权扩展到全球层面所带来问题的解决方案。\[[25](https://plato.stanford.edu/entries/citizenship/notes.html#note-25)]
 
-然而，这个结论可能会因过分强调民主公民身份所处的正式制度背景而受到指责。公民身份文献中的重要内容显示了摆脱这种对公民身份概念化方式的尝试，而是专注于独立于其正式法律地位定义的公民身份实践。这些内容指向了或许更有成效的概念化跨国民主公民身份的途径。詹姆斯·塔利（James Tully）在这里的贡献尤为重要，因为他提供了更广泛的基于实践的公民身份定义。塔利使用“‘公民’这个术语来指代那些受到治理关系（也就是被统治）*和*同时也主要是治理关系领域中的积极主体的人”（Tully 2008a, 3）。治理关系发生在政治和社会生活的各个层面：在国家的边界之下、之外和之间。公民身份，主要被视为一种活动，不能简单地被归结为“由现代宪法国家和国际法的机构赋予的地位”。相反，它指的是“通过参与成为公民的协商实践”（Tully 2008b, 248）。[[26](https://plato.stanford.edu/entries/citizenship/notes.html#note-26)]
+然而，这个结论可能会因过分强调民主公民身份所处的正式制度背景而受到指责。公民身份文献中的重要内容显示了摆脱这种对公民身份概念化方式的尝试，而是专注于独立于其正式法律地位定义的公民身份实践。这些内容指向了或许更有成效的概念化跨国民主公民身份的途径。詹姆斯·塔利（James Tully）在这里的贡献尤为重要，因为他提供了更广泛的基于实践的公民身份定义。塔利使用“‘公民’这个术语来指代那些受到治理关系（也就是被统治）_和_同时也主要是治理关系领域中的积极主体的人”（Tully 2008a, 3）。治理关系发生在政治和社会生活的各个层面：在国家的边界之下、之外和之间。公民身份，主要被视为一种活动，不能简单地被归结为“由现代宪法国家和国际法的机构赋予的地位”。相反，它指的是“通过参与成为公民的协商实践”（Tully 2008b, 248）。\[[26](https://plato.stanford.edu/entries/citizenship/notes.html#note-26)]
 
 “公民行为”文献，围绕恩根·伊辛（Engen Isin）的著作形成，这里也相关（Isin 2008; 2009; 2017）。伊辛发展了他的理论，以理解他所称的“一个无名的人物”，“这个人物背离了具有独特忠诚、身份和归属感的现代公民形象”。他将其出现与新的‘场所’和‘规模’的出现联系起来，同时坚持认为它不能被‘外国人’、‘移民’、‘难民’、‘游牧民’等传统范畴充分把握。他建议通过关注“‘行为’，通过这些‘行为’‘行动者’声称将自己（和他人）从主体转变为作为权利要求者的公民”来逃离传统的描述（Isin 2009, 368）。这一建议导致了对公民身份的流动和动态概念，试图理解跨越国界、超越国界并延伸至国家边界以下现象的现象，同时不否认国家的顽固现实（参见 Tonkiss 2022; Müller 2022; Roy and Neveu 2023）。
 
 还有另一种全球民主项目的版本，涉及对民主政治代理人的个人主义构想。在这种情况下，公民可以参与重要的政治活动，而这些活动并不需要他们之间高水平的互动和合作（Kuper 2004）。这一立场首先要求放弃民主合法性概念，这一概念隐含在辩论性、参与性和共和国式民主构想中，这些构想都试图保持对合法性的广义卢梭式理解：只有公民能够在某种程度上看到自己是法律的共同创作者，法律才是合法的。Kuper 建议放弃这种民主合法性构想，转而关注政治体系作为整体对公众利益的响应。核心问题在于这个体系是否被制约“以最符合公众利益的方式行事，并对公众做出响应”（Kuper 2004, 75，引自 Pitkin 1967）。从这个观点来看，沟通的垂直维度比水平维度更为重要：个体公民必须获得有关各种当局行动的相关信息，必须存在机构渠道，通过这些渠道他们可以向当局施加压力并让他们了解自己对拟议政策的看法。这并不要求他们“以高水平的相互意识共同行动”（Kuper 2004, 127）；他们可以通过特定机构个别行使这些能力。对一些实证政治科学家而言，响应性也是一种民主合法性维度，指代代表对公民通过各种机构传达的意见、偏好和关切的响应。这是通过统计相关性来衡量的，其中公众意见是因变量，政策产出是自变量（有关概述请参阅 Page (1994)）。
 
-与在回应性中描绘的垂直且有时因果关系的公民身份图景形成鲜明对比的是，人们可能会坚持贝尔纳德·马宁（Bernard Manin）的观点，即有意义的政治代理要求公民能够独立于当局学习他们的共同公民对重要政策问题或事件持何种看法。公民之间的水平沟通似乎是他们有能力进行政治行动的必要条件（马宁，1997 年，170-171 页）。[[27](https://plato.stanford.edu/entries/citizenship/notes.html#note-27)]使公民成为政治代理的是他们独立于当局行动的能力，而这种能力反过来取决于他们是否经常一起行动和交流，即使这种互动经常是通过诸如电子媒体之类的机构进行介入。
+与在回应性中描绘的垂直且有时因果关系的公民身份图景形成鲜明对比的是，人们可能会坚持贝尔纳德·马宁（Bernard Manin）的观点，即有意义的政治代理要求公民能够独立于当局学习他们的共同公民对重要政策问题或事件持何种看法。公民之间的水平沟通似乎是他们有能力进行政治行动的必要条件（马宁，1997 年，170-171 页）。\[[27](https://plato.stanford.edu/entries/citizenship/notes.html#note-27)]使公民成为政治代理的是他们独立于当局行动的能力，而这种能力反过来取决于他们是否经常一起行动和交流，即使这种互动经常是通过诸如电子媒体之类的机构进行介入。
 
 ## 4. 公民的新领域？
 
@@ -254,198 +254,198 @@ Donaldson 和 Kymlicka 的主要目标是保护动物免受人类对它们的统
 
 这个问题让我们直面公民政治代理的困难问题，这个问题长期以来一直是自由主义者和共和主义者之间辩论的核心。无论我们是将民主理解为公民自治（共和主义版本），还是理解为对政府行使控制权的能力（自由主义版本），要确定公民如何通过何种制度机制在复杂社会中行使有意义的政治代理权并不容易。这种困难在跨国公民身份的辩论中得到了典型体现。尽管全球公民身份首先可以被理解为确保一系列基本人权的法律地位，但大多数作者都同意，它不应严格局限于法律性质，必须具有重要的政治维度。然而，当涉及确定适当的规范标准以及找到可以实现这些标准的制度时，人们却感到一种明显的不安。
 
-最后，我们对《百科全书派》对区分主体和公民的兴趣的忽视可能过于仓促了。如果在自由民主政治共同体中成为一名公民意味着比法律*主体*的地位更多，我们必须准备好说明这种“更多”包含了什么。公民身份理论的这种顽固盲点导致我们涉及当代世界民主可能性的一些最困难问题。
+最后，我们对《百科全书派》对区分主体和公民的兴趣的忽视可能过于仓促了。如果在自由民主政治共同体中成为一名公民意味着比法律_主体_的地位更多，我们必须准备好说明这种“更多”包含了什么。公民身份理论的这种顽固盲点导致我们涉及当代世界民主可能性的一些最困难问题。
 
 ## Bibliography
 
-* Abizadeh, A., 2008, “Democratic Theory and Border Coercion. No Right to Unilaterally Control Your Own Borders”, *Political Theory*, 36(1): 37–65.
-* –––, 2010, “Democratic Legitimacy and State Coercion: A Reply to David Miller”, *Political Theory*, 38(1): 121–130.
-* Ackerman, B., 1988, “Neo-federalism?”, in *Constitutionalism and Democracy*, J. Elster, R. Slagstad (eds.), Cambridge: Cambridge University Press, 153–194.
-* Aristotle, 1996, *The Politics of Aristotle and the Constitution of Athens*, S. Everson (ed.), Cambridge: Cambridge University Press.
-* Arneil, B., 2009, “Disability, Self-Image, and Modern Political Theory”, *Political Theory*, 37(2): 218–242.
-* –––, 2016, “Disability in Political Theory versus International Practice: Redefining Equality and Freedom”, *Disability and Political Theory*, B. Arneil, N. J. Hirschmann (eds.), Cambridge: Cambridge University Press, 20–42.
-* Bader, V., 1995, “Citizenship and Exclusion. Radical Democracy, Community, and Justice. Or, What Is Wrong with Communitarianism?”, *Political Theory*, 23(2): 211–246.
-* –––, 1997, “Fairly Open Borders”, in *Citizenship and Exclusion*, V. Bader (ed.), New York: St. Martin’s Press, 28–61.
-* Banting, K. G., 2005, “The Multicultural Welfare State: International Experience and North-American Narratives”, *Social Policy and Administration*, 39(2): 98–115.
-* Banting, K., and W. Kymlicka, 2006, “Multiculturalism and the welfare state: setting the context”, in *Multiculturalism and the Welfare State: Recognition and Redistribution in Contemporary Democracies*, K. Banting, W. Kymlicka (eds.), Oxford: Oxford University Press, 1–45.
-* Barry, B., 2001, *Culture and Equality. An Egalitarian Critique of Multiculturalism*, Cambridge, MA: Harvard University Press.
-* Barry, C and Ferracioli, L., 2016, “Can Withdrawing Citizenship Be Justified?”, *Political Studies*, 64(4): 1055–1070.
-* Bauböck, R., 1994, *Transnational Citizenship*, Aldershot: Edward Elgar.
-* –––, 2008, “Stakeholder Citizenship: An Idea Whose Time Has Come?” in *Delivering Citizenship. The Transatlantic Council on Migration*, Gütersloh: Verlag Bertelsmann Stiftung.
-* Bauböck, R., and Haller, M. (eds.), 2021, *Dual Citizenship and Naturalisation. Global, Comparative and Austrian Perspectives*, Graz: Austrian Academy of Sciences Press.
-* Beitz, C., 1999 [1979], *Political Theory and International Relations*, Revised edn., Princeton: Princeton University Press.
-* Benhabib, S., 2004, *The Rights of Others. Aliens, Residents and Citizens*, Cambridge: Cambridge University Press.
-* Blattner, C., Donaldson, S., and Wilcox, R., 2020, “Animal Agency in Community. A Political Multispecies Ethnography of VINE Sanctuary”, *Politics and Animals*, 6: 1–22.
-* Bohman, J., 2004, “Republican Cosmopolitanism”, *Journal of Political Philosophy*, 12(3): 336–353.
-* –––, 2007, *Democracy across Borders: From Dêmos to Dêmoi*, Cambridge, MA: MIT Press.
-* Bosniak, L., 2006, *The Citizen and the Alien. Dilemmas of Contemporary Membership*, Princeton, Oxford: Princeton University Press.
-* Brahm Levey, G. and Modood, T., 2009, “The Muhammad Cartoons and Multilevel Democracies”, *Ethnicities*, 9(3): 427–447.
-* Brennan, J., 2016, *Against Democracy*, Princeton: Princeton University Press.
-* Brighouse, H., 2000, *School Choice and Social Justice*, Oxford: Oxford University Press.
-* –––, 2006, *On Education*, London, New York: Routledge.
-* Brock, G., 2020, “Self-Determination, Legitimacy, and the State System. A Normative Framework”, in G. Brock, *Justice for People on the Move: Migration in Challenging Times*, Cambridge: Cambridge University Press, 33–63.
-* Brown Prener, C., 2023, *Denationalisation and Its Discontents: Citizenship Revocation in the 21st Century, Legal, Political and Moral Implications*, Leiden: Brill Nijhoff.
-* Brubaker, R., 1992, *Citizenship and Nationhood in France and Germany*, Cambridge, MA and London: Harvard University Press.
-* Canovan, M., 1996, *Nationhood and Political Theory*, Cheltenham, U.K., Brookfield, Vt.: Edward Elgar.
-* Callan, E., 1997, *Creating Citizens*, Oxford: Oxford University Press.
-* Carens, J. H., 1987, “Aliens and Citizens: The Case for Open Borders”, *The Review of Politics*, 49(2): 252–273.
-* –––, 2000, *Culture, Citizenship, and Community. A Contextual Exploration of Justice as Evenhandedness*, Oxford: Oxford University Press.
-* –––, 2010a, “The Most Liberal Citizenship Test is None at All”,in *How Liberal are Citizenship Tests?*, R. Bauböck and C. Joppke (eds.), EUI Working Papers, RCAS 2010/41.
-* –––, 2010b, *Immigrants and the Right to Stay*, Cambridge, MA: MIT Press
-* –––,2013, *The Ethics of Immigration*, Oxford, New York: Oxford University Press.
-* Clifford Simplican, S., 2016, “Disavowals of Disability in Rawls’ Theory of Justice”, *Disability and Political Theory*, B. Arneil and N. J. Hirschmann (eds.), Cambridge: Cambridge University Press, 79–98.
-* “Citoyen”, 1753, *Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers*, Tome 3, D. Diderot, D’Alembert, J. Le Rond (eds.), Paris: chez Briasson [et al], 488–489 [[The ARTFL Project](http://encyclopedie.uchicago.edu/)]
-* Coleman, J. L. and Harding, S. K., 1995, “Citizenship, the Demands of Justice, and the Moral Relevance of Political Borders”, in *Justice in Immigration*, W. F. Schwartz (ed.), Cambridge: Cambridge University Press, 18–60.
-* Constant, B., 1819, “The Liberty of the Ancients Compared with that of the Moderns”, in *Political Writings*, B. Fontana (ed., trans.), Cambridge, New York: Cambridge University Press, 1988.
-* Culp, J., Drerup, J., and Yacek, D. (eds.), 2023, *Cambridge Handbook of Democratic Education*, Cambridge: Cambridge University Press.
-* Deveaux, M., 2006, *Gender and Justice in Multicultural Liberal States*, Oxford, New York: Oxford University Press.
-* Dewey, J., 1916, *Democracy and Education*, New York: The Free Press; reprinted in *John Dewey: The Middle Works 1899–1924* (Volume 9: 1916), Carbondale: Southern Illinois University Press, 1980.
-* Dietz, M. G., 1998 [1987], “Context is All: Feminism and Theories of Citizenship”, in *Feminism and Politics*, A. Phillips (ed.), Oxford and New York: Oxford University Press, 378–401.
-* Donaldson, S., 2020, “Animal Agora: Animal Citizens and the Democratic Challenge”, *Social Theory and Practice*, 46(4): 704–735.
-* Donaldson, S., and Kymlicka, W., 2011, *Zoopolis: A Political Theory of Animal Rights*, Oxford: Oxford University Press.
-* –––, 2015, “Interspecies Politics: Reply to Hinchcliffe and Ladwig”, *The Journal of Political Philosophy*, 23(3): 321–344.
-* –––, 2016, “Rethinking Membership and Participation in an Inclusive Democracy: Cognitive Disability, Children, Animals”, in *Disability and Political Theory*, B. Arneil, N. J. Hirschmann (eds.), Cambridge: Cambridge University Press, pp. 168–197.
-* Dunn, A., Owen, D., 2014, “Instituting Civic Citizenship”, in J. Tully, *On Global Citizenship: James Tully in Dialogue*, London: Bloomsbury Academic, 247–265.
-* Eisenberg, A., 2015, “Voting Rights for Non–citizens: Treasure or Fool’s Gold?”, *International Migration and Integration*, 16: 133–151.
-* Eisenberg, A. and Spinner-Halev, J. (eds.), 2005, *Minorities Within Minorities: Equality, Rights, and Diversity*, Cambridge: Cambridge University Press.
-* Erez, L., 2021, “In for a Penny, or: If You Disapprove of Investment Migration, Why Do You Approve of High-Skilled Migration?”, *Moral Philosophy and Politics*, 8(1): 155–178.
-* Ferracioli, L., 2022, *Liberal Self-Determination in a World of Migration*, Oxford: Oxford University Press.
-* Friedman, M., 2003, *Autonomy, Gender, Politics*, Oxford: Oxford University Press
-* Galston, W., 1991, *Liberal Purposes: Goods, Virtues, and Diversity in the Liberal State*, Cambridge, New York: Cambridge University Press.
-* Gibney, M. J., 2013, “‘A Very Transcendental Power’: Denaturalisation and the Liberalisation of Citizenship in the United Kingdom”, *Political Studies*, 61: 637–651.
-* Giddens, A., 1982, *Profiles and Critiques in Social Theory*, London: Macmillan.
-* Goodin, R. E., 1992, “If People Were Money…”, in *Free Movement. Ethical Issues in the Transnational Migration of People and of Money*, B. Barry, R. E. Goodin (eds.), University Park: The Pennsylvania State University Press, 1992, 6–23.
-* Gutmann, A., 1999, *Democratic Education*, Princeton: Princeton University Press.
-* Habermas, J., 1996, *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, W. Rehg (trans.), Cambridge, MA: MIT Press.
-* –––, 1998, *The Inclusion of the Other: Studies in Political Theory*, C. Cronin, P. De Greif (eds.), Cambridge, MA: MIT Press.
-* –––, 2001a, *The Postnational Constellation. Political Essays*, M. Pensky (ed., trans., intr.), Cambridge, MA: MIT Press.
-* –––, 2001b, “Why Europe Needs a Constitution”, *New Left Review* 11: 5–27.
-* –––, 2009, “European Politics at an Impasse: A Plea for a Policy of Graduated Integration”, in J. Habermas, *Europe: The Faltering Project*, C. Cronin (trans.), Cambridge: Polity Press, 78–105.
-* –––, 2012, “The Crisis of the European Union in Light of a Constitutionalization of International Law – An Essay on the Constitution of Europe”, in J. Habermas, *The Crisis of the European Union: A Response*, C. Cronin (trans.), 1–70.
-* Held, D., 1995, *Democracy and the Global Order. From the Modern State to Cosmopolitan Governance*, Stanford: Stanford University Press.
-* –––, 2005, “Principles of Cosmopolitan Order”, in *The Political Philosophy of Cosmopolitanism*, G. Brock, H. Brighouse (eds.), Cambridge: Cambridge University Press, 10–28.
-* Hidalgo, J., 2016, “Selling Citizenship: A Defense”, *Journal of Applied Philosophy*, 33(3): 223–236.
-* Hinchliffe, C., 2015, “Animals and the Limits of Citizenship: Zoopolis and the Concept of Citizenship”, *The Journal of Political Philosophy*, 23(3): 302–320.
-* Hobbes, T., 1651, *Leviathan*, R. Tuck (ed.), Cambridge: Cambridge University Press, 1991.
-* Hooley, D., 2018, “Political Agency, Citizenship, and Non-Human Animals”, *Res Publica*, 24(4): 509-530.
-* Holmes, S., 1984, *Benjamin Constant and the Making of Modern Liberalism*, New Haven: Yale University Press.
-* Joppke, C., 2014, “The Retreat is Real, but What is the Alternative? Multiculturalism, Muscular Liberalism, and Islam” *Constellations*, 21(2): 286–295.
-* –––, 2015, “Terrorists Repudiate Their Own Citizenship”, in *The Return of Banishment: Do the New Denationalization Policies Weaken Citizenship?*, A. Macklin and R. Bauböck (eds.), EUI Working Paper RSCAS 2015/14.
-* –––, 2019, “The Instrumental Turn of Citizenship”, *Journal of Ethnic and Migration Studies*, 45(6): 858–878.
-* Irving, H., 2022, *Allegiance, Citizenship and the Law: The Enigma of Belonging*, Cheltenham: Edward Elgar Publishing.
-* Isin, E. F., 2008, “Theorizing Acts of Citizenship”, in *Acts of Citizenship*, E. F. Isin and G.M. Nielsen (eds.), London and New York: Zed Books, 15–43.
-* –––, 2009, “Citizenship in Flux: The Figure of the Activist Citizen”, *Subjectivity*, 29: 367–388.
-* –––, 2017, “Performative Citizenship”, in *The Oxford Handbook of Citizenship*, A. Shachar, R. Bauböck, I. Bloemraad, M. Vink (eds.), Oxford: Oxford University Press, 500–523.
-* Klausen, J., 2005, *The Islamic Challenge: Politics and Religion in Western Europe*, New York, Oxford: Oxford University Press.
-* –––, 2009, *The Cartoons that Shook the World*, New Haven: Yale University Press.
-* Kochenov, D., 2018, “Citizenship For Real: its Hypocrisy, its Randomness, its Price”, in *Debating Transformations of National Citizenship*, R. Baübock (ed.), Cham: Springer Open, 51–56.
-* Kuper, A., 2004, *Democracy Beyond Borders. Justice and Representation in Global Institutions*, Oxford: Oxford University Press.
-* Kymlicka, W., 1995, *Multicultural Citizenship*, Oxford: Oxford University Press.
-* –––, 1999, “Citizenship in an Era of Globalization: A Commentary on Held”, in *Democracy’s Edges*, I. Shapiro and C. Hacker-Cordon (eds.), London, New York: Cambridge University Press, 112–127.
-* –––, 2001, “Territorial Boundaries: A Liberal-Egalitarian Perspective”, *Boundaries and Justice. Diverse Ethical Perspectives*, D. Miller, S. H. Hashmi (eds.), Princeton and Oxford: Princeton University Press, 249–276.
-* –––, 2003, “New Forms of Citizenship”, in *The Art of the State: Governance in a World Without Frontiers*, T. J. Courchesne and D. J. Savoie (eds.), Montréal: Institute for Research in Public Policy, 265–310.
-* –––, 2009, “The Multicultural Welfare State?”, in Peter A. Hall and Michele Lamont (eds.), *Successful Societies: How Institutions and Culture Affect Health*, Cambridge: Cambridge University Press, 226–253.
-* –––, 2022, “Membership Rights for Animals”, *Royal Institute of Philosophy* (Supplement), 91: 213–244.
-* –––, and W. Norman, 1994, “Return of the Citizen: A Survey of Recent Work on Citizenship Theory”, *Ethics*, 104(2): 352–381.
-* –––, 2000, “Citizenship in Culturally Diverse Societies: Issues, Contexts, Concepts”, in *Citizenship in Diverse Societies*, W. Kymlicka, W. Norman (eds.), Oxford: Oxford University Press, 1–41.
-* Kymlicka, W. and S. Donaldson, 2018, “Metics, Members and Citizens”, in *Democratic Inclusion: Rainer Bauböck in Dialogue*, R. Bauböck (ed.), Manchester: Manchester University Press, 160–182.
-* Laborde, C., 2008, *Critical Republicanism: The Hijab Controversy and Political Philosophy*, Oxford: Oxford University Press.
-* Lenard, P.T., 2015, “Residence and the Right to Vote”, *International Migration and Integration*, 16: 119–132.
-* –––, 2018, “Democratic Citizenship and Denationalization”, *American Political Science Review*, 112(1): 99–11.
-* Levinson, M., 2012, *No Citizen Left Behind*, Cambridge MA: Harvard University Press.
-* Lepoutre, M., 2016, “Immigration Controls: Why the Self-Determination Argument is Self-Defeating”, *Journal of Social Philosophy*, 47(3): 309–331.
-* Leydet, D., 2023, “Representative Democracy and Democratic Struggles from Below”, in *Civic Freedom in an Age of Diversity. The Public Philosophy of James Tully*, D. Karmis, J. Maclure (eds.), Montreal & Kingston: McGill-Queen’s University Press, 123–145.
-* Lister, M., 2005, “ ‘Marshall-ing’ Social and Political Citizenship: Towards a Unified Conception of Citizenship”, *Government and Opposition*, 40(4): 471–492.
-* Lopez-Guerra, C., 2005, “Should Expatriates Vote?”, *The Journal of Political Philosophy*, 13(2): 216–234.
-* Lu, C., 2019, “Decolonizing Borders, Self-Determination, and Global Justice”, in *Empire, Race and Global Justice*, D. Bell (ed.), Cambridge: Cambridge University Press, 251–272.
-* Maas, W., 2017, “Multilevel Citizenship”, in *The Oxford Handbook of Citizenship*, A. Shachar, R. Bauböck, I. Bloemraad, M. Vink (eds.), Oxford: Oxford University Press, 644–668.
-* Macedo, S., 1990, *Liberal Virtues: Citizenship, Virtues, and Community in Liberal Constitutionalism*, Oxford: Clarendon Press.
-* Macklin, A., 2015, “Kick-Off Contribution”, in *The Return of Banishment: Do the New Denationalization Policies Weaken Citizenship?*, A. Macklin and R. Bauböck (eds.), EUI Working Paper RSCAS 2015/14.
-* Manin, B., 1997, *Principles of Representative Government*, Cambridge: Cambridge University Press.
-* Marshall, T. H, 1950, *Citizenship and Social Class and Other Essays*, Cambridge: Cambridge University Press.
-* Marx, K., 1843, “On the Jewish Question”, in *Writings of the Young Marx on Philosophy and Society*, L.D. Easton and K. M. Guddat (eds.), New York: Anchor Books, 1967.
-* Mason, A., 2014, “Citizenship Tests: Can They Be a Just Compromise?”, *Journal of Social Philosophy*, 45(2): 137–161.
-* Maxwell, B., 2023, “Teacher Neutrality, Pedagogical Impartiality and Democratic Education”, in *Cambridge Handbook of Democratic Education*, J. Culp, J. Drerup, D. Yacek (eds.), Cambridge: Cambridge University Press, 607–627.
-* May, S., Modood, T., and Squires, J. (eds.), 2004, *Ethnicity, nationalism, and Minority Rights*, New York: Cambridge University Press.
-* Miller, D., 1995, *On Nationality*, New York: Clarendon Press.
-* –––, 2000, *Citizenship and National Identity*, Cambridge: Polity Press.
-* –––, 2007, *National Responsibility and Global Justice*, Oxford: Oxford University Press.
-* –––, 2010, “Why Immigration Controls Are Not Coercive: A Reply to Arash Abizadeh”, *Political Theory*, 38(1): 111–120.
-* –––, 2014, “Immigration: The Case for Limits”, in *Contemporary Debates in Applied Ethics*, 2nd Edition, A.I. Cohen and C.H. Wellman (eds.), Malden, MA: Blackwell, 363–375.
-* –––, 2016, *Strangers in our Midst*, Cambridge, MA: Harvard University Press.
-* Modood, T., 2019, *Essays on Secularism and Multiculturalism*, Colchester: ECPR Press.
-* Müller, T., 2022, “From Acts of Citizenship to Transnational Lived Citizenship: Potential and Pitfalls of Subversive Readings of Citizenship”, *Citizenship Studies*, 26(4–5): 584–591.
-* Nussbaum, M., 2006, *Frontiers of Justice. Disability, Nationality, Species Membership*, Cambridge, MA: Harvard University Press.
-* –––, 2010, *Not For Profit: Why Democracy Needs the Humanities*, Princeton: Princeton University Press.
-* Nyhagen, L. and Halsaa, B., 2016, *Religion, Gender and Citizenship: Women of Faith, Gender Equality and Feminism*, Houndmills, Basingstroke: Palgrave Macmillan.
-* Okin, S. M., 1998 [1991], “Gender, the Public, and the Private”, in *Feminism and Politics*, A. Phillips (ed.), Oxford and New York: Oxford University Press, 116–142.
-* –––, 1992, “Women, Equality, and Citizenship”, *Queen’s Quarterly*, 99(1): 57–72.
-* –––, 1999, *Is Multiculturalism Bad for Women?*, J. Cohen, M. Howard, M C. Nussbaum (eds.), Princeton: Princeton University Press.
-* –––, 2005, “Multiculturalism and Feminism: No Simple Question, No Simple Answers”, in *Minorities Within Minorities*, A. Eisenberg, J. Spinner-Halev (eds.), Cambridge: Cambridge University Press.
-* Olufemi, L., 2020, “The Saviour Complex: Muslim Women and Gendered Islamophobia”, in L. Olufemi, *Feminism Interrupted: Disrupting Power*, London: Pluto Press, 67–81.
-* Ottonelli, V. and Torresi, T., 2014, “Temporary Migration Projects and Voting Rights”, *Critical Review of International and Political Philosophy*, 17(5): 589–599.
-* Page, B. I., 1994, “Democratic Responsiveness? Untangling the links between public opinion and policy”, *PS: Political Science and Politics*, 27: 25–29.
-* Parekh, B., 2000, *Rethinking Multiculturalism: Cultural Diversity and Political Theory*, Cambridge, MA: Harvard University Press.
-* –––, 2006, “Europe, Liberalism and the ‘Muslim Question’”, in *Multiculturalism, Muslims and Citizenship. A European Approach*, T. Modood, A. Triandafyllidou, and R. Zapata-Barrero (eds.), London: Routledge, 179–204.
-* Pateman, C., 1989, *The Disorder of Women. Democracy, Feminism and Political Theory*, Cambridge: Polity Press.
-* Peucker, M., 2018, “On the (In)compatibility of Islamic Religiosity and Citizenship in Western Democracies: The Role of Religion for Muslims’ Civic and Political Engagement”, *Politics and Religion*, 11: 553–575.
-* Pinheiro, L. G., 2016, “The Ableist Contract: Intellectual Disability and the Limits of Justice in Kant’s Political Thought”, *Disability and Political Theory*, B. Arneil, N. J. Hirschmann (eds.), Cambridge: Cambridge University Press, 43–78.
-* Phillips, A., 2010, *Gender and Culture*, Cambridge: Polity Press.
-* –––, 2016, “Religion: Ally, Threat, or Just Religion?”, *Religion, Secularism, and Constitutional Democracy*, J. L. Cohen and C. Laborde (eds.), New York: Columbia University Press, 47–65.
-* Pitkin, H. F., 1967, *The Concept of Representation*, Berkeley: University of California Press.
-* Pocock, J., 1995 [1992], “The Ideal of Citizenship since Classical Times”, in *Theorizing Citizenship*, R. Beiner (ed.), Albany: State University of New York Press, 29–53.
-* Pogge, T. W., 1992, “Cosmopolitanism and Sovereignty”, *Ethics*, 103: 58–75.
-* –––, 1997, “Migration and Poverty”, in *Citizenship and Exclusion*, V. Bader (ed.), New York: St. Martin’s Press, 12–27.
-* –––, 2002, *World Poverty and Human Rights*, Cambridge: Polity Press.
-* Pogonyi, S, 2014, “Four Patterns of Non-resident Voting Rights”, *Ethnopolitics*, 13(2): 122–140.
-* –––, 2023, “The Double-Edged Sword of External Citizenship and Minority Protection in Post-Communist Europe”, in *Minority Rights and Liberal Democratic Insecurities: The Challenge of Unstable Orders*, A.M. Biro and D. Newman (eds.), Abingdon: Routledge, 55–75.
-* Rawls, J., 1972, *A Theory of Justice*, Oxford: Oxford University Press.
-* –––, 1999, “The Law of Peoples”, in *Collected Papers*, S. Freeman (ed.), Cambridge, MA and London: Harvard University Press, 529–565.
-* Rousseau, J.-J., 1762, *On the Social Contract with Geneva Manuscript and Political Economy*, R. D. Masters (ed.), J. R. Masters (trans.), New York: St. Martin’s Press, 1978.
-* Roy, M. and Neveu, C., 2023, “A Philosophy of the Theory of ”Acts of Citizenship“ woven into the Fabric of a Political Anthropology of Citizenship”, *Citizenship Studies*, 27(3): 385–405.
-* Shachar, A., 2001, *Multicultural Jurisdictions: Cultural Differences and Women’s Rights*, Cambridge: Cambridge University Press.
-* –––, 2009, *The Birthright Lottery. Citizenship and Global Inequality*, Cambridge, MA and London: Harvard University Press.
-* –––, 2017, “Citizenship for Sale?”, in *The Oxford Handbook of Citizenship*, A. Shachar, R. Bauböck, I. Bloemraad, M. Vink (eds.), Oxford: Oxford University Press, 789–816.
-* Shachar, A., and Hirschl, R., 2014, “On Citizenship, States, and Markets”, *The Journal of Political Philosophy*, 22(2): 231–257.
-* Schnapper, D., 1994, *La communauté des citoyens. Sur l’idée moderne de nation*, Paris: Gallimard.
-* Shuck, P. H., 1984, “Membership in the Liberal Polity: The Devaluation of American Citizenship”, in *Immigration and the Politics of Citizenship in Europe and America*, W. R. Brubaker (ed.), Lanham, MD: University Press of America, 51–66.
-* –––, 2015, “Should Those Who Attack the Nation Have an Absolute Right to Remain its Citizens?” in *The Return of Banishment: Do the New Denationalization Policies Weaken Citizenship?*, A. Macklin and R. Bauböck (eds.), EUI Working Paper RSCAS 2015/14.
-* Song, S. (ed.), 2007, *Justice, Gender and the Politics of Multiculturalism*, Cambridge: Cambridge University Press.
-* –––, 2009, “Democracy and Noncitizen Voting Rights”, *Citizenship Studies*, 13(6): 607–620.
-* Soysal, Y. N., 1994, *Limits of Citizenship. Migrants and Postnational Membership in Europe*, Chicago and London: University of Chicago Press.
-* Spinner, J., 1994, *The Boundaries of Citizenship. Race, Ethnicity, and Nationality in the Liberal State*, Baltimore, London: John Hopkins University Press.
-* Spiro, P. J., 2016, *At Home in Two Countries. The Past and Future of Dual Citizenship*, New York: New York University Press.
-* –––, 2018, “Cash-For-Passports and the End of Citizenship”, in *Debating Transformations of National Citizenship*, R. Baübock (ed.), Cham: Springer Open, 17–20.
-* Spitz, J.-F., 1995, *La liberté politique*, Paris: Presses Universitaires de France.
-* Steinhoff, U., 2020, “Border Coercion and ‘Democratic Legitimacy’: On Abizadeh’s Argument Against Current Regimes of Border Control”, *Res Publica*, 26: 281–292.
-* Stilz, A., 2022, “On Self-Determination”, in *Political Philosophy Here and Now. Essays in Honour of David Miller*, D. Butt, S. Fine and Z. Stemplowska (eds.), Oxford: Oxford University Press, 8–29.
-* Tamir, Y., 1992, *Liberal Nationalism*, Princeton: Princeton University Press.
-* Tan, K.-C., 2004, *Justice Without Borders. Cosmopolitanism, Nationalism and Patriotism*, Cambridge: Cambridge University Press.
-* –––, 2017, “Cosmopolitan Citizenship”, in *The Oxford Handbook of Citizenship*, A. Shachar, R. Bauböck, I. Bloemraad, M. Vink (eds.), Oxford: Oxford University Press, 694–713.
-* Tonkiss, K., 2022, “Renewing Post-national Citizenship”, *Citizenship Studies*, 26(4–5): 695–701.
-* Triandafyllidou, A., Modood, T., Zapata-Barrero, R., 2006, “European Challenges to Multicultural Citizenship. Muslims, Secularism and Beyond”, in *Multiculturalism, Muslims and Citizenship. A European Approach*, Modood, T., Triandafyllidou, A., Zapata-Barrero, R. (eds.), London: Routledge, 1-23.
-* Tully, J., 2008a, “Public Philosophy and Civic Freedom: A Guide to the Two Volumes”, in J. Tully, *Public Philosophy in a New Key* (Volume I), Cambridge: Cambridge University Press, 3–11.
-* –––, 2008b, “On Local and Glocal Citizenship: An Apprenticeship Manual”, in J. Tully, *Public Philosophy in a New Key* (Volume II), Cambridge: Cambridge University Press, 243–311.
-* Turner, B., 1992, “Outline of a Theory of Citizenship”, in *Dimensions of Radical Democracy. Pluralism, Citizenship, Community*, C. Mouffe (ed.), London: Verso, 33–63.
-* United Nations, 1951, *Convention Relating to the Status of Refugees*, UN Doc.A/Res/429.
-* Van Parijs, P., 2011, *Linguistic Justice for Europe and the World*, Oxford: Oxford University Press.
-* Walzer, M., 1983, *Spheres of Justice. A Defense of Pluralism and Equality*, New York: Basic Books.
-* –––, 1989, “Citizenship”, in *Political Innovation and Conceptual Change*, T. Ball, J. Farr, R. L. Hanson, Cambridge: Cambridge University Press, 211–220.
-* Wellman, C. H., 2008, “Immigration and Freedom of Association”, *Ethics*, 119: 109–141.
-* –––, 2012, “Freedom of Association and the Right to Exclude”, in *Debating the Ethics of Immigration. Is There a Right to Exclude*, C. H. Wellman and P. Cole (eds.), Oxford: Oxford University Press, 13–155.
-* –––, 2022, “Community, Democracy and Immigration”, in *Political Philosophy Here and Now. Essays in Honour of David Miller*, D. Butt, S. Fine and Z. Stemplowska (eds.), Oxford: Oxford University Press, 80–95.
-* Wiener, A., 2023, “Practising Civic Freedoms in Global Governance: Contestation, Agency, Sites”, in *Civic Freedom in an Age of Diversity. The Public Philosophy of James Tully*, D. Karmis, J. Maclure (eds.), Montreal & Kingston: McGill-Queen’s University Press, 146-170.
-* Williams, M. S., 1998, *Voice, Trust, and Memory. Marginalized Groups and the Failings of Liberal Representation*, Princeton: Princeton University Press.
-* Young, I. M., 1989, “Polity and Group Difference: A Critique of the Ideal of Universal Citizenship”, *Ethics*, 99: 250–274.
-* –––, 2000, *Inclusion and Democracy*, Oxford: Oxford university Press.
+* Abizadeh, A., 2008, “Democratic Theory and Border Coercion. No Right to Unilaterally Control Your Own Borders”, _Political Theory_, 36(1): 37–65.
+* –––, 2010, “Democratic Legitimacy and State Coercion: A Reply to David Miller”, _Political Theory_, 38(1): 121–130.
+* Ackerman, B., 1988, “Neo-federalism?”, in _Constitutionalism and Democracy_, J. Elster, R. Slagstad (eds.), Cambridge: Cambridge University Press, 153–194.
+* Aristotle, 1996, _The Politics of Aristotle and the Constitution of Athens_, S. Everson (ed.), Cambridge: Cambridge University Press.
+* Arneil, B., 2009, “Disability, Self-Image, and Modern Political Theory”, _Political Theory_, 37(2): 218–242.
+* –––, 2016, “Disability in Political Theory versus International Practice: Redefining Equality and Freedom”, _Disability and Political Theory_, B. Arneil, N. J. Hirschmann (eds.), Cambridge: Cambridge University Press, 20–42.
+* Bader, V., 1995, “Citizenship and Exclusion. Radical Democracy, Community, and Justice. Or, What Is Wrong with Communitarianism?”, _Political Theory_, 23(2): 211–246.
+* –––, 1997, “Fairly Open Borders”, in _Citizenship and Exclusion_, V. Bader (ed.), New York: St. Martin’s Press, 28–61.
+* Banting, K. G., 2005, “The Multicultural Welfare State: International Experience and North-American Narratives”, _Social Policy and Administration_, 39(2): 98–115.
+* Banting, K., and W. Kymlicka, 2006, “Multiculturalism and the welfare state: setting the context”, in _Multiculturalism and the Welfare State: Recognition and Redistribution in Contemporary Democracies_, K. Banting, W. Kymlicka (eds.), Oxford: Oxford University Press, 1–45.
+* Barry, B., 2001, _Culture and Equality. An Egalitarian Critique of Multiculturalism_, Cambridge, MA: Harvard University Press.
+* Barry, C and Ferracioli, L., 2016, “Can Withdrawing Citizenship Be Justified?”, _Political Studies_, 64(4): 1055–1070.
+* Bauböck, R., 1994, _Transnational Citizenship_, Aldershot: Edward Elgar.
+* –––, 2008, “Stakeholder Citizenship: An Idea Whose Time Has Come?” in _Delivering Citizenship. The Transatlantic Council on Migration_, Gütersloh: Verlag Bertelsmann Stiftung.
+* Bauböck, R., and Haller, M. (eds.), 2021, _Dual Citizenship and Naturalisation. Global, Comparative and Austrian Perspectives_, Graz: Austrian Academy of Sciences Press.
+* Beitz, C., 1999 \[1979], _Political Theory and International Relations_, Revised edn., Princeton: Princeton University Press.
+* Benhabib, S., 2004, _The Rights of Others. Aliens, Residents and Citizens_, Cambridge: Cambridge University Press.
+* Blattner, C., Donaldson, S., and Wilcox, R., 2020, “Animal Agency in Community. A Political Multispecies Ethnography of VINE Sanctuary”, _Politics and Animals_, 6: 1–22.
+* Bohman, J., 2004, “Republican Cosmopolitanism”, _Journal of Political Philosophy_, 12(3): 336–353.
+* –––, 2007, _Democracy across Borders: From Dêmos to Dêmoi_, Cambridge, MA: MIT Press.
+* Bosniak, L., 2006, _The Citizen and the Alien. Dilemmas of Contemporary Membership_, Princeton, Oxford: Princeton University Press.
+* Brahm Levey, G. and Modood, T., 2009, “The Muhammad Cartoons and Multilevel Democracies”, _Ethnicities_, 9(3): 427–447.
+* Brennan, J., 2016, _Against Democracy_, Princeton: Princeton University Press.
+* Brighouse, H., 2000, _School Choice and Social Justice_, Oxford: Oxford University Press.
+* –––, 2006, _On Education_, London, New York: Routledge.
+* Brock, G., 2020, “Self-Determination, Legitimacy, and the State System. A Normative Framework”, in G. Brock, _Justice for People on the Move: Migration in Challenging Times_, Cambridge: Cambridge University Press, 33–63.
+* Brown Prener, C., 2023, _Denationalisation and Its Discontents: Citizenship Revocation in the 21st Century, Legal, Political and Moral Implications_, Leiden: Brill Nijhoff.
+* Brubaker, R., 1992, _Citizenship and Nationhood in France and Germany_, Cambridge, MA and London: Harvard University Press.
+* Canovan, M., 1996, _Nationhood and Political Theory_, Cheltenham, U.K., Brookfield, Vt.: Edward Elgar.
+* Callan, E., 1997, _Creating Citizens_, Oxford: Oxford University Press.
+* Carens, J. H., 1987, “Aliens and Citizens: The Case for Open Borders”, _The Review of Politics_, 49(2): 252–273.
+* –––, 2000, _Culture, Citizenship, and Community. A Contextual Exploration of Justice as Evenhandedness_, Oxford: Oxford University Press.
+* –––, 2010a, “The Most Liberal Citizenship Test is None at All”,in _How Liberal are Citizenship Tests?_, R. Bauböck and C. Joppke (eds.), EUI Working Papers, RCAS 2010/41.
+* –––, 2010b, _Immigrants and the Right to Stay_, Cambridge, MA: MIT Press
+* –––,2013, _The Ethics of Immigration_, Oxford, New York: Oxford University Press.
+* Clifford Simplican, S., 2016, “Disavowals of Disability in Rawls’ Theory of Justice”, _Disability and Political Theory_, B. Arneil and N. J. Hirschmann (eds.), Cambridge: Cambridge University Press, 79–98.
+* “Citoyen”, 1753, _Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers_, Tome 3, D. Diderot, D’Alembert, J. Le Rond (eds.), Paris: chez Briasson \[et al], 488–489 \[[The ARTFL Project](http://encyclopedie.uchicago.edu/)]
+* Coleman, J. L. and Harding, S. K., 1995, “Citizenship, the Demands of Justice, and the Moral Relevance of Political Borders”, in _Justice in Immigration_, W. F. Schwartz (ed.), Cambridge: Cambridge University Press, 18–60.
+* Constant, B., 1819, “The Liberty of the Ancients Compared with that of the Moderns”, in _Political Writings_, B. Fontana (ed., trans.), Cambridge, New York: Cambridge University Press, 1988.
+* Culp, J., Drerup, J., and Yacek, D. (eds.), 2023, _Cambridge Handbook of Democratic Education_, Cambridge: Cambridge University Press.
+* Deveaux, M., 2006, _Gender and Justice in Multicultural Liberal States_, Oxford, New York: Oxford University Press.
+* Dewey, J., 1916, _Democracy and Education_, New York: The Free Press; reprinted in _John Dewey: The Middle Works 1899–1924_ (Volume 9: 1916), Carbondale: Southern Illinois University Press, 1980.
+* Dietz, M. G., 1998 \[1987], “Context is All: Feminism and Theories of Citizenship”, in _Feminism and Politics_, A. Phillips (ed.), Oxford and New York: Oxford University Press, 378–401.
+* Donaldson, S., 2020, “Animal Agora: Animal Citizens and the Democratic Challenge”, _Social Theory and Practice_, 46(4): 704–735.
+* Donaldson, S., and Kymlicka, W., 2011, _Zoopolis: A Political Theory of Animal Rights_, Oxford: Oxford University Press.
+* –––, 2015, “Interspecies Politics: Reply to Hinchcliffe and Ladwig”, _The Journal of Political Philosophy_, 23(3): 321–344.
+* –––, 2016, “Rethinking Membership and Participation in an Inclusive Democracy: Cognitive Disability, Children, Animals”, in _Disability and Political Theory_, B. Arneil, N. J. Hirschmann (eds.), Cambridge: Cambridge University Press, pp. 168–197.
+* Dunn, A., Owen, D., 2014, “Instituting Civic Citizenship”, in J. Tully, _On Global Citizenship: James Tully in Dialogue_, London: Bloomsbury Academic, 247–265.
+* Eisenberg, A., 2015, “Voting Rights for Non–citizens: Treasure or Fool’s Gold?”, _International Migration and Integration_, 16: 133–151.
+* Eisenberg, A. and Spinner-Halev, J. (eds.), 2005, _Minorities Within Minorities: Equality, Rights, and Diversity_, Cambridge: Cambridge University Press.
+* Erez, L., 2021, “In for a Penny, or: If You Disapprove of Investment Migration, Why Do You Approve of High-Skilled Migration?”, _Moral Philosophy and Politics_, 8(1): 155–178.
+* Ferracioli, L., 2022, _Liberal Self-Determination in a World of Migration_, Oxford: Oxford University Press.
+* Friedman, M., 2003, _Autonomy, Gender, Politics_, Oxford: Oxford University Press
+* Galston, W., 1991, _Liberal Purposes: Goods, Virtues, and Diversity in the Liberal State_, Cambridge, New York: Cambridge University Press.
+* Gibney, M. J., 2013, “‘A Very Transcendental Power’: Denaturalisation and the Liberalisation of Citizenship in the United Kingdom”, _Political Studies_, 61: 637–651.
+* Giddens, A., 1982, _Profiles and Critiques in Social Theory_, London: Macmillan.
+* Goodin, R. E., 1992, “If People Were Money…”, in _Free Movement. Ethical Issues in the Transnational Migration of People and of Money_, B. Barry, R. E. Goodin (eds.), University Park: The Pennsylvania State University Press, 1992, 6–23.
+* Gutmann, A., 1999, _Democratic Education_, Princeton: Princeton University Press.
+* Habermas, J., 1996, _Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy_, W. Rehg (trans.), Cambridge, MA: MIT Press.
+* –––, 1998, _The Inclusion of the Other: Studies in Political Theory_, C. Cronin, P. De Greif (eds.), Cambridge, MA: MIT Press.
+* –––, 2001a, _The Postnational Constellation. Political Essays_, M. Pensky (ed., trans., intr.), Cambridge, MA: MIT Press.
+* –––, 2001b, “Why Europe Needs a Constitution”, _New Left Review_ 11: 5–27.
+* –––, 2009, “European Politics at an Impasse: A Plea for a Policy of Graduated Integration”, in J. Habermas, _Europe: The Faltering Project_, C. Cronin (trans.), Cambridge: Polity Press, 78–105.
+* –––, 2012, “The Crisis of the European Union in Light of a Constitutionalization of International Law – An Essay on the Constitution of Europe”, in J. Habermas, _The Crisis of the European Union: A Response_, C. Cronin (trans.), 1–70.
+* Held, D., 1995, _Democracy and the Global Order. From the Modern State to Cosmopolitan Governance_, Stanford: Stanford University Press.
+* –––, 2005, “Principles of Cosmopolitan Order”, in _The Political Philosophy of Cosmopolitanism_, G. Brock, H. Brighouse (eds.), Cambridge: Cambridge University Press, 10–28.
+* Hidalgo, J., 2016, “Selling Citizenship: A Defense”, _Journal of Applied Philosophy_, 33(3): 223–236.
+* Hinchliffe, C., 2015, “Animals and the Limits of Citizenship: Zoopolis and the Concept of Citizenship”, _The Journal of Political Philosophy_, 23(3): 302–320.
+* Hobbes, T., 1651, _Leviathan_, R. Tuck (ed.), Cambridge: Cambridge University Press, 1991.
+* Hooley, D., 2018, “Political Agency, Citizenship, and Non-Human Animals”, _Res Publica_, 24(4): 509-530.
+* Holmes, S., 1984, _Benjamin Constant and the Making of Modern Liberalism_, New Haven: Yale University Press.
+* Joppke, C., 2014, “The Retreat is Real, but What is the Alternative? Multiculturalism, Muscular Liberalism, and Islam” _Constellations_, 21(2): 286–295.
+* –––, 2015, “Terrorists Repudiate Their Own Citizenship”, in _The Return of Banishment: Do the New Denationalization Policies Weaken Citizenship?_, A. Macklin and R. Bauböck (eds.), EUI Working Paper RSCAS 2015/14.
+* –––, 2019, “The Instrumental Turn of Citizenship”, _Journal of Ethnic and Migration Studies_, 45(6): 858–878.
+* Irving, H., 2022, _Allegiance, Citizenship and the Law: The Enigma of Belonging_, Cheltenham: Edward Elgar Publishing.
+* Isin, E. F., 2008, “Theorizing Acts of Citizenship”, in _Acts of Citizenship_, E. F. Isin and G.M. Nielsen (eds.), London and New York: Zed Books, 15–43.
+* –––, 2009, “Citizenship in Flux: The Figure of the Activist Citizen”, _Subjectivity_, 29: 367–388.
+* –––, 2017, “Performative Citizenship”, in _The Oxford Handbook of Citizenship_, A. Shachar, R. Bauböck, I. Bloemraad, M. Vink (eds.), Oxford: Oxford University Press, 500–523.
+* Klausen, J., 2005, _The Islamic Challenge: Politics and Religion in Western Europe_, New York, Oxford: Oxford University Press.
+* –––, 2009, _The Cartoons that Shook the World_, New Haven: Yale University Press.
+* Kochenov, D., 2018, “Citizenship For Real: its Hypocrisy, its Randomness, its Price”, in _Debating Transformations of National Citizenship_, R. Baübock (ed.), Cham: Springer Open, 51–56.
+* Kuper, A., 2004, _Democracy Beyond Borders. Justice and Representation in Global Institutions_, Oxford: Oxford University Press.
+* Kymlicka, W., 1995, _Multicultural Citizenship_, Oxford: Oxford University Press.
+* –––, 1999, “Citizenship in an Era of Globalization: A Commentary on Held”, in _Democracy’s Edges_, I. Shapiro and C. Hacker-Cordon (eds.), London, New York: Cambridge University Press, 112–127.
+* –––, 2001, “Territorial Boundaries: A Liberal-Egalitarian Perspective”, _Boundaries and Justice. Diverse Ethical Perspectives_, D. Miller, S. H. Hashmi (eds.), Princeton and Oxford: Princeton University Press, 249–276.
+* –––, 2003, “New Forms of Citizenship”, in _The Art of the State: Governance in a World Without Frontiers_, T. J. Courchesne and D. J. Savoie (eds.), Montréal: Institute for Research in Public Policy, 265–310.
+* –––, 2009, “The Multicultural Welfare State?”, in Peter A. Hall and Michele Lamont (eds.), _Successful Societies: How Institutions and Culture Affect Health_, Cambridge: Cambridge University Press, 226–253.
+* –––, 2022, “Membership Rights for Animals”, _Royal Institute of Philosophy_ (Supplement), 91: 213–244.
+* –––, and W. Norman, 1994, “Return of the Citizen: A Survey of Recent Work on Citizenship Theory”, _Ethics_, 104(2): 352–381.
+* –––, 2000, “Citizenship in Culturally Diverse Societies: Issues, Contexts, Concepts”, in _Citizenship in Diverse Societies_, W. Kymlicka, W. Norman (eds.), Oxford: Oxford University Press, 1–41.
+* Kymlicka, W. and S. Donaldson, 2018, “Metics, Members and Citizens”, in _Democratic Inclusion: Rainer Bauböck in Dialogue_, R. Bauböck (ed.), Manchester: Manchester University Press, 160–182.
+* Laborde, C., 2008, _Critical Republicanism: The Hijab Controversy and Political Philosophy_, Oxford: Oxford University Press.
+* Lenard, P.T., 2015, “Residence and the Right to Vote”, _International Migration and Integration_, 16: 119–132.
+* –––, 2018, “Democratic Citizenship and Denationalization”, _American Political Science Review_, 112(1): 99–11.
+* Levinson, M., 2012, _No Citizen Left Behind_, Cambridge MA: Harvard University Press.
+* Lepoutre, M., 2016, “Immigration Controls: Why the Self-Determination Argument is Self-Defeating”, _Journal of Social Philosophy_, 47(3): 309–331.
+* Leydet, D., 2023, “Representative Democracy and Democratic Struggles from Below”, in _Civic Freedom in an Age of Diversity. The Public Philosophy of James Tully_, D. Karmis, J. Maclure (eds.), Montreal & Kingston: McGill-Queen’s University Press, 123–145.
+* Lister, M., 2005, “ ‘Marshall-ing’ Social and Political Citizenship: Towards a Unified Conception of Citizenship”, _Government and Opposition_, 40(4): 471–492.
+* Lopez-Guerra, C., 2005, “Should Expatriates Vote?”, _The Journal of Political Philosophy_, 13(2): 216–234.
+* Lu, C., 2019, “Decolonizing Borders, Self-Determination, and Global Justice”, in _Empire, Race and Global Justice_, D. Bell (ed.), Cambridge: Cambridge University Press, 251–272.
+* Maas, W., 2017, “Multilevel Citizenship”, in _The Oxford Handbook of Citizenship_, A. Shachar, R. Bauböck, I. Bloemraad, M. Vink (eds.), Oxford: Oxford University Press, 644–668.
+* Macedo, S., 1990, _Liberal Virtues: Citizenship, Virtues, and Community in Liberal Constitutionalism_, Oxford: Clarendon Press.
+* Macklin, A., 2015, “Kick-Off Contribution”, in _The Return of Banishment: Do the New Denationalization Policies Weaken Citizenship?_, A. Macklin and R. Bauböck (eds.), EUI Working Paper RSCAS 2015/14.
+* Manin, B., 1997, _Principles of Representative Government_, Cambridge: Cambridge University Press.
+* Marshall, T. H, 1950, _Citizenship and Social Class and Other Essays_, Cambridge: Cambridge University Press.
+* Marx, K., 1843, “On the Jewish Question”, in _Writings of the Young Marx on Philosophy and Society_, L.D. Easton and K. M. Guddat (eds.), New York: Anchor Books, 1967.
+* Mason, A., 2014, “Citizenship Tests: Can They Be a Just Compromise?”, _Journal of Social Philosophy_, 45(2): 137–161.
+* Maxwell, B., 2023, “Teacher Neutrality, Pedagogical Impartiality and Democratic Education”, in _Cambridge Handbook of Democratic Education_, J. Culp, J. Drerup, D. Yacek (eds.), Cambridge: Cambridge University Press, 607–627.
+* May, S., Modood, T., and Squires, J. (eds.), 2004, _Ethnicity, nationalism, and Minority Rights_, New York: Cambridge University Press.
+* Miller, D., 1995, _On Nationality_, New York: Clarendon Press.
+* –––, 2000, _Citizenship and National Identity_, Cambridge: Polity Press.
+* –––, 2007, _National Responsibility and Global Justice_, Oxford: Oxford University Press.
+* –––, 2010, “Why Immigration Controls Are Not Coercive: A Reply to Arash Abizadeh”, _Political Theory_, 38(1): 111–120.
+* –––, 2014, “Immigration: The Case for Limits”, in _Contemporary Debates in Applied Ethics_, 2nd Edition, A.I. Cohen and C.H. Wellman (eds.), Malden, MA: Blackwell, 363–375.
+* –––, 2016, _Strangers in our Midst_, Cambridge, MA: Harvard University Press.
+* Modood, T., 2019, _Essays on Secularism and Multiculturalism_, Colchester: ECPR Press.
+* Müller, T., 2022, “From Acts of Citizenship to Transnational Lived Citizenship: Potential and Pitfalls of Subversive Readings of Citizenship”, _Citizenship Studies_, 26(4–5): 584–591.
+* Nussbaum, M., 2006, _Frontiers of Justice. Disability, Nationality, Species Membership_, Cambridge, MA: Harvard University Press.
+* –––, 2010, _Not For Profit: Why Democracy Needs the Humanities_, Princeton: Princeton University Press.
+* Nyhagen, L. and Halsaa, B., 2016, _Religion, Gender and Citizenship: Women of Faith, Gender Equality and Feminism_, Houndmills, Basingstroke: Palgrave Macmillan.
+* Okin, S. M., 1998 \[1991], “Gender, the Public, and the Private”, in _Feminism and Politics_, A. Phillips (ed.), Oxford and New York: Oxford University Press, 116–142.
+* –––, 1992, “Women, Equality, and Citizenship”, _Queen’s Quarterly_, 99(1): 57–72.
+* –––, 1999, _Is Multiculturalism Bad for Women?_, J. Cohen, M. Howard, M C. Nussbaum (eds.), Princeton: Princeton University Press.
+* –––, 2005, “Multiculturalism and Feminism: No Simple Question, No Simple Answers”, in _Minorities Within Minorities_, A. Eisenberg, J. Spinner-Halev (eds.), Cambridge: Cambridge University Press.
+* Olufemi, L., 2020, “The Saviour Complex: Muslim Women and Gendered Islamophobia”, in L. Olufemi, _Feminism Interrupted: Disrupting Power_, London: Pluto Press, 67–81.
+* Ottonelli, V. and Torresi, T., 2014, “Temporary Migration Projects and Voting Rights”, _Critical Review of International and Political Philosophy_, 17(5): 589–599.
+* Page, B. I., 1994, “Democratic Responsiveness? Untangling the links between public opinion and policy”, _PS: Political Science and Politics_, 27: 25–29.
+* Parekh, B., 2000, _Rethinking Multiculturalism: Cultural Diversity and Political Theory_, Cambridge, MA: Harvard University Press.
+* –––, 2006, “Europe, Liberalism and the ‘Muslim Question’”, in _Multiculturalism, Muslims and Citizenship. A European Approach_, T. Modood, A. Triandafyllidou, and R. Zapata-Barrero (eds.), London: Routledge, 179–204.
+* Pateman, C., 1989, _The Disorder of Women. Democracy, Feminism and Political Theory_, Cambridge: Polity Press.
+* Peucker, M., 2018, “On the (In)compatibility of Islamic Religiosity and Citizenship in Western Democracies: The Role of Religion for Muslims’ Civic and Political Engagement”, _Politics and Religion_, 11: 553–575.
+* Pinheiro, L. G., 2016, “The Ableist Contract: Intellectual Disability and the Limits of Justice in Kant’s Political Thought”, _Disability and Political Theory_, B. Arneil, N. J. Hirschmann (eds.), Cambridge: Cambridge University Press, 43–78.
+* Phillips, A., 2010, _Gender and Culture_, Cambridge: Polity Press.
+* –––, 2016, “Religion: Ally, Threat, or Just Religion?”, _Religion, Secularism, and Constitutional Democracy_, J. L. Cohen and C. Laborde (eds.), New York: Columbia University Press, 47–65.
+* Pitkin, H. F., 1967, _The Concept of Representation_, Berkeley: University of California Press.
+* Pocock, J., 1995 \[1992], “The Ideal of Citizenship since Classical Times”, in _Theorizing Citizenship_, R. Beiner (ed.), Albany: State University of New York Press, 29–53.
+* Pogge, T. W., 1992, “Cosmopolitanism and Sovereignty”, _Ethics_, 103: 58–75.
+* –––, 1997, “Migration and Poverty”, in _Citizenship and Exclusion_, V. Bader (ed.), New York: St. Martin’s Press, 12–27.
+* –––, 2002, _World Poverty and Human Rights_, Cambridge: Polity Press.
+* Pogonyi, S, 2014, “Four Patterns of Non-resident Voting Rights”, _Ethnopolitics_, 13(2): 122–140.
+* –––, 2023, “The Double-Edged Sword of External Citizenship and Minority Protection in Post-Communist Europe”, in _Minority Rights and Liberal Democratic Insecurities: The Challenge of Unstable Orders_, A.M. Biro and D. Newman (eds.), Abingdon: Routledge, 55–75.
+* Rawls, J., 1972, _A Theory of Justice_, Oxford: Oxford University Press.
+* –––, 1999, “The Law of Peoples”, in _Collected Papers_, S. Freeman (ed.), Cambridge, MA and London: Harvard University Press, 529–565.
+* Rousseau, J.-J., 1762, _On the Social Contract with Geneva Manuscript and Political Economy_, R. D. Masters (ed.), J. R. Masters (trans.), New York: St. Martin’s Press, 1978.
+* Roy, M. and Neveu, C., 2023, “A Philosophy of the Theory of ”Acts of Citizenship“ woven into the Fabric of a Political Anthropology of Citizenship”, _Citizenship Studies_, 27(3): 385–405.
+* Shachar, A., 2001, _Multicultural Jurisdictions: Cultural Differences and Women’s Rights_, Cambridge: Cambridge University Press.
+* –––, 2009, _The Birthright Lottery. Citizenship and Global Inequality_, Cambridge, MA and London: Harvard University Press.
+* –––, 2017, “Citizenship for Sale?”, in _The Oxford Handbook of Citizenship_, A. Shachar, R. Bauböck, I. Bloemraad, M. Vink (eds.), Oxford: Oxford University Press, 789–816.
+* Shachar, A., and Hirschl, R., 2014, “On Citizenship, States, and Markets”, _The Journal of Political Philosophy_, 22(2): 231–257.
+* Schnapper, D., 1994, _La communauté des citoyens. Sur l’idée moderne de nation_, Paris: Gallimard.
+* Shuck, P. H., 1984, “Membership in the Liberal Polity: The Devaluation of American Citizenship”, in _Immigration and the Politics of Citizenship in Europe and America_, W. R. Brubaker (ed.), Lanham, MD: University Press of America, 51–66.
+* –––, 2015, “Should Those Who Attack the Nation Have an Absolute Right to Remain its Citizens?” in _The Return of Banishment: Do the New Denationalization Policies Weaken Citizenship?_, A. Macklin and R. Bauböck (eds.), EUI Working Paper RSCAS 2015/14.
+* Song, S. (ed.), 2007, _Justice, Gender and the Politics of Multiculturalism_, Cambridge: Cambridge University Press.
+* –––, 2009, “Democracy and Noncitizen Voting Rights”, _Citizenship Studies_, 13(6): 607–620.
+* Soysal, Y. N., 1994, _Limits of Citizenship. Migrants and Postnational Membership in Europe_, Chicago and London: University of Chicago Press.
+* Spinner, J., 1994, _The Boundaries of Citizenship. Race, Ethnicity, and Nationality in the Liberal State_, Baltimore, London: John Hopkins University Press.
+* Spiro, P. J., 2016, _At Home in Two Countries. The Past and Future of Dual Citizenship_, New York: New York University Press.
+* –––, 2018, “Cash-For-Passports and the End of Citizenship”, in _Debating Transformations of National Citizenship_, R. Baübock (ed.), Cham: Springer Open, 17–20.
+* Spitz, J.-F., 1995, _La liberté politique_, Paris: Presses Universitaires de France.
+* Steinhoff, U., 2020, “Border Coercion and ‘Democratic Legitimacy’: On Abizadeh’s Argument Against Current Regimes of Border Control”, _Res Publica_, 26: 281–292.
+* Stilz, A., 2022, “On Self-Determination”, in _Political Philosophy Here and Now. Essays in Honour of David Miller_, D. Butt, S. Fine and Z. Stemplowska (eds.), Oxford: Oxford University Press, 8–29.
+* Tamir, Y., 1992, _Liberal Nationalism_, Princeton: Princeton University Press.
+* Tan, K.-C., 2004, _Justice Without Borders. Cosmopolitanism, Nationalism and Patriotism_, Cambridge: Cambridge University Press.
+* –––, 2017, “Cosmopolitan Citizenship”, in _The Oxford Handbook of Citizenship_, A. Shachar, R. Bauböck, I. Bloemraad, M. Vink (eds.), Oxford: Oxford University Press, 694–713.
+* Tonkiss, K., 2022, “Renewing Post-national Citizenship”, _Citizenship Studies_, 26(4–5): 695–701.
+* Triandafyllidou, A., Modood, T., Zapata-Barrero, R., 2006, “European Challenges to Multicultural Citizenship. Muslims, Secularism and Beyond”, in _Multiculturalism, Muslims and Citizenship. A European Approach_, Modood, T., Triandafyllidou, A., Zapata-Barrero, R. (eds.), London: Routledge, 1-23.
+* Tully, J., 2008a, “Public Philosophy and Civic Freedom: A Guide to the Two Volumes”, in J. Tully, _Public Philosophy in a New Key_ (Volume I), Cambridge: Cambridge University Press, 3–11.
+* –––, 2008b, “On Local and Glocal Citizenship: An Apprenticeship Manual”, in J. Tully, _Public Philosophy in a New Key_ (Volume II), Cambridge: Cambridge University Press, 243–311.
+* Turner, B., 1992, “Outline of a Theory of Citizenship”, in _Dimensions of Radical Democracy. Pluralism, Citizenship, Community_, C. Mouffe (ed.), London: Verso, 33–63.
+* United Nations, 1951, _Convention Relating to the Status of Refugees_, UN Doc.A/Res/429.
+* Van Parijs, P., 2011, _Linguistic Justice for Europe and the World_, Oxford: Oxford University Press.
+* Walzer, M., 1983, _Spheres of Justice. A Defense of Pluralism and Equality_, New York: Basic Books.
+* –––, 1989, “Citizenship”, in _Political Innovation and Conceptual Change_, T. Ball, J. Farr, R. L. Hanson, Cambridge: Cambridge University Press, 211–220.
+* Wellman, C. H., 2008, “Immigration and Freedom of Association”, _Ethics_, 119: 109–141.
+* –––, 2012, “Freedom of Association and the Right to Exclude”, in _Debating the Ethics of Immigration. Is There a Right to Exclude_, C. H. Wellman and P. Cole (eds.), Oxford: Oxford University Press, 13–155.
+* –––, 2022, “Community, Democracy and Immigration”, in _Political Philosophy Here and Now. Essays in Honour of David Miller_, D. Butt, S. Fine and Z. Stemplowska (eds.), Oxford: Oxford University Press, 80–95.
+* Wiener, A., 2023, “Practising Civic Freedoms in Global Governance: Contestation, Agency, Sites”, in _Civic Freedom in an Age of Diversity. The Public Philosophy of James Tully_, D. Karmis, J. Maclure (eds.), Montreal & Kingston: McGill-Queen’s University Press, 146-170.
+* Williams, M. S., 1998, _Voice, Trust, and Memory. Marginalized Groups and the Failings of Liberal Representation_, Princeton: Princeton University Press.
+* Young, I. M., 1989, “Polity and Group Difference: A Critique of the Ideal of Universal Citizenship”, _Ethics_, 99: 250–274.
+* –––, 2000, _Inclusion and Democracy_, Oxford: Oxford university Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=citizenship). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/citizenship/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=citizenship&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/citizenship/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=citizenship).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/citizenship/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=citizenship\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/citizenship/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -453,7 +453,7 @@ Donaldson 和 Kymlicka 的主要目标是保护动物免受人类对它们的统
 
 ## Related Entries
 
-[cosmopolitanism](https://plato.stanford.edu/entries/cosmopolitanism/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [identity politics](https://plato.stanford.edu/entries/identity-politics/) | [immigration](https://plato.stanford.edu/entries/immigration/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [nationalism](https://plato.stanford.edu/entries/nationalism/) | [republicanism](https://plato.stanford.edu/entries/republicanism/)
+[cosmopolitanism](https://plato.stanford.edu/entries/cosmopolitanism/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [identity politics](https://plato.stanford.edu/entries/identity-politics/) | [immigration](https://plato.stanford.edu/entries/immigration/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [nationalism](https://plato.stanford.edu/entries/nationalism/) | [republicanism](https://plato.stanford.edu/entries/republicanism/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-Dominique Leydet <[*leydet.dominique@uqam.ca*](mailto:leydet%2edominique%40uqam%2eca)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+Dominique Leydet <[_leydet.dominique@uqam.ca_](mailto:leydet%2edominique%40uqam%2eca)>

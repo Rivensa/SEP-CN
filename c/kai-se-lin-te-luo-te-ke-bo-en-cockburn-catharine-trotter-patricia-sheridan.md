@@ -1,22 +1,19 @@
 # 凯瑟琳·特罗特·科伯恩 Cockburn, Catharine Trotter (Patricia Sheridan)
 
-*首次发表于 2005 年 1 月 8 日星期六；实质性修订于 2023 年 11 月 10 日星期五*
+_首次发表于 2005 年 1 月 8 日星期六；实质性修订于 2023 年 11 月 10 日星期五_
 
 科伯恩的哲学声誉在很大程度上建立在她为约翰·洛克和塞缪尔·克拉克辩护的辩护性著作上。虽然她在这些作品中展示了各种兴趣，但她的主要关注点是捍卫一种道德认识论，结合了洛克的认识论元素和一种原始的克拉克式道德适应理论。科伯恩的道德最好被描述为一种广泛的理性主义自然法理论，它在很大程度上借鉴了洛克的反思概念。根据科伯恩的观点，我们通过反思人性和神圣本质来发现道德规则的基础。然后，人类能够通过评估给定行为与这些本质的适应性或不适应性来确定道德的对错。
 
 * [1. 生平](https://plato.stanford.edu/entries/cockburn/#Life)
-
 * [2. Philosophy](https://plato.stanford.edu/entries/cockburn/#Phil)
-
 * [Bibliography](https://plato.stanford.edu/entries/cockburn/#Bib)
-
 * [主要来源](https://plato.stanford.edu/entries/cockburn/#PrimSour)
 * [次要来源](https://plato.stanford.edu/entries/cockburn/#SecoSour)
 * [学术工具](https://plato.stanford.edu/entries/cockburn/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/cockburn/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/cockburn/#Rel)
 
----
+***
 
 ## 1. 生活
 
@@ -38,7 +35,7 @@
 
 科伯恩通过展示洛克的认识论可以满足这些关切来回应《评注》。科伯恩通过强调洛克理论中的一个方面来探讨洛克认识论基础的问题，这一点在洛克自己对道德知识的描述中几乎没有提到。然而，这是他在证明上帝存在时使用的一个概念（科伯恩在她的《辩护》中重申了这一证明）。科伯恩的道德理论不仅运用了洛克的反思概念作为我们对上帝知识的基础，也作为人类道德知识的手段。她认为，通过反思我们自己心灵的运作，我们可以理解人类和神圣本质。根据科伯恩的观点，道德立足于人类本性，道德法则的真理得到保证是因为人类是上帝所设计的。这种对人类本性的强调自然而然地将科伯恩引入了一个先于克拉克自己观点的适宜性道德解释——人类本性意味着某些行为适合和适当，而某些则不适合。在后来的作品中，科伯恩明确地采用适宜性关系的语言来描述由我们被创造的本性所产生的必要道德秩序。
 
-在《辩护文》中，凯瑟琳·特罗特·科伯恩也提出了“良心”这一概念，作为解释人类道德情感的一种方式。根据科伯恩的说法，良心是一种她描述为“突如其来的情感”的能力。将良心看作一种自然道德情感的想法，与科伯恩认为道德建立在人类本性之上的观点相辅相成：道德*知识*源于对我们自身本性的反思，道德*情感*则源于我们的自然构成。科伯恩运用良心的这一概念来回应评论者对道德的描述。她认为良心并非道德知识的直接源泉，而是一种道德情感或感受的源泉，这种情感是对道德法则的适当（即理性的）知识的补充和假定。
+在《辩护文》中，凯瑟琳·特罗特·科伯恩也提出了“良心”这一概念，作为解释人类道德情感的一种方式。根据科伯恩的说法，良心是一种她描述为“突如其来的情感”的能力。将良心看作一种自然道德情感的想法，与科伯恩认为道德建立在人类本性之上的观点相辅相成：道德_知识_源于对我们自身本性的反思，道德_情感_则源于我们的自然构成。科伯恩运用良心的这一概念来回应评论者对道德的描述。她认为良心并非道德知识的直接源泉，而是一种道德情感或感受的源泉，这种情感是对道德法则的适当（即理性的）知识的补充和假定。
 
 在后期作品中，科伯恩采用了“道德感”这一术语来描述良心的情感能力，这一术语并不意味着与弗朗西斯·哈奇森有任何关联。她理解哈奇森将道德完全建立在道德感上，而她自己的观点则将道德感视为人类道德理解的一个组成部分，而这在很大程度上是一个理性主义的解释。科伯恩在《辩护文》和后期作品中发展了一种原始的道德感理论并不令人意外。她早期就试图在人类本性中建立道德的基础，以充分解释评论者认为洛克没有解释清楚的那种自然且似乎是直接的人类道德敏感性。
 
@@ -54,60 +51,60 @@
 
 ### Primary Sources
 
-* *The Works of Mrs. Catharine Cockburn, Theological, Moral, Dramatic, and Poetical In Two Volumes. (1751)*, 1992, Thomas Birch (ed.); reprinted, London: Routledge/Thoemmes.
-* *Catharine Trotter Cockburn: Philosophical Writings*, 2006, Patricia Sheridan (ed.), Peterborough, ON: Broadview Press.
+* _The Works of Mrs. Catharine Cockburn, Theological, Moral, Dramatic, and Poetical In Two Volumes. (1751)_, 1992, Thomas Birch (ed.); reprinted, London: Routledge/Thoemmes.
+* _Catharine Trotter Cockburn: Philosophical Writings_, 2006, Patricia Sheridan (ed.), Peterborough, ON: Broadview Press.
 
 ### Secondary Sources
 
-* Atherton, Margaret, 1994, *Women Philosophers of the Early Modern Period*, Indianapolis: Hackett Publishing.
-* Bigold, Melanie, 2013, *Women of Letters, Manuscript Circulation, and Print Afterlives in the Eigtheenth Century: Elizabeth Rowe, Catharine Cockburn, and Elizabeth Carter*, Basingstoke: Palgrave MacMillan.
-* Boeker, Ruth, 2022, “Hutcheson and His Critics and Opponents of the Moral Sense,” in *The Journal of Scottish Philosophy*, 20 (2): 143–161.
-* –––, 2023, *Catharine Trotter Cockburn*, Cambridge: Cambridge University Press.
-* Bolton, Martha Brandt, 1996, “Some Aspects of the Philosophical Work of Catharine Trotter Cockburn,” in *Hypatia’s Daughters: Fifteen Hundred Years of Women Philosophers*, Linda Lopez McAlister (ed.), Bloomington: Indiana University Press, 139–164.
-* Broad, Jacqueline, 2002, *Women Philosophers of the Seventeenth Century*, Cambridge: Cambridge University Press.
-* –––, 2020, *Women Philosophers of Eighteenth-Century England: Selected Correspondence*, New York: Oxford University Press.
-* –––, 2021, “Catharine Trotter Cockburn on the virtue of atheists,” in *Intellectual History Review*, 31 (1): 111–128.
-* De Tommaso, Emilio, 2018, *Catharine Trotter Cockburn. Filosofia morale, religione, metafisica*, Soveria Mannelli: Rubbettino Editore.
-* –––, 2017, “‘Some Reflections upon the True Grounds of Morality’ – Catharine Trotter Cockburn in Defence of Locke,” in *Philosophy Study*, 7 (6): 326–339.
-* Duran, Jane, 2013, “Early English Empiricism and the Work of Catharine Trotter Cockburn” in *Metaphilosophy*, 44 (4): 485–495.
-* Gordon Roth, Jessica, 2015, “Catharine Trotter Cockburn’s *Defence* of Locke” in *The Monist*, 98 (1): 64–76.
-* Green, Karen, 2015, “A Moral Philosophy of Their Own? The Moral and Political Thought of Eighteenth-Century British Women” in *The Monist*, 98 (1): 89–101.
-* –––, 2019, “On some footnotes to Catharine Trotter Cockburn’s *Defence of the Essay of Human Understanding*,” in *British Journal for the History of Philosophy*, 27 (4): 824–841.
-* Hutton, Sarah, 1998, “Catharine Cockburn (1679–1749)” in *Routledge Encyclopedia of Philosophy* London: Routledge. doi:10.4324/9780415249126-DA017-1
-* Kelley, Anne, 2002, *Catharine Trotter: an early modern writer in the vanguard of feminism*, Aldershot: Ashgate.
-* Lascano, Marcy P., 2019, “Early Modern Women on the Cosmological Argument: A Case Study in Feminist History of Philosophy,” in *Feminist History of Philosophy: The Recovery and Evaluation of Women’s Philosophical Thought*, Cham: Springer, 23–47.
-* Lennon, Thomas M., 2007, “The Genesis of Berkeley’s Theory of Vision Vindicated” in *History of European Ideas*, 33 (3): 321–329.
-* Lustila, Getty L., 2020, “Catharine Trotter Cockburn’s Democratization of Moral Virtue,” in *Canadian Journal of Philosophy*, 50 (1): 83–97.
-* Meyers, Joanne E., 2012, “Catharine Trotter and the Claims of Conscience” in *Tulsa Studies in Women’s Literature*, 31 (1/2): 53–75.
-* Nuovo, Victor, 2011, “Catharine Cockburn’s Enlightenment,” in *Christianity, Antiquity, and Enlightenment: Interpretations of Locke*, Dordrecht: Springer.
-* Ready, Kathryn, 2002, “Damaris Cudworth Masham, Catharine Trotter Cockburn, and the Feminist Legacy of Locke’s Theory of Personal Identity” in *Eighteenth-Century Studies*, 35: 563–76.
-* Sheridan, Patricia, 2007, “Reflection, Nature, and Moral Law: The extent of Catharine Trotter Cockburn’s Lockeanism in her Defence of Mr. Locke’s Essay,” *Hypatia*, 22 (3): 133–151.
-* –––, 2018, “On Cockburn’s Metaphysics of Morality,” in *Early Modern Women on Metaphysics*, Emily Thomas (ed.), Cambridge: Cambridge University Press, 247–265.
-* –––, 2018, “Virtue, Affection, and the Social Good: The Moral Philosophy of Catharine Trotter Cockburn and the Bluestockings,” *Philosophy Compass*, 13 (3). doi: 10.1111/phc3.12478
-* –––, 2022, “Locke and Catharine Trotter Cockburn,” in *The Lockean Mind*, Jessica Gordon-Roth and Shelley Weinberg (eds.), New York: Routledge, 27–32.
-* –––, 2023, “Damaris Masham and Catharine Trotter Cockburn: Agency, Virtue, and Fitness in their Moral Philosophies,” in *The Routledge Handbook of Women and Early Modern Eurpoean Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 506–518.
-* Thomas, Emily, 2013, “Catharine Trotter Cockburn on Substantival Space,” in *History of Philosophy Quarterly*, 30 (30): 195–214.
-* –––, 2015, “Catharine Cockburn on Unthinking Immaterial Substance: Souls, Space, and Related Matters” in *Philosophy Compass*, 10 (4): 255–263; doi:10.1111/phc3.12210
-* –––, 2017, “Creation, Divine Freedom, and Catharine Cockburn: An Intellectualist on Possible Worlds and Contingent Laws,” in *Women and Liberty, 1600–1800*, Jacqueline Broad and Karen Detlefsen (eds.), Oxford: Oxford University Press, 206–220.
-* –––, 2023, “Margaret Cavendish, Anne Conway, and Catharine Cockburn on Matter,” in *The Routledge Handbook of Women and Early Modern Eurpoean Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 112–126.
-* Waithe, Mary Ellen, 1991, “Catharine Trotter Cockburn,” in *Modern Women Philosophers, 1600–1900*, Mary Ellen Waithe (ed.), Dordrecht: Kluwer Academic Publishers.
-* Walmsley, J.C., H. Craig, and J. Burrows, 2016, “The authorship of the *Remarks upon an Essay Concerning Human Understanding*,” *Eighteenth-Century Thought*, 6: 205–243.
+* Atherton, Margaret, 1994, _Women Philosophers of the Early Modern Period_, Indianapolis: Hackett Publishing.
+* Bigold, Melanie, 2013, _Women of Letters, Manuscript Circulation, and Print Afterlives in the Eigtheenth Century: Elizabeth Rowe, Catharine Cockburn, and Elizabeth Carter_, Basingstoke: Palgrave MacMillan.
+* Boeker, Ruth, 2022, “Hutcheson and His Critics and Opponents of the Moral Sense,” in _The Journal of Scottish Philosophy_, 20 (2): 143–161.
+* –––, 2023, _Catharine Trotter Cockburn_, Cambridge: Cambridge University Press.
+* Bolton, Martha Brandt, 1996, “Some Aspects of the Philosophical Work of Catharine Trotter Cockburn,” in _Hypatia’s Daughters: Fifteen Hundred Years of Women Philosophers_, Linda Lopez McAlister (ed.), Bloomington: Indiana University Press, 139–164.
+* Broad, Jacqueline, 2002, _Women Philosophers of the Seventeenth Century_, Cambridge: Cambridge University Press.
+* –––, 2020, _Women Philosophers of Eighteenth-Century England: Selected Correspondence_, New York: Oxford University Press.
+* –––, 2021, “Catharine Trotter Cockburn on the virtue of atheists,” in _Intellectual History Review_, 31 (1): 111–128.
+* De Tommaso, Emilio, 2018, _Catharine Trotter Cockburn. Filosofia morale, religione, metafisica_, Soveria Mannelli: Rubbettino Editore.
+* –––, 2017, “‘Some Reflections upon the True Grounds of Morality’ – Catharine Trotter Cockburn in Defence of Locke,” in _Philosophy Study_, 7 (6): 326–339.
+* Duran, Jane, 2013, “Early English Empiricism and the Work of Catharine Trotter Cockburn” in _Metaphilosophy_, 44 (4): 485–495.
+* Gordon Roth, Jessica, 2015, “Catharine Trotter Cockburn’s _Defence_ of Locke” in _The Monist_, 98 (1): 64–76.
+* Green, Karen, 2015, “A Moral Philosophy of Their Own? The Moral and Political Thought of Eighteenth-Century British Women” in _The Monist_, 98 (1): 89–101.
+* –––, 2019, “On some footnotes to Catharine Trotter Cockburn’s _Defence of the Essay of Human Understanding_,” in _British Journal for the History of Philosophy_, 27 (4): 824–841.
+* Hutton, Sarah, 1998, “Catharine Cockburn (1679–1749)” in _Routledge Encyclopedia of Philosophy_ London: Routledge. doi:10.4324/9780415249126-DA017-1
+* Kelley, Anne, 2002, _Catharine Trotter: an early modern writer in the vanguard of feminism_, Aldershot: Ashgate.
+* Lascano, Marcy P., 2019, “Early Modern Women on the Cosmological Argument: A Case Study in Feminist History of Philosophy,” in _Feminist History of Philosophy: The Recovery and Evaluation of Women’s Philosophical Thought_, Cham: Springer, 23–47.
+* Lennon, Thomas M., 2007, “The Genesis of Berkeley’s Theory of Vision Vindicated” in _History of European Ideas_, 33 (3): 321–329.
+* Lustila, Getty L., 2020, “Catharine Trotter Cockburn’s Democratization of Moral Virtue,” in _Canadian Journal of Philosophy_, 50 (1): 83–97.
+* Meyers, Joanne E., 2012, “Catharine Trotter and the Claims of Conscience” in _Tulsa Studies in Women’s Literature_, 31 (1/2): 53–75.
+* Nuovo, Victor, 2011, “Catharine Cockburn’s Enlightenment,” in _Christianity, Antiquity, and Enlightenment: Interpretations of Locke_, Dordrecht: Springer.
+* Ready, Kathryn, 2002, “Damaris Cudworth Masham, Catharine Trotter Cockburn, and the Feminist Legacy of Locke’s Theory of Personal Identity” in _Eighteenth-Century Studies_, 35: 563–76.
+* Sheridan, Patricia, 2007, “Reflection, Nature, and Moral Law: The extent of Catharine Trotter Cockburn’s Lockeanism in her Defence of Mr. Locke’s Essay,” _Hypatia_, 22 (3): 133–151.
+* –––, 2018, “On Cockburn’s Metaphysics of Morality,” in _Early Modern Women on Metaphysics_, Emily Thomas (ed.), Cambridge: Cambridge University Press, 247–265.
+* –––, 2018, “Virtue, Affection, and the Social Good: The Moral Philosophy of Catharine Trotter Cockburn and the Bluestockings,” _Philosophy Compass_, 13 (3). doi: 10.1111/phc3.12478
+* –––, 2022, “Locke and Catharine Trotter Cockburn,” in _The Lockean Mind_, Jessica Gordon-Roth and Shelley Weinberg (eds.), New York: Routledge, 27–32.
+* –––, 2023, “Damaris Masham and Catharine Trotter Cockburn: Agency, Virtue, and Fitness in their Moral Philosophies,” in _The Routledge Handbook of Women and Early Modern Eurpoean Philosophy_, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 506–518.
+* Thomas, Emily, 2013, “Catharine Trotter Cockburn on Substantival Space,” in _History of Philosophy Quarterly_, 30 (30): 195–214.
+* –––, 2015, “Catharine Cockburn on Unthinking Immaterial Substance: Souls, Space, and Related Matters” in _Philosophy Compass_, 10 (4): 255–263; doi:10.1111/phc3.12210
+* –––, 2017, “Creation, Divine Freedom, and Catharine Cockburn: An Intellectualist on Possible Worlds and Contingent Laws,” in _Women and Liberty, 1600–1800_, Jacqueline Broad and Karen Detlefsen (eds.), Oxford: Oxford University Press, 206–220.
+* –––, 2023, “Margaret Cavendish, Anne Conway, and Catharine Cockburn on Matter,” in _The Routledge Handbook of Women and Early Modern Eurpoean Philosophy_, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 112–126.
+* Waithe, Mary Ellen, 1991, “Catharine Trotter Cockburn,” in _Modern Women Philosophers, 1600–1900_, Mary Ellen Waithe (ed.), Dordrecht: Kluwer Academic Publishers.
+* Walmsley, J.C., H. Craig, and J. Burrows, 2016, “The authorship of the _Remarks upon an Essay Concerning Human Understanding_,” _Eighteenth-Century Thought_, 6: 205–243.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cockburn). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/cockburn/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=cockburn&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/cockburn/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cockburn).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/cockburn/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=cockburn\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/cockburn/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* De Tommaso, Emilio, 2018, “[Catharine Trotter Cockburn](https://iep.utm.edu/catharine-trotter-cockburn/)”, entry in the *Internet Encyclopedia of Philosophy*.
+* De Tommaso, Emilio, 2018, “[Catharine Trotter Cockburn](https://iep.utm.edu/catharine-trotter-cockburn/)”, entry in the _Internet Encyclopedia of Philosophy_.
 
 ## Related Entries
 
-[Clarke, Samuel](https://plato.stanford.edu/entries/clarke/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [Scottish Philosophy: in the 18th Century](https://plato.stanford.edu/entries/scottish-18th/)
+[Clarke, Samuel](https://plato.stanford.edu/entries/clarke/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [Scottish Philosophy: in the 18th Century](https://plato.stanford.edu/entries/scottish-18th/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-Patricia Sheridan <[*pmsherid@uoguelph.ca*](mailto:pmsherid%40uoguelph%2eca)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+Patricia Sheridan <[_pmsherid@uoguelph.ca_](mailto:pmsherid%40uoguelph%2eca)>
