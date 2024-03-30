@@ -367,6 +367,7 @@
   * [因果关系与可操纵性 and manipulability (James Woodward)](c/yin-guo-guan-xi-causation/yin-guo-guan-xi-yu-ke-cao-zong-xing-and-manipulability-james-woodward.md)
   * [中世纪的因果理论 medieval theories of (Graham White)](c/yin-guo-guan-xi-causation/zhong-shi-ji-de-yin-guo-li-lun-medieval-theories-of-graham-white.md)
   * [\*心理——见心理因果关系 mental — see mental causation](c/yin-guo-guan-xi-causation/xin-li-jian-xin-li-yin-guo-guan-xi-mental-see-mental-causation.md)
+  * [形而上学中的因果关系 the metaphysics of (J. Dmitri Gallow)](c/yin-guo-guan-xi-causation/xing-er-shang-xue-zhong-de-yin-guo-guan-xi-the-metaphysics-of-j.-dmitri-gallow.md)
   * [概率因果关系 probabilistic (Christopher Hitchcock)](c/yin-guo-guan-xi-causation/gai-shuai-yin-guo-guan-xi-probabilistic-christopher-hitchcock.md)
   * [因果的规律性和推理理论 regularity and inferential theories of (Holger Andreas and Mario Guenther)](c/yin-guo-guan-xi-causation/yin-guo-de-gui-lv-xing-he-tui-li-li-lun-regularity-and-inferential-theories-of-holger-andreas-and-ma.md)
   * [\*逆因果性——见量子力学：量子力学中的逆因果关系 retrocausality in quantum mechanics — see quantum mechanics: retrocausality](c/yin-guo-guan-xi-causation/ni-yin-guo-xing-jian-liang-zi-li-xue-liang-zi-li-xue-zhong-de-ni-yin-guo-guan-xi-retrocausality-in-q.md)
