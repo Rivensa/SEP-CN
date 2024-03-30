@@ -9,6 +9,16 @@
 * [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
 * [词汇表](qian-yan/ci-hui-biao.md)
 
+## 关于
+
+* [编辑信息](guan-yu/bian-ji-xin-xi.md)
+* [关于 SEP](guan-yu/guan-yu-sep.md)
+* [编委会](guan-yu/bian-wei-hui.md)
+* [如何引用 SEP](guan-yu/ru-he-yin-yong-sep.md)
+* [特殊字符](guan-yu/te-shu-zi-fu.md)
+* [高级工具](guan-yu/gao-ji-gong-ju.md)
+* [联系信息](guan-yu/lian-xi-xin-xi.md)
+
 ## A
 
 * [溯因 abduction (Igor Douven)](a/su-yin-abduction-igor-douven.md)
@@ -577,13 +587,3 @@
   * [文化与认知科学 and cognitive science (Daniel Kelly and Andreas De Block)](c/wen-hua-culture-patti-tamara-lenard/wen-hua-yu-ren-zhi-ke-xue-and-cognitive-science-daniel-kelly-and-andreas-de-block.md)
 * [柯里悖论 Curry’s paradox (Lionel Shapiro and Jc Beall)](c/ke-li-bei-lun-currys-paradox-lionel-shapiro-and-jc-beall.md)
 * [库萨的尼古拉 Cusanus, Nicolaus \[Nicolas of Cusa\] (Clyde Lee Miller)](c/ku-sa-de-ni-gu-la-cusanus-nicolaus-nicolas-of-cusa-clyde-lee-miller.md)
-
-## 关于
-
-* [编辑信息](guan-yu/bian-ji-xin-xi.md)
-* [关于 SEP](guan-yu/guan-yu-sep.md)
-* [编委会](guan-yu/bian-wei-hui.md)
-* [如何引用 SEP](guan-yu/ru-he-yin-yong-sep.md)
-* [特殊字符](guan-yu/te-shu-zi-fu.md)
-* [高级工具](guan-yu/gao-ji-gong-ju.md)
-* [联系信息](guan-yu/lian-xi-xin-xi.md)
