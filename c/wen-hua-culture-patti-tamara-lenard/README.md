@@ -1,2 +1,321 @@
 # 文化 culture (Patti Tamara Lenard)
 
+*首次发布于 2020 年 12 月 2 日*
+
+民主社会通常以宗教、文化、种族和世界观的广泛多元化为特征，基于这些特征，公民向其国家提出要求。民主国家另外的特征是致力于平等对待所有公民，因此它们需要公正和公平的方式来处理和回应这些要求。本条目特别考虑文化要求。
+
+文化要求在政治和法律领域中无处不在。个人和团体不仅向国家提出文化要求，通常是为了获得法律或政治上的安排，而且国家经常以保护其文化的特定方面来解释其选择。本条目首先将审视政治和道德哲学家如何定义“文化”：文化作为包容性群体、文化作为社会形成、文化作为叙事/对话、文化作为身份。在讨论过程中，将介绍“本质主义”挑战：文化的本质主义解释是将该文化的某些关键特征视为定义该文化的特征，相应地，所有成员必须共享某些关键特征才能被视为成员（更多信息，请参阅 Phillips 2010）。特别是，该条目继续指出，早期对文化作为包容性群体的概念批评为本质主义，而后来的概念是试图以避免本质主义挑战的方式重新阐述文化。
+
+在阐述了理解文化的主要方式之后，本条目转向评估少数群体向国家提出的不同（尽管偶尔重叠）类型的文化主张：豁免主张、援助主张、自决主张、认可主张、保护主张（以及反对强迫文化丧失的主张）、法律环境中的防御性主张，以及专属使用主张（反对文化挪用的主张）。对于这些主张既有理由，也有反对意见，它们往往取决于对“文化”是如何理解的。在许多情况下，关于这些主张是否合理的争论取决于对文化是什么的竞争性理解，特别是对于那些是成员的人来说文化有多有价值，如下所示。最后，本条目将对多数社区提出文化主张以证明行动的案例进行评估，主要是在控制移民的背景下，有时拒绝潜在移民的入境，以及对被接纳者提出的文化要求，以及在这些情况下提出的各种理由和反对意见。本节考虑了多数文化的内容，新来者被要求遵守这些内容，以及他们被“要求”这样做的程度。
+
+* [1. 定义文化](https://plato.stanford.edu/entries/culture/#DefiCult)
+
+  * [1.1 作为包容性群体的文化](https://plato.stanford.edu/entries/culture/#CultEncoGrou)
+  * [1.2 文化作为社会形态](https://plato.stanford.edu/entries/culture/#CultSociForm)
+  * [ 1.3 文化作为对话](https://plato.stanford.edu/entries/culture/#CultDial)
+  * [1.4 文化作为身份（或者说是身份而不是文化）](https://plato.stanford.edu/entries/culture/#CultIdenIdenRathThanCult)
+* [2. 少数民族文化权利主张](https://plato.stanford.edu/entries/culture/#MinoCultRighClai)
+
+  * [ 2.1 豁免权利](https://plato.stanford.edu/entries/culture/#ExemRigh)
+  * [ 2.2 协助权利](https://plato.stanford.edu/entries/culture/#AssiRigh)
+  * [2.3 自决权](https://plato.stanford.edu/entries/culture/#SelfDeteRigh)
+  * [ 2.4 承认权](https://plato.stanford.edu/entries/culture/#RecoRigh)
+  * [2.5 文化保护权](https://plato.stanford.edu/entries/culture/#CultPresRigh)
+  * [2.6 文化丧失权利](https://plato.stanford.edu/entries/culture/#RighAgaiCultLoss)
+  * [2.7 文化辩护权利](https://plato.stanford.edu/entries/culture/#CultDefeRigh)
+  * [2.8 独占性文化使用权利（或反对文化挪用的权利）](https://plato.stanford.edu/entries/culture/#ExclCultUseRighRighAgaiCultAppr)
+* [3. 多数文化权利主张](https://plato.stanford.edu/entries/culture/#MajoCultRighClai)
+
+  * [3.1 文化延续和排斥权利](https://plato.stanford.edu/entries/culture/#CultContExclRigh)
+  * [3.2 文化延续和整合执行权利](https://plato.stanford.edu/entries/culture/#CultContInteEnfoRigh)
+* [ 结论](https://plato.stanford.edu/entries/culture/#Conc)
+* [ 参考文献](https://plato.stanford.edu/entries/culture/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/culture/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/culture/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/culture/#Rel)
+
+---
+
+## 1. 定义文化
+
+定义“文化”这个术语非常具有挑战性：它被描述为一个“臭名昭著的过于宽泛的概念”（宋 2009 年：177）和一个“臭名昭著的模糊概念”（艾森伯格 2009 年：7）。它以多种方式被运用：正如本条目将在更长篇章中考虑的那样，“文化”这个术语可以指代表征少数群体和多数群体的规范、实践和价值观，例如指出纽约的哈西德犹太社区实践独特的“文化”，或描述意大利或塞内加尔的文化。但它也以其他方式被使用，例如，用来指代“兄弟”文化或“嬉皮士”文化，或英国足球迷的文化。此外，任何一个人都可以是多种文化的成员——某人（比如本文作者！）可以同时是加拿大文化、渥太华文化、犹太文化和学术文化的成员。情境考虑将解释为什么定义这些文化的规范、实践和价值在特定时刻变得相关。此外，只有其中一些文化具有政治和法律相关性；只有这些文化才是本条目的重点。
+
+在政治和法律领域，关于文化是什么存在广泛的分歧，接下来的部分将重点阐述这些不同观点。然而，有相当大的共识，无论文化是什么，它对人们很重要，它为个人生活提供的意义和价值是捍卫和保护它在法律和政治空间中的最重要原因，如果不是最重要的原因。这个价值是为什么重要尝试发现文化是什么，以及相应地为什么，以及其中的哪些方面应该或不应该在公共领域受到保护。请注意，文化对人们有价值，确实为个人生活带来价值，这并不等同于说个别文化实践都是好的。任何可辩护的文化描述都必须认真对待文化的重要性，而不是捍卫其所有实例。文化已被解释为四种主要方式：作为一个包容性群体，作为社会形成，以对话术语，以及以身份术语。
+
+### 1.1 作为包容性群体的文化
+
+文化的一种思考方式是将其视为一种包罗万象的整体，塑造了我们生活的所有或大部分维度。或许 Will Kymlicka 对“社会文化”的阐述最负责引发对以这种方式理解文化本质的深刻思考。社会文化
+
+> 为其成员提供了有意义的生活方式，涵盖了人类活动的全部范围，包括社会、教育、宗教、娱乐和经济生活，涵盖了公共和私人领域。(Kymlicka 1996: 76)
+
+Kymlicka 解释说，一个充满活力的社会文化提供了“选择的背景”，即提供了个体依赖于理解他们的世界和其提供的选择的资源。根据这一观点，国家被很好地描述为拥有社会文化，原住民群体和次国家民族少数群体（例如，加泰罗尼亚人或藏人）也是如此；维持一系列文化实践和规范的移民群体，即使他们融入更大的“社会文化”中，也不是。
+
+凯姆利卡并不是唯一提供文化全面说明的人。迈克尔·沃尔泽也提供了这样的说明，提出我们应该将政治社区理解为“性格社区”，其中成员被“共同意义世界”所约束（沃尔泽 1983 年：28）。阿维沙伊·马加利特和约瑟夫·拉兹也描述了所谓的“全面”团体，其中他们的成员
+
+> 在其中找到一种文化，这种文化在很大程度上塑造了他们的品味和机会，并为他们的自我认同和轻松安全归属提供了支撑。（马加利特和拉兹 1990 年：448）
+
+阿维沙伊·马加利特和摩西·哈尔贝塔尔说，一个包罗万象的团体的文化“涵盖了生活的各个重要方面”，并在这样说时，他们举例说明了极端正统犹太文化：
+
+> 它定义了人们的活动（比如犹太正统文化中的托拉学习），决定了职业（比如割礼者），并定义了重要的关系（比如婚姻）。它影响着人们的一切行为：烹饪、建筑风格、共同语言、文学和艺术传统、音乐、习俗、服饰、节日、仪式……文化影响着其成员的品味，影响着他们的选择以及这些选择的意义，以及他们在评价自己和他人时认为重要的特征。（Margalit & Halbertal 1994: 498）
+
+而 Kymlicka 强调了一个强大社会文化所提供的自由，Margalit 和 Halbertal 谈到了它在确保成员“个性身份”中的作用（Margalit & Halbertal 1994: 502），Walzer 则强调了它在塑造“集体意识”中的重要性。尽管这些学者出于许多原因都为保护强大文化提供了理由，但他们一致认为文化的根本作用是提供一个背景价值体系，帮助成员在选择之间进行选择并解释其价值，例如在某些形式的就业、教育、家庭结构和子女抚养方面。Walzer 描述了文化如何影响人们理解甚至最基本的事物的方式：
+
+> 一个单一的必需品，而且永远是必需的——比如食物，在不同的地方具有不同的含义。面包是生命之源，是基督的身体，是安息日的象征，是款待的手段，等等。（Walzer 1983: 8）
+
+这些文化描述使我们对文化有了更多的了解，特别是为什么贫乏的社会文化可能无法提供 Kymlicka 强调的选择背景，或者为什么一个人的“个性认同”可能会受到威胁：如果一个文化群体的教育、政治或经济体系变弱，他们支持成员理解世界、在选择之间做出决策的能力也会变弱。此外，这一描述还说明了削弱他人文化的错误之处：如果一种文化受到削弱，其成员可选择的选项也会减少。我们可以看到这一点在许多国家的土著文化中：在这些国家，政府积极试图抹去土著文化，结果导致土著人民严重社会脱节和疏远，他们的选择背景大大减弱。
+
+然而，对这种理解文化方式提出了多重异议，其中大部分是对所谓“本质主义”异议的变体；请注意，上述观点的持有者并不认为自己是本质主义者。本质主义异议针对的是它所认为的一个假设，即一个文化的成员将认为同一组实践、规范和价值重要，并且程度相同。但是，批评者说，这个假设并不成立：在任何实际的文化中，成员对其定义性实践和规范的承诺程度会有所不同，实际上，关于哪些实践和规范是首要的问题，必然会存在分歧。本质主义异议大致说，将文化视为包罗万象会错误地做以下几件事之一：1）它宣称文化的某些特征是其核心，因此不可改变，否则文化将解体（Eisenberg 2009: 120），并相应地，文化必然是有界和确定的，而不是有争议和流动的（Moore 2019；Patten 2014: 38）；2）在确定了这些特征作为文化核心后，排斥那些认为自己是成员但不符合、展示或尊重这些特征的人（Parvin 2008: 318–19）；以及，3）它忽视了自由社会中大多数人“从多重角色、社区和成员身上获得他们的身份”的现实，这些身份在不同情境下可能具有社会意义，独立于文化身份，有时也与文化身份一起（Moore 2019）。总之，对于文化对其成员意味着什么的过于包罗万象的描述会冒着将文化边界视为确定、不变动，并且似乎其成员在对整个文化及其定义性实践的承诺上没有差异（也许不能有差异）的风险。
+
+下面考虑的文化替代方案至少在一定程度上旨在应对本质主义挑战；换句话说，它们的目标是生成一个关于文化是什么，以及成为特定文化群体成员意味着什么的合理解释，可以用来理解法律和政治争议，并在理想情况下对其进行裁决，而不会屈服于本质主义挑战。一个警告：下面讨论的文化观应被理解为“理想类型”，以便理解其关键特征，它与其他观点的区别，以及为什么它在自身评估中不会受到本质主义挑战的影响。
+
+### 1.2 文化作为社会形成
+
+有一种重新构想文化的尝试，以回应本质主义挑战，但仍然保留了文化作为广泛包容的观点，提出文化是由其成员对社会形成的共同经验所定义的（Patten 2014: 39）。根据这种“社会血统”文化观，一个文化之所以存在，是因为其成员受到“一组与强加给其他人的形成条件不同的形成条件”的影响（Patten 2014: 51）。被共同机构支配的经历，广义上包括共享的教育空间、语言、媒体，以及共享的历史传统和故事，重叠的家庭结构等，塑造了文化群体成员之间的一种共同看待世界的感觉，以及他们拥有的某些假设是被其他人分享或至少被理解的。这种观点强调了文化的历史轨迹，但并不要求其定义的规范、价值观和实践随时间不变。相反，
+
+> 内部变化是可能的，因为受到共同一组形成影响并不意味着人们最终会拥有一致的信仰或价值观。（Patten 2014: 52）
+
+因此，文化是成员可以争论和审议其意义的场所，他们对世界运作方式有足够的共享假设，以便彼此认可为从事同一项目的人。
+
+Patten 写道，文化群体成员受制于的机构至少在某种程度上“与工作以社会化外部人员的机构和实践隔离”（Patten 2014: 52），因此有助于区分一种文化与另一种文化。从这个观点来看，重点放在谁控制着塑造成员形成的机构的杠杆上：也就是说，重要的是成员控制着自己受制于的机构，以便他们可以合理地塑造自己的社会经验，以及年轻成员的经验，在根本上发生变化。当对这种社会形成的控制被否认时，文化的成员因此受到伤害；当强制性地否认时，很可能存在一种需要补救的不公正。
+
+通过关注共同文化机构的共同受制经验，这种观点避免了一个指责，即文化的定义是其基本规范和价值观随时间稳定：在这种观点下，文化不是一个静态实体。相反，重要的是文化群体成员相信自己是文化群体的成员，而这种信念的基础在于共同文化机构的经验，而不在于对该群体至关重要的具体实践。这些核心实践可以发生根本性变化，而文化群体本身并不会解体。然而，这种观点受到学者的批评，他们担心控制形成杠杆的人并不代表所有成员的观点（Phillips 2018），而是利用他们相对强大的地位来创造和强制执行不具备（或者没有强制力的话，不会具备）广泛共识的文化规范和实践。
+
+### 1.3 文化作为对话
+
+后一种反对意见认为，所谓的文化是部分而非全部成员的产物，这导致一些学者重新阐释文化，即通过成员之间的对话以及他们相互参与的方式来构建文化。强调文化成员是其主要实践、价值观和规范的来源的目的在于强调文化并非从上面“给予”给其成员，作为一个固定且不可改变的实体。相反，文化的成员在根本上是其创作者。詹姆斯·塔利（James Tully）在这里解释说：文化是
+
+> 不断受到争议，被想象和重新想象，被转变和协商，既由其成员进行，也通过他们与他人的互动。（塔利，1995 年：11）
+
+塞拉·本哈比布同样强调文化的叙事方面，指出内部人员通过共享的、尽管有争议和可争辩的叙事账目来体验他们的传统、故事、仪式和符号、工具以及物质生活条件。 （本哈比布 2002 年：5）
+
+> 成员之间存在争议，并且其主要元素在不断协商之下，这并不会使文化对其成员变得不那么有意义。 似乎令人困惑的是，一个可争辩且不断变化的文化需要受到保护；也许保护意味着通过在某个时刻保护其中的元素来人为地阻止文化将要经历的自然变化。 但是，这种观点的支持者要求以确保文化被协商、共享和传播的论坛以强大和包容的方式持续存在，并且不受外部力量的干扰为形式的保护。 与文化作为形成账目一样，重点在于群体成员塑造中心规范和实践的能力，而不在于规范和实践本身。
+
+That there is contestation among members, and that its main elements are under constant negotiation, does not render a culture any less meaningful for its members. What may seem confusing is the idea that a contestable and constantly shifting culture warrants protection; perhaps protection means artificially halting the natural changes that a culture would undergo, by protecting elements of it at a moment in time. But defenders of this view demand protection in the form of ensuring that the forums in which culture is negotiated, shared and transmitted, are sustained in robust and inclusive ways, and without unwanted interference by forces external to the culture. As with the culture-as-formation account, the emphasis is on the capacity of group members to shape the norms and practices that are central, rather than with the norms and practices themselves.
+
+这种观点如何回应对文化群体内部不对称权力分配的担忧？专注于文化的核心特征是如何通过成员之间的协商确定的，这是对塑造在这些协商过程中听取哪些声音的权力结构的关注，无论是在少数文化还是多数文化中（Dhamoon 2006）。在许多文化中，历史上占主导地位的声音通常是男性，其中一个影响通常是对如何最好地组织文化生活的性别化观点，这在许多方面削弱了妇女（和其他少数群体）的权利，通常是对她们的不利以及违背她们的意愿。对于一些人来说，弱势成员被掌握权力的人压迫至少部分地引发了对在自由、民主国家保护或容纳文化价值的怀疑，特别是在可能看起来“多元文化对妇女有害”（Okin 1999）的情况下。根据这种观点，在自由民主国家不应容忍削弱妇女（和其他少数群体）权利的文化实践。
+
+认识到许多文化实践对妇女（和其他少数群体）不利，并不会促使所有政治理论家在所有情况下都采取怀疑的态度。对于一些人来说，这是一个机会，他们看到文化即使被被认为是受压迫的人也可以被重视，即使他们从内部努力影响自己文化的方向，朝着更少压迫的规范和实践发展。例如，尽管经常被排除在权力中心之外，许多妇女以一种鼓励他们不是退出而是参与改革不平等实践和规范的方式重视自己的文化（Deveaux 2007）。这种关于文化及其内容的思考方式庆祝并鼓励“民主化”文化群体主要规范、价值观和实践的机制，并捍卫真正对多种声音开放的公共文化（Lenard 2012）。
+
+因此，这种关于文化的叙事或对话性描述对本质主义挑战做出了很好的回应，否认了文化的定义特征必须是静态且对文化群体的所有成员同样有价值。但是，它必须回应另一个挑战，即个体化挑战（Moore 2019）。如果一个关于文化的描述要足够强大，以定义应该有资格在各种方式上获得额外政治和法律考虑的实体，包括关于额外权利保护或免除某些法律和政治要求的豁免，它还必须能够以某种具体性确定特定文化的边界，以及谁可以合法地被视为成员，以便尊重由此产生的政治和法律主张。但这可能是一个难以实现的挑战。
+
+要了解原因，考虑本哈比布对文化从外部观察和从内部体验的方式的描述。她说，观察者在很大程度上负责对文化施加“统一和连贯性”，而从内部来看，参与者通过共享的、尽管有争议和可争辩的叙述来体验他们的传统、故事、仪式和符号、工具和物质生活条件。（本哈比布 2002 年：5）
+
+> 以这种方式理解文化的一个效果是，虽然许多成员会深深坚守中心价值观，并对参与中心文化传统感到满足，但许多其他人会参与其中的中心实践，挑选和选择其中的中心价值观和规范。因此，谁算是成员是模糊不清的，当说成员资格赋予的权利和特权不对非成员开放时，这种模糊性可能会成为一个问题。在政治上需要区分文化的需求与文化边界之间存在不可避免的紧张关系，这些边界不可避免地界定不清。只有上下文才能帮助我们解决由此产生的政治问题。
+
+One effect of understanding the culture in this way is that while many of its members will hold deeply to the central values and take deep satisfaction in participating in the central cultural traditions, many others will dip in and out of its central practices, and pick and choose among its central values and norms. So, just *who* counts as a member is blurry, and this blurriness may appear to be a problem when membership is said to confer rights and privileges that are not available to non-members. There is an inevitable tension between the need to individuate cultures for political reasons and the boundaries of cultures which are inevitably poorly demarcated. Only context will enable us to resolve the political questions that will thereby emerge.
+
+### 1.4 文化作为身份（或身份而非文化）
+
+为了回答如何确定文化及其成员的挑战，一个提议集中于与属于文化群体相关的主观组成部分。以玛格丽特·摩尔描述的这个例子为例：尽管北爱尔兰天主教徒和新教徒之间存在深刻分歧，但这些差异既不是宗教的（冲突并非关于对宗教文本的独特解释，宗教人物也不是暴力袭击的目标），也不是文化的，因为对这两个社区的文化价值观进行的调查显示，竞争社区所持有的价值观之间存在相当大的重叠（摩尔 1999 年：35）。她说，相反，关注对手团体之间的共同身份更能解释冲突。一个主要或部分关注身份的观点强调文化的一个关键维度是它如何塑造文化群体成员的身份。此外，这样的观点强调文化是许多人将会有重要联系的事物，但对他们来说将以多种和不同的方式定义。关注身份的观点具有明显的优点：例如，它可以解释为什么个人在历史上文化的中心定义特征发生变化时仍然名义上与文化相关联，即使他们不参与其中的一些更传统的方面。
+
+此外，一个关注身份的观点可以容纳那些显然不是基于文化的身份，例如，包括 LGBTQ+ 身份（艾森伯格 2009 年：20；关于 LGBTQ+ 背景中文化/身份主张的讨论，请参见戈什 2018 年：第 4 章）。事实上，一个关注身份的观点旨在避免确定哪些具体材料是合法的文化材料的困难。正如上文所述，少数文化的学者经常指出，许多群体提出了各种各样的主张，这些群体由一系列不同的特征定义，包括种族、族裔、宗教和性取向。他们说，与其关注文化，不如关注身份可能更可取，因为
+
+> 身份这个术语在某种意义上涵盖了更多的领域，它可以指代宗教、语言、性别、土著和自我理解的其他维度。(Eisenberg 2009: 2)
+
+## 2. 少数文化权利主张
+
+上述文化的四种观点构成了个人和团体针对国家提出的文化主张。个人和团体面临的具体威胁以及需要一种保护的情况各不相同，国家对个人和团体提出的主张可能会有不同的回应(Eisenberg 2009: 20–21)。在某些情况下，主张是为了为整个群体提供适应；在其他情况下，主张是针对特定个人的；而且这两者之间可能存在联系。例如，一个群体可能要求语言保护政策，或者一个个人可能要求在法律程序中使用母语。这些权利彼此相关，并且在某些情况下可能是相互衍生的：一个个人在法律程序中有权使用母语的原因之一可能是因为国家已经承认她的语言是国家的官方语言，或者是某个次级司法管辖区的官方语言。在接下来的讨论中，重要的是要注意何时提出的主张是适用于个人的适应，何时是适用于群体的适应；尽管一些哲学家热衷于评估文化权利最好是理解为个人权利还是群体权利(Casals 2006)，但下面的分析是基于它们可以同时是两者(参照 Levy 2000: 125)。
+
+值得注意的是，“住宿”这个术语是一个包罗万象的术语，包括个人或团体基于文化而对国家提出的各种索赔。政治哲学家们试图以多种方式区分这些索赔，以便理解它们。许多移民群体（通常）向国家主张许多此类权利，他们需要国家做出一定的调整，以更好地融入该国家。在围绕多元文化的价值展开的更大讨论中，人们就哪些调整方式鼓励尤其是文化上有明显差异的新移民融入，哪些方式允许甚至鼓励他们与更大社会分离（例如，Sniderman＆Hagendoorn 2007）进行了广泛讨论。一些学者也担心，专注于如何最好地容纳文化少数群体会忽视（或许是故意忽视）对那些处境较差者进行再分配的更重要问题（Barry 2001；Fraser 1995）。然而，多元文化理论家普遍认为，当支持少数群体的整合，特别是新移民的整合时，住宿权利是最具防御性的，同时也是在解决多数群体和少数群体之间持续不平等问题时的目标。
+
+值得注意的是，并非每个人都立即同意“文化”应被视为独特的法律和政治索赔的来源。例如，Sarah Song 指出，所谓的“多元文化”索赔实际上经常是对包括种族、宗教和民族群体在内的各种群体进行调整的要求。许多文化权利的政治理论家似乎相信存在着独特和可识别的文化群体，提出了独特的文化要求，然而在他们的例证中，他们依赖于“涉及宗教、语言、种族、国籍和种族的广泛例子”（Song 2009：177）。很少有“文化”单独成为对国家的索赔基础。Song 说，所谓的文化要求实际上经常是对其他被广泛理解和可辩护的民主商品的要求。大多数这类要求是对宗教调整的要求，这些要求得到了标准自由意识的自由的辩护；其他要求是对过去和持续不断的错误的赔偿，以积极行动的形式；还有其他要求是对民主包容的要求，通常根植于一个道德上有问题的历史，即故意排斥。一旦这些“文化”要求的原因被清楚地揭示出来，我们通常会发现有民主辩护理由来尊重和容纳它们，而无需诉诸于将文化视为一个独特实体，从而产生一套独特的权利要求。结果是，与正确定义文化和识别其成员相关的争议在许多情况下可以避免。然而，这种分析可能会使处理某些情况变得困难，其中所谓的“文化”与宗教、种族和种族要求相互作用或补充。
+
+就瑞士禁止清真寺上的尖塔的公投选择而言，选择的辩护性一直是政治哲学家们讨论的话题之一，其中一个关键争议点是清真寺尖塔在伊斯兰教中是否是宗教要求，以及在多大程度上是宗教要求。许多解释者提出，由于根据伊斯兰教的宗教要求，尖塔并非义务性的，因此禁止它们的选择是令人遗憾的（因为它反映了瑞士对伊斯兰教在公共场所的地位），但这并不侵犯瑞士的穆斯林的宗教自由，因此是允许的（Miller 2016）。然而，在提出这一主张时，被忽视的是尖塔的文化意义。如果不承认文化在某些主张中的独特地位，就无法完全理解尖塔案件。同样的挑战也可以在是否应允许穆斯林妇女在公共场所戴面纱的讨论中看到。一些评论家认为，因为（根据某些解释）伊斯兰教的文本似乎并不要求戴面纱，所以可以拒绝妇女从事这种做法的权利，而不侵犯她们的宗教自由。在提出这一论点时，其辩护者注意到，遮盖面部的选择实际上是对伊斯兰教要求的（纯粹）文化解释，这一事实表明，只有一些穆斯林实践社区才从事这种做法。对于一些学者来说，有必要区分宗教主张和文化主张——自由民主国家非常重视宗教主张作为良心问题，并且一直以来都在积极保护宗教自由。因此，一旦确定某项主张不是宗教自由的主张，这些学者相信他们可以舒适地拒绝在公共场所遮盖面部的请求。然而，忽视主张的文化维度——或者将其视为明显不如基础宗教主张重要——未能正确对待这一案件。特别是，未能认真对待宗教义务必然具有文化解释，全面认识宗教自由意味着承认它们的文化解释，并且因此将需要特别的文化法律和政治调整（对宗教承诺）。
+
+在接下来的内容中，将审查针对国家主要机构提出的不同类型的文化主张。这些主张有时是由个人提出的，有时是由团体提出的。在相关情况下，分析将强调所使用的文化概念是文化作为包容性群体、文化作为社会形成、文化作为叙事还是文化作为身份。分析不总是一帆风顺的。在某些情况下，将会有多种文化权利的辩护，这些辩护依赖于对文化的不同理解。
+
+### 2.1 豁免权
+
+或许对国家提出的文化索赔中最熟悉的类型是请求豁免规则和法规，这些规则和法规通常适用于所有公民。豁免权是对事实做出的回应，在自由民主国家中，法律和实践的目的是真正地平等对待所有公民，但有些法律无意中对某些少数群体造成了不利影响。需要解决的担忧是，少数公民在某些法律的正常适用中无意或意外地受到了负担（Levy 2000: 130），这种方式对待他们是不公平的，可以通过豁免某些法律和正常实践（Quong 2006; Gutmann 2003）来解决。因此，豁免权的扩展被理解为对差异的承认，试图在法律的合法目标之路上不给少数文化或宗教带来不必要的负担。（Levy 2000: 130）
+
+> 例如，一些锡克教徒请求豁免要求佩戴摩托车头盔或建筑工地头盔的法律。尽管锡克教是一种宗教，但锡克教徒描述要求他们戴头巾并不完全是一项宗教要求，而是作为他们信仰和承诺锡克教价值观的象征，以及他们身份的表达（锡克教信仰常见问题解答在其他互联网资源中）。如果不豁免这些法律，锡克教徒将被排除在应该平等提供给所有公民的机会之外。原住民社区也是如此，他们请求豁免普遍适用的限制狩猎和捕鱼的法律，解释说这些限制破坏了他们的传统生活方式，或者使他们难以（或不可能）维持生计（Levy 2000: 128）。在加拿大和美国废除星期日闭店法之前，宗教少数群体偶尔会获得对其豁免。在这些情况下，如上所述，如果没有法律规定的豁免，人们（通常是少数群体）必须选择参与应该平等提供给所有公民的机会，或者尊重他们对宗教要求的（文化）理解。
+
+For example, some Sikhs request exemption from laws that require wearing motorcycle or construction-site helmets. Although Sikhism is a religion, Sikhs describe the requirement that they wear a turban not quite as a religious requirement, but rather as a symbol of their faith and commitment to Sikh values, as well as an expression of their identity (Sikh Faith FAQs in [Other Internet Resources](https://plato.stanford.edu/entries/culture/#Oth)). Without exemption from these laws, Sikhs would be excluded from taking advantage of opportunities that are meant to be available to all citizens on an equal basis. The same is true of Indigenous communities, who have requested exemptions from generally applicable laws that limit hunting and fishing, explaining that such limits undermine their traditional way of life, or make it hard (or impossible) for them to sustain themselves (Levy 2000: 128). Before Sunday-closing laws were abandoned in Canada and the United States, religious minorities were occasionally granted exemptions from them. In these cases, as described above and without legally provided exemptions, people (usually minorities) must choose between participating in opportunities that should be available to all citizens on an equal basis *or* to respect their (cultural) understanding of what their religion requires of them.
+
+豁免请求可以轻松区分于规则修改请求。正如所指出的，豁免请求是指个人被豁免适用于所有公民的某些要求的请求；修改请求则是要求对现有的多数做法进行更改，以适应某些其他少数做法。锡克教徒有时请求豁免法律，否则他们将被要求摘下头巾；在其他情况下，他们请求统一修改，以便头巾被视为执行特定角色的人员中的几种可用头部覆盖物之一。同样，当遵守教规的穆斯林请求在工作日中间短暂休息，以便在一天中的特定时间祈祷，或者犹太和穆斯林学生要求在学校餐厅提供食物时进行更改（以适应犹太教和伊斯兰教的饮食规定），请求的是修改而不是豁免。
+
+在大多数情况下，合法法律早期未能修改或豁免新做法是无意的。也就是说，现行的法律或做法并非是有意排斥的，而是在假定下采用，认为它们公平地对待现有人口。但是，大规模移民已经使许多人口在实质上多样化。移民通常带有在到达时对他们加入的国家陌生的做法和规范，因此国家被要求修改某些法律，并豁免新来者免除其他某些法律。可能存在一些情况，存在合法的公共理由坚持适用某些法律，尽管这些法律对新来者造成了不利。此外，也有一些情况，国家坚持要求服从明显对试图融入的新来者不利的法律和做法，但没有好的缓解因素来证明坚持施加不利是有道理的（例如，当丹麦的兰德斯镇通过一项法律要求在学校餐厅“与其他食物平等地供应猪肉”时）。在这些后一种情况中，法律的排斥性影响不再是无意的，通常会因持续不必要和不合理的排斥政治、经济和社会空间而受到谴责。
+
+并非总是个人或团体声称文化权利豁免和修改的移民，但这种情况经常发生。土著社区请求豁免，某些正统宗教社区也是如此。这些情况将在下文关于文化保护的部分中讨论。
+
+### 2.2 援助权利
+
+对于援助的要求呼吁国家保持各种文化元素得以持续甚至繁荣的条件，尤其是少数语言，或通过各种方式促进和保护文化协会，包括向这些文化群体内的艺术家提供财政支持，或提供资源以允许民族语言媒体的制作和分发。援助权利的理由与豁免和修改请求的理由相同：它是为了防止对所有公民平等享有的权利或商品的不公平访问。在援助权利的情况下，文化少数群体认为多数群体已经可以获得这些商品，例如强大的语言或媒体空间，因此他们请求国家资源来确保这些商品也能为文化少数群体所获得。在这里，尽管理由与为豁免和修改权利辩护提供的理由重叠—以产生公平—但支持这些权利要求的文化理解是不同的。通常，豁免和修改要求将文化视为身份或对话，而在援助要求的情况下，文化的背景理解通常是文化作为社会形成或文化作为包容性群体；文化被视为一个整体，需要援助来保护其各个核心部分，以便很好地塑造成员。
+
+### 2.3 自决权利
+
+自决权是指赋予次国家司法管辖区对特定领土拥有实质控制权的权利，特别是在该领土上运行主要机构的权利。一个自决社区是指，由于对领土上主要机构的控制，能够在多个政策领域内做出并执行决策，而不受外部干预（I. M. Young 2004）。自决权的理由有时基于赔偿或纠正正义，例如过去国家行为削弱了特定文化群体首先自决的能力（Song 2009: 184）。在其他情况下，对自决的要求是基于保护文化上独特的次国家司法管辖区的自治重要性，即其以符合特定文化偏好的方式运行自己事务的能力。自决权通常依赖于对文化作为包容性群体或文化作为社会形成的理解，这表明如果没有对统治公民生活的主要机构有重大控制，相关群体将无法自决。
+
+自决权通常归属于国家，因此在次国家层面运作的少数群体的情况下，其含义并不总是清晰的。在次国家司法管辖区中，自决权经常被土著群体以及次国家民族群体，如巴斯克人和苏格兰人所要求，他们的“社会文化”明显不同于多数社会文化。对自决的要求是对如何教育儿童、相关政治当局使用何种语言以及公共空间应如何组织做出选择的要求。所要求的权利至少有三种表现形式：1）至少有权“在更大社会中维持全面的生活方式而不受干预”；2）被多数人承认其生活方式的权利；3）得到多数人积极支持以支持相关生活方式的权利，以便“文化能够蓬勃发展”（Margalit & Halbertal 1994: 498）。这三种解释对国家提出了不同的要求，从简单的不干预到积极参与维持自决条件。因此，更大的国家有时被要求评估其愿意将资源用于支持特定自决请求的程度，重点是相关文化保护要求是否合理。这些将在下文中讨论。
+
+### 2.4 认可权
+
+在法律和政治文件中对正式认可的需求通常伴随着对自决权的需求，并基于希望让多数人标志其对文化少数群体的充分和平等尊重的承诺（Mcbride 2009）。在加拿大的情况下，魁北克人长期以来一直在争取被认可为一个“独特社会”的民族地位。尽管试图在加拿大宪法中承认魁北克的地位屡次失败，但在 2006 年，一项提议“本院承认魁北克人在一个团结的加拿大内构成一个民族”的动议被下议院通过（然而引起了相当大的争议）。在这种情况下对认可的需求是对作为加拿大国家的平等、国家、创始合作伙伴的尊重的需求。
+
+在土著社区的情况下，自决权的权利通常不仅包括对特定司法管辖权的行使要求，还包括对认可的要求。例如，他们寻求认可，作为特定国家的原住民，或作为自己的国家，或作为在殖民者手中遭受各种罪行的受害者，包括违反早期条约的行为，以及要求国家支持维持和，在许多情况下，重建被殖民/移民政府积极摧毁的社区。例如，在加拿大和其他殖民国家，已经成为常态在活动之前（包括作为学校开学日开始时宣布的一部分）宣读土著土地未割让的承认声明。同样，在澳大利亚，土著社区长期以来一直在争取在澳大利亚宪法中获得官方认可。从澳大利亚土著社区的角度来看，希望，实际上也是期望，是官方认可将带来额外的权利和利益，例如对少数群体成员更大的发声权和政治参与。在一些认可要求的案例中存在对额外权利和利益的希望，但并非所有案例都是如此（例如，在魁北克的情况中基本上不存在这种希望）。
+
+认可以其他形式出现，超越了在法律和政治文件中承认的意图，旨在确认对少数群体的尊重。在一些国家，少数群体的语言可以被正式承认为国家语言。例如，瑞士的罗曼什语被正式承认为国家语言，尽管说该语言的人口不到该国总人口的 1%。相比之下，土耳其禁止在公共场所讲库尔德语的法律是一种试图否认对一个民族少数群体的认可（最终于 1991 年解除）。与在具有约束力的宪法文件中要求官方认可类似，这些形式的认可表明对少数群体的尊重以及对待他们作为更大国家的全面和平等成员的承诺。
+
+### 2.5 文化保护权
+
+文化保护权是指群体声称对维持一个文化群体作为文化群体至关重要的权利。有时，这种权利被描述为对“特定文化人民生存”的权利（Gutmann 2003: 75）。在某些情况下，理由是基于这样的主张：与更广泛社区的接触和参与会导致其成员所珍视的文化受到侵蚀。在其他情况下，理由是历史性的，比如正统宗教团体逃离欧洲的宗教迫害，同意在加拿大和美国定居以换取宗教自由。在其他情况下，中心理由是文化多样性是有价值且值得保护的，本身就是（Parekh 2000）。（在某些情况下，文化保护权被视为对过去错误的补偿；这一主张将单独讨论。）对文化保护的要求在由非自由主义团体提出时最具争议性，稍后将详细介绍。
+
+值得在这里停留片刻注意的是，有两种解释文化保护的方式：它可以意味着将一个群体保留为一个独特的文化实体，也可以意味着保留某些被认为在某一时刻是文化核心的实践和价值观。文化保护权以多种形式出现，包括豁免要求、家长自治权、尊重内部冲突解决机制（主要是在家庭法中）、以及对成员资格的控制。这些权利是为了保护文化而被证明是正当的，并且通常依赖于对文化作为包容性群体或文化作为社会形成的理解，正如它们通常伴随的更一般的自决权一样。
+
+许多少数民族的不自由团体只要求对他们所居住的国家保持克制的权利（Spinner-Halev 2000）。作为回应，一个国家可能允许一个不自由的文化团体“独立自主”，认为只要它能在没有任何国家支持的情况下持续存在，它就可以这样做。然而，一个国家可能被要求做更多的事情来保护文化。
+
+例如，一个国家可能被要求豁免社区成员遵守通常要求所有公民遵守的某些要求，包括义务教育和儿童劳动法。考虑这个例子：许多正统的阿米什社区过着与更广泛社区基本隔离的生活。他们过着由宗教结构化的生活方式，规定成员与谁结婚，如何抚养子女，如何创造一个允许他们的生活方式继续的经济。在大多数情况下，他们既不要求承认也不要求额外的财政支持来保护他们社区的生活方式。他们以前主要只要求不受干涉。但是，在 20 世纪 70 年代，一些美国阿米什社区要求，并获得了，将他们的子女从 14 岁时就义务教育中退出的权利，他们认为如果他们的子女被要求一直待在学校直到 16 岁，他们更有可能离开社区。他们认为，这种高退出率将导致阿米什生活方式难以持续下去（Burtt 1994）。阿米什人声称的豁免权，在这种情况下，是源于对文化自我保护的更大需求；他们说，如果没有这种豁免权，文化本身可能会消失。
+
+一个国家也可能被要求尊重某些法律权力领域，可能最常见的是家庭法领域。少数民族社区经常规范婚姻条件、子女监护权以及离婚，并要求法律授权这样做。尊重少数民族社区在家庭法领域行使司法权的法律权威是一种经常令文化少数权利批评者感到困扰的请求，因为这可能会巩固妇女的劣势，例如在离婚协议或监护协议中（Shachar 2001；Bakht 2007）。总的来说，承认少数民族社区在家庭法领域的法律权威的国家也要求参与这些裁决程序的人自愿这样做；因此，多数国家通常保留干预这些程序的许可，以支持那些可能得不到充分保护的人。国家必须在这里尝试一种平衡，既要为少数族群中最脆弱的成员提供支持（例如确保他们的宪法权利得到保护），又要在某种程度上干预，以不注意到少数族群有权长期存在的正当要求，部分通过在关键领域行使其权威。
+
+另一种常见的文化保护权形式是排斥权，即文化团体拒绝允许他人进入领土或成员资格的权利，因为担心更宽松的准入条件可能会通过稀释效应来破坏它。正如国家有控制其边界的假定权利（在第 3 节下讨论），以及谁可以声称在准入后仍享有成员权利一样，一些次国家司法管辖区声称拥有这种排斥的双重权利，援引文化保护的重要性。土著社区有时声称有权拒绝非土著个体在其领土上定居的权利，或者有权排除其他人（例如土著人的非土著配偶）享有某些成员福利的权利，包括投票权（或以其他方式发表意见）以决定谁将治理。国家法院被要求裁定土著社区对于做出这些决定的合法权威（参见宋 2005）。
+
+上述文化保护权提出了一个困难的挑战，与将文化视为一个包罗万象的群体的批评有关：一些批评者表示，任何对文化保护的要求实际上转化为对成员的控制的问题，而且通常对文化团体的女性和 LGBTQ+ 成员最为限制。这种挑战最为强烈地提出在文化保护权被所谓的非自由主义团体（如阿米什人）要求的情况下，以及在他们（在批评者看来）被强加给儿童的情况下。非自由主义团体是那些否认某些关键自由主义价值观的团体，如自治和平等；在许多情况下，这些社区得到的教育系统支持，这些系统通过避免教授通常使之能够实现的技能和能力，以及通过强制执行提升某些成员在等级上超越其他成员的规则，来阻碍自主选择。担忧是社区不仅想要保持自己作为一个独特的文化团体，而且还想要保护一种文化同质性，不留任何争议或对其核心价值观和实践的异议。这些后者的等级规则通常使女性容易受到更强大男性的伤害，这些男性可能要求各种形式的性屈从，将她们限制在家中照顾孩子，并对她们实施严格的行为准则，对违反者进行严厉处罚。对于一些批评者来说，这些所谓的“文化实践”使得任何形式的国家支持保护少数文化团体在很大程度上难以辩护（Okin 1999）。
+
+对这些许多文化保护权利的反对中存在的一个担忧是，女性可能不愿意成为这些文化的参与者，因此尊重文化保护权利会使女性过上她们不选择、不想要且无法摆脱的生活。但对许多人来说，假设女性成员只是在受到压力的情况下才是这样是错误的，因为许多人会深深珍视社区本身，并尊重它试图保护的规范和价值观，即使他们拒绝其中的某些部分。在这些情况下，以及政治理论家们考虑到它们时，有一种试图从将文化视为包容性术语转向将其视为对话和叙事术语的尝试。文化，即使是压迫性的（对自由主义者来说）少数文化，也是会发生变化的，也许最好的变革源头是那些深深承诺于关键价值观但拒绝其他价值观的成员，包括那些不尊重女性平等权利的价值观。莫尼克·德沃的研究涉及南非习俗婚姻中的成年女性参与者，她们接受文化的某些元素，但旨在在谈判桌上获得发声权以改变其他方面，这种研究将文化视为对话性术语（Deveaux 2007）。在这里，关键的激励思想是文化可以随着时间的推移而发生变化，响应于其成员如何参与其中，重要的不是变化本身，而是其源头是谁或是什么。从这个观点来看，文化保护权利的目标不是保护文化本身，这在任何情况下都是不可能的挑战，而是保护群体成员塑造其文化和保护其免受不受欢迎的变革源头的能力的权利。
+
+其他人认为，只要女性和其他受到严格文化要求的人拥有退出社区的权利（或能力），他们选择留下应该被视为这样处理（Kukathas 1992）。对于持有这种观点的人来说，努力使退出权利得以真正行使是非常重要的（Kukathas 2012；Holzleithner 2012）。在这样做的过程中，一个国家必须在提供资源给那些可能希望退出但没有能力在更大社会中立足的成员之间做出选择。在一些正统宗教社区中，财产是共同拥有的，个体成员没有任何个人财产或资源；结果，退出者在建立新生活时没有任何依靠。在其他社区中，成员受教育程度低，对自己社区之外的生活不熟悉，因此退出时没有能力在更大社会中维持自己。因此，接收国可以通过各种方式支持退出者，例如为退出的女性（和男性）提供庇护所，提供教育，以便他们最终能够作为主流社会的一员实现自给自足。支持退出者的选择可能会削弱文化自我保存的能力。但支持退出者并不被理解为否认文化保护权利；相反，这样做的选择源于国家保护所有成员权利的承诺，包括尽其所能保护最脆弱的成员。
+
+### 2.6 对抗文化丧失的权利
+
+上述文化保护权利应与略有不同的反对被迫文化丧失的权利区分开来，后者侧重于在潜在丧失是由外部力量强加的情况下进行保护，而这些外部力量是一个文化群体相对无力对抗的。当然，正如上文所强调的，文化变迁在某种形式上是不可避免的，特别是如果一个人持有文化作为对话的观点，那么文化实际上永远不是静态的。相反，一个文化在某个时期定义的实践、规范和价值观可能会因为一系列原因包括经济、环境和政治而不再是该文化的核心定义。因此，实际上一定程度的文化丧失是不可避免的，而且，它并不总是值得遗憾的。有时，这是对文化无法控制的外部因素的正常反应，有时，这是受欢迎的，因为变化导致了更好地保护人权或更具包容性的文化传统和实践。例如，一个文化群体可能选择调整他们的主要生产方式以应对不断变化的环境因素。因此，正如 Samuel Scheffler 所主张的，文化的强烈保守主义观点——即文化应该免受所有形式的变化影响——必须被拒绝（Scheffler 2007）。
+
+然而，尤其是少数文化群体有时可能有合理的理由认为他们无法保护自己免受不受欢迎的文化变化，或者他们无法控制变化的速度。他们因此可能有权获得国家支持的形式，以帮助他们创造条件，使他们能够抵抗不受欢迎的文化变化。例如，当语言少数群体请求国家支持以继续用少数语言教育儿童时，有时其理由是为了防止语言在面对采用或流利掌握多数语言的压力时被侵蚀。
+
+在其他情况下，多数群体积极致力于削弱少数文化，通常持续数年甚至数十年。例如，殖民国家曾对土著社区实施种族灭绝政策，旨在削弱他们作为独特民族生存的能力。因此，在评估文化丧失案例时，一个关键因素是转变是否被强加给少数群体，不一定是由于环境或经济条件的变化，而是由有意削弱文化的代理人，通过积极贬低它并因此采取行动以削弱其强劲延续的条件。外部的恶意因素引发的文化变化不仅令人遗憾，而且产生了赔偿的案例，例如对土著社区，当存在“剥夺、歧视或服从历史证据”时（Phillips 2018: 97）。
+
+### 2.7 文化辩护权
+
+在法律环境中，犯错者有时会使用文化辩护，解释说少数文化规范和价值观与大多数人的相冲突，这在解释他们为何犯错方面具有因果关系。因此，文化辩护有时被视为在确定惩罚时的相关减轻因素。提出文化辩护的权利通常是基于承认少数群体并不总是按照大多数人法律体系中所代表的价值观和规范运作的重要性，并且这些差异在法律领域中应得到一定的考虑。早期法院的裁决接受了这样的解释，例如，那些谋杀不忠伴侣的男性之所以这样做，是因为羞耻和愤怒与文化规范相关联。例如，声称“团体强奸”（在文化上被称为绑架婚姻）是由苗族文化规定的一种获得妻子的方式，其中妇女不仅是默许的，而且实际上是愿意的伙伴的男性，现在不再被认为在被控强奸的法律诉讼中有辩护权（Song 2005）。然而，随着各国意识到许多这些辩护实际上是对父权制、厌女主义态度的掩饰，无论是在某些少数群体中还是在更广泛的社区中，"文化"解释在主流法律领域中的影响力随着时间的推移而减弱。
+
+犯罪的“文化”辩护往往意味着将文化视为一个同质整体，以及将犯罪者而不是受害者对其解释拥有独家权利。但“尊重文化不能意味着顺从文化的权威认为正确的任何事物”（Gutmann 2003: 46）。此外，在法律领域对“尊重文化”的一般性要求可能忽视了文化期望类型之间的差异，这些差异可以从允许的行为、鼓励的行为到必要的行为，其中只有一部分可能被认为在法律上具有合理相关性（Vitikainen 2015: 162）。此外，它可能允许并鼓励将少数（尤其是非西方）文化描绘成刻板印象，并且“以一种鼓励对特定文化群体的人进行荒谬大概化的方式动员文化”（Phillips 2007: 81 & 99）。对文化辩护的不加批判接受所代表的危险在于将文化视为如此全面，以至于将其成员视为无法自主决策的人。但是，文化辩护的批评者说，这是一个错误——除了许多其他因素外，文化可以解释为参与错误行为的原因，但不应“被误认为是全部真相”（Phillips 2007: 98）。
+
+### 2.8 独家文化使用权（或反对文化挪用的权利）
+
+一些人声称拥有的最终文化权利是控制文化物品或表达形式的权利，或者一般情况下控制文化内容的使用（Matthes 2016）。这是最近关注文化挪用的争议中涉及的权利，文化挪用被定义为非成员使用“通常是对其他人有文化价值的东西，通常是符号或实践”（Lenard＆Balint 2020）。被指控从事文化挪用的熟悉例子包括白人编织发辫；将土著服装作为万圣节服装；在高级时尚中戴头巾；由没有南亚背景的教练教授瑜伽。在所有这些情况下，非成员被指控“挪用”了不属于他们自己的特定文化实践或符号。从这个观点来看，文化有权独家使用他们的文化“产品”，通常是因为这种实践被认为对他们的身份至关重要。这种观点备受争议，常常被那些观察到历史就是文化实践和符号的交融和共享，包括在烹饪、艺术、服装和精神实践领域的人嘲笑，他们认为这种权利主张依赖于一个随时间不变和不可改变的文化理解，这在历史上是不准确的，而且是不可取的。相应地，关键的文化物品最好被理解为属于“人类”：“体验和珍视艺术的不是民族：而是男人和女人”（Appiah 2009）。
+
+所声称的权利——对定义文化实践或符号的完全或独家使用权——也许不是最好由国家来强制执行，尽管国家可以并且确实会采取注意到文化挪用所造成的伤害的做法。例如，对艺术的集中支持，以资助艺术创作，可以对谁请求支持以生产什么进行敏感，并可以将资金指向来自特定传统的艺术家，他们旨在生产具有文化特定性的产品，并相应地拒绝（除非提供非常充分的理由）支持文化外部人士生产“内部”艺术（Rowell 1995；J. O. Young 2008）。在特定文化社区受到权力失衡的情况下，所声称的权利相对较强，文化社区明确要求多数社区“不要干涉”特定实践或符号，并且多数社区成员基于其对特定符号或实践的使用而获利（Lenard＆Balint 2020）。与其他情况一样，文化团体声称的权利在少数申请人与多数群体之间存在持续的不平等时最为强大。
+
+## 3. 多数文化权利主张
+
+第 2 节考虑了通常由少数群体提出的文化权利主张。多数群体也提出文化主张，特别是关于排斥他人进入其领土以及关于对被允许进入的人可以要求什么的问题。
+
+### 3.1 文化连续性和排斥权利
+
+大多数社区声称拥有文化权利的领域之一是移民领域。对于一些人来说，国家塑造自己文化的权利可以合法地成为排斥他人的理由，通常甚至是特定的他人。这种观点经常被归因于迈克尔·沃尔泽（Michael Walzer），他认为国家控制边界的权利与其控制自己文化的能力密切相关
+
+> 于其保卫自由和福利、政治和文化，以及致力于彼此和共同生活的一群人的能力。 （沃尔泽 1983 年：39，重点添加）
+
+因此，国家控制自己文化的权利是保护其“集体意识”的重要权利，如第 1 节所述。
+
+这一主张遭到许多学者的反对，原因有多个。其中一个原因是，声称一个国家可能因文化原因排斥潜在移民的说法往往实际上是试图制定歧视性立法，旨在排除那些据说信仰和实践与定义大多数文化价值观和规范不相容甚至破坏的移民。基于所谓文化原因的排斥往往是一个国家倾向于保持文化、宗教、种族和人种同质性的主张。历史上，一些国家明确从事这种歧视性做法，这些做法现在已被否定，包括例如 20 世纪初在北美实施的亚裔排斥法案的变体。
+
+在一些最近的案例中，也有同样的指控，比如美国实施所谓的穆斯林禁令，或者在叙利亚危机高峰期（2015 年）一些国家提出优先接纳基督徒难民的提议（Song 2018）。在移民政治理论家中，对歧视性移民政策的明确和隐含的否定是普遍的，即使是那些捍卫国家有权排斥潜在移民和难民的人，也有很多理由，包括为了保护文化（Miller 2005）。
+
+反对的第二个来源源于对大多数文化的更普遍的怀疑，即使这些文化对其成员确实有价值，也不应被视为足以理由排斥移民，尤其是急需的移民（“急需”一词取自 Song 2018）。即使承认文化对大多数人有价值，许多学者认为，保护文化不能成为排斥那些急需安全或生计的人的理由。
+
+然而，那些支持文化在某些情况下至少可以用来排斥移民的观点的人说，有理由认为应该将国家视为拥有文化连续性的权利（Miller 2005）。这种声称的权利看起来非常像上面描述的文化保护（或反对文化丧失）的权利，它强调的不是大多数人对自己文化的感情维度，而是其实用解释。根据这种观点，任何特定的国家都是由“共享的公共文化”所定义的，因为是共享的，它支撑着民主国家依靠以追求共同的政治和社会目标所依赖的信任。组成共享公共文化的任何特定价值并不是本身有价值的。相反，它是一组价值观、规范和实践的结合，产生了有价值的“我们”的文化，在其存在的情况下，信任更高；因此，愿意合作支持需要一些牺牲的政策的意愿也更高，包括例如，致力于重新分配社会政策，特别有利于那些最不幸的人（例如，参见 Gustavsson＆Miller 2019 中的论文）。因此，根据那些支持这些观点的人，一个试图以“文化”原因控制入境的国家既不是种族主义也不是歧视，而是寻求受控入境（而不是封闭边界），以便新来者可以在足够的时间内采纳足够多的定义价值观、规范和实践，以便获得并扩展支撑这些客观有价值物品的政策的信任。
+
+### 3.2 文化连续性和整合执行权利
+
+那些在入境国家层面上捍卫文化连续性权利的国家通常也会部署采纳和执行“整合”政策的权利，鼓励新来者采纳大多数规范和价值观，认为这种采纳发生得越快，入境本身就越快。整合政策要求新来者采纳大多数社区的规范和实践，而容纳政策要求大多数人容纳与定义大多数文化不同的实践。根据这种传统的多元文化观，移民被允许进入领土，然后成为成员的过程是一个“双向”的过程，要求新来者和接收国都要根据对方做出调整（Kymlicka 1998）。
+
+新移民融入文化的要求合理吗？要求移民采纳他们加入文化的核心规范、价值观和实践合理吗（这里我将不讨论经济和政治融合的问题）？请注意，在移民融入的政治和社会学文献中，融入（文化上）通常与同化区分开来，前者侧重于欢迎新移民带来的独特规范和价值观（因此在可能的情况下接纳他们），而后者要求移民尽可能完全地采纳主流社会的规范和价值观（Brubaker 2001；另请参阅 Modood 2007）。然而，在多元文化主义的政治理论文献中，普遍认为对完全同化的要求在规范上存在问题（它要求移民付出太多，放弃他们的历史和身份，作为加入新社区的一部分），但对融入的某种形式的鼓励是可以接受的。
+
+然而，融入的要求是否合理取决于至少两个相关因素：首先，取决于共享公共文化的内容，其次，取决于讨论这种公共文化内容的场所的可及性。文化讨论的空间既模糊又广阔。关键规范、实践和价值观的来源多种多样：有些是历史性的，有些是通过政治过程有意采纳的，有些是在应对偶发情况时无意中采纳的。在公共空间中讨论这些文化内容的要求，在新移民可以至少合理程度上采纳大多数文化的规范和实践的情况下更具有辩护性，尤其是在这些空间对众声开放且公开时。对于“可及性”这一概念的确切含义并不明确，而且进入这些空间的方式也没有以任何正式方式进行监控或管理，这是一个具有挑战性的问题。但关键点在于，只要文化在公共媒体、政治空间等领域欢迎并认真对待新声音，它们就可以被描述为公开可及。因此，要求遵守主流文化规范和实践作为融入过程的一部分的合法性与新移民对这些讨论空间的真正获取之间存在联系。
+
+在考虑第二个问题时，关于大多数共享公共文化的内容，我借鉴了民族主义政治理论的文献（尽管我并不认为民族主义本身的语言对于欣赏其与这里讨论的相关性是必要的）。文化可以通过更或少包容的特征来定义。当文化被定义为通常用来描述民族的特征，包括共同的历史、宗教、种族/种族，新来者不太容易加入并被认可为全面成员。另一方面，当文化被定义为通常用来描述公民国家的特征，包括对政治制度的共同承诺，通常还包括对自由民主原则的承诺，那么它们对新来者更加友好。用本条目早期采用的语言，被排他特征定义的文化更有可能将文化视为包容的，而采用包容特征并强调其内容在其中进行讨论的论坛的可及性的文化，则将文化视为对话或身份术语。然而，这并非必然如此，因为那些将文化视为对话术语的人可能仍然认为历史或宗教的关键元素对其至关重要（尽管他们愿意就这些元素是否至关重要进行讨论），同样，身份也可以基于排他性特征来制定。
+
+另一种定义包容性的方式是关注文化的主要规范、实践和价值观在新来者不放弃他们所重视的东西的情况下能否被接受（Lenard 2019）。关键在于定义一个包容性文化的可容许轮廓，同时又能够以解决哲学家所称的“特殊性”问题的方式将其与其他文化区分开来。如果文化仅仅被定义为对自由民主原则及实现这些原则的制度的承诺，那么一个人必然会致力于任何被这样定义的国家。但这一结论并不能解释这样一个现实，即许多公民对其国家对这些价值观的解释感到依恋——基本的、抽象的、自由民主原则以一种文化特定的方式被采纳、尊重和实施。因此，重要的是界定可容许的文化内容的边界，这可以包括对关键历史时刻、政治对话或文化偶像的认可。没有国家可以要求新来者情感上对其新国家有承诺；但它可以合理地传授关于可学习的关键文化标志的信息，鼓励新来者采纳相关的实践和规范，并希望随着时间推移，他们的情感认同至少部分地转向东道国。在东道国的公共文化内容合理可及的条件下，以及其中进行讨论的论坛同样合理可及的条件下，东道国可以合理地鼓励新来者的融入。这种权利或许最好被理解为国家在移民问题上声称的文化连续性权利的派生权利，只有在上述描述的可及性条件得到满足时才能被合理地主张。
+
+当然，并非所有学者都同意这一点，有些人完全拒绝了新来者可以被要求适应他们加入的国家文化的建议。那些持有这种观点变体的人将多数人的文化几乎总是同质化和压迫性地对待，这种方式对新来者是不尊重的，并将至少在某些方面要求融入的做法视为过去歧视和种族主义移民政策的“清理过”的变体（Abizadeh 2002）。这是一个真正的担忧。当荷兰要求来自多数穆斯林国家的潜在移民观看一部视频并通过测试才能进入其领土时——视频中展示了同性恋男子接吻和一个赤裸女人——它因其歧视意图而受到广泛谴责，而不是（如所声称的）试图确保移民能够接受据称表征该国文化的自由价值观。更普遍地说，鼓励学习和采纳多数文化价值观的机制，除了上述的实际内容外，以及未能这样做的后果，必须对其合理性进行审查。这种评估显然是一项棘手的工作，因为在许多（如果不是大多数）移民情况下，潜在的新来者在与东道国的关系中处于脆弱的境地：他们进入的兴趣非常强烈，因此在许多情况下，他们将接受强制促使他们融入的强硬尝试而不抱怨。
+
+## 4. 结论
+
+少数群体（其中许多是移民群体）和多数群体都声称“文化”是重要的，值得以多种方式予以照顾。本文从审视文化被理解的多种方式开始，以揭示在要求特定文化权利时如何使用文化。重要的是要注意，双方的这些文化主张往往是相互关联的：少数群体要求特定的文化权利，而多数群体则通过声称不同的文化权利做出回应。在许多情况下，尊重或忽视所声称的文化权利的选择是以这样的方式框定的，即这样做将对多数文化产生影响，例如，通过声称要求照顾的特定做法与多数文化普遍不兼容，或者有时更具体地说与被认为特别重要的特定做法或规范不兼容。例如，在法国，“头巾事件”期间就曾提出过这种主张——拒绝以伊斯兰（或犹太）宗教信仰的表现形式遮盖头部的权利，因为这种做法被认为损害了法国对世俗主义的承诺（Laborde 2008；Benhabib 2004）。
+
+本条目试图提供必要资源来裁决这些冲突，以认真对待那些要求文化权利的人和那些抵制尊重这些权利的人。希望未来的政治理论能够利用这一分类法，在这些冲突出现时找到令人满意的结论。
+
+## Bibliography
+
+* Abizadeh, Arash, 2002, “Does Liberal Democracy Presuppose a Cultural Nation? Four Arguments”, *American Political Science Review*, 96(3): 495–509. doi:10.1017/S000305540200028X
+* Appiah, Kwame Anthony, 2009, “Whose Culture Is It, Anyway?”, in *Cultural Heritage Issues: The Legacy of Conquest, Colonization and Commerce*, edited by James A. R. Nafziger and Ann Nicgorski, Leiden: Brill, 207–21.
+* Bakht, Natasha, 2007, “Religious Arbitration in Canada: Protecting Women by Protecting Them from Religion”, *Canadian Journal of Women and the Law*, 19(1): 119–144.
+* Barry, Brian, 2001, *Culture and Equality: An Egalitarian Critique of Multiculturalism*, Cambridge, MA: Harvard University Press.
+* Benhabib, Seyla, 2002, *The Claims of Culture: Equality and Diversity in the Global Era*, Princeton, NJ: Princeton University Press.
+* –––, 2004, *The Rights of Others: Aliens, Residents, and Citizens*, Cambridge, UK: Cambridge University Press. doi:10.1017/CBO9780511790799
+* Borchers, Dagmar and Annamari Vitikainen (eds.), 2012, *On Exit: Interdisciplinary Perspectives on the Right of Exit in Liberal Multicultural Societies*, Berlin, Boston: De Gruyter. doi:10.1515/9783110270860
+* Brubaker, Rogers, 2001, “The Return of Assimilation? Changing Perspectives on Immigration and Its Sequels in France, Germany, and the United States”, *Ethnic and Racial Studies*, 24(4): 531–548. doi:10.1080/01419870120049770
+* Burtt, Shelley, 1994, “Religious Parents, Secular Schools: A Liberal Defense of an Illiberal Education”, *The Review of Politics*, 56(1): 51–70. doi:10.1017/S0034670500049500
+* Carens, Joseph, 2005, “The Integration of Immigrants”, *Journal of Moral Philosophy*, 2(1): 29–46. doi:10.1177/1740468105052582
+* Casals, Neus Torbisco, 2006, *Group Rights as Human Rights: A Liberal Approach to Multiculturalism*, (Law and Philosophy Library 75), Dordrecht: Kluwer Academic Publishers. doi:10.1007/1-4020-4209-4
+* Deveaux, Monique, 2007, *Gender and Justice in Multicultural Liberal States*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199289790.001.0001
+* Dhamoon, Rita, 2006, “Shifting From ‘Culture’ to ‘the Cultural’: Critical Theorizing of Identity/Difference Politics”, *Constellations*, 13(3): 354–373. doi:10.1111/j.1467-8675.2006.00406.x
+* Eisenberg, Avigail, 2009, *Reasons of Identity: A Normative Guide to the Political and Legal Assessment of Identity Claims*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199291304.001.0001
+* Fraser, Nancy, 1995, “Recognition or Redistribution? A Critical Reading of Iris Young’s *Justice and the Politics of Difference*”, *Journal of Political Philosophy*, 3(2): 166–180. doi:10.1111/j.1467-9760.1995.tb00033.x
+* Ghosh, Cyril, 2018, *De-Moralizing Gay Rights: Some Queer Remarks on LGBT+ Rights Politics in the US*, Cham, Switzerland: Palgrave Macmillan. doi:10.1007/978-3-319-78840-1
+* Gustavsson, Gina and David Miller (eds.), 2019, *Liberal Nationalism and Its Critics: Normative and Empirical Questions*, Oxford: Oxford University Press. doi:10.1093/oso/9780198842545.001.0001
+* Gutmann, Amy, 2003, *Identity in Democracy*, Princeton, NJ: Princeton University Press.
+* Holzleithner, Elisabeth, 2012, “Interrogating Exit in Multiculturalist Theorizing: Conditions and Limitations”, in Borchers and Vitikainen 2012: 13–33. doi:10.1515/9783110270860.13
+* Kukathas, Chandran, 1992, “Are There Any Cultural Rights?”, *Political Theory*, 20(1): 105–139. doi:10.1177/0090591792020001006
+* –––, 2012, “Exit, Freedom and Gender”, in Borchers and Vitikainen 2012: 34–56. doi:10.1515/9783110270860.34
+* Kymlicka, Will, 1996, *Multicultural Citizenship: A Liberal Theory of Minority Rights*, Oxford: Oxford University Press.
+* –––, 1998, *Finding Our Way: Rethinking Ethnocultural Relations in Canada*, Toronto: Oxford University Press.
+* Laborde, Cecile, 2008, *Critical Republicanism: The Hijab Controversy and Political Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199550210.001.0001
+* Lenard, Patti Tamara.,2012, *Trust, Democracy and Multicultural Challenges*, University Park, PA: Pennsylvania University State Press.
+* –––, 2019, “Inclusive Identities: The Foundation of Trust in Multicultural Communities”, in Gustavsson and Miller 2019: 155–171. doi:10.1093/oso/9780198842545.003.0009
+* Lenard, Patti Tamara and Peter Balint, 2020, “What Is (the Wrong of) Cultural Appropriation?”, *Ethnicities*, 20(2): 331–52. doi:10.1177/1468796819866498
+* Levy, Jacob, 2000, *Multiculturalism of Fear*, Oxford: Oxford University Press. doi:10.1093/0198297122.001.0001
+* Margalit, Avishai and Moshe Halbertal, 1994, “Liberalism and the Right to Culture”, *Social Research: An International Quarterly*, 61(3): 491–510.
+* Margalit, Avishai and Joseph Raz, 1990, “National Self-Determination”:, *Journal of Philosophy*, 87(9): 439–461. doi:10.2307/2026968
+* Matthes, Erich Hatala, 2016, “Cultural Appropriation Without Cultural Essentialism?”, *Social Theory and Practice*, 42(2): 343–366. doi:10.5840/soctheorpract201642219
+* Mcbride, Cillian, 2009, “Demanding Recognition: Equality, Respect, and Esteem”, *European Journal of Political Theory*, 8(1): 96–108. doi:10.1177/1474885108096962
+* Miller, David, 2005, “Immigration: The Case for Limits”, in *Contemporary Debates in Applied Ethics*, Andrew Cohen and Christopher Wellman (eds), Malden: Blackwell Publishers, 193–207.
+* –––, 2016, “Majorities and Minarets: Religious Freedom and Public Space”, *British Journal of Political Science*, 46(2): 437–456. doi:10.1017/S0007123414000131
+* Modood, Tariq, 2007, *Multiculturalism: A Civic Idea*, Cambridge, UK: Polity Press.
+* Moore, Margaret, 1999, “Beyond the Cultural Argument for Liberal Nationalism”, *Critical Review of International Social and Political Philosophy*, 2(3): 26–47. doi:10.1080/13698239908403282
+* –––, 2019, “Liberal Nationalism and the Challenge of Essentialism”, in Gustavsson and Miller 2019: 188–202. doi:10.1093/oso/9780198842545.003.0011
+* Okin, Susan Moller, 1999, *Is Multiculturalism Bad for Women?* Princeton, NJ: Princeton University Press.
+* Parekh, Bhikhu, 2000, *Rethinking Multiculturalism: Cultural Diversity and Political Theory*, Basingstoke: Macmillan Press.
+* Parvin, Phil, 2008, “What’s Special About Culture? Identity, Autonomy, and Public Reason”, *Critical Review of International Social and Political Philosophy*, 11(3): 315–233. doi:10.1080/13698230802276447
+* Patten, Alan, 2014, *Equal Recognition: The Moral Foundations of Minority Rights*, Princeton, NJ: Princeton University Press.
+* Phillips, Anne, 2007, *Multiculturalism without Culture*, Princeton, NJ: Princeton University Press.
+* –––, 2010, “What’s Wrong with Essentialism?”, *Distinktion: Journal of Social Theory*, 11(1): 47–60. doi:10.1080/1600910X.2010.9672755
+* –––, 2018, “What Makes Culture Special?”, *Political Theory*, 46(1): 92–98. doi:10.1177/0090591717696023
+* Quong, Jonathan, 2006, “Cultural Exemptions, Expensive Tastes, and Equal Opportunities”, *Journal of Applied Philosophy*, 23(1): 53–71. doi:10.1111/j.1468-5930.2006.00320.x
+* Rowell, John, 1995, “The Politics of Cultural Appropriation”, *Journal of Value Inquiry*, 29(1): 137–142.
+* Scheffler, Samuel, 2007, “Immigration and the Significance of Culture”, *Philosophy & Public Affairs*, 35(2): 93–125. doi:10.1111/j.1088-4963.2007.00101.x
+* Shachar, Ayelet, 2001, *Multicultural Jurisdictions: Cultural Differences and Women’s Rights*, Cambridge, UK: Cambridge University Press. doi:10.1017/CBO9780511490330
+* Sniderman, Paul M. and Louk Hagendoorn, 2007, *When Ways of Life Collide*, Princeton, NJ: Princeton University Press.
+* Song, Sarah, 2005, “Majority Norms, Multiculturalism, and Gender Equality”, *American Political Science Review*, 99(4): 473–489. doi:10.1017/S0003055405051828
+* –––, 2009, “The Subject of Multiculturalism: Culture, Religion, Language, Ethnicity, Nationality, and Race?”, in *New Waves in Political Philosophy*, Boudewijn de Bruin and Christopher F. Zurn (eds.), London: Palgrave Macmillan UK, 177–197. doi:10.1057/9780230234994_10
+* –––, 2018, *Immigration and Democracy*, Oxford: Oxford University Press. doi:10.1093/oso/9780190909222.001.0001
+* Spinner-Halev, Jeff, 2000, *Surviving Diversity: Religion and Democratic Citizenship*, Baltimore, MD: Johns Hopkins University Press.
+* Tully, James, 1995, *Strange Multiplicity: Constitutionalism in the Age of Diversity*, Cambridge, UK: Cambridge University Press.
+* Vitikainen, Annamari, 2015, *The Limits of Liberal Multiculturalism: Towards an Individuated Approach to Cultural Diversity*, London: Palgrave Macmillan UK. doi:10.1057/9781137404626
+* Walzer, Michael, 1983, *Spheres of Justice: A Defense of Pluralism and Equality*, New York: Basic Books.
+* Young, Iris Marion, 2004, “Two Concepts of Self-Determination”, in *Ethnicity, Nationalism, and Minority Rights*, Stephen May, Tariq Modood, and Judith Squires (eds.), Cambridge, UK: Cambridge University Press, 176–196. doi:10.1017/CBO9780511489235.009
+* Young, James O., 2008, *Cultural Appropriation and the Arts*, Malden, MA: Blackwell.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=culture). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/culture/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=culture&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/culture/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Sikh Faith FAQs](https://www.worldsikh.org/sikh_faith), World Sikh Organization of Canada.
+
+## Related Entries
+
+[citizenship](https://plato.stanford.edu/entries/citizenship/) | [cultural heritage, ethics of](https://plato.stanford.edu/entries/ethics-cultural-heritage/) | [culture: and cognitive science](https://plato.stanford.edu/entries/culture-cogsci/) | [identity](https://plato.stanford.edu/entries/identity/) | [multiculturalism](https://plato.stanford.edu/entries/multiculturalism/) | [rights: group](https://plato.stanford.edu/entries/rights-group/)
+
+### Acknowledgments
+
+I would like to thank Matthias Hoesch, Margaret Moore, and Stéfanie Morris for comments on an earlier draft of this entry.
+
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
+Patti Tamara Lenard <[*Patti.Lenard@uottawa.ca*](mailto:Patti%2eLenard%40uottawa%2eca)>
