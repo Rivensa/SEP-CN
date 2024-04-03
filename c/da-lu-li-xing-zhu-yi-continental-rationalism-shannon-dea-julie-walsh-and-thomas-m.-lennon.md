@@ -1,24 +1,23 @@
 # 大陆理性主义 Continental Rationalism (Shannon Dea, Julie Walsh, and Thomas M. Lennon)
 
-*首次发布于2007年11月21日星期三；实质性修订于2017年11月6日星期一。*
+_首次发布于2007年11月21日星期三；实质性修订于2017年11月6日星期一。_
 
 “大陆理性主义”这个表达指的是在17世纪后两个三分之二和18世纪初活跃在欧洲大陆的一些哲学家所持有的一套观点。理性主义通常被描述为一种认识论立场。根据这一观点，要成为一名理性主义者，至少需要满足以下条件之一：（1）将理性和直觉置于感觉和经验之上，（2）将所有或大多数观念视为与生俱来而非后天习得，（3）强调确定性而非仅仅是可能性的知识作为探究的目标。虽然所有大陆理性主义者都符合这些标准中的一个或多个，但这可能是更深层次联系的结果，即对实体现实的形而上学承诺，特别是将实体视为统一的基本原则。
 
 * [介绍：理性主义与实质](https://plato.stanford.edu/entries/continental-rationalism/#IntrRatiSubs)
 * [笛卡尔及其批评者](https://plato.stanford.edu/entries/continental-rationalism/#DescHisCrit)
 * [马勒布朗什和坎文迪许](https://plato.stanford.edu/entries/continental-rationalism/#MaleCave)
-* [ 4. 斯宾诺莎](https://plato.stanford.edu/entries/continental-rationalism/#Spin)
+* [4. 斯宾诺莎](https://plato.stanford.edu/entries/continental-rationalism/#Spin)
 * [莱布尼茨和康威](https://plato.stanford.edu/entries/continental-rationalism/#LeibConw)
 * [超越大陆理性主义：其他声音](https://plato.stanford.edu/entries/continental-rationalism/#BeyoContRatiOtheVoic)
-* [ 参考文献](https://plato.stanford.edu/entries/continental-rationalism/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/continental-rationalism/#PrimSour)
-  * [ 次级来源](https://plato.stanford.edu/entries/continental-rationalism/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/continental-rationalism/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/continental-rationalism/#Bib)
+  * [主要来源](https://plato.stanford.edu/entries/continental-rationalism/#PrimSour)
+  * [次级来源](https://plato.stanford.edu/entries/continental-rationalism/#SecoSour)
+* [学术工具](https://plato.stanford.edu/entries/continental-rationalism/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/continental-rationalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/continental-rationalism/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/continental-rationalism/#Rel)
 
----
+***
 
 ## 介绍：理性主义与实质
 
@@ -150,148 +149,148 @@
 
 #### Amo
 
-* *The Apatheia of the Human Mind*, *or The Absence of Sensation and the Faculty of Sense in the Human Mind and Their Presence in our Organic and Living Body*, William Abraham (trans.), in *Antonius Gviliemus Amo, Afer of Axim, Translation of his Works*, Halle: Martin Luther University, Halle-Wittenberg, 1968.
+* _The Apatheia of the Human Mind_, _or The Absence of Sensation and the Faculty of Sense in the Human Mind and Their Presence in our Organic and Living Body_, William Abraham (trans.), in _Antonius Gviliemus Amo, Afer of Axim, Translation of his Works_, Halle: Martin Luther University, Halle-Wittenberg, 1968.
 
 #### Astell
 
-* *Astell: Political Writings*, P. Springborg (ed.), Cambridge: Cambridge University Press, 1996.
-* *A Serious Proposal to the Ladies. Parts I and II*, P. Springborg (ed.), Ontario: Broadview Literary Texts, 2002.
-* *The Christian Religion, As Professed by a Daughter of the Church of England*, J. Broad (ed.), Toronto, ON: Centre for Reformation and Renaissance Studies and Iter Publishing, 2013.
+* _Astell: Political Writings_, P. Springborg (ed.), Cambridge: Cambridge University Press, 1996.
+* _A Serious Proposal to the Ladies. Parts I and II_, P. Springborg (ed.), Ontario: Broadview Literary Texts, 2002.
+* _The Christian Religion, As Professed by a Daughter of the Church of England_, J. Broad (ed.), Toronto, ON: Centre for Reformation and Renaissance Studies and Iter Publishing, 2013.
 
 #### Cavendish
 
-* *Observations upon Experimental Philosophy*, Eileen O’Neill (ed.). Cambridge: Cambridge University Press, 2001.
+* _Observations upon Experimental Philosophy_, Eileen O’Neill (ed.). Cambridge: Cambridge University Press, 2001.
 
 #### Conway
 
-* *Principles of the Most Ancient and Modern Philosophy*, Allison P. Coudert and Taylor Corse (eds.). Cambridge: Cambridge University Press, 1996.
+* _Principles of the Most Ancient and Modern Philosophy_, Allison P. Coudert and Taylor Corse (eds.). Cambridge: Cambridge University Press, 1996.
 
 #### Descartes
 
-* *Oeuvres De Descartes*, 11 vols., C. Adam and P. Tannery, Eds., Paris: Librairie Philosophique J. Vrin, 1983.
-* *The Philosophical Writings of Descartes*, 3 vols., J. Cottingham, R. Stoothoff, and D. Murdoch, Trans. Vol. 3 including A. Kenny, Trans., Cambridge: Cambridge University Press, 1984–88.
-* *The Correspondence Between Princess Elisabeth of Bohemia and René Descartes*, Lisa Shapiro (ed. and trans.), Chicago: University of Chicago Press, 2007.
+* _Oeuvres De Descartes_, 11 vols., C. Adam and P. Tannery, Eds., Paris: Librairie Philosophique J. Vrin, 1983.
+* _The Philosophical Writings of Descartes_, 3 vols., J. Cottingham, R. Stoothoff, and D. Murdoch, Trans. Vol. 3 including A. Kenny, Trans., Cambridge: Cambridge University Press, 1984–88.
+* _The Correspondence Between Princess Elisabeth of Bohemia and René Descartes_, Lisa Shapiro (ed. and trans.), Chicago: University of Chicago Press, 2007.
 
 #### Malebranche
 
-* *Œuvres complètes de Malebranche*, 20 vols., A. Robinet (ed.), Paris: J. Vrin, 1958–84.
-* *Dialogues on Metaphysics*, W. Doney, Trans., New York: Abaris Books, 1980.
-* *Dialogue between a Christian Philosopher and a Chinese Philosopher on the Existence and Nature of God*, D. A. Iorio (trans.), Washington: Catholic University Press, 1980.
-* *Treatise on Ethics*, C. Walton (trans.), Dordrecht: Kluwer, 1993.
-* *Dialogues on Metaphysics and on Religion*, N. Jolley and D. Scott (trans.), Cambridge: Cambridge University Press, 1997.
-* *The Search after Truth*, T. M. Lennon and P. J. Olscamp (trans.), Cambridge: Cambridge University Press, 1997.
+* _Œuvres complètes de Malebranche_, 20 vols., A. Robinet (ed.), Paris: J. Vrin, 1958–84.
+* _Dialogues on Metaphysics_, W. Doney, Trans., New York: Abaris Books, 1980.
+* _Dialogue between a Christian Philosopher and a Chinese Philosopher on the Existence and Nature of God_, D. A. Iorio (trans.), Washington: Catholic University Press, 1980.
+* _Treatise on Ethics_, C. Walton (trans.), Dordrecht: Kluwer, 1993.
+* _Dialogues on Metaphysics and on Religion_, N. Jolley and D. Scott (trans.), Cambridge: Cambridge University Press, 1997.
+* _The Search after Truth_, T. M. Lennon and P. J. Olscamp (trans.), Cambridge: Cambridge University Press, 1997.
 
 #### Spinoza
 
-* *Spinoza Opera*, 5 volumes. C. Gebhardt (Ed.), Heidelberg: Carl Winter, 1925–87.
-* *The Collected Writings of Spinoza*, E. Curley (trans. and ed.), Princeton: Princeton University Press, 1985. *Complete Works*, S. Shirley (trans.), M. Morgan (ed.), Indianapolis: Hackett, 2002.
+* _Spinoza Opera_, 5 volumes. C. Gebhardt (Ed.), Heidelberg: Carl Winter, 1925–87.
+* _The Collected Writings of Spinoza_, E. Curley (trans. and ed.), Princeton: Princeton University Press, 1985. _Complete Works_, S. Shirley (trans.), M. Morgan (ed.), Indianapolis: Hackett, 2002.
 
 #### Leibniz
 
-* *Gottfried Wilhelm Leibniz: Sämtliche Schriften und Briefe*, German Academy of Science, Darmstadt and Berlin: Berlin Academy, 1923–.
-* *Philosophical Essays*, R. Ariew and D. Garber (eds. and trans.), Indianapolis: Hackett, 1989.
-* *Opuscules et Fragments In**é**dits de Leibniz*, L. Couturat (ed.), Paris: Felix Alcan, 1903.
-* *Leibnizens Mathematische Schriften*, C. I. Gerhardt (ed.), Berlin: Weidman, 1875–90.
-* *Die Philosophischen Schriften von Gottfried Wilhelm Leibniz*, C.I. Gerhardt (ed.), Berlin: Weidman, 1875–90. *Theodicy*, A. Farrer (ed.) and E. Huggard (trans.), New Haven: Yale University Press, 1952.
-* *Philosophical Papers and Letters*, L. Loemker (ed.), 2nd ed., Dordrecht: Reidel, 1969. *Philosophical Writings*, M. Morris and G. Parkinson (eds. and trans.), London: Dent, 1973.
-* *New Essays on Human Understanding*, P. Remnant and J. Bennett (ed. and trans.), Cambridge: Cambridge University Press, 1982.
-* *Leibniz: Selections*, P. Wiener (Ed.), New York: Charles Scribner’s Sons, 1951.
+* _Gottfried Wilhelm Leibniz: Sämtliche Schriften und Briefe_, German Academy of Science, Darmstadt and Berlin: Berlin Academy, 1923–.
+* _Philosophical Essays_, R. Ariew and D. Garber (eds. and trans.), Indianapolis: Hackett, 1989.
+* _Opuscules et Fragments In**é**dits de Leibniz_, L. Couturat (ed.), Paris: Felix Alcan, 1903.
+* _Leibnizens Mathematische Schriften_, C. I. Gerhardt (ed.), Berlin: Weidman, 1875–90.
+* _Die Philosophischen Schriften von Gottfried Wilhelm Leibniz_, C.I. Gerhardt (ed.), Berlin: Weidman, 1875–90. _Theodicy_, A. Farrer (ed.) and E. Huggard (trans.), New Haven: Yale University Press, 1952.
+* _Philosophical Papers and Letters_, L. Loemker (ed.), 2nd ed., Dordrecht: Reidel, 1969. _Philosophical Writings_, M. Morris and G. Parkinson (eds. and trans.), London: Dent, 1973.
+* _New Essays on Human Understanding_, P. Remnant and J. Bennett (ed. and trans.), Cambridge: Cambridge University Press, 1982.
+* _Leibniz: Selections_, P. Wiener (Ed.), New York: Charles Scribner’s Sons, 1951.
 
 ### Secondary Sources
 
-* Abraham, William, 1964, “The Life and Times of Anton Wilhelm Amo”, *Transactions of the Historical Society of Ghana*, 7: 60–81. [A biography of Amo.]
-* Adams, Robert Merrihew, 1994, *Leibniz: Determinist, Theist, Idealist*, Oxford: Oxford University Press. [A careful and penetrating study that benefits from the author’s extensive of knowledge of Leibniz’s *oeuvre*.]
-* Allison, Henry, 1987, *Benedict de Spinoza: An Introduction*, New Haven: Yale University Press. [A classic work by an eminent Spinoza scholar. Suitable for beginners, but also useful for those well-versed in Spinoza.]
-* Atherton, Margaret, 1993, “Cartesian Reason and Gendered Reason”, *A Mind of One’s Own: Feminist Essays on Reason and Objectivity*, Eds. Louise Antony and Charlotte Witt, Boulder: Westview Press. [Against arguments that Descartes’s conception of rationality served to exclude women, Atherton here adduces evidence that some early modern women philosophers regarded Cartesian reason as egalitarian, and were encouraged by it in their work.]
-* –––, 1996, “Lady Mary Shepherd’s Case Against George Berkeley”, *British Journal for the History of Philosophy*, 4(2): 347–366. [An analysis of Shepherd’s objections to Hume, and the manner in which she distinguishes her view from Berkeley’s.]
-* –––, 2005, “Reading Lady Mary Shepherd”, *The Harvard Review of Philosophy*, 13(2):73–85. [An introduction to both Shepherd’s biography and her philosophical disputes with Dugald Stewart and John Fearn.]
-* Bennett, Jonathan, 1984, *A Study of Spinoza’s Ethics*, Indianapolis: Hackett Publishing. [A clear, penetrating study of Spinoza whose arguments and analogies have entered the scholarly idiom. Essential reading for Spinozists.]
-* Bermúdez, José Luis, 1997, “Scepticism and Science in Descartes”, *Philosophy and Phenomenological Research*, 57(4): 743–772. [An argument for separating the importance of scepticism for motivating Descartes’s project and our interpretation of him as a canonical rationalist.]
-* Bolton, Martha Brandt, 201, “Causality and Causal Induction: The Necessitarian Theory of Lady Mary Shepherd”, in *Causation and Modern Philosophy*, Keith Allen and Tom Stoneham (eds.), 242–261. New York/Routledge. [A detailed look at Shepherd’s views of cause, causal principles, and mathematical induction. The latter topic includes some discussion of Shepherd’s dispute with Dugald Stewart.]
-* Bordo, Susan, 1987, *The Flight to Objectivity: Essays on Cartesianism and Cultu*re, Albany: State University of New York Press. [A classic feminist psychoanalytic study of Descartes’s *Meditations*. *Inter alia*, Bordo argues that Descartes reconceives rationality as paradigmatically masculine.]
-* Boyle, Deborah, 2009, *Descartes on Innate Ideas*, London: Continuum. [A comprehensive study of Descartes’s nativism. Boyle argues that, for Descartes, we have implicit knowledge of our innate ideas, and that reflection is required to make the knowledge explicit. The volume includes a thorough survey and critique of the secondary literature on innate ideas in Descartes.]
-* Bryson, Cynthia B, 1998, “Mary Astell: Defender of the ‘Disembodied Mind’”, *Hypatia*, 13(4): 40–62. [An argument in favor of Astell being the first English, woman feminist. Bryson argues that Astell’s version of Cartesian dualism allows her to reject the subordination of women, and her rejection of the possibility of “thinking matter” allows her to reject the kinds of social contracts between men and women that Locke endorsed in his political system.]
-* Carriero, John, 1995, “On the Relationship Between Mode and Substance in Spinoza’s Metaphysics”, *Journal of the History of Philosophy*, 33(2): 245–73. [Carriero traces the medieval Aristotelian influence of Spinoza’s substance/mode distinction, and in so doing challenges Curley’s argument that Spinozist modal dependence is causal dependence.]
-* Cottingham, John, 1984, *Rationalism*, London: Paladin Books. [A concise, accessible survey of issues in both early modern and contemporary rationalism.]
-* Curley, Edwin, 1988, *Behind the Geometric Method*, Princeton: Princeton University Press. [A brief, persuasive argument for a naturalistic understanding of Spinoza’s *Ethics* by a leader in the field.]
-* Della Rocca, Michael, 1996, *Representation and the Mind-Body Problem in Spinoza*, Oxford: Oxford University Press. [The authoritative work on Spinoza’s theory of ideas.]
-* –––, 2005, “Descartes, the Cartesian Circle, and Epistemology without God”, *Philosophy and Phenomenological Research*, 70(1): 1–33. [An interpretation of Descartes’s system that would allow him to escape the circle objection.]
-* –––, 2008, *Spinoza*, London and New York: Routledge. [An accessible introduction to Spinoza’s main doctrines, with a useful sketch of the historical context.]
-* Detlefsen, Karen, 2006, “Atomism, Monism, and Causation in the Natural Philosophy of Margaret Cavendish”, *Oxford Studies in Early Modern Philosophy*, 3: 199–240. [A discussion of the tension between Cavendish’s monism and her anti-atomism.]
-* Donagan, Alan, 1988, *Spinoza*, Chicago: University of Chicago Press. [A spare, compulsively readable interpretation of Spinoza’s mature work as a whole, with an emphasis on his naturalism.]
-* Fantl, Jeremy, 2016, “Mary Shepherd on Causal Necessity”, *Metaphysica*, 17(1): 87–108. [An argument that Shepherd’s anti-Humeanism is actually stronger than has been heretofore appreciated.]
-* Fraenkel, Carlos, Dario Perinetti, and Justin Smith, Eds, 2010, *The Rationalists: Between Tradition and Innovation*, Dordrecht: Springer. [Essays on varied topics by key thinkers in the field, all of them devoted to understanding and problematizing the category of rationalism by considering aspects of key rationalist figures in their historical contexts.]
-* Frankfurt, Harry, 1965, “Descartes’ Validation of Reason”, *American Philosophical Quarterly*, 2: 149–56. [A seminal work dealing with the alleged circularity of Descartes’s *Meditations*.]
-* Garber, Daniel and Michael Ayers, Eds., 1998, *The Cambridge History of Seventeenth* *Century Philosophy*, 2 vols., Cambridge: Cambridge University Press. [This collection provides a comprehensive look at the relevant philosophical period, with invaluable material about the historical and social context.]
-* Garrett, Don, Ed., 1996, *The Cambridge Companion to Spinoza*, Cambridge and New York: Cambridge University Press. [Essays on all aspects of Spinoza’s thought by top Spinoza scholars.]
-* Goldstone, Jack, 1998, “The Problem of the ‘Early Modern’ World”, *Journal of the Economic and Social History of the Orient*, 41(3): 249–284. [An influential problematization of the “early modern” periodization that in particular identifies the eurocentrism and the myth of progress on which the periodization trades. Goldstone also explores inconsistencies between the manner in which the boundaries of the early modern era are drawn and usual conventions in historical periodization.]
-* Guéroult, Martial, 1968, *Spinoza I: Dieu*, Paris: Georg Olms. [Guéroult is credited with having dealt Wolfson’s subjectivist account of Spinoza’s attributes its death blow.]
-* Hagengruber, Ruth, 2015, “Cutting Through the Veil of Ignorance: Rewriting the History of Philosophy”, *The Monist*, 98: 34–42. [An argument in favor of taking the philosophical writings of women through the history of philosophy as contributions of general relevance to this history.]
-* Harth, Erica, 1991, “Cartesian Women”, *Yale French Studies* 80: 146–164. [A useful study of the thought of French Cartesian women, especially those who were prominent in the philosophical salons of the seventeenth century.]
-* Huenemann, Charles, 2008, *Understanding Rationalism*, Durham, UK: Acumen. [A clear and helpful introduction to Descartes, Spinoza and Leibniz, written for college juniors.]
-* Ishiguro, Hidé, 1972, *Leibniz’s Philosophy of Logic and Language*, Ithaca, New York: Cornell University Press. [A clear, untechnical discussion of Leibniz’s arguments considered in light of contemporary angloamerican logic.]
-* Jolley, Nicholas (editor), 1995, *The Cambridge Companion to Leibniz*, Cambridge: Cambridge University Press. [Essays on all aspects of Leibniz’s thought by top Leibniz scholars.]
-* Kenny, Anthony, 1998, “Descartes on the Will”, in John Cottingham (ed.), *Descartes*, Oxford: Oxford University Press, pages 132–60. First appeared in R.J. Butler (ed.), 1973, *Cartesian Studies*, New York: Barnes and Noble. [Articulation of the “freedom of perversity” interpretation of Descartes’s discussions with Mesland on freedom.]
-* Kenny, Anthony (editor), 1986, *Rationalism, Empiricism and Idealism*, Oxford: Oxford University Press. [A useful collection, mostly of lectures delivered at the British Academy by leading scholars of early modern philosophy.]
-* Krause, Andrej, 2009, “Amo’s Ontology”, *Philosophia Africana*, 12(2): 141–157. [A discussion of Amo’s general ontology and how it informs his commitment to the insensitivity of the human soul.]
-* Lascano, Marcy, 2013, “Anne Conway: Bodies in the Spiritual World”, *Philosophy Compass*, 8(4): 327–336. [A defense of Conway’s articulation of her monism, with an emphasis on the important role for “body” in a system where the only substance is spirit.]
-* Lennon, Thomas M., 1993, *The Battle of the Gods and Giants: The Legacies of Descartes and Gassendi, 1655–1715*, Princeton: Princeton University Press. [An account of the contest between the Cartesians and their principal opponents as an extension of the battle that Plato depicts in the *Sophist* between the materialists and the friends of the forms.]
-* Lewis, Geneviève (Rodis), 1950, *L’individualité selon Descartes*, Paris: J.Vrin. [Discusses all the texts on both sides of the question of the uniqueness of extended substance.]
-* Lin, Martin, 2011, “Rationalism and Necessitarianism”, *Noûs*, 46(3): 418–448. [A discussion of Spinoza’s and Leibniz’s disagreement over whether metaphysical rationalism leads to necessitarianism.]
-* Lloyd, Genevieve, 1993, *The Man of Reason: “Male” and “Female” in Western Philosophy*, 2nd Ed., London: Routledge [This influential feminist study traces the construction of reason as masculine in the history of Western philosophy. Lloyd sees Descartes’s method as a crucial move in the historical philosophical centering of masculine thought.]
-* Loeb, Louis, 1981, *From Descartes to Hume: Continental Metaphysics and the Development of Modern Philosophy*, Ithaca and London: Cornell University Press. [Loeb famously challenges the rationalist-empiricist divide, arguing that important aspects of Locke’s and Berkeley’s thought are rationalist in character.]
-* Mates, Benson, 1986, *The Philosophy of Leibniz: Metaphysics & Language*, Oxford: Oxford University Press. [An internalist reading of Leibniz focusing in particular on logical issues and on Leibniz’s nominalism.]
-* McCracken, Charles J., 1983, *Malebranche and British Philosophy*, Oxford: Clarendon Press. [A classic account of Malebranche’s influence on British philosophy, which also contains a wonderful 100 page account of Malebranche’s system.]
-* Melamed, Yitzhak, 2013, “Spinoza’s Metaphysics of Thought: Parallelisms and the Multifaceted Structure of Ideas”, *Philosophy and Phenomenological Research*, 86(3): 636–683. [A reinterpretation of Spinozist parallelism that seeks to resolve why human beings can only know two of substance’s infinite attributes.]
-* Merchant, Carolyn, 1979, “The Vitalism of Anne Conway: Its Impact on Leibniz’s Concept of the Monad”, *Journal of the History of Philosophy*, 17(3): 255–269. [A discussion of Conway’s system, and her influence on Leibniz.]
-* Moreau, Joseph, 1947, “Malebranche et le spinozisme”, in Joseph Moreau (ed.), *Malebranche: Correspondance avec J.-J. Dortous de Mairan*, Paris: Vrin, pages 1–99. [Moreau provides an excellent introduction to and analysis of this correspondence in his introduction to this edition of the correspondence.]
-* Nadler, Steven., Ed., 1993, *Causation in Early Modern Philosophy: Cartesianism, Occasionalism, and Preestablished Harmony*, University Park: Pennsylvania State University Press. [A collection of essays concerning the three main rationalist theories of causation. The essays in this collection consider not only the major figures discussed in the above article, but also a number of intermediate and minor figures.]
-* Nelson, Alan, Ed., 2005, *A Companion to Rationalism*, Oxford, Blackwell. [An ably edited collection of essays devoted to the historical antecedents of rationalism, to the movement’s “golden age” and to rationalist elements in contemporary thought.]
-* Norton, David Fate, 1981, “The Myth of British Empiricism”, *History of European Ideas*, 1(4): 331–344. [An argument problematizing the very category of “British Empiricism.”]
-* Okruhlik, Kathleen and James R. Brown, Eds., 1985, *The Natural Philosophy of Leibniz*, Dordrecht: D. Reidel. [A challenging collection devoted to the role of physics and natural philosophy in the development of Leibniz’s thought.]
-* Perry, Ruth, 1986, *The Celebrated Mary Astell: An Early English Feminist,* Chicago, University of Chicago Press. [An influential intellectual biography of Astell.]
-* Peterman, Alison, 2015, “Spinoza on Extension”, *Philosophers’ Imprint*, 15(14): 1–23. [An argument against the interpretation that Spinoza takes extension in space to be a fundamental property of physical things.]
-* Rozemond, Marleen, 1998, *Descartes’s Dualism*, Cambridge: Harvard University Press. [A thorough account of the topic indicated, including valuable scholastic background.]
-* Russell, Bertrand, 1992, *A Critical Exposition of the Philosophy of Leibniz*, London: Routledge. [First published in 1900, this work includes Russell’s classic arguments that the basis of Leibniz’s thought lies in his Aristotelian logic, and that, for Leibniz, relational properties are merely ideal.]
-* Schmaltz, Tad, 2002, *Radical Cartesianism: The French reception of Descartes*, Cambridge: Cambridge University Press. [A treatment of those few—specifically, Desgabets and Régis—who accepted Descartes’s doctrine of created truth.]
-* Shapiro, Lisa, 2007, “Volume Editor’s Introduction”, in Lisa Shapiro (ed. & trans.), *The Correspondence Between Princess Elisabeth of Bohemia and René Descartes*, Chicago: University of Chicago Press. [The definitive analysis of this correspondence.]
-* –––, 2008, “Princess Elisabeth and Descartes: The Union of Soul and Body and the Practice of Philosophy”, *British Journal for the History of Philosophy*, 7(3): 503–520. [An argument in favor of viewing Elisabeth as a philosopher in her own right, and not merely a correspondent of Descartes.]
-* Sharp, Hasana, 2012, “Eve’s Perfection: Spinoza on Sexual (In)Equality”, *Journal of the History of Philosophy* 50(4): 559–580. [A study of inconsistencies in Spinoza’s account of women’s capacities.]
-* Smith, Justin, 2015, *Nature, Human Nature, & Human Difference: Race in Early Modern Philosophy*, Princeton: Princeton University Press. [A useful study of the construction of race in early modernity and its interactions with the philosophical thought of the day.]
-* Sowaal, Alice, 2004, “Cartesian Bodies”, *Canadian Journal of Philosophy*, 34(2): 217–40. [This useful article sorts Descartes’s inconsistent language about substance in terms of levels.]
-* –––, 2007, “Mary Astell’s Serious Proposal: Mind, Method, and Custom”, *Philosophy Compass*, 2(2): 227–243. [A discussion of Astell’s theory of mind.]
-* –––, 2015, “Mary Astell”, The Stanford Encyclopedia of Philosophy (Winter 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2015/entries/astell/>.
-* Sutherland, Christine Mason, 2005, *The Eloquence of Mary Astell*, Calgary: University of Calgary Press. [A recent study of Astell’s importance as a rhetorician.]
-* Tollefsen, Deborah, 1999, “Princess Elisabeth and the Problem of Mind-Body Interaction”, *Hypatia*, 14(3): 59–77. [A discussion of Elisabeth’s objections to Descartes’s dualism.]
-* Wilson, Aaron, 2016, Peirce’s Empiricism: Its Roots and Its Originality, Lanham: Lexington Books. [This study of American Pragmatist Charles Sanders Peirce contains a useful chapter on the history of the rationalism-empiricism distinction.]
-* Wilson, Margaret Dauler, 1982, *Descartes*, New York: Routledge. [See Chapter Three for a clear and useful discussion of Descartes’s doctrine of created truths.]
-* Wiredu, Kwasi, 2004, “Amo’s Critique of Descartes’ Philosophy of Mind”, in Kwasi Wiredu (ed.), *A Companion to African Philosophy*, Malden, Massachusetts: Blackwell Publishing, Ltd., pages 200–206. [Introduction to Amo’s biography, and main lines of his critique against Descartes’s theory of mind.]
-* Wolfson, Harry, 1934, *The Philosophy of Spinoza*, 2 vols., Cambridge, MA: Harvard University Press. [Wolfson’s is still the classic argument for the subjectivist account of attributes in Spinoza.]
-* Woolhouse, R.S., 1993, *Descartes, Spinoza, Leibniz: The Concept of Substance in Seventeenth Century Metaphysics*, London and New York: Routledge. [A deep account of many of the themes covered here, with something of value for readers at all levels.]
+* Abraham, William, 1964, “The Life and Times of Anton Wilhelm Amo”, _Transactions of the Historical Society of Ghana_, 7: 60–81. \[A biography of Amo.]
+* Adams, Robert Merrihew, 1994, _Leibniz: Determinist, Theist, Idealist_, Oxford: Oxford University Press. \[A careful and penetrating study that benefits from the author’s extensive of knowledge of Leibniz’s _oeuvre_.]
+* Allison, Henry, 1987, _Benedict de Spinoza: An Introduction_, New Haven: Yale University Press. \[A classic work by an eminent Spinoza scholar. Suitable for beginners, but also useful for those well-versed in Spinoza.]
+* Atherton, Margaret, 1993, “Cartesian Reason and Gendered Reason”, _A Mind of One’s Own: Feminist Essays on Reason and Objectivity_, Eds. Louise Antony and Charlotte Witt, Boulder: Westview Press. \[Against arguments that Descartes’s conception of rationality served to exclude women, Atherton here adduces evidence that some early modern women philosophers regarded Cartesian reason as egalitarian, and were encouraged by it in their work.]
+* –––, 1996, “Lady Mary Shepherd’s Case Against George Berkeley”, _British Journal for the History of Philosophy_, 4(2): 347–366. \[An analysis of Shepherd’s objections to Hume, and the manner in which she distinguishes her view from Berkeley’s.]
+* –––, 2005, “Reading Lady Mary Shepherd”, _The Harvard Review of Philosophy_, 13(2):73–85. \[An introduction to both Shepherd’s biography and her philosophical disputes with Dugald Stewart and John Fearn.]
+* Bennett, Jonathan, 1984, _A Study of Spinoza’s Ethics_, Indianapolis: Hackett Publishing. \[A clear, penetrating study of Spinoza whose arguments and analogies have entered the scholarly idiom. Essential reading for Spinozists.]
+* Bermúdez, José Luis, 1997, “Scepticism and Science in Descartes”, _Philosophy and Phenomenological Research_, 57(4): 743–772. \[An argument for separating the importance of scepticism for motivating Descartes’s project and our interpretation of him as a canonical rationalist.]
+* Bolton, Martha Brandt, 201, “Causality and Causal Induction: The Necessitarian Theory of Lady Mary Shepherd”, in _Causation and Modern Philosophy_, Keith Allen and Tom Stoneham (eds.), 242–261. New York/Routledge. \[A detailed look at Shepherd’s views of cause, causal principles, and mathematical induction. The latter topic includes some discussion of Shepherd’s dispute with Dugald Stewart.]
+* Bordo, Susan, 1987, _The Flight to Objectivity: Essays on Cartesianism and Cultu_re, Albany: State University of New York Press. \[A classic feminist psychoanalytic study of Descartes’s _Meditations_. _Inter alia_, Bordo argues that Descartes reconceives rationality as paradigmatically masculine.]
+* Boyle, Deborah, 2009, _Descartes on Innate Ideas_, London: Continuum. \[A comprehensive study of Descartes’s nativism. Boyle argues that, for Descartes, we have implicit knowledge of our innate ideas, and that reflection is required to make the knowledge explicit. The volume includes a thorough survey and critique of the secondary literature on innate ideas in Descartes.]
+* Bryson, Cynthia B, 1998, “Mary Astell: Defender of the ‘Disembodied Mind’”, _Hypatia_, 13(4): 40–62. \[An argument in favor of Astell being the first English, woman feminist. Bryson argues that Astell’s version of Cartesian dualism allows her to reject the subordination of women, and her rejection of the possibility of “thinking matter” allows her to reject the kinds of social contracts between men and women that Locke endorsed in his political system.]
+* Carriero, John, 1995, “On the Relationship Between Mode and Substance in Spinoza’s Metaphysics”, _Journal of the History of Philosophy_, 33(2): 245–73. \[Carriero traces the medieval Aristotelian influence of Spinoza’s substance/mode distinction, and in so doing challenges Curley’s argument that Spinozist modal dependence is causal dependence.]
+* Cottingham, John, 1984, _Rationalism_, London: Paladin Books. \[A concise, accessible survey of issues in both early modern and contemporary rationalism.]
+* Curley, Edwin, 1988, _Behind the Geometric Method_, Princeton: Princeton University Press. \[A brief, persuasive argument for a naturalistic understanding of Spinoza’s _Ethics_ by a leader in the field.]
+* Della Rocca, Michael, 1996, _Representation and the Mind-Body Problem in Spinoza_, Oxford: Oxford University Press. \[The authoritative work on Spinoza’s theory of ideas.]
+* –––, 2005, “Descartes, the Cartesian Circle, and Epistemology without God”, _Philosophy and Phenomenological Research_, 70(1): 1–33. \[An interpretation of Descartes’s system that would allow him to escape the circle objection.]
+* –––, 2008, _Spinoza_, London and New York: Routledge. \[An accessible introduction to Spinoza’s main doctrines, with a useful sketch of the historical context.]
+* Detlefsen, Karen, 2006, “Atomism, Monism, and Causation in the Natural Philosophy of Margaret Cavendish”, _Oxford Studies in Early Modern Philosophy_, 3: 199–240. \[A discussion of the tension between Cavendish’s monism and her anti-atomism.]
+* Donagan, Alan, 1988, _Spinoza_, Chicago: University of Chicago Press. \[A spare, compulsively readable interpretation of Spinoza’s mature work as a whole, with an emphasis on his naturalism.]
+* Fantl, Jeremy, 2016, “Mary Shepherd on Causal Necessity”, _Metaphysica_, 17(1): 87–108. \[An argument that Shepherd’s anti-Humeanism is actually stronger than has been heretofore appreciated.]
+* Fraenkel, Carlos, Dario Perinetti, and Justin Smith, Eds, 2010, _The Rationalists: Between Tradition and Innovation_, Dordrecht: Springer. \[Essays on varied topics by key thinkers in the field, all of them devoted to understanding and problematizing the category of rationalism by considering aspects of key rationalist figures in their historical contexts.]
+* Frankfurt, Harry, 1965, “Descartes’ Validation of Reason”, _American Philosophical Quarterly_, 2: 149–56. \[A seminal work dealing with the alleged circularity of Descartes’s _Meditations_.]
+* Garber, Daniel and Michael Ayers, Eds., 1998, _The Cambridge History of Seventeenth_ _Century Philosophy_, 2 vols., Cambridge: Cambridge University Press. \[This collection provides a comprehensive look at the relevant philosophical period, with invaluable material about the historical and social context.]
+* Garrett, Don, Ed., 1996, _The Cambridge Companion to Spinoza_, Cambridge and New York: Cambridge University Press. \[Essays on all aspects of Spinoza’s thought by top Spinoza scholars.]
+* Goldstone, Jack, 1998, “The Problem of the ‘Early Modern’ World”, _Journal of the Economic and Social History of the Orient_, 41(3): 249–284. \[An influential problematization of the “early modern” periodization that in particular identifies the eurocentrism and the myth of progress on which the periodization trades. Goldstone also explores inconsistencies between the manner in which the boundaries of the early modern era are drawn and usual conventions in historical periodization.]
+* Guéroult, Martial, 1968, _Spinoza I: Dieu_, Paris: Georg Olms. \[Guéroult is credited with having dealt Wolfson’s subjectivist account of Spinoza’s attributes its death blow.]
+* Hagengruber, Ruth, 2015, “Cutting Through the Veil of Ignorance: Rewriting the History of Philosophy”, _The Monist_, 98: 34–42. \[An argument in favor of taking the philosophical writings of women through the history of philosophy as contributions of general relevance to this history.]
+* Harth, Erica, 1991, “Cartesian Women”, _Yale French Studies_ 80: 146–164. \[A useful study of the thought of French Cartesian women, especially those who were prominent in the philosophical salons of the seventeenth century.]
+* Huenemann, Charles, 2008, _Understanding Rationalism_, Durham, UK: Acumen. \[A clear and helpful introduction to Descartes, Spinoza and Leibniz, written for college juniors.]
+* Ishiguro, Hidé, 1972, _Leibniz’s Philosophy of Logic and Language_, Ithaca, New York: Cornell University Press. \[A clear, untechnical discussion of Leibniz’s arguments considered in light of contemporary angloamerican logic.]
+* Jolley, Nicholas (editor), 1995, _The Cambridge Companion to Leibniz_, Cambridge: Cambridge University Press. \[Essays on all aspects of Leibniz’s thought by top Leibniz scholars.]
+* Kenny, Anthony, 1998, “Descartes on the Will”, in John Cottingham (ed.), _Descartes_, Oxford: Oxford University Press, pages 132–60. First appeared in R.J. Butler (ed.), 1973, _Cartesian Studies_, New York: Barnes and Noble. \[Articulation of the “freedom of perversity” interpretation of Descartes’s discussions with Mesland on freedom.]
+* Kenny, Anthony (editor), 1986, _Rationalism, Empiricism and Idealism_, Oxford: Oxford University Press. \[A useful collection, mostly of lectures delivered at the British Academy by leading scholars of early modern philosophy.]
+* Krause, Andrej, 2009, “Amo’s Ontology”, _Philosophia Africana_, 12(2): 141–157. \[A discussion of Amo’s general ontology and how it informs his commitment to the insensitivity of the human soul.]
+* Lascano, Marcy, 2013, “Anne Conway: Bodies in the Spiritual World”, _Philosophy Compass_, 8(4): 327–336. \[A defense of Conway’s articulation of her monism, with an emphasis on the important role for “body” in a system where the only substance is spirit.]
+* Lennon, Thomas M., 1993, _The Battle of the Gods and Giants: The Legacies of Descartes and Gassendi, 1655–1715_, Princeton: Princeton University Press. \[An account of the contest between the Cartesians and their principal opponents as an extension of the battle that Plato depicts in the _Sophist_ between the materialists and the friends of the forms.]
+* Lewis, Geneviève (Rodis), 1950, _L’individualité selon Descartes_, Paris: J.Vrin. \[Discusses all the texts on both sides of the question of the uniqueness of extended substance.]
+* Lin, Martin, 2011, “Rationalism and Necessitarianism”, _Noûs_, 46(3): 418–448. \[A discussion of Spinoza’s and Leibniz’s disagreement over whether metaphysical rationalism leads to necessitarianism.]
+* Lloyd, Genevieve, 1993, _The Man of Reason: “Male” and “Female” in Western Philosophy_, 2nd Ed., London: Routledge \[This influential feminist study traces the construction of reason as masculine in the history of Western philosophy. Lloyd sees Descartes’s method as a crucial move in the historical philosophical centering of masculine thought.]
+* Loeb, Louis, 1981, _From Descartes to Hume: Continental Metaphysics and the Development of Modern Philosophy_, Ithaca and London: Cornell University Press. \[Loeb famously challenges the rationalist-empiricist divide, arguing that important aspects of Locke’s and Berkeley’s thought are rationalist in character.]
+* Mates, Benson, 1986, _The Philosophy of Leibniz: Metaphysics & Language_, Oxford: Oxford University Press. \[An internalist reading of Leibniz focusing in particular on logical issues and on Leibniz’s nominalism.]
+* McCracken, Charles J., 1983, _Malebranche and British Philosophy_, Oxford: Clarendon Press. \[A classic account of Malebranche’s influence on British philosophy, which also contains a wonderful 100 page account of Malebranche’s system.]
+* Melamed, Yitzhak, 2013, “Spinoza’s Metaphysics of Thought: Parallelisms and the Multifaceted Structure of Ideas”, _Philosophy and Phenomenological Research_, 86(3): 636–683. \[A reinterpretation of Spinozist parallelism that seeks to resolve why human beings can only know two of substance’s infinite attributes.]
+* Merchant, Carolyn, 1979, “The Vitalism of Anne Conway: Its Impact on Leibniz’s Concept of the Monad”, _Journal of the History of Philosophy_, 17(3): 255–269. \[A discussion of Conway’s system, and her influence on Leibniz.]
+* Moreau, Joseph, 1947, “Malebranche et le spinozisme”, in Joseph Moreau (ed.), _Malebranche: Correspondance avec J.-J. Dortous de Mairan_, Paris: Vrin, pages 1–99. \[Moreau provides an excellent introduction to and analysis of this correspondence in his introduction to this edition of the correspondence.]
+* Nadler, Steven., Ed., 1993, _Causation in Early Modern Philosophy: Cartesianism, Occasionalism, and Preestablished Harmony_, University Park: Pennsylvania State University Press. \[A collection of essays concerning the three main rationalist theories of causation. The essays in this collection consider not only the major figures discussed in the above article, but also a number of intermediate and minor figures.]
+* Nelson, Alan, Ed., 2005, _A Companion to Rationalism_, Oxford, Blackwell. \[An ably edited collection of essays devoted to the historical antecedents of rationalism, to the movement’s “golden age” and to rationalist elements in contemporary thought.]
+* Norton, David Fate, 1981, “The Myth of British Empiricism”, _History of European Ideas_, 1(4): 331–344. \[An argument problematizing the very category of “British Empiricism.”]
+* Okruhlik, Kathleen and James R. Brown, Eds., 1985, _The Natural Philosophy of Leibniz_, Dordrecht: D. Reidel. \[A challenging collection devoted to the role of physics and natural philosophy in the development of Leibniz’s thought.]
+* Perry, Ruth, 1986, _The Celebrated Mary Astell: An Early English Feminist,_ Chicago, University of Chicago Press. \[An influential intellectual biography of Astell.]
+* Peterman, Alison, 2015, “Spinoza on Extension”, _Philosophers’ Imprint_, 15(14): 1–23. \[An argument against the interpretation that Spinoza takes extension in space to be a fundamental property of physical things.]
+* Rozemond, Marleen, 1998, _Descartes’s Dualism_, Cambridge: Harvard University Press. \[A thorough account of the topic indicated, including valuable scholastic background.]
+* Russell, Bertrand, 1992, _A Critical Exposition of the Philosophy of Leibniz_, London: Routledge. \[First published in 1900, this work includes Russell’s classic arguments that the basis of Leibniz’s thought lies in his Aristotelian logic, and that, for Leibniz, relational properties are merely ideal.]
+* Schmaltz, Tad, 2002, _Radical Cartesianism: The French reception of Descartes_, Cambridge: Cambridge University Press. \[A treatment of those few—specifically, Desgabets and Régis—who accepted Descartes’s doctrine of created truth.]
+* Shapiro, Lisa, 2007, “Volume Editor’s Introduction”, in Lisa Shapiro (ed. & trans.), _The Correspondence Between Princess Elisabeth of Bohemia and René Descartes_, Chicago: University of Chicago Press. \[The definitive analysis of this correspondence.]
+* –––, 2008, “Princess Elisabeth and Descartes: The Union of Soul and Body and the Practice of Philosophy”, _British Journal for the History of Philosophy_, 7(3): 503–520. \[An argument in favor of viewing Elisabeth as a philosopher in her own right, and not merely a correspondent of Descartes.]
+* Sharp, Hasana, 2012, “Eve’s Perfection: Spinoza on Sexual (In)Equality”, _Journal of the History of Philosophy_ 50(4): 559–580. \[A study of inconsistencies in Spinoza’s account of women’s capacities.]
+* Smith, Justin, 2015, _Nature, Human Nature, & Human Difference: Race in Early Modern Philosophy_, Princeton: Princeton University Press. \[A useful study of the construction of race in early modernity and its interactions with the philosophical thought of the day.]
+* Sowaal, Alice, 2004, “Cartesian Bodies”, _Canadian Journal of Philosophy_, 34(2): 217–40. \[This useful article sorts Descartes’s inconsistent language about substance in terms of levels.]
+* –––, 2007, “Mary Astell’s Serious Proposal: Mind, Method, and Custom”, _Philosophy Compass_, 2(2): 227–243. \[A discussion of Astell’s theory of mind.]
+* –––, 2015, “Mary Astell”, The Stanford Encyclopedia of Philosophy (Winter 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2015/entries/astell/](https://plato.stanford.edu/archives/win2015/entries/astell/).
+* Sutherland, Christine Mason, 2005, _The Eloquence of Mary Astell_, Calgary: University of Calgary Press. \[A recent study of Astell’s importance as a rhetorician.]
+* Tollefsen, Deborah, 1999, “Princess Elisabeth and the Problem of Mind-Body Interaction”, _Hypatia_, 14(3): 59–77. \[A discussion of Elisabeth’s objections to Descartes’s dualism.]
+* Wilson, Aaron, 2016, Peirce’s Empiricism: Its Roots and Its Originality, Lanham: Lexington Books. \[This study of American Pragmatist Charles Sanders Peirce contains a useful chapter on the history of the rationalism-empiricism distinction.]
+* Wilson, Margaret Dauler, 1982, _Descartes_, New York: Routledge. \[See Chapter Three for a clear and useful discussion of Descartes’s doctrine of created truths.]
+* Wiredu, Kwasi, 2004, “Amo’s Critique of Descartes’ Philosophy of Mind”, in Kwasi Wiredu (ed.), _A Companion to African Philosophy_, Malden, Massachusetts: Blackwell Publishing, Ltd., pages 200–206. \[Introduction to Amo’s biography, and main lines of his critique against Descartes’s theory of mind.]
+* Wolfson, Harry, 1934, _The Philosophy of Spinoza_, 2 vols., Cambridge, MA: Harvard University Press. \[Wolfson’s is still the classic argument for the subjectivist account of attributes in Spinoza.]
+* Woolhouse, R.S., 1993, _Descartes, Spinoza, Leibniz: The Concept of Substance in Seventeenth Century Metaphysics_, London and New York: Routledge. \[A deep account of many of the themes covered here, with something of value for readers at all levels.]
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=continental-rationalism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/continental-rationalism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=continental-rationalism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/continental-rationalism/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=continental-rationalism).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/continental-rationalism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=continental-rationalism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/continental-rationalism/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
 * [Catholic Encyclopedia](http://www.newadvent.org/cathen/index.html), maintained by Kevin Knight of the New Advent Catholic website. Includes entries on all of the figures discussed in the above article.
 * [Descartes E Il Seicento](http://www.cartesius.net/), maintained by Giulia Belgioioso (Director, Centro Interdipartmentali Di Studi Su Descartes E Il Seicento), Jean-Robert Armogathe (Centre d’études cartésiennes) et al.
 * [Leibnitiana](http://www.gwleibniz.com/), maintained by Gregory Brown at the University of Houston.
-* [Leibniz](http://web.ics.purdue.edu/~jacover/Leibniz.htm), maintained by Jan Cover of the Purdue University Department of Philosophy.
+* [Leibniz](http://web.ics.purdue.edu/\~jacover/Leibniz.htm), maintained by Jan Cover of the Purdue University Department of Philosophy.
 * [Necessarily Eternal](http://www.perturbedintellect.typepad.com/), this so-called “Catablog of (All) Things Spinoza” has not been updated since 2009. Nonetheless, it houses a very impressive linked list of active Spinoza scholars and other useful resources.
 * [Project Vox](http://projectvox.library.duke.edu/), maintained by Duke University, is a valuable online resource that aims to give voice to Early Modern women philosophers, whose voices have been unjustly ignored through most of history. You can find bibliographies, biographies, teaching tools, and images here.
-* [Studia Spinoziana](http://www.mtsu.edu/~rbombard/RB/spinoza.new.html), maintained by Ron Bombardi, Department of Philosophy, Middle Tennessee State University.
+* [Studia Spinoziana](http://www.mtsu.edu/\~rbombard/RB/spinoza.new.html), maintained by Ron Bombardi, Department of Philosophy, Middle Tennessee State University.
 
 ## Related Entries
 
-[Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Arnauld, Antoine](https://plato.stanford.edu/entries/arnauld/) | [Astell, Mary](https://plato.stanford.edu/entries/astell/) | [Conway, Lady Anne](https://plato.stanford.edu/entries/conway/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Descartes, René: and the pineal gland](https://plato.stanford.edu/entries/pineal-gland/) | [Descartes, René: epistemology](https://plato.stanford.edu/entries/descartes-epistemology/) | [Descartes, René: ethics](https://plato.stanford.edu/entries/descartes-ethics/) | [Descartes, René: life and works](https://plato.stanford.edu/entries/descartes-works/) | [Descartes, René: mathematics](https://plato.stanford.edu/entries/descartes-mathematics/) | [Descartes, René: modal metaphysics](https://plato.stanford.edu/entries/descartes-modal/) | [Descartes, René: ontological argument](https://plato.stanford.edu/entries/descartes-ontological/) | [Descartes, René: physics](https://plato.stanford.edu/entries/descartes-physics/) | [Descartes, René: theory of ideas](https://plato.stanford.edu/entries/descartes-ideas/) | [Desgabets, Robert](https://plato.stanford.edu/entries/desgabets/) | [dualism](https://plato.stanford.edu/entries/dualism/) | [Elisabeth, Princess of Bohemia](https://plato.stanford.edu/entries/elisabeth-bohemia/) | [feminist philosophy, interventions: history of philosophy](https://plato.stanford.edu/entries/feminism-femhist/) | [Gassendi, Pierre](https://plato.stanford.edu/entries/gassendi/) | [German Philosophy: in the 18th century, prior to Kant](https://plato.stanford.edu/entries/18thGerman-preKant/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Kant, Immanuel: and Leibniz](https://plato.stanford.edu/entries/kant-leibniz/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Leibniz, Gottfried Wilhelm: ethics](https://plato.stanford.edu/entries/leibniz-ethics/) | [Leibniz, Gottfried Wilhelm: on causation](https://plato.stanford.edu/entries/leibniz-causation/) | [Leibniz, Gottfried Wilhelm: on the problem of evil](https://plato.stanford.edu/entries/leibniz-evil/) | [Leibniz, Gottfried Wilhelm: philosophy of mind](https://plato.stanford.edu/entries/leibniz-mind/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [Malebranche, Nicolas: theory of ideas and vision in God](https://plato.stanford.edu/entries/malebranche-ideas/) | [monism](https://plato.stanford.edu/entries/monism/) | [Platonism: in metaphysics](https://plato.stanford.edu/entries/platonism/) | [rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/) | [Shepherd, Mary](https://plato.stanford.edu/entries/mary-shepherd/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [Spinoza, Baruch: physical theory](https://plato.stanford.edu/entries/spinoza-physics/) | [Spinoza, Baruch: psychological theory](https://plato.stanford.edu/entries/spinoza-psychological/) | [substance](https://plato.stanford.edu/entries/substance/)
+[Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Arnauld, Antoine](https://plato.stanford.edu/entries/arnauld/) | [Astell, Mary](https://plato.stanford.edu/entries/astell/) | [Conway, Lady Anne](https://plato.stanford.edu/entries/conway/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Descartes, René: and the pineal gland](https://plato.stanford.edu/entries/pineal-gland/) | [Descartes, René: epistemology](https://plato.stanford.edu/entries/descartes-epistemology/) | [Descartes, René: ethics](https://plato.stanford.edu/entries/descartes-ethics/) | [Descartes, René: life and works](https://plato.stanford.edu/entries/descartes-works/) | [Descartes, René: mathematics](https://plato.stanford.edu/entries/descartes-mathematics/) | [Descartes, René: modal metaphysics](https://plato.stanford.edu/entries/descartes-modal/) | [Descartes, René: ontological argument](https://plato.stanford.edu/entries/descartes-ontological/) | [Descartes, René: physics](https://plato.stanford.edu/entries/descartes-physics/) | [Descartes, René: theory of ideas](https://plato.stanford.edu/entries/descartes-ideas/) | [Desgabets, Robert](https://plato.stanford.edu/entries/desgabets/) | [dualism](https://plato.stanford.edu/entries/dualism/) | [Elisabeth, Princess of Bohemia](https://plato.stanford.edu/entries/elisabeth-bohemia/) | [feminist philosophy, interventions: history of philosophy](https://plato.stanford.edu/entries/feminism-femhist/) | [Gassendi, Pierre](https://plato.stanford.edu/entries/gassendi/) | [German Philosophy: in the 18th century, prior to Kant](https://plato.stanford.edu/entries/18thGerman-preKant/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Kant, Immanuel: and Leibniz](https://plato.stanford.edu/entries/kant-leibniz/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Leibniz, Gottfried Wilhelm: ethics](https://plato.stanford.edu/entries/leibniz-ethics/) | [Leibniz, Gottfried Wilhelm: on causation](https://plato.stanford.edu/entries/leibniz-causation/) | [Leibniz, Gottfried Wilhelm: on the problem of evil](https://plato.stanford.edu/entries/leibniz-evil/) | [Leibniz, Gottfried Wilhelm: philosophy of mind](https://plato.stanford.edu/entries/leibniz-mind/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [Malebranche, Nicolas: theory of ideas and vision in God](https://plato.stanford.edu/entries/malebranche-ideas/) | [monism](https://plato.stanford.edu/entries/monism/) | [Platonism: in metaphysics](https://plato.stanford.edu/entries/platonism/) | [rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/) | [Shepherd, Mary](https://plato.stanford.edu/entries/mary-shepherd/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [Spinoza, Baruch: physical theory](https://plato.stanford.edu/entries/spinoza-physics/) | [Spinoza, Baruch: psychological theory](https://plato.stanford.edu/entries/spinoza-psychological/) | [substance](https://plato.stanford.edu/entries/substance/)
 
-[Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
-[Shannon Dea](https://www.uregina.ca/arts/philosophy-classics/faculty-staff/faculty/dea-shannon.html) <[*shannon.dea@uregina.ca*](mailto:shannon%2edea%40uregina%2eca)>  
-Julie Walsh <[*julie.walsh@wellesley.edu*](mailto:julie%2ewalsh%40wellesley%2eedu)>  
+[Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
+[Shannon Dea](https://www.uregina.ca/arts/philosophy-classics/faculty-staff/faculty/dea-shannon.html) <[_shannon.dea@uregina.ca_](mailto:shannon%2edea%40uregina%2eca)>\
+Julie Walsh <[_julie.walsh@wellesley.edu_](mailto:julie%2ewalsh%40wellesley%2eedu)>\
 Thomas M. Lennon

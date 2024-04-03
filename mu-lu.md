@@ -556,7 +556,7 @@
 * [\*对应体理论——见可能的对象 counterpart theory — see possible objects](c/dui-ying-ti-li-lun-jian-ke-neng-de-dui-xiang-counterpart-theory-see-possible-objects.md)
 * [威廉·克拉索恩 Crathorn, William (Aurélien Robert)](c/wei-lian-ke-la-suo-en-crathorn-william-aurlien-robert.md)
 * [创造与保全 creation and conservation (David Vander Laan)](c/chuang-zao-yu-bao-quan-creation-and-conservation-david-vander-laan.md)
-* [神创论 creationism (Michael Ruse)](c/shen-chuang-lun-creationism-michael-ruse.md)
+* [神创论 creationism (Michael Ruse)](c/chuang-zao-lun-creationism-michael-ruse.md)
 * [创造力 creativity (Elliot Samuel Paul and Dustin Stokes)](c/chuang-zao-li-creativity-elliot-samuel-paul-and-dustin-stokes.md)
 * [哈斯代·本·亚伯拉罕·克雷斯卡斯 Crescas, Hasdai (Shalom Sadik)](c/ha-si-dai-ben-ya-bo-la-han-ke-lei-si-ka-si-crescas-hasdai-shalom-sadik.md)
 * [刑法理论 criminal law, theories of (James Edwards)](c/xing-fa-li-lun-criminal-law-theories-of-james-edwards.md)

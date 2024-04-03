@@ -1,45 +1,39 @@
 # 习俗 convention (Michael Rescorla)
 
-*首次发布于2007年9月6日；实质性修订于2024年2月22日。*
+_首次发布于2007年9月6日；实质性修订于2024年2月22日。_
 
 约定所提出的中心哲学任务是分析它们是什么，以及它们与行动和认知的纯粹规律性之间的区别。附属问题包括：约定是如何产生的？它们如何被维持？我们如何在不同约定之间进行选择？为什么应该遵守约定？约定是否有任何社会价值？约定如何与规则、规范、习俗、实践、制度和社会契约等概念相关？除了其固有的兴趣外，约定之所以重要，是因为哲学家在讨论其他主题时经常援引它。一个常见的哲学策略是争辩说，也许尽管表面上看起来不是这样，某些现象最终是由约定导致的。值得注意的候选对象包括：财产、政府、正义、法律、道德、语言意义、必然性、本体论、数学和逻辑。
 
 * [公约引发的问题](https://plato.stanford.edu/entries/convention/#IssuRaisConv)
-
-  * [ 社会惯例](https://plato.stanford.edu/entries/convention/#SociConv)
-  * [ 常规主义](https://plato.stanford.edu/entries/convention/#Conv)
+  * [社会惯例](https://plato.stanford.edu/entries/convention/#SociConv)
+  * [常规主义](https://plato.stanford.edu/entries/convention/#Conv)
 * [习惯性真理](https://plato.stanford.edu/entries/convention/#TrutConv)
 * [分析社会惯例](https://plato.stanford.edu/entries/convention/#AnalSociConv)
-
-  * [ 3.1 休谟](https://plato.stanford.edu/entries/convention/#Hume)
-  * [ 3.2 路易斯](https://plato.stanford.edu/entries/convention/#Lewi)
+  * [3.1 休谟](https://plato.stanford.edu/entries/convention/#Hume)
+  * [3.2 路易斯](https://plato.stanford.edu/entries/convention/#Lewi)
 * [对刘易斯的批评反应](https://plato.stanford.edu/entries/convention/#CritReacLewi)
-
   * [4.1 实际和法定规律](https://plato.stanford.edu/entries/convention/#ReguDeFactDeJure)
   * [4.2 可选约定？](https://plato.stanford.edu/entries/convention/#AlteConv)
   * [二分法还是程度？](https://plato.stanford.edu/entries/convention/#DichDegr)
   * [哪种均衡概念？](https://plato.stanford.edu/entries/convention/#WhicEquiConc)
   * [4.5大会必须解决协调问题吗？](https://plato.stanford.edu/entries/convention/#MustConvSolvCoorProb)
 * [平衡选择](https://plato.stanford.edu/entries/convention/#EquiSele)
-
-  * [ 5.1 突显](https://plato.stanford.edu/entries/convention/#Sali)
-  * [ 5.2 动力学模型](https://plato.stanford.edu/entries/convention/#DynaMode)
+  * [5.1 突显](https://plato.stanford.edu/entries/convention/#Sali)
+  * [5.2 动力学模型](https://plato.stanford.edu/entries/convention/#DynaMode)
   * [5.3 实验方法](https://plato.stanford.edu/entries/convention/#ExpeMeth)
 * [传统的替代疗法](https://plato.stanford.edu/entries/convention/#AlteTreaConv)
-
   * [6.1 Gilbert：复数主语](https://plato.stanford.edu/entries/convention/#GilbPlurSubj)
   * [6.2 米勒：集体目标](https://plato.stanford.edu/entries/convention/#MillCollEnds)
   * [6.3 米利坎：由先例的权重维持的模式](https://plato.stanford.edu/entries/convention/#MillPattSustWeigPrec)
 * [语言规范](https://plato.stanford.edu/entries/convention/#ConvLang)
-
   * [7.1 传统的意义理论](https://plato.stanford.edu/entries/convention/#ConvTheoMean)
   * [7.2 对传统理论的异议](https://plato.stanford.edu/entries/convention/#ObjeConvTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/convention/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/convention/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/convention/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/convention/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/convention/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/convention/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/convention/#Rel)
 
----
+***
 
 ## 公约引发的问题
 
@@ -141,10 +135,10 @@ Lewis（1969）通过运用博弈论，即仪器理性代理之间的战略互�
 
 假设A和B想要见面吃晚餐。他们可以在路易吉或法比奥两家餐厅中选择。每个参与者对这两家餐厅都无所谓，而且每个参与者更喜欢见面而不是不见面。我们通过一个收益矩阵来表示这种情况：
 
-|          | Luigi’s | Fabio’s |
-| ---------- | ---------- | ---------- |
-| 路易吉   | 1, 1     | 0, 0     |
-| 法比奥的 | 0, 0     | 1, 1     |
+|      | Luigi’s | Fabio’s |
+| ---- | ------- | ------- |
+| 路易吉  | 1, 1    | 0, 0    |
+| 法比奥的 | 0, 0    | 1, 1    |
 
 餐厅约会收益矩阵
 
@@ -152,10 +146,10 @@ Lewis（1969）通过运用博弈论，即仪器理性代理之间的战略互�
 
 在几个方面，餐厅约会是一个不典型的协调问题。首先，A和B必须执行相同的动作才能实现期望的结果。其次，在每种情况下，A和B获得相同的回报。以下回报矩阵代表一个缺乏这两个特性的协调问题：
 
-|        | Call back | Wait |
-| -------- | ----------- | ------ |
+|     | Call back | Wait |
+| --- | --------- | ---- |
 | 回电话 | 0, 0      | 1, 2 |
-| 等待   | 2, 1      | 0, 0 |
+| 等待  | 2, 1      | 0, 0 |
 
 电话标签收益矩阵
 
@@ -211,10 +205,10 @@ Lewis（1969年，第97-100页）预料到这种反对意见并试图阻止它�
 
 Seumas Miller（2001）部署了让-雅克·卢梭的一个例子，质疑一个惯例是否必须有一个传统的替代方案。在卢梭的例子中，分布在整个森林中的代理人必须决定是狩猎鹿还是狩猎野兔。狩猎鹿对每个人都产生更高的回报，但前提是所有其他玩家也选择狩猎鹿。我们可以通过以下回报矩阵来表示一个两人狩猎鹿的情况：
 
-|          | Hunt Stag | Hunt Hare |
-| ---------- | ----------- | ----------- |
+|      | Hunt Stag | Hunt Hare |
+| ---- | --------- | --------- |
 | 猎杀雄鹿 | 2, 2      | 0, 1      |
-| 猎兔     | 1, 0      | 1, 1      |
+| 猎兔   | 1, 0      | 1, 1      |
 
 鹿猎捕盈利矩阵
 
@@ -232,10 +226,10 @@ Seumas Miller（2001）部署了让-雅克·卢梭的一个例子，质疑一个
 
 另一个被广泛讨论的解决方案概念是相关均衡，由罗伯特·奥曼（1974年，1987年）引入。为了说明这个广义概念，考虑一个修改过的餐厅约会的版本。在新版本中（有时被称为“性别之战”），每个参与者更喜欢不同的餐厅，尽管两个参与者都更喜欢见面而不是不见面。我们用以下收益矩阵来表示这种情况：
 
-|          | Luigi’s | Fabio’s |
-| ---------- | ---------- | ---------- |
-| 路易吉   | 2, 1     | 0, 0     |
-| 法比奥的 | 0, 0     | 1, 2     |
+|      | Luigi’s | Fabio’s |
+| ---- | ------- | ------- |
+| 路易吉  | 2, 1    | 0, 0    |
+| 法比奥的 | 0, 0    | 1, 2    |
 
 性别之战收益矩阵
 
@@ -257,19 +251,19 @@ Wayne Davis（2003年），Andrei Marmor（1996年，2009年），Seumas Miller�
 
 苏格登提出了财产惯例和互惠惯例，但这两者都不能解决协调问题。他用鹰-鸽博弈（有时也称为“鸡”）来说明前者：
 
-|      | Dove | Hawk     |
-| ------ | ------ | ---------- |
+|    | Dove | Hawk     |
+| -- | ---- | -------- |
 | 鸽子 | 1, 1 | 0, 2     |
-| 鹰   | 2, 0 | 1/2, 1/2 |
+| 鹰  | 2, 0 | 1/2, 1/2 |
 
- 鹰-鸽收益矩阵
+鹰-鸽收益矩阵
 
 这里的直觉解释是，面对价值为2的物品的两个人必须决定是争夺它（鹰）还是分享它（鸽）。如果两人都选择鸽，那么他们会平分。如果一个选择鹰，另一个选择鸽，那么鹰将获得整个好处。如果他们都选择鹰，那么他们再次平分，但价值减半以反映争斗的成本。这个游戏没有协调均衡。然而，考虑以下对于游戏的重复实例的策略：“如果你已经拥有相关物品，则选择鹰；否则，选择鸽。”对于双方玩家来说，采用这种策略是一种均衡。（更技术性地说，根据Skyrms（1996）的观点，我们可以将这种策略组合视为相关均衡。）Sugden认为，这样的均衡可能会在反复玩鹰-鸽的代理之间形成一种惯例。但根据Lewis的定义，这种均衡并不是一种惯例。如果我履行我的部分，我并不希望其他人也这样做。我希望其他人选择鸽。因此，这种均衡缺乏Lewis强调的主要特征之一：对一般一致性的偏好优于略低于一般一致性。
 
 Sugden用囚徒困境展示了互惠的惯例，该困境具有以下的收益矩阵：
 
-|      | Cooperate | Defect |
-| ------ | ----------- | -------- |
+|    | Cooperate | Defect |
+| -- | --------- | ------ |
 | 合作 | 2, 2      | 0, 3   |
 | 缺陷 | 3, 0      | 0, 0   |
 
@@ -455,192 +449,192 @@ Davidson得出结论，意义和理解的理论不应赋予传统一个基础性
 
 ## Bibliography
 
-* Alston, William, 2000. *Illocutionary Acts and Sentence Meaning*, Ithaca: Cornell University Press.
-* Anderson, Elizabeth, 2000. “Beyond *Homo Economicus*: New Developments in Theories of Social Norms,” *Philosophy and Public Affairs*, 29: 170–200.
-* Aristotle, 1980. *Nicomachean Ethics*, trans. David Ross. Rev. trans. J. L. Ackrill and J. O. Urmson. Oxford: Oxford University Press.
-* –––, 1984. *De Interpretatione*, in *The Complete Works of Aristotle*, ed. Jonathan Barnes, Princeton: Princeton University Press.
-* Aumann, Robert, 1974. “Subjectivity and Correlation in Randomized Strategies,” *Journal of Mathematical Economics*, 1: 67–96.
-* –––, 1976. “Agreeing to Disagree,” *Annals of Statistics*, 4: 1236–1239.
-* –––, 1987. “Correlated Equilibrium as an Expression of Bayesian Rationality,” *Econometrica*, 55: 1–18.
-* Avramides, Anita, 1997. “Intention and Convention,” in *A Companion to the Philosophy of Language*, ed. Bob Hale and Crispin Wright, Malden: Blackwell.
-* Ayer, A. J., 1936/1952. *Language, Truth, and Logic*, 2nd ed., New York: Dover.
-* Axelrod, Robert, 1984. *The Evolution of Cooperation*, New York: Basic Books.
-* Ben-Menahem, Yemima, 2006. *Conventionalism*, Cambridge: Cambridge University Press.
-* Bennett, Jonathan, 1976. *Linguistic Behavior*, Cambridge: Cambridge University Press.
-* Bicchieri, Cristina, 2006. *The Grammar of Society*, Cambridge: Cambridge University Press.
-* –––, 2016. *Norms in the Wild: How to Diagnose, Measure, and Change Social Norms*, Oxford: Oxford University Press.
-* Binmore, Ken, 2008. “Do Conventions Need to be Common Knowledge?” *Topoi*, 27: 17–27.
-* Binmore, Ken and Samuelson, Larry, 2006. “The Evolution of Focal Points,” *Games and Economic Behavior*, 55: 21–42.
-* Blackburn, Simon, 1984. *Spreading the Word*, Oxford: Clarendon Press.
-* Blume, Andreas, DeJong, Douglas, Kim, Yong Gwan, and Sprinkle, Geoffrey, 1998. “Experimental Evidence on the Evolution of Meaning of Messages in Sender-Receiver Games,” *The American Economic Review*, 88: 1323–1340.
-* Brandom, Robert, 1994. *Making it Explicit*, Cambridge: Harvard University Press.
-* Brown, George, 1951. “Iterative Solutions to Games by Fictitious Play,” in *Activity Analysis of Production and Allocation*, ed. T. C. Koopmans, New York: Wiley.
-* Bruner, Justin, O’Connor, Cailin, Rubin, Hannah, and Huttegger, Simon, 2018. “David Lewis in the Lab: Experimental Results on the Emergence of Meaning,” *Synthese*, 195: 603–621.
-* Bunzl, Martin and Kreuter, Richard, 2003. “Conventions Made too Simple?”. *Philosophy of the Social Science*s 33: 417–426.
-* Burge, Tyler, 1975. “On Knowledge and Convention,” *Philosophical Review*, 84: 249–255.
-* Carnap, Rudolf, 1937/2002. *The Logical Syntax of Language*, trans. Amethe Smeaton. Chicago: Open Court Press.
-* Chomsky, Noam, 1980. *Rules and Representations*, New York: Columbia University Press.
-* Cochran, Calvin, and Barrett, Jeffrey, 2021. “How Signaling Conventions Are Established,” *Synthese*, 199: 4367–4391.
-* Coffa, Alberto, 1993. *The Semantic Tradition from Kant to Carnap*, Cambridge: Cambridge University Press.
-* Cubitt, Robin, and Sugden, Robert, 2003. “Common Knowledge, Salience, and Convention: A Reconstruction of David Lewis’s Game Theory,” *Economics and Philosophy*, 19: 175–210.
-* Davidson, Donald, 1984. “Convention and Communication,” in *Inquiries into Truth and Interpretation*, Oxford: Oxford University Press.
-* Davies, Martin, 2003. “Philosophy of Language,” in *The Blackwell Companion to Philosophy*, ed. Nicholas Bunnin and E. P. Tsui-James, Malden: Blackwell.
-* Davis, Wayne, 2003. *Meaning, Expression, and Thought*, Cambridge: Cambridge University Press.
-* DiSalle, Robert, 2002. “Conventionalism and Modern Physics: A Reassessment,” *Noûs*, 36: 169–200.
-* Dummett, Michael, 1991. *The Logical Basis of Metaphysics*, Cambridge: Harvard University Press.
-* –––, 1993. *The Seas of Language*, Oxford: Oxford University Press.
-* Einheuser, Iris, 2006. “Counterconventional Conditionals,” *Philosophical Studies*, 127: 459–482.
-* Foster, Dean and Young, H. Peyton, 2001. “On the Impossibility of Predicting the Behavior of Rational Agents,” *Proceedings of the National Academy of Sciences*, 98: 12848–12853.
-* –––, 2003. “Learning, Hypothesis Testing, and Nash equilibrium,” *Games and Economics Behavior*, 45: 73–96.
-* –––, 2006. “Regret Testing: Learning to Play Nash Equilibrium Without Knowing that You Have an Opponent,” *Theoretical Economics*, 1: 341–367.
-* Franssen, Maarten, 2004. “Review of Peter Vanderschraaf’s Learning, *and Coordination: Inductive Deliberation, Equilibrium, and Convention*,” *Economics and Philosophy*, 20: 375–416.
-* Friedlin, M. I., and Wentzell, A. D., 1984. *Random perturbations of dynamical systems*, New York: Springer.
-* Friedman, Michael, 1983. *Foundations of Space-Time Theories*, Princeton: Princeton University Press.
-* –––, 1999. *Reconsidering Logical Positivism*, Cambridge: Cambridge University Press.
-* Fudenberg, Drew and Levine, David, 1998. *The Theory of Learning in Games*, Cambridge, MA: MIT Press.
-* Gauthier, David, 1979. “David Hume: Contractarian,” *Philosophical Review*, 88: 3–38.
-* Gilbert, Margaret, 1981. “Game Theory and *Convention*,” *Synthese*, 46: 41–93.
-* –––, 1983. “Agreements, Conventions, and Language,” *Synthese*, 54: 375–407.
-* –––, 1983. “Notes on the Concept of Social Convention,” *New Literary History*, 14: 225–251.
-* –––, 1989. *On Social Facts*, New York: Routledge.
-* –––, 1990. “Rationality, Coordination, and Convention,” *Synthese*, 84: 1–21.
-* –––, 2008. “Social Convention Revisited,” *Topoi*, 27: 5–16.
-* Gödel, Kurt, 1995. “Is Mathematics Syntax of Language?”. In *Kurt Gödel: Collected Works*, vol. 3., ed. Solomon Feferman, John Dawson, Warren Goldfarb, Charles Parsons, and Robert Solovay, Oxford: Oxford University Press.
-* Goldfarb, Warren, 1995. “Introductory Note to [Gödel 1995],” in *Kurt Gödel: Collected Works*, vol. 3. ed. Solomon Feferman, John Dawson, Warren Goldfarb, Charles Parsons, and Robert Solovay, Oxford: Oxford University Press.
-* –––, 1997. “Semantics in Carnap: A Rejoinder to Coffa,” *Philosophical Topics*, 25: 51–66.
-* Goldfarb, Warren and Ricketts, Thomas, 1992. “Carnap and the Philosophy of Mathematics,” in *Science and Subjectivity*, ed. David Bell and Wilhelm Vossenkuhl, Berlin: Akademie.
-* Goodman, Nelson, 1976. *Languages of Art*, Indianapolis: Hackett.
-* –––, 1978. *Ways of Worldmaking*, Indianapolis: Hackett.
-* –––, 1989. “Just the Facts, Ma’am!,” In *Relativism: Interpretation and Confrontation*, ed. Michael Krausz, Notre Dame: University of Notre Dame Press.
-* Goyal, Sanjeev, and Janssen, Maarten, 1996. “Can We Rationally Learn to Coordinate?,” *Theory and Decision*, 40: 29–49.
-* Grandy, Richard, 1977. “A Review of Lewis’s *Convention: A Philosophy Study*,” *Journal of Philosophy*, 74: 129–139.
-* Grünbaum, Adolf, 1962. “Geometry, Chronometry, and Empiricism,” in *Minnesota Studies in the Philosophy of Science*, vol. 3. Eds. Herbert Feigl and Grover Maxwell. Minneapolis: University of Minnesota Press.
-* Harman, Gilbert, 1996. “Moral Relativism,” in *Moral Relativism and Moral Objectivity*, ed. Gilbert Harman and J.J. Thompson, Cambridge: Blackwell.
-* Harsanyi, John, and Selten, Reinhard, 1988. *A General Theory of Equilibrium Selection*, Cambridge, MA: MIT Press.
-* Hawkins, Robert, Franke, Michael, Frank, Michael C., Goldberg, Adele, Smith, Kenny, Griffiths, Thomas, and Goodman, Noah, 2023. “From Partners to Populations: A Hierarchical Bayesian Account of Coordination and Convention,” *Psychological Review*, 130: 977–1016.
-* Hawthorne, John, 1990. “A Note on ‘Languages and Language,’” *Australasian Journal of Philosophy*, 68: 116–118.
-* –––, 1993. “Meaning and Evidence: A Reply to Lewis,” *Australasian Journal of Philosophy*, 71: 206–211.
-* Higginbotham, James, 1986. “Linguistic Theory and Davidson’s Program in Semantics,” in *Truth and Interpretation*, ed. Ernest Lepore. New York: Blackwell.
-* Hume, David, 1740/1976. *A Treatise of Human Nature*, ed. L. A. Selby-Brigge, revised 3rd edn., ed. P. H. Nidditch, Oxford: Clarendon Press.
-* –––, 1777/ 1975. *Enquiries Concerning Human Understanding and Concerning the Principles of Morals*, ed. by L. A. Selby-Brigge, revised 3rd edn., ed. P. H. Nidditch, Oxford: Clarendon Press.
-* –––, 1741–2/1985. “Of the Original Contract,” in *Essays Moral, Political, and Literary*, ed. Eugene Miller, New York: Liberty Press.
-* –––, 1752/1994. “Of Money,” in *Hume: Political Essays*, ed. Knud Haakonssen, Cambridge: Cambridge University Press.
-* Huttegger, Simon, 2014. “How Much Rationality Do We Need to Explain Conventions?,” *Philosophy Compass*, 9: 11–21.
-* Jamieson, Dale, 1975. “David Lewis on Convention,” *Canadian Journal of Philosophy*, 5: 73–81.
-* Kalai, Ehud, and Lehrer, Ehud, 1993. “Rational Learning Leads to Nash Equilibrium,” *Econometrica*, 61: 1019–45.
-* Kandori, Michihiro, Mailath, George, and Rob, Rafael, 1993. “Learning, Mutation, and Long-Run Equilibria in Games,” *Econometrica*, 61: 29–56.
-* Kölbel, Max, 1998. “Lewis, Language, Lust, and Lies,” *Inquiry*, 41: 301–315.
-* Larson, Richard and Segal, Gabriel, 1995. *Knowledge of Meaning*, Cambridge, MA: MIT Press.
-* Laurence, Stephen, 1996. “A Chomskian Alternative to Convention-Based Semantics,” *Mind*, 105: 269–301.
-* Lepore, Ernie, and Stone, Matthew, 2015. *Imagination and Convention*, Oxford: Oxford University Press.
-* Lewis, David, 1969. *Convention*, Cambridge: Harvard University Press.
-* –––, 1975/1983. “Languages and Language,” Reprinted in *Philosophical Papers*, vol. 1. Oxford: Oxford University Press.
-* –––, 1976/2000. “Convention: Reply to Jamieson,” Reprinted in *Papers in Ethics and Social Philosophy*, Cambridge: Cambridge University Press.
-* –––, 1992/2000. “Meaning Without Use: Reply to Hawthorne,” Reprinted in *Papers in Ethics and Social Philosophy*, Cambridge: Cambridge University Press.
-* Loar, Brian, 1976. “Two Theories of Meaning,” in *Truth and Meaning*, ed. Gareth Evans and John McDowell, Oxford: Oxford University Press.
-* Locke, John, 1689/1975. *An Essay Concerning the Human Understanding*, ed. Peter Nidditch, Oxford: Clarendon Press.
-* –––, 1689/1988. *Two Treatises of Government*, ed. Peter Laslett, Cambridge: Cambridge University Press.
-* Marmor, Andrei, 1996. “On Convention,” *Synthese*, 107: 349–371.
-* –––, 2007. “Deep Conventions. ” *Philosophy and Phenomenological Research*, 74: 586–610.
-* –––, 2009. *Social Conventions*, Princeton: Princeton University Press.
-* Maynard Smith, John, and Price, George, 1973. “The Logic of Animal Conflicts,” *Nature*, 146: 15–18.
-* Milgrom, Paul, and Robert, John, 1991. “Adaptive and Sophisticated Learning in Normal Form Games,” *Games and Economics Behavior*, 3: 82–100.
-* Miller, Seumas, 1986a. “Truthtelling and the Actual Language Relation,” *Philosophical Studies*, 49: 281–94.
-* –––, 1986b. “Conventions, Interdependence of Action, and Collective Ends,” *Nous*, 20: 117–140.
-* –––, 1990. “Rationalizing Conventions,” *Synthese*, 84: 23–41.
-* –––, 2001. *Social Action: A Teleological Account*. Cambridge: Cambridge University Press.
-* Millikan, Ruth, 2005. *Language: A Biological Model*, Oxford: Clarendon Press.
-* –––, 2008. “A Difference of Some Consequence Between Conventions and Rules,” *Topoi*, 27: 87–99.
-* Moore, Richard, 2013. “Imitation and Conventional Communication,” *Biology and Philosophy*, 28: 481–500.
-* Murphy, Liam and Nagel, Thomas, 2002. *The Myth of Ownership*, Oxford: Oxford University Press.
-* Nachbar, John, 1997. “Prediction, Optimization, and Learning in Repeated Games,” *Econometrica*, 65: 275–309.
-* O’Connor, Cailin, 2021. “Measuring Conventionality,” *Australasian Journal of Philosophy*, 99: 579–596.
-* Oddie, Graham, 1999. “Moral Realism, Moral Relativism, and Moral Rules,” *Synthese*, 117: 251–274.
-* Parfit, Derek, 1984. *Reasons and Persons*, Oxford: Oxford University Press.
-* Peacocke, Christopher, 1987. “Understanding Logical Constants: A Realist’s Account,” *Proceedings of the British Academy*, 73: 153–200.
-* –––, 1998. “Concepts Without Words,” in *Language, Thought, and Logic*: *Essays in Honor of Michael Dummett*, ed. Richard Heck, Oxford: Oxford University Press.
-* Plato, “Cratylus,” trans. C. D. C. Reeve. In *Complete Works*, ed. John Cooper, Indianapolis: Hackett, 1997.
-* Poincaré, Henri, 1902/1905. *Science and Hypothesis*. In *The Foundations of Science*, trans. George Halsted, New York: The Science Press.
-* Prawitz, Dag, 1977. “Meaning and Proofs: On the Conflict Between Classical and Intuitionistic Logic,” *Theoria*, 43: 2–40.
-* Putnam, Hilary, 1962/1985. “The Analytic and the Synthetic,” Reprinted in *Philosophical Papers*, vol. 2. Cambridge: Cambridge University Press.
-* –––, 1962/1975. “An Examination of Grünbaum’s Philosophy of Geometry,” Reprinted in *Philosophical Papers*, vol. 1. Cambridge: Cambridge University Press.
-* –––, 1974/1985. “The Refutation of Conventionalism,” Reprinted in *Philosophical Papers*, vol. 2. Cambridge: Cambridge University Press.
-* –––, 1981. “Convention: A Theme in Philosophy,” *New Literary History*, 13: 1–14.
-* –––, 1987. *The Many Faces of Realism*, LaSalle: Open Court.
-* Quine, W. V., 1936/1976. “Truth by Convention,” reprinted in *The Ways of Paradox*, 2nd ed., Cambridge: Harvard University Press.
-* –––, 1963/1975. “Carnap and Logical Truth,” Reprinted *The Ways of Paradox*, 2nd ed., Cambridge: Harvard University Press.
+* Alston, William, 2000. _Illocutionary Acts and Sentence Meaning_, Ithaca: Cornell University Press.
+* Anderson, Elizabeth, 2000. “Beyond _Homo Economicus_: New Developments in Theories of Social Norms,” _Philosophy and Public Affairs_, 29: 170–200.
+* Aristotle, 1980. _Nicomachean Ethics_, trans. David Ross. Rev. trans. J. L. Ackrill and J. O. Urmson. Oxford: Oxford University Press.
+* –––, 1984. _De Interpretatione_, in _The Complete Works of Aristotle_, ed. Jonathan Barnes, Princeton: Princeton University Press.
+* Aumann, Robert, 1974. “Subjectivity and Correlation in Randomized Strategies,” _Journal of Mathematical Economics_, 1: 67–96.
+* –––, 1976. “Agreeing to Disagree,” _Annals of Statistics_, 4: 1236–1239.
+* –––, 1987. “Correlated Equilibrium as an Expression of Bayesian Rationality,” _Econometrica_, 55: 1–18.
+* Avramides, Anita, 1997. “Intention and Convention,” in _A Companion to the Philosophy of Language_, ed. Bob Hale and Crispin Wright, Malden: Blackwell.
+* Ayer, A. J., 1936/1952. _Language, Truth, and Logic_, 2nd ed., New York: Dover.
+* Axelrod, Robert, 1984. _The Evolution of Cooperation_, New York: Basic Books.
+* Ben-Menahem, Yemima, 2006. _Conventionalism_, Cambridge: Cambridge University Press.
+* Bennett, Jonathan, 1976. _Linguistic Behavior_, Cambridge: Cambridge University Press.
+* Bicchieri, Cristina, 2006. _The Grammar of Society_, Cambridge: Cambridge University Press.
+* –––, 2016. _Norms in the Wild: How to Diagnose, Measure, and Change Social Norms_, Oxford: Oxford University Press.
+* Binmore, Ken, 2008. “Do Conventions Need to be Common Knowledge?” _Topoi_, 27: 17–27.
+* Binmore, Ken and Samuelson, Larry, 2006. “The Evolution of Focal Points,” _Games and Economic Behavior_, 55: 21–42.
+* Blackburn, Simon, 1984. _Spreading the Word_, Oxford: Clarendon Press.
+* Blume, Andreas, DeJong, Douglas, Kim, Yong Gwan, and Sprinkle, Geoffrey, 1998. “Experimental Evidence on the Evolution of Meaning of Messages in Sender-Receiver Games,” _The American Economic Review_, 88: 1323–1340.
+* Brandom, Robert, 1994. _Making it Explicit_, Cambridge: Harvard University Press.
+* Brown, George, 1951. “Iterative Solutions to Games by Fictitious Play,” in _Activity Analysis of Production and Allocation_, ed. T. C. Koopmans, New York: Wiley.
+* Bruner, Justin, O’Connor, Cailin, Rubin, Hannah, and Huttegger, Simon, 2018. “David Lewis in the Lab: Experimental Results on the Emergence of Meaning,” _Synthese_, 195: 603–621.
+* Bunzl, Martin and Kreuter, Richard, 2003. “Conventions Made too Simple?”. _Philosophy of the Social Science_s 33: 417–426.
+* Burge, Tyler, 1975. “On Knowledge and Convention,” _Philosophical Review_, 84: 249–255.
+* Carnap, Rudolf, 1937/2002. _The Logical Syntax of Language_, trans. Amethe Smeaton. Chicago: Open Court Press.
+* Chomsky, Noam, 1980. _Rules and Representations_, New York: Columbia University Press.
+* Cochran, Calvin, and Barrett, Jeffrey, 2021. “How Signaling Conventions Are Established,” _Synthese_, 199: 4367–4391.
+* Coffa, Alberto, 1993. _The Semantic Tradition from Kant to Carnap_, Cambridge: Cambridge University Press.
+* Cubitt, Robin, and Sugden, Robert, 2003. “Common Knowledge, Salience, and Convention: A Reconstruction of David Lewis’s Game Theory,” _Economics and Philosophy_, 19: 175–210.
+* Davidson, Donald, 1984. “Convention and Communication,” in _Inquiries into Truth and Interpretation_, Oxford: Oxford University Press.
+* Davies, Martin, 2003. “Philosophy of Language,” in _The Blackwell Companion to Philosophy_, ed. Nicholas Bunnin and E. P. Tsui-James, Malden: Blackwell.
+* Davis, Wayne, 2003. _Meaning, Expression, and Thought_, Cambridge: Cambridge University Press.
+* DiSalle, Robert, 2002. “Conventionalism and Modern Physics: A Reassessment,” _Noûs_, 36: 169–200.
+* Dummett, Michael, 1991. _The Logical Basis of Metaphysics_, Cambridge: Harvard University Press.
+* –––, 1993. _The Seas of Language_, Oxford: Oxford University Press.
+* Einheuser, Iris, 2006. “Counterconventional Conditionals,” _Philosophical Studies_, 127: 459–482.
+* Foster, Dean and Young, H. Peyton, 2001. “On the Impossibility of Predicting the Behavior of Rational Agents,” _Proceedings of the National Academy of Sciences_, 98: 12848–12853.
+* –––, 2003. “Learning, Hypothesis Testing, and Nash equilibrium,” _Games and Economics Behavior_, 45: 73–96.
+* –––, 2006. “Regret Testing: Learning to Play Nash Equilibrium Without Knowing that You Have an Opponent,” _Theoretical Economics_, 1: 341–367.
+* Franssen, Maarten, 2004. “Review of Peter Vanderschraaf’s Learning, _and Coordination: Inductive Deliberation, Equilibrium, and Convention_,” _Economics and Philosophy_, 20: 375–416.
+* Friedlin, M. I., and Wentzell, A. D., 1984. _Random perturbations of dynamical systems_, New York: Springer.
+* Friedman, Michael, 1983. _Foundations of Space-Time Theories_, Princeton: Princeton University Press.
+* –––, 1999. _Reconsidering Logical Positivism_, Cambridge: Cambridge University Press.
+* Fudenberg, Drew and Levine, David, 1998. _The Theory of Learning in Games_, Cambridge, MA: MIT Press.
+* Gauthier, David, 1979. “David Hume: Contractarian,” _Philosophical Review_, 88: 3–38.
+* Gilbert, Margaret, 1981. “Game Theory and _Convention_,” _Synthese_, 46: 41–93.
+* –––, 1983. “Agreements, Conventions, and Language,” _Synthese_, 54: 375–407.
+* –––, 1983. “Notes on the Concept of Social Convention,” _New Literary History_, 14: 225–251.
+* –––, 1989. _On Social Facts_, New York: Routledge.
+* –––, 1990. “Rationality, Coordination, and Convention,” _Synthese_, 84: 1–21.
+* –––, 2008. “Social Convention Revisited,” _Topoi_, 27: 5–16.
+* Gödel, Kurt, 1995. “Is Mathematics Syntax of Language?”. In _Kurt Gödel: Collected Works_, vol. 3., ed. Solomon Feferman, John Dawson, Warren Goldfarb, Charles Parsons, and Robert Solovay, Oxford: Oxford University Press.
+* Goldfarb, Warren, 1995. “Introductory Note to \[Gödel 1995],” in _Kurt Gödel: Collected Works_, vol. 3. ed. Solomon Feferman, John Dawson, Warren Goldfarb, Charles Parsons, and Robert Solovay, Oxford: Oxford University Press.
+* –––, 1997. “Semantics in Carnap: A Rejoinder to Coffa,” _Philosophical Topics_, 25: 51–66.
+* Goldfarb, Warren and Ricketts, Thomas, 1992. “Carnap and the Philosophy of Mathematics,” in _Science and Subjectivity_, ed. David Bell and Wilhelm Vossenkuhl, Berlin: Akademie.
+* Goodman, Nelson, 1976. _Languages of Art_, Indianapolis: Hackett.
+* –––, 1978. _Ways of Worldmaking_, Indianapolis: Hackett.
+* –––, 1989. “Just the Facts, Ma’am!,” In _Relativism: Interpretation and Confrontation_, ed. Michael Krausz, Notre Dame: University of Notre Dame Press.
+* Goyal, Sanjeev, and Janssen, Maarten, 1996. “Can We Rationally Learn to Coordinate?,” _Theory and Decision_, 40: 29–49.
+* Grandy, Richard, 1977. “A Review of Lewis’s _Convention: A Philosophy Study_,” _Journal of Philosophy_, 74: 129–139.
+* Grünbaum, Adolf, 1962. “Geometry, Chronometry, and Empiricism,” in _Minnesota Studies in the Philosophy of Science_, vol. 3. Eds. Herbert Feigl and Grover Maxwell. Minneapolis: University of Minnesota Press.
+* Harman, Gilbert, 1996. “Moral Relativism,” in _Moral Relativism and Moral Objectivity_, ed. Gilbert Harman and J.J. Thompson, Cambridge: Blackwell.
+* Harsanyi, John, and Selten, Reinhard, 1988. _A General Theory of Equilibrium Selection_, Cambridge, MA: MIT Press.
+* Hawkins, Robert, Franke, Michael, Frank, Michael C., Goldberg, Adele, Smith, Kenny, Griffiths, Thomas, and Goodman, Noah, 2023. “From Partners to Populations: A Hierarchical Bayesian Account of Coordination and Convention,” _Psychological Review_, 130: 977–1016.
+* Hawthorne, John, 1990. “A Note on ‘Languages and Language,’” _Australasian Journal of Philosophy_, 68: 116–118.
+* –––, 1993. “Meaning and Evidence: A Reply to Lewis,” _Australasian Journal of Philosophy_, 71: 206–211.
+* Higginbotham, James, 1986. “Linguistic Theory and Davidson’s Program in Semantics,” in _Truth and Interpretation_, ed. Ernest Lepore. New York: Blackwell.
+* Hume, David, 1740/1976. _A Treatise of Human Nature_, ed. L. A. Selby-Brigge, revised 3rd edn., ed. P. H. Nidditch, Oxford: Clarendon Press.
+* –––, 1777/ 1975. _Enquiries Concerning Human Understanding and Concerning the Principles of Morals_, ed. by L. A. Selby-Brigge, revised 3rd edn., ed. P. H. Nidditch, Oxford: Clarendon Press.
+* –––, 1741–2/1985. “Of the Original Contract,” in _Essays Moral, Political, and Literary_, ed. Eugene Miller, New York: Liberty Press.
+* –––, 1752/1994. “Of Money,” in _Hume: Political Essays_, ed. Knud Haakonssen, Cambridge: Cambridge University Press.
+* Huttegger, Simon, 2014. “How Much Rationality Do We Need to Explain Conventions?,” _Philosophy Compass_, 9: 11–21.
+* Jamieson, Dale, 1975. “David Lewis on Convention,” _Canadian Journal of Philosophy_, 5: 73–81.
+* Kalai, Ehud, and Lehrer, Ehud, 1993. “Rational Learning Leads to Nash Equilibrium,” _Econometrica_, 61: 1019–45.
+* Kandori, Michihiro, Mailath, George, and Rob, Rafael, 1993. “Learning, Mutation, and Long-Run Equilibria in Games,” _Econometrica_, 61: 29–56.
+* Kölbel, Max, 1998. “Lewis, Language, Lust, and Lies,” _Inquiry_, 41: 301–315.
+* Larson, Richard and Segal, Gabriel, 1995. _Knowledge of Meaning_, Cambridge, MA: MIT Press.
+* Laurence, Stephen, 1996. “A Chomskian Alternative to Convention-Based Semantics,” _Mind_, 105: 269–301.
+* Lepore, Ernie, and Stone, Matthew, 2015. _Imagination and Convention_, Oxford: Oxford University Press.
+* Lewis, David, 1969. _Convention_, Cambridge: Harvard University Press.
+* –––, 1975/1983. “Languages and Language,” Reprinted in _Philosophical Papers_, vol. 1. Oxford: Oxford University Press.
+* –––, 1976/2000. “Convention: Reply to Jamieson,” Reprinted in _Papers in Ethics and Social Philosophy_, Cambridge: Cambridge University Press.
+* –––, 1992/2000. “Meaning Without Use: Reply to Hawthorne,” Reprinted in _Papers in Ethics and Social Philosophy_, Cambridge: Cambridge University Press.
+* Loar, Brian, 1976. “Two Theories of Meaning,” in _Truth and Meaning_, ed. Gareth Evans and John McDowell, Oxford: Oxford University Press.
+* Locke, John, 1689/1975. _An Essay Concerning the Human Understanding_, ed. Peter Nidditch, Oxford: Clarendon Press.
+* –––, 1689/1988. _Two Treatises of Government_, ed. Peter Laslett, Cambridge: Cambridge University Press.
+* Marmor, Andrei, 1996. “On Convention,” _Synthese_, 107: 349–371.
+* –––, 2007. “Deep Conventions. ” _Philosophy and Phenomenological Research_, 74: 586–610.
+* –––, 2009. _Social Conventions_, Princeton: Princeton University Press.
+* Maynard Smith, John, and Price, George, 1973. “The Logic of Animal Conflicts,” _Nature_, 146: 15–18.
+* Milgrom, Paul, and Robert, John, 1991. “Adaptive and Sophisticated Learning in Normal Form Games,” _Games and Economics Behavior_, 3: 82–100.
+* Miller, Seumas, 1986a. “Truthtelling and the Actual Language Relation,” _Philosophical Studies_, 49: 281–94.
+* –––, 1986b. “Conventions, Interdependence of Action, and Collective Ends,” _Nous_, 20: 117–140.
+* –––, 1990. “Rationalizing Conventions,” _Synthese_, 84: 23–41.
+* –––, 2001. _Social Action: A Teleological Account_. Cambridge: Cambridge University Press.
+* Millikan, Ruth, 2005. _Language: A Biological Model_, Oxford: Clarendon Press.
+* –––, 2008. “A Difference of Some Consequence Between Conventions and Rules,” _Topoi_, 27: 87–99.
+* Moore, Richard, 2013. “Imitation and Conventional Communication,” _Biology and Philosophy_, 28: 481–500.
+* Murphy, Liam and Nagel, Thomas, 2002. _The Myth of Ownership_, Oxford: Oxford University Press.
+* Nachbar, John, 1997. “Prediction, Optimization, and Learning in Repeated Games,” _Econometrica_, 65: 275–309.
+* O’Connor, Cailin, 2021. “Measuring Conventionality,” _Australasian Journal of Philosophy_, 99: 579–596.
+* Oddie, Graham, 1999. “Moral Realism, Moral Relativism, and Moral Rules,” _Synthese_, 117: 251–274.
+* Parfit, Derek, 1984. _Reasons and Persons_, Oxford: Oxford University Press.
+* Peacocke, Christopher, 1987. “Understanding Logical Constants: A Realist’s Account,” _Proceedings of the British Academy_, 73: 153–200.
+* –––, 1998. “Concepts Without Words,” in _Language, Thought, and Logic_: _Essays in Honor of Michael Dummett_, ed. Richard Heck, Oxford: Oxford University Press.
+* Plato, “Cratylus,” trans. C. D. C. Reeve. In _Complete Works_, ed. John Cooper, Indianapolis: Hackett, 1997.
+* Poincaré, Henri, 1902/1905. _Science and Hypothesis_. In _The Foundations of Science_, trans. George Halsted, New York: The Science Press.
+* Prawitz, Dag, 1977. “Meaning and Proofs: On the Conflict Between Classical and Intuitionistic Logic,” _Theoria_, 43: 2–40.
+* Putnam, Hilary, 1962/1985. “The Analytic and the Synthetic,” Reprinted in _Philosophical Papers_, vol. 2. Cambridge: Cambridge University Press.
+* –––, 1962/1975. “An Examination of Grünbaum’s Philosophy of Geometry,” Reprinted in _Philosophical Papers_, vol. 1. Cambridge: Cambridge University Press.
+* –––, 1974/1985. “The Refutation of Conventionalism,” Reprinted in _Philosophical Papers_, vol. 2. Cambridge: Cambridge University Press.
+* –––, 1981. “Convention: A Theme in Philosophy,” _New Literary History_, 13: 1–14.
+* –––, 1987. _The Many Faces of Realism_, LaSalle: Open Court.
+* Quine, W. V., 1936/1976. “Truth by Convention,” reprinted in _The Ways of Paradox_, 2nd ed., Cambridge: Harvard University Press.
+* –––, 1963/1975. “Carnap and Logical Truth,” Reprinted _The Ways of Paradox_, 2nd ed., Cambridge: Harvard University Press.
 * –––, 1969. “Foreword,” in Lewis, 1969.
-* Rawls, John, 1955. “Two Concepts of Rules,” *Philosophical Review*, 63: 3–32.
-* Reichenbach, Hans, 1922/1978. “The Present State of the Discussion on Relativity,” trans. M. Reichenbach. In *Hans Reichenbach: Selected Writings, 1909–1953*, vol. 2, Dordrecht: Reidel.
-* Russell, Bertrand, 1921. *The Analysis of Mind*, London: Unwin Brothers Ltd.
-* Samuelson, Larry, 1997. *Evolutionary Games and Equilibrium Selection*, Cambridge, MA: MIT Press.
-* Schelling, Thomas, 1960. *The Strategy of Conflict*, Cambridge: Harvard University Press.
-* Schiffer, Stephen, 1972. *Meaning*, Oxford: Oxford University Press.
-* –––, 1987. *Remnants of Meaning*, Cambridge, MA: MIT Press.
-* –––, 1993. “Actual-Language Relations,” *Philosophical Perspectives*, 7: 231–258.
-* –––, 2006. “Two Perspectives on Knowledge of Language,” *Philosophical Issues*, 16: 275–287.
-* –––, 2017. “Intention and Convention in the Theory of Meaning,” in B. Hale, C. Wright, and A. Miller (eds.), *A Companion to the Philosophy of Language*, 2nd edition, Malden, MA: Wiley.
-* Schlick, Moritz, 1917/1920. *Space and Time in Contemporary Physics*, trans. H. L. Brose. Oxford: Oxford University Press.
-* –––, 1953.“Are Natural Laws Conventions?,” trans. Herbert Feigl and May Brodbeck. In *Readings in the Philosophy of Science*, ed. Feigl and Brodbeck, New York: Appleton-Century-Crofts.
-* Schotter, Andrew, 1981. *The Economic Theory of Social Institutions*, Cambridge: Cambridge University Press.
-* Searle, John, 1969. *Speech Acts*, Cambridge: Cambridge University Press.
-* –––, 1995. *The Construction of Social Reality*, New York: Free Press.
-* –––, 2001. *Rationality in Action*, Cambridge, MA: MIT Press.
-* Sellars, Wilfrid, 1963. “Some Reflections on Language Games,” Reprinted in *Science, Perception, and Reality*, New York: Routledge and Kegan Paul.
-* Shapley, Lloyd, 1964. “Some Topics in Two-person Games,” *Advances in Game Theory: Annals of Mathematical Studies*, 5: 1–28.
-* Shin, Hyun Song and Williamson, Timothy, 1996. “How Much Common Belief is Necessary for Convention?,” *Games and Economic Behavior*, 13: 252–268.
-* Sidelle, Alan, 1989. *Necessity, Essence, and Individuation: A Defense of Conventionalism*, Cornell: Cornell University Press.
-* Sider, Theodore, 2003. “Reductive Theories of Modality,” in *The Oxford Handbook of Metaphysics*, ed. Michael Loux and Dean Zimmerman, Oxford: Oxford University Press.
-* Sillari, Giacomo, 2005. “A Logical Framework for Convention,” *Synthese*, 147: 379–400.
-* –––, 2008. “Common Knowledge and Convention,” *Topoi*, 27: 29–39.
-* Simmel, Georg, 1908/1971. “How is Society Possible?,” Reprinted in *George Simmel: On Individuality and Social Forms*, ed. Donald Levine, Chicago: University of Chicago Press.
-* Simons, Mandy, and Zollman, Kevin, 2019. “Natural Conventions and Indirect Speech Acts,” *Philosophers’Imprint*, 19: 1–26.
-* Sklar, Lawrence, 1977. *Space, Time, and Spacetime*. Berkeley: University of California Press.
-* Skyrms, Brian, 1996. *Evolution of the Social Contract*, Cambridge: Cambridge University Press.
-* –––, 1998. “Salience and Symmetry-Breaking in the Evolution of Convention,” *Law and Philosophy*, 17: 411–418.
-* –––, 2010. *Signals: Evolution, Learning, and Communication*, Oxford: Oxford University Press.
-* –––, 2023. “Quasi-Conventions,” *Synthese*, 201: 1–16.
-* Snare, Francis, 1991. *Moral, Motivation, and Convention*. Cambridge: Cambridge University Press.
-* Sugden, Robert, 1986/2004. *The Economics of Rights, Co-operation, and Welfare*, 2nd ed., New York: Palgrave Macmillan.
-* –––, 1998. “The Role of Inductive Reasoning in the Evolution of Conventions,” *Law and Philosophy*, 17: 377–410.
-* –––, 2011. “Salience, Inductive Reasoning, and the Emergence of Conventions,” *Journal of Economic Behavior and Organization*, 79: 35–47.
-* Syverson, Paul, 2003. *Logic, Convention, and Common Knowledge: A Conventionalist Account of Logic*, Stanford: CSLI Publications.
-* Taylor, Peter and Jonker, Leo, 1978. “Evolutionarily Stable Strategies and Game Dynamics,” *Mathematical Biosciences*, 40: 145–156.
-* Ullmann-Margalit, Edna, 1977. *The Emergence of Norms*, Oxford: Clarendon Press.
-* Vanderschraaf, Peter, 1995. “Convention as Correlated Equilibrium,” *Erkenntnis*, 42: 65–87.
-* –––, 1998a. “The Informal Game Theory in Hume’s Account of Convention,” *Economics and Philosophy*, 14: 215–247.
-* –––, 1998b. “Knowledge, Equilibrium, and Convention,” *Erkenntnis*, 49: 337–369.
-* –––, 2001. *Learning and Coordination: Inductive Deliberation, Equilibrium, and Convention*, London: Routledge.
-* –––, 2019. *Strategic Justice: Convention and Problems of Balancing Divergent Interests*, Oxford: Oxford University Press.
-* Verbeek, Bruno, 2008. “Conventions and Moral Norms: The Legacy of Lewis,” *Topoi*, 27: 73–86.
-* Warren, Jared, 2015. “Conventionalism, Consistency, and Consistency Sentences,” *Synthese*, 192: 1351–1371.
-* –––, 2017. “Revisiting Quine on Truth by Convention,” *Journal of Philosophical Logic*, 46: 119–139.
-* –––, 2020. *Shadows of Syntax*, Oxford: Oxford University Press.
-* Williams, Bernard, 2002. *Truth and Truthfulness*, Princeton: Princeton University Press.
-* Williamson, Timothy, 2000. *Knowledge and its Limits*, Oxford: Oxford University Press.
-* Young, H. Peyton, 1993. “The Evolution of Conventions,” *Econometrica*, 61: 57–84.
-* –––, 1996. “The Economics of Convention,” *Journal of Economic Perspectives*, 10: 105–122.
-* –––, 1998. *Individual Strategy and Social Structure*, Princeton: Princeton University Press.
-* –––, 2004. *Strategic Learning and its Limits*, Oxford: Oxford University Press.
-* Zermelo, Ernst, 1913. “Über eine Anwendung der Mengenlehre auf die theorie des Schachspiels,” *Proceedings of the Fifth International Congress of Mathematicians*, 2: 501–4.
+* Rawls, John, 1955. “Two Concepts of Rules,” _Philosophical Review_, 63: 3–32.
+* Reichenbach, Hans, 1922/1978. “The Present State of the Discussion on Relativity,” trans. M. Reichenbach. In _Hans Reichenbach: Selected Writings, 1909–1953_, vol. 2, Dordrecht: Reidel.
+* Russell, Bertrand, 1921. _The Analysis of Mind_, London: Unwin Brothers Ltd.
+* Samuelson, Larry, 1997. _Evolutionary Games and Equilibrium Selection_, Cambridge, MA: MIT Press.
+* Schelling, Thomas, 1960. _The Strategy of Conflict_, Cambridge: Harvard University Press.
+* Schiffer, Stephen, 1972. _Meaning_, Oxford: Oxford University Press.
+* –––, 1987. _Remnants of Meaning_, Cambridge, MA: MIT Press.
+* –––, 1993. “Actual-Language Relations,” _Philosophical Perspectives_, 7: 231–258.
+* –––, 2006. “Two Perspectives on Knowledge of Language,” _Philosophical Issues_, 16: 275–287.
+* –––, 2017. “Intention and Convention in the Theory of Meaning,” in B. Hale, C. Wright, and A. Miller (eds.), _A Companion to the Philosophy of Language_, 2nd edition, Malden, MA: Wiley.
+* Schlick, Moritz, 1917/1920. _Space and Time in Contemporary Physics_, trans. H. L. Brose. Oxford: Oxford University Press.
+* –––, 1953.“Are Natural Laws Conventions?,” trans. Herbert Feigl and May Brodbeck. In _Readings in the Philosophy of Science_, ed. Feigl and Brodbeck, New York: Appleton-Century-Crofts.
+* Schotter, Andrew, 1981. _The Economic Theory of Social Institutions_, Cambridge: Cambridge University Press.
+* Searle, John, 1969. _Speech Acts_, Cambridge: Cambridge University Press.
+* –––, 1995. _The Construction of Social Reality_, New York: Free Press.
+* –––, 2001. _Rationality in Action_, Cambridge, MA: MIT Press.
+* Sellars, Wilfrid, 1963. “Some Reflections on Language Games,” Reprinted in _Science, Perception, and Reality_, New York: Routledge and Kegan Paul.
+* Shapley, Lloyd, 1964. “Some Topics in Two-person Games,” _Advances in Game Theory: Annals of Mathematical Studies_, 5: 1–28.
+* Shin, Hyun Song and Williamson, Timothy, 1996. “How Much Common Belief is Necessary for Convention?,” _Games and Economic Behavior_, 13: 252–268.
+* Sidelle, Alan, 1989. _Necessity, Essence, and Individuation: A Defense of Conventionalism_, Cornell: Cornell University Press.
+* Sider, Theodore, 2003. “Reductive Theories of Modality,” in _The Oxford Handbook of Metaphysics_, ed. Michael Loux and Dean Zimmerman, Oxford: Oxford University Press.
+* Sillari, Giacomo, 2005. “A Logical Framework for Convention,” _Synthese_, 147: 379–400.
+* –––, 2008. “Common Knowledge and Convention,” _Topoi_, 27: 29–39.
+* Simmel, Georg, 1908/1971. “How is Society Possible?,” Reprinted in _George Simmel: On Individuality and Social Forms_, ed. Donald Levine, Chicago: University of Chicago Press.
+* Simons, Mandy, and Zollman, Kevin, 2019. “Natural Conventions and Indirect Speech Acts,” _Philosophers’Imprint_, 19: 1–26.
+* Sklar, Lawrence, 1977. _Space, Time, and Spacetime_. Berkeley: University of California Press.
+* Skyrms, Brian, 1996. _Evolution of the Social Contract_, Cambridge: Cambridge University Press.
+* –––, 1998. “Salience and Symmetry-Breaking in the Evolution of Convention,” _Law and Philosophy_, 17: 411–418.
+* –––, 2010. _Signals: Evolution, Learning, and Communication_, Oxford: Oxford University Press.
+* –––, 2023. “Quasi-Conventions,” _Synthese_, 201: 1–16.
+* Snare, Francis, 1991. _Moral, Motivation, and Convention_. Cambridge: Cambridge University Press.
+* Sugden, Robert, 1986/2004. _The Economics of Rights, Co-operation, and Welfare_, 2nd ed., New York: Palgrave Macmillan.
+* –––, 1998. “The Role of Inductive Reasoning in the Evolution of Conventions,” _Law and Philosophy_, 17: 377–410.
+* –––, 2011. “Salience, Inductive Reasoning, and the Emergence of Conventions,” _Journal of Economic Behavior and Organization_, 79: 35–47.
+* Syverson, Paul, 2003. _Logic, Convention, and Common Knowledge: A Conventionalist Account of Logic_, Stanford: CSLI Publications.
+* Taylor, Peter and Jonker, Leo, 1978. “Evolutionarily Stable Strategies and Game Dynamics,” _Mathematical Biosciences_, 40: 145–156.
+* Ullmann-Margalit, Edna, 1977. _The Emergence of Norms_, Oxford: Clarendon Press.
+* Vanderschraaf, Peter, 1995. “Convention as Correlated Equilibrium,” _Erkenntnis_, 42: 65–87.
+* –––, 1998a. “The Informal Game Theory in Hume’s Account of Convention,” _Economics and Philosophy_, 14: 215–247.
+* –––, 1998b. “Knowledge, Equilibrium, and Convention,” _Erkenntnis_, 49: 337–369.
+* –––, 2001. _Learning and Coordination: Inductive Deliberation, Equilibrium, and Convention_, London: Routledge.
+* –––, 2019. _Strategic Justice: Convention and Problems of Balancing Divergent Interests_, Oxford: Oxford University Press.
+* Verbeek, Bruno, 2008. “Conventions and Moral Norms: The Legacy of Lewis,” _Topoi_, 27: 73–86.
+* Warren, Jared, 2015. “Conventionalism, Consistency, and Consistency Sentences,” _Synthese_, 192: 1351–1371.
+* –––, 2017. “Revisiting Quine on Truth by Convention,” _Journal of Philosophical Logic_, 46: 119–139.
+* –––, 2020. _Shadows of Syntax_, Oxford: Oxford University Press.
+* Williams, Bernard, 2002. _Truth and Truthfulness_, Princeton: Princeton University Press.
+* Williamson, Timothy, 2000. _Knowledge and its Limits_, Oxford: Oxford University Press.
+* Young, H. Peyton, 1993. “The Evolution of Conventions,” _Econometrica_, 61: 57–84.
+* –––, 1996. “The Economics of Convention,” _Journal of Economic Perspectives_, 10: 105–122.
+* –––, 1998. _Individual Strategy and Social Structure_, Princeton: Princeton University Press.
+* –––, 2004. _Strategic Learning and its Limits_, Oxford: Oxford University Press.
+* Zermelo, Ernst, 1913. “Über eine Anwendung der Mengenlehre auf die theorie des Schachspiels,” _Proceedings of the Fifth International Congress of Mathematicians_, 2: 501–4.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=convention). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/convention/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=convention&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/convention/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=convention).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/convention/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=convention\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/convention/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [Resources on convention and related areas](http://web.archive.org/web/20060902114417/http://www.hss.cmu.edu/philosophy/vanderschraaf/resources.htm), September 2006, by Peter Vanderschraaf.
 
-[Please contact the author with additional suggestions.]
+\[Please contact the author with additional suggestions.]
 
 ## Related Entries
 
-[analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/) | [Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Bayes’ Theorem](https://plato.stanford.edu/entries/bayes-theorem/) | [common knowledge](https://plato.stanford.edu/entries/common-knowledge/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [game theory](https://plato.stanford.edu/entries/game-theory/) | [game theory: evolutionary](https://plato.stanford.edu/entries/game-evolutionary/) | [Goodman, Nelson](https://plato.stanford.edu/entries/goodman/) | [Hobbes, Thomas: moral and political philosophy](https://plato.stanford.edu/entries/hobbes-moral/) | [Hume, David: moral philosophy](https://plato.stanford.edu/entries/hume-moral/) | [implicature](https://plato.stanford.edu/entries/implicature/) | [Lewis, David](https://plato.stanford.edu/entries/david-lewis/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [moral relativism](https://plato.stanford.edu/entries/moral-relativism/) | [nature of law: natural law theories](https://plato.stanford.edu/entries/natural-law-theories/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [social contract: contemporary approaches to](https://plato.stanford.edu/entries/contractarianism-contemporary/) | [social institutions](https://plato.stanford.edu/entries/social-institutions/) | [social norms](https://plato.stanford.edu/entries/social-norms/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
+[analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/) | [Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Bayes’ Theorem](https://plato.stanford.edu/entries/bayes-theorem/) | [common knowledge](https://plato.stanford.edu/entries/common-knowledge/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [game theory](https://plato.stanford.edu/entries/game-theory/) | [game theory: evolutionary](https://plato.stanford.edu/entries/game-evolutionary/) | [Goodman, Nelson](https://plato.stanford.edu/entries/goodman/) | [Hobbes, Thomas: moral and political philosophy](https://plato.stanford.edu/entries/hobbes-moral/) | [Hume, David: moral philosophy](https://plato.stanford.edu/entries/hume-moral/) | [implicature](https://plato.stanford.edu/entries/implicature/) | [Lewis, David](https://plato.stanford.edu/entries/david-lewis/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [moral relativism](https://plato.stanford.edu/entries/moral-relativism/) | [nature of law: natural law theories](https://plato.stanford.edu/entries/natural-law-theories/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [social contract: contemporary approaches to](https://plato.stanford.edu/entries/contractarianism-contemporary/) | [social institutions](https://plato.stanford.edu/entries/social-institutions/) | [social norms](https://plato.stanford.edu/entries/social-norms/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
 
-[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
-Michael Rescorla <[*rescorla@ucla.edu*](mailto:rescorla%40ucla%2eedu)>
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
+Michael Rescorla <[_rescorla@ucla.edu_](mailto:rescorla%40ucla%2eedu)>
