@@ -619,3 +619,5 @@
   * [\*非期望效用的理性选择理论——见理性选择的规范理论：理性选择的规范理论：预期效用的替代理论 non-expected-utility theories of rational choice — see rational choice, normative: rivals to expected utility](d/jue-ce-li-lun-decision-theory-katie-steele-and-h.-orri-stefnsson/fei-qi-wang-xiao-yong-de-li-xing-xuan-ze-li-lun-jian-li-xing-xuan-ze-de-gui-fan-li-lun-li-xing-xuan.md)
 * [\*理查德·戴德金 Dedekind, Richard](d/li-cha-de-dai-de-jin-dedekind-richard/README.md)
   * [理查德·戴德金对数学基础的贡献 contributions to the foundations of mathematics (Erich Reck)](d/li-cha-de-dai-de-jin-dedekind-richard/li-cha-de-dai-de-jin-dui-shu-xue-ji-chu-de-gong-xian-contributions-to-the-foundations-of-mathematics.md)
+* [数学哲学中的演绎主义 deductivism in the philosophy of mathematics (Alexander Paseau and Fabian Pregel)](d/shu-xue-zhe-xue-zhong-de-yan-yi-zhu-yi-deductivism-in-the-philosophy-of-mathematics-alexander-paseau.md)
+* [语义学和语用学中的默认 defaults in semantics and pragmatics (Katarzyna M. Jaszczolt)](d/yu-yi-xue-he-yu-yong-xue-zhong-de-mo-ren-defaults-in-semantics-and-pragmatics-katarzyna-m.-jaszczolt.md)
