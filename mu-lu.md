@@ -489,7 +489,7 @@
 * [1277 年巴黎大谴责 condemnation of 1277 (Hans Thijssen)](c/1277-nian-ba-li-qian-ze-condemnation-of-1277-hans-thijssen.md)
 * [艾蒂安·博诺·德·孔狄亚克 Condillac, Étienne Bonnot de (Lorne Falkenstein and Giovanni Grandi)](c/ai-di-an-bo-nuo-de-kong-di-ya-ke-condillac-tienne-bonnot-de-lorne-falkenstein-and-giovanni-grandi.md)
 * [直陈条件 conditionals (Dorothy Edgington)](c/zhi-chen-tiao-jian-conditionals-dorothy-edgington/)
-  * [反事实条件 counterfactual (W. Starr)](c/zhi-chen-tiao-jian-conditionals-dorothy-edgington/fan-shi-shi-tiao-jian-counterfactual-w.-starr.md)
+  * [反事实条件 counterfactual (W. Starr)](c/zhi-chen-tiao-jian-conditionals-dorothy-edgington/fan-shi-shi-counterfactual-w.-starr.md)
   * [\*逻辑——见条件句的逻辑 logic of — see logic: conditionals](c/zhi-chen-tiao-jian-conditionals-dorothy-edgington/luo-ji-jian-luo-ji-xue-tiao-jian-ju-de-luo-ji-logic-of-see-logic-conditionals.md)
 * [\*马里·让·安托万·尼古拉·德·卡里塔，孔多塞侯爵 Condorcet, Marie-Jean-Antoine-Nicolas de Caritat, Marquis de](c/ma-li-rang-an-tuo-wan-ni-gu-la-de-ka-li-ta-kong-duo-sai-hou-jue-condorcet-mariejeanantoinenicolas-de/)
   * [女权主义历史：马里·让·安托万·尼古拉·德·卡里塔，孔多塞侯爵 in the history of feminism (Joan Landes)](c/ma-li-rang-an-tuo-wan-ni-gu-la-de-ka-li-ta-kong-duo-sai-hou-jue-condorcet-mariejeanantoinenicolas-de/nv-quan-zhu-yi-li-shi-ma-li-rang-an-tuo-wan-ni-gu-la-de-ka-li-ta-kong-duo-sai-hou-jue-in-the-history.md)
