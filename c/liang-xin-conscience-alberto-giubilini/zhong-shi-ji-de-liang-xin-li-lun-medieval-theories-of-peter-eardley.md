@@ -1,2 +1,320 @@
 # 中世纪的良心理论 medieval theories of (Peter Eardley)
 
+*首次发表于 2021 年 1 月 19 日星期二*
+
+人类心智在道德行为中扮演什么角色的问题，或者说道德心理学的研究，自 1990 年代初至中期以来一直是中世纪哲学中一个富有成果的研究领域。自那时起，学者们在阐明中世纪对自由意志、道德软弱问题以及情感和道德美德在实现幸福中所起的作用等永恒主题方面做出了很多贡献（例如，Kent 1995，Saarinen 1994，Dumont 2000，Eardley 2006，Hoffmann 2007 和 Osborne 2014）。同样，关于道德基础的元伦理理论在中世纪时期备受关注，如自然法理论，特别是其托马斯主义和斯科特主义变体，仍然受到学术界的广泛关注（例如，Porter 2005，Möhle 2003，Lisska 2012，Sweeney 2012 和 Cross 2012）。然而，相对较少的关注被致力于被认为连接心理学与元伦理学的东西：良心的心理习惯或行为（以及其姊妹概念 synderesis），尽管最近对这一主题的兴趣有所复苏（例如，Hoffmann 2012，Eardley 2013 和 Dougherty 2018）。
+
+这种明显的直觉把对错分辨开来的能力的范围和性质是什么？良心是否会犯错，如果会，它的规范仍然有效吗？解决这些以及其他问题的最佳方式是采用发展性方法。术语“良心”仍然通常用来指代一种与生俱来的道德感，但今天它的内涵与中世纪时期略有不同，而中世纪的内涵又与前文化时代和《圣经》中的内涵有所不同。然而，中世纪关于良心的理论在很大程度上借鉴了这些早期来源。由于良心和良知的概念随着时间的推移而演变，因此，有必要对这一主题采取线性方法，并从一些背景开始。
+
+* [背景：异教徒和早期基督教背景](https://plato.stanford.edu/entries/conscience-medieval/#BackPagaEarlChriCont)
+
+  * [1.1 古代背景：司法良心](https://plato.stanford.edu/entries/conscience-medieval/#AnciContJudiCons)
+  * [1.2 圣保罗：立法良心](https://plato.stanford.edu/entries/conscience-medieval/#StPaulLegiCons)
+  * [1.3 圣杰罗姆：良心的发明](https://plato.stanford.edu/entries/conscience-medieval/#StJeroInveSynd)
+* [早期学院传统](https://plato.stanford.edu/entries/conscience-medieval/#EarlSchoTrad)
+
+  * [2.1 彼得·隆巴尔德：辩论的经院起源](https://plato.stanford.edu/entries/conscience-medieval/#PeteLombSchoOrigDeba)
+  * [2.2 史蒂芬·兰顿：良心及其属性](https://plato.stanford.edu/entries/conscience-medieval/#StepLangSyndProp)
+  * [2.3 菲利普·钱塞勒：对良心和良知的首次系统性论述](https://plato.stanford.edu/entries/conscience-medieval/#PhilChanFirsSystTreaSyndCons)
+* [后期学院传统](https://plato.stanford.edu/entries/conscience-medieval/#LateSchoTrad)
+
+  * [3.1 圣文生：良心作为认知/合理性作为情感](https://plato.stanford.edu/entries/conscience-medieval/#StBonaConsCognAffe)
+  * [3.2 圣托马斯·阿奎那：Synderesis 和良心作为认知](https://plato.stanford.edu/entries/conscience-medieval/#StThomAquiSyndConsCogn)
+  * [3.3 奥卡姆的威廉：对良心和良知理解的新方向](https://plato.stanford.edu/entries/conscience-medieval/#WillOckhNewDireUndeSyndCons)
+* [ 参考文献](https://plato.stanford.edu/entries/conscience-medieval/#Bib)
+
+  * [ 主要来源](https://plato.stanford.edu/entries/conscience-medieval/#PrimSour)
+  * [ 次级来源](https://plato.stanford.edu/entries/conscience-medieval/#SecoSour)
+* [ 学术工具](https://plato.stanford.edu/entries/conscience-medieval/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/conscience-medieval/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/conscience-medieval/#Rel)
+
+---
+
+## 背景：异教徒和早期基督教背景
+
+### 1.1 古代背景：司法良心
+
+要理解中世纪的良心理论，有必要审视其词源。与中世纪思想中的大多数哲学范畴不同，良心的概念并非起源于柏拉图或亚里士多德（Potts 1982: 687）。相反，大多数学者一致认为，它起源于公元前五世纪的希腊剧作家（Sorabji 2014: 12, 15–18）。在希腊文学的其他地方也可以找到它的使用，比如在德谟克利特斯的碎片中（D’Arcy 1961: 5）。
+
+英文单词“conscience”源自拉丁语 conscientia。它的希腊语对应词是 syneidesis。这两个术语都暗示着一种“与自己分享知识”的状态或行为（Sorabji 2014: 12）。这种知识是特权的，涉及对个人道德缺陷的意识。 “我”可以判断“我自己”这一概念自然地暗示了一种“分裂人格”，正如 Sorabji 所说，这表明我既可以是裁判也可以是被裁判的人，特别是在涉及通常引起懊悔的具体过去行为时。这一暗示根植于一个非常直观的观念，即人类是反身动物：不仅能够将注意力转向外部世界的对象，还能够“回头看”（reflectere）或成为自己的对象。正如 C. S. Lewis 在他对西方传统中良心概念的研究中所说：
+
+> 人可以被定义为一个反身动物。一个人无法不以自己为中心地思考、说话，甚至感觉自己（出于某些目的）是两个人，其中一个可以影响和观察另一个。因此，他怜悯、爱、钦佩、憎恨、鄙视、责备、安慰、审视、掌控或被“自己”所掌控……他知晓自己的行为，是自己的良心或同谋。当然，这个虚幻的内在同谋具有与外在同谋相同的特性；他也是你的证人，一个潜在的敲诈者，一个带来羞耻和恐惧的人。（Lewis 1960: 187；另见 Sorabji 2014: 12）
+
+Lewis 将这种主要是异教徒对良心的理解称为“内在见证”。它不会判断我们的行为是对还是错，而只是证明它们的存在。
+
+> 它见证了事实，比如说我们犯了一起谋杀案。它并不告诉我们谋杀是错误的；我们应该以其他方式知道这一点。 (Lewis 1960: 190)
+
+然而，其他人将刘易斯在这里描述的良心视为一种内在的裁判，并因此将其称为“司法良心”（D’Arcy 1961: 8）。虽然这种心灵属性并不一定制定具有约束力的规则，但它确实对我们的行为做出道德判断。然而，它最终将承担起为未来行为制定道德规范的角色。埃里克·达西将这种后来的 syneidesis 或 conscientia 形式称为“立法良心”，他认为其创新者是使徒保罗（约公元 5 年至公元 64/67 年），他是耶稣基督之后基督教信仰最重要的创始人（D’Arcy 1961: 8）。
+
+### 1.2 圣保罗：立法良心
+
+对良心的司法理解一直延续到公元纪元的第一个世纪。毫无疑问，保罗本人继续使用它。同时，达西也认为保罗除了“司法良心”之外，还引入了一个他称之为“立法良心”的新概念。很容易看出为什么早期的司法概念后来会具有立法特征。这是因为判断过去行为是对是错，并基于此发出劝诫的能力，一旦这种属性与道德法律联系在一起，就会承担起发出命令的立法角色。事实上，正是在圣保罗那里，我们发现了 syneidesis 和道德法律之间的这种联系。
+
+> 当外邦人，虽然没有律法，但凭本性行出律法上的事，这等人虽然没有律法，自己就是自己的律法。这是因为他们虽然没有律法，但是把律法上的事写在心里，他们的良心也为他们作见证，他们之间争辩的时候，思想也彼此控告或辩解。《罗马书》2:14-15（新国际版本）
+
+根据这段文字，显然保罗认为道德法有两种表达：摩西律法，明确传达给犹太人，以及另一种“写在[人们]心上”的法律。后者后来被解释为指自然法，这种法律对所有人，包括非犹太人，都是可接触的，并且与摩西律法一致。请注意，根据前述段落，良心（syneidesis）并非是是非的最终来源。相反，是客观道德法的基础，这种法律既“写在[人们]心上”，也由良心作证。
+
+有人可能会说，保罗认为道德的客观规范是道德法则（或自然法则）。然而，良心可能被称为道德的主观规范。这在圣保罗的另一段经文中得到了明确，他在回答基督徒是否可以吃曾经献给偶像的肉的问题时。保罗说，一些人错误地认为吃这样的食物会使他们被玷污。事实上，由于异教偶像并不存在，吃献给它们的食物，甚至是献给上帝的食物，在道德上是无关紧要的，因为“食物不能使我们亲近上帝——我们不吃也不会更糟，吃了也不会更好”（哥林多前书 8:8；新译本）。然而，即使这些基督徒的良心是错误的，他们仍必须遵循它们，因为保罗暗示，良心是一种行为准则（罗马书 14:13–23）。埃里克·达西（Eric D’Arcy）总结了圣保罗的这两个重要贡献如下：
+
+> 圣保罗在道德理论中引入了“良心”这一术语历史上全新的阶段，他对此的运用具有两个新特点。首先，良心在行动发生之前起着指导作用。在异教徒作家中，良心直到行动完成后才出现，其作用仅仅是司法性的；但在圣保罗那里，良心被赋予了立法功能，并且在适当意义上产生了一种义务感。其次，良心是可犯错误的：它发出的指示可能是错误的；但无论它是否错误，似乎我们都有责任遵循其裁决。（D’Arcy 1961: 11–12）
+
+总的来说，我们可以遵循索拉比（Sorabji）的建议，即良心概念发展的这个阶段——即从公元前五世纪希腊文学的起源到公元一世纪——具有八个特征（Sorabji 2014: 36）。
+
+1. 这涉及到对自我的意识，而不是对他人的意识。
+2. 它依赖于个人感到承诺的价值观或者是“不一定被他人分享的”。
+3. 它是自我反思的，因为它暗示了一个“分裂的人”：一个拥有秘密知识并与自己分享的“我”。
+4. 其最初目的是“回顾性”或司法的，尽管后来它的定义中还包括了“前瞻性”或立法功能。
+5. 虽然它借鉴了一般的道德原则，但主要关注的是这些原则如何应用于代理人所处的具体情况。
+6. 它起初是一个世俗概念。
+7. 在基督教传统中，良心被视为易受错误影响，
+8. 虽然具有认知特征，但它具有激励或情感力量。
+
+### 1.3 圣杰罗姆：良心的发明
+
+良心在圣保罗的著作中如此重要，这使得它在希腊和拉丁教父们的道德神学中占据重要地位，尤其是在圣巴西尔、约翰·达马斯科和圣安博罗斯的著作中。然而，在这些早期作家中，尤其重要的是圣杰罗姆的一段文字，因为它引入了一个新词，这个新词在后来的中世纪产生了重要影响：良知的概念。
+
+在评论以西结书的过程中，耶罗尼米将其第一卷提到的一条预言与柏拉图的道德心理学联系在一起（对以西结书 1.7 的评论）。所涉及的预言包括从天上出现的四个生物的异象，每个生物都有四张脸：人的脸、狮子的脸、牛的脸和鹰的脸（以西结书 1:4-14）。在他的注释中，耶罗尼米指出，“大多数人”（plerique）解释这个异象时参考了柏拉图在《理想国》中对灵魂三分法的看法：人的脸代表理性，狮子的脸代表有精神的部分，牛的脸代表欲望的部分（参见柏拉图，《理想国》，436b-441b）。那鹰代表什么？根据耶罗尼米的说法，它代表了那种“良心的火花”（scintilla conscientiae），当理性、精神或欲望变得紊乱时，让我们意识到自己的罪恶。中世纪手抄本将这种心理特性称为 synderesis（有时也称为 synteresis）：
+
+> 现在在这三者之上是鹰；所以在灵魂中，他们说，在其他三个元素之上和超越它们之外有第四个，希腊人称之为 synderesis。这就是那种良心的火花，即使在亚当被驱逐出伊甸园时，甚至在该隐的心中也没有熄灭。正是这种火花使我们感到自己的罪恶，当我们被邪恶的欲望或放纵的精神所征服，或被虚伪的理性所欺骗时。将 synderesis 与鹰相提并论是很自然的，因为它与其他三个元素有所区别，并在它们犯错时纠正它们。然而，我们也看到，这种良心（conscientia）在一些人身上被打倒，他们对自己的过错既没有羞耻也没有洞察力，并失去了自己的位置。 （对以西结书 1.7 的评论；达西译，1961 年：16-17）
+
+大多数学者现在都同意，耶罗姆在评论中引入的新词“synderesis”只是希腊语 syneidesis 的一个变体（Kries 2002: 67）。由于 syneidesis 只是拉丁语 conscientia 的希腊等价词——耶罗姆肯定会意识到这一事实，人们本来可能期望耶罗姆会将它们互换使用。然而，令人惊讶的是，耶罗姆暗示拉丁术语的含义与希腊术语有所不同。在上述引文中，他非常明确地表示，无论其持有者变得多么道德败坏，synderesis 都永远不会丢失。然而，几行之后，他确实承认存在那些无耻且缺乏道德洞察力的人。根据耶罗姆的说法，这些人对自己的过错视而不见，因为他们的良心（conscientia）在他们身上“失去了位置”。如果 synderesis 无法丢失，但良心可以，那么似乎可以得出它们是灵魂的独立属性。无论如何，无论耶罗姆的意图是什么，这段耐人寻味的文字通过彼得·隆巴尔德（Peter Lombard，1095–1160）的《彼得·隆巴尔德的句子》间接传承到了中世纪。
+
+## 早期学院派传统
+
+### 2.1 彼得·隆巴尔德：辩论的斯科拉起源
+
+彼得·伦巴德（Peter Lombard）在良心概念演变中的角色既令人惊讶又不足为奇。乍看之下，这令人惊讶，因为伦巴德并未详细讨论良心或良知。事实上，严格来说，他根本没有提到“良知”或“良心”这些术语。他所做的只是简单地提到了耶罗姆（Jerome）对以西结书的评论，这是在讨论意志在理性主体如何在自然情况下想要善良的同时又成为罪的奴隶的背景下（彼得·伦巴德，《分明四书句》，2.39；Potts 1980: 92）。在保罗在罗马书 7:15 中提到的道德软弱时，他著名地说：“因为我所做的，我不明白；我所愿意的，我并不做；我所恨恶的，我倒去做。”伦巴德问道，保罗是否在暗示我们有两个独立的意志：一个自然倾向于善良，另一个倾向于罪恶？抑或我们只有一个意志，尽管自然倾向于善良，但却包含一个“喜爱邪恶”的缺陷（《分明四书句》，2.39；Potts 1980: 93）？在持有第一种观点的人中，引导我们朝着善良的动力被称为“自然”意志，而由于堕落而产生的罪恶倾向被称为“自由意志”（或“自由选择”）。关于前者，彼得写道：
+
+> 有人说，人有两种动机，一种是自然地想要好的事物。为什么是自然的？为什么称之为“自然”？因为这是人类本性在最初状态下的动机，我们在那时是没有任何缺陷的，这恰当地称为“本性”。因为人是被创造出具有正义意愿的。因此，人被正确地说成是自然地想要好的事物，因为他被构造出具有良好和正义意愿。因为理性的更高火花（superior enim scintilla rationis），正如耶罗姆所说，“甚至在该隐身上也无法熄灭”，总是想要好的事物，憎恶坏的事物。（Peter Lombard, Sententiae in IV libros distinctae, 2.39; Potts trans. 1980: 92–93）
+
+隆巴德在上述段落中简要提到了耶罗姆的“理性之光”（见注）, 这是他对良心和良知的全部涉及。然而，这已足以确保后来的经院学者们对此给予充分关注，他们会追溯耶罗姆的原始文本以便评论。《真理句集》是一部主要选自圣经和教父著作，并按系统方式排列的神学著作集，自 1220 年代后，它对后来的神学探讨产生了巨大影响，因为很多研究都是在隆巴德在其著作中所规定的分类体系内进行的。事实上，亚历山大·哈莱斯（1185-1245）于 1222 年在巴黎将《真理句集》作为他普通讲座的主要来源，而理查德·菲什克雷（1206-1248）于 1245 年在牛津也是如此，讲授《真理句集》成为每位有志于神学硕士的必修课程。因此，十三和十四世纪的重要经院学者如博纳文图拉（1221-1274）、托马斯·阿奎那（1224/25-1274）、约翰·唐斯·斯科特（1265-1308）和奥卡姆的威廉（1287-1347）都撰写了对该著作的重要评论。这一传统一直延续至十六世纪。
+
+《句子集》由四本书组成，每本书分为章节，遵循圣奥古斯丁在《基督教教义》中所作的区分，即真实的事物和指引我们回到前者的符号之间的区别。第一本书讨论了上帝，他是真正的真实存在，以及他的三位一体本质。第二本书涉及创造和堕落，包括人类本性，将这些视为指向上帝的符号。第三本书讨论了基督，他是对抗堕落的药物，作为化身的上帝，既是事物又是符号。最后，第四本书讨论了圣礼，这些圣礼是帮助堕落者回归上帝的符号：终极的现实。由于第二本书讨论了在创造和堕落背景下的人类道德心理，因此在第 39 章中，可以找到彼得·伦巴德提到耶罗姆对以西结书的评论。
+
+由于隆巴尔德对耶罗姆的论述是片面的和省略的，后来的思想家在撰写对《箴言》的评论时，自然会转向耶罗姆的文本，以审查原始段落。在那里，他们发现了他明显区分 synderesis 和 conscience 的地方，这反过来将构成后来中世纪辩论的范围。例如，如果 synderesis 和 conscience 实际上是灵魂的两个独立部分，那么它们之间的关系是什么？它们各自的本质是什么，而且相当重要的是，它们是否会变得紊乱？这些问题将困扰后期中世纪的神学家。
+
+### 2.2 史蒂芬·兰顿：良心及其属性
+
+史蒂芬·兰顿（1155-1228 年），巴黎神学院神学监督，后来成为坎特伯雷大主教，在当前背景下并不因为对良心的任何系统性处理而显得重要——事实上，史蒂芬几乎没有触及这个问题——而是因为他对良知的一些零散观点。相关的处理出现在史蒂芬 1203-1205 年的《争议问题》中，这是在他讨论自由决定（liberum arbitrium）的背景下进行的。
+
+对于史蒂芬（Stephen）来说，灵魂有三种与道德生活相关的力量（vires）：贪欲的欲望、理性和良心。贪欲的欲望将理性引向恶—具体来说是向感官的罪恶—而良心试图将其引向善。理性的任务是在这两种冲动之间进行裁决。决定的自由（libertas arbitrii）是理性引导意志根据感官的驱使或良心的驱使做出选择的结果（Stephen Langton，Quaestiones disputatae；Lottin ed. Psychologie et morale I，1942：61）。
+
+因此，良心的目的是引导理性远离邪恶，因为它是“一个人天生厌恶邪恶并且是理性力量的一部分”的能力（Quaestiones disputatae; Lottin ed. Psychology et morale II.1, 1948: 112）。这样的力量可以被熄灭吗？是和否。作为一种倾向于善的能力，这种倾向对于被诅咒者来说确实是可以丧失的。然而，从根本上讲，良心的目的是拒绝邪恶。在这个意义上，即使在被诅咒者身上，它也永远不会丧失（Quaestiones disputatae; Lottin ed. 1948: 111）。
+
+Stephen Langton 对 synderesis 概念发展最重要的贡献在于他讨论 synderesis 是否具有优点或缺点。在讨论这个问题的过程中，Stephen 将 synderesis 与实践三段论联系起来，特别是将其与一般原则的把握联系在一起（Quaestiones disputatae; Lottin ed. 1948: 113）。D'Arcy 总结了 Langton 的立场如下：
+
+> 良心的懊悔是理性的作用，而不是良知的作用，因为良知停留在一般原则的层面，而理性则深入具体案例；但正是在具体案例上，我们才感到良心的懊悔；因此，我们犯罪是通过理性而不是良知。（D’Arcy 1961: 23–24）
+
+Langton 将 synderesis 与一般道德原则联系起来，正如我们将看到的那样，这种联系会影响后来的思想家，比如 Aquinas。
+
+### 2.3 菲利普·大学士：对良心和良知的首次系统性论述
+
+尽管史蒂芬·兰顿（Stephen Langton）是第一位深入探讨良知问题的学者，但是菲利普·大学校长（约 1170 年-1237 年）撰写了第一部专门探讨 synderesis 与良心关系的论著（Lottin 1948: 139-157）。作为巴黎圣母院的大学校长，菲利普有权授予神学院教学许可证，正是在他的任期内，多明我会（Dominicans）和方济各会（Franciscans）在神学领域获得了他们的讲座：前者两个，后者一个。尽管主要是一名行政人员，菲利普也是一位受过训练的神学家。他最重要的作品是《善之总论》（Summa de bono），其中包括有关良心的论文。
+
+在他的论文中，菲利普着手回答与良心的本体论地位相关的几个问题，以及关于如果遵循良心是否有人会犯罪，以及它是否会被熄灭的问题。关于良心的本体论地位，菲利普引用了杰罗姆的权威建议，即良心是灵魂的一种能力或力量。请记得，杰罗姆曾提出灵魂是四部分的：由理性、精神、欲望和良心组成。由于灵魂的前三部分是潜能，而良心被分类为这些部分之一，似乎可以得出结论，它也必须是灵魂的一种能力或力量，与理性的能力不同。菲利普引用圣保罗和大马士革的约翰作为证实权威，他们显然认同良心是灵魂的一种独立于其他部分的能力（菲利普大学士，《善之总论：良心论》；波茨译，1980 年：95-96）。
+
+反对 synderesis 是灵魂的一种力量的说法，菲利普提出了支持其实际上是一种道德习惯的观点的论据。根据这一观点，synderesis 对自然意志来说就像选择对审议意志一样：一种调节理性欲望力量的倾向。然而，虽然选择仅仅是在意义上调节审议意志，涉及到偶然的善或通往幸福的手段，synderesis
+
+> 是一种与自然意愿指向绝对善的潜能自然产生的倾向。 (Summa de bono: Treatise on Conscience; Potts trans. 1980: 96)
+
+此外，正如犯罪的冲动与灵魂不同一样，良心也是如此。但是，前者倾向于使行动者走向邪恶，而后者倾向于使他走向善良。
+
+synderesis，那么，是灵魂的一种力量还是一种习惯？这种区别可以追溯到亚里士多德，对他来说，力量是与特定能力相关联的天生的，而习惯是后天获得的，并且与倾向于以某种方式行为相关联。此外，习惯存在于力量之中。尽管这两种属性都使行动者倾向于以特定方式行动，但与习惯相比，力量与有能力有条件地这样做相关联。例如，如果我习惯说俄语，那么我会有定期这样做的倾向。这是我首选的交流方式，我会抓住每一个机会用那种语言表达自己。另一方面，我可能仅仅具有说俄语的能力或力量，比如在学校学习过，这并不意味着我会在可能应该这样做的情况下这样做。例如，出于各种原因，我可能讨厌并反感说俄语，因此可以自由地拒绝在任何情况下这样做（参见例如亚里士多德，《形而上学》9.2，以及 Potts 1980: 20-22）。
+
+尽管菲利普似乎倾向于支持良心是一种习惯的信念，但它是灵魂的一种力量的说法却得到了圣保罗和圣杰罗姆的相当重要的权威支持。因此，菲利普在某种程度上取得了折衷，并认为它是一种“类似习惯的力量”或“倾向性潜能”（habitualis potentiae）—一种使其拥有者倾向于选择无条件善的灵魂能力，尽管这种能力是与生俱来的，而非通过习惯获得的。
+
+> Synderesis，尽管其名称的形态使其听起来更像是一种倾向而不是一种潜能，但实际上它是一种倾向性潜能的名称：我并不说它是一种后天获得的倾向，而是一种天生的倾向。因此，作为倾向，它可以被应用于与之相关的倾向，作为潜能，它可以被应用于与之相关的潜能。由此可见，它与自由选择有一定的对立，与冲动（犯罪的冲动）和感性有一定的对立，与 proheresis 有一定的对立，而 proheresis 是自由选择的一部分：作为潜能，它与自由选择和感性不同，作为倾向，它与 proheresis 和冲动（犯罪的冲动）不同...因此，如果有人问它是一种潜能还是一种倾向，正确的答案在于采取介于两者之间的东西：一种倾向性潜能。（《善之总论：良心论》；Potts 译，1980 年：97）
+
+看起来，良心似乎是一种潜能，尽管是一种不寻常的潜能。它是否与灵魂的认知一侧或欲望一侧有关？根据菲利普的观点，它与欲望有关，具体来说是与理性欲望有关，也就是与意志有关，而不是与感性欲望有关。然而，正如我们所看到的，菲利普将理性欲望分为他所称的“自然意志”和“审慎意志”。自然意志表示人类对善或幸福本身的一般倾向。这样的对象超出了选择的范围。话虽如此，幸福可以通过各种方式实现，并通过获得各种合法的、虽然是偶然的物品来实现。事实上，可以说理性主体从不选择幸福本身，因为幸福只是一个抽象概念。相反，他们选择的是特定的物品，如果以有序的方式追求，这些物品一起构成了美好的生活。这些偶然的物品是通往幸福的手段，是审慎意志和因此选择的对象。根据菲利普的观点，良心属于自然意志。它是原始正直或公正的残余，尽管在堕落时受损，但以减少的形式存在于灵魂中。正如菲利普所说，良心是“反对罪恶并正确地思考和渴望无条件善良的东西”的东西（《善之总论：良心论》；波茨译，1980 年：100）。
+
+关于良心及其与良知的关系，菲利普进行了区分。首先，良心可能出错，而良知则不会。具体而言，良心是良知与自由决定（liberum arbitrium）的共同结果。换句话说，它是经过深思熟虑的一般道德原则的具体应用。当良心被正确应用时，它是正确的。当错误应用时，它出错。无论哪种情况，良心的判断都会产生一种道德义务来行动。菲利普举了以下例子，说明良知总是正确，但仍可能与一个错误的良心结合在一起（Potts 1980: 104）。
+
+1. synderesis 的无误普遍前提：“凡是虚假宣称自己是上帝之子的人应该被处死”。
+2. 理性的错误次前提：“这个基督家伙在虚假地声称自己是上帝之子”。
+3. 良心错误的判断：“因此这个基督家伙应该被处死”
+
+从前面的例子可以看出，synderesis 提供了一个一般的、非审慎的命题，而 conscience 产生了 Potts 所称的特定的“义务命题”：
+
+> Philip 的论点是[…]我们需要区分一般命题和特定命题，其形式为：“某人应该φ”，其中任何人的姓名都可以替换“A”，任何包含行动动词的动词短语都可以替换“φ”（我将在此之后称这些为“义务命题”）。 （Potts 1982: 690–692）
+
+在上面给出的例子中，第一个普遍前提是正确的（根据定义），而结论，由错误的理由中介，产生了一个不正确的义务命题，也就是说，一种行动义务，尽管是错误的。
+
+## 后期学院传统
+
+### 3.1 圣文生：良心作为认知/合理性作为情感
+
+文莱文思学派最杰出的代表之一，波纳文图雷（1217-1274）于 1250 年至 1252 年在巴黎讲授《真理》，后成为神学院的主讲教师，直至 1257 年。他对《真理》的评论是这些讲座的成果，在这部作品中，他讨论了良心和良知的主题。对于波纳文图雷来说，我们不仅拥有与生俱来的道德知识，而且还有一种不可熄灭的倾向于追求善良。我们对前者的天生认识，即自然法，与良心相关联，良心驻留在智力中，而我们对追求善良的倾向与良知相关联，良知存在于意志中。
+
+良心的本体地位是什么？根据波纳文图拉（Bonaventure）的观点，正如神学家们在“思想”的本质上存在分歧，将其定义为思考的能力、一种习惯或一种被理解的知识原则，他们在如何定义“良心”（conscientia）方面也存在分歧。然而，最常见的情况是，这个术语通常被用来指代与实践智力相关而非理论智力的认知习惯或倾向。事实上，这是完善实践智力的倾向。为什么？通过其意识到构成自然法则的原则，比如“上帝应当受到尊敬”，并通过向意志发出这样的命令。正如波纳文图拉所说：
+
+> 理论知识使我们的思想完善到一定程度，使其具有理论性，而良心是一种使我们的思想完善到一定程度的倾向，使其具有实践性，或者使我们朝着行为的方向引导我们。(Bonaventure, commentary on the Sentences, 2.39: a. 1, q. 1; Potts trans. 1980: 111)
+
+这种性情是天生的还是后天获得的？根据波纳文图拉的观点，可以找到支持两种观点的权威。对于良心是天生的观点，波纳文图拉引用了圣保罗在罗马书 1:14-15 中提到的“写在[人们]心上”的道德法律。他还提到了一种“自然本能去寻求幸福和尊敬[自己的]父母”（《评论》第 2.39 章：a. 1，q. 2；McGrade 翻译，2001 年：175-176）。另一方面，对于良心不是天生的观点，波纳文图拉引用了亚里士多德的观点，即灵魂是一张空白的板。波纳文图拉的解决方案是在圣保罗和亚里士多德之间找到一个中间立场。他的结论是：良心部分是天生的，部分是后天获得的。
+
+在什么意义上是与生俱来的？正如理性生物在理论理性领域有判断第一原则真实性的自然能力一样，我们也有一种与生俱来的能力来判断实践理性的第一原则。在实践理性领域，这种与生俱来的能力立即把这些原则判断为真实或不真实，被称为良心。对于波纳文图拉来说，这与奥古斯丁的“自然之光”或“自然法庭”相关联，这种自然之光内置于心灵结构中，使理性主体能直观地领悟自然法则的基本原则（例如，参见奥古斯丁，《上帝之城》，11.27，贝滕森译，1972 年：461-462）。正如心灵倾向于在理论理性领域领悟“所有单身汉都是未婚男性”等命题的公理性质一样，它也有一种与生俱来的倾向，以不言自明的真实性领悟实践理性领域的基本原则，如“孝敬父母”和“不伤害邻居”。
+
+在什么意义上，良心是如何获得的呢？尽管判断自然法的义务命题为不言自明的真理的能力是与生俱来的，但这并不意味着这些命题的内容也是与生俱来的。也就是说，并不是说“父亲”和“母亲”这些概念在尊敬父母的戒律中是与生俱来的。事实上，波纳文图拉认为它们并不是。相反，它们是通过感觉经验获得的种类或类似物，一旦获得，就形成了直观理解的自然法的普遍命题的术语。在这个意义上，波纳文图拉忠于亚里士多德：
+
+> 因为每个人都同意，存在一种被称为自然法庭的感知潜能的传授光明，但我们通过感官获得事物的形式和类似物，正如亚里士多德在许多地方明确指出的那样，也正如经验所教导我们的那样。（对《句子评论》2.39：a. 1, q. 2 的评论；Potts 翻译，1980 年：113）
+
+良心在自然法内容方面部分是与生俱来的，部分是后天获得的。但是这种普遍前提与实践理性的结论之间是什么关系？行动者如何从对是非的一般认识转向将这种认识应用于具体情况？毕竟，这种普遍前提只有在能够应用时才有用。对于波纳文图拉来说，引导行动者将自然法的一般原则应用于具体行动的习惯，就像立即理解义务原则的习惯一样，是与生俱来的。但为了应用这种不言自明的知识，我们必须获得进一步的知识。例如，虽然我们从先验地理解应该尊敬父母的真理，但我们并没有与生俱来的知识，即约翰和玛丽是我们的父母，而且正是他们特别应该受到尊敬，而不是像迈克尔和简这样的人。相反，这种类型的知识是从经验和教导中获得的。
+
+请注意，良心并不仅仅在具体行动方面从一般到特殊。它还在命题本身方面从一般到具体移动。正如波茨所指出的，事实上存在两类义务命题：基本命题和派生命题（波茨 1982: 698）。考虑遵守上帝的义务命题，这是基本的，或者说是最明显的。显然，其他更具体的规定可以从这个非常一般的命题中派生出来。历史上，例如，犹太人从遵守上帝的基本义务命题中派生出了进一步的、不太明显但更具体的义务命题，比如禁止食用猪肉和给他们的儿子行割礼。他们是如何知道这些更具体的命题的呢？通过启示的命令——换句话说，通过（神圣的）指示（《句子注释》2.39: a. 2, q. 3, ad 4; 波茨翻译 1980: 120）。尽管基本命题和派生命题之间的区别是波茨提出的，尽管所引用的案例是一个错误良心的例子（波那文图尔认为男性割礼和禁食猪肉的规定不再适用），但它准确地总结了波那文图尔对“非常明显明显”的命题与“不太明显”的命题之间区别的看法。
+
+> 正如一些可认知的事物非常明显，比如公理和第一原则，而一些则不太明显，比如特定的结论，同样在可以做的事情中，有些是最为明显的，例如，“己所不欲，勿施于人”以及一个人应该顺服于上帝等等。同样地，正如对第一原则的认知被认为是内在于我们的，因为（由于它们的自明性）那种光足以让我们认知它们（在接收到种类之后）而无需任何额外的说服，所以对道德第一原则的认知也是内在于我们的，因为那种裁判足以让我们认知它们。再者，正如对科学的特定结论的认知是通过习得的，因为我们内在的光并不完全足以让我们认知它们，而需要一些说服和更深入的了解，所以在可以做的事情方面，我们必须理解，同样地，我们有责任去做一些只能通过额外指导才能了解的事情。（对《真理之言》2.39 注释：a. 1, q. 2; McGrade 翻译 2001: 179）
+
+这种基本原则与具体或派生规则之间的区别与良心是否会出错以及在这种情况下是否继续约束相关。波纳文图拉的回应是，我们永远不会在基本义务命题上出错。相反，我们有时会在派生命题上犯错误，因为
+
+> 尽管良心只要坚持一般原则并受简单检查的驱使，它总是正确的，但当它降至细节并将事物联系在一起时，它可能会出错，因为它与审慎理性的实现混合在一起。（对《真理之句》2.39: a. 2, q. 3, ad 4 的评论；Potts 翻译，1980 年: 120）
+
+一个人是否总是要遵循自己的良心？这取决于，因为良心是可犯错误的。如果良心所指示的内容符合上帝的旨意，那么一个人有义务遵循它，否则将面临永恒的诅咒。如果错误——如果良心所指示的内容与神圣旨意相悖——有时在应用基本的义务论原则时会出现这种情况，那么良心就不具约束力。相反，个体有责任纠正错误，以使他的良心符合自然法。如果他不这样做，并遵循他错误的良心，他就犯了致命的罪。“显然，良心总是要么约束我们去做它告诉我们的事情，要么约束我们去改变它”（对《句子评论》2.39: a. 1, q. 3 的评论；Potts 译，1980 年：114-115）。显然，智力在实现幸福中起着重要作用，因为它拥有良心。但意志呢？在道德生活中，它不是也有同样重要的作用吗？是的：在其拥有合理推断的情况下。与传统一致，波纳文图尔称合理推断为“良心的火花”（对《句子评论》2.39: a. 2 的评论；McGrade 译，2001 年：186）。然而，他与传统观点不同，认为合理推断存在于意志中而不是智力中。事实上，对于波纳文图尔来说，合理推断恰恰是良心的对应物，因为意志像智力一样，具有朝向道德（而非有用）善的内在倾向。在智力的情况下，这种倾向采取了理解自然法第一原则的“自然光”的形式；在意志的情况下，它采取了合理推断的形式：一种朝向渴望道德善的“自然偏好”。然而，有一种意义上，合理推断并不完全类似于良心。虽然它看起来很像一种习惯，但根据波纳文图尔（可能是遵循菲利普大主教的观点），合理推断实际上是灵魂的一种类似习惯的力量（对《句子评论》2.39: a. 2, q. 1 的评论；Potts 译，1980 年：116-117）。
+
+良心作为良心，能否被熄灭？不，从本体论的角度来看，它是一种朝向善的先天取向，即使在最邪恶的人身上也无法完全根除。然而，在实践中，它可能会受到“无知的黑暗、肆意的快乐或顽固的顽固”（对《句子评论》2.39：a. 2，q. 2 的评论；Potts 译，1980 年：117）的阻碍。在这种情况下，良心停止了对恶行的“抱怨”或对善行的“驱使”，要么是因为行动者被无知所蒙蔽，被肉体的快乐所分散，要么是因为他们在堕落中如此顽固，无法重新朝向善行。然而，当良心根据基本的义务原则的先天判断行事时，这些原则永远不会出错，那么它也会正常发挥作用，因为这是它的自然状态。只有在对特定真理进行审慎思考的过程中，良心才有可能出错并陷入罪恶，因为在这里理性可能出现故障，而自由的意志也可能失序。当理性和意志发生故障时，良心就会“被推翻，其对其他审慎力量的影响和控制被排斥和破坏”（对《句子评论》2.39：a. 2，q. 3 的评论；Potts 译，1980 年：119）。当这种情况发生时，行动者就犯了罪。
+
+### 3.2 圣托马斯·阿奎那：Synderesis 和良心作为认知
+
+托马斯·阿奎那（1224/25-1274）可以说是后期中世纪最重要的学者神学家之一，如果不是最重要的。尽管他关于良心和先知性的观点近年来受到的关注比起他关于自然法理论的关注要少，但这是不合理的。对于学者们来说，道德的完整解释不仅包括解释实践规范是如何建立的，还包括理解这些规范是如何被把握以及理性主体尽管拥有这种知识的无误指导，却经常未能应用它。换句话说，一个人的元伦理学与一个人的道德心理学密不可分，也就是说，与一个人对意志和智力如何与对对错的认识相互作用的理解密切相关。
+
+阿奎那在他的几部重要作品中讨论了良知和良心的问题，从他早期对《真理之书》和《真理论》的评论到他成熟的《神学大全》（参见达西 1961 年：36-47）。正如人们所预料的那样，他的观点与他的方济各会同代人波纳文图雷截然不同。首先，波纳文图雷将良知归于意志。他还将其描述为“类似习惯的能力”，正如我们上面所看到的。阿奎那，正如人们所预料的那样，更加接近他的多明我会导师和老师阿尔伯特大师（约 1200-1280 年），对于他们来说，良知和良心都属于智力（参见道尔蒂 2018 年：221）。
+
+对于阿奎那来说，灵魂的理性部分包括智力和意志的能力或力量。意志的对象是善，而智力的对象是真理。后者的潜力进一步分为理论智力（intellectus speculativus）和实践智力（intellectus practicus）。它们有何不同？理论智力的对象是真理本身，而实践智力的对象是善“在真理的角度下”（托马斯·阿奎那，神学大全 I，q. 79，a. 11，ad. 2）。对于阿奎那来说，良知和良心都属于实践智力。
+
+所有推理必须从立即明显的原则开始，以避免无限回归。这在实践理性领域和推理理性领域同样适用。一旦掌握并同意了这些原则，就可以推导出更具体的结论。这些原则是如何被掌握的呢？在推理理性领域，它们被圣托马斯·阿奎那称为 intellectus 的先天倾向所理解——“直觉理性”或“理解”，亚里士多德称之为 nous。这种习惯的对象是诸如“每个整体都大于其部分”和“相等于同一物体的事物相互相等”等不证自明的命题（《神学大全》I-II，q 94，a. 2，主体）。一旦了解了它们的术语，理性立即掌握这些命题的真理，因为它们具有分析性质。另一方面，在实践理性领域中，对应的习惯是 synderesis：这是灵魂的一种属性，永远不会丢失，永远不会犯错，其对象是自然法的第一原则（《论真理》16.1，主体）。关于阿奎那如何理解 synderesis 的良好描述是霍夫曼的，他将其称为“不可错误的道德意识”（霍夫曼 2012 年：255）。与理解类似，synderesis 是与生俱来的。
+
+> 因此，第一实践原则，由自然赋予我们，不属于特殊的力量，而属于一种特殊的自然习惯，我们称之为“synderesis”。因此，“synderesis”被说成是激励向善，并对恶感到不满，因为通过第一原则，我们继续发现，并判断我们所发现的事物。因此很明显，“synderesis”不是一种力量，而是一种自然习惯。（《神学大全》第一部，第 79 问题，第 12 条，主文。）
+
+在广义上，synderesis 是人类智慧与神圣智慧之间的联系。宇宙是由一个具有普遍关怀的上帝创造和统治的，因此受到最终因果关系的支配。因此，所有事物，无论是理性的还是非理性的，都寻求它们适当的目的。非理性的存在，由于它们缺乏意志和智慧，因此无法进行审慎推理，通过上帝在它们内心植入的自然倾向来实现它们的目的。在这个意义上，它们以一种减弱的方式参与了阿奎那所称的“永恒法”的上帝智慧，因为它指导所有生物朝向它们的目的（《神学大全》I-II，问题 93，答案 1，主文）。然而，它们以一种减弱的方式这样做。相比之下，理性存在以更卓越的方式参与了神圣关怀。这种参与永恒法的方式被称为自然法，其道德原则的功能是引导人类走向他们的最终目标：幸福（《神学大全》，I-II，问题 91，答案 2，主文）。这些道德原则，被 synderesis 所理解并相应地掌握，为人类提供了对上帝对人类的意图以及人类生活的最终目的的洞察。正如贝勒（Baylor）所写的关于阿奎那理论的内容：
+
+> 道德原则基于并源自现实中存在的理性；它们是人类对神圣思想中典范理念的认识，根据这些理念，创造物被赋予了理性秩序。 (Baylor 1977: 46)
+
+实践推理在人类实现幸福的过程中起着核心作用，这是人类的最终目标，也是上帝对我们的计划。与推理推理类似，实践推理通常采用演绎形式。正如科学是演绎三段论的结论一样，良心是实践三段论的结论。实践三段论与演绎三段论一样，包含一个主前提、一个次前提和一个结论。主前提是从良知中得出或推导出来的。另一方面，次前提则是从信仰、自然理性或人类正面法中得出的。从主前提和次前提中得出一个结论，产生了一种道德义务去行动（Hoffmann 2012: 258）。这种推理判断与良心相关，对于阿奎那来说，这是一种行为，而不是一种能力或习惯，其中包括“见证、约束或煽动，也包括控告、折磨或指责”等多种应用（托马斯·阿奎那，神学大全 I，问题 79，答案 13，主体）。
+
+良心在有意识地意识到某些个人错误行为时充当着“见证人”的角色，无论是主动还是被动的错误。当良心判断某种行为应该被执行时，它会“约束”或“激励”。最后，当良心判断某个过去的行为在道德上是可以接受的或不可以接受时，它会“指责”、“折磨”或“谴责”。尽管很难看到良心在第一种意义上——即良心作为见证人——如何作为知识应用于行为，但在该术语的第二和第三种意义上似乎不那么棘手，这些意义回溯到圣保罗和异教古代分别发现的良心的立法和司法意义（D’Arcy 1961: 46）。无论如何，良心应用自然法则的方式的一个例子——这些法则的原则是由良知所理解的——在阿奎那的《真理论》中有所阐述。
+
+> 如果 synderesis 的判断表达了这样的陈述：“上帝的法律禁止的事情不应该做”，如果更高理性的知识提出了这个次要前提：“与这个女人发生性关系是上帝的法律所禁止的”，那么良心的应用将通过得出结论而进行：“应该避免这种性关系”。（引自《真理论》，问题 17，答案 2，正文；引自 Dougherty 2018: 222）
+
+现在，良心的规范要么是正确的，如果从自然法中正确推导出来，要么是错误的，如果它们被错误地推导出来。前者的规范是“正确良心”的产物，后者的判断是“错误良心”的结果。由于良知是不可错误的，当错误发生时，错误良心的主要来源是行动者在实践三段论中采用了错误的次要前提（《论真理》第 17 题，第 2 条；Potts 译，1980 年：132-133）。
+
+现在很明显，我们有义务遵循良心，因为这有助于实现我们的最终目标。但错误的良心呢？它是否具有任何权威？对于阿奎那来说，错误的良心也是有约束力的。然而，它并不一定是免责的。正如霍夫曼所说，
+
+> 无论我的行为是客观上的善、恶还是中立，良心都会约束，因为正是通过良心，一个行为被提议为善、恶或中立。(Hoffmann 2012: 260)
+
+例如，根据自然法，禁止婚外性行为在客观上是正确的。但假设一个行动者（错误地）认为这种节制是罪恶的，但仍然克制自己。根据阿奎那的观点，这个行动者虽然做了客观上正确的事情，但仍然犯了罪。为什么？因为在选择与他的良心所指示的相反的事物时，他选择做了他认为是邪恶的事情。对于阿奎那来说，选择（在主观上，如果不是客观上）错误的事情就是一种罪：“[F] 事物被理性提出为邪恶的事实，意志因趋向邪恶而变得邪恶”（《神学大全》，I-II，q. 19，a. 5，corp.）。
+
+由此可见，无论是正确还是错误的良心，都会产生约束力。至于错误良心是否会成为借口，这取决于导致错误良心的无知类型。这是因为某些类型的无知会使行为变得无意识，因此是可原谅的，而有些则不是。能够成为借口的无知被称为无敌无知，涉及对情况事实的无知（当然，假设没有疏忽）。在这种情况下，即在某种情况下，行动者在情况下不可能知道更好的情况下不会这样行动，是可原谅的。阿奎那举了通奸这一例子来阐明他的观点。虽然通奸是一种罪过，但如果一个男人与非妻子发生性关系，只要他真诚地，尽管不太可能，将这个女人误认为是他的妻子，那么他就是被原谅的。
+
+> 因为这种错误源于对一种情况的无知，这种无知是可以原谅的，并导致行为是无意识的。（《神学大全》I-II，第 19 问题，第 6 条，正文。）
+
+导致错误良心的无知如果在任何方面是自愿的，那么是可克服的，或者可以纠正的，因此如果跟随则是有过失的。这通常发生在行为者对情况的具体情况的无知要么是由于疏忽，要么是由于对相关道德原则的无知。前一种情况是由于行为者未采取适当的措施去了解情况的事实，以便他或她可以假装无知而犯罪。在对普遍前提的无知的情况下，这也是有过失的，因为了解道德法则是一个人的义务。 (《神学大全》I-II，问题 19，答案 6，正文)。
+
+但是人们可能会想知道，有罪的无知是如何可能的，特别是涉及一般道德原则时。一个人如何会在构成实践三段论的主要前提的普遍前提上出错，这些前提是从构成自然法的规则中得出的，如果能够把握这些前提的 synderesis 是不会出错的呢？阿奎那的答案是，自然法规则有两种类型：主要的——或者说是“最一般的”——和次要的。阿奎那在这个话题上的表述不够具体，但在做出这种区分时，他似乎是指以下内容。关于自然法的主要规则，没有人会出错。不幸的是，正如我们所见，这些规则具有非常一般的特征，比如“行善避恶”。为了让这种一般知识能够被良心应用，必须进一步具体化。这种进一步的具体化包括自然法的次要规则，这些规则与前述规则和自然倾向密切相关。关于这些自然法的次要、派生规则，比如“应避免通奸”，人类很容易变得无知。对于阿奎那来说，这种无知要么是恶习的结果，要么是在一个具有“邪恶习俗”的文化中社会化的结果。
+
+> 我回答说[...]自然法包括，首先，某些最普遍的原则，为所有人所知；其次，某些次要和更详细的规则，它们可以说是从第一原则紧密推导出来的结论。至于那些普遍原则，自然法在抽象上绝不会从人们的心中抹去。[...]但至于[...]次要规则，自然法可以从人类心中抹去，无论是通过邪恶的劝说，就像在理论问题上会出现对必要结论的错误一样；还是通过恶习和腐败的习惯[...]。 (《神学大全》I-II, q. 94, a. 6, corp.)
+
+似乎出现了一个最终的问题：根据阿奎那对错误良心的描述，我们不是留下了道德困境的可能性吗？因为如果我们有义务始终遵循良心，但有时当我们遵循良心时会犯罪，那么似乎我们有时会陷入两难境地。换句话说，我们似乎有时会有冲突的义务，无论我们做什么，都会犯罪。阿奎那的解决方案是，只有在可克服的无知状态下遵循良心才是错误的。由于这种无知在定义上是可以纠正的，我们可以通过选择放下无知来解决这个表面上的困境。就从不可克服的无知中行动而言，我们是被原谅的。
+
+### 3.3 奥卡姆的威廉：对良心和良知理解的新方向
+
+随着十四世纪神学家奥卡姆（William of Ockham，1285-1347 年），我们遇到了有关良知和良心的一些根本性新发展。虽然奥卡姆的方济各会前辈苏格拉底（John Duns Scotus）与阿奎那（Aquinas）在道德法则的本质上存在分歧，但苏格拉底基本上同意多明我会士的观点，即将良知和良心视为实践理性的习惯和行为，分别是在良知的情况下理解道德基本原则的工作，并在良心的情况下应用这些原则（苏格拉底，Ordinatio 2，d. 39；Wolter 翻译，1997 年：162-163）。与苏格拉底一样，奥卡姆在几个关键方面也同意阿奎那的观点。然而，奥卡姆与阿奎那以及在他之前的整个学术传统在某些方面存在分歧，即在他放弃了良知概念，并在对待不可战胜的错误良心方面采取了独特的方法。
+
+很难确定奥卡姆为何放弃了良心的概念。然而，迈克尔·贝勒（Michael Baylor）提出了两种可能性。第一种可能是，正如我们所见，良心在奥卡姆的前辈（如阿奎那）眼中被视为一种天生习惯。但对于奥卡姆来说，理性主体只有通过习得才能拥有习惯，而他们只能通过反复进行相关行为来习得习惯。因此，习惯可以是与生俱来的这一概念对奥卡姆来说似乎是不连贯的（贝勒，1977 年：78；富克斯，1952 年：5-6）。
+
+第二种可能的解释——尽管贝勒认为这是不可信的——与奥卡姆对道德基础的理解与阿奎那相比有关。对于奥卡姆来说，道德秩序目前的存在与神圣智慧之间没有必要的联系。道德的最高准则是神圣的意志。例如，谋杀今天是错误的只是偶然发生的。但是如果上帝这样意愿，谋杀明天也可以是正确的。简言之，道德秩序是有条件的。然而，在托马斯主义观点中，自然法是对永恒法的参与。它是上帝在神圣意志中对我们的计划与人类智力之间的接触点。正如我们上面所看到的，良知在这种联系中发挥着关键作用，因为它把握了引导人类达到最终命运的道德原则。此外，指导我们如何实现最终目标的道德原则今天与昨天一样真实，实际上由于上帝赋予我们的本性，它们将永远如此。正如贝勒所写：
+
+> 作为人类原始本性的元素，在亚当堕落后实质上未受损伤的良心是人类与持久的道德秩序之间的连接点，这种道德秩序根据神圣智慧中的观念表现出来，根据这些观念，创造必然是有序的，而人类对这种道德秩序的普遍原则有着确定的认识。然而，奥卡姆强调创造的绝对偶然性[...] 对于奥卡姆来说，神的意志，如同他所颁布的道德规范所体现的那样，构成了道德的最终和客观规范。上帝没有义务；相反，是神圣意志决定了道德义务。这种关于神圣自由和全能的令人敬畏的概念，以及创造秩序的偶然性，导致许多人得出结论，即奥卡姆伦理学的客观基础是威权主义或实证主义的，并且本质上是不稳定的，因为它似乎只取决于可变的神圣旨意。如果是这样的话，那么在人类内部提出一种天生的、不可剥夺的对道德原则的知识，以良心的形式，也会显得奇怪。（贝勒大学 1977 年：79-80）
+
+一位对贝勒解释的杰出支持者是 Servais Pinckaers。因为道德的基础根植于神圣的意志，而神圣的意志是可以改变的，故奥卡姆并不需要求助于一种机制来发现道德的永恒原则，因为在奥卡姆看来，这些原则并不存在。根据 Pinckaers 对奥卡姆的解释，道德原则是通过启示而被认知的（Pinckaers 1993: 258）。尽管 Pinckaers 在评估奥卡姆的元伦理学时是正确的——尽管其中包含理性主义的元素，但基本上是威权主义的——但他在描述奥卡姆的道德认识论时却是错误的。这是因为，虽然确实可以通过神圣启示来认识道德原则，但根据奥卡姆的观点，尽管这些原则根植于上帝的意志，我们也可以通过自然理性和经验来认识它们（参见 Eardley 2013: 82–87）。前者的例子，即那些不言自明的真理，包括“每一个应受责备的邪恶都应该避免”和“意志应该顺从正确的理性”。另一方面，一个根植于经验的道德命题的例子是“愤怒的人应该用安抚的话语平息”（Eardley 2013: 86–87）。上帝显然希望我们遵循这些规定。但如果不是通过启示，我们如何知道他的意志呢？尽管当代哲学家彼得·吉奇并不是奥卡姆的特别支持者，但他愿意承认，基于神圣命令的元伦理学仍然可能产生一种自然主义的道德认识论。正如他所说：
+
+> 理性地认识到某种做法通常是不可取的，并且总体上最好的做法是人们甚至不要考虑诉诸于这种做法，实际上是向一个人宣布神圣法律禁止这种做法，即使他没有意识到这是神圣法律的宣布，即使他不相信有上帝。(Geach 1981: 170)
+
+奥卡姆会同意的。
+
+Pinckaers 错误解释奥卡姆的道德认识论的第二种相关方式是 Pinckaers 假设，因为奥卡姆抛弃了传统的良知概念，他必须也同样抛弃了良心的双胞胎概念。Pinckaers 承认，即使道德原则根植于神的意志，根据奥卡姆的观点，仍然需要将这些原则应用于特定情况。当然，在早期传统中，这一角色是为良心保留的。根据 Pinckaers 的说法，在奥卡姆那里，这一角色现在与实践理性和谨慎相关联（Pinckaers 1993: 259）。
+
+一次对文本证据的仔细阅读表明奥卡姆在很大程度上利用了传统的良心概念。实际上，他运用这一概念的方式在很大程度上与传统一致，特别是与阿奎那的阐述一致。奥卡姆将实践理性的规定与良心的判断联系在一起。他还强调了他的信念，即理性主体有绝对义务遵循他们的良心，这种良心可能是正确的，也可能是错误的（《各种问题》，问题 8，答案 1，OTh 8: 411）。当良心与正确理性一致时，良心是正确的；当良心与正确理性不一致时，良心是错误的。最后，对于奥卡姆来说，错误的良心，就像阿奎那一样，要么处于可战胜的——自愿因此有过失——无知状态，要么处于不可战胜的——非自愿——无知状态。当良心处于可战胜的无知状态时，我们必须尽力将其放在一边。在所有这些情况下，奥卡姆都遵循传统，只有一个例外：那就是不可战胜的错误良心（Eardley 2013: 94–98），即主体发现自己具有正确的普遍原则，但在对自己所处情况的把握方面出现无过失的错误。
+
+在什么意义上奥卡姆背离了传统？对于奥卡姆来说，遵循一个无敌错误的良心的行为不仅仅是可原谅的，正如阿奎那所说的那样，而是“有德行和值得称赞的”。考虑一下奥卡姆的以下例子。有一天，当你走在街上时，一个无家可归的人向你要钱。他似乎对你有道德要求，因为你同意这样一个道德原则：“应该帮助每一个极度需要帮助的人，以免他死亡”。他对你显得需要帮助，确实处于绝望吗？是的。在评估他时，你确定，尽管理论上他可能是个骗子，但这似乎不太可能。对于奥卡姆来说，在这种情况下，你有义务听从你的良心，而事实上你确实这样做了。然而，事实证明，这个看似无家可归的人实际上是一个非常富有的人，正在冒充乞丐。对于奥卡姆来说，遵循你的良心，你不仅仅是被原谅或免除了你的错误，而且你（无知的）行为是有德行的，而且在上帝眼中是值得称赞的（只要你的慈善行为是出于对上帝的爱）。正如奥卡姆所说：
+
+> 因此，在上述情况下，意志的正确行为和智力的错误同时存在于同一对象。整个原因是因为那个错误不在那个错误的人的能力范围内，他已经尽了一切努力去寻找真相，因此那个错误免除了一切罪过。因此，根据这种（无法克服的）错误理由产生行为的意志是出于美德和有功之举。实际上，如果他在这种错误中没有意愿去帮助那个人，他将会执行一种邪恶和无功之举，因为这样的行为将是明知故犯地违背良心和无罪理由而引发的，因为在上述情况下，他并不知道自己犯了错误，而是相信自己拥有正确的理由，因此通过蔑视理性（这种方式）他会犯重罪。（Quaestiones varie q. 8, a. 2, Oth 8: 423–424）
+
+奥卡姆的新颖建议是什么动机？即使阿奎那也承认我们有义务遵循我们的良心，无论是正确还是错误。根据阿奎那的说法，当我们不这样做时，我们犯罪。当我们的良心处于自愿或可战胜的无知状态时，我们也有责任摒弃错误，否则我们就犯罪。然而，在不可战胜的无知情况下，由于这种无知在定义上是不自愿的，显然不可能摒弃错误。因此，对于阿奎那来说，我们有义务遵循这样的良心。尽管在这种情况下我们行事不当，但对于阿奎那来说，我们是被原谅的，因为我们不可能知道更好的选择。回到阿奎那关于无意中与非配偶发生关系的例子：对于阿奎那来说，这可能是可原谅的，但这种行为绝不可能被认为是美德，更不可能被认为是值得奖赏的。但对于奥卡姆来说，如果不遵循不可战胜的错误良心是邪恶的，因此应受惩罚，那么仅仅因为在我们有道义义务这样做时遵循它而被原谅将是一种不够的奖励。相反，逻辑上应该是，这是一种美德，因此是值得奖赏的。
+
+## Bibliography
+
+### Primary Sources
+
+* Augustine, *City of God*, translated by Henry Bettenson, Harmondsworth: Penguin, 1972.
+* Bonaventure, “Commentary on Peter Lombard’s *Books of ‘Judgements’* 2:39”, in Potts1980: 110–121. doi:10.1017/CBO9780511609022.013
+* –––, “Conscience and Synderesis”, translated by A.S. McGrade, in *The Cambridge Translations of Medieval Philosophical Texts. Volume 2: Ethics and Political Philosophy*, Arthur Stephen McGrade, et al. (eds.), Cambridge: Cambridge University Press, 2001, 169–199.
+* Jerome, “Commentary on Ezekiel”, in Potts 1980: 79–80. doi:10.1017/CBO9780511609022.009
+* Peter Lombard, “*Books of Judgements* 2.39”, in Potts 1980: 90–93. doi:10.1017/CBO9780511609022.011
+* Philip the Chancellor, “*Summa de Bono*: Treatise on Conscience”, in Potts 1980: 94–109. doi:10.1017/CBO9780511609022.012
+* Stephen Langton, *Quaestiones disputatae*, Odon Lottin (ed.). In *Psychologie et morale aux XII et XIII siècles. Tome I. Problèmes de Psychologie*, Louvain: Abbaye du Mont César, 1942, 57–62.
+* –––, *Quaestiones disputatae*, Odon Lottin (ed.). In *Psychologie et morale aux XII et XIII siècles. Tome II. Problèmes de Morale*, Louvain: Abbaye du Mont César, 1948, 110–115.
+* Thomas Aquinas, “*Debated Questions on Truth* [*De veritate*] 16–17”, in Potts 1980: 122–136. doi:10.1017/CBO9780511609022.014
+* –––, *Summa theologiæ*, translated by the Fathers of the English Dominican Province, 1920. [[*Summa theologiæ* translation available online](https://www.newadvent.org/summa/)]
+* William of Ockham, *Quaestiones variae*, Opera Theologica 8, St. Bonaventure, NY: The Franciscan Institute, 1984.
+
+### Secondary Sources
+
+* Baylor, Michael G., 1977, *Action and Person: Conscience in Late Scholasticism and the Young Luther*, Studies in Medieval and Reformation Thought, Volume XX, Leiden: E. J. Brill.
+* Bier, William Christian (ed.), 1971, *Conscience: Its Freedom and Limitations*, (The Pastoral Psychology Series 6), New York: Fordham University Press.
+* Celano, Anthony, J. 2015, *Aristotle’s* Ethics *and Medieval Philosophy: Moral Goodness and Practical Wisdom*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316471241
+* Cross, Richard, 2012, “Natural Law, Moral Constructivism, and Duns Scotus’s Metaethics: The Centrality of Aesthetic Explanation”, in Jacobs 2012: 175–198. doi:10.1093/acprof:oso/9780199767175.003.0007
+* D’Arcy, Eric, 1961, *Conscience and Its Right to Freedom*, New York and London: Sheed and Ward.
+* Dolan, Joseph V., 1971, “Conscience in the Catholic Theological Tradition”, in Bier 1971: 9–19.
+* Dougherty, M. V., 2011, *Moral Dilemmas in Medieval Thought: From Gratian to Aquinas*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511977053
+* –––, 2018, “Practical Reasoning”, in *The Cambridge Companion to Medieval Ethics*, Thomas Williams (ed.), Cambridge: Cambridge University Press, 217–237. doi:10.1017/9781316711859.011
+* Dumont, Stephen D., 2000, “Did Duns Scotus Change his Mind on the Will?” in *Nach der Verurteilung von 1277 / After the Condemnation of 1277: Philosophy and Theology at the University of Paris in the Last Quarter of the Thirteenth Century. Studies and Texts* (Miscellanea Mediaevalia, 28), Jan A. Aertsen, Kent Emery, and Andreas Speer (eds.), Berlin: Walter de Gruyter, pp. 719–794. doi:10.1515/9783110820577.719
+* Eardley, Peter S., 2003, “Thomas Aquinas and Giles of Rome on the Will”, *Review of Metaphysics*, 56(4): 835–862.
+* –––, 2006, “The Foundations of Freedom in Later Medeival Philosophy: Giles of Rome and his Contemporaries”, *Journal of the History of Philosophy* 44: 353–376.
+* –––, 2013, “Conscience and the Foundations of Morality in Ockham’s Metaethics”, *Recherches de Théologie et Philosophie Médiévales*, 80(1): 77–108. doi:10.2143/RTPM.80.1.2988829
+* Fuchs, Oswald, 1952, *The Psychology of Habit according to William Ockham*, St. Bonaventure, NY: The Franciscan Institute.
+* Geach, Peter, 1981, “The Moral Law and the Law of God”, in *Divine Commands and Morality*, Paul Helm (ed.), Oxford: Oxford University Press, 165–174.
+* Greene, Robert A., 1997, “Instinct of Nature: Natural Law, Synderesis, and the Moral Sense”, *Journal of the History of Ideas*, 58(2): 173–198. doi:10.1353/jhi.1997.0014
+* Hoffmann, Tobias, 2007, “Aquinas and Intellectual Determinism: The Test Case of Angelic Sin”, *Archiv Für Geschichte Der Philosophie*, 89(2): 122–156. doi:10.1515/AGPH.2007.007
+* –––, 2012, “Conscience and *Synderesis*”, in *The Oxford Handbook of Aquinas*, Brian Davies (ed.), Oxford: Oxford University Press, 327–336.
+* Holopainen, Taina M., 1991, *William Ockham’s Theory of the Foundations of Ethics*, Helsinki: Luther-Agricola-Society.
+* Jacobs, Jonathan A. (ed.), 2012, *Reason, Religion, and Natural Law: From Plato to Spinoza*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199767175.001.0001
+* Kent, Bonnie, 1995, *Virtues of the Will. The Transformation of Ethics in the Late Thirteenth Century*, Washington, DC: Catholic University of America Press.
+* Kries, Douglas, 2002, “Origen, Plato, and Conscience (*Synderesis*) in Jerome’s Ezekiel Commentary”, *Traditio*, 57: 67–83. doi:10.1017/S0362152900002701
+* Langston, Douglas C., 1993, “The Spark of Conscience: Bonaventure’s View of Conscience and Synderesis”, *Franciscan Studies*, 53: 79–95. doi:10.1353/frc.1993.0009
+* –––, 2001, *Conscience and Other Virtues. From Bonaventure to MacIntyre*, University Park, PA: Pennsylvania State University Press.
+* Lewis, C.S., 1960, “Conscience and Conscious”, in his *Studies in Words*, Cambridge: Cambridge University Press, 181–213.
+* Lisska, Anthony J., 2012, “Right Reason in Natural Law Moral Theory: Thomas Aquinas and William of Ockham”, in Jacobs 2012: 155–174. doi:10.1093/acprof:oso/9780199767175.003.0006
+* Möhle, Hannes, 2003, “Scotus’s Theory of Natural Law”, in *The Cambridge Companion to Duns Scotus*, Thomas Williams (ed.), Cambridge: Cambridge University Press, 312–331. doi:10.1017/CCOL0521632056.011
+* Osborne Jr, Thomas M., 2014, *Human Action in Thomas Aquinas, John Duns Scotus and William of Ockham*, Washington, DC: The Catholic University of America Press.
+* –––, 2020, *Aquinas’s Ethics*, (Elements in Ethics), Cambridge: Cambridge University Press. doi:10.1017/9781108581325
+* Pierce, C.A., 1955, *Conscience in the New Testament: A Study of Syneidesis in the New Testament , in the Light of Its Sources and with Particular Reference to St. Paul, with Some Observations Regarding Its Pastoral Relevance Today*, London: SCM Press.
+* Pinckaers, Servais, 1991 [2005], “La conception chrétienne de la conscience morale”, *Nova et Vetera*, 66: 81–99. Translated as “Conscience and Christian Tradition”, Mary Thomas Noble (trans.), in *The Pinckaers Reader: Renewing Thomistic Moral Theology*, John Berkman and Craig Steven Titus (eds), Washington, DC: The Catholic University of America Press, 2005, 321–341.
+* –––, 1993, *Les sources de la morale chrétienne*, Paris: Éditions du Cerf.
+* Porter, Jean, 2005, *Nature as Reason: A Thomistic Theory of Natural Law*, Grand Rapids, MI: Eerdmans Publishing.
+* Potts, Timothy C., 1980, *Conscience in Medieval Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511609022
+* –––, 1982, “Conscience”, in *The Cambridge History of Later Medieval Philosophy*, Norman Kretzmann, Anthony Kenny, Jan Pinborg, and Eleonore Stump (eds.), Cambridge: Cambridge University Press, 687–704. doi:10.1017/CHOL9780521226059.039
+* Quinn, John F., 1974, “The Moral Philosophy of St. Bonaventure”:, *Southwestern Journal of Philosophy*, 5(2): 39–70. doi:10.5840/swjphil19745229
+* Saarinen, Risto, 1994, *Weakness of Will in Medieval Thought: Augustine to Buridan*, Leiden: E.J. Brill.
+* Sorabji, Richard, 2014, *Moral Conscience Throughout the Ages: Fifth Century BCE to the Present*, Chicago: University of Chicago Press.
+* Stępień, Katarzyna, 2010 [2014], “Syndereza a prawo naturalne”, in a Polish translation by Aleksander Białek of S. Thomae Aquinatis, *Quaestiones disputatae de synderesi, de conscientia – Dysputy problemowe o synderezie, o sumieniu*, Lublin: Wydawnictwo KUL, 2010. Translated as “Synderesis and the Natural Law”, *Studia Gilsoniana*, 2014, 3: 377–398. [[Stępień 2010 [2014] available online](http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-e4f2c1fc-23f4-4e0c-9152-d39c4b2b3fe8)]
+* Sweeney, Eileen C., 2012, “Thomas Aquinas on The Natural Law Written on Our Hearts”, in Jacobs 2012: 133–154. doi:10.1093/acprof:oso/9780199767175.003.0005
+* Turro, James C., 1971, “Conscience in the Bible”, in Bier 1971: 3–8.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conscience-medieval). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/conscience-medieval/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=conscience-medieval&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/conscience-medieval/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* Langston, Douglas, “Medieval Theories of Conscience,” *Stanford Encyclopedia of Philosophy* (Winter 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2020/entries/conscience-medieval/>. [This was the previous entry on Medieval Theories of Conscience in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conscience-medieval).]
+* [Medieval Theories of Practical Reason](https://iep.utm.edu/prac-med/), entry by Christopher Toner in the *Internet Encyclopedia of Philosophy*.
+
+## Related Entries
+
+[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Aquinas, Thomas: moral, political, and legal philosophy](https://plato.stanford.edu/entries/aquinas-moral-political/) | [Aristotle, General Topics: ethics](https://plato.stanford.edu/entries/aristotle-ethics/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [Bonaventure](https://plato.stanford.edu/entries/bonaventure/) | [conscience](https://plato.stanford.edu/entries/conscience/) | [Duns Scotus, John](https://plato.stanford.edu/entries/duns-scotus/) | [Ockham [Occam], William](https://plato.stanford.edu/entries/ockham/) | [Philip the Chancellor](https://plato.stanford.edu/entries/philip-chancellor/) | [Plato](https://plato.stanford.edu/entries/plato/) | [practical reason: medieval theories of](https://plato.stanford.edu/entries/practical-reason-med/) | virtue: medieval theories of
+
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
+Peter Eardley <[*peardley@uoguelph.ca*](mailto:peardley%40uoguelph%2eca)>
