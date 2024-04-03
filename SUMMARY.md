@@ -544,7 +544,7 @@
 * [\*建构主义 constructivism](c/jian-gou-zhu-yi-constructivism/README.md)
   * [元伦理学中的建构主义 in metaethics (Carla Bagnoli)](c/jian-gou-zhu-yi-constructivism/yuan-lun-li-xue-zhong-de-jian-gou-zhu-yi-in-metaethics-carla-bagnoli.md)
   * [政治哲学中的建构主义 in political philosophy (Andrew Williams)](c/jian-gou-zhu-yi-constructivism/zheng-zhi-zhe-xue-zhong-de-jian-gou-zhu-yi-in-political-philosophy-andrew-williams.md)
-* [语境主义认识论 contextualism, epistemic (Patrick Rysiew)](c/yu-jing-zhu-yi-ren-shi-lun-contextualism-epistemic-patrick-rysiew.md)
+* [认识的语境论 contextualism, epistemic (Patrick Rysiew)](c/ren-shi-de-yu-jing-lun-contextualism-epistemic-patrick-rysiew.md)
 * [大陆理性主义 Continental Rationalism (Shannon Dea, Julie Walsh, and Thomas M. Lennon)](c/da-lu-li-xing-zhu-yi-continental-rationalism-shannon-dea-julie-walsh-and-thomas-m.-lennon.md)
 * [连续性与无穷小 continuity and infinitesimals (John L. Bell)](c/lian-xu-xing-yu-wu-qiong-xiao-continuity-and-infinitesimals-john-l.-bell.md)
 * [\*连续统假设——见集合论：连续统假设 continuum hypothesis — see set theory: continuum hypothesis](c/lian-xu-tong-jia-she-jian-ji-he-lun-lian-xu-tong-jia-she-continuum-hypothesis-see-set-theory-continu.md)

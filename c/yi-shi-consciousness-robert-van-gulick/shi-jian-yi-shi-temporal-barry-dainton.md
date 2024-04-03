@@ -1,55 +1,46 @@
 # 时间意识 temporal (Barry Dainton)
 
-
-*首次发表于 2010 年 8 月 6 日星期五；实质性修订于 2023 年 3 月 17 日星期五*
+_首次发表于 2010 年 8 月 6 日星期五；实质性修订于 2023 年 3 月 17 日星期五_
 
 在普通的意识体验中，时间意识似乎司空见惯。例如，我们经常意识到在短暂的时间间隔内发生的变化、运动和连续性。这是如何可能的？许多不同的时间意识模型已被提出。一些哲学家认为意识被限制在瞬间间隔内，事实上我们并没有直接意识到变化。其他人则认为，尽管意识本身是瞬间的，我们仍然意识到变化。还有一些人认为，意识本身在时间上是延展的。在本文中，将阐述和评估这些以及其他立场的动机和优点。
 
 * [时间意识的三种模型](https://plato.stanford.edu/entries/consciousness-temporal/#ThreModeTempCons)
-
   * [1.1 时间和意识](https://plato.stanford.edu/entries/consciousness-temporal/#TimeCons)
   * [1.2 术语、问题和原则](https://plato.stanford.edu/entries/consciousness-temporal/#TermProbPrin)
   * [1.3 意识的动态](https://plato.stanford.edu/entries/consciousness-temporal/#DynaCons)
   * [1.4 方法论争议](https://plato.stanford.edu/entries/consciousness-temporal/#MethCont)
 * [一些历史事件](https://plato.stanford.edu/entries/consciousness-temporal/#SomeHistEpis)
-
-  * [ 时间意识作为威廉·詹姆斯（William James）](https://plato.stanford.edu/entries/consciousness-temporal/#WillJame)
+  * [时间意识作为威廉·詹姆斯（William James）](https://plato.stanford.edu/entries/consciousness-temporal/#WillJame)
   * [2.2 洛克（Locke）、休谟（Hume）和里德（Reid）](https://plato.stanford.edu/entries/consciousness-temporal/#LockHumeReid)
   * [2.3 康德和勃松](https://plato.stanford.edu/entries/consciousness-temporal/#KantBerg)
-* [ 3. 电影方法论](https://plato.stanford.edu/entries/consciousness-temporal/#CineAppr)
-
+* [3. 电影方法论](https://plato.stanford.edu/entries/consciousness-temporal/#CineAppr)
   * [3.1 流与静](https://plato.stanford.edu/entries/consciousness-temporal/#StreStil)
-  * [ 3.2 动态快照](https://plato.stanford.edu/entries/consciousness-temporal/#DynaSnap)
+  * [3.2 动态快照](https://plato.stanford.edu/entries/consciousness-temporal/#DynaSnap)
 * [4. 保留性方法](https://plato.stanford.edu/entries/consciousness-temporal/#ReteAppr)
-
-  * [ 4.1 动机](https://plato.stanford.edu/entries/consciousness-temporal/#Moti)
+  * [4.1 动机](https://plato.stanford.edu/entries/consciousness-temporal/#Moti)
   * [4.2 布伦塔诺和胡塞尔](https://plato.stanford.edu/entries/consciousness-temporal/#BrenHuss)
   * [4.3 时间错觉与神经科学](https://plato.stanford.edu/entries/consciousness-temporal/#TempIlluNeur)
   * [4.4 保留和再现主义](https://plato.stanford.edu/entries/consciousness-temporal/#ReteRepr)
 * [5. Extensional Approaches 延伸方法](https://plato.stanford.edu/entries/consciousness-temporal/#ExteAppr)
-
   * [5.1 起源：一个被拒绝的教条](https://plato.stanford.edu/entries/consciousness-temporal/#OrigDogmReje)
   * [5.2 更近期的辩护和讨论](https://plato.stanford.edu/entries/consciousness-temporal/#ReceDefeDisc)
-
     * [5.2.1 意识、简单和重叠](https://plato.stanford.edu/entries/consciousness-temporal/#AwarSimpOver)
     * [5.2.2 时间结构和透明度](https://plato.stanford.edu/entries/consciousness-temporal/#TempStruTran)
     * [5.2.3 时态、感知和统一](https://plato.stanford.edu/entries/consciousness-temporal/#TensPercUnit)
-* [ 6. 混合方法](https://plato.stanford.edu/entries/consciousness-temporal/#HybrAppr)
-
+* [6. 混合方法](https://plato.stanford.edu/entries/consciousness-temporal/#HybrAppr)
   * [6.1 扩展内容与瞬时行为](https://plato.stanford.edu/entries/consciousness-temporal/#ExteContMomeActs)
   * [6.2 进一步的混合变体](https://plato.stanford.edu/entries/consciousness-temporal/#FurtHybrVari)
-* [ 7. 反实在论](https://plato.stanford.edu/entries/consciousness-temporal/#AntiReal)
+* [7. 反实在论](https://plato.stanford.edu/entries/consciousness-temporal/#AntiReal)
 * [时间意识与时间形而上学](https://plato.stanford.edu/entries/consciousness-temporal/#TempConsMetaTime)
-
   * [8.1 时间的竞争性概念](https://plato.stanford.edu/entries/consciousness-temporal/#CompConcTime)
   * [8.2 来自经验的论证](https://plato.stanford.edu/entries/consciousness-temporal/#ArguExpe)
-* [ 参考文献](https://plato.stanford.edu/entries/consciousness-temporal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/consciousness-temporal/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/consciousness-temporal/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/consciousness-temporal/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/consciousness-temporal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/consciousness-temporal/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/consciousness-temporal/#Rel)
 * 补充：虚假的现在：进一步讨论
 
----
+***
 
 ## 时间意识的三种模型
 
@@ -71,15 +62,15 @@
 
 ![link to extended description below](https://plato.stanford.edu/entries/consciousness-temporal/model-cinematic.svg)
 
- a. 电影模型
+a. 电影模型
 
 ![link to extended description below](https://plato.stanford.edu/entries/consciousness-temporal/model-retentional.svg)
 
- 保留模型
+保留模型
 
 ![link to extended description below](https://plato.stanford.edu/entries/consciousness-temporal/model-extensional.svg)
 
- c. Extensional Model c. 外延模型
+c. Extensional Model c. 外延模型
 
 图 1.1 时间意识的三个主要概念。【有关图 1.1 的详细描述请参见附录。】
 
@@ -125,7 +116,7 @@
 
 适度的动力学：我们直接经历变化、继承和持续，但我们的经验并不具备强动力学所假定的固有流动特征。
 
-伯格森认为意识（或持续性）是非常动态的——“持续的流动……是意识的唯一直接日期”（伯格森 1889 [1910: 44]）。他认为这种动力学是经验的原始或不可简化的特征，将流星的经历描述为“一道火线”，其特点是“绝对不可分割的运动或移动的感觉”（1889 [1910: 111–2]）。在强调感知经验的过程化特征时，Soteriou（2013）赞同地引用了 O’Shaughnessy，后者对强烈动态性的承诺是明显的。
+伯格森认为意识（或持续性）是非常动态的——“持续的流动……是意识的唯一直接日期”（伯格森 1889 \[1910: 44]）。他认为这种动力学是经验的原始或不可简化的特征，将流星的经历描述为“一道火线”，其特点是“绝对不可分割的运动或移动的感觉”（1889 \[1910: 111–2]）。在强调感知经验的过程化特征时，Soteriou（2013）赞同地引用了 O’Shaughnessy，后者对强烈动态性的承诺是明显的。
 
 > 特征性地，经验的内容是不断变化的，而经验本身必然是不断变化的，本质上是发生性的……经验中的变化并非仅仅存在于……这一点是独特的：它是变化的必然性。（O’Shaughnessy 2000: 43）
 
@@ -137,7 +128,7 @@
 
 时间意识作为一个问题，关于哲学对时间体验讨论应该受科学影响程度的争议本身就是一个争议的源泉。李建议采取一种强硬的以科学为导向的方法论立场：
 
-> 我的观点是，这一领域中最有力的考虑与大脑中处理时间信息的方式有关，因此最终涉及的问题取决于一种相当一般性质的经验考虑。[…] 值得注意的是，由于我采用这种“自下而上”的方法，我的方法与戴顿（Dainton，2000）等某些其他作者的方法形成了鲜明对比，后者主张在这一领域的观点更多地基于现象学而不是经验考虑。（Lee 2014a: 2）
+> 我的观点是，这一领域中最有力的考虑与大脑中处理时间信息的方式有关，因此最终涉及的问题取决于一种相当一般性质的经验考虑。\[…] 值得注意的是，由于我采用这种“自下而上”的方法，我的方法与戴顿（Dainton，2000）等某些其他作者的方法形成了鲜明对比，后者主张在这一领域的观点更多地基于现象学而不是经验考虑。（Lee 2014a: 2）
 
 在他的《意识之流》（Dainton, 2000）的引言中，他乐意承认，在试图理解经验的统一性和连续性时，他自己的方法将是纯粹现象学的。他认为他的方法是合理的，因为存在重要的经验结构实际上可以通过内省获得，而我们目前没有其他访问这些特征的方式。神经科学可能有一天能够提供帮助，但需要取得重大进展——事实上，Dainton 建议在
 
@@ -173,7 +164,7 @@ Tononi 和 Koch 实际上将 IIT 承诺为前文概述的电影模型的一个�
 
 > 时间意识与经验的关系尚未得到深入研究。其对象被视为现在的存在，但数据所涉及的时间部分与哲学所称的过去和未来的相接部分是完全不同的。数据所指的现在实际上是过去的一部分——一个最近的过去——被欺骗性地呈现为介于过去和未来之间的时间。让我们称之为虚假的现在，让被视为过去的过去称为明显的过去。一首歌曲的一个小节对听众来说似乎都包含在现在之中。一颗流星的位置变化对观察者来说似乎都包含在现在之中。在这种系列结束的瞬间，它们所测量的时间似乎没有任何部分是过去。（詹姆斯，1890 年：609）
 
- 詹姆斯继续说道：
+詹姆斯继续说道：
 
 > 一切构想时间的原始典范和原型是虚假的当下，我们立即和不断地感知到它的短暂持续时间。 (1890: 631)
 
@@ -207,15 +198,15 @@ Tononi 和 Koch 实际上将 IIT 承诺为前文概述的电影模型的一个�
 
 与洛克一样，休谟认为我们对时间的概念源自于我们感知连续性的经验。在他的《论人性》（1739）第一卷第二部分（§3）中，休谟写道：
 
-> 时间意识作为（IGNORE）时间意识。…时间无法单独或伴随着一个稳定不变的对象出现在头脑中，而总是通过一些可感知的可变对象的连续变化来发现。（《论》第 1 册，第 2 部，§3 [1888: 35]）
+> 时间意识作为（IGNORE）时间意识。…时间无法单独或伴随着一个稳定不变的对象出现在头脑中，而总是通过一些可感知的可变对象的连续变化来发现。（《论》第 1 册，第 2 部，§3 \[1888: 35]）
 >
-> … 长笛上演奏的五个音符给我们时间的印象和想法；尽管时间不是第六个印象，它呈现给听觉或其他任何感官。[心灵] 只注意不同声音的出现方式… ([1888: 36])
+> … 长笛上演奏的五个音符给我们时间的印象和想法；尽管时间不是第六个印象，它呈现给听觉或其他任何感官。\[心灵] 只注意不同声音的出现方式… (\[1888: 36])
 >
-> 时间意识作为不可分割的时间瞬间，必须充满某种真实的对象或存在，其相继形成持续时间，并使之可被心智所理解。 ([1888: 39])
+> 时间意识作为不可分割的时间瞬间，必须充满某种真实的对象或存在，其相继形成持续时间，并使之可被心智所理解。 (\[1888: 39])
 
 尽管休谟在我们对继承概念的起源上与洛克达成一致，但他对持续时间的看法与洛克关于我们通过观察印象之间的距离来得出后者概念的观点并不一致。对于休谟
 
-> 时间意识的概念总是源自一系列可变对象的连续，并永远无法通过任何坚定不变的事物传达给头脑。 ([1888: 37])
+> 时间意识的概念总是源自一系列可变对象的连续，并永远无法通过任何坚定不变的事物传达给头脑。 (\[1888: 37])
 
 由于两个声音之间的（完全）沉默期间本身不包含任何变化或连续性——至少在听觉方面——因此，持续时间的概念不能从这段沉默期间中得出。
 
@@ -237,15 +228,15 @@ Tononi 和 Koch 实际上将 IIT 承诺为前文概述的电影模型的一个�
 
 在他对《纯粹理性批判》（1787 年）中阐述先验唯心主义的过程中，康德提出了一些论断，这些论断将影响后来关于时间经验的讨论。这些论断并非总是容易解释的—有关介绍请参见邓洛普（2017 年）和巴登（2019 年）。对于当前目的，第一批判中“想象中再现的综合”中的这一段尤为相关：
 
-> 当我试图在思想中划定一条线，或者思考从一个中午到另一个中午的时间，甚至是代表某个特定数字给自己看时，显然，所涉及的各种多样的表象必须一个接一个地被我在思想中理解。但如果我总是在思想中忽略前面的表象（线的前部分，时间段的前部分，或者所代表的顺序中的单位），并且在前进到后续的表象时不再重现它们，那么就永远无法获得完整的表象：上述任何一种思想，甚至是空间和时间最纯粹、最基本的表象，都不会产生。……想象的再现综合应被视为心灵的超越行为之一。因此，我们将把这种能力称为想象的超越能力。（A102 [1980: 133]）
+> 当我试图在思想中划定一条线，或者思考从一个中午到另一个中午的时间，甚至是代表某个特定数字给自己看时，显然，所涉及的各种多样的表象必须一个接一个地被我在思想中理解。但如果我总是在思想中忽略前面的表象（线的前部分，时间段的前部分，或者所代表的顺序中的单位），并且在前进到后续的表象时不再重现它们，那么就永远无法获得完整的表象：上述任何一种思想，甚至是空间和时间最纯粹、最基本的表象，都不会产生。……想象的再现综合应被视为心灵的超越行为之一。因此，我们将把这种能力称为想象的超越能力。（A102 \[1980: 133]）
 
 任何认为我们的感官经验仅仅是一系列瞬间快照的人都面临一个难题，即解释为什么我们似乎意识到了持续性和连续性。康德认为我们的感官经验确实具有这种快照式的特征，并通过提供对瞬间状态更丰富的描述来解决由此产生的问题。在视觉情况下，视觉体验的瞬间片段伴随着对最近经历的视觉内容的再现。更一般地说，这些再现使我们能够意识到我们目前发生的经验是一个持续过程的一部分。
 
 更多内容有待讨论，但康德至少提供了一个看似合理的解释，说明我们如何能够意识到变化和继承，以及我们似乎是如何意识到这一点的。这是一种可以独立于康德的超验唯心主义——及其对时间虚幻性的承诺——发展的方法。很快，“保留”方法（回想第 1.1 节的术语）找到了支持者，并且在 19 世纪末变得相对普遍。
 
-如果我们前进一个世纪，我们会遇到亨利·博格森（Henri Bergson），一位哲学家，他将一种高度动态的时间体验放在他的哲学中心。正如卡纳莱斯（Canales，2015）生动展示的那样，在二十世纪初，博格森关于时间和意识的著作对他的同时代人产生了相当大的影响，无论是在哲学界还是在其他领域。在他的《时间与自由意志：关于意识的直接数据的一篇论文》（1889 [1910]）中，博格森开始了他反对“时间空间化”的运动，在这场运动中，持续时间（或 durée）的概念起着关键作用。至少在他早期的著作中，这个概念适用于我们直接经验中的时间。对于博格森来说，持续时间是一个连续的动态体验流，无法衡量和量化——正如巴雷特（Barrett）所说的，“事物核心不断激荡的无理数”（Gale，1968: 373）。因此，它与时间的静态概念截然不同，后者是科学世界中的一系列纯粹位置，无论是牛顿还是爱因斯坦的科学世界观。
+如果我们前进一个世纪，我们会遇到亨利·博格森（Henri Bergson），一位哲学家，他将一种高度动态的时间体验放在他的哲学中心。正如卡纳莱斯（Canales，2015）生动展示的那样，在二十世纪初，博格森关于时间和意识的著作对他的同时代人产生了相当大的影响，无论是在哲学界还是在其他领域。在他的《时间与自由意志：关于意识的直接数据的一篇论文》（1889 \[1910]）中，博格森开始了他反对“时间空间化”的运动，在这场运动中，持续时间（或 durée）的概念起着关键作用。至少在他早期的著作中，这个概念适用于我们直接经验中的时间。对于博格森来说，持续时间是一个连续的动态体验流，无法衡量和量化——正如巴雷特（Barrett）所说的，“事物核心不断激荡的无理数”（Gale，1968: 373）。因此，它与时间的静态概念截然不同，后者是科学世界中的一系列纯粹位置，无论是牛顿还是爱因斯坦的科学世界观。
 
-> 纯粹的持续是我们意识状态的连续所呈现的形式，当我们的自我让自己“活着”时，当它不分离其当前状态与其先前状态时……因此，我们可以构想连续而没有区别，并将其视为相互渗透、相互连接和元素的组织，其中每个元素代表整体，除非通过抽象思维，否则无法将其区分或隔离。（Bergson 1889 [1910: 100–101]）
+> 纯粹的持续是我们意识状态的连续所呈现的形式，当我们的自我让自己“活着”时，当它不分离其当前状态与其先前状态时……因此，我们可以构想连续而没有区别，并将其视为相互渗透、相互连接和元素的组织，其中每个元素代表整体，除非通过抽象思维，否则无法将其区分或隔离。（Bergson 1889 \[1910: 100–101]）
 
 伯格森对持续时间的描述大多是负面的：他告诉我们很多关于它不是什么，但相对较少关于它实际上是什么。虽然这有时会令人沮丧，但这是有理由的：伯格森认为，任何试图概念化意识的流动只能以扭曲现象为代价才能成功——这一教义影响了威廉·詹姆斯在晚年的思想——有关更多信息，请参阅戴恩顿（2017a，2022）和多列夫（2022）。
 
@@ -253,13 +244,13 @@ Tononi 和 Koch 实际上将 IIT 承诺为前文概述的电影模型的一个�
 
 伯格森在二十世纪头几十年可能具有影响力，但并非所有人都相信他的形而上学和现象学主张的基本正确性，即使在当时的法语哲学世界中也是如此。在他的《瞬间的直觉》（1932 年）中，加斯东·巴舍拉对伯格森关于意识时间性和世界时间性的描述发起了激烈的攻击。对于伯格森来说，数学和物理学中的静态无持续时间的瞬间是一个抽象概念，与具体现实中没有任何对应之处——现实本质上是延展和流动的。巴舍拉所捍卫的立场与伯格森的立场截然相反。
 
-> 时间本身只有一个现实：即刻的现实。换句话说，时间是一个局限于瞬间并悬置于两个虚空之间的现实。尽管时间无疑会重生，但它必须先死去。它无法将其存在从一个瞬间传送到另一个以形成持续的时间。（Bachelard 1932 [2013: 6]）
+> 时间本身只有一个现实：即刻的现实。换句话说，时间是一个局限于瞬间并悬置于两个虚空之间的现实。尽管时间无疑会重生，但它必须先死去。它无法将其存在从一个瞬间传送到另一个以形成持续的时间。（Bachelard 1932 \[2013: 6]）
 >
-> 时间是瞬间，正是当前的瞬间承载着整个时间性的重量。过去和未来一样空无。未来和过去一样死寂。瞬间在其核心没有持续时间；它不朝任何方向施加力量。它没有两面。它是完整而孤独的。（1932 [2013: 28]）
+> 时间是瞬间，正是当前的瞬间承载着整个时间性的重量。过去和未来一样空无。未来和过去一样死寂。瞬间在其核心没有持续时间；它不朝任何方向施加力量。它没有两面。它是完整而孤独的。（1932 \[2013: 28]）
 
 伯格森抱怨，将经验的连续性用数学术语来构想会将经验简化为“瞬间的尘埃”。 巴舍拉尔这样回应道：
 
-> 时间只能通过瞬间来感知；持续性……也只能通过瞬间来感受。持续性是一团瞬间的尘埃云，或者更好地说，是一组点通过一种透视现象更或多或少地组织在一起。（1932 [2013: 19]）
+> 时间只能通过瞬间来感知；持续性……也只能通过瞬间来感受。持续性是一团瞬间的尘埃云，或者更好地说，是一组点通过一种透视现象更或多或少地组织在一起。（1932 \[2013: 19]）
 
 虽然伯格森认为电影式的意识流观念在根本上是错误的，但对于巴舍拉来说，这种观念基本上是正确的——正如我们将在接下来看到的，他并不是唯一持有这种观点的人。
 
@@ -339,7 +330,7 @@ Shardlow 提出了类似的抱怨：
 
 ### 4.2 布伦塔诺和胡塞尔
 
-Brentano 认识到，直接体验连续性和持续性是现象学的一个核心问题（或者他更喜欢称之为“描述心理学”）。他也认识到，仅仅经历一系列经验本身并不能构成连续性的体验。Brentano 的解决方案是：当（比如）听一段延续的音调或旋律时，你每时每刻都意识到一瞬间的声音相位，但同时你也意识到一系列对前一时相的再现（或保留）。Brentano 称后者为前感。Brentano 的方法引发了几个问题。在客观上同时存在的内容如何看起来是连续的？前感中发生的再现的确切性质是什么？Brentano 在这些问题上的观点经历了几次变化—更多细节请参见 Chisholm（1981）和 Kraus（1930 [1976]）。
+Brentano 认识到，直接体验连续性和持续性是现象学的一个核心问题（或者他更喜欢称之为“描述心理学”）。他也认识到，仅仅经历一系列经验本身并不能构成连续性的体验。Brentano 的解决方案是：当（比如）听一段延续的音调或旋律时，你每时每刻都意识到一瞬间的声音相位，但同时你也意识到一系列对前一时相的再现（或保留）。Brentano 称后者为前感。Brentano 的方法引发了几个问题。在客观上同时存在的内容如何看起来是连续的？前感中发生的再现的确切性质是什么？Brentano 在这些问题上的观点经历了几次变化—更多细节请参见 Chisholm（1981）和 Kraus（1930 \[1976]）。
 
 20 世纪初期，胡塞尔（Husserl）沿着保留线发展了一种关于时间意识的描述。胡塞尔在 1884 年至 1886 年间参加了布伦塔诺（Brentano）的讲座；受其启发，他决定将精力投入哲学而非数学。在 1904 年至 1906 年的讲座中阐述自己的立场时，胡塞尔首先批评了布伦塔诺（以及迈农（Meinong））对这一主题的看法，但他最终得出的结论与他们大致相同。胡塞尔可能没有采用“虚假的现在”这个术语，但他确实认为我们对于我们在短时间间隔内感知到的物体和过程的变化和持续有一种似乎直接的意识。他还合理地认为，随着我们的意识流动，我们意识到它们的这种流动。至于这是如何可能的，他认为这必须涉及过去的意识阶段在后来的意识时刻中以某种方式被“保留在掌握中”。
 
@@ -349,7 +340,7 @@ Brentano 认识到，直接体验连续性和持续性是现象学的一个核�
 
 图 4.1 胡塞尔的时间图表。【图 4.1 的详细描述请参见附录。】
 
-Husserl 理论的基本机制如图 4.1 所示，其中水平轴代表原始印象的连续流动，垂直轴代表保留的选择（以及在 F 的情况下伴随原始印象 D、E 和 F 的预期）。 （仅仅是“选择”，因为根据 Husserl 的说法，意识的连续延伸实际上由原始印象的密集连续组成，每个印象都伴随着其“彗星尾巴”形式的保留和预期。）正如所示，单独的原始印象在后续的虚假现在中被保留——“过去性”增加由更多的星号表示。瞬时原始印象适用于间隔：D-E 以保留连续体 E*–D**的形式在 F 处保留。
+Husserl 理论的基本机制如图 4.1 所示，其中水平轴代表原始印象的连续流动，垂直轴代表保留的选择（以及在 F 的情况下伴随原始印象 D、E 和 F 的预期）。 （仅仅是“选择”，因为根据 Husserl 的说法，意识的连续延伸实际上由原始印象的密集连续组成，每个印象都伴随着其“彗星尾巴”形式的保留和预期。）正如所示，单独的原始印象在后续的虚假现在中被保留——“过去性”增加由更多的星号表示。瞬时原始印象适用于间隔：D-E 以保留连续体 E\*–D\*\*的形式在 F 处保留。
 
 Husserl 的立场的大致轮廓可能是清晰的，但细节更具挑战性。Husserl 在他的整个职业生涯中大量写作关于时间意识，但从未找到一个长期满意的立场——在他 1907 年至 1910 年的讲座中，他对他在 1904 年至 1906 年的讲座中阐述的立场提出了批评——他从未发表过他立场的明确声明。有关 Husserl 观点的有用介绍，请参阅 Kortooms（2002）和 Zahavi（2004，2007，2010）。
 
@@ -365,7 +356,7 @@ Grush 的时间意识模型在解释这类情况时并不困难。就兔子的�
 
 > 或许我们的视觉系统在对特定刺激产生体验之前需要一些时间……它们可能会利用这段时间来整合事件的一个连贯版本，然后再将其转化为体验吗？
 
-Eagleman 和 Sejnowski（2000）提出了一种“延迟响应”的闪现滞后错觉解释。Grush（2016：5.1.1 [其他互联网资源]）对此提出反驳，认为由于这种额外延迟将不断发生在我们所有的知觉系统中，因此假设它绝非没有成本。Arstila（2016a）认为 Grush 和 Dainton 对事后预测视觉错觉的解释都存在问题，并提出了一种替代方案。
+Eagleman 和 Sejnowski（2000）提出了一种“延迟响应”的闪现滞后错觉解释。Grush（2016：5.1.1 \[其他互联网资源]）对此提出反驳，认为由于这种额外延迟将不断发生在我们所有的知觉系统中，因此假设它绝非没有成本。Arstila（2016a）认为 Grush 和 Dainton 对事后预测视觉错觉的解释都存在问题，并提出了一种替代方案。
 
 Geoff Lee（2014a, 2014b）辩护了一个可以说是时间经验的保留模型，尽管具有一些独特的特征。Lee 认为虚假的现在存在于具有非常短暂时间延伸的体验状态中——Lee 认为这些状态与神经状态和过程相同，而后者总是具有非零的时间量。尽管这些体验具有一定的时间延伸，但它们不具有任何体验作为适当的部分，因此 Lee 恰当地将它们称为“原子体验”。外延主义者将虚假的现在视为具有其他体验作为适当部分的时间延伸体验，对于 Lee 来说，这是外延主义的定义特征。Lee 的原子体验中似乎没有任何过去或记忆样的内容——它们都是完全感知性质的，因此与胡塞尔的保留有所不同。
 
@@ -377,17 +368,17 @@ Geoff Lee（2014a, 2014b）辩护了一个可以说是时间经验的保留模�
 
 在感知哲学中，表征主义（或意向主义）是一种信条，即我们在感知中遇到的现象特性是由“表征”内容决定的，或者是隶属于“表征”内容的。毋庸置疑，表征呈现出非常不同的形式，近期表征主义者所使用的种类是独特的。正如西格尔有用地指出的：
 
-> 当谈论报纸的内容时，我们在谈论报纸报道传达的信息。许多当代对“感知内容”的使用将这些内容视为类似于报纸报道的内容。 (2005 [2021: §2])
+> 当谈论报纸的内容时，我们在谈论报纸报道传达的信息。许多当代对“感知内容”的使用将这些内容视为类似于报纸报道的内容。 (2005 \[2021: §2])
 
 我们在报纸上遇到的故事经常对世界提出主张，并且可以根据其真实性或准确性进行评估，指定故事内容的一种方式是指定如果故事是真实的话将会发生什么。表征主义者认为感知经验所携带的内容是相似的：我们可以通过指定它们为真实（或可靠）的条件来指定它们的内容。重要的是，在这种观点上，感知经验可以具有表征内容，即使它们所讲述的故事是错误的：毕竟，我们偶尔会误解事物——看起来是红色的气球可能实际是橙色的。
 
 再现主义者认为，一般来说，再现载体（即进行再现的对象）的属性和再现内容（所代表的内容）需要明确区分。例如，“红色”这个词可以代表红色，而它本身并不是红色。一份报纸的复制与其所讲述的故事非常不同。在时间体验的情况下，任何觉得这种感知理论有吸引力的人都可以对保留的本质采取非常直接的立场：后者通过具有代表最近过去的有意义内容的感知体验，为我们提供了对最近过去的直接意识。理解经历的持续时间和连续性如何存在于几乎没有持续时间（或几乎没有）的经历中的问题有一个直接的解决方案。正如我们刚刚看到的，再现载体及其内容通常具有非常不同的属性，这是一个很好的例子。在再现主义框架中，期望经历、载体的时间属性与其内容相匹配是错误的。
 
-Hoerl (2013a)认为，如果我们假设胡塞尔从早期类似于感官数据理论者的立场转变为后来类似于当代再现主义者，那么他的一些原本令人困惑的言论就会变得不那么令人困惑。胡塞尔告诉我们，“记忆——这同样适用于保留——不是形象意识，它是完全不同的东西”（Husserl TPZ [1991: 36]）。他还说，当一个原始印象转变为一个保留时
+Hoerl (2013a)认为，如果我们假设胡塞尔从早期类似于感官数据理论者的立场转变为后来类似于当代再现主义者，那么他的一些原本令人困惑的言论就会变得不那么令人困惑。胡塞尔告诉我们，“记忆——这同样适用于保留——不是形象意识，它是完全不同的东西”（Husserl TPZ \[1991: 36]）。他还说，当一个原始印象转变为一个保留时
 
-> 存在一种根本的改变，一种永远无法用我们描述再次导致感觉变化的方式来描述的改变。 (胡塞尔 TPZ [1991: 336])
+> 存在一种根本的改变，一种永远无法用我们描述再次导致感觉变化的方式来描述的改变。 (胡塞尔 TPZ \[1991: 336])
 
-我们可以看到，如果胡塞尔（Husserl）（实际上）采用再现主义，他可能会认为这是正确的。[17]
+我们可以看到，如果胡塞尔（Husserl）（实际上）采用再现主义，他可能会认为这是正确的。\[17]
 
 有许多表象主义者捍卫的另一条与我们当前关注的相关的信条：对“经验的透明性”的坚持。通常他们指的是（至少部分地）在普通感知经验中，我们对自己的经验本身没有任何意识，我们只是意识到（世俗的）对象和属性，这些对象和属性是通过我们的经验呈现出来的。如果我们的经验是看不见的，就没有必要引入经验的属性——现象属性、感觉数据等等，来解释我们普通感知意识的内容和特性。将这种方法扩展到时间意识的特定情况，迈克尔·泰（Michael Tye）提出如下论点。首先，如果我们假设透明性论是正确的，那么传统的假设，即经验是通过连续性或同时性相关联的，是错误的：
 
@@ -409,21 +400,21 @@ Soteriou (2010: 230) 对 Tye 的观点中的这一方面也感到困惑。
 
 ### 5.1 起源：一个被拒绝的教条
 
-斯特恩在他的《心理存在时间》（1897 [2005]）开篇观察到，心理学中许多最近的研究都对经验中可能存在的统一性质作出了一种假设：只有瞬时和同时发生的内容才能一起被理解。毋庸置疑，这种假设等同于对 PSA 的承诺——见§1.2。斯特恩建议我们拒绝这种限制：
+斯特恩在他的《心理存在时间》（1897 \[2005]）开篇观察到，心理学中许多最近的研究都对经验中可能存在的统一性质作出了一种假设：只有瞬时和同时发生的内容才能一起被理解。毋庸置疑，这种假设等同于对 PSA 的承诺——见§1.2。斯特恩建议我们拒绝这种限制：
 
-> 只有那些同时存在并在任何给定时间同时存在的内容才能属于意识整体...是一种教条，以一种或多种隐晦的形式决定了许多心理反思。我认为这种教条，至少在这种泛化形式中，是错误的。我相信存在这样的情况，即一个理解首先是基于意识内容的时间延伸而产生的，以这样一种方式，使得这个内容的每个部分都与其他每个部分存在着不可分割的联系。 (Stern, 1897 [2005: 313])
+> 只有那些同时存在并在任何给定时间同时存在的内容才能属于意识整体...是一种教条，以一种或多种隐晦的形式决定了许多心理反思。我认为这种教条，至少在这种泛化形式中，是错误的。我相信存在这样的情况，即一个理解首先是基于意识内容的时间延伸而产生的，以这样一种方式，使得这个内容的每个部分都与其他每个部分存在着不可分割的联系。 (Stern, 1897 \[2005: 313])
 
 拒绝 PSA 带来了许多优势。看似连续的经验内容确实可以是连续的，而不是同时存在（与保留模型相反），同样，意识的片段似乎可以在普通客观时间间隔中持续存在。放弃这种教条意味着时间意识不再需要系统性地误导其自身的本质。斯特恩很清楚为什么他的同时代人坚持需要区分经验的连续性和连续的经验。如果一系列音符一起被体验，每个音符都被体验为跟随前一个音符，那么一系列音符只会被体验为连续。斯特恩只是建议这些统一的体验片段本身延伸到时间间隔，而不是瞬间的。
 
-> 因此，我提出以下原则：在一段时间内发生的心理事件在某些情况下可以形成一个统一而复杂的意识行为，而不受个体部分的非同时性的影响。我称之为心理行为可以延伸的时间段为其存在时间。（Stern 1897 [2005: 315]）
+> 因此，我提出以下原则：在一段时间内发生的心理事件在某些情况下可以形成一个统一而复杂的意识行为，而不受个体部分的非同时性的影响。我称之为心理行为可以延伸的时间段为其存在时间。（Stern 1897 \[2005: 315]）
 
-温特认为，只有当感官内容的复合体同时存在于一个意识整体中时，才能直接理解。斯特恩拒绝了这一观点：“作为一个整体，是的；作为同时的，不是”（1897 年[2005:319]）。如果我们遵循斯特恩并接受时间经验的外延模型，那么“现在”这个概念又是如何呢？斯特恩建议，我们无需拒绝经验可以是现在的想法。我们所需要做的就是将现在定义为“可以成为直接感知对象的时间和空间关系的总体”（1897 年[2005:325]）。由于我们直接感知跨越短暂时间间隔的事件，因此这样构想的现在是一个积极且有限的时间段。
+温特认为，只有当感官内容的复合体同时存在于一个意识整体中时，才能直接理解。斯特恩拒绝了这一观点：“作为一个整体，是的；作为同时的，不是”（1897 年\[2005:319]）。如果我们遵循斯特恩并接受时间经验的外延模型，那么“现在”这个概念又是如何呢？斯特恩建议，我们无需拒绝经验可以是现在的想法。我们所需要做的就是将现在定义为“可以成为直接感知对象的时间和空间关系的总体”（1897 年\[2005:325]）。由于我们直接感知跨越短暂时间间隔的事件，因此这样构想的现在是一个积极且有限的时间段。
 
 个体存在时间如何结合形成意识流？在日常生活中，我们毕竟连续几个小时都在意识中，而个体存在时间非常短。斯特恩在他的文章中没有解决这个问题，因此他提供的帮助有限——详细了解斯特恩的观点，请参阅戴顿（2017b），然而不久之后一个有希望的提议出现了。1915 年，伯特兰·罗素在《单一论者》上发表了他的《关于时间体验》，其中涉及到意识流的组成问题。罗素首先介绍了一些关键术语和论点。感觉涉及主体与客体或感觉数据之间的熟悉关系。罗素明确表示他相信变化可以直接体验，告诉我们：
 
 > 继承是一种关系，可能存在于一个感觉的两个部分之间，例如一个快速运动的两个部分之间，这是一个感觉的对象；然后，也许当一个或两个对象是直接记忆的对象时，可以立即体验到它，并通过推理扩展到一个或两个术语不在场的情况。 (1915: 213)
 
-如何将虚假的当下结合起来形成整个意识流？在这里，Russell 有用地超越了 Stern，并提出同一意识流中相邻的虚假当下是通过重叠或部分共享相关联的。假设 A、B、C 是相同持续时间的短暂声音，在同一连续意识流中被体验为一连串；也假设这些声音的长度使得只有其中两个可以同时被体验。Russell 建议，由此产生的时间延展体验将包括两个虚假当下[A-随后是 B]和[B-随后是 C]，由于在后续虚假当下中体验 B 声音的数值等同于在后续虚假当下中体验 B 声音，因此 B 只被听到一次，而不是两次。由此产生的听觉意识流由一系列连续的声音组成，每个声音被听到是作为紧随其前者的，其中只有两个声音被同时体验为直接相继的。
+如何将虚假的当下结合起来形成整个意识流？在这里，Russell 有用地超越了 Stern，并提出同一意识流中相邻的虚假当下是通过重叠或部分共享相关联的。假设 A、B、C 是相同持续时间的短暂声音，在同一连续意识流中被体验为一连串；也假设这些声音的长度使得只有其中两个可以同时被体验。Russell 建议，由此产生的时间延展体验将包括两个虚假当下\[A-随后是 B]和\[B-随后是 C]，由于在后续虚假当下中体验 B 声音的数值等同于在后续虚假当下中体验 B 声音，因此 B 只被听到一次，而不是两次。由此产生的听觉意识流由一系列连续的声音组成，每个声音被听到是作为紧随其前者的，其中只有两个声音被同时体验为直接相继的。
 
 罗素继续提出了另一个重要的观察：
 
@@ -441,9 +432,9 @@ Soteriou (2010: 230) 对 Tye 的观点中的这一方面也感到困惑。
 
 Foster 通过假设意识的意识内容模型开始讨论。假设正在演唱一个音阶，音符的持续时间使得一个听众能够连续意识到三个音符。随着音阶的展开，主体将会有一系列听觉体验。
 
-* E1 = [多-雷-米]
-* E2 = [再-米-索]
-* E3 = [*mi-so-fa*]
+* E1 = \[多-雷-米]
+* E2 = \[再-米-索]
+* E3 = \[_mi-so-fa_]
 
 这种经历序列具有一个令人困惑的特征：看起来好像音符被体验了不止一次，在 E1 和 E2 中再次出现，mi 在 E1、E2 和 E3 中再次出现，so 在 E2 和 E3 中再次出现。Foster 建议，这样的体验并非逻辑上不可能，但我们日常聆听一系列音符的经验显然不包括这种重复。
 
@@ -457,7 +448,7 @@ Foster 通过假设意识的意识内容模型开始讨论。假设正在演唱�
 
 图 5.1 展示了福斯特的双重重叠理论，其中包括时间上延伸的意识和内容。【有关图 5.1 的详细描述请参见补充说明。】
 
-在他的《意识之流》（2000 年，第二版 2006 年）中，Barry Dainton 设定了一个目标，即提供我们在日常意识流中发现的统一性和连续性的现象学解释。 Dainton 对经验和物理之间的关系没有立场，除了假设意识是“现实中不可简化的成分”（2000 [2006: xiv]）。他还采纳了间接实在论者或“投射者”视角的感知经验。
+在他的《意识之流》（2000 年，第二版 2006 年）中，Barry Dainton 设定了一个目标，即提供我们在日常意识流中发现的统一性和连续性的现象学解释。 Dainton 对经验和物理之间的关系没有立场，除了假设意识是“现实中不可简化的成分”（2000 \[2006: xiv]）。他还采纳了间接实在论者或“投射者”视角的感知经验。
 
 戴顿最初关注的是时间意识的同步（在某一时刻）。他认为，我们在任何时候所经历的多样经验的团结本身就是我们经验的一个特征，在考虑了其他解释共同意识的尝试之后，戴顿得出结论，应将其视为一种原始关系。在被拒绝的现象统一解释中，有一个论点认为，经验对象和内容之间的统一是因为它们属于一个意识行为。 意识具有意识-内容结构的想法——如福斯特所假设的那样——在几个方面都很吸引人，但在更仔细的检查中，所有形式的这种“A-论点”都被证明存在严重缺陷，戴顿如此主张。作为一种替代，戴顿采用了他称之为“简单概念”的意识结构的单层观点。
 
@@ -465,7 +456,7 @@ Foster 通过假设意识的意识内容模型开始讨论。假设正在演唱�
 
 在《意识流》一书中，戴恩顿致力于探讨时间体验，认为许多现有方法面临严重问题。这些方法包括各种形式的记忆理论、脉冲理论、布罗德的扩展内容模型以及胡塞尔的保留主义版本。戴恩顿得出结论，由罗素和福斯特捍卫的“重叠”形式的外延理论在各种选择中具有显著优势，并值得进一步发展。除了其他优点之外，它还提供了一个合理的解释，说明意识如何可以被体验为持续数小时，而其他竞争方法无法提供。
 
-对于戴恩顿（Dainton），一个个体的时间意识的早期和后期内容通过一起经历而形成单一统一的体验。戴恩顿认为，体验可以以与同一时刻的体验相同的原始方式在时间上统一，因此单个时间意识中的早期和后期内容可以在时间上共同存在，但是是在不同时间而不是同时。然而，同步和异步共识的形式之间存在差异。人们自然会认为，同时的现象统一是可传递的，但正如罗素（Russell）和福斯特（Foster）所指出的，在异步情况下，传递性的失败是普遍存在的，并且可能在两个时间意识部分重叠时发生。戴恩顿（2000 年[2006 年：第 8 章和第 9 章]）认为，同步和异步形式的共识将体验如此深刻地连接在一起，以至于一种整体论形式随之而来，而由于时间意识由共识连接的体验部分组成，这种整体论形式也延伸到它们。
+对于戴恩顿（Dainton），一个个体的时间意识的早期和后期内容通过一起经历而形成单一统一的体验。戴恩顿认为，体验可以以与同一时刻的体验相同的原始方式在时间上统一，因此单个时间意识中的早期和后期内容可以在时间上共同存在，但是是在不同时间而不是同时。然而，同步和异步共识的形式之间存在差异。人们自然会认为，同时的现象统一是可传递的，但正如罗素（Russell）和福斯特（Foster）所指出的，在异步情况下，传递性的失败是普遍存在的，并且可能在两个时间意识部分重叠时发生。戴恩顿（2000 年\[2006 年：第 8 章和第 9 章]）认为，同步和异步形式的共识将体验如此深刻地连接在一起，以至于一种整体论形式随之而来，而由于时间意识由共识连接的体验部分组成，这种整体论形式也延伸到它们。
 
 Dainton 对个体虚幻现在的描述还有一个进一步的要素。Dainton 认为意识在一种强烈的动态方式下：他认为我们的经验通常表现出“可辨识的现象流动……一种感觉到相同种类的现象质量正在持续更新”（2004a: 15）。很难看出我们的经验的这一特征仅仅通过共同意识关系就能解释，因为后者是一种对称关系：如果 do 与 re 是共同意识的，那么 re 也将与 do 是共同意识的。鉴于这种对称性，我们是如何从 do 流向 re 的呢？就在这一点上，Dainton 引入了一个额外的要素：现象内容
 
@@ -543,7 +534,7 @@ Oliver Rashbrook 将 Soteriou 的过程-状态区分应用得很有用，表明�
 
 > 我的经验更像是每个声音依次发生，而我的经验按照这种方式进行，构成了我意识到呼啸声后面跟着爆炸声的过程。 (Hoerl 2009: 8)
 
-在后来的一篇文章中，Hoerl（2013b）在这里建议，目前关于时间体验的两种最有前途的方法是一方面的外延主义，另一方面是保留主义的表征主义变体。他还建议——另请参阅 Hoerl（2017）——时间体验的外延主义观点和感知的直接现实主义（或“关系主义”）解释是自然的伙伴。感知经验的表征主义立场可以在许多方面帮助保留主义者，正如我们在§4.4 中看到的那样。Hoerl 还指出，任何采取关于时间体验的现实主义立场并且也倾向于直接现实主义的人会发现外延观点是一种自然且有吸引力的观点。如果我看到交通灯变色，那么对于一个直接现实主义者来说，一个在一段时间内发生变化的对象正在直接呈现给我，而由此产生的感知体验本身将随时间延伸，正如外延主义者所声称的那样。然而，从表面上看，外延方法似乎与其他关于感知经验性质的观点相容，比如 Dainton 更倾向于间接实在主义，或者提到副词主义等觉点——请参阅 Crane 和 French（2015 [2021]）以获取竞争理论的概述。
+在后来的一篇文章中，Hoerl（2013b）在这里建议，目前关于时间体验的两种最有前途的方法是一方面的外延主义，另一方面是保留主义的表征主义变体。他还建议——另请参阅 Hoerl（2017）——时间体验的外延主义观点和感知的直接现实主义（或“关系主义”）解释是自然的伙伴。感知经验的表征主义立场可以在许多方面帮助保留主义者，正如我们在§4.4 中看到的那样。Hoerl 还指出，任何采取关于时间体验的现实主义立场并且也倾向于直接现实主义的人会发现外延观点是一种自然且有吸引力的观点。如果我看到交通灯变色，那么对于一个直接现实主义者来说，一个在一段时间内发生变化的对象正在直接呈现给我，而由此产生的感知体验本身将随时间延伸，正如外延主义者所声称的那样。然而，从表面上看，外延方法似乎与其他关于感知经验性质的观点相容，比如 Dainton 更倾向于间接实在主义，或者提到副词主义等觉点——请参阅 Crane 和 French（2015 \[2021]）以获取竞争理论的概述。
 
 Hoerl 所捍卫的外延主义形式在另一个方面是独特的。正如 Hoerl 所指出的（2013b: §6），为了解释一系列经验与经验的连续之间的差异，人们通常认为后者具有一种与前者不同的独特统一性。例如，Dainton 认为，不同时间发生的内容只有在通过他的历时共同意识关系相互联系在一起时，才能被体验为连续的。Hoerl 认为，这种假设实际上是错误的，如果我们接受外延主义，就没有必要诉诸于这种或任何其他统一关系。在解释经验的连续与一系列经验之间的区别时，外延主义者需要诉诸的唯一因素就是我们时间意识的有限时间跨度。Hoerl 建议，Dainton 对共同意识的非传递性的诉求实际上只不过是...
 
@@ -551,13 +542,13 @@ Hoerl 所捍卫的外延主义形式在另一个方面是独特的。正如 Hoer
 
 时间意识作为延展主义者是否可以不依赖于一种历时统一关系并不明显。让我们从霍尔尔偏爱的延展主义和直接现实主义的角度来考虑这个问题。直接现实主义者认为（真实的）感知包括两个要素：一个外部的、独立于心灵的对象和一个感知意识的行为或事件——当我们的意识使我们熟悉外部对象时，就会发生感知体验。在同步的情况下：普遍（如果不是普遍的话）认为现象统一是一个真实而重要的现象。我的当前视觉和听觉体验以一种独特的方式统一在一起，而我的当前视觉体验和你的当前听觉体验则没有。
 
-同步的现象统一可以用不同的方式来解释—详见 Brook 和 Raymont（2017 [2021]）以获取更多细节。一种选择是认为存在一种统一关系将经验联系在一起。第二种选择是说，经验之间的统一是因为它们被包含在更广泛的经验中。另一种选择是认为当经验内容落入单一的意识行为时，它们就被统一起来。对于直接实在主义者来说，后一种选择是自然的，考虑到他们对意识在普通感知中所起作用的看法。采取这种关于同步统一的立场的直接实在主义者实际上是在免费获得同步统一的解释—这是从对某种感知观的先前理论承诺中得出的。但仍然存在这样一个情况，即在典型的意识流中的任何给定时间点上，内容以独特的方式统一在一起。
+同步的现象统一可以用不同的方式来解释—详见 Brook 和 Raymont（2017 \[2021]）以获取更多细节。一种选择是认为存在一种统一关系将经验联系在一起。第二种选择是说，经验之间的统一是因为它们被包含在更广泛的经验中。另一种选择是认为当经验内容落入单一的意识行为时，它们就被统一起来。对于直接实在主义者来说，后一种选择是自然的，考虑到他们对意识在普通感知中所起作用的看法。采取这种关于同步统一的立场的直接实在主义者实际上是在免费获得同步统一的解释—这是从对某种感知观的先前理论承诺中得出的。但仍然存在这样一个情况，即在典型的意识流中的任何给定时间点上，内容以独特的方式统一在一起。
 
 在历时情况下也是如此。任何将外延观点与直接实在论相结合的人可能会认为，我们的时间体验依赖于那些本身在时间上延伸的意识行为。但与同步情况一样，落入这些意识行为范围的内容将以独特方式统一：它们的连续部分被一起体验，而不是分开的。当霍尔谈到“个体经验”时，他可能指的是这种统一的整体。现象统一并未离开舞台，它只是以不同的方式被阐释。
 
 此外，现象统一并不仅限于经验内容，它也存在于意识行为的层面。在同时性情况下，如果意识具有意识内容结构，所有内容只需在特定时间内归属于单一意识，就能在现象上统一。在历时性情况下，情况就没有那么简单。跨越一段时间的意识行为将由不同阶段组成，除非延伸的意识行为的连续阶段本身是一起经历的——如上图 5.1 所示的方式——我们就不会有连续性的经验。
 
-为了使问题更具体，让我们专注于一个时间上延伸的意识片段 A，它具有足够的时间延伸，以包含交通灯从红色变为绿色的变化，但不延伸到过去或未来。我们可以用示意图来表示这种情况：A[红，绿]。现在让我们将焦点缩小，考虑这种体验的两个较短的子阶段：A[红] 和 A[绿]，对应于我们正在考虑的体验的较早和较晚阶段。除非 A 的较早和较晚阶段在现象上统一，否则我们主体的意识流由两个完全不同的体验组成：A[红] 和 A[绿]，这两个体验是连续发生的，但并非作为一连串的体验。为了使我们的主体拥有单一体验——一种连续体验而非一连串的体验，红色和绿色灯必须一起体验而非分开体验。采用感知的直接现实主义概念并没有消除心理统一关系的必要性，它只是被重新定位或重新描述。或者一个批评者可能会提出异议。
+为了使问题更具体，让我们专注于一个时间上延伸的意识片段 A，它具有足够的时间延伸，以包含交通灯从红色变为绿色的变化，但不延伸到过去或未来。我们可以用示意图来表示这种情况：A\[红，绿]。现在让我们将焦点缩小，考虑这种体验的两个较短的子阶段：A\[红] 和 A\[绿]，对应于我们正在考虑的体验的较早和较晚阶段。除非 A 的较早和较晚阶段在现象上统一，否则我们主体的意识流由两个完全不同的体验组成：A\[红] 和 A\[绿]，这两个体验是连续发生的，但并非作为一连串的体验。为了使我们的主体拥有单一体验——一种连续体验而非一连串的体验，红色和绿色灯必须一起体验而非分开体验。采用感知的直接现实主义概念并没有消除心理统一关系的必要性，它只是被重新定位或重新描述。或者一个批评者可能会提出异议。
 
 关于延展性错觉现在的一些进一步讨论，请参阅附加文件《错觉现在：进一步问题》。
 
@@ -585,23 +576,23 @@ Broad 的理论有其优点，但也引发了一些问题和谜团。假设在�
 
 > 在我的直接经验中没有任何东西证实这种重复。如果发生了，显然会使听音乐或连续句子变得极其复杂和困难。(Mabbott 1951: 161)
 
-Dainton (2000 [2006: 141]) 也指出，Broad 的观点受到了“重复内容”的问题困扰。
+Dainton (2000 \[2006: 141]) 也指出，Broad 的观点受到了“重复内容”的问题困扰。
 
 ![link to extended description below](https://plato.stanford.edu/entries/consciousness-temporal/repetitions.svg)
 
 图 6.2 重复与分歧。【有关图 6.2 的详细描述请参见附录。】
 
-一项进一步的问题源于 Broad 的观点，即我们持续意识到内容的时间段可能比内容本身的时间跨度更长。回到图 6.2，闪光体验在图表中显示的非常短暂的间隔 e 内展开。持续时间 d 从 A1 延伸到 A2，对应于主体意识到闪光的整个时间段。可以看到，间隔 d 比 e 要长得多。由于通过意识行为所理解的内容似乎是存在的，这意味着——如果 Broad 的观点是正确的——短暂事件被体验为存在的时间要比它们实际存在的时间长得多。通过让我们在瞬间体验一个时间间隔（或接近这样做），Broad 使时间体验无法准确反映我们感知的事件的时间属性。如果我们的体验在这种方式上是误导的，很难相信我们不会注意到。有关 Broad 模型的这些方面的进一步讨论，请参见 Dainton（2000 [2006: 6.2]），Tye（2003），Phillips（2010）和 Rashbrook（2012，2017）。
+一项进一步的问题源于 Broad 的观点，即我们持续意识到内容的时间段可能比内容本身的时间跨度更长。回到图 6.2，闪光体验在图表中显示的非常短暂的间隔 e 内展开。持续时间 d 从 A1 延伸到 A2，对应于主体意识到闪光的整个时间段。可以看到，间隔 d 比 e 要长得多。由于通过意识行为所理解的内容似乎是存在的，这意味着——如果 Broad 的观点是正确的——短暂事件被体验为存在的时间要比它们实际存在的时间长得多。通过让我们在瞬间体验一个时间间隔（或接近这样做），Broad 使时间体验无法准确反映我们感知的事件的时间属性。如果我们的体验在这种方式上是误导的，很难相信我们不会注意到。有关 Broad 模型的这些方面的进一步讨论，请参见 Dainton（2000 \[2006: 6.2]），Tye（2003），Phillips（2010）和 Rashbrook（2012，2017）。
 
 ### 6.2 进一步的混合变体
 
-一种让外延主义者（在某种程度上）接受保留主义者阐述的结构的方法是同意后者确实存在，并在我们的认知中发挥作用，但在完全的潜意识或前意识水平上。根据这种观点，保留（也许还有预保留）存在，但以神经机制和过程的形式存在，这些机制和过程并不直接出现在意识中。Carlos Montemayor（2013 年；Montemayor＆Wittmann 2017 年）为这一立场辩护。Montemayor 提出我们应区分“感觉现在”和“现象现在”。感觉现在将刺激呈现为同时发生，而现象现在的时间延伸大约为半秒到三秒。Montemayor 继续论证认为，认为电影式、保留式和外延式模型相互不兼容是错误的。电影式和保留式模型对应于他的感觉现在，而（外延式）现象现在在现象意识上是有意识的，感觉现在仅在 Ned Block 的意义上是*接入-* 有意识的。Merino-Rajme（2017 年）对这一提议的巧妙性印象深刻，但对其是否与 Block 对接入意识所涉及的概念相容表示怀疑。
+一种让外延主义者（在某种程度上）接受保留主义者阐述的结构的方法是同意后者确实存在，并在我们的认知中发挥作用，但在完全的潜意识或前意识水平上。根据这种观点，保留（也许还有预保留）存在，但以神经机制和过程的形式存在，这些机制和过程并不直接出现在意识中。Carlos Montemayor（2013 年；Montemayor＆Wittmann 2017 年）为这一立场辩护。Montemayor 提出我们应区分“感觉现在”和“现象现在”。感觉现在将刺激呈现为同时发生，而现象现在的时间延伸大约为半秒到三秒。Montemayor 继续论证认为，认为电影式、保留式和外延式模型相互不兼容是错误的。电影式和保留式模型对应于他的感觉现在，而（外延式）现象现在在现象意识上是有意识的，感觉现在仅在 Ned Block 的意义上是_接入-_ 有意识的。Merino-Rajme（2017 年）对这一提议的巧妙性印象深刻，但对其是否与 Block 对接入意识所涉及的概念相容表示怀疑。
 
 Thomas Sattig (2019c) 提出，在他的《时间和空间》（1915）中，安东·马蒂（Anton Marty）辩护了一种混合模型，其中保留和延展元素都在时间体验中起作用。马蒂的立场确实令人着迷，但由于它将变化的体验局限于瞬时体验阶段，最终似乎更具保留主义特征，而非延展主义特征。
 
-在最近的一篇论文中，Rick Grush（2016 [其他互联网资源]）区分了两种感知内容：A 式内容以过去、现在和未来为结构，而 B 式内容以早于、同时和晚于为结构。Grush 指出，在关于时间体验的讨论中，通常（即使是默认的）假设时间体验的特征在所有时间尺度上都具有相同的特征，无论是在短时间间隔、中等时间间隔还是长时间间隔。但如果情况并非如此呢？如果我们的体验并非尺度不变呢？Grush 提出，在秒或分钟这样更大的时间尺度上，认为我们的体验具有 A 式的特征是非常合理的。如果你正在观看奥运会短跑比赛，在比赛的中点左右，一些比赛仍在未来，一些在过去，一些正在进行中。但也许在更小的亚秒时间尺度上情况不同，这就是 Grush 提出的观点：我们的体验在 200 毫秒的尺度下仍然是 A 式的，但在此之下则是 B 式的。
+在最近的一篇论文中，Rick Grush（2016 \[其他互联网资源]）区分了两种感知内容：A 式内容以过去、现在和未来为结构，而 B 式内容以早于、同时和晚于为结构。Grush 指出，在关于时间体验的讨论中，通常（即使是默认的）假设时间体验的特征在所有时间尺度上都具有相同的特征，无论是在短时间间隔、中等时间间隔还是长时间间隔。但如果情况并非如此呢？如果我们的体验并非尺度不变呢？Grush 提出，在秒或分钟这样更大的时间尺度上，认为我们的体验具有 A 式的特征是非常合理的。如果你正在观看奥运会短跑比赛，在比赛的中点左右，一些比赛仍在未来，一些在过去，一些正在进行中。但也许在更小的亚秒时间尺度上情况不同，这就是 Grush 提出的观点：我们的体验在 200 毫秒的尺度下仍然是 A 式的，但在此之下则是 B 式的。
 
-> 在这个间隔中，没有一个时间点被单独标记为现在，被过去和未来所包围。相反，在这个间隔内，事件被表示为早于、同时发生和晚于的关系。但在大于这个尺度的情况下，这个结构化的 200 毫秒间隔有效地成为 A 式体验中笨重的现在。(Grush 2016 [ OIR]: 8)
+> 在这个间隔中，没有一个时间点被单独标记为现在，被过去和未来所包围。相反，在这个间隔内，事件被表示为早于、同时发生和晚于的关系。但在大于这个尺度的情况下，这个结构化的 200 毫秒间隔有效地成为 A 式体验中笨重的现在。(Grush 2016 \[ OIR]: 8)
 
 Grush 认为，在短时间间隔内内容具有 B-ish 特征有助于规避戴顿（Dainton）（2000 年，2008a 年）针对保留模型提出的严重“多余内容”问题。
 
@@ -739,319 +730,318 @@ Colin McGinn 曾经以一种完全轻蔑的方式对待泛心灵论：
 
 这一点也具有更一般的形而上学意义。如果心灵万物论为真，则宇宙中的一切都在享受某种形式的意识。如果（正如许多人所认为的）意识本质上是时间性的，那么如果心灵万物论为真，则宇宙中的一切都将享受一种时间性的意识。在这种情况下，关于时间经验结构的竞争性描述是关于整体现实性质的竞争性描述，就像一个世纪前伯格森所建议的那样。
 
-
 ## Bibliography
 
-* Albertazzi, Liliana, 1994, “The *Psychological* Whole. I: The Temporal Parts of Presentation”, *Axiomathes*, 5(1): 145–175. doi:10.1007/BF02228960
-* –––, 1996, “Comet Tails, Fleeting Objects and Temporal Inversions”, *Axiomathes*, 7(1–2): 111–135. doi:10.1007/BF02357202
-* –––, 2001, “Vittorio Benussi (1878–1927)”, in *The School of Alexius Meinong*, Liliana Albertazzi, Dale Jacquette, and Roberto Poli (eds.), (Western Philosophy Series), Aldershot: Ashgate, chapter 4.
-* Almog, Jan, 2021, “A Problem for Extensional Theories of Time Consciousness”, *Synthese*, 199(5-6): 14865–14880. doi:10.1007/s11229-021-03446-4
+* Albertazzi, Liliana, 1994, “The _Psychological_ Whole. I: The Temporal Parts of Presentation”, _Axiomathes_, 5(1): 145–175. doi:10.1007/BF02228960
+* –––, 1996, “Comet Tails, Fleeting Objects and Temporal Inversions”, _Axiomathes_, 7(1–2): 111–135. doi:10.1007/BF02357202
+* –––, 2001, “Vittorio Benussi (1878–1927)”, in _The School of Alexius Meinong_, Liliana Albertazzi, Dale Jacquette, and Roberto Poli (eds.), (Western Philosophy Series), Aldershot: Ashgate, chapter 4.
+* Almog, Jan, 2021, “A Problem for Extensional Theories of Time Consciousness”, _Synthese_, 199(5-6): 14865–14880. doi:10.1007/s11229-021-03446-4
 * Andersen, Holly, 2014, “The Development of the ‘Specious Present’ and James’ Views on Temporal Experience”, in Arstila and Lloyd 2014: 25–42 (ch. 2).
 * –––, 2017, “The Hodgsonian Account of Temporal Experience”, in Phillips 2017: ch. 5.
-* Andersen, Holly K. and Rick Grush, 2009, “A Brief History of Time-Consciousness: Historical Precursors to James and Husserl”, *Journal of the History of Philosophy*, 47(2): 277–307. doi:10.1353/hph.0.0118
-* Anderson, Joseph and Barbara Anderson, 1993, “The Myth of Persistence of Vision Revisited”, *Journal of Film and Video*, 45(1): 3–12.
-* Arstila, Valtteri, 2016a, “Theories of Apparent Motion”, *Phenomenology and the Cognitive Sciences*, 15(3): 337–358. doi:10.1007/s11097-015-9418-y
-* –––, 2016b, “The Time of Experience and the Experience of Time”, in Mölder, Arstila, and Øhrstrøm 2016: 163–186. doi:10.1007/978-3-319-22195-3_9
-* –––, 2018, “Temporal Experiences without the Specious Present”, *Australasian Journal of Philosophy*, 96(2): 287–302. doi:10.1080/00048402.2017.1337211
-* Arstila, Valtteri, Adrian Bardon, Sean Enda Power, and Argiro Vatakis (eds.), 2019, *The Illusions of Time: Philosophical and Psychological Essays on Timing and Time Perception*, Cham: Palgrave Macmillan. doi:10.1007/978-3-030-22048-8
-* Arstila, Valtteri and Dan Edward Lloyd (eds.), 2014, *Subjective Time: The Philosophy, Psychology, and Neuroscience of Temporality*, Cambridge, MA: MIT Press.
-* Augustine of Hippo, *Confessions of St. Augustine*, translated by E. B. Pusey, London: J. H. Parker, 1838.
-* Bachelard, Gaston, 1932 [2013], *L’Intuition de l’instant*, Paris: Stock. Translated as *Intuition of the Instant*, Eileen Rizo-Patron (trans.), (Northwestern University Studies in Phenomenology and Existential Philosophy), Evanston, Ill: Northwestern University Press, 2013.
-* –––, 1936 [2016], *La dialectique de la durée*, (Bibliothèque de la revue des cours et conférences), Paris: Boivin & Cie. Translated as *The Dialectic of Duration*, Mary McAllester Jones (trans.), (Groundworks), London/New York: Rowman & Littlefield International, 2016.
-* Bacigalupo, Giuliano and Hélène Leblanc (eds.), 2019, *Anton Marty and Contemporary Philosophy*, Cham: Palgrave MacMillan. doi:10.1007/978-3-030-05581-3
-* Bardon, Adrian, 2007, “Empiricism, Time-Awareness, and Hume’s Manners of Disposition”, *Journal of Scottish Philosophy*, 5(1): 47–63. doi:10.3366/jsp.2007.5.1.47
-* ––– (ed.), 2013, *The Future of the Philosophy of Time*, New York: Routledge. doi:10.4324/9780203338315
-* –––, 2019, “Explaining Temporal Phenomenology: Hume’s Extensionalism and Kant’s Apriorism”, *Kant-Studien*, 110(3): 463–476. doi:10.1515/kant-2019-3006
-* Barnard, W.G., 2011, *Living Consciousness: The Metaphysical Vision of Henri Bergson*, Albany: State University of New York Press.
-* Baron, Samuel, John Cusbert, Matt Farr, Maria Kon, and Kristie Miller, 2015, “Temporal Experience, Temporal Passage and the Cognitive Sciences: Temporal Experience and the Cognitive Sciences”, *Philosophy Compass*, 10(8): 560–571. doi:10.1111/phc3.12244
-* Barrett, William, 1968, “The Flow of Time”, in *The Philosophy of Time*, Richard M. Gale (ed.), Sussex: Harvester, 1968, 355–377.
-* Baxter, Donald L. M., 2007, *Hume’s Difficulty: Time and Identity in the Treatise*, (Routledge Studies in Eighteenth-Century Philosophy), London/New York: Routledge. doi:10.4324/9780203940259
-* Bayne, Tim, 2001, “Review of Barry Dainton’s *Stream of Consciousness*”, *Journal of Consciousness Studies*, 8(3): 79–92.
-* –––, 2005, “Divided Brains and Unified Phenomenology: A Review Essay on Michael Tye’s *Consciousness and Persons*”, *Philosophical Psychology*, 18(4): 495–512. doi:10.1080/09515080500229993
-* Benovsky, Jiri, 2012, “The Speed of Thought. Experience of Change, Movement, and Time: A Lockean Account”, *Locke Studies*, 12: 85–110.
-* –––, 2013, “The Present vs. the Specious Present”, *Review of Philosophy and Psychology*, 4(2): 193–203. doi:10.1007/s13164-012-0120-5
-* Bergson, Henri, 1889 [1910], *Essai sur les données immédiates de la conscience*, Paris: Félix Alcan. Translated as *Time and Free Will: An Essay on the Immediate Data of Consciousness*, F. L. Pogson (trans.), London: George Allen and Unwin, 1910.
-* Boring, Edwin Garrigues, 1942, *Sensation and Perception in the History of Experimental Psychology*, (Century Psychology Series), New York/London: D. Appleton-Century Company.
-* Braddon-Mitchell, David, 2014, “Against the Illusion Theory of Temporal Phenomenology”, *CAPE Studies in Applied Philosophy and Ethics Series*, 2: 211–222. doi:10.17983/203255
-* Broad, C. D., 1923, *Scientific Thought*, (International Library of Psychology, Philosophy, and Scientific Method), London: Kegan Paul, Trench, Trubner.
-* Brook, Andrew and Kathleen Akins (eds.), 2005, *Cognition and the Brain: The Philosophy and Neuroscience Movement*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511610608
-* Brook, Andrew and Paul Raymont, 2017 [2021], “The Unity of Consciousness”, *The Stanford Encyclopedia of Philosophy* (Summer 2021 edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2021/entries/consciousness-unity/>.
-* Brüntrup, Godehard and Ludwig Jaskolla (eds.), 2016, *Panpsychism: Contemporary Perspectives*, (Philosophy of Mind), New York: Oxford University Press. doi:10.1093/acprof:oso/9780199359943.001.0001
-* Callender, Craig, 2008, “The Common Now”, *Philosophical Issues*, 18: 339–361. doi:10.1111/j.1533-6077.2008.00151.x
-* ––– (ed.), 2011, *The Oxford Handbook of Philosophy of Time*, (Oxford Handbooks), Oxford ; New York: Oxford University Press. doi:10.1093/oxfordhb/9780199298204.001.0001
-* –––, 2017, *What Makes Time Special?*, Oxford: Oxford University Press. doi:10.1093/oso/9780198797302.001.0001
-* Campo, Alessandra and Simone Gozzano (eds.), 2022, *Einstein vs. Bergson: An Enduring Quarrel on Time*, (Transcodification: Arts, Languages and Media, 3), Berlin/Boston: Walter de Gruyter. doi:10.1515/9783110753707
-* Canales, Jimena, 2009, *A Tenth of a Second: A History*, Chicago: University of Chicago Press.
-* –––, 2015, *The Physicist and the Philosopher: Einstein, Bergson, and the Debate That Changed Our Understanding of Time*, Princeton, NJ: Princeton University Press. doi:10.1515/9781400865772
-* Čapek, Milič, 1971, *Bergson and Modern Physics: A Reinterpretation and Re-Evaluation*, (Boston Studies in the Philosophy of Science 7), Dordrecht: Reidel. doi:10.1007/978-94-010-3096-0
-* Chisholm, Roderick M., 1981, “Brentano’s Analysis of the Consciousness of Time”, in *The Foundations of Analytic Philosophy*, Peter A. French, Theodore E. Uehling, and Howard K. Wettstein (eds.), (Midwest Studies in Philosophy 6), Minneapolis, MN: University of Minnesota Press, 3–16. doi:10.1111/j.1475-4975.1981.tb00425.x
-* Chuard, Philippe, 2011, “Temporal Experiences and Their Parts”, *Philosophers’ Imprint*, 11: article 11. [[Chuard 2011 available online](https://hdl.handle.net/2027/spo.3521354.0011.011)]
+* Andersen, Holly K. and Rick Grush, 2009, “A Brief History of Time-Consciousness: Historical Precursors to James and Husserl”, _Journal of the History of Philosophy_, 47(2): 277–307. doi:10.1353/hph.0.0118
+* Anderson, Joseph and Barbara Anderson, 1993, “The Myth of Persistence of Vision Revisited”, _Journal of Film and Video_, 45(1): 3–12.
+* Arstila, Valtteri, 2016a, “Theories of Apparent Motion”, _Phenomenology and the Cognitive Sciences_, 15(3): 337–358. doi:10.1007/s11097-015-9418-y
+* –––, 2016b, “The Time of Experience and the Experience of Time”, in Mölder, Arstila, and Øhrstrøm 2016: 163–186. doi:10.1007/978-3-319-22195-3\_9
+* –––, 2018, “Temporal Experiences without the Specious Present”, _Australasian Journal of Philosophy_, 96(2): 287–302. doi:10.1080/00048402.2017.1337211
+* Arstila, Valtteri, Adrian Bardon, Sean Enda Power, and Argiro Vatakis (eds.), 2019, _The Illusions of Time: Philosophical and Psychological Essays on Timing and Time Perception_, Cham: Palgrave Macmillan. doi:10.1007/978-3-030-22048-8
+* Arstila, Valtteri and Dan Edward Lloyd (eds.), 2014, _Subjective Time: The Philosophy, Psychology, and Neuroscience of Temporality_, Cambridge, MA: MIT Press.
+* Augustine of Hippo, _Confessions of St. Augustine_, translated by E. B. Pusey, London: J. H. Parker, 1838.
+* Bachelard, Gaston, 1932 \[2013], _L’Intuition de l’instant_, Paris: Stock. Translated as _Intuition of the Instant_, Eileen Rizo-Patron (trans.), (Northwestern University Studies in Phenomenology and Existential Philosophy), Evanston, Ill: Northwestern University Press, 2013.
+* –––, 1936 \[2016], _La dialectique de la durée_, (Bibliothèque de la revue des cours et conférences), Paris: Boivin & Cie. Translated as _The Dialectic of Duration_, Mary McAllester Jones (trans.), (Groundworks), London/New York: Rowman & Littlefield International, 2016.
+* Bacigalupo, Giuliano and Hélène Leblanc (eds.), 2019, _Anton Marty and Contemporary Philosophy_, Cham: Palgrave MacMillan. doi:10.1007/978-3-030-05581-3
+* Bardon, Adrian, 2007, “Empiricism, Time-Awareness, and Hume’s Manners of Disposition”, _Journal of Scottish Philosophy_, 5(1): 47–63. doi:10.3366/jsp.2007.5.1.47
+* ––– (ed.), 2013, _The Future of the Philosophy of Time_, New York: Routledge. doi:10.4324/9780203338315
+* –––, 2019, “Explaining Temporal Phenomenology: Hume’s Extensionalism and Kant’s Apriorism”, _Kant-Studien_, 110(3): 463–476. doi:10.1515/kant-2019-3006
+* Barnard, W.G., 2011, _Living Consciousness: The Metaphysical Vision of Henri Bergson_, Albany: State University of New York Press.
+* Baron, Samuel, John Cusbert, Matt Farr, Maria Kon, and Kristie Miller, 2015, “Temporal Experience, Temporal Passage and the Cognitive Sciences: Temporal Experience and the Cognitive Sciences”, _Philosophy Compass_, 10(8): 560–571. doi:10.1111/phc3.12244
+* Barrett, William, 1968, “The Flow of Time”, in _The Philosophy of Time_, Richard M. Gale (ed.), Sussex: Harvester, 1968, 355–377.
+* Baxter, Donald L. M., 2007, _Hume’s Difficulty: Time and Identity in the Treatise_, (Routledge Studies in Eighteenth-Century Philosophy), London/New York: Routledge. doi:10.4324/9780203940259
+* Bayne, Tim, 2001, “Review of Barry Dainton’s _Stream of Consciousness_”, _Journal of Consciousness Studies_, 8(3): 79–92.
+* –––, 2005, “Divided Brains and Unified Phenomenology: A Review Essay on Michael Tye’s _Consciousness and Persons_”, _Philosophical Psychology_, 18(4): 495–512. doi:10.1080/09515080500229993
+* Benovsky, Jiri, 2012, “The Speed of Thought. Experience of Change, Movement, and Time: A Lockean Account”, _Locke Studies_, 12: 85–110.
+* –––, 2013, “The Present vs. the Specious Present”, _Review of Philosophy and Psychology_, 4(2): 193–203. doi:10.1007/s13164-012-0120-5
+* Bergson, Henri, 1889 \[1910], _Essai sur les données immédiates de la conscience_, Paris: Félix Alcan. Translated as _Time and Free Will: An Essay on the Immediate Data of Consciousness_, F. L. Pogson (trans.), London: George Allen and Unwin, 1910.
+* Boring, Edwin Garrigues, 1942, _Sensation and Perception in the History of Experimental Psychology_, (Century Psychology Series), New York/London: D. Appleton-Century Company.
+* Braddon-Mitchell, David, 2014, “Against the Illusion Theory of Temporal Phenomenology”, _CAPE Studies in Applied Philosophy and Ethics Series_, 2: 211–222. doi:10.17983/203255
+* Broad, C. D., 1923, _Scientific Thought_, (International Library of Psychology, Philosophy, and Scientific Method), London: Kegan Paul, Trench, Trubner.
+* Brook, Andrew and Kathleen Akins (eds.), 2005, _Cognition and the Brain: The Philosophy and Neuroscience Movement_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511610608
+* Brook, Andrew and Paul Raymont, 2017 \[2021], “The Unity of Consciousness”, _The Stanford Encyclopedia of Philosophy_ (Summer 2021 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2021/entries/consciousness-unity/](https://plato.stanford.edu/archives/sum2021/entries/consciousness-unity/).
+* Brüntrup, Godehard and Ludwig Jaskolla (eds.), 2016, _Panpsychism: Contemporary Perspectives_, (Philosophy of Mind), New York: Oxford University Press. doi:10.1093/acprof:oso/9780199359943.001.0001
+* Callender, Craig, 2008, “The Common Now”, _Philosophical Issues_, 18: 339–361. doi:10.1111/j.1533-6077.2008.00151.x
+* ––– (ed.), 2011, _The Oxford Handbook of Philosophy of Time_, (Oxford Handbooks), Oxford ; New York: Oxford University Press. doi:10.1093/oxfordhb/9780199298204.001.0001
+* –––, 2017, _What Makes Time Special?_, Oxford: Oxford University Press. doi:10.1093/oso/9780198797302.001.0001
+* Campo, Alessandra and Simone Gozzano (eds.), 2022, _Einstein vs. Bergson: An Enduring Quarrel on Time_, (Transcodification: Arts, Languages and Media, 3), Berlin/Boston: Walter de Gruyter. doi:10.1515/9783110753707
+* Canales, Jimena, 2009, _A Tenth of a Second: A History_, Chicago: University of Chicago Press.
+* –––, 2015, _The Physicist and the Philosopher: Einstein, Bergson, and the Debate That Changed Our Understanding of Time_, Princeton, NJ: Princeton University Press. doi:10.1515/9781400865772
+* Čapek, Milič, 1971, _Bergson and Modern Physics: A Reinterpretation and Re-Evaluation_, (Boston Studies in the Philosophy of Science 7), Dordrecht: Reidel. doi:10.1007/978-94-010-3096-0
+* Chisholm, Roderick M., 1981, “Brentano’s Analysis of the Consciousness of Time”, in _The Foundations of Analytic Philosophy_, Peter A. French, Theodore E. Uehling, and Howard K. Wettstein (eds.), (Midwest Studies in Philosophy 6), Minneapolis, MN: University of Minnesota Press, 3–16. doi:10.1111/j.1475-4975.1981.tb00425.x
+* Chuard, Philippe, 2011, “Temporal Experiences and Their Parts”, _Philosophers’ Imprint_, 11: article 11. \[[Chuard 2011 available online](https://hdl.handle.net/2027/spo.3521354.0011.011)]
 * –––, 2017, “The Snapshot Conception of Temporal Experience”, in Phillips 2017: ch. 9.
-* –––, 2020, “Temporal Consciousness”, in *The Oxford Handbook of the Philosophy of Consciousness*, Uriah Kriegel (ed.), Oxford: Oxford University Press, 187–207. doi:10.1093/oxfordhb/9780198749677.013.9
-* Coren, Stanley, Lawrence M. Ward, and James T. Enns, 2004, *Sensation and Perception*, sixth edition, Hoboken: John Wiley & Sons.
-* Crane, Tim and Craig French, 2015 [2021], “The Problem of Perception”, *The Stanford Encyclopedia of Philosophy* (Fall 2021 edition), Edward N. Zalta (ed.). URL = <https://plato.stanford.edu/archives/fall2021/entries/perception-problem/>.
-* Dainton, Barry F., 2000 [2006], *Stream of Consciousness: Unity and Continuity in Conscious Experience*, (International Library of Philosophy), London/New York: Routledge. Revised edition 2006. doi:10.4324/9780203464571
-* –––, 2001 [2010], *Time and Space*, Montreal/Ithaca, NY: McGill-Queen’s University Press. Second edition, 2010. doi:10.4324/9781315539324
-* –––, 2002, “The Gaze of Consciousness”, *Journal of Consciousness Studies*, 9(2): 31–48.
-* –––, 2003, “Time in Experience: Reply to Gallagher”, *Psyche*, 9(10).
-* –––, 2004a, “Précis: Stream of Consciousness”, *PSYCHE: An Interdisciplinary Journal of Research on Consciousness*, 10: article 4. [[available online](https://journalpsyche.org/files/0xbb18.pdf)]
-* –––, 2004b, “The Self and the Phenomenal”, *Ratio*, 17(4): 365–389. doi:10.1111/j.1467-9329.2004.00261.x
-* –––, 2008a, “Sensing Change”, *Philosophical Issues*, 18: 362–384. doi:10.1111/j.1533-6077.2008.00152.x
-* –––, 2008b, *The Phenomenal Self*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199288847.001.0001
+* –––, 2020, “Temporal Consciousness”, in _The Oxford Handbook of the Philosophy of Consciousness_, Uriah Kriegel (ed.), Oxford: Oxford University Press, 187–207. doi:10.1093/oxfordhb/9780198749677.013.9
+* Coren, Stanley, Lawrence M. Ward, and James T. Enns, 2004, _Sensation and Perception_, sixth edition, Hoboken: John Wiley & Sons.
+* Crane, Tim and Craig French, 2015 \[2021], “The Problem of Perception”, _The Stanford Encyclopedia of Philosophy_ (Fall 2021 edition), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/fall2021/entries/perception-problem/](https://plato.stanford.edu/archives/fall2021/entries/perception-problem/).
+* Dainton, Barry F., 2000 \[2006], _Stream of Consciousness: Unity and Continuity in Conscious Experience_, (International Library of Philosophy), London/New York: Routledge. Revised edition 2006. doi:10.4324/9780203464571
+* –––, 2001 \[2010], _Time and Space_, Montreal/Ithaca, NY: McGill-Queen’s University Press. Second edition, 2010. doi:10.4324/9781315539324
+* –––, 2002, “The Gaze of Consciousness”, _Journal of Consciousness Studies_, 9(2): 31–48.
+* –––, 2003, “Time in Experience: Reply to Gallagher”, _Psyche_, 9(10).
+* –––, 2004a, “Précis: Stream of Consciousness”, _PSYCHE: An Interdisciplinary Journal of Research on Consciousness_, 10: article 4. \[[available online](https://journalpsyche.org/files/0xbb18.pdf)]
+* –––, 2004b, “The Self and the Phenomenal”, _Ratio_, 17(4): 365–389. doi:10.1111/j.1467-9329.2004.00261.x
+* –––, 2008a, “Sensing Change”, _Philosophical Issues_, 18: 362–384. doi:10.1111/j.1533-6077.2008.00152.x
+* –––, 2008b, _The Phenomenal Self_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199288847.001.0001
 * –––, 2011, “Time, Passage and Immediate Experience”, in Callender 2011: ch. 12.
 * –––, 2013, “The Perception of Time”, in Dyke and Bardon 2013: 389–409 (ch. 23).
 * –––, 2014, “Flows, Repetitions, and Symmetries: Replies to Lee and Pelczar”, in Oaklander 2014: 175–212 (ch. 9).
-* –––, 2016, “Some Cosmological Implications of Temporal Experience”, in Dolev and Roubach 2016: 75–105. doi:10.1007/978-3-319-22590-6_5
+* –––, 2016, “Some Cosmological Implications of Temporal Experience”, in Dolev and Roubach 2016: 75–105. doi:10.1007/978-3-319-22590-6\_5
 * –––, 2017a, “Bergson on Temporal Experience and Durée Réelle”, in Phillips 2017: ch. 7.
 * –––, 2017b, “William Stern’s ‘Psychische Präsenzzeit’”, in Phillips 2017: ch. 8.
 * –––, 2022, “Indivisibility, Irreducibility, and Interpenetration”, in Sinclair and Wolf 2022: ch. 31.
-* –––, forthcominga, “French Philosophy in the Analytic Tradition”, in M. Sinclair and D. Whistler (eds.) *The Oxford Companion to Modern French Philosophy*, Oxford: Oxford University Press.
-* –––, forthcomingb, “The Silence of Physics”, *Erkenntnis*, first online: 9 November 2021. doi:10.1007/s10670-021-00450-5
-* Davies, Paul, 1995, *About Time: Einstein’s Unfinished Revolution*, New York: Simon and Schuster.
-* Debru, Claude, 2001, “Helmholtz and the Psychophysiology of Time”, *Science in Context*, 14(3): 471–492. doi:10.1017/S0269889701000175
-* Deng, Natalja, 2013, “Our Experience of Passage on the B-Theory”, *Erkenntnis*, 78(4): 713–726. doi:10.1007/s10670-013-9489-5
-* –––, 2018, “On ‘Experiencing Time’: A Response to Simon Prosser”, *Inquiry*, 61(3): 281–301. doi:10.1080/0020174X.2017.1322674
-* –––, 2019, “One Thing After Another: Why the Passage of Time Is Not an Illusion”, in Arstila, Bardon, Power, and Vatakis 2019: 3–15. doi:10.1007/978-3-030-22048-8_1
-* Dennett, Daniel C., 1991, *Consciousness Explained*, Boston: Little, Brown and Co.
-* Dennett, Daniel C. and Marcel Kinsbourne, 1992, “Time and the Observer: The Where and When of Consciousness in the Brain”, *Behavioral and Brain Sciences*, 15(2): 183–201. doi:10.1017/S0140525X00068229
-* Dieks, Dennis, 2016, “Physical Time and Experienced Time”, in Dolev and Roubach 2016: 3–20. doi:10.1007/978-3-319-22590-6_1
+* –––, forthcominga, “French Philosophy in the Analytic Tradition”, in M. Sinclair and D. Whistler (eds.) _The Oxford Companion to Modern French Philosophy_, Oxford: Oxford University Press.
+* –––, forthcomingb, “The Silence of Physics”, _Erkenntnis_, first online: 9 November 2021. doi:10.1007/s10670-021-00450-5
+* Davies, Paul, 1995, _About Time: Einstein’s Unfinished Revolution_, New York: Simon and Schuster.
+* Debru, Claude, 2001, “Helmholtz and the Psychophysiology of Time”, _Science in Context_, 14(3): 471–492. doi:10.1017/S0269889701000175
+* Deng, Natalja, 2013, “Our Experience of Passage on the B-Theory”, _Erkenntnis_, 78(4): 713–726. doi:10.1007/s10670-013-9489-5
+* –––, 2018, “On ‘Experiencing Time’: A Response to Simon Prosser”, _Inquiry_, 61(3): 281–301. doi:10.1080/0020174X.2017.1322674
+* –––, 2019, “One Thing After Another: Why the Passage of Time Is Not an Illusion”, in Arstila, Bardon, Power, and Vatakis 2019: 3–15. doi:10.1007/978-3-030-22048-8\_1
+* Dennett, Daniel C., 1991, _Consciousness Explained_, Boston: Little, Brown and Co.
+* Dennett, Daniel C. and Marcel Kinsbourne, 1992, “Time and the Observer: The Where and When of Consciousness in the Brain”, _Behavioral and Brain Sciences_, 15(2): 183–201. doi:10.1017/S0140525X00068229
+* Dieks, Dennis, 2016, “Physical Time and Experienced Time”, in Dolev and Roubach 2016: 3–20. doi:10.1007/978-3-319-22590-6\_1
 * Dolev, Yuval, 2014, “Motion and and Passage: the Old B-Theory and Phenomenology”, in Oaklander 2014: 31–50 (ch. 2).
-* –––, 2019, “‘On the Essence of Temporal Directionality and Its Irreversibility’”, *Phenomenology and the Cognitive Sciences*, 18(3): 589–601. doi:10.1007/s11097-018-9586-7
+* –––, 2019, “‘On the Essence of Temporal Directionality and Its Irreversibility’”, _Phenomenology and the Cognitive Sciences_, 18(3): 589–601. doi:10.1007/s11097-018-9586-7
 * –––, 2022, “Infinite Divisibility vs. Absolute Indivisibility: What Separates Einstein and Bergson”, in Sinclair and Wolf 2022: ch. 19.
-* Dolev, Yuval and Michael Roubach (eds.), 2016, *Cosmological and Psychological Time*, (Boston Studies in the Philosophy of Science, 285), Cham: Springer. doi:10.1007/978-3-319-22590-6
-* Dorato, Mauro, 2015, “Presentism and the Experience of Time”, *Topoi*, 34(1): 265–275. doi:10.1007/s11245-014-9272-5
-* Dorato, Mauro and Marc Wittmann, 2020, “The Phenomenology and Cognitive Neuroscience of Experienced Temporality”, *Phenomenology and the Cognitive Sciences*, 19(4): 747–771. doi:10.1007/s11097-019-09651-4
-* Dunlop, Katherine, 2017, “Temporal Experience in Kant’s *Critique of Pure Reason*”, in Phillips 2017: ch. 4.
-* Dyke, Heather and Adrian Bardon (eds.), 2013, *A Companion to the Philosophy of Time*, (Blackwell Companions to Philosophy 52), Malden, MA: Wiley-Blackwell. doi:10.1002/9781118522097
-* Eagleman, David M. and Terrence J. Sejnowski, 2000, “Motion Integration and Postdiction in Visual Awareness”, *Science*, 287(5460): 2036–2038. doi:10.1126/science.287.5460.2036
-* –––, 2007, “Motion Signals Bias Localization Judgments: A Unified Explanation for the Flash-Lag, Flash-Drag, Flash-Jump, and Frohlich Illusions”, *Journal of Vision*, 7(4): article 3. doi:10.1167/7.4.3
-* Eddington, Arthur Stanley, 1928, *The Nature of the Physical World*, (The Gifford Lectures, 1927), Cambridge: Cambridge University Press.
-* Efron, Robert, 1967, “The Duration of the Present”, *Annals of the New York Academy of Sciences*, 138(2): 713–729. doi:10.1111/j.1749-6632.1967.tb55017.x
-* –––, 1970, “The Minimum Duration of a Perception”, *Neuropsychologia*, 8(1): 57–63. doi:10.1016/0028-3932(70)90025-4
-* Falkenstein, Lorne, 1997, “Hume on Manners of Disposition and the Ideas of Space and Time”, *Archiv für Geschichte der Philosophie*, 79(2): 179–201. doi:10.1515/agph.1997.79.2.179
+* Dolev, Yuval and Michael Roubach (eds.), 2016, _Cosmological and Psychological Time_, (Boston Studies in the Philosophy of Science, 285), Cham: Springer. doi:10.1007/978-3-319-22590-6
+* Dorato, Mauro, 2015, “Presentism and the Experience of Time”, _Topoi_, 34(1): 265–275. doi:10.1007/s11245-014-9272-5
+* Dorato, Mauro and Marc Wittmann, 2020, “The Phenomenology and Cognitive Neuroscience of Experienced Temporality”, _Phenomenology and the Cognitive Sciences_, 19(4): 747–771. doi:10.1007/s11097-019-09651-4
+* Dunlop, Katherine, 2017, “Temporal Experience in Kant’s _Critique of Pure Reason_”, in Phillips 2017: ch. 4.
+* Dyke, Heather and Adrian Bardon (eds.), 2013, _A Companion to the Philosophy of Time_, (Blackwell Companions to Philosophy 52), Malden, MA: Wiley-Blackwell. doi:10.1002/9781118522097
+* Eagleman, David M. and Terrence J. Sejnowski, 2000, “Motion Integration and Postdiction in Visual Awareness”, _Science_, 287(5460): 2036–2038. doi:10.1126/science.287.5460.2036
+* –––, 2007, “Motion Signals Bias Localization Judgments: A Unified Explanation for the Flash-Lag, Flash-Drag, Flash-Jump, and Frohlich Illusions”, _Journal of Vision_, 7(4): article 3. doi:10.1167/7.4.3
+* Eddington, Arthur Stanley, 1928, _The Nature of the Physical World_, (The Gifford Lectures, 1927), Cambridge: Cambridge University Press.
+* Efron, Robert, 1967, “The Duration of the Present”, _Annals of the New York Academy of Sciences_, 138(2): 713–729. doi:10.1111/j.1749-6632.1967.tb55017.x
+* –––, 1970, “The Minimum Duration of a Perception”, _Neuropsychologia_, 8(1): 57–63. doi:10.1016/0028-3932(70)90025-4
+* Falkenstein, Lorne, 1997, “Hume on Manners of Disposition and the Ideas of Space and Time”, _Archiv für Geschichte der Philosophie_, 79(2): 179–201. doi:10.1515/agph.1997.79.2.179
 * –––, 2017, “Hume on Temporal Experience”, in Phillips 2017: ch. 3.
-* Foster, John, 1979, “In *Self*-Defence”, in *Perception and Identity*, G. F. Macdonald (ed.), London: Macmillan Education UK, 161–185. doi:10.1007/978-1-349-04862-5_8
-* –––, 1982, *The Case for Idealism*, (International Library of Philosophy), London/Boston: Routledge & Kegan Paul. doi:10.4324/9781003153153
-* –––, 1985, *Ayer*, (Arguments of the Philosophers), London/Boston: Routledge & Kegan Paul.
-* –––, 1991, *The Immaterial Self: A Defence of the Cartesian Dualist Conception of the Mind*, (International Library of Philosophy), London/New York: Routledge.
-* Fraisse, Paul, 1984, “Perception and Estimation of Time”, *Annual Review of Psychology*, 35(1): 1–37. doi:10.1146/annurev.ps.35.020184.000245
-* Frischhut, Akiko M., 2014, “Diachronic Unity and Temporal Transparency”, *Journal of Consciousness Studies*, 21(7–8): 34–55.
-* –––, 2015, “What Experience Cannot Teach Us About Time”, *Topoi*, 34(1): 143–155. doi:10.1007/s11245-013-9211-x
+* Foster, John, 1979, “In _Self_-Defence”, in _Perception and Identity_, G. F. Macdonald (ed.), London: Macmillan Education UK, 161–185. doi:10.1007/978-1-349-04862-5\_8
+* –––, 1982, _The Case for Idealism_, (International Library of Philosophy), London/Boston: Routledge & Kegan Paul. doi:10.4324/9781003153153
+* –––, 1985, _Ayer_, (Arguments of the Philosophers), London/Boston: Routledge & Kegan Paul.
+* –––, 1991, _The Immaterial Self: A Defence of the Cartesian Dualist Conception of the Mind_, (International Library of Philosophy), London/New York: Routledge.
+* Fraisse, Paul, 1984, “Perception and Estimation of Time”, _Annual Review of Psychology_, 35(1): 1–37. doi:10.1146/annurev.ps.35.020184.000245
+* Frischhut, Akiko M., 2014, “Diachronic Unity and Temporal Transparency”, _Journal of Consciousness Studies_, 21(7–8): 34–55.
+* –––, 2015, “What Experience Cannot Teach Us About Time”, _Topoi_, 34(1): 143–155. doi:10.1007/s11245-013-9211-x
 * –––, 2017, “Presentism and Temporal Experience”, in Phillips 2017: ch. 19.
-* Gale, Richard (ed.), 1968, *The Philosophy of Time*, Sussex: Harvester.
-* Galifret, Yves, 2006, “Visual Persistence and Cinema?”, *Comptes Rendus Biologies*, 329(5–6): 369–385. doi:10.1016/j.crvi.2006.03.008
-* Gallagher, Shaun, 2003, “Sync-Ing in the Stream of Experience: Time-Consciousness in Broad, Husserl, and Dainton”, *PSYCHE: An Interdisciplinary Journal of Research on Consciousness*, 9: article 10. [[Gallagher 2003 available online](https://journalpsyche.org/files/0xaabb.pdf)]
-* Geldard, Frank A. and Carl E. Sherrick, 1972, “The Cutaneous ‘Rabbit’: A Perceptual Illusion”, *Science*, 178(4057): 178–179. doi:10.1126/science.178.4057.178
-* Goff, Philip, 2017, *Consciousness and Fundamental Reality*, Oxford, Oxford University Press. doi:10.1093/oso/9780190677015.001.0001
-* Grube, Enrico, 2014, “Atomism and the Contents of Experience”, *Journal of Consciousness Studies*, 21(7–8): 13–33.
-* Gruber, Ronald P., Richard A. Block, and Carlos Montemayor, 2022, “Physical Time Within Human Time”, *Frontiers in Psychology*, 13(March): 718505. doi:10.3389/fpsyg.2022.718505
+* Gale, Richard (ed.), 1968, _The Philosophy of Time_, Sussex: Harvester.
+* Galifret, Yves, 2006, “Visual Persistence and Cinema?”, _Comptes Rendus Biologies_, 329(5–6): 369–385. doi:10.1016/j.crvi.2006.03.008
+* Gallagher, Shaun, 2003, “Sync-Ing in the Stream of Experience: Time-Consciousness in Broad, Husserl, and Dainton”, _PSYCHE: An Interdisciplinary Journal of Research on Consciousness_, 9: article 10. \[[Gallagher 2003 available online](https://journalpsyche.org/files/0xaabb.pdf)]
+* Geldard, Frank A. and Carl E. Sherrick, 1972, “The Cutaneous ‘Rabbit’: A Perceptual Illusion”, _Science_, 178(4057): 178–179. doi:10.1126/science.178.4057.178
+* Goff, Philip, 2017, _Consciousness and Fundamental Reality_, Oxford, Oxford University Press. doi:10.1093/oso/9780190677015.001.0001
+* Grube, Enrico, 2014, “Atomism and the Contents of Experience”, _Journal of Consciousness Studies_, 21(7–8): 13–33.
+* Gruber, Ronald P., Richard A. Block, and Carlos Montemayor, 2022, “Physical Time Within Human Time”, _Frontiers in Psychology_, 13(March): 718505. doi:10.3389/fpsyg.2022.718505
 * Grush, Rick, 2005a, “Brain Time and Phenomenological Time”, in Brook and Akins 2005: 160–207. doi:10.1017/CBO9780511610608.006
-* –––, 2005b, “Internal Models and the Construction of Time: Generalizing from *State* Estimation to *Trajectory* Estimation to Address Temporal Features of Perception, Including Temporal Illusions”, *Journal of Neural Engineering*, 2(3): S209–S218. doi:10.1088/1741-2560/2/3/S05
-* –––, 2006, “How to, and How Not to, Bridge Computational Cognitive Neuroscience and Husserlian Phenomenology of Time Consciousness”, *Synthese*, 153(3): 417–450. doi:10.1007/s11229-006-9100-6
-* –––, 2007, “Time and Experience”, in *Philosophie der Zeit: Neue Analytische Ansätze*, Thomas Müller (ed.), Frankfurt am Main: Klostermann, 27–44.
-* Harman, Gilbert, 1990, “The Intrinsic Quality of Experience”, *Philosophical Perspectives*, 4: 31–52. doi:10.2307/2214186
-* Heeney, Matt, 2021, “Perceptual Transparency and the Temporal Structure of Experience”, *Philosophical Studies*, 178(6): 1829–1844. doi:10.1007/s11098-020-01511-1
-* Hirsh, Ira J. and Carl E. Sherrick, 1961, “Perceived Order in Different Sense Modalities.”, *Journal of Experimental Psychology*, 62(5): 423–432. doi:10.1037/h0045283
-* Hodgson, Shadworth Hollway, 1878, *The Philosophy of Reflection*, London: Longmans.
-* –––, 1898, *The Metaphysic of Experience*, London: Longmans, Green.
-* –––, 1900, “Perception of Change and Duration—a Reply”, *Mind*, 9(36): 240–243. doi:10.1093/mind/IX.36.240
-* Hoerl, Christoph, 2009, “Time and Tense in Perceptual Experience”, *Philosopher’s Imprint*, 9: article 12. [[Hoerl 2009 available online](http://hdl.handle.net/2027/spo.3521354.0009.012)]
-* –––, 2013a, “Husserl, the Absolute Flow, and Temporal Experience”, *Philosophy and Phenomenological Research*, 86(2): 376–411. doi:10.1111/j.1933-1592.2011.00547.x
-* –––, 2013b, “‘A Succession of Feelings, in and of Itself, Is Not a Feeling of Succession’”, *Mind*, 122(486): 373–417. doi:10.1093/mind/fzt070
-* –––, 2014, “Do We (Seem to) Perceive Passage?”, *Philosophical Explorations*, 17(2): 188–202. doi:10.1080/13869795.2013.852615
+* –––, 2005b, “Internal Models and the Construction of Time: Generalizing from _State_ Estimation to _Trajectory_ Estimation to Address Temporal Features of Perception, Including Temporal Illusions”, _Journal of Neural Engineering_, 2(3): S209–S218. doi:10.1088/1741-2560/2/3/S05
+* –––, 2006, “How to, and How Not to, Bridge Computational Cognitive Neuroscience and Husserlian Phenomenology of Time Consciousness”, _Synthese_, 153(3): 417–450. doi:10.1007/s11229-006-9100-6
+* –––, 2007, “Time and Experience”, in _Philosophie der Zeit: Neue Analytische Ansätze_, Thomas Müller (ed.), Frankfurt am Main: Klostermann, 27–44.
+* Harman, Gilbert, 1990, “The Intrinsic Quality of Experience”, _Philosophical Perspectives_, 4: 31–52. doi:10.2307/2214186
+* Heeney, Matt, 2021, “Perceptual Transparency and the Temporal Structure of Experience”, _Philosophical Studies_, 178(6): 1829–1844. doi:10.1007/s11098-020-01511-1
+* Hirsh, Ira J. and Carl E. Sherrick, 1961, “Perceived Order in Different Sense Modalities.”, _Journal of Experimental Psychology_, 62(5): 423–432. doi:10.1037/h0045283
+* Hodgson, Shadworth Hollway, 1878, _The Philosophy of Reflection_, London: Longmans.
+* –––, 1898, _The Metaphysic of Experience_, London: Longmans, Green.
+* –––, 1900, “Perception of Change and Duration—a Reply”, _Mind_, 9(36): 240–243. doi:10.1093/mind/IX.36.240
+* Hoerl, Christoph, 2009, “Time and Tense in Perceptual Experience”, _Philosopher’s Imprint_, 9: article 12. \[[Hoerl 2009 available online](http://hdl.handle.net/2027/spo.3521354.0009.012)]
+* –––, 2013a, “Husserl, the Absolute Flow, and Temporal Experience”, _Philosophy and Phenomenological Research_, 86(2): 376–411. doi:10.1111/j.1933-1592.2011.00547.x
+* –––, 2013b, “‘A Succession of Feelings, in and of Itself, Is Not a Feeling of Succession’”, _Mind_, 122(486): 373–417. doi:10.1093/mind/fzt070
+* –––, 2014, “Do We (Seem to) Perceive Passage?”, _Philosophical Explorations_, 17(2): 188–202. doi:10.1080/13869795.2013.852615
 * –––, 2017, “Temporal Experience and the Philosophy of Perception”, in Phillips 2017: ch. 13.
-* –––, 2018, “Experience and Time: Transparency and Presence”, *Ergo, an Open Access Journal of Philosophy*, 5: 127–151. doi:10.3998/ergo.12405314.0005.005
-* Hohwy, Jakob, Paton, Bryan, Palmer, Colin, 2016, “Distrusting the Present”*, Phenomenology and the Cognitive Sciences*, 15(3): 315–335. doi:10.1007/s11097-015-9439-6
-* Hume, David, 1739, *A Treatise of Human Nature*, London: John Noon. New edition by L. A. Selby-Bigge (ed.), Oxford: Clarendon Press, 1888. Page numbers from the 1888 edition.
-* Hunt, T., 2016, “Taking Time Seriously in Tononi’s Integrated Information Theory”, *Journal of Consciousness Studies*, 23(9–10): 88–110.
-* Husserl, Edmund, 1928 [1964], *Vorlesungen zur Phänomenologie des innern Zeitbewusstseins*, Halle: Niemeyer. Translated as *The Phenomenology of Internal Time-Consciousness*, James S. Churchill (trans.), Bloomington: Indiana University Press, 1964.
-* –––, [TPZ] 1985 [1991], *Texte zur Phänomenologie des inneren Zeitbewusstseins, (1893–1917)* (Philosophische Bibliothek, 362), Rudolph Bernet (ed.), Hamburg: F. Meiner. Translated as *On the Phenomenology of the Consciousness of Internal Time (1893–1917)*, J.B. Brough (ed./trans.), Dordrecht: Kluwer.
+* –––, 2018, “Experience and Time: Transparency and Presence”, _Ergo, an Open Access Journal of Philosophy_, 5: 127–151. doi:10.3998/ergo.12405314.0005.005
+* Hohwy, Jakob, Paton, Bryan, Palmer, Colin, 2016, “Distrusting the Present”_, Phenomenology and the Cognitive Sciences_, 15(3): 315–335. doi:10.1007/s11097-015-9439-6
+* Hume, David, 1739, _A Treatise of Human Nature_, London: John Noon. New edition by L. A. Selby-Bigge (ed.), Oxford: Clarendon Press, 1888. Page numbers from the 1888 edition.
+* Hunt, T., 2016, “Taking Time Seriously in Tononi’s Integrated Information Theory”, _Journal of Consciousness Studies_, 23(9–10): 88–110.
+* Husserl, Edmund, 1928 \[1964], _Vorlesungen zur Phänomenologie des innern Zeitbewusstseins_, Halle: Niemeyer. Translated as _The Phenomenology of Internal Time-Consciousness_, James S. Churchill (trans.), Bloomington: Indiana University Press, 1964.
+* –––, \[TPZ] 1985 \[1991], _Texte zur Phänomenologie des inneren Zeitbewusstseins, (1893–1917)_ (Philosophische Bibliothek, 362), Rudolph Bernet (ed.), Hamburg: F. Meiner. Translated as _On the Phenomenology of the Consciousness of Internal Time (1893–1917)_, J.B. Brough (ed./trans.), Dordrecht: Kluwer.
 * Ismael, Jehann, 2011, “Temporal Experience”, in Callender 2011: ch. 15.
 * –––, 2013, “Decision and the Open Future”, in Bardon 2013: ch. 8.
-* –––, 2016, “From Physical Time to Human Time”, in Dolev and Roubach 2016: 107–124. doi:10.1007/978-3-319-22590-6_6
-* James, William, 1890, *The Principles of Psychology*, 2 vols., (American Science—Advanced Course), New York: H. Holt and company. [[James’ *Principles* available online](https://psychclassics.yorku.ca/James/Principles/index.htm)]
-* –––, 1904, “A World of Pure Experience”, *The Journal of Philosophy, Psychology and Scientific Methods*, 1(20): 533–543. Reprinted in James 1967: 194ff. doi:10.2307/2011912
-* –––, 1909, *A Pluralistic Universe*, (Hibbert Lectures (London, England) 1909), New York: Longmans, Green.
-* James, William, 1967, *The Writings of William James: A Comprehensive Edition*, John J. McDermott (ed.), New York: Random House.
-* Johansson, Gunnar, 1973, “Visual Perception of Biological Motion and a Model for Its Analysis”, *Perception & Psychophysics*, 14(2): 201–211. doi:10.3758/BF03212378
-* Joyce, Richard, 2021 [2022], “Moral Anti-Realism”, *The Stanford Encyclopedia of Philosophy* (Winter 2022 edition), Edward N. Zalta (ed.). URL = <https://plato.stanford.edu/archives/win2022/entries/moral-anti-realism/>.
-* Kant, Immanuel, 1781/1787 [1980], *Kritik der reinen Vernunft*, Riga. Translated as *Critique of Pure Reason*, Norman Kemp Smith (trans.), London: Palgrave Macmillan, 1929. Reprinted, London: Macmillan, 1980.
-* Kelly, Sean Dorrance, 2005a, “Temporal Awareness”, in *Phenomenology and Philosophy of Mind*, David Woodruff Smith and Amie L. Thomasson (eds.), Oxford: Oxford University Press, 222–234. doi:10.1093/acprof:oso/9780199272457.003.0011
+* –––, 2016, “From Physical Time to Human Time”, in Dolev and Roubach 2016: 107–124. doi:10.1007/978-3-319-22590-6\_6
+* James, William, 1890, _The Principles of Psychology_, 2 vols., (American Science—Advanced Course), New York: H. Holt and company. \[[James’ _Principles_ available online](https://psychclassics.yorku.ca/James/Principles/index.htm)]
+* –––, 1904, “A World of Pure Experience”, _The Journal of Philosophy, Psychology and Scientific Methods_, 1(20): 533–543. Reprinted in James 1967: 194ff. doi:10.2307/2011912
+* –––, 1909, _A Pluralistic Universe_, (Hibbert Lectures (London, England) 1909), New York: Longmans, Green.
+* James, William, 1967, _The Writings of William James: A Comprehensive Edition_, John J. McDermott (ed.), New York: Random House.
+* Johansson, Gunnar, 1973, “Visual Perception of Biological Motion and a Model for Its Analysis”, _Perception & Psychophysics_, 14(2): 201–211. doi:10.3758/BF03212378
+* Joyce, Richard, 2021 \[2022], “Moral Anti-Realism”, _The Stanford Encyclopedia of Philosophy_ (Winter 2022 edition), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2022/entries/moral-anti-realism/](https://plato.stanford.edu/archives/win2022/entries/moral-anti-realism/).
+* Kant, Immanuel, 1781/1787 \[1980], _Kritik der reinen Vernunft_, Riga. Translated as _Critique of Pure Reason_, Norman Kemp Smith (trans.), London: Palgrave Macmillan, 1929. Reprinted, London: Macmillan, 1980.
+* Kelly, Sean Dorrance, 2005a, “Temporal Awareness”, in _Phenomenology and Philosophy of Mind_, David Woodruff Smith and Amie L. Thomasson (eds.), Oxford: Oxford University Press, 222–234. doi:10.1093/acprof:oso/9780199272457.003.0011
 * –––, 2005, “The Puzzle of Temporal Experience”, in Brook and Akins 2005: 208–238. doi:10.1017/CBO9780511610608.007
-* Kent, Lachlan, 2019, “Duration Perception Versus Perception Duration: A Proposed Model for the Consciously Experienced Moment”, *Timing & Time Perception*, 7(1): 1–14. doi:10.1163/22134468-20181135
-* Kent, Lachlan and Marc Wittmann, 2021, “Time Consciousness: The Missing Link in Theories of Consciousness”, *Neuroscience of Consciousness*, 2021(2): niab011. doi:10.1093/nc/niab011
-* Kiverstein, Julian, 2010, “Making Sense of Phenomenal Unity: An Intentionalist Account of Temporal Experience”, *Royal Institute of Philosophy Supplement*, 67: 155–181. doi:10.1017/S1358246110000081
+* Kent, Lachlan, 2019, “Duration Perception Versus Perception Duration: A Proposed Model for the Consciously Experienced Moment”, _Timing & Time Perception_, 7(1): 1–14. doi:10.1163/22134468-20181135
+* Kent, Lachlan and Marc Wittmann, 2021, “Time Consciousness: The Missing Link in Theories of Consciousness”, _Neuroscience of Consciousness_, 2021(2): niab011. doi:10.1093/nc/niab011
+* Kiverstein, Julian, 2010, “Making Sense of Phenomenal Unity: An Intentionalist Account of Temporal Experience”, _Royal Institute of Philosophy Supplement_, 67: 155–181. doi:10.1017/S1358246110000081
 * Kiverstein, Julian and Valtteri Arstila, 2013, “Time in Mind”, in Dyke and Bardon 2013: 444–469 (ch. 26).
-* Kobes, Bernard W., 2005, “The ‘One-Experience’ Account of Phenomenal Unity: A Review of Michael Tye’s *Consciousness and Persons*”, *PSYCHE: An Interdisciplinary Journal of Research on Consciousness*, 11: article 9. [[Kobes 2005 available online](https://journalpsyche.org/files/0xaad4.pdf)]
-* Kon, Maria and Kristie Miller, 2015, “Temporal Experience: Models, Methodology and Empirical Evidence”, *Topoi*, 34(1): 201–216. doi:10.1007/s11245-014-9251-x
-* Kortooms, Tonie, 2002, *Phenomenology of Time: Edmund Husserl’s Analysis of Time-Consciousness*, (Phaenomenologica 161), Dordrecht/Boston: Kluwer Academic Publishers. doi:10.1007/978-94-015-9918-4
-* Kraus, Oskar, 1930 [1976], “Zur Phänomenognosie des Zeitbewuβtseins”, *Archiv für die Gesamte Psychologie*, 75: 8–22. Translated as “Toward a Phenomenology of Time Consciousness”, in *The Philosophy of Brentano*, Linda L. McAlister (ed.), London: Duckworth, 1976, 224–239.
-* Lee, Geoffrey, 2014a, “Temporal Experience and the Temporal Structure of Experience”, *Philosopher’s Imprint*, 14: article 3. [[Lee 2014a available online](http://hdl.handle.net/2027/spo.3521354.0014.003)]
+* Kobes, Bernard W., 2005, “The ‘One-Experience’ Account of Phenomenal Unity: A Review of Michael Tye’s _Consciousness and Persons_”, _PSYCHE: An Interdisciplinary Journal of Research on Consciousness_, 11: article 9. \[[Kobes 2005 available online](https://journalpsyche.org/files/0xaad4.pdf)]
+* Kon, Maria and Kristie Miller, 2015, “Temporal Experience: Models, Methodology and Empirical Evidence”, _Topoi_, 34(1): 201–216. doi:10.1007/s11245-014-9251-x
+* Kortooms, Tonie, 2002, _Phenomenology of Time: Edmund Husserl’s Analysis of Time-Consciousness_, (Phaenomenologica 161), Dordrecht/Boston: Kluwer Academic Publishers. doi:10.1007/978-94-015-9918-4
+* Kraus, Oskar, 1930 \[1976], “Zur Phänomenognosie des Zeitbewuβtseins”, _Archiv für die Gesamte Psychologie_, 75: 8–22. Translated as “Toward a Phenomenology of Time Consciousness”, in _The Philosophy of Brentano_, Linda L. McAlister (ed.), London: Duckworth, 1976, 224–239.
+* Lee, Geoffrey, 2014a, “Temporal Experience and the Temporal Structure of Experience”, _Philosopher’s Imprint_, 14: article 3. \[[Lee 2014a available online](http://hdl.handle.net/2027/spo.3521354.0014.003)]
 * –––, 2014b, “Extensionalism, Atomism, and Continuity”, in Oaklander 2014: 149—173 (ch. 8).
-* Le Poidevin, Robin, 2000 [2019], “The Experience and Perception of Time”, *The Stanford Encyclopedia of Philosophy* (Summer 2019 edition), Edward N. Zalta (ed.). URL= <https://plato.stanford.edu/archives/sum2019/entries/time-experience/>.
-* –––, 2004, “A Puzzle Concerning Time Perception”, *Synthese*, 142(1): 109–142. doi:10.1023/B:SYNT.0000047710.71824.b1
-* –––, 2007, *The Images of Time: An Essay on Temporal Representation*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199265893.001.0001
-* Levanon, Tamar, 2016a, “Thomas Reid and the Evolution of the Idea of the Specious-Present”, *History of Philosophy Quarterly*, 33(1): 43–61.
-* –––, 2016b, “Relation, Action and the Continuity of Transition”, in Dolev and Roubach 2016: 125–142. doi:10.1007/978-3-319-22590-6_7
-* –––, 2017, “William James in Search of the ‘Minimum of Dynamism’ in Temporal Experience”, *The Philosophical Forum*, 48(1): 31–47. doi:10.1111/phil.12146
-* –––, 2018, “The Trails of the Unspoken: Bergson and Whitehead on Language and Time”, *Process Studies*, 47(1–2): 47–61. doi:10.5406/processstudies.47.1-2.0047
-* Libet, Benjamin, 1993, *Neurophysiology of Consciousness*, (Contemporary Neuroscientists, Selected Papers of Leaders in Brain Research), Boston, MA: Birkhäuser Boston. doi:10.1007/978-1-4612-0355-1
-* –––, 2004, *Mind Time: The Temporal Factor in Consciousness*, Cambridge, MA: MIT Press.
-* Lloyd, Dan Edward, 2002, “Functional MRI and the Study of Human Consciousness”, *Journal of Cognitive Neuroscience*, 14(6): 818–831. doi:10.1162/089892902760191027
-* –––, 2004, *Radiant Cool: A Novel Theory of Consciousness*, Cambridge, MA: MIT Press.
-* Locke, John, 1689 [1975], *An Essay Concerning Human Understanding*, London: Edward Mory. New edition, P. H. Nidditch (ed.), Oxford: Oxford University Press, 1975.
-* Lockwood, Michael, 2005, *The Labyrinth of Time: Introducing the Universe*, Oxford: Oxford University Press.
-* Long, Gerald & O’Saben, Carol, 1989, “The Changing Face of Visual Persistence”, *The American Journal of Psychology*, 102(2): 197–210. doi:10.2307/1422952
-* Mabbott, J. D., 1951, “Our Direct Experience of Time”, *Mind*, 60(238): 153–167. doi:10.1093/mind/LX.238.153
-* –––, 1955, “The Specious Present”, *Mind*, 64(255): 376–383. doi:10.1093/mind/LXIV.255.376
-* Maudlin, Tim, 2002, “Remarks on the Passing of Time”, *Proceedings of the Aristotelian Society*, 102(3): 237–252. doi:10.1111/1467-9264.00118
-* Mauk, Michael D. and Dean V. Buonomano, 2004, “The Neural Basis of Temporal Processing”, *Annual Review of Neuroscience*, 27(1): 307–340. doi:10.1146/annurev.neuro.27.070203.144247
-* McGinn, Colin, 2006, “Hard Questions: Comments on Galen Strawson”, *Journal of Consciousness Studies*, 13(10–11): 90–99.
-* McKenna, Camden Alexander, 2021, “Don’t Go Chasing Waterfalls: Motion Aftereffects and the Dynamic Snapshot Theory of Temporal Experience”, *Review of Philosophy and Psychology*, 12(4): 825–845. doi:10.1007/s13164-020-00511-8
-* McKinnon, Neil, 2003, “Presentism and Consciousness”, *Australasian Journal of Philosophy*, 81(3): 305–323.
-* Merino-Rajme, Carla, 2014, “A Quantum Theory of Felt Duration”, *Analytic Philosophy*, 55(3): 239–275. doi:10.1111/phib.12047
-* –––, 2017, “Review of *Minding Time: A Philosophical and Theoretical Approach to the Psychology of Time*, by Carlos Montemayor”, *Crítica. Revista Hispanoamericana de Filosofía*, 49(145): 133–139.
-* Meyer, Ulrich, 2016, “Consciousness and the Present”, in Dolev and Roubach 2016: 143–153. doi:10.1007/978-3-319-22590-6_8
-* Miller, Izchak, 1984, *Husserl, Perception, and Temporal Awareness*, Cambridge, MA: MIT Press.
-* Miller, Kristie, 2019, “Does It Really Seem to Us as Though Time Passes?”, in Arstila, Bardon, Power, and Vatakis 2019: 17–33. doi:10.1007/978-3-030-22048-8_2
-* Miller, Kristie, Alex Holcombe, and Andrew James Latham, 2020, “Temporal Phenomenology: Phenomenological Illusion versus Cognitive Error”, *Synthese*, 197(2): 751–771. doi:10.1007/s11229-018-1730-y
-* Mölder, Bruno, Valtteri Arstila, and Peter Øhrstrøm (eds.), 2016, *Philosophy and Psychology of Time*, Cham: Springer International Publishing. doi:10.1007/978-3-319-22195-3
-* Montemayor, Carlos, 2013, *Minding Time: A Philosophical and Theoretical Approach to the Psychology of Time*, (Supplements to the Study of Time 5), Leiden/Boston: Brill. doi:10.1163/9789004236172
-* Montemayor, Carlos and Marc Wittmann, 2014, “The Varieties of Presence: Hierarchical Levels of Temporal Integration”, *Timing & Time Perception*, 2(3): 325–338. doi:10.1163/22134468-00002030
-* Morgan, Michael John, 2003, *The Space between Our Ears: How the Brain Represents Visual Space*, London: Weidenfeld & Nicolson.
-* Mundle, C. W. K., 1954, “How Specious Is the ‘Specious Present’?”, *Mind*, 63(249): 26–48. doi:10.1093/mind/LXIII.249.26
-* –––, 1966, “Augustine’s Pervasive Error Concerning Time”, *Philosophy*, 41(156): 165–168. doi:10.1017/S0031819100058538
-* Myers, Gerald E., 1971, “William James on Time Perception”, *Philosophy of Science*, 38(3): 353–360. doi:10.1086/288376
-* Nisly-Nagele, Sheryl J. and Gerald S. Wasserman, 2001, “Dissociating Sensory and Cognitive Contributions to Visual Persistence I. Photoreceptor Response Duration as a Function of Flash Intensity, Adaptation State, and Candidate Code”, *Biological Cybernetics*, 85(3): 167–183. doi:10.1007/s004220100251
-* Northoff, Georg, 2013, *Unlocking the Brain. Volume 2: Consciousness*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199826995.001.0001
-* –––, 2016, “Slow Cortical Potentials and ‘Inner Time Consciousness’ — A Neuro-Phenomenal Hypothesis about the ‘Width of Present’”, *International Journal of Psychophysiology*, 103: 174–184. doi:10.1016/j.ijpsycho.2015.02.012
-* Northoff, Georg and Zirui Huang, 2017, “How Do the Brain’s Time and Space Mediate Consciousness and Its Different Dimensions? Temporo-Spatial Theory of Consciousness (TTC)”, *Neuroscience & Biobehavioral Reviews*, 80: 630–645. doi:10.1016/j.neubiorev.2017.07.013
-* Northoff, Georg and Victor Lamme, 2020, “Neural Signs and Mechanisms of Consciousness: Is There a Potential Convergence of Theories of Consciousness in Sight?”, *Neuroscience & Biobehavioral Reviews*, 118: 568–587. doi:10.1016/j.neubiorev.2020.07.019
-* Oaklander, L. Nathan (ed.), 2014, *Debates in the Metaphysics of Time*, London/New York: Bloomsbury.
-* O’Shaughnessy, Brian, 2000, *Consciousness and the World*, Oxford: Clarendon Press. doi:10.1093/0199256721.001.0001
-* Papineau, David, 2021, *The Metaphysics of Sensory Experience*, Oxford: Oxford University Press. doi:10.1093/oso/9780198862390.001.0001
-* Paton, Joseph J. and Dean V. Buonomano, 2018, “The Neural Basis of Timing: Distributed Mechanisms for Diverse Functions”, *Neuron*, 98(4): 687–705. doi:10.1016/j.neuron.2018.03.045
-* Paul, L. A., 2010, “Temporal Experience”, *Journal of Philosophy*, 107(7): 333–359. doi:10.5840/jphil2010107727
-* Pelczar, Michael, 2010a, “Presentism, Eternalism, and Phenomenal Change”, *Synthese*, 176(2): 275–290. doi:10.1007/s11229-009-9493-0
-* –––, 2010b, “Must an Appearance of Succession Involve a Succession of Appearances?”, *Philosophy and Phenomenological Research*, 81(1): 49–63. doi:10.1111/j.1933-1592.2010.00355.x
-* –––, 2015, *Sensorama: A Phenomenalist Analysis of Spacetime and Its Contents*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732655.001.0001
-* Phillips, Ian, 2010, “Perceiving Temporal Properties”, *European Journal of Philosophy*, 18(2): 176–202. doi:10.1111/j.1468-0378.2008.00299.x
-* –––, 2013, “Perceiving the Passing of Time”, *Proceedings of the Aristotelian Society*, 113(3): 225–252. doi:10.1111/j.1467-9264.2013.00353.x
-* –––, 2014a, “Breaking the Silence: Motion Silencing and Experience of Change”, *Philosophical Studies*, 168(3): 693–707. doi:10.1007/s11098-013-0158-y
-* –––, 2014b, “Experience of and in Time”, *Philosophy Compass*, 9(2): 131–144. doi:10.1111/phc3.12107
+* Le Poidevin, Robin, 2000 \[2019], “The Experience and Perception of Time”, _The Stanford Encyclopedia of Philosophy_ (Summer 2019 edition), Edward N. Zalta (ed.). URL= [https://plato.stanford.edu/archives/sum2019/entries/time-experience/](https://plato.stanford.edu/archives/sum2019/entries/time-experience/).
+* –––, 2004, “A Puzzle Concerning Time Perception”, _Synthese_, 142(1): 109–142. doi:10.1023/B:SYNT.0000047710.71824.b1
+* –––, 2007, _The Images of Time: An Essay on Temporal Representation_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199265893.001.0001
+* Levanon, Tamar, 2016a, “Thomas Reid and the Evolution of the Idea of the Specious-Present”, _History of Philosophy Quarterly_, 33(1): 43–61.
+* –––, 2016b, “Relation, Action and the Continuity of Transition”, in Dolev and Roubach 2016: 125–142. doi:10.1007/978-3-319-22590-6\_7
+* –––, 2017, “William James in Search of the ‘Minimum of Dynamism’ in Temporal Experience”, _The Philosophical Forum_, 48(1): 31–47. doi:10.1111/phil.12146
+* –––, 2018, “The Trails of the Unspoken: Bergson and Whitehead on Language and Time”, _Process Studies_, 47(1–2): 47–61. doi:10.5406/processstudies.47.1-2.0047
+* Libet, Benjamin, 1993, _Neurophysiology of Consciousness_, (Contemporary Neuroscientists, Selected Papers of Leaders in Brain Research), Boston, MA: Birkhäuser Boston. doi:10.1007/978-1-4612-0355-1
+* –––, 2004, _Mind Time: The Temporal Factor in Consciousness_, Cambridge, MA: MIT Press.
+* Lloyd, Dan Edward, 2002, “Functional MRI and the Study of Human Consciousness”, _Journal of Cognitive Neuroscience_, 14(6): 818–831. doi:10.1162/089892902760191027
+* –––, 2004, _Radiant Cool: A Novel Theory of Consciousness_, Cambridge, MA: MIT Press.
+* Locke, John, 1689 \[1975], _An Essay Concerning Human Understanding_, London: Edward Mory. New edition, P. H. Nidditch (ed.), Oxford: Oxford University Press, 1975.
+* Lockwood, Michael, 2005, _The Labyrinth of Time: Introducing the Universe_, Oxford: Oxford University Press.
+* Long, Gerald & O’Saben, Carol, 1989, “The Changing Face of Visual Persistence”, _The American Journal of Psychology_, 102(2): 197–210. doi:10.2307/1422952
+* Mabbott, J. D., 1951, “Our Direct Experience of Time”, _Mind_, 60(238): 153–167. doi:10.1093/mind/LX.238.153
+* –––, 1955, “The Specious Present”, _Mind_, 64(255): 376–383. doi:10.1093/mind/LXIV.255.376
+* Maudlin, Tim, 2002, “Remarks on the Passing of Time”, _Proceedings of the Aristotelian Society_, 102(3): 237–252. doi:10.1111/1467-9264.00118
+* Mauk, Michael D. and Dean V. Buonomano, 2004, “The Neural Basis of Temporal Processing”, _Annual Review of Neuroscience_, 27(1): 307–340. doi:10.1146/annurev.neuro.27.070203.144247
+* McGinn, Colin, 2006, “Hard Questions: Comments on Galen Strawson”, _Journal of Consciousness Studies_, 13(10–11): 90–99.
+* McKenna, Camden Alexander, 2021, “Don’t Go Chasing Waterfalls: Motion Aftereffects and the Dynamic Snapshot Theory of Temporal Experience”, _Review of Philosophy and Psychology_, 12(4): 825–845. doi:10.1007/s13164-020-00511-8
+* McKinnon, Neil, 2003, “Presentism and Consciousness”, _Australasian Journal of Philosophy_, 81(3): 305–323.
+* Merino-Rajme, Carla, 2014, “A Quantum Theory of Felt Duration”, _Analytic Philosophy_, 55(3): 239–275. doi:10.1111/phib.12047
+* –––, 2017, “Review of _Minding Time: A Philosophical and Theoretical Approach to the Psychology of Time_, by Carlos Montemayor”, _Crítica. Revista Hispanoamericana de Filosofía_, 49(145): 133–139.
+* Meyer, Ulrich, 2016, “Consciousness and the Present”, in Dolev and Roubach 2016: 143–153. doi:10.1007/978-3-319-22590-6\_8
+* Miller, Izchak, 1984, _Husserl, Perception, and Temporal Awareness_, Cambridge, MA: MIT Press.
+* Miller, Kristie, 2019, “Does It Really Seem to Us as Though Time Passes?”, in Arstila, Bardon, Power, and Vatakis 2019: 17–33. doi:10.1007/978-3-030-22048-8\_2
+* Miller, Kristie, Alex Holcombe, and Andrew James Latham, 2020, “Temporal Phenomenology: Phenomenological Illusion versus Cognitive Error”, _Synthese_, 197(2): 751–771. doi:10.1007/s11229-018-1730-y
+* Mölder, Bruno, Valtteri Arstila, and Peter Øhrstrøm (eds.), 2016, _Philosophy and Psychology of Time_, Cham: Springer International Publishing. doi:10.1007/978-3-319-22195-3
+* Montemayor, Carlos, 2013, _Minding Time: A Philosophical and Theoretical Approach to the Psychology of Time_, (Supplements to the Study of Time 5), Leiden/Boston: Brill. doi:10.1163/9789004236172
+* Montemayor, Carlos and Marc Wittmann, 2014, “The Varieties of Presence: Hierarchical Levels of Temporal Integration”, _Timing & Time Perception_, 2(3): 325–338. doi:10.1163/22134468-00002030
+* Morgan, Michael John, 2003, _The Space between Our Ears: How the Brain Represents Visual Space_, London: Weidenfeld & Nicolson.
+* Mundle, C. W. K., 1954, “How Specious Is the ‘Specious Present’?”, _Mind_, 63(249): 26–48. doi:10.1093/mind/LXIII.249.26
+* –––, 1966, “Augustine’s Pervasive Error Concerning Time”, _Philosophy_, 41(156): 165–168. doi:10.1017/S0031819100058538
+* Myers, Gerald E., 1971, “William James on Time Perception”, _Philosophy of Science_, 38(3): 353–360. doi:10.1086/288376
+* Nisly-Nagele, Sheryl J. and Gerald S. Wasserman, 2001, “Dissociating Sensory and Cognitive Contributions to Visual Persistence I. Photoreceptor Response Duration as a Function of Flash Intensity, Adaptation State, and Candidate Code”, _Biological Cybernetics_, 85(3): 167–183. doi:10.1007/s004220100251
+* Northoff, Georg, 2013, _Unlocking the Brain. Volume 2: Consciousness_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199826995.001.0001
+* –––, 2016, “Slow Cortical Potentials and ‘Inner Time Consciousness’ — A Neuro-Phenomenal Hypothesis about the ‘Width of Present’”, _International Journal of Psychophysiology_, 103: 174–184. doi:10.1016/j.ijpsycho.2015.02.012
+* Northoff, Georg and Zirui Huang, 2017, “How Do the Brain’s Time and Space Mediate Consciousness and Its Different Dimensions? Temporo-Spatial Theory of Consciousness (TTC)”, _Neuroscience & Biobehavioral Reviews_, 80: 630–645. doi:10.1016/j.neubiorev.2017.07.013
+* Northoff, Georg and Victor Lamme, 2020, “Neural Signs and Mechanisms of Consciousness: Is There a Potential Convergence of Theories of Consciousness in Sight?”, _Neuroscience & Biobehavioral Reviews_, 118: 568–587. doi:10.1016/j.neubiorev.2020.07.019
+* Oaklander, L. Nathan (ed.), 2014, _Debates in the Metaphysics of Time_, London/New York: Bloomsbury.
+* O’Shaughnessy, Brian, 2000, _Consciousness and the World_, Oxford: Clarendon Press. doi:10.1093/0199256721.001.0001
+* Papineau, David, 2021, _The Metaphysics of Sensory Experience_, Oxford: Oxford University Press. doi:10.1093/oso/9780198862390.001.0001
+* Paton, Joseph J. and Dean V. Buonomano, 2018, “The Neural Basis of Timing: Distributed Mechanisms for Diverse Functions”, _Neuron_, 98(4): 687–705. doi:10.1016/j.neuron.2018.03.045
+* Paul, L. A., 2010, “Temporal Experience”, _Journal of Philosophy_, 107(7): 333–359. doi:10.5840/jphil2010107727
+* Pelczar, Michael, 2010a, “Presentism, Eternalism, and Phenomenal Change”, _Synthese_, 176(2): 275–290. doi:10.1007/s11229-009-9493-0
+* –––, 2010b, “Must an Appearance of Succession Involve a Succession of Appearances?”, _Philosophy and Phenomenological Research_, 81(1): 49–63. doi:10.1111/j.1933-1592.2010.00355.x
+* –––, 2015, _Sensorama: A Phenomenalist Analysis of Spacetime and Its Contents_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732655.001.0001
+* Phillips, Ian, 2010, “Perceiving Temporal Properties”, _European Journal of Philosophy_, 18(2): 176–202. doi:10.1111/j.1468-0378.2008.00299.x
+* –––, 2013, “Perceiving the Passing of Time”, _Proceedings of the Aristotelian Society_, 113(3): 225–252. doi:10.1111/j.1467-9264.2013.00353.x
+* –––, 2014a, “Breaking the Silence: Motion Silencing and Experience of Change”, _Philosophical Studies_, 168(3): 693–707. doi:10.1007/s11098-013-0158-y
+* –––, 2014b, “Experience of and in Time”, _Philosophy Compass_, 9(2): 131–144. doi:10.1111/phc3.12107
 * –––, 2014c, “The Temporal Structure of Experience”, in Arstila & Lloyd 2014: 139–158 (ch. 7).
-* –––, 2016, “Review of *Experiencing Time*, by Simon Prosser”, *Notre Dame Philosophical Reviews*, 1 December 2016. [[Phillips 2016 available online](https://ndpr.nd.edu/reviews/experiencing-time/)]
-* ––– (ed.), 2017, *The Routledge Handbook of Philosophy of Temporal Experience*, New York/London: Routledge. doi:10.4324/9781315269641
-* –––, 2018, “Consciousness, Time, and Memory”, in *The Routledge Handbook of Consciousness*, Rocco J. Gennaro (ed.), (Routledge Handbooks in Philosophy), New York, NY: Routledge, 286–297 (ch. 21).
-* Piper, Matthew Stuart, 2019, “Neurodynamics of Time Consciousness: An Extensionalist Explanation of Apparent Motion and the Specious Present via Reentrant Oscillatory Multiplexing”, *Consciousness and Cognition*, 73: 102751. doi:10.1016/j.concog.2019.04.006
-* Plumer, Gilbert, 1985, “The Myth of the Specious Present”, *Mind*, 94(373): 19–35. doi:10.1093/mind/XCIV.373.19
-* Pockett, Susan, 2002, “On Subjective Back-Referral and How Long It Takes to Become Conscious of a Stimulus: A Reinterpretation of Libet’s Data”, *Consciousness and Cognition*, 11(2): 144–161. doi:10.1006/ccog.2002.0549
-* –––, 2003, “How Long Is ‘Now’? Phenomenology and the Specious Present”, *Phenomenology and the Cognitive Sciences*, 2(1): 55–68. doi:10.1023/A:1022960122740
-* Poincaré, Henri, 1913, *The Foundations of Science: Science and Hypothesis, The Value of Science, Science and Method*, George Bruce Halsted (trans.), (Science and Education 1), New York: The Science Press.
-* Pollock, Henry and Samantha Strong, 2021, “Motion Perception and the Temporal Metaphysics of Consciousness”, *Journal of Consciousness Studies*, 28(5–6): 79–101.
-* Pöppel, Ernst, 1985, *Mindworks: Time and Conscious Experience*, Boston: Harcourt Brace Jovanovich.
-* –––, 1997, “A Hierarchical Model of Temporal Perception”, *Trends in Cognitive Sciences*, 1(2): 56–61. doi:10.1016/S1364-6613(97)01008-5
-* –––, 2004, “Lost in Time: A Historical Frame, Elementary Processing Units and the 3-Second Window”, *Acta Neurobiologiae Experimentalis*, 64(3): 295–301.
-* Power, Sean Enda, 2012, “The Metaphysics of the ‘Specious’ Present”, *Erkenntnis*, 77(1): 121–132. doi:10.1007/s10670-011-9287-x
-* –––, 2015, “Perceiving Multiple Locations in Time: A Phenomenological Defence of Tenseless Theory”, *Topoi*, 34(1): 249–255. doi:10.1007/s11245-014-9253-8
-* –––, 2016, “Relative and Absolute Temporal Presence”, in Mölder, Arstila, and Øhrstrøm 2016: 69–100. doi:10.1007/978-3-319-22195-3_5
-* Prosser, Simon, 2000, “A New Problem for the A-Theory of Time”, *The Philosophical Quarterly*, 50(201): 494–498. doi:10.1111/1467-9213.00202
-* –––, 2007, “Could We Experience the Passage of Time?”, *Ratio*, 20(1): 75–90. doi:10.1111/j.1467-9329.2007.00348.x
-* –––, 2012, “Why Does Time Seem to Pass?”, *Philosophy and Phenomenological Research*, 85(1): 92–116. doi:10.1111/j.1933-1592.2010.00445.x
-* –––, 2013, “Passage and Perception”, *Noûs*, 47(1): 69–84. doi:10.1111/j.1468-0068.2010.00816.x
-* –––, 2016, *Experiencing Time*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198748946.001.0001
+* –––, 2016, “Review of _Experiencing Time_, by Simon Prosser”, _Notre Dame Philosophical Reviews_, 1 December 2016. \[[Phillips 2016 available online](https://ndpr.nd.edu/reviews/experiencing-time/)]
+* ––– (ed.), 2017, _The Routledge Handbook of Philosophy of Temporal Experience_, New York/London: Routledge. doi:10.4324/9781315269641
+* –––, 2018, “Consciousness, Time, and Memory”, in _The Routledge Handbook of Consciousness_, Rocco J. Gennaro (ed.), (Routledge Handbooks in Philosophy), New York, NY: Routledge, 286–297 (ch. 21).
+* Piper, Matthew Stuart, 2019, “Neurodynamics of Time Consciousness: An Extensionalist Explanation of Apparent Motion and the Specious Present via Reentrant Oscillatory Multiplexing”, _Consciousness and Cognition_, 73: 102751. doi:10.1016/j.concog.2019.04.006
+* Plumer, Gilbert, 1985, “The Myth of the Specious Present”, _Mind_, 94(373): 19–35. doi:10.1093/mind/XCIV.373.19
+* Pockett, Susan, 2002, “On Subjective Back-Referral and How Long It Takes to Become Conscious of a Stimulus: A Reinterpretation of Libet’s Data”, _Consciousness and Cognition_, 11(2): 144–161. doi:10.1006/ccog.2002.0549
+* –––, 2003, “How Long Is ‘Now’? Phenomenology and the Specious Present”, _Phenomenology and the Cognitive Sciences_, 2(1): 55–68. doi:10.1023/A:1022960122740
+* Poincaré, Henri, 1913, _The Foundations of Science: Science and Hypothesis, The Value of Science, Science and Method_, George Bruce Halsted (trans.), (Science and Education 1), New York: The Science Press.
+* Pollock, Henry and Samantha Strong, 2021, “Motion Perception and the Temporal Metaphysics of Consciousness”, _Journal of Consciousness Studies_, 28(5–6): 79–101.
+* Pöppel, Ernst, 1985, _Mindworks: Time and Conscious Experience_, Boston: Harcourt Brace Jovanovich.
+* –––, 1997, “A Hierarchical Model of Temporal Perception”, _Trends in Cognitive Sciences_, 1(2): 56–61. doi:10.1016/S1364-6613(97)01008-5
+* –––, 2004, “Lost in Time: A Historical Frame, Elementary Processing Units and the 3-Second Window”, _Acta Neurobiologiae Experimentalis_, 64(3): 295–301.
+* Power, Sean Enda, 2012, “The Metaphysics of the ‘Specious’ Present”, _Erkenntnis_, 77(1): 121–132. doi:10.1007/s10670-011-9287-x
+* –––, 2015, “Perceiving Multiple Locations in Time: A Phenomenological Defence of Tenseless Theory”, _Topoi_, 34(1): 249–255. doi:10.1007/s11245-014-9253-8
+* –––, 2016, “Relative and Absolute Temporal Presence”, in Mölder, Arstila, and Øhrstrøm 2016: 69–100. doi:10.1007/978-3-319-22195-3\_5
+* Prosser, Simon, 2000, “A New Problem for the A-Theory of Time”, _The Philosophical Quarterly_, 50(201): 494–498. doi:10.1111/1467-9213.00202
+* –––, 2007, “Could We Experience the Passage of Time?”, _Ratio_, 20(1): 75–90. doi:10.1111/j.1467-9329.2007.00348.x
+* –––, 2012, “Why Does Time Seem to Pass?”, _Philosophy and Phenomenological Research_, 85(1): 92–116. doi:10.1111/j.1933-1592.2010.00445.x
+* –––, 2013, “Passage and Perception”, _Noûs_, 47(1): 69–84. doi:10.1111/j.1468-0068.2010.00816.x
+* –––, 2016, _Experiencing Time_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198748946.001.0001
 * –––, 2017, “Rethinking the Specious Present”, in Phillips 2017: ch. 11.
-* Rashbrook [Rashbrook-Cooper], Oliver William, 2012, “Broad’s Accounts of Temporal Experience”, *Journal for the History of Analytical Philosophy*, 1: article 5. doi:10.4148/jhap.v1i5.1306
-* –––, 2013a, “An Appearance of Succession Requires a Succession of Appearances”, *Philosophy and Phenomenological Research*, 87(3): 584–610. doi:10.1111/j.1933-1592.2012.00602.x
-* –––, 2013b, “The Continuity of Consciousness”, *European Journal of Philosophy*, 21(4): 611–640. doi:10.1111/j.1468-0378.2011.00465.x
-* –––, 2013c, “Diachronic and Synchronic Unity”, *Philosophical Studies*, 164(2): 465–484. doi:10.1007/s11098-012-9865-z
+* Rashbrook \[Rashbrook-Cooper], Oliver William, 2012, “Broad’s Accounts of Temporal Experience”, _Journal for the History of Analytical Philosophy_, 1: article 5. doi:10.4148/jhap.v1i5.1306
+* –––, 2013a, “An Appearance of Succession Requires a Succession of Appearances”, _Philosophy and Phenomenological Research_, 87(3): 584–610. doi:10.1111/j.1933-1592.2012.00602.x
+* –––, 2013b, “The Continuity of Consciousness”, _European Journal of Philosophy_, 21(4): 611–640. doi:10.1111/j.1468-0378.2011.00465.x
+* –––, 2013c, “Diachronic and Synchronic Unity”, _Philosophical Studies_, 164(2): 465–484. doi:10.1007/s11098-012-9865-z
 * –––, 2017, “Atomism, Extensionalism and Temporal Presence”, in Phillips 2017: ch. 10.
-* [EIP] Reid, Thomas, 1785, *Essays on the Intellectual Powers of Man*, Edinburgh: John Bell. New edition edited by James Walker (ed.), Boston: Phillips, Sampson, and Company, 1855. Another edition, Derek R. Brookes (ed.), Edinburgh: Edinburgh University Press, 2002. Citations are by essay, chapter, and page number of the 1785 original.
-* Rizzo, Matthew, Mark Nawrot, and Josef Zihl, 1995, “Motion and Shape Perception in Cerebral Akinetopsia”, *Brain*, 118(5): 1105–1127. doi:10.1093/brain/118.5.1105
-* Rodríguez, Sebastián Sanhueza, 2016, “A Processive View of Perceptual Experience”, *Grazer Philosophische Studien*, 93(1): 130–151. doi:10.1163/18756735-09301007
-* Ruhnau, Eva, 1995, “Time Gestalt and the Observer”, in *Conscious Experience*, Thomas Metzinger (ed.), Imprint Academic/Schöningh, 165–184.
-* Russell, Bertrand, 1915, “On the Experience of Time”:, *The Monist*, 25(2): 212–233. doi:10.5840/monist191525217
-* Saillant, Prestor A. and James A. Simmons, 1998, “Time Expansion and the Perception of Acoustic Images in the Big Brown Bat, Eptesicus Fuscus”, in *Toward a Science of Consciousness II: The Second Tucson Discussions and Debates*, Stuart R. Hameroff, Alfred W. Kaszniak, and Alwyn Scott (eds.), (Complex Adaptive Systems), Cambridge, Mass: MIT Press, 649–656.
-* Sattig, Thomas, 2019a, “The Flow of Time in Experience”, *Proceedings of the Aristotelian Society*, 119(3): 275–293. doi:10.1093/arisoc/aoz014
-* –––, 2019b, “The Sense of Temporal Flow: A Higher-Order Account”, *Philosophical Studies*, 176(11): 3041–3059. doi:10.1007/s11098-018-1162-z
-* –––, 2019c, “Experiencing Change: Extensionalism, Retentionalism, and Marty’s Hybrid Account” in Giuliano Bacigalupo and Hélène Leblanc (eds), 2019, *Anton Marty and Contemporary Philosophy*, Cham, Switzerland: Springer Nature.
-* Schlesinger, George N., 1991, “E pur si muove”, *The Philosophical Quarterly*, 41(165): 427–441. doi:10.2307/2220078
-* Seager, William (ed.), 2019, *The Routledge Handbook of Panpsychism*, (Routledge Handbooks in Philosophy), New York: Routledge. doi:10.4324/9781315717708
-* Shardlow, Jack, 2019, “Minima Sensibilia: Against the Dynamic Snapshot Model of Temporal Experience”, *European Journal of Philosophy*, 27(3): 741–757. doi:10.1111/ejop.12442
-* Shores, Corry, 2016, “Dialetheism in the Structure of Phenomenal Time”, in *Logical Studies of Paraconsistent Reasoning in Science and Mathematics*, Holger Andreas and Peter Verdée (eds.), (Trends in Logic), Cham: Springer International Publishing, 45:145–157. doi:10.1007/978-3-319-40220-8_10
-* Siegel, Susanna, 2005 [2021], “The Contents of Perception”, *The Stanford Encyclopedia of Philosophy* (Fall 2021 edition), Edward N. Zalta (ed.), URL= <https://plato.stanford.edu/archives/fall2021/entries/perception-contents/>.
-* Sinclair, Mark, 2019, *Bergson*, London: Routledge. doi:10.4324/9781315414935
-* Sinclair, Mark and Yaron Wolf, 2022, *The Bergsonian Mind*, London: Routledge. doi:10.4324/9780429020735
-* Singhal, Ishan, Ramya Mudumba, and Narayanan Srinivasan, 2022, “In Search of Lost Time: Integrated Information Theory Needs Constraints from Temporal Phenomenology”, *Philosophy and the Mind Sciences*, 3: article 3. doi:10.33735/phimisci.2022.9438
-* Skow, Bradford, 2009, “Relativity and the Moving Spotlight”:, *Journal of Philosophy*, 106(12): 666–678. doi:10.5840/jphil20091061224
-* –––, 2011, “Experience and the Passage of Time”, *Philosophical Perspectives*, 25: 359–387. doi:10.1111/j.1520-8583.2011.00220.x
-* –––, 2018, “Some Thoughts on *Experiencing Time*”, *Inquiry*, 61(3): 302–314. doi:10.1080/0020174X.2017.1322675
-* Solomyak, Olla, 2019, “Presentism and the Specious Present: From Temporal Experience to Meta‐Metaphysics”, *Dialectica*, 73(1–2): 247–266. doi:10.1111/1746-8361.12271
-* Soteriou, Matthew, 2007, “Content and the Stream of Consciousness”, *Philosophical Perspectives*, 21: 543–568. doi:10.1111/j.1520-8583.2007.00135.x
-* –––, 2010, “Perceiving Events”, *Philosophical Explorations*, 13(3): 223–241. doi:10.1080/13869795.2010.501904
-* –––, 2013, *The Mind’s Construction: The Ontology of Mind and Mental Action*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199678457.001.0001
+* \[EIP] Reid, Thomas, 1785, _Essays on the Intellectual Powers of Man_, Edinburgh: John Bell. New edition edited by James Walker (ed.), Boston: Phillips, Sampson, and Company, 1855. Another edition, Derek R. Brookes (ed.), Edinburgh: Edinburgh University Press, 2002. Citations are by essay, chapter, and page number of the 1785 original.
+* Rizzo, Matthew, Mark Nawrot, and Josef Zihl, 1995, “Motion and Shape Perception in Cerebral Akinetopsia”, _Brain_, 118(5): 1105–1127. doi:10.1093/brain/118.5.1105
+* Rodríguez, Sebastián Sanhueza, 2016, “A Processive View of Perceptual Experience”, _Grazer Philosophische Studien_, 93(1): 130–151. doi:10.1163/18756735-09301007
+* Ruhnau, Eva, 1995, “Time Gestalt and the Observer”, in _Conscious Experience_, Thomas Metzinger (ed.), Imprint Academic/Schöningh, 165–184.
+* Russell, Bertrand, 1915, “On the Experience of Time”:, _The Monist_, 25(2): 212–233. doi:10.5840/monist191525217
+* Saillant, Prestor A. and James A. Simmons, 1998, “Time Expansion and the Perception of Acoustic Images in the Big Brown Bat, Eptesicus Fuscus”, in _Toward a Science of Consciousness II: The Second Tucson Discussions and Debates_, Stuart R. Hameroff, Alfred W. Kaszniak, and Alwyn Scott (eds.), (Complex Adaptive Systems), Cambridge, Mass: MIT Press, 649–656.
+* Sattig, Thomas, 2019a, “The Flow of Time in Experience”, _Proceedings of the Aristotelian Society_, 119(3): 275–293. doi:10.1093/arisoc/aoz014
+* –––, 2019b, “The Sense of Temporal Flow: A Higher-Order Account”, _Philosophical Studies_, 176(11): 3041–3059. doi:10.1007/s11098-018-1162-z
+* –––, 2019c, “Experiencing Change: Extensionalism, Retentionalism, and Marty’s Hybrid Account” in Giuliano Bacigalupo and Hélène Leblanc (eds), 2019, _Anton Marty and Contemporary Philosophy_, Cham, Switzerland: Springer Nature.
+* Schlesinger, George N., 1991, “E pur si muove”, _The Philosophical Quarterly_, 41(165): 427–441. doi:10.2307/2220078
+* Seager, William (ed.), 2019, _The Routledge Handbook of Panpsychism_, (Routledge Handbooks in Philosophy), New York: Routledge. doi:10.4324/9781315717708
+* Shardlow, Jack, 2019, “Minima Sensibilia: Against the Dynamic Snapshot Model of Temporal Experience”, _European Journal of Philosophy_, 27(3): 741–757. doi:10.1111/ejop.12442
+* Shores, Corry, 2016, “Dialetheism in the Structure of Phenomenal Time”, in _Logical Studies of Paraconsistent Reasoning in Science and Mathematics_, Holger Andreas and Peter Verdée (eds.), (Trends in Logic), Cham: Springer International Publishing, 45:145–157. doi:10.1007/978-3-319-40220-8\_10
+* Siegel, Susanna, 2005 \[2021], “The Contents of Perception”, _The Stanford Encyclopedia of Philosophy_ (Fall 2021 edition), Edward N. Zalta (ed.), URL= [https://plato.stanford.edu/archives/fall2021/entries/perception-contents/](https://plato.stanford.edu/archives/fall2021/entries/perception-contents/).
+* Sinclair, Mark, 2019, _Bergson_, London: Routledge. doi:10.4324/9781315414935
+* Sinclair, Mark and Yaron Wolf, 2022, _The Bergsonian Mind_, London: Routledge. doi:10.4324/9780429020735
+* Singhal, Ishan, Ramya Mudumba, and Narayanan Srinivasan, 2022, “In Search of Lost Time: Integrated Information Theory Needs Constraints from Temporal Phenomenology”, _Philosophy and the Mind Sciences_, 3: article 3. doi:10.33735/phimisci.2022.9438
+* Skow, Bradford, 2009, “Relativity and the Moving Spotlight”:, _Journal of Philosophy_, 106(12): 666–678. doi:10.5840/jphil20091061224
+* –––, 2011, “Experience and the Passage of Time”, _Philosophical Perspectives_, 25: 359–387. doi:10.1111/j.1520-8583.2011.00220.x
+* –––, 2018, “Some Thoughts on _Experiencing Time_”, _Inquiry_, 61(3): 302–314. doi:10.1080/0020174X.2017.1322675
+* Solomyak, Olla, 2019, “Presentism and the Specious Present: From Temporal Experience to Meta‐Metaphysics”, _Dialectica_, 73(1–2): 247–266. doi:10.1111/1746-8361.12271
+* Soteriou, Matthew, 2007, “Content and the Stream of Consciousness”, _Philosophical Perspectives_, 21: 543–568. doi:10.1111/j.1520-8583.2007.00135.x
+* –––, 2010, “Perceiving Events”, _Philosophical Explorations_, 13(3): 223–241. doi:10.1080/13869795.2010.501904
+* –––, 2013, _The Mind’s Construction: The Ontology of Mind and Mental Action_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199678457.001.0001
 * –––, 2018, “Experience, Process, Continuity, and Boundary”, in Stout 2018: 82–101.
-* Sprigge, T. L. S., 1993, *James and Bradley: American Truth and British Reality*, La Salle, IL: Open Court.
+* Sprigge, T. L. S., 1993, _James and Bradley: American Truth and British Reality_, La Salle, IL: Open Court.
 * Steward, Helen, 2018, “Occurrent States”, in Stout 2018: 102–119.
-* Stout, Rowland (ed.), 2018, *Process, Action, and Experience*, Oxford: Oxford University Press. doi:10.1093/oso/9780198777991.001.0001
-* Stern, L. William, 1897 [2005], “Psychische Präsenzzeit”, *Zeitschrift für Psychologie und Physiologie der Sinnesorgane*, 13: 325–349. Translated as “Mental Presence-Time”, Nicolas de Warren (trans.), in *The New Yearbook for Phenomenology and Phenomenological Philosophy: Volume 5*, Burt Hopkins and Steven Crowell (eds.), Seattle, WA: Noesis Press, 310–351.
-* Strawson, Galen, 1997, “The Self”, *Journal of Consciousness Studies*, 4(5–6): 405–428.
-* –––, 2006, “Realistic Materialism: Why Physicalism Entails Panpsychism”, *Journal of Consciousness Studies*, 13(10–11): 3–31.
-* –––, 2009, *Selves: An Essay in Revisionary Metaphysics*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198250067.001.0001
-* Suchow, Jordan W. and George A. Alvarez, 2011, “Motion Silences Awareness of Visual Change”, *Current Biology*, 21(2): 140–143. doi:10.1016/j.cub.2010.12.019
-* Thomas, Emily, forthcoming, “The Specious Present in English Philosophy 1749–1785: Theories and Experiments in Hartley, Priestley, Tucker, and Watson”, *Philosophers’ Imprint*. doi:10.3998/phimp.1281
-* Tononi, Giulio and Christof Koch, 2015, “Consciousness: Here, There and Everywhere?”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1668): 20140167. doi:10.1098/rstb.2014.0167
-* Torrengo, Giuliano, 2017, “Feeling the Passing of Time”:, *Journal of Philosophy*, 114(4): 165–188. doi:10.5840/jphil2017114415
-* Tye, Michael, 2003, *Consciousness and Persons: Unity and Identity*, (Representation and Mind), Cambridge, MA: MIT Press.
-* Varela, Francisco J., 1999, “Present-Time Consciousness”, *Journal of Consciousness Studies*, 6(2–3): 111–140.
-* Viera, Gerardo Alberto, 2019, “The Fragmentary Model of Temporal Experience and the Mirroring Constraint”, *Philosophical Studies*, 176(1): 21–44. doi:10.1007/s11098-017-1004-4
-* Volkmann, Wilhelm, 1875, *Lehrbuch der psychologie*.
-* de Warren, Nicolas, 2009, *Husserl and the Promise of Time: Subjectivity in Transcendental Phenomenology*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511657412
-* Ward, James, 1886, “Psychology”, *Encyclopædia Britannica*, ninth edition, volume 20, 37–85.
-* Watzl, Sebastian, 2013, “Silencing the Experience of Change”, *Philosophical Studies*, 165(3): 1009–1032. doi:10.1007/s11098-012-0005-6
-* Wearden, John, 2016, *The Psychology of Time Perception*, London: Palgrave Macmillan. doi:10.1057/978-1-137-40883-9
-* Weichselgartner, Erich and George Sperling, 1985, “Continuous Measurement of Visible Persistence.”, *Journal of Experimental Psychology: Human Perception and Performance*, 11(6): 711–725. doi:10.1037/0096-1523.11.6.711
-* White, Peter A., 2017, “The Three-Second ‘Subjective Present’: A Critical Review and a New Proposal”, *Psychological Bulletin*, 143(7): 735–756. doi:10.1037/bul0000104
-* –––, 2018, “Is Conscious Perception a Series of Discrete Temporal Frames?”, *Consciousness and Cognition*, 60: 98–126. doi:10.1016/j.concog.2018.02.012
-* Williams, Donald C., 1951, “The Myth of Passage”, *Journal of Philosophy*, 48(15): 457–472. doi:10.2307/2021694
-* Wittmann, Marc, 2011, “Moments in Time”, *Frontiers in Integrative Neuroscience*, 5: article 66. doi:10.3389/fnint.2011.00066
-* –––, 2013, “The Inner Sense of Time: How the Brain Creates a Representation of Duration”, *Nature Reviews Neuroscience*, 14(3): 217–223. doi:10.1038/nrn3452
-* –––, 2014 [2016], *Gefühlte Zeit*, Munich: C. H. Beck. Translated as *Felt Time: The Psychology of How We Perceive Time*, Erik Butler (trans.), Cambridge, MA/London: The MIT Press, 2016.
+* Stout, Rowland (ed.), 2018, _Process, Action, and Experience_, Oxford: Oxford University Press. doi:10.1093/oso/9780198777991.001.0001
+* Stern, L. William, 1897 \[2005], “Psychische Präsenzzeit”, _Zeitschrift für Psychologie und Physiologie der Sinnesorgane_, 13: 325–349. Translated as “Mental Presence-Time”, Nicolas de Warren (trans.), in _The New Yearbook for Phenomenology and Phenomenological Philosophy: Volume 5_, Burt Hopkins and Steven Crowell (eds.), Seattle, WA: Noesis Press, 310–351.
+* Strawson, Galen, 1997, “The Self”, _Journal of Consciousness Studies_, 4(5–6): 405–428.
+* –––, 2006, “Realistic Materialism: Why Physicalism Entails Panpsychism”, _Journal of Consciousness Studies_, 13(10–11): 3–31.
+* –––, 2009, _Selves: An Essay in Revisionary Metaphysics_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198250067.001.0001
+* Suchow, Jordan W. and George A. Alvarez, 2011, “Motion Silences Awareness of Visual Change”, _Current Biology_, 21(2): 140–143. doi:10.1016/j.cub.2010.12.019
+* Thomas, Emily, forthcoming, “The Specious Present in English Philosophy 1749–1785: Theories and Experiments in Hartley, Priestley, Tucker, and Watson”, _Philosophers’ Imprint_. doi:10.3998/phimp.1281
+* Tononi, Giulio and Christof Koch, 2015, “Consciousness: Here, There and Everywhere?”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 370(1668): 20140167. doi:10.1098/rstb.2014.0167
+* Torrengo, Giuliano, 2017, “Feeling the Passing of Time”:, _Journal of Philosophy_, 114(4): 165–188. doi:10.5840/jphil2017114415
+* Tye, Michael, 2003, _Consciousness and Persons: Unity and Identity_, (Representation and Mind), Cambridge, MA: MIT Press.
+* Varela, Francisco J., 1999, “Present-Time Consciousness”, _Journal of Consciousness Studies_, 6(2–3): 111–140.
+* Viera, Gerardo Alberto, 2019, “The Fragmentary Model of Temporal Experience and the Mirroring Constraint”, _Philosophical Studies_, 176(1): 21–44. doi:10.1007/s11098-017-1004-4
+* Volkmann, Wilhelm, 1875, _Lehrbuch der psychologie_.
+* de Warren, Nicolas, 2009, _Husserl and the Promise of Time: Subjectivity in Transcendental Phenomenology_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511657412
+* Ward, James, 1886, “Psychology”, _Encyclopædia Britannica_, ninth edition, volume 20, 37–85.
+* Watzl, Sebastian, 2013, “Silencing the Experience of Change”, _Philosophical Studies_, 165(3): 1009–1032. doi:10.1007/s11098-012-0005-6
+* Wearden, John, 2016, _The Psychology of Time Perception_, London: Palgrave Macmillan. doi:10.1057/978-1-137-40883-9
+* Weichselgartner, Erich and George Sperling, 1985, “Continuous Measurement of Visible Persistence.”, _Journal of Experimental Psychology: Human Perception and Performance_, 11(6): 711–725. doi:10.1037/0096-1523.11.6.711
+* White, Peter A., 2017, “The Three-Second ‘Subjective Present’: A Critical Review and a New Proposal”, _Psychological Bulletin_, 143(7): 735–756. doi:10.1037/bul0000104
+* –––, 2018, “Is Conscious Perception a Series of Discrete Temporal Frames?”, _Consciousness and Cognition_, 60: 98–126. doi:10.1016/j.concog.2018.02.012
+* Williams, Donald C., 1951, “The Myth of Passage”, _Journal of Philosophy_, 48(15): 457–472. doi:10.2307/2021694
+* Wittmann, Marc, 2011, “Moments in Time”, _Frontiers in Integrative Neuroscience_, 5: article 66. doi:10.3389/fnint.2011.00066
+* –––, 2013, “The Inner Sense of Time: How the Brain Creates a Representation of Duration”, _Nature Reviews Neuroscience_, 14(3): 217–223. doi:10.1038/nrn3452
+* –––, 2014 \[2016], _Gefühlte Zeit_, Munich: C. H. Beck. Translated as _Felt Time: The Psychology of How We Perceive Time_, Erik Butler (trans.), Cambridge, MA/London: The MIT Press, 2016.
 * Wittmann, Marc and Carlos Montemayor, 2022, “Reinterpreting the Einstein-Bergson Debate through Contemporary Neuroscience”, in Campo and Gozzano 2022: 349–374. doi:10.1515/9783110753707-019
-* Wittmann, Marc and Virginie van Wassenhove, 2009, “The Experience of Time: Neural Mechanisms and the Interplay of Emotion, Cognition and Embodiment”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 364(1525): 1809–1813. doi:10.1098/rstb.2009.0025
-* Wolf, Yaron, 2021, “‘A Memory within Change Itself.’ Bergson and the Memory Theory of Temporal Experience”, *Bergsoniana*, 1. doi:10.4000/bergsoniana.286
+* Wittmann, Marc and Virginie van Wassenhove, 2009, “The Experience of Time: Neural Mechanisms and the Interplay of Emotion, Cognition and Embodiment”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 364(1525): 1809–1813. doi:10.1098/rstb.2009.0025
+* Wolf, Yaron, 2021, “‘A Memory within Change Itself.’ Bergson and the Memory Theory of Temporal Experience”, _Bergsoniana_, 1. doi:10.4000/bergsoniana.286
 * –––, 2022, “Bergson on the Immediate Experience of Time”, in Sinclair and Wolf 2022: ch. 5.
-* Wu, Wayne, 2018, “The Neuroscience of Consciousness”, *The Stanford Encyclopedia of Philosophy* (Winter 2018 edition), Edward N. Zalta (ed.), URL= <https://plato.stanford.edu/archives/win2018/entries/consciousness-neuroscience/>.
-* Zahavi, Dan, 2004, “Time and Consciousness in the Bernau Manuscripts”, *Husserl Studies*, 20(2): 99–118. doi:10.1023/B:HSTU.0000033062.95517.cf
-* –––, 2007, “Perception of Duration Presupposes Duration of Perception – or Does It? Husserl and Dainton on Time”, *International Journal of Philosophical Studies*, 15(3): 453–471. doi:10.1080/09672550701445464
-* –––, 2010, “Inner (Time-)Consciousness”, in *On Time—New Contributions to the Husserlian Phenomenology of Time*, Dieter Lohmar and Ichiro Yamaguchi (eds.), (Phaenomenologica 197), Dordrecht: Springer Netherlands, 319–339. doi:10.1007/978-90-481-8766-9_16
-* Zeki, S., 1991, “Cerebral Akinetopsia (Visual Motion Blindness): A Review”, *Brain*, 114(2): 811–824. doi:10.1093/brain/114.2.811
-* –––, 2004, “Thirty Years of a Very Special Visual Area, Area V5”, *The Journal of Physiology*, 557(1): 1–2. doi:10.1113/jphysiol.2004.063040
-* Zihl, J., D. Von Cramon, and N. Mai, 1983, “Selective Disturbance of Movement Vision after Bilateral Brain Damage”, *Brain*, 106(2): 313–340. doi:10.1093/brain/106.2.313
+* Wu, Wayne, 2018, “The Neuroscience of Consciousness”, _The Stanford Encyclopedia of Philosophy_ (Winter 2018 edition), Edward N. Zalta (ed.), URL= [https://plato.stanford.edu/archives/win2018/entries/consciousness-neuroscience/](https://plato.stanford.edu/archives/win2018/entries/consciousness-neuroscience/).
+* Zahavi, Dan, 2004, “Time and Consciousness in the Bernau Manuscripts”, _Husserl Studies_, 20(2): 99–118. doi:10.1023/B:HSTU.0000033062.95517.cf
+* –––, 2007, “Perception of Duration Presupposes Duration of Perception – or Does It? Husserl and Dainton on Time”, _International Journal of Philosophical Studies_, 15(3): 453–471. doi:10.1080/09672550701445464
+* –––, 2010, “Inner (Time-)Consciousness”, in _On Time—New Contributions to the Husserlian Phenomenology of Time_, Dieter Lohmar and Ichiro Yamaguchi (eds.), (Phaenomenologica 197), Dordrecht: Springer Netherlands, 319–339. doi:10.1007/978-90-481-8766-9\_16
+* Zeki, S., 1991, “Cerebral Akinetopsia (Visual Motion Blindness): A Review”, _Brain_, 114(2): 811–824. doi:10.1093/brain/114.2.811
+* –––, 2004, “Thirty Years of a Very Special Visual Area, Area V5”, _The Journal of Physiology_, 557(1): 1–2. doi:10.1113/jphysiol.2004.063040
+* Zihl, J., D. Von Cramon, and N. Mai, 1983, “Selective Disturbance of Movement Vision after Bilateral Brain Damage”, _Brain_, 106(2): 313–340. doi:10.1093/brain/106.2.313
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=consciousness-temporal). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/consciousness-temporal/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=consciousness-temporal&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/consciousness-temporal/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=consciousness-temporal).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/consciousness-temporal/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=consciousness-temporal\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/consciousness-temporal/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * Grush, Rick, 2016, “[On the Temporal Character of Temporal Experience, Its Scale Non-Invariance, and Its Small Scale Structure](https://philpapers.org/archive/GRUOTT-2.pdf)”. Unpublished manuscript.
 * [Bio Motion Lab demos](https://www.biomotionlab.ca/demos/), York University
-* [Links relating to Temporal Consciousness](http://philpapers.org/browse/temporal-consciousness/), at *Philpapers*:
-  * [The Stream of Consciousness](http://philpapers.org/browse//the-stream-of-consciousness)
+* [Links relating to Temporal Consciousness](http://philpapers.org/browse/temporal-consciousness/), at _Philpapers_:
+  * [The Stream of Consciousness](http://philpapers.org/browse/the-stream-of-consciousness)
 * [Phi Phenomenon](https://michaelbach.de/ot/col-colorPhi/)
 
 ## Related Entries
 
-[Bergson, Henri](https://plato.stanford.edu/entries/bergson/) | [Brentano, Franz](https://plato.stanford.edu/entries/brentano/) | [consciousness](https://plato.stanford.edu/entries/consciousness/) | [consciousness: neuroscience of](https://plato.stanford.edu/entries/consciousness-neuroscience/) | [consciousness: unity of](https://plato.stanford.edu/entries/consciousness-unity/) | [continuity and infinitesimals](https://plato.stanford.edu/entries/continuity/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [time](https://plato.stanford.edu/entries/time/) | [time: the experience and perception of](https://plato.stanford.edu/entries/time-experience/)
+[Bergson, Henri](https://plato.stanford.edu/entries/bergson/) | [Brentano, Franz](https://plato.stanford.edu/entries/brentano/) | [consciousness](https://plato.stanford.edu/entries/consciousness/) | [consciousness: neuroscience of](https://plato.stanford.edu/entries/consciousness-neuroscience/) | [consciousness: unity of](https://plato.stanford.edu/entries/consciousness-unity/) | [continuity and infinitesimals](https://plato.stanford.edu/entries/continuity/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [time](https://plato.stanford.edu/entries/time/) | [time: the experience and perception of](https://plato.stanford.edu/entries/time-experience/)
 
 ### Acknowledgements
 
 My thanks to David Chalmers, Graham Nerlich, Donnchadh O'Connaill and Ian Phillips for helpful comments on this and earlier versions of this entry.
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-Barry Dainton <[*bdainton@liverpool.ac.uk*](mailto:bdainton%40liverpool%2eac%2euk)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+Barry Dainton <[_bdainton@liverpool.ac.uk_](mailto:bdainton%40liverpool%2eac%2euk)>

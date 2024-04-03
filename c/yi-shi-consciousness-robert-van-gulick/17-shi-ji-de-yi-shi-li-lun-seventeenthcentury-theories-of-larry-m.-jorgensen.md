@@ -1,34 +1,30 @@
 # 17 世纪的意识理论 seventeenth-century theories of (Larry M. Jorgensen)
 
-*首次发表于 2010 年 7 月 29 日星期四；实质性修订于 2020 年 3 月 6 日星期五*
+_首次发表于 2010 年 7 月 29 日星期四；实质性修订于 2020 年 3 月 6 日星期五_
 
 在十七世纪，“意识”开始具有独特的现代意义。这种转变是由心灵和思想的新理论引发的，并与十七世纪其他重要的辩论议题联系在一起，包括有关心灵透明性、动物意识和先天观念的辩论。此外，意识与道德身份紧密联系，法语和拉丁语甚至没有意识和良心（即道德敏感）之间的语言区别。这种语义转变标志着思想的心理或现象学方面与道德敏感之间的哲学分歧。在十七世纪，关于所有这些话题的讨论丰富多样——下文提供了一个宏观的视角。
 
 * [语言转变](https://plato.stanford.edu/entries/consciousness-17th/#LingTran)
 * [2. 笛卡尔和笛卡尔派](https://plato.stanford.edu/entries/consciousness-17th/#DescCart)
-
   * [2.1 笛卡尔对意识的看法](https://plato.stanford.edu/entries/consciousness-17th/#DescCons)
   * [2.2 笛卡尔之后](https://plato.stanford.edu/entries/consciousness-17th/#AfteDesc)
-* [ 3. 斯宾诺莎](https://plato.stanford.edu/entries/consciousness-17th/#Spin)
-
-  * [ 3.1 道德意识](https://plato.stanford.edu/entries/consciousness-17th/#MoraCons)
-  * [ 3.2 意念与意念](https://plato.stanford.edu/entries/consciousness-17th/#IdeaIdea)
+* [3. 斯宾诺莎](https://plato.stanford.edu/entries/consciousness-17th/#Spin)
+  * [3.1 道德意识](https://plato.stanford.edu/entries/consciousness-17th/#MoraCons)
+  * [3.2 意念与意念](https://plato.stanford.edu/entries/consciousness-17th/#IdeaIdea)
   * [3.3 复杂性和权力](https://plato.stanford.edu/entries/consciousness-17th/#CompPowe)
 * [4. 英国的发展](https://plato.stanford.edu/entries/consciousness-17th/#DeveEngl)
-
-  * [ 4.1 霍布斯](https://plato.stanford.edu/entries/consciousness-17th/#Hobb)
+  * [4.1 霍布斯](https://plato.stanford.edu/entries/consciousness-17th/#Hobb)
   * [4.2 剑桥柏拉图主义者](https://plato.stanford.edu/entries/consciousness-17th/#CambPlat)
-  * [ 4.3 洛克](https://plato.stanford.edu/entries/consciousness-17th/#Lock)
-* [ 5. Leibniz (IGNORE)](https://plato.stanford.edu/entries/consciousness-17th/#Leib)
-* [ 参考文献](https://plato.stanford.edu/entries/consciousness-17th/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/consciousness-17th/#PrimLite)
-  * [ 次级文献](https://plato.stanford.edu/entries/consciousness-17th/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/consciousness-17th/#Aca)
+  * [4.3 洛克](https://plato.stanford.edu/entries/consciousness-17th/#Lock)
+* [5. Leibniz (IGNORE)](https://plato.stanford.edu/entries/consciousness-17th/#Leib)
+* [参考文献](https://plato.stanford.edu/entries/consciousness-17th/#Bib)
+  * [主要文献](https://plato.stanford.edu/entries/consciousness-17th/#PrimLite)
+  * [次级文献](https://plato.stanford.edu/entries/consciousness-17th/#SecoLite)
+* [学术工具](https://plato.stanford.edu/entries/consciousness-17th/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/consciousness-17th/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/consciousness-17th/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/consciousness-17th/#Rel)
 
----
+***
 
 ## 语言转变
 
@@ -71,8 +67,8 @@
 意识的作用对笛卡尔来说，主要是认识论的——它使某些事物对心灵可得。在《冥想录》中，这方面的三个特定方面凸显出来。
 
 1. 心灵的透明度：我所有的想法对我来说都是显而易见的（我意识到我所有的想法），而且我的想法是不可更正的（我不会误解自己是否有某个特定的想法）。
-2. 反思：任何思想都必然涉及对自我的认识。[2]
-3. 意向性：我的思维似乎以某种方式呈现给我，好像代表着什么。[3]
+2. 反思：任何思想都必然涉及对自我的认识。\[2]
+3. 意向性：我的思维似乎以某种方式呈现给我，好像代表着什么。\[3]
 
 这些都是笛卡尔在《沉思录》中论证的必要要点。仅仅通过有一个思想（例如，“我在怀疑”），我知道我正在思考，这必然意味着我存在。这种推论依赖于心灵的透明性和反思行为（笛卡尔在第三沉思中进一步强调，CSM II 34 / AT VII 49）。此外，思想的指向性是让冥想者能够推断他并不孤独于世界的一部分——他有一个关于无限完美存在的思想，以及其他关于物质对象的思想。通过这些思想和它们所代表的内容，他能够推断上帝和物质世界实际上存在。
 
@@ -132,7 +128,7 @@
 
 > 思想是我们每个人在意识到自己在做什么或自己内部发生的事情时直接体验到的知觉、意识或内在知识。 (La Forge 39)
 
- 后来，
+后来，
 
 > 思维的本质在于意识、见证和内在感觉，通过这些，心灵意识到自己所做或所受的一切，以及一般来说，在它行动或受到影响的同时，它所发生的一切。 （拉弗格 57，翻译已修改）
 
@@ -160,7 +156,7 @@ Malebranche 在这一点上遵循 La Forge。在《追求真理》，Malebranche
 
 如上所述，在《冥想第七反驳》中已经提出了一个异议，即意识似乎需要一个独特的反思性思想。笛卡尔否认了这种推论，称
 
-> [T]我们意识到某事物的最初思想并不与我们意识到我们意识到它的第二思想有所不同，就像这第二思想与我们意识到我们意识到我们意识到它的第三思想一样。（CSM II 382 / AT VII 559）
+> \[T]我们意识到某事物的最初思想并不与我们意识到我们意识到它的第二思想有所不同，就像这第二思想与我们意识到我们意识到我们意识到它的第三思想一样。（CSM II 382 / AT VII 559）
 
 再次强调，正如上文所述，笛卡尔在这里的回应并不是否认反思对于意识的必要性 - 他否认反思需要一个独立的思想。拉福尔和马勒布朗奇都在这一点上跟随笛卡尔的否认（参见 Schmaltz 1996, 18）。
 
@@ -176,17 +172,17 @@ Malebranche 在这一点上遵循 La Forge。在《追求真理》，Malebranche
 
 笛卡尔, 休埃特认为, 在“我思故我在”这一论证中未能区分这三个事物。当笛卡尔说自我思考时, 思考的对象是什么？是他自己的思想本身。但是, 这里有一个反对意见, 这不能是与最初的思想相同的思想，“因为如果是这样, 行为将被反转, 这是荒谬的, 与笛卡尔经常援引的自然光相悖” (83)。然而, 这正是笛卡尔在回应布尔丹时给出的回应。为什么休埃特认为这是“荒谬的, 与自然光相悖”？
 
- 许埃特继续说道：
+许埃特继续说道：
 
 > 为了让我认为我在思考，需要两个思想，一个思想反映另一个思想——后一个当前的思想反映前一个先前的思想——以便让意识到的第一个思想被放置在意识之前，意识到的第二个思想是关于第一个思想的。简而言之，第一个思想将成为第二个思想的终点或对象；第二个思想将是意识指向第一个思想的心智行为。但两者通过单一行为发生是矛盾的... (84)
 
-在他的回答中，雷吉斯认为正是这样。他认为我们不需要明显的反思观念；笛卡尔“感知到自己通过一个单一而简单的观念在思考，这个观念是通过自身而知的”（Réponse 35; cf. Système I, 150）。然后他认为，如果第二个行为是必要的，那么无限回归就会威胁到，因为为了意识到第二个想法，一个人将需要第三个，依此类推。让·休埃特通过从阿奎那那里得出的回应来回避这一反对意见：“他[阿奎那]承认思想将无限增加，心灵是无限的——不是在行动上，而是在潜力上”（Huet 86）。
+在他的回答中，雷吉斯认为正是这样。他认为我们不需要明显的反思观念；笛卡尔“感知到自己通过一个单一而简单的观念在思考，这个观念是通过自身而知的”（Réponse 35; cf. Système I, 150）。然后他认为，如果第二个行为是必要的，那么无限回归就会威胁到，因为为了意识到第二个想法，一个人将需要第三个，依此类推。让·休埃特通过从阿奎那那里得出的回应来回避这一反对意见：“他\[阿奎那]承认思想将无限增加，心灵是无限的——不是在行动上，而是在潜力上”（Huet 86）。
 
 但在所有这些背后，Huet 和笛卡尔派之间存在另一个重要的区别。Huet 认为
 
 > 这种表达（即“ego cogito”）是有缺陷的，因为它应该被理解为，并且价值等同于我说“我正在思考我曾经思考过”。就像眼睛一样，人类的思维一次只能关注一件事。因此，为了让我认为我在思考，需要两个思想...。 (84)
 
-如果休埃的说法“人类心智一次只能关注一件事”意味着我们一次只能想到一件事，那么笛卡尔派将拒绝这个前提。事实上，笛卡尔明确地这样做（见 CSM III 335 / AT V 149）。但雷吉斯通过拒绝眼睛一次只能看到一件事的前提来回应，加强了心智和眼睛之间的类比。他认为，如果思想对于心智如同光对于眼睛，那么当我们看到某物时，事件有三个不同的方面：“看到的眼睛，看到的行动，以及被看到的对象”（Réponse 35）。现在假设我们说，“我看到了光。”我们必须假设必须有第二道光照亮第一道光吗？不需要；我们看到的是光本身。思想也是如此——如果休埃承认这种类比，他“必须得出结论，[一种思想]是通过自身被认知的”（Réponse 36）。
+如果休埃的说法“人类心智一次只能关注一件事”意味着我们一次只能想到一件事，那么笛卡尔派将拒绝这个前提。事实上，笛卡尔明确地这样做（见 CSM III 335 / AT V 149）。但雷吉斯通过拒绝眼睛一次只能看到一件事的前提来回应，加强了心智和眼睛之间的类比。他认为，如果思想对于心智如同光对于眼睛，那么当我们看到某物时，事件有三个不同的方面：“看到的眼睛，看到的行动，以及被看到的对象”（Réponse 35）。现在假设我们说，“我看到了光。”我们必须假设必须有第二道光照亮第一道光吗？不需要；我们看到的是光本身。思想也是如此——如果休埃承认这种类比，他“必须得出结论，\[一种思想]是通过自身被认知的”（Réponse 36）。
 
 结果是，对于笛卡尔主义者来说，一个思想可以“反过来作用于自身”，这正是休埃特认为荒谬的地方。休埃特的反对意见是，笛卡尔主义者非法地将主体作为所有思想的对象带入其中。他认为，如果是这样的话，那么这就需要第二个思想，这会削弱“我思故我在”的论证。
 
@@ -196,7 +192,7 @@ Malebranche 在这一点上遵循 La Forge。在《追求真理》，Malebranche
 
 这些关于不可更正性和反思的考虑对思维的意向性有着重要影响。十七世纪的另一位笛卡尔哲学家安托万·迪利将阐明其中一些观点。在对伊格纳斯·加斯东·帕迪耶的论点做出回应时，帕迪耶为动物的某种知识辩护，迪利则为笛卡尔的立场辩护。他在 1676 年写道：
 
-> 为了避免在反思这个词上陷入模棱两可，最好认识到：[a] 我们有时可以反思我们所做的事情，[b] 有时我们的第一个想法不仅被感知，而且当第二个想法把第一个作为对象时，我们通过这种重复检查更好地了解它的本质。更重要的是，因为第一个想法主要使其对象呈现在灵魂面前，并通过被感知告诉我们它的存在。但第二个想法的对象只有第一个；它向我们展示它与第一个一样生动，正如第一个向我们展示它的对象一样。因此，不应该认为每个想法后面都跟着一个使其被认知的第二个想法，因为后者将不得不有第三个，依此类推，直至无穷。但我们确信，通过我们自己的经验，所有的想法都是通过灵魂感知的，不是通过对自身的真正回归，而是仅仅通过其存在直接和立即：因此，当我看见时，我的视觉使得存在的东西变得可感知，而不需要任何其他东西。每个人都可以通过自我反省更好地确信这一点...。 (Dilly 116–118)
+> 为了避免在反思这个词上陷入模棱两可，最好认识到：\[a] 我们有时可以反思我们所做的事情，\[b] 有时我们的第一个想法不仅被感知，而且当第二个想法把第一个作为对象时，我们通过这种重复检查更好地了解它的本质。更重要的是，因为第一个想法主要使其对象呈现在灵魂面前，并通过被感知告诉我们它的存在。但第二个想法的对象只有第一个；它向我们展示它与第一个一样生动，正如第一个向我们展示它的对象一样。因此，不应该认为每个想法后面都跟着一个使其被认知的第二个想法，因为后者将不得不有第三个，依此类推，直至无穷。但我们确信，通过我们自己的经验，所有的想法都是通过灵魂感知的，不是通过对自身的真正回归，而是仅仅通过其存在直接和立即：因此，当我看见时，我的视觉使得存在的东西变得可感知，而不需要任何其他东西。每个人都可以通过自我反省更好地确信这一点...。 (Dilly 116–118)
 
 这里有两个值得注意的要素。首先，Dilly 重复了我们在雷吉看到的论点，提出了一种观点，即思想是通过它们自身而不是需要一个独立的反思来认识的。其次，Dilly 仍然以反思的方式表征我们的感知，以保留最初感知“告知我们”其存在的意义（即，通过这种方式我们意识到思想的对象）。这是笛卡尔和笛卡尔派一直在努力保留的意识形式。
 
@@ -336,7 +332,7 @@ Cudworth 通过反思 Plotinus 的《恩涠集》来发展他的理论，在这�
 
 > 意识是一个思考的智慧存在，具有理性和反思能力，并且可以将自己视为自己，同一思考的东西在不同的时间和地点；这仅仅通过那意识来实现，而那意识与思考是不可分割的，我认为这对它是至关重要的：任何人都不可能在不知觉中感知，因为感知自己感知是不可能的。 (Essay 2.27.9)
 
-在这里，我们再次发现对心灵透明度和意识与反思之间联系的承诺。将意识与“感知到[自己]正在感知”等同起来，再次引发了更高阶解释的幽灵。但有充分的理由认为更高阶理论对洛克来说行不通（参见 Coventry 和 Kriegel 2008 以及 Weinberg 2008）。在本条目的几乎每个部分中，我们都遇到了某人将相关哲学家解释为更高阶理论者。但是，这一建议一再受到哲学家本人明确反驳，或者受到与其他基本原则明显不一致的明显不连贯的反驳。人们可能希望文献中频繁的反对意见能够结束这种猜测。尽管 17 世纪对意识的描述听起来很像今天的意识更高阶理论，但几乎总有更忠实于当时情况的解释方式。
+在这里，我们再次发现对心灵透明度和意识与反思之间联系的承诺。将意识与“感知到\[自己]正在感知”等同起来，再次引发了更高阶解释的幽灵。但有充分的理由认为更高阶理论对洛克来说行不通（参见 Coventry 和 Kriegel 2008 以及 Weinberg 2008）。在本条目的几乎每个部分中，我们都遇到了某人将相关哲学家解释为更高阶理论者。但是，这一建议一再受到哲学家本人明确反驳，或者受到与其他基本原则明显不一致的明显不连贯的反驳。人们可能希望文献中频繁的反对意见能够结束这种猜测。尽管 17 世纪对意识的描述听起来很像今天的意识更高阶理论，但几乎总有更忠实于当时情况的解释方式。
 
 相反，在洛克的情况下，意识的分析似乎只允许推断出思想是自我启示的。“当我们看到、听到、闻到、尝到、感觉到、沉思或意愿任何事物时，我们知道我们这样做”（2.27.9）。然而，长期以来一直有人争论洛克将意识与反思等同起来（有关这种解释的历史，请参见库尔斯塔德 84-85）。当然，即使洛克对意识的描述必然涉及反思，我们已经看到这并不立即意味着高阶理论。但正如马克·库尔斯塔德所主张的那样，有充分的理由认为洛克区分了意识和反思。一个人可以意识到某事物（即一个可感知的品质），而不必因此对其进行反思（库尔斯塔德 87-91）。
 
@@ -387,7 +383,7 @@ Cudworth 通过反思 Plotinus 的《恩涠集》来发展他的理论，在这�
 
 > 有数百种迹象使我们得出结论：在每一时刻，我们内心存在着无数的感知，没有伴随着意识或反思；也就是说，灵魂本身的变化，我们并不知晓，因为这些印象要么太微小且太多，要么太单调，以至于它们本身不足以引起足够的注意。但当它们与其他印象结合时，它们仍然产生影响，并至少在整体中感受到，虽然感觉模糊。这就是我们在旁边生活一段时间后变得如此习惯于磨坊或瀑布的运动，以至于我们不再注意到它。并不是说这种运动停止刺激我们的感官，或者由于灵魂与身体之间的和谐，灵魂中仍然不会发生与之相对应的事情；但是这些在灵魂和身体中的印象，由于缺乏新奇感，不足以吸引我们的注意力和记忆，我们的注意力和记忆只会应用于更引人注目的对象。（RB 53–54）
 
-注意，莱布尼茨在这里重申，我们只意识到那些“足够独特”或“足够有力”的感知。这暗示了一定程度的知觉独特性或力量，这些将“显现出来”。就像磨坊的情况一样——你搬到磨坊旁边，因为噪音而无法入睡。但是，随着时间的推移，你习惯了磨坊的声音，不再注意到它。正是这种现象事实，我们都能认识到，莱布尼茨认为他可以用感知独特性的变化来解释。正如他所说的，不是噪音不再影响我们的感官器官——噪音在内部继续被记录，但是由于缺乏新奇感而导致意识的转变。我们不再注意到噪音（或者至少我们不那么注意它）。这是什么解释了这一点？莱布尼茨认为他可以用印象的力量来自然解释这一点。不知何故，随着时间的推移，它变得不那么有力。（它是如何做到的？莱布尼茨在这里没有给我们一个完整的解释。这就是他认为我们将看到他理论的承诺并调查原因的地方。）[17]
+注意，莱布尼茨在这里重申，我们只意识到那些“足够独特”或“足够有力”的感知。这暗示了一定程度的知觉独特性或力量，这些将“显现出来”。就像磨坊的情况一样——你搬到磨坊旁边，因为噪音而无法入睡。但是，随着时间的推移，你习惯了磨坊的声音，不再注意到它。正是这种现象事实，我们都能认识到，莱布尼茨认为他可以用感知独特性的变化来解释。正如他所说的，不是噪音不再影响我们的感官器官——噪音在内部继续被记录，但是由于缺乏新奇感而导致意识的转变。我们不再注意到噪音（或者至少我们不那么注意它）。这是什么解释了这一点？莱布尼茨认为他可以用印象的力量来自然解释这一点。不知何故，随着时间的推移，它变得不那么有力。（它是如何做到的？莱布尼茨在这里没有给我们一个完整的解释。这就是他认为我们将看到他理论的承诺并调查原因的地方。）\[17]
 
 因此，可以将莱布尼茨视为提供了一种完全自然化的心灵哲学，他在其中倡导意识的阈值理论。这是一种同阶意识理论——对于莱布尼茨来说，意识知觉是一种独特的知觉。也就是说，在某种程度上的独特性，这种知觉足够突出以被注意到。所有感知物质都有一定程度独特性的知觉，但并非所有感知物质都有独特的知觉。相反，需要一定程度的独特性阈值（相对于上下文）才能使知觉变得独特。（有关这一立场的详细说明，请参阅约根森（Jorgensen）2019 年第 7 章。）
 
@@ -405,107 +401,107 @@ Cudworth 通过反思 Plotinus 的《恩涠集》来发展他的理论，在这�
 
 ### Primary Literature
 
-* Augustine, St., *On Free Choice of the Will*, translated by Thomas Williams, Indianapolis: Hackett, 1993.
-* Arnauld, Antoine, *On True and False Ideas*, translated by Stephen Gaukroger, Manchester: Manchester University Press, 1990.
-* Cudworth, Ralph, *The True Intellectual System of the Universe*, London: Richard Royston, 1678.
-* Descartes, René, *Oeuvres de Descartes*, Charles Adam and Paul Tannery (eds.), 11 volumes, Paris: J. Vrin, 1996. **[AT]**
-* –––, *The Philosophical Writings of Descartes* (Volume 3), translated by John Cottingham, Robert Stoothoff, Dugald Murdoch and Anthony Kenny, Cambridge: Cambridge University Press, 1985. **[CSM]**
-* Desgabets, Robert, *Oeuvres Philosophiques Inédits*, J. Beaude (ed.), 7 volumes, Amsterdam: Quadratures, 1983.
-* Dilly, Antoine, *De l’Ame des Bêtes*, Lyon: Anisson & Posuel, 1676.
-* Hobbes, Thomas, *De Corpore*, William Molesworth (ed.), *The English Works of Thomas Hobbes* (Volume 1), London: John Bohn, 1839.
-* –––, *Leviathan*., J.C.A. Gaskin (ed.), Oxford: Oxford University Press, 1996.
-* Huet, Pierre-Daniel, *Against Cartesian Philosophy*, translated by Thomas M. Lennon, Amherst, NY: Humanity Books, 2003.
-* La Forge, Louis de, *Treatise on the Human Mind*, 1664; translated by Desmond M. Clarke, Dordrecht: Kluwer, 1997.
-* Leibniz, G.W., *New Essays on Human Understanding*, translated by Peter Remnant and Jonathan Bennett, Cambridge: Cambridge University Press, 1996. **[RB]**
-* –––, *Philosophical Essays*, translated by Roger Ariew and Daniel Garber, Indianapolis: Hackett Publishing Co., 1989. **[AG]**
-* Locke, John, *An Essay Concerning Human Understanding*, Peter H. Nidditch (ed.), Oxford: Clarendon Press, 1975.
-* Malebranche, Nicolas, *The Search after Truth*, translated by Thomas M. Lennon and Paul J. Olscamp, Cambridge: Cambridge University Press, 1997. **[*Search*]**
-* Pardies, Ignace Gaston, *Discours de la Conoissance des Bêtes*, Amsterdam: Pierre de Coup, 1724.
-* Régis, Pierre-Silvain, *Cours Entier de Philosophie ou Système Général selon les Principes de M. Descartes*, 3 volumes, New York: Johnson Reprint Corporation, 1970. **[*Système*]**
-* –––, *Réponse au Livre qui a pour Titre “P. Danielis Huetii, … Censura Philosophiae Cartesianae”*, Paris: Jean Cusson, 1691. **[*Réponse*]**
-* Spinoza, *The Collected Works of Spinoza* (Volume 1), translated by Edwin Curley, Princeton, NJ: Princeton University Press, 1986.
+* Augustine, St., _On Free Choice of the Will_, translated by Thomas Williams, Indianapolis: Hackett, 1993.
+* Arnauld, Antoine, _On True and False Ideas_, translated by Stephen Gaukroger, Manchester: Manchester University Press, 1990.
+* Cudworth, Ralph, _The True Intellectual System of the Universe_, London: Richard Royston, 1678.
+* Descartes, René, _Oeuvres de Descartes_, Charles Adam and Paul Tannery (eds.), 11 volumes, Paris: J. Vrin, 1996. **\[AT]**
+* –––, _The Philosophical Writings of Descartes_ (Volume 3), translated by John Cottingham, Robert Stoothoff, Dugald Murdoch and Anthony Kenny, Cambridge: Cambridge University Press, 1985. **\[CSM]**
+* Desgabets, Robert, _Oeuvres Philosophiques Inédits_, J. Beaude (ed.), 7 volumes, Amsterdam: Quadratures, 1983.
+* Dilly, Antoine, _De l’Ame des Bêtes_, Lyon: Anisson & Posuel, 1676.
+* Hobbes, Thomas, _De Corpore_, William Molesworth (ed.), _The English Works of Thomas Hobbes_ (Volume 1), London: John Bohn, 1839.
+* –––, _Leviathan_., J.C.A. Gaskin (ed.), Oxford: Oxford University Press, 1996.
+* Huet, Pierre-Daniel, _Against Cartesian Philosophy_, translated by Thomas M. Lennon, Amherst, NY: Humanity Books, 2003.
+* La Forge, Louis de, _Treatise on the Human Mind_, 1664; translated by Desmond M. Clarke, Dordrecht: Kluwer, 1997.
+* Leibniz, G.W., _New Essays on Human Understanding_, translated by Peter Remnant and Jonathan Bennett, Cambridge: Cambridge University Press, 1996. **\[RB]**
+* –––, _Philosophical Essays_, translated by Roger Ariew and Daniel Garber, Indianapolis: Hackett Publishing Co., 1989. **\[AG]**
+* Locke, John, _An Essay Concerning Human Understanding_, Peter H. Nidditch (ed.), Oxford: Clarendon Press, 1975.
+* Malebranche, Nicolas, _The Search after Truth_, translated by Thomas M. Lennon and Paul J. Olscamp, Cambridge: Cambridge University Press, 1997. **\[**_**Search**_**]**
+* Pardies, Ignace Gaston, _Discours de la Conoissance des Bêtes_, Amsterdam: Pierre de Coup, 1724.
+* Régis, Pierre-Silvain, _Cours Entier de Philosophie ou Système Général selon les Principes de M. Descartes_, 3 volumes, New York: Johnson Reprint Corporation, 1970. **\[**_**Système**_**]**
+* –––, _Réponse au Livre qui a pour Titre “P. Danielis Huetii, … Censura Philosophiae Cartesianae”_, Paris: Jean Cusson, 1691. **\[**_**Réponse**_**]**
+* Spinoza, _The Collected Works of Spinoza_ (Volume 1), translated by Edwin Curley, Princeton, NJ: Princeton University Press, 1986.
 
 ### Secondary Literature
 
-* Alanen, Lilli, 2003. *Descartes’s Concept of Mind*, Cambridge, MA: Harvard University Press.
-* Balibar, Etienne, 1992. “A Note on ‘Consciousness/Conscience’ in the *Ethics*,” *Studia Spinozana*, 8: 37–53.
-* Barth, Christian, 2011. “Leibnizian *Conscientia* and its Cartesian Roots,” *Studia Leibnitiana*, 43: 216–36.
-* Bennett, Jonathan, 1984. *A Study of Spinoza’s Ethics*, Indianapolis: Hackett.
-* Bolton, Martha Brandt, 2011. “Leibniz’s Theory of Cognition,” in *The Continuum Companion to Leibniz*, Brandon C. Look (ed.), London: Continuum, 136–58.
-* Brandom, Robert B., 1981. “Leibniz and Degrees of Perception,” *Jounral of the History of Philosophy*, 19: 447–79.
-* Broughon, Janet, 2008. “Self-Knowledge,” in *A Companion to Descartes*, Janet Broughton and John Carriero (eds.), Malden, MA: Blackwell, 179–95.
-* Cook, Monte, 2002. “Robert Desgabet’s Representation Principle,” *Jounral of the History of Philosophy*, 40: 189–200.
-* Coventry, Angela, and Uriah Kriegel, 2008. “Locke on Consciousness,” *History of Philosophy Quarterly*, 25: 221–42.
-* Curley, Edwin, 1988. *Behind the Geometrical Method: A Reading of Spinoza’s Ethics*, Princeton, NJ: Princeton University Press.
-* –––, 1969. *Spinoza’s Metaphysics: An Essay in Interpretation*, Cambridge: Harvard University Press.
-* de Gaudemar, Martine, 2004. “Leibniz: La Notion de Conscience,” in *L’Expérience et la Conscience*, Arles: Actes Sud.
-* Della Rocca, Michael, 1996. *Representation and the Mind-Body Problem in Spinoza*, Oxford: Oxford University Press.
-* –––, 2008. *Spinoza*, London: Routledge.
-* De Rosa, Raffaella, 2010. *Descartes and the Puzzle of Sensory Representation*, Oxford: Oxford University Press.
-* Frost, Samantha, 2005. “Hobbes and the Matter of Self-Consciousness,” *Political Theory*, 33: 495–517.
-* Furth, Montgomery, 1967. “Monadology,” *Philosophical Review*, 76: 169–200.
-* Garrett, Don, 2008. “Representation and Consciousness in Spinoza’s Naturalistic Theory of the Imagination,” in *Interpreting Spinoza*, Charlie Huenemann (ed.), Cambridge: Cambridge University Press, 4–25.
-* Gennaro, Rocco J., 1999. “Leibniz on Consciousness and Self-Consciousness,” in *New Essays on the Rationalists*, Rocco J. Gennaro and Charlie Huenemann (eds.), New York: Oxford University Press, 353–71.
-* Heinämaa, Sara, Vili Lähteenmäki and Pauliina Remes (eds.), 2007. *Consciousness: From Perception to Reflection in the History of Philosophy*, Dordrecht: Springer.
-* Hennig, Boris, 2007. “Cartesian Conscientia,” *British Journal for the History of Philosophy*, 15: 455–84.
-* Jalabert, Jacques, 1946. “La Psychologie de Leibniz,” *Revue Philosophique de la France et de l’Étranger*, 136: 453–72.
-* Jorgensen, Larry M., 2019. *Leibniz’s Naturalized Philosophy of Mind*, Oxford: Oxford University Press.
-* –––, 2011a. “Leibniz on Memory and Consciousness,” *British Journal for the History of Philosophy*, 19: 887–916.
-* –––, 2011b. “Mind the Gap: Reflection and Consciousness in Leibniz,” *Studia Leibnitiana*, 43: 179–95.
-* –––, 2009. “The Principle of Continuity and Leibniz’s Theory of Consciousness,” *Journal of the History of Philosophy*, 47: 223–48.
-* Kulstad, Mark A., 1990. *Leibniz on Apperception, Consciousness and Reflection*, Munich: Philosophia.
-* Lähteenmäki, Vili, 2010. “Cudworth on Types of Consciousness,” *British Journal for the History of Philosophy*, 18: 9–34.
-* –––, 2007. “Orders of Consciousness and Forms of Reflexivity in Descartes,” in *Consciousness: From Perception to Reflection in the History of Philosophy*, Sara Heinämaa, Vili Lähteenmäki and Pauliina Remes (eds.), Dordrecht: Springer, 177–201.
-* LeBuffe, Michael, 2010. “Theories about Consciousness in Spinoza’s *Ethics*,” *Philosophical Review*, 119: 531–63.
-* Lewis, C.S., 1960. “Conscience and Conscious,” in *Studies in Words*, Cambridge: Cambridge University Press.
-* Lewis, Genviève, 1950. *Le Problème de l’Inconscient et le Cartésianisme*, Paris: Presses Universitaires de France.
-* Marshall, Eugene, 2014. *The Spiritual Atuomaton: Spinoza’s Science of the Mind*, Oxford: Oxford University Press.
-* Martin, Christopher, 2007. “Consciousness in Spinoza’s Philosophy of Mind,” *The Southern Journal of Philosophy*, XLV: 269–87.
-* McRae, Robert, 1972. “Descartes’ Definition of Thought,” in *Cartesian Studies*, R.J. Butler (ed.), New York: Bobbs-Merrill.
-* –––, 1976. *Leibniz: Perception, Apperception, and Thought*, Toronto: University of Toronto Press.
-* Miller, Jon, 2007. “The Status of Consciousness in Spinoza’s Concept of Mind,” in *Consciousness: From Perception to Reflection in the History of Philosophy*, Sara Heinämaa, Vili Lähteenmäki and Pauliina Remes (eds.), Dordrecht: Springer, 203–22.
-* Nadler, Steven, 1989. *Arnauld and the Cartesian Philosophy of Ideas*, Princeton, NJ: Princeton University Press.
-* –––, 2008. “Spinoza and Consciousness,” *Mind*, 117: 575–601.
-* Parkinson, G.H.R., 1982. “The ”Intellectualization of Appearances“,” in *Leibniz: Critical and Interpretive Essays*, M. Hooker (ed.), Minneapolis, MN: Minnesota University Press.
-* Radner, Daisie, 1971. “Spinoza’s Theory of Ideas,” *Philosophical Review*, 80: 338–59.
-* –––, 1988. “Thought and Consciousness in Descartes,” *Jounral of the History of Philosophy*, 36: 439–52.
-* Rice, Lee C., 1990. “Reflexive Ideas in Spinoza,” *Jounral of the History of Philosophy*, 28: 201–11.
-* Ross, George Macdonald, 1988. “Hobbes and Descartes on the Relation between Language and Consciousness,” *Synthese*, 75: 217–29.
-* Rozemond, Marleen, 2006. “The Nature of the Mind,” in *The Blackwell Guide to Descartes’ Meditations*, Stephen Gaukroger (ed.), 48–66. Malden, MA: Blackwell.
-* Schmaltz, Tad M., 1996. *Malebranche’s Theory of the Soul*, Oxford: Oxford University Press.
-* –––, 2002. *Radical Cartesianism: The French Reception of Descartes*, Cambridge: Cambridge University Press.
-* Simmons, Alison, 1999. “Are Cartesian Sensations Representational?” *Noûs*, 33: 347–69.
-* –––, 2012. “Cartesian Consciousness Reconsidered,” *Philosophers’ Imprint*, 12(2), [available online](https://quod.lib.umich.edu/p/phimp/3521354.0012.002/--cartesian-consciousness-reconsidered?view=image).
-* –––, 2001. “Changing the Cartesian Mind: Leibniz on Sensation, Representation, and Consciousness,” *Philosophical Review*, 110: 31–75.
-* –––, 2011. “Leibnizian Consciousness Reconsidered,” *Studia Leibnitiana*, 43: 196–215.
-* Thiel, Udo, 1991. “Cudworth and Seventeenth-Century Theories of Consciousness,” in *The Uses of Antiquit*y, Stephen Gaukroger (ed.), Dordrecht: Kluwer, 79–99.
-* –––, 1994. “Leibniz and the Concept of Apperception,” *Archiv für Geschichte der Philosophie*, 76: 195–209.
-* –––, 2011. *The Early Modern Subject: Self-Consciousness and Personal Identity from Descartes to Hume*, Oxford: Oxford University Press.
-* Weinberg, Shelley, 2016. *Consciousness in Locke*, Oxford: Oxford University Press.
-* –––, 2008. “The Coherence of Consciousness in Locke’s ‘Essay’,” *History of Philosophy Quarterly*, 25: 21–39.
-* Wilson, Margaret Dauler, 1999a, “Confused Versus Distinct Perception in Leibniz: Consciousness, Representation, and God’s Mind,” in *Ideas and Mechanism: Essays on Early Modern Philosophy*, 336–52. Princeton, NJ: Princeton University Press.
-* –––, 1999b. “Objects, Ideas, And ”Minds“: Comments on Spinoza’s Theory of Mind,” in *Ideas and Mechanism: Essays on Early Modern Philosophy*, Princeton, NJ: Princeton University Press, 126–40.
-* –––, 1978. *Descartes*, London: Routledge.
+* Alanen, Lilli, 2003. _Descartes’s Concept of Mind_, Cambridge, MA: Harvard University Press.
+* Balibar, Etienne, 1992. “A Note on ‘Consciousness/Conscience’ in the _Ethics_,” _Studia Spinozana_, 8: 37–53.
+* Barth, Christian, 2011. “Leibnizian _Conscientia_ and its Cartesian Roots,” _Studia Leibnitiana_, 43: 216–36.
+* Bennett, Jonathan, 1984. _A Study of Spinoza’s Ethics_, Indianapolis: Hackett.
+* Bolton, Martha Brandt, 2011. “Leibniz’s Theory of Cognition,” in _The Continuum Companion to Leibniz_, Brandon C. Look (ed.), London: Continuum, 136–58.
+* Brandom, Robert B., 1981. “Leibniz and Degrees of Perception,” _Jounral of the History of Philosophy_, 19: 447–79.
+* Broughon, Janet, 2008. “Self-Knowledge,” in _A Companion to Descartes_, Janet Broughton and John Carriero (eds.), Malden, MA: Blackwell, 179–95.
+* Cook, Monte, 2002. “Robert Desgabet’s Representation Principle,” _Jounral of the History of Philosophy_, 40: 189–200.
+* Coventry, Angela, and Uriah Kriegel, 2008. “Locke on Consciousness,” _History of Philosophy Quarterly_, 25: 221–42.
+* Curley, Edwin, 1988. _Behind the Geometrical Method: A Reading of Spinoza’s Ethics_, Princeton, NJ: Princeton University Press.
+* –––, 1969. _Spinoza’s Metaphysics: An Essay in Interpretation_, Cambridge: Harvard University Press.
+* de Gaudemar, Martine, 2004. “Leibniz: La Notion de Conscience,” in _L’Expérience et la Conscience_, Arles: Actes Sud.
+* Della Rocca, Michael, 1996. _Representation and the Mind-Body Problem in Spinoza_, Oxford: Oxford University Press.
+* –––, 2008. _Spinoza_, London: Routledge.
+* De Rosa, Raffaella, 2010. _Descartes and the Puzzle of Sensory Representation_, Oxford: Oxford University Press.
+* Frost, Samantha, 2005. “Hobbes and the Matter of Self-Consciousness,” _Political Theory_, 33: 495–517.
+* Furth, Montgomery, 1967. “Monadology,” _Philosophical Review_, 76: 169–200.
+* Garrett, Don, 2008. “Representation and Consciousness in Spinoza’s Naturalistic Theory of the Imagination,” in _Interpreting Spinoza_, Charlie Huenemann (ed.), Cambridge: Cambridge University Press, 4–25.
+* Gennaro, Rocco J., 1999. “Leibniz on Consciousness and Self-Consciousness,” in _New Essays on the Rationalists_, Rocco J. Gennaro and Charlie Huenemann (eds.), New York: Oxford University Press, 353–71.
+* Heinämaa, Sara, Vili Lähteenmäki and Pauliina Remes (eds.), 2007. _Consciousness: From Perception to Reflection in the History of Philosophy_, Dordrecht: Springer.
+* Hennig, Boris, 2007. “Cartesian Conscientia,” _British Journal for the History of Philosophy_, 15: 455–84.
+* Jalabert, Jacques, 1946. “La Psychologie de Leibniz,” _Revue Philosophique de la France et de l’Étranger_, 136: 453–72.
+* Jorgensen, Larry M., 2019. _Leibniz’s Naturalized Philosophy of Mind_, Oxford: Oxford University Press.
+* –––, 2011a. “Leibniz on Memory and Consciousness,” _British Journal for the History of Philosophy_, 19: 887–916.
+* –––, 2011b. “Mind the Gap: Reflection and Consciousness in Leibniz,” _Studia Leibnitiana_, 43: 179–95.
+* –––, 2009. “The Principle of Continuity and Leibniz’s Theory of Consciousness,” _Journal of the History of Philosophy_, 47: 223–48.
+* Kulstad, Mark A., 1990. _Leibniz on Apperception, Consciousness and Reflection_, Munich: Philosophia.
+* Lähteenmäki, Vili, 2010. “Cudworth on Types of Consciousness,” _British Journal for the History of Philosophy_, 18: 9–34.
+* –––, 2007. “Orders of Consciousness and Forms of Reflexivity in Descartes,” in _Consciousness: From Perception to Reflection in the History of Philosophy_, Sara Heinämaa, Vili Lähteenmäki and Pauliina Remes (eds.), Dordrecht: Springer, 177–201.
+* LeBuffe, Michael, 2010. “Theories about Consciousness in Spinoza’s _Ethics_,” _Philosophical Review_, 119: 531–63.
+* Lewis, C.S., 1960. “Conscience and Conscious,” in _Studies in Words_, Cambridge: Cambridge University Press.
+* Lewis, Genviève, 1950. _Le Problème de l’Inconscient et le Cartésianisme_, Paris: Presses Universitaires de France.
+* Marshall, Eugene, 2014. _The Spiritual Atuomaton: Spinoza’s Science of the Mind_, Oxford: Oxford University Press.
+* Martin, Christopher, 2007. “Consciousness in Spinoza’s Philosophy of Mind,” _The Southern Journal of Philosophy_, XLV: 269–87.
+* McRae, Robert, 1972. “Descartes’ Definition of Thought,” in _Cartesian Studies_, R.J. Butler (ed.), New York: Bobbs-Merrill.
+* –––, 1976. _Leibniz: Perception, Apperception, and Thought_, Toronto: University of Toronto Press.
+* Miller, Jon, 2007. “The Status of Consciousness in Spinoza’s Concept of Mind,” in _Consciousness: From Perception to Reflection in the History of Philosophy_, Sara Heinämaa, Vili Lähteenmäki and Pauliina Remes (eds.), Dordrecht: Springer, 203–22.
+* Nadler, Steven, 1989. _Arnauld and the Cartesian Philosophy of Ideas_, Princeton, NJ: Princeton University Press.
+* –––, 2008. “Spinoza and Consciousness,” _Mind_, 117: 575–601.
+* Parkinson, G.H.R., 1982. “The ”Intellectualization of Appearances“,” in _Leibniz: Critical and Interpretive Essays_, M. Hooker (ed.), Minneapolis, MN: Minnesota University Press.
+* Radner, Daisie, 1971. “Spinoza’s Theory of Ideas,” _Philosophical Review_, 80: 338–59.
+* –––, 1988. “Thought and Consciousness in Descartes,” _Jounral of the History of Philosophy_, 36: 439–52.
+* Rice, Lee C., 1990. “Reflexive Ideas in Spinoza,” _Jounral of the History of Philosophy_, 28: 201–11.
+* Ross, George Macdonald, 1988. “Hobbes and Descartes on the Relation between Language and Consciousness,” _Synthese_, 75: 217–29.
+* Rozemond, Marleen, 2006. “The Nature of the Mind,” in _The Blackwell Guide to Descartes’ Meditations_, Stephen Gaukroger (ed.), 48–66. Malden, MA: Blackwell.
+* Schmaltz, Tad M., 1996. _Malebranche’s Theory of the Soul_, Oxford: Oxford University Press.
+* –––, 2002. _Radical Cartesianism: The French Reception of Descartes_, Cambridge: Cambridge University Press.
+* Simmons, Alison, 1999. “Are Cartesian Sensations Representational?” _Noûs_, 33: 347–69.
+* –––, 2012. “Cartesian Consciousness Reconsidered,” _Philosophers’ Imprint_, 12(2), [available online](https://quod.lib.umich.edu/p/phimp/3521354.0012.002/--cartesian-consciousness-reconsidered?view=image).
+* –––, 2001. “Changing the Cartesian Mind: Leibniz on Sensation, Representation, and Consciousness,” _Philosophical Review_, 110: 31–75.
+* –––, 2011. “Leibnizian Consciousness Reconsidered,” _Studia Leibnitiana_, 43: 196–215.
+* Thiel, Udo, 1991. “Cudworth and Seventeenth-Century Theories of Consciousness,” in _The Uses of Antiquit_y, Stephen Gaukroger (ed.), Dordrecht: Kluwer, 79–99.
+* –––, 1994. “Leibniz and the Concept of Apperception,” _Archiv für Geschichte der Philosophie_, 76: 195–209.
+* –––, 2011. _The Early Modern Subject: Self-Consciousness and Personal Identity from Descartes to Hume_, Oxford: Oxford University Press.
+* Weinberg, Shelley, 2016. _Consciousness in Locke_, Oxford: Oxford University Press.
+* –––, 2008. “The Coherence of Consciousness in Locke’s ‘Essay’,” _History of Philosophy Quarterly_, 25: 21–39.
+* Wilson, Margaret Dauler, 1999a, “Confused Versus Distinct Perception in Leibniz: Consciousness, Representation, and God’s Mind,” in _Ideas and Mechanism: Essays on Early Modern Philosophy_, 336–52. Princeton, NJ: Princeton University Press.
+* –––, 1999b. “Objects, Ideas, And ”Minds“: Comments on Spinoza’s Theory of Mind,” in _Ideas and Mechanism: Essays on Early Modern Philosophy_, Princeton, NJ: Princeton University Press, 126–40.
+* –––, 1978. _Descartes_, London: Routledge.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=consciousness-17th). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/consciousness-17th/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=consciousness-17th&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/consciousness-17th/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=consciousness-17th).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/consciousness-17th/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=consciousness-17th\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/consciousness-17th/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Early English Books Online](http://eebo.chadwyck.com/home) and [Gallica](http://gallica.bnf.fr/) have online facsimiles of many seventeenth-century texts, including some of the ones cited above.
+* [Early English Books Online](http://eebo.chadwyck.com/home) and [Gallica](http://gallica.bnf.fr/) have online facsimiles of many seventeenth-century texts, including some of the ones cited above.
 
 ## Related Entries
 
-[animal: consciousness](https://plato.stanford.edu/entries/consciousness-animal/) | [Arnauld, Antoine](https://plato.stanford.edu/entries/arnauld/) | [Cambridge Platonists](https://plato.stanford.edu/entries/cambridge-platonists/) | [consciousness](https://plato.stanford.edu/entries/consciousness/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Descartes, René: theory of ideas](https://plato.stanford.edu/entries/descartes-ideas/) | [Desgabets, Robert](https://plato.stanford.edu/entries/desgabets/) | [Hobbes, Thomas](https://plato.stanford.edu/entries/hobbes/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Leibniz, Gottfried Wilhelm: philosophy of mind](https://plato.stanford.edu/entries/leibniz-mind/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [Spinoza, Baruch: psychological theory](https://plato.stanford.edu/entries/spinoza-psychological/)
+[animal: consciousness](https://plato.stanford.edu/entries/consciousness-animal/) | [Arnauld, Antoine](https://plato.stanford.edu/entries/arnauld/) | [Cambridge Platonists](https://plato.stanford.edu/entries/cambridge-platonists/) | [consciousness](https://plato.stanford.edu/entries/consciousness/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Descartes, René: theory of ideas](https://plato.stanford.edu/entries/descartes-ideas/) | [Desgabets, Robert](https://plato.stanford.edu/entries/desgabets/) | [Hobbes, Thomas](https://plato.stanford.edu/entries/hobbes/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Leibniz, Gottfried Wilhelm: philosophy of mind](https://plato.stanford.edu/entries/leibniz-mind/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [Spinoza, Baruch: psychological theory](https://plato.stanford.edu/entries/spinoza-psychological/)
 
 ### Acknowledgements
 
 I would like to thank Alison Simmons and Samuel Newlands for their helpful suggestions on the Descartes and Spinoza sections respectively.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Larry M. Jorgensen <[*ljorgens@skidmore.edu*](mailto:ljorgens%40skidmore%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Larry M. Jorgensen <[_ljorgens@skidmore.edu_](mailto:ljorgens%40skidmore%2eedu)>
