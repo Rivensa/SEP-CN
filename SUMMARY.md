@@ -506,7 +506,7 @@
   * [\*逻辑——见逻辑学：条件句的逻辑 logic of — see logic: conditionals](c/zhi-chen-tiao-jian-conditionals-dorothy-edgington/luo-ji-jian-luo-ji-xue-tiao-jian-ju-de-luo-ji-logic-of-see-logic-conditionals.md)
 * [\*马里·让·安托万·尼古拉·德·卡里塔，孔多塞侯爵 Condorcet, Marie-Jean-Antoine-Nicolas de Caritat, Marquis de](c/ma-li-rang-an-tuo-wan-ni-gu-la-de-ka-li-ta-kong-duo-sai-hou-jue-condorcet-mariejeanantoinenicolas-de/README.md)
   * [女权主义历史：马里·让·安托万·尼古拉·德·卡里塔，孔多塞侯爵 in the history of feminism (Joan Landes)](c/ma-li-rang-an-tuo-wan-ni-gu-la-de-ka-li-ta-kong-duo-sai-hou-jue-condorcet-mariejeanantoinenicolas-de/nv-quan-zhu-yi-li-shi-ma-li-rang-an-tuo-wan-ni-gu-la-de-ka-li-ta-kong-duo-sai-hou-jue-in-the-history.md)
-* [坚振圣事 confirmation (Vincenzo Crupi)](c/jian-zhen-sheng-shi-confirmation-vincenzo-crupi.md)
+* [确证 confirmation (Vincenzo Crupi)](c/jian-zhen-sheng-shi-confirmation-vincenzo-crupi.md)
 * [\*Confucianism 儒学](c/confucianism-ru-xue/README.md)
   * [儒学中的性别 gender in Confucian philosophy (Li-Hsiang Rosenlee)](c/confucianism-ru-xue/ru-xue-zhong-de-xing-bie-gender-in-confucian-philosophy-lihsiang-rosenlee.md)
   * [\*日本——见日本哲学：日本儒学 Japanese — see Japanese Philosophy: Confucian](c/confucianism-ru-xue/ri-ben-jian-ri-ben-zhe-xue-ri-ben-ru-xue-japanese-see-japanese-philosophy-confucian.md)
