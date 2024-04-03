@@ -1,2 +1,511 @@
 # 17 世纪的意识理论 seventeenth-century theories of (Larry M. Jorgensen)
 
+*首次发表于 2010 年 7 月 29 日星期四；实质性修订于 2020 年 3 月 6 日星期五*
+
+在十七世纪，“意识”开始具有独特的现代意义。这种转变是由心灵和思想的新理论引发的，并与十七世纪其他重要的辩论议题联系在一起，包括有关心灵透明性、动物意识和先天观念的辩论。此外，意识与道德身份紧密联系，法语和拉丁语甚至没有意识和良心（即道德敏感）之间的语言区别。这种语义转变标志着思想的心理或现象学方面与道德敏感之间的哲学分歧。在十七世纪，关于所有这些话题的讨论丰富多样——下文提供了一个宏观的视角。
+
+* [语言转变](https://plato.stanford.edu/entries/consciousness-17th/#LingTran)
+* [2. 笛卡尔和笛卡尔派](https://plato.stanford.edu/entries/consciousness-17th/#DescCart)
+
+  * [2.1 笛卡尔对意识的看法](https://plato.stanford.edu/entries/consciousness-17th/#DescCons)
+  * [2.2 笛卡尔之后](https://plato.stanford.edu/entries/consciousness-17th/#AfteDesc)
+* [ 3. 斯宾诺莎](https://plato.stanford.edu/entries/consciousness-17th/#Spin)
+
+  * [ 3.1 道德意识](https://plato.stanford.edu/entries/consciousness-17th/#MoraCons)
+  * [ 3.2 意念与意念](https://plato.stanford.edu/entries/consciousness-17th/#IdeaIdea)
+  * [3.3 复杂性和权力](https://plato.stanford.edu/entries/consciousness-17th/#CompPowe)
+* [4. 英国的发展](https://plato.stanford.edu/entries/consciousness-17th/#DeveEngl)
+
+  * [ 4.1 霍布斯](https://plato.stanford.edu/entries/consciousness-17th/#Hobb)
+  * [4.2 剑桥柏拉图主义者](https://plato.stanford.edu/entries/consciousness-17th/#CambPlat)
+  * [ 4.3 洛克](https://plato.stanford.edu/entries/consciousness-17th/#Lock)
+* [ 5. Leibniz (IGNORE)](https://plato.stanford.edu/entries/consciousness-17th/#Leib)
+* [ 参考文献](https://plato.stanford.edu/entries/consciousness-17th/#Bib)
+
+  * [ 主要文献](https://plato.stanford.edu/entries/consciousness-17th/#PrimLite)
+  * [ 次级文献](https://plato.stanford.edu/entries/consciousness-17th/#SecoLite)
+* [ 学术工具](https://plato.stanford.edu/entries/consciousness-17th/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/consciousness-17th/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/consciousness-17th/#Rel)
+
+---
+
+## 语言转变
+
+在早期现代时期追溯意识的发展是复杂的，因为哲学写作的两种主要语言拉丁语和法语都有一个词可以表示(a)道德良知，或者(b)意识。在拉丁语中，这个词是 conscientia；在法语中是 conscience。（动词和形容词形式同样模棱两可。）这些术语在 17 世纪被用于它们的两个主要意义（以及其他次要意义），因此对重要文本的任何解释都必须对这种潜在的模棱两可性保持敏感。
+
+但更重要的是，这种模糊的根本原因是由于 17 世纪正在发生的意义转变。在 17 世纪之前，"Conscientia"和"conscience"这两个词主要表示道德良心，现在开始具有新的、纯粹心理的意义。这一时期的哲学家是影响这种意义转变的主要人物之一。
+
+事情对于用英语或德语撰写的哲学来说并不容易，这两种语言都有区分这两个概念的语言手段。英语术语“consciousness”在 17 世纪首次被广泛使用，以标记出这个新概念；德语术语“Bewusstsein”在 18 世纪初被创造出来（德语中 conscience 的意思是“Gewissen”）。但即使有一个新词来识别这个概念，英语和德语术语仍然有多重含义。到 1727 年，我们发现一篇英文文本将 consciousness 定义为：
+
+> (a) “通过反射行为，一个人知道他的思想是他自己的思想，” (b) “直接的思维行为；或者（与之同义）简单的感知，” 或 (c) “自我运动的能力，或者通过意志开始运动的能力”（引自 Thiel 1991 年，第 80 页）。
+
+因此，在阅读英语哲学文本时，将一个含义或分析赋予这个术语是一个棘手的问题。当然，这符合问题的本质。17 世纪的哲学家正在勾勒一个至今仍然存在问题的概念。在当今对意识的讨论中，相当普遍地进一步区分以确定正在讨论的问题的哪个方面（生物意识、状态意识、现象意识、接入意识等）。虽然有些人使用这些后来的术语来理解 17 世纪哲学家在他们的理论中试图表达的内容，但这些更精细的概念大部分将留给当今的哲学家。本文将尝试从 17 世纪哲学家自己提供的对意识进行一致分析的尝试中找出什么意义。
+
+（有关语言史的有益调查，可参见十七世纪前的拉丁术语 conscientia，请参阅 Hennig 2007 年，第 466-481 页。有关十七世纪法语的转变，请参见 G. Lewis 1950 年，第 111-114 页。有关哲学术语在英语中的引入，请参见 Thiel 1991 年。有关拉丁语和希腊语术语不同含义的更多文学描述，请参见 C.S. Lewis 1960 年。）
+
+故事。在深入研究各个系统的细节之前，勾勒叙事弧线将会很有帮助。以下讨论中将出现两个重要转变。第一个是我已经指出的：从道德良知转变为纯粹心理概念的意识——从共享知识转向意识作为私人内省的概念。这始于笛卡尔，在英国则始于剑桥柏拉图主义者。虽然这无疑是一个重大发展，但中心概念仍然大多未经分析。第二个转变发生在十七世纪晚期，当哲学家开始将意识视为需要解释的东西。这后一个转变始于笛卡尔哲学家，他们在发展笛卡尔体系并为了避免一些对其提出的异议而更多地谈到意识的本质。但在很大程度上，这些笛卡尔主义者仍然坚持认为意识是心灵的基本属性，是“心智的标志”。莱布尼茨通过论证意识不能是心智的标志来完成这第二个转变。他发展了有关心智表征的论述，并提供了关于意识的分析，认为这样做可以对一些原本神秘的事物提供一个完全自然的解释。这标志着一个解释性项目的开始，至今仍在继续：意识能否用更基本的东西来解释？
+
+## 2. 笛卡尔和笛卡尔派
+
+意识的历史，在现代意义上，应该从笛卡尔开始。虽然一些古代和中世纪哲学家预示了现代意识概念的某些方面（参见 Heinämaa 等人，2007 年），但在 17 世纪发生了重大转变，特别是从笛卡尔开始，这与上述语言转变相对应。因此，值得问一下，是什么让笛卡尔的项目引发了一种新的思考意识方式。
+
+### 2.1 笛卡尔对意识的看法
+
+在《第一哲学沉思录》（1641）的第二组回答后的几何展示中，笛卡尔如下定义思想：
+
+> 意识。我使用这个术语来包括我们内在的一切，以至于我们立即意识到它。因此，意志、智力、想象力和感官的所有运作都是思想。我说“立即”是为了排除思想的后果；例如，自愿的动作源于一个思想。（CSM II 113 / AT VII 160；参见《哲学原理》第一部分，§9 / AT VIIIA 7-8）
+
+在这里，1641 年，笛卡尔将思想定义为意识的形式——一种我们意识到的“在我们内部”的东西。
+
+从一开始就存在明显的问题。我以何种方式意识到我的思想？似乎，我更意识到我的思想所代表的东西。笛卡尔清楚地意识到了思想与思想对象之间的区别，并利用了两个技术术语来标明这种区别。笛卡尔区分了思想的形式，他称之为“观念”：
+
+> 意识。我理解这个术语指的是任何思想的形式，直接感知到这种形式使我意识到这个思想。 (CSM II 113 / AT VII 160)
+
+注意到这一相似的反思方面：正是对一个观念的感知使我意识到这个思想。但是，这个观念只是思想本身的形式。思想的对象是由思想所代表的任何东西。因此，笛卡尔将“观念的客观现实”定义为“由观念所代表的事物的存在，就在于它在观念中的存在……因为我们感知到的在我们观念对象中的东西，在观念本身中客观地存在<或通过代表>”（CSM II 113 / AT VII 160）。
+
+因此，首先看起来，笛卡尔的意识包括一种感知（具有某种内容）和第二个反思行为，通过这个行为我意识到第一个感知。似乎意识的反思方面确实作为笛卡尔对意识的描述的一部分存在，但我们会看到，“第二个反思行为”究竟是什么并不那么清楚。但同样可以说，笛卡尔并不是那么关心意识本身的分析。我们可能在寻找对意识的分析；而笛卡尔并不是。对于笛卡尔来说，意识是被视为已知的。
+
+从早期心灵理论的轨迹来看，简单地看到，在笛卡尔《第一沉思录》和《第二沉思录》的“我思故我在”论证中，笛卡尔发现理由怀疑他意识之外的心灵的所有特征。即使是他意识到的想法也只能作为他自己存在的证据，它们并不能进一步证明他心灵中所代表的关于外部事物的存在，或者它们是否存在如同他心灵中的想法所代表的那样。因此，对于笛卡尔来说，意识隐含地成为“心灵的标志”，沿着这些思路进一步发展心灵理论将不得不考虑意识在心灵经济中的作用。
+
+意识的作用对笛卡尔来说，主要是认识论的——它使某些事物对心灵可得。在《冥想录》中，这方面的三个特定方面凸显出来。
+
+1. 心灵的透明度：我所有的想法对我来说都是显而易见的（我意识到我所有的想法），而且我的想法是不可更正的（我不会误解自己是否有某个特定的想法）。
+2. 反思：任何思想都必然涉及对自我的认识。[2]
+3. 意向性：我的思维似乎以某种方式呈现给我，好像代表着什么。[3]
+
+这些都是笛卡尔在《沉思录》中论证的必要要点。仅仅通过有一个思想（例如，“我在怀疑”），我知道我正在思考，这必然意味着我存在。这种推论依赖于心灵的透明性和反思行为（笛卡尔在第三沉思中进一步强调，CSM II 34 / AT VII 49）。此外，思想的指向性是让冥想者能够推断他并不孤独于世界的一部分——他有一个关于无限完美存在的思想，以及其他关于物质对象的思想。通过这些思想和它们所代表的内容，他能够推断上帝和物质世界实际上存在。
+
+这三个因素是否为我们提供了对意识的全面分析？并非完全如此。但是，在被迫为心灵的这三个方面辩护时，他为我们提供了更多材料，我们可以从中推断出对意识的解释。例如，安托万·阿尔诺尔在《第四组异议》中为笛卡尔提出了以下问题：
+
+> 作者断言，对于他作为一个思维实体，他内部不可能存在他不知道的东西，但我认为这是错误的。因为通过“他自己，就他作为一个思维实体而言”，他仅仅指的是他的心灵，因为它与他的身体是不同的。但我们大家肯定可以看到，我们的心灵中可能有许多事情，而心灵本身并不知道。胎中婴儿的心灵具有思考的能力，但并不知道。还有无数类似的例子，我将略过。(CSM II 150 / AT VII 214)
+
+阿诺尔德在这里反对透明度论——他认为有无数例子，思想是思想者并不意识到的（一个非常有趣的承认！）。笛卡尔是如何回应的？
+
+> 关于这一事实，即在意识作为一个思维实体的情况下，心灵中没有任何它不知道的东西，这对我来说是不言自明的。因为在这种情况下，我们所能理解的心灵中的任何东西，都是一个思想或依赖于一个思想。如果它不是一个思想或依赖于一个思想，那么它就不属于作为思维实体的心灵；当这个思想在我们内心时，我们在那一刻就不能没有意识到它。基于这一点，我毫不怀疑，心灵一旦植入婴儿的身体，就开始思考，并立即意识到自己的思想，尽管之后可能不记得这一点，因为这些思想的印象并没有留在记忆中。
+
+对于透明度论的可能证据，即子宫中的婴儿，并不能反驳它，因为不记得有过意识的想法并不意味着没有过意识的想法。但是，作为透明度论的一种辩护，这个答案引发了一个反思的问题。如果对于笛卡尔来说，反思是意识中必然涉及的，那么他在这里是否承认即使胎儿也可以反思？
+
+笛卡尔似乎在与阿尔诺尔德的后来通信中抵制了这一点。阿尔诺尔德区分了“简单反思”和“表达反思”，并认为虽然“简单反思”“固有于所有思维”，但它与智力记忆和理解所必需的反思方式是不同的。笛卡尔对此作出了自己的区分：
+
+> 我们区分直接和反思的思维，对应于直接和反思的视觉的区别。我称婴儿的第一种简单思维为直接而非反思。但当成年人感觉到某事，并同时感知到自己以前没有感觉到过（即涉及智力记忆）时，我称这种第二感知为反思，并将其归因于仅仅智力，尽管它与感觉如此紧密相连，以至于两者同时发生并看起来无法区分彼此。
+
+阿诺德（Arnauld）然而保留了这种以反思为基础的区分。根据阿诺德，
+
+> 我们的思想或感知本质上是对自身的反思：或者更好地用拉丁语表达，即 est sui conscia。因为我不会在不知道自己在思考的情况下思考。我不会不知道自己知道一个正方形而知道一个正方形。 (Arnauld 71)
+
+这种对于任何思维都至关重要的反思，然而，并不涉及第二阶知觉。根据阿诺德（Arnauld）的观点，每一个思维都内含了反思——思维的主体的表征是每一个思维内容的重要部分。这就是他所称的“简单”或“虚拟反思”，以区别于那种需要主体将注意力集中在其他思维上的反思，后者需要一个以低阶思维为对象的第二阶思维。（有关此事的讨论，请参见纳德勒（Nadler）1989 年，118-22 页。）
+
+尽管笛卡尔不愿将反思能力，甚至简单的反思能力，归因于婴儿，但阿尔诺的区分与笛卡尔对另一位反对者的回应是一致的。皮埃尔·布尔丹试图提出问题，假设意识需要独立的反思思维：
+
+> 通过“思考”，你可能指的是你理解、意愿、想象和感知，并且你以一种方式思考，可以通过一种反思的行为来思考和考虑你的思想。这意味着当你思考时，你知道并考虑到自己在思考（这确实就是意识的本质，以及对某种活动有意识的意识）。你声称，这种意识是一种超越物质、完全属灵的能力或事物的属性，也正是因为这一点，你是一个心灵或灵魂。（CSM II 364 / AT VII 533–534）
+
+笛卡尔否认这种推论：
+
+> 我的批评者说，要使一种物质优于物质并完全属于精神...，仅仅思考是不够的：还需要通过一种反射性行为来思考它正在思考，或者它应该意识到自己的思想。这是...愚蠢的...我们意识到某事物的初始思想并不不同于我们意识到我们已经意识到它的第二思想，就像这第二思想不同于我们意识到我们已经意识到我们已经意识到的第三思想一样。 (CSM II 382 / AT VII 559)
+
+笛卡尔在这里并不否认反思对于意识是必要的。相反，他否认反思需要一个独立的思想。（然而，请注意时态的转变，“...我们意识到我们曾经意识到...”，这引发了这些是否可能是相同思想的疑问。后文将进一步讨论此问题。）
+
+因此，为了回应这些反对意见，笛卡尔对他关于意识的阐述进行了一些细化。对于笛卡尔来说，意识是所有思想的内在属性（甚至是婴儿的思想），通过它，主体意识到思想本身。虽然这涉及反思，但反思的思想并不与最初的思想本身不同。
+
+笛卡尔在他关于意识的主张中所做的调整导致一些学者得出结论，认为笛卡尔并没有一个关于意识的单一解释。相反，他在使用多个不同的意识概念（参见 Radner 1988 年，Lähteenmäki 2007 年和 Simmons 2012 年）。他是否意识到这一点尚不清楚。
+
+摘要。笛卡尔提供了对意识概念的最初纯粹心理学用途之一，当他将思想定义为意识时。然而，他并没有对这一概念进行分析。相反，他以一种方式运用这一概念，从而在《沉思录》中确立了他的认识主张。但他运用这一概念的方式暗示了一种分析：意识的思想是一种在某种程度上自我启示的心理状态。根据笛卡尔的观点，所有的思想都具有这一基本特性。
+
+这种分析的草图被留给了笛卡尔的门徒们，他们就如何最好地理解意识展开了争论。很明显，笛卡尔的项目赋予了意识中心地位，但笛卡尔从未给出对这一基本概念的分析。关于意识本身是否有什么特点使其能够发挥这种中心作用呢？
+
+意识的话题以及与心智透明度、表征和笛卡尔的反思相关主题的更多内容，请参阅 Alanen 2003，Broughton 2008，Hennig 2007，Lähteenmäki 2007，McRae 1972，Radner 1988，Rozemond 2006，Simmons 2012 和 Wilson 1978。对笛卡尔意识描述的解释存在显著差异。例如，Hennig 认为，笛卡尔实际上并未以新方式使用“conscientia”这一术语。另一方面，Simmons 认为，笛卡尔具备对意识进行细致描述的资源，可以涵盖各种心理现象。
+
+### 2.2 笛卡尔之后
+
+从笛卡尔观点的概述中，意识的心理感知产生了三条主要线索，并立即引发了哲学上的争议。
+
+1. 意识使思维对心灵透明：我们是否意识到我们所有的思维？当我们意识到自己有一个思维时，我们能怀疑自己是否正在有这个思维吗？
+2. 意识涉及反思。意识本质上是由与原始感知不同的感知构成的吗？意识是否必然涉及记忆或反思？所有的意识都是某种形式的自我意识吗？
+3. 意识思维是有意图的。所有的思维都是表征性的吗？意图的本质是什么，它与意识的关系是什么？
+
+这三组问题中的每一组都被笛卡尔的追随者们在不同的方向上进行了探讨和发展。被称为笛卡尔派的哲学家们在这些问题上存在分歧，这些问题的一些形式至今仍然存在。
+
+#### 2.2.1 透明度
+
+许多笛卡尔学派的人在定义思维时遵循笛卡尔的意识概念。系统化了笛卡尔心灵观的路易·德·拉·福尔热(Louis de la Forge)就是这样定义思维的：
+
+> 思想是我们每个人在意识到自己在做什么或自己内部发生的事情时直接体验到的知觉、意识或内在知识。 (La Forge 39)
+
+ 后来，
+
+> 思维的本质在于意识、见证和内在感觉，通过这些，心灵意识到自己所做或所受的一切，以及一般来说，在它行动或受到影响的同时，它所发生的一切。 （拉弗格 57，翻译已修改）
+
+注意，这里拉福格（La Forge）详细阐述了笛卡尔的定义。他将这些术语视为等同的：感知、意识、证词、内部感觉。笛卡尔并未用情感来描述意识，这一补充提出了重要问题——意识仅仅是一种感觉吗？它是内部感知的东西，类似于我们的视觉、听觉、味觉等对外部事物的感知吗？还是本质上不同？
+
+Malebranche 在这一点上遵循 La Forge。在《追求真理》，Malebranche 将“consciousness”（conscience）和“inner sensation”（sentiment interieur）互换使用。（例如，见第三卷，第 2 部分，第 7 章，第 236-239 页。）后来，他以一种与 La Forge 定义密切相似的方式定义了思想。
+
+> 通过“思想”、“思维方式”或“灵魂的改变”这些词，我通常理解所有那些在灵魂中不能没有灵魂通过其对自身的内在感觉而意识到的事物。 (Search 218)
+
+(Schmaltz argues that Malebranche was strongly influenced by La Forge in his argument here. See Schmaltz 1996, 16ff.) Schmaltz 认为 Malebranche 在这里的论点受到 La Forge 的强烈影响。请参阅 Schmaltz 1996 年，第 16 页及以下。
+
+因此，拉福尔和马勒布朗继续了笛卡尔对透明度的承诺。然而，“内在感知”的转变是一个重要的转变，因为它标志着透明给心灵的内容的转变，特别是关于心灵自身性质的内容。马勒布朗著名地否认了笛卡尔关于心灵比身体更为人所知的说法。这是因为，尽管我们通过对外部世界的感觉对身体有一种混淆的认识，但我们仍然了解身体的本质。（我将不讨论马勒布朗如何获得这种知识的复杂过程。）但是，在心灵的情况下，我们所拥有的只是对心灵的内在感知——我们不了解心灵的本质，因为我们没有这样的概念。马勒布朗说：
+
+> 我们通过意识或者我们对自己的内在感觉，确实知道我们的灵魂是重要的东西。但是相比于它本身，我们所知道的可能几乎微不足道。 (Search 238)
+
+他随后解释了为什么我们通过身体的观念而不是灵魂的观念来获得对身体的认识
+
+> 我们通过意识对灵魂的认识是不完美的，可以理解；但并非虚假。另一方面，我们通过感觉或意识对身体的认识，如果我们对身体发生的事情的混乱感觉可以被称为意识的话，不仅是不完美的，而且是错误的。因此，我们需要一个关于身体的观念来纠正我们对它的感觉，但我们不需要关于我们的灵魂的观念，因为我们对它的意识并不会使我们陷入错误中。
+
+因此，意识作为内在感觉，为我们提供了对灵魂的不完全认识，但这种认识对于所有实际（以及对马勒布朗什来说，神学）目的是足够的。
+
+因此，将意识的含义微妙地转变为“内部感知”对通过意识手段了解心灵的内容施加了一些限制。一个人可以意识到自己在思考，但这并不能让我们清晰地了解灵魂。这并非同一类型的自我认识。但还要注意这种转变所带来的另一个变化——正如马勒布朗奇在上文中所指出的那样。外部物体的感知可能并非（严格来说）是意识。意识是一种内在现象，是我们内部发生的感知，因此对红色球体的视觉感知只能在派生的意义上被称为意识。这引出了我们对反思的问题，将在下一个主题中讨论。
+
+#### 2.2.2 反思
+
+如上所述，在《冥想第七反驳》中已经提出了一个异议，即意识似乎需要一个独特的反思性思想。笛卡尔否认了这种推论，称
+
+> [T]我们意识到某事物的最初思想并不与我们意识到我们意识到它的第二思想有所不同，就像这第二思想与我们意识到我们意识到我们意识到它的第三思想一样。（CSM II 382 / AT VII 559）
+
+再次强调，正如上文所述，笛卡尔在这里的回应并不是否认反思对于意识的必要性 - 他否认反思需要一个独立的思想。拉福尔和马勒布朗奇都在这一点上跟随笛卡尔的否认（参见 Schmaltz 1996, 18）。
+
+但这段文字有些模糊。在这里，笛卡尔区分了（1）意识到某事物，这显然只需要一个单一的思想，和（2）意识到我们意识到某事物。显然，第一阶意识不需要反思的行为。而且，虽然意识到我们意识到某事物需要反思的行为，但并不需要一个独立的思想（因此威胁性的回归并不成问题）。但从这段文字中并不清楚反思如何内嵌到最初的思想中，特别是因为在时态上似乎有一个转变（第二个意识在时间上是在最初意识之后的）。
+
+安托万·阿尔诺 Antoine Arnauld 发展了一个包含这种区别的反思理论。任何思想所必需的反思并不涉及第二阶知觉。正如前面所指出的，阿尔诺认为每个思想都内含反思，尽管这并不意味着第二阶思想。只有明确的反思，即个体将注意力集中在自己的思想上，才需要第二阶知觉。（有关阿尔诺的观点，请参阅 Nadler 1989, 118–22。）
+
+正如 Geneviève Lewis 所展示的，这个问题在 17 世纪后期成为了一场重要的辩论源泉。她指出，皮埃尔-西尔万·雷吉斯在捍卫笛卡尔主义时，将自己承诺于某种反思性知识作为意识的构成部分。雷吉斯和阿尔诺德一样，一直追溯到奥古斯丁，将其作为这一教义的来源，引用奥古斯丁的说法：“（动物）必须感知（sentio）自己看到东西时，它看到了”（奥古斯丁 37，雷吉斯引用，Système I，150）。当意识到某事物时，一个人“感知到自己感知到了它”。这种表达方式实际上是描述意识的心理意义的一种常见方式——一个人不仅看到了一个红色的球，而且还感知到自己感知到了这个红色的球。这听起来就像是一种反思性行为。
+
+在这一基础上，笛卡尔主义的主要反对者之一，皮埃尔·丹尼尔·于埃特（Pierre Daniel Huet）认为笛卡尔主义者是在先入为主。他认为，
+
+> 每一个思想都涉及三个要素：思考的心灵、放置在思考心灵前面的事物（即，思想的对象）以及思考心灵对放置在其前面的事物的作用。 （Huet 82）
+
+笛卡尔, 休埃特认为, 在“我思故我在”这一论证中未能区分这三个事物。当笛卡尔说自我思考时, 思考的对象是什么？是他自己的思想本身。但是, 这里有一个反对意见, 这不能是与最初的思想相同的思想，“因为如果是这样, 行为将被反转, 这是荒谬的, 与笛卡尔经常援引的自然光相悖” (83)。然而, 这正是笛卡尔在回应布尔丹时给出的回应。为什么休埃特认为这是“荒谬的, 与自然光相悖”？
+
+ 许埃特继续说道：
+
+> 为了让我认为我在思考，需要两个思想，一个思想反映另一个思想——后一个当前的思想反映前一个先前的思想——以便让意识到的第一个思想被放置在意识之前，意识到的第二个思想是关于第一个思想的。简而言之，第一个思想将成为第二个思想的终点或对象；第二个思想将是意识指向第一个思想的心智行为。但两者通过单一行为发生是矛盾的... (84)
+
+在他的回答中，雷吉斯认为正是这样。他认为我们不需要明显的反思观念；笛卡尔“感知到自己通过一个单一而简单的观念在思考，这个观念是通过自身而知的”（Réponse 35; cf. Système I, 150）。然后他认为，如果第二个行为是必要的，那么无限回归就会威胁到，因为为了意识到第二个想法，一个人将需要第三个，依此类推。让·休埃特通过从阿奎那那里得出的回应来回避这一反对意见：“他[阿奎那]承认思想将无限增加，心灵是无限的——不是在行动上，而是在潜力上”（Huet 86）。
+
+但在所有这些背后，Huet 和笛卡尔派之间存在另一个重要的区别。Huet 认为
+
+> 这种表达（即“ego cogito”）是有缺陷的，因为它应该被理解为，并且价值等同于我说“我正在思考我曾经思考过”。就像眼睛一样，人类的思维一次只能关注一件事。因此，为了让我认为我在思考，需要两个思想...。 (84)
+
+如果休埃的说法“人类心智一次只能关注一件事”意味着我们一次只能想到一件事，那么笛卡尔派将拒绝这个前提。事实上，笛卡尔明确地这样做（见 CSM III 335 / AT V 149）。但雷吉斯通过拒绝眼睛一次只能看到一件事的前提来回应，加强了心智和眼睛之间的类比。他认为，如果思想对于心智如同光对于眼睛，那么当我们看到某物时，事件有三个不同的方面：“看到的眼睛，看到的行动，以及被看到的对象”（Réponse 35）。现在假设我们说，“我看到了光。”我们必须假设必须有第二道光照亮第一道光吗？不需要；我们看到的是光本身。思想也是如此——如果休埃承认这种类比，他“必须得出结论，[一种思想]是通过自身被认知的”（Réponse 36）。
+
+结果是，对于笛卡尔主义者来说，一个思想可以“反过来作用于自身”，这正是休埃特认为荒谬的地方。休埃特的反对意见是，笛卡尔主义者非法地将主体作为所有思想的对象带入其中。他认为，如果是这样的话，那么这就需要第二个思想，这会削弱“我思故我在”的论证。
+
+因此，意识理论的一个关键澄清点是要明确意识是否涉及反思，以及如果是的话，是否需要一个独特的反思思维。
+
+#### 2.2.3 意向性
+
+这些关于不可更正性和反思的考虑对思维的意向性有着重要影响。十七世纪的另一位笛卡尔哲学家安托万·迪利将阐明其中一些观点。在对伊格纳斯·加斯东·帕迪耶的论点做出回应时，帕迪耶为动物的某种知识辩护，迪利则为笛卡尔的立场辩护。他在 1676 年写道：
+
+> 为了避免在反思这个词上陷入模棱两可，最好认识到：[a] 我们有时可以反思我们所做的事情，[b] 有时我们的第一个想法不仅被感知，而且当第二个想法把第一个作为对象时，我们通过这种重复检查更好地了解它的本质。更重要的是，因为第一个想法主要使其对象呈现在灵魂面前，并通过被感知告诉我们它的存在。但第二个想法的对象只有第一个；它向我们展示它与第一个一样生动，正如第一个向我们展示它的对象一样。因此，不应该认为每个想法后面都跟着一个使其被认知的第二个想法，因为后者将不得不有第三个，依此类推，直至无穷。但我们确信，通过我们自己的经验，所有的想法都是通过灵魂感知的，不是通过对自身的真正回归，而是仅仅通过其存在直接和立即：因此，当我看见时，我的视觉使得存在的东西变得可感知，而不需要任何其他东西。每个人都可以通过自我反省更好地确信这一点...。 (Dilly 116–118)
+
+这里有两个值得注意的要素。首先，Dilly 重复了我们在雷吉看到的论点，提出了一种观点，即思想是通过它们自身而不是需要一个独立的反思来认识的。其次，Dilly 仍然以反思的方式表征我们的感知，以保留最初感知“告知我们”其存在的意义（即，通过这种方式我们意识到思想的对象）。这是笛卡尔和笛卡尔派一直在努力保留的意识形式。
+
+Dilly 正在发展这个想法，目的是驳斥 Pardies 所描述的“肉体知识”。据 Dilly 理解，Pardies 认为动物可以感知某物而不知道自己在感知，与上述奥古斯丁格言相反。也就是说，动物可能在其内部有关于物体的表象，但动物并不知道这个物体。Dilly 回应道：
+
+> 这是否可以想象，一只狗会因为对主人的真实认识而被引导跑向主人，却不知道自己察觉到主人的存在…？他怎么能在一百个长相相似的人中辨认出这个人，而不察觉到自己看见了他，并且内心确信，需要走向他让他抚摸？他又是如何在不知情的情况下完成所有这些行为呢？
+
+在迪利关于需要好好抚摸的狗的修辞问题背后，隐藏着一个关于意向性的论点。根据迪利的观点，任何试图证明动物具有思维的尝试都必须考虑这种思维如何进入动物正在经历的激情和行动中。仅仅发展一个关于感知的描述，让动物周围的事物对其产生印象是不够的。
+
+这里的隐含论点是，如果没有对代表的意识，那么就没有真正的代表。无论一只狗作为机器在跑向主人时是在对什么进行行动，它并不是在对内部代表主人的东西进行有目的的行动。所谓的“肉体知识”只不过是一个身体对另一个身体的连接或印象，如果没有意识到这些印象及其所代表的意义，它们就无法起到知识、感觉、行动或意志的作用。
+
+Dilly 认为，意向性需要意识的支持——一个思想不会代表一个对象，除非有一个意识到这种代表的主体。因此，一个思想的意识在概念上优先于其意向性，也就是说，意向性只是意识的一种形式。但是，正如我们将看到的，其他人会提出相反的观点。实际上，如果一个有意识的思想是对某物的代表再加上一种反思行为，那么似乎代表在概念上优先于意识。在这段时间内正在探讨的是意识、代表和思想之间的关系究竟是什么。这是一个持久的有趣问题。
+
+## 3. 斯宾诺莎
+
+虽然笛卡尔之后的许多哲学家继承了笛卡尔留下的与意识相关的问题，但斯宾诺莎可能是一个例外。根据某些解释，他对意识几乎没有什么可说的。这有些令人惊讶，考虑到斯宾诺莎对于思想和心灵有多少言论。然而，这可能反映了斯宾诺莎的思维属性实际上有多么薄弱，将笛卡尔中的不同概念合而为一：意志和智力，判断和感知等，发展出一个完全自然化的心灵解释。因此，似乎斯宾诺莎对意识的理论将以某种更基本的心灵特征来解释。
+
+斯宾诺莎的心灵理论是一种彻底的心灵表征论。对斯宾诺莎来说，心智仅仅存在于表征内容中。在《伦理学》2p7 中，他认为“思想的秩序和联系与事物的秩序和联系是一致的”，这意味着对于每个延伸的对象，都有一个平行的思想。这被称为心灵-身体平行论。基于这一点，斯宾诺莎能够发展他的心灵理论：“构成人类心灵实际存在的第一件事情仅仅是一个实际存在的单一事物的思想”（2p11）。每个心灵本身就是一个具有特定对象的思想——对于人类来说，心灵是其身体的思想，身体中发生的任何事情都将在心灵中得到表征（正如他在 2p12 和 2p13 中所论述的）。心灵是一个代表单一对象的特定思想，即与之平行的身体。这是一种完全的心灵表征论，从心灵中可以推断出的任何其他事物都将在其所代表的身体中有对应物。 （有关斯宾诺莎的心灵表征论，请参阅 Della Rocca 1996。）
+
+因此，在上面讨论的三个主要线索中，思想的意向性似乎是斯宾诺莎心灵理论中一切的主要支点。《伦理学》中有迹象表明，斯宾诺莎认为有些表象是我们不知道的。在《伦理学》的结尾，斯宾诺莎将“智者”描述为那位“意识到自己、上帝和事物”的人（5p42s），清晰的暗示是那些不智的人未能意识到自己、上帝或事物，即使这些事物通过心理表象存在于心灵中。因此，似乎斯宾诺莎需要一个意识的解释，这种解释并不延伸到每一个心理表象（或者至少不是以同样的程度）。
+
+### 3.1 道德意识
+
+正如上文提到的“智者”，斯宾诺莎对于“意识”一词的主要用法是道德的，但他对这个词的使用与“道德良心”这一较旧的意义有着显著的偏离。斯宾诺莎认为我们不应该听从内在的证词。相反，他将我们的注意力集中在我们如何将自己看作自然秩序的一部分上。他利用这一概念来统一他的道德、认识论和形而上学项目。
+
+在《伦理学》中，斯宾诺莎很少使用"conscientia"这个术语（以其各种形式），而当他这样做时，几乎完全是在第 3 至第 5 部分，斯宾诺莎在考虑特定人类情感的本质以及与之相关的束缚或自由。事实上，斯宾诺莎在第 1 和第 2 部分中很少使用"conscientia"，而他这样做的方式指向了《伦理学》后部分中对其的使用。
+
+在哲学中，术语“conscientia”得到最广泛应用的命题是 3p9
+
+> P9: 无论是在意识到思想清晰明了的情况下，还是在思想混乱的情况下，心灵都努力地维持其存在，并且在这种努力中意识到自己。
+>
+> Dem.: …由于心灵（根据 IIp23）通过身体感觉的思想意识到自身，心灵（根据 p7）意识到自身的奋斗。
+>
+> 学者：当这种努力仅与意识相关时，它被称为意志；但当它与意识和身体一起相关时，它被称为欲望。因此，这种欲望实际上就是人的本质，从他的本性中必然会产生那些促进他生存的事物。因此，人被决定去做那些事情。
+>
+> 在欲望和欲望之间没有区别，除了欲望通常与男人有关，因为他们意识到自己的欲望。因此，欲望可以被定义为欲望与对欲望的意识相结合。
+
+意识的“内容”——当我们具有在 3p9 中表达的形式的心理状态时，我们意识到的是什么，最好用第 1 部分附录中的以下引语来表达：
+
+> 所有人生而不知事物的原因，他们都想寻求自己的利益，并意识到这种欲望。
+>
+> 根据这些【假设】，首先可以得出结论，人们认为自己是自由的，因为他们意识到自己的意志和欲望，甚至在梦中也不会考虑导致他们想要和愿意的原因，因为他们对【这些原因】一无所知。其次，可以得出结论，人们总是出于目的行动，即出于他们想要的利益。
+
+Spinoza 试图在读者中引起的转变是从这种意识的转变 - 在这种意识中，我们错误地认为自己是自由的，我们认为世界具有丰富而广泛的目的论，我们认为自己是自由地行动在目的和目标上 - 到另一种意识，我们知道自己是“永恒的必然性”的一部分（5p42s）。正如 Spinoza 所说：
+
+> 因此，我们每个人能够获得这种知识（即第三种知识）的能力越强，他就越意识到自己和上帝，也就是他越完美和幸福。（5p31s）
+
+因此，对斯宾诺莎来说，意识的作用主要是道德的 - 道德转变是我们意识内容的转变。但是，正如已经指出的，这似乎需要在心灵严格代表的内容和在意识中它出现的方式之间有一些变化。为了了解这种差异，我们需要更仔细地看一下斯宾诺莎的意识形式。
+
+### 3.2 意念的意念
+
+在前一节的开头，我们注意到斯宾诺莎很少使用"conscientia"这个术语，而当他使用时，主要是在第 3 至第 5 部分。这种说法虽然正确，但有点误导。请注意，上面引用的 3p9 段引用我们回到 2p23，以了解他关于意识的说法。再次在 3p30d、3def.aff1 和 4p8d 中，斯宾诺莎将我们指向 2p23、19 或 21。很明显，他打算让 2p19 至 23 对他的意识理论产生一些影响，因此许多评论家试图从《伦理学》中斯宾诺莎在那一部分所说的内容中发展出一个意识的解释。
+
+2p23 并没有直接讨论意识本身。相反，它描述了心灵认识自身的方式以及心灵对自身认识的限制。这里是斯宾诺莎所说的内容：
+
+> P23: 心灵除非感知身体的思想和情感，否则无法认识自己。
+>
+> Dem.: 意识的概念，或者心灵的知识（由 P20）以与上帝相同的方式跟随上帝，并且与身体的概念或知识以相同的方式与上帝相关。但是，由于（根据 P19）人类心灵并不了解人类身体本身，即（根据 P11C），由于人类身体的知识与上帝无关，因为他构成了人类心灵的本质，心灵的知识也与上帝无关，因为他构成了人类心灵的本质。因此（再次根据 P11C），在这种程度上，人类心灵并不了解自己。
+>
+> 接下来，身体受到影响的情感的观念涉及人体本身的性质（见 P16），即（见 P13），与心灵的性质相符。因此，对这些观念的了解必然涉及对心灵的了解。但（见 P22）对这些观念的了解在心灵本身中。因此，人类心灵仅在那种程度上了解自己，证毕。
+
+在这里，许多关键短语都存在歧义，但作为第一次尝试，我们可以说斯宾诺莎在辩论以下论点：
+
+> 一个心灵对 P 的意识思维，如果
+>
+> 1. 心灵有一个代表它的身体受到 P 影响的想法
+> 2. 心灵有第二个想法，代表着第一个想法给自己。
+
+这是理解“感知身体情感的想法”的一种方式。埃德温·柯利（Curley 1969, 128）提出了这种解释。这种意识理论的好处在于它是彻底表征性的，因此与斯宾诺莎发展心灵表征理论的总体项目一致。此外，这一理论似乎意味着并非所有心灵都是有意识的（或者并非所有思想都是有意识的）——斯宾诺莎暗示婴儿在 5p6s 和 5p35s 中并非有意识。
+
+尽管具有这些优点，对这一段落的最初理解遭到了严厉批评。玛格丽特·威尔逊反对这种阅读，她认为这种阅读并不能提供一个令人满意的区分意识和非意识心智或意识和非意识思想的方式。由于在上帝中，必须有所有思想的思想，任何给定的思想（和任何给定的心智）都将具有必要的第二个思想（甚至可能有无限多个—见 2p21s），这将使其具有意识。（有关更多反对意见，请参见威尔逊，134–138。）乔纳森·贝内特提出了类似的反对意见，得出结论，如果这是斯宾诺莎对意识的描述，那就是“过分的过度”（贝内特 188）。柯利承认了这一观点（请参见柯利 1988，71–72）。
+
+他人曾试图修复这种解释并回应潜在的异议。Lee C. Rice (1990) 和 Christopher Martin (2007) 都对异议做出了回应，并试图捍卫这种对斯宾诺莎意识理论的解释。他们在理解 2p19-23 方面的努力是有趣的，但从文本的这一部分很难避免“荒谬地过度”的结论。当然，人们可以在这里坚持立场，并说斯宾诺莎实际上是“荒谬地过度”！他致力于泛心灵论，为什么不迈出一步，提出一个同样广泛的意识解释呢？事实上，下一组解释准备走得那么远。
+
+### 3.3 复杂性和权力
+
+尽管在后来关于意识的讨论中明确提到了“思想的思想”段落，史蒂芬·纳德勒（2008 年）和唐·加勒特（2008 年）认为这并不是寻找斯宾诺莎意识理论的正确地方。相反，他们从心灵-身体平行主义的论点中发展出他们的解释。
+
+尽管纳德勒倾向于认为斯宾诺莎并没有对意识提供一个完整的阐述，但斯宾诺莎所提供的“非常具有启发性……适用于一种特定类型的项目，这种项目代表了一种自然主义的意识阐述，因为它指出了通向当代神经科学和（一些）最近的心灵哲学所特征的正是对意识的经验性、科学性探究的途径”（586）。引用 2p13s 和 5p39s，纳德勒认为，在意识中被心灵追踪的特征是身体的结构复杂性。5p39s 如下所示：
+
+> 他，像婴儿或孩子一样，拥有一个身体能力很少，非常依赖外部原因的人，他的意识，如果仅仅考虑自身，几乎对自己、上帝或事物几乎一无所知。另一方面，那些拥有身体能力很强的人，他们的意识，如果仅仅考虑自身，对自己、上帝和事物非常清楚。
+>
+> 在这种生活中，我们特别努力让婴儿的身体改变（尽其自然允许和协助的程度），变成另一个身体，能够做很多事情，并与一个非常意识到自己、上帝和事物的心灵相关。
+
+根据这些段落，纳德勒得出结论：“对斯宾诺莎来说，人类或更高级的意识不过是人体超凡复杂性的心理对应物”（587 页）。结果是，对斯宾诺莎来说，意识是一个程度问题（正如上文所暗示的）。纳德勒还提出了这可能是一个门槛概念的可能性——即在心灵能够意识到之前必须满足一定程度的复杂性。但是，他援引加勒特对斯宾诺莎自然主义的呼吁，驳回了门槛观点。因此，意识存在不同程度，所有心灵都具有意识（与“理念的理念”部分的担忧相反）。
+
+唐·加勒特（Don Garrett）从与纳德勒（Nadler）相同的文本中汲取灵感，但他在这些段落中强调的是能力上的差异。请注意在上述段落中，斯宾诺莎将婴儿的身体描述为“能力很少的身体”。因此，根据加勒特的观点，意识所追踪的基本特征是身体的相对力量（23-24 页）。身体拥有的力量越大，心灵中的意识程度就越高。
+
+根据纳德勒（Nadler）的观点，这种观点的问题在于，“加勒特（Garrett）从他的论点和相关中心段落中得出的唯一结论是，意识的程度和思维能力的程度在一个头脑中成比例地变化，但并非意识本身等同于思维能力”（592-93）。然而，鉴于斯宾诺莎（Spinoza）对心灵的表征性描述，用于解释意识的唯一两个特征是表示本身的某些特征（它们的复杂性）或思想的因果效力（它们的力量）。 （参见德拉罗卡（Della Rocca）2008 年 108-118。）
+
+Michael LeBuffe 认为，大多数学者用来发展他们的解释的中心段落不应被解读为提出意识理论；相反，这些段落侧重于“意识经验中某些元素的认识论地位。” 然而，他确实承认斯宾诺莎需要一个意识理论，并对加勒特的解释提出了一个特定问题。在加勒特的解释中，一个思维的力量和其构成思想的力量可能会分道扬镳。也就是说，可能存在一个非常强大的思维（在很大程度上是有意识的），其思想相对较弱（思维对其有意识的程度很低）。 换句话说，在加勒特的观点中，一个更强大的思维（作为一个整体）可能拥有所有思想都比较不具有意识的思想，而这种情况下将更强大的思维描述为具有更高程度的意识将会很奇怪（LeBuffe 2010, 557）。 LeBuffe 相反地认为，斯宾诺莎并没有以其意识水平来表征一个思维（作为一个整体）的力量。
+
+尤金·马歇尔（Eugene Marshall）提出了对加勒特（Garrett）解释的发展，将意识简化为“情感性”（见马歇尔 2014 年，第 4 章）。“情感性”是一个观念具有的特性，当它增加、减少或固定了心灵的努力力量（其“本性”），或者当它驱使心灵行动时。像喜悦或恐惧这样的情绪会以这种方式产生情感性，但某些理性判断也会如此。马歇尔认为，这提供了一个更为完善的解释，说明了在斯宾诺莎看来，力量如何在意识中起着核心作用，同时避免了加勒特提议中的一些问题。
+
+## 4. 英国的发展
+
+到目前为止，讨论的重点集中在欧洲大陆。但在英格兰也出现了类似的意识理论发展。
+
+### 4.1 霍布斯
+
+在十七世纪初，我们发现霍布斯给出了意识的传统定义：
+
+> 当两个或更多的人知道同一事实时，他们被说成是彼此之间的意识；这就相当于一起知道它。由于这样的人是彼此或第三者事实的最合适的证人，因此，任何人说违背自己的良心，或者腐化或强迫另一个这样做，都被认为是非常邪恶的行为……之后，人们用同样的词隐喻地表示，用于指代他们自己的秘密事实和秘密思想的知识；因此，修辞上说，良心是千人的证人。 (Leviathan 7.4)
+
+在这里保留了意识的共享知识的词源意义，并将其与良心作为见证者的功能联系起来。事实上，对霍布斯来说，保留意识/良心的这种公共意义是很重要的，因为他认为良心的私人判断对“公民社会是不可容忍的”（《利维坦》29.7）。
+
+然而，与“意识”一词完全无关的是，似乎霍布斯对现象意识有一种解释：
+
+> 如果外表是我们认识其他事物的原则，我们必须承认感觉是我们认识这些原则的原则，并且我们所有的知识都是从感觉中获得的。至于感觉的原因，我们不能从其他现象开始寻找它们，而只能从感觉本身开始。但你可能会说，我们用什么感觉来注意感觉呢？我回答，通过感觉本身，也就是通过我们对可感知事物的一段时间内留存在我们内心的记忆。因为感知到自己已经感知到的人会记得。（《论身体》25.1，第 389 页；有关这段文字的讨论，请参见 Frost 2005）
+
+我们在这里必须谨慎地将意识理论（在现代意义上）归因于霍布斯。特别是，我们应该谨慎地理解所谓的感知我们已经感知到的含义，因为感觉本身就是一种表象，而我们可能会意识到这一点。但是这些表象通过记忆连接在一起形成单一的体验。正如霍布斯在《利维坦》中所说，“许多记忆，或者许多事物的记忆，被称为经验”（2.4）。但对霍布斯来说，现象意识似乎是感觉本身的属性。在对笛卡尔的《沉思录》提出异议时，霍布斯抵制了意识的高阶解释的暗示（参见 CSM II, 122–123 / AT VII 173；有关霍布斯和笛卡尔在意识主题上关系的讨论，请参见 Ross 1988）。
+
+### 4.2 剑桥柏拉图主义者
+
+意识的转变在这里通过笛卡尔的思想线索得以追溯。然而，一个相当独立的思想线索是由剑桥柏拉图主义者（正如 Thiel 1991 所主张的）发展起来的，特别是在拉尔夫·卡德沃斯（Ralph Cudworth）的著作中。
+
+Cudworth 通过反思 Plotinus 的《恩涠集》来发展他的理论，在这部作品中，Plotinus 使用希腊术语 synaisthesis（字面意思是“与...一起感知”）来区分较低的本性和较高的本性。Cudworth 将其翻译成英文为“con-sense”或“consciousness”（《真正的智力体系》159 页）。正是通过建立一种特别的柏拉图形而上学理论，Cudworth 发展了他对意识的阐述。
+
+卡德沃思（Cudworth）与其他剑桥柏拉图主义者一起，主张存在“可塑性本质”，这些本质是世界中的非物质行动源。这些可塑性本质类似于心灵或灵魂，但与笛卡尔相反，卡德沃思认为存在非意识的思想和非意识的可塑性本质。针对笛卡尔认为所有心理状态都是有意识的论点，卡德沃思提出如下论点（《真正的智力体系》160）：
+
+1. 假设，为了反证，"思维"（或思想）是灵魂的本质。
+2. 思想的本质是意识（由库德沃思和笛卡尔都认可）。
+3. 人类的灵魂有时处于深沉的无梦睡眠状态（即，没有意识）。
+4. 因此，通过（1）至（3），人的灵魂有时会停止存在。
+5. 但是这是荒谬的。
+6. 因此，应该拒绝：灵魂的本质不是思想。
+
+因此，灵魂中有许多（尤其是生命的其他原则）我们一无所知，也无法用机械方式解释（同上）。与斯宾诺莎和莱布尼茨（以下）不同，卡德沃思并不对阐明“自然”意识或心智活动的描述感兴趣，因为这些可塑的本质本身就是神圣活动和神谕的源泉。
+
+然而，在卡德沃思的体系中，意识所起的作用是对自己思想的一种类似意识，这与道德良心是不同的。虽然意识确实包含对思想主体的参照，但对于卡德沃思来说，它并不是立即或明确地这样做。为了提供必要的自我参照，以便对自己的行为做出道德判断，这需要一种独特的反思行为（Thiel 1991 92–24）。 （有关卡德沃思对意识的阐述，请参阅 Thiel 1991 和 Lähteenmäki 2010。）
+
+### 4.3 洛克
+
+约翰·洛克（John Locke）在他的个人身份理论中着名地运用了意识，将个人身份与物质或物质身份区分开来。这是一个纯粹心理学的身份解释，对道德责任的判断有影响（洛克确实有所发展），但意识本身并不等同于道德敏感性。
+
+洛克对“人”的定义中包含了对意识的定义：
+
+> 意识是一个思考的智慧存在，具有理性和反思能力，并且可以将自己视为自己，同一思考的东西在不同的时间和地点；这仅仅通过那意识来实现，而那意识与思考是不可分割的，我认为这对它是至关重要的：任何人都不可能在不知觉中感知，因为感知自己感知是不可能的。 (Essay 2.27.9)
+
+在这里，我们再次发现对心灵透明度和意识与反思之间联系的承诺。将意识与“感知到[自己]正在感知”等同起来，再次引发了更高阶解释的幽灵。但有充分的理由认为更高阶理论对洛克来说行不通（参见 Coventry 和 Kriegel 2008 以及 Weinberg 2008）。在本条目的几乎每个部分中，我们都遇到了某人将相关哲学家解释为更高阶理论者。但是，这一建议一再受到哲学家本人明确反驳，或者受到与其他基本原则明显不一致的明显不连贯的反驳。人们可能希望文献中频繁的反对意见能够结束这种猜测。尽管 17 世纪对意识的描述听起来很像今天的意识更高阶理论，但几乎总有更忠实于当时情况的解释方式。
+
+相反，在洛克的情况下，意识的分析似乎只允许推断出思想是自我启示的。“当我们看到、听到、闻到、尝到、感觉到、沉思或意愿任何事物时，我们知道我们这样做”（2.27.9）。然而，长期以来一直有人争论洛克将意识与反思等同起来（有关这种解释的历史，请参见库尔斯塔德 84-85）。当然，即使洛克对意识的描述必然涉及反思，我们已经看到这并不立即意味着高阶理论。但正如马克·库尔斯塔德所主张的那样，有充分的理由认为洛克区分了意识和反思。一个人可以意识到某事物（即一个可感知的品质），而不必因此对其进行反思（库尔斯塔德 87-91）。
+
+此外，洛克（Locke）像笛卡尔（Descartes）一样，认为这是思想的本质——一个人不能在“意识到它”之前有思想（2.1.19）。然而，他只会在经验允许的范围内延伸这个想法——对他来说“灵魂总是在思考”并不明显，因为我们在睡觉时经常没有意识体验。因此，正如洛克所说，“每一个打瞌睡的点头都动摇了那些教导灵魂总是在思考的人的信条”（2.1.13；详见 2.1.10-20 以获取完整论证）。这个论点类似于卡德沃思（Cudworth）提出的论点，而且像卡德沃思一样，洛克将得出结论，思考并非灵魂的本质。灵魂可以在没有思考的状态下持续存在——这是他将基础物质与心理状态分离的开端。个体的意识与其所内在的物质之间没有必要的关系，因此物质对个体的身份没有任何贡献。
+
+雪莱·温伯格（Shelley Weinberg）提出了对洛克意识理论的解释，她认为这解决了许多最紧迫的解释问题。根据温伯格的观点，对于洛克来说，
+
+> 意识是自我意识。它是一种非评价性的自我参照意识形式，内在于对所有观念的感知中。它是我感知自己正在感知一个观念，或者感知自己正在感知一个观念的感知。
+
+她认为洛克的观点意味着每一次感知行为都是一个涉及“至少包括感知行为、被感知的观念和意识（我正在感知）”的复杂状态（xi）。她对这一观点的辩护展示了这种意识观念如何有助于理解洛克关于自我存在的认识、外部物体的认识、个人身份和道德代理的主张（Weinberg，2016）。
+
+## 5. Leibniz
+
+回到大陆，我们发现莱布尼茨可能是我们遇到的第一位可以说是拥有一种意识理论的哲学家。莱布尼茨是最早明确表示他正在努力为这种新的心理意识解释制定分析的哲学家之一。他甚至为这个概念创造了一个新词：apperception，这是法语动词 s'apercevoir de（感知）的名词化。除了这个新术语，他还发展了一个意识理论，他打算将其完全自然化，这在某种程度上意味着在分析中没有需要求助于粗糙解释或奇迹的未解释空白。
+
+此外，莱布尼茨是最早为非意识心理状态提供理论基础之一，与我们上面讨论的以意识来定义思维的笛卡尔派形成对比。正如莱布尼茨所说，
+
+> 意识作为意识。在感知和自我感知之间进行区分是有益的，感知是单子体（即简单物质）代表外部事物的内部状态，而自我感知是意识，或者对这种内部状态的反思性认识，这并不是所有灵魂都具备的，也不是所有时候给定灵魂都具备的。此外，正是因为他们缺乏这种区分，笛卡尔学派才失败了，忽视了我们没有自我感知的感知，就像人们忽视了无法感知的物体一样。这也是导致同样的笛卡尔学派相信只有心灵是单子体，认为动物中没有灵魂，更别提其他生命原则了的原因。（《自然与恩宠的原则》第 4 节，AG 208）
+
+因此，莱布尼茨认为他已经诊断出笛卡尔哲学体系中的一个重大错误，并且他在意识的描述中有解决方案。从这段文字中立即显而易见的是一些事情，与我们上面的讨论相关。
+
+1. 莱布尼茨的心灵理论是一种心灵表征理论。感知并非以意识为基础，而是以物质“表征外部事物”的方式来理解。
+2. 一些，但并非所有的“灵魂”都是有意识的。
+3. 那些有意识的灵魂可以在有意识和无意识状态之间转换。事实上，正如他在其他地方所主张的，每个心灵中必须存在无数微小的感知，而他们并不知晓，即使在意识到某些事物的同时。（参见《新论》的前言。）
+4. 意识或类似心灵的物质在自然界中随处可见（在人类、动物和其他“生命原则”中）。但它们的基本属性是相同的：它们本质上是表征性的。
+
+因此，就像斯宾诺莎一样，莱布尼茨将不得不提供一个关于意识的理论，涉及到表象，并且，也许与斯宾诺莎不同的是，他将不得不展示这一理论如何允许意识到非意识状态的转变。如果他能做到这一点，那么他认为，他的心灵理论将避免许多困扰笛卡尔心灵理论的问题。此外，他认为这将是一个完全自然的理论，将开辟一种新的心灵科学，他称之为气学（参见 RB 56；显然，气学这个名称并没有流行起来，但莱布尼茨设想的科学可能与今天的认知科学有很大重叠）。
+
+那么，那么，莱布尼茨提出的意识是什么样的呢？有些人注意到莱布尼茨在上面引用中所说的内容（“…apperception，即意识，或对这种内在状态的反思性认识”），并认为，对于莱布尼茨来说，意识是一种反思的问题。正如我们所看到的，在 17 世纪，这是一个流行的选择，但也是一个并不总是清楚其基本结构是什么的选择。反思是否需要一个独立的以第一阶感知为对象的二阶感知？还是更像阿诺尔德提出的虚拟反思（与明确反思相对）？许多学者认为，莱布尼茨主张意识的高阶理论，其中意识由第一阶感知和独立的高阶感知构成。（关于莱布尼茨意识理论的这种解释，请参见 Kulstad 1990 年，Gennaro 1999 年和 Simmons 2001 年。）
+
+事实上，莱布尼茨关于意识的所谓反思分析并不十分清晰。如果莱布尼茨认为一个感知在伴随着第二阶感知时变成有意识的感知，那么莱布尼茨就会面临一个哲学问题。玛格丽特·威尔逊对柯利对斯宾诺莎的意识理论类似分析的论点更适用于莱布尼茨。莱布尼茨的心灵理论意味着每个心灵都代表着宇宙（“普遍表达”命题），这将始终必然包括自我表达。所有心灵都会对自己及其心理状态有更高阶的感知，这会削弱莱布尼茨区分有意识/无意识物质或单一物质内有意识/无意识感知的能力。所有物质都会有意识，所有心理状态都会是有意识的心理状态。（有关这些批评的发展以及关于意识的高阶理论会违反莱布尼茨基本形而上学命题之一的论点，请参见约根森 2009 年。有关对其中一些异议的可能回应（但并非决定性），请参见约根森 2011a 年。）
+
+当然，这也可能是因为莱布尼茨没有意识到这一含义，因此他持有了一个不连贯的意识理论。但在附近还有另一个候选理论。考虑莱布尼茨在以下段落中对简单物质（或者他称之为“单子”）所说的内容：
+
+> 由于单子的本质是代表性的，没有什么能限制它只代表事物的一部分。然而，事实上，这种代表只是对整个宇宙的细节感到困惑，只能对一小部分事物有所区分，即对那些最接近的事物，或者对于每个单子而言最伟大的事物，否则每个单子都将成为神性。单子是有限的，不是关于它们的对象，而是关于它们对这些对象的知识的修改。单子都混沌地走向无限，走向整体；但它们受到它们明显感知程度的不同而受到限制和区分。（《单子论》，§60，AG 220–221）
+
+莱布尼茨在这里首先阐述了普遍表达命题——所有简单物质都代表着“整体”。它们彼此之间的区别在于相对的“它们独特感知的程度”，这跟踪着“与每个单子有关的事物最接近或最大的事物”。将莱布尼茨在这里所说的内容与其他类似的文本结合起来，我们看到莱布尼茨阐述了意识的广义功能论。意识是感知独特性的功能，而感知独特性本身是个体单子中事物如何被表征的功能。
+
+为了看到感知的独特性是如何从各种表征中产生的，莱布尼茨提供了他著名的海洋声音的例子：
+
+> 为了更清晰地了解那些我们无法从众多感知中挑选出来的微小感知，我喜欢用站在海岸边时给我们留下深刻印象的海浪的轰鸣声作为例子。要像我们这样听到这种声音，我们必须听到构成整体的部分，也就是每个海浪的声音，尽管这些小声音只有在与其他所有声音混杂在一起时才会显现出来，并且如果产生这些声音的海浪单独存在的话，它们是不会被注意到的。
+
+每一个微小的波浪声都会在我们的感官器官上留下印记，然后被合并成一个更加显著的声音，这个声音将从世界背景的其他表征中脱颖而出。"引人注目的感知"，莱布尼茨说，“逐渐从那些太微小而不被注意的感知中产生”（RB 57）。
+
+不同感知的产生方式取决于身体的功能组织。在《自然与恩典的原则》中，莱布尼茨说，当一个简单物质具有“器官被调整得这样，通过它们，接收到的印象之间存在对比和区别，因此在代表它们的感知中存在对比和区别...那么这可能构成感觉...”（AG 208）。显著感知中的对比是由于身体的功能“混淆”（即融合在一起）外部世界的表征，使它们变得更加独特。因此，尽管它们被混淆，这些感知在感知背景中显现出来——它们既混淆又独特。这种情况发生的时间和方式将取决于各种因素，包括感官的能力和复杂性，个体的性格等。此外，这将是一个程度问题——某些表征将比其他表征更加突出。因此，对于莱布尼茨来说，意识本身也是一个程度问题。
+
+然而，为了让莱布尼茨解释意识的转变（无论是一个心灵变得有意识，还是一个心灵对特定对象有意识的转变），不能仅仅是感知上的任何程度导致意识。相反，莱布尼茨的意识理论似乎暗示着意识产生的某种最低阈值。而这个阈值本身可能对上下文和心灵的状态敏感——当我清醒时会注意到的事情，在我熟睡时会被忽略。这里是莱布尼茨提供的一个例子，以及他的解释：
+
+> 有数百种迹象使我们得出结论：在每一时刻，我们内心存在着无数的感知，没有伴随着意识或反思；也就是说，灵魂本身的变化，我们并不知晓，因为这些印象要么太微小且太多，要么太单调，以至于它们本身不足以引起足够的注意。但当它们与其他印象结合时，它们仍然产生影响，并至少在整体中感受到，虽然感觉模糊。这就是我们在旁边生活一段时间后变得如此习惯于磨坊或瀑布的运动，以至于我们不再注意到它。并不是说这种运动停止刺激我们的感官，或者由于灵魂与身体之间的和谐，灵魂中仍然不会发生与之相对应的事情；但是这些在灵魂和身体中的印象，由于缺乏新奇感，不足以吸引我们的注意力和记忆，我们的注意力和记忆只会应用于更引人注目的对象。（RB 53–54）
+
+注意，莱布尼茨在这里重申，我们只意识到那些“足够独特”或“足够有力”的感知。这暗示了一定程度的知觉独特性或力量，这些将“显现出来”。就像磨坊的情况一样——你搬到磨坊旁边，因为噪音而无法入睡。但是，随着时间的推移，你习惯了磨坊的声音，不再注意到它。正是这种现象事实，我们都能认识到，莱布尼茨认为他可以用感知独特性的变化来解释。正如他所说的，不是噪音不再影响我们的感官器官——噪音在内部继续被记录，但是由于缺乏新奇感而导致意识的转变。我们不再注意到噪音（或者至少我们不那么注意它）。这是什么解释了这一点？莱布尼茨认为他可以用印象的力量来自然解释这一点。不知何故，随着时间的推移，它变得不那么有力。（它是如何做到的？莱布尼茨在这里没有给我们一个完整的解释。这就是他认为我们将看到他理论的承诺并调查原因的地方。）[17]
+
+因此，可以将莱布尼茨视为提供了一种完全自然化的心灵哲学，他在其中倡导意识的阈值理论。这是一种同阶意识理论——对于莱布尼茨来说，意识知觉是一种独特的知觉。也就是说，在某种程度上的独特性，这种知觉足够突出以被注意到。所有感知物质都有一定程度独特性的知觉，但并非所有感知物质都有独特的知觉。相反，需要一定程度的独特性阈值（相对于上下文）才能使知觉变得独特。（有关这一立场的详细说明，请参阅约根森（Jorgensen）2019 年第 7 章。）
+
+莱布尼茨在讨论意识时从未使用“阈值”一词，但他的例子都以某种方式涉及阈值。他在《新论》中说：
+
+> 我更倾向于区分感知和意识。例如，我们意识到的光线或颜色的感知是由许多我们不知道的微小感知组成的；而我们感知但没有注意到的噪音通过微小的增加或添加被带入我们的意识范围。 (134)
+
+因此，在某种程度上，噪音会被注意到。莱布尼茨对确定这个阈值的方式保持沉默。尽管他经常声称，种类上的差异（虽然与其他种类连续）在无限或无穷小处出现，但这与意识的许多现象存在紧张关系，这些现象显然在某种中等程度的感知差异上出现（就像上面描述的有意识感知光和无意识感知光之间的差异）。这是莱布尼茨提出理论并乐观地认为相关自然因素确定阈值的领域之一，他认为这些因素将在气学科学中被发现（事实上，认知科学在这方面已经取得了一些进展）。
+
+但整体转变已经完成。最初从一个带有道德色彩的概念转变为一个完全心理学概念是由笛卡尔和剑桥柏拉图主义者完成的。在这里，通过笛卡尔派和莱布尼茨，我们看到了对概念进行澄清并提供了一个连贯的分析的尝试。莱布尼茨的论述（以及斯宾诺莎的论述，只要他有一个）将意识视为一个自然现象，应该用自然方式加以解释，因此他努力用潜在的心理表征来解释意识。这与意识的表征性和功能性解释显然有着明显的联系，这些联系一直延续至今。
+
+（有关莱布尼茨的意识主题，请参阅 Barth 2011; Bolton 2011; de Gaudemar 2004; Furth 1967; Jorgensen 2009, 2011a 和 2011b; Kulstad 1990; Thiel 2011（第 9 章第 3 节）; 以及 Simmons 2001 和 2011。）
+
+## Bibliography
+
+### Primary Literature
+
+* Augustine, St., *On Free Choice of the Will*, translated by Thomas Williams, Indianapolis: Hackett, 1993.
+* Arnauld, Antoine, *On True and False Ideas*, translated by Stephen Gaukroger, Manchester: Manchester University Press, 1990.
+* Cudworth, Ralph, *The True Intellectual System of the Universe*, London: Richard Royston, 1678.
+* Descartes, René, *Oeuvres de Descartes*, Charles Adam and Paul Tannery (eds.), 11 volumes, Paris: J. Vrin, 1996. **[AT]**
+* –––, *The Philosophical Writings of Descartes* (Volume 3), translated by John Cottingham, Robert Stoothoff, Dugald Murdoch and Anthony Kenny, Cambridge: Cambridge University Press, 1985. **[CSM]**
+* Desgabets, Robert, *Oeuvres Philosophiques Inédits*, J. Beaude (ed.), 7 volumes, Amsterdam: Quadratures, 1983.
+* Dilly, Antoine, *De l’Ame des Bêtes*, Lyon: Anisson & Posuel, 1676.
+* Hobbes, Thomas, *De Corpore*, William Molesworth (ed.), *The English Works of Thomas Hobbes* (Volume 1), London: John Bohn, 1839.
+* –––, *Leviathan*., J.C.A. Gaskin (ed.), Oxford: Oxford University Press, 1996.
+* Huet, Pierre-Daniel, *Against Cartesian Philosophy*, translated by Thomas M. Lennon, Amherst, NY: Humanity Books, 2003.
+* La Forge, Louis de, *Treatise on the Human Mind*, 1664; translated by Desmond M. Clarke, Dordrecht: Kluwer, 1997.
+* Leibniz, G.W., *New Essays on Human Understanding*, translated by Peter Remnant and Jonathan Bennett, Cambridge: Cambridge University Press, 1996. **[RB]**
+* –––, *Philosophical Essays*, translated by Roger Ariew and Daniel Garber, Indianapolis: Hackett Publishing Co., 1989. **[AG]**
+* Locke, John, *An Essay Concerning Human Understanding*, Peter H. Nidditch (ed.), Oxford: Clarendon Press, 1975.
+* Malebranche, Nicolas, *The Search after Truth*, translated by Thomas M. Lennon and Paul J. Olscamp, Cambridge: Cambridge University Press, 1997. **[*Search*]**
+* Pardies, Ignace Gaston, *Discours de la Conoissance des Bêtes*, Amsterdam: Pierre de Coup, 1724.
+* Régis, Pierre-Silvain, *Cours Entier de Philosophie ou Système Général selon les Principes de M. Descartes*, 3 volumes, New York: Johnson Reprint Corporation, 1970. **[*Système*]**
+* –––, *Réponse au Livre qui a pour Titre “P. Danielis Huetii, … Censura Philosophiae Cartesianae”*, Paris: Jean Cusson, 1691. **[*Réponse*]**
+* Spinoza, *The Collected Works of Spinoza* (Volume 1), translated by Edwin Curley, Princeton, NJ: Princeton University Press, 1986.
+
+### Secondary Literature
+
+* Alanen, Lilli, 2003. *Descartes’s Concept of Mind*, Cambridge, MA: Harvard University Press.
+* Balibar, Etienne, 1992. “A Note on ‘Consciousness/Conscience’ in the *Ethics*,” *Studia Spinozana*, 8: 37–53.
+* Barth, Christian, 2011. “Leibnizian *Conscientia* and its Cartesian Roots,” *Studia Leibnitiana*, 43: 216–36.
+* Bennett, Jonathan, 1984. *A Study of Spinoza’s Ethics*, Indianapolis: Hackett.
+* Bolton, Martha Brandt, 2011. “Leibniz’s Theory of Cognition,” in *The Continuum Companion to Leibniz*, Brandon C. Look (ed.), London: Continuum, 136–58.
+* Brandom, Robert B., 1981. “Leibniz and Degrees of Perception,” *Jounral of the History of Philosophy*, 19: 447–79.
+* Broughon, Janet, 2008. “Self-Knowledge,” in *A Companion to Descartes*, Janet Broughton and John Carriero (eds.), Malden, MA: Blackwell, 179–95.
+* Cook, Monte, 2002. “Robert Desgabet’s Representation Principle,” *Jounral of the History of Philosophy*, 40: 189–200.
+* Coventry, Angela, and Uriah Kriegel, 2008. “Locke on Consciousness,” *History of Philosophy Quarterly*, 25: 221–42.
+* Curley, Edwin, 1988. *Behind the Geometrical Method: A Reading of Spinoza’s Ethics*, Princeton, NJ: Princeton University Press.
+* –––, 1969. *Spinoza’s Metaphysics: An Essay in Interpretation*, Cambridge: Harvard University Press.
+* de Gaudemar, Martine, 2004. “Leibniz: La Notion de Conscience,” in *L’Expérience et la Conscience*, Arles: Actes Sud.
+* Della Rocca, Michael, 1996. *Representation and the Mind-Body Problem in Spinoza*, Oxford: Oxford University Press.
+* –––, 2008. *Spinoza*, London: Routledge.
+* De Rosa, Raffaella, 2010. *Descartes and the Puzzle of Sensory Representation*, Oxford: Oxford University Press.
+* Frost, Samantha, 2005. “Hobbes and the Matter of Self-Consciousness,” *Political Theory*, 33: 495–517.
+* Furth, Montgomery, 1967. “Monadology,” *Philosophical Review*, 76: 169–200.
+* Garrett, Don, 2008. “Representation and Consciousness in Spinoza’s Naturalistic Theory of the Imagination,” in *Interpreting Spinoza*, Charlie Huenemann (ed.), Cambridge: Cambridge University Press, 4–25.
+* Gennaro, Rocco J., 1999. “Leibniz on Consciousness and Self-Consciousness,” in *New Essays on the Rationalists*, Rocco J. Gennaro and Charlie Huenemann (eds.), New York: Oxford University Press, 353–71.
+* Heinämaa, Sara, Vili Lähteenmäki and Pauliina Remes (eds.), 2007. *Consciousness: From Perception to Reflection in the History of Philosophy*, Dordrecht: Springer.
+* Hennig, Boris, 2007. “Cartesian Conscientia,” *British Journal for the History of Philosophy*, 15: 455–84.
+* Jalabert, Jacques, 1946. “La Psychologie de Leibniz,” *Revue Philosophique de la France et de l’Étranger*, 136: 453–72.
+* Jorgensen, Larry M., 2019. *Leibniz’s Naturalized Philosophy of Mind*, Oxford: Oxford University Press.
+* –––, 2011a. “Leibniz on Memory and Consciousness,” *British Journal for the History of Philosophy*, 19: 887–916.
+* –––, 2011b. “Mind the Gap: Reflection and Consciousness in Leibniz,” *Studia Leibnitiana*, 43: 179–95.
+* –––, 2009. “The Principle of Continuity and Leibniz’s Theory of Consciousness,” *Journal of the History of Philosophy*, 47: 223–48.
+* Kulstad, Mark A., 1990. *Leibniz on Apperception, Consciousness and Reflection*, Munich: Philosophia.
+* Lähteenmäki, Vili, 2010. “Cudworth on Types of Consciousness,” *British Journal for the History of Philosophy*, 18: 9–34.
+* –––, 2007. “Orders of Consciousness and Forms of Reflexivity in Descartes,” in *Consciousness: From Perception to Reflection in the History of Philosophy*, Sara Heinämaa, Vili Lähteenmäki and Pauliina Remes (eds.), Dordrecht: Springer, 177–201.
+* LeBuffe, Michael, 2010. “Theories about Consciousness in Spinoza’s *Ethics*,” *Philosophical Review*, 119: 531–63.
+* Lewis, C.S., 1960. “Conscience and Conscious,” in *Studies in Words*, Cambridge: Cambridge University Press.
+* Lewis, Genviève, 1950. *Le Problème de l’Inconscient et le Cartésianisme*, Paris: Presses Universitaires de France.
+* Marshall, Eugene, 2014. *The Spiritual Atuomaton: Spinoza’s Science of the Mind*, Oxford: Oxford University Press.
+* Martin, Christopher, 2007. “Consciousness in Spinoza’s Philosophy of Mind,” *The Southern Journal of Philosophy*, XLV: 269–87.
+* McRae, Robert, 1972. “Descartes’ Definition of Thought,” in *Cartesian Studies*, R.J. Butler (ed.), New York: Bobbs-Merrill.
+* –––, 1976. *Leibniz: Perception, Apperception, and Thought*, Toronto: University of Toronto Press.
+* Miller, Jon, 2007. “The Status of Consciousness in Spinoza’s Concept of Mind,” in *Consciousness: From Perception to Reflection in the History of Philosophy*, Sara Heinämaa, Vili Lähteenmäki and Pauliina Remes (eds.), Dordrecht: Springer, 203–22.
+* Nadler, Steven, 1989. *Arnauld and the Cartesian Philosophy of Ideas*, Princeton, NJ: Princeton University Press.
+* –––, 2008. “Spinoza and Consciousness,” *Mind*, 117: 575–601.
+* Parkinson, G.H.R., 1982. “The ”Intellectualization of Appearances“,” in *Leibniz: Critical and Interpretive Essays*, M. Hooker (ed.), Minneapolis, MN: Minnesota University Press.
+* Radner, Daisie, 1971. “Spinoza’s Theory of Ideas,” *Philosophical Review*, 80: 338–59.
+* –––, 1988. “Thought and Consciousness in Descartes,” *Jounral of the History of Philosophy*, 36: 439–52.
+* Rice, Lee C., 1990. “Reflexive Ideas in Spinoza,” *Jounral of the History of Philosophy*, 28: 201–11.
+* Ross, George Macdonald, 1988. “Hobbes and Descartes on the Relation between Language and Consciousness,” *Synthese*, 75: 217–29.
+* Rozemond, Marleen, 2006. “The Nature of the Mind,” in *The Blackwell Guide to Descartes’ Meditations*, Stephen Gaukroger (ed.), 48–66. Malden, MA: Blackwell.
+* Schmaltz, Tad M., 1996. *Malebranche’s Theory of the Soul*, Oxford: Oxford University Press.
+* –––, 2002. *Radical Cartesianism: The French Reception of Descartes*, Cambridge: Cambridge University Press.
+* Simmons, Alison, 1999. “Are Cartesian Sensations Representational?” *Noûs*, 33: 347–69.
+* –––, 2012. “Cartesian Consciousness Reconsidered,” *Philosophers’ Imprint*, 12(2), [available online](https://quod.lib.umich.edu/p/phimp/3521354.0012.002/--cartesian-consciousness-reconsidered?view=image).
+* –––, 2001. “Changing the Cartesian Mind: Leibniz on Sensation, Representation, and Consciousness,” *Philosophical Review*, 110: 31–75.
+* –––, 2011. “Leibnizian Consciousness Reconsidered,” *Studia Leibnitiana*, 43: 196–215.
+* Thiel, Udo, 1991. “Cudworth and Seventeenth-Century Theories of Consciousness,” in *The Uses of Antiquit*y, Stephen Gaukroger (ed.), Dordrecht: Kluwer, 79–99.
+* –––, 1994. “Leibniz and the Concept of Apperception,” *Archiv für Geschichte der Philosophie*, 76: 195–209.
+* –––, 2011. *The Early Modern Subject: Self-Consciousness and Personal Identity from Descartes to Hume*, Oxford: Oxford University Press.
+* Weinberg, Shelley, 2016. *Consciousness in Locke*, Oxford: Oxford University Press.
+* –––, 2008. “The Coherence of Consciousness in Locke’s ‘Essay’,” *History of Philosophy Quarterly*, 25: 21–39.
+* Wilson, Margaret Dauler, 1999a, “Confused Versus Distinct Perception in Leibniz: Consciousness, Representation, and God’s Mind,” in *Ideas and Mechanism: Essays on Early Modern Philosophy*, 336–52. Princeton, NJ: Princeton University Press.
+* –––, 1999b. “Objects, Ideas, And ”Minds“: Comments on Spinoza’s Theory of Mind,” in *Ideas and Mechanism: Essays on Early Modern Philosophy*, Princeton, NJ: Princeton University Press, 126–40.
+* –––, 1978. *Descartes*, London: Routledge.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=consciousness-17th). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/consciousness-17th/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=consciousness-17th&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/consciousness-17th/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Early English Books Online](http://eebo.chadwyck.com/home) and [Gallica](http://gallica.bnf.fr/) have online facsimiles of many seventeenth-century texts, including some of the ones cited above.
+
+## Related Entries
+
+[animal: consciousness](https://plato.stanford.edu/entries/consciousness-animal/) | [Arnauld, Antoine](https://plato.stanford.edu/entries/arnauld/) | [Cambridge Platonists](https://plato.stanford.edu/entries/cambridge-platonists/) | [consciousness](https://plato.stanford.edu/entries/consciousness/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Descartes, René: theory of ideas](https://plato.stanford.edu/entries/descartes-ideas/) | [Desgabets, Robert](https://plato.stanford.edu/entries/desgabets/) | [Hobbes, Thomas](https://plato.stanford.edu/entries/hobbes/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Leibniz, Gottfried Wilhelm: philosophy of mind](https://plato.stanford.edu/entries/leibniz-mind/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [Spinoza, Baruch: psychological theory](https://plato.stanford.edu/entries/spinoza-psychological/)
+
+### Acknowledgements
+
+I would like to thank Alison Simmons and Samuel Newlands for their helpful suggestions on the Descartes and Spinoza sections respectively.
+
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
+Larry M. Jorgensen <[*ljorgens@skidmore.edu*](mailto:ljorgens%40skidmore%2eedu)>
