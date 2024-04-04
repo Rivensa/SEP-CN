@@ -655,4 +655,4 @@
 * [罗伯特·戴加贝 Desgabets, Robert (Patricia Easton)](d/luo-bo-te-dai-jia-bei-desgabets-robert-patricia-easton.md)
 * [\*设计论证——目的论：关于上帝存在的目的论论证 design, argument from — see teleology: teleological arguments for God’s existence](d/she-ji-lun-zheng-mu-de-lun-guan-yu-shang-di-cun-zai-de-mu-de-lun-lun-zheng-design-argument-from-see.md)
 * [欲望 desire (Tim Schroeder)](d/yu-wang-desire-tim-schroeder.md)
-* [可确定与确定性 determinates and determinables (Jessica Wilson)](d/ke-que-ding-yu-que-ding-xing-determinates-and-determinables-jessica-wilson.md)
+* [确定物与可确定物 determinates and determinables (Jessica Wilson)](d/que-ding-wu-yu-ke-que-ding-wu-determinates-and-determinables-jessica-wilson.md)

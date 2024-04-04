@@ -1,39 +1,36 @@
 # 批判性思维 critical thinking (David Hitchcock)
 
-*首次发布于 2018 年 7 月 21 日星期六；实质性修订于 2022 年 10 月 12 日星期三*
+_首次发布于 2018 年 7 月 21 日星期六；实质性修订于 2022 年 10 月 12 日星期三_
 
 批判性思维是一个被广泛接受的教育目标。其定义备受争议，但竞争性定义可以理解为对一个目标进行谨慎思考的不同概念：有目的的仔细思考。这些概念在这种思考的范围、目标类型、仔细思考的标准和规范以及它们关注的思维组成部分方面存在差异。将其作为教育目标的采纳是基于对学生自主权的尊重以及为了让学生成功地生活和成为民主公民而推荐的。“批判性思考者”具有在适当时进行批判性思考的性格和能力。这些能力可以直接识别；性格可以间接识别，通过考虑哪些因素有助于或妨碍这些能力的发挥。已经开发了标准化测试来评估一个人拥有这种性格和能力的程度。教育干预在实验中已被证明可以改善它们，特别是当它包括对话、锚定式教学和指导时。关于批判性思维在不同领域的普适性、批判性思维理论和教学中的所谓偏见以及批判性思维与其他类型思维之间的关系已经引起争议。
 
-* [ 1. 历史](https://plato.stanford.edu/entries/critical-thinking/#Hist)
+* [1. 历史](https://plato.stanford.edu/entries/critical-thinking/#Hist)
 * [2. 示例和非示例](https://plato.stanford.edu/entries/critical-thinking/#ExamNonExam)
-
   * [2.1 杜威的三个主要示例](https://plato.stanford.edu/entries/critical-thinking/#DeweThreMainExam)
   * [2.2 杜威的其他示例](https://plato.stanford.edu/entries/critical-thinking/#DeweOtheExam)
-  * [ 2.3 更多例子](https://plato.stanford.edu/entries/critical-thinking/#FurtExam)
-  * [ 2.4 非例子](https://plato.stanford.edu/entries/critical-thinking/#NonExam)
+  * [2.3 更多例子](https://plato.stanford.edu/entries/critical-thinking/#FurtExam)
+  * [2.4 非例子](https://plato.stanford.edu/entries/critical-thinking/#NonExam)
 * [3. 批判性思维的定义](https://plato.stanford.edu/entries/critical-thinking/#DefiCritThin)
-* [ 4. 它的价值](https://plato.stanford.edu/entries/critical-thinking/#Valu)
+* [4. 它的价值](https://plato.stanford.edu/entries/critical-thinking/#Valu)
 * [5. 批判性思维的过程](https://plato.stanford.edu/entries/critical-thinking/#ProcThinCrit)
 * [6. 过程的组成部分](https://plato.stanford.edu/entries/critical-thinking/#CompProc)
 * [7. 贡献性倾向和能力](https://plato.stanford.edu/entries/critical-thinking/#ContDispAbil)
 * [8. 批判性思维倾向](https://plato.stanford.edu/entries/critical-thinking/#CritThinDisp)
-
   * [8.1 启动倾向](https://plato.stanford.edu/entries/critical-thinking/#InitDisp)
   * [8.2 内在倾向](https://plato.stanford.edu/entries/critical-thinking/#InteDisp)
 * [9. 批判性思维能力](https://plato.stanford.edu/entries/critical-thinking/#CritThinAbil)
-* [ 10. 必备知识](https://plato.stanford.edu/entries/critical-thinking/#RequKnow)
-* [ 11. 教育方法](https://plato.stanford.edu/entries/critical-thinking/#EducMeth)
-* [ 12. 争议](https://plato.stanford.edu/entries/critical-thinking/#Cont)
-
+* [10. 必备知识](https://plato.stanford.edu/entries/critical-thinking/#RequKnow)
+* [11. 教育方法](https://plato.stanford.edu/entries/critical-thinking/#EducMeth)
+* [12. 争议](https://plato.stanford.edu/entries/critical-thinking/#Cont)
   * [12.1 批判性思维的普适性](https://plato.stanford.edu/entries/critical-thinking/#GeneCritThin)
   * [12.2 批判性思维理论和教学中的偏见](https://plato.stanford.edu/entries/critical-thinking/#BiasCritThinTheoPeda)
   * [12.3 批判性思维与其他类型思维的关系](https://plato.stanford.edu/entries/critical-thinking/#RelaCritThinOtheTypeThin)
-* [ 参考文献](https://plato.stanford.edu/entries/critical-thinking/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/critical-thinking/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/critical-thinking/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/critical-thinking/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/critical-thinking/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/critical-thinking/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/critical-thinking/#Rel)
 
----
+***
 
 ## 1. 历史
 
@@ -95,7 +92,7 @@
 
 ### 2.4 非例子
 
-对一个自己提出的解决问题的想法（例如，对事件或现象的可能解释，似乎可能产生期望结果的行动）的立即接受是“非批判性思维，反思的最低限度”（杜威 1910 年：13）。在对可能解决方案存在疑虑的情况下持续暂停判断并不是批判性思维（杜威 1910 年：108）。由教条主义政治或宗教意识形态驱动的批判性思维并不是批判性思维；因此，保罗·弗莱雷（1968 [1970]）在更具政治含义的意义上使用这个术语（例如，在 1970 年：71、81、100、146 处），这不仅包括反思，还包括反对压迫的革命行动。从给定数据中使用算法推导结论并不是批判性思维。
+对一个自己提出的解决问题的想法（例如，对事件或现象的可能解释，似乎可能产生期望结果的行动）的立即接受是“非批判性思维，反思的最低限度”（杜威 1910 年：13）。在对可能解决方案存在疑虑的情况下持续暂停判断并不是批判性思维（杜威 1910 年：108）。由教条主义政治或宗教意识形态驱动的批判性思维并不是批判性思维；因此，保罗·弗莱雷（1968 \[1970]）在更具政治含义的意义上使用这个术语（例如，在 1970 年：71、81、100、146 处），这不仅包括反思，还包括反对压迫的革命行动。从给定数据中使用算法推导结论并不是批判性思维。
 
 ## 3. 批判性思维的定义
 
@@ -283,7 +280,7 @@ Alston（2001）报告说，她在一门妇女研究课上的学生能够看到�
 * 培养与主题的亲近感，与他人建立联系，以促进人道民主（Martin 1992）。
 * 将“建设性思维”发展为社会活动，成为一个由具有个人声音的身体化和社会嵌入式探究者组成的社区，他们不仅重视理性，还重视想象力、直觉和情感（Thayer-Bacon 2000）。
 * 在学科中培养批判性思维时，不要将技能或倾向视为重要，而是要打开意义的世界（Alston 2001）。
-* 要关注批判性思维倾向和技能的发展，并采用弗雷尔（1968 [1970]）和胡克斯（1994）实践和倡导的“批判性教育”（Dalgleish，Girard 和 Davies 2017）。
+* 要关注批判性思维倾向和技能的发展，并采用弗雷尔（1968 \[1970]）和胡克斯（1994）实践和倡导的“批判性教育”（Dalgleish，Girard 和 Davies 2017）。
 
 这些建议中的共同主题是将批判性思维视为一种社会性、互动性、个人参与的活动，就像编织蜂或筑堡一样（Thayer-Bacon 2000），而不是像罗丹的《思考者》所象征的个人、孤立、疏远的活动。从贝尔·胡克斯（1994，2010）的著作中，可以得到对前一种目标教育的生动描述。对她来说，批判性思维是跨越对立立场和多重视角进行开放式辩证交流，这种概念类似于保罗的“强烈意义”批判性思维（Paul 1981）。她放弃了传统课堂中的支配结构。例如，在一门关于黑人女作家的入门课程中，她要求学生写一段关于早期种族记忆的自传段落，然后大声朗读，其他人倾听，从而肯定每个声音的独特性和价值，并创造出对群体经历多样性的共同意识（hooks 1994: 84）。她的“参与式教学”与 20 世纪末和 21 世纪初芝加哥约翰·杜威实验学校实施的“指导下的自由”类似。它包括对话、锚定指导和指导，这是 Abrami（2015）发现对改善批判性思维技能和倾向最有效的方法。
 
@@ -297,183 +294,183 @@ Alston（2001）报告说，她在一门妇女研究课上的学生能够看到�
 
 ## Bibliography
 
-* Abrami, Philip C., Robert M. Bernard, Eugene Borokhovski, David I. Waddington, C. Anne Wade, and Tonje Person, 2015, “Strategies for Teaching Students to Think Critically: A Meta-analysis”, *Review of Educational Research*, 85(2): 275–314. doi:10.3102/0034654314551063
-* Aikin, Wilford M., 1942, *The Story of the Eight-year Study, with Conclusions and Recommendations*, Volume I of *Adventure in American Education*, New York and London: Harper & Brothers. [[Aikin 1942 available online](http://archive.org/details/storyoftheeighty009637mbp)]
-* Alston, Kal, 1995, “Begging the Question: Is Critical Thinking Biased?”, *Educational Theory*, 45(2): 225–233. doi:10.1111/j.1741-5446.1995.00225.x
-* –––, 2001, “Re/Thinking Critical Thinking: The Seductions of Everyday Life”, *Studies in Philosophy and Education*, 20(1): 27–40. doi:10.1023/A:1005247128053
-* American Educational Research Association, 2014, *Standards for Educational and Psychological Testing / American Educational Research Association, American Psychological Association, National Council on Measurement in Education*, Washington, DC: American Educational Research Association.
-* Anderson, Lorin W., David R. Krathwohl, Peter W. Airiasian, Kathleen A. Cruikshank, Richard E. Mayer, Paul R. Pintrich, James Raths, and Merlin C. Wittrock, 2001, *A Taxonomy for Learning, Teaching and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives*, New York: Longman, complete edition.
-* Bailin, Sharon, 1987, “Critical and Creative Thinking”, *Informal Logic*, 9(1): 23–30. [[Bailin 1987 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2656/2097)]
-* –––, 1988, *Achieving Extraordinary Ends: An Essay on Creativity*, Dordrecht: Kluwer. doi:10.1007/978-94-009-2780-3
-* –––, 1995, “Is Critical Thinking Biased? Clarifications and Implications”, *Educational Theory*, 45(2): 191–197. doi:10.1111/j.1741-5446.1995.00191.x
-* Bailin, Sharon and Mark Battersby, 2009, “Inquiry: A Dialectical Approach to Teaching Critical Thinking”, in Juho Ritola (ed.), *Argument Cultures: Proceedings of OSSA 09*, CD-ROM (pp. 1–10), Windsor, ON: OSSA. [[Bailin & Battersby 2009 available online](https://scholar.uwindsor.ca/ossaarchive/OSSA8/papersandcommentaries/9)]
-* –––, 2016a, “Fostering the Virtues of Inquiry”, *Topoi*, 35(2): 367–374. doi:10.1007/s11245-015-9307-6
-* –––, 2016b, *Reason in the Balance: An Inquiry Approach to Critical Thinking*, Indianapolis: Hackett, 2nd edition.
-* –––, 2021, “Inquiry: Teaching for Reasoned Judgment”, in Daniel Fasko, Jr. and Frank Fair (eds.), *Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment*, Leiden: Brill, pp. 31–46. doi: 10.1163/9789004444591_003
-* Bailin, Sharon, Roland Case, Jerrold R. Coombs, and Leroi B. Daniels, 1999a, “Common Misconceptions of Critical Thinking”, *Journal of Curriculum Studies*, 31(3): 269–283. doi:10.1080/002202799183124
-* –––, 1999b, “Conceptualizing Critical Thinking”, *Journal of Curriculum Studies*, 31(3): 285–302. doi:10.1080/002202799183133
-* Blair, J. Anthony, 2021, *Studies in Critical Thinking*, Windsor, ON: Windsor Studies in Argumentation, 2nd edition. [Available online at https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/book/106]
-* Berman, Alan M., Seth J. Schwartz, William M. Kurtines, and Steven L. Berman, 2001, “The Process of Exploration in Identity Formation: The Role of Style and Competence”, *Journal of Adolescence*, 24(4): 513–528. doi:10.1006/jado.2001.0386
-* Black, Beth (ed.), 2012, *An A to Z of Critical Thinking*, London: Continuum International Publishing Group.
-* Bloom, Benjamin Samuel, Max D. Engelhart, Edward J. Furst, Walter H. Hill, and David R. Krathwohl, 1956, *Taxonomy of Educational Objectives. Handbook I: Cognitive Domain*, New York: David McKay.
-* Boardman, Frank, Nancy M. Cavender, and Howard Kahane, 2018, *Logic and Contemporary Rhetoric: The Use of Reason in Everyday Life*, Boston: Cengage, 13th edition.
-* Browne, M. Neil and Stuart M. Keeley, 2018, *Asking the Right Questions: A Guide to Critical Thinking*, Hoboken, NJ: Pearson, 12th edition.
-* Center for Assessment & Improvement of Learning, 2017, *Critical Thinking Assessment Test*, Cookeville, TN: Tennessee Technological University.
-* Cleghorn, Paul. 2021. “Critical Thinking in the Elementary School: Practical Guidance for Building a Culture of Thinking”, in Daniel Fasko, Jr. and Frank Fair (eds.), *Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessmen*t, Leiden: Brill, pp. 150–167. doi: 10.1163/9789004444591_010
-* Cohen, Jacob, 1988, *Statistical Power Analysis for the Behavioral Sciences*, Hillsdale, NJ: Lawrence Erlbaum Associates, 2nd edition.
-* College Board, 1983, *Academic Preparation for College. What Students Need to Know and Be Able to Do*, New York: College Entrance Examination Board, ERIC document ED232517.
-* Commission on the Relation of School and College of the Progressive Education Association, 1943, *Thirty Schools Tell Their Story*, Volume V of *Adventure in American Education*, New York and London: Harper & Brothers.
-* Council for Aid to Education, 2017, *CLA+ Student Guide*. Available at [http://cae.org/images/uploads/pdf/CLA_Student_Guide_Institution.pdf](https://web.archive.org/web/20150918194036/http://cae.org/images/uploads/pdf/CLA_Student_Guide_Institution.pdf); last accessed 2022 07 16.
-* Dalgleish, Adam, Patrick Girard, and Maree Davies, 2017, “Critical Thinking, Bias and Feminist Philosophy: Building a Better Framework through Collaboration”, *Informal Logic*, 37(4): 351–369. [[Dalgleish et al. available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/4794/4282)]
-* Dewey, John, 1910, *How We Think*, Boston: D.C. Heath. [[Dewey 1910 available online](http://archive.org/details/howwethink000838mbp)]
-* –––, 1916, *Democracy and Education: An Introduction to the Philosophy of Education*, New York: Macmillan.
-* –––, 1933, *How We Think: A Restatement of the Relation of Reflective Thinking to the Educative Process*, Lexington, MA: D.C. Heath.
+* Abrami, Philip C., Robert M. Bernard, Eugene Borokhovski, David I. Waddington, C. Anne Wade, and Tonje Person, 2015, “Strategies for Teaching Students to Think Critically: A Meta-analysis”, _Review of Educational Research_, 85(2): 275–314. doi:10.3102/0034654314551063
+* Aikin, Wilford M., 1942, _The Story of the Eight-year Study, with Conclusions and Recommendations_, Volume I of _Adventure in American Education_, New York and London: Harper & Brothers. \[[Aikin 1942 available online](http://archive.org/details/storyoftheeighty009637mbp)]
+* Alston, Kal, 1995, “Begging the Question: Is Critical Thinking Biased?”, _Educational Theory_, 45(2): 225–233. doi:10.1111/j.1741-5446.1995.00225.x
+* –––, 2001, “Re/Thinking Critical Thinking: The Seductions of Everyday Life”, _Studies in Philosophy and Education_, 20(1): 27–40. doi:10.1023/A:1005247128053
+* American Educational Research Association, 2014, _Standards for Educational and Psychological Testing / American Educational Research Association, American Psychological Association, National Council on Measurement in Education_, Washington, DC: American Educational Research Association.
+* Anderson, Lorin W., David R. Krathwohl, Peter W. Airiasian, Kathleen A. Cruikshank, Richard E. Mayer, Paul R. Pintrich, James Raths, and Merlin C. Wittrock, 2001, _A Taxonomy for Learning, Teaching and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives_, New York: Longman, complete edition.
+* Bailin, Sharon, 1987, “Critical and Creative Thinking”, _Informal Logic_, 9(1): 23–30. \[[Bailin 1987 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/2656/2097)]
+* –––, 1988, _Achieving Extraordinary Ends: An Essay on Creativity_, Dordrecht: Kluwer. doi:10.1007/978-94-009-2780-3
+* –––, 1995, “Is Critical Thinking Biased? Clarifications and Implications”, _Educational Theory_, 45(2): 191–197. doi:10.1111/j.1741-5446.1995.00191.x
+* Bailin, Sharon and Mark Battersby, 2009, “Inquiry: A Dialectical Approach to Teaching Critical Thinking”, in Juho Ritola (ed.), _Argument Cultures: Proceedings of OSSA 09_, CD-ROM (pp. 1–10), Windsor, ON: OSSA. \[[Bailin & Battersby 2009 available online](https://scholar.uwindsor.ca/ossaarchive/OSSA8/papersandcommentaries/9)]
+* –––, 2016a, “Fostering the Virtues of Inquiry”, _Topoi_, 35(2): 367–374. doi:10.1007/s11245-015-9307-6
+* –––, 2016b, _Reason in the Balance: An Inquiry Approach to Critical Thinking_, Indianapolis: Hackett, 2nd edition.
+* –––, 2021, “Inquiry: Teaching for Reasoned Judgment”, in Daniel Fasko, Jr. and Frank Fair (eds.), _Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment_, Leiden: Brill, pp. 31–46. doi: 10.1163/9789004444591\_003
+* Bailin, Sharon, Roland Case, Jerrold R. Coombs, and Leroi B. Daniels, 1999a, “Common Misconceptions of Critical Thinking”, _Journal of Curriculum Studies_, 31(3): 269–283. doi:10.1080/002202799183124
+* –––, 1999b, “Conceptualizing Critical Thinking”, _Journal of Curriculum Studies_, 31(3): 285–302. doi:10.1080/002202799183133
+* Blair, J. Anthony, 2021, _Studies in Critical Thinking_, Windsor, ON: Windsor Studies in Argumentation, 2nd edition. \[Available online at https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/book/106]
+* Berman, Alan M., Seth J. Schwartz, William M. Kurtines, and Steven L. Berman, 2001, “The Process of Exploration in Identity Formation: The Role of Style and Competence”, _Journal of Adolescence_, 24(4): 513–528. doi:10.1006/jado.2001.0386
+* Black, Beth (ed.), 2012, _An A to Z of Critical Thinking_, London: Continuum International Publishing Group.
+* Bloom, Benjamin Samuel, Max D. Engelhart, Edward J. Furst, Walter H. Hill, and David R. Krathwohl, 1956, _Taxonomy of Educational Objectives. Handbook I: Cognitive Domain_, New York: David McKay.
+* Boardman, Frank, Nancy M. Cavender, and Howard Kahane, 2018, _Logic and Contemporary Rhetoric: The Use of Reason in Everyday Life_, Boston: Cengage, 13th edition.
+* Browne, M. Neil and Stuart M. Keeley, 2018, _Asking the Right Questions: A Guide to Critical Thinking_, Hoboken, NJ: Pearson, 12th edition.
+* Center for Assessment & Improvement of Learning, 2017, _Critical Thinking Assessment Test_, Cookeville, TN: Tennessee Technological University.
+* Cleghorn, Paul. 2021. “Critical Thinking in the Elementary School: Practical Guidance for Building a Culture of Thinking”, in Daniel Fasko, Jr. and Frank Fair (eds.), _Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessmen_t, Leiden: Brill, pp. 150–167. doi: 10.1163/9789004444591\_010
+* Cohen, Jacob, 1988, _Statistical Power Analysis for the Behavioral Sciences_, Hillsdale, NJ: Lawrence Erlbaum Associates, 2nd edition.
+* College Board, 1983, _Academic Preparation for College. What Students Need to Know and Be Able to Do_, New York: College Entrance Examination Board, ERIC document ED232517.
+* Commission on the Relation of School and College of the Progressive Education Association, 1943, _Thirty Schools Tell Their Story_, Volume V of _Adventure in American Education_, New York and London: Harper & Brothers.
+* Council for Aid to Education, 2017, _CLA+ Student Guide_. Available at [http://cae.org/images/uploads/pdf/CLA\_Student\_Guide\_Institution.pdf](https://web.archive.org/web/20150918194036/http://cae.org/images/uploads/pdf/CLA\_Student\_Guide\_Institution.pdf); last accessed 2022 07 16.
+* Dalgleish, Adam, Patrick Girard, and Maree Davies, 2017, “Critical Thinking, Bias and Feminist Philosophy: Building a Better Framework through Collaboration”, _Informal Logic_, 37(4): 351–369. \[[Dalgleish et al. available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/4794/4282)]
+* Dewey, John, 1910, _How We Think_, Boston: D.C. Heath. \[[Dewey 1910 available online](http://archive.org/details/howwethink000838mbp)]
+* –––, 1916, _Democracy and Education: An Introduction to the Philosophy of Education_, New York: Macmillan.
+* –––, 1933, _How We Think: A Restatement of the Relation of Reflective Thinking to the Educative Process_, Lexington, MA: D.C. Heath.
 * –––, 1936, “The Theory of the Chicago Experiment”, Appendix II of Mayhew & Edwards 1936: 463–477.
-* –––, 1938, *Logic: The Theory of Inquiry*, New York: Henry Holt and Company.
-* Dominguez, Caroline (coord.), 2018a, *A European Collection of the Critical Thinking Skills and Dispositions Needed in Different Professional Fields for the 21st Century*, Vila Real, Portugal: UTAD. Available at http://bit.ly/CRITHINKEDUO1; last accessed 2022 07 16.
-* ––– (coord.), 2018b, *A European Review on Critical Thinking Educational Practices in Higher Education Institutions*, Vila Real: UTAD. Available at [CRITHINKEDU_O2 (ebook).pdf - Google 云端硬盘](http://bit.ly/CRITHINKEDUO2); last accessed 2022 07 16.
-* ––– (coord.), 2018c, *The CRITHINKEDU European Course on Critical Thinking Education for University Teachers: From Conception to Delivery*, Vila Real: UTAD. Available at http:/bit.ly/CRITHINKEDU03; last accessed 2022 07 16.
-* Dominguez Caroline and Rita Payan-Carreira (eds.), 2019, *Promoting Critical Thinking in European Higher Education Institutions: Towards an Educational Protocol*, Vila Real: UTAD. Available at http:/bit.ly/CRITHINKEDU04; last accessed 2022 07 16.
-* Ennis, Robert H., 1958, “An Appraisal of the Watson-Glaser Critical Thinking Appraisal”, *The Journal of Educational Research*, 52(4): 155–158. doi:10.1080/00220671.1958.10882558
-* –––, 1962, “A Concept of Critical Thinking: A Proposed Basis for Research on the Teaching and Evaluation of Critical Thinking Ability”, *Harvard Educational Review*, 32(1): 81–111.
-* –––, 1981a, “A Conception of Deductive Logical Competence”, *Teaching Philosophy*, 4(3/4): 337–385. doi:10.5840/teachphil198143/429
-* –––, 1981b, “Eight Fallacies in Bloom’s Taxonomy”, in C. J. B. Macmillan (ed.), *Philosophy of Education 1980: Proceedings of the Thirty-seventh Annual Meeting of the Philosophy of Education Society*, Bloomington, IL: Philosophy of Education Society, pp. 269–273.
-* –––, 1984, “Problems in Testing Informal Logic, Critical Thinking, Reasoning Ability”, *Informal Logic*, 6(1): 3–9. [[Ennis 1984 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2717/2158)]
-* –––, 1987, “A Taxonomy of Critical Thinking Dispositions and Abilities”, in Joan Boykoff Baron and Robert J. Sternberg (eds.), *Teaching Thinking Skills: Theory and Practice*, New York: W. H. Freeman, pp. 9–26.
-* –––, 1989, “Critical Thinking and Subject Specificity: Clarification and Needed Research”, *Educational Researcher*, 18(3): 4–10. doi:10.3102/0013189X018003004
-* –––, 1991, “Critical Thinking: A Streamlined Conception”, *Teaching Philosophy*, 14(1): 5–24. doi:10.5840/teachphil19911412
-* –––, 1996, “Critical Thinking Dispositions: Their Nature and Assessability”, *Informal Logic*, 18(2–3): 165–182. [[Ennis 1996 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2378/1820)]
-* –––, 1998, “Is Critical Thinking Culturally Biased?”, *Teaching Philosophy*, 21(1): 15–33. doi:10.5840/teachphil19982113
-* –––, 2011, “Critical Thinking: Reflection and Perspective Part I”, *Inquiry: Critical Thinking across the Disciplines*, 26(1): 4–18. doi:10.5840/inquiryctnews20112613
-* –––, 2013, “Critical Thinking across the Curriculum: The Wisdom CTAC Program”, *Inquiry: Critical Thinking across the Disciplines*, 28(2): 25–45. doi:10.5840/inquiryct20132828
-* –––, 2016, “Definition: A Three-Dimensional Analysis with Bearing on Key Concepts”, in Patrick Bondy and Laura Benacquista (eds.), *Argumentation, Objectivity, and Bias: Proceedings of the 11th International Conference of the Ontario Society for the Study of Argumentation (OSSA), 18–21 May 2016*, Windsor, ON: OSSA, pp. 1–19. Available at [Scholarship at UWindsor - OSSA Conference Archive: Definition: A Three-Dimensional Analysis with Bearing on Key Concepts](http://scholar.uwindsor.ca/ossaarchive/OSSA11/papersandcommentaries/105); last accessed 2022 07 16.
-* –––, 2018, “Critical Thinking Across the Curriculum: A Vision”, *Topoi*, 37(1): 165–184. doi:10.1007/s11245-016-9401-4
-* Ennis, Robert H., and Jason Millman, 1971, *Manual for Cornell Critical Thinking Test, Level X, and Cornell Critical Thinking Test, Level Z*, Urbana, IL: Critical Thinking Project, University of Illinois.
-* Ennis, Robert H., Jason Millman, and Thomas Norbert Tomko, 1985, *Cornell Critical Thinking Tests Level X & Level Z: Manual*, Pacific Grove, CA: Midwest Publication, 3rd edition.
-* –––, 2005, *Cornell Critical Thinking Tests Level X & Level Z: Manual*, Seaside, CA: Critical Thinking Company, 5th edition.
-* Ennis, Robert H. and Eric Weir, 1985, *The Ennis-Weir Critical Thinking Essay Test: Test, Manual, Criteria, Scoring Sheet: An Instrument for Teaching and Testing*, Pacific Grove, CA: Midwest Publications.
-* Facione, Peter A., 1990a, *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction*, Research Findings and Recommendations Prepared for the Committee on Pre-College Philosophy of the American Philosophical Association, ERIC Document ED315423.
-* –––, 1990b, *California Critical Thinking Skills Test, CCTST – Form A*, Millbrae, CA: The California Academic Press.
-* –––, 1990c, *The California Critical Thinking Skills Test--College Level. Technical Report #3. Gender, Ethnicity, Major, CT Self-Esteem, and the CCTST*, ERIC Document ED326584.
-* –––, 1992, *California Critical Thinking Skills Test: CCTST – Form B,* Millbrae, CA: The California Academic Press.
-* –––, 2000, “The Disposition Toward Critical Thinking: Its Character, Measurement, and Relationship to Critical Thinking Skill”, *Informal Logic*, 20(1): 61–84. [[Facione 2000 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2254/1698)]
-* Facione, Peter A. and Noreen C. Facione, 1992, *CCTDI: A Disposition Inventory*, Millbrae, CA: The California Academic Press.
-* Facione, Peter A., Noreen C. Facione, and Carol Ann F. Giancarlo, 2001, *California Critical Thinking Disposition Inventory: CCTDI: Inventory Manual*, Millbrae, CA: The California Academic Press.
-* Facione, Peter A., Carol A. Sánchez, and Noreen C. Facione, 1994, *Are College Students Disposed to Think?*, Millbrae, CA: The California Academic Press. ERIC Document ED368311.
-* Fisher, Alec, and Michael Scriven, 1997, *Critical Thinking: Its Definition and Assessment*, Norwich: Centre for Research in Critical Thinking, University of East Anglia.
-* Freire, Paulo, 1968 [1970], *Pedagogia do Oprimido*. Translated as *Pedagogy of the Oppressed*, Myra Bergman Ramos (trans.), New York: Continuum, 1970.
-* Gigerenzer, Gerd, 2001, “The Adaptive Toolbox”, in Gerd Gigerenzer and Reinhard Selten (eds.), *Bounded Rationality: The Adaptive Toolbox*, Cambridge, MA: MIT Press, pp. 37–50.
-* Glaser, Edward Maynard, 1941, *An Experiment in the Development of Critical Thinking*, New York: Bureau of Publications, Teachers College, Columbia University.
-* Groarke, Leo A. and Christopher W. Tindale, 2012, *Good Reasoning Matters! A Constructive Approach to Critical Thinking*, Don Mills, ON: Oxford University Press, 5th edition.
-* Halpern, Diane F., 1998, “Teaching Critical Thinking for Transfer Across Domains: Disposition, Skills, Structure Training, and Metacognitive Monitoring”, *American Psychologist*, 53(4): 449–455. doi:10.1037/0003-066X.53.4.449
-* –––, 2016, *Manual: Halpern Critical Thinking Assessment*, Mödling, Austria: Schuhfried. Available at https://pdfcoffee.com/hcta-test-manual-pdf-free.html; last accessed 2022 07 16.
-* Hamby, Benjamin, 2014, *The Virtues of Critical Thinkers*, Doctoral dissertation, Philosophy, McMaster University. [[Hamby 2014 available online](http://hdl.handle.net/11375/15847)]
-* –––, 2015, “Willingness to Inquire: The Cardinal Critical Thinking Virtue”, in Martin Davies and Ronald Barnett (eds.), *The Palgrave Handbook of Critical Thinking in Higher Education*, New York: Palgrave Macmillan, pp. 77–87.
-* Haran, Uriel, Ilana Ritov, and Barbara A. Mellers, 2013, “The Role of Actively Open-minded Thinking in Information Acquisition, Accuracy, and Calibration”, *Judgment and Decision Making*, 8(3): 188–201.
-* Hatcher, Donald and Kevin Possin, 2021, “Commentary: Thinking Critically about Critical Thinking Assessment”, in Daniel Fasko, Jr. and Frank Fair (eds.), *Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment*, Leiden: Brill, pp. 298–322. doi: 10.1163/9789004444591_017
-* Haynes, Ada, Elizabeth Lisic, Kevin Harris, Katie Leming, Kyle Shanks, and Barry Stein, 2015, “Using the Critical Thinking Assessment Test (CAT) as a Model for Designing Within-Course Assessments: Changing How Faculty Assess Student Learning”, *Inquiry: Critical Thinking Across the Disciplines*, 30(3): 38–48. doi:10.5840/inquiryct201530316
-* Haynes, Ada and Barry Stein, 2021, “Observations from a Long-Term Effort to Assess and Improve Critical Thinking”, in Daniel Fasko, Jr. and Frank Fair (eds.), *Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment*, Leiden: Brill, pp. 231–254. doi: 10.1163/9789004444591_014
-* Hiner, Amanda L. 2021. “Equipping Students for Success in College and Beyond: Placing Critical Thinking Instruction at the Heart of a General Education Program”, in Daniel Fasko, Jr. and Frank Fair (eds.), *Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment*, Leiden: Brill, pp. 188–208. doi: 10.1163/9789004444591_012
-* Hitchcock, David, 2017, “Critical Thinking as an Educational Ideal”, in his *On Reasoning and Argument: Essays in Informal Logic and on Critical Thinking*, Dordrecht: Springer, pp. 477–497. doi:10.1007/978-3-319-53562-3_30
-* –––, 2021, “Seven Philosophical Implications of Critical Thinking: Themes, Variations, Implications”, in Daniel Fasko, Jr. and Frank Fair (eds.), *Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment*, Leiden: Brill, pp. 9–30. doi: 10.1163/9789004444591_002
-* hooks, bell, 1994, *Teaching to Transgress: Education as the Practice of Freedom*, New York and London: Routledge.
-* –––, 2010, *Teaching Critical Thinking: Practical Wisdom*, New York and London: Routledge.
-* Johnson, Ralph H., 1992, “The Problem of Defining Critical Thinking”, in Stephen P, Norris (ed.), *The Generalizability of Critical Thinking*, New York: Teachers College Press, pp. 38–53.
-* Kahane, Howard, 1971, *Logic and Contemporary Rhetoric: The Use of Reason in Everyday Life*, Belmont, CA: Wadsworth.
-* Kahneman, Daniel, 2011, *Thinking, Fast and Slow*, New York: Farrar, Straus and Giroux.
-* Kahneman, Daniel, Olivier Sibony, & Cass R. Sunstein, 2021, *Noise: A Flaw in Human Judgment*, New York: Little, Brown Spark.
-* Kenyon, Tim, and Guillaume Beaulac, 2014, “Critical Thinking Education and Debasing”, *Informal Logic*, 34(4): 341–363. [[Kenyon & Beaulac 2014 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/4203/3339)]
-* Krathwohl, David R., Benjamin S. Bloom, and Bertram B. Masia, 1964, *Taxonomy of Educational Objectives, Handbook II: Affective Domain*, New York: David McKay.
-* Kuhn, Deanna, 1991, *The Skills of Argument*, New York: Cambridge University Press. doi:10.1017/CBO9780511571350
-* –––, 2019, “Critical Thinking as Discourse”, *Human Development,* 62 (3): 146–164. doi:10.1159/000500171
-* Lipman, Matthew, 1987, “Critical Thinking–What Can It Be?”, *Analytic Teaching*, 8(1): 5–12. [[Lipman 1987 available online](https://journal.viterbo.edu/index.php/at/article/view/403)]
-* –––, 2003, *Thinking in Education*, Cambridge: Cambridge University Press, 2nd edition.
-* Loftus, Elizabeth F., 2017, “Eavesdropping on Memory”, *Annual Review of Psychology*, 68: 1–18. doi:10.1146/annurev-psych-010416-044138
-* Makaiau, Amber Strong, 2021, “The Good Thinker’s Tool Kit: How to Engage Critical Thinking and Reasoning in Secondary Education”, in Daniel Fasko, Jr. and Frank Fair (eds.), *Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment*, Leiden: Brill, pp. 168–187. doi: 10.1163/9789004444591_011
-* Martin, Jane Roland, 1992, “Critical Thinking for a Humane World”, in Stephen P. Norris (ed.), *The Generalizability of Critical Thinking*, New York: Teachers College Press, pp. 163–180.
-* Mayhew, Katherine Camp, and Anna Camp Edwards, 1936, *The Dewey School: The Laboratory School of the University of Chicago, 1896–1903*, New York: Appleton-Century. [[Mayhew & Edwards 1936 available online](http://archive.org/details/deweyschoolthela008095mbp)]
-* McPeck, John E., 1981, *Critical Thinking and Education*, New York: St. Martin’s Press.
-* Moore, Brooke Noel and Richard Parker, 2020, *Critical Thinking*, New York: McGraw-Hill, 13th edition.
-* Nickerson, Raymond S., 1998, “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises”, *Review of General Psychology*, 2(2): 175–220. doi:10.1037/1089-2680.2.2.175
-* Nieto, Ana Maria, and Jorge Valenzuela, 2012, “A Study of the Internal Structure of Critical Thinking Dispositions”, *Inquiry: Critical Thinking across the Disciplines*, 27(1): 31–38. doi:10.5840/inquiryct20122713
-* Norris, Stephen P., 1985, “Controlling for Background Beliefs When Developing Multiple-choice Critical Thinking Tests”, *Educational Measurement: Issues and Practice*, 7(3): 5–11. doi:10.1111/j.1745-3992.1988.tb00437.x
-* Norris, Stephen P. and Robert H. Ennis, 1989, *Evaluating Critical Thinking* (The Practitioners’ Guide to Teaching Thinking Series), Pacific Grove, CA: Midwest Publications.
-* Norris, Stephen P. and Ruth Elizabeth King, 1983, *Test on Appraising Observations*, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland.
-* –––, 1984, *The Design of a Critical Thinking Test on Appraising Observations*, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland. ERIC Document ED260083.
-* –––, 1985, *Test on Appraising Observations: Manual*, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland.
-* –––, 1990a, *Test on Appraising Observations*, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland, 2nd edition.
-* –––, 1990b, *Test on Appraising Observations: Manual*, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland, 2nd edition.
-* OCR [Oxford, Cambridge and RSA Examinations], 2011, *AS/A Level GCE: Critical Thinking – H052, H452*, Cambridge: OCR. Past papers available at https://pastpapers.co/ocr/?dir=A-Level/Critical-Thinking-H052-H452; last accessed 2022 07 16.
-* Ontario Ministry of Education, 2013, *The Ontario Curriculum Grades 9 to 12: Social Sciences and Humanities*. Available at http://www.edu.gov.on.ca/eng/curriculum/secondary/ssciences9to122013.pdf; last accessed 2022 07 16.
-* Passmore, John Arthur, 1980, *The Philosophy of Teaching*, London: Duckworth.
-* Paul, Richard W., 1981, “Teaching Critical Thinking in the ‘Strong’ Sense: A Focus on Self-Deception, World Views, and a Dialectical Mode of Analysis”, *Informal Logic*, 4(2): 2–7. [[Paul 1981 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2766/2207)]
-* –––, 1984, “Critical Thinking: Fundamental to Education for a Free Society”, *Educational Leadership*, 42(1): 4–14.
-* –––, 1985, “McPeck’s Mistakes”, *Informal Logic*, 7(1): 35–43. [[Paul 1985 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2700/2141)]
-* Paul, Richard W. and Linda Elder, 2006, *The Miniature Guide to Critical Thinking: Concepts and Tools*, Dillon Beach, CA: Foundation for Critical Thinking, 4th edition.
-* Payette, Patricia, and Edna Ross, 2016, “Making a Campus-Wide Commitment to Critical Thinking: Insights and Promising Practices Utilizing the Paul-Elder Approach at the University of Louisville”, *Inquiry: Critical Thinking Across the Disciplines*, 31(1): 98–110. doi:10.5840/inquiryct20163118
-* Possin, Kevin, 2008, “A Field Guide to Critical-Thinking Assessment”, *Teaching Philosophy*, 31(3): 201–228. doi:10.5840/teachphil200831324
-* –––, 2013a, “Some Problems with the Halpern Critical Thinking Assessment (HCTA) Test”, *Inquiry: Critical Thinking across the Disciplines*, 28(3): 4–12. doi:10.5840/inquiryct201328313
-* –––, 2013b, “A Serious Flaw in the Collegiate Learning Assessment (CLA) Test”, *Informal Logic*, 33(3): 390–405. [[Possin 2013b available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/3774/3139)]
-* –––, 2013c, “A Fatal Flaw in the Collegiate Learning Assessment Test”, *Assessment Update*, 25 (1): 8–12.
-* –––, 2014, “Critique of the Watson-Glaser Critical Thinking Appraisal Test: The More You Know, the Lower Your Score”, *Informal Logic*, 34(4): 393–416. [[Possin 2014 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/4141/3341)]
-* –––, 2020, “CAT Scan: A Critical Review of the Critical-Thinking Assessment Test”, *Informal Logic*, 40 (3): 489–508. [Available online at https://informallogic.ca/index.php/informal_logic/article/view/6243]
-* Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* Rear, David, 2019, “One Size Fits All? The Limitations of Standardised Assessment in Critical Thinking”, *Assessment & Evaluation in Higher Education*, 44(5): 664–675. doi: 10.1080/02602938.2018.1526255
-* Rousseau, Jean-Jacques, 1762, *Émile*, Amsterdam: Jean Néaulme.
-* Scheffler, Israel, 1960, *The Language of Education*, Springfield, IL: Charles C. Thomas.
-* Scriven, Michael, and Richard W. Paul, 1987, *Defining Critical Thinking*, Draft statement written for the National Council for Excellence in Critical Thinking Instruction. Available at http://www.criticalthinking.org/pages/defining-critical-thinking/766; last accessed 2022 07 16.
-* Sheffield, Clarence Burton Jr., 2018, “Promoting Critical Thinking in Higher Education: My Experiences as the Inaugural Eugene H. Fram Chair in Applied Critical Thinking at Rochester Institute of Technology”, *Topoi*, 37(1): 155–163. doi:10.1007/s11245-016-9392-1
-* Siegel, Harvey, 1985, “McPeck, Informal Logic and the Nature of Critical Thinking”, in David Nyberg (ed.), *Philosophy of Education 1985: Proceedings of the Forty-First Annual Meeting of the Philosophy of Education Society*, Normal, IL: Philosophy of Education Society, pp. 61–72.
-* –––, 1988, *Educating Reason: Rationality, Critical Thinking, and Education*, New York: Routledge.
-* –––, 1999, “What (Good) Are Thinking Dispositions?”, *Educational Theory*, 49(2): 207–221. doi:10.1111/j.1741-5446.1999.00207.x
-* Simon, Herbert A., 1956, “Rational Choice and the Structure of the Environment”, *Psychological Review*, 63(2): 129–138. doi: 10.1037/h0042769
-* Simpson, Elizabeth, 1966–67, “The Classification of Educational Objectives: Psychomotor Domain”, *Illinois Teacher of Home Economics*, 10(4): 110–144, ERIC document ED0103613. [[Simpson 1966–67 available online](https://eric.ed.gov/?id=ED010368)]
-* Skolverket, 2018, *Curriculum for the Compulsory School, Preschool Class and School-age Educare*, Stockholm: Skolverket, revised 2018. Available at https://www.skolverket.se/download/18.31c292d516e7445866a218f/1576654682907/pdf3984.pdf; last accessed 2022 07 15.
-* Smith, B. Othanel, 1953, “The Improvement of Critical Thinking”, *Progressive Education*, 30(5): 129–134.
-* Smith, Eugene Randolph, Ralph Winfred Tyler, and the Evaluation Staff, 1942, *Appraising and Recording Student Progress*, Volume III of *Adventure in American Education*, New York and London: Harper & Brothers.
-* Splitter, Laurance J., 1987, “Educational Reform through Philosophy for Children”, *Thinking: The Journal of Philosophy for Children*, 7(2): 32–39. doi:10.5840/thinking1987729
-* Stanovich Keith E., and Paula J. Stanovich, 2010, “A Framework for Critical Thinking, Rational Thinking, and Intelligence”, in David D. Preiss and Robert J. Sternberg (eds), *Innovations in Educational Psychology: Perspectives on Learning, Teaching and Human Development*, New York: Springer Publishing, pp 195–237.
-* Stanovich Keith E., Richard F. West, and Maggie E. Toplak, 2011, “Intelligence and Rationality”, in Robert J. Sternberg and Scott Barry Kaufman (eds.), *Cambridge Handbook of Intelligence*, Cambridge: Cambridge University Press, 3rd edition, pp. 784–826. doi:10.1017/CBO9780511977244.040
-* Tankersley, Karen, 2005, *Literacy Strategies for Grades 4–12: Reinforcing the Threads of Reading*, Alexandria, VA: Association for Supervision and Curriculum Development.
-* Thayer-Bacon, Barbara J., 1992, “Is Modern Critical Thinking Theory Sexist?”, *Inquiry: Critical Thinking Across the Disciplines*, 10(1): 3–7. doi:10.5840/inquiryctnews199210123
-* –––, 1993, “Caring and Its Relationship to Critical Thinking”, *Educational Theory*, 43(3): 323–340. doi:10.1111/j.1741-5446.1993.00323.x
-* –––, 1995a, “Constructive Thinking: Personal Voice”, *Journal of Thought*, 30(1): 55–70.
-* –––, 1995b, “Doubting and Believing: Both are Important for Critical Thinking”, *Inquiry: Critical Thinking across the Disciplines*, 15(2): 59–66. doi:10.5840/inquiryctnews199515226
-* –––, 2000, *Transforming Critical Thinking: Thinking Constructively*, New York: Teachers College Press.
-* Toulmin, Stephen Edelston, 1958, *The Uses of Argument*, Cambridge: Cambridge University Press.
-* Turri, John, Mark Alfano, and John Greco, 2017, “Virtue Epistemology”, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition). URL = <https://plato.stanford.edu/archives/win2017/entries/epistemology-virtue/>
-* Vincent-Lancrin, Stéphan, Carlos González-Sancho, Mathias Bouckaert, Federico de Luca, Meritxell Fernández-Barrerra, Gwénaël Jacotin, Joaquin Urgel, and Quentin Vidal, 2019, *Fostering Students’ Creativity and Critical Thinking: What It Means in School. Educational Research and Innovation*, Paris: OECD Publishing.
-* Warren, Karen J. 1988. “Critical Thinking and Feminism”, *Informal Logic*, 10(1): 31–44. [[Warren 1988 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2636/2077)]
-* Watson, Goodwin, and Edward M. Glaser, 1980a, *Watson-Glaser Critical Thinking Appraisal, Form A*, San Antonio, TX: Psychological Corporation.
-* –––, 1980b, *Watson-Glaser Critical Thinking Appraisal: Forms A and B; Manual*, San Antonio, TX: Psychological Corporation,
-* –––, 1994, *Watson-Glaser Critical Thinking Appraisal, Form B*, San Antonio, TX: Psychological Corporation.
-* Weinstein, Mark, 1990, “Towards a Research Agenda for Informal Logic and Critical Thinking”, *Informal Logic*, 12(3): 121–143. [[Weinstein 1990 available online](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2609/2050)]
-* –––, 2013, *Logic, Truth and Inquiry*, London: College Publications.
-* Willingham, Daniel T., 2019, “How to Teach Critical Thinking”, *Education: Future Frontiers*, 1: 1–17. [Available online at https://prod65.education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf.]
-* Zagzebski, Linda Trinkaus, 1996, *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139174763
+* –––, 1938, _Logic: The Theory of Inquiry_, New York: Henry Holt and Company.
+* Dominguez, Caroline (coord.), 2018a, _A European Collection of the Critical Thinking Skills and Dispositions Needed in Different Professional Fields for the 21st Century_, Vila Real, Portugal: UTAD. Available at http://bit.ly/CRITHINKEDUO1; last accessed 2022 07 16.
+* ––– (coord.), 2018b, _A European Review on Critical Thinking Educational Practices in Higher Education Institutions_, Vila Real: UTAD. Available at [CRITHINKEDU\_O2 (ebook).pdf - Google 云端硬盘](http://bit.ly/CRITHINKEDUO2); last accessed 2022 07 16.
+* ––– (coord.), 2018c, _The CRITHINKEDU European Course on Critical Thinking Education for University Teachers: From Conception to Delivery_, Vila Real: UTAD. Available at http:/bit.ly/CRITHINKEDU03; last accessed 2022 07 16.
+* Dominguez Caroline and Rita Payan-Carreira (eds.), 2019, _Promoting Critical Thinking in European Higher Education Institutions: Towards an Educational Protocol_, Vila Real: UTAD. Available at http:/bit.ly/CRITHINKEDU04; last accessed 2022 07 16.
+* Ennis, Robert H., 1958, “An Appraisal of the Watson-Glaser Critical Thinking Appraisal”, _The Journal of Educational Research_, 52(4): 155–158. doi:10.1080/00220671.1958.10882558
+* –––, 1962, “A Concept of Critical Thinking: A Proposed Basis for Research on the Teaching and Evaluation of Critical Thinking Ability”, _Harvard Educational Review_, 32(1): 81–111.
+* –––, 1981a, “A Conception of Deductive Logical Competence”, _Teaching Philosophy_, 4(3/4): 337–385. doi:10.5840/teachphil198143/429
+* –––, 1981b, “Eight Fallacies in Bloom’s Taxonomy”, in C. J. B. Macmillan (ed.), _Philosophy of Education 1980: Proceedings of the Thirty-seventh Annual Meeting of the Philosophy of Education Society_, Bloomington, IL: Philosophy of Education Society, pp. 269–273.
+* –––, 1984, “Problems in Testing Informal Logic, Critical Thinking, Reasoning Ability”, _Informal Logic_, 6(1): 3–9. \[[Ennis 1984 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/2717/2158)]
+* –––, 1987, “A Taxonomy of Critical Thinking Dispositions and Abilities”, in Joan Boykoff Baron and Robert J. Sternberg (eds.), _Teaching Thinking Skills: Theory and Practice_, New York: W. H. Freeman, pp. 9–26.
+* –––, 1989, “Critical Thinking and Subject Specificity: Clarification and Needed Research”, _Educational Researcher_, 18(3): 4–10. doi:10.3102/0013189X018003004
+* –––, 1991, “Critical Thinking: A Streamlined Conception”, _Teaching Philosophy_, 14(1): 5–24. doi:10.5840/teachphil19911412
+* –––, 1996, “Critical Thinking Dispositions: Their Nature and Assessability”, _Informal Logic_, 18(2–3): 165–182. \[[Ennis 1996 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/2378/1820)]
+* –––, 1998, “Is Critical Thinking Culturally Biased?”, _Teaching Philosophy_, 21(1): 15–33. doi:10.5840/teachphil19982113
+* –––, 2011, “Critical Thinking: Reflection and Perspective Part I”, _Inquiry: Critical Thinking across the Disciplines_, 26(1): 4–18. doi:10.5840/inquiryctnews20112613
+* –––, 2013, “Critical Thinking across the Curriculum: The Wisdom CTAC Program”, _Inquiry: Critical Thinking across the Disciplines_, 28(2): 25–45. doi:10.5840/inquiryct20132828
+* –––, 2016, “Definition: A Three-Dimensional Analysis with Bearing on Key Concepts”, in Patrick Bondy and Laura Benacquista (eds.), _Argumentation, Objectivity, and Bias: Proceedings of the 11th International Conference of the Ontario Society for the Study of Argumentation (OSSA), 18–21 May 2016_, Windsor, ON: OSSA, pp. 1–19. Available at [Scholarship at UWindsor - OSSA Conference Archive: Definition: A Three-Dimensional Analysis with Bearing on Key Concepts](http://scholar.uwindsor.ca/ossaarchive/OSSA11/papersandcommentaries/105); last accessed 2022 07 16.
+* –––, 2018, “Critical Thinking Across the Curriculum: A Vision”, _Topoi_, 37(1): 165–184. doi:10.1007/s11245-016-9401-4
+* Ennis, Robert H., and Jason Millman, 1971, _Manual for Cornell Critical Thinking Test, Level X, and Cornell Critical Thinking Test, Level Z_, Urbana, IL: Critical Thinking Project, University of Illinois.
+* Ennis, Robert H., Jason Millman, and Thomas Norbert Tomko, 1985, _Cornell Critical Thinking Tests Level X & Level Z: Manual_, Pacific Grove, CA: Midwest Publication, 3rd edition.
+* –––, 2005, _Cornell Critical Thinking Tests Level X & Level Z: Manual_, Seaside, CA: Critical Thinking Company, 5th edition.
+* Ennis, Robert H. and Eric Weir, 1985, _The Ennis-Weir Critical Thinking Essay Test: Test, Manual, Criteria, Scoring Sheet: An Instrument for Teaching and Testing_, Pacific Grove, CA: Midwest Publications.
+* Facione, Peter A., 1990a, _Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction_, Research Findings and Recommendations Prepared for the Committee on Pre-College Philosophy of the American Philosophical Association, ERIC Document ED315423.
+* –––, 1990b, _California Critical Thinking Skills Test, CCTST – Form A_, Millbrae, CA: The California Academic Press.
+* –––, 1990c, _The California Critical Thinking Skills Test--College Level. Technical Report #3. Gender, Ethnicity, Major, CT Self-Esteem, and the CCTST_, ERIC Document ED326584.
+* –––, 1992, _California Critical Thinking Skills Test: CCTST – Form B,_ Millbrae, CA: The California Academic Press.
+* –––, 2000, “The Disposition Toward Critical Thinking: Its Character, Measurement, and Relationship to Critical Thinking Skill”, _Informal Logic_, 20(1): 61–84. \[[Facione 2000 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/2254/1698)]
+* Facione, Peter A. and Noreen C. Facione, 1992, _CCTDI: A Disposition Inventory_, Millbrae, CA: The California Academic Press.
+* Facione, Peter A., Noreen C. Facione, and Carol Ann F. Giancarlo, 2001, _California Critical Thinking Disposition Inventory: CCTDI: Inventory Manual_, Millbrae, CA: The California Academic Press.
+* Facione, Peter A., Carol A. Sánchez, and Noreen C. Facione, 1994, _Are College Students Disposed to Think?_, Millbrae, CA: The California Academic Press. ERIC Document ED368311.
+* Fisher, Alec, and Michael Scriven, 1997, _Critical Thinking: Its Definition and Assessment_, Norwich: Centre for Research in Critical Thinking, University of East Anglia.
+* Freire, Paulo, 1968 \[1970], _Pedagogia do Oprimido_. Translated as _Pedagogy of the Oppressed_, Myra Bergman Ramos (trans.), New York: Continuum, 1970.
+* Gigerenzer, Gerd, 2001, “The Adaptive Toolbox”, in Gerd Gigerenzer and Reinhard Selten (eds.), _Bounded Rationality: The Adaptive Toolbox_, Cambridge, MA: MIT Press, pp. 37–50.
+* Glaser, Edward Maynard, 1941, _An Experiment in the Development of Critical Thinking_, New York: Bureau of Publications, Teachers College, Columbia University.
+* Groarke, Leo A. and Christopher W. Tindale, 2012, _Good Reasoning Matters! A Constructive Approach to Critical Thinking_, Don Mills, ON: Oxford University Press, 5th edition.
+* Halpern, Diane F., 1998, “Teaching Critical Thinking for Transfer Across Domains: Disposition, Skills, Structure Training, and Metacognitive Monitoring”, _American Psychologist_, 53(4): 449–455. doi:10.1037/0003-066X.53.4.449
+* –––, 2016, _Manual: Halpern Critical Thinking Assessment_, Mödling, Austria: Schuhfried. Available at https://pdfcoffee.com/hcta-test-manual-pdf-free.html; last accessed 2022 07 16.
+* Hamby, Benjamin, 2014, _The Virtues of Critical Thinkers_, Doctoral dissertation, Philosophy, McMaster University. \[[Hamby 2014 available online](http://hdl.handle.net/11375/15847)]
+* –––, 2015, “Willingness to Inquire: The Cardinal Critical Thinking Virtue”, in Martin Davies and Ronald Barnett (eds.), _The Palgrave Handbook of Critical Thinking in Higher Education_, New York: Palgrave Macmillan, pp. 77–87.
+* Haran, Uriel, Ilana Ritov, and Barbara A. Mellers, 2013, “The Role of Actively Open-minded Thinking in Information Acquisition, Accuracy, and Calibration”, _Judgment and Decision Making_, 8(3): 188–201.
+* Hatcher, Donald and Kevin Possin, 2021, “Commentary: Thinking Critically about Critical Thinking Assessment”, in Daniel Fasko, Jr. and Frank Fair (eds.), _Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment_, Leiden: Brill, pp. 298–322. doi: 10.1163/9789004444591\_017
+* Haynes, Ada, Elizabeth Lisic, Kevin Harris, Katie Leming, Kyle Shanks, and Barry Stein, 2015, “Using the Critical Thinking Assessment Test (CAT) as a Model for Designing Within-Course Assessments: Changing How Faculty Assess Student Learning”, _Inquiry: Critical Thinking Across the Disciplines_, 30(3): 38–48. doi:10.5840/inquiryct201530316
+* Haynes, Ada and Barry Stein, 2021, “Observations from a Long-Term Effort to Assess and Improve Critical Thinking”, in Daniel Fasko, Jr. and Frank Fair (eds.), _Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment_, Leiden: Brill, pp. 231–254. doi: 10.1163/9789004444591\_014
+* Hiner, Amanda L. 2021. “Equipping Students for Success in College and Beyond: Placing Critical Thinking Instruction at the Heart of a General Education Program”, in Daniel Fasko, Jr. and Frank Fair (eds.), _Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment_, Leiden: Brill, pp. 188–208. doi: 10.1163/9789004444591\_012
+* Hitchcock, David, 2017, “Critical Thinking as an Educational Ideal”, in his _On Reasoning and Argument: Essays in Informal Logic and on Critical Thinking_, Dordrecht: Springer, pp. 477–497. doi:10.1007/978-3-319-53562-3\_30
+* –––, 2021, “Seven Philosophical Implications of Critical Thinking: Themes, Variations, Implications”, in Daniel Fasko, Jr. and Frank Fair (eds.), _Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment_, Leiden: Brill, pp. 9–30. doi: 10.1163/9789004444591\_002
+* hooks, bell, 1994, _Teaching to Transgress: Education as the Practice of Freedom_, New York and London: Routledge.
+* –––, 2010, _Teaching Critical Thinking: Practical Wisdom_, New York and London: Routledge.
+* Johnson, Ralph H., 1992, “The Problem of Defining Critical Thinking”, in Stephen P, Norris (ed.), _The Generalizability of Critical Thinking_, New York: Teachers College Press, pp. 38–53.
+* Kahane, Howard, 1971, _Logic and Contemporary Rhetoric: The Use of Reason in Everyday Life_, Belmont, CA: Wadsworth.
+* Kahneman, Daniel, 2011, _Thinking, Fast and Slow_, New York: Farrar, Straus and Giroux.
+* Kahneman, Daniel, Olivier Sibony, & Cass R. Sunstein, 2021, _Noise: A Flaw in Human Judgment_, New York: Little, Brown Spark.
+* Kenyon, Tim, and Guillaume Beaulac, 2014, “Critical Thinking Education and Debasing”, _Informal Logic_, 34(4): 341–363. \[[Kenyon & Beaulac 2014 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/4203/3339)]
+* Krathwohl, David R., Benjamin S. Bloom, and Bertram B. Masia, 1964, _Taxonomy of Educational Objectives, Handbook II: Affective Domain_, New York: David McKay.
+* Kuhn, Deanna, 1991, _The Skills of Argument_, New York: Cambridge University Press. doi:10.1017/CBO9780511571350
+* –––, 2019, “Critical Thinking as Discourse”, _Human Development,_ 62 (3): 146–164. doi:10.1159/000500171
+* Lipman, Matthew, 1987, “Critical Thinking–What Can It Be?”, _Analytic Teaching_, 8(1): 5–12. \[[Lipman 1987 available online](https://journal.viterbo.edu/index.php/at/article/view/403)]
+* –––, 2003, _Thinking in Education_, Cambridge: Cambridge University Press, 2nd edition.
+* Loftus, Elizabeth F., 2017, “Eavesdropping on Memory”, _Annual Review of Psychology_, 68: 1–18. doi:10.1146/annurev-psych-010416-044138
+* Makaiau, Amber Strong, 2021, “The Good Thinker’s Tool Kit: How to Engage Critical Thinking and Reasoning in Secondary Education”, in Daniel Fasko, Jr. and Frank Fair (eds.), _Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment_, Leiden: Brill, pp. 168–187. doi: 10.1163/9789004444591\_011
+* Martin, Jane Roland, 1992, “Critical Thinking for a Humane World”, in Stephen P. Norris (ed.), _The Generalizability of Critical Thinking_, New York: Teachers College Press, pp. 163–180.
+* Mayhew, Katherine Camp, and Anna Camp Edwards, 1936, _The Dewey School: The Laboratory School of the University of Chicago, 1896–1903_, New York: Appleton-Century. \[[Mayhew & Edwards 1936 available online](http://archive.org/details/deweyschoolthela008095mbp)]
+* McPeck, John E., 1981, _Critical Thinking and Education_, New York: St. Martin’s Press.
+* Moore, Brooke Noel and Richard Parker, 2020, _Critical Thinking_, New York: McGraw-Hill, 13th edition.
+* Nickerson, Raymond S., 1998, “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises”, _Review of General Psychology_, 2(2): 175–220. doi:10.1037/1089-2680.2.2.175
+* Nieto, Ana Maria, and Jorge Valenzuela, 2012, “A Study of the Internal Structure of Critical Thinking Dispositions”, _Inquiry: Critical Thinking across the Disciplines_, 27(1): 31–38. doi:10.5840/inquiryct20122713
+* Norris, Stephen P., 1985, “Controlling for Background Beliefs When Developing Multiple-choice Critical Thinking Tests”, _Educational Measurement: Issues and Practice_, 7(3): 5–11. doi:10.1111/j.1745-3992.1988.tb00437.x
+* Norris, Stephen P. and Robert H. Ennis, 1989, _Evaluating Critical Thinking_ (The Practitioners’ Guide to Teaching Thinking Series), Pacific Grove, CA: Midwest Publications.
+* Norris, Stephen P. and Ruth Elizabeth King, 1983, _Test on Appraising Observations_, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland.
+* –––, 1984, _The Design of a Critical Thinking Test on Appraising Observations_, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland. ERIC Document ED260083.
+* –––, 1985, _Test on Appraising Observations: Manual_, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland.
+* –––, 1990a, _Test on Appraising Observations_, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland, 2nd edition.
+* –––, 1990b, _Test on Appraising Observations: Manual_, St. John’s, NL: Institute for Educational Research and Development, Memorial University of Newfoundland, 2nd edition.
+* OCR \[Oxford, Cambridge and RSA Examinations], 2011, _AS/A Level GCE: Critical Thinking – H052, H452_, Cambridge: OCR. Past papers available at https://pastpapers.co/ocr/?dir=A-Level/Critical-Thinking-H052-H452; last accessed 2022 07 16.
+* Ontario Ministry of Education, 2013, _The Ontario Curriculum Grades 9 to 12: Social Sciences and Humanities_. Available at http://www.edu.gov.on.ca/eng/curriculum/secondary/ssciences9to122013.pdf; last accessed 2022 07 16.
+* Passmore, John Arthur, 1980, _The Philosophy of Teaching_, London: Duckworth.
+* Paul, Richard W., 1981, “Teaching Critical Thinking in the ‘Strong’ Sense: A Focus on Self-Deception, World Views, and a Dialectical Mode of Analysis”, _Informal Logic_, 4(2): 2–7. \[[Paul 1981 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/2766/2207)]
+* –––, 1984, “Critical Thinking: Fundamental to Education for a Free Society”, _Educational Leadership_, 42(1): 4–14.
+* –––, 1985, “McPeck’s Mistakes”, _Informal Logic_, 7(1): 35–43. \[[Paul 1985 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/2700/2141)]
+* Paul, Richard W. and Linda Elder, 2006, _The Miniature Guide to Critical Thinking: Concepts and Tools_, Dillon Beach, CA: Foundation for Critical Thinking, 4th edition.
+* Payette, Patricia, and Edna Ross, 2016, “Making a Campus-Wide Commitment to Critical Thinking: Insights and Promising Practices Utilizing the Paul-Elder Approach at the University of Louisville”, _Inquiry: Critical Thinking Across the Disciplines_, 31(1): 98–110. doi:10.5840/inquiryct20163118
+* Possin, Kevin, 2008, “A Field Guide to Critical-Thinking Assessment”, _Teaching Philosophy_, 31(3): 201–228. doi:10.5840/teachphil200831324
+* –––, 2013a, “Some Problems with the Halpern Critical Thinking Assessment (HCTA) Test”, _Inquiry: Critical Thinking across the Disciplines_, 28(3): 4–12. doi:10.5840/inquiryct201328313
+* –––, 2013b, “A Serious Flaw in the Collegiate Learning Assessment (CLA) Test”, _Informal Logic_, 33(3): 390–405. \[[Possin 2013b available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/3774/3139)]
+* –––, 2013c, “A Fatal Flaw in the Collegiate Learning Assessment Test”, _Assessment Update_, 25 (1): 8–12.
+* –––, 2014, “Critique of the Watson-Glaser Critical Thinking Appraisal Test: The More You Know, the Lower Your Score”, _Informal Logic_, 34(4): 393–416. \[[Possin 2014 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/4141/3341)]
+* –––, 2020, “CAT Scan: A Critical Review of the Critical-Thinking Assessment Test”, _Informal Logic_, 40 (3): 489–508. \[Available online at https://informallogic.ca/index.php/informal\_logic/article/view/6243]
+* Rawls, John, 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
+* Rear, David, 2019, “One Size Fits All? The Limitations of Standardised Assessment in Critical Thinking”, _Assessment & Evaluation in Higher Education_, 44(5): 664–675. doi: 10.1080/02602938.2018.1526255
+* Rousseau, Jean-Jacques, 1762, _Émile_, Amsterdam: Jean Néaulme.
+* Scheffler, Israel, 1960, _The Language of Education_, Springfield, IL: Charles C. Thomas.
+* Scriven, Michael, and Richard W. Paul, 1987, _Defining Critical Thinking_, Draft statement written for the National Council for Excellence in Critical Thinking Instruction. Available at http://www.criticalthinking.org/pages/defining-critical-thinking/766; last accessed 2022 07 16.
+* Sheffield, Clarence Burton Jr., 2018, “Promoting Critical Thinking in Higher Education: My Experiences as the Inaugural Eugene H. Fram Chair in Applied Critical Thinking at Rochester Institute of Technology”, _Topoi_, 37(1): 155–163. doi:10.1007/s11245-016-9392-1
+* Siegel, Harvey, 1985, “McPeck, Informal Logic and the Nature of Critical Thinking”, in David Nyberg (ed.), _Philosophy of Education 1985: Proceedings of the Forty-First Annual Meeting of the Philosophy of Education Society_, Normal, IL: Philosophy of Education Society, pp. 61–72.
+* –––, 1988, _Educating Reason: Rationality, Critical Thinking, and Education_, New York: Routledge.
+* –––, 1999, “What (Good) Are Thinking Dispositions?”, _Educational Theory_, 49(2): 207–221. doi:10.1111/j.1741-5446.1999.00207.x
+* Simon, Herbert A., 1956, “Rational Choice and the Structure of the Environment”, _Psychological Review_, 63(2): 129–138. doi: 10.1037/h0042769
+* Simpson, Elizabeth, 1966–67, “The Classification of Educational Objectives: Psychomotor Domain”, _Illinois Teacher of Home Economics_, 10(4): 110–144, ERIC document ED0103613. \[[Simpson 1966–67 available online](https://eric.ed.gov/?id=ED010368)]
+* Skolverket, 2018, _Curriculum for the Compulsory School, Preschool Class and School-age Educare_, Stockholm: Skolverket, revised 2018. Available at https://www.skolverket.se/download/18.31c292d516e7445866a218f/1576654682907/pdf3984.pdf; last accessed 2022 07 15.
+* Smith, B. Othanel, 1953, “The Improvement of Critical Thinking”, _Progressive Education_, 30(5): 129–134.
+* Smith, Eugene Randolph, Ralph Winfred Tyler, and the Evaluation Staff, 1942, _Appraising and Recording Student Progress_, Volume III of _Adventure in American Education_, New York and London: Harper & Brothers.
+* Splitter, Laurance J., 1987, “Educational Reform through Philosophy for Children”, _Thinking: The Journal of Philosophy for Children_, 7(2): 32–39. doi:10.5840/thinking1987729
+* Stanovich Keith E., and Paula J. Stanovich, 2010, “A Framework for Critical Thinking, Rational Thinking, and Intelligence”, in David D. Preiss and Robert J. Sternberg (eds), _Innovations in Educational Psychology: Perspectives on Learning, Teaching and Human Development_, New York: Springer Publishing, pp 195–237.
+* Stanovich Keith E., Richard F. West, and Maggie E. Toplak, 2011, “Intelligence and Rationality”, in Robert J. Sternberg and Scott Barry Kaufman (eds.), _Cambridge Handbook of Intelligence_, Cambridge: Cambridge University Press, 3rd edition, pp. 784–826. doi:10.1017/CBO9780511977244.040
+* Tankersley, Karen, 2005, _Literacy Strategies for Grades 4–12: Reinforcing the Threads of Reading_, Alexandria, VA: Association for Supervision and Curriculum Development.
+* Thayer-Bacon, Barbara J., 1992, “Is Modern Critical Thinking Theory Sexist?”, _Inquiry: Critical Thinking Across the Disciplines_, 10(1): 3–7. doi:10.5840/inquiryctnews199210123
+* –––, 1993, “Caring and Its Relationship to Critical Thinking”, _Educational Theory_, 43(3): 323–340. doi:10.1111/j.1741-5446.1993.00323.x
+* –––, 1995a, “Constructive Thinking: Personal Voice”, _Journal of Thought_, 30(1): 55–70.
+* –––, 1995b, “Doubting and Believing: Both are Important for Critical Thinking”, _Inquiry: Critical Thinking across the Disciplines_, 15(2): 59–66. doi:10.5840/inquiryctnews199515226
+* –––, 2000, _Transforming Critical Thinking: Thinking Constructively_, New York: Teachers College Press.
+* Toulmin, Stephen Edelston, 1958, _The Uses of Argument_, Cambridge: Cambridge University Press.
+* Turri, John, Mark Alfano, and John Greco, 2017, “Virtue Epistemology”, in Edward N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition). URL = [https://plato.stanford.edu/archives/win2017/entries/epistemology-virtue/](https://plato.stanford.edu/archives/win2017/entries/epistemology-virtue/)
+* Vincent-Lancrin, Stéphan, Carlos González-Sancho, Mathias Bouckaert, Federico de Luca, Meritxell Fernández-Barrerra, Gwénaël Jacotin, Joaquin Urgel, and Quentin Vidal, 2019, _Fostering Students’ Creativity and Critical Thinking: What It Means in School. Educational Research and Innovation_, Paris: OECD Publishing.
+* Warren, Karen J. 1988. “Critical Thinking and Feminism”, _Informal Logic_, 10(1): 31–44. \[[Warren 1988 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/2636/2077)]
+* Watson, Goodwin, and Edward M. Glaser, 1980a, _Watson-Glaser Critical Thinking Appraisal, Form A_, San Antonio, TX: Psychological Corporation.
+* –––, 1980b, _Watson-Glaser Critical Thinking Appraisal: Forms A and B; Manual_, San Antonio, TX: Psychological Corporation,
+* –––, 1994, _Watson-Glaser Critical Thinking Appraisal, Form B_, San Antonio, TX: Psychological Corporation.
+* Weinstein, Mark, 1990, “Towards a Research Agenda for Informal Logic and Critical Thinking”, _Informal Logic_, 12(3): 121–143. \[[Weinstein 1990 available online](https://ojs.uwindsor.ca/index.php/informal\_logic/article/view/2609/2050)]
+* –––, 2013, _Logic, Truth and Inquiry_, London: College Publications.
+* Willingham, Daniel T., 2019, “How to Teach Critical Thinking”, _Education: Future Frontiers_, 1: 1–17. \[Available online at https://prod65.education.nsw.gov.au/content/dam/main-education/teaching-and-learning/education-for-a-changing-world/media/documents/How-to-teach-critical-thinking-Willingham.pdf.]
+* Zagzebski, Linda Trinkaus, 1996, _Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139174763
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=critical-thinking). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/critical-thinking/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=critical-thinking&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/critical-thinking/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=critical-thinking).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/critical-thinking/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=critical-thinking\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/critical-thinking/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [Association for Informal Logic and Critical Thinking (AILACT)](https://ailact.wordpress.com/)
 * [Critical Thinking Across the European Higher Education Curricula (CRITHINKEDU)](http://crithinkedu.utad.pt/en/crithinkedu/)
-* [Critical Thinking Research](https://railct.com/critical-thinking-research-gateway/) (RAIL)
+* [Critical Thinking Research](https://railct.com/critical-thinking-research-gateway/) (RAIL)
 * [Foundation for Critical Thinking](http://www.criticalthinking.org/)
 * [Insight Assessment](https://www.insightassessment.com/article/welcome-to-insight-assessment)
 * [Partnership for 21st Century Learning (P21)](http://www.p21.org/)
 * [The Critical Thinking Consortium](https://tc2.ca/)
-* [The Nature of Critical Thinking: An Outline of Critical Thinking Dispositions and Abilities](https://education.illinois.edu/docs/default-source/faculty-documents/robert-ennis/thenatureofcriticalthinking_51711_000.pdf), by Robert H. Ennis
+* [The Nature of Critical Thinking: An Outline of Critical Thinking Dispositions and Abilities](https://education.illinois.edu/docs/default-source/faculty-documents/robert-ennis/thenatureofcriticalthinking\_51711\_000.pdf), by Robert H. Ennis
 
 ## Related Entries
 
-[abilities](https://plato.stanford.edu/entries/abilities/) | [bias, implicit](https://plato.stanford.edu/entries/implicit-bias/) | [children, philosophy for](https://plato.stanford.edu/entries/children/) | [civic education](https://plato.stanford.edu/entries/civic-education/) | [decision-making capacity](https://plato.stanford.edu/entries/decision-capacity/) | [Dewey, John](https://plato.stanford.edu/entries/dewey/) | [dispositions](https://plato.stanford.edu/entries/dispositions/) | [education, philosophy of](https://plato.stanford.edu/entries/education-philosophy/) | [epistemology: virtue](https://plato.stanford.edu/entries/epistemology-virtue/) | [logic: informal](https://plato.stanford.edu/entries/logic-informal/)
+[abilities](https://plato.stanford.edu/entries/abilities/) | [bias, implicit](https://plato.stanford.edu/entries/implicit-bias/) | [children, philosophy for](https://plato.stanford.edu/entries/children/) | [civic education](https://plato.stanford.edu/entries/civic-education/) | [decision-making capacity](https://plato.stanford.edu/entries/decision-capacity/) | [Dewey, John](https://plato.stanford.edu/entries/dewey/) | [dispositions](https://plato.stanford.edu/entries/dispositions/) | [education, philosophy of](https://plato.stanford.edu/entries/education-philosophy/) | [epistemology: virtue](https://plato.stanford.edu/entries/epistemology-virtue/) | [logic: informal](https://plato.stanford.edu/entries/logic-informal/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-David Hitchcock <[*hitchckd@mcmaster.ca*](mailto:hitchckd%40mcmaster%2eca)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+David Hitchcock <[_hitchckd@mcmaster.ca_](mailto:hitchckd%40mcmaster%2eca)>

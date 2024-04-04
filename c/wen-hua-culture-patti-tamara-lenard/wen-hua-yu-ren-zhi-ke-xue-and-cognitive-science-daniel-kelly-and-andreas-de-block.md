@@ -1,8 +1,6 @@
 # 文化与认知科学 and cognitive science (Daniel Kelly and Andreas De Block)
 
-
-
-*首次发布于 2020 年 12 月 2 日*
+_首次发布于 2020 年 12 月 2 日_
 
 民主社会通常以宗教、文化、种族和世界观的广泛多元化为特征，基于这些多元化，公民向其国家提出要求。民主国家另外的特征是致力于平等对待所有公民，因此它们需要公正和公平的方式来处理和回应这些要求。本条目特别考虑文化要求。
 
@@ -11,32 +9,29 @@
 在阐述了理解文化的主要方式之后，本条目转向评估少数群体向国家提出的不同（尽管偶尔重叠）类型的文化主张：豁免主张、援助主张、自决主张、认可主张、保护主张（以及反对强迫文化丧失的主张）、法律环境中的防御性主张，以及专属使用主张（反对文化挪用的主张）。对于这些主张既有理由，也有反对意见，它们往往取决于对“文化”是如何理解的。在许多情况下，关于这些主张是否合理的争论取决于对文化是什么的竞争性理解，特别是对于那些是成员的人来说它有多有价值，如下所示。最后，本条目将对多数社区提出文化主张以证明行动合理性的案例进行评估，主要是在控制移民和有时拒绝潜在移民入境的背景下，以及对被允许入境的人提出的文化要求，以及在这些案例中提出的各种理由和反对意见。本节考虑了多数文化的内容，新来者被要求遵守这些内容，以及他们被“要求”这样做的程度。
 
 * [1. 定义文化](https://plato.stanford.edu/entries/culture/#DefiCult)
-
   * [1.1 作为包容性群体的文化](https://plato.stanford.edu/entries/culture/#CultEncoGrou)
   * [1.2 文化作为社会形成](https://plato.stanford.edu/entries/culture/#CultSociForm)
-  * [ 1.3 文化作为对话](https://plato.stanford.edu/entries/culture/#CultDial)
+  * [1.3 文化作为对话](https://plato.stanford.edu/entries/culture/#CultDial)
   * [1.4 文化作为身份（或者说是身份而不是文化）](https://plato.stanford.edu/entries/culture/#CultIdenIdenRathThanCult)
 * [2. 少数民族文化权利主张](https://plato.stanford.edu/entries/culture/#MinoCultRighClai)
-
-  * [ 2.1 豁免权利](https://plato.stanford.edu/entries/culture/#ExemRigh)
-  * [ 2.2 协助权利](https://plato.stanford.edu/entries/culture/#AssiRigh)
+  * [2.1 豁免权利](https://plato.stanford.edu/entries/culture/#ExemRigh)
+  * [2.2 协助权利](https://plato.stanford.edu/entries/culture/#AssiRigh)
   * [2.3 自决权](https://plato.stanford.edu/entries/culture/#SelfDeteRigh)
-  * [ 2.4 承认权](https://plato.stanford.edu/entries/culture/#RecoRigh)
+  * [2.4 承认权](https://plato.stanford.edu/entries/culture/#RecoRigh)
   * [2.5 文化保护权](https://plato.stanford.edu/entries/culture/#CultPresRigh)
   * [2.6 文化丧失权利](https://plato.stanford.edu/entries/culture/#RighAgaiCultLoss)
   * [2.7 文化辩护权利](https://plato.stanford.edu/entries/culture/#CultDefeRigh)
   * [2.8 独占性文化使用权利（或反对文化挪用的权利）](https://plato.stanford.edu/entries/culture/#ExclCultUseRighRighAgaiCultAppr)
 * [3. 多数文化权利主张](https://plato.stanford.edu/entries/culture/#MajoCultRighClai)
-
   * [3.1 文化延续和排斥权利](https://plato.stanford.edu/entries/culture/#CultContExclRigh)
   * [3.2 文化延续和整合执行权利](https://plato.stanford.edu/entries/culture/#CultContInteEnfoRigh)
-* [ 结论](https://plato.stanford.edu/entries/culture/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/culture/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/culture/#Aca)
+* [结论](https://plato.stanford.edu/entries/culture/#Conc)
+* [参考文献](https://plato.stanford.edu/entries/culture/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/culture/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/culture/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/culture/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/culture/#Rel)
 
----
+***
 
 ## 1. 定义文化
 
@@ -132,7 +127,7 @@ Patten 提到文化群体成员所受制约的机构至少在某种程度上“�
 
 > 例如，一些锡克教徒请求豁免要求佩戴摩托车或建筑工地头盔的法律。尽管锡克教是一种宗教，但锡克教徒描述他们必须戴头巾的要求并不完全是宗教要求，而是作为他们信仰和承诺锡克教价值观的象征，以及他们身份的表达（锡克教信仰常见问题解答在其他互联网资源中）。如果不豁免这些法律，锡克教徒将被排除在应该平等提供给所有公民的机会之外。原住民社区也是如此，他们请求豁免普遍适用的限制狩猎和捕鱼的法律，解释说这些限制破坏了他们的传统生活方式，或者使他们难以（或不可能）维持生计（Levy 2000: 128）。在加拿大和美国废除星期日闭店法之前，宗教少数群体偶尔会获得豁免。在这些情况下，如上所述，如果没有法律规定的豁免，人们（通常是少数群体）必须选择参与应该平等提供给所有公民的机会，或者尊重他们对宗教要求的（文化）理解。
 
-例如，一些锡克教徒请求豁免要求他们戴摩托车头盔或建筑工地安全帽的法律。尽管锡克教是一种宗教，但锡克教徒描述戴头巾的要求并不完全是宗教要求，而是作为他们对锡克教价值观的信仰和承诺的象征，以及对他们身份的表达（见 [其他互联网资源](https://plato.stanford.edu/entries/culture/#Oth) 的《锡克教信仰常见问题解答》）。如果不豁免这些法律，锡克教徒将被排除在本应平等对待所有公民的机会之外。同样的情况也适用于原住民社区，他们请求豁免普遍适用的限制狩猎和捕鱼的法律，解释称这些限制破坏了他们的传统生活方式，或者使他们难以（或不可能）维持自己的生计（Levy 2000: 128）。在加拿大和美国废除星期天闭店法之前，宗教少数派偶尔获得了对其豁免的特权。在这些情况下，如上所述，在没有法律提供的豁免的情况下，人们（通常是少数群体）必须在参与应该平等对待所有公民的机会之间*或者*尊重他们（文化上的）对他们宗教要求的理解之间做出选择。
+例如，一些锡克教徒请求豁免要求他们戴摩托车头盔或建筑工地安全帽的法律。尽管锡克教是一种宗教，但锡克教徒描述戴头巾的要求并不完全是宗教要求，而是作为他们对锡克教价值观的信仰和承诺的象征，以及对他们身份的表达（见 [其他互联网资源](https://plato.stanford.edu/entries/culture/#Oth) 的《锡克教信仰常见问题解答》）。如果不豁免这些法律，锡克教徒将被排除在本应平等对待所有公民的机会之外。同样的情况也适用于原住民社区，他们请求豁免普遍适用的限制狩猎和捕鱼的法律，解释称这些限制破坏了他们的传统生活方式，或者使他们难以（或不可能）维持自己的生计（Levy 2000: 128）。在加拿大和美国废除星期天闭店法之前，宗教少数派偶尔获得了对其豁免的特权。在这些情况下，如上所述，在没有法律提供的豁免的情况下，人们（通常是少数群体）必须在参与应该平等对待所有公民的机会之间_或者_尊重他们（文化上的）对他们宗教要求的理解之间做出选择。
 
 豁免请求可以轻松地与规则修改请求区分开来。正如所指出的，豁免请求是指个人被豁免适用于所有公民的某些要求的请求；修改请求则要求对现有的多数惯例进行更改，以适应某些其他少数惯例。锡克教徒有时会请求豁免法律，否则他们将被要求摘下头巾；在其他情况下，他们请求统一修改，以便头巾被视为执行特定角色的人员可选头部覆盖物之一。穆斯林妇女和犹太男子也会提出统一修改请求，要求他们戴面纱或头巾，而传统上制服要求露出头部或面部，或者要求特定的头部覆盖物（如锡克教徒的情况，它们也可能被提出为豁免请求）。同样，当虔诚的穆斯林请求在工作日中短暂休息，以便在一天中的特定时间祈祷，或者当犹太和穆斯林学生要求在学校餐厅提供食物时进行更改（以适应犹太教和伊斯兰教的饮食规定），请求的是修改而不是豁免。
 
@@ -238,605 +233,603 @@ The right of a state to control its culture is therefore an essential one to pro
 
 本条目试图提供必要的资源来裁决这些冲突，以认真对待那些要求文化权利的人和那些抵制尊重这些权利的人。希望未来的政治理论能够利用这一分类法，在这些冲突出现时找到令人满意的结论。
 
-
-
 ## Bibliography
 
-* Aaby, Bendik Hellem and Grant Ramsey, forthcoming, “Three Kinds of Niche Construction”, *The British Journal for the Philosophy of Science*, first online: 17 December 2020. doi:10.1093/bjps/axz054
-* Acerbi, Alberto, Jeremy Kendal, and Jamshid J. Tehrani, 2017, “Cultural Complexity and Demography: The Case of Folktales”, *Evolution and Human Behavior*, 38(4): 474–480. doi:10.1016/j.evolhumbehav.2017.03.005
-* Acerbi, Alberto and Alex Mesoudi, 2015, “If We Are All Cultural Darwinians What’s the Fuss about? Clarifying Recent Disagreements in the Field of Cultural Evolution”, *Biology & Philosophy*, 30(4): 481–503. doi:10.1007/s10539-015-9490-2
-* Adams, Frederick and Kenneth Aizawa, 2008, *The Bounds of Cognition*, Malden, MA: Blackwell.
-* Adriaens, Pieter R. and Andreas de Block, 2006, “The Evolution of a Social Construction: The Case of Male Homosexuality”, *Perspectives in Biology and Medicine*, 49(4): 570–585. doi:10.1353/pbm.2006.0051
-* ––– (eds.), 2011, *Maladapting Minds: Philosophy, Psychiatry, and Evolutionary Theory*, (International Perspectives in Philosophy and Psychiatry), Oxford/New York: Oxford University Press. doi:10.1093/med/9780199558667.001.0001
-* Ainslie, George, 2021, “Willpower with and without Effort”, *Behavioral and Brain Sciences*, 44: e30. doi:10.1017/S0140525X20000357
-* Alfano, Mark, 2021, “Virtues for Agents in Directed Social Networks”, *Synthese*, 199(3–4): 8423–8442. doi:10.1007/s11229-021-03169-6
-* Alfano, Mark, Don Loeb, and Alexandra Plakias, 2018, “Experimental Moral Philosophy”, *The Stanford Encyclopedia of Philosophy* (Winter 2018 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2018/entries/experimental-moral/>.
-* American Psychiatric Association (ed.), 2013, *Diagnostic and Statistical Manual of Mental Disorders. DSM-5*, fifth edition, Arlington, VA: American Psychiatric Association.
-* Amir, Dorsa and Katherine McAuliffe, 2020, “Cross-Cultural, Developmental Psychology: Integrating Approaches and Key Insights”, *Evolution and Human Behavior*, 41(5): 430–444. doi:10.1016/j.evolhumbehav.2020.06.006
+* Aaby, Bendik Hellem and Grant Ramsey, forthcoming, “Three Kinds of Niche Construction”, _The British Journal for the Philosophy of Science_, first online: 17 December 2020. doi:10.1093/bjps/axz054
+* Acerbi, Alberto, Jeremy Kendal, and Jamshid J. Tehrani, 2017, “Cultural Complexity and Demography: The Case of Folktales”, _Evolution and Human Behavior_, 38(4): 474–480. doi:10.1016/j.evolhumbehav.2017.03.005
+* Acerbi, Alberto and Alex Mesoudi, 2015, “If We Are All Cultural Darwinians What’s the Fuss about? Clarifying Recent Disagreements in the Field of Cultural Evolution”, _Biology & Philosophy_, 30(4): 481–503. doi:10.1007/s10539-015-9490-2
+* Adams, Frederick and Kenneth Aizawa, 2008, _The Bounds of Cognition_, Malden, MA: Blackwell.
+* Adriaens, Pieter R. and Andreas de Block, 2006, “The Evolution of a Social Construction: The Case of Male Homosexuality”, _Perspectives in Biology and Medicine_, 49(4): 570–585. doi:10.1353/pbm.2006.0051
+* ––– (eds.), 2011, _Maladapting Minds: Philosophy, Psychiatry, and Evolutionary Theory_, (International Perspectives in Philosophy and Psychiatry), Oxford/New York: Oxford University Press. doi:10.1093/med/9780199558667.001.0001
+* Ainslie, George, 2021, “Willpower with and without Effort”, _Behavioral and Brain Sciences_, 44: e30. doi:10.1017/S0140525X20000357
+* Alfano, Mark, 2021, “Virtues for Agents in Directed Social Networks”, _Synthese_, 199(3–4): 8423–8442. doi:10.1007/s11229-021-03169-6
+* Alfano, Mark, Don Loeb, and Alexandra Plakias, 2018, “Experimental Moral Philosophy”, _The Stanford Encyclopedia of Philosophy_ (Winter 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2018/entries/experimental-moral/](https://plato.stanford.edu/archives/win2018/entries/experimental-moral/).
+* American Psychiatric Association (ed.), 2013, _Diagnostic and Statistical Manual of Mental Disorders. DSM-5_, fifth edition, Arlington, VA: American Psychiatric Association.
+* Amir, Dorsa and Katherine McAuliffe, 2020, “Cross-Cultural, Developmental Psychology: Integrating Approaches and Key Insights”, _Evolution and Human Behavior_, 41(5): 430–444. doi:10.1016/j.evolhumbehav.2020.06.006
 * Anderson, Elizabeth, 2021, “Epistemic Bubbles and Authoritarian Politics”, in Edenberg and Hannon 2021: 11–30.
-* Anderson, Michael L., 2014, *After Phrenology: Neural Reuse and the Interactive Brain*, Cambridge, MA: MIT Press.
-* Andow, James, 2016, “Qualitative Tools and Experimental Philosophy”, *Philosophical Psychology*, 29(8): 1128–1141. doi:10.1080/09515089.2016.1224826
-* Andrews, Kristin, 2020a, “Naïve Normativity: The Social Foundation of Moral Cognition”, *Journal of the American Philosophical Association*, 6(1): 36–56. doi:10.1017/apa.2019.30
-* –––, 2020b, *The Animal Mind: An Introduction to the Philosophy of Animal Cognition*, second edition, Abingdon, UK/New York: Routledge. doi:10.4324/9780203712511
-* Apicella, Coren L., Eduardo M. Azevedo, Nicholas A. Christakis, and James H. Fowler, 2014, “Evolutionary Origins of the Endowment Effect: Evidence from Hunter-Gatherers”, *American Economic Review*, 104(6): 1793–1805. doi:10.1257/aer.104.6.1793
-* Apicella, Coren, Ara Norenzayan, and Joseph Henrich, 2020, “Beyond WEIRD: A Review of the Last Decade and a Look Ahead to the Global Laboratory of the Future”, *Evolution and Human Behavior*, 41(5): 319–329. doi:10.1016/j.evolhumbehav.2020.07.015
-* Aplin, Lucy M., 2019, “Culture and Cultural Evolution in Birds: A Review of the Evidence”, *Animal Behaviour*, 147:: 179–187. doi:10.1016/j.anbehav.2018.05.001
-* Arnett, Jeffrey J., 2008, “The Neglected 95%: Why American Psychology Needs to Become Less American.”, *American Psychologist*, 63(7): 602–614. doi:10.1037/0003-066X.63.7.602
-* Atran, Scott, 2002, *In Gods We Trust: The Evolutionary Landscape of Religion*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195178036.001.0001
-* Baimel, Adam, Myriam Juda, Susan Birch, and Joseph Henrich, 2021, “Machiavellian Strategist or Cultural Learner? Mentalizing and Learning over Development in a Resource-Sharing Game”, *Evolutionary Human Sciences*, 3: e14. doi:10.1017/ehs.2021.11
-* Baldwin, John R., Sandra L. Faulkner, Michael L. Hecht, and Sheryl L. Lindsley (eds.), 2006, *Redefining Culture: Perspectives Across the Disciplines*, New York: Routledge. doi:10.4324/9781410617002
-* Bandini, Elisa and Rachel A. Harrison, 2020, “Innovation in Chimpanzees”, *Biological Reviews*, 95(5): 1167–1197. doi:10.1111/brv.12604
-* Banks, Caroline Giles, 1991, “‘Culture’ in Culture-Bound Syndromes: The Case of Anorexia Nervosa”, *Social Science & Medicine*, 34(8): 867–884. doi:10.1016/0277-9536(92)90256-P
-* Barkan, Elazar, 1991, *The Retreat of Scientific Racism: Changing Concepts of Race in Britain and the United States between the World Wars*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511558351
-* Barkow, Jerome H., Leda Cosmides, and John Tooby, 1992, *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, New York: Oxford University Press.
-* Barnes, Barry, David Bloor, and John Henry, 1996, *Scientific Knowledge: A Sociological Analysis*, Chicago: University of Chicago Press.
-* Barrett, H. Clark, 2020, “Deciding What to Observe: Thoughts for a Post-WEIRD Generation”, *Evolution and Human Behavior*, 41(5): 445–453. doi:10.1016/j.evolhumbehav.2020.05.006
-* Barrett, H. Clark, Alexander Bolyanatz, Alyssa N. Crittenden, Daniel M. T. Fessler, Simon Fitzpatrick, Michael Gurven, Joseph Henrich, Martin Kanovsky, Geoff Kushnick, Anne Pisor, Brooke A. Scelza, Stephen Stich, Chris von Rueden, Wanying Zhao, and Stephen Laurence, 2016, “Small-Scale Societies Exhibit Fundamental Variation in the Role of Intentions in Moral Judgment”, *Proceedings of the National Academy of Sciences*, 113(17): 4688–4693. doi:10.1073/pnas.1522070113
-* Barrett, H. Clark and Robert Kurzban, 2006, “Modularity in Cognition: Framing the Debate.”, *Psychological Review*, 113(3): 628–647. doi:10.1037/0033-295X.113.3.628
-* Barrett, H. Clark and Rebecca R. Saxe, 2021, “Are Some Cultures More Mind-Minded in Their Moral Judgements than Others?”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 376(1838): 20200288. doi:10.1098/rstb.2020.0288
-* Baumard, Nicolas, Jean-Baptiste André, and Dan Sperber, 2013, “A Mutualistic Approach to Morality: The Evolution of Fairness by Partner Choice”, *Behavioral and Brain Sciences*, 36(1): 59–78. doi:10.1017/S0140525X11002202
-* Beck, Jacob, 2013, “Why We Can’t Say What Animals Think”, *Philosophical Psychology*, 26(4): 520–546. doi:10.1080/09515089.2012.670922
-* Beebe, James R. and Ryan Undercoffer, 2016, “Individual and Cross-Cultural Differences in Semantic Intuitions: New Experimental Findings”, *Journal of Cognition and Culture*, 16(3–4): 322–357. doi:10.1163/15685373-12342182
-* Binmore, Ken, 2006, “Why Do People Cooperate?”, *Politics, Philosophy & Economics*, 5(1): 81–96. doi:10.1177/1470594X06060620
-* Birch, Jonathan, 2021, “Toolmaking and the Evolution of Normative Cognition”, *Biology & Philosophy*, 36(1): article 4. doi:10.1007/s10539-020-09777-9
-* Birch, Jonathan and Cecilia Heyes, 2021, “The Cultural Evolution of Cultural Evolution”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 376(1828): 20200051. doi:10.1098/rstb.2020.0051
-* Borsboom, Denny, Angélique O. J. Cramer, and Annemarie Kalis, 2019, “Brain Disorders? Not Really: Why Network Structures Block Reductionism in Psychopathology Research”, *Behavioral and Brain Sciences*, 42: e2. doi:10.1017/S0140525X17002266
-* Boudry, Maarten, 2018, “Replicate after Reading: On the Extraction and Evocation of Cultural Information”, *Biology & Philosophy*, 33(3–4): article 27. doi:10.1007/s10539-018-9637-z
-* Boudry, Maarten, Stefaan Blancke, and Massimo Pigliucci, 2015, “What Makes Weird Beliefs Thrive? The Epidemiology of Pseudoscience”, *Philosophical Psychology*, 28(8): 1177–1198. doi:10.1080/09515089.2014.971946
-* Boyd, Brian, 2009, *On the Origin of Stories: Evolution, Cognition, and Fiction*, Cambridge, MA: Belknap Press.
-* Boyd, Robert, 2017, *A Different Kind of Animal: How Culture Transformed Our Species*, (The University Center for Human Values Series), Princeton, NJ: Princeton University Press.
-* Boyd, Robert and Peter J. Richerson, 1985, *Culture and the Evolutionary Process*, Chicago: University of Chicago Press.
-* –––, 2000, “Memes: Universal Acid or a Better Mousetrap?”, in *Darwinizing Culture: The Status of Memetics as a Science*, Robert Aunger (ed.), Oxford: Oxford University Press, 143–162.
-* –––, 2005, *The Origin and Evolution of Cultures*, (Evolution and Cognition), Oxford/New York: Oxford University Press.
-* Boyd, Robert, Peter J. Richerson, and Joseph Henrich, 2011, “The Cultural Niche: Why Social Learning Is Essential for Human Adaptation”, *Proceedings of the National Academy of Sciences*, 108(suppl. 2): 10918–10925. doi:10.1073/pnas.1100290108
-* Boyer, Pascal, 2001, *Religion Explained: The Evolutionary Origins of Religious Thought*, New York: Basic Books.
-* Boyette, Adam H. and Barry S. Hewlett, 2018, “Teaching in Hunter-Gatherers”, *Review of Philosophy and Psychology*, 9(4): 771–797. doi:10.1007/s13164-017-0347-2
-* Braddock, Matthew, 2021, “The Contingency of the Cultural Evolution of Morality, Debunking, and Theism vs. Naturalism”, in *Empirically Engaged Evolutionary Ethics*, Johan De Smedt and Helen De Cruz (eds.), (Synthese Library 437), New York: Springer International Publishing, 179–201. doi:10.1007/978-3-030-68802-8_9
-* Brand, C.O., A. Mesoudi, and P.E. Smaldino, 2021, “Analogy as a Catalyst for Cumulative Cultural Evolution”, *Trends in Cognitive Sciences*, 25(6): 450–461. doi:10.1016/j.tics.2021.03.002
-* Brigandt, Ingo, 2015, “Evolutionary Developmental Biology and the Limits of Philosophical Accounts of Mechanistic Explanation”, in *Explanation in Biology*, Pierre-Alain Braillard and Christophe Malaterre (eds.), (History, Philosophy and Theory of the Life Sciences 11), Dordrecht: Springer Netherlands, 135–173. doi:10.1007/978-94-017-9822-8_7
-* Broesch, Tanya, Alyssa N. Crittenden, Bret A. Beheim, Aaron D. Blackwell, John A. Bunce, Heidi Colleran, Kristin Hagel, Michelle Kline, Richard McElreath, Robin G. Nelson, Anne C. Pisor, Sean Prall, Ilaria Pretelli, Benjamin Purzycki, Elizabeth A. Quinn, Cody Ross, Brooke Scelza, Kathrine Starkweather, Jonathan Stieglitz, and Monique Borgerhoff Mulder, 2020, “Navigating Cross-Cultural Research: Methodological and Ethical Considerations”, *Proceedings of the Royal Society B: Biological Sciences*, 287(1935): 20201245. doi:10.1098/rspb.2020.1245
-* Brook, Andrew, 2009, “Introduction: Philosophy in and Philosophy of Cognitive Science”, *Topics in Cognitive Science*, 1(2): 216–230. doi:10.1111/j.1756-8765.2009.01014.x
-* Brown, Donald E., 1991, *Human Universals*, New York: McGraw-Hill.
-* –––, 2004, “Human Universals, Human Nature & Human Culture”, *Daedalus*, 133(4): 47–54. doi:10.1162/0011526042365645
-* Brownstein, Michael and Daniel Kelly, 2019, “Review of *The Evolution of Moral Progress*, by Allen Buchanan and Russell Powell”, *BJPS Review of Books*, May 2019. [[Brownstein and Kelly 2019 available online](https://www.thebsps.org/reviewofbooks/brownstein-kelly-on-buchanan-powell/)]
-* Buchanan, Allen and Russell Powell, 2016, “Toward a Naturalistic Theory of Moral Progress”, *Ethics*, 126(4): 983–1014. doi:10.1086/686003
-* –––, 2018, *The Evolution of Moral Progress: A Biocultural Theory*, Oxford: Oxford University Press. doi:10.1093/oso/9780190868413.001.0001
-* Buckner, Cameron and James Garson, 2019, “Connectionism”, *The Stanford Encyclopedia of Philosophy* (Fall 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2019/entries/connectionism/>.
-* Bulbulia, Joseph, 2004, “The Cognitive and Evolutionary Psychology of Religion”, *Biology & Philosophy*, 19(5): 655–686. doi:10.1007/s10539-005-5568-6
-* Buller, David J., 2005, “Evolutionary Psychology: The Emperor’s New Paradigm”, *Trends in Cognitive Sciences*, 9(6): 277–283. doi:10.1016/j.tics.2005.04.003
-* Burge, Tyler, 1979, “Individualism and the Mental”, *Midwest Studies in Philosophy*, 4: 73–121. doi:10.1111/j.1475-4975.1979.tb00374.x
-* Buskell, Andrew, 2017, “What Are Cultural Attractors?”, *Biology & Philosophy*, 32(3): 377–394. doi:10.1007/s10539-017-9570-6
-* –––, 2019, “Looking for Middle Ground in Cultural Attraction Theory”, *Evolutionary Anthropology: Issues, News, and Reviews*>, 28(1): 14–17. doi:10.1002/evan.21762
-* –––, forthcoming, “Cumulative Culture and Complex Cultural Traditions”, *Mind & Language*, first online: 29 December 2020. doi:10.1111/mila.12335
-* Buttelmann, David, Norbert Zmyj, Moritz Daum, and Malinda Carpenter, 2013, “Selective Imitation of In-Group Over Out-Group Members in 14-Month-Old Infants”, *Child Development*, 84(2): 422–428. doi:10.1111/j.1467-8624.2012.01860.x
-* Buxton, E. J. M., 1948, “Tits and Peanuts”, *British Birds*, 41(8): 229–232.
-* Byrne, Richard W., Philip J. Barnard, Iain Davidson, Vincent M. Janik, William C. McGrew, Ádam Miklósi, and Polly Wiessner, 2004, “Understanding Culture across Species”, *Trends in Cognitive Sciences*, 8(8): 341–346. doi:10.1016/j.tics.2004.06.002
-* Byrne, Richard W. and Andrew Whiten, 1988, *Machiavellian Intelligence: Social Expertise and the Evolution of Intellect in Monkeys, Apes, and Humans*, Oxford: Clarendon Press.
-* Caldwell, Christine A. and Ailsa E. Millen, 2009, “Social Learning Mechanisms and Cumulative Cultural Evolution: Is Imitation Necessary?”, *Psychological Science*, 20(12): 1478–1483. doi:10.1111/j.1467-9280.2009.02469.x
-* Cao, Rosa, 2020, “New Labels for Old Ideas: Predictive Processing and the Interpretation of Neural Signals”, *Review of Philosophy and Psychology*, 11(3): 517–546. doi:10.1007/s13164-020-00481-x
-* Cappelen, Herman, 2012, *Philosophy without Intuitions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199644865.001.0001
-* Carruthers, Peter, 2006, *The Architecture of the Mind*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199207077.001.0001
-* –––, 2013, “The Distinctively Human Mind: The Many Pillars of Cumulative Culture”, in *The Evolution of Mind, Brain, and Culture*, Gary Hatfield and Holly Pittman (eds), Philadelphia: University of Pennsylvania Press: 325–346 (ch. 13).
-* –––, 2015, *The Centered Mind: What the Science of Working Memory Shows Us About the Nature of Human Thought*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198738824.001.0001
-* Carruthers, Peter, Stephen Laurence, and Stephen Stich (eds.), 2005, *The Innate Mind, Volume 1: Structure and Contents*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195179675.001.0001
-* ––– (eds.), 2006, *The Innate Mind, Volume 2: Culture and Cognition*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195310139.001.0001
-* ––– (eds.), 2007, *The Innate Mind, Volume 3: Foundations and the Future*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195332834.001.0001
-* Carter, J. Adam, Andy Clark, Jesper Kallestrup, S. Orestis Palermos, and Duncan Pritchard (eds.), 2018a, *Socially Extended Epistemology*, Oxford: Oxford University Press. doi:10.1093/oso/9780198801764.001.0001
-* Carter, J. Adam, Andy Clark, and S. Orestis Palermos, 2018b, “New Humans? Ethics, Trust, and the Extended Mind”, in *Extended Epistemology*, J. Adam Carter, Andy Clark, Jesper Kallestrup, S. Orestis Palermos, and Duncan Pritchard (eds.), Oxford: Oxford University Press, 331–351. doi:10.1093/oso/9780198769811.003.0017
-* Carter, J. Adam and S. Orestis Palermos, 2016, “Is Having Your Computer Compromised a Personal Assault? The Ethics of Extended Cognition”, *Journal of the American Philosophical Association*, 2(4): 542–560. doi:10.1017/apa.2016.28
-* Cavalli-Sforza, L. L. and Marcus W. Feldman, 1981, *Cultural Transmission and Evolution: A Quantitative Approach*, (Monographs in Population Biology 16), Princeton, NJ: Princeton University Press.
-* Charbonneau, Mathieu, 2020, “Understanding Cultural Fidelity”, *The British Journal for the Philosophy of Science*, 71(4): 1209–1233. doi:10.1093/bjps/axy052
-* Charbonneau, Mathieu and Pierrick Bourrat, 2021, “Fidelity and the Grain Problem in Cultural Evolution”, *Synthese*, 199(3–4): 5815–5836. doi:10.1007/s11229-021-03047-1
-* Chellappoo, Azita, 2021, “Rethinking Prestige Bias”, *Synthese*, 198(9): 8191–8212. doi:10.1007/s11229-020-02565-8
-* Chemero, Anthony, 2009, *Radical Embodied Cognitive Science*, (A Bradford Book), Cambridge, MA: MIT Press.
-* Cheng, Joey T., Jessica L. Tracy, Tom Foulsham, Alan Kingstone, and Joseph Henrich, 2013, “Two Ways to the Top: Evidence That Dominance and Prestige Are Distinct yet Viable Avenues to Social Rank and Influence.”, *Journal of Personality and Social Psychology*, 104(1): 103–125. doi:10.1037/a0030398
-* Cheng, Joey T. and Jessica L. Tracy, 2014, “Toward a Unified Science of Hierarchy: Dominance and Prestige Are Two Fundamental Pathways to Human Social Rank”, in *The Psychology of Social Status*, Joey T. Cheng, Jessica L. Tracy, and Cameron Anderson (eds.), New York, NY: Springer New York, 3–27. doi:10.1007/978-1-4939-0867-7_1
-* Chudek, Maciej, Patricia Brosseau-Liard, Susan Birch, and Joseph Henrich, 2013, “Culture-Gene Coevolutionary Theory and Children’s Selective Social Learning”, in *Navigating the Social World: What Infants, Children, and Other Species Can Teach Us*, Mahzarin R. Banaji and Susan A. Gelman (eds.), Oxford: Oxford University Press, 181–185. doi:10.1093/acprof:oso/9780199890712.003.0033
-* Chudek, Maciej and Joseph Henrich, 2011, “Culture–Gene Coevolution, Norm-Psychology and the Emergence of Human Prosociality”, *Trends in Cognitive Sciences*, 15(5): 218–226. doi:10.1016/j.tics.2011.03.003
-* Chvaja, Radim, 2020, “Why Did Memetics Fail? Comparative Case Study”, *Perspectives on Science*, 28(4): 542–570. doi:10.1162/posc_a_00350
-* Claidière, Nicolas and Jean-Baptiste André, 2012, “The Transmission of Genes and Culture: A Questionable Analogy”, *Evolutionary Biology*, 39(1): 12–24. doi:10.1007/s11692-011-9141-8
-* Claidière, Nicolas, Thomas C. Scott-Phillips, and Dan Sperber, 2014, “How Darwinian Is Cultural Evolution?”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 369(1642): 20130368. doi:10.1098/rstb.2013.0368
-* Claidière, Nicolas and Dan Sperber, 2007, “The Role of Attraction in Cultural Evolution”, *Journal of Cognition and Culture*, 7(1–2): 89–111. doi:10.1163/156853707X171829
-* Clark, Andy, 1997a, *Being There: Putting Brain, Body, and World Together Again*, Cambridge, MA: MIT Press.
-* –––, 1997b, “Economic Reason: The Interplay of Individual Learning and External Structure”, in *The Frontiers of the New Institutional Economics*, John N. Drobak and John V. C. Nye (eds.), San Diego, CA: Academic Press, 269–290.
-* –––, 2005, “Intrinsic Content, Active Memory and the Extended Mind”, *Analysis*, 65(1): 1–11. doi:10.1093/analys/65.1.1
-* –––, 2007, “Soft Selves and Ecological Control”, in *Distributed Cognition and the Will: Individual Volition and Social Context*, Don Ross, David Spurrett, Harold Kincaid, and G. Lynn Stephens (eds.), Cambridge, MA: MIT Press, 101–121.
-* –––, 2016, *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190217013.001.0001
-* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi:10.1093/analys/58.1.7
-* Clavien, Christine and Michel Chapuisat, 2013, “Altruism across Disciplines: One Word, Multiple Meanings”, *Biology & Philosophy*, 28(1): 125–140. doi:10.1007/s10539-012-9317-3
-* Clay, Zanna and Claudio Tennie, 2018, “Is Overimitation a Uniquely Human Phenomenon? Insights From Human Children as Compared to Bonobos”, *Child Development*, 89(5): 1535–1544. doi:10.1111/cdev.12857
-* Cline, Brendan, 2015, “Nativism and the Evolutionary Debunking of Morality”, *Review of Philosophy and Psychology*, 6(2): 231–253. doi:10.1007/s13164-014-0207-2
-* Cloud, Daniel, 2014, *The Domestication of Language: Cultural Evolution and the Uniqueness of the Human Animal*, New York: Columbia University Press. doi:10.7312/clou16792
-* Cofnas, Nathan, 2020, “A Debunking Explanation for Moral Progress”, *Philosophical Studies*, 177(11): 3171–3191. doi:10.1007/s11098-019-01365-2
-* Cooper, Rachel Valerie, 2004, “Why Hacking Is Wrong about Human Kinds”, *The British Journal for the Philosophy of Science*, 55(1): 73–85. doi:10.1093/bjps/55.1.73
-* –––, 2007, *Psychiatry and Philosophy of Science*, (Philosophy and Science), Stocksfield, UK: Acumen.
-* Coseru, Christian, 2009 [2017], “Mind in Indian Buddhist Philosophy”, *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition), Edward N. Zalta (ed.), first version 2009, URL = <https://plato.stanford.edu/archives/spr2017/entries/mind-indian-buddhism/>.
-* Cova, Florian, Amanda Garcia, and Shen-yi Liao, 2015, “Experimental Philosophy of Aesthetics”, *Philosophy Compass*, 10(12): 927–939. doi:10.1111/phc3.12271
-* Cova, Florian, Brent Strickland, Angela Abatista, Aurélien Allard, James Andow, Mario Attie, James Beebe, Renatas Berniūnas, Jordane Boudesseul, Matteo Colombo, Fiery Cushman, Rodrigo Diaz, Noah N’Djaye Nikolai van Dongen, Vilius Dranseika, Brian D. Earp, Antonio Gaitán Torres, Ivar Hannikainen, José V. Hernández-Conde, Wenjia Hu, François Jaquet, et al., 2021, “Estimating the Reproducibility of Experimental Philosophy”, *Review of Philosophy and Psychology*, 12(1): 9–44. doi:10.1007/s13164-018-0400-9
-* Crozier, Ivan, 2012, “Making Up Koro: Multiplicity, Psychiatry, Culture, and Penis-Shrinking Anxieties”, *Journal of the History of Medicine and Allied Sciences*, 67(1): 36–70. doi:10.1093/jhmas/jrr008
-* Csibra, Gergely and Gergely György, 2006, “Social Learning and Social Cognition: The Case for Pedagogy”, in *Processes of Change in Brain and Cognitive Development: Attention and Performance XXI*, Yuko Manakata and Mark Johnson (eds.), Oxford: Oxford University Press, 249–274.
-* –––, 2009, “Natural Pedagogy”, *Trends in Cognitive Sciences*, 13(4): 148–153. doi:10.1016/j.tics.2009.01.005
-* Curry, Oliver Scott, 2016, “Morality as Cooperation: A Problem-Centred Approach”, in *The Evolution of Morality*, Todd K. Shackelford and Ranald D. Hansen (eds.), (Evolutionary Psychology), Cham: Springer International Publishing, 27–51. doi:10.1007/978-3-319-19671-8_2
-* Curry, Oliver Scott, Mark Alfano, Mark J. Brandt, and Christine Pelican, forthcoming, “Moral Molecules: Morality as a Combinatorial System”, *Review of Philosophy and Psychology*, first online: 11 August 2021. doi:10.1007/s13164-021-00540-x
-* Curtin, Cameron M., H. Clark Barrett, Alexander Bolyanatz, Alyssa N. Crittenden, Daniel M.T. Fessler, Simon Fitzpatrick, Michael Gurven, Martin Kanovsky, Geoff Kushnick, Stephen Laurence, Anne Pisor, Brooke Scelza, Stephen Stich, Chris von Rueden, and Joseph Henrich, 2020, “Kinship Intensity and the Use of Mental States in Moral Judgment across Societies”, *Evolution and Human Behavior*, 41(5): 415–429. doi:10.1016/j.evolhumbehav.2020.07.002
-* Davidson, Lacey J. and Daniel Kelly, 2020, “Minding the Gap: Bias, Soft Structures, and the Double Life of Social Norms”, *Journal of Applied Philosophy*, 37(2): 190–210. doi:10.1111/japp.12351
-* Davis, Taylor, 2020, “Dual Inheritance, Common Sense, and the Justification of Religious Belief”, in *Scientific Challenges to Common Sense Philosophy*, Rik Peels, Jeroen de Ridder, and René van Woudenberg (eds.), New York: Routledge, 191–214.
-* Davis, Taylor and Daniel Kelly, 2018, “Norms, Not Moral Norms: The Boundaries of Morality Do Not Matter”, *Behavioral and Brain Sciences*, 41: e101. doi:10.1017/S0140525X18000067
-* –––, forthcoming, “A Framework for the Emotional Psychology of Group Membership: For Review of Philosophy and Psychology, Special Issue on Hostile Emotions”, *Review of Philosophy and Psychology*, first online: 15 June 2021. doi:10.1007/s13164-021-00561-6
-* Darwin, Charles, 1871 [1981], *The Descent of Man, and Selection in Relation to Sex*, London: John Murray. Facsimile of the first edition edition, Princeton, NJ: Princeton University Press, 1981.
-* Dawkins, Richard, 1976, *The Selfish Gene*, New York: Oxford University Press.
-* –––, 1982, *The Extended Phenotype: The Gene as the Unit of Selection*, Oxford/San Francisco: W.H. Freeman.
-* De Block, Andreas and Grant Ramsey, 2016, “The Organism-Centered Approach to Cultural Evolution”, *Topoi*, 35(1): 283–290. doi:10.1007/s11245-014-9283-2
-* De Cruz, Helen, 2006, “Why Are Some Numerical Concepts More Successful than Others? An Evolutionary Perspective on the History of Number Concepts”, *Evolution and Human Behavior*, 27(4): 306–323. doi:10.1016/j.evolhumbehav.2006.02.001
-* De Cruz, Helen and Johan de Smedt, 2015, *A Natural History of Natural Theology: The Cognitive Science of Theology and Philosophy of Religion*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/10219.001.0001
-* De Houwer, Jan and Sean Hughes, 2020, *The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective*, Cambridge, MA: The MIT Press.
-* Dean, Lewis G., Gill L. Vale, Kevin N. Laland, Emma Flynn, and Rachel L. Kendal, 2014, “Human Cumulative Culture: A Comparative Perspective: Human Cumulative Culture”, *Biological Reviews*, 89(2): 284–301. doi:10.1111/brv.12053
-* Denby, David, 2005, “Herder: Culture, Anthropology and the Enlightenment”, *History of the Human Sciences*, 18(1): 55–76. doi:10.1177/0952695105051126
-* Dennett, Daniel C., 1995, *Darwin’s Dangerous Idea: Evolution and the Meanings of Life*, New York: Simon & Schuster.
-* –––, 2017, *From Bacteria to Bach and Back: The Evolution of Minds*, New York: W.W. Norton & Company.
-* Derex, Maxime and Robert Boyd, 2015, “The Foundations of the Human Cultural Niche”, *Nature Communications*, 6(1): article 8398. doi:10.1038/ncomms9398
-* –––, 2016, “Partial Connectivity Increases Cultural Accumulation within Groups”, *Proceedings of the National Academy of Sciences*, 113(11): 2982–2987. doi:10.1073/pnas.1518798113
-* Derex, Maxime and Alex Mesoudi, 2020, “Cumulative Cultural Evolution within Evolving Population Structures”, *Trends in Cognitive Sciences*, 24(8): 654–667. doi:10.1016/j.tics.2020.04.005
-* DeSilva, Jeremy M., James F. A. Traniello, Alexander G. Claxton, and Luke D. Fannin, 2021, “When and Why Did Human Brains Decrease in Size? A New Change-Point Analysis and Insights From Brain Evolution in Ants”, *Frontiers in Ecology and Evolution*, 9: 742639. doi:10.3389/fevo.2021.742639
-* Deutsch, Max, 2010, “Intuitions, Counter-Examples, and Experimental Philosophy”, *Review of Philosophy and Psychology*, 1(3): 447–460. doi:10.1007/s13164-010-0033-0
-* Devitt, Michael, 2011, “Experimental Semantics”, *Philosophy and Phenomenological Research*, 82(2): 418–435. doi:10.1111/j.1933-1592.2010.00413.x
-* Di Paolo, Ezequiel and Evan Thompson, , 2014. “The Enactive Approach”, in *The Routledge Handbook of Embodied Cognition*, Lawrence Shapiro (ed.), London: Routledge: 86–96.
-* DiPaolo, Joshua and Robert Mark Simpson, 2016, “Indoctrination Anxiety and the Etiology of Belief”, *Synthese*, 193(10): 3079–3098. doi:10.1007/s11229-015-0919-6
-* Donald, Merlin, 1991, *Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition*, Cambridge, MA: Harvard University Press.
-* –––, 2007, “The Slow Process: A Hypothetical Cognitive Adaptation for Distributed Cognitive Networks”, *Journal of Physiology-Paris*, 101(4–6): 214–222. doi:10.1016/j.jphysparis.2007.11.006
-* Dor, Daniel, 2015, *The Instruction of Imagination: Language as a Social Communication Technology*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190256623.001.0001
-* –––, 2017, “From Experience to Imagination: Language and Its Evolution as a Social Communication Technology”, *Journal of Neurolinguistics*, 43(Part B): 107–119. doi:10.1016/j.jneuroling.2016.10.003
+* Anderson, Michael L., 2014, _After Phrenology: Neural Reuse and the Interactive Brain_, Cambridge, MA: MIT Press.
+* Andow, James, 2016, “Qualitative Tools and Experimental Philosophy”, _Philosophical Psychology_, 29(8): 1128–1141. doi:10.1080/09515089.2016.1224826
+* Andrews, Kristin, 2020a, “Naïve Normativity: The Social Foundation of Moral Cognition”, _Journal of the American Philosophical Association_, 6(1): 36–56. doi:10.1017/apa.2019.30
+* –––, 2020b, _The Animal Mind: An Introduction to the Philosophy of Animal Cognition_, second edition, Abingdon, UK/New York: Routledge. doi:10.4324/9780203712511
+* Apicella, Coren L., Eduardo M. Azevedo, Nicholas A. Christakis, and James H. Fowler, 2014, “Evolutionary Origins of the Endowment Effect: Evidence from Hunter-Gatherers”, _American Economic Review_, 104(6): 1793–1805. doi:10.1257/aer.104.6.1793
+* Apicella, Coren, Ara Norenzayan, and Joseph Henrich, 2020, “Beyond WEIRD: A Review of the Last Decade and a Look Ahead to the Global Laboratory of the Future”, _Evolution and Human Behavior_, 41(5): 319–329. doi:10.1016/j.evolhumbehav.2020.07.015
+* Aplin, Lucy M., 2019, “Culture and Cultural Evolution in Birds: A Review of the Evidence”, _Animal Behaviour_, 147:: 179–187. doi:10.1016/j.anbehav.2018.05.001
+* Arnett, Jeffrey J., 2008, “The Neglected 95%: Why American Psychology Needs to Become Less American.”, _American Psychologist_, 63(7): 602–614. doi:10.1037/0003-066X.63.7.602
+* Atran, Scott, 2002, _In Gods We Trust: The Evolutionary Landscape of Religion_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195178036.001.0001
+* Baimel, Adam, Myriam Juda, Susan Birch, and Joseph Henrich, 2021, “Machiavellian Strategist or Cultural Learner? Mentalizing and Learning over Development in a Resource-Sharing Game”, _Evolutionary Human Sciences_, 3: e14. doi:10.1017/ehs.2021.11
+* Baldwin, John R., Sandra L. Faulkner, Michael L. Hecht, and Sheryl L. Lindsley (eds.), 2006, _Redefining Culture: Perspectives Across the Disciplines_, New York: Routledge. doi:10.4324/9781410617002
+* Bandini, Elisa and Rachel A. Harrison, 2020, “Innovation in Chimpanzees”, _Biological Reviews_, 95(5): 1167–1197. doi:10.1111/brv.12604
+* Banks, Caroline Giles, 1991, “‘Culture’ in Culture-Bound Syndromes: The Case of Anorexia Nervosa”, _Social Science & Medicine_, 34(8): 867–884. doi:10.1016/0277-9536(92)90256-P
+* Barkan, Elazar, 1991, _The Retreat of Scientific Racism: Changing Concepts of Race in Britain and the United States between the World Wars_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511558351
+* Barkow, Jerome H., Leda Cosmides, and John Tooby, 1992, _The Adapted Mind: Evolutionary Psychology and the Generation of Culture_, New York: Oxford University Press.
+* Barnes, Barry, David Bloor, and John Henry, 1996, _Scientific Knowledge: A Sociological Analysis_, Chicago: University of Chicago Press.
+* Barrett, H. Clark, 2020, “Deciding What to Observe: Thoughts for a Post-WEIRD Generation”, _Evolution and Human Behavior_, 41(5): 445–453. doi:10.1016/j.evolhumbehav.2020.05.006
+* Barrett, H. Clark, Alexander Bolyanatz, Alyssa N. Crittenden, Daniel M. T. Fessler, Simon Fitzpatrick, Michael Gurven, Joseph Henrich, Martin Kanovsky, Geoff Kushnick, Anne Pisor, Brooke A. Scelza, Stephen Stich, Chris von Rueden, Wanying Zhao, and Stephen Laurence, 2016, “Small-Scale Societies Exhibit Fundamental Variation in the Role of Intentions in Moral Judgment”, _Proceedings of the National Academy of Sciences_, 113(17): 4688–4693. doi:10.1073/pnas.1522070113
+* Barrett, H. Clark and Robert Kurzban, 2006, “Modularity in Cognition: Framing the Debate.”, _Psychological Review_, 113(3): 628–647. doi:10.1037/0033-295X.113.3.628
+* Barrett, H. Clark and Rebecca R. Saxe, 2021, “Are Some Cultures More Mind-Minded in Their Moral Judgements than Others?”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 376(1838): 20200288. doi:10.1098/rstb.2020.0288
+* Baumard, Nicolas, Jean-Baptiste André, and Dan Sperber, 2013, “A Mutualistic Approach to Morality: The Evolution of Fairness by Partner Choice”, _Behavioral and Brain Sciences_, 36(1): 59–78. doi:10.1017/S0140525X11002202
+* Beck, Jacob, 2013, “Why We Can’t Say What Animals Think”, _Philosophical Psychology_, 26(4): 520–546. doi:10.1080/09515089.2012.670922
+* Beebe, James R. and Ryan Undercoffer, 2016, “Individual and Cross-Cultural Differences in Semantic Intuitions: New Experimental Findings”, _Journal of Cognition and Culture_, 16(3–4): 322–357. doi:10.1163/15685373-12342182
+* Binmore, Ken, 2006, “Why Do People Cooperate?”, _Politics, Philosophy & Economics_, 5(1): 81–96. doi:10.1177/1470594X06060620
+* Birch, Jonathan, 2021, “Toolmaking and the Evolution of Normative Cognition”, _Biology & Philosophy_, 36(1): article 4. doi:10.1007/s10539-020-09777-9
+* Birch, Jonathan and Cecilia Heyes, 2021, “The Cultural Evolution of Cultural Evolution”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 376(1828): 20200051. doi:10.1098/rstb.2020.0051
+* Borsboom, Denny, Angélique O. J. Cramer, and Annemarie Kalis, 2019, “Brain Disorders? Not Really: Why Network Structures Block Reductionism in Psychopathology Research”, _Behavioral and Brain Sciences_, 42: e2. doi:10.1017/S0140525X17002266
+* Boudry, Maarten, 2018, “Replicate after Reading: On the Extraction and Evocation of Cultural Information”, _Biology & Philosophy_, 33(3–4): article 27. doi:10.1007/s10539-018-9637-z
+* Boudry, Maarten, Stefaan Blancke, and Massimo Pigliucci, 2015, “What Makes Weird Beliefs Thrive? The Epidemiology of Pseudoscience”, _Philosophical Psychology_, 28(8): 1177–1198. doi:10.1080/09515089.2014.971946
+* Boyd, Brian, 2009, _On the Origin of Stories: Evolution, Cognition, and Fiction_, Cambridge, MA: Belknap Press.
+* Boyd, Robert, 2017, _A Different Kind of Animal: How Culture Transformed Our Species_, (The University Center for Human Values Series), Princeton, NJ: Princeton University Press.
+* Boyd, Robert and Peter J. Richerson, 1985, _Culture and the Evolutionary Process_, Chicago: University of Chicago Press.
+* –––, 2000, “Memes: Universal Acid or a Better Mousetrap?”, in _Darwinizing Culture: The Status of Memetics as a Science_, Robert Aunger (ed.), Oxford: Oxford University Press, 143–162.
+* –––, 2005, _The Origin and Evolution of Cultures_, (Evolution and Cognition), Oxford/New York: Oxford University Press.
+* Boyd, Robert, Peter J. Richerson, and Joseph Henrich, 2011, “The Cultural Niche: Why Social Learning Is Essential for Human Adaptation”, _Proceedings of the National Academy of Sciences_, 108(suppl. 2): 10918–10925. doi:10.1073/pnas.1100290108
+* Boyer, Pascal, 2001, _Religion Explained: The Evolutionary Origins of Religious Thought_, New York: Basic Books.
+* Boyette, Adam H. and Barry S. Hewlett, 2018, “Teaching in Hunter-Gatherers”, _Review of Philosophy and Psychology_, 9(4): 771–797. doi:10.1007/s13164-017-0347-2
+* Braddock, Matthew, 2021, “The Contingency of the Cultural Evolution of Morality, Debunking, and Theism vs. Naturalism”, in _Empirically Engaged Evolutionary Ethics_, Johan De Smedt and Helen De Cruz (eds.), (Synthese Library 437), New York: Springer International Publishing, 179–201. doi:10.1007/978-3-030-68802-8\_9
+* Brand, C.O., A. Mesoudi, and P.E. Smaldino, 2021, “Analogy as a Catalyst for Cumulative Cultural Evolution”, _Trends in Cognitive Sciences_, 25(6): 450–461. doi:10.1016/j.tics.2021.03.002
+* Brigandt, Ingo, 2015, “Evolutionary Developmental Biology and the Limits of Philosophical Accounts of Mechanistic Explanation”, in _Explanation in Biology_, Pierre-Alain Braillard and Christophe Malaterre (eds.), (History, Philosophy and Theory of the Life Sciences 11), Dordrecht: Springer Netherlands, 135–173. doi:10.1007/978-94-017-9822-8\_7
+* Broesch, Tanya, Alyssa N. Crittenden, Bret A. Beheim, Aaron D. Blackwell, John A. Bunce, Heidi Colleran, Kristin Hagel, Michelle Kline, Richard McElreath, Robin G. Nelson, Anne C. Pisor, Sean Prall, Ilaria Pretelli, Benjamin Purzycki, Elizabeth A. Quinn, Cody Ross, Brooke Scelza, Kathrine Starkweather, Jonathan Stieglitz, and Monique Borgerhoff Mulder, 2020, “Navigating Cross-Cultural Research: Methodological and Ethical Considerations”, _Proceedings of the Royal Society B: Biological Sciences_, 287(1935): 20201245. doi:10.1098/rspb.2020.1245
+* Brook, Andrew, 2009, “Introduction: Philosophy in and Philosophy of Cognitive Science”, _Topics in Cognitive Science_, 1(2): 216–230. doi:10.1111/j.1756-8765.2009.01014.x
+* Brown, Donald E., 1991, _Human Universals_, New York: McGraw-Hill.
+* –––, 2004, “Human Universals, Human Nature & Human Culture”, _Daedalus_, 133(4): 47–54. doi:10.1162/0011526042365645
+* Brownstein, Michael and Daniel Kelly, 2019, “Review of _The Evolution of Moral Progress_, by Allen Buchanan and Russell Powell”, _BJPS Review of Books_, May 2019. \[[Brownstein and Kelly 2019 available online](https://www.thebsps.org/reviewofbooks/brownstein-kelly-on-buchanan-powell/)]
+* Buchanan, Allen and Russell Powell, 2016, “Toward a Naturalistic Theory of Moral Progress”, _Ethics_, 126(4): 983–1014. doi:10.1086/686003
+* –––, 2018, _The Evolution of Moral Progress: A Biocultural Theory_, Oxford: Oxford University Press. doi:10.1093/oso/9780190868413.001.0001
+* Buckner, Cameron and James Garson, 2019, “Connectionism”, _The Stanford Encyclopedia of Philosophy_ (Fall 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2019/entries/connectionism/](https://plato.stanford.edu/archives/fall2019/entries/connectionism/).
+* Bulbulia, Joseph, 2004, “The Cognitive and Evolutionary Psychology of Religion”, _Biology & Philosophy_, 19(5): 655–686. doi:10.1007/s10539-005-5568-6
+* Buller, David J., 2005, “Evolutionary Psychology: The Emperor’s New Paradigm”, _Trends in Cognitive Sciences_, 9(6): 277–283. doi:10.1016/j.tics.2005.04.003
+* Burge, Tyler, 1979, “Individualism and the Mental”, _Midwest Studies in Philosophy_, 4: 73–121. doi:10.1111/j.1475-4975.1979.tb00374.x
+* Buskell, Andrew, 2017, “What Are Cultural Attractors?”, _Biology & Philosophy_, 32(3): 377–394. doi:10.1007/s10539-017-9570-6
+* –––, 2019, “Looking for Middle Ground in Cultural Attraction Theory”, _Evolutionary Anthropology: Issues, News, and Reviews_>, 28(1): 14–17. doi:10.1002/evan.21762
+* –––, forthcoming, “Cumulative Culture and Complex Cultural Traditions”, _Mind & Language_, first online: 29 December 2020. doi:10.1111/mila.12335
+* Buttelmann, David, Norbert Zmyj, Moritz Daum, and Malinda Carpenter, 2013, “Selective Imitation of In-Group Over Out-Group Members in 14-Month-Old Infants”, _Child Development_, 84(2): 422–428. doi:10.1111/j.1467-8624.2012.01860.x
+* Buxton, E. J. M., 1948, “Tits and Peanuts”, _British Birds_, 41(8): 229–232.
+* Byrne, Richard W., Philip J. Barnard, Iain Davidson, Vincent M. Janik, William C. McGrew, Ádam Miklósi, and Polly Wiessner, 2004, “Understanding Culture across Species”, _Trends in Cognitive Sciences_, 8(8): 341–346. doi:10.1016/j.tics.2004.06.002
+* Byrne, Richard W. and Andrew Whiten, 1988, _Machiavellian Intelligence: Social Expertise and the Evolution of Intellect in Monkeys, Apes, and Humans_, Oxford: Clarendon Press.
+* Caldwell, Christine A. and Ailsa E. Millen, 2009, “Social Learning Mechanisms and Cumulative Cultural Evolution: Is Imitation Necessary?”, _Psychological Science_, 20(12): 1478–1483. doi:10.1111/j.1467-9280.2009.02469.x
+* Cao, Rosa, 2020, “New Labels for Old Ideas: Predictive Processing and the Interpretation of Neural Signals”, _Review of Philosophy and Psychology_, 11(3): 517–546. doi:10.1007/s13164-020-00481-x
+* Cappelen, Herman, 2012, _Philosophy without Intuitions_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199644865.001.0001
+* Carruthers, Peter, 2006, _The Architecture of the Mind_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199207077.001.0001
+* –––, 2013, “The Distinctively Human Mind: The Many Pillars of Cumulative Culture”, in _The Evolution of Mind, Brain, and Culture_, Gary Hatfield and Holly Pittman (eds), Philadelphia: University of Pennsylvania Press: 325–346 (ch. 13).
+* –––, 2015, _The Centered Mind: What the Science of Working Memory Shows Us About the Nature of Human Thought_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198738824.001.0001
+* Carruthers, Peter, Stephen Laurence, and Stephen Stich (eds.), 2005, _The Innate Mind, Volume 1: Structure and Contents_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195179675.001.0001
+* ––– (eds.), 2006, _The Innate Mind, Volume 2: Culture and Cognition_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195310139.001.0001
+* ––– (eds.), 2007, _The Innate Mind, Volume 3: Foundations and the Future_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195332834.001.0001
+* Carter, J. Adam, Andy Clark, Jesper Kallestrup, S. Orestis Palermos, and Duncan Pritchard (eds.), 2018a, _Socially Extended Epistemology_, Oxford: Oxford University Press. doi:10.1093/oso/9780198801764.001.0001
+* Carter, J. Adam, Andy Clark, and S. Orestis Palermos, 2018b, “New Humans? Ethics, Trust, and the Extended Mind”, in _Extended Epistemology_, J. Adam Carter, Andy Clark, Jesper Kallestrup, S. Orestis Palermos, and Duncan Pritchard (eds.), Oxford: Oxford University Press, 331–351. doi:10.1093/oso/9780198769811.003.0017
+* Carter, J. Adam and S. Orestis Palermos, 2016, “Is Having Your Computer Compromised a Personal Assault? The Ethics of Extended Cognition”, _Journal of the American Philosophical Association_, 2(4): 542–560. doi:10.1017/apa.2016.28
+* Cavalli-Sforza, L. L. and Marcus W. Feldman, 1981, _Cultural Transmission and Evolution: A Quantitative Approach_, (Monographs in Population Biology 16), Princeton, NJ: Princeton University Press.
+* Charbonneau, Mathieu, 2020, “Understanding Cultural Fidelity”, _The British Journal for the Philosophy of Science_, 71(4): 1209–1233. doi:10.1093/bjps/axy052
+* Charbonneau, Mathieu and Pierrick Bourrat, 2021, “Fidelity and the Grain Problem in Cultural Evolution”, _Synthese_, 199(3–4): 5815–5836. doi:10.1007/s11229-021-03047-1
+* Chellappoo, Azita, 2021, “Rethinking Prestige Bias”, _Synthese_, 198(9): 8191–8212. doi:10.1007/s11229-020-02565-8
+* Chemero, Anthony, 2009, _Radical Embodied Cognitive Science_, (A Bradford Book), Cambridge, MA: MIT Press.
+* Cheng, Joey T., Jessica L. Tracy, Tom Foulsham, Alan Kingstone, and Joseph Henrich, 2013, “Two Ways to the Top: Evidence That Dominance and Prestige Are Distinct yet Viable Avenues to Social Rank and Influence.”, _Journal of Personality and Social Psychology_, 104(1): 103–125. doi:10.1037/a0030398
+* Cheng, Joey T. and Jessica L. Tracy, 2014, “Toward a Unified Science of Hierarchy: Dominance and Prestige Are Two Fundamental Pathways to Human Social Rank”, in _The Psychology of Social Status_, Joey T. Cheng, Jessica L. Tracy, and Cameron Anderson (eds.), New York, NY: Springer New York, 3–27. doi:10.1007/978-1-4939-0867-7\_1
+* Chudek, Maciej, Patricia Brosseau-Liard, Susan Birch, and Joseph Henrich, 2013, “Culture-Gene Coevolutionary Theory and Children’s Selective Social Learning”, in _Navigating the Social World: What Infants, Children, and Other Species Can Teach Us_, Mahzarin R. Banaji and Susan A. Gelman (eds.), Oxford: Oxford University Press, 181–185. doi:10.1093/acprof:oso/9780199890712.003.0033
+* Chudek, Maciej and Joseph Henrich, 2011, “Culture–Gene Coevolution, Norm-Psychology and the Emergence of Human Prosociality”, _Trends in Cognitive Sciences_, 15(5): 218–226. doi:10.1016/j.tics.2011.03.003
+* Chvaja, Radim, 2020, “Why Did Memetics Fail? Comparative Case Study”, _Perspectives on Science_, 28(4): 542–570. doi:10.1162/posc\_a\_00350
+* Claidière, Nicolas and Jean-Baptiste André, 2012, “The Transmission of Genes and Culture: A Questionable Analogy”, _Evolutionary Biology_, 39(1): 12–24. doi:10.1007/s11692-011-9141-8
+* Claidière, Nicolas, Thomas C. Scott-Phillips, and Dan Sperber, 2014, “How Darwinian Is Cultural Evolution?”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 369(1642): 20130368. doi:10.1098/rstb.2013.0368
+* Claidière, Nicolas and Dan Sperber, 2007, “The Role of Attraction in Cultural Evolution”, _Journal of Cognition and Culture_, 7(1–2): 89–111. doi:10.1163/156853707X171829
+* Clark, Andy, 1997a, _Being There: Putting Brain, Body, and World Together Again_, Cambridge, MA: MIT Press.
+* –––, 1997b, “Economic Reason: The Interplay of Individual Learning and External Structure”, in _The Frontiers of the New Institutional Economics_, John N. Drobak and John V. C. Nye (eds.), San Diego, CA: Academic Press, 269–290.
+* –––, 2005, “Intrinsic Content, Active Memory and the Extended Mind”, _Analysis_, 65(1): 1–11. doi:10.1093/analys/65.1.1
+* –––, 2007, “Soft Selves and Ecological Control”, in _Distributed Cognition and the Will: Individual Volition and Social Context_, Don Ross, David Spurrett, Harold Kincaid, and G. Lynn Stephens (eds.), Cambridge, MA: MIT Press, 101–121.
+* –––, 2016, _Surfing Uncertainty: Prediction, Action, and the Embodied Mind_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190217013.001.0001
+* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, _Analysis_, 58(1): 7–19. doi:10.1093/analys/58.1.7
+* Clavien, Christine and Michel Chapuisat, 2013, “Altruism across Disciplines: One Word, Multiple Meanings”, _Biology & Philosophy_, 28(1): 125–140. doi:10.1007/s10539-012-9317-3
+* Clay, Zanna and Claudio Tennie, 2018, “Is Overimitation a Uniquely Human Phenomenon? Insights From Human Children as Compared to Bonobos”, _Child Development_, 89(5): 1535–1544. doi:10.1111/cdev.12857
+* Cline, Brendan, 2015, “Nativism and the Evolutionary Debunking of Morality”, _Review of Philosophy and Psychology_, 6(2): 231–253. doi:10.1007/s13164-014-0207-2
+* Cloud, Daniel, 2014, _The Domestication of Language: Cultural Evolution and the Uniqueness of the Human Animal_, New York: Columbia University Press. doi:10.7312/clou16792
+* Cofnas, Nathan, 2020, “A Debunking Explanation for Moral Progress”, _Philosophical Studies_, 177(11): 3171–3191. doi:10.1007/s11098-019-01365-2
+* Cooper, Rachel Valerie, 2004, “Why Hacking Is Wrong about Human Kinds”, _The British Journal for the Philosophy of Science_, 55(1): 73–85. doi:10.1093/bjps/55.1.73
+* –––, 2007, _Psychiatry and Philosophy of Science_, (Philosophy and Science), Stocksfield, UK: Acumen.
+* Coseru, Christian, 2009 \[2017], “Mind in Indian Buddhist Philosophy”, _The Stanford Encyclopedia of Philosophy_ (Spring 2017 Edition), Edward N. Zalta (ed.), first version 2009, URL = [https://plato.stanford.edu/archives/spr2017/entries/mind-indian-buddhism/](https://plato.stanford.edu/archives/spr2017/entries/mind-indian-buddhism/).
+* Cova, Florian, Amanda Garcia, and Shen-yi Liao, 2015, “Experimental Philosophy of Aesthetics”, _Philosophy Compass_, 10(12): 927–939. doi:10.1111/phc3.12271
+* Cova, Florian, Brent Strickland, Angela Abatista, Aurélien Allard, James Andow, Mario Attie, James Beebe, Renatas Berniūnas, Jordane Boudesseul, Matteo Colombo, Fiery Cushman, Rodrigo Diaz, Noah N’Djaye Nikolai van Dongen, Vilius Dranseika, Brian D. Earp, Antonio Gaitán Torres, Ivar Hannikainen, José V. Hernández-Conde, Wenjia Hu, François Jaquet, et al., 2021, “Estimating the Reproducibility of Experimental Philosophy”, _Review of Philosophy and Psychology_, 12(1): 9–44. doi:10.1007/s13164-018-0400-9
+* Crozier, Ivan, 2012, “Making Up Koro: Multiplicity, Psychiatry, Culture, and Penis-Shrinking Anxieties”, _Journal of the History of Medicine and Allied Sciences_, 67(1): 36–70. doi:10.1093/jhmas/jrr008
+* Csibra, Gergely and Gergely György, 2006, “Social Learning and Social Cognition: The Case for Pedagogy”, in _Processes of Change in Brain and Cognitive Development: Attention and Performance XXI_, Yuko Manakata and Mark Johnson (eds.), Oxford: Oxford University Press, 249–274.
+* –––, 2009, “Natural Pedagogy”, _Trends in Cognitive Sciences_, 13(4): 148–153. doi:10.1016/j.tics.2009.01.005
+* Curry, Oliver Scott, 2016, “Morality as Cooperation: A Problem-Centred Approach”, in _The Evolution of Morality_, Todd K. Shackelford and Ranald D. Hansen (eds.), (Evolutionary Psychology), Cham: Springer International Publishing, 27–51. doi:10.1007/978-3-319-19671-8\_2
+* Curry, Oliver Scott, Mark Alfano, Mark J. Brandt, and Christine Pelican, forthcoming, “Moral Molecules: Morality as a Combinatorial System”, _Review of Philosophy and Psychology_, first online: 11 August 2021. doi:10.1007/s13164-021-00540-x
+* Curtin, Cameron M., H. Clark Barrett, Alexander Bolyanatz, Alyssa N. Crittenden, Daniel M.T. Fessler, Simon Fitzpatrick, Michael Gurven, Martin Kanovsky, Geoff Kushnick, Stephen Laurence, Anne Pisor, Brooke Scelza, Stephen Stich, Chris von Rueden, and Joseph Henrich, 2020, “Kinship Intensity and the Use of Mental States in Moral Judgment across Societies”, _Evolution and Human Behavior_, 41(5): 415–429. doi:10.1016/j.evolhumbehav.2020.07.002
+* Davidson, Lacey J. and Daniel Kelly, 2020, “Minding the Gap: Bias, Soft Structures, and the Double Life of Social Norms”, _Journal of Applied Philosophy_, 37(2): 190–210. doi:10.1111/japp.12351
+* Davis, Taylor, 2020, “Dual Inheritance, Common Sense, and the Justification of Religious Belief”, in _Scientific Challenges to Common Sense Philosophy_, Rik Peels, Jeroen de Ridder, and René van Woudenberg (eds.), New York: Routledge, 191–214.
+* Davis, Taylor and Daniel Kelly, 2018, “Norms, Not Moral Norms: The Boundaries of Morality Do Not Matter”, _Behavioral and Brain Sciences_, 41: e101. doi:10.1017/S0140525X18000067
+* –––, forthcoming, “A Framework for the Emotional Psychology of Group Membership: For Review of Philosophy and Psychology, Special Issue on Hostile Emotions”, _Review of Philosophy and Psychology_, first online: 15 June 2021. doi:10.1007/s13164-021-00561-6
+* Darwin, Charles, 1871 \[1981], _The Descent of Man, and Selection in Relation to Sex_, London: John Murray. Facsimile of the first edition edition, Princeton, NJ: Princeton University Press, 1981.
+* Dawkins, Richard, 1976, _The Selfish Gene_, New York: Oxford University Press.
+* –––, 1982, _The Extended Phenotype: The Gene as the Unit of Selection_, Oxford/San Francisco: W.H. Freeman.
+* De Block, Andreas and Grant Ramsey, 2016, “The Organism-Centered Approach to Cultural Evolution”, _Topoi_, 35(1): 283–290. doi:10.1007/s11245-014-9283-2
+* De Cruz, Helen, 2006, “Why Are Some Numerical Concepts More Successful than Others? An Evolutionary Perspective on the History of Number Concepts”, _Evolution and Human Behavior_, 27(4): 306–323. doi:10.1016/j.evolhumbehav.2006.02.001
+* De Cruz, Helen and Johan de Smedt, 2015, _A Natural History of Natural Theology: The Cognitive Science of Theology and Philosophy of Religion_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/10219.001.0001
+* De Houwer, Jan and Sean Hughes, 2020, _The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective_, Cambridge, MA: The MIT Press.
+* Dean, Lewis G., Gill L. Vale, Kevin N. Laland, Emma Flynn, and Rachel L. Kendal, 2014, “Human Cumulative Culture: A Comparative Perspective: Human Cumulative Culture”, _Biological Reviews_, 89(2): 284–301. doi:10.1111/brv.12053
+* Denby, David, 2005, “Herder: Culture, Anthropology and the Enlightenment”, _History of the Human Sciences_, 18(1): 55–76. doi:10.1177/0952695105051126
+* Dennett, Daniel C., 1995, _Darwin’s Dangerous Idea: Evolution and the Meanings of Life_, New York: Simon & Schuster.
+* –––, 2017, _From Bacteria to Bach and Back: The Evolution of Minds_, New York: W.W. Norton & Company.
+* Derex, Maxime and Robert Boyd, 2015, “The Foundations of the Human Cultural Niche”, _Nature Communications_, 6(1): article 8398. doi:10.1038/ncomms9398
+* –––, 2016, “Partial Connectivity Increases Cultural Accumulation within Groups”, _Proceedings of the National Academy of Sciences_, 113(11): 2982–2987. doi:10.1073/pnas.1518798113
+* Derex, Maxime and Alex Mesoudi, 2020, “Cumulative Cultural Evolution within Evolving Population Structures”, _Trends in Cognitive Sciences_, 24(8): 654–667. doi:10.1016/j.tics.2020.04.005
+* DeSilva, Jeremy M., James F. A. Traniello, Alexander G. Claxton, and Luke D. Fannin, 2021, “When and Why Did Human Brains Decrease in Size? A New Change-Point Analysis and Insights From Brain Evolution in Ants”, _Frontiers in Ecology and Evolution_, 9: 742639. doi:10.3389/fevo.2021.742639
+* Deutsch, Max, 2010, “Intuitions, Counter-Examples, and Experimental Philosophy”, _Review of Philosophy and Psychology_, 1(3): 447–460. doi:10.1007/s13164-010-0033-0
+* Devitt, Michael, 2011, “Experimental Semantics”, _Philosophy and Phenomenological Research_, 82(2): 418–435. doi:10.1111/j.1933-1592.2010.00413.x
+* Di Paolo, Ezequiel and Evan Thompson, , 2014. “The Enactive Approach”, in _The Routledge Handbook of Embodied Cognition_, Lawrence Shapiro (ed.), London: Routledge: 86–96.
+* DiPaolo, Joshua and Robert Mark Simpson, 2016, “Indoctrination Anxiety and the Etiology of Belief”, _Synthese_, 193(10): 3079–3098. doi:10.1007/s11229-015-0919-6
+* Donald, Merlin, 1991, _Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition_, Cambridge, MA: Harvard University Press.
+* –––, 2007, “The Slow Process: A Hypothetical Cognitive Adaptation for Distributed Cognitive Networks”, _Journal of Physiology-Paris_, 101(4–6): 214–222. doi:10.1016/j.jphysparis.2007.11.006
+* Dor, Daniel, 2015, _The Instruction of Imagination: Language as a Social Communication Technology_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190256623.001.0001
+* –––, 2017, “From Experience to Imagination: Language and Its Evolution as a Social Communication Technology”, _Journal of Neurolinguistics_, 43(Part B): 107–119. doi:10.1016/j.jneuroling.2016.10.003
 * Doris, John M. and Alexandra Plakias, 2008, “How to Argue About Disagreement: Evaluative Diversity and Moral Realism”, in Sinnott-Armstrong 2008b: 303–332.
-* Doris, John, Stephen Stich, Jonathan Phillips, and Lachlan Walmsley, 2020, “Moral Psychology: Empirical Approaches”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2020/entries/moral-psych-emp/>.
-* Doris, John, Stephen Stich, and Lachlan Walmsley, 2020, “Empirical Approaches to Altruism”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2020/entries/altruism-empirical/>.
-* Doris, John M. and The Moral Psychology Research Group, 2010, *The Moral Psychology Handbook*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199582143.001.0001
-* Dotson, Kristie, 2014, “Conceptualizing Epistemic Oppression”, *Social Epistemology*, 28(2): 115–138. doi:10.1080/02691728.2013.782585
-* Downes, Stephen M., 2008 [2021], “Evolutionary Psychology”, *The Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.), first version Spring 2008, URL = <https://plato.stanford.edu/archives/spr2021/entries/evolutionary-psychology/>.
-* –––, 2015, “Evolutionary Psychology, Adaptation and Design”, in *Handbook of Evolutionary Thinking in the Sciences*, Thomas Heams, Philippe Huneman, Guillaume Lecointre, and Marc Silberstein (eds.), Dordrecht: Springer Netherlands, 659–673. doi:10.1007/978-94-017-9014-7_31
-* Driscoll, Catherine, 2009, “On Our Best Behavior: Optimality Models in Human Behavioral Ecology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 40(2): 133–141. doi:10.1016/j.shpsc.2009.03.005
-* Dugatkin, Lee A., 1996, “Copying and Mate Choice”, in *Social Learning in Animals: The Roots of Culture*, Cecilia M. Heyes and Bennett G. Galef (eds.), San Diego, CA: Academic Press, 85–105.
-* Dunstone, Juliet and Christine A. Caldwell, 2018, “Cumulative Culture and Explicit Metacognition: A Review of Theories, Evidence and Key Predictions”, *Palgrave Communications*, 4(1): article 145. doi:10.1057/s41599-018-0200-y
-* Dupré, John, 2001, *Human Nature and the Limits of Science*, Oxford: Clarendon Press. doi:10.1093/0199248060.001.0001
-* Edenberg, Elizabeth and Michael Hannon (eds.), 2021, *Political Epistemology*, Oxford: Oxford University Press. doi:10.1093/oso/9780192893338.001.0001
-* Egler, Miguel, forthcoming, “Who’s Afraid of Cognitive Diversity?”, *Inquiry*, first online: 16 July 2021. doi:10.1080/0020174X.2021.1942977
-* Ellenberger, Henri, 1959, “Aspects Culturels de la Maladie Mentale”, *Canadian Psychiatric Association Journal*, 4(1): 26–37. doi:10.1177/070674375900400110
-* Enquist, Magnus, Kimmo Eriksson, and Stefano Ghirlanda, 2007, “Critical Social Learning: A Solution to Rogers’s Paradox of Nonadaptive Culture”, *American Anthropologist*, 109(4): 727–734. doi:10.1525/aa.2007.109.4.727
-* Fabrega, Horacio, 1991, “Psychiatric Stigma in Non-Western Societies”, *Comprehensive Psychiatry*, 32(6): 534–551. doi:10.1016/0010-440X(91)90033-9
-* Fadda, Antonio, 2021, “Population Thinking in Epistemic Evolution: Bridging Cultural Evolution and the Philosophy of Science”, *Journal for General Philosophy of Science*, 52(2): 351–369. doi:10.1007/s10838-020-09497-4
+* Doris, John, Stephen Stich, Jonathan Phillips, and Lachlan Walmsley, 2020, “Moral Psychology: Empirical Approaches”, _The Stanford Encyclopedia of Philosophy_ (Spring 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/moral-psych-emp/](https://plato.stanford.edu/archives/spr2020/entries/moral-psych-emp/).
+* Doris, John, Stephen Stich, and Lachlan Walmsley, 2020, “Empirical Approaches to Altruism”, _The Stanford Encyclopedia of Philosophy_ (Spring 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/altruism-empirical/](https://plato.stanford.edu/archives/spr2020/entries/altruism-empirical/).
+* Doris, John M. and The Moral Psychology Research Group, 2010, _The Moral Psychology Handbook_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199582143.001.0001
+* Dotson, Kristie, 2014, “Conceptualizing Epistemic Oppression”, _Social Epistemology_, 28(2): 115–138. doi:10.1080/02691728.2013.782585
+* Downes, Stephen M., 2008 \[2021], “Evolutionary Psychology”, _The Stanford Encyclopedia of Philosophy_ (Spring 2021 Edition), Edward N. Zalta (ed.), first version Spring 2008, URL = [https://plato.stanford.edu/archives/spr2021/entries/evolutionary-psychology/](https://plato.stanford.edu/archives/spr2021/entries/evolutionary-psychology/).
+* –––, 2015, “Evolutionary Psychology, Adaptation and Design”, in _Handbook of Evolutionary Thinking in the Sciences_, Thomas Heams, Philippe Huneman, Guillaume Lecointre, and Marc Silberstein (eds.), Dordrecht: Springer Netherlands, 659–673. doi:10.1007/978-94-017-9014-7\_31
+* Driscoll, Catherine, 2009, “On Our Best Behavior: Optimality Models in Human Behavioral Ecology”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 40(2): 133–141. doi:10.1016/j.shpsc.2009.03.005
+* Dugatkin, Lee A., 1996, “Copying and Mate Choice”, in _Social Learning in Animals: The Roots of Culture_, Cecilia M. Heyes and Bennett G. Galef (eds.), San Diego, CA: Academic Press, 85–105.
+* Dunstone, Juliet and Christine A. Caldwell, 2018, “Cumulative Culture and Explicit Metacognition: A Review of Theories, Evidence and Key Predictions”, _Palgrave Communications_, 4(1): article 145. doi:10.1057/s41599-018-0200-y
+* Dupré, John, 2001, _Human Nature and the Limits of Science_, Oxford: Clarendon Press. doi:10.1093/0199248060.001.0001
+* Edenberg, Elizabeth and Michael Hannon (eds.), 2021, _Political Epistemology_, Oxford: Oxford University Press. doi:10.1093/oso/9780192893338.001.0001
+* Egler, Miguel, forthcoming, “Who’s Afraid of Cognitive Diversity?”, _Inquiry_, first online: 16 July 2021. doi:10.1080/0020174X.2021.1942977
+* Ellenberger, Henri, 1959, “Aspects Culturels de la Maladie Mentale”, _Canadian Psychiatric Association Journal_, 4(1): 26–37. doi:10.1177/070674375900400110
+* Enquist, Magnus, Kimmo Eriksson, and Stefano Ghirlanda, 2007, “Critical Social Learning: A Solution to Rogers’s Paradox of Nonadaptive Culture”, _American Anthropologist_, 109(4): 727–734. doi:10.1525/aa.2007.109.4.727
+* Fabrega, Horacio, 1991, “Psychiatric Stigma in Non-Western Societies”, _Comprehensive Psychiatry_, 32(6): 534–551. doi:10.1016/0010-440X(91)90033-9
+* Fadda, Antonio, 2021, “Population Thinking in Epistemic Evolution: Bridging Cultural Evolution and the Philosophy of Science”, _Journal for General Philosophy of Science_, 52(2): 351–369. doi:10.1007/s10838-020-09497-4
 * Faucher, Luc and Isabelle Blanchette, 2011, “Fearing New Dangers: Phobias and the Cognitive Complexity of Human Emotions”, in Adriaens and De Block 2011: 35–64. doi:10.1093/med/9780199558667.003.0002
-* Favela, Luis H., 2020, “Cognitive Science as Complexity Science”, *WIREs Cognitive Science*, 11(4): e1525. doi:10.1002/wcs.1525
-* Feest, Uljana and Thomas Sturm, 2011, “What (Good) Is Historical Epistemology? Editors’ Introduction”, *Erkenntnis*, 75(3): 285–302. doi:10.1007/s10670-011-9345-4
-* Feit, Neil, 2020, “Medical Disorder, Harm, and Damage”, *Theoretical Medicine and Bioethics*, 41(1): 39–52. doi:10.1007/s11017-020-09516-x
+* Favela, Luis H., 2020, “Cognitive Science as Complexity Science”, _WIREs Cognitive Science_, 11(4): e1525. doi:10.1002/wcs.1525
+* Feest, Uljana and Thomas Sturm, 2011, “What (Good) Is Historical Epistemology? Editors’ Introduction”, _Erkenntnis_, 75(3): 285–302. doi:10.1007/s10670-011-9345-4
+* Feit, Neil, 2020, “Medical Disorder, Harm, and Damage”, _Theoretical Medicine and Bioethics_, 41(1): 39–52. doi:10.1007/s11017-020-09516-x
 * Fessler, Daniel M. T. and Edouard Machery, 2012, “Culture and Cognition”, In Margolis, Samuels, and Stich 2012: 503–527.
-* Fidler, Fiona and John Wilcox, 2018, “Reproducibility of Scientific Results”, *The Stanford Encyclopedia of Philosophy* (Winter 2018 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2018/entries/scientific-reproducibility/>.
-* Figueroa, Robert and Sandra Harding (eds.), 2003, *Science and Other Cultures: Issues in Philosophies of Science and Technology*, New York: Routledge. doi:10.4324/9781315881010
-* Fitzpatrick, Simon, 2020, “Chimpanzee Normativity: Evidence and Objections”, *Biology & Philosophy*, 35(4): art. 45. doi:10.1007/s10539-020-09763-1
-* Flanagan, Owen J., 2016, *The Geography of Morals: Varieties of Moral Possibility*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190212155.001.0001
-* Fodor, Jerry A., 1975, *The Language of Thought*, Cambridge, MA: Harvard University Press.
-* –––, 1983, *Modularity of Mind: An Essay on Faculty Psychology*, Cambridge, MA: MIT Press.
-* –––, 1987, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*, (Explorations in Cognitive Science 2), Cambridge, MA: MIT Press.
-* –––, 1994, *The Elm and the Expert: Mentalese and Its Semantics*, (Jean Nicod Lectures 1993), Cambridge, MA: MIT Press.
-* Freud, Sigmund, 1930 [2002], *Das Unbehagen in Der Kultur*, Wien: Internationaler Psychoanalytischer Verlag. Translated as *Civilization and Its Discontents*, David McLintock (trans.), London: Penguin, 2002.
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
-* Fuentes, Agustin, 2017, *The Creative Spark: How Imagination Made Humans Exceptional*, New York: Dutton.
-* Galef, Bennett G., 1992, “The Question of Animal Culture”, *Human Nature*, 3(2): 157–178. doi:10.1007/BF02692251
-* Gallagher, Shaun, 2013, “The Socially Extended Mind”, *Cognitive Systems Research*, special issue on *Socially Extended Cognition*, 25–26: 4–12. doi:10.1016/j.cogsys.2013.03.008
-* Gallagher, Shaun, Antonio Mastrogiorgio, and Enrico Petracca, 2019, “Economic Reasoning and Interaction in Socially Extended Market Institutions”, *Frontiers in Psychology*, 10: article 1856. doi:10.3389/fpsyg.2019.01856
-* Gangestad, Steven, Martie Haselton, and David Buss, 2006, “Evolutionary Foundations of Cultural Variation: Evoked Culture and Mate Preferences”, *Psychological Inquiry*, 17(2): 75–95. doi:10.1207/s15327965pli1702_1
-* Gaus, Gerald F., 2021, *The Open Society and Its Complexities*, (Philosophy, Politics, and Economics), New York: Oxford University Press. doi:10.1093/oso/9780190648978.001.0001
-* Geertz, Clifford, 1973, “Thick Description: Toward an Interpretive Theory of Culture”, in his *The Interpretation of Cultures: Selected Essays*, New York: Basic Books, 3–30.
-* Gelfand, Michele J., Jana L. Raver, Lisa Nishii, Lisa M. Leslie, Janetta Lun, Beng Chong Lim, Lili Duan, Assaf Almaliach, Soon Ang, Jakobina Arnadottir, Zeynep Aycan, Klaus Boehnke, Pawel Boski, Rosa Cabecinhas, Darius Chan, Jagdeep Chhokar, Alessia D’Amato, Montse Ferrer, Iris C. Fischlmayr, Ronald Fischer, et al., 2011, “Differences Between Tight and Loose Cultures: A 33-Nation Study”, *Science*, 332(6033): 1100–1104. doi:10.1126/science.1197754
-* Gemignani, Marco and Ezequiel Peña, 2007, “Postmodern Conceptualizations of Culture in Social Constructionism and Cultural Studies.”, *Journal of Theoretical and Philosophical Psychology*, 27–28(2–1): 276–300. doi:10.1037/h0091297
-* Gergely, György, Katalin Egyed, and Ildikó Király, 2007, “On Pedagogy”, *Developmental Science*, 10(1): 139–146. doi:10.1111/j.1467-7687.2007.00576.x
-* Gertler, Brie, 2007, “Overextending the Mind”, in *Arguing About the Mind*, Brie Gertler and Lawrence Shapiro (eds.), New York/London: Routledge, 192–206.
-* –––, 2012, “Understanding the Internalism-Externalism Debate: What Is the Boundary of the Thinker?”, *Philosophical Perspectives*, 26(1): 51–75. doi:10.1111/phpe.12001
-* Ghirlanda, Stefano, Johan Lind, and Magnus Enquist, 2017, “Memory for Stimulus Sequences: A Divide between Humans and Other Animals?”, *Royal Society Open Science*, 4(6): 161011. doi:10.1098/rsos.161011
-* Gillett, Alexander James, 2018, “Invention through Bricolage: Epistemic Engineering in Scientific Communities”, *RT. A Journal on Research Policy and Evaluation*, 6(1): article 6. doi:10.13130/2282-5398/9113
-* Goffman, Erving, 1961, *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates*, Garden City, NY: Anchor.
-* Gold, Joel and Ian Gold, 2012, “The ‘Truman Show’ Delusion: Psychosis in the Global Village”, *Cognitive Neuropsychiatry*, 17(6): 455–472. doi:10.1080/13546805.2012.666113
-* –––, 2014, *Suspicious Minds: How Culture Shapes Madness*, New York: Free Press.
-* Goldberg, Sanford, 2010, *Relying on Others: An Essay in Epistemology*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199593248.001.0001
-* Goldman, Alvin and Cailin O’Connor, 2019 [2021], “Social Epistemology”, *The Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2021/entries/epistemology-social/>.
-* Good, Byron J., 1993, *Medicine, Rationality and Experience: An Anthropological Perspective*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511811029
-* Gopnik, Alison, 2020, “Childhood as a Solution to Explore–Exploit Tensions”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 375(1803): 20190502. doi:10.1098/rstb.2019.0502
-* Graham, Jesse, Jonathan Haidt, Sena Koleva, Matt Motyl, Ravi Iyer, Sean P. Wojcik, and Peter H. Ditto, 2013, “Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism”, in *Advances in Experimental Social Psychology, 47*, New York: Academic Press, 55–130. doi:10.1016/B978-0-12-407236-7.00002-4
+* Fidler, Fiona and John Wilcox, 2018, “Reproducibility of Scientific Results”, _The Stanford Encyclopedia of Philosophy_ (Winter 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2018/entries/scientific-reproducibility/](https://plato.stanford.edu/archives/win2018/entries/scientific-reproducibility/).
+* Figueroa, Robert and Sandra Harding (eds.), 2003, _Science and Other Cultures: Issues in Philosophies of Science and Technology_, New York: Routledge. doi:10.4324/9781315881010
+* Fitzpatrick, Simon, 2020, “Chimpanzee Normativity: Evidence and Objections”, _Biology & Philosophy_, 35(4): art. 45. doi:10.1007/s10539-020-09763-1
+* Flanagan, Owen J., 2016, _The Geography of Morals: Varieties of Moral Possibility_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190212155.001.0001
+* Fodor, Jerry A., 1975, _The Language of Thought_, Cambridge, MA: Harvard University Press.
+* –––, 1983, _Modularity of Mind: An Essay on Faculty Psychology_, Cambridge, MA: MIT Press.
+* –––, 1987, _Psychosemantics: The Problem of Meaning in the Philosophy of Mind_, (Explorations in Cognitive Science 2), Cambridge, MA: MIT Press.
+* –––, 1994, _The Elm and the Expert: Mentalese and Its Semantics_, (Jean Nicod Lectures 1993), Cambridge, MA: MIT Press.
+* Freud, Sigmund, 1930 \[2002], _Das Unbehagen in Der Kultur_, Wien: Internationaler Psychoanalytischer Verlag. Translated as _Civilization and Its Discontents_, David McLintock (trans.), London: Penguin, 2002.
+* Fricker, Miranda, 2007, _Epistemic Injustice: Power and the Ethics of Knowing_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
+* Fuentes, Agustin, 2017, _The Creative Spark: How Imagination Made Humans Exceptional_, New York: Dutton.
+* Galef, Bennett G., 1992, “The Question of Animal Culture”, _Human Nature_, 3(2): 157–178. doi:10.1007/BF02692251
+* Gallagher, Shaun, 2013, “The Socially Extended Mind”, _Cognitive Systems Research_, special issue on _Socially Extended Cognition_, 25–26: 4–12. doi:10.1016/j.cogsys.2013.03.008
+* Gallagher, Shaun, Antonio Mastrogiorgio, and Enrico Petracca, 2019, “Economic Reasoning and Interaction in Socially Extended Market Institutions”, _Frontiers in Psychology_, 10: article 1856. doi:10.3389/fpsyg.2019.01856
+* Gangestad, Steven, Martie Haselton, and David Buss, 2006, “Evolutionary Foundations of Cultural Variation: Evoked Culture and Mate Preferences”, _Psychological Inquiry_, 17(2): 75–95. doi:10.1207/s15327965pli1702\_1
+* Gaus, Gerald F., 2021, _The Open Society and Its Complexities_, (Philosophy, Politics, and Economics), New York: Oxford University Press. doi:10.1093/oso/9780190648978.001.0001
+* Geertz, Clifford, 1973, “Thick Description: Toward an Interpretive Theory of Culture”, in his _The Interpretation of Cultures: Selected Essays_, New York: Basic Books, 3–30.
+* Gelfand, Michele J., Jana L. Raver, Lisa Nishii, Lisa M. Leslie, Janetta Lun, Beng Chong Lim, Lili Duan, Assaf Almaliach, Soon Ang, Jakobina Arnadottir, Zeynep Aycan, Klaus Boehnke, Pawel Boski, Rosa Cabecinhas, Darius Chan, Jagdeep Chhokar, Alessia D’Amato, Montse Ferrer, Iris C. Fischlmayr, Ronald Fischer, et al., 2011, “Differences Between Tight and Loose Cultures: A 33-Nation Study”, _Science_, 332(6033): 1100–1104. doi:10.1126/science.1197754
+* Gemignani, Marco and Ezequiel Peña, 2007, “Postmodern Conceptualizations of Culture in Social Constructionism and Cultural Studies.”, _Journal of Theoretical and Philosophical Psychology_, 27–28(2–1): 276–300. doi:10.1037/h0091297
+* Gergely, György, Katalin Egyed, and Ildikó Király, 2007, “On Pedagogy”, _Developmental Science_, 10(1): 139–146. doi:10.1111/j.1467-7687.2007.00576.x
+* Gertler, Brie, 2007, “Overextending the Mind”, in _Arguing About the Mind_, Brie Gertler and Lawrence Shapiro (eds.), New York/London: Routledge, 192–206.
+* –––, 2012, “Understanding the Internalism-Externalism Debate: What Is the Boundary of the Thinker?”, _Philosophical Perspectives_, 26(1): 51–75. doi:10.1111/phpe.12001
+* Ghirlanda, Stefano, Johan Lind, and Magnus Enquist, 2017, “Memory for Stimulus Sequences: A Divide between Humans and Other Animals?”, _Royal Society Open Science_, 4(6): 161011. doi:10.1098/rsos.161011
+* Gillett, Alexander James, 2018, “Invention through Bricolage: Epistemic Engineering in Scientific Communities”, _RT. A Journal on Research Policy and Evaluation_, 6(1): article 6. doi:10.13130/2282-5398/9113
+* Goffman, Erving, 1961, _Asylums: Essays on the Social Situation of Mental Patients and Other Inmates_, Garden City, NY: Anchor.
+* Gold, Joel and Ian Gold, 2012, “The ‘Truman Show’ Delusion: Psychosis in the Global Village”, _Cognitive Neuropsychiatry_, 17(6): 455–472. doi:10.1080/13546805.2012.666113
+* –––, 2014, _Suspicious Minds: How Culture Shapes Madness_, New York: Free Press.
+* Goldberg, Sanford, 2010, _Relying on Others: An Essay in Epistemology_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199593248.001.0001
+* Goldman, Alvin and Cailin O’Connor, 2019 \[2021], “Social Epistemology”, _The Stanford Encyclopedia of Philosophy_ (Spring 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2021/entries/epistemology-social/](https://plato.stanford.edu/archives/spr2021/entries/epistemology-social/).
+* Good, Byron J., 1993, _Medicine, Rationality and Experience: An Anthropological Perspective_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511811029
+* Gopnik, Alison, 2020, “Childhood as a Solution to Explore–Exploit Tensions”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 375(1803): 20190502. doi:10.1098/rstb.2019.0502
+* Graham, Jesse, Jonathan Haidt, Sena Koleva, Matt Motyl, Ravi Iyer, Sean P. Wojcik, and Peter H. Ditto, 2013, “Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism”, in _Advances in Experimental Social Psychology, 47_, New York: Academic Press, 55–130. doi:10.1016/B978-0-12-407236-7.00002-4
 * Graham, Jesse, Jonathan Haidt, Matt Motyl, Peter Meindl, Carol Iskiwitch, and Marlon Mooljman, 2018, “Moral Foundations Theory: On the Advantages of Moral Pluralism over Moral Monism”, in Gray and Graham 2018: 211–222.
-* Grasswick, Heidi, 2006 [2018], “Feminist Social Epistemology”, *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2018/entries/feminist-social-epistemology/>.
-* Gracia, Jorge and Manuel Vargas, 2013 [2018], “Latin American Philosophy”, *The Stanford Encyclopedia of Philosophy* (Summer 2018 Edition), Edward N. Zalta (ed.), first version Fall 2013, URL = <https://plato.stanford.edu/archives/sum2018/entries/latin-american-philosophy/>.
-* Grafen, Allen, 1984, “Natural Selection, Kin Selection and Group Selection [Polistes Fuscatus, Wasps]”, in *Behavioural Ecology: An Evolutionary Approach*, John R. Krebs and Nicholas B. Davies (eds.), Oxford: Blackwell Scientific Publications, 62–84.
-* Gray, Kurt James and Jesse Graham (eds.), 2018, *Atlas of Moral Psychology*, New York: The Guilford Press.
-* Greenfield, Patricia M., 1997, “You Can’t Take It with You: Why Ability Assessments Don’t Cross Cultures.”, *American Psychologist*, 52(10): 1115–1124. doi:10.1037/0003-066X.52.10.1115
-* –––, 2000, “Three Approaches to the Psychology of Culture: Where Do They Come from? Where Can They Go?”, *Asian Journal of Social Psychology*, 3(3): 223–240. doi:10.1111/1467-839X.00066
-* Griffiths, Paul E., 1997, *What Emotions Really Are: The Problem of Psychological Categories*, (Science and Its Conceptual Foundations), Chicago, IL: University of Chicago Press.
-* –––, 2002, “What Is Innateness?”:, *The Monist*, 85(1): 70–85. doi:10.5840/monist20028518
-* –––, 2007, “Ethology, Sociobiology, and Evolutionary Psychology”, in *A Companion to the Philosophy of Biology*, Sarkar Sahotra and Anya Plutynski (eds.), Oxford, UK: Blackwell Publishing, 393–414. doi:10.1002/9780470696590.ch21
-* Griffiths, Paul E. and Edouard Machery, 2008, “Innateness, Canalization, and ‘Biologicizing the Mind’”, *Philosophical Psychology*, 21(3): 397–414. doi:10.1080/09515080802201146
+* Grasswick, Heidi, 2006 \[2018], “Feminist Social Epistemology”, _The Stanford Encyclopedia of Philosophy_ (Fall 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2018/entries/feminist-social-epistemology/](https://plato.stanford.edu/archives/fall2018/entries/feminist-social-epistemology/).
+* Gracia, Jorge and Manuel Vargas, 2013 \[2018], “Latin American Philosophy”, _The Stanford Encyclopedia of Philosophy_ (Summer 2018 Edition), Edward N. Zalta (ed.), first version Fall 2013, URL = [https://plato.stanford.edu/archives/sum2018/entries/latin-american-philosophy/](https://plato.stanford.edu/archives/sum2018/entries/latin-american-philosophy/).
+* Grafen, Allen, 1984, “Natural Selection, Kin Selection and Group Selection \[Polistes Fuscatus, Wasps]”, in _Behavioural Ecology: An Evolutionary Approach_, John R. Krebs and Nicholas B. Davies (eds.), Oxford: Blackwell Scientific Publications, 62–84.
+* Gray, Kurt James and Jesse Graham (eds.), 2018, _Atlas of Moral Psychology_, New York: The Guilford Press.
+* Greenfield, Patricia M., 1997, “You Can’t Take It with You: Why Ability Assessments Don’t Cross Cultures.”, _American Psychologist_, 52(10): 1115–1124. doi:10.1037/0003-066X.52.10.1115
+* –––, 2000, “Three Approaches to the Psychology of Culture: Where Do They Come from? Where Can They Go?”, _Asian Journal of Social Psychology_, 3(3): 223–240. doi:10.1111/1467-839X.00066
+* Griffiths, Paul E., 1997, _What Emotions Really Are: The Problem of Psychological Categories_, (Science and Its Conceptual Foundations), Chicago, IL: University of Chicago Press.
+* –––, 2002, “What Is Innateness?”:, _The Monist_, 85(1): 70–85. doi:10.5840/monist20028518
+* –––, 2007, “Ethology, Sociobiology, and Evolutionary Psychology”, in _A Companion to the Philosophy of Biology_, Sarkar Sahotra and Anya Plutynski (eds.), Oxford, UK: Blackwell Publishing, 393–414. doi:10.1002/9780470696590.ch21
+* Griffiths, Paul E. and Edouard Machery, 2008, “Innateness, Canalization, and ‘Biologicizing the Mind’”, _Philosophical Psychology_, 21(3): 397–414. doi:10.1080/09515080802201146
 * Gross, Steven and Georges Rey, 2012, “Innateness”, in Margolis, Samuels, and Stich 2012: 318–360.
 * Guala, Francesco, 2012, “The Evolutionary Programme in Social Philosophy”, in Kincaid 2012: 436–457.
-* Gurven, Michael, Christopher von Rueden, Maxim Massenkoff, Hillard Kaplan, and Marino Lero Vie, 2013, “How Universal Is the Big Five? Testing the Five-Factor Model of Personality Variation among Forager–Farmers in the Bolivian Amazon.”, *Journal of Personality and Social Psychology*, 104(2): 354–370. doi:10.1037/a0030841
-* Hacking, Ian, 1995a, *Rewriting the Soul: Multiple Personality and the Sciences of Memory*, Princeton, NJ: Princeton University Press.
-* –––, 1995b, “The Looping Effects of Human Kinds”, in *Causal Cognition: A Multidisciplinary Debate*, Dan Sperber, David Premack, and Ann James Premack (eds.), Oxford: Clarendon Press, 351–383. doi:10.1093/acprof:oso/9780198524021.003.0012
-* –––, 1998, *Mad Travelers: Reflections on the Reality of Transient Mental Illnesses*, Charlottesville, VA: University Press of Virginia.
-* Hagen, Edward H., 2015, “Controversial Issues in Evolutionary Psychology”, in *The Handbook of Evolutionary Psychology*, David M. Buss (ed.), Hoboken, NJ: John Wiley & Sons, 145–173. doi:10.1002/9780470939376.ch5
-* Haidle, Miriam Noël and Oliver Schlaudt, 2020, “Where Does Cumulative Culture Begin? A Plea for a Sociologically Informed Perspective”, *Biological Theory*, 15(3): 161–174. doi:10.1007/s13752-020-00351-w
-* Hammersley, Martyn, 2019, *The Concept of Culture: A History and Reappraisal*, Cham: Springer International Publishing. doi:10.1007/978-3-030-22982-5
-* Hannikainen, Ivar R., Edouard Machery, David Rose, Stephen Stich, Christopher Y. Olivola, Paulo Sousa, Florian Cova, Emma E. Buchtel, Mario Alai, Adriano Angelucci, Renatas Berniûnas, Amita Chatterjee, Hyundeuk Cheon, In-Rae Cho, Daniel Cohnitz, Vilius Dranseika, Ángeles Eraña Lagos, Laleh Ghadakpour, Maurice Grinberg, Takaaki Hashimoto, et al., 2019, “For Whom Does Determinism Undermine Moral Responsibility? Surveying the Conditions for Free Will Across Cultures”, *Frontiers in Psychology*, 10(November): article 2428. doi:10.3389/fpsyg.2019.02428
-* Hare, Brian, 2017, “Survival of the Friendliest: Homo Sapiens Evolved via Selection for Prosociality”, *Annual Review of Psychology*, 68(1): 155–186. doi:10.1146/annurev-psych-010416-044201
-* Haslanger, Sally, 2016, “What Is a (Social) Structural Explanation?”, *Philosophical Studies*, 173(1): 113–130. doi:10.1007/s11098-014-0434-5
-* Hassan, Patrick, 2019, “Moral Disagreement and Arational Convergence”, *The Journal of Ethics*, 23(2): 145–161. doi:10.1007/s10892-019-09284-4
-* Heersmink, Richard, forthcoming, “Extended Mind and Artifactual Autobiographical Memory”, *Mind & Language*, first online: 28 December 2020. doi:10.1111/mila.12353
-* Henderson, David, 2020, “Are Epistemic Norms Fundamentally Social Norms?”, *Episteme*, 17(3): 281–300. doi:10.1017/epi.2019.49
-* Henrich, Joseph Patrick, 2004, “Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses—The Tasmanian Case”, *American Antiquity*, 69(2): 197–214. doi:10.2307/4128416
-* –––, 2016, *The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter*, Princeton, NJ: Princeton University Press.
-* –––, 2020, *The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous*, New York: Farrar, Straus and Giroux.
-* Henrich, Joseph Patrick, Damián E. Blasi, Cameron M. Curtin, Helen Elizabeth Davis, Ze Hong, Daniel Kelly, and Ivan Kroupin, forthcoming, “A Cultural Species and Its Cognitive Phenotypes: Implications for Philosophy”, *Review of Philosophy and Psychology*, first online: 4 February 2022.. doi:10.1007/s13164-021-00612-y
-* Henrich, Joseph Patrick and Robert Boyd, 2002, “On Modeling Cognition and Culture: Why Cultural Evolution Does Not Require Replication of Representations”, *Journal of Cognition and Culture*, 2(2): 87–112. doi:10.1163/156853702320281836
-* Henrich, Joseph Patrick, Robert Boyd, Samuel Bowles, Colin Camerer, Ernst Fehr, and Herbert Gintis (eds.), 2004, *Foundations of Human Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-Scale Societies*, Oxford/New York: Oxford University Press.
-* Henrich, Joseph Patrick, Robert Boyd, Samuel Bowles, Colin Camerer, Ernst Fehr, Herbert Gintis, Richard McElreath, Michael Alvard, Abigail Barr, Jean Ensminger, Natalie Smith Henrich, Kim Hill, Francisco Gil-White, Michael Gurven, Frank W. Marlowe, John Q. Patton, and David Tracer, 2005, “‘Economic Man’ in Cross-Cultural Perspective: Behavioral Experiments in 15 Small-Scale Societies”, *Behavioral and Brain Sciences*, 28(6): 795–815. doi:10.1017/S0140525X05000142
-* Henrich, Joseph Patrick and Francisco J Gil-White, 2001, “The Evolution of Prestige: Freely Conferred Deference as a Mechanism for Enhancing the Benefits of Cultural Transmission”, *Evolution and Human Behavior*, 22(3): 165–196. doi:10.1016/S1090-5138(00)00071-4
-* Henrich, Joseph Patrick, Steven J. Heine, and Ara Norenzayan, 2010, “The Weirdest People in the World?”, *Behavioral and Brain Sciences*, 33(2–3): 61–83. doi:10.1017/S0140525X0999152X
-* Henrich, Joseph Patrick and Richard McElreath, 2003, “The Evolution of Cultural Evolution”, *Evolutionary Anthropology: Issues, News, and Reviews*, 12(3): 123–135. doi:10.1002/evan.10110
-* –––, 2007, “Dual-Inheritance Theory: the Evolution of Human Cultural Capacities and Cultural Evolution”, In *Oxford Handbook of Evolutionary Psychology*, Louise Barrett and Robin Dunbar (eds.). Oxford: Oxford University Press: 555–570.
-* Henrich, Natalie and Joseph Patrick Henrich, 2007, *Why Humans Cooperate: A Cultural and Evolutionary Explanation*, (Evolution and Cognition), Oxford/New York: Oxford University Press.
-* Heyes, Cecillia M., 1994, “Social Learning in Animals: Categories and Mechanisms”, *Biological Reviews*, 69(2): 207–231. doi:10.1111/j.1469-185X.1994.tb01506.x
-* –––, 2012, “What’s Social about Social Learning?”, *Journal of Comparative Psychology*, 126(2): 193–202. doi:10.1037/a0025180
-* –––, 2016a, “Homo Imitans? Seven Reasons Why Imitation Couldn’t Possibly Be Associative”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 371(1686): 20150069. doi:10.1098/rstb.2015.0069
-* –––, 2016b, “Who Knows? Metacognitive Social Learning Strategies”, *Trends in Cognitive Sciences*, 20(3): 204–213. doi:10.1016/j.tics.2015.12.007
-* –––, 2018a, *Cognitive Gadgets: The Cultural Evolution of Thinking*, Cambridge, MA: Harvard University Press.
-* –––, 2018b, “Human Nature, Natural Pedagogy, and Evolutionary Causal Essentialism”, in *Why We Disagree About Human Nature*, Elizabeth Hannon and Tim Lewens (eds), Oxford: Oxford University Press, 76–91.
-* –––, 2021, “Imitation”, *Current Biology*, 31(5): R228–R232. doi:10.1016/j.cub.2020.11.071
-* Heyes, Cecilia, Dan Bang, Nicholas Shea, Christopher D. Frith, and Stephen M. Fleming, 2020, “Knowing Ourselves Together: The Cultural Origins of Metacognition”, *Trends in Cognitive Sciences*, 24(5): 349–362. doi:10.1016/j.tics.2020.02.007
-* Heyes, Cecilia, Nick Chater, and Dominic Michael Dwyer, 2020, “Sinking In: The Peripheral Baldwinisation of Human Cognition”, *Trends in Cognitive Sciences*, 24(11): 884–899. doi:10.1016/j.tics.2020.08.006
-* Heyes, Cecilia M. and Chris D. Frith, 2014, “The Cultural Evolution of Mind Reading”, *Science*, 344(6190): 1243091. doi:10.1126/science.1243091
-* Heyes, Cecilia M. and Richard Moore, forthcoming, “The Cognitive Foundations of Cultural Evolution”, in*The Oxford Handbook of Cultural Evolution*, Rachel Kendal, Jamshid Tehrani and Jeremy Kendal (eds.), Oxford: Oxford University Press.
-* Heyes, C. M. and H. C. Plotkin, 1989, “Replicators and Interactors in Cultural Evolution”, in *What the Philosophy of Biology Is*, Michael Ruse (ed.), (Nijhoff International Philosophy Series 32), Dordrecht: Springer Netherlands, 139–162. doi:10.1007/978-94-009-1169-7_7
-* Hill, Kim, 2010, “Experimental Studies of Animal Social Learning in the Wild: Trying to Untangle the Mystery of Human Culture”, *Learning & Behavior*, 38(3): 319–328. doi:10.3758/LB.38.3.319
-* Hirschman, Charles, 2004, “The Origins and Demise of the Concept of Race”, *Population and Development Review*, 30(3): 385–415. doi:10.1111/j.1728-4457.2004.00021.x
-* Hoehl, Stefanie, Stefanie Keupp, Hanna Schleihauf, Nicola McGuigan, David Buttelmann, and Andrew Whiten, 2019, “‘Over-Imitation’: A Review and Appraisal of a Decade of Research”, *Developmental Review*, 51: 90–108. doi:10.1016/j.dr.2018.12.002
-* Hofstede, Geert, 1980, *Culture’s Consequences: International Differences in Work-Related Values*, (Cross Cultural Research and Methodology Series 5), Beverly Hills, CA: Sage Publications.
-* Hohwy, Jakob, 2013, *The Predictive Mind*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199682737.001.0001
-* Hoppitt, William and Kevin N. Laland, 2013, *Social Learning: An Introduction to Mechanisms, Methods, and Models*, Princeton, NJ: Princeton University Press. doi:10.1515/9781400846504
-* Hopster, Jeroen, 2020, “Explaining Historical Moral Convergence: The Empirical Case against Realist Intuitionism”, *Philosophical Studies*, 177(5): 1255–1273. doi:10.1007/s11098-019-01251-x
-* Horvath, Joachim and Steffen Koch, 2021, “Experimental Philosophy and the Method of Cases”, *Philosophy Compass*, 16(1): e12716. doi:10.1111/phc3.12716
-* Horvath, Joachim and Alex Wiegmann, forthcoming, “Intuitive Expertise in Moral Judgments”, *Australasian Journal of Philosophy*, first online: 5 April 2021. doi:10.1080/00048402.2021.1890162
-* House, Bailey R., Patricia Kanngiesser, H. Clark Barrett, Tanya Broesch, Senay Cebioglu, Alyssa N. Crittenden, Alejandro Erut, Sheina Lew-Levy, Carla Sebastian-Enesco, Andrew Marcus Smith, Süheyla Yilmaz, and Joan B. Silk, 2020, “Universal Norm Psychology Leads to Societal Diversity in Prosocial Behaviour and Development”, *Nature Human Behaviour*, 4(1): 36–44. doi:10.1038/s41562-019-0734-z
-* Huebner, Bryce, 2008, “Do You See What We See? An Investigation of an Argument Against Collective Representation”, *Philosophical Psychology*, 21(1): 91–112. doi:10.1080/09515080701870827
-* –––, 2013, *Macrocognition: A Theory of Distributed Minds and Collective Intentionality*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199926275.001.0001
-* Huemer, Michael, 2016, “A Liberal Realist Answer to Debunking Skeptics: The Empirical Case for Realism”, *Philosophical Studies*, 173(7): 1983–2010. doi:10.1007/s11098-015-0588-9
-* Hull, David L., 1982, “The Naked Meme”, in *Learning, Development and Culture: Essays in Evolutionary Epistemology*, H. C. Plotkin (ed.), Chichester: Wiley, 273–327.
-* –––, 1988, “Interactors versus Vehicles”, in *The Role of Behavior in Evolution*, H. C. Plotkin (ed.), Cambridge, MA: Bradford Books, 19–50.
-* Hutchins, Edwin, 1995, *Cognition in the Wild*, Cambridge, MA: MIT Press.
-* –––, 2008, “The Role of Cultural Practices in the Emergence of Modern Human Intelligence”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 363(1499): 2011–2019. doi:10.1098/rstb.2008.0003
-* –––, 2011, “Enculturating the Supersized Mind”, *Philosophical Studies*, 152(3): 437–446. doi:10.1007/s11098-010-9599-8
-* Hutto, Daniel D. and Erik Myin, 2013, *Radicalizing Enactivism: Basic Minds without Content*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262018548.001.0001
-* Ichikawa, Jonathan Jenkins, 2012, “Experimentalist Pressure against Traditional Methodology”, *Philosophical Psychology*, 25(5): 743–765. doi:10.1080/09515089.2011.625118
-* Ichikawa, Jonathan, Ishani Maitra, and Brian Weatherson, 2012, “In Defense of a Kripkean Dogma”, *Philosophy and Phenomenological Research*, 85(1): 56–68. doi:10.1111/j.1933-1592.2010.00478.x
-* Imanishi, Kinji, 1957, “Social Behavior in Japanese Monkeys, *Macaca fuscata*”, *Psychologia*, 1(1): 47–54. doi:10.2117/psysoc.1957.47
-* Jablonka, Eva, 2017, “Remembering as a Group: The Evolutionary Origins of Autobiographical Memory”, in *Landscapes of Collectivity in the Life Sciences*, Snait B. Gissis, Ehud Lamm, and Ayelet Shavit (eds.), Cambridge, MA: MIT Press, 169–178.
-* Jablonka, Eva and Marion J. Lamb, 2005 [2014], *Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life*, (Life and Mind), Cambridge, Mass: MIT Press. Revised edition 2014.
-* Jahoda, Gustav, 1984, “Do We Need a Concept of Culture?”, *Journal of Cross-Cultural Psychology*, 15(2): 139–151. doi:10.1177/0022002184015002003
-* –––, 2012, “Critical Reflections on Some Recent Definitions of ‘Culture’”, *Culture & Psychology*, 18(3): 289–303. doi:10.1177/1354067X12446229
-* Jamieson, Dale, 2002, “Is There Progress in Morality?”, *Utilitas*, 14(3): 318–338. doi:10.1017/S0953820800003630
-* Jan, Steven B., 2007, *The Memetics of Music: A Neo-Darwinian View of Musical Structure and Culture*, Aldershot: Ashgate. doi:10.4324/9781315085951
-* Japyassú, Hilton F. and Kevin N. Laland, 2017, “Extended Spider Cognition”, *Animal Cognition*, 20(3): 375–395. doi:10.1007/s10071-017-1069-7
-* Jeffares, Ben, 2010, “The Co-Evolution of Tools and Minds: Cognition and Material Culture in the Hominin Lineage”, *Phenomenology and the Cognitive Sciences*, 9(4): 503–520. doi:10.1007/s11097-010-9176-9
-* Jiménez, Ángel V. and Alex Mesoudi, 2019, “Prestige-Biased Social Learning: Current Evidence and Outstanding Questions”, *Palgrave Communications*, 5(1): article 20. doi:10.1057/s41599-019-0228-7
-* –––, 2021, “The Cultural Transmission of Prestige and Dominance Social Rank Cues: An Experimental Simulation”, *Evolutionary Psychological Science*, 7(2): 189–199. doi:10.1007/s40806-020-00261-x
-* Joe, Jennie R., 2014, “Revaluing Native-American Concepts of Development and Education”, in *Cross-Cultural Roots of Minority Child Development*, Patricia M. Greenfield and Rodney R. Cocking (eds), Hove: Psychology Press: 108–114.
-* Johns, Sarah E., Thomas E. Dickins, and Helen T. Clegg, 2011, “Teenage Pregnancy and Motherhood: How Might Evolutionary Theory Inform Policy?”, *Journal of Evolutionary Psychology*, 9(1): 3–19. doi:10.1556/JEP.9.2011.37.1
-* Jones, Ward E., 2001, “Belonging to the Ultra-Faithful: A Response to Eze”, *Philosophical Papers*, 30(3): 215–222. doi:10.1080/05568640109485085
-* Jovanovski, Thomas, 1995, “The Cultural Approach of Ethnopsychiatry: A Review and Critique”, *New Ideas in Psychology*, 13(3): 281–297. doi:10.1016/0732-118X(95)00011-5
-* Joyce, Richard, 2007, *The Evolution of Morality*, (Life and Mind), Cambridge, Mass: MIT Press. doi:10.7551/mitpress/2880.001.0001
-* Kamens, Sarah R., 2020, “Postcolonialism and (Anti)Psychiatry: On Hearing Voices and Ghostwriting”, *Philosophy, Psychiatry, & Psychology*, 27(3): 253–265. doi:10.1353/ppp.2020.0032
-* Kasulis, Thomas, 2019, “Japanese Philosophy”, *The Stanford Encyclopedia of Philosophy* (Summer 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2019/entries/japanese-philosophy/>.
-* Kelly, Daniel R., 2017, “Moral Cheesecake, Evolved Psychology, and the Debunking Impulse”, in *The Routledge Handbook of Evolution and Philosophy*, Richard Joyce (ed.), New York: Routledge Press, 342–358.
-* Kelly, Daniel and Taylor Davis, 2018, “Social Norms and Human Normative Psychology”, *Social Philosophy and Policy*, 35(1): 54–76. doi:10.1017/S0265052518000122
-* Kelly, Daniel and Patrick Hoburg, 2017, “A Tale of Two Processes: On Joseph Henrich’s the Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter”, *Philosophical Psychology*, 30(6): 832–848. doi:10.1080/09515089.2017.1299857
-* Kelly, Daniel and Stephen Setman, 2020, “The Psychology of Normative Cognition” *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2020/entries/psychology-normative-cognition/>.
-* Kendal, Jeremy, Jamshid J. Tehrani, and John Odling-Smee, 2011, “Human Niche Construction in Interdisciplinary Focus”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 366(1566): 785–792. doi:10.1098/rstb.2010.0306
-* Kendal, Rachel, Lydia M. Hopper, Andrew Whiten, Sarah F. Brosnan, Susan P. Lambeth, Steven J. Schapiro, and Will Hoppitt, 2015, “Chimpanzees Copy Dominant and Knowledgeable Individuals: Implications for Cultural Diversity”, *Evolution and Human Behavior*, 36(1): 65–72. doi:10.1016/j.evolhumbehav.2014.09.002
-* Kendal, Rachel L., Neeltje J. Boogert, Luke Rendell, Kevin N. Laland, Mike Webster, and Patricia L. Jones, 2018, “Social Learning Strategies: Bridge-Building between Fields”, *Trends in Cognitive Sciences*, 22(7): 651–665. doi:10.1016/j.tics.2018.04.003
-* Kendler, K. S., P. Zachar, and C. Craver, 2011, “What Kinds of Things Are Psychiatric Disorders?”, *Psychological Medicine*, 41(6): 1143–1150. doi:10.1017/S0033291710001844
-* Keupp, Stefanie, Tanya Behne, and Hannes Rakoczy, 2013, “Why Do Children Overimitate? Normativity Is Crucial”, *Journal of Experimental Child Psychology*, 116(2): 392–406. doi:10.1016/j.jecp.2013.07.002
-* Khalidi, Muhammad Ali, 2010, “Interactive Kinds”, *The British Journal for the Philosophy of Science*, 61(2): 335–360. doi:10.1093/bjps/axp042
-* Kim, Minsun and Yuan Yuan, 2015, “No Cross-Cultural Differences in the Gettier Car Case Intuition: A Replication Study of Weinberg et al. 2001”, *Episteme*, 12(3): 355–361. doi:10.1017/epi.2015.17
-* Kincaid, Harold (ed.), 2012, *The Oxford Handbook of Philosophy of Social Science*, Oxford/New York: Oxford University Press. doi:10.1093/oxfordhb/9780195392753.001.0001
-* Kleinman, Arthur, 1988, *Rethinking Psychiatry: From Cultural Category to Personal Experience*, New York: Free Press, London: Collier Macmillan.
-* Kneer, Markus, 2021, “Norms of Assertion in the United States, Germany, and Japan”, *Proceedings of the National Academy of Sciences*, 118(37): e2105365118. doi:10.1073/pnas.2105365118
+* Gurven, Michael, Christopher von Rueden, Maxim Massenkoff, Hillard Kaplan, and Marino Lero Vie, 2013, “How Universal Is the Big Five? Testing the Five-Factor Model of Personality Variation among Forager–Farmers in the Bolivian Amazon.”, _Journal of Personality and Social Psychology_, 104(2): 354–370. doi:10.1037/a0030841
+* Hacking, Ian, 1995a, _Rewriting the Soul: Multiple Personality and the Sciences of Memory_, Princeton, NJ: Princeton University Press.
+* –––, 1995b, “The Looping Effects of Human Kinds”, in _Causal Cognition: A Multidisciplinary Debate_, Dan Sperber, David Premack, and Ann James Premack (eds.), Oxford: Clarendon Press, 351–383. doi:10.1093/acprof:oso/9780198524021.003.0012
+* –––, 1998, _Mad Travelers: Reflections on the Reality of Transient Mental Illnesses_, Charlottesville, VA: University Press of Virginia.
+* Hagen, Edward H., 2015, “Controversial Issues in Evolutionary Psychology”, in _The Handbook of Evolutionary Psychology_, David M. Buss (ed.), Hoboken, NJ: John Wiley & Sons, 145–173. doi:10.1002/9780470939376.ch5
+* Haidle, Miriam Noël and Oliver Schlaudt, 2020, “Where Does Cumulative Culture Begin? A Plea for a Sociologically Informed Perspective”, _Biological Theory_, 15(3): 161–174. doi:10.1007/s13752-020-00351-w
+* Hammersley, Martyn, 2019, _The Concept of Culture: A History and Reappraisal_, Cham: Springer International Publishing. doi:10.1007/978-3-030-22982-5
+* Hannikainen, Ivar R., Edouard Machery, David Rose, Stephen Stich, Christopher Y. Olivola, Paulo Sousa, Florian Cova, Emma E. Buchtel, Mario Alai, Adriano Angelucci, Renatas Berniûnas, Amita Chatterjee, Hyundeuk Cheon, In-Rae Cho, Daniel Cohnitz, Vilius Dranseika, Ángeles Eraña Lagos, Laleh Ghadakpour, Maurice Grinberg, Takaaki Hashimoto, et al., 2019, “For Whom Does Determinism Undermine Moral Responsibility? Surveying the Conditions for Free Will Across Cultures”, _Frontiers in Psychology_, 10(November): article 2428. doi:10.3389/fpsyg.2019.02428
+* Hare, Brian, 2017, “Survival of the Friendliest: Homo Sapiens Evolved via Selection for Prosociality”, _Annual Review of Psychology_, 68(1): 155–186. doi:10.1146/annurev-psych-010416-044201
+* Haslanger, Sally, 2016, “What Is a (Social) Structural Explanation?”, _Philosophical Studies_, 173(1): 113–130. doi:10.1007/s11098-014-0434-5
+* Hassan, Patrick, 2019, “Moral Disagreement and Arational Convergence”, _The Journal of Ethics_, 23(2): 145–161. doi:10.1007/s10892-019-09284-4
+* Heersmink, Richard, forthcoming, “Extended Mind and Artifactual Autobiographical Memory”, _Mind & Language_, first online: 28 December 2020. doi:10.1111/mila.12353
+* Henderson, David, 2020, “Are Epistemic Norms Fundamentally Social Norms?”, _Episteme_, 17(3): 281–300. doi:10.1017/epi.2019.49
+* Henrich, Joseph Patrick, 2004, “Demography and Cultural Evolution: How Adaptive Cultural Processes Can Produce Maladaptive Losses—The Tasmanian Case”, _American Antiquity_, 69(2): 197–214. doi:10.2307/4128416
+* –––, 2016, _The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter_, Princeton, NJ: Princeton University Press.
+* –––, 2020, _The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous_, New York: Farrar, Straus and Giroux.
+* Henrich, Joseph Patrick, Damián E. Blasi, Cameron M. Curtin, Helen Elizabeth Davis, Ze Hong, Daniel Kelly, and Ivan Kroupin, forthcoming, “A Cultural Species and Its Cognitive Phenotypes: Implications for Philosophy”, _Review of Philosophy and Psychology_, first online: 4 February 2022.. doi:10.1007/s13164-021-00612-y
+* Henrich, Joseph Patrick and Robert Boyd, 2002, “On Modeling Cognition and Culture: Why Cultural Evolution Does Not Require Replication of Representations”, _Journal of Cognition and Culture_, 2(2): 87–112. doi:10.1163/156853702320281836
+* Henrich, Joseph Patrick, Robert Boyd, Samuel Bowles, Colin Camerer, Ernst Fehr, and Herbert Gintis (eds.), 2004, _Foundations of Human Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-Scale Societies_, Oxford/New York: Oxford University Press.
+* Henrich, Joseph Patrick, Robert Boyd, Samuel Bowles, Colin Camerer, Ernst Fehr, Herbert Gintis, Richard McElreath, Michael Alvard, Abigail Barr, Jean Ensminger, Natalie Smith Henrich, Kim Hill, Francisco Gil-White, Michael Gurven, Frank W. Marlowe, John Q. Patton, and David Tracer, 2005, “‘Economic Man’ in Cross-Cultural Perspective: Behavioral Experiments in 15 Small-Scale Societies”, _Behavioral and Brain Sciences_, 28(6): 795–815. doi:10.1017/S0140525X05000142
+* Henrich, Joseph Patrick and Francisco J Gil-White, 2001, “The Evolution of Prestige: Freely Conferred Deference as a Mechanism for Enhancing the Benefits of Cultural Transmission”, _Evolution and Human Behavior_, 22(3): 165–196. doi:10.1016/S1090-5138(00)00071-4
+* Henrich, Joseph Patrick, Steven J. Heine, and Ara Norenzayan, 2010, “The Weirdest People in the World?”, _Behavioral and Brain Sciences_, 33(2–3): 61–83. doi:10.1017/S0140525X0999152X
+* Henrich, Joseph Patrick and Richard McElreath, 2003, “The Evolution of Cultural Evolution”, _Evolutionary Anthropology: Issues, News, and Reviews_, 12(3): 123–135. doi:10.1002/evan.10110
+* –––, 2007, “Dual-Inheritance Theory: the Evolution of Human Cultural Capacities and Cultural Evolution”, In _Oxford Handbook of Evolutionary Psychology_, Louise Barrett and Robin Dunbar (eds.). Oxford: Oxford University Press: 555–570.
+* Henrich, Natalie and Joseph Patrick Henrich, 2007, _Why Humans Cooperate: A Cultural and Evolutionary Explanation_, (Evolution and Cognition), Oxford/New York: Oxford University Press.
+* Heyes, Cecillia M., 1994, “Social Learning in Animals: Categories and Mechanisms”, _Biological Reviews_, 69(2): 207–231. doi:10.1111/j.1469-185X.1994.tb01506.x
+* –––, 2012, “What’s Social about Social Learning?”, _Journal of Comparative Psychology_, 126(2): 193–202. doi:10.1037/a0025180
+* –––, 2016a, “Homo Imitans? Seven Reasons Why Imitation Couldn’t Possibly Be Associative”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 371(1686): 20150069. doi:10.1098/rstb.2015.0069
+* –––, 2016b, “Who Knows? Metacognitive Social Learning Strategies”, _Trends in Cognitive Sciences_, 20(3): 204–213. doi:10.1016/j.tics.2015.12.007
+* –––, 2018a, _Cognitive Gadgets: The Cultural Evolution of Thinking_, Cambridge, MA: Harvard University Press.
+* –––, 2018b, “Human Nature, Natural Pedagogy, and Evolutionary Causal Essentialism”, in _Why We Disagree About Human Nature_, Elizabeth Hannon and Tim Lewens (eds), Oxford: Oxford University Press, 76–91.
+* –––, 2021, “Imitation”, _Current Biology_, 31(5): R228–R232. doi:10.1016/j.cub.2020.11.071
+* Heyes, Cecilia, Dan Bang, Nicholas Shea, Christopher D. Frith, and Stephen M. Fleming, 2020, “Knowing Ourselves Together: The Cultural Origins of Metacognition”, _Trends in Cognitive Sciences_, 24(5): 349–362. doi:10.1016/j.tics.2020.02.007
+* Heyes, Cecilia, Nick Chater, and Dominic Michael Dwyer, 2020, “Sinking In: The Peripheral Baldwinisation of Human Cognition”, _Trends in Cognitive Sciences_, 24(11): 884–899. doi:10.1016/j.tics.2020.08.006
+* Heyes, Cecilia M. and Chris D. Frith, 2014, “The Cultural Evolution of Mind Reading”, _Science_, 344(6190): 1243091. doi:10.1126/science.1243091
+* Heyes, Cecilia M. and Richard Moore, forthcoming, “The Cognitive Foundations of Cultural Evolution”, in_The Oxford Handbook of Cultural Evolution_, Rachel Kendal, Jamshid Tehrani and Jeremy Kendal (eds.), Oxford: Oxford University Press.
+* Heyes, C. M. and H. C. Plotkin, 1989, “Replicators and Interactors in Cultural Evolution”, in _What the Philosophy of Biology Is_, Michael Ruse (ed.), (Nijhoff International Philosophy Series 32), Dordrecht: Springer Netherlands, 139–162. doi:10.1007/978-94-009-1169-7\_7
+* Hill, Kim, 2010, “Experimental Studies of Animal Social Learning in the Wild: Trying to Untangle the Mystery of Human Culture”, _Learning & Behavior_, 38(3): 319–328. doi:10.3758/LB.38.3.319
+* Hirschman, Charles, 2004, “The Origins and Demise of the Concept of Race”, _Population and Development Review_, 30(3): 385–415. doi:10.1111/j.1728-4457.2004.00021.x
+* Hoehl, Stefanie, Stefanie Keupp, Hanna Schleihauf, Nicola McGuigan, David Buttelmann, and Andrew Whiten, 2019, “‘Over-Imitation’: A Review and Appraisal of a Decade of Research”, _Developmental Review_, 51: 90–108. doi:10.1016/j.dr.2018.12.002
+* Hofstede, Geert, 1980, _Culture’s Consequences: International Differences in Work-Related Values_, (Cross Cultural Research and Methodology Series 5), Beverly Hills, CA: Sage Publications.
+* Hohwy, Jakob, 2013, _The Predictive Mind_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199682737.001.0001
+* Hoppitt, William and Kevin N. Laland, 2013, _Social Learning: An Introduction to Mechanisms, Methods, and Models_, Princeton, NJ: Princeton University Press. doi:10.1515/9781400846504
+* Hopster, Jeroen, 2020, “Explaining Historical Moral Convergence: The Empirical Case against Realist Intuitionism”, _Philosophical Studies_, 177(5): 1255–1273. doi:10.1007/s11098-019-01251-x
+* Horvath, Joachim and Steffen Koch, 2021, “Experimental Philosophy and the Method of Cases”, _Philosophy Compass_, 16(1): e12716. doi:10.1111/phc3.12716
+* Horvath, Joachim and Alex Wiegmann, forthcoming, “Intuitive Expertise in Moral Judgments”, _Australasian Journal of Philosophy_, first online: 5 April 2021. doi:10.1080/00048402.2021.1890162
+* House, Bailey R., Patricia Kanngiesser, H. Clark Barrett, Tanya Broesch, Senay Cebioglu, Alyssa N. Crittenden, Alejandro Erut, Sheina Lew-Levy, Carla Sebastian-Enesco, Andrew Marcus Smith, Süheyla Yilmaz, and Joan B. Silk, 2020, “Universal Norm Psychology Leads to Societal Diversity in Prosocial Behaviour and Development”, _Nature Human Behaviour_, 4(1): 36–44. doi:10.1038/s41562-019-0734-z
+* Huebner, Bryce, 2008, “Do You See What We See? An Investigation of an Argument Against Collective Representation”, _Philosophical Psychology_, 21(1): 91–112. doi:10.1080/09515080701870827
+* –––, 2013, _Macrocognition: A Theory of Distributed Minds and Collective Intentionality_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199926275.001.0001
+* Huemer, Michael, 2016, “A Liberal Realist Answer to Debunking Skeptics: The Empirical Case for Realism”, _Philosophical Studies_, 173(7): 1983–2010. doi:10.1007/s11098-015-0588-9
+* Hull, David L., 1982, “The Naked Meme”, in _Learning, Development and Culture: Essays in Evolutionary Epistemology_, H. C. Plotkin (ed.), Chichester: Wiley, 273–327.
+* –––, 1988, “Interactors versus Vehicles”, in _The Role of Behavior in Evolution_, H. C. Plotkin (ed.), Cambridge, MA: Bradford Books, 19–50.
+* Hutchins, Edwin, 1995, _Cognition in the Wild_, Cambridge, MA: MIT Press.
+* –––, 2008, “The Role of Cultural Practices in the Emergence of Modern Human Intelligence”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 363(1499): 2011–2019. doi:10.1098/rstb.2008.0003
+* –––, 2011, “Enculturating the Supersized Mind”, _Philosophical Studies_, 152(3): 437–446. doi:10.1007/s11098-010-9599-8
+* Hutto, Daniel D. and Erik Myin, 2013, _Radicalizing Enactivism: Basic Minds without Content_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262018548.001.0001
+* Ichikawa, Jonathan Jenkins, 2012, “Experimentalist Pressure against Traditional Methodology”, _Philosophical Psychology_, 25(5): 743–765. doi:10.1080/09515089.2011.625118
+* Ichikawa, Jonathan, Ishani Maitra, and Brian Weatherson, 2012, “In Defense of a Kripkean Dogma”, _Philosophy and Phenomenological Research_, 85(1): 56–68. doi:10.1111/j.1933-1592.2010.00478.x
+* Imanishi, Kinji, 1957, “Social Behavior in Japanese Monkeys, _Macaca fuscata_”, _Psychologia_, 1(1): 47–54. doi:10.2117/psysoc.1957.47
+* Jablonka, Eva, 2017, “Remembering as a Group: The Evolutionary Origins of Autobiographical Memory”, in _Landscapes of Collectivity in the Life Sciences_, Snait B. Gissis, Ehud Lamm, and Ayelet Shavit (eds.), Cambridge, MA: MIT Press, 169–178.
+* Jablonka, Eva and Marion J. Lamb, 2005 \[2014], _Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life_, (Life and Mind), Cambridge, Mass: MIT Press. Revised edition 2014.
+* Jahoda, Gustav, 1984, “Do We Need a Concept of Culture?”, _Journal of Cross-Cultural Psychology_, 15(2): 139–151. doi:10.1177/0022002184015002003
+* –––, 2012, “Critical Reflections on Some Recent Definitions of ‘Culture’”, _Culture & Psychology_, 18(3): 289–303. doi:10.1177/1354067X12446229
+* Jamieson, Dale, 2002, “Is There Progress in Morality?”, _Utilitas_, 14(3): 318–338. doi:10.1017/S0953820800003630
+* Jan, Steven B., 2007, _The Memetics of Music: A Neo-Darwinian View of Musical Structure and Culture_, Aldershot: Ashgate. doi:10.4324/9781315085951
+* Japyassú, Hilton F. and Kevin N. Laland, 2017, “Extended Spider Cognition”, _Animal Cognition_, 20(3): 375–395. doi:10.1007/s10071-017-1069-7
+* Jeffares, Ben, 2010, “The Co-Evolution of Tools and Minds: Cognition and Material Culture in the Hominin Lineage”, _Phenomenology and the Cognitive Sciences_, 9(4): 503–520. doi:10.1007/s11097-010-9176-9
+* Jiménez, Ángel V. and Alex Mesoudi, 2019, “Prestige-Biased Social Learning: Current Evidence and Outstanding Questions”, _Palgrave Communications_, 5(1): article 20. doi:10.1057/s41599-019-0228-7
+* –––, 2021, “The Cultural Transmission of Prestige and Dominance Social Rank Cues: An Experimental Simulation”, _Evolutionary Psychological Science_, 7(2): 189–199. doi:10.1007/s40806-020-00261-x
+* Joe, Jennie R., 2014, “Revaluing Native-American Concepts of Development and Education”, in _Cross-Cultural Roots of Minority Child Development_, Patricia M. Greenfield and Rodney R. Cocking (eds), Hove: Psychology Press: 108–114.
+* Johns, Sarah E., Thomas E. Dickins, and Helen T. Clegg, 2011, “Teenage Pregnancy and Motherhood: How Might Evolutionary Theory Inform Policy?”, _Journal of Evolutionary Psychology_, 9(1): 3–19. doi:10.1556/JEP.9.2011.37.1
+* Jones, Ward E., 2001, “Belonging to the Ultra-Faithful: A Response to Eze”, _Philosophical Papers_, 30(3): 215–222. doi:10.1080/05568640109485085
+* Jovanovski, Thomas, 1995, “The Cultural Approach of Ethnopsychiatry: A Review and Critique”, _New Ideas in Psychology_, 13(3): 281–297. doi:10.1016/0732-118X(95)00011-5
+* Joyce, Richard, 2007, _The Evolution of Morality_, (Life and Mind), Cambridge, Mass: MIT Press. doi:10.7551/mitpress/2880.001.0001
+* Kamens, Sarah R., 2020, “Postcolonialism and (Anti)Psychiatry: On Hearing Voices and Ghostwriting”, _Philosophy, Psychiatry, & Psychology_, 27(3): 253–265. doi:10.1353/ppp.2020.0032
+* Kasulis, Thomas, 2019, “Japanese Philosophy”, _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/japanese-philosophy/](https://plato.stanford.edu/archives/sum2019/entries/japanese-philosophy/).
+* Kelly, Daniel R., 2017, “Moral Cheesecake, Evolved Psychology, and the Debunking Impulse”, in _The Routledge Handbook of Evolution and Philosophy_, Richard Joyce (ed.), New York: Routledge Press, 342–358.
+* Kelly, Daniel and Taylor Davis, 2018, “Social Norms and Human Normative Psychology”, _Social Philosophy and Policy_, 35(1): 54–76. doi:10.1017/S0265052518000122
+* Kelly, Daniel and Patrick Hoburg, 2017, “A Tale of Two Processes: On Joseph Henrich’s the Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter”, _Philosophical Psychology_, 30(6): 832–848. doi:10.1080/09515089.2017.1299857
+* Kelly, Daniel and Stephen Setman, 2020, “The Psychology of Normative Cognition” _The Stanford Encyclopedia of Philosophy_ (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/psychology-normative-cognition/](https://plato.stanford.edu/archives/fall2020/entries/psychology-normative-cognition/).
+* Kendal, Jeremy, Jamshid J. Tehrani, and John Odling-Smee, 2011, “Human Niche Construction in Interdisciplinary Focus”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 366(1566): 785–792. doi:10.1098/rstb.2010.0306
+* Kendal, Rachel, Lydia M. Hopper, Andrew Whiten, Sarah F. Brosnan, Susan P. Lambeth, Steven J. Schapiro, and Will Hoppitt, 2015, “Chimpanzees Copy Dominant and Knowledgeable Individuals: Implications for Cultural Diversity”, _Evolution and Human Behavior_, 36(1): 65–72. doi:10.1016/j.evolhumbehav.2014.09.002
+* Kendal, Rachel L., Neeltje J. Boogert, Luke Rendell, Kevin N. Laland, Mike Webster, and Patricia L. Jones, 2018, “Social Learning Strategies: Bridge-Building between Fields”, _Trends in Cognitive Sciences_, 22(7): 651–665. doi:10.1016/j.tics.2018.04.003
+* Kendler, K. S., P. Zachar, and C. Craver, 2011, “What Kinds of Things Are Psychiatric Disorders?”, _Psychological Medicine_, 41(6): 1143–1150. doi:10.1017/S0033291710001844
+* Keupp, Stefanie, Tanya Behne, and Hannes Rakoczy, 2013, “Why Do Children Overimitate? Normativity Is Crucial”, _Journal of Experimental Child Psychology_, 116(2): 392–406. doi:10.1016/j.jecp.2013.07.002
+* Khalidi, Muhammad Ali, 2010, “Interactive Kinds”, _The British Journal for the Philosophy of Science_, 61(2): 335–360. doi:10.1093/bjps/axp042
+* Kim, Minsun and Yuan Yuan, 2015, “No Cross-Cultural Differences in the Gettier Car Case Intuition: A Replication Study of Weinberg et al. 2001”, _Episteme_, 12(3): 355–361. doi:10.1017/epi.2015.17
+* Kincaid, Harold (ed.), 2012, _The Oxford Handbook of Philosophy of Social Science_, Oxford/New York: Oxford University Press. doi:10.1093/oxfordhb/9780195392753.001.0001
+* Kleinman, Arthur, 1988, _Rethinking Psychiatry: From Cultural Category to Personal Experience_, New York: Free Press, London: Collier Macmillan.
+* Kneer, Markus, 2021, “Norms of Assertion in the United States, Germany, and Japan”, _Proceedings of the National Academy of Sciences_, 118(37): e2105365118. doi:10.1073/pnas.2105365118
 * Knobe, Joshua, 2016, “Experimental Philosophy is Cognitive Science”, in Sytsma and Buckwalter 2016: 37–52 (ch. 4).
-* –––, 2019, “Philosophical Intuitions Are Surprisingly Robust Across Demographic Differences”:, *Epistemology & Philosophy of Science*, 56(2): 29–36. doi:10.5840/eps201956225
-* Knobe, Joshua and Shaun Nichols (eds.), 2008, *Experimental Philosophy*, Oxford/New York: Oxford University Press.
-* –––, 2017, “Experimental Philosophy”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2017/entries/experimental-philosophy/>.
-* Koenig, Melissa A. and Mark A. Sabbagh, 2013, “Selective Social Learning: New Perspectives on Learning from Others.”, *Developmental Psychology*, 49(3): 399–403. doi:10.1037/a0031619
-* Kroeber, A. L. and Clyde Kluckhohn, 1952, “Culture: A Critical Review of Concepts and Definitions”. *Papers of the Peabody Museum of Archaeology and Ethnology, Harvard University*, 47.1, Cambridge, MA: Peabody Museum Press.
-* Kuhn, Thomas S., 1962, *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press.
-* Lackey, Jennifer, 2008, *Learning from Words: Testimony as a Source of Knowledge*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199219162.001.0001
-* Laland, Kevin N., 2004, “Social Learning Strategies”, *Animal Learning & Behavior*, 32(1): 4–14. doi:10.3758/BF03196002
-* –––, 2017, *Darwin’s Unfinished Symphony: How Culture Made the Human Mind*, Princeton, NJ: Princeton University Press.
-* Laland, Kevin N. and Bennett G. Galef (eds.), 2009, *The Question of Animal Culture*, Cambridge, MA: Harvard University Press.
-* Laland, Kevin N., John Odling-Smee, and Marcus W. Feldman, 2000, “Niche Construction, Biological Evolution, and Cultural Change”, *Behavioral and Brain Sciences*, 23(1): 131–146. doi:10.1017/S0140525X00002417
-* Laland, Kevin and Amanda Seed, 2021, “Understanding Human Cognitive Uniqueness”, *Annual Review of Psychology*, 72(1): 689–716. doi:10.1146/annurev-psych-062220-051256
-* Laland, Kevin N., Tobias Uller, Marcus W. Feldman, Kim Sterelny, Gerd B. Müller, Armin Moczek, Eva Jablonka, and John Odling-Smee, 2015, “The Extended Evolutionary Synthesis: Its Structure, Assumptions and Predictions”, *Proceedings of the Royal Society B: Biological Sciences*, 282(1813): 20151019. doi:10.1098/rspb.2015.1019
-* Legare, Cristine H. and Mark Nielsen, 2015, “Imitation and Innovation: The Dual Engines of Cultural Learning”, *Trends in Cognitive Sciences*, 19(11): 688–699. doi:10.1016/j.tics.2015.08.005
+* –––, 2019, “Philosophical Intuitions Are Surprisingly Robust Across Demographic Differences”:, _Epistemology & Philosophy of Science_, 56(2): 29–36. doi:10.5840/eps201956225
+* Knobe, Joshua and Shaun Nichols (eds.), 2008, _Experimental Philosophy_, Oxford/New York: Oxford University Press.
+* –––, 2017, “Experimental Philosophy”, _The Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/experimental-philosophy/](https://plato.stanford.edu/archives/win2017/entries/experimental-philosophy/).
+* Koenig, Melissa A. and Mark A. Sabbagh, 2013, “Selective Social Learning: New Perspectives on Learning from Others.”, _Developmental Psychology_, 49(3): 399–403. doi:10.1037/a0031619
+* Kroeber, A. L. and Clyde Kluckhohn, 1952, “Culture: A Critical Review of Concepts and Definitions”. _Papers of the Peabody Museum of Archaeology and Ethnology, Harvard University_, 47.1, Cambridge, MA: Peabody Museum Press.
+* Kuhn, Thomas S., 1962, _The Structure of Scientific Revolutions_, Chicago: University of Chicago Press.
+* Lackey, Jennifer, 2008, _Learning from Words: Testimony as a Source of Knowledge_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199219162.001.0001
+* Laland, Kevin N., 2004, “Social Learning Strategies”, _Animal Learning & Behavior_, 32(1): 4–14. doi:10.3758/BF03196002
+* –––, 2017, _Darwin’s Unfinished Symphony: How Culture Made the Human Mind_, Princeton, NJ: Princeton University Press.
+* Laland, Kevin N. and Bennett G. Galef (eds.), 2009, _The Question of Animal Culture_, Cambridge, MA: Harvard University Press.
+* Laland, Kevin N., John Odling-Smee, and Marcus W. Feldman, 2000, “Niche Construction, Biological Evolution, and Cultural Change”, _Behavioral and Brain Sciences_, 23(1): 131–146. doi:10.1017/S0140525X00002417
+* Laland, Kevin and Amanda Seed, 2021, “Understanding Human Cognitive Uniqueness”, _Annual Review of Psychology_, 72(1): 689–716. doi:10.1146/annurev-psych-062220-051256
+* Laland, Kevin N., Tobias Uller, Marcus W. Feldman, Kim Sterelny, Gerd B. Müller, Armin Moczek, Eva Jablonka, and John Odling-Smee, 2015, “The Extended Evolutionary Synthesis: Its Structure, Assumptions and Predictions”, _Proceedings of the Royal Society B: Biological Sciences_, 282(1813): 20151019. doi:10.1098/rspb.2015.1019
+* Legare, Cristine H. and Mark Nielsen, 2015, “Imitation and Innovation: The Dual Engines of Cultural Learning”, _Trends in Cognitive Sciences_, 19(11): 688–699. doi:10.1016/j.tics.2015.08.005
 * Leibo, Joel Z., Edward Hughes, Marc Lanctot, and Thore Graepel, 2019, “Autocurricula and the Emergence of Innovation from Social Interaction: A Manifesto for Multi-Agent Intelligence Research”, unpublished manuscript, arXiv: 1903.00742. doi:10.48550/ARXIV.1903.00742
-* Lenard, Patti Tamara, 2020, “Culture”, *The Stanford Encyclopedia of Philosophy* (Winter 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2020/entries/culture/>.
-* Lévi-Strauss, Claude, 1958, *Anthropologie structurale*, Paris: Plon.
-* Levy, Arnon and Yair Levy, 2020, “Evolutionary Debunking Arguments Meet Evolutionary Science”, *Philosophy and Phenomenological Research*, 100(3): 491–509. doi:10.1111/phpr.12554
-* Levy, Neil and Mark Alfano, 2020, “Knowledge From Vice: Deeply Social Epistemology”, *Mind*, 129(515): 887–915. doi:10.1093/mind/fzz017
-* Lewens, Tim, 2008 [2020], “Cultural Evolution”, *The Stanford Encyclopedia of Philosophy* (Summer 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2020/entries/evolution-cultural/>.
-* –––, 2015, *Cultural Evolution: Conceptual Challenges*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199674183.001.0001
-* –––, 2017, “Human Nature, Human Culture: The Case of Cultural Evolution”, *Interface Focus*, 7(5): 20170018. doi:10.1098/rsfs.2017.0018
-* Little, Emily E., Leslie J. Carver, and Cristine H. Legare, 2016, “Cultural Variation in Triadic Infant-Caregiver Object Exploration”, *Child Development*, 87(4): 1130–1145. doi:10.1111/cdev.12513
-* Littlejohn, Clayton and John Turri (eds.), 2014, *Epistemic Norms: New Essays on Action, Belief, and Assertion*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199660025.001.0001
-* Lloyd, Elisabeth, 2005 [2020], “Units and Levels of Selection”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2020/entries/selection-units/>.
-* Longino, Helen E., 1990, *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*, Princeton, N.J: Princeton University Press.
-* Luhrmann, Tanya M., R. Padmavati, Hema Tharoor, and Akwasi Osei, 2015, “Hearing Voices in Different Cultures: A Social Kindling Hypothesis”, *Topics in Cognitive Science*, 7(4): 646–663. doi:10.1111/tops.12158
-* Lycan, William G. and Jesse J. Prinz (eds.), 2008, *Mind and Cognition: An Anthology*, third edition, (Blackwell Philosophy Anthologies 8), Malden, MA ; Oxford: Blackwell.
-* Lyons, Derek E., Diana H. Damrosch, Jennifer K. Lin, Deanna M. Macris, and Frank C. Keil, 2011, “The Scope and Limits of Overimitation in the Transmission of Artefact Culture”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 366(1567): 1158–1167. doi:10.1098/rstb.2010.0335
-* Machery, Edouard, 2017, *Philosophy Within Its Proper Bounds*, Oxford, United Kingdom: Oxford University Press. doi:10.1093/oso/9780198807520.001.0001
+* Lenard, Patti Tamara, 2020, “Culture”, _The Stanford Encyclopedia of Philosophy_ (Winter 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2020/entries/culture/](https://plato.stanford.edu/archives/win2020/entries/culture/).
+* Lévi-Strauss, Claude, 1958, _Anthropologie structurale_, Paris: Plon.
+* Levy, Arnon and Yair Levy, 2020, “Evolutionary Debunking Arguments Meet Evolutionary Science”, _Philosophy and Phenomenological Research_, 100(3): 491–509. doi:10.1111/phpr.12554
+* Levy, Neil and Mark Alfano, 2020, “Knowledge From Vice: Deeply Social Epistemology”, _Mind_, 129(515): 887–915. doi:10.1093/mind/fzz017
+* Lewens, Tim, 2008 \[2020], “Cultural Evolution”, _The Stanford Encyclopedia of Philosophy_ (Summer 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2020/entries/evolution-cultural/](https://plato.stanford.edu/archives/sum2020/entries/evolution-cultural/).
+* –––, 2015, _Cultural Evolution: Conceptual Challenges_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199674183.001.0001
+* –––, 2017, “Human Nature, Human Culture: The Case of Cultural Evolution”, _Interface Focus_, 7(5): 20170018. doi:10.1098/rsfs.2017.0018
+* Little, Emily E., Leslie J. Carver, and Cristine H. Legare, 2016, “Cultural Variation in Triadic Infant-Caregiver Object Exploration”, _Child Development_, 87(4): 1130–1145. doi:10.1111/cdev.12513
+* Littlejohn, Clayton and John Turri (eds.), 2014, _Epistemic Norms: New Essays on Action, Belief, and Assertion_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199660025.001.0001
+* Lloyd, Elisabeth, 2005 \[2020], “Units and Levels of Selection”, _The Stanford Encyclopedia of Philosophy_ (Spring 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/selection-units/](https://plato.stanford.edu/archives/spr2020/entries/selection-units/).
+* Longino, Helen E., 1990, _Science as Social Knowledge: Values and Objectivity in Scientific Inquiry_, Princeton, N.J: Princeton University Press.
+* Luhrmann, Tanya M., R. Padmavati, Hema Tharoor, and Akwasi Osei, 2015, “Hearing Voices in Different Cultures: A Social Kindling Hypothesis”, _Topics in Cognitive Science_, 7(4): 646–663. doi:10.1111/tops.12158
+* Lycan, William G. and Jesse J. Prinz (eds.), 2008, _Mind and Cognition: An Anthology_, third edition, (Blackwell Philosophy Anthologies 8), Malden, MA ; Oxford: Blackwell.
+* Lyons, Derek E., Diana H. Damrosch, Jennifer K. Lin, Deanna M. Macris, and Frank C. Keil, 2011, “The Scope and Limits of Overimitation in the Transmission of Artefact Culture”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 366(1567): 1158–1167. doi:10.1098/rstb.2010.0335
+* Machery, Edouard, 2017, _Philosophy Within Its Proper Bounds_, Oxford, United Kingdom: Oxford University Press. doi:10.1093/oso/9780198807520.001.0001
 * –––, 2018, “Morality: A Historical Invention”, in Gray and Graham 2018: 259–265.
-* Machery, Edouard, Daniel Kelly, and Stephen P. Stich, 2005, “Moral Realism and Cross-Cultural Normative Diversity”, *Behavioral and Brain Sciences*, 28(6): 830–830. doi:10.1017/S0140525X05370142
+* Machery, Edouard, Daniel Kelly, and Stephen P. Stich, 2005, “Moral Realism and Cross-Cultural Normative Diversity”, _Behavioral and Brain Sciences_, 28(6): 830–830. doi:10.1017/S0140525X05370142
 * Machery, Edouard and Ron Mallon, 2010, “Evolution of Moralitys”, in Doris and the Moral Psychology Research Group 2010: 3–46.
-* Machery, Edouard, Ron Mallon, Shaun Nichols, and Stephen P Stich, 2004, “Semantics, Cross-Cultural Style”, *Cognition*, 92(3): B1–B12. doi:10.1016/j.cognition.2003.10.003
-* Machery, Edouard, Stephen Stich, David Rose, Amita Chatterjee, Kaori Karasawa, Noel Struchiner, Smita Sirker, Naoki Usui, and Takaaki Hashimoto, 2017, “Gettier Across Cultures”, *Noûs*, 51(3): 645–664. doi:10.1111/nous.12110
-* Malafouris, Lambros, 2013, *How Things Shape the Mind: A Theory of Material Engagement*, Cambridge, MA: The MIT Press.
-* Malinowski, Bronisław, 1931, “Culture”, in *Encyclopedia of the Social Sciences*, Edwin R.A. Seligman (ed.), New York: Macmillan, 4: 621–646.
-* Mallon, Ron, 2016, *The Construction of Human Kinds*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198755678.001.0001
-* Mallon, Ron and Jonathan M. Weinberg, 2006, “Innateness as Closed Process Invariance”, *Philosophy of Science*, 73(3): 323–344. doi:10.1086/515414
-* Mameli, Matteo, 2001, “Mindreading, Mindshaping, and Evolution”, *Biology & Philosophy*, 16(5): 595–626. doi:10.1023/A:1012203830990
-* Maner, Jon K., 2017, “Dominance and Prestige: A Tale of Two Hierarchies”, *Current Directions in Psychological Science*, 26(6): 526–531. doi:10.1177/0963721417714323
-* Margolis, Eric, Richard Samuels, and Stephen P. Stich (eds.), 2012, *The Oxford Handbook of Philosophy of Cognitive Science*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195309799.001.0001
-* Markie, Peter and M. Folescu, 2021, “Rationalism vs. Empiricism”, *The Stanford Encyclopedia of Philosophy* (Fall 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2021/entries/rationalism-empiricism/>.
-* Markus, Hazel R. and Shinobu Kitayama, 1991, “Culture and the Self: Implications for Cognition, Emotion, and Motivation.”, *Psychological Review*, 98(2): 224–253. doi:10.1037/0033-295X.98.2.224
-* Marshall-Pescini, Sarah and Andrew Whiten, 2008, “Chimpanzees (*Pan troglodytes*) and the Question of Cumulative Culture: An Experimental Approach”, *Animal Cognition*, 11(3): 449–456. doi:10.1007/s10071-007-0135-y
-* Mathew, Sarah, Robert Boyd, and Matthijs Van Veelen, 2013, “Human Cooperation among Kin and Close Associates May Require Enforcement of Norms by Third Parties”, in *Cultural Evolution: Society, Technology, Language, and Religion*, Peter J. Richerson and Morton H. Christiansen (eds.), Cambridge, MA: The MIT Press, 45–60. doi:10.7551/mitpress/9780262019750.003.0003
-* Mathew, Sarah and Charles Perreault, 2015, “Behavioural Variation in 172 Small-Scale Societies Indicates That Social Learning Is the Main Mode of Human Adaptation”, *Proceedings of the Royal Society B: Biological Sciences*, 282(1810): 20150061. doi:10.1098/rspb.2015.0061
-* McGeer, Victoria, 2007, “The Regulative Dimension of Folk Psychology”, in *Folk Psychology Re-Assessed*, Daniel D. Hutto and Matthew Ratcliffe (eds.), Dordrecht: Springer Netherlands, 137–156. doi:10.1007/978-1-4020-5558-4_8
-* –––, 2015, “Mind-Making Practices: The Social Infrastructure of Self-Knowing Agency and Responsibility”, *Philosophical Explorations*, 18(2): 259–281. doi:10.1080/13869795.2015.1032331
-* McGinn, Colin, 1977, “Charity, Interpretation, and Belief”, *The Journal of Philosophy*, 74(9): 521–535. doi:10.2307/2025795
-* McLeod, Alexus, 2016, “The Convergence Model of Philosophical Method in the Early Han”, *International Communication of Chinese Culture*, 3(2): 339–363.
-* McNamara, Rita Anne, Aiyana K. Willard, Ara Norenzayan, and Joseph Henrich, 2019, “Weighing Outcome vs. Intent across Societies: How Cultural Models of Mind Shape Moral Reasoning”, *Cognition*, 182: 95–108. doi:10.1016/j.cognition.2018.09.008
-* Medina, José, 2013, *The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations*, (Studies in Feminist Philosophy), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199929023.001.0001
-* Menary, Richard, 2015, “Mathematical Cognition: A Case of Enculturation”, in *Open MIND*, Thomas K. Metzinger and Jennifer M. Windt (eds.), Frankfurt am Main: MIND Group, 20 pages. [[Menary 2015 available online](https://open-mind.net/DOI?isbn=9783958570818)]
-* Mercier, Hugo, 2020, *Not Born Yesterday: The Science of Who We Trust and What We Believe*, Princeton, NJ: Princeton University Press.
-* Mercier, Hugo and Dan Sperber, 2011, “Why Do Humans Reason? Arguments for an Argumentative Theory”, *Behavioral and Brain Sciences*, 34(2): 57–74. doi:10.1017/S0140525X10000968
-* –––, 2017, *The Enigma of Reason*, Cambridge, MA: Harvard University Press.
-* Mesoudi, Alex, 2016, “Cultural Evolution: A Review of Theory, Findings and Controversies”, *Evolutionary Biology*, 43(4): 481–497. doi:10.1007/s11692-015-9320-0
-* Mesoudi, Alex and Alex Thornton, 2018, “What Is Cumulative Cultural Evolution?”, *Proceedings of the Royal Society B: Biological Sciences*, 285(1880): 20180712. doi:10.1098/rspb.2018.0712
-* Mikhail, John M., 2007, “Universal Moral Grammar: Theory, Evidence and the Future”, *Trends in Cognitive Sciences*, 11(4): 143–152. doi:10.1016/j.tics.2006.12.007
-* –––, 2011, *Elements of Moral Cognition: Rawls’ Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment*, (Cambridge Studies in Law and Society), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780578
-* Milne, A. E., B. Wilson, and M. H. Christiansen, 2018, “Structured Sequence Learning across Sensory Modalities in Humans and Nonhuman Primates”, *Current Opinion in Behavioral Sciences*, 21: 39–48. doi:10.1016/j.cobeha.2017.11.016
-* Miton, Helena and Mathieu Charbonneau, 2018, “Cumulative Culture in the Laboratory: Methodological and Theoretical Challenges”, *Proceedings of the Royal Society B: Biological Sciences*, 285(1879): 20180677. doi:10.1098/rspb.2018.0677
-* Miu, Elena, Ned Gulley, Kevin N. Laland, and Luke Rendell, 2020, “Flexible Learning, Rather than Inveterate Innovation or Copying, Drives Cumulative Knowledge Gain”, *Science Advances*, 6(23): eaaz0286. doi:10.1126/sciadv.aaz0286
-* Mizumoto, Masahara, Stephen P. Stich, and Eric McCready (eds.), 2018, *Epistemology for the Rest of the World*, New York: Oxford University Press. doi:10.1093/oso/9780190865085.001.0001
-* Møllgaard, Eske J., 2021, “Is Confucian Discourse Philosophy?”, *Philosophy East and West*, 71(4): 1029–1045. doi:10.1353/pew.2021.0067
-* Moore, Richard, 2021, “The Cultural Evolution of Mind-Modelling”, *Synthese*, 199(1–2): 1751–1776. doi:10.1007/s11229-020-02853-3
-* Morin, Olivier, 2011 [2016], *Comment les traditions naissent et meurent: La transmission culturelle*, Paris: Jacob. Translated and revised by the author as *How Traditions Live and Die*, (Foundations of Human Interaction), Oxford/New York: Oxford University Press, 2016.
-* Munch-Jurisic, Ditte Marie, forthcoming, *Perpetrator Disgust: The Moral Limits of Gut Feelings*, New York: Oxford University Press.
-* Murphy, Dominic, 2010 [2020], “Philosophy of Psychiatry”, *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2020/entries/psychiatry/>.
-* –––, 2015, “‘Deviant Deviance’: Cultural Diversity in DSM-5”, in *The DSM-5 in Perspective*, Steeves Demazeux and Patrick Singy (eds.), (History, Philosophy and Theory of the Life Sciences 10), Dordrecht: Springer Netherlands, 97–110. doi:10.1007/978-94-017-9765-8_6
-* Muthukrishna, Michael, Adrian V. Bell, Joseph Henrich, Cameron M. Curtin, Alexander Gedranovich, Jason McInerney, and Braden Thue, 2020, “Beyond Western, Educated, Industrial, Rich, and Democratic (WEIRD) Psychology: Measuring and Mapping Scales of Cultural and Psychological Distance”, *Psychological Science*, 31(6): 678–701. doi:10.1177/0956797620916782
-* Muthukrishna, Michael, Michael Doebeli, Maciej Chudek, and Joseph Henrich, 2018, “The Cultural Brain Hypothesis: How Culture Drives Brain Expansion, Sociality, and Life History”, *PLOS Computational Biology*, 14(11): e1006504. doi:10.1371/journal.pcbi.1006504
-* Muthukrishna, Michael and Joseph Henrich, 2019, “A Problem in Theory”, *Nature Human Behaviour*, 3(3): 221–229. doi:10.1038/s41562-018-0522-1
-* Muthukrishna, Michael, Joseph Henrich, and Edward Slingerland, 2021, “Psychology as a Historical Science”, *Annual Review of Psychology*, 72(1): 717–749. doi:10.1146/annurev-psych-082820-111436
-* Muthukrishna, Michael, Thomas J.H. Morgan, and Joseph Henrich, 2016, “The When and Who of Social Learning and Conformist Transmission”, *Evolution and Human Behavior*, 37(1): 10–20. doi:10.1016/j.evolhumbehav.2015.05.004
-* Nado, Jennifer, 2021, “Conceptual Engineering via Experimental Philosophy”, *Inquiry*, 64(1–2): 76–96. doi:10.1080/0020174X.2019.1667870
-* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, and Jason Turner, 2006, “Is Incompatibilism Intuitive?”, *Philosophy and Phenomenological Research*, 73(1): 28–53. doi:10.1111/j.1933-1592.2006.tb00603.x
-* Nelson, John O., 1990, “Was Aristotle a Functionalist?”, *The Review of Metaphysics*, 43(4): 791–802.
-* Ness, Robert C., 1978, “The Old Hag Phenomenon as Sleep Paralysis: A Biocultural Interpretation”, *Culture, Medicine and Psychiatry*, 2(1): 15–39. doi:10.1007/BF00052448
-* Nguyen, C. Thi, 2020, “Echo Chambers and Epistemic Bubbles”, *Episteme*, 17(2): 141–161. doi:10.1017/epi.2018.32
-* Nichols, Shaun, 2002, “On the Genealogy of Norms: A Case for the Role of Emotion in Cultural Evolution”, *Philosophy of Science*, 69(2): 234–255. doi:10.1086/341051
-* –––, 2004, *Sentimental Rules: On the Natural Foundations of Moral Judgment*, New York: Oxford University Press. doi:10.1093/0195169344.001.0001
-* Nietzsche, Friedrich, 1887, *Zur Genealogie der Moral: Eine Streitschrift)*, Leipzig. Translated as *On the Genealogy of Morality: A Polemic*, in *The Nietzsche Reader*, Keith A. Pearson and Duncan Large (ed.), Malden, MA: Blackwell Publishing Ltd, 2006, 390–435.
-* Nisbett, Richard E., 2003, *The Geography of Thought: How Asians and Westerners Think Differently—and Why*, New York: Free Press.
-* Nisbett, Richard E. and Dov Cohen, 1996, *Culture of Honor: The Psychology of Violence in the South*, (New Directions in Social Psychology), Boulder, CO: Westview Press.
-* Norenzayan, Ara, 2006, “Evolution and Transmitted Culture”, *Psychological Inquiry*, 17(2): 123–128.
-* –––, 2016, “Theodiversity”, *Annual Review of Psychology*, 67(1): 465–488. doi:10.1146/annurev-psych-122414-033426
-* Norenzayan, Ara, Azim F. Shariff, Will M. Gervais, Aiyana K. Willard, Rita A. McNamara, Edward Slingerland, and Joseph Henrich, 2016, “The Cultural Evolution of Prosocial Religions”, *Behavioral and Brain Sciences*, 39: e1. doi:10.1017/S0140525X14001356
-* Núñez, Rafael, Michael Allen, Richard Gao, Carson Miller Rigoli, Josephine Relaford-Doyle, and Arturs Semenuks, 2019, “What Happened to Cognitive Science?”, *Nature Human Behaviour*, 3(8): 782–791. doi:10.1038/s41562-019-0626-2
-* Nussbaum, Martha C. and Hilary Putnam, 1992, “Changing Aristotle’s Mind”, in *Essays on Aristotle’s De Anima*, Martha C. Nussbaum and Amélie Oksenberg Rorty (eds.), Oxford: Clarendon Press, 27–56. doi:10.1093/019823600X.003.0004
-* O’Connor, Caitlin and James Owen Weatherall, 2019, *The Misinformation Age: How False Beliefs Spread*, New Haven, CT: Yale University Press.
-* Odling-Smee, John and Kevin N. Laland, 2011, “Ecological Inheritance and Cultural Inheritance: What Are They and How Do They Differ?”, *Biological Theory*, 6(3): 220–230. doi:10.1007/s13752-012-0030-x
-* Olshewsky, Thomas M., 1992, “Functionalism Old and New”, *History of Philosophy Quarterly*, 9(3): 265–286.
-* Osiurak, François and Emanuelle Reynaud, 2020, “The Elephant in the Room: What Matters Cognitively in Cumulative Technological Culture”, *Behavioral and Brain Sciences*, 43: e156. doi:10.1017/S0140525X19003236
-* Outlaw, Lucius T., Jr., 2010 [2017], “Africana Philosophy”, *The Stanford Encyclopedia of Philosophy* (Summer 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2017/entries/africana/>.
-* Padalia, Divya, 2014, “Conformity Bias: A Fact or an Experimental Artifact?”, *Psychological Studies*, 59(3): 223–230. doi:10.1007/s12646-014-0272-8
-* Palermos, Spyridon Orestis, 2014, “Loops, Constitution, and Cognitive Extension”, *Cognitive Systems Research*, 27: 25–41. doi:10.1016/j.cogsys.2013.04.002
-* –––, 2016, “Spreading the Credit: Virtue Reliabilism and Weak Epistemic Anti-Individualism”, *Erkenntnis*, 81(2): 305–334. doi:10.1007/s10670-015-9741-2
-* Paul, Robert A., 2015, *Mixed Messages: Cultural and Genetic Inheritance in the Constitution of Human Society*, Chicago/London: The University of Chicago Press.
-* Peters, Uwe, forthcoming, “What Is the Function of Confirmation Bias?”, *Erkenntnis*, first online: 20 April 2020. doi:10.1007/s10670-020-00252-1
-* Petkov, Christopher I. and Carel ten Cate, 2020, “Structured Sequence Learning: Animal Abilities, Cognitive Operations, and Language Evolution”, *Topics in Cognitive Science*, 12(3): 828–842. doi:10.1111/tops.12444
-* Piccinini, Gualtiero and Armin W. Schulz, 2019, “The Ways of Altruism”, *Evolutionary Psychological Science*, 5(1): 58–70. doi:10.1007/s40806-018-0167-3
-* Pinker, Steven, 2010, “The Cognitive Niche: Coevolution of Intelligence, Sociality, and Language”, *Proceedings of the National Academy of Sciences*, 107(suppl. 2): 8993–8999. doi:10.1073/pnas.0914630107
-* –––, 2011, *The Better Angels of Our Nature: Why Violence Has Declined*, New York: Viking.
-* –––, 2018, *Enlightenment Now: The Case for Reason, Science, Humanism, and Progress*, New York: Viking.
-* Pitt, David, 2000 [2020], “Mental Representation”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2020/entries/mental-representation/>.
-* Plato, *Meno*, translated in *The Collected Dialogues*, Edith Hamilton and Huntington Cairns (eds.), Princeton, NJ: Princeton University Press, 1961.
-* Prinz, Jesse J., 2007, *The Emotional Construction of Morals*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199571543.001.0001
+* Machery, Edouard, Ron Mallon, Shaun Nichols, and Stephen P Stich, 2004, “Semantics, Cross-Cultural Style”, _Cognition_, 92(3): B1–B12. doi:10.1016/j.cognition.2003.10.003
+* Machery, Edouard, Stephen Stich, David Rose, Amita Chatterjee, Kaori Karasawa, Noel Struchiner, Smita Sirker, Naoki Usui, and Takaaki Hashimoto, 2017, “Gettier Across Cultures”, _Noûs_, 51(3): 645–664. doi:10.1111/nous.12110
+* Malafouris, Lambros, 2013, _How Things Shape the Mind: A Theory of Material Engagement_, Cambridge, MA: The MIT Press.
+* Malinowski, Bronisław, 1931, “Culture”, in _Encyclopedia of the Social Sciences_, Edwin R.A. Seligman (ed.), New York: Macmillan, 4: 621–646.
+* Mallon, Ron, 2016, _The Construction of Human Kinds_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198755678.001.0001
+* Mallon, Ron and Jonathan M. Weinberg, 2006, “Innateness as Closed Process Invariance”, _Philosophy of Science_, 73(3): 323–344. doi:10.1086/515414
+* Mameli, Matteo, 2001, “Mindreading, Mindshaping, and Evolution”, _Biology & Philosophy_, 16(5): 595–626. doi:10.1023/A:1012203830990
+* Maner, Jon K., 2017, “Dominance and Prestige: A Tale of Two Hierarchies”, _Current Directions in Psychological Science_, 26(6): 526–531. doi:10.1177/0963721417714323
+* Margolis, Eric, Richard Samuels, and Stephen P. Stich (eds.), 2012, _The Oxford Handbook of Philosophy of Cognitive Science_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195309799.001.0001
+* Markie, Peter and M. Folescu, 2021, “Rationalism vs. Empiricism”, _The Stanford Encyclopedia of Philosophy_ (Fall 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2021/entries/rationalism-empiricism/](https://plato.stanford.edu/archives/fall2021/entries/rationalism-empiricism/).
+* Markus, Hazel R. and Shinobu Kitayama, 1991, “Culture and the Self: Implications for Cognition, Emotion, and Motivation.”, _Psychological Review_, 98(2): 224–253. doi:10.1037/0033-295X.98.2.224
+* Marshall-Pescini, Sarah and Andrew Whiten, 2008, “Chimpanzees (_Pan troglodytes_) and the Question of Cumulative Culture: An Experimental Approach”, _Animal Cognition_, 11(3): 449–456. doi:10.1007/s10071-007-0135-y
+* Mathew, Sarah, Robert Boyd, and Matthijs Van Veelen, 2013, “Human Cooperation among Kin and Close Associates May Require Enforcement of Norms by Third Parties”, in _Cultural Evolution: Society, Technology, Language, and Religion_, Peter J. Richerson and Morton H. Christiansen (eds.), Cambridge, MA: The MIT Press, 45–60. doi:10.7551/mitpress/9780262019750.003.0003
+* Mathew, Sarah and Charles Perreault, 2015, “Behavioural Variation in 172 Small-Scale Societies Indicates That Social Learning Is the Main Mode of Human Adaptation”, _Proceedings of the Royal Society B: Biological Sciences_, 282(1810): 20150061. doi:10.1098/rspb.2015.0061
+* McGeer, Victoria, 2007, “The Regulative Dimension of Folk Psychology”, in _Folk Psychology Re-Assessed_, Daniel D. Hutto and Matthew Ratcliffe (eds.), Dordrecht: Springer Netherlands, 137–156. doi:10.1007/978-1-4020-5558-4\_8
+* –––, 2015, “Mind-Making Practices: The Social Infrastructure of Self-Knowing Agency and Responsibility”, _Philosophical Explorations_, 18(2): 259–281. doi:10.1080/13869795.2015.1032331
+* McGinn, Colin, 1977, “Charity, Interpretation, and Belief”, _The Journal of Philosophy_, 74(9): 521–535. doi:10.2307/2025795
+* McLeod, Alexus, 2016, “The Convergence Model of Philosophical Method in the Early Han”, _International Communication of Chinese Culture_, 3(2): 339–363.
+* McNamara, Rita Anne, Aiyana K. Willard, Ara Norenzayan, and Joseph Henrich, 2019, “Weighing Outcome vs. Intent across Societies: How Cultural Models of Mind Shape Moral Reasoning”, _Cognition_, 182: 95–108. doi:10.1016/j.cognition.2018.09.008
+* Medina, José, 2013, _The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations_, (Studies in Feminist Philosophy), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199929023.001.0001
+* Menary, Richard, 2015, “Mathematical Cognition: A Case of Enculturation”, in _Open MIND_, Thomas K. Metzinger and Jennifer M. Windt (eds.), Frankfurt am Main: MIND Group, 20 pages. \[[Menary 2015 available online](https://open-mind.net/DOI?isbn=9783958570818)]
+* Mercier, Hugo, 2020, _Not Born Yesterday: The Science of Who We Trust and What We Believe_, Princeton, NJ: Princeton University Press.
+* Mercier, Hugo and Dan Sperber, 2011, “Why Do Humans Reason? Arguments for an Argumentative Theory”, _Behavioral and Brain Sciences_, 34(2): 57–74. doi:10.1017/S0140525X10000968
+* –––, 2017, _The Enigma of Reason_, Cambridge, MA: Harvard University Press.
+* Mesoudi, Alex, 2016, “Cultural Evolution: A Review of Theory, Findings and Controversies”, _Evolutionary Biology_, 43(4): 481–497. doi:10.1007/s11692-015-9320-0
+* Mesoudi, Alex and Alex Thornton, 2018, “What Is Cumulative Cultural Evolution?”, _Proceedings of the Royal Society B: Biological Sciences_, 285(1880): 20180712. doi:10.1098/rspb.2018.0712
+* Mikhail, John M., 2007, “Universal Moral Grammar: Theory, Evidence and the Future”, _Trends in Cognitive Sciences_, 11(4): 143–152. doi:10.1016/j.tics.2006.12.007
+* –––, 2011, _Elements of Moral Cognition: Rawls’ Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment_, (Cambridge Studies in Law and Society), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780578
+* Milne, A. E., B. Wilson, and M. H. Christiansen, 2018, “Structured Sequence Learning across Sensory Modalities in Humans and Nonhuman Primates”, _Current Opinion in Behavioral Sciences_, 21: 39–48. doi:10.1016/j.cobeha.2017.11.016
+* Miton, Helena and Mathieu Charbonneau, 2018, “Cumulative Culture in the Laboratory: Methodological and Theoretical Challenges”, _Proceedings of the Royal Society B: Biological Sciences_, 285(1879): 20180677. doi:10.1098/rspb.2018.0677
+* Miu, Elena, Ned Gulley, Kevin N. Laland, and Luke Rendell, 2020, “Flexible Learning, Rather than Inveterate Innovation or Copying, Drives Cumulative Knowledge Gain”, _Science Advances_, 6(23): eaaz0286. doi:10.1126/sciadv.aaz0286
+* Mizumoto, Masahara, Stephen P. Stich, and Eric McCready (eds.), 2018, _Epistemology for the Rest of the World_, New York: Oxford University Press. doi:10.1093/oso/9780190865085.001.0001
+* Møllgaard, Eske J., 2021, “Is Confucian Discourse Philosophy?”, _Philosophy East and West_, 71(4): 1029–1045. doi:10.1353/pew.2021.0067
+* Moore, Richard, 2021, “The Cultural Evolution of Mind-Modelling”, _Synthese_, 199(1–2): 1751–1776. doi:10.1007/s11229-020-02853-3
+* Morin, Olivier, 2011 \[2016], _Comment les traditions naissent et meurent: La transmission culturelle_, Paris: Jacob. Translated and revised by the author as _How Traditions Live and Die_, (Foundations of Human Interaction), Oxford/New York: Oxford University Press, 2016.
+* Munch-Jurisic, Ditte Marie, forthcoming, _Perpetrator Disgust: The Moral Limits of Gut Feelings_, New York: Oxford University Press.
+* Murphy, Dominic, 2010 \[2020], “Philosophy of Psychiatry”, _The Stanford Encyclopedia of Philosophy_ (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/psychiatry/](https://plato.stanford.edu/archives/fall2020/entries/psychiatry/).
+* –––, 2015, “‘Deviant Deviance’: Cultural Diversity in DSM-5”, in _The DSM-5 in Perspective_, Steeves Demazeux and Patrick Singy (eds.), (History, Philosophy and Theory of the Life Sciences 10), Dordrecht: Springer Netherlands, 97–110. doi:10.1007/978-94-017-9765-8\_6
+* Muthukrishna, Michael, Adrian V. Bell, Joseph Henrich, Cameron M. Curtin, Alexander Gedranovich, Jason McInerney, and Braden Thue, 2020, “Beyond Western, Educated, Industrial, Rich, and Democratic (WEIRD) Psychology: Measuring and Mapping Scales of Cultural and Psychological Distance”, _Psychological Science_, 31(6): 678–701. doi:10.1177/0956797620916782
+* Muthukrishna, Michael, Michael Doebeli, Maciej Chudek, and Joseph Henrich, 2018, “The Cultural Brain Hypothesis: How Culture Drives Brain Expansion, Sociality, and Life History”, _PLOS Computational Biology_, 14(11): e1006504. doi:10.1371/journal.pcbi.1006504
+* Muthukrishna, Michael and Joseph Henrich, 2019, “A Problem in Theory”, _Nature Human Behaviour_, 3(3): 221–229. doi:10.1038/s41562-018-0522-1
+* Muthukrishna, Michael, Joseph Henrich, and Edward Slingerland, 2021, “Psychology as a Historical Science”, _Annual Review of Psychology_, 72(1): 717–749. doi:10.1146/annurev-psych-082820-111436
+* Muthukrishna, Michael, Thomas J.H. Morgan, and Joseph Henrich, 2016, “The When and Who of Social Learning and Conformist Transmission”, _Evolution and Human Behavior_, 37(1): 10–20. doi:10.1016/j.evolhumbehav.2015.05.004
+* Nado, Jennifer, 2021, “Conceptual Engineering via Experimental Philosophy”, _Inquiry_, 64(1–2): 76–96. doi:10.1080/0020174X.2019.1667870
+* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, and Jason Turner, 2006, “Is Incompatibilism Intuitive?”, _Philosophy and Phenomenological Research_, 73(1): 28–53. doi:10.1111/j.1933-1592.2006.tb00603.x
+* Nelson, John O., 1990, “Was Aristotle a Functionalist?”, _The Review of Metaphysics_, 43(4): 791–802.
+* Ness, Robert C., 1978, “The Old Hag Phenomenon as Sleep Paralysis: A Biocultural Interpretation”, _Culture, Medicine and Psychiatry_, 2(1): 15–39. doi:10.1007/BF00052448
+* Nguyen, C. Thi, 2020, “Echo Chambers and Epistemic Bubbles”, _Episteme_, 17(2): 141–161. doi:10.1017/epi.2018.32
+* Nichols, Shaun, 2002, “On the Genealogy of Norms: A Case for the Role of Emotion in Cultural Evolution”, _Philosophy of Science_, 69(2): 234–255. doi:10.1086/341051
+* –––, 2004, _Sentimental Rules: On the Natural Foundations of Moral Judgment_, New York: Oxford University Press. doi:10.1093/0195169344.001.0001
+* Nietzsche, Friedrich, 1887, _Zur Genealogie der Moral: Eine Streitschrift)_, Leipzig. Translated as _On the Genealogy of Morality: A Polemic_, in _The Nietzsche Reader_, Keith A. Pearson and Duncan Large (ed.), Malden, MA: Blackwell Publishing Ltd, 2006, 390–435.
+* Nisbett, Richard E., 2003, _The Geography of Thought: How Asians and Westerners Think Differently—and Why_, New York: Free Press.
+* Nisbett, Richard E. and Dov Cohen, 1996, _Culture of Honor: The Psychology of Violence in the South_, (New Directions in Social Psychology), Boulder, CO: Westview Press.
+* Norenzayan, Ara, 2006, “Evolution and Transmitted Culture”, _Psychological Inquiry_, 17(2): 123–128.
+* –––, 2016, “Theodiversity”, _Annual Review of Psychology_, 67(1): 465–488. doi:10.1146/annurev-psych-122414-033426
+* Norenzayan, Ara, Azim F. Shariff, Will M. Gervais, Aiyana K. Willard, Rita A. McNamara, Edward Slingerland, and Joseph Henrich, 2016, “The Cultural Evolution of Prosocial Religions”, _Behavioral and Brain Sciences_, 39: e1. doi:10.1017/S0140525X14001356
+* Núñez, Rafael, Michael Allen, Richard Gao, Carson Miller Rigoli, Josephine Relaford-Doyle, and Arturs Semenuks, 2019, “What Happened to Cognitive Science?”, _Nature Human Behaviour_, 3(8): 782–791. doi:10.1038/s41562-019-0626-2
+* Nussbaum, Martha C. and Hilary Putnam, 1992, “Changing Aristotle’s Mind”, in _Essays on Aristotle’s De Anima_, Martha C. Nussbaum and Amélie Oksenberg Rorty (eds.), Oxford: Clarendon Press, 27–56. doi:10.1093/019823600X.003.0004
+* O’Connor, Caitlin and James Owen Weatherall, 2019, _The Misinformation Age: How False Beliefs Spread_, New Haven, CT: Yale University Press.
+* Odling-Smee, John and Kevin N. Laland, 2011, “Ecological Inheritance and Cultural Inheritance: What Are They and How Do They Differ?”, _Biological Theory_, 6(3): 220–230. doi:10.1007/s13752-012-0030-x
+* Olshewsky, Thomas M., 1992, “Functionalism Old and New”, _History of Philosophy Quarterly_, 9(3): 265–286.
+* Osiurak, François and Emanuelle Reynaud, 2020, “The Elephant in the Room: What Matters Cognitively in Cumulative Technological Culture”, _Behavioral and Brain Sciences_, 43: e156. doi:10.1017/S0140525X19003236
+* Outlaw, Lucius T., Jr., 2010 \[2017], “Africana Philosophy”, _The Stanford Encyclopedia of Philosophy_ (Summer 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2017/entries/africana/](https://plato.stanford.edu/archives/sum2017/entries/africana/).
+* Padalia, Divya, 2014, “Conformity Bias: A Fact or an Experimental Artifact?”, _Psychological Studies_, 59(3): 223–230. doi:10.1007/s12646-014-0272-8
+* Palermos, Spyridon Orestis, 2014, “Loops, Constitution, and Cognitive Extension”, _Cognitive Systems Research_, 27: 25–41. doi:10.1016/j.cogsys.2013.04.002
+* –––, 2016, “Spreading the Credit: Virtue Reliabilism and Weak Epistemic Anti-Individualism”, _Erkenntnis_, 81(2): 305–334. doi:10.1007/s10670-015-9741-2
+* Paul, Robert A., 2015, _Mixed Messages: Cultural and Genetic Inheritance in the Constitution of Human Society_, Chicago/London: The University of Chicago Press.
+* Peters, Uwe, forthcoming, “What Is the Function of Confirmation Bias?”, _Erkenntnis_, first online: 20 April 2020. doi:10.1007/s10670-020-00252-1
+* Petkov, Christopher I. and Carel ten Cate, 2020, “Structured Sequence Learning: Animal Abilities, Cognitive Operations, and Language Evolution”, _Topics in Cognitive Science_, 12(3): 828–842. doi:10.1111/tops.12444
+* Piccinini, Gualtiero and Armin W. Schulz, 2019, “The Ways of Altruism”, _Evolutionary Psychological Science_, 5(1): 58–70. doi:10.1007/s40806-018-0167-3
+* Pinker, Steven, 2010, “The Cognitive Niche: Coevolution of Intelligence, Sociality, and Language”, _Proceedings of the National Academy of Sciences_, 107(suppl. 2): 8993–8999. doi:10.1073/pnas.0914630107
+* –––, 2011, _The Better Angels of Our Nature: Why Violence Has Declined_, New York: Viking.
+* –––, 2018, _Enlightenment Now: The Case for Reason, Science, Humanism, and Progress_, New York: Viking.
+* Pitt, David, 2000 \[2020], “Mental Representation”, _The Stanford Encyclopedia of Philosophy_ (Spring 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/mental-representation/](https://plato.stanford.edu/archives/spr2020/entries/mental-representation/).
+* Plato, _Meno_, translated in _The Collected Dialogues_, Edith Hamilton and Huntington Cairns (eds.), Princeton, NJ: Princeton University Press, 1961.
+* Prinz, Jesse J., 2007, _The Emotional Construction of Morals_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199571543.001.0001
 * –––, 2008, “Is Morality Innate?”, in Sinnott-Armstrong (ed.) 2008a: 367–407.
-* Putnam, Hilary, 1967 [1975], “Psychological Predicates”, in *Art, Mind, and Religion*, W. H. Capitan and D. D. Merrill (eds.), Pittsburgh, PA: University of Pittsburgh Press, 37–48. Reprinted as “The Nature of Mental States”, in Putnam 1975b: 429–440. doi:10.1017/CBO9780511625251.023
-* –––, 1975a, “The Meaning of ‘Meaning’”, in *Language, Mind, and Knowledge*, K. Gunderson (ed.), (Minnesota Studies in the Philosophy of Science 7), University of Minnesota Press, 131–193. Reprinted in 1975b: 215–271. doi:10.1017/CBO9780511625251.014
-* –––, 1975b, *Mind, Language and Reality: Philosophical Papers, Volume 2*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625251
-* Querbes, Adrien, Krist Vaesen, and Wybo Houkes, 2014, “Complexity and Demographic Explanations of Cumulative Culture”, *PLoS ONE*, 9(7): e102543. doi:10.1371/journal.pone.0102543
-* Pust, Joel, 2012 [2019], “Intuition”, *The Stanford Encyclopedia of Philosophy* (Summer 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2019/entries/intuition/>.
-* Pylyshyn, Zenon W., 1984, *Computation and Cognition: Toward a Foundation for Cognitive Science*, Cambridge, Mass: MIT Press.
-* Rad, Mostafa Salari, Alison Jane Martingano, and Jeremy Ginges, 2018, “Toward a Psychology of Homo Sapiens : Making Psychological Science More Representative of the Human Population”, *Proceedings of the National Academy of Sciences*, 115(45): 11401–11405. doi:10.1073/pnas.1721165115
-* Radden, Jennifer, 2019, “Mental Disorder (Illness)”, *The Stanford Encyclopedia of Philosophy* (Winter 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2019/entries/mental-disorder/>.
-* Ramsey, Grant, 2013, “Culture in Humans and Other Animals”, *Biology & Philosophy*, 28(3): 457–479. doi:10.1007/s10539-012-9347-x
-* Ramsey, Grant and Andreas De Block, 2017, “Is Cultural Fitness Hopelessly Confused?”, *The British Journal for the Philosophy of Science*, 68(2): 305–328. doi:10.1093/bjps/axv047
-* Raymond, Leigh, Daniel Kelly, and Erin P. Hennes, forthcoming, “Norm-Based Governance for Severe Collective Action Problems: Lessons from Climate Change and COVID-19”, *Perspectives on Politics*, first online: 30 November 2021. doi:10.1017/S1537592721003054
-* Rescorla, Michael, 2015 [2020], “The Computational Theory of Mind”, *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2020/entries/computational-mind/>.
-* Richardson, Robert C., 2007, *Evolutionary Psychology as Maladapted Psychology*, (Life and Mind : Philosophical Issues in Biology and Psychology), Cambridge, MA: MIT Press.
-* Richerson, Peter J., Ryan Baldini, Adrian V. Bell, Kathryn Demps, Karl Frost, Vicken Hillis, Sarah Mathew, Emily K. Newton, Nicole Naar, Lesley Newson, Cody Ross, Paul E. Smaldino, Timothy M. Waring, and Matthew Zefferman, 2016, “Cultural Group Selection Plays an Essential Role in Explaining Human Cooperation: A Sketch of the Evidence”, *Behavioral and Brain Sciences*, 39: e30. doi:10.1017/S0140525X1400106X
-* Richerson, Peter J. and Robert Boyd, 2001, “The Evolution of Subjective Commitment to Groups: A Tribal Instincts Hypothesis”, in *Evolution and the Capacity for Commitment*, Randolph M. Nesse (ed.), (Russell Sage Foundation Series on Trust 3), New York: Russell Sage Foundation, 184–220.
-* –––, 2005, *Not by Genes Alone: How Culture Transformed Human Evolution*, Chicago, IL: University of Chicago Press.
-* –––, 2008, “Response to Our Critics”, *Biology & Philosophy*, 23(2): 301–315. doi:10.1007/s10539-007-9084-8
-* Richerson, Peter and Joe Henrich, 2012, “Tribal Social Instincts and the Cultural Evolution of Institutions to Solve Collective Action Problems”, *Cliodynamics: The Journal of Quantitative History and Cultural Evolution*, 3(1): 38–80. doi:10.21237/C7CLIO3112453
-* Rini, Regina, 2017, “Fake News and Partisan Epistemology”, *Kennedy Institute of Ethics Journal*, 27(2S): E-43–E-64. doi:10.1353/ken.2017.0025
+* Putnam, Hilary, 1967 \[1975], “Psychological Predicates”, in _Art, Mind, and Religion_, W. H. Capitan and D. D. Merrill (eds.), Pittsburgh, PA: University of Pittsburgh Press, 37–48. Reprinted as “The Nature of Mental States”, in Putnam 1975b: 429–440. doi:10.1017/CBO9780511625251.023
+* –––, 1975a, “The Meaning of ‘Meaning’”, in _Language, Mind, and Knowledge_, K. Gunderson (ed.), (Minnesota Studies in the Philosophy of Science 7), University of Minnesota Press, 131–193. Reprinted in 1975b: 215–271. doi:10.1017/CBO9780511625251.014
+* –––, 1975b, _Mind, Language and Reality: Philosophical Papers, Volume 2_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625251
+* Querbes, Adrien, Krist Vaesen, and Wybo Houkes, 2014, “Complexity and Demographic Explanations of Cumulative Culture”, _PLoS ONE_, 9(7): e102543. doi:10.1371/journal.pone.0102543
+* Pust, Joel, 2012 \[2019], “Intuition”, _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/intuition/](https://plato.stanford.edu/archives/sum2019/entries/intuition/).
+* Pylyshyn, Zenon W., 1984, _Computation and Cognition: Toward a Foundation for Cognitive Science_, Cambridge, Mass: MIT Press.
+* Rad, Mostafa Salari, Alison Jane Martingano, and Jeremy Ginges, 2018, “Toward a Psychology of Homo Sapiens : Making Psychological Science More Representative of the Human Population”, _Proceedings of the National Academy of Sciences_, 115(45): 11401–11405. doi:10.1073/pnas.1721165115
+* Radden, Jennifer, 2019, “Mental Disorder (Illness)”, _The Stanford Encyclopedia of Philosophy_ (Winter 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2019/entries/mental-disorder/](https://plato.stanford.edu/archives/win2019/entries/mental-disorder/).
+* Ramsey, Grant, 2013, “Culture in Humans and Other Animals”, _Biology & Philosophy_, 28(3): 457–479. doi:10.1007/s10539-012-9347-x
+* Ramsey, Grant and Andreas De Block, 2017, “Is Cultural Fitness Hopelessly Confused?”, _The British Journal for the Philosophy of Science_, 68(2): 305–328. doi:10.1093/bjps/axv047
+* Raymond, Leigh, Daniel Kelly, and Erin P. Hennes, forthcoming, “Norm-Based Governance for Severe Collective Action Problems: Lessons from Climate Change and COVID-19”, _Perspectives on Politics_, first online: 30 November 2021. doi:10.1017/S1537592721003054
+* Rescorla, Michael, 2015 \[2020], “The Computational Theory of Mind”, _The Stanford Encyclopedia of Philosophy_ (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/computational-mind/](https://plato.stanford.edu/archives/fall2020/entries/computational-mind/).
+* Richardson, Robert C., 2007, _Evolutionary Psychology as Maladapted Psychology_, (Life and Mind : Philosophical Issues in Biology and Psychology), Cambridge, MA: MIT Press.
+* Richerson, Peter J., Ryan Baldini, Adrian V. Bell, Kathryn Demps, Karl Frost, Vicken Hillis, Sarah Mathew, Emily K. Newton, Nicole Naar, Lesley Newson, Cody Ross, Paul E. Smaldino, Timothy M. Waring, and Matthew Zefferman, 2016, “Cultural Group Selection Plays an Essential Role in Explaining Human Cooperation: A Sketch of the Evidence”, _Behavioral and Brain Sciences_, 39: e30. doi:10.1017/S0140525X1400106X
+* Richerson, Peter J. and Robert Boyd, 2001, “The Evolution of Subjective Commitment to Groups: A Tribal Instincts Hypothesis”, in _Evolution and the Capacity for Commitment_, Randolph M. Nesse (ed.), (Russell Sage Foundation Series on Trust 3), New York: Russell Sage Foundation, 184–220.
+* –––, 2005, _Not by Genes Alone: How Culture Transformed Human Evolution_, Chicago, IL: University of Chicago Press.
+* –––, 2008, “Response to Our Critics”, _Biology & Philosophy_, 23(2): 301–315. doi:10.1007/s10539-007-9084-8
+* Richerson, Peter and Joe Henrich, 2012, “Tribal Social Instincts and the Cultural Evolution of Institutions to Solve Collective Action Problems”, _Cliodynamics: The Journal of Quantitative History and Cultural Evolution_, 3(1): 38–80. doi:10.21237/C7CLIO3112453
+* Rini, Regina, 2017, “Fake News and Partisan Epistemology”, _Kennedy Institute of Ethics Journal_, 27(2S): E-43–E-64. doi:10.1353/ken.2017.0025
 * Risjord, Mark, 2012, “Models of Culture”, in Kincaid 2012: 387–408.
-* Robbins, Philip, 2009 [2017], “Modularity of Mind”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2017/entries/modularity-mind/>.
-* Rogers, Alan R., 1988, “Does Biology Constrain Culture”, *American Anthropologist*, 90(4): 819–831. doi:10.1525/aa.1988.90.4.02a00030
-* Ross, Don, 2007, “*H. Sapiens* as Ecologically Special: What Does Language Contribute?”, *Language Sciences*, 29(5): 710–731. doi:10.1016/j.langsci.2006.12.008
-* –––, 2019, “Consciousness, Language, and the Possibility of Non-Human Personhood: Reflections on Elephants”, *Journal of Consciousness Studies*, 26(3–4): 227–251.
-* Rowlands, Mark, Joe Lau, and Max Deutsch, 2020, “Externalism About the Mind”, *The Stanford Encyclopedia of Philosophy* (Winter 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2020/entries/content-externalism/>.
-* Roughley, Neil, 2021, “Human Nature”, *The Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2021/entries/human-nature/>.
-* Rozin, Paul, 2001, “Social Psychology and Science: Some Lessons From Solomon Asch”, *Personality and Social Psychology Review*, 5(1): 2–14. doi:10.1207/S15327957PSPR0501_1
-* –––, 2020, “Expanding on Barrett: The Value of Valleys”, *Evolution and Human Behavior*, 41(5): 464–467. doi:10.1016/j.evolhumbehav.2020.07.005
-* Rule, Joshua S., Joshua B. Tenenbaum, and Steven T. Piantadosi, 2020, “The Child as Hacker”, *Trends in Cognitive Sciences*, 24(11): 900–915. doi:10.1016/j.tics.2020.07.005
-* Rupert, Robert D., 2004, “Challenges to the Hypothesis of Extended Cognition”, *Journal of Philosophy*, 101(8): 389–428. doi:10.5840/jphil2004101826
-* Sarkissian, Hagop, Amita Chatterjee, Felipe De Brigard, Joshua Knobe, Shaun Nichols, and Smita Sirker, 2010, “Is Belief in Free Will a Cultural Universal?”, *Mind & Language*, 25(3): 346–358. doi:10.1111/j.1468-0017.2010.01393.x
-* Samet, Jerry, 2008 [2019], “The Historical Controversies Surrounding Innateness”, *The Stanford Encyclopedia of Philosophy* (Summer 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2019/entries/innateness-history/>.
-* Samuels, Richard, 1998, “Evolutionary Psychology and the Massive Modularity Hypothesis”, *The British Journal for the Philosophy of Science*, 49(4): 575–602. doi:10.1093/bjps/49.4.575
-* –––, 2000, “Massively Modular Minds: Evolutionary Psychology and Cognitive Architecture”, in *Evolution and the Human Mind*, Peter Carruthers and Andrew Chamberlain (eds.), Cambridge: Cambridge University Press, 13–46. doi:10.1017/CBO9780511611926.003
+* Robbins, Philip, 2009 \[2017], “Modularity of Mind”, _The Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/modularity-mind/](https://plato.stanford.edu/archives/win2017/entries/modularity-mind/).
+* Rogers, Alan R., 1988, “Does Biology Constrain Culture”, _American Anthropologist_, 90(4): 819–831. doi:10.1525/aa.1988.90.4.02a00030
+* Ross, Don, 2007, “_H. Sapiens_ as Ecologically Special: What Does Language Contribute?”, _Language Sciences_, 29(5): 710–731. doi:10.1016/j.langsci.2006.12.008
+* –––, 2019, “Consciousness, Language, and the Possibility of Non-Human Personhood: Reflections on Elephants”, _Journal of Consciousness Studies_, 26(3–4): 227–251.
+* Rowlands, Mark, Joe Lau, and Max Deutsch, 2020, “Externalism About the Mind”, _The Stanford Encyclopedia of Philosophy_ (Winter 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2020/entries/content-externalism/](https://plato.stanford.edu/archives/win2020/entries/content-externalism/).
+* Roughley, Neil, 2021, “Human Nature”, _The Stanford Encyclopedia of Philosophy_ (Spring 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2021/entries/human-nature/](https://plato.stanford.edu/archives/spr2021/entries/human-nature/).
+* Rozin, Paul, 2001, “Social Psychology and Science: Some Lessons From Solomon Asch”, _Personality and Social Psychology Review_, 5(1): 2–14. doi:10.1207/S15327957PSPR0501\_1
+* –––, 2020, “Expanding on Barrett: The Value of Valleys”, _Evolution and Human Behavior_, 41(5): 464–467. doi:10.1016/j.evolhumbehav.2020.07.005
+* Rule, Joshua S., Joshua B. Tenenbaum, and Steven T. Piantadosi, 2020, “The Child as Hacker”, _Trends in Cognitive Sciences_, 24(11): 900–915. doi:10.1016/j.tics.2020.07.005
+* Rupert, Robert D., 2004, “Challenges to the Hypothesis of Extended Cognition”, _Journal of Philosophy_, 101(8): 389–428. doi:10.5840/jphil2004101826
+* Sarkissian, Hagop, Amita Chatterjee, Felipe De Brigard, Joshua Knobe, Shaun Nichols, and Smita Sirker, 2010, “Is Belief in Free Will a Cultural Universal?”, _Mind & Language_, 25(3): 346–358. doi:10.1111/j.1468-0017.2010.01393.x
+* Samet, Jerry, 2008 \[2019], “The Historical Controversies Surrounding Innateness”, _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/innateness-history/](https://plato.stanford.edu/archives/sum2019/entries/innateness-history/).
+* Samuels, Richard, 1998, “Evolutionary Psychology and the Massive Modularity Hypothesis”, _The British Journal for the Philosophy of Science_, 49(4): 575–602. doi:10.1093/bjps/49.4.575
+* –––, 2000, “Massively Modular Minds: Evolutionary Psychology and Cognitive Architecture”, in _Evolution and the Human Mind_, Peter Carruthers and Andrew Chamberlain (eds.), Cambridge: Cambridge University Press, 13–46. doi:10.1017/CBO9780511611926.003
 * Samuels, Richard, Eric Margolis, and Stephen P. Stich, 2012, “Introduction: Philosophy and Cognitive Science”, in Margolis, Samuels, and Stich 2012: 1–18. doi:10.1093/oxfordhb/9780195309799.013.0001
-* Scalise Sugiyama, Michelle, 2001, “Food, Foragers, and Folklore: The Role of Narrative in Human Subsistence”, *Evolution and Human Behavior*, 22(4): 221–240. doi:10.1016/S1090-5138(01)00063-0
-* –––, 2017, “Oral Storytelling as Evidence of Pedagogy in Forager Societies”, *Frontiers in Psychology*, 8: article 471. doi:10.3389/fpsyg.2017.00471
-* Schaller, Mark and Justin H. Park, 2011, “The Behavioral Immune System (and Why It Matters)”, *Current Directions in Psychological Science*, 20(2): 99–103. doi:10.1177/0963721411402596
-* Schofield, Daniel P., William C. McGrew, Akiko Takahashi, and Satoshi Hirata, 2018, “Cumulative Culture in Nonhumans: Overlooked Findings from Japanese Monkeys?”, *Primates*, 59(2): 113–122. doi:10.1007/s10329-017-0642-7
-* Schulz, Armin W., forthcoming, “Enhancing Thoughts: Culture, Technology, and the Evolution of Human Cognitive Uniqueness”, *Mind & Language*, first online: 24 November 2020. doi:10.1111/mila.12320
-* Schulz, Jonathan F., Duman Bahrami-Rad, Jonathan P. Beauchamp, and Joseph Henrich, 2019, “The Church, Intensive Kinship, and Global Psychological Variation”, *Science*, 366(6466): eaau5141. doi:10.1126/science.aau5141
-* Schupbach, Jonah N., 2017, “Experimental Explication”, *Philosophy and Phenomenological Research*, 94(3): 672–710. doi:10.1111/phpr.12207
-* Schwitzgebel, Eric and Fiery Cushman, 2015, “Philosophers’ Biased Judgments Persist despite Training, Expertise and Reflection”, *Cognition*, 141: 127–137. doi:10.1016/j.cognition.2015.04.015
-* Scott-Phillips, Thomas C., 2017, “A (Simple) Experimental Demonstration That Cultural Evolution Is Not Replicative, but Reconstructive— and an Explanation of Why This Difference Matters”, *Journal of Cognition and Culture*, 17(1–2): 1–11. doi:10.1163/15685373-12342188
-* Scott-Phillips, Thomas C., Thomas E. Dickins, and Stuart A. West, 2011, “Evolutionary Theory and the Ultimate–Proximate Distinction in the Human Behavioral Sciences”, *Perspectives on Psychological Science*, 6(1): 38–47. doi:10.1177/1745691610393528
-* Sear, Rebecca, 2020, “Strengthening the Evolutionary Social Sciences with More Data, Less ‘Theory-Worship’”, *Evolution and Human Behavior*, 41(5): 462–463. doi:10.1016/j.evolhumbehav.2020.07.010
-* Segall, Arshall H., 1984, “More than We Need to Know about Culture, but Are Afraid Not to Ask”, *Journal of Cross-Cultural Psychology*, 15(2): 153–162. doi:10.1177/0022002184015002004
-* Setman, Stephen and Daniel Kelly, 2021, “Socializing Willpower: Resolve from the Outside In”, *Behavioral and Brain Sciences*, 44: e53. Commentary on George Ainslie’s “Willpower With and Without Effort” (2021). doi:10.1017/S0140525X20001065
-* Sewell, William H., Jr, 2005, “The Concept(s) of Culture”, in *Practicing History: New Directions in Historical Writing After the Linguistic Turn*, Gabrielle M. Spiegel (ed.), London: Routledge, 76–95.
-* Shapiro, Lawrence A., 2011, *Embodied Cognition*, (New Problems of Philosophy), London/New York: Routledge. doi:10.4324/9780203850664
-* Shepherd, Joshua and James Justus, 2015, “X-Phi and Carnapian Explication”, *Erkenntnis*, 80(2): 381–402. doi:10.1007/s10670-014-9648-3
-* Shields, Christopher, 1991, “The First Functionalist”, in *Historical Foundations of Cognitive Science*, J-C. Smith (ed.), Dordrecht: Springer Netherlands, 19–33. doi:10.1007/978-94-009-2161-0_2
-* Sękowski, Krzysztof, Adrian Ziółkowski, and Maciej Tarnowski, forthcoming, “Western Skeptic vs Indian Realist. Cross-Cultural Differences in Zebra Case Intuitions”, *Review of Philosophy and Psychology*, first online: 12 November 2021. doi:10.1007/s13164-021-00586-x
-* Shweder, Richard A., 1990, “Cultural Psychology—What Is It?”, in *Cultural Psychology: Essays on Comparative Human Development*, James W. Stigler, Richard A. Schweder, and Gilbert Herdt (eds.), Cambrige: Cambridge University Press, 1–44. doi:10.1017/CBO9781139173728.002
-* –––, 2003, *Why Do Men Barbecue? Recipes for Cultural Psychology*, Cambridge, MA: Harvard University Press.
-* Simons, Ronald C., 1996, *Boo! Culture, Experience, and the Startle Reflex*, (Series in Affective Science), New York: Oxford University Press.
-* Singer, Peter, 1981 [2011], *The Expanding Circle: Ethics and Sociobiology*, New York: Farrar, Straus and Giroux; revised edition, *The Expanding Circle: Ethics, Evolution, and Moral Progress*, Princeton, NJ: Princeton University Press, 2011.
-* Singh, Manvir, Alberto Acerbi, Christine A. Caldwell, Étienne Danchin, Guillaume Isabel, Lucas Molleman, Thom Scott-Phillips, Monica Tamariz, Pieter van den Berg, Edwin J. C. van Leeuwen, and Maxime Derex, 2021, “Beyond Social Learning”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 376(1828): 20200050. doi:10.1098/rstb.2020.0050
-* Sinnott-Armstrong, Walter (ed.), 2008a, *Moral Psychology, Volume 1: The Evolution of Morality: Adaptations and Innateness*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/7481.001.0001
-* ––– (ed.), 2008b, *Moral Psychology, Volume 2: The Cognitive Science of Morality: Intuition and Diversity*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/7573.001.0001
-* ––– (ed.), 2008c, *Moral Psychology, Volume 3: The Neuroscience of Morality: Emotion, Brain Disorders, and Development*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/7504.001.0001
-* Skyrms, Brian, 2010, *Signals: Evolution, Learning, & Information*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199580828.001.0001
-* –––, 2014, *Social Dynamics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199652822.001.0001
-* Smaldino, Paul E., Aaron Lukaszewski, Christopher von Rueden, and Michael Gurven, 2019, “Niche Diversity Can Explain Cross-Cultural Differences in Personality Structure”, *Nature Human Behaviour*, 3(12): 1276–1283. doi:10.1038/s41562-019-0730-3
-* Smaldino, Paul E. and Peter J. Richerson, 2013, “Human Cumulative Cultural Evolution as a Form of Distributed Computation”, in *Handbook of Human Computation*, Pietro Michelucci (ed.), New York: Springer New York, 979–992. doi:10.1007/978-1-4614-8806-4_76
-* Smith, Eric Alden, 2000, “Three Styles in the Evolutionary Analysis of Human Behavior”, in *Adaptation and Human Behavior: An Anthropological Perspective*, Lee Cronk, Napoleon Chagnon and William Irons (eds), New York: Aldine de Gruyter, 27–48.
-* Smith, Kristopher M. and Coren L. Apicella, 2020, “Partner Choice in Human Evolution: The Role of Cooperation, Foraging Ability, and Culture in Hadza Campmate Preferences”, *Evolution and Human Behavior*, 41(5): 354–366. doi:10.1016/j.evolhumbehav.2020.07.009
-* Sober, Elliott and David Sloan Wilson, 1998, *Unto Others: The Evolution and Psychology of Unselfish Behavior*, Cambridge, MA: Harvard University Press.
-* Soon, Valerie, 2021, “Social Structural Explanation”, *Philosophy Compass*, 16(10): e12782. doi:10.1111/phc3.12782
-* Sosa, Ernest, 2009, “A Defense of the Use of Intuitions in Philosophy”, in *Stich and His Critics*, Michael Bishop and Dominic Murphy (eds.), Malden, MA: Blackwell, 101–112.
-* Sperber, Dan, 1996, *Explaining Culture: A Naturalistic Approach*, Cambridge, MA: Blackwell.
-* –––, 2001, “In Defense of Massive Modularity”, in *Language, Brain and Cognitive Development: Essays in Honor of Jacques Mehler*, Emmanuel Dupoux (ed.), Cambridge, MA: The MIT Press, 47–57.
-* Sperber, Dan and Nicolas Claidière, 2008, “Defining and Explaining Culture (Comments on Richerson and Boyd, *Not by Genes Alone*)”, *Biology & Philosophy*, 23(2): 283–292. doi:10.1007/s10539-005-9012-8
-* Sperber, Dan, Fabrice Clément, Christophe Heintz, Olivier Mascaro, Hugo Mercier, Gloria Origgi, and Deirdre Wilson, 2010, “Epistemic Vigilance”, *Mind & Language*, 25(4): 359–393. doi:10.1111/j.1468-0017.2010.01394.x
+* Scalise Sugiyama, Michelle, 2001, “Food, Foragers, and Folklore: The Role of Narrative in Human Subsistence”, _Evolution and Human Behavior_, 22(4): 221–240. doi:10.1016/S1090-5138(01)00063-0
+* –––, 2017, “Oral Storytelling as Evidence of Pedagogy in Forager Societies”, _Frontiers in Psychology_, 8: article 471. doi:10.3389/fpsyg.2017.00471
+* Schaller, Mark and Justin H. Park, 2011, “The Behavioral Immune System (and Why It Matters)”, _Current Directions in Psychological Science_, 20(2): 99–103. doi:10.1177/0963721411402596
+* Schofield, Daniel P., William C. McGrew, Akiko Takahashi, and Satoshi Hirata, 2018, “Cumulative Culture in Nonhumans: Overlooked Findings from Japanese Monkeys?”, _Primates_, 59(2): 113–122. doi:10.1007/s10329-017-0642-7
+* Schulz, Armin W., forthcoming, “Enhancing Thoughts: Culture, Technology, and the Evolution of Human Cognitive Uniqueness”, _Mind & Language_, first online: 24 November 2020. doi:10.1111/mila.12320
+* Schulz, Jonathan F., Duman Bahrami-Rad, Jonathan P. Beauchamp, and Joseph Henrich, 2019, “The Church, Intensive Kinship, and Global Psychological Variation”, _Science_, 366(6466): eaau5141. doi:10.1126/science.aau5141
+* Schupbach, Jonah N., 2017, “Experimental Explication”, _Philosophy and Phenomenological Research_, 94(3): 672–710. doi:10.1111/phpr.12207
+* Schwitzgebel, Eric and Fiery Cushman, 2015, “Philosophers’ Biased Judgments Persist despite Training, Expertise and Reflection”, _Cognition_, 141: 127–137. doi:10.1016/j.cognition.2015.04.015
+* Scott-Phillips, Thomas C., 2017, “A (Simple) Experimental Demonstration That Cultural Evolution Is Not Replicative, but Reconstructive— and an Explanation of Why This Difference Matters”, _Journal of Cognition and Culture_, 17(1–2): 1–11. doi:10.1163/15685373-12342188
+* Scott-Phillips, Thomas C., Thomas E. Dickins, and Stuart A. West, 2011, “Evolutionary Theory and the Ultimate–Proximate Distinction in the Human Behavioral Sciences”, _Perspectives on Psychological Science_, 6(1): 38–47. doi:10.1177/1745691610393528
+* Sear, Rebecca, 2020, “Strengthening the Evolutionary Social Sciences with More Data, Less ‘Theory-Worship’”, _Evolution and Human Behavior_, 41(5): 462–463. doi:10.1016/j.evolhumbehav.2020.07.010
+* Segall, Arshall H., 1984, “More than We Need to Know about Culture, but Are Afraid Not to Ask”, _Journal of Cross-Cultural Psychology_, 15(2): 153–162. doi:10.1177/0022002184015002004
+* Setman, Stephen and Daniel Kelly, 2021, “Socializing Willpower: Resolve from the Outside In”, _Behavioral and Brain Sciences_, 44: e53. Commentary on George Ainslie’s “Willpower With and Without Effort” (2021). doi:10.1017/S0140525X20001065
+* Sewell, William H., Jr, 2005, “The Concept(s) of Culture”, in _Practicing History: New Directions in Historical Writing After the Linguistic Turn_, Gabrielle M. Spiegel (ed.), London: Routledge, 76–95.
+* Shapiro, Lawrence A., 2011, _Embodied Cognition_, (New Problems of Philosophy), London/New York: Routledge. doi:10.4324/9780203850664
+* Shepherd, Joshua and James Justus, 2015, “X-Phi and Carnapian Explication”, _Erkenntnis_, 80(2): 381–402. doi:10.1007/s10670-014-9648-3
+* Shields, Christopher, 1991, “The First Functionalist”, in _Historical Foundations of Cognitive Science_, J-C. Smith (ed.), Dordrecht: Springer Netherlands, 19–33. doi:10.1007/978-94-009-2161-0\_2
+* Sękowski, Krzysztof, Adrian Ziółkowski, and Maciej Tarnowski, forthcoming, “Western Skeptic vs Indian Realist. Cross-Cultural Differences in Zebra Case Intuitions”, _Review of Philosophy and Psychology_, first online: 12 November 2021. doi:10.1007/s13164-021-00586-x
+* Shweder, Richard A., 1990, “Cultural Psychology—What Is It?”, in _Cultural Psychology: Essays on Comparative Human Development_, James W. Stigler, Richard A. Schweder, and Gilbert Herdt (eds.), Cambrige: Cambridge University Press, 1–44. doi:10.1017/CBO9781139173728.002
+* –––, 2003, _Why Do Men Barbecue? Recipes for Cultural Psychology_, Cambridge, MA: Harvard University Press.
+* Simons, Ronald C., 1996, _Boo! Culture, Experience, and the Startle Reflex_, (Series in Affective Science), New York: Oxford University Press.
+* Singer, Peter, 1981 \[2011], _The Expanding Circle: Ethics and Sociobiology_, New York: Farrar, Straus and Giroux; revised edition, _The Expanding Circle: Ethics, Evolution, and Moral Progress_, Princeton, NJ: Princeton University Press, 2011.
+* Singh, Manvir, Alberto Acerbi, Christine A. Caldwell, Étienne Danchin, Guillaume Isabel, Lucas Molleman, Thom Scott-Phillips, Monica Tamariz, Pieter van den Berg, Edwin J. C. van Leeuwen, and Maxime Derex, 2021, “Beyond Social Learning”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 376(1828): 20200050. doi:10.1098/rstb.2020.0050
+* Sinnott-Armstrong, Walter (ed.), 2008a, _Moral Psychology, Volume 1: The Evolution of Morality: Adaptations and Innateness_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/7481.001.0001
+* ––– (ed.), 2008b, _Moral Psychology, Volume 2: The Cognitive Science of Morality: Intuition and Diversity_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/7573.001.0001
+* ––– (ed.), 2008c, _Moral Psychology, Volume 3: The Neuroscience of Morality: Emotion, Brain Disorders, and Development_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/7504.001.0001
+* Skyrms, Brian, 2010, _Signals: Evolution, Learning, & Information_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199580828.001.0001
+* –––, 2014, _Social Dynamics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199652822.001.0001
+* Smaldino, Paul E., Aaron Lukaszewski, Christopher von Rueden, and Michael Gurven, 2019, “Niche Diversity Can Explain Cross-Cultural Differences in Personality Structure”, _Nature Human Behaviour_, 3(12): 1276–1283. doi:10.1038/s41562-019-0730-3
+* Smaldino, Paul E. and Peter J. Richerson, 2013, “Human Cumulative Cultural Evolution as a Form of Distributed Computation”, in _Handbook of Human Computation_, Pietro Michelucci (ed.), New York: Springer New York, 979–992. doi:10.1007/978-1-4614-8806-4\_76
+* Smith, Eric Alden, 2000, “Three Styles in the Evolutionary Analysis of Human Behavior”, in _Adaptation and Human Behavior: An Anthropological Perspective_, Lee Cronk, Napoleon Chagnon and William Irons (eds), New York: Aldine de Gruyter, 27–48.
+* Smith, Kristopher M. and Coren L. Apicella, 2020, “Partner Choice in Human Evolution: The Role of Cooperation, Foraging Ability, and Culture in Hadza Campmate Preferences”, _Evolution and Human Behavior_, 41(5): 354–366. doi:10.1016/j.evolhumbehav.2020.07.009
+* Sober, Elliott and David Sloan Wilson, 1998, _Unto Others: The Evolution and Psychology of Unselfish Behavior_, Cambridge, MA: Harvard University Press.
+* Soon, Valerie, 2021, “Social Structural Explanation”, _Philosophy Compass_, 16(10): e12782. doi:10.1111/phc3.12782
+* Sosa, Ernest, 2009, “A Defense of the Use of Intuitions in Philosophy”, in _Stich and His Critics_, Michael Bishop and Dominic Murphy (eds.), Malden, MA: Blackwell, 101–112.
+* Sperber, Dan, 1996, _Explaining Culture: A Naturalistic Approach_, Cambridge, MA: Blackwell.
+* –––, 2001, “In Defense of Massive Modularity”, in _Language, Brain and Cognitive Development: Essays in Honor of Jacques Mehler_, Emmanuel Dupoux (ed.), Cambridge, MA: The MIT Press, 47–57.
+* Sperber, Dan and Nicolas Claidière, 2008, “Defining and Explaining Culture (Comments on Richerson and Boyd, _Not by Genes Alone_)”, _Biology & Philosophy_, 23(2): 283–292. doi:10.1007/s10539-005-9012-8
+* Sperber, Dan, Fabrice Clément, Christophe Heintz, Olivier Mascaro, Hugo Mercier, Gloria Origgi, and Deirdre Wilson, 2010, “Epistemic Vigilance”, _Mind & Language_, 25(4): 359–393. doi:10.1111/j.1468-0017.2010.01394.x
 * Sripada, Chandra and Stephen Stich, 2007, “A Framework for the Psychology of Norms”, in Carruthers, Laurence, and Stich 2007: 280–301.
-* Stanford, Mark, 2020, “The Cultural Evolution of Human Nature”, *Acta Biotheoretica*, 68(2): 275–285. doi:10.1007/s10441-019-09367-7
-* Stanford, P. Kyle, 2018, “The Difference between Ice Cream and Nazis: Moral Externalization and the Evolution of Human Cooperation”, *Behavioral and Brain Sciences*, 41: e95. doi:10.1017/S0140525X17001911
-* Stegenga, Jacob, 2018, *Care and Cure: An Introduction to Philosophy of Medicine*, Chicago, IL: The University of Chicago Press.
-* Sterelny, Kim, 2003, *Thought in a Hostile World: The Evolution of Human Cognition*, Malden, MA: Blackwell.
-* –––, 2006, “Memes Revisited”, *The British Journal for the Philosophy of Science*, 57(1): 145–165. doi:10.1093/bjps/axi157
+* Stanford, Mark, 2020, “The Cultural Evolution of Human Nature”, _Acta Biotheoretica_, 68(2): 275–285. doi:10.1007/s10441-019-09367-7
+* Stanford, P. Kyle, 2018, “The Difference between Ice Cream and Nazis: Moral Externalization and the Evolution of Human Cooperation”, _Behavioral and Brain Sciences_, 41: e95. doi:10.1017/S0140525X17001911
+* Stegenga, Jacob, 2018, _Care and Cure: An Introduction to Philosophy of Medicine_, Chicago, IL: The University of Chicago Press.
+* Sterelny, Kim, 2003, _Thought in a Hostile World: The Evolution of Human Cognition_, Malden, MA: Blackwell.
+* –––, 2006, “Memes Revisited”, _The British Journal for the Philosophy of Science_, 57(1): 145–165. doi:10.1093/bjps/axi157
 * –––, 2009, “Peacekeeping in the Culture Wars”, in Laland and Galef 2009: 288–304.
-* –––, 2010, “Minds: Extended or Scaffolded?”, *Phenomenology and the Cognitive Sciences*, 9(4): 465–481. doi:10.1007/s11097-010-9174-y
-* –––, 2012, *The Evolved Apprentice: How Evolution Made Humans Unique*, (Jean Nicod Lectures), Cambridge, MA: The MIT Press.
-* –––, 2016, “Cooperation, Culture, and Conflict”, *The British Journal for the Philosophy of Science*, 67(1): 31–58. doi:10.1093/bjps/axu024
-* –––, 2017, “Cultural Evolution in California and Paris”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 62: 42–50. doi:10.1016/j.shpsc.2016.12.005
-* –––, 2018, “Culture and the Extended Phenotype: Cognition and Material Culture in Deep Time”, in *The Oxford Handbook of 4E Cognition*, Albert Newen, Leon De Bruin, and Shaun Gallagher (eds), Oxford: Oxford University Press, 773–792.
-* –––, 2020, “Afterword: Tough Questions; Hard Problems; Incremental Progress”, *Topics in Cognitive Science*, 12(2): 766–783. doi:10.1111/tops.12427
-* –––, 2021, *The Pleistocene Social Contract: Culture and Cooperation in Human Evolution*, New York: Oxford University Press. doi:10.1093/oso/9780197531389.001.0001
-* Sterelny, Kim and Ben Fraser, 2017, “Evolution and Moral Realism”, *The British Journal for the Philosophy of Science*, 68(4): 981–1006. doi:10.1093/bjps/axv060
-* Sterelny, Kim, Richard Joyce, Brett Calcott, and Ben Fraser (eds.), 2013, *Cooperation and Its Evolution*, (Life and Mind: Philosophical Issues in Biology and Psychology), Cambridge, MA: The MIT Press.
-* Stich, Stephen P., 1983, *From Folk Psychology to Cognitive Science: The Case against Belief*, Cambridge, Mass: MIT Press.
-* –––, 2007, “Evolution, Altruism and Cognitive Architecture: A Critique of Sober and Wilson’s Argument for Psychological Altruism”, *Biology & Philosophy*, 22(2): 267–281. doi:10.1007/s10539-006-9030-1
-* –––, 2018, “The Quest for the Boundaries of Morality”, in *The Routledge Handbook of Moral Epistemology*, Aaron Zimmerman, Karen Jones, and Mark Timmons (eds), Abingdon, UK: Routledge Press, 15–37
-* Stich, Stephen P. and Edouard Machery, forthcoming, “Demographic Differences in Philosophical Intuition: A Reply to Joshua Knobe”, *Review of Philosophy and Psychology*, first online: 31 January 2022. doi:10.1007/s13164-021-00609-7
-* Stich, Stephen and Kevin Tobia, 2016, “Experimental Philosophy and the Philosophical Tradition”, in Sytsma and Buckwalter 2016: 5–21 (ch. 2). [[Stich and Tobia 2016 available online](https://ssrn.com/abstract=2543532)]
-* Stotz, Karola, 2010, “Human Nature and Cognitive–Developmental Niche Construction”, *Phenomenology and the Cognitive Sciences*, 9(4): 483–501. doi:10.1007/s11097-010-9178-7
-* Strevens, Michael, 2020, *The Knowledge Machine: How Irrationality Created Modern Science*, New York: Liveright Publishing.
-* Struck, Peter T., 2016, *Divination and Human Nature: A Cognitive History of Intuition in Classical Antiquity*, Princeton, NJ: Princeton University Press.
-* Suddendorf, Thomas and Michael C. Corballis, 2007, “The Evolution of Foresight: What Is Mental Time Travel, and Is It Unique to Humans?”, *Behavioral and Brain Sciences*, 30(3): 299–313. doi:10.1017/S0140525X07001975
-* Sytsma, Justin and Wesley Buckwalter (eds.), 2016, *A Companion to Experimental Philosophy*, Malden, MA: Wiley Blackwell.
-* Sytsma, Justin and Jonathan Livengood, 2016, *The Theory and Practice of Experimental Philosophy*, Peterborough, ON: Broadview Press.
-* Tamariz, Monica and Simon Kirby, 2016, “The Cultural Evolution of Language”, *Current Opinion in Psychology*, 8: 37–43. doi:10.1016/j.copsyc.2015.09.003
-* Taylor, Helen, Brice Fernandes, and Sarah Wraight, 2022, “The Evolution of Complementary Cognition: Humans Cooperatively Adapt and Evolve through a System of Collective Cognitive Search”, *Cambridge Archaeological Journal*, 32(1): 61-77. doi:10.1017/S0959774321000329
-* Tchernichovski, Ofer, Sophie Eisenberg-Edidin, and Erich D. Jarvis, 2021, “Balanced Imitation Sustains Song Culture in Zebra Finches”, *Nature Communications*, 12(1): article 2562. doi:10.1038/s41467-021-22852-3
-* Tekin, Şerife, 2011, “Self-Concept through the Diagnostic Looking Glass: Narratives and Mental Disorder”, *Philosophical Psychology*, 24(3): 357–380. doi:10.1080/09515089.2011.559622
-* –––, 2014, “The Missing Self in Hacking’s Looping Effects”, in *Classifying Psychopathology: Mental Kinds and Natural Kinds*, Harold Kincaid and Jacqueline A. Sullivan (eds), Cambridge, MA: The MIT Press, 227–256.
-* –––, 2016, “Are Mental Disorders Natural Kinds?: A Plea for a New Approach to Intervention in Psychiatry”, *Philosophy, Psychiatry, & Psychology*, 23(2): 147–163. doi:10.1353/ppp.2016.0013
-* Tekin, Şerife, Owen Flanagan, and George Graham, 2017, “Against the Drug Cure Model: Addiction, Identity, and Pharmaceuticals”, in *Philosophical Issues in Pharmaceutics*, Dien Ho (ed.), (Philosophy and Medicine 122), Dordrecht: Springer Netherlands, 221–236. doi:10.1007/978-94-024-0979-6_13
-* Tennie, Claudio, Josep Call, and Michael Tomasello, 2009, “Ratcheting up the Ratchet: On the Evolution of Cumulative Culture”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 364(1528): 2405–2415. doi:10.1098/rstb.2009.0052
-* Thagard, Paul, 1997 [2019], “Cognitive Science”, *The Stanford Encyclopedia of Philosophy* (Spring 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2019/entries/cognitive-science/>.
-* Thornton, Alex and Nichola J. Raihani, 2010, “Identifying Teaching in Wild Animals”, *Learning & Behavior*, 38(3): 297–309. doi:10.3758/LB.38.3.297
-* Tollefsen, Deborah Perron, 2006, “From Extended Mind to Collective Mind”, *Cognitive Systems Research*, 7(2–3): 140–150. doi:10.1016/j.cogsys.2006.01.001
-* Tomasello, Michael, 1999, *The Cultural Origins of Human Cognition*, Cambridge, MA: Harvard University Press.
+* –––, 2010, “Minds: Extended or Scaffolded?”, _Phenomenology and the Cognitive Sciences_, 9(4): 465–481. doi:10.1007/s11097-010-9174-y
+* –––, 2012, _The Evolved Apprentice: How Evolution Made Humans Unique_, (Jean Nicod Lectures), Cambridge, MA: The MIT Press.
+* –––, 2016, “Cooperation, Culture, and Conflict”, _The British Journal for the Philosophy of Science_, 67(1): 31–58. doi:10.1093/bjps/axu024
+* –––, 2017, “Cultural Evolution in California and Paris”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 62: 42–50. doi:10.1016/j.shpsc.2016.12.005
+* –––, 2018, “Culture and the Extended Phenotype: Cognition and Material Culture in Deep Time”, in _The Oxford Handbook of 4E Cognition_, Albert Newen, Leon De Bruin, and Shaun Gallagher (eds), Oxford: Oxford University Press, 773–792.
+* –––, 2020, “Afterword: Tough Questions; Hard Problems; Incremental Progress”, _Topics in Cognitive Science_, 12(2): 766–783. doi:10.1111/tops.12427
+* –––, 2021, _The Pleistocene Social Contract: Culture and Cooperation in Human Evolution_, New York: Oxford University Press. doi:10.1093/oso/9780197531389.001.0001
+* Sterelny, Kim and Ben Fraser, 2017, “Evolution and Moral Realism”, _The British Journal for the Philosophy of Science_, 68(4): 981–1006. doi:10.1093/bjps/axv060
+* Sterelny, Kim, Richard Joyce, Brett Calcott, and Ben Fraser (eds.), 2013, _Cooperation and Its Evolution_, (Life and Mind: Philosophical Issues in Biology and Psychology), Cambridge, MA: The MIT Press.
+* Stich, Stephen P., 1983, _From Folk Psychology to Cognitive Science: The Case against Belief_, Cambridge, Mass: MIT Press.
+* –––, 2007, “Evolution, Altruism and Cognitive Architecture: A Critique of Sober and Wilson’s Argument for Psychological Altruism”, _Biology & Philosophy_, 22(2): 267–281. doi:10.1007/s10539-006-9030-1
+* –––, 2018, “The Quest for the Boundaries of Morality”, in _The Routledge Handbook of Moral Epistemology_, Aaron Zimmerman, Karen Jones, and Mark Timmons (eds), Abingdon, UK: Routledge Press, 15–37
+* Stich, Stephen P. and Edouard Machery, forthcoming, “Demographic Differences in Philosophical Intuition: A Reply to Joshua Knobe”, _Review of Philosophy and Psychology_, first online: 31 January 2022. doi:10.1007/s13164-021-00609-7
+* Stich, Stephen and Kevin Tobia, 2016, “Experimental Philosophy and the Philosophical Tradition”, in Sytsma and Buckwalter 2016: 5–21 (ch. 2). \[[Stich and Tobia 2016 available online](https://ssrn.com/abstract=2543532)]
+* Stotz, Karola, 2010, “Human Nature and Cognitive–Developmental Niche Construction”, _Phenomenology and the Cognitive Sciences_, 9(4): 483–501. doi:10.1007/s11097-010-9178-7
+* Strevens, Michael, 2020, _The Knowledge Machine: How Irrationality Created Modern Science_, New York: Liveright Publishing.
+* Struck, Peter T., 2016, _Divination and Human Nature: A Cognitive History of Intuition in Classical Antiquity_, Princeton, NJ: Princeton University Press.
+* Suddendorf, Thomas and Michael C. Corballis, 2007, “The Evolution of Foresight: What Is Mental Time Travel, and Is It Unique to Humans?”, _Behavioral and Brain Sciences_, 30(3): 299–313. doi:10.1017/S0140525X07001975
+* Sytsma, Justin and Wesley Buckwalter (eds.), 2016, _A Companion to Experimental Philosophy_, Malden, MA: Wiley Blackwell.
+* Sytsma, Justin and Jonathan Livengood, 2016, _The Theory and Practice of Experimental Philosophy_, Peterborough, ON: Broadview Press.
+* Tamariz, Monica and Simon Kirby, 2016, “The Cultural Evolution of Language”, _Current Opinion in Psychology_, 8: 37–43. doi:10.1016/j.copsyc.2015.09.003
+* Taylor, Helen, Brice Fernandes, and Sarah Wraight, 2022, “The Evolution of Complementary Cognition: Humans Cooperatively Adapt and Evolve through a System of Collective Cognitive Search”, _Cambridge Archaeological Journal_, 32(1): 61-77. doi:10.1017/S0959774321000329
+* Tchernichovski, Ofer, Sophie Eisenberg-Edidin, and Erich D. Jarvis, 2021, “Balanced Imitation Sustains Song Culture in Zebra Finches”, _Nature Communications_, 12(1): article 2562. doi:10.1038/s41467-021-22852-3
+* Tekin, Şerife, 2011, “Self-Concept through the Diagnostic Looking Glass: Narratives and Mental Disorder”, _Philosophical Psychology_, 24(3): 357–380. doi:10.1080/09515089.2011.559622
+* –––, 2014, “The Missing Self in Hacking’s Looping Effects”, in _Classifying Psychopathology: Mental Kinds and Natural Kinds_, Harold Kincaid and Jacqueline A. Sullivan (eds), Cambridge, MA: The MIT Press, 227–256.
+* –––, 2016, “Are Mental Disorders Natural Kinds?: A Plea for a New Approach to Intervention in Psychiatry”, _Philosophy, Psychiatry, & Psychology_, 23(2): 147–163. doi:10.1353/ppp.2016.0013
+* Tekin, Şerife, Owen Flanagan, and George Graham, 2017, “Against the Drug Cure Model: Addiction, Identity, and Pharmaceuticals”, in _Philosophical Issues in Pharmaceutics_, Dien Ho (ed.), (Philosophy and Medicine 122), Dordrecht: Springer Netherlands, 221–236. doi:10.1007/978-94-024-0979-6\_13
+* Tennie, Claudio, Josep Call, and Michael Tomasello, 2009, “Ratcheting up the Ratchet: On the Evolution of Cumulative Culture”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 364(1528): 2405–2415. doi:10.1098/rstb.2009.0052
+* Thagard, Paul, 1997 \[2019], “Cognitive Science”, _The Stanford Encyclopedia of Philosophy_ (Spring 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/cognitive-science/](https://plato.stanford.edu/archives/spr2019/entries/cognitive-science/).
+* Thornton, Alex and Nichola J. Raihani, 2010, “Identifying Teaching in Wild Animals”, _Learning & Behavior_, 38(3): 297–309. doi:10.3758/LB.38.3.297
+* Tollefsen, Deborah Perron, 2006, “From Extended Mind to Collective Mind”, _Cognitive Systems Research_, 7(2–3): 140–150. doi:10.1016/j.cogsys.2006.01.001
+* Tomasello, Michael, 1999, _The Cultural Origins of Human Cognition_, Cambridge, MA: Harvard University Press.
 * –––, 2009, “The Question of Chimpanzee Culture, plus Postscript (Chimpanzee Culture, 2009)”, in Laland and Galef 2009: 198–221
-* –––, 2014, *A Natural History of Human Thinking*, Cambridge, MA: Harvard University Press. doi:10.4159/9780674726369
-* Tomasello, Michael, Malinda Carpenter, Josep Call, Tanya Behne, and Henrike Moll, 2005, “Understanding and Sharing Intentions: The Origins of Cultural Cognition”, *Behavioral and Brain Sciences*, 28(5): 675–691. doi:10.1017/S0140525X05000129
-* Tomasello, Michael, Ann Cale Kruger, and Hilary Horn Ratner, 1993, “Cultural Learning”, *Behavioral and Brain Sciences*, 16(3): 495–511. doi:10.1017/S0140525X0003123X
-* Tomasello, Michael and Henrike Moll, 2010, “The Gap Is Social: Human Shared Intentionality and Culture”, in *Mind the Gap: Tracing the Origins of Human Universals*, Peter M. Kappeler and Joan Silk (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg, 331–349. doi:10.1007/978-3-642-02725-3_16
-* Tooby, John and Leda Cosmides, 1992, “The Psychological Foundations of Culture”, in *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, Jerome H. Barkow, Leda Cosmides, and John Tooby (eds.), New York, NY, US: Oxford University Press, 19–136.
-* Torrey, E. Fuller, 1972, “What Western Psychotherapists Can Learn from Witchdoctors.”, *American Journal of Orthopsychiatry*, 42(1): 69–76. doi:10.1111/j.1939-0025.1972.tb02472.x
-* Triandis, Harry C. and Richard W. Brislin, 1984, “Cross-Cultural Psychology.”, *American Psychologist*, 39(9): 1006–1016. doi:10.1037/0003-066X.39.9.1006
-* Tsou, Jonathan Y., 2007, “Hacking on the Looping Effects of Psychiatric Classifications: What Is an Interactive and Indifferent Kind?”, *International Studies in the Philosophy of Science*, 21(3): 329–344. doi:10.1080/02698590701589601
-* Turchin, Peter, 2015, *Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth*, Chaplin, CT: Beresta Books.
-* –––, 2018, *Historical Dynamics: Why States Rise and Fall*, (Princeton Studies in Complexity), Princeton, NJ: Princeton University Press. doi:10.1515/9781400889310
-* Tylor, Edward Burnett, 1871, *Primitive Culture: Researches in the Development of Mythology, Philosophy, Religion, Language, Art and Custom*, London: John Murray.
-* Vaesen, Krist, 2012, “The Cognitive Bases of Human Tool Use”, *Behavioral and Brain Sciences*, 35(4): 203–218. doi:10.1017/S0140525X11001452
-* –––, 2021, “French Neopositivism and the Logic, Psychology, and Sociology of Scientific Discovery”, *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 11(1): 183–200. doi:10.1086/712934
-* Vaesen, Krist, Martin Peterson, and Bart Van Bezooijen, 2013, “The Reliability of Armchair Intuitions: The Reliability of Armchair Intuitions”, *Metaphilosophy*, 44(5): 559–578. doi:10.1111/meta.12060
-* Vaesen, Krist and Wybo Houkes, 2021, “Is Human Culture Cumulative?”, *Current Anthropology*, 62(2): 218–238. doi:10.1086/714032
-* Vale, Gillian L., Nicola McGuigan, Emily Burdett, Susan P. Lambeth, Amanda Lucas, Bruce Rawlings, Steven J. Schapiro, Stuart K. Watson, and Andrew Whiten, 2021, “Why Do Chimpanzees Have Diverse Behavioral Repertoires yet Lack More Complex Cultures? Invention and Social Information Use in a Cumulative Task”, *Evolution and Human Behavior*, 42(3): 247–258. doi:10.1016/j.evolhumbehav.2020.11.003
-* van Dongen, Noah, Matteo Colombo, Felipe Romero, and Jan Sprenger, 2021, “Intuitions About the Reference of Proper Names: A Meta-Analysis”, *Review of Philosophy and Psychology*, 12(4): 745–774. doi:10.1007/s13164-020-00503-8
-* Van Norden, Bryan W., 2017, *Taking Back Philosophy: A Multicultural Manifesto*, New York: Columbia University Press.
-* Vandereycken, Walter, 2011, “Can Eating Disorders Become ‘Contagious’ in Group Therapy and Specialized Inpatient Care?”, *European Eating Disorders Review*, 19(4): 289–295. doi:10.1002/erv.1087
-* Vargas, Manuel, 2007, “‘Real’ Philosophy, Metaphilosophy, and Metametaphilosophy: On the Plight of Latin American Philosophy”, *CR: The New Centennial Review*, 7(3): 51–78. doi:10.1353/ncr.0.0006
-* Verpooten, Jan and Siegfried Dewitte, 2017, “The Conundrum of Modern Art: Prestige-Driven Coevolutionary Aesthetics Trumps Evolutionary Aesthetics among Art Experts”, *Human Nature*, 28(1): 16–38. doi:10.1007/s12110-016-9274-7
-* Wakefield, Jerome C., 2006, “Personality Disorder as Harmful Dysfunction: DSM’S Cultural Deviance Criterion Reconsidered”, *Journal of Personality Disorders*, 20(2): 157–169. doi:10.1521/pedi.2006.20.2.157
-* Waring, Timothy M. and Zachary T. Wood, 2021, “Long-Term Gene–Culture Coevolution and the Human Evolutionary Transition”, *Proceedings of the Royal Society B: Biological Sciences*, 288(1952): 20210538. doi:10.1098/rspb.2021.0538
-* Washington, Natalia, 2016, “Culturally Unbound: Cross-Cultural Cognitive Diversity and the Science of Psychopathology”, *Philosophy, Psychiatry, & Psychology*, 23(2): 165–179. doi:10.1353/ppp.2016.0014
+* –––, 2014, _A Natural History of Human Thinking_, Cambridge, MA: Harvard University Press. doi:10.4159/9780674726369
+* Tomasello, Michael, Malinda Carpenter, Josep Call, Tanya Behne, and Henrike Moll, 2005, “Understanding and Sharing Intentions: The Origins of Cultural Cognition”, _Behavioral and Brain Sciences_, 28(5): 675–691. doi:10.1017/S0140525X05000129
+* Tomasello, Michael, Ann Cale Kruger, and Hilary Horn Ratner, 1993, “Cultural Learning”, _Behavioral and Brain Sciences_, 16(3): 495–511. doi:10.1017/S0140525X0003123X
+* Tomasello, Michael and Henrike Moll, 2010, “The Gap Is Social: Human Shared Intentionality and Culture”, in _Mind the Gap: Tracing the Origins of Human Universals_, Peter M. Kappeler and Joan Silk (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg, 331–349. doi:10.1007/978-3-642-02725-3\_16
+* Tooby, John and Leda Cosmides, 1992, “The Psychological Foundations of Culture”, in _The Adapted Mind: Evolutionary Psychology and the Generation of Culture_, Jerome H. Barkow, Leda Cosmides, and John Tooby (eds.), New York, NY, US: Oxford University Press, 19–136.
+* Torrey, E. Fuller, 1972, “What Western Psychotherapists Can Learn from Witchdoctors.”, _American Journal of Orthopsychiatry_, 42(1): 69–76. doi:10.1111/j.1939-0025.1972.tb02472.x
+* Triandis, Harry C. and Richard W. Brislin, 1984, “Cross-Cultural Psychology.”, _American Psychologist_, 39(9): 1006–1016. doi:10.1037/0003-066X.39.9.1006
+* Tsou, Jonathan Y., 2007, “Hacking on the Looping Effects of Psychiatric Classifications: What Is an Interactive and Indifferent Kind?”, _International Studies in the Philosophy of Science_, 21(3): 329–344. doi:10.1080/02698590701589601
+* Turchin, Peter, 2015, _Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth_, Chaplin, CT: Beresta Books.
+* –––, 2018, _Historical Dynamics: Why States Rise and Fall_, (Princeton Studies in Complexity), Princeton, NJ: Princeton University Press. doi:10.1515/9781400889310
+* Tylor, Edward Burnett, 1871, _Primitive Culture: Researches in the Development of Mythology, Philosophy, Religion, Language, Art and Custom_, London: John Murray.
+* Vaesen, Krist, 2012, “The Cognitive Bases of Human Tool Use”, _Behavioral and Brain Sciences_, 35(4): 203–218. doi:10.1017/S0140525X11001452
+* –––, 2021, “French Neopositivism and the Logic, Psychology, and Sociology of Scientific Discovery”, _HOPOS: The Journal of the International Society for the History of Philosophy of Science_, 11(1): 183–200. doi:10.1086/712934
+* Vaesen, Krist, Martin Peterson, and Bart Van Bezooijen, 2013, “The Reliability of Armchair Intuitions: The Reliability of Armchair Intuitions”, _Metaphilosophy_, 44(5): 559–578. doi:10.1111/meta.12060
+* Vaesen, Krist and Wybo Houkes, 2021, “Is Human Culture Cumulative?”, _Current Anthropology_, 62(2): 218–238. doi:10.1086/714032
+* Vale, Gillian L., Nicola McGuigan, Emily Burdett, Susan P. Lambeth, Amanda Lucas, Bruce Rawlings, Steven J. Schapiro, Stuart K. Watson, and Andrew Whiten, 2021, “Why Do Chimpanzees Have Diverse Behavioral Repertoires yet Lack More Complex Cultures? Invention and Social Information Use in a Cumulative Task”, _Evolution and Human Behavior_, 42(3): 247–258. doi:10.1016/j.evolhumbehav.2020.11.003
+* van Dongen, Noah, Matteo Colombo, Felipe Romero, and Jan Sprenger, 2021, “Intuitions About the Reference of Proper Names: A Meta-Analysis”, _Review of Philosophy and Psychology_, 12(4): 745–774. doi:10.1007/s13164-020-00503-8
+* Van Norden, Bryan W., 2017, _Taking Back Philosophy: A Multicultural Manifesto_, New York: Columbia University Press.
+* Vandereycken, Walter, 2011, “Can Eating Disorders Become ‘Contagious’ in Group Therapy and Specialized Inpatient Care?”, _European Eating Disorders Review_, 19(4): 289–295. doi:10.1002/erv.1087
+* Vargas, Manuel, 2007, “‘Real’ Philosophy, Metaphilosophy, and Metametaphilosophy: On the Plight of Latin American Philosophy”, _CR: The New Centennial Review_, 7(3): 51–78. doi:10.1353/ncr.0.0006
+* Verpooten, Jan and Siegfried Dewitte, 2017, “The Conundrum of Modern Art: Prestige-Driven Coevolutionary Aesthetics Trumps Evolutionary Aesthetics among Art Experts”, _Human Nature_, 28(1): 16–38. doi:10.1007/s12110-016-9274-7
+* Wakefield, Jerome C., 2006, “Personality Disorder as Harmful Dysfunction: DSM’S Cultural Deviance Criterion Reconsidered”, _Journal of Personality Disorders_, 20(2): 157–169. doi:10.1521/pedi.2006.20.2.157
+* Waring, Timothy M. and Zachary T. Wood, 2021, “Long-Term Gene–Culture Coevolution and the Human Evolutionary Transition”, _Proceedings of the Royal Society B: Biological Sciences_, 288(1952): 20210538. doi:10.1098/rspb.2021.0538
+* Washington, Natalia, 2016, “Culturally Unbound: Cross-Cultural Cognitive Diversity and the Science of Psychopathology”, _Philosophy, Psychiatry, & Psychology_, 23(2): 165–179. doi:10.1353/ppp.2016.0014
 * Waterman, John, Chad Gonnerman, Karen Yan, and Joshua Alexander, 2018, “Knowledge, Certainty, and Skepticism”, in Mizumoto, Stich, and McCready 2018: 187–214.
-* Watters, Ethan, 2010, *Crazy like Us: The Globalization of the American Psyche*, New York: Free Press.
-* Weinberg, Jonathan M., Chad Gonnerman, Cameron Buckner, and Joshua Alexander, 2010, “Are Philosophers Expert Intuiters?”, *Philosophical Psychology*, 23(3): 331–355. doi:10.1080/09515089.2010.490944
-* Weinberg, Jonathan M., Shaun Nichols, and Stephen Stich, 2001, “Normativity and Epistemic Intuitions”, *Philosophical Topics*, 29(1/2): 429–460. doi:10.5840/philtopics2001291/217
-* Whitehead, Hal and Luke Rendell, 2015, *The Cultural Lives of Whales and Dolphins*, Chicago, IL: The University of Chicago Press.
-* Whiten, Andrew, 2019, “Cultural Evolution in Animals”, *Annual Review of Ecology, Evolution, and Systematics*, 50(1): 27–48. doi:10.1146/annurev-ecolsys-110218-025040
-* Whiten, Andrew and Richard W. Byrne (eds.), 1997, *Machiavellian Intelligence II: Extensions and Evaluations*, New York: Cambridge University Press. doi:10.1017/CBO9780511525636
-* Whiten, Andrew, Jane Goodall, William C. McGrew, Toshisada Nishida, Vernon Reynolds, Yukimaru Sugiyama, Caroline E. G. Tutin, Richard W. Wrangham, and Christophe Boesch, 1999, “Cultures in Chimpanzees”, *Nature*, 399(6737): 682–685. doi:10.1038/21415
-* Whiten, Andrew, Nicola McGuigan, Sarah Marshall-Pescini, and Lydia M. Hopper, 2009, “Emulation, Imitation, over-Imitation and the Scope of Culture for Child and Chimpanzee”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 364(1528): 2417–2428. doi:10.1098/rstb.2009.0069
-* Wiegmann, Alex, Joachim Horvath, and Karina Meyer, 2020, “Intuitive Expertise and Irrelevant Options”, in *Oxford Studies in Experimental Philosophy Volume 3*, Joachim Horvath, Karina Meyer, and Alex Wiegmann (eds), Oxford: Oxford University Press, 275–310. doi:10.1093/oso/9780198852407.003.0012
-* Wilkins, John S. and Pierrick Bourrat, 2018 [2020], “Replication and Reproduction”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2020/entries/replication/>.
-* Willard, Aiyana K. and Rita A. McNamara, 2019, “The Minds of God(s) and Humans: Differences in Mind Perception in Fiji and North America”, *Cognitive Science*, 43(1): e12703. doi:10.1111/cogs.12703
-* Williamson, Timothy, 2011, “Philosophical Expertise and the Burden of Proof”, *Metaphilosophy*, 42(3): 215–229. doi:10.1111/j.1467-9973.2011.01685.x
-* Wilson, David Sloan, 2009, “Evolutionary Social Constructivism: Narrowing (But Not Bridging) the Gap”, in *The Believing Primate: Scientific, Philosophical, and Theological Reflections*, Jeffrey Schloss and Michael Murray (eds). New York: Oxford University Press: 318–338.
-* Wilson, Robert A., 2004, *Boundaries of the Mind: The Individual in the Fragile Sciences—Cognition*, Cambridge, UK/New York: Cambridge University Press. doi:10.1017/CBO9780511606847
-* Wilson, Robert and Lucia Foglia, 2011 [2021], “Embodied Cognition,” *Stanford Encyclopedia of Philosophy* (Summer 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2021/entries/embodied-cognition/>.
-* Wimsatt, William C., 2013, “Articulating Babel: An Approach to Cultural Evolution”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4): 563–571. doi:10.1016/j.shpsc.2013.09.001
-* Wimsatt, William C. and James R. Griesemer, 2007, “Reproducing Entrenchments to Scaffold Culture: The Central Role of Development in Cultural Evolution”, in *Integrating Evolution and Development: From Theory to Practice*, Roger Sansom and Robert N. Brandon (eds), Cambridge, MA: The MIT Press, 227–323.
-* Witherington, David C. and Robert Lickliter, 2016, “Integrating Development and Evolution in Psychological Science: Evolutionary Developmental Psychology, Developmental Systems, and Explanatory Pluralism”, *Human Development*, 59(4): 200–234. doi:10.1159/000450715
-* Wong, David, 2001 [2020], “Comparative Philosophy: Chinese and Western”, *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2020/entries/comparphil-chiwes/>.
-* Wrangham, Richard W., 2019, “Hypotheses for the Evolution of Reduced Reactive Aggression in the Context of Human Self-Domestication”, *Frontiers in Psychology*, 10: article 1914. doi:10.3389/fpsyg.2019.01914
+* Watters, Ethan, 2010, _Crazy like Us: The Globalization of the American Psyche_, New York: Free Press.
+* Weinberg, Jonathan M., Chad Gonnerman, Cameron Buckner, and Joshua Alexander, 2010, “Are Philosophers Expert Intuiters?”, _Philosophical Psychology_, 23(3): 331–355. doi:10.1080/09515089.2010.490944
+* Weinberg, Jonathan M., Shaun Nichols, and Stephen Stich, 2001, “Normativity and Epistemic Intuitions”, _Philosophical Topics_, 29(1/2): 429–460. doi:10.5840/philtopics2001291/217
+* Whitehead, Hal and Luke Rendell, 2015, _The Cultural Lives of Whales and Dolphins_, Chicago, IL: The University of Chicago Press.
+* Whiten, Andrew, 2019, “Cultural Evolution in Animals”, _Annual Review of Ecology, Evolution, and Systematics_, 50(1): 27–48. doi:10.1146/annurev-ecolsys-110218-025040
+* Whiten, Andrew and Richard W. Byrne (eds.), 1997, _Machiavellian Intelligence II: Extensions and Evaluations_, New York: Cambridge University Press. doi:10.1017/CBO9780511525636
+* Whiten, Andrew, Jane Goodall, William C. McGrew, Toshisada Nishida, Vernon Reynolds, Yukimaru Sugiyama, Caroline E. G. Tutin, Richard W. Wrangham, and Christophe Boesch, 1999, “Cultures in Chimpanzees”, _Nature_, 399(6737): 682–685. doi:10.1038/21415
+* Whiten, Andrew, Nicola McGuigan, Sarah Marshall-Pescini, and Lydia M. Hopper, 2009, “Emulation, Imitation, over-Imitation and the Scope of Culture for Child and Chimpanzee”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 364(1528): 2417–2428. doi:10.1098/rstb.2009.0069
+* Wiegmann, Alex, Joachim Horvath, and Karina Meyer, 2020, “Intuitive Expertise and Irrelevant Options”, in _Oxford Studies in Experimental Philosophy Volume 3_, Joachim Horvath, Karina Meyer, and Alex Wiegmann (eds), Oxford: Oxford University Press, 275–310. doi:10.1093/oso/9780198852407.003.0012
+* Wilkins, John S. and Pierrick Bourrat, 2018 \[2020], “Replication and Reproduction”, _The Stanford Encyclopedia of Philosophy_ (Spring 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/replication/](https://plato.stanford.edu/archives/spr2020/entries/replication/).
+* Willard, Aiyana K. and Rita A. McNamara, 2019, “The Minds of God(s) and Humans: Differences in Mind Perception in Fiji and North America”, _Cognitive Science_, 43(1): e12703. doi:10.1111/cogs.12703
+* Williamson, Timothy, 2011, “Philosophical Expertise and the Burden of Proof”, _Metaphilosophy_, 42(3): 215–229. doi:10.1111/j.1467-9973.2011.01685.x
+* Wilson, David Sloan, 2009, “Evolutionary Social Constructivism: Narrowing (But Not Bridging) the Gap”, in _The Believing Primate: Scientific, Philosophical, and Theological Reflections_, Jeffrey Schloss and Michael Murray (eds). New York: Oxford University Press: 318–338.
+* Wilson, Robert A., 2004, _Boundaries of the Mind: The Individual in the Fragile Sciences—Cognition_, Cambridge, UK/New York: Cambridge University Press. doi:10.1017/CBO9780511606847
+* Wilson, Robert and Lucia Foglia, 2011 \[2021], “Embodied Cognition,” _Stanford Encyclopedia of Philosophy_ (Summer 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2021/entries/embodied-cognition/](https://plato.stanford.edu/archives/sum2021/entries/embodied-cognition/).
+* Wimsatt, William C., 2013, “Articulating Babel: An Approach to Cultural Evolution”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4): 563–571. doi:10.1016/j.shpsc.2013.09.001
+* Wimsatt, William C. and James R. Griesemer, 2007, “Reproducing Entrenchments to Scaffold Culture: The Central Role of Development in Cultural Evolution”, in _Integrating Evolution and Development: From Theory to Practice_, Roger Sansom and Robert N. Brandon (eds), Cambridge, MA: The MIT Press, 227–323.
+* Witherington, David C. and Robert Lickliter, 2016, “Integrating Development and Evolution in Psychological Science: Evolutionary Developmental Psychology, Developmental Systems, and Explanatory Pluralism”, _Human Development_, 59(4): 200–234. doi:10.1159/000450715
+* Wong, David, 2001 \[2020], “Comparative Philosophy: Chinese and Western”, _The Stanford Encyclopedia of Philosophy_ (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/comparphil-chiwes/](https://plato.stanford.edu/archives/fall2020/entries/comparphil-chiwes/).
+* Wrangham, Richard W., 2019, “Hypotheses for the Evolution of Reduced Reactive Aggression in the Context of Human Self-Domestication”, _Frontiers in Psychology_, 10: article 1914. doi:10.3389/fpsyg.2019.01914
 * Wylie, Alison, 2003, “Why Standpoint Matters”, in Figueroa and Harding 2003: 26–48.
-* Yuan, Yuan and Minsun Kim, forthcoming, “Cross-Cultural Convergence of Knowledge Attribution in East Asia and the US”, *Review of Philosophy and Psychology*, first online:23 April 2021. doi:10.1007/s13164-021-00523-y
-* Zawidzki, Tadeusz, 2013, *Mindshaping: A New Framework for Understanding Human Social Cognition*, Cambridge, MA: MIT Press.
-* Zefferman, Matthew R. and Sarah Mathew, 2020, “An Evolutionary Theory of Moral Injury with Insight from Turkana Warriors”, *Evolution and Human Behavior*, 41(5): 341–353. doi:10.1016/j.evolhumbehav.2020.07.003
-* –––, 2021, “Combat Stress in a Small-Scale Society Suggests Divergent Evolutionary Roots for Posttraumatic Stress Disorder Symptoms”, *Proceedings of the National Academy of Sciences*, 118(15): e2020430118. doi:10.1073/pnas.2020430118
-* Zentall, Thomas R., 2006, “Imitation: Definitions, Evidence, and Mechanisms”, *Animal Cognition*, 9(4): 335–353. doi:10.1007/s10071-006-0039-2
-* Zollman, Kevin J.S., 2008, “Explaining Fairness in Complex Environments”, *Politics, Philosophy & Economics*, 7(1): 81–97. doi:10.1177/1470594X07081299
+* Yuan, Yuan and Minsun Kim, forthcoming, “Cross-Cultural Convergence of Knowledge Attribution in East Asia and the US”, _Review of Philosophy and Psychology_, first online:23 April 2021. doi:10.1007/s13164-021-00523-y
+* Zawidzki, Tadeusz, 2013, _Mindshaping: A New Framework for Understanding Human Social Cognition_, Cambridge, MA: MIT Press.
+* Zefferman, Matthew R. and Sarah Mathew, 2020, “An Evolutionary Theory of Moral Injury with Insight from Turkana Warriors”, _Evolution and Human Behavior_, 41(5): 341–353. doi:10.1016/j.evolhumbehav.2020.07.003
+* –––, 2021, “Combat Stress in a Small-Scale Society Suggests Divergent Evolutionary Roots for Posttraumatic Stress Disorder Symptoms”, _Proceedings of the National Academy of Sciences_, 118(15): e2020430118. doi:10.1073/pnas.2020430118
+* Zentall, Thomas R., 2006, “Imitation: Definitions, Evidence, and Mechanisms”, _Animal Cognition_, 9(4): 335–353. doi:10.1007/s10071-006-0039-2
+* Zollman, Kevin J.S., 2008, “Explaining Fairness in Complex Environments”, _Politics, Philosophy & Economics_, 7(1): 81–97. doi:10.1177/1470594X07081299
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=culture-cogsci). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/culture-cogsci/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=culture-cogsci&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/culture-cogsci/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=culture-cogsci).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/culture-cogsci/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=culture-cogsci\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/culture-cogsci/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Prinz, Jesse, “Culture and Cognitive Science”, *Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2022/entries/culture-cogsci/>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=culture-cogsci).]
+* Prinz, Jesse, “Culture and Cognitive Science”, _Stanford Encyclopedia of Philosophy_ (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/culture-cogsci/](https://plato.stanford.edu/archives/spr2022/entries/culture-cogsci/). \[This was the previous entry on this topic in the _Stanford Encyclopedia of Philosophy_ – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=culture-cogsci).]
 
 ## Related Entries
 
-[Africana Philosophy](https://plato.stanford.edu/entries/africana/) | [altruism: empirical approaches](https://plato.stanford.edu/entries/altruism-empirical/) | [cognition: embodied](https://plato.stanford.edu/entries/embodied-cognition/) | [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) | [comparative philosophy: Chinese and Western](https://plato.stanford.edu/entries/comparphil-chiwes/) | [connectionism](https://plato.stanford.edu/entries/connectionism/) | [culture](https://plato.stanford.edu/entries/culture/) | [epistemology: social](https://plato.stanford.edu/entries/epistemology-social/) | [evolution: cultural](https://plato.stanford.edu/entries/evolution-cultural/) | [experimental moral philosophy](https://plato.stanford.edu/entries/experimental-moral/) | [experimental philosophy](https://plato.stanford.edu/entries/experimental-philosophy/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [feminist philosophy, interventions: social epistemology](https://plato.stanford.edu/entries/feminist-social-epistemology/) | [human nature](https://plato.stanford.edu/entries/human-nature/) | [innateness: historical controversies](https://plato.stanford.edu/entries/innateness-history/) | [intuition](https://plato.stanford.edu/entries/intuition/) | [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/) | [Latin American Philosophy](https://plato.stanford.edu/entries/latin-american-philosophy/) | [mental disorder](https://plato.stanford.edu/entries/mental-disorder/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [mind: in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/) | [mind: modularity of](https://plato.stanford.edu/entries/modularity-mind/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/) | [normative cognition, psychology of](https://plato.stanford.edu/entries/psychology-normative-cognition/) | [psychiatry, philosophy of](https://plato.stanford.edu/entries/psychiatry/) | [psychology: evolutionary](https://plato.stanford.edu/entries/evolutionary-psychology/) | [rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/) | [replication and reproduction](https://plato.stanford.edu/entries/replication/) | [reproducibility, scientific](https://plato.stanford.edu/entries/scientific-reproducibility/)
+[Africana Philosophy](https://plato.stanford.edu/entries/africana/) | [altruism: empirical approaches](https://plato.stanford.edu/entries/altruism-empirical/) | [cognition: embodied](https://plato.stanford.edu/entries/embodied-cognition/) | [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) | [comparative philosophy: Chinese and Western](https://plato.stanford.edu/entries/comparphil-chiwes/) | [connectionism](https://plato.stanford.edu/entries/connectionism/) | [culture](https://plato.stanford.edu/entries/culture/) | [epistemology: social](https://plato.stanford.edu/entries/epistemology-social/) | [evolution: cultural](https://plato.stanford.edu/entries/evolution-cultural/) | [experimental moral philosophy](https://plato.stanford.edu/entries/experimental-moral/) | [experimental philosophy](https://plato.stanford.edu/entries/experimental-philosophy/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [feminist philosophy, interventions: social epistemology](https://plato.stanford.edu/entries/feminist-social-epistemology/) | [human nature](https://plato.stanford.edu/entries/human-nature/) | [innateness: historical controversies](https://plato.stanford.edu/entries/innateness-history/) | [intuition](https://plato.stanford.edu/entries/intuition/) | [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/) | [Latin American Philosophy](https://plato.stanford.edu/entries/latin-american-philosophy/) | [mental disorder](https://plato.stanford.edu/entries/mental-disorder/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [mind: in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/) | [mind: modularity of](https://plato.stanford.edu/entries/modularity-mind/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/) | [normative cognition, psychology of](https://plato.stanford.edu/entries/psychology-normative-cognition/) | [psychiatry, philosophy of](https://plato.stanford.edu/entries/psychiatry/) | [psychology: evolutionary](https://plato.stanford.edu/entries/evolutionary-psychology/) | [rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/) | [replication and reproduction](https://plato.stanford.edu/entries/replication/) | [reproducibility, scientific](https://plato.stanford.edu/entries/scientific-reproducibility/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-Daniel Kelly <[*drkelly@purdue.edu*](mailto:drkelly%40purdue%2eedu)>  
-Andreas De Block <[*andreas.deblock@kuleuven.be*](mailto:andreas%2edeblock%40kuleuven%2ebe)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+Daniel Kelly <[_drkelly@purdue.edu_](mailto:drkelly%40purdue%2eedu)>\
+Andreas De Block <[_andreas.deblock@kuleuven.be_](mailto:andreas%2edeblock%40kuleuven%2ebe)>

@@ -1,6 +1,6 @@
-# 克罗奇的美学 aesthetics (Gary Kemp)
+# 克罗齐的美学 aesthetics (Gary Kemp)
 
-*首次发表于 2008 年 5 月 4 日星期日；实质性修订于 2021 年 10 月 8 日*
+_首次发表于 2008 年 5 月 4 日星期日；实质性修订于 2021 年 10 月 8 日_
 
 拿波利的贝内代托·克罗齐（1860-1952 年）是 20 世纪上半叶美学和文学批评领域的主导人物，对哲学也有一定影响，尽管影响力不及前者。但他的名声并未持续，无论在意大利还是英语世界。他并不缺乏传播者和愿意将其作品翻译成英语的人：H.卡尔是前者的早期代表，R.G.柯林伍德也许两者兼具，D.安斯利为克罗齐的大部分主要作品提供了翻译服务。但在第二次世界大战后，他的声望迅速下降。事实上，很难找到一个声誉如此迅速下滑的人物；这有些不公平，尤其是考虑到柯林伍德的美学仍在研究之中，尽管其许多主要观点往往被认为是从克罗齐那里借鉴而来。造成这种情况的原因令人猜测，但有两点是可能的。首先，克罗齐的一般哲学非常符合前一个世纪的思维。随着英国的理想主义和历史主义体系被拉塞尔、摩尔和艾尔等人取代，以及分析哲学的兴起，克罗齐的体系被大陆上的新思想所淘汰——从海德格尔和萨特到解构主义。其次，克罗齐在其著名的早期作品中的表达方式现在看来有些断然而独断；充满了少年时的信念和愤怒，这种风格很少能持久。在某些关键点上，对立立场被描述为愚蠢，或者被认为是对简单真理的混乱表达，只等待克罗齐适当表达（然而，他与约翰·杜威的后来交流——参见克罗齐 1952 年，道格拉斯 1970 年，维托里奥 2012 年——发现他更加认真负责）。当然，这些否定具有一定的份量——克罗齐的阅读量巨大，言外之意远比表面看到的更有见地——但除非读者已经确信这里终于是真理，否则这些否定的数量和激烈程度将引起不信任。由于早期作品以及他长期担任《评论》杂志主编使他一举成名并备受钦佩，而后来的岁月除了与法西斯分子斗争外，还致力于其他事务，因此并不奇怪他从未完全改变这种习惯。
 
@@ -10,30 +10,27 @@
 * [2. 美学的首要性](https://plato.stanford.edu/entries/croce-aesthetics/#PriAes)
 * [3. 艺术与美学](https://plato.stanford.edu/entries/croce-aesthetics/#ArtAes)
 * [直觉与表达](https://plato.stanford.edu/entries/croce-aesthetics/#IntExp)
-
   * [作品的双重理想性](https://plato.stanford.edu/entries/croce-aesthetics/#DouIdeWorArt)
   * [感觉的作用](https://plato.stanford.edu/entries/croce-aesthetics/#RolFee)
   * [4.3 感觉、表达和平凡之处](https://plato.stanford.edu/entries/croce-aesthetics/#FeeExpCom)
 * [5. 自然表达、美和快乐理论](https://plato.stanford.edu/entries/croce-aesthetics/#NatExpBeaHedThe)
-* [ 6. 外化](https://plato.stanford.edu/entries/croce-aesthetics/#Ext)
+* [6. 外化](https://plato.stanford.edu/entries/croce-aesthetics/#Ext)
 * [7. 判断、批评和品味](https://plato.stanford.edu/entries/croce-aesthetics/#JudCriTas)
 * [8. 艺术与语言的身份](https://plato.stanford.edu/entries/croce-aesthetics/#IdeArtLan)
-* [ 9. 后续发展](https://plato.stanford.edu/entries/croce-aesthetics/#LatDev)
-* [ 10. 问题](https://plato.stanford.edu/entries/croce-aesthetics/#Pro)
-
+* [9. 后续发展](https://plato.stanford.edu/entries/croce-aesthetics/#LatDev)
+* [10. 问题](https://plato.stanford.edu/entries/croce-aesthetics/#Pro)
   * [10.1 行动与沉思](https://plato.stanford.edu/entries/croce-aesthetics/#ActVerCon)
-  * [ 10.2 隐私](https://plato.stanford.edu/entries/croce-aesthetics/#Pri)
+  * [10.2 隐私](https://plato.stanford.edu/entries/croce-aesthetics/#Pri)
   * [10.3 语言的视角](https://plato.stanford.edu/entries/croce-aesthetics/#VieLan)
-* [ 11. 结论](https://plato.stanford.edu/entries/croce-aesthetics/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/croce-aesthetics/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/croce-aesthetics/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/croce-aesthetics/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/croce-aesthetics/#Aca)
+* [11. 结论](https://plato.stanford.edu/entries/croce-aesthetics/#Con)
+* [参考文献](https://plato.stanford.edu/entries/croce-aesthetics/#Bib)
+  * [主要来源](https://plato.stanford.edu/entries/croce-aesthetics/#PriSou)
+  * [次要来源](https://plato.stanford.edu/entries/croce-aesthetics/#SecSou)
+* [学术工具](https://plato.stanford.edu/entries/croce-aesthetics/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/croce-aesthetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/croce-aesthetics/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/croce-aesthetics/#Rel)
 
----
+***
 
 ## 1. 精神（或心灵）的四个领域
 
@@ -55,7 +52,7 @@
 
 ## 艺术与美学
 
-考虑到对“美学”的这种描述，人们可能会认为克罗齐的意图大致涵盖康德的“超验美学”所涵盖的范围，并且像康德一样，将艺术视为一种相对狭窄但深刻的体验领域。但克罗齐采取了相反的立场（并发现康德关于美和艺术的理论在这一点上失败了）：艺术无处不在，普通直觉与“艺术作品”的区别仅仅是数量上的差异（*美*13）。对克罗齐来说，这一原则具有深远的意义：
+考虑到对“美学”的这种描述，人们可能会认为克罗齐的意图大致涵盖康德的“超验美学”所涵盖的范围，并且像康德一样，将艺术视为一种相对狭窄但深刻的体验领域。但克罗齐采取了相反的立场（并发现康德关于美和艺术的理论在这一点上失败了）：艺术无处不在，普通直觉与“艺术作品”的区别仅仅是数量上的差异（_美_13）。对克罗齐来说，这一原则具有深远的意义：
 
 > 我们必须坚定地坚持我们的认同，因为阻止美学，即艺术科学，揭示艺术的真正本质，其在人类本性中的真正根源的主要原因之一，是它与一般精神生活的分离，将其变成一种特殊功能或贵族俱乐部……没有……石头的特殊化学理论与山的不同。同样，没有较小直觉的科学与较大直觉的科学有别，也没有普通直觉与艺术直觉有别（美 14）。
 
@@ -135,7 +132,7 @@ Croce 无疑是正确的，希望区分这些事物，但他的官方立场—�
 
 ## 9. 后来的发展
 
-随着他年龄的增长，他对自己美学的一个方面感到不安。在 1901 年的美学（Aes. 82–7, 114）中，以及 1913 年的美学本质（EA 13–16）中，他乐于从自己的理论中推断出艺术不能具有伦理目的。艺术中唯一的价值就是美。但到了 1917 年，在《艺术表现的整体性》一文中（PPH 261–73），他对艺术的道德内容的态度更加微妙。这可能只是一种强调的转变，或者，也许是慈善地揭示了以前未被注意到的含义：“如果伦理原则是一种宇宙[普遍]力量（它确实是），并且是世界的女王，自由的世界，她以自己的权利统治，而艺术，根据她重新演绎和表达现实运动的纯度，本身就是完美的”（PPH 267）。换句话说，他仍然认为谈论一部道德作品不会在美学上对其产生影响；同样，谈论一部不道德的作品，因为美学和道德领域的价值是绝对无法比较的。这不仅仅是在纯直觉领域内断言，概念根本不适用；那只会回避问题。他的意思是，一部纯粹的艺术作品不能受到道德赞扬或责备，因为美学领域独立存在，并且在精神哲学中，道德之前存在。
+随着他年龄的增长，他对自己美学的一个方面感到不安。在 1901 年的美学（Aes. 82–7, 114）中，以及 1913 年的美学本质（EA 13–16）中，他乐于从自己的理论中推断出艺术不能具有伦理目的。艺术中唯一的价值就是美。但到了 1917 年，在《艺术表现的整体性》一文中（PPH 261–73），他对艺术的道德内容的态度更加微妙。这可能只是一种强调的转变，或者，也许是慈善地揭示了以前未被注意到的含义：“如果伦理原则是一种宇宙\[普遍]力量（它确实是），并且是世界的女王，自由的世界，她以自己的权利统治，而艺术，根据她重新演绎和表达现实运动的纯度，本身就是完美的”（PPH 267）。换句话说，他仍然认为谈论一部道德作品不会在美学上对其产生影响；同样，谈论一部不道德的作品，因为美学和道德领域的价值是绝对无法比较的。这不仅仅是在纯直觉领域内断言，概念根本不适用；那只会回避问题。他的意思是，一部纯粹的艺术作品不能受到道德赞扬或责备，因为美学领域独立存在，并且在精神哲学中，道德之前存在。
 
 在 1928 年的百科全书文章中，克罗切明确断言道德感是艺术家的必要条件：
 
@@ -157,7 +154,7 @@ Croce 无疑是正确的，希望区分这些事物，但他的官方立场—�
 
 > 因此，给予感觉内容艺术形式意味着赋予它整体性的特征，向其中灌输宇宙的气息。因此，理解为，普遍性和艺术形式并不是两回事，而是一回事。（PPH 263）。
 
- 并且：
+并且：
 
 > 直觉中，个体与整体的生命共振，整体存在于个体的生命中。每一种真正的艺术表现都是宇宙本身，宇宙存在于那个个体形式中，那个个体形式也是宇宙。在诗人的每一句话、每一个幻想的创作中，都蕴含着整个人类命运，所有人类的希望、幻想、悲伤、快乐，人类的伟大和悲惨，现实的整个戏剧不断地在痛苦和快乐中自我演变和成长。（PPH 262）
 
@@ -165,7 +162,7 @@ Croce 无疑是正确的，希望区分这些事物，但他的官方立场—�
 
 ## 10. 问题
 
-我们还没有讨论克罗齐美学的许多内容，包括他对修辞学的批评（Aes. 67–73; PPH 233–35），他对“流派批评”的贬低——也就是说，他的主张是不同艺术形式之间最终没有美学差异（Aes. 111–17, EA 53–60, PPH 229–33）——以及他对心理学和其他自然主义艺术观点的谴责（*Aes.* 87–93; EA 41–7）。此外，还有他对美学史的宏伟而有争议的概述（Aes. 155–474）。但这些是相对细节的问题；现在我们已经足够了解整个理论，可以通过提及一些一般性批评来结束。
+我们还没有讨论克罗齐美学的许多内容，包括他对修辞学的批评（Aes. 67–73; PPH 233–35），他对“流派批评”的贬低——也就是说，他的主张是不同艺术形式之间最终没有美学差异（Aes. 111–17, EA 53–60, PPH 229–33）——以及他对心理学和其他自然主义艺术观点的谴责（_Aes._ 87–93; EA 41–7）。此外，还有他对美学史的宏伟而有争议的概述（Aes. 155–474）。但这些是相对细节的问题；现在我们已经足够了解整个理论，可以通过提及一些一般性批评来结束。
 
 ### 10.1 行动与沉思
 
@@ -193,50 +190,51 @@ Croce 无疑是正确的，希望区分这些事物，但他的官方立场—�
 
 Works by Croce:
 
-* 1902. *Estetica come scienza dell’espressione e linguistica generale*, Florence: Sandron.
-* 1909 [1922]. *Aesthetic: As science of expression and general linguistic*, translated by Douglas Ainslie, New York: Noonday. Cited as *Aes*.
-* 1909. *Logica come scienza del concetto puro*, Florence: Sandron.
-* 1909. *Filosofia della practica, economica ed etica*, Florence: Sandron.
-* 1913. *Breviario di estetica*, Naples: Laterza.
-* 1917. *Logic as the Science of the Pure Concept*, translated by Douglas Ainslie, London: Macmillan.
-* 1917. *Philosophy of the Practical, Economic and Ethic*, translated by Douglas Ainslie, London: Macmillan.
-* 1921. *The Essence of Aesthetic*, translated by Douglas Ainslie, London: Heinemann. Noted as *EA*. (Likely to be superseded by the 1992 translation below.)
-* 1952. ‘Dewey’s Aesthetics and Theory of Knowledge, translated by F. Simoni, *The Journal of Aesthetics and Art Criticism*, 11(1): 1–6.
-* 1995 [1965]. *Guide to Aesthetics*, translated by Patrick Romanell, Indianopolis: Hackett.
-* 1966. *Philosophy, Poetry, History: An Anthology of Essays*, translated and introduced by Cecil Sprigge, London: Oxford University Press. Noted as *PPH*
-* 1992. *The Aesthetic as the Science of Expression and of the Linguistic in General Part I: Theory*, translated by Colin Lyas, Cambridge: Cambridge University Press.
-* 2007. *Breviary of Aesthetics: Four Lectures*, translated by Hiroko Fudemoto, Toronto: University of Toronto Press.
-* 2017. *A Croce Reader: Aesthetics, Philosophy, History, and Literary Criticism*, edited and translated by Massimo Verdicchio, Ontario: University of Toronto Press.
+* 1902\. _Estetica come scienza dell’espressione e linguistica generale_, Florence: Sandron.
+* 1909 \[1922]. _Aesthetic: As science of expression and general linguistic_, translated by Douglas Ainslie, New York: Noonday. Cited as _Aes_.
+* 1909\. _Logica come scienza del concetto puro_, Florence: Sandron.
+* 1909\. _Filosofia della practica, economica ed etica_, Florence: Sandron.
+* 1913\. _Breviario di estetica_, Naples: Laterza.
+* 1917\. _Logic as the Science of the Pure Concept_, translated by Douglas Ainslie, London: Macmillan.
+* 1917\. _Philosophy of the Practical, Economic and Ethic_, translated by Douglas Ainslie, London: Macmillan.
+* 1921\. _The Essence of Aesthetic_, translated by Douglas Ainslie, London: Heinemann. Noted as _EA_. (Likely to be superseded by the 1992 translation below.)
+*
+  1952. ‘Dewey’s Aesthetics and Theory of Knowledge, translated by F. Simoni, _The Journal of Aesthetics and Art Criticism_, 11(1): 1–6.
+* 1995 \[1965]. _Guide to Aesthetics_, translated by Patrick Romanell, Indianopolis: Hackett.
+* 1966\. _Philosophy, Poetry, History: An Anthology of Essays_, translated and introduced by Cecil Sprigge, London: Oxford University Press. Noted as _PPH_
+* 1992\. _The Aesthetic as the Science of Expression and of the Linguistic in General Part I: Theory_, translated by Colin Lyas, Cambridge: Cambridge University Press.
+* 2007\. _Breviary of Aesthetics: Four Lectures_, translated by Hiroko Fudemoto, Toronto: University of Toronto Press.
+* 2017\. _A Croce Reader: Aesthetics, Philosophy, History, and Literary Criticism_, edited and translated by Massimo Verdicchio, Ontario: University of Toronto Press.
 
 ### Secondary Sources
 
-* Bosanquet, B., 1919. ‘Croce’s Aesthetic’, *Proceedings of the British Academy*, IX: 261–288.
-* –––, 1920. ‘Reply to Carr’, *Mind*, XXIX(2): 212–15.
-* Carr, H. W., 1917. *The Philosophy of Benedetto Croce*, London: Macmillan.
-* Donagan, A., 1962. *The Later Philosophy of R.G. Collingwood*, Oxford: Clarendon.
-* Douglas, G. H., 1970. A Reconsideration of the Dewey-Croce Exchange, *The Journal of Aesthetics and Art Criticism*, 28(4): 497–504.
-* Ducasse, C., 1929. *The Philosophy of Art*, New York: Dial.
-* de Gennaro, A. 1968. ‘Benedetto Croce and Herbert Read’, *The Journal of Aesthetics and Art Criticism*, 26(3): 307–310.
-* Hospers, J. 1956. ‘The Croce-Collingwood Theory of Art’, *Philosophy*, 31(119): 291–308.
-* Jones, P. 1972. ‘A Critical Outline of Collingwood’s Philosophy of Art’, in *Critical Essays on the Philosophy of R.G. Collingwood*, edited by Michael Krausz, Oxford: Clarendon: 42–65.
-* Kemp, G. 2003. ‘The Croce-Collingwood Theory as Theory’, *The Journal of Aesthetics and Art Criticism*, 61(2): 171–193.
-* Moss, M. E., 1987. *Benedetto Croce reconsidered: truth and error in theories of art, literature, and history*, London: University of New England Press.
-* Orsini, G., 1961. *Benedetto Croce: Philosophy of Art and Literary Critic*, Carbondale: Southern Illinois University Press.
-* Patankar R. B., 1962. ‘What Does Croce Mean by ‘Expression’?’, *The British Journal of Aesthetics*, 2(2): 112–125.
-* Paton, M., 1985. ‘Getting Croce Straight’, *The Brit Journal of Aesthetics*, 25(3): 252–265.
-* Peters, R., 2011. *History as Thought and Action: The Philosophies of Croce, Gentile, de Ruggiero and Collingwood*, Exeter: Imprint Academic.
-* Scaglione, A., 1959. ‘Croce’s Definition of Literary Criticism’, *The Journal of Aesthetics and Art Criticism*, 17(4): 447–456.
-* Shusterman, R., 1988. ‘Croce on Interpretation: Deconstruction and Pragmatism’, *New Literary History*, 20(1): 199–216.
-* Tilghman B., 1970. *The Expression of Emotion in the Visual Arts: A Philosophical Inquiry*, The Hague: Martinus Nijhoff.
-* Vittorio M., 2012. ‘Reflections on the Croce–Dewey exchange’, *Modern Italy*, 17(1): 31–49. [[available online](http://www.tandfonline.com/doi/pdf/10.1080/13532944.2012.633345)].
+* Bosanquet, B., 1919. ‘Croce’s Aesthetic’, _Proceedings of the British Academy_, IX: 261–288.
+* –––, 1920. ‘Reply to Carr’, _Mind_, XXIX(2): 212–15.
+* Carr, H. W., 1917. _The Philosophy of Benedetto Croce_, London: Macmillan.
+* Donagan, A., 1962. _The Later Philosophy of R.G. Collingwood_, Oxford: Clarendon.
+* Douglas, G. H., 1970. A Reconsideration of the Dewey-Croce Exchange, _The Journal of Aesthetics and Art Criticism_, 28(4): 497–504.
+* Ducasse, C., 1929. _The Philosophy of Art_, New York: Dial.
+* de Gennaro, A. 1968. ‘Benedetto Croce and Herbert Read’, _The Journal of Aesthetics and Art Criticism_, 26(3): 307–310.
+* Hospers, J. 1956. ‘The Croce-Collingwood Theory of Art’, _Philosophy_, 31(119): 291–308.
+* Jones, P. 1972. ‘A Critical Outline of Collingwood’s Philosophy of Art’, in _Critical Essays on the Philosophy of R.G. Collingwood_, edited by Michael Krausz, Oxford: Clarendon: 42–65.
+* Kemp, G. 2003. ‘The Croce-Collingwood Theory as Theory’, _The Journal of Aesthetics and Art Criticism_, 61(2): 171–193.
+* Moss, M. E., 1987. _Benedetto Croce reconsidered: truth and error in theories of art, literature, and history_, London: University of New England Press.
+* Orsini, G., 1961. _Benedetto Croce: Philosophy of Art and Literary Critic_, Carbondale: Southern Illinois University Press.
+* Patankar R. B., 1962. ‘What Does Croce Mean by ‘Expression’?’, _The British Journal of Aesthetics_, 2(2): 112–125.
+* Paton, M., 1985. ‘Getting Croce Straight’, _The Brit Journal of Aesthetics_, 25(3): 252–265.
+* Peters, R., 2011. _History as Thought and Action: The Philosophies of Croce, Gentile, de Ruggiero and Collingwood_, Exeter: Imprint Academic.
+* Scaglione, A., 1959. ‘Croce’s Definition of Literary Criticism’, _The Journal of Aesthetics and Art Criticism_, 17(4): 447–456.
+* Shusterman, R., 1988. ‘Croce on Interpretation: Deconstruction and Pragmatism’, _New Literary History_, 20(1): 199–216.
+* Tilghman B., 1970. _The Expression of Emotion in the Visual Arts: A Philosophical Inquiry_, The Hague: Martinus Nijhoff.
+* Vittorio M., 2012. ‘Reflections on the Croce–Dewey exchange’, _Modern Italy_, 17(1): 31–49. \[[available online](http://www.tandfonline.com/doi/pdf/10.1080/13532944.2012.633345)].
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=croce-aesthetics). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/croce-aesthetics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=croce-aesthetics&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/croce-aesthetics/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=croce-aesthetics).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/croce-aesthetics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=croce-aesthetics\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/croce-aesthetics/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -244,11 +242,11 @@ Works by Croce:
 
 ## Related Entries
 
-[art, definition of](https://plato.stanford.edu/entries/art-definition/) | [Collingwood, Robin George: aesthetics](https://plato.stanford.edu/entries/collingwood-aesthetics/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [Hegel, Georg Wilhelm Friedrich: aesthetics](https://plato.stanford.edu/entries/hegel-aesthetics/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [intuition](https://plato.stanford.edu/entries/intuition/) | [privacy](https://plato.stanford.edu/entries/privacy/) | [Vico, Giambattista](https://plato.stanford.edu/entries/vico/)
+[art, definition of](https://plato.stanford.edu/entries/art-definition/) | [Collingwood, Robin George: aesthetics](https://plato.stanford.edu/entries/collingwood-aesthetics/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [Hegel, Georg Wilhelm Friedrich: aesthetics](https://plato.stanford.edu/entries/hegel-aesthetics/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [intuition](https://plato.stanford.edu/entries/intuition/) | [privacy](https://plato.stanford.edu/entries/privacy/) | [Vico, Giambattista](https://plato.stanford.edu/entries/vico/)
 
 ### Acknowledgments
 
 Thanks to Dr. Martine Lejeune of the Department for Applied Linguistics, College Ghent, for bibliographical help and for pointing out certain errors in the original entry. The SEP editors would like to thank Filippo Contesi for notifying us of a number of typographical infelicities in this entry.
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Gary Kemp](http://www.gla.ac.uk/schools/humanities/staff/garykemp/) <[*gary.kemp@glasgow.ac.uk*](mailto:gary%2ekemp%40glasgow%2eac%2euk)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Gary Kemp](http://www.gla.ac.uk/schools/humanities/staff/garykemp/) <[_gary.kemp@glasgow.ac.uk_](mailto:gary%2ekemp%40glasgow%2eac%2euk)>
