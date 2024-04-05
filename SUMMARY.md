@@ -662,3 +662,7 @@
 * [发育生物学 developmental biology (Alan Love)](d/fa-yu-sheng-wu-xue-developmental-biology-alan-love/README.md)
   * [进化和发育 evolution and development (Jan Baedke and Scott F. Gilbert)](d/fa-yu-sheng-wu-xue-developmental-biology-alan-love/jin-hua-he-fa-yu-evolution-and-development-jan-baedke-and-scott-f.-gilbert.md)
   * [\*理论——见生物发育：生物发育的理论 theories of — see biological development: theories of](d/fa-yu-sheng-wu-xue-developmental-biology-alan-love/li-lun-jian-sheng-wu-fa-yu-sheng-wu-fa-yu-de-li-lun-theories-of-see-biological-development-theories.md)
+* [约翰·杜威 Dewey, John (David Hildebrand)](d/yue-han-du-wei-dewey-john-david-hildebrand/README.md)
+  * [杜威的美学 aesthetics (Tom Leddy and Kalle Puolakka)](d/yue-han-du-wei-dewey-john-david-hildebrand/du-wei-de-mei-xue-aesthetics-tom-leddy-and-kalle-puolakka.md)
+  * [杜威的伦理学 moral philosophy (Elizabeth Anderson)](d/yue-han-du-wei-dewey-john-david-hildebrand/du-wei-de-lun-li-xue-moral-philosophy-elizabeth-anderson.md)
+  * [杜威的政治哲学 political philosophy (Matthew Festenstein)](d/yue-han-du-wei-dewey-john-david-hildebrand/du-wei-de-zheng-zhi-zhe-xue-political-philosophy-matthew-festenstein.md)
