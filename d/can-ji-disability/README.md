@@ -1,0 +1,2 @@
+# \*残疾 disability
+
