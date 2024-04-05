@@ -666,3 +666,5 @@
   * [杜威的美学 aesthetics (Tom Leddy and Kalle Puolakka)](d/yue-han-du-wei-dewey-john-david-hildebrand/du-wei-de-mei-xue-aesthetics-tom-leddy-and-kalle-puolakka.md)
   * [杜威的伦理学 moral philosophy (Elizabeth Anderson)](d/yue-han-du-wei-dewey-john-david-hildebrand/du-wei-de-lun-li-xue-moral-philosophy-elizabeth-anderson.md)
   * [杜威的政治哲学 political philosophy (Matthew Festenstein)](d/yue-han-du-wei-dewey-john-david-hildebrand/du-wei-de-zheng-zhi-zhe-xue-political-philosophy-matthew-festenstein.md)
+* [法称 Dharmakīrti (Tom Tillemans)](d/fa-cheng-dharmakrti-tom-tillemans.md)
+* [图表 diagrams (Sun-Joo Shin, Oliver Lemon, and John Mumma)](d/tu-biao-diagrams-sunjoo-shin-oliver-lemon-and-john-mumma.md)
