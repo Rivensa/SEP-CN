@@ -452,7 +452,7 @@
 * [公民不服从 civil disobedience (Candice Delmas and Kimberley Brownlee)](c/gong-min-bu-fu-cong-civil-disobedience-candice-delmas-and-kimberley-brownlee.md)
 * [公民权利 civil rights (Andrew Altman)](c/gong-min-quan-li-civil-rights-andrew-altman.md)
 * [塞缪尔·克拉克 Clarke, Samuel (Timothy Yenter and Ezio Vailati)](c/sai-mou-er-ke-la-ke-clarke-samuel-timothy-yenter-and-ezio-vailati.md)
-* [\*克莱曼特——见古代哲学学派评述 Clement of Alexandria — see doxography of ancient philosophy](c/ke-lai-man-te-jian-gu-dai-zhe-xue-xue-pai-ping-shu-clement-of-alexandria-see-doxography-of-ancient-p.md)
+* [\*克莱曼特——见古代哲学学派评述 Clement of Alexandria — see doxography of ancient philosophy](c/ke-lai-man-te-jian-gu-dai-zhe-xue-xue-shu-clement-of-alexandria-see-doxography-of-ancient-philosophy.md)
 * [\*气候正义——见正义：气候正义 climate justice — see justice: climate](c/qi-hou-zheng-yi-jian-zheng-yi-qi-hou-zheng-yi-climate-justice-see-justice-climate.md)
 * [气候科学 climate science (Wendy Parker)](c/qi-hou-ke-xue-climate-science-wendy-parker.md)
 * [\*临床研究伦理——见生物医学伦理学：临床研究伦理 clinical research, ethics of — see ethics, biomedical: clinical research](c/lin-chuang-yan-jiu-lun-li-jian-sheng-wu-yi-xue-lun-li-xue-lin-chuang-yan-jiu-lun-li-clinical-researc.md)
