@@ -1,2 +1,281 @@
 # 神圣光照论 illumination (Robert Pasnau)
 
+*首次发表于 1999 年 11 月 2 日星期二；实质性修订于 2020 年 2 月 10 日星期一*
+
+神圣光照论是心灵和知识领域中最古老且最有影响力的与自然主义相对的观点。该教义认为人类在日常认知活动中需要特殊的神圣帮助。尽管与奥古斯丁及其学院派追随者最为密切相关，但这一教义起源于古代，并在早期现代时期以变形的方式再次出现。
+
+* [1. Orientation](https://plato.stanford.edu/entries/illumination/#Ori)
+* [古代背景](https://plato.stanford.edu/entries/illumination/#AncBac)
+* [ 奥古斯丁](https://plato.stanford.edu/entries/illumination/#Aug)
+* [十三世纪的方济各会士](https://plato.stanford.edu/entries/illumination/#ThiCenFra)
+* [ 圣托马斯·阿奎那](https://plato.stanford.edu/entries/illumination/#ThoAqu)
+* [亨利·甘特](https://plato.stanford.edu/entries/illumination/#HenGhe)
+* [神圣光照论。](https://plato.stanford.edu/entries/illumination/#JohDunSco)
+* [ 结语](https://plato.stanford.edu/entries/illumination/#Epi)
+* [ 参考文献](https://plato.stanford.edu/entries/illumination/#Bib)
+
+  * [ 主要文献](https://plato.stanford.edu/entries/illumination/#PriLit)
+  * [ 次级文献](https://plato.stanford.edu/entries/illumination/#SecLit)
+* [ 学术工具](https://plato.stanford.edu/entries/illumination/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/illumination/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/illumination/#Rel)
+
+---
+
+## 定位
+
+神圣光照论通常被认为是独特的基督教、独特的中世纪和独特的奥古斯丁主义。当然，这样认为是有一定道理的，因为基督教中世纪哲学家认真而持续地讨论了这一理论，而奥古斯丁在他的知识理论中赋予了光照理论非常重要的角色。然而，更好的做法是将这一理论放在更广泛的背景下来思考。神圣光照在古希腊哲学、后来的希腊评论传统、新柏拉图主义和中世纪伊斯兰哲学中都扮演了重要角色。此外，正是在十三世纪末，基督教中世纪哲学家最终负责决定性地驳斥了这一理论。我将提出我们应该将这一最后的发展视为认知理论史上的第一个重大转折点。
+
+我理解神圣光照论是一种理论，根据这种理论，人类的思维经常依赖某种特殊的超自然帮助来完成（某部分）普通的认知活动。这种帮助必须是超自然的，当然，否则就不算是神圣光照。它必须是特殊的，意味着它必须是超越神创造和持续保持人类思维的东西。（如果仅仅这一点就算作光照，那么所有的有神论者都会被认为是神圣光照论的拥护者。）思维必须经常依赖这种帮助，以完成其普通的认知活动：否则，偶尔的神秘体验可能足以证实神圣光照论。但是，这种理论的拥护者只需坚持我们需要这种帮助来完成我们普通认知活动的某部分：几乎没有人认为每种人类认知形式都需要神圣光照。
+
+神圣光照论可类比于恩典。正如恩典的支持者在意志方面假定了特殊的神圣角色一样，神圣光照论的支持者在认知方面也假定了特殊的神圣角色。恩典旨在解释并非所有人类欲望和动机，甚至并非所有善良的欲望和动机。恩典的支持者认为，对于人类幸福至关重要的某类意志状态，我们只能在特殊的神圣帮助下实现。同样，神圣光照论的理论旨在解释并非所有信仰，甚至并非所有知识。相反，该理论认为，对于认知发展至关重要的某类知识，我们只能在特殊的神圣帮助下实现。有一个奇怪的事实，尽管存在密切的类比，恩典被视为一个神学问题，而非哲学问题。同样奇怪的是，尽管自 13 世纪以来神圣光照论通常不被视为可信，但恩典仍然被许多神学家认真对待。也许这两个事实都可以通过动机心理学相对于认知心理学的相对不明确来解释。
+
+对于今天的大多数人来说，很难认真对待神圣光照论，很难将其视为除了古雅的遗物之外的任何东西。发展对这一理论的适当视角的第一步是将其置于更广泛的背景中看待，不是作为特别基督教或中世纪的，而是作为大多数古代哲学家共有的假设。在同一方向上的第二步是确定并认真对待推动光照论的哲学问题。在很大程度上，这一理论被用来解释理性洞察——即，先验知识。在现代的大部分时间里，哲学家们一直专注于经验知识，并对这个主题不太感兴趣。（最近，这种情况明显发生了变化；有关基础性的最新研究，请参见 Bealer 2000 和 Bonjour 1998。）要看到类似神圣光照如何曾经似乎是完全合理的，就必须看到理性洞察现象实际上有多么令人困惑。看到这一点的一种方式，以及看到我们对理性洞察了解多么少，是看看一些出现问题的情况。诺贝尔奖获得者约翰·纳什的最近一部传记描述了他长期的精神疾病期间，他持有各种奇怪的信念，比如外星人正在招募他来拯救世界。一个朋友在医院探望时问道，鉴于他对理性和逻辑的忠诚，他怎么会相信这一点？
+
+> “因为，”纳什慢慢地用他那柔和、理性的南方口音说道，仿佛在和自己交谈，“我对超自然存在的想法与我的数学思想一样，是以同样的方式来到我的脑海中的。所以我认真对待了它们”（Nasar 1998, p.11）。
+
+神圣光照论试图回答这样的问题，例如在这种情况下我们不知道该怎么办，因为我们习惯于毫不犹豫地相信纯粹理性的启示。但为什么我们要以这种方式相信理性呢？为什么我们要相信其他人也能分享我们的见解？这信心从何而来？
+
+## 古代背景
+
+这并不是一份全面的调查。但从索克拉底在《辩护篇》中的这句话开始似乎是有用的：
+
+> 我有一个神圣或精神的迹象，梅勒图斯在他的证词中嘲笑过。这始于我还是个孩子的时候。这是一个声音，每当它说话时，它会让我远离我即将要做的事情，但它从不鼓励我去做任何事情（31d，译者：格鲁贝）。
+
+这似乎是一个关于神圣光照论的理论的完全直接表达。提供光照的人并不清楚。阿普勒尤斯（约公元 150 年）后来将光照的源头确定为某种友好的恶魔，并认为只有苏格拉底，作为所有人类中最完美的人，才配得到这种光照（《苏格拉底之神》第 17-19 章）。 （这种认为只有配得到的人才会得到启示的想法也被奥古斯丁提出过[例如，《论教师》11.38]，但在他后来的著作中被认为是站不住脚的。）正如人们可能期望的那样，苏格拉底的启示似乎仅限于道德领域。它的形式不清楚：它是命题性的吗？（见《斐德罗斯》242bc）它仅仅是良心的痛苦吗？（有关这些和其他问题的讨论，请参见例如 Destrée 和 Smith 2005 年收集的论文。）无论细节如何，苏格拉底明确地描述了一种具有“神圣或精神”源头的认知指导。这段文字可能让古典学者感到尴尬，但它肯定属于后来中世纪对启示的认可的传统之中。
+
+不是所有对神的呼吁都涉及这种直接沟通。（事实上，苏格拉底对“声音”的提及相当特别。）但古希腊哲学的主要人物同样致力于认知中某种神圣角色。柏拉图的回忆论假定人类心灵在某种程度上内在地掌握了形式的概念，这表明灵魂在某个时刻必须接受了某种启示。事实上，柏拉图对回忆的论证预示了中世纪观点将来会沿着的两条线发展。《梅诺篇》关注先验的、理性的洞察，正如奴隶能够亲自看到几何证明的有效性所示。相比之下，《斐多篇》关注普遍属性——例如，与两根相等的棍子相比的“平等”（74a）——将物理世界的易变不完美与形式的典范完美进行对比。从奥古斯丁开始的中世纪哲学家，尽管在柏拉图方面大多缺乏第一手知识，也会主张沿着这两条线进行启示的论证。
+
+亚里士多德似乎也在召唤神圣光照论。他这样描述了主动智力：
+
+> 这种智力是独立的，不受影响，不混合，本质上是活动的……它并非有时思考，有时不思考。在分离中，它就是它自己，这唯一是不朽的和永恒的（《灵魂论》第三卷第 5 章，430a17–23）。
+
+当然，关于这段文字的意义存在着无休止的争议。一个非常普遍的解读，在古代和现代，是这个活跃的智力是神圣的，根本不是人类的能力。如果进一步做出自然的假设，即活跃的智力参与普通人类认知，那么亚里士多德显然会坚持神圣光照的版本。(然而，应该谨慎地认为亚里士多德的 nous poietikos 与学院派的 intellectus agens 扮演的角色完全不同。参见 Haldane 1992。) 并不是每个人都相信这个活跃的智力是真正分离和神圣的。但即使有人认为活跃的智力是人类灵魂的一部分，仍然难以避免怀疑某种特殊的神圣影响在起作用。段落中的一切都呼唤人类认知中的某种超自然元素。
+
+亚历山大（公元前 200 年）在推动《灵魂论》第三章第 5 节的分离和神圣阅读方面具有影响力，伊斯兰哲学家（尤其是伊本·西那[980-1037]和伊本·鲁什德[约 1126-约 1198]）随后也会效仿。相比之下，提米修斯（公元 4 世纪）支持灵魂的部分阅读，托马斯·阿奎那（1225-1274）支持这种解释。对这个主题的全面探讨将涵盖后来的亚里士多德和柏拉图传统，包括希腊和伊斯兰。但在这里，我将专注于拉丁西方，奥古斯丁在制定启示教义方面发挥了决定性作用。（有关古代和中世纪亚里士多德关于智力代理的有用调查，请参见布伦塔诺 1992 年。关于后来的柏拉图传统，请参见格什 1978 年。伊斯兰传统值得单独撰写一篇完整的文章，不仅涵盖了在拉丁西方著名的名字，还包括苏赫拉瓦迪和穆拉萨德拉等人物，他们是伊斯兰启示主义传统的中心人物[参见沃尔布里奇 2005 年]。)
+
+## 奥古斯丁
+
+在他漫长的文学生涯中，奥古斯丁（Augustine，354-430）强调了神圣光照在人类思想中的作用。人们几乎可以选择任何一部作品来阐明这一观点；在这里，我将专注于最为熟知的《忏悔录》，奥古斯丁在其中不断引用神圣光照，并对其全球必要性提出大胆主张。
+
+> 神圣光照论需要从外部获得光明来启迪心灵，以便它能参与真理，因为它本身并非真理的本质。你必照亮我的灯，主（IV.xv.25）。
+>
+> 神圣光照论
+>
+> 神圣光照论
+>
+> 真理，你何时曾经辜负过与我同行，教导我避之唯恐不及的事物和追求的目标……没有你，我无法辨别这些事物（X.xl.65）。
+
+甚至在中世纪，奥古斯丁的读者们对他理论的确切性质存在分歧。仅从这些段落中似乎清楚的一点是，神圣光照是我们在一生中持续接受的一种影响。托马斯·阿奎那后来将光照理解为一次性的注入（见下文），但这似乎不是对奥古斯丁的解释。心灵需要从“外部”得到启蒙；“它本身不是真理的本质”；“你必照亮我的灯，主”（他还没有这样做）；真理“与我同行”，而不仅仅是在一开始让我运动起来。
+
+神圣光照论将这种影响称为启示，当然这是使用隐喻，不太可能被完全解开。我们自己的思维对我们来说已经足够成谜：当我们试图理解神圣思维如何影响我们自己时，我们必然会回归到隐喻。然而，有许多种方式可以寻求一些澄清。特别是，有两种方式我们可以寻求启示。首先，神可能简单地提供某些类型的信息，告诉我们事物的真相。这通常是人们理解启示的方式，至少是隐含地。但第二种可能性是，神不提供信息本身，而是提供对信息真相的洞察力。根据这种模式，我们会自行形成信念，而神会照亮我们的思维，使我们能够看到真相。换句话说，神会提供理由。很明显，有时启示采取第一种形式：圣经启示的很多内容就是这种意义上的启示。但奥古斯丁的启示理论似乎主要是第二种类型。考虑一下《忏悔录》中的这段著名文字。
+
+> 如果我们都看到你所说的是真的，我们也都看到我所说的是真的，那么我们在哪里看到呢？不是我在你里面，也不是你在我里面，而是我们俩在那不可改变的真理之中（XII.xxv.35）。
+
+这里讨论的问题是圣经解释。当提出一个看似明显正确的阅读时，每个听众是如何领悟到那个阅读的真理的呢？并不是上帝直接给予我们解释，而是他让我们看到这个解释是真实的。
+
+这种对启示的理解在《论教师》中尤为明显，奥古斯丁在其中论证只有上帝才能教导我们。当然，其他人可以告诉我们事情，并通过这种方式向我们传达思想。我们可以相信别人告诉我们的事情：事实上，如果我们不经常接受别人告诉我们的事情，我们的生活将变得贫乏。但所有这些都停留在纯粹信仰的层面。除非我们用我们的头脑领悟我们所听到的真理，否则这不是知识：
+
+> 当我说出真理时，我并不教导那些看到这些真理的人。因为他们不是通过我的言辞而是通过上帝启示时内在显现的事物来接受教导（12.40）。
+
+发言者在这个过程中的角色并不无关紧要。我的话让听众得到一个他们可以根据神圣光照来验证的想法。光照是让我们从仅仅是真实信念到知识的关键。光照提供了理由。
+
+这种观点在先验知识或纯粹推理的情况下最具吸引力，在这种情况下，我们仅通过头脑就能理解一个论证的有效性或一个结论的必然性。但在奥古斯丁的思想中还有另一种思路，它着重于头脑超越不可信赖的感官，把握超越纯粹表象的真理的能力。以下段落在这方面经常被引用：
+
+> 一切身体感官所获得的，也就是所谓的可感知的，是不断变化的……但是不恒定的东西是无法被感知的；因为只有那些被知识理解的东西才能被感知。但是不断变化的东西是无法被理解的。因此，我们不应该期望从身体感官中获得纯粹的真理（《八十三种不同问题》，第 9 题）。
+
+这一论证一举排除了物质世界作为纯粹真理的对象，并排除了感官作为真理的来源。因此，我们必须依赖心灵来获得真理，而那个真理必须是超越感性世界的某种东西。显然，心灵不能依赖感官。那还有什么呢？我们被邀请得出的结论是，心灵必须依赖于神。
+
+有人可能会尝试将这种思路与奥古斯丁在心中必然的先验真理中所考虑的那些段落相结合。但更自然的做法是以一种不同的方式来理解，即作为心灵如何超越感性数据以把握事物的真实本质的描述。因此，在中世纪后期，神圣光照论的理论将被用于两种非常不同的工作：作为先验知识的描述，以及作为概念形成的描述。每种描述都引发了自己一系列问题。以第一种方式理解，神圣光照论必须与心灵自然能够把握这种真理的主张相竞争。以第二种方式理解，关于概念知识的本质立即引发了问题。本质（或一般性质）是否存在于物理世界中？它们只存在于神的心灵中吗？感官在概念形成过程中是否起任何作用？后来的中世纪哲学家将以有趣的不同方式处理这些问题。
+
+## 十三世纪的方济各会士
+
+奥古斯丁的立场在中世纪大部分时间内仍然在基督教哲学家中占主导地位。13 世纪的方济各会士，由博纳文图拉（约 1217–1274 年）和阿奎斯帕尔塔的马修（约 1237–1302 年）等人领导，对这一理论进行了详细和系统的辩护，重点关注人类思维和感官世界的多变性和不确定性（参见 Marrone 2001）。博纳文图拉特征性地辩称， 奥古斯丁的立场在中世纪大部分时间内仍然在基督教哲学家中占主导地位。13 世纪的方济各会士，由博纳文图拉（约 1217–1274 年）和阿奎斯帕尔塔的马修（约 1237–1302 年）等人领导，对这一理论进行了详细和系统的辩护，重点关注人类思维和感官世界的多变性和不确定性（见 Marrone 2001）。博纳文图拉特征性地辩称，
+
+> 事物在心灵中存在，在它们自身的本质中（proprio genere），以及在永恒的艺术中。因此，事物的真相，无论是在心灵中还是在它们自身的本质中 — 鉴于两者都是可变的 — 只有当灵魂以某种方式达到事物在永恒的艺术中的状态时，灵魂才能获得确定的知识（De scientia Christi, q.4 resp.）。
+
+神圣光照论需要坚定不移的确定性。由于这种确定性只能在神圣的心灵中找到，并且我们只能通过启示来接触神圣的心灵，所以确定的知识需要启示。
+
+这种论证方式在 13 世纪的发展过程中变得越来越过时。亚里士多德认知理论的日益影响，特别是由多明我会士阿尔伯特大师（约 1200-1280 年）及其学生托马斯·阿奎那（约 1225-1274 年）发展而成的理论，提供了一个令人印象深刻的图景，展示了人类如何能够在心灵和物质的多变性之中获得确定的知识。这些发展被许多方济各会士视为对基督教的背叛。约翰·佩钦（约 1225-1292 年）在一封写于 1285 年的信中写道
+
+> 我绝不反对哲学研究，只要它们服务于神学奥秘，但我反对在过去二十年里引入神学深处的不敬新潮语言，这种语言违背了哲学真理，损害了被轻视和公开蔑视的祖先的立场。
+
+继续，佩钦批评了神圣光照论
+
+> Augustine teaches concerning the eternal rules and the unchangeable light…. (quoted in Gilson 1955, p.359).
+
+罗杰·马斯顿（约 1235-1303 年）在大约同一时间写道，那些“沉醉于哲学的琼浆之美……将奥古斯丁关于不变之光和永恒规则的权威文本扭曲为符合自己意愿的”（《灵魂问题争议三十篇》）。
+
+马斯顿的观点特别有趣，因为他提出了奥古斯丁和亚里士多德的综合。根据他的观点，
+
+> 神圣光照论在我们的思想中提出，超越幻象或抽象的种类，有某种东西，使我们在某种程度上达到不变的真理。我相信这与永恒之光的影响没有什么不同……因为永恒之光照耀人类的思想，在其中产生某种积极的印象，从而在其中留下某种被动的印象，这是认知不变真理的形式原则（De anima 3, p.263）。
+
+与将代理智力视为多余相比，马斯顿（Marston）遵循阿弗洛迪西亚的亚历山大（Alexander of Aphrodisias）等人，将代理智力视为独立和神圣的 — 实际上，视为上帝本身。在 13 世纪早期，奥弗涅的威廉（William of Auvergne，约 1180–1249 年）实际上将代理智力与上帝等同起来（《灵魂论》7.6; 参见吉尔森（Gilson）1926–27，第 67–72 页）。这些案例说明了中世纪各种争论，即人类是否可能共享一个智力 — 这在表面上看起来荒谬 — 实际上只是关于神圣光照争议的替代表述。但在各种方法中存在微妙的差异。因此，尽管奥弗涅在很大程度上背弃了亚里士多德，马斯顿更具包容性。除了神圣的代理智力外，他允许每个人拥有自己的代理智力。
+
+根据马斯顿的说法，亚里士多德和奥古斯丁最终完全和谐：每个人都使用自己的术语来捍卫神圣光照论的相同理论（《灵魂论》3，第 258 页）。埃蒂安·吉尔森（1933）将马斯顿的立场描述为阿维森纳的奥古斯丁主义（Augustinisme avicennisant）。但这个标签对阿奎那的观点持有偏见：它假设马斯顿被伊斯兰对亚里士多德的错误阅读所诱惑，并排除了奥古斯丁和亚里士多德可能比通常允许的更有共同之处的可能性。
+
+彼得·约翰·奥利维（1247/8-1298）的案例展示了启蒙理论在 1280 年代处于多么危险的位置。奥利维是一位方济各会士，他的作品最终被他自己的教团谴责，他以“警告”（cavenda）的形式提出了对奥古斯丁启蒙理论（I Sent.，q. 2）的批判。他指出，这一理论在实际启蒙过程方面常常非常模糊。在列举捍卫该理论的各种可能过程时，奥利维似乎排除了每一种。永恒的理由不能清晰明确地代表事物，因为那样的话我们就不需要任何感官输入。但如果永恒的理由只给我们提供一般和模糊的信息，那么在何种一般程度上？它是否向我们提供有关种类还是属的信息？如果神圣的启蒙在任何层面上都是有效的，为什么我们似乎需要感官来获得所有的概念？奥利维的问题和警告不断。但在为任何捍卫神圣启蒙的人铺设了整个这种雷区之后——在 ad 6 处，他拒绝了由博纳文图拉提出的上述奥古斯丁论证——他仍然得出了令人惊讶的结论，即他接受了这一理论。
+
+> 这些事情，由于我不知道如何完全分析它们，我只是提出警告。因为尽管所陈述的立场本身是庄严而明智的，但对于那些没有受到仔细监督的人来说，它可能是非常危险的。因此，我保持所陈述的立场如此，因为它属于那些非常庄严的人。然而，我将以上述的阐述留给他们的智慧（q. 2, pp. 512–13）。
+
+这是奥利维（Olivi）的一个喜欢的策略：激烈批评一个理论，揭露看似毁灭性的困难，然后仍然拥抱这个理论，作为一种虔诚的尊重姿态。很难抗拒在字里行间揣测，并得出结论，神圣光照论的黄昏正在迅速临近。
+
+## 圣托马斯·阿奎那
+
+托马斯·阿奎那经常被认为是最有责任结束神圣光照论理论的人物。尽管这种观点有一定道理，但正如我们将看到的那样，更准确地将阿奎那视为这一理论的最后捍卫者之一，作为天生的亚里士多德启示论的支持者。
+
+阿奎那斯（Aquinas）从奥古斯丁（Augustinian）到亚里士多德（Aristotelian）框架的生动例证出现在他关于人性的论文《神学大全》（Summa theologiae 1a 75–89）中，他在其中考虑了奥古斯丁的主张：“纯粹的真理不应该从身体的感官中寻找”（84.6 obj. 1）。对此，阿奎那斯援引了亚里士多德的主动智力： 神圣光照论
+
+> 从奥古斯丁的这些话中，我们得知真理并非完全可以从感官中寻找。因为我们需要知识的光照，通过它我们在可变的事物中不变地认知真理，我们区分事物本身与事物的类似之处（ad 1）。
+
+这里或其他地方都不清楚，代理智力如何执行他所描述的两项任务。(如果阿奎那给我们提供了一个令人满意的解释，他将从而解决认识论的两个主要问题。) 但就目前的目的而言，足以注意到阿奎那似乎用亚里士多德的代理智力取代了奥古斯丁的启示。因此，传统的评判是，阿奎那用亚里士多德取代了奥古斯丁，并用抽象取代了启示。
+
+在这个故事中还有更多内容。在紧接着的文章中，阿奎那明确讨论了奥古斯丁的神圣光照论，并得出肯定结论：“知性灵魂确实认识了永恒理由中的一切真理”（84.5sc）。通常这一肯定性结论被视为对奥古斯丁权威的敷衍，并且整篇文章被视为对光照理论的间接否定：在形式上肯定该理论，但在实质上否定它。这是一种误解。阿奎那在奥古斯丁的理论中看到了重要之处，值得保存。
+
+圣托马斯否定了神圣启示的某些概念。他否认人类在这个生活中将神圣理念作为认知对象。他否认神圣启示本身是足够的，没有感官。这两种说法都不具争议性。圣托马斯进一步否认的是，也是有争议的，即声称智力运作需要特殊持续的神圣影响。圣托马斯反而认为，人类自身拥有足够的思考能力，无需任何“新的启示添加到他们的自然启示之上”（神学大全 1a2ae 109.1c）。从一个角度来看，这在圣托马斯和他的方济各派同时代人之间产生了重要的差异。但从另一个角度来看，这种差异似乎微不足道，因为圣托马斯并没有将上帝从图景中移除。以下是他对启示理论的认可表达方式：
+
+> 人类灵魂认知一切事物是必要的，通过参与永恒的理由，我们认知一切事物。因为存在于我们内心的智慧之光实际上不过是未受造之光的某种相似，通过参与获得，在其中包含着永恒的理由。因此，如诗篇 4 所说，许多人说，谁能向我们显出美事？对于这个问题，诗篇作家回答说，主啊，你脸上的光印在我们身上。这就好像是说，通过神圣光的印记在我们身上，一切事物都向我们展示出来（神圣光照论 1a 84.5c）。
+
+有些诱惑将这一切简单地视为阿奎那更一般观点的表达，即上帝是万物的第一原因。例如，他写道，
+
+> 所有活跃的创造力之所以运作，是因为它们受造物的指引和驱动。因此，在对真理的所有认知中，人类心灵需要神圣的运作。但在自然认知的情况下，它并不需要任何新的光，只需要神圣的运动和指引（In de trinitate pro. 1.1c）。
+
+在这里，智力对于启示的需求似乎并无特殊之处。智力，如同自然界一切，需要上帝作为其第一动因。如果你愿意，可以将这视为神圣光照论。但从这个角度来看，这个理论为何会引起争议就不足为奇了。在他的方济各会同时代人坚持上帝在人类认知中扮演特殊角色的同时，阿奎那似乎在他的神论允许的范围内朝着相反方向迈进。
+
+但是，这类最后一种情况的段落是误导性的，因为阿奎那确实认为人类认知中有一些特别神秘的东西，并且他诉诸于上帝来解决这个谜团。在阿奎那看来，知识主体解释了我们理解自明真理的能力。我们对第一原则的真理有直接和直观的理解，比如矛盾原则（见例如《异教徒之对》II.83.1678）。我们不推断这个原则的真理，也不通过归纳发现它是真实的。相反，我们只是看到它的真理，一旦我们面对适用的情况，我们就能立刻看到它的真理。这不是与生俱来的知识；我们并不是生来就知道这些原则。我们生来具有的是一种能力，即一旦我们面对这些原则的实例，就能认识到它们的真理。这些最初的自然概念是“随后认知的一切事物的种子”（《真理论》11.1 ad 5）。在这个意义上，阿奎那甚至愿意谈论灵魂对它所知道的一切事物具有先验知识：
+
+> 灵魂在自身中形成事物的类似物，因为通过主体智力的光，从感知对象中抽象出的形式实际上变得可理解，以便在可能智力中接受。因此，在某种程度上，所有的知识都是在最初通过主体智力的光传授给我们的，通过一次性被主体智力的光认知的普遍概念来中介。通过这些概念，就像通过普遍原则一样，我们对其他事物做出判断，在这些普遍概念中，我们对那些其他事物有先验认知。在这种联系中，认为我们学到的东西，我们已经有了知识的观点是正确的（《论真理》10.6c）。
+
+由于我们所知道的一切都可以追溯到这些基本原则，因此在某种意义上，我们学到的一切我们已经知道了。通过智者之光认识到某些基本真理的先天把握起着至关重要的基础作用。
+
+神圣光照论自然地赋予我们——“一种通过参与获得的未创造之光的某种类似”（1a 84.5c）。没有借助上帝，阿奎那认为我们无法解释我们如何认识到第一原则的真理。既非演绎推理也非归纳推理能够解释我们如何立即看到这些原则为真。因此，这种洞察力只是我们所获得的一种东西。
+
+> 这种理性之光，使我们认识这种原则，是由上帝赋予我们的。它就像未受造之真理在我们内部反映的样子。因此，由于没有人类教导能够有效，除非凭借那光，很明显，只有上帝内在并主要地教导我们（《真理论》11.1c）。
+
+神圣光照论，神圣理念的类似，是一切知识的基本起点。
+
+阿奎那同意他的方济各派同时代人认为，智力认知如果没有某种超自然注入的洞察力就是不完整的。唯一的区别在于，阿奎那希望那种洞察力一次性全部给予，从一开始——被封存在代理智力之中，我们可以这样想。相比之下，他的对手认为启示是一个持续的过程，像我们呼吸空气一样必要。很容易看出，在当时，这种差异可能看起来很重要。但从我们现在的角度来看，这些差异似乎相当微小：他们似乎只是在争论传递的方式。阿奎那将启示构想为我们内心深处的一口井，而方济各派则将其构想为雨点般降落。（这是 Pasnau 2002 年第 10 章中的记述摘要。）
+
+## 亨利·甘特
+
+尽管托马斯·阿奎那在某种意义上捍卫了神圣光照论的一个版本，但在另一方面，他明显削弱了这一理论，将其视为一种与持续赞助不同的天赋。在他的认知理论中为智力代理人赋予中心地位，阿奎那对神圣光照的空间较小。随着 13 世纪的发展，哲学家和神学家越来越愿意做出这种权衡。虽然亚里士多德的认知理论日益兴盛，奥古斯丁的神圣光照理论却日益衰落。结合这两者似乎在埃蒂安·吉尔森（1930）的话中是“无益的，甚至在某种意义上是矛盾的”。
+
+亨利·甘特（c.1217–1293）在阿奎那去世后的几年里，承担了这个看似矛盾的任务。当彼得·约翰·奥利维表示他会接受启示论这一理论，因为它“属于非常尊敬的人”（见第 4 节），他可能会想到亨利·甘特等人，后者确实被称为“庄严博士”（Doctor solemnis）。甘特既不是多明我会修士，也不是方济会修士，而是巴黎大学的所谓“世俗”大师。他的项目是在捍卫亚里士多德的认知理论的同时，恢复传统奥古斯丁式的神圣启示。对于像阿奎那这样主张人类认知能力自给自足的人，甘特回答道，
+
+> 这对自然事物而言是真实的，关于了解事物的真相……然而，纯粹的真理，或者任何必须以超自然方式认知的真理，甚至任何真理，都不能在没有上帝亲自进行教导的情况下被认知（《神圣光照论》1.7 ad 1）。
+
+根特的术语中，了解一件事实际情况就是简单地对其有一个真实的印象：将一件事物表现为其本来的样子。相比之下，把握一件事物的真相意味着把握其本质。只有这种后者的认知才算得上是严格意义上的知识，因为只有在这里我们才能接触到物质世界的不变现实。
+
+> 神圣光照论。
+
+神圣光照论是必要的，对于这种知识。
+
+根特的论点与奥古斯丁及其方济各会追随者的观点有趣地不同。他们认为物质世界变化太快，不适合作为人类知识的对象，而根特认为，只要我们能够把握事物的真正本质，就可以对物质世界获得纯粹的真理和确定的知识。由于我们无法独自做到这一点，我们需要神圣的光照超越感官表象，对现实的本质有真正的洞察。在最基本的层面上，根特提出了对作用智力的批判。尽管他接受了作用智力的教义，但他拒绝赋予那种能力像阿奎那和其他中世纪亚里士多德主义者那样的效力。不足为奇，根特提议恢复早期十三世纪将上帝自己称为某种作用智力的传统（Quodlibet 9.15）。根特将合成奥古斯丁和亚里士多德的方式在于确定亚里士多德的那些不完整的方面，并用必要的奥古斯丁式的启示来补充它们。 （这是对 Pasnau 1995 中的描述的摘要。现在可以从 Roland Teske 的翻译中获得亨利关于知识可能性的重要初始文章的全部内容。）
+
+## 约翰·邓斯·斯科特斯
+
+这是方济各会士约翰·邓斯·斯科特斯，比任何人都更终结了神圣光照论。正如史蒂文·马罗尼（2001）详细展示的那样，在十三世纪末，有各种作者准备拒绝光照论。事实上，根特本人在晚年对光照论的关注越来越少。然而，正是斯科特斯提出了最令人印象深刻和广泛的光照论哲学替代方案。（正如约翰·博勒在通信中所说，“就像尼克松访华一样，这可能只有方济各会士才能做到。”）斯科特斯详细批评了根特的论点（《Ordinatio》I.3.1.4），反驳了根特自己的论据，反对据称放弃神圣光照将带来的怀疑后果，以及反对这种光照本身的可行性。关于最后一点，斯科特斯认为，如果人类认知像根特所说的那样是可疑的，那么外部的光照在原则上也无法确保“确定和纯净的知识”。根特认为，人类心智与神圣之光合作实现这种知识。斯科特斯回答道：
+
+> 当其中一个相互结合的要素与确定性不相容时，确定性就无法实现。正如从一个必然的前提和一个偶然的前提中不会得出除了偶然结论之外的任何结论一样，所以从某种认知中相互结合的确定要素和不确定要素，不会得出任何确定的认知（Ordinatio I.3.1.4 n. 221）。
+
+如果系统的一部分是可犯错误的，那么这种可犯错误性会影响整体的过程。斯科鲁斯（Scotus）令人震惊地声称，如果人类的思维本质上无法获得某种知识，那么即使神圣光照论也无法拯救它。
+
+苏格斯本人认为，人类心智能够凭借自身获得这种知识。如果根特所指的“确定和纯净的真理”意味着“无误真理，没有怀疑和欺骗”，那么苏格斯认为他已经证明人类“可以通过纯粹自然的手段实现这一点”（Ord. I.3.1.4 n. 258）。这样的事情如何能够被证实？如何能够驳斥怀疑论者，而不诉诸神圣光照？苏格斯区分了四种知识：
+
+* 神圣光照论 (principia per se nota)
+* 经验归纳（cognita per experientiam）
+* 神圣光照论 (cognoscibilia de actibus nostris)
+* 感官 (ea quae subsunt actibus sensus)
+
+一般策略是表明感性知识基于归纳知识，归纳知识基于自明知识，并且内省知识可以被辩护为类似于自明知识。斯科鸠的隐含目的是尽可能多地将重量转移到自明知识的宽广肩膀上。
+
+斯科鄧認為，不證自明是其他知識的基石，因此他並不試圖找到更基本的真理。相反，他認為我們的不證自明知識是無懈可擊的，因為某些心理事實。當人考慮一個命題，比如每個整體都大於其部分時，人立即理解到詞語之間的關係是這樣的，以至於這個命題必須是真實的。
+
+> 在智力中，如果没有那种构成符合术语的构成的认识，那么这些术语或构成就不可能被理解（quin stet conformitas），就像两个白色的事物不能在没有它们的相似之处出现的情况下出现（Ord. I.3.1.4 n. 230）。
+
+神圣光照论 当我们看到两个白色物体时，我们立即领会，“毫无疑问和欺骗”，它们彼此的相似性。同样，当我们在心中领会一个不证自明的真理时，我们立即领会它的真理。当然，如果我们不理解术语的含义，我们就不会领会命题的真理，但在这种情况下，我们在心中并没有真正形成这个命题。与识别相似性的类似情况相反，在这里没有感官错误的余地。感官帮助我们获得某些概念，但一旦我们掌握了这些概念，感官就退出了舞台——感官的可靠性变得无关紧要。斯科鄙斯提供了一个例子，一个盲人在梦中奇迹般地看到黑色和白色的图像。一旦他掌握了这些概念，他可以像任何人一样真实和绝对地认识到——尽管他是盲人——白色不是黑色（Ord. I.3.1.4 n. 234）。
+
+斯科鄧不願完全放棄奧古斯丁的啟示，因此他闡明了人類智力在神聖光照中看到不可錯誤真理的四種意義。在每一個意義上，神聖光照的作用不是作用在我們身上，而是作用在我們理解的對象上。通過賦予對象它們的可理解性（esse intelligibile），神聖智力“是次要地使得對象實際上移動智力的原因”（Ord. I.3.1.4 n. 267）。當人類心智把握一個不證自明的真理時，這是因為心智立即且不可錯誤地這樣做，並不是因為心智接受了任何特殊的啟示，而是因為命題的術語本身是可理解的：我們對一個命題的把握“似乎必然地來自於術語的特性，這些特性是來自於神聖智力使得這些術語自然地具有可理解的存在”（Ord. I.3.1.4 n. 268）。我們並非被神聖光照，而是我們所把握的真理被照亮。
+
+这标志着哲学史上的一个转折点，是自然主义作为认知理论研究策略的首次重大胜利。根据斯科鲁斯的说法，当我们领悟某些概念真理时，我们内在并没有发生任何奇迹或神圣的事情：“一旦理解并组合了这些术语，它们自然适合（sunt nati naturaliter）引起对构成的一致性的意识”（Ord. I.3.1.4 n. 269）。当然，是上帝赋予了世界其可理解性，正如是上帝创造了我们的认知能力。但斯科鲁斯新颖之处在于他认为心灵并非特例。从这一点开始，神圣光照很少被视为一个严肃的哲学可能性。
+
+## 结语
+
+苏格拉底所带来的意义很容易被忽视：部分是因为现在看来似乎是如此必然的，部分是因为苏格拉底出现在朝向自然主义逐渐发展的最后阶段，部分是因为直到最近人们普遍认为在亚里士多德和笛卡尔之间并没有发生什么重要的哲学事件。然而，如果我们看待我们对心灵的哲学/科学理解的整体发展，那么很明显在十三世纪末发生了重要的事情。
+
+尽管不应过分夸大斯科鲁斯的影响力。虽然所谓的神圣光照论不再有许多杰出的支持者，但对认知现象的超自然解释倾向将一直延续至文艺复兴之后。以著名的笛卡尔为例，他可以谈到“我们灵魂中自然存在的某些真理种子”（《方法论演讲》6，AT VI:64），以及“由自然植入智力的观念”（《哲学原理》2.3）。在细节上，这种观点与阿奎那的观点惊人地相似：笛卡尔将这些观念确定为我们对第一原理的认识基础；他认为这些观念本身仅在感官印象的作用下形成；他将上帝确定为这些观念的最终源泉。此外，如果笛卡尔是在现代服装中扮演阿奎那的角色，那么作为亨利·甘特，我们可以将马勒布朗奇视为阿奎那的继承者，他认为“我们所有的观念必须位于唯一能够影响智力的神圣实体中，因为只有它能够影响智力”（《寻求真理》第 232 页）。马勒布朗奇引用奥古斯丁的支持，他的非凡观点是我们所有的观念都在上帝中得以显现。这又是一次光照论。但到了十七世纪，哲学背景发生了如此巨大的变化，以至于这些现代发展必须被视为一个不同的主题。
+
+## Bibliography
+
+### Primary Literature
+
+* Apuleius, *De deo Socratis*, in J. Beaujeu (ed.) *Opuscules Philosophiques et Fragments*, Paris: Société d’Édition “Les Belles Lettres”, 1973.
+* Aristotle, *De anima*, tr. C. Shields, Oxford: Clarendon Press, 2016.
+* Augustine, *Eighty-three different questions*, tr. D.L. Mosher, Washington, D.C.: Catholic University of America Press, 1982.
+* –––, *Confessions*, tr. T. Williams, Indianapolis: Hackett, 2019.
+* –––, *Against the Academicians and The Teacher* [=*De magistro*], tr. P. King, Indianapolis: Hackett, 1995.
+* Bonaventure, *Disputed Questions on the Knowledge of Christ* [=*De scientia Christi*], tr. Z. Hayes, St. Bonaventure: Franciscan Institute Press, 1992.
+* –––, *Christ Our One Teacher*, in Pasnau 2002, 79–92.
+* Descartes, René, *The Philosophical Writings of Descartes*, tr. John Cottingham, Robert Stoothoff, and Dugald Murdach, Cambridge: Cambridge University Press, 1984.
+* Henry of Ghent, *Quodlibeta*, in *Henrici de Gandavo Opera Omnia*, Leiden: Brill, 1979–.
+* –––, *Summa of Ordinary Questions: Article One. On the Possibility of Knowing*, tr. R. J. Teske, South Bend, IN: St. Augustine’s Press, 2008.
+* –––, *Summa quaestionum ordinariarum*, in *Henrici de Gandavo Opera Omnia*, Leiden: Brill, 1979–. (Relevant portions are translated in Pasnau 2002, 93–135.)
+* John Duns Scotus *Ordinatio* I.3.1.4, in Allan Wolter (tr.), *Philosophical Writings*, Indianapolis: Hackett, 1987.
+* Malebranche, Nicolas, *The Search after Truth*, tr. T. Lennon and P. Olscamp, Cambridge: Cambridge University Press, 1997.
+* Matthew of Aquasparta, *Quaestiones de fide et de cognitione* q.2, in R. McKeon (tr.), *Selections from Medieval Philosophers Vol.II: From Roger Bacon to William of Ockham*, New York: Scribners, 1930.
+* Pasnau, Robert, *Cambridge Translations of Medieval Philosophical Texts* (Volume 3: *Mind and Knowledge*), Cambridge: Cambridge University Press, 2002.
+* Peter John Olivi, *Quaestiones in primum librum Sententiarum*, in *Quaestiones in secundum librum Sententiarum* (Volume 3, Appendix), Quaracchi: Collegium S. Bonaventurae, 1926.
+* Plato, *Complete Works*, ed. J. M. Cooper, Indianapolis: Hackett, 1997.
+* Roger Marston, *Quaestiones disputatae*, Florence: Collegium S. Bonaventurae, 1932.
+* Thomas Aquinas, *Summa contra gentiles*, tr. A. C. Pegis *et al*., Notre Dame, IN: University of Notre Dame Press, 1975.
+* –––, *Summa theologiae* tr. L. Shapcote, New York: Benzinger, 1947–48.
+* –––, *Truth* [=*De veritate*], tr. R. W. Mulligan, *et al*., Chicago: Henry Regnery, 1954.
+* –––, *Faith, reason and theology* [= *In de trinitate* 1–4], tr. A. Maurer, Toronto: Pontifical Institute, 1987.
+* William of Auvergne, *The Soul*, tr. R. J. Teske, Milwaukee: Marquette University Press, 2000.
+
+### Secondary Literature
+
+* Bealer, George, 2000. “A Theory of the A Priori,” *Pacific Philosophical Quarterly*, 81: 1–30.
+* Bonjour, Laurence, 1998. *In Defense of Pure Reason*, Cambridge: Cambridge University Press.
+* Brentano, Franz, 1992. “Nous Poiêtikos: Survey of Earlier Interpretations,” in M. Nussbaum and A. Rorty (eds.) *Essays on Aristotle’s De Anima*, Oxford: Clarendon Press, pp. 313–41.
+* Connolly, Patrick J., 2015. “Henry of Ghent’s Argument for Divine Illumination Reconsidered,” *American Catholic Philosophical Quarterly*, 89: 47–68.
+* Destrée, Pierre and Nicholas D. Smith (eds.), 2005. *Socrates’ Divine Sign: Religion, Practice and Value in Socratic Philosophy*, Kelowna, BC: Academic Printing and Publishing.
+* Gilson, Étienne, 1926–27. “Pourquoi Saint Thomas a critiqué Saint Augustin,” *Archives D’Histoire Doctrinale et Littéraire du Moyen Age*, 1: 5–127.
+* –––, 1930. “Réflexions sur la controverse: S. Thomas – S. Augustin” in *Mélanges Mandonnet*, Volume 1, Paris: Vrin.
+* –––, 1933. “Roger Marston: Un cas d’Augustinisme Avicennisant,” *Archives d’Histoire Doctrinale et Littéraire du Moyen Age*, 8: 37–42.
+* –––, 1955. *History of Christian Philosophy in the Middle Ages*, New York: Random House.
+* Gersh, Stephen, 1978. *From Iamblichus to Eriugena: An Investigation of the Prehistory and Evolution of the Pseudo-Dionysian Tradition*, Leiden: Brill.
+* Haldane, John, 1992. “Aquinas and the Active Intellect,” *Philosophy*, 67: 199–210.
+* Marrone, Steven, 2001. *The Light of Thy Countenance: Science and Knowledge of God in the Thirteenth Century*, Leiden: Brill.
+* Nasar, Sylvia, 1998. *A Beautiful Mind*, New York: Simon and Schuster.
+* Pasnau, Robert, 1995. “Henry of Ghent and the Twilight of Divine Illumination,” *Review of Metaphysics*, 49: 49–75.
+* –––, 2002. *Thomas Aquinas on Human Nature: A Philosophical Study of* Summa theologiae *1a 75–89*, Cambridge: Cambridge University Press.
+* Perler, Dominik, 2006. *Zweifel und Gewissheit: Skeptische Debatten im Mittelalter*, Frankfurt: Klostermann.
+* Schumacher, Lydia, 2011. *Divine Illumination: The History and Future of Augustine’s Theory of Knowledge*, Oxford: Wiley-Blackwell.
+* Van Dyke, Christina, 2009. “An Aristotelian Theory of Divine Illumination: Robert Grosseteste’s Commentary on the Posterior Analytics,” *British Journal for the History of Philosophy*, 17: 685–704.
+* Walbridge, John, 2005. “Suhrawardi and Illuminationism,” in P. Adamson and R. C. Taylor (eds.), *The Cambridge Companion to Arabic Philosophy*, Cambridge: Cambridge University Press, pp. 201–23.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=illumination). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/illumination/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=illumination&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/illumination/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Corpus Thomisticum](http://www.corpusthomisticum.org/). The best place to go for scholarly information about Thomas Aquinas.
+* [Provisionalia](https://www.colorado.edu/project/provisionalia/). An attempt at an exhaustive survey of medieval scholastic authors and their works, including information on editions and translations.
+* [Medieval Philosophy Digital Resources](http://capricorn.bc.edu/siepm/). A collection of much useful information on internet resources for medieval philosophy.
+
+## Related Entries
+
+[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | arabic-islamic-illumination | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [Duns Scotus, John](https://plato.stanford.edu/entries/duns-scotus/) | [Mulla Sadra](https://plato.stanford.edu/entries/mulla-sadra/) | [Olivi, Peter John](https://plato.stanford.edu/entries/olivi/) | [Suhrawardi](https://plato.stanford.edu/entries/suhrawardi/)
+
+### Acknowledgments
+
+This entry has benefited greatly from suggestions by Marilyn Adams, Jenny Ashworth, John Boler, Peter King, Gyula Klima, Neil Lewis, Tim Noone, Sarah Pessin, Christopher Shields, and John Wippel.
+
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
+[Robert Pasnau](http://spot.colorado.edu/~pasnau/) <[*pasnau@colorado.edu*](mailto:pasnau%40colorado%2eedu)>
