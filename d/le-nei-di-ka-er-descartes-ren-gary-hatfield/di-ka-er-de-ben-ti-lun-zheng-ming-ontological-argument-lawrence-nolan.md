@@ -1,2 +1,248 @@
 # 笛卡尔的本体论证明 ontological argument (Lawrence Nolan)
 
+*首次发表于 2001 年 6 月 18 日星期一；实质性修订于 2020 年 2 月 14 日星期五*
+
+笛卡尔的本体论（或先验）论证是他哲学中最引人入胜且最难以理解的方面之一。对该论证的迷恋源于试图从简单而强有力的前提证明上帝的存在。存在立即源于一个至高无上完美存在的清晰而明确的概念。讽刺的是，这个论证的简单性也导致了几种误读，部分原因是笛卡尔倾向于以不同的方式表述它。
+
+该论证的主要陈述出现在第五冥想中。这是在第三冥想中对上帝存在的早期因果论证之后，引发了关于这两个不同证明之间的顺序和关系的问题。笛卡尔在几个其他核心文本中重复了本体论证，包括《哲学原理》。他还在第一、第二和第五次回复中捍卫了这一论证，反驳了当时一些主要知识分子的尖锐异议。
+
+笛卡尔并不是第一个提出本体论论证的哲学家。在十一世纪，圣安瑟姆曾经坚决捍卫过一个早期版本的论证，然后被一个名叫高尼洛的修士（安瑟姆的同时代人）批评，后来又被圣托马斯·阿奎那批评。阿奎那的批评被认为是如此毁灭性，以至于本体论论证在几个世纪内消失了。因此，笛卡尔的同时代人们对他试图复兴这个论证感到惊讶。尽管他声称不熟悉安瑟姆的证明版本，但笛卡尔似乎设计了自己的论证，以阻止传统的反驳。
+
+尽管有相似之处，笛卡尔的论证版本与安瑟姆的版本在重要方面存在差异。后者的版本被认为是从“上帝”一词的含义出发，根据定义，上帝是一个无法想象的更伟大的存在。相比之下，笛卡尔的论证基于他哲学的两个核心原则——先天观念理论和清晰明确感知的教义。他声称依赖的不是上帝的任意定义，而是一个内容“给定”的先天观念。笛卡尔的版本也非常简单。上帝的存在直接推断自一个至高无上完美存在的清晰明确观念中包含的必然存在。事实上，在某些场合，他暗示所谓的本体论“论证”根本不是一个形式证明，而是一个被没有哲学偏见的心智直观地把握的不证自明的公理。
+
+笛卡尔经常将本体论论证比作几何证明，认为必然存在不能从上帝的概念中排除，就像一个三角形的角度等于两个直角的事实不能从三角形的概念中排除一样。这个类比再次强调了论证的极度简单性。上帝的存在被声称是如同最基本的数学真理一样显而易见和不证自明的。它还试图展示这个“逻辑”是根植于我们日常推理实践中的。
+
+在相同的背景下，笛卡尔还将本体论证描述为从上帝的“本质”或“性质”出发的证明，主张无法将必然存在与至高无上的存在者的本质分离而不产生矛盾。通过以这些术语来表述论证，他暗示地依赖于传统的中世纪区分一物的本质和其存在之间的区别。根据这一传统，人们可以独立于是否存在的情况下确定某物是什么（即其本质）。一些人认为，这种区别对于笛卡尔的目的是有用的，因为它使他能够在不涉及上帝存在问题的情况下指定上帝的本质。
+
+* [1. “论证”的简洁性](https://plato.stanford.edu/entries/descartes-ontological/#SimpArgu)
+* [2. 本质与存在之间的区别](https://plato.stanford.edu/entries/descartes-ontological/#DistBetwEsseExis)
+* [3. 反对和回复](https://plato.stanford.edu/entries/descartes-ontological/#ObjeRepl)
+* [ 参考文献](https://plato.stanford.edu/entries/descartes-ontological/#Bib)
+
+  * [ 主要文本](https://plato.stanford.edu/entries/descartes-ontological/#PrimText)
+  * [ 二次文本](https://plato.stanford.edu/entries/descartes-ontological/#SecoText)
+* [ 学术工具](https://plato.stanford.edu/entries/descartes-ontological/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/descartes-ontological/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/descartes-ontological/#Rel)
+
+---
+
+## 1. “论证”的简洁性
+
+笛卡尔本体论论证的一个显著特点就是其简洁性。事实上，它更像是一种直觉的报告，而不是一个正式的证明。笛卡尔通过将其演示与我们通常在算术和几何中建立非常基本的真理的方式进行比较，如数字二是偶数或三角形的角的和等于两个直角的和，强调了他的演示的简单性。我们通过检查我们对数字二和三角形的清晰而明确的概念直接直觉这样的真理。同样地，我们能够简单地通过理解必然存在包含在至高无上完美存在的清晰而明确的概念中来获得对上帝存在的知识。正如笛卡尔在第五冥想中写道：
+
+> [1] 但是，如果仅仅因为我能够从我的思想中产生某个事物的概念，就意味着我清楚明了地感知到属于该事物的一切，那么这难道不是另一个证明上帝存在的可能依据吗？当然，上帝的概念，或者说是至高无上的完美存在，就像任何形状或数字的概念一样，我在自己内心中找到了。而且，我对他永远存在是属于他的本质的理解，与我证明任何形状或数字的某个属性属于它的本质时一样清楚明了（AT 7:65; CSM 2:45）。
+
+人们很容易被本体论证和几何证明之间的类比所误导，并被这段话和其他类似的语言中的“证明”一词所迷惑。笛卡尔并不将本体论证构想成欧几里得或公理证明的模型，其中定理是从认识上优先的公理和定义中推导出来的。相反，他引起了我们对另一种建立真理的方法的注意，这种方法贯穿我们的日常实践，是非言语的。这种方法使用直觉或者说是笛卡尔所说的清楚明了的感知。它包括揭示我们清楚明了的概念的内容。这种方法的基础是真理的规则，这个规则在第四冥想中已经建立。根据第五冥想中引用的这个规则的版本，我清楚明了地感知到某个事物的概念中包含的任何东西都是属于那个事物的真理。所以，如果我清楚明了地感知到必然存在属于至高无上的完美存在的概念中，那么这样一个存在真实存在。
+
+尽管笛卡尔坚持上帝的存在最终是通过直觉来认识的，但他并不排斥提出形式化版本的本体论证。他从不忘记自己是为 17 世纪的读者写作的，这些读者深受斯科拉哲学逻辑的影响，他们希望在亚里士多德的三段论的层面上进行讨论。笛卡尔满足了这种期望，提出了至少两个独立的本体论证版本。然而，这些证明非常简短，暴露了他真正的意图。其中一个版本的论证仅仅将人们直觉上帝存在的心理过程进行了编码，就像上面描述的那样：
+
+> 版本 A：
+>
+> 1. 无论我清楚而明确地感知到某个事物的思想中包含的内容，都是关于那个事物的真实的。
+> 2. 我清楚而明确地感知到必然存在包含在上帝的思想中。
+> 3. 因此，上帝存在。
+
+真理的规则以第一个前提的形式出现在这里，但更自然地可以理解为笛卡尔自己的通过清晰而明确的感知或直觉进行“证明”的替代方法的陈述。实际上，第一个“前提”旨在指导冥想者如何应用这种方法，与几何证明的类比在[1]处发挥的作用相同。
+
+在《第一回应》中提出这个论证的版本时，笛卡尔将这个第一个前提放在一边，将我们的注意力集中在第二个前提上。这样做，他表明了证明本身的相对不重要性。一旦学会了如何应用笛卡尔的替代推理方法，只需感知到必然存在与至高无上的存在的概念相关。一旦达到这种感知，就不再需要形式上的论证；上帝的存在将是不言自明的（《第二回应》，第五条陈述；AT 7:163–4；CSM 2:115）。
+
+笛卡尔有时使用传统的论证作为启发性工具，不仅仅是为了迎合受过学院派训练的观众，而是为了帮助引发清晰和明确的感知。例如，在与他的名字常常联系在一起的本体论论证的版本中，这一点是显而易见的：
+
+> B 版本：
+>
+> 1. 我有一个至高无上完美存在的概念，即一个具有所有完美的存在。
+> 2. 必然存在是一种完美。
+> 3. 因此，存在着一个至高无上的完美存在。
+
+虽然这组句子具有形式上的论证结构，但其说服力在于不同的层面。一个在感知到必然存在包含在至高无上完美存在的概念中遇到困难的冥想者可以通过间接地首先认识到这个概念包含了每一种完美来获得这种感知。确实，至高无上完美存在的概念就是拥有所有完美的存在的概念。试图从至高无上存在的概念中排除任何或所有完美，笛卡尔观察到，会导致矛盾，并类似于构想一个没有山谷的山（或者更好地说，一个没有下坡的上坡）。形成了这种感知后，只需直觉地认识到必然存在本身就是一种完美。然后就会清楚，必然存在是包含在至高无上完美存在的概念中的属性之一。
+
+虽然这些考虑可能足以在冥想者中引起必要的清晰和明确的感知，但笛卡尔的目标更深层次，即必要存在与其他神圣完美之间存在概念上的联系。重要的是要记住，在第三冥想中，在对上帝存在的因果论证中，冥想者已经发现了许多这些完美特质-全能、全知、不变性、永恒性、简单性等。因为我们的思维是有限的，我们通常将神圣的完美特质分开思考，“因此可能不会立即注意到它们被结合在一起的必要性”（第一回答，AT 7:119; CSM 2:85）。但是，如果我们仔细关注“至于至高无上的存在是否属于一种完美的存在，以及它是什么样的存在”，我们将发现在排除必要存在的情况下，我们无法构想出其他任何一个属性（同上）。
+
+为了说明这一点，笛卡尔引用了神圣全能。他认为我们无法将全能的存在构想为不存在。笛卡尔的例证预设了传统的中世纪对“必要存在”的理解。在谈到这一神性属性时，他有时使用“存在”一词作为简写。但在他更仔细的表述中，他总是坚持使用“必要和永恒的存在”这个短语，这与传统相呼应。中世纪的哲学家经常将上帝称为唯一的“必要存在者”，他们指的是一个只依赖自己存在的存在。这就是“自性存在”或自我存在（a se esse）的概念。由于这样的存在不依赖于其他任何事物的存在，他既没有开始也没有结束，而是永恒存在。回到第一回答的讨论中，人们可以看到全能与传统意义上的必要存在在概念上是如何联系在一起的。一个全能或全能的存在不在本体上依赖于任何事物（因为如果它依赖于其他事物，那么它就不是全能的）。它凭借自己的力量存在：
+
+> 当我们注意到这个存在的巨大力量时，我们将无法将其存在视为可能而不同时承认它可以凭借自己的力量存在；我们将从中推断出这个存在确实存在，并且从永恒以来一直存在，因为根据自然之光，能够凭借自己的力量存在的东西总是存在的。因此，我们将逐渐理解必要存在包含在至高无上的存在的概念中....（同上）
+
+一些读者认为笛卡尔在这段文字中提供了本体论论证的第三个版本（威尔逊，1978 年，174-76），但无论他的意图是什么，都不重要，因为他的主要目的，正如最后一行所示，是让他的冥想者直观地感知到必然存在包含在上帝的概念中。由于神性属性之间存在概念上的联系，对其中一个的清晰而明确的感知为其他任何属性提供了认知路径。
+
+尽管笛卡尔有时使用形式化的本体论论证来实现他的目标，但他始终肯定上帝的存在最终是通过清晰而明确的感知来知道的。论证的形式化版本只是启发性的工具，在获得对至高无上的存在的必要直觉后可以抛弃。笛卡尔在第五冥想中明确强调了这一点，在上述考虑的两个版本的论证之后立即提出：
+
+> [3] 无论我使用什么证明方法，我总是回到一个事实，那就是只有我清晰而明确地感知到的东西才能完全使我信服。我清晰而明确地感知到的一些事情对每个人来说都是显而易见的，而其他一些事情只有那些更仔细地观察和调查的人才能发现；但一旦它们被发现，后者被判断为与前者一样确定。例如，在直角三角形的情况下，斜边的平方等于其他两边的平方这个事实并不像斜边是最大角的事实那样显而易见；但一旦人们看到了它，就会同样坚信它。但是关于上帝，如果我没有被哲学偏见所压倒，并且感官感知到的事物的形象没有从各个方面围攻我的思想，我肯定会比其他任何事物更早更容易地承认他的存在。因为有什么比至高无上的存在存在更明显的呢，或者说只有上帝，存在仅属于他的本质，存在？（AT 7:68-69；CSM 2:47）
+
+在这里，笛卡尔发展了他早期关于（所谓的）本体论论证和几何证明之间的类比。他提出，有些冥想者认为上帝的存在是立即显而易见的；对于他们来说，上帝的存在类似于几何学中的公理或定义，比如直角三角形的斜边对应着最大的角。但是其他思维混乱、陷入感觉形象的冥想者必须更加努力地工作，甚至可能需要一个证明来达到必要的清晰和明确的感知。对于他们来说，上帝的存在类似于毕达哥拉斯定理。重要的是，无论哪种类型的冥想者最终都通过清晰和明确地感知到必要存在包含在至高无上的存在的概念中而获得对上帝存在的知识。一旦一个人达到了这种感知，上帝的存在将是显而易见的，或者正如笛卡尔在其他地方所说的，“不言而喻的”（per se notam）（第二次回答，第五个命题；AT 7: 164；CSM 2:115）。
+
+笛卡尔的同时代人对这最后一句话会感到惊讶。在审查本体论论证的早期版本时，阿奎那否定了上帝的存在是不言而喻的这一说法，至少对于我们来说是如此。他认为，不言而喻的事物不能被否认而不产生矛盾，但上帝的存在可以被否认。事实上，谚语中说“愚人心里说‘没有上帝’”（诗篇 53.1）。
+
+当笛卡尔面对一位当代反对者的批评时，他试图找到共同点：“圣托马斯问存在是否对我们来说是不言而喻的，也就是是否对每个人都是显而易见的；他正确地回答说，不是”（第一次回答，AT 7:115；CSM 2:82）。笛卡尔解释阿奎那斯的观点是上帝的存在对每个人来说并不是不言而喻的，这是他可以同意的。笛卡尔并不认为上帝的存在是立即不言而喻的，或者对每个人都是不言而喻的，但它可以对一些仔细和勤奋的冥想者来说变得不言而喻。
+
+## 2. 本质与存在的区别
+
+在第五冥想和其他地方，笛卡尔说上帝的存在是由于存在包含在至高无上完美存在的“真实和不变的本质、性质或形式”中，就像三角形的本质决定其角度等于两个直角一样。这种先验论证的表述方式困扰了评论家，并引发了关于笛卡尔本质的本体论地位和所谓“拥有”它们的对象的激烈辩论。一些评论家认为笛卡尔承认了柏拉图式的实在论。根据这种观点，一些未能实际存在的对象仍然作为抽象的逻辑实体存在于思维之外和物理世界之外（Kenny，1968；Wilson，1978）。另一位评论家将笛卡尔的本质放在上帝中（Schmaltz，1991），而最近的两种修正主义解释（Chappell，1997；Nolan，1997）将笛卡尔解读为一位概念主义者，认为本质是人类思维中的观念。
+
+笛卡尔对“本质”的提及引发了与本体论论证更直接相关的另一个重要问题。在声称上帝的本质中无法排除必然存在时，笛卡尔借鉴了传统的中世纪本质与存在的区别。根据这种区别，人们可以在不知道某物是否存在之前说出它是什么（即其本质）。因此，例如，人们可以在不知道世界上是否有马的情况下定义马是什么-列举出其所有的本质属性。唯一例外的是被认为是上帝自己，他的本质就是存在。很容易看出，这种传统区别可以被本体论论证的辩护者利用。存在包含在至高无上完美存在的本质中，但不包含在任何有限事物的本质中。因此，仅仅由前者的本质就可以推断出这样一个存在的存在。有时，笛卡尔似乎支持这种对本体论论证的解释。例如，在《第五回答》中，他写道：“不应将三角形的存在与上帝的存在相比，因为存在与本质之间的关系在上帝的情况与三角形的情况中显然是完全不同的。上帝是他自己的存在，但三角形不是”（AT 7:383；CSM 2:263）。但是，笛卡尔的完整观点比这些言论所暗示的更为微妙和复杂。要理解这个观点，需要更仔细地研究中世纪文献中本质与存在之间的区别。尽管人们经常谈论“传统”区别，但有限事物中本质与存在之间的确切关系的性质是中世纪哲学家之间激烈辩论的主题。了解笛卡尔的立场在这场辩论中的位置将更深入地理解他对本体论论证的版本。
+
+本质与存在之间的区别可以追溯到五世纪的博伊修斯。后来，伊斯兰思想家如阿维森纳进一步发展了这个问题。但直到十三世纪，这个问题才成为一个重要的哲学问题，当时阿奎那开始研究这个问题。这个问题的出现并不是为了在先验的基础上证明上帝的存在（如上所述，阿奎那是本体论争论的最坚决的批评者之一），而是出于将上帝与有限的灵性实体（如天使）区分开的关注。像许多学院派哲学家一样，阿奎那相信上帝是完全简单的，而有限的创造物则具有复合的特性，这解释了它们的有限性和不完美性。地上的生物是物质和形式的复合体（物质形态论的教义），但由于纯粹的灵性存在是非物质的，阿奎那将它们的复合特性定位在本质与存在之间的区别上。
+
+阿奎那的理论的一些细节将在下面的讨论中逐渐浮现。然而，对于我们的目的来说，他的理论的主要兴趣在于它在他的继任者之间引发了关于如何解释大师以及关于创造物中本质与存在之间真正性质的激烈辩论。这场辩论产生了三个主要立场：
+
+1. 真实区别理论
+2. 中间立场
+3. 理性区分理论
+
+第一种观点的支持者认为本质和存在之间的区别是两个独立的事物。在许多托马斯主义者看来，这种观点被认为是相当激进的，特别是作为对阿奎那原始立场的解释。后者有时被表达为本质和存在是“存在的原则”，而不是它们自身。因此，至少在许多阿奎那追随者的支持下，真正区别理论的一个问题是它将本质和存在实体化，将它们视为除了它们组成的创造实体之外的真实存在。
+
+真实区别理论也因哲学原因被认为是不可接受的。在阿奎那斯之后，辩论中的许多参与者敦促认为本质和存在之间的关系就像潜能和行动之间的关系一样，因此可以说存在“实现”了本质。根据真实区别理论，这种观点会导致无限回归。如果一个本质只有在其他东西——即存在——被添加到它之后才能实现，那么是什么赋予存在其现实性，以此类推无穷无尽？（Wippel，1982，393f）。
+
+针对这些困难，一些斯科拉哲学家提出了与真实区别理论相对立的立场。这是一种观点，即在创造的存在中，本质和存在之间仅存在一种理性区别或“理性区别”。正如该术语所暗示的那样，这个理论认为，通过理性的手段，我们只是在思想中将一个生物的本质和存在区分开来，而在现实中它们是相同的。不用说，这个理论的支持者被迫通过其他方式将纯精神实体与上帝区分开来，而不是通过真实的组合。
+
+放弃真实组合的教义对于另一群批评真实区别理论的思想家来说似乎太过分了。这导致了许多中间立场的发展，包括邓斯·斯科特的奇特的形式区别概念以及本质和存在在模态上是不同的观点，即存在构成了事物本质的一种模式。
+
+像弗朗西斯科·苏亚雷斯一样，笛卡尔与支持本质和存在之间的理性区别的人站在一边。然而，他的立场是独特的，因为它源于一种更一般的“属性”理论。在《哲学原理》中的一个重要段落中阐述了这一理论，笛卡尔声称，在一个物质和其任何一个属性之间，或者在一个单一物质的任何两个属性之间，仅仅存在着理性区别（1:62, AT 8A:30; CSM 1:214）。对于笛卡尔来说，理性区别最重要的例子是物质与其本质之间的区别，或者他有时称之为其“主属性”（1:53, AT 8A:25; CSM 1:210）。由于思想和延展性分别构成了心灵和身体的本质，因此心灵仅仅在理性上与其思考有所区别，身体仅仅在理性上与其延展性有所区别（1:63, AT 8A:31; CSM 1:215）。但是笛卡尔坚持认为，物质的任何两个属性之间也存在理性区别。由于存在在这个技术意义上被视为一种属性，物质的本质和存在也仅仅在理性上有所区别（1:56, AT 8A:26; CSM 1:211）。笛卡尔在一封旨在阐明他对本质和存在之间关系的论述的信中重申了这个结论：
+
+> [4]…存在、持续时间、大小、数量和所有普遍性似乎并不是严格意义上的模式….它们被一个更广泛的术语所指称，并被称为属性…因为当我们在抽象地考虑一个事物时，我们确实以一种方式理解它的本质，而不考虑它是否存在，而在我们将其视为存在时，我们以另一种方式理解它；但是，如果没有它的存在，这个事物本身就不能在我们的思想之外….因此，我说形状和其他类似的模式严格来说与其模式所属的物质有所区别；但是其他属性之间有一个较小的区别….我称之为理性区别….（给一个未知的通信者，AT 4:349; CSMK 3:280）
+
+这里提供了关于如何在我们的思想中产生理性区别的指示。笛卡尔解释说，我们以不同的抽象方式看待一个事物。例如，我们可以将一个事物视为存在，或者我们可以抽象出它的存在并关注它的其他方面。这样做，我们在思想中区分了物质的存在和本质。然而，与理性区别理论的学院派支持者一样，笛卡尔也强调这种区别纯粹是概念上的。实际上，他继续解释说，在思想之外，物质的本质和存在“在任何方面都没有区别”（AT 4:350; CSMK 3:280）。在现实中，它们是相同的。
+
+尽管从学院派借鉴了很多东西，但笛卡尔的观点在适用范围上有所区别。他将理性区分的理论从创造物质扩展到上帝。一般来说，物质的本质和存在仅在理性上有所区分，因此在现实中是相同的。
+
+这个结果似乎对笛卡尔的本体论论证造成了混乱。对这个论证的最重要的反对意见之一是，如果它是有效的，人们可以为各种各样的事物，包括存在仅仅是偶然的存在的存在者，产生这样的论证。通过假设在所有事物中存在本质和存在之间仅仅是理性区分，笛卡尔似乎证实了这个反对意见。一般来说，一个物质应该被其存在所确定，无论是上帝还是有限的创造物。
+
+在这种情况下，这个反对意见的问题在于它假设笛卡尔将上帝和创造物之间的区别定位在它们各自与存在的关系上。事实并非如此。在几个重要的段落中，笛卡尔肯定存在包含在每个事物的清晰而明确的观念中，但他也坚持存在有不同的等级：
+
+> [5] 存在包含在每一件事物的概念或概念中，因为我们除了存在之外无法构想任何事物。有可能或偶然存在包含在有限事物的概念中，而必然和完美存在包含在至高无上的存在的概念中（公理 10，第二回答; AT 7:166; CSM 2:117）。
+
+根据这段和其他类似的段落，我们可以完善有理区分的理论。严格来说，人们应该说，上帝仅仅在理性上与他的必然存在有所区别，而每一个有限的被创造的事物仅仅在理性上与它的可能或偶然存在有所区别。可能或偶然存在与必然存在之间的区别，使得笛卡尔能够解释上帝与他的创造物之间的神学差异。
+
+现在，当笛卡尔说一个物质（无论是有限的还是无限的）仅仅在理性上与它的存在有所区别时，他总是指的是一个实际存在的物质。那么我们应该如何理解有限物质仅仅在理性上与其可能存在有所区别的说法呢？“可能（或偶然）存在”是什么意思？诱人的想法是认为这个术语意味着非实际存在。但是正如我们在必然存在的情况下已经看到的那样，笛卡尔并不是以逻辑或模态意义来使用这些术语。如果“必然存在”意味着本体上独立的存在，那么“可能存在”就意味着类似于依赖性存在。毕竟，笛卡尔将可能存在与实际存在相对立，而与传统意义上的必然存在相对立。这种解释也可以从“偶然”这个术语中得到启示。被创造的事物是偶然的，因为它们的存在依赖于上帝，唯一的独立存在者。
+
+这个结果解释了为什么笛卡尔认为我们不能为创造性物质提出本体论的论证。并不是本质和存在之间的关系在上帝和有限事物之间有所不同。在这两种情况下，只是存在一个理性的区别。不同之处在于附着在每个事物上的存在程度。独立存在的概念意味着这样的存在，有限事物的概念只意味着它具有依赖性的存在。
+
+回顾一下上面引用的《第五次回复》中的问题句，可以清楚地看出笛卡尔在那里的意图是这样的。他说“三角形的存在不应与上帝的存在相比较”，强调了涉及的存在类型使得上帝独特。就在这个陈述之前，他写道，“在上帝的情况下，必要存在……仅适用于他自己，并且是他的本质的一部分，就像对其他事物一样”。后来他补充说：“我不……否认在三角形的概念中，可能存在是一种完美，就像在上帝的概念中，必要存在是一种完美一样”。笛卡尔的最终立场是，本质和存在在所有事物中是相同的。区别上帝和创造物的是他的存在程度。我们可以为上帝提出本体论的论证，而不能为有限物质提出，因为至高无上完美存在的概念唯一包含必要的存在，或本体论独立的存在。
+
+## 3. 异议和回复
+
+由于其简洁性，笛卡尔的本体论论证被普遍认为比 11 世纪安瑟姆提出的论证更加粗糙和明显的谬误。但是当笛卡尔系统的完整装置被提出时，这个论证在其自身的条件下证明自己是相当有弹性的。事实上，笛卡尔的版本优于他的前辈，因为它基于先天观念的理论和清晰明确的感知学说。这两个学说使笛卡尔免受了对安瑟姆的指责，例如，本体论论证试图通过任意地将存在性建立在至高无上的存在概念中来定义上帝的存在。在第三冥想中，冥想者发现她对上帝的观念不是她方便地创造出来的虚构，而是心灵固有的东西。正如我们将在下面看到的，这两个学说为回答其他异议提供了资源。
+
+考虑到我们之前关于本体论论证的非逻辑性的讨论，笛卡尔会认真对待对它的异议可能会令人惊讶。他应该能够通过坚持演示的非逻辑性来轻松驳斥大多数异议。这尤其适用于本体论论证乞求问题的异议。如果上帝的存在最终是不言自明的，并且通过心灵的简单直觉而知，那么就没有问题需要乞求。不幸的是，并非所有对本体论论证的异议都可以如此轻松地驳斥，因为它们并不都依赖于我们正在处理一个形式证明的假设。
+
+尽管它经常被忽视，但许多对本体论论证的最著名批评是由冥想的官方反对者向笛卡尔提出的。他反过来对这些异议进行了回应，有时还进行了冗长的回复，尽管许多当代读者发现他的回应晦涩难懂且令人不满意。通过引用前面章节的讨论，我们可以更好地理解他的回应，并在某些情况下对其进行改进。
+
+对本体论论证的一个经典反对意见，最早由高尼罗针对安瑟姆的证明提出，即它从概念的心智世界跳跃到事物的真实世界，这是一种非法的逻辑跳跃。该观点是，即使我们承认必然存在与上帝的概念是不可分割的（用康德的术语来说，即使必然存在是“上帝”概念的分析性质），这并不能说明在实际世界中存在什么或不存在什么。《冥想》第一组反对意见的作者约翰内斯·卡特鲁斯如下所述：
+
+> 即使承认至高无上的存在者由于其本身的称号而暗示着存在，这并不意味着所讨论的存在是真实世界中的任何实际事物；所能得出的只是存在的概念与至高存在者的概念是不可分割的。因此，除非你假设至高存在者实际存在，否则你不能推断上帝的存在是任何实际的事物；因为那样的话，它将实际包含所有完美，包括真实存在的完美。
+
+为了应对这一挑战，笛卡尔必须解释他如何“弥合”思维与现实之间的推理差距。清晰明确感知原则旨在做到这一点。根据这一原则，笛卡尔在第四次冥想中辩称，无论一个人清晰明确地感知或理解什么，都是真实的 - 不仅仅是关于思想的真实，而是关于那些思想所代表的真实世界中的事物的真实。因此，笛卡尔对清晰明确感知原则的承诺使他能够避免困扰安瑟姆版本论证的另一个反对意见。
+
+前面的反对意见与 Caterus 提出的另一个困难有关。为了说明从心理到超心理的推理存在逻辑错误，批评者观察到，如果这样的推理是合法的，那么我们可以为至高无上的岛屿、存在的狮子以及各种既不存在又存在的事物提出本体论的论证，而这些事物的存在是有条件的，因此不应该从它们的概念中先验地推导出来。诀窍就是将存在性融入概念中。因此，虽然存在并不是从狮子的概念中推导出来的，但它确实是从“存在的狮子”的概念中推导出来的。
+
+笛卡尔对这个反对意见的实际回答非常复杂，涉及到一个关于“真实和不变本质”的理论。我们可以通过关注其关键要素来简化问题。他的第一个举措之一是引入我们之前讨论过的一个观点（见第 2 节的第[5]段），即存在包含在我们清晰明确地感知到的每一件事物的概念中：可能（或依赖性）存在包含在我们对每一个有限事物的清晰明确的概念中，而必要（或独立性）存在则唯一地包含在上帝的概念中。因此，对于笛卡尔来说，如果一个概念是清晰明确的，那么就不需要将存在性融入到该概念中；存在已经包含在每一个清晰明确的概念中。但这并不意味着由这样一个概念所代表的事物实际上存在，除了上帝的情况外。我们不能为有限的事物提出本体论的论证，因为它们的清晰明确的概念仅包含依赖性存在。只有上帝的概念要求实际存在，它唯一地包含独立存在。
+
+对这个回答的一个自然反驳是询问一个狮子的概念是否具有不可能但完全必要的存在。如果笛卡尔的推理方法是有效的，似乎可以得出这个概念的存在。这个反对意见的表述需要笛卡尔的第二个更深层次的观点，这个观点在他的正式回答中只是略作提及。这就是，一个狮子的概念，更不用说一个具有必要存在的狮子的概念，是非常模糊和混乱的。正如笛卡尔所说，狮子的本质对我们来说“并不是透明清晰的”。由于这个概念不是清晰明确的，本体论论证中使用的演绎方法不适用于它。请记住，几何演绎方法是以清晰明确感知的原则为基础的，它包括从我们清晰明确的概念中推导出内容。如果一个概念不是清晰明确的，那么我们就无法从中得出关于思维之外的事物的任何结论。
+
+然后，上帝的概念与必然存在的狮子的概念之间的关键区别在于前者可以被清晰明确地感知到。对于笛卡尔来说，某些概念可以被清晰明确地感知到，而其他概念则不能，这只是一个事实。一些批评家指责他在这方面是教条主义者。为什么笛卡尔可以规定我们清晰明确感知的范围？也许我们可以清晰明确地感知到他无法感知到的东西。
+
+笛卡尔无法完全摆脱这一指责，但他的辩护有两个重要观点。首先，他有原则性的理由认为每个人都拥有相同的先天或清晰明确的思想。当冥想者在第三冥想中首次证明上帝的存在时，她还确定了上帝是至善的，因此不会欺骗人。上帝完美的仁慈的一个结果是他在所有有限心灵中植入了相同的先天思想。因此，笛卡尔认为自己有理由得出结论，他对清晰明确感知的能力的限制将被每个人共享。
+
+其次，在回应对本体论论证的异议时，如上所考虑的异议，笛卡尔通常不仅仅坚持独特的清晰明确思想集合。他还试图消除他认为是异议根源的困惑。由于本体论论证最终归结为一个公理，根据笛卡尔的诊断，异议的源头是反对者未能清晰明确地感知到这个公理。因此，笛卡尔将大部分精力投入到试图消除那些阻碍反对者直观理解公理的哲学偏见上。然而，这些努力并不总是显而易见的。笛卡尔擅长维持对形式证明的批评的假装回答。但他对卡特鲁斯对本体论论证的异议的回应最好理解为一种延续性的努力，旨在消除偏见和困惑，以使读者能够直观地感知上帝的存在。
+
+让我们暂时回到对本体论论证从心理到超心理领域的非法滑动的反对意见。我们已经看到了笛卡尔如何回应这一点，但它与莱布尼茨所提出的另一个反对意见有关。莱布尼茨声称，笛卡尔的本体论论证是不完整的。它仅仅表明，如果上帝的存在是可能的或不矛盾的，那么上帝存在。但它未能证明这个条件句的前提（Robert Adams 1998, 135）。为了加强这一反对意见，有时会观察到神圣的完美（全能、全知、仁慈、永恒等）可能彼此不一致。这个反对意见与前一个反对意见有关，因为两种情况下的观点都是笛卡尔的论证限制我们对上帝概念的主张，缺乏存在的重要性。为了解决这个问题，莱布尼茨提出了一个不同版本的本体论论证（见 Adams 1998, 141f）。
+
+笛卡尔在莱布尼茨提出这一批评之前已经去世，但他从第二批反对者（马林·梅森等人）那里熟悉这一批评（AT 7:127; CSM 2:91）。他再次诉诸于清晰明确感知原则，该原则指出，如果某物包含在某物的清晰明确的观念中，那么它不仅可能，而且在现实中也是真实的。（笛卡尔可能会说，如果某物是可想象的，那么它是可能的，而且一个具有所有完美的存在是可想象的，但他在真理规则中有一个更强的原则可供他使用。）实际上，笛卡尔认为他已经满足了梅森和莱布尼茨的额外条件。但梅森的反对意见更进一步，他敦促为了确切地知道上帝的本质是可能的，人必须有一个包含所有神圣属性及其之间关系的充分观念（ibid.）——这是笛卡尔否认我们拥有的。笛卡尔对这一批评的回应如下：
+
+> [7] 就我们的概念而言，上帝的本质中没有不可能的事情；相反，我们在神圣本质的概念中包含的所有属性是如此相互关联，以至于我们认为任何一个属性不属于上帝都是自相矛盾的（AT 7:151; CSM 2:107）。
+
+很难看出这个陈述本身如何回应梅森的批评，但我们可以通过参考我们在第 2 节的早期讨论来更好地理解笛卡尔的意图。我们在那里指出，在笛卡尔的观点中，物质与其属性之间仅存在一种理性区分，以及单一物质的任何两个属性之间也存在一种理性区分。他还坚持认为上帝只有属性，没有模式或偶然属性。这意味着所有神圣完美之间仅存在一种理性区分，这是他在通信中明确肯定的（见，例如，AT 4:349; CSMK 3:280）。在第三冥想中，他还指出“上帝的所有神性属性的统一、简单性或不可分割性是我理解他所拥有的最重要的完美之一”（AT 7:50; CSM 2:34）。因此，神圣完美之间不仅不存在矛盾，而且我们理解最重要的完美之一是简单性（与 Curley 2005 相反），这仅仅意味着在上帝中不存在他的属性之间的区别：上帝的全能就是他的全知，就是他的仁慈等等。神圣属性之间的区别仅限于我们的思想或理性。这就是他在[7]处所说的神圣属性“相互关联”的意思，这与第三冥想中关于“完美之间的相互关联和不可分割性”的一句话相呼应（同上）。笛卡尔的回答可能不会满足莱布尼茨和梅森，但我们可以欣赏到它们在他的哲学体系中有一个基本依据。
+
+对于本体论论证最著名的反对意见可能是存在不是一个属性或谓词。这个反对意见由康德广为流传，成为每个值得一提的本科哲学专业学生都知道的口号。在声称存在包含在至高无上的存在的概念中，以及所有其他神圣属性中，笛卡尔的论证版本似乎屈服于这个反对意见。
+
+当然，存在不是一个谓词并不明显。为了说服我们这一点，康德观察到在概念上，一百个真实的塔勒（康德时代常见的硬币）和一百个可能的塔勒之间没有内在的区别。无论我们思考任何事物，我们都认为它存在，即使所讨论的事物实际上并不存在。因此，存在对于事物的概念并没有增加任何东西。那么，存在如果不是一个谓词，是什么呢？康德的答案是存在仅仅是“一件事物的假设”或“判断的连词”，关键在于当我们说“上帝存在”时，我们只是肯定存在一个与上帝的概念相符的对象。我们没有给上帝添加任何新的谓词，只是判断在世界上存在一个主体，带有它的所有谓词（CPR:B626–27）。
+
+康德对这个异议的阐述在伯特兰·罗素的著名描述理论中得到了进一步的完善。他认为，像“上帝存在”这样的存在性陈述在逻辑形式上是具有误导性的。虽然在语法上作为谓词，但在这个句子中，“存在”一词具有完全不同的逻辑功能，只有通过分析才能揭示出来。经过适当的分析，“上帝存在”意味着“存在一个（且仅存在一个）x，使得‘x 是全能的、全知的等’是真实的。”罗素认为，这种翻译表明，尽管表面上看，“上帝存在”的陈述是将存在归属于一个主语，但实际上是在断言某种描述（用单引号括起来）适用于现实中的某个事物。罗素的观点在现代标准逻辑对待存在的方式中得到了体现，将其视为量词而不是谓词。
+
+人们普遍认为笛卡尔对这个异议没有回应，甚至他轻率地假设存在是一种属性，从未认真考虑过这个问题。但事实并非如此。十七世纪的经验主义者皮埃尔·加桑迪在《第五批异议》中向笛卡尔提出了这个批评（他应该得到首先提出这个批评的荣誉）：“存在既不是上帝也不是其他任何事物的完美；它是没有它就不可能存在完美的东西”（AT 7:323; CSM 2:224）。与加桑迪的大多数回应一样（他被笛卡尔视为令人讨厌的唯物主义者和吹毛求疵者），笛卡尔的回应有些简短。但从第 2 节的讨论中可以清楚地看出，他有能力以系统的方式来应对这个异议。
+
+在探讨笛卡尔如何为自己辩护之前，重要的是要注意，争议的问题通常以非笛卡尔的术语来表述，因此往往错过了目标。例如，康德和罗素都对是否存在是一个谓词的逻辑问题感兴趣。相比之下，笛卡尔不是一个逻辑学家，他对从亚里士多德那里继承而来的标准主语-谓词逻辑持有贬低的态度。尽管如上所述，他有时会以启发性的方式呈现本体论论证的形式，但笛卡尔认为，通过直觉来认识上帝的存在是最终的。这种直觉过程具有心理学的特征。它不是将谓词分配给主语，而是确定是否可以清晰而明确地感知到至高无上的存在，并通过纯粹的智力操作将必要存在排除在外。当然，笛卡尔对于存在是否是物质的“属性”的本体论问题很感兴趣。然而，对于他来说，属性的类比是清晰而明确的思想和对它们的看法，而不是谓词。
+
+话虽如此，笛卡尔回应本体论异议的最佳策略是承认它，或者至少承认其中的某些方面。笛卡尔明确肯定了康德的观点，即存在并不为某物的概念增添任何东西（前提是将“概念”和“概念”视为心理项目）。我们应该再次回想起《第二次回应》中的第[4]段：“存在包含在每个单独事物的概念或概念中，因为我们只能将任何事物构想为存在”（公理 10，AT 7:166; CSM 2:117）。因此，笛卡尔同意康德的观点，即在将某个物质构想为实际存在和将其构想为仅可能存在之间没有概念上的区别。在第一种情况下，人们关注的是每个清晰而明确的概念中所包含的存在，而在第二种情况下，人们忽视了事物的存在，而没有主动排除它。然而，他强调了康德和其他批评者没有涉及的另一个概念上的区别，即存在的两个等级之间的区别——偶然的和必然的。所有有限事物的清晰而明确的概念仅包含偶然的或依赖的存在，而上帝的清晰而明确的概念唯一地包含必然的或完全独立的存在（同上）。正如之前讨论的，本体论论证依赖于这种区别。
+
+支持存在不是属性的主张的另一个直觉是，个体与其存在之间存在着比传统的物质与属性之间更密切的联系，尤其是如果所讨论的属性被构想为某种偶然的东西。如果存在是偶然的，那么一件事物可以没有它的存在，这似乎是荒谬的。同样荒谬的是说存在是其他属性（偶然的或本质的）之一，因为如果一件事物不存在，它又如何拥有属性呢？笛卡尔分享了这种直觉。他不认为存在是传统意义上的属性，甚至不认为存在与被认为承载它的物质是不同的。回想一下在第 2 节讨论的观点，即物质与其存在之间仅存在一种理性上的区别，或者说存在与物质的本质之间存在一种区别。这意味着物质与其存在之间的区别仅限于思想或理性。人类在努力用有限的智力理解事物时，在思想中进行了在现实中并不存在的区分。在现实中，一种物质（无论是创造的还是神圣的）就是它的存在。
+
+对笛卡尔的这种辩护的目的不是为了对他的存在观提出裁决，而是为了展示他对哲学史上一直存在的一个大难题有着相当复杂和系统的处理。他并没有为了满足本体论论证的需要而随意假设存在是一种属性。事实上，在笛卡尔的观点中，存在不是传统意义上的属性，也不能构想某物而不将其视为存在。笛卡尔的批评者可能不会被他对存在的解释所说服，但是他们有责任提供一个更好的解释。辩论的焦点将转移到谁拥有正确的本体论上，而不是本体论论证是否正确。
+
+## Bibliography
+
+### Primary Texts
+
+* Adam, Charles, and Paul Tannery, 1964–1976. *Oeuvres de Descartes*, vols. I-XII, revised edition. Paris: J. Vrin/C.N.R.S. [references to this work (abbreviated as **AT**) are by volume and page, separated by a colon.]
+* Cottingham, John, Robert Stoothoff, Dugald Murdoch, and (for vol. 3) Anthony Kenny, eds. and trans., 1984. *The Philosophical Writings of Descartes*, vols. 1–3. Cambridge: Cambridge University Press. [All quotations are taken from this edition (abbreviated as **CSM**); any deviations from it are the author’s own. References to this work are by volume and page, separated by a colon.]
+* Kant, Immanuel, 1990. *Critique of Pure Reason*, trans. Norman Kemp Smith. London: Macmillan Education Ltd. [abbreviated as **CPR**]
+
+### Secondary Texts
+
+* Alston, William P., 1967. “The Ontological Argument Revisited” in *Descartes: A Collection of Critical Essays*, Willis Doney (ed.), New York: Doubleday, 278–303.
+* Abbruzzese, John Edward, 2007. “The Structure of Descartes’ Ontological Proof,” *British Journal for the History of Philosophy*, 15: 253–282.
+* Adams, Robert, 1994. *Leibniz: Determinist, Theist, Idealist*, New York: Oxford University Press.
+* Barnes, Jonathan, 1972. *The Ontological Argument*, London: Macmillan.
+* Beyssade, Jean-Marie, 1992. “The Idea of God and Proofs of His Existence,” in *The Cambridge Companion to Descartes*, Cambridge: Cambridge University Press, 174–199.
+* Chappell, Vere, 1997. “Descartes’ Ontology,” *Topoi*, 16: 111–127.
+* Cottingham, John, 1986. *Descartes*, Oxford: Blackwell.
+* Cress, Donald, 1975. “Does Descartes have Two Ontological Arguments?”, *International Studies in Philosophy*, 7: 155–166.
+* –––, 1973. “Does Descartes ‘Ontological Argument’ Really Stand on its Own?”, *Studi-Internazionali-di Filosofia*, 5: 127–136.
+* Crocker, Sylvia Fleming, 1976. “Descartes’ Ontological Argument,” *Modern Schoolman*, 53: 347–377.
+* Curley, Edwin, 2005. “Back to the Ontological Argument” in *Early Modern Philosophy: Mind, Matter, and Metaphysics*, C. Mercer and E. O’Neill (eds.), Oxford: Oxford University Press, 46–64.
+* –––, 1978. *Descartes Against the Skeptics*, Cambridge, MA: Harvard University Press.
+* Doney, Willis, 1993. “Did Caterus Misunderstand Descartes’s Ontological Proof?”, in *Essays on The Philosophy and Science of Rene Descartes*, Stephen Voss (ed.), New York: Oxford University Press.
+* –––, 1978. “The Geometrical Presentation of Descartes’s A Priori Proof,” in *Descartes: Critical and Interpretive Essays*, Michael Hooker (ed.), Baltimore: Johns Hopkins University Press, 1–25.
+* Dougherty, M.V., 2002. “The Importance of Cartesian Triangles: A New Look at Descartes’s Ontological Argument,” *International Journal of Philosophical Studies*, 10(1): 35–62.
+* Dutton, Blake, 1993. “Suarezian Foundations of Descartes’ Ontological Argument,” *The Modern Schoolmen*, 70(4): 245–58.
+* Edelberg, Walter, 1990. “The Fifth Meditation,” *Philosophical Review*, XCIX: 493–533.
+* Forgie, J. William, 1976. “Is the Cartesian Ontological Argument Defensible,” *New Scholasticism*, 50: 108–121.
+* Gaukroger, Stephen, 1996. “The Role of the Ontological Argument,” *Indian Philosophical Quarterly*, 23(1–2): 169–180.
+* Gueroult, Martial, 1984. *Descartes’s Philosophy Interpreted According to the Order of Reasons*, vol. 1, Roger Ariew (trans.), Minneapolis: University of Minnesota Press.
+* –––, 1955. *Nouvelles réflexions sur la preuve ontologique de Descartes*, Paris: J. Vrin.
+* Harrelson, Kevin, 2009. *The Ontological Argument from Descartes to Hegel*, Amherst, New York: Humanity Books/Prometheus.
+* Hartshorne, Charles, 1965. *Anselm’s Discovery*, LaSalle: Open Court.
+* Hick, John and McGill, Arthur C., 1967. *The Many-Faced Argument*, New York: The Macmillan Company.
+* Kenny, Anthony, 1997. “Descartes’ Ontological Argument,” in *Descartes’ Meditations: Critical Essays*, Vere Chappell (ed.), New York: Rowman & Littlefield Publishers, Inc, 177–194.
+* –––, 1995. *Descartes: A Study of His Philosophy*, Bristol: Thoemmes Press, 146–171.
+* –––, 1970. “The Cartesian Circle and the Eternal Truths,” *Journal of Philosophy*, LXVII: 685–700.
+* Koistinen, Olli, 2014. “The Fifth Meditation: externality and true and immutable natures,” in *The Cambridge Companion to Descartes’ Meditations*, David Cunning (ed.), New York: Cambridge University Press, 223–239.
+* Newman, Lex, and Alan Nelson, 1999. “Circumventing Cartesian Circles,” *Noûs*, 33: 370–404.
+* Nolan, Lawrence and Alan Nelson, 2006. “Proofs for the Existence of God,” *The Blackwell Guide to Descartes’ Meditations*, Stephen Gaukroger (ed.), Oxford: Blackwell Publishing, 104–121.
+* Nolan, Lawrence, 2018. “Descartes,” *Ontological Arguments*, Graham Oppy (ed.), Cambridge: Cambridge University Press, 53–74.
+* –––, 2005. “The Ontological Argument as an Exercise in Cartesian Therapy,” *Canadian Journal of Philosophy*, 35: 521–562.
+* –––, 1998. “Descartes’ Theory of Universals,” *Philosophical Studies*, 89(2–3): 161–180.
+* –––, 1997. “The Ontological Status of Cartesian Natures,” *Pacific Philosophical Quarterly*, 78: 169–194.
+* Oppenheimer, Paul, and Zalta, Edward. 1991. “On the Logic of the Ontological Argument” in *Philosophical Perspectives 5: The Philosophy of Religion*, J. Tomberlin (ed.), Atascadero: Ridgeview, 509–29.
+* Oppy, Graham, 1995. *Ontological Arguments and Belief in God*, Cambridge: Cambridge University Press.
+* Plantinga, Alvin (ed.), 1965. *The Ontological Argument*, New York: Doubleday.
+* Secada, Jorge, 2000. *Cartesian Metaphysics*, Cambridge University Press.
+* Schmaltz, Tad, 2014. “The Fifth Meditation: Descartes’ doctrine of true and immutable natures,” in *The Cambridge Companion to Descartes’ Meditations*, David Cunning (ed.), New York: Cambridge University Press, 205–222.
+* –––, 1991. “Platonism and Descartes’ View of Immutable Essences,” *Archiv für Geschichte der Philosophie*, 73: 129–70.
+* Scribano, Emanuela, 1994. *L’esistenza di Dio: Storia della prova ontologica da Descartes a Kant*, Roma-Bari: Laterza.
+* Wertz, S. K., 1990. “Why Is the Ontological Proof in Descartes’s Fifth Meditation?” *Southwest Philosophy Review*, 6(2): 107–109.
+* Wippel, John, 1982. “Essence and Existence,” in *The Cambridge History of Later Medieval Philosophy*, eds. Norman Kretzmann, Anthony Kenny and Jan Pinborg. New York: Cambridge University Press, 385–410.
+* Wilson, Margaret, 1978. *Descartes*, New York: Routledge and Kegan Paul.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ontological). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/descartes-ontological/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=descartes-ontological&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/descartes-ontological/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [The Ontological Argument](http://www.utm.edu/research/iep/o/ont-arg.htm), entry in the Internet Encyclopedia of Philosophy, by Kenneth Einar Himma (Seattle Pacific University)
+* [Medieval Sourcebook: Philosophers’ Criticisms of Anselm’s Ontological Argument for the Being of God](http://www.fordham.edu/halsall/basis/anselm-critics.html), by Paul Halsell (Fordham University)
+* [Medieval Sourcebook: Thomas Aquinas: On Being and Essence](http://www.fordham.edu/halsall/basis/aquinas-esse.html#n1), by Paul Halsell (Fordham University)
+* “[On the Logic of the Ontological Argument](http://mally.stanford.edu/Papers/ontological.pdf)”, paper by Paul E. Oppenheimer and Edward N. Zalta.
+* [Philosophy of Religion.Info](http://www.philosophyofreligion.info/theistic-proofs/the-ontological-argument/) by Tim Holt.
+
+## Related Entries
+
+[Anselm of Canterbury [Anselm of Bec]](https://plato.stanford.edu/entries/anselm/) | [Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Descartes, René: epistemology](https://plato.stanford.edu/entries/descartes-epistemology/) | [Descartes, René: life and works](https://plato.stanford.edu/entries/descartes-works/) | [Descartes, René: modal metaphysics](https://plato.stanford.edu/entries/descartes-modal/) | [Elisabeth, Princess of Bohemia](https://plato.stanford.edu/entries/elisabeth-bohemia/) | [existence](https://plato.stanford.edu/entries/existence/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [ontological arguments](https://plato.stanford.edu/entries/ontological-arguments/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/)
+
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
+Lawrence Nolan <[*lawrence.nolan@csulb.edu*](mailto:lawrence%2enolan%40csulb%2eedu)>
