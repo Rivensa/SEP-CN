@@ -1,2 +1,308 @@
 # 统治 domination (Christopher McCammon)
 
+*首次发表于 2018 年 11 月 8 日星期四*
+
+统治理论主要是试图通过研究缺席情况来理解正义、自由和平等的价值。这些理论试图澄清和系统化我们对于弱者面对无法控制的力量是什么，即对于脆弱、被贬低和无力抵抗无节制权力是什么的判断。
+
+* [统治：基本思想](https://plato.stanford.edu/entries/domination/#DomiBasiIdea)
+* [谁，或什么，可以统治？](https://plato.stanford.edu/entries/domination/#WhoWhatDomi)
+
+  * [2.1 代理人、团体代理人和团体的统治](https://plato.stanford.edu/entries/domination/#DomiAgenGrouAgenGrou)
+  * [2.2 非代理者能统治吗？](https://plato.stanford.edu/entries/domination/#NonAgenDomi)
+* [统治是否需要行使权力？](https://plato.stanford.edu/entries/domination/#DoesDomiRequExerPowe)
+
+  * [统治作为一种权力结构](https://plato.stanford.edu/entries/domination/#DomiPoweStru)
+  * [3.2 Character 是否真的重要？](https://plato.stanford.edu/entries/domination/#DoesCharMattAfteAll)
+  * [3.3 结构为基础的解释的过度概括问题](https://plato.stanford.edu/entries/domination/#OverGeneProbForStruBaseAcco)
+* [统治是什么样的权力？](https://plato.stanford.edu/entries/domination/#WhatKindPoweDomi)
+
+  * [非道德化、与规范无关的理论](https://plato.stanford.edu/entries/domination/#NonMoraNormIndeTheo)
+  * [4.2 道德化、与规范无关的理论](https://plato.stanford.edu/entries/domination/#MoraNormIndeTheo)
+  * [非道德化、依赖规范的理论](https://plato.stanford.edu/entries/domination/#NonMoraNormDepeTheo)
+  * [4.4 道德化、依赖规范的理论](https://plato.stanford.edu/entries/domination/#MoraNormDepeTheo)
+* [统治与应用伦理学](https://plato.stanford.edu/entries/domination/#DomiApplEthi)
+* [ 结论](https://plato.stanford.edu/entries/domination/#Conc)
+* [ 参考文献](https://plato.stanford.edu/entries/domination/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/domination/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/domination/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/domination/#Rel)
+
+---
+
+## 统治：基本思想
+
+当然，关于统治的真正含义存在相当大的分歧。即便如此，统治理论家们通常在以下方面达成一致：统治是一种无约束的、不公正的权力失衡，使得行动者或系统能够控制其他行动者或其行动条件。我们可以称之为统治的“基本概念”。基本概念包括以下组成部分：
+
+1. 统治是一种权力，通常是社会权力——也就是对他人的权力。
+2. 统治涉及权力的不平衡或不对称。英语中的统治源自拉丁语 dominus。Dominus 是主人的意思，而主宰代表了社会权力的极端。主人通常对他们的奴隶如何行动或行动条件几乎完全控制。因此，主奴关系通常被视为统治最明显的案例。
+3. 统治有许多形式。传统的罗马共和主义认识到 imperium 和 dominium 之间的区别——国家的统治与私人团体的统治形成对比（Pettit 1997; 31; 2001: 152ff）。主人对奴隶的权力可能是统治的最清晰案例，但并不一定需要有一个字面上的 dominus 才能被统治。例如，在父权社会中，暴君对待他们的臣民和男性对待女性也是统治的常见例子。结合主人/奴隶，这些例子在文献中是如此普遍，以至于我们可以简单地将它们称为范例。有时候，未能解释为什么这些范例被视为统治就足以拒绝一个统治理论（见 Lovett 2010，Blunt 2015 和 McCammon 2015）。其他例子可能没有展现出我们在范例中看到的权力极端；但一般认为，统治是有程度之分的，即使没有人对某人拥有绝对权力，他们也可能被统治。
+4. 统治权在某种意义上是不受限制的。主人可以自行决定如何使用或不使用他们的权力。这种权力通常被描述为任意或自由裁量；或者，也许，不受其统治者利益的限制；或者，也许，只投射出对统治者最有利的世界愿景，同时阻止被征服者按照自己的方式看待自己或世界。无论如何描述，统治权之所以被视为统治，是因为缺乏某种限制的说法在许多理论中反复出现。
+5. 统治是一种不公正或道德上不合法的社会权力形式。无论统治最终是什么，它在道德上都是严肃的。这是一个抱怨（Pettit 2005）。被统治通常意味着有理由对统治者或使统治或统治成为可能的机构感到愤慨和愤恨。
+
+关于统治的许多当代争议涉及对三个问题的竞争性回答：(1) 谁或什么可以统治？(2) 仅通过具有特定结构的权力就可以统治吗，还是统治是对权力的行使或滥用？(3) 无论是行使还是不行使，统治是什么样的权力？本文的其余部分将依次讨论这三个问题，然后总结最近应用伦理理论中统治概念的使用情况。当我们审视对这三个问题的竞争性回答时，将会清楚地看到不同的理论家对为什么我们需要一个统治理论有着非常不同的想法。我们可能普遍认为，我们需要统治的概念来理解不公正的权力关系，但不公正的权力关系千差万别，而对统治的理论家不仅在于哪些变体最需要被理解方面存在分歧，而且在于理论化统治如何帮助我们理解它们方面也存在分歧。
+
+另一个资格词在继续之前：接下来是对几乎完全来自以英语为母语的政治哲学家和政治理论家的研究，广泛涵盖分析传统。有关大陆传统中的统治理论，请参阅条目《权力的女性主义视角》。
+
+## 谁或什么可以统治？
+
+### 代理人、团体代理人和团体的统治
+
+新共和主义传统（即，与 Quentin Skinner 的历史学研究和 Philip Pettit 的政治理论主要相关的统治思想传统）倾向于将统治呈现为代理之间的关系；只有代理可以统治或被统治（Pettit 1997: 52），尽管代理/代理可能是一个团体或集体。团体的统治可能不要求他们作为一个团体代理这样做（List & Pettit 2011: 19–41）。团体代理的形而上学通常需要团体成员之间的共享信念或共同意图；但是，统治权力可能根植于团体成员身份（白人在西方种族化等级制度中，男性在父权制中），即使该团体或其部分成员不符合团体代理的形而上学要求。至少对于那些认为未行使的权力足以构成统治的人来说，一个拒绝社会父权制的男性仍然可能统治女性，因为他有能力做某些事情——例如，在法庭上，他的证词可能比女性的更受重视——即使他明确拒绝并试图破坏父权制度。
+
+统治在文献中的少数立场将其基本上视为群体之间的关系，其中个体之间的任何统治都是群体成员关系的寄生。如果这是真的，一个个体对另一个个体的统治之所以被视为统治，仅仅是因为一个属于统治群体，另一个属于从属群体（Wartenberg 1990）。
+
+### 非代理人能统治吗？
+
+统治者可以独自统治很少有争议；但单独的统治者可以统治吗？那么像机构、系统或意识形态这样的非统治者呢？瓦茨拉夫·哈维尔（1991: 136–138）在苏联时代捷克斯洛伐克的一个杂货店老板的例子在文献中反复出现，被视为系统统治的一个可能例子，特定的统治者仅仅是传达者（Lovett 2010；Krause 2013；Blunt 2015）。这位杂货店老板在商店窗户上张贴有利于政权的标语。通过张贴标语，他既表明了与权力的合作，又扩大了其影响范围。同样，沙龙·克劳斯（2013: 194）回忆起她母亲坚持让她迈小一些、更“淑女般”的步伐，克服她的自然步幅。也许克劳斯的母亲既服从又强制执行的意识形态才是统治者，而不是任何特定的统治者（另见福柯 1975 [1977: 26–27]）。深深吸收了资本主义价值观的工人可能是另一个例子（参见汤普森 2013, 2018）：例如，接受任何可获得的毫无意义工作，因为他们的自我价值感取决于不成为“懒汉”。尽管资本主义的价值观可能是一种随着时间由统治者为了自身利益而产生的社会构建，但如果激励工人的是他们自己腐化的自我价值感，那么认为他们可能被意识形态统治而不是其他统治者是有道理的。
+
+中心问题是我们是否可以将系统或意识形态对统治的可能示例理解为通过系统或意识形态对代理人的统治的实例。文献中更常见的是对这个问题给予肯定的回答，而不是进行论证，但弗兰克·洛维特试图通过这个例子来激发对此的认同：
+
+> 想象一个社会，在这个社会中，财产法承认人类所有权的可能性，但恰巧目前还没有奴隶。然而，过了一段时间，奴隶被进口，法律支持他们主人的所有权权利。更晚一些，主人们悔悟了，并解放了他们的奴隶。 (2010: 48–49)
+
+洛维特认为我们会同意，统治仅发生在奴隶被进口后并在他们获得自由之前的时期：允许奴隶财产的法律体系使统治成为可能，但并未主导。
+
+另一个思想实验的提议课程——这个来自 Gwilym David Blunt（2015: 17–18）的——是，统治没有代理人是可以想象的，但在短期内是不切实际的。假设，一个立法者组织了一个统治政权，并在不久之后去世，但在去世之前编写了“一系列无法重新编程的自动机……以执行他的意志，以支持特权群体对下级群体的统治”。如果这就是统治，那么它不能是由已故立法者所统治（假设死者没有代理权），也不能是由自动机所统治（假设它们不够复杂以算作代理人），也不能是由特权人群所统治（他们没有制定法律并且无法控制自动机）；因此，必须是系统本身在统治。
+
+关于是否仅由代理人统治存在争议，这一分歧反映了受新共和主义直接影响的理论与其他传统的分歧。新共和主义者对主人/奴隶关系的关注使得专注于代理人的统治是自然而然的：显然，被主人统治就是被代理人统治。从这个核心例子出发，共和传统倾向于将制度、体系和意识形态视为使统治成为可能的权力来源，而不是作为独立的统治来源而没有代理人。如果我们的注意力集中在权力如何塑造那些受其影响的人的意识上，那么，例如，父权制本身的统治就变得更加合理，即使没有特定的父权者的存在。
+
+## 统治是否需要行使权力？
+
+### 统治作为一种权力结构
+
+最近最持久的争议之一是统治是否需要行使权力。新共和主义者倾向于将统治与代理人能够做什么或有能力做什么联系起来，而不是与代理人实际做了什么联系起来。这主要是因为统治在新共和主义自由理念中的作用。古典自由主义关于自由的理论——新共和主义者的主要竞争者和对手——据说是有缺陷的，因为它将自由与实际选择干扰的缺席等同起来。新共和主义者说他们的优势在于他们强调潜在的干扰如何减少自由。这就是共和主义传统中最著名的例子的要点：某种或懒惰主人的奴隶仍然是奴隶，因此典型地是不自由的，即使他们的主人太仁慈或太懒惰而不干涉他们。
+
+统治是什么样的力量，即使没有行使也被视为统治？除了上面遇到的语言强调强大者的“能力”之外，新共和主义者强调洛维特（2010）所称的结构，而不是统治性权力关系的结果。雇主是否可以随意解雇员工取决于雇主/雇员关系的结构；雇主是否实际解雇员工，或者员工是否因为有工作而不至于挨饿，体现了关系的结果。这种审视社会关系的方式将目光从掌握权力的被赋权者如何行使他们的权力转向了权力本身的性质。我们不会仅仅因为他们承诺善良和明智地利用他们的权力而停止反对典型的统治者；解放似乎要求他们停止拥有那种权力。这突显了新共和主义者对于强大者自我调节是否能减少统治的怀疑（洛维特 2010：97）。在极端情况下，佩蒂特表示，统治在没有“消除或替换干涉选项或在认知上将其排除在外的外部检查”的情况下仍然存在；只有通过“外生”力量才能减少统治；或者，如果是内在的，那就是“使无效”类似于根深蒂固的神经症的力量（2012：63）。
+
+### 3.2 Does Character Matter after All? 3.2 到底品格重要吗？
+
+有两个主要反对意见认为，只有改变权力关系的结构才能检查统治，而不是改变关系的结果或被赋权者的性格。第一个是它未能捕捉到被统治者真正反对的现实；第二个是它导致了显著的过度概括。
+
+没有人否认权力的受害者反对其使用的结果，而不仅仅是他们最初对该权力的脆弱性。 （当然，新共和主义者想要说这两者都是令人反感的。）但是，如果我们坚持认为统治适当地只指权力关系的结构，而不是该关系的结果，我们可能很难解释统治的标准用法，即指对无防御能力者施加的压倒性权力。假设哥伦布仅在“新世界”的边缘航行，而没有登陆，他对剥削和摧毁土著文化的权力从未得到行使。这种反事实的历史仍然是欧洲统治的故事吗？如果不是，诱人的是将欧洲统治与对无法抵抗的人造成的实际伤害等同起来（Katz 2017）。
+
+有理由认为，被统治者有时会对统治者的性格提出特定的抱怨。这个问题在克里斯托弗·勒布朗（2013）和梅尔文·罗杰斯（即将出版）的作品中得到了重新审视。罗杰斯尤其坚持认为，受新共和主义影响的统治理论夸大了性格对统治权力的无关重要性。他最近关于像马丁·德兰尼（1852 [1968]）、何西亚·伊斯顿（1837 [1999]）、玛丽亚·W·斯图尔特（1987）、大卫·沃克（1829 [2003]）等黑人美国共和党人的研究揭示了对白人美国人的“举止”的对比强调。反对基于种族的统治体系不仅需要“摆脱白人的任意权力”，还需要“改变文化价值体系，使黑人占据更低的价值地位”（罗杰斯，即将出版）。这种转变不仅需要通过法律改革实现对统治的外部限制，还需要白人心灵的转变。罗杰斯认为，新共和主义关于统治的理论是由对政治奴役的抵抗形成的，奴隶的基本人性并不成问题；与财产奴隶制不同，后者建立在并由对白人至上主义和黑人低劣的意识承诺维持。法律改革可能足以对抗政治奴役：它们代表了法律秩序向已经承认的奴隶价值更紧密对齐的转变。然而，仅靠法律改革，虽然必要，但当这种价值被系统地否定时是不够的。
+
+### 结构为基础的解释的过度概括问题
+
+过度概括的担忧是对新共和主义对统治的方法最常见的反对意见。如果统治仅仅是任意干涉的能力，而且这种能力似乎是无处不在的，那么统治可能会变得普通到微不足道的程度。即使坐在那里自顾自，体格强壮的人也有能力压倒较弱的人；即使他们从未这样做过，具有说服天赋的人也有能力说服易受骗的人放弃他们的储蓄（Friedman 2008: 251）。此外，如果国家的主要功能是最小化统治，新共和主义暗示国家应该努力使人们变得不那么强壮或不那么有说服力，以减少他们任意干涉的能力。这是令人不快的。一个明显的修正是坚持只有“实际或试图的任意干涉”才能统治（Friedman 2008: 252）。
+
+对于一些女权主义者来说，过度概括的担忧特指新共和主义者使关怀和依赖关系不合理地受到怀疑。一个照料者虽然绝不会梦想伤害他们的被照料者，却有能力：感染伤口而不是清洁它们，把某人推下楼梯而不是帮助他们上去（Friedman 2008: 254）。Pettit 在他的理论中承认了这一特征，当他声称关心和不关心的母亲——以及可能是关心和不关心的父亲——同样在自然状态下统治他们的孩子时（Pettit 1999: 119–120）。另一种观点是坚持认为，尽管照料者可能与一个脆弱的依赖者处于不平等权力关系中，但除非滥用这种权力，否则它并不构成统治。统治，而不是单纯的权力，需要积极违反道德标准和/或损害他人的最佳利益（Kittay 1999: 33–34）。
+
+这种替代方案的吸引力取决于我们如何理解权力或能力。如果 A 有权力或能力干预，只要在任何意义上 A 有可能这样做，正如 Pettit 有时所暗示的那样，那么集中批评关注护理的价值是有害的：显然，护理者和父母有[例如]在物理上干预他们的被抚养者的可能性。然而，如果 A 没有权力干预，只要适当的处罚措施针对这种干预，那么这种反对意见可能就不那么有力。换句话说，重要的不仅仅是可能性，而是社会或法律上的可能性——大致来说，是在没有社会群体其他成员的制裁风险或国家代理人的制裁风险下可以做什么（见 List & Valentini 2016）。女性主义伦理学和政治哲学的一个标志是坚持认为家庭内部的权力关系经常表现为统治，即使家庭可以是爱和依赖的中心，而法律规定——反对配偶虐待或忽视儿童——可能会减少那种统治（Costa 2013: 928）。当然，这些法律并不会使干预变得不可能；相反，它使干预变得有风险且可能成本高昂。
+
+将统治从仅仅是权力转变为滥用权力可能会导致其他不太吸引人的结果，尤其是考虑到广泛的女权主义承诺。如果统治需要实际或试图干涉，通过“诱惑、讨好、[或]回避”来避免干涉的女性将不被视为被统治（Costa 2013: 926）。共和主义新主义账户的这一特征——坚持统治是“易受伤害的纯粹状态”——可能正是使这一概念对女性主义哲学有用的地方（Laborde 2008: 152）。
+
+有其他提出的反例来反驳“随心所欲地干预的能力统治”（Shapiro 2016: 21）的说法。比如“一个操场恶霸”能够打败任何较小的孩子，但众所周知只打黑人孩子？这个恶霸统治白人孩子和黑人孩子一样吗？再比如像 1950 年代的美国参议员 Joseph McCarthy？他有同样的权力干预右翼和左翼美国人的生活；但左翼公民更有理由害怕他。也许直觉判断是这样的，恶霸只统治黑人孩子，而麦卡锡只统治左翼公民。（这两个例子都来自 Ian Shapiro 2012: 324; 2016: 21）。然而需要注意的是，这些例子的说服力在一定程度上取决于我们是否认为统治是唯一的政治恶，至少在所有其他政治恶中，通过最大程度地减少统治来最有效地解决。Shapiro 例子中的黑人孩子和左翼公民显然比白人孩子/右翼公民状况更糟糕。如果我们仅通过统治的恶来诊断他们的状况，Shapiro 的例子对统治可以是未行使的权力的想法是有害的。这是真实的，即使 Shapiro 对统治的描述与 Pettit 的描述之间可能没有太多实际空间，因为 Shapiro 谈到对统治的抱怨是对“权力关系”的抱怨。有趣的是，Shapiro 强调了有可能某人可能容易受到统治而不被统治，而对统治的易受伤害性——就像统治本身一样——在道德上是重要的，代表了一种不公正（2016: 22）。虽然统治作为易受伤害性的概念在新共和主义文献中反复出现，但对这个中间类别的研究相对较少：那些易受统治而不被统治的人。（也许 Pettit 的工作中最接近考虑的是他在 1997 年对“虚拟统治”的简短讨论：54。）
+
+关于完全休眠的权力是否可以统治的争议仍在继续，但有广泛的共识，即即使在当前没有人在积极统治你的情况下，你仍然可以被统治。即使在某个时候没有对你或像你这样的人实际展示权力，也可能会因为先前的行使而持续统治。正如瓦滕伯格（1990）所说，权力的实际行使可以在“长期”内“制约”社会关系。如果在过去对你或像你这样的人（也许因为你们都是某个被统治的社会群体的成员）行使过权力，这将影响你如何与那些掌权者相处。例如，假设你知道老板可以随意解雇你。他既没有解雇你，也没有威胁要这样做，因此实际上没有对你行使他的权力。即便如此，你已经看到他对其他员工行使过这种权力。因此，你会因为害怕老板对你做的事情以及对其他人做的事情而照做。这促使了这样一种观点：你的统治并不需要对你积极行使权力，尽管对某个与你相关的人可能需要积极行使权力。当然，这引发了进一步的问题：例如，为了在权力休眠的情况下制约持续社会关系，积极行使权力必须有多近？到目前为止，这些问题受到了相对较少的关注（但请参见赫希曼 2003 年）。
+
+## 统治是什么样的权力？
+
+统治是什么样的权力，无论是行使还是不行使？如果统治涉及社会关系的结构，如果 A 统治 B，A 能做什么？如果统治需要行使权力，A 在统治 B 时如何使用他们的权力？
+
+在一个维度上，我们可以将对这些问题的回答分为道德化和非道德化。对于道德化理论，确定统治需要我们解决更基础的关于什么是道德对或错误、公正或不公正的问题。例如，如果我们说统治权力是违反人权的权力，我们的统治理论取决于人权理论——显然是一个道德理论。非道德化理论认为，我们可以在不参考对正确或善的理论的情况下确定统治。例如，如果我们说统治权力是对生产资料的控制权，我们的统治理论将取决于一个[合理地]描述什么算是生产资料的理论。
+
+当然，那些坚持统治可以在不做道德判断的情况下被定义的人通常并不致力于伊恩·卡特所称的“价值独立”（2015: 280–281），即“我们的分析完全脱离所有伦理关切”。所有参与当代关于统治讨论的贡献者通常都受到深刻的伦理关切的驱使。
+
+统治也需要沿着另一个维度进行排序。除了道德化或非道德化的问题外，还有统治如何与利用权力来规定规范和规则，或利用权力来宣称权威的问题。统治总是试图统治吗？统治总是涉及统治者错误地认为他们的权力是合法的吗？统治总是涉及强者试图要求被统治者遵守规范吗？如果您对这些问题中的任何一个回答是肯定的，那么您支持一种依赖规范的统治理论。
+
+混淆在这里很容易，因为道德化理论经常吸引规范和规则。这种道德化理论与非道德化但依赖规范的理论之间的区别取决于正确的道德规范/规则与任何规范或规则之间的区别。依赖规范的理论认为，统治总是通过一些人认为合法的规范和规则行使权力——也许是统治者，也许是被统治者，也许是两者都是。正如我们将看到的那样，对于不仅仅是依赖规范而且还是道德化的理论来说，统治总是涉及到未能尊重作为规范来源的代理人的道德地位。对于仅仅依赖规范的理论来说，一个家长的统治可能与家长声称他应该得到家人的服从紧密相关。显然，无论某人是否声称应该得到服从都是一个纯粹描述性的问题；因此，这样的理论并非道德化。家长权威的合法性仅仅是社会学的，而非道德的。如果一个统治理论反而说，家长之所以统治是因为他对服从的要求不公正地削弱了他的配偶和子女塑造规范的权利，那么这个理论既依赖规范又是道德化的。一个部分依赖于不公正侵犯的描述的理论显然是道德化的。
+
+并不总是容易将理论分类到这些类别中。分类工作受到一个事实的复杂影响，即一个理论是否道德化或依赖规范有时是一个活跃争议的问题。（这一点在 Pettit 的统治理论中尤为明显。）接下来，理论将被分类以反映理论家的意图——至少在这些意图可以被辨认出来的范围内。
+
+一旦我们认识到道德化和规范依赖之间的区别，我们最终得到对于“统治是何种力量”的问题的四种答案。假设现在只有代理人（在这里由 A 和 B 代表）可以统治或被统治
+
+|             | *Norm-Independent*                                                                                          | *Norm-Dependent*                                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| * 非道德化* | 如果 A 支配 B，那么 A 对 B 能够做的事情拥有或行使无限制的权力。                           | 如果 A 支配 B，那么 A 对 B 能够做的事情具有或行使着社会学上合法的权力。                                                          |
+| * 道德化*   | 如果 A 支配 B，A 通过侵犯 B 的权利或损害 B 的利益而对 B 有权力或行使权力，而 B 无法反击。 | 如果 A 统治 B，那么 A 对 B 能够做的事情拥有或行使权力，这种权力在社会学上是合法的，并且不受旨在保护 B 的权利和利益的制度的约束。 |
+
+本节将从每个部门的理论出发，探讨它们的基本动机和主要典范。
+
+### 非道德化、与规范无关的理论
+
+将统治与即使未行使的权力等同的理论倾向于远离道德化和依赖规范。如果 A 对 B 拥有很大的权力，A 将有很好的机会对 B 不利，或者至少迫使 B 表现得像 A 有权威一样。非道德化/独立于规范的理论认为这对统治并非必要。什么是必要的？大致来说，A 具有无法检查或控制的权力，可以强加自己的意志于 B，塑造 B 可选择的框架，以便 B 高度可能与 A 合作。非道德化/独立于规范的理论家之间的分歧在于可能阻止统治的检查或控制的种类，以及强加的工作方式。
+
+大多数非道德化/与规范无关的理论都紧随新共和主义的步伐，并分享其基本方法——理论化统治分为两个步骤：识别统治中显现的一种权力，同时也存在于非统治社会关系中；然后识别将统治与那些非统治关系中显现的权力区分开的统治特征。通常，第二步描述了存在于非统治社会关系中的控制或检查，而在统治关系中则不存在。这两个动机将按顺序进行处理：
+
+首先，统治理论关注的是什么样的社会权力？新共和主义者如佩蒂特专注于干预个体选择的能力，通过替换、移除和/或歪曲这些选择。A 可以通过移除潜在的选择对象来干预 B 的选择：假设 A 碾压了 B 的自行车，将其摧毁。这就取消了骑 B 的自行车的选择。假设 A 刺破了轮胎：这就用另一个选择替换了 B 骑自行车的选择：在轮胎更换或修理后骑自行车。移除和替换都是客观形式的选择干预：独立于心灵的替代品被移除或替换。选项的歪曲是认知的：例如，A 对 B 撒谎说只有像 B 那样的白痴才会有自行车。如果 B 轻信并因为尴尬而拒绝骑自行车，A 就通过歪曲的方式干预了 B（见佩蒂特 2012）。
+
+这种对选择的普遍强调引发了已经提出的过度概括的担忧（Shapiro 2012; Friedman 2008; Blunt 2015; McCammon 2015）。有些选择显然比其他选择更重要。没有人认为在咖啡馆里坐在哪里没有选择的重要性与没有选择住在哪里相比。将前者和后者连接到支配性的选择干扰形式，因为两者都可能代表例如选项的移除或替换，似乎夸大了支配的概念。然而，如果我们想要在概念上保持支配和自由的减少相联系，那么有理由认为在所有可能干扰的权力中看到支配，至少当这种权力在被干扰者的控制之外时。
+
+Pettit 在选择干扰方面分析统治，他最喜欢的启发式直接关注被统治的代理人，以及他们与统治者的社会关系。对于 Pettit 来说，被统治意味着未能通过“眼球测试”：“即，你无法“毫无理由地直视他人，而不会因为干扰权力可能激发的恐惧或顺从而感到恐惧”（2012: 84）。其他理论也强调统治作为社会关系中的一种权力，并倾向于将其与选择干扰的讨论相提并论（Lovett 2010; McCammon 2015）。
+
+什么是社会关系？A 对 B 的社会关系首先似乎需要战略关系，即 B 可能会做什么在某种程度上取决于 A 的行为。要从社会关系转变为统治还有其他要求。很难想象 A 如何能够统治 B，除非 A 在他们的社会关系中对 B 拥有比 B 对 A 更多的权力。此外，要使 A 对 B 具有权力，很可能需要 B 不能轻易退出关系。如果某人可以轻松找到一份和他们目前的工作一样好的新工作，他们的“退出成本”就很低，他们对社会关系的依赖相应地就会很低，可能太低以至于无法发生统治（Lovett 2010）。可能 A 对 B 的权力和 B 从他们的社会关系中退出的成本并不是真正分开的条件，A 对 B 的权力可能取决于 A 控制 B 无法通过其他途径获得的资源（参见 Pansardi 2013）。
+
+对于非道德化/独立于规范的理论来说，选择干扰的能力，或社会关联性，无论如何表达，是统治的必要条件但不足够。要实现统治，需要的不仅仅是简单的选择干扰或在社会关系中的权力。
+
+尼欧共和主义者最初将这种“更多”的东西称为统治权力的专断性，并仍然经常这样做，但佩蒂特现在更倾向于控制或缺乏控制的语言（2012 年：57-58）。这一转变是为了强调他理论的非道德化性质。（有关佩蒂特演讲变化的批评，请参见克里斯特曼 1998 年，科斯塔 2007 年和麦克马洪 2005 年。）在术语上的转变可能是明智的，考虑到将专断权力与有充分理由支持的权力或用于良好目的的权力进行对比的自然倾向。对于尼欧共和主义者来说，专断权力从来不仅仅是无理性的权力。尽管佩蒂特早期强调专断权力与未能追踪那些受其支配的人的“利益”的联系，但他衡量利益不是通过独立的客观善或客观合理的概念，而是通过对“公开表明”或“准备公开表明”的利益的诉求（2006 年：275-276）。控制的语言在他早期的工作中也有所体现。例如，在《共和主义》中，他说一种行为是专断的，“因为它实现的控制——更确切地说是缺乏控制”（1997 年：55）。这种转向将统治视为无控制权力的做法是佩蒂特最近更多尝试将统治与良好构建的民主进行对比的结果，但民主受限制的权力与统治权力的对立反映了他早期坚持的观点，即我们无法知道何时权力是专断的，除非“通过公开讨论，人们可以为自己和属于他们的团体说话”（1997 年：56）。在这里，他还将自己的理论与艾瑞斯·杨在《正义与差异政治》中对统治的描述联系起来。杨说，统治是“彻底的社会和政治民主”的“对立面”，并将生活在统治结构下定义为在他人统治下生活。
+
+> 可以直接或通过其行为的结构后果来确定[被统治者]的行为条件，而无需回报。 (1990 [2011: 38])
+
+当然，对于一个非道德化的理论来说，将统治识别为反民主必须涉及对民主的非道德化描述。这并不一定是一个问题，因为我们可以仅仅以描述性意义上的“民主”来描述政治制度。(例如，有人说，“扩大选举权会导致更民主的社会”，可能仅仅意味着更大比例的人口有权投票，而认为这是一个可怕的想法，是不扩大选举权的理由。) 更困难的是，要展示即使是广义上的民主国家也是非统治的，如果我们认为没有统治涉及由被统治者直接控制国家。很明显，绝大多数个体公民并没有以任何有意义的方式控制他们的国家；鉴于当代国家的庞大规模，他们如何能够控制国家是不清楚的。我们可以说，他们应该满足于公平分享控制权，或者有公平机会控制权。但是说当我们有公平分享控制权时我们避免了统治，看起来非常像是一种道德化理论的方式，因为公平显然是一个道德概念。(Pettit 试图在《人民的条件》的最后三章中特别解释非统治的政治安排。有关 Pettit 对控制概念的更多解释和批评，请参见 Arnold & Harris 2017，Mayer 2015，Schink 2013，Sharon 2015，Simpson 2017 和 Kolodny 即将出版。)
+
+弗兰克·洛维特（Frank Lovett）认为，避免统治并不需要民主，而是需要将强大者置于可靠执行且广为人知的规则之下。也许民主实际上最有效地减少了统治，但这应该是基于实质性论证，而不是仅仅从概念的分析中得出的（Lovett 2010）。此外，有理由认为，只要统治者必须遵守可靠执行且广为人知的规则，即使这些规则在任何方面都不表达被统治者的意愿，从属群体就会减少被统治的程度。洛维特使用以下案例来阐明他的观点：
+
+> 假设由于各种历史、经济和文化原因，某个社会中的一个群体设法获得了社会权力的优势地位，直接且无约束地对该社会中的其他群体施加统治，从而使自身受益。由于从属群体无法直接挑战强大群体的首要地位，他们要求的是仅仅将后者的各种权利和特权书面记录、编纂，并由独立的法官公正执行。让我们假设，随着时间的推移，强大群体同意了这一要求，因为他们认为，由于规则将被设计为使他们受益，因此，他们这样做并不会有重大成本。
+
+如果权力在法律中被组织和系统化，将其称为任意的确听起来有些奇怪。毕竟，在这种情况下，它可能是完全可预测的。洛维特更接近常识观念，即任意的特点是不可预测的、无理性的，并且不受规则约束。他甚至声称，“像吉姆·克劳和南非种族隔离这样的‘现实世界统治系统’在可能的世界中可能不再具有统治性，如果它们能够‘严格遵守明确的规则和程序’”（2010 年：101）。这样的政权仍然会是压迫性的是显而易见的，但他认为这应该通过其他政治恶行来解释，而不是通过统治来解释。他建议的不是关于任意权力的实质性解释——即当权力不被迫追踪其主体的意愿时，权力就会统治——而是程序主义：权力统治是因为它没有“可靠地受到所有相关人员或团体共同知晓的有效规则、程序或目标的约束”（洛维特 2010 年：96-97；2012 年；有关佩蒂特和洛维特关于任意权力性质的辩论的更多讨论，请参见“什么被视为任意权力？”一节在共和主义词条中）。
+
+Lovett 对程序主义的论点引发了对实质主义要求的几种澄清。程序主义强调了 Gwilym David Blunt（2015）所称的“统治”的“来源”是个人而非社会，“场所”是互动而非系统性的。程序主义所强调的广为人知且可靠执行的权力检查确实减少了由个人权力来源（例如 A 拥有比 B 更多的枪支或狡诈）所带来的统治，尤其是当这种权力在 A 和 B 作为个体代理人的互动中得以表现时。如果 A 和 B 是邻居，A 拥有大量武器而 B 没有，认为 B 对 A 的投诉是关于他们对仅由 A 的心血来约束的权力的极度脆弱性是有道理的。实质主义可能更适合识别 Blunt 所称的社会“来源”和系统性“场所”中的统治。在实际的统治系统中，A 通常对 B 具有权力，不是因为 A 单独拥有更多权力（例如拥有更多自己的枪支），而是因为 A 和 B 都生活在一个旨在使 A 的群体受益而使 B 受损的系统内。在这种情况下，A 通常有权力调整系统，或者可以获得这种权力，而 B 则没有。
+
+统治的另一种解释方式是程序主义坚持认为，即使没有民主约束，可靠执行的共同知识规则也可以减少统治。当 A 独自决定是否以及如何骚扰 B 时，A 对 B 进行骚扰的权力仅受到 A 认为什么是最好的或应该做什么的感觉的限制。假设 A 生活在一个引入了可靠执行的共同知识规则的社会，根据这个规则，A 只能通过把 B 关进枷锁来骚扰 B，而不能鞭打 B。这改变了 A 和 B 的情况。现在，A 不再独自决定是否以及如何骚扰 B：现在，A 不仅仅受到 A 认为自己有理由做的事情的限制。通过这种方式，A 的权力变得不那么“思考上孤立”（McCammon 2015）。如果这是正确的，统治甚至可以通过非民主改革来减少。然而，法律和其他对个人权力的限制可能是由整个团体以思考上孤立的方式形成的，就像在吉姆·克劳和种族隔离时期一样，如果 A 团体的成员对规则有所贡献，而 B 团体的成员没有。授权的团体经常仅基于他们自己对事物应该如何的看法来决定与被统治团体的交往条件，团体的思考上孤立的权力可能会通过减少个人的思考上孤立的措施而得到加强。
+
+### 道德化、与规范无关的理论
+
+非规范独立的、道德化的统治理论比非道德化的种类影响力小。尽管如此，它们的吸引力很容易理解。有明显的理由将统治道德化：即，统治者利用他们的权力做坏事。奴隶主强奸和殴打他们的奴隶。在父权制中，男性强奸和殴打女性。统治使邪恶行为不受惩罚。对于那些以道德化方式思考统治的人来说，这种免罚或许是最重要的。当然，并非每一种道德错误的行为都表现为统治。当主人折磨他的奴隶时，这是统治；但当奴隶制服主人并折磨他时，可能不是，即使在两种折磨都是错误的假设下。为什么？区别在于主人对折磨奴隶的后果，与奴隶对折磨主人的后果。主人无罚地伤害奴隶；奴隶伤害主人只会面临被奴役他的系统执行者的严重风险。为了获得统治而不是错误行为，有必要包括这样一个要求：作为第一步，A 统治 B 仅仅因为 A 可以在偏向 A 的不对称权力关系的背景下伤害 B。如果 A 可以无罚地伤害 B，而 B 知道这一点，A 将有能力控制 B。B 将知道拒绝与 A 合作可能导致 B 的权利或利益受损。
+
+最常见的无需依赖规范的道德化方法将统治解释为违反“基本”或“最佳”利益。Allen (1999), Lukes (2005), 和 Wartenberg (1990) 是“基本”利益方法的主要倡导者。Kittay (1999: 34), Laborde (2013: 285), 和 Shapiro (2012: 310; 2016: 23) 则强调“最佳”利益。Shapiro 寻求当地习俗的指导，确定合法权力的标准，除非这些习俗严重损害了弱势群体的利益。例如，他乐意将对合法父母权力的判断留给父母，但不包括那些否认子女教育和医疗保健的人。基准是在当代民主背景下作为“正常成年人”生活所必需的条件 (2012: 294)。Laborde 通过呼吁“我们有理由珍视”的方式 (2013: 285) 对基本利益进行道德化，而不是人们可能实际珍视的东西。当然，一个非道德化的基本利益描述可能将利益与人们实际珍视的东西联系起来，而不考虑他们有理由珍视的东西。但这将使我们陷入尴尬的境地，无法认识到那些珍视自己屈从的被洗脑奴隶中的统治。
+
+### 非道德化、依赖规范的理论
+
+统治的最明显的案例——主人、暴君、家长——通常都声称拥有权威。典范通常认为自己是制定规则的人，他们的属下有义务遵守。说统治者总是声称拥有这种权威是支持一种依赖规范的理论：A 统治 B 是因为 A 在社会上拥有某种合法的权力。并非所有社会权力都是这样运作的，或者看起来并非如此。那个来到你店里要求保护费的街区黑帮老大几乎肯定不指望你认为他的命令“交钱，否则后果自负！”是一种受到制裁支持的合法权威的表达。可以合理地认为，典型的黑帮老大只关心你是否认可他是一个可信的威胁来源并遵从。根据大多数依赖规范的理论，这意味着黑帮老大并不统治。统治总是“在权利的色彩下的权力”。黑帮老大并没有这样的色彩。相比之下，家长相信他的命令为家庭成员创造义务；这才是他统治的原因，而不仅仅是他干涉选择的权力。在这里，依赖规范的理论与它们的独立规范的竞争对手分道扬镳：后者往往会将黑帮老大和家长都视为统治的来源。
+
+如上所述，规范依赖和道德化是两个不同的问题。我们不需要一个关于正确或善的理论来告诉我们某人是否拥有被当地社会规范或法律合法化的权力。当然，我们确实需要一个道德理论来告诉我们社会规范或法律是否正确、公正或真正合法。正如我们将在下一节中看到的，统治的最具影响力的规范依赖理论将其与对被统治者实际道德权威的特定不尊重联系起来，因此提供了一种道德化以及规范依赖的理论。
+
+为什么更倾向于规范依赖而不是规范独立？通常，转向规范依赖是由于对过度概括的熟悉担忧而激发的。世界可能充满了无法控制的选择干涉力量，但一个代理人很少会将另一个人视为约束规范的来源。我可能有无法控制的力量，在咖啡馆里在你之前坐到最后一个座位；这显然与对你的任何权威无关。后者的力量似乎不那么普遍，更为严重。
+
+此外，依赖于规范、非道德化的概念或许最能够诊断出在被统治者内化了对其地位的正当化的情况下的统治。新共和主义者经常强调，受统治者没有足够的权力来争辩他们的立场，但是对于那些受统治者不愿意争辩的情况呢？因为他们接受了一种正当化他们被统治的世界观？迈克尔·汤普森称这种不愿意为构成性统治的表现：这种方式
+
+> 规范、制度和社区的价值观塑造了主体接受权力形式、社会关系和集体目标作为合法权威形式的理性。(2018: 44)
+
+这样做，他抵制了标准的新共和主义者所谓的“任意”权力。 统治之所以构成性质，正是因为在其控制下的人并不认为它是任意的。 相反，他声称，统治是广泛理性化和内化规范的表达。 当然，如果我们同意所有权力必然涉及合法性要求（参见 Azmanova 2012: 49-50），那么认为社会权力的强烈形式，如统治，将与对合法性要求的彻底接受相一致。
+
+根据马克思主义和像汤普森（Thompson）这样的马克思主义理论，新共和主义者被他们的范式误导。新共和主义者从奴役和传统专制主义中获取他们的统治基准——这些种类在传统社会中据说更为普遍，那里暴力威胁是统治的主要手段。相反，根据马克思主义理论，我们应该将统治视为使暴力和强制不那么必要的意识形态：例如，当将公共物品重新分配给私人精英被广泛接受为自然或自由交换的结果时，即使许多人因此而受苦。
+
+统治的内化并不是唯一将统治与内化规范联系起来的方式。克里斯托弗·勒布朗指出另一种可能性：也许必要的并不是被统治者接受对其处境的合理化，而是统治者这样做。他声称，统治和更为良性的等级制度之间的区别在于，统治者控制着“合法化的神话”，这些神话掩盖了他们的统治。一个工人有老板这一简单事实并不表明统治；相反，它可能只表明一种互惠互利的安排（Lebron 2013: 56）。老板通过接受和推广能够为其升迁辩护的神话来实现统治。在这种情况下，重要的是统治群体接受这些神话，他们的意识被塑造，例如，使他们的权力被误认为是自然的特征，或者是他们固有的优点或应得的结果，而不是被统治者表现出如此改变的意识。
+
+遇到的依赖规范理论通常会寻求机构和系统来体现和促进社会规范。无论机构和系统本身是否具有统治力，标准的依赖规范理论通常认为机构的存在是通过规范实现统治的必要条件：例如，家长在家庭制度中行使权威的能力取决于人们普遍接受的有关父亲地位的态度；奴隶主在向奴隶行使权威的能力取决于允许将人的生命视为财产的经济和政治体系。格威林·大卫·布伦特的理论独树一帜，因为它是依赖规范的，而不需要背景机构。根据布伦特的观点，即使是黑帮老大也对规范具有权力：用上面介绍的语言来说，这是从个人来源汲取的统治互动场所：即，黑帮老大通过对枪支和肌肉的个人控制获得权力。与像洛维特这样的独立规范理论者不同，布伦特声称所有社会关系都涉及规范。就黑帮老大和店主的社会关系而言，这不仅涉及非规范元素，如战略关联或退出成本。重要的权力不对称性是社会关系中定义其他方的地位的权力不对称性。黑帮老大有足够的权力来将店主置于社会关系中的低下地位，并将自己设定为关系中制定规则的人。布伦特认为，通过这种方式，他可以保持标准的新共和主义直觉，即像黑帮老大这样的强大代理人可以在依赖规范框架内成为统治者。
+
+### 4.4 道德化、依赖规范的理论
+
+统治不一定需要诉诸道德概念来判断一个强大的人是否能够或不能够规定社会规范；但是，对于一系列有影响力的理论来说，统治的规范依赖是以明确的道德术语构建的。这是一个可以理解的举措。毕竟，如果我们认为统治总是通过规范表达，而且我们认为即使在社会上合法的情况下统治在道德上是不合法的，那么将统治视为一种特定的未能遵守道德合法规范的失败是有道理的。对于那些被道德化并且依赖规范的统治理论来说，我们诊断统治不仅仅是作为通过权威主张表达的权力，而且是一种特定类型的道德上不合法的权威。
+
+鉴于最具影响力的道德化/依赖规范理论——亨利·理查德森（Henry Richardson）和莱纳·福斯特（Rainer Forst）——要么在共和主义内部发展，要么直接回应共和主义，发现这里存在一种类似的对统治的双重运动方法；首先，解释统治中体现的权力，同时也解释善意形式的权力；其次，解释统治的独特性和不公正性。对于理查德森来说，善意或甚至合法权力的更广泛类别是“修改他人的权利和义务的权力”（2002: 34）。一个行动者可能拥有这种权力而不统治任何人；统治者行使一种未经授权的这种“规范权力”的变体。理查德森在这里再次受到了他认为是共和主义错误的积极的驱使：像黑帮老板这样的罪犯并不统治，他声称。如果无法控制地干涉选择统治，我们就会被邻居可能在夜间割破我们的轮胎的可能性所统治。秘密割破轮胎可能是任意的选择干涉，但它在行使规范权力方面没有明显的作用。
+
+弗斯特偏爱使用理由的语言来确定统治是其所属的更广泛权力类别。他说，所有社会权力都是“在理由空间内”的权力——具体而言是理由的合理化。这就是为什么他称自己的权力观念为“物自体的”：权力不仅仅基于对物质资源的控制，而是基于对其他行动者视为合理的思想或行动的影响。拥有大量某种物质资源——比如金钱——从权力的角度来看是无关紧要的，除非你能够利用它来改变其他人认为他们有最充分理由去做的事情。总的来说，弗斯特说，权力是“A 的能力去激励 B 去思考或做一些 B 本来不会去思考或做的事情”（2015: 115）。很明显，这种权力有无辜的种类：当老师向学生展示解决数学问题的新方法时，他们激励他们以一种他们本来不会的方式去思考和做事情。朋友之间的温和劝说展现了同样的力量。
+
+理查森（Richardson）和福斯特（Forst）都试图将统治置于更广泛的、本质上规范的现象之中，即将他人置于[所谓的]义务之下的权力或影响他人所认为合理的权力。那么，是什么使统治与不义之间有所不同？对于理查森和福斯特来说，统治涉及对我们的权利相对于规范领域的侵犯。统治者声称在属于被统治者的理性空间内拥有权威或权力。统治是一种不受其受害者道德地位约束的权力，他们不是规范的共同创作者。对于理查森来说，他专注于政治背景中的权力，规范权力的任意性表现在几个道德维度上：统治权力未能表达“公平”的审议过程，这些过程应该是“自由平等公民”之间的，尊重“基本权利和自由”（2002 年：52）。奴隶主统治是因为他将属于他的奴隶的权力据为己有：我们有道德权利共同决定我们的政治权利和义务。他之所以能够做到这一点，是因为他作为奴隶主得到了制度上的支持。如果他的一个奴隶逃跑，他可以请求国家追踪并将奴隶送回。这就是真正的统治者与对规范权力的妄称者之间的区别。想象一个自以为代表上帝的黑帮老大。他可能相信自己有创造权利和义务的权力；即便如此，没有类似暴君、奴隶主或家长可以依赖的社会和法律支持，黑帮老大也不会成功地创造非法的权利和义务，因此在理查森的理论中也不会统治。
+
+Forst 通过将统治权力与明确道德基准相比较来衡量权力的统治程度——权力的统治程度取决于其是否在旨在确保和尊重每位公民平等权威的民主制度结构之外行使（Forst 2013）。社会关系中的物自力量在代理人被剥夺辩护权利时变成了统治：即，他们被剥夺了作为自由平等者参与理由空间的权利（2015: 116–117）。有趣的是，Forst 的理论，类似于 Blunt 的非道德化理论，与 Richardson 的理论不同，显然允许统治权力存在于官方权威结构之外。Forst 称，统治者通过剥夺我们接受和提供充分辩护的权利来“封锁”理由空间，但有许多种方式可以做到这一点。其中一种方式就是通过暴力威胁。如果一个黑帮老大拥有所有的枪支和肌肉，他将能够完全排挤店主出辩护空间。店主可能对他们有理由思考和做出什么持有信念是无关紧要的，鉴于他们不遵从将付出的代价。
+
+再次，如果我们将统治所需的权力理解为一种权威，那么根据非法权威来诊断统治的存在或缺失是有意义的。当非法规范权威被少数强大者声称时，我们被坚定地推向与所有规范权威进行对账的方向。当然，一旦这种对账开始，自然而然地会以广义康德式的术语来诊断统治，即缺乏确保我们自主权受到尊重的制度。（参见 Bohman 2004，对国际关系应用了类似的方法。）
+
+依赖规范或道德化理论将统治与某些形式的无约束的不对称权力联系起来，而与其他形式无关，无论是权力来规定社会关系的规范，建立合法化叙事，改变我们所谓的权利和义务的形状，将我们排除在理性空间之外，侵犯我们的基本利益，还是对我们不利。这使它们更容易受到统治可能采取某些未被这些具体权力所捕捉到的形式的影响。洛维特——一位非道德化、独立于规范的理论的倡导者——担心道德化或依赖规范的理论倾向于一种历史或文化的近视，只看到统治在“社会权力形式恰好是主导的统治工具”或在过去的时间里（2010 年：92）的形式。他建议我们将道德化或依赖规范理论强调的一些权力形式视为统治的变种，但要警惕它可能采取的其他形式。当然，道德化或依赖规范的信徒可能会回应，主导的非道德化/独立于规范的竞争者看到了并不存在的统治，未能看到其具体威胁，或者在某些其他社会恶行才是问题时大喊“统治”。
+
+## 统治与应用伦理学
+
+由于权力不对称在传统政治之外的其他背景中仍然存在，统治的概念已经被用于应用伦理学中超越政治哲学。反统治方法具有普世吸引力。很少有人否认这些范例是不公正的；因此，展示某种权力结构或使用权力类似于这些范例在很大程度上有助于激发对它们的裁决。对统治的认识还引起我们对道德错误如何在个体行为的界限之外显现的关注。除了关于哪些个体行为是错误的问题之外，其他问题也变得重要。谁有权以何种方式行动？潜在受害者如何有权抵抗？即使没有实际受害，谁是脆弱的？无论多么仁慈，谁制定规则？谁服从或拒绝服从，他们的服从（或拒绝）会给他们带来什么代价？那些拥有更多权力的人的行动如何构建了那些权力较小或无权力的人必须行动的空间？
+
+医疗保健（或未能提供）充满了统治的潜力。病人容易受到那些控制他们康复所需的人的影响（O’Shea 2017, 2018）。残疾人在一个几乎完全为他人利益和控制而建立的世界中选择和行动（De Wispelaere & Casassas 2014）。工人通常对自己工作场所的条件或文化没有太多发言权（Gourevitch 2011; Breen 2015; Anderson 2017）。移民和外来人口通常处于政治不稳定的状态，他们极易受到剥削，没有法律地位来抗议对待（Honohan 2014; Costa 2016; Sager 2017）。富裕国家的消费习惯塑造了一个全球环境，在这个环境中，所有人类现在和可预见的未来都将做出选择（Bohman 2011; Nolt 2011; Smith 2012; Smith 2013; Katz 2017）。
+
+大多数反统治论的部署应用了统治的新共和主义理论，但也存在重要的例外。除了弗里德曼（Friedman）和基泰（Kittay）在照顾者和家庭方面的新共和主义账目的偏离之外，其他试图将统治用于传统政治以外领域的努力也产生了修正性的结果。例如，汤姆·奥谢（Tom O’Shea）担心标准的新共和主义关注选择干扰和加剧代理人选择情况恶化的焦点，使我们无法看到医疗护理中“辅助性的任意权力”的可能性。在这些情况下，病人可能容易受到统治的影响，并非因为有人故意干预他们的选择，例如通过将药物价格提高到他们无法承受的程度，而是因为未能提供利益，例如当没有人为行动不便的人提供交通服务。在更为戏剧性的偏离中，科里·卡茨（Corey Katz）认为，主流新共和主义将统治根植于社会关系和可能的选择干扰的倾向，使其无法诊断那些尚未出生的人的统治（2017 年）。如果我们想将代际不公正视为一种统治的形式，卡茨坚持认为，我们必须转向一个基于结果的概念，重点放在对未来几代人造成的不公正伤害上，这些人无法抵抗这种伤害。
+
+## 结论
+
+在哲学中，持续的分歧毫不令人意外，但对统治的分歧的持续与一个有趣的问题相关联，即讨论应该从何处继续：我们希望统治理论做什么？我们的统治理论是否应告诉我们人们何时自由何时不自由？我们希望我们的统治理论能够洞察社会不公的本质吗？诊断政治统治的不当行为？激发民主理论？描述晚期资本主义社会的底层人群？捕捉受压迫的种族少数群体在种族化等级制度中的抱怨？以上所有？并非所有统治理论都同样适用于这些任务；因此，个别理论的吸引力可能根据我们认为最紧迫的任务而有所不同。
+
+统治与其他经常用来描述与权力相关的不公正的概念之间的关系是一个相关的问题，目前文献中尚未得到充分探讨：例如，剥削、压迫和征服。杨（1990 [2011]）区分了统治和压迫，将前者与对行动和行动背景的不对称权力联系起来，将后者与以一种更为模糊且有时是无意识的方式塑造机构，以否定某些社会群体理解和表达自己的能力联系起来，除了从特权者的角度来看。不幸的是，很少有人像她那样努力去区分这些概念之间的分工。（有趣的例外情况，请参见贝拉米 2007: 151–152。）更普遍的是，新共和主义者的假设认为，对于像压迫这样的不公正的关注可以融入对统治的关注（佩蒂特 1997: 80）。正如并非所有关于统治的理论都同样适用于我们可能要将它们用于的每项任务一样，也许应该将对统治本身的关注与对其他形式的不公正的关注相结合。至少，对统治的最新研究已经极大地加深了我们对这种不公正的理解，即使它的所有形式并非都可以有用地诊断为这种单一的疾病的表现。
+
+## Bibliography
+
+* Allen, Amy, 1999, *The Power of Feminist Theory*, Boulder: Westview Press.
+* Anderson, Elizabeth, 2017, *Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It)*, Princeton: Princeton University Press.
+* Arnold, Samuel and John R. Harris , 2017, “What Is Arbitrary Power?”, *Journal of Political Power*, 10(1): 33–70. doi:10.1080/2158379X.2017.1287473
+* Azmanova, Albena, 2012, *The Scandal of Reason*, New York: Columbia University Press.
+* Bellamy, Richard, 2007, *Political Constitutionalism: A Republican Defence of the Constitutionality of Democracy*, Cambridge: Cambridge University Press.
+* Blunt, Gwilym David, 2015, “On the Source, Site and Modes of Domination”, *Journal of Political Power*, 8(1): 5–20. doi:10.1080/2158379X.2015.1010800
+* Bohman, James, 2004, “Republican Cosmopolitanism”, *The Journal of Political Philosophy*, 12(3): 336–352. doi:10.1111/j.1467-9760.2004.00203.x
+* –––, 2011, “Children and the Rights of Citizens: Nondomination and Intergenerational Justice”, *Annals of the American Academy of Political and Social Science*, 633(1), 128–140. doi:10.1177/0002716210383114
+* Breen, Keith, 2015, “Freedom, Republicanism, and Workplace Democracy”, *Critical Review of International Social and Political Philosophy*, 18(4):470–485. doi:10.1080/13698230.2015.1033857
+* Carter, Ian, 2015, “Value Freeness and Value Neutrality in the Analysis of Political Concepts”, *Oxford Studies in Political Philosophy*, 1: 279–306.
+* Christman, John, 2008, “Review: *Republicanism: A Theory of Freedom and Government* by Philip Pettit”., *Ethics*, 109(1): 202–6. doi:10.1086/233891
+* Costa, M. Victoria, 2007, “Freedom as Non-Domination, Normativity and Indeterminacy”, *Journal of Value Inquiry*, 41(2/4): 291–307. doi:10.1007/s10790-007-9072-x
+* –––, 2013, “Is Neo-Republicanism Bad for Women?”, Hypatia, 28(4): 921–936. doi:10.1111/hypa.12002
+* –––, 2016, “Republican Liberty and Border Controls”, *Critical Review of International Social and Political Philosophy*, 19(4): 400–415. doi:10.1080/13698230.2015.1066046
+* Delany, Martin Robison, 1852 [1968], *The Condition, Elevation, Emigration, and Destiny of the Colored People of the United States*, New York: Arno Press.
+* De Wispelaere, Jurgen and Casassas, David, 2014, “A Life of One’s Own: Republican Freedom and Disability”, *Disability and Society*, 29(3): 402–416. doi:10.1080/09687599.2013.823076
+* Easton, Hosea, 1837 [1999], “A Treatise on the Intellectual Character, and the Civil and Political Condition of the colored People of the United States; and the Prejudice Exercised towards Them”, in *To Heal the Scourge of Prejudice: The Life and Writings of Hosea Easton*, George R. Price and James Brewer Stewart (eds.), Amherst, MA: University of Massachusetts Press.
+* Fine, Sarah, 2014, “Non-Domination and the Ethics of Migration”, *Critical Review of International Social and Political Philosophy*, 17(1): 10–30. doi:10.1080/13698230.2013.851481
+* Foucault, Michel, 1975 [1977], *Surveiller et Punir: Naissance de la Prison*, Paris: Gallimard. Translated as *Discipline and Punish: The Birth of the Prison*, Alan Sheridan (trans.), New York, Vintage, 1977.
+* Forst, Rainer, 2013, “A Kantian Conception of Justice as Nondomination”, in Niederberger and Schink 2013: 154–168. doi:10.3366/edinburgh/9780748643066.003.0007
+* –––, 2015, “Noumenal Power”, *Journal of Political Philosophy*, 23(2): 111–127. doi:10.1111/jopp.12046
+* Friedman, Marilyn, 2008, “Pettit’s Civic Republicanism and Male Domination”, in Laborde and Maynor 2008: ch. 9.
+* Gourevitch, Alex, 2011, “Labor and Republican Liberty”, *Constellations*, 18(3): 431–453. doi:10.1111/j.1467-8675.2011.00644.x
+* Hart, H.L.A., 1994, *The Concept of Law*, Oxford: Clarendon Press.
+* Havel, Vaclav, 1991, *Open Letters: Selected Prose*, Paul Wilson (ed.), London: Faber and Faber.
+* Hirschmann, Nancy J., 2003, *The Subject of Liberty: Toward a Feminist Theory of Freedom*, Princeton: Princeton University Press.
+* Honohan, Iseult, 2014, “Domination and Migration: an Alternative Approach to the Legitimacy of Migration Controls”, *Critical Review of International Social and Political Philosophy*, 17(1): 31–48. doi:10.1080/13698230.2013.851482
+* Katz, Corey, 2017, “Neorepublicanism and the Domination of Posterity”, *Ethics, Policy & Environment*, 20(3): 294–313. doi:10.1080/21550085.2017.1374034
+* Kittay, Eva Feder, 1999, *Love’s Labor: Essays on Women, Equality and Domination*, New York: Routledge.
+* Kolodny, Niko, forthcoming, “Being under the Power of Others”, in *Republicanism and Democracy*, Yiftah Elizar and Geneviève Rousselière (eds.), Cambridge: Cambridge University Press.
+* Krause, Sharon R, 2013, “Beyond Non-Domination: Agency, Inequality, and the Meaning of Freedom”, *Philosophy & Social Criticism*, 39(2): 187–208. doi:10.1177/0191453712470360
+* Laborde, Cécile, 2008, *Critical Republicanism: The Hijab Controversy and Political Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199550210.001.0001
+* –––, 2013, “Republicanism and Global Justice: A Sketch”, in Niederberger and Schink 2013: 276–301. doi:10.3366/edinburgh/9780748643066.003.0012
+* Laborde, Cécile and John Maynor (eds.), 2008, *Republicanism and Political Theory*, Malden, MA: Blackwell Publishing.
+* Lebron, Christopher J., 2013, *The Color of Our Shame: Race and Justice in Our Time*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199936342.001.0001
+* List, Christian and Philip Pettit, 2011, *Group Agents: The Possibility, Design, and Status of Corporate Agents*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199591565.001.0001
+* List, Christian and Laura Valentini, 2016, “Freedom as Independence”, *Ethics*, 126(4): 1043–1074. doi:10.1086/686006
+* Lovett, Francis N. [Frank], 2001, “Domination: A Preliminary Analysis”, *The Monist*, 84(1): 98–112. doi:10.5840/monist20018414
+* –––, 2010, *A General Theory of Domination and Justice*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199579419.001.0001
+* –––, 2012, “What Counts as Arbitrary Power?” *Journal of Political Power*, 5(1): 137–152. doi:10.1080/2158379X.2012.660026
+* Lukes, Steven, 2005, *Power: A Radical View*, London: Palgrave Macmillan
+* Mayer, Seth, 2015, “Republicanism, Democratic Participation, and Unelected Authority”, *Philosophy and Public Issues*, (new series) 5(2): 171–201.
+* McCammon, Christopher, 2015, “Domination: A Rethinking”, *Ethics*, 125(4): 1028–1052. doi:10.1086/680906.
+* McMahon, Christopher, 2005, “The Indeterminacy of Republican Policy”, *Philosophy and Public Affairs*, 33: 67–93. doi:10.1111/j.1088-4963.2005.00025.x
+* Niederberger, Andreas and Philipp Schink (eds.), 2013, *Republican Democracy: Liberty, Law and Politics*, Edinburgh: Edinburgh University Press, doi:10.3366/edinburgh/9780748643066.001.0001
+* Nolt, John, 2011, “Greenhouse Gas Emission and the Domination of Posterity”, in *The Ethics of Global Climate Change*, Denis Arnold (ed.), Cambridge: Cambridge University Press, 60–76. doi:10.1017/CBO9780511732294.004
+* O’Shea, Tom, 2017, “Civic Republican Medical Ethics”, *Journal of Medical Ethics*, 43(1): 56–59. doi:10.1136/medethics-2016-103697
+* –––, 2018, “Disability and Domination: Lessons from Republican Political Philosophy”, *Journal of Applied Philosophy*, 35(1): 133–148. doi:10.1111/japp.12149
+* Pansardi, Pamela, 2013, “A Non-Normative Theory of Power and Domination”, *Critical Review of International Social and Political Philosophy*, 16(5): 614–633. doi:10.1080/13698230.2012.691204.
+* Pettit, Philip, 1996, “Freedom as Antipower”, *Ethics*, 106(3): 576–604. doi:10.1086/233648
+* –––, 1997, *Republicanism: A Theory of Freedom and Government*, Oxford: Clarendon Press.
+* –––, 1999, “Republican Freedom and Contestatory Democratization”, in *Democracy’s Value*, Ian Shapiro and Casiano Hacker-Cordon (eds.), Cambridge: Cambridge University Press.
+* –––, 2001, *A Theory of Freedom: From the Psychology to the Politics of Agency*, Oxford: Oxford University Press.
+* –––, 2005, “The Domination Complaint”, in *Political Exclusion and Domination*, (*Nomos*, 46), Melissa S. Williams and Stephen Macedo (eds), New York: New York University Press, 87–117.
+* –––, 2006, “The Determinacy of Republican Policy: A Reply to McMahon”, *Philosophy and Public Affairs*, 34(3): 275–283. doi:10.1111/j.1088-4963.2006.00068.x
+* –––, 2012. *On the People’s Terms: A Republican Theory and Model of Democracy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139017428
+* Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Richardson, Henry S, 2002, *Democratic Autonomy: Public Reasoning about the Ends of Policy*, Oxford: Oxford University Press.
+* Rogers, Melvin, forthcoming, “Race, Domination, and Republicanism”, in *Difference without Domination: On Justice and Democracy in Conditions of Diversity*, Danielle Allen and Rohini Somanathan (eds), Chicago: University of Chicago Press.
+* Sager, Alex, 2017, “Immigration Enforcement and Domination: An Indirect Argument for Much More Open Borders”, *Political Research Quarterly*, 70(1): 42–54. doi:10.1177/1065912916680036
+* Schink, Philipp, 2013, “Freedom, Control, and the State”, in Niederberger and Schink 2013: 205–232. doi:10.3366/edinburgh/9780748643066.003.0009
+* Shapiro, Ian, 2012, “On Non-Domination”, *University of Toronto Law Journal*, 62(3): 293–335. doi:10.1353/tlj.2012.0015
+* –––, 2016, *Politics against Domination*, Cambridge, MA: Belknap Press.
+* Sharon, Aasaf, 2016, “Domination and the Rule of Law”, *Oxford Studies in Political Philosophy*, Volume 2: 128–155. doi:10.1093/acprof:oso/9780198759621.003.0006.
+* Simpson, Thomas W., 2017, “The Impossibility of Republican Freedom”, *Philosophy and Public Affairs*, 45(1): 27–53. doi:10.1111/papa.12082
+* Smith, P.T., 2012, “Domination and the Ethics of Solar Radiation Management”, in *Engineering the Climate: the Ethics of Solar Radiation Management*, Christopher Preston (ed.), Lanham: Lexington Books.
+* –––, 2013, “The Intergenerational Storm: Dilemma or Domination”, *Philosophy and Public Issues* (New Series), 3(1): 207–244.
+* Stewart, Maria W. [d. 1879], 1987, *America’s First Black Woman Political Writer: Essays and Speeches*, Marilyn Richardson (ed.), Bloomington: Indiana University Press.
+* Skinner, Quentin, 1998, *Liberty before Liberalism*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139171274
+* –––, 2008, “Freedom as the Absence of Arbitrary Power”, in Laborde and Maynor 2008: ch. 3.
+* Thompson, Michael J., 2013, “A Functionalist Theory of Social Domination”, *Journal of Political Power*, 6(2): 179–199. doi:10.1080/2158379X.2013.805922
+* –––, 2018, “The Two Faces of Domination in Republican Political Theory”, *European Journal of Political Theory*, 17(1): 44–64. doi:10.1177/1474885115580352
+* Walker, David, 1829 [2003], *Appeal To The Coloured Citizens of the World*, Peter P. Hinks (ed.), Pennsylvania: Pennsylvania State University Press.
+* Wartenberg, Thomas, 1990, *The Forms of Power: From Domination to Transformation*, Philadelphia: Temple University Press.
+* Young, Iris Marion, 1990 [2011], *Justice and the Politics of Difference*, Princeton: Princeton University Press.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=domination). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/domination/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=domination&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/domination/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* Pettit, Philip, 2003, [Republicanism](https://plato.stanford.edu/archives/spr2003/entries/republicanism/), the first entry on republicanism in the *Stanford Encyclopedia of Philosophy* (Spring 2003 Edition).
+
+## Related Entries
+
+[feminist philosophy, topics: perspectives on power](https://plato.stanford.edu/entries/feminist-power/) | [liberty: positive and negative](https://plato.stanford.edu/entries/liberty-positive-negative/) | [republicanism](https://plato.stanford.edu/entries/republicanism/)
+
+### Acknowledgments
+
+Many thanks to the participants in The Philosophical Underclass. Without your help, it would have been very much more difficult to gather the literature I needed to write this.
+
+[Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
+Christopher McCammon <[*rmccammon@tcc.edu*](mailto:rmccammon%40tcc%2eedu)>
