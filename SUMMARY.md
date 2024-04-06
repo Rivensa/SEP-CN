@@ -725,7 +725,7 @@
 * [让·巴蒂斯特·杜博斯 Du Bos, Jean-Baptiste (James O. Young and Margaret Cameron)](d/rang-ba-di-si-te-du-bo-si-du-bos-jeanbaptiste-james-o.-young-and-margaret-cameron.md)
 * [皮埃尔·迪昂 Duhem, Pierre (Roger Ariew)](d/pi-ai-er-di-ang-duhem-pierre-roger-ariew.md)
 * [\*詹姆斯·邓巴——见苏格兰哲学：18 世纪的苏格兰哲学Dunbar, James — see Scottish Philosophy: in the 18th Century](d/zhan-mu-si-deng-ba-jian-su-ge-lan-zhe-xue-18-shi-ji-de-su-ge-lan-zhe-xue-dunbar-james-see-scottish-p.md)
-* [邓斯·司各脱 Duns Scotus, John (Thomas Williams)](d/deng-si-si-ge-tuo-duns-scotus-john-thomas-williams.md)
+* [约翰·邓斯·司各脱 Duns Scotus, John (Thomas Williams)](d/yue-han-deng-si-si-ge-tuo-duns-scotus-john-thomas-williams.md)
 * [荷兰赌定理 Dutch book arguments (Susan Vineberg)](d/he-lan-du-ding-li-dutch-book-arguments-susan-vineberg.md)
 * [\*动态认知逻辑——见逻辑学——动态认知逻辑 dynamic epistemic logic — see logic: dynamic epistemic](d/dong-tai-ren-zhi-luo-ji-jian-luo-ji-xue-dong-tai-ren-zhi-luo-ji-dynamic-epistemic-logic-see-logic-dy.md)
 * [\*动态语义学——见语义学：动态语义学 dynamic semantics — see semantics: dynamic](d/dong-tai-yu-yi-xue-jian-yu-yi-xue-dong-tai-yu-yi-xue-dynamic-semantics-see-semantics-dynamic.md)
