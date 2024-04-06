@@ -1,6 +1,6 @@
 # 摹状词 descriptions (Peter Ludlow)
 
-*首次发表于 2004 年 3 月 2 日星期二；实质性修订于 2022 年 9 月 21 日星期三*
+_首次发表于 2004 年 3 月 2 日星期二；实质性修订于 2022 年 9 月 21 日星期三_
 
 描述的分析自从 1905 年 Bertrand Russell 发表了《论指称》一文以来，在形而上学、认识论、语义学、心理学、逻辑学和语言学的讨论中扮演着重要的角色。尽管明确和不定描述的表面简单性，过去 100 多年来一直存在关于它们适当分析的激烈争论。例如，一些哲学家和语言学家将明确描述视为指称表达式，另一些将其视为量化表达式，还有一些将其视为陈述表达式。对描述的其他分析认为冠词“the” 和 “a” 并未在语义上做出贡献，而是在传达信息方面做出了语用贡献。最近一些语言学研究甚至质疑了明确和不定冠词对应于自然语言中逻辑元素的观念。
 
@@ -9,39 +9,34 @@
 * [1. 什么是描述？](https://plato.stanford.edu/entries/descriptions/#WhaDes)
 * [2. 罗素的描述理论](https://plato.stanford.edu/entries/descriptions/#RusTheDes)
 * [3. 罗素描述理论的动机](https://plato.stanford.edu/entries/descriptions/#MotForRusTheDes)
-
   * [3.1 罗素描述理论的形而上动机](https://plato.stanford.edu/entries/descriptions/#MetMotForRusTheDes)
   * [3.2 罗素描述理论的语义动机](https://plato.stanford.edu/entries/descriptions/#SemMotForRusTheDes)
   * [3.3 罗素描述理论的认识论动机](https://plato.stanford.edu/entries/descriptions/#EpiMotForRusTheDes)
 * [4. 描述理论的延伸](https://plato.stanford.edu/entries/descriptions/#ExtTheDes)
-
   * [4.1 适当名称的描述性理论](https://plato.stanford.edu/entries/descriptions/#DesTheProNam)
   * [4.2 代词照应的描述性理论](https://plato.stanford.edu/entries/descriptions/#DesTheProAna)
   * [4.3 不定描述](https://plato.stanford.edu/entries/descriptions/#IndDes)
   * [4.4 复数、集合和泛指描述](https://plato.stanford.edu/entries/descriptions/#PluMasGenDes)
 * [5. 对描述理论的异议](https://plato.stanford.edu/entries/descriptions/#ObjTheDes)
-
   * [5.1 对罗素真值条件的质疑](https://plato.stanford.edu/entries/descriptions/#ChaRusTruCon)
   * [唐纳伦的区分和误描述论证](https://plato.stanford.edu/entries/descriptions/#DonDisArgMis)
   * [不完整论证](https://plato.stanford.edu/entries/descriptions/#ArgInc)
 * [消解描述](https://plato.stanford.edu/entries/descriptions/#DisDes)
-
   * [6.1 拒绝独特性主张](https://plato.stanford.edu/entries/descriptions/#RejUniCla)
   * [6.2 统一观点的批评](https://plato.stanford.edu/entries/descriptions/#CriUniVie)
   * [6.3 拒绝存在性主张](https://plato.stanford.edu/entries/descriptions/#RejExiCla)
   * [6.4 在压力下的极大主张](https://plato.stanford.edu/entries/descriptions/#MaxClaUndPre)
 * [7. 透过语言学的镜头看描述](https://plato.stanford.edu/entries/descriptions/#DescLens)
-
   * [7.1 描述作为谓词](https://plato.stanford.edu/entries/descriptions/#DescPred)
   * [7.2 确定词的分解](https://plato.stanford.edu/entries/descriptions/#DetsExpl)
   * [7.3 确定词作为格标记](https://plato.stanford.edu/entries/descriptions/#DetCase)
-* [ 8. 结论](https://plato.stanford.edu/entries/descriptions/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/descriptions/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/descriptions/#Aca)
+* [8. 结论](https://plato.stanford.edu/entries/descriptions/#Con)
+* [参考文献](https://plato.stanford.edu/entries/descriptions/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/descriptions/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/descriptions/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descriptions/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/descriptions/#Rel)
 
----
+***
 
 ## 1. 描述是什么？
 
@@ -51,7 +46,7 @@
 
 > （1）一个人走进了房间。他打开了电视。
 
-> （1'）一个人走进了房间。[走进房间的那个人] 打开了电视。
+> （1'）一个人走进了房间。\[走进房间的那个人] 打开了电视。
 
 同样，Ludlow (2001) 暗示时间照应词如“then”和情态照应词如“that”（在“that would have been unfortunate”中）是伪装的描述。
 
@@ -67,15 +62,13 @@
 
 (3) F 是 G。
 
-> (3′) ∃x(F**x &amp; ∀y(F**y → x=y) & G**x)
+> (3′) ∃x(F**x & ∀y(F**y → x=y) & G\*\*x)
 
 >
 
 简化为最简单的非技术形式，这个想法是，(3)式的表达是三个主张的简写：
 
-> (3a) 存在一个 F。
-> (3b) 最多只有一件事是 F。
-> (3c) 某物是 F 就是 G。
+> (3a) 存在一个 F。 (3b) 最多只有一件事是 F。 (3c) 某物是 F 就是 G。
 
 (按照尼尔（1990）的观点，我们会发现将（3c）替换为（3c′）是有用的，这保留了罗素的真值条件，并且（正如我们将看到的）使我们能够自然地将理论扩展到复数描述。)
 
@@ -95,9 +88,9 @@
 
 因为在罗素看来，确定性描述是量化设备，它们可以与其他运算符（例如否定）进入范围关系。因此，在（4）中存在一种歧义：在一种解读中，它可以被解释为断言法国现任国王不存在，而在另一种解读中，它可以被解释为关于法国现任国王的断言，即他不存在。这两种解读可以通过逻辑形式的差异来捕捉，即通过使用以下两个逻辑形式来表示这种差异。
 
-> (4a) not ([the *x*: *x* is a present king of France] *x* exists)
+> (4a) not (\[the _x_: _x_ is a present king of France] _x_ exists)
 
-> (4b) [the *x*: *x* is a present king of France] not (*x* exists)
+> (4b) \[the _x_: _x_ is a present king of France] not (_x_ exists)
 
 我们在这里使用了 Neale（1990）中采用的受限量词符号表示法。因此，例如，我们阅读：
 
@@ -159,9 +152,9 @@ Russellian 可以主张其他人在这方面也是一样的。考虑不存在对
 
 某人可能与这些属性捆绑在一起，但并没有写《尼各马可伦理学》（只要他们拥有足够多的其他属性）。
 
-The *principled basis* objection is supposed to collapse because there is now no issue of choosing which description is the correct one—if the theologian, the historian, and the philosopher all associate different descriptions and hence different properties with Aristotle, all of those properties will make it into the bundle of properties for the name ‘Aristotle’. We don’t need to worry about the principled basis for choosing the relevant properties because we don’t have to choose period. We take them all.
+The _principled basis_ objection is supposed to collapse because there is now no issue of choosing which description is the correct one—if the theologian, the historian, and the philosopher all associate different descriptions and hence different properties with Aristotle, all of those properties will make it into the bundle of properties for the name ‘Aristotle’. We don’t need to worry about the principled basis for choosing the relevant properties because we don’t have to choose period. We take them all.
 
-The *unwanted ambiguity* objection is supposed to collapse because every use of the name ‘Aristotle’ is now associated with the same bundle of properties. ‘Aristotle is Aristotle’ is uninformative because it is shorthand for (10).
+The _unwanted ambiguity_ objection is supposed to collapse because every use of the name ‘Aristotle’ is now associated with the same bundle of properties. ‘Aristotle is Aristotle’ is uninformative because it is shorthand for (10).
 
 > (10) The individual who is associated with some significant number of these properties (taught by Plato, taught Alexander, wrote the Nichomachean Ethics, etc.) is the individual who is associated with some significant number of these properties (taught by Plato, taught Alexander, wrote the Nichomachean Ethics, etc.).
 
@@ -195,7 +188,7 @@ The *unwanted ambiguity* objection is supposed to collapse because every use of 
 
 然而，从语言学角度来看，我们应该注意到自然语言中名称的特征使它们看起来类似于描述。名称可以带有冠词如“a”和“the”（实际上在某些语言中它们经常这样做），这表明它们更像名词而不是饱和的指称表达。事实上，对名称的广泛语言分析认为它们可能具有空的冠词位置，因此像亚里士多德这样的名称至少具有以下结构，代表具有空冠词和名词“亚里士多德”作为成分的冠词短语的句法结构：
 
-> [DP [Det ∅] [N 亚里士多德]]
+> \[DP \[Det ∅] \[N 亚里士多德]]
 
 此外，Burge (1973) 提出了一些支持名字实际上是谓词的观点的论据，进一步的支持也来自 Hornsby (1976)，Larson 和 Segal (1995) 以及 Eluguardo (2002)。(但请参见 Boer (1975)，Bach (1987) 和 Higginbotham (1988) 的批评。)
 
@@ -205,14 +198,13 @@ Burge 的故事将决定词视为类似于裸指示词。将空元素的默认�
 
 另一类回应试图保留名称的标准描述内容，但避开克里普克的情态担忧。邓梅特（1973; 111–135, 1981）和索萨（1996; 第 3 章, 2001）提出，如果我们将名称视为具有强制广泛范围的描述，那么可以解释名称在情态语境中的行为。因此，例如，（11）可以被视为具有以下逻辑形式。
 
-> （11″）[x：x 教过亚历山大等等] 可能（有这样一种情况：x 在两岁时被战车碾过）
+> （11″）\[x：x 教过亚历山大等等] 可能（有这样一种情况：x 在两岁时被战车碾过）
 
 克里普克在《（1980）》的序言中简要讨论了这种可能性，认为这一举措忽视了我们可以简单地在其他可能的世界中评估（12），因此在情态运算符中嵌入实际上并不是必要的。就此而言，考虑一个句子，比如“（12）本来可能是真的”。在这种情况下，广义故事如何帮助我们？最近，索姆斯（2002 年；第 2 章）进一步阐述了克里普克的观点，并提出了许多反对广义范围命题的额外论点，包括观察到，如果将一个名称嵌入到一个命题态度环境中，然后将命题态度嵌入到一个情态环境中，那么一个人就处于需要描述逃离情态环境（以符合刚性事实）但不逃离命题态度环境（以符合罗素（1905 年）用来推动名称描述理论的“斯科特”/“沃尔特爵士”案例的奇特位置）。换句话说，描述理论者需要既要占便宜又要占便宜。
 
 另一种可能性（在尼尔森（2002）中考虑）是主张名称是“刚性化的描述”（即，像“实际上是柏拉图学生，教导亚历山大等的个体”或者刚性化的因果描述）。这种一般策略受到索姆斯（2002 年；第 2 章）的批评，他认为“实际上的 F 是 G”和“n 是 G”，其中 n 是一个名称，不表达相同的命题。这一论点的依据在于这些表达式被嵌入到命题态度环境中的情况，如（14a）和（14b）。
 
-> （14a）史密斯相信 n 是 G。
-> 史密斯认为实际的 F 是 G。
+> （14a）史密斯相信 n 是 G。 史密斯认为实际的 F 是 G。
 
 根据索姆斯（Soames）的观点，存在着言说语境和评价世界，在这些语境中（14a）是真实的，但（14b）是错误的。因此，“实际的 F 是 G”和“n 是 G”不能表达相同的命题。因此，名称不能被刚化描述。参见 Nelson（2002）对这一论点的回应。（刚化描述的解释已经在其他地方提出，例如参见 Zalta（1988；第 5 章），但通常不作为解释命题态度环境中描述行为的方式。）
 
@@ -232,7 +224,7 @@ Soames（2009）回应说，这种特定的双向主义方法等同于声称参�
 
 显然对斯特劳森有两种不同的回应。一个可能会拒绝这样的想法，即代词的内容在某种意义上依赖于描述（例如，有人可能会声称它独立地指代了某个被提升到显著性的对象（Lewis 1979），有人可能会声称它是一个被约束的变量（Geach 1962）），或者可以主张代词是一种伪装的确定描述。这第三种想法已经被帕森斯（1978 年，其他互联网资源），库珀（1979），戴维斯（1981），尼尔（1990，第 6 章），海姆（1990），拉德洛（1994），范罗伊（2001）和埃尔本（2005）所探讨（有时这种观点被归因于埃文斯（1977），但更准确的说法是他认为代词的指称被描述性内容严格固定）。如上所述，基本思想是（1）中的代词可以代表（1'）中方括号内的确定描述。
 
-> （1'）一个人进来了。[进入房间的那个人] 打开了电视。
+> （1'）一个人进来了。\[进入房间的那个人] 打开了电视。
 
 这种观点的哲学吸引力是显而易见的。它让我们能够理解我们在否定存在、信念报告和虚构语境中使用非指称代词的情况。例如：
 
@@ -244,7 +236,7 @@ Soames（2009）回应说，这种特定的双向主义方法等同于声称参�
 
 考虑一个像(16)这样的例子，其中描述性材料被拼写出来。
 
-> (16′) 玛丽相信（存在一个 x：x 是法国现任国王且[x：x 是法国现任国王 &amp; x 存在](x%20清洁我的游泳池)）
+> (16′) 玛丽相信（存在一个 x：x 是法国现任国王且[x：x 是法国现任国王 & x 存在](x%20%E6%B8%85%E6%B4%81%E6%88%91%E7%9A%84%E6%B8%B8%E6%B3%B3%E6%B1%A0/)）
 
 玛丽的信念很奇怪，但总体而言，我们可以报告它，而不必承认法国现任国王的存在。
 
@@ -256,7 +248,7 @@ Soames（2009）回应说，这种特定的双向主义方法等同于声称参�
 
 现在很明显，这并不意味着我一生中只关过一次炉子，而是直觉上有一个相关的时间点我关过它——例如，当我今天早上离开家时。标准分析会认为我在这里指的是过去的时间或过去的时间间隔，但这种分析在现在论者中并不受欢迎，他们不相信存在这样的时间间隔，至少我们可能认为在提及过去和未来的时间时存在一些认识上的困扰（要看到这一点，考虑一下罗素主义者可能会说些什么，鉴于罗素主义观点要求某种直接熟悉的概念）。另一种可能是假设这里的隐含时间照应可以通过引入描述性材料——一个明确的时间状语从句——来解释，例如（18）。
 
-> （18）我在[今天早上离开家时]关了炉子。
+> （18）我在\[今天早上离开家时]关了炉子。
 
 现在论者可以将“when”视为在命题之间保持的原始时态。（参见 Ludlow（1999）讨论这种策略的困难。）就像代词照应的情况一样，描述性材料在大多数关于时间和情态话语语义的其他解释中所起的作用。再次，目标是形而上的简朴和对我们认识立场的忠实。
 
@@ -302,8 +294,7 @@ Heim (1982)观察到(20)(不像(19))暗示着一个独特的人进入了房间�
 
 当然，这并不意味着解决这个问题将结束对描述性代词分析的讨论。还有许多其他谜团存在，包括代词矛盾问题，这个问题已经被 Strawson（1952）、Davies（1981）、Ludlow 和 Neale（1991）以及 van Rooy（2001）等许多人讨论过。考虑以下简短对话。
 
-> A: 一个人在火车前跌倒了。
-> B: 他并没有跌倒，他是被推倒的。
+> A: 一个人在火车前跌倒了。 B: 他并没有跌倒，他是被推倒的。
 
 问题在于，如果代词要从前文中恢复其描述性内容，那么代词“他”将代表“在火车前跌倒的那个人”或“一个在火车前跌倒的人”这样的描述。在这里，对于唯一性含义的考虑帮助不大。一种可能性，由 Davies（1981）和 Ludlow 和 Neale（1991）提倡的是说，说话者 B 正在进行一种假装的行为——与说话者 A 一起，就像用引号说出 B'这样的话。
 
@@ -319,25 +310,25 @@ Heim (1982)观察到(20)(不像(19))暗示着一个独特的人进入了房间�
 
 > (26) 有人相信我认识的每个男人都生气。
 >
-> (26′) *[每个 y：人(y) 和 知道(I,y)]([某些%20x：人(x)](x%20相信%20y%20生气))
+> (26′) \*[每个 y：人(y) 和 知道(I,y)](\[%E6%9F%90%E4%BA%9B%20x%EF%BC%9A%E4%BA%BA\(x\)]\(x%20%E7%9B%B8%E4%BF%A1%20y%20%E7%94%9F%E6%B0%94\)/)
 
 另一方面，似乎更自然地说，(27) 可以有与 (27′) 结构对应的解释。
 
 > (27) 每个人都相信我认识的一个人生气了。
 >
-> (27′) [一个 x：人(x) 和知道(I,x)]([每个%20y：人(y)](y%20相信%20x%20生气))
+> (27′) [一个 x：人(x) 和知道(I,x)](\[%E6%AF%8F%E4%B8%AA%20y%EF%BC%9A%E4%BA%BA\(y\)]\(y%20%E7%9B%B8%E4%BF%A1%20x%20%E7%94%9F%E6%B0%94\)/)
 
 一个更具说服力的岛屿约束的例子是条件句的前提，如(28)，其解释不应该是(28′)中的解释。
 
 > (28) If every person I know is happy then I will be happy.
 >
-> (28′) *[每个 x：人(x) 并且 知道(I, x)](如果%20x%20快乐则我也会快乐)
+> (28′) \*[每个 x：人(x) 并且 知道(I, x)](%E5%A6%82%E6%9E%9C%20x%20%E5%BF%AB%E4%B9%90%E5%88%99%E6%88%91%E4%B9%9F%E4%BC%9A%E5%BF%AB%E4%B9%90/)
 
 但对于(29)来说，“广义理解”似乎是可能的。
 
 > (29) 如果我认识的一个人很快乐，那么我也会很快乐。
 >
-> （29′）[An x: person(x) and know(I,x)](if%20x%20is%20happy%20then%20I%20will%20be%20happy)
+> （29′）[An x: person(x) and know(I,x)](if%20x%20is%20happy%20then%20I%20will%20be%20happy/)
 
 这个道德应该是这样的，“广义”阅读并不是广义范围量化的反射（那将使不定描述在句法上特殊），而是由于这些例子中的不定描述是指称表达式。
 
@@ -353,7 +344,7 @@ Fodor 和 Sag 的论证被 King（1988）和 Ludlow 和 Neale（1991）在哲学
 
 从话语表示理论文献中出现的一个吸引人的可能性，特别是海姆（1982）、坎普（1984）、戴辛（1992）、坎普和雷尔（1993）的研究中出现的一个可能性是，不定描述中出现冠词实际上是虚幻的——“一个人”实际上变成了一个包含谓词和自由变量的表达式，如“人 x”。然后，这个自由变量可能会被前一节讨论的某种话语运算符捕捉到。
 
-因此，像（1）这样的句子可能具有逻辑形式，或者更好地说，类似于（1*）的话语表示结构（省略细节）。
+因此，像（1）这样的句子可能具有逻辑形式，或者更好地说，类似于（1\*）的话语表示结构（省略细节）。
 
 > 这一般策略为我们提供了一些解释，说明为什么不定词有时会表现出像条件句中那样的逃逸岛特性。答案是它们根本没有逃逸，而是自由变量，被岛外的运算符所约束（或存在性封闭）。这只是以最一般的术语描述了 DRT 策略，但我们已经可以看到困扰罗素故事的问题在这里也有所体现。现在每个人都承认在类似 (30) 和 (31) 的情况中存在中间范围的可能性，但问题在于是什么机制使其成为可能？罗素主义者必须选择具有异常逃逸岛特性的运算符。那么 DRT 理论家该怎么办呢？
 
@@ -412,15 +403,15 @@ Fara (2001)认为这种策略也可以扩展到泛指。
 
 但是像这样的案例的真值判断非常敏感。Lasersohn (1993), von Fintel (2004), Yablo (2006, 2009) 和 Schoubye (2009, 2011) 收集了许多例子，其中对示例进行微妙更改会导致不同的真值判断。考虑以下最小对，其中用‘#’标记的示例表示对分配真值存在犹豫，‘F’表示更有可能分配一个虚假值。
 
-> | (34) | a.                                     | # The present king of France is bald.  |
-> | ------ | ---------------------------------------- | ---------------------------------------- |
-> |      | b.                                     | F 法国现任国王是一个秃头的纳粹。       |
-> | (35) | a.                                     | # 法国现任国王正坐在椅子上。           |
-> |      | b.                                     | 现在的法国国王坐在那把椅子上。         |
-> | (36) | a.                                     | # 法国现任国王读了《安娜·卡列尼娜》。 |
-> |      | F 法国现任国王写了《安娜·卡列尼娜》。 | a.                                     |
-> | (37) |                                        | 现任法国国王听说了哥德巴赫猜想。       |
-> |      | b.                                     | F 现任法国国王证明了哥德巴赫猜想。     |
+| (34) | a.                   | # The present king of France is bald. |
+| ---- | -------------------- | ------------------------------------- |
+|      | b.                   | F 法国现任国王是一个秃头的纳粹。                     |
+| (35) | a.                   | # 法国现任国王正坐在椅子上。                       |
+|      | b.                   | 现在的法国国王坐在那把椅子上。                       |
+| (36) | a.                   | # 法国现任国王读了《安娜·卡列尼娜》。                  |
+|      | F 法国现任国王写了《安娜·卡列尼娜》。 | a.                                    |
+| (37) |                      | 现任法国国王听说了哥德巴赫猜想。                      |
+|      | b.                   | F 现任法国国王证明了哥德巴赫猜想。                    |
 
 冯芬特尔（Von Fintel）和亚博洛（Yablo）提供了一个解释这些最小对的解释，这个解释基于信念修正的本质。他们的想法是，错误的预设被添加到评估者的信念集中，并与该信念集进行测试。因此，如果我们将“法国国王读了《安娜·卡列尼娜》”与一个典型的信念集进行测试，就不会与现有的信念发生冲突。但是，如果我们将“法国国王写了《安娜·卡列尼娜》”与这个信念集进行测试，就会发生冲突。这些情况下，我们判断这个句子为假。
 
@@ -582,26 +573,26 @@ Elbourne (forthcoming) 认为，即使在我们对描述进行量化的情况下
 
 Schoubye（2011）对所有这些情况的解决方案值得注意。他认为，如果我们区分句子本身、预设和所断言的内容，问题就可以避免。因此，例如，对于像‘The F is G’这样的句子，我们有以下内容：
 
-> | Sentence: | the*F*is*G*                                                                                                                                                                                                                                                                                                                                                                                           |
-> | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | 前提：    | ∃*x*(*Fx*& ∀*y*(*Fy*→*x*=*y*) &*Gx*)                                                                                                                                                                                                                                                                                                                                                                                 |
-> | 断言：    | * 在 Schoubye 的提议中，独特性并不是所断言的一部分，而是被预设的。但请注意，在这种情况下，存在性要求也不是所断言的一部分。所断言的只是一个开放的句子！在某些情况下，这个开放的句子将被存在性封闭，但在像“约翰希望阁楼里的幽灵安静下来”这样的情况下，不存在存在性封闭。当然，我们可以询问断言一个开放的句子意味着什么，但请注意，我们再次趋于一种观点，即决定论者被排除在外，留下一个自由变量* |
+| Sentence: | the_F_is_G_                                                                                                                                                                                              |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 前提：       | ∃_x_(_Fx_& ∀_y_(_Fy_→_x_=_y_) &_Gx_)                                                                                                                                                                     |
+| 断言：       | \* 在 Schoubye 的提议中，独特性并不是所断言的一部分，而是被预设的。但请注意，在这种情况下，存在性要求也不是所断言的一部分。所断言的只是一个开放的句子！在某些情况下，这个开放的句子将被存在性封闭，但在像“约翰希望阁楼里的幽灵安静下来”这样的情况下，不存在存在性封闭。当然，我们可以询问断言一个开放的句子意味着什么，但请注意，我们再次趋于一种观点，即决定论者被排除在外，留下一个自由变量\* |
 
 6.4 在压力下的极大性要求
 
-### 
+###
 
 我们已经对描述的独特性和存在性要求施加了压力。我们能否对最大性要求也做同样的事情呢？在单一确定性描述的情况下，很难找到证据支持任何一种观点，但我们早些时候看到，该理论可以像 Sharvy 那样推广到复数描述，并且在复数情况下，我们实际上可以探讨最大性是否成立。
 
 回顾第 4.4 节，根据 Sharvy（1980）对描述的分析，我们可以通过论证“the F（或 Fs） is（are）G”等价于以下内容来将 Russell 的描述理论推广到复数形式，
 
-> (32) ∃*x*(*Fx* & ∀*y*(*Fy* → *y*≤ *x*) & *Gx*)
+> (32) ∃_x_(_Fx_ & ∀_y_(_Fy_ → _y_≤ _x_) & _Gx_)
 
 在我们感兴趣的是，这种分析编码了极大性主张——它说所有的 F 都是 G。但这种分析正确吗？可以说不是。如果有人说美国人民对特朗普感到失望，这并不意味着所有人都是。如果我的邻居有 101 条达尔马提亚犬，我可能抱怨“狗又在叫了”，即使只有其中一些在叫（而且似乎不太可能说我在将话语领域限制在只有 20 条左右在叫的狗身上）。同样适用于明确的质量术语；如果我说面包盒里的面包发霉了，我并不是说整个面包都发霉了——我是说其中一部分发霉了。如果我说“狗是忠诚的动物”，我并不是说所有的狗亚种都是忠诚的。可以说，Sharvy 的描述概括理论中的极大性条件应该完全被取消。（但请参见 Brogaard（2007）和 Bach（2000）对极大性的辩护。）
 
 通过语言学的视角看描述
 
-## 
+##
 
 描述的重要性，以及形而上学、认识论等领域所涉及的问题，促使一些哲学家深入研究描述的实际语言学（或更好地说，确定和不确定限定词），并且语言学家也乐意加入调查。这些联合调查所展示的是，描述的结构并非像哲学家们经常想象的那样简单。有几个领域已经显现出这一点。
 
@@ -625,9 +616,7 @@ Schoubye（2011）对所有这些情况的解决方案值得注意。他认为�
 
 Fara（2001）探讨了所有定描述的使用都是表述性的可能性，即使是主语位置的描述也是如此。这个想法是，如果我说“法国现任国王是秃头的”，我是在说类似以下的内容：存在某个 x，使得 x 是法国唯一的现任国王且 x 是秃头的。这里有趣的点是独特性条件被内置到谓词中。扩展 Sharvy（1980）对复数描述的分析，我们得到以下结果，其中 F 是所有 F 的集合，或者是所有是 F 的物质的集合（在表达式前后和后面的竖线表示我们正在谈论被边界表达式的语义值或含义）：
 
-> |(63)||an*F*| =*F*|
-> | ------| -------------------------------------------------------------------------------------------------|
-> |||the*F*| = {*x*:*x*∈*F*& ∀*y*(*y*∈*F*→*y*≤*x*)}|
+> |(63)||an_F_| =_F_| | ------| -------------------------------------------------------------------------------------------------| |||the_F_| = {_x_:_x_∈_F_& ∀_y_(_y_∈_F_→_y_≤_x_)}|
 
 但我们可能再次考虑在这里消除明确和不明确描述之间的区别，并说有一个单一规则解释所有描述——明确的、不明确的、单数的、复数的、质量的或通用的——作为谓词。当我们补充拒绝唯一性/极大性条款时，我们得到这个结果：
 
@@ -681,227 +670,226 @@ Fara（2001）探讨了所有定描述的使用都是表述性的可能性，即
 
 自然语言的句法和语义的深入研究表明，形式为“the F”和“an F”的结构在自然语言中不仅罕见，而且在英语等语言中可能具有误导性。这些表达实际上并没有承担罗素和后来的作者所认为的逻辑角色。然而，罗素的核心洞察力仍然完整：关键问题是它们出现在其中的句子是量化的还是指称的，罗素在这里关键案例上很可能是正确的。也就是说，许多表面上是指称的结构实际上可能是量化的。罗素没有看到的是，表面语法比他意识到的更具欺骗性。像“the”和“a”这样的元素并不直接编码量词或唯一性子句。现在语言哲学家的任务是艰巨的，要弄清楚它们实际上编码了什么信息。
 
-
 ##
 
 Bibliography
 
-* Abbott, B., 1999. “Support for a Unique Theory of Definite Descriptions,” *SALT 9: Proceedings from Semantics and Linguistic Theory IX*, Ithaca, NY: CLC Publications, 1–15.
-* –––, 2003. “A Reply to Szabó’s ‘Descriptions and Uniqueness’,” *Philosophical Studies*, 113: 223–231.
-* –––, 2008. “Issues in the Semantics and Pragmatics of Definite Descriptions in English,” in J. Gundel & N. Hedberg, (eds.), *Reference: Interdisciplinary perspectives*, Oxford: Oxford University Press, 61–72.
-* Abbott, B., and L. Horn, 2011. “Nonfamiliarity and Indefinite Descriptions,” *Paper presented at the annual meeting of the Linguistic Society of America*, Pittsburgh.
-* Abraham, W., 1997. “The Interdependence of Case, Aspect and Referentiality in the History of German: The Case of the Verbal Genitive,” in A. van Kemenade and N. Vincent (eds.), *Parameters of Morphosyntactic Change*, Cambridge: Cambridge University Press, 29–61.
-* Ahn, Dorothy. 2019. *THAT thesis: A competition mechanism for anaphoric expressions*, Ph.D. Thesis, Harvard University.
-* Bach, K., 1987. *Thought and Reference*, Oxford: Oxford University Press.
-* –––, 2000. “Quantification, Qualification, and Context: A Reply to Stanley and Szabó,” *Mind and Language*, 15: 262–283.
-* Barker, C., and C. Shan., 2008. “Donkey Anaphora is In-scope Binding,” *Semantics and Pragmatics*, 1: 1–40.
-* –––, 2004. “Descriptions: Points of Reference,” in A. Bezuidenhout and M. Reimer (eds.), *Descriptions and Beyond*, Oxford: Oxford University Press, 189–229.
-* Beaver, D., 2001. *Presupposition and Assertion in Dynamic Semantics*. Stanford: CSLI Publications.
-* Berman, S., 1987. “Situation-based Semantics for Adverbs of Quantification,” in J. Blevins and A. Vainikka (eds.), *Studies in Semantics* (University of Massachusetts Occasional Papers in Linguistics: Volume 12), Amherst: GLSA, 46–68.
-* Breheny, R., 1999. *Context Dependence and Procedural Meaning: The Semantics of Definites*, Ph.D thesis, Department of Linguistics, University College, London.
-* Brogaard, B., 2007. “*The* But Not *All*: A Partitive Account of Plural Definite Descriptions,” *Mind and Language*, 22: 402–26.
-* Brown, M., 1992. “‘On Denoting’ Updated,” *Acta Analytica*, 8: 7–32.
-* Burge, T., 1973. “Reference and Proper Names,” *The Journal of Philosophy*, 70: 425–439.
-* –––, 1980. “Truth and Singular Terms,” in M. Platts (ed.), *Reference, Truth and Reality: Essays on the Philosophy of Language*, London: Routledge & Keegan Paul, 167–181.
-* Byrne, A. and J. Pryor, 2006. “Bad Intensions,” in M. Garcia-Carpintero and J. Macia (eds.), *Two-Dimensional Semantics: Foundations and Applications*, Oxford: Oxford University Press, 38–54.
-* Chastain, C., 1975. “Reference and Context,” in K. Gunderson (ed.), *Language, Mind and Knowledge, Minnesota Studies in the Philosophy of Science* (Volume VII), Minnesota: University of Minnesota Press, 194–269.
-* Chalmers, D., 2004. “The Foundations of Two-Dimensional Semantics,” in M. Garcia-Carpintero & J. Macia, (eds.), *Two-Dimensional Semantics: Foundations and Applications*, Oxford: Oxford University Press.
-* –––, 2002. “The Components of Content,” in D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*, Oxford: Oxford University Press, 608–633.
-* Chemla, E., 2009. “Presuppositions of Quantified Sentences: Experimental data,” *Natural Language Semantics*, 17: 299–340.
-* Chien, Y.-C. and K. Wexler, 1990. “Children’s Knowledge of Locality Conditions in Binding as Evidence for the Modularity of Syntax and Pragmatics,” *Language Acquisition*, 1: 225–295.
-* Chomsky, N., 1975. “Questions of Form and Interpretation,” *Linguistic Analysis*, 1: 75–109.
-* Christophersen, P., 1939. *The Articles: A Study of Their Theory and Use in English*, Copenhagen: Munksgaard.
-* Coppock, Elizabeth, forthcoming. “On definite descriptions: Can familiarity and uniqueness be distinguished?” in Daniel Altshuler (ed.), *Linguistics Meets Philosophy*, Cambridge: Cambridge University Press.
-* Cooper, R., 1979. “The Interpretation of Pronouns,” in F. Heny and H. Schnelle (eds.), *Syntax and Semantics, vol. 10: Selections from the Third Groningen Round Table*, New York: Academic Press, 61–92.
-* Davies, M., 1981. *Meaning, Quantification, Necessity*, London: Routledge and Keegan Paul.
-* Davies, M. and Humberstone, L., 1980. “Two Notions of Necessity,” *Philosophical Studies*, 38: 1–30.
-* Devitt, M., 1981. *Designation*, New York: Columbia University Press.
-* –––, 2004. “The Case for Referential Descriptions,” in A. Bezuidenhout and M. Reimer (eds.) *Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions*, Oxford: Oxford University Press.
-* –––, 2007. “Referential Descriptions and Conversational Implicatures,” *European Journal of Analytic Philosophy*, 3: 7–32.
-* Devitt, M., and K. Sterelny, 1999. *Language and Reality: An Introduction to the Philosophy of Language*, 2nd edition, Cambridge, MA: MIT Press.
-* Diesing, M., 1992. *Indefinites*, Cambridge, MA: MIT Press.
-* Donnellan, K. S., 1966. “Reference and Definite Descriptions,” *Philosophical Review*, 77: 281–304.
-* –––, 1978. “Speaker Reference, Descriptions, and Anaphora,” in P. Cole (ed.), *Syntax and Semantics 9: Pragmatics*, New York: Academic Press, 47–68.
-* Dummett, M., 1973. *Frege: Philosophy of Language*, Cambridge, MA: Harvard University Press.
-* –––, 1981. *The Interpretation of Frege’s Philosophy*, London: Duckworth.
-* Elbourne, P., 2005. *Situations and Individuals*, Cambridge, MA: MIT Press.
-* –––, 2009. “Bishop Sentences and Donkey Cataphora: A Response to Barker and Shan,” *Semantics and Pragmatics*, 2: 1–7.
-* –––, 2010. “On Bishop Sentences,” *Natural Language Semantics*, 18: 65–78.
-* –––, 2013. *Definite Descriptions*, Oxford: Oxford University Press.
-* –––, forthcoming. “Definite Descriptions and Negative Existential Quantifiers,” *Philosophical Studies*, first online 27 May 2017. doi:10.1007/s11098-017-0925-2
-* Eluguardo, R., 2002. “The Predicate View of Proper Names,” in G. Preyer and G. Peter (eds*.), Logical Form and Language*, Oxford: Oxford University Press, 13–53.
-* Enç, M., 1986. “Towards a Referential Analysis of Temporal Expressions,” *Linguistics and Philosophy*, 9: 405–426.
-* Epstein, R., 1996. “Viewpoint and the Definite Article,” in A. Goldberg (ed.), *Conceptual Structure, Discourse and Language*, Stanford: CSLI Publications, 99– 112.
-* Evans, G., 1973. “The Causal Theory of Names,”*Proceedings of the Aristotelian Society* (Supplementary volume), 47: 187–208.
-* –––, 1982. *The Varieties of Reference*, Oxford: Oxford University Press.
-* Everett, A., and T. Hofweber (eds.), 2001. *Empty Names, Fiction and the Puzzles of Non-Existence*, Stanford: CSLI Publications.
-* Fara, D.G., 2001. “Descriptions as Predicates,” *Philosophical Studies*, 102: 1–42. Published under the name “Delia Graff.”
-* Farkas, D.F., 1981. “Quantifier Scope and Syntactic Islands,” in R. Hendrik et al. (eds.), *Proceedings of CLS* 7, Ithaca: CLC Publications, 36–55.
-* Felka, K., 2015. “On the Presuppositions of Number Sentences,” *Synthese*, 192: 1393–1412.
-* von Fintel, K., 2004. “Would You Believe It? The King of France is Back! (Presupposition and Truth-Value Intuitions),” in A. Bezuidenhout and M. Reimer (eds.), *Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions*, Oxford: Oxford University Press.
-* –––, 2008. “What is Presuppositional Accommodation, Again?” *Philosophical Perspectives*, 22: 137–170.
-* Fodor, J.D., and I. Sag, 1982. “Referential and Quantificational Indefinites,” *Linguistics and Philosophy*, 5: 355–398.
-* French, P., and H. Wettstein (eds.), 2001. *Midwest Studies in Language XXV: Figurative Language*, Oxford: Blackwell.
-* Gauker, C., 2008. “Against Accommodation: Heim and van der Sandt and the Presupposition Projection Problem,” *Philosophical Perspectives* 22: 171–205.
-* Geach, P., 1962. *Reference and Generality,* Ithaca: Cornell University Press.
-* Geurts, B., and van der Sandt, R., 2011. “Domain restriction,” in P. Bosch & R. van der Sandt (eds.), *Focus: Linguistic, cognitive, and computational perspectives*, Cambridge: Cambridge University Press, 268–292.
-* Geurts, B., and van Tiel, B., 2016). “When ‘All the Five Circles’ are four: New exercises in domain restriction,” *Topoi*, 35: 109–122.
-* Grice, H.P., 1961. “The Causal Theory of Perception,” *Proceedings of the Aristotelian Society* (Supplementary volume), 35: 121–52.
-* –––, 1975. “Logic and Conversation,” in J. Cole and J. Morgan (eds.), *Syntax and Semantics, Vol 3: Speech Acts*, New York: Academic Press.
-* –––, 1981. “Presupposition and Conversational Implicature,” in P. Cole (ed.) *Radical Pragmatics*, New York: Academic Press, 183–198.
-* Groenendijk, J., and M. Stokhof, 1991. “Dynamic Predicate Logic,” *Linguistics and Philosophy*, 14: 39–100.
-* Hawthorne, J., and D. Manley, 2012. *The Reference Book*, Oxford: Oxford University Press.
-* Heim, I., 1982. *The Semantics of Definite and Indefinite Noun Phrases*, Ph.D. Thesis, University of Massachusetts, Amherst.
-* –––, 1983. “On the Projection Problem for Presuppositions,” in D. Flickinger (ed.), *Proceedings of the Second West Coast Conference on Formal Linguistics*, Stanford: Stanford University Press, 114–125.
-* –––, 1990. “E-Type Pronouns and Donkey Anaphora,” *Linguistics and Philosophy*, 13: 137–178.
-* –––, 1991. “Artikel und Definitheit,” in A. von Stechow and D. Wunderlich (eds.), *Semantik. Ein internationales Handbuch der Zeitgenössischen Forschung*, Berlin: Walter de Gruyter, 487–535.
-* –––, 1992. “Presupposition Projection and the Semantics of Attitude Verbs,” *Journal of Semantics* 9: 183–221.
-* Hewson, J., 1972. *Article and Noun in English,* The Hague : Mouton.
-* Higginbotham, J., 1987. “Indefiniteness and Predication,” in E. Reuland and A. ter Meulen (eds.), *The Representation of (In)definiteness*, Cambridge, MA: MIT Press, 43–70.
-* –––, 1988. “Contexts, Models, and Meaning: A Note on the Data of Semantics,” in R. Kempson (ed.), *Mental Representations: The Interface between Language and Reality*, Cambridge: Cambridge University Press, 29–48.
-* Higginbotham, J., and R. May, 1981. “Questions, Quantifiers and Crossing,” *The Linguistic Review*, 1: 51–79.
-* Horn, L., 2006. “Toward a Fregean Pragmatics: *Voraussetzung, Nebengedanke, Andeutung*,” Essen: Linguistic Agency University of Duisburg-Essen (LAUD), Paper No. 676.
-* Hornsby, J., 1976. “Proper Names: A Defense of Burge,” *Philosophical Studies*, 30: 227–234.
-* –––, 1977. “Singular Terms in Contexts of Propositional Attitude,” *Mind*, 86: 31–48.
-* Iliev, I., 2019. “On a Possessive Usage of the Definite Article in Bulgarian,” *Dunarea–Nistru: Anuar*, 6: 233–240.
-* Ivančev, S., 1988. *Bŭlgarskijat Ezik –– Klasičeski i Ekzotičen*, Sofia: Narodna Prosveta.
-* Jackson, F., 1998. “Reference and Description Revisited,” in J. Tomberlin (ed.), *Philosophical Perspectives 12: Language, Mind, and Ontology*, Oxford: Blackwell, 201–218.
-* Jandrić, A., 2014. “‘The King of France is Bald’ reconsidered: A case against Yablo,” *Philosophical Studies*, 169: 173–181.
-* Kadmon, N., 1990. “Uniqueness,” *Linguistics and Philosophy*, 13: 273–324.
-* Kamp, H., 1981. “A Theory of Truth and Semantic Interpretation,” in J. Groenendijk et al., (eds.), *Formal Methods in the Study of Natural Language*, Amsterdam Centre. Reprinted in J. Groenendijk et.al., (eds.), *Truth, Interpretation, and Information*, Dordrecht: Foris, 1–43 (1984).
-* Kamp, H., and U. Reyle, 1993. *From Discourse to Logic*, Dordrecht: Kluwer Academic Publishers.
-* Kanazawa, M., 2001. “Singular Donkey Pronouns are Semantically Singular,” *Linguistics and Philosophy*, 24: 383–403.
-* Karmiloff-Smith, A., 1979. *A Functional Approach to Child Language*, Cambridge: Cambridge University Press.
-* Keenan, E. and Y. Stavi, 1986. “A Semantic Characterization of Natural Language Determiners,” *Linguistics and Philosophy*, 9: 253–326.
+* Abbott, B., 1999. “Support for a Unique Theory of Definite Descriptions,” _SALT 9: Proceedings from Semantics and Linguistic Theory IX_, Ithaca, NY: CLC Publications, 1–15.
+* –––, 2003. “A Reply to Szabó’s ‘Descriptions and Uniqueness’,” _Philosophical Studies_, 113: 223–231.
+* –––, 2008. “Issues in the Semantics and Pragmatics of Definite Descriptions in English,” in J. Gundel & N. Hedberg, (eds.), _Reference: Interdisciplinary perspectives_, Oxford: Oxford University Press, 61–72.
+* Abbott, B., and L. Horn, 2011. “Nonfamiliarity and Indefinite Descriptions,” _Paper presented at the annual meeting of the Linguistic Society of America_, Pittsburgh.
+* Abraham, W., 1997. “The Interdependence of Case, Aspect and Referentiality in the History of German: The Case of the Verbal Genitive,” in A. van Kemenade and N. Vincent (eds.), _Parameters of Morphosyntactic Change_, Cambridge: Cambridge University Press, 29–61.
+* Ahn, Dorothy. 2019. _THAT thesis: A competition mechanism for anaphoric expressions_, Ph.D. Thesis, Harvard University.
+* Bach, K., 1987. _Thought and Reference_, Oxford: Oxford University Press.
+* –––, 2000. “Quantification, Qualification, and Context: A Reply to Stanley and Szabó,” _Mind and Language_, 15: 262–283.
+* Barker, C., and C. Shan., 2008. “Donkey Anaphora is In-scope Binding,” _Semantics and Pragmatics_, 1: 1–40.
+* –––, 2004. “Descriptions: Points of Reference,” in A. Bezuidenhout and M. Reimer (eds.), _Descriptions and Beyond_, Oxford: Oxford University Press, 189–229.
+* Beaver, D., 2001. _Presupposition and Assertion in Dynamic Semantics_. Stanford: CSLI Publications.
+* Berman, S., 1987. “Situation-based Semantics for Adverbs of Quantification,” in J. Blevins and A. Vainikka (eds.), _Studies in Semantics_ (University of Massachusetts Occasional Papers in Linguistics: Volume 12), Amherst: GLSA, 46–68.
+* Breheny, R., 1999. _Context Dependence and Procedural Meaning: The Semantics of Definites_, Ph.D thesis, Department of Linguistics, University College, London.
+* Brogaard, B., 2007. “_The_ But Not _All_: A Partitive Account of Plural Definite Descriptions,” _Mind and Language_, 22: 402–26.
+* Brown, M., 1992. “‘On Denoting’ Updated,” _Acta Analytica_, 8: 7–32.
+* Burge, T., 1973. “Reference and Proper Names,” _The Journal of Philosophy_, 70: 425–439.
+* –––, 1980. “Truth and Singular Terms,” in M. Platts (ed.), _Reference, Truth and Reality: Essays on the Philosophy of Language_, London: Routledge & Keegan Paul, 167–181.
+* Byrne, A. and J. Pryor, 2006. “Bad Intensions,” in M. Garcia-Carpintero and J. Macia (eds.), _Two-Dimensional Semantics: Foundations and Applications_, Oxford: Oxford University Press, 38–54.
+* Chastain, C., 1975. “Reference and Context,” in K. Gunderson (ed.), _Language, Mind and Knowledge, Minnesota Studies in the Philosophy of Science_ (Volume VII), Minnesota: University of Minnesota Press, 194–269.
+* Chalmers, D., 2004. “The Foundations of Two-Dimensional Semantics,” in M. Garcia-Carpintero & J. Macia, (eds.), _Two-Dimensional Semantics: Foundations and Applications_, Oxford: Oxford University Press.
+* –––, 2002. “The Components of Content,” in D. Chalmers (ed.), _Philosophy of Mind: Classical and Contemporary Readings_, Oxford: Oxford University Press, 608–633.
+* Chemla, E., 2009. “Presuppositions of Quantified Sentences: Experimental data,” _Natural Language Semantics_, 17: 299–340.
+* Chien, Y.-C. and K. Wexler, 1990. “Children’s Knowledge of Locality Conditions in Binding as Evidence for the Modularity of Syntax and Pragmatics,” _Language Acquisition_, 1: 225–295.
+* Chomsky, N., 1975. “Questions of Form and Interpretation,” _Linguistic Analysis_, 1: 75–109.
+* Christophersen, P., 1939. _The Articles: A Study of Their Theory and Use in English_, Copenhagen: Munksgaard.
+* Coppock, Elizabeth, forthcoming. “On definite descriptions: Can familiarity and uniqueness be distinguished?” in Daniel Altshuler (ed.), _Linguistics Meets Philosophy_, Cambridge: Cambridge University Press.
+* Cooper, R., 1979. “The Interpretation of Pronouns,” in F. Heny and H. Schnelle (eds.), _Syntax and Semantics, vol. 10: Selections from the Third Groningen Round Table_, New York: Academic Press, 61–92.
+* Davies, M., 1981. _Meaning, Quantification, Necessity_, London: Routledge and Keegan Paul.
+* Davies, M. and Humberstone, L., 1980. “Two Notions of Necessity,” _Philosophical Studies_, 38: 1–30.
+* Devitt, M., 1981. _Designation_, New York: Columbia University Press.
+* –––, 2004. “The Case for Referential Descriptions,” in A. Bezuidenhout and M. Reimer (eds.) _Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions_, Oxford: Oxford University Press.
+* –––, 2007. “Referential Descriptions and Conversational Implicatures,” _European Journal of Analytic Philosophy_, 3: 7–32.
+* Devitt, M., and K. Sterelny, 1999. _Language and Reality: An Introduction to the Philosophy of Language_, 2nd edition, Cambridge, MA: MIT Press.
+* Diesing, M., 1992. _Indefinites_, Cambridge, MA: MIT Press.
+* Donnellan, K. S., 1966. “Reference and Definite Descriptions,” _Philosophical Review_, 77: 281–304.
+* –––, 1978. “Speaker Reference, Descriptions, and Anaphora,” in P. Cole (ed.), _Syntax and Semantics 9: Pragmatics_, New York: Academic Press, 47–68.
+* Dummett, M., 1973. _Frege: Philosophy of Language_, Cambridge, MA: Harvard University Press.
+* –––, 1981. _The Interpretation of Frege’s Philosophy_, London: Duckworth.
+* Elbourne, P., 2005. _Situations and Individuals_, Cambridge, MA: MIT Press.
+* –––, 2009. “Bishop Sentences and Donkey Cataphora: A Response to Barker and Shan,” _Semantics and Pragmatics_, 2: 1–7.
+* –––, 2010. “On Bishop Sentences,” _Natural Language Semantics_, 18: 65–78.
+* –––, 2013. _Definite Descriptions_, Oxford: Oxford University Press.
+* –––, forthcoming. “Definite Descriptions and Negative Existential Quantifiers,” _Philosophical Studies_, first online 27 May 2017. doi:10.1007/s11098-017-0925-2
+* Eluguardo, R., 2002. “The Predicate View of Proper Names,” in G. Preyer and G. Peter (eds\*.), Logical Form and Language\*, Oxford: Oxford University Press, 13–53.
+* Enç, M., 1986. “Towards a Referential Analysis of Temporal Expressions,” _Linguistics and Philosophy_, 9: 405–426.
+* Epstein, R., 1996. “Viewpoint and the Definite Article,” in A. Goldberg (ed.), _Conceptual Structure, Discourse and Language_, Stanford: CSLI Publications, 99– 112.
+* Evans, G., 1973. “The Causal Theory of Names,”_Proceedings of the Aristotelian Society_ (Supplementary volume), 47: 187–208.
+* –––, 1982. _The Varieties of Reference_, Oxford: Oxford University Press.
+* Everett, A., and T. Hofweber (eds.), 2001. _Empty Names, Fiction and the Puzzles of Non-Existence_, Stanford: CSLI Publications.
+* Fara, D.G., 2001. “Descriptions as Predicates,” _Philosophical Studies_, 102: 1–42. Published under the name “Delia Graff.”
+* Farkas, D.F., 1981. “Quantifier Scope and Syntactic Islands,” in R. Hendrik et al. (eds.), _Proceedings of CLS_ 7, Ithaca: CLC Publications, 36–55.
+* Felka, K., 2015. “On the Presuppositions of Number Sentences,” _Synthese_, 192: 1393–1412.
+* von Fintel, K., 2004. “Would You Believe It? The King of France is Back! (Presupposition and Truth-Value Intuitions),” in A. Bezuidenhout and M. Reimer (eds.), _Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions_, Oxford: Oxford University Press.
+* –––, 2008. “What is Presuppositional Accommodation, Again?” _Philosophical Perspectives_, 22: 137–170.
+* Fodor, J.D., and I. Sag, 1982. “Referential and Quantificational Indefinites,” _Linguistics and Philosophy_, 5: 355–398.
+* French, P., and H. Wettstein (eds.), 2001. _Midwest Studies in Language XXV: Figurative Language_, Oxford: Blackwell.
+* Gauker, C., 2008. “Against Accommodation: Heim and van der Sandt and the Presupposition Projection Problem,” _Philosophical Perspectives_ 22: 171–205.
+* Geach, P., 1962. _Reference and Generality,_ Ithaca: Cornell University Press.
+* Geurts, B., and van der Sandt, R., 2011. “Domain restriction,” in P. Bosch & R. van der Sandt (eds.), _Focus: Linguistic, cognitive, and computational perspectives_, Cambridge: Cambridge University Press, 268–292.
+* Geurts, B., and van Tiel, B., 2016). “When ‘All the Five Circles’ are four: New exercises in domain restriction,” _Topoi_, 35: 109–122.
+* Grice, H.P., 1961. “The Causal Theory of Perception,” _Proceedings of the Aristotelian Society_ (Supplementary volume), 35: 121–52.
+* –––, 1975. “Logic and Conversation,” in J. Cole and J. Morgan (eds.), _Syntax and Semantics, Vol 3: Speech Acts_, New York: Academic Press.
+* –––, 1981. “Presupposition and Conversational Implicature,” in P. Cole (ed.) _Radical Pragmatics_, New York: Academic Press, 183–198.
+* Groenendijk, J., and M. Stokhof, 1991. “Dynamic Predicate Logic,” _Linguistics and Philosophy_, 14: 39–100.
+* Hawthorne, J., and D. Manley, 2012. _The Reference Book_, Oxford: Oxford University Press.
+* Heim, I., 1982. _The Semantics of Definite and Indefinite Noun Phrases_, Ph.D. Thesis, University of Massachusetts, Amherst.
+* –––, 1983. “On the Projection Problem for Presuppositions,” in D. Flickinger (ed.), _Proceedings of the Second West Coast Conference on Formal Linguistics_, Stanford: Stanford University Press, 114–125.
+* –––, 1990. “E-Type Pronouns and Donkey Anaphora,” _Linguistics and Philosophy_, 13: 137–178.
+* –––, 1991. “Artikel und Definitheit,” in A. von Stechow and D. Wunderlich (eds.), _Semantik. Ein internationales Handbuch der Zeitgenössischen Forschung_, Berlin: Walter de Gruyter, 487–535.
+* –––, 1992. “Presupposition Projection and the Semantics of Attitude Verbs,” _Journal of Semantics_ 9: 183–221.
+* Hewson, J., 1972. _Article and Noun in English,_ The Hague : Mouton.
+* Higginbotham, J., 1987. “Indefiniteness and Predication,” in E. Reuland and A. ter Meulen (eds.), _The Representation of (In)definiteness_, Cambridge, MA: MIT Press, 43–70.
+* –––, 1988. “Contexts, Models, and Meaning: A Note on the Data of Semantics,” in R. Kempson (ed.), _Mental Representations: The Interface between Language and Reality_, Cambridge: Cambridge University Press, 29–48.
+* Higginbotham, J., and R. May, 1981. “Questions, Quantifiers and Crossing,” _The Linguistic Review_, 1: 51–79.
+* Horn, L., 2006. “Toward a Fregean Pragmatics: _Voraussetzung, Nebengedanke, Andeutung_,” Essen: Linguistic Agency University of Duisburg-Essen (LAUD), Paper No. 676.
+* Hornsby, J., 1976. “Proper Names: A Defense of Burge,” _Philosophical Studies_, 30: 227–234.
+* –––, 1977. “Singular Terms in Contexts of Propositional Attitude,” _Mind_, 86: 31–48.
+* Iliev, I., 2019. “On a Possessive Usage of the Definite Article in Bulgarian,” _Dunarea–Nistru: Anuar_, 6: 233–240.
+* Ivančev, S., 1988. _Bŭlgarskijat Ezik –– Klasičeski i Ekzotičen_, Sofia: Narodna Prosveta.
+* Jackson, F., 1998. “Reference and Description Revisited,” in J. Tomberlin (ed.), _Philosophical Perspectives 12: Language, Mind, and Ontology_, Oxford: Blackwell, 201–218.
+* Jandrić, A., 2014. “‘The King of France is Bald’ reconsidered: A case against Yablo,” _Philosophical Studies_, 169: 173–181.
+* Kadmon, N., 1990. “Uniqueness,” _Linguistics and Philosophy_, 13: 273–324.
+* Kamp, H., 1981. “A Theory of Truth and Semantic Interpretation,” in J. Groenendijk et al., (eds.), _Formal Methods in the Study of Natural Language_, Amsterdam Centre. Reprinted in J. Groenendijk et.al., (eds.), _Truth, Interpretation, and Information_, Dordrecht: Foris, 1–43 (1984).
+* Kamp, H., and U. Reyle, 1993. _From Discourse to Logic_, Dordrecht: Kluwer Academic Publishers.
+* Kanazawa, M., 2001. “Singular Donkey Pronouns are Semantically Singular,” _Linguistics and Philosophy_, 24: 383–403.
+* Karmiloff-Smith, A., 1979. _A Functional Approach to Child Language_, Cambridge: Cambridge University Press.
+* Keenan, E. and Y. Stavi, 1986. “A Semantic Characterization of Natural Language Determiners,” _Linguistics and Philosophy_, 9: 253–326.
 * Kim, J., 1970. “Events and Their Descriptions: Some Considerations,” in N. Rescher (ed.), Essays in Honor of Carl G. Hempel. Dordrecht: D. Reidel, 199–215.
-* King, J., 1987. “Pronouns, Descriptions, and the Semantics of Discourse,” *Philosophical Studies*, 51: 341–62.
-* –––, 1988. “Are Indefinite Descriptions Ambiguous?” *Philosophical Studies*, 53: 417–440.
-* Kempson, R., 1975. *Presupposition and The Delimitation of Semantics*, Cambridge: Cambridge University Press.
-* Kratzer, A., 1995. “Scope or Pseudoscope? Are there Wide Scope Indefinites?” in F. Hamm and A. von Stechow (eds.), *Proceedings: Recent Developments in the Theory of Natural Language*, Universitäat Täubingen.
-* –––, 1989. “An Investigation of the Lumps of Thought,” *Linguistics and Philosophy*, 12: 607–653.
-* Krifka, M., 1996. “Pragmatic Strengthening in Plural Predicates and Donkey Sentences,” in T. Galloway and J. Spence (eds.), *Proceedings of SALT VI*, Ithaca: Cornell University.
-* Kripke, S., 1977. “Speaker Reference and Semantic Reference,” in French, Uehling, and Wettstein (eds.), *Contemporary Perspectives in the Philosophy of Language*, Minneapolis: University of Minnesota Press, 6–27.
-* –––, 1980. *Naming and Necessity*, Cambridge, MA: Harvard University Press.
-* Kroll, N. 2008. “On bishops and donkeys,” *Natural Language Semantics*, 16: 359–372.
-* Kroon, F., 1987. “Causal Descriptivism,” *Australasian Journal of Philosophy*, 65: 1–17.
-* –––, 1989. “Circles and Fixed Points in Description Theories of Reference,” *Noûs*, 23: 373–392.
-* Lappin, S., 1989. “Donkey Pronouns Unbound,” *Theoretical Linguistics*, 15: 263–286.
-* Larson, R.K., 2004. *On Shell Structure*, London: Routledge.
-* Larson, R., and G. Segal, 1995. *Knowledge of Meaning*, Cambridge, MA: MIT Press.
-* Lasersohn, P., 1993. “Existence Presuppositions and Background Knowledge,” *Journal of Semantics*, 10: 112–122.
-* Leiss, E., 2000. *Artikel und Aspekt: Die Grammatischen Muster von Definitheit* (*Studia Linguistica Germanica* 55), Berlin: Walter de Gruyter.
-* Lepore, E., 2004. “An Abuse of Context in Semantics: The Case of Incomplete Definite Descriptions,” in A. Bezuidenhout and M. Reimer (eds.) *Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions*, Oxford: Oxford University Press.
-* Lewis, D., 1975. “Adverbs of Quantification,” in E. Keenan (ed.), *Formal Semantics of Natural Language*, Cambridge: Cambridge University Press, 3–15.
-* –––, 1979. “Scorekeeping in a Language Game,” *Journal of Philosophical Logic*, 8: 339–359.
-* –––, 1984. “Putnam’s Paradox,” *Australasian Journal of Philosophy*, 62: 221–236.
-* Linsky, B., 1992. “The Logical Form of Descriptions (Critical Notice of Stephen Neale’s *Descriptions*),” *Dialogue*, 31: 677–83.
-* –––, 2002. “Russell’s Logical Form, LF, and Truth Conditions,” in G. Preyer and G. Peter (eds.), *Logical Form and Language*, Oxford: Oxford University Press, 391–408.
-* Loar, B., 1976. “The Semantics of Singular Terms,” *Philosophical Studies*, 30: 353–377.
-* Ludlow, P., 1994. “Conditionals, Events, and Unbound Pronouns,” *Lingua e Stile*, 29: 3–20.
-* –––, 1999. *Semantics, Tense, and Time: an Essay in the Metaphysics of Natural Language*, Cambridge, MA: MIT Press.
-* –––, 2001. “Metaphysical Austerity and the Problems of Temporal and Modal Anaphora,” in J. Tomberlin (ed.) *Philosophical Perspectives 15: Metaphysics*, Atascadero: Ridgeview Press.
-* –––, 2002. “Externalism, Logical Form, and Linguistic Intentions,” in A. Barber (ed.), *The Epistemology of Language*, Oxford: Oxford University Press, 132–168.
-* Ludlow, P., and S. Neale, 1991. “Indefinite Descriptions: In Defense of Russell,” *Linguistics & Philosophy*, 14: 171–202.
-* Ludlow, P. and G. Segal, 2004. “On a Unitary Semantical Analysis for Definite and Indefinite Descriptions,” in A. Bezuidenhout and M. Reimer (eds.), *Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions*, Oxford: Oxford University Press, 420–437.
-* Ludlow, P., and S. Živanovic, 2022. *Language, Form, and Logic*, Oxford: Oxford University Press.
-* Lyons, C., 1999. *Definiteness*, Cambridge: Cambridge University Press.
-* Lycan, W., 1984. “A Syntactically Motivated Theory of Conditionals,” in French, Euhling, and Wettstein (eds.), *Midwest Studies in Philosophy* (Volume IX), Minneapolis: University of Minnesota Press, 437–455.
-* Mandelbaum, D., 1994. *Syntactic Conditions on Saturation*, Ph.D. thesis, Graduate Faculty in Linguistics, CUNY Graduate Center.
-* Marcus, R., 1948. “Modality and Description,” *Journal of Symbolic Logic*, 13: 31–37. Reprinted in *Modalities: Philosophical Essays*, New York: Oxford University Press, 1993.
-* Mayer, G.L., 1988. *The Definite Article in Contemporary Standard Bulgarian*, Wiesbaden: Otto Harrassowitz.
-* Meinong, A., 1904. “Über Gegenstandstheorie,” Translated as “The Theory of Objects,” in R. Chisholm (ed.), *Realism and the Background of Phenomenology*, New York: Free Press, 1960.
-* McDowell, J., 1977. “On the Sense and Reference of Proper Names,” *Mind*, 86: 159–185.
-* Mladenova, O., 2007. *Definiteness in Bulgarian: Modelling the Processes of Language Change* (Trends in Linguistics: Studies and Monographs 182), Berlin: Mouton de Gruyter.
-* Neale, S., 1990. *Descriptions*, Cambridge, MA: MIT Press Books.
-* –––, 1993. “Term Limits,” *Philosophical Perspectives*, 7: 89–114.
-* –––, 2000a. “On a Milestone of Empiricism,” in P. Kotatko and A. Orenstein (eds.), *Knowledge, Language and Logic: Questions for Quine*, Dordrecht: Kluwer, 237–346.
-* –––, 2000b. “On Being Explicit: Comments on Stanley and Szabó, and on Bach,” *Mind and Language* 15: 284–294.
-* –––, 2002. “Abbreviation, Scope, Ontology,” in G. Preyer and G. Peter (eds*.*), *Logical Form and Language*, Oxford: Oxford University Press, 13–53.
-* –––, 2004. “This, That and the Other,” in M. Reimer and A. Bezuidenhout (eds.), *Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions*, Oxford: Oxford University Press, 68–182.
-* –––, 2005. “A Century Later,” *Mind*, 114: 809–871.
-* Nelson, M., 2002. “Descriptivism Defended,” *Noûs*, 36: 408–35.
-* Parsons, C., 1982. “Intensional Logic in Extensional Language,” *Journal of Symbolic Logic*, 47: 289–328.
-* –––, 1980. *Nonexistent Objects*, New Haven: Yale University Press.
-* Philippi, J., 1997. “The Rise of the Article in the Germanic Languages,” in A. van Kemenade and N. Vincent (eds.), *Parameters of Morphosyntactic Change*, Cambridge: Cambridge University Press, 62–93.
-* Prior, A. N., 1967. *Past, Present and Future*, Oxford: Oxford University Press.
-* Pupa, F., 2013. “Embedded Definite Descriptions: A Novel Solution to a Familiar Problem,” *Pacific Philosophical Quarterly*, 94: 290–314.
-* Recanati, F., 1986. “Contextual Dependence and Definite Descriptions,” *Proceedings of the Aristotelean Society*, 87: 57–73.
-* Reimer, M., 1992. “Incomplete Descriptions,” *Erkenntnis*, 37: 347–63.
-* –––, 1998a. “Quantification and Context,” *Linguistics and Philosophy*, 21: 95–115.
-* –––, 1998. “Donnellan’s Distinction/Kripke’s Test,” *Analysis*, 58: 89–100.
-* Reinhart, T., 1997. “Quantifier-Scope: How Labor is Divided between QR and Choice Functions,” *Linguistics and Philosophy*, 20: 335–397.
-* Roberts, C., 1998. “Information Structure in Discourse: Towards and Integrated Formal Theory of Pragmatics,” in J-H. Yoom and A. Kathol (eds.) *OSU Working Papers in Linguistics: Vol. 49: Papers in Semantics*, Department of Linguistics, Ohio State University.
-* –––, 2003. “Uniqueness in Definite Noun Phrases,” *Linguistics and Philosophy*, 26: 287–350.
-* –––, 2004. “Context in Dynamic Interpretation,” in L. Horn and G. Ward (eds.), *Handbook of Pragmatics*, Oxford: Blackwell Publishing, 197–221.
-* Romoli, J., 2015. “The Presuppositions of Soft Triggers are Obligatory Scalar Implicatures,” *Journal of Semantics*, 32: 173–219.
-* van Rooy, J., 2001. “Exhaustivity in Dynamic Semantics: Referential and Descriptive Pronouns,” *Linguistics and Philosophy*, 24: 621–657.
-* Rothschild, D., 2007. “Presuppositions and Scope,” *Journal of Philosophy*, 104: 71–106.
-* –––, 2011. “Explaining Presupposition Projection with Dynamic Semantics,” *Semantics and Pragmatics*, 4: 1–43.
-* Russell, B., 1905. “On Denoting,” *Mind*, 14: 479–493.
-* –––, 1910–11. “Knowledge by Acquaintance and Knowledge by Description,” *Proceedings of the Aristotelean Society* (New Series), 11: 108–128. Reprinted in *Mysticism and Logic*, London: George Allen and Unwin, 1917, and New York: Doubleday, 1957.
-* –––, 1919. *Introduction to Mathematical Philosophy*, London: George Allen and Unwin.
-* –––, 1957. “Mr. Strawson on Referring,” *Mind*, 66: 385–389.
-* Salmon, N., 1982. “Assertion and Incomplete Descriptions,” *Philosophical Studies*, 42: 37–45.
-* –––, 1991. *Frege’s Puzzle*, Atascadero: Ridgeview Publishing.
-* Schoubye, A., 2009. “Descriptions, Truth Value Intuitions, and Questions,” *Linguistics and Philosophy*, 32: 583–617.
+* King, J., 1987. “Pronouns, Descriptions, and the Semantics of Discourse,” _Philosophical Studies_, 51: 341–62.
+* –––, 1988. “Are Indefinite Descriptions Ambiguous?” _Philosophical Studies_, 53: 417–440.
+* Kempson, R., 1975. _Presupposition and The Delimitation of Semantics_, Cambridge: Cambridge University Press.
+* Kratzer, A., 1995. “Scope or Pseudoscope? Are there Wide Scope Indefinites?” in F. Hamm and A. von Stechow (eds.), _Proceedings: Recent Developments in the Theory of Natural Language_, Universitäat Täubingen.
+* –––, 1989. “An Investigation of the Lumps of Thought,” _Linguistics and Philosophy_, 12: 607–653.
+* Krifka, M., 1996. “Pragmatic Strengthening in Plural Predicates and Donkey Sentences,” in T. Galloway and J. Spence (eds.), _Proceedings of SALT VI_, Ithaca: Cornell University.
+* Kripke, S., 1977. “Speaker Reference and Semantic Reference,” in French, Uehling, and Wettstein (eds.), _Contemporary Perspectives in the Philosophy of Language_, Minneapolis: University of Minnesota Press, 6–27.
+* –––, 1980. _Naming and Necessity_, Cambridge, MA: Harvard University Press.
+* Kroll, N. 2008. “On bishops and donkeys,” _Natural Language Semantics_, 16: 359–372.
+* Kroon, F., 1987. “Causal Descriptivism,” _Australasian Journal of Philosophy_, 65: 1–17.
+* –––, 1989. “Circles and Fixed Points in Description Theories of Reference,” _Noûs_, 23: 373–392.
+* Lappin, S., 1989. “Donkey Pronouns Unbound,” _Theoretical Linguistics_, 15: 263–286.
+* Larson, R.K., 2004. _On Shell Structure_, London: Routledge.
+* Larson, R., and G. Segal, 1995. _Knowledge of Meaning_, Cambridge, MA: MIT Press.
+* Lasersohn, P., 1993. “Existence Presuppositions and Background Knowledge,” _Journal of Semantics_, 10: 112–122.
+* Leiss, E., 2000. _Artikel und Aspekt: Die Grammatischen Muster von Definitheit_ (_Studia Linguistica Germanica_ 55), Berlin: Walter de Gruyter.
+* Lepore, E., 2004. “An Abuse of Context in Semantics: The Case of Incomplete Definite Descriptions,” in A. Bezuidenhout and M. Reimer (eds.) _Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions_, Oxford: Oxford University Press.
+* Lewis, D., 1975. “Adverbs of Quantification,” in E. Keenan (ed.), _Formal Semantics of Natural Language_, Cambridge: Cambridge University Press, 3–15.
+* –––, 1979. “Scorekeeping in a Language Game,” _Journal of Philosophical Logic_, 8: 339–359.
+* –––, 1984. “Putnam’s Paradox,” _Australasian Journal of Philosophy_, 62: 221–236.
+* Linsky, B., 1992. “The Logical Form of Descriptions (Critical Notice of Stephen Neale’s _Descriptions_),” _Dialogue_, 31: 677–83.
+* –––, 2002. “Russell’s Logical Form, LF, and Truth Conditions,” in G. Preyer and G. Peter (eds.), _Logical Form and Language_, Oxford: Oxford University Press, 391–408.
+* Loar, B., 1976. “The Semantics of Singular Terms,” _Philosophical Studies_, 30: 353–377.
+* Ludlow, P., 1994. “Conditionals, Events, and Unbound Pronouns,” _Lingua e Stile_, 29: 3–20.
+* –––, 1999. _Semantics, Tense, and Time: an Essay in the Metaphysics of Natural Language_, Cambridge, MA: MIT Press.
+* –––, 2001. “Metaphysical Austerity and the Problems of Temporal and Modal Anaphora,” in J. Tomberlin (ed.) _Philosophical Perspectives 15: Metaphysics_, Atascadero: Ridgeview Press.
+* –––, 2002. “Externalism, Logical Form, and Linguistic Intentions,” in A. Barber (ed.), _The Epistemology of Language_, Oxford: Oxford University Press, 132–168.
+* Ludlow, P., and S. Neale, 1991. “Indefinite Descriptions: In Defense of Russell,” _Linguistics & Philosophy_, 14: 171–202.
+* Ludlow, P. and G. Segal, 2004. “On a Unitary Semantical Analysis for Definite and Indefinite Descriptions,” in A. Bezuidenhout and M. Reimer (eds.), _Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions_, Oxford: Oxford University Press, 420–437.
+* Ludlow, P., and S. Živanovic, 2022. _Language, Form, and Logic_, Oxford: Oxford University Press.
+* Lyons, C., 1999. _Definiteness_, Cambridge: Cambridge University Press.
+* Lycan, W., 1984. “A Syntactically Motivated Theory of Conditionals,” in French, Euhling, and Wettstein (eds.), _Midwest Studies in Philosophy_ (Volume IX), Minneapolis: University of Minnesota Press, 437–455.
+* Mandelbaum, D., 1994. _Syntactic Conditions on Saturation_, Ph.D. thesis, Graduate Faculty in Linguistics, CUNY Graduate Center.
+* Marcus, R., 1948. “Modality and Description,” _Journal of Symbolic Logic_, 13: 31–37. Reprinted in _Modalities: Philosophical Essays_, New York: Oxford University Press, 1993.
+* Mayer, G.L., 1988. _The Definite Article in Contemporary Standard Bulgarian_, Wiesbaden: Otto Harrassowitz.
+* Meinong, A., 1904. “Über Gegenstandstheorie,” Translated as “The Theory of Objects,” in R. Chisholm (ed.), _Realism and the Background of Phenomenology_, New York: Free Press, 1960.
+* McDowell, J., 1977. “On the Sense and Reference of Proper Names,” _Mind_, 86: 159–185.
+* Mladenova, O., 2007. _Definiteness in Bulgarian: Modelling the Processes of Language Change_ (Trends in Linguistics: Studies and Monographs 182), Berlin: Mouton de Gruyter.
+* Neale, S., 1990. _Descriptions_, Cambridge, MA: MIT Press Books.
+* –––, 1993. “Term Limits,” _Philosophical Perspectives_, 7: 89–114.
+* –––, 2000a. “On a Milestone of Empiricism,” in P. Kotatko and A. Orenstein (eds.), _Knowledge, Language and Logic: Questions for Quine_, Dordrecht: Kluwer, 237–346.
+* –––, 2000b. “On Being Explicit: Comments on Stanley and Szabó, and on Bach,” _Mind and Language_ 15: 284–294.
+* –––, 2002. “Abbreviation, Scope, Ontology,” in G. Preyer and G. Peter (eds\*.\*), _Logical Form and Language_, Oxford: Oxford University Press, 13–53.
+* –––, 2004. “This, That and the Other,” in M. Reimer and A. Bezuidenhout (eds.), _Descriptions and Beyond: An Interdisciplinary Collection of Essays on Definite and Indefinite Descriptions_, Oxford: Oxford University Press, 68–182.
+* –––, 2005. “A Century Later,” _Mind_, 114: 809–871.
+* Nelson, M., 2002. “Descriptivism Defended,” _Noûs_, 36: 408–35.
+* Parsons, C., 1982. “Intensional Logic in Extensional Language,” _Journal of Symbolic Logic_, 47: 289–328.
+* –––, 1980. _Nonexistent Objects_, New Haven: Yale University Press.
+* Philippi, J., 1997. “The Rise of the Article in the Germanic Languages,” in A. van Kemenade and N. Vincent (eds.), _Parameters of Morphosyntactic Change_, Cambridge: Cambridge University Press, 62–93.
+* Prior, A. N., 1967. _Past, Present and Future_, Oxford: Oxford University Press.
+* Pupa, F., 2013. “Embedded Definite Descriptions: A Novel Solution to a Familiar Problem,” _Pacific Philosophical Quarterly_, 94: 290–314.
+* Recanati, F., 1986. “Contextual Dependence and Definite Descriptions,” _Proceedings of the Aristotelean Society_, 87: 57–73.
+* Reimer, M., 1992. “Incomplete Descriptions,” _Erkenntnis_, 37: 347–63.
+* –––, 1998a. “Quantification and Context,” _Linguistics and Philosophy_, 21: 95–115.
+* –––, 1998. “Donnellan’s Distinction/Kripke’s Test,” _Analysis_, 58: 89–100.
+* Reinhart, T., 1997. “Quantifier-Scope: How Labor is Divided between QR and Choice Functions,” _Linguistics and Philosophy_, 20: 335–397.
+* Roberts, C., 1998. “Information Structure in Discourse: Towards and Integrated Formal Theory of Pragmatics,” in J-H. Yoom and A. Kathol (eds.) _OSU Working Papers in Linguistics: Vol. 49: Papers in Semantics_, Department of Linguistics, Ohio State University.
+* –––, 2003. “Uniqueness in Definite Noun Phrases,” _Linguistics and Philosophy_, 26: 287–350.
+* –––, 2004. “Context in Dynamic Interpretation,” in L. Horn and G. Ward (eds.), _Handbook of Pragmatics_, Oxford: Blackwell Publishing, 197–221.
+* Romoli, J., 2015. “The Presuppositions of Soft Triggers are Obligatory Scalar Implicatures,” _Journal of Semantics_, 32: 173–219.
+* van Rooy, J., 2001. “Exhaustivity in Dynamic Semantics: Referential and Descriptive Pronouns,” _Linguistics and Philosophy_, 24: 621–657.
+* Rothschild, D., 2007. “Presuppositions and Scope,” _Journal of Philosophy_, 104: 71–106.
+* –––, 2011. “Explaining Presupposition Projection with Dynamic Semantics,” _Semantics and Pragmatics_, 4: 1–43.
+* Russell, B., 1905. “On Denoting,” _Mind_, 14: 479–493.
+* –––, 1910–11. “Knowledge by Acquaintance and Knowledge by Description,” _Proceedings of the Aristotelean Society_ (New Series), 11: 108–128. Reprinted in _Mysticism and Logic_, London: George Allen and Unwin, 1917, and New York: Doubleday, 1957.
+* –––, 1919. _Introduction to Mathematical Philosophy_, London: George Allen and Unwin.
+* –––, 1957. “Mr. Strawson on Referring,” _Mind_, 66: 385–389.
+* Salmon, N., 1982. “Assertion and Incomplete Descriptions,” _Philosophical Studies_, 42: 37–45.
+* –––, 1991. _Frege’s Puzzle_, Atascadero: Ridgeview Publishing.
+* Schoubye, A., 2009. “Descriptions, Truth Value Intuitions, and Questions,” _Linguistics and Philosophy_, 32: 583–617.
 * –––, 2011. “On Describing,” Ph.D. Thesis, Department of Philosophy, St. Andrews University.
 * –––, 2013. “Ghosts, Murderers, and the Semantics of Descriptions,” Noûs, 47: 496–533.
-* Schwarz, F., 2009. *Two types of definites in natural language*, Ph.D. Thesis, University of Massachusetts/Amherst.
-* Searle, J., 1958. “Proper Names,” *Mind*, 67: 166–173.
-* –––, 1969. *Speech Acts: An Essay in the Philosophy of Language*, Cambridge: Cambridge University Press.
-* Selig, M., 1992. *Die Entwicklung der Nominaldeterminanten im Spätlatein*, Tübingen: Gunter Narr Verlag.
-* Sellars, W., 1954. “Presupposing,” *Philosophical Review*, 63: 197–215.
-* Sennet, A., 2002. “An Ambiguity Test for Definite Descriptions,” *Philosophical Studies*, 111: 81–95.
-* Sharvy, Richard, 1980. “A More General Theory of Definite Descriptions,” *The Philosophical Review*, 89: 607–623.
-* Shiffer, S., 1978. “The Basis of Reference,” *Erkenntnis*, 13: 171–206.
-* Smiley, T.J., 1981. “The Theory of Descriptions,” *Proceedings of the British Academy*, 67: 331–337.
-* Smullyan, A., 1947. “Review of Quine’s ‘The Problem of Interpreting Modal Logic’,” *Journal of Symbolic Logic*, 12: 139–141.
-* –––, 1948. “Modality and Description,” *Journal of Symbolic Logic*, 13: 483–545.
-* Soames, S., 1976. *A Critical Examination of Frege’s Theory of Presupposition and Contemporary Alternatives*, Ph.D. thesis, MIT Dept. of Linguistics and Philosophy.
-* –––, 1986. “Incomplete Definite Descriptions,” *Notre Dame Journal of Formal Logic*, 27: 349–375.
-* –––, 2002. *Beyond Rigidity: The Unfinished Semantic Agenda of Naming and Necessity*, Oxford: Oxford University Press.
-* –––, 2009. *Reference and Description: The Case against Two-Dimensionalism*, Princeton: Princeton University Press.
-* Sosa, D., 1996. *Representing Thoughts and Language*, Ph.D. Thesis, Princeton University Department of Philosophy.
-* –––, 2001. “Rigidity in the Scope of Russell’s Theory,” *Noûs*, 35: 1–38.
-* Sperber, D., and D. Wilson, 1986. *Relevance: Communication and Cognition*, Oxford: Blackwell.
-* Stalnaker, R., 1978. “Assertion,” in P. Cole (ed.), *Syntax and Semantics: Pragmatics* (Volume 9), Cambridge, MA: Academic Press.
-* –––, 1990. “Narrow Content,” in C. A. Anderson and J. Owens (eds.), *Propositional Attitudes: The Role of Content in Logic, Language and Mind*, Stanford: CSLI Publications, 131–146.
-* Stanley, J., 1997. “Names and Rigid Designation,” in B. Hale and C. Wright (eds.), *A Companion to the Philosophy of Language*, Oxford: Blackwell Press, 555–585.
-* –––, 1997b. “Rigidity and Content,” in R. Heck (ed.), *Language, Thought, and Logic: Essays in Honor of Michael Dummett*, Oxford: Oxford University Press, 131–156.
-* –––, 2000. “Context and Logical Form,” *Linguistics and Philosophy*, 23: 391–434.
-* –––, 2002. “Making it Articulated,” *Mind and Language*, 17: 149–68.
-* Stanley, J. and Z. Szabó, 2000. “On Quantifier Domain Restriction,” *Mind and Language*, 15: 219–61.
-* Stanley, J., and T. Williamson, 1995. “Quantifiers and Context-Dependence,” *Analysis*, 55: 291–5.
-* Starke, M., 2009. “Nanosyntax: a short primer to a new approach to language,” *Nordlyd*, 36: 1–6.
-* Strawson, P.F., 1950. “On Referring,” *Mind*, 59: 320–334.
-* –––, 1952. *Introduction to Logical Theory*, London: Methuen.
-* –––, 1959. *Individuals*, London: Methuen.
-* –––, 1964. “Identifying Reference and Truth-Values,” *Theoria*, 3: 96–118.
-* Szabó, Z., 2000. “Descriptions and Uniqueness,” *Philosophical Studies*, 101: 29–57.
-* Thomason, R., 1990. “Accommodation, Meaning, and Implicature: Interdisciplinary Foundations for Pragmatics,” in P. Cohen, J. Morgan, and M. Pollack (eds.), *Intentions in Communication*, Cambridge, MA: MIT Press, 325–363.
-* Thornton, R., and K. Wexler, 1999. *Principle B, VP Ellipsis and Interpretation in Child Grammar*, Cambridge, MA: MIT Press.
-* van der Sandt, R., 1992. “Presupposition Projection as Anaphora Resolution,” *Journal of Semantics*, 9: 333–377.
-* Wettstein, H., 1981. “Demonstrative Reference and Definite Descriptions,” *Philosophical Studies*, 40: 241–257.
-* Wexler, K., 2011. “Maximal Trouble in the Determiner System,” in E. Gibson and N. Perlmutter (eds.), *The Processing and Acquisition of Reference*, Cambridge, MA: MIT Press, 15–42.
-* Wiggins, D., 1965. “Identity Statements,” in R.J.Butler (ed.), *Analytical Philosophy*, 2nd edition, Oxford: Basil Blackwell.
-* Williams, E., 1983. “Semantic vs. Syntactic Categories,” *Linguistics and Philosophy*, 6: 423–446.
-* Wilson, G., 1978. “On Definite and Indefinite Descriptions,” *The Philosophical Review*, 87: 48–76.
-* Wilson, N., 1959. “Substances without Substrata,” *Review of Metaphysics*, 12: 521–539.
-* Yablo, S., 2006. “Non-Catastrophic Presupposition Failure,” in J.J. Thomson and A. Byrne (eds.), *Content and Modality: Themes from the Philosophy of Robert Stalnaker*, Oxford: Oxford University Press, 164–190.
-* –––, 2009. “Must Existence Questions Have Answers?” in D. Chalmers, D. Manley, and R. Wasserman (eds.), *Metametaphysics: New Essays on the Foundations of Ontology*, Oxford: Oxford University Press, 507–525.
-* Yoon, Y., 1996. “Total and Partial Predicates and the Weak and Strong Interpretations,” *Natural Language Semantics*, 4: 217–236.
-* Winter, Y., 1997. “Choice Functions and the Scopal Semantics of Indefinites,” *Linguistics and Philosophy*, 20: 399–467.
-* Zalta, E., 1983. *Abstract Objects: an Introduction to Axiomatic Metaphysics*, Dordrecht: D. Reidel.
-* –––, 1988. *Intensional Logic and the Metaphysics of Intensionality*, Cambridge, MA: MIT Press.
-* Zvolensky, Z., 1997. “Definite Descriptions: What Frege got Right and Russell Didn’t,” *Aporia*, 7: 1–16.
+* Schwarz, F., 2009. _Two types of definites in natural language_, Ph.D. Thesis, University of Massachusetts/Amherst.
+* Searle, J., 1958. “Proper Names,” _Mind_, 67: 166–173.
+* –––, 1969. _Speech Acts: An Essay in the Philosophy of Language_, Cambridge: Cambridge University Press.
+* Selig, M., 1992. _Die Entwicklung der Nominaldeterminanten im Spätlatein_, Tübingen: Gunter Narr Verlag.
+* Sellars, W., 1954. “Presupposing,” _Philosophical Review_, 63: 197–215.
+* Sennet, A., 2002. “An Ambiguity Test for Definite Descriptions,” _Philosophical Studies_, 111: 81–95.
+* Sharvy, Richard, 1980. “A More General Theory of Definite Descriptions,” _The Philosophical Review_, 89: 607–623.
+* Shiffer, S., 1978. “The Basis of Reference,” _Erkenntnis_, 13: 171–206.
+* Smiley, T.J., 1981. “The Theory of Descriptions,” _Proceedings of the British Academy_, 67: 331–337.
+* Smullyan, A., 1947. “Review of Quine’s ‘The Problem of Interpreting Modal Logic’,” _Journal of Symbolic Logic_, 12: 139–141.
+* –––, 1948. “Modality and Description,” _Journal of Symbolic Logic_, 13: 483–545.
+* Soames, S., 1976. _A Critical Examination of Frege’s Theory of Presupposition and Contemporary Alternatives_, Ph.D. thesis, MIT Dept. of Linguistics and Philosophy.
+* –––, 1986. “Incomplete Definite Descriptions,” _Notre Dame Journal of Formal Logic_, 27: 349–375.
+* –––, 2002. _Beyond Rigidity: The Unfinished Semantic Agenda of Naming and Necessity_, Oxford: Oxford University Press.
+* –––, 2009. _Reference and Description: The Case against Two-Dimensionalism_, Princeton: Princeton University Press.
+* Sosa, D., 1996. _Representing Thoughts and Language_, Ph.D. Thesis, Princeton University Department of Philosophy.
+* –––, 2001. “Rigidity in the Scope of Russell’s Theory,” _Noûs_, 35: 1–38.
+* Sperber, D., and D. Wilson, 1986. _Relevance: Communication and Cognition_, Oxford: Blackwell.
+* Stalnaker, R., 1978. “Assertion,” in P. Cole (ed.), _Syntax and Semantics: Pragmatics_ (Volume 9), Cambridge, MA: Academic Press.
+* –––, 1990. “Narrow Content,” in C. A. Anderson and J. Owens (eds.), _Propositional Attitudes: The Role of Content in Logic, Language and Mind_, Stanford: CSLI Publications, 131–146.
+* Stanley, J., 1997. “Names and Rigid Designation,” in B. Hale and C. Wright (eds.), _A Companion to the Philosophy of Language_, Oxford: Blackwell Press, 555–585.
+* –––, 1997b. “Rigidity and Content,” in R. Heck (ed.), _Language, Thought, and Logic: Essays in Honor of Michael Dummett_, Oxford: Oxford University Press, 131–156.
+* –––, 2000. “Context and Logical Form,” _Linguistics and Philosophy_, 23: 391–434.
+* –––, 2002. “Making it Articulated,” _Mind and Language_, 17: 149–68.
+* Stanley, J. and Z. Szabó, 2000. “On Quantifier Domain Restriction,” _Mind and Language_, 15: 219–61.
+* Stanley, J., and T. Williamson, 1995. “Quantifiers and Context-Dependence,” _Analysis_, 55: 291–5.
+* Starke, M., 2009. “Nanosyntax: a short primer to a new approach to language,” _Nordlyd_, 36: 1–6.
+* Strawson, P.F., 1950. “On Referring,” _Mind_, 59: 320–334.
+* –––, 1952. _Introduction to Logical Theory_, London: Methuen.
+* –––, 1959. _Individuals_, London: Methuen.
+* –––, 1964. “Identifying Reference and Truth-Values,” _Theoria_, 3: 96–118.
+* Szabó, Z., 2000. “Descriptions and Uniqueness,” _Philosophical Studies_, 101: 29–57.
+* Thomason, R., 1990. “Accommodation, Meaning, and Implicature: Interdisciplinary Foundations for Pragmatics,” in P. Cohen, J. Morgan, and M. Pollack (eds.), _Intentions in Communication_, Cambridge, MA: MIT Press, 325–363.
+* Thornton, R., and K. Wexler, 1999. _Principle B, VP Ellipsis and Interpretation in Child Grammar_, Cambridge, MA: MIT Press.
+* van der Sandt, R., 1992. “Presupposition Projection as Anaphora Resolution,” _Journal of Semantics_, 9: 333–377.
+* Wettstein, H., 1981. “Demonstrative Reference and Definite Descriptions,” _Philosophical Studies_, 40: 241–257.
+* Wexler, K., 2011. “Maximal Trouble in the Determiner System,” in E. Gibson and N. Perlmutter (eds.), _The Processing and Acquisition of Reference_, Cambridge, MA: MIT Press, 15–42.
+* Wiggins, D., 1965. “Identity Statements,” in R.J.Butler (ed.), _Analytical Philosophy_, 2nd edition, Oxford: Basil Blackwell.
+* Williams, E., 1983. “Semantic vs. Syntactic Categories,” _Linguistics and Philosophy_, 6: 423–446.
+* Wilson, G., 1978. “On Definite and Indefinite Descriptions,” _The Philosophical Review_, 87: 48–76.
+* Wilson, N., 1959. “Substances without Substrata,” _Review of Metaphysics_, 12: 521–539.
+* Yablo, S., 2006. “Non-Catastrophic Presupposition Failure,” in J.J. Thomson and A. Byrne (eds.), _Content and Modality: Themes from the Philosophy of Robert Stalnaker_, Oxford: Oxford University Press, 164–190.
+* –––, 2009. “Must Existence Questions Have Answers?” in D. Chalmers, D. Manley, and R. Wasserman (eds.), _Metametaphysics: New Essays on the Foundations of Ontology_, Oxford: Oxford University Press, 507–525.
+* Yoon, Y., 1996. “Total and Partial Predicates and the Weak and Strong Interpretations,” _Natural Language Semantics_, 4: 217–236.
+* Winter, Y., 1997. “Choice Functions and the Scopal Semantics of Indefinites,” _Linguistics and Philosophy_, 20: 399–467.
+* Zalta, E., 1983. _Abstract Objects: an Introduction to Axiomatic Metaphysics_, Dordrecht: D. Reidel.
+* –––, 1988. _Intensional Logic and the Metaphysics of Intensionality_, Cambridge, MA: MIT Press.
+* Zvolensky, Z., 1997. “Definite Descriptions: What Frege got Right and Russell Didn’t,” _Aporia_, 7: 1–16.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descriptions). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/descriptions/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=descriptions&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/descriptions/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descriptions).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/descriptions/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=descriptions\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/descriptions/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -909,11 +897,11 @@ Bibliography
 
 ## Related Entries
 
-[anaphora](https://plato.stanford.edu/entries/anaphora/) | [discourse representation theory](https://plato.stanford.edu/entries/discourse-representation-theory/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [names](https://plato.stanford.edu/entries/names/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [reference](https://plato.stanford.edu/entries/reference/) | [rigid designators](https://plato.stanford.edu/entries/rigid-designators/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/)
+[anaphora](https://plato.stanford.edu/entries/anaphora/) | [discourse representation theory](https://plato.stanford.edu/entries/discourse-representation-theory/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [names](https://plato.stanford.edu/entries/names/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [reference](https://plato.stanford.edu/entries/reference/) | [rigid designators](https://plato.stanford.edu/entries/rigid-designators/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/)
 
 ### Acknowledgments
 
 Thanks are due to Jason Stanley and Ed Zalta for helpful comments.
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Peter Ludlow](http://sites.google.com/site/peterjludlow/) <[*peterjludlow@gmail.com*](mailto:peterjludlow%40gmail%2ecom)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Peter Ludlow](http://sites.google.com/site/peterjludlow/) <[_peterjludlow@gmail.com_](mailto:peterjludlow%40gmail%2ecom)>

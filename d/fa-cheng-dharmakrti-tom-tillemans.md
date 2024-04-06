@@ -1,6 +1,6 @@
 # 法称 Dharmakīrti (Tom Tillemans)
 
-*首次发表于 2011 年 8 月 19 日星期五；实质性修订于 2020 年 12 月 22 日星期二*
+_首次发表于 2011 年 8 月 19 日星期五；实质性修订于 2020 年 12 月 22 日星期二_
 
 法称的生平是印度佛教深奥严谨的哲学家，是一部带有一些可靠数据的传记题材。如果我们根据藏文资料，他似乎出生在南印度，然后迁往当时的大修道院纳兰达（今天的比哈尔邦），在那里他据说与其他佛教名人接触，比如达摩帕拉（530-561 年）。藏文资料用非常丰富多彩的方式描述了他的生平。事实上，有些人认为他最初是一位密玛姆萨迦教派的信徒，后来与这个非佛教派学派决裂；还有人描绘他在辩论方面非常有技巧，并暗示他性格难以相处且傲慢。根据他最著名的作品《认识论评论》（Pramāṇavārttika）的开篇诗句，法称本人认为他的哲学不会被当时的人理解，因为他们心胸狭窄。在《认识论评论》的结尾，他进一步预言说，他无与伦比的深度之作将永远不会得到应有的认可，而会默默地被封存在自身中而逐渐被遗忘。
 
@@ -12,42 +12,39 @@
 
 在接下来的讨论中，我们的大部分内容将围绕《认识论论》展开，因为这是法称（Dharmakīrti）的作品中最大、最重要的一部。这是一部未完成的、高度哲学性的评论，评论的对象是 Dignāga 的《认识论汇编》（Pramāṇasamuccaya）。在文本的各个关键位置，我们看到法称似乎已经对 Dignāga 学生现已失传的评论提出了一些基本观念，其中最重要的是Īśvarasena 对《认识论汇编》的评论。对Īśvarasena 的一个显著反应是法称对确定性（niścaya）的强调（见 1.4 和 3.1 节）。还有一些创新，据我们所知，这些创新并非是早期评论者所引发的。无论是在形而上学、认识论还是语言哲学方面，因果理论都具有相当大的哲学意义。这些理论可能在很大程度上是原创的，在 Dignāga 自己的著作中找不到。接下来，我们将审视我们认为是法称哲学最显著特征，其中包括这种因果立场的重要性。然而，讨论所有传统上由佛教学者对法称作出评论的主要主题是不可能的。必须进行选择和排除。对于那些寻求全面了解法称在他的七部作品中立场历史发展的读者，迄今为止最好的参考资料是 Eltschinger（2010）。在 Potter（2017）中可以找到对法称作品的相当详细的摘要。
 
-* [ 形而上学](https://plato.stanford.edu/entries/dharmakiirti/#Met)
-
-  * [ 名义主义](https://plato.stanford.edu/entries/dharmakiirti/#Nom)
+* [形而上学](https://plato.stanford.edu/entries/dharmakiirti/#Met)
+  * [名义主义](https://plato.stanford.edu/entries/dharmakiirti/#Nom)
   * [现实与瞬间性](https://plato.stanford.edu/entries/dharmakiirti/#ReaMom)
   * [1.3 瞬时性的两种论证](https://plato.stanford.edu/entries/dharmakiirti/#TwoArgForMom)
   * [性质的因果理论](https://plato.stanford.edu/entries/dharmakiirti/#CauThePro)
   * [1.5 休谟和 Dharmakīrti 因果论](https://plato.stanford.edu/entries/dharmakiirti/#HumDhaCau)
 * [认识论和语言哲学](https://plato.stanford.edu/entries/dharmakiirti/#EpiLan)
-
   * [2.1 Pramāṇas and justification 2.1 资格与理由](https://plato.stanford.edu/entries/dharmakiirti/#PraJus)
   * [关于性质：阿波哈理论](https://plato.stanford.edu/entries/dharmakiirti/#AboTheApo)
 * [逻辑与逻辑哲学](https://plato.stanford.edu/entries/dharmakiirti/#LogLog)
-
   * [良好理由与三重标准](https://plato.stanford.edu/entries/dharmakiirti/#GooReaTriCri)
   * [3.2 推理-为他人](https://plato.stanford.edu/entries/dharmakiirti/#InfForOth)
-  * [ 3.3 不透明的语境](https://plato.stanford.edu/entries/dharmakiirti/#OpaCon)
+  * [3.3 不透明的语境](https://plato.stanford.edu/entries/dharmakiirti/#OpaCon)
 * [宗教与伦理学](https://plato.stanford.edu/entries/dharmakiirti/#RelEth)
 * [《认识论辩论论》的版本和翻译](https://plato.stanford.edu/entries/dharmakiirti/#EdiTraPra)
-* [ 参考文献](https://plato.stanford.edu/entries/dharmakiirti/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dharmakiirti/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/dharmakiirti/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/dharmakiirti/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/dharmakiirti/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dharmakiirti/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/dharmakiirti/#Rel)
 
----
+***
 
 ## 形而上学
 
-Dignāga-Dharmakīrti 学派——与 Madhyamaka 等某些全球反现实主义的佛教学派相反——承认确实必须存在一些完全真实的实体。然而，这是一个彻底名义主义的学派。对于他们来说，真实的只有特定的（svalakṣaṇa）。相比之下，任何普遍的（sāmānyalakṣaṇa）都是虚幻的；最多只是一种为了思维和语言所需的习惯性认可的虚构。区分真实和虚构的标志是前者具有因果力并以纯粹点状方式存在，每一刻都是一个新实体。Dignāga 和 Dharmakīrti 在最终立场上都是瑜伽行派的追随者，尽管他们显然极力努力使自己的立场在很大程度上对外部客体的支持者和理想主义者都能接受。事实上，在 Dharmakīrti 的情况下，他的大部分哲学都是从一个角度呈现的，即外部客体（bāhyārtha）（至少是暂时地）被接受为真实。理想主义只在《认识论论》第三章的第 194 节之后才进入画面。他确实有复杂的论证来证明理想主义，也就是对他来说，没有外部客体，一切可认知的都是内在的（antarjñeyavāda），只是纯粹的数据（vijñaptimātra），以及主体（grāhaka）和客体（grāhya）并不是两个不同的实体。然而，引人注目的是，Dharmakīrti 的形而上学的主要内容——他的名义主义、他对无常的证明以及他的属性因果理论——在选择外部现实主义或理想主义时基本上没有受到影响。对于他的认识论、语言哲学和逻辑学，也是如此，只是在某些地方稍作调整。即使在唯我论和其他心灵问题上，选择理想主义对 Dharmakīrti 来说也没有太大差异。例如，在《Saṃtānāntarasiddhi》中，他长篇大论地展示了瑜伽行理想主义者可以像 Sautrāntika 现实主义者一样使用类比论证来证明其他心灵的存在，并且就像现实主义者可以避免唯我主义一样，理想主义者据说也可以。为了简单和简洁起见，我们将把 Dharmakīrti 的哲学视为接受外部客体，但要注意的是，大部分相同的观念也可以重新解释以符合理想主义。另一种说法是，我们将沿着西藏 siddhānta（grub mtha'）文献所称的“Sautrāntika [外部现实主义]和 Cittamātra [理想主义]共同立场”（mdo sde pa dang sems tsam pa thun mong ba'i lugs）的广泛线索阅读《认识论论》。
+Dignāga-Dharmakīrti 学派——与 Madhyamaka 等某些全球反现实主义的佛教学派相反——承认确实必须存在一些完全真实的实体。然而，这是一个彻底名义主义的学派。对于他们来说，真实的只有特定的（svalakṣaṇa）。相比之下，任何普遍的（sāmānyalakṣaṇa）都是虚幻的；最多只是一种为了思维和语言所需的习惯性认可的虚构。区分真实和虚构的标志是前者具有因果力并以纯粹点状方式存在，每一刻都是一个新实体。Dignāga 和 Dharmakīrti 在最终立场上都是瑜伽行派的追随者，尽管他们显然极力努力使自己的立场在很大程度上对外部客体的支持者和理想主义者都能接受。事实上，在 Dharmakīrti 的情况下，他的大部分哲学都是从一个角度呈现的，即外部客体（bāhyārtha）（至少是暂时地）被接受为真实。理想主义只在《认识论论》第三章的第 194 节之后才进入画面。他确实有复杂的论证来证明理想主义，也就是对他来说，没有外部客体，一切可认知的都是内在的（antarjñeyavāda），只是纯粹的数据（vijñaptimātra），以及主体（grāhaka）和客体（grāhya）并不是两个不同的实体。然而，引人注目的是，Dharmakīrti 的形而上学的主要内容——他的名义主义、他对无常的证明以及他的属性因果理论——在选择外部现实主义或理想主义时基本上没有受到影响。对于他的认识论、语言哲学和逻辑学，也是如此，只是在某些地方稍作调整。即使在唯我论和其他心灵问题上，选择理想主义对 Dharmakīrti 来说也没有太大差异。例如，在《Saṃtānāntarasiddhi》中，他长篇大论地展示了瑜伽行理想主义者可以像 Sautrāntika 现实主义者一样使用类比论证来证明其他心灵的存在，并且就像现实主义者可以避免唯我主义一样，理想主义者据说也可以。为了简单和简洁起见，我们将把 Dharmakīrti 的哲学视为接受外部客体，但要注意的是，大部分相同的观念也可以重新解释以符合理想主义。另一种说法是，我们将沿着西藏 siddhānta（grub mtha'）文献所称的“Sautrāntika \[外部现实主义]和 Cittamātra \[理想主义]共同立场”（mdo sde pa dang sems tsam pa thun mong ba'i lugs）的广泛线索阅读《认识论论》。
 
 ### 名实论
 
-> 它（即在一个实例中存在的普遍性）不会离开（到另一个地方），在这些实例之前它并不存在，它们之后也不存在，也没有部分。[即使在其他地方] 它也不会离开先前的位置。哦，我的天啊！一个接一个的灾难。（《认识论论疏》I.152）[7]
+> 它（即在一个实例中存在的普遍性）不会离开（到另一个地方），在这些实例之前它并不存在，它们之后也不存在，也没有部分。\[即使在其他地方] 它也不会离开先前的位置。哦，我的天啊！一个接一个的灾难。（《认识论论疏》I.152）\[7]
 
 法称在佛教名实论中的基本直觉无疑与其他名实论相同，即普遍性是一种神秘的伪实体，不应该被一个负责任的关心本体论的思想者认真对待。正如《认识论辩》中的上述引文所示，法称列举了一系列异常现象：它们无处不在，不存在于其实例之前或之后，它们是无部分的，同时存在于多个地方等等。这种伪实体的虚假性成为佛教认识论中的一个反复出现的主题。印度后来的佛教作家 Paṇḍit Aśoka，受到法称和 Dignāga 的启发，在他的《普遍性批驳》中嘲笑真实的普遍性如下：
 
-> 一个人可以清楚地看到自己手上的五根手指。一个将自己致力于第六个普遍实体“手指性”，与五根手指并列的人，倒不如在他头顶上假设长出角。[8]
+> 一个人可以清楚地看到自己手上的五根手指。一个将自己致力于第六个普遍实体“手指性”，与五根手指并列的人，倒不如在他头顶上假设长出角。\[8]
 
 法称对直觉的异常收集和对严肃性的呼吁可能很可能是东西方名义主义者最强大的策略，尽管他们的现实主义对手很可能会坚持认为他们不受影响，因为普遍性不是需要同时存在于一个地方的那种事物，等等。然而，对于法称来说，除了直觉之外还有其他考虑因素。除了直觉之外，还有形而上学论证，甚至是他名义主义背后的一种政治立场（见第 4 节）。佛教形而上学反对普遍性实在性的论证是，它们将受到一个棘手的“一对多”问题的影响：普遍性将是一件事物，必须以某种方式存在于并分享几个不同的特定事物的本质。对于法称来说，问题在于，因为普遍性将分享各种特定事物的多重本质，它本身也必须是许多不同的事物。那么，普遍性将是一个与特定事物根本不同的实体（arthāntara），并且在本质上保持统一，这种替代方案被认为与我们说几件事物拥有相同属性的明显事实不可调和。佛教徒不出所料地不得不将相当大的注意力奉献给尼亚伊观念，即普遍性确实是这种根本不同的实体，但通过一种内在关系（samāvāya）与特定事物相连。《认识论论》和《关系论》中的反驳变得技术化，部分地转向于关系的虚幻性，但再次，佛教徒的直觉立场显然是内在性，就像普遍性一样，是一种神秘实体，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物，是一种特定的事物
 
@@ -55,19 +52,19 @@ Dignāga-Dharmakīrti 学派——与 Madhyamaka 等某些全球反现实主义�
 
 法称的哲学论证中反复出现的一个重要内容，也是对 Dignāga 的一项重大创新，就是真实必须实际影响事物并引起变化的原则。更确切地说，某物之所以真实的标准在于它必须具有“因果能力”（arthakriyāsamartha）和“执行因果作用”（arthakriyākāritva）。而且至关重要的是，个别事物具有这样的能力并执行这样的作用，而普遍性和其他伪实体则不具备。《认识论论》第三章第 3 节（Manorathanandin 的补充内容在括号中）总结了他的观点：
 
-> 任何具有因果力量的东西（arthakriyāsamartha），在这个背景下真正存在（paramārthasat）[即，当我们审视现实时]。其他任何东西被宣称为[仅仅]习俗存在（saṃvṛtisat）[因为它仅仅通过概念虚构被实际接受]。这两者[即，真实和习俗]分别是个别和普遍的。【11】
+> 任何具有因果力量的东西（arthakriyāsamartha），在这个背景下真正存在（paramārthasat）\[即，当我们审视现实时]。其他任何东西被宣称为\[仅仅]习俗存在（saṃvṛtisat）\[因为它仅仅通过概念虚构被实际接受]。这两者\[即，真实和习俗]分别是个别和普遍的。【11】
 
 如果事物、属性、力量，无论它们是什么，如果是真实的并具有因果效应，必须在时间（kāla）和空间（deśa）中占据一个位置，并且只有一个独特的本性（svabhāva），这是指 Dharmakīrti 所说的，即没有任何真实的东西可以跨越，或存在于，不同时间和地点的几个不同对象，并具有各种特定事物的多种本性。这不仅排除了“水平普遍性”（tiryaglakṣaṇa），比如蓝色，它必须同时存在于几个蓝色事物中，还排除了“垂直普遍性”（ūrdhvatālakṣaṇa），或者持续存在于时间中的物质，即在每个时间切片中都存在的相同个体。我们通常认为是持久对象的只是一系列质量相似的瞬间，但实际上没有任何东西能在一个瞬间以上保持数值相同。
 
 ### 两种瞬间性的论证
 
-Dharmakīrti 对一切存在的瞬间性（kṣaṇikatva）有两个论点，一个相当晦涩和令人难以信服，他从像 Vasubandhu（公元 5 世纪）这样的先前作家那里继承而来，另一个更有前途。第一个论点，现在通常被称为 vināśitvānumāna，或者“事物毁灭[自发]的推论”，依赖于长期以来被证实的佛教观念，即毁灭必须是任何对象固有本质的一部分。由于其固有本质而毁灭，某物体一旦存在就会永远毁灭。关键在于这种逐时毁灭是自发的（ākasmika），是事物的无因真实本性，因为它不能是任何原因的结果。这样一个原因的效果，即实体的缺失，必须是某种非存在（abhāva）的类型，而非存在是虚幻的。
+Dharmakīrti 对一切存在的瞬间性（kṣaṇikatva）有两个论点，一个相当晦涩和令人难以信服，他从像 Vasubandhu（公元 5 世纪）这样的先前作家那里继承而来，另一个更有前途。第一个论点，现在通常被称为 vināśitvānumāna，或者“事物毁灭\[自发]的推论”，依赖于长期以来被证实的佛教观念，即毁灭必须是任何对象固有本质的一部分。由于其固有本质而毁灭，某物体一旦存在就会永远毁灭。关键在于这种逐时毁灭是自发的（ākasmika），是事物的无因真实本性，因为它不能是任何原因的结果。这样一个原因的效果，即实体的缺失，必须是某种非存在（abhāva）的类型，而非存在是虚幻的。
 
 法称的一个关键基本原则是，负面事实，如缺席，并不是世界的最终家具的一部分，而只是虚构的概念建构，因为它们缺乏因果力。同样，缺乏因果力的虚构并不是其他事物的结果。虽然显然不可能否认锤子会打碎罐子，但罐子的缺席（abhāva），即不存在的罐子，并不是一个效果，就像其他不存在的事物（abhāva），如兔子的角，也不是任何事物的效果。因此，锤子等实际上并不是罐子缺席的原因，而是导致它变成碎罐片的原因。这个想法可能是可辩护的，因为可以争辩说，某物的纯粹缺席——一个纯粹的负面事实——可能比其他事物的存在更不真实、更不有效。然而，论证的其余部分似乎包含了一系列从缺席和存在之间的效力和现实性差异到毁灭某种东西的真实本质、它必须是内在于它们的，并且因此事物必须在每时每刻自发地毁灭的观念的不合逻辑推论。让我们承认佛教观点，即 x 的毁灭是变成新事物的真实属性，而不仅仅是 x 变得缺席。如果接受锤击确实将罐子变成碎罐片，那么为什么对佛教论点持怀疑态度的人不能将其视为事物毁灭时的模式呢？从毁灭的这种模式并不得出结论，即罐子不能持续相当长时间。
 
 有一种比有问题的灭亡推理更好的内在瞬间性论证。这个论证被称为“从存在的事实中推断事物瞬间性”（sattvānumāna），似乎在很大程度上是法称的独创，最初在他的《认识决定论》第二章中首次发展。如果任何事物存在并且是一个特定的事物而不是另一个，那是因为它的因果效应（arthakriyā）或产生这样或那样效果的能力。因此，简洁地表述，sattvānumāna 推理是事物是无常的，即，是新的事物，因为它们总是以某种方式在因果上有效。 （尽管没有明确说明，但似乎是预设的，真实的事物每时每刻都在引起某种不同的效果。效果之间的差异可能是微妙的，经常逃脱我们的感知。）论证中的关键一步是没有事物在保持不变的同时引起新的效果。法称在《辩论论》的开篇段落中论证，如果某物是永恒的（nitya），它将是因果惰性的，因为它既不会一次性地产生其效果（yaugapadyena），也不会按顺序（kramena）。当然，对于永久持久的事物的支持者来说，第二种假设是最有吸引力的可能性：他会认为一个永久不变的原因会产生一系列不同的效果，不是因为原因以任何方式改变，而仅仅是因为新的和不同的周围环境的存在。
 
-> 假如说一个永恒的事物是依赖于连续的伴随情况，从而串行地产生一系列效果。[17]
+> 假如说一个永恒的事物是依赖于连续的伴随情况，从而串行地产生一系列效果。\[17]
 
 对于这一反对意见，法称，尤其是后来的评论家如善达拉契多和迦摩拉师罗，回答说，如果一个假定的原因随时间保持不变，只有伴随情况发生变化，那么新情况必须是新效果的实际原因。毕竟，当新效果存在时以及当它们不存在时，永恒的事物都将保持不变。对于法称来说，这种确定因果关系的共存和共缺失条件的失败将表明，永恒存在的事物并非新发展的实际原因，而是其他事物。这并非不合理。例如，如果流行病学家发现在传染病爆发前某些因素已经保持不变相当长一段时间，并且在爆发时仍然没有改变，他很可能会认为这些因素不负责流行病的发生。如果他发现一些新的强大因素紧随爆发之前，他很可能会将因果关系归咎于它们，而不是归咎于一直保持不变的因素。这些反对永恒性的论点中的逻辑可以推广到各种假定实体，包括尤其是非佛教的永恒创造神（īśvara）的概念，他在整个时间内保持不变，同时据说产生一系列效果。
 
@@ -79,7 +76,7 @@ Dharmakīrti 对一切存在的瞬间性（kṣaṇikatva）有两个论点，�
 
 Dharmakīrti 和他的佛教同僚最好被理解为是模式理论者：构成个体的力量/属性本身是特定实体，根据空间和时间的每个位置而异（见第 2.2.2 节）。查尔斯·古德曼（Charles Goodman）等人提出了一个有说服力的观点，即阿毗达磨佛教徒的属性（法）确实是模式，即特定的属性——一种蓝色、一种热度或一种硬度特定于一个地点-时间，而不是普遍存在于多个地方。认识论者对法的版本在这方面也不例外，它们是特定的而不是普遍的。然而，因果理论确实与阿毗达磨佛教徒存在一些显著差异。许多重要的阿毗达磨佛教徒，即色法派的人，从一个复杂的双重视角看待法：a）它们的内在本质（自性），即它们是什么，以及 b）它们目前的因果活动（业）以及它们的能力（能力）在适当的情况下导致效果。法的内在本质以分类属性的形式给出——蓝色、方形、坚硬等，并且被视为本质，即法本身是什么。另一方面，活动和能力以因果术语呈现，例如，产生蓝色和方形的感知，产生后续类似的事物等。毫不奇怪，关于内在本质和因果活动/能力之间关系的阿毗达磨辩论是复杂的，色法派的典型回应（即桑伽巴达拉的回应）是它们既不相同也不不同。摆脱内在和因果关系问题的最激进方式是说，就像那些阿毗达磨佛教徒和其他人认为的那样，实际上根本不可能有任何内在本质：如果任何东西在本质上具有本质，那么它将荒谬地需要完全非因果地拥有它——没有任何东西可以使一件事在本质上成为它自己。一个不那么激进的策略是一个因果理论，根本不区分某物是什么和它做什么。这正是法称巧妙追求的策略。
 
-让我们假定对于 Dharmakīrti 而言，个别事物与适当的因果力量相对应。那么，对于事物 x 而言，在适当条件下产生 y 是其本质特征还是偶然特征？而对于 y 而言，被 x 引起是其本质特征还是偶然特征？在属性的因果理论中，这些特征通常被视为本质的。Dharmakīrti 在多大程度上认同这一点？这一点需要分析。一方面，Dharmakīrti 极力主张一种似乎不仅仅是事物偶然特征的连接类型。这就是所谓的“本质性联系”（svabhāva­pratibandha）[23]，在因果之间存在这种联系将确保“存在一个‘连结’，在那里[效果]不会没有[原因]”（avinābhāvaniyama）。例如，涉及这种连结的论据可以在《认识论疏》（Pramāṇavārttikasvavṛtti）对 I.34–47 的讨论中看到。他首先介绍第 34 节的诗句如下：
+让我们假定对于 Dharmakīrti 而言，个别事物与适当的因果力量相对应。那么，对于事物 x 而言，在适当条件下产生 y 是其本质特征还是偶然特征？而对于 y 而言，被 x 引起是其本质特征还是偶然特征？在属性的因果理论中，这些特征通常被视为本质的。Dharmakīrti 在多大程度上认同这一点？这一点需要分析。一方面，Dharmakīrti 极力主张一种似乎不仅仅是事物偶然特征的连接类型。这就是所谓的“本质性联系”（svabhāva­pratibandha）\[23]，在因果之间存在这种联系将确保“存在一个‘连结’，在那里\[效果]不会没有\[原因]”（avinābhāvaniyama）。例如，涉及这种连结的论据可以在《认识论疏》（Pramāṇavārttikasvavṛtti）对 I.34–47 的讨论中看到。他首先介绍第 34 节的诗句如下：
 
 > 那么，如果观察和非观察不是了解烟和火的共存和共缺席的基础，那么人们又如何知道烟不会偏离火呢？【24】
 
@@ -91,7 +88,7 @@ Dharmakīrti then argues that whatever is smoke must have originated from fire i
 
 与休谟的比较可能会更清晰地突显出法称的立场中存在的紧张关系。休谟在他的《人类理解研究》第 7 节中曾经著名地说过：“我们可以将原因定义为一个对象后跟着另一个对象，所有与第一个相似的对象后面都跟着与第二个相似的对象。”因果关系据说是由观察建立的偶然规律。然而，上述引用自《认识论疏疏》的段落却暗示着，对于法称来说，这种单纯的规律似乎还不够，某种更强烈的东西正在起作用：因果相关体本身存在着特征。事实上，他的属性因果理论使他能够断言，火作为它自身，必须在适当条件下引起烟，而烟作为烟，必须由火引起。话虽如此，在法称的著作中也有非常重要的段落，他在其中确实谈到了建立因果关系，因为当有特定原因时，人们观察到了一个效果，而当该原因缺失时，人们没有观察到这个效果。与休谟的情况类似，这也是对规律的观察，似乎是可疑的，可能有例外情况。这是印度方法观察连续共存（anvaya）和共缺（vyatireka）的一种形式，是印度哲学中用来建立两种事物之间联系的归纳类型。法称依赖于一个多步骤程序，有时被解释为观察（upalabdhi）和非观察（anupalabdhi）的三重组合，有时被解释为五重组合。因此，后来佛教作家如达摩多罗、般若师弥多罗和解脱者胜护等人发展了所谓的因果关系的“三重”或“五重检验”（trikapañcakacintā）。其他条款也被添加，试图排除某些会破坏程序的虚假情况（参见例如，Lasic 1999）。这种 anvaya 和 vyatireka 的方法已被有益地与 J.S.米尔的“协议和差异方法”进行比较，以建立因果关系（参见 Matilal 1998,17; cf. Tillemans 2004, 265–269）。
 
-那么，如何理解 Dharmakīrti 和注释文献中的这些段落呢？他的两个立场如何相互关联？一个解释可能是说，Dharmakīrti 有点天真地认为，通过对观察和非观察的越来越熟练的限定，他可以得出一个彻底无误的归纳程序。Gillon (1991)试图表明，Dharmakīrti 的哲学在试图提出这样一个严密的程序时，遇到了一个无法消失的归纳问题。一个更宽容的解释是说，他的哲学认识到，我们通过后验方法找出 x 和 y 是否因果相关的方式与因果关系*是*一回事——后者，正如我们所指出的，涉及使事物成为它们所是的因果属性。因此，我们可能需要经验性地发现，在这样那样的条件下，火会燃烧燃料，但尽管如此，这个属性并非是可以缺少的，否则它仍然是火。那么，对 Dharmakīrti 的更复杂的解释可能是，事物之间的因果关系是由于这个世界中事物的构成属性而形成的一种超越偶然的联系，但尽管如此，这种联系是后验建立的。以 Kripkean 的方式举一个现代类比，水必须是 H2O，鲸鱼必须是哺乳动物，我们通过经验方法发现这些事实，而这些事实在某种意义上是不可否认的，而且是可犯错误的。
+那么，如何理解 Dharmakīrti 和注释文献中的这些段落呢？他的两个立场如何相互关联？一个解释可能是说，Dharmakīrti 有点天真地认为，通过对观察和非观察的越来越熟练的限定，他可以得出一个彻底无误的归纳程序。Gillon (1991)试图表明，Dharmakīrti 的哲学在试图提出这样一个严密的程序时，遇到了一个无法消失的归纳问题。一个更宽容的解释是说，他的哲学认识到，我们通过后验方法找出 x 和 y 是否因果相关的方式与因果关系_是_一回事——后者，正如我们所指出的，涉及使事物成为它们所是的因果属性。因此，我们可能需要经验性地发现，在这样那样的条件下，火会燃烧燃料，但尽管如此，这个属性并非是可以缺少的，否则它仍然是火。那么，对 Dharmakīrti 的更复杂的解释可能是，事物之间的因果关系是由于这个世界中事物的构成属性而形成的一种超越偶然的联系，但尽管如此，这种联系是后验建立的。以 Kripkean 的方式举一个现代类比，水必须是 H2O，鲸鱼必须是哺乳动物，我们通过经验方法发现这些事实，而这些事实在某种意义上是不可否认的，而且是可犯错误的。
 
 ## 知识论与语言哲学
 
@@ -105,17 +102,17 @@ Dignāga 的论述中存在两个重要问题：(1) 什么是知识源（pramā�
 
 Dignāga 留下了关于认识工具的本质的问题，以及关于理由的问题，这些问题在很大程度上是开放的。这些问题留给了 Dharmakīrti，他在《认识论论》II.1 中将“知识源”定义为“可靠的(avisaṃvādin)认知(jñāna)”，他的意思是，这种认知是正确和可靠的，作为行动的基础。一些评论家，比如 Dharmottara，将“可靠性”解释为认知导致人们获得他们所期望的对象，这一立场，连同关于 arthakriyā的段落，似乎加强了一些现代学者的观点，即 Dharmakīrti 是一位实用主义者。Tillemans(1999, 6–12)审视了这种所谓的实用主义，将 Dharmakīrti 的真理理论视为一种弱形式的对应。这种实用主义更好地被视为一种关于理由而非真理的实用主义理论。我们可以有理由地肯定，如果我们能够“确认因果效应”(arthakriyāsthiti)，那么一种认知是正确的，这意味着我们明白了对象实际上具有我们所期望的因果力。例如，我们可以有理由得出结论，我们看到了一个花瓶而不是某种类似花瓶的幻觉，因为在最初的感知之后，我们确认我们所看到的确实能够装水，正如我们所期望和希望的那样。请注意，虽然大多数感知需要通过后续感知或推理来确认，但这里没有无限回归：一些感知，例如对非常熟悉的对象或这些对象产生效果的能力的感知，不需要后续确认。逻辑推理也不需要进一步的确认。这些被称为“内在的知识源”(svataḥ prāmāṇya)，它们在表面上是可靠的，因为它们将被视为知识，除非有人证明存在错误的原因。
 
-法称的立场不能简单地解释为可靠的认知只是恰好正确并能帮助人获得所追求的东西。它还必须是通过可靠的途径产生的认知，即适当的因果路径或一组良好理由。藏学者强调，要概念地了解 P，认知者必须自己确定 P（藏文：ངེས་པ་= 梵文：निश्चय，निश्चित）并借助认识手段，而这种确定本身必须涉及先前的可靠认知（即感性或概念认识手段），才能是真实的。因此，例如，人们根据之前确定的 Q、R 等良好理由的特征，确定 P。然而，如果一个人正确地认为 P 是事实，但“没有[首先]通过认识手段确定 Q、R 的特征”（藏文：ཚད་མས་མ་ངེས་པ་）在格鲁派文献中被认为是“真实的推测，其中[原因的特性]没有被确定”（藏文：རྒྱུ་མཚན་གཏན་ལ་མ་ཕབ་པའི་ཡིད་དཔྱོད），或者根据萨迦派思想家的看法，仅仅是“与真实一致的怀疑”（藏文：ཐེ་ཚོམ་དོན་མཐུན）。对于这两个藏传学派来说，对 P 的这种理解本身不是认识手段。这是对法称观点的可信陈述。简言之，认识手段之所以能够按我们所愿发挥作用，仅仅是因为它们是遵循必要可靠途径的认知。
+法称的立场不能简单地解释为可靠的认知只是恰好正确并能帮助人获得所追求的东西。它还必须是通过可靠的途径产生的认知，即适当的因果路径或一组良好理由。藏学者强调，要概念地了解 P，认知者必须自己确定 P（藏文：ངེས་པ་= 梵文：निश्चय，निश्चित）并借助认识手段，而这种确定本身必须涉及先前的可靠认知（即感性或概念认识手段），才能是真实的。因此，例如，人们根据之前确定的 Q、R 等良好理由的特征，确定 P。然而，如果一个人正确地认为 P 是事实，但“没有\[首先]通过认识手段确定 Q、R 的特征”（藏文：ཚད་མས་མ་ངེས་པ་）在格鲁派文献中被认为是“真实的推测，其中\[原因的特性]没有被确定”（藏文：རྒྱུ་མཚན་གཏན་ལ་མ་ཕབ་པའི་ཡིད་དཔྱོད），或者根据萨迦派思想家的看法，仅仅是“与真实一致的怀疑”（藏文：ཐེ་ཚོམ་དོན་མཐུན）。对于这两个藏传学派来说，对 P 的这种理解本身不是认识手段。这是对法称观点的可信陈述。简言之，认识手段之所以能够按我们所愿发挥作用，仅仅是因为它们是遵循必要可靠途径的认知。
 
-但是，这种确定性的讨论是否意味着佛教认识论者采用了认识论的内在主义观点？佛教是否在说，当你真正知道某事时，你需要知道你知道它，即，能够向自己和他人证明你具有必要的理由？[ 32] 法称或其西藏解释者是否在认识论的理由上是内在主义者并不清楚。他自己关于“确定性”的讨论并没有决定认识论的内在主义解释，即推理者必须自己访问理由并用认识手段确定它是否确实证明了推理。当辩论者确定理由的特征时，这可能意味着进行推理的人只需要事实上遵循一些可靠的程序来最初确定理由的特征。这并不意味着当某人通过推理知道某事时，他也必须意识到理由，知道它确实证明了推理。
+但是，这种确定性的讨论是否意味着佛教认识论者采用了认识论的内在主义观点？佛教是否在说，当你真正知道某事时，你需要知道你知道它，即，能够向自己和他人证明你具有必要的理由？\[ 32] 法称或其西藏解释者是否在认识论的理由上是内在主义者并不清楚。他自己关于“确定性”的讨论并没有决定认识论的内在主义解释，即推理者必须自己访问理由并用认识手段确定它是否确实证明了推理。当辩论者确定理由的特征时，这可能意味着进行推理的人只需要事实上遵循一些可靠的程序来最初确定理由的特征。这并不意味着当某人通过推理知道某事时，他也必须意识到理由，知道它确实证明了推理。
 
-可能会有人反驳说，法称的所有意识都是“反身意识”(svasaṃvedana)的观念显示了他的内在主义。但“反身意识”——通常被称为“自我意识”(尽管对于佛教徒来说，这绝对不是对自我及其状态的意识)——也不会让我们完全接受有关理由的内在主义。根据 Williams (1998)、Kellner (2010)和 Arnold (2010)的观点，从 Dignāga 和 Dharmakīrti 到Śāntarakṣita 的立场似乎有两个基本主题：(1)心灵感知某些对象以及它如何体验这些对象；因此，它在非概念上意识到其所有状态的客观和主观方面(ākāra)，或外观(ābhāsa)；(2)反身意识是感知的条件：一种体验不仅仅是一种物质过程(比如说消化)，而且可以导致随后的记忆和概念化，因为它在非概念上是“自动照亮的”[ 33]。然而，在这两个版本中，尽管某人可能意识到她现在正在依赖于理由 Q 推断 P，但很难看出她对头脑中正在发生的过程的简单意识也意味着她自己会知道这种推断为什么是合理的。反身意识意识到正在发生的任何意识过程，无论是妄想还是可靠的。因此，虽然一个人会意识到思维正在发生这一事实，但它们的凭证是另一回事。
+可能会有人反驳说，法称的所有意识都是“反身意识”(svasaṃvedana)的观念显示了他的内在主义。但“反身意识”——通常被称为“自我意识”(尽管对于佛教徒来说，这绝对不是对自我及其状态的意识)——也不会让我们完全接受有关理由的内在主义。根据 Williams (1998)、Kellner (2010)和 Arnold (2010)的观点，从 Dignāga 和 Dharmakīrti 到Śāntarakṣita 的立场似乎有两个基本主题：(1)心灵感知某些对象以及它如何体验这些对象；因此，它在非概念上意识到其所有状态的客观和主观方面(ākāra)，或外观(ābhāsa)；(2)反身意识是感知的条件：一种体验不仅仅是一种物质过程(比如说消化)，而且可以导致随后的记忆和概念化，因为它在非概念上是“自动照亮的”\[ 33]。然而，在这两个版本中，尽管某人可能意识到她现在正在依赖于理由 Q 推断 P，但很难看出她对头脑中正在发生的过程的简单意识也意味着她自己会知道这种推断为什么是合理的。反身意识意识到正在发生的任何意识过程，无论是妄想还是可靠的。因此，虽然一个人会意识到思维正在发生这一事实，但它们的凭证是另一回事。
 
 ### 关于性质：阿波哈理论
 
 Dignāga 和 Dharmakīrti 的哲学核心是特殊事物，即真实的事物，只能通过感知来正确把握；因此，它们本身被称为“无法言说”(avyapadeśya; Tib. bstan bya min)，“不是言语的对象”(śabdasyāviṣaya)。现在，显然，我们在某种程度上设法谈论特殊事物——否则语言在日常生活中将是无用的。但为什么说语言和思维无法捕捉它们呢？答案是双重的。首先，语法元素，如主语和谓语，修饰语和被修饰语，主体和动作等，没有对应的本体特征，因为特殊事物是统一体，不允许所有者(持有者)和属性之间的区别。Dharmakīrti 在《认识论论》I.61 中如下表达这一观点：
 
-> 在所有情况下，表达物质及其属性的词语只是做出这种[概念]区分。因此，在它们所指的[对象]上没有任何差异。[35]
+> 在所有情况下，表达物质及其属性的词语只是做出这种\[概念]区分。因此，在它们所指的\[对象]上没有任何差异。\[35]
 
 其次，也许更具决定性的是，我们所思考和谈论的种类或普遍性，并非是事物本身的特征，而只是虚构。当然，我们确实使用诸如“牛”这样的术语并非任意，这很容易让我们认为这个术语必须有相应的真实“适用基础”（pravṛttinimitta），以及牛本身由于其共同的基本属性而被归类为一种自然种类。但佛教徒关于普遍性的名义主义立场的明显结果是，没有这样的自然种类存在，术语的使用并非通过将术语与它们匹配来解释。
 
@@ -137,15 +134,15 @@ Dignāga 在《认识集》第五章中的方法确实是自上而下的，因�
 
 #### 2.2.2 Dharmakīrti’s causal version of apoha 2.2.2 法称的因果版本的阿波哈
 
-在自下而上的方法中，另一方面，双重排除起到了相对较小的作用，因此一些 Kumārila-Uddyotakara 的批评可能不够有力。因果链和错误是用来弥合方案内容差距的，而不是 apoha 的描述内容。值得注意的是，这种对因果关系的依赖似乎在 Dignāga 中完全不存在：这是 Dharmakīrti 对理论的主要贡献。因此，词语与事物之间的联系主要通过从特定事物到感知到思想再到词语的表达的因果链来解释——简而言之，我们有一种关于指称的因果理论。[40] 虽然现代的指称因果理论——比如 Saul Kripke 的理论——通常用来解释适当名称如何在没有描述内容的情况下指称，但这种理论可以以各种方式扩展到种类术语。这就是 Hilary Putnam 的做法，他强调描述性内容，或者简单地说就是“一个人脑中的内容”，不足以区分看似相似的种类。Dharmakīrti 的因果理论也不仅限于适当名称的指称，而且还试图因果地解释对事物种类的指称。因果联系是需要保证与世界的“接触”，即语言最终必须基于感知，这种感知并非任意，因为它是由事物“固定”的。因此，Dharmakīrti 解释了一个个体（称为“琼斯”）如何通过从特定对象到准普遍的心理构想再到在特定场合使用词语的复杂和长的因果链来思考和指称世界中的某个对象。因此，关于蓝色的思想和谈话是关于蓝色的事物，因为只有蓝色的事物在引导思想最终是词语方面扮演了适当的因果作用。[41]
+在自下而上的方法中，另一方面，双重排除起到了相对较小的作用，因此一些 Kumārila-Uddyotakara 的批评可能不够有力。因果链和错误是用来弥合方案内容差距的，而不是 apoha 的描述内容。值得注意的是，这种对因果关系的依赖似乎在 Dignāga 中完全不存在：这是 Dharmakīrti 对理论的主要贡献。因此，词语与事物之间的联系主要通过从特定事物到感知到思想再到词语的表达的因果链来解释——简而言之，我们有一种关于指称的因果理论。\[40] 虽然现代的指称因果理论——比如 Saul Kripke 的理论——通常用来解释适当名称如何在没有描述内容的情况下指称，但这种理论可以以各种方式扩展到种类术语。这就是 Hilary Putnam 的做法，他强调描述性内容，或者简单地说就是“一个人脑中的内容”，不足以区分看似相似的种类。Dharmakīrti 的因果理论也不仅限于适当名称的指称，而且还试图因果地解释对事物种类的指称。因果联系是需要保证与世界的“接触”，即语言最终必须基于感知，这种感知并非任意，因为它是由事物“固定”的。因此，Dharmakīrti 解释了一个个体（称为“琼斯”）如何通过从特定对象到准普遍的心理构想再到在特定场合使用词语的复杂和长的因果链来思考和指称世界中的某个对象。因此，关于蓝色的思想和谈话是关于蓝色的事物，因为只有蓝色的事物在引导思想最终是词语方面扮演了适当的因果作用。\[41]
 
 这里是我们在《认识论论》中找到的因果论述的基本要点：琼斯看到特定的蓝色事物，它们引起他心中的知觉形象（ākāra）；这些形象（通常还有其他因素，比如长期习惯）导致他做出“相同的判断”（ekapratyavamarśa），即“这是蓝色”，这个判断中出现了一个 apoha，即非非蓝色的一般性表征。由于特定的知觉形象都对导致相同的判断“这是蓝色”产生相同的效果，它们因此共享一个关键的因果力量并被归为一组。这些判断和由此产生的词语使用都是关于蓝色事物的，而不是红色事物，这正是因为从蓝色的具体事物到判断之间存在因果链，而从红色的具体事物到判断之间则没有。【42】
 
 因果联系取代了真实普遍实体来将实体分组，这就是这样。那么，词语如何通过因果链指称分组实体？在说话者社区中，因果链如何随着时间传递？看起来我们有类似于参与因果指称理论中的指称确定和指称借用的双重过程。
 
-初始的指称固定是在“（建立）语言约定的时候”（saṃketakāle）[44]，通过用“这是蓝色”这样的词语给一个样本案例起绰号来完成的。这种起绰号是一个纯粹的因果事件，不依赖于任何描述性内容。这是一个任意选择，或者说是起绰号者的言语意图（vivakṣā），用“蓝色”这个术语来指代一个蓝色的样本，而不是其他颜色[45]。然后，通过上述描述的感知和判断的组合，其他事物也会被归为“蓝色”之下。这种初始的指称固定随后被保留在一个公认的约定中，这个约定将起初的意图和起绰号从一个说话者传递到另一个说话者[46]。随后，“在使用[语言]约定的时候”（vyavahārakāle），其他说话者将依赖于他们先前的习惯，或者“印记”（vāsanā），以及现在在社区中已经成为一个被广泛尊重的约定的早期指称固定。尽管原则上说，说话者可以使用“蓝色”这个词来指代，比如说，巧克力的颜色，但实际考虑通常意味着他们不会这样做：如果有人希望接入从最初起绰号传递下来的因果链，她将专门用“蓝色”来指代蓝色的事物。
+初始的指称固定是在“（建立）语言约定的时候”（saṃketakāle）\[44]，通过用“这是蓝色”这样的词语给一个样本案例起绰号来完成的。这种起绰号是一个纯粹的因果事件，不依赖于任何描述性内容。这是一个任意选择，或者说是起绰号者的言语意图（vivakṣā），用“蓝色”这个术语来指代一个蓝色的样本，而不是其他颜色\[45]。然后，通过上述描述的感知和判断的组合，其他事物也会被归为“蓝色”之下。这种初始的指称固定随后被保留在一个公认的约定中，这个约定将起初的意图和起绰号从一个说话者传递到另一个说话者\[46]。随后，“在使用\[语言]约定的时候”（vyavahārakāle），其他说话者将依赖于他们先前的习惯，或者“印记”（vāsanā），以及现在在社区中已经成为一个被广泛尊重的约定的早期指称固定。尽管原则上说，说话者可以使用“蓝色”这个词来指代，比如说，巧克力的颜色，但实际考虑通常意味着他们不会这样做：如果有人希望接入从最初起绰号传递下来的因果链，她将专门用“蓝色”来指代蓝色的事物。
 
-Dharmakīrti’s version of the *apoha* theory is developed in long sections in several chapters of *Pramāṇavārttika*. No doubt, many questions need a fuller treatment. Here are two of the main ones. (1) Given that this is a causal rather than descriptive account of aboutness, what role remains for the *apoha*, i.e., the double negations upon which Dignāga had placed so much emphasis? (2) Wouldn’t having the same powers to produce such and such a judgment depend on having some common universals, or even itself be a common universal, and thus force us to reinstate realism?
+Dharmakīrti’s version of the _apoha_ theory is developed in long sections in several chapters of _Pramāṇavārttika_. No doubt, many questions need a fuller treatment. Here are two of the main ones. (1) Given that this is a causal rather than descriptive account of aboutness, what role remains for the _apoha_, i.e., the double negations upon which Dignāga had placed so much emphasis? (2) Wouldn’t having the same powers to produce such and such a judgment depend on having some common universals, or even itself be a common universal, and thus force us to reinstate realism?
 
 (1)
 
@@ -157,7 +154,7 @@ Dharmakīrti’s version of the *apoha* theory is developed in long sections in 
 
 ## 逻辑学与逻辑哲学
 
-达尔玛基尔提学派如何表现推理的心理过程是这样的：一个人认为：“A 是 B，因为是 C，就像 D 一样。”更具体地说，一个人引用一个逻辑原因 C 来证明结论 A 是 B 的真实性；实例 D 有时实际上被省略，是一个公认的 B 性和 C 性的案例，使个体能够理解所有 C 确实是 B。后者的概括被称为“普遍性”（vyāpti；藏文 khyab pa），即 C 被 B 普遍概括的材料蕴涵，对于所有 x：如果 x 是 C，那么 x 是 B，有趣的特征是量化范围涵盖实际和非实际项目。（关于一个人确定/建立普遍性的例子的必要性或可有可无性，成为后来的理论家们激烈辩论的话题。[49]）
+达尔玛基尔提学派如何表现推理的心理过程是这样的：一个人认为：“A 是 B，因为是 C，就像 D 一样。”更具体地说，一个人引用一个逻辑原因 C 来证明结论 A 是 B 的真实性；实例 D 有时实际上被省略，是一个公认的 B 性和 C 性的案例，使个体能够理解所有 C 确实是 B。后者的概括被称为“普遍性”（vyāpti；藏文 khyab pa），即 C 被 B 普遍概括的材料蕴涵，对于所有 x：如果 x 是 C，那么 x 是 B，有趣的特征是量化范围涵盖实际和非实际项目。（关于一个人确定/建立普遍性的例子的必要性或可有可无性，成为后来的理论家们激烈辩论的话题。\[49]）
 
 还有一个重要的变体，即“A 是 B”的真实性并未得到证实，而只是从接受 A 是 C 的事实中得出结论。因此，辩论者可以向对手提出这样一种结果的问题：“由于是 C，荒谬地会导致 A 成为 B。”这样的结果将构成通过归谬法证明的关键步骤，这种证明将以一种对应关系的形式达到高潮，转变为否定谬误法则。当结果中的普遍性成立且对手明白 A 实际上不是 B 时，对手将通过“结果的对应关系”（prasaṅgaviparyaya，字面意思为“颠倒结果”）被引导理解 A 实际上不是 C，因为不是 B。这两种结构，即逻辑原因和结果的证明，都可以在印度和西藏关于各种主题的著作中找到。
 
@@ -166,8 +163,8 @@ Dharmakīrti’s version of the *apoha* theory is developed in long sections in 
 自从 T. Stcherbatsky 对 Dharmakīrti 的《Nyāyabindu》进行了两卷的研究和翻译，题为《佛教逻辑》（即 Stcherbatsky 1930/32），人们经常将佛教的理由/指标理论称为“逻辑”，这个术语有时会让读者误以为佛教徒的好理由仅仅是形式上有效的理由。事实上，形式有效性的概念（即，如果前提为真，则结论保证为真）并没有被佛教理论家明确讨论；无论如何，它与其他更为非正式的考虑并没有区分开来。佛教理论家并没有发展出形式上有效的理由，而是发展出了一个好理由（saddhetu，藏文：rtags yang dag）的概念，即满足三重标准（trairūpya）的理由。这三个“好”的标准从 Dharmakīrti 开始如下给出：
 
 * 法称 (主体的逻辑原因是主体的属性)：主体 A 被确定为具有属性 C；
-* *anvayavyāpti* (pervasion [that is formulated] as co-presence ): *C* is ascertained as present in only instances that are similar (*sapakṣa*) to *A* insofar as they possess *B*;
-* *vyatirekavyāpti* (pervasion [formulated] as co-absence): *C* is ascertained as wholly absent from instances dissimilar (*vipakṣa*) to *A* insofar as they do not possess *B*.[[50](https://plato.stanford.edu/entries/dharmakiirti/notes.html#note-50)]
+* _anvayavyāpti_ (pervasion \[that is formulated] as co-presence ): _C_ is ascertained as present in only instances that are similar (_sapakṣa_) to _A_ insofar as they possess _B_;
+* _vyatirekavyāpti_ (pervasion \[formulated] as co-absence): _C_ is ascertained as wholly absent from instances dissimilar (_vipakṣa_) to _A_ insofar as they do not possess _B_.\[[50](https://plato.stanford.edu/entries/dharmakiirti/notes.html#note-50)]
 
 在《Dignāga 的 Hetucakra》这样的文本中（该文本在 Pramāṇavārttika IV 和 Pramāṇaviniścaya III 中被 Dharmakīrti 详细讨论），一个关于良好理由的三重标准（trairūpya）的版本以及运算符“部分存在”、“完全存在”和“完全不存在”被相关联，形成了一系列九种类型的理由，这些类型是从内容和主题中抽象出来的。毫不夸张地说，逻辑学伟大的历史学家 Innocentius Bocheński 在他的《形式逻辑史》中关于印度逻辑的章节中指出，Hetucakra 因此暗示了对形式考虑的意识。R.S.Y. Chi 在他的《佛教形式逻辑》（Chi 1984）中进一步探讨，并试图表明，从其形式方面看，Hetucakra 可能对现代逻辑学家呈现出一些有趣的特征。话虽如此，满足 Dharmakīrti 的三重标准的“良好理由”当然不仅仅是简单的形式有效性。当 Dharmakīrti 及其评论者详细解释“确定”（niścita）一词时，要求良好理由必须是合理的（即，前提实际上必须是真实的，结论必须由此得出），它们的三个特征必须被确定，并且对手必须有适当的“渴望知道”（jijñāsā）一些他尚不知道的新事物。这后一个要求导致了一系列其他要求：为了相信某些新事物，对手必须有必要的怀疑，理解术语并接受辩论的主题。简而言之，良好理由涉及形式考虑（什么是由什么得出的？）；事实考虑（什么是事实？什么是真实的？）；认识论考虑（人们为了真正了解其他事物需要了解什么？什么时候会产生怀疑？）；以及可以称为“修辞考虑”的内容（对谁来说是新的令人信服的？辩论何时有意义，何时无意义？）。在“三重标准”理论中，这些方面的权衡以复杂的方式随着历史的变化而改变。在某些时刻，事实问题变成了认识论问题，甚至导致三重标准的有趣重新定位。
 
@@ -185,10 +182,10 @@ Dharmakīrti’s version of the *apoha* theory is developed in long sections in 
 
 尽管证明者（sādhana），即逻辑原因和例证，当然可以用言辞表达，如在“公共”推理-给他人的情况下，它们本身并不是言辞。尽管 Dharmakīrti 等人用一个事实或一个实体（artha）证明另一个的术语来表达，实际上这个图景具有方案内容差距及其桥梁的所有复杂特征：逻辑推理是一个直接涉及虚构代理人，即概念的心智过程，这些概念又以 apoha 方式与真实的特定实体相连接。毫不奇怪，证明者是 apoha 属性而不是言辞的想法具有其哲学上的复杂性。我们何时具有相同的属性，何时它们不同？当一个普遍性是双向的，或“相等”（samavyāpti），如无常（anityatva）和被产生（kṛtakatva）的情况下，很容易看出无常的个体将与被产生的个体相同。鉴于双向普遍性分析为“对于所有 x，如果且仅当 x 是无常时 x 被产生”，这两个概念的延伸（即无常个体集合和被产生个体集合）对于佛教徒来说是相同的。然而，将一个术语替换为另一个术语似乎会导致一个无效的推理，其中前提为真但结论不成立。为了凸显问题，考虑以下诱人但无效的推理：
 
-> | Being a product is a good reason for proving that sound is impermanent.                        |
-> | ------------------------------------------------------------------------------------------------ |
-> | 存在为产品与存在为无常是一致的（即，对于所有 x：如果且仅如果 x 是无常的，那么 x 是一个产品）。 |
-> | 因此，无常是证明声音无常的一个很好的理由。                                                     |
+| Being a product is a good reason for proving that sound is impermanent. |
+| ----------------------------------------------------------------------- |
+| 存在为产品与存在为无常是一致的（即，对于所有 x：如果且仅如果 x 是无常的，那么 x 是一个产品）。                     |
+| 因此，无常是证明声音无常的一个很好的理由。                                                   |
 
 我们从两个真实前提出发得出一个错误的结论，因为很明显，对于一个佛教徒（以及大多数人来说），仅仅因为某事是这样就是这样并不是一个好理由。然而，也有人可能认为，从前提到结论的推理是对同一物换同一物的可替代性原则的一个可以接受的应用，除非真理受到损害。出了什么问题？
 
@@ -200,7 +197,7 @@ Dharmakīrti’s version of the *apoha* theory is developed in long sections in 
 
 ## 宗教与伦理学
 
-法称（Dharmakīrti）被描绘为基本上是世俗哲学的干燥实践者，这似乎很难被辩护。关于知识来源的技术逻辑和认识论讨论不仅仅是为了追求自身。它们还被用来建立佛教的宗教教义，如四圣谛、佛陀作为权威/可靠人物的证明（pramāṇapuruṣa，藏文 tshad ma’i skyes bu）、因果报应之法（karman）、轮回、慈悲、无所不知、内在的佛性、缺乏真实个人身份等。所有这些主题在《认识论辩》的第二章中被详细讨论，一些主题也成为后来认识论者独立论著的主题。还有关于直接感知宗教真理和通向这种非凡知识的方法的关注。例如，在《认识论辩》的第三章以及《逻辑结》和《认识论决》的感知章节中，法称试图解释和理性化瑜伽行者的感知（yogipratyakṣa）。他提倡一种非常显著的冥想方法——更确切地说是“修行”（*bhāvanā；abhyāsa）——在这种方法中，哲学分析发挥着不可或缺的作用（参见例如 Taber 2009；参见 Tillemans 2016，第 10 章，关于法称式冥想、其认识论挑战以及与禅宗佛教方法的对比）。
+法称（Dharmakīrti）被描绘为基本上是世俗哲学的干燥实践者，这似乎很难被辩护。关于知识来源的技术逻辑和认识论讨论不仅仅是为了追求自身。它们还被用来建立佛教的宗教教义，如四圣谛、佛陀作为权威/可靠人物的证明（pramāṇapuruṣa，藏文 tshad ma’i skyes bu）、因果报应之法（karman）、轮回、慈悲、无所不知、内在的佛性、缺乏真实个人身份等。所有这些主题在《认识论辩》的第二章中被详细讨论，一些主题也成为后来认识论者独立论著的主题。还有关于直接感知宗教真理和通向这种非凡知识的方法的关注。例如，在《认识论辩》的第三章以及《逻辑结》和《认识论决》的感知章节中，法称试图解释和理性化瑜伽行者的感知（yogipratyakṣa）。他提倡一种非常显著的冥想方法——更确切地说是“修行”（\*bhāvanā；abhyāsa）——在这种方法中，哲学分析发挥着不可或缺的作用（参见例如 Taber 2009；参见 Tillemans 2016，第 10 章，关于法称式冥想、其认识论挑战以及与禅宗佛教方法的对比）。
 
 法称的宗教哲学的原因和缘由无疑部分地可以通过他所生活的历史背景来解释，这是一个佛教机构和权力面临强有力的婆罗门教挑战的时代。事实上，不仅在佛教教义问题上，而且在许多形而上学问题上，他的论点都具有宗教维度。在《认识论论》的第一章的后半部分，法称详细攻击了吠陀经的权威性、阐释吠陀经的婆罗门、婆罗门关于咒语有效性的观念，以及种姓制度（参见 Eltschinger 2000）。值得注意的是，“普遍”、“种类”这一频繁出现的梵文术语，即 jāti，也是“种姓”的术语。正如 Eltschinger（2000）所展示的，关于普遍性的虚幻和种姓的虚幻的讨论对法称来说是相关的，并且像Śākyabuddhi 和 Karṇakagomin 这样的评论者明确地认为它们是相关的。对于非佛教徒来说，种姓是可以通过普遍性来解释的自然种类，并不是任意或人为的习俗区分。因此，法称名义主义的一个明显好处是，佛教徒可以通过攻击种姓的形而上学基础进一步远离婆罗门教的社会组织和伦理原则。
 
@@ -216,143 +213,143 @@ Dharmakīrti’s version of the *apoha* theory is developed in long sections in 
 
 ## Bibliography
 
-* Arnold, Dan A., 2003, “Candrakīrti on Dignāga on *Svalakṣaṇa*s,” *Journal of the International Association of Buddhist Studies*, 26(1): 139–174.
-* –––, 2006, “On Semantics and *Saṃketa*: Thoughts on a Neglected Problem with Buddhist *Apoha* Doctrine,” *Journal of Indian Philosophy*, 34: 415–478.
-* –––, 2010, “Self-Awareness (*svasaṃvitti*) and Related Doctrines of Buddhists following Dignāga: Philosophical Characterization of Some of the Main Issues,” *Journal of Indian Philosophy*, 38: 323–378.
-* Balcerowicz, Piotr, 2016, “On the Relative Chronology of Dharmakīrti and Samantabhadra,” *Journal of Indian Philosophy*, 44: 437–483.
-* Cabezón, José I., 2000, “Truth in Buddhist Theology,” in R. Jackson and J. Makransky, (eds.), *Buddhist Theology*, Critical Reflections by Contemporary Buddhist Scholars. London: Curzon, 136–154.
-* Chi, Richard S.Y., 1984, *Buddhist Formal Logic*, Delhi: Motilal Banarsidass.
-* Cox, Collett, 1995, *Disputed Dharmas. Early Buddhist Theories on Existence* (Studia Philologica Buddhica, Monograph Series XI), Tokyo: The International Institute for Buddhist Studies.
-* Davidson, Donald, 1984, “The Very Idea of a Conceptual Scheme,” reprinted in his *Inquiries into Truth and Interpretation*, Oxford: Clarendon Press, 1984.
-* D’Ottavi, Giuseppe, 2010, “Saussure et l’Inde: La Théorie de l’apoha et les entités négatives du langage,” in Jean-Paul Bronchart, Ecatarina Bulea, and Cristian Bota (eds.), *Le Projet de Ferdinand de Saussure*, Geneva: Librairie Droz, 169–191.
-* Dreyfus, Georges B., 1995, “Is Dharmakīrti a Pragmatist?” *Asiatische Studien / Etudes asiatiques* (Bern: P. Lang Verlag), 49(4): 671–691.
-* –––, 1997, *Recognizing Reality*, *Dharmakīrti’s Philosophy and its Tibetan Interpretations*, Albany, NY: State University of New York Press.
-* Dunne, John D., 2004, *Foundations of Dharmakīrti’s Philosophy* (Studies in Indian and Tibetan Buddhism), Cambridge MA: Wisdom Publications.
-* –––, 2011, “Key Features of Dharmakīrti’s *Apoha*-Theory,” in Siderits, Tillemans, Chakrabarti (eds.) 2011.
-* Eltschinger, Vincent, 2000, *“Caste” et philosophie bouddhique. Continuité de quelques arguments bouddhiques contre le traitement réaliste des dénominations sociales* (Wiener Studien zur Tibetologie und Buddhismuskunde 47), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
-* –––, 2001, *Dharmakīrti sur les* mantra *et la perception du suprasensible* (Wiener Studien zur Tibetologie und Buddhismuskunde 51), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
-* –––, 2007, *Penser l’autorité des Écritures. La polémique de Dharmakīrti contre la notion brahmanique orthodoxe d’un Veda sans auteur. Autour de Pramāṇavārttika I.213–268 et Svavṛtti*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* –––, 2007b, “On 7th and 8th Century Buddhist Accounts of Human Action, Practical Rationality and Soteriology,” in Birgit Kellner, Helmut Krasser, Horst Lasic, Michael Torsten Much (eds.), *Pramāṇakīrtiḥ, Papers Dedicated to Ernst Steinkellner on the Occasion of his 70th Birthday* (2 volumes, Wiener Studien zur Tibetologie und Buddhismuskunde 70), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, 135–162.
-* –––, 2010, “Dharmakīrti,” *Revue internationale de philosophie*, 3: 397–440 (in English).
-* –––, 2014, *Buddhist Epistemology as Apologetics. Studies on the History, Self-understanding and Dogmatic Foundations of Late Indian Buddhist Philosophy*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* Eltschinger, Vincent, Helmut Krasser, John Taber, 2012, *Can the Veda Speak? Dharmakīrti against Mīmāṃsā Exegetics and Vedic Authority, An Annotated Translation of PVSV 164,24-176,16*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* Eltschinger, Vincent, John Taber, Michael Torsten Much, Isabelle Ratié, 2018, *Dharmakīrti’s Theory of Exclusion (apoha). Part I. On Concealing. An Annotated Translation of PVSV 24, 16–45, 20 (PV I.40–91)* (*Studia Philologica Buddhica* XXXVI), Tokyo: The International Institute for Buddhist Studies.
-* Franco, Eli, 1997, *Dharmakīrti on Compassion and Rebirth* (Wiener Studien zur Tibetologie und Buddhismuskunde 38), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
-* Franco, Eli and Miyako Notake, 2014, *Dharmakīrti on the Duality of Objects. Pramāṇavārttika III.1-63*, Berlin: LIT Verlag.
-* Frauwallner, Erich, 1932, “Beiträge zur Apohalehre. 1. Dharmakīrti.Übersetzung,” *Wiener Zeitschrift für die Kunde des Morgenlandes*, 39: 247–285.
-* –––, 1933, “Beiträge zur Apohalehre. 1. Dharmakīrti.Übersetzung (Fortsetzung),” *Wiener Zeitschrift für die Kunde des Morgenlandes*, 40: 51–94.
-* –––, 1934, “Dharmakīrtis Sambandhaparīkṣā. Text und Übersetzung,” *Wiener Zeitschrift für die Kunde des Morgenlandes*, 41: 261–300. Reprinted in E. Frauwallner, *Kleine Schriften,* Herausgegeben von Gerhard Oberhammer und Ernst Steinkellner. Wiesbaden: Franz Steiner, 1982.
-* –––, 1954, “Die Reihenfolge und Entstehung der Werke Dharmakīrti’s,” *Asiatica, Festschrift Friedrich Weller*, Leipzig, 142–154. Reprinted in *Kleine Schriften*, 677–689.
-* –––, 1961, “Landmarks in the History of Indian Logic,” *Wiener Zeitschrift für die Kunde Süd- und Ostasiens*, 5: 125–148. Reprinted in *Kleine Schriften* 847–870.
-* Ganeri, Jonardon, 2001, *Philosophy in Classical India*, New York: Routledge.
+* Arnold, Dan A., 2003, “Candrakīrti on Dignāga on _Svalakṣaṇa_s,” _Journal of the International Association of Buddhist Studies_, 26(1): 139–174.
+* –––, 2006, “On Semantics and _Saṃketa_: Thoughts on a Neglected Problem with Buddhist _Apoha_ Doctrine,” _Journal of Indian Philosophy_, 34: 415–478.
+* –––, 2010, “Self-Awareness (_svasaṃvitti_) and Related Doctrines of Buddhists following Dignāga: Philosophical Characterization of Some of the Main Issues,” _Journal of Indian Philosophy_, 38: 323–378.
+* Balcerowicz, Piotr, 2016, “On the Relative Chronology of Dharmakīrti and Samantabhadra,” _Journal of Indian Philosophy_, 44: 437–483.
+* Cabezón, José I., 2000, “Truth in Buddhist Theology,” in R. Jackson and J. Makransky, (eds.), _Buddhist Theology_, Critical Reflections by Contemporary Buddhist Scholars. London: Curzon, 136–154.
+* Chi, Richard S.Y., 1984, _Buddhist Formal Logic_, Delhi: Motilal Banarsidass.
+* Cox, Collett, 1995, _Disputed Dharmas. Early Buddhist Theories on Existence_ (Studia Philologica Buddhica, Monograph Series XI), Tokyo: The International Institute for Buddhist Studies.
+* Davidson, Donald, 1984, “The Very Idea of a Conceptual Scheme,” reprinted in his _Inquiries into Truth and Interpretation_, Oxford: Clarendon Press, 1984.
+* D’Ottavi, Giuseppe, 2010, “Saussure et l’Inde: La Théorie de l’apoha et les entités négatives du langage,” in Jean-Paul Bronchart, Ecatarina Bulea, and Cristian Bota (eds.), _Le Projet de Ferdinand de Saussure_, Geneva: Librairie Droz, 169–191.
+* Dreyfus, Georges B., 1995, “Is Dharmakīrti a Pragmatist?” _Asiatische Studien / Etudes asiatiques_ (Bern: P. Lang Verlag), 49(4): 671–691.
+* –––, 1997, _Recognizing Reality_, _Dharmakīrti’s Philosophy and its Tibetan Interpretations_, Albany, NY: State University of New York Press.
+* Dunne, John D., 2004, _Foundations of Dharmakīrti’s Philosophy_ (Studies in Indian and Tibetan Buddhism), Cambridge MA: Wisdom Publications.
+* –––, 2011, “Key Features of Dharmakīrti’s _Apoha_-Theory,” in Siderits, Tillemans, Chakrabarti (eds.) 2011.
+* Eltschinger, Vincent, 2000, _“Caste” et philosophie bouddhique. Continuité de quelques arguments bouddhiques contre le traitement réaliste des dénominations sociales_ (Wiener Studien zur Tibetologie und Buddhismuskunde 47), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
+* –––, 2001, _Dharmakīrti sur les_ mantra _et la perception du suprasensible_ (Wiener Studien zur Tibetologie und Buddhismuskunde 51), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
+* –––, 2007, _Penser l’autorité des Écritures. La polémique de Dharmakīrti contre la notion brahmanique orthodoxe d’un Veda sans auteur. Autour de Pramāṇavārttika I.213–268 et Svavṛtti_, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* –––, 2007b, “On 7th and 8th Century Buddhist Accounts of Human Action, Practical Rationality and Soteriology,” in Birgit Kellner, Helmut Krasser, Horst Lasic, Michael Torsten Much (eds.), _Pramāṇakīrtiḥ, Papers Dedicated to Ernst Steinkellner on the Occasion of his 70th Birthday_ (2 volumes, Wiener Studien zur Tibetologie und Buddhismuskunde 70), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, 135–162.
+* –––, 2010, “Dharmakīrti,” _Revue internationale de philosophie_, 3: 397–440 (in English).
+* –––, 2014, _Buddhist Epistemology as Apologetics. Studies on the History, Self-understanding and Dogmatic Foundations of Late Indian Buddhist Philosophy_, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* Eltschinger, Vincent, Helmut Krasser, John Taber, 2012, _Can the Veda Speak? Dharmakīrti against Mīmāṃsā Exegetics and Vedic Authority, An Annotated Translation of PVSV 164,24-176,16_, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* Eltschinger, Vincent, John Taber, Michael Torsten Much, Isabelle Ratié, 2018, _Dharmakīrti’s Theory of Exclusion (apoha). Part I. On Concealing. An Annotated Translation of PVSV 24, 16–45, 20 (PV I.40–91)_ (_Studia Philologica Buddhica_ XXXVI), Tokyo: The International Institute for Buddhist Studies.
+* Franco, Eli, 1997, _Dharmakīrti on Compassion and Rebirth_ (Wiener Studien zur Tibetologie und Buddhismuskunde 38), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
+* Franco, Eli and Miyako Notake, 2014, _Dharmakīrti on the Duality of Objects. Pramāṇavārttika III.1-63_, Berlin: LIT Verlag.
+* Frauwallner, Erich, 1932, “Beiträge zur Apohalehre. 1. Dharmakīrti.Übersetzung,” _Wiener Zeitschrift für die Kunde des Morgenlandes_, 39: 247–285.
+* –––, 1933, “Beiträge zur Apohalehre. 1. Dharmakīrti.Übersetzung (Fortsetzung),” _Wiener Zeitschrift für die Kunde des Morgenlandes_, 40: 51–94.
+* –––, 1934, “Dharmakīrtis Sambandhaparīkṣā. Text und Übersetzung,” _Wiener Zeitschrift für die Kunde des Morgenlandes_, 41: 261–300. Reprinted in E. Frauwallner, _Kleine Schriften,_ Herausgegeben von Gerhard Oberhammer und Ernst Steinkellner. Wiesbaden: Franz Steiner, 1982.
+* –––, 1954, “Die Reihenfolge und Entstehung der Werke Dharmakīrti’s,” _Asiatica, Festschrift Friedrich Weller_, Leipzig, 142–154. Reprinted in _Kleine Schriften_, 677–689.
+* –––, 1961, “Landmarks in the History of Indian Logic,” _Wiener Zeitschrift für die Kunde Süd- und Ostasiens_, 5: 125–148. Reprinted in _Kleine Schriften_ 847–870.
+* Ganeri, Jonardon, 2001, _Philosophy in Classical India_, New York: Routledge.
 * Gillon, Brendan S., 1991, “Dharmakīrti and the Problem of Induction,” in Steinkellner (ed.) 1991, 53–58.
-* Gillon, Brendan S. and Richard P. Hayes, 1991, “Introduction to Dharmakirti’s theory of inference as presented in Pramāṇavārttika Svopajñāvṛtti 1–10,” *Journal of Indian Philosophy*, 19(1): 1–73.
-* Gnoli, Raniero, 1960, *The Pramāṇavārttikam of Dharmakīrti. The First Chapter with the Autocommentary* (Text and critical notes. Serie Orientale Roma 23), Rome: Istituto Italiano per Il Medio ed Estremo Oriente.
-* Goodman, Charles, 2004, “The Treasury of Metaphysics and the Physical World,” *Philosophical Quarterly*, 54: 216, 389–401.
+* Gillon, Brendan S. and Richard P. Hayes, 1991, “Introduction to Dharmakirti’s theory of inference as presented in Pramāṇavārttika Svopajñāvṛtti 1–10,” _Journal of Indian Philosophy_, 19(1): 1–73.
+* Gnoli, Raniero, 1960, _The Pramāṇavārttikam of Dharmakīrti. The First Chapter with the Autocommentary_ (Text and critical notes. Serie Orientale Roma 23), Rome: Istituto Italiano per Il Medio ed Estremo Oriente.
+* Goodman, Charles, 2004, “The Treasury of Metaphysics and the Physical World,” _Philosophical Quarterly_, 54: 216, 389–401.
 * Hale, Bob, 2011, “Apoha Semantics—Some Simple-minded Questions and Doubts,” in Siderits, Tillemans, Chakrabarti (eds.), 2011.
-* Hattori, Masaaki, 1968, *Dignāga on Perception. Being the Pratyakṣapariccheda of Dignāga’s Pramāṇasamuccaya* (Harvard Oriental Series 47), Cambridge MA: Harvard University Press.
-* Hayes, Richard P., 1980, “Diṅnāga’s Views on Reasoning (*svārthānumāna*),” *Journal of Indian Philosophy*, 8: 219–277.
-* –––, 1987, *Dignāga on the Interpretation of Signs* (Studies of Classical India 9), Dordrecht, Holland: Kluwer Academic Publishers.
-* Herzberger, Hans G., 1975, “Double Negation in Buddhist Logic,” *Journal of Indian Philosophy*, 3: 3–16.
-* Hugon, Pascale, 2008, *Trésors du raisonnement*, Sa skya Paṇḍita et ses prédécesseurs tibétains sur les modes de fonctionnement de la pensée et le fondement de l’inférence. Édition et traduction annotée du quatrième chaptre et d’une section du dixième chapitre du *Tshad ma rigs pa’i gter* (Wiener Studien zur Tibetologie und Buddhismuskunde, Volume 69, Numbers 1,2), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
+* Hattori, Masaaki, 1968, _Dignāga on Perception. Being the Pratyakṣapariccheda of Dignāga’s Pramāṇasamuccaya_ (Harvard Oriental Series 47), Cambridge MA: Harvard University Press.
+* Hayes, Richard P., 1980, “Diṅnāga’s Views on Reasoning (_svārthānumāna_),” _Journal of Indian Philosophy_, 8: 219–277.
+* –––, 1987, _Dignāga on the Interpretation of Signs_ (Studies of Classical India 9), Dordrecht, Holland: Kluwer Academic Publishers.
+* Herzberger, Hans G., 1975, “Double Negation in Buddhist Logic,” _Journal of Indian Philosophy_, 3: 3–16.
+* Hugon, Pascale, 2008, _Trésors du raisonnement_, Sa skya Paṇḍita et ses prédécesseurs tibétains sur les modes de fonctionnement de la pensée et le fondement de l’inférence. Édition et traduction annotée du quatrième chaptre et d’une section du dixième chapitre du _Tshad ma rigs pa’i gter_ (Wiener Studien zur Tibetologie und Buddhismuskunde, Volume 69, Numbers 1,2), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
 * –––, 2011, “Dharmakīrti’s Discussion of Circularity,” in Siderits, Tillemans, Chakrabarti (eds.), 2011.
 * Inami, Masahiro, 1999, “On the Determination of Causality,” in Katsura (ed.) 1999, 131–154.
-* –––, 2001, “The Problem of Other Minds in the Buddhist Epistemological Tradition,” *Journal of Indian Philosophy*, 29: 465–483.
-* Iwata, Takashi, 1984, “One Interpretation of the *saṃvedana-*inference of Dharmakīrti,” *Indogaku Bukkyōgaku Kenkyū / The Journal of Indian and Buddhist Studies*, 33(1): 397–394.
-* –––, 1991, *Sahopalambhaniyama. Struktur und Entwicklung des Schlusses von der Tatsache, dass Erkenntnis und Gegenstand ausschliesslich zusammen wahrgenommen werden, auf deren Nichtverschiedenheit*, Stuttgart: Franz Steiner.
-* –––, 2004, “On the Concept of Necessity in Buddhist Texts—from the Perspectives of the Yogācāras and the Buddhist Logical Tradition,” *Hōrin*, *Vergleichende Studien zur japanischen Kultur*, 11: 57–81.
-* Jackson, Roger, 1993, *Is Enlightenment Possible? Dharmakīrti and rGyal tshab rje on Knowledge, Rebirth, No-Self and Liberation*, Ithaca, NY: Snow Lion Publications.
-* Kajiyama, Yuichi, 1958, “On the Theory of Intrinsic Determination of Universal Concomitance in Buddhist Logic,” *Indogaku Bukkyōgaku Kenkyū / The Journal of Indian and Buddhist Studies*, 7(1): 364–360. Reprinted in Mimaki et al. (eds.), 1989.
-* –––, 1963, “Trikapañcakacintā: Development of the Buddhist Theory on the Determination of Causality,” *Miscellanea Indologica Kiotiensia*, 4/5: 1–15. Reprinted in Mimaki et al. (eds.), 1989.
-* –––, 1966, *An Introduction to Buddhist Philosophy. An Annotated Translation of the Tarkabhāṣā of Mokṣākaragupta*, Kyoto: Memoirs of the Faculty of Letters, Kyoto University. Reprinted in Mimaki et al. (eds.), 1989.
-* Kataoka, Kei, 2003, “The Mīmāṃsā Definition of *Pramāṇa* as a Source of New Information,” *Journal of Indian Philosophy*, 31: 89–103.
-* Katsura, Shoryu, 1979, “The *Apoha* Theory of Dignāga,” *Indogaku Bukkyōgaku Kenkyū / The Journal of Indian and Buddhist Studies*, 28: 16–20.
-* –––, 1984, “Dharmakīrti’s Theory of Truth,” *Journal of Indian Philosophy*, 12: 215–235.
-* –––, 1992, “*Pramāṇavārttika* IV.202–206—Towards the Correct Understanding of *Svabhāvapratibandha*,” *Indogaku Bukkyōgaku Kenkyū / The Journal of Indian and Buddhist Studies*, 40: 1047–1052 [35–40].
-* –––, (ed.), 1999, *Dharmakīrti’s Thought and its Impact on Indian and Tibetan Philosophy: Proceedings of the Third International Dharmakīrti Conference* (Beiträge zur Kultur—und Geistesgeschichte Asiens), Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* Keira, Ryusei, 2004, *Mādhyamika and Epistemology. A Study of Kamalaśīla’s Method for Proving the Voidness of all Dharmas*, Introduction, annotated translations and Tibetan texts of selected sections of the second chapter of the *Madhyamakāloka* (Wiener Studien zur Tibetologie und Buddhismuskunde 59), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
-* Kellner, Birgit, 2001, “Negation—Failure or Success? Remarks on an Allegedly Characteristic Trait of Dharmakīrti’s *Anupalabdhi*-Theory,” *Journal of Indian Philosophy*, 29: 495–517.
-* –––, 2003, “Integrating Negative Knowledge into *Pramāṇa* Theory: The Development of the *Dṛśyānupalabdhi* in Dharmakīrti’s Earlier Works,” *Journal of Indian Philosophy*, 31: 121–159.
-* –––, 2010, “Self-Awareness (*svasaṃvedana*) in Dignāga’s *Pramāṇasamuccaya* and -*vṛtti*: A Close Reading,” *Journal of Indian Philosophy*, 38: 203–231.
-* –––, 2017, “Proving Idealism: Dharmakīrti,” in Jonardon Ganeri (ed.), *The Oxford Handbook of Indian Philosophy*, New York: Oxford University Press, pp. 307–326.
-* Krasser, Helmut, 2001, “On Dharmakīrti’s Understanding of *pramāṇabhūta* and His Definition of *pramāṇa*,” *Wiener Zeitschrift für die Kunde Südasiens*, 45: 173–199.
-* –––, 2003, “On the Ascertainment of Validity in the Buddhist Epistemological Tradition,” *Journal of Indian Philosophy*, 31: 161–184.
-* –––, 2012, “Bhāviveka, Dharmakīrti and Kumārila,” in François Voegeli, Vincent Eltschinger, Danielle Feller, Maria Piera Candotti, Bogdan Diaconescu and Malhar Kulkarni (eds.), *Devadattīyam. Johannes Bronkhorst Felicitation Volume* (World of South and Inner Asia, Volume 5), Bern: Peter Lang, pp. 535–594.
-* Krasser, Helmut, Horst Lasic, Eli Franco, and Birgit Kellner (eds.), 2011, *Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference. Vienna, August 23-27, 2005* (Beiträge zur Kultur—und Geistesgeschichte Asiens), Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* –––, 2001, “The Problem of Other Minds in the Buddhist Epistemological Tradition,” _Journal of Indian Philosophy_, 29: 465–483.
+* Iwata, Takashi, 1984, “One Interpretation of the \*saṃvedana-\*inference of Dharmakīrti,” _Indogaku Bukkyōgaku Kenkyū / The Journal of Indian and Buddhist Studies_, 33(1): 397–394.
+* –––, 1991, _Sahopalambhaniyama. Struktur und Entwicklung des Schlusses von der Tatsache, dass Erkenntnis und Gegenstand ausschliesslich zusammen wahrgenommen werden, auf deren Nichtverschiedenheit_, Stuttgart: Franz Steiner.
+* –––, 2004, “On the Concept of Necessity in Buddhist Texts—from the Perspectives of the Yogācāras and the Buddhist Logical Tradition,” _Hōrin_, _Vergleichende Studien zur japanischen Kultur_, 11: 57–81.
+* Jackson, Roger, 1993, _Is Enlightenment Possible? Dharmakīrti and rGyal tshab rje on Knowledge, Rebirth, No-Self and Liberation_, Ithaca, NY: Snow Lion Publications.
+* Kajiyama, Yuichi, 1958, “On the Theory of Intrinsic Determination of Universal Concomitance in Buddhist Logic,” _Indogaku Bukkyōgaku Kenkyū / The Journal of Indian and Buddhist Studies_, 7(1): 364–360. Reprinted in Mimaki et al. (eds.), 1989.
+* –––, 1963, “Trikapañcakacintā: Development of the Buddhist Theory on the Determination of Causality,” _Miscellanea Indologica Kiotiensia_, 4/5: 1–15. Reprinted in Mimaki et al. (eds.), 1989.
+* –––, 1966, _An Introduction to Buddhist Philosophy. An Annotated Translation of the Tarkabhāṣā of Mokṣākaragupta_, Kyoto: Memoirs of the Faculty of Letters, Kyoto University. Reprinted in Mimaki et al. (eds.), 1989.
+* Kataoka, Kei, 2003, “The Mīmāṃsā Definition of _Pramāṇa_ as a Source of New Information,” _Journal of Indian Philosophy_, 31: 89–103.
+* Katsura, Shoryu, 1979, “The _Apoha_ Theory of Dignāga,” _Indogaku Bukkyōgaku Kenkyū / The Journal of Indian and Buddhist Studies_, 28: 16–20.
+* –––, 1984, “Dharmakīrti’s Theory of Truth,” _Journal of Indian Philosophy_, 12: 215–235.
+* –––, 1992, “_Pramāṇavārttika_ IV.202–206—Towards the Correct Understanding of _Svabhāvapratibandha_,” _Indogaku Bukkyōgaku Kenkyū / The Journal of Indian and Buddhist Studies_, 40: 1047–1052 \[35–40].
+* –––, (ed.), 1999, _Dharmakīrti’s Thought and its Impact on Indian and Tibetan Philosophy: Proceedings of the Third International Dharmakīrti Conference_ (Beiträge zur Kultur—und Geistesgeschichte Asiens), Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* Keira, Ryusei, 2004, _Mādhyamika and Epistemology. A Study of Kamalaśīla’s Method for Proving the Voidness of all Dharmas_, Introduction, annotated translations and Tibetan texts of selected sections of the second chapter of the _Madhyamakāloka_ (Wiener Studien zur Tibetologie und Buddhismuskunde 59), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
+* Kellner, Birgit, 2001, “Negation—Failure or Success? Remarks on an Allegedly Characteristic Trait of Dharmakīrti’s _Anupalabdhi_-Theory,” _Journal of Indian Philosophy_, 29: 495–517.
+* –––, 2003, “Integrating Negative Knowledge into _Pramāṇa_ Theory: The Development of the _Dṛśyānupalabdhi_ in Dharmakīrti’s Earlier Works,” _Journal of Indian Philosophy_, 31: 121–159.
+* –––, 2010, “Self-Awareness (_svasaṃvedana_) in Dignāga’s _Pramāṇasamuccaya_ and -_vṛtti_: A Close Reading,” _Journal of Indian Philosophy_, 38: 203–231.
+* –––, 2017, “Proving Idealism: Dharmakīrti,” in Jonardon Ganeri (ed.), _The Oxford Handbook of Indian Philosophy_, New York: Oxford University Press, pp. 307–326.
+* Krasser, Helmut, 2001, “On Dharmakīrti’s Understanding of _pramāṇabhūta_ and His Definition of _pramāṇa_,” _Wiener Zeitschrift für die Kunde Südasiens_, 45: 173–199.
+* –––, 2003, “On the Ascertainment of Validity in the Buddhist Epistemological Tradition,” _Journal of Indian Philosophy_, 31: 161–184.
+* –––, 2012, “Bhāviveka, Dharmakīrti and Kumārila,” in François Voegeli, Vincent Eltschinger, Danielle Feller, Maria Piera Candotti, Bogdan Diaconescu and Malhar Kulkarni (eds.), _Devadattīyam. Johannes Bronkhorst Felicitation Volume_ (World of South and Inner Asia, Volume 5), Bern: Peter Lang, pp. 535–594.
+* Krasser, Helmut, Horst Lasic, Eli Franco, and Birgit Kellner (eds.), 2011, _Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference. Vienna, August 23-27, 2005_ (Beiträge zur Kultur—und Geistesgeschichte Asiens), Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
 * Lasic, Horst, 1999, “Dharmakīrti and his Successors on the Determination of Causality,” in Katsura (ed.), 1999, 233–242.
-* –––, 2003, “On the Utilization of Causality as a Basis of Inference. Dharmakīrti’s Statements and Their Interpretation,” *Journal of Indian Philosophy*, 31: 185–197.
-* MacKenzie, Matthew, 2017, “Luminous Mind: Self-Luminosity versus Other-Luminosity in Indian Philosophy of Mind,” in Joerg Tuske (ed.), *The Bloomsbury Reasearch Handbook of Indian Epistemology and Metaphysics*, Oxford: Bloomsbury Academic, 335-353.
-* Matilal, Bimal K., 1971, *Epistemology, Logic, and Grammar in Indian Philosophical Analysis* (Series Minor 111), The Hague: Mouton and Co.
-* –––, 1974, “A Critique of Buddhist Idealism,” in Lance Cousins et al. (eds.), *Buddhist Studies in Honour of I.B. Horner*, Dordrecht: D. Reidel, pp. 139–169.
-* –––, 1998, *The Character of Logic in India*, Albany: State University of New York Press.
-* McClintock, Sara L., 2010, *Omniscience and the Rhetoric of Reason. Śāntarakṣita and Kamalaśīla on Rationality, Argumentation and Religious Authority* (Studies in Indian and Tibetan Buddhism), Cambridge MA: Wisdom Publications.
-* Mimaki, Katsumi, 1976, *La Réfutation bouddhique de la permanence des choses (sthirasiddhidūṣaṇa) et la preuve de la momentanéité des choses (kṣaṇabhaṅgasiddhi)* (Publications de l’Institut de Civilisation Indienne 41), Paris: A. Maisonneuve.
-* Mimaki, Katsumi et al. (eds.), 1989, *Y. Kajiyama: Studies in Buddhist Philosophy*, Kyoto: Rinsen.
-* Miyasaka, Yusho (ed.), 1971/72, *Pramāṇavārttika-kārikā* (Sanskrit and Tibetan), *Acta Indologica* (Narita: Naritasan Shinshoji), 2: 1–206.
-* Mookerjee, Satkari, 1935, *The Buddhist Philosophy of Universal Flux*, Calcutta: University of Calcutta. Reprinted Delhi: Motilal Banarsidass, 1980.
-* Mookerjee, Satkari and Hojun Nagasaki, 1964, *The Pramāṇavārttika of Dharmakīrti*, Patna: Nava Nālandā Mahāvihāra.
-* Oetke, Claus, 1991, “*Svabhāvapratibandha* and the Types of Reasons in Dharmakīrti’s Theory of Inference,” in E. Steinkellner (ed.) 1991, 243–268.
-* –––, 1993, *Bemerkungen zur buddhistischen Doktrin der Momentanheit des Seienden: Dharmakīrtis Sattvānumāna* (Wiener Studien zur Tibetologie und Buddhismuskunde 29), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
-* Pecchia, Cristina, 2015, *Dharmakīrti on the Cessation of Suffering. A Critical Edition with Translation and Comments of Manorathanandin’s* Vṛtti *and Vibhūticandra’s Glosses on PV II.190–216* (Brill’s Indological Library 47), Leiden: Brill.
-* Pind, Ole H., 1991, “Dignāga on *śabdasāmānya* and *śabdaviśeṣa*,” in Ernst Steinkellner (ed.), 1991, 269–280.
-* –––, 1999, “Dharmakīrti’s Interpretation of *Pramāṇasamuccayavṛtti* V 36: *śabdo ‘rthāntaranivṛttiviśiṣṭān eva bhāvān āha*,” in Katsura (ed.), 1999, 317–332.
-* –––, 2009, *Dignāga’s Philosophy of Language–Dignāga on anyāpoha. Pramāṇasamuccaya V, Texts, Translation, and Annotation*, Ph.D. Dissertation, University of Vienna, Philologisch-Kulturwissenschaftliche Fakultät, [Pind 2009 available online](https://othes.univie.ac.at/8283/).
-* –––, 2011, “Dignāga’s *Apoha* Theory, Its Presuppositions and Main Theoretical Implications,” in Siderits, Tillemans, and Chakrabarti (eds.) 2011.
-* Potter, Karl H. (ed.), 2017, *Enclyclopedia of Indian Philosophies* (Volume XXI: *Buddhist Philosophy from 600 to 750 A.D.*), Delhi: Motilal Banarsidass.
-* Powers, John, 1994, “Empiricism and Pragmatism in the Thought of Dharmakīrti and William James,” *American Journal of Theology and Philosophy*, 15(1): 59–85.
-* Sakai, Masamichi, 2011, “Śākyabuddhi and Dharmottara on the Inference of Momentariness Based on the Absence of External Causes of Destruction,” in Helmut Krasser, Horst Lasic, Eli Franco, Birgit Kellner, eds, *Religion and Logic in Buddhist Philosophical Analysis. Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23–27, 2005*, Vienna 2011, 407–421.
-* Sāṅkṛtyāyana, Rāhula, 1938, *Pramāṇavārttikam*, by Ācārya Dharmakīrti, edited by R. Sāṅkṛtyāyana. Appendix to the *Journal of the Bihar and Orissa Research Society*, 24.
+* –––, 2003, “On the Utilization of Causality as a Basis of Inference. Dharmakīrti’s Statements and Their Interpretation,” _Journal of Indian Philosophy_, 31: 185–197.
+* MacKenzie, Matthew, 2017, “Luminous Mind: Self-Luminosity versus Other-Luminosity in Indian Philosophy of Mind,” in Joerg Tuske (ed.), _The Bloomsbury Reasearch Handbook of Indian Epistemology and Metaphysics_, Oxford: Bloomsbury Academic, 335-353.
+* Matilal, Bimal K., 1971, _Epistemology, Logic, and Grammar in Indian Philosophical Analysis_ (Series Minor 111), The Hague: Mouton and Co.
+* –––, 1974, “A Critique of Buddhist Idealism,” in Lance Cousins et al. (eds.), _Buddhist Studies in Honour of I.B. Horner_, Dordrecht: D. Reidel, pp. 139–169.
+* –––, 1998, _The Character of Logic in India_, Albany: State University of New York Press.
+* McClintock, Sara L., 2010, _Omniscience and the Rhetoric of Reason. Śāntarakṣita and Kamalaśīla on Rationality, Argumentation and Religious Authority_ (Studies in Indian and Tibetan Buddhism), Cambridge MA: Wisdom Publications.
+* Mimaki, Katsumi, 1976, _La Réfutation bouddhique de la permanence des choses (sthirasiddhidūṣaṇa) et la preuve de la momentanéité des choses (kṣaṇabhaṅgasiddhi)_ (Publications de l’Institut de Civilisation Indienne 41), Paris: A. Maisonneuve.
+* Mimaki, Katsumi et al. (eds.), 1989, _Y. Kajiyama: Studies in Buddhist Philosophy_, Kyoto: Rinsen.
+* Miyasaka, Yusho (ed.), 1971/72, _Pramāṇavārttika-kārikā_ (Sanskrit and Tibetan), _Acta Indologica_ (Narita: Naritasan Shinshoji), 2: 1–206.
+* Mookerjee, Satkari, 1935, _The Buddhist Philosophy of Universal Flux_, Calcutta: University of Calcutta. Reprinted Delhi: Motilal Banarsidass, 1980.
+* Mookerjee, Satkari and Hojun Nagasaki, 1964, _The Pramāṇavārttika of Dharmakīrti_, Patna: Nava Nālandā Mahāvihāra.
+* Oetke, Claus, 1991, “_Svabhāvapratibandha_ and the Types of Reasons in Dharmakīrti’s Theory of Inference,” in E. Steinkellner (ed.) 1991, 243–268.
+* –––, 1993, _Bemerkungen zur buddhistischen Doktrin der Momentanheit des Seienden: Dharmakīrtis Sattvānumāna_ (Wiener Studien zur Tibetologie und Buddhismuskunde 29), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
+* Pecchia, Cristina, 2015, _Dharmakīrti on the Cessation of Suffering. A Critical Edition with Translation and Comments of Manorathanandin’s_ Vṛtti _and Vibhūticandra’s Glosses on PV II.190–216_ (Brill’s Indological Library 47), Leiden: Brill.
+* Pind, Ole H., 1991, “Dignāga on _śabdasāmānya_ and _śabdaviśeṣa_,” in Ernst Steinkellner (ed.), 1991, 269–280.
+* –––, 1999, “Dharmakīrti’s Interpretation of _Pramāṇasamuccayavṛtti_ V 36: _śabdo ‘rthāntaranivṛttiviśiṣṭān eva bhāvān āha_,” in Katsura (ed.), 1999, 317–332.
+* –––, 2009, _Dignāga’s Philosophy of Language–Dignāga on anyāpoha. Pramāṇasamuccaya V, Texts, Translation, and Annotation_, Ph.D. Dissertation, University of Vienna, Philologisch-Kulturwissenschaftliche Fakultät, [Pind 2009 available online](https://othes.univie.ac.at/8283/).
+* –––, 2011, “Dignāga’s _Apoha_ Theory, Its Presuppositions and Main Theoretical Implications,” in Siderits, Tillemans, and Chakrabarti (eds.) 2011.
+* Potter, Karl H. (ed.), 2017, _Enclyclopedia of Indian Philosophies_ (Volume XXI: _Buddhist Philosophy from 600 to 750 A.D._), Delhi: Motilal Banarsidass.
+* Powers, John, 1994, “Empiricism and Pragmatism in the Thought of Dharmakīrti and William James,” _American Journal of Theology and Philosophy_, 15(1): 59–85.
+* Sakai, Masamichi, 2011, “Śākyabuddhi and Dharmottara on the Inference of Momentariness Based on the Absence of External Causes of Destruction,” in Helmut Krasser, Horst Lasic, Eli Franco, Birgit Kellner, eds, _Religion and Logic in Buddhist Philosophical Analysis. Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23–27, 2005_, Vienna 2011, 407–421.
+* Sāṅkṛtyāyana, Rāhula, 1938, _Pramāṇavārttikam_, by Ācārya Dharmakīrti, edited by R. Sāṅkṛtyāyana. Appendix to the _Journal of the Bihar and Orissa Research Society_, 24.
 * Siderits, Mark, 1999, “Apohavāda, Nominalism and Resemblance Theories,” in Katsura (ed.), 1999, 349–362.
-* –––, 2003, “Deductive, Inductive, Both or Neither,” *Journal of Indian Philosophy*, 31: 303–321.
-* –––, 2005, “Buddhist Nominalism and Desert Ornithology,” in *Universals, Concepts and Qualities*, Arindam Chakrabarti and Peter Strawson (eds.), Abingdon: Ashgate, 91–103.
-* –––, 2007, *Buddhism as Philosophy. An Introduction* (Ashgate World Philosophies Series), Indianapolis: Hackett.
-* Siderits, Mark, Tom Tillemans and Arindam Chakrabarti (eds.), 2011, *Apoha. Buddhist Nominalism and Human Cognition*, New York: Columbia University Press.
-* Stcherbatsky, T., 1930, 1932, *Buddhist Logic*, 2 volumes, Leningrad: Bibliotheca Buddhica 26. Reprinted The Hague: Mouton and Co., 1958.
-* Steinkellner, Ernst, 1968, “Die Entwicklung des *kṣaṇikatvānumānam* bei Dharmakīrti,” *Wiener Zeitschrift für die Kunde Süd- und Ostasiens*, 12/13: 361–377.
-* –––, 1971, “Wirklichkeit und Begriff bei Dharmakīrti,” *Wiener Zeitschrift für die Kunde Südasiens*, 15: 179–211.
-* –––, 1973, *Dharmakīrti’s Pramāṇaviniścayaḥ. Zweites Kapitel: Svārthānumānam. Teil 1: Tibetischer Text und Sanskrittexte*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* –––, 1979, *Dharmakīrti’s Pramāṇaviniścayaḥ. Zweites Kapitel: Svārthānumānam. Teil 2: Übersetzung und Anmerkungen*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* –––, 1982, “The Spiritual Place of the Epistemological Tradition in Buddhism,” *Nanto Bukkyō*, 49: 1–15.
-* –––, 1988, “Remarks on *niścitagrahaṇa*,” in G. Gnoli and L. Lanciotti (eds.), *Orientalia Iosephi Tucci Memoriae Dicata* (Serie Orientale Roma, Volume 56, Number 3), Rome: Istituto Italiano per Il Medio ed Estremo Oriente, 1427–1444.
-* –––, (ed.), 1991, *Studies in the Buddhist Epistemological Tradition: Proceedings of the Second International Dharmakīrti Conference (Vienna, June 11–16, 1989)*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* –––, 1998, “Dharmakīrti,” in E. Craig (ed.) *The Routledge Encyclopedia of Philosophy*, London: Routledge, Volume 3, 51–53.
-* –––, 2013, *Dharmakīrtis fr**ühe Logik: Annotierte Übersetzung der logischen Teile von Pramāṇavārttika 1 mit der Vṛtti* (I. Introduction, Übersetzung, Analyse. II. Introduction, Anmerkungen, Anhänge, etc. [Studia Philologica Buddhica XXIXa,b]), Tokyo: The International Institute for Buddhist Studies.
-* Steinkellner, Ernst and Torsten Much, 1995, *Texte der erkenntnistheoretischen Schule des Buddhismus* (Systematische Übersicht über die buddhistische Sanskrit-Literatur 2. Abhandlungen der Akademie der Wissenschaften in Göttingen), Göttingen: Vandenhoeck und Ruprecht.
-* Taber, John, 2003, “Dharmakīrti against Physicalism,” *Journal of Indian Philosophy*, 31: 479–502.
-* –––, 2009, “Yoga and Our Epistemic Predicament,” in Eli Franco (ed.), *Yogic Perception, Meditation and Altered States of Consciousness*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften, 71–92.
-* Taber, John and Kei Kataoka, 2017, “Coreference and Qualification. Dignāga Debated by Kumārila and Dharmakīrti,” in Jonardon Ganeri (ed.), *The Oxford Handbook of Indian Philosophy*, New York: Oxford University Press, pp. 255–271.
-* Tillemans, Tom J.F., 1986, “Identity and Referential Opacity in Tibetan Buddhist *Apoha* Theory,” in B.K. Matilal and R.D. Evans, (eds.), *Buddhist Logic and Epistemology. Studies in the Buddhist Analysis of Inference and Language* (Studies of Classical India 7), Dordrecht: D. Reidel Publishing, 207–227.
-* –––, 1999, *Scripture, Logic, Language. Essays on Dharmakīrti and his Tibetan Successors* (Studies in Indian and Tibetan Buddhism), Somerville MA: Wisdom Publications.
-* –––, 2000, *Dharmakīrti’s Pramāṇavārttika. An Annotated Translation of the Fourth Chapter (parārthānumāna)* (Volume 1, k. 1–148), Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* –––, 2004,“Inductiveness, Deductiveness, and Examples in Buddhist Logic,” in Shoryu Katsura and Ernst Steinkellner (eds.), *The Role of the Example (dṛṣṭānta) in Classical Indian Logic* (Wiener Studien zur Tibetologie und Buddhismuskunde 58), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, p. 251–275.
-* –––, 2004b, “The Slow Death of the *Trairūpya* in Buddhist Logic : a propos of Sa skya Paṇḍita,” *Hōrin, Vergleichende Studien zur japanischen Kultur*, 11: 83–93.
+* –––, 2003, “Deductive, Inductive, Both or Neither,” _Journal of Indian Philosophy_, 31: 303–321.
+* –––, 2005, “Buddhist Nominalism and Desert Ornithology,” in _Universals, Concepts and Qualities_, Arindam Chakrabarti and Peter Strawson (eds.), Abingdon: Ashgate, 91–103.
+* –––, 2007, _Buddhism as Philosophy. An Introduction_ (Ashgate World Philosophies Series), Indianapolis: Hackett.
+* Siderits, Mark, Tom Tillemans and Arindam Chakrabarti (eds.), 2011, _Apoha. Buddhist Nominalism and Human Cognition_, New York: Columbia University Press.
+* Stcherbatsky, T., 1930, 1932, _Buddhist Logic_, 2 volumes, Leningrad: Bibliotheca Buddhica 26. Reprinted The Hague: Mouton and Co., 1958.
+* Steinkellner, Ernst, 1968, “Die Entwicklung des _kṣaṇikatvānumānam_ bei Dharmakīrti,” _Wiener Zeitschrift für die Kunde Süd- und Ostasiens_, 12/13: 361–377.
+* –––, 1971, “Wirklichkeit und Begriff bei Dharmakīrti,” _Wiener Zeitschrift für die Kunde Südasiens_, 15: 179–211.
+* –––, 1973, _Dharmakīrti’s Pramāṇaviniścayaḥ. Zweites Kapitel: Svārthānumānam. Teil 1: Tibetischer Text und Sanskrittexte_, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* –––, 1979, _Dharmakīrti’s Pramāṇaviniścayaḥ. Zweites Kapitel: Svārthānumānam. Teil 2: Übersetzung und Anmerkungen_, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* –––, 1982, “The Spiritual Place of the Epistemological Tradition in Buddhism,” _Nanto Bukkyō_, 49: 1–15.
+* –––, 1988, “Remarks on _niścitagrahaṇa_,” in G. Gnoli and L. Lanciotti (eds.), _Orientalia Iosephi Tucci Memoriae Dicata_ (Serie Orientale Roma, Volume 56, Number 3), Rome: Istituto Italiano per Il Medio ed Estremo Oriente, 1427–1444.
+* –––, (ed.), 1991, _Studies in the Buddhist Epistemological Tradition: Proceedings of the Second International Dharmakīrti Conference (Vienna, June 11–16, 1989)_, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* –––, 1998, “Dharmakīrti,” in E. Craig (ed.) _The Routledge Encyclopedia of Philosophy_, London: Routledge, Volume 3, 51–53.
+* –––, 2013, _Dharmakīrtis fr\*\*ühe Logik: Annotierte Übersetzung der logischen Teile von Pramāṇavārttika 1 mit der Vṛtti_ (I. Introduction, Übersetzung, Analyse. II. Introduction, Anmerkungen, Anhänge, etc. \[Studia Philologica Buddhica XXIXa,b]), Tokyo: The International Institute for Buddhist Studies.
+* Steinkellner, Ernst and Torsten Much, 1995, _Texte der erkenntnistheoretischen Schule des Buddhismus_ (Systematische Übersicht über die buddhistische Sanskrit-Literatur 2. Abhandlungen der Akademie der Wissenschaften in Göttingen), Göttingen: Vandenhoeck und Ruprecht.
+* Taber, John, 2003, “Dharmakīrti against Physicalism,” _Journal of Indian Philosophy_, 31: 479–502.
+* –––, 2009, “Yoga and Our Epistemic Predicament,” in Eli Franco (ed.), _Yogic Perception, Meditation and Altered States of Consciousness_, Vienna: Verlag der Österreichischen Akademie der Wissenschaften, 71–92.
+* Taber, John and Kei Kataoka, 2017, “Coreference and Qualification. Dignāga Debated by Kumārila and Dharmakīrti,” in Jonardon Ganeri (ed.), _The Oxford Handbook of Indian Philosophy_, New York: Oxford University Press, pp. 255–271.
+* Tillemans, Tom J.F., 1986, “Identity and Referential Opacity in Tibetan Buddhist _Apoha_ Theory,” in B.K. Matilal and R.D. Evans, (eds.), _Buddhist Logic and Epistemology. Studies in the Buddhist Analysis of Inference and Language_ (Studies of Classical India 7), Dordrecht: D. Reidel Publishing, 207–227.
+* –––, 1999, _Scripture, Logic, Language. Essays on Dharmakīrti and his Tibetan Successors_ (Studies in Indian and Tibetan Buddhism), Somerville MA: Wisdom Publications.
+* –––, 2000, _Dharmakīrti’s Pramāṇavārttika. An Annotated Translation of the Fourth Chapter (parārthānumāna)_ (Volume 1, k. 1–148), Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* –––, 2004,“Inductiveness, Deductiveness, and Examples in Buddhist Logic,” in Shoryu Katsura and Ernst Steinkellner (eds.), _The Role of the Example (dṛṣṭānta) in Classical Indian Logic_ (Wiener Studien zur Tibetologie und Buddhismuskunde 58), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, p. 251–275.
+* –––, 2004b, “The Slow Death of the _Trairūpya_ in Buddhist Logic : a propos of Sa skya Paṇḍita,” _Hōrin, Vergleichende Studien zur japanischen Kultur_, 11: 83–93.
 * –––, 2011, “How to Talk about Ineffable Things: Dignāga and Dharmakīrti on Apoha,” in Siderits, Tillemans, Chakrabarti (eds.), 2011.
 * –––, 2011b, “Dignāga, Bhāviveka and Dharmakīrti on Apoha,” in Helmut Krasser, Horst Lasic, Eli Franco, and Birgit Kellner (eds.), 2011, p. 449-458.
-* –––, 2016. *How do Mādhyamikas Think? And Other Essays on the Buddhist Philosophy of the Middle* (Studies in Indian and Tibetan Buddhism), Somerville MA: Wisdom Publications.
-* Tosaki, Hiromasa, 1979, 1985, *Bukkyō Ninshikiron no Kenkyū* (Jōkan =1979; Gekan =1985). Sanskrit edition and Japanese translation of *Pramāṇavārttika* III. Tokyo: Daitōshuppansha.
-* van Bijlert, Vittorio A., 1989, *Epistemology and Spiritual Authority*, The development of epistemology and logic in the old Nyāya and the Buddhist school of epistemology with an annotated translation of Dharmakīrti’s *Pramāṇavārttika* II (*Pramāṇasiddhi*) vv. 1–7 (Wiener Studien zur Tibetologie und Buddhismuskunde 20), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
-* van der Kuijp, Leonard W.J., 1983, *Contributions to the Development of Tibetan Buddhist Epistemology. From the Eleventh to the Thirteenth Century* (Alt- und Neu-Indische Studien 26), Wiesbaden: Franz Steiner Verlag.
-* Vetter, Tilmann, 1990, *Der Buddha und seine Lehre in Dharmakīrti’s Pramāṇavārttika. Der Abschnitt über den Buddha und die vier edlen Wahrheiten in Pramāṇasiddhi-Kapitel* (Wiener Studien zur Tibetologie und Buddhismuskunde 12), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien. Second and revised edition.
-* von Rospatt, Alexander, 1995, *The Buddhist Doctrine of Momentariness. A Survey of the Origins and Early Phase of this Doctrine up to Vasubandhu*, Stuttgart: Franz Steiner Verlag.
-* Williams, Paul, 1998, *The Reflexive Nature of Awareness*: *A Tibetan Madhyamaka Defence*, Richmond, UK: Curzon Press.
-* Yoshimizu, Chizuko, 1999, “The Development of *Sattvānumāna* from the Refutation of a Permanent Existent in the Sautrāntika Tradition,” *Wiener Zeitschrift für die Kunde Südasiens*, 43: 231–254.
-* –––, 2007, “Augenblicklichkeit (*kṣaṇikatva*) und Eigenwesen (*svabhāva*): Dharmakīrtis Polemik im Hetubindu,” *Wiener Zeitschrift für die Kunde Südasiens*, 47: 197–216.
+* –––, 2016. _How do Mādhyamikas Think? And Other Essays on the Buddhist Philosophy of the Middle_ (Studies in Indian and Tibetan Buddhism), Somerville MA: Wisdom Publications.
+* Tosaki, Hiromasa, 1979, 1985, _Bukkyō Ninshikiron no Kenkyū_ (Jōkan =1979; Gekan =1985). Sanskrit edition and Japanese translation of _Pramāṇavārttika_ III. Tokyo: Daitōshuppansha.
+* van Bijlert, Vittorio A., 1989, _Epistemology and Spiritual Authority_, The development of epistemology and logic in the old Nyāya and the Buddhist school of epistemology with an annotated translation of Dharmakīrti’s _Pramāṇavārttika_ II (_Pramāṇasiddhi_) vv. 1–7 (Wiener Studien zur Tibetologie und Buddhismuskunde 20), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien.
+* van der Kuijp, Leonard W.J., 1983, _Contributions to the Development of Tibetan Buddhist Epistemology. From the Eleventh to the Thirteenth Century_ (Alt- und Neu-Indische Studien 26), Wiesbaden: Franz Steiner Verlag.
+* Vetter, Tilmann, 1990, _Der Buddha und seine Lehre in Dharmakīrti’s Pramāṇavārttika. Der Abschnitt über den Buddha und die vier edlen Wahrheiten in Pramāṇasiddhi-Kapitel_ (Wiener Studien zur Tibetologie und Buddhismuskunde 12), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien. Second and revised edition.
+* von Rospatt, Alexander, 1995, _The Buddhist Doctrine of Momentariness. A Survey of the Origins and Early Phase of this Doctrine up to Vasubandhu_, Stuttgart: Franz Steiner Verlag.
+* Williams, Paul, 1998, _The Reflexive Nature of Awareness_: _A Tibetan Madhyamaka Defence_, Richmond, UK: Curzon Press.
+* Yoshimizu, Chizuko, 1999, “The Development of _Sattvānumāna_ from the Refutation of a Permanent Existent in the Sautrāntika Tradition,” _Wiener Zeitschrift für die Kunde Südasiens_, 43: 231–254.
+* –––, 2007, “Augenblicklichkeit (_kṣaṇikatva_) und Eigenwesen (_svabhāva_): Dharmakīrtis Polemik im Hetubindu,” _Wiener Zeitschrift für die Kunde Südasiens_, 47: 197–216.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dharmakiirti). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/dharmakiirti/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=dharmakiirti&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/dharmakiirti/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dharmakiirti).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/dharmakiirti/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=dharmakiirti\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/dharmakiirti/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Abhidharma](https://plato.stanford.edu/entries/abhidharma/) | [Indian Philosophy (Classical): perceptual experience and concepts](https://plato.stanford.edu/entries/perception-india/) | [justification, epistemic: internalist vs. externalist conceptions of](https://plato.stanford.edu/entries/justep-intext/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [natural kinds](https://plato.stanford.edu/entries/natural-kinds/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [reference](https://plato.stanford.edu/entries/reference/) | [Śāntarakṣita](https://plato.stanford.edu/entries/saantarak-sita/) | [Tibetan epistemology and philosophy of language](https://plato.stanford.edu/entries/epistemology-language-tibetan/) | [tropes](https://plato.stanford.edu/entries/tropes/)
+[Abhidharma](https://plato.stanford.edu/entries/abhidharma/) | [Indian Philosophy (Classical): perceptual experience and concepts](https://plato.stanford.edu/entries/perception-india/) | [justification, epistemic: internalist vs. externalist conceptions of](https://plato.stanford.edu/entries/justep-intext/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [natural kinds](https://plato.stanford.edu/entries/natural-kinds/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [reference](https://plato.stanford.edu/entries/reference/) | [Śāntarakṣita](https://plato.stanford.edu/entries/saantarak-sita/) | [Tibetan epistemology and philosophy of language](https://plato.stanford.edu/entries/epistemology-language-tibetan/) | [tropes](https://plato.stanford.edu/entries/tropes/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Tom Tillemans <[*Tom.Tillemans@unil.ch*](mailto:Tom%2eTillemans%40unil%2ech)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Tom Tillemans <[_Tom.Tillemans@unil.ch_](mailto:Tom%2eTillemans%40unil%2ech)>

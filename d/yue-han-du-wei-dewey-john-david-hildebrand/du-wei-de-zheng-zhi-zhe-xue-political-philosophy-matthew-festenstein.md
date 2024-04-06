@@ -1,6 +1,6 @@
 # 杜威的政治哲学 political philosophy (Matthew Festenstein)
 
-*首次发表于 2005 年 2 月 9 日星期三；实质性修订于 2023 年 2 月 9 日星期四*
+_首次发表于 2005 年 2 月 9 日星期三；实质性修订于 2023 年 2 月 9 日星期四_
 
 杜威（1859-1952）是一位与实用主义相关的美国哲学家。他庞大的哲学和其他著作涵盖了大部分哲学领域以及许多其他教育、社会和政治问题。尽管杜威的许多政治著作是由具体问题引发的，但他的整体取向深受他的实用主义或（他更喜欢的）“实验主义”的影响。在他的政治思想核心是这样的信念：科学和民主是相互支持和相互依存的事业，它们是平等主义的、进步的，并且建立在开放社会交流的习惯之上，而自由个人主义和民主的强大解释已经变得僵化和自我毁灭。
 
@@ -13,16 +13,15 @@
 * [1. 将杜威的政治哲学置于特定背景中](https://plato.stanford.edu/entries/dewey-political/#SituDewePoliPhil)
 * [2. 重建自由主义](https://plato.stanford.edu/entries/dewey-political/#RecoLibe)
 * [3. 民主理想与现实](https://plato.stanford.edu/entries/dewey-political/#DemoIdeaReal)
-* [ 4. 遗产](https://plato.stanford.edu/entries/dewey-political/#Lega)
-* [ 参考文献](https://plato.stanford.edu/entries/dewey-political/#Bib)
-
-  * [ 杜威的著作](https://plato.stanford.edu/entries/dewey-political/#WorkDewe)
-  * [ 次级文献](https://plato.stanford.edu/entries/dewey-political/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/dewey-political/#Aca)
+* [4. 遗产](https://plato.stanford.edu/entries/dewey-political/#Lega)
+* [参考文献](https://plato.stanford.edu/entries/dewey-political/#Bib)
+  * [杜威的著作](https://plato.stanford.edu/entries/dewey-political/#WorkDewe)
+  * [次级文献](https://plato.stanford.edu/entries/dewey-political/#SecoLite)
+* [学术工具](https://plato.stanford.edu/entries/dewey-political/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/dewey-political/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dewey-political/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/dewey-political/#Rel)
 
----
+***
 
 ## 1. 定位杜威的政治哲学
 
@@ -54,7 +53,7 @@
 
 > 成长、改进和进步的过程，而不是静态的结果和成果，成为重要的事情。健康不是一劳永逸的终点，而是对健康的必要改善 - 一个持续的过程 - 才是终点和善。终点不再是要达到的终点或限制。它是转变现状的积极过程。不是完美作为最终目标，而是不断持久的完善、成熟、精炼的过程是生活的目标...成长本身就是唯一的道德“终点”。（《哲学重建》，MW12，181）
 
-正如杜威和图夫茨所说，这种实验主义告诉我们“应该达到标准的方法以及使用标准的精神，即*实验*。这种说法涉及标准的形式，而不是其内容或实质”（《伦理学》，第二版，LW7，343）。然而，这并不是关于社会判断标准内容的全部内容：杜威和图夫茨继续解释说“他们的立场是，过去的经验使我们能够陈述一个足够明确以便可用且足够灵活以便在经验进展中导致自身重新解释的判断标准”（《伦理学》，第二版，LW7，343）- 换句话说，告诉我们一些关于内容或实质的东西。杜威提供了一种历史化的伦理自然主义形式，充实了社会判断标准。在这方面，杜威说“任何社会制度（经济、家庭、政治、法律、宗教）的价值衡量标准在于其扩大和改善经验的效果”（《民主与教育》，MW9，9）。我们可以看到杜威的论述在实质上是如何的，其中包括他认为伴随着对实验主义的承诺的实际美德。促进自由开放学习的社会实践具有增长知识和理解、增加控制经验能力、提供更丰富和更动态环境的工具认识益处，如果我们愿意在处理这种环境时保持开放态度，我们将受益。然而，杜威对于根据社会群体与其成员的关系来评判社会群体的概念。例如，他在《民主与教育》中写道：
+正如杜威和图夫茨所说，这种实验主义告诉我们“应该达到标准的方法以及使用标准的精神，即_实验_。这种说法涉及标准的形式，而不是其内容或实质”（《伦理学》，第二版，LW7，343）。然而，这并不是关于社会判断标准内容的全部内容：杜威和图夫茨继续解释说“他们的立场是，过去的经验使我们能够陈述一个足够明确以便可用且足够灵活以便在经验进展中导致自身重新解释的判断标准”（《伦理学》，第二版，LW7，343）- 换句话说，告诉我们一些关于内容或实质的东西。杜威提供了一种历史化的伦理自然主义形式，充实了社会判断标准。在这方面，杜威说“任何社会制度（经济、家庭、政治、法律、宗教）的价值衡量标准在于其扩大和改善经验的效果”（《民主与教育》，MW9，9）。我们可以看到杜威的论述在实质上是如何的，其中包括他认为伴随着对实验主义的承诺的实际美德。促进自由开放学习的社会实践具有增长知识和理解、增加控制经验能力、提供更丰富和更动态环境的工具认识益处，如果我们愿意在处理这种环境时保持开放态度，我们将受益。然而，杜威对于根据社会群体与其成员的关系来评判社会群体的概念。例如，他在《民主与教育》中写道：
 
 > 在任何社会群体中，甚至在一群盗贼中，我们都会发现一些共同的利益，并且我们会发现一定程度的互动和与其他群体的合作交往。从这两个特征中，我们得出我们的标准。有多少种意识到共享的利益？与其他形式的联合相互作用有多充分和自由？如果我们将这些考虑应用于比如说一个犯罪团伙的成员，我们会发现那些有意识地将成员团结在一起的纽带很少，几乎可以归结为对掠夺的共同兴趣；而且它们的性质使得该团体与其他团体隔绝，无法在生活价值的交换中与其他团体进行互动。因此，这样一个社会所提供的教育是片面和扭曲的。另一方面，如果我们考虑体现这一标准的家庭生活，我们会发现所有人都参与的物质、智力、审美兴趣，一个成员的进步对其他成员的经验具有价值——这种经验是容易传达的——家庭并不是一个孤立的整体，而是与商业利益、学校、所有文化机构以及其他类似的团体密切相关，并且在政治组织中发挥应有的作用，并得到相应的支持。简而言之，有许多意识到的共享利益；与其他形式的联合有多种多样且自由的方式。
 
@@ -72,7 +71,7 @@
 
 杜威进一步指出，自由个体的定位不仅在于发展反思个性，这需要支持性社会和政治条件。它还包括参与社区（这里调整了他在格林和新自由主义者那里找到的一个观念）。正如他在《公共及其问题》中所说，自由“是个人潜能的安全释放和实现，这仅在与他人的丰富多样的联合中发生：成为一个个性化的自我，做出独特的贡献并以自己的方式享受联合的成果”（《公共及其问题》，LW2，329）。你不仅在反思地在一系列选择中做出选择时是自由的，而且在有一个丰富的有价值选择的范围时也是自由的；没有这些选择，你就不是自由的，或者不像那些与他人享有丰富多样的联合的人那样自由。只有当你为社会做出自己独特的贡献时，你才是自由的。杜威是一种积极自由理论家，他认为个体自由是通过参与个体社会对自己事务的集体控制过程实现的。我将在下一节中回到这一点，因为这塑造了杜威对民主的理解。
 
-这里需要强调的是，这种自由的描述是对资本主义社会进行批判评估的基础：“[t]自由的直接影响总是与某个阶级或群体有关，这个阶级或群体在当代社会的权力分配中受到某种形式的限制的特殊方式受苦”（《自由主义与社会行动》，LW11，38）。自由主义者认为国家在维护个人自由条件方面起着重要作用。对于杜威来说，自由的性质和价值，以及他所借鉴的黑格尔理想主义者和新自由主义者，以及后来关于负面自由和正面自由的作家如以赛亚·柏林等人的看法，都融入了关于社会和政治行动适当范围的辩论中。合法的社会和政治行动范围必须通过实验确定，并根据他对自由概念的需求来确定：自由主义者不应假定自由放任是自由主义的默认立场。对于早期的自由主义者来说，个人与政府的对立可能是有道理的，在一个以政治专制为特征的时代。然而，在民主政府和需要追踪和调节现代工业条件复杂性的情况下，自由放任自由主义的空谈只会为富豪政治提供意识形态支持。杜威借鉴了广泛的资源来充实他对社会行动或社会控制的概念，包括乌托邦主义者爱德华·贝拉米和英国行会社会主义者 G·D·H·科尔，主张加强工人权利，包括组织和加入工会的权利，以及罢工权，扩大工作场所的民主控制，建立福利国家，以个人自由之名。更明确地说，杜威在 20 世纪 30 年代特别强调，社会化经济对于维护自由的自由主义价值是必要的。毫不奇怪，这引起了像 F·A·哈耶克（1960）这样主张负面自由概念的人的敌对态度，他认为杜威对自由主义是极具破坏性的。
+这里需要强调的是，这种自由的描述是对资本主义社会进行批判评估的基础：“\[t]自由的直接影响总是与某个阶级或群体有关，这个阶级或群体在当代社会的权力分配中受到某种形式的限制的特殊方式受苦”（《自由主义与社会行动》，LW11，38）。自由主义者认为国家在维护个人自由条件方面起着重要作用。对于杜威来说，自由的性质和价值，以及他所借鉴的黑格尔理想主义者和新自由主义者，以及后来关于负面自由和正面自由的作家如以赛亚·柏林等人的看法，都融入了关于社会和政治行动适当范围的辩论中。合法的社会和政治行动范围必须通过实验确定，并根据他对自由概念的需求来确定：自由主义者不应假定自由放任是自由主义的默认立场。对于早期的自由主义者来说，个人与政府的对立可能是有道理的，在一个以政治专制为特征的时代。然而，在民主政府和需要追踪和调节现代工业条件复杂性的情况下，自由放任自由主义的空谈只会为富豪政治提供意识形态支持。杜威借鉴了广泛的资源来充实他对社会行动或社会控制的概念，包括乌托邦主义者爱德华·贝拉米和英国行会社会主义者 G·D·H·科尔，主张加强工人权利，包括组织和加入工会的权利，以及罢工权，扩大工作场所的民主控制，建立福利国家，以个人自由之名。更明确地说，杜威在 20 世纪 30 年代特别强调，社会化经济对于维护自由的自由主义价值是必要的。毫不奇怪，这引起了像 F·A·哈耶克（1960）这样主张负面自由概念的人的敌对态度，他认为杜威对自由主义是极具破坏性的。
 
 鉴于积极自由和社会控制的概念被认为具有令人担忧的威权主义含义，杜威有时被视为技术专家，值得强调杜威对社会行动概念的自由和民主特征。个体性作为一种伦理理想要求个体找到自己的道路，而不是被强加特定信条或社会角色：只有“当个体具有主动性、独立判断、灵活性和丰富经验时，他们才能行动以丰富他人的生活”（《伦理学》，第二版，LW7，285）。杜威认为，以个体自由之名保护的自由权利（如言论、思想、行动等自由）不应被废除，而是在一定程度上构成了他所倡导的积极自由的一部分。事实上，他强调“当对经济路线的重要变革提出建议时，警察和有组织的人群会对思想和言论自由进行直接和暴力的侵犯”（《伦理学》，第二版，LW7，360）。此外，仅通过个体性的棱镜来看待自由只会开启以自由之名进行政治行动的可能性，但并不要求本身进行。最后，与对自由放任的技术专家批评者相反，例如沃尔特·利普曼，正如我们将看到的，杜威认为广泛的民主形式对于社会行动至关重要，他对专家并不抱有太多信任。
 
@@ -84,15 +83,15 @@
 
 杜威对民主构成生活方式的看法存在一种重叠但并非完全相同的方式，这关乎他对民主范围的看法：民主不仅仅治理我们所认为的政治或行政，以正常意义而言。杜威认为，这种狭隘观点忽略了民主对更广泛社会制度的重要性：认为“政府仅位于华盛顿和奥尔巴尼是肤浅的。家庭、商业、教会、每个社会团体中都存在政府”，这些政府规范其成员的行为（《民主与教育行政》，LW11, 221）。民主的范围，即其适用的机构范围，不应被狭隘解读。如果我们的个性是由构成我们社会栖息地的各种机构塑造的，正如杜威所认为的，那么规范这些机构的规则和规范对我们来说太重要，不能任由偶然、教条、传统或继承的等级制度。权力和统治存在于社会生活的所有领域，因此将民主的审查和控制限制在社会生活的单一领域将是一个错误。在《公众及其问题》中，杜威对政治范围的问题进行了一些系统思考，并提供了关于公共和私人区分的描述：
 
-> 当一个行动的后果被限制，或被认为主要限于直接参与其中的人时，这个交易是私人的……然而，如果发现后果……扩展到超出[那些]直接相关的人……这个行为就具有了公共的能力……公共与私人之间的界线应该根据行为后果的重要性和范围来划定，这些后果需要通过抑制或促进来控制。公众包括所有受到间接交易后果影响到需要系统关注的人。（LW2, 244–6）
+> 当一个行动的后果被限制，或被认为主要限于直接参与其中的人时，这个交易是私人的……然而，如果发现后果……扩展到超出\[那些]直接相关的人……这个行为就具有了公共的能力……公共与私人之间的界线应该根据行为后果的重要性和范围来划定，这些后果需要通过抑制或促进来控制。公众包括所有受到间接交易后果影响到需要系统关注的人。（LW2, 244–6）
 
 在特定情况下，公共（和私人）的构成是相对于对后果的判断范围、谁受到影响以及什么是如此重要以至于需要控制的判断。公共是一个我们必须运用这些判断的概念。因此，这种公共/私人区分的概念与他的实验主义相契合，因为它对这些判断的内容保持非常开放。正如我们在自由主义讨论中看到的，杜威部分反对古典自由主义，因为他认为后者对构成对个人自由的限制有着过于狭隘的观点，这种观点根植于对个体的非历史性概念。如果我们真正共同珍视个性，杜威认为，我们不仅应考虑如何保护某些行为免受规范（因此是“私人的”），还应考虑我们需要在哪些方面进行干预和规范以支持个性。
 
-“进一步，‘[d]emocracy is only estimable through the changed conception of intelligence that forms modern science’（“Intelligence and Morals”, MW4, 39）；这是他实验主义观念的社会体现。在一篇晚期的文章中，他写道：“政治民主的核心是通过讨论和交换观点来裁决社会分歧。这种方法提供了一种粗略的途径，近似于通过实验性的探究和测试来实现变革的方法”（“Challenge to Liberal Thought”, LW15, 273）。民主是一种识别和解决社区共同问题的方法。强有力的探究要求我们必须获得所有可用的证据和论据。如果我们希望我们的探究取得成功，我们不应该通过排除那些让我们探索和纠正假设的经验来源来预先判断其结果。相比之下，
+“进一步，‘\[d]emocracy is only estimable through the changed conception of intelligence that forms modern science’（“Intelligence and Morals”, MW4, 39）；这是他实验主义观念的社会体现。在一篇晚期的文章中，他写道：“政治民主的核心是通过讨论和交换观点来裁决社会分歧。这种方法提供了一种粗略的途径，近似于通过实验性的探究和测试来实现变革的方法”（“Challenge to Liberal Thought”, LW15, 273）。民主是一种识别和解决社区共同问题的方法。强有力的探究要求我们必须获得所有可用的证据和论据。如果我们希望我们的探究取得成功，我们不应该通过排除那些让我们探索和纠正假设的经验来源来预先判断其结果。相比之下，
 
-> [e]very authoritarian scheme, … assumes that its value may be assessed by some prior principle, if not of family and birth or race and color or possession of material wealth, then by the position and rank the person occupies in the existing social scheme. The democratic faith in equality is the faith that each individual shall have the chance and opportunity to contribute whatever he is capable of contributing, and that the value of his contribution be decided by its place and function in the organized total of similar contributions: – not on the basis of prior status of any kind whatever.（“Democracy and Educational Administration”, LW11, 220）"
+> \[e]very authoritarian scheme, … assumes that its value may be assessed by some prior principle, if not of family and birth or race and color or possession of material wealth, then by the position and rank the person occupies in the existing social scheme. The democratic faith in equality is the faith that each individual shall have the chance and opportunity to contribute whatever he is capable of contributing, and that the value of his contribution be decided by its place and function in the organized total of similar contributions: – not on the basis of prior status of any kind whatever.（“Democracy and Educational Administration”, LW11, 220）"
 
-尽管“民主信仰”表明我们都有能力对批判性探究做出有意义的贡献，但智慧行为习惯的培养并非理所当然：它们可能会受到社会剥夺、宣传和意识形态的侵蚀。正如我们所见，它们被视为学校教育和一般支持性社会的艰难取得成就。人们认为民主社会既在追求可取之目标，又在争论如何实现这些目标，同时也在争论什么才是可取之目标。换句话说，民主政治是一种活动模式，我们可以在其中形成对我们的利益是什么的概念。因此，像最近的辩论民主主义者一样，杜威赋予讨论、咨询、说服和辩论在民主决策中的中心重要性。正如实验主义探究的概念所坚持的那样，这并不意味着我们需要先验标准来确定这一过程是否成功。相反，对于什么算是令人满意的解决方案的标准可能会在寻找解决方案的过程中得出。对于杜威来说，民主是实验性的，因为它允许，或者应该允许，对既定秩序的固定观念进行深入质疑，即使当然，许多民主政治并不会采取这种质疑的形式。此外，值得强调的是，杜威并未将这种辩论政治与消除社会冲突以及他社会本体论中民主的批判理想混为一谈。他并未想象消除意见分歧、利益冲突和价值多元主义作为社会和政治生活中不可消除的特征。即使在有公开讨论的情况下，“[意见分歧指的是对于最佳行动路线、最佳尝试政策的判断之分歧，仍将存在”（《公众及其问题》, LW2, 362）。民主作为公开讨论被视为处理社会利益冲突的最佳方式：
+尽管“民主信仰”表明我们都有能力对批判性探究做出有意义的贡献，但智慧行为习惯的培养并非理所当然：它们可能会受到社会剥夺、宣传和意识形态的侵蚀。正如我们所见，它们被视为学校教育和一般支持性社会的艰难取得成就。人们认为民主社会既在追求可取之目标，又在争论如何实现这些目标，同时也在争论什么才是可取之目标。换句话说，民主政治是一种活动模式，我们可以在其中形成对我们的利益是什么的概念。因此，像最近的辩论民主主义者一样，杜威赋予讨论、咨询、说服和辩论在民主决策中的中心重要性。正如实验主义探究的概念所坚持的那样，这并不意味着我们需要先验标准来确定这一过程是否成功。相反，对于什么算是令人满意的解决方案的标准可能会在寻找解决方案的过程中得出。对于杜威来说，民主是实验性的，因为它允许，或者应该允许，对既定秩序的固定观念进行深入质疑，即使当然，许多民主政治并不会采取这种质疑的形式。此外，值得强调的是，杜威并未将这种辩论政治与消除社会冲突以及他社会本体论中民主的批判理想混为一谈。他并未想象消除意见分歧、利益冲突和价值多元主义作为社会和政治生活中不可消除的特征。即使在有公开讨论的情况下，“\[意见分歧指的是对于最佳行动路线、最佳尝试政策的判断之分歧，仍将存在”（《公众及其问题》, LW2, 362）。民主作为公开讨论被视为处理社会利益冲突的最佳方式：
 
 > 民主的方法——就其作为有组织的智慧而言——是将这些冲突公之于众，以便讨论和评判它们的特殊主张，而这些评判是在比它们各自代表的更具包容性的利益的光芒下进行的。（《自由主义与社会行动》, LW11, 56）
 
@@ -112,99 +111,99 @@ As well as identifying sources for Dewey’s primary texts and listing works ref
 
 ### Works by Dewey
 
-* *The Early Works, 1882–1898*, 5 volumes, ed. by JoAnn Boydston, Carbondale: Southern Illinois University Press, 1969–1975 (abbreviated here *EW*, followed by volume number).
-* *The Middle Works, 1899–1924*, 15 volumes, ed. by JoAnn Boydston, Carbondale: Southern Illinois University Press, 1976–1983 (abbreviated here *MW*, followed by volume number).
-* *The Later Works*, 17 volumes, ed. by JoAnn Boydston, Carbondale: Southern Illinois University Press, 1981–1990 (abbreviated here as *LW*, followed by volume number).
-* Debra Morris and Ian Shapiro (eds.), *John Dewey: The Political Writings*, Indianapolis: Hackett, 1993.
-* Larry Hickman and Thomas Alexander (eds.), *The Essential Dewey* (two volumes), Bloomington: Indiana University Press, 1999.
+* _The Early Works, 1882–1898_, 5 volumes, ed. by JoAnn Boydston, Carbondale: Southern Illinois University Press, 1969–1975 (abbreviated here _EW_, followed by volume number).
+* _The Middle Works, 1899–1924_, 15 volumes, ed. by JoAnn Boydston, Carbondale: Southern Illinois University Press, 1976–1983 (abbreviated here _MW_, followed by volume number).
+* _The Later Works_, 17 volumes, ed. by JoAnn Boydston, Carbondale: Southern Illinois University Press, 1981–1990 (abbreviated here as _LW_, followed by volume number).
+* Debra Morris and Ian Shapiro (eds.), _John Dewey: The Political Writings_, Indianapolis: Hackett, 1993.
+* Larry Hickman and Thomas Alexander (eds.), _The Essential Dewey_ (two volumes), Bloomington: Indiana University Press, 1999.
 
 ### Secondary Literature
 
-* Anderson, Elizabeth, 2006, “The Epistemology of Democracy”, *Episteme*, 3: 8–22.
-* Bernstein, Richard J., 1971, *Praxis and Action*, Philadelphia: University of Pennsylvania Press.
-* –––, 2010, *The Pragmatic Turn*, Cambridge: Polity Press.
-* Bohman, James, 1999, “Democracy as Inquiry, Inquiry as Democratic: Pragmatism, Social Science and the Democratic Division of Labor”, *American Journal of Political Science*, 43: 590–607.
-* Bourne, Randolph, 1977, *The Radical Will: Selected Writings, 1911–1918*, Olaf Hansen (ed.), New York: Urizen.
-* Caspary, William R., 2000, *Dewey on Democracy*, Ithaca: Cornell University Press.
-* Cochran, Molly, 2010, *The Cambridge Companion to Dewey*, Cambridge: Cambridge University Press.
-* Crick, Bernard, 1959, *The American Science of Politics*, Berkeley: University of California Press.
-* Commager, Henry Steele, 1950, *The American Mind*, New Haven: Yale University Press.
-* Damico, Alfonso, 1978, *Individuality and Community: The Social and Political Thought of John Dewey*, Gainesville: University Presses of Florida.
-* Dieleman, Susan, David Rondel, and Christopher Voparil (eds.), 2017, *Pragmatism and Justice*, New York: Oxford University Press.
-* Diggins, John P., 1994, *The Promise of Pragmatism: Modernism and the Crisis of Knowledge and Authority*, Chicago: University of Chicago Press.
-* Farr, James, 1999, “John Dewey and American Political Science”, *American Journal of Political Science*, 43: 520–541.
-* Fesmire, Steven, 2003, *John Dewey and Moral Imagination*, Bloomington: Indiana University Press.
-* –––, 2015, *Dewey*, Abingdon: Routledge.
-* ––– (ed.), 2019, *The Oxford Handbook of Dewey*, Oxford: Oxford University Press.
-* Festenstein, Matthew, 1997, *Pragmatism and Political Theory: From Dewey to Rorty*, Chicago: Chicago University Press.
-* –––, 2001, “Inquiry as Critique: On the Legacy of Deweyan Pragmatism for Political Theory”, *Political Studies*, 49: 730–48.
-* –––, 2008, “John Dewey: Inquiry, Ethics and Democracy”, in Cheryl Misak (ed.), *The Oxford Handbook of American Philosophy*, Oxford: Oxford University Press, pp. 87–109.
+* Anderson, Elizabeth, 2006, “The Epistemology of Democracy”, _Episteme_, 3: 8–22.
+* Bernstein, Richard J., 1971, _Praxis and Action_, Philadelphia: University of Pennsylvania Press.
+* –––, 2010, _The Pragmatic Turn_, Cambridge: Polity Press.
+* Bohman, James, 1999, “Democracy as Inquiry, Inquiry as Democratic: Pragmatism, Social Science and the Democratic Division of Labor”, _American Journal of Political Science_, 43: 590–607.
+* Bourne, Randolph, 1977, _The Radical Will: Selected Writings, 1911–1918_, Olaf Hansen (ed.), New York: Urizen.
+* Caspary, William R., 2000, _Dewey on Democracy_, Ithaca: Cornell University Press.
+* Cochran, Molly, 2010, _The Cambridge Companion to Dewey_, Cambridge: Cambridge University Press.
+* Crick, Bernard, 1959, _The American Science of Politics_, Berkeley: University of California Press.
+* Commager, Henry Steele, 1950, _The American Mind_, New Haven: Yale University Press.
+* Damico, Alfonso, 1978, _Individuality and Community: The Social and Political Thought of John Dewey_, Gainesville: University Presses of Florida.
+* Dieleman, Susan, David Rondel, and Christopher Voparil (eds.), 2017, _Pragmatism and Justice_, New York: Oxford University Press.
+* Diggins, John P., 1994, _The Promise of Pragmatism: Modernism and the Crisis of Knowledge and Authority_, Chicago: University of Chicago Press.
+* Farr, James, 1999, “John Dewey and American Political Science”, _American Journal of Political Science_, 43: 520–541.
+* Fesmire, Steven, 2003, _John Dewey and Moral Imagination_, Bloomington: Indiana University Press.
+* –––, 2015, _Dewey_, Abingdon: Routledge.
+* ––– (ed.), 2019, _The Oxford Handbook of Dewey_, Oxford: Oxford University Press.
+* Festenstein, Matthew, 1997, _Pragmatism and Political Theory: From Dewey to Rorty_, Chicago: Chicago University Press.
+* –––, 2001, “Inquiry as Critique: On the Legacy of Deweyan Pragmatism for Political Theory”, _Political Studies_, 49: 730–48.
+* –––, 2008, “John Dewey: Inquiry, Ethics and Democracy”, in Cheryl Misak (ed.), _The Oxford Handbook of American Philosophy_, Oxford: Oxford University Press, pp. 87–109.
 * –––, 2017, “Ideal and Actual in Dewey’s Political Thought”, in Dieleman, Rondel, and Voparil (eds.) 2017, pp. 97–114.
-* –––, 2019, “Does Dewey Have an ‘Epistemic Argument’ for Democracy?”, *Contemporary Pragmatism*, 16: 217–41.
-* Festl, Michael G. (ed.), 2020, *Pragmatism and Social Philosophy: Exploring a Stream of Ideas from America to Europe*, New York: Routledge.
-* Forstenzer, Joshua, 2019, *Deweyan Experimentalism and the Problem of Method in Political Philosophy*, New York: Routledge.
-* Frega, Roberto, 2019, *Pragmatism and the Wide View of Democracy*, Cham: Palgrave Macmillan.
-* Fott, David, 1998, *John Dewey: America’s Philosopher of Democracy*, Lanham, Maryland: Rowman and Littlefield.
-* Hartz, Louis, 1955, *The Liberal Tradition in America*, New York: Harcourt, Brace and World
-* Hayek, F. A., 1960, *The Constitution of Liberty*. Chicago: Chicago University Press
-* Hickman, Larry (ed.), 1998, *John Dewey: Interpretations for a Postmodern Generation*, Indianapolis: Indiana University Press.
-* Honneth, Axel, 1998, “Democracy as Reflexive Cooperation: John Dewey and the Theory of Democracy Today”, *Political Theory*, 26: 763–83.
-* –––, 2008, *Reification: A New Look at an Old Idea*, Oxford: Oxford University Press.
-* –––, 2014, *Freedom’s Right: The Social Foundations of Democratic Life*, trans. by Joseph Ganahl, Cambridge: Polity Press
-* Horkheimer, Max, 1974, *The Eclipse of Reason*, New York: Seabury.
-* Jackson, Jeff, 2018, *Equality Beyond Debate: John Dewey’s Pragmatic Idea of Democracy*, Cambridge: Cambridge University Press.
-* Jaeggi, Rahel, 2018, *Critique of Forms of Life*, trans. by Ciarin Cronin, Cambridge, Mass.: Harvard University Press.
-* James, William, 1890 [1981], *Principles of Psychology*, Cambridge: Harvard University Press.
-* Kadlec, Alison, 2007, *Dewey’s Radical Pragmatism*, Lanham: Lexington.
-* Kaufman-Osborn, Timothy V., 1991, *Politics/Sense/Experience*, Ithaca: Cornell University Press.
-* Kitcher, Philip, 2020, “John Dewey Goes to Frankfurt: Pragmatism, Critical Theory, and the Invisibility of Moral/Social Problems”, in Julia Christ, Kristina Lepold, Daniel Loick, and Titus Stahl (eds.), *Debating Critical Theory: Engagements with Axel Honneth*, Lanham: Rowman and Littlefield International.
-* –––, 2021, *Moral Progress*, Oxford: Oxford University Press.
-* Kloppenberg, James T., 1986, *Uncertain Victory: Social Democracy and Progressivism in European and American Thought, 1870–1920*, New York: Oxford University Press.
-* –––, 1998, *The Virtues of Liberalism*, New York: Oxford University Press.
-* Knight, Jack, and Johnson, James, 2011, *The Priority of Democracy: The Political Consequences of Pragmatism*, Princeton: Princeton University Press.
-* Lippmann, Walter, 1922, *Public Opinion*, New York: Free Press.
-* –––, 1925, *The Phantom Public*, New York: MacMillan.
-* Livingston, Alexander, 2017, “Between Means and Ends: Reconstructing Coercion in Dewey’s Democratic Theory”, *American Political Science Review*, 111: 522–34.
-* MacGilvray, Eric, 2004, *Reconstructing Public Reason*, Cambridge, Mass.: Harvard University Press.
-* Marcuse, Herbert, 2011, *Philosophy, Psychoanalysis and Emancipation* (Collected Papers, Volume 5), Douglas Kellner and Clayton Pierce (eds.), Abingdon: Routledge
-* Maine, Henry, 1885, *Popular Government*, London: John Murray.
-* Medearis, John, 2015, *Why Democracy is Oppositional*, Cambridge, Mass: Harvard University Press.
-* Mill, John Stuart, 1843, *A System of Logic, Ratiocinative and Inductive*, London: John W. Parker.
-* Misak, Cheryl, 2000, *Truth, Politics, Morality: A Pragmatist Account of Deliberation*, London and New York: Routledge.
-* –––, 2013, *The American Pragmatists*, Oxford: Oxford University Press.
-* –––, 2019, “Dewey on the Authority and Legitimacy of the Law”, in Steven Fesmire (ed.), *The Oxford Companion to Dewey*, Oxford: Oxford University Press, pp. 195–208.
-* Mumford, Lewis, 1926, *The Golden Day*, New York: Horace Liveright, Inc.
-* Niebuhr, Reinhold, 1960. *Moral Man and Immoral Society: A Study in Ethics and Politics*, New York: Charles Scribner’s Sons.
-* Pappas, Gregory Fernando, 2008, *John Dewey’s Ethics: Democracy as Experience*, Bloomington: Indiana University Press.
-* –––, 2019, “The Starting Point of Dewey’s Ethics and Sociopolitical Philosophy”, in Steven Fesmire (ed.), *The Oxford Companion to Dewey*, Oxford: Oxford University Press, pp. 235–253.
-* Putnam, Hilary, 1992, “A Reconsideration of Deweyan Democracy”, in *Renewing Philosophy*, Cambridge: Harvard University Press, pp. 180–202.
-* Putnam, Hilary, and Putnam, Ruth Anna, 2017, *Pragmatism as a Way of Life: The Lasting Legacy of William James and John Dewey*, Cambridge, Mass: Harvard University Press.
-* Raber, Michael I., 2020, *Knowing Democracy: A Pragmatist Account of the Epistemic Dimension in Democratic Politics*, Cham: Springer.
-* Renault, Emmanuel, 2017, “Dewey’s Critical Conception of Work”, *The Journal of Speculative Philosophy*, 31(2): 286–98.
-* Rockefeller, Steven C., 1991, *John Dewey: Religious Faith and Democratic Humanism*, New York: Columbia University Press.
-* Rogers, Melvin, 2008, *The Undiscovered Dewey: Religion, Morality, and the Ethos of Democracy*, New York: Columbia University Press.
-* Rondel, David, 2018, *Pragmatist Egalitarianism*, New York: Oxford University Press.
-* Ryan, Alan, 1995, *John Dewey and the High Tide of American Liberalism*, New York: W. W. Norton and Co.
-* –––, 2012, “Staunchly Modern, Non-Bourgeois Liberalism”, in *The Making of Modern Liberalism*, Princeton: Princeton University Press, pp. 456–72.
-* Savage, Daniel M., 2002, *John Dewey’s Liberalism: Individuality, Community, and Self-Development*, Carbondale and Edwardsville: Southern Illinois University Press.
-* Shook, John, 2014, *John Dewey’s Social Philosophy: Democracy as Education*d,. New York: Palgrave Macmillan.
-* Talisse, Robert, 2011, “A Farewell to Deweyan Democracy”, *Political Studies*, 59: 509–26.
-* –––, 2014, “Pragmatist Political Philosophy”, *Philosophy Compass*, 9(2): 123–30.
-* Tiles, J. E., 1992, *John Dewey: Critical Assessments*, 4 vols, London: Routledge.
-* Welchman, Jennifer, 1995, *Dewey’s Ethical Thought*, Ithaca: Cornell University Press.
-* Westbrook, Robert B., 1991, *John Dewey and American Democracy*, Ithaca: Cornell University Press.
-* –––, 2005, *Democratic Hope: Pragmatism and the Politics of Hope*, Ithaca: Cornell University Press.
-* White, Morton, 1957, *Social Thought in America: The Revolt Against Formalism*, Boston: Beacon Press.
-* Wolin, Sheldon, 2004, *Politics and Vision*, revised edition, Princeton: Princeton University Press.
-* Zamora, Justo Serrano, 2021, *Democratization and Struggles Against Injustice: A Pragmatist Approach to the Epistemic Practices of Social Movements*, London: Rowman and Littlefield International.
+* –––, 2019, “Does Dewey Have an ‘Epistemic Argument’ for Democracy?”, _Contemporary Pragmatism_, 16: 217–41.
+* Festl, Michael G. (ed.), 2020, _Pragmatism and Social Philosophy: Exploring a Stream of Ideas from America to Europe_, New York: Routledge.
+* Forstenzer, Joshua, 2019, _Deweyan Experimentalism and the Problem of Method in Political Philosophy_, New York: Routledge.
+* Frega, Roberto, 2019, _Pragmatism and the Wide View of Democracy_, Cham: Palgrave Macmillan.
+* Fott, David, 1998, _John Dewey: America’s Philosopher of Democracy_, Lanham, Maryland: Rowman and Littlefield.
+* Hartz, Louis, 1955, _The Liberal Tradition in America_, New York: Harcourt, Brace and World
+* Hayek, F. A., 1960, _The Constitution of Liberty_. Chicago: Chicago University Press
+* Hickman, Larry (ed.), 1998, _John Dewey: Interpretations for a Postmodern Generation_, Indianapolis: Indiana University Press.
+* Honneth, Axel, 1998, “Democracy as Reflexive Cooperation: John Dewey and the Theory of Democracy Today”, _Political Theory_, 26: 763–83.
+* –––, 2008, _Reification: A New Look at an Old Idea_, Oxford: Oxford University Press.
+* –––, 2014, _Freedom’s Right: The Social Foundations of Democratic Life_, trans. by Joseph Ganahl, Cambridge: Polity Press
+* Horkheimer, Max, 1974, _The Eclipse of Reason_, New York: Seabury.
+* Jackson, Jeff, 2018, _Equality Beyond Debate: John Dewey’s Pragmatic Idea of Democracy_, Cambridge: Cambridge University Press.
+* Jaeggi, Rahel, 2018, _Critique of Forms of Life_, trans. by Ciarin Cronin, Cambridge, Mass.: Harvard University Press.
+* James, William, 1890 \[1981], _Principles of Psychology_, Cambridge: Harvard University Press.
+* Kadlec, Alison, 2007, _Dewey’s Radical Pragmatism_, Lanham: Lexington.
+* Kaufman-Osborn, Timothy V., 1991, _Politics/Sense/Experience_, Ithaca: Cornell University Press.
+* Kitcher, Philip, 2020, “John Dewey Goes to Frankfurt: Pragmatism, Critical Theory, and the Invisibility of Moral/Social Problems”, in Julia Christ, Kristina Lepold, Daniel Loick, and Titus Stahl (eds.), _Debating Critical Theory: Engagements with Axel Honneth_, Lanham: Rowman and Littlefield International.
+* –––, 2021, _Moral Progress_, Oxford: Oxford University Press.
+* Kloppenberg, James T., 1986, _Uncertain Victory: Social Democracy and Progressivism in European and American Thought, 1870–1920_, New York: Oxford University Press.
+* –––, 1998, _The Virtues of Liberalism_, New York: Oxford University Press.
+* Knight, Jack, and Johnson, James, 2011, _The Priority of Democracy: The Political Consequences of Pragmatism_, Princeton: Princeton University Press.
+* Lippmann, Walter, 1922, _Public Opinion_, New York: Free Press.
+* –––, 1925, _The Phantom Public_, New York: MacMillan.
+* Livingston, Alexander, 2017, “Between Means and Ends: Reconstructing Coercion in Dewey’s Democratic Theory”, _American Political Science Review_, 111: 522–34.
+* MacGilvray, Eric, 2004, _Reconstructing Public Reason_, Cambridge, Mass.: Harvard University Press.
+* Marcuse, Herbert, 2011, _Philosophy, Psychoanalysis and Emancipation_ (Collected Papers, Volume 5), Douglas Kellner and Clayton Pierce (eds.), Abingdon: Routledge
+* Maine, Henry, 1885, _Popular Government_, London: John Murray.
+* Medearis, John, 2015, _Why Democracy is Oppositional_, Cambridge, Mass: Harvard University Press.
+* Mill, John Stuart, 1843, _A System of Logic, Ratiocinative and Inductive_, London: John W. Parker.
+* Misak, Cheryl, 2000, _Truth, Politics, Morality: A Pragmatist Account of Deliberation_, London and New York: Routledge.
+* –––, 2013, _The American Pragmatists_, Oxford: Oxford University Press.
+* –––, 2019, “Dewey on the Authority and Legitimacy of the Law”, in Steven Fesmire (ed.), _The Oxford Companion to Dewey_, Oxford: Oxford University Press, pp. 195–208.
+* Mumford, Lewis, 1926, _The Golden Day_, New York: Horace Liveright, Inc.
+* Niebuhr, Reinhold, 1960. _Moral Man and Immoral Society: A Study in Ethics and Politics_, New York: Charles Scribner’s Sons.
+* Pappas, Gregory Fernando, 2008, _John Dewey’s Ethics: Democracy as Experience_, Bloomington: Indiana University Press.
+* –––, 2019, “The Starting Point of Dewey’s Ethics and Sociopolitical Philosophy”, in Steven Fesmire (ed.), _The Oxford Companion to Dewey_, Oxford: Oxford University Press, pp. 235–253.
+* Putnam, Hilary, 1992, “A Reconsideration of Deweyan Democracy”, in _Renewing Philosophy_, Cambridge: Harvard University Press, pp. 180–202.
+* Putnam, Hilary, and Putnam, Ruth Anna, 2017, _Pragmatism as a Way of Life: The Lasting Legacy of William James and John Dewey_, Cambridge, Mass: Harvard University Press.
+* Raber, Michael I., 2020, _Knowing Democracy: A Pragmatist Account of the Epistemic Dimension in Democratic Politics_, Cham: Springer.
+* Renault, Emmanuel, 2017, “Dewey’s Critical Conception of Work”, _The Journal of Speculative Philosophy_, 31(2): 286–98.
+* Rockefeller, Steven C., 1991, _John Dewey: Religious Faith and Democratic Humanism_, New York: Columbia University Press.
+* Rogers, Melvin, 2008, _The Undiscovered Dewey: Religion, Morality, and the Ethos of Democracy_, New York: Columbia University Press.
+* Rondel, David, 2018, _Pragmatist Egalitarianism_, New York: Oxford University Press.
+* Ryan, Alan, 1995, _John Dewey and the High Tide of American Liberalism_, New York: W. W. Norton and Co.
+* –––, 2012, “Staunchly Modern, Non-Bourgeois Liberalism”, in _The Making of Modern Liberalism_, Princeton: Princeton University Press, pp. 456–72.
+* Savage, Daniel M., 2002, _John Dewey’s Liberalism: Individuality, Community, and Self-Development_, Carbondale and Edwardsville: Southern Illinois University Press.
+* Shook, John, 2014, _John Dewey’s Social Philosophy: Democracy as Education_d,. New York: Palgrave Macmillan.
+* Talisse, Robert, 2011, “A Farewell to Deweyan Democracy”, _Political Studies_, 59: 509–26.
+* –––, 2014, “Pragmatist Political Philosophy”, _Philosophy Compass_, 9(2): 123–30.
+* Tiles, J. E., 1992, _John Dewey: Critical Assessments_, 4 vols, London: Routledge.
+* Welchman, Jennifer, 1995, _Dewey’s Ethical Thought_, Ithaca: Cornell University Press.
+* Westbrook, Robert B., 1991, _John Dewey and American Democracy_, Ithaca: Cornell University Press.
+* –––, 2005, _Democratic Hope: Pragmatism and the Politics of Hope_, Ithaca: Cornell University Press.
+* White, Morton, 1957, _Social Thought in America: The Revolt Against Formalism_, Boston: Beacon Press.
+* Wolin, Sheldon, 2004, _Politics and Vision_, revised edition, Princeton: Princeton University Press.
+* Zamora, Justo Serrano, 2021, _Democratization and Struggles Against Injustice: A Pragmatist Approach to the Epistemic Practices of Social Movements_, London: Rowman and Littlefield International.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dewey-political). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/dewey-political/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=dewey-political&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/dewey-political/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=dewey-political).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/dewey-political/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=dewey-political\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/dewey-political/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -213,7 +212,7 @@ As well as identifying sources for Dewey’s primary texts and listing works ref
 
 ## Related Entries
 
-[Addams, Jane](https://plato.stanford.edu/entries/addams-jane/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [Dewey, John](https://plato.stanford.edu/entries/dewey/) | [Dewey, John: moral philosophy](https://plato.stanford.edu/entries/dewey-moral/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [pragmatism](https://plato.stanford.edu/entries/pragmatism/) [Rorty, Richard](https://plato.stanford.edu/entries/rorty/)
+[Addams, Jane](https://plato.stanford.edu/entries/addams-jane/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [Dewey, John](https://plato.stanford.edu/entries/dewey/) | [Dewey, John: moral philosophy](https://plato.stanford.edu/entries/dewey-moral/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [pragmatism](https://plato.stanford.edu/entries/pragmatism/) [Rorty, Richard](https://plato.stanford.edu/entries/rorty/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Matthew Festenstein](http://www.york.ac.uk/politics/people/matthew-festenstein/) <[*mf517@york.ac.uk*](mailto:mf517%40york%2eac%2euk)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Matthew Festenstein](http://www.york.ac.uk/politics/people/matthew-festenstein/) <[_mf517@york.ac.uk_](mailto:mf517%40york%2eac%2euk)>

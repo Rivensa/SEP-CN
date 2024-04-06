@@ -694,7 +694,7 @@
 * [歧视 discrimination (Andrew Altman)](d/qi-shi-discrimination-andrew-altman.md)
 * [\*疾病——见健康 disease — see health](d/ji-bing-jian-jian-kang-disease-see-health.md)
 * [析取/逻辑或 disjunction (Maria Aloni)](d/xi-qu-luo-ji-huo-disjunction-maria-aloni.md)
-* [性格 dispositions (Sungho Choi and Michael Fara)](d/xing-ge-dispositions-sungho-choi-and-michael-fara.md)
+* [倾向 dispositions (Sungho Choi and Michael Fara)](d/qing-xiang-dispositions-sungho-choi-and-michael-fara.md)
 * [\*双重论证——见智者 Dissoi Logoi — see Sophists, The](d/shuang-zhong-lun-zheng-jian-zhi-zhe-dissoi-logoi-see-sophists-the.md)
 * [\*分配正义——见正义：分配正义 distributive justice — see justice: distributive](d/fen-pei-zheng-yi-jian-zheng-yi-fen-pei-zheng-yi-distributive-justice-see-justice-distributive/README.md)
   * [分配正义与实证道德心理学 and empirical moral psychology (Christian B. Miller)](d/fen-pei-zheng-yi-jian-zheng-yi-fen-pei-zheng-yi-distributive-justice-see-justice-distributive/fen-pei-zheng-yi-yu-shi-zheng-dao-de-xin-li-xue-and-empirical-moral-psychology-christian-b.-miller.md)
