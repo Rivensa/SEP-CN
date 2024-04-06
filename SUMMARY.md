@@ -700,7 +700,7 @@
   * [分配正义与实证道德心理学 and empirical moral psychology (Christian B. Miller)](d/fen-pei-zheng-yi-jian-zheng-yi-fen-pei-zheng-yi-distributive-justice-see-justice-distributive/fen-pei-zheng-yi-yu-shi-zheng-dao-de-xin-li-xue-and-empirical-moral-psychology-christian-b.-miller.md)
   * [\*国际——见正义：全球分配正义 international — see justice: international distributive](d/fen-pei-zheng-yi-jian-zheng-yi-fen-pei-zheng-yi-distributive-justice-see-justice-distributive/guo-ji-jian-zheng-yi-quan-qiu-fen-pei-zheng-yi-international-see-justice-international-distributive.md)
 * [\*多样性 diversity](d/duo-yang-xing-diversity/README.md)
-  * [宗教——见宗教多样性 religious — see religious diversity](d/duo-yang-xing-diversity/zong-jiao-jian-zong-jiao-duo-yang-xing-religious-see-religious-diversity.md)
+  * [\*宗教——见宗教多样性 religious — see religious diversity](d/duo-yang-xing-diversity/zong-jiao-jian-zong-jiao-duo-yang-xing-religious-see-religious-diversity.md)
 * [\*神 divine](d/shen-divine/README.md)
   * [\*命令论——见神学意志主义 command theory — see voluntarism, theological](d/shen-divine/ming-ling-lun-jian-shen-xue-yi-zhi-zhu-yi-command-theory-see-voluntarism-theological.md)
   * [\*预知与自由意志——见自由意志：预知与自由意志 foreknowledge and free will — see free will: divine foreknowledge and](d/shen-divine/yu-zhi-yu-zi-you-yi-zhi-jian-zi-you-yi-zhi-yu-zhi-yu-zi-you-yi-zhi-foreknowledge-and-free-will-see-f.md)
