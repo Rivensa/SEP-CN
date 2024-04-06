@@ -1,2 +1,489 @@
 # 人类卵子和精子的捐赠与销售 donation and sale of human eggs and sperm (Reuven Brandt, Stephen Wilkinson, and Nicola Williams)
 
+*首次发表于 2017 年 6 月 15 日星期四；实质性修订于 2021 年 12 月 16 日星期四*
+
+人类配子（卵子和精子）的捐赠和转让涉及许多重要而困难的问题。其中一些与政策和实践直接相关；另一些则更具概念性。在生物伦理学中，配子捐赠占据着一个有趣的位置，既与其他形式的捐赠（例如血液和器官）有一些共同之处，又与不涉及捐赠的生殖技术（从试管婴儿到更具争议的领域，如克隆、胚胎选择和基因修改）有一定联系。它还与领养和代孕有一些共同特征，这些实践也（至少可以说）涉及父母责任和权利的转移或委托。（请参阅有关克隆、优生学、女性主义对生殖和家庭的观点、人体器官捐赠以及父母责任和生殖的条目。）
+
+概念上，配子捐赠为重新审视诸如：
+
+* 什么构成了父母的权利和责任？
+* 父母对其子女（实际或未来）拥有哪些权利和义务，这些权利和义务在多大程度上可以转让或委托？
+
+它还在实践伦理学和政策方面提出了问题，比如：
+
+* 应该设立捐精后代数量限制（以防止同一精子捐赠者拥有数百个生物子女）吗？如果是，那么这些限制的依据是什么？
+* 捐赠与销售
+* 潜在受赠人应被允许做出什么“匹配”和选择决策？他们应该获得有关捐赠者的什么信息？
+* 能够“购买和出售”配子是可以接受的吗？在道德上，这与提供给女性大幅折扣的生育治疗服务，以换取她们的部分卵子有何不同？
+
+这样的问题是本文的主题。
+
+然而，在继续之前，应注意两个定义和范围问题。
+
+首先，本文关注的是人类配子用于生殖目的的捐赠，而不是用于研究。这样做的理由是，这里大部分有趣的伦理和哲学问题涉及捐赠者、父母（受赠者）和所创造的子女之间的道德和社会关系，而这些问题通常不会在研究背景下出现。主要的例外是第 4 节（支付），在这里类似的同意、剥削和伤害问题在研究和治疗背景下都已经被提出（Baylis & McLeod 2007）。
+
+其次，还有一个问题是什么算作（生殖）配子捐赠。至少在本条目的目的上，我们打算将术语“配子捐赠”应用于那些情况，其中-
+
+1. A (the donor) voluntarily provides B (the recipient or recipients) with gametes (paid or otherwise); and A（捐赠者）自愿向 B（受体或受体）提供配子（付费或其他方式）; 和
+2. A 期望和/或打算 B 使用那些配子来创造 C（一个孩子或一些孩子）; 和
+3. A 和 B 都期望和/或打算 A 不会成为 C 的社会或法定父母。
+
+---
+
+## 卵子捐赠者的权利和义务
+
+与亲权相关的权利和责任通常被认为是非常重大的。因此，确定配子捐赠者是否是父母是一个备受关注的问题。但即使配子捐赠者在更深层次的伦理意义上不是父母，他们仍可能对他们的生物后代有相当大的权利和义务。虽然这里与亲权文献存在相当大的重叠（请参阅有关亲权和生育的条目），但在配子捐赠背景下的亲权问题引起了很多特定的关注。接下来我们将探讨出现的三个独特问题：（1）配子捐赠者是否是父母？（2）父母责任是否可以转移给他人？（3）配子提供者是否获得任何非父母义务？
+
+### Arguments in Favour of Gamete Donor Parenthood 对配子捐赠父母的论点
+
+对于声称配子捐赠者承担父母责任的常见观点，一个常见的起点是强调我们在除了配子捐赠之外的情况下对亲权的强烈直觉。通常我们认为，那些自愿参与生育行为的人在产生子女时会承担父母责任。即使生育是无意的，例如由于避孕失败。这种直觉的力量被用作采纳父母责任的因果观的动机。在这种观点中，以正确的方式创造后代就足以获得父母责任。那些认为配子捐赠者有父母责任的人通过辩称，最合理的父母责任因果解释必须包括配子捐赠者（Nelson 1999; Fuscaldo 2006; Blustein 1997）。
+
+例如，尼尔森(Nelson)认为，我们对道德责任的常识理解最能解释我们对无意中生育后父母责任的直觉。根据常识观点，当个体的行为足以导致这些后果，并且他们的行为与所讨论的后果在因果上是相近的时，个体对其自由行为的后果负有道德责任。配子捐赠者满足这些条件。尼尔森进一步认为，配子捐赠者在创造孩子方面的因果参与与无意中父母的因果参与没有显著的不同（至少在道德相关方面），因此一致性要求我们也应该将配子捐赠者归责为父母责任（Nelson 1999, 2014)。
+
+另一种观点是认为繁殖是一种特殊情况，并且在确定繁殖者应承担何种道德责任时，适用特殊规则。例如，考虑大卫·贝纳塔（1999）所称的“繁殖自主权”。贝纳塔认为，个体的繁殖自主权既赋予他们作出繁殖决定的权利，又要求他们对这些决定的后果负责。他认为，这是我们繁殖能力的一个特殊特征，不能完全归因于遗传学或单纯的因果关系，这导致了对从我们的配子中产生的孩子负有推定责任。他认为，这最好解释了为什么在意外怀孕案例中会产生父母责任。尽管在某些情况下，对自己的遗传子女负有推定责任可能会被推翻，但在大多数提供配子的情况下并非如此（贝纳塔，1999）。
+
+Benatar 的论点存在一个担忧，即它在很大程度上依赖于规定独特的道德特征与生殖相关联，并因此存在着诱使问题的风险。Rivka Weinberg（2008）提出了一个类似结论的论点，但基于更一般的理由。Weinberg 认为，当个体控制可能对他人造成严重风险的材料（她称之为“危险材料”）时，无论他们采取何种预防措施，他们都应对产生的后果负责。例如，宠物狮的所有者对狮子造成的损害负有责任，无论所有者采取何种预防措施以保持狮子受控。将其称为“危险材料理论”，Weinberg 认为，这适用于配子，因为它们的使用可能对第三方产生道德重大后果 - 即可能由配子结合而产生的孩子。因此，Weinberg 认为，配子提供者有责任照顾由他们的配子自愿使用而产生的孩子（Weinberg 2008）。
+
+重要的是，前述的论点都不依赖于基因相关性作为亲权的理由。关键不在于配子捐赠者与他们的生物后代之间的基因相似性起作用，而是关于配子的性质（可以创造人类的东西）以及配子捐赠者如何使用它们的考虑。
+
+大卫·维尔曼（2005, 2008）认为，由近亲关系抚养对儿童的幸福非常重要，因此我们应该怀疑社会如此轻易地允许社会父母与生物父母分离的做法。
+
+### 反对配子捐赠父母权的论点
+
+那些认为配子捐赠不会导致父母责任的人对亲权的因果解释提出了质疑。其中一个主要观点是“父母过多”的反对意见。这一反对意见的核心是声称因果理论者没有原则性的方法来区分在因果链中获得父母责任的人和不应被归责的人。因此，因果解释将父母责任归于过多的人。
+
+例如，Tim Bayne (2003) 认为，Benatar 和 Nelson 都致力于将生物祖父母和曾祖父母等纳入那些对捐赠受孕儿童负有父母责任的人之列。Bayne 认为 Benatar 致力于这一结论，因为后代是个体行使生殖自主权的结果。他认为 Nelson 致力于这一结论，因为生物祖父母和曾祖父母是他们捐赠受孕子女的必要原因，因此符合 Nelson 对父母责任的标准。
+
+贝恩的批评是否恰当尚不清楚。尼尔森的观点确实依赖于因果接近性，但他明确反对仅仅成为导致孩子诞生的因果链中必要部分就足以成为父母的观点（尼尔森，1991 年，53 页）。介入代理人的行动可能限制了因果接近性的个体范围。
+
+本纳塔尔的观点并不将人对生殖自主权的行使的所有下游后果归因于义务。事实上，对特定配子的自主控制是本纳塔尔观点的一个重要特征。祖父母和曾祖父母通常不拥有对其后代配子使用的自主控制权，因此在这一观点下通常不会被视为父母。
+
+Jason Hanna (2019)提出了一个更好的反对意见版本。 Hanna 认为，医疗专业人员确实对配子行使控制，并且是通过他们的使用创造的孩子的直接原因。 毕竟，医疗专业人员经常执行怀孕所必需的关键步骤。 实际上，在许多情况下，医疗专业人员在创造孩子方面的因果关系更为直接，并且对此具有更多的控制权，胜过配子捐赠者。 因此，一致性要求至少将参与配子捐赠的一些医疗专业人员归因为父母。 根据 Hanna 的观点，因果理论者摆脱这种推导的最有希望的方法是接受因果责任不涵盖以下情况的案例：(a)一个人代表另一个人行事，处于雇员/雇主类型的关系，并且(b)该人有合理的保证，雇主将确保从他们的行动中产生的任何义务都将得到履行。 这种做法具有直观吸引力。 我们认为，如果一个被分配任务产生污染物的雇员的雇主未能履行清理这些污染物的特殊责任，那么这位雇员并没有特殊责任。 Hanna 指出，对因果责任范围的限制使配子捐赠者免受沉重义务的影响，因为配子捐赠者为委托父母提供服务，类似于雇员/雇主关系。
+
+伊丽莎白·布雷克（Brake）提出了对父母责任的因果观的另一个挑战。布雷克（2005, 2010）认为，我们错误地认为在创造后代的过程中扮演因果角色就足以获得父母责任。根据布雷克的观点，因果理论家所依据的许多社会实践，如意外怀孕案例中的子女抚养义务，实际上是错误的。布雷克认为，相反，我们应该对父母责任持有自愿主义态度。这并不意味着那些导致孩子存在的人完全摆脱义务。布雷克认为，我们应该区分她所称的“生育成本”和更为苛刻的父母责任。虽然因果行为者可能对生育成本负责，但他们确实没有父母责任。关于布雷克的生育成本将在第 1.4 节中进一步讨论。
+
+### 父母责任的可转让性
+
+捐赠与销售 我们可能规避对配子捐赠者父母身份的担忧的一种方式是主张父母责任可以转移给他人。如果这种转移是可能的，那么当他们向他人提供他们的配子时，配子捐赠者可能会这样做。许多人认为这种转移至少有时是可能的（O’Neill 1979; Bayne 2003; Fuscaldo 2006; Benatar 1999）。主张父母责任的可转移性的人认为，父母经常将他们的一些责任转移给其他人，比如学校老师、保姆和医生。只要配子捐赠者有理由相信责任被转移给的人会做好工作，这种转移就没有问题。根据这种观点，我们应该将配子捐赠视为一种全面的责任转移，与这些其他常见的责任转移在本质上没有区别。然而，接受父母责任的可转移性并不意味着当前的做法在道德上是可容忍的。我们可能认为许多配子捐赠者未能采取必要的步骤来确保他们的生物后代得到充分的抚养（Benatar 1999）。
+
+父母责任的可转移性是有争议的。许多人认为，从某些责任转移到完全放弃父母责任的过程太快（Velleman 2008; Weinberg 2008; Nelson 1991; Brandt 2016）。例如，Velleman（2008）认为，虽然在没有其他手段为孩子提供充足生活的情况下收养是可以接受的，但这不应与有意创造与其遗传父母社会联系将被切断的孩子混淆。因为 Velleman 认为保持孩子与遗传父母之间的社会联系对孩子的幸福很重要，他认为，除非有迫切的理由做出其他安排，否则孩子应该由他们的遗传亲生父母抚养。
+
+韦恩伯格（2008）认为，父母的责任无法完全转移，因为某些类型的亲密责任只能由特定的个人来履行：处于正确亲密关系的个人。例如，父母无法通过让陌生人参加他们孩子的音乐会或颁奖典礼来转移庆祝孩子成就的义务。韦恩伯格认为，配子捐赠者有责任爱他们的孩子，而爱一个特定的人的责任是无法转移的典范。因此，至少一些父母的责任是不可转移的。
+
+Brandt (2006)争辩称，父母责任的部分转移是司空见惯的说法。当责任被委托但未被转移时，委托责任的个人仍须确保责任得以履行。例如，父母有责任确保他们的孩子确实从老师那里接受到适当的教育，并在情况不符时采取纠正措施。因此，教育责任被委托给老师，但并未转移给他们。一般来说，用来展示父母责任部分转移是司空见惯的例子，实际上往往是委托的例子。这削弱了完全转移父母责任仅仅是已被接受实践的延伸的说法，因为委托才是常态，而非转移。
+
+### 非父母责任
+
+即使配子捐赠者不是父母，他们仍然可能对他们的后代有重大义务。Bayne (2003) 认为，配子捐赠者有责任防止某些生命的出现。例如，他们可能有义务避免创造患有严重先天疾病的孩子，这将导致“不值得活的生活”。许多作者（Bayne 2003; Archard 2010; Porter 2014; Fuscaldo 2006; O’Neill 1979, Brandt 2016）也认为，配子捐赠者必须采取措施确保他们的后代至少会以一种最基本可接受的方式被抚养。
+
+前述责任涉及配子可转让的先决条件，可能还存在捐赠者责任延伸至捐赠后代生活的情况。例如，正如前面提到的，Brake（2005, 2010）认为，配子捐赠者可能有继续确保他们的生物后代获得最低程度照料的责任（她称之为“生育成本”），但这不应与更亲密和更具道德重量的父母责任混淆。同样，Brake，Porter（2012, 2014）和 Brandt（2016, 2020）也认为，配子捐赠者必须继续采取措施确保他们的后代过上体面的生活，尽管他们不一定有义务亲自抚养他们的后代。
+
+有理由认为这些责任还不够。例如，Prusak (2011) 认为，Brake 的“生育成本”与父母责任之间的差距并不像最初看起来那样明显。因此，从实际角度来看，配子捐赠者的责任几乎等同于完全的亲职责任。相反，源自堕胎文献的论点暗示，配子捐赠者只需要确保他们的后代拥有值得活的生活。有关这些论点的讨论和回应，请参阅 Brandt (2020)。
+
+另一种配子捐赠者可能具有的非父母义务是保持开放的可能性，与他们的生物后代建立关系，尽管这种开放并不意味着确实要建立这种关系（Little 1999; Kolodny 2010）。
+
+### 后代限制
+
+除了关注潜在后代的福祉和有意成为父母的能力之外，另一个问题是是否应该对可以从单个配子提供者那里创造的后代数量设限。这个问题在精子供应方面最为重要，因为从单个个体提供的配子中创造大量子女相对容易。已经提出了三个主要理由来支持后代数量的限制：意外同源关系的风险、与亲属之间复杂社会关系的可能性，以及大量后代数量引起的一般社会不适（Wright 2016）。虽然最后一个理由本身可能不是一个合理的理由，但值得一提的是，实际上这类担忧对于强加的后代数量限制产生了影响（Deech 1998；Warnock Report 1984）。
+
+限制后代数量以减少同一捐赠者后代之间意外同源关系的可能性最初是由担心先天疾病可能风险的个人提出的（Curie-Cohen 1980）。最近的研究试图量化这些风险（De Boer 等，1995 年；Wang 等，2007 年）。尽管由于精子库服务的人口规模而导致的意外同源性所致的先天疾病风险取决于，但这种风险低于最初可能认为的。例如，荷兰模型表明，如果后代数量限制在 25 个以下，将不会导致任何显著增加的风险，考虑到他们特定的人口构成（De Boer 等，1995 年）。然而，对于那些发现自己无意中进入同源关系的个人来说，还存在心理伤害的风险，考虑到相关的社会禁忌（Wright 2016）。此外，如果事后发现意外同源婚姻，可能会出现法律复杂性（Cahn 2009a）。在不强加后代数量限制的情况下，减轻这些风险的一种方法是增加配子提供的开放性，包括积极告知个人其遗传兄弟姐妹的身份。然而，即使在没有这些措施的情况下，关于如何将同源性相关风险转化为后代数量限制，尤其是考虑到个人通常享有广泛的生殖自由，也没有太多一致意见（Wright 2016；HFEA 2011）。
+
+与亲属的社会关系相关的主要担忧是，如果有大量亲属需要照顾，那么与祖先和/或基因兄弟姐妹建立和维持关系将变得更具挑战性。这种情况是否足以证明后代数量的限制，将取决于对这种关系的重视程度，正如先前所指出的，对此存在很多分歧。此外，一些关于提供配子后亲属关系的实证研究发现，拥有大量基因兄弟姐妹并不一定会妨碍建立有意义的关系（Freeman, Jadva, & Slutsky 2016）。
+
+## 捐赠者匿名
+
+捐赠与销售 一般认为，捐赠后代个体可以获得关于遗传亲属的信息并与他们联系是可以接受的。然而，在捐赠配子的安排中，如果期望捐赠者保持匿名，则更具争议。
+
+主张儿童有权获取有关捐赠者的身份信息的人通常诉诸可能在缺乏此类信息时出现的伤害，和/或声称有权获取有关自己遗传起源的信息（Ravitsky 2010, 2012; Velleman 2005, 2008; McGee, Brakeman, and Gurmankin 2001; Blyth and Farrand 2004）。考虑的可能伤害包括心理困扰、破坏的家庭关系、自我认识的减少，以及不完整或不正确的医疗记录。支持允许匿名捐赠的人认为，过分强调遗传起源是错误的，质疑匿名捐赠造成的伤害的严重性，以及这种伤害是否构成反对捐赠者匿名的决定性论据（Melo-Martín 2014; Haslanger 2009）。
+
+哲学辩论发生在一个不断变化的法律规范背景下，这些规范涉及捐赠者匿名性（Clark 2011; Frith 2001; Bernstein 2010）。尽管保持捐赠者匿名曾经是常见做法（在某些司法管辖区，如法国，这是强制性的），但在法律中确立捐赠后子女获取有关捐赠者身份信息的权利的趋势日益明显，至少在他们达到法定年龄后（Clark 2011; Frith 2001; Bernstein 2010; Brunet and Kunstmann 2013）。
+
+### 心理困扰与自我认知
+
+禁止匿名配子捐赠的一个原因是支持透露的人声称，许多由捐赠者所生的子女因缺乏有关其生物亲属的身份信息而遭受的痛苦。这种痛苦有时被称为“家谱困惑”，这个术语最初是指领养者所经历的痛苦，其症状据说包括难以形成真实感个人身份、对不知道自己的遗传关系的身份感到痛苦，以及痴迷于试图了解自己的遗传关系的信息（Sants 1964; Cahn 2009b）。支持知情权的人指出，科学研究和一般社会观察，比如帮助由捐赠者所生个体找到他们的生物亲属的服务的兴起，证明了这种伤害的严重性（McWhinnie 2001; Frith 2001; Ravitsky 2010）。
+
+一个相关的论点是，如果供卵者后代无法获得关于他们生物亲属的详细信息，他们将被剥夺一个重要的好处。一些人认为，了解自己的生物亲属（尤其是通过联系）不仅仅是满足好奇心，对于自我认识也是重要的（Velleman 2005, 2008）。根据这一观点，虽然姓名和生平细节可能无法取代由生物亲属抚养长大，但至少提供了供卵者后代一些信息，并使日后可能建立联系。
+
+然而，这两种观点在经验和哲学方面都受到了质疑。虽然一些研究确实表明，一部分受捐者后代因不知道其亲源身份而遭受心理困扰，但其他研究表明，这种困扰并不普遍，而且在出现时也不是特别严重（Melo-Martín 2014; Haslanger 2009）。研究还表明，早期披露有助于孩子将自己是受捐者后代这一事实融入其身份和自我意识中，从而帮助受捐者后代避免与家谱困惑相关的一些心理伤害（Golombok 等，2002 年）。支持受捐者匿名的人因此认为，没有明确证据表明受捐者匿名可能会对后代造成严重伤害。如果有的话，证据表明我们应该采取早期披露政策。
+
+此外，一些人认为，任何可能出现的心理伤害很可能是社会构建的。作为证据，他们指出了一些研究，显示那些不知道自己是捐精后代的个体在心理健康方面并不比同龄人差（Melo-Martín 2014; Haslanger 2009）。因此，他们认为，捐精后代个体可能经历的任何心理伤害是由于社会对生物联系的重要性而非由于被非基因关系个体抚养而产生的任何“必要”缺陷。对于 Velleman 关于与遗传关系接触对自我认识价值的观点，也提出了类似的论点（Haslanger 2009）。
+
+如果由捐赠者匿名引起的心理伤害是社会构建的，那么禁止匿名配子捐赠可能会加剧捐赠者后代所遭受的伤害。这是因为这样的禁令可能会进一步使生物联系的重要性（有时被称为“生物主义”）得到实质化，而这正是首次引起伤害的原因（Melo-Martín 2014; Leighton 2014; Haslanger 2009）。通过表明生物联系的重要性，禁止捐赠者匿名可能会进一步玷污那些由非生物父母抚养的人。
+
+然而，一个伤害是社会构建的，并不意味着它不真实，或者不需要得到补救。这对那些同意这些伤害是社会构建的人造成了困境。他们不得不在捐赠后代的利益与消除不公正的社会构建伤害的更广泛社会目标之间取得平衡。如何做到这一点最好的方式尚不清楚（Haslanger 2009）。
+
+### 2.2 医疗记录
+
+另一个禁止匿名配子捐赠的理由是，这会阻止捐赠者后代根据家族病史做出健康决策。如果个体不知道自己是捐赠者的后代，他们可能会基于错误的假设，认为他们社会家庭的医疗背景反映了他们自己的情况。即使这些个体被告知他们是捐赠者的后代，他们仍然缺乏通常对他人可获得的医疗信息（Ravitsky 2012）。虽然可以在捐赠时提供医疗信息，以保护捐赠者的匿名性，但一些人认为，随着我们对先天疾病的理解发生变化，新信息可能变得相关（Leighton 2014; McGee, Brakeman, & Gurmankin 2001）。此外，某些相关的医疗状况可能只在捐赠后很长时间才会显现。虽然可以建立一个系统让捐赠者更新他们的医疗信息，但一些人认为，这样的系统可能对捐赠者后代及时获得所需的医疗信息过于繁琐（McGee, Brakeman, & Gurmankin 2001）。
+
+然而，那些支持捐赠者匿名的可容许性的人认为，医疗史的价值被夸大了，并且随着我们朝着个性化医疗的方向发展，它将变得不那么重要（Melo-Martín 2014）。事实上，在一份建议反对允许捐赠者匿名的报告中，英国纽菲尔德生物伦理委员会指出，仅仅基于医疗利益就不足以禁止捐赠者匿名（Nuffield Council on Bioethics 2013）。
+
+### 2.3 家庭凝聚力
+
+对捐赠者匿名的另一个反对观点是，对于捐赠者后代与其社会父母之间的关系可能会造成损害，尤其是在社会父母知道配子捐赠者身份的情况下。一些人认为，不得不“保守秘密”会给社会父母带来压力，并且这种压力会对家庭幸福产生负面影响（Landau 1998）。家庭紧张的一个更为重要的来源可能是意外泄露，尤其是在捐赠者后代年龄较大时。在后一种情况下，可能会出现几种伤害，并且如果孩子们不知道自己是捐赠者后代，这些伤害可能会被极大地加剧。孩子们可能会对他们的社会父母产生不信任感，并且可能难以将有关他们遗传历史的事实融入个人身份（Turner & Coyle 2000）。
+
+尽管保密和意外披露所造成的伤害在不泄露可识别信息的情况下可以在一定程度上得到缓解，例如，简单地向孩子们在年幼时透露他们是捐赠受孕的，有人认为更加开放对于家庭团结更有益，提供孩子们查明捐赠者身份的机会（即使这要延迟到他们长大后）通常是最好的（Nuffield Council on Bioethics 2009）。
+
+那些支持允许匿名配子捐赠的人认为，最好的情况是，证据表明当提供有关捐赠者信息以及有关其受孕方式的披露时，家庭福祉会略有改善。那些孩子无法获得有关捐赠者身份信息的家庭仍然报告称家庭生活良好，并与父母保持积极关系（Melo-Martín 2014）。因此，虽然不披露可能不是最佳选择，但可能并不会对家长的自主权范围之外造成严重伤害。此外，如果伤害是社会构建的，正如一些人在家族困惑中所主张的那样，那么我们可能有额外的理由得出结论，即家庭凝聚力的伤害并不足以证明禁止匿名捐赠的合理性，因为这样做只会进一步促进生物主义（Melo-Martín 2014）。
+
+### 基本权利
+
+迄今为止考虑的反对捐赠者匿名的论点主要集中在可能因这一做法而产生的伤害上。另一种论点是个体拥有对自身起源的知情权。在法律文献中，一些人认为联合国《儿童权利宣言》和欧洲人权公约确立了个体获取有关其受孕情况的信息的权利，包括有关其亲生父母的信息（Blyth & Farrand 2004）。除了对这些权利宣言的呼吁外，还有一些尝试通过对其他基本利益的呼吁来激发对知情权的基本权利的认可。
+
+一种策略是将知情权与身份权联系起来。在这里，论点是个体需要关于其生物历史的真实事实，以便形成适当的个人身份（Ravitsky 2010）。然而，有一种反驳是，尽管儿童有权拥有一个身份，但他们并没有权利拥有特定类型的身份，比如基本上基于历史生物联系的身份（Allen 1996）。另一种途径是主张儿童有权受到尊重，而隐瞒有关他们起源的事实是一种我们不应该允许的欺骗行为（Freeman 1996）。然而，如果我们认为生物联系首先是重要的，那么有关起源的欺骗只是一种严重的不尊重形式，因此这一论点存在迎合问题的风险。
+
+### 2.5 从类比到采纳的政策论证
+
+后代能够查阅领养记录的能力在过去一个半世纪内发生了相当大的波动，甚至在同一司法管辖区内也是如此（Samuels 2000）。最近，监管结构已经转变，倾向于赋予被领养者合法权利获取有关其亲生父母的身份信息（Besson 2007，Hildebrand 1999）。在这些司法管辖区，一些人认为，由于配子捐赠与领养有足够的相似性，监管的一致性要求禁止匿名配子捐赠（Pratten v. British Columbia (Attorney General) 2012 BCCA 480；Chisholm 2012；Cahn 2009c – see Other Internet Resources）。尽管在没有禁止匿名领养的哲学理由的情况下，这种平等论点只能走得那么远（仅通过允许匿名领养可以实现相反的一致性），但它确实使人暂停一下，来审视这两种实践之间的相关相似之处。
+
+在平等论证的核心是，无论是领养还是配子捐赠，孩子都是由非遗传亲生父母抚养长大的。如果我们认为获取关于遗传亲生父母信息的权利在领养中至关重要，那么我们也应该将同样的权利扩展给受捐赠者。
+
+莱顿（Leighton 2014）对此提出了异议，认为领养和配子捐赠之间存在重要的不一致之处，因此在一种情况下禁止匿名性，在另一种情况下却不会有矛盾。例如，被领养者通常是被他们最初的父母放弃的，并且通常不是由他们的任何一个生物父母抚养。在配子捐赠的情况下，并没有类似的放弃父权的情况，通常一个生物父母也是社会父母之一。这些差异很可能导致被领养者和捐精者之间的经历有所不同。例如，被领养者可能会感到被他们最初的父母抛弃，并对自己为何被放弃感到好奇，而这在配子捐赠中不太可能发生。此外，莱顿认为，由于领养在西方有被污名化的历史，而配子捐赠没有这样的历史，因此有充分理由认为匿名领养对被领养者的心理影响与匿名配子捐赠对捐精者的心理影响会有所不同（Leighton 2014）。
+
+仅仅展示收养和配子捐赠之间存在相关不一致，并不能表明在后者情况下匿名是可以接受的，而在前者情况下不可以，但它确实表明对于每种情况采取不同的匿名政策并不是完全不一致的。
+
+## 捐赠者匹配与选择
+
+受赠配子的接受者通常希望能够对捐赠者的“特征”有所了解。提供给接受者用于选择捐赠者的特征信息在不同国家和诊所之间存在很大差异。然而，这些信息通常包括医学、形态学和传记信息，类似于在约会网站上找到的信息，如头发颜色、眼睛颜色、种族、教育程度、工作类型、爱好和宗教。
+
+少数评论者建议，应完全禁止受赠父母访问有关潜在捐赠者的信息，但也普遍不认为他们应该被允许无拘无束地选择捐赠者的特征。因此，这一领域的讨论往往集中在道德可接受和不可接受选择实践之间的界线在哪里。
+
+### 捐赠者选择背后的动机
+
+捐赠者选择决策的动机有三个主要类别。
+
+第一种是针对对孕妇身体健康构成威胁的捐赠者进行选择。这种选择形式是无处不在的，因此根据国家和国际有关配子捐赠的指南，禁止具有性传播疾病如 HIV、乙型肝炎和梅毒的捐赠者是强制性的（例如 HFE 法案 2008 年：第 T52 条 - 请参阅其他互联网资源）。这种选择动机被广泛认为在道德上没有问题，因此在这里将被大多数忽略。
+
+第二和第三类动机，这里称为‘匹配’选择和‘设计’选择，与第一类不同，基于父母和/或社会的偏好或价值观。实际上，大多数捐赠者选择决策将同时属于这两类，但在哲学文献中仍然对两者进行了理论上的区分。
+
+选择“匹配”的目的是创造一个与受赠父母相似的孩子。因此，配子捐赠者是根据其身体（有时还包括社会和心理）特征与受赠父母相匹配程度而被选择（或取消选择）（Quiroga, 2017）。正如 Braverman 和 Frith（2014）所指出的，这种做法的目的通常是：
+
+> 为了实现配子捐赠的保密和隐瞒。这种做法融入了对遗传学的普遍认识，使孩子能够“通过”作为一个自然受孕的孩子。这是为了避免孩子和夫妇之间明显的“差异”，当找到一个合适的匹配时，捐赠者就会消失在视野之外。(Braverman & Frith 2014: 135)
+
+这里可能存在除了保密和隐瞒之外的目的。这些可能基于对兼容性的考虑（希望我们的孩子“像我们一样”并且“融入其中”）（Ruddick 2000; Wong 2017），以身体或心理欲望为前提（我们经常选择生育伴侣是因为他们具有让我们满意的特征），甚至是为了避免冒犯 - 如果一对夫妇中的一员发现他/她的伴侣更喜欢具有与自己截然不同特征的捐赠者，可能会感到冒犯（Pennings 2000）。重要的是，匹配动机与选择的其他动机有所区别，因为它们仅限于希望选择具有一方/双方拟社会父母所具有特征的捐赠者，并且应该仅基于希望实现父母和孩子之间相似之处的愿望。
+
+选择的动机是出于设计，然而，其目的是创造一个具有特征的孩子，这些特征可能或可能不被接受父母所拥有，但无论如何，他们（和/或社会）认为这些特征是可取的（通常是有利的）。因此，这种选择可能是出于几个目的。这些目的包括但不限于希望通过防止生育具有不利或没有有利特征的孩子来增加自己孩子的生活前景，满足对特定“类型的孩子”的偏好，或者出于优生学的目的，通过选择被认为拥有“优越”遗传特征的捐赠者来改善基因库。
+
+在这两类中，普遍认为对匹配的欲望比对设计的欲望在道德上问题较小，因为对于家庭相似性、保密（在一定限度内）和避免冒犯的欲望通常被认为相对温和。然而，这并不意味着在这个主题上没有进行过批判性工作，正如将在第 3.3 小节中看到的那样，该小节将探讨基于种族的匹配和选择实践是否在道德上是可接受的。
+
+设计驱动的选择动机，然而，已经成为更多辩论的主题。这种讨论在很大程度上反映了（或被包含在内）许多关于选择性生殖技术伦理学的讨论，比如胚胎植入前和产前基因诊断，以及诸如性别选择和人类增强等主题（请参阅关于怀孕、分娩和医学以及优生学的条目）。因为，尽管在配子捐赠选择的背景下没有涉及胚胎或胎儿，也没有进行基因操作，但人们对以下问题非常关注：
+
+* 是否对于接受捐赠的父母和/或诊所来说，在未来通过捐赠者选择来排除“不利”的遗传特征可能是义务的。
+* 是否基于明确或隐含地表达对具有“被取消选择”特征的现有人士持有错误或“丑陋”和歧视态度的理由，选择支持/反对某些特征可能是不允许的。
+* 通过配子捐赠选择影响儿童的遗传构成的愿望是否代表了令人不安的家长态度，可能与良好家长和家长美德（如“无条件的爱”和“对未知的开放”）的普遍概念相悖
+
+在这种情况下，接下来的各小节将依次探讨这些辩论。
+
+### 3.2 选择反对残疾和劣势
+
+对于希望拥有一个没有残疾和疾病的孩子的愿望，通常被认为是选择配子捐赠的最不具争议性的理由。毕竟，父母和准父母往往希望他们的孩子过上更好的生活，而疾病和残疾可能会使实现“美好生活”变得更加困难。鉴于此，以及与其他形式的选择性繁殖不同，配子选择很少涉及有关妇女对自己身体的权利以及堕胎或胚胎破坏的道德许可性等棘手问题，关于为了避免残疾而进行配子选择的哲学家们的主导立场是允许性的（例如：Robertson 1994; Glover 等人 1989 年; Glover 2006 年; Strong 1997 年; Bennett 2001 年; Wilkinson 2010 年）。Robertson（1994 年）在陈述这一观点时总结得很好：
+
+> 对于不希望生育有严重缺陷的孩子并不是不道德的，采取行动避免这种生殖结果应被尊重为生育自由的重要方面。那么问题是，如何实现这一目标的手段是可以接受的...通过自愿选择配偶或配子进行孕前选择会引起最少的问题...关注配偶的遗传适应性可能不浪漫，但如果一个人关心配偶和后代的健康，这是理性的。因此，配偶选择应留给个人。同样，需要这项服务的夫妇应该自行选择配子捐赠者。(Roberson 1994: 154)
+
+一些人更进一步地主张，为了避免残疾而进行捐赠者选择不仅是可以的，而且在某些情况下是义务的（例如：Savulescu 2001；Savulescu & Kahane 2009；Harris 1985，2002；Buchanan et al 2000；Glover 1989；Glover 2006）。关于这个问题的讨论往往更少地集中在配子捐赠者选择上，而更多地集中在通过植入前和产前基因诊断选择胚胎和胎儿。然而，正如 Holm 和 Bennett（2014）以及 Williams（2017）所指出的，认为在这些情境中有道德义务选择反对残疾也适用于配子捐赠者选择。
+
+确实，这种情况可以清楚地看到在负面媒体反应和公众对一个聋哑夫妇的愤怒中，他们在 21 世纪初故意通过第五代聋人精子捐赠者受孕了一个聋哑孩子后，被小报媒体诋毁，并受到美国聋人协会的谴责。(有关这一案例的有趣而富有洞察力的评论，请参见 Savulescu 2002; Spriggs 2002; Fahmy 2011。) 这也可以从许多国家要求诊所在将潜在捐赠者列入捐赠者登记簿之前筛查遗传疾病的事实中看出。一个显著的例子是英国的《人类受精和胚胎学法》，自 2008 年以来，该法案包括一项禁止选择配子捐赠者和胚胎的条款。
+
+> HFE 法案 2008 年第 14(4)(9)条规定，已知具有基因、染色体或线粒体异常的人存在重大风险，这种异常可能导致患有或发展出：(a)严重的身体或精神残疾，(b)严重疾病，或(c)其他严重医疗状况。 (HFE Act 2008, s. 14(4)(9) – see Other Internet Resources)
+
+然而，这种义务可能基于何种理由？一些人认为，这种义务的道德基础可能在于关注我们生育决定所产生的孩子的利益和/或权利（参见戴维斯 2001 年的权利关注方法）。属于这一类别的论点因此侧重于影响个人的原因，指出与某些残疾相关的伤害或机会限制提供了选择反对具有可能导致这些伤害和机会限制的特征的捐赠者的充分理由。这种方法是直观的。然而，鉴于非同一性问题的结论（请参阅非同一性问题条目），许多人质疑在除了最严重的残疾案例之外的所有情况下，诉诸于所创造的孩子的利益的逻辑。因为通常认为，生活中患病或残疾要比没有生命好，而选择决策改变了谁会存在，而不是明确未来人的前景，因此关注未来孩子的利益无法构成这种义务（本尼特 2009 年；帕菲特 1984 年；帕克 2007 年；罗伯逊 1994 年）。
+
+捐赠与销售 有人认为，尽管我们生育努力的对象出生时患有残疾并不会受到伤害，但未来父母仍然可能有充分的道德理由基于其他考虑来选择不让后代患有残疾。这些考虑包括对其他人利益的呼吁，这些人的利益可能会受到我们生殖决策的影响，例如现有的子女和其他受抚养者（Roberts 2009），以及社会化医疗和福利体系国家的纳税人（Heyd 1995；Fahmy 2011；Rakowski 2002；Williams 2017）；对于未来子女中避免残疾是不符合良好父母普遍概念的主张（Steinbock & McClamrock 1994）的呼吁；以及建议那些未能避免后代残疾的人是错误的，因为他们故意或疏忽地选择创造一个严格更糟的情况（在某些特定价值方面，如幸福/偏好满足）而不是如果他们选择不同的情况（Harris 1985；Parfit 1984；Glover 1989；Glover 2006）。 （有关选择反对残疾义务的不同论据的更详细处理和批评，请参阅优生学条目。）
+
+这些论点在许多方面受到批评。有人认为，父母对子女的义务不可能如此强烈，以至于产生反对残疾的义务（Williams 2017）；还有人声称，“诸如美好生活、最佳生活和人类繁荣等复杂概念，无法简化为可能通过胚胎测试[和精子捐赠者选择]来确定的简单要素或组成部分”（Parker 2007: 281）；还有人质疑残疾与低福利水平之间的联系（Barker & Wilson, 2019），并/或声称诉诸非个人的伤害会贬低残疾人，暗示他们的生命价值低于没有残疾的人（Asch 2003；Bennett 2009）。然而，尽管许多作者认为不应该有反对残疾的义务，但通常认为未来父母仍应该有权根据个人偏好选择避免子女患有残疾。
+
+残疾权利运动中的许多作者提出了不同的观点。这些作者认为，不仅不存在针对残疾进行选择的道德义务，而且筛选出残疾捐赠者的父母偏好在道德上存在两个问题。第一个问题涉及这些偏好传递的信息，以及对生活在残疾人士的态度，这些信息可能被视为歧视性和冒犯性：“表达了对生活在[残疾]人士的一种伤害性态度和伤害性信息”（Parens & Asch 1999: S2）。第二个问题是，选择排除致残基因特征的愿望基于对残疾的严重性和真实性质的错误信息。例如，在严重性方面，广泛报道残疾人士往往报告生活质量良好，尽管大多数（非残疾）观察者认为相反（有关残疾悖论的研究，请参见 Albrecht & Devlieger 1999）。关于残疾的真实性质，有人声称，与许多人的观点相反，即残疾本质上是不利的，许多（对于那些持极端态度的人来说，全部）与残疾相关的伤害是社会构建的。也就是说，这些伤害通常不是功能失调的结果，而是社会在设计物理、经济和社会制度时未能考虑到每个人（Glackin 2010）。因此，有人认为，由于残疾通常不是那些遭受残疾的人固有的特征，试图通过阻止残疾人的存在来预防残疾，与试图通过阻止黑人和妇女的出生来预防性别歧视或种族歧视非常相似：这是对社会问题的不当回应（Asch 2003）。
+
+然而，当社会建构主义被推向极端时，学术界和许多健全和残障人士都认为其存在不可挽回的缺陷。罗伯特·基彻在指出，如果我们完全采纳社会建构主义观点，则表达得很好。
+
+> 减少 Tay-Sachs 发病率的尝试与北印度的性别选择或预期未来治愈女同性恋的努力没有任何不同。 (Kitcher 1996: 215)
+
+请参阅有关亲权和生育以及优生学的条目，以更深入讨论可能存在道德义务来选择反对我们后代的残疾的建议，以及有关残疾：定义、模型、经验的条目，以获取有关残疾模型的更多信息。
+
+### 特征与“种族”相关
+
+关于基于“种族”相关特征的选择是否恰当，也引起了一些问题和关注，比如皮肤、眼睛和头发颜色。如果在 1980 年代，当关于跨种族收养实践是否构成朝着色盲社会理想迈出的一步，一种种族和文化灭绝，或者介于两者之间的讨论激烈进行时，配子捐赠选择已经广为人知，人们或许会期待看到类似的关于捐赠者选择的讨论。然而，事实并非如此，哲学文献反而倾向于集中讨论基于种族的特征是否适当的问题。
+
+大多数情况下，这种关注是由于关于种族概念在哲学和科学上是否站得住脚的当代辩论。因此，建议在捐赠目录上删除种族标识的工作似乎在很大程度上归功于诸如 K. Anthony Appiah（1995 年，1996 年）和 Naomi Zack（1993 年，2002 年）等作者，他们都否认种族是一个连贯的概念，并建议完全放弃它（见种族条目）。
+
+Fogg-Davis (2001), 例如，建议通过辅助生殖复制种族的做法以及基于不同种族相关特征选择捐赠者都存在问题，因为它们引发了两个主要相关的伦理问题：
+
+> 种族刻板印象造成的伤害是一个，第二个是公众意识到种族刻板印象是这个基本上没有受到监管的市场的一个被接受的特征。
+
+她建议，那些利用种族分类来指导捐赠者选择决策的人正在传达
+
+> 种族是可遗传的，并与他们对家庭结构的看法相关……一个人的配子是种族意义的传递者，可以并且应该通过生殖技术有选择地传递给他们的孩子。（Fogg-Davis 2001: 18）
+
+哈里斯（1998）也质疑了根据种族相关特征（如肤色、头发和眼睛颜色）将捐赠者与接受者父母配对的欲望的合法性。他指出：
+
+> 为什么有这么多人坚信孩子应该像他们的父母，特别是在一般的肤色和种族特征方面？很难不将这种愿望和试图实现它视为一种“种族清洗”的形式。这非常像许多社会和文化对其成员施加的压力，不要“嫁出去”，或者更直接地说，不要与另一个部落或种族的人交配。（Harris 1998: 21）
+
+然而，有人认为“没有证据表明种族偏见是精子库按种族分类精子捐赠者或许多潜在父母希望拥有特定种族孩子的原因。”（Fox 2009: 1860）这些作者认为，配子捐赠中的种族偏好更可能源自对生物家庭结构的复制欲望，以避免对种族文化和意识的不足（Maung 2019:114），增加子女在不公正社会环境中的前景（Savulescu & Kahane 2009），或基于“使捐赠者隐形并使新建立的家庭符合自然家庭理想”的愿望（Pennings 2000: 508）。正如 Wong（2017）所指出的：“选择不优先考虑匹配的接受父母可能会开始一个对异性恋规范家庭结构进行异化的项目，并对他们自己的子女和社会态度的变化产生接受以减少污名并为非传统家庭产生接受的巨大信任。”（Wong 2017:77）。
+
+鉴于这些考虑，有人认为，尽管基于种族的选择在所有情况下都不应受到谴责，但通过采取措施来减少种族在捐精者选择中的突出性是重要的，以防止基于种族对精子捐赠者进行大规模过滤（Fox 2009: 1893）。其他人仍然指出，那些希望基于种族联系特征进行选择的人出于这些“较少可反对的”原因，仍然必须考虑这样做的更广泛后果。例如，Maung（2019）建议，虽然有一种愿望是尊重边缘化社区维护其种族身份的权利，并确保历史上被压迫的种族群体所生的捐精子女发展积极的种族认同，并享受属于一个拥有丰富共同历史的社区的好处，但这些担忧应该“通过对导致首次压迫的种族主义假设的担忧来平衡”（Maung 2019:115）。Berkowitz & Snyder（1998），Agar（2004）和 Marway（2018）在考虑后代基于种族选择问题时提出了类似观点。他们认为，虽然通过选择异性恋和浅色皮肤的后代来增加自己孩子在种族主义和同性恋恐惧社会中的生活前景并不可反对，但不应允许这样的做法。因为，这种选择不仅会与偏见勾结，构成对社会问题不当的回应，而且还可能破坏改变种族主义和同性恋恐惧社会态度和做法的努力。
+
+### 3.4 父母的美德、期望和对未知事物的开放态度
+
+配子捐赠者的选择也可能受到一种欲望的驱使，即想要抚养一种“特定类型的孩子”，比如一个音乐爱好者寻找一位音乐家，以增加未来孩子具备这种才能的可能性，或者一对夫妇寻找具有天才级智商的配子捐赠者，以增加抚养一个学术天才孩子的可能性（就像上世纪 90 年代从“生殖选择库”购买精子的夫妇一样）（Plotz 2006）。
+
+这种情况引发了一种不同类型的关注，即在为满足这些偏好而进行选择时，是否鼓励和促进了潜在父母产生伦理上令人担忧的态度。
+
+这种关注以各种不同的方式表达出来。例如，有人认为，由这种欲望驱使的选择与父母的美德，如“接纳”（McDougall 2007），“对未经邀请的开放”（Sandel 2007）和“无条件的爱”（Herrisone-Kelly 2007）是不相容的。持这种观点的人坚持传统观念，认为孩子是一份礼物，并相应地建议父母应该关心的不是他们的孩子拥有的特质，而是与他们建立一段充满爱的关系，并抚养任何他们所接受的孩子。其他人采取更加康德式的观点，认为这样的父母错误地将他们的孩子工具化：将他们视为实现父母希望和梦想的手段，而不是作为一旦出生就为自己而存在的实体（Davis 1997）。
+
+然而，有人提出一种选择性心态与重要的父母美德不相容，或者问题地将未来的孩子工具化，这一建议已经引起了一些争论。鲁迪克（Ruddick，2000）和格林（Green，2008）等作者质疑了“母性主义假设”，即父母对待孩子的方式应该是无条件的，而不应该是基于选择性的。
+
+> 谁想要孩子的人应该接受并欢迎他们所接受的任何孩子，准备欣赏孩子不同于自己的个性发展。(Ruddick 2000: 102)
+
+相反，他们认为其他父母概念可以是完全适应的，只要不被带到极端，并且关键是，不要求父母放弃一切塑造未来子女特征的努力。他们建议，父母应被视为孩子未来利益的守护者，以及可以根据自己的偏好和优先事项塑造和抚养孩子的“园丁”。
+
+其他人质疑未来父母的美德是否与现有父母的相同。因为尽管有些人认为渴望参与未来子女特征的选择是更广泛的育儿愿望的一部分，因此需要“致力于根据育儿项目行动和评估自己的行动和决策”（Vehmas 2001: 439），但也有人认为选择的愿望并不与这种承诺不相容。例如，卡姆（Kamm）认为，可以区分‘关心拥有’特定子女和‘关心’一旦出生的未来子女，并暗示没有理由认为在子女身上寻找某些特质的愿望与父母的美德或普遍的好父母观念不相容。她指出
+
+> 一个人可以知道，无论她是否具有某些特质，她都会同样关心某人，但更倾向于拥有这些特质的人，而不是缺乏这些特质的人。(Kamm 2009: 113)
+
+这一点得到了威尔金森的附和，他讨论了一个假设性例子，即两位准父母希望确保生下一个蓝眼睛的孩子，并同意如果孩子没有这样的特征，他们将在出生后将其送养
+
+> 并不是选择的欲望违背了无条件爱的原则[或其他父母美德]，而是计划如果孩子没有达到期望就拒绝孩子…… 完全有可能希望选择特征而不具有这种问题态度的拒绝。(Wilkinson 2010: 29)
+
+一些人认为，尽管选择本身并不一定在道德上存在问题，但我们仍应担心，选择性思维可能是对条件性爱情的前兆，而非无条件的爱，一旦孩子出生，或者是对不切实际的期望和权利感的情感。因此，这里的建议是，那些不惜代价获取他们看来是“完美”的配子的人，可能更有可能在他们的孩子未能发展出“正确”的能力和兴趣时拒绝或以其他方式虐待他们的孩子（例如参见：Kass 2003; Sandel 2007）。然而，同样地，目前并不清楚生殖中的选择性思维与过分热衷和不宽容的育儿风格之间的联系是否是必然的，因为大多数父母不太可能如此天真地“假定他们知道他们得到了什么，仅仅因为他们参与了选择他们孩子的一些基因特征”（Fahmy 2011: 7），或者说，配子捐赠者的选择是否像其他更昂贵和更有效的选择性生殖形式（如基因工程）一样可能产生这种问题的期望和态度。
+
+## 付款
+
+生殖细胞提供者应该得到报酬吗？如果是，这种支付是否应该仅限于补偿（可能包括对时间和不便的补偿）？或者激励或奖励提供者也在道德上可接受吗？
+
+为了支付，主要引用的原因是增加供应，从而使接受者能够生育他们本来不会生育的孩子，或者在稀缺本身不是问题的情况下，给予接受者更多选择。此外，支持支付的人士还引用了正义（配子提供者应该得到奖励）和自主权（提供者和接受者应该被允许按照他们认为合适的方式与对方签订合同）。最后，有时会提出实用的论点，比如禁止的成本或者可能导致配子市场出现无法监管的“黑色”或“灰色”市场的可能性。 (Resnick 2001; Steinbock 2004; Wilkinson 2013)
+
+### 其他背景下的熟悉论点
+
+有关支付配子的一些论点和问题与其他领域的问题非常相似，比如器官销售、性工作和商业代孕（参见有关剥削、女性主义对生殖和家庭的观点、女性主义对性市场的观点、亲权和生殖以及人体器官销售的条目）。在我们继续详细讨论支付配子提供者引发的一些更具特色的问题之前，我们在这里简要处理这些问题。这里的重点是人类生殖临床用途的配子，而不是用于研究目的的配子，尽管许多相同的问题也会在研究环境中出现。
+
+#### 对捐赠者的伤害和/或风险
+
+提供者面临的最明显问题之一是损害或风险（Resnick 2001; Steinbock 2004）。
+
+在精子捐赠的情况下，捐赠的身体风险可以忽略不计，但人们对心理社会风险提出了担忧，尤其是如果允许一个男人生育大量后代。例如，如果一个单一的精子捐赠者生育了数百个孩子，而其中相当比例的孩子在多年后联系他会发生什么？这可能会对这个男人的生活产生重大影响（以及下文讨论的孩子的福祉）。遏制这种风险的一种方式是限制捐赠后代的数量；另一种方式是允许捐赠者匿名，尽管这可能会因其他原因而令人反感（请参见我们之前关于捐赠者匿名和捐赠后代数量限制的讨论）。
+
+生育数百个孩子对卵子捐赠者来说可能不是问题，但与精子捐赠者不同，这些女性确实面临着非常可观的身体风险：特别是卵巢过度刺激综合征（OHSS）。
+
+然而，正如器官销售辩论一样，目前尚不清楚为什么存在这些风险就构成了对支付的反对意见，而不是对配子捐赠整个实践的反对意见（无论是否付费），因为这些风险并不会因为支付而增加（Wilkinson 2013）。对此，针对精子捐赠的情况，可以提出这样的论点：如果允许支付，那么一个男人生育数百个子女的情况更有可能发生，因为一些男性试图成为“专业精子捐赠者”。然而，正如已经指出的那样，通过强制执行捐赠后代数量限制应该可以中和这种风险。
+
+#### 同意、剥削和诱因
+
+支付或高于一定水平的支付所带来的负面影响是对同意质量的担忧，这一担忧与对剥削的担忧密切相关。有人认为，财务激励会鼓励人们做他们本来不会做的事情，鼓励他们做有害的事情，并使他们的行为、同意和决定不太可能是自主和自愿的（Resnick 2001; Steinbock 2004; Wilkinson 2013）。这些论点更多地针对有偿卵子捐赠而不是有偿精子捐赠，因为卵子的直接生理风险和涉及的金额往往更大。因此，人们担心易受伤害的年轻卵子捐赠者可能会被诱入卵市场，然后被诊所、卵库或接受者剥削。这些担忧在结构上与人们经常对商业代孕和性工作的担忧相似。
+
+这种论点在《剥削》、《女性主义视角下的性市场》、《亲权与生育》、《知情同意》和《人体器官的捐赠与销售》条目中得到了更详细的讨论。目前，我们只是简单地指出，虽然在任何有偿配子捐赠系统中，存在缺陷同意和剥削的可能性必须得到认真对待，但原则上支付配子费用为何必定是剥削的，或者为何不能被有效同意，似乎没有理由。只要支付水平公平，并且提供者的情况、心理能力和获取信息的途径都足够有利，很难理解为什么——与其他金融交易一样——配子提供不能被有效同意且非剥削。
+
+#### 商业化与选择
+
+最后，我们在这里指出，薪酬安排与选择实践之间存在联系（如上所述）。特别是，允许支付的一个反对意见，或者至少反对卵子的无拘束商业化，是它可能鼓励一个市场，在这个市场中，特定特征可以被那些愿意支付高价的人积极选择。例如，在美国，年轻有魅力的白人女性卵子捐赠者在参加“常春藤盟校”大学时，可以为他们的卵子要价更高，而其他捐赠者则不然——任何愿意支付的人都可以获得这些卵子。因此，任何认为这样的选择实践有问题的人，也可能认为卵子的商业化有问题，因为它支持并使得“卵子消费者”能够进行精细选择。
+
+### 支付与儿童福利
+
+我们现在转向一些与支付配子捐赠者有关的更“独特”的问题。其中之一是所创造的孩子的福祉。虽然这个问题在某种程度上是“独特”的，因为它仅适用于生殖领域（因此不适用于例如器官销售），但它确实在其他生殖领域中出现，尤其是商业代孕（Harris 2000）。
+
+在这里主要的担忧是，当捐赠受孕的孩子发现金钱是捐赠者主要的动机时，有些情况下，这可能会产生不良的心理影响；在极端情况下，他们可能会觉得自己被“买走”（HFEA 2011）。然而，从这种可能性中得出什么结论是不清楚的。
+
+首先，关于有多少受捐者感受到这种方式以及他们的负面感受有多严重（如果有的话），存在经验性问题。并非所有受捐者对捐赠动机和经济报酬持负面感受；有些人可能不在乎他们的捐赠者动机是什么。因此，如果这一关切要成为反对支付捐赠者的伦理论据，就需要一个坚实的证据基础来支撑其经验前提。
+
+同样，有一组问题并不是关于捐赠者实际动机是什么，而是关于他们在捐赠文件上写了什么，以及信息是如何何时传达给他们的后代的。一种观点是，为了孩子的福祉，捐赠者最好“讲一个故事”（即使不完全准确），捐赠者所生的孩子会觉得比捐赠者只是需要钱这个赤裸裸的事实更容易接受。另一种观点是，如果与捐赠者所生的孩子适当、诚实、敏感地沟通，并且在早期阶段进行沟通，那么与捐赠者动机相关的任何问题都将是最小的（Nuffield Council on Bioethics 2013）。
+
+尽管如此，让我们（至少为了论证的目的）假设这些问题是无法克服的：无论我们做什么，都会有相当数量的捐赠后代子女因知晓捐赠者受到报酬而受到实质性伤害。由此得出什么结论？
+
+首先，我们应该注意到这个领域受到《非同一性问题》（Parfit 1984）的影响。特别是，假设许多有偿精子捐赠者如果没有金钱就不会捐赠，那么当他们发现自己的捐赠者时遭受心理伤害的孩子可能不会存在。因此，基于《非同一性问题》的标准原因，他们可能不会因为有偿捐赠而受到伤害，或者至少不是通常的比较伤害与利益的意义上（比他们本来会更糟）。因此，虽然可能仍然存在反对有偿捐赠的儿童福利论据，但它必须依赖于非个人福利考虑，而不是伤害避免。
+
+鉴于此，很多事情取决于是否需要支付以确保有足够的供应者配子。如果不需要支付（例如，支付人们的原因相当微不足道，比如行政便利，甚至让接受者有更多选择），那么支付将对供子人的福祉产生不利影响，看起来确实是一个（尽管是表面的）理由来更倾向于无私捐赠。想象一下，我们可以选择使用有偿供者创造一群供子人，或者使用同样数量的无私供者创造一群不同的但同样庞大的人口。如果（正如我们所允许的）后者将拥有更高的生活质量，那么在其他条件相等的情况下，有一个强烈的“客观”理由更倾向于后者：无私捐赠。然而，如果选择是使用有偿供者创造一群供子人，或者使用不同但数量明显较少的人口，情况就会大不相同，因为这时需要在更高的平均生活质量与（a）总体生命较少以及（b）拒绝抚养供子人的潜在父母所遭受的任何伤害之间进行“权衡”。任何这样的道德计算都将是复杂的，这表明，在需要支付以确保有足够供应的配子的情况下，即使对供子人的生活质量有不利影响，这也不明显是错误的（全面考虑），即使对潜在父母造成了伤害（Wilkinson 2016）。
+
+### 4.3 蛋子分享
+
+一些国家（尤其是英国）要么禁止或严格限制向卵子捐赠者支付报酬，但允许一种例外情况，即“卵子共享者”（正在接受不孕治疗并希望捐赠以换取降低费用的妇女）可以获得无限的实物利益，以廉价的不孕治疗服务形式。例如，英国将向卵子捐赠者的支付限制在 750 英镑（约合 900 美元），而卵子共享者可以通过降低成千上万英镑的自己的治疗费用（HFEA 2017：指导笔记 13）。
+
+这引发了一个问题，即在伦理上，是否将鸡蛋分享视为优于鸡蛋销售，如果是，为什么—以及与之密切相关的问题，即鸡蛋分享是否应在法律和专业监管中受到更为优待（Blyth & Golding 2008）。
+
+捐赠与销售的主要理由是，与捐赠者（有偿或无偿）相比，‘分享者’受到的额外伤害和/或风险较少，因为他们已经在进行大部分所需的干预措施作为持续治疗的一部分。据说由此得出结论，激励卵子分享（其他条件相等）比激励卵子捐赠在道德上更少问题：要么是因为鼓励人们承担‘过度’风险的假设错误，要么是因为财务激励可能削弱对这些风险的同意（Wilkinson 2013）。
+
+这似乎是一个合理的一开始的理由，倾向于选择卵子分享，尽管需要注意几点。首先，一些特殊类型的风险可能适用于卵子分享者：例如，年龄较大且剩余可用卵子不多的女性可能通过捐赠“多余”卵子来降低生育孩子的机会（Scott, Williams, Ehrich, & Farsides 2012）。其次，同样地，对同意的担忧可能同样强烈地适用于卵子分享者和卵子销售者，特别是如果其中一些人“绝望”想要孩子，而卵子分享是他们唯一支付不孕治疗服务的方式（Blyth & Golding 2008）。第三，正如前面提到的，如果这个论点有效，将显示卵子分享不仅优于有偿捐赠，而且优于无偿捐赠，因为额外的风险无论是否有偿都是相同的（Wilkinson 2013）。
+
+将卵子分享视为比卖卵子更受青睐的另一种理由是基于这样一种观念：卵子分享者的动机通常比卖家更具道德优越性。特别是，有人声称，卖家通常受到对金钱的渴望驱使，而卵子分享者则部分出于与潜在接受者的团结感而行动——尤其是因为分享者和接受者都处于类似的境地。两者都需要或想要不孕症治疗服务以生育子女（HFEA 2011；Prainsack & Buyx 2011）。
+
+然而，这是否真正证明了对实物福利（治疗服务）和货币奖励的差异化处理是远非明确的。怀疑的一个原因是，正如 HFEA 所指出的：
+
+> 关于捐赠者动机的已知情况是多方面的。人们做出决定的原因有很多，而胜任的成年人有能力评估可供选择的一系列选项的相对利益、负担和可能影响。捐赠的动机并不一定意味着人们会纯粹因为这个动机而这样做。事实上，文献表明，捐赠者和分享者捐赠的动机是多样的。 (HFEA 2011: section 2, 4.4 [p. 8])
+
+这表明，在团结方面，付款和实物福利之间没有分类上的区别。虽然一些卵子分享者可能主要受到团结感的驱使，但其他人可能更感兴趣的只是省钱。相反，虽然一些有偿捐赠者可能“只是为了钱”，但其他人（也许是那些亲友或亲戚有生育问题，或者自己曾经有健康问题的人）可能会因为团结感而捐赠（尽管他们得到经济报酬）。因此，显然并不是所有的卵子分享者都是出于团结感的动机，也不是所有有偿捐赠者都缺乏这种感觉。事实上，甚至并不明显大多数卵子分享者都是出于团结感的动机，有实证证据表明，当国家资助的治疗得到广泛提供时，分享者的数量显著减少（Pennings 2009）。
+
+最后，更根本的是，即使出于利他主义或团结精神而进行的捐赠在道德上优于更自私的捐赠（例如纯粹出于对金钱的欲望），也不一定意味着后者是错误的或应该被禁止。因为，也许前者只是超度行为：虽然有偿捐赠仅仅是被允许的，无偿捐赠是一种慷慨或团结的行为，超越了道德上被允许或要求的范围（Wilkinson & Garrard 1996）。
+
+## Bibliography
+
+* Agar, Nicholas, 2004, *Liberal Eugenics: In Defence of Human Enhancement*, Oxford: Blackwell.
+* Albrecht, Gary L. and Patrick J. Devlieger, 1999, “The Disability Paradox: High Quality of Life Against All Odds”, *Social Science and Medicine*, 48(8): 977–988. doi:10.1016/S0277-9536(98)00411-0
+* Allen, Anita L., 1996, “Does a Child Have a Right to a Certain Identity?”, in Rosalind Ekman Ladd (ed.), *Children’s Rights Re-visioned*, Belmont: Wordsworth, pp. 98–106.
+* Appiah, Kwame Anthony, 1995, “The Uncompleted Argument: DuBois and the Illusion of Race”, in Linda A. Bell and David Blumenfeld (eds.), *Overcoming Racism and Sexism*, Lanham, MD: Rowman and Littlefield.
+* –––, 1996, “Race, Culture, Identity: Misunderstood Connections”, in Kwame Anthony Appiah and Amy Gutmann (eds.), *Color Conscious*, Princeton: Princeton University Press.
+* Archard, David, 2010, “The Obligations and Responsibilities of Parenthood”, in Archard and Benatar 2010: 103–12. doi:10.1093/acprof:oso/9780199590704.003.0005
+* Archard, David, and David Benatar, (eds.), 2010, *Parenthood and Procreation: The Ethics of Bearing and Rearing Children*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199590704.001.0001
+* Asch, Adrienne, 2003, “Disability Equality and Prenatal Testing: Contradictory or Compatible?”, *Florida State University Law Review*, 30(2): 315–342.
+* Barker, Matthew J. & Wilson, Robert A., 2019, “Wellbeing, Disability, and Choosing Children”, *Mind*, 128(510): 305–328.
+* Baylis, Françoise and Carolyn McLeod, 2007, “The Stem Cell Debate Continues: The Buying and Selling of Eggs for Research”, *Journal of Medical Ethics*, 33(12): 726–731. doi:10.1136/jme.2007.022129
+* –––, 2014, *Family-Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press.
+* Bayne, Tim, 2003, “Gamete Donation and Parental Responsibility”, *Journal of Applied Philosophy*, 20(1): 77–87. doi:10.1111/1468-5930.00236
+* Benatar, David, 1999, “The Unbearable Lightness of Bringing into Being”, *Journal of Applied Philosophy*, 16(2): 173–180. doi:10.1111/1468-5930.00119
+* Bennett, Rebecca, 2001, “Antenatal Genetic Testing and the Right to Remain in Ignorance”, *Theoretical Medicine and Bioethics*, 22(5): 461–471. doi:10.1023/A:1013015019369
+* –––, 2009, “The Fallacy of the Principle of Procreative Beneficence”, *Bioethics*, 23(5): 265–273. doi:10.1111/j.1467-8519.2008.00655.x
+* Berkowitz, Jonathan M. and Snyder, Jack, W., 1998, “Racism and Sexism in Medically Assisted Conception”, *Bioethics*, 12(1): 25–44.
+* Bernstein, Gaia, 2010, “Regulating Reproductive Technologies: Timing, Uncertainty and Donor Anonymity”, *Boston University Law Review*, 90(3): 1189–1219.
+* Besson, Samantha, 2007, “Enforcing the Child’s Right to Know Her Origins: Contrasting Approaches Under the Convention on the Rights of the Child and the European Convention on Human Rights”, *International Journal of Law, Policy and the Family*, 21(2): 137–159. doi:10.1093/lawfam/ebm003
+* Blustein, Jeffrey, 1997, “Procreation and Parental Responsibility”, *Journal of Social Philosophy*, 28(2): 79–86. doi:10.1111/j.1467-9833.1997.tb00377.x
+* Blyth, Eric and Abigail Farrand, 2004, “Anonymity in Donor-Assisted Conception and the UN Convention on the Rights of the Child”, *The International Journal of Children’s Rights*, 12(2): 89–104. doi:10.1163/1571818041904290
+* Blyth, Eric and Berenice Golding, 2008, “Egg Sharing: A Practical and Ethical Option in IVF?” *Expert Review of Obstetrics & Gynaecology*, 3(4): 465–473. doi:10.1586/17474108.3.4.465
+* Brake, Elizabeth, 2005, “Fatherhood and Child Support: Do Men Have a Right to Choose?”, *Journal of Applied Philosophy*, 22(1): 55–73. doi:10.1111/j.1468-5930.2005.00292.x
+* –––, 2010, “Willing Parents: A Voluntarist Account of Parental Role Obligations”, in Archard and Benatar 2010: 151–177. doi:10.1093/acprof:oso/9780199590704.003.0007
+* Brandt, Reuven, 2017, “The Transfer and Delegation of Responsibilities in Gamete Provision”, *Journal of Applied Philosophy*, 34(5): 665–678.
+* –––, 2021, “ Gamete Donation, the Responsibility Objection, and Procreative Responsibilities”, *Journal of Applied Philosophy*, 38(1): 88–103.
+* Braverman, Andrea Mechanick, and Lucy Frith, 2014, “Relatedness in Clinical Practice”, in T. Freeman, S. Graham, F. Ebtehaj, and M. Richards (eds.), *Relatedness in Assisted Reproduction*, Cambridge: Cambridge University Press, pp. 129–145. doi:10.1017/CBO9781139814737.009
+* Brunet, Laurence and Jean-Marie Kunstmann, 2013, “Gamete Donation in France: The Future of the Anonymity Doctrine”, *Medicine, Health Care and Philosophy*, 16(1): 69–81. doi:10.1007/s11019-012-9431-7
+* Buchanan, Allen, Dan W. Brock, Norman Daniels, and Daniel Wikler, 2000, *From Chance to Choice: Genetics and Justice*, Cambridge: Cambridge University Press.
+* Cahn, Naomi R., 2009a, “Accidental Incest: Drawing the Line-Or the Curtain-For Reproductive Technology”, *Harvard Journal of Law & Gender*, 32(1): 59–108.
+* –––, 2009b, *Test Tube Families: Why the Fertility Market Needs Legal Regulation*, New York: New York University Press.
+* –––, 2009c, “Necessary Subjects: The Need for a Mandatory National Donor Gamete Databank”, *DePaul Journal of Health Care Law*, 12(1): 203–224.
+* Chisholm, Richard., 2012, “Information Rights and Donor Conception: Lessons from Adoption?” *Journal of Law and Medicine*, 19(4): 722–741.
+* Clark, Brigitte J., 2011, “A Balancing Act: The Rights of Donor-Conceived Children to Know Their Biological Origin”, *The Georgia Journal of International and Comparative Law*, 40(3): 619–661.
+* Curie-Cohen, M., 1980, “The Frequency of Consanguineous Matings Due to Multiple Use of Donors in Artificial Insemination”, *American Journal of Human Genetics*, 32(4): 589–600. [[Curie-Cohen 1980 available online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1686140/)]
+* Davis, Dena S. 1997, “Genetic Dilemmas and the Child’s Right to An Open Future”, *The Hastings Center Report*, 27(2): 7–15. doi:10.2307/3527620
+* –––, 2001, *Genetic Dilemmas: Reproductive Technology, Parental Choices and Children’s Futures*, London: Routledge.
+* Deech, Ruth, 1998, “Legal and Ethical Responsibilities of Gamete Banks”, *Human Reproduction*, 13(supp2): 80–83. doi:10.1093/humrep/13.suppl_2.80
+* De Boer, Anthonius, Jan C. Oosterwijk, and Catharine A. Rigters-Aris, 1995, “Determination of a Maximum Number of Artificial Inseminations by Donor Children Per Sperm Donor”, *Fertility and Sterility*, 63(2): 419–421. doi:10.1016/S0015-0282(16)57382-8
+* Fahmy, Melissa Seymour, 2011, “On the Supposed Moral Harm of Selecting for Deafness”, *Bioethics*, 25(3): 128–136. doi:10.1111/j.1467-8519.2009.01752.x
+* Fogg-Davis, Hawley, 2001, “Navigating Race in the Market for Human Gametes”, *The Hastings Center Report*, 31(5): 13–21. doi:10.2307/3527700
+* Fox, Dov, 2009, “Racial Classification in Assisted Reproduction”, *The Yale Law Journal*, 118(8): 1844–1898.
+* Freeman, Michael, 1996, “The New Birth Right”, *International Journal of Children’s Rights*, 4(3): 273–297. doi:10.1163/157181896X00176
+* Freeman, Tabitha, Vasanti Jadva, and Jenna Slutsky, 2016, “Sperm Donors Limited: Regulating Offspring Numbers in Reproductive Donation”, In Golombok et al. 2016: 165–184.
+* Frith, Lucy, 2001, “Gamete Donation and Anonymity: The Ethical and Legal Debate”, *Human Reproduction*, 16(5): 818–824. doi:10.1093/humrep/16.5.818
+* Fuscaldo, Giuliana, 2006, “Genetic Ties: Are They Morally Binding?”, *Bioethics*, 20(2): 64–76. doi:10.1111/j.1467-8519.2006.00478.x
+* Glackin, Shane Nicholas, 2010, “Tolerance and Illness: The Politics of Medical and Psychiatric Classification”, *Journal of Medicine and Philosophy*, 35(4): 1–17. doi:10.1093/jmp/jhq035
+* Glover, Jonathan, 2006, *Choosing Children: Genes, Disability, And Design*, Oxford: Clarendon Press.
+* Glover, Jonathan, *et al*., 1989, *Ethics of New Reproductive Technologies: The Glover Report to the European Commission*, Illinois: Northern Illinois University Press.
+* Golombok, S., A. Brewaeys, M.T. Giavazzi, D. Guerra, F. MacCallum, and J. Rust, 2002, “The European Study of Assisted Reproduction Families: The Transition to Adolescence”, *Human Reproduction*, 17(3): 830–840. doi:10.1093/humrep/17.3.830
+* Golombok, Susan, Rosamund Scott, John B. Appleby, Martin Richards, and Stephen Wilkinson (eds.), 2016, *Regulating Reproductive Donation*, Cambridge: Cambridge University Press,
+* Green, Ronald M., 2008, *Babies By Design: The Ethics of Genetic Choice*, New Haven: Yale University Press.
+* Hanna, Jason, 2019, “Causal parenthood and the ethics of gamete donation”, *Bioethics*, 33(2): 267–273.
+* Harris, John, 1985, *The Value Of Life: An Introduction to Medical Ethics*, London: Routledge.
+* –––, 1998, “Rights and Reproductive Choice”, in John Harris and Søren Holm (eds.), *The Future Of Human Reproduction: Ethics, Choice and Regulation*, Oxford: Clarendon Press, pp. 5–37.
+* –––, 2000, “The Welfare of the Child”, *Health Care Analysis*, 8(1): 27–34. doi:10.1023/A:1009430326447
+* –––, 2002, “One Principle and a Fourth Fallacy of Disability Studies”, *Journal of Medical Ethics*, 28(3): 204. doi:10.1136/jme.28.3.204
+* Haslanger, Sally, 2009, “Family, Ancestry and Self: What is the Moral Significance of Biological Ties?”, *Adoption & Culture*, 2(1): 91–122. [[Haslanger 2009 available online](http://hdl.handle.net/1721.1/64650)]
+* Herrisone-Kelly, Peter, 2007, “Parental Love and the Ethics of Sex Selection”, *Cambridge Quarterly of Healthcare Ethics*, 16(3): 326–335. doi: 10.1017/S0963180107070399
+* Heyd, D., 1995, “Prenatal Diagnosis: Whose Right?”, *Journal of Medical Ethics*, 21(5): 292–297. doi:10.1136/jme.21.5.292
+* Hildebrand, Heidi, 1999, “Because They Want to Know: An Examination of the Legal Rights of Adoptees and Their Parents”, *Southern Illinois Law Journal*, 24: 515.
+* Holm, Søren and Rebecca Bennett, 2014, “The Proper Scope of the Principle of Procreative Beneficence Revisited”, *Monash Bioethics Review*, 32(1–2): 22–32. doi:10.1007/s40592-014-0003-x
+* Human Fertilisation and Embryology Authority (HFEA), 2011, *Donation Review: Compensation of Donors and Benefits in Kind*, (Authority Paper Number [HFEA(19/10/11) 612]). [[HFEA 2011 available online](http://www.hfea.gov.uk/docs/2011-10-19_Authority_papers-full_set(1).pdf)]
+* –––, 2017, *Code of Practice*, Edition 8 (revision May 2017), London: HFEA. [[HFEA 2012 available online](http://ifqtesting.blob.core.windows.net/umbraco-website/1561/2017-05-02-code-of-practice-update-may-2017-final.pdf)]
+* Johnson, Martin H., 1999 “The Medical Ethics of Paid Egg Sharing in the UK: Opinion”, *Human Reproduction*, 14(7): 1912–1918. doi:10.1093/humrep/14.7.1912
+* Kamm, Frances, 2009, “What is and is Not Wrong with Enhancement”, in Julian Savulescu and Nick Bostrom (eds.), *Human Enhancement*, Oxford: Oxford University Press, pp. 91–130.
+* Kass, Leon R. 2003, “Ageless Bodies, Happy Souls: Biotechnology and the Pursuit of Perfection”, *The New Atlantis*, 1(1): 9–28.
+* Kitcher, Philip, 1996, *The Lives To Come: The Genetic Revolution and Human Possibilities*, London: Penguin.
+* Kolodny, Niko, 2010, “Which relationships justify partiality? The case of parents and children” *Philosophy & Public Affairs*, 38(1): 37–75.
+* Landau, R., 1998, “The Management of Genetic Origins: Secrecy and Openness in Donor Assisted Conception in Israel and Elsewhere”, *Human Reproduction*, 13(11): 3268–3273. doi:10.1093/humrep/13.11.3268
+* Leighton, Kimberly, 2014, “Analogies to Adoption in Arguments Against Anonymous Gamete Donation: Geneticizing the Right to Know”, in Françoise Baylis and Carolyn McLeod (eds.), *Family-Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press, pp. 239–264. doi:10.1093/acprof:oso/9780199656066.003.0014
+* Little, Margaret Olivia, 1999, “Abortion, Intimacy, and the Duty to Gestate”, *Ethical Theory and Moral Practice*, 2(3): 295–312. doi:10.1023/A:1009955129773
+* Marway, Herjeet, 2018, “Should We Genetically Select for the Beauty Norm of Fair Skin?”, *Health Care Analysis*, 26: 246–268.
+* Maung, Hane H., 2019, “Ethical Problems with Ethnic Matching in Gamete Donation”, *Bioethics*, 45: 112–116.
+* McDougall, Rosalind, 2007, “Parental Virtue: A New Way of Thinking About the Morality of Parental Actions”, *Bioethics*, 21(4): 181–190. doi:10.1111/j.1467-8519.2007.00544.x
+* McGee, Glenn, Sarah-Vaughan Brakeman, and Andrea D. Gurmankin, 2001, “Gamete Donation and Anonymity: Disclosure to Children Conceived with Donor Gametes Should Not be Optional”, *Human Reproduction*, 16(10): 2033–2036. doi:10.1093/humrep/16.10.2033
+* McWhinnie, A., 2001, “Gamete Donation and Anonymity: Should Offspring from Donated Gametes Continue to be Denied Knowledge of Their Origins and Antecedents?” *Human Reproduction*, 16(5): 807–817. doi:10.1093/humrep/16.5.807
+* Melo-Martín, Immaculada De, 2014, “The Ethics of Anonymous Gamete Donation: *Is There a Right to Know One’s Genetic Origins?*”, *The Hastings Center Report*, 44(2): 28–35. doi:10.1002/hast.285
+* National Health Service (NHS), 2015, *The NHS Constitution for England*, [[NHS 2015 available online](https://www.gov.uk/government/publications/the-nhs-constitution-for-england)]
+* Nelson, James Lindemann, 1991, “Parental Obligations and the Ethics of Surrogacy: A Causal Perspective”, *Public Affairs Quarterly*, 5(1): 49–61.
+* –––, 2014, “Special Responsibilities of Parents Using Technologically Assisted Reproduction”, in Baylis and McLeod (eds.). 2014: 185–197.
+* Nuffield Council on Bioethics, 2013, *Donor Conception: Ethical Aspects of Information Sharing*, [Nuffield Council 2013 available online.](http://nuffieldbioethics.org/wp-content/uploads/2014/06/Donor_conception_report_2013.pdf)
+* O’Neill, Onora, 1979, “Begetting, Bearing, and Rearing”, in O. O’Neill and W. Ruddick (eds.), 1979: 25–38.
+* O’Neill, Onora and William Ruddick (eds.), 1979, *Having Children: Philosophical and Legal Reflections on Parenthood*, New York: Oxford University Press.
+* Parens, Erik and Adrienne Asch, 1999, “The Disability Rights Critique of Prenatal Genetic Testing: Reflections and Recommendations”, *The Hastings Center Report*, 29(5): S1–S22. doi:10.2307/3527746
+* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Clarendon Press. doi:10.1093/019824908X.001.0001
+* Parker, Michael, 2007, “The Best Possible Child”, *Journal of Medical Ethics*, 33(5): 279–283. doi:10.1136/jme.2006.018176
+* Pennings, Guido, 2000, “The Right to Choose Your Donor: A Step Towards Commercialization or a Step Towards Empowering the Patient?”, *Human Reproduction*, 15(3): 508–514. doi:10.1093/humrep/15.3.508
+* Pennings, G., C. Autin, W. Decleer, A. Delbaere, L. Delbeke, A. Delvigne, D. De Neubourg, P. Devroey, M. Dhont, T. D’Hooghe, S. Gordts, B. Lejeune, M. Nijs, P. Pauwels, B. Perrad, C. Pirard, & F. Vandekerckhove, 2009, “Cross-Border Reproductive Care in Belgium”, *Human Reproduction*, 24(2): 3108–3118. doi:10.1093/humrep/dep300
+* Plotz, David, 2006, *The Genius Factory: The Curious History of the Nobel Prize Sperm Bank*, New York: Random House.
+* Porter, Lindsey, 2012, “Adoption is Not Abortion-Lite”, *Journal of Applied Philosophy*, 29(1): 63–78. doi:10.1111/j.1468-5930.2011.00553.x
+* –––, 2014, “Why and How to Prefer a Causal Account of Parenthood”, *Journal of Social Philosophy*, 45(2): 182–202. doi:10.1111/josp.12059
+* Prusak, Bernard G., 2011, “The Costs of Procreation”, *Journal of Social Philosophy*, 42(1): 61–75. doi:10.1111/j.1467-9833.2010.01519.x
+* Prainsack, Barbara and Alena Buyx, 2011, “Solidarity: Reflections on An Emerging Concept in Bioethics”, *The Nuffield Council on Bioethics*, [Prainsack & Buyx 2011 available online.](http://nuffieldbioethics.org/wp-content/uploads/2014/07/Solidarity_report_FINAL.pdf)
+* Quiroga, Seline Szkupinski, 2007, “Blood is thicker than water: policing donor insemination and the reproduction of whiteness”, *Hypatia*, 22(2): 143–161.
+* Rakowski, Eric, 2002, “Who Should Pay for Bad Genes?”, *California Law Review*, 90(5): 1345–1414.
+* Ravitsky, Vardit, 2010, “Knowing Where You Come From: The Rights of Donor-Conceived Individuals and the Meaning of Genetic Relatedness”, *Minnesota Journal of Law Science & Technology*, 11(2): 655–684.
+* –––, 2012, “Conceived and Deceived: The Medical Interests of Donor-Conceived Individuals”, *The Hastings Center Report*, 42(1): 17–22. doi:10.1002/hast.9
+* Resnick, David B., 2001, “Regulating the Market for Human Eggs”, *Bioethics*, 15(1): 1–25. doi:10.1111/1467-8519.00209
+* Roberts, M.A., 2009, “What is the Wrong of Wrongful Disability? from Chance to Choice to Harms to Persons”, *Law and Philosophy*, 28(1): 1–57. doi:10.1007/s10982-008-9031-0
+* Roberts, Melinda A. and David T. Wasserman, 2009, *Harming Future Persons: Ethics, Genetics and the Non-Identity Problem*, Dordrecht: Springer. doi:10.1007/978-1-4020-5697-0
+* Robertson, John A., 1988, “Technology and Motherhood: Legal and Ethical Issues in Human Egg Donation”, *Case Western Reserve Law Review*, 39(1): 1–38.
+* –––, 1994, *Children of Choice: Freedom and the New Reproductive Technologies*, Princeton: Princeton University Press.
+* Ruddick, William, 2000, “Ways to Limit Prenatal Testing”, in Erik Parens and Adrienne Asch (eds.), *Prenatal Testing and Disability Rights*, Washington: Georgetown University Press, pp. 95–107.
+* Samuels, Elizabeth J., 2000, “The Idea of Adoption: An Inquiry into the History of Adult Adoptee Access to Birth Records”, *Rutgers Law Review*, 53(2): 367–392.
+* Sandel, Michael J., 2007, *The Case Against Perfection*, Cambridge: Belknapp Press
+* Sants, H.J., 1964, “Genealogical Bewilderment in Children with Substitute Parents”, *British Journal of Medical Psychology*, 37(1): 133–142. doi:10.1111/j.2044-8341.1964.tb01981.x
+* Savulescu, Julian, 2001, “Procreative Beneficence: Why We Should Select the Best Children”, *Bioethics*, 15(5–6): 413– 426. doi:10.1111/1467-8519.00251
+* –––, 2002, “Deaf Lesbians, ‘Designer Disability,’ and the Future of Medicine”, *British Medical Journal*, 325: 771–773. doi:10.1136/bmj.325.7367.771
+* Savulescu, Julian and Guy Kahane, 2009, “The Moral Obligation to Create Children with the Best Chance of the Best Life”, *Bioethics*, 23(5): 274–290. doi:10.1111/j.1467-8519.2008.00687.x
+* Scott, Rosamund, Clare Williams, Kathryn Ehrich, and Bobbie Farsides, 2012, “Donation of ‘Spare’ Fresh or Frozen Embryos to Research: Who Decides that An Embryo is ‘Spare’ and How Can We Enhance the Quality and Protect the Validity of Consent?”, *Medical Law Review*, 20(3): 255–303. doi:10.1093/medlaw/fws013
+* Spriggs, M., 2002, “Lesbian Couple Create a Child Who is Deaf Like Them”, *Journal of Medical Ethics*, 28(5): 283. doi:10.1136/jme.28.5.283
+* Steinbock, Bonnie, 2004, “Payment for Egg Donation and Surrogacy”, *Mount Sinai Journal of Medicine*, 71(4): 255–265.
+* Steinbock, Bonnie and Ron McClamrock, 1994, “When is Birth Unfair to the Child?”, *The Hastings Center Report*, 24(6): 15–21. doi:10.2307/3563460
+* Strong, Carson, 1997, “The Moral Status of Preembryos, Embryos, Fetuses and Infants”, *The Journal of Medicine and Philosophy*, 22: 457–478.
+* Thompson, Charis, 2007, “Why We Should, in Fact, Pay for Egg Donation”, *Regenerative Medicine*, 2(2): 203–209. doi:10.2217/17460751.2.2.203
+* Turner, A.J. and A. Coyle, 2000, “What Does it Mean to be a Donor Offspring? The Identity Experiences of Adults Conceived by Donor Insemination and the Implications for Counselling and Therapy”, *Human Reproduction*, 15(9): 2041–2051. doi:10.1093/humrep/15.9.2041
+* Vehmas, S., 2001, “Response to ‘Abortion and Assent’ by Rosamund Rhodes and ‘Abortion, Disability, Assent, and Consent’ by Matti Häyry”, *Cambridge Quarterly of Healthcare Ethics*, 10(4): 433–40.
+* Velleman, J. David, 2005, “Family History”, *Philosophical Papers*, 34(3): 357–378. doi:10.1080/05568640509485163
+* –––, 2008, “Persons in Prospect: II. The Gift of Life”, *Philosophy & Public Affairs*, 36(3): 245–266. doi:10.1111/j.1088-4963.2008.00139_2.x
+* Wang, Charlotte, Miao-Yu Tsai, Mei-Hsien Lee, Su-Yun Huang, Chen-Hung Kao, Hong-Nerng Ho, and Chuhsing Kate Hsiao, 2007, “Maximum Number of Live Births Per Donor in Artificial Insemination”, *Human Reproduction*, 22(5): 1363–1372. doi:10.1093/humrep/del504
+* Warnock Committee of Inquiry into Human Fertilisation and Embryology, 1984 *Report of the Committee Committee of Inquiry Into Human Fertilisation and Embryology*, London: Her Majesty’s Stationary Office. [[Warnock Committee 1984 available online](http://www.hfea.gov.uk/2068.html)]
+* Weinberg, Rivka, 2008, “The Moral Complexity of Sperm Donation”, *Bioethics*, 22(3): 166–178. doi:10.1111/j.1467-8519.2007.00624.x
+* Wilkinson, Stephen, 2003, *Bodies for Sale: Ethics and Exploitation in the Human Body Trade*, London: Routledge.
+* –––, 2010, *Choosing Tomorrow’s Children: The Ethics of Selective Reproduction*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199273966.001.0001
+* –––, 2013, “Is the HFEA’s Policy on Compensating Egg Donors and Egg Sharers Defensible?”, *Medical Law Review*, 21(2): 173–212. doi:10.1093/medlaw/fws027
+* –––, 2016, “Gamete Donor Motives, Payment and Child Welfare”, in Golombok et al. (eds.) 2016: 207–231.
+* Wilkinson, Stephen and E. Garrard, 1996, “Bodily Integrity and the Sale of Human Organs”, *Journal of Medical Ethics*, 22(6): 334–339. doi:10.1136/jme.22.6.334
+* Williams, Nicola Jane, 2017, “Harms to ‘Others’ and the Selection Against Disability View”, *Journal of Medicine and Philosophy*, 42(2): 154–183. doi:10.1093/jmp/jhw067
+* Wong, Karen-Anne, 2017, “Donor Conception and Passing, or Why Australian Parents of Donor Conceived Children Want Donors Who Look Like Them”, *Journal of Bioethical Enquiry*, 14(1): 77–86.
+* Wright, Katharine, 2016, “Limiting Offspring Numbers: Can We Justify Regulation?”, in Golombok et al. 2016: 185–206.
+* Zack, Naomi, 1993, *Race and Mixed Race*, Philadelphia: Temple University Press.
+* –––, 2002, *Philosophy of Science and Race*, New York: Routledge.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=gametes-donation-sale). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/gametes-donation-sale/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=gametes-donation-sale&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/gametes-donation-sale/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+### Cases
+
+* [*Pratten v. British Columbia (Attorney General)*, 2012 BCCA 480](https://www.canlii.org/en/bc/bcca/doc/2012/2012bcca480/2012bcca480.html)
+
+### Acts
+
+* [Human Fertilisation and Embryology (HFE) Act 1990](http://www.legislation.gov.uk/ukpga/1990/37/contents/enacted) (UK)
+* [Human Fertilisation and Embryology (HFE) Act 2008](http://www.legislation.gov.uk/ukpga/2008/22/contents) (UK).
+
+### Other Resources
+
+* [American Society for Reproductive Medicine](https://www.asrm.org/)
+* [Project: The Donation and Transfer of Human Reproductive Materials](http://wp.lancs.ac.uk/reproductive-donation/)
+* [The UK Human Fertilisation and Embryology Authority](http://www.hfea.gov.uk/)
+* [The European Society of Human Reproduction and Embryology](https://www.eshre.eu/)
+* [The Nuffield Council on Bioethics](http://nuffieldbioethics.org/)
+* [U.S. Donor Sibling Registry](https://www.donorsiblingregistry.com/)
+
+## Related Entries
+
+[cloning](https://plato.stanford.edu/entries/cloning/) | [disability: definitions and models](https://plato.stanford.edu/entries/disability/) | [disability: health, well-being, personal relationships](https://plato.stanford.edu/entries/disability-health/) | [donation of human organs](https://plato.stanford.edu/entries/organ-donation/) | [ethics, biomedical: privacy and medicine](https://plato.stanford.edu/entries/privacy-medicine/) | [eugenics](https://plato.stanford.edu/entries/eugenics/) | [exploitation](https://plato.stanford.edu/entries/exploitation/) | [feminist philosophy, topics: perspectives on reproduction and the family](https://plato.stanford.edu/entries/feminism-family/) | [feminist philosophy, topics: perspectives on sex markets](https://plato.stanford.edu/entries/feminist-sex-markets/) | [heritability](https://plato.stanford.edu/entries/heritability/) | [informed consent](https://plato.stanford.edu/entries/informed-consent/) | [justice: intergenerational](https://plato.stanford.edu/entries/justice-intergenerational/) | [nonidentity problem](https://plato.stanford.edu/entries/nonidentity-problem/) | [parenthood and procreation](https://plato.stanford.edu/entries/parenthood/) | [personal identity: and ethics](https://plato.stanford.edu/entries/identity-ethics/) | [pregnancy, birth, and medicine](https://plato.stanford.edu/entries/ethics-pregnancy/) | [race](https://plato.stanford.edu/entries/race/) | [sale of human organs](https://plato.stanford.edu/entries/organs-sale/)
+
+### Acknowledgments
+
+This work was supported by the Wellcome Trust [097897/Z/11/Z].
+
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
+[Reuven Brandt](http://www.reuvenbrandt.com/) <[*rabrandt@ucsd.edu*](mailto:rabrandt%40ucsd%2eedu)>  
+[Stephen Wilkinson](http://www.lancaster.ac.uk/ppr/about-us/people/stephen-wilkinson) <[*s.wilkinson2@lancaster.ac.uk*](mailto:s%2ewilkinson2%40lancaster%2eac%2euk)>  
+Nicola Williams <[*n.williams2@lancaster.ac.uk*](mailto:n%2ewilliams2%40lancaster%2eac%2euk)>
