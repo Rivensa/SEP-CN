@@ -1,27 +1,30 @@
 # 达尔文主义 Darwinism (James Lennox)
 
-_首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 月 24 日星期三_
+*首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 月 24 日星期三*
 
 达尔文主义指的是一种关于地球上生命历史和多样性的进化解释。它最初的阐述可以在 1859 年的《物种起源》第一版中找到。本条目首先从五个哲学上独特的主题来阐述“达尔文的达尔文主义”：（i）概率和机会，（ii）选择的性质、力量和范围，（iii）适应和目的论，（iv）种类的名义主义与本质主义，以及（v）进化变化的速度和方式。达尔文和他的批评者都认识到，在这些主题上，他对进化的方法是独特的，尽管达尔文主义在达尔文未曾预见的许多方面得到了发展，但其支持者和批评者继续通过关注这些主题来将其与进化生物学中的其他方法区分开来。本条目的后半部分通过研究当前进化生物学哲学中关于这五个主题的辩论来说明这一点。
 
-* [1. 引言](https://plato.stanford.edu/entries/darwinism/#Int)
+* [ 1. 引言](https://plato.stanford.edu/entries/darwinism/#Int)
 * [2. 达尔文和达尔文主义](https://plato.stanford.edu/entries/darwinism/#DarAndDar)
-  * [2.1 达尔文的生活](https://plato.stanford.edu/entries/darwinism/#DarLif)
-  * [2.2 达尔文的达尔文主义](https://plato.stanford.edu/entries/darwinism/#DarDar)
+
+  * [ 2.1 达尔文的生活](https://plato.stanford.edu/entries/darwinism/#DarLif)
+  * [ 2.2 达尔文的达尔文主义](https://plato.stanford.edu/entries/darwinism/#DarDar)
   * [2.3 达尔文的达尔文主义的哲学问题](https://plato.stanford.edu/entries/darwinism/#PhiProDarDar)
 * [3. 当今的五个核心哲学问题](https://plato.stanford.edu/entries/darwinism/#FivCorPhiProTod)
+
   * [3.1 进化理论中的机遇角色](https://plato.stanford.edu/entries/darwinism/#RolChaEvoThe)
   * [3.2 选择的性质、力量和范围](https://plato.stanford.edu/entries/darwinism/#NatPowScoSel)
   * [3.3 选择、适应和目的论](https://plato.stanford.edu/entries/darwinism/#SelAdaTel)
   * [3.4 物种和“物种”概念](https://plato.stanford.edu/entries/darwinism/#SpeConSpe)
-* [参考文献](https://plato.stanford.edu/entries/darwinism/#Bib)
-  * [引用](https://plato.stanford.edu/entries/darwinism/#Ref)
-  * [进一步阅读](https://plato.stanford.edu/entries/darwinism/#FurRea)
-* [学术工具](https://plato.stanford.edu/entries/darwinism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/darwinism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/darwinism/#Rel)
+* [ 参考文献](https://plato.stanford.edu/entries/darwinism/#Bib)
 
-***
+  * [ 引用](https://plato.stanford.edu/entries/darwinism/#Ref)
+  * [ 进一步阅读](https://plato.stanford.edu/entries/darwinism/#FurRea)
+* [ 学术工具](https://plato.stanford.edu/entries/darwinism/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/darwinism/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/darwinism/#Rel)
+
+---
 
 ## 1. 简介
 
@@ -51,7 +54,7 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 
 当他最终向父亲透露他对医学的厌恶时，他报名参加了剑桥大学基督学院的神学学位课程，并于 1831 年 1 月毕业。与修读的肖斯伯里学校和爱丁堡大学一样，他的正式学习对他几乎没有影响，但在剑桥期间，他结识了两位年轻人，他们试图在剑桥的自然科学课程中进行重大改革，他们是受过植物学和矿物学训练的约翰·亨斯洛牧师和地质学领域迅速扩大的社群的重要成员亚当·塞奇威克牧师。亨斯洛和他的妻子几乎把达尔文当作自己的儿子，通过亨斯洛，达尔文结识了那些在地质学和自然历史领域正在进行辩论的人，以及那些我们回顾时认为是最早从事科学历史和哲学基础的人，如约翰·赫歇尔爵士和威廉·休厄尔牧师。正如他在自传中写道：
 
-> 在我在剑桥的最后一年，我仔细阅读了洪堡的《个人叙述》。这部作品和赫歇尔爵士的《自然哲学研究导论》\[4]激发了我对为自然科学的崇高结构做出即使是最微不足道的贡献的热情。没有其他一本或十几本书对我产生的影响几乎如此之大。
+> 在我在剑桥的最后一年，我仔细阅读了洪堡的《个人叙述》。这部作品和赫歇尔爵士的《自然哲学研究导论》[4]激发了我对为自然科学的崇高结构做出即使是最微不足道的贡献的热情。没有其他一本或十几本书对我产生的影响几乎如此之大。
 
 在下一节中，我们将讨论赫歇尔和莱尔的哲学理念对达尔文的影响。
 
@@ -69,11 +72,11 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 4. 地球过去的记录或“纪念碑”表明了物种“引入”和“灭绝”的不断过程，地质学家的任务是根据上述第 3 点中的规定寻找这些引入和灭绝的原因。
 5. 唯一一次认真尝试这样做的是根据物种能够“无限修改”的观念，即让·巴蒂斯特·拉马克的尝试在方法论上是失败的。所有的证据都支持物种可变性是有限的，一个物种不能转变成另一个物种。
 
-这个愿景深深地影响了达尔文，正如他自己承认的那样。尽管他通过观察和阅读逐渐确信化石记录和物种的现有分布只能归因于一种物种逐渐转变为另一种物种，但他决心提出一个符合莱尔原则的理论。在他确信这将成为他一生的事业之前，关键的事件可能是他在贝格尔号返回英国途中访问南非开普敦时发生的。约翰·F·W·赫歇尔在开普敦执行任务，他的目标是为南半球做出与他父亲威廉为北半球所做的一样，即利用他父亲和姑姑研制的新型强大望远镜制作一份全面的星图。正如前面提到的，达尔文在贝格尔号启航前一年，当赫歇尔的《自然哲学研究初论》首次出版时，就对此深感印象深刻，并在他的私人日记中提到与赫歇尔在开普敦停留一周期间的会面是整个航程中最重要的事件之一。在与达尔文会面的五个月前，赫歇尔刚刚读完莱尔的《原理》第二版。他给莱尔写了一封长信，充满了详细的建设性评论。信的开头称赞莱尔以科学的方式面对“引入新物种”的问题，赫歇尔称之为“那个谜团中的谜团”，并主张我们寻找“中间原因”来解释这些“引入”——这是指自然原因，而不是“奇迹般”的原因。\[5]这封信的这部分内容在查尔斯·巴贝奇的《布里奇沃特论文》中被引用，该论文于 1837 年出版，而达尔文正努力发展这样的理论。在读到巴贝奇中的赫歇尔引文后，达尔文在他的私人“物种”笔记本中写道：
+这个愿景深深地影响了达尔文，正如他自己承认的那样。尽管他通过观察和阅读逐渐确信化石记录和物种的现有分布只能归因于一种物种逐渐转变为另一种物种，但他决心提出一个符合莱尔原则的理论。在他确信这将成为他一生的事业之前，关键的事件可能是他在贝格尔号返回英国途中访问南非开普敦时发生的。约翰·F·W·赫歇尔在开普敦执行任务，他的目标是为南半球做出与他父亲威廉为北半球所做的一样，即利用他父亲和姑姑研制的新型强大望远镜制作一份全面的星图。正如前面提到的，达尔文在贝格尔号启航前一年，当赫歇尔的《自然哲学研究初论》首次出版时，就对此深感印象深刻，并在他的私人日记中提到与赫歇尔在开普敦停留一周期间的会面是整个航程中最重要的事件之一。在与达尔文会面的五个月前，赫歇尔刚刚读完莱尔的《原理》第二版。他给莱尔写了一封长信，充满了详细的建设性评论。信的开头称赞莱尔以科学的方式面对“引入新物种”的问题，赫歇尔称之为“那个谜团中的谜团”，并主张我们寻找“中间原因”来解释这些“引入”——这是指自然原因，而不是“奇迹般”的原因。[5]这封信的这部分内容在查尔斯·巴贝奇的《布里奇沃特论文》中被引用，该论文于 1837 年出版，而达尔文正努力发展这样的理论。在读到巴贝奇中的赫歇尔引文后，达尔文在他的私人“物种”笔记本中写道：
 
 > 巴贝奇第二版，第 226 页。赫歇尔称新物种的出现是“谜团中的谜团”，并对这个问题进行了宏大的论述！万岁。“中间原因”。（Barrett 等人，1987 年，413 页；原始标点）
 
-他清楚地意识到赫歇尔在这里为达尔文秘密工作的项目提供了哲学上的理由。在《物种起源》的第一段中，达尔文回顾了这个“万岁”，将物种起源是“谜团中的谜团”的想法归功于“我们最伟大的哲学家”之一，没有提到赫歇尔的名字。关于解决这个问题的进化解决方案的第一个提及是在他的鸟类学笔记中，在离开开普敦后不久写下的一条注释。\[6]
+他清楚地意识到赫歇尔在这里为达尔文秘密工作的项目提供了哲学上的理由。在《物种起源》的第一段中，达尔文回顾了这个“万岁”，将物种起源是“谜团中的谜团”的想法归功于“我们最伟大的哲学家”之一，没有提到赫歇尔的名字。关于解决这个问题的进化解决方案的第一个提及是在他的鸟类学笔记中，在离开开普敦后不久写下的一条注释。[6]
 
 达尔文在打开他的物种笔记本时，他的理论任务已经相当清晰：只有一种过程能够产生化石记录中的系统模式和物种的奇怪的生物地理分布，他现在对此有了广泛而深入的理解，那就是物种的缓慢、渐进的转变过程。他需要提出一个自然的、因果的理论来解释这样的转变，并且该理论的每个要素都必须确定“现在正在发生的原因”，这些原因可以通过实证研究来调查。这个问题和方法论的限制是由他的地质学偶像、现在的密友查尔斯·莱尔提出的；而这些限制在哲学上得到了他的哲学偶像约翰·赫歇尔的辩护。
 
@@ -91,7 +94,7 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 8. 随着时间的推移，特别是在一个变化缓慢的环境中，这个过程将导致物种的特征发生变化。
 9. 经过足够长的时间，祖先物种的后代群体将与其及彼此之间有足够的差异，以被归类为不同的物种，这是一个能够无限迭代的过程。此外，还有一些力量促使后代群体的分化，并消除中间变种。
 
-注意到这个理论中没有任何一个元素是无法进行经验研究的，事实上，到目前为止，已经发表的证实这一过程的研究可以填满一个小型图书馆。\[7]人们可以理解为什么虔诚和正统的基督徒会有问题；但为什么达尔文的哲学和科学导师也会有问题呢？这似乎是赫歇尔/莱利正统的模式。
+注意到这个理论中没有任何一个元素是无法进行经验研究的，事实上，到目前为止，已经发表的证实这一过程的研究可以填满一个小型图书馆。[7]人们可以理解为什么虔诚和正统的基督徒会有问题；但为什么达尔文的哲学和科学导师也会有问题呢？这似乎是赫歇尔/莱利正统的模式。
 
 ### 2.3 达尔文的达尔文主义的哲学问题
 
@@ -107,7 +110,7 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 
 #### 2.3.3 选择、适应和目的论
 
-此外，由于达尔文非常喜欢将自然选择描述为一种为每个物种谋福利的过程，达尔文的追随者们似乎对于他的理论是否消除了自然科学中的最终原因或者给它们注入了新的生命持有截然相反的观点。无论哪种情况，对于这是否是一件好事还是一件坏事，也存在严重分歧。\[8]
+此外，由于达尔文非常喜欢将自然选择描述为一种为每个物种谋福利的过程，达尔文的追随者们似乎对于他的理论是否消除了自然科学中的最终原因或者给它们注入了新的生命持有截然相反的观点。无论哪种情况，对于这是否是一件好事还是一件坏事，也存在严重分歧。[8]
 
 #### 2.3.4 名义主义和本质主义
 
@@ -115,7 +118,7 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 
 > …首先，物种在自然界中是否具有真实和永久的存在；或者它们是否能够像一些自然学家所声称的那样，在长时间的一系列世代中不断发生变异。(莱尔 1831, II. 1)
 
-莱尔很明确地认为，允许进化就是否认了物种的现实性。对于一个物种来说，它必须在自然界中有“永久存在”，或者用他在其他地方的话来说，“……超出了共同父母的后代永远不能偏离某种类型的固定限制……”。（莱尔 1831 年，II. 23）根据这种观点，要接受进化变化，你必须对物种的名义主义有所了解。而达尔文似乎已经接受了这种观点。\[9]
+莱尔很明确地认为，允许进化就是否认了物种的现实性。对于一个物种来说，它必须在自然界中有“永久存在”，或者用他在其他地方的话来说，“……超出了共同父母的后代永远不能偏离某种类型的固定限制……”。（莱尔 1831 年，II. 23）根据这种观点，要接受进化变化，你必须对物种的名义主义有所了解。而达尔文似乎已经接受了这种观点。[9]
 
 > 因此，我认为个体间的差异，虽然对于系统分类学家来说兴趣不大，但对我们来说非常重要，因为它们是通向在自然历史著作中几乎不值得记录的轻微变异的第一步。我认为那些在任何程度上更为明显和持久的变异是通向更为明显和持久的变异的步骤；而这些后者则是通向亚种和物种的步骤。（达尔文 1859 年，52）
 
@@ -139,7 +142,8 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 
 ## 3. 当今的五个核心哲学问题
 
-> 理论需要本质和历史两者兼备。 史蒂芬·杰伊·古尔德（2002 年，1 页）
+> 理论需要本质和历史两者兼备。
+> 史蒂芬·杰伊·古尔德（2002 年，1 页）
 
 这是古尔德巨著《进化理论的结构》第一章第一节的标题。开篇以对 1863 年间古生物学家休·法尔科纳和查尔斯·达尔文之间信件交流的微妙解读为引，古尔德最终解释了他对这个章节标题的理解。
 
@@ -147,7 +151,7 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 
 当然，古尔德既是查尔斯·达尔文的坦诚崇拜者，也是“新达尔文综合理论”的最坚决批评者之一。我将使用他在这部巨著的第一部分中对“达尔文主义的本质”的描述，以及他在第二部分中对“修订和扩展的进化理论”的论证作为基准和目标。
 
-在本文的前一部分中，我围绕达尔文的盟友对达尔文主义的问题进行了讨论，这些问题涉及五个方面：\[i] 偶然性在进化理论中的作用以及该理论的概率性特征；\[ii] 选择的本质；\[iii] 选择/适应解释是否具有目的论性质；\[iv] 物种的本体论地位和物种概念的认识论地位；以及 \[v] 达尔文对进化变化缓慢而渐进的坚持的含义。我认为，将进化生物学的一种主导方法（即所谓的“新达尔文综合理论”）继续称为“达尔文主义”的一个很好的理由是，其支持者在这些问题上（以及许多次要问题上）与达尔文站在一边。这本身就是非常引人注目的，但更引人注目的是，正如我刚才所描述的情况一样，达尔文在每个问题上的立场在今天受到非达尔文进化生物学家的压力与在《物种起源》之后一样大。毫不奇怪，考古学家和生物学哲学家在讨论中做出了重要贡献，特别是在指出阻碍解决问题的潜在哲学问题和概念混淆与模糊之处以及它们的历史起源方面。
+在本文的前一部分中，我围绕达尔文的盟友对达尔文主义的问题进行了讨论，这些问题涉及五个方面：[i] 偶然性在进化理论中的作用以及该理论的概率性特征；[ii] 选择的本质；[iii] 选择/适应解释是否具有目的论性质；[iv] 物种的本体论地位和物种概念的认识论地位；以及 [v] 达尔文对进化变化缓慢而渐进的坚持的含义。我认为，将进化生物学的一种主导方法（即所谓的“新达尔文综合理论”）继续称为“达尔文主义”的一个很好的理由是，其支持者在这些问题上（以及许多次要问题上）与达尔文站在一边。这本身就是非常引人注目的，但更引人注目的是，正如我刚才所描述的情况一样，达尔文在每个问题上的立场在今天受到非达尔文进化生物学家的压力与在《物种起源》之后一样大。毫不奇怪，考古学家和生物学哲学家在讨论中做出了重要贡献，特别是在指出阻碍解决问题的潜在哲学问题和概念混淆与模糊之处以及它们的历史起源方面。
 
 我坚信，对于这些问题的根本哲学分歧的全面理解只能来自于对“综合”立场及其批评者在这些问题上的形成的耐心历史研究。我在这里无法做到这一点。接下来，我将简单地预设对这些历史起源问题的某些答案。本文末尾的参考文献列表包括了一些关于这个主题的优秀作品，供那些与我对其重要性的看法相同的人参考。
 
@@ -155,7 +159,11 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 
 达尔文理解的进化过程涉及变异的产生和差异化的保持过程。因此，可以通过以下变异网格来思考达尔文主义与逻辑空间中的其他选择的关系：
 
-\| 变异 | | --- | --- | --- | | | 世代 | 持续 | | 适应度偏向 | 拉马克 阿萨·格雷 | 达尔文 阿萨·格雷 | | 非适应度为基础 | 达尔文 中立主义 | 拉马克 中立主义 |
+| 变异 | | --- | --- | --- | | | 世代 | 持续 | | 适应度偏向 | 拉马克
+ 阿萨·格雷 | 达尔文
+阿萨·格雷 | | 非适应度为基础 | 达尔文
+ 中立主义 | 拉马克
+ 中立主义 |
 
 上述网格可能会让你得出这样的结论，即非适应性偏向的变异产生和非适应性偏向的变异延续都应该被正确地标记为“机会”。通过理解为什么这样的结论是一个误导性的结论，我们就能够深入探讨当代达尔文主义中“机会”这个概念的核心问题。
 
@@ -217,7 +225,7 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 
 达尔文本人一贯将自然选择称为保留有利变异并消除有害变异的力量。正如上一节所述，特定变异是否有利或有害，在某种意义上是偶然的；而有利变异是否被选择实际保留，从另一种意义上说，也是偶然的。对于达尔文主义来说，选择是一种偏向有利变异的力量或能力，或者可以展望到下一节，是一种适应性的力量。正是这一点区别了选择和漂变。
 
-在最近的一本名为《自然选择：牛津生态与进化系列中的领域、层次和挑战》的专著中，乔治·C·威廉姆斯对达尔文的选择理论进行了积极的辩护，反驳了近几十年来出现的各种挑战。这些挑战可以分为两大类：\[i] 对作为进化力量的自然选择的限制的提出；和 \[ii] 扩大自然选择范围以包括新的“目标”和“层次”。值得注意的是，在这两种情况下，理论本身是否需要在面对这些挑战时进行修改并不明显——原则上，这些可能只是对理论适用范围的挑战。然而，如果事实证明，大多数进化变化可以在不诉诸自然选择的情况下解释，那么这将成为认为进化生物学不再是达尔文主义的理由。如果事实证明，只有通过对其基础进行全面修改，自然选择理论才能与我们对遗传和发育过程的新理解相结合，那么最好将新理论视为达尔文主义的修改后代，而不是达尔文主义本身。正如戈尔德所声称的，理论可能需要本质，但如果理论的基础发生了变化，那么它的本质也发生了变化。也许，借用保罗·格里菲斯的一句话，理论不需要历史和本质，也许它们需要的是历史本质。
+在最近的一本名为《自然选择：牛津生态与进化系列中的领域、层次和挑战》的专著中，乔治·C·威廉姆斯对达尔文的选择理论进行了积极的辩护，反驳了近几十年来出现的各种挑战。这些挑战可以分为两大类：[i] 对作为进化力量的自然选择的限制的提出；和 [ii] 扩大自然选择范围以包括新的“目标”和“层次”。值得注意的是，在这两种情况下，理论本身是否需要在面对这些挑战时进行修改并不明显——原则上，这些可能只是对理论适用范围的挑战。然而，如果事实证明，大多数进化变化可以在不诉诸自然选择的情况下解释，那么这将成为认为进化生物学不再是达尔文主义的理由。如果事实证明，只有通过对其基础进行全面修改，自然选择理论才能与我们对遗传和发育过程的新理解相结合，那么最好将新理论视为达尔文主义的修改后代，而不是达尔文主义本身。正如戈尔德所声称的，理论可能需要本质，但如果理论的基础发生了变化，那么它的本质也发生了变化。也许，借用保罗·格里菲斯的一句话，理论不需要历史和本质，也许它们需要的是历史本质。
 
 阿尔弗雷德·拉塞尔·华莱士经常敦促达尔文放弃“选择”这个具有误导性的拟人化术语，而采用赫伯特·斯宾塞的“适者生存”。达尔文在一定程度上接受了这个建议——在后期版本中，他在第四章的标题“自然选择”后面加上了“或适者生存”。随着理论在 20 世纪中叶的发展，表达“适者生存”的说法逐渐从任何严肃的达尔文选择理论的阐述中消失。另一方面，“适应度”这个概念在其中起着重要而又棘手的作用。在种群遗传学中使用的数学模型中，“适应度”要么指的是种群中不同基因型的能力留下后代，要么指的是这些能力的度量，由变量 W 表示。以下是相关概念的一个相当标准的教科书介绍：
 
@@ -261,7 +269,7 @@ Dawkins 对于表达同样观点的首选方式是将有机体或相互作用体
 
 目的论的外观在达尔文的解释中确实存在，并且自从达尔文提到自然选择仅仅是为了每个生物的利益而工作以来，就一直存在。目的论的外观源于进化生物学和常识都很容易认为动物和植物之所以具有它们的适应性是因为这些适应性对生物体有某种益处或优势。
 
-这是一个备受争议的问题，我在这里只是简单地勾勒出选择性适应解释是坚固的目的论。感兴趣的读者可能想参考讨论中提到的文献，并列在本条目末尾提供的阅读列表中。我认为不值得讨论的一个问题是，是否应该用“目的论”来替代“目的性”。从词源上看，它们是同一回事；而对于这种变化的哲学论证都基于一个历史上值得怀疑的假设——哲学上对目的论的辩护始终是有神论或生命论的。严肃的哲学问题可以简单直接地提出：在选择性适应解释中，适应性所起的作用是否是这些解释中不可或缺的核心特征？如果答案是肯定的，那么这些解释就是目的论的。\[14]
+这是一个备受争议的问题，我在这里只是简单地勾勒出选择性适应解释是坚固的目的论。感兴趣的读者可能想参考讨论中提到的文献，并列在本条目末尾提供的阅读列表中。我认为不值得讨论的一个问题是，是否应该用“目的论”来替代“目的性”。从词源上看，它们是同一回事；而对于这种变化的哲学论证都基于一个历史上值得怀疑的假设——哲学上对目的论的辩护始终是有神论或生命论的。严肃的哲学问题可以简单直接地提出：在选择性适应解释中，适应性所起的作用是否是这些解释中不可或缺的核心特征？如果答案是肯定的，那么这些解释就是目的论的。[14]
 
 一个好的起点是一个简单而现实的例子。在经过多年的研究中，结合了艰苦的野外工作和实验室实验，约翰·恩德勒能够证明，他研究的鲑鱼种群中雄性的颜色图案是交配选择和捕食者选择之间的平衡结果。以一个惊人的例子为例，他能够测试并证实一个假设，即一群雄性，其颜色图案与它们所栖息的河流和池塘底部的鹅卵石相匹配，除了明亮的红斑点之外，之所以有这种图案，是因为这些种群中的一种常见捕食者——对红色色盲。红斑点并不会使它们的拥有者处于选择性劣势，并且对于配偶来说是吸引因素（恩德勒 1983 年，173-190）。我们可以将这种颜色图案称为一种复杂的适应，它具有避免捕食者和吸引配偶的功能。但是，这些功能在解释为什么这个种群的雄性具有特定的颜色时起到了什么作用？
 
@@ -301,122 +309,122 @@ Mayr 心中有一个想法，即兄弟可能相像，也可能不相像；两个
 
 ### References
 
-* Amundson, R., and Lauder, G. 1994, ‘Function without Purpose: The Uses of Causal Role Function in Evolutionary Biology’, _Biology and Philosophy_, 9: 443–469.
-* Babbage, C., 1837, _The Ninth Bridgewater Treatise_, London: Murray.
-* Barrett, P. H., and Freeman R. B., (eds.), 1988, _The Works of Charles Darwin_, Vols. 1–29, New York: New York University Press.
-* Barrett, P. H. et al., (eds.), 1987, _Charles Darwin’s Notebooks, 1836–1844: Geology, Transmutation of Species, Metaphysical Enquiries_, Ithaca NY: Cornell University Press.
-* Beatty, J., 1984, ‘Chance and Natural Selection’, _Philosophy of Science_, 51: 183–211.
+* Amundson, R., and Lauder, G. 1994, ‘Function without Purpose: The Uses of Causal Role Function in Evolutionary Biology’, *Biology and Philosophy*, 9: 443–469.
+* Babbage, C., 1837, *The Ninth Bridgewater Treatise*, London: Murray.
+* Barrett, P. H., and Freeman R. B., (eds.), 1988, *The Works of Charles Darwin*, Vols. 1–29, New York: New York University Press.
+* Barrett, P. H. et al., (eds.), 1987, *Charles Darwin’s Notebooks, 1836–1844: Geology, Transmutation of Species, Metaphysical Enquiries*, Ithaca NY: Cornell University Press.
+* Beatty, J., 1984, ‘Chance and Natural Selection’, *Philosophy of Science*, 51: 183–211.
 * –––, 1992, ‘Teleology and the Relationship Between Biology and the Physical Sciences in the Nineteenth and Twentieth Centuries’, in Durham and Purrington, 113–144.
-* Binswanger H., 1990, _The Biological Basis of Teleological Concepts_, Los Angeles : ARI Press.
-* Brandon, Robert, 1981, ‘Biological Teleology: Questions and Explanations’, _Studies in History and Philosophy of Science_, 12: 91–105.
+* Binswanger H., 1990, *The Biological Basis of Teleological Concepts*, Los Angeles : ARI Press.
+* Brandon, Robert, 1981, ‘Biological Teleology: Questions and Explanations’, *Studies in History and Philosophy of Science*, 12: 91–105.
 * –––, 1985, ‘Adaptation Explanations: Are Adaptations for the Good of Replicators or Interactors?’, in Weber and Depew, 81–96.
-* –––, 1990, _Adaptation and Environment_, Princeton: Princeton University Press.
-* Brandon, R. and Burian, R. (eds.), 1984, _Genes, Organisms, Populations: Controversies over the Units of Selection_, Cambridge MA: Harvard University Press.
+* –––, 1990, *Adaptation and Environment*, Princeton: Princeton University Press.
+* Brandon, R. and Burian, R. (eds.), 1984, *Genes, Organisms, Populations: Controversies over the Units of Selection*, Cambridge MA: Harvard University Press.
 * Burian, R., 1983, ‘Adaptation’, in Grene, 287–314.
-* Darwin, C., 1859\*, On the Origin of Species\*, London: John Murray.
-* Dennett, D., 1995, _Darwin’s Dangerous Idea: Evolution and the Meanings of Life_, New York: Simon and Shuster.
-* Dobzhansky, T., 1937, _Genetics and the Origin of Species_, New York: Columbia University Press.
-* –––, 1970, _Genetics of the Evolutionary Process_, New York: Columbia University Press.
-* Durham, F. and Purrington R. (eds.), 1992, _Some Truer Method: Reflections on the Heritage of Newton_, New York: Columbia University Press.
-* Eble, G., 1999, ‘On the Dual Nature of Chance in Evolutionary Biology and Paleobiology’, _Paleobiology_, 25: 75–87.
-* Endler, J. 1983, ‘Natural and sexual selection on color patterns in poeciliid fishes’, _Environmental Biology of Fishes_, 9: 173–190.
-* Ereshefsky, M. (ed.), 1992, _The Units of Evolution: Essays on the Nature of Species_, Cambridge MA: Harvard University Press.
-* Gayon, J., 1998, _Darwinism’s Struggle for Survival: Heredity and the Hypothesis of Natural Selection_, Cambridge: Cambridge University Press.
+* Darwin, C., 1859*, On the Origin of Species*, London: John Murray.
+* Dennett, D., 1995, *Darwin’s Dangerous Idea: Evolution and the Meanings of Life*, New York: Simon and Shuster.
+* Dobzhansky, T., 1937, *Genetics and the Origin of Species*, New York: Columbia University Press.
+* –––, 1970, *Genetics of the Evolutionary Process*, New York: Columbia University Press.
+* Durham, F. and Purrington R. (eds.), 1992, *Some Truer Method: Reflections on the Heritage of Newton*, New York: Columbia University Press.
+* Eble, G., 1999, ‘On the Dual Nature of Chance in Evolutionary Biology and Paleobiology’, *Paleobiology*, 25: 75–87.
+* Endler, J. 1983, ‘Natural and sexual selection on color patterns in poeciliid fishes’, *Environmental Biology of Fishes*, 9: 173–190.
+* Ereshefsky, M. (ed.), 1992, *The Units of Evolution: Essays on the Nature of Species*, Cambridge MA: Harvard University Press.
+* Gayon, J., 1998, *Darwinism’s Struggle for Survival: Heredity and the Hypothesis of Natural Selection*, Cambridge: Cambridge University Press.
 * –––, 2003, ‘From Darwin to Today in Evolutionary Biology’, in Hodge and Radick, 240–264.
-* Gotthelf, A. and Lennox, J. G., 1987, _Philosophical Issues in Aristotle’s Biology_, Cambridge: Cambridge University Press.
-* Grene, M. (ed.), 1983, _Dimensions of Darwinism_, Cambridge: Cambridge University Press.
-* Stephen Jay Gould, 2002, _The Structure of Evolutionary Theory_, Cambridge MA: Harvard University Press.
-* Herbert, S., (ed.), 1980, _The Red Notebook of Charles Darwin_, Ithaca: Cornell University Press.
-* Herschel, J., 1830/1987, _A Preliminary Discourse on the Study of Natural Philosophy_, Chicago: Chicago University Press.
-* Hodge, J. and Radick, G. (eds.), 2003, _The Cambridge Companion to Darwin_, Cambridge: Cambridge University Press.
-* Horowitz, T. and Massey, G., (eds.), 1991, _Thought Experiments in Science and Philosophy_, Savage MD: Rowman and Littlefield.
-* Hull, D., 2001, _Science and Selection: Essays on Biological Evolution and the Philosophy of Science_, Cambridge: Cambridge University Press.
-* Huxley, L. (ed.), 1901, _Life and Letters of Thomas H. Huxley, Vols. I-II_, New York: D. Appleton & Co.
-* Keller, E. Fox and Lloyd, E. (eds.), 1992, _Keywords in Evolutionary Biology_, Cambridge MA,: Harvard University Press.
+* Gotthelf, A. and Lennox, J. G., 1987, *Philosophical Issues in Aristotle’s Biology*, Cambridge: Cambridge University Press.
+* Grene, M. (ed.), 1983, *Dimensions of Darwinism*, Cambridge: Cambridge University Press.
+* Stephen Jay Gould, 2002, *The Structure of Evolutionary Theory*, Cambridge MA: Harvard University Press.
+* Herbert, S., (ed.), 1980, *The Red Notebook of Charles Darwin*, Ithaca: Cornell University Press.
+* Herschel, J., 1830/1987, *A Preliminary Discourse on the Study of Natural Philosophy*, Chicago: Chicago University Press.
+* Hodge, J. and Radick, G. (eds.), 2003, *The Cambridge Companion to Darwin*, Cambridge: Cambridge University Press.
+* Horowitz, T. and Massey, G., (eds.), 1991, *Thought Experiments in Science and Philosophy*, Savage MD: Rowman and Littlefield.
+* Hull, D., 2001, *Science and Selection: Essays on Biological Evolution and the Philosophy of Science*, Cambridge: Cambridge University Press.
+* Huxley, L. (ed.), 1901, *Life and Letters of Thomas H. Huxley, Vols. I-II*, New York: D. Appleton & Co.
+* Keller, E. Fox and Lloyd, E. (eds.), 1992, *Keywords in Evolutionary Biology*, Cambridge MA,: Harvard University Press.
 * Kimura, M., 1992, ‘Neutralism’, in Fox Keller and Lloyd, 225–230.
-* Kitcher, P., 1993, _The Advancement of Science: Science without Legend, Objectivity without Illusions_, Oxford: Oxford University Press.
-* Lamarck, J-B., 1809/1984, _Zoological Philosophy_, Chicago: University of Chicago Press.
-* Laudan, L., 1976, _Progress and its Problems_, Berkeley: University of California Press.
+* Kitcher, P., 1993, *The Advancement of Science: Science without Legend, Objectivity without Illusions*, Oxford: Oxford University Press.
+* Lamarck, J-B., 1809/1984, *Zoological Philosophy*, Chicago: University of Chicago Press.
+* Laudan, L., 1976, *Progress and its Problems*, Berkeley: University of California Press.
 * Lennox, James G. 1987, ‘Kinds, forms of kinds, and the more and the less in Aristotle’s biology,’ in Gotthelf and Lennox 1987, 339–359.
 * Lennox, J., 1991, ‘Darwinian Thought Experiments: A Function for Just-so Stories’, in Horowitz and Massey, 223-246.
-* –––, 1993, ‘Darwin _was_ a Teleologist’, _Biology and Philosophy_ 8: 409–422.
+* –––, 1993, ‘Darwin *was* a Teleologist’, *Biology and Philosophy* 8: 409–422.
 * –––, ‘Philosophy of Biology’, in Salmon et al. 1992, 269–309.
-* –––, 2000, _Aristotle’s Philosophy of Biology: Essays on the Origins of Life Science_, Cambridge: Cambridge University Press.
-* Lennox, J. and Wilson, B., 1994, ‘Natural Selection and the Struggle for Existence’ _Studies in History and Philosophy of Science_, 25: 65–80.
-* Lyell, C., 1831–3/1991, _Principles of Geology, First Edition, Vol. I-III_, Chicago: University of Chicago Press.
-* Millstein, R., 2000, ‘Chance and Macroevolution’, _Philosophy of Science_, 67: 603–624.
-* Ospovat, D., 1980, _The Development of Darwin’s Theory: Natural History, Natural Theology, and Natural Selection, 1838–1859_, Cambridge: Cambridge University Press.
-* Rheins, J., 2011, ‘Similarity and Species Concepts’, in _Carving Nature at its Joints: Natural Kinds in Metaphysics and Science_, in J. Campbell, M. O’Rourke, and M. Slater (eds.), _Topics in Contemporary Philosophy_ (Volume 8), Cambridge, MA: MIT Press, 253–288..
-* Robson, G. C. and Richards, O. W., 1936, _The Variation of Animals in Natur_e, London: Longmans.
-* Salmon, M. et al., 1992, _Introduction to Philosophy of Science_, Indianapolis: Hackett.
-* Shanahan, T., 1991, ‘Chance as an Explanatory Factor in Evolutionary Biology’, _History and Philosophy of the Life Sciences_, 13: 249–269.
-* Skelton, P. (ed.), 1993, _Evolution: A Biological and Palaeontological Approach_, London: Pearson.
-* Sterelny, K. and Griffiths, P., 1999, _Sex and Death: An Introduction to Philosophy of Biology_, Chicago: Chicago University Press.
-* Uglow, J., 2002, _The Lunar Men: Five Friends Whose Curiosity Changed the World_, New York: Farrar, Strauss and Giroux.
-* Weber, B. and Depew, D. (eds.), 1985, _Evolution at a Crossroads: The New Biology and the New Philosophy of Science_, Cambridge MA: MIT Press.
-* George Williams, 1966, _Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought_, Princeton: Princeton University Press.
-* –––, 1992, _Natural Selection: Domains, Levels, and Challenges_, Oxford: Oxford University Press.
-* Walsh, D., 2006, ‘Evolutionary Essentialism’, _British Journal for Philosophy of Science_, 57: 425–448.
-* Wilkins, J. S., 2009, _Species: A History of the Idea_, Berkeley: University of California Press.
+* –––, 2000, *Aristotle’s Philosophy of Biology: Essays on the Origins of Life Science*, Cambridge: Cambridge University Press.
+* Lennox, J. and Wilson, B., 1994, ‘Natural Selection and the Struggle for Existence’ *Studies in History and Philosophy of Science*, 25: 65–80.
+* Lyell, C., 1831–3/1991, *Principles of Geology, First Edition, Vol. I-III*, Chicago: University of Chicago Press.
+* Millstein, R., 2000, ‘Chance and Macroevolution’, *Philosophy of Science*, 67: 603–624.
+* Ospovat, D., 1980, *The Development of Darwin’s Theory: Natural History, Natural Theology, and Natural Selection, 1838–1859*, Cambridge: Cambridge University Press.
+* Rheins, J., 2011, ‘Similarity and Species Concepts’, in *Carving Nature at its Joints: Natural Kinds in Metaphysics and Science*, in J. Campbell, M. O’Rourke, and M. Slater (eds.), *Topics in Contemporary Philosophy* (Volume 8), Cambridge, MA: MIT Press, 253–288..
+* Robson, G. C. and Richards, O. W., 1936, *The Variation of Animals in Natur*e, London: Longmans.
+* Salmon, M. et al., 1992, *Introduction to Philosophy of Science*, Indianapolis: Hackett.
+* Shanahan, T., 1991, ‘Chance as an Explanatory Factor in Evolutionary Biology’, *History and Philosophy of the Life Sciences*, 13: 249–269.
+* Skelton, P. (ed.), 1993, *Evolution: A Biological and Palaeontological Approach*, London: Pearson.
+* Sterelny, K. and Griffiths, P., 1999, *Sex and Death: An Introduction to Philosophy of Biology*, Chicago: Chicago University Press.
+* Uglow, J., 2002, *The Lunar Men: Five Friends Whose Curiosity Changed the World*, New York: Farrar, Strauss and Giroux.
+* Weber, B. and Depew, D. (eds.), 1985, *Evolution at a Crossroads: The New Biology and the New Philosophy of Science*, Cambridge MA: MIT Press.
+* George Williams, 1966, *Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought*, Princeton: Princeton University Press.
+* –––, 1992, *Natural Selection: Domains, Levels, and Challenges*, Oxford: Oxford University Press.
+* Walsh, D., 2006, ‘Evolutionary Essentialism’, *British Journal for Philosophy of Science*, 57: 425–448.
+* Wilkins, J. S., 2009, *Species: A History of the Idea*, Berkeley: University of California Press.
 * Wilson, D. S., 1984, ‘Individual Selection and the Concept of Structured Demes’, in Brandon and Burian, 272–291.
-* Winsor, M. P., 2001, ‘Cain on Linnaeus: The Scientist-Historian as Unanalysed Entity,’ _Studies in the History and Philosophy of Biology and the Biomedical Sciences_, 32 (2), 239–25.
-* –––, 2006, ‘Linnaeus’s Biology was not Essentialist’, _Annals of the Missouri Botanical Gardens_, 93: 2–7.
+* Winsor, M. P., 2001, ‘Cain on Linnaeus: The Scientist-Historian as Unanalysed Entity,’ *Studies in the History and Philosophy of Biology and the Biomedical Sciences*, 32 (2), 239–25.
+* –––, 2006, ‘Linnaeus’s Biology was not Essentialist’, *Annals of the Missouri Botanical Gardens*, 93: 2–7.
 
 ### Further Reading
 
 #### Charles Darwin’s Life
 
-* Browne, E. J. 1995, _Charles Darwin: A Biography. Vol. 1: Voyaging_, Princeton: Princeton University Press.
-* –––, 2000, _Charles Darwin: A Biography. Vol. 2: The Power of Place_, Princeton: Princeton University Press.
-* Desmond, A. and Moore, J., 1992, _Darwin: The Life of a Tormented Evolutionist_, New York: Norton.
-* Herbert, S. 2005, _Charles Darwin, Geologist_, Ithaca: Cornell University Press.
+* Browne, E. J. 1995, *Charles Darwin: A Biography. Vol. 1: Voyaging*, Princeton: Princeton University Press.
+* –––, 2000, *Charles Darwin: A Biography. Vol. 2: The Power of Place*, Princeton: Princeton University Press.
+* Desmond, A. and Moore, J., 1992, *Darwin: The Life of a Tormented Evolutionist*, New York: Norton.
+* Herbert, S. 2005, *Charles Darwin, Geologist*, Ithaca: Cornell University Press.
 
 #### Charles Darwin: Primary Sources
 
-* Barrett, P. H. (ed.), 1977, _The Collected Papers of Charles Darwin_, 2 Vols., Chicago: University of Chicago Press.
-* Burkhardt, F. (ed.), 1985–2015, _The Correspondence of Charles Darwin_, Volumes 1–21, Cambridge: Cambridge University Press.
-* Chancellor, G. and John van Wyhe (eds.), 2009, _Charle’s Darwin’s Notebooks from the Voyage of the Beagle_, Cambridge: Cambridge University Press.
-* Keynes, R. (ed.), 2000, _Charles Darwin’s Zoology Notes & Specimen Lists from H.M.S. Beagle_, Cambridge: Cambridge University Press.
-* Peckham, M. (ed.), 1959, _The Origin of Species by Charles Darwin: A Variorum Text_, Philadelphia: University of Pennsylvania Press. \[1st Paperback edition, 2006]
-* Weinshank, D. et al. (eds.), 1990, _A Concordance to Charles Darwin’s Notebooks, 1836–1844_, Ithaca: Cornell University Press.
+* Barrett, P. H. (ed.), 1977, *The Collected Papers of Charles Darwin*, 2 Vols., Chicago: University of Chicago Press.
+* Burkhardt, F. (ed.), 1985–2015, *The Correspondence of Charles Darwin*, Volumes 1–21, Cambridge: Cambridge University Press.
+* Chancellor, G. and John van Wyhe (eds.), 2009, *Charle’s Darwin’s Notebooks from the Voyage of the Beagle*, Cambridge: Cambridge University Press.
+* Keynes, R. (ed.), 2000, *Charles Darwin’s Zoology Notes & Specimen Lists from H.M.S. Beagle*, Cambridge: Cambridge University Press.
+* Peckham, M. (ed.), 1959, *The Origin of Species by Charles Darwin: A Variorum Text*, Philadelphia: University of Pennsylvania Press. [1st Paperback edition, 2006]
+* Weinshank, D. et al. (eds.), 1990, *A Concordance to Charles Darwin’s Notebooks, 1836–1844*, Ithaca: Cornell University Press.
 
 #### Charles Darwin’s Context
 
-* Hodge, J. and Radick, G. (eds.), 2003, _The Cambridge Companion to Darwin_, Cambridge: Cambridge University Press.
-* Owen, R., 1837/1992, _The Hunterian Lectures in Comparative Anatomy, 1837_, Chicago: Chicago University Press.
-* Rudwick, M., 1997, _George Cuvier, Fossil Bones and Geological Catastrophes_, Chicago: University of Chicago Press.
-* Ruse, M., 1999, _The Darwinian Revolution: Science Red in Tooth and Claw_ (Revised edition), Cambridge: Cambridge University Press.
-* Ruse, M. and Richards, R. J. (eds.), 2009, _The Cambridge Companion to the_ Origin of Species, Cambridge: Cambridge University Press.
-* Snyder, L., 2010, _The Philosophical Breakfast Club_, New York: Broadway Books.
+* Hodge, J. and Radick, G. (eds.), 2003, *The Cambridge Companion to Darwin*, Cambridge: Cambridge University Press.
+* Owen, R., 1837/1992, *The Hunterian Lectures in Comparative Anatomy, 1837*, Chicago: Chicago University Press.
+* Rudwick, M., 1997, *George Cuvier, Fossil Bones and Geological Catastrophes*, Chicago: University of Chicago Press.
+* Ruse, M., 1999, *The Darwinian Revolution: Science Red in Tooth and Claw* (Revised edition), Cambridge: Cambridge University Press.
+* Ruse, M. and Richards, R. J. (eds.), 2009, *The Cambridge Companion to the* Origin of Species, Cambridge: Cambridge University Press.
+* Snyder, L., 2010, *The Philosophical Breakfast Club*, New York: Broadway Books.
 
 #### The Evolution of Darwinism
 
-* Amundson, R., 2005, _The Changing Role of the Embryo in Evolutionary Thought: Roots of Evo-Devo_, Cambridge: Cambridge University Press.
-* Depew, D. and Weber, B., 1995, _Darwinism Evolving: Systems Dynamics and the Genealogy of Natural Selection_, Cambridge MA: MIT Press.
-* Kohn, D. (ed.), 1995, _The Darwinian Heritage_, Princeton: Princeton University Press.
-* Mayr, E., 1976, _Evolution and the Diversity of Life_, Cambridge MA: Harvard University Press.
-* Ruse, M. (ed.), 2013, _The Cambridge Encyclopedia of Darwin and Evolutionary Thought_, Cambridge: Cambridge University Press.
+* Amundson, R., 2005, *The Changing Role of the Embryo in Evolutionary Thought: Roots of Evo-Devo*, Cambridge: Cambridge University Press.
+* Depew, D. and Weber, B., 1995, *Darwinism Evolving: Systems Dynamics and the Genealogy of Natural Selection*, Cambridge MA: MIT Press.
+* Kohn, D. (ed.), 1995, *The Darwinian Heritage*, Princeton: Princeton University Press.
+* Mayr, E., 1976, *Evolution and the Diversity of Life*, Cambridge MA: Harvard University Press.
+* Ruse, M. (ed.), 2013, *The Cambridge Encyclopedia of Darwin and Evolutionary Thought*, Cambridge: Cambridge University Press.
 
 #### Philosophy and Evolutionary Theory
 
-* Brandon, R. N., 1996, _Concepts and Methods in Evolutionary Biology_, Cambridge: Cambridge University Press.
-* Burian, R. M., 2005, _The Epistemology of Development, Evolution, and Genetics_, Cambridge: Cambridge University Press.
-* Ereshefsky, M. (ed.), 1992, _The Units of Evolution: Essays on the Nature of Species_, Cambridge, MA: MIT Press.
-* Godfrey-Smith, P., 2014, _The Philosophy of Biology_, Princeton: Princeton University Press.
-* Hull, D. and Ruse, M. (eds.), 1998, _The Philosophy of Biology_, Oxford: Oxford University Press.
-* Lloyd, E., 1994, _The Structure and Confirmation of Evolutionary Theory_, 2nd edition Princeton: Princeton University Press.
-* Sober, E., 1984, _The Nature of Selection: Evolutionary Theory in Philosophical Focus_, Cambridge MA: MIT Press.
-* –––, (ed.), 1994, _Conceptual Issues in Evolutionary Biology_, 2nd edition, Cambridge MA: MIT Press.
-* –––, 2008, _Evidence and Evolution: The Logic Behind the Science_, Cambridge: Cambridge University Press.
-* Walsh, D. M., 2015, _Organisms, Agency, and Evolution_, Cambridge: Cambridge University Press.
+* Brandon, R. N., 1996, *Concepts and Methods in Evolutionary Biology*, Cambridge: Cambridge University Press.
+* Burian, R. M., 2005, *The Epistemology of Development, Evolution, and Genetics*, Cambridge: Cambridge University Press.
+* Ereshefsky, M. (ed.), 1992, *The Units of Evolution: Essays on the Nature of Species*, Cambridge, MA: MIT Press.
+* Godfrey-Smith, P., 2014, *The Philosophy of Biology*, Princeton: Princeton University Press.
+* Hull, D. and Ruse, M. (eds.), 1998, *The Philosophy of Biology*, Oxford: Oxford University Press.
+* Lloyd, E., 1994, *The Structure and Confirmation of Evolutionary Theory*, 2nd edition Princeton: Princeton University Press.
+* Sober, E., 1984, *The Nature of Selection: Evolutionary Theory in Philosophical Focus*, Cambridge MA: MIT Press.
+* –––, (ed.), 1994, *Conceptual Issues in Evolutionary Biology*, 2nd edition, Cambridge MA: MIT Press.
+* –––, 2008, *Evidence and Evolution: The Logic Behind the Science*, Cambridge: Cambridge University Press.
+* Walsh, D. M., 2015, *Organisms, Agency, and Evolution*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=darwinism).                                                                      |
-| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/darwinism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=darwinism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
-| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/darwinism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=darwinism). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/darwinism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=darwinism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/darwinism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
 
 ## Other Internet Resources
 
@@ -428,7 +436,7 @@ Though there are an abundance of web sites on Darwinism, the three most useful s
 
 ## Related Entries
 
-[adaptationism](https://plato.stanford.edu/entries/adaptationism/) | [biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | [creationism](https://plato.stanford.edu/entries/creationism/) | [developmental biology: evolution and development](https://plato.stanford.edu/entries/evolution-development/) | [essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [evolution](https://plato.stanford.edu/entries/evolution/) | [fitness](https://plato.stanford.edu/entries/fitness/) | individuals and individuation | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/) | [natural selection](https://plato.stanford.edu/entries/natural-selection/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [Scottish Philosophy: in the 18th Century](https://plato.stanford.edu/entries/scottish-18th/) | [Scottish Philosophy: in the 19th century](https://plato.stanford.edu/entries/scottish-19th/) | [species](https://plato.stanford.edu/entries/species/) | [teleology: teleological notions in biology](https://plato.stanford.edu/entries/teleology-biology/) | [Whewell, William](https://plato.stanford.edu/entries/whewell/)
+[adaptationism](https://plato.stanford.edu/entries/adaptationism/) | [biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | [creationism](https://plato.stanford.edu/entries/creationism/) | [developmental biology: evolution and development](https://plato.stanford.edu/entries/evolution-development/) | [essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [evolution](https://plato.stanford.edu/entries/evolution/) | [fitness](https://plato.stanford.edu/entries/fitness/) | individuals and individuation | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/) | [natural selection](https://plato.stanford.edu/entries/natural-selection/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [Scottish Philosophy: in the 18th Century](https://plato.stanford.edu/entries/scottish-18th/) | [Scottish Philosophy: in the 19th century](https://plato.stanford.edu/entries/scottish-19th/) | [species](https://plato.stanford.edu/entries/species/) | [teleology: teleological notions in biology](https://plato.stanford.edu/entries/teleology-biology/) | [Whewell, William](https://plato.stanford.edu/entries/whewell/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[James Lennox](http://www.pitt.edu/\~hpsdept/people/fac\_pages/lennox.html) <[_jglennox+@pitt.edu_](mailto:jglennox+%40pitt%2eedu)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
+[James Lennox](http://www.pitt.edu/~hpsdept/people/fac_pages/lennox.html) <[*jglennox+@pitt.edu*](mailto:jglennox+%40pitt%2eedu)>
