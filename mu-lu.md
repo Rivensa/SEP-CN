@@ -56,7 +56,7 @@
   * [\*杜威——见约翰·杜威的美学 Dewey — see Dewey, John: aesthetics](a/mei-xue-aesthetics/du-wei-jian-yue-han-du-wei-de-mei-xue-dewey-see-dewey-john-aesthetics.md)
   * [自然美学 environmental (Allen Carlson)](a/mei-xue-aesthetics/zi-ran-mei-xue-environmental-allen-carlson.md)
   * [存在主义美学 existentialist (Jean-Philippe Deranty)](a/mei-xue-aesthetics/cun-zai-zhu-yi-mei-xue-existentialist-jeanphilippe-deranty.md)
-  * [\*女性主义——见女性主义介入：女性主义美学 feminist — see feminist philosophy, interventions: aesthetics](a/mei-xue-aesthetics/nv-xing-zhu-yi-jian-nv-xing-zhu-yi-jie-ru-nv-xing-zhu-yi-mei-xue-feminist-see-feminist-philosophy-in.md)
+  * [\*女性主义——见女性主义介入：女性主义美学 feminist — see feminist philosophy, interventions: aesthetics](a/mei-xue-aesthetics/nv-xing-zhu-yi-jian-nv-xing-zhu-yi-zhe-xue-jie-ru-nv-xing-zhu-yi-mei-xue-feminist-see-feminist-philo.md)
   * [18 世纪法国美学 French, in the 18th century (Jennifer Tsien and Jacques Morizot)](a/mei-xue-aesthetics/18-shi-ji-fa-guo-mei-xue-french-in-the-18th-century-jennifer-tsien-and-jacques-morizot.md)
   * [\*伽达默尔——见伽达默尔的美学 Gadamer — see Gadamer, Hans-Georg: aesthetics](a/mei-xue-aesthetics/qie-da-mo-er-jian-qie-da-mo-er-de-mei-xue-gadamer-see-gadamer-hansgeorg-aesthetics.md)
   * [18 世纪德国美学 German, in the 18th century (Paul Guyer)](a/mei-xue-aesthetics/18-shi-ji-de-guo-mei-xue-german-in-the-18th-century-paul-guyer.md)
