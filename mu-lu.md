@@ -580,7 +580,7 @@
   * [克罗齐的美学 aesthetics (Gary Kemp)](c/bei-nei-de-tuo-ke-luo-qi-croce-benedetto/ke-luo-qi-de-mei-xue-aesthetics-gary-kemp.md)
 * [亚历山大·克拉梅尔 Crummell, Alexander (Stephen Thompson)](c/ya-li-shan-da-ke-la-mei-er-crummell-alexander-stephen-thompson.md)
 * [拉尔夫·库德沃斯 Cudworth, Ralph (Sarah Hutton)](c/la-er-fu-ku-de-wo-si-cudworth-ralph-sarah-hutton.md)
-* [\*文化演化——见演化：文化演化 cultural evolution — see evolution: cultural](c/wen-hua-yan-hua-jian-yan-hua-wen-hua-yan-hua-cultural-evolution-see-evolution-cultural.md)
+* [\*文化演化——见演化：文化演化 cultural evolution — see evolution: cultural](c/wen-hua-yan-hua-jian-jin-hua-wen-hua-yan-hua-cultural-evolution-see-evolution-cultural.md)
 * [文化遗产伦理 cultural heritage, ethics of (Erich Hatala Matthes)](c/wen-hua-yi-chan-lun-li-cultural-heritage-ethics-of-erich-hatala-matthes.md)
 * [文化 culture (Patti Tamara Lenard)](c/wen-hua-culture-patti-tamara-lenard/)
   * [文化与认知科学 and cognitive science (Daniel Kelly and Andreas De Block)](c/wen-hua-culture-patti-tamara-lenard/wen-hua-yu-ren-zhi-ke-xue-and-cognitive-science-daniel-kelly-and-andreas-de-block.md)
