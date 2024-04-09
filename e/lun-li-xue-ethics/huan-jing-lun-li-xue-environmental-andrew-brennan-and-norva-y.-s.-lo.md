@@ -1,32 +1,27 @@
 # 环境伦理学 environmental (Andrew Brennan and Norva Y. S. Lo)
 
-
-
-*首次发表于 2002 年 6 月 3 日星期一；实质性修订于 2021 年 12 月 3 日星期五*
+_首次发表于 2002 年 6 月 3 日星期一；实质性修订于 2021 年 12 月 3 日星期五_
 
 环境伦理学是研究人类与环境及其非人类内容的道德关系以及价值和道德地位的哲学学科。本条目涵盖了：(1)环境伦理学对传统西方伦理思维中人类中心主义的挑战；(2)该学科从 1960 年代和 1970 年代开始的发展；(3)深层生态学、女性主义环境伦理学、泛灵论和社会生态学与政治的联系；(4)试图应用传统伦理理论，包括后果主义、义务论和美德伦理，以支持当代环境关切；(5)一些思想家对荒野、建成环境和贫困政治的更广泛关注；以及(6)可持续性伦理和气候变化的伦理学。
 
 * [介绍：环境伦理学的挑战](https://plato.stanford.edu/entries/ethics-environmental/#IntChaEnvEth)
 * [环境伦理学的发展](https://plato.stanford.edu/entries/ethics-environmental/#EarDevEnvEth)
 * [环境伦理学和政治](https://plato.stanford.edu/entries/ethics-environmental/#EnvEthPol)
-
-  * [ 3.1 深度生态学](https://plato.stanford.edu/entries/ethics-environmental/#DeeEco)
+  * [3.1 深度生态学](https://plato.stanford.edu/entries/ethics-environmental/#DeeEco)
   * [3.2 Feminism and the Environment](https://plato.stanford.edu/entries/ethics-environmental/#FemEnv)
   * [3.3 Disenchantment and the New Animism](https://plato.stanford.edu/entries/ethics-environmental/#DisNewAni)
   * [3.4 社会生态学和生态区域主义](https://plato.stanford.edu/entries/ethics-environmental/#SocEcoBio)
 * [传统伦理学理论与当代环境伦理学](https://plato.stanford.edu/entries/ethics-environmental/#TraEthTheConEnvEth)
-
   * [补充文件：生物多样性保护](https://plato.stanford.edu/entries/ethics-environmental/biodiversity.html)
 * [荒野、建筑环境、贫困和政治](https://plato.stanford.edu/entries/ethics-environmental/#WilBuiEnvPovPol)
 * [可持续性和气候变化](https://plato.stanford.edu/entries/ethics-environmental/#SusCliCha)
-
   * [补充文件：环境危机的病理学 - 理论与实证研究](https://plato.stanford.edu/entries/ethics-environmental/theories-research.html)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-environmental/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-environmental/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/ethics-environmental/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/ethics-environmental/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/ethics-environmental/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-environmental/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/ethics-environmental/#Rel)
 
----
+***
 
 ## 环境伦理学的挑战
 
@@ -112,7 +107,7 @@ Næss 的生态哲学 T 将人类自我实现视为解决由人类自私和对�
 
 在他的后期作品中，阿多诺倡导一种对自然的“感性直觉”重新赋予魅力的美学态度。我们不仅停止将自然视为主要或简单的消费对象，还能够直接、自发地与自然接触，而无需我们理性的干预。根据阿多诺的观点，艺术作品，就像自然事物一样，总是涉及一种“过剩”，超越了它们单纯的物质性和交换价值（有关阿多诺对艺术、劳动和统治观点的详细讨论，请参见 Vogel 1996 年第 4.4 章）。他认为，通过美学体验重新赋予世界以魅力的同时，也重新赋予了人类生活和目的以魅力。尽管将批判理论（包括解构、精神分析和激进社会批评技术）应用于环境问题和各种伦理学和政治理论的想法已经催生了“生态批评”领域，但阿多诺的作品在主流环境哲学中仍然很少被探讨（见 Vogel 1996 年，Luke 1997 年，van Wyk 1997 年，Dryzek 1997 年，Garrard 2014 年）。
 
-阿多诺（Adorno）的一些学生认为，他对“感性直觉”角色的描述可以理解为试图捍卫一种接近弱形式的唯灵论的“合法拟人化”（Bernstein 2001, 196）。另一些更激进的人则声称从他的“非同一性”概念中汲取灵感，他们认为这可以作为对自然概念进行解构甚至从生态批评写作中消除的基础。例如，蒂莫西·莫顿（Timothy Morton）认为，“把一个被称为自然的东西放在高高的基座上，远远地欣赏它，对环境所做的就像父权制对女性形象所做的那样。这是一种矛盾的虐待式欣赏行为”（Morton 2007, 5），并且“以我们在‘自然’这个概念中所重视的一切为名，[生态批评]彻底审视了自然如何被建立为一个超验的、统一的、独立的范畴。生态批评并不认为说‘打倒自然！’是矛盾的”（同上，13）。在这方面，一些思想家坚持认为环境伦理学在自然与人造之间划定重要区别是错误的（Vogel 2015）。然而，这样的想法遭到了一些马克思主义理论家的激烈批评，他们认为“自然的终结”论是深深困惑的（例如 Malm 2018）。然而，尚不清楚试图从生态批评工作中清除自然概念的激进尝试是否会取得成功。同样，霍克海默（Horkheimer）和阿多诺（Adorno）着手进行的辩证项目是否连贯，阿多诺是否特别对“自然”和“理性”有一致的理解也尚不清楚（有关法兰克福学派对自然思考的评论，请参见 Eckersley 1992 和 Vogel 1996，有关理性的内容还请参阅关于批判理论的条目）。
+阿多诺（Adorno）的一些学生认为，他对“感性直觉”角色的描述可以理解为试图捍卫一种接近弱形式的唯灵论的“合法拟人化”（Bernstein 2001, 196）。另一些更激进的人则声称从他的“非同一性”概念中汲取灵感，他们认为这可以作为对自然概念进行解构甚至从生态批评写作中消除的基础。例如，蒂莫西·莫顿（Timothy Morton）认为，“把一个被称为自然的东西放在高高的基座上，远远地欣赏它，对环境所做的就像父权制对女性形象所做的那样。这是一种矛盾的虐待式欣赏行为”（Morton 2007, 5），并且“以我们在‘自然’这个概念中所重视的一切为名，\[生态批评]彻底审视了自然如何被建立为一个超验的、统一的、独立的范畴。生态批评并不认为说‘打倒自然！’是矛盾的”（同上，13）。在这方面，一些思想家坚持认为环境伦理学在自然与人造之间划定重要区别是错误的（Vogel 2015）。然而，这样的想法遭到了一些马克思主义理论家的激烈批评，他们认为“自然的终结”论是深深困惑的（例如 Malm 2018）。然而，尚不清楚试图从生态批评工作中清除自然概念的激进尝试是否会取得成功。同样，霍克海默（Horkheimer）和阿多诺（Adorno）着手进行的辩证项目是否连贯，阿多诺是否特别对“自然”和“理性”有一致的理解也尚不清楚（有关法兰克福学派对自然思考的评论，请参见 Eckersley 1992 和 Vogel 1996，有关理性的内容还请参阅关于批判理论的条目）。
 
 另一方面，新动物灵论者受到了一些土著民族通过仪式、典礼和其他实践方式安抚和与动物、植物和无生命物体互动的认真方式的启发（例如参见 Kimmerer 2020）。根据新动物灵论者的观点，传统的灵论（认为动物、植物和其他物质对象中存在着拟人化的灵魂）被一种消除魅力的实证主义所取代，直接导致了一种以人类为中心的观点，这是许多人类对自然破坏的原因。在一个被消除魅力的世界中，事物或事件在人类领域之外没有意义的秩序，也没有被视为由神灵或恶魔居住的自然界所感受到的那种神圣或畏惧的来源（Stone 2006）。当一片森林不再被视为神圣时，就没有灵魂需要安抚，也没有与清除它相关的神秘风险。一个被消除魅力的自然不再有生命。它不值得尊重、崇敬或热爱。它只是一个巨大的机器，被掌控来为人类的目的服务。新动物灵论者主张重新构想人与非人之间的界限。对他们来说，“生命的自然”不仅包括人类、动物和植物，还包括山脉、森林、河流、沙漠，甚至行星。
 
@@ -162,14 +157,13 @@ Lo 2001 提供了对 Callicott 在两个十年内变化立场的概述和评论�
 
 作为“自然”概念被理解为缺乏人为策划，并经常与“人工制品”概念相对立，一个备受争议的问题涉及那些被人类艺术改变的自然部分的价值，例如，先前被破坏的自然环境经过人类修复。基于这样一个前提，即自然演化的属性和与遥远过去具有自然连续性的属性是“增值的”（即为那些具有这两个属性的事物增加内在价值），埃利奥特认为，即使一个完美修复的环境也必然缺乏这两个增值属性，因此比起最初未受破坏的自然环境价值更低。另一方面，卡茨认为，修复后的自然实际上只是为了满足人类目的而设计和创造的人工制品，修复环境的价值是工具性的。他进一步认为，修复是一种“现实的统治”，并有争议地将这种统治与纳粹的仇外主义、本土主义和消灭主义政策进行比较（Katz 2021）。批评者指出，主张自然与人工制品之间的道德二分法的人冒着贬低人类生活和文化价值的风险，并未意识到被人类干预的自然环境可能仍具有除纯自然性之外的道德重要特质（见 Lo 1999，以及卡茨在 Katz 2012 中的回应）。
 
-这场辩论中另外两个核心问题是，关键概念“自然”在许多方面似乎存在歧义（见休谟 1751 年，附录 3; 密尔 1874 年; 布伦南[1988]2014 年; 第 6 章; 艾略特 1997 年，第 4 章），以及那些认为人类干预降低了自然固有价值的人似乎仅仅假定了自然性是固有价值的来源的关键前提。一些思想家认为，自然或“野生”被解释为“未被人类驯化”的东西（赫廷格和思鲁普 1999 年，第 12 页）或在某种程度上“不受人类控制”（同上，第 13 页）具有内在价值。然而，正如伯纳德·威廉姆斯指出的那样（威廉姆斯 1992 年），我们可能需要利用我们的技术力量来保留一种不受我们控制的感觉。因此，保留野生地区可能涉及全球和生态管理以维持，甚至“监禁”这些地区（伯奇 1990 年），这引发了一个问题，即国家公园和荒野地区在多大程度上不受我们控制。有时会用园艺作为类比来探讨恢复的本质（艾利森 2004）。
+这场辩论中另外两个核心问题是，关键概念“自然”在许多方面似乎存在歧义（见休谟 1751 年，附录 3; 密尔 1874 年; 布伦南\[1988]2014 年; 第 6 章; 艾略特 1997 年，第 4 章），以及那些认为人类干预降低了自然固有价值的人似乎仅仅假定了自然性是固有价值的来源的关键前提。一些思想家认为，自然或“野生”被解释为“未被人类驯化”的东西（赫廷格和思鲁普 1999 年，第 12 页）或在某种程度上“不受人类控制”（同上，第 13 页）具有内在价值。然而，正如伯纳德·威廉姆斯指出的那样（威廉姆斯 1992 年），我们可能需要利用我们的技术力量来保留一种不受我们控制的感觉。因此，保留野生地区可能涉及全球和生态管理以维持，甚至“监禁”这些地区（伯奇 1990 年），这引发了一个问题，即国家公园和荒野地区在多大程度上不受我们控制。有时会用园艺作为类比来探讨恢复的本质（艾利森 2004）。
 
 鉴于自然性概念在这些讨论中的重要性，或许令人惊讶的是，在环境思想中对这一概念本身的分析相对较少。在他关于环境伦理学的开创性工作中，Holmes Rolston 使用了多种不同的自然概念（参见 Brennan 和 Lo 2010 年，第 116-23 页，对 Rolston 作品中可能找到的“自然”一词的三种意义的分析）。Siipi 2008 年作出了提供不同类型的概念分析的明确尝试，而将自然性与地点的历史叙事联系起来的描述则见于 O’Neill，Holland 和 Light 2008 年第 8 章（参见 Siipi 2011 年对此的回应）。有关如何从科学政策的角度保护“一种自然，多种表现”的思考，请参阅 Ducarme 和 Couvet 2020。
 
 最后，作为后果主义和义务论的替代方案，两者都认为“薄”概念，如“善良”和“正确性”对道德至关重要，德性伦理学提出了以“厚”概念，如“善良”、“诚实”、“真诚”和“正义”来理解道德，并评估行为的道德质量。这些以及其他出色的品格特质都是美德（见德性伦理学条目）。由于德性伦理学与其他两种伦理理论的语言相去甚远，其理论重点并不在于什么样的事物是好的/坏的，或者什么使得一个行为是对的/错的。事实上，美德的语言之丰富，以及对道德品格的强调，有时被引用为探索基于美德的方法来应对复杂且不断变化的可持续性和环境关怀问题的原因（Hill 1983，Wensveen 2000，Sandler 2007）。德性伦理学一个核心问题是，为何要以某种方式行动的道德理由是什么。例如，从德性伦理学的角度来看，善良和忠诚将是帮助朋友渡过困境的道德理由。这些与义务论者的理由（即行动受到道德规则的要求）或后果主义者的理由（即行动将导致世界上善恶的总体平衡更好）截然不同。从德性伦理学的角度来看，行动的动机和理由与行动者的品格特质是不可分割的。此外，与义务论或后果主义不同，其道德焦点是其他人或世界的状态，德性伦理学的一个核心问题是如何过上一个繁荣的人类生活，这是道德行为者本人的一个核心关注点。“生活得德行”是亚里士多德对繁荣的建议。提倡“仁爱”、“孝顺”、“孝道”和“勇气”等美德的德性伦理学版本也被中国儒家传统思想家所持有。道德与心理学之间的联系是德性伦理学的另一个核心调查主题。有时候会有人建议，构成繁荣人类生活重要方面的人类美德必须与人类的需求和欲望相容，并且可能也要对个体的情感和气质敏感。由于其中心关注点是人类繁荣本身，德性伦理学似乎不可避免地是以人类为中心的，无法支持对非人类环境的真正道德关注。但正如亚里士多德曾经辩称，一个繁荣的人类生活需要友谊，只有当一个人真正珍视、爱护、尊重和关心朋友本身，而不仅仅是因为他们可能给自己带来的好处时，才能拥有真正的友谊，一些人认为，一个繁荣的人类生活需要道德能力来珍视、爱护、尊重和关心非人类自然世界本身，而不仅仅是因为它们可能给自己带来的好处（见 O’Neill 1992，O’Neill 1993，Barry 1999）。不仅亚里士多德，甚至康德也可以支持这样的立场。例如，Toby Svoboda 认为，即使是间接的保护自然的责任也可以成为促进自然事物繁荣的良好道德理由的基础，无论这样做是否促进人类利益（Svoboda 2019）。其他德性伦理学家声称能够解释人们对环境破坏感到内疚以及理解对自然“因其为何而是”产生真正感激的想法。
 
-> 补充文件:
-> [生物多样性保护](https://plato.stanford.edu/entries/ethics-environmental/biodiversity.html)
+> 补充文件: [生物多样性保护](https://plato.stanford.edu/entries/ethics-environmental/biodiversity.html)
 
 ## 野外、建筑环境、贫困和政治
 
@@ -204,7 +198,7 @@ Lo 2001 提供了对 Callicott 在两个十年内变化立场的概述和评论�
 
 这样的警告与对人口增长及其对最贫困人口、生物多样性丧失、淡水短缺、过度消费和气候变化的影响的悲观情绪 resonates。在他们备受争议的作品《人口炸弹》中，保罗和安妮·厄利希（Ehrlich 1968）认为，如果不限制人口增长，包括强制实施计划生育，世界将面临“大规模饥荒”。这一预测并未实现。在对他们早期作品的后续辩护中，厄利希夫妇宣称，他们原始分析中最严重的缺陷“是对未来过于乐观”，并评论说“自《炸弹》写成以来，温室气体流量的增加进入大气层，这是人口几乎翻倍和全球消费几乎翻三倍的结果，表明结果可能是由温室加热引起的灾难性气候紊乱”。1968 年，加勒特·哈丁（Hardin 1968）发表了他备受引用的关于“公地悲剧”的文章，认为共有资源总是会在理性自利的追求面前受到退化和灭绝的影响。对于哈丁来说，对共享资源的压力增加和污染加剧是“人口问题没有技术解决方案”的必然结果。这个问题可以从所谓囚徒困境的角度进行分析。尽管当时的作家们对设定人口增长限制的倡导持悲观态度，但也有一种乐观情绪，这种乐观情绪与密尔的观点相呼应，即“稳态”不会是一个充满痛苦和衰退的状态，而是一个人类可以追求更公平分配有限资源的状态。这不仅在那些认识到经济增长限制的人中（Meadows et al. 1972），也在那些倡导转向稳态经济（Daly 1991）或至少希望在经济学中更多地考虑生态学的人中（Norgaard 1994，Rees 2020）都很明显。
 
-布伦特兰报告对限制的强调不如米尔、马尔萨斯和后来的作家那么强烈。它将可持续性描绘为世界变得更加社会、政治和环境公平的挑战和机遇。为了追求代际正义，它建议应该在标准清单中增加新的人权，例如，“所有人类都有权利获得适合其健康和幸福的环境”（WCED 1987，附件 1，第 1 段）。报告还指出，“享有任何权利都需要尊重他人类似的权利，并承认相互和甚至共同的责任。国家对其公民和其他国家负有责任”（同上，第 12 章，第 83 段）。自报告发布以来，许多作家支持并捍卫了全球和经济[规范]以及经济正义需要那些通过早期工业化和环境开发变得富裕的国家允许较不发达国家类似或相当的发展机会，特别是在获得环境资源方面（Redclift 2005）。正如报告所期望的那样，可持续发展的理念已经被强烈融入到环境保护的概念中。该报告还为一系列随后的国际会议、宣言和议定书奠定了基础，其中许多都强调了对人类未来前景的展望，而不是考虑可持续性的更广泛意义上。
+布伦特兰报告对限制的强调不如米尔、马尔萨斯和后来的作家那么强烈。它将可持续性描绘为世界变得更加社会、政治和环境公平的挑战和机遇。为了追求代际正义，它建议应该在标准清单中增加新的人权，例如，“所有人类都有权利获得适合其健康和幸福的环境”（WCED 1987，附件 1，第 1 段）。报告还指出，“享有任何权利都需要尊重他人类似的权利，并承认相互和甚至共同的责任。国家对其公民和其他国家负有责任”（同上，第 12 章，第 83 段）。自报告发布以来，许多作家支持并捍卫了全球和经济\[规范]以及经济正义需要那些通过早期工业化和环境开发变得富裕的国家允许较不发达国家类似或相当的发展机会，特别是在获得环境资源方面（Redclift 2005）。正如报告所期望的那样，可持续发展的理念已经被强烈融入到环境保护的概念中。该报告还为一系列随后的国际会议、宣言和议定书奠定了基础，其中许多都强调了对人类未来前景的展望，而不是考虑可持续性的更广泛意义上。
 
 一些非人类中心的环境思想家发现报告中使用的经济语言在含义上令人不满，因为它似乎已经假定了一种主要是工具性的自然观。一些作家指出，将“资产”、“资本”以及与自然物体和系统相关的“资源”等概念用于自然事物，被认定为将本质上是野生和自由的自然事物工具化。反对意见是，这种语言促进了将自然事物视为人类的纯粹资源或作为人类劳动可以混合的原材料，不仅用于生产可消费的商品，还用于产生人类所有权（Plumwood 1993，Sagoff 2004）。如果许多环境哲学家所主张的那样，自然物体和系统具有独立于其对人类可能的用途的内在价值，那么可持续性的政策方法需要考虑环境和自然事物不仅仅是工具性的，而且也是内在的，以公正地对待许多人认为这些事物拥有的道德地位。尽管承认存在“道德、伦理、文化、审美和纯粹科学原因来保护野生生物”（WCED 1987，概述，第 53 段），但在布伦特兰报告中贯穿始终的强热心人类中心和工具性语言在阐述可持续发展概念时可以被批评为过于狭隘，几乎没有空间来直接解决关于地球环境及其非人类居民的可持续性问题：人类应该如何重新组织他们的生活方式和社会政治结构，以实现不仅对所有人类而且对地球其他物种的可持续性和公平性？
 
@@ -222,311 +216,310 @@ Meadows’ 和 Daly’s 论述关于需要认识到地球资源是有限的这�
 
 作家们还试图理解为什么关于气候变化和其他灾难的许多错误信息如此普遍。在一些理论家（见 McIntyre 2018）看来，“后真相”时代的罪恶归咎于一些支持社会认识论的后现代思想家。但社会建构主义作家对导致“新气候制度”（Latour 2017）产生的社会力量有自己的诊断，这种制度结合了科学否认主义和被称为“超现实”的对人类摆脱气候灾难的前景产生幻想和过于乐观的思考。对这些认知缺陷的一种建议是鼓励认识到自然系统对人类行为做出反应，而不仅仅是经济发展的物质资源。有人提出，意识到人类和支持他们的自然系统共享一个居所可能为一种新型“地球政治”（Lenton 和 Latour 2018，Latour 2018）铺平道路。这种政治的形式仍未得到充分理论化，可能会采取许多形式（Mann 和 Wainwright 2018）。与此同时，一些动物伦理学家指责“物种主义人类中心主义”（参见有关动物道德地位的条目）使人类对其过度繁殖和否认罪恶视而不见（Almiron 和 Tafalla 2019）。无论未来会带来什么，许多思想家坚持认为解决气候变化问题是可持续性的一个重要组成部分，而果断行动的替代方案可能导致不仅自然和自然系统的恶化，还有人类尊严本身（见 Nanda（编）2011，特别是 Heyd，Balafrej，Gutrich 和 Brennan 和 Lo 的章节，另见有关人权条目的第 3.4 节）。随着人类面临由不断升级的行星加热驱动的生物多样性下降和极端天气事件增多的不确定未来，这些事件导致人类和非人类同样遭受痛苦和疏远，本条目开头列出的道德挑战似乎比以往任何时候都更加紧迫。
 
-> 补充文件:
-> [环境危机的病理学：理论与实证研究](https://plato.stanford.edu/entries/ethics-environmental/theories-research.html)
+> 补充文件: [环境危机的病理学：理论与实证研究](https://plato.stanford.edu/entries/ethics-environmental/theories-research.html)
 
 ## Bibliography
 
-* Aaltola, Elisa, 2021. “Defensive over Climate Change? Climate Shame as a Method of Moral Cultivation”, *Journal of Agricultural and Environmental Ethics*, 34. doi:10.1007/s10806-021-09844-5
-* Almiron, N. and Tafalla, M., 2019. “Rethinking the Ethical Challenge in the Climate Deadlock: Anthropocentrism, Ideological Denial and Animal Liberation”, *Journal of Agricultural and Environmental Ethics*, 32: 255–67.
+* Aaltola, Elisa, 2021. “Defensive over Climate Change? Climate Shame as a Method of Moral Cultivation”, _Journal of Agricultural and Environmental Ethics_, 34. doi:10.1007/s10806-021-09844-5
+* Almiron, N. and Tafalla, M., 2019. “Rethinking the Ethical Challenge in the Climate Deadlock: Anthropocentrism, Ideological Denial and Animal Liberation”, _Journal of Agricultural and Environmental Ethics_, 32: 255–67.
 * Abram, D., 1996. The Spell of the Sensuous, New York: Vintage Books.
-* Agapow, P.M., Bininda-Emonds, O.R.P., Crandall, K.A., and Gittleman, J.L., Mac, G.M., Marshall, J.C. and Purvis, A. 2004. “The impact of species concept on biodiversity studies”, *Quarterly Review of Biology*, 79: 161–79.
-* Agar, N., 2001. *Life’s Intrinsic Value*, New York: Columbia University Press.
-* Aiken, W., 1984. “Ethical Issues in Agriculture”, in T. Regan (ed) *Earthbound: New Introductory Essays in Environmental Ethics*, New York: Random House, pp. 274–88.
-* Akamani, K., 2020. “Integrating Deep Ecology and Adaptive Governance for Sustainable Development: Implications for Protected Areas Management”, *Sustainability*, 12: 5757; doi:10.3990/su12145757
-* Allison, S. K., 2004. “What *Do* We Mean When We Talk About Ecological Restoration?”*Ecological Restoration*, 22: 281-286.
-* Andersson, E., Barthel, S., Borgström, S., Colding, J., Elmqvist, T., Folke, C., Gren, Å., 2014. “Reconnecting cities to the biosphere: stewardship of green infrastructure and urban ecosystem services”. *Ambio*, 43: 445–453.
+* Agapow, P.M., Bininda-Emonds, O.R.P., Crandall, K.A., and Gittleman, J.L., Mac, G.M., Marshall, J.C. and Purvis, A. 2004. “The impact of species concept on biodiversity studies”, _Quarterly Review of Biology_, 79: 161–79.
+* Agar, N., 2001. _Life’s Intrinsic Value_, New York: Columbia University Press.
+* Aiken, W., 1984. “Ethical Issues in Agriculture”, in T. Regan (ed) _Earthbound: New Introductory Essays in Environmental Ethics_, New York: Random House, pp. 274–88.
+* Akamani, K., 2020. “Integrating Deep Ecology and Adaptive Governance for Sustainable Development: Implications for Protected Areas Management”, _Sustainability_, 12: 5757; doi:10.3990/su12145757
+* Allison, S. K., 2004. “What _Do_ We Mean When We Talk About Ecological Restoration?”_Ecological Restoration_, 22: 281-286.
+* Andersson, E., Barthel, S., Borgström, S., Colding, J., Elmqvist, T., Folke, C., Gren, Å., 2014. “Reconnecting cities to the biosphere: stewardship of green infrastructure and urban ecosystem services”. _Ambio_, 43: 445–453.
 * Anker, P. 1999. “From Scepticism to Dogmatism and Back: Remarks on the History of Deep Ecology”, in Witoszek and Brennan 1999, pp. 431–43.
-* Anker, P. and Witoszek, N., 1998. “The Dream of the Biocentric Community and the Structure of Utopias”, *Worldviews*, 2: 239–56.
-* Aquinas, T., *Summa Contra Gentiles*, trans. V. J. Bourke, London: University of Notre Dame Press, 1975.
-* Aristotle, *Politics*, trans. E. Barker, Oxford: Oxford University Press, 1948.
-* Attfield, R., 1987. *A Theory of Value and Obligation*, London: Croom Helm.
-* –––, 1998. “Saving Nature, Feeding People, and Ethics”, *Environmental Values*, 7: 291–304.
-* Attfield, R., 2001. “Christianity”, Chapter 7 in D. Jamieson (ed.), *A Companion to Environmental Philosophy*, Oxford: Blackwell.
-* Barry, J., 1999. *Rethinking Green Politics*, London: Sage.
-* Beckerman, W., 1995. “How Would You Like Your Sustainability, Sir? Weak or Strong? A Reply to my Critics”, *Environmental Values*, 3: 160–79.
-* Beeson, Mark, 2010. “The Coming of Enviromental Authoritarianism”, *Environmental Politics*, 19: 276–94.
-* Bentham, J., 1789. *Introduction to the Principles of Morals and Legislation*, Oxford: Basil Blackwell, 1948.
-* Benton, Ted, 1993. *Natural Relations: Ecology, Animal Rights and Social Justice*, London: Verso.
-* Bernstein, Jay, 2001. *Adorno: Disenchantment and Ethics*, Cambridge: Cambridge University Press.
-* Berry, R. J., 2018. *Environmental Attitudes Through Time,* Cambridge: Cambridge University Press.
-* Biermann, F., and Kim, R.E., 2020. “The Boundaries of the Planetary Boundary Framework: A Critical Appraisal of Approaches to Define a ‘Safe Operating Space’ for Humanity”, *Annual Review of Environment and Resources*, 45: 497–521. doi:10.1146/annurevenviron-012320-080337
-* Birch, T., 1990. “The Incarceration of Wilderness: Wilderness Areas as Prisons”, *Environmental Ethics*, 12: 3–26.
-* Bookchin, M., 1980. *Toward an Ecological Society*, Montreal: Black Rose Books.
-* –––, 1982. *The Ecology of Freedom: The Emergence and Dissolution of Hierarchy*, Palo Alto, CA: Cheshire Books.
-* –––, 1987. “Social Ecology Versus Deep Ecology”, *Green Perspectives: Newsletter of the Green Program Project*, numbers 4, 5; reprinted in Witoszek and Brennan 1999, pp. 281–301.
-* –––, 1990. *The Philosophy of Social Ecology*, Montreal: Black Rose Books.
-* Boyd, Heather, 1999. “Christianity and the environment in the American public”, *Journal for the Scientific Study of Religion*, 38: 36–44.
-* Bradley, B., 2006. ‘Two Concepts of Intrinsic Value’, *Ethical Theory and Moral Practice*, 9: 111–30
-* Brady, E. and Phemister, P. (eds.), 2012. *Human-Environment Relations: Transformative Values in Theory and Practice*, Dordrecht: Springer.
-* Brady, E., 2014. “Aesthetic Value, Ethics and Climate Change”, *Environmental Values*, 23: 551–70
-* Brennan, A., 1984. “The Moral Standing of Natural Objects”, *Environmental Ethics*, 6: 35–56
-* –––, 1995. “Ethics, Ecology and Economics”, *Biodiversity and Conservation*, 4: 798–811.
-* –––, 1998a. “Poverty, Puritanism and Environmental Conflict”, *Environmental Values*, 7: 305–31.
-* –––, 1998b. “Bioregionalism—a Misplaced Project?”, *Worldviews*, 2: 215–37.
+* Anker, P. and Witoszek, N., 1998. “The Dream of the Biocentric Community and the Structure of Utopias”, _Worldviews_, 2: 239–56.
+* Aquinas, T., _Summa Contra Gentiles_, trans. V. J. Bourke, London: University of Notre Dame Press, 1975.
+* Aristotle, _Politics_, trans. E. Barker, Oxford: Oxford University Press, 1948.
+* Attfield, R., 1987. _A Theory of Value and Obligation_, London: Croom Helm.
+* –––, 1998. “Saving Nature, Feeding People, and Ethics”, _Environmental Values_, 7: 291–304.
+* Attfield, R., 2001. “Christianity”, Chapter 7 in D. Jamieson (ed.), _A Companion to Environmental Philosophy_, Oxford: Blackwell.
+* Barry, J., 1999. _Rethinking Green Politics_, London: Sage.
+* Beckerman, W., 1995. “How Would You Like Your Sustainability, Sir? Weak or Strong? A Reply to my Critics”, _Environmental Values_, 3: 160–79.
+* Beeson, Mark, 2010. “The Coming of Enviromental Authoritarianism”, _Environmental Politics_, 19: 276–94.
+* Bentham, J., 1789. _Introduction to the Principles of Morals and Legislation_, Oxford: Basil Blackwell, 1948.
+* Benton, Ted, 1993. _Natural Relations: Ecology, Animal Rights and Social Justice_, London: Verso.
+* Bernstein, Jay, 2001. _Adorno: Disenchantment and Ethics_, Cambridge: Cambridge University Press.
+* Berry, R. J., 2018. _Environmental Attitudes Through Time,_ Cambridge: Cambridge University Press.
+* Biermann, F., and Kim, R.E., 2020. “The Boundaries of the Planetary Boundary Framework: A Critical Appraisal of Approaches to Define a ‘Safe Operating Space’ for Humanity”, _Annual Review of Environment and Resources_, 45: 497–521. doi:10.1146/annurevenviron-012320-080337
+* Birch, T., 1990. “The Incarceration of Wilderness: Wilderness Areas as Prisons”, _Environmental Ethics_, 12: 3–26.
+* Bookchin, M., 1980. _Toward an Ecological Society_, Montreal: Black Rose Books.
+* –––, 1982. _The Ecology of Freedom: The Emergence and Dissolution of Hierarchy_, Palo Alto, CA: Cheshire Books.
+* –––, 1987. “Social Ecology Versus Deep Ecology”, _Green Perspectives: Newsletter of the Green Program Project_, numbers 4, 5; reprinted in Witoszek and Brennan 1999, pp. 281–301.
+* –––, 1990. _The Philosophy of Social Ecology_, Montreal: Black Rose Books.
+* Boyd, Heather, 1999. “Christianity and the environment in the American public”, _Journal for the Scientific Study of Religion_, 38: 36–44.
+* Bradley, B., 2006. ‘Two Concepts of Intrinsic Value’, _Ethical Theory and Moral Practice_, 9: 111–30
+* Brady, E. and Phemister, P. (eds.), 2012. _Human-Environment Relations: Transformative Values in Theory and Practice_, Dordrecht: Springer.
+* Brady, E., 2014. “Aesthetic Value, Ethics and Climate Change”, _Environmental Values_, 23: 551–70
+* Brennan, A., 1984. “The Moral Standing of Natural Objects”, _Environmental Ethics_, 6: 35–56
+* –––, 1995. “Ethics, Ecology and Economics”, _Biodiversity and Conservation_, 4: 798–811.
+* –––, 1998a. “Poverty, Puritanism and Environmental Conflict”, _Environmental Values_, 7: 305–31.
+* –––, 1998b. “Bioregionalism—a Misplaced Project?”, _Worldviews_, 2: 215–37.
 * –––, 1999. “Comment: Pluralism and Deep Ecology”, in Witoszek and Brennan 1999.
-* –––, 2004. “Biodiversity and Agricultural Landscapes: Can the Wicked Policy Problems Be Solved?”, *Pacific Conservation Biology*, 10: 124–44.
-* –––, 2014 [1988]. *Thinking About Nature*, London Routledge.
-* Brennan, A. and Lo, Y.S., 2007. “Two Conceptions of Dignity: Honour and Self-determination”, in N. Lickiss and J. Malpas (eds), *Perspectives on Human Dignity*, Dordrecht: Springer, pp. 43–58.
-* –––, 2010. *Understanding Environmental Philosophy*, London: Routledge.
-* Broome, J., 1992. *Counting the Cost of Global Warming*, Isle of Harris, UK: White Horse Press.
-* –––, 2019. “Against Denialism”, *The Monist*, 102: 110–29.
+* –––, 2004. “Biodiversity and Agricultural Landscapes: Can the Wicked Policy Problems Be Solved?”, _Pacific Conservation Biology_, 10: 124–44.
+* –––, 2014 \[1988]. _Thinking About Nature_, London Routledge.
+* Brennan, A. and Lo, Y.S., 2007. “Two Conceptions of Dignity: Honour and Self-determination”, in N. Lickiss and J. Malpas (eds), _Perspectives on Human Dignity_, Dordrecht: Springer, pp. 43–58.
+* –––, 2010. _Understanding Environmental Philosophy_, London: Routledge.
+* Broome, J., 1992. _Counting the Cost of Global Warming_, Isle of Harris, UK: White Horse Press.
+* –––, 2019. “Against Denialism”, _The Monist_, 102: 110–29.
 * Callicott, J.B., 1980. “Animal Liberation, A Triangular Affair”, reprinted in Callicott 1989, pp. 15–38.
 * –––, 1985. “Intrinsic Value, Quantum Theory, and Environmental Ethics”, reprinted in Callicott 1989, pp. 157–74.
 * –––, 1988. “Animal liberation and Environmental Ethics: Back Together Again”, reprinted in Callicott 1989, pp. 49–59.
-* –––, 1989. *In Defense of the Land Ethic: Essays in Environmental Philosophy*, Albany: SUNY Press.
-* –––, 1991. “The Wilderness Idea Revisited: The Sustainable Development Alternative”, in J. B. Callicott and M.P. Nelson (eds), *The Great New Wilderness Debate*, Athens: University of Georgia Press, pp. 337–66.
-* –––, 1999. *Beyond the Land Ethic: More Essays in Environmental Philosophy*, Albany: SUNY Press.
-* –––, 2013. *Thinking Like a Planet: The Land Ethic and Earth Ethic*, Oxford: Oxford University Press.
-* Callicott, J. Baird, and Ames, Roger T., 1989. *Nature in Asian Traditions of Thought*, Albany: State University of New York Press.
-* Carson, R., 1963. *Silent Spring*, London: Hamish Hamilton.
-* Cheney, J., 1989. “Postmodern Environmental Ethics: Ethics as Bioregional Narrative”, *Environmental Ethics*, 11: 117–34.
-* Clark, J., 1997. “A Social Ecology”, *Capitalism Nature Socialism*, 8: 3–33; reprinted in M. Zimmerman et al., *Environmental Philosophy*, 2nd edition, Englewood Cliffs, NJ: Prentice Hall.
-* Clark, J. and Martin, C., 1996. *Liberty, Equality, Geography: The Social Thought of Elisée Reclus*, Littleton, CO: Aigis Publications.
-* Clark, S.R.L., 1977. *The Moral Status of Animals*, Oxford: Oxford University Press.
-* Cohen, M.P., 1984. *The Pathless Way: John Muir and American Wilderness*, Madison: University of Wisconsin Press.
-* Cohen S., 2001. *States of Denial: Knowing About Atrocities and Suffering*, New York: Wiley.
-* Collins, S., 1974. *A Different Heaven and Earth*, Valley Forge: Judson Press.
-* Crisp, R., 1998. “Animal Liberation is not an Environmental Ethic: A Response to Dale Jamieson”, *Environmental Values*, 7: 476–8.
-* D’Alisa, G., Demaria, F and Kailis, G. (eds.), 2015. *Degrowth: A Vocabulary for a New Era*, London: Routledge.
-* Daly, H. E., 1991. *Steady State Economics*, Washington, DC: Island Press
-* –––, and Farley, J., 2011 *Ecological Economics*, second edition, Washington, D.C.: Island Press.
-* Dasgupta, P., 2001. *Human Well-Being and the Natural Environment*, New York: Oxford University Press
-* d’Eaubonne, F., 1974. *Le Feminisme ou la Mort*, Paris: P. Horay
-* de Shalit, A., 1994. *Why Does Posterity Matter?*, London: Routledge.
-* –––, 1996. “Ruralism or Environmentalism?” *Environmental Values*, 5: 47–58.
-* deLaplante, K. and Picasso, V., 2011. “The Biodiversity-Ecosystem Function Debate in Ecology”, in K. deLaplante, B. Brown and K.A. Peacock (eds.), *Philosophy of Ecology*, Amsterdam: Elsevier.
-* Dereniowska, M., and Matzke, J., 2014. “Introduction: Interdisciplinary Foundations for Environmental and Sustainability Ethics”, *Ethics in Progress*, 5: 7–32.
-* Devall, B., and Sessions, G., 1985. *Deep Ecology: Living as if Nature Mattered*, Salt Lake City: Peregrine Smith.
-* Diesendorf, M. and Hamilton, C., 1997. *Human Ecology, Human Economy*, St Leonards, NSW: Allen and Unwin.
-* Dixon, B., 2017. “Value Pluralism and Consistency Maximisation in the Writings of Aldo Leopold: Moving Beyond Callicott’s Interpretation of the Land Ethic”, *Environmental Values*, 26: 269–95.
-* Dobson, A., 1990. *Green Political Thought*, London: Harper Collins.
-* Dobson, A. (ed.), 1999. *Fairness and Futurity: Essays on Environmental Sustainability and Social Justice*, Oxford: Oxford University Press
-* Dominick, R., 1998. “Capitalism, Communism and Environmental Protection: Lessons from the German Experience”, *Environmental History*, 3: 311–32.
-* Dryzek, J.S., 1997. *The Politics of the Earth: Environmental Discourses*, Oxford: Oxford University Press.
-* Dunlap, R.E, and van Liere, K.D., 1978. “The New Environmental Paradigm: a proposed measuring instrument and preliminary results”, *Journal of Environmental Education*, 9: 10–9.
-* Dunlap, R.E., van Liere, K.D., Mertig, A. and Jones, R.E., 2000. “Measuring Endorsement of the New Ecological Paradigm: a Revised NEP Scale”, *Journal of Social Issues*, 56: 425–42.
-* Du Toit, J.T., and Pettorelli, N., 2019. “The Differences Between Rewilding and Restoring an Ecologically Degraded Landscape”, *Journal of Applied Ecology* 56:2467–2471.
-* Eckberg, D.L. and Blocker, T.J., 1996. “Christianity, environmentalism, and the theoretical problem of fundamentalism”, *Journal for the Scientific Study of Religion*, 35: 343–55.
-* Eckersley, R., 1992. *Environmentalism and Political Theory*, London: UCL Press.
-* Ehrlich, P.R., 1968. *The Population Bomb*, New York: Ballantine Books.
-* Ehrlich, P.R. and Ehrlich, A.H., 2009. “The Population Bomb Revisited”, *Electronic Journal of Sustainable Development*, 1: 63–71.
-* Elliot, R., 1982. “Faking Nature”, *Inquiry* 25: 81–93.
-* –––, 1997. *Faking Nature*, London: Routledge.
-* Elliot, R. and Gare, A. (eds.), 1983. *Environmental Philosophy: A Collection of Readings*, Milton Keynes: Open University Press.
-* Feinberg, J., 1974. “The Rights of Animals and Unborn Generations”, in W. T. Blackstone (ed.), *Philosophy and Environmental Crisis*, Athens: University of Georgia Press, pp. 43–68.
-* Ferré, F., 1996. “Persons in Nature: Toward an Applicable and Unified Environmental Ethics”, *Ethics and the Environment*, 1: 15–25.
-* Ferry, L., 1995. *The New Ecological Order*, trans. C. Volk, Chicago: Chicago University Press.
-* Fox, W., 1984. “Deep Ecology: A New Philosophy of Our Time?” *The Ecologist*, 14: 194–200.
-* –––, 1995. *Toward a transpersonal ecology: Developing new foundations for environmentalism*, Albany: State University Of New York Press.
-* –––, 2007. *A Theory of General Ethics: Human Relationships, Nature and the Built Environment*, Cambridge, Mass: MIT Press.
-* Fraser, C., 2009. *Rewilding the World: Dispatches from the Conservation Revolution*, New York: Metropolitan Books.
-* Freudenstein, J.V., Broe, M.B., Folk, R.A., Sinn, B.T., 2017. “Biodiversity and the Species Concept—Lineages are not Enough”, *Systematic Biology*, 66: 644–656
-* Gaard, G. (ed.), 1993. *Ecofeminism: Women, Animals, Nature*, Philadelphia, PA: Temple University Press.
-* Gardiner, S., 2006. “A Perfect Moral Storm: Climate Change, Intergenerational Ethics and the Problem of Moral Corruption”, *Environmental Values*, 15: 397–413.
-* –––, 2011. *A Perfect Moral Storm: The Ethical Tragedy of Climate Change*, Oxford; Oxford University Press.
-* Gardiner, S., and McKinnon, C. (eds.), 2020. “The Justice and Legitimacy of Geoengineering”, Special Issue, *Critical Review of International Social and Political Philosophy*, 23(5).
-* Garrard, G. (ed.), 2014. *The Oxford Handbook of Ecocriticism*, Oxford: Oxford University Press.
-* Gonzalez, C.G., Atapattu, S., Seck, S.L. (eds.), 2021. *The Cambridge Handbook of Environmental Justice and Sustainable Development*, Cambridge: Cambridge University Press.
-* Goodin, R.E., 1992. *Green Political Theory*, Oxford: Blackwell.
-* Goulson, D., 2021. *Silent Earth: Averting the Insect Apocalypse*, London: Jonathan Cape.
-* Greeley, A.M., 1993. “Religion and attitudes toward the environment”, *Journal for the Scientific Study of Religion*, 32: 19–28.
-* Green, K., 1994. “Freud, Wollstonecraft and Ecofeminism”, *Environmental Ethics*, 16: 117–34.
-* Grey, W., 1993. “Anthropocentrism and Deep Ecology”, *Australialasian Journal of Philosophy*, 71: 463–75.
-* Grosz, E., 1989. *Sexual Subversions*, London: Allen and Unwin.
-* Gruen, L. and Jamieson, D. (eds.), 1994. *Reflecting on Nature*, New York: Oxford University Press.
-* Guha, R., 1989. “Radical American Environmentalism and Wilderness Preservation: A Third World Critique”, *Environmental Ethics*, 11: 71–83.
-* –––, 1996. “Lewis Mumford, the Forgotten American Environmentalist: An Essay in Rehabilitation”, in D. Macauley (ed.), *Minding Nature: The Philosophers of Ecology*, New York: Guilford Press.
+* –––, 1989. _In Defense of the Land Ethic: Essays in Environmental Philosophy_, Albany: SUNY Press.
+* –––, 1991. “The Wilderness Idea Revisited: The Sustainable Development Alternative”, in J. B. Callicott and M.P. Nelson (eds), _The Great New Wilderness Debate_, Athens: University of Georgia Press, pp. 337–66.
+* –––, 1999. _Beyond the Land Ethic: More Essays in Environmental Philosophy_, Albany: SUNY Press.
+* –––, 2013. _Thinking Like a Planet: The Land Ethic and Earth Ethic_, Oxford: Oxford University Press.
+* Callicott, J. Baird, and Ames, Roger T., 1989. _Nature in Asian Traditions of Thought_, Albany: State University of New York Press.
+* Carson, R., 1963. _Silent Spring_, London: Hamish Hamilton.
+* Cheney, J., 1989. “Postmodern Environmental Ethics: Ethics as Bioregional Narrative”, _Environmental Ethics_, 11: 117–34.
+* Clark, J., 1997. “A Social Ecology”, _Capitalism Nature Socialism_, 8: 3–33; reprinted in M. Zimmerman et al., _Environmental Philosophy_, 2nd edition, Englewood Cliffs, NJ: Prentice Hall.
+* Clark, J. and Martin, C., 1996. _Liberty, Equality, Geography: The Social Thought of Elisée Reclus_, Littleton, CO: Aigis Publications.
+* Clark, S.R.L., 1977. _The Moral Status of Animals_, Oxford: Oxford University Press.
+* Cohen, M.P., 1984. _The Pathless Way: John Muir and American Wilderness_, Madison: University of Wisconsin Press.
+* Cohen S., 2001. _States of Denial: Knowing About Atrocities and Suffering_, New York: Wiley.
+* Collins, S., 1974. _A Different Heaven and Earth_, Valley Forge: Judson Press.
+* Crisp, R., 1998. “Animal Liberation is not an Environmental Ethic: A Response to Dale Jamieson”, _Environmental Values_, 7: 476–8.
+* D’Alisa, G., Demaria, F and Kailis, G. (eds.), 2015. _Degrowth: A Vocabulary for a New Era_, London: Routledge.
+* Daly, H. E., 1991. _Steady State Economics_, Washington, DC: Island Press
+* –––, and Farley, J., 2011 _Ecological Economics_, second edition, Washington, D.C.: Island Press.
+* Dasgupta, P., 2001. _Human Well-Being and the Natural Environment_, New York: Oxford University Press
+* d’Eaubonne, F., 1974. _Le Feminisme ou la Mort_, Paris: P. Horay
+* de Shalit, A., 1994. _Why Does Posterity Matter?_, London: Routledge.
+* –––, 1996. “Ruralism or Environmentalism?” _Environmental Values_, 5: 47–58.
+* deLaplante, K. and Picasso, V., 2011. “The Biodiversity-Ecosystem Function Debate in Ecology”, in K. deLaplante, B. Brown and K.A. Peacock (eds.), _Philosophy of Ecology_, Amsterdam: Elsevier.
+* Dereniowska, M., and Matzke, J., 2014. “Introduction: Interdisciplinary Foundations for Environmental and Sustainability Ethics”, _Ethics in Progress_, 5: 7–32.
+* Devall, B., and Sessions, G., 1985. _Deep Ecology: Living as if Nature Mattered_, Salt Lake City: Peregrine Smith.
+* Diesendorf, M. and Hamilton, C., 1997. _Human Ecology, Human Economy_, St Leonards, NSW: Allen and Unwin.
+* Dixon, B., 2017. “Value Pluralism and Consistency Maximisation in the Writings of Aldo Leopold: Moving Beyond Callicott’s Interpretation of the Land Ethic”, _Environmental Values_, 26: 269–95.
+* Dobson, A., 1990. _Green Political Thought_, London: Harper Collins.
+* Dobson, A. (ed.), 1999. _Fairness and Futurity: Essays on Environmental Sustainability and Social Justice_, Oxford: Oxford University Press
+* Dominick, R., 1998. “Capitalism, Communism and Environmental Protection: Lessons from the German Experience”, _Environmental History_, 3: 311–32.
+* Dryzek, J.S., 1997. _The Politics of the Earth: Environmental Discourses_, Oxford: Oxford University Press.
+* Dunlap, R.E, and van Liere, K.D., 1978. “The New Environmental Paradigm: a proposed measuring instrument and preliminary results”, _Journal of Environmental Education_, 9: 10–9.
+* Dunlap, R.E., van Liere, K.D., Mertig, A. and Jones, R.E., 2000. “Measuring Endorsement of the New Ecological Paradigm: a Revised NEP Scale”, _Journal of Social Issues_, 56: 425–42.
+* Du Toit, J.T., and Pettorelli, N., 2019. “The Differences Between Rewilding and Restoring an Ecologically Degraded Landscape”, _Journal of Applied Ecology_ 56:2467–2471.
+* Eckberg, D.L. and Blocker, T.J., 1996. “Christianity, environmentalism, and the theoretical problem of fundamentalism”, _Journal for the Scientific Study of Religion_, 35: 343–55.
+* Eckersley, R., 1992. _Environmentalism and Political Theory_, London: UCL Press.
+* Ehrlich, P.R., 1968. _The Population Bomb_, New York: Ballantine Books.
+* Ehrlich, P.R. and Ehrlich, A.H., 2009. “The Population Bomb Revisited”, _Electronic Journal of Sustainable Development_, 1: 63–71.
+* Elliot, R., 1982. “Faking Nature”, _Inquiry_ 25: 81–93.
+* –––, 1997. _Faking Nature_, London: Routledge.
+* Elliot, R. and Gare, A. (eds.), 1983. _Environmental Philosophy: A Collection of Readings_, Milton Keynes: Open University Press.
+* Feinberg, J., 1974. “The Rights of Animals and Unborn Generations”, in W. T. Blackstone (ed.), _Philosophy and Environmental Crisis_, Athens: University of Georgia Press, pp. 43–68.
+* Ferré, F., 1996. “Persons in Nature: Toward an Applicable and Unified Environmental Ethics”, _Ethics and the Environment_, 1: 15–25.
+* Ferry, L., 1995. _The New Ecological Order_, trans. C. Volk, Chicago: Chicago University Press.
+* Fox, W., 1984. “Deep Ecology: A New Philosophy of Our Time?” _The Ecologist_, 14: 194–200.
+* –––, 1995. _Toward a transpersonal ecology: Developing new foundations for environmentalism_, Albany: State University Of New York Press.
+* –––, 2007. _A Theory of General Ethics: Human Relationships, Nature and the Built Environment_, Cambridge, Mass: MIT Press.
+* Fraser, C., 2009. _Rewilding the World: Dispatches from the Conservation Revolution_, New York: Metropolitan Books.
+* Freudenstein, J.V., Broe, M.B., Folk, R.A., Sinn, B.T., 2017. “Biodiversity and the Species Concept—Lineages are not Enough”, _Systematic Biology_, 66: 644–656
+* Gaard, G. (ed.), 1993. _Ecofeminism: Women, Animals, Nature_, Philadelphia, PA: Temple University Press.
+* Gardiner, S., 2006. “A Perfect Moral Storm: Climate Change, Intergenerational Ethics and the Problem of Moral Corruption”, _Environmental Values_, 15: 397–413.
+* –––, 2011. _A Perfect Moral Storm: The Ethical Tragedy of Climate Change_, Oxford; Oxford University Press.
+* Gardiner, S., and McKinnon, C. (eds.), 2020. “The Justice and Legitimacy of Geoengineering”, Special Issue, _Critical Review of International Social and Political Philosophy_, 23(5).
+* Garrard, G. (ed.), 2014. _The Oxford Handbook of Ecocriticism_, Oxford: Oxford University Press.
+* Gonzalez, C.G., Atapattu, S., Seck, S.L. (eds.), 2021. _The Cambridge Handbook of Environmental Justice and Sustainable Development_, Cambridge: Cambridge University Press.
+* Goodin, R.E., 1992. _Green Political Theory_, Oxford: Blackwell.
+* Goulson, D., 2021. _Silent Earth: Averting the Insect Apocalypse_, London: Jonathan Cape.
+* Greeley, A.M., 1993. “Religion and attitudes toward the environment”, _Journal for the Scientific Study of Religion_, 32: 19–28.
+* Green, K., 1994. “Freud, Wollstonecraft and Ecofeminism”, _Environmental Ethics_, 16: 117–34.
+* Grey, W., 1993. “Anthropocentrism and Deep Ecology”, _Australialasian Journal of Philosophy_, 71: 463–75.
+* Grosz, E., 1989. _Sexual Subversions_, London: Allen and Unwin.
+* Gruen, L. and Jamieson, D. (eds.), 1994. _Reflecting on Nature_, New York: Oxford University Press.
+* Guha, R., 1989. “Radical American Environmentalism and Wilderness Preservation: A Third World Critique”, _Environmental Ethics_, 11: 71–83.
+* –––, 1996. “Lewis Mumford, the Forgotten American Environmentalist: An Essay in Rehabilitation”, in D. Macauley (ed.), _Minding Nature: The Philosophers of Ecology_, New York: Guilford Press.
 * –––, 1999. “Radical American Environmentalism Revisited”, in Witoszek and Brennan (eds.) 1999, pp. 473–9
-* Hardin, G., 1968. “The Tragedy of the Commons”, *Science*, 162: 1243–48.
-* Harvey, G., 2005. *Animism: Respecting the Living World*, New York: Columbia University Press.
-* Hayward, T. and O’Neill, J. (eds.), 1997. *Justice, Property and the Environment: Social and Legal Perspectives*, Aldershot: Ashgate Publishing Co., 1997.
-* Heath, J., 2021. “The Failure of Traditional Environmental Philosophy”, *Res Publica*; [available online](https://doi.org/10.1007/s11158-021-09520-5).
-* Hettinger, N and Throop, B., 1999. “Refocusing Ecocentrism”, *Environmental Ethics*, 21: 3–21
-* Hickel, J., 2020. *Less is More: How Degrowth Will Save the World*, Harmondsworth: Penguin.
-* Hill, Thomas, 1983. “Ideals of Human Excellences and Preserving Natural Environments”, *Environmental Ethics* 5: 211–24.
-* Horkheiner, M. and Adorno, T., 1969. *Dialectic of Enlightenment*, trans. J. Cumming, New York: Seabury Press 1972.
-* Hume, D., 1751. *An Enquiry Concerning the Principles of Morals*, ed. T.L. Beauchamp, Oxford: Oxford University Press, 1998.
-* IPCC, 2021: Summary for Policymakers. In: *Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change* [Masson-Delmotte, V., P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu and B. Zhou (eds.)]. Cambridge University Press, in press, [IPCC 2021 available online](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf)
-* Jackson, T., 2017. *Prosperity without Growth: Foundations for the Economy of Tomorrow*, second edition, London, Routledge.
-* Jamieson, D., 1996. “Intentional Climate Change”, *Climatic Change*, 33: 326–36.
-* –––, 1998. “Animal Liberation is an Environmental Ethic”, *Environmental Values*, 7: 41–57.
-* –––, 2001. *A Companion to Environmental Philosophy*, Oxford: Blackwell 2001.
-* –––, 2002. *Morality’s Progress: Essays on Humans, Other Animals, and the Rest of Nature*, Oxford: Clarendon Press.
-* Kant, I., *Lectures on Ethics*, trans. P. Heath, eds. P. Heath and J.B. Schneewind, Cambridge: Cambridge University Press, 1997.
-* Karliner, J., 1997. *The Corporate Planet*, San Francisco: Sierra Club Books
-* Katz, E., 1991. “Restoration and Redesign: The Ethical Significance of Human Intervention in Nature”, *Restoration and Management Notes*, 9: 90–6.
-* –––, 1997. *Nature as Subject*, New York: Rowman and Littlefield.
-* –––, 2012. “Further Adventures in the Case Against Restoration”, *Environmental Ethics*, 34: 67–97.
-* –––, 2021. “The Holocaust as an Environmental Problem”, *Journal of Genocide Research*, first online 02 June 2021. doi:10.1080/14623528.2021.1924588
-* Kheel, M., 1985. “The Liberation of Nature: A Circular Affair”, *Environmental Ethics*, 7: 135–49
-* Khmara, Y., and Kronenberg, J., 2020. “Degrowth in the Context of Sustainability Transitions: In Search of Common Ground”, *Journal of Cleaner Production*; doi:10.1016/j.jclepro.2020.122072.
-* Kimmerer, R. W., 2020. *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants*, Harmondsworth: Penguin.
-* King, R., 2000. “Environmental Ethics and the Built Environment”, *Environmental Ethics*, 22: 115–31
-* King, Y., 1989a. “The Ecology of Feminism and the Feminism of Ecology”, in J. Plant (ed.), *Healing the Wounds*, Philadelphia: New Society Publishers, 18–28.
-* –––, 1989b. “Healing the Wounds: Feminism, Ecology, and Nature/Culture Dualism”, in A. M. Jaggar and S. R. Bordo (eds.) *Gender/Body/Knowledge: Feminist Reconstruction of Being and Knowing*, New Brunswick: Rutgers University Press, pp. 115–41.
-* Klein, Naomi, 2019. *On Fire: The Burning Case for a Green New Deal*, Harmondsworth: Penguin.
-* Komonen, A., Halme, P., and Kotiaho, J.S., 2019. “Alarmist By Bad Design: Strongly Popularized Unsubstantiated Claims Undermine Credibility of Conservation Science”, *Rethinking Ecology*, 4: 17–19 doi:10.3897/rethinkingecology.4.34440
-* Korten, D., 1999. *The Post-CorporateWorld*, Hartford: Kumarian Press
-* Kramm, M., 2020. “When a River Becomes a Person”, *Journal of Human Development and Capabilities*, 21: 307–319.
-* Ladkin, D., 2005. “Does ‘Restoration’ Necessarily Imply the Domination of Nature?”, *Environmental Values*, 14: 203–19.
-* Lawton, G., 2019. “The rise of real eco-fascism”, *New Scientist*, 243(3243): 24. doi:10.1016/S0262-4079(19)31529-5
-* Latour, Bruno, 2017. *Facing Gaia: Eight Lectures on the New Climatic Regime*, New York: John Wiley and Soins.
-* –––, 2018. *Down to Earth: Politics in the New Climatic Regime*, Paris: Polity.
-* Lenton, T. and Latour, B., 2018. “Gaia 2.0: Could humans add some level of self-awareness to Earth’s self-regulation?”, *Science*, 361: 1066–68
-* Leopold, A., 1949. *A Sand County Almanac*, Oxford: Oxford University Press.
-* Lewandowsky, S., Oberauer, K., 2016. “Motivated Rejection of Science”, *Current Directions in Psychological Science*, 25: 217-222.
-* Lewis, D.K., 1989. “Dispositional Theories of Value”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 63: 113–37.
-* Light, A., 1996. “Callicott and Næss on Pluralism”, *Inquiry*, 39: 273–294.
-* –––, 2001. “The Urban Blindspot in Environmental Ethics”, *Environmental Politics*, 10: 7–35.
-* Light, A. and Katz, E., 1996. *Environmental Pragmatism*, London: Routledge.
-* Light, Andrew and Rolston, Holmes (eds.), 2003. *Environmental Ethics: An Anthology*, Oxford: Blackwell.
-* Light, Andrew and de-Shalit, Avner (eds.), 2003. *Moral and Political Reasoning in Environmental Practice*, Cambridge, MA: MIT Press.
-* List, P. C., 1993. *Radical Environmentalism*, Belmont: Wadsworth.
-* Lo, Y. S., 1999. “Natural and Artifactual: Restored Nature as Subject”, *Environmental Ethics*, 21: 247–66.
-* –––, 2001. “The Land Ethic and Callicott’s Ethical System (1980–2001): An Overview and Critique”, *Inquiry*, 44: 331–58.
-* –––, 2006. “Making and Finding Values in Nature”, *Inquiry*, 49: 123–47.
-* Lo, Y S and Brennan, A., 2013. “The Last Man”, in J. Huss (ed.), *Planet of the Apes and Philosophy*, Chicago: Open Court, pp. 265–78.
-* Luke, Timothy W., 1997. *Ecocritique: Contesting the Politics of Nature, Economy, and Culture*, Minneapolis: University of Minnesota Press.
-* Maier, D.S., 2012. *What’s So Good About Biodiversity? A Call For Better Reasoning About Nature’s Value*, Dordrecht: Springer.
-* Malm, Andreas, 2018. *The Progress of this Storm: Nature and Society in a Warming World*, London: Verso Books.
-* Mann, G., and Wainwright, J., 2018. *Climate Leviathan: A political theory of our planetary future*, London: Verso Books.
-* Mason Dentinger, R.M., Woods, A., 2018. “Introduction to ‘Working Across Species’”, *History and Philosophy of the Life Sciences*, 40(2): 30. doi: 10.1007/s40656-018-0197-y
-* Martinez-Alier, J., 2002. *The Environmentalism of the Poor: A Study of Ecological Conflicts and Valuation*d,. Cheltenham: Edward Elgar.
-* Martinez-Alier, J., Pascal, U., Vivien, F-D., and Zacca, E., 2010. “Sustainable de-growth: Mapping the context, criticisms and future prospects of an emergent paradigm”, *Ecological Economics*, 69: 1741–7
-* Mathews, F., 2003. *For Love of Matter*, Albany: State University of New York Press.
-* –––, 2005. *Reinhabiting Reality: Towards a Recovery of Culture*, Sydney: UNSW Press.
-* –––, 2016. “From biodiversity-based conservation to an ethic of bio-proportionality”, *Biological Conservation*, 200: 140–48.
-* McIntyre, L., 2018. *Post-Truth*, Cambridge: MIT Press.
-* McKinnon, C., 2014. “Climate Change: Against Despair”, *Ethics and the Environment*, 19: 31-48
-* McShane, K., 2014. “The Bearers of Value in Environmental Ethics”, in A. Hiller, R. Ilea and L. Kahn (eds.), *Consequentialism and Environmental Ethics*, New York: Routledge, pp. 17–34.
-* Meadows, D.H., Meadows, D.L., Randers, J., and Behrens, W.W., 1972. *The Limits to Growth*, New York: New American Library. [available online](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf).
-* Mies, M. and Shiva, V., 1993. *Ecofeminism*, London: Zed Books
-* Milgate, M., and Stimson S. C., 2009. *After Adam Smith: A Century of Transformation in Politics and Political Economy*, Princeton: Princeton University Press.
-* Mill, J.S., 1848. *Principles of Political Economy*, in J.M. Robson (ed.), *Collected Works of John Stuart Mill*, Toronto: University of Toronto Press, 1963ff, vol. 2–3; references by book, chapter, and section number.
-* –––, 1874. “On Nature”, in *Three Essays on Religion*, in J.M. Robson (ed.), *Collected Works of John Stuart Mill*, Toronto: University of Toronto Press, 1963ff, vol. 10, pp. 369–489.
-* Millstein, R., 2015. “Re-examining the Darwinian Basis of Aldo Leopold’s Land Ethic”, *Ethics, Policy and Environment*, 18: 301–17.
-* Minteer, B., 2015. “The Perils of De-extinction”, *Minding Nature*, 8: 11–17.
-* Mittermeier, R.A., Mittermeier, C.G., Brooks, T.M., Pilgrim, J.D., Konstant, W.R., da Fonseca, G.A.B. and Kormos, C., 2003. “Wilderness and biodiversity conservation”, *Proceedings of the National Academy of Sciences*, 100: 10309–13.
-* Monbiot, G., 2013. *Feral: Searching for Enchantment on the Frontiers of Rewilding*, London: Allen Lane.
-* Montaigne, M. de, 1991. *The Complete Essays*, trans. M.A. Screech, Harmondworth: Penguin.
-* Morris, James. D. K. and Ruru, Jacinta, 2010. “Giving Voice to Rivers: Legal Personality as a Vehicle for Recognising Indigenous Peoples’ Relationship to Water”, *Australian Indigenous Law Review*, 14: 49–62.
-* Morton, T., 2007. *Ecology without Nature: Rethinking Environmental Aesthetics*, Cambridge, Mass: Harvard University Press.
-* Muir, J., 1916. *A Thousand Mile Walk to the Gulf*, Boston: Houghton Mifflin.
-* Mulgan, T. 2011. *Ethics for a Broken World: Reimagining Philosophy After Catastrophe*, Durham: Acumen.
-* –––, 2017. “How Should Utilitarians Think About the Future?”, *Canadian Journal of Philosophy*, 47: Special Issue: Ethics and Future Generations: 290–312; doi:10.1080/00455091.2017.1279517
-* Mumford, L., 1934. *Technics and Civilization*, London: Secker and Warburg.
-* –––, 1944. *The Condition of Man*, New York: Harcourt, Brace, Jovanovich.
-* –––, 1961. *The City in History*, New York: Harcourt, Brace, Jovanovich
-* Næss, A., 1973. “The Shallow and the Deep, Long-Range Ecology Movement”, *Inquiry*, 16, reprinted in Sessions 1995, pp. 151–5.
-* –––, 1989. *Ecology, Community, Lifestyle*, trans. and ed. D. Rothenberg, Cambridge: Cambridge University Press.
-* Nanda, V. P. (ed.), 2011. *Climate Change and Environmental Ethics*, New Brunswick: Transaction Publishers.
-* Nash, R., 1989. *The Rights of Nature: A History of Environmental Ethics*, Madison, WI: University of Wisconsin Press.
-* ––– (ed.), 1990. *American Environmentalism: Readings in Conservation History*, New York: McGraw-Hill.
-* Newman, J.A., Varner, G., and Linquist, S., 2017. *Defending Biodiversity: Environmental Science and Ethics*, Cambridge: Cambridge University Press.
-* Norgaard, K. M., 2011. “Ch. 27: Climate denial: emotion, psychology, culture and political economy”, in Dryzek, J.S., Norgaard, R.B. and Scholsberg, D. (eds), *The Oxford Handbook of Climate Change and Society*, Oxford: Oxford University Press.
-* Norgaard, R.B., 1994. *Development Betrayed: The End of Progress and a Coevolutionary Revisioning of the Future*, London: Routledge.
-* Norton, B.G. (ed.), 1986. *The Preservation of Species*, Princeton: Princeton University Press.
-* –––, 1987. *Why Preserve Natural Variety*, Princeton: Princeton University Press.
-* –––, 1988. “Commodity, Amenity, and Morality: The Limits of Quantification in Valuing Biodiversity”, in E.O. Wilson (ed.), *Biodiversity*, Washington, D.C.: National Academy of Science Press, pp. 200–5.
-* –––, 1991. *Toward Unity Among Environmentalists*, New York: Oxford University Press.
-* –––, 2005. *Sustainability: a Philosophy of Adaptive ecosystem Management*, Chicago: University of Chicago Press.
-* Norton, B.G., Hutchins, M., Stevens, E. and Maple, T.L. (eds.), 1995. *Ethics on the Ark*, Washington: Smithsonian Institution Press.
-* Novak, B.J., 2018. “De-extinction”, *Genes*, 9: 548. doi:10.3390/genes9110548
-* O’Neill, J., 1992. “The Varieties of Intrinsic Value”, *Monist*, 75: 119–37.
-* –––, 1993. *Ecology, Policy and Politics*, London: Routledge.
-* O’Neill, J., Holland, A. and Light, A., 2008. *Environmental Values*, London: Routledge.
-* Ouderkirk, W. and Hill, J. (eds.), 2002. *Land, Value, Community: Callicott and Environmental*, Albany: State University of New York.
-* Palmer, C., 2003. “Placing Animals in Urban Environmental Ethics”, *Journal of Social Philosophy*, 34: 64–78.
-* Passmore, J., 1974. *Man’s Responsibility for Nature*, London: Duckworth, 2nd edition, 1980.
-* Pew 2018. *Majorities See Government Efforts to Protect the Environment as Insufficient*, Pew Research Center May 14, 2018; [available online](https://www.pewresearch.org/science/2018/05/14/majorities-see-government-efforts-to-protect-the-environment-as-insufficient/).
-* Pike, K.R. and DesRoches, C.T., 2020. “Virtual Consumption, Sustainability, and Human Well-Being.” *Environmental Values*, 29(3): 361–378. doi:10.3197/096327119X15678473650938
-* Plumwood, V., 1993. *Feminism and the Mastery of Nature*, London: Routledge.
+* Hardin, G., 1968. “The Tragedy of the Commons”, _Science_, 162: 1243–48.
+* Harvey, G., 2005. _Animism: Respecting the Living World_, New York: Columbia University Press.
+* Hayward, T. and O’Neill, J. (eds.), 1997. _Justice, Property and the Environment: Social and Legal Perspectives_, Aldershot: Ashgate Publishing Co., 1997.
+* Heath, J., 2021. “The Failure of Traditional Environmental Philosophy”, _Res Publica_; [available online](https://doi.org/10.1007/s11158-021-09520-5).
+* Hettinger, N and Throop, B., 1999. “Refocusing Ecocentrism”, _Environmental Ethics_, 21: 3–21
+* Hickel, J., 2020. _Less is More: How Degrowth Will Save the World_, Harmondsworth: Penguin.
+* Hill, Thomas, 1983. “Ideals of Human Excellences and Preserving Natural Environments”, _Environmental Ethics_ 5: 211–24.
+* Horkheiner, M. and Adorno, T., 1969. _Dialectic of Enlightenment_, trans. J. Cumming, New York: Seabury Press 1972.
+* Hume, D., 1751. _An Enquiry Concerning the Principles of Morals_, ed. T.L. Beauchamp, Oxford: Oxford University Press, 1998.
+* IPCC, 2021: Summary for Policymakers. In: _Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change_ \[Masson-Delmotte, V., P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu and B. Zhou (eds.)]. Cambridge University Press, in press, [IPCC 2021 available online](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC\_AR6\_WGI\_SPM\_final.pdf)
+* Jackson, T., 2017. _Prosperity without Growth: Foundations for the Economy of Tomorrow_, second edition, London, Routledge.
+* Jamieson, D., 1996. “Intentional Climate Change”, _Climatic Change_, 33: 326–36.
+* –––, 1998. “Animal Liberation is an Environmental Ethic”, _Environmental Values_, 7: 41–57.
+* –––, 2001. _A Companion to Environmental Philosophy_, Oxford: Blackwell 2001.
+* –––, 2002. _Morality’s Progress: Essays on Humans, Other Animals, and the Rest of Nature_, Oxford: Clarendon Press.
+* Kant, I., _Lectures on Ethics_, trans. P. Heath, eds. P. Heath and J.B. Schneewind, Cambridge: Cambridge University Press, 1997.
+* Karliner, J., 1997. _The Corporate Planet_, San Francisco: Sierra Club Books
+* Katz, E., 1991. “Restoration and Redesign: The Ethical Significance of Human Intervention in Nature”, _Restoration and Management Notes_, 9: 90–6.
+* –––, 1997. _Nature as Subject_, New York: Rowman and Littlefield.
+* –––, 2012. “Further Adventures in the Case Against Restoration”, _Environmental Ethics_, 34: 67–97.
+* –––, 2021. “The Holocaust as an Environmental Problem”, _Journal of Genocide Research_, first online 02 June 2021. doi:10.1080/14623528.2021.1924588
+* Kheel, M., 1985. “The Liberation of Nature: A Circular Affair”, _Environmental Ethics_, 7: 135–49
+* Khmara, Y., and Kronenberg, J., 2020. “Degrowth in the Context of Sustainability Transitions: In Search of Common Ground”, _Journal of Cleaner Production_; doi:10.1016/j.jclepro.2020.122072.
+* Kimmerer, R. W., 2020. _Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants_, Harmondsworth: Penguin.
+* King, R., 2000. “Environmental Ethics and the Built Environment”, _Environmental Ethics_, 22: 115–31
+* King, Y., 1989a. “The Ecology of Feminism and the Feminism of Ecology”, in J. Plant (ed.), _Healing the Wounds_, Philadelphia: New Society Publishers, 18–28.
+* –––, 1989b. “Healing the Wounds: Feminism, Ecology, and Nature/Culture Dualism”, in A. M. Jaggar and S. R. Bordo (eds.) _Gender/Body/Knowledge: Feminist Reconstruction of Being and Knowing_, New Brunswick: Rutgers University Press, pp. 115–41.
+* Klein, Naomi, 2019. _On Fire: The Burning Case for a Green New Deal_, Harmondsworth: Penguin.
+* Komonen, A., Halme, P., and Kotiaho, J.S., 2019. “Alarmist By Bad Design: Strongly Popularized Unsubstantiated Claims Undermine Credibility of Conservation Science”, _Rethinking Ecology_, 4: 17–19 doi:10.3897/rethinkingecology.4.34440
+* Korten, D., 1999. _The Post-CorporateWorld_, Hartford: Kumarian Press
+* Kramm, M., 2020. “When a River Becomes a Person”, _Journal of Human Development and Capabilities_, 21: 307–319.
+* Ladkin, D., 2005. “Does ‘Restoration’ Necessarily Imply the Domination of Nature?”, _Environmental Values_, 14: 203–19.
+* Lawton, G., 2019. “The rise of real eco-fascism”, _New Scientist_, 243(3243): 24. doi:10.1016/S0262-4079(19)31529-5
+* Latour, Bruno, 2017. _Facing Gaia: Eight Lectures on the New Climatic Regime_, New York: John Wiley and Soins.
+* –––, 2018. _Down to Earth: Politics in the New Climatic Regime_, Paris: Polity.
+* Lenton, T. and Latour, B., 2018. “Gaia 2.0: Could humans add some level of self-awareness to Earth’s self-regulation?”, _Science_, 361: 1066–68
+* Leopold, A., 1949. _A Sand County Almanac_, Oxford: Oxford University Press.
+* Lewandowsky, S., Oberauer, K., 2016. “Motivated Rejection of Science”, _Current Directions in Psychological Science_, 25: 217-222.
+* Lewis, D.K., 1989. “Dispositional Theories of Value”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 63: 113–37.
+* Light, A., 1996. “Callicott and Næss on Pluralism”, _Inquiry_, 39: 273–294.
+* –––, 2001. “The Urban Blindspot in Environmental Ethics”, _Environmental Politics_, 10: 7–35.
+* Light, A. and Katz, E., 1996. _Environmental Pragmatism_, London: Routledge.
+* Light, Andrew and Rolston, Holmes (eds.), 2003. _Environmental Ethics: An Anthology_, Oxford: Blackwell.
+* Light, Andrew and de-Shalit, Avner (eds.), 2003. _Moral and Political Reasoning in Environmental Practice_, Cambridge, MA: MIT Press.
+* List, P. C., 1993. _Radical Environmentalism_, Belmont: Wadsworth.
+* Lo, Y. S., 1999. “Natural and Artifactual: Restored Nature as Subject”, _Environmental Ethics_, 21: 247–66.
+* –––, 2001. “The Land Ethic and Callicott’s Ethical System (1980–2001): An Overview and Critique”, _Inquiry_, 44: 331–58.
+* –––, 2006. “Making and Finding Values in Nature”, _Inquiry_, 49: 123–47.
+* Lo, Y S and Brennan, A., 2013. “The Last Man”, in J. Huss (ed.), _Planet of the Apes and Philosophy_, Chicago: Open Court, pp. 265–78.
+* Luke, Timothy W., 1997. _Ecocritique: Contesting the Politics of Nature, Economy, and Culture_, Minneapolis: University of Minnesota Press.
+* Maier, D.S., 2012. _What’s So Good About Biodiversity? A Call For Better Reasoning About Nature’s Value_, Dordrecht: Springer.
+* Malm, Andreas, 2018. _The Progress of this Storm: Nature and Society in a Warming World_, London: Verso Books.
+* Mann, G., and Wainwright, J., 2018. _Climate Leviathan: A political theory of our planetary future_, London: Verso Books.
+* Mason Dentinger, R.M., Woods, A., 2018. “Introduction to ‘Working Across Species’”, _History and Philosophy of the Life Sciences_, 40(2): 30. doi: 10.1007/s40656-018-0197-y
+* Martinez-Alier, J., 2002. _The Environmentalism of the Poor: A Study of Ecological Conflicts and Valuation_d,. Cheltenham: Edward Elgar.
+* Martinez-Alier, J., Pascal, U., Vivien, F-D., and Zacca, E., 2010. “Sustainable de-growth: Mapping the context, criticisms and future prospects of an emergent paradigm”, _Ecological Economics_, 69: 1741–7
+* Mathews, F., 2003. _For Love of Matter_, Albany: State University of New York Press.
+* –––, 2005. _Reinhabiting Reality: Towards a Recovery of Culture_, Sydney: UNSW Press.
+* –––, 2016. “From biodiversity-based conservation to an ethic of bio-proportionality”, _Biological Conservation_, 200: 140–48.
+* McIntyre, L., 2018. _Post-Truth_, Cambridge: MIT Press.
+* McKinnon, C., 2014. “Climate Change: Against Despair”, _Ethics and the Environment_, 19: 31-48
+* McShane, K., 2014. “The Bearers of Value in Environmental Ethics”, in A. Hiller, R. Ilea and L. Kahn (eds.), _Consequentialism and Environmental Ethics_, New York: Routledge, pp. 17–34.
+* Meadows, D.H., Meadows, D.L., Randers, J., and Behrens, W.W., 1972. _The Limits to Growth_, New York: New American Library. [available online](http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf).
+* Mies, M. and Shiva, V., 1993. _Ecofeminism_, London: Zed Books
+* Milgate, M., and Stimson S. C., 2009. _After Adam Smith: A Century of Transformation in Politics and Political Economy_, Princeton: Princeton University Press.
+* Mill, J.S., 1848. _Principles of Political Economy_, in J.M. Robson (ed.), _Collected Works of John Stuart Mill_, Toronto: University of Toronto Press, 1963ff, vol. 2–3; references by book, chapter, and section number.
+* –––, 1874. “On Nature”, in _Three Essays on Religion_, in J.M. Robson (ed.), _Collected Works of John Stuart Mill_, Toronto: University of Toronto Press, 1963ff, vol. 10, pp. 369–489.
+* Millstein, R., 2015. “Re-examining the Darwinian Basis of Aldo Leopold’s Land Ethic”, _Ethics, Policy and Environment_, 18: 301–17.
+* Minteer, B., 2015. “The Perils of De-extinction”, _Minding Nature_, 8: 11–17.
+* Mittermeier, R.A., Mittermeier, C.G., Brooks, T.M., Pilgrim, J.D., Konstant, W.R., da Fonseca, G.A.B. and Kormos, C., 2003. “Wilderness and biodiversity conservation”, _Proceedings of the National Academy of Sciences_, 100: 10309–13.
+* Monbiot, G., 2013. _Feral: Searching for Enchantment on the Frontiers of Rewilding_, London: Allen Lane.
+* Montaigne, M. de, 1991. _The Complete Essays_, trans. M.A. Screech, Harmondworth: Penguin.
+* Morris, James. D. K. and Ruru, Jacinta, 2010. “Giving Voice to Rivers: Legal Personality as a Vehicle for Recognising Indigenous Peoples’ Relationship to Water”, _Australian Indigenous Law Review_, 14: 49–62.
+* Morton, T., 2007. _Ecology without Nature: Rethinking Environmental Aesthetics_, Cambridge, Mass: Harvard University Press.
+* Muir, J., 1916. _A Thousand Mile Walk to the Gulf_, Boston: Houghton Mifflin.
+* Mulgan, T. 2011. _Ethics for a Broken World: Reimagining Philosophy After Catastrophe_, Durham: Acumen.
+* –––, 2017. “How Should Utilitarians Think About the Future?”, _Canadian Journal of Philosophy_, 47: Special Issue: Ethics and Future Generations: 290–312; doi:10.1080/00455091.2017.1279517
+* Mumford, L., 1934. _Technics and Civilization_, London: Secker and Warburg.
+* –––, 1944. _The Condition of Man_, New York: Harcourt, Brace, Jovanovich.
+* –––, 1961. _The City in History_, New York: Harcourt, Brace, Jovanovich
+* Næss, A., 1973. “The Shallow and the Deep, Long-Range Ecology Movement”, _Inquiry_, 16, reprinted in Sessions 1995, pp. 151–5.
+* –––, 1989. _Ecology, Community, Lifestyle_, trans. and ed. D. Rothenberg, Cambridge: Cambridge University Press.
+* Nanda, V. P. (ed.), 2011. _Climate Change and Environmental Ethics_, New Brunswick: Transaction Publishers.
+* Nash, R., 1989. _The Rights of Nature: A History of Environmental Ethics_, Madison, WI: University of Wisconsin Press.
+* ––– (ed.), 1990. _American Environmentalism: Readings in Conservation History_, New York: McGraw-Hill.
+* Newman, J.A., Varner, G., and Linquist, S., 2017. _Defending Biodiversity: Environmental Science and Ethics_, Cambridge: Cambridge University Press.
+* Norgaard, K. M., 2011. “Ch. 27: Climate denial: emotion, psychology, culture and political economy”, in Dryzek, J.S., Norgaard, R.B. and Scholsberg, D. (eds), _The Oxford Handbook of Climate Change and Society_, Oxford: Oxford University Press.
+* Norgaard, R.B., 1994. _Development Betrayed: The End of Progress and a Coevolutionary Revisioning of the Future_, London: Routledge.
+* Norton, B.G. (ed.), 1986. _The Preservation of Species_, Princeton: Princeton University Press.
+* –––, 1987. _Why Preserve Natural Variety_, Princeton: Princeton University Press.
+* –––, 1988. “Commodity, Amenity, and Morality: The Limits of Quantification in Valuing Biodiversity”, in E.O. Wilson (ed.), _Biodiversity_, Washington, D.C.: National Academy of Science Press, pp. 200–5.
+* –––, 1991. _Toward Unity Among Environmentalists_, New York: Oxford University Press.
+* –––, 2005. _Sustainability: a Philosophy of Adaptive ecosystem Management_, Chicago: University of Chicago Press.
+* Norton, B.G., Hutchins, M., Stevens, E. and Maple, T.L. (eds.), 1995. _Ethics on the Ark_, Washington: Smithsonian Institution Press.
+* Novak, B.J., 2018. “De-extinction”, _Genes_, 9: 548. doi:10.3390/genes9110548
+* O’Neill, J., 1992. “The Varieties of Intrinsic Value”, _Monist_, 75: 119–37.
+* –––, 1993. _Ecology, Policy and Politics_, London: Routledge.
+* O’Neill, J., Holland, A. and Light, A., 2008. _Environmental Values_, London: Routledge.
+* Ouderkirk, W. and Hill, J. (eds.), 2002. _Land, Value, Community: Callicott and Environmental_, Albany: State University of New York.
+* Palmer, C., 2003. “Placing Animals in Urban Environmental Ethics”, _Journal of Social Philosophy_, 34: 64–78.
+* Passmore, J., 1974. _Man’s Responsibility for Nature_, London: Duckworth, 2nd edition, 1980.
+* Pew 2018. _Majorities See Government Efforts to Protect the Environment as Insufficient_, Pew Research Center May 14, 2018; [available online](https://www.pewresearch.org/science/2018/05/14/majorities-see-government-efforts-to-protect-the-environment-as-insufficient/).
+* Pike, K.R. and DesRoches, C.T., 2020. “Virtual Consumption, Sustainability, and Human Well-Being.” _Environmental Values_, 29(3): 361–378. doi:10.3197/096327119X15678473650938
+* Plumwood, V., 1993. _Feminism and the Mastery of Nature_, London: Routledge.
 * –––, 1999. “Comments: Self-Realization and Man Apart? The Reed-Næss Debate”, in Witoszek and Brennan (eds.) 1999, pp. 206–10.
-* –––, 2002. *Environmental Culture*, London: Routledge
-* Porter, G. and Brown, J.W., 1991. *Global Environmental Politics*, Boulder: Westview Press.
-* Poushter, J, and Huang, C., 2019. “Climate Change Still Seen as the Top Global Threat, but Cyberattacks a Rising Concern”, *Pew Research Center Report*, February 2019; [available online](https://www.pewresearch.org/global/2019/02/10/climate-change-still-seen-as-the-top-global-threat-but-cyberattacks-a-rising-concern/)
-* Redclift, M., 2005. “Sustainable Development (1987–2005): An Oxymoron Comes of Age”, *Sustainable Development*, 13: 212–27.
-* Rees, W.E., 1992. “Ecological footprints and appropriated carrying capacity: What urban economics leaves out”, *Environment and Urbanization*, 4: 121–130.
-* –––, 2020. “Ecological economics for humanity’s plague phase”, *Ecological Economics* 169: doi:10.1016/j.ecolecon.2019.106519
-* Regan, T., 1983. *The Case for Animal Rights*, London: Routledge and Kegan Paul.
-* Regan, T. and Singer, P. (eds.), 1976. *Animal Rights and Human Obligations*, Englewood Cliffs: Prentice Hall.
-* Richards, R., 2010. *The Species Problem: A Philosophical Analysis*, Cambridge: Cambridge University Press.
-* Rockström, J., Steffen, W., Noone, K., Persson, Å. *et al*., 2009. “Planetary boundaries: exploring the safe operating space for humanity”, *Ecology and Society*, 14: 32. Available [Rockström et al. available online](https://www.ecologyandsociety.org/vol14/iss2/art32/)
-* Rolston, H., 1975. “Is There an Ecological Ethic?”, *Ethics*, 85: 93–109.
-* –––, 1988. *Environmental Ethics: Duties to and Values in the Natural World*, Indiana: Temple University Press.
-* –––, 1989. *Philosophy Gone Wild*, New York: Prometheus Books.
-* –––, 1996. “Feeding People versus Saving Nature?”, in W. Aiken and H. LaFollette (eds.) *World Hunger and Morality*, Englewood Cliffs: Prentice Hall, pp. 248–67
-* Rousseau, J.J., 1782. *Reveries of the Solitary Walker*, trans. P. France, Penguin Books, 1979.
-* Routley, R., 1973. “Is there a need for a new, an environmental ethic?” *Proceedings of the 15th World congress of Philosophy*, 1: 205–10, Sophia: Sophia Press (see also Sylvan, R.).
-* Routley, R. and Routley, V., 1980. “Human Chauvinism and Environmental Ethics” in Mannison, D., McRobbie, M.A., and Routley, R. (eds.) *Environmental Philosophy*, Canberra: Australian National University, Research School of Social Sciences, pp. 96–189.
-* Sagoff, M., 1984. “Animal Liberation and Environmental Ethics: Bad Marriage, Quick Divorce”, *Osgoode Hall Law Journal*, 22: 297–307.
-* –––, 1988. *The Economy of the Earth*, Cambridge: Cambridge University Press.
+* –––, 2002. _Environmental Culture_, London: Routledge
+* Porter, G. and Brown, J.W., 1991. _Global Environmental Politics_, Boulder: Westview Press.
+* Poushter, J, and Huang, C., 2019. “Climate Change Still Seen as the Top Global Threat, but Cyberattacks a Rising Concern”, _Pew Research Center Report_, February 2019; [available online](https://www.pewresearch.org/global/2019/02/10/climate-change-still-seen-as-the-top-global-threat-but-cyberattacks-a-rising-concern/)
+* Redclift, M., 2005. “Sustainable Development (1987–2005): An Oxymoron Comes of Age”, _Sustainable Development_, 13: 212–27.
+* Rees, W.E., 1992. “Ecological footprints and appropriated carrying capacity: What urban economics leaves out”, _Environment and Urbanization_, 4: 121–130.
+* –––, 2020. “Ecological economics for humanity’s plague phase”, _Ecological Economics_ 169: doi:10.1016/j.ecolecon.2019.106519
+* Regan, T., 1983. _The Case for Animal Rights_, London: Routledge and Kegan Paul.
+* Regan, T. and Singer, P. (eds.), 1976. _Animal Rights and Human Obligations_, Englewood Cliffs: Prentice Hall.
+* Richards, R., 2010. _The Species Problem: A Philosophical Analysis_, Cambridge: Cambridge University Press.
+* Rockström, J., Steffen, W., Noone, K., Persson, Å. _et al_., 2009. “Planetary boundaries: exploring the safe operating space for humanity”, _Ecology and Society_, 14: 32. Available [Rockström et al. available online](https://www.ecologyandsociety.org/vol14/iss2/art32/)
+* Rolston, H., 1975. “Is There an Ecological Ethic?”, _Ethics_, 85: 93–109.
+* –––, 1988. _Environmental Ethics: Duties to and Values in the Natural World_, Indiana: Temple University Press.
+* –––, 1989. _Philosophy Gone Wild_, New York: Prometheus Books.
+* –––, 1996. “Feeding People versus Saving Nature?”, in W. Aiken and H. LaFollette (eds.) _World Hunger and Morality_, Englewood Cliffs: Prentice Hall, pp. 248–67
+* Rousseau, J.J., 1782. _Reveries of the Solitary Walker_, trans. P. France, Penguin Books, 1979.
+* Routley, R., 1973. “Is there a need for a new, an environmental ethic?” _Proceedings of the 15th World congress of Philosophy_, 1: 205–10, Sophia: Sophia Press (see also Sylvan, R.).
+* Routley, R. and Routley, V., 1980. “Human Chauvinism and Environmental Ethics” in Mannison, D., McRobbie, M.A., and Routley, R. (eds.) _Environmental Philosophy_, Canberra: Australian National University, Research School of Social Sciences, pp. 96–189.
+* Sagoff, M., 1984. “Animal Liberation and Environmental Ethics: Bad Marriage, Quick Divorce”, _Osgoode Hall Law Journal_, 22: 297–307.
+* –––, 1988. _The Economy of the Earth_, Cambridge: Cambridge University Press.
 * –––, 2001. “Consumption”, in Jamieson 2001.
-* Sánchez-Bayo, F., and Wyckhuys, K.A.G., 2019. “ Worldwide decline of the entomofauna: A review of its drivers”, *Biological Conservation*, 232: 8–27.
-* Sandler, R., 2007. *Character and Environment: A Virtue-Oriented Approach to Environmental Ethics*, New York: Columbia University Press.
-* Sarkar, S., 2005. *Biodiversity and Environmental Philosophy: An Introduction*, Cambridge: Cambridge University Press.
-* Schmidtz, D. and Willott, E., 2002. *Environmental Ethics: What Really Matters, What Really Works*, New York: Oxford University Press.
-* Sessions, G. (ed.), 1995. *Deep Ecology for the 21st Century*, Boston: Shambhala 1995.
-* Shahar, D.C., 2015. “Rejecting Eco-Authoritarianism, Again”. *Environmental Values*, 24: 345-366
-* Shaiko, R.G., 1987. “Religion, politics, and environmental concern: A powerful mix of passions”, *Social Science Quarterly*, 68: 244–262.
-* Shrader-Frechette, K., 1984. *Science Policy, Ethics and Economic Methodology*, Dordrecht: D Reidel
-* –––, 1987. “The real risks of risk-cost-benefit analysis”, in P.T. Durbin (ed.), *Technology and Responsibility*, Dordrecht: D Reidel, pp. 343–57.
-* –––, 1996. “Individualism, Holism, and Environmental Ethics”, *Ethics and the Environment*, 1: 55–69.
-* –––, 2002. *Environmental Justice: Creating Equality, Reclaiming Democracy*, Oxford: Oxford University Press.
+* Sánchez-Bayo, F., and Wyckhuys, K.A.G., 2019. “ Worldwide decline of the entomofauna: A review of its drivers”, _Biological Conservation_, 232: 8–27.
+* Sandler, R., 2007. _Character and Environment: A Virtue-Oriented Approach to Environmental Ethics_, New York: Columbia University Press.
+* Sarkar, S., 2005. _Biodiversity and Environmental Philosophy: An Introduction_, Cambridge: Cambridge University Press.
+* Schmidtz, D. and Willott, E., 2002. _Environmental Ethics: What Really Matters, What Really Works_, New York: Oxford University Press.
+* Sessions, G. (ed.), 1995. _Deep Ecology for the 21st Century_, Boston: Shambhala 1995.
+* Shahar, D.C., 2015. “Rejecting Eco-Authoritarianism, Again”. _Environmental Values_, 24: 345-366
+* Shaiko, R.G., 1987. “Religion, politics, and environmental concern: A powerful mix of passions”, _Social Science Quarterly_, 68: 244–262.
+* Shrader-Frechette, K., 1984. _Science Policy, Ethics and Economic Methodology_, Dordrecht: D Reidel
+* –––, 1987. “The real risks of risk-cost-benefit analysis”, in P.T. Durbin (ed.), _Technology and Responsibility_, Dordrecht: D Reidel, pp. 343–57.
+* –––, 1996. “Individualism, Holism, and Environmental Ethics”, _Ethics and the Environment_, 1: 55–69.
+* –––, 2002. _Environmental Justice: Creating Equality, Reclaiming Democracy_, Oxford: Oxford University Press.
 * Shue, H., 2001. “Climate”, in Jamieson 2001.
-* Siipi, H., 2008. “Dimensions of Naturalness”, *Ethics and the Environment*, 13: 71–103.
-* –––, 2011. “Non Backward-Looking Naturalness as an Environmental Value”, *Ethics, Policy and the Environment*, 14: 329–44.
-* Siipi, H. and Finkelman, L., 2017. “The Extinction and De-extinction of Species”, *Philosophy and Technology* 30: 427-441.
-* Singer, P., 1975. *Animal Liberation*, New York: Random House.
-* –––, 1993. *Practical Ethics*, Cambridge: Cambridge University Press, 2nd edition.
-* Sneddon, C., Howarth , R. and Norgaard R. B., 2006. “Sustainable Development in a Post-Brundtland World”, *Ecological Economics*, 57: 253–68.
-* Stone, A., 2006. “Adorno and the Disenchantment of Nature”, *Philosophy and Social Criticism*, 32: 231–253.
-* Stone, C.D., 1972. “Should Trees Have Standing?”, *Southern California Law Review*, 45: 450–501; later published with a descriptive introduction as *Should Trees Have Standing?*, Los Angeles: Kaufmann, 1974, and reprinted in Schmidtz and Willott 2002.
-* Stretton, H., 1976. *Capitalism, Socialism and the Environment*, Cambridge: Cambridge University Press.
-* Svoboda, T., 2019. *Duties Regarding Nature: A Kantian Environmental Ethic*, London, Routledge.
-* Sylvan, R. and Bennett, D., 1994. *The Greening of Ethics*, Cambridge: White Horse Press.
-* Taylor, B. and Zimmerman, M., 2005. “Deep Ecology”, in B. Taylor (ed.), *The Encyclopaedia of Religion and Nature*, London: Continuum.
-* Taylor, B., Van Wieren, G. and Zaleha, B. D., 2016. “Lynn White jr, and the greening-of-religion hypothesis”, *Conservation Biology*, 30: 1000-1009
-* Taylor, P., 1981. “The Ethics of Respect for Nature”, *Environmental Ethics*, 3: 197–218.
-* –––, 1986. *Respect for Nature*, Princeton: Princeton University Press.
-* Thayer, Jr., R.L., 2003. *LifePlace: Bioregional Thought and Practice*, Berkeley: University of California Press.
+* Siipi, H., 2008. “Dimensions of Naturalness”, _Ethics and the Environment_, 13: 71–103.
+* –––, 2011. “Non Backward-Looking Naturalness as an Environmental Value”, _Ethics, Policy and the Environment_, 14: 329–44.
+* Siipi, H. and Finkelman, L., 2017. “The Extinction and De-extinction of Species”, _Philosophy and Technology_ 30: 427-441.
+* Singer, P., 1975. _Animal Liberation_, New York: Random House.
+* –––, 1993. _Practical Ethics_, Cambridge: Cambridge University Press, 2nd edition.
+* Sneddon, C., Howarth , R. and Norgaard R. B., 2006. “Sustainable Development in a Post-Brundtland World”, _Ecological Economics_, 57: 253–68.
+* Stone, A., 2006. “Adorno and the Disenchantment of Nature”, _Philosophy and Social Criticism_, 32: 231–253.
+* Stone, C.D., 1972. “Should Trees Have Standing?”, _Southern California Law Review_, 45: 450–501; later published with a descriptive introduction as _Should Trees Have Standing?_, Los Angeles: Kaufmann, 1974, and reprinted in Schmidtz and Willott 2002.
+* Stretton, H., 1976. _Capitalism, Socialism and the Environment_, Cambridge: Cambridge University Press.
+* Svoboda, T., 2019. _Duties Regarding Nature: A Kantian Environmental Ethic_, London, Routledge.
+* Sylvan, R. and Bennett, D., 1994. _The Greening of Ethics_, Cambridge: White Horse Press.
+* Taylor, B. and Zimmerman, M., 2005. “Deep Ecology”, in B. Taylor (ed.), _The Encyclopaedia of Religion and Nature_, London: Continuum.
+* Taylor, B., Van Wieren, G. and Zaleha, B. D., 2016. “Lynn White jr, and the greening-of-religion hypothesis”, _Conservation Biology_, 30: 1000-1009
+* Taylor, P., 1981. “The Ethics of Respect for Nature”, _Environmental Ethics_, 3: 197–218.
+* –––, 1986. _Respect for Nature_, Princeton: Princeton University Press.
+* Thayer, Jr., R.L., 2003. _LifePlace: Bioregional Thought and Practice_, Berkeley: University of California Press.
 * Thompson, P., 2001. “Land and Water”, in Jamieson 2001.
-* Tilman, D., 2000. “Causes, consequences and ethics of biodiversity”, *Nature*, 405: 208–11.
-* UN, 1992. *The Convention on Biological Diversity*, United Nations. [available online](http://www.cbd.int/intro/default.shtml).
-* Van der Sluijs, J.P., Vaage, N.S., 2016. “Pollinators and Global Food Security: the Need for Holistic Global Stewardship”, *Food Ethics*, 1: 75–91; doi:10.1007/s41055-016-0003-z
-* Van Wyck, P.C., 1997. *Primitives in the Wilderness: Deep Ecology and the Missing Human Subject*, New York: SUNY Press.
-* Varner, G., 1998. *In Nature’s Interests? Interests, Animal Rights, and Environmental Ethics*, Oxford: Oxford University Press
-* –––, 2000. “Sentientism”, in D. Jamieson (ed.) *A Companion to Environmental Philosophy*, Oxford: Blackwell, pp. 192–203.
-* Vogel, S., 1996. *Against Nature: The Concept of Nature in Critical Theory*, Albany: State University of New York Press.
-* –––, 2015. *Thinking Like a Mall: Environmental Philosophy After the End of Nature*, Boston: MIT Press
-* Wackernagel, M., Galli, A., Hanscom, L., Lin, D., Mailhes, L., Drummond, T., 2018. “Ecological Footprint Accounts: Principles”, in *Routledge Handbook of Sustainability Indicators*, Simon Bell and Stephen Morse (eds.), London: Routledge, ch. 16.
-* Wagner-Egger, P, Delouvée, S., Gauvrit, N., Dieguez, S., 2018, “Creationism and conspiracism share a common teleological bias”, *Current Biology*, 28: R847–R870. [available online](https://www.cell.com/action/showPdf?pii=S0960-9822%2818%2930863-7)
-* Warren, K.J., 1987. “Feminism and Ecology: Making Connections”, *Environmental Ethics*, 9: 3–21.
-* –––, 1990. “The Power and Promise of Ecological Feminism”, *Environmental Ethics*, 12: 125–46.
+* Tilman, D., 2000. “Causes, consequences and ethics of biodiversity”, _Nature_, 405: 208–11.
+* UN, 1992. _The Convention on Biological Diversity_, United Nations. [available online](http://www.cbd.int/intro/default.shtml).
+* Van der Sluijs, J.P., Vaage, N.S., 2016. “Pollinators and Global Food Security: the Need for Holistic Global Stewardship”, _Food Ethics_, 1: 75–91; doi:10.1007/s41055-016-0003-z
+* Van Wyck, P.C., 1997. _Primitives in the Wilderness: Deep Ecology and the Missing Human Subject_, New York: SUNY Press.
+* Varner, G., 1998. _In Nature’s Interests? Interests, Animal Rights, and Environmental Ethics_, Oxford: Oxford University Press
+* –––, 2000. “Sentientism”, in D. Jamieson (ed.) _A Companion to Environmental Philosophy_, Oxford: Blackwell, pp. 192–203.
+* Vogel, S., 1996. _Against Nature: The Concept of Nature in Critical Theory_, Albany: State University of New York Press.
+* –––, 2015. _Thinking Like a Mall: Environmental Philosophy After the End of Nature_, Boston: MIT Press
+* Wackernagel, M., Galli, A., Hanscom, L., Lin, D., Mailhes, L., Drummond, T., 2018. “Ecological Footprint Accounts: Principles”, in _Routledge Handbook of Sustainability Indicators_, Simon Bell and Stephen Morse (eds.), London: Routledge, ch. 16.
+* Wagner-Egger, P, Delouvée, S., Gauvrit, N., Dieguez, S., 2018, “Creationism and conspiracism share a common teleological bias”, _Current Biology_, 28: R847–R870. [available online](https://www.cell.com/action/showPdf?pii=S0960-9822%2818%2930863-7)
+* Warren, K.J., 1987. “Feminism and Ecology: Making Connections”, _Environmental Ethics_, 9: 3–21.
+* –––, 1990. “The Power and Promise of Ecological Feminism”, _Environmental Ethics_, 12: 125–46.
 * –––, 1999. “Ecofeminist Philosophy and Deep Ecology”, in Witoszek and Brennan (eds.) 1999, pp. 255–69.
-* Warren, K.J. (ed.), 1994. *Ecological Feminism*, London: Routledge.
-* Washington, H., and Maloney, M., 2020. “The need for ecological ethics in a new ecological economics”, *Ecological Economics*, 169; doi:10.1016/j.ecolecon.2019.106478
-* WCED 1987. *Our Common Future*, United Nations General Assembly, Report of the World Commission on Environment and Development. [WCED 1987 available online](http://www.un-documents.net/wced-ocf.htm).
-* Wensveen, Louke van, 2000. *Dirty Virtues: The Emergence of Ecological Virtue Ethics*, Amherst, NY: Humanity.
-* White, K., 2015. “How Similar Are Indigenous North American and Leopoldian Environmental Ethics?”, *SSRN*, revised version published online 3 Jun 2015. doi:10.2139/ssrn.2022038
-* White, L., 1967. “The Historical Roots of Our Ecological Crisis”, *Science*, 155: 1203–7; reprinted in Schmidtz and Willott 2002.
-* Whitney, E., 1993. “Lynn White, Ecotheology, and History.” *Environmental Ethics*, 15: 151–69.
-* Williams, B., 1992. “Must a Concern for the Environment be Centred on Human Beings?”, reprinted in his *Making Sense of Humanity and Other Philosophical Papers*, Cambridge: Cambridge University Press, 1995: 233–40.
-* Wilson, E.O., 1992. *The Diversity of Life*, Cambridge, MA: Harvard University Press.
-* Witoszek, N., 1997. “Arne Næss and the Norwegian Nature Tradition”, *Worldviews*, 1: 57–73.
-* Witoszek, N. and Brennan, A. (eds.), 1999. *Philosophical Dialogues: Arne Næss and the Progress of Eco-Philosophy*, New York: Rowan and Littlefield.
-* Woodrum, E. and Hoban, T., 1994. “Theology and religiosity effects on environmentalism”, *Review of Religious Research*, 35: 193–206.
-* Zaheva, B.D. and Szasz, A., 2015. “Why conservative Christians don’t believe in climate change”, *Bulletin of the Atomic Scientists*. doi:10.1177/0096340215599789
-* Zimmerman, M., 1994. *Contesting Earth’s Future: Radical Ecology and Postmodernity*, Berkeley, CA: University of California Press.
+* Warren, K.J. (ed.), 1994. _Ecological Feminism_, London: Routledge.
+* Washington, H., and Maloney, M., 2020. “The need for ecological ethics in a new ecological economics”, _Ecological Economics_, 169; doi:10.1016/j.ecolecon.2019.106478
+* WCED 1987. _Our Common Future_, United Nations General Assembly, Report of the World Commission on Environment and Development. [WCED 1987 available online](http://www.un-documents.net/wced-ocf.htm).
+* Wensveen, Louke van, 2000. _Dirty Virtues: The Emergence of Ecological Virtue Ethics_, Amherst, NY: Humanity.
+* White, K., 2015. “How Similar Are Indigenous North American and Leopoldian Environmental Ethics?”, _SSRN_, revised version published online 3 Jun 2015. doi:10.2139/ssrn.2022038
+* White, L., 1967. “The Historical Roots of Our Ecological Crisis”, _Science_, 155: 1203–7; reprinted in Schmidtz and Willott 2002.
+* Whitney, E., 1993. “Lynn White, Ecotheology, and History.” _Environmental Ethics_, 15: 151–69.
+* Williams, B., 1992. “Must a Concern for the Environment be Centred on Human Beings?”, reprinted in his _Making Sense of Humanity and Other Philosophical Papers_, Cambridge: Cambridge University Press, 1995: 233–40.
+* Wilson, E.O., 1992. _The Diversity of Life_, Cambridge, MA: Harvard University Press.
+* Witoszek, N., 1997. “Arne Næss and the Norwegian Nature Tradition”, _Worldviews_, 1: 57–73.
+* Witoszek, N. and Brennan, A. (eds.), 1999. _Philosophical Dialogues: Arne Næss and the Progress of Eco-Philosophy_, New York: Rowan and Littlefield.
+* Woodrum, E. and Hoban, T., 1994. “Theology and religiosity effects on environmentalism”, _Review of Religious Research_, 35: 193–206.
+* Zaheva, B.D. and Szasz, A., 2015. “Why conservative Christians don’t believe in climate change”, _Bulletin of the Atomic Scientists_. doi:10.1177/0096340215599789
+* Zimmerman, M., 1994. _Contesting Earth’s Future: Radical Ecology and Postmodernity_, Berkeley, CA: University of California Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ethics-environmental). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ethics-environmental/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ethics-environmental&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/ethics-environmental/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ethics-environmental).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ethics-environmental/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ethics-environmental\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/ethics-environmental/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -534,16 +527,16 @@ Meadows’ 和 Daly’s 论述关于需要认识到地球资源是有限的这�
 * [International Association for Environmental Philosophy (IAEP)](http://www.environmentalphilosophy.org/)
 * [Center for Environmental Philosophy](http://www.cep.unt.edu/)
 * [Centre for Applied Ethics](http://www.ethics.ubc.ca/resources/environmental/)
-* Schwartz, P. and Randall, D., 2003. “[An Abrupt Climate Change Scenario and its Implications for United States National Security](http://www.climate.org/PDF/clim_change_scenario.pdf), download from climate.org.
+* Schwartz, P. and Randall, D., 2003. “[An Abrupt Climate Change Scenario and its Implications for United States National Security](http://www.climate.org/PDF/clim\_change\_scenario.pdf), download from climate.org.
 
 ## Related Entries
 
-[aesthetics: environmental](https://plato.stanford.edu/entries/environmental-aesthetics/) | [animals, moral status of](https://plato.stanford.edu/entries/moral-animal/) | [communitarianism](https://plato.stanford.edu/entries/communitarianism/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [critical theory](https://plato.stanford.edu/entries/critical-theory/) | [ecology](https://plato.stanford.edu/entries/ecology/) | [ecology: biodiversity](https://plato.stanford.edu/entries/biodiversity/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [feminist philosophy, interventions: ethics](https://plato.stanford.edu/entries/feminism-ethics/) | [globalization](https://plato.stanford.edu/entries/globalization/) | [justice: intergenerational](https://plato.stanford.edu/entries/justice-intergenerational/) | [metaethics](https://plato.stanford.edu/entries/metaethics/) | [panpsychism](https://plato.stanford.edu/entries/panpsychism/) | [respect](https://plato.stanford.edu/entries/respect/) | [value: intrinsic vs. extrinsic](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/)
+[aesthetics: environmental](https://plato.stanford.edu/entries/environmental-aesthetics/) | [animals, moral status of](https://plato.stanford.edu/entries/moral-animal/) | [communitarianism](https://plato.stanford.edu/entries/communitarianism/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [critical theory](https://plato.stanford.edu/entries/critical-theory/) | [ecology](https://plato.stanford.edu/entries/ecology/) | [ecology: biodiversity](https://plato.stanford.edu/entries/biodiversity/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [feminist philosophy, interventions: ethics](https://plato.stanford.edu/entries/feminism-ethics/) | [globalization](https://plato.stanford.edu/entries/globalization/) | [justice: intergenerational](https://plato.stanford.edu/entries/justice-intergenerational/) | [metaethics](https://plato.stanford.edu/entries/metaethics/) | [panpsychism](https://plato.stanford.edu/entries/panpsychism/) | [respect](https://plato.stanford.edu/entries/respect/) | [value: intrinsic vs. extrinsic](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/)
 
 ### Acknowledgments
 
 The authors are deeply grateful to the following people who gave generously of their time and advice to help shape the final structure of this entry: Clare Palmer, Mauro Grün, Lori Gruen, Gary Varner, William Throop, Patrick O’Donnell, Thomas Heyd, Dale Jamieson and Edward N. Zalta.
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Andrew Brennan](http://www.latrobe.edu.au/humanities/about/staff/profile?uname=ABrennan) <[*A.Brennan@latrobe.edu.au*](mailto:A%2eBrennan%40latrobe%2eedu%2eau)>  
-[Norva Y. S. Lo](https://norvalo.weebly.com/) <[*norvayslo@gmail.com*](mailto:norvayslo%40gmail%2ecom)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Andrew Brennan](http://www.latrobe.edu.au/humanities/about/staff/profile?uname=ABrennan) <[_A.Brennan@latrobe.edu.au_](mailto:A%2eBrennan%40latrobe%2eedu%2eau)>\
+[Norva Y. S. Lo](https://norvalo.weebly.com/) <[_norvayslo@gmail.com_](mailto:norvayslo%40gmail%2ecom)>

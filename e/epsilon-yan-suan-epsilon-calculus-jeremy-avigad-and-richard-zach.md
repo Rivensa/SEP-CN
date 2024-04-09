@@ -1,22 +1,22 @@
 # Epsilon 演算 epsilon calculus (Jeremy Avigad and Richard Zach)
 
-*首次发表于 2002 年 5 月 3 日星期五；实质性修订于 2019 年 5 月 6 日星期一*
+_首次发表于 2002 年 5 月 3 日星期五；实质性修订于 2019 年 5 月 6 日星期一_
 
 ε演算是由 David Hilbert 在数学基础研究中开发的逻辑形式主义。ε运算符是一个术语形成运算符，它取代了普通谓词逻辑中的量词。具体来说，在演算中，术语εxA 表示满足 A(x)的某个 x，如果存在的话。在 Hilbert 的计划中，ε术语扮演着理想元素的角色；Hilbert 的有限一致性证明的目的是提供一种从形式证明中去除这些术语的过程。这一过程的实施基于 Hilbert 的ε替换方法。然而，ε演算在其他情境中也有应用。ε演算的第一个普遍应用是在 Hilbert 的ε定理中，这进而为 Herbrand 定理的第一个正确证明提供了基础。最近，ε运算符的变体已被应用于语言学和语言哲学中，以处理指代代词。
 
-* [ 概览](https://plato.stanford.edu/entries/epsilon-calculus/#Over)
+* [概览](https://plato.stanford.edu/entries/epsilon-calculus/#Over)
 * [2. The Epsilon Calculus2. Epsilon 演算](https://plato.stanford.edu/entries/epsilon-calculus/#EpsiCalc)
 * [3. Epsilon 定理](https://plato.stanford.edu/entries/epsilon-calculus/#EpsiTheo)
-* [ 4. Herbrand’s Theorem4. 赫布兰定理](https://plato.stanford.edu/entries/epsilon-calculus/#HerbTheo)
+* [4. Herbrand’s Theorem4. 赫布兰定理](https://plato.stanford.edu/entries/epsilon-calculus/#HerbTheo)
 * [5. The Epsilon Substitution Method and Arithmetic5. ε替换法和算术](https://plato.stanford.edu/entries/epsilon-calculus/#EpsiSubsMethArit)
 * [更近期的发展](https://plato.stanford.edu/entries/epsilon-calculus/#ReceDeve)
 * [7. 语言学、哲学和非经典逻辑中的 Epsilon 运算符](https://plato.stanford.edu/entries/epsilon-calculus/#EpsiOperLingPhilNonClasLogi)
-* [ 参考文献](https://plato.stanford.edu/entries/epsilon-calculus/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epsilon-calculus/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/epsilon-calculus/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/epsilon-calculus/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/epsilon-calculus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epsilon-calculus/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/epsilon-calculus/#Rel)
 
----
+***
 
 ## 概览
 
@@ -98,10 +98,8 @@ Herbrand 定理。 (1) 如果且仅如果存在 AH 矩阵的实例的析取式�
 
 (2) 如果且仅如果存在 A 的矩阵实例的析取⋁jBj，使得⋁jBj 是准重言式，并且 A 可以从⋁jBj 中使用以下规则推导出
 
-* 从 C1∨…∨Ci(t)∨…∨Cm
-  得出 C1∨…∨∃xCi(x)∨…∨Cm
-* 从 C1∨…∨Ci(x)∨…∨Cm
-  得出 C1∨…∨∀xCi(x)∨…∨Cm（如果 x 不在 Cj 中，其中 j≠i）
+* 从 C1∨…∨Ci(t)∨…∨Cm 得出 C1∨…∨∃xCi(x)∨…∨Cm
+* 从 C1∨…∨Ci(x)∨…∨Cm 得出 C1∨…∨∀xCi(x)∨…∨Cm（如果 x 不在 Cj 中，其中 j≠i）
 
 以及∨的幂等性（从 C∨C∨D 推出 C∨D）。
 
@@ -120,16 +118,16 @@ Herbrand 定理及相关方法的一个引人注目的应用可在 Luckhardt（1
 * 将ε演算扩展，以便表示更大部分的数学。
 * 使用有限方法，证明扩展系统中的每个证明都有一致的解释。
 
-考虑算术语言，其中包括符号 0, 1, +, ×, <。除了定义基本符号的量词自由公理外，可以指定 epsilon 项 εxA(x) 挑选出满足 A 的最小值，如果存在的话，具有以下公理：(*)A(x)→A(εxA(x))∧εxA(x)≤x 结果是一个足够强大的系统，可以解释一阶（Peano）算术。或者，可以将 epsilon 符号视为满足以下公理的符号：A(y)→A(εxA(x))∧εxA(x)≠y+1.
+考虑算术语言，其中包括符号 0, 1, +, ×, <。除了定义基本符号的量词自由公理外，可以指定 epsilon 项 εxA(x) 挑选出满足 A 的最小值，如果存在的话，具有以下公理：(\*)A(x)→A(εxA(x))∧εxA(x)≤x 结果是一个足够强大的系统，可以解释一阶（Peano）算术。或者，可以将 epsilon 符号视为满足以下公理的符号：A(y)→A(εxA(x))∧εxA(x)≠y+1.
 
-换句话说，如果存在任何满足 A(y) 的见证 y，则 ε 项返回一个其前任没有相同属性的值。显然，由 () 描述的 ε 项满足替代公理；反之，可以检查给定 A，满足替代公理的 εx(∃z≤xA(x)) 的值可用于解释 εxA(x) 在 () 中。可以进一步通过要求如果没有 A 的见证，则 ε 项返回 0 的公理 εxA(x)≠0→A(εxA(x)) 来确定 ε 项的含义。然而，在下面的讨论中，集中于 (*) 是最方便的。
+换句话说，如果存在任何满足 A(y) 的见证 y，则 ε 项返回一个其前任没有相同属性的值。显然，由 () 描述的 ε 项满足替代公理；反之，可以检查给定 A，满足替代公理的 εx(∃z≤xA(x)) 的值可用于解释 εxA(x) 在 () 中。可以进一步通过要求如果没有 A 的见证，则 ε 项返回 0 的公理 εxA(x)≠0→A(εxA(x)) 来确定 ε 项的含义。然而，在下面的讨论中，集中于 (\*) 是最方便的。
 
 假设我们希望表明上述系统是一致的；换句话说，我们希望表明没有证明公式 0=1。通过将所有替换推到公理，并用常数 0 替换自由变量，我们只需表明从一组封闭公理的有限集合中没有命题证明 0=1。为此，只需表明，对于任何一组封闭公理的有限集合，可以以某种方式为术语分配数值，以便在解释下所有公理都为真。由于算术运算 + 和 × 可以以通常的方式解释，唯一的困难在于找到适当的值来分配给 epsilon 项。
 
 希尔伯特的ε替换方法大致可以描述如下：
 
 * 给定一组有限的公理集，从将所有的ε项解释为 0 开始。
-* 在解释下述公理(*)时找到一个例子，该例子在解释下是错误的。只有当存在一个术语 t，使得在解释中 A(t)为真，但是 A(εxA(x))为假或者 t 的值小于εxA(x)的值时，才会发生这种情况。
+* 在解释下述公理(\*)时找到一个例子，该例子在解释下是错误的。只有当存在一个术语 t，使得在解释中 A(t)为真，但是 A(εxA(x))为假或者 t 的值小于εxA(x)的值时，才会发生这种情况。
 * 将“修复”分配给εxA(x)的值为 t，并重复这个过程。
 
 一旦以有限接受的方式展示了这个连续“修复”过程终止，就获得了一个有限一致性证明。如果是这样，所有关键公式都是没有ε项的真公式。
@@ -213,106 +211,106 @@ Ackermann 的程序应用于二阶算术系统，其中，然而，二阶项被�
 
 ## Bibliography
 
-* Aguilera, J.P., Baaz, M., 2019, ‘Unsound inferences make proofs shorter’. *Journal of Symbolic Logic* 84: 102–122.
-* Ackermann, W., 1924, ‘Begründung des ’’tertium non datur’’ mittels der Hilbertschen Theorie der Widerspruchsfreiheit’, *Mathematische Annalen*, 93: 1–36.
-* –––, 1937–38, ‘Mengentheoretische Begründung der Logik’, *Mathematische Annalen*, 115: 1–22.
-* –––, 1940, ‘Zur Widerspruchsfreiheit der Zahlentheorie’, *Mathematische Annalen*, 117: 162–194.
-* Arai, T., 2002, ‘Epsilon substitution method for theories of jump hierarchies’, *Archive for Mathematical Logic*, 2: 123–153.
-* –––, 2003, ‘Epsilon substitution method for ID1(Π01∨Σ01)’, *Annals of Pure and Applied Logic*, 121: 163–208.
-* –––, 2006, ‘Epsilon substitution method for Π02-FIX. *Journal of Symbolic Logic* 71: 1155–1188
-* Avigad, J., 2002a, ‘Saturated models of universal theories’, *Annals of Pure and Applied Logic*, 118: 219–234.
-* –––, 2002b, ‘Update procedures and the 1-consistency of arithmetic’, *Mathematical Logic Quarterly*, 48: 3–13.
-* Baaz, M., Leitsch, A., Lolic, A., 2018, ‘A sequent-calculus based formulation of the extended first epsilon theorem’, in: Artemov, S., Nerode, A. (eds.), *Logical Foundations of Computer Science*, Berlin: Springer, 55–71.
-* Bell, J. L., 1993a. ‘Hilbert’s epsilon-operator and classical logic’, *Journal of Philosophical Logic*, 22: 1–18.
-* –––, 1993b. ‘Hilbert’s epsilon operator in intuitionistic type theories’, *Mathematical Logic Quarterly*, 39: 323–337.
-* Bellotti, L., 2016, ‘Von Neumann’s consistency proof’, *Review of Symbolic Logic*, 9: 429–455.
-* Bourbaki, N., 1958, *Theorie des ensembles*, Paris: Hermann.
-* Buss, S., 1995, ‘On Herbrand’s theorem’, *Logic and Computational Complexity* (Lecture Notes in Computer Science 960), Berlin: Springer, 195–209.
-* ––– 1998, ‘Introduction to proof theory’, in: Buss (ed.), *The Handbook of Proof Theory*, Amsterdam: North-Holland, 1–78.
-* Chierchia, G., 1992. ‘Anaphora and dynamic logic’. *Linguistics and Philosophy*, 15: 111–183.
-* Davis, M., and R. Fechter, 1991, ‘A free variable version of the first-order predicate calculus’, *Journal of Logic and Computation*, 1: 431–451.
-* DeVidi, D., 1995. ‘Intuitionistic ε- and τ-calculi’, *Mathematical Logic Quarterly* 41: 523–546.
-* Egli, U., von Heusinger, K., 1995, ‘The epsilon operator and E-type pronouns’, in U. Egli *et al*. (eds.), *Lexical Knowledge in the Organization of Language*, Amsterdam: Benjamins, 121–141 (Current Issues in Linguistic Theory 114).
-* Evans, G., 1980, ‘Pronouns’, *Linguistic Inquiry*, 11: 337–362.
-* Ewald, W. B. (ed.), 1996, *From Kant to Hilbert. A Source Book in the Foundations of Mathematics*, Vol. 2, Oxford: Oxford University Press.
-* Ferrari, P. L., 1987, ‘A note on a proof of Hilbert’s second ε-theorem’, *Journal of Symbolic Logic*, 52: 214–215.
-* Fine, K., 1985. *Reasoning with Arbitrary Objects*, Oxford: Blackwell.
-* Fitting, M., 1975. ‘A modal logic epsilon-calculus’, *Notre Dame Journal of Formal Logic*, 16: 1–16.
-* Flannagan, T. B., 1975, ‘On an extension of Hilbert’s second ε-theorem’, *Journal of Symbolic Logic*, 40: 393–397.
-* Girard, J.-Y., 1982, ‘Herbrand’s theorem and proof theory’, *Proceedings of the Herbrand Symposium*, Amsterdam: North-Holland, 29-38.
-* Herbrand, J., 1930, *Recherches sur la thèorie de la dèmonstration*, *Dissertation*, University of Paris. English translation in Herbrand 1971, pp. 44–202.
-* –––, 1971, *Logical Writings*, W. Goldfarb (ed.), Cambridge, Mass.: Harvard University Press.
-* Hilbert, D., 1922, ‘Neubegründung der Mathematik: Erste Mitteilung’, *Abhandlungen aus dem Seminar der Hamburgischen Universität*, 1: 157–177, English translation in Mancosu, 1998, 198–214 and Ewald, 1996, 1115–1134.
-* –––, 1923, ‘Die logischen Grundlagen der Mathematik’, *Mathematische Annalen*, 88: 151–165, English translation in Ewald, 1996, 1134–1148.
-* Hilbert, D., Bernays, P., 1934, *Grundlagen der Mathematik*, Vol. 1, Berlin: Springer.
-* –––, 1939, *Grundlagen der Mathematik*, Vol. 2, Berlin: Springer.
+* Aguilera, J.P., Baaz, M., 2019, ‘Unsound inferences make proofs shorter’. _Journal of Symbolic Logic_ 84: 102–122.
+* Ackermann, W., 1924, ‘Begründung des ’’tertium non datur’’ mittels der Hilbertschen Theorie der Widerspruchsfreiheit’, _Mathematische Annalen_, 93: 1–36.
+* –––, 1937–38, ‘Mengentheoretische Begründung der Logik’, _Mathematische Annalen_, 115: 1–22.
+* –––, 1940, ‘Zur Widerspruchsfreiheit der Zahlentheorie’, _Mathematische Annalen_, 117: 162–194.
+* Arai, T., 2002, ‘Epsilon substitution method for theories of jump hierarchies’, _Archive for Mathematical Logic_, 2: 123–153.
+* –––, 2003, ‘Epsilon substitution method for ID1(Π01∨Σ01)’, _Annals of Pure and Applied Logic_, 121: 163–208.
+* –––, 2006, ‘Epsilon substitution method for Π02-FIX. _Journal of Symbolic Logic_ 71: 1155–1188
+* Avigad, J., 2002a, ‘Saturated models of universal theories’, _Annals of Pure and Applied Logic_, 118: 219–234.
+* –––, 2002b, ‘Update procedures and the 1-consistency of arithmetic’, _Mathematical Logic Quarterly_, 48: 3–13.
+* Baaz, M., Leitsch, A., Lolic, A., 2018, ‘A sequent-calculus based formulation of the extended first epsilon theorem’, in: Artemov, S., Nerode, A. (eds.), _Logical Foundations of Computer Science_, Berlin: Springer, 55–71.
+* Bell, J. L., 1993a. ‘Hilbert’s epsilon-operator and classical logic’, _Journal of Philosophical Logic_, 22: 1–18.
+* –––, 1993b. ‘Hilbert’s epsilon operator in intuitionistic type theories’, _Mathematical Logic Quarterly_, 39: 323–337.
+* Bellotti, L., 2016, ‘Von Neumann’s consistency proof’, _Review of Symbolic Logic_, 9: 429–455.
+* Bourbaki, N., 1958, _Theorie des ensembles_, Paris: Hermann.
+* Buss, S., 1995, ‘On Herbrand’s theorem’, _Logic and Computational Complexity_ (Lecture Notes in Computer Science 960), Berlin: Springer, 195–209.
+* ––– 1998, ‘Introduction to proof theory’, in: Buss (ed.), _The Handbook of Proof Theory_, Amsterdam: North-Holland, 1–78.
+* Chierchia, G., 1992. ‘Anaphora and dynamic logic’. _Linguistics and Philosophy_, 15: 111–183.
+* Davis, M., and R. Fechter, 1991, ‘A free variable version of the first-order predicate calculus’, _Journal of Logic and Computation_, 1: 431–451.
+* DeVidi, D., 1995. ‘Intuitionistic ε- and τ-calculi’, _Mathematical Logic Quarterly_ 41: 523–546.
+* Egli, U., von Heusinger, K., 1995, ‘The epsilon operator and E-type pronouns’, in U. Egli _et al_. (eds.), _Lexical Knowledge in the Organization of Language_, Amsterdam: Benjamins, 121–141 (Current Issues in Linguistic Theory 114).
+* Evans, G., 1980, ‘Pronouns’, _Linguistic Inquiry_, 11: 337–362.
+* Ewald, W. B. (ed.), 1996, _From Kant to Hilbert. A Source Book in the Foundations of Mathematics_, Vol. 2, Oxford: Oxford University Press.
+* Ferrari, P. L., 1987, ‘A note on a proof of Hilbert’s second ε-theorem’, _Journal of Symbolic Logic_, 52: 214–215.
+* Fine, K., 1985. _Reasoning with Arbitrary Objects_, Oxford: Blackwell.
+* Fitting, M., 1975. ‘A modal logic epsilon-calculus’, _Notre Dame Journal of Formal Logic_, 16: 1–16.
+* Flannagan, T. B., 1975, ‘On an extension of Hilbert’s second ε-theorem’, _Journal of Symbolic Logic_, 40: 393–397.
+* Girard, J.-Y., 1982, ‘Herbrand’s theorem and proof theory’, _Proceedings of the Herbrand Symposium_, Amsterdam: North-Holland, 29-38.
+* Herbrand, J., 1930, _Recherches sur la thèorie de la dèmonstration_, _Dissertation_, University of Paris. English translation in Herbrand 1971, pp. 44–202.
+* –––, 1971, _Logical Writings_, W. Goldfarb (ed.), Cambridge, Mass.: Harvard University Press.
+* Hilbert, D., 1922, ‘Neubegründung der Mathematik: Erste Mitteilung’, _Abhandlungen aus dem Seminar der Hamburgischen Universität_, 1: 157–177, English translation in Mancosu, 1998, 198–214 and Ewald, 1996, 1115–1134.
+* –––, 1923, ‘Die logischen Grundlagen der Mathematik’, _Mathematische Annalen_, 88: 151–165, English translation in Ewald, 1996, 1134–1148.
+* Hilbert, D., Bernays, P., 1934, _Grundlagen der Mathematik_, Vol. 1, Berlin: Springer.
+* –––, 1939, _Grundlagen der Mathematik_, Vol. 2, Berlin: Springer.
 * –––, 1970, ‘Grundlagen der Mathematik’, Vol. 2, 2nd, edition, Berlin: Springer, Supplement V.
-* Hintikka, J., Kulas, J., 1985. *Anaphora and Definite Descriptions: Two Applications of Game-Theoretical Semantics*, Dordrecht: Reidel.
-* Kempson, R., Meyer Viol, W., and Gabbay, D., 2001.  *Dynamic Syntax: The Flow of Language Understanding*, Oxford: Blackwell.
-* Kreisel, G, 1951, ‘On the interpretation of non-finitist proofs – part I’, *Journal of Symbolic Logic*, 16: 241–267.
-* Leisenring, A. C., 1969, *Mathematical Logic and Hilbert’s Epsilon-Symbol*, London: Macdonald.
-* Luckhardt, H., 1989, ‘Herbrand-Analysen zweier Beweise des Satzes von Roth: Polynomiale Anzahlschranken’, *Journal of Symbolic Logic*, 54: 234–263.
-* Maehara, S., 1955, ‘The predicate calculus with ε-symbol’, *Journal of the Mathematical Society of Japan*, 7: 323–344.
-* –––, 1957, ‘Equality axiom on Hilbert’s ε-symbol’, *Journal of the Faculty of Science*, University of Tokyo, Section 1, 7: 419–435.
-* Mancosu, P. (ed.), 1998, *From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s*, Oxford: Oxford University Press.
-* Meyer Viol, W. P. M., 1995a, *Instantial Logic. An Investigation into Reasoning with Instances*, Ph.D. thesis, University of Utrecht. ILLC Dissertation Series 1995–11.
-* –––, 1995b. ‘A proof-theoretic treatment of assignments’, *Bulletin of the IGPL*, 3: 223–243.
-* Mints, G., 1994, ‘Gentzen-type systems and Hilbert’s epsilon substitution method. I’, *Logic, Methodology and Philosophy of Science, IX* (Uppsala, 1991), Amsterdam: North-Holland, 91-122.
-* –––, 1996, ‘Strong termination for the epsilon substitution method’, *Journal of Symbolic Logic*, 61: 1193–1205.
-* –––, 2001, ‘The epsilon substitution method and continuity’, in W. Sieg *et al*. (eds.), *Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman*, Lecture Notes in Logic 15, Association for Symbolic Logic.
-* –––, 2008, ‘Cut Elimination for a simple formulation of epsilon calculus’, *Annals of Pure and Applied Logic*,152 (1–3): 148–160.
-* –––, 2013. ‘Epsilon substitution for first- and second-order predicate logic’, *Annals of Pure and Applied Logic*, 164: 733–739.
-* –––, 2015. ‘Non-deterministic epsilon substitution method for PA and ID1’, in: Kahle, R., Rathjen, M. (Eds.), *Gentzen’s Centenary: The Quest for Consistency*. Berlin: Springer, pp. 479–500.
-* Mints, G., Tupailo, S., 1999, ‘Epsilon-substitution method for the ramified language and Δ11-comprehension rule’, in A. Cantini *et al*. (eds.), *Logic and Foundations of Mathematics* (Florence, 1995), Dordrecht: Kluwer, 107–130.
-* Mints, G., Tupailo, S., Buchholz, W., 1996, ‘Epsilon substitution method for elementary analysis’, *Archive for Mathematical Logic*, 35: 103–130.
-* Moser, G., 2006, ‘Ackermann’s substitution method (remixed)’, *Annals of Pure and Applied Logic*, 142 (1–3): 1–18.
-* Moser, G. and R. Zach, 2006, ‘The epsilon calculus and Herbrand complexity’, *Studia Logica*, 82(1): 133–155.
-* Mostowski, A., 1963. ‘The Hilbert epsilon function in many-valued logics’, *Acta Philosophica Fennica*, 16: 169–188.
-* Neale, S., 1990, *Descriptions*, Cambridge, MA: MIT Press.
-* Reinhart, T., 1992. ‘Wh-in-situ: An apparent paradox’. In: P. Dekker and M. Stokhof (eds.). *Proceedings of the Eighth Amsterdam Colloquium*, December 17–20, 1991. ILLC. University of Amsterdam, 483–491.
-* –––, 1997. ‘Quantifier scope: How labor is divided between QR and choice functions’. *Linguistics and Philosophy*, 20: 335–397.
-* Shirai, K., 1971, ‘Intuitionistic predicate calculus with ε-symbol’, *Annals of the Japan Association for Philosophy of Science* 4: 49–67.
-* Sieg, W., 1991, ‘Herbrand analyses’, *Archive for Mathematical Logic*, 30: 409–441.
-* Slater, B. H., 1986, ‘E-type pronouns and ε-terms’, *Canadian Journal of Philosophy*, 16: 27–38.
-* –––, 1988, ‘Hilbertian reference’, *Noûs*, 22: 283–97.
-* –––, 1994, ‘The epsilon calculus’ problematic’, *Philosophical Papers*, 23: 217–42.
-* –––, 2000, ‘Quantifier/variable-binding’, *Linguistics and Philosophy*, 23: 309–21.
-* Tait, W. W., 1960, ‘The substitution method.’ *Journal of Symbolic Logic*, 30: 175–192.
-* –––, 1965, ‘Functionals defined by transfinite recursion,’ *Journal of Symbolic Logic*, 30: 155–174.
-* –––, 2010. ‘The substitution method revisited.’ in: S. Feferman and W. Sieg (eds.), *Proofs, Categories and Computations: Essays in Honor of Grigori Mints*, London: College Publications, pp. 131–14.
-* von Heusinger, K., 1994, Review of Neale (1990). *Linguistics* 32: 378–385.
-* –––, 1997. ‘Definite descriptions and choice functions’. In: S. Akama (ed.). *Logic, Language and Computation*, Dordrecht: Kluwer, 61–91.
+* Hintikka, J., Kulas, J., 1985. _Anaphora and Definite Descriptions: Two Applications of Game-Theoretical Semantics_, Dordrecht: Reidel.
+* Kempson, R., Meyer Viol, W., and Gabbay, D., 2001.  _Dynamic Syntax: The Flow of Language Understanding_, Oxford: Blackwell.
+* Kreisel, G, 1951, ‘On the interpretation of non-finitist proofs – part I’, _Journal of Symbolic Logic_, 16: 241–267.
+* Leisenring, A. C., 1969, _Mathematical Logic and Hilbert’s Epsilon-Symbol_, London: Macdonald.
+* Luckhardt, H., 1989, ‘Herbrand-Analysen zweier Beweise des Satzes von Roth: Polynomiale Anzahlschranken’, _Journal of Symbolic Logic_, 54: 234–263.
+* Maehara, S., 1955, ‘The predicate calculus with ε-symbol’, _Journal of the Mathematical Society of Japan_, 7: 323–344.
+* –––, 1957, ‘Equality axiom on Hilbert’s ε-symbol’, _Journal of the Faculty of Science_, University of Tokyo, Section 1, 7: 419–435.
+* Mancosu, P. (ed.), 1998, _From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s_, Oxford: Oxford University Press.
+* Meyer Viol, W. P. M., 1995a, _Instantial Logic. An Investigation into Reasoning with Instances_, Ph.D. thesis, University of Utrecht. ILLC Dissertation Series 1995–11.
+* –––, 1995b. ‘A proof-theoretic treatment of assignments’, _Bulletin of the IGPL_, 3: 223–243.
+* Mints, G., 1994, ‘Gentzen-type systems and Hilbert’s epsilon substitution method. I’, _Logic, Methodology and Philosophy of Science, IX_ (Uppsala, 1991), Amsterdam: North-Holland, 91-122.
+* –––, 1996, ‘Strong termination for the epsilon substitution method’, _Journal of Symbolic Logic_, 61: 1193–1205.
+* –––, 2001, ‘The epsilon substitution method and continuity’, in W. Sieg _et al_. (eds.), _Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman_, Lecture Notes in Logic 15, Association for Symbolic Logic.
+* –––, 2008, ‘Cut Elimination for a simple formulation of epsilon calculus’, _Annals of Pure and Applied Logic_,152 (1–3): 148–160.
+* –––, 2013. ‘Epsilon substitution for first- and second-order predicate logic’, _Annals of Pure and Applied Logic_, 164: 733–739.
+* –––, 2015. ‘Non-deterministic epsilon substitution method for PA and ID1’, in: Kahle, R., Rathjen, M. (Eds.), _Gentzen’s Centenary: The Quest for Consistency_. Berlin: Springer, pp. 479–500.
+* Mints, G., Tupailo, S., 1999, ‘Epsilon-substitution method for the ramified language and Δ11-comprehension rule’, in A. Cantini _et al_. (eds.), _Logic and Foundations of Mathematics_ (Florence, 1995), Dordrecht: Kluwer, 107–130.
+* Mints, G., Tupailo, S., Buchholz, W., 1996, ‘Epsilon substitution method for elementary analysis’, _Archive for Mathematical Logic_, 35: 103–130.
+* Moser, G., 2006, ‘Ackermann’s substitution method (remixed)’, _Annals of Pure and Applied Logic_, 142 (1–3): 1–18.
+* Moser, G. and R. Zach, 2006, ‘The epsilon calculus and Herbrand complexity’, _Studia Logica_, 82(1): 133–155.
+* Mostowski, A., 1963. ‘The Hilbert epsilon function in many-valued logics’, _Acta Philosophica Fennica_, 16: 169–188.
+* Neale, S., 1990, _Descriptions_, Cambridge, MA: MIT Press.
+* Reinhart, T., 1992. ‘Wh-in-situ: An apparent paradox’. In: P. Dekker and M. Stokhof (eds.). _Proceedings of the Eighth Amsterdam Colloquium_, December 17–20, 1991. ILLC. University of Amsterdam, 483–491.
+* –––, 1997. ‘Quantifier scope: How labor is divided between QR and choice functions’. _Linguistics and Philosophy_, 20: 335–397.
+* Shirai, K., 1971, ‘Intuitionistic predicate calculus with ε-symbol’, _Annals of the Japan Association for Philosophy of Science_ 4: 49–67.
+* Sieg, W., 1991, ‘Herbrand analyses’, _Archive for Mathematical Logic_, 30: 409–441.
+* Slater, B. H., 1986, ‘E-type pronouns and ε-terms’, _Canadian Journal of Philosophy_, 16: 27–38.
+* –––, 1988, ‘Hilbertian reference’, _Noûs_, 22: 283–97.
+* –––, 1994, ‘The epsilon calculus’ problematic’, _Philosophical Papers_, 23: 217–42.
+* –––, 2000, ‘Quantifier/variable-binding’, _Linguistics and Philosophy_, 23: 309–21.
+* Tait, W. W., 1960, ‘The substitution method.’ _Journal of Symbolic Logic_, 30: 175–192.
+* –––, 1965, ‘Functionals defined by transfinite recursion,’ _Journal of Symbolic Logic_, 30: 155–174.
+* –––, 2010. ‘The substitution method revisited.’ in: S. Feferman and W. Sieg (eds.), _Proofs, Categories and Computations: Essays in Honor of Grigori Mints_, London: College Publications, pp. 131–14.
+* von Heusinger, K., 1994, Review of Neale (1990). _Linguistics_ 32: 378–385.
+* –––, 1997. ‘Definite descriptions and choice functions’. In: S. Akama (ed.). _Logic, Language and Computation_, Dordrecht: Kluwer, 61–91.
 * –––, 2000, ‘The Reference of Indefinites’, in von Heusinger and Egli, (2000), 265–284.
-* –––, 2004, ‘Choice functions and the anaphoric semantics of definite NPs’, *Research in Language and Computation*, 2: 309–329.
-* von Heusinger, K., Egli, U., (eds.), 2000. *Reference and Anaphoric Relations*, Dordrecht: Kluwer.
+* –––, 2004, ‘Choice functions and the anaphoric semantics of definite NPs’, _Research in Language and Computation_, 2: 309–329.
+* von Heusinger, K., Egli, U., (eds.), 2000. _Reference and Anaphoric Relations_, Dordrecht: Kluwer.
 * –––, 2000a. ‘Introduction: Reference and the Semantics of Anaphora’, in von Heusinger and Egli (2000), 1–13.
-* von Heusinger, K., Kempson, R., (eds.), 2004. *Choice Functions in Semantics*, Special Issue of *Research on Language and Computation* 2(3).
-* von Neumann, J., 1927, ‘Zur Hilbertschen Beweistheorie’, *Mathematische Zeitschrift*, 26: 1–46.
-* Wang, H., 1963, *A Survey of Mathematical Logic*, Peking: Science Press.
-* Winter, Y., 1997. ‘Choice functions and the scopal semantics of indefinites’. *Linguistics and Philosophy*, 20: 399–467.
-* Yasuhara, M., 1982, ‘Cut elimination in ε-calculi’, *Zeitschrift für mathematische Logik und Grundlagen der Mathematik*, 28: 311–316.
-* Zach, R., 2003, ‘The practice of finitism. Epsilon calculus and consistency proofs in Hilbert’s Program’, *Synthese*, 137: 211–259.
-* –––, 2004. ‘Hilbert’s “Verunglückter Beweis”, the first epsilon theorem, and consistency proofs’. *History and Philosophy of Logic*, 25, 79–94.
-* –––, 2017. ‘Semantics and proof theory of the epsilon calculus’, in: Ghosh, S., Prasad, S. (Eds.), *Logic and Its Applications. ICLA 2017*, LNCS. Springer, Berlin, Heidelberg, pp. 27–47.
+* von Heusinger, K., Kempson, R., (eds.), 2004. _Choice Functions in Semantics_, Special Issue of _Research on Language and Computation_ 2(3).
+* von Neumann, J., 1927, ‘Zur Hilbertschen Beweistheorie’, _Mathematische Zeitschrift_, 26: 1–46.
+* Wang, H., 1963, _A Survey of Mathematical Logic_, Peking: Science Press.
+* Winter, Y., 1997. ‘Choice functions and the scopal semantics of indefinites’. _Linguistics and Philosophy_, 20: 399–467.
+* Yasuhara, M., 1982, ‘Cut elimination in ε-calculi’, _Zeitschrift für mathematische Logik und Grundlagen der Mathematik_, 28: 311–316.
+* Zach, R., 2003, ‘The practice of finitism. Epsilon calculus and consistency proofs in Hilbert’s Program’, _Synthese_, 137: 211–259.
+* –––, 2004. ‘Hilbert’s “Verunglückter Beweis”, the first epsilon theorem, and consistency proofs’. _History and Philosophy of Logic_, 25, 79–94.
+* –––, 2017. ‘Semantics and proof theory of the epsilon calculus’, in: Ghosh, S., Prasad, S. (Eds.), _Logic and Its Applications. ICLA 2017_, LNCS. Springer, Berlin, Heidelberg, pp. 27–47.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epsilon-calculus). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/epsilon-calculus/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=epsilon-calculus&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/epsilon-calculus/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epsilon-calculus).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/epsilon-calculus/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=epsilon-calculus\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/epsilon-calculus/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Epsilon Calculi](http://www.utm.edu/research/iep/e/ep-calc.htm) by B. Hartley Slater (Internet Encyclopedia of Philosophy).
+* [Epsilon Calculi](http://www.utm.edu/research/iep/e/ep-calc.htm) by B. Hartley Slater (Internet Encyclopedia of Philosophy).
 
 Please contact the authors with further suggestions.
 
 ## Related Entries
 
-[anaphora](https://plato.stanford.edu/entries/anaphora/) | finitism | Hilbert, David | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [proof theory](https://plato.stanford.edu/entries/proof-theory/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/)
+[anaphora](https://plato.stanford.edu/entries/anaphora/) | finitism | Hilbert, David | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [proof theory](https://plato.stanford.edu/entries/proof-theory/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Jeremy Avigad](http://www.andrew.cmu.edu/~avigad) <[*avigad@cmu.edu*](mailto:avigad%40cmu%2eedu)>  
-[Richard Zach](https://richardzach.org/) <[*rzach@ucalgary.ca*](mailto:rzach%40ucalgary%2eca)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Jeremy Avigad](http://www.andrew.cmu.edu/\~avigad) <[_avigad@cmu.edu_](mailto:avigad%40cmu%2eedu)>\
+[Richard Zach](https://richardzach.org/) <[_rzach@ucalgary.ca_](mailto:rzach%40ucalgary%2eca)>

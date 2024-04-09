@@ -1,6 +1,6 @@
 # 印度佛教中的伦理学 in Indian Buddhism (Charles Goodman and Aaron Schultz)
 
-*首次发表于 2010 年 6 月 22 日星期二；实质性修订于 2024 年 2 月 1 日星期四*
+_首次发表于 2010 年 6 月 22 日星期二；实质性修订于 2024 年 2 月 1 日星期四_
 
 佛教代表着一个广阔而丰富的知识传统，直到最近才受到西方哲学的很少影响。这一传统包含了各种关于如何生活以及在不同情况下该做什么的教导。佛教告诉我们要净化自己的心灵，并对所有众生培养慈悲和爱心。各种形式的佛教为理解导致我们和他人问题的性格特征和行为类型，以及那些有助于治愈世界痛苦的品质和行为提供了系统性框架。当开始修行佛教之路时，一个人同意遵守道德纪律的规则，禁止各种破坏性行为；但一旦心灵达到非常高的精神发展程度，规则就被超越，一个人会为了他人的利益而自发行动。
 
@@ -14,12 +14,12 @@
 * [战争、暴力和惩罚](https://plato.stanford.edu/entries/ethics-indian-buddhism/#WarVioPun)
 * [堕胎和安乐死](https://plato.stanford.edu/entries/ethics-indian-buddhism/#AboEut)
 * [人工智能和技术](https://plato.stanford.edu/entries/ethics-indian-buddhism/#AIandTech)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Rel)
 
----
+***
 
 ## 佛教伦理学的基本教义
 
@@ -191,23 +191,11 @@
 
 印度佛教对暴力的态度通常在《法句经》的第 X.1–2 节中表达。
 
-> 每个人都害怕被棍棒击打。
-> 每个人都害怕死亡。
-> 因此，了解这一点，对他人的感受就像对自己一样
-> 不要杀害他人或导致他人杀人。
-> 每个人都害怕被棍棒击打
-> 生命对所有人都是珍贵的。
-> 因此，了解这一点，对他人的感受如同对自己一样
-> 不要杀害他人或导致他人杀人。
-> 弥勒 (trans, 1995, 37)
+> 每个人都害怕被棍棒击打。 每个人都害怕死亡。 因此，了解这一点，对他人的感受就像对自己一样 不要杀害他人或导致他人杀人。 每个人都害怕被棍棒击打 生命对所有人都是珍贵的。 因此，了解这一点，对他人的感受如同对自己一样 不要杀害他人或导致他人杀人。 弥勒 (trans, 1995, 37)
 
 “对他人的感受如同对待自己”这句话的巴利文翻译是 attānaṃ upamaṃ katvā，更直译可能是“以自己为比喻”。在这里使用了一种道德推理形式，与黄金法则非常相似：想象自己置身于他人的位置，你会发现某些对待方式在道德上是不可接受的。《法句经》也告诉我们：
 
-> 谁向生灵隐藏了权杖
-> 弱者和强者，
-> Abstaining from killing and causing killing
-> 我称之为尊者。
-> 弥勒 (trans, 1995, 107)
+> 谁向生灵隐藏了权杖 弱者和强者， Abstaining from killing and causing killing 我称之为尊者。 弥勒 (trans, 1995, 107)
 
 佛教徒明确拒绝印度教的教导，即在正义战争中牺牲的士兵将在天堂中重生。相反，佛教徒认为，在战斗中死去的人很可能会转生为动物或地狱，尤其是如果他们在临终时对对方士兵怀有愤怒或仇恨之情。在他对阿利亚德瓦的《四百偈颂》（Catuḥśataka）的评论中，钦达基尔提对那些为国王和国家而在战斗中献出生命的人持非常低的看法：“在这个世界上，为赌博、酒精和妓女而放弃所有财产的人是不值得尊重的。有德行的人不尊重这些人的牺牲，因为他们追求一种瘾。同样，战斗中的生命牺牲也不应受到尊重，因为这是有害行为的基础”（Lang trans., 2003, 200）。他还批评了国王可以合法参与战争的观点，并提出了类似于一般和平主义的观点：“一个智者在他的论著中将暴力解释为美德行为时是低下的。一个普通的智者有疑虑：‘可能是这样，也可能不是这样。’一个高级智者不认为暴力是美德行为”（Lang trans., 2003, 197）。
 
@@ -269,47 +257,47 @@
 
 ## Bibliography
 
-* Barnhart, Michael, 2012, “Theory and Comparison in the Discussion of Buddhist Ethics,” *Philosophy East and West*, 62(1): 16–43.
-* Bombaerts, G., Anderson, J., Dennis, M., Gerola, A., Frank, L., Hannes, T., Hopster, J., Marin, L., & Spahn, A., 2023, “Attention as Practice: Buddhist Ethics Responses to Persuasive Technologies,” *Global Philosophy*, 33(2): 1–16.
+* Barnhart, Michael, 2012, “Theory and Comparison in the Discussion of Buddhist Ethics,” _Philosophy East and West_, 62(1): 16–43.
+* Bombaerts, G., Anderson, J., Dennis, M., Gerola, A., Frank, L., Hannes, T., Hopster, J., Marin, L., & Spahn, A., 2023, “Attention as Practice: Buddhist Ethics Responses to Persuasive Technologies,” _Global Philosophy_, 33(2): 1–16.
 * Crosby, Kate, and Skilton, Andrew, trans., 1995, The Bodhicaryāvatāra, Oxford: Oxford University Press.
-* Davis, Jake H., 2016, “‘The Scope for Wisdom’: Early Buddhism on Reasons and Persons,” in *The Bloomsbury Research Handbook of Indian Ethics*, ed. Shyam Ranganathan, Bloomsbury Academic.
-* –––, 2017, “When You Know For Yourselves: Mindfulness and the Development of Wisdom,” in *A Mirror is For Reflection: Understanding Buddhist Ethics*, ed. Jake H. Davis, Oxford: Oxford University Press.
-* Gold, Jonathan C., 2023, “The Coherence of Buddhism: Relativism, Ethics, and Psychology,” *Journal of Religious Ethics*, 51(2): 321–341.
-* Goodman, Bryce, 2023, “Privacy without Persons: A Buddhist Critique of Surveillance Capitalism,” *AI and Ethics*, 3(3): 781–792.
-* Goodman, Charles, 2009, *Consequences of Compassion: An Interpretation and Defense of Buddhist Ethics*, Oxford: Oxford University Press.
-* –––, 2016a, *The Training Anthology of Śāntideva: A Translation of the* Śikṣā-samuccaya, Oxford: Oxford University Press.
-* –––, 2016b, “From Madhyamaka to Consequentialism,” in The Cowherds, *Moonpaths: Ethics and Emptiness*, New York: Oxford University Press, pp. 141–158.
-* Gowans, Christopher, 2016, *Buddhist Moral Philosophy: An Introduction*, New York: Routledge.
-* Hallisey, Charles, 1996, “Ethical Particularism in Theravāda Buddhism,” *Journal of Buddhist Ethics*, 3: 32–43.
-* Harris, Stephen, 2015, “On the Classification of Śāntideva’s Ethics in the Bodhicaryāvatāra,” *Philosophy East and West* 65(1): 249–275.
-* Harvey, Peter, 2000, *An Introduction to Buddhist Ethics*, Cambridge: Cambridge University Press.
-* Hidalgo, Javier, 2022, “Buddhist Ethics as a Path: A Defense of Normative Gradualism,” *Philosophy East and West*, 72(2): 355–374.
-* Hopkins, Jeffrey, trans, 1998, *Buddhist Advice for Living & Liberation: Nāgārjuna’s* Precious Garland, Ithaca, NY: Snow Lion.
-* Huntington, C. W., trans, 1989, *The Emptiness of Emptiness: An Introduction to Early Indian Mādhyamika*, Honolulu: University of Hawai‘i Press.
-* Jamspal, Lozang, trans, 2010, *The Range of the Bodhisattva, a Mahāyāna Sūtra*, New York: American Institute of Buddhist Studies.
-* Jenkins, Stephen, 2011, “On the Auspiciousness of Compassionate Violence,” *Journal of the International Association of Buddhist Studies*, 33(1–2): 299–331.
-* Keown, Damien, 1992, *The Nature of Buddhist Ethics*, New York: Palgrave.
-* Lang, Karen, trans, 2003, *Four Illusions: Candrakīrti’s Advice for Travelers on the Bodhisattva Path*, Oxford: Oxford University Press.
-* Maher, Derek F, 2008, “The Rhetoric of War in Tibet: Toward a Buddhist Just War Theory,” *Political Theology*, 9(2): 179–191.
-* Maitreya, Ananda, trans, 1995, *The Dhammapada*, Berkeley, CA: Parallax Press.
-* McLeod, Ken, 2002, *Wake Up To Your Life: Discovering the Buddhist Path of Attentio*n, New York: HarperCollins.
-* McMahan, Jeff, 2002, *The Ethics of Killing: Problems at the Margins of Life*, New York: Oxford University Press.
-* Ñānamoli and Bodhi, trans, 1995, *The Middle Length Discourses of the Buddha: A New Translation of the Majjhima Nikāya*, Boston: Wisdom Publications.
-* Parfit, Derek. 1984. *Reasons and Persons*. Oxford: Oxford University Press.
-* Siderits, Mark, 2003, *Personal Identity and Buddhist Philosophy: Empty Persons*, Burlington, VT: Ashgate.
-* –––, 2007, “Buddhist Reductionism and the Structure of Buddhist Ethics,” in P. Bilimoria, J. Prabhu, and R. Sharma (eds.), *Indian Ethics: Classical Traditions and Contemporary Challenges*, vol. 1, pp. 283–296, Burlington, VT: Ashgate.
-* Tatz, Mark, trans, 1986, *Asanga’s Chapter on Ethics With the Commentary of Tsong-Kha-Pa*, The Basic Path to Awakening*, The Complete Bodhisattva*, Lewiston/Queenston: Edwin Mellen Press.
-* Thurman, Robert, trans, 2000, *The Holy Teaching of Vimalakīrti: A Mahāyāna Scripture*, University Park, PA: Pennsylvania State University Press.
-* Walshe, Maurice, trans, 1995, *The Long Discourses of the Buddha: A Translation of the Dīgha Nikāya*, Boston: Wisdom Publications.
-* Zuboff, Shoshana, 2018, *The Age of Surveillance Capitalism: The Fight For a Human Future at the New Frontier of Power*, New York: PublicAffairs.
+* Davis, Jake H., 2016, “‘The Scope for Wisdom’: Early Buddhism on Reasons and Persons,” in _The Bloomsbury Research Handbook of Indian Ethics_, ed. Shyam Ranganathan, Bloomsbury Academic.
+* –––, 2017, “When You Know For Yourselves: Mindfulness and the Development of Wisdom,” in _A Mirror is For Reflection: Understanding Buddhist Ethics_, ed. Jake H. Davis, Oxford: Oxford University Press.
+* Gold, Jonathan C., 2023, “The Coherence of Buddhism: Relativism, Ethics, and Psychology,” _Journal of Religious Ethics_, 51(2): 321–341.
+* Goodman, Bryce, 2023, “Privacy without Persons: A Buddhist Critique of Surveillance Capitalism,” _AI and Ethics_, 3(3): 781–792.
+* Goodman, Charles, 2009, _Consequences of Compassion: An Interpretation and Defense of Buddhist Ethics_, Oxford: Oxford University Press.
+* –––, 2016a, _The Training Anthology of Śāntideva: A Translation of the_ Śikṣā-samuccaya, Oxford: Oxford University Press.
+* –––, 2016b, “From Madhyamaka to Consequentialism,” in The Cowherds, _Moonpaths: Ethics and Emptiness_, New York: Oxford University Press, pp. 141–158.
+* Gowans, Christopher, 2016, _Buddhist Moral Philosophy: An Introduction_, New York: Routledge.
+* Hallisey, Charles, 1996, “Ethical Particularism in Theravāda Buddhism,” _Journal of Buddhist Ethics_, 3: 32–43.
+* Harris, Stephen, 2015, “On the Classification of Śāntideva’s Ethics in the Bodhicaryāvatāra,” _Philosophy East and West_ 65(1): 249–275.
+* Harvey, Peter, 2000, _An Introduction to Buddhist Ethics_, Cambridge: Cambridge University Press.
+* Hidalgo, Javier, 2022, “Buddhist Ethics as a Path: A Defense of Normative Gradualism,” _Philosophy East and West_, 72(2): 355–374.
+* Hopkins, Jeffrey, trans, 1998, _Buddhist Advice for Living & Liberation: Nāgārjuna’s_ Precious Garland, Ithaca, NY: Snow Lion.
+* Huntington, C. W., trans, 1989, _The Emptiness of Emptiness: An Introduction to Early Indian Mādhyamika_, Honolulu: University of Hawai‘i Press.
+* Jamspal, Lozang, trans, 2010, _The Range of the Bodhisattva, a Mahāyāna Sūtra_, New York: American Institute of Buddhist Studies.
+* Jenkins, Stephen, 2011, “On the Auspiciousness of Compassionate Violence,” _Journal of the International Association of Buddhist Studies_, 33(1–2): 299–331.
+* Keown, Damien, 1992, _The Nature of Buddhist Ethics_, New York: Palgrave.
+* Lang, Karen, trans, 2003, _Four Illusions: Candrakīrti’s Advice for Travelers on the Bodhisattva Path_, Oxford: Oxford University Press.
+* Maher, Derek F, 2008, “The Rhetoric of War in Tibet: Toward a Buddhist Just War Theory,” _Political Theology_, 9(2): 179–191.
+* Maitreya, Ananda, trans, 1995, _The Dhammapada_, Berkeley, CA: Parallax Press.
+* McLeod, Ken, 2002, _Wake Up To Your Life: Discovering the Buddhist Path of Attentio_n, New York: HarperCollins.
+* McMahan, Jeff, 2002, _The Ethics of Killing: Problems at the Margins of Life_, New York: Oxford University Press.
+* Ñānamoli and Bodhi, trans, 1995, _The Middle Length Discourses of the Buddha: A New Translation of the Majjhima Nikāya_, Boston: Wisdom Publications.
+* Parfit, Derek. 1984. _Reasons and Persons_. Oxford: Oxford University Press.
+* Siderits, Mark, 2003, _Personal Identity and Buddhist Philosophy: Empty Persons_, Burlington, VT: Ashgate.
+* –––, 2007, “Buddhist Reductionism and the Structure of Buddhist Ethics,” in P. Bilimoria, J. Prabhu, and R. Sharma (eds.), _Indian Ethics: Classical Traditions and Contemporary Challenges_, vol. 1, pp. 283–296, Burlington, VT: Ashgate.
+* Tatz, Mark, trans, 1986, _Asanga’s Chapter on Ethics With the Commentary of Tsong-Kha-Pa_, The Basic Path to Awakening\*, The Complete Bodhisattva\*, Lewiston/Queenston: Edwin Mellen Press.
+* Thurman, Robert, trans, 2000, _The Holy Teaching of Vimalakīrti: A Mahāyāna Scripture_, University Park, PA: Pennsylvania State University Press.
+* Walshe, Maurice, trans, 1995, _The Long Discourses of the Buddha: A Translation of the Dīgha Nikāya_, Boston: Wisdom Publications.
+* Zuboff, Shoshana, 2018, _The Age of Surveillance Capitalism: The Fight For a Human Future at the New Frontier of Power_, New York: PublicAffairs.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ethics-indian-buddhism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ethics-indian-buddhism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ethics-indian-buddhism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/ethics-indian-buddhism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ethics-indian-buddhism).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ethics-indian-buddhism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ethics-indian-buddhism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/ethics-indian-buddhism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -319,8 +307,8 @@
 
 ## Related Entries
 
-abortion, ethics of | [Buddha](https://plato.stanford.edu/entries/buddha/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [euthanasia: voluntary](https://plato.stanford.edu/entries/euthanasia-voluntary/) | [punishment, legal](https://plato.stanford.edu/entries/legal-punishment/) | [war](https://plato.stanford.edu/entries/war/)
+abortion, ethics of | [Buddha](https://plato.stanford.edu/entries/buddha/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [euthanasia: voluntary](https://plato.stanford.edu/entries/euthanasia-voluntary/) | [punishment, legal](https://plato.stanford.edu/entries/legal-punishment/) | [war](https://plato.stanford.edu/entries/war/)
 
-[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
-[Charles Goodman](https://www.binghamton.edu/aaas/faculty/profile.html?id=cgoodman) <[*cgoodman@binghamton.edu*](mailto:cgoodman%40binghamton%2eedu)>  
-[Aaron Schultz](https://people.cal.msu.edu/schul820/) <[*aschultz@msu.edu*](mailto:aschultz%40msu%2eedu)>
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
+[Charles Goodman](https://www.binghamton.edu/aaas/faculty/profile.html?id=cgoodman) <[_cgoodman@binghamton.edu_](mailto:cgoodman%40binghamton%2eedu)>\
+[Aaron Schultz](https://people.cal.msu.edu/schul820/) <[_aschultz@msu.edu_](mailto:aschultz%40msu%2eedu)>

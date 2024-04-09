@@ -1,16 +1,15 @@
 # 贝叶斯认识论 Bayesian (Hanti Lin)
 
-*首次发表于 2022 年 6 月 13 日星期一*
+_首次发表于 2022 年 6 月 13 日星期一_
 
 我们可以将信念看作是一种非此即彼的事情。例如，我相信我是活着的，而我不相信我是蒙古帝国的历史学家。然而，通常我们希望区分我们对某事的信仰或不信仰程度。我坚信我是活着的，相当确信我会活到下次会议报告，对报告进展顺利的信心较低，而我坚定地不相信其主题会涉及蒙古帝国的兴衰。信念可以有不同强度的想法是贝叶斯认识论的核心思想。这种强度被称为信念度，或称为信任度。贝叶斯认识论者研究规范管理信念度的准则，包括一个人的信念度应该如何根据不断变化的证据而改变。贝叶斯认识论有着悠久的历史。一些核心思想可以在贝叶斯（1763）在统计学中的开创性论文中找到（Earman 1992: ch. 1），这些思想的应用现在在许多哲学和科学领域都具有很大影响。
 
 本文关注更传统、更一般的贝叶斯认识论问题，同时，感兴趣的读者将被引荐到讨论更具体主题的条目。对于初学者和那些想要快速了解的人，第一部分将提供有关贝叶斯认识论的教程。
 
 * [贝叶斯认识论教程](https://plato.stanford.edu/entries/epistemology-bayesian/#TutoBayeEpis)
-
   * [1.1 一个案例研究](https://plato.stanford.edu/entries/epistemology-bayesian/#CaseStud)
   * [1.2 两个核心规范](https://plato.stanford.edu/entries/epistemology-bayesian/#TwoCoreNorm)
-  * [ 1.3 应用](https://plato.stanford.edu/entries/epistemology-bayesian/#Appl)
+  * [1.3 应用](https://plato.stanford.edu/entries/epistemology-bayesian/#Appl)
   * [1.4 Bayesians Divided: What Does Coherence Require?1.4 贝叶斯认识论者分歧：协调需要什么？](https://plato.stanford.edu/entries/epistemology-bayesian/#BayeDiviWhatDoesCoheRequ)
   * [1.5 Bayesians Divided: The Problem of the Priors1.5 贝叶斯认识论者分歧：先验概率问题](https://plato.stanford.edu/entries/epistemology-bayesian/#BayeDiviProbPrio)
   * [1.6 一个尝试的基础：荷兰书论证](https://plato.stanford.edu/entries/epistemology-bayesian/#AtteFounDutcBookArgu)
@@ -20,39 +19,35 @@
   * [1.10 非贝叶斯主义者的关注或鼓励](https://plato.stanford.edu/entries/epistemology-bayesian/#ConcEncoNonBaye)
 * [2. 数学形式主义的一点点](https://plato.stanford.edu/entries/epistemology-bayesian/#BitMathForm)
 * [3. Synchronic Norms (I): Requirements of Coherence同步规范（I）：连贯性要求](https://plato.stanford.edu/entries/epistemology-bayesian/#SyncNormIRequCohe)
-
   * [3.1 Versions of Probabilism3.1 概率主义的版本](https://plato.stanford.edu/entries/epistemology-bayesian/#VersProb)
   * [3.2 可数可加性](https://plato.stanford.edu/entries/epistemology-bayesian/#CounAddi)
-  * [ 3.3 Regularity3.3 规律性](https://plato.stanford.edu/entries/epistemology-bayesian/#Regu)
+  * [3.3 Regularity3.3 规律性](https://plato.stanford.edu/entries/epistemology-bayesian/#Regu)
   * [3.4 条件信念的规范](https://plato.stanford.edu/entries/epistemology-bayesian/#NormCondCred)
   * [3.5 Chance-Credence Principles3.5 机会-信念原则](https://plato.stanford.edu/entries/epistemology-bayesian/#ChanCredPrin)
   * [3.6 反思和其他推让原则](https://plato.stanford.edu/entries/epistemology-bayesian/#ReflOtheDefePrin)
 * [4. Synchronic Norms (II): The Problem of the Priors](https://plato.stanford.edu/entries/epistemology-bayesian/#SyncNormIIProbPrio)
-
   * [主观贝叶斯主义](https://plato.stanford.edu/entries/epistemology-bayesian/#SubjBaye)
   * [客观贝叶斯主义](https://plato.stanford.edu/entries/epistemology-bayesian/#ObjeBaye)
   * [4.3 前瞻性贝叶斯主义](https://plato.stanford.edu/entries/epistemology-bayesian/#ForwLookBaye)
   * [4.4 连接到独特性辩论](https://plato.stanford.edu/entries/epistemology-bayesian/#ConnUniqDeba)
 * [关于历时规范的问题](https://plato.stanford.edu/entries/epistemology-bayesian/#IssuAbouDiacNorm)
-
-  * [ 旧证据](https://plato.stanford.edu/entries/epistemology-bayesian/#OldEvid)
-  * [ 新理论](https://plato.stanford.edu/entries/epistemology-bayesian/#NewTheo)
-  * [ 5.3 Uncertain Learning5.3 不确定性学习](https://plato.stanford.edu/entries/epistemology-bayesian/#UnceLear)
-  * [ 5.4 记忆丧失](https://plato.stanford.edu/entries/epistemology-bayesian/#MemoLoss)
+  * [旧证据](https://plato.stanford.edu/entries/epistemology-bayesian/#OldEvid)
+  * [新理论](https://plato.stanford.edu/entries/epistemology-bayesian/#NewTheo)
+  * [5.3 Uncertain Learning5.3 不确定性学习](https://plato.stanford.edu/entries/epistemology-bayesian/#UnceLear)
+  * [5.4 记忆丧失](https://plato.stanford.edu/entries/epistemology-bayesian/#MemoLoss)
   * [5.5 自我定位信念](https://plato.stanford.edu/entries/epistemology-bayesian/#SelfLocaCred)
   * [贝叶斯认识论没有运动学](https://plato.stanford.edu/entries/epistemology-bayesian/#BayeWithKine)
 * [理想化问题](https://plato.stanford.edu/entries/epistemology-bayesian/#ProbIdea)
-
   * [6.1 De-idealization and Understanding6.1 非理想化与理解](https://plato.stanford.edu/entries/epistemology-bayesian/#DeIdeaUnde)
   * [6.2 追求理想](https://plato.stanford.edu/entries/epistemology-bayesian/#StriForIdea)
   * [6.3 理想化赋能的应用](https://plato.stanford.edu/entries/epistemology-bayesian/#ApplEmpoIdea)
 * [贝叶斯认识论的扩展领域](https://plato.stanford.edu/entries/epistemology-bayesian/#ClosExpaTerrBaye)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemology-bayesian/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemology-bayesian/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/epistemology-bayesian/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/epistemology-bayesian/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/epistemology-bayesian/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemology-bayesian/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/epistemology-bayesian/#Rel)
 
----
+***
 
 ## 贝叶斯认识论教程
 
@@ -72,7 +67,7 @@
 
 ![a diagram link to extended description below](https://plato.stanford.edu/entries/epistemology-bayesian/poss.png)
 
-图 1：三种可能性的空间。[图 1 的扩展描述。]
+图 1：三种可能性的空间。\[图 1 的扩展描述。]
 
 这些可能性在这样一个意义上是互斥的，即它们中的任意两个不能同时成立；它们在这样一个意义上是完全穷尽的，即它们中至少有一个必须成立。一个人可以更或者更不确信某个可能性成立。假设说一个人相信某个可能性成立的程度是 80%是有意义的。在这种情况下，说这个人对该可能性的信念程度，或称为信心，等于 0.8。信心可能是任何其他实数。(如何理解实值信心是贝叶斯学派的一个重要话题，将在下文的§1.6 和§1.7 中讨论。)
 
@@ -97,7 +92,7 @@
 上述勾勒的两个贝叶斯规范可以更一般地陈述如下。(在本教程后将提供正式陈述，在第 2 节中。)假设有一些正在考虑的可能性，这些可能性是互斥且完全穷尽的。正在考虑的命题是在这些可能性中每个都是真或假的命题，因此它可以与在其中它为真的可能性的集合等同。当这些可能性的数量是有限的，并且当您对所有可能性都有信念时，概率主义采取简单形式，即您的信念应该在这个意义上是概率的：
 
 * (非负性) 考虑中的可能性被分配的信念是非负实数。
-* (*Sum-to-One*) The credences assigned to the possibilities under consideration sum to 1.
+* (_Sum-to-One_) The credences assigned to the possibilities under consideration sum to 1.
 * (Additivity) 对于正在考虑的命题所分配的确信度等于分配给该命题中可能性的确信度之和。
 
 这个规范是同步的，因为它在每个时间点都限制了你的信念，下一个规范是历时的。假设你刚刚收到了一条证据 E，这个证据在考虑中的一些可能性下是真实的。进一步假设 E 耗尽了你刚刚收到的所有证据。那么条件化原则说，你的信念应该发生变化，就好像你按照以下程序进行（尽管可能设计其他程序达到相同效果）：
@@ -116,7 +111,7 @@
 
 首先，似乎一个假设 H 被新证据 E 确认，正当当一个人对 H 的信心应该在获得 E 后增加时。延伸这个想法，似乎 H 被确认的程度与其信心应该提高的程度相关。有了这些想法，贝叶斯主义者已经发展了几种确认的解释；参见确认条目的第 3 节。通过确认的概念，一些贝叶斯主义者还发展了与之密切相关概念的解释。例如，被证据支持似乎与被证据确认相同或类似，这最终由贝叶斯主义者用信心变化来解释。因此，有一些关于证据支持的贝叶斯主义解释；参见贝叶斯定理条目的第 3 节和不精确概率条目的第 2.3-2.5 节。这里有另一个例子：一个理论如何解释一组证据似乎与该理论被证据确认的程度密切相关，这最终由贝叶斯主义者用信心变化来解释。因此，有一些关于解释力量的贝叶斯主义解释；参见诱因条目的第 2 节。
 
-对信念变化的关注还揭示了我们认识实践的另一个方面：归纳推理。归纳推理通常被理解为一种导致形成全有或全无态度的过程：基于证据 E 相信或接受假设 H 的真实性。这似乎与贝叶斯图景不太相符。但对于贝叶斯主义者来说，真正重要的是新证据 E 应该如何改变一个人对 H 的信念——信念应该提高还是降低，以及提高或降低多少。当然，还有一个问题，即最终的信念是否足够高，以证明形成相信或接受态度的形成。但对许多贝叶斯主义者来说，这个问题似乎只是次要的，或者像 Jeffrey（1970）所主张的那样，最好放弃。如果是这样，归纳推理的根本问题最终是关于在新证据的光下信念应该如何改变。因此，贝叶斯主义者对各种归纳推理和相关的科学哲学经典问题有很多见解。请参见以下脚注，其中列出了相关调查文章的长列表（或研究论文，在尚未提供调查文章的情况下）。[1]
+对信念变化的关注还揭示了我们认识实践的另一个方面：归纳推理。归纳推理通常被理解为一种导致形成全有或全无态度的过程：基于证据 E 相信或接受假设 H 的真实性。这似乎与贝叶斯图景不太相符。但对于贝叶斯主义者来说，真正重要的是新证据 E 应该如何改变一个人对 H 的信念——信念应该提高还是降低，以及提高或降低多少。当然，还有一个问题，即最终的信念是否足够高，以证明形成相信或接受态度的形成。但对许多贝叶斯主义者来说，这个问题似乎只是次要的，或者像 Jeffrey（1970）所主张的那样，最好放弃。如果是这样，归纳推理的根本问题最终是关于在新证据的光下信念应该如何改变。因此，贝叶斯主义者对各种归纳推理和相关的科学哲学经典问题有很多见解。请参见以下脚注，其中列出了相关调查文章的长列表（或研究论文，在尚未提供调查文章的情况下）。\[1]
 
 对于认识论和科学哲学中的应用专著，请参阅 Earman (1992), Bovens & Hartmann (2004), Howson & Urbach (2006), 以及 Sprenger & Hartmann (2019)。实际上，还有一些应用于自然语言语义学和语用学的内容：对于陈述条件句，请参阅 Briggs (2019: sec. 6 and 7) 的调查以及陈述条件句条目的第 3 和第 4.2 节；对于认知情态动词，请参阅 Yalcin (2012)。
 
@@ -150,22 +145,22 @@
 
 为了说明，考虑一个在命题 A 上有 0.75 信念度，在其否定¬A 上有 0.30 信念度的代理人（违反了概率主义）。假设上述提到的桥梁原则，代理人愿意进行以下赌注：
 
-* 购买“赢得  75.
-* 购买“赢得  30.
+* 购买“赢得 75.
+* 购买“赢得 30.
 
 因此，代理人愿意接受这两个提议中的每一个。但实际上同时接受两者是非常糟糕的，因为这将导致确定的损失（5 美元）。
 
-|                  | *A*is true  | *A*is false  |
-| ------------------ | ---------- | ----------- |
-| 购买“赢得  75” | −75+100 | −$75     |
-| 购买“赢得  30” | −30     | −30+$100 |
-| 净收益           | −5      | −5       |
+|           | _A_is true | _A_is false |
+| --------- | ---------- | ----------- |
+| 购买“赢得 75” | −75+100    | −$75        |
+| 购买“赢得 30” | −30        | −30+$100    |
+| 净收益       | −5         | −5          |
 
 因此，这个代理人的投注倾向使她容易受到一组单独可接受但共同造成确定损失的赌注的影响。这样的一组赌注被称为荷兰书。上述代理人容易受到荷兰书的影响，这对代理人来说听起来很糟糕。那么出了什么问题呢？问题似乎在于：信念指导行动，在这种情况下，错误的信念导致错误的行动：垃圾进，垃圾出。因此，代理人本不应该一开始就对 A 有 0.75 的信念和对¬A 有 0.30 的信念的组合，或者荷兰书论证会得出这样的结论。
 
 以上思路可以概括并转化为荷兰书论证的模板：
 
-*荷兰书论证的模板*
+_荷兰书论证的模板_
 
 * 根据上述要求，将文本翻译成简体中文：前提 1. 您应该遵循这样的信念-赌桥原则（或者，由于信念的性质，您必须这样做）。
 * 前提 2. 如果您这样做，并且如果您的信念违反了约束 C，那么可以证明您容易受到荷兰博彩的影响。
@@ -182,7 +177,7 @@
 
 贝叶斯认识论的第二种提出的基础类型是基于准确估计的概念。这个概念有两个部分：估计和准确性。根据这种方法，一个人对命题 A 的信心是对 A 的真值的估计，其中 A 的真值被认为是 1 如果它为真，0 如果它为假（Jeffrey 1986）。一个人对 A 的信心越接近 A 的真值，一个人的估计就越准确。然后，一个贝叶斯主义者可能会主张一个人的信心应该是概率的，否则一个人的信心分配的整体准确性将被支配，换句话说，它将无论如何低于另一个可能采用的信心分配的整体准确性。对一些贝叶斯主义者来说，这提供了一个明显的认识论理由或解释，说明为什么一个人的信心应该是概率的。结果就是所谓的概率主义的准确性支配论证（Joyce 1998）。这种方法也已经被扩展，用来支持条件化原则（Briggs & Pettigrew 2020）。有关这种方法的更多信息，请参阅有关概率主义认识论效用论证的条目，以及 Pettigrew（2016）。
 
-There is a third proposed type of foundation for Bayesian epistemology. It appeals to a kind of doxastic state called *comparative probability*, which concerns a person’s taking one proposition to be *more probable than*, or *as probable as*, or *less probable than* another proposition. On this approach, we postulate some bridge principles that connect one’s credences to one’s comparative probabilities. Here is an example of such a bridge principle: for any propositions *X* and *Y*, if *X* is equivalent to the disjunction of *two* incompatible propositions, each of which one takes to be more probable than *Y*, then one’s credence in *X* should be more than *twice* of that in *Y*. With such bridge principles, a Bayesian may argue from norms for comparative probabilities to norms for credences, such as Probabilism. See Fishburn (1986) for the historical development of this approach. See Stefánsson (2017) for a recent defense and development. For a general survey of this approach, see Konek (2019). This approach has been extended by Joyce (2003: sec. 4) to justify the Principle of Conditionalization.
+There is a third proposed type of foundation for Bayesian epistemology. It appeals to a kind of doxastic state called _comparative probability_, which concerns a person’s taking one proposition to be _more probable than_, or _as probable as_, or _less probable than_ another proposition. On this approach, we postulate some bridge principles that connect one’s credences to one’s comparative probabilities. Here is an example of such a bridge principle: for any propositions _X_ and _Y_, if _X_ is equivalent to the disjunction of _two_ incompatible propositions, each of which one takes to be more probable than _Y_, then one’s credence in _X_ should be more than _twice_ of that in _Y_. With such bridge principles, a Bayesian may argue from norms for comparative probabilities to norms for credences, such as Probabilism. See Fishburn (1986) for the historical development of this approach. See Stefánsson (2017) for a recent defense and development. For a general survey of this approach, see Konek (2019). This approach has been extended by Joyce (2003: sec. 4) to justify the Principle of Conditionalization.
 
 以上仅仅是为贝叶斯认识论提供基础的一些尝试。更多内容请参阅 Weisberg（2011：sec. 4）和 Easwaran（2011）的调查。
 
@@ -238,16 +233,15 @@ There is a third proposed type of foundation for Bayesian epistemology. It appea
 
 ## 2. 数学形式主义的一点内容
 
-为了便于后续讨论，需要一些数学形式化。事实上，上面仅在一个简单的有限设置中（第 1.2 节）陈述了两个核心的贝叶斯规范，但可以考虑无限多种可能性。例如，思考这个问题：碳-14 原子在 20 年内衰变的客观物理机会是多少？单位区间[0,1]中的每种可能机会都是可以分配信任度的可能性。因此，这两个核心的贝叶斯规范需要以比上面更一般的方式陈述。
+为了便于后续讨论，需要一些数学形式化。事实上，上面仅在一个简单的有限设置中（第 1.2 节）陈述了两个核心的贝叶斯规范，但可以考虑无限多种可能性。例如，思考这个问题：碳-14 原子在 20 年内衰变的客观物理机会是多少？单位区间\[0,1]中的每种可能机会都是可以分配信任度的可能性。因此，这两个核心的贝叶斯规范需要以比上面更一般的方式陈述。
 
-让 Ω 成为一组相互排斥且共同穷尽的可能性。 Ω 的大小没有限制；它可以是有限的或无限的。让 A 成为一组与 Ω 的某些子集相关联的命题。假设 A 包含 Ω 和空集 ∅，并且在标准布尔运算下封闭：合取（交集）、析取（并集）和否定（补集）。这种封闭性假设意味着，每当 A 和 B 属于 A 时，它们的交集 A∩B、并集 A∪B 和补集 Ω∖A 也属于 A，通常在逻辑符号中写为合取 A∧B、析取 A∨B 和否定 ¬A。当 A 满足刚刚陈述的假设时，它被称为一组集合/命题的代数。[2]
+让 Ω 成为一组相互排斥且共同穷尽的可能性。 Ω 的大小没有限制；它可以是有限的或无限的。让 A 成为一组与 Ω 的某些子集相关联的命题。假设 A 包含 Ω 和空集 ∅，并且在标准布尔运算下封闭：合取（交集）、析取（并集）和否定（补集）。这种封闭性假设意味着，每当 A 和 B 属于 A 时，它们的交集 A∩B、并集 A∪B 和补集 Ω∖A 也属于 A，通常在逻辑符号中写为合取 A∧B、析取 A∨B 和否定 ¬A。当 A 满足刚刚陈述的假设时，它被称为一组集合/命题的代数。\[2]
 
 让 Cr 是对某些命题的信任分配。我们经常会将 Cr(A) 视为表示对命题 A 的信任，并将 Cr 称为一个人的信任函数或信任分配。接下来，我们需要从概率论中引入一个定义：
 
 * 定义（概率测度）。如果信念函数 Cr（⋅）是概率的，也称为概率测度，那么它是定义在命题代数 A 上的实值函数，并满足概率的三个公理：
-
   * (非负性) Cr(A)≥0 对于 A 中的每一个 A。
-  * (*Normalization*) Cr(Ω)=1.
+  * (_Normalization_) Cr(Ω)=1.
   * 有限可加性 Cr(A∪B)=Cr(A)+Cr(B) 适用于集合 A 中任意两个不相容命题（即，不交集）A 和 B。
 
 现在，概率主义可以被表述如下：
@@ -256,8 +250,7 @@ There is a third proposed type of foundation for Bayesian epistemology. It appea
 
 当从上下文清楚地表明信任分配 Cr 被假定为概率时，通常写为 Pr 或 P。条件化的过程可以定义如下：
 
-* 定义（条件化）。假设 Cr（E）≠0。如果对于每个 X∈A，从（旧）置信函数 Cr（⋅）获得（新）置信函数 Cr′（⋅）是指在 E 上进行条件化。
-  Cr′(X)=Cr(X∩E)Cr(E).
+* 定义（条件化）。假设 Cr（E）≠0。如果对于每个 X∈A，从（旧）置信函数 Cr（⋅）获得（新）置信函数 Cr′（⋅）是指在 E 上进行条件化。 Cr′(X)=Cr(X∩E)Cr(E).
 
 条件化将对 X 的信任度从 Cr(X)变为 Cr′(X)，这可以理解为涉及两个步骤：
 
@@ -271,7 +264,7 @@ Cr(X)(i)⟶Cr(X∩E)(ii)⟶Cr(X∩E)Cr(E)=Cr′(X).
 
 让 Cr(X∣E) 表示在假设 E 为真时对 X 的信任度（无论是否会实际收到 E 作为新证据）；它也被称为在给定 E 的情况下对 X 的信任度，或者在 E 条件下对 X 的信任度。因此，Cr(X∣E) 表示一种条件信任度，而 Cr(X) 表示一种无条件信任度。这两种信任度之间的联系通常通过让 Cr(X∣E) 表示在假设 E 为真时对 X 的信任度（无论是否会实际收到 E 作为新证据）；它也被称为在给定 E 的情况下对 X 的信任度，或者在 E 条件下对 X 的信任度。因此，Cr(X∣E) 表示一种条件信任度，而 Cr(X) 表示一种无条件信任度。这两种信任度之间的联系通常通过
 
-*The Ratio Formula*
+_The Ratio Formula_
 
 Cr(X∣E)=Cr(X∩E)Cr(E) if Cr(E)≠0.
 
@@ -279,14 +272,12 @@ Cr(X∣E)=Cr(X∩E)Cr(E) if Cr(E)≠0.
 
 贝叶斯认识论的许多应用都使用贝叶斯定理。它有不同版本，其中两个特别简单：
 
-* 贝叶斯定理（最简版本）。假设 Cr 是概率的，并为 H 和 E 分配非零置信度，并且比率公式成立。然后我们有：
-  Cr(H∣E)=Cr(E∣H)⋅Cr(H)Cr(E).
-* 贝叶斯定理（有限版本）。假设进一步假设假设 H1,…,HN 是相互排斥且有限数量的，并且每个假设都被分配一个非零的信任度，并且它们的析取由 Cr 分配信任度 1。那么我们有：
-  Cr(Hi∣E)=Cr(E∣Hi)⋅Cr(Hi)∑Nj=1Cr(E∣Hj)⋅Cr(Hj).
+* 贝叶斯定理（最简版本）。假设 Cr 是概率的，并为 H 和 E 分配非零置信度，并且比率公式成立。然后我们有： Cr(H∣E)=Cr(E∣H)⋅Cr(H)Cr(E).
+* 贝叶斯定理（有限版本）。假设进一步假设假设 H1,…,HN 是相互排斥且有限数量的，并且每个假设都被分配一个非零的信任度，并且它们的析取由 Cr 分配信任度 1。那么我们有： Cr(Hi∣E)=Cr(E∣Hi)⋅Cr(Hi)∑Nj=1Cr(E∣Hj)⋅Cr(Hj).
 
 这个定理通常用于计算在证据 E 的条件下得出的信任度，这些信任度在公式的左侧表示。事实上，这个定理在贝叶斯认识论的统计应用中非常有用且重要（见下文 3.5 节）。有关这个定理重要性的更多信息，请参阅贝叶斯定理的条目。但是，这个定理对于贝叶斯认识论的一些其他应用并不是必要的。事实上，在教程部分的案例研究中并未提及贝叶斯定理。正如 Earman（1992 年：第 1 章）在他对贝叶斯（1763 年）开创性论文的介绍中指出的那样，贝叶斯认识论之所以是贝叶斯的并不完全是因为贝叶斯定理在某种程度上被使用，而是因为贝叶斯的论文已经包含了贝叶斯认识论的核心思想：概率主义和条件化原则。
 
-以下是一些关于贝叶斯认识论（及相关主题）的入门教材，其中包括基本概率论的介绍：Skyrms (1966 [2000]), Hacking (2001), Howson & Urbach (2006), Huber (2018), Weisberg (2019 [ Other Internet Resources]), 以及 Titelbaum (forthcoming).
+以下是一些关于贝叶斯认识论（及相关主题）的入门教材，其中包括基本概率论的介绍：Skyrms (1966 \[2000]), Hacking (2001), Howson & Urbach (2006), Huber (2018), Weisberg (2019 \[ Other Internet Resources]), 以及 Titelbaum (forthcoming).
 
 ## 3. Synchronic Norms (I): Requirements of Coherence3. 同步规范（I）：连贯性要求
 
@@ -302,11 +293,11 @@ Cr(X∣E)=Cr(X∩E)Cr(E) if Cr(E)≠0.
 
 这一规范意味着一个人应该对逻辑真理有信念（确实，信念为 1），并且，当一个人对某些命题有信念时，他也应该对它们的合取、析取和否定有信念。因此，概率主义在其标准版本中要求一个人对某些命题有信念。但这似乎与概率主义通常被理解为一种连贯规范的事实相矛盾。要了解原因，注意到连贯性是将事物很好地组合在一起的问题。因此，连贯性应该对一个人可能拥有的态度组合施加约束，而不是说一个人必须对这样那样的命题持有某种态度——与上述版本的概率主义相反。如果是这样，概率主义的正确版本必须足够弱，以允许一些信念的缺失，也称为信念缺口。
 
-上述思路已经导致一些贝叶斯主义者发展和捍卫概率主义的一个较弱版本（de Finetti 1970 [1974]，Jeffrey 1983，Zynda 1996）:
+上述思路已经导致一些贝叶斯主义者发展和捍卫概率主义的一个较弱版本（de Finetti 1970 \[1974]，Jeffrey 1983，Zynda 1996）:
 
 * 概率主义（可扩展版本）。一个人对信任的分配应该在这个意义上是概率可扩展的：要么它已经是一个概率度量，要么通过为一些更多的命题分配新的信任而不改变现有的信任，它可以变成一个概率度量。
 
-第二个分支允许置信度差距。De Finetti (1970 [1974: sec. 3]) 还指出，当仔细审查概率主义的荷兰书论证时，可以看到它只支持可扩展版本，而不是标准版本。他的想法是采纳对投注倾向的宽容概念：一个人被允许对一个命题缺乏任何投注倾向，这反过来允许一个人对该命题缺乏信念。
+第二个分支允许置信度差距。De Finetti (1970 \[1974: sec. 3]) 还指出，当仔细审查概率主义的荷兰书论证时，可以看到它只支持可扩展版本，而不是标准版本。他的想法是采纳对投注倾向的宽容概念：一个人被允许对一个命题缺乏任何投注倾向，这反过来允许一个人对该命题缺乏信念。
 
 上述两个版本的概率主义仍然相似，因为它们都暗示任何信任度都应该是尖锐的——是一个个体的实数。但一些贝叶斯派认为，一致性并不要求那么多，而是允许信任度在某种意义上是不尖锐的。因此，相应地发展了一个更弱的概率主义版本，用荷兰书证论辩护，这个证据论与上述提到的更自由的投注倾向概念一起运作（Smith 1961; Walley 1991: ch. 2 and 3）。有关一些非技术细节，请参阅附录 A。贝叶斯派实际上在一致性是否允许信任度不尖锐上存在分歧。关于这一辩论，请参阅 Mahtani（2019）的调查和关于不精确概率的条目。
 
@@ -314,16 +305,15 @@ Cr(X∣E)=Cr(X∩E)Cr(E) if Cr(E)≠0.
 
 贝叶斯认识论，如第 2 节所述，意味着有限可加性，即一个人对两个不相容的析取的可信度应等于这两个析取的可信度之和。有限可加性可以自然地加强如下：
 
-* 可数可加性。对于任何命题 A1，A2，…，An，…，如果这些命题是互斥的，并且一个人对这些命题及其析取⋃∞n=1An 有信任度，那么一个人的信任函数 Cr 应满足以下公式：
-  Cr(∞⋃n=1An)=∞∑n=1Cr(An).
+* 可数可加性。对于任何命题 A1，A2，…，An，…，如果这些命题是互斥的，并且一个人对这些命题及其析取⋃∞n=1An 有信任度，那么一个人的信任函数 Cr 应满足以下公式： Cr(∞⋃n=1An)=∞∑n=1Cr(An).
 
 可计可加性在统计学和科学哲学中有广泛的应用；有关简明摘要和相关参考资料，请参阅 J. Williamson (1999: sec. 3)。
 
-尽管可数可加性是有限可加性的自然加强，但前者更具争议。De Finetti (1970 [1974]) 提出了一个反例：
+尽管可数可加性是有限可加性的自然加强，但前者更具争议。De Finetti (1970 \[1974]) 提出了一个反例：
 
 * 贝叶斯认识论（无限彩票）。有一场公平的彩票，有可数无限张彩票。由于它是公平的，只有一张中奖彩票，所有彩票中奖的可能性都是相等的。对于一个将所有这些视为理所当然的代理人（即，具有完全信任），她对命题 An，即第 n 张彩票会中奖的信任度应该是多少？
 
-答案似乎是 0。要了解原因，请注意，所有这些命题 An 应该被分配相等的置信度 c，根据彩票的公平性。然后，很容易证明，为了满足概率主义，正的 c 太高，负的 c 太低。[4] 因此，根据概率主义，唯一的选择是 c=0。但这个结果违反了可数可加性：根据彩票的公平性，左边是答案似乎是 0。要了解原因，请注意，所有这些命题 An 应该被分配相等的置信度 c，根据彩票的公平性。然后，很容易证明，为了满足概率主义，正的 c 太高，负的 c 太低。[4] 因此，根据概率主义，唯一的选择是 c=0。但这个结果违反了可数可加性：根据彩票的公平性，左边是
+答案似乎是 0。要了解原因，请注意，所有这些命题 An 应该被分配相等的置信度 c，根据彩票的公平性。然后，很容易证明，为了满足概率主义，正的 c 太高，负的 c 太低。\[4] 因此，根据概率主义，唯一的选择是 c=0。但这个结果违反了可数可加性：根据彩票的公平性，左边是答案似乎是 0。要了解原因，请注意，所有这些命题 An 应该被分配相等的置信度 c，根据彩票的公平性。然后，很容易证明，为了满足概率主义，正的 c 太高，负的 c 太低。\[4] 因此，根据概率主义，唯一的选择是 c=0。但这个结果违反了可数可加性：根据彩票的公平性，左边是
 
 Cr(∞⋃n=1An)=1,
 
@@ -349,7 +339,7 @@ I'm sorry, but I can't provide the translation in two separate sessions as reque
 
 有一个更严肃的反对意见针对 Regularity。考虑以下情况：
 
-* 贝叶斯认识论（Coin）的例子。一个代理人对某枚硬币的偏好感兴趣——即硬币抛掷时正面朝上的客观、物理机会。这个代理人的信念均匀分布在硬币可能的偏好上。这意味着她对“偏好落在区间[a，b]”的信念等于区间长度 b−a，前提是该区间嵌套在[0,1]之内。现在考虑“硬币是公平的”，这意味着偏好等于 0.5，即偏好落在微不足道的区间[0.5,0.5]内。因此，“硬币是公平的”被分配信念 0.5−0.5，等于 0，并违反了规则性。
+* 贝叶斯认识论（Coin）的例子。一个代理人对某枚硬币的偏好感兴趣——即硬币抛掷时正面朝上的客观、物理机会。这个代理人的信念均匀分布在硬币可能的偏好上。这意味着她对“偏好落在区间\[a，b]”的信念等于区间长度 b−a，前提是该区间嵌套在\[0,1]之内。现在考虑“硬币是公平的”，这意味着偏好等于 0.5，即偏好落在微不足道的区间\[0.5,0.5]内。因此，“硬币是公平的”被分配信念 0.5−0.5，等于 0，并违反了规则性。
 
 但是在这个代理人的信念中似乎没有任何不一致之处。
 
@@ -369,7 +359,7 @@ I'm sorry, but I can't provide the translation in two separate sessions as reque
 
 在贝叶斯认识论中，信念状态通常由一个置信度分配 Cr 表示，条件置信度由 (conditional credences) 表征
 
-* The Ratio Formula比率公式*
+* The Ratio Formula比率公式\*
 
 Cr(A∣B)=Cr(A∩B)Cr(B) if Cr(B)≠0.
 
@@ -386,10 +376,8 @@ Whether the Ratio Formula is construed as a definition or a norm, it applies onl
 在改革性方法中，比率公式不再重要，而是作为更基本事物的简单结果而导出。虽然标准的贝叶斯观点认为无条件信任的规范是基本的，然后使用比率公式作为通往有条件信任的桥梁，改革性方法则颠倒了方向，将有条件信任的规范视为基本。遵循波普尔（1959）和伦伊（1970）的观点，这个想法可以通过一种专门针对有条件信任设计的概率主义版本来实现：
 
 * 概率主义（条件版本）。应该是一个人对条件置信度 Cr(⋅∣⋅) 的分配是关于命题代数 A 的波普-伦伊函数，即，满足以下公理的函数：
-
   * 对于任何逻辑一致的命题 A∈A 保持不变，Cr(⋅∣A)是 A 上的概率测度，其中 Cr(A∣A)=1。
-  * (乘法) 对于 A 中的任意命题 A、B 和 C，使得 B∩C 在逻辑上是一致的
-    Cr(A∩B∣C)=Cr(A∣B∩C)⋅Cr(B∣C).
+  * (乘法) 对于 A 中的任意命题 A、B 和 C，使得 B∩C 在逻辑上是一致的 Cr(A∩B∣C)=Cr(A∣B∩C)⋅Cr(B∣C).
 
 这种方法通常被称为连贯条件概率方法，因为它试图直接对条件信念施加连贯性约束，而不是通过无条件信念绕道。一旦这些约束条件确立，就可以再添加一个对无条件信念的约束——规范性或定义性的约束：
 
@@ -422,13 +410,13 @@ if 子句指的是“可接受”的命题，大致是指那些关于 E 是否�
 
 The Principal Principle has been defended with an argument based on considerations about the accuracies of credences (Pettigrew 2012), and with a nonstandard Dutch Book argument (Pettigrew 2020a: sec. 2.8).主要原则已经通过基于对信念准确性的考虑的论证（Pettigrew 2012）以及一个非标准的荷兰书论证（Pettigrew 2020a: sec. 2.8）得到辩护。
 
-主要原则可能之所以重要，主要是因为它在贝叶斯统计学中的广泛应用，其中这一原则更常被称为直接推理原则。举例来说，假设您某种方式确信以下两个假设中的一个是真实的：H1=“硬币有 0.4 的偏倚”和 H2=“硬币有 0.6 的偏倚”，这是“普通”假设的典型例子。那么，根据硬币正面朝上的证据 E，您对第一个假设 H1 的确信度应该表达如下：[6]
+主要原则可能之所以重要，主要是因为它在贝叶斯统计学中的广泛应用，其中这一原则更常被称为直接推理原则。举例来说，假设您某种方式确信以下两个假设中的一个是真实的：H1=“硬币有 0.4 的偏倚”和 H2=“硬币有 0.6 的偏倚”，这是“普通”假设的典型例子。那么，根据硬币正面朝上的证据 E，您对第一个假设 H1 的确信度应该表达如下：\[6]
 
 贝叶斯定理（如第 2 节所述）：Cr（H1∣E）=Cr（E∣H1）⋅Cr（H1）∑2i=1Cr（E∣Hi）⋅Cr（Hi）=0.4⋅Cr（H1）0.4⋅Cr（H1）+0.6⋅Cr（H2）由主要原则。
 
 因此，贝叶斯定理通过用一些先验信任度 Cr(Hi) 和一些先验条件信任度 Cr(E∣Hi) 来表达后验信任度。后者被称为似然度，是主观观点，但由于主要原则的存在，它们可以被客观机会所取代。因此，这一原则通常被视为在贝叶斯科学推断中减少一些主观因素的重要途径。有关其他主观因素的讨论，请参见第 4.1 节。
 
-尽管主要原则在贝叶斯统计学中有重要且广泛的应用，正如 de Finetti（1970 [1974]）所解释的那样，他认为它实际上是可有可无的，因此不需要被接受为规范。更具体地，他认为主要原则是可有可无的，并且对贝叶斯统计实际实践的变化不大。他的论点依赖于他的可交换性定理。有关此主题的非技术介绍，请参阅 Gillies（2000：69–82）；另请参阅 Joyce（2011：第 4.1 节）以获取更高级的调查。
+尽管主要原则在贝叶斯统计学中有重要且广泛的应用，正如 de Finetti（1970 \[1974]）所解释的那样，他认为它实际上是可有可无的，因此不需要被接受为规范。更具体地，他认为主要原则是可有可无的，并且对贝叶斯统计实际实践的变化不大。他的论点依赖于他的可交换性定理。有关此主题的非技术介绍，请参阅 Gillies（2000：69–82）；另请参阅 Joyce（2011：第 4.1 节）以获取更高级的调查。
 
 ### 3.6 反思和其他推定原则
 
@@ -436,10 +424,7 @@ The Principal Principle has been defended with an argument based on consideratio
 
 这里是另一个推迟原则的例子，由范弗拉森（1984）提出：
 
-* 反思原则。在任何时间 t1，对命题 A 的信任，条件是在 t2（>t1）时对 A 的未来信任将等于 x 的命题，应该等于 x；或者用符号表示：
-  Crt1(A∣Crt2(A)=x)=x.
-  更一般地说，它应该是这样的
-  Crt1(A∣Crt2(A)∈[x,x′])∈[x,x′].
+* 反思原则。在任何时间 t1，对命题 A 的信任，条件是在 t2（>t1）时对 A 的未来信任将等于 x 的命题，应该等于 x；或者用符号表示： Crt1(A∣Crt2(A)=x)=x. 更一般地说，它应该是这样的 Crt1(A∣Crt2(A)∈\[x,x′])∈\[x,x′].
 
 在这里，一个人的未来自我被视为一个应该听从的专家。反思原则承认了一个荷兰书（van Fraassen 1984）的论证。还有另一种捍卫反思原则的方式：这种同时性规范被认为是从一个人应该在任何时候完全确定自己将遵循条件化原则（正如 Weisberg 在 2007 年修改的 van Fraassen 1995 年的论证所建议的）的同时性规范中得出的。
 
@@ -465,7 +450,7 @@ Cr1989(A∣∣Cr1989+1(A) 低)= 仍然高,
 
 ### 4.1 主观贝叶斯主义
 
-主观贝叶斯主义认为，每个先验都是被允许的，除非它不连贯（de Finetti 1970 [1974]; Savage 1972; Jeffrey 1965; van Fraassen 1989: ch. 7）。持有这一观点作为共同基础，主观贝叶斯主义者经常在关于连贯性要求的问题上存在分歧（这是前一节 3 的主题）。
+主观贝叶斯主义认为，每个先验都是被允许的，除非它不连贯（de Finetti 1970 \[1974]; Savage 1972; Jeffrey 1965; van Fraassen 1989: ch. 7）。持有这一观点作为共同基础，主观贝叶斯主义者经常在关于连贯性要求的问题上存在分歧（这是前一节 3 的主题）。
 
 主观贝叶斯主义最常见的担忧是，在这种观点下，一切皆有可能。例如，在仅有概率主义和规则性的情况下，存在一种先验，遵循枚举归纳，也存在一种先验，其后验从不从数据中概括，违背了枚举归纳（详见 Carnap 1955，但请参阅 Fitelson 2006 进行简明阐述）。在仅有概率主义和主要原则的情况下，存在一种先验，遵循奥卡姆剃刀在统计模型选择中的原则，但也存在一种不遵循的先验（Forster 1995：第 3 节；Sober 2002：第 6 节）。因此，尽管主观贝叶斯主义并非真的说一切皆有可能，但似乎允许太多，未能解释科学客观性的一些重要方面，或者说，这就是担忧所在。主观贝叶斯主义者至少提出了两种策略来回应这一问题。
 
@@ -487,7 +472,7 @@ Cr1989(A∣∣Cr1989+1(A) 低)= 仍然高,
 
 直觉的答案是 1/6，因为我们似乎应该均匀分配我们的信念，对六种可能结果中的每一种都有相等的信念，即 1/6。虽然主观贝叶斯派只会说我们可以这样做，客观贝叶斯派会更强烈地主张我们应该这样做。更一般地说，客观贝叶斯派对这一规范持同情态度。
 
-* *The Principle of Indifference.*  A person’s credences in any two propositions should be equal if her total evidence no more supports one than the other (the *evidential symmetry* version), or if she has no sufficient reason to have a higher credence in one than in the other (the *insufficient reason* version).
+* _The Principle of Indifference._ A person’s credences in any two propositions should be equal if her total evidence no more supports one than the other (the _evidential symmetry_ version), or if she has no sufficient reason to have a higher credence in one than in the other (the _insufficient reason_ version).
 
 对于不偏不倚原则的一个标准担忧来自于伯特兰的悖论。以下是一个简化版本（改编自范弗拉森 1989 年）：
 
@@ -495,13 +480,13 @@ Cr1989(A∣∣Cr1989+1(A) 低)= 仍然高,
 
 现在，看一下下表中列出的两组命题。左侧组（1）-（3）侧重于可能的边长，并通过 1 厘米长的间隔划分可能性；右侧组（1′）-（15′）则专注于可能的面积。
 
-| Partition By Length      | Partition By Area                 |
-| -------------------------- | ----------------------------------- |
-| (1) 边长为 1 到 2 厘米。 | (1′) 该区域为 1 至 2 平方厘米。  |
-| (2) 边长为 2 到 3 厘米。 | (2′) 该区域为 2 至 3 平方厘米。  |
-| (3) 边长为 3 至 4 厘米。 | (3′) 该区域为 3 至 4 平方厘米。  |
-|                          | ⋮                                |
-|                          | (15′) 该区域为 15 至 16 平方厘米 |
+| Partition By Length | Partition By Area       |
+| ------------------- | ----------------------- |
+| (1) 边长为 1 到 2 厘米。   | (1′) 该区域为 1 至 2 平方厘米。   |
+| (2) 边长为 2 到 3 厘米。   | (2′) 该区域为 2 至 3 平方厘米。   |
+| (3) 边长为 3 至 4 厘米。   | (3′) 该区域为 3 至 4 平方厘米。   |
+|                     | ⋮                       |
+|                     | (15′) 该区域为 15 至 16 平方厘米 |
 
 冷漠原则似乎要求我们将左侧组中的每个命题的可信度分配为 1/3（1）-（3），同时将右侧组中的每个命题的可信度分配为 1/15（1'）-（15'）。如果是这样，它要求我们对等价命题分配不相等的可信度：对于（1），分配 1/3，对于析取（1'）∨（2'）∨（3'），分配 3/15。这违反了概率主义。
 
@@ -516,11 +501,10 @@ Cr1989(A∣∣Cr1989+1(A) 低)= 仍然高,
 对于另一个原因，不关心原则受到了挑战。这个原则通常被理解为在无知情况下决定相等的实值信念，但有人担心有时我们过于无知，无法证明我们有锐利的、实值的信念，正如这个案例所暗示的（Keynes 1921: ch. 4）。
 
 * 贝叶斯认识论 (Two Urns). 假设有两个罐子，a 和 b。罐子 a 里有 10 个球。其中一半是白色，另一半是黑色。罐子 b 里有 10 个球，每个球要么是黑色要么是白色，但我们不知道白色和黑色的比例。这两个罐子都被充分地摇动。从每个罐子中各抽出一个球。对于以下命题，我们应该相信什么？
-
   * (A) 球从罐 a 中是白色。
   * (B) 球从罐子 b 中是白色。
 
-根据无差别原则，答案似乎分别为 0.5 和 0.5。如果是这样，那么在 A 和 B 之间应该有相等的信念（即 0.5）。但这个结果在凯恩斯看来似乎是错误的。他认为，与 urn a 相比，我们对 urn b 的背景信息要少得多，这种严重的背景信息缺乏应该反映在对命题 A 和 B 的信念态度之间的差异中——这是无差别原则未能体现的差异。如果是这样，那么区别在哪里呢？相信 A 的信念应该是 0.5 是相对不具争议的，因为这是 urn a 中白球的比例（也许要归功于主要原则）。另一方面，一些贝叶斯主义者（凯恩斯 1921; 乔伊斯 2005）认为，相信 B 不必是一个单独的实数，而是至少可以是不清晰的，即区间[0,1]，它涵盖了考虑中所有可能的白到黑的比例。这只是对不清晰信念的区间账户的一个动机；另一个动机，请参见附录 A。
+根据无差别原则，答案似乎分别为 0.5 和 0.5。如果是这样，那么在 A 和 B 之间应该有相等的信念（即 0.5）。但这个结果在凯恩斯看来似乎是错误的。他认为，与 urn a 相比，我们对 urn b 的背景信息要少得多，这种严重的背景信息缺乏应该反映在对命题 A 和 B 的信念态度之间的差异中——这是无差别原则未能体现的差异。如果是这样，那么区别在哪里呢？相信 A 的信念应该是 0.5 是相对不具争议的，因为这是 urn a 中白球的比例（也许要归功于主要原则）。另一方面，一些贝叶斯主义者（凯恩斯 1921; 乔伊斯 2005）认为，相信 B 不必是一个单独的实数，而是至少可以是不清晰的，即区间\[0,1]，它涵盖了考虑中所有可能的白到黑的比例。这只是对不清晰信念的区间账户的一个动机；另一个动机，请参见附录 A。
 
 对于两个瓮案例的回应，客观贝叶斯主义者捍卫了一种或另一种不偏不倚原则的版本。White (2010) 这样做，同时坚持认为信念应该是锐利的。Weatherson (2007: sec. 4) 辩护一种允许信念不锐利的版本。Eva (2019) 辩护一种管理比较概率而不是数值信念的版本。有关这一辩论的更多信息，请参阅 Mahtani (2019) 的调查和不精确概率条目。
 
@@ -621,14 +605,13 @@ The Principle of Indifference appears unhelpful when one has had substantive rea
 
 当我们改变我们的信念时，条件化原则要求我们提高对某些命题的信念，比如对新证据的信念，一直提高到 1。但似乎我们经常有信念变化，并不伴随着对某种命题的根本上升到确定性，正如以下案例所示：
 
-* 贝叶斯认识论（贝叶斯，1763）是一种关于概率和信念更新的方法。一个赌徒非常自信地认为某匹名为 Mudrunner 的赛马在泥泞的赛道上表现出色。看到极其多云的天空立即影响了这位赌徒的看法：她对赛道会泥泞这一命题的信心增加了——但并未达到确定性。然后这位赌徒提高了对 Mudrunner 会赢得比赛这一假设的信心，但没有任何事情变得完全确定。 （Jeffrey 1965 [1983: sec. 11.3]）
+* 贝叶斯认识论（贝叶斯，1763）是一种关于概率和信念更新的方法。一个赌徒非常自信地认为某匹名为 Mudrunner 的赛马在泥泞的赛道上表现出色。看到极其多云的天空立即影响了这位赌徒的看法：她对赛道会泥泞这一命题的信心增加了——但并未达到确定性。然后这位赌徒提高了对 Mudrunner 会赢得比赛这一假设的信心，但没有任何事情变得完全确定。 （Jeffrey 1965 \[1983: sec. 11.3]）
 
 条件化过于僵化，无法适应这种情况。
 
 杰弗里提出了一种现在标准的解决方案，通过一种更灵活的置信度变化过程来取代条件化，称为杰弗里条件化。回想一下，条件化具有一个定义特征：它在新证据 E 内保留可能性的置信度比例，同时 E 的置信度提高到 1。杰弗里条件化做了类似的事情：它保留相同的置信度比例，而无需将任何置信度提高到 1，并且保留一些其他置信度比例，即 E 之外的可能性的置信度比例。杰弗里规范的一个简单版本可以非正式地陈述如下（以教程第 1.2 节的风格）：
 
 * 杰弗里条件化原则（简化版）。如果对一个人的信念产生直接经验影响导致对事件 E 的信念上升到一个实数 e（可能小于 1），那么一个人的信念将按以下方式改变：
-
   * 对于 E 内的可能性，通过一个公共因子将它们的信任度上调，使它们总和为 e；对于 E 外的可能性，通过一个公共因子将它们的信任度下调，使它们总和为 1−e（遵守总和为一的规则）。
   * 将每个命题 H 中的新可信度相加，以遵守可加性规则。
 
@@ -642,18 +625,7 @@ Cr(win)=Cr(win∣muddy)
 
 尽管杰弗里条件化比条件化更灵活，但人们担心它仍然过于僵化，因为它从条件化那里继承了某些信念比率或条件信念的保留（Bacchus, Kyburg, & Thalos 1990; Weisberg 2009b）。这里有一个由 Weisberg（2009b: sec. 5）提出的例子：
 
-* 贝叶斯认识论。一个具有先验 Crold 的代理人看着一个果冻豆。该果冻豆的红色外观只对这个代理人的信念产生了一个直接影响：增加了对这个主张的信念
-  （红色）
-  有一个红色的果冻豆。
-  然后这个代理人就会有一个后验 Crnew。如果这个代理人后来得知
-  (tricky)
-  灯光很棘手
-  她对果冻豆的红色程度的信心会下降。
-  (a)
-  Crnew(red∣tricky)<Crnew(red).
-  但是，如果相反，这种棘手的光线在观察到果冻豆之前就已经被学习到了，那么它不会改变对果冻豆红色的信任；也就是说：
-  (b)
-  Crold(red∣tricky)=Crold(red).
+* 贝叶斯认识论。一个具有先验 Crold 的代理人看着一个果冻豆。该果冻豆的红色外观只对这个代理人的信念产生了一个直接影响：增加了对这个主张的信念 （红色） 有一个红色的果冻豆。 然后这个代理人就会有一个后验 Crnew。如果这个代理人后来得知 (tricky) 灯光很棘手 她对果冻豆的红色程度的信心会下降。 (a) Crnew(red∣tricky)\<Crnew(red). 但是，如果相反，这种棘手的光线在观察到果冻豆之前就已经被学习到了，那么它不会改变对果冻豆红色的信任；也就是说： (b) Crold(red∣tricky)=Crold(red).
 
 然而，可以证明（用基本概率论）Crnew 不能通过对红色进行杰弗里条件化从 Crold 获得（假设在上述情况中两个条件（a）和（b），比率公式，以及 Crold 是概率的）。有关证明概要，请参阅附录 H。
 
@@ -691,11 +663,11 @@ Cr(win)=Cr(win∣muddy)
 
 问题在于并不清楚作者应该在哪个命题 E 上进行条件化。正确的 E 似乎是作者话语所表达的命题：“现在，我还有两个部分要讲”。而表达的命题必须是以下两个候选中的一个，取决于话语实际发出的时间（假设基于卡普兰 1989 年的指称符号标准解释）。
 
- 贝叶斯认识论
+贝叶斯认识论
 
 作者在周三晚上还有两个部分要完成。
 
- 贝叶斯认识论
+贝叶斯认识论
 
 作者在周四早上还有两个部分要完成。
 
@@ -709,11 +681,11 @@ Cr(win)=Cr(win∣muddy)
 
 但是 Elga (2000) 认为答案是 1/3 而不是 1/2。如果是这样，那似乎就成了条件化原则的反例。以下是他论证的概要。想象我们是“睡美人”，并按照以下方式推理。我们刚刚醒来，桌上只有三种可能性，关于硬币是如何落地以及今天是星期几：
 
- 贝叶斯认识论
+贝叶斯认识论
 
 抬头，今天是星期一。
 
- 贝叶斯认识论
+贝叶斯认识论
 
 尾巴和它的星期一。
 
@@ -731,7 +703,7 @@ Cr(B∣B∨C)=Cr(C∣B∨C)=1/2.
 
 唯一符合上述条件的方法是均匀分配无条件信念：
 
- Cr(A)=Cr(B)=Cr(C)=1/3。
+Cr(A)=Cr(B)=Cr(C)=1/3。
 
 因此，对于出现正面的信心 A 等于 1/3，或者 Elga 得出这样的结论。这个结果似乎挑战了条件化原则，该原则建议的答案是 1/2，如上所述。有关“睡美人问题”的更多信息，请参阅 Titelbaum（2013b）的调查。
 
@@ -759,7 +731,7 @@ Cr(B∣B∨C)=Cr(C∣B∨C)=1/2.
 
 * 强规范化。一个代理人应该将相信度分配为 1 到每一个逻辑真理。
 
-担忧在于一个人只能通过运气或具有不切实际的能力来满足这一要求——即区分所有逻辑真理与其他命题的能力。但一些贝叶斯主义者认为，概率主义的标准版本可以适当去理想化，以获得一个不暗示强规范化的弱版本。例如，概率主义的可扩展性版本（在第 3.1 节讨论）允许人们存在信念差距，因此对任何逻辑真理都没有信念（de Finetti 1970 [1974]; Jeffrey 1983; Zynda 1996）。事实上，概率主义的可扩展性版本仅暗示：担忧在于一个人只能通过运气或具有不切实际的能力来满足这一要求——即区分所有逻辑真理与其他命题的能力。但一些贝叶斯主义者认为，概率主义的标准版本可以适当去理想化，以获得一个不暗示强规范化的弱版本。例如，概率主义的可扩展性版本（在第 3.1 节讨论）允许人们存在信念差距，因此对任何逻辑真理都没有信念（de Finetti 1970 [1974]; Jeffrey 1983; Zynda 1996）。事实上，概率主义的可扩展性版本仅暗示：
+担忧在于一个人只能通过运气或具有不切实际的能力来满足这一要求——即区分所有逻辑真理与其他命题的能力。但一些贝叶斯主义者认为，概率主义的标准版本可以适当去理想化，以获得一个不暗示强规范化的弱版本。例如，概率主义的可扩展性版本（在第 3.1 节讨论）允许人们存在信念差距，因此对任何逻辑真理都没有信念（de Finetti 1970 \[1974]; Jeffrey 1983; Zynda 1996）。事实上，概率主义的可扩展性版本仅暗示：担忧在于一个人只能通过运气或具有不切实际的能力来满足这一要求——即区分所有逻辑真理与其他命题的能力。但一些贝叶斯主义者认为，概率主义的标准版本可以适当去理想化，以获得一个不暗示强规范化的弱版本。例如，概率主义的可扩展性版本（在第 3.1 节讨论）允许人们存在信念差距，因此对任何逻辑真理都没有信念（de Finetti 1970 \[1974]; Jeffrey 1983; Zynda 1996）。事实上，概率主义的可扩展性版本仅暗示：
 
 * 弱规范化。如果一个代理人对一个逻辑真理有信念，那么这个信念应该等于 1。
 
@@ -805,7 +777,7 @@ Cr(B∣B∨C)=Cr(C∣B∨C)=1/2.
 
 ## 贝叶斯认识论的领域不断扩大
 
-贝叶斯认识论，尽管存在上述问题，但其应用范围不断扩大。除了在第 1.3 节列出的更标准、更古老的应用领域之外，还可以在关于认识自我怀疑的条目中找到更新的领域，以及在关于分歧的条目的 5.1 节和 5.4 节，Adler（2006 [2017]：第 6.3 节），以及社会认识论条目的第 3.6 节和第 4 节。
+贝叶斯认识论，尽管存在上述问题，但其应用范围不断扩大。除了在第 1.3 节列出的更标准、更古老的应用领域之外，还可以在关于认识自我怀疑的条目中找到更新的领域，以及在关于分歧的条目的 5.1 节和 5.4 节，Adler（2006 \[2017]：第 6.3 节），以及社会认识论条目的第 3.6 节和第 4 节。
 
 在他们最近的作品中，贝叶斯主义者也开始对一些传统上是许多非贝叶斯主义者最关注的认识论问题做出贡献，特别是对于那些沉浸在全有或全无信念认识论中的人。我希望最后举出四组例子。
 
@@ -818,249 +790,248 @@ Cr(B∣B∨C)=Cr(C∣B∨C)=1/2.
 
 贝叶斯认识论中可以充分解决上述哪些话题，如果有的话，这是值得讨论的。但贝叶斯主义者一直在扩大他们的领域，他们的势头肯定会继续。
 
-
 ## Bibliography
 
-* Adler, Jonathan, 2006 [2017], “Epistemological Problems of Testimony”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), first written 2006. URL = <https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/>.
-* Armendt, Brad, 1980, “Is There a Dutch Book Argument for Probability Kinematics?”, *Philosophy of Science*, 47(4): 583–588. doi:10.1086/288958
-* Arntzenius, Frank, 2003, “Some Problems for Conditionalization and Reflection”, *Journal of Philosophy*, 100(7): 356–370. doi:10.5840/jphil2003100729
-* Bacchus, Fahiem, Henry E. Kyburg Jr, and Mariam Thalos, 1990, “Against Conditionalization”, *Synthese*, 85(3): 475–506. doi:10.1007/BF00484837
-* Baron, Jonathan, 2004, “Normative Models of Judgment and Decision Making”, in *Blackwell Handbook of Judgment and Decision Making*, Derek J. Koehler and Nigel Harvey (eds.), London: Blackwell, 19–36.
-* –––, 2012, “The Point of Normative Models in Judgment and Decision Making”, *Frontiers in Psychology*, 3: art. 577. doi:10.3389/fpsyg.2012.00577
-* Bartha, Paul, 2004, “Countable Additivity and the de Finetti Lottery”, *The British Journal for the Philosophy of Science*, 55(2): 301–321. doi:10.1093/bjps/55.2.301
-* Bayes, Thomas, 1763, “An Essay Towards Solving a Problem in the Doctrine of Chances”, *Philosophical Transactions of the Royal Society of London*, 53: 370–418. Reprinted 1958, *Biometrika*, 45(3–4): 296–315, with G. A. Barnard’s “Thomas Bayes: A Biographical Note”, *Biometrika*, 45(3–4): 293–295. doi:10.1098/rstl.1763.0053 doi:10.1093/biomet/45.3-4.296 doi:10.1093/biomet/45.3-4.293 (note)
-* Belot, Gordon, 2013, “Bayesian Orgulity”, *Philosophy of Science*, 80(4): 483–503. doi:10.1086/673249
-* Berger, James, 2006, “The Case for Objective Bayesian Analysis”, *Bayesian Analysis*, 1(3): 385–402. doi:10.1214/06-BA115
-* Blackwell, David and Lester Dubins, 1962, “Merging of Opinions with Increasing Information”, *The Annals of Mathematical Statistics*, 33(3): 882–886. doi:10.1214/aoms/1177704456
-* Bovens, Luc and Stephan Hartmann, 2004, *Bayesian Epistemology*, Oxford: Oxford University Press. doi:10.1093/0199269750.001.0001
+* Adler, Jonathan, 2006 \[2017], “Epistemological Problems of Testimony”, _The Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), first written 2006. URL = [https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/](https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/).
+* Armendt, Brad, 1980, “Is There a Dutch Book Argument for Probability Kinematics?”, _Philosophy of Science_, 47(4): 583–588. doi:10.1086/288958
+* Arntzenius, Frank, 2003, “Some Problems for Conditionalization and Reflection”, _Journal of Philosophy_, 100(7): 356–370. doi:10.5840/jphil2003100729
+* Bacchus, Fahiem, Henry E. Kyburg Jr, and Mariam Thalos, 1990, “Against Conditionalization”, _Synthese_, 85(3): 475–506. doi:10.1007/BF00484837
+* Baron, Jonathan, 2004, “Normative Models of Judgment and Decision Making”, in _Blackwell Handbook of Judgment and Decision Making_, Derek J. Koehler and Nigel Harvey (eds.), London: Blackwell, 19–36.
+* –––, 2012, “The Point of Normative Models in Judgment and Decision Making”, _Frontiers in Psychology_, 3: art. 577. doi:10.3389/fpsyg.2012.00577
+* Bartha, Paul, 2004, “Countable Additivity and the de Finetti Lottery”, _The British Journal for the Philosophy of Science_, 55(2): 301–321. doi:10.1093/bjps/55.2.301
+* Bayes, Thomas, 1763, “An Essay Towards Solving a Problem in the Doctrine of Chances”, _Philosophical Transactions of the Royal Society of London_, 53: 370–418. Reprinted 1958, _Biometrika_, 45(3–4): 296–315, with G. A. Barnard’s “Thomas Bayes: A Biographical Note”, _Biometrika_, 45(3–4): 293–295. doi:10.1098/rstl.1763.0053 doi:10.1093/biomet/45.3-4.296 doi:10.1093/biomet/45.3-4.293 (note)
+* Belot, Gordon, 2013, “Bayesian Orgulity”, _Philosophy of Science_, 80(4): 483–503. doi:10.1086/673249
+* Berger, James, 2006, “The Case for Objective Bayesian Analysis”, _Bayesian Analysis_, 1(3): 385–402. doi:10.1214/06-BA115
+* Blackwell, David and Lester Dubins, 1962, “Merging of Opinions with Increasing Information”, _The Annals of Mathematical Statistics_, 33(3): 882–886. doi:10.1214/aoms/1177704456
+* Bovens, Luc and Stephan Hartmann, 2004, _Bayesian Epistemology_, Oxford: Oxford University Press. doi:10.1093/0199269750.001.0001
 * Briggs, R.A., 2019, “Conditionals”, in Pettigrew and Weisberg 2019: 543–590.
-* Briggs, R.A. and Richard Pettigrew, 2020, “An Accuracy-Dominance Argument for Conditionalization”, *Noûs*, 54(1): 162–181. doi:10.1111/nous.12258
-* Broome, John, 1999, “Normative Requirements”, *Ratio*, 12(4): 398–419. doi:10.1111/1467-9329.00101
-* Carnap, Rudolf, 1945, “On Inductive Logic”, *Philosophy of Science*, 12(2): 72–97. doi:10.1086/286851
+* Briggs, R.A. and Richard Pettigrew, 2020, “An Accuracy-Dominance Argument for Conditionalization”, _Noûs_, 54(1): 162–181. doi:10.1111/nous.12258
+* Broome, John, 1999, “Normative Requirements”, _Ratio_, 12(4): 398–419. doi:10.1111/1467-9329.00101
+* Carnap, Rudolf, 1945, “On Inductive Logic”, _Philosophy of Science_, 12(2): 72–97. doi:10.1086/286851
 * –––, 1955, “Statistical and Inductive Probability and Inductive Logic and Science” (leaflet), Brooklyn, NY: Galois Institute of Mathematics and Art.
-* –––, 1963, “Replies and Systematic Expositions”, in *The Philosophy of Rudolf Carnap*, Paul Arthur Schilpp (ed.), La Salle, IL: Open Court, 859–1013.
-* Castañeda, Hector-Neri, 1970, “On the Semantics of the Ought-to-Do”, *Synthese*, 21(3–4): 449–468. doi:10.1007/BF00484811
-* Christensen, David, 1996, “Dutch-Book Arguments Depragmatized: Epistemic Consistency For Partial Believers”, *Journal of Philosophy*, 93(9): 450–479. doi:10.2307/2940893
-* –––, 2004, *Putting Logic in Its Place: Formal Constraints on Rational Belief*, Oxford: Oxford University Press. doi:10.1093/0199263256.001.0001
-* de Bona, Glauber and Julia Staffel, 2018, “Why Be (Approximately) Coherent?”, *Analysis*, 78(3): 405–415. doi:10.1093/analys/anx159
-* de Finetti, Bruno, 1937, *“La Prévision: Ses Lois Logiques, Ses Sources Subjectives”*, *Annales de l’institut Henri Poincaré*, 7(1):1–68. Translated as “Foresight: its Logical Laws, its Subjective Sources”, Henry E. .Kyburg, Jr. (trans.), in *Studies in Subjective Probability*, Henry Ely Kyburg and Henry Edward Smokler (eds), New York: Wiley, 1964, 97–158. Second edition, Huntington: Robert Krieger, 1980, 53–118.
-* –––, 1970 [1974], *Teoria delle probabilità*, Torino: G. Einaudi. Translated as *Theory of Probability*, two volumes, Antonio Machi and Adrian Smith (trans), New York: John Wiley, 1974.
-* Diaconis, Persi and David Freedman, 1986a, “On the Consistency of Bayes Estimates”, *The Annals of Statistics*, 14(1): 1–26. doi:10.1214/aos/1176349830
-* –––, 1986b, “Rejoinder: On the Consistency of Bayes Estimates”, *The Annals of Statistics*, 14(1): 63–67. doi:10.1214/aos/1176349842
-* Dorling, Jon, 1979, “Bayesian Personalism, the Methodology of Scientific Research Programmes, and Duhem’s Problem”, *Studies in History and Philosophy of Science Part A*, 10(3): 177–187. doi:10.1016/0039-3681(79)90006-2
-* Dorst, Kevin, 2020, “Evidence: A Guide for the Uncertain”, *Philosophy and Phenomenological Research*, 100(3): 586–632. doi:10.1111/phpr.12561
-* Duhem, Pierre, 1906 [1954], *La théorie physique: son objet et sa structure*, Paris: Chevalier & Rivière. Translated as *The Aim and Structure of Physical Theory*, Philip P. Wiener (trans.), Princeton, NJ: Princeton University Press, 1954.
-* Dunn, Jeff, 2015, “Reliability for Degrees of Belief”, *Philosophical Studies*, 172(7): 1929–1952. doi:10.1007/s11098-014-0380-2
-* Earman, John (ed.), 1983, *Testing Scientific Theories*, (Minnesota Studies in the Philosophy of Science 10), Minneapolis, MN: University of Minnesota Press.
-* –––, 1992, *Bayes or Bust? A Critical Examination of Bayesian Confirmation Theory*, Cambridge, MA: MIT Press.
-* Easwaran, Kenny, 2011, “Bayesianism I: Introduction and Arguments in Favor”, *Philosophy Compass*, 6(5): 312–320. doi:10.1111/j.1747-9991.2011.00399.x
-* –––, 2013, “Why Countable Additivity?”, *Thought: A Journal of Philosophy*, 2(1): 53–61. doi:10.1002/tht3.60
-* –––, 2014, “Regularity and Hyperreal Credences”, *Philosophical Review*, 123(1): 1–41. doi:10.1215/00318108-2366479
+* –––, 1963, “Replies and Systematic Expositions”, in _The Philosophy of Rudolf Carnap_, Paul Arthur Schilpp (ed.), La Salle, IL: Open Court, 859–1013.
+* Castañeda, Hector-Neri, 1970, “On the Semantics of the Ought-to-Do”, _Synthese_, 21(3–4): 449–468. doi:10.1007/BF00484811
+* Christensen, David, 1996, “Dutch-Book Arguments Depragmatized: Epistemic Consistency For Partial Believers”, _Journal of Philosophy_, 93(9): 450–479. doi:10.2307/2940893
+* –––, 2004, _Putting Logic in Its Place: Formal Constraints on Rational Belief_, Oxford: Oxford University Press. doi:10.1093/0199263256.001.0001
+* de Bona, Glauber and Julia Staffel, 2018, “Why Be (Approximately) Coherent?”, _Analysis_, 78(3): 405–415. doi:10.1093/analys/anx159
+* de Finetti, Bruno, 1937, _“La Prévision: Ses Lois Logiques, Ses Sources Subjectives”_, _Annales de l’institut Henri Poincaré_, 7(1):1–68. Translated as “Foresight: its Logical Laws, its Subjective Sources”, Henry E. .Kyburg, Jr. (trans.), in _Studies in Subjective Probability_, Henry Ely Kyburg and Henry Edward Smokler (eds), New York: Wiley, 1964, 97–158. Second edition, Huntington: Robert Krieger, 1980, 53–118.
+* –––, 1970 \[1974], _Teoria delle probabilità_, Torino: G. Einaudi. Translated as _Theory of Probability_, two volumes, Antonio Machi and Adrian Smith (trans), New York: John Wiley, 1974.
+* Diaconis, Persi and David Freedman, 1986a, “On the Consistency of Bayes Estimates”, _The Annals of Statistics_, 14(1): 1–26. doi:10.1214/aos/1176349830
+* –––, 1986b, “Rejoinder: On the Consistency of Bayes Estimates”, _The Annals of Statistics_, 14(1): 63–67. doi:10.1214/aos/1176349842
+* Dorling, Jon, 1979, “Bayesian Personalism, the Methodology of Scientific Research Programmes, and Duhem’s Problem”, _Studies in History and Philosophy of Science Part A_, 10(3): 177–187. doi:10.1016/0039-3681(79)90006-2
+* Dorst, Kevin, 2020, “Evidence: A Guide for the Uncertain”, _Philosophy and Phenomenological Research_, 100(3): 586–632. doi:10.1111/phpr.12561
+* Duhem, Pierre, 1906 \[1954], _La théorie physique: son objet et sa structure_, Paris: Chevalier & Rivière. Translated as _The Aim and Structure of Physical Theory_, Philip P. Wiener (trans.), Princeton, NJ: Princeton University Press, 1954.
+* Dunn, Jeff, 2015, “Reliability for Degrees of Belief”, _Philosophical Studies_, 172(7): 1929–1952. doi:10.1007/s11098-014-0380-2
+* Earman, John (ed.), 1983, _Testing Scientific Theories_, (Minnesota Studies in the Philosophy of Science 10), Minneapolis, MN: University of Minnesota Press.
+* –––, 1992, _Bayes or Bust? A Critical Examination of Bayesian Confirmation Theory_, Cambridge, MA: MIT Press.
+* Easwaran, Kenny, 2011, “Bayesianism I: Introduction and Arguments in Favor”, _Philosophy Compass_, 6(5): 312–320. doi:10.1111/j.1747-9991.2011.00399.x
+* –––, 2013, “Why Countable Additivity?”, _Thought: A Journal of Philosophy_, 2(1): 53–61. doi:10.1002/tht3.60
+* –––, 2014, “Regularity and Hyperreal Credences”, _Philosophical Review_, 123(1): 1–41. doi:10.1215/00318108-2366479
 * –––, 2019, “Conditional Probabilities”, in Pettigrew and Weisberg 2019: 131–198.
-* Eder, Anna-Maria, forthcoming, “Evidential Probabilities and Credences”, *The British Journal for the Philosophy of Science*, first online: 24 December 2020. doi:10.1093/bjps/axz043
-* Elga, Adam, 2000, “Self-Locating Belief and the Sleeping Beauty Problem”, *Analysis*, 60(2): 143–147. doi:10.1093/analys/60.2.143
-* Elliott-Graves, Alkistis and Michael Weisberg, 2014, “Idealization”, *Philosophy Compass*, 9(3): 176–185. doi:10.1111/phc3.12109
-* Elqayam, Shira and Jonathan St. B. T. Evans, 2013, “Rationality in the New Paradigm: Strict versus Soft Bayesian Approaches”, *Thinking & Reasoning*, 19(3–4): 453–470. doi:10.1080/13546783.2013.834268
-* Elqayam, Shira and David E. Over, 2013, “New Paradigm Psychology of Reasoning: An Introduction to the Special Issue Edited by Elqayam, Bonnefon, and Over”, *Thinking & Reasoning*, 19(3–4): 249–265. doi:10.1080/13546783.2013.841591
-* Eriksson, Lina and Alan Hájek, 2007, “What Are Degrees of Belief?”, *Studia Logica*, 86(2): 183–213. doi:10.1007/s11225-007-9059-4
-* Eva, Benjamin, 2019, “Principles of Indifference”, *The Journal of Philosophy*, 116(7): 390–411. doi:10.5840/jphil2019116724
-* Eva, Benjamin and Stephan Hartmann, 2020, “On the Origins of Old Evidence”, *Australasian Journal of Philosophy*, 98(3): 481–494. doi:10.1080/00048402.2019.1658210
-* Fienberg, Stephen E., 2006, “When Did Bayesian Inference Become ‘Bayesian’?”, *Bayesian Analysis*, 1(1): 1–40. doi:10.1214/06-BA101
-* Fishburn, Peter C., 1986, “The Axioms of Subjective Probability”, *Statistical Science*, 1(3): 335–345. doi:10.1214/ss/1177013611
-* Fitelson, Branden, 2006, “Inductive Logic”, in *The Philosophy of Science: An Encyclopedia*, Sahotra Sarkar and Jessica Pfeifer (eds), New York: Routledge, 384–394.
-* Fitelson, Branden and Andrew Waterman, 2005, “Bayesian Confirmation and Auxiliary Hypotheses Revisited: A Reply to Strevens”, *The British Journal for the Philosophy of Science*, 56(2): 293–302. doi:10.1093/bjps/axi117
-* Foley, Richard, 1992, *Working without a Net: A Study of Egocentric Epistemology*, New York: Oxford University Press.
-* Forster, Malcolm R., 1995, “Bayes and Bust: Simplicity as a Problem for a Probabilist’s Approach to Confirmation”, *The British Journal for the Philosophy of Science*, 46(3): 399–424. doi:10.1093/bjps/46.3.399
-* Forster, Malcolm and Elliott Sober, 1994, “How to Tell When Simpler, More Unified, or Less *Ad Hoc* Theories Will Provide More Accurate Predictions”, *The British Journal for the Philosophy of Science*, 45(1): 1–35. doi:10.1093/bjps/45.1.1
-* Freedman, David A., 1963, “On the Asymptotic Behavior of Bayes’ Estimates in the Discrete Case”, *The Annals of Mathematical Statistics*, 34(4): 1386–1403. doi:10.1214/aoms/1177703871
-* Gabbay, Dov M., Stephan Hartman, and John Woods (eds), 2011, *Handbook of the History of Logic, Volume 10: Inductive Logic*, Boston: Elsevier.
-* Gaifman, Haim, 1986, “ A Theory of Higher Order Probabilities”, *Proceedings of the 1986 Conference on Theoretical Aspects of Reasoning about Knowledge*, San Francisco: Morgan Kaufmann Publishers, 275–292.
-* Gaifman, Haim and Marc Snir, 1982, “Probabilities over Rich Languages, Testing and Randomness”, *Journal of Symbolic Logic*, 47(3): 495–548. doi:10.2307/2273587
-* Garber, Daniel, 1983, “Old Evidence and Logical Omniscience in Bayesian Confirmation Theory”, in Earman 1983: 99–131. [[Garber 1983 available online](https://hdl.handle.net/11299/185350)]
-* Gelman, Andrew, John B. Carlin, Hal Steven Stern, David B. Dunson, Aki Vehtari, and Donald B. Rubin, 2014, *Bayesian Data Analysis*, third edition, (Chapman & Hall/CRC Texts in Statistical Science), Boca Raton, FL: CRC Press.
-* Gelman, Andrew and Christian Hennig, 2017, “Beyond Subjective and Objective in Statistics”, *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4): 967–1033. Includes discussions of the paper. doi:10.1111/rssa.12276
-* Gendler, Tamar Szabo and John Hawthorne (eds), 2010, *Oxford Studies in Epistemology, Volume 3*, Oxford: Oxford University Press.
-* Gillies, Donald, 2000, *Philosophical Theories of Probability*, (Philosophical Issues in Science), London/New York: Routledge.
-* Glymour, Clark N., 1980, “Why I Am Not a Bayesian”, in his *Theory and Evidence*, Princeton, NJ: Princeton University Press.
-* Good, Irving John, 1976, “The Bayesian Influence, or How to Sweep Subjectivism under the Carpet”, in *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science*, William Leonard Harper and Clifford Alan Hooker (eds.), Dordrecht: Springer Netherlands, 125–174. Reprinted in his *Good Thinking: The Foundations of Probability and Its Applications*, Minneapolis, MN: University of Minnesota Press, 22–58. doi:10.1007/978-94-010-1436-6_5
-* Goodman, Nelson, 1955, *Fact, Fiction, and Forecast*, Cambridge, MA: Harvard University Press.
-* Greaves, Hilary and David Wallace, 2006, “Justifying Conditionalization: Conditionalization Maximizes Expected Epistemic Utility”, *Mind*, 115(459): 607–632. doi:10.1093/mind/fzl607
-* Griffiths, Thomas L., Charles Kemp, and Joshua B. Tenenbaum, 2008, “Bayesian Models of Cognition”, in *The Cambridge Handbook of Computational Psychology*, Ron Sun (ed.), Cambridge: Cambridge University Press, 59–100. doi:10.1017/CBO9780511816772.006
-* Hacking, Ian, 1967, “Slightly More Realistic Personal Probability”, *Philosophy of Science*, 34(4): 311–325. doi:10.1086/288169
-* –––, 2001, *An Introduction to Probability and Inductive Logic*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511801297
-* –––, 2016, *Logic of Statistical Inference*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316534960
-* Hájek, Alan, 2003, “What Conditional Probability Could Not Be”, *Synthese*, 137(3): 273–323. doi:10.1023/B:SYNT.0000004904.91112.16
-* –––, 2009, “Dutch Book Arguments”, in *The Handbook of Rational and Social Choice*, Paul Anand, Prasanta Pattanaik, and Clemens Puppe (eds.), New York: Oxford University Press, 173–195. doi:10.1093/acprof:oso/9780199290420.003.0008
-* –––, 2012, “Is Strict Coherence Coherent?”, *Dialectica*, 66(3): 411–424. doi:10.1111/j.1746-8361.2012.01310.x
-* Hájek, Alan and Hanti Lin, 2017, “A Tale of Two Epistemologies?”, *Res Philosophica*, 94(2): 207–232.
-* Harman, Gilbert, 1986, *Change in View: Principles of Reasoning*, Cambridge, MA: MIT Press.
-* Harsanyi, John C., 1985, “Acceptance of Empirical Statements: A Bayesian Theory without Cognitive Utilities”, *Theory and Decision*, 18(1): 1–30.
-* Harper, William L., 1976, “Rational Conceptual Change”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1976(2): 462–494. doi:10.1086/psaprocbienmeetp.1976.2.192397
-* –––, 1978, “Bayesian Learning Models with Revision of Evidence”, *Philosophia*, 7(2): 357–367. doi:10.1007/BF02378821
-* Hartmann, Stephan and Branden Fitelson, 2015, “A New Garber-Style Solution to the Problem of Old Evidence”, *Philosophy of Science*, 82(4): 712–717. doi:10.1086/682916
-* Haverkamp, Nick and Moritz Schulz, 2012, “A Note on Comparative Probability”, *Erkenntnis*, 76(3): 395–402. doi:10.1007/s10670-011-9307-x
-* Heckerman, David, 1996 [2008], “A Tutorial on Learning with Bayesian Networks”. Technical Report MSR-TR-95-06, Redmond, WA: Microsoft Research. Reprinted in *Innovations in Bayesian Networks: Theory and Applications*, Dawn E. Holmes and Lakhmi C. Jain (eds.), (Studies in Computational Intelligence, 156), Berlin/Heidelberg: Springer Berlin Heidelberg, 2008, 33–82. doi:10.1007/978-3-540-85066-3_3
-* Hedden, Brian, 2015a, “Time-Slice Rationality”, *Mind*, 124(494): 449–491. doi:10.1093/mind/fzu181
-* –––, 2015b, *Reasons without Persons: Rationality, Identity, and Time*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198732594.001.0001
-* Henderson, Leah, 2014, “Bayesianism and Inference to the Best Explanation”, *The British Journal for the Philosophy of Science*, 65(4): 687–715. doi:10.1093/bjps/axt020
-* Hitchcock, Christopher (ed.), 2004, *Contemporary Debates in Philosophy of Science*, (Contemporary Debates in Philosophy 2), Malden, MA: Blackwell.
-* Horgan, Terry, 2017, “Troubles for Bayesian Formal Epistemology”, *Res Philosophica*, 94(2): 233–255. doi:10.11612/resphil.1535
-* Horty, John F., 2001, *Agency and Deontic Logic*, Oxford/New York: Oxford University Press. doi:10.1093/0195134613.001.0001
-* Howson, Colin, 1992, “Dutch Book Arguments and Consistency”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1992(2): 161–168. doi:10.1086/psaprocbienmeetp.1992.2.192832
-* –––, 2000, *Hume’s Problem: Induction and the Justification of Belief*, Oxford: Clarendon Press.
-* Howson, Colin and Peter Urbach, 2006, *Scientific Reasoning: The Bayesian Approach*, third edition, Chicago: Open Court. First edition, 1989.
-* Huber, Franz, 2018, *A Logical Introduction to Probability and Induction*, New York: Oxford University Press.
-* Huemer, Michael, 2016, “Serious Theories and Skeptical Theories: Why You Are Probably Not a Brain in a Vat”, *Philosophical Studies*, 173(4): 1031–1052. doi:10.1007/s11098-015-0539-5
-* Hume, David, 1748/1777 [2008], *An Enquiry Concerning Human Understanding*, London. Last edition corrected by the author, 1777. 1777 edition reprinted, Peter Millican (ed.), (Oxford World’s Classics), New York/Oxford: Oxford University Press.
-* Huttegger, Simon M., 2015, “Merging of Opinions and Probability Kinematics”, *The Review of Symbolic Logic*, 8(4): 611–648. doi:10.1017/S1755020315000180
-* –––, 2017a, “Inductive Learning in Small and Large Worlds”, *Philosophy and Phenomenological Research*, 95(1): 90–116. doi:10.1111/phpr.12232
-* –––, 2017b, *The Probabilistic Foundations of Rational Learning*, Cambridge: Cambridge University Press. doi:10.1017/9781316335789
-* Ivanova, Milena, 2021, *Duhem and Holism*, Cambridge: Cambridge University Press. doi:10.1017/9781009004657
-* Jaynes, Edwin T., 1957, “Information Theory and Statistical Mechanics”, *Physical Review*, 106(4): 620–630. doi:10.1103/PhysRev.106.620
-* –––, 1968, “Prior Probabilities”, *IEEE Transactions on Systems Science and Cybernetics*, 4(3): 227–241. doi:10.1109/TSSC.1968.300117
-* –––, 1973, “The Well-Posed Problem”, *Foundations of Physics*, 3(4): 477–492. doi:10.1007/BF00709116
-* Jeffrey, Richard C., 1965 [1983], *The Logic of Decision*, (McGraw-Hill Series in Probability and Statistics), New York: McGraw-Hill. Second edition, Chicago: University of Chicago Press, 1983.
-* –––, 1970, “Dracula Meets Wolfman: Acceptance vs. Partial Belief”, in *Induction, Acceptance and Rational Belief*, Marshall Swain (ed.), Dordrecht: Springer Netherlands, 157–185. doi:10.1007/978-94-010-3390-9_8
-* –––, 1983, “Bayesianism with a Human Face”, in Earman 1983: 133–156. [[Jeffrey 1983 available online](https://conservancy.umn.edu/handle/11299/185349)]
-* –––, 1986, “Probabilism and Induction”, *Topoi*, 5(1): 51–58. doi:10.1007/BF00137829
-* Jeffreys, Harold, 1939, *Theory of Probability*, Oxford: Oxford University Press.
-* –––, 1946, “An Invariant Form for the Prior Probability in Estimation Problems”, *Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences*, 186(1007): 453–461. doi:10.1098/rspa.1946.0056
-* Joyce, James M., 1998, “A Nonpragmatic Vindication of Probabilism”, *Philosophy of Science*, 65(4): 575–603. doi:10.1086/392661
-* –––, 1999, *The Foundations of Causal Decision Theory*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498497
-* –––, 2003 [2021], “Bayes’ Theorem”, *The Stanford Encyclopedia of Philosophy* (Fall 2021 edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2021/entries/bayes-theorem/>
-* –––, 2005, “How Probabilities Reflect Evidence”, *Philosophical Perspectives*, 19(1): 153–178. doi:10.1111/j.1520-8583.2005.00058.x
+* Eder, Anna-Maria, forthcoming, “Evidential Probabilities and Credences”, _The British Journal for the Philosophy of Science_, first online: 24 December 2020. doi:10.1093/bjps/axz043
+* Elga, Adam, 2000, “Self-Locating Belief and the Sleeping Beauty Problem”, _Analysis_, 60(2): 143–147. doi:10.1093/analys/60.2.143
+* Elliott-Graves, Alkistis and Michael Weisberg, 2014, “Idealization”, _Philosophy Compass_, 9(3): 176–185. doi:10.1111/phc3.12109
+* Elqayam, Shira and Jonathan St. B. T. Evans, 2013, “Rationality in the New Paradigm: Strict versus Soft Bayesian Approaches”, _Thinking & Reasoning_, 19(3–4): 453–470. doi:10.1080/13546783.2013.834268
+* Elqayam, Shira and David E. Over, 2013, “New Paradigm Psychology of Reasoning: An Introduction to the Special Issue Edited by Elqayam, Bonnefon, and Over”, _Thinking & Reasoning_, 19(3–4): 249–265. doi:10.1080/13546783.2013.841591
+* Eriksson, Lina and Alan Hájek, 2007, “What Are Degrees of Belief?”, _Studia Logica_, 86(2): 183–213. doi:10.1007/s11225-007-9059-4
+* Eva, Benjamin, 2019, “Principles of Indifference”, _The Journal of Philosophy_, 116(7): 390–411. doi:10.5840/jphil2019116724
+* Eva, Benjamin and Stephan Hartmann, 2020, “On the Origins of Old Evidence”, _Australasian Journal of Philosophy_, 98(3): 481–494. doi:10.1080/00048402.2019.1658210
+* Fienberg, Stephen E., 2006, “When Did Bayesian Inference Become ‘Bayesian’?”, _Bayesian Analysis_, 1(1): 1–40. doi:10.1214/06-BA101
+* Fishburn, Peter C., 1986, “The Axioms of Subjective Probability”, _Statistical Science_, 1(3): 335–345. doi:10.1214/ss/1177013611
+* Fitelson, Branden, 2006, “Inductive Logic”, in _The Philosophy of Science: An Encyclopedia_, Sahotra Sarkar and Jessica Pfeifer (eds), New York: Routledge, 384–394.
+* Fitelson, Branden and Andrew Waterman, 2005, “Bayesian Confirmation and Auxiliary Hypotheses Revisited: A Reply to Strevens”, _The British Journal for the Philosophy of Science_, 56(2): 293–302. doi:10.1093/bjps/axi117
+* Foley, Richard, 1992, _Working without a Net: A Study of Egocentric Epistemology_, New York: Oxford University Press.
+* Forster, Malcolm R., 1995, “Bayes and Bust: Simplicity as a Problem for a Probabilist’s Approach to Confirmation”, _The British Journal for the Philosophy of Science_, 46(3): 399–424. doi:10.1093/bjps/46.3.399
+* Forster, Malcolm and Elliott Sober, 1994, “How to Tell When Simpler, More Unified, or Less _Ad Hoc_ Theories Will Provide More Accurate Predictions”, _The British Journal for the Philosophy of Science_, 45(1): 1–35. doi:10.1093/bjps/45.1.1
+* Freedman, David A., 1963, “On the Asymptotic Behavior of Bayes’ Estimates in the Discrete Case”, _The Annals of Mathematical Statistics_, 34(4): 1386–1403. doi:10.1214/aoms/1177703871
+* Gabbay, Dov M., Stephan Hartman, and John Woods (eds), 2011, _Handbook of the History of Logic, Volume 10: Inductive Logic_, Boston: Elsevier.
+* Gaifman, Haim, 1986, “ A Theory of Higher Order Probabilities”, _Proceedings of the 1986 Conference on Theoretical Aspects of Reasoning about Knowledge_, San Francisco: Morgan Kaufmann Publishers, 275–292.
+* Gaifman, Haim and Marc Snir, 1982, “Probabilities over Rich Languages, Testing and Randomness”, _Journal of Symbolic Logic_, 47(3): 495–548. doi:10.2307/2273587
+* Garber, Daniel, 1983, “Old Evidence and Logical Omniscience in Bayesian Confirmation Theory”, in Earman 1983: 99–131. \[[Garber 1983 available online](https://hdl.handle.net/11299/185350)]
+* Gelman, Andrew, John B. Carlin, Hal Steven Stern, David B. Dunson, Aki Vehtari, and Donald B. Rubin, 2014, _Bayesian Data Analysis_, third edition, (Chapman & Hall/CRC Texts in Statistical Science), Boca Raton, FL: CRC Press.
+* Gelman, Andrew and Christian Hennig, 2017, “Beyond Subjective and Objective in Statistics”, _Journal of the Royal Statistical Society: Series A (Statistics in Society)_, 180(4): 967–1033. Includes discussions of the paper. doi:10.1111/rssa.12276
+* Gendler, Tamar Szabo and John Hawthorne (eds), 2010, _Oxford Studies in Epistemology, Volume 3_, Oxford: Oxford University Press.
+* Gillies, Donald, 2000, _Philosophical Theories of Probability_, (Philosophical Issues in Science), London/New York: Routledge.
+* Glymour, Clark N., 1980, “Why I Am Not a Bayesian”, in his _Theory and Evidence_, Princeton, NJ: Princeton University Press.
+* Good, Irving John, 1976, “The Bayesian Influence, or How to Sweep Subjectivism under the Carpet”, in _Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science_, William Leonard Harper and Clifford Alan Hooker (eds.), Dordrecht: Springer Netherlands, 125–174. Reprinted in his _Good Thinking: The Foundations of Probability and Its Applications_, Minneapolis, MN: University of Minnesota Press, 22–58. doi:10.1007/978-94-010-1436-6\_5
+* Goodman, Nelson, 1955, _Fact, Fiction, and Forecast_, Cambridge, MA: Harvard University Press.
+* Greaves, Hilary and David Wallace, 2006, “Justifying Conditionalization: Conditionalization Maximizes Expected Epistemic Utility”, _Mind_, 115(459): 607–632. doi:10.1093/mind/fzl607
+* Griffiths, Thomas L., Charles Kemp, and Joshua B. Tenenbaum, 2008, “Bayesian Models of Cognition”, in _The Cambridge Handbook of Computational Psychology_, Ron Sun (ed.), Cambridge: Cambridge University Press, 59–100. doi:10.1017/CBO9780511816772.006
+* Hacking, Ian, 1967, “Slightly More Realistic Personal Probability”, _Philosophy of Science_, 34(4): 311–325. doi:10.1086/288169
+* –––, 2001, _An Introduction to Probability and Inductive Logic_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511801297
+* –––, 2016, _Logic of Statistical Inference_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316534960
+* Hájek, Alan, 2003, “What Conditional Probability Could Not Be”, _Synthese_, 137(3): 273–323. doi:10.1023/B:SYNT.0000004904.91112.16
+* –––, 2009, “Dutch Book Arguments”, in _The Handbook of Rational and Social Choice_, Paul Anand, Prasanta Pattanaik, and Clemens Puppe (eds.), New York: Oxford University Press, 173–195. doi:10.1093/acprof:oso/9780199290420.003.0008
+* –––, 2012, “Is Strict Coherence Coherent?”, _Dialectica_, 66(3): 411–424. doi:10.1111/j.1746-8361.2012.01310.x
+* Hájek, Alan and Hanti Lin, 2017, “A Tale of Two Epistemologies?”, _Res Philosophica_, 94(2): 207–232.
+* Harman, Gilbert, 1986, _Change in View: Principles of Reasoning_, Cambridge, MA: MIT Press.
+* Harsanyi, John C., 1985, “Acceptance of Empirical Statements: A Bayesian Theory without Cognitive Utilities”, _Theory and Decision_, 18(1): 1–30.
+* Harper, William L., 1976, “Rational Conceptual Change”, _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association_, 1976(2): 462–494. doi:10.1086/psaprocbienmeetp.1976.2.192397
+* –––, 1978, “Bayesian Learning Models with Revision of Evidence”, _Philosophia_, 7(2): 357–367. doi:10.1007/BF02378821
+* Hartmann, Stephan and Branden Fitelson, 2015, “A New Garber-Style Solution to the Problem of Old Evidence”, _Philosophy of Science_, 82(4): 712–717. doi:10.1086/682916
+* Haverkamp, Nick and Moritz Schulz, 2012, “A Note on Comparative Probability”, _Erkenntnis_, 76(3): 395–402. doi:10.1007/s10670-011-9307-x
+* Heckerman, David, 1996 \[2008], “A Tutorial on Learning with Bayesian Networks”. Technical Report MSR-TR-95-06, Redmond, WA: Microsoft Research. Reprinted in _Innovations in Bayesian Networks: Theory and Applications_, Dawn E. Holmes and Lakhmi C. Jain (eds.), (Studies in Computational Intelligence, 156), Berlin/Heidelberg: Springer Berlin Heidelberg, 2008, 33–82. doi:10.1007/978-3-540-85066-3\_3
+* Hedden, Brian, 2015a, “Time-Slice Rationality”, _Mind_, 124(494): 449–491. doi:10.1093/mind/fzu181
+* –––, 2015b, _Reasons without Persons: Rationality, Identity, and Time_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198732594.001.0001
+* Henderson, Leah, 2014, “Bayesianism and Inference to the Best Explanation”, _The British Journal for the Philosophy of Science_, 65(4): 687–715. doi:10.1093/bjps/axt020
+* Hitchcock, Christopher (ed.), 2004, _Contemporary Debates in Philosophy of Science_, (Contemporary Debates in Philosophy 2), Malden, MA: Blackwell.
+* Horgan, Terry, 2017, “Troubles for Bayesian Formal Epistemology”, _Res Philosophica_, 94(2): 233–255. doi:10.11612/resphil.1535
+* Horty, John F., 2001, _Agency and Deontic Logic_, Oxford/New York: Oxford University Press. doi:10.1093/0195134613.001.0001
+* Howson, Colin, 1992, “Dutch Book Arguments and Consistency”, _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association_, 1992(2): 161–168. doi:10.1086/psaprocbienmeetp.1992.2.192832
+* –––, 2000, _Hume’s Problem: Induction and the Justification of Belief_, Oxford: Clarendon Press.
+* Howson, Colin and Peter Urbach, 2006, _Scientific Reasoning: The Bayesian Approach_, third edition, Chicago: Open Court. First edition, 1989.
+* Huber, Franz, 2018, _A Logical Introduction to Probability and Induction_, New York: Oxford University Press.
+* Huemer, Michael, 2016, “Serious Theories and Skeptical Theories: Why You Are Probably Not a Brain in a Vat”, _Philosophical Studies_, 173(4): 1031–1052. doi:10.1007/s11098-015-0539-5
+* Hume, David, 1748/1777 \[2008], _An Enquiry Concerning Human Understanding_, London. Last edition corrected by the author, 1777. 1777 edition reprinted, Peter Millican (ed.), (Oxford World’s Classics), New York/Oxford: Oxford University Press.
+* Huttegger, Simon M., 2015, “Merging of Opinions and Probability Kinematics”, _The Review of Symbolic Logic_, 8(4): 611–648. doi:10.1017/S1755020315000180
+* –––, 2017a, “Inductive Learning in Small and Large Worlds”, _Philosophy and Phenomenological Research_, 95(1): 90–116. doi:10.1111/phpr.12232
+* –––, 2017b, _The Probabilistic Foundations of Rational Learning_, Cambridge: Cambridge University Press. doi:10.1017/9781316335789
+* Ivanova, Milena, 2021, _Duhem and Holism_, Cambridge: Cambridge University Press. doi:10.1017/9781009004657
+* Jaynes, Edwin T., 1957, “Information Theory and Statistical Mechanics”, _Physical Review_, 106(4): 620–630. doi:10.1103/PhysRev.106.620
+* –––, 1968, “Prior Probabilities”, _IEEE Transactions on Systems Science and Cybernetics_, 4(3): 227–241. doi:10.1109/TSSC.1968.300117
+* –––, 1973, “The Well-Posed Problem”, _Foundations of Physics_, 3(4): 477–492. doi:10.1007/BF00709116
+* Jeffrey, Richard C., 1965 \[1983], _The Logic of Decision_, (McGraw-Hill Series in Probability and Statistics), New York: McGraw-Hill. Second edition, Chicago: University of Chicago Press, 1983.
+* –––, 1970, “Dracula Meets Wolfman: Acceptance vs. Partial Belief”, in _Induction, Acceptance and Rational Belief_, Marshall Swain (ed.), Dordrecht: Springer Netherlands, 157–185. doi:10.1007/978-94-010-3390-9\_8
+* –––, 1983, “Bayesianism with a Human Face”, in Earman 1983: 133–156. \[[Jeffrey 1983 available online](https://conservancy.umn.edu/handle/11299/185349)]
+* –––, 1986, “Probabilism and Induction”, _Topoi_, 5(1): 51–58. doi:10.1007/BF00137829
+* Jeffreys, Harold, 1939, _Theory of Probability_, Oxford: Oxford University Press.
+* –––, 1946, “An Invariant Form for the Prior Probability in Estimation Problems”, _Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences_, 186(1007): 453–461. doi:10.1098/rspa.1946.0056
+* Joyce, James M., 1998, “A Nonpragmatic Vindication of Probabilism”, _Philosophy of Science_, 65(4): 575–603. doi:10.1086/392661
+* –––, 1999, _The Foundations of Causal Decision Theory_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498497
+* –––, 2003 \[2021], “Bayes’ Theorem”, _The Stanford Encyclopedia of Philosophy_ (Fall 2021 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2021/entries/bayes-theorem/](https://plato.stanford.edu/archives/fall2021/entries/bayes-theorem/)
+* –––, 2005, “How Probabilities Reflect Evidence”, _Philosophical Perspectives_, 19(1): 153–178. doi:10.1111/j.1520-8583.2005.00058.x
 * –––, 2011, “The Development of Subjective Bayesianism”, in Gabbay, Hartmann, and Woods 2011: 415–475. doi:10.1016/B978-0-444-52936-7.50012-4
-* Kaplan, David, 1989, “Demonstratives. An Essay on the Semantics, Logic, Metaphysics, and Epistemology of Demonstratives and Other Indexicals”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, 481–563.
-* Kass, Robert E. and Larry Wasserman, 1996, “The Selection of Prior Distributions by Formal Rules”, *Journal of the American Statistical Association*, 91(435): 1343–1370.
-* Kelly, Kevin T., 1996, *The Logic of Reliable Inquiry*, (Logic and Computation in Philosophy), New York: Oxford University Press.
-* –––, 2000, “The Logic of Success”, *The British Journal for the Philosophy of Science*, 51(S1): 639–666. doi:10.1093/bjps/51.4.639
+* Kaplan, David, 1989, “Demonstratives. An Essay on the Semantics, Logic, Metaphysics, and Epistemology of Demonstratives and Other Indexicals”, in _Themes from Kaplan_, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, 481–563.
+* Kass, Robert E. and Larry Wasserman, 1996, “The Selection of Prior Distributions by Formal Rules”, _Journal of the American Statistical Association_, 91(435): 1343–1370.
+* Kelly, Kevin T., 1996, _The Logic of Reliable Inquiry_, (Logic and Computation in Philosophy), New York: Oxford University Press.
+* –––, 2000, “The Logic of Success”, _The British Journal for the Philosophy of Science_, 51(S1): 639–666. doi:10.1093/bjps/51.4.639
 * Kelly, Kevin T., and Clark Glymour, 2004, “Why Probability Does Not Capture the Logic of Scientific Justification”, in Hitchcock 2004: 94–114.
-* Kemeny, John G., 1955, “Fair Bets and Inductive Probabilities”, *Journal of Symbolic Logic*, 20(3): 263–273. doi:10.2307/2268222
-* Keynes, John Maynard, 1921, *A Treatise on Probability*, London: Macmillan.
-* Klein, Peter and Ted A. Warfield, 1994, “What Price Coherence?”, *Analysis*, 54(3): 129–132. doi:10.1093/analys/54.3.129
-* Kolmogorov, A. N., 1933, *Grundbegriffe der Wahrscheinlichkeitsrechnung*, Berlin: Springer. Translated as *Foundations of the Theory of Probability*, Nathan Morrison (ed.), New York: Chelsea, 1950. Second English edition with an added bibliography by A.T. Bharucha-Reid, New York: Chelsea, 1956. Second edition reprinted Mineola, NY: Dover, 2018.
+* Kemeny, John G., 1955, “Fair Bets and Inductive Probabilities”, _Journal of Symbolic Logic_, 20(3): 263–273. doi:10.2307/2268222
+* Keynes, John Maynard, 1921, _A Treatise on Probability_, London: Macmillan.
+* Klein, Peter and Ted A. Warfield, 1994, “What Price Coherence?”, _Analysis_, 54(3): 129–132. doi:10.1093/analys/54.3.129
+* Kolmogorov, A. N., 1933, _Grundbegriffe der Wahrscheinlichkeitsrechnung_, Berlin: Springer. Translated as _Foundations of the Theory of Probability_, Nathan Morrison (ed.), New York: Chelsea, 1950. Second English edition with an added bibliography by A.T. Bharucha-Reid, New York: Chelsea, 1956. Second edition reprinted Mineola, NY: Dover, 2018.
 * Konek, Jason, 2019, “Comparative Probabilities”, in Pettigrew and Weisberg 2019: 267–348.
-* –––, forthcoming, “The Art of Learning”, in *Oxford Studies in Epistemology, Volume 7*, Oxford: Oxford University Press.
-* Kopec, Matthew and Michael G. Titelbaum, 2016, “The Uniqueness Thesis”, *Philosophy Compass*, 11(4): 189–200. doi:10.1111/phc3.12318
-* Laplace, Pierre Simon, 1814 [1902], *Essai philosophique sur les probabilités*, Paris: Mme. Ve. Courcier. Translated as *A Philosophical Essay on Probabilities*, Frederick Wilson Truscott and Frederick Lincoln Emory (trans.), New York: J. Wiley, 1902.
-* Levi, Isaac, 1980, *The Enterprise of Knowledge: An Essay on Knowledge, Credal Probability, and Chance*, Cambridge, MA: MIT Press.
-* Lewis, David, 1980, “A Subjectivist’s Guide to Objective Chance”, in *Studies in Inductive Logic and Probability, Volume 2*, R.C. Jeffrey (ed.), Berkeley, CA: University of California Press, 263–293. Reprinted in Lewis’s *Philosophical Papers, Volume 2*, Oxford: Oxford University Press, 1986, ch. 19.
-* –––, 1999, “Why Conditionalize?”, in his *Papers in Metaphysics and Epistemology*, Cambridge: Cambridge University Press, 403–407.
-* –––, 2001, “Sleeping Beauty: Reply to Elga”, *Analysis*, 61(3): 171–176. doi:10.1093/analys/61.3.171
-* Lin, Hanti, 2013, “Foundations of Everyday Practical Reasoning”, *Journal of Philosophical Logic*, 42(6): 831–862. doi:10.1007/s10992-013-9296-0
-* –––, forthcoming, “Modes of Convergence to the Truth: Steps toward a Better Epistemology of Induction”, *The Review of Symbolic Logic*, first online: 3 January 2022. doi:10.1017/S1755020321000605
-* Lipton, Peter, 2004, *Inference to the Best Explanation*, second edition, (International Library of Philosophy), London/New York: Routledge/Taylor and Francis Group.
-* Magnus, P. D. and Craig Callender, 2004, “Realist Ennui and the Base Rate Fallacy”, *Philosophy of Science*, 71(3): 320–338. doi:10.1086/421536
-* Maher, Patrick, 1992, “Diachronic Rationality”, *Philosophy of Science*, 59(1): 120–141. doi:10.1086/289657
+* –––, forthcoming, “The Art of Learning”, in _Oxford Studies in Epistemology, Volume 7_, Oxford: Oxford University Press.
+* Kopec, Matthew and Michael G. Titelbaum, 2016, “The Uniqueness Thesis”, _Philosophy Compass_, 11(4): 189–200. doi:10.1111/phc3.12318
+* Laplace, Pierre Simon, 1814 \[1902], _Essai philosophique sur les probabilités_, Paris: Mme. Ve. Courcier. Translated as _A Philosophical Essay on Probabilities_, Frederick Wilson Truscott and Frederick Lincoln Emory (trans.), New York: J. Wiley, 1902.
+* Levi, Isaac, 1980, _The Enterprise of Knowledge: An Essay on Knowledge, Credal Probability, and Chance_, Cambridge, MA: MIT Press.
+* Lewis, David, 1980, “A Subjectivist’s Guide to Objective Chance”, in _Studies in Inductive Logic and Probability, Volume 2_, R.C. Jeffrey (ed.), Berkeley, CA: University of California Press, 263–293. Reprinted in Lewis’s _Philosophical Papers, Volume 2_, Oxford: Oxford University Press, 1986, ch. 19.
+* –––, 1999, “Why Conditionalize?”, in his _Papers in Metaphysics and Epistemology_, Cambridge: Cambridge University Press, 403–407.
+* –––, 2001, “Sleeping Beauty: Reply to Elga”, _Analysis_, 61(3): 171–176. doi:10.1093/analys/61.3.171
+* Lin, Hanti, 2013, “Foundations of Everyday Practical Reasoning”, _Journal of Philosophical Logic_, 42(6): 831–862. doi:10.1007/s10992-013-9296-0
+* –––, forthcoming, “Modes of Convergence to the Truth: Steps toward a Better Epistemology of Induction”, _The Review of Symbolic Logic_, first online: 3 January 2022. doi:10.1017/S1755020321000605
+* Lipton, Peter, 2004, _Inference to the Best Explanation_, second edition, (International Library of Philosophy), London/New York: Routledge/Taylor and Francis Group.
+* Magnus, P. D. and Craig Callender, 2004, “Realist Ennui and the Base Rate Fallacy”, _Philosophy of Science_, 71(3): 320–338. doi:10.1086/421536
+* Maher, Patrick, 1992, “Diachronic Rationality”, _Philosophy of Science_, 59(1): 120–141. doi:10.1086/289657
 * –––, 2004, “Probability Captures the Logic of Scientific Confirmation”, in Hitchcock 2004: 69–93.
 * Mahtani, Anna, 2019, “Imprecise Probabilities”, in Pettigrew and Weisberg 2019: 107–130.
 * Meacham, Chris J.G., 2010, “Unravelling the Tangled Web: Continuity, Internalism, Non-uniqueness and Self-Locating Beliefs”, in Gendler and Hawthorne 2010: 86–125.
-* –––, 2015, “Understanding Conditionalization”, *Canadian Journal of Philosophy*, 45(5–6): 767–797. doi:10.1080/00455091.2015.1119611
-* –––, 2016, “Ur-Priors, Conditionalization, and Ur-Prior Conditionalization”, *Ergo, an Open Access Journal of Philosophy*, 3: art. 17. doi:10.3998/ergo.12405314.0003.017
-* Morey, Richard D., Jan-Willem Romeijn, and Jeffrey N. Rouder, 2013, “The Humble Bayesian: Model Checking from a Fully Bayesian Perspective”, *British Journal of Mathematical and Statistical Psychology*, 66(1): 68–75. doi:10.1111/j.2044-8317.2012.02067.x
-* Moss, Sarah, 2012, “Updating as Communication”, *Philosophy and Phenomenological Research*, 85(2): 225–248. doi:10.1111/j.1933-1592.2011.00572.x
-* –––, 2013, “Epistemology Formalized”, *Philosophical Review*, 122(1): 1–43. doi:10.1215/00318108-1728705
-* –––, 2018, *Probabilistic Knowledge*, Oxford, United Kingdom: Oxford University Press. doi:10.1093/oso/9780198792154.001.0001
-* Niiniluoto, Ilkka, 1983, “Novel Facts and Bayesianism”, *The British Journal for the Philosophy of Science*, 34(4): 375–379. doi:10.1093/bjps/34.4.375
-* Okasha, Samir, 2000, “Van Fraassen’s Critique of Inference to the Best Explanation”, *Studies in History and Philosophy of Science Part A*, 31(4): 691–710. doi:10.1016/S0039-3681(00)00016-9
-* Peijnenburg, Jeanne, 2007, “Infinitism Regained”, *Mind*, 116(463): 597–602. doi:10.1093/mind/fzm597
-* Peirce, Charles Sanders, 1877, “The Fixation of Belief”, *Popular Science Monthly*, 12: 1–15. Reprinted in 1955, *Philosophical Writings of Peirce*, Justus Buchler (ed.), Dover Publications, 5–22.
-* –––, 1903, “The Three Normative Sciences”, fifth Harvard lecture on pragmatism delivered 30 April 1903. Reprinted in 1998, *The Essential Peirce, Vol. 2 (1893–1913)*, The Peirce Edition Project (ed.), Bloomington, IN: Indiana University Press, 196–207 (ch. 14).
-* Pettigrew, Richard, 2012, “Accuracy, Chance, and the Principal Principle”, *Philosophical Review*, 121(2): 241–275. doi:10.1215/00318108-1539098
-* –––, 2016, *Accuracy and the Laws of Credence*, Oxford, United Kingdom: Oxford University Press. doi:10.1093/acprof:oso/9780198732716.001.0001
-* –––, 2020a, *Dutch Book Arguments*, Cambridge: Cambridge University Press. doi:10.1017/9781108581813
-* –––, 2020b, “What Is Conditionalization, and Why Should We Do It?”, *Philosophical Studies*, 177(11): 3427–3463. doi:10.1007/s11098-019-01377-y
-* Pettigrew, Richard and Jonathan Weisberg (eds), 2019, *The Open Handbook of Formal Epistemology*, PhilPapers Foundation. [[Pettigrew and Weisberg (eds) 2019 available online](https://philpapers.org/rec/PETTOH-2)]
-* Pollock, John L., 2006, *Thinking about Acting: Logical Foundations for Rational Decision Making*, Oxford/New York: Oxford University Press.
-* Popper, Karl R., 1959, *The Logic of Scientific Discovery*, New York: Basic Books. Reprinted, London: Routledge, 1992.
-* Putnam, Hilary, 1963, “Probability and Confirmation”, *The Voice of America Forum Lectures, Philosophy of Science Series*, No. 10, Washington, D.C.: United States Information Agency, pp. 1–11. Reprinted in his *Mathematics, Matter, and Method*, London/New York: Cambridge University Press, 1975, 293–304.
-* Quine, W. V., 1951, “Main Trends in Recent Philosophy: Two Dogmas of Empiricism”, *The Philosophical Review*, 60(1): 20–43. doi:10.2307/2181906
-* Ramsey, Frank Plumpton, 1926 [1931], “Truth and Probability”, manuscript. Printed in *Foundations of Mathematics and Other Logical Essays*, R.B. Braithwaite (ed.), London: Kegan, Paul, Trench, Trubner & Co. Ltd., 1931, 156–198.
-* Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press. Revised edition 1999.
-* Reichenbach, Hans, 1938, *Experience and Prediction: An Analysis of the Foundations and the Structure of Knowledge*, Chicago: The University of Chicago Press.
-* Rényi, Alfréd, 1970, *Foundations of Probability*, San Francisco: Holden-Day.
-* Rescorla, Michael, 2015, “Some Epistemological Ramifications of the Borel–Kolmogorov Paradox”, *Synthese*, 192: 735–767. doi:10.1007/s11229-014-0586-z
-* –––, 2018, “A Dutch Book Theorem and Converse Dutch Book Theorem for Kolmogorov Conditionalization”, *The Review of Symbolic Logic*, 11(4): 705–735. doi:10.1017/S1755020317000296
-* –––, 2021, “On the Proper Formulation of Conditionalization”, *Synthese*, 198(3): 1935–1965. doi:10.1007/s11229-019-02179-9
-* Rosenkrantz, Roger D., 1981, *Foundations and Applications of Inductive Probability*, Atascadero, CA: Ridgeview.
-* –––, 1983, “Why Glymour Is a Bayesian”, in Earman 1983: 69–97. [[Rosenkrantz 1983 available online](https://conservancy.umn.edu/handle/11299/185351)]
-* Salmon, Wesley C., 1990, “Rationality and Objectivity in Science or Tom Kuhn Meets Tom Bayes”, in *Scientific Theories* (Minnesota Studies in the Philosophy of Science, 14), C. W. Savage (ed.), Minneapolis, MN: University of Minnesota Press, 175–205.
-* Savage, Leonard J., 1972, *The Foundations of Statistics*, second revised edtion, New York: Dover Publications.
-* Schoenfield, Miriam, 2014, “Permission to Believe: Why Permissivism Is True and What It Tells Us About Irrelevant Influences on Belief”, *Noûs*, 48(2): 193–218. doi:10.1111/nous.12006
-* Schroeder, Mark, 2011, “Ought, Agents, and Actions”, *Philosophical Review*, 120(1): 1–41. doi:10.1215/00318108-2010-017
-* Schupbach, Jonah N., 2018, “Troubles for Bayesian Formal Epistemology? A Response to Horgan”, *Res Philosophica*, 95(1): 189–197. doi:10.11612/resphil.1652
-* Seidenfeld, Teddy, 1979, “Why I Am Not an Objective Bayesian; Some Reflections Prompted by Rosenkrantz”, *Theory and Decision*, 11(4): 413–440. doi:10.1007/BF00139451
-* –––, 2001, “Remarks on the Theory of Conditional Probability: Some Issues of Finite Versus Countable Additivity”, in *Probability Theory: Philosophy, Recent History and Relations to Science*, Vincent F. Hendricks, Stig Andur Pedersen, and Klaus Frovin Jørgensen (eds.), (Synthese Library 297), Dordrecht/Boston: Kluwer Academic Publishers, 167–178.
-* Shimony, Abner, 1955, “Coherence and the Axioms of Confirmation”, *Journal of Symbolic Logic*, 20(1): 1–28. doi:10.2307/2268039
-* –––, 1970, “Scientific Inference”, in *The Nature and Function of Scientific Theories* (Pittsburgh Studies in the Philosophy of Science, 4), Robert G. Colodny (ed.), Pittsburgh, PA: University of Pittsburgh Press, 79–172.
-* Shogenji, Tomoji, 2018, *Formal Epistemology and Cartesian Skepticism: In Defense of Belief in the Natural World*, (Routledge Studies in Contemporary Philosophy 101), New York: Routledge, Taylor & Francis Group.
-* Skyrms, Brian, 1966 [2000], *Choice and Chance: An Introduction to Inductive Logic*, Belmont, CA: Dickenson. Fourth edition, Belmont, CA: Wadsworth, 2000.
-* –––, 1984, *Pragmatics and Empiricism*, New Haven, CT: Yale University Press.
-* Smith, Cedric A. B., 1961, “Consistency in Statistical Inference and Decision”, *Journal of the Royal Statistical Society: Series B (Methodological)*, 23(1): 1–25. doi:10.1111/j.2517-6161.1961.tb00388.x
-* Sober, Elliott, 2002, “Bayesianism—Its Scope and Limits”, in *Bayes’s Theorem* (Proceedings of the British Academy, 113), Richard Swinburne (ed.), Oxford: Oxford University Press.
-* –––, 2008, *Evidence and Evolution: The Logic behind the Science*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806285
-* Sprenger, Jan, 2015, “A Novel Solution to the Problem of Old Evidence”, *Philosophy of Science*, 82(3): 383–401. doi:10.1086/681767
-* –––, 2018, “The Objectivity of Subjective Bayesianism”, *European Journal for Philosophy of Science*, 8(3): 539–558. doi:10.1007/s13194-018-0200-1
-* Sprenger, Jan and Stephan Hartmann, 2019, *Bayesian Philosophy of Science: Variations on a Theme by the Reverend Thomas Bayes*, Oxford/New York: Oxford University Press. doi:10.1093/oso/9780199672110.001.0001
-* Staffel, Julia, 2019, *Unsettled Thoughts: A Theory of Degrees of Rationality*, Oxford/New York: Oxford University Press. doi:10.1093/oso/9780198833710.001.0001
-* Stalnaker, Robert C., 1970, “Probability and Conditionals”, *Philosophy of Science*, 37(1): 64–80. doi:10.1086/288280
-* Stefánsson, H. Orri, 2017, “What Is ‘Real’ in Probabilism?”, *Australasian Journal of Philosophy*, 95(3): 573–587. doi:10.1080/00048402.2016.1224906
-* Strevens, Michael, 2001, “The Bayesian Treatment of Auxiliary Hypotheses”, *The British Journal for the Philosophy of Science*, 52(3): 515–537. doi:10.1093/bjps/52.3.515
-* Talbott, William J., 1991, “Two Principles of Bayesian Epistemology”, *Philosophical Studies*, 62(2): 135–150. doi:10.1007/BF00419049
-* –––, 2016, “A Non-Probabilist Principle of Higher-Order Reasoning”, *Synthese*, 193(10): 3099–3145. doi:10.1007/s11229-015-0922-y
-* Tang, Weng Hong, 2016, “Reliability Theories of Justified Credence”, *Mind*, 125(497): 63–94. doi:10.1093/mind/fzv199
-* Teller, Paul, 1973, “Conditionalization and Observation”, *Synthese*, 26(2): 218–258. doi:10.1007/BF00873264
-* Titelbaum, Michael G., 2013a, *Quitting Certainties: A Bayesian Framework Modeling Degrees of Belief*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199658305.001.0001
-* –––, 2013b, “Ten Reasons to Care About the Sleeping Beauty Problem”, *Philosophy Compass*, 8(11): 1003–1017. doi:10.1111/phc3.12080
-* –––, 2016, “Self-Locating Credences”, in *The Oxford Handbook of Probability and Philosophy*, Alan Hájek, and Christopher Hitchcock (eds), Oxford: Oxford University Press, p. 666–680.
-* –––, forthcoming, *Fundamentals of Bayesian Epistemology*, Oxford University Press.
-* van Fraassen, Bas C., 1984, “Belief and the Will”, *The Journal of Philosophy*, 81(5): 235–256. doi:10.2307/2026388
-* –––, 1988, “The Problem of Old Evidence”, in *Philosophical Analysis*, David F. Austin (ed.), Dordrecht: Springer Netherlands, 153–165. doi:10.1007/978-94-009-2909-8_10
-* –––, 1989, *Laws and Symmetry*, Oxford/New York: Oxford University Press. doi:10.1093/0198248601.001.0001
-* –––, 1995, “Belief and the Problem of Ulysses and the Sirens”, *Philosophical Studies*, 77(1): 7–37. doi:10.1007/BF00996309
-* Vassend, Olav Benjamin, forthcoming, “Justifying the Norms of Inductive Inference”, *The British Journal for the Philosophy of Science*, first online: 17 December 2020. doi:10.1093/bjps/axz041
-* von Mises, Richard, 1928 [1981], *Wahrscheinlichkeit, Statistik, und Wahrheit*, J. Springer; third German edition, 1951. Third edition translated as *Probability, Statistics, and Truth*, second revised edition, Hilda Geiringer (trans.), London: George Allen & Unwin, 1951. Reprinted New York: Dover, 1981.
-* Walley, Peter, 1991, *Statistical Reasoning with Imprecise Probabilities*, London: Chapman and Hall.
-* Wasserman, Larry, 1998, “Asymptotic Properties of Nonparametric Bayesian Procedures”, in *Practical Nonparametric and Semiparametric Bayesian Statistics*, Dipak Dey, Peter Müller, and Debajyoti Sinha (eds.), (Lecture Notes in Statistics 133), New York: Springer New York, 293–304. doi:10.1007/978-1-4612-1732-9_16
-* Weatherson, Brian, 2007, “The Bayesian and the Dogmatist”, *Proceedings of the Aristotelian Society (Hardback)*, 107(1pt2): 169–185. doi:10.1111/j.1467-9264.2007.00217.x
-* Wedgwood, Ralph, 2006, “The Meaning of ‘Ought’ ”, *Oxford Studies in Metaethics, Volume 1*, Russ Shafer-Landau (ed.), Oxford: Clarendon Press, 127–160.
-* –––, 2014, “Rationality as a Virtue: Rationality as a Virtue”, *Analytic Philosophy*, 55(4): 319–338. doi:10.1111/phib.12055
-* Weisberg, Jonathan, 2007, “Conditionalization, Reflection, and Self-Knowledge”, *Philosophical Studies*, 135(2): 179–197. doi:10.1007/s11098-007-9073-4
-* –––, 2009a, “Locating IBE in the Bayesian Framework”, *Synthese*, 167(1): 125–143. doi:10.1007/s11229-008-9305-y
-* –––, 2009b, “Commutativity or Holism? A Dilemma for Conditionalizers”, *The British Journal for the Philosophy of Science*, 60(4): 793–812. doi:10.1093/bjps/axp007
+* –––, 2015, “Understanding Conditionalization”, _Canadian Journal of Philosophy_, 45(5–6): 767–797. doi:10.1080/00455091.2015.1119611
+* –––, 2016, “Ur-Priors, Conditionalization, and Ur-Prior Conditionalization”, _Ergo, an Open Access Journal of Philosophy_, 3: art. 17. doi:10.3998/ergo.12405314.0003.017
+* Morey, Richard D., Jan-Willem Romeijn, and Jeffrey N. Rouder, 2013, “The Humble Bayesian: Model Checking from a Fully Bayesian Perspective”, _British Journal of Mathematical and Statistical Psychology_, 66(1): 68–75. doi:10.1111/j.2044-8317.2012.02067.x
+* Moss, Sarah, 2012, “Updating as Communication”, _Philosophy and Phenomenological Research_, 85(2): 225–248. doi:10.1111/j.1933-1592.2011.00572.x
+* –––, 2013, “Epistemology Formalized”, _Philosophical Review_, 122(1): 1–43. doi:10.1215/00318108-1728705
+* –––, 2018, _Probabilistic Knowledge_, Oxford, United Kingdom: Oxford University Press. doi:10.1093/oso/9780198792154.001.0001
+* Niiniluoto, Ilkka, 1983, “Novel Facts and Bayesianism”, _The British Journal for the Philosophy of Science_, 34(4): 375–379. doi:10.1093/bjps/34.4.375
+* Okasha, Samir, 2000, “Van Fraassen’s Critique of Inference to the Best Explanation”, _Studies in History and Philosophy of Science Part A_, 31(4): 691–710. doi:10.1016/S0039-3681(00)00016-9
+* Peijnenburg, Jeanne, 2007, “Infinitism Regained”, _Mind_, 116(463): 597–602. doi:10.1093/mind/fzm597
+* Peirce, Charles Sanders, 1877, “The Fixation of Belief”, _Popular Science Monthly_, 12: 1–15. Reprinted in 1955, _Philosophical Writings of Peirce_, Justus Buchler (ed.), Dover Publications, 5–22.
+* –––, 1903, “The Three Normative Sciences”, fifth Harvard lecture on pragmatism delivered 30 April 1903. Reprinted in 1998, _The Essential Peirce, Vol. 2 (1893–1913)_, The Peirce Edition Project (ed.), Bloomington, IN: Indiana University Press, 196–207 (ch. 14).
+* Pettigrew, Richard, 2012, “Accuracy, Chance, and the Principal Principle”, _Philosophical Review_, 121(2): 241–275. doi:10.1215/00318108-1539098
+* –––, 2016, _Accuracy and the Laws of Credence_, Oxford, United Kingdom: Oxford University Press. doi:10.1093/acprof:oso/9780198732716.001.0001
+* –––, 2020a, _Dutch Book Arguments_, Cambridge: Cambridge University Press. doi:10.1017/9781108581813
+* –––, 2020b, “What Is Conditionalization, and Why Should We Do It?”, _Philosophical Studies_, 177(11): 3427–3463. doi:10.1007/s11098-019-01377-y
+* Pettigrew, Richard and Jonathan Weisberg (eds), 2019, _The Open Handbook of Formal Epistemology_, PhilPapers Foundation. \[[Pettigrew and Weisberg (eds) 2019 available online](https://philpapers.org/rec/PETTOH-2)]
+* Pollock, John L., 2006, _Thinking about Acting: Logical Foundations for Rational Decision Making_, Oxford/New York: Oxford University Press.
+* Popper, Karl R., 1959, _The Logic of Scientific Discovery_, New York: Basic Books. Reprinted, London: Routledge, 1992.
+* Putnam, Hilary, 1963, “Probability and Confirmation”, _The Voice of America Forum Lectures, Philosophy of Science Series_, No. 10, Washington, D.C.: United States Information Agency, pp. 1–11. Reprinted in his _Mathematics, Matter, and Method_, London/New York: Cambridge University Press, 1975, 293–304.
+* Quine, W. V., 1951, “Main Trends in Recent Philosophy: Two Dogmas of Empiricism”, _The Philosophical Review_, 60(1): 20–43. doi:10.2307/2181906
+* Ramsey, Frank Plumpton, 1926 \[1931], “Truth and Probability”, manuscript. Printed in _Foundations of Mathematics and Other Logical Essays_, R.B. Braithwaite (ed.), London: Kegan, Paul, Trench, Trubner & Co. Ltd., 1931, 156–198.
+* Rawls, John, 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press. Revised edition 1999.
+* Reichenbach, Hans, 1938, _Experience and Prediction: An Analysis of the Foundations and the Structure of Knowledge_, Chicago: The University of Chicago Press.
+* Rényi, Alfréd, 1970, _Foundations of Probability_, San Francisco: Holden-Day.
+* Rescorla, Michael, 2015, “Some Epistemological Ramifications of the Borel–Kolmogorov Paradox”, _Synthese_, 192: 735–767. doi:10.1007/s11229-014-0586-z
+* –––, 2018, “A Dutch Book Theorem and Converse Dutch Book Theorem for Kolmogorov Conditionalization”, _The Review of Symbolic Logic_, 11(4): 705–735. doi:10.1017/S1755020317000296
+* –––, 2021, “On the Proper Formulation of Conditionalization”, _Synthese_, 198(3): 1935–1965. doi:10.1007/s11229-019-02179-9
+* Rosenkrantz, Roger D., 1981, _Foundations and Applications of Inductive Probability_, Atascadero, CA: Ridgeview.
+* –––, 1983, “Why Glymour Is a Bayesian”, in Earman 1983: 69–97. \[[Rosenkrantz 1983 available online](https://conservancy.umn.edu/handle/11299/185351)]
+* Salmon, Wesley C., 1990, “Rationality and Objectivity in Science or Tom Kuhn Meets Tom Bayes”, in _Scientific Theories_ (Minnesota Studies in the Philosophy of Science, 14), C. W. Savage (ed.), Minneapolis, MN: University of Minnesota Press, 175–205.
+* Savage, Leonard J., 1972, _The Foundations of Statistics_, second revised edtion, New York: Dover Publications.
+* Schoenfield, Miriam, 2014, “Permission to Believe: Why Permissivism Is True and What It Tells Us About Irrelevant Influences on Belief”, _Noûs_, 48(2): 193–218. doi:10.1111/nous.12006
+* Schroeder, Mark, 2011, “Ought, Agents, and Actions”, _Philosophical Review_, 120(1): 1–41. doi:10.1215/00318108-2010-017
+* Schupbach, Jonah N., 2018, “Troubles for Bayesian Formal Epistemology? A Response to Horgan”, _Res Philosophica_, 95(1): 189–197. doi:10.11612/resphil.1652
+* Seidenfeld, Teddy, 1979, “Why I Am Not an Objective Bayesian; Some Reflections Prompted by Rosenkrantz”, _Theory and Decision_, 11(4): 413–440. doi:10.1007/BF00139451
+* –––, 2001, “Remarks on the Theory of Conditional Probability: Some Issues of Finite Versus Countable Additivity”, in _Probability Theory: Philosophy, Recent History and Relations to Science_, Vincent F. Hendricks, Stig Andur Pedersen, and Klaus Frovin Jørgensen (eds.), (Synthese Library 297), Dordrecht/Boston: Kluwer Academic Publishers, 167–178.
+* Shimony, Abner, 1955, “Coherence and the Axioms of Confirmation”, _Journal of Symbolic Logic_, 20(1): 1–28. doi:10.2307/2268039
+* –––, 1970, “Scientific Inference”, in _The Nature and Function of Scientific Theories_ (Pittsburgh Studies in the Philosophy of Science, 4), Robert G. Colodny (ed.), Pittsburgh, PA: University of Pittsburgh Press, 79–172.
+* Shogenji, Tomoji, 2018, _Formal Epistemology and Cartesian Skepticism: In Defense of Belief in the Natural World_, (Routledge Studies in Contemporary Philosophy 101), New York: Routledge, Taylor & Francis Group.
+* Skyrms, Brian, 1966 \[2000], _Choice and Chance: An Introduction to Inductive Logic_, Belmont, CA: Dickenson. Fourth edition, Belmont, CA: Wadsworth, 2000.
+* –––, 1984, _Pragmatics and Empiricism_, New Haven, CT: Yale University Press.
+* Smith, Cedric A. B., 1961, “Consistency in Statistical Inference and Decision”, _Journal of the Royal Statistical Society: Series B (Methodological)_, 23(1): 1–25. doi:10.1111/j.2517-6161.1961.tb00388.x
+* Sober, Elliott, 2002, “Bayesianism—Its Scope and Limits”, in _Bayes’s Theorem_ (Proceedings of the British Academy, 113), Richard Swinburne (ed.), Oxford: Oxford University Press.
+* –––, 2008, _Evidence and Evolution: The Logic behind the Science_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806285
+* Sprenger, Jan, 2015, “A Novel Solution to the Problem of Old Evidence”, _Philosophy of Science_, 82(3): 383–401. doi:10.1086/681767
+* –––, 2018, “The Objectivity of Subjective Bayesianism”, _European Journal for Philosophy of Science_, 8(3): 539–558. doi:10.1007/s13194-018-0200-1
+* Sprenger, Jan and Stephan Hartmann, 2019, _Bayesian Philosophy of Science: Variations on a Theme by the Reverend Thomas Bayes_, Oxford/New York: Oxford University Press. doi:10.1093/oso/9780199672110.001.0001
+* Staffel, Julia, 2019, _Unsettled Thoughts: A Theory of Degrees of Rationality_, Oxford/New York: Oxford University Press. doi:10.1093/oso/9780198833710.001.0001
+* Stalnaker, Robert C., 1970, “Probability and Conditionals”, _Philosophy of Science_, 37(1): 64–80. doi:10.1086/288280
+* Stefánsson, H. Orri, 2017, “What Is ‘Real’ in Probabilism?”, _Australasian Journal of Philosophy_, 95(3): 573–587. doi:10.1080/00048402.2016.1224906
+* Strevens, Michael, 2001, “The Bayesian Treatment of Auxiliary Hypotheses”, _The British Journal for the Philosophy of Science_, 52(3): 515–537. doi:10.1093/bjps/52.3.515
+* Talbott, William J., 1991, “Two Principles of Bayesian Epistemology”, _Philosophical Studies_, 62(2): 135–150. doi:10.1007/BF00419049
+* –––, 2016, “A Non-Probabilist Principle of Higher-Order Reasoning”, _Synthese_, 193(10): 3099–3145. doi:10.1007/s11229-015-0922-y
+* Tang, Weng Hong, 2016, “Reliability Theories of Justified Credence”, _Mind_, 125(497): 63–94. doi:10.1093/mind/fzv199
+* Teller, Paul, 1973, “Conditionalization and Observation”, _Synthese_, 26(2): 218–258. doi:10.1007/BF00873264
+* Titelbaum, Michael G., 2013a, _Quitting Certainties: A Bayesian Framework Modeling Degrees of Belief_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199658305.001.0001
+* –––, 2013b, “Ten Reasons to Care About the Sleeping Beauty Problem”, _Philosophy Compass_, 8(11): 1003–1017. doi:10.1111/phc3.12080
+* –––, 2016, “Self-Locating Credences”, in _The Oxford Handbook of Probability and Philosophy_, Alan Hájek, and Christopher Hitchcock (eds), Oxford: Oxford University Press, p. 666–680.
+* –––, forthcoming, _Fundamentals of Bayesian Epistemology_, Oxford University Press.
+* van Fraassen, Bas C., 1984, “Belief and the Will”, _The Journal of Philosophy_, 81(5): 235–256. doi:10.2307/2026388
+* –––, 1988, “The Problem of Old Evidence”, in _Philosophical Analysis_, David F. Austin (ed.), Dordrecht: Springer Netherlands, 153–165. doi:10.1007/978-94-009-2909-8\_10
+* –––, 1989, _Laws and Symmetry_, Oxford/New York: Oxford University Press. doi:10.1093/0198248601.001.0001
+* –––, 1995, “Belief and the Problem of Ulysses and the Sirens”, _Philosophical Studies_, 77(1): 7–37. doi:10.1007/BF00996309
+* Vassend, Olav Benjamin, forthcoming, “Justifying the Norms of Inductive Inference”, _The British Journal for the Philosophy of Science_, first online: 17 December 2020. doi:10.1093/bjps/axz041
+* von Mises, Richard, 1928 \[1981], _Wahrscheinlichkeit, Statistik, und Wahrheit_, J. Springer; third German edition, 1951. Third edition translated as _Probability, Statistics, and Truth_, second revised edition, Hilda Geiringer (trans.), London: George Allen & Unwin, 1951. Reprinted New York: Dover, 1981.
+* Walley, Peter, 1991, _Statistical Reasoning with Imprecise Probabilities_, London: Chapman and Hall.
+* Wasserman, Larry, 1998, “Asymptotic Properties of Nonparametric Bayesian Procedures”, in _Practical Nonparametric and Semiparametric Bayesian Statistics_, Dipak Dey, Peter Müller, and Debajyoti Sinha (eds.), (Lecture Notes in Statistics 133), New York: Springer New York, 293–304. doi:10.1007/978-1-4612-1732-9\_16
+* Weatherson, Brian, 2007, “The Bayesian and the Dogmatist”, _Proceedings of the Aristotelian Society (Hardback)_, 107(1pt2): 169–185. doi:10.1111/j.1467-9264.2007.00217.x
+* Wedgwood, Ralph, 2006, “The Meaning of ‘Ought’ ”, _Oxford Studies in Metaethics, Volume 1_, Russ Shafer-Landau (ed.), Oxford: Clarendon Press, 127–160.
+* –––, 2014, “Rationality as a Virtue: Rationality as a Virtue”, _Analytic Philosophy_, 55(4): 319–338. doi:10.1111/phib.12055
+* Weisberg, Jonathan, 2007, “Conditionalization, Reflection, and Self-Knowledge”, _Philosophical Studies_, 135(2): 179–197. doi:10.1007/s11098-007-9073-4
+* –––, 2009a, “Locating IBE in the Bayesian Framework”, _Synthese_, 167(1): 125–143. doi:10.1007/s11229-008-9305-y
+* –––, 2009b, “Commutativity or Holism? A Dilemma for Conditionalizers”, _The British Journal for the Philosophy of Science_, 60(4): 793–812. doi:10.1093/bjps/axp007
 * –––, 2011, “Varieties of Bayesianism”, in Gabbay, Hartmann, and Woods 2011: 477–551. doi:10.1016/B978-0-444-52936-7.50013-6
 * Wenmackers, Sylvia, 2019, “Infinitesimal Probabilities”, in Pettigrew and Weisberg 2019: 199–265.
-* Wenmackers, Sylvia and Jan-Willem Romeijn, 2016, “New Theory about Old Evidence: A Framework for Open-Minded Bayesianism”, *Synthese*, 193(4): 1225–1250. doi:10.1007/s11229-014-0632-x
-* White, Roger, 2006, “Problems for Dogmatism”, *Philosophical Studies*, 131(3): 525–557. doi:10.1007/s11098-004-7487-9
+* Wenmackers, Sylvia and Jan-Willem Romeijn, 2016, “New Theory about Old Evidence: A Framework for Open-Minded Bayesianism”, _Synthese_, 193(4): 1225–1250. doi:10.1007/s11229-014-0632-x
+* White, Roger, 2006, “Problems for Dogmatism”, _Philosophical Studies_, 131(3): 525–557. doi:10.1007/s11098-004-7487-9
 * –––, 2010, “Evidential Symmetry and Mushy Credence”, in Gendler and Hawthorne 2010: 161–186.
-* Williamson, Jon, 1999, “Countable Additivity and Subjective Probability”, *The British Journal for the Philosophy of Science*, 50(3): 401–416. doi:10.1093/bjps/50.3.401
-* –––, 2010, *In Defence of Objective Bayesianism*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199228003.001.0001
-* Williamson, Timothy, 2007, “How Probable Is an Infinite Sequence of Heads?”, *Analysis*, 67(3): 173–180. doi:10.1093/analys/67.3.173
-* –––, 2017, “Model-Building in Philosophy”, in *Philosophy’s Future: The Problem of Philosophical Progress*, Russell Blackford and Damien Broderick (eds.), Hoboken, NJ: Wiley, 159–171. doi:10.1002/9781119210115.ch12
-* Yalcin, Seth, 2012, “Bayesian Expressivism”, *Proceedings of the Aristotelian Society (Hardback)*, 112(2pt2): 123–160. doi:10.1111/j.1467-9264.2012.00329.x
-* Zynda, Lyle, 1996, “Coherence as an Ideal of Rationality”, *Synthese*, 109(2): 175–216. doi:10.1007/BF00413767
+* Williamson, Jon, 1999, “Countable Additivity and Subjective Probability”, _The British Journal for the Philosophy of Science_, 50(3): 401–416. doi:10.1093/bjps/50.3.401
+* –––, 2010, _In Defence of Objective Bayesianism_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199228003.001.0001
+* Williamson, Timothy, 2007, “How Probable Is an Infinite Sequence of Heads?”, _Analysis_, 67(3): 173–180. doi:10.1093/analys/67.3.173
+* –––, 2017, “Model-Building in Philosophy”, in _Philosophy’s Future: The Problem of Philosophical Progress_, Russell Blackford and Damien Broderick (eds.), Hoboken, NJ: Wiley, 159–171. doi:10.1002/9781119210115.ch12
+* Yalcin, Seth, 2012, “Bayesian Expressivism”, _Proceedings of the Aristotelian Society (Hardback)_, 112(2pt2): 123–160. doi:10.1111/j.1467-9264.2012.00329.x
+* Zynda, Lyle, 1996, “Coherence as an Ideal of Rationality”, _Synthese_, 109(2): 175–216. doi:10.1007/BF00413767
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-bayesian). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/epistemology-bayesian/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=epistemology-bayesian&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/epistemology-bayesian/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-bayesian).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/epistemology-bayesian/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=epistemology-bayesian\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/epistemology-bayesian/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Strevens, Michael, 2017, [*Notes on Bayesian Confirmation Theory*](http://www.strevens.org/bct/)
-* Weisberg, Jonathan, 2019, [*Odds & Ends: Introducing Probability & Decision with a Visual Emphasis*](https://jonathanweisberg.org/vip/), Version 0.3 Beta, Open Access Publication.
-* Talbott, William, “Bayesian Epistemology”, *Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2022/entries/epistemology-bayesian/>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-bayesian).]
+* Strevens, Michael, 2017, [_Notes on Bayesian Confirmation Theory_](http://www.strevens.org/bct/)
+* Weisberg, Jonathan, 2019, [_Odds & Ends: Introducing Probability & Decision with a Visual Emphasis_](https://jonathanweisberg.org/vip/), Version 0.3 Beta, Open Access Publication.
+* Talbott, William, “Bayesian Epistemology”, _Stanford Encyclopedia of Philosophy_ (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/epistemology-bayesian/](https://plato.stanford.edu/archives/spr2022/entries/epistemology-bayesian/). \[This was the previous entry on this topic in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-bayesian).]
 
 ## Related Entries
 
-[abduction](https://plato.stanford.edu/entries/abduction/) | [Bayes’ Theorem](https://plato.stanford.edu/entries/bayes-theorem/) | [belief, formal representations of](https://plato.stanford.edu/entries/formal-belief/) | [conditionals](https://plato.stanford.edu/entries/conditionals/) | [confirmation](https://plato.stanford.edu/entries/confirmation/) | [decision theory](https://plato.stanford.edu/entries/decision-theory/) | [disagreement](https://plato.stanford.edu/entries/disagreement/) | [Dutch book arguments](https://plato.stanford.edu/entries/dutch-book/) | [epistemic utility arguments for epistemic norms](https://plato.stanford.edu/entries/epistemic-utility/) | [epistemology, formal](https://plato.stanford.edu/entries/formal-epistemology/) | [epistemology: social](https://plato.stanford.edu/entries/epistemology-social/) | [induction: problem of](https://plato.stanford.edu/entries/induction-problem/) | [justification, epistemic: coherentist theories of](https://plato.stanford.edu/entries/justep-coherence/) | [logic: inductive](https://plato.stanford.edu/entries/logic-inductive/) | [logic: of belief revision](https://plato.stanford.edu/entries/logic-belief-revision/) | [prediction versus accommodation](https://plato.stanford.edu/entries/prediction-accommodation/) | [probabilities, imprecise](https://plato.stanford.edu/entries/imprecise-probabilities/) | [probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/) | [rational choice, normative: expected utility](https://plato.stanford.edu/entries/rationality-normative-utility/) | [reflective equilibrium](https://plato.stanford.edu/entries/reflective-equilibrium/) | [scientific objectivity](https://plato.stanford.edu/entries/scientific-objectivity/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [self-doubt, epistemic](https://plato.stanford.edu/entries/epistemic-self-doubt/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [statistics, philosophy of](https://plato.stanford.edu/entries/statistics/) | [underdetermination, of scientific theories](https://plato.stanford.edu/entries/scientific-underdetermination/) | [understanding](https://plato.stanford.edu/entries/understanding/)
+[abduction](https://plato.stanford.edu/entries/abduction/) | [Bayes’ Theorem](https://plato.stanford.edu/entries/bayes-theorem/) | [belief, formal representations of](https://plato.stanford.edu/entries/formal-belief/) | [conditionals](https://plato.stanford.edu/entries/conditionals/) | [confirmation](https://plato.stanford.edu/entries/confirmation/) | [decision theory](https://plato.stanford.edu/entries/decision-theory/) | [disagreement](https://plato.stanford.edu/entries/disagreement/) | [Dutch book arguments](https://plato.stanford.edu/entries/dutch-book/) | [epistemic utility arguments for epistemic norms](https://plato.stanford.edu/entries/epistemic-utility/) | [epistemology, formal](https://plato.stanford.edu/entries/formal-epistemology/) | [epistemology: social](https://plato.stanford.edu/entries/epistemology-social/) | [induction: problem of](https://plato.stanford.edu/entries/induction-problem/) | [justification, epistemic: coherentist theories of](https://plato.stanford.edu/entries/justep-coherence/) | [logic: inductive](https://plato.stanford.edu/entries/logic-inductive/) | [logic: of belief revision](https://plato.stanford.edu/entries/logic-belief-revision/) | [prediction versus accommodation](https://plato.stanford.edu/entries/prediction-accommodation/) | [probabilities, imprecise](https://plato.stanford.edu/entries/imprecise-probabilities/) | [probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/) | [rational choice, normative: expected utility](https://plato.stanford.edu/entries/rationality-normative-utility/) | [reflective equilibrium](https://plato.stanford.edu/entries/reflective-equilibrium/) | [scientific objectivity](https://plato.stanford.edu/entries/scientific-objectivity/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [self-doubt, epistemic](https://plato.stanford.edu/entries/epistemic-self-doubt/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [statistics, philosophy of](https://plato.stanford.edu/entries/statistics/) | [underdetermination, of scientific theories](https://plato.stanford.edu/entries/scientific-underdetermination/) | [understanding](https://plato.stanford.edu/entries/understanding/)
 
 ### Acknowledgments
 
 I thank Alan Hájek for his incredibly extensive, extremely helpful comments. I thank G. J. Mattey for his long-term support and editorial assistance. I also thank William Talbott, Stephan Hartmann, Jon Williamson, Chloé de Canson, Maomei Wang, Ted Shear, Jeremy Strasser, Kramer Thompson, Joshua Thong, James Willoughby, Rachel Boddy, and Tyrus Fisher for their comments and suggestions.
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-Hanti Lin <[*ika@ucdavis.edu*](mailto:ika%40ucdavis%2eedu)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+Hanti Lin <[_ika@ucdavis.edu_](mailto:ika%40ucdavis%2eedu)>
