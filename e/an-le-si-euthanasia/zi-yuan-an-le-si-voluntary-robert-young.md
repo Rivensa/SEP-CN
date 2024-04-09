@@ -1,2 +1,226 @@
 # 自愿安乐死 voluntary (Robert Young)
 
+*首次发表于 1996 年 4 月 18 日星期四；实质性修订于 2024 年 3 月 9 日星期六*
+
+该条目阐述了通常被认为是任何人成为合法自愿安乐死候选人所必需的五个条件（以及在适当情况下，医师辅助自杀），概述了支持将自愿安乐死合法化的人提出的道德理由，并讨论了那些否认自愿安乐死在道德上是可容许的、因此反对将其合法化的人提出的五个最重要的反对意见。
+
+* [ 介绍](https://plato.stanford.edu/entries/euthanasia-voluntary/#Intr)
+* [自愿安乐死的候选资格通常提出的五个条件](https://plato.stanford.edu/entries/euthanasia-voluntary/#FiveCondOftePropNeceForCandForVoluEuth)
+* [自愿安乐死的道德案例](https://plato.stanford.edu/entries/euthanasia-voluntary/#MoraCaseForVoluEuth)
+* [对自愿安乐死的道德允许性的五个反对意见](https://plato.stanford.edu/entries/euthanasia-voluntary/#FiveObjeMoraPermVoluEuth)
+* [ 参考文献](https://plato.stanford.edu/entries/euthanasia-voluntary/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/euthanasia-voluntary/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/euthanasia-voluntary/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/euthanasia-voluntary/#Rel)
+
+---
+
+## 介绍
+
+当一个人实施安乐死时，她会导致另一个人的死亡，因为她相信后者目前的存在是如此糟糕，以至于他死了会更好，或者相信除非她介入并结束他的生命，否则他的生活很快会变得如此糟糕，以至于他死了会更好。因此，实施安乐死行为的人的动机是为了使那个被带来死亡的人受益。（这也适用于许多医师辅助自杀的情况，但后者术语的使用通常限于那些形式的协助，这些协助没有导致医生“导致患者死亡”，例如，那些需要患者激活的手段。）
+
+重要的是强调协助死亡的人受益的动机，因为幸福是关于安乐死道德的核心价值（见下文第 3 节）。然而，关于某人死了会更好这一主张的可辩护性已经成为广泛哲学讨论的主题。那些声称某人死了会更好的人认为，当对于那个人未来的生活没有积极价值时，这一主张是正确的（这一可能性由例如 Foot, 1977; McMahan 2002; Bradley 2009 讨论），而一些认为一个人的生命是不可侵犯的人则否认一个人死了会更好（例如 Keown 在 Jackson 和 Keown 2012 中）。受康德启发的这种后一立场的变体由 Velleman（1999）提出。他认为一个人的幸福只有在她具有内在价值时才重要，因此违背一个人的理性本质（她内在价值的来源）是不允许的，为了她的幸福。因此，他认为协助一个认为自己死了会更好并且能够请求协助死亡的人是不允许的。唯一的例外是当一个人的生活如此堕落以至于质疑她的理性本质，尽管他认为在那种情况下任何人仍然有能力请求协助死亡是不太可能的。这一立场似乎与一个有能力的患者拒绝延长生命的医疗治疗的权利相矛盾，至少当进一步的治疗被拒绝是因为她认为她的生活对她没有价值，进一步的治疗也不会恢复其价值给她时。（有关拒绝一个人生命不可侵犯的论据的进一步理由，包括 Velleman 的，见例如 McMahan 2002; Young 2007; Sumner 2011, 2017。）
+
+自愿安乐死的关注在于那些明显具备能力的人提出自愿和持久请求寻求帮助结束生命的情况（或者，延伸至，当授权代理人通过选择方式代替判断，选择已不再具备能力的人在保持能力时会做出的选择）。第二个关键价值是请求帮助结束生命的人的能力。只有在考虑允许自愿安乐死会导致通过一个滑坡允许非自愿安乐死的主张时，才会提到非自愿安乐死的情况——在决定请求安乐死时，当事人在那时缺乏能力，并且之前没有通过预先指示（见预先指示条目）明确声明偏好。关于非自愿安乐死，这里不会多说，即使加害者动机再高尚，这样的死亡是不合法的，也应该是不合法的。
+
+关于自愿安乐死的道德和合法性的辩论，在很大程度上是二十世纪下半叶和二十一世纪初的现象。当然，古希腊人和罗马人并不认为生命需要以任何代价来维持，并且在没有办法为一个垂死之人提供帮助时，或者在斯多葛派和伊壁鸠鲁派的情况下，当一个人不再在乎自己的生命时，他们是宽容自杀的。在十六世纪，托马斯·莫尔在描述一个乌托邦社区时，设想这样一个社区将促进那些因“折磨和拖延的痛苦”而生活变得沉重的人的死亡。但直到最近一百年，才开始着手制定法律规定自愿安乐死。直到最近，一直没有成功获得这样的法律规定（尽管在瑞士多年来法律上容忍辅助自杀，包括但不限于医生协助自杀）。然而，70 年代和 80 年代荷兰的一系列法庭案件的结果使前景发生了巨大变化，最终导致法律和医疗当局达成协议，确保只要严格遵守某些准则，没有医生会因协助患者死亡而受到起诉（参见格里菲斯等，1998 年）。简而言之，这些准则旨在允许医生在以下情况下实行自愿安乐死：患者明确表示自愿并知情请求帮助结束生命，患者的痛苦无法忍受，没有办法让患者接受的方式让痛苦变得可以忍受，医生在与另一位医生协商后确认了诊断和预后的判断。
+
+自愿安乐死的第一项立法批准是通过澳大利亚北领地议会通过一项法案，使医生能够实行自愿安乐死。1996 年法案颁布后，面临一系列反对自愿安乐死的法律挑战。1997 年，这些挑战导致澳大利亚国家议会基于宪法理由废除了该立法，禁止澳大利亚领土制定允许自愿安乐死的法律。澳大利亚是由六个州和两个领地组成的联邦制国家。与领地不同，各州确实有权根据宪法制定此类立法，2017 年维多利亚州就这样做了。该立法于 2019 年生效。2019 年，第二个州西澳大利亚颁布了允许自愿医疗辅助死亡的立法。该立法于 2021 年生效。2021 年，另外三个州——塔斯马尼亚、南澳大利亚和昆士兰颁布了允许自愿医疗辅助死亡的立法，前两者于 2022 年生效，第三者于 2023 年生效。最后，2022 年新南威尔士州颁布了立法，于 2023 年生效，使得自愿医疗辅助死亡在各州都可以实施。目前，澳大利亚首都领地和北领地正在努力引入有利于自愿医疗辅助死亡的立法，以避免被联邦议会否决。
+
+2000 年 11 月，荷兰通过立法合法化自愿安乐死的实践。该立法在 2001 年初通过了所有议会阶段。比利时议会于 2002 年通过了类似的立法，卢森堡在 2009 年效仿。 (For a very helpful comparative study of relevant legislation see Lewis 2007. See also Griffiths, et al. 2008.)
+
+在美国俄勒冈州，1997 年提出了立法，允许医师协助自杀，此前经过一次公投强烈支持该提案。1997 年晚些时候，美国最高法院裁定没有宪法权利允许医师协助自杀；然而，法院并未排除各个州立法支持医师协助自杀的可能性（因此，俄勒冈的立法未受影响）。自那时起，俄勒冈的立法已被许多人成功利用，并且类似的立法已于 2009 年在华盛顿州、2013 年在佛蒙特州通过，最近在加利福尼亚、科罗拉多、佛罗里达、夏威夷、爱荷华、缅因、马里兰、马萨诸塞、明尼苏达、新泽西、新墨西哥和哥伦比亚特区也通过了类似的立法。2008 年和 2009 年在蒙大拿州的一系列司法裁决确立了该州不能禁止医师协助自杀，但尚未出台立法以明确法律情况。其余一些州目前正在考虑医师协助自杀法案。
+
+哥伦比亚国家在 1990 年代末期获得了与蒙大拿州类似的法律立场，这是由其宪法法院的多数裁决结果，支持医生协助自杀的合法性，但立法规定最终直到最近才制定。2021 年，西班牙合法化了自愿安乐死。奥地利和德国的法院已经授权医生协助自杀，但尚未引入实践的立法支持，而意大利的两院制议会已通过了医疗辅助死亡的自愿立法。葡萄牙通过了医生协助自杀的立法，但随后被宪法法院驳回。
+
+加拿大魁北克省于 2014 年颁布了允许医疗援助死亡的立法。该立法于 2016 年生效，与此同时，加拿大国家议会通过了允许医师协助自杀和在整个加拿大联邦范围内实行自愿安乐死的立法。 （有关加拿大各项立法颁布前事态发展的简要描述，请参阅 Downie 和 Schuklenk 2021。）
+
+新西兰在 2019 年举行了一次全民公投，结果获得了支持为自愿医疗辅助死亡立法的通过。该立法于 2021 年底生效。
+
+目前，捷克共和国、法国、爱尔兰、马恩岛、日本、泽西岛、韩国、菲律宾、斯洛文尼亚和英国正在审议自愿医学辅助死亡的立法提案。
+
+在这个简要的历史背景概述的基础上，我们将首先考虑那些主张使自愿医学辅助死亡合法化的人通常坚持应该满足的条件。对所提出的条件的考虑将为接下来第三和第四部分的道德审问建立一个框架。第三部分将概述那些希望自愿安乐死和医师辅助自杀合法化的人提出的积极道德论据。第四部分将致力于审查那些反对将自愿安乐死和医师辅助自杀合法化的人对该论据提出的最重要的反对意见。
+
+## 五个经常被提出作为自愿安乐死候选资格的条件
+
+自愿安乐死的倡导者通常主张，如果一个人
+
+1. 正在患有晚期疾病
+2. 自愿安乐死可能不太可能从她余下的生命期望中疾病治愈的发现中受益;
+3. 由于疾病的直接结果，要么遭受无法忍受的痛苦，要么只能过着无法接受的负担生活（例如，因为疾病必须以导致她对他人或技术生命支持手段无法接受地依赖的方式进行治疗）;
+4. 拥有持久、自愿且能胜任的死亡意愿（或在失去能力之前表达了在满足条件（a）-（c）的情况下希望得到协助死亡的意愿）;
+5. 无法在没有帮助的情况下结束她的生命
+
+应当有法律和医疗条款来促进她被允许死亡或协助死亡。
+
+应该承认，这些条件相当严格，实际上比许多人认为适当的要严格得多。特别是，第一个条件限制了只有那些患绝症的人才能获得自愿安乐死。虽然这种表达并非毫无歧义，但就目前的目的而言，可以认为它不包括那些因事故导致四肢瘫痪的人，或患有慢性疾病的患者，或患有像阿尔茨海默病这样的痴呆症的人，更不用说那些受到“存在性痛苦”折磨的人了。那些认为这些情况表明第一个条件过于严格的人（例如，瓦雷利乌斯 2014 年，布劳恩 2023 年）可能仍然同意，将这些人列为合法自愿安乐死的候选人可能会在许多司法管辖区内更难获得足够的支持以实现合法化（因此更难帮助那些希望死去的绝症患者）。即便如此，他们认为，自愿安乐死应该允许那些认为他们的生活不再值得活下去的人，而不仅仅是绝症患者。最近，在比利时和荷兰，对于那些认为他们的生活不再值得活下去的人，因此认为他们的生活在某种意义上“完整”的人是否应该获得医疗协助死亡，已经成为一个紧迫的问题。几起法院案件已经确认，即使在前一类别的个人中有时可以提供这样的协助，但问题仍然存在，即是否医疗责任是向那些认为她的生活已经完整但并非患有绝症的人提供协助死亡（例如，扬 2017 年）。相关地，在加拿大，最近关于那些患有不会合理预见导致死亡的残疾以及那些因精神疾病而受苦的人是否应该获得医疗协助死亡的问题已经引发了激烈的辩论。辩论的结果是，残疾人，其病情导致持续、无法忍受和无法缓解的痛苦，只要他们能够提出一个胜任的请求，就可以获得医疗协助死亡。计划在 2024 年为那些唯一的潜在病情是精神疾病的人制定类似安排的意图已经被提出，但在进一步研究该问题之前已被暂时搁置。这些司法管辖区对于医疗协助死亡的资格条件所做的或拟议的变化，似乎将导致其他司法管辖区对于自愿医疗协助死亡的资格条件的扩大。
+
+第五条件进一步限制了自愿安乐死的途径，排除了那些有能力结束自己生命的人，因此可能被认为是过于严格的，这可能会被那些希望阻止晚期病人自杀的人认为是过于严格。还有一些人认为这个条件过于严格，因为有能力的病人总是可以拒绝营养和水分（参见，例如，Bernat, et al. 1993; Savulescu 2014）。尽管这是真实的，许多有能力的临终者仍然希望获得合法的医疗辅助死亡的途径，而不是依靠拒绝营养和水分，这样他们可以控制自己死亡的时间，并避免不必要地延长死亡过程。
+
+第二个条件的目的只是为了反映通常可以说某人的健康状况是不可治愈的事实。 所谓的“奇迹”疗法可能会被轰动性记者宣扬，但医学突破通常是艰苦的。 如果有上帝施行的奇迹，那将是完全不同的事情，但至少可以明确的是，并非每个人的死亡都可以被拖延。
+
+第三个条件认识到了许多反对自愿安乐死合法化的人所不认同的事实，即请求帮助结束生命并不仅仅是为了摆脱痛苦。例如，在荷兰，痛苦被发现并不是请求帮助结束生命的主要原因，而是其他形式的痛苦，比如对独立性丧失的挫折感（参见 Marquet 等，2003 年；Onwuteaka-Philipsen 等，2012 年；Emanuel 等，2016 年）。一些终末期疾病患者可能会缓解疼痛，但必须忍受副作用，这让他们觉得生活无法忍受。其他人可能不必忍受疼痛，而是必须依赖形式的生命支持，同时这些支持方式剥夺了他们生活的质量（例如运动神经元疾病）。还有一些人在与心理困扰和各种精神疾病作斗争，他们认为这些状况应被视为合格个体获得医疗帮助结束生命的痛苦形式之一。在那些将难以忍受的痛苦作为确定合格个体是否有资格获得医疗帮助结束生命的关键因素的司法管辖区，对这一立场的认可和支持更为广泛（参见上文对第一个条件的讨论）。即便如此，包括这些痛苦形式也凸显了至少部分患者的能力问题。 （有关荷兰精神病患者请求医疗帮助结束生命处理的有益最新研究，请参见 Kim 等，2016 年。）
+
+第四个条件要求死亡选择不仅是自愿且胜任的，而且是持久的。这个选择需要时间来反思，并且几乎可以肯定需要与他人讨论，因此不应该在一瞬间就做出决定。然而，与其他影响重要事项的决定一样，成年人被假定是自愿选择和胜任的，除非可以证明存在推翻性的考量。 （见决策能力条目。）建立不自愿或不胜任的证据的责任在于拒绝接受成年人选择的人。没有必要否认有时可以满足这一责任（例如，指出该人处于临床抑郁状态）。声明仅仅是责任在于声称成年人的选择不胜任的人。 （当至少有些年长儿童和青少年的胜任性受到质疑时，将面临不同的问题。例如，在荷兰，有时发现 12 岁及以上的人有资格为自己做生命终结决定。但是，由于条目的重点是胜任成年人，因此这个话题将不再进一步探讨。）
+
+显然，上述五个条件很可能需要一些细化才能达成完全一致，但我们已经达成足够的一致，可以毫不拖延地继续考虑赞成和反对自愿安乐死合法化的情况。（然而，关于“安乐死”定义问题的更全面讨论，请参见，例如，Beauchamp 和 Davidson 1979。）
+
+## 自愿安乐死的道德案例
+
+自愿安乐死中的一个中心伦理争议是，尊重个人要求尊重他们的自主选择，只要这些选择不会对他人造成伤害。尊重人们的自主选择与对能力的要求直接相关，因为自主性预设能力（参见 Brock 1992）。人们有权根据自己对生活方式的构想做出重要决定。在行使自主权或自我决定权时，个人要对自己的生活负责；由于死亡是生命的一部分，对于许多人来说，关于他们死亡方式和时间的选择是承担生活责任的一部分。许多人担心他们生命的最后阶段会是什么样子，不仅是因为担心他们的死亡可能会让他们遭受巨大的痛苦，还因为他们希望在这个阶段尽可能地保留尊严，并尽可能控制自己的生活。支持自愿安乐死的第二个争议在本文开头提到，即促进个人福祉的重要性。当有人遭受难以忍受的痛苦或只能接受一种无法接受的负担生活（请参见上述第三个条件），并且他能够请求医疗协助死亡，通过为他提供这种协助可能最好地促进他的福祉。个人做出自主选择的价值与那些做出这种选择的个人促进自己福祉的价值结合在一起，为自愿安乐死的请求提供了道德基础。每个考虑因素对于实践的道德正当化都是必要的，但单独看，两者都不足（请参见，例如，Young 2007, 2017; Sumner 2011, 2017）。
+
+现代医学的技术干预已经延长了许多人死亡所需的时间。有时，这种延长的生命是值得庆祝的时刻；有时，它延长了一个人在身体和智力上显著衰退的时期，导致生活变得不再值得。许多人认为，关于一个人的生命何时（如果有的话）成为负担，因而不受欢迎，没有单一、客观正确的答案。如果他们是对的，那只是强调了个体能够自主决定他们自己的生活是否保持足够的质量和尊严，使生活值得的重要性。其他人认为，个体可能会错误地判断他们的生活是否继续值得（参见，Foot 1977）。上述第 2 节中概述的条件是由那些提出它们的人打算用来实现，除其他目的外，还是为了防止这种错误。但值得补充的是，如果一个认为自己符合这些条件的人被她的医护人员判断为错误，认为她继续生活是否值得，那么很可能的结果是这些医护人员将拒绝提供医疗援助以结束生命。 （下文将提到的证据显示，在已经合法化医疗援助结束生命的司法管辖区中，这种情况发生的频率比预期的要高。 （在 Young 2007; Wicclair 2011; Sumner 2020 中有关这类问题的原则讨论。）除非患者能够转移到接受她评估的其他医疗专业人员的护理，否则她将不得不依靠自己的资源（例如，拒绝营养和水分）。即便如此，其他条件相等的情况下，只要一个危重病人还具备能力，她对于继续生活是否对她有益的判断应该在任何临终决策中占据最重要的地位，无论她是否处于严重受损和虚弱的状态。一个有能力的个体对于继续生活对她的价值的自主判断应该凌驾于他人对她幸福的评估之上的想法不应该被认为是令人惊讶的，因为当一个有能力的患者拒绝延长生命的治疗时，正是发生了完全相同的情况。
+
+假设，为了论证，我们同意应尊重一个人对医疗协助死亡的能力请求（例如，以便让她实现自主选择的轻松死亡目标）。可能会认为，在这种情况下，将引入不同的道德关切，与有关能力拒绝相关的道德关切不同。毕竟，虽然有能力的患者有权拒绝任何形式的医疗治疗，但他们没有权坚持施行没有带来医疗益处的医疗治疗形式，或者因为医疗资源短缺或价格昂贵而未提供。虽然这些观点都是正确的，但医务人员仍有责任在其能力范围内缓解痛苦。因此，将医疗协助死亡视为适当医疗护理的医生将认为同意有能力的临终患者请求协助死亡是道德上允许的，这些患者希望避免难以忍受的痛苦。仅声称这在道德上是允许的而不是道德上是义务的原因将在下一段中解释。（有关对医疗协助请求的回应问题的进一步思考，请参见，例如，Dworkin 1998; Sumner 2011, 2017, 2020; Young 2007, 2017.）
+
+尽管如前所述，至少一些自愿医疗辅助死亡的支持者希望质疑为什么医疗辅助死亡应该仅限于那些在第 2 节中特别列出的前三个条件中的人。如果人们对医疗辅助死亡的请求应该得到尊重，为什么要对谁可以获得医疗辅助死亡施加任何限制呢？例如，为什么那些患有抑郁症或痴呆症的人不符合医疗辅助死亡的资格呢？大多数自愿医疗辅助死亡的支持者认为，限制获得医疗辅助死亡的人至少有两个原因（或者，考虑到在讨论中提出的那些条件的修改集）。首先，他们认为有政治理由这样做，即因为为胜任者合法化医疗辅助死亡在政治上备受争议，其合法化的最佳希望在于专注于那些最有可能影响法律改革的痛苦形式。这就是为什么一些支持者甚至否认像“锁定”综合症、运动神经元疾病和多发性硬化等病患者有资格自愿医疗辅助死亡，因为严格来说，他们并非处于晚期，因此必须依赖于他们声称正在承受难以忍受的痛苦。其次，与此相关，大多数支持医疗辅助死亡合法化的人对支持例如抑郁症和痴呆症患者的医疗辅助死亡持谨慎态度，因为他们不仅不处于晚期，而且他们请求医疗辅助死亡的胜任性可能会受到质疑，特别是在他们没有事先表明对此类帮助的偏好的情况下。将医疗辅助死亡的获得限制在那些痛苦不太可能受到争议的人身上，避免卷入争议。正如前面提到的，一些对这种限制性方法持批评态度的人（例如，Varelius 2014）采取更强硬的立场，并声称一个人不必患有医学疾病就有资格获得医疗辅助死亡；只是“厌倦生活”就足够了。在瑞士、荷兰和比利时等少数司法管辖区中，这个问题已经被认真提出。无论这些司法管辖区会发生什么，寻求其他司法管辖区提供医疗辅助死亡的人似乎很可能坚持认为，如果这种帮助被视为合法的医疗护理形式，那么它必须是对医学状况的回应（而不是因为有人“厌倦生活”），而且确实限制在那些符合第 2 节中概述的条件（或类似条件集）的人身上。简而言之，后者认为，提出辅助死亡的自主请求是必要的，但不足以触发这种帮助。
+
+对于道德支持自愿医疗辅助死亡的论据，有一个最终相关的问题需要评论。评论涉及到前面段落中预示的一个观点，但也与刚刚提到的关于自主请求协助死亡的不足有关。重要的一点是要指出，不仅要尊重垂危者的自主权，还要尊重任何被要求提供协助死亡的医务人员的专业自主权。自决的价值（或者，一些人可能更喜欢的说法是权利）并不赋予患者权利去强迫医务人员违背他们自己的道德或专业价值观行事。因此，如果自愿安乐死要被合法允许，必须在尊重专业自主权的背景下进行。同样，如果医生对她的道德或专业责任的看法与她患者的明智请求安乐死相冲突，她应该在可能的情况下提供患者转交给一个没有这种冲突的医生的安排。鉴于迄今为止，那些认为医疗实践中不应允许良心抗议的人得到的支持非常少，利用转诊和转移仍然是解决这类分歧的最有效手段。
+
+反对自愿安乐死的人已经尽力以各种方式来反驳上文中为其合法化所提出的非常直接的道德论据（参见，例如，Keown 2002; Foley, et al. 2002; Biggar 2004; Gorsuch 2006）。一些反驳论点仅关注于道德论据是否足以使自愿安乐死的实践合法化，而另一些则试图削弱道德论据本身。接下来将考虑五个最重要的反驳论点。（有关医疗辅助死亡的道德和合法性的更全面讨论，请参阅 Biggar 2004; Gorsuch 2006; Young 2007; Sumner 2011, 2017; Keown 2018）。
+
+## 对自愿安乐死的道德允许性的五个反对意见
+
+### 4.1 反对意见
+
+有时候有人说（例如，Emanuel 1999; Keown in Jackson and Keown 2012）如今人们不必在承受难以忍受或不堪重负的痛苦中死去，因为有效的姑息治疗得到了持续改善，且临终关怀更加普遍。因此，一些人主张自愿安乐死是不必要的。
+
+有几个缺陷存在于这个论点中。首先，尽管良好的姑息护理和临终关怀对于照料垂危者都起着重要作用，但两者都不是万能药。为个体获得最佳的姑息护理需要经历试错过程，这个过程中可能会有一些随之而来的痛苦；此外，即使是最好的护理也无法缓解所有的疼痛和痛苦。或许更重要的是，高质量的姑息护理通常会以恶心、失禁、因半永久性嗜睡而导致意识丧失等副作用的形式付出代价。人们经常描绘出姑息护理如何可以改变垂危者的困境的美好画面。根据那些密切观察过使用吗啡等药物进行长期治疗的效果的人的看法，这样的画面是误导性的。因此，许多技术娴熟的姑息护理专家承认，姑息护理并不能让每位患者都能够安详地离世。其次，尽管通过临终关怀提供的护理值得赞扬，但这种护理只适用于少部分垂危者，而且通常只在疾病的最后阶段（通常是几周的时间）提供。尽管只有相对较少的垂危者能够获得临终关怀，但值得注意的是，在俄勒冈州，举一个例子，寻求医师辅助自杀的人中有很高比例的人接受了临终关怀。第三，对于目前的目的来说，不是每个人都希望利用姑息护理或临终关怀。对于那些希望按照自己的方式和时间离世的人来说，这两种选择可能都不吸引人。正如先前提到的，许多垂危患者的主要困扰之一是无法满足他们的自主意愿所带来的挫折感。第四，正如前面也指出的，导致渴望结束生命的痛苦并不总是源于疾病引起的疼痛。对于一些人来说，令人无法忍受的是他们被迫依赖他人或生命维持设备；对于这些患者来说，有效的疼痛控制并不是主要关注点。（关于前述事项，请参阅 Rietjens 等人 2009 年和 Onwuteaka-Philipsen 等人 2012 年关于荷兰的研究结果；以及关于俄勒冈州的研究，参见 Ganzini 等人 2009 年。）
+
+### 反对意见 2
+
+对自愿安乐死的道德和法律允许性的第二个相关反对意见是，我们永远无法获得足够的证据来证明我们有正当理由相信一个垂危者要求帮助死亡是胜任的、持久的和真正自愿的。
+
+自愿安乐死的合法化倡导者认为，在允许实施安乐死之前，通常应要求冷静期，以确保请求是持久的，而不仅仅是暂时的绝望（就像有些自杀企图可能只是暂时的绝望一样）。然而，声称我们永远不能证明某人的死亡请求反映了对死亡的确定偏好是言之过早的。如果一个有能力的人随着时间的推移在不同场合与他人讨论这个问题，并坚定不移，或者私下反思这个问题很长一段时间并且坚定不移，那么她的死亡意愿必定应被视为持久的。
+
+但是，可能会有人问，如果一个人因为采取的措施来缓解她的疼痛而痛苦不堪，或者由于精神混乱，因此无法清晰理性地思考各种选择，那该怎么办呢？必须承认，在这种情况下想要死亡的人不应被认为真正是自愿并持久地渴望死亡。然而，至少有两点重要的观点需要提出。首先，这些情况并不能涵盖所有晚期病人，因此，即使承认这样的人无法同意自愿安乐死，也不能说明没有人可以自愿请求帮助死亡。其次，在至少一些司法管辖区，一个人可以在失去能力给予明智同意之前表明，如果她患了晚期疾病并且遭受到无法忍受的疼痛或对生活失去控制（例如，Dworkin 1993），她希望如何被对待。"生前指示"或"预先指示"是法律工具，可以在人们有能力给予明智、持久和自愿同意的情况下表达他们的意愿，包括希望得到帮助死亡。只要在改变主意的情况下可以轻松撤销（就像民事遗嘱一样），它们应被尊重为深思熟虑信念的证据。（有关这些工具的更详细考虑，请参阅有关预先指示的条目。）
+
+也许，然而，这个异议真正关注的问题是，是否有人能在遭受这种疾病之前（参见杰克逊和基恩 2012 年的基恩）就能够形成一个胜任、持久且自愿的判断，认为死亡会让自己过得更好，而不是继续受苦。如果这是异议的根源，那么这显然太过于家长式，无法被接受。为什么一个人不可能拥有足够的归纳证据（例如，基于朋友或家人的死亡经历）来了解自己的想法，并相应地行动，而不必直接经历这种痛苦呢？
+
+### 4.3 反对意见
+
+根据传统解释的“双重效应原则”，只要可以预见到会产生不良影响，就可以采取行动，只要符合自愿安乐死
+
+1. 坏影响发生作为一个副作用（即，间接地）到直接旨在的行为的实现。
+2. 自愿安乐死
+3. 好的效果不能通过坏的方式实现，也就是说，坏的不能成为好的手段；
+4. 不良影响不得严重到超过好影响。
+
+因此，根据双重效应原则，例如，通过给予吗啡等药物来缓解疼痛（一种好的效果）是可以接受的，即使知道这样做会缩短生命，但是直接以终止患者生命的意图来使用同样的药物是不可接受的（一种坏的效果）。据说，无论这种药物是否是在患者的要求下给予，后一种说法都适用。
+
+这并不是全面考虑该学说的适当论坛，有关该学说的详细内容，请参阅“双效原则”条目。然而，对于该学说的应用存在一个非常重要的批评，这与自愿安乐死问题直接相关。
+
+在最合理的阐释中，双重效应原则只有在一个人的死对她是不利的，或者换句话说，对她构成伤害时，才与自愿安乐死的可容许性相关。有时，“伤害”的概念被理解为对一个人利益的损害，无论是否经过同意。在其他时候，它被更严格地理解为被错误施加的伤害。无论对伤害的哪种理解，都可能存在这样的情况：对于一个人来说，死亡并不构成对她的伤害，因为它要么会使她变得更好，或者正如一些人坚持的那样，与继续活着相比，不会变得更糟。因此，在这些情况下，双重效应原则与自愿安乐死的可容许性的辩论无关。（有关双重效应原则及其对自愿安乐死的道德可容许性的深入讨论，请参见，例如，McIntyre 2001; Woodward 2001; Cavanaugh 2006; Young 2007; Sumner 2011, 2017。）
+
+### 4.4 反对意见 4
+
+在第 3 节中早些时候已经指出，有一种普遍看法认为所谓的被动（自愿）安乐死，即在回应一位有能力的患者的请求时撤回或不实施维持生命或延长生命的措施，是道德上可接受的。所谓被动（自愿）安乐死之所以被认为是道德上可接受的原因是患者仅仅被允许死亡，因为没有采取措施来维持或延长生命。例如，当一个垂危的患者要求撤回或不实施在医学上无效或不可接受的负担过重的措施时，就会发生这种情况。相比之下，被认为是道德不可接受的主动（自愿）安乐死，因为据称需要一个不可辩解的故意杀人行为来满足患者的要求（例如，Finnis，1995 年；Jackson 和 Keown 2012 年中的 Keown；Keown 2018 年）。
+
+尽管被广泛使用并流行，被动安乐死和主动安乐死之间的区别既不是特别清晰，也不具备道德上的帮助。（有关更详尽的讨论，请参见 McMahan 2002。）无论行为是以行为还是不作为的方式描述（这一区别构成了自愿安乐死的主动和被动之间以及杀害一个人和让她死亡之间的所谓区别），通常更多是出于实用性而非更深层的道德重要性。例如，考虑一下（曾经在医院中常见的）故意缓慢前往病房以响应为一个被指定为“不复苏”代码的患者提供帮助的请求。或者，考虑在维持一个本来就濒临死亡的患者生命的呼吸机上“拔掉插头”，与当氧气供应用尽时不再更换氧气供应。这些是行为还是不作为？如果答案仅仅取决于实用性考虑，那么所谓被动安乐死和主动安乐死之间的区别将难以维持。
+
+即使可以令人满意地澄清行为和不作为之间的区别，以及相关的杀害和被动死亡之间的区别（请参见条目做与允许伤害），仍然存在一个问题，即这些区别在每种情况下是否具有道德意义。考虑一个患有运动神经元疾病、完全依赖呼吸机的患者的情况，她发现自己的状况无法忍受，并且能够并坚持要求从呼吸机上取下以便死亡。即使是天主教会最近也已经准备同意，在这种情况下关闭呼吸机是可以接受的。毫无疑问，这是因为天主教会认为这样的患者只是被允许死亡。即使出于讨论的目的同意将这样的死亡视为被动死亡的一个例子，这种让步也不会表明，如果患者按照她的要求被杀害（主动自愿安乐死），而不是被允许死亡（被动自愿安乐死），那么这种死亡在道德上会更糟糕。事实上，支持自愿医疗协助死亡的人认为，由于在这种情况下死亡是有益的（或者至少不会使垂危者变得更糟），积极导致死亡在道德上应该优于仅仅允许死亡发生，因为期望的好处更快地实现，从而减少了痛苦。
+
+自愿安乐死的反对者声称，然而，积极和消极安乐死之间的区别在于行为者的意图：如果有人的生命被故意终止，那么她就被杀害了，而如果她只是不再接受积极治疗，她的死应归因于潜在疾病。许多医生会说，在这种情况下，他们对于不提供或撤回维持生命的医疗治疗的意图仅仅是为了尊重患者的意愿。在那些患者主动要求不再进行积极治疗的情况下，这是合理的（或者，患者的代理人提出这样的要求）。但这通常是不合理的。在许多情况下，对于医生在不提供或撤回维持生命措施时的意图的最合理解释是为了结束患者的生命。考虑在决定停止积极治疗后对患者进行“终末镇静”的姑息护理实践。假设（有时会发生）随后停止人工提供营养。在这些后一种情况下，对于医生行为的最佳解释是，医生意图以此来结束患者的生命。如果不是为了结束患者的生命，那么这个行动的目的是什么，目标是什么，预期的结果是什么？（参见温克勒 1995 年。）这个行动被视为旨在缓解患者的疾病状况或使患者感到舒适是毫无意义的。也不适宜声称杀死患者的是潜在疾病。杀死患者的是剥夺她营养（即使她被饿死）。这一点可以推广到许多涉及撤回或不提供维持生命的医疗治疗的更多情况。简而言之，没有理由认为所谓的被动自愿安乐死在道德上是可以接受的，而积极自愿安乐死永远不可能。
+
+但我们可以更进一步。给予滴定剂量的吗啡，达到超过控制疼痛所需水平，或者从运动神经元疾病患者身上拔除呼吸机，对许多人来说，似乎等同于故意导致被照顾者的死亡。当然，正如上文所承认的，存在这样的情况，医生可以真诚地说，他们所执行的行动或所做的省略将导致患者的死亡，尽管他们并非有意让这些患者死亡。因此，例如，如果患者拒绝延长生命的医疗治疗，因为她认为这是徒劳的，可以合理地说，她的医生遵从请求的意图仅仅是尊重她的意愿。然而，正如我们所见，存在其他情况，在这些情况下，继续声称，一些医生没有意图导致死亡是非常牵强的。
+
+这些考虑应该解决问题，但对于那些坚持在医学背景下杀人总是在道德上不合理的人来说，情况并非如此——这是围绕第四个反对意见的辩论的基础。但这一基本假设是可以质疑的，例如，Rachels 1986 和 McMahan 2002 已经对此提出了质疑。挑战者提出的原因之一是，在某些情况下，当一个有能力的垂危者请求帮助结束生命时，杀死她在道德上比让她死更可取，即当选择后者只会违背她的意愿而延长她的痛苦时。此外，尽管长期以来的法律原则是没有人可以正当地同意被杀害（稍后会详细说明），但对于杀人行为的正当化来说，被杀害的人已经自主决定她会更好地死去，并请求帮助结束生命，这当然是相关的。
+
+### 反对意见 5
+
+有时候有人说，如果社会允许将自愿安乐死合法化，我们将踏上一条会最终导致支持其他形式安乐死的滑坡，包括尤其是非自愿安乐死的道路。曾经普遍认为这正是希特勒德国发生的事情，但近几十年来，趋势是声称荷兰和比利时合法化安乐死的经验，特别是证实了滑坡的现实。
+
+滑坡论点有各种版本。对其进行分类的一种方式（但不是唯一的方式）是将其归类为逻辑、心理和任意线版本。不同形式的共同特征是，一旦在滑坡上迈出第一步，随后的步骤就会不可避免地跟随，无论是出于逻辑原因、心理原因，还是为了避免在“划定一个人的行为之间的界线”时的任意性。（有关进一步讨论，请参见，例如，Rachels 1986; Brock 1992; Walton 1992.)
+
+我们首先需要考虑，在理论层面上，这些论证形式中是否有足够强大的力量来驳倒自愿安乐死合法化的论点。然后，我们将能够评论关于希特勒德国和最近荷兰等地合法安乐死经验所声称的经验支持，以及据称随着自愿安乐死合法化而出现的所谓“滑坡”的存在。
+
+首先，支持自愿安乐死并同时认为非自愿安乐死在道德上不恰当并不存在逻辑上的矛盾（然而，有人试图指责存在这种矛盾，例如 Keown 2022）。毫无疑问，一些自愿安乐死的倡导者也希望支持某些非自愿安乐死的行为，例如，对于那些一直处于植物人状态且从未表达过希望得到帮助去世的人，或者对于某些前景无望的严重残障婴儿（参见 Kuhse 和 Singer 1985；Singer 1994；Stingl 2010；Sumner 2017）。另一些人认为，如果要合法化安乐死，则严格要求患者的同意。这种差异不是逻辑敏锐的问题；它可以通过各自支持者对关键价值观的重视来解释。因此，例如，那些坚持认为患者对医疗协助死亡的请求是临终决策中的至关重要考虑因素的人（即使这种请求是为了个人福祉的价值而被利用），而那些认为一个人的最佳利益是至关重要考虑因素的人更有可能相信像上述提到的非自愿安乐死的情况是可以被辩护的。
+
+接下来，很难理解为什么从自愿安乐死转向非自愿安乐死被认为在心理上是不可避免的。为什么那些支持将自愿安乐死合法化的人，因为他们重视个体的自主权，会因此在心理上更容易地支持那些无法胜任地请求帮助结束生命的人的杀害呢？有什么理由相信，由于他们支持自愿安乐死，他们会在心理上被驱使支持非自愿安乐死的做法呢？
+
+最后，由于在区分自愿安乐死和非自愿安乐死之间并没有任意性（因为它们之间的界线是基于明确的原则），因此指责只有通过任意划定界限才能避免非自愿安乐死，如果自愿安乐死合法化，这种指责就毫无根据。
+
+希特勒的德国和荷兰等地最近合法化的自愿安乐死经验又如何呢？前者很容易被解释为自愿安乐死向非自愿安乐死不可避免地演变的迹象。在 20 世纪 20 年代至 40 年代的德国，从未有过支持自愿安乐死或合法实践的政策（参见 Burleigh 1994）。在希特勒上台之前，确实存在一种明确的杀害一些残疾人的做法。但从未有人提出，他们被杀害是为了符合他们的最佳利益；相反，有人说这样做将使社会受益。希特勒后来重新实行这种做法，并将其扩大到包括犹太人和吉普赛人在内的其他群体，这是种族改良计划的一部分，而非安乐死。
+
+自 1991 年 Remmelink 报告发布以来，关于荷兰安乐死医学实践的讨论中经常提到，荷兰的经验表明，要想合法保护自愿安乐死，就不可避免地要为随之而来的非自愿安乐死提供庇护（见，例如，Keown 2018）。自那份报告发布以来，荷兰对安乐死实践进行了定期的全国性研究（见，例如，Rietjens 等，2009 年；Onwuteaka-Philipsen 等，2012 年；van der Heide 等，2017 年）。这些全国性研究的结果一直一致地显示，没有证据表明存在这样一个“滑坡”的现象。在具体研究结果中，以下几点值得一提：在那些被协助结束生命的晚期病患中，大约 60%明显是符合本条目中所描述的自愿安乐死的案例；而其余的大多数病例是指在接受医疗协助结束生命时已经失去能力的患者。也许会认为这些死亡案例应被视为非自愿安乐死的实例。但事实上，将它们视为这样的实例是不恰当的。原因在于，对于这些大多数病例，结束生命的决定是在主治医生与亲近家人之间经过协商后才做出的，因此可以合理地认为这涉及替代性判断。此外，根据研究人员的说法，这些病例中绝大多数符合在未将自愿安乐死合法化的国家中出现的两种常见做法之一，即对临终病人进行终末镇静和给予大剂量的阿片类药物以缓解疼痛，同时也预见到这将结束生命。在极少数情况下，没有与亲属进行协商，尽管在这些情况下与其他医务人员进行了协商。研究人员认为，这些情况最好解释为荷兰家庭严格来说没有最终的法律权威来充当无能力者的代理决策者。基于这些理由，研究人员认为，在荷兰非自愿安乐死并不被广泛实践。
+
+荷兰医生因未遵守约定程序而被起诉的案件寥寥无几（Griffiths, et al. 1998; Asscher and van de Vathorst 2020），被起诉的医生中没有一个受到重罚，拒绝医疗援助请求的比例相当可观，荷兰公众定期重申对约定程序的支持，这表明，与一些批评者的说法相反，自愿安乐死的合法化并没有增加非自愿安乐死的发生率。在俄勒冈州关于医生辅助自杀法律运作的研究中出现了与荷兰类似的情况。事实上，在一项最近涵盖两个大陆的自愿安乐死和医生辅助自杀态度和实践的广泛研究中，这些做法的一位著名批评者（与他的合著者一致）得出结论，几乎没有滥用的证据，尤其是对弱势群体的滥用（参见 Emanuel, et al., 2016）。不幸的是，其他已经合法化自愿安乐死或医生辅助自杀的司法管辖区进行适当研究的时间尚不足（但有一些相关证据，例如，White, et al. 2022）。最后，一些评论者指出，如果在没有法律承认的情况下实行安乐死，实际上可能更容易模糊自愿和非自愿安乐死之间的界限，因为在这种情况下，既没有透明度也没有监督（这在荷兰、比利时、俄勒冈等地并非如此）。
+
+这并不意味着不需要确保对法律保护的自愿安乐死滥用的防范措施。这对那些在决定是否协助他们离世时已经失去能力的人的保护尤为重要。此外，当然，任何法律的改革可能会产生意想不到的影响。然而，如果上述论点是合理的（以及荷兰、比利时和卢森堡的经验，以及美国几个州和加拿大的有限经验，目前不仅是我们拥有的最佳证据表明它们是合理的，而且是唯一相关的证据），那似乎不太可能。
+
+现在在许多司法管辖区已经确立，有能力的患者有权对维持生命的医疗治疗做出自己的决定。这就是为什么他们可以拒绝这种治疗，即使这样做等同于决定结束自己的生命。可以认为，关于维持生命治疗的决定权的基本基础——尊重个人的自主权和她对什么对她的福祉最有利的评估——与自愿安乐死的合法化直接相关（参见，例如，Dworkin 1998; Young 2007, 2017; Sumner 2011, 2017）。因此，将自决权扩展到自愿安乐死的情况并不需要在法律政策上进行戏剧性的转变。也不需要引入任何新颖的法律价值观或原则。事实上，自杀和未遂自杀在许多司法管辖区不再构成刑事犯罪的事实表明，在一个非常类似的背景下，个人自决权的中心重要性已经被接受。自愿安乐死和医师协助自杀尚未被更广泛地废除刑事责任的事实，或许最好的解释是沿用了一个经常被用来排除受害者同意作为杀人行为的正当化的理由的类似观点，即认为确立同意的真实性存在困难。但是，确立适当的程序以同意自愿安乐死和医师协助自杀肯定不会比确立拒绝繁重或其他不需要的医疗治疗的程序更困难。后者在许多司法管辖区已经实现，因此前者也应该是可以实现的。
+
+假设道德上支持将自愿安乐死和医师协助自杀合法化的论据被普遍认为比反对合法化的论据更有力，并且它们在更多司法管辖区被合法允许。医生应该参与这种实践吗？只有医生才能执行自愿安乐死吗？这些问题应该根据对提供医疗护理的最佳理解来回答。正确的医疗护理应该促进患者的福祉，同时尊重他们的个体自主权。应该指导医疗护理的是这两个价值观，而不是不惜一切代价保留生命，或者不考虑患者是否希望延长他们的生命，如果他们认为生命不再对他们有益或价值。在那些已经合法化医疗辅助死亡的司法管辖区，以及根据现有调查证据，在其他自由民主国家，许多医生认为自愿安乐死和医师协助自杀的实践不仅与他们的专业承诺相一致，而且与他们对临终患者最佳医疗护理的理念相一致。因此，在目前自愿医疗辅助死亡仍然非法的司法管辖区，持有相同信念的医生不应再受到法律的禁止，以向请求帮助的终末期患者提供专业援助，因为他们遭受无法缓解的痛苦或因为他们认为他们的生命不再对他们有价值。
+
+## Bibliography
+
+* Asscher, E. and S. van de Vathorst, 2020, “First Prosecution of a Dutch Doctor Since the Euthanasia Act of 2002: What Does It Mean?”, *Journal of Medical Ethics*, 46: 71–75.
+* Beauchamp, T. and A. Davidson, 1979, “The Definition of Euthanasia”, *The Journal of Medicine and Philosophy*, 4: 294–312.
+* Bernat, J., B. Gert, and R. Mognielnicki, 1993, “Patient Refusal of Hydration and Nutrition: An Alternative to Physician Assisted Suicide or Voluntary Euthanasia”, *Archives of Internal Medicine*, 153: 2723–2728.
+* Biggar, N., 2004, *Aiming to Kill: The Ethics of Suicide and Euthanasia*, London: Darton, Longman and Todd.
+* Bradley, B., 2009, *Well-Being and Death*, Oxford: Clarendon Press.
+* Braun, E., 2023, “An autonomy-based approach to assisted suicide: a way to avoid the expressivist objection against assisted dying laws”, *Journal of Medical Ethics*, 49: 497–501.
+* Brock, D., 1993, “Voluntary Active Euthanasia”, *Hastings Center Report*, 22(2): 10–22.
+* Burleigh, M., 1994, *Death and Deliverance: Euthanasia in Germany c. 1900–1945*, Cambridge: Cambridge University Press.
+* Cavanaugh, T., 2006, *Double-Effect Reasoning: Doing Good and Avoiding Evil*, Oxford: Clarendon Press.
+* *Commission on the Study of Medical Practice Concerning Euthanasia: Medical Decisions Concerning the End of Life*, The Hague: SdU, 1991. (This is known as ‘The Remmelink Report’.)
+* Downie, J. and U. Schuklenk, 2021, “Social determinants of health and slippery slopes in assisted dying debates: lessons from Canada”, *Journal of Medical Ethics*, 47: 662–669.
+* Dworkin, R., 1993, *Life’s Dominion: An Argument About Abortion, Euthanasia, and Individual Freedom*, New York: Random House.
+* Dworkin, G., 1998, “Public Policy and Physician-Assisted Suicide”, in Dworkin, Frey, & Bok 1998, pp. 64–80.
+* Dworkin, G., R. Frey, and S. Bok, 1998, *Euthanasia and Physician-Assisted Suicide: For and Against*, Cambridge: Cambridge University Press.
+* Emanuel, E., 1999, “What Is the Great Benefit of Legalizing Euthanasia or Physician-Assisted Suicide?”, *Ethics*, 109: 629–642.
+* Emanuel, E., B. Onwuteaka-Philipsen, J. Urwin and J. Cohen, 2016, “Attitudes and Practices of Euthanasia and Physician-Assisted Suicide in the United States, Canada and Europe”, *Journal of the American Medical Association*, 316: 79–90.
+* Finnis, J., 1995, “A Philosophical Case Against Euthanasia” in J. Keown (ed.), *Euthanasia Examined: Ethical, Clinical and Legal Perspectives*, Cambridge: Cambridge University Press.
+* Foley, K. and H. Hendin (eds.), 2002, *The Case Against Assisted Suicide: For the Right to End-of-Life Care*, Baltimore: The Johns Hopkins University Press.
+* Foot, P., 1977, “Euthanasia”, *Philosophy and Public Affairs*, 6: 85–112.
+* Ganzini, L., E. Goy and S. Dobscha, 2009, “Oregonians’ Reasons for Requesting Physician Aid in Dying”, *Archives of Internal Medicine*, 169: 489–492.
+* Gorsuch, N., 2006, *The Future of Assisted Suicide and Euthanasia*, Princeton, New Jersey: Princeton University Press.
+* Griffiths, J., A. Bood, and H. Weyers, 1998, *Euthanasia and Law in the Netherlands*, Amsterdam: Amsterdam University Press.
+* Griffiths, J., H. Weyers and M. Adams, 2008, *Euthanasia and Law in Europe*, Oxford: Hart Publishing.
+* Jackson, E. and J. Keown, 2012, *Debating Euthanasia*, Oxford: Hart Publishing.
+* Keown, J., 2018, *Euthanasia, Ethics and Public Policy: an argument against legalization*, 2nd edition, New York: Cambridge University Press.
+* –––, 2022, “The Logical Link Between Voluntary and Non-Voluntary Euthanasia”, *Cambridge Law Journal*, 81: 84–108.
+* Kim, S., R. De Vries and J. Peteet, 2016, “Euthanasia and Assisted Suicide of Patients with Psychiatric Disorders in the Netherlands 2011 to 2014”, *Journal of the American Medical Association Psychiatry*, 73: 362–368.
+* Kuhse, H. and P. Singer, 1985, *Should the Baby Live?: The Problem of Handicapped Infants*, Oxford: Oxford University Press.
+* Lewis, P., 2007, *Assisted Dying and Legal Change*, Oxford: Oxford University Press.
+* Marquet, R., A. Bartelds, G. Visser, P. Spreeuwenberg and L. Peters, 2003, “Twenty Five Years of Requests for Euthanasia and Physician Assisted Suicide in Dutch General Practice: Trend Analysis”, *British Medical Journal*, 327: 201–202.
+* McIntyre, A., 2001, “Doing Away With Double Effect”, *Ethics*, 111: 219–255.
+* McMahan, J., 2002, *The Ethics of Killing: Problems at the Margins of Life*, New York: Oxford University Press.
+* Onwuteaka-Philipsen, B., A. Brinkman-Stoppelenburg, C. Penning, G. Jong-Krul, J. van Delden and A. van der Heide, 2012, “Trends in end-of-life practices before and after the enactment of the euthanasia law in the Netherlands from 1990–2010: A repeated cross-sectional survey”, *The Lancet*, 380: 908–915.
+* Rachels, J., 1986, *The End of Life: Euthanasia and Morality*, Oxford: Oxford University Press.
+* Rietjens, J., P. van der Maas, B. Onwuteaka-Philipsen, J. van Delden and A. van der Heide, 2009, “Two Decades of Research on Euthanasia from the Netherlands: What Have We Learnt and What Questions Remain?”, *Journal of Bioethical Inquiry*, 6: 271–283.
+* Savulescu, J., 2014, “A Simple Solution to the Puzzles of End of Life? Voluntary Palliated Starvation”, *Journal of Medical Ethics*, 40: 110–113.
+* Singer, P. 1994, *Rethinking Life and Death: The Collapse of Our Traditional Ethics*, Melbourne: Text Publishing.
+* Stingl, M., (ed.), 2010, *The Price of Compassion: Assisted Suicide and Euthanasia*, Peterborough, Ontario: Broadview Press.
+* Sumner, L., 2011, *Assisted Death: A Study in Ethics and Law*, Oxford: Oxford University Press.
+* –––, 2017, *Physician-Assisted Death: What Everyone Needs to Know*, New York: Oxford University Press.
+* –––, 2020, “Conscientious Refusal to Provide Medically Assisted Dying”, *University of Toronto Law Journal*, 71: 1–31.
+* van der Heide, A., J.van Delden and B. Onwuteaka-Philipsen, 2017, “End-of-Life Decisions in the Netherlands over 25 Years”, *New England Journal of Medicine*, 377: 492–494.
+* Varelius, J., 2014, “Medical Expertise, Existential Suffering and Ending Life”, *Journal of Medical Ethics*, 40: 104–107.
+* Velleman, J., 1999, “A Right of Self-Termination?”, *Ethics*, 109: 606–628.
+* White, B., L. Willmott, K. Del Villar, J. Hewitt, E. Close, L. Greaves, J. Cameron, R. Meehan and J. Downie, 2022, “Who is Eligible for Voluntary Assisted Death?: Nine Medical Conditions Assessed Against Five Legal Frameworks”, *University of New South Wales Law Journal*, 45: 401–444.
+* Wicclair, M., 2011, *Conscientious Objection in Health Care: An Ethical Analysis*, Cambridge: Cambridge University Press.
+* Winkler, E., 1995, “Reflections on the State of Current Debate Over Physician-Assisted Suicide and Euthanasia”, *Bioethics*, 9: 313–326.
+* Woodward, P., (ed.), 2001, *The Doctrine of Double Effect: Philosophers Debate a Controversial Moral Principle*, Notre Dame, Indiana: University of Notre Dame Press.
+* Young, R., 2007, *Medically Assisted Death*, Cambridge: Cambridge University Press.
+* –––, 2017, “An Argument in Favor of the Morality of Voluntary Medically Assisted Death”, in M. Cholbi (ed.), *Euthanasia and Assisted Suicide: Global Views on Choosing to End Life*, Santa Barbara: Praeger.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=euthanasia-voluntary). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/euthanasia-voluntary/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=euthanasia-voluntary&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/euthanasia-voluntary/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Medically Assisted Dying](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0042.xml), an annotated bibliography authored by Robert Young (La Trobe University)
+* [Eight Reasons Not to Legalize Physician Assisted Suicide](http://bioethics.org.uk/EightReasonsNottoLegalizePAS.pdf), by David Albert Jones, online resource at the Anscombe Bioethics Centre website.
+
+## Related Entries
+
+[advance directives](https://plato.stanford.edu/entries/advance-directives/) | [decision-making capacity](https://plato.stanford.edu/entries/decision-capacity/) | [doing vs. allowing harm](https://plato.stanford.edu/entries/doing-allowing/) | [double effect, doctrine of](https://plato.stanford.edu/entries/double-effect/)
+
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
+[Robert Young](http://www.latrobe.edu.au/humanities/about/staff/profile?uname=RBYoung) <[*robert.young@iinet.net.au*](mailto:robert%2eyoung%40iinet%2enet%2eau)>
