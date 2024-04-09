@@ -1,2 +1,531 @@
 # 认知闭合 epistemic closure (Steven Luper)
 
+*首次发表于 2001 年 12 月 31 日星期一；实质性修订于 2016 年 2 月 24 日星期三*
+
+大多数人认为，通过接受我们已知的事物所蕴含的（或逻辑上暗示的）事物，我们可以安全地扩大我们的知识基础。粗略地说，我们已知的事物集合在蕴涵（或推导或逻辑蕴涵）下是封闭的，因此我们知道某个主张是真实的，因为我们认识到，并因此接受，它是从我们已知的事物中得出的。这并不是说我们通常增加知识的方式仅仅是认识和接受从我们已知的事物中得出的事物。显然，涉及到的远不止这些。例如，我们收集数据并构建这些数据的解释，在适当的情况下，我们从他人那里学习。更重要的是，当我们声称我们知道某个命题是真实的时候，这一主张本身也可能存在错误；通常，看到从一个知识主张中得出的内容会促使我们重新评估甚至撤回我们的主张，而不是得出结论，从中得出的事物我们知道它们是真实的。尽管如此，似乎合理地认为，如果我们确实知道某个命题是真实的，那么我们就有资格知道，从中得出的事物也是真实的。然而，一些理论家否认知识在蕴涵下是封闭的。反对封闭性的论据包括以下内容：
+
+知识分析的论证：鉴于正确的分析，知识并非封闭，因此它不是。例如，如果正确的分析包括跟踪条件，那么封闭就失败了。
+
+知识模式不闭合的论证：由于获取、保存或扩展知识的方式，如感知、证词、证明、记忆、指示和信息，并非单独封闭，因此知识也不是。
+
+认知闭合论：无法知晓（或不容易知晓）的命题：某些类型的命题无法被知晓（不经特殊手段）；鉴于闭合性，它们可以被知晓（不经特殊手段），通过从我们已知的世俗主张中推导出来，因此知识并非封闭。
+
+怀疑论证：怀疑是错误的，但如果知识是封闭的，那么怀疑将是正确的，因此知识不是封闭的。
+
+尽管认知闭合的支持者对这些论点有回应，他们也辩称，有些类似于 G. E. Moore（1959）的风格，认知闭合本身是一个坚实的数据——它足够明显，以排除任何对知识或相关概念的理解，这种理解会削弱认知闭合。
+
+一个密切相关的观念是，我们相信任何从我们有理由相信的事情得出的结论是合理的（可证明的）。这个观念与知识是封闭的论点密切相关，因为根据一些理论家的观点，知道 p 意味着有理由相信 p。如果知识蕴含着理据，那么后者的封闭失败可能导致前者的封闭失败。
+
+* [1. 闭合原则](https://plato.stanford.edu/entries/closure-epistemic/#CloPri)
+* [论证来自知识分析](https://plato.stanford.edu/entries/closure-epistemic/#ArgAnaKno)
+
+  * [2.1 Closure Fails Due to the Tracking Condition on Knowledge2.1 由于知识的跟踪条件，认知闭合失败。](https://plato.stanford.edu/entries/closure-epistemic/#CloFaiDueTraConKno)
+  * [2.2 Closure Fails on a Relevant Alternatives Approach2.2 在相关替代方法上认知闭合失败](https://plato.stanford.edu/entries/closure-epistemic/#CloFaiRelAltApp)
+  * [2.3 Closure and Reliabilism2.3 闭合与可靠主义](https://plato.stanford.edu/entries/closure-epistemic/#CloRel)
+* [认知模式不封闭的论证](https://plato.stanford.edu/entries/closure-epistemic/#ArgNonKnoMod)
+
+  * [3.1 知识模式与非闭合](https://plato.stanford.edu/entries/closure-epistemic/#KnoModNon)
+  * [3.2 对德雷茨克的回应](https://plato.stanford.edu/entries/closure-epistemic/#ResDre)
+* [认知闭合到不易知命题的论证](https://plato.stanford.edu/entries/closure-epistemic/#ArgNotEasKnoPro)
+
+  * [4.1 The Argument from Limiting Propositions](https://plato.stanford.edu/entries/closure-epistemic/#ArgLimPro)
+  * [4.2 The Argument from Lottery Propositions4.2 彩票命题的论证](https://plato.stanford.edu/entries/closure-epistemic/#ArgLotPro)
+* [5. 怀疑论证](https://plato.stanford.edu/entries/closure-epistemic/#ArgSke)
+
+  * [5.1 怀疑主义与反怀疑主义](https://plato.stanford.edu/entries/closure-epistemic/#SkeAnt)
+  * [5.2 跟踪与怀疑](https://plato.stanford.edu/entries/closure-epistemic/#TraSke)
+  * [5.3 安全指示和怀疑主义](https://plato.stanford.edu/entries/closure-epistemic/#SafIndSke)
+  * [5.4 语境主义和怀疑论](https://plato.stanford.edu/entries/closure-epistemic/#ConSke)
+* [理性信念的封闭认知闭合](https://plato.stanford.edu/entries/closure-epistemic/#CloRatBel)
+* [ 参考文献](https://plato.stanford.edu/entries/closure-epistemic/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/closure-epistemic/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/closure-epistemic/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/closure-epistemic/#Rel)
+
+---
+
+## 知识闭合
+
+知识在蕴涵下是封闭的这一说法究竟意味着什么？一个回应是，知识在蕴涵下的封闭原则如下：
+
+(**SP**)
+
+如果 S 知道 p，并且 p 蕴含 q，则 S 知道 q。
+
+直接原则中涉及的条件可能是物质条件、虚拟条件或蕴涵，产生三种可能性，每一种都比前一种更强：
+
+(**SP1**)
+
+S 知道 p 且 p 蕴涵 q 只有在 S 知道 q 的情况下。
+
+(**SP2**)
+
+如果 S 知道某事 p，而 p 蕴涵着 q，那么 S 将会知道 q。
+
+(**SP3**)
+
+这是必然的情况：S 知道 p 且 p 蕴涵 q，只有当 S 知道 q。
+
+然而，每个直觉原则版本都是错误的，因为我们可以知道一件事情 p，但未能看到 p 蕴含 q，或者由于某种其他原因未能相信 q。由于知识蕴含信念（根据几乎所有理论家的观点），我们未能知道 q。一个不太明显的担忧是，我们可能在得出 p 蕴含 q 的信念时推理不当。也许我们认为 p 蕴含 q 是因为我们认为一切都蕴含一切，或者因为我们的脚趾间有一种温暖的刺痛感。霍桑（2005）提出了这样一个可能性，即在领悟到 p 蕴含 q 的过程中，S 将停止知道 p。他还指出，如果一个思想 p 等同于另一个思想 q，那么 SP1 是可辩护的（异常的）假设，即 p 和 q 在所有可能的世界中都成立。假设 p 蕴含 q。那么 p 等同于 p 和 q 的连接，因此思想 p 等同于思想 p 和 q。因此，在知道 p 时，S 知道 p 和 q。假设在知道 p 和 q 时，S 知道 p 和 S 知道 q，那么当 S 知道 p 时，S 知道 q，正如 SP1 所说。
+
+直接原则需要限定，但只要这些限定是自然的，那么这就不应该让我们担心，因为我们试图捕捉的想法是，我们可以通过认识和接受从我们已知的事物中得出的结论来扩展我们的知识。以下原则中嵌入的限定（被解释为材料条件）似乎是足够自然的：
+
+(**K**)
+
+如果在知道 p 的情况下，S 相信 q 是因为 S 知道 p 蕴含 q，那么 S 知道 q。
+
+正如 Williamson (2000)所指出的，我们可以通过将演绎应用于我们已知的内容来扩展我们的知识的想法支持了一个比 K 更强的闭合原则。这个原则表明我们知道一些我们相信的事情，因为它们是由几个独立已知项目共同暗示的。假设我知道玛丽很高，我也知道玛丽是左撇子。K 并不授权我将这两个知识片段结合起来，从而知道玛丽又高又左撇子。但以下的广义闭合原则涵盖了涉及独立已知项目的推断：
+
+(**GK**)
+
+如果 S 知道各种命题，因为 S 知道它们蕴涵 p 而相信 p，那么 S 知道 p。
+
+一些理论家区分了他们称之为“单前提”和“多前提闭合”的概念。这样的理论家会否认 K 捕捉了“单前提”闭合，因为 K 说如果 S 知道两件事情是真的，那么 S 就知道 q：p 是真的以及 p 蕴含 q。通常，“单前提”闭合原则的表述大致如下（参照 Williamson 2002 和 Hawthorne 2004）：
+
+(**SPK**)
+
+如果在知道 p 的情况下，S 通过从 p 中有能力地推导出 q 而相信 q，那么 S 知道 q。
+
+然而，目前尚不清楚一个人是否可以在不依赖于除 p 之外的任何知识的情况下，有能力从 p 推导出 q。幸运的是，似乎这种可能性并不影响任何事情，除非是对是否我们能够确定某些东西可以适当地被标记为“单前提闭合原则”的人感兴趣。
+
+对于认知闭合的支持者可能会接受 K 和 GK，或许会以自然的方式进一步限定（但他们可能不会：请参见第 6 节中提出的关于认知闭合的担忧）。相比之下，弗雷德·德雷茨克（Fred Dretske）和罗伯特·诺齐克（Robert Nozick）拒绝 K，因此也拒绝 GK。他们拒绝任何闭合原则，无论多么狭窄，只要它保证我们知道怀疑性假设（例如，我是一个在罐子里的大脑）基于平凡的知识主张（例如，我不在罐子里）是错误的。除了拒绝 K 和 GK 外，他们还否认跨实例化和简化的知识闭合，但不否认跨等价性的知识闭合（Nozick 1981: 227–229）。
+
+(**KI**)
+
+如果，当知道所有事物都是 F 时，S 相信一个特定的事物 a 是 F，因为 S 知道这是由所有事物都是 F 这个事实所蕴含的，那么 S 知道 a 是 F。
+
+(**KS**)
+
+如果，在知道 p 和 q 的情况下，S 相信 q 是因为 S 知道 q 是由 p 和 q 蕴涵出来的，那么 S 知道 q。
+
+(**KE**)
+
+如果在知道 p 的情况下，S 相信 q 是因为 S 知道 q 等同于 p，那么 S 知道 q。
+
+让我们转向他们的论点。
+
+## 认知分析论证
+
+认知分析论证指出，对知识的正确解释导致了 K 的失败。我们可以区分两个版本。根据第一个版本，K 失败是因为知识需要追踪信念。根据第二个版本，任何相关的替代方案，如 Dretske 和 Nozick 的，都会导致 K 的失败。根据 Dretske（2003: 112–3; 2005: 19）的观点，任何相关的替代方案都会“自然地”但“不可避免地”导致 K 的失败。
+
+### 认知闭合失败是由于对知识的跟踪条件
+
+第一个版本的粗略概述涉及捍卫 Dretske 或 Nozick 的知识追踪分析，然后显示它如何破坏了 K（Becker 2009 也捍卫了追踪账户的版本，Murphy 和 Black 2007，以及 Roush 2005，最后一个修改了追踪账户以保留闭合；对 Rouse 的批评请参见 Brueckner 2012）。我们可以跳过辩护部分，这主要在于展示追踪在处理我们关于所谓知识案例的认识直觉方面比竞争对手做得更好。我们也可以简化分析。根据 Nozick，知道 p 是非常粗略的（忽略他彻底被驳斥的知识第四条件，例如在 Luper 1984 和 2009 以及 Kripke 2011 中批评），是指拥有一个符合以下条件的信念 p（“BT”代表信念追踪）：
+
+(**BT**)
+
+如果 p 是假的，S 就不会相信 p。
+
+在与实际世界接近的世界中，非 p 成立，S 不相信 p。实际世界是一个人到达相信 p 的信念时的情况。BT 要求在所有附近的非 p 世界中，S 未能相信 p。（虚拟条件句的语义在 Stalnaker 1968、Lewis 1973 中得到澄清，并由 Nozick 1981 注 8 进行修改。）根据 Dretske 的观点，知道 p 大致上是拥有一个理由 R 来相信 p，该理由符合以下条件（“CR”表示决定性理由）：
+
+(**CR**)
+
+如果 p 是假的，那么 R 就不成立。
+
+在与实际世界相近的封闭世界中，如果非 p 成立，那么 R 就不成立。当 R 满足这个条件时，德雷茨克称 R 是相信 p 的一个决定性理由。
+
+Dretske 指出（2003，n. 9; 2005，n. 4）他的观点并没有面对索尔·克里普克（2011，162-224; Dretske 在出版前流传的草稿中获得了）对诺齐克的观点提出的异议之一。假设我正在驾驶穿过一个社区，而我并不知道，那里散落着纸浆纸板谷仓，我看到我面前的物体是一个谷仓。我还注意到它是红色的。因为我有谷仓在我面前的感知，我相信谷仓：我面前的物体是一个（普通的）谷仓（这个例子归因于戈尔曼 1976 年的吉内特）。我们的直觉表明我未能知道谷仓。BT 和 CR 也这样说。但现在假设这个社区没有假的红色谷仓；唯一的假谷仓是蓝色的。（称之为红谷仓案例。）然后根据诺齐克的观点，我可以追踪到有一个红色谷仓的事实，因为如果没有红色谷仓，我不会相信有红色谷仓（通过我的红色谷仓感知），但我无法追踪到有一个谷仓的事实，因为即使没有谷仓，我可能会相信有一个谷仓（通过蓝色谷仓感知）。Dretske 说，这种并列，即我知道某事却未能知道与之密切相关的第二件事（有一个红色谷仓，我知道，意味着有一个谷仓，我不知道），“是一种尴尬”，在这方面，他认为，他的观点优于诺齐克的。让 R，我的信念基础，是我有红色谷仓感知的事实。如果没有谷仓，R 将无法成立，所以我知道那里有一个谷仓。此外，如果没有红色谷仓，R 仍将无法成立，所以我知道那里有一个红色谷仓。因此，Dretske 可以避免这种令人反感的并列。然而，令人惊讶的是，Dretske 引用红色谷仓案例作为他更喜欢自己版本的追踪而不是诺齐克的基础。首先，Dretske 本人接受了至少同样奇怪的知识和无知的并列，我们将看到。其次，诺齐克通过重新阐述他的观点来避免 Dretske 讨论的这种并列，以便参考我们相信事物的方法（霍桑 2005）。在他观点的更完善版本中，诺齐克说，要知道 p，大致上是要有一个信念 p，通过一种方法 M 得出，满足以下条件（“BMT”代表信念方法追踪）:
+
+(**BMT**)
+
+如果 p 是假的，S 不会通过 M 相信 p。
+
+如果没有红色的谷仓，我既不会相信有谷仓，也不会相信有红色的谷仓，通过红谷仓感知。
+
+第三，红色谷仓案是一个关于直觉会有所不同的案例。在 Dretske 勾勒的情况下，我知道有一个红色谷仓并不明显，这种情况与 Ginet 最初的谷仓案例（在那里我不知道谷仓）只有在规定中有所不同，即我看到了一个红色谷仓，并且没有一个谷仓的模拟品是红色。更重要的是，Dretske 和 Nozick 的描述都有一个奇怪的暗示，即如果我基于我的红色谷仓感知来建立信念，那么我知道那里有一个谷仓，但如果我忽略了谷仓的颜色，那么我就不知道这一点。可以推测，谷仓的颜色与其是否是谷仓无关。
+
+跟踪账户允许对 K. Dretske 的著名案例进行反例，即斑马案例（1970 年）：假设您在动物园里，在普通情况下站在一个标有“斑马”的笼子前；笼子里的动物是一只斑马，您相信 zeb，笼子里的动物是一只斑马，因为您有斑马在笼子里的视觉感知。您突然想到 zeb 蕴涵着非骡子，也就是说，笼子里的动物不是一只巧妙伪装的骡子，而是一只斑马。然后您通过从 zeb 推导出来相信非骡子。您知道什么？您知道 zeb，因为如果 zeb 是假的，您就不会有斑马在笼子里的视觉感知；相反，您会有空笼子的感知，或者是袋獾在笼子里的感知，或者类似的情况。您知道非骡子吗？如果非骡子是假的，您仍然会有斑马在笼子里的视觉感知（而且您仍然会相信 zeb，您仍然会通过从 zeb 推导出来相信非骡子）。因此，您不知道非骡子。但请注意，我们有：
+
+1. You know *zeb*
+2. 您通过认识到 zeb 蕴含非骡子来相信非骡子
+3. 你不知道不是骡子。
+
+鉴于（a）-（c），我们对 K 有一个反例，这意味着如果（a）你知道 zeb，并且（b）通过认识到 zeb 蕴含非骡子而相信非骡子，那么你确实知道非骡子，与（c）相反。
+
+拒绝了 K，并否认我们知道像非骡子这样的事情，诺齐克还必须否认简化跨越的封闭性。因为如果某个命题 p 蕴含另一个命题 q，那么 p 等同于连词 p & q；因此，鉴于诺齐克接受的等同性封闭性，如果我们知道 zeb，我们就可以知道连词 zeb & not-mule，但如果我们也接受简化跨越的封闭性，我们将能够知道 not-mule。
+
+对于知识分析论证的第一个版本，一些理论家（例如，Luper 1984，BonJour 1987，DeRose 1995）认为 K 本身具有很强的合理性（Dretske 在 2005 年承认了这一点：18），因此只有在面对令人信服的理由时才应该被放弃，然而并没有这样的理由。
+
+为了表明没有令人信服的理由放弃 K，理论家们提供了关于知识的解释，这些解释至少与追踪分析一样成功地处理了我们的直觉，并且支持了 K。其中一种方法是削弱追踪分析，使我们知道我们追踪的事物，或者我们相信的事物，因为我们知道它们是从我们追踪的事物推导出来的（这种选择已经被各种理论家用来反驳诺齐克；劳什在 2005 年对此进行了辩护，41-51）。另一种方法如下。知道 p 大致上是拥有一个理由 R 来相信 p，这个理由满足以下条件（“SI”代表安全指示）：
+
+(**SI**)
+
+如果 R 成立，那么 p 将是真实的。
+
+SI 要求 p 在附近的 R 世界中为真。当 R 满足此条件时，让我们说 R 是一个 p 为真的安全指示器。（安全条件的不同版本已经得到辩护；参见，例如，Luper 1984；Sosa 1999, 2003, 2007, 2009；Williamson 2000；以及 Pritchard 2007。）SI 是 CR 的逆否命题，但虚拟条件句的逆否命题并不等同于原命题。
+
+让我们假设没有争议地认为 SI 像 CR 一样直观地处理知识和无知的情况。为什么说 SI 支持 K？关键在于，如果 R 安全地指示 p 是真的，那么它也安全地指示 q 是真的，其中 q 是 p 的任何后果之一。换句话说，关键在于以下推理是有效的（作为加强后果的实例）。
+
+1. 如果 R 成立，p 将是真的（即，R 安全地指示 p）
+2. p 蕴涵 q
+3. 如果 R 成立，q 将是真的（即，R 安全地指示 q）
+
+因此，如果一个人 S 基于 R 知道 p，那么 S 就有能力基于 R 知道 q，其中 q 是由 p 得出的。S 也有能力基于 R 的结合以及 p 蕴含 q 这一事实来知道 q。因此，如果 S 基于某种基础 R 知道 p，并且相信 q 是基于 R（p 所依赖的）以及 p 蕴含 q 这一事实，那么 S 就知道 q。再次：如果
+
+1. S 知道 p（基于 R 的基础上），并
+2. S 通过认识到 p 蕴含 q（因此 S 基于 R 相信 q，而 p 蕴含 q 的事实也在其中）来相信 q
+
+then
+
+3. S 知道 q（基于 R 和 p 蕴涵 q 的事实）
+
+根据 K 的要求。为了说明，让我们使用 Dretske 的例子。基于你对笼子里斑马的感知而形成了对 zeb 的信念，你根据 SI 知道 zeb：根据你的情况，如果你有那些感知，zeb 将是真实的。此外，当你通过首先相信 zeb，然后从 zeb 推导出非骡子来相信非骡子时，你根据 SI 知道非骡子：如果你有那些感知，不仅 zeb 成立，其结果非骡子也将成立。
+
+让我们稍作偏离，以便注意到一些安全账户的版本不会支持闭合（Murphy 2005 对 Sosa 的安全账户提出了这一异议）。例如，Ernest Sosa 曾讨论过以下条件的版本：
+
+如果 S 相信 p，那么 p 将是真实的。
+
+这是要求一个人的信念安全地表明其自身的真实性。然而，完全有可能处于这样的境地，即使不满足从该信念得出的某些东西的必要条件，该信念仍然安全地表明其真实性。这一点可以用红谷仓案的一个版本来说明。假设（基于我的红谷仓感知）我相信红谷仓：在我面前有一个红谷仓。再假设，那里确实有一个红谷仓。然而（你猜对了）附近散布着许多假谷仓，全部都是蓝色的，而不是红色的。在我相信红谷仓的近世界中，我是正确的，因此我满足了知道红谷仓的必要条件，即我的相信红谷仓安全地表明其自身的真实性。现在，红谷仓蕴含着谷仓：在我面前有一个谷仓。但是，根据提供的观点，知道谷仓的必要条件不是我的信念红谷仓安全地表明谷仓成立。相反，所需的是我的信念谷仓安全地表明其自身的真实性。假设如果我看到其中一个蓝色的假冒品，我会相信谷仓，那么我的信念谷仓并不安全地表明其真实性。
+
+重新开始讨论：现在，如果知识蕴含 CR，则 K 失败，但如果知识蕴含 SI，则 K 不会失败，但仅仅通过用 SI 替换 CR 可能无法支持 K，因为其他某些知识条件可能会阻止闭合。如果我们假设在“安全”基础上相信 p 就足以知道 p，我们可以支持闭合，但这一假设是可疑的。正如我们理解的那样，我们可以在安全的基础上相信事物而不知道它们。一个明显的例子是任何必然真理：因为它在所有可能的世界中都成立，我们可以出于任何理由安全地相信它。再举一个例子，回想一下之前讨论过的红色谷仓案例：尽管附近有许多假的蓝色谷仓，但我的红色谷仓感知是指示我面前的物体是一个谷仓且是一个红色谷仓的安全指标，因此不会发生令人反感的并置（比如我知道有一个红色谷仓但不知道有一个谷仓），但一些理论家会坚持认为，在勾画的情况下，我既不知道这个物体是一个谷仓，也不知道它是一个红色谷仓。
+
+### 认知闭合在相关替代方法上失败。
+
+从知识分析的论证的第二个版本来看，任何相关的替代观点，不仅仅是跟踪账户，都与 K 存在紧张关系。当满足两个条件时，分析就是一个相关的替代账户。首先，它提供了对“相关替代”的适当理解。德雷茨克的方法符合条件，因为它使我们能够说，对于 p 的替代 A 是相关的，当且仅当：
+
+(**CRA**)
+
+如果 p 是假的，A 可能成立。
+
+根据第二个条件，分析必须表明，了解 p 需要排除所有与 p 相关的替代方案，但不是所有与 p 相关的替代方案。 Dretske 的方法再次符合条件。它表明，如果满足以下条件，则基于 R 排除替代方案 A：
+
+(**CRR**)
+
+如果 A 持有，那么 R 就不会持有。
+
+根据德雷茨克的观点，只有当 A 符合认知闭合时，才必须排除替代方案 A。
+
+因此，跟踪账户是一个相关的替代方法。但为什么说知识的相关替代账户与 K 存在紧张关系呢？如果我们像 Dretske 一样接受以下关键原则：命题 p 的否定自动成为 p 的一个相关替代（无论不-p 有多么奇怪或遥远），但通常不是暗示 p 的事物的相关替代。对于一个相关替代理论者，这个原则表明我们只有在能够排除不-p 的情况下才能知道某事 p，但即使我们无法排除不-p，我们也可以知道暗示 p 的事物，这就开辟了违反 K 的可能性。因为虽然我们无法排除不-p 阻止我们知道 p，但这并不妨碍我们知道暗示 p 的事物。一个例子就在眼前：斑马案例。也许你无法排除骡子；但这并不妨碍你知道非骡子而不妨碍你知道斑马。这些观点可以用决定性理由账户来重新表述。对于 Dretske 来说，命题 p 的否定自动成为一个相关替代，因为条件 CRA 自动得到满足；也就是说，这是一个虚假的事实：
+
+如果 p 是假的，那么非 p 可能成立。
+
+因此，骡子是与非骡子相关的替代选择。此外，您无法知道非骡子，因为您无法排除骡子：您基于您笼子里斑马的感知来相信非骡子，但即使骡子存在，您仍会有这些感知，与 CRR 相悖。然而，尽管您无法排除骡子，您仍然知道斑马，因为如果斑马是假的，您就不会有您笼子里斑马的感知。
+
+根据知识分析论的第二版本，任何相关的替代观点都与 K 存在紧张关系。这个论点有多具有说服力？正如 Dretske（2003）所承认的那样，这实际上对 K 构成了一个较弱的挑战，因为一些相关的替代方案与 K 完全一致。例如，我们只需调整安全指示观点，以明确表明这是一个相关的替代方案（Luper 1984, 1987c, 2006）。
+
+安全指示观可以分为两个步骤。首先，我们说 p 的替代方案 A 是相关的，当且仅当满足以下条件时：
+
+ 认知闭合
+
+在 S 的情况下，A 可能成立。
+
+因此，任何可能性如果是遥远的，就自动变得无关紧要，未能通过 SRA。其次，我们说，如果且仅如果满足以下条件，就可以基于 R 排除 A：
+
+(**SIR**)
+
+如果 R 持有 A，则 A 不会持有。
+
+这种理解相关替代方案的方式支持 K。关键在于，如果 S 基于 R 知道 p，并因此能够排除 p 的相关替代方案，那么 S 也可以排除 q 的相关替代方案，其中 q 是 p 所暗示的任何事物。如果 R 成立，q 的替代方案就不会存在。
+
+显然，相关的替代方案可以被解释为支持 K 的方式，也可以被解释为不支持 K 的方式。因此，Dretske 并不适合声称相关替代观导致“自然地”认知闭合失败。
+
+### 2.3 闭合与可靠主义
+
+根据一种可靠主义的版本（由 Ramsey 1931 和 Armstrong 1973 等人辩护），如果一个人通过可靠方法得出（或维持）信念 p，那么他就知道 p。可靠主义者是否致力于 K？答案取决于可靠性概念的具体理解方式。如果我们像跟踪理论家那样理解可靠性，我们将拒绝闭合。但还有其他版本的可靠主义支持 K。例如，安全指示账户是一种可靠主义类型。此外，我们可以说，一个真实的信念 p 只有在基于通常只有在 p（或 p 类型的信念）为真时才会发生的事件的基础上形成时，才是可靠形成的。在这种意义上，任何可靠指示 p 为真的事件也将可靠指示 p 的后果为真。
+
+## 认知模式不封闭的论证
+
+Dretske 认为（2003，2005）我们应该预期 K 的失败，因为获得、保留或扩展知识的方式都不是独立封闭的。Dretske 以反问的形式表达了他的观点：“当每一种获取、扩展和保留知识的方式都是开放的时，一个人应该如何对某事进行封闭（2003: 113–4）？”
+
+### 知识模式与非闭合
+
+作为获取、维持和扩展知识的方式的示例，德雷茨克提出了感知、证词、证明、记忆、指示和信息。说这些项目不是单独封闭的意思是说以下方式的封闭原则，无论是否带有括号内的限定，都是错误的：
+
+(**PC**)
+
+如果 S 感知 p，并且(S 相信 q 因为 S 知道)p 蕴含 q，则 S 感知 q。
+
+(**TC**)
+
+如果 S 收到了 p 的证词，并且(S 相信 q 是因为 S 知道)p 蕴含 q，那么 S 已经收到了 q 的证词。
+
+ 认知闭合
+
+如果 S 已经证明了 p，并且(S 相信 q 是因为 S 知道)p 蕴含 q，那么 S 已经证明了 q。
+
+(**RC**)
+
+如果 S 记得 p，并且(S 相信 q 是因为 S 知道)p 蕴含 q，则 S 记得 q。
+
+(**IC**)
+
+如果 R 指示 p，并且(S 相信 q 因为 S 知道)p 蕴含 q，则 R 指示 q。
+
+(**NC**)
+
+如果 R 携带信息 p，并且(S 相信 q 因为 S 知道)p 蕴含 q，则 R 携带信息 q。
+
+根据德雷茨克（Dretske）的观点，这些原则中的每一个都失败了。例如，我们可能感知到我们有手，但并没有感知到有物理事物。
+
+### 3.2 对德雷茨克的回应
+
+对 Dretske 关于知识模式非闭合性的论点已经有各种反驳。
+
+首先，一个或多个模式封闭原则的失败并不意味着 K 的失败。重要的是 Dretske 讨论的各种知识模式是否让我们能够知道我们所知道的事情的后果。换句话说，问题是以下原则是否成立：
+
+(**T**)
+
+如果在通过感知、证词、证明、记忆或指示或携带 p 信息的某种方式来了解 p 的情况下，S 相信 q 是因为 p 蕴含 q，那么 S 知道 q。
+
+第二，理论家们捍卫了一些这些封闭原则，比如 PC，IC 和 NC。Dretske 拒绝了这三个原则，因为他认为感知，指示和信息最好是用决定性理由来分析，这会削弱封闭性。但是，如果我们用安全指示来分析感知，指示和信息，这三个原则（或者非常类似它们的东西）可能会被捍卫。考虑 IC 和 NC。如果我们将指示和信息分析如下，这两者都是正确的：
+
+R 指示 p 当且仅当如果 R 成立，p 将为真。
+
+R 携带关于 p 的信息当且仅当如果 R 成立，p 就会是真的。R 携带关于 p 的信息当且仅当如果 R 成立，p 就会是真的。
+
+Dretske（1969）的间接感知概念可以支持 PC 的一个版本。考虑一位科学家，通过观察云室中电子留下的气泡来研究电子的行为。电子本身是看不见的，但科学家可以感知到（看不见的）电子以特定方式移动，因为他感知到（可见的）留下的气泡以特定方式排列。我们直接感知的东西使我们能够间接感知各种事物。现在假设当我们直接或间接感知 p，并且这导致我们相信 q，其中 p 蕴含 q 时，我们就能够间接感知 q。那么我们就已经在接受 PC 的某个版本的道路上了，比如：
+
+ 认知闭合
+
+如果 S 感知 p，并且这导致 S 相信 q，则 S 感知 q。
+
+## 认知闭合到不易知的命题的论证
+
+另一个反封闭论点是，有一些命题类型，除非我们采取非同尋常的措施，否则我们无法知道，然而这些命题是由我们确实知道真实性的平凡主张所蕴含的。如果 K 是正确的话，这将是不可能的，因此 K 必须是错误的。有时这个困难被讨论为易知问题，因为一些理论家（Cohen 2002）认为某些事情难以知晓，即它们不能通过从平凡知识中推导而知晓。根据所说的哪些命题被认为是难以知晓的，这个论点有不同的版本。根据 Dretske（也许还有诺齐克），我们不能轻易知道限制性命题或重量级命题是真实的。这些命题类似于摩尔（1959）认为肯定是真实的命题，而维特根斯坦（1969）宣称是不可知的（但维特根斯坦认为它们是不可知的，是基于可疑的理由，即如果我们怀疑的话，它们必须是真实的）。另一种可能性是我们不能轻易知道彩票命题。从不可知命题的论点的一个特例开始，声称我们无法知道怀疑性假设的虚假性。我们将在下一节中考虑这第三个观点。
+
+### 限制性命题的论证
+
+Dretske 在 2003 年并未清晰地界定他所称的“限制性”（在 2003 年）或“重量级”（在 2005 年）命题类别。他提供的一些例子包括“过去存在”，“存在物理对象”和“我没有被巧妙欺骗”。他似乎认为这些命题具有我们可以称之为“难以捉摸”的特性，其中如果 p 对我来说是难以捉摸的，那么只有当 p 的虚假性不会改变我的经验时才成立。但是，限制性并不等同于难以捉摸。如果没有物理对象，我的经验将发生巨大变化，因为我将不存在。因此，一些限制性命题并不难以捉摸。至于所有难以捉摸的命题是否都是限制性的，很难说，因为“限制性”这个术语的模糊性。非骡子是难以捉摸的，但它是限制性的吗？
+
+我们难道不能知道限制性命题吗？如果不能，并且如果我们知道导致它们的事物，德雷茨克认为他对他的结论性理由观点有进一步支持，假设他认为他的观点排除了我们知道限制性命题的可能性（同时允许我们知道导致它们的事物）。然而，这个假设是错误的（Hawthorne 2005，Luper 2006）。我们确实有充分的理由相信一些限制性命题，比如存在物体。然而，德雷茨克可能会放弃限制性命题的概念，转而支持难以捉摸的命题的概念，并且引用我们无法知道难以捉摸的主张但我们可以知道暗示它们的事物的事实，以支持他的结论性理由观点，并反对 K。
+
+为了排除对限制性/难以捉摸的命题的认知，德雷茨克提出了两种类型的论证，我们可以称之为感知论证和伪圆形论证。
+
+认知闭合论从以下观点开始：(a)我们并没有感知到限制性/难以捉摸的主张，以及(b)我们并不通过感知知道限制性/难以捉摸的主张。由于很难想象我们以其他方式如何能够知道限制性/难以捉摸的命题，(a)和(b)是得出我们只是不知道它们成立的充分理由。
+
+(a) 和 (b) 具有相当的可信度是毫无疑问的。然而，它们是有争议的。为了解释 (a) 和 (b) 的真相，Dretske 依赖于他对感知的决定性理由分析。他的批评者可能会引用感知的安全指示理论作为拒绝 (a) 和 (b) 的基础。例如，Luper (2006) 主要基于我们可以间接地感知和知道一些难以捉摸的主张（比如非骡子），通过直接感知（比如斑马）这些蕴含它们的主张来反对这两点。
+
+Dretske 提出了排除对限制性/难以捉摸主张的知识的另一个理由。他认为，只要这些限制性/难以捉摸主张是真实的，我们就可以知道平凡的事实（例如，我们吃了早餐），而不知道它们所蕴含的限制性/难以捉摸主张（例如，过去是真实的），但我们不能再以此作为我们知道后者的基础。假设我们认为自己通过从我们已知的另一个主张 p 推断出来知道某个主张 q，但我们最初知道 p 取决于 q 的真实性。将这称为伪循环推理。根据 Dretske 的观点，伪循环推理是不可接受的，然而当我们试图通过从蕴含它们的普通知识主张中推导出怀疑假设的否定等限制性/难以捉摸主张来知道时，我们所依赖的正是这种推理：除非前者是真实的，否则我们首先将不会知道后者。Dretske 在此提出的问题早在对知识的广义可靠主义账户的批评者，如 Richard Fumerton（1995, 178）之前就已经提出过。Jonathan Vogel（2000）在标题为“自我拉起”的情况下讨论了这个问题，即当某人对气压表的可靠性没有初始证据时，因为气压表指示 p 而在几个不同的场合相信 p，从而根据知识的可靠主义账户知道 p，然后通过归纳推断气压表是可靠的。通过自我拉起，我们可能会—根据 Vogel 的观点是非法的—从通过可靠过程形成的信念转移到这些信念是通过可靠过程形成的知识。只有当气压表是可靠的时，我们才能在第一次使用气压表时知道 p；因此，仅仅基于其历史记录来得出它是可靠的涉及伪循环推理。
+
+理论家长期以来一直反对那些真实性取决于尚未建立的事实的知识主张，尤其是如果该事实仅仅被视为理所当然。拒绝任何具有循环性痕迹的知识主张也是标准做法。如果我们声称知道一个命题 q 是真实的，理由是它由第二个命题 p 所蕴涵，即使 q 的真实性在认识到 p 是真实的过程中被视为理所当然，那么这两种担忧都会出现。许多理论家将根据这些传统理由拒绝伪循环推理。Dretske 并不担心第一个问题，但他提出了第二个问题，即对伪循环推理的担忧。但有越来越多的研究打破了传统，并捍卫了某些形式的认知循环性（反过来，这些研究在传统反对意见的基础上受到了严厉批评）。Max Black（1949 年）和 Nelson Goodman（1955 年）是早期的例子；其他包括 Van Cleve 1979 和 2003；Luper 2004；Papineau 1992；以及 Alston 1993。Dretske 本人意在打破传统，以“外部主义”为旗帜撰写。他明确表示，我们大部分，如果不是全部，的日常知识主张依赖于我们尚未建立的事实。事实上，他将此视为他的决定性理由观点的优点。然而，决定性理由账户的性质并不排除我们使用伪循环推理来认识限制性命题，这使得他的保留变得神秘。一系列罐子般的经验可以构成相信罐子的决定性理由，一个饼干罐就在我面前。如果我相信物体，那么物体是物理对象，因为它是由罐子蕴涵的，我有相信物体，一个限制性命题的决定性理由。（如果物体是错误的，罐子也是错误的，我将缺乏我的罐子般的经验。）
+
+Dretske 可能已经回归到这样一种观点，即决定性理由的解释规则排除了通过伪循环推理认识难以捉摸的，而不是限制性的主张，因为无论我们采用何种推理方式，我们都没有关于难以捉摸的主张的决定性理由。但这并不意味着 Dretske 的观点与伪循环推理相矛盾。即使这种更有限的立场也可能受到质疑（根据 Shatz 1987 年对 Nozick 的指控）。我们可能坚持认为当我们知道 p 且 p 蕴含 q 时，p 本身就是相信 q 的决定性理由。毕竟，假设 p 蕴含 q，如果 q 是假的，那么 p 也将是假的。根据这一策略，我们对 K 有进一步的论证：如果 S 知道 p（依赖于某些决定性理由 R），并且 S 相信 q 是因为 S 知道 p 蕴含 q，那么 S 有一个相信 q 的决定性理由，即 p（而不是 R），因此 S 知道 q。
+
+对通过世俗主张演绎地认识难以捉摸主张的另一个疑问是，这种操作是不当的扩张。科恩声称，知道桌子是红色并不能让我们知道“我不是一个被欺骗以相信桌子是红色的大脑”也不是“桌子不是白色[但]被红灯照亮”（2002: 313）。从前者到后者的过渡，我们的知识似乎被不当地扩大了。这种担忧可能至少在很大程度上是由于在逻辑蕴涵或演绎蕴涵的应用中缺乏精确性（Klein 2004）。让红色表示桌子是红色的命题，白色表示桌子是白色的命题，光表示桌子被红光照亮的命题。红色并不蕴涵桌子被照亮的条件。特别是它并不蕴涵合取，光 & 非白色。我们最多可以推断的是合取，白色 & 光，是错误的，这并没有给我们任何关于桌子的照明条件的信息。我们同样可以推断出合取，白色 & 非光，是错误的。原知命题红色并没有发生任何扩张。
+
+### 4.2 彩票命题的论证
+
+似乎显而易见，我不知道不中奖，我今晚不会中彩票，即使我中大奖的几率微乎其微。但假设我的内心渴望拥有一座价值 1000 万美元的法国里维埃拉别墅。似乎可以说，我知道不买，我明天不会买那座别墅，因为我没有财力，并且我知道条件，如果中奖就买，即，如果我今晚中彩票，明天我会买下那座别墅。根据这个条件和不买，可以得出不中奖的结论，因此，根据闭合性，知道条件和不买的立场使我知道不中奖。正如这种推理所示，类似不中奖的不可知性与不买的可知性使我们有能力发起对闭合性的另一个挑战。
+
+让一个彩票命题成为一个命题，比如不中奖，它（至少通常）只能在其概率非常高但小于 1 的情况下得到支持。Vogel（1990, 2004）和 Hawthorne（2004, 2005）指出，许多实际上并不涉及彩票的命题类似于彩票命题，因为它们可以被赋予接近但小于 1 的概率。这样的命题可能被描述为类似于彩票的。在一个主张中提到的事件可以被归入无限多的参考类别之下，并且没有权威的方法来选择其中哪一个决定了被归入事件的概率。通过在这些类别中仔细选择，我们通常可以找到方法来暗示一个主张的概率小于 1。例如，不被盗，即您刚刚停在房子前面的汽车没有被盗：通过选择类别，在过去一小时内从您房子前面被盗的红色汽车，我们可以描绘不被盗的统计概率为 1。但通过选择在美国被盗的汽车，我们可以将概率描绘为明显小于 1。如果像彩票命题一样，类似于彩票的命题不容易被知晓，它们增加了对认知闭合原则的压力，因为它们是由一系列平凡命题所蕴含的，而这些命题在认知闭合的情况下变得无法知晓。
+
+K（和 GK）受到多大威胁？抽签和类似抽签的命题？这个问题有一定争议。然而，有很多理由支持以一种方式处理抽签命题，以另一种方式处理类似抽签的命题。K（和 GK）受到多大威胁？抽签和类似抽签的命题？这个问题有一定争议。然而，有很多理由支持以一种方式处理抽签命题，以另一种方式处理类似抽签的命题。
+
+对于彩票命题：几位理论家建议，我们实际上并不知道它们是真的，因为知道它们需要相信它们，因为有些东西确立了它们的真实性，而我们（通常）无法确立彩票命题的真实性。有各种方式来理解“确立”一个主张的含义。正如我们所见，Dretske 认为知识意味着有一个决定性的理由来思考我们的想法。David Armstrong（1973 年，第 187 页）说，知识意味着拥有一个“确保”真实的信念状态。安全指示理论家建议，当我们相信某些事情是因为有些东西安全地指示了它们的真实性时，我们就知道这些事情。Harman 和 Sherman（2004 年，第 492 页）说，知识要求我们相信某些事情是因为有些东西“确立了那个信念的真实性”。在这四种观点中，当我们相信某个主张是因为它极有可能是真的时，我们就无法知道这个主张是真的。然而，彩票命题的不可知性并不构成对认知闭合的实质性威胁，因为很明显并没有明确的命题既被知道是真的又蕴含着彩票命题。考虑之前讨论过的例子：条件句“如果赢了就买”和“不买”。如果我知道这些，那么根据 GK，我知道“不赢”，一个彩票命题。但很有可能否认我确实知道这些。毕竟，我可能会中彩票。
+
+现在考虑类似于彩票的命题。我们不能通过否认我们知道任何蕴含类似于彩票的命题的平凡命题来捍卫封闭性，因为很明显我们知道许多蕴含类似于彩票的命题的事情是真实的。为了捍卫封闭性，我们必须说类似于彩票的命题是可知的。它们与真正的彩票命题不同之处在于它们可能是可以通过建立其真实性的理由来支持的。如果我仅仅基于犯罪统计来相信“未被盗”，我将无法知道它是真的。但我可以改为基于观察，比如刚刚把车停在我的车库里等等，这些情况下可以证明“未被盗”是成立的。
+
+## 5. 怀疑论证
+
+根据 Dretske 和 Nozick 的观点，如果我们接受他们对知识的看法并拒绝 K，我们就可以解释怀疑主义的吸引力以及它的错误之处。因此，拒绝知识闭合是解决怀疑主义的关键。鉴于对怀疑主义问题的洞察力的重要性，他们似乎有充分理由否认闭合。让我们考虑他们提出的故事以及对其可接受性的一些担忧。
+
+### 怀疑论与反怀疑论
+
+Dretske 和 Nozick 专注于一种将 K 与我们不知道怀疑假设是错误的结合的怀疑形式。例如，我不知道非 biv：我不是一个在地球远处的行星上被外星科学家欺骗的大脑。基于这些假设，怀疑论者认为我们不知道各种涉及怀疑假设错误的常识主张。例如，由于非 biv 是由 h 蕴涵的，我在圣安东尼奥，怀疑论者可能会这样论证：Dretske 和 Nozick 专注于一种怀疑形式，结合了 K 和我们不知道怀疑假设是错误的假设。例如，我不知道非 biv：我不是一个在地球远处被外星科学家欺骗的大脑。基于这些假设，怀疑论者认为我们不知道各种涉及怀疑假设错误的常识主张。例如，由于非 biv 是由 h 蕴涵的，我在圣安东尼奥，怀疑论者可能会这样论证：
+
+(1)
+
+K 是真的；即，如果在知道 p 的情况下，S 相信 q 是因为 S 知道 p 蕴含 q，那么 S 知道 q。
+
+(2)
+
+ 认知闭合意味着非双重验证。
+
+(3)
+
+因此，如果我知道 h 并且我相信非 biv，因为我知道它是由 h 蕴含的，那么我知道非 biv。
+
+(4)
+
+但我不知道非 biv。
+
+(5)
+
+因此我不知道 h。
+
+Dretske 和 Nozick 都很清楚这个论点可以被颠倒过来，如下所示：
+
+(1)
+
+K 是真的；即，如果在知道 p 的同时，S 相信 q 是因为 S 知道 p 蕴含 q，那么 S 知道 q。
+
+(2)
+
+ 认知闭合意味着非双重诱因。
+
+(3)
+
+因此，如果我知道 h 并且我相信非 biv，因为我知道它是由 h 蕴含的，那么我知道非 biv。
+
+(4)′
+
+ 我知道 h.
+
+(5)′
+
+因此，我确实知道非双值逻辑。
+
+将怀疑论者置于被怀疑的位置，这大致是摩尔（1959）的反怀疑策略。（有些作者倾向地现在称这种策略为独断主义）。然而，摩尔并没有假定 K，而是假定了一个更强的原则的真实性。
+
+(**PK**)
+
+如果在知道 p 的情况下，S 相信 q 是因为 S 知道 q 是由 S 知道 p 推出的，那么 S 知道 q。
+
+与 K 不同，PK 支持摩尔的著名论点：摩尔知道他正在站立；他知道自己正在站立意味着他没有在做梦；因此，他知道（或者更确切地说是有可能知道）自己没有在做梦。
+
+### 5.2 跟踪与怀疑
+
+根据德雷茨克（Dretske）和诺齐克（Nozick）的观点，怀疑主义是有吸引力的，因为怀疑者在某种程度上是正确的。当他们说我们不知道怀疑性假设不成立时，他们是正确的。因为我不追踪非双重诱因（not-biv）：如果双重诱因是真的，我仍然会有那些让我相信双重诱因是错误的经历。关于反怀疑主义也可以说类似的事情：反怀疑者在说我们知道各种各样的常识主张，这些主张暗示了怀疑性假设的错误。然而，怀疑者在这一点上诉诸 K，并争辩说，既然如果我知道 h，我就会知道非双重诱因，那么我毕竟不知道 h，而摩尔式的反怀疑者则诉诸 K 以得出结论，即我知道非双重诱因。但这正是怀疑者和反怀疑者都犯错的地方，因为 K 是错误的。考虑怀疑者所处的位置。在接受追踪观点时（当他们否认我们知道怀疑性假设是错误的时候），怀疑者无法诉诸于封闭原则，而在追踪理论上封闭原则是错误的。我们追踪（因此知道）普通知识主张的真实性，但未能追踪（或知道）随之而来的事实，比如不相容的怀疑性假设是错误的事实。
+
+这个故事的一个缺点是它无法应对所有类型的怀疑论。怀疑论有两种主要形式（以及各种子类）：回归（或皮洛尼亚）怀疑论和不可辨识性（笛卡尔）怀疑论。在最好的情况下，德雷茨克（Dretske）和诺齐克（Nozick）提供了一种处理后者的方法。
+
+Dretske 和 Nozick 对笛卡尔怀疑论的回应引发了另一个担忧，即这迫使我们放弃 K（以及 GK，以及实例化和简化的封闭）。鉴于这些原则的直观吸引力，一些理论家寻求了解释怀疑论的替代方式，然后将其作为更优越的部分基于它们不违背 K 的理由。考虑两种可能性，一种是由安全指示理论的拥护者提出的，另一种是由语境主义者提出的。
+
+### 5.3 安全指示和怀疑
+
+安全指示理论的倡导者接受了追踪理论家对怀疑主义吸引力的解释，但保留了封闭原则。怀疑主义诱惑我们的一个原因是我们倾向于将 CR 与 SI 混淆（Sosa 1999，Luper 1984，1987c，2003a）。毕竟，CR——如果 p 是假的，R 就不成立——与 SI——只有 p 为真时 R 才成立——非常相似。当我们将两者结合在一起时，有时会应用 CR，并得出我们不知道怀疑场景不成立的结论。然后我们转回到安全指示账户，并在怀疑者诉诸维系原则时，继续支持他们，这一原则由安全指示账户支持，并得出普通知识主张是错误的结论。但是，正如摩尔所声称的，怀疑者在说我们不知道怀疑假设是错误的时候是错误的。大致而言，我们知道怀疑可能性不成立，因为（考虑到我们的情况）它们是遥远的。安全指示理论的倡导者接受了追踪理论家对怀疑主义吸引力的解释，但保留了封闭原则。怀疑主义诱惑我们的一个原因是我们倾向于将 CR 与 SI 混淆（Sosa 1999，Luper 1984，1987c，2003a）。毕竟，CR——如果 p 是假的，R 就不成立——与 SI——只有 p 为真时 R 才成立——非常相似。当我们将两者结合在一起时，有时会应用 CR，并得出我们不知道怀疑场景不成立的结论。然后我们转回到安全指示账户，并在怀疑者诉诸维系原则时，继续支持他们，这一原则由安全指示账户支持，并得出普通知识主张是错误的结论。但是，正如摩尔所声称的，怀疑者在说我们不知道怀疑假设是错误的时候是错误的。大致而言，我们知道怀疑可能性不成立，因为（考虑到我们的情况）它们是遥远的。
+
+怀疑主义也可能源于这样一种假设，即如果某种信念形成方法 M 在某种情况下产生了一个信念，却不能让我们知道该信念的真实性，那么无论在什么情况下使用，它都无法产生真正的知识（这种信念的知识），除非对 M 进行某种加强，比如使用补充方法或提供有关当时情况的证据，才能获取知识。（如果要获得知识，M 必须在某种程度上得到加强。）这种假设可能建立在这样一个观念上，即 M 产生的任何信念，充其量只是偶然正确的，如果在任何情况下 M 产生了一个错误的或偶然正确的信念（Luper 1987b,c）。根据这种假设，我们可以通过勾勒出 M 产生错误或偶然正确信念的情况来排除信念形成方法 M 作为知识的来源。传统的怀疑场景足以满足要求；Gettier 情景也是如此。外部主义理论家拒绝这种假设，他们认为当 M 在不会偶然正确的情况下使用时，M 可以产生知识。在高度 Gettier 化的情况下，如果要产生知识，M 必须让我们处于特别强大的认知位置；在普通情况下，不那么严格的方法也可以产生知识。一个方法必须满足的标准以产生知识取决于它的使用环境。这种观点认为，主体或代理人 S 要知道 p 的要求会随着 S 的环境（例如，S 的信念形成方法必须有多严格才能产生知识取决于 S 的情况）而变化，这种观点可能被称为以主体为中心（或主体）的语境主义。跟踪理论家和安全指示理论家都支持以主体为中心的语境主义。
+
+### 5.4 语境主义和怀疑论
+
+理论家们在“语境主义”标签下撰写，如 David Lewis（1979，1996），Stewart Cohen（1988，1999）和 Keith DeRose（1995），提供了一种相关的解释怀疑论的方式，而不否认封闭性。为了清晰起见，我们可以称他们为以言者为中心（或归因者）的语境主义者，因为他们将自己的观点与以行动者为中心的语境主义相对比。根据（以言者为中心的）语境主义者，法官是否将知识归因于某人的正确性取决于该法官的语境，而知识的标准因语境而异。当街头上的人判断知识时，适用的标准相对较低。但认识论者认真对待普通人忽视的各种可能性，因此必须应用相当严格的标准才能做出正确的评估。在普通语境中被视为知识的东西，在适用更高标准的语境中并不符合知识的要求。怀疑论的解释在于认识标准的语境变化很容易被忽视。怀疑论者指出，在认识论语境中授予任何人知识是不恰当的。然而，怀疑论者错误地假设，在认识论语境中的情况适用于所有语境。他们假设，由于那些认真对待怀疑论的人必须否认任何人的知识，那么每个人，无论语境如何，都应该否认任何人的知识。然而，在普通语境中的人完全正确地声称他们知道各种事情。
+
+此外，封闭原则是正确的，语境主义者说，只要理解它在特定语境内运作，而不是跨越语境。也就是说，只要我们保持在特定语境内，我们知道我们从其他已知事物推导出的事物。但如果我处于普通语境中，知道我在圣安东尼奥，我无法通过推理知道我不是在遥远星球上的一个罐子里的大脑，因为一旦我认真对待这种怀疑的可能性，我就将我的语境转变为一个需要更高认知标准的语境。当我认真对待罐子的可能性时，我必须运用严格的标准，这些标准排除了我知道我不是在罐子里的大脑。同样，这些标准也排除了我知道我在圣安东尼奥。认真思考知识会破坏我们的知识。
+
+## 理性信念的封闭
+
+认为正当信念在蕴涵下是封闭的，意味着以下原则之一是正确的（或两者都是）：
+
+(**J**)
+
+如果，在正当地相信 p 的情况下，S 相信 q 是因为 S 知道 p 蕴含 q，那么 S 正当地相信 q。
+
+(**GJ**)
+
+如果 S 在正当地相信各种命题的同时，因为 S 知道它们蕴涵着 p 而相信 p，那么 S 就正当地相信 p。
+
+然而，GJ 产生了悖论（Kyburg 1961）。要看清楚为什么，注意到如果赢得彩票的机会足够渺茫，我有理由相信我的彩票，即彩票 1，会输。我也有理由相信彩票 2 会输，3 会输，依此类推。然而，我没有理由相信这些命题的连接。如果我有理由相信，那么我就有理由相信没有一张彩票会赢。如果一个命题在足够可能时被证明是有理由的，那么彩票的例子会削弱 GJ。无论概率有多大，只要概率不是 1，我们将有理由相信，在某些彩票中，我们有理由相信任意一张彩票会输，因此，根据 GJ，我们有理由相信所有的彩票都会输。
+
+即使我们拒绝 GJ，也不意味着我们必须拒绝涉及知识闭合的 GK。再次考虑彩票的例子。我们相信第 1 张彩票会输的正当性取决于它输掉的概率有多大。现在，第 2 张彩票输掉的概率等于第 1 张彩票输掉的概率。每张彩票都是如此。然而，考虑这个连接词，第 1 张彩票会输 & 第 2 张彩票会输。这个联合命题的概率低于其任何一个连接词的概率。假设我们继续添加连接词。例如，接下来是：第 1 张彩票会输 & 第 2 张彩票会输 & 第 3 张彩票会输。每次添加一个连接词，结果命题的概率仍然更低。这说明我们可以从一系列命题开始，每个命题都超过某个正当性的阈值（让它是 GJ 中“正当”信念所需的任何东西），通过将它们连接起来，我们最终得到的命题低于那个正当性的阈值。我们可能“正当地相信”每个连接词，但不相信这个连接词，所以 GJ 失败了。然而，我们无需基于这些理由拒绝 GK。即使我们承认我们正当地相信第 1 张彩票会输是真的，我们可能否认我们知道这个命题是真的。我们可能认为，如果我们基于概率相信某个命题 p，那么只有概率为 1 才足以让我们知道它是真的。在这种情况下，GK 不会因为我们对 GJ 的反对而屈服，因为如果两个或更多命题的概率为 1，那么它们的连接概率也为 1。
+
+我们可以拒绝 GJ。我们是否也应该拒绝 J？这个原则的地位要争议得多。一些理论家用反例来反对它，比如 Dretske 自己的斑马案例：因为斑马就在眼前，你似乎完全有理由相信 zeb，但并不那么清楚你有理由相信 not-mule，即使你是从 zeb 推断出这个信念的。任何以 K 支持限制性或重量级命题的知识（前面讨论过）为由而拒绝 K 的人，很可能也会出于类似的理由而拒绝 J：有理由相信我们有手，似乎并不能使我们有理由相信存在物理对象，即使我们看到前者蕴含后者。
+
+Dretske 的案例并不反对 J，而是反对以下原则（证据的可传递性）：
+
+(**E**)
+
+如果 e 是 p 的证据，并且 p 蕴含 q，则 e 是 q 的证据。
+
+即使我们拒绝这个原则，也不能得出这样的结论：如彼得·克莱因（1981）所指出的那样，理由在蕴涵下不是封闭的。可以说，对于理由的封闭性，唯一必要的是，当我们考虑了所有相关证据 e 后，我们有理由相信 p 时，我们也有足够的理由相信 p 的每一个结果。我们对 p 的结果的理由不必是 e。相反，它可能是 p 本身，毕竟，这是一个有理由的信念。而且，由于 p 蕴涵其结果，这就足以证明它们。此外，我们对 p 的任何结果的好证据都会反对 p 本身，阻止我们首先相信 p，因此，如果我们考虑了所有的证据，赞成和反对，我们将不会有压倒性的证据反对 p 所蕴涵的命题。 （当跟踪理论家否认知识的封闭性时，可以采取类似的策略：如果我们跟踪 p，并通过从 p 推导出 q 来相信 q，那么如果我们以 p 作为相信 q 的基础，我们就会跟踪 q。）从这个角度看，J 似乎是合理的。（有大量关于证据的可传递性及其失败的文献；例如，参见克里斯平·赖特（1985）和马丁·戴维斯（1998）。
+
+根据罗德里克·弗斯（1978）对命题和信念证据的区分，可以得出一些最终观察。如果命题 p 对 S 具有命题证据，那么只有在给定 S 拥有的理由的情况下，p 才会被视为合理的。对于 S 来说，p 具有命题证据并不要求 S 实际上基于这些理由来建立 p，甚至不要求 S 相信 p。S 的信念是否具有信念证据取决于 S 相信 p 的实际理由：如果根据这些理由，p 会被视为合理，那么 p 具有信念证据。考虑以下原则：
+
+(**JD**)
+
+如果 p 对 S 在认知上是合理的，并且 p 蕴含 q，则 q 对 S 在认知上是合理的。
+
+(**JP**)
+
+如果 p 对 S 在命题上是合理的，并且 p 蕴含 q，则 q 对 S 在命题上是合理的。
+
+JD 显然面临两个致命的反对意见。首先，我们可能会不相信我们的信念所暗示的一些事情。其次，我们可能有非常可敬的理由相信某个 p，然而，我们可能没有意识到 p 蕴含 q，我们可能不知道任何相信 q 的理由，或者更糟糕的是，我们可能因为虚假的理由相信 q。但是，这两个困难都不会威胁到 JP。首先，命题的合理化并不意味着相信。其次，S 可能在基于 p 相信 q 的命题上获得合理化，无论 S 是否意识到 p 蕴含 q，甚至如果 S 因虚假理由相信 q。作为对 JP 的进一步支持，我们可以引用这样一个事实，即如果 p 蕴含 q，任何反对 q 的因素也适用于 p。
+
+## Bibliography
+
+* Alston, W., 1993, *The Reliability of Sense Perception*, Ithaca: Cornell University Press.
+* Armstrong, D., 1973, *Belief, Truth and Knowledge*, Cambridge: Cambridge University Press.
+* Audi, R., 1995, “Deductive Closure, Defeasibility and Scepticism: A Reply to Feldman.” *Philosophical Quarterly*, 45: 494–499.
+* Becker, K., 2009, *Epistemology Modalized*, New York: Routledge.
+* Black, M., 1949, “The Justification of Induction,” *Language and Philosophy*, Cornell University Press.
+* Black, T., and Murphy, P., 2007, “In Defense of Sensitivity”, *Synthese*, 154(1): 53–71.
+* Bogdan, R.J., 1985, “Cognition and Epistemic Closure,” *American Philosophical Quarterly*, 22: 55–63.
+* BonJour, L., 1987, “Nozick, Externalism, and Skepticism,” in Luper 1987a, 297–313.
+* Brueckner, A., 1985a, “Losing Track of the Sceptic,” *Analysis*, 45: 103–104.
+* –––, 1985b, “Skepticism and Epistemic Closure,” *Philosophical Topics*, 13: 89–117.
+* –––, 1985c, “Transmission for Knowledge Not Established,” *Philosophical Quarterly*, 35: 193–196.
+* –––, 2012, “Roush on Knowledge: Tracking Redux?,” in K. Becker and T. Black (eds.), *The Sensitivity Principle in Epistemology*, Cambridge: Cambridge University Press.
+* Cohen, S., 1987, “Knowledge, Context, and Social Standards,” *Synthese*, 73: 3–26.
+* –––, 1988, “How to be a Fallibilist,” *Philosophical Perspectives 2: Epistemology*, Atascadero, CA: Ridgeview, 91–123.
+* –––, 1999, “Contextualism, Skepticism, and the Structure of Reasons,” *Philosophical Perspectives 13: Epistemology*, Atascadero, CA: Ridgeview, 57–89.
+* –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge,” *Philosophy and Phenomenological Research*, 65.2: 309–329.
+* Davies, M., 1998, “Externalism, Architecturalism, and Epistemic Warrant,” in Crispin Wright, Barry Smith, and Cynthia Macdonald (eds.), *Knowing Our Own Minds,* Oxford: Oxford University Press, pp. 321–361.
+* DeRose, K., 1995, “Solving the Skeptical Problem,” *Philosophical Review*, 104: 1–52.
+* Dretske, F., 1969, *Seeing and Knowing*, Chicago: University of Chicago Press.
+* –––, 1970, “Epistemic Operators,” *Journal of Philosophy*, 67: 1007–1023.
+* –––, 1971, “Conclusive Reasons,” *Australasian Journal of Philosophy*, 49: 1–22.
+* –––, 1972, “Contrastive Statements,” *Philosophical Review*, 81: 411–430.
+* –––, 2003, “Skepticism: What Perception Teaches,” in Luper 2003b, pp. 105–118.
+* –––, 2005, “Is Knowledge Closed Under Known Entailment?” in Steup 2005.
+* Feldman, R., 1995, “In Defense of Closure,” *Philosophical Quarterly*, 45: 487–494.
+* Firth, R., 1978, “Are Epistemic Concepts Reducible to Ethical Concepts?” in Alvin Goldman and Jaegwon Kim (eds.), *Values and Morals*, Dordrecht: D. Reidel Publishing Co.
+* Fumerton, R., 1995, *Metaepistemology*, *and Skepticism*, Lanham, MD: Rowman and Littlefield.
+* Goldman, A., 1976, “Discrimination and Perceptual Knowledge,” *Journal of Philosophy*, 73: 771–791.
+* –––, 1979, “What is Justified Belief?,” in *Justification and Knowledge*, G.S. Pappas (ed.), Dordrecht: D. Reidel.
+* Goodman, N., 1955, *Fact, Fiction, and Forecast*. (4th ed.), Harvard University Press, 1983.
+* Hales, S., 1995, Epistemic Closure Principles, *Southern Journal of Philosophy*, 33: 185–201.
+* Harman, G. and Sherman, B., 2004, “Knowledge, Assumptions, Lotteries,” *Philosophical Issues*, 14: 492–500.
+* Hawthorne, J., 2004, *Knowledge and Lotteries*, Oxford: Oxford University Press.
+* –––, 2005, “The Case for Closure,” in Steup 2005.
+* Jaeger, C. 2004, “Skepticism, Information, and Closure: Dretske’s Theory of Knowledge,” *Erkenntnis*, 61: 187–201.
+* Klein, P., 1981, *Certainty: A Refutation of Skepticism*, Minneapolis, MN: University of Minnesota Press.
+* –––, 1995, “Skepticism and Closure: Why the Evil Genius Argument Fails,” *Philosophical Topics*, 23: 213–236.
+* –––, 2004, “Closure Matters: Academic Skepticism and Easy Knowledge,” *Philosophical Issues*, 14(1): 165–184.
+* Kripke, S., 2011, “Nozick on Knowledge,” in *Philosophical Troubles* (Collected Papers, Volume 1), New York: Oxford University Press.
+* Kyburg, H., 1961, *Probability and the Logic of Rational Belief*, Dordrecht: Kluwer.
+* Lewis, D., 1973, *Counterfactuals*, Cambridge: Cambridge University Press.
+* –––, 1979, “Scorekeeping in a Language Game,” *Journal of Philosophical Logic*, 8: 339–359.
+* –––, 1996, “Elusive Knowledge,” *Australasian Journal of Philosophy*, 74: 549–567.
+* Luper, S., 1984, “The Epistemic Predicament: Knowledge, Nozickian Tracking, and Skepticism,” *Australasian Journal of Philosophy*, 62: 26–50.
+* ––– (ed.), 1987a, *The*, *Possibility of Knowledge: Nozick and His Critics*, Totowa, NJ: Rowman and Littlefield.
+* –––, 1987b, “The Possibility of Skepticism,” in Luper 1987a.
+* –––, 1987c, “The Causal Indicator Analysis of Knowledge,” *Philosophy and Phenomenological Research*, 47: 563–587.
+* –––, 2003a, “Indiscernability Skepticism,” in S. Luper 2003b, pp. 183–202.
+* –––, (ed.) 2003b, *The Skeptics*, Hampshire: Ashgate Publishing, Limited.
+* –––, 2004, “Epistemic Relativism,” *Philosophical Issues*, 14, a supplement to *Noûs*, 2004, 271–295.
+* –––, 2006, “Dretske on Knowledge Closure,” *Australasian Journal of Philosophy*, 84(3): 379–394.
+* –––, 2012, “False Negatives,” in K. Becker and T. Black (eds.), *The Sensitivity Principle in Epistemology*, Cambridge: Cambridge University Press.
+* Moore, G. E., 1959, “Proof of an External World,” and “Certainty,” in *Philosophical Papers*, London: George Allen & Unwin, Ltd.
+* Murphy, P., 2005, “Closure Failures for Safety,” *Philosophia*, 33: 331–334.
+* Nozick, R., 1981, *Philosophical Explanations*, Cambridge: Cambridge University Press.
+* Papineau, D., 1992, “Reliabilism, Induction, and Scepticism,” *The Philosophical Quarterly*, 42: 1–20.
+* Pritchard, D., 2007, “Anti-Luck Epistemology,” *Synthese*, 158: 227–298.
+* Ramsey, F. P., 1931, *The Foundations of Mathematics and Other Logical Essays*, London: Routledge and Kegan Paul.
+* Roush, S., 2005, *Tracking Truth: Knowledge, Evidence and Science*, Oxford: Oxford University Press.
+* Sextus Empiricus, 1933a, *Outlines of Pyrrhonism*, R.G. Bury (trans), London: W. Heinemann, Loeb Classical Library.
+* Shatz, D., 1987, “Nozick’s Conception of Skepticism,” in *The Possibility of Knowledge*, S. Luper (ed.), Totowa, NJ: Rowman and Littlefield.
+* Sosa, E., 1999, “How to Defeat Opposition to Moore,” *Philosophical Perspectives*, 13: 141–152.
+* –––, 2003, “Neither Contextualism Nor Skepticism,” in *The Skeptics*, S. Luper (ed.), Hampshire: Ashgate Publishing, Limited, pp. 165–182.
+* –––, 2007, *A Virtue Epistemology: Apt Belief and Reflective Knowledge Volume I*, Oxford: Oxford University Press.
+* –––, 2009, *A Virtue Epistemology: Apt Belief and Reflective Knowledge Volume II*, Oxford: Oxford University Press.
+* Stalnaker, R., 1968, “A Theory of Conditionals,” *American Philosophical Quarterly* (Monograph No. 2), 98–112.
+* Steup, M. and Sosa, E. (eds.), 2005, *Contemporary Debates in Epistemology*, Malden, MA: Blackwell.
+* Stine, G.C., 1971, “Dretske on Knowing the Logical Consequences,” *Journal of Philosophy*, 68: 296–299.
+* –––, 1976, “Skepticism, Relevant Alternatives, and Deductive Closure,” *Philosophical Studies*, 29: 249–261.
+* Van Cleve, J., 1979, “Foundationalism, Epistemic Principles, and the Cartesian Circle,” *Philosophical Review*, 88: 55–91.
+* –––, 2003, “Is Knowledge Easy—or Impossible? Externalism as the Only Alternative to Skepticism,” in S. Luper 2003b, pp. 45–60.
+* Vogel, J., 1990, “Are There Counterexamples to the Closure Principle?” in *Doubting: Contemporary Perspectives on Skepticism*, M. Roth and G. Ross (eds.), Dordrecht: Kluwer Academic Publishers.
+* –––, 2000, “Reliabilism Leveled,” *Journal of Philosophy*, 97: 602–623.
+* –––, 2004, “Speaking of Knowledge,” *Philosophical Issues*, 14: 501–509.
+* Williamson, T., 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press.
+* Wittgenstein, L., 1969, *On Certainty*, G.E.M. Anscombe (trans.), New York: Harper and Row, Inc.
+* Wright, C., 1985, “Facts and Certainty,” *Proceedings of the British Academy*, 71: 429–472.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=closure-epistemic). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/closure-epistemic/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=closure-epistemic&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/closure-epistemic/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[confirmation](https://plato.stanford.edu/entries/confirmation/) | [contextualism, epistemic](https://plato.stanford.edu/entries/contextualism-epistemology/) | [evidence](https://plato.stanford.edu/entries/evidence/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [reliabilist epistemology](https://plato.stanford.edu/entries/reliabilism/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [skepticism: and content externalism](https://plato.stanford.edu/entries/skepticism-content-externalism/)
+
+[Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
+[Steven Luper](http://www.trinity.edu/departments/philosophy/steven_luperhome_page.htm)
