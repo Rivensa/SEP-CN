@@ -891,3 +891,17 @@
 * [心灵外在主义 externalism about the mind (Mark Rowlands, Joe Lau, and Max Deutsch)](e/xin-ling-wai-zai-zhu-yi-externalism-about-the-mind-mark-rowlands-joe-lau-and-max-deutsch.md)
 * [\*外在性——见内在性属性与外在性属性 extrinsic — see intrinsic vs. extrinsic properties](e/wai-zai-xing-jian-nei-zai-xing-shu-xing-yu-wai-zai-xing-shu-xing-extrinsic-see-intrinsic-vs.-extrins.md)
 * [\*亚伯拉罕·伊本·埃兹拉——见亚伯拉罕·伊本·埃兹拉 Ezra, Abraham Ibn — see Ibn Ezra, Abraham](e/ya-bo-la-han-yi-ben-ai-zi-la-jian-ya-bo-la-han-yi-ben-ai-zi-la-ezra-abraham-ibn-see-ibn-ezra-abraham.md)
+
+## F
+
+* [事实 facts (Kevin Mulligan and Fabrice Correia)](f/shi-shi-facts-kevin-mulligan-and-fabrice-correia.md)
+* [信仰 faith (John Bishop and Daniel J. McKaughan)](f/xin-yang-faith-john-bishop-and-daniel-j.-mckaughan.md)
+* [闪-托夫·伊本·法拉奎拉 Falaquera, Shem Tov Ibn (Steve Harvey)](f/shan-tuo-fu-yi-ben-fa-la-kui-la-falaquera-shem-tov-ibn-steve-harvey.md)
+* [谬误 fallacies (Hans Hansen)](f/miu-wu-fallacies-hans-hansen.md)
+* [弗朗茨·法农 Fanon, Frantz (John Drabinski)](f/fu-lang-ci-fa-nong-fanon-frantz-john-drabinski.md)
+* [宿命论 fatalism (Hugh Rice)](f/su-ming-lun-fatalism-hugh-rice.md)
+* [费希纳，古斯塔夫·西奥多 Fechner, Gustav Theodor (Frederick C. Beiser)](f/fei-xi-na-gu-si-ta-fu-xi-ao-duo-fechner-gustav-theodor-frederick-c.-beiser.md)
+* [联邦主义 federalism (Andreas Follesdal)](f/lian-bang-zhu-yi-federalism-andreas-follesdal.md)
+* [赫伯特·费格尔 Feigl, Herbert (Matthias Neuber)](f/he-bo-te-fei-ge-er-feigl-herbert-matthias-neuber.md)
+* [玛格丽特·费尔 Fell, Margaret (Jacqueline Broad)](f/ma-ge-li-te-fei-er-fell-margaret-jacqueline-broad.md)
+* [女性主义哲学 feminist philosophy (Noëlle McAfee, Ann Garry, Anita Superson, Heidi Grasswick, and Serene Khader)](f/nv-xing-zhu-yi-zhe-xue-feminist-philosophy-nolle-mcafee-ann-garry-anita-superson-heidi-grasswick-and.md)
