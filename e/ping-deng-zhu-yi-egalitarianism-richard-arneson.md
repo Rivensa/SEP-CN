@@ -1,35 +1,33 @@
 # 平等主义 egalitarianism (Richard Arneson)
 
-*首次发表于 2002 年 8 月 16 日星期五；实质性修订于 2013 年 4 月 24 日星期三*
+_首次发表于 2002 年 8 月 16 日星期五；实质性修订于 2013 年 4 月 24 日星期三_
 
 平等主义是政治哲学中的一种思潮。平等主义者支持某种形式的平等：人们应该得到相同的待遇，或者被视为平等，在某种方面。另一种观点扩展了上述最后一种选择：人们应该被视为平等，应该彼此平等对待，应该平等相处，或者享有某种社会地位的平等。平等主义学说往往基于这样一个背景思想，即所有人在基本价值或道德地位上是平等的。就西欧和盎格鲁-美国的哲学传统而言，这种思想的一个重要来源是基督教的观念，即上帝平等地爱着所有人的灵魂。平等主义是一个多变的学说，因为有几种不同类型的平等，或者人们可能被视为平等，或者可能平等相处，这可能被认为是可取的。在现代民主社会中，“平等主义”这个术语通常用来指代一种支持，出于各种各样的原因，比当前存在的更大程度的收入和财富平等的立场。
 
 * [初步区分](https://plato.stanford.edu/entries/egalitarianism/#PreDis)
 * [平等的机会](https://plato.stanford.edu/entries/egalitarianism/#EquOpp)
 * [平等的条件：什么的平等？](https://plato.stanford.edu/entries/egalitarianism/#EquConEquWha)
-
-  * [ 3.1 洛克权利](https://plato.stanford.edu/entries/egalitarianism/#LocRig)
+  * [3.1 洛克权利](https://plato.stanford.edu/entries/egalitarianism/#LocRig)
   * [卡尔·马克思论平等权利](https://plato.stanford.edu/entries/egalitarianism/#KarMarEquRig)
   * [收入和财富](https://plato.stanford.edu/entries/egalitarianism/#IncWea)
-  * [ 能力](https://plato.stanford.edu/entries/egalitarianism/#Cap)
-  * [ 资源](https://plato.stanford.edu/entries/egalitarianism/#Res)
+  * [能力](https://plato.stanford.edu/entries/egalitarianism/#Cap)
+  * [资源](https://plato.stanford.edu/entries/egalitarianism/#Res)
   * [3.6 福利与福利机会](https://plato.stanford.edu/entries/egalitarianism/#WelOppForWel)
   * [3.7 结论：一个测试案例](https://plato.stanford.edu/entries/egalitarianism/#ConTesCas)
-* [ 关系平等](https://plato.stanford.edu/entries/egalitarianism/#RelEqu)
+* [关系平等](https://plato.stanford.edu/entries/egalitarianism/#RelEqu)
 * [平等主义是关于谁的平等？](https://plato.stanford.edu/entries/egalitarianism/#EquAmoWho)
 * [平等主义是否本质上可取？ 平等主义的替代方案](https://plato.stanford.edu/entries/egalitarianism/#EquDesPerSeAltEga)
-
-  * [ 平等主义](https://plato.stanford.edu/entries/egalitarianism/#Suf)
-  * [ 6.2 优先级](https://plato.stanford.edu/entries/egalitarianism/#Pri)
-  * [ 6.3 沙漠](https://plato.stanford.edu/entries/egalitarianism/#Des)
-  * [ 其他观点](https://plato.stanford.edu/entries/egalitarianism/#OthVie)
+  * [平等主义](https://plato.stanford.edu/entries/egalitarianism/#Suf)
+  * [6.2 优先级](https://plato.stanford.edu/entries/egalitarianism/#Pri)
+  * [6.3 沙漠](https://plato.stanford.edu/entries/egalitarianism/#Des)
+  * [其他观点](https://plato.stanford.edu/entries/egalitarianism/#OthVie)
 * [平等的基本人类价值](https://plato.stanford.edu/entries/egalitarianism/#EquFunHumWor)
-* [ 参考文献](https://plato.stanford.edu/entries/egalitarianism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/egalitarianism/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/egalitarianism/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/egalitarianism/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/egalitarianism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/egalitarianism/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/egalitarianism/#Rel)
 
----
+***
 
 ## 初步区分
 
@@ -421,142 +419,142 @@ Scheffler 提出了一个建议，即如何将一种反对某些等级、权力�
 
 ## Bibliography
 
-* Adams, Robert, 1999, *Finite and Infinite Goods* (New York and Oxford: Oxford University Press), chapter 3, “Well-Being and Excellence.”
-* Anderson, Elizabeth, 1999, “What Is the Point of Equality?”, *Ethics* 109, pp. 287–337.
-* Arneson, Richard J., 1989, “Equality and Equal Opportunity for Welfare,” *Philosophical Studies* 56, pp. 77–93, reprinted in Louis Pojman and Robert Westmoreland (eds.), *Equality: Selected Readings*, Oxford: Oxford University Press 1997, pp. 229–241.
-* –––, 2000, “Welfare Should Be the Currency of Justice,” *Canadian Journal of Philosophy* 30, pp. 477–524.
-* –––, 2004, “Luck Egalitarianism Interpreted and Defended,” *Philosophical Topics*, 32, pp. 1–20.
-* Barry, Brian, 2001, *Culture and Equality*, Cambridge and London: Harvard University Press.
-* Beitz, Charles, 1979, *Political Theory and International Relations*, Princeton: Princeton University Press.
-* Blake, Michael, 2001, “Distributive Justice, State Coercion, and Autonomy,” *Philosophy and Public Affairs* 30, pp. 257–296.
-* Brighouse, Harry, and Swift, Adam, 2009, “Legitimate Parental Partiality,” *Philosophy and Public Affairs* 37, pp. 43–80.
-* Buchanan, Allen, Brock, Dan W., Daniels, Norman, and Wikler, Daniel, 2000, *From Chance to Choice: Genetics and Justice*, Cambridge: Cambridge University Press, chapters 3 and 4.
-* Carter, Ian, 2011, “Respect and the Basis of Equality,” *Ethics* (121), 538–571.
-* Christiano, Thomas, 1996, *The Rule of the Many,* Boulder, Colorado: Westview Press.
-* Cohen G. A., 1988, *History, Labour, and Freedom: Themes from Marx*, Oxford: Oxford University Press.
-* Christiano, Thomas, 2008, *The Constitution of Equality: Democratic Authority and Its Limits*, Oxford: Oxford University Press.
-* Cohen, G. A., 1989, “On the Currency of Egalitarian Justice,” *Ethics* 99, pp. 906–944.
-* –––, 1995, *Self-Ownership, Freedom, and Equality*, Cambridge: Cambridge University Press.
-* –––, 2000, *If You're an Egalitarian, How Come You're So Rich?,* Cambridge: MA: Harvard University Press.
-* –––, 2008, *Rescuing Justice and Equality*, Cambridge and London, Harvard University Press.
-* Cohen, Joshua, 1989, “Democratic Equality,” *Ethics* 99, pp. 727–751.
-* –––, 1989 , “Deliberative Democracy,” in Alan Hamlin and Philip Pettit (eds.), *The Good Polity,* Oxford: Basil Blackwell.
-* Cohen, Joshua, and Sabel, Charles, 2006, “Extra Rempublicam Nulla Justitia?”, *Philosophy and Public Affairs* 34, pp. 147–175.
-* Crisp, Roger, 2003, “Equality, Priority, and Compassion,” *Ethics* 113, pp. 745–763.
-* Daniels, Norman, 1990, “Equality of What? Welfare, Resources, or Capabilities?”, *Philosophy and Phenomenological Research* 50 (supp. vol.), pp. 273–296.
-* Dworkin, Ronald, 2000, *Sovereign Virtue: Equality in Theory and Practice,* Cambridge: Harvard University Press.
-* –––, 2003, “Equality, Luck, and Hierarchy,” *Philosophy and Public Affairs* 31, pp.190–198.
-* –––, 2011, *Justice for Hedgehogs* (Cambridge: Harvard University Press)*.*
-* Estlund, David, 2000, “Political Quality,” *Social Philosophy and Policy* 17, pp. 127–160.
-* –––, 1998, “Liberalism, Equality, and Fraternity in Cohen's Critique of Rawls,” *Journal of Political Philosophy* 6, pp. 99–112.
-* Feldman, Fred, 2010, *What Is This Thing Called Happiness?* (New York and Oxford: Oxford University Press).
-* Fishkin, James, 1983, *Justice, Equal Opportunity, and the Family*, New Haven: Yale University Press.
-* Fleurbaey, Marc, 1995, “Equal Opportunity or Equal Social Outcome?”, *Economics and Philosophy* 11, pp. 25–55.
-* –––, 2008, *Fairness, Responsibility, and Welfare,* Oxford and New York: Oxford University Press.
-* Frankfurt, Harry, 1987, “Equality as a Moral Ideal,” *Ethics* 98, pp. 21–42, reprinted in Frankfurt, Harry, 1988, *The Importance of What We Care About*, Cambridge: Cambridge University Press.
-* –––, 2000, “The Moral Irrelevance of Equality,” *Public Affairs Quarterly* 14, pp. 87–103.
-* Griffin, James, 1986, *Well-Being: Its Meaning, Measurement, and Moral Importance*, Oxford: Oxford University Press.
-* Hare, R.M., 1981, *Moral Thinking: Its Levels, Method, and Point*, Oxford: Clarendon Press.
-* Haybron, Daniel M., 2008, *The Pursuit of Unhappiness: The Elusive Psychology of Well-Being* (New York and Oxford: Oxford University Press)*.*
-* Holtug, Nils, 2010, *Persons, Interests, and Justice* (Oxford and New York: Oxford University Press).
-* Hurka, Thomas, 1993, *Perfectionism*, New York and Oxford: Oxford University Press.
-* Hurley, Susan, 2003, *Justice, Luck, and Knowledge*, Oxford and New York: Oxford University Press.
-* Julius, A. J, 2003, “Basic Structure and the Value of Equality,” *Philosophy and Public Affairs,* 31, pp. 321–355.
-* –––, 2006, “Nagel's Atlas,” *Philosophy and Public Affairs* 34, pp. 176–192.
-* Kagan, Shelly, “Equality and Desert,” in Louis P. Pojman and Owen McLeod (eds.), *What Do We Deserve? A Reader on Justice and Desert*, Oxford and New York: Oxford University Press, 1999, pp. 298–314.
-* –––, 2012, *The Geometry of Desert* (New York and Oxford: Oxford University Press).
-* Knight, Carl, and Stemplowska, Zofia, 2011, *Responsibility and Distributive Justice,* Oxford and New York: Oxford University Press.
-* Larmore, Charles, 1987, *Patterns of Moral Complexity*, Cambridge: Cambridge University Press.
-* –––, 1996, *The Morals of Modernity*, Cambridge: Cambridge University Press.
-* Locke, John, 1690, *Second Treatise of Government,* C. B. MacPherson (ed.), Indianapolis: Hackett, 1980 edition.
-* Kymlicka, Will, 1990, *Contemporary Political Philosophy: An Introduction*, Oxford: Oxford University Press.
-* –––, 1995, *Multicultural Citizenship: A Liberal Theory of Minority Rights*, Oxford: Clarendon Press.
-* Marx, Karl, 1978. “Critique of the Gotha Program,” in Robert C. Tucker (ed.), *The Marx-Engels Reader*, New York: W. W. Norton, pp. 525–541 (written in 1875).
-* McKerlie, Dennis, 1989, “Equality and Time,” *Ethics* 99, pp. 475–491.
-* –––, 2001, “Justice Between the Young and the Old,” *Philosophy and Public Affairs* 30, pp. 152–177.
-* McMahan, Jeff, 1996, “Cognitive Disability, Misfortune, and Justice,” *Philosophy and Public Affairs* 25, pp. 3–34.
-* Mill, John Stuart, 1979, George Sher, ed., *Utilitarianism,* Indianapolis, IN: Hackett Publishing. Originally published 1861.
-* Miller, David, *On Nationality* (Oxford: Oxford University Press).
-* Miller, Richard W., 1998, “Cosmopolitan Respect and Patriotic Concern,” *Philosophy and Public Affairs* 27, pp. 202–224.
-* Murphy, Liam, 1998, “Institutions and the Demands of Justice,” *Philosophy and Public Affairs* 27, pp. 251–291.
-* Nagel, Thomas, 1991, *Equality and Partiality*, Oxford: Oxford University Press.
-* –––, 1997, “Justice and Nature,” *Oxford Journal of Legal Studies* 17, pp. 303–321.
-* –––, 2005, “The Problem of Global Justice,” *Philosophy and Public Affairs*, 33, pp. 113–147.
-* Nozick, Robert, 1974, *Anarchy, State, and Utopia*, New York: Basic Books.
-* Nussbaum, Martha, 1990, “Aristotelian Social Democracy,” in *Liberalism and the Good,* R. B. Douglas, Gerald M. Mara, and Henry Richardson (eds.), New York: Routledge, 1990, pp. 203–252.
-* –––, 1992, “Human Functioning and Social Justice: In Defense of Aristotelian Essentialism,” *Political Theory* 20, pp. 202–246.
-* –––, 1999, “Women and Cultural Universals,” in Nussbaum, *Sex and Social Justice*, Oxford and New York: Oxford University Press, pp. 29–54.
-* –––, 2000, “Aristotle, Politics, and Human Capabilities: A Response to Antony, Arneson, Charlesworth, and Mulgan”, *Ethics* 111, pp. 102–140.
-* –––, 2000, *Women and Human Development: The Capabilities Approach,* Cambridge: Cambridge University Press*.*
-* Orwell, George, 1938, *Homage to Catalonia,* reprinted edition 1952, New York: Harcourt, Brace, and World.
-* Otsuka, Michael, 2003, *Libertarianism without Inequality*, Oxford and New York: Oxford University Press.
-* Otsuka, Michael, and Voorhoeve, Alex, 2009, “Why It Matters that Some Are Worse Off than Others: An Argument against the Priority View,” *Philosophy and Public Affairs* 37, pp. 171–199.
-* Parfit, Derek, 1984, Appendix I, “What Makes Someone's Life Go Best,” in Parfit, *Reasons and Persons,* Oxford: Oxford University Press, pp. 493–502.
-* –––, 1991, *Equality or Priority?* (Department of Philosophy: University of Kansas).
-* –––, 1997, “Equality and Priority,” *Ratio* 10, pp. 202–221.
-* Pogge, Thomas, 1989, *Realizing Rawls*, Ithaca, New York: Cornell University Press.
-* –––, 1994, “An Egalitarian Law of Peoples,” *Philosophy and Public Affairs* 23, pp. 195–224
-* –––, 2000, “On the Site of Distributive Justice: Reflections on Cohen and Murphy,” *Philosophy and Public Affairs*, 29, pp. 137–169.
-* Rakowski, Eric, 1992, *Equal Justice,* Oxford: Oxford University Press.
-* Rawls, John, 1999, *A Theory of Justice*, Cambridge: Harvard University Press, rev. ed. (first published 1971).
-* –––, 1999, *Collected Papers,* Samuel Freeman (ed.), Cambridge: Harvard University Press.
-* –––, 2001, *Justice as Fairness: A Restatement*, Erin Kelly (ed.), Cambridge: Harvard University Press.
-* –––, 2005, *Political Liberalism* (expanded edition; first published 1993), New York: Columbia University Press.
-* Raz, Joseph, 1986, *The Morality of Freedom*, Oxford: Oxford University Press.
-* Roemer, John, 1985, “Equality of Talent,” *Economics and Philosophy* 1, 155–188.
-* –––, 1986, “Equality of Resources Implies Equality of Welfare,” *Quarterly Journal of Economics* 101, pp.751–784.
-* –––, 1996, *Theories of Distributive Justice*, Cambridge: Harvard University Press.
-* –––, 1998, *Equality of Opportunity,* Cambridge: Harvard University Press.
-* –––, 2002, “Egalitarianism against the Veil of Ignorance,” *Journal of Philosophy* 99, pp. 167–184.
-* Sangiovanni, Andrea, 2007, “Global Justice, Reciprocity, and the State,” *Philosophy and Public Affairs* 35, pp. 2–39.
-* Scanlon, T. M., 1997, “The Diversity of Objections to Inequality,” The Lindley Lecture, Department of Philosophy, University of Kansas, reprinted in Matthew Clayton and Andrew Williams (eds.), *The Ideal of Equality*, Basingstoke, Hampshire: Macmillan, and New York: St. Martin's Press, 2000, pp. 41–59.
-* Scanlon, T.M., 1998, *What Do We Owe to One Another?*, Cambridge, MA: Harvard University Press.
-* Schar, John, 1967, “Equality of Opportunity—and Beyond,” in Pennock, J. Roland, and Chapman, John, (eds.), 1967, *Equality: Nomos IX,* New York: Atherton Press, reprinted in Pojman, Louis P., and Westmoreland, Robert, 1997, *Equality: Selected Readings*, New York and Oxford: Oxford University Press, pp. 137–147.
-* Scheffler, Samuel, 1982, *The Rejection of Consequentialism*, Oxford and New York: Oxford University Press.
-* –––, 2003, *Boundaries and Allegiances: Problems of Justice and Responsibility in Liberal Thought*, Oxford: Oxford University Press.
-* –––, 2010, *Equality and Tradition: Questions of Value in Moral and Political Theory,* Oxford and New York, Oxford University Press.
-* Sen, Amartya, “Equality of What?”, in S. McMurrin (ed.), *The Tanner Lectures on Human Values*, vol. 1, 1980, Salt Lake City: University of Utah Press, reprinted in Sen, 1982, *Choice, Welfare and Measurement,* Cambridge: MIT Press, pp. 353–369.
-* –––, 1992, *Inequality Reexamined*, Cambridge: Harvard University Press.
-* –––, 1997, *On Economic Inequality*, expanded edition with annexe by Foster, James E., and Sen, Oxford: Clarendon Press.
-* –––, 2009, *The Idea of Justice*, Cambridge, MA: Harvard University Press.
-* Sher, George, 1997, *Beyond Neutrality: Perfectionism and Politics*, Cambridge: Cambridge University Press.
-* Shiffrin, Seana, 2004, “Egalitarianism, Choice-Sensitivity, and Accommodation,” in R. Jay Wallace, Philip Pettit, Samuel Scheffler, and Michael Smith (eds.), *Reason and Value: Themes from the Moral Philosophy of Joseph Raz, Oxford: Oxford University Press.*
-* –––, 2010, “Incentives, Motives, and Talents,” *Philosophy and Public Affairs* 38, pp. 111–142.
-* Simmons, John, 1992, *The Lockean Theory of Rights* (Princeton: Princeton University Press).
-* Steiner, Hillel, 1994, A*n Essay on Rights*, Oxford: Basil Blackwell.
-* Sumner, L. W., 1996, *Welfare, Happiness, and Ethics* (New York and Oxford: Oxford University Press).
-* Tan, Kok-Chor, 2008, “A Defense of Luck Egalitarianism,” *Journal of Philosophy* 105, pp. 665–690.
-* Temkin, Larry S., 1993, *Inequality*, Oxford and New York: Oxford University Press.
-* Titelbaum, Michael, “What Would a Rawlsian Ethos of Justice Look Like?,” *Philosophy and Public Affairs* 36, pp. 289–322.
-* Vallentyne, Peter, 2007, “Of Mice and Men: Equality and Animals,” in Nils Holtug and Kasper Lippert-Rasmussen, (eds.), *Egalitarianism: New Essays on the Nature and Value of Equality* (New York and Oxford: Oxford University Press), pp. 211–237.
-* Vallentyne, Peter, and Steiner, Hillel, (eds.), 2000a, *The Origins of Left-Libertarianism: An Anthology of Historical Writings*, Basingstoke, Hampshire, and New York: Palgrave.
-* Vallentyne, Peter, and Steiner, Hillel, (eds.), 2000b, *Left-Libertarianism and Its Critics: The Contemporary Debate,* Basingstoke, Hampshire, and New York: Palgrave.
-* Van Parijs, Philippe, 1995, *Real Freedom for All: What (if Anything) Can Justify Capitalism?*, Oxford and New York: Oxford University Press.
-* Varian, Hal, 1974, “Equity, Envy, and Efficiency,” *Journal of Economic Theory* 9, pp. 63–91,
-* Waldron, Jeremy, 2003, *God, Locke, and Equality: Christian Foundations of Locke's Political Thought*, Cambridge: Cambridge University Press.
-* Walzer, Michael, 1983, *Spheres of Justice: A Defense of Pluralism and Equality,* New York: Basic Books.
-* Weirich, Paul, 1983, “Utility Tempered with Equality,” *Nous* 17, pp. 423–39.
-* Wiggins, David, 1998, “Claims of Need,” in Wiggins, 1998, *Needs, Values, Truth: Essays in the Philosophy of Value*, Oxford: Oxford University Press, 3rd. ed., pp. 1–58.
-* Williams, Andrew, 1998, “Incentives, Inequality, and Publicity,” *Philosophy and Public Affairs* 27, 225–247.
-* Wolff, Jonathan, 1998, “Fairness, Respect, and the Egalitarian Ethos,” *Philosophy and Public Affairs* 27, pp. 97–122.
-* Wood, Allen, 1981 *Karl Marx*, London: Routledge and Kegan Paul, chapters 9 and 10.
-* Young, Iris Marion, 1990, *Justice and the Politics of Difference*, Princeton: Princeton University Press.
+* Adams, Robert, 1999, _Finite and Infinite Goods_ (New York and Oxford: Oxford University Press), chapter 3, “Well-Being and Excellence.”
+* Anderson, Elizabeth, 1999, “What Is the Point of Equality?”, _Ethics_ 109, pp. 287–337.
+* Arneson, Richard J., 1989, “Equality and Equal Opportunity for Welfare,” _Philosophical Studies_ 56, pp. 77–93, reprinted in Louis Pojman and Robert Westmoreland (eds.), _Equality: Selected Readings_, Oxford: Oxford University Press 1997, pp. 229–241.
+* –––, 2000, “Welfare Should Be the Currency of Justice,” _Canadian Journal of Philosophy_ 30, pp. 477–524.
+* –––, 2004, “Luck Egalitarianism Interpreted and Defended,” _Philosophical Topics_, 32, pp. 1–20.
+* Barry, Brian, 2001, _Culture and Equality_, Cambridge and London: Harvard University Press.
+* Beitz, Charles, 1979, _Political Theory and International Relations_, Princeton: Princeton University Press.
+* Blake, Michael, 2001, “Distributive Justice, State Coercion, and Autonomy,” _Philosophy and Public Affairs_ 30, pp. 257–296.
+* Brighouse, Harry, and Swift, Adam, 2009, “Legitimate Parental Partiality,” _Philosophy and Public Affairs_ 37, pp. 43–80.
+* Buchanan, Allen, Brock, Dan W., Daniels, Norman, and Wikler, Daniel, 2000, _From Chance to Choice: Genetics and Justice_, Cambridge: Cambridge University Press, chapters 3 and 4.
+* Carter, Ian, 2011, “Respect and the Basis of Equality,” _Ethics_ (121), 538–571.
+* Christiano, Thomas, 1996, _The Rule of the Many,_ Boulder, Colorado: Westview Press.
+* Cohen G. A., 1988, _History, Labour, and Freedom: Themes from Marx_, Oxford: Oxford University Press.
+* Christiano, Thomas, 2008, _The Constitution of Equality: Democratic Authority and Its Limits_, Oxford: Oxford University Press.
+* Cohen, G. A., 1989, “On the Currency of Egalitarian Justice,” _Ethics_ 99, pp. 906–944.
+* –––, 1995, _Self-Ownership, Freedom, and Equality_, Cambridge: Cambridge University Press.
+* –––, 2000, _If You're an Egalitarian, How Come You're So Rich?,_ Cambridge: MA: Harvard University Press.
+* –––, 2008, _Rescuing Justice and Equality_, Cambridge and London, Harvard University Press.
+* Cohen, Joshua, 1989, “Democratic Equality,” _Ethics_ 99, pp. 727–751.
+* –––, 1989 , “Deliberative Democracy,” in Alan Hamlin and Philip Pettit (eds.), _The Good Polity,_ Oxford: Basil Blackwell.
+* Cohen, Joshua, and Sabel, Charles, 2006, “Extra Rempublicam Nulla Justitia?”, _Philosophy and Public Affairs_ 34, pp. 147–175.
+* Crisp, Roger, 2003, “Equality, Priority, and Compassion,” _Ethics_ 113, pp. 745–763.
+* Daniels, Norman, 1990, “Equality of What? Welfare, Resources, or Capabilities?”, _Philosophy and Phenomenological Research_ 50 (supp. vol.), pp. 273–296.
+* Dworkin, Ronald, 2000, _Sovereign Virtue: Equality in Theory and Practice,_ Cambridge: Harvard University Press.
+* –––, 2003, “Equality, Luck, and Hierarchy,” _Philosophy and Public Affairs_ 31, pp.190–198.
+* –––, 2011, _Justice for Hedgehogs_ (Cambridge: Harvard University Press)_._
+* Estlund, David, 2000, “Political Quality,” _Social Philosophy and Policy_ 17, pp. 127–160.
+* –––, 1998, “Liberalism, Equality, and Fraternity in Cohen's Critique of Rawls,” _Journal of Political Philosophy_ 6, pp. 99–112.
+* Feldman, Fred, 2010, _What Is This Thing Called Happiness?_ (New York and Oxford: Oxford University Press).
+* Fishkin, James, 1983, _Justice, Equal Opportunity, and the Family_, New Haven: Yale University Press.
+* Fleurbaey, Marc, 1995, “Equal Opportunity or Equal Social Outcome?”, _Economics and Philosophy_ 11, pp. 25–55.
+* –––, 2008, _Fairness, Responsibility, and Welfare,_ Oxford and New York: Oxford University Press.
+* Frankfurt, Harry, 1987, “Equality as a Moral Ideal,” _Ethics_ 98, pp. 21–42, reprinted in Frankfurt, Harry, 1988, _The Importance of What We Care About_, Cambridge: Cambridge University Press.
+* –––, 2000, “The Moral Irrelevance of Equality,” _Public Affairs Quarterly_ 14, pp. 87–103.
+* Griffin, James, 1986, _Well-Being: Its Meaning, Measurement, and Moral Importance_, Oxford: Oxford University Press.
+* Hare, R.M., 1981, _Moral Thinking: Its Levels, Method, and Point_, Oxford: Clarendon Press.
+* Haybron, Daniel M., 2008, _The Pursuit of Unhappiness: The Elusive Psychology of Well-Being_ (New York and Oxford: Oxford University Press)_._
+* Holtug, Nils, 2010, _Persons, Interests, and Justice_ (Oxford and New York: Oxford University Press).
+* Hurka, Thomas, 1993, _Perfectionism_, New York and Oxford: Oxford University Press.
+* Hurley, Susan, 2003, _Justice, Luck, and Knowledge_, Oxford and New York: Oxford University Press.
+* Julius, A. J, 2003, “Basic Structure and the Value of Equality,” _Philosophy and Public Affairs,_ 31, pp. 321–355.
+* –––, 2006, “Nagel's Atlas,” _Philosophy and Public Affairs_ 34, pp. 176–192.
+* Kagan, Shelly, “Equality and Desert,” in Louis P. Pojman and Owen McLeod (eds.), _What Do We Deserve? A Reader on Justice and Desert_, Oxford and New York: Oxford University Press, 1999, pp. 298–314.
+* –––, 2012, _The Geometry of Desert_ (New York and Oxford: Oxford University Press).
+* Knight, Carl, and Stemplowska, Zofia, 2011, _Responsibility and Distributive Justice,_ Oxford and New York: Oxford University Press.
+* Larmore, Charles, 1987, _Patterns of Moral Complexity_, Cambridge: Cambridge University Press.
+* –––, 1996, _The Morals of Modernity_, Cambridge: Cambridge University Press.
+* Locke, John, 1690, _Second Treatise of Government,_ C. B. MacPherson (ed.), Indianapolis: Hackett, 1980 edition.
+* Kymlicka, Will, 1990, _Contemporary Political Philosophy: An Introduction_, Oxford: Oxford University Press.
+* –––, 1995, _Multicultural Citizenship: A Liberal Theory of Minority Rights_, Oxford: Clarendon Press.
+* Marx, Karl, 1978. “Critique of the Gotha Program,” in Robert C. Tucker (ed.), _The Marx-Engels Reader_, New York: W. W. Norton, pp. 525–541 (written in 1875).
+* McKerlie, Dennis, 1989, “Equality and Time,” _Ethics_ 99, pp. 475–491.
+* –––, 2001, “Justice Between the Young and the Old,” _Philosophy and Public Affairs_ 30, pp. 152–177.
+* McMahan, Jeff, 1996, “Cognitive Disability, Misfortune, and Justice,” _Philosophy and Public Affairs_ 25, pp. 3–34.
+* Mill, John Stuart, 1979, George Sher, ed., _Utilitarianism,_ Indianapolis, IN: Hackett Publishing. Originally published 1861.
+* Miller, David, _On Nationality_ (Oxford: Oxford University Press).
+* Miller, Richard W., 1998, “Cosmopolitan Respect and Patriotic Concern,” _Philosophy and Public Affairs_ 27, pp. 202–224.
+* Murphy, Liam, 1998, “Institutions and the Demands of Justice,” _Philosophy and Public Affairs_ 27, pp. 251–291.
+* Nagel, Thomas, 1991, _Equality and Partiality_, Oxford: Oxford University Press.
+* –––, 1997, “Justice and Nature,” _Oxford Journal of Legal Studies_ 17, pp. 303–321.
+* –––, 2005, “The Problem of Global Justice,” _Philosophy and Public Affairs_, 33, pp. 113–147.
+* Nozick, Robert, 1974, _Anarchy, State, and Utopia_, New York: Basic Books.
+* Nussbaum, Martha, 1990, “Aristotelian Social Democracy,” in _Liberalism and the Good,_ R. B. Douglas, Gerald M. Mara, and Henry Richardson (eds.), New York: Routledge, 1990, pp. 203–252.
+* –––, 1992, “Human Functioning and Social Justice: In Defense of Aristotelian Essentialism,” _Political Theory_ 20, pp. 202–246.
+* –––, 1999, “Women and Cultural Universals,” in Nussbaum, _Sex and Social Justice_, Oxford and New York: Oxford University Press, pp. 29–54.
+* –––, 2000, “Aristotle, Politics, and Human Capabilities: A Response to Antony, Arneson, Charlesworth, and Mulgan”, _Ethics_ 111, pp. 102–140.
+* –––, 2000, _Women and Human Development: The Capabilities Approach,_ Cambridge: Cambridge University Press\*.\*
+* Orwell, George, 1938, _Homage to Catalonia,_ reprinted edition 1952, New York: Harcourt, Brace, and World.
+* Otsuka, Michael, 2003, _Libertarianism without Inequality_, Oxford and New York: Oxford University Press.
+* Otsuka, Michael, and Voorhoeve, Alex, 2009, “Why It Matters that Some Are Worse Off than Others: An Argument against the Priority View,” _Philosophy and Public Affairs_ 37, pp. 171–199.
+* Parfit, Derek, 1984, Appendix I, “What Makes Someone's Life Go Best,” in Parfit, _Reasons and Persons,_ Oxford: Oxford University Press, pp. 493–502.
+* –––, 1991, _Equality or Priority?_ (Department of Philosophy: University of Kansas).
+* –––, 1997, “Equality and Priority,” _Ratio_ 10, pp. 202–221.
+* Pogge, Thomas, 1989, _Realizing Rawls_, Ithaca, New York: Cornell University Press.
+* –––, 1994, “An Egalitarian Law of Peoples,” _Philosophy and Public Affairs_ 23, pp. 195–224
+* –––, 2000, “On the Site of Distributive Justice: Reflections on Cohen and Murphy,” _Philosophy and Public Affairs_, 29, pp. 137–169.
+* Rakowski, Eric, 1992, _Equal Justice,_ Oxford: Oxford University Press.
+* Rawls, John, 1999, _A Theory of Justice_, Cambridge: Harvard University Press, rev. ed. (first published 1971).
+* –––, 1999, _Collected Papers,_ Samuel Freeman (ed.), Cambridge: Harvard University Press.
+* –––, 2001, _Justice as Fairness: A Restatement_, Erin Kelly (ed.), Cambridge: Harvard University Press.
+* –––, 2005, _Political Liberalism_ (expanded edition; first published 1993), New York: Columbia University Press.
+* Raz, Joseph, 1986, _The Morality of Freedom_, Oxford: Oxford University Press.
+* Roemer, John, 1985, “Equality of Talent,” _Economics and Philosophy_ 1, 155–188.
+* –––, 1986, “Equality of Resources Implies Equality of Welfare,” _Quarterly Journal of Economics_ 101, pp.751–784.
+* –––, 1996, _Theories of Distributive Justice_, Cambridge: Harvard University Press.
+* –––, 1998, _Equality of Opportunity,_ Cambridge: Harvard University Press.
+* –––, 2002, “Egalitarianism against the Veil of Ignorance,” _Journal of Philosophy_ 99, pp. 167–184.
+* Sangiovanni, Andrea, 2007, “Global Justice, Reciprocity, and the State,” _Philosophy and Public Affairs_ 35, pp. 2–39.
+* Scanlon, T. M., 1997, “The Diversity of Objections to Inequality,” The Lindley Lecture, Department of Philosophy, University of Kansas, reprinted in Matthew Clayton and Andrew Williams (eds.), _The Ideal of Equality_, Basingstoke, Hampshire: Macmillan, and New York: St. Martin's Press, 2000, pp. 41–59.
+* Scanlon, T.M., 1998, _What Do We Owe to One Another?_, Cambridge, MA: Harvard University Press.
+* Schar, John, 1967, “Equality of Opportunity—and Beyond,” in Pennock, J. Roland, and Chapman, John, (eds.), 1967, _Equality: Nomos IX,_ New York: Atherton Press, reprinted in Pojman, Louis P., and Westmoreland, Robert, 1997, _Equality: Selected Readings_, New York and Oxford: Oxford University Press, pp. 137–147.
+* Scheffler, Samuel, 1982, _The Rejection of Consequentialism_, Oxford and New York: Oxford University Press.
+* –––, 2003, _Boundaries and Allegiances: Problems of Justice and Responsibility in Liberal Thought_, Oxford: Oxford University Press.
+* –––, 2010, _Equality and Tradition: Questions of Value in Moral and Political Theory,_ Oxford and New York, Oxford University Press.
+* Sen, Amartya, “Equality of What?”, in S. McMurrin (ed.), _The Tanner Lectures on Human Values_, vol. 1, 1980, Salt Lake City: University of Utah Press, reprinted in Sen, 1982, _Choice, Welfare and Measurement,_ Cambridge: MIT Press, pp. 353–369.
+* –––, 1992, _Inequality Reexamined_, Cambridge: Harvard University Press.
+* –––, 1997, _On Economic Inequality_, expanded edition with annexe by Foster, James E., and Sen, Oxford: Clarendon Press.
+* –––, 2009, _The Idea of Justice_, Cambridge, MA: Harvard University Press.
+* Sher, George, 1997, _Beyond Neutrality: Perfectionism and Politics_, Cambridge: Cambridge University Press.
+* Shiffrin, Seana, 2004, “Egalitarianism, Choice-Sensitivity, and Accommodation,” in R. Jay Wallace, Philip Pettit, Samuel Scheffler, and Michael Smith (eds.), _Reason and Value: Themes from the Moral Philosophy of Joseph Raz, Oxford: Oxford University Press._
+* –––, 2010, “Incentives, Motives, and Talents,” _Philosophy and Public Affairs_ 38, pp. 111–142.
+* Simmons, John, 1992, _The Lockean Theory of Rights_ (Princeton: Princeton University Press).
+* Steiner, Hillel, 1994, A_n Essay on Rights_, Oxford: Basil Blackwell.
+* Sumner, L. W., 1996, _Welfare, Happiness, and Ethics_ (New York and Oxford: Oxford University Press).
+* Tan, Kok-Chor, 2008, “A Defense of Luck Egalitarianism,” _Journal of Philosophy_ 105, pp. 665–690.
+* Temkin, Larry S., 1993, _Inequality_, Oxford and New York: Oxford University Press.
+* Titelbaum, Michael, “What Would a Rawlsian Ethos of Justice Look Like?,” _Philosophy and Public Affairs_ 36, pp. 289–322.
+* Vallentyne, Peter, 2007, “Of Mice and Men: Equality and Animals,” in Nils Holtug and Kasper Lippert-Rasmussen, (eds.), _Egalitarianism: New Essays on the Nature and Value of Equality_ (New York and Oxford: Oxford University Press), pp. 211–237.
+* Vallentyne, Peter, and Steiner, Hillel, (eds.), 2000a, _The Origins of Left-Libertarianism: An Anthology of Historical Writings_, Basingstoke, Hampshire, and New York: Palgrave.
+* Vallentyne, Peter, and Steiner, Hillel, (eds.), 2000b, _Left-Libertarianism and Its Critics: The Contemporary Debate,_ Basingstoke, Hampshire, and New York: Palgrave.
+* Van Parijs, Philippe, 1995, _Real Freedom for All: What (if Anything) Can Justify Capitalism?_, Oxford and New York: Oxford University Press.
+* Varian, Hal, 1974, “Equity, Envy, and Efficiency,” _Journal of Economic Theory_ 9, pp. 63–91,
+* Waldron, Jeremy, 2003, _God, Locke, and Equality: Christian Foundations of Locke's Political Thought_, Cambridge: Cambridge University Press.
+* Walzer, Michael, 1983, _Spheres of Justice: A Defense of Pluralism and Equality,_ New York: Basic Books.
+* Weirich, Paul, 1983, “Utility Tempered with Equality,” _Nous_ 17, pp. 423–39.
+* Wiggins, David, 1998, “Claims of Need,” in Wiggins, 1998, _Needs, Values, Truth: Essays in the Philosophy of Value_, Oxford: Oxford University Press, 3rd. ed., pp. 1–58.
+* Williams, Andrew, 1998, “Incentives, Inequality, and Publicity,” _Philosophy and Public Affairs_ 27, 225–247.
+* Wolff, Jonathan, 1998, “Fairness, Respect, and the Egalitarian Ethos,” _Philosophy and Public Affairs_ 27, pp. 97–122.
+* Wood, Allen, 1981 _Karl Marx_, London: Routledge and Kegan Paul, chapters 9 and 10.
+* Young, Iris Marion, 1990, _Justice and the Politics of Difference_, Princeton: Princeton University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=egalitarianism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/egalitarianism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=egalitarianism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/egalitarianism/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=egalitarianism).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/egalitarianism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=egalitarianism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/egalitarianism/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[affirmative action](https://plato.stanford.edu/entries/affirmative-action/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [desert](https://plato.stanford.edu/entries/desert/) | [equality](https://plato.stanford.edu/entries/equality/) | [equality: of opportunity](https://plato.stanford.edu/entries/equal-opportunity/) | [justice: distributive](https://plato.stanford.edu/entries/justice-distributive/) | [luck: justice and bad luck](https://plato.stanford.edu/entries/justice-bad-luck/)
+[affirmative action](https://plato.stanford.edu/entries/affirmative-action/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [desert](https://plato.stanford.edu/entries/desert/) | [equality](https://plato.stanford.edu/entries/equality/) | [equality: of opportunity](https://plato.stanford.edu/entries/equal-opportunity/) | [justice: distributive](https://plato.stanford.edu/entries/justice-distributive/) | [luck: justice and bad luck](https://plato.stanford.edu/entries/justice-bad-luck/)
 
-[Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
+[Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 [Richard Arneson](http://philosophy.ucsd.edu/faculty/rarneson/)

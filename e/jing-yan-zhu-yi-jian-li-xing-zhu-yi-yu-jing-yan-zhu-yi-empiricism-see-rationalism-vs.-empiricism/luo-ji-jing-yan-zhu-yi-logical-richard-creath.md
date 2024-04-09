@@ -1,27 +1,26 @@
 # 逻辑经验主义 logical (Richard Creath)
 
-*首次发表于 2011 年 4 月 4 日星期一；实质性修订于 2022 年 9 月 21 日星期三*
+_首次发表于 2011 年 4 月 4 日星期一；实质性修订于 2022 年 9 月 21 日星期三_
 
 逻辑经验主义是一种哲学运动，而不是一套教条，它在 20 世纪 20 年代和 30 年代在欧洲的几个中心地带兴盛起来，在 40 年代和 50 年代在美国兴盛。它有几位不同的领袖，他们的观点随时间发生了相当大的变化。此外，这些思想家彼此之间存在巨大分歧。由于将逻辑经验主义视为一种运动而非教条，可能没有所有逻辑经验主义者共享的重要立场，包括令人惊讶的经验主义。虽然大多数运动参与者都是某种形式的经验主义者，但他们在什么是最佳形式的经验主义以及经验主义的认知地位上存在分歧。将这个团体团结在一起的是对科学方法论的共同关注以及科学在重塑社会中可以发挥的重要作用。在科学方法论中，逻辑经验主义者希望为逻辑和数学找到一个自然而重要的角色，并找到一种哲学理解，根据这种理解，哲学是科学事业的一部分。
 
 逻辑经验主义的讨论分为五个方面：
 
 * [1. 运动的映射](https://plato.stanford.edu/entries/logical-empiricism/#MapMov)
-* [ 背景Logical Empiricism to 逻辑经验主义](https://plato.stanford.edu/entries/logical-empiricism/#Bac)
+* [背景Logical Empiricism to 逻辑经验主义](https://plato.stanford.edu/entries/logical-empiricism/#Bac)
 * [3. 运动中的一些主要参与者](https://plato.stanford.edu/entries/logical-empiricism/#SomRepPar)
-* [ 问题](https://plato.stanford.edu/entries/logical-empiricism/#Iss)
-
+* [问题](https://plato.stanford.edu/entries/logical-empiricism/#Iss)
   * [4.1 经验主义、验证主义和反形而上学](https://plato.stanford.edu/entries/logical-empiricism/#EmpVerAntMet)
   * [4.2 Analyticity](https://plato.stanford.edu/entries/logical-empiricism/#Ana)
   * [4.3 Unity of Science and Reduction4.3 科学的统一与还原](https://plato.stanford.edu/entries/logical-empiricism/#UniSciRed)
-  * [ 4.4 Probability4.4 概率](https://plato.stanford.edu/entries/logical-empiricism/#Pro)
-* [ 影响](https://plato.stanford.edu/entries/logical-empiricism/#Imp)
-* [ 参考文献](https://plato.stanford.edu/entries/logical-empiricism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logical-empiricism/#Aca)
+  * [4.4 Probability4.4 概率](https://plato.stanford.edu/entries/logical-empiricism/#Pro)
+* [影响](https://plato.stanford.edu/entries/logical-empiricism/#Imp)
+* [参考文献](https://plato.stanford.edu/entries/logical-empiricism/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/logical-empiricism/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/logical-empiricism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logical-empiricism/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/logical-empiricism/#Rel)
 
----
+***
 
 ## 映射运动
 
@@ -73,7 +72,7 @@
 
 逻辑经验主义运动是其成员交织轨迹的总和，因此描述该运动的一种方式是追踪这些不同轨迹。对于所有涉及的人员进行详细描述将比运动持续的时间更长。这对于百科全书中的一个条目来说是不合适的，尤其是其中许多成员的条目将独立出现。下面对一些代表性人物的工作进行简要介绍，展示了该运动的广度和国际性质。虽然名单很长，但仅涵盖了少数参与者的一小部分，并遗漏了许多重要思想家。
 
- 艾耶（1910-1989）
+艾耶（1910-1989）
 
 一位英国经验主义传统的英国哲学家，艾耶尔于 1932-1933 年访问了维也纳学派。他的著作《语言、真理与逻辑》（1936 年）在二战后成为畅销书，对许多英语使用者来说代表着逻辑实证主义。
 
@@ -97,7 +96,7 @@
 
 这位维也纳物理学家和科学哲学家曾在维也纳、布拉格和哈佛任教。他曾参与与哈恩、诺伊拉特等人的讨论小组，这个小组是维也纳学派的前身。在哈佛，他创建了“跨学科讨论小组”，后来发展成为“科学统一研究所”。他也是波士顿科学哲学研讨会的创始人之一。
 
- 哥德尔（1906-1978）
+哥德尔（1906-1978）
 
 出生在现在的斯洛伐克，哥德尔在维也纳在汉恩的指导下获得博士学位，同时与卡尔纳普和施利克一起学习。他还经常参加维也纳学派的会议并在维也纳教书。他的大部分职业生涯都在普林斯顿高级研究所度过。他以他引人注目的不完备定理和对数学的柏拉图主义取向而闻名。尽管在维也纳时期参与了逻辑经验主义运动，但哥德尔认为卡尔纳普对数学的方法是可以被驳斥的。据称的证明（哥德尔，1995）未在哥德尔的有生之年发表，至今仍存在争议。
 
@@ -109,11 +108,11 @@ Grelling 出生于柏林，并在 Göttingen 在希尔伯特指导下获得博�
 
 格伦鲍姆（Grünbaum）在十几岁时离开他的祖国德国，师从耶鲁大学的亨普尔（Hempel），并在匹兹堡大学度过了他大部分的职业生涯，在那里他创立了哲学中心。他的主要研究领域包括空间和时间哲学、理性以及精神分析。
 
- 韩斯·哈恩（1879-1934）
+韩斯·哈恩（1879-1934）
 
 哈恩（Hahn）是一位杰出的数学家，于 1902 年在他的家乡维也纳获得博士学位，并于 1905 年开始在那里任教。他曾与弗兰克（Frank）、诺拉特（Neurath）等人一起讨论第一次世界大战前的逻辑和方法论问题。在克恩诺夫茨（现在属于乌克兰）和波恩任教后，他于 1921 年在维也纳获得了数学教授职位。他在 1922 年将施利克（Schlick）引入维也纳，因此被弗兰克称为“维也纳学派的实际创始人”（Stadler 1997/2001, 642）。他最著名的学生是哥德尔（Gödel）。哈恩是一位杰出的数学家，于 1902 年在他的家乡维也纳获得博士学位，并于 1905 年开始在那里任教。他曾与弗兰克、诺拉特等人一起讨论第一次世界大战前的逻辑和方法论问题。在克恩诺夫茨和波恩任教后，他于 1921 年在维也纳获得了数学教授职位。他在 1922 年将施利克引入维也纳，因此被弗兰克称为“维也纳学派的实际创始人”（Stadler 1997/2001, 642）。他最著名的学生是哥德尔。
 
- 奥拉夫·赫尔默（1910-2011）
+奥拉夫·赫尔默（1910-2011）
 
 Helmer 在他的家乡柏林在 Reichenbach 指导下获得博士学位，并在伦敦的 Susan Stebbing 那里获得第二个博士学位。他与其他逻辑思维哲学家合作。事实上，Hempel、Helmer 和 Oppenheim 组成的团队被称为“H2O”。他的大部分职业生涯都在兰德公司度过。
 
@@ -125,7 +124,7 @@ Helmer 在他的家乡柏林在 Reichenbach 指导下获得博士学位，并在
 
 这位美国逻辑学家和科学哲学家获得了与 Carnap（后来与他合作）合作的硕士学位，以及与 Hempel（在普林斯顿大学多年来是同事和亲密朋友）合作的博士学位。他发展了 Jeffrey 条件化（见下文）并捍卫了概率主义。
 
- 柯特·勒温 (1890–1947)
+柯特·勒温 (1890–1947)
 
 Born in what is now Poland, Lewin took his doctorate in Berlin in 1916. He lectured there in both philosophy and psychology until 1933 when he emigrated to the U.S. via England. Thereafter he taught at a number of American universities including Cornell, Iowa, MIT, and Duke. Credited with founding modern social psychology, he laid the foundations for what is now called sensitivity training as a way to combat religious and racial prejudices.
 
@@ -145,7 +144,7 @@ Born in what is now Poland, Lewin took his doctorate in Berlin in 1916. He lectu
 
 一位成功的实业家和一位丰厚财富的继承人，Oppenheim 在他的祖国德国接受了化学和哲学的培训。他是爱因斯坦的密友，并帮助发起了柏林经验哲学协会。Oppenheim 与许多重要的逻辑学家和科学哲学家在欧洲和美国合作。他还帮助许多人逃离纳粹的压迫，甚至在他于 1939 年定居普林斯顿后，他继续以各种方式提供帮助。
 
- 卡尔·波普尔（1902-1994）
+卡尔·波普尔（1902-1994）
 
 出生在维也纳并在那里获得博士学位的波普尔（Popper）与维也纳学派的成员进行了激烈的讨论。他的主要哲学作品《科学发现的逻辑》（1935/1959）出现在由施利克（Schlick）和 P·弗兰克（P. Frank）编辑的系列中。然而，他并没有定期参加维也纳学派的会议，通常认为自己是一个局外人。后来，他声称已经“扼杀”了逻辑实证主义。波普尔从奥地利逃到新西兰，最终到了伦敦政治经济学院，在那里因其政治著作而被封为爵士。
 
@@ -243,7 +242,7 @@ Waismann 出生于维也纳，并于 1936 年在那里在 Schlick 的指导下�
 
 奎恩大约在 1940 年开始对分析性产生怀疑，尽管他似乎直到后来才坚定地反对它。无论如何，他的怀疑直到 1951 年才在他著名的论文《经验主义的两大谬误》中发表。奎恩的读者以许多不同的方式理解他的论点。他抱怨的最一般形式是，“分析”迄今为止缺乏卡尔纳普自己对经验科学中理论术语的描述所要求的与观察标准的适当联系。更具体地说，在尝试这样一个一般标准时，要么导致“严重失败，倾向于承认所有或没有句子为分析性，要么存在一种循环性”（奎恩 1963, 404），这种循环性定义了“分析性”，而这种定义本身缺乏适当的经验标准，因此只能通过对分析性本身的诉诸来解释。
 
-This complaint falls far short, as Quine well understood, of a proof that Carnap’s appeal to analyticity was doomed. First, it relies on the demand that theoretical terms must satisfy some empirical significance criterion. Many people at the time, including some who followed Quine in rejecting analyticity, also rejected any general empirical significance demand for theoretical terms. Second, one could accept the demand for theoretical terms in physics or chemistry and deny, as Carnap did, that the demand applied to his own work. This is because Carnap saw himself as working in an area within metamathematics rather than in empirical linguistics. Third, Quine did not pretend to have considered all of the possibilities for the explication of analyticity. And so it may be possible to meet Quine’s demands to the extent that they are legitimate. Fourth and finally, Quine seems in *Roots of Reference* (1974) to have provided an explication for ‘analytic’ that meets his demand for empirical/behavioral criteria without inducing either the drastic failure or the circularity envisioned above.
+This complaint falls far short, as Quine well understood, of a proof that Carnap’s appeal to analyticity was doomed. First, it relies on the demand that theoretical terms must satisfy some empirical significance criterion. Many people at the time, including some who followed Quine in rejecting analyticity, also rejected any general empirical significance demand for theoretical terms. Second, one could accept the demand for theoretical terms in physics or chemistry and deny, as Carnap did, that the demand applied to his own work. This is because Carnap saw himself as working in an area within metamathematics rather than in empirical linguistics. Third, Quine did not pretend to have considered all of the possibilities for the explication of analyticity. And so it may be possible to meet Quine’s demands to the extent that they are legitimate. Fourth and finally, Quine seems in _Roots of Reference_ (1974) to have provided an explication for ‘analytic’ that meets his demand for empirical/behavioral criteria without inducing either the drastic failure or the circularity envisioned above.
 
 对于奎因（Quine）对分析性的另一个相对独立的推动力。在《两大谬误》（1951）的最后一节中，奎因提出了一种极具吸引力的草图，用于替代认识论，显然不涉及分析性。只要这个草图能够成功填充，它将构成一个反对分析性的可有可无的论证。然而，它是否能够成功填充，还有待观察。
 
@@ -327,111 +326,111 @@ Even a perfectly fair coin in an odd number of flips will never result in exactl
 
 ### Cited Literature
 
-* Ayer, A.J., 1936, *Language Truth, and Logic*, London: Gollancz.
-* Blatti, S. and S. Lapointe (eds.), 2016, *Ontology After Carnap*, Oxford: Oxford University Press.
-* Carnap, R., 1928/1967, *Der logische Aufbau der Welt*, translated by R.A. George as *The Logical Structure of the World*, Berkeley: University of California Press.
-* –––, 1934/1937, *Logische Syntax der Sprache*, translated by A. Smeaton as *The Logical Syntax of Language*, London: Kegan Paul, Trench, Trubner & Co.
-* –––, 1935, *Philosophy and Logical Syntax*, London: Kegan Paul, Trench, Trubner, & Co.
-* –––, 1936–37, “Testability and Meaning”, *Philosophy of Science*, 3: 419–71, 4: 1–40.
-* –––, 1938, “Logical Foundations of the Unity of Science”, *International Encyclopedia of Unified Science* (Volume 1, Number 1), Chicago: University of Chicago Press, 42–62.
-* –––, 1942, *Introduction to Semantics*, Cambridge, MA: Harvard University Press.
-* –––, 1950, *Logical Foundations of Probability*, Chicago: University of Chicago Press.
-* –––, 1958 [2017], “Value Concepts”, transcribed and translated by A. Carus, *Synthese* 194: 185–94. [Original manuscript [available online](http://digital.library.pitt.edu/u/ulsmanuscripts/pdf/31735061815522.pdf)]
-* –––, 1963a, “Carl G. Hempel on Scientific Theories”, in *The Philosophy of Rudolf Carnap*, P.A. Schilpp (ed.), LaSalle, IL: Open Court, 958–66.
-* –––, 1963b, “K.R. Popper on Probability and Induction”, in *The Philosophy of Rudolf Carnap*, P.A. Schilpp (ed.), LaSalle, IL: Open Court, 995–998.
-* –––, 1966, *Philosophical Foundations of Physics*, M. Gardner (ed.), New York: Basic Books.
-* Carus, A.W., 2007, *Carnap and Twentieth-Century Thought**: Explication as Enlightenment*, Cambridge: Cambridge University Press.
-* Chalmers, D., 2020, “What is Conceptual Engineering and Should It to Be?”, *Inquiry*, published online 16 September 2020. doi:10.1080/0020174X.2020.1817141
-* Creath, R., 1976, “On Kaplan on Carnap on Significance”, *Philosophical Studies*, 30: 393–400.
-* –––, 1990, “Introduction”, in *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work*, R. Creath (ed.), Los Angeles: University of California Press, 1–43.
-* –––, 2009, “The Gentle Strength of Tolerance: *The Logical Syntax of Language* and Carnap’s Philosophical Programme”, in *Carnap’s Logical Syntax of Language*, P. Wagner (ed.), Houndsmills, Basingstoke, UK: Palgrave Macmillan, 203–214.
-* Earman, J., 1992, *Bayes or Bust: A Critical Examination of Bayesian Confirmation Theory*, Cambridge, MA: MIT Press.
-* Friedman, M., 1987, “Carnap’s *Aufbau* Reconsidered”, *Noûs*, 21: 521–45.
-* Gillies, D., 2000, “Varieties of Propensity”, *British Journal for the Philosophy of Science*, 51: 807–835.
-* Gödel, K., 1995, “Is Mathematics Syntax of Language?” in K. Gödel, *Collected Works* (Volume 3), S. Fefferman, et al. (eds.), Oxford: Oxford University Press, 334–362.
-* Haslanger, S. 2000, “Gender and Race (What Are They? What Do We Want Them to Be?”, *Noûs*, 34: 31–55.
-* Hempel, C.G., 1950, “Problems and Changes in the Empiricist Criterion of Meaning”, *Revue International de Philosophie*, 11: 41–63.
-* –––, 1951, “The Concept of Cognitive Significance: A Reconsideration”, *Proceedings of the American Academy of Arts and Sciences*, 80: 61–77.
-* Howson, C. and Urbach, P., 1993, *Scientific Reasoning: The Bayesian Approach*, LaSalle, IL: Open Court.
-* –––, 2004, *Subjective Probability: The Real Thing*, Cambridge: Cambridge University Press.
-* Kaplan, D., 1975, “Significance and Analyticity: A Comment on Some Recent Proposals of Carnap”, in *Rudolf Carnap, Logical Empiricist*, J. Hintikka (ed.), Dordrecht, Boston: Reidel, 87–94.
-* Kemeny, J., 1955, “Fair Bets and Inductive Probabilities”, *Journal of Symbolic Logic*, 20: 263–73.
-* Kitcher, Philip. 2008, “Carnap and the Caterpillar”, *Philosophical Topics*, 36: 111–27.
-* Kuhn, T., 1962, *The Structure of Scientific Revolutions*, *International Encyclopedia of Unified Science* (Volume II, Number 2), Chicago: University of Chicago Press.
-* Passmore, J., 1967, “Logical Positivism”, *The Encyclopedia of Philosophy* (Volume 5), P. Edwards (ed.), New York: Macmillan, 52–57.
-* Popper, K., 1935/1959, *Logik der Forschung*, translated by the author as *The Logic of Scientific Discovery*, New York: Basic Books.
-* –––, 1957, “The Propensity Interpretation of the Calculus of Probability”, S. Körner (ed.), *The Colston Papers*, 9: 65–70.
-* –––, 1959, “The Propensity Interpretation of Probability”, *British Journal for the Philosophy of Science*, 10: 25–42.
-* Quine, W.V., 1951, “Two Dogmas of Empiricism”, *Philosophical Review*, 60: 20–43.
-* –––, 1963, “Carnap and Logical Truth”, in *The Philosophy of Rudolf Carnap*, P. Schilpp (ed.), LaSalle, IL: Open Court, 385–406.
-* –––, 1974, *The Roots of Reference*, LaSalle, IL: Open Court.
-* Reichenbach, H., 1916/2008, *Der Begriff der Wahrscheinlichkeit für die mathematische Darstellung der Wirklichkeit*, edited and translated by F. Eberhardt and C. Glymour as *The Concept of Probability in the Mathematical Representation of Reality*, LaSalle, IL: Open Court.
-* –––, 1938, *Experience and Prediction: An Analysis of the Foundations and the Structure of Knowledge*, Chicago: University of Chicago Press.
-* Richardson, A., 1998, *Carnap’s Construction of the World: The* Aufbau *and the Emergence of Logical Empiricism*, Cambridge: Cambridge University Press.
-* Russell, B., 1914, *Our Knowledge of the External World as a Field for Scientific Method in Philosophy*, LaSalle, IL: Open Court.
-* Salmon, W., 1967, *The Foundations of Scientific Inference*, Pittsburgh: University of Pittsburgh Press.
-* –––, 1968, “The Justification of Inductive Rules of Inference”, in *The Problem of Inductive Logic*, I. Lakatos (ed.), Amsterdam: North-Holland, 24–43.
-* –––, 1970, “Statistical Explanation”, in *Nature and Function of Scientific Theories*, R. Colodny (ed.), Pittsburgh: University of Pittsburgh Press, 173–231.
-* Schilpp, P. (ed.), 1974, *The Philosophy of Karl Popper*, LaSalle, IL: Open Court.
-* Suppes, P., 1978, “The Plurality of Science”, in *PSA 1978: Proceedings of the 1978 Biennial Meeting of the Philosophy of Science Association* (Volume 2), P. Asquith and I. Hacking (eds.), East Lansing, MI: Philosophy of Science Association, 3–16.
-* Tarski, A., 1936a/1956, “Der Wahrheitsbegriff in den formalisierten Sprachen”, translated by J.H. Woodger as “The Concept of Truth in Formalized Languages” in *Logic, Semantics, Metamathematics*, by A. Tarski, Oxford: Clarendon Press, 152–278.
-* –––, 1936b/1956, “Über den Begriff den logischen Folgerung”, translated by J.H. Woodger as “On the Concept of Logical Consequence”, in *Logic, Semantics, Metamathematics*, by A. Tarski, Oxford: Clarendon Press, 409–20.
-* Uebel, T., 2012, “Carnap, Philosophy, and ‘Politics in its Broadest Sense’”, in *Carnap and the Legacy of Logical Empiricism*, R. Creath (ed.), Vienna: Springer, 133–145.
-* –––, 2013, “Logical Positivism – Logical Empiricism: What’s in a Name?”, *Perspectives of Science*, 21: 58–99.
-* Waismann, F., 1967/1979, *Wittgenstein und der Wiener Kreis*, translated by J. Schulte and B. McGinnis as *Wittgenstein and the Vienna Circle*, Oxford: Basil Blackwell.
-* Wittgenstein, L., 1921/1922, *Logische-Philosophische Abhandlung*, translated by C.K. Ogden as *Tractatus Logico-Philosophicus*, London: Routledge & Kegan Paul.
-* Zabell, S. L., 2007, “Carnap on Probability and Induction”, in *The Cambridge Companion to Carnap*, M. Friedman and R. Creath (eds.), Cambridge: Cambridge University Press, 273–294.
+* Ayer, A.J., 1936, _Language Truth, and Logic_, London: Gollancz.
+* Blatti, S. and S. Lapointe (eds.), 2016, _Ontology After Carnap_, Oxford: Oxford University Press.
+* Carnap, R., 1928/1967, _Der logische Aufbau der Welt_, translated by R.A. George as _The Logical Structure of the World_, Berkeley: University of California Press.
+* –––, 1934/1937, _Logische Syntax der Sprache_, translated by A. Smeaton as _The Logical Syntax of Language_, London: Kegan Paul, Trench, Trubner & Co.
+* –––, 1935, _Philosophy and Logical Syntax_, London: Kegan Paul, Trench, Trubner, & Co.
+* –––, 1936–37, “Testability and Meaning”, _Philosophy of Science_, 3: 419–71, 4: 1–40.
+* –––, 1938, “Logical Foundations of the Unity of Science”, _International Encyclopedia of Unified Science_ (Volume 1, Number 1), Chicago: University of Chicago Press, 42–62.
+* –––, 1942, _Introduction to Semantics_, Cambridge, MA: Harvard University Press.
+* –––, 1950, _Logical Foundations of Probability_, Chicago: University of Chicago Press.
+* –––, 1958 \[2017], “Value Concepts”, transcribed and translated by A. Carus, _Synthese_ 194: 185–94. \[Original manuscript [available online](http://digital.library.pitt.edu/u/ulsmanuscripts/pdf/31735061815522.pdf)]
+* –––, 1963a, “Carl G. Hempel on Scientific Theories”, in _The Philosophy of Rudolf Carnap_, P.A. Schilpp (ed.), LaSalle, IL: Open Court, 958–66.
+* –––, 1963b, “K.R. Popper on Probability and Induction”, in _The Philosophy of Rudolf Carnap_, P.A. Schilpp (ed.), LaSalle, IL: Open Court, 995–998.
+* –––, 1966, _Philosophical Foundations of Physics_, M. Gardner (ed.), New York: Basic Books.
+* Carus, A.W., 2007, _Carnap and Twentieth-Century Thought_\*: Explication as Enlightenment\*, Cambridge: Cambridge University Press.
+* Chalmers, D., 2020, “What is Conceptual Engineering and Should It to Be?”, _Inquiry_, published online 16 September 2020. doi:10.1080/0020174X.2020.1817141
+* Creath, R., 1976, “On Kaplan on Carnap on Significance”, _Philosophical Studies_, 30: 393–400.
+* –––, 1990, “Introduction”, in _Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work_, R. Creath (ed.), Los Angeles: University of California Press, 1–43.
+* –––, 2009, “The Gentle Strength of Tolerance: _The Logical Syntax of Language_ and Carnap’s Philosophical Programme”, in _Carnap’s Logical Syntax of Language_, P. Wagner (ed.), Houndsmills, Basingstoke, UK: Palgrave Macmillan, 203–214.
+* Earman, J., 1992, _Bayes or Bust: A Critical Examination of Bayesian Confirmation Theory_, Cambridge, MA: MIT Press.
+* Friedman, M., 1987, “Carnap’s _Aufbau_ Reconsidered”, _Noûs_, 21: 521–45.
+* Gillies, D., 2000, “Varieties of Propensity”, _British Journal for the Philosophy of Science_, 51: 807–835.
+* Gödel, K., 1995, “Is Mathematics Syntax of Language?” in K. Gödel, _Collected Works_ (Volume 3), S. Fefferman, et al. (eds.), Oxford: Oxford University Press, 334–362.
+* Haslanger, S. 2000, “Gender and Race (What Are They? What Do We Want Them to Be?”, _Noûs_, 34: 31–55.
+* Hempel, C.G., 1950, “Problems and Changes in the Empiricist Criterion of Meaning”, _Revue International de Philosophie_, 11: 41–63.
+* –––, 1951, “The Concept of Cognitive Significance: A Reconsideration”, _Proceedings of the American Academy of Arts and Sciences_, 80: 61–77.
+* Howson, C. and Urbach, P., 1993, _Scientific Reasoning: The Bayesian Approach_, LaSalle, IL: Open Court.
+* –––, 2004, _Subjective Probability: The Real Thing_, Cambridge: Cambridge University Press.
+* Kaplan, D., 1975, “Significance and Analyticity: A Comment on Some Recent Proposals of Carnap”, in _Rudolf Carnap, Logical Empiricist_, J. Hintikka (ed.), Dordrecht, Boston: Reidel, 87–94.
+* Kemeny, J., 1955, “Fair Bets and Inductive Probabilities”, _Journal of Symbolic Logic_, 20: 263–73.
+* Kitcher, Philip. 2008, “Carnap and the Caterpillar”, _Philosophical Topics_, 36: 111–27.
+* Kuhn, T., 1962, _The Structure of Scientific Revolutions_, _International Encyclopedia of Unified Science_ (Volume II, Number 2), Chicago: University of Chicago Press.
+* Passmore, J., 1967, “Logical Positivism”, _The Encyclopedia of Philosophy_ (Volume 5), P. Edwards (ed.), New York: Macmillan, 52–57.
+* Popper, K., 1935/1959, _Logik der Forschung_, translated by the author as _The Logic of Scientific Discovery_, New York: Basic Books.
+* –––, 1957, “The Propensity Interpretation of the Calculus of Probability”, S. Körner (ed.), _The Colston Papers_, 9: 65–70.
+* –––, 1959, “The Propensity Interpretation of Probability”, _British Journal for the Philosophy of Science_, 10: 25–42.
+* Quine, W.V., 1951, “Two Dogmas of Empiricism”, _Philosophical Review_, 60: 20–43.
+* –––, 1963, “Carnap and Logical Truth”, in _The Philosophy of Rudolf Carnap_, P. Schilpp (ed.), LaSalle, IL: Open Court, 385–406.
+* –––, 1974, _The Roots of Reference_, LaSalle, IL: Open Court.
+* Reichenbach, H., 1916/2008, _Der Begriff der Wahrscheinlichkeit für die mathematische Darstellung der Wirklichkeit_, edited and translated by F. Eberhardt and C. Glymour as _The Concept of Probability in the Mathematical Representation of Reality_, LaSalle, IL: Open Court.
+* –––, 1938, _Experience and Prediction: An Analysis of the Foundations and the Structure of Knowledge_, Chicago: University of Chicago Press.
+* Richardson, A., 1998, _Carnap’s Construction of the World: The_ Aufbau _and the Emergence of Logical Empiricism_, Cambridge: Cambridge University Press.
+* Russell, B., 1914, _Our Knowledge of the External World as a Field for Scientific Method in Philosophy_, LaSalle, IL: Open Court.
+* Salmon, W., 1967, _The Foundations of Scientific Inference_, Pittsburgh: University of Pittsburgh Press.
+* –––, 1968, “The Justification of Inductive Rules of Inference”, in _The Problem of Inductive Logic_, I. Lakatos (ed.), Amsterdam: North-Holland, 24–43.
+* –––, 1970, “Statistical Explanation”, in _Nature and Function of Scientific Theories_, R. Colodny (ed.), Pittsburgh: University of Pittsburgh Press, 173–231.
+* Schilpp, P. (ed.), 1974, _The Philosophy of Karl Popper_, LaSalle, IL: Open Court.
+* Suppes, P., 1978, “The Plurality of Science”, in _PSA 1978: Proceedings of the 1978 Biennial Meeting of the Philosophy of Science Association_ (Volume 2), P. Asquith and I. Hacking (eds.), East Lansing, MI: Philosophy of Science Association, 3–16.
+* Tarski, A., 1936a/1956, “Der Wahrheitsbegriff in den formalisierten Sprachen”, translated by J.H. Woodger as “The Concept of Truth in Formalized Languages” in _Logic, Semantics, Metamathematics_, by A. Tarski, Oxford: Clarendon Press, 152–278.
+* –––, 1936b/1956, “Über den Begriff den logischen Folgerung”, translated by J.H. Woodger as “On the Concept of Logical Consequence”, in _Logic, Semantics, Metamathematics_, by A. Tarski, Oxford: Clarendon Press, 409–20.
+* Uebel, T., 2012, “Carnap, Philosophy, and ‘Politics in its Broadest Sense’”, in _Carnap and the Legacy of Logical Empiricism_, R. Creath (ed.), Vienna: Springer, 133–145.
+* –––, 2013, “Logical Positivism – Logical Empiricism: What’s in a Name?”, _Perspectives of Science_, 21: 58–99.
+* Waismann, F., 1967/1979, _Wittgenstein und der Wiener Kreis_, translated by J. Schulte and B. McGinnis as _Wittgenstein and the Vienna Circle_, Oxford: Basil Blackwell.
+* Wittgenstein, L., 1921/1922, _Logische-Philosophische Abhandlung_, translated by C.K. Ogden as _Tractatus Logico-Philosophicus_, London: Routledge & Kegan Paul.
+* Zabell, S. L., 2007, “Carnap on Probability and Induction”, in _The Cambridge Companion to Carnap_, M. Friedman and R. Creath (eds.), Cambridge: Cambridge University Press, 273–294.
 
 ### Other Selected Literature
 
-* Awodey, S. and A. W. Carus, 2004, “How Carnap Could Have Replied to Gödel”, in S. Awodey and C. Klein (eds.), *Carnap Brought Home: The View From Jena*, LaSalle, IL: Open Court, 203–223.
-* Cartwright, N. , J. Cat, L. Fleck, and T. Übel, 1996, *Otto Neurath: Philosophy Between Science and Politics*, Cambridge: Cambridge University Press.
-* Carnap, R. 2019, *The Collected Works of Rudolf Carnap, Vol. 1, Early Writings*, A. Carus et al. (eds.), Oxford: Oxford University Press.
-* Creath, R. 1990, *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work*, R. Creath (ed.), Los Angeles: University of California Press.
-* Friedman, M., 1987, “Carnap’s *Aufbau* Reconsidered”, *Noûs*, 21: 521–45.
-* –––, 1999, *Reconsidering Logical Positivism*, Cambridge: Cambridge University Press.
-* –––, 2000, *A Parting of the Ways: Carnap, Cassirer, and Heidegger*, LaSalle, IL: Open Court.
-* Friedman, M. and R. Creath (eds.), 2007, *The Cambridge Companion to Carnap*, Cambridge: Cambridge University Press.
-* Frost-Arnold, G., 2013, *Carnap, Tarski, and Quine at Harvard: Conversations of Logic, Mathematics, and Science*, Chicago: Open Court.
-* Hintikka, J. (ed.), 1962, *Logic and Language: Studies Dedicated to Professor Rudolf Carnap on the Occasion of His Seventieth Birthday*, Dordrecht: Reidel.
-* ––– (ed.), 1975, *Rudolf Carnap, Logical Empiricist: Materials and Perspectives*, Dordrecht: Reidel.
-* Howson, C., 1973, “Must the Logical Probability of Laws be Zero?” *British Journal for Philosophy of Science*, 24: 153–163.
-* Jeffrey, R., 1975, “Probability and Falsification: Critique of the Popper Program”, *Synthese*, 30: 95–117.
-* –––, 2004, *Subjective Probability: The Real Thing*, Cambridge: Cambridge University Press.
-* Mancosu, P., “Harvard 1940–41: Tarski, Carnap, and Quine on a Finitistic Language of Mathematics for Science”, *History and Philosophy of Logic*, 26: 327–57.
-* Miller, D., 1997, “Sir Karl Raimund Popper, CH, FBA”, *Biographical Memoirs of Fellows of the Royal Society of London*, 43: 367–409.
-* Parrini, P., W. Salmon, and M. Salmon (eds.), 2003, *Logical Empiricism: Historical and Contemporary Perspectives*, Pittsburgh: University of Pittsburgh Press.
-* Rescher, N. (ed.), 1985, *The Heritage of Logical Positivism*, Lanham, MD: University Presses of America.
-* Rescher, N., 2006, “The Berlin School of Logical Empiricism and Its Legacy”, *Erkenntnis*, 64: 281–304.
-* Richardson, A., 1998, *Carnap’s Construction of the World: The* Aufbau*and the Emergence of Logical Empiricism*, Cambridge: Cambridge University Press.
-* Richardson, A. and Übel, T. (eds.), 2007, *The Cambridge Companion to Logical Empiricism*, New York: Cambridge University Press.
-* Salmon, W. and G. Wolters (eds.), 1994, *Language, Logic, and the Structure of Scientific Theories: The Carnap-Reichenbach Centennial*, Pittsburgh: University of Pittsburgh Press, and Konstanz, Germany: University of Konstanz Press.
-* Sarkar, S., (ed.), 1992, *Synthese: Carnap: A Centenary Reappraisal*, 93(1–2).
-* Schilpp, P. (ed.), 1963, *The Philosophy of Rudolf Carnap*, LaSalle, IL: Open Court.
-* Spohn, W. (ed.), 1991, *Erkenntnis: Special Volume in Honor of Rudolf Carnap and Hans Reichenbach*, 35(1–3).
-* Stadler, F., 1997/2001, *Studien zum Wiener Kreis: Entwicklung und Wirkung des Logischen Empiricismus im Kontext*, translated by C. Nielsen, et al. as *The Vienna Circle: Studies in the Origins, Development and Influence of Logical Empiricism*, Vienna: Springer.
-* Übel, T., 2007, *Empiricism at the Crossroads: The Vienna Circle’s Protocol-Sentence Debate Revisited*, LaSalle, IL: Open Court.
-* Zabell, S. L., 1996, “Confirming Universal Generalizations”, *Erkenntnis*, 45: 267–283.
+* Awodey, S. and A. W. Carus, 2004, “How Carnap Could Have Replied to Gödel”, in S. Awodey and C. Klein (eds.), _Carnap Brought Home: The View From Jena_, LaSalle, IL: Open Court, 203–223.
+* Cartwright, N. , J. Cat, L. Fleck, and T. Übel, 1996, _Otto Neurath: Philosophy Between Science and Politics_, Cambridge: Cambridge University Press.
+* Carnap, R. 2019, _The Collected Works of Rudolf Carnap, Vol. 1, Early Writings_, A. Carus et al. (eds.), Oxford: Oxford University Press.
+* Creath, R. 1990, _Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work_, R. Creath (ed.), Los Angeles: University of California Press.
+* Friedman, M., 1987, “Carnap’s _Aufbau_ Reconsidered”, _Noûs_, 21: 521–45.
+* –––, 1999, _Reconsidering Logical Positivism_, Cambridge: Cambridge University Press.
+* –––, 2000, _A Parting of the Ways: Carnap, Cassirer, and Heidegger_, LaSalle, IL: Open Court.
+* Friedman, M. and R. Creath (eds.), 2007, _The Cambridge Companion to Carnap_, Cambridge: Cambridge University Press.
+* Frost-Arnold, G., 2013, _Carnap, Tarski, and Quine at Harvard: Conversations of Logic, Mathematics, and Science_, Chicago: Open Court.
+* Hintikka, J. (ed.), 1962, _Logic and Language: Studies Dedicated to Professor Rudolf Carnap on the Occasion of His Seventieth Birthday_, Dordrecht: Reidel.
+* ––– (ed.), 1975, _Rudolf Carnap, Logical Empiricist: Materials and Perspectives_, Dordrecht: Reidel.
+* Howson, C., 1973, “Must the Logical Probability of Laws be Zero?” _British Journal for Philosophy of Science_, 24: 153–163.
+* Jeffrey, R., 1975, “Probability and Falsification: Critique of the Popper Program”, _Synthese_, 30: 95–117.
+* –––, 2004, _Subjective Probability: The Real Thing_, Cambridge: Cambridge University Press.
+* Mancosu, P., “Harvard 1940–41: Tarski, Carnap, and Quine on a Finitistic Language of Mathematics for Science”, _History and Philosophy of Logic_, 26: 327–57.
+* Miller, D., 1997, “Sir Karl Raimund Popper, CH, FBA”, _Biographical Memoirs of Fellows of the Royal Society of London_, 43: 367–409.
+* Parrini, P., W. Salmon, and M. Salmon (eds.), 2003, _Logical Empiricism: Historical and Contemporary Perspectives_, Pittsburgh: University of Pittsburgh Press.
+* Rescher, N. (ed.), 1985, _The Heritage of Logical Positivism_, Lanham, MD: University Presses of America.
+* Rescher, N., 2006, “The Berlin School of Logical Empiricism and Its Legacy”, _Erkenntnis_, 64: 281–304.
+* Richardson, A., 1998, _Carnap’s Construction of the World: The_ Aufbau_and the Emergence of Logical Empiricism_, Cambridge: Cambridge University Press.
+* Richardson, A. and Übel, T. (eds.), 2007, _The Cambridge Companion to Logical Empiricism_, New York: Cambridge University Press.
+* Salmon, W. and G. Wolters (eds.), 1994, _Language, Logic, and the Structure of Scientific Theories: The Carnap-Reichenbach Centennial_, Pittsburgh: University of Pittsburgh Press, and Konstanz, Germany: University of Konstanz Press.
+* Sarkar, S., (ed.), 1992, _Synthese: Carnap: A Centenary Reappraisal_, 93(1–2).
+* Schilpp, P. (ed.), 1963, _The Philosophy of Rudolf Carnap_, LaSalle, IL: Open Court.
+* Spohn, W. (ed.), 1991, _Erkenntnis: Special Volume in Honor of Rudolf Carnap and Hans Reichenbach_, 35(1–3).
+* Stadler, F., 1997/2001, _Studien zum Wiener Kreis: Entwicklung und Wirkung des Logischen Empiricismus im Kontext_, translated by C. Nielsen, et al. as _The Vienna Circle: Studies in the Origins, Development and Influence of Logical Empiricism_, Vienna: Springer.
+* Übel, T., 2007, _Empiricism at the Crossroads: The Vienna Circle’s Protocol-Sentence Debate Revisited_, LaSalle, IL: Open Court.
+* Zabell, S. L., 1996, “Confirming Universal Generalizations”, _Erkenntnis_, 45: 267–283.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logical-empiricism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/logical-empiricism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=logical-empiricism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/logical-empiricism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logical-empiricism).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/logical-empiricism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=logical-empiricism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/logical-empiricism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [Rudolf Carnap](http://www.carnap.org/), maintained by Douglas Marshall (University of Minnesota).
-* [Institute Vienna Circle](http://www.univie.ac.at/ivc/e_institut/index.htm), Society for the Advancement of the Scientific World Conception, Vienna.
+* [Institute Vienna Circle](http://www.univie.ac.at/ivc/e\_institut/index.htm), Society for the Advancement of the Scientific World Conception, Vienna.
 * [Willard Van Orman Quine](http://www.wvquine.org/), maintained by Douglas Boynton Quine.
 * [Archives of Scientific Philosophy](http://pitt.libguides.com/asp), Special Collections Department, University Library System, University of Pittsburgh.
 * [Vienna Circle Foundation](https://web.archive.org/web/20190607080152/https://viennacirclefoundation.nl/), to promote studies of the work of members of the Vienna Circle and to protect the Vienna Circle Archive, Amsterdam (this webpage is archived at the Internet Archive).
 
 ## Related Entries
 
-[Ayer, Alfred Jules](https://plato.stanford.edu/entries/ayer/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [Hempel, Carl](https://plato.stanford.edu/entries/hempel/) | [Neurath, Otto](https://plato.stanford.edu/entries/neurath/) | [Popper, Karl](https://plato.stanford.edu/entries/popper/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [Reichenbach, Hans](https://plato.stanford.edu/entries/reichenbach/) | [Sellars, Wilfrid](https://plato.stanford.edu/entries/sellars/) | [Tarski, Alfred](https://plato.stanford.edu/entries/tarski/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
+[Ayer, Alfred Jules](https://plato.stanford.edu/entries/ayer/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [Hempel, Carl](https://plato.stanford.edu/entries/hempel/) | [Neurath, Otto](https://plato.stanford.edu/entries/neurath/) | [Popper, Karl](https://plato.stanford.edu/entries/popper/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [Reichenbach, Hans](https://plato.stanford.edu/entries/reichenbach/) | [Sellars, Wilfrid](https://plato.stanford.edu/entries/sellars/) | [Tarski, Alfred](https://plato.stanford.edu/entries/tarski/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Richard Creath](https://search.asu.edu/profile/44773) <[*creath@asu.edu*](mailto:creath%40asu%2eedu)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Richard Creath](https://search.asu.edu/profile/44773) <[_creath@asu.edu_](mailto:creath%40asu%2eedu)>

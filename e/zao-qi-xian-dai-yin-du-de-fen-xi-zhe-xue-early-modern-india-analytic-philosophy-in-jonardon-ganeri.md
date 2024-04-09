@@ -1,74 +1,62 @@
 # 早期现代印度的分析哲学 Early Modern India, analytic philosophy in (Jonardon Ganeri)
 
-*首次发表于 2009 年 3 月 10 日星期二；实质性修订于 2023 年 11 月 5 日星期日*
+_首次发表于 2009 年 3 月 10 日星期二；实质性修订于 2023 年 11 月 5 日星期日_
 
 早期印度的两个哲学传统，早期 Nyāya（以高达摩·阿克沙帕达的 Nyāya-sūtra 为基础，约公元 100 年，主要涉及逻辑学、认识论和辩论理论）和 Vaiśeṣika（以卡纳达的 Vaiśeṣika-sūtra 为基础，约公元前 100 年，主要涉及本体论），在某个时候直到 11 或 12 世纪，它们并行发展，最终合并形成一个新学派，称为“Navya-Nyāya”，即新 Nyāya 或“新理性”学派（Ganeri 2011）。尽管其名称为 Navya-Nyāya，但它融合并发展了古典 Vaiśeṣika 形而上学以及古典 Nyāya 认识论。Navya-Nyāya 的作者们还通过运用精确的技术语言发展出许多传统哲学问题可以得到澄清和解决。Navya-Nyāya 的技术证明是如此多才多艺，以至于它们不仅被哲学家使用，还被用于诗学、语言学、法律理论和其他中世纪印度思想领域。这个学派的基础文本是 Gaṅgeśa 的杰出而创新的《真理反思之宝》（Tattvacintāmaṇi）。该学派持续发展了大约四个世纪，达到了其巅峰，作品有 Raghunātha、Jagadīśa 和 Gadādhara（Ganeri 2014）。该学派对其技术词汇的精湛运用使其变得越来越难以理解，因此，在 17 和 18 世纪，写了几本手册或概要来用简化的语言解释该学派的基本原则。我将根据其中最成功的一本概要，Annambhaṭṭa 的《理性手册》（Tarkasaṃgraha；以下简称 TS），以及其自注释 Dīpikā（以下简称 TSD），描述 Navya-Nyāya 的哲学原则。这本文本被昵称为 Bāla-gādādharī，一种对 Gadādhara 的“初学者指南”。《理性手册》不仅呈现了 Vaiśeṣika 的范畴理论（物理理论、形而上学和心理哲学的混合），以及新 Nyāya 系统的认识论、方法论和逻辑技术，还插入了有关各种哲学问题的迷人讨论，使文本成为后来印度分析哲学的一部有趣且富有启发性的介绍（G. Bhattacharya 1983 翻译；有关该文本的讨论，还请参阅 Athalye 1930，Atreya 1948，C. Bhattacharya 1966，Foucher 1949，Shastri 1961）。
 
 * [唯识学派的范畴系统](https://plato.stanford.edu/entries/early-modern-india/#VaiSysCat)
-
   * [方法论与定义理论](https://plato.stanford.edu/entries/early-modern-india/#MetTheDef)
   * [1.2 什么是独立实体系统的类别？](https://plato.stanford.edu/entries/early-modern-india/#WhaVaiSysCat)
 * [1.3 列表的基本结构](https://plato.stanford.edu/entries/early-modern-india/#UndStrLis)
 * [物质实体](https://plato.stanford.edu/entries/early-modern-india/#PhySub)
-
   * [五大主要物质](https://plato.stanford.edu/entries/early-modern-india/#FivPriPhySub)
-  * [ 2.2 瓦伊舍什卡原子论](https://plato.stanford.edu/entries/early-modern-india/#VaiAto)
+  * [2.2 瓦伊舍什卡原子论](https://plato.stanford.edu/entries/early-modern-india/#VaiAto)
   * [2.3 数字的形而上学（saṃkhyā）](https://plato.stanford.edu/entries/early-modern-india/#MetNumSak)
 * [空间、时间和运动](https://plato.stanford.edu/entries/early-modern-india/#SpaTimMot)
-
-  * [ 3.1 空间 (dik)](https://plato.stanford.edu/entries/early-modern-india/#SpaDik)
-  * [ 时间（kāla）](https://plato.stanford.edu/entries/early-modern-india/#TimKla)
+  * [3.1 空间 (dik)](https://plato.stanford.edu/entries/early-modern-india/#SpaDik)
+  * [时间（kāla）](https://plato.stanford.edu/entries/early-modern-india/#TimKla)
   * [3.3 Vaiśeṣika 动力学理论：运动的性质和原因](https://plato.stanford.edu/entries/early-modern-india/#VaiDynTheNatCauMot)
 * [人类和神的自我](https://plato.stanford.edu/entries/early-modern-india/#SouHumDiv)
-
   * [4.1 一个关于上帝存在的因果论证](https://plato.stanford.edu/entries/early-modern-india/#CauArgForGodExi)
   * [4.2 人类自我存在的论证](https://plato.stanford.edu/entries/early-modern-india/#ArgForExiHumSou)
 * [哲学心理学](https://plato.stanford.edu/entries/early-modern-india/#PhiPsy)
-
   * [哲学心理学概述](https://plato.stanford.edu/entries/early-modern-india/#OvePhiPsy)
-  * [ 5.2 记忆](https://plato.stanford.edu/entries/early-modern-india/#Mem)
-  * [ 怀疑（saṃśaya）](https://plato.stanford.edu/entries/early-modern-india/#DouSas)
-  * [5.4 *Tarka “Suppositional Thinking”](https://plato.stanford.edu/entries/early-modern-india/#TarSupThi)
+  * [5.2 记忆](https://plato.stanford.edu/entries/early-modern-india/#Mem)
+  * [怀疑（saṃśaya）](https://plato.stanford.edu/entries/early-modern-india/#DouSas)
+  * [5.4 \*Tarka “Suppositional Thinking”](https://plato.stanford.edu/entries/early-modern-india/#TarSupThi)
 * [因果关系与知识的因果理论](https://plato.stanford.edu/entries/early-modern-india/#CauCauTheKno)
-
   * [因果关系概述](https://plato.stanford.edu/entries/early-modern-india/#OveCau)
   * [6.2 引起的三种类型](https://plato.stanford.edu/entries/early-modern-india/#ThrTypCau)
   * [什么是原因？](https://plato.stanford.edu/entries/early-modern-india/#WhaCau)
   * [6.4 因果关系与知识](https://plato.stanford.edu/entries/early-modern-india/#CauKno)
 * [感知、概念和感对象关系](https://plato.stanford.edu/entries/early-modern-india/#PerConSenObjRel)
-
   * [“资格性感知”与概念的作用](https://plato.stanford.edu/entries/early-modern-india/#QuaPerRolCon)
   * [7.2 感官-对象关系的类型](https://plato.stanford.edu/entries/early-modern-india/#TypSenObjRel)
   * [7.3 Gaṅgeśa 的批评和新定义](https://plato.stanford.edu/entries/early-modern-india/#GagCriNewDef)
 * [逻辑理论与甘哥沙对推理授权（vyāpti）的分析](https://plato.stanford.edu/entries/early-modern-india/#LogTheGagAnaInfWarVyp)
-
   * [逻辑理论概述](https://plato.stanford.edu/entries/early-modern-india/#OveLogThe)
   * [普遍关系（vyāpti）的定义](https://plato.stanford.edu/entries/early-modern-india/#DefPerVypRel)
   * [8.3 无反例定义](https://plato.stanford.edu/entries/early-modern-india/#NoCouExaDef)
   * [8.4 Gaṅgeśa 的定义：‘siddhānta-lakṣaṇa’](https://plato.stanford.edu/entries/early-modern-india/#GagDefSidLak)
 * [意义、理解与证词](https://plato.stanford.edu/entries/early-modern-india/#MeaUndTes)
-
   * [语言处理机制](https://plato.stanford.edu/entries/early-modern-india/#LanProMec)
   * [9.2 语义权力与语义属性的减少](https://plato.stanford.edu/entries/early-modern-india/#SemPowRedSemPro)
-  * [ 9.3 证词](https://plato.stanford.edu/entries/early-modern-india/#Tes)
+  * [9.3 证词](https://plato.stanford.edu/entries/early-modern-india/#Tes)
 * [早期现代印度《Vaiśeṣika 关于普遍性、内在性和基本差异的概念》](https://plato.stanford.edu/entries/early-modern-india/#VaiConUniInhBasDif)
-
-  * [ 10.1 普遍论](https://plato.stanford.edu/entries/early-modern-india/#Uni)
+  * [10.1 普遍论](https://plato.stanford.edu/entries/early-modern-india/#Uni)
   * [10.2 基本差异（viśeṣa）](https://plato.stanford.edu/entries/early-modern-india/#BasDifVis)
 * [不存在的本体论（abhāva）和否定陈述的语义学](https://plato.stanford.edu/entries/early-modern-india/#OntNonAbhSemNegSta)
-
-  * [ 11.1 动机](https://plato.stanford.edu/entries/early-modern-india/#Mot)
+  * [11.1 动机](https://plato.stanford.edu/entries/early-modern-india/#Mot)
   * [11.2 Temporally and Spatially Located Absence](https://plato.stanford.edu/entries/early-modern-india/#TemSpaLocAbs)
   * [11.3 否定的逻辑](https://plato.stanford.edu/entries/early-modern-india/#LogNeg)
-* [ 参考文献](https://plato.stanford.edu/entries/early-modern-india/#Bib)
-
+* [参考文献](https://plato.stanford.edu/entries/early-modern-india/#Bib)
   * [早期现代印度的 Navya-Nyāya 文本的英文翻译](https://plato.stanford.edu/entries/early-modern-india/#NavNyyTexEngTra)
-  * [ 一般作品](https://plato.stanford.edu/entries/early-modern-india/#GenWor)
-* [ 学术工具](https://plato.stanford.edu/entries/early-modern-india/#Aca)
+  * [一般作品](https://plato.stanford.edu/entries/early-modern-india/#GenWor)
+* [学术工具](https://plato.stanford.edu/entries/early-modern-india/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/early-modern-india/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/early-modern-india/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/early-modern-india/#Rel)
 
----
+***
 
 ## 早期现代印度的独立实体系统
 
@@ -76,7 +64,7 @@
 
 大多数 Nyāya-Vaiśeṣika 文本都以两种方式之一结构化。它们要么遵循传统的 Vaiśeṣika 模式，其中按顺序讨论各个类别及其各种子类，要么遵循佛教逻辑学家 Diṅnāga 采用的模式，后者被 Gaṅgeśa 复制，其中每种知识源依次处理。然而，《理性手册》采用了一种分析风格，这归功于 Vātsyāyana（Nyāya-sūtra 的第一位评论者）。Vātsyāyana 指出：
 
-> 这个[Nyāya]系统将遵循三重程序，即列举（uddeśa），定义（lakṣaṇa）和检验（parīkṣā）。其中，“列举”意味着通过名称提及每个要分析的对象；“定义”意味着引用所命名对象的特征，使其与所有其他对象区分开来；“检验”意味着借助认识手段来确定所定义对象的区分特征的适当性（NS 1.1.3 之前的 Bhāṣya）。
+> 这个\[Nyāya]系统将遵循三重程序，即列举（uddeśa），定义（lakṣaṇa）和检验（parīkṣā）。其中，“列举”意味着通过名称提及每个要分析的对象；“定义”意味着引用所命名对象的特征，使其与所有其他对象区分开来；“检验”意味着借助认识手段来确定所定义对象的区分特征的适当性（NS 1.1.3 之前的 Bhāṣya）。
 
 这种方法的核心在于它对定义的运用，将其构想为所定义事物的差异标志。《理性手册》（TSD 3d）进一步完善了这一概念：它将一个事物类别的“定义”定义为与该类别同等广泛的任何特征。‘牛’这一类别的一个定义特征是‘有颈垂’的属性。请注意，这并没有告诉我们该类别的本质是什么——它仅仅为我们提供了一种综合症或特征，通过它我们可以识别所讨论的事物。我们可以说，纳亚派的人们对定义有一种“诊断性”的概念，而不是“本质主义”的概念。现在“检验”的目的变得清晰：它是为了看看所谓的定义特征是否真的与待定义的类别同等广泛，或者它是否有缺陷，无论是通过“过度覆盖”（参见 ativyāpti；适用于定义对象之外的事物）还是通过“不足覆盖”（参见 avyāpti；不适用于定义对象内的所有事物），或者两者兼而有之。一个正确的定义特征必须是，用现代术语来说，所要定义的事物的必要和充分属性。我们看到在《理性手册》等新维尼亚逻辑文本中，列举、定义和检验的模式一次又一次地重复出现。
 
@@ -92,7 +80,7 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 
 这种对 Vaiśeṣika 系统的重建并不十分令人满意，因为它依赖于一个未解释的、也许是含糊不清的静态和瞬息属性之间的区别，并且留下了两个类别完全未解释的情况。波特（1977）提出了另一种（同样不足）的重建。当我们看 The Manual of Reason 对各个类别的定义时，似乎是在遵循这种方法。The Manual of Reason 对这些类别的定义如下：
 
- 实质
+实质
 
 (i)
 
@@ -102,7 +90,7 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 
 具有品质的东西 (TSD 3)
 
- 质量
+质量
 
 (i)
 
@@ -112,7 +100,7 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 
 普遍性质-特质 (TSD 4)
 
- 运动
+运动
 
 (i)
 
@@ -122,21 +110,21 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 
 普遍运动性 (TSD 5)
 
- 普遍的
+普遍的
 
 永恒的、统一的、并且存在于许多事物中 (TS 82)
 
- 不同种类
+不同种类
 
 存在于永恒物质中并作为它们的区分因素的东西 (TS 83)
 
- 内在性
+内在性
 
 那个永恒的东西和一个关系 (TS 84)
 
- 缺席
+缺席
 
-[未给出一般定义]
+\[未给出一般定义]
 
 这一系列定义存在一些问题，被视为范畴的先验重建。特别是，“物质”和“品质”的定义似乎是联合循环的，除非我们将诸如物质性之类的普遍概念视为已经给定，这使得这些定义有些空洞。我将给出另一个重建，大致遵循伟大的尼亚耶-威舍什卡学派作家乌达雅娜（参见田中 1981 年）的观点。
 
@@ -160,21 +148,17 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 
 或许最初认为五种物质和五种感知品质直接相关，每种品质只存在于一种物质中，如气味仅存在于土中，味道仅存在于水中等（这种观点由瓦斯亚亚纳在 NS 3.1.65–6 下报告）。这可能对“五种物质”理论的起源有所启示，但很早就意识到维持例如土是看不见的，或者其颜色总是由于与火的混合而导致是极不可信的（Bhaduri 1947: 133）。在《维舍舍经》和后来的文本中，物质和感知品质之间的相关性更为复杂，并在以下图表中指示：
 
-|           | odour | taste | colour | touch | sound |
-| ----------- | ------- | ------- | -------- | ------- | ------- |
-| 地球      | x     | x     | x      | x     |       |
+|          | odour | taste | colour | touch | sound |
+| -------- | ----- | ----- | ------ | ----- | ----- |
+| 地球       | x     | x     | x      | x     |       |
 | 水        |       | x     | x      | x     |       |
-| 火焰      |       |       | x      | x     |       |
-| air       |       |       |        | x     |       |
-| * 阿卡莎* |       |       |        |       | x     |
+| 火焰       |       |       | x      | x     |       |
+| air      |       |       |        | x     |       |
+| \* 阿卡莎\* |       |       |        |       | x     |
 
 正统的瓦伊舍什卡观点是，每种物质都以具有特定类型的可感知品质和缺乏某些其他品质为特征。因此，土是具有气味的物质，水具有味道但没有气味，火具有颜色但没有味道或气味，等等。这类定义的一个缺点是，我们无法从可感知品质的检测中推断出存在哪种类型的物质。因此，后来的瓦伊舍什卡寻找一套诊断性定义，试图为每种物质找到一种特定的可感知品质，其存在表明该物质。《理性手册》（TS 10-14）:
 
-> 地球具有独特的气味
-> 水具有冷触感
-> 火具有热触感
-> 空气具有触觉而无色
-> ākāśa 具有声音。
+> 地球具有独特的气味 水具有冷触感 火具有热触感 空气具有触觉而无色 ākāśa 具有声音。
 
 因此，尽管土、水和火都是触觉的，但据称只有水具有冷触感。似乎它找不到空气的积极区别特征，因此回归到更古老的定义风格。
 
@@ -223,11 +207,11 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 2. 空间是诸如“这个在那个东边”等陈述的“基础”（TS 16）
 3. 空间是独特的、无处不在的、永恒的 (TS16)。
 4. 空间是每一个效果的工具原因（TSD16）。
-5. ‘Nearness’ (*aparatva*) and ‘farness’ (*paratva*) are spatial qualities of objects.
+5. ‘Nearness’ (_aparatva_) and ‘farness’ (_paratva_) are spatial qualities of objects.
 
 空间被构想为一种物质，由此可以得出关于距离和方向的陈述，例如“ A 在 B 的东边”（或“ A 靠近 B”，“ A 比 C 更靠近 B”，等等）是客观真实或虚假的。因此，空间是一个解释性的假设：人们认为我们必须假定存在一种新的（空间）物质来解释物体之间的空间关系。问题在于理解这一说法。Bhaduri（1947：216-7）这样做如下（我对他的描述进行了改述）：
 
-> 根据早期现代印度的观点，是空间将[A 和 C]联系在一起。两者与空间以及通过其中介而彼此相连。空间是将联结关系转化为传递关系的东西（Bhaduri）。
+> 根据早期现代印度的观点，是空间将\[A 和 C]联系在一起。两者与空间以及通过其中介而彼此相连。空间是将联结关系转化为传递关系的东西（Bhaduri）。
 
 这个解释存在问题。它假定在任何两个物体之间存在一系列接触的物质对象。但是，鉴于这一假设，我们无需假设存在一种新物质，使一切都与之接触，以创建一个从接触到传递的关系。因为我们可以这样定义“在左边”的概念：x 在 y 的左边当且仅当存在不同的对象 p、q、r、…t，使得 x 与 p 接触，p 与 q 接触，…，t 与 y 接触。
 
@@ -296,7 +280,7 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 
 很明显，我可以失去身体的一部分而不停止相信和知道事物。但失去身体的一部分并不意味着失去整个身体。因此，这个论点是错误的。在《尼耶经》中找到了一个更好的论点：正是“我的身体”这个短语表明我与我的身体并不相同。但这也行不通，因为我也可以说“我的灵魂”！在这里没有明确反对唯物主义的论据。
 
-(2) 信仰等的基础是人的感官 [回想一下，每种物质都被分为三个部分：涉及身体、感官和（无生命的）对象]。这个相当奇怪的说法可能被视为包括佛教徒的观点，即一个人可还原为一系列瞬间的心理事件，包括感官数据等。《理性手册》对这种观点的论证（这是尼耶亚经中已经发现的一个论点的重复）是一个强有力的论证：
+(2) 信仰等的基础是人的感官 \[回想一下，每种物质都被分为三个部分：涉及身体、感官和（无生命的）对象]。这个相当奇怪的说法可能被视为包括佛教徒的观点，即一个人可还原为一系列瞬间的心理事件，包括感官数据等。《理性手册》对这种观点的论证（这是尼耶亚经中已经发现的一个论点的重复）是一个强有力的论证：
 
 > 如果是这种情况，就不会有重新识别的意识（anusandhāna），例如，“看到那个罐子的我现在正在触摸它”，因为一个人无法认识另一个人所理解的东西。
 
@@ -316,20 +300,7 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 
 根据认识论的观点，认知类别中最重要的区分是真实的认知和其他认知之间的区别。然而，尼耶亚学派对认知种类的标准分类，由《理性手册》重复，从另一个区分开始，即记忆认知（smṛti）和其余认知（anubhava；非回忆性认知）。完整的分类如下：
 
-认知 | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | 非回忆
-经验 | | | | | 记忆
-真（smṛti）
-(*pramā*)
- 感知
- 推理
- 基于比较的
-基于证词的 | | 不真实
-(*apramā*)
-错误 (viparyaya; 4 种类型)
- 怀疑（saṃśaya）
-逻辑学 | | | “真”
-(yathārtha) | | “不真实”
-(*ayathārtha*) | | | | | | | | | | | |
+认知 | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | 非回忆 经验 | | | | | 记忆 真（smṛti） (_pramā_) 感知 推理 基于比较的 基于证词的 | | 不真实 (_apramā_) 错误 (viparyaya; 4 种类型) 怀疑（saṃśaya） 逻辑学 | | | “真” (yathārtha) | | “不真实” (_ayathārtha_) | | | | | | | | | | | |
 
 尼耶哲学认识论实际上是关于真实的非回忆认知的理论，并根据它们产生的不同认知手段（pramāṇa-s）将其分为四种类型。（关于偶然真实的认知，例如幸运猜测的结果怎么样？将它们纳入上述框架中存在讨论充分的问题）。很明显，无论我们的认知方法有多么可靠，偶尔会出现错误认知的可能性总是存在（例如感知错觉，由报告错误导致的信念等）。《理性手册》的例子（TS 72）是关于在看到牡蛎壳时做出错误的伪感知判断“这是一块银子”。我将在第 7、8 和 9 节分别讨论感知、推理和证词的认识论。在这里，我将更详细地讨论三种认知类型，尽管在尼耶框架内非常重要，但是作为其认识论的附属。它们是：记忆，‘怀疑’和 tarka。（梦境在这个框架中如何定位？TS 70 指出它们属于‘虚假’认知的范畴。然而，这很奇怪，因为它们不是四种认知手段中任何一种失灵的产物。它们也不是记忆或怀疑的状态。根据普拉萨斯塔帕达的说法，梦境是‘心灵’在未连接外部感官时自由运动的结果，受到 adṛṣṭa，‘看不见’力量的影响。）
 
@@ -353,7 +324,7 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 
 尽管怀疑被归类为非真（apramā）认知，但它们并非虚假。虚假认知是指其内容为“x 是 F”，而实际上 x 并非 F。怀疑与其他认知的区别在于其具有一种特殊类型的内容，而不是具有特殊类型的命题态度。尼耶并未表示我们可以对同一命题采取一系列态度之一，如相信、不相信、怀疑等。然而，如果区分怀疑的唯一标志是其具有《TS 71》中规定形式的内容，那么是什么区分了怀疑 x 是 F 与相信 x 既是 F 又不是 F 的信念？瓦德哈马纳通过区分实际上持有矛盾信念和仅相信自己持有矛盾信念之间的区别来回答这个问题。前者据称是不可能的，据称 x 既是 F 又不是 F 的矛盾信念实际上是一种信念，即我有一个以 x 为限定词、以 F 和非 F 为修饰词的信念。由于不存在真正的矛盾信念，因此也不存在与怀疑相同内容的信念。
 
-### 5.4 *Tarka "Suppositional Thinking"
+### 5.4 \*Tarka "Suppositional Thinking"
 
 “tarka”一词常被宽泛地用于假设性或归谬推理的意义，但《理性手册》赋予其更为精确和技术性的含义
 
@@ -397,7 +368,7 @@ c 是 e 的因果因素当且仅当
 
 认知不是记忆的分类分为两类：真实和虚假。如果我们能找到在真实认知之前不变的因素，那么我们将拥有知识的因果理论的开端。我们将能够说一个认知是一个知识事件，当且仅当它是(i) 真实的，并且(ii) 在一个不变地在真实认知之前的因素之前（即其真实性不是偶然的）。尼耶（TS 39）声称找到四个，且仅有四个，不变的相关性：感知、推理、比较和证词。他们将上述的因果模型应用于每一个。特别地，在每种情况下，他们分离出一个“特殊”的工具原因（karaṇa），他们称之为“pramāṇa”。例如，在感知的情况下，它是感官。请注意，根据上述定义的意义，两个实体之间的不变相关性并不意味着第一个存在时第二个也存在——陶工与罐之间有不变的联系，但只有在他实际“操作”时才会制造罐。同样，一个 pramāṇa，例如眼睛，只有在实际操作时才会导致真实认知。换句话说，pramāṇa 是真实认知的必要但不充分原因。为了得到一个充分原因，尼耶（TSD 69 iii）说：
 
-> 真知识特有的因果条件称为“贡纳”[一种认识卓越]；虚假认知特有的因果条件称为“多萨”[一种认识缺陷]。在感知案例中，真知识“x 是 F”的贡纳是与具有属性[F]的对象[x]的感官连接等。
+> 真知识特有的因果条件称为“贡纳”\[一种认识卓越]；虚假认知特有的因果条件称为“多萨”\[一种认识缺陷]。在感知案例中，真知识“x 是 F”的贡纳是与具有属性\[F]的对象\[x]的感官连接等。
 
 这实际上是真实感知认知的操作条件。因此，所有通常因素的发生（基底原因、非基底原因、一般工具原因等）以及认识卓越（guṇa）是真实认知发生的必要和充分因果条件（另见 Philips 和 Tatacharya 2003）。
 
@@ -466,7 +437,7 @@ Vyāpti 或普遍性，是推理符号（hetu）和被推断属性（sādhya）�
 
 甘哥舍的“普遍五法”包括我们可以称之为“无反例”的普遍关系定义的五种形式。这表明，推断的属性 S 普遍存在于理由属性 H 中，只要没有地方/实体 H 存在而 S 不存在。形式上：
 
- 抽象的概念在哲学中扮演着重要角色。根据康德的观点，时间和空间是我们对世界的感知方式。康德的《纯粹理性批判》探讨了理性的极限，以及我们如何理解现实。尼采则强调了意志的力量，认为个体的意志是超越传统道德的关键。早期现代印度的哲学家们也对自我和宇宙的本质进行了深入的探讨。这些思想家们的观点在当今哲学领域仍具有重要意义
+抽象的概念在哲学中扮演着重要角色。根据康德的观点，时间和空间是我们对世界的感知方式。康德的《纯粹理性批判》探讨了理性的极限，以及我们如何理解现实。尼采则强调了意志的力量，认为个体的意志是超越传统道德的关键。早期现代印度的哲学家们也对自我和宇宙的本质进行了深入的探讨。这些思想家们的观点在当今哲学领域仍具有重要意义
 
 渗透（S，H）当且仅当¬（∃x）（Hx & S′x）。
 
@@ -503,7 +474,7 @@ None of the interpretations of the ‘no counter-example’ definition considere
 
 这里存在对 P 的隐含量化。这句话的意思是，没有地方 H 与 S 的缺席相互关联，但它并没有实际使用可能是非指称的短语“S 的缺席”，因此避免了普遍积极属性的问题。然而，尽管这个条件对于普遍性是必要的，但并不充分，因为它与 H（或 S）未被实例化是一致的。因此，迦叶舍坚持 H 和 S 必须相互关联：
 
- 渗透（S，H）iff
+渗透（S，H）iff
 
 i.
 
@@ -511,7 +482,7 @@ i.
 
 ii.
 
-∃*x* (*Hx* & *Sx*).
+∃_x_ (_Hx_ & _Sx_).
 
 根据上述要求，将文本翻译成简体中文：Gaṅgeśa 的技巧隐含地基于定理“A → B ≡ ¬ (A & ¬ B)”。因此，子句（i）几乎等同于 V1。这也表明我们尚未有一个能够处理部分可定位属性的定义，对此我们需要类似 V2 的东西。因此，Gaṅgeśa 的最终定义是：
 
@@ -519,13 +490,13 @@ V3
 
 渗透（S，H）iff
 
- 抽象的概念在哲学中扮演着重要的角色，它们帮助我们理解世界和我们自己。在《Being and Time》中，海德格尔探讨了存在的本质，强调了存在与实体之间的区别。这种存在的概念超越了简单的物质实体，涉及到我们作为人类存在的方式。海德格尔认为，人类存在是一种“把握存在”的存在，这意味着我们通过我们的存在方式来理解世界。这种存在方式涉及到时间、空间和我们与他人的关系。海德格尔的哲学挑战了传统的本体论观念，强调了存在的暂时性和复杂性。
+抽象的概念在哲学中扮演着重要的角色，它们帮助我们理解世界和我们自己。在《Being and Time》中，海德格尔探讨了存在的本质，强调了存在与实体之间的区别。这种存在的概念超越了简单的物质实体，涉及到我们作为人类存在的方式。海德格尔认为，人类存在是一种“把握存在”的存在，这意味着我们通过我们的存在方式来理解世界。这种存在方式涉及到时间、空间和我们与他人的关系。海德格尔的哲学挑战了传统的本体论观念，强调了存在的暂时性和复杂性。
 
-∃*x* (*Hx* & *P*′*x* & ¬*Px*) → (*P* ≠ *S*), and
+∃_x_ (_Hx_ & _P_′_x_ & ¬_Px_) → (_P_ ≠ _S_), and
 
- ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受争议的话题。在《印度哲学史》一书中，作者对这种关系进行了深入的探讨。根据作者的观点，宗教和哲学在印度文化中有着密不可分的联系，相互影响并共同塑造了印度人的思维方式。这种联系不仅体现在宗教文本中，还体现在哲学思想和学术讨论中。通过研究印度哲学史，我们可以更好地理解宗教和哲学在印度社会中的重要性，以及它们如何共同推动了印度文化的发展。
+ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受争议的话题。在《印度哲学史》一书中，作者对这种关系进行了深入的探讨。根据作者的观点，宗教和哲学在印度文化中有着密不可分的联系，相互影响并共同塑造了印度人的思维方式。这种联系不仅体现在宗教文本中，还体现在哲学思想和学术讨论中。通过研究印度哲学史，我们可以更好地理解宗教和哲学在印度社会中的重要性，以及它们如何共同推动了印度文化的发展。
 
-∃*x* (*Hx* & *Sx*).
+∃_x_ (_Hx_ & _Sx_).
 
 这种普遍性的定义能够处理既是普遍正面属性又是部分定位属性的推断属性。
 
@@ -537,31 +508,31 @@ V3
 
 正如感知和推理被描述为认识产生的能力一样，在认识体系中，语言也是如此。这导致尼亚亚提出了一个关于熟练使用语言者如何解码噪音话语并获得基于语言的知识的机制的描述。《理性手册》对这种“语言处理机制”的描述如下（TS 67, 68）。该过程的输入是听者对口头话语的听觉感知，作为未经解释的噪音，这被确定为“特殊”的工具原因（karaṇa）。例如，听到噪音字符串
 
-[*]
+\[\*]
 
 “猫” “在” “垫子” 上。
 
 “运作条件”（vyāpāra）是听者对话语中每个词的含义（śakti-jñāna）的（心照不宣的）知识。这是区分懂得该语言的人和不懂的人的标志（尽管后者可能听到话语，但没有解释的能力）。例如，知道
 
-[M1]
+\[M1]
 
 “猫”指的是猫
 
-[M2]
+\[M2]
 
 “the mat” 意味着垫子，和
 
-[M3]
+\[M3]
 
 “is on” 意味着基层-上层关系。
 
 过程的产出，即组合因素的效果，是听者形成信念，例如相信
 
-[P]
+\[P]
 
 猫在垫子上。
 
-在感知的情况下，有许多辅助因素，比如有足够的光线，感知者的感官器官处于良好状态，感知者在关注等等，因此在这里也是如此。尼耶哲学将四个特殊因素孤立出来特别关注，即：话语的时空“邻近性”（sannidhi）；说话者的意图（tātparya）；“句法期望”（ākāṅkṣā）；以及“语义适应性”（yogyatā）（参见 TS 67）。第一个是不言自明的：如果话语中的词语一个接一个地说出来，或者与另一种话语的词语混在一起，那么就无法正确地听到话语。第二个，“说话者的意图”，是在句子中包含一个模棱两可的词时被诉诸的——通过考虑说话者的意图来消除歧义。《理性手册》将“句法期望”定义为“一个词无法在没有另一个词的情况下产生它们之间关系的意识”，并举了一个缺乏这种期望的话语的例子，即“马 人 大象”。显然，这个想法至少是话语必须在语法上正确。不仅如此，还暗示了正是由于句法规则，才表达了词语之间未表达的语义关系。是什么造成了理解话语“猫在垫子上”是把握了一个统一的命题，而不仅仅是一系列项目[猫，上的关系，垫子]？这里的想法也许是（对）句法规则的了解产生了对这些项目之间连接关系的意识。
+在感知的情况下，有许多辅助因素，比如有足够的光线，感知者的感官器官处于良好状态，感知者在关注等等，因此在这里也是如此。尼耶哲学将四个特殊因素孤立出来特别关注，即：话语的时空“邻近性”（sannidhi）；说话者的意图（tātparya）；“句法期望”（ākāṅkṣā）；以及“语义适应性”（yogyatā）（参见 TS 67）。第一个是不言自明的：如果话语中的词语一个接一个地说出来，或者与另一种话语的词语混在一起，那么就无法正确地听到话语。第二个，“说话者的意图”，是在句子中包含一个模棱两可的词时被诉诸的——通过考虑说话者的意图来消除歧义。《理性手册》将“句法期望”定义为“一个词无法在没有另一个词的情况下产生它们之间关系的意识”，并举了一个缺乏这种期望的话语的例子，即“马 人 大象”。显然，这个想法至少是话语必须在语法上正确。不仅如此，还暗示了正是由于句法规则，才表达了词语之间未表达的语义关系。是什么造成了理解话语“猫在垫子上”是把握了一个统一的命题，而不仅仅是一系列项目\[猫，上的关系，垫子]？这里的想法也许是（对）句法规则的了解产生了对这些项目之间连接关系的意识。
 
 “语义适配”（yogyatā）是一个引人入胜的概念。《理性手册》将其定义为“所指的词语之间不存在不相容性”，并通过对比句子“他用水洒在田地上”和“他用火洒在田地上”来阐明其定义。其观点是，洒水这种活动与液体如水“相容”（即只能用水进行），而与火这种物质不相容。这就好比说“猫在垫子上”或者乔姆斯基的“无色的绿色思想疯狂地睡觉”。这些句子虽然在语法上是正确的，但毫无意义。因此，一个言辞只有在所表达的命题在本体上是可能的情况下才能被理解，这是根据预先构想的本体系统，比如说瓦伊舍舍卡的类别系统。然而，一些尼亚亚派提出了更高的要求，即为了“语义适配”，言辞必须是真实的，即“适配”=“真实”，而不仅仅是“可能”，因此，一个言辞只有在它是真实的情况下才能被理解！实际上，他们将“语义适配”与“guṇa”或“导致真理的因素”在语言处理机制中等同起来。我们稍后将回到这一争议。
 
@@ -577,9 +548,9 @@ V3
 
 (ii) “牛”这样的词的意义关系是什么，是一个泛称名词表达吗？在这里，《理性手册》再次将尼耶亚派的观点与密马姆萨卡派进行对比。密马姆萨卡派的一个分支学派（巴塔派）声称，“牛”的意义是普遍的牛性，因为像“（那头）牛是一种动物”这样的句子，或者像“永远不要踢牛”这样的命令法律，都是在谈论整个牛类，而不是任何一个个体。因此：
 
- 早期现代印度
+早期现代印度
 
- “牛”意味着牛性。
+“牛”意味着牛性。
 
 对于明显的反对意见，即在许多其他句子中，比如“牛在花园里”，这些 Mimāṃsakas 提到一个特定的牛，他们诉诸于这样一个观念，即一个句子可以携带一个除了其字面意义之外的“暗示”（ākṣepa）。因此，句子“牛在花园里”可能从字面上意味着牛的存在与花园中的发生相联系（即花园中存在一头牛），但暗示着花园中有一头特定的牛。这里的原则是，对修饰语（viśeṣaṇa）的先前认识导致了对被修饰物（viśeṣya）的暗示意识（TSD 66b）。对于这一论点，Nyāya 的回应是通过拒绝引用的原则进行的，因为他们说，只有通过对被修饰物的认识才可能意识到修饰语或普遍性。
 
@@ -597,7 +568,7 @@ V3
 
 “牛”表示一个牛个体，即……
 
-因此，“牛在花园里”这句话并不仅仅意味着列表<牛，在花园里>，如果每个词只是指代一个对象的话，而是连接的命题。实际上，这个想法是，所有的意义相关物，在弗雷格的术语中，都是“不饱和的”。对于这一巧妙的建议，《理性手册》回答道（TSD 66k）这是多余的，因为“由于关系[意义相关物之间]可以被理解为整个句子所指的内容，因此不需要假定一个与关系相关的语义力量”。换句话说，《理性手册》声称，句子的一般（可能是句法的）特征足以连接意义相关物，而无需声称这些意义相关物本身进行连接。
+因此，“牛在花园里”这句话并不仅仅意味着列表<牛，在花园里>，如果每个词只是指代一个对象的话，而是连接的命题。实际上，这个想法是，所有的意义相关物，在弗雷格的术语中，都是“不饱和的”。对于这一巧妙的建议，《理性手册》回答道（TSD 66k）这是多余的，因为“由于关系\[意义相关物之间]可以被理解为整个句子所指的内容，因此不需要假定一个与关系相关的语义力量”。换句话说，《理性手册》声称，句子的一般（可能是句法的）特征足以连接意义相关物，而无需声称这些意义相关物本身进行连接。
 
 (iii) Naiyāyikas 提供了以下关于语言习得的描述（TSD 66c）。孩子对成年人的语言行为进行了一系列观察。她听到成年人 A 发出某种声音“带来牛”，并看到成年人 B 执行某种动作，带来了牛。然后，她听到 A 再次发出声音“带来马”，看到 B 带来了马，听到“喂牛”并看到牛被喂食。然后，通过双重归纳过程，即（a）“存在的一致性”（anvaya）和“缺席的一致性”（vyatireka）——即注意到 A 发出或不发出言论与 B 执行或不执行行动之间的相关性，以及（b）‘收集’（āvāpa）和‘拒绝’（udvāpa）——即注意到“牛”的言论和与牛有关的事件之间的规律性，“带来”的言论和带来事件之间的规律性等，孩子理解了“牛”这个词与属于牛类的物体相关联。
 
@@ -625,21 +596,21 @@ V3
 
 第二和第三个标准是最重要的，可以更正式地陈述如下。如果 P 和 Q 是不同的属性，则（equipollence, tulyatva)：
 
-> [P] = [Q] → 要么 P 或 Q（或两者）不是一个普遍的
+> \[P] = \[Q] → 要么 P 或 Q（或两者）不是一个普遍的
 
-[P]表示 P 的延伸。对偶形式为：
+\[P]表示 P 的延伸。对偶形式为：
 
-> P 和 Q 是普遍的 → [P] ≠ [Q]。
+> P 和 Q 是普遍的 → \[P] ≠ \[Q]。
 
 这并不意味着普遍属性是外延个体化的或等同于类，正如一些人所主张的那样。它仅仅表明，对于每个类，最多只有一个普遍属性。尽管在普遍属性的领域内，一个普遍属性是由其外延唯一确定的，但普遍属性与共同外延的属性（例如，pothood 和 conch-shell-like-neck-hood）之间存在一种内涵上的区别。
 
 至于第三个障碍（sāṃkarya），如果 P 和 Q 是不同的属性，则
 
-> [P] 部分重叠 [Q] → P 或 Q（或两者）不是普遍的。
+> \[P] 部分重叠 \[Q] → P 或 Q（或两者）不是普遍的。
 
 对立形式是：
 
-> P 和 Q 是普遍概念 → [P] ⊂ [Q] 或 [P] ⊃ [Q] 或 [P] ∩ [Q] = ∅.
+> P 和 Q 是普遍概念 → \[P] ⊂ \[Q] 或 \[P] ⊃ \[Q] 或 \[P] ∩ \[Q] = ∅.
 
 由于“等效性”约束的严格性，包容性是严格的。 换句话说，真正的普遍性是按层次排列的：给定两个普遍性，它们要么作为属和种相关，其中一个的所有实例都是另一个的实例，要么它们完全不相交，没有共同的实例（例如，牛性-动物性，牛性-树性）。 尼亚洲说，如果一个普遍性被另一个普遍性包含，那么前者是“较低的”（apara），后者是“较高的”（para）（参见 TS 6）。 所有普遍性中最高的是“存在性”（sattā），每种物质、品质和运动都包含在其范围内。 要求普遍性按层次组织的要求表明，尼亚洲以生物物种为典范，这些物种往往表现出这种结构。 考虑到“普遍性”一词，即“jāti”也是种姓的词，Matilal（1971 年：76）推测
 
@@ -657,7 +628,7 @@ V3
 
 ### 10.2 基本差异（viśeṣa）
 
-传统上，瓦伊舍舍卡学派在其本体论中独特地接受了一种称为“基本差异”（viśeṣa）的项目类别，有人声称他们正是从这里得到了他们的名称。《理由手册》（TS 83）对这些项目进行了定义：“那些驻留在永恒物质[即原子]中并起到区分作用的实体被称为 viśeṣa”。其思想是，正如牛和马是不同的实体一样，因为它们具有不同的属性，所以即使是同一种物质的两个原子，例如地球，也必须在至少一个属性上有所不同。因此，每个原子都拥有独特于自身的“差异因子”，用以将其与同类型的任何其他原子区分开来。因此，假设是，任何两个非相同的项目之间之所以有所区别，是因为它们具有不同的属性。这是莱布尼茨定律的逆否版本，即不可辨识者是相同的，即 (∀P)(Px ≡ Py) → (x = y)，其中“P”代表属性。该原则面临平凡性，除非对量化的属性范围施加某些限制。例如，如果允许属性“… = y”，那么该原则空洞地陈述了相同的实体是相同的。瓦伊舍舍卡学派隐含地将该原则限制在涉及的对象的内在、非关联性属性上，排除了例如‘处于特定空间或时间位置’作为能够区分两个否则相同对象的属性。因此，该主张似乎是，没有两个对象，包括原子，可以在内在上是相同的。这正是莱布尼茨本人对其定律的理解方式，他说“除了时间和地点的差异之外，还必须有内在的区别原则……因此，尽管时间和地点有助于区分事物，但我们不容易仅凭它们来区分它们”，并且“没有两个彼此无法区分的个体。两滴水或牛奶，用显微镜观察，将会看起来是可以相互区分的”。
+传统上，瓦伊舍舍卡学派在其本体论中独特地接受了一种称为“基本差异”（viśeṣa）的项目类别，有人声称他们正是从这里得到了他们的名称。《理由手册》（TS 83）对这些项目进行了定义：“那些驻留在永恒物质\[即原子]中并起到区分作用的实体被称为 viśeṣa”。其思想是，正如牛和马是不同的实体一样，因为它们具有不同的属性，所以即使是同一种物质的两个原子，例如地球，也必须在至少一个属性上有所不同。因此，每个原子都拥有独特于自身的“差异因子”，用以将其与同类型的任何其他原子区分开来。因此，假设是，任何两个非相同的项目之间之所以有所区别，是因为它们具有不同的属性。这是莱布尼茨定律的逆否版本，即不可辨识者是相同的，即 (∀P)(Px ≡ Py) → (x = y)，其中“P”代表属性。该原则面临平凡性，除非对量化的属性范围施加某些限制。例如，如果允许属性“… = y”，那么该原则空洞地陈述了相同的实体是相同的。瓦伊舍舍卡学派隐含地将该原则限制在涉及的对象的内在、非关联性属性上，排除了例如‘处于特定空间或时间位置’作为能够区分两个否则相同对象的属性。因此，该主张似乎是，没有两个对象，包括原子，可以在内在上是相同的。这正是莱布尼茨本人对其定律的理解方式，他说“除了时间和地点的差异之外，还必须有内在的区别原则……因此，尽管时间和地点有助于区分事物，但我们不容易仅凭它们来区分它们”，并且“没有两个彼此无法区分的个体。两滴水或牛奶，用显微镜观察，将会看起来是可以相互区分的”。
 
 这个原则无疑是一个强有力的原则。维特根斯坦（《论哲学的逻辑》5.5302）指出，这意味着包含两个相同球体的宇宙在逻辑上是不可能的；威金斯指出，这意味着甚至一个单独的球体（或任何其他对称物体）在逻辑上也是不可能的，因为它涉及到两个半球的相同性（以及一直延伸到达到一个几何点）。更重要的是，正如早期现代印度的维舍舍卡学派隐含地意识到的那样，这意味着一个给定物质的超过一个原子在逻辑上是不可能的（具有一定的速度、自旋等）。然而，他们并没有拒绝这个原则，而是引入了新的内在属性，即基本的差异，从而避免了这个令人不快的后果。
 
@@ -669,7 +640,7 @@ V3
 
 现象学的观点是，负面意识，比如某个人不在房间里，是一种在现象上与关于房间内有什么的意识明显不同的意识。对不存在的认知具有独立的现象学（这一观念由萨特特别明确地阐述）。因此所依据的原则是：
 
- 抽象的概念在哲学中扮演着重要角色。在《Being and Time》中，海德格尔探讨了存在的本质。他强调了存在与实体之间的区别，认为存在是一个开放的领域，允许个体体验世界。这种存在的方式被称为“Dasein”，意味着人类存在的方式。海德格尔的思想对于理解人类存在的意义和目的具有重要意义
+抽象的概念在哲学中扮演着重要角色。在《Being and Time》中，海德格尔探讨了存在的本质。他强调了存在与实体之间的区别，认为存在是一个开放的领域，允许个体体验世界。这种存在的方式被称为“Dasein”，意味着人类存在的方式。海德格尔的思想对于理解人类存在的意义和目的具有重要意义
 
 不存在的经验在现象上与存在的经验截然不同，并且无法还原为存在的经验。
 
@@ -677,7 +648,7 @@ V3
 
 (ii) 语义观点是，尼耶哲学主张真理对应理论的一个版本，根据这一理论，真实的句子对应事实。据称，真实的否定句（例如“壶不在地上”）对应‘负面事实’。然而，对于尼耶哲学而言，事实都具有相同的基本关系形式，即‘bRa’（据说它们具有一个资格-关系-修饰符结构；即它们是现有实体的复合体）。关于构成事实的限制可以通过以下语义原则来表达：
 
- 抽象的概念是哲学中一个重要的主题。在哲学中，抽象的概念是指超越具体实体的概念，它们不依赖于任何特定的时间或空间。抽象的概念可以是关于道德、价值观、存在等方面的概念。在哲学讨论中，抽象的概念经常被用来探讨普遍性和绝对性。在早期现代印度哲学中，抽象的概念被广泛讨论和探索
+抽象的概念是哲学中一个重要的主题。在哲学中，抽象的概念是指超越具体实体的概念，它们不依赖于任何特定的时间或空间。抽象的概念可以是关于道德、价值观、存在等方面的概念。在哲学讨论中，抽象的概念经常被用来探讨普遍性和绝对性。在早期现代印度哲学中，抽象的概念被广泛讨论和探索
 
 句子对应于由简单或复杂实体构建而成的事实（即实体如‘a’、‘a 的缺席’、‘a 与 b’、‘a 或 b’）。
 
@@ -687,25 +658,25 @@ V3
 
 《理性手册》(TS 85–88)报告了通常的 Nyāya 观点，即存在四种缺失类型：先前不存在(prāgabhāva)；后来不存在或“毁灭”(dhvaṃsa)；“恒定”或“绝对”缺失(atyantābhāva)；以及差异(anyonyābhāva)。其中，前两者指的是一个瞬时对象可能的时间状态。假设我们用以下线段来表示人 A 的时间持续(假设他生活在 1650 年至 1750 年之间)：
 
-| *t*1 | 1650 | *t*2 | 1750 | *t*3 |  |
-| --- | ------ | --- | ------ | --- | -- |
-|   |      |   |      |   |  |
+| _t_1 | 1650 | _t_2 | 1750 | _t_3 |   |
+| ---- | ---- | ---- | ---- | ---- | - |
+|      |      |      |      |      |   |
 
-在 1650 年之前的任何时间点 t1，A 尚不存在，在 1750 年之后的任何时间点 t3，A 不再存在。根据上述原则，尼耶哲学重新阐述这些否定存在主张，将其转化为关于负实体的肯定存在陈述，即关于‘A 之前的缺席’，即‘<A’，以及‘A 之后的缺席’，即‘A>’。因此，第一个读取：
+在 1650 年之前的任何时间点 t1，A 尚不存在，在 1750 年之后的任何时间点 t3，A 不再存在。根据上述原则，尼耶哲学重新阐述这些否定存在主张，将其转化为关于负实体的肯定存在陈述，即关于‘A 之前的缺席’，即‘\<A’，以及‘A 之后的缺席’，即‘A>’。因此，第一个读取：
 
- 一个存在于 t1 时刻的 A
+一个存在于 t1 时刻的 A
 
 在尼耶哲学中，物体被认为存在于时间和空间中，
 
 1. A 位于 t1。
 
- 把握相似性
+把握相似性
 
 2. A> 位于 t3。
 
-在诸如 t2 的时刻会发生什么？这些时刻是 A 存在或存在（位于）的时刻。此外，请注意，在 t2 时刻，存在<A 的后缺席（因为 A 出现时 A 的先前缺席被破坏），我们用“（<A）>”来表示。还存在 A 的先前缺席>（因为 A 的后缺席尚不存在），即“<（A）>”。《理性手册（TSD 89E）》记录了旧纳亚派的主张，即这些双重缺席必须与原始实体相同，否则将导致无限回归。因此：
+在诸如 t2 的时刻会发生什么？这些时刻是 A 存在或存在（位于）的时刻。此外，请注意，在 t2 时刻，存在\<A 的后缺席（因为 A 出现时 A 的先前缺席被破坏），我们用“（\<A）>”来表示。还存在 A 的先前缺席>（因为 A 的后缺席尚不存在），即“<（A）>”。《理性手册（TSD 89E）》记录了旧纳亚派的主张，即这些双重缺席必须与原始实体相同，否则将导致无限回归。因此：
 
-(<*A*)> = <(*A*>) = *A*.
+(<_A_)> = <(_A_>) = _A_.
 
 后来的 Naiyāyikas 显然对这种自然身份进行了争论（这对应于古典逻辑中的双重否定法则），理由是双重否定结构包含否定概念，因此在逻辑上更为复杂。
 
@@ -745,84 +716,83 @@ V3
 
 ### Navya-Nyāya Texts in English Translation
 
-* *The Manual of Reason* (Annambhaṭṭa). *Tarkasaṃgrahadīpikā on Tarkasaṃgraha*, edited and translated by G. Bhattacharya. Calcutta: Progressive Publishers (1983).
-* *Tattvacintāmaṇi* (Gaṅgeśa). *Epistemology Of Perception: Gaṅgeśa’s* Tattvacintāmaṇi*, Jewel Of Reflection On The Truth (About Epistemology): The Perception Chapter (*Pratyakṣa-khaṇḍa*), Transliterated Text, Translation, And Philosophical Commentary.* By Stephen H. Phillips and N.S. Ramanuja Tatacharya. Treasury of the Indic Sciences. New York: American Institute of Buddhist Studies, 2004.
-* *Padārthatattvanirūpaṇa* (Raghunātha). *The Padārthatattvanirūpaṇam of Raghunātha śiromaṇi*, trans. Karl Potter. Cambridge, Mass.: Harvard-Yenching Institute (1957).
-* *Nyāyasiddāntamañjarī* (Janakīnātha Cūḍāmaṇi). *Perception and Inference in the Nyāyasiddāntamañjarī*, text, translation and notes, by Tuvia Gelblum. University of London PhD Thesis (1960–61).
-* *Bhāṣāpariccheda* (Viśvanātha). *Bhāṣāparicceda with Siddhānta-muktāvalī*, trans. Swami Madhavananda. Calcutta: Advaita Ashrama (1996).
-* *Tarka-kaumudī* (Laugākṣi Bhāskara). *The Moonlight of Logic: Studies in Laugākṣi Bhāskara’s Tarka-kaumudī*, trans. Plamen Gradinarov. Delhi: Ajanta Books (1991).
-* *Śaktivāda* (Gadādhara). *Gadādhara’s śaktivāda: Theory of the Expressive Power of Words*, trans. V. P. Bhatta. Delhi: Eastern Book Linkers (1994).
+* _The Manual of Reason_ (Annambhaṭṭa). _Tarkasaṃgrahadīpikā on Tarkasaṃgraha_, edited and translated by G. Bhattacharya. Calcutta: Progressive Publishers (1983).
+* _Tattvacintāmaṇi_ (Gaṅgeśa). _Epistemology Of Perception: Gaṅgeśa’s_ Tattvacintāmaṇi\*, Jewel Of Reflection On The Truth (About Epistemology): The Perception Chapter (_Pratyakṣa-khaṇḍa_), Transliterated Text, Translation, And Philosophical Commentary.\* By Stephen H. Phillips and N.S. Ramanuja Tatacharya. Treasury of the Indic Sciences. New York: American Institute of Buddhist Studies, 2004.
+* _Padārthatattvanirūpaṇa_ (Raghunātha). _The Padārthatattvanirūpaṇam of Raghunātha śiromaṇi_, trans. Karl Potter. Cambridge, Mass.: Harvard-Yenching Institute (1957).
+* _Nyāyasiddāntamañjarī_ (Janakīnātha Cūḍāmaṇi). _Perception and Inference in the Nyāyasiddāntamañjarī_, text, translation and notes, by Tuvia Gelblum. University of London PhD Thesis (1960–61).
+* _Bhāṣāpariccheda_ (Viśvanātha). _Bhāṣāparicceda with Siddhānta-muktāvalī_, trans. Swami Madhavananda. Calcutta: Advaita Ashrama (1996).
+* _Tarka-kaumudī_ (Laugākṣi Bhāskara). _The Moonlight of Logic: Studies in Laugākṣi Bhāskara’s Tarka-kaumudī_, trans. Plamen Gradinarov. Delhi: Ajanta Books (1991).
+* _Śaktivāda_ (Gadādhara). _Gadādhara’s śaktivāda: Theory of the Expressive Power of Words_, trans. V. P. Bhatta. Delhi: Eastern Book Linkers (1994).
 
 ### General Works
 
-* Anrò, Alberto, 2022, “Nyāya Formalized: Exercises of Application”, *Philosophy East and West*, 72 (1): 1–34.
-* Athalye, Y. V., 1930, *Tarka-saṃgraha of Annambhaṭṭa, with the authors own Dīpikā and Govardhana’s Nyāya-bodhini*, edited with critical and explanatory notes, 2nd Edition: Bombay Sanskrit Series, No. LV.
-* Atreya, B. L., 1948, *The Elements of Indian Logic, with the text and translation of Tarkasaṃgraha*, 3rd Edition: Bombay: Nalanda Publications.
-* Bagchi, S., 1953, *Inductive Reasoning: A Study of tarka and its Role in Indian Logic*, Calcutta: Calcutta Oriental Press Ltd.
-* Bhaduri, S., 1947, *Studies in Nyāya-Vaiśeṣika Metaphysics*, Poona: Bhandarkar Oriental Research Institute.
-* Baslev, A. N., 1983, *A Study of Time in Indian Philosophy*, Wiesbaden: O. Harrassowitz.
-* Bhattacharya, C., 1966, *The Elements of Indian Logic and Epistemology*, Calcutta, Modern Book Agency.
-* Bhattacharyya, S., 1987, “Some Aspects of the Navya-Nyāya Theory of Pervasion”, in his *Doubt, Belief and Knowledge*.
-* –––, 2004, *Development of Nyāya Philosophy and its Social Context*, PHISPC Volume III Part 3, New Delhi: Centre for Studies in Civilizations.
-* Bhattacharyya, S. and K. H. Potter, 1994, “Navya-Nyāya from Gaṅgeśa to Raghunātha”, *Encyclopedia of Indian Philosophies* (Vol. VI), Delhi: Motilal Banarsidass Publishers.
-* Burton, Jim, 2020, “Diagrams for Navya-Nyāya”, *Journal of Indian Philosophy*, 48 (2): 229–254.
-* Dash, Subash Chandra, 2013, *A Navya-Nyāya discussion on the meaning of the negative particle nañ: a study of the Nañvādakārikā of Udayana*, Toshihiro Wada (ed.), Nagoya: Nagoya University Association of Indian and Buddhist Studies.
-* David, Hugo & Duquette, Jonathan, 2021, “Epistemology, Logic and Metaphysics in Pre-Modern India: New Avenues for the Study of Navya-Nyāya”, *Journal of Indian Philosophy*, 49 (2): 145–151.
-* Doctor, Payal, 2015, “Quotations, References, and the Re-use of Texts in the Early Nyāya Tradition”, *Journal of Indian Philosophy*, 43 (2–3): 109–135.
-* Dravid, R. R., 1972, *The Problem of Universals in Indian Philosophy*, Delhi: Motilal Banarsidass Publishers.
-* Faddegon, B., 1918, *The Vaiceṣika System, described with the help of the oldest texts*, Amsterdam: J. Muller.
-* Foucher, A., 1949, *Le Compendium des Topiques D’ Annambhaṭṭa*, Paris: A. Maisonneuve.
-* Ganeri, J., 2012, *The Self: Naturalism, Consciousness and the First-Person Stance*, Oxford: Oxford University Press.
-* –––, 2011, *The Lost Age of Reason: Philosophy in Early Modern India 1450–1700*, Oxford: Oxford University Press.
-* Ghosh, Raghunath, 2023, “The Concept of Anumāna in Navya-nyāya”, *Studia Humana*, 12 (1-2): 4–11.
-* Goekoop, G., 1977, *The Logic of Invariable Concomitance in the Tattvacintāmaṇi*, Dordrecht: Reidel; originally published 1967.
-* Guhe, Eberhard, 2022, “Maheśa Chandra’s Exposition of the Navya-Nyāya Concept of ‘Cognition’ (jñāna) from the Perspective of Inquisitive Logic”, *Journal of Indian Philosophy*, 50 (5): 835–864.
-* Mullatti, L.C., 1977, *The Navya-Nyāya Theory of Inference*, Dharwad: Karnatak University.
-* Halbfass, W., 1992, *On Being and What There Is: Classical Vaiśeṣika and the history of Indian Ontology*, Albany: State University of New York Press.
-* Ingalls, D., 1951, *Materials for the Study of Navya-nyāya Logic*, Cambridge, Mass.: Harvard University Press.
-* Mandal, K. K., 1968, *A Comparative Study of the Concepts of Space and Time in Indian Thought*, Varanasi: Chowkhamba Sanskrit Series Office.
-* Matilal, B. K., 1968, *The Navya-nyāya Doctrine of Negation: The semantics and Ontology of Negative Statements in Navya-nyāya Philosophy*, Cambridge, Mass.: Harvard University Press.
-* –––, 1977, *Nyāya-Vaiśeṣika*, Wiesbaden: Harrassowitz.
-* –––, 1985, *Logic, Language and Reality*, Delhi: Motilal Banarsidass.
-* –––, 1986, *Perception: An Essay on Classical Indian Theories of Knowledge*, Oxford: Clarendon.
-* –––, 1991, *The Word and the World: India’s Contribution to the Study of Language*, Delhi: Oxford University Press.
-* Mishra, U., 1987, *The Conception of Matter according to Nyāya-Vaiśeṣika*, 2nd edition, Delhi: Gian Publishing House.
-* Mohanty, J. N., 1966, “Nyāya Theory of Doubt”, in his *Essays on Indian Philosophy* (1993). New Delhi ; Oxford: Oxford University Press, 44–61.
-* –––, 1992, *Reason and Tradition in Indian Thought*, Oxford: Clarendon.
-* Phillips, S., 1995, *Classical Indian Metaphysics: Refutations of Realism and the Emergence of New Logic*, London: Open Court.
-* –––, 2011, *Epistemology in Classical India: The Knowledge Sources of the Nyaya School*, London: Routledge.
-* Potter, K. H., 1977, “The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa”, *Encyclopedia of Indian Philosophies* (Vol. II), Delhi: Motilal Banarsidass Publishers.
-* Raja, K., 1966, *Indian Theories of Meaning*, Madras: Adyar Library and Research Centre.
-* Schayer, S., 1938, *Contributions to the Problem of Time in Indian Philosophy*, Kraków: Nakładem Polskiej Akademii Umiejętności.
-* Seal, B., 1915, *The Positive Sciences of the Ancient Hindus*, London: Longmans, Green.
-* Sen, P. K. (ed.), 2006, *Philosophical Concepts Relevant to Sciences in Indian Tradition*, PHISPC Volume III Part 4, New Delhi: Centre for Studies in Civilizations.
-* Sen, S. N., 1966, “The Impetus Theory of the Vaiśeṣika”, *Indian Jou[11.md](https://github.com/taophilosophy/SEP-CN/files/14913327/11.md)
-rnal for the History of Science*, 1, 34–45.
-* Shastri, S. K., 1961, *A Primer of Indian Logic according to Annambhaṭṭa’s Tarkasaṃgraha*, Madras: Kuppuswami Sastri Research Institute.
-* Siderits, M., 1991, *Indian Philosophy of Language*, Dordrecht: Kluwer Academic Publishers.
-* Staal, F., 1988, “Means of Formalisation in Indian and Western Logic”, in his *Universal: Studies in Indian Logic and Linguistics* (1988). Chicago: University of Chicago Press, 81–87.
-* Subbarayappa, B. V., 1968, “An Estimate of the Vaiśeṣika Sūtra in the History of Science”, *Indian Journal for the History of Science*, 2: 24–34.
-* Tachikawa, M., 1981, *The Structure of the World in Udayana’s Realism*, Dordrecht: D. Reidel.
-* Thakur, A., 2003, *Origin and Development of the Vaiśeṣika System*, PHISPC Volume II Part 4, New Delhi: Centre for Studies in Civilizations.
-* Vattanky, J., 1984, *Gaṅgeśa’s Philosophy of God*, Madras: Adyar Library and Research Centre.
-* Wada, T., 2007, *The Analytical Method of Navya-Nyāya*, Groningen: Egbert Forsten.
-* Wada, Toshihiro, 2020, *Navya-Nyāya philosophy of language*. New Delhi: DK Printworld.
+* Anrò, Alberto, 2022, “Nyāya Formalized: Exercises of Application”, _Philosophy East and West_, 72 (1): 1–34.
+* Athalye, Y. V., 1930, _Tarka-saṃgraha of Annambhaṭṭa, with the authors own Dīpikā and Govardhana’s Nyāya-bodhini_, edited with critical and explanatory notes, 2nd Edition: Bombay Sanskrit Series, No. LV.
+* Atreya, B. L., 1948, _The Elements of Indian Logic, with the text and translation of Tarkasaṃgraha_, 3rd Edition: Bombay: Nalanda Publications.
+* Bagchi, S., 1953, _Inductive Reasoning: A Study of tarka and its Role in Indian Logic_, Calcutta: Calcutta Oriental Press Ltd.
+* Bhaduri, S., 1947, _Studies in Nyāya-Vaiśeṣika Metaphysics_, Poona: Bhandarkar Oriental Research Institute.
+* Baslev, A. N., 1983, _A Study of Time in Indian Philosophy_, Wiesbaden: O. Harrassowitz.
+* Bhattacharya, C., 1966, _The Elements of Indian Logic and Epistemology_, Calcutta, Modern Book Agency.
+* Bhattacharyya, S., 1987, “Some Aspects of the Navya-Nyāya Theory of Pervasion”, in his _Doubt, Belief and Knowledge_.
+* –––, 2004, _Development of Nyāya Philosophy and its Social Context_, PHISPC Volume III Part 3, New Delhi: Centre for Studies in Civilizations.
+* Bhattacharyya, S. and K. H. Potter, 1994, “Navya-Nyāya from Gaṅgeśa to Raghunātha”, _Encyclopedia of Indian Philosophies_ (Vol. VI), Delhi: Motilal Banarsidass Publishers.
+* Burton, Jim, 2020, “Diagrams for Navya-Nyāya”, _Journal of Indian Philosophy_, 48 (2): 229–254.
+* Dash, Subash Chandra, 2013, _A Navya-Nyāya discussion on the meaning of the negative particle nañ: a study of the Nañvādakārikā of Udayana_, Toshihiro Wada (ed.), Nagoya: Nagoya University Association of Indian and Buddhist Studies.
+* David, Hugo & Duquette, Jonathan, 2021, “Epistemology, Logic and Metaphysics in Pre-Modern India: New Avenues for the Study of Navya-Nyāya”, _Journal of Indian Philosophy_, 49 (2): 145–151.
+* Doctor, Payal, 2015, “Quotations, References, and the Re-use of Texts in the Early Nyāya Tradition”, _Journal of Indian Philosophy_, 43 (2–3): 109–135.
+* Dravid, R. R., 1972, _The Problem of Universals in Indian Philosophy_, Delhi: Motilal Banarsidass Publishers.
+* Faddegon, B., 1918, _The Vaiceṣika System, described with the help of the oldest texts_, Amsterdam: J. Muller.
+* Foucher, A., 1949, _Le Compendium des Topiques D’ Annambhaṭṭa_, Paris: A. Maisonneuve.
+* Ganeri, J., 2012, _The Self: Naturalism, Consciousness and the First-Person Stance_, Oxford: Oxford University Press.
+* –––, 2011, _The Lost Age of Reason: Philosophy in Early Modern India 1450–1700_, Oxford: Oxford University Press.
+* Ghosh, Raghunath, 2023, “The Concept of Anumāna in Navya-nyāya”, _Studia Humana_, 12 (1-2): 4–11.
+* Goekoop, G., 1977, _The Logic of Invariable Concomitance in the Tattvacintāmaṇi_, Dordrecht: Reidel; originally published 1967.
+* Guhe, Eberhard, 2022, “Maheśa Chandra’s Exposition of the Navya-Nyāya Concept of ‘Cognition’ (jñāna) from the Perspective of Inquisitive Logic”, _Journal of Indian Philosophy_, 50 (5): 835–864.
+* Mullatti, L.C., 1977, _The Navya-Nyāya Theory of Inference_, Dharwad: Karnatak University.
+* Halbfass, W., 1992, _On Being and What There Is: Classical Vaiśeṣika and the history of Indian Ontology_, Albany: State University of New York Press.
+* Ingalls, D., 1951, _Materials for the Study of Navya-nyāya Logic_, Cambridge, Mass.: Harvard University Press.
+* Mandal, K. K., 1968, _A Comparative Study of the Concepts of Space and Time in Indian Thought_, Varanasi: Chowkhamba Sanskrit Series Office.
+* Matilal, B. K., 1968, _The Navya-nyāya Doctrine of Negation: The semantics and Ontology of Negative Statements in Navya-nyāya Philosophy_, Cambridge, Mass.: Harvard University Press.
+* –––, 1977, _Nyāya-Vaiśeṣika_, Wiesbaden: Harrassowitz.
+* –––, 1985, _Logic, Language and Reality_, Delhi: Motilal Banarsidass.
+* –––, 1986, _Perception: An Essay on Classical Indian Theories of Knowledge_, Oxford: Clarendon.
+* –––, 1991, _The Word and the World: India’s Contribution to the Study of Language_, Delhi: Oxford University Press.
+* Mishra, U., 1987, _The Conception of Matter according to Nyāya-Vaiśeṣika_, 2nd edition, Delhi: Gian Publishing House.
+* Mohanty, J. N., 1966, “Nyāya Theory of Doubt”, in his _Essays on Indian Philosophy_ (1993). New Delhi ; Oxford: Oxford University Press, 44–61.
+* –––, 1992, _Reason and Tradition in Indian Thought_, Oxford: Clarendon.
+* Phillips, S., 1995, _Classical Indian Metaphysics: Refutations of Realism and the Emergence of New Logic_, London: Open Court.
+* –––, 2011, _Epistemology in Classical India: The Knowledge Sources of the Nyaya School_, London: Routledge.
+* Potter, K. H., 1977, “The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa”, _Encyclopedia of Indian Philosophies_ (Vol. II), Delhi: Motilal Banarsidass Publishers.
+* Raja, K., 1966, _Indian Theories of Meaning_, Madras: Adyar Library and Research Centre.
+* Schayer, S., 1938, _Contributions to the Problem of Time in Indian Philosophy_, Kraków: Nakładem Polskiej Akademii Umiejętności.
+* Seal, B., 1915, _The Positive Sciences of the Ancient Hindus_, London: Longmans, Green.
+* Sen, P. K. (ed.), 2006, _Philosophical Concepts Relevant to Sciences in Indian Tradition_, PHISPC Volume III Part 4, New Delhi: Centre for Studies in Civilizations.
+* Sen, S. N., 1966, “The Impetus Theory of the Vaiśeṣika”, _Indian Jou_[_11.md_](https://github.com/taophilosophy/SEP-CN/files/14913327/11.md) _rnal for the History of Science_, 1, 34–45.
+* Shastri, S. K., 1961, _A Primer of Indian Logic according to Annambhaṭṭa’s Tarkasaṃgraha_, Madras: Kuppuswami Sastri Research Institute.
+* Siderits, M., 1991, _Indian Philosophy of Language_, Dordrecht: Kluwer Academic Publishers.
+* Staal, F., 1988, “Means of Formalisation in Indian and Western Logic”, in his _Universal: Studies in Indian Logic and Linguistics_ (1988). Chicago: University of Chicago Press, 81–87.
+* Subbarayappa, B. V., 1968, “An Estimate of the Vaiśeṣika Sūtra in the History of Science”, _Indian Journal for the History of Science_, 2: 24–34.
+* Tachikawa, M., 1981, _The Structure of the World in Udayana’s Realism_, Dordrecht: D. Reidel.
+* Thakur, A., 2003, _Origin and Development of the Vaiśeṣika System_, PHISPC Volume II Part 4, New Delhi: Centre for Studies in Civilizations.
+* Vattanky, J., 1984, _Gaṅgeśa’s Philosophy of God_, Madras: Adyar Library and Research Centre.
+* Wada, T., 2007, _The Analytical Method of Navya-Nyāya_, Groningen: Egbert Forsten.
+* Wada, Toshihiro, 2020, _Navya-Nyāya philosophy of language_. New Delhi: DK Printworld.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=early-modern-india). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/early-modern-india/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=early-modern-india&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/early-modern-india/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=early-modern-india).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/early-modern-india/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=early-modern-india\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/early-modern-india/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm), including several in Nyāya and Vaiśeṣika.
+* [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene\_1/fiindolo/gretil.htm), including several in Nyāya and Vaiśeṣika.
 
 ## Related Entries
 
-[atomism: 17th to 20th century](https://plato.stanford.edu/entries/atomism-modern/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [cognition: embodied](https://plato.stanford.edu/entries/embodied-cognition/) | [Dharmakīrti](https://plato.stanford.edu/entries/dharmakiirti/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Indian Philosophy (Classical): perceptual experience and concepts](https://plato.stanford.edu/entries/perception-india/) | Indian Philosophy (Classical): self-knowledge | [memory](https://plato.stanford.edu/entries/memory/) | [Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/) | [properties](https://plato.stanford.edu/entries/properties/) | [soul, ancient theories of](https://plato.stanford.edu/entries/ancient-soul/) | [time](https://plato.stanford.edu/entries/time/)
+[atomism: 17th to 20th century](https://plato.stanford.edu/entries/atomism-modern/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [cognition: embodied](https://plato.stanford.edu/entries/embodied-cognition/) | [Dharmakīrti](https://plato.stanford.edu/entries/dharmakiirti/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Indian Philosophy (Classical): perceptual experience and concepts](https://plato.stanford.edu/entries/perception-india/) | Indian Philosophy (Classical): self-knowledge | [memory](https://plato.stanford.edu/entries/memory/) | [Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/) | [properties](https://plato.stanford.edu/entries/properties/) | [soul, ancient theories of](https://plato.stanford.edu/entries/ancient-soul/) | [time](https://plato.stanford.edu/entries/time/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Jonardon Ganeri](https://philosophy.utoronto.ca/directory/jonardon-ganeri/) <[*jonardon.ganeri@utoronto.ca*](mailto:jonardon%2eganeri%40utoronto%2eca)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Jonardon Ganeri](https://philosophy.utoronto.ca/directory/jonardon-ganeri/) <[_jonardon.ganeri@utoronto.ca_](mailto:jonardon%2eganeri%40utoronto%2eca)>

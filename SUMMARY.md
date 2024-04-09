@@ -786,7 +786,7 @@
 * [认知自我怀疑——见认知自我怀疑 epistemic self-doubt — see self-doubt, epistemic](e/ren-zhi-zi-wo-huai-yi-jian-ren-zhi-zi-wo-huai-yi-epistemic-selfdoubt-see-selfdoubt-epistemic.md)
 * [关于认知规范的认知效用论证 epistemic utility arguments for epistemic norms (Richard Pettigrew)](e/guan-yu-ren-zhi-gui-fan-de-ren-zhi-xiao-yong-lun-zheng-epistemic-utility-arguments-for-epistemic-nor.md)
 * [认识论 epistemology (Matthias Steup and Ram Neta)](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/README.md)
-  * [贝叶斯主义知识论 Bayesian (Hanti Lin)](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/bei-ye-si-zhu-yi-zhi-shi-lun-bayesian-hanti-lin.md)
+  * [贝叶斯认识论 Bayesian (Hanti Lin)](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/bei-ye-si-ren-shi-lun-bayesian-hanti-lin.md)
   * [\*语境主义——见认识的语境论 contextualism in — see contextualism, epistemic](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/yu-jing-zhu-yi-jian-ren-shi-de-yu-jing-lun-contextualism-in-see-contextualism-epistemic.md)
   * [进化认识论 evolutionary (Michael Bradie and William Harms)](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/jin-hua-ren-shi-lun-evolutionary-michael-bradie-and-william-harms.md)
   * [\*女性主义——见女性主义哲学介入：女性主义认识论与科学哲学 feminist — see feminist philosophy, interventions: epistemology and philosophy of science](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/nv-xing-zhu-yi-jian-nv-xing-zhu-yi-zhe-xue-jie-ru-nv-xing-zhu-yi-ren-shi-lun-yu-ke-xue-zhe-xue-femin.md)
