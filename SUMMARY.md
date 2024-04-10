@@ -991,7 +991,7 @@
   * [\*积极和消极——见自由：积极自由和消极自由 positive and negative — see liberty: positive and negative](f/zi-you-freedom/ji-ji-he-xiao-ji-jian-zi-you-ji-ji-zi-you-he-xiao-ji-zi-you-positive-and-negative-see-liberty-positi.md)
   * [言论自由 of speech (Jeffrey W. Howard)](f/zi-you-freedom/yan-lun-zi-you-of-speech-jeffrey-w.-howard.md)
 * [搭便车问题 free rider problem (Russell Hardin and Garrett Cullity)](f/da-bian-che-wen-ti-free-rider-problem-russell-hardin-and-garrett-cullity.md)
-* [\*自由意志 free will (Timothy O’Connor and Christopher Franklin)](f/zi-you-yi-zhi-free-will-timothy-oconnor-and-christopher-franklin/README.md)
+* [自由意志 free will (Timothy O’Connor and Christopher Franklin)](f/zi-you-yi-zhi-free-will-timothy-oconnor-and-christopher-franklin/README.md)
   * [\*（非决定性）理论——见不相容论：自由意志的不相容主义（非决定性）理论 (nondeterministic) theories of — see incompatibilism: (nondeterministic) theories of free will](f/zi-you-yi-zhi-free-will-timothy-oconnor-and-christopher-franklin/fei-jue-ding-xing-li-lun-jian-bu-xiang-rong-lun-zi-you-yi-zhi-de-bu-xiang-rong-zhu-yi-fei-jue-ding-x.md)
   * [预知与自由意志 divine foreknowledge and (David Hunt and Linda Zagzebski)](f/zi-you-yi-zhi-free-will-timothy-oconnor-and-christopher-franklin/yu-zhi-yu-zi-you-yi-zhi-divine-foreknowledge-and-david-hunt-and-linda-zagzebski.md)
 * [戈特洛布·弗雷格 Frege, Gottlob (Edward N. Zalta)](f/ge-te-luo-bu-fu-lei-ge-frege-gottlob-edward-n.-zalta/README.md)
