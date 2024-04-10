@@ -900,7 +900,7 @@
 * [谬误 fallacies (Hans Hansen)](f/miu-wu-fallacies-hans-hansen.md)
 * [弗朗茨·法农 Fanon, Frantz (John Drabinski)](f/fu-lang-ci-fa-nong-fanon-frantz-john-drabinski.md)
 * [宿命论 fatalism (Hugh Rice)](f/su-ming-lun-fatalism-hugh-rice.md)
-* [费希纳，古斯塔夫·西奥多 Fechner, Gustav Theodor (Frederick C. Beiser)](f/fei-xi-na-gu-si-ta-fu-xi-ao-duo-fechner-gustav-theodor-frederick-c.-beiser.md)
+* [古斯塔夫·特奥多尔·费希纳 Fechner, Gustav Theodor (Frederick C. Beiser)](f/gu-si-ta-fu-te-ao-duo-er-fei-xi-na-fechner-gustav-theodor-frederick-c.-beiser.md)
 * [联邦主义 federalism (Andreas Follesdal)](f/lian-bang-zhu-yi-federalism-andreas-follesdal.md)
 * [赫伯特·费格尔 Feigl, Herbert (Matthias Neuber)](f/he-bo-te-fei-ge-er-feigl-herbert-matthias-neuber.md)
 * [玛格丽特·费尔 Fell, Margaret (Jacqueline Broad)](f/ma-ge-li-te-fei-er-fell-margaret-jacqueline-broad.md)

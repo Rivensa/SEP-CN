@@ -1,35 +1,31 @@
 # 事实 facts (Kevin Mulligan and Fabrice Correia)
 
-*首次发表于 2007 年 9 月 21 日星期五；实质性修订于 2020 年 10 月 16 日星期五*
+_首次发表于 2007 年 9 月 21 日星期五；实质性修订于 2020 年 10 月 16 日星期五_
 
 事实，哲学家们喜欢说，与理论和价值相对立（参见 Rundle 1993），应与事物，特别是复杂对象、复合体和整体以及关系相区分开来。它们是某些心理状态和行为的对象，它们使真理承担者成为真实，并与真理相对应，它们是世界的一部分。哲学家不仅将事实与理论和价值对立起来，有时还区分那些是蛮力的事实和那些不是的事实（Anscombe 1958）。我们提出并讨论了一些关于事实的哲学和形式化解释。
 
 * [事实哲学](https://plato.stanford.edu/entries/facts/#PhilFact)
-
   * [事实，事实和事实](https://plato.stanford.edu/entries/facts/#FactFactFact)
   * [1.2 事实、本体论和形而上学](https://plato.stanford.edu/entries/facts/#FactOntoMeta)
   * [1.3 事实与知识](https://plato.stanford.edu/entries/facts/#FactKnow)
   * [1.4 事实，意向性，语义学和真理制造](https://plato.stanford.edu/entries/facts/#FactInteSemaTrut)
   * [1.5 Brute Facts](https://plato.stanford.edu/entries/facts/#BrutFact)
 * [事实的正式理论](https://plato.stanford.edu/entries/facts/#FormTheoFact)
-
   * [事实和世界](https://plato.stanford.edu/entries/facts/#FactWorl)
-
     * [2.1.1 一些表征原则](https://plato.stanford.edu/entries/facts/#SomeCharPrin)
     * [事实作为世界的集合，世界作为事实，世界作为集合（或复数，或事实的总和）](https://plato.stanford.edu/entries/facts/#FactSetsWorlWorlFactWorlSetsPlurSumsFact)
   * [2.2 事实的布尔运算](https://plato.stanford.edu/entries/facts/#BoolOperFact)
   * [2.3 Independency](https://plato.stanford.edu/entries/facts/#Inde)
   * [事实和命题](https://plato.stanford.edu/entries/facts/#FactProp)
-
     * [2.4.1 事实作为真命题](https://plato.stanford.edu/entries/facts/#FactTrueProp)
-    * [ 2.4.2 制造真实](https://plato.stanford.edu/entries/facts/#MakiTrue)
+    * [2.4.2 制造真实](https://plato.stanford.edu/entries/facts/#MakiTrue)
   * [事实的内在结构](https://plato.stanford.edu/entries/facts/#InneStruFact)
-* [ 参考文献](https://plato.stanford.edu/entries/facts/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/facts/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/facts/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/facts/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/facts/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/facts/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/facts/#Rel)
 
----
+***
 
 ## 事实哲学
 
@@ -89,7 +85,7 @@
 
 在“x 知道 p”这种说法中，“知道”是事实性的：如果 x 知道 p，那么 p。同样，“知道”在“x 知道 y”这种说法中是真实的：如果 x 知道 y，与 y 相识，那么存在一个 y，x 知道 y。
 
-知识是对事实的认知吗？了解 p 是否是与事实接触的一种形式（参见“Erkennen”），在这里，事实被理解为与真实的真理承担者不同的东西？Husserl，Russell，Vendler 和 Hossack（Husserl 1900-1901; Russell 1906-1907; Vendler 1967a，1972; Hossack 2007）对这些问题中的一个肯定回答; 因此，Russell 曾经辩称，感知具有单一对象，例如“刀在书左侧”，他最初称之为“复杂”然后称之为“事实”（Russell ONTF）。从 Ramsey 到 Williamson（Ramsey 1927 [1931]; Vickers 2004; Williamson 2000）许多哲学家给出了否定回答。
+知识是对事实的认知吗？了解 p 是否是与事实接触的一种形式（参见“Erkennen”），在这里，事实被理解为与真实的真理承担者不同的东西？Husserl，Russell，Vendler 和 Hossack（Husserl 1900-1901; Russell 1906-1907; Vendler 1967a，1972; Hossack 2007）对这些问题中的一个肯定回答; 因此，Russell 曾经辩称，感知具有单一对象，例如“刀在书左侧”，他最初称之为“复杂”然后称之为“事实”（Russell ONTF）。从 Ramsey 到 Williamson（Ramsey 1927 \[1931]; Vickers 2004; Williamson 2000）许多哲学家给出了否定回答。
 
 什么可以支持这个观点？考虑原子谓词 Fa，其中这是一个逻辑学家用来表示对象 a 具有属性 F 的公式。在最简单的情况下，了解 Fa 涉及对对象和属性的熟悉。通过看到墙是红色来了解墙是红色，通常涉及看到墙。墙不是任何概念。根据感知心理学中的一种流行理论，看到墙是红色或直的通常涉及感知一个恒定属性，墙的红色或直的特性，并将其视为恒定的（“属性恒定性”，“颜色恒定性”，“形状恒定性”）。这些属性不是概念。因此，有理由认为，从感知上了解 p，在最简单的情况下，涉及与对象和属性的认识接触。如果是这样，那么在这种情况下了解 p 的观点的两个组成部分是合理的。但即使允许感知事实的知识，也不清楚为什么应该认为“知道 p”或“了解 p”的实例，其中“p”的替代物在逻辑上是复杂的，构成了对坚实事实的知识。同样，如果我们考虑许多不同类型的了解 p 的方式，其中知识的来源不是感官感知，而是例如证词或推理，我们可能认为在这种情况下没有理由认为我们所了解的是事实。
 
@@ -137,7 +133,7 @@ Sam 悲伤的命题是否代表了 Sam 悲伤的事实？可以提出异议，�
 
 另一个关于“事实 Fa 存在”的表达的描述是基于 1913 年 Russell 提出的建议（Hochberg 2001）。让‘T’，‘A’和‘IN’分别表示关系‘是一个术语在’，‘是一个属性在’和‘通知’。这些关系是原子事实与它们的术语（对象）、属性（属性）和形式之间的形式本体论关系。那么“事实 Fa 存在”的结构是：
 
-E![ιf(T(a,f)&A(F,f)&IN(ϕx,f))]
+E!\[ιf(T(a,f)\&A(F,f)\&IN(ϕx,f))]
 
 这意味着，包含 a 作为一个术语和 F 作为一个属性，并且形式为ϕx 存在的事实。还有人认为，支持关于一个对象举例说明属性的讨论的基础只是作为一个事实中的术语和作为一个事实中的属性的关系（Sprigge 1970）。
 
@@ -252,7 +248,7 @@ B1 和 B3 一起蕴涵 B4。假设 B1 和 B4，则 B2 等价于 B3。请注意�
 
 ![figure 1  B diagram](https://plato.stanford.edu/entries/facts/fig1.svg)
 
- 图 1.
+图 1.
 
 诱人的是采纳这个原则：
 
@@ -269,10 +265,10 @@ B-原则断言存在着表征各种世界集合的事实。类似的特别感兴
 
 W 原则有一定的兴趣伴侣：
 
-* 每个单例*都由一些非空事实集合所特征化。
-* 每个单例*都由某个事实所特征化。
-* 每个非空集合*都由一些事实的非空集合所表征。
-* 每个非空集合*都由某个事实所特征化。
+* 每个单例\*都由一些非空事实集合所特征化。
+* 每个单例\*都由某个事实所特征化。
+* 每个非空集合\*都由一些事实的非空集合所表征。
+* 每个非空集合\*都由某个事实所特征化。
 
 一个集合是包含其成员的所有双元素的世界的集合（∅和 W 然后是集合），而单元素集是其成员都是双元素的集合。请注意，所有存在集、连接存在集和分离存在集，以及它们在 W 中的补集，都是集合。
 
@@ -280,13 +276,13 @@ W4 包含 W2 和 W3，并且每一个都包含 W1。尽管如此，W4'包含 W2'
 
 ![figure 2  W diagram](https://plato.stanford.edu/entries/facts/fig2.svg)
 
- 图 2。
+图 2。
 
 W4' 相当于 B2 + W3'，W2' 加上 B3 得到 W4'，W1' 加上 B2 得到 W2'。B1 得到 W1'。见图 3。
 
 ![figure 3  BW diagram](https://plato.stanford.edu/entries/facts/fig3.svg)
 
- 图 3。
+图 3。
 
 所有先前的原则都与在完全相同的世界中存在着不同事实是兼容的。一个人可能希望否认这是可能的，并采取：
 
@@ -294,7 +290,7 @@ W4' 相当于 B2 + W3'，W2' 加上 B3 得到 W4'，W1' 加上 B2 得到 W2'。B
 
 这为事实的身份提供了一个模态标准。如果接受模态标准，每个 B 原则等同于在原则中用“一个唯一事实”替换“某个事实”的结果。W2、W2'、W4 和 W4'也是如此。
 
-模态标准是有争议的。有人可能希望声称存在着苏格拉底存在的事实，苏格拉底存在以及每个数字都是一个数字的事实，以及单元素集[Socrates]存在的事实，而这些事实中的全部或部分是不同的。但是，考虑到这些事实的存在条件的合理假设，它们都具有相同的存在集合。
+模态标准是有争议的。有人可能希望声称存在着苏格拉底存在的事实，苏格拉底存在以及每个数字都是一个数字的事实，以及单元素集\[Socrates]存在的事实，而这些事实中的全部或部分是不同的。但是，考虑到这些事实的存在条件的合理假设，它们都具有相同的存在集合。
 
 模态准则在维特根斯坦的 TLP、苏斯科 1968 年和费恩 1982 年（在理论 F(A)-Cond 和 C-Cond 中）提出的观点中成立。在费恩的理论 F-Cond（费恩 1982 年）和扎尔塔的理论（扎尔塔 1991 年）中，根据这两种解释，它并不成立。稍后将提供与先前原则相关的参考资料。有关更详细信息，请参阅文献中的一些形式理论的补充文件。
 
@@ -350,20 +346,20 @@ W4' 相当于 B2 + W3'，W2' 加上 B3 得到 W4'，W1' 加上 B2 得到 W2'。B
 
 这里是一个表格，显示了一些理论允许的操作（+表示接受，-表示拒绝）:
 
-|                                         | *negation*                                     | *conjunction*                                                                                                                                                                                                                                                                                                                                                                                                                                                            | *disjunction*                                |
-| ----------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| * 阿姆斯特朗 1997*                      | −                                   | +                                                                                                                                                                                                                                                                                                                                                                                                                                                           | −                              |
-| *Fine 1982 **                           | 对于理论 F(A)-Cond<br /> 对于理论 C-Cond | 对于 F（A）-Cond在这篇论文中，我们探讨了 F（A）-Cond 的概念，这是一个重要的哲学概念。我们分析了 F（A）-Cond 的定义和其在不同哲学理论中的应用。通过对 F（A）-Cond 的研究，我们可以更好地理解其在伦理学和形而上学中的作用。F（A）-Cond 在伦理学中的应用尤为重要，它对道德判断和行为决策起着关键作用。在形而上学领域，F（A）-Cond 也被广泛讨论，涉及到现实世界中的事实和真理。通过深入研究 F（A）-Cond，我们可以更好地理解哲学中的重要概念和原则<br />+ for C-Cond | 对于 F（A）-Cond<br />− for C-Cond |
-| *Restall 2004*                                        | +                                    | +                                                                                                                                                                                                                                                                                                                                                                                                                                                           | +                               |
-| *Russell PLA*                                        | 不是+也不是−                        | −                                                                                                                                                                                                                                                                                                                                                                                                                                                          | −                              |
-| *Suszko 1968 **                         | +                                    | 受限于有限事实的集合                                                                                                                                                                                                                                                                                                                                                                                                                                        | 受限于有限事实的集合            |
-| * 泰勒 1985*                            | +                                    | 受限于有限事实的集合                                                                                                                                                                                                                                                                                                                                                                                                                                        | 受限于有限事实的集合            |
-| *Van Fraassen 1969 (modalized version) **范弗拉森 1969（模态化版本）** | 对于一类杰出的“原子”事实而言       | +                                                                                                                                                                                                                                                                                                                                                                                                                                                           | −                              |
-| * 维特根斯坦《逻辑哲学论》*             | −                                   | −                                                                                                                                                                                                                                                                                                                                                                                                                                                          | −                              |
-| *Zalta 1991 第一次解释**                                       | +                                    | 受限于有限事实的集合                                                                                                                                                                                                                                                                                                                                                                                                                                        | 受限于有限事实的集合            |
-| *Zalta 1991 第二解释 **                 | −                                   | 受限于有限事实的集合                                                                                                                                                                                                                                                                                                                                                                                                                                        | −                              |
+|                                                              | _negation_                           | _conjunction_                                                                                                                                                                                                                                                               | _disjunction_                       |
+| ------------------------------------------------------------ | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| \* 阿姆斯特朗 1997\*                                              | −                                    | +                                                                                                                                                                                                                                                                           | −                                   |
+| \*Fine 1982 \*\*                                             | <p>对于理论 F(A)-Cond<br>对于理论 C-Cond</p> | <p>对于 F（A）-Cond在这篇论文中，我们探讨了 F（A）-Cond 的概念，这是一个重要的哲学概念。我们分析了 F（A）-Cond 的定义和其在不同哲学理论中的应用。通过对 F（A）-Cond 的研究，我们可以更好地理解其在伦理学和形而上学中的作用。F（A）-Cond 在伦理学中的应用尤为重要，它对道德判断和行为决策起着关键作用。在形而上学领域，F（A）-Cond 也被广泛讨论，涉及到现实世界中的事实和真理。通过深入研究 F（A）-Cond，我们可以更好地理解哲学中的重要概念和原则<br>+ for C-Cond</p> | <p>对于 F（A）-Cond<br>− for C-Cond</p> |
+| _Restall 2004_                                               | +                                    | +                                                                                                                                                                                                                                                                           | +                                   |
+| _Russell PLA_                                                | 不是+也不是−                              | −                                                                                                                                                                                                                                                                           | −                                   |
+| \*Suszko 1968 \*\*                                           | +                                    | 受限于有限事实的集合                                                                                                                                                                                                                                                                  | 受限于有限事实的集合                          |
+| \* 泰勒 1985\*                                                 | +                                    | 受限于有限事实的集合                                                                                                                                                                                                                                                                  | 受限于有限事实的集合                          |
+| \*Van Fraassen 1969 (modalized version) **范弗拉森 1969（模态化版本）** | 对于一类杰出的“原子”事实而言                      | +                                                                                                                                                                                                                                                                           | −                                   |
+| \* 维特根斯坦《逻辑哲学论》\*                                            | −                                    | −                                                                                                                                                                                                                                                                           | −                                   |
+| _Zalta 1991 第一次解释_\*                                         | +                                    | 受限于有限事实的集合                                                                                                                                                                                                                                                                  | 受限于有限事实的集合                          |
+| \*Zalta 1991 第二解释 \*\*                                       | −                                    | 受限于有限事实的集合                                                                                                                                                                                                                                                                  | −                                   |
 
-在包含*的条目上，请参阅文献中的一些形式理论。在 Restall 的情况下，对所有三个操作的承诺直接源自他的理论验证 W4 和模态标准的事实。事实上，Taylor 并没有关于事实的模态理论，但似乎在他理论的自然模态扩展中，先前提到的接受主张应该是正确的。Taylor 的情况受限于他使用标准的一阶语言。Taylor 致力于给出关于标准一阶语言“假定”的事实的理论，即在确定该语言句子的真值时起作用的事实。标准的一阶语言仅允许对有限句子集合进行合取和析取，因此相对于事实存在限制。但显然，转向允许无限合取和析取的语言，这些限制将消失。
+在包含\*的条目上，请参阅文献中的一些形式理论。在 Restall 的情况下，对所有三个操作的承诺直接源自他的理论验证 W4 和模态标准的事实。事实上，Taylor 并没有关于事实的模态理论，但似乎在他理论的自然模态扩展中，先前提到的接受主张应该是正确的。Taylor 的情况受限于他使用标准的一阶语言。Taylor 致力于给出关于标准一阶语言“假定”的事实的理论，即在确定该语言句子的真值时起作用的事实。标准的一阶语言仅允许对有限句子集合进行合取和析取，因此相对于事实存在限制。但显然，转向允许无限合取和析取的语言，这些限制将消失。
 
 根据前表，有四种主要观点认为应接受哪些布尔运算：
 
@@ -404,11 +400,11 @@ W4' 相当于 B2 + W3'，W2' 加上 B3 得到 W4'，W1' 加上 B2 得到 W2'。B
 * T3: τ3+ 'F 通过一个独立集合通过连接生成'；
 * T4: τ4+ 'F is generated by an independent set via Booleanization'.
 
-让ϕ成为将每个单元素*关联到其成员的共同域的函数。现在考虑以下原则：
+让ϕ成为将每个单元素\*关联到其成员的共同域的函数。现在考虑以下原则：
 
 * Co1.ϕ 是从所有单元素集合到所有事实集合的双射。
-* Co3.ϕ 是从所有单例集合*到所有事实的合取完备集合的双射。
-* Co4.ϕ 是从所有单例集合*到所有事实的最大一致集合的双射。
+* Co3.ϕ 是从所有单例集合\*到所有事实的合取完备集合的双射。
+* Co4.ϕ 是从所有单例集合\*到所有事实的最大一致集合的双射。
 
 对于 i=1,3 或 4，Ti 蕴含 Coi。如果在每个理论中添加 No Twins，则每个 Ti 蕴含一个原则，该原则是通过在 Coi 中用‘F’替换‘ϕ’和用‘W’替换‘所有单例集合’得到的。
 
@@ -418,29 +414,29 @@ W4' 相当于 B2 + W3'，W2' 加上 B3 得到 W4'，W1' 加上 B2 得到 W2'。B
 
 我们理论的一些特性如下表所示，其中“+”表示“成立”，“-”表示“不成立”，“？”表示“不确定”。
 
-|               | T1 | T3 | T4 |
-| --------------- | ---- | ---- | ---- |
-| B1            | − | − | +  |
-| B2            | − | +  | +  |
-| B3            | − | − | +  |
-| B4            | − | − | +  |
-| W1            | − | − | ?  |
-| W2            | − | − | ?  |
-| W3            | − | − | ?  |
-| W4            | − | − | ?  |
-| W1'           | − | − | +  |
-| W2′          | − | − | +  |
-| W3′          | − | − | +  |
-| W4'           | − | − | +  |
-| * 丰富*       | − | − | +  |
-| * 没有双胞胎* | ?  | ?  | ?  |
-| * 模态标准*   | +  | +  | +  |
+|            | T1 | T3 | T4 |
+| ---------- | -- | -- | -- |
+| B1         | −  | −  | +  |
+| B2         | −  | +  | +  |
+| B3         | −  | −  | +  |
+| B4         | −  | −  | +  |
+| W1         | −  | −  | ?  |
+| W2         | −  | −  | ?  |
+| W3         | −  | −  | ?  |
+| W4         | −  | −  | ?  |
+| W1'        | −  | −  | +  |
+| W2′        | −  | −  | +  |
+| W3′        | −  | −  | +  |
+| W4'        | −  | −  | +  |
+| \* 丰富\*    | −  | −  | +  |
+| \* 没有双胞胎\* | ?  | ?  | ?  |
+| \* 模态标准\*  | +  | +  | +  |
 
 在没有双胞胎的情况下，T4 包含所有的 W。
 
 T1 是维特根斯坦逻辑原子主义的一个组成部分，在维特根斯坦的《逻辑哲学论》中有所体现。它也出现在克雷斯韦尔的 1972 年著作中。苏斯科在 1968 年的著作中有与 T4 非常接近的内容（参见附录文献《文献中的一些形式理论》）。
 
-阿姆斯特朗（1997）使用了一个不同的独立性概念，我们可以称之为独立性 *。一组事实是独立*的，如果给定它的任何子集 G 和其中的任何成员 x 不在 G 中，那么 G 的成员可以在没有 x 的情况下存在，也可以在有 x 的情况下存在。独立性比独立性*严格更强：一组的独立性*，但不是独立性，与该组中存在一个成员存在于每个世界是兼容的（当然，每次不是同一个成员）。阿姆斯特朗希望他所容忍的原子事实集是独立*的，尽管他意识到可能存在捍卫这一观点的困难。我们不知道他是否会希望他所容忍的原子事实集是独立的。无论如何，即使他持有这种观点，他也不会支持 T3，因为他承认“总体事实”（参见第 2.4.2 节），这些事实不是原子事实的连接。
+阿姆斯特朗（1997）使用了一个不同的独立性概念，我们可以称之为独立性 _。一组事实是独立_的，如果给定它的任何子集 G 和其中的任何成员 x 不在 G 中，那么 G 的成员可以在没有 x 的情况下存在，也可以在有 x 的情况下存在。独立性比独立性_严格更强：一组的独立性_，但不是独立性，与该组中存在一个成员存在于每个世界是兼容的（当然，每次不是同一个成员）。阿姆斯特朗希望他所容忍的原子事实集是独立\*的，尽管他意识到可能存在捍卫这一观点的困难。我们不知道他是否会希望他所容忍的原子事实集是独立的。无论如何，即使他持有这种观点，他也不会支持 T3，因为他承认“总体事实”（参见第 2.4.2 节），这些事实不是原子事实的连接。
 
 ### 事实和命题
 
@@ -470,7 +466,7 @@ T1 是维特根斯坦逻辑原子主义的一个组成部分，在维特根斯�
 
 一个可能希望在这个方向上施加的最低要求是以下内容：
 
-*Supervenience*. Fw=Fv implies Tw=Tv.
+_Supervenience_. Fw=Fv implies Tw=Tv.
 
 这意味着真理是事实的监督：没有事实上的差异就没有真理上的差异。
 
@@ -487,9 +483,9 @@ T1 是维特根斯坦逻辑原子主义的一个组成部分，在维特根斯�
 
 让我们来审视一些更强有力的原则。假设一些特定的事实（共同）必然导致命题 p，当且仅当 p 在它们存在的每个世界中都为真。集合 G 中的事实（共同）必然导致 p，当且仅当 ces(G)⊆ts(p)。让我们也说，一些特定的事实（共同）使命题 p 在世界 w 中为真，当且仅当它们都存在于 w 中并且它们必然导致这个命题。最后，让我们说，命题 p 代表一些特定的事实，当且仅当在每个 p 为真的世界中，它们中的一些存在。命题 p 代表 G 中的事实，当且仅当 ts(p)⊆des(G)。
 
-我们对事实制造的定义未能捕捉到人们在谈论事实制造时通常心中所持的解释性特征。如果某事使某命题为真，通常会被假定，那么该事物的存在就解释了该命题的真实性。现在应该清楚，按照我们定义的事实制造并不具有这种解释性。因为任何事物都是任何必然命题的真实制造者（按我们的定义），而可以争论的是，菲利普生活在日内瓦的事实并未解释你最喜欢的重言命题的真实性。再者，考虑苏格拉底及其单元素集[Socrates]。可以争论，正如我们先前强调的，假设苏格拉底存在这一事实和[Socrates]存在这一事实确实存在，这两个事实在完全相同的世界中成立。假设这是情况。现在有些人可能会认同这样的观点，即苏格拉底存在这一事实是苏格拉底存在这一命题的真实制造者（按通常的意义），因此这一观点认为该事实的成立解释了该命题的真实性，但认为该命题的真实性是由单元素存在这一事实的成立来解释的观点是极不可信的。然而，如果苏格拉底存在这一事实是苏格拉底存在这一命题的真实制造者（按我们的定义），那么单元素存在这一事实也是该命题的真实制造者（按我们的定义）。
+我们对事实制造的定义未能捕捉到人们在谈论事实制造时通常心中所持的解释性特征。如果某事使某命题为真，通常会被假定，那么该事物的存在就解释了该命题的真实性。现在应该清楚，按照我们定义的事实制造并不具有这种解释性。因为任何事物都是任何必然命题的真实制造者（按我们的定义），而可以争论的是，菲利普生活在日内瓦的事实并未解释你最喜欢的重言命题的真实性。再者，考虑苏格拉底及其单元素集\[Socrates]。可以争论，正如我们先前强调的，假设苏格拉底存在这一事实和\[Socrates]存在这一事实确实存在，这两个事实在完全相同的世界中成立。假设这是情况。现在有些人可能会认同这样的观点，即苏格拉底存在这一事实是苏格拉底存在这一命题的真实制造者（按通常的意义），因此这一观点认为该事实的成立解释了该命题的真实性，但认为该命题的真实性是由单元素存在这一事实的成立来解释的观点是极不可信的。然而，如果苏格拉底存在这一事实是苏格拉底存在这一命题的真实制造者（按我们的定义），那么单元素存在这一事实也是该命题的真实制造者（按我们的定义）。
 
-根据我们的定义，表述与人们在谈论命题代表事实时通常所想的也相去甚远：无法成立的命题代表（在我们的意义上）任何事实，如果“苏格拉底存在”这一命题代表（在我们的意义上）苏格拉底存在这一事实，那么它也代表（在我们的意义上）[苏格拉底]存在这一事实（假设这两个事实同时存在于同一世界）。
+根据我们的定义，表述与人们在谈论命题代表事实时通常所想的也相去甚远：无法成立的命题代表（在我们的意义上）任何事实，如果“苏格拉底存在”这一命题代表（在我们的意义上）苏格拉底存在这一事实，那么它也代表（在我们的意义上）\[苏格拉底]存在这一事实（假设这两个事实同时存在于同一世界）。
 
 尽管如上所定义的事实制造并不捕捉到通常的使真实的概念，我们在这里不会涉及后者的概念。我们也不会涉及通常的表征概念。
 
@@ -551,189 +547,189 @@ P3 可能会被理论 T1 的支持者接受。考虑以下假设：
 
 事实存在否定、合取或析取运算的观点与一些事实是复合的主张是相容的。因为在自然观点上，一个合取事实实际上是由构成它的事实组成的，否定和析取也是如此。（请注意，承认布尔运算中的任何两种将迫使人接受同一事实可以以几种方式组合以构成一个事实的观点。）接受对事实进行一些布尔运算并不意味着认为事实是复合的，但也不排除这种可能性：一个人可以接受，例如，某个给定事实是其他事实的合取，同时相信它的身份取决于它们而不将它们视为组成部分。
 
-事实的复杂性问题也独立于布尔组合问题而出现。在事实的朋友中，普遍认为某些事实是由对象和属性或关系构成的复杂实体，并对应于某些简单的断言，至少在每个世界中，如果事实成立，则断言为真。将这样的事实称为实质事实，并将这种观点称为实质主义。我们可以用“[R; a1,…,an]”来指代对象 a1,…,an 按顺序处于关系 R 的实质事实。根据实质主义，句子“苏格拉底是有限的”在先前的意义上对应于由苏格拉底和有限属性组成的某个事实，即[有限; 苏格拉底]，只有在这个世界中，苏格拉底体现了有限属性，该事实才成立。（对于这个具体例子，可能会有分歧，实际上对于任何特定例子都是如此。）实质主义是 Fine 所称的“客体主义”的一种形式（Fine 1982）。实质主义观点在 Russell PLA、Suszko 1968、Van Fraassen 1969、Taylor 1985、Armstrong 1997 以及或许 Wittgenstein TLP（“或许”，因为不清楚他认为哪些对象构成事实）。
+事实的复杂性问题也独立于布尔组合问题而出现。在事实的朋友中，普遍认为某些事实是由对象和属性或关系构成的复杂实体，并对应于某些简单的断言，至少在每个世界中，如果事实成立，则断言为真。将这样的事实称为实质事实，并将这种观点称为实质主义。我们可以用“\[R; a1,…,an]”来指代对象 a1,…,an 按顺序处于关系 R 的实质事实。根据实质主义，句子“苏格拉底是有限的”在先前的意义上对应于由苏格拉底和有限属性组成的某个事实，即\[有限; 苏格拉底]，只有在这个世界中，苏格拉底体现了有限属性，该事实才成立。（对于这个具体例子，可能会有分歧，实际上对于任何特定例子都是如此。）实质主义是 Fine 所称的“客体主义”的一种形式（Fine 1982）。实质主义观点在 Russell PLA、Suszko 1968、Van Fraassen 1969、Taylor 1985、Armstrong 1997 以及或许 Wittgenstein TLP（“或许”，因为不清楚他认为哪些对象构成事实）。
 
 整体的存在条件通常取决于其部分的事实。如果存在包含相应分离/连接的事实，那么任何这样的事实在一个世界中存在，当且仅当一些分离/所有连接存在。如果存在包含相应否定项目的负面事实，则前者在一个世界中存在，当且仅当后者不存在。这些存在条件被写入布尔运算的本质中。
 
-当我们涉及实质性事实时，事情并不那么简单。与集合的比较可能是有用的。有一种观点认为，集合的存在需要其成员的存在：在一个世界中，比如，苏格拉底存在但柏拉图不存在，集合[苏格拉底，柏拉图]就不存在。还有一种更自由的观点认为每个集合都是必然存在的。对应这两种立场的是以下关于事实的两种观点：
+当我们涉及实质性事实时，事情并不那么简单。与集合的比较可能是有用的。有一种观点认为，集合的存在需要其成员的存在：在一个世界中，比如，苏格拉底存在但柏拉图不存在，集合\[苏格拉底，柏拉图]就不存在。还有一种更自由的观点认为每个集合都是必然存在的。对应这两种立场的是以下关于事实的两种观点：
 
 1. 在一个世界中存在一个实质性事实，当且仅当在那个世界中（i）对象具有该属性且（ii）对象和属性存在
 2. 在一个世界中存在一个实质事实，当且仅当在那个世界中对象具有该属性。
 
-如果没有对象和属性存在，那么两种观点是相同的。否则它们是不同的。假设存在一个事实[人类；苏格拉底]。两种观点都可以容纳这样一个对象。但对于第一种观点，这个事实只会存在于苏格拉底存在的世界中，而对于第二种观点，苏格拉底具有人类属性就足够了。也可以认为苏格拉底在所有可能的世界中都具有人类属性，即使在他不存在的世界中也是如此。（当然，关于事实在不同时间下的存在条件也存在类似问题。）
+如果没有对象和属性存在，那么两种观点是相同的。否则它们是不同的。假设存在一个事实\[人类；苏格拉底]。两种观点都可以容纳这样一个对象。但对于第一种观点，这个事实只会存在于苏格拉底存在的世界中，而对于第二种观点，苏格拉底具有人类属性就足够了。也可以认为苏格拉底在所有可能的世界中都具有人类属性，即使在他不存在的世界中也是如此。（当然，关于事实在不同时间下的存在条件也存在类似问题。）
 
-这种分歧对于一个人对事实和命题之间关系的构想可能会产生重大影响是显而易见的。假定苏格拉底是人类是必然的，并且苏格拉底的存在是偶然的。那么，持有观点（b）的人，而不是持有观点（a）的人，可以声称苏格拉底是人类这个命题在一个世界中是真实的，当且仅当[人类；苏格拉底]在那个世界中存在。
+这种分歧对于一个人对事实和命题之间关系的构想可能会产生重大影响是显而易见的。假定苏格拉底是人类是必然的，并且苏格拉底的存在是偶然的。那么，持有观点（b）的人，而不是持有观点（a）的人，可以声称苏格拉底是人类这个命题在一个世界中是真实的，当且仅当\[人类；苏格拉底]在那个世界中存在。
 
 一个实体论者可能否认或接受事实之间存在连接的操作。如果他接受了这一点，他可能会将实质性事实的连接视为复杂的实体（相反的观点将会非常奇怪），确实是双重复杂的，具有连接结构，而连接部分又具有其自身的内部构成。类似的考虑也适用于析取和否定。
 
-(a)的支持者可能会否认事实上存在否定的操作。例如，考虑事实[是一位哲学家；苏格拉底]，假设存在相应的否定 x。然后，正如我们所看到的，声称 x 不是一个复杂事实，其中包含苏格拉底作为一个组成部分，这将是奇怪的。假设 x 具有这样的复杂性。现在考虑两个世界 w 和 v，其中在 w 中苏格拉底存在但不是一位哲学家，在 v 中苏格拉底不存在（因此也不是一位哲学家）。然后在两个世界中，声称苏格拉底不是一位哲学家的命题是真实的。根据观点(a)的支持者，x 存在于 w 中但不存在于 v 中。结果相当奇怪。类似的考虑适用于析取，但不适用于合取。
+(a)的支持者可能会否认事实上存在否定的操作。例如，考虑事实\[是一位哲学家；苏格拉底]，假设存在相应的否定 x。然后，正如我们所看到的，声称 x 不是一个复杂事实，其中包含苏格拉底作为一个组成部分，这将是奇怪的。假设 x 具有这样的复杂性。现在考虑两个世界 w 和 v，其中在 w 中苏格拉底存在但不是一位哲学家，在 v 中苏格拉底不存在（因此也不是一位哲学家）。然后在两个世界中，声称苏格拉底不是一位哲学家的命题是真实的。根据观点(a)的支持者，x 存在于 w 中但不存在于 v 中。结果相当奇怪。类似的考虑适用于析取，但不适用于合取。
 
 到目前为止，我们已经考虑了事实可能具有的两种复杂性类型：布尔复杂性（进而分为对应于各种布尔运算的各种类型）和实质事实的复杂性。但是，人们可能认为事实具有许多其他类型的复杂性。想想普遍事实（所有人都有大脑的事实），情态事实（苏格拉底可能是一名足球运动员的事实），等等。
 
-整体的身份条件往往取决于其部分的事实。何时两个实质性事实[R;a,b]和[S;c,d]是相同的？一个合理的答案是：当 R=S，a=c 和 b=d。这个答案对于模态准则的一个朋友有影响。接受所提出的身份条件和模态准则，一个人不能声称存在着不同但必然相互对应的属性（这些属性是某些事实的一部分），或者事实[人类；苏格拉底]和[拥有一个人类成员；[苏格拉底]]是不同的，即使在合理的假设下，它们存在于完全相同的世界中。
+整体的身份条件往往取决于其部分的事实。何时两个实质性事实\[R;a,b]和\[S;c,d]是相同的？一个合理的答案是：当 R=S，a=c 和 b=d。这个答案对于模态准则的一个朋友有影响。接受所提出的身份条件和模态准则，一个人不能声称存在着不同但必然相互对应的属性（这些属性是某些事实的一部分），或者事实\[人类；苏格拉底]和\[拥有一个人类成员；\[苏格拉底]]是不同的，即使在合理的假设下，它们存在于完全相同的世界中。
 
 ## Bibliography
 
-* Anderson, Alan Ross and Nuel D. Belnap, 1975, *Entailment: The Logic of Relevance and Necessity*, Volume I, Princeton, NJ: Princeton University Press.
-* Anscombe, G. E. M., 1958, “On Brute Facts”, *Analysis*, 18: 69–72.
-* Armstrong, D.M., 1997, *A World of States of Affairs*, (Cambridge studies in philosophy), Cambridge: Cambridge University Press.
-* –––, 2004, *Truth and Truthmakers*, (Cambridge studies in philosophy), Cambridge: Cambridge University Press.
-* Austin, J.L., 1970, “Unfair to Facts”, in his *Philosophical Papers*, Oxford: Oxford University Press, 154–174. doi:10.1093/019283021X.003.0007
-* Barnes, Eric, 1994, “Explaining Brute Facts”, *Proceedings of the Philosophy of Science Association*, 199: 61–68.
-* Barwise, Jon and John Perry, 1981, “Semantic Innocence and Uncompromising Situations”, *Midwest Studies in the Philosophy of Language*, 6(1): 387–404. doi:10.1111/j.1475-4975.1981.tb00447.x
-* Baylis, C.A., 1948, “Facts, Propositions, Exemplification and Truth”, *Mind*, 57(228): 459–479. doi:10.1093/mind/LVII.228.459
-* Baysan, Umut, 2019, “Emergence, Function, and Realization”, in S. Gibb, R. Hendry, & T. Lancaster (eds.), *Routledge Handbook of Emergence*, London & New York: Routledge.
-* Bennett, Jonathan, 1988, *Events and their Names*, Indianapolis: Hackett.
-* –––, 1984, *A Study of Spinoza’s Ethics*, Indianapolis: Hackett.
-* Bennett, Karen, 2011, “By Our Bootstraps”, *Philosophical Perspectives*, 25: 27–41.
-* Berger, Harold, 1999, “Ueber Entstehen und Vergehen der Sachverhaltsontologie im Spätmittelalter”, in *Entwicklungslinien mittelalterlicher Philosophie*, G. Leibold & W. Löffler (eds.), Vienna: Hölder-Pichler-Tempsky, 208–221.
-* Bergmann, Gustav, 1967, *Realism: A Critique of Brentano and Meinong*, Madison, WI: The University of Wisconsin Press.
-* –––, 1992, *New Foundations of Ontology*, Madison, WI: The University of Wisconsin Press.
-* Betti, Arianna, 2015, *Against Facts*, Cambridge, MA: The MIT Press.
-* Black, Max, 1964, *A Companion to Wittgenstein’s Tractatus*, Cambridge: Cambridge University Press.
-* Bolzano, Bernard, 1837, *Wissenschaftslehre. Versuch einer ausführlichen und grösstentheils neuen Darstellung der Logik mit steter Rücksicht auf deren bisherige Bearbeiter*, 4 volumes, Sulzbach: J. E. v. Seidel; English translation, *Theory of Science*, Volumes I–IV, Paul Rusnock and Rolf George (trans.) Oxford: Oxford University Press, 2014.
-* Bradley, F.H. 1893, *Appearance and Reality*, London: Swan Sonnenschein & Co, New York: The Macmillan Company
-* –––, 1883 [1922], *The Principles of Logic*, Vol. 1, (first ed. 1883), London: Oxford University Press, London: Humphrey Milford.
-* Carnap, Rudolf, 1936, *Meaning and Necessity*, Chicago: University of Chicago Press.
-* –––, 1959, “Introduction to Semantics”, in: *Introduction to Semantics and Formalization of Logic*, Cambridge, MA: Harvard University Press.
-* Cesalli, Laurent, 2007, *Le réalisme propositionnel. Sémantique et ontologie des propositions chez Jean Duns Scot*, Gauthier Burley, Richard Brinkley et Jean Wyclif, Paris: Vrin
-* Clarke, R., 1975, “Facts, Fact-Correlates and Fact-Surrogates”, in *Fact, Value and Perception: Essays in Honour of Charles Baylis*, Paul Welsch (ed.), Chapel Hill: The University of North Carolina Press, 3–17.
-* Correia, Fabrice and Sven Rosenkranz, 2011, *As Time Goes By: Eternal Facts in an Ageing Universe*, Paderborn: Mentis.
-* Correia, Fabrice and Benjamin Schnieder, 2012, “Grounding: An Opinionated Introduction”, in F. Correia and B. Schnieder (eds.), *Metaphysical Grounding: Understanding the Structure of Reality*, Cambridge: Cambridge University Press.
-* Cresswell, M.J., 1972, “The World is Everything that is the Case”, *Australasian Journal of Philosophy*, 50(1): 1–13. Reprinted in M.J. Loux (ed.), 1979, *The Possible and the Actual: Readings in the Metaphysics of Modality*, Ithaca, NY: Cornell University Press. doi:10.1080/00048407212341001
-* Crivelli, Paolo, 2004, *Aristotle on Truth*, Cambridge: Cambridge University Press.
-* Dancy, Jonathan, 2000, *Practical Reality*, Oxford: Oxford University Press. doi:10.1093/0199253056.001.0001
-* Dasgupta, Shamik, 2014, “On the Plurality of Grounds”, *Philosophers’ Imprint*, 14(20): 1–28. [[available online](http://hdl.handle.net/2027/spo.3521354.0014.020)]
-* –––, 2016, “Metaphysical Rationalism”, *Noûs*, 50: 379–418.
-* –––, 2017, “Can We Do Without Fundamental Individuals? Yes”, in Elizabeth Barnes (ed.), *Current Controversies in Metaphysics*, London: Routledge.
-* Davidson, Donald, 1969, “True to the Facts”, *Journal of Philosophy*, 66(21): 748–764. doi:10.2307/2023778
-* Dixon, Scott, 2016, “What Is the Well-Foundedness of Grounding?”, *Mind*, 125: 439–468.
-* Dodd, J., 2000, *An Identity Theory of Truth*, London: Macmillan.
-* Ducasse, C.J., 1968, “Propositions, Opinions, Sentences and Facts”, in his *Truth, Knowledge and Causation*, London: Routledge & Kegan Paul, 179–191.
-* Dummett, Michael, 1973, *Frege: Philosophy of Language*, London: Duckworth.
-* Élie, Hubert, 1937, *Le Complexe significabile*, Paris: Vrin.
-* Feit, Neil, 1998, “More on Brute Facts”, *Australasian Journal of Philosophy*, 76: 625–630.
-* Fine, Kit, 1982, “First-Order Modal Theories III—Facts”, *Synthese*, 53(1): 43–122.
-* –––, 1994, “Essence and Modality”, *Philosophical Perspectives*, 8: 1–16.
-* –––, 2005, “Tense and Reality”, in his *Modality and Tense*, Oxford: Oxford University Press, 261–320.
-* Frege, Gottlob, 1879, *Begriffsschrift und andere Aufsätze*, ed. I. Angelelli, Darmstadt: Wissenschaftliche Buchgesellschaft, 1964.
-* –––, 1884, *The Foundations of Arithmetic*, Oxford: Basil Blackwell, 1950.
-* –––, 1918 [1988], “Thoughts”, in N. Salmon & S. Soames (eds.), *Propositions and Attitudes*, Oxford: Oxford University Press, 1988.
-* Gardies, Jean-Louis, 1985, *Rational Grammar*, Munich: Philosophia Verlag.
-* Geach, Peter, 1969, *God and the Soul*, London: Routledge & Kegan Paul.
-* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi:10.1093/analys/23.6.121
-* Glazier, Martin, 2017, “Essentialist Explanation”, *Philosophical Studies*, 174: 2871–2889.
-* Hale, Bob, 2013, *Necessary Beings. An Essay on Ontology, Modality, and the Relations between Them*, Oxford: Oxford University Press.
-* Hochberg, Herbert, 1999, “D.M. Armstrong, *A World of States of Affairs*”, *Noûs*, 33(3): 473–495. doi:10.1111/0029-4624.00165
-* –––, 2001, *The Positivist and the Ontologist. Bergmann, Carnap and Logical Realism*, Amsterdam: Rodopi.
-* –––, 2003, *Introducing Analytic philosophy. Its Sense and Nonsense 1879–2002*, Frankfurt: Ontos Verlag.
-* Hossack, Keith, 2007, *The Metaphysics of Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199206728.001.0001
-* Hudson, Hud, 1997, “Brute Facts”, *Australasian Journal of Philosophy*, 75: 77–82.
-* Husserl, Edmund, 1913, *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie* I (*Husserliana* III), W. Biemel (ed.), The Hague: Nijhoff, 1950.
-* –––, [*LU*] 1900–1901, *Logische Untersuchungen*, E. Holstein (ed.), The Hague: Martinus Nijhoff; English translation, *Logical Investigations*, J. Findlay (trans.), London: Routledge and Kegan Paul, 1973, 2 volumes.
-* –––, [*Logic* 1902/03] 2001, *Logik. Vorlesung 1902/03* (*Husserliana*, Materialienband II), E. Schuhmann (ed.), Kluwer: Dordrecht.
-* Ingarden, Roman, 1965, *Formalontologie*, Vol. II, Part 1 of *Der Streit um die Existenz der Welt*, Tübingen: Niemeyer.
-* Johansson, I., 2004, *Ontological Investigations. An Inquiry into the Categories of Nature, Man and Society*, Frankfurt: Ontos Verlag.
-* Kratzer, Angelika, 2002, “Facts: Particulars or Information Units?”, *Linguistics and Philosophy*, 25(5–6): 655–670. doi:10.1023/A:1020807615085
-* Künne, Wolfgang, 2003, *Conceptions of Truth*, Oxford: Clarendon Press. doi:10.1093/0199241317.001.0001
-* Levine, J., 1996, “Logic and Truth in Frege”, *Aristotelian Society Supplementary Volume*, 70(1): 141–175. doi:10.1093/aristoteliansupp/70.1.121
-* Lowe, E. J., 1998, *The Possibility of Metaphysics: Substance, Identity and Time*, Oxford: Clarendon Press. doi:10.1093/0199244995.001.0001
-* –––, 2012, “What is the Source of Our Knowledge of Modal Truths?”, *Mind*, 121: 919–950.
-* Markosian, Ned, 1998, “Brutal Composition”, *Philosophical Studies*, 92: 211–249.
-* Marshall, Dan, 2016a, “The Varieties of Intrinsicality”, *Philosophy and Phenomenological Research*, 92(2): 237–263. doi:10.1111/phpr.12156
-* –––, 2016b, “An Analysis of Intrinsicality”, *Noûs*, 50(4): 704–739. doi:10.1111/nous.12087
-* McDaniel, Kris, 2018, “The Principle of Sufficient Reason and Necessitarianism”, *Analysis*, 79: 230–236.
-* McKenzie, Kerry, 2017, “Against Brute Fundamentalism”, *Dialectica*, 71: 231–261.
-* McTaggart, J.M.E., 1921, *The Nature of Existence* (Volume 1), Cambridge: Cambridge University Press.
-* Meinong, Alexius, 1902, *Über Annahmen* (second edition 1910), reprinted in his *Gesamtausgabe*, IV, Graz: Akademische Druck- u. Verlagsanstalt, 1969. English translation of the second edition by James Heanue, *On Assumptions*, Berkeley: University of California Press, 1983.
-* Meixner, Uwe, 1997, *Axiomatic Formal Ontology*, Dordrecht: Kluwer
-* Mellor, H., 1995, *The Facts of Causation*, London & New York: Routledge.
-* –––, 1998, *Real Time II*, London & New York: Routledge.
-* Menzies, Peter, 1989, “A Unified Account of Causal Relata”, *Australasian Journal of Philosophy*, 67(1): 59–83. doi:10.1080/00048408912343681
-* Morscher, E., 1986, “Propositions and States of Affairs in Austrian Philosophy before Wittgenstein”, J.C. Nyiri (ed.), *From Bolzano to Wittgenstein*, Vienna: Verlag Hölder-Pichler-Tempsky, 75-85.
-* Mulligan, K., 2006a, “Wahrheit und das Wahrmacher-Prinzip im Jahr 1921”, *Untersuchungen zur Ontologie*, G. Imaguire & C. Schneider (eds.), Munich: Philosophia, 55–78.
-* –––, 2006b, “Facts, Formal Objects and Ontology”, *Modes of Existence. Papers in Ontology and Philosophical Logic*, Andrea Bottani & Richard Davies (eds.), Frankfurt: Ontos Verlag, 31–46
-* –––, 2007, “Two Dogmas of Truthmaking”, in J.M. Monnoyer (ed.), *Metaphysics and Truthmakers*, Frankfurt: Ontos.
-* Neale, Stephen, 2001, *Facing Facts*, Oxford: Clarendon Press. doi:10.1093/0199247153.001.0001
-* Olson, Kenneth Russell, 1987, *An Essay on Facts*, Stanford, CA: CSLI Publications.
-* Perler, Dominik, 1994, “Late Medieval Ontologies of Facts”, *The Monist*, 77(2): 149–169. doi:10.5840/monist199477214
-* Persson, J., 1997, *Causal Facts*, Stockholm: Thales.
-* Pfänder, Adolf, 1921, *Logik*, in *Jahrbuch für Philosophie und phänomenologische Forschung*, Vol. IV, 139–494; reprinted, Mariano Crespo (ed.), Heidelberg: Winter, 2000.
-* Plantinga, Alvin, 1974, *The Nature of Necessity*, London: Oxford University Press. doi:10.1093/0198244142.001.0001
-* Rabin, Gabriel Oak and Rabern, Brian, 2016, “Well Founding Grounding Grounding”, *Journal of Philosophical Logic*, 45: 349–379.
-* Ramsey, F.P., 1927, “Symposium: Facts and Propositions”, part 1 (with G.E. Moore doing part 2), *Aristotelian Society Supplementary Volume*, 7: 153–170, reprinted in *The Foundations of Mathematics*, London: Kegan Paul, 1931. doi:10.1093/aristoteliansupp/7.1.153
-* Récanati, François, 2000, *Oratio Obliqua, Oratio Recta: An Essay on Metarepresentation*, Cambridge, MA: The MIT Press
-* Restall, Greg, 2004, “One Way to Face Facts”, *Philosophical Quarterly*, 54(216): 420–426. doi:10.1111/j.0031-8094.2004.00361.x
-* Reinach, Adolf, 1911 [1982], “Zur Theorie des negativen Urteils”, in *Münchener Philosophische Abhandlungen*, A. Pfänder (ed.), Leipzig: Barth. Translated as “On the Theory of Negative Judgement” in Barry Smith (ed.), *Parts and Moments. Studies in Logic and Formal Ontology*, Munich: Philosophia Verlag, pp. 315–378. [Reinach 1911 [1982] available online](http://ontology.buffalo.edu/smith/book/P&M/)
-* Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and Reduction”, in B. Hale & A. Hoffmann (eds.), *Modality: Metaphysics, Logic, and Epistemology*, Oxford: Oxford University Press, 109–136.
-* Rundle, Bede, 1993, *Facts*, London: Duckworth.
-* Russell, Bertrand, 1906–1907, “On the Nature of Truth”, *Proceedings of the Aristotelian Society* (New Series), 7: 28–49.
-* –––, [*ONTF*] 1910 [1976], “On the Nature of Truth and Falsehood”, *Philosophical Essays*, London: Allen & Unwin.
-* –––, [*PLA*] 1918 [1956], “The Philosophy of Logical Atomism”, in R.C. Marsh (ed.), *Logic and Knowledge*, London: Allen & Unwin.
-* –––, 1940 [1967], *An Inquiry into Meaning and Truth*, Harmondsworth: Penguin.
-* Salmon, Wesley, 1984, “Scientific explanation: Three basic conceptions”, *Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 2: 293–305.
-* Schaffer, Jonathan, 2009, “On What Grounds What”, in D. Manley, D. J. Chalmers & R. Wasserman (eds.), *Metametaphysics*: *New Essays on the Foundations of Ontology*, Oxford: Oxford University Press, 347–383.
-* Scheler, Max, c.1911–1912 [1973], “Lehre von den drei Tatsachen”, in *Schriften aus dem Nachlass: I, Zur Ethik und Erkenntnislehre*, second edition, Maria Scheler (ed) 1957 pp. 433–502. Translated into English as “The Theory of the Three Facts”, *Selected Philosophical Essays*, David Lachterman (tr.), Evanston: Northwestern University Press, 202–287.
-* Schmutz, Jakob, 2002, “Sebastián Izquierdo : de la science divine à l’ontologie des états de choses”, in Jean-Christophe Bardout and Olivier Boulnois (eds.), *Sur la science divine*, Paris: PUF (Epiméthée), 412–435.
-* Schnieder, Benjamin Sebastian, 2005, “Property Designators, Predicates, and Rigidity”, *Philosophical Studies*, 122(3): 227–41. doi:10.1007/s11098-005-1292-y
-* Searle, John, 1983, *Intentionality: An Essay in the Philosophy of Mind*, Cambridge: Cambridge University Press.
-* –––, 1995, “Truth: A Reconsideration of Strawson’s View”, in L.E. Hahn (ed.), *The Philosophy of P.F. Strawson*, Chicago: Open Court.
-* Sierszulska, A., 2005, *Meinong on Meaning and Truth*, Frankfurt: Ontos Verlag.
-* Simons, Peter, 1988, “Aristotle’s Concept of State of Affairs”, in Olof Gigon and Michael W. Fischer (eds.), *Antike Rechts- und Sozialphilosophie*, Frankfurt/Bern: Lang, 97–112.
-* –––, 1999, “Tatsache II”, in Joachim Ritter, Karlfried Gründer, and Gottfried Gabriel (eds.), *Historisches Wörterbuch der Philosophie*, Volume 10, Basel: Schwabe, 914–5.
-* Smith, Barry, 1989, “Logic and the *Sachverhalt*”, *The Monist* 72(1): 52–69. doi:10.5840/monist19897212
-* –––, 1992, “Sachverhalt”, in *Historisches Wörterbuch der Philosophie*, Volume 8, J. Ritter and K. Gründer (eds.), Stuttgart and Basel: Schwabe, 1102–1113.
-* Soames, Scott, 2010, *What is Meaning?*, Princeton: Princeton University Press.
-* Sprigge, Timothy, 1970, *Facts, Words and Beliefs*, London: Routledge & Kegan Paul.
-* Stalnaker, Robert, 1976, “Propositions”, in Alfred F. MacKay and Daniel D. Merrill (eds.), *Issues in the Philosophy of Language*, New Haven, CT: Yale University Press, 79–91.
-* Stout, G.F., 1910–1911, “The Object of Thought and Real Being”, *Proceedings of the Aristotelian Society*, 11: 187–205.
-* Sundholm, Göran, 1994, “Existence, Proof and Truth-Making: A Perspective on the Intuitionistic Conception of Truth”, *Topoi*, 13(2): 117–126. doi:10.1007/BF00763510
-* Suszko, Roman, 1968, “Ontology in the *Tractatus* of L. Wittgenstein”, *Notre Dame Journal of Formal Logic*, 9(1): 7–33. doi:10.1305/ndjfl/1093893349
-* Taylor, Barry, 1985, *Modes of Occurrence: Verbs, Adverbs and Events*, Oxford: Blackwell.
-* Tegtmeier, Erwin, 1992, *Grundzüge einer kategorialen Ontologie. Dinge, Eigenschaften, Beziehungen, Sachverhalte*, Freiburg, Munich: Alber Verlag
-* Trogdon, Kelly, 2013, “An Introduction to Grounding”, in Miguel Hoeltje, Benjamin Schnieder and Alex Steinberg (eds.), *Varieties of Dependence: Ontological Dependence, Grounding, Supervenience, Response-Dependence*, Munich: Philosophia.
-* Tye, Michael, 1981, “On an Objection to the Synonymy Principle of Property Identity”, *Analysis*, 41(1): 22–26. doi:10.1093/analys/41.1.22
-* Vallicella, William F., 2000, “Three Conceptions of States of Affairs”, *Noûs*, 34(2): 237–259. doi:10.1111/0029-4624.00209
-* Van Fraassen, Bas C., 1969, “Facts and Tautological Entailments”, *Journal of Philosophy*, 66(15): 477–487. doi:10.2307/2024563
-* Van Inwagen, Peter, 1983, *An Essay of Free Will*, Oxford: Oxford University Press.
-* –––, 1990, *Material Beings*, Ithaca: Cornell University Press.
-* Vendler, Zeno, 1967a. *Linguistics in Philosophy*, Ithaca: Cornell University Press.
-* –––, 1967b. “Causal Relations”, *Journal of Philosophy*, 64(21): 704–713. doi:10.2307/2023854
-* –––, 1972, *Res Cogitans. An Essay in Rational Psychology*, Ithaca, NY: Cornell University Press.
-* Vickers, John M., 2004, “Ramsey on Judgement: the Theory of ‘Facts and Propositions’”, *Dialectica*, 58(4): 499–516. doi:10.1111/j.1746-8361.2004.tb00321.x
-* Vintiadis, Elly and Mekios, Constantinos, 2018, *Brute Facts*, Oxford: Oxford University Press.
-* Werner, Jonas, 2020, “Plural Grounding and the Principle of Sufficient Reason”, *Analysis*, 80: 90–95.
-* Werner, Karl 1859, *Der heilige Thomas von Aquino* (Volume 2: *Die Lehre des heiligen Thomas Aquinas*), Regensburg: Manz.
-* Whitehead, Alfred North and Bertrand Russell, 1910, *Principia Mathematica*, Cambridge: Cambridge University Press.
-* Williamson, Timothy, 2000, *Knowledge and its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
-* Wisdom, John, 1931, “Logical Constructions (I)”, *Mind*, 40(158): 188–216, “Logical Constructions (II)”, *Mind*, 40 (160): 460–475. doi:10.1093/mind/XL.158.188 doi:10.1093/mind/XL.160.460
-* –––, 1970, *Problems of Mind and Matter*, Cambridge: Cambridge University Press.
-* Wittgenstein, Ludwig, [*TLP*] 1921 [1961], *Tractatus Logico-Philosophicus*, London: Routledge. Reprinted 1961.
-* Wolniewicz, Bogusław, 1982, “A Formal Ontology of Situations”, *Studia Logica*, 41(4): 381–413. doi:10.1007/BF00403338
-* –––, 1983, “Logical Space and Metaphysical Systems”, *Studia Logica*, 42(2/3): 269–284. doi:10.1007/BF01063846
-* Yagiwasa, Takashi, 1997, “A Somewhat Russellian Theory of Intensional Contexts”, *Philosophical Perspectives*, 11: 43–82.
-* Zalta, Edward, 1991, “A Theory of Situations”, in Jon Barwise *et al*. (eds.), *Situation Theory and Its Applications*, Volume 2, Stanford: CSLI Publications.
+* Anderson, Alan Ross and Nuel D. Belnap, 1975, _Entailment: The Logic of Relevance and Necessity_, Volume I, Princeton, NJ: Princeton University Press.
+* Anscombe, G. E. M., 1958, “On Brute Facts”, _Analysis_, 18: 69–72.
+* Armstrong, D.M., 1997, _A World of States of Affairs_, (Cambridge studies in philosophy), Cambridge: Cambridge University Press.
+* –––, 2004, _Truth and Truthmakers_, (Cambridge studies in philosophy), Cambridge: Cambridge University Press.
+* Austin, J.L., 1970, “Unfair to Facts”, in his _Philosophical Papers_, Oxford: Oxford University Press, 154–174. doi:10.1093/019283021X.003.0007
+* Barnes, Eric, 1994, “Explaining Brute Facts”, _Proceedings of the Philosophy of Science Association_, 199: 61–68.
+* Barwise, Jon and John Perry, 1981, “Semantic Innocence and Uncompromising Situations”, _Midwest Studies in the Philosophy of Language_, 6(1): 387–404. doi:10.1111/j.1475-4975.1981.tb00447.x
+* Baylis, C.A., 1948, “Facts, Propositions, Exemplification and Truth”, _Mind_, 57(228): 459–479. doi:10.1093/mind/LVII.228.459
+* Baysan, Umut, 2019, “Emergence, Function, and Realization”, in S. Gibb, R. Hendry, & T. Lancaster (eds.), _Routledge Handbook of Emergence_, London & New York: Routledge.
+* Bennett, Jonathan, 1988, _Events and their Names_, Indianapolis: Hackett.
+* –––, 1984, _A Study of Spinoza’s Ethics_, Indianapolis: Hackett.
+* Bennett, Karen, 2011, “By Our Bootstraps”, _Philosophical Perspectives_, 25: 27–41.
+* Berger, Harold, 1999, “Ueber Entstehen und Vergehen der Sachverhaltsontologie im Spätmittelalter”, in _Entwicklungslinien mittelalterlicher Philosophie_, G. Leibold & W. Löffler (eds.), Vienna: Hölder-Pichler-Tempsky, 208–221.
+* Bergmann, Gustav, 1967, _Realism: A Critique of Brentano and Meinong_, Madison, WI: The University of Wisconsin Press.
+* –––, 1992, _New Foundations of Ontology_, Madison, WI: The University of Wisconsin Press.
+* Betti, Arianna, 2015, _Against Facts_, Cambridge, MA: The MIT Press.
+* Black, Max, 1964, _A Companion to Wittgenstein’s Tractatus_, Cambridge: Cambridge University Press.
+* Bolzano, Bernard, 1837, _Wissenschaftslehre. Versuch einer ausführlichen und grösstentheils neuen Darstellung der Logik mit steter Rücksicht auf deren bisherige Bearbeiter_, 4 volumes, Sulzbach: J. E. v. Seidel; English translation, _Theory of Science_, Volumes I–IV, Paul Rusnock and Rolf George (trans.) Oxford: Oxford University Press, 2014.
+* Bradley, F.H. 1893, _Appearance and Reality_, London: Swan Sonnenschein & Co, New York: The Macmillan Company
+* –––, 1883 \[1922], _The Principles of Logic_, Vol. 1, (first ed. 1883), London: Oxford University Press, London: Humphrey Milford.
+* Carnap, Rudolf, 1936, _Meaning and Necessity_, Chicago: University of Chicago Press.
+* –––, 1959, “Introduction to Semantics”, in: _Introduction to Semantics and Formalization of Logic_, Cambridge, MA: Harvard University Press.
+* Cesalli, Laurent, 2007, _Le réalisme propositionnel. Sémantique et ontologie des propositions chez Jean Duns Scot_, Gauthier Burley, Richard Brinkley et Jean Wyclif, Paris: Vrin
+* Clarke, R., 1975, “Facts, Fact-Correlates and Fact-Surrogates”, in _Fact, Value and Perception: Essays in Honour of Charles Baylis_, Paul Welsch (ed.), Chapel Hill: The University of North Carolina Press, 3–17.
+* Correia, Fabrice and Sven Rosenkranz, 2011, _As Time Goes By: Eternal Facts in an Ageing Universe_, Paderborn: Mentis.
+* Correia, Fabrice and Benjamin Schnieder, 2012, “Grounding: An Opinionated Introduction”, in F. Correia and B. Schnieder (eds.), _Metaphysical Grounding: Understanding the Structure of Reality_, Cambridge: Cambridge University Press.
+* Cresswell, M.J., 1972, “The World is Everything that is the Case”, _Australasian Journal of Philosophy_, 50(1): 1–13. Reprinted in M.J. Loux (ed.), 1979, _The Possible and the Actual: Readings in the Metaphysics of Modality_, Ithaca, NY: Cornell University Press. doi:10.1080/00048407212341001
+* Crivelli, Paolo, 2004, _Aristotle on Truth_, Cambridge: Cambridge University Press.
+* Dancy, Jonathan, 2000, _Practical Reality_, Oxford: Oxford University Press. doi:10.1093/0199253056.001.0001
+* Dasgupta, Shamik, 2014, “On the Plurality of Grounds”, _Philosophers’ Imprint_, 14(20): 1–28. \[[available online](http://hdl.handle.net/2027/spo.3521354.0014.020)]
+* –––, 2016, “Metaphysical Rationalism”, _Noûs_, 50: 379–418.
+* –––, 2017, “Can We Do Without Fundamental Individuals? Yes”, in Elizabeth Barnes (ed.), _Current Controversies in Metaphysics_, London: Routledge.
+* Davidson, Donald, 1969, “True to the Facts”, _Journal of Philosophy_, 66(21): 748–764. doi:10.2307/2023778
+* Dixon, Scott, 2016, “What Is the Well-Foundedness of Grounding?”, _Mind_, 125: 439–468.
+* Dodd, J., 2000, _An Identity Theory of Truth_, London: Macmillan.
+* Ducasse, C.J., 1968, “Propositions, Opinions, Sentences and Facts”, in his _Truth, Knowledge and Causation_, London: Routledge & Kegan Paul, 179–191.
+* Dummett, Michael, 1973, _Frege: Philosophy of Language_, London: Duckworth.
+* Élie, Hubert, 1937, _Le Complexe significabile_, Paris: Vrin.
+* Feit, Neil, 1998, “More on Brute Facts”, _Australasian Journal of Philosophy_, 76: 625–630.
+* Fine, Kit, 1982, “First-Order Modal Theories III—Facts”, _Synthese_, 53(1): 43–122.
+* –––, 1994, “Essence and Modality”, _Philosophical Perspectives_, 8: 1–16.
+* –––, 2005, “Tense and Reality”, in his _Modality and Tense_, Oxford: Oxford University Press, 261–320.
+* Frege, Gottlob, 1879, _Begriffsschrift und andere Aufsätze_, ed. I. Angelelli, Darmstadt: Wissenschaftliche Buchgesellschaft, 1964.
+* –––, 1884, _The Foundations of Arithmetic_, Oxford: Basil Blackwell, 1950.
+* –––, 1918 \[1988], “Thoughts”, in N. Salmon & S. Soames (eds.), _Propositions and Attitudes_, Oxford: Oxford University Press, 1988.
+* Gardies, Jean-Louis, 1985, _Rational Grammar_, Munich: Philosophia Verlag.
+* Geach, Peter, 1969, _God and the Soul_, London: Routledge & Kegan Paul.
+* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, _Analysis_, 23(6): 121–123. doi:10.1093/analys/23.6.121
+* Glazier, Martin, 2017, “Essentialist Explanation”, _Philosophical Studies_, 174: 2871–2889.
+* Hale, Bob, 2013, _Necessary Beings. An Essay on Ontology, Modality, and the Relations between Them_, Oxford: Oxford University Press.
+* Hochberg, Herbert, 1999, “D.M. Armstrong, _A World of States of Affairs_”, _Noûs_, 33(3): 473–495. doi:10.1111/0029-4624.00165
+* –––, 2001, _The Positivist and the Ontologist. Bergmann, Carnap and Logical Realism_, Amsterdam: Rodopi.
+* –––, 2003, _Introducing Analytic philosophy. Its Sense and Nonsense 1879–2002_, Frankfurt: Ontos Verlag.
+* Hossack, Keith, 2007, _The Metaphysics of Knowledge_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199206728.001.0001
+* Hudson, Hud, 1997, “Brute Facts”, _Australasian Journal of Philosophy_, 75: 77–82.
+* Husserl, Edmund, 1913, _Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie_ I (_Husserliana_ III), W. Biemel (ed.), The Hague: Nijhoff, 1950.
+* –––, \[_LU_] 1900–1901, _Logische Untersuchungen_, E. Holstein (ed.), The Hague: Martinus Nijhoff; English translation, _Logical Investigations_, J. Findlay (trans.), London: Routledge and Kegan Paul, 1973, 2 volumes.
+* –––, \[_Logic_ 1902/03] 2001, _Logik. Vorlesung 1902/03_ (_Husserliana_, Materialienband II), E. Schuhmann (ed.), Kluwer: Dordrecht.
+* Ingarden, Roman, 1965, _Formalontologie_, Vol. II, Part 1 of _Der Streit um die Existenz der Welt_, Tübingen: Niemeyer.
+* Johansson, I., 2004, _Ontological Investigations. An Inquiry into the Categories of Nature, Man and Society_, Frankfurt: Ontos Verlag.
+* Kratzer, Angelika, 2002, “Facts: Particulars or Information Units?”, _Linguistics and Philosophy_, 25(5–6): 655–670. doi:10.1023/A:1020807615085
+* Künne, Wolfgang, 2003, _Conceptions of Truth_, Oxford: Clarendon Press. doi:10.1093/0199241317.001.0001
+* Levine, J., 1996, “Logic and Truth in Frege”, _Aristotelian Society Supplementary Volume_, 70(1): 141–175. doi:10.1093/aristoteliansupp/70.1.121
+* Lowe, E. J., 1998, _The Possibility of Metaphysics: Substance, Identity and Time_, Oxford: Clarendon Press. doi:10.1093/0199244995.001.0001
+* –––, 2012, “What is the Source of Our Knowledge of Modal Truths?”, _Mind_, 121: 919–950.
+* Markosian, Ned, 1998, “Brutal Composition”, _Philosophical Studies_, 92: 211–249.
+* Marshall, Dan, 2016a, “The Varieties of Intrinsicality”, _Philosophy and Phenomenological Research_, 92(2): 237–263. doi:10.1111/phpr.12156
+* –––, 2016b, “An Analysis of Intrinsicality”, _Noûs_, 50(4): 704–739. doi:10.1111/nous.12087
+* McDaniel, Kris, 2018, “The Principle of Sufficient Reason and Necessitarianism”, _Analysis_, 79: 230–236.
+* McKenzie, Kerry, 2017, “Against Brute Fundamentalism”, _Dialectica_, 71: 231–261.
+* McTaggart, J.M.E., 1921, _The Nature of Existence_ (Volume 1), Cambridge: Cambridge University Press.
+* Meinong, Alexius, 1902, _Über Annahmen_ (second edition 1910), reprinted in his _Gesamtausgabe_, IV, Graz: Akademische Druck- u. Verlagsanstalt, 1969. English translation of the second edition by James Heanue, _On Assumptions_, Berkeley: University of California Press, 1983.
+* Meixner, Uwe, 1997, _Axiomatic Formal Ontology_, Dordrecht: Kluwer
+* Mellor, H., 1995, _The Facts of Causation_, London & New York: Routledge.
+* –––, 1998, _Real Time II_, London & New York: Routledge.
+* Menzies, Peter, 1989, “A Unified Account of Causal Relata”, _Australasian Journal of Philosophy_, 67(1): 59–83. doi:10.1080/00048408912343681
+* Morscher, E., 1986, “Propositions and States of Affairs in Austrian Philosophy before Wittgenstein”, J.C. Nyiri (ed.), _From Bolzano to Wittgenstein_, Vienna: Verlag Hölder-Pichler-Tempsky, 75-85.
+* Mulligan, K., 2006a, “Wahrheit und das Wahrmacher-Prinzip im Jahr 1921”, _Untersuchungen zur Ontologie_, G. Imaguire & C. Schneider (eds.), Munich: Philosophia, 55–78.
+* –––, 2006b, “Facts, Formal Objects and Ontology”, _Modes of Existence. Papers in Ontology and Philosophical Logic_, Andrea Bottani & Richard Davies (eds.), Frankfurt: Ontos Verlag, 31–46
+* –––, 2007, “Two Dogmas of Truthmaking”, in J.M. Monnoyer (ed.), _Metaphysics and Truthmakers_, Frankfurt: Ontos.
+* Neale, Stephen, 2001, _Facing Facts_, Oxford: Clarendon Press. doi:10.1093/0199247153.001.0001
+* Olson, Kenneth Russell, 1987, _An Essay on Facts_, Stanford, CA: CSLI Publications.
+* Perler, Dominik, 1994, “Late Medieval Ontologies of Facts”, _The Monist_, 77(2): 149–169. doi:10.5840/monist199477214
+* Persson, J., 1997, _Causal Facts_, Stockholm: Thales.
+* Pfänder, Adolf, 1921, _Logik_, in _Jahrbuch für Philosophie und phänomenologische Forschung_, Vol. IV, 139–494; reprinted, Mariano Crespo (ed.), Heidelberg: Winter, 2000.
+* Plantinga, Alvin, 1974, _The Nature of Necessity_, London: Oxford University Press. doi:10.1093/0198244142.001.0001
+* Rabin, Gabriel Oak and Rabern, Brian, 2016, “Well Founding Grounding Grounding”, _Journal of Philosophical Logic_, 45: 349–379.
+* Ramsey, F.P., 1927, “Symposium: Facts and Propositions”, part 1 (with G.E. Moore doing part 2), _Aristotelian Society Supplementary Volume_, 7: 153–170, reprinted in _The Foundations of Mathematics_, London: Kegan Paul, 1931. doi:10.1093/aristoteliansupp/7.1.153
+* Récanati, François, 2000, _Oratio Obliqua, Oratio Recta: An Essay on Metarepresentation_, Cambridge, MA: The MIT Press
+* Restall, Greg, 2004, “One Way to Face Facts”, _Philosophical Quarterly_, 54(216): 420–426. doi:10.1111/j.0031-8094.2004.00361.x
+* Reinach, Adolf, 1911 \[1982], “Zur Theorie des negativen Urteils”, in _Münchener Philosophische Abhandlungen_, A. Pfänder (ed.), Leipzig: Barth. Translated as “On the Theory of Negative Judgement” in Barry Smith (ed.), _Parts and Moments. Studies in Logic and Formal Ontology_, Munich: Philosophia Verlag, pp. 315–378. [Reinach 1911 \[1982\] available online](http://ontology.buffalo.edu/smith/book/P\&M/)
+* Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and Reduction”, in B. Hale & A. Hoffmann (eds.), _Modality: Metaphysics, Logic, and Epistemology_, Oxford: Oxford University Press, 109–136.
+* Rundle, Bede, 1993, _Facts_, London: Duckworth.
+* Russell, Bertrand, 1906–1907, “On the Nature of Truth”, _Proceedings of the Aristotelian Society_ (New Series), 7: 28–49.
+* –––, \[_ONTF_] 1910 \[1976], “On the Nature of Truth and Falsehood”, _Philosophical Essays_, London: Allen & Unwin.
+* –––, \[_PLA_] 1918 \[1956], “The Philosophy of Logical Atomism”, in R.C. Marsh (ed.), _Logic and Knowledge_, London: Allen & Unwin.
+* –––, 1940 \[1967], _An Inquiry into Meaning and Truth_, Harmondsworth: Penguin.
+* Salmon, Wesley, 1984, “Scientific explanation: Three basic conceptions”, _Proceedings of the Biennial Meeting of the Philosophy of Science Association_, 2: 293–305.
+* Schaffer, Jonathan, 2009, “On What Grounds What”, in D. Manley, D. J. Chalmers & R. Wasserman (eds.), _Metametaphysics_: _New Essays on the Foundations of Ontology_, Oxford: Oxford University Press, 347–383.
+* Scheler, Max, c.1911–1912 \[1973], “Lehre von den drei Tatsachen”, in _Schriften aus dem Nachlass: I, Zur Ethik und Erkenntnislehre_, second edition, Maria Scheler (ed) 1957 pp. 433–502. Translated into English as “The Theory of the Three Facts”, _Selected Philosophical Essays_, David Lachterman (tr.), Evanston: Northwestern University Press, 202–287.
+* Schmutz, Jakob, 2002, “Sebastián Izquierdo : de la science divine à l’ontologie des états de choses”, in Jean-Christophe Bardout and Olivier Boulnois (eds.), _Sur la science divine_, Paris: PUF (Epiméthée), 412–435.
+* Schnieder, Benjamin Sebastian, 2005, “Property Designators, Predicates, and Rigidity”, _Philosophical Studies_, 122(3): 227–41. doi:10.1007/s11098-005-1292-y
+* Searle, John, 1983, _Intentionality: An Essay in the Philosophy of Mind_, Cambridge: Cambridge University Press.
+* –––, 1995, “Truth: A Reconsideration of Strawson’s View”, in L.E. Hahn (ed.), _The Philosophy of P.F. Strawson_, Chicago: Open Court.
+* Sierszulska, A., 2005, _Meinong on Meaning and Truth_, Frankfurt: Ontos Verlag.
+* Simons, Peter, 1988, “Aristotle’s Concept of State of Affairs”, in Olof Gigon and Michael W. Fischer (eds.), _Antike Rechts- und Sozialphilosophie_, Frankfurt/Bern: Lang, 97–112.
+* –––, 1999, “Tatsache II”, in Joachim Ritter, Karlfried Gründer, and Gottfried Gabriel (eds.), _Historisches Wörterbuch der Philosophie_, Volume 10, Basel: Schwabe, 914–5.
+* Smith, Barry, 1989, “Logic and the _Sachverhalt_”, _The Monist_ 72(1): 52–69. doi:10.5840/monist19897212
+* –––, 1992, “Sachverhalt”, in _Historisches Wörterbuch der Philosophie_, Volume 8, J. Ritter and K. Gründer (eds.), Stuttgart and Basel: Schwabe, 1102–1113.
+* Soames, Scott, 2010, _What is Meaning?_, Princeton: Princeton University Press.
+* Sprigge, Timothy, 1970, _Facts, Words and Beliefs_, London: Routledge & Kegan Paul.
+* Stalnaker, Robert, 1976, “Propositions”, in Alfred F. MacKay and Daniel D. Merrill (eds.), _Issues in the Philosophy of Language_, New Haven, CT: Yale University Press, 79–91.
+* Stout, G.F., 1910–1911, “The Object of Thought and Real Being”, _Proceedings of the Aristotelian Society_, 11: 187–205.
+* Sundholm, Göran, 1994, “Existence, Proof and Truth-Making: A Perspective on the Intuitionistic Conception of Truth”, _Topoi_, 13(2): 117–126. doi:10.1007/BF00763510
+* Suszko, Roman, 1968, “Ontology in the _Tractatus_ of L. Wittgenstein”, _Notre Dame Journal of Formal Logic_, 9(1): 7–33. doi:10.1305/ndjfl/1093893349
+* Taylor, Barry, 1985, _Modes of Occurrence: Verbs, Adverbs and Events_, Oxford: Blackwell.
+* Tegtmeier, Erwin, 1992, _Grundzüge einer kategorialen Ontologie. Dinge, Eigenschaften, Beziehungen, Sachverhalte_, Freiburg, Munich: Alber Verlag
+* Trogdon, Kelly, 2013, “An Introduction to Grounding”, in Miguel Hoeltje, Benjamin Schnieder and Alex Steinberg (eds.), _Varieties of Dependence: Ontological Dependence, Grounding, Supervenience, Response-Dependence_, Munich: Philosophia.
+* Tye, Michael, 1981, “On an Objection to the Synonymy Principle of Property Identity”, _Analysis_, 41(1): 22–26. doi:10.1093/analys/41.1.22
+* Vallicella, William F., 2000, “Three Conceptions of States of Affairs”, _Noûs_, 34(2): 237–259. doi:10.1111/0029-4624.00209
+* Van Fraassen, Bas C., 1969, “Facts and Tautological Entailments”, _Journal of Philosophy_, 66(15): 477–487. doi:10.2307/2024563
+* Van Inwagen, Peter, 1983, _An Essay of Free Will_, Oxford: Oxford University Press.
+* –––, 1990, _Material Beings_, Ithaca: Cornell University Press.
+* Vendler, Zeno, 1967a. _Linguistics in Philosophy_, Ithaca: Cornell University Press.
+* –––, 1967b. “Causal Relations”, _Journal of Philosophy_, 64(21): 704–713. doi:10.2307/2023854
+* –––, 1972, _Res Cogitans. An Essay in Rational Psychology_, Ithaca, NY: Cornell University Press.
+* Vickers, John M., 2004, “Ramsey on Judgement: the Theory of ‘Facts and Propositions’”, _Dialectica_, 58(4): 499–516. doi:10.1111/j.1746-8361.2004.tb00321.x
+* Vintiadis, Elly and Mekios, Constantinos, 2018, _Brute Facts_, Oxford: Oxford University Press.
+* Werner, Jonas, 2020, “Plural Grounding and the Principle of Sufficient Reason”, _Analysis_, 80: 90–95.
+* Werner, Karl 1859, _Der heilige Thomas von Aquino_ (Volume 2: _Die Lehre des heiligen Thomas Aquinas_), Regensburg: Manz.
+* Whitehead, Alfred North and Bertrand Russell, 1910, _Principia Mathematica_, Cambridge: Cambridge University Press.
+* Williamson, Timothy, 2000, _Knowledge and its Limits_, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Wisdom, John, 1931, “Logical Constructions (I)”, _Mind_, 40(158): 188–216, “Logical Constructions (II)”, _Mind_, 40 (160): 460–475. doi:10.1093/mind/XL.158.188 doi:10.1093/mind/XL.160.460
+* –––, 1970, _Problems of Mind and Matter_, Cambridge: Cambridge University Press.
+* Wittgenstein, Ludwig, \[_TLP_] 1921 \[1961], _Tractatus Logico-Philosophicus_, London: Routledge. Reprinted 1961.
+* Wolniewicz, Bogusław, 1982, “A Formal Ontology of Situations”, _Studia Logica_, 41(4): 381–413. doi:10.1007/BF00403338
+* –––, 1983, “Logical Space and Metaphysical Systems”, _Studia Logica_, 42(2/3): 269–284. doi:10.1007/BF01063846
+* Yagiwasa, Takashi, 1997, “A Somewhat Russellian Theory of Intensional Contexts”, _Philosophical Perspectives_, 11: 43–82.
+* Zalta, Edward, 1991, “A Theory of Situations”, in Jon Barwise _et al_. (eds.), _Situation Theory and Its Applications_, Volume 2, Stanford: CSLI Publications.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=facts). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/facts/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=facts&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/facts/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=facts).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/facts/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=facts\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/facts/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[events](https://plato.stanford.edu/entries/events/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [logical atomism: Russell’s](https://plato.stanford.edu/entries/logical-atomism/) | [principle of sufficient reason](https://plato.stanford.edu/entries/sufficient-reason/) | [properties](https://plato.stanford.edu/entries/properties/) | [propositions: singular](https://plato.stanford.edu/entries/propositions-singular/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [states of affairs](https://plato.stanford.edu/entries/states-of-affairs/) | [truth](https://plato.stanford.edu/entries/truth/) | [truth: correspondence theory of](https://plato.stanford.edu/entries/truth-correspondence/) | [truthmakers](https://plato.stanford.edu/entries/truthmakers/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
+[events](https://plato.stanford.edu/entries/events/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [logical atomism: Russell’s](https://plato.stanford.edu/entries/logical-atomism/) | [principle of sufficient reason](https://plato.stanford.edu/entries/sufficient-reason/) | [properties](https://plato.stanford.edu/entries/properties/) | [propositions: singular](https://plato.stanford.edu/entries/propositions-singular/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [states of affairs](https://plato.stanford.edu/entries/states-of-affairs/) | [truth](https://plato.stanford.edu/entries/truth/) | [truth: correspondence theory of](https://plato.stanford.edu/entries/truth-correspondence/) | [truthmakers](https://plato.stanford.edu/entries/truthmakers/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
 
 ### Acknowledgments
 
 The authors are grateful for support from the Swiss FNS (research projects on “The Theory of Essence”, “Properties and Relations”).
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Kevin Mulligan <[*kevin.mulligan@unige.ch*](mailto:kevin%2emulligan%40unige%2ech)>  
-[Fabrice Correia](https://fabricecorreia.com/) <[*fabricecorreia@gmail.com*](mailto:fabricecorreia%40gmail%2ecom)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Kevin Mulligan <[_kevin.mulligan@unige.ch_](mailto:kevin%2emulligan%40unige%2ech)>\
+[Fabrice Correia](https://fabricecorreia.com/) <[_fabricecorreia@gmail.com_](mailto:fabricecorreia%40gmail%2ecom)>

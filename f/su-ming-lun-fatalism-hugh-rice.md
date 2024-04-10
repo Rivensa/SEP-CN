@@ -1,43 +1,40 @@
 # 宿命论 fatalism (Hugh Rice)
-*首次发表于 2002 年 12 月 18 日星期三；实质性修订于 2023 年 2 月 23 日星期四*
 
-尽管“宿命论”一词通常用来指代一种在某些被认为是不可避免的未来事件面前的顺从态度，哲学家通常使用这个词来指代这样一种观点：我们无能为力去做除了我们实际所做的事情之外的任何事情。这种观点可以通过各种方式进行论证：通过对逻辑法则和形而上必然性的呼应；通过对上帝的存在和本质的呼应；通过对因果决定论的呼应。当以第一种方式进行论证时，通常被称为“逻辑宿命论”（或在某些情况下称为“形而上宿命论”）；当以第二种方式进行论证时，通常被称为“神学宿命论”。当以第三种方式进行论证时，现在通常不再被称为“宿命论”，这样的论点在这里不会被讨论。（有关有用的参考文献信息，请参阅 Todd 2014 [其他互联网资源]。）
+_首次发表于 2002 年 12 月 18 日星期三；实质性修订于 2023 年 2 月 23 日星期四_
+
+尽管“宿命论”一词通常用来指代一种在某些被认为是不可避免的未来事件面前的顺从态度，哲学家通常使用这个词来指代这样一种观点：我们无能为力去做除了我们实际所做的事情之外的任何事情。这种观点可以通过各种方式进行论证：通过对逻辑法则和形而上必然性的呼应；通过对上帝的存在和本质的呼应；通过对因果决定论的呼应。当以第一种方式进行论证时，通常被称为“逻辑宿命论”（或在某些情况下称为“形而上宿命论”）；当以第二种方式进行论证时，通常被称为“神学宿命论”。当以第三种方式进行论证时，现在通常不再被称为“宿命论”，这样的论点在这里不会被讨论。（有关有用的参考文献信息，请参阅 Todd 2014 \[其他互联网资源]。）
 
 宿命论的论点至少在于如何避免结论的问题上，而不仅仅是在于它是否属实。
 
 * [逻辑宿命论：亚里士多德的论点与真理的本质](https://plato.stanford.edu/entries/fatalism/#LogiFataArisArguNatuTrut)
-
   * [1.1 亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu)
-  * [ 1.2 相关解决方案](https://plato.stanford.edu/entries/fatalism/#RelaSolu)
+  * [1.2 相关解决方案](https://plato.stanford.edu/entries/fatalism/#RelaSolu)
   * [1.3 拒绝真理理论](https://plato.stanford.edu/entries/fatalism/#RejeTheoTrut)
   * [1.4 时间的 A 理论和 B 理论](https://plato.stanford.edu/entries/fatalism/#TheoBTheoTime)
   * [1.5 Truth and fatalism1.5 真理与宿命论](https://plato.stanford.edu/entries/fatalism/#TrutFata)
 * [2. 逻辑宿命论：Diodorus Cronus 和过去的必然性](https://plato.stanford.edu/entries/fatalism/#LogiFataDiodCronNecePast)
-
-  * [2.1 亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu_1)
+  * [2.1 亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu\_1)
   * [2.2 An Ockhamist solution2.2 一种奥卡姆主义解决方案](https://plato.stanford.edu/entries/fatalism/#OckhSolu)
 * [逻辑宿命论：理查德·泰勒的论点和权力的条件](https://plato.stanford.edu/entries/fatalism/#LogiFataRichTaylArguCondPowe)
-
-  * [3.1 一个亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu_2)
+  * [3.1 一个亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu\_2)
   * [3.2 The conditions of power3.2 权力的条件](https://plato.stanford.edu/entries/fatalism/#CondPowe)
 * [4. The necessity of the past and Aristotelian solutions过去的必然性和亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#NecePastArisSolu)
 * [神学宿命论：派克的论点与上帝的全知](https://plato.stanford.edu/entries/fatalism/#TheoFataPikeArguGodsOmni)
-
-  * [5.1 亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu_3)
-  * [5.2 一个奥卡姆主义的解决方案](https://plato.stanford.edu/entries/fatalism/#OckhSolu_1)
+  * [5.1 亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu\_3)
+  * [5.2 一个奥卡姆主义的解决方案](https://plato.stanford.edu/entries/fatalism/#OckhSolu\_1)
   * [5.3 影响过去](https://plato.stanford.edu/entries/fatalism/#AffePast)
   * [5.4 一种博伊斯解决方案](https://plato.stanford.edu/entries/fatalism/#BoetSolu)
   * [5.5 上帝知识的本质](https://plato.stanford.edu/entries/fatalism/#NatuGodsKnow)
   * [5.6 必须上帝是全知的吗？](https://plato.stanford.edu/entries/fatalism/#MustGodOmni)
 * [6. 神学宿命论：莫利纳，普兰廷加和中间知识](https://plato.stanford.edu/entries/fatalism/#TheoFataMoliPlanMiddKnow)
 * [宿命论](https://plato.stanford.edu/entries/fatalism/#IdleArgu)
-* [ 结论](https://plato.stanford.edu/entries/fatalism/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/fatalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fatalism/#Aca)
+* [结论](https://plato.stanford.edu/entries/fatalism/#Conc)
+* [参考文献](https://plato.stanford.edu/entries/fatalism/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/fatalism/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/fatalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fatalism/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/fatalism/#Rel)
 
----
+***
 
 ## 逻辑宿命论：亚里士多德的论证与真理的本质
 
@@ -45,9 +42,9 @@
 
 他所说的内容可以按照以下方式呈现为一个论点。
 
-> 假设 (i) p 为真或 p 为假，以及 (ii) 非 *-p* 为真或非 *-p* 为假。
+> 假设 (i) p 为真或 p 为假，以及 (ii) 非 _-p_ 为真或非 _-p_ 为假。
 >
-> 然后 p 是真的还是不是 *-p*是真的。
+> 然后 p 是真的还是不是 _-p_是真的。
 >
 > 现在假设在 1900 年，一个人说 2100 年 1 月 1 日将发生一场海战，另一个人说 2100 年 1 月 1 日不会发生海战。
 >
@@ -167,7 +164,7 @@ Diodorus Cronus（公元前 4 世纪末至公元前 3 世纪初）提出了一�
 
 这可能被称为问题的奥卡姆解决方案。奥卡姆（c1285–1347）所说的是：
 
-> 有些命题在措辞和主题上都涉及当下（secundum vocem et secundum rem）。就这些[命题]而言，普遍真实的是，关于当下的每个真命题都有一个必然的关于过去的命题与之对应……其他命题仅在措辞上涉及当下，实质上也涉及未来，因为它们的真实取决于关于未来的命题。（Ockham, Predestination, God’s Foreknowledge and Future Contingents, 46–7）
+> 有些命题在措辞和主题上都涉及当下（secundum vocem et secundum rem）。就这些\[命题]而言，普遍真实的是，关于当下的每个真命题都有一个必然的关于过去的命题与之对应……其他命题仅在措辞上涉及当下，实质上也涉及未来，因为它们的真实取决于关于未来的命题。（Ockham, Predestination, God’s Foreknowledge and Future Contingents, 46–7）
 
 在这种精神下，我们可以说，关于过去的一些命题实际上（至少在某种程度上）是关于未来的。在这些情况下，它们并非必然的。然后我们可以将这应用于“1900 年的时候说在 2100 年 1 月 1 日会发生一场海战是真实的。”我们可以说，这实际上（部分）是关于 2100 年 1 月 1 日的。
 
@@ -368,75 +365,74 @@ Pike 的第二种可能解决方案是可能的，而无需提及事实的柔软
 
 因此，宿命论和亚里士多德的解决方案都可能是错误的。当然，尽管说了这么多，宿命论是正确的可能性始终存在。
 
-
 ## Bibliography
 
-* Adams, Marilyn McCord, 1987, *William Ockham*, Notre Dame, Ind.: University of Notre Dame Press.
-* Adams, Robert, 1977, “Middle Knowledge and the Problem of Evil”, *American Philosophical Quarterly*, 14: 109–117; reprinted in Hasker *et al*. 2000.
-* Alston, William, 1986, “Does God Have Beliefs?”, *Religious Studies*, 22: 287–306.
-* Anglin, W. S., 1990, *Free Will and the Christian Faith*, Oxford: Oxford University Press.
-* Aquinas, St Thomas, *Summa Theologica*, Fathers of the English Dominican Province (trans.), Part I, Question 14, London: Burns Oates & Washbourne, 1920.
-* Aristotle, *Categories* and *De Interpretatione*, J. H. Ackrill (trans.), Oxford: Clarendon Press, 1963.
+* Adams, Marilyn McCord, 1987, _William Ockham_, Notre Dame, Ind.: University of Notre Dame Press.
+* Adams, Robert, 1977, “Middle Knowledge and the Problem of Evil”, _American Philosophical Quarterly_, 14: 109–117; reprinted in Hasker _et al_. 2000.
+* Alston, William, 1986, “Does God Have Beliefs?”, _Religious Studies_, 22: 287–306.
+* Anglin, W. S., 1990, _Free Will and the Christian Faith_, Oxford: Oxford University Press.
+* Aquinas, St Thomas, _Summa Theologica_, Fathers of the English Dominican Province (trans.), Part I, Question 14, London: Burns Oates & Washbourne, 1920.
+* Aristotle, _Categories_ and _De Interpretatione_, J. H. Ackrill (trans.), Oxford: Clarendon Press, 1963.
 * Bernstein, Mark, 2002, “Fatalism”, in Kane (2002).
-* Bledin, Justin, 2020, “Fatalism and the Logic of Unconditionals”, *Nous* 54(1): 126–161.
-* Bobzien, Susanne, 1998, *Determinism and Freedom in Stoic Philosophy*, Oxford: Oxford University Press.
-* Boethius, *The Consolation of Philosophy*, V. E. Watts (trans.), London: Penguin Books, 1969.
-* Cahn, Steven M., 1967, *Fate Logic and Time*, New Haven: Yale University Press.
-* Cicero, *De Fato*, H. Rackham (trans.), Cambridge, Mass: Harvard University Press, 1982.
-* Dummett, Michael, 1964, “Bringing About the Past”, *Philosophical Review*, 73: 338–359.
-* –––, 1986, “Causal Loops”, in *The Nature of Time*, Raymond Flood and Michael Lockwood (eds.), Oxford: Basil Blackwell.
-* Fischer, John Martin, 2016, *Our Fate: Essays on God and Free Will*, Oxford: Oxford University Press.
-* ––– (ed.), 1989, *God, Foreknowledge and Freedom*, Stanford, Cal: Stanford University Press.
-* ––– and Patrick Todd (eds.), 2015, *Freedom, Fatalism, and Foreknowledge*, Oxford: Oxford University Press.
-* Garrett, Brian, 2018, “Fatalism: A Dialogue”, *Think*, 17: 73–79.
-* Hasker, William, 1989, *God, Time and Knowledge*, Ithaca, NY: Cornell University Press.
-* Hasker, William, and David Basinger and Eef Dekker (eds.), 2000, *Middle Knowledge: Theory and Applications*, Frankfurt: Peter Lang.
-* Kane, Robert (ed.), 2002, *The Oxford Handbook of Free Will*, Oxford: Oxford University Press.
-* Kneale, William, and Martha Kneale, 1962, *The Development of Logic*, Oxford: Clarendon Press.
-* Lucas, J. R., 1986, “The Open Future”, in *The Nature of Time*, Raymond Flood and Michael Lockwood (eds.), Oxford: Basil Blackwell.
-* –––, 1989a, *The Future*, Oxford: Basil Blackwell
-* –––, 1989b, “Foreknowledge and the Vulnerability of God”, in *The Philosophy in Christianity*, Godfrey Vesey (ed.), Cambridge: Cambridge University Press.
-* Łukasiewicz, Jan, 1967, “On Determinism”, in Storrs MacCall (ed.), *Polish Logic*, Oxford: Oxford University Press.
-* Mellor, D. H., 1981, *Real Time*, Cambridge: Cambridge University Press.
-* –––, 1998, *Real Time II*, Cambridge: Cambridge University Press.
-* Molina, Luis de, *On Divine Foreknowledge* (Part IV of the *Concordia*), Alfred J. Freddoso (trans.), Ithaca, NY: Cornell University Press, 1988.
-* Oaklander, L. Nathan, 1998, “Freedom and the New Theory of Time”, in Robin Le Poidevin (ed.), *Questions of Time and Tense*, Oxford: Oxford University Press
-* Ockham, William, *Predestination, God’s Foreknowledge and Future Contingents*, Marilyn McCord Adams and Norman Kretzmann (trans.), Indianapolis: Hackett, 1969.
-* Pike, Nelson, 1965, “Divine Omniscience and Voluntary Action”, *Philosophical Review*, 74: 27–46; reprinted in Fischer (1989).
-* –––, 1977, “Divine Foreknowledge, Human Freedom and Possible Worlds”, *Philosophical Review*, 86: 209–216.
-* Plantinga, Alvin, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
-* –––, 1974a, *God, Freedom and Evil*, New York, Harper and Row (Torchbook Series).
-* Prior, Arthur, 1967, *Past, Present and Future*, Oxford: Oxford University Press.
-* Reichenbach, Hans, 1947, *Elements of Symbolic Logic*, New York: Macmillan.
-* Rice, Hugh, 2006, “Divine omnipotence, timelessness and the power to do otherwise”, *Religious Studies*, 42: 123–39.
-* Russell, Bertrand, 1912, *The Problems of Philosophy*, Oxford: Oxford University Press.
-* Shanks, Niall, 1994, “Time, Physics and Freedom”, *Metaphilosophy*, 1: 45–59
-* Swinburne, Richard, 1977, *The Coherence of Theism*, Oxford: Oxford University Press.
-* –––, 1994, *The Christian God*, Oxford: Oxford University Press.
-* Taylor, Richard, 1962, “Fatalism”, *Philosophical Review*, 71: 56–66.
-* –––, 1983, *Metaphysics*, Englewood Cliffs: Prentice-Hall.
-* Tooley, Michael, 1997, *Time, Tense and Causation*, Oxford: Oxford University Press.
-* van Fraassen, Bas C., 1966, “Singular Terms, Truth-Value Gaps and Free Logic”, *Journal of Philosophy*, 63: 28–35.
-* Westphal, Jonathan, 2006, “The future and the truth-value links: a common sense view”, *Analysis*, 66: 1–9.
-* Whitaker, C. W. A., 1996, *Aristotle’s* de Interpretatione, Oxford: Clarendon Press.
-* Zagzebski, Linda Trinkaus, 1991, *The Dilemma of Freedom and Foreknowledge*, Oxford: Oxford University Press.
+* Bledin, Justin, 2020, “Fatalism and the Logic of Unconditionals”, _Nous_ 54(1): 126–161.
+* Bobzien, Susanne, 1998, _Determinism and Freedom in Stoic Philosophy_, Oxford: Oxford University Press.
+* Boethius, _The Consolation of Philosophy_, V. E. Watts (trans.), London: Penguin Books, 1969.
+* Cahn, Steven M., 1967, _Fate Logic and Time_, New Haven: Yale University Press.
+* Cicero, _De Fato_, H. Rackham (trans.), Cambridge, Mass: Harvard University Press, 1982.
+* Dummett, Michael, 1964, “Bringing About the Past”, _Philosophical Review_, 73: 338–359.
+* –––, 1986, “Causal Loops”, in _The Nature of Time_, Raymond Flood and Michael Lockwood (eds.), Oxford: Basil Blackwell.
+* Fischer, John Martin, 2016, _Our Fate: Essays on God and Free Will_, Oxford: Oxford University Press.
+* ––– (ed.), 1989, _God, Foreknowledge and Freedom_, Stanford, Cal: Stanford University Press.
+* ––– and Patrick Todd (eds.), 2015, _Freedom, Fatalism, and Foreknowledge_, Oxford: Oxford University Press.
+* Garrett, Brian, 2018, “Fatalism: A Dialogue”, _Think_, 17: 73–79.
+* Hasker, William, 1989, _God, Time and Knowledge_, Ithaca, NY: Cornell University Press.
+* Hasker, William, and David Basinger and Eef Dekker (eds.), 2000, _Middle Knowledge: Theory and Applications_, Frankfurt: Peter Lang.
+* Kane, Robert (ed.), 2002, _The Oxford Handbook of Free Will_, Oxford: Oxford University Press.
+* Kneale, William, and Martha Kneale, 1962, _The Development of Logic_, Oxford: Clarendon Press.
+* Lucas, J. R., 1986, “The Open Future”, in _The Nature of Time_, Raymond Flood and Michael Lockwood (eds.), Oxford: Basil Blackwell.
+* –––, 1989a, _The Future_, Oxford: Basil Blackwell
+* –––, 1989b, “Foreknowledge and the Vulnerability of God”, in _The Philosophy in Christianity_, Godfrey Vesey (ed.), Cambridge: Cambridge University Press.
+* Łukasiewicz, Jan, 1967, “On Determinism”, in Storrs MacCall (ed.), _Polish Logic_, Oxford: Oxford University Press.
+* Mellor, D. H., 1981, _Real Time_, Cambridge: Cambridge University Press.
+* –––, 1998, _Real Time II_, Cambridge: Cambridge University Press.
+* Molina, Luis de, _On Divine Foreknowledge_ (Part IV of the _Concordia_), Alfred J. Freddoso (trans.), Ithaca, NY: Cornell University Press, 1988.
+* Oaklander, L. Nathan, 1998, “Freedom and the New Theory of Time”, in Robin Le Poidevin (ed.), _Questions of Time and Tense_, Oxford: Oxford University Press
+* Ockham, William, _Predestination, God’s Foreknowledge and Future Contingents_, Marilyn McCord Adams and Norman Kretzmann (trans.), Indianapolis: Hackett, 1969.
+* Pike, Nelson, 1965, “Divine Omniscience and Voluntary Action”, _Philosophical Review_, 74: 27–46; reprinted in Fischer (1989).
+* –––, 1977, “Divine Foreknowledge, Human Freedom and Possible Worlds”, _Philosophical Review_, 86: 209–216.
+* Plantinga, Alvin, 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
+* –––, 1974a, _God, Freedom and Evil_, New York, Harper and Row (Torchbook Series).
+* Prior, Arthur, 1967, _Past, Present and Future_, Oxford: Oxford University Press.
+* Reichenbach, Hans, 1947, _Elements of Symbolic Logic_, New York: Macmillan.
+* Rice, Hugh, 2006, “Divine omnipotence, timelessness and the power to do otherwise”, _Religious Studies_, 42: 123–39.
+* Russell, Bertrand, 1912, _The Problems of Philosophy_, Oxford: Oxford University Press.
+* Shanks, Niall, 1994, “Time, Physics and Freedom”, _Metaphilosophy_, 1: 45–59
+* Swinburne, Richard, 1977, _The Coherence of Theism_, Oxford: Oxford University Press.
+* –––, 1994, _The Christian God_, Oxford: Oxford University Press.
+* Taylor, Richard, 1962, “Fatalism”, _Philosophical Review_, 71: 56–66.
+* –––, 1983, _Metaphysics_, Englewood Cliffs: Prentice-Hall.
+* Tooley, Michael, 1997, _Time, Tense and Causation_, Oxford: Oxford University Press.
+* van Fraassen, Bas C., 1966, “Singular Terms, Truth-Value Gaps and Free Logic”, _Journal of Philosophy_, 63: 28–35.
+* Westphal, Jonathan, 2006, “The future and the truth-value links: a common sense view”, _Analysis_, 66: 1–9.
+* Whitaker, C. W. A., 1996, _Aristotle’s_ de Interpretatione, Oxford: Clarendon Press.
+* Zagzebski, Linda Trinkaus, 1991, _The Dilemma of Freedom and Foreknowledge_, Oxford: Oxford University Press.
 * –––, 2002, “Recent Work on Divine Foreknowledge and Free Will,” in Kane 2002.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=fatalism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/fatalism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=fatalism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/fatalism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=fatalism).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/fatalism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=fatalism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/fatalism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Todd, Patrick, 2014, “[Fatalism](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0116.xml)”, *Oxford Bibliographies in Philosophy*, doi:10.1093/OBO/9780195396577-0116.
+* Todd, Patrick, 2014, “[Fatalism](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0116.xml)”, _Oxford Bibliographies in Philosophy_, doi:10.1093/OBO/9780195396577-0116.
 
 ## Related Entries
 
-[causation: backward](https://plato.stanford.edu/entries/causation-backwards/) | [free will](https://plato.stanford.edu/entries/freewill/) | [free will: divine foreknowledge and](https://plato.stanford.edu/entries/free-will-foreknowledge/) | [future contingents](https://plato.stanford.edu/entries/future-contingents/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [providence, divine](https://plato.stanford.edu/entries/providence-divine/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/) | [time](https://plato.stanford.edu/entries/time/) | [truth: correspondence theory of](https://plato.stanford.edu/entries/truth-correspondence/)
+[causation: backward](https://plato.stanford.edu/entries/causation-backwards/) | [free will](https://plato.stanford.edu/entries/freewill/) | [free will: divine foreknowledge and](https://plato.stanford.edu/entries/free-will-foreknowledge/) | [future contingents](https://plato.stanford.edu/entries/future-contingents/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [providence, divine](https://plato.stanford.edu/entries/providence-divine/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/) | [time](https://plato.stanford.edu/entries/time/) | [truth: correspondence theory of](https://plato.stanford.edu/entries/truth-correspondence/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Hugh Rice](http://users.ox.ac.uk/~dhrice/) <[*hugh.rice@philosophy.ox.ac.uk*](mailto:hugh%2erice%40philosophy%2eox%2eac%2euk)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Hugh Rice](http://users.ox.ac.uk/\~dhrice/) <[_hugh.rice@philosophy.ox.ac.uk_](mailto:hugh%2erice%40philosophy%2eox%2eac%2euk)>
