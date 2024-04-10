@@ -1,7 +1,9 @@
 # 戈特洛布·弗雷格 Frege, Gottlob (Edward N. Zalta)
+
 *首次发表于 1995 年 9 月 14 日；实质修订于 2022 年 7 月 9 日*
 
-![Photo of Gottlob Frege](https://plato.stanford.edu/entries/frege/frege.jpg)[https://plato.stanford.edu/info.html#takedown](https://plato.stanford.edu/info.html#takedown)# Gottlob Frege
+![Photo of Gottlob Frege](https://plato.stanford.edu/entries/frege/frege.jpg)
+
 
 
 
