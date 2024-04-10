@@ -940,7 +940,7 @@
   * [女性主义对强奸的观点 perspectives on rape (Rebecca Whisnant)](f/nv-xing-zhu-yi-zhe-xue-zhu-ti-feminist-philosophy-topics/nv-xing-zhu-yi-dui-qiang-jian-de-guan-dian-perspectives-on-rape-rebecca-whisnant.md)
   * [女性主义对生育和家庭的观点 perspectives on reproduction and the family (Debra Satz)](f/nv-xing-zhu-yi-zhe-xue-zhu-ti-feminist-philosophy-topics/nv-xing-zhu-yi-dui-sheng-yu-he-jia-ting-de-guan-dian-perspectives-on-reproduction-and-the-family-deb.md)
   * [女性主义对科学的观点 perspectives on science (Sharon Crasnow)](f/nv-xing-zhu-yi-zhe-xue-zhu-ti-feminist-philosophy-topics/nv-xing-zhu-yi-dui-ke-xue-de-guan-dian-perspectives-on-science-sharon-crasnow.md)
-  * [女性主义对性别与性的观点 perspectives on sex and gender (Mari Mikkola)](f/nv-xing-zhu-yi-zhe-xue-zhu-ti-feminist-philosophy-topics/nv-xing-zhu-yi-dui-xing-bie-yu-xing-de-guan-dian-perspectives-on-sex-and-gender-mari-mikkola.md)
+  * [女性主义对性与性别的观点 perspectives on sex and gender (Mari Mikkola)](f/nv-xing-zhu-yi-zhe-xue-zhu-ti-feminist-philosophy-topics/nv-xing-zhu-yi-dui-xing-yu-xing-bie-de-guan-dian-perspectives-on-sex-and-gender-mari-mikkola.md)
   * [女性主义对性产业的观点 perspectives on sex markets (Laurie Shrage)](f/nv-xing-zhu-yi-zhe-xue-zhu-ti-feminist-philosophy-topics/nv-xing-zhu-yi-dui-xing-chan-ye-de-guan-dian-perspectives-on-sex-markets-laurie-shrage.md)
   * [女性主义对身体的观点 perspectives on the body (Kathleen Lennon)](f/nv-xing-zhu-yi-zhe-xue-zhu-ti-feminist-philosophy-topics/nv-xing-zhu-yi-dui-shen-ti-de-guan-dian-perspectives-on-the-body-kathleen-lennon.md)
   * [女性主义对自我的观点 perspectives on the self (Ellie Anderson, Cynthia Willett, and Diana Meyers)](f/nv-xing-zhu-yi-zhe-xue-zhu-ti-feminist-philosophy-topics/nv-xing-zhu-yi-dui-zi-wo-de-guan-dian-perspectives-on-the-self-ellie-anderson-cynthia-willett-and-di.md)

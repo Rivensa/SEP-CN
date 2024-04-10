@@ -1,10 +1,10 @@
 # 实用主义女性主义与欧陆女性主义之间的交汇 intersections between pragmatist and continental philosophy (Shannon Sullivan and Erin Tarver)
 
-*首次发表于 2002 年 12 月 6 日星期五；实质性修订于 2024 年 2 月 6 日星期二*
+_首次发表于 2002 年 12 月 6 日星期五；实质性修订于 2024 年 2 月 6 日星期二_
 
 女性主义哲学是学科中一个庞大且不断增长的子领域。女性主义哲学家在其方法论和哲学目标上存在差异，并常根据其对哲学的态度或受到影响的哲学传统（例如，作为分析性、欧陆哲学或实用主义女性主义者）而被分组。本文概述了一群女性主义思想家的工作，其中融合了欧陆哲学和实用主义哲学的元素。
 
-女性主义方法论与其交叉点的哲学方法之前，有必要谈一下术语“实用主义”的口头和哲学意义之间的偶尔混淆，以及术语“欧陆哲学”或“后现代”哲学的含糊不清。美国哲学的所谓古典时期，以其创立美国实用主义而闻名，是由简·亚当斯、W.E.B.杜波依斯、约翰·杜威、威廉·詹姆斯、阿兰·洛克、乔治·赫伯特·米德、查尔斯·桑德斯·皮尔斯、乔赛亚·罗伊斯和阿尔弗雷德·诺斯·怀特海德等人在美国从 19 世纪末到 20 世纪中期发展而成[1]。第二次世界大战后，美国实用主义哲学的流行度有所下降，但在 20 世纪 70 年代出现了复兴，这往往归功于理查德·罗蒂等人的“新实用主义”工作（尤其是罗蒂 1979 年），并延续至今。实用主义哲学远非像有时所认为的那样是一个倡导冷静实用性的反理论立场，而是强调理论与实践之间的动态关系以及彼此转化的价值。它试图削弱其他尖锐的二分法，包括身体与心灵、主体与客体、目的与手段、自然与文化之间的二分法。实用主义将知识视为丰富经验的工具，倾向于多元主义、实验主义、可辩证主义和自然主义。拒绝追求绝对确定性，它持有一种改善主义的态度，即人类行动有时可以改善世界。
+女性主义方法论与其交叉点的哲学方法之前，有必要谈一下术语“实用主义”的口头和哲学意义之间的偶尔混淆，以及术语“欧陆哲学”或“后现代”哲学的含糊不清。美国哲学的所谓古典时期，以其创立美国实用主义而闻名，是由简·亚当斯、W.E.B.杜波依斯、约翰·杜威、威廉·詹姆斯、阿兰·洛克、乔治·赫伯特·米德、查尔斯·桑德斯·皮尔斯、乔赛亚·罗伊斯和阿尔弗雷德·诺斯·怀特海德等人在美国从 19 世纪末到 20 世纪中期发展而成\[1]。第二次世界大战后，美国实用主义哲学的流行度有所下降，但在 20 世纪 70 年代出现了复兴，这往往归功于理查德·罗蒂等人的“新实用主义”工作（尤其是罗蒂 1979 年），并延续至今。实用主义哲学远非像有时所认为的那样是一个倡导冷静实用性的反理论立场，而是强调理论与实践之间的动态关系以及彼此转化的价值。它试图削弱其他尖锐的二分法，包括身体与心灵、主体与客体、目的与手段、自然与文化之间的二分法。实用主义将知识视为丰富经验的工具，倾向于多元主义、实验主义、可辩证主义和自然主义。拒绝追求绝对确定性，它持有一种改善主义的态度，即人类行动有时可以改善世界。
 
 实用主义对经验的强调，是在达尔文的进化理论之后发展起来的，也许最能将其与其他哲学领域区分开来。实用主义要求哲学应该从生活经验的“土壤”中生长并检验其价值。这并不是否定抽象，而是坚持哲学要处理生物的真正问题，而不是学术学科的人为问题。然而，重要的是要意识到，实用主义者将经验的概念理解为“双管齐下”，用詹姆斯的话来说（詹姆斯在杜威 2000 年的著作中引用，463 页）。经验不仅指一个生物的所谓“主观”经验，还指被其体验到的“客观”世界。生物学和进化论教导我们，植物和非人类动物无法脱离喂养和维持它们的环境而生存。实用主义哲学通过坚持认为所有经验，包括人类经验，都必须被理解为生物体和环境之间的互动。可以在两者之间做出功能性区分，但对于实用主义来说，它们之间并不存在明显的二分法。
 
@@ -26,15 +26,14 @@
 * [重塑未来：无意识的想象](https://plato.stanford.edu/entries/femapproach-prag-cont/#Refiguring)
 * [抵抗的认识论](https://plato.stanford.edu/entries/femapproach-prag-cont/#Epistemology)
 * [未来方向](https://plato.stanford.edu/entries/femapproach-prag-cont/#Future)
-
   * [10.1 扩展经典](https://plato.stanford.edu/entries/femapproach-prag-cont/#Expanding)
   * [10.2 批判性回应女性主义与实用主义和欧陆哲学的交叉点](https://plato.stanford.edu/entries/femapproach-prag-cont/#Limits)
-* [ 参考文献](https://plato.stanford.edu/entries/femapproach-prag-cont/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/femapproach-prag-cont/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/femapproach-prag-cont/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/femapproach-prag-cont/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/femapproach-prag-cont/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/femapproach-prag-cont/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/femapproach-prag-cont/#Rel)
 
----
+***
 
 ## 追求确定性与纯净
 
@@ -50,7 +49,7 @@
 
 空间通常被认为相对静态，与时间的动态性相比。我们经常说，时间在向前推移，而空间通常被构想为一个空洞的间隙，被 passively rests between, 例如，一个房子的墙壁或桥梁之间。但空间也可能被认为是动态的和移动的吗？一些女性主义者认为，重新思考空间性为变化，而不是作为静态存在，可以帮助哲学以动态方式重新思考身体生活和物质性。鉴于长期以来将女性与身体和物质联系在一起，对后者的重新概念化对女性主义具有重要意义。
 
-在《Architecture from the Outside: Essays on Virtual and Real Space》（2001）中，伊丽莎白·格罗兹通过建筑和哲学的交汇，探讨了关于空间、时间和物质性的概念问题。她参与了“概念性或哲学性[而非具体建筑性]的实验”，考虑了时间性和性别对建筑和制造实践的重要性，并主张对空间进行更具动态和流动性的描述。格罗兹认为，建筑在问题上忽视了性别和种族差异。在音乐厅、礼堂和其他公共建筑中没有为女性提供足够的洗手间相对于男性，这是这种忽视的一个简单例子。然而，空间在性别和种族上也以更复杂的方式存在。例如，建筑如何通过内城的翻新为种族主义和种族主义城市空间做出贡献，这个过程往往会为中产阶级白人的利益而转移贫困的非白人人口？格罗兹认为，建筑对这些问题的忽视是一个严重问题。然而，建筑也为女性主义者提供了一个理想的机会，可以质疑许多经常困扰哲学的绝对二元范畴：内部和外部、自我和他者、主体和客体等等。它还可能帮助哲学“更谦卑地将自己看作是一种生产方式，而不是一种知识或理性把握或掌握概念的方式，将[哲学]更接近日常生活及其关注”（2001，6）。
+在《Architecture from the Outside: Essays on Virtual and Real Space》（2001）中，伊丽莎白·格罗兹通过建筑和哲学的交汇，探讨了关于空间、时间和物质性的概念问题。她参与了“概念性或哲学性\[而非具体建筑性]的实验”，考虑了时间性和性别对建筑和制造实践的重要性，并主张对空间进行更具动态和流动性的描述。格罗兹认为，建筑在问题上忽视了性别和种族差异。在音乐厅、礼堂和其他公共建筑中没有为女性提供足够的洗手间相对于男性，这是这种忽视的一个简单例子。然而，空间在性别和种族上也以更复杂的方式存在。例如，建筑如何通过内城的翻新为种族主义和种族主义城市空间做出贡献，这个过程往往会为中产阶级白人的利益而转移贫困的非白人人口？格罗兹认为，建筑对这些问题的忽视是一个严重问题。然而，建筑也为女性主义者提供了一个理想的机会，可以质疑许多经常困扰哲学的绝对二元范畴：内部和外部、自我和他者、主体和客体等等。它还可能帮助哲学“更谦卑地将自己看作是一种生产方式，而不是一种知识或理性把握或掌握概念的方式，将\[哲学]更接近日常生活及其关注”（2001，6）。
 
 Grosz 认为，时间和空间的动态整合首先需要“实用模型”（2001, 120）。这些模型包括美国和欧陆哲学传统中运用“自觉进化取向”的思想家（2001, 169）。这种“哲学实用主义从达尔文，尼采，到查尔斯·桑德斯·皮尔斯，威廉·詹姆斯，亨利·勃松，最终通过不同的传承线路，进入理查德·罗蒂和吉尔·德勒兹的不同立场”（2001, 169）。Grosz 将自己定位在这一传承中，肯定“将行动、实践和运动问题置于本体论中心的实用主义哲学家”（2001, 169）。这种本体论对变化和对未来的进化开放的强调意味着对所谓的无生命、静态“事物”进行重新概念化，使其与有生命、动态——包括人类——生活连续。在质疑这种传统界限时，Grosz 的目标不是消除所有区别，而是复杂化它们的关系，以便新的可能性可能出现。Grosz 遵循詹姆斯的观点，承认人类必须将“真实的喧嚣流动”在感知上组织成离散的对象，无法选择不这样做（2001, 179）。但她补充说，哲学和建筑必须认识到，用于客体化世界的范畴并不能完全捕捉到其所有复杂的多样性。剩下的多余并不是与对象和范畴僵硬对立的，而是与离散对象的世界连续，与它们对话和运动。思考流动和对象之间的关系就是将“事物”看作是一个流动的“交叉点”，而不是一个静态的固定性（2001, 171）。
 
@@ -60,7 +59,7 @@ Grosz 没有明确说明这种“哲学实用主义”如何有益于女性主�
 
 技术和科学对当代世界产生了巨大影响。它们生产的武器、药品、汽车、电子产品和其他商品对人类和非人类动物的生活既有益又有害。要理解技术和科学的特定影响，我们必须考虑的不仅是它们的产品，还有这些产品产生的过程。当代技术科学的产品是物质商品、人类劳动和社会关系的混合编译，通常具有压迫性。
 
-哈拉维（Haraway）的工作强调了调查这些混合体的重要性，她在她的书《类人猿、赛博格和女人：自然的重塑》（1991）和《Modest_Witness@Second_Millennium.FemaleMan©­_Meets_OncoMouse™：女性主义与技术科学》（1997, 186）中进行了探讨。哈拉维作为一个赛博格式的“谦虚见证人”（1997, 186），对当代技术科学发表看法，既参与其中又对其过程和产品持怀疑态度。哈拉维批评科学将自然视为静态给定的观点，这种观点凝固并掩盖了社会关系，使得它们可以被视为脱离背景的事物本身。（然而，值得注意的是，其他女性主义者对哈拉维对科学的描述提出了异议。玛丽·马加达-沃德（2014）特别从实用主义女性主义的角度主张，哈拉维批评科学作为众多叙事之一是不负责任的，危及了女性主义者所支持的解放项目。）
+哈拉维（Haraway）的工作强调了调查这些混合体的重要性，她在她的书《类人猿、赛博格和女人：自然的重塑》（1991）和《Modest\_Witness@Second\_Millennium.FemaleMan©­\_Meets\_OncoMouse™：女性主义与技术科学》（1997, 186）中进行了探讨。哈拉维作为一个赛博格式的“谦虚见证人”（1997, 186），对当代技术科学发表看法，既参与其中又对其过程和产品持怀疑态度。哈拉维批评科学将自然视为静态给定的观点，这种观点凝固并掩盖了社会关系，使得它们可以被视为脱离背景的事物本身。（然而，值得注意的是，其他女性主义者对哈拉维对科学的描述提出了异议。玛丽·马加达-沃德（2014）特别从实用主义女性主义的角度主张，哈拉维批评科学作为众多叙事之一是不负责任的，危及了女性主义者所支持的解放项目。）
 
 对于哈拉维来说，西方技术科学是迷信的，错误地将“一个固定的东西误认为是权力差异化的生动存在的行为”（1997, 135）。为了分析构成这种迷信的经济、心理和哲学线索网络，哈拉维引用了马克思、弗洛伊德和怀特黑德的作品。在经济上，社会技术关系被构想为商品，其价值是固有的，而不是有机生活的劳动和实践的产物。例如，考虑计算机芯片，这是后期资本主义技术社会中不可或缺的物品。将其价值定位在金属、塑料和代码上，我们忽视了生产和维持计算机存在的历史和劳动过程。计算机是二战的产物，最初是为了帮助计算炮弹弹道，使炸弹更有效（即破坏性更大）。如今，计算机芯片和主板通常由各种第三世界国家的亚洲妇女生产，因为她们被认为特别适合这样的工作，因为她们的“东方”灵巧的手指工作和对细节的关注（1991, 154, 177）。当我们将芯片神秘化时，我们掩盖了这种“男性主义战争狂欢中对女性身体的最终占有”（1991, 154）。换句话说，我们使自己无法理解高度军事化、技术科学文化的材料、过程和关注如何塑造世界和我们自己。
 
@@ -76,7 +75,7 @@ Grosz 没有明确说明这种“哲学实用主义”如何有益于女性主�
 
 符号学是皮尔斯创造的一个术语，用于“指代文化产生符号和/或赋予符号意义的过程”（de Lauretis 1984, 167）。因此，符号学是一个关于意义如何通过解释过程产生的理论。这些过程对皮尔斯来说非常重要，以至于他甚至声称：“我的语言就是我自己的总和；因为人是思想”（Peirce 2000a, 67）。然而，这并不是把人类简化为狭义的语言。相反，这一说法是要理解一个人是谁或是什么，就必须理解她及她所在的各种社区所参与的解释过程。这一点有助于凸显皮尔斯符号学的特别实用主义方面。对于皮尔斯来说，构成个体的符号过程总是植根于社区、历史和物质之中。要理解自我的解释构成，就必须理解各种“外部”环境对其的贡献。
 
-根据德·劳雷蒂斯（de Lauretis）的观点，转向皮尔斯（Peirce）的一个重要原因恰恰在于他的理论将身体和历史重新引入符号主体的讨论中。[3] 对于皮尔斯来说，符号生成是一个无限的过程，但这并不意味着它仅仅是符号在自身之间循环的无限回归。正如德·劳雷蒂斯解释的那样，在它们对某人的表达中——对于皮尔斯来说，因为它们本质上是共同的，符号总是在对某人表达——符号会创造其他符号，这些符号是第一个符号的“指示效应”。皮尔斯称这些符号效应为“解释者”，而劳雷蒂斯感兴趣的特定类型的解释者是皮尔斯所称的“逻辑”解释者，因为它接纳或理解其他类型解释者的情感和能量。逻辑解释者是一个人习惯的修改，“习惯”在皮尔斯的实用主义中指的是倾向或倾向于某种行为方式或风格的倾向或倾向。因此对于皮尔斯来说，尽管是无限的，符号生成仍然总是导致一个人行为和思维习惯的暂时“休息之地”——“暂时”是因为一个人修改的习惯将有助于产生新的符号，然后这些符号将进入持续进行的意义创造过程，再次通过产生额外的习惯变化来修改主体。因此根据皮尔斯的观点——这对德·劳雷蒂斯来说至关重要——符号在历史、身体物质中产生影响，而不仅仅是狭义的语言学。
+根据德·劳雷蒂斯（de Lauretis）的观点，转向皮尔斯（Peirce）的一个重要原因恰恰在于他的理论将身体和历史重新引入符号主体的讨论中。\[3] 对于皮尔斯来说，符号生成是一个无限的过程，但这并不意味着它仅仅是符号在自身之间循环的无限回归。正如德·劳雷蒂斯解释的那样，在它们对某人的表达中——对于皮尔斯来说，因为它们本质上是共同的，符号总是在对某人表达——符号会创造其他符号，这些符号是第一个符号的“指示效应”。皮尔斯称这些符号效应为“解释者”，而劳雷蒂斯感兴趣的特定类型的解释者是皮尔斯所称的“逻辑”解释者，因为它接纳或理解其他类型解释者的情感和能量。逻辑解释者是一个人习惯的修改，“习惯”在皮尔斯的实用主义中指的是倾向或倾向于某种行为方式或风格的倾向或倾向。因此对于皮尔斯来说，尽管是无限的，符号生成仍然总是导致一个人行为和思维习惯的暂时“休息之地”——“暂时”是因为一个人修改的习惯将有助于产生新的符号，然后这些符号将进入持续进行的意义创造过程，再次通过产生额外的习惯变化来修改主体。因此根据皮尔斯的观点——这对德·劳雷蒂斯来说至关重要——符号在历史、身体物质中产生影响，而不仅仅是狭义的语言学。
 
 De Lauretis 批评 Julia Kristeva 仅仅运用了这种狭窄的（误）对符号主体的理解（1984, 171）。代表了 De Lauretis 对后结构主义符号论的一种趋势，Kristeva 的方法一方面因其对身体和无意识的精神分析学的赏识而有价值，另一方面因其对语言学的狭隘理解以及对意义创造的社会方面的忽视而存在问题。另一种后结构主义符号论的趋势，由 Umberto Eco 代表，赏识了符号生成的社会方面，但省略了精神分析所包含的非意识人类存在的元素。根据 De Lauretis 的观点，在 Freud 和 Foucault 的工作之间存在类似的分歧，因此存在类似的问题。Freud 在关注性方面提供了“内在心理世界的私人化视角”，而 Foucault 对性的描述是“极具社会性的”（1994, xix–xx）。因此，对于 De Lauretis 来说，寻求理解性别主体符号创造的女性主义者面临一个基于排他性二元选择的问题：要么性别主体是社会构成的，但缺乏心理内在（Eco 和 Foucault），要么性别主体具有心理深度，但缺乏与外部世界丰富联系（Kristeva 和 Freud）。
 
@@ -90,11 +89,11 @@ De Lauretis 批评 Julia Kristeva 仅仅运用了这种狭窄的（误）对符�
 
 Linda Martín Alcoff 在《Visible Identities: Race, Gender, and the Self》（2006）中警告女性主义者和其他人可能会失去的潜在机会，认为消除阶级和地位差异的原因不一定适用于种族和其他社会身份。她将种族和性别视为历史-物质形成的基本要素，而不是次要要素。分析对身份政治的哲学和政治批评，Alcoff 解释了身份主张为何变得可疑，因为它们被视为必然具有分裂性、排他性和异化性。例如，拉丁裔女性对种族和/或性别身份的诉求据称在政治上是有问题的，因为它们加剧了群体之间的冲突，因此对更大的社区或国家是破坏性的（2006, 36）。据称，这在哲学上是有问题的，因为它们通过一种压迫性和人为强加的类别或一组类别将一个人与自己疏离开来（2006, 80）。因此，真正的自由和真实性似乎需要放弃社会身份。
 
-然而，根据阿尔科夫（Alcoff），这些对身份的攻击背后隐藏着一种怀疑任何形式社会性或社区的隐秘个人主义，并害怕他者对自我的任何影响。“为什么要假设，如果我在文化上、种族上、性别上可识别，这就像卡夫卡（Kafka）的惩罚殖民地中的噩梦般的折磨机器？” 阿尔科夫（2006, 81）问道。答案是“任何形式的身份[在其批评者看来]都是由他者从外部强加于自我的”（2006, 81）。对于坚持绝对独立的个体来说，社会身份代表了通过本体论上对自己以外的某人的依赖而失去控制和权力。这种权力的丧失是值得担忧的，因此种族和其他社会身份也应该被抵制。根据阿尔科夫，这些对身份的攻击背后隐藏着一种怀疑任何形式社会性或社区的隐秘个人主义，并害怕他者对自我的任何影响。"为什么要假设，如果我在文化上、种族上、性别上可识别，这就像卡夫卡的噩梦般的折磨机器？” 阿尔科夫（2006, 81）问道。答案是“任何形式的身份[在其批评者看来]都是由他者从外部强加于自我的”（2006, 81）。对于坚持绝对独立的个体来说，社会身份代表了通过本体论上对自己以外的某人的依赖而失去控制和权力。这种权力的丧失是值得担忧的，因此种族和其他社会身份也应该被抵制。
+然而，根据阿尔科夫（Alcoff），这些对身份的攻击背后隐藏着一种怀疑任何形式社会性或社区的隐秘个人主义，并害怕他者对自我的任何影响。“为什么要假设，如果我在文化上、种族上、性别上可识别，这就像卡夫卡（Kafka）的惩罚殖民地中的噩梦般的折磨机器？” 阿尔科夫（2006, 81）问道。答案是“任何形式的身份\[在其批评者看来]都是由他者从外部强加于自我的”（2006, 81）。对于坚持绝对独立的个体来说，社会身份代表了通过本体论上对自己以外的某人的依赖而失去控制和权力。这种权力的丧失是值得担忧的，因此种族和其他社会身份也应该被抵制。根据阿尔科夫，这些对身份的攻击背后隐藏着一种怀疑任何形式社会性或社区的隐秘个人主义，并害怕他者对自我的任何影响。"为什么要假设，如果我在文化上、种族上、性别上可识别，这就像卡夫卡的噩梦般的折磨机器？” 阿尔科夫（2006, 81）问道。答案是“任何形式的身份\[在其批评者看来]都是由他者从外部强加于自我的”（2006, 81）。对于坚持绝对独立的个体来说，社会身份代表了通过本体论上对自己以外的某人的依赖而失去控制和权力。这种权力的丧失是值得担忧的，因此种族和其他社会身份也应该被抵制。
 
 Alcoff 对这种恐惧的回应是将其定位为一种非常特定的，而不是普遍的需求，即那些殖民者和其他主导群体不希望在受害者的眼中看到自己的影子（2006, 81）。对抗和抵抗并不是自我与他者之间关系可能采取的唯一形式。自我与他者的相互依存可以被认识到，以至于“他者对我的看法——也就是，在他者的存在中我的身份——被内化，从而构成了我的自我”（2006, 82）。Alcoff 借鉴了汉斯-格奥尔格·加达默的解释学和乔治·赫伯特·米德的实用主义，发展了一个将个体置于共同世界中的社会身份的概念。社会身份并不是被强加给原子化的个体，从而使他们必然变得与自己疏远。种族和其他身份是“解释学视野，由经验、基本信念和共同价值构成，所有这些都影响我们对未来经验的取向和回应”（2006, 287），借用加达默的话。或者用米德的术语来说，自我是在“普遍他者”的背景下形成的，这是一个通过这个共同视角，个体发展自我意识，从而学会感知自己和他人的过程（2006, 117）。解释学的视野概念使女性主义者和其他人能够欣赏种族和性别是真实的，因为它们是在历史和经验的关系中创造个体意义的生活位置。个体始终在特定的视野内运作，但由于视野向不确定性敞开，因此在这些视野内可以从中获得一系列解释意义（2006, 43）。米德对社会自我的描述增强了视野的概念，强调了其社会维度（2006, 121）。个体意义的创造是始终在一个共享意义的世界中形成个体自我意识和经验的过程。
 
-对于 Alcoff 来说，种族、性别和其他社会身份可能是压迫性的，但它们并非固有或必然如此。在她看来，最终的问题是“不是如何克服身份，而是如何转变我们对[它]的当前解释和理解”（Alcoff 2006, 287）。Shannon Sullivan 在《揭示白人特权：种族特权的无意识习惯》（2006）中提出了类似的问题。根据 Sullivan 的观点，白人特权越来越多地表现为无意识的习惯，能够在一个普遍反对明显种族主义的世界中茁壮成长，因为那种种族主义似乎不存在。与实用主义者 W.E.B.杜波伊斯和约翰·杜威一起，Sullivan 发展了一种关于白人特权的描述，将其视为一种种族主义和种族主义习惯，构成了自我的一部分，并通过与一个种族主义和种族主义世界的互动而形成。习惯本身并非需要解决的问题，尽管一些习惯，比如白人特权和支配，可能非常有害。对于 Sullivan 来说，作为一种与世界互动/参与的风格或倾向，习惯既具有可塑性又具有持久性，这意味着习惯可以被转变，但这种转变往往需要很长时间。
+对于 Alcoff 来说，种族、性别和其他社会身份可能是压迫性的，但它们并非固有或必然如此。在她看来，最终的问题是“不是如何克服身份，而是如何转变我们对\[它]的当前解释和理解”（Alcoff 2006, 287）。Shannon Sullivan 在《揭示白人特权：种族特权的无意识习惯》（2006）中提出了类似的问题。根据 Sullivan 的观点，白人特权越来越多地表现为无意识的习惯，能够在一个普遍反对明显种族主义的世界中茁壮成长，因为那种种族主义似乎不存在。与实用主义者 W.E.B.杜波伊斯和约翰·杜威一起，Sullivan 发展了一种关于白人特权的描述，将其视为一种种族主义和种族主义习惯，构成了自我的一部分，并通过与一个种族主义和种族主义世界的互动而形成。习惯本身并非需要解决的问题，尽管一些习惯，比如白人特权和支配，可能非常有害。对于 Sullivan 来说，作为一种与世界互动/参与的风格或倾向，习惯既具有可塑性又具有持久性，这意味着习惯可以被转变，但这种转变往往需要很长时间。
 
 这在白人特权习惯方面尤为明显，因为它们的运作越来越无意识。发展一种对无意识的实用化概念——一种对德·劳雷蒂斯关于皮尔斯和弗洛伊德的工作持同情态度的概念——沙利文解释无意识是通过与各种社会、政治、物质和其他环境的交易而形成的（2006, 47）。沙利文借鉴了让·拉普朗奇的精神分析理论，还修改了实用主义习惯的概念，以解释白人习惯的方式“通常是阻碍性的，积极地阻碍自我试图为了更好而改变自己”（2006, 44）。白人种族主义习惯可以改变，但只能间接地，通过改变有助于构成这些习惯的环境。正如沙利文（2006, 10）所言，“搬离鼓励白人唯我论生活的地理、文学、政治和其他环境，这可能是打破和转变白人特权无意识习惯的有力方式。”然而，即使在这里，沙利文也提出了警告。白人特权习惯可以并且经常在最好的意图中继续运作，以通过控制自己的环境来削弱它们。由于白人特权习惯往往以“本体扩张性”为特征，白人将所有空间视为自己合法居住的地方，试图在反种族主义斗争的名义下掌控自己的环境同时也可能加强这种特权（2006, 144）。因此，沙利文警告说，尽管消除白人特权的斗争必须继续，但种族特权习惯不会迅速或轻易被消除。
 
@@ -102,7 +101,7 @@ Alcoff 对这种恐惧的回应是将其定位为一种非常特定的，而不�
 
 二十多年来，理解欧陆女性主义者，尤其是苏珊·博尔多（1993）、朱迪斯·巴特勒（1990 和 1994）、伊丽莎白·格罗斯（1994）和盖尔·韦斯（1999）对实体化与性别、种族和性取向之间关系的重要性一直是一个重要课题。在《穿越和贯穿皮肤：交易性身体、实用主义和女性主义》（2001）中，莎农·沙利文参与了巴特勒和（在较小程度上）博尔多的研究，以及梅洛-庞蒂、尼采和杜威的研究，主张将身体生活理解为交易性的女性主义概念。沙利文将身体呈现为在政治、社会、物质和其他环境中通过关系动态构成的，她这样做是为了探讨交易过程对哪些身体有益或有害，从而决定这些过程是否应该被女性主义者和其他人所接受或转变。
 
-麦克沃特的《身体与快乐：福柯与性正常化的政治》（1999 年）并未明确倡导实用主义哲学，但其与实用主义方法和关注点的亲和性可以被揭示出来。麦克沃特认为，福柯哲学的价值不应该通过其言论的真实性（或虚假性）来评判，这种评估方法依赖于罗蒂（1979 年）所称的“自然之镜”。相反，麦克沃特要求女性主义者和其他福柯读者从实用主义的角度评价他的作品，即根据其对他们生活的转变影响来评判。麦克沃特以自己的生活作为文本，“将阅读福柯的著作的经历作为[她]的分析重点”（1999 年，xix），并展示了福柯关于身体、快乐和性主体形成的特定描述对女性友好的影响。
+麦克沃特的《身体与快乐：福柯与性正常化的政治》（1999 年）并未明确倡导实用主义哲学，但其与实用主义方法和关注点的亲和性可以被揭示出来。麦克沃特认为，福柯哲学的价值不应该通过其言论的真实性（或虚假性）来评判，这种评估方法依赖于罗蒂（1979 年）所称的“自然之镜”。相反，麦克沃特要求女性主义者和其他福柯读者从实用主义的角度评价他的作品，即根据其对他们生活的转变影响来评判。麦克沃特以自己的生活作为文本，“将阅读福柯的著作的经历作为\[她]的分析重点”（1999 年，xix），并展示了福柯关于身体、快乐和性主体形成的特定描述对女性友好的影响。
 
 福柯也是克莱西达·J·海耶斯（Cressida J. Heyes）在《自我转变：福柯、伦理学和规范化身体》（2007）中的焦点。正如海耶斯与福柯一起探讨一个人能力的增长如何与权力关系中的顺从增加分离，她借鉴了理查德·舒斯特曼（Richard Shusterman）的实用主义身体美学。身体训练既批判性地研究又利用感官美学欣赏来改善生活体验，身体美学可以成为帮助一个人照顾她的身体自我的“反击点”（2007, 123），从而增加她的自由。它通过教授非规范的身体体验和评估方式，增加了一个人思考和行动的能力。通过她对瑜伽和其他身体实践的具体例子，海耶斯借鉴了欧陆哲学和实用主义哲学，从现有的身体美学实践中“迈出了创建更宏大女性主义项目的第一步”（2007, 136）。
 
@@ -134,7 +133,7 @@ Medina 认为，认识者在关于种族主义和（异性恋）性别歧视相�
 
 ## 未来方向
 
-与欧陆哲学相比，实用主义女性主义是一个小领域。[5] 然而，它正在增长，随着增长，有关女性主义、实用主义和欧陆哲学交叉的更多研究也将产生。在这个结束部分，我们概述了实用主义和欧陆女性主义未来研究的可能途径，并突出了该领域的最新发展。
+与欧陆哲学相比，实用主义女性主义是一个小领域。\[5] 然而，它正在增长，随着增长，有关女性主义、实用主义和欧陆哲学交叉的更多研究也将产生。在这个结束部分，我们概述了实用主义和欧陆女性主义未来研究的可能途径，并突出了该领域的最新发展。
 
 ### 扩展经典
 
@@ -146,7 +145,7 @@ Medina 认为，认识者在关于种族主义和（异性恋）性别歧视相�
 
 ### 10.2 批判性回应女性主义与实用主义和欧陆哲学的交叉点
 
-南希·弗雷泽的女性主义批判理论以其对正义和非正义的深刻探讨而闻名。她的工作之一效果之一是引发了关于女性主义者从欧陆哲学某些流派中汲取的好处的质疑。例如，弗雷泽发现像福柯、布迪厄和哈贝马斯（等等）这样的思想家的理论具有价值，因为他们关于话语的概念包括丰富多样的历史植根社会实践（1997, 151–152）。相比之下，弗雷泽声称“女性主义者不应该与他们归因于[雅克]拉康的话语理论版本打交道，只应该与归因于茱莉亚·克里斯蒂娃的相关理论打最小的交道”（1997, 151）。这是因为弗雷泽认为拉康和克里斯蒂娃将人类沟通的各种形式简化为狭义理解为符号系统的语言。鉴于女性主义者可能涉足的各种欧陆理论，弗雷泽认为需要的是一个“实用模型”（1997, 155）。弗雷泽称之为“新实用主义”（在本哈比布等人 1995, 167），这样的模型将使女性主义者能够在欧陆哲学中筛选出精华，将其融入女性主义理论中（1997, 208）。因此，弗雷泽使用一种实用主义作为一种方法，以区分不同的欧陆理论。尽管她对后结构主义的批评主要是为了推进启蒙和马克思主义启发的（非）正义问题的方法，弗雷泽的工作也提出了一个更广泛的问题，即女性主义在交汇实用主义和欧陆哲学，至少是某些类型的欧陆哲学之间的相对优势和劣势。
+南希·弗雷泽的女性主义批判理论以其对正义和非正义的深刻探讨而闻名。她的工作之一效果之一是引发了关于女性主义者从欧陆哲学某些流派中汲取的好处的质疑。例如，弗雷泽发现像福柯、布迪厄和哈贝马斯（等等）这样的思想家的理论具有价值，因为他们关于话语的概念包括丰富多样的历史植根社会实践（1997, 151–152）。相比之下，弗雷泽声称“女性主义者不应该与他们归因于\[雅克]拉康的话语理论版本打交道，只应该与归因于茱莉亚·克里斯蒂娃的相关理论打最小的交道”（1997, 151）。这是因为弗雷泽认为拉康和克里斯蒂娃将人类沟通的各种形式简化为狭义理解为符号系统的语言。鉴于女性主义者可能涉足的各种欧陆理论，弗雷泽认为需要的是一个“实用模型”（1997, 155）。弗雷泽称之为“新实用主义”（在本哈比布等人 1995, 167），这样的模型将使女性主义者能够在欧陆哲学中筛选出精华，将其融入女性主义理论中（1997, 208）。因此，弗雷泽使用一种实用主义作为一种方法，以区分不同的欧陆理论。尽管她对后结构主义的批评主要是为了推进启蒙和马克思主义启发的（非）正义问题的方法，弗雷泽的工作也提出了一个更广泛的问题，即女性主义在交汇实用主义和欧陆哲学，至少是某些类型的欧陆哲学之间的相对优势和劣势。
 
 同样，Erin C. Tarver 认为实用主义者应该谨慎地整体引入詹姆斯的观点，相反，詹姆斯哲学中预设男性主体或过于强调个体自主权的元素必须被“认可和拒绝”（2015, 99）。这样做的原因是，这些预设通常不仅仅是性别歧视，而且具有深刻的本体论和伦理学含义，这将进一步巩固反女权主义社会等级制度。然而，Tarver 将对詹姆斯思想的某些元素进行修订或选择性引用的意愿，视为与实用主义的可错误性一致。她写道，“我们必须愿意认真对待詹姆斯的可错误性和对新证据的尊重，以足够应用到他自己的作品”（100），而不是将男性化的语言和假设视为可悔之事，可以被视为另一个时代产物而被忽视。因此，根据 Tarver 的观点，女性主义哲学与实用主义的交流必须愿意批判和拒绝，即使在与那些思想对女性主义目标有用的思想家交流时也是如此。
 
@@ -154,87 +153,87 @@ Medina 认为，认识者在关于种族主义和（异性恋）性别歧视相�
 
 ## Bibliography
 
-* Alcoff, Linda Martín, 2006. *Visible Identities: Race, Gender, and the Self*, New York: Oxford University Press.
-* Bardwell-Jones, Celia T., 2018. “Placental Ethics: Addressing Colonial Legacies and Imagining Culturally Safe Responses to Health Care in Hawai’i,” *The Pluralist*, 13(1): 97–114.
-* Beauvoir, Simone de, 1989. *The Second Sex*, H.M. Parshley (trans.), New York: Vintage Books.
-* Benhabib, Seyla, Judith Butler, Drucilla Cornell, and Nancy Fraser, 1995. *Feminist Contentions: A Philosophical Exchange*, New York: Routledge.
-* Bickford, Susan, 1993. “Why We Listen to Lunatics: Antifoundational Theories and Feminist Politics,” *Hypatia*, 8(2): 104–23.
-* Bordo, Susan R., 1987. *The Flight to Objectivity: Essays on Cartesianism and Culture*, Albany, NY: SUNY Press.
-* –––, 1993. *Unbearable Weight: Feminism, Western Culture, and the Body*, Berkeley, CA: University of California Press.
-* Butler, Judith, 1990. *Gender Trouble*, New York: Routledge.
-* –––, 1993. *Bodies that Matter: On the Discursive Limits of “Sex,”*, New York: Routledge.
-* Colapietro, Vincent, 2000. “Further Consequences of a Singular Capacity,” in *Peirce, Semiotics, and Psychoanalysis*, John Muller and Joseph Brent (eds.), Baltimore, MD: John Hopkins University Press.
-* Collins, Patricia Hill, 2012. “Social Inequality, Power, and Politics: Intersectionality and American Pragmatism in Dialogue,” *Journal of Speculative Philosophy*, 26(2): 443–457.
-* –––, 2019. *Intersectionality as Critical Social Theory*, Durham, NC: Duke University Press.
-* De Lauretis, Teresa, 1984. *Alice Doesn’t: Feminism, Semiotics, Cinema*, Bloomington, IN: Indiana University Press.
-* –––, 1994. *The Practice of Love: Lesbian Sexuality and Perverse Desire*, Bloomington, IN: Indiana University Press.
-* –––, 2000. “Gender, Body, and Habit Change,” in *Peirce, Semiotics, and Psychoanalysis*, John Muller and Joseph Brent (eds.), Baltimore, MD: John Hopkins University Press.
-* Dewey, John, 1988. *The Quest for Certainty*, Volume 4 of *John Dewey: The Later Works: 1925–1953*, Jo Ann Boydston (ed.), Carbondale and Edwardsville: Southern Illinois University Press.
-* –––, 2000. “Experience and Philosophic Method,” in *Pragmatism and Classical American Philosophy*, John Stuhr (ed.), New York: Oxford University Press.
-* Dotson, Kristie, 2012. “How is this Paper Philosophy?” *Comparative Philosophy*, 3(1): 03–29.
-* Fraser, Nancy, 1990a. “Solidarity or Singularity? Richard Rorty between Romanticism and Technocracy,” in *Reading Rorty*, Alan Malachowski (ed.), Cambridge, MA: Basil Blackwell.
-* –––, 1990b. “From Irony to Prophecy to Politics: A Response to Richard Rorty,” *Michigan Quarterly Review*, 30(2): 259–66.
-* –––, 1997. *Justice Interruptus: Critical Reflections on the “Postsocialist” Condition*, New York: Routledge.
-* Gatens-Robinson, Eugenie, 1991. “Dewey and the Feminist Successor Science Project,” *Transactions of the C. S. Peirce Society*, 27(4): 411–34.
-* Gayman, Cynthia, 2011. “Politicizing the Personal: Thinking about the Feminist Subject with Michel Foucault and John Dewey,” *Foucault Studies*, 11: 63–75.
-* Grosz, Elizabeth, 1994. *Volatile Bodies: Toward a Corporeal Feminism*, Bloomington, IN: Indiana University Press.
-* –––, 2001. *Architecture from the Outside: Essays on Virtual and Real Space*, Forward by Peter Eisenman, Cambridge, MA: The MIT Press.
-* Hamington, Maurice, 2004. *Embodied Care: Jane Addams, Maurice Merleau-Ponty, and Feminist Ethics*, Urbana, IL: University of Illinois Press.
-* Hansen, Jennifer, 2013. “From Hinge Narrative to Habit: Self-Oriented Narrative Psychotherapy Meets Feminist Phenomenological Theories of Embodiment,” *Philosophy, Psychiatry, and Psychology*, 20(1): 69–73.
-* Haraway, Donna J., 1991. *Simians, Cyborgs and Women: The Reinvention of Nature*, New York: Routledge.
-* –––, 1997. *Modest_Witness*@*Second_Millennium.FemaleMan*©­*_Meets_OncoMouse*™: *Feminism and Technoscience*, New York: Routledge.
-* Heyes, Cressida J., 2007. *Self Transformations: Foucault, Ethics, and Normalized Bodies*, New York: Oxford University Press.
-* Irigaray, Luce, 1985. *Speculum of the Other Woman*, Ithaca, NY: Cornell University Press.
-* Jolles, Marjorie, 2012. “Between Embodied Subjects and Objects: Narrative Somaesthetics,” *Hypatia*, 27(2): 301–318.
-* Koopman, Colin, 2011. “Genealogical Pragmatism: How History Matters for Foucault and Dewey,” *Journal of the History of Philosophy*, 5(3): 533–561.
-* Kristeva, Julia, 1986a. “The System and the Speaking Subject,” in *The Kristeva Reader*, Toril Moi (ed.), New York: Columbia University Press.
-* –––, 1986b. “From Symbol to Sign,” Seán Hand (trans.), in *The Kristeva Reader*, Toril Moi (ed.), New York: Columbia University Press.
-* –––, 1991. *Strangers to Ourselves*, Leon S. Roudiez (trans.), New York: Columbia University Press.
-* Kruse, Felicia, 1991. “Luce Irigaray’s *Parler Femme* and American Metaphysics,” *Transactions of the C. S. Peirce Society*, 27(4): 451–464.
-* Leland, Dorothy, 1988. “Rorty on the Moral Concern of Philosophy: A Critique from a Feminist Point of View,” *Praxis International*, 8(3): 273–83.
-* Lovibond, Sabina, 1992. “Feminism and Pragmatism: A Reply to Richard Rorty,” *New Left Review*, 193: 56–74.
-* Lyotard, Jean-François, 1984. *The Postmodern Condition: A Report on Knowledge*, Geoffrey Bennington and Brian Massumi (trans.), Minneapolis, MN: University of Minnesota Press.
-* Magada-Ward, Mary, 2014. “Why Pragmatists Should Not Be Cyborgs.” *Journal of Speculative Philosophy*, 28(4): 472–488.
-* Marcano, Donna-Dale L., 2010. “The Difference That Difference Makes: Black Feminism and Philosophy,” in *Convergences: Black Feminism and Continental Philosophy*, Maria Del Guadalupe Davidson, Kathryn T. Gines, and Donna-Dale L. Marcano (eds.), Albany: SUNY Press, 53–65.
-* McAfee, Noëlle, 2008. *Democracy and the Political Unconscious*, New York: Columbia University Press.
-* McKenna, Erin, 2001. *The Task of Utopia: A Pragmatist and Feminist Perspective*, Lanham, MD: Rowman and Littlefield.
-* McWhorter, Ladelle, 1999. *Bodies and Pleasures: Foucault and the Politics of Sexual Normalization*, Bloomington: Indiana University Press.
-* Medina, José, 2013. *The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations*, Oxford: Oxford University Press.
-* Moen, Marcia, 1991. “Peirce’s Pragmatism as a Resource for Feminism,” *Transactions of the C. S. Peirce Society*, 27(4): 435–450.
-* Peirce, Charles Sanders, 2000a. “Some Consequences of Four Incapacities,” in *Pragmatism and Classical American Philosophy*, John Stuhr (ed.), New York: Oxford University Press.
-* –––, 2000b. “What Pragmatism Is,” in *Pragmatism and Classical American Philosophy*, John Stuhr (ed.), New York: Oxford University Press.
-* Rorty, Richard, 1979. *Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
-* –––, 1991. “Feminism and Pragmatism,” *Radical Philosophy*, 59: 3–14.
-* –––, 1993. “Feminism, Ideology, and Deconstruction: A Pragmatist View,” *Hypatia*, 8(2): 96–103.
-* Salamon, Gayle, 2009. “Justification and Queer Method, or Leaving Philosophy,” *Hypatia*, 24(1): 225–230.
-* Schultz, Bart, 1999. “Comment: The Private and Its Problems—Pragmatism, Pragmatist Feminism, and Homophobia,” *Philosophy of the Social Sciences*, 29(2): 281–305.
-* Seigfried, Charlene Haddock, 1996. *Pragmatism and Feminism: Reweaving the Social Fabric*, Chicago: University of Chicago Press.
-* Sullivan, Shannon, 2001a. “Guest Editor’s Introduction,” Special Issue on Pragmatism and Feminism. *Journal of Speculative Philosophy*, 15(2): 69–73.
-* –––, 2001b. *Living Across and Through Skins: Transactional Bodies, Pragmatism, and Feminism*, Bloomington, IN: Indiana University Press.
-* –––, 2006. *Revealing Whiteness: The Unconscious Habits of Racial Privilege*, Bloomington, IN: Indiana University Press.
-* Tarver, Erin C., 2013. “Signifying ‘Hillary’: Making (Political) Sense with Butler and Dewey,” *Contemporary Pragmatism*, 10(2): 25–47.
-* –––, 2015. “Lady Pragmatism and the Great Man: The Need for Feminist Pragmatism,” in *Feminist Interpretations of William James*, Erin C. Tarver and Shannon Sullivan (eds.), University Park, PA: Pennsylvania State University Press, 98–117.
-* Weiss, Gail, 1999. *Body Images: Embodiment as Intercorporeality*, New York: Routledge.
-* Willett, Cynthia, 2001. *The Soul of Justice: Social Bonds and Racial Hubris*, Ithaca, NY: Cornell University Press.
-* –––, 2008. *Irony in the Age of Empire: Comic Perspectives on Democracy and Freedom*, Bloomington, IN: Indiana University Press.
-* Wilson, Catherine, 1992. “How Did the Dinosaurs Die Out? How Did the Poets Survive?” *Radical Philosophy*, 62: 20–26.
+* Alcoff, Linda Martín, 2006. _Visible Identities: Race, Gender, and the Self_, New York: Oxford University Press.
+* Bardwell-Jones, Celia T., 2018. “Placental Ethics: Addressing Colonial Legacies and Imagining Culturally Safe Responses to Health Care in Hawai’i,” _The Pluralist_, 13(1): 97–114.
+* Beauvoir, Simone de, 1989. _The Second Sex_, H.M. Parshley (trans.), New York: Vintage Books.
+* Benhabib, Seyla, Judith Butler, Drucilla Cornell, and Nancy Fraser, 1995. _Feminist Contentions: A Philosophical Exchange_, New York: Routledge.
+* Bickford, Susan, 1993. “Why We Listen to Lunatics: Antifoundational Theories and Feminist Politics,” _Hypatia_, 8(2): 104–23.
+* Bordo, Susan R., 1987. _The Flight to Objectivity: Essays on Cartesianism and Culture_, Albany, NY: SUNY Press.
+* –––, 1993. _Unbearable Weight: Feminism, Western Culture, and the Body_, Berkeley, CA: University of California Press.
+* Butler, Judith, 1990. _Gender Trouble_, New York: Routledge.
+* –––, 1993. _Bodies that Matter: On the Discursive Limits of “Sex,”_, New York: Routledge.
+* Colapietro, Vincent, 2000. “Further Consequences of a Singular Capacity,” in _Peirce, Semiotics, and Psychoanalysis_, John Muller and Joseph Brent (eds.), Baltimore, MD: John Hopkins University Press.
+* Collins, Patricia Hill, 2012. “Social Inequality, Power, and Politics: Intersectionality and American Pragmatism in Dialogue,” _Journal of Speculative Philosophy_, 26(2): 443–457.
+* –––, 2019. _Intersectionality as Critical Social Theory_, Durham, NC: Duke University Press.
+* De Lauretis, Teresa, 1984. _Alice Doesn’t: Feminism, Semiotics, Cinema_, Bloomington, IN: Indiana University Press.
+* –––, 1994. _The Practice of Love: Lesbian Sexuality and Perverse Desire_, Bloomington, IN: Indiana University Press.
+* –––, 2000. “Gender, Body, and Habit Change,” in _Peirce, Semiotics, and Psychoanalysis_, John Muller and Joseph Brent (eds.), Baltimore, MD: John Hopkins University Press.
+* Dewey, John, 1988. _The Quest for Certainty_, Volume 4 of _John Dewey: The Later Works: 1925–1953_, Jo Ann Boydston (ed.), Carbondale and Edwardsville: Southern Illinois University Press.
+* –––, 2000. “Experience and Philosophic Method,” in _Pragmatism and Classical American Philosophy_, John Stuhr (ed.), New York: Oxford University Press.
+* Dotson, Kristie, 2012. “How is this Paper Philosophy?” _Comparative Philosophy_, 3(1): 03–29.
+* Fraser, Nancy, 1990a. “Solidarity or Singularity? Richard Rorty between Romanticism and Technocracy,” in _Reading Rorty_, Alan Malachowski (ed.), Cambridge, MA: Basil Blackwell.
+* –––, 1990b. “From Irony to Prophecy to Politics: A Response to Richard Rorty,” _Michigan Quarterly Review_, 30(2): 259–66.
+* –––, 1997. _Justice Interruptus: Critical Reflections on the “Postsocialist” Condition_, New York: Routledge.
+* Gatens-Robinson, Eugenie, 1991. “Dewey and the Feminist Successor Science Project,” _Transactions of the C. S. Peirce Society_, 27(4): 411–34.
+* Gayman, Cynthia, 2011. “Politicizing the Personal: Thinking about the Feminist Subject with Michel Foucault and John Dewey,” _Foucault Studies_, 11: 63–75.
+* Grosz, Elizabeth, 1994. _Volatile Bodies: Toward a Corporeal Feminism_, Bloomington, IN: Indiana University Press.
+* –––, 2001. _Architecture from the Outside: Essays on Virtual and Real Space_, Forward by Peter Eisenman, Cambridge, MA: The MIT Press.
+* Hamington, Maurice, 2004. _Embodied Care: Jane Addams, Maurice Merleau-Ponty, and Feminist Ethics_, Urbana, IL: University of Illinois Press.
+* Hansen, Jennifer, 2013. “From Hinge Narrative to Habit: Self-Oriented Narrative Psychotherapy Meets Feminist Phenomenological Theories of Embodiment,” _Philosophy, Psychiatry, and Psychology_, 20(1): 69–73.
+* Haraway, Donna J., 1991. _Simians, Cyborgs and Women: The Reinvention of Nature_, New York: Routledge.
+* –––, 1997. _Modest\_Witness_@_Second\_Millennium.FemaleMan_©­_\_Meets\_OncoMouse_™: _Feminism and Technoscience_, New York: Routledge.
+* Heyes, Cressida J., 2007. _Self Transformations: Foucault, Ethics, and Normalized Bodies_, New York: Oxford University Press.
+* Irigaray, Luce, 1985. _Speculum of the Other Woman_, Ithaca, NY: Cornell University Press.
+* Jolles, Marjorie, 2012. “Between Embodied Subjects and Objects: Narrative Somaesthetics,” _Hypatia_, 27(2): 301–318.
+* Koopman, Colin, 2011. “Genealogical Pragmatism: How History Matters for Foucault and Dewey,” _Journal of the History of Philosophy_, 5(3): 533–561.
+* Kristeva, Julia, 1986a. “The System and the Speaking Subject,” in _The Kristeva Reader_, Toril Moi (ed.), New York: Columbia University Press.
+* –––, 1986b. “From Symbol to Sign,” Seán Hand (trans.), in _The Kristeva Reader_, Toril Moi (ed.), New York: Columbia University Press.
+* –––, 1991. _Strangers to Ourselves_, Leon S. Roudiez (trans.), New York: Columbia University Press.
+* Kruse, Felicia, 1991. “Luce Irigaray’s _Parler Femme_ and American Metaphysics,” _Transactions of the C. S. Peirce Society_, 27(4): 451–464.
+* Leland, Dorothy, 1988. “Rorty on the Moral Concern of Philosophy: A Critique from a Feminist Point of View,” _Praxis International_, 8(3): 273–83.
+* Lovibond, Sabina, 1992. “Feminism and Pragmatism: A Reply to Richard Rorty,” _New Left Review_, 193: 56–74.
+* Lyotard, Jean-François, 1984. _The Postmodern Condition: A Report on Knowledge_, Geoffrey Bennington and Brian Massumi (trans.), Minneapolis, MN: University of Minnesota Press.
+* Magada-Ward, Mary, 2014. “Why Pragmatists Should Not Be Cyborgs.” _Journal of Speculative Philosophy_, 28(4): 472–488.
+* Marcano, Donna-Dale L., 2010. “The Difference That Difference Makes: Black Feminism and Philosophy,” in _Convergences: Black Feminism and Continental Philosophy_, Maria Del Guadalupe Davidson, Kathryn T. Gines, and Donna-Dale L. Marcano (eds.), Albany: SUNY Press, 53–65.
+* McAfee, Noëlle, 2008. _Democracy and the Political Unconscious_, New York: Columbia University Press.
+* McKenna, Erin, 2001. _The Task of Utopia: A Pragmatist and Feminist Perspective_, Lanham, MD: Rowman and Littlefield.
+* McWhorter, Ladelle, 1999. _Bodies and Pleasures: Foucault and the Politics of Sexual Normalization_, Bloomington: Indiana University Press.
+* Medina, José, 2013. _The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations_, Oxford: Oxford University Press.
+* Moen, Marcia, 1991. “Peirce’s Pragmatism as a Resource for Feminism,” _Transactions of the C. S. Peirce Society_, 27(4): 435–450.
+* Peirce, Charles Sanders, 2000a. “Some Consequences of Four Incapacities,” in _Pragmatism and Classical American Philosophy_, John Stuhr (ed.), New York: Oxford University Press.
+* –––, 2000b. “What Pragmatism Is,” in _Pragmatism and Classical American Philosophy_, John Stuhr (ed.), New York: Oxford University Press.
+* Rorty, Richard, 1979. _Philosophy and the Mirror of Nature_, Princeton: Princeton University Press.
+* –––, 1991. “Feminism and Pragmatism,” _Radical Philosophy_, 59: 3–14.
+* –––, 1993. “Feminism, Ideology, and Deconstruction: A Pragmatist View,” _Hypatia_, 8(2): 96–103.
+* Salamon, Gayle, 2009. “Justification and Queer Method, or Leaving Philosophy,” _Hypatia_, 24(1): 225–230.
+* Schultz, Bart, 1999. “Comment: The Private and Its Problems—Pragmatism, Pragmatist Feminism, and Homophobia,” _Philosophy of the Social Sciences_, 29(2): 281–305.
+* Seigfried, Charlene Haddock, 1996. _Pragmatism and Feminism: Reweaving the Social Fabric_, Chicago: University of Chicago Press.
+* Sullivan, Shannon, 2001a. “Guest Editor’s Introduction,” Special Issue on Pragmatism and Feminism. _Journal of Speculative Philosophy_, 15(2): 69–73.
+* –––, 2001b. _Living Across and Through Skins: Transactional Bodies, Pragmatism, and Feminism_, Bloomington, IN: Indiana University Press.
+* –––, 2006. _Revealing Whiteness: The Unconscious Habits of Racial Privilege_, Bloomington, IN: Indiana University Press.
+* Tarver, Erin C., 2013. “Signifying ‘Hillary’: Making (Political) Sense with Butler and Dewey,” _Contemporary Pragmatism_, 10(2): 25–47.
+* –––, 2015. “Lady Pragmatism and the Great Man: The Need for Feminist Pragmatism,” in _Feminist Interpretations of William James_, Erin C. Tarver and Shannon Sullivan (eds.), University Park, PA: Pennsylvania State University Press, 98–117.
+* Weiss, Gail, 1999. _Body Images: Embodiment as Intercorporeality_, New York: Routledge.
+* Willett, Cynthia, 2001. _The Soul of Justice: Social Bonds and Racial Hubris_, Ithaca, NY: Cornell University Press.
+* –––, 2008. _Irony in the Age of Empire: Comic Perspectives on Democracy and Freedom_, Bloomington, IN: Indiana University Press.
+* Wilson, Catherine, 1992. “How Did the Dinosaurs Die Out? How Did the Poets Survive?” _Radical Philosophy_, 62: 20–26.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=femapproach-prag-cont). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/femapproach-prag-cont/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=femapproach-prag-cont&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/femapproach-prag-cont/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=femapproach-prag-cont).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/femapproach-prag-cont/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=femapproach-prag-cont\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/femapproach-prag-cont/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Bergson, Henri](https://plato.stanford.edu/entries/bergson/) | [Darwinism](https://plato.stanford.edu/entries/darwinism/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Dewey, John](https://plato.stanford.edu/entries/dewey/) | [feminist philosophy, approaches: continental philosophy](https://plato.stanford.edu/entries/femapproach-continental/) | [feminist philosophy, approaches: intersections between analytic and continental philosophy](https://plato.stanford.edu/entries/femapproach-analy-cont/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [identity politics](https://plato.stanford.edu/entries/identity-politics/) | [James, William](https://plato.stanford.edu/entries/james/) | [Nietzsche, Friedrich](https://plato.stanford.edu/entries/nietzsche/) | [Peirce, Charles Sanders](https://plato.stanford.edu/entries/peirce/) | [process philosophy](https://plato.stanford.edu/entries/process-philosophy/) | [Rorty, Richard](https://plato.stanford.edu/entries/rorty/) | [Whitehead, Alfred North](https://plato.stanford.edu/entries/whitehead/)
+[Bergson, Henri](https://plato.stanford.edu/entries/bergson/) | [Darwinism](https://plato.stanford.edu/entries/darwinism/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Dewey, John](https://plato.stanford.edu/entries/dewey/) | [feminist philosophy, approaches: continental philosophy](https://plato.stanford.edu/entries/femapproach-continental/) | [feminist philosophy, approaches: intersections between analytic and continental philosophy](https://plato.stanford.edu/entries/femapproach-analy-cont/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [identity politics](https://plato.stanford.edu/entries/identity-politics/) | [James, William](https://plato.stanford.edu/entries/james/) | [Nietzsche, Friedrich](https://plato.stanford.edu/entries/nietzsche/) | [Peirce, Charles Sanders](https://plato.stanford.edu/entries/peirce/) | [process philosophy](https://plato.stanford.edu/entries/process-philosophy/) | [Rorty, Richard](https://plato.stanford.edu/entries/rorty/) | [Whitehead, Alfred North](https://plato.stanford.edu/entries/whitehead/)
 
-[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
-[Shannon Sullivan](https://clas-pages.uncc.edu/shannon-sullivan/) <[*ssullivan@uncc.edu*](mailto:ssullivan%40uncc%2eedu)>  
-Erin Tarver <[*e.c.tarver@emory.edu*](mailto:e%2ec%2etarver%40emory%2eedu)>
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
+[Shannon Sullivan](https://clas-pages.uncc.edu/shannon-sullivan/) <[_ssullivan@uncc.edu_](mailto:ssullivan%40uncc%2eedu)>\
+Erin Tarver <[_e.c.tarver@emory.edu_](mailto:e%2ec%2etarver%40emory%2eedu)>

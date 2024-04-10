@@ -1,6 +1,6 @@
 # 女性主义对自我的观点 perspectives on the self (Ellie Anderson, Cynthia Willett, and Diana Meyers)
 
-*首次发表于 1999 年 6 月 28 日星期一；实质性修订于 2020 年 2 月 19 日星期三*
+_首次发表于 1999 年 6 月 28 日星期一；实质性修订于 2020 年 2 月 19 日星期三_
 
 女性主义哲学长期以来一直关注自我主题，因为它对于女性主义必须解决的有关个人身份、身体、社会性和代理权的问题至关重要。西蒙娜·德·波伏娃(Simone de Beauvoir)的挑衅性宣言“他是主体，他是绝对——她是他者”表明了自我对于女性主义的核心重要性。成为他者意味着成为一个非主体、非代理者——简言之，成为一个纯粹的物。女性的自我已经被法律、习俗实践和文化刻板印象系统地压制甚至直接否定。在历史上，女性被认定为男性的劣质版本或直接相反，通过他们与男性的感知差异来表征；在这两种情况下，女性都是基于这些观点而受到贬低。由于女性被塑造为男性个体的次要形式，西方哲学和美国流行文化中占主导地位的自我范式源自男性原型。女性主义者认为，主要是白人和异性恋者，大多数经济上有利的男性的经历被视为普遍和理想，这些男性拥有社会、经济和政治权力，并主导着艺术、文学、媒体和学术界。因此，女性主义者认为，自我不仅是哲学上的形而上问题，而且也是伦理、认识论、社会和政治问题。
 
@@ -9,19 +9,17 @@
 * [对自我性经典方法的批判](https://plato.stanford.edu/entries/feminism-self/#CritClasApprSelf)
 * [女性身份和妇女地位的重塑](https://plato.stanford.edu/entries/feminism-self/#ReclFemiIdenWomeStat)
 * [自我的再概念化](https://plato.stanford.edu/entries/feminism-self/#RecoSelf)
-
   * [动态和关系自我](https://plato.stanford.edu/entries/feminism-self/#DynaRelaSelf)
   * [3.2 交叉性和多元自我](https://plato.stanford.edu/entries/feminism-self/#InteMultSelf)
-* [ 4. 结论](https://plato.stanford.edu/entries/feminism-self/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-self/#Bib)
-
+* [4. 结论](https://plato.stanford.edu/entries/feminism-self/#Conc)
+* [参考文献](https://plato.stanford.edu/entries/feminism-self/#Bib)
   * [全面参考书目](https://plato.stanford.edu/entries/feminism-self/#CompBibl)
-  * [ 参考文献](https://plato.stanford.edu/entries/feminism-self/#Refe)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-self/#Aca)
+  * [参考文献](https://plato.stanford.edu/entries/feminism-self/#Refe)
+* [学术工具](https://plato.stanford.edu/entries/feminism-self/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/feminism-self/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-self/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/feminism-self/#Rel)
 
----
+***
 
 ## 对自我性的古典方法的批判
 
@@ -37,9 +35,9 @@
 
 女性自我被废除曾在盎格鲁-欧洲和美国法律中明确规定。隐名法律原则认为，女性的人格在结婚时被吸收到丈夫的人格中（McDonagh 1996）。假定使用丈夫的姓氏象征着否认妻子独立身份。此外，隐名法剥夺了妻子对身体完整性的权利，因为婚姻内的强奸和其他形式的身体虐待并未被视为犯罪。她失去了拥有财产、控制自己收入和以自己名义签订合同的权利。由于缺乏选举权和在陪审团中任职的权利，她是一个二等公民，其享有选举权的丈夫据称在政治上代表她。尽管隐名法已被废除，但女性自我否定的痕迹仍可在最近的法律裁决和当代文化中看到。例如，怀孕的女性仍然容易受到法律认可的侵犯其身体完整性和法律自治权，尤其是如果她们缺乏种族和阶级特权（Bordo 1993; Brown 1998）。无私仍然是怀孕女性的法律地位。此外，女性无私的刻板印象仍然在大众想象中盛行。任何自信、自主的女性都与普遍性别规范格格不入，而一个不无私地全心全意照顾孩子的母亲很可能被视为自私甚至是社会福利“欺诈”者，并面临严重的社会指责和社会服务剥夺（Sparks, 2015）。
 
-补充这一论点的是，许多女性主义者认为，独立、理性的自我理想具有可憎的社会后果。为了实现这一理想，有必要压抑内在冲突并监管纯化自我的严格界限。异化的欲望和冲动被排斥到潜意识中，但这些潜意识材料不可避免地侵入意识生活并影响人们的态度和欲望。特别是，内在的恐惧和鄙视的他者被投射到“其他”社会群体上，仇恨和蔑视被转向这些想象中的敌人（Kristeva 1988 [1991]; McAfee 2019; Scheman 1993）。因此，厌女症和其他形式的偏见源于要求自我果断、无懈可击和统一，以及无法满足这一要求的不可能性。更糟糕的是，这些非理性的仇恨除非放弃对自我掌控的要求，否则无法治愈，但要放弃这一要求就意味着接受一个被贬低、女性化的自我，其关切不被认真对待。事实上，女性的抗议往往被视为歇斯底里或扫兴的抗议（Ahmed 2017）。虚构的康德式自我远非道德正直的保证人，而是无法解决的敌意和不公正的可能性条件。
+补充这一论点的是，许多女性主义者认为，独立、理性的自我理想具有可憎的社会后果。为了实现这一理想，有必要压抑内在冲突并监管纯化自我的严格界限。异化的欲望和冲动被排斥到潜意识中，但这些潜意识材料不可避免地侵入意识生活并影响人们的态度和欲望。特别是，内在的恐惧和鄙视的他者被投射到“其他”社会群体上，仇恨和蔑视被转向这些想象中的敌人（Kristeva 1988 \[1991]; McAfee 2019; Scheman 1993）。因此，厌女症和其他形式的偏见源于要求自我果断、无懈可击和统一，以及无法满足这一要求的不可能性。更糟糕的是，这些非理性的仇恨除非放弃对自我掌控的要求，否则无法治愈，但要放弃这一要求就意味着接受一个被贬低、女性化的自我，其关切不被认真对待。事实上，女性的抗议往往被视为歇斯底里或扫兴的抗议（Ahmed 2017）。虚构的康德式自我远非道德正直的保证人，而是无法解决的敌意和不公正的可能性条件。
 
-传统现代观点在女性主义角度存在的另一个问题是，它们未能提供关于内化压迫及其克服过程的解释。女性常常以女性化方式表现自己，降低抱负，并接受符合性别的目标（Irigaray 1985a; Bartky 1990; Babbitt 1993; Cudd 2006; Beauvoir 1949 [2011]）。女性主义者解释说，女性内化了父权制度的规范：这些规范融入了自我的认知、情感和行为结构中。女性可能在不自知的情况下促成自己的压迫。有时，扭曲的规范甚至会导致女性通过 Kate Abramson 所称的“煤气灯效应”来质疑自己的理智。被煤气灯效应影响的女性可能会失去自我意识，甚至导致抑郁和悲伤（Abramson 2014）。一旦内化压迫融入女性的心理结构，就会影响她的核心欲望。因此，为了最大程度地满足欲望，就意味着合作自己的压迫。经济人的满足等式无法摆脱这一困境。
+传统现代观点在女性主义角度存在的另一个问题是，它们未能提供关于内化压迫及其克服过程的解释。女性常常以女性化方式表现自己，降低抱负，并接受符合性别的目标（Irigaray 1985a; Bartky 1990; Babbitt 1993; Cudd 2006; Beauvoir 1949 \[2011]）。女性主义者解释说，女性内化了父权制度的规范：这些规范融入了自我的认知、情感和行为结构中。女性可能在不自知的情况下促成自己的压迫。有时，扭曲的规范甚至会导致女性通过 Kate Abramson 所称的“煤气灯效应”来质疑自己的理智。被煤气灯效应影响的女性可能会失去自我意识，甚至导致抑郁和悲伤（Abramson 2014）。一旦内化压迫融入女性的心理结构，就会影响她的核心欲望。因此，为了最大程度地满足欲望，就意味着合作自己的压迫。经济人的满足等式无法摆脱这一困境。
 
 最后，在自我的主导概念中，似乎没有人是出生和成长的，因为照顾者和生身母亲被推到幕后（Irigaray 1985b; Baier 1987; Code 1987; Held 1987; Willett 1995 and 2001; Kittay 1999; LaChance Adams and Lundquist 2012）。自我似乎是自发出现的，具有一套基本的生理欲望和理性技能。没有人的力量似乎会衰退或在不同环境中改变。由于否认了依赖性和脆弱性，所有关联都被假定为自由选择，所有交易都是自由协商的。对照顾的否定支持了康德伦理主体和经济人的自愿独立幻觉，这里并非巧合的是，照顾一直是传统上女性的工作。关怀、爱、温柔、自发性和相互依赖等替代美德被视为“有计划的人”失败，而不是具有弹性自我和流动代理感的方面（Baier 1987; Koziej 2019）。母亲通过情感调谐之舞培养了自己与婴儿之间的“社会性色情”（Willett 1995 and 2001），就像恋人拥抱意外一样，突破了严格的现代自我规范。
 
@@ -49,7 +47,7 @@
 
 这些疏忽需要至少在两个方面重新构想自我。为了解释传统上被忽视的自我特征，比如相互依存和脆弱性，自我必须被理解为社会定位和关系性。为了解释自我辨别和抵抗根深蒂固的文化规范的能力，道德主体不能被简化为理性的能力。对于许多女性主义者来说，承认自我的依赖并不是贬低自我，而是重视脆弱性（Code 2011），并质疑暗含着与男性理想相对应的自由代理的自我。
 
-然而，有人可能担心重新评价依赖会导致对女性作为受害者和男性作为行动者的贬低观念的延续，或者巩固将价值观划分为男性和女性的性别二元论。关注依赖和关怀可能进一步冒着将女性与母亲和抚养者混为一谈的风险，正如帕特丽斯·迪昆齐奥所称的“本质母性”（1999 年）。玛丽·沃斯通克拉夫特认为，道德美德实际上没有性别之分，她将“女性”美德视为这些真正美德的变态，并为女性被征召到虚假理想而感到悲哀（沃斯通克拉夫特，1792 年）。同样，西蒙娜·德·波伏娃将生活在父权社会下的女性称为“被切割的”和“内在的”（波伏娃，1949 年[2011 年]）。社会化为自我客体化，据说女性会变得自恋、心胸狭窄，并依赖他人的认可。被排除在职业之外，等待未来丈夫的选择，怀孕期间被自然力量控制，忙于乏味、重复的家务，女性永远无法成为超越的行动者。对于波伏娃来说，她们经常抗拒对自己自由的责任。
+然而，有人可能担心重新评价依赖会导致对女性作为受害者和男性作为行动者的贬低观念的延续，或者巩固将价值观划分为男性和女性的性别二元论。关注依赖和关怀可能进一步冒着将女性与母亲和抚养者混为一谈的风险，正如帕特丽斯·迪昆齐奥所称的“本质母性”（1999 年）。玛丽·沃斯通克拉夫特认为，道德美德实际上没有性别之分，她将“女性”美德视为这些真正美德的变态，并为女性被征召到虚假理想而感到悲哀（沃斯通克拉夫特，1792 年）。同样，西蒙娜·德·波伏娃将生活在父权社会下的女性称为“被切割的”和“内在的”（波伏娃，1949 年\[2011 年]）。社会化为自我客体化，据说女性会变得自恋、心胸狭窄，并依赖他人的认可。被排除在职业之外，等待未来丈夫的选择，怀孕期间被自然力量控制，忙于乏味、重复的家务，女性永远无法成为超越的行动者。对于波伏娃来说，她们经常抗拒对自己自由的责任。
 
 女性作为父权家庭的可怜受害者的描绘在当代女性主义哲学中受到了挑战和调整。我们将审视三种主要的重申策略：（1）通过发展关怀伦理学和爱伦理学重新评价传统的“女性”活动，如母性和其他社会联系方式；（2）通过超越上述两种传统模式重新思考自主权；以及（3）通过对女性身份的象征分析来重新夺回性别差异。
 
@@ -65,11 +63,11 @@
 
 怀孕为积极展示自我的多样性提供了机会，但也可能揭示女性在父权社会中面临的侵犯。杨指出，产科医学对女性身体的干预通过将其病态化、让女性接受侵入性医疗技术，并使女性在分娩过程中被 passivized（Young 1990）。对黑人和棕色孕妇身体的贬低和监控，比如国家诱导的流产，呼吁更多地赋予女性权力，而不是自动赞美脆弱（Brown 1998）。在过去几十年里，医疗技术，比如超声波和胎儿以及新生儿手术，有时会让怀孕的人面临艰难的选择，考验他们的主体韧性和照顾能力（Feder 2014; LaChance Adams and Lundquist 2012）。詹妮弗·斯库罗（Jennifer Scuro）认为，所有怀孕都涉及自我的内部死亡，因为所有怀孕最终都以将他人的身体从自己身上驱逐出去而结束（Scuro 2017）。所有怀孕因此打破了自我拥有主体的假设。与此同时，这种对他人的驱逐并不总是一场分娩——怀孕有时以流产结束，而不是以堕胎结束，因此怀孕应与分娩分开。
 
-从对怀孕的分析可以明显看出，女性主义的自我理论经常将哲学分析与社会批判以及生活经验的证词结合在一起。后者在现象学中有着特别悠久的历史，女性主义哲学家们在过去一个世纪一直在描述女性的经验。由于整体上现象学强调身体和第一人称经验，它在方法上与女性主义的许多目标相契合。具体来说，身体化的现象学理论强调了生活体的主体性质，抵制了使身体成为心灵的纯粹工具的传统哲学观念。同时，女性主义现象学家抵制了传统现象学方法的抽象性质。对于女性主义现象学来说，不同的自我在重要的方面处于不同的位置，不能被从社会角色抽象出来进入超验的探究领域。这与古典现象学相悖，后者倾向于宣扬一个普遍化的自我概念，忽略了身体之间的差异。早期的女性现象学家，如伊迪丝·施泰因和格尔达·瓦尔特，经常分析传统上被编码为女性的价值观，比如同理心和社区如何在女性的日常生活和道德发展中发挥作用（施泰因 1996 年；瓦尔特 1923 年）。最有影响力的是，西蒙娜·德·波伏娃认为人类的处境是模棱两可的：经验涉及“内在性”，即嵌入在个人的历史文化和人际情境中，以及“超越性”，即对自己的选择和未来具有根本自由。根据波伏娃的说法，所有人类都共享这种处境，但她声称女性被普遍与内在性联系在一起，因此并未被鼓励主张自己的自由（波伏娃 1949 年[2011]）。这意味着她们的自我通常被她们的处境和背景过度决定——生物学和他人认为她们应该是什么。对于波伏娃来说，女性应通过富有成效的项目来重新主张她们的超越性。因此，波伏娃在现象学强调处境和一些女性主义者重新主张自治权的基础上加入了存在主义的观点。对于波伏娃来说，“女人”是社会强加的一个范畴；因此，女性的自我在很大程度上也是由社会强加给她们的，女性最好通过主张自己的自由来塑造自己的自我。然而，这种自由始终是在与他人的处境中相互决定的。
+从对怀孕的分析可以明显看出，女性主义的自我理论经常将哲学分析与社会批判以及生活经验的证词结合在一起。后者在现象学中有着特别悠久的历史，女性主义哲学家们在过去一个世纪一直在描述女性的经验。由于整体上现象学强调身体和第一人称经验，它在方法上与女性主义的许多目标相契合。具体来说，身体化的现象学理论强调了生活体的主体性质，抵制了使身体成为心灵的纯粹工具的传统哲学观念。同时，女性主义现象学家抵制了传统现象学方法的抽象性质。对于女性主义现象学来说，不同的自我在重要的方面处于不同的位置，不能被从社会角色抽象出来进入超验的探究领域。这与古典现象学相悖，后者倾向于宣扬一个普遍化的自我概念，忽略了身体之间的差异。早期的女性现象学家，如伊迪丝·施泰因和格尔达·瓦尔特，经常分析传统上被编码为女性的价值观，比如同理心和社区如何在女性的日常生活和道德发展中发挥作用（施泰因 1996 年；瓦尔特 1923 年）。最有影响力的是，西蒙娜·德·波伏娃认为人类的处境是模棱两可的：经验涉及“内在性”，即嵌入在个人的历史文化和人际情境中，以及“超越性”，即对自己的选择和未来具有根本自由。根据波伏娃的说法，所有人类都共享这种处境，但她声称女性被普遍与内在性联系在一起，因此并未被鼓励主张自己的自由（波伏娃 1949 年\[2011]）。这意味着她们的自我通常被她们的处境和背景过度决定——生物学和他人认为她们应该是什么。对于波伏娃来说，女性应通过富有成效的项目来重新主张她们的超越性。因此，波伏娃在现象学强调处境和一些女性主义者重新主张自治权的基础上加入了存在主义的观点。对于波伏娃来说，“女人”是社会强加的一个范畴；因此，女性的自我在很大程度上也是由社会强加给她们的，女性最好通过主张自己的自由来塑造自己的自我。然而，这种自由始终是在与他人的处境中相互决定的。
 
 在最近几十年，女性主义现象学家进一步研究了生活体作为自我存在的场所，既反映了文化规范，又可以提供一种对抗的场所。受到 Beauvoir 关于模糊性的说法的启发，女性主义现象学家进行了广泛的研究，探讨了女性身体存在的各个维度。例如，Iris Marion Young 注意到女性身体表达方式反映了文化规范的内在性和客体化（Young 1990）。Sandra Bartky 指出，女性被鼓励将自己视为性对象，这使她们与自己的生活体疏离，并鼓励她们将自己的身体和自我视为被动的（Bartky 1990）。因此，身体存在的现象学与社会权力的关系密不可分（Oksala 2016）。同时，现象学对诸如怀孕等条件的关注可能揭示了女性自我的多样性的更积极一面：在这里，自我是多元的。角色之间的冲突构成了自我，尤其在父权社会中的女性中尤为显著（Weiss 2008）。拉丁裔女性主义现象学在最近几十年中在重新构想这种多元自我的过程中特别活跃，我们将在下一节中更详细地看到。
 
-女性主义现象学还强调性侵犯如何利用自我相互依存、脆弱和性别化的本质。许多女性主义者认为性暴力不仅仅是一种身体暴力形式，而是对自我的否定（Cahill 2001; Brison 2002）。对于现象学来说，身体是自我的动态场所，只有在压迫性社会条件下才能被简化为客体（Beauvoir 1949 [2011]; Cahill 2001）。因此，性暴力直击自我的核心。例如，强奸改变了自我（Cahill 2001; Brison 2002; Alcoff 2017）。
+女性主义现象学还强调性侵犯如何利用自我相互依存、脆弱和性别化的本质。许多女性主义者认为性暴力不仅仅是一种身体暴力形式，而是对自我的否定（Cahill 2001; Brison 2002）。对于现象学来说，身体是自我的动态场所，只有在压迫性社会条件下才能被简化为客体（Beauvoir 1949 \[2011]; Cahill 2001）。因此，性暴力直击自我的核心。例如，强奸改变了自我（Cahill 2001; Brison 2002; Alcoff 2017）。
 
 现象学并不是唯一强调身体并抵制现代自主自我观念中的心灵/身体二元论的女性主义哲学场所。当代的情感理论和新唯物主义领域已经将女性主义对具身和自我概念推进到了超越对处境关系的认知，有时主张对自我/他者区分进行激进的断裂。Sara Ahmed 和 Teresa Brennan 认为情感和情绪既不是从“内而外”流出，也不是从“外而内”进入；相反，情绪可能存在于社会的氛围之中（Ahmed 2004；Brennan 2004）。Ranjana Khanna 将情感视为通往他者的开放，既存在于自我“内部”，也超越自我（Khanna 2012）。对于女性主义新唯物主义来说，身体不是一个个体表达的整体（如在现象学中保持的那样）；相反，身体是一个“性别预先构成的、动态的关系捆绑”（Braidotti 2006），通过强度和流动与环境相互连接（Grosz 1994）。女性主义唯物主义常常与后结构主义形成对比，因为前者强调物质身体，但这两种方法都强调自我的激进异质性，甚至不存在性。新唯物主义聚焦于身体，遵循 Donna Haraway 的“赛博格”理论，表明生物身体并非与技术对立，而是密切交织在一起。女性主义唯物主义寻求瓦解身份认同，关注生成（Braidotti 2016）。
 
@@ -85,7 +83,7 @@
 
 朱莉娅·克里斯蒂娃（Kristeva 1980; Oliver 1993; McAfee 2003; Miller 2014）采用精神分析方法，认为婴儿逐渐从照顾者那里发展出自主性，但通过将自我及其意识与无意识之间的经典弗洛伊德观念转换为明确的性别框架，使这一叙事变得复杂。对于克里斯蒂娃来说，自我是话语的主体—一个可以使用代词“我”的说话者。但说话者既不是统一的，也无法完全控制自己的言论，因为话语是二分的。语言的象征维度，以指称符号和线性逻辑为特征，对应于意识和控制。语言的符号维度，以比喻语言、节奏和语调为特征，对应于难以控制、充满激情的无意识。所有话语都融合了这两个层面的元素。这一观点将克里斯蒂娃的论述与女性主义对性别和自我的关切联系起来。由于象征的理性秩序被文化编码为男性化，而符号的情感吸引力被文化编码为女性化，因此可以得出结论，没有哪种话语是纯粹男性化或纯粹女性化的。男性化的象征和女性化的符号对于说话主体同样不可或缺，无论这个个体被社会赋予的性别是什么。每个自我都融合了男性和女性的话语模式。
 
-像经典精神分析理论中的无意识一样，符号学使自我中心化。一个人可能试图用明确、直接的语言表达自己的想法，但由于言辞中的符号学因素，一个人所说的话并没有单一的含义，可以被解释为多种方式。在克里斯蒂娃看来，这是件好事，因为接触符号学——即言辞风格常常无意中传达的东西——激发了社会批判。符号学表达了被压抑的无意识材料。根据克里斯蒂娃的观点，社会系统性地压抑的东西提供了关于社会压迫性质以及社会需要如何改变的线索。因此，她发现符号学中存在着重要的伦理潜力（克里斯蒂娃，1983 [1987]）。由于这种伦理潜力明确与女性联系在一起，此外，克里斯蒂娃对自我的描述将“男性”对原则的坚守置于伦理行为的主要模式之外，并认识到需要一种“女性”的伦理方法的紧迫性。同时，克里斯蒂娃对于某些人来说，具有疑问性的过程中的主体似乎将导致造成女性诸多痛苦的性别二元对立。将女人/母亲与难以控制和模糊的符号学联系起来，可能会掩盖护理者与他们以社会为导向的婴儿之间丰富的情感调适和非语言对话（威莱特，1995）。凯利·奥利弗对克里斯蒂娃的解读抵制了克里斯蒂娃观点中的一些更具性别特征的组成部分，并扩展了关系自我作为对他者和差异具有“回应能力”的爱的意识的能力（奥利弗，1998）。对于奥利弗来说，自我通过对他人的开放性而流动地定义。
+像经典精神分析理论中的无意识一样，符号学使自我中心化。一个人可能试图用明确、直接的语言表达自己的想法，但由于言辞中的符号学因素，一个人所说的话并没有单一的含义，可以被解释为多种方式。在克里斯蒂娃看来，这是件好事，因为接触符号学——即言辞风格常常无意中传达的东西——激发了社会批判。符号学表达了被压抑的无意识材料。根据克里斯蒂娃的观点，社会系统性地压抑的东西提供了关于社会压迫性质以及社会需要如何改变的线索。因此，她发现符号学中存在着重要的伦理潜力（克里斯蒂娃，1983 \[1987]）。由于这种伦理潜力明确与女性联系在一起，此外，克里斯蒂娃对自我的描述将“男性”对原则的坚守置于伦理行为的主要模式之外，并认识到需要一种“女性”的伦理方法的紧迫性。同时，克里斯蒂娃对于某些人来说，具有疑问性的过程中的主体似乎将导致造成女性诸多痛苦的性别二元对立。将女人/母亲与难以控制和模糊的符号学联系起来，可能会掩盖护理者与他们以社会为导向的婴儿之间丰富的情感调适和非语言对话（威莱特，1995）。凯利·奥利弗对克里斯蒂娃的解读抵制了克里斯蒂娃观点中的一些更具性别特征的组成部分，并扩展了关系自我作为对他者和差异具有“回应能力”的爱的意识的能力（奥利弗，1998）。对于奥利弗来说，自我通过对他人的开放性而流动地定义。
 
 与克里斯蒂娃和其他人进行的母性和/或女性地位再评估形成鲜明对比（见第 2 节），后结构主义者、批判种族理论家和跨性别女性主义者对某些女性主义对自我的二元假设和异性恋偏见表达了强烈意见，以及对女性之间其他形式差异的忽视。面对这一现象，许多女性主义者提出了关于自我的描述，旨在容纳更广泛范围的差异。后结构主义者朱迪斯·巴特勒早期的作品认为，个人身份是一种幻觉（Butler 1990）。自我仅仅是一个不稳定的话语节点，而性别身份是一种“肉体风格”——模仿和重复实施规范，通常是文化背景所要求的规范。对于巴特勒来说，像克里斯蒂娃这样的心理动力学对自我的描述掩盖了自我的表演性质，并在文化共谋中合作，维持了一个从生物本性（体现在生殖器官中）衍生出来的锚定身份的幻觉。这种描述恶意地掩盖了国家和文化的规范化体制如何利用权力来强制执行“自然”的性别身体和“不自然”的身体，掩盖了强加的约束的任意性，以转移对其的抵抗。在巴特勒看来，解决之道是质疑作为个人身份标志的生物性别、性别和性取向的范畴。性别、性别和性取向是自我认同的核心，因为自我认同是通过权力模式构建的。因此，通过以不同方式表现自我，通过非正统的表演和滑稽的身份，可以发展抵抗：身份的建构是政治争议的场所。巴特勒最近的作品继续强调自我通过被召唤自我存在的话语结构的剥夺而具有关联性（Butler 2005）。
 
@@ -127,158 +125,158 @@ Readers are therefore encouraged to pursue additional references by following th
 
 The following works are cited in the entry.
 
-* Abramson, Kate, 2014, “Turning Up the Lights on Gaslighting”, in *Philosophical Perspectives*, 28(1): 1–30.
-* Addelson, Kathryn Pyne, 1994, *Moral Passages: Toward a Collectivist Moral Theory*, New York: Routledge.
-* Ahmed, Sara, 2004, *The Cultural Politics of Emotion*, New York: Routledge.
-* –––, 2017, *Living a Feminist Life*, Durham and London: Duke University Press.
-* Alarcón, Norma, 1991, “The Theoretical Subject(s) of This Bridge Called My Back and Anglo-American Feminism”, in *Criticism in the Borderlands: Studies in Chicano Literature, Culture, and Ideology*, Héctor Calderón and José David Saldívar (eds.), Durham, NC: Duke University Press, 28–40. doi:10.1215/9780822382355-005
-* –––, 1996, “Conjugating Subjects in the Age of Multiculturalism”, in *Mapping Multiculturalism*, Avery F. Gordon and Christopher Newfield (eds.), Minneapolis, MN: University of Minnesota Press, 127–148.
-* Alcoff, Linda Martin, 2006, *Visible Identities: Race, Gender, and the Self*, (Studies in Feminist Philosophy), New York: Oxford University Press. doi:10.1093/0195137345.001.0001
-* –––, 2017, *Rape and Resistance*, Malden, MA: Polity Press.
-* Al-Saji, Alia, 2014, “A Phenomenology of Hesitation: Interrupting Racializing Habits of Seeing”, in *Living Alterities: Phenomenology, Embodiment, and Race*, Emily Lee (ed.), Albany, NY: State University of New York Press, 133–172.
-* Anzaldúa, Gloria, 1987, *Borderlands: The New Mestiza/La Frontera*, San Francisco: Spinters/Aunt Lute.
-* Arruzza, Cinzia, Tithi Bhattacharya, and Nancy Fraser, 2019, *Feminism for the 99%: A Manifesto*, London and New York: Verso.
-* Babbitt, Susan, 1993, “Feminism and Objective Interests: The Role of Transformation Experiences in Rational Deliberation”, in *Feminist Epistemologies*, Linda Alcoff and Elizabeth Potter (eds.), New York: Routledge, 245–265.
-* Baier, Annette C., 1987, “The Need for More than Justice”, *Canadian Journal of Philosophy*, 17(sup1): 41–56. doi:10.1080/00455091.1987.10715928
-* Bartky, Sandra Lee, 1990, *Femininity and Domination: Studies in the Phenomenology of Oppression*, New York: Routledge. doi:10.4324/9780203825259
-* Barvosa, Edwina, 2008, *Wealth of Selves: Multiple Identities, Mestiza Consciousness, and the Subject of Politics*, College Station, TX: Texas A&M University Press.
-* Beauvoir, Simone de, 1949 [2011], *Le Deuxième Sexe*, Paris: Gallimard. Translated as *The Second Sex*, Constance Borde and Sheila Malovaney-Chevallier (trans.), New York: Alfred A. Knopf, 2011.
-* Benhabib, Seyla, 1999, “Sexual Difference and Collective Identities: The New Global Constellation”, *Signs: Journal of Women in Culture and Society*, 24(2): 335–361. doi:10.1086/495343
-* –––1992, *Situating the Self*, Cambridge: Polity.
-* Benhabib, Seyla, Judith Butler, Drucilla Cornell, and Nancy Fraser, 1995, *Feminist Contentions: A Philosophical Exchange*, New York: Routledge. doi:10.4324/9780203825242
-* Benjamin, Jessica, 1988, *The Bonds of Love*, New York: Random House.
-* Bettcher, Talia Mae, 2014, “Trapped in the Wrong Theory: Rethinking Trans Oppression and Resistance”, *Signs: Journal of Women in Culture and Society*, 39(2): 383–406. doi:10.1086/673088
+* Abramson, Kate, 2014, “Turning Up the Lights on Gaslighting”, in _Philosophical Perspectives_, 28(1): 1–30.
+* Addelson, Kathryn Pyne, 1994, _Moral Passages: Toward a Collectivist Moral Theory_, New York: Routledge.
+* Ahmed, Sara, 2004, _The Cultural Politics of Emotion_, New York: Routledge.
+* –––, 2017, _Living a Feminist Life_, Durham and London: Duke University Press.
+* Alarcón, Norma, 1991, “The Theoretical Subject(s) of This Bridge Called My Back and Anglo-American Feminism”, in _Criticism in the Borderlands: Studies in Chicano Literature, Culture, and Ideology_, Héctor Calderón and José David Saldívar (eds.), Durham, NC: Duke University Press, 28–40. doi:10.1215/9780822382355-005
+* –––, 1996, “Conjugating Subjects in the Age of Multiculturalism”, in _Mapping Multiculturalism_, Avery F. Gordon and Christopher Newfield (eds.), Minneapolis, MN: University of Minnesota Press, 127–148.
+* Alcoff, Linda Martin, 2006, _Visible Identities: Race, Gender, and the Self_, (Studies in Feminist Philosophy), New York: Oxford University Press. doi:10.1093/0195137345.001.0001
+* –––, 2017, _Rape and Resistance_, Malden, MA: Polity Press.
+* Al-Saji, Alia, 2014, “A Phenomenology of Hesitation: Interrupting Racializing Habits of Seeing”, in _Living Alterities: Phenomenology, Embodiment, and Race_, Emily Lee (ed.), Albany, NY: State University of New York Press, 133–172.
+* Anzaldúa, Gloria, 1987, _Borderlands: The New Mestiza/La Frontera_, San Francisco: Spinters/Aunt Lute.
+* Arruzza, Cinzia, Tithi Bhattacharya, and Nancy Fraser, 2019, _Feminism for the 99%: A Manifesto_, London and New York: Verso.
+* Babbitt, Susan, 1993, “Feminism and Objective Interests: The Role of Transformation Experiences in Rational Deliberation”, in _Feminist Epistemologies_, Linda Alcoff and Elizabeth Potter (eds.), New York: Routledge, 245–265.
+* Baier, Annette C., 1987, “The Need for More than Justice”, _Canadian Journal of Philosophy_, 17(sup1): 41–56. doi:10.1080/00455091.1987.10715928
+* Bartky, Sandra Lee, 1990, _Femininity and Domination: Studies in the Phenomenology of Oppression_, New York: Routledge. doi:10.4324/9780203825259
+* Barvosa, Edwina, 2008, _Wealth of Selves: Multiple Identities, Mestiza Consciousness, and the Subject of Politics_, College Station, TX: Texas A\&M University Press.
+* Beauvoir, Simone de, 1949 \[2011], _Le Deuxième Sexe_, Paris: Gallimard. Translated as _The Second Sex_, Constance Borde and Sheila Malovaney-Chevallier (trans.), New York: Alfred A. Knopf, 2011.
+* Benhabib, Seyla, 1999, “Sexual Difference and Collective Identities: The New Global Constellation”, _Signs: Journal of Women in Culture and Society_, 24(2): 335–361. doi:10.1086/495343
+* –––1992, _Situating the Self_, Cambridge: Polity.
+* Benhabib, Seyla, Judith Butler, Drucilla Cornell, and Nancy Fraser, 1995, _Feminist Contentions: A Philosophical Exchange_, New York: Routledge. doi:10.4324/9780203825242
+* Benjamin, Jessica, 1988, _The Bonds of Love_, New York: Random House.
+* Bettcher, Talia Mae, 2014, “Trapped in the Wrong Theory: Rethinking Trans Oppression and Resistance”, _Signs: Journal of Women in Culture and Society_, 39(2): 383–406. doi:10.1086/673088
 * –––, 2016, “Intersexuality, Transgender, and Transsexuality”, in Disch and Hawkesworth 2016, 407–427.
-* –––, 2017a, “Trans Feminism: Recent Philosophical Developments: Recent Philosophical Developments”, *Philosophy Compass*, 12(11): e12438. doi:10.1111/phc3.12438
+* –––, 2017a, “Trans Feminism: Recent Philosophical Developments: Recent Philosophical Developments”, _Philosophy Compass_, 12(11): e12438. doi:10.1111/phc3.12438
 * –––, 2017b, “Through the Looking Glass: Trans Theory Meets Feminist Philosophy”, in Garry, Khader, Stone 2017, 393–404.
-* Bordo, Susan, 1993, *Unbearable Weight: Feminism, Western Culture, and the Body*, Berkeley, CA: University of California Press.
-* Braidotti, Rosi, 2006, *Transpositions: On Nomadic Ethics*, Malden, MA: Polity Press.
+* Bordo, Susan, 1993, _Unbearable Weight: Feminism, Western Culture, and the Body_, Berkeley, CA: University of California Press.
+* Braidotti, Rosi, 2006, _Transpositions: On Nomadic Ethics_, Malden, MA: Polity Press.
 * –––, 2016, “Posthuman Feminist Theory”, in Disch and Hawkesworth 2016, 673–698.
-* Brennan, Teresa, 2004, *The Transmission of Affect*, Ithaca, NY: Cornell University Press.
-* Brison, Susan J., 2002, *Aftermath: Violence and the Remaking of a Self*, Princeton and Oxford: Princeton University Press.
+* Brennan, Teresa, 2004, _The Transmission of Affect_, Ithaca, NY: Cornell University Press.
+* Brison, Susan J., 2002, _Aftermath: Violence and the Remaking of a Self_, Princeton and Oxford: Princeton University Press.
 * –––, 2017, “Personal Identity and Relational Selves”, in Garry, Khader, Stone 2017, 218–230.
-* Brown, Wendy, 1998, *Manhood and Politics: A Feminist Reading in Political Theory*, Totowa, NJ: Rowman and Littlefield.
-* Butler, Judith, 1990, “Gender Trouble, Feminist Theory, and Psychoanalytic Discourse”, in *Feminism/Postmodernism*, Linda J. Nicholson (ed.), New York: Routledge, chapter 13.
-* –––, 2005, *Giving an Account of Oneself*, New York: Fordham University Press.
-* Butler, Judith, and Athena Athanasiou, 2013, *Dispossession: The Performative in the Political*, Malden, MA: Polity Press.
-* Cahill, Ann J., 2001, *Rethinking Rape*, Ithaca and London: Cornell University Press.
-* Campbell, Sue, 2003, *Relational Remembering: Rethinking the Memory Wars*, Lanham, MD: Rowman and Littlefield.
-* Card, Claudia, 1996, *The Unnatural Lottery: Character and Moral Luck*, Philadelphia, PA: Temple University Press.
-* Cavarero, Adriana, 1997 [2000], *Tu che mi guardi, tu che mi racconti*, Milan: Giagiacomo Feltrinelli. Translated as *Relating Narratives: Storytelling and Selfhood*, Paul A. Kottman (trans), (Warwick Studies in European Philosophy), London: Routledge, 2000.
-* –––, 2016, *Inclinations: A Critique of Rectitude*, Stanford: Stanford University Press.
-* Chodorow, Nancy, 1981, “On ‘The Reproduction of Mothering’: A Methodological Debate, part 4”, *Signs: Journal of Women in Culture and Society*, 6(3): 500–514. doi:10.1086/493820
-* Code, Lorraine, 1987, “Second Persons”, *Canadian Journal of Philosophy*, 17(sup1): 357–382. doi:10.1080/00455091.1987.10715942
-* –––, 2011, “Self, Subjectivity, and the Instituted Social Imaginary”, in *The Oxford Handbook of the Self*, Shaun Gallagher (ed.), New York: Oxford University Press.
-* Collins, Patricia Hill, 1990, *Black Feminist Thought: Knowledge, Consiousness, and the Politics of Empowerment*, Boston: Unwin Hyman.
-* Crenshaw, Kimberlé William, 1991, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory, and Antiracist Politics”, in *Feminist Legal Theory: Readings in Law and Gender*, Katherine T. Bartlett and Rosanne Kennedy (eds), Boulder, CO: Westview Press, chapter 4.
-* –––, 1993, “Beyond Race and Misogyny: Black Feminism and 2 Live Crew”, in *Words that Wound: Critical Race Theory, Assaultive Speech, and the First Amendment*, Mari J. Matsuda, Charles R. Lawrence III, Richard Delgado, and Kimberlé Williams Crenshaw (eds), Boulder, CO: Westview Press, chapter 5.
-* Cudd, Ann E., 2006, *Analyzing Oppression*, New York: Oxford University Press. doi:10.1093/0195187431.001.0001
-* de Lauretis, Teresa, 1986, “Feminist Studies/Critical Studies: Issues, Terms, Contexts”, in *Feminist Studies/Critical Studies*, Teresa de Lauretis (ed.), Bloomington, IN: Indiana University Press, chapter 1.
-* DiQuinzio, Patrice, 1999, *The Impossibility of Motherhood: Feminism, Individualism and the Problem of Mothering*, New York: Routledge. doi:10.4324/9780203820704
-* Disch, Lisa and Mary Hawkesworth (eds.), 2016, *The Oxford Handbook of Feminist Theory*, New York: Oxford University Press. doi:10.1093/oxfordhb/9780199328581.001.0001
-* Feder, Ellen K., 2014, *Making Sense of Intersex: Changing Ethical Perspectives in Biomedicine*, Bloomington, IN: Indiana University Press.
-* Fischer, Clara, 2014, *Gendered Readings of Change: A Feminist-Pragmatist Approach*, New York: Palgrave Macmillan US. doi:10.1057/9781137342720
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press.
-* Friedman, Marilyn A., 1993, *What are Friends For?*, Ithaca, NY: Cornell University Press.
-* Garry, Ann, Serene J. Khader, and Alison Stone (eds.), 2017, *The Routledge Companion to Feminist Philosophy*, New York: Routledge. doi:10.4324/9781315758152
-* Gilligan, Carol, 1982, *In a Different Voice*, Cambridge, MA: Harvard University Press.
+* Brown, Wendy, 1998, _Manhood and Politics: A Feminist Reading in Political Theory_, Totowa, NJ: Rowman and Littlefield.
+* Butler, Judith, 1990, “Gender Trouble, Feminist Theory, and Psychoanalytic Discourse”, in _Feminism/Postmodernism_, Linda J. Nicholson (ed.), New York: Routledge, chapter 13.
+* –––, 2005, _Giving an Account of Oneself_, New York: Fordham University Press.
+* Butler, Judith, and Athena Athanasiou, 2013, _Dispossession: The Performative in the Political_, Malden, MA: Polity Press.
+* Cahill, Ann J., 2001, _Rethinking Rape_, Ithaca and London: Cornell University Press.
+* Campbell, Sue, 2003, _Relational Remembering: Rethinking the Memory Wars_, Lanham, MD: Rowman and Littlefield.
+* Card, Claudia, 1996, _The Unnatural Lottery: Character and Moral Luck_, Philadelphia, PA: Temple University Press.
+* Cavarero, Adriana, 1997 \[2000], _Tu che mi guardi, tu che mi racconti_, Milan: Giagiacomo Feltrinelli. Translated as _Relating Narratives: Storytelling and Selfhood_, Paul A. Kottman (trans), (Warwick Studies in European Philosophy), London: Routledge, 2000.
+* –––, 2016, _Inclinations: A Critique of Rectitude_, Stanford: Stanford University Press.
+* Chodorow, Nancy, 1981, “On ‘The Reproduction of Mothering’: A Methodological Debate, part 4”, _Signs: Journal of Women in Culture and Society_, 6(3): 500–514. doi:10.1086/493820
+* Code, Lorraine, 1987, “Second Persons”, _Canadian Journal of Philosophy_, 17(sup1): 357–382. doi:10.1080/00455091.1987.10715942
+* –––, 2011, “Self, Subjectivity, and the Instituted Social Imaginary”, in _The Oxford Handbook of the Self_, Shaun Gallagher (ed.), New York: Oxford University Press.
+* Collins, Patricia Hill, 1990, _Black Feminist Thought: Knowledge, Consiousness, and the Politics of Empowerment_, Boston: Unwin Hyman.
+* Crenshaw, Kimberlé William, 1991, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory, and Antiracist Politics”, in _Feminist Legal Theory: Readings in Law and Gender_, Katherine T. Bartlett and Rosanne Kennedy (eds), Boulder, CO: Westview Press, chapter 4.
+* –––, 1993, “Beyond Race and Misogyny: Black Feminism and 2 Live Crew”, in _Words that Wound: Critical Race Theory, Assaultive Speech, and the First Amendment_, Mari J. Matsuda, Charles R. Lawrence III, Richard Delgado, and Kimberlé Williams Crenshaw (eds), Boulder, CO: Westview Press, chapter 5.
+* Cudd, Ann E., 2006, _Analyzing Oppression_, New York: Oxford University Press. doi:10.1093/0195187431.001.0001
+* de Lauretis, Teresa, 1986, “Feminist Studies/Critical Studies: Issues, Terms, Contexts”, in _Feminist Studies/Critical Studies_, Teresa de Lauretis (ed.), Bloomington, IN: Indiana University Press, chapter 1.
+* DiQuinzio, Patrice, 1999, _The Impossibility of Motherhood: Feminism, Individualism and the Problem of Mothering_, New York: Routledge. doi:10.4324/9780203820704
+* Disch, Lisa and Mary Hawkesworth (eds.), 2016, _The Oxford Handbook of Feminist Theory_, New York: Oxford University Press. doi:10.1093/oxfordhb/9780199328581.001.0001
+* Feder, Ellen K., 2014, _Making Sense of Intersex: Changing Ethical Perspectives in Biomedicine_, Bloomington, IN: Indiana University Press.
+* Fischer, Clara, 2014, _Gendered Readings of Change: A Feminist-Pragmatist Approach_, New York: Palgrave Macmillan US. doi:10.1057/9781137342720
+* Fricker, Miranda, 2007, _Epistemic Injustice: Power and the Ethics of Knowing_, Oxford: Oxford University Press.
+* Friedman, Marilyn A., 1993, _What are Friends For?_, Ithaca, NY: Cornell University Press.
+* Garry, Ann, Serene J. Khader, and Alison Stone (eds.), 2017, _The Routledge Companion to Feminist Philosophy_, New York: Routledge. doi:10.4324/9781315758152
+* Gilligan, Carol, 1982, _In a Different Voice_, Cambridge, MA: Harvard University Press.
 * –––, 1987, “Moral Orientation and Moral Development”, in Kittay and Meyers 1987: 31–46.
-* Govier, Trudy, 1993, “Self-Trust, Autonomy, and Self-Esteem”, *Hypatia*, 8(1): 99–120. doi:10.1111/j.1527-2001.1993.tb00630.x
-* Grosz, Elizabeth, 1994, *Volatile Bodies: Toward a Corporeal Feminism*, Bloomington, IN: Indiana University Press.
-* Hale, C. Jacob, 1998, “Tracing a Ghostly Memory in My Throat: Reflections on Ftm Feminist Voice and Agency”, in *Men Doing Feminism*, Tom Digby (ed), New York: Routledge, 99–130.
-* Hall, Kim Q., 2009, “Queer Breasted Experience”, in *“You’ve Changed”: Sex Reassignment and Personal Identity*, Laurie J. Shrage (ed.), New York: Oxford University Press, chapter 7.
-* Haraway, Donna, 2008, *When Species Meet*, Minneapolis, MN: University of Minnesota Press.
-* Hekman, Susan J., 1995, *Moral Voices, Moral Selves*, University Park, PA: Pennsylvania State University Press.
+* Govier, Trudy, 1993, “Self-Trust, Autonomy, and Self-Esteem”, _Hypatia_, 8(1): 99–120. doi:10.1111/j.1527-2001.1993.tb00630.x
+* Grosz, Elizabeth, 1994, _Volatile Bodies: Toward a Corporeal Feminism_, Bloomington, IN: Indiana University Press.
+* Hale, C. Jacob, 1998, “Tracing a Ghostly Memory in My Throat: Reflections on Ftm Feminist Voice and Agency”, in _Men Doing Feminism_, Tom Digby (ed), New York: Routledge, 99–130.
+* Hall, Kim Q., 2009, “Queer Breasted Experience”, in _“You’ve Changed”: Sex Reassignment and Personal Identity_, Laurie J. Shrage (ed.), New York: Oxford University Press, chapter 7.
+* Haraway, Donna, 2008, _When Species Meet_, Minneapolis, MN: University of Minnesota Press.
+* Hekman, Susan J., 1995, _Moral Voices, Moral Selves_, University Park, PA: Pennsylvania State University Press.
 * Held, Virginia, 1987, “Feminism and Moral Theory”, in Kittay and Meyers 1987, pp. 111–128. Also in Meyers 1997: chapter 32.
-* –––, 2006, *The Ethics of Care: Personal, Political, and Global*, New York: Oxford University Press. doi:10.1093/0195180992.001.0001
-* Heyes, Cressida, 2007, *Self-Transformations: Foucault, Ethics, and Normalized Bodies*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195310535.001.0001
-* Irigaray, Luce, 1985a, *Speculum of the Other Woman*, Ithaca, NY: Cornell University Press.
-* –––, 1985b, *This Sex which is not one*, Ithaca, NY: Cornell University Press.
-* –––, 1993, *Ethics of Sexual Difference*, Ithaca, NY: Cornell University Press.
-* Jaggar, Alison M., 1983, *Feminist Politics and Human Nature*, Totowa, NJ: Rowman & Littlefield.
-* Khanna, Ranjana, 2012, “Touching, Unbelonging, and the Absence of Affect”, *Feminist Theory*, 13(2): 213–232. doi:10.1177/1464700112442649
-* King, Deborah K., 1988, “Multiple Jeopardy, Multiple Consciousness: The Context of a Black Feminist Ideology”, *Signs: Journal of Women in Culture and Society*, 14(1): 42–72. Also in Meyers 1997: chapter 12. doi:10.1086/494491
-* Kittay, Eva Feder, 1999, *Love's Labor*, New York: Routledge.
-* Kittay, Eva Feder and Diana T. Meyers (eds.), 1987, *Women and Moral Theory*, Totowa, NJ: Rowman & Littlefield.
-* Koziej, Stephanie, 2019, “Towards a Tender Sexuality: From Freud’s Implicit Taboo on Adult Erotic Tenderness, to the Unexplored Tender Critical Potential of Mitchell and Perel’s Clinical Practice.”, *Psychoanalytic Psychology*, 36(4): 342–350. doi:10.1037/pap0000258
-* Kristeva, Julia, 1980, *Desire in Language: A Semiotic Approach to Literature and Art*, Leon S. Roudiez (ed.). Thomas Gora, Alice Jardine, and Leon S. Roudiez (trans.), (European Perspectives), New York: Columbia University Press. Translation of several of her French essays.
-* –––, 1983 [1987], *Histoires d’amour*, Paris: Editions Denoël. Translated as *Tales of Love*, Leon S. Roudiez (trans.), New York: Columbia University Press, 1987.
-* –––, 1988 [1991], *Étrangers à Nous-Mêmes*, Paris: Fayard. Translated as *Strangers to Ourselves*, Leon S. Roudiez (trans.), (European Perspectives), New York: Columbia University Press, 1991.
-* LaChance Adams, Sarah, 2014, *Mad Mothers, Bad Mothers, and What a ‘Good’ Mother Would Do: The Ethics of Ambivalence*, New York: Columbia University Press.
-* LaChance Adams, Sarah and Caroline R. Lundquist (eds), 2012, *Coming to Life: Philosophies of Pregnancy, Childbirth, and Mothering*, New York: Fordham University Press.
-* Lindemann, Hilde, 2014, *Holding and Letting Go: The Social Practice of Personal Identities*, Oxford: Oxford University Press.
-* Lloyd, Genevieve, 1984, *The Man of Reason “male” and “Female” in Western Philosophy*, London: Methuen.
-* Lorde, Audre, 2007, *Sister Outsider: Essays and Speeches*, Berkeley, CA: Crossing Press.
-* Lugones, María, 1992, “On ‘Borderlands/La Frontera’: An Interpretive Essay”, *Hypatia*, 7(4): 31–37. doi:10.1111/j.1527-2001.1992.tb00715.x
-* –––, 1994, “Purity, Impurity, and Separation”, *Signs: Journal of Women in Culture and Society*, 19(2): 458–479. doi:10.1086/494893
-* –––, 2003, *Pilgrimages/Perigrinajes: Theorizing Coalition Against Multiple Oppressions*, Lanham, Maryland: Rowman and Littlefield.
-* Lugones, María C. and Elizabeth V. Spelman, 1983, “Have We Got a Theory for You! Feminist Theory, Cultural Imperialism and the Demand for ‘the Woman’s Voice’”, *Women’s Studies International Forum*, (Hypatia) 6(6): 573–581. doi:10.1016/0277-5395(83)90019-5
-* Malabou, Catherine, 2012, *The New Wounded: From Neurosis to Brain Damage*, New York: Fordham University Press.
-* Mackenzie, Catriona, 2014, “The Importance of Relational Autonomy and Capabilities for and Ethics of Vulnerability”, in *Vulnerability: New Essays in Ethics and Feminist Philosophy*, Catriona Mackenzie, Wendy A. Rogers, and Susan Dodds (eds), New York: Oxford University Press, 33–59. doi:10.1093/acprof:oso/9780199316649.003.0002
+* –––, 2006, _The Ethics of Care: Personal, Political, and Global_, New York: Oxford University Press. doi:10.1093/0195180992.001.0001
+* Heyes, Cressida, 2007, _Self-Transformations: Foucault, Ethics, and Normalized Bodies_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195310535.001.0001
+* Irigaray, Luce, 1985a, _Speculum of the Other Woman_, Ithaca, NY: Cornell University Press.
+* –––, 1985b, _This Sex which is not one_, Ithaca, NY: Cornell University Press.
+* –––, 1993, _Ethics of Sexual Difference_, Ithaca, NY: Cornell University Press.
+* Jaggar, Alison M., 1983, _Feminist Politics and Human Nature_, Totowa, NJ: Rowman & Littlefield.
+* Khanna, Ranjana, 2012, “Touching, Unbelonging, and the Absence of Affect”, _Feminist Theory_, 13(2): 213–232. doi:10.1177/1464700112442649
+* King, Deborah K., 1988, “Multiple Jeopardy, Multiple Consciousness: The Context of a Black Feminist Ideology”, _Signs: Journal of Women in Culture and Society_, 14(1): 42–72. Also in Meyers 1997: chapter 12. doi:10.1086/494491
+* Kittay, Eva Feder, 1999, _Love's Labor_, New York: Routledge.
+* Kittay, Eva Feder and Diana T. Meyers (eds.), 1987, _Women and Moral Theory_, Totowa, NJ: Rowman & Littlefield.
+* Koziej, Stephanie, 2019, “Towards a Tender Sexuality: From Freud’s Implicit Taboo on Adult Erotic Tenderness, to the Unexplored Tender Critical Potential of Mitchell and Perel’s Clinical Practice.”, _Psychoanalytic Psychology_, 36(4): 342–350. doi:10.1037/pap0000258
+* Kristeva, Julia, 1980, _Desire in Language: A Semiotic Approach to Literature and Art_, Leon S. Roudiez (ed.). Thomas Gora, Alice Jardine, and Leon S. Roudiez (trans.), (European Perspectives), New York: Columbia University Press. Translation of several of her French essays.
+* –––, 1983 \[1987], _Histoires d’amour_, Paris: Editions Denoël. Translated as _Tales of Love_, Leon S. Roudiez (trans.), New York: Columbia University Press, 1987.
+* –––, 1988 \[1991], _Étrangers à Nous-Mêmes_, Paris: Fayard. Translated as _Strangers to Ourselves_, Leon S. Roudiez (trans.), (European Perspectives), New York: Columbia University Press, 1991.
+* LaChance Adams, Sarah, 2014, _Mad Mothers, Bad Mothers, and What a ‘Good’ Mother Would Do: The Ethics of Ambivalence_, New York: Columbia University Press.
+* LaChance Adams, Sarah and Caroline R. Lundquist (eds), 2012, _Coming to Life: Philosophies of Pregnancy, Childbirth, and Mothering_, New York: Fordham University Press.
+* Lindemann, Hilde, 2014, _Holding and Letting Go: The Social Practice of Personal Identities_, Oxford: Oxford University Press.
+* Lloyd, Genevieve, 1984, _The Man of Reason “male” and “Female” in Western Philosophy_, London: Methuen.
+* Lorde, Audre, 2007, _Sister Outsider: Essays and Speeches_, Berkeley, CA: Crossing Press.
+* Lugones, María, 1992, “On ‘Borderlands/La Frontera’: An Interpretive Essay”, _Hypatia_, 7(4): 31–37. doi:10.1111/j.1527-2001.1992.tb00715.x
+* –––, 1994, “Purity, Impurity, and Separation”, _Signs: Journal of Women in Culture and Society_, 19(2): 458–479. doi:10.1086/494893
+* –––, 2003, _Pilgrimages/Perigrinajes: Theorizing Coalition Against Multiple Oppressions_, Lanham, Maryland: Rowman and Littlefield.
+* Lugones, María C. and Elizabeth V. Spelman, 1983, “Have We Got a Theory for You! Feminist Theory, Cultural Imperialism and the Demand for ‘the Woman’s Voice’”, _Women’s Studies International Forum_, (Hypatia) 6(6): 573–581. doi:10.1016/0277-5395(83)90019-5
+* Malabou, Catherine, 2012, _The New Wounded: From Neurosis to Brain Damage_, New York: Fordham University Press.
+* Mackenzie, Catriona, 2014, “The Importance of Relational Autonomy and Capabilities for and Ethics of Vulnerability”, in _Vulnerability: New Essays in Ethics and Feminist Philosophy_, Catriona Mackenzie, Wendy A. Rogers, and Susan Dodds (eds), New York: Oxford University Press, 33–59. doi:10.1093/acprof:oso/9780199316649.003.0002
 * –––, 2017, “Feminist Conceptions of Autonomy”, in Garry, Khader, Stone 2017, 515–527.
-* Manne, Kate, 2019, *Down Girl*, Oxford: Oxford University Press.
-* McAfee, Noelle, 2003, *Julia Kristeva*, New York: Routledge.
-* –––, 2019, *Fear of Breakdown: Politics and Psychoanalysis*, New York: Columbia University Press.
-* McDonagh, Eileen L., 1996, *Breaking the Abortion Deadlock*, New York: Oxford University Press.
-* Meyers, Diana Tietjens, 1989, *Self, Society, and Personal Choice*, New York: Columbia University Press.
-* –––, 1994, *Subjection and Subjectivity*, New York: Routledge.
-* ––– (ed.), 1997, *Feminist Social Thought: A Reader*, New York: Routledge. doi:10.4324/9780203705841
-* –––, 2000, “Intersectional Identity and the Authentic Self? Opposites Attract!”, in *Relational Autonomy: Feminist Perspectives on Automony, Agency, and the Social Self*, Catriona Mackenzie and Natalie Stoljar (eds.), New York: Oxford University Press, 151–180.
-* Midgley, Mary, 1983, *Animals and Why They Matter: A Journey Around the Species Barrier*, Athens, GA: University of Georgia Press.
-* Miller, Elaine P., 2014, *Head Cases: Julia Kristeva on Philosophy and Art in Depressed Times*, New York: Columbia University Press.
-* Moraga, Cherríe, and Gloría Anzaldúa, 1981, *This Bridge Called My Back: Writings by Radical Women of Color*, Albany: State University of New York Press.
-* Nedelsky, Jennifer, 1989, “Reconceiving Autonomy: Sources, Thoughts and Possibilities”, *Yale Journal of Law & Feminism*, 1(1): 7–36.
-* Nzegwu, Nkiru Uwechia, 2006, *Family Matters: Feminist Concepts in African Philosophy of Culture*, Albany, NY: State University of New York Press.
-* Oksala, Johanna, 2016, *Feminist Experiences: Foucauldian and Phenomenological Investigations*, Evanston, IL: Northwestern University Press.
-* Oliver, Kelly, 1993, *Reading Kristeva: Unraveling the Double Bind*, Bloomington, IN: Indiana University Press.
-* –––, 1998, *Subjectivity Without Subjects: From Abject Fathers to Desiring Mothers*, Lanham, MD: Rowman & Littlefield.
-* Ortega, Mariana, 2016, *In-Between: Latina Feminist Phenomenology, Multiplicity, and the Self*, Albany, NY: State University of New York Press.
-* Piper, Adrian M.S., 1990, “Higher-Order Discrimination”, In*Identity, Character and Morality: Essays in Moral Psychology*, Owen Flanagan and Amélie Okensberg Rorty (eds), Cambridge, MA: MIT Pressm, 285–309.
-* Rawlinson, Mary, 2016, *Just Life: Bioethics and the Future of Sexual Difference*, New York: Columbia University Press.
-* Rodemeyer, Lanei, 1998, “Dasein Gets Pregnant”:, *Philosophy Today*, 42(supplement): 76–84. doi:10.5840/philtoday199842Supplement65
-* Rubin, Henry, 2003, *Self-Made Men: Identity and Embodiment Among Transsexual Men*, Nashville, TN: Vanderbilt University Press.
-* Ruddick, Sara, 1989, *Maternal Thinking*, Boston, MA: Beacon Press.
-* Ruíz, Elena Flores, 2016, “Linguistic Alterity and the Multiplicitous Self: Critical Phenomenologies in Latina Feminist Thought”, *Hypatia*, 31(2): 421–436. doi:10.1111/hypa.12239
-* Salamon, Gayle, 2010, *Assuming a Body: Transgender and Rhetorics of Materiality*, New York: Columbia University Press.
-* Scheman, Naomi, 1993, *Engenderings: Constructions of Knowledge, Authority, and Privilege*, New York: Routledge.
-* Scuro, Jennifer, 2017, *The Pregnancy ≠ Childbearing Project: A Phenomenology of Miscarriage*, Lanham, MD: Rowman and Littlefield
-* Shotwell, Alexis and Trevor Sangrey, 2009, “Resisting Definition: Gendering through Interaction and Relational Selfhood”, *Hypatia*, 24(3): 56–76. doi:10.1111/j.1527-2001.2009.01045.x
-* Sparks, Holloway, 2015, “Mamma Grizzlies and Moral Guardians of the Republic: The Democratic and Intersectional Politics of Anger in the Tea Party Movement”, *New Political Science*, 37(1): 25–47.
-* Stein, Edith, 1996, *Essays on Woman: The Collected Works of Edith Stein*, Freda Mary Oben (trans.), Washington, DC: ICS Publications.
-* Sullivan, Shannon, 2001, *Living Across and Through Skins: Transactional Bodies, Pragmatism, and Feminism*, Bloomington, IN: Indian University Press.
-* –––, 2015, *The Physiology of Sexist and Racist Oppression*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190250607.001.0001
-* Valian, Virginia, 1998, *Why So Slow? The Advancement of Women*, Cambridge, MA: MIT Press.
-* Walther, Gerda, 1923, “Zur Ontologie der sozialen Gemeinschaften (mit einem Anhang zur Phänomenologie der sozialen Gemeinschaften)”, *Jahrbuch für Philosophie und Phänomenologische Forschung*, 6: 1–158. [[Walther 1923 available online](https://www.digizeitschriften.de/dms/img/?PID=PPN827944462_0006%7CLOG_0007)]
-* Weir, Allison, 1995, “Toward a Model of Self-Identity: Habermas and Kristeva”, In *Feminists Read Habermas: Gendering the Subject of Discourse*, Johanna Meehan (ed.), New York: Routledge, 263–282.
-* Weiss, Gail, 1999, *Body Images: Embodiment as Intercorporeality*, New York: Routledge.
-* –––, 2008, *Refiguring the Ordinary*, Bloomington, IN: Indiana University Press.
-* Welsh, Talia, 2013, *The Child as Natural Phenomenologist: Primal and Primary Experience in Merleau-Ponty's Psychology* , Evanston, IL: Northwestern University Press.
-* Willett, Cynthia, 1995, *Maternal Ethics and Other Slave Moralities*, New York: Routledge.
-* –––, 2001 *The Soul of Justice: Social Bonds and Racial Justice*, Ithaca, NY: Cornell University Press.
-* –––, 2008, *Irony in the Age of Empire: Comic Perspectives on Freedom and Democracy*, Indianapolis: Indiana University Press.
-* –––, 2014, *Interspecies Ethics*, New York: Columbia University Press.
-* Willett, Cynthia and Julie Willett, 2019, *Uproarious: How Feminists and Other Comic Subversives Speak Truth*, Minneapolis, MN: University of Minnesota Press.
-* Williams, Patricia J., 1991, *The Alchemy of Race and Rights*, Cambridge, MA: Harvard University Press.
-* Wollstonecraft, Mary, 1792 [1982], *A Vindication of the Rights of Woman*, London. Reprinted, Miriam Brody Dramnick (ed.), New York: Penguin, 1982.
-* Young, Iris Marion, 1990, *Throwing Like a Girl and Other Essays In Feminist Philosophy and Social Theory*, Bloomington, IN: Indiana University Press.
+* Manne, Kate, 2019, _Down Girl_, Oxford: Oxford University Press.
+* McAfee, Noelle, 2003, _Julia Kristeva_, New York: Routledge.
+* –––, 2019, _Fear of Breakdown: Politics and Psychoanalysis_, New York: Columbia University Press.
+* McDonagh, Eileen L., 1996, _Breaking the Abortion Deadlock_, New York: Oxford University Press.
+* Meyers, Diana Tietjens, 1989, _Self, Society, and Personal Choice_, New York: Columbia University Press.
+* –––, 1994, _Subjection and Subjectivity_, New York: Routledge.
+* ––– (ed.), 1997, _Feminist Social Thought: A Reader_, New York: Routledge. doi:10.4324/9780203705841
+* –––, 2000, “Intersectional Identity and the Authentic Self? Opposites Attract!”, in _Relational Autonomy: Feminist Perspectives on Automony, Agency, and the Social Self_, Catriona Mackenzie and Natalie Stoljar (eds.), New York: Oxford University Press, 151–180.
+* Midgley, Mary, 1983, _Animals and Why They Matter: A Journey Around the Species Barrier_, Athens, GA: University of Georgia Press.
+* Miller, Elaine P., 2014, _Head Cases: Julia Kristeva on Philosophy and Art in Depressed Times_, New York: Columbia University Press.
+* Moraga, Cherríe, and Gloría Anzaldúa, 1981, _This Bridge Called My Back: Writings by Radical Women of Color_, Albany: State University of New York Press.
+* Nedelsky, Jennifer, 1989, “Reconceiving Autonomy: Sources, Thoughts and Possibilities”, _Yale Journal of Law & Feminism_, 1(1): 7–36.
+* Nzegwu, Nkiru Uwechia, 2006, _Family Matters: Feminist Concepts in African Philosophy of Culture_, Albany, NY: State University of New York Press.
+* Oksala, Johanna, 2016, _Feminist Experiences: Foucauldian and Phenomenological Investigations_, Evanston, IL: Northwestern University Press.
+* Oliver, Kelly, 1993, _Reading Kristeva: Unraveling the Double Bind_, Bloomington, IN: Indiana University Press.
+* –––, 1998, _Subjectivity Without Subjects: From Abject Fathers to Desiring Mothers_, Lanham, MD: Rowman & Littlefield.
+* Ortega, Mariana, 2016, _In-Between: Latina Feminist Phenomenology, Multiplicity, and the Self_, Albany, NY: State University of New York Press.
+* Piper, Adrian M.S., 1990, “Higher-Order Discrimination”, In_Identity, Character and Morality: Essays in Moral Psychology_, Owen Flanagan and Amélie Okensberg Rorty (eds), Cambridge, MA: MIT Pressm, 285–309.
+* Rawlinson, Mary, 2016, _Just Life: Bioethics and the Future of Sexual Difference_, New York: Columbia University Press.
+* Rodemeyer, Lanei, 1998, “Dasein Gets Pregnant”:, _Philosophy Today_, 42(supplement): 76–84. doi:10.5840/philtoday199842Supplement65
+* Rubin, Henry, 2003, _Self-Made Men: Identity and Embodiment Among Transsexual Men_, Nashville, TN: Vanderbilt University Press.
+* Ruddick, Sara, 1989, _Maternal Thinking_, Boston, MA: Beacon Press.
+* Ruíz, Elena Flores, 2016, “Linguistic Alterity and the Multiplicitous Self: Critical Phenomenologies in Latina Feminist Thought”, _Hypatia_, 31(2): 421–436. doi:10.1111/hypa.12239
+* Salamon, Gayle, 2010, _Assuming a Body: Transgender and Rhetorics of Materiality_, New York: Columbia University Press.
+* Scheman, Naomi, 1993, _Engenderings: Constructions of Knowledge, Authority, and Privilege_, New York: Routledge.
+* Scuro, Jennifer, 2017, _The Pregnancy ≠ Childbearing Project: A Phenomenology of Miscarriage_, Lanham, MD: Rowman and Littlefield
+* Shotwell, Alexis and Trevor Sangrey, 2009, “Resisting Definition: Gendering through Interaction and Relational Selfhood”, _Hypatia_, 24(3): 56–76. doi:10.1111/j.1527-2001.2009.01045.x
+* Sparks, Holloway, 2015, “Mamma Grizzlies and Moral Guardians of the Republic: The Democratic and Intersectional Politics of Anger in the Tea Party Movement”, _New Political Science_, 37(1): 25–47.
+* Stein, Edith, 1996, _Essays on Woman: The Collected Works of Edith Stein_, Freda Mary Oben (trans.), Washington, DC: ICS Publications.
+* Sullivan, Shannon, 2001, _Living Across and Through Skins: Transactional Bodies, Pragmatism, and Feminism_, Bloomington, IN: Indian University Press.
+* –––, 2015, _The Physiology of Sexist and Racist Oppression_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190250607.001.0001
+* Valian, Virginia, 1998, _Why So Slow? The Advancement of Women_, Cambridge, MA: MIT Press.
+* Walther, Gerda, 1923, “Zur Ontologie der sozialen Gemeinschaften (mit einem Anhang zur Phänomenologie der sozialen Gemeinschaften)”, _Jahrbuch für Philosophie und Phänomenologische Forschung_, 6: 1–158. \[[Walther 1923 available online](https://www.digizeitschriften.de/dms/img/?PID=PPN827944462\_0006%7CLOG\_0007)]
+* Weir, Allison, 1995, “Toward a Model of Self-Identity: Habermas and Kristeva”, In _Feminists Read Habermas: Gendering the Subject of Discourse_, Johanna Meehan (ed.), New York: Routledge, 263–282.
+* Weiss, Gail, 1999, _Body Images: Embodiment as Intercorporeality_, New York: Routledge.
+* –––, 2008, _Refiguring the Ordinary_, Bloomington, IN: Indiana University Press.
+* Welsh, Talia, 2013, _The Child as Natural Phenomenologist: Primal and Primary Experience in Merleau-Ponty's Psychology_ , Evanston, IL: Northwestern University Press.
+* Willett, Cynthia, 1995, _Maternal Ethics and Other Slave Moralities_, New York: Routledge.
+* –––, 2001 _The Soul of Justice: Social Bonds and Racial Justice_, Ithaca, NY: Cornell University Press.
+* –––, 2008, _Irony in the Age of Empire: Comic Perspectives on Freedom and Democracy_, Indianapolis: Indiana University Press.
+* –––, 2014, _Interspecies Ethics_, New York: Columbia University Press.
+* Willett, Cynthia and Julie Willett, 2019, _Uproarious: How Feminists and Other Comic Subversives Speak Truth_, Minneapolis, MN: University of Minnesota Press.
+* Williams, Patricia J., 1991, _The Alchemy of Race and Rights_, Cambridge, MA: Harvard University Press.
+* Wollstonecraft, Mary, 1792 \[1982], _A Vindication of the Rights of Woman_, London. Reprinted, Miriam Brody Dramnick (ed.), New York: Penguin, 1982.
+* Young, Iris Marion, 1990, _Throwing Like a Girl and Other Essays In Feminist Philosophy and Social Theory_, Bloomington, IN: Indiana University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=feminism-self). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/feminism-self/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=feminism-self&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/feminism-self/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=feminism-self).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/feminism-self/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=feminism-self\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/feminism-self/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the authors with suggestions.]
+\[Please contact the authors with suggestions.]
 
 ## Related Entries
 
-[feminist philosophy, topics: perspectives on class and work](https://plato.stanford.edu/entries/feminism-class/) | [feminist philosophy, topics: perspectives on reproduction and the family](https://plato.stanford.edu/entries/feminism-family/)
+[feminist philosophy, topics: perspectives on class and work](https://plato.stanford.edu/entries/feminism-class/) | [feminist philosophy, topics: perspectives on reproduction and the family](https://plato.stanford.edu/entries/feminism-family/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Ellie Anderson <[*ellie_anderson@pitzer.edu*](mailto:ellie_anderson%40pitzer%2eedu)>  
-Cynthia Willett <[*cwillet@emory.edu*](mailto:cwillet%40emory%2eedu)>  
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Ellie Anderson <[_ellie\_anderson@pitzer.edu_](mailto:ellie\_anderson%40pitzer%2eedu)>\
+Cynthia Willett <[_cwillet@emory.edu_](mailto:cwillet%40emory%2eedu)>\
 [Diana Meyers](https://dianatietjensmeyers.wordpress.com/)

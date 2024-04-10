@@ -1,28 +1,27 @@
 # 女性主义道德心理学 moral psychology (Anita Superson)
 
-*首次发表于 2009 年 1 月 30 日星期五；实质性修订于 2020 年 6 月 4 日星期四*
+_首次发表于 2009 年 1 月 30 日星期五；实质性修订于 2020 年 6 月 4 日星期四_
 
 道德心理学，广义上讲，涉及与道德行为动机相关的问题。更具体地说，它关注我们如何看待或未能看到道德问题，为什么我们会采取或未能采取道德行为，以及我们对自己的行为负责的程度和方式。从根本上讲，它关注我们的道德代理性，我们在道德上是什么样的存在，或者应该是什么样的存在。
 
 女性主义道德心理学涉及女性主义者在道德心理学领域所做的贡献，或者说他们对这些问题的处理方式是如何受到女性主义关切的驱使，特别是在理解和试图结束妇女压迫方面。女性主义对道德心理学的贡献至少有三方面。首先，一些女性主义者强调情感在行动中的作用；特别是他们强调关怀动机在促使行动方面的作用。他们这样做的原因是，总体而言，情感和关怀在传统道德理论中被忽视或贬低，因为它们与女性有关。他们认为，如果我们要结束妇女的压迫，我们应该将与女性和女性相关的事物纳入我们的哲学理论中，而这些事物以前被排除在外。然而，其他女性主义者担心关怀特别对妇女有害，他们认为将关怀纳入道德理论将使妇女的压迫持续下去。还有其他女性主义者挑战内在主义论题，即认为在承认道德行动理由时，动机在理性主体中必然存在。其次，女性主义者对压迫的关注导致从事道德心理学领域工作的女性主义者承认系统性压迫在受压迫者和压迫者心理中的作用。一个问题是父权制如何影响一个人的动机和随后的行动。父权制如何影响妇女的欲望？如果妇女的欲望被父权制扭曲，她们能够自主吗？满足妇女扭曲的欲望是否有助于她们自身的压迫？是什么驱使那些从事有助于妇女压迫的性别歧视行为的人？女性主义者在道德心理学领域关注的第三个相关问题是责任。当我们的行动受到父权制扭曲的欲望的驱使时，我们在多大程度上对我们的行为负责？受压迫者在某种程度上对自己的压迫负责吗？他们对抗压迫负责吗？主导社会群体的成员对理解压迫负责吗，他们如何能够理解压迫？即使并非每个男人都怀有性别歧视意图，男性集体对妇女的压迫负责吗？
 
-* [ 道德动机](https://plato.stanford.edu/entries/feminism-moralpsych/#MorMot)
-* [ 扭曲的欲望](https://plato.stanford.edu/entries/feminism-moralpsych/#DefDes)
-* [ 责任](https://plato.stanford.edu/entries/feminism-moralpsych/#Res)
-
+* [道德动机](https://plato.stanford.edu/entries/feminism-moralpsych/#MorMot)
+* [扭曲的欲望](https://plato.stanford.edu/entries/feminism-moralpsych/#DefDes)
+* [责任](https://plato.stanford.edu/entries/feminism-moralpsych/#Res)
   * [压迫者对压迫的责任](https://plato.stanford.edu/entries/feminism-moralpsych/#ResOppForOpp)
   * [3.2 采取他人的视角](https://plato.stanford.edu/entries/feminism-moralpsych/#TakAnoPer)
   * [3.3 集体责任](https://plato.stanford.edu/entries/feminism-moralpsych/#ColRes)
   * [3.4 被压迫者对不道德行为的责任](https://plato.stanford.edu/entries/feminism-moralpsych/#ResOppForImm)
   * [3.5 抵抗自身压迫的责任；对受害者的责备](https://plato.stanford.edu/entries/feminism-moralpsych/#ResForResOneOwnOppVicBla)
 * [压迫者的心理学](https://plato.stanford.edu/entries/feminism-moralpsych/#PsyOpp)
-* [ 5. 结论](https://plato.stanford.edu/entries/feminism-moralpsych/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-moralpsych/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-moralpsych/#Aca)
+* [5. 结论](https://plato.stanford.edu/entries/feminism-moralpsych/#Con)
+* [参考文献](https://plato.stanford.edu/entries/feminism-moralpsych/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/feminism-moralpsych/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/feminism-moralpsych/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-moralpsych/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/feminism-moralpsych/#Rel)
 
----
+***
 
 ## 道德动机
 
@@ -154,7 +153,7 @@ Tracy Isaacs 认为，人们在某种程度上都受到我们生活的文化背�
 
 安·卡德（Ann Cudd）还提出，女性有责任抵抗自己的压迫。她探讨了一种情况，即女性了解自己的压迫，不受扭曲欲望的影响，而且压迫并不普遍到无法或严重冒险地抵抗（2006）。她提到了拉里和丽莎的案例，这对夫妇一致认为，最好由他们中的一人承担大部分育儿责任。鉴于现有的性别工资差距，这对夫妇认为，理性地选择让丽莎退出有薪劳动力市场并抚养孩子是明智的。但是，当足够多的其他女性也这样做时，这会加强和稳定女性的压迫，因为这会让雇主认为女性是不可靠的工资工作者，从而滋生出导致性别工资差距的刻板形象（199）。此外，丽莎参与性别分工加剧了其他女性也会这样做的预期。卡德认为，丽莎需要权衡家庭可以期待的经济收益与维持女性主要是家庭工作者和不可靠的工资工作者的刻板形象所造成的伤害，然后尽量减少不应得的伤害。像丽莎这样的女性有责任为了更好的未来愿景而牺牲她们的即时需求（188）。卡德进一步认为，要求受压迫者抵抗自己的压迫并不是在错误地责怪受害者；相反，这就像一个人因为别人粗心使用锋利剪刀而受到轻微割伤，但如果他因为拒绝清洗和照料伤口而导致手因坏疽而失去，他也要为部分伤害负责。两位受害者都在某种程度上参与了他们所遭受的伤害，尽管两者都不是伤害的最初原因。
 
-In contrast to feminists who defend an obligation to resist oppression, Daniel Silvermint examines the phenomenon of “passing as privileged” as a way to navigate one’s oppression so as to promote one’s well-being. Silvermint describes “passing as privileged” as occurring “when a member of an oppressed, stigmatized, or otherwise discriminated-against group *x* is passively or actively perceived to be a member of a privileged group *y*, thereby escaping the unjust barriers and burdens that come with being identified as an *x* and/or accessing the advantages that come with being (mis)identified as a *y*” (Silvermint 2018, 6). He is concerned mainly with “active passing,” which is a strategy used to create or avoid the perception of a certain kind of person, such as when an immigrant family Anglicizes their last name in order to hide their naturalized status (3). His concern is whether a victim of oppression ought to pass as a non-victim when they can successfully do so.重试  错误原因
+In contrast to feminists who defend an obligation to resist oppression, Daniel Silvermint examines the phenomenon of “passing as privileged” as a way to navigate one’s oppression so as to promote one’s well-being. Silvermint describes “passing as privileged” as occurring “when a member of an oppressed, stigmatized, or otherwise discriminated-against group _x_ is passively or actively perceived to be a member of a privileged group _y_, thereby escaping the unjust barriers and burdens that come with being identified as an _x_ and/or accessing the advantages that come with being (mis)identified as a _y_” (Silvermint 2018, 6). He is concerned mainly with “active passing,” which is a strategy used to create or avoid the perception of a certain kind of person, such as when an immigrant family Anglicizes their last name in order to hide their naturalized status (3). His concern is whether a victim of oppression ought to pass as a non-victim when they can successfully do so.重试 错误原因
 
 根据 Silvermint 的观点，通过抵抗和顺应自己的压迫，它们共享的目标是它们都是改善生活或处境的方式面对压迫（38）。他看到它们之间的主要区别在于，以各种方式抵抗的人试图通过破坏、改变或逃避约束他们福祉的压迫系统来改善他们的福祉，而以特权群体成员的身份行事以维持这些约束并试图利用分配方式以避免受到约束的人则是在维持这些约束的同时试图利用分配方式以避免受到约束。基本上，后者在他们的福祉的两个有价值的组成部分之间做出权衡，这两个部分在压迫下不能同时提升。例如，一名跨性别女性可能会冒充成顺性别女性以避免身体暴力；一名受到刻板印象威胁的受害者可能会冒充自信的专业人士以取得成功（31）；一名酷儿女性可能会冒充成顺性别女性，避免与女友牵手以避开一个不敏感的同事（11）。但与经典的抵抗者不同，参与顺应的人并没有挑战伤害他们的那个系统，而是保持其完整。Silvermint 将他们比作被欺凌的青少年，他穿着像欺凌者一样来到学校，行为也类似于他们，最终被他们接受。Silvermint 对三个主要认为顺应在道德上是错误的论点提出异议，即，它损害了行动者的真实性，涉及欺骗，并通过强化刻板印象来伤害其他受害者。相反，他辩护认为，顺应是一种自我关注的允许形式，因为参与顺应的人不负责成为压迫的受害者，并且正在以最佳方式来应对自己的处境以促进他们的福祉（40）。
 
@@ -186,143 +185,143 @@ Larry May 是一位女性主义者，专门探讨男性社会化在培养男性�
 
 ## Bibliography
 
-* Asefa, Semra, 1998. “Female Genital Mutilation: Violence in the Name of Tradition, Religion, and Social Imperative,” in *Violence Against Women: Philosophical Perspectives*, Stanley G. French, Wanda Teays, and Laura M. Purdy (eds.), Ithaca, NY: Cornell University Press, pp. 92–104; previously published in *Interpersonal Violence, Health, and Gender Politics*, 2nd edition, S. G. French (ed.), Dubuque, Iowa: Brown & Benchmark, 1994.
-* Baber, Harriet E., 2007. “Adaptive Preferences,” *Social Theory & Practice*, 33(1): 105–126.
-* Baier, Annette C., 1987a. “Hume, the Women’s Moral Theorist?” in *Women and Moral Theory*, Eva Feder Kittay and Diana T. Meyers (eds.), Savage, Maryland: Rowman & Littlefield Publishers, Inc., pp. 37–55.
-* –––, 1987b. “The Need for More Than Justice,” *Canadian Journal of Philosophy*, 13 (Supplement): 41–56.
-* Baron, Marcia, 1984. “The Alleged Moral Repugnance of Acting from Duty,” *The Journal of Philosophy*, 84(4): 197–220.
-* –––, 1985. “Servility, Critical Deference and the Deferential Wife,” *Philosophical Studies*, 48: 393–400.
-* –––, 2004. “Killing in the Heat of Passion,” in *Setting the Moral Compass: Essays by Women Philosophers*, Cheshire Calhoun (ed.), New York: Oxford University Press, pp. 353–378.
-* Bartky, Sandra, 1990. “On Psychological Oppression,” in *Femininity and Domination: Studies in the Phenomenology of Oppression*, Sandra Lee Bartky (ed.), New York: Routledge, 22–32; reprinted from *Philosophy and Women*, Wadsworth Publishing, 1979.
-* –––, 1990a. “Narcissism, Femininity, and Alienation,” in *Femininity and Domination: Studies in the Phenomenology of Oppression*, Sandra Lee Bartky (ed.), New York: Routledge, pp. 33–44.
-* –––, 1990b. “On Psychological Oppression,” in *Femininity and Domination: Studies in the Phenomenology of Oppression*, Sandra Lee Bartky (ed.), New York: Routledge, pp. 22–32; reprinted from *Philosophy and Women*, Wadsworth Publishing, 1979.
-* –––, 1990c. “Toward a Phenomenology of Feminist Consciousness,” in *Femininity and Domination: Studies in the Phenomenology of Oppression*, Sandra Lee Bartky (ed.), New York: Routledge, pp. 11–21; reprinted from *Social Theory and Practice*, 1976.
-* –––, 2004. “Suffering to Be Beautiful,” in “*Sympathy and Solidarity” and Other Essays*, Sandra Lee Bartky (ed.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 13–29.
-* Benson, Paul, 2000. “Feeling Crazy: Self-Worth and the Social Character of Responsibility,” in *Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self*, Catriona Mackenzie and Natalie Stoljar (eds.), New York: Oxford University Press, pp. 72–93.
-* Blum, Lawrence. 1988. “Gilligan and Kohlberg: Implications for Moral Theory,” *Ethics*, 98(3): 472–491.
-* Blum, Larry, and Marcia Homiak, Judy Housman, and Naomi Scheman, 1973–1974. “Altruism and Women’s Oppression,” *The Philosophical Forum*: Special Issue on *Women & Philosophy*, 5(1–2): 222–247.
-* Brennan, Samantha. 2013. “Rethinking the Moral Significance of Micro-Inequities: The case of Women in Philosophy,” in *Women in Philosophy: What Needs to Change?*, Katrina Hutchinson and Fiona Jenkins (eds.), New York: Oxford University Press, pp. 180–196.
-* Brink, David, 1986. “Externalist Moral Realism,” *The Southern Journal of Philosophy*, 24 (Supplement): 23–41.
-* Brownstein, Michael B., 2019, “Implicit Bias,” *The Stanford Encyclopedia of Philosophy* (Fall 2019 Edition), E. Zalta (ed.), URL = <[https:plato.stanford.edu/archives/fall2019/entries/implicit-bias/](https://plato.stanford.edu/archives/fall2019/entries/implicit-bias/)>.
-* Brownstein, Michael and Jennifer Saul (eds.), 2016a, *Implicit Bias and Philosophy* (Volume 1: Metaphysics and Epistemology), New York: Oxford University Press.
-* ––– (eds.), 2016b, *Implicit Bias and Philosophy* (Volume 2: Moral Responsibility, Structural Injustice, and Ethics), New York: Oxford University Press.
-* Bruckner, Donald W., 2007. “In Defense of Adaptive Preferences,” *Philosophical Studies*, 142: 307–324.
-* Buss, Sarah, 1997. “Justified Wrongdoing,” *Noûs*, 31(3): 337–369.
-* Calhoun, Cheshire, 1988. “Justice, Care, and Gender Bias,” *The Journal of Philosophy*, 85(9): 451–463.
-* –––, 1989. “Responsibility and Reproach,” *Ethics*, 99(2) (January): 389–406.
-* Card, Claudia, 1993. “Gender and Moral Luck,” In *Identity, Character, and Morality: Essays in Moral Psychology*, Owen J. Flanagan and Amelie Oksenberg Rorty (eds.), Bradford, Mass.: MIT University Press, pp. 199–218.
-* Cudd, Ann E., 1988. “Oppression by Choice,” *Journal of Social Philosophy*, 25: 22–44.
-* –––, 2002. “Analyzing Backlash to Progressive Social Movements,” in *Theorizing Backlash: Philosophical Reflections on the Resistance to Feminism*, Anita M. Superson and Ann E. Cudd (eds.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 3–16.
-* –––, 2006. *Analyzing Oppression*, New York: Oxford University Press.
-* Deigh, John (ed.), 1992. *Ethics and Personality: Essays in Moral Psychology*, Chicago: The University of Chicago Press. Introduction, pp. 1–10.
-* DesAutels, Peggy, 2004. “Moral Mindfulness,” In *Moral Psychology: Feminist Ethics and Social Theory*, Peggy DesAutels and Margaret Urban Walker (eds.), pp. 69–81. Lanham, Maryland: Rowman & Littlefield Publishers, Inc.
-* Dillon, Robin S., 2004. “Kant on Arrogance and Self-Respect,” in *Setting the Moral Compass: Essays by Women Philosophers*, New York: Oxford University Press, pp. 191–216.
-* –––, 2012. “Critical Character Theory: Toward a Feminist Perspective on ‘Vice’ (and ‘Virtue’),” in *Out from the Shadows: Analytical Feminist Contributions to Traditional Philosophy*, Sharon L. Crasnow and Anita M. Superson (eds.), New York: Oxford University Press.
-* Dworkin, Andrea, 1987. *Intercourse*, New York: Free Press.
-* Flanagan, Owen and Kathryn Jackson, 1987. “Justice, Care, and Gender: The Kohlberg-Gilligan Debate Revisited,” *Ethics*, 97(3): 622–637.
-* Friedman, Marilyn A., 1985. “Moral Integrity and the Deferential Wife,” *Philosophical Studies*, 47(1) (January): 141–150.
-* –––, 1987. “Beyond Caring: The De-Moralization of Gender,” *Canadian Journal of Philosophy*, 68(1): 5–20.
-* –––, 1993. “Liberating Care,” In *What Are Friends For*, Marilyn Friedman (ed.). Ithaca, NY: Cornell University Press, pp. 142–183.
+* Asefa, Semra, 1998. “Female Genital Mutilation: Violence in the Name of Tradition, Religion, and Social Imperative,” in _Violence Against Women: Philosophical Perspectives_, Stanley G. French, Wanda Teays, and Laura M. Purdy (eds.), Ithaca, NY: Cornell University Press, pp. 92–104; previously published in _Interpersonal Violence, Health, and Gender Politics_, 2nd edition, S. G. French (ed.), Dubuque, Iowa: Brown & Benchmark, 1994.
+* Baber, Harriet E., 2007. “Adaptive Preferences,” _Social Theory & Practice_, 33(1): 105–126.
+* Baier, Annette C., 1987a. “Hume, the Women’s Moral Theorist?” in _Women and Moral Theory_, Eva Feder Kittay and Diana T. Meyers (eds.), Savage, Maryland: Rowman & Littlefield Publishers, Inc., pp. 37–55.
+* –––, 1987b. “The Need for More Than Justice,” _Canadian Journal of Philosophy_, 13 (Supplement): 41–56.
+* Baron, Marcia, 1984. “The Alleged Moral Repugnance of Acting from Duty,” _The Journal of Philosophy_, 84(4): 197–220.
+* –––, 1985. “Servility, Critical Deference and the Deferential Wife,” _Philosophical Studies_, 48: 393–400.
+* –––, 2004. “Killing in the Heat of Passion,” in _Setting the Moral Compass: Essays by Women Philosophers_, Cheshire Calhoun (ed.), New York: Oxford University Press, pp. 353–378.
+* Bartky, Sandra, 1990. “On Psychological Oppression,” in _Femininity and Domination: Studies in the Phenomenology of Oppression_, Sandra Lee Bartky (ed.), New York: Routledge, 22–32; reprinted from _Philosophy and Women_, Wadsworth Publishing, 1979.
+* –––, 1990a. “Narcissism, Femininity, and Alienation,” in _Femininity and Domination: Studies in the Phenomenology of Oppression_, Sandra Lee Bartky (ed.), New York: Routledge, pp. 33–44.
+* –––, 1990b. “On Psychological Oppression,” in _Femininity and Domination: Studies in the Phenomenology of Oppression_, Sandra Lee Bartky (ed.), New York: Routledge, pp. 22–32; reprinted from _Philosophy and Women_, Wadsworth Publishing, 1979.
+* –––, 1990c. “Toward a Phenomenology of Feminist Consciousness,” in _Femininity and Domination: Studies in the Phenomenology of Oppression_, Sandra Lee Bartky (ed.), New York: Routledge, pp. 11–21; reprinted from _Social Theory and Practice_, 1976.
+* –––, 2004. “Suffering to Be Beautiful,” in “_Sympathy and Solidarity” and Other Essays_, Sandra Lee Bartky (ed.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 13–29.
+* Benson, Paul, 2000. “Feeling Crazy: Self-Worth and the Social Character of Responsibility,” in _Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self_, Catriona Mackenzie and Natalie Stoljar (eds.), New York: Oxford University Press, pp. 72–93.
+* Blum, Lawrence. 1988. “Gilligan and Kohlberg: Implications for Moral Theory,” _Ethics_, 98(3): 472–491.
+* Blum, Larry, and Marcia Homiak, Judy Housman, and Naomi Scheman, 1973–1974. “Altruism and Women’s Oppression,” _The Philosophical Forum_: Special Issue on _Women & Philosophy_, 5(1–2): 222–247.
+* Brennan, Samantha. 2013. “Rethinking the Moral Significance of Micro-Inequities: The case of Women in Philosophy,” in _Women in Philosophy: What Needs to Change?_, Katrina Hutchinson and Fiona Jenkins (eds.), New York: Oxford University Press, pp. 180–196.
+* Brink, David, 1986. “Externalist Moral Realism,” _The Southern Journal of Philosophy_, 24 (Supplement): 23–41.
+* Brownstein, Michael B., 2019, “Implicit Bias,” _The Stanford Encyclopedia of Philosophy_ (Fall 2019 Edition), E. Zalta (ed.), URL = <[https:plato.stanford.edu/archives/fall2019/entries/implicit-bias/](https://plato.stanford.edu/archives/fall2019/entries/implicit-bias/)>.
+* Brownstein, Michael and Jennifer Saul (eds.), 2016a, _Implicit Bias and Philosophy_ (Volume 1: Metaphysics and Epistemology), New York: Oxford University Press.
+* ––– (eds.), 2016b, _Implicit Bias and Philosophy_ (Volume 2: Moral Responsibility, Structural Injustice, and Ethics), New York: Oxford University Press.
+* Bruckner, Donald W., 2007. “In Defense of Adaptive Preferences,” _Philosophical Studies_, 142: 307–324.
+* Buss, Sarah, 1997. “Justified Wrongdoing,” _Noûs_, 31(3): 337–369.
+* Calhoun, Cheshire, 1988. “Justice, Care, and Gender Bias,” _The Journal of Philosophy_, 85(9): 451–463.
+* –––, 1989. “Responsibility and Reproach,” _Ethics_, 99(2) (January): 389–406.
+* Card, Claudia, 1993. “Gender and Moral Luck,” In _Identity, Character, and Morality: Essays in Moral Psychology_, Owen J. Flanagan and Amelie Oksenberg Rorty (eds.), Bradford, Mass.: MIT University Press, pp. 199–218.
+* Cudd, Ann E., 1988. “Oppression by Choice,” _Journal of Social Philosophy_, 25: 22–44.
+* –––, 2002. “Analyzing Backlash to Progressive Social Movements,” in _Theorizing Backlash: Philosophical Reflections on the Resistance to Feminism_, Anita M. Superson and Ann E. Cudd (eds.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 3–16.
+* –––, 2006. _Analyzing Oppression_, New York: Oxford University Press.
+* Deigh, John (ed.), 1992. _Ethics and Personality: Essays in Moral Psychology_, Chicago: The University of Chicago Press. Introduction, pp. 1–10.
+* DesAutels, Peggy, 2004. “Moral Mindfulness,” In _Moral Psychology: Feminist Ethics and Social Theory_, Peggy DesAutels and Margaret Urban Walker (eds.), pp. 69–81. Lanham, Maryland: Rowman & Littlefield Publishers, Inc.
+* Dillon, Robin S., 2004. “Kant on Arrogance and Self-Respect,” in _Setting the Moral Compass: Essays by Women Philosophers_, New York: Oxford University Press, pp. 191–216.
+* –––, 2012. “Critical Character Theory: Toward a Feminist Perspective on ‘Vice’ (and ‘Virtue’),” in _Out from the Shadows: Analytical Feminist Contributions to Traditional Philosophy_, Sharon L. Crasnow and Anita M. Superson (eds.), New York: Oxford University Press.
+* Dworkin, Andrea, 1987. _Intercourse_, New York: Free Press.
+* Flanagan, Owen and Kathryn Jackson, 1987. “Justice, Care, and Gender: The Kohlberg-Gilligan Debate Revisited,” _Ethics_, 97(3): 622–637.
+* Friedman, Marilyn A., 1985. “Moral Integrity and the Deferential Wife,” _Philosophical Studies_, 47(1) (January): 141–150.
+* –––, 1987. “Beyond Caring: The De-Moralization of Gender,” _Canadian Journal of Philosophy_, 68(1): 5–20.
+* –––, 1993. “Liberating Care,” In _What Are Friends For_, Marilyn Friedman (ed.). Ithaca, NY: Cornell University Press, pp. 142–183.
 * –––, 1998. “Human Rights, Cultural Minorities, and Women,” (paper presented at the McDowell Conference on Human Rights, American University, November 1998), cited in Uma Narayan, “Minds of Their Own,” p. 428.
-* Frye, Marilyn, 1995. “White Woman Feminist,” In *Moral Issues in Global Perspective*, Christine Koggel (ed.), Peterborough, Ontario, Canada: Broadview Press, pp. 224–239; reprinted from *Overcoming Racism and Sexism*, Linda Bell and David Blumenthal (eds.), Lanham, Maryland: Rowman & Littlefield, 1995, pp. 113–134.
-* Gilligan, Carol, 1982. *In a Different Voice: Psychological Theory and Women’s Development*, Cambridge, Mass.: Harvard University Press.
-* –––, 1987. “Moral Orientation and Moral Development,” in *Women and Moral Theory*, Eva Feder Kittay and Diana T. Meyers (eds.), New York: Rowman and Littlefield Publishers, Inc., pp. 19–33.
-* Goldman, Michael (ed.), 2007. *Teaching Philosophy*. Special Issue on *Teaching in the New Climate of Conservatism* 30(2).
-* Greeno, Catherine G. and Eleanor E. Maccoby, 1993. “How Different Is the ‘Different Voice’?” In *An Ethic of Care: Feminist and Interdisciplinary Perspectives*, Mary Jeanne Larrabee (ed.), New York: Routledge, pp. 193–98; reprinted from *Signs: Journal of Women in Culture and Society*, 11 (1986): 310–16.
-* Griffin, Susan, 1981. “Rape: The All-American Crime,” in *Feminism and Philosophy*, Mary Vetterling-Braggin, Frederick A. Elliston, and Jane English (eds.), Totowa, New Jersey: Littlefield, Adams & Co., pp. 313–332. Originally published in *Ramparts*, September 1971, pp. 26–35.
-* Hampton, Jean, 1993. “Feminist Contractarianism,” in *A Mind of One’s Own: Feminist Essays on Reason and Objectivity*, Louise M. Antony and Charlotte Witt (eds.), pp. 227–255. Boulder, Colo.: Westview Press.
-* –––, 1999. “Defining Wrong and Defining Rape,” in *A Most Detestable Crime: New Philosophical Essays on Rape*, Keith Burgess-Jackson (ed.), New York: Oxford University Press, pp. 118–156.
-* Hay, Carol, 2005. “Whether to Ignore Them and Spin: Moral Obligations to Resist Sexual Harassment,” *Hypatia: A Journal of Feminist Philosophy*, Special Issue on *Analytical Feminism*, 20(4) (Fall): 94–108.
-* Held, Virginia, 1987. “Feminism and Moral Theory,” in *Women and Moral Theory*, Eva Feder Kittay and Diana T. Meyers (eds.), Savage, Maryland: Rowman & Littlefield Publishers, Inc., pp. 111–128.
-* –––, 1990. “Feminist Transformations of Moral Theory,” *Philosophy and Phenomenological Research*, 1: 321–344.
-* –––, 2006. *The Ethics of Care: Personal, Political, and Global*, New York: Oxford University Press.
-* Herman, Barbara, 1981. “On the Value of Acting from the Motive of Duty,” *The Philosophical Review*, 90(3) (July): 359–382.
-* Hill, Thomas E., Jr., 1995. “Servility and Self-Respect,” in *Dignity, Character, and Self-Respect*, Robin S. Dillon (ed.), New York: Routledge, pp. 76–92. Reprinted from *The Monist*, 57 (1973).
-* Hoagland, Sarah Lucia, 1991. “Some Thoughts about ‘Caring’,” in *Feminist Ethics*, Claudia Card (ed.), Lawrence, Kansas: University of Kansas Press, pp. 246–263.
-* Houston, Barbara, 1987. “Rescuing Womanly Virtues: Some Dangers of Moral Reclamation,” *Canadian Journal of Philosophy*, 13 (Supplement): 237–262.
-* Isaacs, Tracy, 2011. *Moral Responsibility in Collective Contexts*, New York: Oxford University Press.
-* Kaufman, Debra Renee, 1999. “Professional Women: How Real Are the Recent Gains?” in *Feminist Philosophies*, 2nd edition, Janet A. Kournay, James P. Sterba, and Rosemarie Tong (eds.), Upper Saddle River, New Jersey. Prentice Hall, pp. 189–202.
-* Korsgaard, Christine M., 1986. “Skepticism About Practical Reason,” *The Journal of Philosophy*, 83(1): 5–25.
-* Lawrence, Charles Jr., 1993. “If He Hollers Let Him Go: Regulating Racist Speech on Campus,” in *Words That Wound: Critical Race Theory, Assaultive Speech, and the First Amendment*, Mari J. Matsuda, Charles R. Lawrence III, Richard Delgado, Kimberle Williams Crenshaw (eds.), Boulder, Colo.: Westview Press, pp. 53–87.
-* Little, Margaret Olivia, 2007. “Seeing and Caring: The Role of Affect in Feminist Moral Epistemology,” in *Foundations of Ethics: An Anthology*, Russ Shafer-Landau and Terence Cuneo (eds.), Malden, Mass.: Blackwell Publishing, 420–432; reprinted from *Hypatia*, 10(3) (1995): 117–137.
-* Lugones, Maria, 1995. “Playfulness, ‘World’-Traveling, and Loving Perception,” in *Free Spirits: Feminist Philosophers on Culture*, Kate Mehuron and Gary Percesepe (ed.) Englewood Cliffs, N.J.: Prentice-Hall, pp. 121–128; reprinted from *Making Face, Making Soul*, Gloria Anzaldua (ed.), San Francisco: Aunt Lute, 1990.
-* Lugones, Maria and Elizabeth Spelman, 1986. “Have We Got a Theory for You! Feminist Theory, Cultural Imperialism and the Demand for ‘The Woman’s Voice’,” In *Women and Values: Readings in Recent Feminist Philosophy*, Marilyn Pearsall (ed.), Belmont, Calif.: Wadsworth Publishing Company, pp. 19–31.
-* Luria, Zella, 1993. “A Methodological Critique,” in *An Ethic of Care: Feminist and Interdisciplinary Perspectives*, Mary Jeanne Larrabee (ed.), New York: Routledge, pp. 199–203; reprinted from *Signs: Journal of Women in Culture and Society*, 11 (1986): 321–24.
-* MacKinnon, Catharine, 1987a. “Desire and Power,” in *Feminism Unmodified: Discourses on Life and Law*, ed. Catharine MacKinnon. Cambridge, Mass.: Harvard University Press, pp. 46–62.
-* –––, 1987b. “Difference and Dominance: On Sex Discrimination,” in *Feminism Unmodified: Discourses on Life and Law*, ed. Catharine MacKinnon. Cambridge, Mass.: Harvard University Press, pp. 32–45.
-* –––, 1987c. “Francis Biddle’s Sister: Pornography, Civil Rights, and Speech,” in *Feminism Unmodified*: *Discourses on Life and Law*, Catharine MacKinnon (ed.), pp. 163–197.
-* –––, 1987d. “Sexual Harassment: Its First Decade in Court,” in *Feminism Unmodified: Discourses on Life and Law*, Catharine MacKinnon (ed.), pp. 103–116.
-* Manning, Rita, 1992. *Speaking from the Heart: A Feminist Perspective on Ethics*, Lanham, Md.: Rowman & Littlefield Publishers, Inc.
-* May, Larry, 1998a. “Sexual Harassment and Solidarity,” In *Masculinity and Morality*, Larry May (ed.), Ithaca, NY: Cornell University Press, pp. 98–115.
-* –––, 1998b. “Socialization and Separatism,” In *Masculinity and Morality*, Larry May (ed.), Ithaca, NY: Cornell University Press, pp. 116–134.
-* –––, 1999. “Shared Responsibility and Racist Attitudes,” in *Sharing Responsibility*, Larry May (ed.), Chicago: University of Chicago Press, 1992, 36–54.
-* May, Larry and Robert Strikwerda, 1999. “Men in Groups: Collective Responsibility for Rape,” in *Moral Issues in Global Perspective*, Christine Koggel (ed.), Peterborough, Ontario, Canada: Broadview Press, pp. 721–732; reprinted from *Hypatia*, 9(2) (Spring 1994): 134–151.
-* Maybee, Julie E., 2002. “Politicizing the Personal and Other Tales from the Front Lines,” in *Theorizing Backlash: Philosophical Reflections on the Resistance to Feminism*, Anita M. Superson and Ann E. Cudd (eds.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 133–152.
-* Menkiti, I. A., 1977–78. “The Resentment of Injustice: Some Consequences of Institutional Racism,” *The Philosophical Forum*, 9(2–3): 227–249.
-* Mill, John Stuart, 1861. *The Subjection of Women*, Buffalo, New York: Prometheus Books, 1986.
-* Mills, Charles W., 2005. “‘Ideal Theory’ as Ideology,” *Hypatia*, 20(3): 165–184.
-* Moody-Adams, Michele, 1991. “Gender and the Complexity of Moral Voices,” in *Feminist Ethics*, Claudia Card (ed.), Lawrence, Kansas: University Press of Kansas, pp. 195–212.
-* –––, 1994. “Culture, Responsibility, and Affected Ignorance,” *Ethics*, 104(2) (January): 291–309.
-* Narayan, Uma, 2002. “Minds of Their Own: Choices, Autonomy, Cultural Practices, and Other Women,” in *A Mind of One’s Own: Feminist Essays on Reason and Objectivity*, Louise M. Antony and Charlotte E. Witt (eds.), Boulder, Colo.: Westview Press, 2nd edition, pp. 418–432.
-* Nelson, James Lindemann, 2004. “The Social Situation of Sincerity: Austen’s *Emma*, and Lovibond’s *Ethical Formation*,” in *Moral Psychology: Feminist Ethics and Social Theory*, Peggy DesAutels and Margaret Urban Walker (eds.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 83–98.
-* Noddings, Nel, 1984. *Caring: A Feminine Approach to Ethics and Moral Education*, Berkeley: University of California Press.
-* Nussbaum, Martha C., 1999a. “American Women,” in *Sex and Social Justice*, Martha C. Nussbaum (ed.), New York: Oxford University Press, pp. 130–153.
-* –––, 1999b. “Judging Other Cultures: The Case of Genital Mutilation,” in *Sex and Social Justice*, Martha C. Nussbaum (ed.), New York: Oxford University Press, pp. 118–129.
-* –––, 1999c. “‘Whether from Reason or Prejudice’: Taking Money for Bodily Services,” in *Sex and Social Justice*, Martha C. Nussbaum (ed.), New York: Oxford University Press, pp. 276–298; originally published in *Journal of Legal Studies*, 27(2) (Part 2): University of Chicago Press, 1998: 693–724.
-* –––, 2000. *Women and Human Development*, New York: Cambridge University Press.
-* Pineau, Lois, 1989. “Date Rape: A Feminist Analysis,” *Law and Philosophy*, 8: 217–243.
-* Rowe, Mary, 2008. “Micro-affirmations and Micro-inequities,” *Journal of the International Ombudsman Association*, 1: 45–48.
-* Ruddick, Sara, 1980. “Maternal Thinking,” in *Women and Values: Readings in Recent Feminist Philosophy*, Marilyn Pearsall (ed.), Belmont, Calif.: Wadsworth Publishing Co., pp. 340–351. Condensed from *Feminist Studies*, 6(2) (Summer 1980): 342–367.
-* Sabini, John and Maury Silver, 1982. “On Destroying the Innocent with a Clear Conscience: A Sociopsychology of the Holocaust,” in *Moralities of Everyday Life*, John Sabini and Maury Silver (eds.), New York: Oxford University Press, pp. 55–87.
-* Sadler, Bernice, 1986. *The Campus Climate Revisited: Chilly for Women Faculty, Administrators, and Graduate Students*, Washington, DC: Association of American Colleges.
-* Saul, Jennifer, 2013. “Implicit Bias, Stereotype Threat, and Women in Philosophy,” in *Women in Philosophy: What Needs to Change?*, Katrina Hutchinson and Fiona Jenkins (eds.), New York: Oxford University Press, pp. 39–60.
-* Silvermint, Daniel, 2018. “Passing as Privileged,” *Ergo*, 5(1): 1–43. doi:10.3998/ergo.12405314.0005.701
-* Smith, Michael, 1998. *The Moral Problem*, Malden, Mass.: Blackwell Publishers.
-* Sommers, Christina Hoff, 1994. *Who Stole Feminism?: How Women Have Betrayed Women*, New York: Simon and Schuster.
-* Stark, Cynthia A., 1997. “The Rationality of Valuing Oneself: A Critique of Kant on Self-Respect,” *Journal of the History of Philosophy*, 35(1) (January): 65–82.
-* Sterba, James P., 1996. “Understanding Evil: American Slavery, the Holocaust, and the Conquest of the American Indians,” *Ethics*, 106(January): 424–448.
-* Stocker, Michael, 1976. “The Schizophrenia of Modern Moral Theories,” *The Journal of Philosophy*, 73(14): 453–466.
-* Superson, Anita M., 1993. “Right-Wing Women: Causes, Choices, and Blaming the Victim,” *Journal of Social Philosophy* 24(3): 40–61.
-* –––, 1999. “Sexism in the Classroom: The Role of Gender Stereotypes in the Evaluation of Female Faculty,” *APA Newsletter on Feminism and Philosophy* 99(1): 46–51.
-* –––, 2002. “Welcome to the Boys’ Club: Male Socialization and the Backlash against Feminism in Tenure Decisions,” in *Theorizing Backlash: Philosophical Reflections on the Resistance to Feminism*, Anita M. Superson and Ann E. Cudd (ed.), Lanham, Maryland: Rowman & Littlefield, pp. 89–117.
-* –––, 2004. “Privilege, Immorality, and Responsibility for Attending to the ‘Facts About Humanity’,” *Journal of Social Philosophy*, 35(1): 34–55.
-* –––, 2005. “Deformed Desires and Informed Desire Tests,” *Hypatia: A Journal of Feminist Philosophy*, 20(4): 109–126.
-* –––, 2010. “The Deferential Wife Revisited: Agency, Responsibility, and Self-Respect,” *Hypatia: A Journal of Feminist Philosophy*, 25(2): 253–275.
-* Superson, Anita M. and Ann E. Cudd (eds.), 2002. *Theorizing Backlash: Philosophical Reflections on the Resistance to Feminism*, Lanham, MD: Rowman & Littlefield.
-* Teays, Wanda, 1998. “Standards of Perfection and Battered Women’s Self-defense,” in*Violence Against Women: Philosophical Perspectives*, Stanley G. French, Wanda Teays, and Laura M. Purdy (eds.), Ithaca, New York: Cornell University Press, pp. 57–76.
-* Tessman, Lisa, 2005. *Burdened Virtues: Virtue Ethics for Liberatory Struggles*, New York: Oxford University Press.
-* Tessman, Lisa, 2017. *When Doing the Right Thing Is Impossible*. New York: Oxford University Press.
-* Thomas, Laurence, 1996. “Becoming an Evil Society,” *Political Theory*, 24(2): 271–294.
-* –––, 1999. “Moral Deference,” in *Moral Issues in Global Perspectives*, Christine Koggel (ed.), Peterborough, Ontario, Canada: Broadview Press, pp. 180–191; reprinted from *The Philosophical Forum*, 24 (Fall-Spring 1992–1993): 233–250.
-* Thomson, Judith Jarvis, 1971. “A Defense of Abortion,” *Philosophy and Public Affairs*, 1(1): 47–66.
-* Tronto, Joan, 1993. “Beyond Gender Difference to a Theory of Care,” in *An Ethic of Care: Feminist and Interdisciplinary Perspectives*, Mary Jeanne Larrabee (ed.), pp. 240–257. New York: Routledge; reprinted from *Signs: Journal of Women in Culture and Society*, 12 (1987): 644–63.
-* Tuana, Nancy, 1992. *Woman and the History of Philosophy*, New York: Paragon House.
-* Valian, Virginia, 1999. *Why So Slow?: The Advancement of Women*, Cambridge, Mass.: The MIT Press.
-* Waits, Kathleen, 1993. “The Criminal Justice System’s Response to Battering: Understanding the Problem, Forging the Solutions,” in *Feminist Jurisprudence*, Patricia Smith (ed.), New York: Oxford University Press, pp. 188–209; originally published in the *Washington Law Review*, 60 (1985): 267–330.
-* Walker, Lawrence J., 1993. “Sex Differences in the Development of Moral Reasoning: A Critical Review,” in *An Ethic of Care: Feminist and Interdisciplinary Perspectives*, Mary Jeanne Larrabee (ed.), New York: Routledge, 157–76; reprinted from *Child Development*, 55 (1984): 677–91.
-* Westlund, Andrea C., 2003. “Selflessness and Responsibility for Self: Is Deference Compatible with Autonomy?,” *The Philosophical Review*, 112(4): 483–523.
-* Williams, Bernard, 1983. “Internal and External Reasons,” in *Moral Luck*, Bernard Williams (ed.), New York: Cambridge University Press, pp. 101–113.
-* Wilson, Catherine, 2004. “The Preferences of Women,” in *Moral Psychology: Feminist Ethics and Social Theory*, Peggy Desautels and Margaret Urban Walker (eds.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 99–117.
-* Wolf, Susan, 1986. “Asymmetrical Freedom,” in *Moral Responsibility*, John Martin Fischer (ed.), Ithaca, NY: Cornell University Press, pp. 225–240; reprinted from *The Journal of Philosophy*, 77 (March 1980): 151–166.
-* Young, Iris, 1988. “Five Faces of Oppression,” *Philosophical Forum*, 19(4): 270–290.
-* Zack, Naomi, 1998. *Thinking about Race*, Belmont, Calif.: Wadsworth Publishing Co.
+* Frye, Marilyn, 1995. “White Woman Feminist,” In _Moral Issues in Global Perspective_, Christine Koggel (ed.), Peterborough, Ontario, Canada: Broadview Press, pp. 224–239; reprinted from _Overcoming Racism and Sexism_, Linda Bell and David Blumenthal (eds.), Lanham, Maryland: Rowman & Littlefield, 1995, pp. 113–134.
+* Gilligan, Carol, 1982. _In a Different Voice: Psychological Theory and Women’s Development_, Cambridge, Mass.: Harvard University Press.
+* –––, 1987. “Moral Orientation and Moral Development,” in _Women and Moral Theory_, Eva Feder Kittay and Diana T. Meyers (eds.), New York: Rowman and Littlefield Publishers, Inc., pp. 19–33.
+* Goldman, Michael (ed.), 2007. _Teaching Philosophy_. Special Issue on _Teaching in the New Climate of Conservatism_ 30(2).
+* Greeno, Catherine G. and Eleanor E. Maccoby, 1993. “How Different Is the ‘Different Voice’?” In _An Ethic of Care: Feminist and Interdisciplinary Perspectives_, Mary Jeanne Larrabee (ed.), New York: Routledge, pp. 193–98; reprinted from _Signs: Journal of Women in Culture and Society_, 11 (1986): 310–16.
+* Griffin, Susan, 1981. “Rape: The All-American Crime,” in _Feminism and Philosophy_, Mary Vetterling-Braggin, Frederick A. Elliston, and Jane English (eds.), Totowa, New Jersey: Littlefield, Adams & Co., pp. 313–332. Originally published in _Ramparts_, September 1971, pp. 26–35.
+* Hampton, Jean, 1993. “Feminist Contractarianism,” in _A Mind of One’s Own: Feminist Essays on Reason and Objectivity_, Louise M. Antony and Charlotte Witt (eds.), pp. 227–255. Boulder, Colo.: Westview Press.
+* –––, 1999. “Defining Wrong and Defining Rape,” in _A Most Detestable Crime: New Philosophical Essays on Rape_, Keith Burgess-Jackson (ed.), New York: Oxford University Press, pp. 118–156.
+* Hay, Carol, 2005. “Whether to Ignore Them and Spin: Moral Obligations to Resist Sexual Harassment,” _Hypatia: A Journal of Feminist Philosophy_, Special Issue on _Analytical Feminism_, 20(4) (Fall): 94–108.
+* Held, Virginia, 1987. “Feminism and Moral Theory,” in _Women and Moral Theory_, Eva Feder Kittay and Diana T. Meyers (eds.), Savage, Maryland: Rowman & Littlefield Publishers, Inc., pp. 111–128.
+* –––, 1990. “Feminist Transformations of Moral Theory,” _Philosophy and Phenomenological Research_, 1: 321–344.
+* –––, 2006. _The Ethics of Care: Personal, Political, and Global_, New York: Oxford University Press.
+* Herman, Barbara, 1981. “On the Value of Acting from the Motive of Duty,” _The Philosophical Review_, 90(3) (July): 359–382.
+* Hill, Thomas E., Jr., 1995. “Servility and Self-Respect,” in _Dignity, Character, and Self-Respect_, Robin S. Dillon (ed.), New York: Routledge, pp. 76–92. Reprinted from _The Monist_, 57 (1973).
+* Hoagland, Sarah Lucia, 1991. “Some Thoughts about ‘Caring’,” in _Feminist Ethics_, Claudia Card (ed.), Lawrence, Kansas: University of Kansas Press, pp. 246–263.
+* Houston, Barbara, 1987. “Rescuing Womanly Virtues: Some Dangers of Moral Reclamation,” _Canadian Journal of Philosophy_, 13 (Supplement): 237–262.
+* Isaacs, Tracy, 2011. _Moral Responsibility in Collective Contexts_, New York: Oxford University Press.
+* Kaufman, Debra Renee, 1999. “Professional Women: How Real Are the Recent Gains?” in _Feminist Philosophies_, 2nd edition, Janet A. Kournay, James P. Sterba, and Rosemarie Tong (eds.), Upper Saddle River, New Jersey. Prentice Hall, pp. 189–202.
+* Korsgaard, Christine M., 1986. “Skepticism About Practical Reason,” _The Journal of Philosophy_, 83(1): 5–25.
+* Lawrence, Charles Jr., 1993. “If He Hollers Let Him Go: Regulating Racist Speech on Campus,” in _Words That Wound: Critical Race Theory, Assaultive Speech, and the First Amendment_, Mari J. Matsuda, Charles R. Lawrence III, Richard Delgado, Kimberle Williams Crenshaw (eds.), Boulder, Colo.: Westview Press, pp. 53–87.
+* Little, Margaret Olivia, 2007. “Seeing and Caring: The Role of Affect in Feminist Moral Epistemology,” in _Foundations of Ethics: An Anthology_, Russ Shafer-Landau and Terence Cuneo (eds.), Malden, Mass.: Blackwell Publishing, 420–432; reprinted from _Hypatia_, 10(3) (1995): 117–137.
+* Lugones, Maria, 1995. “Playfulness, ‘World’-Traveling, and Loving Perception,” in _Free Spirits: Feminist Philosophers on Culture_, Kate Mehuron and Gary Percesepe (ed.) Englewood Cliffs, N.J.: Prentice-Hall, pp. 121–128; reprinted from _Making Face, Making Soul_, Gloria Anzaldua (ed.), San Francisco: Aunt Lute, 1990.
+* Lugones, Maria and Elizabeth Spelman, 1986. “Have We Got a Theory for You! Feminist Theory, Cultural Imperialism and the Demand for ‘The Woman’s Voice’,” In _Women and Values: Readings in Recent Feminist Philosophy_, Marilyn Pearsall (ed.), Belmont, Calif.: Wadsworth Publishing Company, pp. 19–31.
+* Luria, Zella, 1993. “A Methodological Critique,” in _An Ethic of Care: Feminist and Interdisciplinary Perspectives_, Mary Jeanne Larrabee (ed.), New York: Routledge, pp. 199–203; reprinted from _Signs: Journal of Women in Culture and Society_, 11 (1986): 321–24.
+* MacKinnon, Catharine, 1987a. “Desire and Power,” in _Feminism Unmodified: Discourses on Life and Law_, ed. Catharine MacKinnon. Cambridge, Mass.: Harvard University Press, pp. 46–62.
+* –––, 1987b. “Difference and Dominance: On Sex Discrimination,” in _Feminism Unmodified: Discourses on Life and Law_, ed. Catharine MacKinnon. Cambridge, Mass.: Harvard University Press, pp. 32–45.
+* –––, 1987c. “Francis Biddle’s Sister: Pornography, Civil Rights, and Speech,” in _Feminism Unmodified_: _Discourses on Life and Law_, Catharine MacKinnon (ed.), pp. 163–197.
+* –––, 1987d. “Sexual Harassment: Its First Decade in Court,” in _Feminism Unmodified: Discourses on Life and Law_, Catharine MacKinnon (ed.), pp. 103–116.
+* Manning, Rita, 1992. _Speaking from the Heart: A Feminist Perspective on Ethics_, Lanham, Md.: Rowman & Littlefield Publishers, Inc.
+* May, Larry, 1998a. “Sexual Harassment and Solidarity,” In _Masculinity and Morality_, Larry May (ed.), Ithaca, NY: Cornell University Press, pp. 98–115.
+* –––, 1998b. “Socialization and Separatism,” In _Masculinity and Morality_, Larry May (ed.), Ithaca, NY: Cornell University Press, pp. 116–134.
+* –––, 1999. “Shared Responsibility and Racist Attitudes,” in _Sharing Responsibility_, Larry May (ed.), Chicago: University of Chicago Press, 1992, 36–54.
+* May, Larry and Robert Strikwerda, 1999. “Men in Groups: Collective Responsibility for Rape,” in _Moral Issues in Global Perspective_, Christine Koggel (ed.), Peterborough, Ontario, Canada: Broadview Press, pp. 721–732; reprinted from _Hypatia_, 9(2) (Spring 1994): 134–151.
+* Maybee, Julie E., 2002. “Politicizing the Personal and Other Tales from the Front Lines,” in _Theorizing Backlash: Philosophical Reflections on the Resistance to Feminism_, Anita M. Superson and Ann E. Cudd (eds.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 133–152.
+* Menkiti, I. A., 1977–78. “The Resentment of Injustice: Some Consequences of Institutional Racism,” _The Philosophical Forum_, 9(2–3): 227–249.
+* Mill, John Stuart, 1861. _The Subjection of Women_, Buffalo, New York: Prometheus Books, 1986.
+* Mills, Charles W., 2005. “‘Ideal Theory’ as Ideology,” _Hypatia_, 20(3): 165–184.
+* Moody-Adams, Michele, 1991. “Gender and the Complexity of Moral Voices,” in _Feminist Ethics_, Claudia Card (ed.), Lawrence, Kansas: University Press of Kansas, pp. 195–212.
+* –––, 1994. “Culture, Responsibility, and Affected Ignorance,” _Ethics_, 104(2) (January): 291–309.
+* Narayan, Uma, 2002. “Minds of Their Own: Choices, Autonomy, Cultural Practices, and Other Women,” in _A Mind of One’s Own: Feminist Essays on Reason and Objectivity_, Louise M. Antony and Charlotte E. Witt (eds.), Boulder, Colo.: Westview Press, 2nd edition, pp. 418–432.
+* Nelson, James Lindemann, 2004. “The Social Situation of Sincerity: Austen’s _Emma_, and Lovibond’s _Ethical Formation_,” in _Moral Psychology: Feminist Ethics and Social Theory_, Peggy DesAutels and Margaret Urban Walker (eds.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 83–98.
+* Noddings, Nel, 1984. _Caring: A Feminine Approach to Ethics and Moral Education_, Berkeley: University of California Press.
+* Nussbaum, Martha C., 1999a. “American Women,” in _Sex and Social Justice_, Martha C. Nussbaum (ed.), New York: Oxford University Press, pp. 130–153.
+* –––, 1999b. “Judging Other Cultures: The Case of Genital Mutilation,” in _Sex and Social Justice_, Martha C. Nussbaum (ed.), New York: Oxford University Press, pp. 118–129.
+* –––, 1999c. “‘Whether from Reason or Prejudice’: Taking Money for Bodily Services,” in _Sex and Social Justice_, Martha C. Nussbaum (ed.), New York: Oxford University Press, pp. 276–298; originally published in _Journal of Legal Studies_, 27(2) (Part 2): University of Chicago Press, 1998: 693–724.
+* –––, 2000. _Women and Human Development_, New York: Cambridge University Press.
+* Pineau, Lois, 1989. “Date Rape: A Feminist Analysis,” _Law and Philosophy_, 8: 217–243.
+* Rowe, Mary, 2008. “Micro-affirmations and Micro-inequities,” _Journal of the International Ombudsman Association_, 1: 45–48.
+* Ruddick, Sara, 1980. “Maternal Thinking,” in _Women and Values: Readings in Recent Feminist Philosophy_, Marilyn Pearsall (ed.), Belmont, Calif.: Wadsworth Publishing Co., pp. 340–351. Condensed from _Feminist Studies_, 6(2) (Summer 1980): 342–367.
+* Sabini, John and Maury Silver, 1982. “On Destroying the Innocent with a Clear Conscience: A Sociopsychology of the Holocaust,” in _Moralities of Everyday Life_, John Sabini and Maury Silver (eds.), New York: Oxford University Press, pp. 55–87.
+* Sadler, Bernice, 1986. _The Campus Climate Revisited: Chilly for Women Faculty, Administrators, and Graduate Students_, Washington, DC: Association of American Colleges.
+* Saul, Jennifer, 2013. “Implicit Bias, Stereotype Threat, and Women in Philosophy,” in _Women in Philosophy: What Needs to Change?_, Katrina Hutchinson and Fiona Jenkins (eds.), New York: Oxford University Press, pp. 39–60.
+* Silvermint, Daniel, 2018. “Passing as Privileged,” _Ergo_, 5(1): 1–43. doi:10.3998/ergo.12405314.0005.701
+* Smith, Michael, 1998. _The Moral Problem_, Malden, Mass.: Blackwell Publishers.
+* Sommers, Christina Hoff, 1994. _Who Stole Feminism?: How Women Have Betrayed Women_, New York: Simon and Schuster.
+* Stark, Cynthia A., 1997. “The Rationality of Valuing Oneself: A Critique of Kant on Self-Respect,” _Journal of the History of Philosophy_, 35(1) (January): 65–82.
+* Sterba, James P., 1996. “Understanding Evil: American Slavery, the Holocaust, and the Conquest of the American Indians,” _Ethics_, 106(January): 424–448.
+* Stocker, Michael, 1976. “The Schizophrenia of Modern Moral Theories,” _The Journal of Philosophy_, 73(14): 453–466.
+* Superson, Anita M., 1993. “Right-Wing Women: Causes, Choices, and Blaming the Victim,” _Journal of Social Philosophy_ 24(3): 40–61.
+* –––, 1999. “Sexism in the Classroom: The Role of Gender Stereotypes in the Evaluation of Female Faculty,” _APA Newsletter on Feminism and Philosophy_ 99(1): 46–51.
+* –––, 2002. “Welcome to the Boys’ Club: Male Socialization and the Backlash against Feminism in Tenure Decisions,” in _Theorizing Backlash: Philosophical Reflections on the Resistance to Feminism_, Anita M. Superson and Ann E. Cudd (ed.), Lanham, Maryland: Rowman & Littlefield, pp. 89–117.
+* –––, 2004. “Privilege, Immorality, and Responsibility for Attending to the ‘Facts About Humanity’,” _Journal of Social Philosophy_, 35(1): 34–55.
+* –––, 2005. “Deformed Desires and Informed Desire Tests,” _Hypatia: A Journal of Feminist Philosophy_, 20(4): 109–126.
+* –––, 2010. “The Deferential Wife Revisited: Agency, Responsibility, and Self-Respect,” _Hypatia: A Journal of Feminist Philosophy_, 25(2): 253–275.
+* Superson, Anita M. and Ann E. Cudd (eds.), 2002. _Theorizing Backlash: Philosophical Reflections on the Resistance to Feminism_, Lanham, MD: Rowman & Littlefield.
+* Teays, Wanda, 1998. “Standards of Perfection and Battered Women’s Self-defense,” in_Violence Against Women: Philosophical Perspectives_, Stanley G. French, Wanda Teays, and Laura M. Purdy (eds.), Ithaca, New York: Cornell University Press, pp. 57–76.
+* Tessman, Lisa, 2005. _Burdened Virtues: Virtue Ethics for Liberatory Struggles_, New York: Oxford University Press.
+* Tessman, Lisa, 2017. _When Doing the Right Thing Is Impossible_. New York: Oxford University Press.
+* Thomas, Laurence, 1996. “Becoming an Evil Society,” _Political Theory_, 24(2): 271–294.
+* –––, 1999. “Moral Deference,” in _Moral Issues in Global Perspectives_, Christine Koggel (ed.), Peterborough, Ontario, Canada: Broadview Press, pp. 180–191; reprinted from _The Philosophical Forum_, 24 (Fall-Spring 1992–1993): 233–250.
+* Thomson, Judith Jarvis, 1971. “A Defense of Abortion,” _Philosophy and Public Affairs_, 1(1): 47–66.
+* Tronto, Joan, 1993. “Beyond Gender Difference to a Theory of Care,” in _An Ethic of Care: Feminist and Interdisciplinary Perspectives_, Mary Jeanne Larrabee (ed.), pp. 240–257. New York: Routledge; reprinted from _Signs: Journal of Women in Culture and Society_, 12 (1987): 644–63.
+* Tuana, Nancy, 1992. _Woman and the History of Philosophy_, New York: Paragon House.
+* Valian, Virginia, 1999. _Why So Slow?: The Advancement of Women_, Cambridge, Mass.: The MIT Press.
+* Waits, Kathleen, 1993. “The Criminal Justice System’s Response to Battering: Understanding the Problem, Forging the Solutions,” in _Feminist Jurisprudence_, Patricia Smith (ed.), New York: Oxford University Press, pp. 188–209; originally published in the _Washington Law Review_, 60 (1985): 267–330.
+* Walker, Lawrence J., 1993. “Sex Differences in the Development of Moral Reasoning: A Critical Review,” in _An Ethic of Care: Feminist and Interdisciplinary Perspectives_, Mary Jeanne Larrabee (ed.), New York: Routledge, 157–76; reprinted from _Child Development_, 55 (1984): 677–91.
+* Westlund, Andrea C., 2003. “Selflessness and Responsibility for Self: Is Deference Compatible with Autonomy?,” _The Philosophical Review_, 112(4): 483–523.
+* Williams, Bernard, 1983. “Internal and External Reasons,” in _Moral Luck_, Bernard Williams (ed.), New York: Cambridge University Press, pp. 101–113.
+* Wilson, Catherine, 2004. “The Preferences of Women,” in _Moral Psychology: Feminist Ethics and Social Theory_, Peggy Desautels and Margaret Urban Walker (eds.), Lanham, Maryland: Rowman & Littlefield Publishers, Inc., pp. 99–117.
+* Wolf, Susan, 1986. “Asymmetrical Freedom,” in _Moral Responsibility_, John Martin Fischer (ed.), Ithaca, NY: Cornell University Press, pp. 225–240; reprinted from _The Journal of Philosophy_, 77 (March 1980): 151–166.
+* Young, Iris, 1988. “Five Faces of Oppression,” _Philosophical Forum_, 19(4): 270–290.
+* Zack, Naomi, 1998. _Thinking about Race_, Belmont, Calif.: Wadsworth Publishing Co.
 * Zheng, Robin, 2016. “Attributability, Accountability, and Implicit Bias,” in Brownstein and Saul (eds.) 2016b, pp. 62–89.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=feminism-moralpsych). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/feminism-moralpsych/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=feminism-moralpsych&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/feminism-moralpsych/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=feminism-moralpsych).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/feminism-moralpsych/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=feminism-moralpsych\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/feminism-moralpsych/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[bias, implicit](https://plato.stanford.edu/entries/implicit-bias/) | [contractarianism](https://plato.stanford.edu/entries/contractarianism/) | [emotion](https://plato.stanford.edu/entries/emotion/) | [feminist philosophy, interventions: ethics](https://plato.stanford.edu/entries/feminism-ethics/) | [feminist philosophy, topics: perspectives on power](https://plato.stanford.edu/entries/feminist-power/) | [moral motivation](https://plato.stanford.edu/entries/moral-motivation/) | [practical reason](https://plato.stanford.edu/entries/practical-reason/) | [reasons for action: internal vs. external](https://plato.stanford.edu/entries/reasons-internal-external/)
+[bias, implicit](https://plato.stanford.edu/entries/implicit-bias/) | [contractarianism](https://plato.stanford.edu/entries/contractarianism/) | [emotion](https://plato.stanford.edu/entries/emotion/) | [feminist philosophy, interventions: ethics](https://plato.stanford.edu/entries/feminism-ethics/) | [feminist philosophy, topics: perspectives on power](https://plato.stanford.edu/entries/feminist-power/) | [moral motivation](https://plato.stanford.edu/entries/moral-motivation/) | [practical reason](https://plato.stanford.edu/entries/practical-reason/) | [reasons for action: internal vs. external](https://plato.stanford.edu/entries/reasons-internal-external/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[Anita Superson](https://philosophy.as.uky.edu/users/superson) <[*superson@uky.edu*](mailto:superson%40uky%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[Anita Superson](https://philosophy.as.uky.edu/users/superson) <[_superson@uky.edu_](mailto:superson%40uky%2eedu)>

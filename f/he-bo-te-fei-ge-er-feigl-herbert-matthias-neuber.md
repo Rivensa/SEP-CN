@@ -1,24 +1,23 @@
 # 赫伯特·费格尔 Feigl, Herbert (Matthias Neuber)
 
-*首次发表于 2014 年 4 月 25 日星期五；实质性修订于 2022 年 10 月 17 日星期一*
+_首次发表于 2014 年 4 月 25 日星期五；实质性修订于 2022 年 10 月 17 日星期一_
 
 赫伯特·费格尔是一位出生于奥地利的逻辑实证主义哲学家，在 1931 年移民美国后发表了他大部分的著作。在很大程度上受到他的学术导师莫里茨·施利克的著作启发，费格尔对概率的哲学分析、科学现实主义的争论以及心灵-身体问题的分析做出了重要贡献。他的总体目标是通过他所称的“科学态度”来影响已有的哲学分析。
 
-* [ 传记](https://plato.stanford.edu/entries/feigl/#Bio)
+* [传记](https://plato.stanford.edu/entries/feigl/#Bio)
 * [2. 费格尔和维也纳学派](https://plato.stanford.edu/entries/feigl/#FeiVieCir)
 * [逻辑实证主义与科学现实主义](https://plato.stanford.edu/entries/feigl/#LogEmpSciRea)
 * [心灵-身体问题的分析](https://plato.stanford.edu/entries/feigl/#AnaMinBodPro)
 * [价值判断、人道主义和宗教的著作](https://plato.stanford.edu/entries/feigl/#WriValJudHumRel)
 * [6. 费格尔和 20 世纪分析哲学](https://plato.stanford.edu/entries/feigl/#FeiTweCenAna)
-* [ 参考文献](https://plato.stanford.edu/entries/feigl/#Bib)
-
+* [参考文献](https://plato.stanford.edu/entries/feigl/#Bib)
   * [主要文献：赫伯特·费格尔选集](https://plato.stanford.edu/entries/feigl/#PriLitSelWorFei)
-  * [ 次级文献](https://plato.stanford.edu/entries/feigl/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/feigl/#Aca)
+  * [次级文献](https://plato.stanford.edu/entries/feigl/#SecLit)
+* [学术工具](https://plato.stanford.edu/entries/feigl/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/feigl/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feigl/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/feigl/#Rel)
 
----
+***
 
 ## 传记
 
@@ -26,7 +25,7 @@
 
 由于反犹太主义和职业绝望的原因，费格尔于 1930 年决定移民到美国。在洛克菲勒研究奖学金的资助下，他首先在哈佛大学逗留了八个月。与阿尔伯特·E·布伦伯格一起，他撰写了题为“逻辑实证主义：欧洲哲学的新运动”的纲领性文章（发表在 1931 年春季的《哲学杂志》上）。费格尔的移民计划随后变得明显。回顾性地，他报告说：
 
-1931 年春季[…]我清楚地意识到，在奥地利或德国大学获得教职的机会极为渺茫。诚然，一向乐观和善良的施利克相信我会在维也纳大学获得一份 Privatdozentur（讲师职位）。但尽管我出生在奥地利，1918 年革命后我成为了捷克斯洛伐克公民。那时我的家乡是莱比锡（Liberec），位于苏台德地区，那里是我出生和成长的地方，也在那里上过小学和中学。我的父母虽然完全“同化”，但他们是犹太人的后裔。比施利克更现实的是，我放弃了在欧洲从事教学职业的想法，并开始在多所美国大学申请。（费格尔 1981 年，73-4 页）
+1931 年春季\[…]我清楚地意识到，在奥地利或德国大学获得教职的机会极为渺茫。诚然，一向乐观和善良的施利克相信我会在维也纳大学获得一份 Privatdozentur（讲师职位）。但尽管我出生在奥地利，1918 年革命后我成为了捷克斯洛伐克公民。那时我的家乡是莱比锡（Liberec），位于苏台德地区，那里是我出生和成长的地方，也在那里上过小学和中学。我的父母虽然完全“同化”，但他们是犹太人的后裔。比施利克更现实的是，我放弃了在欧洲从事教学职业的想法，并开始在多所美国大学申请。（费格尔 1981 年，73-4 页）
 
 费格尔在申请美国大学之前，收到了爱因斯坦、布里奇曼、刘易斯和怀特海德的推荐信。刘易斯在 1931 年 4 月 14 日的信中写道：“费格尔博士是与卡尔纳普、赖兴巴赫和施利克一起代表新制定的‘新实证主义’的一员，这代表了我们美国人认为是大陆哲学中最有前途的运动。”（引自 Limbeck-Lilienau 2010, p. 102）费格尔本人回顾道：
 
@@ -40,7 +39,7 @@
 
 赫伯特·费格尔是维也纳学派的创始成员之一。他与弗里德里希·韦斯曼一起向施利克建议成立一个晚间讨论小组（见费格尔 1981 年，第 60 页）。施利克采纳了这个想法，在维也纳博尔兹曼街 5 号的维也纳大学数学系设立了一个星期四晚上的讨论会。除了韦斯曼和费格尔本人，学派的其他创始人还包括汉斯·哈恩、奥托·诺伊拉特、奥尔加·哈恩-诺伊拉特、维克托·克拉夫特、费利克斯·考夫曼和数学家库尔特·赖德迈斯特。正是后者提议阅读和讨论路德维希·维特根斯坦的《逻辑哲学论》。根据费格尔未发表的采访报道，
 
-> [Vienna Circle]的成立大约是在 1924 年，但我不记得是在那一年的春天还是秋天。是数学家库尔特·赖德迈斯特教授首次提出了对《论述》的阐释，他（与汉、施利克和诺拉特一起）在这一最初的阐释中最为活跃。我自己曾阅读过《论述》的第一版发表于奥斯瓦尔德的《自然哲学年鉴》（我记得是 1922 年），但那时我还是一个非常年轻的学生，我将维特根斯坦视为直觉天才和精神分裂症的奇特混合体。（摘自 Stadler 1997，第 233 页）
+> \[Vienna Circle]的成立大约是在 1924 年，但我不记得是在那一年的春天还是秋天。是数学家库尔特·赖德迈斯特教授首次提出了对《论述》的阐释，他（与汉、施利克和诺拉特一起）在这一最初的阐释中最为活跃。我自己曾阅读过《论述》的第一版发表于奥斯瓦尔德的《自然哲学年鉴》（我记得是 1922 年），但那时我还是一个非常年轻的学生，我将维特根斯坦视为直觉天才和精神分裂症的奇特混合体。（摘自 Stadler 1997，第 233 页）
 
 然而，阅读维特根斯坦的《论哲学的哲学》只是圈子内讨论的众多话题之一。根据费格尔的说法，“我们大约 60%的时间致力于数学基础问题，其余时间用于科学哲学和认识论”（同上）。在 1926 年至 1928 年期间，（手稿版的）鲁道夫·卡尔纳普的《世界的逻辑结构》的阅读主导了讨论。
 
@@ -56,7 +55,7 @@
 
 费格尔的多元贡献表明，逻辑经验主义和科学实在论并不是系统上的对立。受到他的老师施利克早期的“批判”实在论的影响，费格尔（像赖兴巴赫和埃诺·凯拉一样）主张在调和这两种立场方面，即，他试图将逻辑经验主义方法与科学实在论对理论上假设的实体的解释相结合（参见，此处还有 Neuber 2012，特别是第 45-51 页，尤其是 Neuber 2018b，第 5 章）。
 
-首先，在他们 1931 年的文章《逻辑实证主义：欧洲哲学中的新运动》中，费格尔和布伦伯格将逻辑实证主义方法呈现为两个“重要传统”的综合（费格尔/布伦伯格 1931 年，第 281 页）：欧洲哲学中的经典“实证主义-经验主义”潮流，以及现代（数学）逻辑的发展。根据费格尔和布伦伯格，这个新兴“新运动”的最显著特征是将形而上学命题视为“无意义”（同上，第 282 页）。这一诊断也适用于康德关于综合先验判断的描述，其存在性明确受到质疑。然而，必须看到费格尔从未像拒绝分析/综合区分本身那样走得那么远。正如他后来反对奎因所说，“反对分析和综合的二元论的叛乱建立在对（人为固定）语言的逻辑分析与（不断增长、变化的自然）语言的历史调查的混淆之上”（费格尔 1956 年，第 7-8 页）。因此，在逻辑实证主义的描述中，分析命题必须与综合命题明显区分开来。而后者在经验和经验科学中有其位置，前者属于逻辑和数学。更确切地说，费格尔和布伦伯格同意维特根斯坦的观点，即逻辑本质上是纯粹重言。它与经验无关，只与语言的内部结构有关。在这里，他们看到了与以往传统经验主义逻辑和数学描述相比的主要优势。此外，费格尔和布伦伯格认为，即使是经验科学的概念也可以被纯粹形式的逻辑重建。依靠“知识适当性”（Erkenntnis）和客观性，一方面，以及“直接经验”（Erlebnis）和主观性，另一方面，他们将读者引向卡尔纳普的《世界的逻辑结构》，从而暗示通过“纯粹逻辑操作”（费格尔/布伦伯格 1931 年，第 286 页）至少可以看到从单一原始关系“相似性记忆”构建经验概念的可能性。在这一联系中的关键点是，经验科学的命题应该能够被翻译成一系列仅涉及经验结构特征而不涉及经验本身（被认为完全主观且因此“私人”的）的命题。因此，结构成为了对经验知识的重建的焦点。根据费格尔和布伦伯格，知识被定义为“可传达的”（同上），“知识传达的是结构[...]”（同上）。
+首先，在他们 1931 年的文章《逻辑实证主义：欧洲哲学中的新运动》中，费格尔和布伦伯格将逻辑实证主义方法呈现为两个“重要传统”的综合（费格尔/布伦伯格 1931 年，第 281 页）：欧洲哲学中的经典“实证主义-经验主义”潮流，以及现代（数学）逻辑的发展。根据费格尔和布伦伯格，这个新兴“新运动”的最显著特征是将形而上学命题视为“无意义”（同上，第 282 页）。这一诊断也适用于康德关于综合先验判断的描述，其存在性明确受到质疑。然而，必须看到费格尔从未像拒绝分析/综合区分本身那样走得那么远。正如他后来反对奎因所说，“反对分析和综合的二元论的叛乱建立在对（人为固定）语言的逻辑分析与（不断增长、变化的自然）语言的历史调查的混淆之上”（费格尔 1956 年，第 7-8 页）。因此，在逻辑实证主义的描述中，分析命题必须与综合命题明显区分开来。而后者在经验和经验科学中有其位置，前者属于逻辑和数学。更确切地说，费格尔和布伦伯格同意维特根斯坦的观点，即逻辑本质上是纯粹重言。它与经验无关，只与语言的内部结构有关。在这里，他们看到了与以往传统经验主义逻辑和数学描述相比的主要优势。此外，费格尔和布伦伯格认为，即使是经验科学的概念也可以被纯粹形式的逻辑重建。依靠“知识适当性”（Erkenntnis）和客观性，一方面，以及“直接经验”（Erlebnis）和主观性，另一方面，他们将读者引向卡尔纳普的《世界的逻辑结构》，从而暗示通过“纯粹逻辑操作”（费格尔/布伦伯格 1931 年，第 286 页）至少可以看到从单一原始关系“相似性记忆”构建经验概念的可能性。在这一联系中的关键点是，经验科学的命题应该能够被翻译成一系列仅涉及经验结构特征而不涉及经验本身（被认为完全主观且因此“私人”的）的命题。因此，结构成为了对经验知识的重建的焦点。根据费格尔和布伦伯格，知识被定义为“可传达的”（同上），“知识传达的是结构\[...]”（同上）。
 
 几年后，费格尔（赫伯特·费格尔）相当显著地修改了他的观点。或者，正如他自己所报道的：
 
@@ -80,7 +79,7 @@
 
 在另一个地方，他评论道：
 
-> 语义现实主义，如我所希望看到的理解，之所以摆脱了形而上学的危险，恰恰是因为它对我们理论构建的指称的本质并没有规定任何事情。[...] 事物是什么，将永远是——就我们能够有意义地谈论它们而言——它们可以被确认地认识为什么样；而要告诉我们事物“真正”是什么样，取决于科学的进步，而不是逻辑和符号分析。但逻辑分析的任务是告诉我们，通过我们语言的规则，我们描述我们知识的对象，以及[...]我们所说的可知之余的多余是什么意思。(1950b, p. 192)
+> 语义现实主义，如我所希望看到的理解，之所以摆脱了形而上学的危险，恰恰是因为它对我们理论构建的指称的本质并没有规定任何事情。\[...] 事物是什么，将永远是——就我们能够有意义地谈论它们而言——它们可以被确认地认识为什么样；而要告诉我们事物“真正”是什么样，取决于科学的进步，而不是逻辑和符号分析。但逻辑分析的任务是告诉我们，通过我们语言的规则，我们描述我们知识的对象，以及\[...]我们所说的可知之余的多余是什么意思。(1950b, p. 192)
 
 赫伯特·费格尔回应了他的逻辑实证主义同事菲利普·弗兰克、卡尔·古斯塔夫·亨普尔和欧内斯特·纳格尔提出的批评（背景是关于费格尔的“存在假设”讨论的座谈会）。例如，亨普尔认为，理论术语的指称概念“是不必要的”，因为“可以通过费格尔自己的事实指称标准来消除”（Hempel 1950b, p. 173），即理论陈述与观察句之间的系统相互关系。同样，弗兰克提出反对意见，认为“在引入真值条件之后，‘语义现实主义’语言中的陈述不再能与‘句法实证主义’语言中的陈述区分开来”（Frank 1950, p. 167）。纳格尔也提出了类似的观点，认为费格尔过分依赖可证实性，完全停留在‘接受的’逻辑实证主义议程中，因此他所谈到的‘现实主义’应被视为没有任何独特性质。根据纳格尔，“费格尔在追求一种没有区别的区分”（Nagel 1950, p. 179）。
 
@@ -92,7 +91,7 @@
 
 费格尔的同一性理论版本并非没有前驱。甚至有人认为：“在 19 世纪德国和奥地利哲学的背景下看，费格尔的方法既不新颖也不大胆；他只是复兴了一种曾经是主流话题后来变得不合时宜的传统；确切地说，他修改并详细阐述了一个特定的传统立场”（Heidelberger 2003，第 234 页）。这可能有些夸张，但几乎可以肯定的是，费格尔在处理心灵-身体问题时，又一次致力于阿洛伊斯·里尔的批判现实主义观点（参见 Riehl 1879, 1881, 1887; 还有 Röd 2001），尤其是早期（维也纳前）的施利克（参见 Moritz Schlick 的条目）。正如费格尔自己经常指出的那样，正是早期施利克的“双重知识”或“双重语言”理论对他自己的方法产生了最大的影响（例如，参见 Feigl 1981，第 288 页）。简言之，施利克在他的《知识的一般理论》（1918 年；1925 年）中论证了心理和物理之间的差异是两个概念系统之间的差异，而不是现实的两个领域之间的差异。换句话说，这是一个认识论问题，而不是一个形而上学问题（参见 Schlick 1974，第 300 页）。根据施利克的观点，“直接经验的现实与物理大脑过程之间的关系不再是因果依赖关系，而是简单的同一性。我们拥有的是同一现实，不是‘从两个不同的角度看’或‘以两种不同形式展现’，而是由两种不同的概念系统指定，即心理和物理”（同上，第 299 页）。正是这种思路使费格尔坚信“心灵-身体问题不是伪问题”（Feigl 1981，第 349 页）。
 
-赫伯特·费格尔认为，一个详细阐述的身份理论需要回答的基本问题是：“[H]原始感觉如何与行为（或神经生理）状态相关？”（1967 年，第 5 页）。通过这种方式提出问题，费格尔排除了对心灵-身体问题的还原解决方案。更确切地说，他与“还原主义谬误”（1981 年，第 16 页）和激进行为主义相分离。另一方面，费格尔渴望将自己的立场与明显受到形而上启发的二元论观念（如平行主义或表观现象主义）区分开来。他明确选择了“一元解决方案”，认为二元论立场会导致“现实的复制”（1967 年，第 94 页）无法根据，而科学上确立的简约原则“确实反对操作主义倾向，即在完全相关但在质上异质的证据事实中谈论两个（或更多）概念”（同上）。
+赫伯特·费格尔认为，一个详细阐述的身份理论需要回答的基本问题是：“\[H]原始感觉如何与行为（或神经生理）状态相关？”（1967 年，第 5 页）。通过这种方式提出问题，费格尔排除了对心灵-身体问题的还原解决方案。更确切地说，他与“还原主义谬误”（1981 年，第 16 页）和激进行为主义相分离。另一方面，费格尔渴望将自己的立场与明显受到形而上启发的二元论观念（如平行主义或表观现象主义）区分开来。他明确选择了“一元解决方案”，认为二元论立场会导致“现实的复制”（1967 年，第 94 页）无法根据，而科学上确立的简约原则“确实反对操作主义倾向，即在完全相关但在质上异质的证据事实中谈论两个（或更多）概念”（同上）。
 
 费格尔对心灵-身体问题的解决方案可能确实被视为对先前由施利克提出的“双语言”概念的直接延续。就像在现实主义问题上一样，费格尔试图对施利克最初观点进行语义上更复杂的修订。甚至可以进一步说，费格尔在这方面所使用的术语是完全相同的。因此，就像在现实主义问题上一样，费格尔明确区分了各自知识主张的证据（或确认性）基础与事实参照（或内容）。费格尔写道：
 
@@ -106,7 +105,7 @@
 
 > 这种观点并不具有斯宾诺莎主义学说中未知或不可知的第三种观点的缺点，其中心理和物理是其方面。 “心理”状态或事件（以原始感受的意义）是内省语言的现象术语的指称物，也是神经生理语言的某些术语的指称物。因此，我在先前的出版物中将我的观点称为“双语言理论”。（同上，第 79-80 页）
 
-费格尔版本的双语理论中有两个特点需要注意。首先，必须看到对于费格尔来说，感觉质（原始感受）是—认识论上—基本的现实。在他的构想中，我们对这种基本现实有特权访问，因此（正如费格尔在《“心理”与“物理”后记中指出的那样）“以自我为中心的描述”（同上，第 155 页）必须被视为最直接的接触现实的方式，而“所有科学描述[…]只是间接和结构性地处理存在”（同上；另见费格尔 1981 年，第 17 页和 351 页）。对于费格尔来说，对感觉质（如看到红色、感到疼痛等）的特权访问伴随着使用指示性术语（如“这里”、“现在”、“我”等），这些术语又构成“私人”（以自我为中心）语言的一部分，并在纯语用学的元语言学学科的背景下进行系统分析（参见费格尔 1967 年，第 147 页）。因此，在费格尔看来，“我必须能够‘熟悉地’了解一些现象质和关系（红色、之间性等），以便将我的私人语言‘连接’（即联系）到科学的交互语言”（同上）。同时，他认为用交互主观科学（神经生理学）术语描述私人心理状态没有问题。费格尔写道，“私密性”能够被公开（交互主观）描述，交互主观科学的对象可以通过私人经验的数据证明（同上，第 81 页）。毕竟，费格尔坚信“以主观方式理解的直接（第一人称）经验的不可或缺性”（费格尔 1981 年，第 353 页），这一方面意味着明确反对路德维希·维特根斯坦对私人语言可能性的论据（参见费格尔 1981 年，第 355 页），另一方面与澳大利亚人‘解释掉’心理状态的现象特性的策略形成显著对比（在这方面，参见 Stubenberg 1997 年，第 135–136 页）。对于费格尔通过认识论特权化感觉质而陷入普心论陷阱的可能反对意见可以通过这样的论据予以反驳，即实际上，“一切现实‘基本上是定性的’”（Stubenberg 1997 年，第 143 页）。因此，不仅心理状态，而且各种物理量（如质量、压力、重力场强度等）仅通过其定性特征可区分（参见费格尔 1967 年，第 43–44 页；另见 Schlick 1974 年，第 283–285 页）。但这并不意味着所有现实都像普心论所说的那样，本质上是心灵的。感觉质是现实的一部分，但现实包括的不仅仅是感觉质。关键在于感觉质（原始感受）在费格尔看来在认识论上比普通对象和科学所假定的实体具有特权。“对自己的直接经验的参照”，费格尔（以明显的施利克风格）写道，“是我们语言中所有对象、属性或关系的指称的（认识论）原型”（1981 年，第 355 页）。
+费格尔版本的双语理论中有两个特点需要注意。首先，必须看到对于费格尔来说，感觉质（原始感受）是—认识论上—基本的现实。在他的构想中，我们对这种基本现实有特权访问，因此（正如费格尔在《“心理”与“物理”后记中指出的那样）“以自我为中心的描述”（同上，第 155 页）必须被视为最直接的接触现实的方式，而“所有科学描述\[…]只是间接和结构性地处理存在”（同上；另见费格尔 1981 年，第 17 页和 351 页）。对于费格尔来说，对感觉质（如看到红色、感到疼痛等）的特权访问伴随着使用指示性术语（如“这里”、“现在”、“我”等），这些术语又构成“私人”（以自我为中心）语言的一部分，并在纯语用学的元语言学学科的背景下进行系统分析（参见费格尔 1967 年，第 147 页）。因此，在费格尔看来，“我必须能够‘熟悉地’了解一些现象质和关系（红色、之间性等），以便将我的私人语言‘连接’（即联系）到科学的交互语言”（同上）。同时，他认为用交互主观科学（神经生理学）术语描述私人心理状态没有问题。费格尔写道，“私密性”能够被公开（交互主观）描述，交互主观科学的对象可以通过私人经验的数据证明（同上，第 81 页）。毕竟，费格尔坚信“以主观方式理解的直接（第一人称）经验的不可或缺性”（费格尔 1981 年，第 353 页），这一方面意味着明确反对路德维希·维特根斯坦对私人语言可能性的论据（参见费格尔 1981 年，第 355 页），另一方面与澳大利亚人‘解释掉’心理状态的现象特性的策略形成显著对比（在这方面，参见 Stubenberg 1997 年，第 135–136 页）。对于费格尔通过认识论特权化感觉质而陷入普心论陷阱的可能反对意见可以通过这样的论据予以反驳，即实际上，“一切现实‘基本上是定性的’”（Stubenberg 1997 年，第 143 页）。因此，不仅心理状态，而且各种物理量（如质量、压力、重力场强度等）仅通过其定性特征可区分（参见费格尔 1967 年，第 43–44 页；另见 Schlick 1974 年，第 283–285 页）。但这并不意味着所有现实都像普心论所说的那样，本质上是心灵的。感觉质是现实的一部分，但现实包括的不仅仅是感觉质。关键在于感觉质（原始感受）在费格尔看来在认识论上比普通对象和科学所假定的实体具有特权。“对自己的直接经验的参照”，费格尔（以明显的施利克风格）写道，“是我们语言中所有对象、属性或关系的指称的（认识论）原型”（1981 年，第 355 页）。
 
 根据费格尔对同一性理论的看法，需要注意的第二点是，对心理（原始感受）和物理（神经过程）的同一性的确认方式具有经验性特征。费格尔在 1934 年首次发表有关心灵-身体问题的著作中假定，心理和物理之间的关系是逻辑同一性（由此暗示心理学的语言可以完全翻译成物理学的语言，即神经生理学），但在后来的著作中，他不再将该同一性看作是逻辑上必要的，而是作为一种经验性（偶然性）的同一性。这意味着，首先，哲学上勾画的一元论的证实不再需要通过哲学分析，而是需要由事实科学本身提供。“总的来说，”费格尔得出结论：
 
@@ -128,7 +127,7 @@
 
 科学人道主义总体上旨在避免极端。根据费格尔的说法，它被认为是“在道德观念上相对主义者和绝对主义者之间的一个可取的中间立场”（1981 年，第 417 页）。与相对主义相比，它假定某些基本的人类价值，如正义、公平或平等，是普遍适用的。然而，与（例如康德的）绝对主义相反，同时也假定这些价值与人类利益相关，因此在经验上是可变的。它们“可能源自人类在社会背景中的自然发展”（同上，第 420 页），只能通过实用主义（通过辩护）来进行合理化。但是，费格尔坚持认为，这并不意味着它们是任意的：“如果我们深入探讨人类本性，我们会发现在某些社会背景下，某些道德理想是不可避免地实现的”（同上，第 418 页）。在“科学启蒙时代”（同上，第 420 页），对世界持道德上的不关心甚至愤世嫉俗的观点是不合适的：“心理学指向必须被满足的人类需求和利益。在社会背景下，如果我们要作为一个社会生存下去，就必须遵守某些交通规则。因此，我们有正义和平等的理想。”（同上）科学人道主义总体上旨在避免极端。根据赫伯特·费格尔的说法，它被认为是“在道德观念上相对主义者和绝对主义者之间的一个可取的中间立场”（1981 年，第 417 页）。与相对主义相比，它假定某些基本的人类价值，如正义、公平或平等，是普遍适用的。然而，与（例如康德的）绝对主义相反，同时也假定这些价值与人类利益相关，因此在经验上是可变的。它们“可能源自人类在社会背景中的自然发展”（同上，第 420 页），只能通过实用主义（通过辩护）来进行合理化。但是，费格尔坚持认为，这并不意味着它们是任意的：“如果我们深入探讨人类本性，我们会发现在某些社会背景下，某些道德理想是不可避免地实现的”（同上，第 418 页）。在“科学启蒙时代”（同上，第 420 页），对世界持道德上的不关心甚至愤世嫉俗的观点是不合适的：“心理学指向必须被满足的人类需求和利益。在社会背景下，如果我们要作为一个社会生存下去，就必须遵守某些交通规则。因此，我们有正义和平等的理想。”（同上）
 
-费格尔对人类和世界的广义自然主义观点，以及（自由化的）逻辑实证主义意义标准，导致了一种建设性但同时批判性的对待宗教的态度。可以肯定的是，费格尔并没有否认宗教经验的存在（参见，例如，费格尔 1981，399–400）。但他“没有看到[…]接受任何神学的最小理由”（同上，第 399 页）。尽管费格尔认为一些神学教义是“完全有意义的”（同上，第 13 页），但他将它们看作是虚假的（或者极不可能的）。费格尔进一步认为，“去神话化”（或现代化）的神学选项（蒂利希，布尔特曼，邦霍费尔等）“不再是神学；它简化为一种道德信息，通过寓言性但基本上是劝诫、安慰、启迪或坚定的语言来表达”（同上，第 406 页）。另一方面，根据费格尔的观点，通过接受科学人道主义，我们能够“采纳没有超自然基础或超自然制裁的伦理学”（同上，第 405 页）。宗教经验则可以用纯粹自然主义的术语来解释。它们并不作为科学或日常解释人类行为的基础。相反，它们本身是科学解释的对象。或者用费格尔自己的话来说：“为了解释宗教经验的现象，我们不需要神学式的推理。文化和道德传统以及心理学的影响可以提供一个非常合理的自然主义解释。正如伏尔泰曾经说过的，如果上帝不存在，他就必须被创造出来。”（同上，第 415–416 页）
+费格尔对人类和世界的广义自然主义观点，以及（自由化的）逻辑实证主义意义标准，导致了一种建设性但同时批判性的对待宗教的态度。可以肯定的是，费格尔并没有否认宗教经验的存在（参见，例如，费格尔 1981，399–400）。但他“没有看到\[…]接受任何神学的最小理由”（同上，第 399 页）。尽管费格尔认为一些神学教义是“完全有意义的”（同上，第 13 页），但他将它们看作是虚假的（或者极不可能的）。费格尔进一步认为，“去神话化”（或现代化）的神学选项（蒂利希，布尔特曼，邦霍费尔等）“不再是神学；它简化为一种道德信息，通过寓言性但基本上是劝诫、安慰、启迪或坚定的语言来表达”（同上，第 406 页）。另一方面，根据费格尔的观点，通过接受科学人道主义，我们能够“采纳没有超自然基础或超自然制裁的伦理学”（同上，第 405 页）。宗教经验则可以用纯粹自然主义的术语来解释。它们并不作为科学或日常解释人类行为的基础。相反，它们本身是科学解释的对象。或者用费格尔自己的话来说：“为了解释宗教经验的现象，我们不需要神学式的推理。文化和道德传统以及心理学的影响可以提供一个非常合理的自然主义解释。正如伏尔泰曾经说过的，如果上帝不存在，他就必须被创造出来。”（同上，第 415–416 页）
 
 赫伯特·费格尔的科学人道主义还有三点需要评论。首先，费格尔早期与美国一神论的关联；其次，他参与美国人文主义协会；第三，他在罗伊·伍德·塞拉斯在该领域的贡献中对科学人道主义的呼吁背景。
 
@@ -162,107 +161,107 @@
 
 A fuller bibliography can be found in Feigl 1981.
 
-* 1927, *Zufall und Gesetz*, in *Wissenschaftlicher Jahresbericht der Philosophischen Gesellschaft zu Wien*, Wien: Verlag der Philosophischen Gesellschaft an der Universität zu Wien.
-* 1929, *Theorie und Erfahrung in der Physik*, Karlsruhe: G. Braun.
-* 1931, [with Albert E. Blumberg] “Logical Positivism: A New Movement in European Philosophy”, *The Journal of Philosophy*, 17: 281–296.
-* 1934, “The Logical Analysis of the Psycho-Physical Problem”, *Philosophy of Science*, 1: 420–445.
-* 1936, “Sense and Nonsense in Scientific Realism”, in *Langage et pseudo-problèmes* (*Actes du Congrès international de philosophie scientifique*: Volume 3), Paris: Hermann, pp. 50–56.
-* 1939, “Moritz Schlick”, *Erkenntnis*, 7: 393–419.
-* 1943, “Logical Empiricism”, in D.D. Runes (ed.), *Twentieth Century Philosophy*, New York: Philosophical Library, pp. 371–416. Reprinted in Feigl and Sellars (1949), pp. 3–26.
-* 1949, [co-edited with Wilfrid Sellars] *Readings in Philosophical Analysis*, New York: Appleton-Century-Crofts.
-* 1950a, “Existential Hypotheses: Realistic versus Phenomenalistic Interpretations”, *Philosophy of Science*, 17: 35–62. Reprinted in Feigl (1981), pp. 192–223
-* 1950b, “Logical reconstruction, Realism and Pure Semiotic”, *Philosophy of Science*, 17: 186–195. Reprinted in Feigl (1981), pp. 224–236
-* 1950c, “De Principiis non Disputandum …? On the Meaning and the Limits of Justification”, in: M. Black (ed.), *Philosophical Analysis*, New York: Cornell University Press, pp. 119–156. Reprinted in Feigl (1981), pp. 237–268.
-* 1950d, “The Mind-Body Problem in the Development of Logical Empiricism”, *Revue Internationale de Philosophie*, 4: 64–83. Reprinted in Feigl (1981), pp. 286–301.
-* 1951, “Confirmability and Confirmation”, in *Revue International de Philosophie*, 5: 268–279.
-* 1952, “Validation and Vindication: An Analysis of the Nature and the Limits of Ethical Arguments”, in: W. Sellars and J. Hospers (eds.), *Readings in Ethical Theory*, New York: Appleton-Century-Crofts, pp. 667–680. Reprinted in Feigl (1981), pp. 378–392.
-* 1953, [co-edited with May Brodbeck] *Readings in the Philosophy of Science*, New York: Appleton-Century-Crofts.
-* 1954, “Scientific Method without Metaphysical Presuppositions”, *Philosophical Studies*, 5: 17–31. Reprinted in Feigl (1981), pp. 95–106.
-* 1956, “Some Major Issues and Developments in the Philosophy of Science of Logical Empiricism”, in H. Feigl and M. Scriven (eds.), *The Foundations of Science and the Concepts of Psychology and Psychoanalysis* (Minnesota Studies in the Philosophy of Science: Volume 1), Minneapolis: University of Minnesota Press, pp. 3–37.
-* 1957, “Empiricism versus Theology”, in A. Pap and P. Edwards (eds.), *A Modern Introduction to Philosophy*, Glencoe, Illinois: The Free Press, pp. 533–538.
-* 1960, “Mind-Body, Not a Pseudoproblem”, in S. Hook (ed.), *Dimensions of Mind*, New York: New York University Press, pp. 24–36. Reprinted in Feigl (1981), pp. 342–350.
-* 1963a, “Physicalism, Unity of Science and the Foundations of Psychology”, in P.A. Schilpp (ed.), *The Philosophy of Rudolf Carnap* (The Library of Living Philosopher: Volume XI), La Salle, Illinois: Open Court, pp. 227–267. Reprinted in Feigl (1981), pp. 302–341.
-* 1963b, “Modernized Theology and the Scientific Outlook”, in *The Humanist*, 23: 74–80.
-* 1966, “Is Science Relevant to Theology?”, in *Zygon*, 1: 191–199. Reprinted in Feigl (1981), pp. 399–407.
-* 1967, *The “Mental” and the “Physical”: The Essay and a Postscript*, Minneapolis: University of Minnesota Press.
-* 1969a, “The *Wiener Kreis* in America”, in D. Fleming and B. Bailyn (eds.), *The Intellectual Migration 1930–1960*, Cambridge, MA: Harvard University Press, pp. 630–673. Reprinted in Feigl (1981), pp. 57–94.
-* 1969b, “Ethics, Religion and Scientific Humanism”, in P. Kurtz (ed.), *Moral Problems in Contemporary Society*, Englewood Cliffs, N.J.: Prentice-Hall, pp. 48–64. Reprinted in Feigl (1981), pp. 408–421.
-* 1970, “Memorial Minute: Rudolf Carnap”, in *Proceedings and Addresses of the American Philosophical Association*, 44: 204–205.
-* 1971, “Homage to Rudolf Carnap”, in R.C. Buck and R.S. Cohen (eds.), in *Proceedings of the Philosophy of Science Association, Biennial Meeting, 1970* (Boston Studies in the Philosophy of Science: Volume VIII), pp. xi–xv.
-* 1972, [co-edited with Wilfrid Sellars and Keith Lehrer] *New Readings in Philosophical Analysis*, New York: Appleton-Century-Crofts.
-* 1973, “Positivism in the 20th Century (Logical Empiricism)”, in P.P. Wiener (ed.), *Dictionary of the History of Ideas* (Volume 3), New York: Charles Scribner’s Sons, pp. 545–551
-* 1974, “No Pot of Message”, in: P. Bertocci (ed.), *Mind-Twentieth Century Philosophy: Personal Statements*, New York: Humanities Press, pp. 1–20.
-* 1975, “Russell and Schlick: A Remarkable Agreement on a Monistic Solution of the Mind-Body Problem”, *Erkenntnis*, 9: 11–34.
-* 1978, “Positivism and Logical Empiricism”, *Encyclopedia Britannica*, 15th edition, Chicago: Encyclopaedia Britannica, Inc.
-* 1981, *Inquiries and Provocations: Selected Writings, 1927–1974*, Robert S. Cohen (ed.), Dordrecht, Boston, London: Reidel.
+* 1927, _Zufall und Gesetz_, in _Wissenschaftlicher Jahresbericht der Philosophischen Gesellschaft zu Wien_, Wien: Verlag der Philosophischen Gesellschaft an der Universität zu Wien.
+* 1929, _Theorie und Erfahrung in der Physik_, Karlsruhe: G. Braun.
+* 1931, \[with Albert E. Blumberg] “Logical Positivism: A New Movement in European Philosophy”, _The Journal of Philosophy_, 17: 281–296.
+* 1934, “The Logical Analysis of the Psycho-Physical Problem”, _Philosophy of Science_, 1: 420–445.
+* 1936, “Sense and Nonsense in Scientific Realism”, in _Langage et pseudo-problèmes_ (_Actes du Congrès international de philosophie scientifique_: Volume 3), Paris: Hermann, pp. 50–56.
+* 1939, “Moritz Schlick”, _Erkenntnis_, 7: 393–419.
+* 1943, “Logical Empiricism”, in D.D. Runes (ed.), _Twentieth Century Philosophy_, New York: Philosophical Library, pp. 371–416. Reprinted in Feigl and Sellars (1949), pp. 3–26.
+* 1949, \[co-edited with Wilfrid Sellars] _Readings in Philosophical Analysis_, New York: Appleton-Century-Crofts.
+* 1950a, “Existential Hypotheses: Realistic versus Phenomenalistic Interpretations”, _Philosophy of Science_, 17: 35–62. Reprinted in Feigl (1981), pp. 192–223
+* 1950b, “Logical reconstruction, Realism and Pure Semiotic”, _Philosophy of Science_, 17: 186–195. Reprinted in Feigl (1981), pp. 224–236
+* 1950c, “De Principiis non Disputandum …? On the Meaning and the Limits of Justification”, in: M. Black (ed.), _Philosophical Analysis_, New York: Cornell University Press, pp. 119–156. Reprinted in Feigl (1981), pp. 237–268.
+* 1950d, “The Mind-Body Problem in the Development of Logical Empiricism”, _Revue Internationale de Philosophie_, 4: 64–83. Reprinted in Feigl (1981), pp. 286–301.
+* 1951, “Confirmability and Confirmation”, in _Revue International de Philosophie_, 5: 268–279.
+* 1952, “Validation and Vindication: An Analysis of the Nature and the Limits of Ethical Arguments”, in: W. Sellars and J. Hospers (eds.), _Readings in Ethical Theory_, New York: Appleton-Century-Crofts, pp. 667–680. Reprinted in Feigl (1981), pp. 378–392.
+* 1953, \[co-edited with May Brodbeck] _Readings in the Philosophy of Science_, New York: Appleton-Century-Crofts.
+* 1954, “Scientific Method without Metaphysical Presuppositions”, _Philosophical Studies_, 5: 17–31. Reprinted in Feigl (1981), pp. 95–106.
+* 1956, “Some Major Issues and Developments in the Philosophy of Science of Logical Empiricism”, in H. Feigl and M. Scriven (eds.), _The Foundations of Science and the Concepts of Psychology and Psychoanalysis_ (Minnesota Studies in the Philosophy of Science: Volume 1), Minneapolis: University of Minnesota Press, pp. 3–37.
+* 1957, “Empiricism versus Theology”, in A. Pap and P. Edwards (eds.), _A Modern Introduction to Philosophy_, Glencoe, Illinois: The Free Press, pp. 533–538.
+* 1960, “Mind-Body, Not a Pseudoproblem”, in S. Hook (ed.), _Dimensions of Mind_, New York: New York University Press, pp. 24–36. Reprinted in Feigl (1981), pp. 342–350.
+* 1963a, “Physicalism, Unity of Science and the Foundations of Psychology”, in P.A. Schilpp (ed.), _The Philosophy of Rudolf Carnap_ (The Library of Living Philosopher: Volume XI), La Salle, Illinois: Open Court, pp. 227–267. Reprinted in Feigl (1981), pp. 302–341.
+* 1963b, “Modernized Theology and the Scientific Outlook”, in _The Humanist_, 23: 74–80.
+* 1966, “Is Science Relevant to Theology?”, in _Zygon_, 1: 191–199. Reprinted in Feigl (1981), pp. 399–407.
+* 1967, _The “Mental” and the “Physical”: The Essay and a Postscript_, Minneapolis: University of Minnesota Press.
+* 1969a, “The _Wiener Kreis_ in America”, in D. Fleming and B. Bailyn (eds.), _The Intellectual Migration 1930–1960_, Cambridge, MA: Harvard University Press, pp. 630–673. Reprinted in Feigl (1981), pp. 57–94.
+* 1969b, “Ethics, Religion and Scientific Humanism”, in P. Kurtz (ed.), _Moral Problems in Contemporary Society_, Englewood Cliffs, N.J.: Prentice-Hall, pp. 48–64. Reprinted in Feigl (1981), pp. 408–421.
+* 1970, “Memorial Minute: Rudolf Carnap”, in _Proceedings and Addresses of the American Philosophical Association_, 44: 204–205.
+* 1971, “Homage to Rudolf Carnap”, in R.C. Buck and R.S. Cohen (eds.), in _Proceedings of the Philosophy of Science Association, Biennial Meeting, 1970_ (Boston Studies in the Philosophy of Science: Volume VIII), pp. xi–xv.
+* 1972, \[co-edited with Wilfrid Sellars and Keith Lehrer] _New Readings in Philosophical Analysis_, New York: Appleton-Century-Crofts.
+* 1973, “Positivism in the 20th Century (Logical Empiricism)”, in P.P. Wiener (ed.), _Dictionary of the History of Ideas_ (Volume 3), New York: Charles Scribner’s Sons, pp. 545–551
+* 1974, “No Pot of Message”, in: P. Bertocci (ed.), _Mind-Twentieth Century Philosophy: Personal Statements_, New York: Humanities Press, pp. 1–20.
+* 1975, “Russell and Schlick: A Remarkable Agreement on a Monistic Solution of the Mind-Body Problem”, _Erkenntnis_, 9: 11–34.
+* 1978, “Positivism and Logical Empiricism”, _Encyclopedia Britannica_, 15th edition, Chicago: Encyclopaedia Britannica, Inc.
+* 1981, _Inquiries and Provocations: Selected Writings, 1927–1974_, Robert S. Cohen (ed.), Dordrecht, Boston, London: Reidel.
 
 ### Secondary Literature
 
-* Abelson, S.L., 1970, “A Refutation of Mind-Body Identity”, *Philosophical Studies*, 18: 85–90.
+* Abelson, S.L., 1970, “A Refutation of Mind-Body Identity”, _Philosophical Studies_, 18: 85–90.
 * Aune, B., 1966, “Feigl on the Mind-Body Problem”, in Feyerabend and Feigl (1966), pp. 17–39.
-* Carnap, R., 1928, *Der logische Aufbau der Welt*, Berlin: Weltkreis.
-* –––, 1936/37, “Testability and Meaning” (Parts 1 and 2), *Philosophy of Science*, 3: 419–91; 4: 1–40.
-* Carus, A.W., 2004, “Sellars, Carnap, and the Logical Space of Reasons”, in S. Awodey and C. Klein (eds.), *Carnap Brought Home: The View from Jena*, La Salle, Illinois: Open Court, pp. 317–335.
-* Epstein, F.L., 1973, “The Metaphysics of Mind-Body Identity Theories”, *American Philosophical Quarterly*, 10: 111–121.
-* Galison, P., 1990, “Aufbau/Bauhaus: Logical Positivism and Architectural Modernism”, *Critical Inquiry*, 16: 709–752.
-* Grünbaum, A., 1972, “Abelson on Feigl’s Mind-Body Identity Thesis”, *Philosophical Studies*, 23: 119–121.
+* Carnap, R., 1928, _Der logische Aufbau der Welt_, Berlin: Weltkreis.
+* –––, 1936/37, “Testability and Meaning” (Parts 1 and 2), _Philosophy of Science_, 3: 419–91; 4: 1–40.
+* Carus, A.W., 2004, “Sellars, Carnap, and the Logical Space of Reasons”, in S. Awodey and C. Klein (eds.), _Carnap Brought Home: The View from Jena_, La Salle, Illinois: Open Court, pp. 317–335.
+* Epstein, F.L., 1973, “The Metaphysics of Mind-Body Identity Theories”, _American Philosophical Quarterly_, 10: 111–121.
+* Galison, P., 1990, “Aufbau/Bauhaus: Logical Positivism and Architectural Modernism”, _Critical Inquiry_, 16: 709–752.
+* Grünbaum, A., 1972, “Abelson on Feigl’s Mind-Body Identity Thesis”, _Philosophical Studies_, 23: 119–121.
 * Feyerabend, P., 1966, “Herbert Feigl: A Biographical Sketch”, in Feyerabend and Maxwell (1966), pp. 3–13.
-* Feyerabend, P. and G. Maxwell (eds.), 1966, *Mind, Matter, and Method: Essays in Philosophy and Science in Honor of Herbert Feigl*, Minneapolis: University of Minnesota Press.
-* Frank, P., 1950, “Comments on Realistic versus Phenomenalistic Interpretations”, *Philosophy of Science*, 17: 166–168.
-* –––, 2021, *The Humanistic Background of Science*, G. A. Reisch and A. T. Tuboly (eds.), Albany: SUNY Press.
-* Geymonat, Ludovico, 1985, “Entwicklung und Kontinuität im Denken Schlicks”, in B. McGuiness (ed.), *Zurück zu Schlick. Eine Neubewertung von Werk und Wirkung*, Wien: Hölder-Pichler-Tempsky, pp. 24–31.
-* Heidelberger, M., 2003, “The Mind-Body Problem in the Origin of Logical Empiricism: Herbert Feigl and Psychophysical Parallelism”, in P. Parrini, W.C. Salmon, M.H. Salmon (eds.), *Logical Empiricism: Historical and Contemporary Perspectives*, Pittsburgh: University of Pittsburgh Press, pp. 232–262.
-* Hempel, C.G., 1935, “On the Logical Positivists’ Theory of Truth”, *Analysis*, 2: 49–59.
-* –––, 1945, “Studies in the Logic of Confirmation”, *Mind*, 54: 3–52.
-* –––, 1950a, “Problems and Changes in the Empiricist Criterion of Meaning”, *Revue Internationale de Philosophie*, 11: 41–63.
-* –––, 1950b, “A Note on Semantic Realism”, *Philosophy of Science*, 17: 169–173.
-* Kellerwessel, W., 2010, “Feigls naturalistische Moralkonzeption”, in A. Siegetsleitner (ed.), *Logischer Empirismus, Werte und Moral*: *Eine Neubewertung*, Wien/New York: Springer, pp. 177–195.
-* Kim, J., 1998, *Mind in A Physical World: An Essay on the Mind-Body Problem and Mental Causation*, Cambridge, MA: The MIT Press.
-* Kurtz, P., 1973, *Humanist Manifestos I and II*, Amherst: Prometheus.
-* –––, 1983, *A Secular Humanist Declaration*, Amherst: Prometheus.
-* Limbeck-Lilienau, C., 2010, “Rudolf Carnap und die Philosophie in Amerika, Logischer Empirismus, Pragmatismus, Realismus”, in F. Stadler (ed.), *Vertreibung, Transformation und Rückkehr der Wissenschaftstheorie: Am Beispiel von Rudolf Carnap und Wolfgang Stegmüller*, Wien & Berlin: LIT, pp. 85–164.
+* Feyerabend, P. and G. Maxwell (eds.), 1966, _Mind, Matter, and Method: Essays in Philosophy and Science in Honor of Herbert Feigl_, Minneapolis: University of Minnesota Press.
+* Frank, P., 1950, “Comments on Realistic versus Phenomenalistic Interpretations”, _Philosophy of Science_, 17: 166–168.
+* –––, 2021, _The Humanistic Background of Science_, G. A. Reisch and A. T. Tuboly (eds.), Albany: SUNY Press.
+* Geymonat, Ludovico, 1985, “Entwicklung und Kontinuität im Denken Schlicks”, in B. McGuiness (ed.), _Zurück zu Schlick. Eine Neubewertung von Werk und Wirkung_, Wien: Hölder-Pichler-Tempsky, pp. 24–31.
+* Heidelberger, M., 2003, “The Mind-Body Problem in the Origin of Logical Empiricism: Herbert Feigl and Psychophysical Parallelism”, in P. Parrini, W.C. Salmon, M.H. Salmon (eds.), _Logical Empiricism: Historical and Contemporary Perspectives_, Pittsburgh: University of Pittsburgh Press, pp. 232–262.
+* Hempel, C.G., 1935, “On the Logical Positivists’ Theory of Truth”, _Analysis_, 2: 49–59.
+* –––, 1945, “Studies in the Logic of Confirmation”, _Mind_, 54: 3–52.
+* –––, 1950a, “Problems and Changes in the Empiricist Criterion of Meaning”, _Revue Internationale de Philosophie_, 11: 41–63.
+* –––, 1950b, “A Note on Semantic Realism”, _Philosophy of Science_, 17: 169–173.
+* Kellerwessel, W., 2010, “Feigls naturalistische Moralkonzeption”, in A. Siegetsleitner (ed.), _Logischer Empirismus, Werte und Moral_: _Eine Neubewertung_, Wien/New York: Springer, pp. 177–195.
+* Kim, J., 1998, _Mind in A Physical World: An Essay on the Mind-Body Problem and Mental Causation_, Cambridge, MA: The MIT Press.
+* Kurtz, P., 1973, _Humanist Manifestos I and II_, Amherst: Prometheus.
+* –––, 1983, _A Secular Humanist Declaration_, Amherst: Prometheus.
+* Limbeck-Lilienau, C., 2010, “Rudolf Carnap und die Philosophie in Amerika, Logischer Empirismus, Pragmatismus, Realismus”, in F. Stadler (ed.), _Vertreibung, Transformation und Rückkehr der Wissenschaftstheorie: Am Beispiel von Rudolf Carnap und Wolfgang Stegmüller_, Wien & Berlin: LIT, pp. 85–164.
 * Meehl, P.E., 1966, “The Compleat Autocerebroscopist: A Thought-Experiment on Professor Feigl’s Min-Body Identity Thesis”, in Feyerabend and Maxwell (1966), pp. 103–180.
-* Nagel, E., 1950, “Science and Semantic Realism”, *Philosophy of Science*, 17: 174–181.
-* Nathanson, S.L., 1972, “Abelson’s Refutation of Mind-Body Identity”, *Philosophical Studies*, 23: 116–118.
-* Neuber, M., 2011, “Feigl’s ‘Scientific Realism’”, *Philosophy of Science*, 78: 165–183.
-* –––, 2012, “Realism as a Problem of Language – From Carnap to Reichenbach and Kaila”, in R. Creath (ed.), *Rudolf Carnap and the Legacy of Logical Empiricism* (Vienna Circle Institute Yearbook: Volume 16). Dordrecht/Heidelberg/New York/London, pp. 37–56.
-* –––, 2017, “Feigl, Sellars, and the Idea of a ’Pure Pragmatics’”, in S. Pihlström, F. Stadler and N. Weidtmann (eds.), *Logical Empiricism and Pragmatism*, Cham: Springer, pp. 125–137.
-* –––, 2018a, “Changing Places. Herbert Feigl über *The* Wiener Kreis *in America*”, in M. Beck and N. Coomann (eds.), *Historische Erfahrung und begriffliche Transformation: Deutschsprachoige Philosophie im Exil in den USA 1933–145*, Wien & Berlin: LIT, pp.100–114.   
-* –––, 2018b, *Der Realismus im logischen Empirismus. Eine Studie zur Geschichte der Wissenschaftsphilosophie*, Cham: Springer.
-* Psillos, S., 1999, *Scientific Realism: How Science Tracks Truth*, London: Routledge.
-* –––, 2011, “Choosing the Realist Framework”, *Synthese*, 180: 301–316.
-* Riehl, A., 1879, 1881, 1887, *Der philosophische Kritizismus und seine Bedeutung für die positive Wissenschaft. Geschichte und System*, 3 vols., Leipzig: Körner.
-* Röd, W., 2001, “Alois Riehl. Kritischer Realismus zwischen Transzendentalismus und Empirismus”, in T. Binder (ed.), *Bausteine zu einer Geschichte der Philosophie an der Universität Graz*, Amsterdam/New York: Rododpi, pp. 117–134.
-* Russell, B., 1914, *Our Knowledge of the External World*, London: Allen & Unwin.
-* Savage, C.W., 1988, “Herbert Feigl: 1902–1988”, in *Proceedings of the Biennial Meeting of the Philosophy of Science Association* (Volume 2: Symposia and Invited Papers), East Lansing, Mich.: Philosophy of Science Association, pp. 15–22.
-* Sellars, R. W., 1918, *The Next Step in Religion: An Essay toward the Coming Renaissance*, New York: MacMillan.
-* Sellars, W., 1947, “Pure Pragmatics and Epistemology”, *Philosophy of Science*, 14: 181–202.
-* Schlick, M., 1974, *General Theory of Knowledge*, translated by A.E. Blumberg, Wien/New York: Springer.
-* Siegetsleitner, A., 2014, *Ethik und Moral im Wiener Kreis. Zur Geschichte eines enagierten Humanismus*, Wien: Böhlau.
-* Smith, L.D., 1986, *Behaviorism and Logical Empiricism: A Reassessment of the Alliance*, Stanford: Stanford University Press.
-* Stadler, F., 1997, *Studien zum Wiener Kreis: Ursprung, Entwicklung und Wirkung des Logischen Empirismus im Kontext*, Frankfurt a.M.: Suhrkamp.
-* Stubenberg, L., 1997, “Austria vs. Australia: Two Versions of the Identity Theory”, in K. Lehrer and J.C. Marek (eds.), *Austrian Philosophy: Past and Present*, Dordrecht: Kluwer, pp. 125–146.
-* Sturma, D., 1998, “Reductionism in Exile? Herbert Feigl’s Identity Theory and the Mind-Body Problem”, *Grazer Philosophische Studien*, 54: 71–87.
-* Uebel, T., 2007, *Empiricism at the Crossroads: The Vienna Circle’s Protocol-Sentence Debate*, Chicago: Open Court.
-* –––, 2013, “‘Logical Positivism’ – ‘Logical Empiricism’: What’s in a Name?”, *Perspectives on Science*, 21: 58–99.
-* Zilsel, E., 1916, *Das Anwendungsproblem*, Leipzig: Barth.
+* Nagel, E., 1950, “Science and Semantic Realism”, _Philosophy of Science_, 17: 174–181.
+* Nathanson, S.L., 1972, “Abelson’s Refutation of Mind-Body Identity”, _Philosophical Studies_, 23: 116–118.
+* Neuber, M., 2011, “Feigl’s ‘Scientific Realism’”, _Philosophy of Science_, 78: 165–183.
+* –––, 2012, “Realism as a Problem of Language – From Carnap to Reichenbach and Kaila”, in R. Creath (ed.), _Rudolf Carnap and the Legacy of Logical Empiricism_ (Vienna Circle Institute Yearbook: Volume 16). Dordrecht/Heidelberg/New York/London, pp. 37–56.
+* –––, 2017, “Feigl, Sellars, and the Idea of a ’Pure Pragmatics’”, in S. Pihlström, F. Stadler and N. Weidtmann (eds.), _Logical Empiricism and Pragmatism_, Cham: Springer, pp. 125–137.
+* –––, 2018a, “Changing Places. Herbert Feigl über _The_ Wiener Kreis _in America_”, in M. Beck and N. Coomann (eds.), _Historische Erfahrung und begriffliche Transformation: Deutschsprachoige Philosophie im Exil in den USA 1933–145_, Wien & Berlin: LIT, pp.100–114.  &#x20;
+* –––, 2018b, _Der Realismus im logischen Empirismus. Eine Studie zur Geschichte der Wissenschaftsphilosophie_, Cham: Springer.
+* Psillos, S., 1999, _Scientific Realism: How Science Tracks Truth_, London: Routledge.
+* –––, 2011, “Choosing the Realist Framework”, _Synthese_, 180: 301–316.
+* Riehl, A., 1879, 1881, 1887, _Der philosophische Kritizismus und seine Bedeutung für die positive Wissenschaft. Geschichte und System_, 3 vols., Leipzig: Körner.
+* Röd, W., 2001, “Alois Riehl. Kritischer Realismus zwischen Transzendentalismus und Empirismus”, in T. Binder (ed.), _Bausteine zu einer Geschichte der Philosophie an der Universität Graz_, Amsterdam/New York: Rododpi, pp. 117–134.
+* Russell, B., 1914, _Our Knowledge of the External World_, London: Allen & Unwin.
+* Savage, C.W., 1988, “Herbert Feigl: 1902–1988”, in _Proceedings of the Biennial Meeting of the Philosophy of Science Association_ (Volume 2: Symposia and Invited Papers), East Lansing, Mich.: Philosophy of Science Association, pp. 15–22.
+* Sellars, R. W., 1918, _The Next Step in Religion: An Essay toward the Coming Renaissance_, New York: MacMillan.
+* Sellars, W., 1947, “Pure Pragmatics and Epistemology”, _Philosophy of Science_, 14: 181–202.
+* Schlick, M., 1974, _General Theory of Knowledge_, translated by A.E. Blumberg, Wien/New York: Springer.
+* Siegetsleitner, A., 2014, _Ethik und Moral im Wiener Kreis. Zur Geschichte eines enagierten Humanismus_, Wien: Böhlau.
+* Smith, L.D., 1986, _Behaviorism and Logical Empiricism: A Reassessment of the Alliance_, Stanford: Stanford University Press.
+* Stadler, F., 1997, _Studien zum Wiener Kreis: Ursprung, Entwicklung und Wirkung des Logischen Empirismus im Kontext_, Frankfurt a.M.: Suhrkamp.
+* Stubenberg, L., 1997, “Austria vs. Australia: Two Versions of the Identity Theory”, in K. Lehrer and J.C. Marek (eds.), _Austrian Philosophy: Past and Present_, Dordrecht: Kluwer, pp. 125–146.
+* Sturma, D., 1998, “Reductionism in Exile? Herbert Feigl’s Identity Theory and the Mind-Body Problem”, _Grazer Philosophische Studien_, 54: 71–87.
+* Uebel, T., 2007, _Empiricism at the Crossroads: The Vienna Circle’s Protocol-Sentence Debate_, Chicago: Open Court.
+* –––, 2013, “‘Logical Positivism’ – ‘Logical Empiricism’: What’s in a Name?”, _Perspectives on Science_, 21: 58–99.
+* Zilsel, E., 1916, _Das Anwendungsproblem_, Leipzig: Barth.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=feigl). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/feigl/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=feigl&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/feigl/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=feigl).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/feigl/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=feigl\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/feigl/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Herbert Feigl](http://en.wikipedia.org/wiki/Herbert_Feigl), entry in Wikipedia.
+* [Herbert Feigl](http://en.wikipedia.org/wiki/Herbert\_Feigl), entry in Wikipedia.
 * [History: Minnesota Center for the Philosophy of Science](http://www.mcps.umn.edu/about/history.html).
 
 ## Related Entries
 
-[Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [empiricism: logical](https://plato.stanford.edu/entries/logical-empiricism/) | mind-body | [mind/brain identity theory](https://plato.stanford.edu/entries/mind-identity/) | [Reichenbach, Hans](https://plato.stanford.edu/entries/reichenbach/) | [Schlick, Moritz](https://plato.stanford.edu/entries/schlick/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
+[Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [empiricism: logical](https://plato.stanford.edu/entries/logical-empiricism/) | mind-body | [mind/brain identity theory](https://plato.stanford.edu/entries/mind-identity/) | [Reichenbach, Hans](https://plato.stanford.edu/entries/reichenbach/) | [Schlick, Moritz](https://plato.stanford.edu/entries/schlick/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-Matthias Neuber <[*matthias.neuber@uni-tuebingen.de*](mailto:matthias%2eneuber%40uni-tuebingen%2ede)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+Matthias Neuber <[_matthias.neuber@uni-tuebingen.de_](mailto:matthias%2eneuber%40uni-tuebingen%2ede)>
