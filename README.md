@@ -6,7 +6,7 @@
 
 [在线预览](https://tphil.gitbook.io/sep/)
 
-[开源地址](https://tphil.gitbook.io/sep/)
+[开源地址](https://github.com/taophilosophy/SEP-CN)
 
 ## 词条说明
 
