@@ -1,2 +1,179 @@
 # 理查德·腓茨拉尔夫 FitzRalph, Richard (Michael W. Dunne)
 
+*首次发表于 2013 年 7 月 8 日星期一；实质性修订于 2019 年 3 月 27 日星期三*
+
+理查德·腓茨拉尔夫（1299-1360）被认为是那一代在 1330 年代初期在牛津崭露头角的杰出思想家中的佼佼者之一，甚至在他的有生之年就被视为领先的思想家之一。尽管他后来的名声主要是由于他的辩论著作，特别是关于贫困问题和对方济各会的攻击，但他被霍尔科特、沃德汉姆、威克里夫和里米尼的格里高利等思想家公认为一个重要的对话者。尽管他在教义倾向上被认为有些传统，但他在重新阐述阿奎那、亨利·冈特和邓斯·斯科托等思想家的论证时，尤其在无限、未来的偶然事件和意志与理智的关系等问题上，备受赞誉。他的著作是第一本由爱尔兰人印刷的书（作为早期印刷品），因此，例如，他关于统治的理论在 16 世纪仍在讨论中。
+
+* [ 1. 生平](https://plato.stanford.edu/entries/fitzralph/#Lif)
+* [ 2. 著作](https://plato.stanford.edu/entries/fitzralph/#Wri)
+* [3. 哲学史中的位置](https://plato.stanford.edu/entries/fitzralph/#PosHis)
+* [ 4. 自然哲学](https://plato.stanford.edu/entries/fitzralph/#Nat)
+* [5. 心理学与认知](https://plato.stanford.edu/entries/fitzralph/#PsyCog)
+
+  * [5.1 智力、记忆和意志的三位一体](https://plato.stanford.edu/entries/fitzralph/#MinTriIntMemWil)
+  * [ 5.2 种类理论](https://plato.stanford.edu/entries/fitzralph/#SpeThe)
+  * [5.3 意志及其与智力的关系](https://plato.stanford.edu/entries/fitzralph/#WilRelInt)
+* [6. 哲学神学](https://plato.stanford.edu/entries/fitzralph/#PhiThe)
+
+  * [6.1 证明上帝的存在](https://plato.stanford.edu/entries/fitzralph/#ProGodExi)
+  * [ 6.2 神的全能](https://plato.stanford.edu/entries/fitzralph/#DivOmn)
+  * [6.3 神圣的预知和未来的可能性](https://plato.stanford.edu/entries/fitzralph/#DivForFutCon)
+  * [6.4 预定和自由意志](https://plato.stanford.edu/entries/fitzralph/#PreFreWil)
+* [7. 伦理学和政治理论：Dominium](https://plato.stanford.edu/entries/fitzralph/#EthPolTheDom)
+* [ 参考文献](https://plato.stanford.edu/entries/fitzralph/#Bib)
+
+  * [ 主要来源](https://plato.stanford.edu/entries/fitzralph/#PriSou)
+  * [ 次要来源](https://plato.stanford.edu/entries/fitzralph/#SecSou)
+* [ 学术工具](https://plato.stanford.edu/entries/fitzralph/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/fitzralph/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/fitzralph/#Rel)
+
+---
+
+## 生活
+
+理查德·腓茨拉尔夫（Richard FitzRalph）大约在 1300 年前后出生于邓多克。虽然他不是盖尔人，但他的牛津同辈们称他为“Hibernicus”，就像前一代的盎格鲁-诺曼人爱尔兰的彼得（Petrus de Hibernia，约 1200 年-1265 年）一样。大约 15 岁时，他去了牛津（伊丽莎白一世统治之前，爱尔兰没有大学），在巴利奥尔学院（Balliol College）担任研究员，并在那里获得了硕士学位。后来，他去了大学学院（当时是大学堂），于 1331 年获得神学博士学位。他于 1332 年成为牛津大学校长，此后在英格兰和爱尔兰的教会事业上取得了成功。在他第一次访问阿维尼翁时，也就是在他讲授《句子》课程仅仅五年后，腓茨拉尔夫似乎被教皇本笃十二世请教，作为欧洲十八位主要神学家之一，纠正他的前任约翰二十二对于神圣幸福的看法。他于 1347 年成为阿马尔大主教。他最著名的是在关于福音贫困问题上反对行乞修会，并捍卫世俗神职人员的权益。正是在追求对行乞修会的诉讼期间，他于 1360 年在阿维尼翁去世。与奥卡姆、布拉德沃丁和伍德汉姆一起，腓茨拉尔夫成为 14 世纪最常被引用的四位岛屿神学家之一。
+
+## 2.著作
+
+腓茨拉尔夫是一位多产的作家，他成熟期的大部分作品都是神学或牧师性质的，或者是与反行乞争议有关的辩论性著作。虽然他也涉及一些诸如未来的偶然性（在《亚美尼亚问题总汇》中）或领地问题的主题，但我们必须回顾他早期的作品《关于句子的讲解》（1328-1329 年）才能找到更多哲学主题。腓茨拉尔夫还是一本（现已失传的）《物理学评论》的作者，这使他与理查德·基尔文顿发生了冲突。此外，一些曾被归属于腓茨拉尔夫的逻辑作品现在被归属于另一位亚马哈纳斯人约翰·福克斯霍尔斯（约翰·英格利希斯）（邓恩 2013b）。迄今为止对腓茨拉尔夫在《关于句子的讲解》中的思想的最全面的研究是戈登·莱夫（1963）的著作。莱夫的书对腓茨拉尔夫的思想给出了很好的概述，并且在引用文本本身方面非常慷慨。莱夫的研究表明，腓茨拉尔夫的《关于句子的讲解》并不完全涉及神学问题，或者至少只是间接涉及。例如，在处理关于世界的创造的神学问题时，讨论的焦点是腓茨拉尔夫在他对《物理学评论》中已经处理过的主题（如世界的永恒性）（邓恩 2008）。
+
+## 3. 哲学史上的地位
+
+尽管许多人认为腓茨拉尔夫后来背离了学院哲学（莱夫 1963：175），但这一观点已被 W.杜巴（杜巴 2013：104）驳斥。腓茨拉尔夫关于句子的讲解的讲座比一些作者（如莱夫）最初意识到的更为重要。莱夫认为腓茨拉尔夫的方法受到了从亨利·根特开始的新奥古斯丁主义运动的影响。莱夫对腓茨拉尔夫的总结相当消极，认为腓茨拉尔夫不愿深入参与当时的争议，并且满足于“重新陈述他的同时代人重新制定的观点”（莱夫 1963：175）。然而，这种评估让人想知道腓茨拉尔夫的思想中有什么让他的同时代人，如霍尔科特和沃德汉姆，以及后来的里米尼的格里高利和皮埃尔·达伊利，觉得如此具有挑战性。事实上，与莱夫的评估相反，最近的学术研究证实腓茨拉尔夫是当时牛津的主要代表之一，而牛津在某个时期曾一度超过巴黎大学的重要性。
+
+在哲学问题上，菲茨拉尔夫通常遵循亚里士多德，但是他将亚里士多德的观点始终通过他的评论家的视角来阅读。尽管在 1270 年代受到谴责，但菲茨拉尔夫认为阿维罗伊斯是亚里士多德的真正解释者，但这并不意味着菲茨拉尔夫是一个阿维罗伊斯主义者（正如一些人猜测的那样），而只是遵循当时的公认做法。例如，他并没有像人们预期的那样接受单一灵魂的教义，事实上他对这是否真是阿维罗伊斯的教义表示怀疑。当提到阿奎那时，菲茨拉尔夫对他表示尊重，并在一些重要问题上追随他的观点。也许出于某种国家忠诚，安瑟姆受到了重要的关注（尽管不是毫无保留的）。格罗斯特斯特也偶尔被提及。同样，正如人们所预期的那样，奥古斯丁在神学问题上是指导者，但菲茨拉尔夫并不满足于引用奥古斯丁的著作。事实上，他倾向于从奥古斯丁的著作中提供长篇引文，表明他进行了密切的个人阅读，这一点他与他的赞助人约翰·德·格兰迪森主教有共同之处。与后来的沃德汉姆或霍尔科特不同，菲茨拉尔夫没有提及当时的同代人，并且他们的贡献必须在他对每个主题的阐述中进行识别（正如菲茨拉尔夫自己的立场一样），这通常涉及对阿奎那、亨利·根特和邓斯·斯科特所给出的答案的审查。菲茨拉尔夫可能会觉得与亨利·根特的新奥古斯丁主义精神最为接近（尽管并不总是同意），然而在方法和途径上，他似乎更接近邓斯·斯科特。然而，他采用的技巧与他的同代人是共同的，正是这些技巧以及他的论证的高质量吸引了其他作家，直到雅克·阿尔曼和弗朗西斯科·德·维多利亚。
+
+在菲茨拉尔夫早期的著作中，比如《讲义》，几乎没有任何激进主义的证据，这些著作预示了他在 14 世纪 50 年代在阿维尼翁教皇宫对乞丐修会特权进行攻击的辩论。后来的菲茨拉尔夫是一个有社会意识的主教，在他的布道中谴责他的英爱听众对爱尔兰盖尔人的不公正对待。正是在这个背景下，他发展了关于领地的教义，这一教义通过他对威克里夫（Lahey 2003）的影响或者后来的作者如德·维多利亚（Dunne 2004: 243–58）对其的否定，产生了长期的影响。
+
+## 4. 自然哲学
+
+腓茨拉尔夫关于运动、时间和无限的观点是他的近代同行，尤其是沃德汉姆和霍尔科特，最经常引用他的话题（邓恩 2008 年）。看起来，沃德汉姆在腓茨拉尔夫的观点下改变了许多看法，特别是关于无限。在他的牛津讲义第三册中，沃德汉姆逐字逐句地跟随腓茨拉尔夫的立场，从而拒绝了他自己在第一册中曾经捍卫的立场。同样，里米尼的格雷戈里承认腓茨拉尔夫是牛津霍尔科特和沃德汉姆所持的无限普遍观点的来源，他重复了腓茨拉尔夫的论点，尽管是为了拒绝这个立场（考特尼 1987 年：76-8）。
+
+腓茨拉尔夫在《讲义》第二册第 1 题中探讨了这些话题：上帝在时间开始时是否从无中创造了世界。文本中更引人注目的特点之一是其主要的哲学色彩，以及相对缺乏神学材料。主要问题致力于世界永恒性的一般问题。腓茨拉尔夫首先提出了反对世界在时间开始的论点。其中之一是：如果上帝的力量始终如一，那么在世界被创造之前也是如此；因此，上帝总是可以从永恒中创造世界。因此，声明世界一直存在并没有矛盾。腓茨拉尔夫将这个立场归因于托马斯·阿奎那《真理之句注释》。事实上，他继续说，即使世界不是永恒的，我们也可以争辩说在未来上帝可能会这样做，因为他曾经可以做到的事情，他总是可以做到。换句话说，上帝仍然有能力创造一个一直存在的宇宙，就像上帝仍然有可能摧毁这个宇宙，或者再次创造其他一直存在的宇宙。
+
+另一个提出的众多论点之一是，如果在永恒存在的世界的概念中存在某种矛盾，那么这应该通过理性来展示。如果可以证明世界和时间在某一瞬间开始存在，那么过去的哲学家们就会证明它。腓茨拉尔夫引述亚里士多德在《论题》第一册中的话，即任一立场都是可能的，并且都可以进行论证，但没有一个立场可以被证明是决定性的。因此，腓茨拉尔夫得出结论，世界的从无中创造和从时间开始只能被视为信仰的一部分；事实上，如果不是这样的话，那么相信世界的创造就没有任何价值。
+
+在处理有关灵魂数量的无限相关问题时，腓茨拉尔夫讨论了无限的本质。他指出，世界的永恒并不一定意味着灵魂的无限，因为第一个人可以在某个时间点被创造出来，因此有有限数量的后代。此外，通过轮回转世，有限数量的灵魂可以在永恒的时间中不断重生。腓茨拉尔夫继续指出，有人说无限数量的灵魂在任何情况下都不是不可能的，或者至少不涉及矛盾，因为上帝可以一次创造出无限数量的灵魂、天使或者其他存在，或者他可以连续这样做，以便在某个未来的时间存在一个实际的无限，即使世界在某个时间点开始。
+
+再者，在每个物体中都存在着无限数量的比例部分（partes proportionales：这个术语是查顿的，后续处理的来源可能是沃德汉姆的《不可分割之物》），它们彼此完全不同（totaliter diverse）。因此，上帝可以一次创造出实际无限的东西，这对于灵魂、天使和物体都是如此。腓茨拉尔夫认为，在物理学第三卷和阿维罗伊斯的评论中，亚里士多德已经证明了在物体中存在无限数量的比例部分，每个部分都与其他部分不同。腓茨拉尔夫认为，在任何一条线上都可以争论存在无限数量的点，在任何一个平面上都有无限数量的线，在每个物体中都有无限数量的平面，然而每个部分都是不同的。
+
+腓茨拉尔夫继续他的论证，他指出，如果物体内部存在实际的无限，也就是说，它们可以无限地被划分，那么很明显上帝可以创造出无限数量的其他事物。因此，存在无限数量的人类灵魂并不矛盾。上帝不知道哪个是无限系列中的第一个和最后一个并不是因为上帝的无知，而是因为根本就没有第一个和最后一个。最后，他将听众引回到他在《物理学》评论中对这个主题的讨论，该评论现已失传。
+
+最后，腓茨拉尔夫对哲学和神学进行了有趣的区分。在第九个论证中，他讨论了安瑟姆在《独论》第 22 章中关于时间由部分组成的观点。腓茨拉尔夫首先指出，他在这里关注的是安瑟姆作为一位自然哲学家的地位，而不是作为一位神学家。事实上，腓茨拉尔夫更进一步：“在这里，我们必须更多地遵循理性，而不是任何神学家的地位。”
+
+## 5. 心理学与认知
+
+### 5.1 智力、记忆和意志的三位一体
+
+在他的《讲义》中，腓茨拉尔夫认为记忆、理解和意愿是灵魂本质的表达，虽然每个都表达了灵魂的某些特质，但它们不能互相说成是同一样东西，因此它们是不同的（Dunne 2012: 443–50）。记忆、理解和意愿都存在于灵魂的完整本质中，但灵魂并不完全存在于它们中的任何一个。关于意愿和理解之间的关系，沃德汉姆后来明确反对腓茨拉尔夫将它们视为不同的观点。而腓茨拉尔夫则反对阿奎那将记忆和理解视为相同的观点。对于腓茨拉尔夫来说，记忆、理解和意愿并不相同（这是斯科韦斯的立场，也是查顿反对奥卡姆所采纳的立场），它们也不是真正的不同，而是在灵魂通过这些力量以不同的方式表达自己时被区分开来。最后，对于腓茨拉尔夫来说，实际知识与记忆中的种类是真正不同的，即这些力量之间存在着真正的区别。
+
+这个话题是传统的，但腓茨拉尔夫的处理方式表明，这样的传统在当代的发展中是可以焕发新生的，比如关于心智和其力量之间的区别以及力量本身之间的区别，以及记忆中的种类。
+
+### 5.2 种类理论
+
+在《Lectura》第二卷第一题第二条中，关于运动和时间是否真正不同的问题，腓茨拉尔夫在为中间种论辩时做了一个插曲，并提到了一个受人尊敬的人（valens），他曾反对这个理论。他还告诉我们，他自己曾经持有类似的观点，并给出了原因。
+
+> 我觉得，如果那些人没有意识到他们眼中的种类就像他们耳中的声音一样，那么他们就不会相信这样的事物[如种类]的存在，而会说视觉是看见，听觉是听见，而被照亮的空气是光明的 - 我曾经听到一个非常受人尊敬的人（valens）说过这样的话。其他人说每种颜色都是光明，每种味道都是主要品质的混合物，每种气味都是味道 - 我曾经相信过这一点，认为除了五种主要品质，即四种元素品质和光明之外，没有其他东西存在...。
+
+所谓的 valens 很可能是奥卡姆，因为腓茨拉尔夫在 1324 年前离开牛津之前已经听过他的演讲（Maier 1959: 16）。 （Maier 还在后来关于主要品质和次要品质的辩论背景下讨论了腓茨拉尔夫的文本）。腓茨拉尔夫并不是唯一一个捍卫中间种论的人：“奥卡姆对种类的攻击引起了几乎立即和长时间的负面反应。”（Tachau 1982: 395）。奥卡姆的立场受到了约翰·雷丁和沃尔特·查顿、罗伯特·霍尔科特、威廉·克拉索恩和沃德汉的批评。因此，腓茨拉尔夫发现自己与许多通常被视为接近奥卡姆立场的人站在一起。正如 Tachau 总结的（1982: 443），“至少在认识论上，在牛津似乎没有奥卡姆派的学派。”
+
+然而，根据菲茨拉尔夫对这个主题的处理，似乎从关注物种在中间到物种在记忆中的转变，这似乎影响了霍尔科特和克拉索恩对这个主题处理的方式，克拉索恩尤其将他的处理大部分用于分析菲茨拉尔夫的论点（邓恩 2012 年；霍尔科特和克拉索恩在 1330-32 年讲授了 Sentences，正好是菲茨拉尔夫担任 magister regens 的时候）。
+
+### 5.3 意志及其与智力的关系
+
+塔乔（2013 年：82）写道，在莱夫的解释中，菲茨拉尔夫采取了一个中庸而不是平庸的立场，拒绝了阿奎那智力优越性的“教义”和斯科特斯对意志“首要性”的决定，而是“对立他自己的中间观点”（莱夫 1963 年：97）。关于意志和智力这两个心理能力中哪一个更优越的问题，斯科特斯将意志视为优于智力的力量的观点“在瓦尔什的判断中吸引了菲茨拉尔夫个人”，但他认为阿奎那对相反排序的支持“更有权威”。瓦尔什得出的印象是，菲茨拉尔夫的立场在某种程度上是站不住脚的，以至于“沃德汉姆批评他试图两面讨好”（瓦尔什 1981 年：60）。
+
+Tachau (2013: 85) 指出，Wodeham 实际上说的是“意志确实不比智力高尚，反之亦然，并且注意到 Fitzralph 持有相同观点”。FitzRalph 认识到以前的学术世代在灵魂的智力和感性物质之间，或者其“能力”，或者能力的各种行为和习惯之间所作的各种区别（真实的、形式的、有意的或理性的）是有问题的；然而，他也指出了拒绝所有区别会引起重要的哲学和神学障碍，这些障碍既不是他也不是他的同时代人完全令人满意地避免的（Tachau 2013: 92）。因此，如果智力灵魂的意志和智力能力之间根本没有区别，那么对任何给定对象的认知，作为智力的行为，将与意志对同一对象的意志相同。然而，接受这个结论将在任何关于上帝是否以及如何揭示未来偶然事件的理论中引入许多复杂性，并导致难以维持的后果（Tachau 2013: 93）。
+
+### 5.4. 上帝作为智力之源
+
+在《讲解》中有一系列与人类心灵作为三位一体形象问题密切相关的文章，但显然在 FitzRalph 担任牛津大学校长后，这些文章并未被整合。这些文章本身就很有趣，因为我们在其中看到 FitzRalph 与亨利·甘特的某些 quodlibets 和 Averroes 的《心灵论》评论进行了长时间的辩论。其中一篇文章的标题是“智力之源是否是形象的一部分”。令人意外的是，在文章的结尾，FitzRalph 以一种让人想起波纳文图拉的方式断言，智力之源是上帝，或者智力之源不是形象的一部分，而是第一形式或上帝。这似乎将 FitzRalph 放在一个更早的传统中，甚至可以追溯到奥弗涅的威廉和罗伯特·格罗塞特斯特，以及对更早奥古斯丁主义的回归。
+
+## 6. 哲学神学
+
+### 6.1 证明上帝的存在
+
+《讲义》第一册的第一个问题是“旅行者是否能够通过哲学证明知道上帝的存在”，并提出了六个反对和六个支持的论点。他告诉我们他将如何处理这个问题：首先，他将处理关于上帝的存在本身是否可以被知晓的问题，然后，他将处理一个人是否可以同时拥有对同一事物的信仰和知识的问题。然后，第三，他将研究各种权威。这是《讲义》中其余部分所遵循的基本结构，即使菲茨拉尔夫并不总是完全重新组织他的材料，有时候个别文章仍然保持独立，或者问题没有得到解决。菲茨拉尔夫引用了亨利·根特关于证明上帝存在的观点，但他接受了阿奎那的立场。再次，关于上帝的存在是否明显，他遵循阿奎那的观点。然后，他详细阐述了本体论的论证，但奇怪的是，在他的著作中找不到任何形式的宇宙论的论证。可以推测，后者在牛津当时并不是辩论的焦点。
+
+### 6.2 神的全能力
+
+Leff 认为，是奥卡姆和他的追随者将信仰和理性之间的不连续性的后果推向了常常不敬的结论，这在关于上帝的能力的辩论中表现出来。因此，像罗伯特·霍尔科特和亚当·沃德汉姆这样的思想家似乎对上帝在他的绝对权力中所面临的悖论产生了极大的迷恋，这种迷恋导致他们的立场与传统的基督教教义几乎不相符。腓茨拉尔夫通过呼吁奥古斯丁传统来反对这种观点。上帝的绝对能力仅仅是指上帝在现有秩序之外行动的能力。此外，上帝的全能力意味着他无法犯罪和欺骗，正如它也排除了他的死亡。换句话说，上帝不能违背自己的本性：上帝不能不是至善。上帝的力量不仅仅是做任何事情；他的限制不仅仅是他不自相矛盾的自由，正如其他人所认为的那样——而是他自己的本性。由于上帝是至善、至仁和至公的，他的全能力必须与他本性的这些方面相一致。对于上帝来说，采取其他行动不是全能力的表现，而是无能的表现，因为这将涉及对他自己本性的否定。因此，从全能力本身的角度来看是可能的，但从上帝的善良、仁慈和公正的角度来看是不可能的，因此不是因为他的力量（ratione potentie）而是因为他的公正或善良（ratione iustitie vel bonitatis）。 *.*
+
+### 6.3 神的预知和未来的偶然性
+
+腓茨拉尔夫和他的同时代人思考的一个议题是未来事件的启示。事实上，腓茨拉尔夫在三个不同场合讨论了这个问题。他首次在《句子注释》中提到这个问题，并认为这个问题非常重要，以至于他向听众承诺会回到这个问题上。几个月后，他在 1329 年 10 月前往巴黎之前，履行了这个承诺，进行了他的《圣经问题》的讲解（Genest 1991）。此外，他还在他的《亚美尼亚问题总论》中再次回到了这个问题，以对话的形式进行了讨论。
+
+腓茨拉尔夫解决这个问题的方式是从未来事件的启示角度来考虑。鉴于未来事件具有确定的真实性——即它们将会发生且不可避免——上帝如何将他对未来事件的知识启示给有限的智力，而不使它们失去其偶然性呢？正如 Leff 指出的那样，他的同时代人提出的问题是关于上帝对未来的知识是否与对现在和过去的知识不同（Leff 1963: 40）。根据 Wodeham、Buckingham 和 Holcot 的观点，上帝对未来的知识必须与未来的偶然性相关联，因此，这种知识与上帝对过去和现在的知识是不同的。腓茨拉尔夫接受了这种区别，并试图证明他的立场与奥古斯丁在《83 个问题》和《三位一体论》中是一致的。实际上，这是一个被布拉德沃丁和里米尼的格雷戈里拒绝的立场。
+
+根据我们所拥有的资料，腓茨拉尔夫是第一个专门讨论未来事件启示问题的人，而且这个问题的长度是他关于神的先见问题的六倍（Genest 1991: 240）。此外，腓茨拉尔夫对这个问题的处理标志着这个问题历史上的一个转折点，这一点从与 1324 年之前奥卡姆在这个问题上的著作（他的《随意问题集》第四卷第四题）进行比较就可以清楚地看出来。奥卡姆在 800 字中处理了这个问题，而腓茨拉尔夫则在这个问题上写了 20,000 字，这显示了这个问题日益复杂的趋势。奥卡姆试图从命题“这是被启示的”中消除所有的必然性，通过将其与上帝的任何时间暗示分离开来，而腓茨拉尔夫则在不反对这个几乎被普遍接受的论点的情况下，必须解决一系列由此论点引发的困难。腓茨拉尔夫列举了十四个反对未来事件启示的论据，Genest 对这些论据进行了详细的研究。其中一个核心主题是启示的确定性与作为有限存在的行动条件之间的分离，而这些条件假设为了自由，有限存在必须对未来有一定的无知。举一个例子：如果上帝向一个正义的人启示他将会被定罪，他应该为自己的救赎祈祷吗？腓茨拉尔夫在预言和谎言之间做了区分；因此，一个人可能会被预言所欺骗，但上帝并没有对他们撒谎。
+
+对于腓茨拉尔夫来说，上帝是善良的，不会任意或非理性地行动。自由行动的启示是有条件的，因此，如果上帝向某人启示他最终会被永远地谴责，这与该人目前的恩典状态无关，而与未来自由选择的行动有关。这是因为对于腓茨拉尔夫来说，如果某人的行动是必然的，那么他的行动既不公正也不不公正。即使将未来的后果向某人揭示，他仍然可能自由地犯罪，但这并不意味着他被迫犯罪。
+
+除了最后一个论点外，所有的 quod nons 都基于“案例”或特定情况（in isto casu, in casu posito）（Genest 1991: 242–3）。其中一些是从圣经中选取的例子，其他的可以称之为学术“思想实验”，但大多数都伴随着良心的案例。根据 Genest 的说法，其中许多已经由他的前辈提出，许多在与腓茨拉尔夫大约同时读《Sentences》的方济各会修士约翰·罗丁顿的《Lectura》中也可以找到；然而，罗丁顿的处理更为简洁（Genest 1991: 243）。当腓茨拉尔夫撰写他的问题时，假设的库存应该已经基本完整，但正是对待的广度使腓茨拉尔夫的文本成为 1320 年代末牛津辩论的重要见证。腓茨拉尔夫的文本受到沃德汉姆在他的《Lectura oxoniensis》（1333-1334）中对该主题的五个长问题的关注，这表明了其重要性（Sent. III, qu. 5-9）。同样，当霍尔科特处理这个问题时，他几乎重复了腓茨拉尔夫的观点。
+
+### 6.4 预定与自由意志
+
+约翰·威克里夫对牛津的两位教师托马斯·布拉德沃丁和理查德·腓茨拉尔夫都表示敬意，他们是他最依赖的两位教师。然而，在关于预定和自由意志的问题上，威克里夫追随的是布拉德沃丁而不是腓茨拉尔夫。威克里夫在预定论上的立场与腓茨拉尔夫试图调和自由意志与对神圣预定的适度接受形成鲜明对比。这或许可以解释为什么威克里夫引用了《贫者的救主》中关于统治的内容，以及《亚美尼亚问题总汇》中关于更广泛神学问题的内容，但他从未提到《句子讲义》。腓茨拉尔夫在讲义中对意志的优先性的强调对威克里夫在制定自己的立场时没有什么帮助，而且腓茨拉尔夫似乎也没有完全摆脱布拉德沃丁所称之为“佩拉奇主义”的教义的痕迹。
+
+在《亚美尼亚问题总汇》第十五至十七章中，腓茨拉尔夫转向自由意志和预定的话题，关注他认为在学校中传播的一种新异端。他用比以往任何时候都更激烈的语言表达了对这种新教义的恐惧，他称之为“魔鬼的知识”。尽管布拉德沃丁并不是腓茨拉尔夫攻击的对象，但这似乎是对布拉德沃丁的门徒们的回应，他们从《上帝的原因》的阅读中拥护了一种极端的预定论形式。预定论将永恒的救赎或永恒的灭亡归结为上帝的主权意志，排除了自由意志作为决定人类未来状态的次要因素。腓茨拉尔夫反对绝对决定论，认为被罚的人的罪或其未来性是上帝决定将恶人定罪的永恒原因，而不是相反的情况（《亚美尼亚问题总汇》，第十六章，第 12 节），并捍卫了人类的自由选择。尽管辩论的背景显然是奥古斯丁主义（见《上帝之城》，第五卷第十章），但有趣的是，腓茨拉尔夫在《亚美尼亚问题总汇》中还试图以圣经为依据来证明他的立场。
+
+## 7. 伦理学和政治理论：Dominium
+
+在腓茨拉尔夫去世后，他在那些希望改革教会的人中间的名声和影响力增长了。他的反行乞论文使他经常在中古英语的洛拉德文学中被提及。威克里夫经常引用他的话。他的《牧师的辩护》在 15 世纪末多次印刷，是一位爱尔兰人唯一以刻本形式出版的作品。特雷维萨将其翻译成中古英语。这部作品的印刷在接下来的两个世纪继续进行。在厄舍尔、瓦丁和其他人的努力下，腓茨拉尔夫的记忆在 17 世纪上半叶得以保留。
+
+腓茨拉尔夫对领地（dominium）教义的教导对一个话题产生了影响。在他的对话《救主的贫穷》（1356 年）中，腓茨拉尔夫认为，只有恩典才使一个人有权统治世俗事物。几个世纪后，路德派思想家认为，权利，以及世俗统治者的权威，取决于上帝的恩典。因此，如果一个统治者是异端或罪人，他的法律在良心上就没有约束力——只有一个公正的统治者才能成为公正的立法者。一个不公正的统治者可以被废黜；而这样的“不公正”包括不信者。
+
+康斯坦茨公会议于 1414 年至 1418 年间召开，维克里夫和胡斯在会议上被谴责。维克里夫关于领地的观点受到谴责，但腓茨拉尔夫逃脱了谴责。公会议的行动公开并于 1500 年印刷。腓茨拉尔夫的《牧师的辩护》于 1475 年在鲁汶印刷，他的《亚美尼亚问题总论》于 1515 年出版。
+
+这些新印刷作品的流通似乎引起了对腓茨拉尔夫思想的重新关注。首先，雅克·阿尔曼在他 1512 年 3 月的晚祷问题（1518 年出版）中，就腓茨拉尔夫关于在必要时从他人那里获取的自然统治观点展开了讨论。
+
+在他的《论民权》中，弗朗西斯科·德·维多利亚（约 1485-1546 年）质疑非基督徒在西班牙发现“新大陆”后是否有合法的君主。他指出：“阿尔马的大主教理查德·腓茨拉尔夫，一个在其他方面品行端正且聪明的人，确实在他的《救世主的贫穷》中主张，不仅是不信仰，而是任何致命罪都会妨碍任何形式的权力或统治（dominium）或管辖权，无论是公共的还是私人的；错误地认为所有权力的真正标题和基础是恩典。”维多利亚反对通过恩典来实现统治的观念，因为这样一来，基督徒就有权从美洲土著那里夺取土地、财富和财产，因为基督徒可以并且应该统治所有不信仰者和整个世界。当然，这将使自然权利，或者因为他们是人类而属于人类的权利，变得毫无意义。正是自然法理论使维多利亚能够就这一立场提出令人印象深刻的论据。我认为，如果我们考虑腓茨拉尔夫发展他的统治理论的意图，他肯定会强烈反对后来支持基于恩典的统治的人所犯下的不公正行为。无论他在针对方济各会的著作中表达的论点有多么激烈和极端，他提出的原则旨在为法律带来一定程度的公正，并处理方济各会的贫困虚构的“罪恶”，他永远不会最终为了辩护十六世纪及以后美洲原住民而无法为正义原则辩护的法律而辩护。
+
+## Bibliography
+
+### Primary Sources
+
+* R. FitzRalph, *Summa de Quaestionibus Armenorum*, Johannis Sudoris (ed.), Paris 1511.
+* –––, *De Pauperie Salvatoris*, Books I–IV, R. L. Poole (ed.), in J. Wycliff, *De dominio divino*, London 1890, 257–476.
+
+### Secondary Literature
+
+* Courtenay, William J., 1987, *Schools & Scholars in Fourteenth-Century England*, Princeton: Princeton University Press.
+* Duba, William O., 2013, “Conversion, Vision and Faith in the Life and Works of Richard FitzRalph”, in M. Dunne and S. Nolan, *Richard FitzRalph: His Life, Thought and Times*, Dublin: Four Courts Press, 103–127.
+* Dunne, M. and S. Nolan (eds.), 2013a, *Richard FitzRalph: His Life, Thought and Times*, Dublin: Four Courts Press.
+* –––, 2013b, “John Foxholes OFM Armachanus (†1474): A Note on his Logical Treatises Formerly Attributed to FitzRalph”, in M. Dunne and S. Nolan (eds.), *Richard FitzRalph: His Life, Thought and Times*, Dublin: Four Courts Press, 199–203.
+* –––, 2012, “Richard FitzRalph on the human mind as a trinity of memory, understanding and will”, in *Universalità della Ragione. Pluralità delle Filosofie nel Medioevo Universalité de la Raison. Pluralité des Philosophies au Moyen Âge Universality of Reason. Plurality of Philosophies in the Middle Ages*. XII Congresso Internazionale di Filosofia Medievale. Palermo, 17–22 settembre 2007 a cura di Alessandro Musco e di Carla Compagno – Salvatore D’Agostino – Giuliana Musotto, Volume II.1, 443–450.
+* –––, 2010, “Richard FitzRalph’s *Lectura* on the *Sentences*”, in P. Rosemann (ed.), *Mediaeval Commentaries on the* Sentences *of Peter Lombard*, Leiden: Brill, Volume 2, 405–438.
+* –––, 2008, “Richard FitzRalph on Time, Motion and Infinity”, *Mediaevalia Philosophica Polonorum*, 37: 1–12.
+* –––, 2004, “Richard FitzRalph of Dundalk (c. 1300–1360) and the New World”, *Archivium Hibernicum*, 58: 243–58.
+* –––, 2001, “A fourteenth-century example of an *Introitus Sententiarum* at Oxford: Richard FitzRalph’s Inaugural Speech in praise of the *Sentences* of Peter Lombard”, *Medieval Studies*, 63: 1–29.
+* Genest, J.-F., 1991, “Contingence et révélation des futurs: La *Quaestio biblica* de Richard FitzRalph”, in J. Jolivet (ed.), *Lectionum varietates: hommage à Paul Vignaux*, Paris: Vrin, 199–246.
+* Gwynn, A., 1933, “Richard FitzRalph, Archbishop of Armagh”, *Studies: An Irish Quarterly Review*, 25(97): 81–96.
+* Hammerich, L. L., 1938, “The Beginning of the Strife between Richard FitzRalph and the Mendicants, with an edition of his autobiographical prayer and his proposition *Unusquisque*”, *Det Kgl. Danske Viderskabernes Selskab. Hist.-filologiske Meddelelser*, 26: 3–85.
+* Haren, M. J., 1998, “Richard FitzRalph and the Friars: The Intellectual Itinerary of a Curial Controversialist”, in J. Hamesse (ed.), *Roma, Magistra Mundi. Itineraria Culturae Medievalis*. *Mélanges offerts au P. L.E. Boyle*, Turnhout: Brepols, Volume 1, 349–367.
+* Lahey, Stephen E., 2003, *Philosophy and Politics in the Thought of John Wyclif*, Cambridge: Cambridge University Press.
+* Leff, G., 1963, *Richard FitzRalph: Commentator of the* Sentences. *A Study in Theological Orthodoxy*, Manchester: Manchester University Press.
+* Maier, A., 1959, *Aus der Grenze von Scholastik und Naturwissenschaft*, Rome: Edizione di Storia e Letteratura.
+* Tachau, Katherine H., 2013, “Adam Wodeham and Robert Holcot as Witnesses to FitzRalph’s Thought”, in M. Dunne and S. Nolan (eds.), *Richard FitzRalph: His Life, Thought and Times*, Dublin: Four Courts Press, 79–95.
+* –––, 1982, “The Problem of the *Species in Medio* at Oxford in the Generation after Ockham”, *Mediaeval Studies*, 44: 394–443.
+* Walsh, K., 1981, *A Fourteenth-Century Scholar and Primate: Richard FitzRalph in Oxford, Avignon and Armagh*, Oxford: Clarendon Press.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=fitzralph). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/fitzralph/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=fitzralph&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/fitzralph/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[Crathorn, William](https://plato.stanford.edu/entries/crathorn/) | [Gregory of Rimini](https://plato.stanford.edu/entries/gregory-rimini/) | [Kilvington, Richard](https://plato.stanford.edu/entries/kilvington/) | [Wodeham, Adam de](https://plato.stanford.edu/entries/wodeham/) | [Wyclif, John](https://plato.stanford.edu/entries/wyclif/)
+
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
+Michael W. Dunne <[*dunne.mw@gmail.com*](mailto:dunne%2emw%40gmail%2ecom)>
