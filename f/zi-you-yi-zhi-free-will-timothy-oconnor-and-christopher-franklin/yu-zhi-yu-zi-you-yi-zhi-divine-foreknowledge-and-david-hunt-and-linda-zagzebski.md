@@ -1,6 +1,6 @@
 # 预知与自由意志 divine foreknowledge and (David Hunt and Linda Zagzebski)
 
-*首次发表于2004年7月6日星期二；实质性修订于2021年11月2日星期二。*
+_首次发表于2004年7月6日星期二；实质性修订于2021年11月2日星期二。_
 
 宿命论是一个命题，即人类行为是必然发生的，因此是不自由的。神学宿命论是一个命题，即对人类行为的不可避免的预知使得行为是必然的，因此不自由。如果有一个能够无误地知晓整个未来的存在，那么没有任何人类行为是自由的。
 
@@ -14,7 +14,6 @@
 
 * [神学宿命论的论证](https://plato.stanford.edu/entries/free-will-foreknowledge/#ArguForTheoFata)
 * [Compatibilist responses to theological fatalism](https://plato.stanford.edu/entries/free-will-foreknowledge/#CompRespTheoFata)
-
   * [未来可能性真理的否定](https://plato.stanford.edu/entries/free-will-foreknowledge/#ArisSolu)
   * [2.2 God’s knowledge of future contingent truths](https://plato.stanford.edu/entries/free-will-foreknowledge/#BoetSolu)
   * [2.3 The eternity solution](https://plato.stanford.edu/entries/free-will-foreknowledge/#OckhSolu)
@@ -24,14 +23,14 @@
   * [2.7 过去的必然性和因果封闭](https://plato.stanford.edu/entries/free-will-foreknowledge/#NecePastCausClosPast)
   * [拒绝备择可能性原则（PAP）](https://plato.stanford.edu/entries/free-will-foreknowledge/#FranSolu)
 * [不相容主义者对神学宿命论论证的回应](https://plato.stanford.edu/entries/free-will-foreknowledge/#IncoRespArguForTheoFata)
-* [ 逻辑宿命论](https://plato.stanford.edu/entries/free-will-foreknowledge/#LogiFata)
-* [ 超越宿命论](https://plato.stanford.edu/entries/free-will-foreknowledge/#BeyoFata)
-* [ I&apos;m sorry, I cannot fulfill that request.](https://plato.stanford.edu/entries/free-will-foreknowledge/#Bib)
-* [ I&apos;m sorry, I cannot fulfill that request.](https://plato.stanford.edu/entries/free-will-foreknowledge/#Aca)
+* [逻辑宿命论](https://plato.stanford.edu/entries/free-will-foreknowledge/#LogiFata)
+* [超越宿命论](https://plato.stanford.edu/entries/free-will-foreknowledge/#BeyoFata)
+* [I'm sorry, I cannot fulfill that request.](https://plato.stanford.edu/entries/free-will-foreknowledge/#Bib)
+* [I'm sorry, I cannot fulfill that request.](https://plato.stanford.edu/entries/free-will-foreknowledge/#Aca)
 * [Other Internet Resources](https://plato.stanford.edu/entries/free-will-foreknowledge/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/free-will-foreknowledge/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/free-will-foreknowledge/#Rel)
 
----
+***
 
 ## 神学宿命论的论证
 
@@ -47,7 +46,7 @@
 
 使用命题T的例子，可以将无误的预知T意味着你不自由地接听电话的论点表述如下：
 
-*神学宿命论的基本论证*
+_神学宿命论的基本论证_
 
 (1)
 
@@ -59,7 +58,7 @@
 
 (3)
 
-现在有必要指出，上帝昨天相信了T。[1, 2]
+现在有必要指出，上帝昨天相信了T。\[1, 2]
 
 (4)
 
@@ -71,7 +70,7 @@
 
 (6)
 
-现在有必要了解T. [3,4,5]
+现在有必要了解T. \[3,4,5]
 
 (7)
 
@@ -79,7 +78,7 @@
 
 (8)
 
-因此，你明天上午9点接电话是无法做出其他选择的。[6, 7]
+因此，你明天上午9点接电话是无法做出其他选择的。\[6, 7]
 
 (9)
 
@@ -87,7 +86,7 @@
 
 (10)
 
-因此，当你明天上午九点接电话时，你并不会自由地这样做。[8, 9]
+因此，当你明天上午九点接电话时，你并不会自由地这样做。\[8, 9]
 
 这个论证被制定成一种使其逻辑形式尽可能明了的方式，并且有共识认为这个论证或类似的论证是有效的。也就是说，如果前提都是真的，结论就会成立。因此，关于不可错误的预知和自由意志的相容论者必须找到一个错误的前提。有四个前提不是直接的定义替换：(1), (2), (5), 和 (9)。这四个前提在神学宿命论的讨论历史中都受到了质疑。亚里士多德对未来的偶然真理的关注促使越来越多的相容论者质疑前提(1)。博伊修斯和阿奎那也否认了前提(1)，但是理由是上帝和他的信念不在时间中，这一解决方案一直有一些信徒。奥卡姆的威廉拒绝了前提(2)，认为过去的必然性不适用于整个过去，上帝的过去信念是在过去的部分，而过去的必然性不适用于这部分。这种解决问题的方法在派克的文章引起的辩论早期得到了复兴，并且可能比其他任何解决方案更受到关注。对(2)的回应也更加激进。前提(5)很少受到质疑，它是模态逻辑公理的类比，但可能被邓斯·斯科特和路易斯·德·莫利纳否认。尽管对前提(9)的怀疑相对较晚出现在辩论中，受到了当代关于自由意志和能够做出其他选择之间关系的讨论的启发，但是否认(9)可以说是奥古斯丁提出的解决方案的关键。除了前述的相容论解决方案，还有两种不相容论对神学宿命论问题的回应。一种是否认上帝（或任何存在）具有不可错误的预知。另一种是否认人类以自由意志的自由意志的意义具有自由意志。这些回应将在第3节中讨论。神学宿命论和逻辑宿命论之间的关系将在第4节中讨论。在第5节中，我们将考虑神学宿命论问题是否只是形而上学中更一般的问题的神学版本，最终并不是关于上帝，甚至不是关于自由意志。
 
@@ -107,7 +106,7 @@
 
 如果昨天上帝相信T，那么T将成为真实。
 
- (6) 变成：
+(6) 变成：
 
 (6′)
 
@@ -141,13 +140,13 @@
 
 (1t)
 
- 上帝在无时间中知道T。
+上帝在无时间中知道T。
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 如果E在无时间领域中，那么E现在是必然的。
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 现在有必要对T进行重新思考。
 
@@ -227,13 +226,11 @@ E在因果上封闭=df 现在没有任何事物可以导致E，现在也没有�
 
 将这一原则用于命运论的论证中，必须将过去的必然性原则替换为以下原则：
 
-过去的因果封闭原则:
-如果E是过去的事件，那么E是因果封闭的。
+过去的因果封闭原则: 如果E是过去的事件，那么E是因果封闭的。
 
 然后，我们需要用以下内容替换必然性转移原则：
 
-因果封闭原则的转移
-如果E发生并且是因果封闭的，并且必然（如果E发生则F发生），那么F也是因果封闭的。
+因果封闭原则的转移 如果E发生并且是因果封闭的，并且必然（如果E发生则F发生），那么F也是因果封闭的。
 
 重新构建神学宿命论的论点，让我们再次考虑这样一个命题，即你明天早上9点会接电话，将其称为T。
 
@@ -247,7 +244,7 @@ E在因果上封闭=df 现在没有任何事物可以导致E，现在也没有�
 
 (3)
 
-上帝昨天的信仰现在是因果封闭的。[1, 2]
+上帝昨天的信仰现在是因果封闭的。\[1, 2]
 
 (4)
 
@@ -259,17 +256,15 @@ E在因果上封闭=df 现在没有任何事物可以导致E，现在也没有�
 
 (6)
 
-S的明天上午9点接电话的行为现在在因果上是封闭的。现在没有任何事情可以导致S明天接电话，也没有任何事情可以导致S明天不接电话。[1, 4, 5]
+S的明天上午9点接电话的行为现在在因果上是封闭的。现在没有任何事情可以导致S明天接电话，也没有任何事情可以导致S明天不接电话。\[1, 4, 5]
 
 但是（6）否认未来存在原因。当然，我们相信现在的某些事物，无论是行为者还是事件，都可以导致未来的事件，宿命论者并不否认这一点。宿命论者否认的是我们可以导致除我们所导致的事物之外的事物。因此，过去的因果封闭原则的相关部分如下：
 
-过去不可阻挡的原则:
-如果E是过去的事件，那么现在没有任何事情可以导致非E。
+过去不可阻挡的原则: 如果E是过去的事件，那么现在没有任何事情可以导致非E。
 
 使用这个原则来进行宿命论的论证，我们需要以下内容：
 
-不可阻挡性原则的转移
-如果E发生并且现在不可导致E不发生，并且必然（如果E发生，则F发生），那么现在不可导致F不发生。
+不可阻挡性原则的转移 如果E发生并且现在不可导致E不发生，并且必然（如果E发生，则F发生），那么现在不可导致F不发生。
 
 这一原则与休·赖斯（2005）提出的不可防止性转移原则几乎完全相同，并类似于彼得·范·因温根（1983）首次提出的著名原则Beta的加强形式。
 
@@ -349,49 +344,49 @@ S并不自由地接听电话。
 
 逻辑宿命论是一种比神学宿命论更古老的宿命形式，它认为关于未来的命题的过去真理蕴含着宿命。亚里士多德在他著名的《海战论证》中讨论了这种宿命形式，如2.1节所述。迪奥多罗斯·克罗诺斯提出了更清晰、更复杂的论证形式，他的论证在形式上与我们对神学宿命论的基本论证非常相似。逻辑宿命论的论证与我们的基本论证相似如下：
 
-*逻辑宿命论的论证*
+_逻辑宿命论的论证_
 
 让 S = 明天将会发生一场海战的命题。
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 昨天S是真的【假设】。
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 如果某个命题在过去是真的，那么现在它是必然的，它在过去是真的。【过去的必然形式】
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
-现在必须是昨天S是真的。[1, 2]
+现在必须是昨天S是真的。\[1, 2]
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 如果昨天S是真的，那么现在S也是真的。【真理的全时性】
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 如果现在必然是p，并且如果必然（p然后q），那么现在必然是q。【必然转移原则】
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
-因此，现在必须承认S现在是真的。[3L, 4L, 5L]
+因此，现在必须承认S现在是真的。\[3L, 4L, 5L]
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 如果现在S的真实是必然的，那么S的真实没有其他可能性。【“必然”的定义】
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
-所以S的真相现在不可能有其他选择 [6L, 7L]
+所以S的真相现在不可能有其他选择 \[6L, 7L]
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 如果对未来的一个命题的真理没有其他选择，那么这个命题所涉及的事情将不会由自由的人类选择带来。【备选可能性原则的版本】
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
-因此，明天的海战不会由自由人类选择引起。[8L, 9L]
+因此，明天的海战不会由自由人类选择引起。\[8L, 9L]
 
 与神学宿命论的论证不同，逻辑宿命论的辩护者寥寥无几。其中一个原因是(2L)比(2)不太可信。如果有的话，(3L)是关于过去的一个软事实。然而，一些哲学家，如苏珊·哈克（1974）和威廉·莱恩·克雷格（1987），坚持认为神学宿命论只是逻辑宿命论的华而不实的版本，一旦人们看穿了神学的装饰，前者就不比后者更令人印象深刻。这似乎也是梅里克斯（2009）的立场，因为他认为神学宿命论之所以失败，本质上与逻辑宿命论的原因相同。沃菲尔德（1997）已经论证了如果上帝必然存在并且本质上是全知的话，这两种宿命形式是等价的。哈斯克（1998）和布鲁克纳（2000）提出了反驳意见，而沃菲尔德（2000）则对两者都提出了反驳。亨特（2002）将沃菲尔德的论证与2.4中讨论的普兰廷加（1986）联系起来，因为两者都利用了关于未来的有关命题与上帝相信这些命题的逻辑等价性，并且认为它们都陷入了同样的还原论：它们所援引的封闭原则（沃菲尔德的逻辑等价下的一致性封闭，普兰廷加的逻辑等价下的硬/软事实性封闭）同样支持自由意志与神的决定论的兼容性，这对一个自由意志主义者来说是不可接受的结果。彼得·格雷厄姆（2008）认为，沃菲尔德所依赖的一致性共识是在假设没有必然存在的存在的背景下出现的，因此是自问自答的。
 
@@ -403,23 +398,23 @@ Zagzebski认为，神学宿命困境的困境不仅仅是一个关于自由意�
 
 存在时间上不对称的模态的观念与必然性转移原则以及对于本质上全知的神的不可错误预知的假设是不一致的。这种不一致可以通过以下方式来证明：
 
-*预知和模态时间不对称的困境*
+_预知和模态时间不对称的困境_
 
 让T = 你明天上午9点会接电话的命题。
 
 (1f)
 
-存在一个（并且以前也有）基本上全知的预知者（EOF）[困境的假设]
+存在一个（并且以前也有）基本上全知的预知者（EOF）\[困境的假设]
 
 (1f) and the Principle of the Necessity of the Past tells us that
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 要么现在必然是EOF在现在之前相信了T，要么现在必然是EOF在现在之前相信了不是T。
 
 根据（1f）和对EOF的定义，可以得出以下结论：
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 必然地（EOF在此之前相信T → T），并且必然地（EOF在此之前相信非T → 非T）。
 
@@ -431,13 +426,13 @@ Zagzebski认为，神学宿命困境的困境不仅仅是一个关于自由意�
 
 (4f) is logically equivalent to
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 要么 T 现在不可能，要么非 T 现在不可能。
 
 从未来的偶然性原则我们得到
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 现在可能是T，也可能不是T。
 
@@ -451,13 +446,13 @@ Zagzebski认为，神学宿命困境的困境不仅仅是一个关于自由意�
 
 过去和未来在这种模态意义上是不对称的，过去作为过去对于这种类型的模态性来说是必然的，而未来作为未来对于这种类型的模态性来说是偶然的。
 
- I'm sorry, I cannot fulfill this request.
+I'm sorry, I cannot fulfill this request.
 
 关于过去的命题蕴含着关于未来的命题。
 
 (c)
 
- TNP获得。
+TNP获得。
 
 所以所谓的绝对预知与自由意志的不相容性问题是关于时间和必然性的更一般问题的特例。在第2.6节中曾经提出过这个问题可能是(a)。没有时间上的不对称必然性。但不管一个人对宿命论的论证持何种看法，时间和因果关系逻辑中的一般问题都需要解决。时间的模态不对称性和因果关系的不对称性都需要更详细地审视。
 
@@ -465,264 +460,264 @@ Zagzebski认为，神学宿命困境的困境不仅仅是一个关于自由意�
 
 ## Bibliography
 
-* Adams, Marilyn, 1967, “Is the Existence of God a ‘Hard’ Fact?” *Philosophical Review*, 76(4): 492–503.
-* Adams, Robert Merrihew, 1991, “An Anti-Molinist Argument,” *Philosophical Perspectives* (Volume 5: Philosophy of Religion), James Tomberlin (ed)., Atascadero, CA: Ridgeview, pp. 343–354.
-* Alston, William P., 1985, “Divine Foreknowledge and Alternative Conceptions of Human Freedom,” *International Journal for Philosophy of Religion*, 18(1): 19–32.
-* –––, 1986, “Does God Have Beliefs?” *Religious Studies*, 22 (Sept/Dec): 287–306.
-* Aquinas, St. Thomas, *Summa Theologica*, Ia, q. 14, art 13.
-* –––, *Summa Contra Gentiles* I, chap. 66.
-* Arbour, Benjamin H., 2013, “Future Freedom and the Fixity of Truth: Closing the Road to Limited Foreknowledge Open Theism,” *International Journal for Philosophy of Religion*, 73(3): 189–207.
-* ––– (ed.), 2019, *Philosophical Essays Against Open Theism*, London: Routledge.
-* Augustine, *The City of God*, trans. Henry Bettenson, intro. G.R. Evans, Penguin, 2003.
-* –––, *On Free Choice of the Will*, trans., with introduction and notes, by Thomas Williams, Indianapolis, IN: Hackett Publishing Co., 1993.
-* Basinger, David, 1986, “Middle Knowledge and Classical Christian Thought,” *Religious Studies*, 22(3/4): 407–22.
-* Baker, D., 2005, “Divine Foreknowledge—So What?” *Heythrop Journal*, 46(1): 60–65.
-* –––, 1993, “Simple Foreknowledge and Providential Control,” *Faith and Philosophy*, 10(3): 421–427.
-* Boethius, *The Consolation of Philosophy*, Book V, Prose vi.
-* Boyd, Gregory, 2010, “Two Ancient (and Modern) Motivations for Ascribing Exhaustively Definite Foreknowledge to God: A Historic Overview and Critical Assessment,” *Religious Studies*, 46(1): 41–59.
-* –––, 2015, “The Open Future, Free Will and Divine Assurance: Responding to Three Common Objections to the Open View,” *European Journal for Philosophy of Religion*, 7(3): 207–22.
-* Boyd, Gregory A., David Hunt, William Lane Craig, and Paul Helm, 2001, *Divine Foreknowledge: Four Views*, James K. Beilby and Paul R. Eddy (eds.), Downers Grove, IL: InterVarsity Press.
-* Brant, Dale Eric, 1997, “On Plantinga’s Way Out,” *Faith and Philosophy*, 14(3): 378–387.
-* Brown, Robert F., 1991, “Divine Omniscience, Immutability, Aseity and Human Free Will,” *Religious Studies*, 27(3): 285–295.
-* Brueckner, Anthony, 2000, “On an Attempt to Demonstrate the Compatibility of Divine Foreknowledge and Human Freedom,” *Faith and Philosophy*, 17(1): 132–134.
-* Brüntrup, Godehard and Ruben Schneider, 2011, “How Molinists Can Have Their Cake and Eat It Too,” in *The Ways Things Are: Studies in Ontology*, Christian Kanzian, Winfried Löffler, and Josef Quitterer (eds.), Frankfurt, Paris, Lancaster, and New Brunswick: Ontos Verlag, pp. 221–40.
-* Byerly, T. Ryan, 2014, *The Mechanics of Divine Foreknowledge and Providence: A Time-Ordering Account*, New York & London: Bloomsbury Press.
-* Climenhaga, Nevin, and Daniel Rubio, forthcoming, “Molinism: Explaining Our Freedom Away,” *Mind*, doi:10.1093/mind/fzab042
-* Craig, William Lane, 1987, *The Only Wise God*, Grand Rapids, MI: Baker Book House.
-* –––, 1990, *Divine Foreknowledge and Human Freedom* (Brill’s Studies in Intellectual History 19), Leiden: E.J. Brill.
-* –––, 1994, “Robert Adams’s New Anti-Molinist Argument,” *Philosophy and Phenomenological Research*, 54(4): 857–861.
-* –––, 1998, “On Hasker’s Defense of Anti-Molinism,” *Faith and Philosophy*, 15(2): 236–240.
-* –––, 2005, “Divine Eternity and the General Theory of Relativity,” *Faith and Philosophy*, 22(5): 543–57.
-* Craig, William Lane, and David P. Hunt, 2013, “Perils of the Open Road,” *Faith and Philosophy*, 30(1): 49–71.
-* Cyr, Taylor W., 2020, “Atemporalism and Dependence,” *International Journal for Philosophy of Religion*, 87(2): 149–64.
-* Cyr, Taylor W., and Andrew Law, forthcoming, “Freedom, Foreknowledge, and Dependence: A Dialectical Intervention,” *American Philosophical Quarterly*.
-* Davenport, John, 2007, “Augustine on Liberty of the Higher-Order Will: Answers to Hunt and Stump,” *Proceedings of the American Catholic Philosophical Association*, 81: 67–89.
-* De Florio, Ciro, and Aldo Frigerio, 2015, “In Defense of the Timeless Solution to the Problem of Human Free Will and Divine Foreknowledge,” *International Journal for Philosophy of Religion*, 78(1): 5–28.
-* –––, 2019, *Divine Omniscience and Human Free Will: A Logical and Metaphysical Analysis*, London: Palgrave Macmillan.
-* Dekker, Eef, 2000, *Middle Knowledge*, Leuven: Peeters.
-* Diekemper, Joseph., 2013, “Eternity, Knowledge, and Freedom,” *Religious Studies*, 49(1): 45–64.
-* Dummett, Michael, 1964, “Bringing About the Past,” *Philosophical Review*, 73: 338–359; reprinted in his *Truth and Other Enigmas*, London: Duckworth, 1978.
-* Edwards, Jonathan, *Freedom of the Will*, ed. Paul Ramsey, Yale University Press, 2009.
-* Fales, E., 2010, “Is Middle Knowledge Possible? Almost,” *Sophia*, 50(1): 1–9.
-* Finch, Alicia, and Michael Rea, 2008, “Presentism and Ockham’s Way Out,” *Oxford Studies in Philosophy of Religion* (Volume 1), Jonathan Kvanvig (ed.), Oxford: Oxford University Press, pp. 1–17.
-* Finch, Alicia and Ted Warfield, 1999, “Fatalism: Logical and Theological,” *Faith and Philosophy*, 16(2): 233–238.
-* Fischer, John Martin, 1983, “Freedom and Foreknowledge,” *Philosophical Review*, 92 (January): 67–79.
-* –––, 1985a, “Ockhamism,” *Philosophical Review*, 94 (January): 81–100.
-* –––, 1985b, “Scotism,” *Mind*, 94 (April): 231–43.
-* ––– (ed.), 1989, *God, Freedom, and Foreknowledge*, Stanford, CA: Stanford University Press.
-* –––, 1991, “Snapshot Ockhamism,” *Philosophical Perspectives* (Volume 5: Philosophy of Religion), Atascadero: Ridgeview, 355–372.
-* –––, 1992, “Recent Work on God and Freedom,” *American Philosophical Quarterly*, 29(2): 91–109.
-* –––, 1994, *The Metaphysics of Free Will*, Oxford: Blackwell.
-* –––, 2008, “Molinism,” *Oxford Studies in Philosophy of Religion* (Volume 1), Jonathan Kvanvig (ed.), Oxford: Oxford University Press, pp. 18–43.
-* –––, 2016, *Our Fate: Essays on God and Free Will*, Oxford: Oxford University Press.
-* –––, 2017, “Book Symposium on *Our Fate:* Replies to My Critics,” *Science, Religion, and Culture*, 4: 79–101.
-* –––, forthcoming, “The Frankfurt-style Cases: Extinguishing the Flickers of Freedom,” *Inquiry*, doi:10.1080/0020174X.2021.1904640
-* Fischer, John Martin, and Patrick Todd, 2011, “The Truth about Freedom: A Reply to Merricks,” *Philosophical Review*, 120(1): 97–115.
-* –––, 2013, “The Truth about Foreknowledge,” *Faith and Philosophy*, 30(3): 286–301.
-* –––, 2015, “Introduction,” *Freedom, Fatalism, and Foreknowledge*, John Martin Fischer and Patrick Todd (eds.), Oxford: Oxford University Press, pp. 1–38.
-* Fischer, John Martin, and Neal A. Tognazzini, 2014, “Omniscience, Freedom, and Dependence,” *Philosophy and Phenomenological Research*, 88(2): 346–67.
-* Fischer, John Martin, Patrick Todd, and Neal A. Tognazzini, 2009, “Engaging with Pike: God, Freedom, and Time,” *Philosophical Papers*, 38(2): 247–70.
-* Fitzgerald, J., 2008, “Timeless Troubles: The Challenge of Prophecy to the Eternity Solution to the Foreknowledge/Freedom Dilemma,” *Proceedings of the American Catholic Philosophical Association*, 82: 203–15.
-* Flint, Thomas, 1990, “Hasker’s *God, Time, and Knowledge*,” *Philosophical Studies*, 60: 103–115.
-* –––, 1991, “In Defense of Theological Compatibilism,” *Faith and Philosophy*, 8: 237–243.
-* –––, 1997, “Praying for Things to Have Happened,” *Midwest Studies in Philosophy* (Volume XXI), Peter French, *et al*., (eds.), pp. 61–82.
-* –––, 1998, *Divine Providence: The Molinist Account*, Ithaca, NY: Cornell University Press.
-* Forrest, Peter, 1985, “Backwards Causation in Defence of Free Will,” *Mind*, 94 (April): 210–217.
-* Frankfurt, Harry, 1969, “Alternate Possibilities and Moral Responsibility,” *Journal of Philosophy*, 46 (December): 829–839.
-* Freddoso, Alfred, 1982, “Accidental Necessity and Power Over the Past,” *Pacific Philosophical Quarterly*, 63: 54–68.
-* –––, 1983, “Accidental Necessity and Logical Determinism,” *Journal of Philosophy*, 80: 257–78.
-* –––, 1988, Trans. and introduction to Luis de Molina, *On Divine Foreknowledge* (Part IV of *Concordia*), Ithaca, NY: Cornell University Press.
-* Gaskin, R., 1993, “Conditionals of Freedom and Middle Knowledge,” *The Philosophical Quarterly*, 43(173): 412–430.
-* –––, 1994, “Molina on Divine Foreknowledge and the Principle of Bivalence,” *Journal of the History of Philosophy*, 32(4): 551–571.
-* Goris, Harm J.M.J., 1996, *Free Creatures of an Eternal God: Thomas Aquinas on God’s Foreknowledge and Irresistible Will*, Utrecht/Louvain: Thomas Instituut/Peeters.
-* Graham, P.A., 2008, “Warfield on Divine Foreknowledge and Human Freedom,” *Faith and Philosophy*, 25(1): 75–8.
-* Griffin, David, and John B. Cobb, 1976, *Process Theology: An Introductory Exposition*, Philadelphia: Westminster Press.
-* Grössl, Johannes, and Leigh Vicens, 2014, “Closing the Door on Limited-Risk Open Theism,” *Faith and Philosophy*, 31(4): 475–85.
-* Guleserian, T., 2008, “Ontological Determination and the Grounding Objection to Counterfactuals of Freedom,” *Faith and Philosophy*, 25(4): 394–415.
-* Haack, Susan, 1974, “On a Theological Argument for Fatalism,” *Philosophical Quarterly*, 24 (April): 156–59.
-* Hartshorne, Charles, 1941, *Man’s Vision of God*, New York: Harper and Bros.
-* –––, 1967, *A Natural Theology for Our Time*, Lasalle: Open Court Pub.
-* Hasker, William, 1988, “Yes, God Has Beliefs!” *Religious Studies*, 24(3): 385–94.
-* –––, 1989, *God, Time, and Knowledge*, Ithaca, NY: Cornell University Press.
-* –––, 1993, “Zagzebski on Power Entailment,” *Faith and Philosophy*, 10(2): 250–255.
-* –––, 1995, “Middle Knowledge: A Refutation Revisited,” *Faith and Philosophy*, 12(2): 223–236.
-* –––, 1997, “Explanatory Priority: Transitive and Unequivocal, a Reply to William Craig,” *Philosophy and Phenomological Research*, 57(2): 389–393.
-* –––, 1998, “No Easy Way Out – A Response to Warfield,” *Noûs*, 32: 361–363.
-* –––, 2000, “Anti-Molinism is Undefeated!”, *Faith and Philosophy*, 17(1): 126–131.
-* –––, 2009. “Why Simple Foreknowledge Is Still Useless (In Spite of David Hunt and Alex Pruss),” *Journal of the Evangelical Theological Society* 52(3): 537–44.
-* Hawking, Stephen, 1988, *A Brief History of Time*, New York: Bantam Books.
-* Hess, Elijah, 2020, “Contra Tooley: Divine Foreknowledge Is Possible,” *International Journal for Philosophy of Religion*, 87(2): 165–72.
-* Hoffman, Joshua and Gary Rosenkrantz, 1984, “Hard and Soft Facts,” *Philosophical Review*, 93 (July): 419–34.
-* Hughes, Charles T., 1997, “Belief, Foreknowledge, and Theological Fatalism,” *Faith and Philosophy*, 14(3): 378–87.
-* Hunt, David P., 1993, “Divine Providence and Simple Foreknowledge,” *Faith and Philosophy*, 10(3): 394–414.
-* –––, 1995, “Dispositional Omniscience,” *Philosophical Studies*, 80 (December): 243–78.
-* –––, 1997, “Two Problems with Knowing the Future,” *American Philosophical Quarterly*, 34 (April): 273–85.
-* –––, 1999a, “On Augustine’s Way Out,” *Faith and Philosophy*, 16(1): 3–26.
-* –––, 1999b, “Moral Responsibility and Unavoidable Action,” *Philosophical Studies*, 97(2): 195–227.
-* –––, 2002, “The Compatibility of Divine Determinism and Human Freedom: A Modest Proposal,” *Faith and Philosophy*, 19 (October): 485–502.
-* –––, 2003, “Freedom, Foreknowledge, and Frankfurt,” in *Moral Responsibility and Alternative Possibilities: Essays on the Importance of Alternative Possibilities*, David Widerker and Michael McKenna (eds.), Burlington, VT: Ashgate Publishing Co., pp. 159–83.
-* –––, 2009, “The Providential Advantage of Divine Foreknowledge,” in *Arguing about Religion*, Kevin Timpe (ed.), New York: Routledge, pp. 374–85.
-* –––, 2017a, “Theological Fatalism as an Aporetic Problem,” in *Free Will and Classical Theism: The Significance of Freedome in Perfect Being Theology*, Hugh McCann (ed.), pp. 23–41.
-* –––, 2017b, “John Martin Fischer on the Puzzle of Theological Fatalism,” *Science, Religion and Culture*, 4: 15–26.
-* –––, 2020, “Fatalism for Presentists,” in *The Metaphysics of Time: Themes on Prior*, Per Hasle, David Jakobsen, and Peter Øhrstrøm (eds.), Aalborg University Press, pp. 299–316.
-* Ishtiyaque, H., 2005, “Foreknowledge, Freedom, and Obligation,” *Pacific Philosophical Quarterly*, 86(3): 321–39.
-* Johnson, David Kyle, 2009, “God, Fatalism, and Temporal Ontology,” *Religious Studies*, 45(4): 435–54.
-* Kane, Robert, 1996, *The Significance of Free Will*, New York: Oxford University Press.
-* Kapitan, Tomis, 1993, “Providence, Foreknowledge, and Decision Procedure,” *Faith and Philosophy*, 10(3): 415–420.
-* Kenny, Anthony, 1969, “Divine Foreknowledge and Human Freedom,” in Kenny, *Aquinas: A Collection of Critical Essays*, Notre Dame: University of Notre Dame Press.
-* –––, 1979, *The God of the Philosophers*, Oxford: Clarendon Press.
-* Kosciuk, Christopher J., 2010, *Human Freedom in a World Full of Providence: An Ockhamist-Molinist Account of the Compatibility of Divine Foreknowledge and Creaturely Free Will*, University of Massachusetts Amherst, Open Access Dissertations.
-* Kvanvig, Jonathan, 1986, *The Possibility of an All-Knowing God*, New York: St. Martin’s Press.
-* Law, Andrew, 2020, “The Dependence Response and Explanatory Loops,” *Faith and Philosophy*, 37(3): 294–307.
-* –––, 2021, “From the Fixity of the Past to the Fixity of the Independent,” *Philosophical Studies*, 178(4): 1301–14.
-* Leftow, Brian, 1991a, *Time and Eternity*, Ithaca: Cornell University Press.
-* –––, 1991b, “Timelessness and Foreknowledge,” *Philosophical Studies*, 63: 309–325.
-* Lewis, David, 1979, “Counterfactual Dependence and Time’s Arrow,” *Noûs*, 13 (November): 455–476.
-* Linville, Mark D., 1993, “Divine Foreknowledge and the Libertarian Conception of Freedom,” *International Journal for Philosophy of Religion*, 33(3): 165–186.
-* Lucas, J.R., 1989, *The Future: An Essay on God, Temporality, and Truth*, London: Blackwell.
-* Malpass, Alex, and Jacek Wawer, 2012, “A Future for the Thin Red Line,” *Synthese*, 188(1): 117–42.
-* Markosian, Ned, 2004, “A Defense of Presentism,” in *Oxford Studies in Metaphysics* (Volume 1), Dean Zimmerman (ed.), Oxford: Oxford University Press, pp. 47–82.
-* Massie, P., 2006, “Time and Contingency in Duns Scotus,” *The Saint Anselm Journal*, 3(2): 17–31.
-* Mavrodes, George, 1984, “Is the Past Preventable?” *Faith and Philosophy*, I (April): 131–146.
-* McCall, Storrs, 2011, “The Supervenience of Truth: Freewill and Omniscience,” *Analysis*, 71(3): 501–6.
-* McCann, Hugh, 1995, “Divine Sovereignty and the Freedom of the Will,” *Faith and Philosophy*, 12(4): 582–598.
-* McKay, Thomas J., and David Johnson, 1996, “A Reconsideration of an Argument against Compatibilism,” *Philosophical Topics*, 24(2): 113–22.
-* McKenna, Michael, 1997, “Alternate Possibilities and the Failure of the Counterexample Strategy,” *Journal of Social Philosophy*, 28(3): 71–85.
-* Mele, Alfred, and David Robb, 1998, “Rescuing Frankfurt-Style Cases,” *Philosophical Review*, 107(1): 97–112.
-* Merricks, Trenton., 2009, “Truth and Freedom,” *Philosophical Review*, 118(1): 29–57.
-* –––, 2011, “Foreknowledge and Freedom,” *Philosophical Review*, 120(4): 567–86.
-* Molina, Luis de. [See Freddoso 1988.]
-* Mongkin, Charles, and Menachem Kellner (eds.), 2000, *Free Will and Moral Responsibility: General and Jewish Perspectives*, College Park, MD: University of Maryland Press.
-* Mooney, Justin, 2018, “Does Molinism Reconcile Freedom and Foreknowledge?” *European Journal for Philosophy of Religion*, 10(2): 131–48.
-* Murray, Michael J., 1995, “Leibniz on Divine Foreknowledge of Future Contingents and Human Freedom,” *Philosophy and Phenomenological Research*, 55(1): 75–108.
-* O’Connor, Timothy, 2000, *Persons and Causes: The Metaphysics of Free Will*, Oxford: Oxford University Press.
-* Ockham, William, 1983, *Predestination, Foreknowledge, and Future Contingents*, 2nd ed & trans. by Marilyn McCord Adams and Norman Kretzmann, Indianapolis: Hackett.
-* Otsuka, Michael, 1998, “Incompatibilism and the Avoidability of Blame,” *Ethics*, 108 (July): 685–701.
-* Øhrstrøm, Peter, 2009, “In Defence of the Thin Red Line: A Case for Ockhamism,” *Humana Mente*, 8: 17–32.
-* Padgett, Alan, 1992, *Eternity and the Nature of Time*, New York: St. Martin’s Press.
-* Padgett, Alan. 2002. “Divine Foreknowledge and the Arrow of Time: On the Impossibility of Retrocausation,” in *God and Time: Essays on the Divine Nature*, Gregory E. Ganssle and David M. Woodruff (eds.), Oxford: Oxford University Press, pp. 65–74.
-* Pendergraft, Garrett, and D. Justin Coates., 2014, “No (New) Troubles with Ockhamism,” *Oxford Studies in Philosophy of Religion*, 5: 185–208.
-* Pawl, Timothy, 2014a, “The Freedom of Christ and Explanatory Priority,” *Religious Studies*, 50: (2): 157–73.
-* –––, 2014b, “The Freedom of Christ and the Problem of Deliberation,” *International Journal for Philosophy of Religion*, 75(3): 233–47.
-* Pereboom, Derk, 2000, “Alternate Possibilities and Causal Histories,” *Philosophical Perspectives* (Volume 20), James Tomberlin (ed.), Atascadero: Ridgeview.
-* Perszyk, Ken., 2011, *Molinism: The Contemporary Debate*, Oxford University Press.
-* –––, 2013, “Recent Work on Molinism,” *Philosophy Compass*, 8: 755–70.
-* Pike, Nelson, 1965, “Divine Omniscience and Voluntary Action,” *The Philosophical Review*, 74(1): 27–46.
-* –––, 1970, *God and Timelessness*, New York: Schocken.
-* –––, 1993, “A Latter-Day Look at the Foreknowledge Problem,” *International Journal for Philosophy of Religion*, 33 (June): 129–164.
-* Pinnock, Clark, Richard Rice, John Sanders, William Hasker, and David Basinger, 1994, *The Openness of God: A Biblical Challenge to the Traditional Understanding of God*, Downers Grove, IL: InterVarsity Press.
-* Plantinga, Alvin, 1973, *The Nature of Necessity*, New York: Oxford University Press.
-* –––, 1977, *God, Freedom, and Evil*, Grand Rapids, MI: Eerdmans
-* –––, 1986, “On Ockham’s Way Out,” *Faith and Philosophy*, 3(3): 235–269.
-* Prior, Arthur N., 1962, “The Formalities of Omniscience,” *Philosophy*, 37 (April): 114–29.
-* –––, 1967, *Past, Present, and Future*, Oxford: Clarendon Press.
-* Purtill, Richard, 1988, “Fatalism and the Omnitemporality of Truth,” *Faith and Philosophy*, 5(2): 185–192.
-* Pruss, A., 2007, “Prophecy Without Middle Knowledge,” *Faith and Philosophy*, 24(4): 433–57.
-* –––, 2011, “From Restricted to Full Omniscience,” *Religious Studies*, 47(2): 257–64.
-* Rauf, M.A., 1970, “The Qur’an and Free Will,” *The Muslim World*, 60(4): 289–299.
-* Rea, Michael, 2006, “Presentism and Fatalism,” *Australasian Journal of Philosophy*, 84(4): 511–24.
-* Reichenbach, Bruce, 1987, “Hasker on Omniscience,” *Faith and Philosophy*, 4 (January): 86–92.
-* –––, 1988, “Fatalism and Freedom,” *International Philosophical Quarterly*, 28 (September): 271–85.
-* Rhoda, Alan R., 2009, “Presentism, Truthmakers, and God,” *Pacific Philosophical Quarterly*, 90: 41–62.
-* Rhoda, A.R., G.A. Boyd, and T.G. Belt, 2006, “Open Theism, Omniscience, and the Nature of the Future,” *Faith and Philosophy*, 23(4): 432–59.
-* Rice, Hugh, 2005, “Zagzebski on the Arrow of Time,” *Faith and Philosophy*, 22(3): 363–369.
-* Robinson, Michael D., 1995, *Eternity and Freedom: A Critical Analysis of Divine Timelessness as a Solution to the Foreknowledge/Free Will Debate*, Lanham, MD: University Press of America.
-* –––, 2004a, “Divine Providence, Simple Foreknowledge, and the ‘Metaphysical Principle’,” *Religious Studies*, 40(4): 471–83.
-* –––, 2004b, “Divine Guidance and an Accidentally Necessary Future: A Response to Hunt,” *Religious Studies*, 40(4): 493–98.
-* Rogers, Katherin A., 2007a, “Anselmian Eternalism,” *Faith and Philosophy*, 24(1): 3–27.
-* –––, 2007b, “The Necessity of the Present and Anselm’s Eternalist Response to the Problem of Theological Fatalism,” *Religious Studies*, 43(1): 25–47.
-* –––, 2006, “Anselm on Eternity as the Fifth Dimension,” *The Saint Anselm Journal*, 3(2): 1–8.
-* Rota, Michael, 2010, “The Eternity Solution to the Problem of Human Freedom and Divine Foreknowledge,” *European Journal for Philosophy of Religion*, 2(1): 165–186.
-* Rowe, William L., 1999, “Problem of Divine Sovereignty and Human Freedom,” *Faith and Philosophy*, 16(1): 98–101.
-* Runzo, Joseph, 1981, “Omniscience and Freedom for Evil,” *International Journal for Philosophy of Religion*, 12: 131–147.
-* Sanders, John, 1997, “Why Simple Foreknowledge Offers No More Providential Control Than the Openness of God,” *Faith and Philosophy*, 14(1): 26–40.
-* –––, 1998, *The God Who Risks: A Theology of Providence*, Downers Grove, IL: InterVarsity Press.
-* Sansbury, T., 2007, “The False Promise of Quantum Mechanics,” *Zygon*, 42(1): 111–22.
-* Sartorio, Carolina, 2016, “PAP-Style Cases,” *Journal of Philosophy*, 113(11): 533–49.
-* Shabo, Seth, 2010, “Uncompromising Source Incompatibilism,” *Philosophy and Phenomenological Research*, 80(2): 349–83.
-* Shanley, B., 1997, “Eternal Knowledge of the Temporal in Aquinas,” *American Catholic Philosophical Quarterly*, 71: 197–224.
-* –––, 1998, “Divine Causation and Human Freedom in Aquinas,” *American Catholic Philosophical Quarterly*, 72: 99–122.
-* Shieber, Joseph., 2009, “Personal Responsibility and Middle Knowledge: A Challenge for the Molinist,” *International Journal for Philosophy of Religion*, 66(2): 61–70.
-* Sider, Ted, 1999, “Presentism and Ontological Commitment,” *Journal of Philosophy*, 96(7): 325–47.
-* Sleigh, Robert, 1994, “Leibniz and Divine Foreknowledge,” *Faith and Philosophy*, 11(4): 547–571.
-* Slote, Michael, 1982, “Selective Necessity and the Free-Will Problem,” *Journal of Philosophy*, 79(1): 5–24.
-* Stump, Eleonore, 1990, “Intellect, Will, and the Principle of Alternate Possibilities,” in *Christian Theism and the Problems of Philosophy*, Michael D. Beaty (ed.), Notre Dame: University of Notre Dame Press, pp. 254–85.
-* –––, 1996, “Libertarian Freedom and the Principle of Alternate Possibilities,” in *Faith, Freedom, and Rationality*, Jeff Jordan and Daniel Howard-Snyder (eds.), Lanham, MD: Rowman and Littlefield, pp. 73–88.
-* Stump, Eleonore, and Norman Kretzmann, 1981, “Eternity,” *Journal of Philosophy*, 78 (August): 429–58.
-* –––, 1991, “Prophecy, Past Truth, and Eternity,” *Philosophical Perspectives* (Volume 5: Philosophy of Religion), James Tomberlin (ed.), Atascadero: Ridgeview Press, pp. 395–424.
-* –––, 1992, “Eternity, Awareness, and Action,” *Faith and Philosophy*, 9: 463–82.
-* Swenson, Philip, 2016, “Ability, Foreknowledge, and Explanatory Dependence,” *Australasian Journal of Philosophy*, 94(4): 658–71.
-* Swinburne, Richard, 1977, *The Coherence of Theism*, Oxford: Oxford University Press.
-* –––, 2006, *Providence and the Problem of Evil*, Oxford University Press.
-* Talbott, Thomas, 1986, “On Divine Foreknowledge and Bringing About the Past,” *Philosophy and Phenomenological Research*, 46: 455–469.
-* –––, 1993, “Theological Fatalism and Modal Confusion,” *International Journal for Philosophy of Religion*, 33 (April): 65–88.
-* Talsma, Tina., 2013, “Source Incompatibilism and the Foreknowledge Dilemma,” *International Journal for Philosophy of Religion*, 73(3): 209–19.
-* Tanis, J., 2004, “Free Will and Foreknowledge,” *Dialogue*, 46(2–3): 95–103.
-* Timpe, Kevin, 2005. “Prayers for the Past,” *Religious Studies*, 41(3): 305–322.
-* –––, 2007. “Truth-making and Divine Eternity,” *Religious Studies*, 43(3): 299–315.
-* Todd, Patrick, 2011, “Geachianism,” *Oxford Studies in Philosophy of Religion*, 3: 222–51.
-* –––, 2013a, “Soft Facts and Ontological Dependence,” *Philosophical Studies*, 164(3): 829–44.
-* –––, 2013b, “Prepunishment and Explanatory Dependence: A New Argument for Incompatibilism about Foreknowledge and Freedom,” *Philosophical Review*, 122(4): 619–39.
-* –––, 2014a, “Against Limited Foreknowledge,” *Philosophia*, 42(2): 523–38.
-* –––, 2014b, “Fatalism,” *Oxford Bibliographies in Philosophy*, Duncan Pritchard (ed.), [available online](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0116.xml).
-* –––, 2016a, “Future Contingents Are All False! On Behalf of a Russellian Open Future,” *Mind*, 125(499): 775–98.
-* –––, 2016b, “On Behalf of a Mutable Future,” *Synthese*, 193(7): 2077–95.
-* –––, 2021, *The Open Future: Why Future Contingents Are All False*, Oxford University Press.
-* Tooley, Michael, 2000, “Freedom and Foreknowledge,” *Faith and Philosophy*, 17 (April): 212–224.
-* –––, 2010, “Time, Truth, Actuality, and Causation: On the Impossibility of Divine Foreknowledge,” *European Journal for Philosophy of Religion*, 2(1): 143–163.
-* Tuggy, Dale, 2007, “Three Roads to Open Theism,” *Faith and Philosophy*, 24(1): 28–51.
-* Van Inwagen, Peter, 1983, *An Essay on Free Will*, Oxford: Clarendon Press.
-* –––, 2008, “What Does an Omniscient Being Know About the Future?” *Oxford Studies in Philosophy of Religion* (Volume 1), Jonathan Kvanvig (ed.), Oxford: Oxford University Press, pp. 216–30.
-* Vicens, Leigh C., and Simon Kittle, 2019, *God and Human Freedom*, Cambridge: Cambridge University Press.
-* Walls, Jerry L., 1990, “Is Molinism as Bad as Calvinism?” *Faith and Philosophy*, 7(1): 85–98.
-* Warfield, Ted, 1997, “Divine Foreknowledge and Human Freedom Are Compatible,” *Noûs*, 31(1): 80–86.
-* –––, 2000, “On Freedom and Foreknowledge: A Reply to Two Critics,” *Faith and Philosophy*, 17 (April): 255–259.
-* Wasserman, Ryan, 2021, “Freedom, Foreknowledge, and Dependence,” *Noûs* 55: 603–622.
-* –––, forthcoming, “The Independence Solution to the Problem of Theological Fatalism,” *Philosophy and Phenomenological Research*, doi:10.1111/phpr.12743
-* Werther, D., 2005, “Divine Foreknowledge, Harry Frankfurt, and ‘Hyper-Incompatibilism’,” *Ars Disputandi*, 5: 1–7.
-* Westphal, P., 2011, “The Compatibility of Divine Foreknowledge and Freewill,” *Analysis*, 71(2): 246–52.
-* –––, 2012, “The Logic of the Compatibility of God’s Foreknowledge and Human Freewill,” *Analysis*, 72(2): 746–8.
-* Whitehead, A. N., 1978, *Process and Reality*, D. R. Griffin and D. Sherburne (eds.), New York: Macmillan Press.
-* Widerker, David, 1990, “Troubles with Ockhamism,” *Journal of Philosophy*, 87(9): 462–80.
-* –––, 1991, “A Problem for the Eternity Solution,” *International Journal for Philosophy of Religion*, 29: 87–95.
-* –––, 1995a, “Libertarian Freedom and the Avoidability of Decisions,” *Faith and Philosophy*, 12: 112–118.
-* –––, 1995b, “Libertarianism and Frankfurt’s Attack on the Principle of Alternate Possibilities,” *Philosophical Review*, 104 (April): 247–261.
-* –––, 1996, “Contra Snapshot Ockhamism,” *International Journal for Philosophy of Religion*, 39(2): 95–102.
-* –––, 2000, “Theological Fatalism and Frankfurt Counterexamples to the Principle of Alternate Possibilities,” *Faith and Philosophy*, 17 (April): 249–254.
-* Wierenga, Edward, 1989, *The Nature of God*, Ithaca: Cornell University Press.
-* –––, 1991, “Prophecy, Freedom, and the Necessity of the Past,” *Philosophical Perspectives* (Volume 5: Philosophy of Religion), James Tomberlin (ed.), Atascadero: Ridgeview, pp. 425–446.
-* Wolterstorff, Nicholas, 1975, “God Everlasting,” *God and the Good: Essays in Honor of Henry Stob*, C. Orlebeke and L. Smedes (eds.), Grand Rapids: Eerdmans.
-* Wyckoff, J., 2010, “On the Incompatibility of Divine Foreknowledge and Human Freedom,” *Sophia*, 49(3): 333–41.
-* Zagzebski, Linda, 1991, *The Dilemma of Freedom and Foreknowledge*, New York: Oxford University Press.
-* –––, 1993, “Rejoinder to Hasker,” *Faith and Philosophy*, 10(2): 256–260.
-* –––, 1997, “Foreknowledge and Freedom,” *Companion to Philosophy of Religion*, Philip Quinn and Charles Taliaferro (eds.), Oxford and New York: Blackwell.
-* –––, 2000, “Does Libertarian Freedom Require Alternate Possibilities?” *Noûs* Vol. 34, Supplement: *Philosophical Perspectives*, 14 (Action and Freedom): 231–248.
-* –––, 2002a, “Recent Work on Divine Foreknowledge and Free Will,” *The Oxford Handbook of Free Will*, Robert Kane (ed.), Oxford: Oxford University Press, pp. 45–64.
-* –––, 2002b, “Omniscience and the Arrow of Time,” *Faith and Philosophy*, 19(4): 503–519.
-* –––, 2004, “Omniscience, Time, and Freedom,” *Guide to Philosophy of Religion*, William Mann (ed.), Oxford and New York: Blackwell.
-* –––, 2011, “Eternity and Fatalism,” in *God, Eternity, and Time*, Christian Tapp (ed.), Aldershot: Ashgate Press.
-* –––, 2014, “Divine Foreknowledge and the Metaphysics of Time,” in *God: Reason, and Reality* (Philosophia Series: Basic Philosophical Concepts), A Ramelow (ed.), Munich: Philosophia Verlag.
-* Zemach, Eddy M., and David Widerker, 1987, “Facts, Freedom, and Foreknowledge,” *Religious Studies*, 23 (March): 19–28.
-* Zimmerman, Dean, 2008, “The Privileged Present: Defending an ‘A-Theory’ of Time,” in *Contemporary Debates in Metaphysics*, Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), Oxford: Blackwell, pp. 211–25.
-* –––, 2010, “The A-Theory of Time, Presentism, and Open Theism,” in*Science and Religion in Dialogue*, vol. 2, Melville Y. Stewart (ed.), Malden, MA: Wiley-Blackwell.
-* –––, 2012, “The Providential Usefulness of ‘Simple Foreknowledge’,” in *Reason, Metaphysics, and Mind: New Essays on the Philosophy of Alvin Plantinga*, Kelly James Clark and Michael Rea (eds.), Oxford: Oxford University Press.
+* Adams, Marilyn, 1967, “Is the Existence of God a ‘Hard’ Fact?” _Philosophical Review_, 76(4): 492–503.
+* Adams, Robert Merrihew, 1991, “An Anti-Molinist Argument,” _Philosophical Perspectives_ (Volume 5: Philosophy of Religion), James Tomberlin (ed)., Atascadero, CA: Ridgeview, pp. 343–354.
+* Alston, William P., 1985, “Divine Foreknowledge and Alternative Conceptions of Human Freedom,” _International Journal for Philosophy of Religion_, 18(1): 19–32.
+* –––, 1986, “Does God Have Beliefs?” _Religious Studies_, 22 (Sept/Dec): 287–306.
+* Aquinas, St. Thomas, _Summa Theologica_, Ia, q. 14, art 13.
+* –––, _Summa Contra Gentiles_ I, chap. 66.
+* Arbour, Benjamin H., 2013, “Future Freedom and the Fixity of Truth: Closing the Road to Limited Foreknowledge Open Theism,” _International Journal for Philosophy of Religion_, 73(3): 189–207.
+* ––– (ed.), 2019, _Philosophical Essays Against Open Theism_, London: Routledge.
+* Augustine, _The City of God_, trans. Henry Bettenson, intro. G.R. Evans, Penguin, 2003.
+* –––, _On Free Choice of the Will_, trans., with introduction and notes, by Thomas Williams, Indianapolis, IN: Hackett Publishing Co., 1993.
+* Basinger, David, 1986, “Middle Knowledge and Classical Christian Thought,” _Religious Studies_, 22(3/4): 407–22.
+* Baker, D., 2005, “Divine Foreknowledge—So What?” _Heythrop Journal_, 46(1): 60–65.
+* –––, 1993, “Simple Foreknowledge and Providential Control,” _Faith and Philosophy_, 10(3): 421–427.
+* Boethius, _The Consolation of Philosophy_, Book V, Prose vi.
+* Boyd, Gregory, 2010, “Two Ancient (and Modern) Motivations for Ascribing Exhaustively Definite Foreknowledge to God: A Historic Overview and Critical Assessment,” _Religious Studies_, 46(1): 41–59.
+* –––, 2015, “The Open Future, Free Will and Divine Assurance: Responding to Three Common Objections to the Open View,” _European Journal for Philosophy of Religion_, 7(3): 207–22.
+* Boyd, Gregory A., David Hunt, William Lane Craig, and Paul Helm, 2001, _Divine Foreknowledge: Four Views_, James K. Beilby and Paul R. Eddy (eds.), Downers Grove, IL: InterVarsity Press.
+* Brant, Dale Eric, 1997, “On Plantinga’s Way Out,” _Faith and Philosophy_, 14(3): 378–387.
+* Brown, Robert F., 1991, “Divine Omniscience, Immutability, Aseity and Human Free Will,” _Religious Studies_, 27(3): 285–295.
+* Brueckner, Anthony, 2000, “On an Attempt to Demonstrate the Compatibility of Divine Foreknowledge and Human Freedom,” _Faith and Philosophy_, 17(1): 132–134.
+* Brüntrup, Godehard and Ruben Schneider, 2011, “How Molinists Can Have Their Cake and Eat It Too,” in _The Ways Things Are: Studies in Ontology_, Christian Kanzian, Winfried Löffler, and Josef Quitterer (eds.), Frankfurt, Paris, Lancaster, and New Brunswick: Ontos Verlag, pp. 221–40.
+* Byerly, T. Ryan, 2014, _The Mechanics of Divine Foreknowledge and Providence: A Time-Ordering Account_, New York & London: Bloomsbury Press.
+* Climenhaga, Nevin, and Daniel Rubio, forthcoming, “Molinism: Explaining Our Freedom Away,” _Mind_, doi:10.1093/mind/fzab042
+* Craig, William Lane, 1987, _The Only Wise God_, Grand Rapids, MI: Baker Book House.
+* –––, 1990, _Divine Foreknowledge and Human Freedom_ (Brill’s Studies in Intellectual History 19), Leiden: E.J. Brill.
+* –––, 1994, “Robert Adams’s New Anti-Molinist Argument,” _Philosophy and Phenomenological Research_, 54(4): 857–861.
+* –––, 1998, “On Hasker’s Defense of Anti-Molinism,” _Faith and Philosophy_, 15(2): 236–240.
+* –––, 2005, “Divine Eternity and the General Theory of Relativity,” _Faith and Philosophy_, 22(5): 543–57.
+* Craig, William Lane, and David P. Hunt, 2013, “Perils of the Open Road,” _Faith and Philosophy_, 30(1): 49–71.
+* Cyr, Taylor W., 2020, “Atemporalism and Dependence,” _International Journal for Philosophy of Religion_, 87(2): 149–64.
+* Cyr, Taylor W., and Andrew Law, forthcoming, “Freedom, Foreknowledge, and Dependence: A Dialectical Intervention,” _American Philosophical Quarterly_.
+* Davenport, John, 2007, “Augustine on Liberty of the Higher-Order Will: Answers to Hunt and Stump,” _Proceedings of the American Catholic Philosophical Association_, 81: 67–89.
+* De Florio, Ciro, and Aldo Frigerio, 2015, “In Defense of the Timeless Solution to the Problem of Human Free Will and Divine Foreknowledge,” _International Journal for Philosophy of Religion_, 78(1): 5–28.
+* –––, 2019, _Divine Omniscience and Human Free Will: A Logical and Metaphysical Analysis_, London: Palgrave Macmillan.
+* Dekker, Eef, 2000, _Middle Knowledge_, Leuven: Peeters.
+* Diekemper, Joseph., 2013, “Eternity, Knowledge, and Freedom,” _Religious Studies_, 49(1): 45–64.
+* Dummett, Michael, 1964, “Bringing About the Past,” _Philosophical Review_, 73: 338–359; reprinted in his _Truth and Other Enigmas_, London: Duckworth, 1978.
+* Edwards, Jonathan, _Freedom of the Will_, ed. Paul Ramsey, Yale University Press, 2009.
+* Fales, E., 2010, “Is Middle Knowledge Possible? Almost,” _Sophia_, 50(1): 1–9.
+* Finch, Alicia, and Michael Rea, 2008, “Presentism and Ockham’s Way Out,” _Oxford Studies in Philosophy of Religion_ (Volume 1), Jonathan Kvanvig (ed.), Oxford: Oxford University Press, pp. 1–17.
+* Finch, Alicia and Ted Warfield, 1999, “Fatalism: Logical and Theological,” _Faith and Philosophy_, 16(2): 233–238.
+* Fischer, John Martin, 1983, “Freedom and Foreknowledge,” _Philosophical Review_, 92 (January): 67–79.
+* –––, 1985a, “Ockhamism,” _Philosophical Review_, 94 (January): 81–100.
+* –––, 1985b, “Scotism,” _Mind_, 94 (April): 231–43.
+* ––– (ed.), 1989, _God, Freedom, and Foreknowledge_, Stanford, CA: Stanford University Press.
+* –––, 1991, “Snapshot Ockhamism,” _Philosophical Perspectives_ (Volume 5: Philosophy of Religion), Atascadero: Ridgeview, 355–372.
+* –––, 1992, “Recent Work on God and Freedom,” _American Philosophical Quarterly_, 29(2): 91–109.
+* –––, 1994, _The Metaphysics of Free Will_, Oxford: Blackwell.
+* –––, 2008, “Molinism,” _Oxford Studies in Philosophy of Religion_ (Volume 1), Jonathan Kvanvig (ed.), Oxford: Oxford University Press, pp. 18–43.
+* –––, 2016, _Our Fate: Essays on God and Free Will_, Oxford: Oxford University Press.
+* –––, 2017, “Book Symposium on _Our Fate:_ Replies to My Critics,” _Science, Religion, and Culture_, 4: 79–101.
+* –––, forthcoming, “The Frankfurt-style Cases: Extinguishing the Flickers of Freedom,” _Inquiry_, doi:10.1080/0020174X.2021.1904640
+* Fischer, John Martin, and Patrick Todd, 2011, “The Truth about Freedom: A Reply to Merricks,” _Philosophical Review_, 120(1): 97–115.
+* –––, 2013, “The Truth about Foreknowledge,” _Faith and Philosophy_, 30(3): 286–301.
+* –––, 2015, “Introduction,” _Freedom, Fatalism, and Foreknowledge_, John Martin Fischer and Patrick Todd (eds.), Oxford: Oxford University Press, pp. 1–38.
+* Fischer, John Martin, and Neal A. Tognazzini, 2014, “Omniscience, Freedom, and Dependence,” _Philosophy and Phenomenological Research_, 88(2): 346–67.
+* Fischer, John Martin, Patrick Todd, and Neal A. Tognazzini, 2009, “Engaging with Pike: God, Freedom, and Time,” _Philosophical Papers_, 38(2): 247–70.
+* Fitzgerald, J., 2008, “Timeless Troubles: The Challenge of Prophecy to the Eternity Solution to the Foreknowledge/Freedom Dilemma,” _Proceedings of the American Catholic Philosophical Association_, 82: 203–15.
+* Flint, Thomas, 1990, “Hasker’s _God, Time, and Knowledge_,” _Philosophical Studies_, 60: 103–115.
+* –––, 1991, “In Defense of Theological Compatibilism,” _Faith and Philosophy_, 8: 237–243.
+* –––, 1997, “Praying for Things to Have Happened,” _Midwest Studies in Philosophy_ (Volume XXI), Peter French, _et al_., (eds.), pp. 61–82.
+* –––, 1998, _Divine Providence: The Molinist Account_, Ithaca, NY: Cornell University Press.
+* Forrest, Peter, 1985, “Backwards Causation in Defence of Free Will,” _Mind_, 94 (April): 210–217.
+* Frankfurt, Harry, 1969, “Alternate Possibilities and Moral Responsibility,” _Journal of Philosophy_, 46 (December): 829–839.
+* Freddoso, Alfred, 1982, “Accidental Necessity and Power Over the Past,” _Pacific Philosophical Quarterly_, 63: 54–68.
+* –––, 1983, “Accidental Necessity and Logical Determinism,” _Journal of Philosophy_, 80: 257–78.
+* –––, 1988, Trans. and introduction to Luis de Molina, _On Divine Foreknowledge_ (Part IV of _Concordia_), Ithaca, NY: Cornell University Press.
+* Gaskin, R., 1993, “Conditionals of Freedom and Middle Knowledge,” _The Philosophical Quarterly_, 43(173): 412–430.
+* –––, 1994, “Molina on Divine Foreknowledge and the Principle of Bivalence,” _Journal of the History of Philosophy_, 32(4): 551–571.
+* Goris, Harm J.M.J., 1996, _Free Creatures of an Eternal God: Thomas Aquinas on God’s Foreknowledge and Irresistible Will_, Utrecht/Louvain: Thomas Instituut/Peeters.
+* Graham, P.A., 2008, “Warfield on Divine Foreknowledge and Human Freedom,” _Faith and Philosophy_, 25(1): 75–8.
+* Griffin, David, and John B. Cobb, 1976, _Process Theology: An Introductory Exposition_, Philadelphia: Westminster Press.
+* Grössl, Johannes, and Leigh Vicens, 2014, “Closing the Door on Limited-Risk Open Theism,” _Faith and Philosophy_, 31(4): 475–85.
+* Guleserian, T., 2008, “Ontological Determination and the Grounding Objection to Counterfactuals of Freedom,” _Faith and Philosophy_, 25(4): 394–415.
+* Haack, Susan, 1974, “On a Theological Argument for Fatalism,” _Philosophical Quarterly_, 24 (April): 156–59.
+* Hartshorne, Charles, 1941, _Man’s Vision of God_, New York: Harper and Bros.
+* –––, 1967, _A Natural Theology for Our Time_, Lasalle: Open Court Pub.
+* Hasker, William, 1988, “Yes, God Has Beliefs!” _Religious Studies_, 24(3): 385–94.
+* –––, 1989, _God, Time, and Knowledge_, Ithaca, NY: Cornell University Press.
+* –––, 1993, “Zagzebski on Power Entailment,” _Faith and Philosophy_, 10(2): 250–255.
+* –––, 1995, “Middle Knowledge: A Refutation Revisited,” _Faith and Philosophy_, 12(2): 223–236.
+* –––, 1997, “Explanatory Priority: Transitive and Unequivocal, a Reply to William Craig,” _Philosophy and Phenomological Research_, 57(2): 389–393.
+* –––, 1998, “No Easy Way Out – A Response to Warfield,” _Noûs_, 32: 361–363.
+* –––, 2000, “Anti-Molinism is Undefeated!”, _Faith and Philosophy_, 17(1): 126–131.
+* –––, 2009. “Why Simple Foreknowledge Is Still Useless (In Spite of David Hunt and Alex Pruss),” _Journal of the Evangelical Theological Society_ 52(3): 537–44.
+* Hawking, Stephen, 1988, _A Brief History of Time_, New York: Bantam Books.
+* Hess, Elijah, 2020, “Contra Tooley: Divine Foreknowledge Is Possible,” _International Journal for Philosophy of Religion_, 87(2): 165–72.
+* Hoffman, Joshua and Gary Rosenkrantz, 1984, “Hard and Soft Facts,” _Philosophical Review_, 93 (July): 419–34.
+* Hughes, Charles T., 1997, “Belief, Foreknowledge, and Theological Fatalism,” _Faith and Philosophy_, 14(3): 378–87.
+* Hunt, David P., 1993, “Divine Providence and Simple Foreknowledge,” _Faith and Philosophy_, 10(3): 394–414.
+* –––, 1995, “Dispositional Omniscience,” _Philosophical Studies_, 80 (December): 243–78.
+* –––, 1997, “Two Problems with Knowing the Future,” _American Philosophical Quarterly_, 34 (April): 273–85.
+* –––, 1999a, “On Augustine’s Way Out,” _Faith and Philosophy_, 16(1): 3–26.
+* –––, 1999b, “Moral Responsibility and Unavoidable Action,” _Philosophical Studies_, 97(2): 195–227.
+* –––, 2002, “The Compatibility of Divine Determinism and Human Freedom: A Modest Proposal,” _Faith and Philosophy_, 19 (October): 485–502.
+* –––, 2003, “Freedom, Foreknowledge, and Frankfurt,” in _Moral Responsibility and Alternative Possibilities: Essays on the Importance of Alternative Possibilities_, David Widerker and Michael McKenna (eds.), Burlington, VT: Ashgate Publishing Co., pp. 159–83.
+* –––, 2009, “The Providential Advantage of Divine Foreknowledge,” in _Arguing about Religion_, Kevin Timpe (ed.), New York: Routledge, pp. 374–85.
+* –––, 2017a, “Theological Fatalism as an Aporetic Problem,” in _Free Will and Classical Theism: The Significance of Freedome in Perfect Being Theology_, Hugh McCann (ed.), pp. 23–41.
+* –––, 2017b, “John Martin Fischer on the Puzzle of Theological Fatalism,” _Science, Religion and Culture_, 4: 15–26.
+* –––, 2020, “Fatalism for Presentists,” in _The Metaphysics of Time: Themes on Prior_, Per Hasle, David Jakobsen, and Peter Øhrstrøm (eds.), Aalborg University Press, pp. 299–316.
+* Ishtiyaque, H., 2005, “Foreknowledge, Freedom, and Obligation,” _Pacific Philosophical Quarterly_, 86(3): 321–39.
+* Johnson, David Kyle, 2009, “God, Fatalism, and Temporal Ontology,” _Religious Studies_, 45(4): 435–54.
+* Kane, Robert, 1996, _The Significance of Free Will_, New York: Oxford University Press.
+* Kapitan, Tomis, 1993, “Providence, Foreknowledge, and Decision Procedure,” _Faith and Philosophy_, 10(3): 415–420.
+* Kenny, Anthony, 1969, “Divine Foreknowledge and Human Freedom,” in Kenny, _Aquinas: A Collection of Critical Essays_, Notre Dame: University of Notre Dame Press.
+* –––, 1979, _The God of the Philosophers_, Oxford: Clarendon Press.
+* Kosciuk, Christopher J., 2010, _Human Freedom in a World Full of Providence: An Ockhamist-Molinist Account of the Compatibility of Divine Foreknowledge and Creaturely Free Will_, University of Massachusetts Amherst, Open Access Dissertations.
+* Kvanvig, Jonathan, 1986, _The Possibility of an All-Knowing God_, New York: St. Martin’s Press.
+* Law, Andrew, 2020, “The Dependence Response and Explanatory Loops,” _Faith and Philosophy_, 37(3): 294–307.
+* –––, 2021, “From the Fixity of the Past to the Fixity of the Independent,” _Philosophical Studies_, 178(4): 1301–14.
+* Leftow, Brian, 1991a, _Time and Eternity_, Ithaca: Cornell University Press.
+* –––, 1991b, “Timelessness and Foreknowledge,” _Philosophical Studies_, 63: 309–325.
+* Lewis, David, 1979, “Counterfactual Dependence and Time’s Arrow,” _Noûs_, 13 (November): 455–476.
+* Linville, Mark D., 1993, “Divine Foreknowledge and the Libertarian Conception of Freedom,” _International Journal for Philosophy of Religion_, 33(3): 165–186.
+* Lucas, J.R., 1989, _The Future: An Essay on God, Temporality, and Truth_, London: Blackwell.
+* Malpass, Alex, and Jacek Wawer, 2012, “A Future for the Thin Red Line,” _Synthese_, 188(1): 117–42.
+* Markosian, Ned, 2004, “A Defense of Presentism,” in _Oxford Studies in Metaphysics_ (Volume 1), Dean Zimmerman (ed.), Oxford: Oxford University Press, pp. 47–82.
+* Massie, P., 2006, “Time and Contingency in Duns Scotus,” _The Saint Anselm Journal_, 3(2): 17–31.
+* Mavrodes, George, 1984, “Is the Past Preventable?” _Faith and Philosophy_, I (April): 131–146.
+* McCall, Storrs, 2011, “The Supervenience of Truth: Freewill and Omniscience,” _Analysis_, 71(3): 501–6.
+* McCann, Hugh, 1995, “Divine Sovereignty and the Freedom of the Will,” _Faith and Philosophy_, 12(4): 582–598.
+* McKay, Thomas J., and David Johnson, 1996, “A Reconsideration of an Argument against Compatibilism,” _Philosophical Topics_, 24(2): 113–22.
+* McKenna, Michael, 1997, “Alternate Possibilities and the Failure of the Counterexample Strategy,” _Journal of Social Philosophy_, 28(3): 71–85.
+* Mele, Alfred, and David Robb, 1998, “Rescuing Frankfurt-Style Cases,” _Philosophical Review_, 107(1): 97–112.
+* Merricks, Trenton., 2009, “Truth and Freedom,” _Philosophical Review_, 118(1): 29–57.
+* –––, 2011, “Foreknowledge and Freedom,” _Philosophical Review_, 120(4): 567–86.
+* Molina, Luis de. \[See Freddoso 1988.]
+* Mongkin, Charles, and Menachem Kellner (eds.), 2000, _Free Will and Moral Responsibility: General and Jewish Perspectives_, College Park, MD: University of Maryland Press.
+* Mooney, Justin, 2018, “Does Molinism Reconcile Freedom and Foreknowledge?” _European Journal for Philosophy of Religion_, 10(2): 131–48.
+* Murray, Michael J., 1995, “Leibniz on Divine Foreknowledge of Future Contingents and Human Freedom,” _Philosophy and Phenomenological Research_, 55(1): 75–108.
+* O’Connor, Timothy, 2000, _Persons and Causes: The Metaphysics of Free Will_, Oxford: Oxford University Press.
+* Ockham, William, 1983, _Predestination, Foreknowledge, and Future Contingents_, 2nd ed & trans. by Marilyn McCord Adams and Norman Kretzmann, Indianapolis: Hackett.
+* Otsuka, Michael, 1998, “Incompatibilism and the Avoidability of Blame,” _Ethics_, 108 (July): 685–701.
+* Øhrstrøm, Peter, 2009, “In Defence of the Thin Red Line: A Case for Ockhamism,” _Humana Mente_, 8: 17–32.
+* Padgett, Alan, 1992, _Eternity and the Nature of Time_, New York: St. Martin’s Press.
+* Padgett, Alan. 2002. “Divine Foreknowledge and the Arrow of Time: On the Impossibility of Retrocausation,” in _God and Time: Essays on the Divine Nature_, Gregory E. Ganssle and David M. Woodruff (eds.), Oxford: Oxford University Press, pp. 65–74.
+* Pendergraft, Garrett, and D. Justin Coates., 2014, “No (New) Troubles with Ockhamism,” _Oxford Studies in Philosophy of Religion_, 5: 185–208.
+* Pawl, Timothy, 2014a, “The Freedom of Christ and Explanatory Priority,” _Religious Studies_, 50: (2): 157–73.
+* –––, 2014b, “The Freedom of Christ and the Problem of Deliberation,” _International Journal for Philosophy of Religion_, 75(3): 233–47.
+* Pereboom, Derk, 2000, “Alternate Possibilities and Causal Histories,” _Philosophical Perspectives_ (Volume 20), James Tomberlin (ed.), Atascadero: Ridgeview.
+* Perszyk, Ken., 2011, _Molinism: The Contemporary Debate_, Oxford University Press.
+* –––, 2013, “Recent Work on Molinism,” _Philosophy Compass_, 8: 755–70.
+* Pike, Nelson, 1965, “Divine Omniscience and Voluntary Action,” _The Philosophical Review_, 74(1): 27–46.
+* –––, 1970, _God and Timelessness_, New York: Schocken.
+* –––, 1993, “A Latter-Day Look at the Foreknowledge Problem,” _International Journal for Philosophy of Religion_, 33 (June): 129–164.
+* Pinnock, Clark, Richard Rice, John Sanders, William Hasker, and David Basinger, 1994, _The Openness of God: A Biblical Challenge to the Traditional Understanding of God_, Downers Grove, IL: InterVarsity Press.
+* Plantinga, Alvin, 1973, _The Nature of Necessity_, New York: Oxford University Press.
+* –––, 1977, _God, Freedom, and Evil_, Grand Rapids, MI: Eerdmans
+* –––, 1986, “On Ockham’s Way Out,” _Faith and Philosophy_, 3(3): 235–269.
+* Prior, Arthur N., 1962, “The Formalities of Omniscience,” _Philosophy_, 37 (April): 114–29.
+* –––, 1967, _Past, Present, and Future_, Oxford: Clarendon Press.
+* Purtill, Richard, 1988, “Fatalism and the Omnitemporality of Truth,” _Faith and Philosophy_, 5(2): 185–192.
+* Pruss, A., 2007, “Prophecy Without Middle Knowledge,” _Faith and Philosophy_, 24(4): 433–57.
+* –––, 2011, “From Restricted to Full Omniscience,” _Religious Studies_, 47(2): 257–64.
+* Rauf, M.A., 1970, “The Qur’an and Free Will,” _The Muslim World_, 60(4): 289–299.
+* Rea, Michael, 2006, “Presentism and Fatalism,” _Australasian Journal of Philosophy_, 84(4): 511–24.
+* Reichenbach, Bruce, 1987, “Hasker on Omniscience,” _Faith and Philosophy_, 4 (January): 86–92.
+* –––, 1988, “Fatalism and Freedom,” _International Philosophical Quarterly_, 28 (September): 271–85.
+* Rhoda, Alan R., 2009, “Presentism, Truthmakers, and God,” _Pacific Philosophical Quarterly_, 90: 41–62.
+* Rhoda, A.R., G.A. Boyd, and T.G. Belt, 2006, “Open Theism, Omniscience, and the Nature of the Future,” _Faith and Philosophy_, 23(4): 432–59.
+* Rice, Hugh, 2005, “Zagzebski on the Arrow of Time,” _Faith and Philosophy_, 22(3): 363–369.
+* Robinson, Michael D., 1995, _Eternity and Freedom: A Critical Analysis of Divine Timelessness as a Solution to the Foreknowledge/Free Will Debate_, Lanham, MD: University Press of America.
+* –––, 2004a, “Divine Providence, Simple Foreknowledge, and the ‘Metaphysical Principle’,” _Religious Studies_, 40(4): 471–83.
+* –––, 2004b, “Divine Guidance and an Accidentally Necessary Future: A Response to Hunt,” _Religious Studies_, 40(4): 493–98.
+* Rogers, Katherin A., 2007a, “Anselmian Eternalism,” _Faith and Philosophy_, 24(1): 3–27.
+* –––, 2007b, “The Necessity of the Present and Anselm’s Eternalist Response to the Problem of Theological Fatalism,” _Religious Studies_, 43(1): 25–47.
+* –––, 2006, “Anselm on Eternity as the Fifth Dimension,” _The Saint Anselm Journal_, 3(2): 1–8.
+* Rota, Michael, 2010, “The Eternity Solution to the Problem of Human Freedom and Divine Foreknowledge,” _European Journal for Philosophy of Religion_, 2(1): 165–186.
+* Rowe, William L., 1999, “Problem of Divine Sovereignty and Human Freedom,” _Faith and Philosophy_, 16(1): 98–101.
+* Runzo, Joseph, 1981, “Omniscience and Freedom for Evil,” _International Journal for Philosophy of Religion_, 12: 131–147.
+* Sanders, John, 1997, “Why Simple Foreknowledge Offers No More Providential Control Than the Openness of God,” _Faith and Philosophy_, 14(1): 26–40.
+* –––, 1998, _The God Who Risks: A Theology of Providence_, Downers Grove, IL: InterVarsity Press.
+* Sansbury, T., 2007, “The False Promise of Quantum Mechanics,” _Zygon_, 42(1): 111–22.
+* Sartorio, Carolina, 2016, “PAP-Style Cases,” _Journal of Philosophy_, 113(11): 533–49.
+* Shabo, Seth, 2010, “Uncompromising Source Incompatibilism,” _Philosophy and Phenomenological Research_, 80(2): 349–83.
+* Shanley, B., 1997, “Eternal Knowledge of the Temporal in Aquinas,” _American Catholic Philosophical Quarterly_, 71: 197–224.
+* –––, 1998, “Divine Causation and Human Freedom in Aquinas,” _American Catholic Philosophical Quarterly_, 72: 99–122.
+* Shieber, Joseph., 2009, “Personal Responsibility and Middle Knowledge: A Challenge for the Molinist,” _International Journal for Philosophy of Religion_, 66(2): 61–70.
+* Sider, Ted, 1999, “Presentism and Ontological Commitment,” _Journal of Philosophy_, 96(7): 325–47.
+* Sleigh, Robert, 1994, “Leibniz and Divine Foreknowledge,” _Faith and Philosophy_, 11(4): 547–571.
+* Slote, Michael, 1982, “Selective Necessity and the Free-Will Problem,” _Journal of Philosophy_, 79(1): 5–24.
+* Stump, Eleonore, 1990, “Intellect, Will, and the Principle of Alternate Possibilities,” in _Christian Theism and the Problems of Philosophy_, Michael D. Beaty (ed.), Notre Dame: University of Notre Dame Press, pp. 254–85.
+* –––, 1996, “Libertarian Freedom and the Principle of Alternate Possibilities,” in _Faith, Freedom, and Rationality_, Jeff Jordan and Daniel Howard-Snyder (eds.), Lanham, MD: Rowman and Littlefield, pp. 73–88.
+* Stump, Eleonore, and Norman Kretzmann, 1981, “Eternity,” _Journal of Philosophy_, 78 (August): 429–58.
+* –––, 1991, “Prophecy, Past Truth, and Eternity,” _Philosophical Perspectives_ (Volume 5: Philosophy of Religion), James Tomberlin (ed.), Atascadero: Ridgeview Press, pp. 395–424.
+* –––, 1992, “Eternity, Awareness, and Action,” _Faith and Philosophy_, 9: 463–82.
+* Swenson, Philip, 2016, “Ability, Foreknowledge, and Explanatory Dependence,” _Australasian Journal of Philosophy_, 94(4): 658–71.
+* Swinburne, Richard, 1977, _The Coherence of Theism_, Oxford: Oxford University Press.
+* –––, 2006, _Providence and the Problem of Evil_, Oxford University Press.
+* Talbott, Thomas, 1986, “On Divine Foreknowledge and Bringing About the Past,” _Philosophy and Phenomenological Research_, 46: 455–469.
+* –––, 1993, “Theological Fatalism and Modal Confusion,” _International Journal for Philosophy of Religion_, 33 (April): 65–88.
+* Talsma, Tina., 2013, “Source Incompatibilism and the Foreknowledge Dilemma,” _International Journal for Philosophy of Religion_, 73(3): 209–19.
+* Tanis, J., 2004, “Free Will and Foreknowledge,” _Dialogue_, 46(2–3): 95–103.
+* Timpe, Kevin, 2005. “Prayers for the Past,” _Religious Studies_, 41(3): 305–322.
+* –––, 2007. “Truth-making and Divine Eternity,” _Religious Studies_, 43(3): 299–315.
+* Todd, Patrick, 2011, “Geachianism,” _Oxford Studies in Philosophy of Religion_, 3: 222–51.
+* –––, 2013a, “Soft Facts and Ontological Dependence,” _Philosophical Studies_, 164(3): 829–44.
+* –––, 2013b, “Prepunishment and Explanatory Dependence: A New Argument for Incompatibilism about Foreknowledge and Freedom,” _Philosophical Review_, 122(4): 619–39.
+* –––, 2014a, “Against Limited Foreknowledge,” _Philosophia_, 42(2): 523–38.
+* –––, 2014b, “Fatalism,” _Oxford Bibliographies in Philosophy_, Duncan Pritchard (ed.), [available online](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0116.xml).
+* –––, 2016a, “Future Contingents Are All False! On Behalf of a Russellian Open Future,” _Mind_, 125(499): 775–98.
+* –––, 2016b, “On Behalf of a Mutable Future,” _Synthese_, 193(7): 2077–95.
+* –––, 2021, _The Open Future: Why Future Contingents Are All False_, Oxford University Press.
+* Tooley, Michael, 2000, “Freedom and Foreknowledge,” _Faith and Philosophy_, 17 (April): 212–224.
+* –––, 2010, “Time, Truth, Actuality, and Causation: On the Impossibility of Divine Foreknowledge,” _European Journal for Philosophy of Religion_, 2(1): 143–163.
+* Tuggy, Dale, 2007, “Three Roads to Open Theism,” _Faith and Philosophy_, 24(1): 28–51.
+* Van Inwagen, Peter, 1983, _An Essay on Free Will_, Oxford: Clarendon Press.
+* –––, 2008, “What Does an Omniscient Being Know About the Future?” _Oxford Studies in Philosophy of Religion_ (Volume 1), Jonathan Kvanvig (ed.), Oxford: Oxford University Press, pp. 216–30.
+* Vicens, Leigh C., and Simon Kittle, 2019, _God and Human Freedom_, Cambridge: Cambridge University Press.
+* Walls, Jerry L., 1990, “Is Molinism as Bad as Calvinism?” _Faith and Philosophy_, 7(1): 85–98.
+* Warfield, Ted, 1997, “Divine Foreknowledge and Human Freedom Are Compatible,” _Noûs_, 31(1): 80–86.
+* –––, 2000, “On Freedom and Foreknowledge: A Reply to Two Critics,” _Faith and Philosophy_, 17 (April): 255–259.
+* Wasserman, Ryan, 2021, “Freedom, Foreknowledge, and Dependence,” _Noûs_ 55: 603–622.
+* –––, forthcoming, “The Independence Solution to the Problem of Theological Fatalism,” _Philosophy and Phenomenological Research_, doi:10.1111/phpr.12743
+* Werther, D., 2005, “Divine Foreknowledge, Harry Frankfurt, and ‘Hyper-Incompatibilism’,” _Ars Disputandi_, 5: 1–7.
+* Westphal, P., 2011, “The Compatibility of Divine Foreknowledge and Freewill,” _Analysis_, 71(2): 246–52.
+* –––, 2012, “The Logic of the Compatibility of God’s Foreknowledge and Human Freewill,” _Analysis_, 72(2): 746–8.
+* Whitehead, A. N., 1978, _Process and Reality_, D. R. Griffin and D. Sherburne (eds.), New York: Macmillan Press.
+* Widerker, David, 1990, “Troubles with Ockhamism,” _Journal of Philosophy_, 87(9): 462–80.
+* –––, 1991, “A Problem for the Eternity Solution,” _International Journal for Philosophy of Religion_, 29: 87–95.
+* –––, 1995a, “Libertarian Freedom and the Avoidability of Decisions,” _Faith and Philosophy_, 12: 112–118.
+* –––, 1995b, “Libertarianism and Frankfurt’s Attack on the Principle of Alternate Possibilities,” _Philosophical Review_, 104 (April): 247–261.
+* –––, 1996, “Contra Snapshot Ockhamism,” _International Journal for Philosophy of Religion_, 39(2): 95–102.
+* –––, 2000, “Theological Fatalism and Frankfurt Counterexamples to the Principle of Alternate Possibilities,” _Faith and Philosophy_, 17 (April): 249–254.
+* Wierenga, Edward, 1989, _The Nature of God_, Ithaca: Cornell University Press.
+* –––, 1991, “Prophecy, Freedom, and the Necessity of the Past,” _Philosophical Perspectives_ (Volume 5: Philosophy of Religion), James Tomberlin (ed.), Atascadero: Ridgeview, pp. 425–446.
+* Wolterstorff, Nicholas, 1975, “God Everlasting,” _God and the Good: Essays in Honor of Henry Stob_, C. Orlebeke and L. Smedes (eds.), Grand Rapids: Eerdmans.
+* Wyckoff, J., 2010, “On the Incompatibility of Divine Foreknowledge and Human Freedom,” _Sophia_, 49(3): 333–41.
+* Zagzebski, Linda, 1991, _The Dilemma of Freedom and Foreknowledge_, New York: Oxford University Press.
+* –––, 1993, “Rejoinder to Hasker,” _Faith and Philosophy_, 10(2): 256–260.
+* –––, 1997, “Foreknowledge and Freedom,” _Companion to Philosophy of Religion_, Philip Quinn and Charles Taliaferro (eds.), Oxford and New York: Blackwell.
+* –––, 2000, “Does Libertarian Freedom Require Alternate Possibilities?” _Noûs_ Vol. 34, Supplement: _Philosophical Perspectives_, 14 (Action and Freedom): 231–248.
+* –––, 2002a, “Recent Work on Divine Foreknowledge and Free Will,” _The Oxford Handbook of Free Will_, Robert Kane (ed.), Oxford: Oxford University Press, pp. 45–64.
+* –––, 2002b, “Omniscience and the Arrow of Time,” _Faith and Philosophy_, 19(4): 503–519.
+* –––, 2004, “Omniscience, Time, and Freedom,” _Guide to Philosophy of Religion_, William Mann (ed.), Oxford and New York: Blackwell.
+* –––, 2011, “Eternity and Fatalism,” in _God, Eternity, and Time_, Christian Tapp (ed.), Aldershot: Ashgate Press.
+* –––, 2014, “Divine Foreknowledge and the Metaphysics of Time,” in _God: Reason, and Reality_ (Philosophia Series: Basic Philosophical Concepts), A Ramelow (ed.), Munich: Philosophia Verlag.
+* Zemach, Eddy M., and David Widerker, 1987, “Facts, Freedom, and Foreknowledge,” _Religious Studies_, 23 (March): 19–28.
+* Zimmerman, Dean, 2008, “The Privileged Present: Defending an ‘A-Theory’ of Time,” in _Contemporary Debates in Metaphysics_, Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), Oxford: Blackwell, pp. 211–25.
+* –––, 2010, “The A-Theory of Time, Presentism, and Open Theism,” in_Science and Religion in Dialogue_, vol. 2, Melville Y. Stewart (ed.), Malden, MA: Wiley-Blackwell.
+* –––, 2012, “The Providential Usefulness of ‘Simple Foreknowledge’,” in _Reason, Metaphysics, and Mind: New Essays on the Philosophy of Alvin Plantinga_, Kelly James Clark and Michael Rea (eds.), Oxford: Oxford University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=free-will-foreknowledge). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/free-will-foreknowledge/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=free-will-foreknowledge&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/free-will-foreknowledge/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=free-will-foreknowledge).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/free-will-foreknowledge/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=free-will-foreknowledge\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/free-will-foreknowledge/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [Boethius, Anicius Manlius Severinus](https://plato.stanford.edu/entries/boethius/) | [fatalism](https://plato.stanford.edu/entries/fatalism/) | [freedom: divine](https://plato.stanford.edu/entries/divine-freedom/) | [free will](https://plato.stanford.edu/entries/freewill/) | [God: and other ultimates](https://plato.stanford.edu/entries/god-ultimates/) | [incompatibilism: (nondeterministic) theories of free will](https://plato.stanford.edu/entries/incompatibilism-theories/) | [incompatibilism: arguments for](https://plato.stanford.edu/entries/incompatibilism-arguments/) | [Ockham [Occam], William](https://plato.stanford.edu/entries/ockham/) | [voluntarism, theological](https://plato.stanford.edu/entries/voluntarism-theological/)
+[Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [Boethius, Anicius Manlius Severinus](https://plato.stanford.edu/entries/boethius/) | [fatalism](https://plato.stanford.edu/entries/fatalism/) | [freedom: divine](https://plato.stanford.edu/entries/divine-freedom/) | [free will](https://plato.stanford.edu/entries/freewill/) | [God: and other ultimates](https://plato.stanford.edu/entries/god-ultimates/) | [incompatibilism: (nondeterministic) theories of free will](https://plato.stanford.edu/entries/incompatibilism-theories/) | [incompatibilism: arguments for](https://plato.stanford.edu/entries/incompatibilism-arguments/) | [Ockham \[Occam\], William](https://plato.stanford.edu/entries/ockham/) | [voluntarism, theological](https://plato.stanford.edu/entries/voluntarism-theological/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-David Hunt <[*dhunt@whittier.edu*](mailto:dhunt%40whittier%2eedu)>  
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+David Hunt <[_dhunt@whittier.edu_](mailto:dhunt%40whittier%2eedu)>\
 [Linda Zagzebski](http://philosophy.ou.edu/linda-zagzebski)

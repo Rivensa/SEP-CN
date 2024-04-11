@@ -1,6 +1,6 @@
 # 弗雷格的定理和算术基础 theorem and foundations for arithmetic (Edward N. Zalta)
 
-*首次发表于 1998 年 6 月 10 日星期三；实质修订于 2023 年 8 月 5 日星期六*
+_首次发表于 1998 年 6 月 10 日星期三；实质修订于 2023 年 8 月 5 日星期六_
 
 在他的一生中，戈特洛布·弗雷格在试图定义数学的基本概念并从逻辑法则中推导数学定律方面，形成了两个逻辑系统。在他的 1879 年的著作《概念符号：一种仿效算术的纯思维公式语言》中，他发展了一个二阶谓词演算，并用它来定义有趣的数学概念，并陈述和证明数学上有趣的命题。然而，在他的 1893/1903 年的两卷著作《算术基本法则》中，弗雷格添加了一个他认为是逻辑命题（基本法则 V）的公理，并试图从所得系统中推导出数论的基本公理和定理。不幸的是，基本法则 V 不仅不是一个逻辑命题，而且所得系统被证明是不一致的，因为它受到罗素悖论的影响。
 
@@ -11,12 +11,10 @@
 为了实现这些目标，我们只假定读者熟悉一阶谓词演算。我们展示如何将这种语言和逻辑扩展到二阶谓词演算，并展示如何在这种演算中表示弗雷格定理中涉及的思想和主张。这些思想和主张都出现在弗雷格的 1893/1903 年的作品中，我们将其称为 Gg I/II。但我们有时也引用他 1879 年的书和 1884 年的书（《算术基础》），分别将这些作品称为 Begr 和 Gl。
 
 * [1. 二阶谓词演算和概念论](https://plato.stanford.edu/entries/frege-theorem/#S1)
-
-  * [ 1.1 语言](https://plato.stanford.edu/entries/frege-theorem/#1.1)
-  * [ 1.2 逻辑](https://plato.stanford.edu/entries/frege-theorem/#1.2)
+  * [1.1 语言](https://plato.stanford.edu/entries/frege-theorem/#1.1)
+  * [1.2 逻辑](https://plato.stanford.edu/entries/frege-theorem/#1.2)
   * [1.3 概念理论](https://plato.stanford.edu/entries/frege-theorem/#1.3)
 * [2. 弗雷格的外延理论：基本定律 V](https://plato.stanford.edu/entries/frege-theorem/#S2)
-
   * [2.1 函数值域的表示法](https://plato.stanford.edu/entries/frege-theorem/#2.1)
   * [2.2 概念外延的表示法](https://plato.stanford.edu/entries/frege-theorem/#2.2)
   * [2.3 加入延伸的成员资格](https://plato.stanford.edu/entries/frege-theorem/#2.3)
@@ -25,39 +23,35 @@
   * [2.6 矛盾的第二次导出](https://plato.stanford.edu/entries/frege-theorem/#2.6)
   * [2.7 悖论是如何产生的](https://plato.stanford.edu/entries/frege-theorem/#2.7)
 * [3. 弗雷格对基数的分析](https://plato.stanford.edu/entries/frege-theorem/#S3)
-
-  * [ 3.1 等势性](https://plato.stanford.edu/entries/frege-theorem/#3.1)
+  * [3.1 等势性](https://plato.stanford.edu/entries/frege-theorem/#3.1)
   * [3.2 “Fs 的数量”的语境定义：休谟原则](https://plato.stanford.edu/entries/frege-theorem/#3.2)
   * [3.3 “Fs 的数量”的明确定义](https://plato.stanford.edu/entries/frege-theorem/#3.3)
   * [3.4 Hume 原理的推导](https://plato.stanford.edu/entries/frege-theorem/#3.4)
 * [4. Frege 对前任、祖先和自然数的分析](https://plato.stanford.edu/entries/frege-theorem/#S4)
-
-  * [ 4.1 前任](https://plato.stanford.edu/entries/frege-theorem/#4.1)
+  * [4.1 前任](https://plato.stanford.edu/entries/frege-theorem/#4.1)
   * [4.2 关系 R 的祖先](https://plato.stanford.edu/entries/frege-theorem/#4.2)
   * [4.3 R 的弱祖先](https://plato.stanford.edu/entries/frege-theorem/#4.3)
   * [4.4 概念自然数](https://plato.stanford.edu/entries/frege-theorem/#4.4)
 * [5. 弗雷格定理](https://plato.stanford.edu/entries/frege-theorem/#S5)
-
   * [5.1 零是一个数字](https://plato.stanford.edu/entries/frege-theorem/#5.1)
   * [5.2 零不是任何数字的后继](https://plato.stanford.edu/entries/frege-theorem/#5.2)
   * [5.3 没有两个数字有相同的后继](https://plato.stanford.edu/entries/frege-theorem/#5.3)
   * [5.4 数学归纳法原理](https://plato.stanford.edu/entries/frege-theorem/#5.4)
   * [5.5 每个数字都有一个后继](https://plato.stanford.edu/entries/frege-theorem/#5.5)
-  * [ 5.6 算术](https://plato.stanford.edu/entries/frege-theorem/#5.6)
+  * [5.6 算术](https://plato.stanford.edu/entries/frege-theorem/#5.6)
 * [6. 关于弗雷格定理的哲学问题](https://plato.stanford.edu/entries/frege-theorem/#S6)
-
   * [6.1 弗雷格的目标和策略——他自己的话](https://plato.stanford.edu/entries/frege-theorem/#6.1)
   * [6.2 弗雷格策略的基本问题](https://plato.stanford.edu/entries/frege-theorem/#6.2)
   * [6.3 概念的存在](https://plato.stanford.edu/entries/frege-theorem/#6.3)
   * [6.4 外延的存在](https://plato.stanford.edu/entries/frege-theorem/#6.4)
   * [6.5 数字和真值的存在：尤利乌斯·凯撒问题](https://plato.stanford.edu/entries/frege-theorem/#6.5)
-  * [ 6.6 最终观察](https://plato.stanford.edu/entries/frege-theorem/#6.6)
-* [ 参考文献](https://plato.stanford.edu/entries/frege-theorem/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/frege-theorem/#Aca)
+  * [6.6 最终观察](https://plato.stanford.edu/entries/frege-theorem/#6.6)
+* [参考文献](https://plato.stanford.edu/entries/frege-theorem/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/frege-theorem/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/frege-theorem/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/frege-theorem/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/frege-theorem/#Rel)
 
----
+***
 
 ## 1. 二阶谓词演算与概念理论
 
@@ -82,17 +76,17 @@
 
 因此，例如，Pa，Rxy 等都是原子公式，它们分别断言对象 a 举例说明了一元关系 P，以及 x 和 y 之间存在关系 R。公式¬Pa 和 Pa→Rxy 是分子式，它们分别断言不是这样，即 a 举例说明了 P，以及如果 a 举例说明了 P，则 x 和 y 之间存在关系 R。最后，这里有一些量化公式的例子：
 
-| ∀xRxa         | 每个 x 都与 a 有关系 R。                  |
-| ---------------- | ------------------------------------------- |
+| ∀xRxa       | 每个 x 都与 a 有关系 R。           |
+| ----------- | -------------------------- |
 | ∀x∀y(Px→Qy) | 对于所有的 x，对于所有的 y，如果 Px 则 Qy |
-| ∀FFa          | 每个 F 都是这样的，a 属于 F               |
-| ∀F(Fx→Fy)    | 对于所有的 F，如果 Fx，则 Fy              |
+| ∀FFa        | 每个 F 都是这样的，a 属于 F          |
+| ∀F(Fx→Fy)   | 对于所有的 F，如果 Fx，则 Fy         |
 
 我们上面定义的语言是二阶的，因为在公式定义的最后一个条款中，对形如∀xϕ和∀Fϕ的量化公式都进行了规定。接下来，我们使用以下公式的标准定义：
 
 ϕ&ψ=df¬(ϕ→¬ψ)ϕ∨ψ=df¬ϕ→ψϕ≡ψ=df(ϕ→ψ)&(ψ→ϕ)∃αϕ=df¬∀α¬ϕ
 
-上述第一个定义了连接词ϕ和ψ；第二个定义了析取词ϕ或ψ；第三个定义了双条件词ϕ当且仅当ψ（我们经常缩写为 iff）；最后一个定义了存在量化公式存在一个α使得ϕ。这里需要注意的是，弗雷格并没有使用线性符号串来表达分子和量化公式，而是为这样的公式开发了二维符号。由于我们接下来不会使用弗雷格的复杂公式符号，因此我们不需要在这里花时间描述它。[1]
+上述第一个定义了连接词ϕ和ψ；第二个定义了析取词ϕ或ψ；第三个定义了双条件词ϕ当且仅当ψ（我们经常缩写为 iff）；最后一个定义了存在量化公式存在一个α使得ϕ。这里需要注意的是，弗雷格并没有使用线性符号串来表达分子和量化公式，而是为这样的公式开发了二维符号。由于我们接下来不会使用弗雷格的复杂公式符号，因此我们不需要在这里花时间描述它。\[1]
 
 但即使我们暂时不考虑弗雷格的复杂公式符号，指出弗雷格没有像我们所做的那样使用形如 Px、Rxy 等的原子公式是很重要的。他没有将 n 元关系名和变量包括在他的原始术语中，而是包括了原始函数名和变量，比如 f、g、h 等，并用它们来表示函数。也就是说，弗雷格区分了对象和关系，而不是将对象和函数区分开来。尽管一些现代谓词演算的发展包括函数项在语言的简单术语中，但我们没有包括它们，因为在发展弗雷格定理时我们不需要它们。
 
@@ -106,27 +100,16 @@
 
 * 如果 v1 和 v2 是任意对象术语，v1=v2 是一个公式。
 
-因此，像'x=y'这样的公式是带有恒等符号的二阶谓词演算的一部分。弗雷格也有原始的恒等陈述；对他来说，恒等是一个将一对对象映射为真的二元函数，只有当这些对象是同一个对象时。因此，虽然我们假设像'22=4'这样的陈述只是简单的真陈述，而像'22=3'这样的陈述只是简单的假陈述，但弗雷格认为'22=4'是真的名称，而'22=3'是假的名称。陈述形式'f(x)=y'在弗雷格的公理和定义中起着重要作用，但为了推导出弗雷格的定理，我们不需要断言这种形式的主张。相反，我们假设(a)恒等只是一个二元关系，(b)一元函数 f 实际上是一个关系 R，它具有以下属性：Rxy&Rxz→y=z（即，函数是关系，它总是将其第一个参数关联到最多一个第二个参数）。我们可以称这样的关系为函数关系。换句话说，当弗雷格断言 f(x)=y 时，我们可以表示为断言 f 是一个函数关系 R，使得 Rxy 成立。这可以推广到 n 元关系，其中 n≥2。例如，在我们的语言中，如果+是算术的二元加法函数，我们可以将算术陈述 2+3=5 表示为形式为+(2,3,5)的主张，其中+被视为一个满足条件的三元函数关系：+(x,y,z)&+(x,y,w)→z=w。
+因此，像'x=y'这样的公式是带有恒等符号的二阶谓词演算的一部分。弗雷格也有原始的恒等陈述；对他来说，恒等是一个将一对对象映射为真的二元函数，只有当这些对象是同一个对象时。因此，虽然我们假设像'22=4'这样的陈述只是简单的真陈述，而像'22=3'这样的陈述只是简单的假陈述，但弗雷格认为'22=4'是真的名称，而'22=3'是假的名称。陈述形式'f(x)=y'在弗雷格的公理和定义中起着重要作用，但为了推导出弗雷格的定理，我们不需要断言这种形式的主张。相反，我们假设(a)恒等只是一个二元关系，(b)一元函数 f 实际上是一个关系 R，它具有以下属性：Rxy\&Rxz→y=z（即，函数是关系，它总是将其第一个参数关联到最多一个第二个参数）。我们可以称这样的关系为函数关系。换句话说，当弗雷格断言 f(x)=y 时，我们可以表示为断言 f 是一个函数关系 R，使得 Rxy 成立。这可以推广到 n 元关系，其中 n≥2。例如，在我们的语言中，如果+是算术的二元加法函数，我们可以将算术陈述 2+3=5 表示为形式为+(2,3,5)的主张，其中+被视为一个满足条件的三元函数关系：+(x,y,z)&+(x,y,w)→z=w。
 
 ### 1.2 逻辑
 
 我们的二阶语言中陈述的基本公理和推理规则与一阶谓词演算具有相似性，尽管它们已扩展以适用于涉及全称量词绑定关系变量的断言。其中ϕ，ψ和χ是任意公式，α是任意变量，τ是与α具有相同类型的任意项（即，两者都是对象项或都是 n 元关系项），则以下是二阶逻辑的基本公理和规则：
 
-* 命题逻辑的公理。例如，
-  ϕ→(ψ→ϕ)
-  (ϕ→(ψ→χ))→((ϕ→ψ)→(ϕ→χ))
-  (¬ϕ→¬ψ)→((¬ϕ→ψ)→ϕ)
-* 全称实例化：∀αϕ→ϕτα，其中ϕτα是通过统一地将τ替换α在ϕ的自由出现位置得到的结果，τ可替换α（即，在ϕτα中τ中的任何自由变量都不会被ϕτα中的任何量词约束）。例如，其中'a'是一个对象术语，'P'是一个一元关系术语，
-  ∀xPx→Pa
-  ∀FFa→Pa
-  （相应的原则，存在引入，对于存在量词，即ϕτα→∃αϕ，是可推导的。）
-* 量词分配：
-  ∀α(ϕ→ψ)→(ϕ→∀αψ),
-  其中α是ϕ中没有自由出现的任意变量
-* 身份法则：
-  x=x
-  x=y→(ϕ→ϕ′)
-  其中 ϕ′ 是将 ϕ 中一个或多个 y 的出现替换为 x 的结果。
+* 命题逻辑的公理。例如， ϕ→(ψ→ϕ) (ϕ→(ψ→χ))→((ϕ→ψ)→(ϕ→χ)) (¬ϕ→¬ψ)→((¬ϕ→ψ)→ϕ)
+* 全称实例化：∀αϕ→ϕτα，其中ϕτα是通过统一地将τ替换α在ϕ的自由出现位置得到的结果，τ可替换α（即，在ϕτα中τ中的任何自由变量都不会被ϕτα中的任何量词约束）。例如，其中'a'是一个对象术语，'P'是一个一元关系术语， ∀xPx→Pa ∀FFa→Pa （相应的原则，存在引入，对于存在量词，即ϕτα→∃αϕ，是可推导的。）
+* 量词分配： ∀α(ϕ→ψ)→(ϕ→∀αψ), 其中α是ϕ中没有自由出现的任意变量
+* 身份法则： x=x x=y→(ϕ→ϕ′) 其中 ϕ′ 是将 ϕ 中一个或多个 y 的出现替换为 x 的结果。
 * 演绎法则（MP）：从 ϕ 和 ϕ→ψ 可以推导出 ψ。
 * 概括规则（GEN）：从 ϕ 可以推导出 ∀αϕ。
 
@@ -134,10 +117,10 @@
 
 上述定律中的一些在 Gg I 中明确找到，尽管用弗雷格的符号表示。例如，在 Gg I，§47 中，我们找到了以下弗雷格版本的定律：
 
-| I.    | ϕ→(ψ→ϕ)     |
-| ------- | ------------------ |
-| IIa.  | ∀xPx→Pa        |
-| IIb。 | ∀FFx→Px        |
+| I.   | ϕ→(ψ→ϕ)       |
+| ---- | ------------- |
+| IIa. | ∀xPx→Pa       |
+| IIb。 | ∀FFx→Px       |
 | III。 | x=y→∀F(Fx→Fy) |
 
 然而，这些最初是在 Gg I, §§18, 20, 25 和 20 中介绍的。
@@ -148,33 +131,29 @@
 
 现代二阶谓词演算包括一个包含原则，有效地保证了对于每个具有 n 个自由对象变量 x1,…,xn 的开公式，都存在一个与之对应的 n 元关系。我们通过考虑以下一元情况来介绍这一原则：
 
-概念的包含原则:
-∃G∀x(Gx≡ϕ),
-其中ϕ是任何不包含自由出现的 G 的公式。
+概念的包含原则: ∃G∀x(Gx≡ϕ), 其中ϕ是任何不包含自由出现的 G 的公式。
 
 同样，以下是二元关系的包容原则：
 
-二元关系的理解原则：
- ∃R∀x∀y(Rxy≡ϕ)，
-其中ϕ是 R 不自由出现的任何公式。
+二元关系的理解原则： ∃R∀x∀y(Rxy≡ϕ)， 其中ϕ是 R 不自由出现的任何公式。
 
 虽然弗雷格并没有明确阐述这些理解原则，但它们可以在他的系统中推导出来，并且构成了他的系统中非常重要的概念和关系的基础理论的重要概括。我们可以通过以下理解实例来看到这些原则的运作，其中'Ox'表示 x 是奇数：
 
-∃G∀x(Gx≡(Ox&x>5))
+∃G∀x(Gx≡(Ox\&x>5))
 
 这个命题断言：存在一个概念 G，对于每个对象 x，当且仅当 x 是奇数且大于 5 时，x 属于 G。如果我们的二阶语言扩展包括原始谓词'O'和'>'以及原始对象项'5'，那么上述概念理解原则的实例将成为二阶逻辑的公理（因此也是定理）。
 
 同样，以下是关系理解原则的一个实例：
 
-∃R∀x∀y(Rxy≡(Ox&x>y))
+∃R∀x∀y(Rxy≡(Ox\&x>y))
 
-这断言了存在一个关系，即对象 x 和 y 彼此之间存在，只要复杂条件 Ox&x>y 成立。
+这断言了存在一个关系，即对象 x 和 y 彼此之间存在，只要复杂条件 Ox\&x>y 成立。
 
-当今逻辑学家通常区分开放公式ϕ，其中变量 x 是自由的，与相应概念的名称。例如，他们使用符号[λxOx&x>5]作为复杂概念的名称，即一个 x，使得 x 是奇数且 x 大于 5（或者更自然地说，‘是奇数且大于 5’）。术语形成运算符λx（我们读作‘是一个 x，使得’）与自由变量 x 的公式ϕ结合，产生[λxϕ]。λ表达式是由公式ϕ表达的概念的名称。在接下来的内容中，变量绑定运算符λx 在[λxϕ]中的作用范围适用于整个公式ϕ，无论多么复杂，因此，我们将简单地写成，例如，[λxOx&x>5]，我们将简单地写成：[λxOx&x>5]。
+当今逻辑学家通常区分开放公式ϕ，其中变量 x 是自由的，与相应概念的名称。例如，他们使用符号\[λxOx\&x>5]作为复杂概念的名称，即一个 x，使得 x 是奇数且 x 大于 5（或者更自然地说，‘是奇数且大于 5’）。术语形成运算符λx（我们读作‘是一个 x，使得’）与自由变量 x 的公式ϕ结合，产生\[λxϕ]。λ表达式是由公式ϕ表达的概念的名称。在接下来的内容中，变量绑定运算符λx 在\[λxϕ]中的作用范围适用于整个公式ϕ，无论多么复杂，因此，我们将简单地写成，例如，\[λxOx\&x>5]，我们将简单地写成：\[λxOx\&x>5]。
 
 这种符号可以扩展到关系。
 
-[λxyOx&x>y]
+\[λxyOx\&x>y]
 
 命名为 x 和 y 的 2 元关系，其中 x 是奇数且 x 大于 y。
 
@@ -182,12 +161,11 @@
 
 为了理解弗雷格定理，我们只需要引入一个规范 λ-符号的公理，即被称为 λ-转换的原则。设 ϕ 是任意公式，设 ϕyx 是在 ϕ 中的所有自由出现的 x 处用变量 y 替换得到的结果。那么 λ-转换原则是：
 
- λ-转换：
-∀y([λxϕ]y≡ϕyx)
+λ-转换： ∀y(\[λxϕ]y≡ϕyx)
 
-这表明：对于任何对象 y，如果且仅如果 y 满足 ϕyx，那么 y 就属于概念 [λxϕ]。因此，使用我们的例子，以下是 λ-转换的一个实例：
+这表明：对于任何对象 y，如果且仅如果 y 满足 ϕyx，那么 y 就属于概念 \[λxϕ]。因此，使用我们的例子，以下是 λ-转换的一个实例：
 
-∀y([λxOx&x>5]y≡Oy&y>5)
+∀y(\[λxOx\&x>5]y≡Oy\&y>5)
 
 这断言：对于任何对象 y，如果且仅如果 y 是奇数且大于 5，则 y 属于概念奇数且大于 5。请注意，当量化变量 y 被实例化为某个对象术语时，λ-Conversion 的结果实例是一个双条件语句。因此，在这个公理的许多推论中，我们发现：如果且仅如果 6 是奇数且大于 5，则 6 属于概念奇数且大于 5（在这种情况下，双条件语句仍然成立，因为两边都是假的）。
 
@@ -195,21 +173,21 @@
 
 O6&6>5
 
- 到结论：
+到结论：
 
-[λxOx&x>5]6
+\[λxOx\&x>5]6
 
 通过λ-抽象来证明。（这里我们有一个有效推论的情况，其中前提和结论都是错误的。）
 
 λ-转换原则可以推广，以便也适用于 n 位λ表达式。这是 2 位情况：
 
-∀z∀w([λxyϕ]zw≡ϕz,wx,y)
+∀z∀w(\[λxyϕ]zw≡ϕz,wx,y)
 
 （在这个公式中，ϕz,wx,y 是同时将 z 替换 x，w 替换 y 后的结果。）
 
-读者应该使用我们的例子[λxyOx&x>y]构建这个原则的一个实例。
+读者应该使用我们的例子\[λxyOx\&x>y]构建这个原则的一个实例。
 
-需要指出的是，弗雷格在他的系统中并没有使用包容原则，而是有一个等价于这些原则的显著规则，即他的替换规则。虽然弗雷格的替换规则似乎允许在逻辑定理中将公式ϕ替换为自由概念变量 F，但我们可以根据我们定义的二阶逻辑来理解这个规则，即在任何带有自由变量 Fn 的逻辑定理中，可以将任何 n 元λ表达式[λx1…xnϕ]替换为 Fn，然后进行λ-转换。例如，在我们现在的二阶系统中，可以从∀y(Fy≡Fy)推导出∀x(Ox&x>5≡Ox&x>5)，方法是首先将[λxOx&x>5]替换为 F，然后对所有包含λ表达式的子公式进行λ-转换，这些子公式环绕在≡符号旁边。弗雷格的替换规则允许一步完成所有这些操作。对于想要了解替换规则与上述包容原则之间联系的读者，可以参考以下补充文件：
+需要指出的是，弗雷格在他的系统中并没有使用包容原则，而是有一个等价于这些原则的显著规则，即他的替换规则。虽然弗雷格的替换规则似乎允许在逻辑定理中将公式ϕ替换为自由概念变量 F，但我们可以根据我们定义的二阶逻辑来理解这个规则，即在任何带有自由变量 Fn 的逻辑定理中，可以将任何 n 元λ表达式\[λx1…xnϕ]替换为 Fn，然后进行λ-转换。例如，在我们现在的二阶系统中，可以从∀y(Fy≡Fy)推导出∀x(Ox\&x>5≡Ox\&x>5)，方法是首先将\[λxOx\&x>5]替换为 F，然后对所有包含λ表达式的子公式进行λ-转换，这些子公式环绕在≡符号旁边。弗雷格的替换规则允许一步完成所有这些操作。对于想要了解替换规则与上述包容原则之间联系的读者，可以参考以下补充文件：
 
 [弗雷格的替换规则](https://plato.stanford.edu/entries/frege-theorem/rule-substitution.html)
 
@@ -229,7 +207,7 @@ O6&6>5
 
 ,ϵf(ϵ)
 
- 和
+和
 
 ,αg(α)
 
@@ -243,7 +221,7 @@ O6&6>5
 
 x2−x
 
- 他还使用：
+他还使用：
 
 ,α(α⋅(α−1))
 
@@ -253,7 +231,7 @@ x⋅(x−1)
 
 弗雷格随后指出，如果函数 x2−x 和 x⋅(x−1) 将相同的自变量映射到相同的值，那么这两个函数的值域就是相同的，反之亦然。也就是说，他指出：
 
-∀x[x2−x=x⋅(x−1)]
+∀x\[x2−x=x⋅(x−1)]
 
 当且仅当成立：
 
@@ -261,30 +239,29 @@ x⋅(x−1)
 
 这种等价关系将体现在基本法则 V 中。事实上，弗雷格在 Gg I，§20 中对基本法则 V 的阐述现在可以用我们的语言（临时扩展了函数项和函数应用）表示如下：
 
- 基本法则 V：
-,ϵf(ϵ)=,αg(α)≡∀x[f(x)=g(x)]
+基本法则 V： ,ϵf(ϵ)=,αg(α)≡∀x\[f(x)=g(x)]
 
-这个原则断言：如果且仅如果 f 和 g 将每个对象映射到相同的值，那么函数 f 的值域与函数 g 的值域相同。[实际上，弗雷格使用一个恒等符号而不是双条件符号作为该原则的主要连接词。他之所以能够这样做，是因为在他的系统中，当两个句子在实质上等价时，它们命名相同的真值。] 我们很快将看到为什么这个原则是不一致的。
+这个原则断言：如果且仅如果 f 和 g 将每个对象映射到相同的值，那么函数 f 的值域与函数 g 的值域相同。\[实际上，弗雷格使用一个恒等符号而不是双条件符号作为该原则的主要连接词。他之所以能够这样做，是因为在他的系统中，当两个句子在实质上等价时，它们命名相同的真值。] 我们很快将看到为什么这个原则是不一致的。
 
 ### 2.2 概念扩展的符号表示
 
 由于对于弗雷格来说，概念是总是将它们的参数映射到一个真值的函数，我们可以引入一些新的符号表示法，以帮助我们表示弗雷格形成概念扩展名的方法。这种新的表示法利用了我们对于命名概念的 λ-表示法，因此允许我们引入一种新的函数术语，弗雷格引入了一个变量绑定运算符。
 
-让我们假定Π是任何一元概念术语（名称或变量），符号‘ϵΠ’表示概念Π的外延。因此，例如，ϵF 表示概念 F 的外延。请注意，形如[λxϕ]的一元λ表达式是一元概念术语，因此ϵ[λxϕ]是良构的，并表示[λxϕ]的外延。因此，虽然弗雷格使用,ϵ作为一个变量绑定运算符，将公式中的对象变量绑定到扩展的名称，我们使用ϵ作为一个术语形成的函数符号，应用于一元概念术语，以产生表示对象的术语，或者取值于对象。因此，当ϵ前缀于概念名称时，结果表达式是一个对象的名称，特别是概念名称所表示的外延的名称。当ϵ前缀于概念变量时，例如，如ϵF，结果表达式是一种复杂的变量，它的取值范围是扩展：对于变量 F 的每个值，ϵF 表示 F 的外延。
+让我们假定Π是任何一元概念术语（名称或变量），符号‘ϵΠ’表示概念Π的外延。因此，例如，ϵF 表示概念 F 的外延。请注意，形如\[λxϕ]的一元λ表达式是一元概念术语，因此ϵ\[λxϕ]是良构的，并表示\[λxϕ]的外延。因此，虽然弗雷格使用,ϵ作为一个变量绑定运算符，将公式中的对象变量绑定到扩展的名称，我们使用ϵ作为一个术语形成的函数符号，应用于一元概念术语，以产生表示对象的术语，或者取值于对象。因此，当ϵ前缀于概念名称时，结果表达式是一个对象的名称，特别是概念名称所表示的外延的名称。当ϵ前缀于概念变量时，例如，如ϵF，结果表达式是一种复杂的变量，它的取值范围是扩展：对于变量 F 的每个值，ϵF 表示 F 的外延。
 
 这里有一个涉及一对复杂概念的符号的例子。考虑这样一个概念，当加到 4 时等于 5，或者使用λ-符号，以下概念：
 
-[λxx+4=5]
+\[λxx+4=5]
 
 我们使用以下符号来表示这个概念的扩展：
 
-ϵ[λxx+4=5]
+ϵ\[λxx+4=5]
 
-现在考虑这样一个概念，加上 22 等于 5（即，[λx x+22=5]）。我们使用以下符号来表示这个概念的扩展：
+现在考虑这样一个概念，加上 22 等于 5（即，\[λx x+22=5]）。我们使用以下符号来表示这个概念的扩展：
 
-ϵ[λxx+22=5]
+ϵ\[λxx+22=5]
 
-注意，似乎自然地认定这两个扩展是合理的，因为只有第一个概念下的对象才属于第二个概念。那些已经熟悉λ演算的读者应该记得，ϵ[λx ϕ]表示一个对象，[λx ϕ]表示一个概念，而弗雷格严格区分对象和概念，并假定它们构成相互排斥的领域。
+注意，似乎自然地认定这两个扩展是合理的，因为只有第一个概念下的对象才属于第二个概念。那些已经熟悉λ演算的读者应该记得，ϵ\[λx ϕ]表示一个对象，\[λx ϕ]表示一个概念，而弗雷格严格区分对象和概念，并假定它们构成相互排斥的领域。
 
 ### 2.3 属于一个扩展的成员资格
 
@@ -292,25 +269,24 @@ x⋅(x−1)
 
 {x∣x+4=5}{x∣x+22=5}
 
-弗雷格利用他的二阶语言来定义对象成为外延或集合的条件。尽管弗雷格使用符号 x∩y 来表示成员关系，我们将遵循更常见的做法，使用 x∈y。因此，以下内容概括了弗雷格在《Gg I, §34》中对成员资格的定义的主要特征：[2]
+弗雷格利用他的二阶语言来定义对象成为外延或集合的条件。尽管弗雷格使用符号 x∩y 来表示成员关系，我们将遵循更常见的做法，使用 x∈y。因此，以下内容概括了弗雷格在《Gg I, §34》中对成员资格的定义的主要特征：\[2]
 
-x∈y=df∃G(y=ϵG&Gx)
+x∈y=df∃G(y=ϵG\&Gx)
 
 换句话说，如果 x 属于 y，那么 x 就属于一个概念，而 y 是该概念的扩展。例如，根据这个定义，可以证明 John 是概念“快乐”的扩展的成员（形式上：j∈ϵH），前提是 John 属于概念“快乐”（‘Hj’）。下面是一个简单的证明：
 
-| 1. Hj              | 前提                        |
-| -------------------- | ----------------------------- |
-| 2. ϵH=ϵH         | 公理的实例 x=x              |
-| 3. ϵH=ϵH&Hj      | 从 1,2 推出，通过&-引入规则 |
-| 4. ∃G(ϵH=ϵG&Gj) | 从 3 得出，通过存在引入     |
+| 1. Hj            | 前提                |
+| ---------------- | ----------------- |
+| 2. ϵH=ϵH         | 公理的实例 x=x         |
+| 3. ϵH=ϵH\&Hj     | 从 1,2 推出，通过&-引入规则 |
+| 4. ∃G(ϵH=ϵG\&Gj) | 从 3 得出，通过存在引入     |
 | 5. j∈ϵH          | 从 4 得出，通过∈的定义     |
 
-一些读者可能希望查看一个稍微复杂一些的例子，其中使用上述成员资格的定义来证明 1 ∈ϵ[λxx+22=5]，前提是 1+22=5。（一个更复杂的例子）
+一些读者可能希望查看一个稍微复杂一些的例子，其中使用上述成员资格的定义来证明 1 ∈ϵ\[λxx+22=5]，前提是 1+22=5。（一个更复杂的例子）
 
 在我们转向基本法则 V 之前，有一件重要的事情需要提及，即我们对弗雷格系统的表示中引入了二阶逻辑与恒等性的术语形成运算符ϵ。由此产生的系统具有以下原则，作为一个定理，它断言每个概念都有一个扩展：
 
- 存在性扩展：
-∀G∃x(x=ϵG)
+存在性扩展： ∀G∃x(x=ϵG)
 
 要看到这是根据我们迄今为止的工作可推导出的，请回想一下上面例子中证明的第 2 行：恒等律允许我们断言：
 
@@ -326,8 +302,7 @@ x∈y=df∃G(y=ϵG&Gx)
 
 现在我们可以使用我们的ϵ符号表示适用于概念的弗雷格基本法则 V 的特殊情况：
 
-基本法则 V（特殊情况）:
-ϵF=ϵG≡∀x(Fx≡Gx)
+基本法则 V（特殊情况）: ϵF=ϵG≡∀x(Fx≡Gx)
 
 在这种特殊情况下，基本定律 V 断言：如果且仅当所有属于 F 的对象也属于 G（即，如果且仅如果概念 F 和 G 在实质上等价），则概念 F 的延伸等同于概念 G 的延伸。以更现代的方式表达，弗雷格的基本定律 V 断言：如果且仅如果 F 和 G 在实质上等价，那么 F 的集合就等同于 G 的集合：
 
@@ -335,14 +310,13 @@ x∈y=df∃G(y=ϵG&Gx)
 
 上面讨论的例子现在可以被视为基本法则 V 的一个实例：
 
-ϵ[λyy+4=5]=ϵ[λyy+22=5]≡∀x([λyy+4=5]x≡[λyy+22=5]x)
+ϵ\[λyy+4=5]=ϵ\[λyy+22=5]≡∀x(\[λyy+4=5]x≡\[λyy+22=5]x)
 
 这表明，如果且仅如果所有并且只有当加上 4 得到 5 的对象也是加上 22 得到 5 的对象时，将 4 加到 5 的概念的外延与将 22 加到 5 的概念的外延是相同的。
 
 法则 V 有两个重要的推论在接下来的内容中发挥作用：延伸法则和延伸性原则。延伸法则（参见 Gg I，§55，定理 1）断言：如果一个对象是一个概念的延伸的成员，当且仅当它属于该概念：
 
- 延伸法则：
-∀F∀x(x∈ϵF≡Fx)
+延伸法则： ∀F∀x(x∈ϵF≡Fx)
 
 （扩展法的推导）
 
@@ -352,8 +326,7 @@ Extension(x)=df∃F(x=ϵF)
 
 然后，我们可以正式地表示和推导外延性原则如下：
 
-外延性原则：
-外延性(x)和外延性(y)→[∀z(z∈x≡z∈y)→x=y]
+外延性原则： 外延性(x)和外延性(y)→\[∀z(z∈x≡z∈y)→x=y]
 
 （外延性原理的推导）
 
@@ -365,13 +338,13 @@ Extension(x)=df∃F(x=ϵF)
 
 在 Gg II 的附录中，弗雷格表明，一旦我们构造了概念“是一个 x，它是某个概念的外延，而 x 不属于该概念”，就可以从基本定律 V 推导出矛盾。我们可以使用以下 λ-表达式来表示这个概念：
 
-[λx∃F(x=ϵF&¬Fx)]
+\[λx∃F(x=ϵF&¬Fx)]
 
 我们知道存在这样一个概念，因为在概念的全称量词λx 的范围内，可以在概念的综合原则中使用开放公式。现在根据扩展的存在原则，存在以下概念并与之相关：
 
-ϵ[λx∃F(x=ϵF&¬Fx)]
+ϵ\[λx∃F(x=ϵF&¬Fx)]
 
-现在可以证明，如果这个扩展属于概念[λx∃F(x=ϵF&¬Fx)]，那么它就不属于该概念，反之亦然。
+现在可以证明，如果这个扩展属于概念\[λx∃F(x=ϵF&¬Fx)]，那么它就不属于该概念，反之亦然。
 
 （矛盾的第一推导。）
 
@@ -387,12 +360,11 @@ Extension(x)=df∃F(x=ϵF)
 
 现在在这一点上，我们可以对变量 F 进行普遍概括，得到以下关于扩展的二阶天真理解公理，它断言对于每个概念 F，存在一个扩展，其成员恰好是属于 F 的对象：
 
-扩展的天真理解公理：
-∀F∃y∀x(x∈y≡Fx)
+扩展的天真理解公理： ∀F∃y∀x(x∈y≡Fx)
 
-朴素理解公理一旦我们将量化变量 F 实例化为概念[λzz∉z]，其中 z∉z 简称为¬(z∈z)，就会引发罗素悖论：
+朴素理解公理一旦我们将量化变量 F 实例化为概念\[λzz∉z]，其中 z∉z 简称为¬(z∈z)，就会引发罗素悖论：
 
-∃y∀x(x∈y≡[λzz∉z]x)
+∃y∀x(x∈y≡\[λzz∉z]x)
 
 通过λ-转换，这等同于：
 
@@ -416,31 +388,29 @@ b∈b≡b∉b
 
 要更详细地分析不一致性，考虑概念的外延模型，在这个模型中，概念 F 和 G 的物质等价性既是 F 和 G 的同一性的必要条件，也是充分条件，即在这个模型中，如果 F 和 G 不是物质上等价的，那么 F 和 G 是不同的概念；如果 F 和 G 是不同的概念，那么它们就不是物质上等价的。
 
-有了这种对概念的外延观点，我们可以看到一个悖论是如何产生的。首先要记住的是，每个概念 F 都与一个外延ϵF 相关联的存在原则。基本定律 V 的每个方向都要求这种相关性具有某些属性。例如，我们将看到基本定律 V 的右向左方向（即 Va）要求没有概念与两个不同的外延相关联。[弗雷格使用标签“Vb”来指定基本定律 V 的左向右方向，并使用“Va”来表示右向左方向的一个变体。例如，Gg I，§52。然而，许多评论家使用“Va”来指定左向右方向。我们将遵循弗雷格的用法，因为这样可以解释他在 Gg II 附录中讨论悖论时通过讨论 Vb 和 Va 来讨论悖论。] 我们可以将弗雷格的 Va 表示如下：
+有了这种对概念的外延观点，我们可以看到一个悖论是如何产生的。首先要记住的是，每个概念 F 都与一个外延ϵF 相关联的存在原则。基本定律 V 的每个方向都要求这种相关性具有某些属性。例如，我们将看到基本定律 V 的右向左方向（即 Va）要求没有概念与两个不同的外延相关联。\[弗雷格使用标签“Vb”来指定基本定律 V 的左向右方向，并使用“Va”来表示右向左方向的一个变体。例如，Gg I，§52。然而，许多评论家使用“Va”来指定左向右方向。我们将遵循弗雷格的用法，因为这样可以解释他在 Gg II 附录中讨论悖论时通过讨论 Vb 和 Va 来讨论悖论。] 我们可以将弗雷格的 Va 表示如下：
 
- 基本定律 Va:
-∀x(Fx≡Gx)→ϵF=ϵG
+基本定律 Va: ∀x(Fx≡Gx)→ϵF=ϵG
 
 因此，逆否命题断言如果ϵF≠ϵG，则¬∀x(Fx≡Gx)。但在 F 和 G 的物质等价是 F=G 的必要条件的情况下，即在¬∀x(Fx≡Gx)暗示 F≠G 的情况下，Va 暗示如果ϵF≠ϵG，则 F≠G，即每当 F 和 G 的外延不同时，它们所关联的概念，即 F 和 G，也不同。这意味着弗雷格在《Gg II》附录中指出，基本定律 V 的这个方向似乎并不成问题，即基本定律 V 所建立的概念和外延之间的关联必须是一个函数——没有概念与两个不同的外延相关（尽管对于所有 Va 告诉我们，不同的概念可能与相同的外延相关）。
 
 然而，基本定律 V 的左右方向（即 Vb）更为严重。我们可以将 Vb 表示如下：
 
- 基本法则 Vb：
-ϵF=ϵG→∀x(Fx≡Gx)
+基本法则 Vb： ϵF=ϵG→∀x(Fx≡Gx)
 
 因此，逆否命题断言如果¬∀x(Fx≡Gx)，那么ϵF≠ϵG。但在 F 和 G 的物质等价是 F=G 的充分条件的情况下，即在 F≠G 暗示¬∀x(Fx≡Gx)的情况下，那么 Vb 暗示 F≠G→ϵF≠ϵG，即如果概念 F 和 G 不同，那么 F 和 G 的延伸也不同。因此，基本法则 V 所建立的概念和延伸之间的相关性将必须是一对一的；即它将不同的概念与不同的延伸相关联。由于每个概念都与某个延伸相关联，因此至少有与概念数量相同的延伸。
 
-但问题在于，将第二阶逻辑与整体基本定律 V 结合起来需要有比外延更多的概念。要求有比外延更多的概念是由概念理解原则和在基本定律 V 存在的情况下这一原则所具有的新意义共同施加的。概念理解原则断言语言中可表达的对象条件对应的每个条件都存在一个概念。尽管这一原则本身似乎迫使概念的域比对象的域大，但是模型论事实上存在第二阶逻辑的模型，这些模型具有概念理解原则（但没有基本定律 V），其中概念的域并不比对象的域大。[3] 然而，将基本定律 V 添加到弗雷格的系统中迫使概念的域比对象的域（因此比外延的域）大，这是由于与基本定律 V 贡献的新外延相关的新概念的无尽循环。然而，正如我们在上一段中看到的，Vb 要求至少有与概念数量相同的外延。
+但问题在于，将第二阶逻辑与整体基本定律 V 结合起来需要有比外延更多的概念。要求有比外延更多的概念是由概念理解原则和在基本定律 V 存在的情况下这一原则所具有的新意义共同施加的。概念理解原则断言语言中可表达的对象条件对应的每个条件都存在一个概念。尽管这一原则本身似乎迫使概念的域比对象的域大，但是模型论事实上存在第二阶逻辑的模型，这些模型具有概念理解原则（但没有基本定律 V），其中概念的域并不比对象的域大。\[3] 然而，将基本定律 V 添加到弗雷格的系统中迫使概念的域比对象的域（因此比外延的域）大，这是由于与基本定律 V 贡献的新外延相关的新概念的无尽循环。然而，正如我们在上一段中看到的，Vb 要求至少有与概念数量相同的外延。
 
 因此，将基本定律 V 添加到第二阶逻辑中意味着一个不可能的情况，即概念的域必须严格大于外延的域，同时外延的域必须与概念的域一样大。
 
-最近，人们对修复弗雷格外延理论的方法产生了很大兴趣。传统观点认为，人们必须要么限制基本定律 V，要么限制概念理解原则。最近，Boolos（1986/87，1993）提出了修订基本定律 V 而不放弃第二阶逻辑及其概念理解原则的更有趣的建议之一。另一方面，有许多关于限制概念理解原则的建议。其中最严厉的是放弃第二阶逻辑（和概念理解原则）的所有权。Schroeder-Heister（1987）推测弗雷格系统的一阶部分（即通过将基本定律 V 添加到一阶谓词演算得到的系统）是一致的，这一点由 T. Parsons（1987）和 Burgess（1998）证明了。[4] Heck（1996），Wehmeier（1999），Ferreira＆Wehmeier（2002）和 Ferreira（2005）考虑了较不激烈的举措。他们研究了通过基本定律 V 扩展的第二阶逻辑系统，但在某种程度上限制了概念理解原则。另请参阅 Anderson＆Zalta（2004）和 Antonelli＆May（2005），了解修复弗雷格系统的不同方法。请参阅 Fine（2002）以了解弗雷格方法的局限，并参阅 Burgess（2005）以获得良好的概述。
+最近，人们对修复弗雷格外延理论的方法产生了很大兴趣。传统观点认为，人们必须要么限制基本定律 V，要么限制概念理解原则。最近，Boolos（1986/87，1993）提出了修订基本定律 V 而不放弃第二阶逻辑及其概念理解原则的更有趣的建议之一。另一方面，有许多关于限制概念理解原则的建议。其中最严厉的是放弃第二阶逻辑（和概念理解原则）的所有权。Schroeder-Heister（1987）推测弗雷格系统的一阶部分（即通过将基本定律 V 添加到一阶谓词演算得到的系统）是一致的，这一点由 T. Parsons（1987）和 Burgess（1998）证明了。\[4] Heck（1996），Wehmeier（1999），Ferreira＆Wehmeier（2002）和 Ferreira（2005）考虑了较不激烈的举措。他们研究了通过基本定律 V 扩展的第二阶逻辑系统，但在某种程度上限制了概念理解原则。另请参阅 Anderson＆Zalta（2004）和 Antonelli＆May（2005），了解修复弗雷格系统的不同方法。请参阅 Fine（2002）以了解弗雷格方法的局限，并参阅 Burgess（2005）以获得良好的概述。
 
-We will not discuss the above research further in the present entry, for none of these alternatives have achieved a clear consensus. Instead, we focus on the theoretical accomplishment revealed by Frege’s work in **Gg**. As noted in the Introduction, Frege validly proved a rather deep fact about the natural numbers notwithstanding the inconsistency of Basic Law V. He derived the Dedekind/Peano axioms for number theory in second-order logic from Hume’s Principle (which was briefly mentioned above and which will be discussed in the next section). But this fact went unnoticed for many years. Though Geach (1955) claimed such a derivation was possible, C. Parsons (1965) was the first to note that Hume’s Principle was powerful enough for the derivation of the Dedekind/Peano axioms. Though Wright (1983) actually carried out most of the derivation, Heck (1993) showed that although Frege did use Basic Law V to derive Hume’s principle, his (Frege’s) subsequent derivations of the Dedekind/Peano axioms of number theory from Hume’s Principle never made an *essential* appeal to Basic Law V. Since Hume’s Principle can be consistently added to second-order logic, we may conclude that Frege himself validly derived the basic laws of number theory. It will be the task of the next few sections to explain Frege’s accomplishments in this regard. We will do this in two stages. In §3 we study Frege’s attempt to derive Hume’s Principle from Basic Law V by analyzing cardinal numbers as extensions. Then, we put this aside in §4 and §5 to examine how Frege was able to derive the Dedekind/Peano axioms of number theory from Hume’s Principle alone.
+We will not discuss the above research further in the present entry, for none of these alternatives have achieved a clear consensus. Instead, we focus on the theoretical accomplishment revealed by Frege’s work in **Gg**. As noted in the Introduction, Frege validly proved a rather deep fact about the natural numbers notwithstanding the inconsistency of Basic Law V. He derived the Dedekind/Peano axioms for number theory in second-order logic from Hume’s Principle (which was briefly mentioned above and which will be discussed in the next section). But this fact went unnoticed for many years. Though Geach (1955) claimed such a derivation was possible, C. Parsons (1965) was the first to note that Hume’s Principle was powerful enough for the derivation of the Dedekind/Peano axioms. Though Wright (1983) actually carried out most of the derivation, Heck (1993) showed that although Frege did use Basic Law V to derive Hume’s principle, his (Frege’s) subsequent derivations of the Dedekind/Peano axioms of number theory from Hume’s Principle never made an _essential_ appeal to Basic Law V. Since Hume’s Principle can be consistently added to second-order logic, we may conclude that Frege himself validly derived the basic laws of number theory. It will be the task of the next few sections to explain Frege’s accomplishments in this regard. We will do this in two stages. In §3 we study Frege’s attempt to derive Hume’s Principle from Basic Law V by analyzing cardinal numbers as extensions. Then, we put this aside in §4 and §5 to examine how Frege was able to derive the Dedekind/Peano axioms of number theory from Hume’s Principle alone.
 
 ## 3. Frege’s Analysis of Cardinal Numbers
 
-Cardinal numbers are the numbers that can be used to answer the question ‘How many … are there?’, and Frege discovered that such numbers bear an interesting relationship to the natural numbers. Frege’s insights concerning this relationship trace back to his work in **Gl**, in which the notion of an extension played very little role. The seminal idea of **Gl** §46 was the observation that a statement of number (e.g., “There are eight planets”) is an assertion about a concept. To explain this idea, Frege noted that one and the same external phenomenon can be counted in different ways; for example, a certain external phenomenon could be counted as 1 army, 5 divisions, 25 regiments, 200 companies, 600 platoons, or 24,000 people. Each way of counting the external phenomenon corresponds to a manner of its conception. The question “How many are there?” is only properly formulated as the question “How many Fs are there?” where a concept F is supplied. On Frege’s view, the statements of number which answer such questions (e.g., “There are n Fs”) tell us something about the concept involved. For example, the statement “There are eight planets in the solar system” tells us that the ordinary concept *planet in the solar system* falls under the *second-level* numerical concept *being exemplified by eight objects*.
+Cardinal numbers are the numbers that can be used to answer the question ‘How many … are there?’, and Frege discovered that such numbers bear an interesting relationship to the natural numbers. Frege’s insights concerning this relationship trace back to his work in **Gl**, in which the notion of an extension played very little role. The seminal idea of **Gl** §46 was the observation that a statement of number (e.g., “There are eight planets”) is an assertion about a concept. To explain this idea, Frege noted that one and the same external phenomenon can be counted in different ways; for example, a certain external phenomenon could be counted as 1 army, 5 divisions, 25 regiments, 200 companies, 600 platoons, or 24,000 people. Each way of counting the external phenomenon corresponds to a manner of its conception. The question “How many are there?” is only properly formulated as the question “How many Fs are there?” where a concept F is supplied. On Frege’s view, the statements of number which answer such questions (e.g., “There are n Fs”) tell us something about the concept involved. For example, the statement “There are eight planets in the solar system” tells us that the ordinary concept _planet in the solar system_ falls under the _second-level_ numerical concept _being exemplified by eight objects_.
 
 在格里高利数学中，弗雷格随后从这一认识出发，其中将数字的陈述分析为对第一级概念的第二级数值概念的断言，以发展出关于基数和自然数的“自持”对象的描述。他引入了一个概念上的“基数运算符”，即“属于概念 F 的数”，它指代对属于 F 的对象进行编号的基数。在接下来的内容中，我们简单地称之为“Fs 的数量”，并使用简单的符号“#F”。请注意，运算符#的行为类似于ϵ运算符——当它前缀到像行星（P）这样的概念名称时，那么#P（“行星的数量”）表示一个对象；当它前缀到像 F 这样的变量时，那么#F 涵盖了对象的域（对于 F 可以作为值的每个概念，#F 相对于该概念表示一个对象）。弗雷格在格里高利数学中提供了这个运算符的隐式（即上下文）和显式定义。这两个定义都需要预先定义两个概念 F 和 G 何时是一一对应或“等势”的。等势性的概念在弗雷格定理的发展中起着重要和基础性的作用。在发展等势性的定义之后，我们讨论弗雷格对 Fs 的数量的隐式和显式定义。然而，仅需要前者来证明弗雷格的定理。
 
@@ -448,25 +418,25 @@ Cardinal numbers are the numbers that can be used to answer the question ‘How 
 
 为了陈述等势性的定义，我们将采用众所周知的逻辑概念“存在唯一的 x 使得ϕ”。说存在唯一的 x 使得ϕ就是说：存在一些 x 使得ϕ，并且任何使得ϕ的 y 都与 x 相同。在接下来的内容中，我们使用符号“∃!xϕ”来缩写这个公式唯一满足的概念，并且我们正式定义如下（其中再次，ϕyx 是将 y 代入ϕ中 x 的自由出现的结果）：
 
-∃!xϕ=df∃x[ϕ&∀y(ϕyx→y=x)]
+∃!xϕ=df∃x\[ϕ&∀y(ϕyx→y=x)]
 
-现在，就这个逻辑唯一存在的概念而言，我们可以陈述一个比弗雷格在《逻辑研究》（§§71, 72）中给出的定义更弱的等势性定义，但它仍然能胜任：[ 5]
+现在，就这个逻辑唯一存在的概念而言，我们可以陈述一个比弗雷格在《逻辑研究》（§§71, 72）中给出的定义更弱的等势性定义，但它仍然能胜任：\[ 5]
 
 > 如果存在一个关系 R，使得 F 和 G 等势，那么：（1）属于 F 的每个对象都与属于 G 的一个唯一对象具有 R 关系，（2）属于 G 的每个对象都有一个唯一的属于 F 的对象与其具有 R 关系。
 
 换句话说，当存在一种关系在 F 和 G 之间建立一对一对应关系时，F 和 G 是等势的。如果我们用'F≈G'表示等势，则这个概念的定义可以形式化地表述如下：
 
-F≈G=df∃R[∀x(Fx→∃!y(Gy&Rxy))&∀x(Gx→∃!y(Fy&Ryx))]
+F≈G=df∃R\[∀x(Fx→∃!y(Gy\&Rxy))&∀x(Gx→∃!y(Fy\&Ryx))]
 
 为了验证弗雷格关于等势的定义是否正确，考虑以下两个例子。在第一个例子中，我们有两个概念 F 和 G，它们是等势的：
 
 ![representation of two equinumerous concepts](https://plato.stanford.edu/entries/frege-theorem/1-1.png)
 
- 图 1
+图 1
 
 尽管存在几种不同的关系 R 可以证明 F 和 G 的等势性，但图 1 中使用的特定关系是：
 
-R1=[λxy(x=a&y=f)∨(x=b&y=g)∨(x=c&y=e)]
+R1=\[λxy(x=a\&y=f)∨(x=b\&y=g)∨(x=c\&y=e)]
 
 这是一个简单的练习，可以证明按照定义，R1 是 F 和 G 的‘见证’，它们是等势的（根据定义）。
 
@@ -474,7 +444,7 @@ R1=[λxy(x=a&y=f)∨(x=b&y=g)∨(x=c&y=e)]
 
 ![graphic of nonequinumerous concepts](https://plato.stanford.edu/entries/frege-theorem/not-1-1.png)
 
- 图 2
+图 2
 
 在这个例子中，没有关系 R 能够满足等势的定义。
 
@@ -485,23 +455,21 @@ R1=[λxy(x=a&y=f)∨(x=b&y=g)∨(x=c&y=e)]
 1. ∀x(Fx≡Gx)→F≈G
 2. F≈F
 3. F≈G→G≈F
-4. F≈G&G≈H→F≈H
+4. F≈G\&G≈H→F≈H
 
 这些事实的证明在每种情况下都需要确定一个关系，这个关系是相关等势主张的证明者。在某些情况下，很容易确定所讨论的关系。在其他情况下，读者应该能够通过考虑上述描述的例子来“构造”这样的关系（使用 λ-符号）。事实（2）-（4）证实了等势是一种“等价关系”，它将概念域划分为等势概念的“等价类”。
 
 ### 3.2 “Fs 的数量”的情境定义：休谟原理
 
-在格尔哲学中，弗雷格通过背景来定义“F 的数量”，并以今天所知的休谟原理来表述：[6]
+在格尔哲学中，弗雷格通过背景来定义“F 的数量”，并以今天所知的休谟原理来表述：\[6]
 
- 休谟原理：
-如果且仅如果 F 和 G 是等势的，那么 F 的数量就等同于 G 的数量。
+休谟原理： 如果且仅如果 F 和 G 是等势的，那么 F 的数量就等同于 G 的数量。
 
 使用我们的符号‘#F’来缩写‘F 的数量’，我们可以将休谟原则形式化如下：
 
- 休谟原则：
-#F=#G≡F≈G
+休谟原则： #F=#G≡F≈G
 
-当假设后者是由原始概念所统治的情境定义时，休谟原则被视为对#F 的情境定义：该原则并不明确定义“#F”，而是通过定义上下文（在本例中为身份陈述）来情境定义它。[7]正如我们将看到的，休谟原则是弗雷格构建自然数理论的基本原则。在 Gl 中，弗雷格概述了从休谟原则推导出基本数论定律的过程；这些概述在 Gg I 中进一步发展成更严格的证明。我们将在以下章节中研究这些推导。
+当假设后者是由原始概念所统治的情境定义时，休谟原则被视为对#F 的情境定义：该原则并不明确定义“#F”，而是通过定义上下文（在本例中为身份陈述）来情境定义它。\[7]正如我们将看到的，休谟原则是弗雷格构建自然数理论的基本原则。在 Gl 中，弗雷格概述了从休谟原则推导出基本数论定律的过程；这些概述在 Gg I 中进一步发展成更严格的证明。我们将在以下章节中研究这些推导。
 
 一旦弗雷格有了对#F 的情境定义，他随后将基数定义为任何是某个概念的数量的对象：
 
@@ -509,19 +477,19 @@ x 是基数=df∃F(x=#F)
 
 这表示出现在 Gl，§72 中的定义。
 
-注意，休谟原则在形式上明显类似于基本定律 V。两者都是双条件语句，断言特定术语之间的等同性（左侧条件）与概念之间的等价关系（右侧条件）。实际上，两者都将概念与特定对象相关联。在休谟原则的情况下，每个概念 F 与#F 相关联。然而，基本定律 V 问题在于要求概念和扩展之间的关联是一对一的，而休谟原则只要求概念和数字之间的关联是多对一的。休谟原则通常将不同的概念与相同的数字相关联。例如，原理数学的作者（‘[λxAxp]’）和 1 到 4 之间的正整数（‘[λx1&lt;x&lt;4]’）这两个不同的概念是等势的（它们下面都有两个对象）。因此，#[λxAxp] = #[λx1<x<4]。因此，与基本定律 V 不同，休谟原则不要求数字的域与概念的域一样大。实际上，一些作者已经发展出模型，证明休谟原则可以一致地添加到二阶逻辑中。请参阅 Geach（1976，446-7）、Hodes（1984，138）、Burgess（1984）和 Hazen（1985）的独立工作。
+注意，休谟原则在形式上明显类似于基本定律 V。两者都是双条件语句，断言特定术语之间的等同性（左侧条件）与概念之间的等价关系（右侧条件）。实际上，两者都将概念与特定对象相关联。在休谟原则的情况下，每个概念 F 与#F 相关联。然而，基本定律 V 问题在于要求概念和扩展之间的关联是一对一的，而休谟原则只要求概念和数字之间的关联是多对一的。休谟原则通常将不同的概念与相同的数字相关联。例如，原理数学的作者（‘\[λxAxp]’）和 1 到 4 之间的正整数（‘\[λx1\<x<4]’）这两个不同的概念是等势的（它们下面都有两个对象）。因此，#\[λxAxp] = #\[λx1\<x<4]。因此，与基本定律 V 不同，休谟原则不要求数字的域与概念的域一样大。实际上，一些作者已经发展出模型，证明休谟原则可以一致地添加到二阶逻辑中。请参阅 Geach（1976，446-7）、Hodes（1984，138）、Burgess（1984）和 Hazen（1985）的独立工作。
 
 ### 3.3 'Fs 的数量'的明确定义
 
-[注意：理解弗雷格定理证明的剩余两个小节并非必需。它们在此包含，供那些希望更全面理解弗雷格实际尝试的人参考。这些小节假定第 2 节的材料。对于只对弗雷格成就的正面方面感兴趣的读者，可以直接跳到第 4 节。]
+\[注意：理解弗雷格定理证明的剩余两个小节并非必需。它们在此包含，供那些希望更全面理解弗雷格实际尝试的人参考。这些小节假定第 2 节的材料。对于只对弗雷格成就的正面方面感兴趣的读者，可以直接跳到第 4 节。]
 
 在我们探讨弗雷格从休谟原则中得出的强大结论之前，值得稍作偏离，描述他试图明确定义“#F”并从基本定律 V 推导出休谟原则的尝试。这个尝试背后的思想是意识到，如果给定任何概念 F，等势的概念的概念可以用来定义第二层概念，即与 F 等势的概念 G。弗雷格找到了一种方法，将与给定概念 F 等势的所有概念收集到一个单一的外延中。在 Gl §68 中，他非正式地将其视为由一阶概念组成的外延，规定 Fs 的数量是第二层概念的外延：即作为与 F 等势的一阶概念。
 
-就前一小节末尾使用的例子而言，这个非正式定义将《数学原理》的作者的概念的数量确定为由所有且仅由与该概念等势的一阶概念组成的外延；这个外延包括[λxAxp]和[λx1<x<4]作为成员。实际上，弗雷格将基数 2 与该外延等同起来，因为它包含所有且仅包含两个对象所属的概念。类似地，弗雷格将基数 0 与由所有那些没有对象所属的一阶概念组成的外延等同起来；这个外延将包括诸如独角兽、半人马、3 和 5 之间的质数等概念。弗雷格在这里的洞察力激发了罗素在他的工作中发展出了一个有些类似的定义，现在常常看到对所谓的“弗雷格-罗素基数定义”作为等势概念或集合的类的引用。当然，对于“Fs 的数量”的这个明确定义，它的成立与否取决于对“外延”的一致概念。我们知道，基本定律 V 并没有提供这样一个一致的概念。
+就前一小节末尾使用的例子而言，这个非正式定义将《数学原理》的作者的概念的数量确定为由所有且仅由与该概念等势的一阶概念组成的外延；这个外延包括\[λxAxp]和\[λx1\<x<4]作为成员。实际上，弗雷格将基数 2 与该外延等同起来，因为它包含所有且仅包含两个对象所属的概念。类似地，弗雷格将基数 0 与由所有那些没有对象所属的一阶概念组成的外延等同起来；这个外延将包括诸如独角兽、半人马、3 和 5 之间的质数等概念。弗雷格在这里的洞察力激发了罗素在他的工作中发展出了一个有些类似的定义，现在常常看到对所谓的“弗雷格-罗素基数定义”作为等势概念或集合的类的引用。当然，对于“Fs 的数量”的这个明确定义，它的成立与否取决于对“外延”的一致概念。我们知道，基本定律 V 并没有提供这样一个一致的概念。
 
 ### 3.4 Hume 原理的推导
 
-Frege 对 Hume 原理的推导被事实证明是无效的，因为它依赖于不一致的基本定律 V。尽管如此，我们在本小节中简要描述了 Frege 的推导，以供感兴趣的读者参考。在 Gl，§73 中，Frege 通过上述关于 F 数量的非正式定义，勾勒了 Hume 原理从右到左方向的非正式证明。该推导依赖于以下事实：如果一个概念 G 是与 F 等势的二级概念的外延的成员，那么当且仅当 G 与 F 等势。换句话说，该证明依赖于一种高阶版本的外延定律（如上所述），我们知道普通版本的外延定律是基本定律 V 的结果。[9]下面是对 Frege 在 Gl，§73 中的证明的重构，扩展以涵盖 Hume 原理的两个方向。
+Frege 对 Hume 原理的推导被事实证明是无效的，因为它依赖于不一致的基本定律 V。尽管如此，我们在本小节中简要描述了 Frege 的推导，以供感兴趣的读者参考。在 Gl，§73 中，Frege 通过上述关于 F 数量的非正式定义，勾勒了 Hume 原理从右到左方向的非正式证明。该推导依赖于以下事实：如果一个概念 G 是与 F 等势的二级概念的外延的成员，那么当且仅当 G 与 F 等势。换句话说，该证明依赖于一种高阶版本的外延定律（如上所述），我们知道普通版本的外延定律是基本定律 V 的结果。\[9]下面是对 Frege 在 Gl，§73 中的证明的重构，扩展以涵盖 Hume 原理的两个方向。
 
 [对 Hume 原理的 Grundlagen 推导的重构](https://plato.stanford.edu/entries/frege-theorem/Gl-Hume.html)
 
@@ -537,7 +505,7 @@ Frege 对 Hume 原理的推导被事实证明是无效的，因为它依赖于�
 
 在我们转向证明弗雷格定理所需的定义之前，讨论一组支撑弗雷格对数字分析的见解将是有益的。首先，以下一系列概念具有一个非常有趣的特性：
 
-C0=[λxx≠x]C1=[λxx=#C0]C2=[λxx=#C0∨x=#C1]C3=[λxx=#C0∨x=#C1∨x=#C2]等。
+C0=\[λxx≠x]C1=\[λxx=#C0]C2=\[λxx=#C0∨x=#C1]C3=\[λxx=#C0∨x=#C1∨x=#C2]等。
 
 这个序列的有趣特性是，对于每个概念 Ck，仅且仅有在序列中位于 Ck 之前的概念的编号属于 Ck。因此，例如，在 C3 之前的概念是 C0、C1 和 C2。因此，仅且仅有以下编号属于 C3：#C0、#C1 和#C2。
 
@@ -565,28 +533,25 @@ Dedekind/Peano 数论的公理：
 
 我们可以将弗雷格的定义形式化地表示为我们的语言如下：
 
-Precedes(x,y)=df∃F∃w(Fw&y=#F&amp;x=#[λzFz&z≠w])
+Precedes(x,y)=df∃F∃w(Fw\&y=#F\&x=#\[λzFz\&z≠w])
 
-为了说明这个定义，让我们暂时假设我们对自然数 1 和 2 有一些了解，以展示这个定义正确地预测了 Precedes(1,2)，即使我们还没有定义这些自然数。让表达式‘[λzAzp]’表示《数学原理》的作者的概念。只有伯特兰·罗素（‘r’）和阿尔弗雷德·怀特海德属于这个概念。让表达式‘[λzAzp&z≠r]’表示《数学原理》的作者除了罗素之外的概念。[10] 那么，为了这个例子的目的，以下内容可以被视为事实：
+为了说明这个定义，让我们暂时假设我们对自然数 1 和 2 有一些了解，以展示这个定义正确地预测了 Precedes(1,2)，即使我们还没有定义这些自然数。让表达式‘\[λzAzp]’表示《数学原理》的作者的概念。只有伯特兰·罗素（‘r’）和阿尔弗雷德·怀特海德属于这个概念。让表达式‘\[λzAzp\&z≠r]’表示《数学原理》的作者除了罗素之外的概念。\[10] 那么，为了这个例子的目的，以下内容可以被视为事实：
 
-* 罗素是《数学原理》的概念作者，即，
-  [λzAzp]r
-* 2 是《数学原理》的概念作者的编号，即，
-  2=#[λzAzp]
-* 1 是数学原理概念的作者之一，除了罗素之外，即，
-  1=#[λzAzp&z≠r]
+* 罗素是《数学原理》的概念作者，即， \[λzAzp]r
+* 2 是《数学原理》的概念作者的编号，即， 2=#\[λzAzp]
+* 1 是数学原理概念的作者之一，除了罗素之外，即， 1=#\[λzAzp\&z≠r]
 
 如果我们将这些真理组合成一个连词，并在适当的位置应用存在泛化，那么结果就是前任的定义实例化为数字 1 和 2 的定义。因此，如果给定关于落入某些概念下的对象数量的某些事实，前任的定义正确地预测了 Precedes(1,2)。
 
 ### 4.2 关系 R 的祖先
 
-弗雷格接下来定义了关系 R 中 x 是 y 的祖先。这个新关系被称为“关系 R 的祖先”，我们将这个关系称为 R∗。弗雷格首先在《概念书》（第三部分，命题 76）中定义了关系 R 的祖先，尽管“祖先关系”这个术语来自于怀特海德和罗素 1910-1913 年的著作（I，*90·01）。弗雷格对于祖先的表述是：“x 在 R 系列中位于 y 之前”；或者，“y 在 R 系列中跟随 x”。（另见《逻辑学》第 79 节和《哥德尔、埃舍尔、巴赫》第一卷第 45 节。）如果我们考虑关系 x 是 y 的父亲，直观的想法很容易理解。假设 a 是 b 的父亲，b 是 c 的父亲，c 是 d 的父亲。那么“x 在父系列中是 y 的祖先”被定义为 a 是 b、c 和 d 的祖先，b 是 c 和 d 的祖先，c 是 d 的祖先。
+弗雷格接下来定义了关系 R 中 x 是 y 的祖先。这个新关系被称为“关系 R 的祖先”，我们将这个关系称为 R∗。弗雷格首先在《概念书》（第三部分，命题 76）中定义了关系 R 的祖先，尽管“祖先关系”这个术语来自于怀特海德和罗素 1910-1913 年的著作（I，\*90·01）。弗雷格对于祖先的表述是：“x 在 R 系列中位于 y 之前”；或者，“y 在 R 系列中跟随 x”。（另见《逻辑学》第 79 节和《哥德尔、埃舍尔、巴赫》第一卷第 45 节。）如果我们考虑关系 x 是 y 的父亲，直观的想法很容易理解。假设 a 是 b 的父亲，b 是 c 的父亲，c 是 d 的父亲。那么“x 在父系列中是 y 的祖先”被定义为 a 是 b、c 和 d 的祖先，b 是 c 和 d 的祖先，c 是 d 的祖先。
 
 弗雷格对 R 的祖先的定义需要一个预定义：
 
 如果且仅当每对 R 相关的对象 x 和 y 满足当 x 满足 F 时，y 也满足 F，那么 F 在 R 系列中是遗传的。
 
- 用形式化的术语来说：
+用形式化的术语来说：
 
 她（F，R）=abbr∀x∀y（Rxy→（Fx→Fy））
 
@@ -598,23 +563,23 @@ Precedes(x,y)=df∃F∃w(Fw&y=#F&amp;x=#[λzFz&z≠w])
 
 换句话说，当 y 属于由与 x 直接有 R 关系的每个东西举例的每个 R 遗传概念 F 时，y 就在 R 系列中跟随 x。用形式化的术语来说：
 
-R∗(x,y)=df∀F[(∀z(Rxz→Fz)&Her(F,R))→Fy]
+R∗(x,y)=df∀F\[(∀z(Rxz→Fz)\&Her(F,R))→Fy]
 
 例如，克林顿的父亲在父亲关系上站在切尔西的父亲（即祖先）的位置，因为她符合克林顿和他的兄弟从克林顿的父亲那里继承的每一个世袭概念。然而，克林顿的兄弟不是切尔西的祖先之一，因为他不是她的父亲、祖父或者切尔西所继承的父系链中的任何其他链接。
 
-重要的是要理解关系 R 及其祖先 R∗之间的区别。Rxy 意味着 R∗(x,y)（例如，如果克林顿是切尔西的父亲，则克林顿是切尔西的祖先），但反之则不成立（克林顿的父亲是切尔西的父亲*，但他不是切尔西的父亲）。事实上，对 R∗的定义的理解应该使人能够证明以下易得的结果，其中许多对应于 Begr 和 Gg 中的定理：[11]
+重要的是要理解关系 R 及其祖先 R∗之间的区别。Rxy 意味着 R∗(x,y)（例如，如果克林顿是切尔西的父亲，则克林顿是切尔西的祖先），但反之则不成立（克林顿的父亲是切尔西的父亲\*，但他不是切尔西的父亲）。事实上，对 R∗的定义的理解应该使人能够证明以下易得的结果，其中许多对应于 Begr 和 Gg 中的定理：\[11]
 
- R∗的事实：
+R∗的事实：
 
 1. Rxy→R∗(x,y)
 2. ¬∀R∀x∀y(R∗(x,y)→Rxy)
-3. [R∗(x,y)&∀z(Rxz→Fz)&Her(F,R)]→Fy[[12](https://plato.stanford.edu/entries/frege-theorem/notes.html#note-12)]
+3. \[R∗(x,y)&∀z(Rxz→Fz)\&Her(F,R)]→Fy\[[12](https://plato.stanford.edu/entries/frege-theorem/notes.html#note-12)]
 4. R∗(x,y)→∃zRzy
-5. [Fx&R∗(x,y)&Her(F,R)]→Fy
-6. Rxy&R∗(y,z)→R∗(x,z)Translated to Simplified Chinese:
-7. R∗(x,y)&R∗(y,z)→R∗(x,z)
+5. \[Fx\&R∗(x,y)\&Her(F,R)]→Fy
+6. Rxy\&R∗(y,z)→R∗(x,z)Translated to Simplified Chinese:
+7. R∗(x,y)\&R∗(y,z)→R∗(x,z)
 
-读者应该考虑当 R 被视为（直接）前置关系时会发生什么。通过对数字的直观把握，我们可以说这是事实（1）的一个例子，即如果 10 在 11 之前，那么 10 在*11 之前。此外，前置关系是事实 2 的证明：即 10 在*12 之前并不意味着 10 在 12 之前。前置关系*的传递性是事实（7）的一个例子。在下面，当我们限制自己只考虑自然数时，将前置和前置*之间的差异看作是立即前置和小于之间的差异是直观的。
+读者应该考虑当 R 被视为（直接）前置关系时会发生什么。通过对数字的直观把握，我们可以说这是事实（1）的一个例子，即如果 10 在 11 之前，那么 10 在_11 之前。此外，前置关系是事实 2 的证明：即 10 在_12 之前并不意味着 10 在 12 之前。前置关系_的传递性是事实（7）的一个例子。在下面，当我们限制自己只考虑自然数时，将前置和前置_之间的差异看作是立即前置和小于之间的差异是直观的。
 
 ### 4.3 R 的弱祖先
 
@@ -622,26 +587,25 @@ R∗(x,y)=df∀F[(∀z(Rxz→Fz)&Her(F,R))→Fy]
 
 > 当且仅当 x 具有 R 对 y 的祖先或 x=y 时，y 是以 x 开头的 R 系列的成员。
 
- 用形式化的术语来说：
+用形式化的术语来说：
 
 R+(x,y)=dfR∗(x,y)∨x=y
 
 弗雷格也将 R+(x,y)解读为：x 是以 y 结尾的 R 系列的成员。逻辑学家称 R+为 R 的“弱祖先”，因为它是 R∗的一种削弱版本。当我们定义自然数，并将 R 定义为“前驱”，我们可以直观地将其弱祖先 precedes+视为自然数上的小于或等于关系。
 
-R 的弱祖先的一般定义得出以下事实，其中许多对应于 Gg 中的定理：[13]
+R 的弱祖先的一般定义得出以下事实，其中许多对应于 Gg 中的定理：\[13]
 
- R+的事实：
+R+的事实：
 
-0. R∗(x,y)→R+(x,y)
-1. Rxy→R+(x,y)
-2. Rxy&R+(y,z)→R∗(x,z)
-3. R+(x,y)&Ryz→R∗(x,z)
-4. R∗(x,y)&Ryz→R+(x,z)
-5. R+(x,x)       (自反性)
-6. R∗(x,y)→∃z[R+(x,z)&Rzy]
-    (关于弱祖先的事实 6 的证明)
-7. [Fx&R+(x,y)&Her(F,R)]→Fy
-8. R∗(x,y)&Rzy&R is 1-1→R+(x,z)[[14](https://plato.stanford.edu/entries/frege-theorem/notes.html#note-14)]
+1. R∗(x,y)→R+(x,y)
+2. Rxy→R+(x,y)
+3. Rxy\&R+(y,z)→R∗(x,z)
+4. R+(x,y)\&Ryz→R∗(x,z)
+5. R∗(x,y)\&Ryz→R+(x,z)
+6. R+(x,x) (自反性)
+7. R∗(x,y)→∃z\[R+(x,z)\&Rzy] (关于弱祖先的事实 6 的证明)
+8. \[Fx\&R+(x,y)\&Her(F,R)]→Fy
+9. R∗(x,y)\&Rzy\&R is 1-1→R+(x,z)\[[14](https://plato.stanford.edu/entries/frege-theorem/notes.html#note-14)]
 
 这些事实的证明留作练习。
 
@@ -649,12 +613,11 @@ R 的弱祖先的一般定义得出以下事实，其中许多对应于 Gg 中�
 
 弗雷格对自然数的定义需要一个更加初步的定义。弗雷格将数字 0 定义为概念“非自我相同”的数量。即：
 
-0=df#[λxx≠x]
+0=df#\[λxx≠x]
 
-由于身份逻辑保证没有对象是非自身相同的，因此没有任何事物属于非自身相同的概念。如果弗雷格对#F 的明确定义按照他的意图起作用，数字 0 实际上将被认同为由那些概念的所有扩展组成的扩展，而在这些扩展下没有任何事物。然而，对于当前的目的，我们可以注意到 0 是根据以下方式定义的：（a）原始概念“Fs 的数量”和（b）一个概念（[λxx≠x]），其存在由我们的二阶逻辑与身份和理解力保证。根据这个 0 的定义，可以直接证明关于 0 的以下引理：
+由于身份逻辑保证没有对象是非自身相同的，因此没有任何事物属于非自身相同的概念。如果弗雷格对#F 的明确定义按照他的意图起作用，数字 0 实际上将被认同为由那些概念的所有扩展组成的扩展，而在这些扩展下没有任何事物。然而，对于当前的目的，我们可以注意到 0 是根据以下方式定义的：（a）原始概念“Fs 的数量”和（b）一个概念（\[λxx≠x]），其存在由我们的二阶逻辑与身份和理解力保证。根据这个 0 的定义，可以直接证明关于 0 的以下引理：
 
- 关于 0 的引理：
-#F=0≡¬∃xFx
+关于 0 的引理： #F=0≡¬∃xFx
 
 （关于 0 的引理的证明）
 
@@ -666,7 +629,7 @@ R 的弱祖先的一般定义得出以下事实，其中许多对应于 Gg 中�
 
 这个定义出现在 Gl，§83 和 Gg I，§46 中，作为“有限数”的定义。实际上，自然数就是有限基数。用形式化的术语来说，弗雷格的定义如下：
 
- Nx = 定义为 Precedes+(0,x)
+Nx = 定义为 Precedes+(0,x)
 
 在接下来的内容中，我们有时会使用变量 m、n 和 o 来表示自然数。换句话说，我们将使用形如∀n(…n…)的公式来缩写形如∀x(Nx→…x…)的公式，并使用形如∃n(…n…)的公式来缩写形如∃x(Nx&…x…)的公式。
 
@@ -678,8 +641,7 @@ R 的弱祖先的一般定义得出以下事实，其中许多对应于 Gg 中�
 
 零是自然数的说法是自然数定义的直接推论：
 
- 定理 1：
-N0
+定理 1： N0
 
 证明：根据“弱祖先”的定义，R+是自反的（请参阅第 4 条关于 R+的事实，位于我们关于“弱祖先”在§4 中的子部分）。因此，Precedes+(0,0)。因此，根据自然数的定义，0 是一个自然数。
 
@@ -689,10 +651,9 @@ N0
 
 这也是前述的一个简单推论，即 0 不会跟在任何自然数之后。可以用以下形式正式表示：
 
- 定理 2：
-¬∃x(Nx&Precedes(x,0))
+定理 2： ¬∃x(Nx\&Precedes(x,0))
 
-证明：假设存在某个数，记为 n，满足 Precedes(n,0)。根据前驱的定义，可以得出存在一个概念 Q 和一个对象 c，使得 Qc&0=#Q&amp;n=#[λzQz&z≠c]。但是根据关于零的引理（上文），0=#Q 意味着¬∃xQx，这与 Qc 的事实相矛盾。
+证明：假设存在某个数，记为 n，满足 Precedes(n,0)。根据前驱的定义，可以得出存在一个概念 Q 和一个对象 c，使得 Qc&0=#Q\&n=#\[λzQz\&z≠c]。但是根据关于零的引理（上文），0=#Q 意味着¬∃xQx，这与 Qc 的事实相矛盾。
 
 参见 Gl，§78，项目（6）；以及 Gg I，§109，定理 126。
 
@@ -700,32 +661,29 @@ N0
 
 证明没有两个自然数有相同的后继者是相对困难的（参见 Gl，§78，项目（5）；Gg I，§95，定理 89）。我们可以将这个定理表述如下，其中 m、n 和 o 是限定变量，范围是自然数：
 
- 定理 3：
-∀m∀n∀o[Precedes(m,o)&Precedes(n,o)→m=n]
+定理 3： ∀m∀n∀o\[Precedes(m,o)\&Precedes(n,o)→m=n]
 
 换句话说，这个定理断言前驱是自然数上的一对一关系。要证明这个定理，只需证明前驱是一对一关系，句号。可以通过休谟原理证明前驱是一对一的，借助以下等势引理，其证明相当冗长而复杂。等势引理断言，当 F 和 G 是等势的，x 属于 F，y 属于 G 时，除了 x 之外，属于 F 的概念对象与属于 G 的概念对象之间是等势的。情况大致如下图所示：
 
 ![graphic illustrating Equinumerosity Lemma](https://plato.stanford.edu/entries/frege-theorem/equinlem.png)
 
- 图 3
+图 3
 
 根据图 3，等势引理告诉我们，如果存在一个关系 R，它是 F 和 G 等势的证明，那么存在一个关系 R'，它是将 F 和 G 限制在除了 x 和 y 之外的对象上所得到的概念等势的证明。
 
-为了帮助我们正式化等势引理，让 F−x 缩写为概念 [λzFz&z≠x]，并让 G−y 缩写为概念 [λzGz&z≠y]。然后我们有：
+为了帮助我们正式化等势引理，让 F−x 缩写为概念 \[λzFz\&z≠x]，并让 G−y 缩写为概念 \[λzGz\&z≠y]。然后我们有：
 
- 等势引理：
-F≈G&Fx&Gy→F−x≈G−y
+等势引理： F≈G\&Fx\&Gy→F−x≈G−y
 
 （等势引理的证明）
 
 现在我们可以通过这个引理和休谟原则（参见 Gg I，§108）证明前驱关系是一对一的关系：
 
-前驱关系是一对一的关系：
-∀x∀y∀z[Precedes(x,z)&Precedes(y,z)→x=y]
+前驱关系是一对一的关系： ∀x∀y∀z\[Precedes(x,z)\&Precedes(y,z)→x=y]
 
 证明：假设 a 和 b 都是 c 的前导。根据前导的定义，我们知道存在概念和对象 P、Q、d 和 e，使得：
 
-Pd&c=#P&amp;a=#P−dQe&c=#Q&amp;b=#Q−e
+Pd\&c=#P\&a=#P−dQe\&c=#Q\&b=#Q−e
 
 但是如果 c=#P 和 c=#Q，那么#P=#Q。因此，根据休谟原则，P≈Q。所以，根据等势引理，可以得出 P−d≈Q−e。如果是这样的话，那么根据休谟原则，#P−d=#Q−e。但是那么，a=b。
 
@@ -733,13 +691,11 @@ Pd&c=#P&amp;a=#P−dQe&c=#Q&amp;b=#Q−e
 
 在这里需要提到的是，前驱不仅是一个一对一的关系，它还是一个函数关系：
 
-前任是一个功能关系：
-∀x∀y∀z[Precedes(x,y)&Precedes(x,z)→y=z]
+前任是一个功能关系： ∀x∀y∀z\[Precedes(x,y)\&Precedes(x,z)→y=z]
 
 这个事实可以通过一种与等势引理相反的方式来证明：
 
-等势引理的“逆命题”：
-F−x≈G−y&Fx&Gy→F≈G
+等势引理的“逆命题”： F−x≈G−y\&Fx\&Gy→F≈G
 
 我们将等势引理的“逆命题”和前驱是一个函数关系的证明留给读者作为练习。
 
@@ -747,39 +703,37 @@ F−x≈G−y&Fx&Gy→F≈G
 
 假设概念 F 在自然数上是遗传的，只要每对“相邻”的数 n 和 m（n 在 m 之前）满足当 n 满足 F 时，m 也满足 F，即，
 
-HerOn(F,N)=abbr∀n∀m[Precedes(n,m)→(Fn→Fm)]
+HerOn(F,N)=abbr∀n∀m\[Precedes(n,m)→(Fn→Fm)]
 
 然后我们可以将数学归纳法原理陈述如下：如果（a）0 属于 F，并且（b）F 在自然数上是遗传的，则每个自然数都属于 F。用正式的术语来说：
 
-定理 4：数学归纳法原理：
-F0&HerOn(F,N)→∀nFn
+定理 4：数学归纳法原理： F0\&HerOn(F,N)→∀nFn
 
 弗雷格实际上从一个更一般的原则中证明了数学归纳法，该原则适用于任何 R 序列。我们将后者称为归纳的一般原则。它断言，每当一个元素属于 F，并且 F 在以 a 开头的 R 序列上具有遗传性时，那么该 R 序列的每个成员都属于 F。我们可以通过对“以 a 开头的 R 序列上具有遗传性”的严格理解来形式化归纳的一般原则。以下是一个定义：
 
-HerOn(F,aR+)=abbr∀x∀y[R+(a,x)&R+(a,y)&Rxy→(Fx→Fy)]
+HerOn(F,aR+)=abbr∀x∀y\[R+(a,x)\&R+(a,y)\&Rxy→(Fx→Fy)]
 
 换句话说，如果在以 a 开头的 R 序列的成员中，每个相邻的一对 x 和 y（其中 x 与 y 之间存在 R 关系）满足当 x 属于 F 时，y 属于 F，那么 F 就在这个序列上具有遗传性。现在根据这个定义，我们可以更严格地重新表述归纳的一般原则：
 
-归纳的一般原理：
-[对于所有的 F 和 a，如果父亲是 F 并且 HerOn(F，aR+)成立]，则对于所有的 x，如果 R+(a，x)成立，则 Fx 成立。
+归纳的一般原理： \[对于所有的 F 和 a，如果父亲是 F 并且 HerOn(F，aR+)成立]，则对于所有的 x，如果 R+(a，x)成立，则 Fx 成立。
 
 这是 Gg I，§117 中 Frege 定理 152 的一个版本。
 
 我们可以将证明策略概括如下。假设归纳法的前提对于任意选择的概念 P 成立。也就是说，假设：
 
-Pa&HerOn(P,aR+)
+Pa\&HerOn(P,aR+)
 
 现在要证明∀x(R+(a,x)→Px)，选择任意对象 b，并进一步假设 R+(a,b)成立。我们只需证明 Pb 即可。我们通过引用关于 R+的事实（在第 4 节的弱祖先子集中的第 7 条）来完成这一点。回想一下，事实（7）是：
 
-[Fx&R+(x,y)&Her(F,R)]→Fy
+\[Fx\&R+(x,y)\&Her(F,R)]→Fy
 
-这是一个包含自由变量 x、y 和 F 的逻辑定理。首先，我们将 x 和 y 分别实例化为 a 和 b。然后，我们将 F 实例化为概念[λzR+(a,z)&Pz]，并应用λ-转换（虽然弗雷格可以简单地使用他的替换规则来实现相同的推理）。为 F 实例化的概念是以 a 开头并且属于 P 的 R 系列的成员概念。将 Fact（7）中的自由变量实例化，然后应用λ-转换，得到一个相当长的条件语句，其中前件有许多合取式，而结论是 Pb。因此，如果前件可以建立，证明就完成了。对于那些使用纸和笔跟随的人来说，前件中的所有合取式都是我们已经知道的事情，唯一的例外是[λzR+(a,z)&Pz]在 R 上是遗传的这一主张。然而，这个主张可以直接从我们知道为真的事情（特别是从我们作为条件证明的一部分假设的原则前件中包含的事实）建立。鼓励读者完成这个证明作为练习。对于那些想要检查自己工作的人，我们在这里给出完整的归纳泛化原则的证明：
+这是一个包含自由变量 x、y 和 F 的逻辑定理。首先，我们将 x 和 y 分别实例化为 a 和 b。然后，我们将 F 实例化为概念\[λzR+(a,z)\&Pz]，并应用λ-转换（虽然弗雷格可以简单地使用他的替换规则来实现相同的推理）。为 F 实例化的概念是以 a 开头并且属于 P 的 R 系列的成员概念。将 Fact（7）中的自由变量实例化，然后应用λ-转换，得到一个相当长的条件语句，其中前件有许多合取式，而结论是 Pb。因此，如果前件可以建立，证明就完成了。对于那些使用纸和笔跟随的人来说，前件中的所有合取式都是我们已经知道的事情，唯一的例外是\[λzR+(a,z)\&Pz]在 R 上是遗传的这一主张。然而，这个主张可以直接从我们知道为真的事情（特别是从我们作为条件证明的一部分假设的原则前件中包含的事实）建立。鼓励读者完成这个证明作为练习。对于那些想要检查自己工作的人，我们在这里给出完整的归纳泛化原则的证明：
 
 [归纳泛化原则的证明](https://plato.stanford.edu/entries/frege-theorem/proof6.html)
 
 现在，我们从归纳法的一般原理推导出数学归纳法原理，我们通过将 a 设为 0，R 设为 Precedes 来构造后者的一个实例：
 
-[F0&HerOn(F,0Precedes+)]→∀x[Precedes+(0,x)→Fx]
+\[F0\&HerOn(F,0Precedes+)]→∀x\[Precedes+(0,x)→Fx]
 
 当我们展开对 HerOn 的定义符号，用 Nx 和 Ny 替换 Precedes+(0,x)和 Precedes+(0,y)，然后使用限定量词∀n(…n…)和∀m(…m…)来表示形如∀y(Ny→…y…)和∀x(Nx→…x…)的断言，结果就是数学归纳法原理（其中符号 HerOn(F,N)已经被其定义符号所替代）。
 
@@ -787,33 +741,31 @@ Pa&HerOn(P,aR+)
 
 弗雷格使用数学归纳法来证明每个自然数都有一个后继数，而且后继数也是一个自然数。我们可以将定理表述如下：
 
- 定理 5：
-∀x[Nx→∃y(Ny&Precedes(x,y))]
+定理 5： ∀x\[Nx→∃y(Ny\&Precedes(x,y))]
 
-为了重建弗雷格证明这个定理的策略，请回忆一下前任关系的弱祖先关系，即 Precedes+(x,y)，可以理解为：x 是以 y 结尾的前任系列的成员。然后，弗雷格考虑以 n 结尾的前任系列的概念，即[λzPrecedes+(z,n)]，其中 n 是一个自然数。弗雷格通过归纳证明，证明了每个自然数 n 都在以 n 结尾的前任系列的概念的数量之前。也就是说，弗雷格通过归纳证明了每个自然数都有一个后继，证明了以下关于后继的引理：
+为了重建弗雷格证明这个定理的策略，请回忆一下前任关系的弱祖先关系，即 Precedes+(x,y)，可以理解为：x 是以 y 结尾的前任系列的成员。然后，弗雷格考虑以 n 结尾的前任系列的概念，即\[λzPrecedes+(z,n)]，其中 n 是一个自然数。弗雷格通过归纳证明，证明了每个自然数 n 都在以 n 结尾的前任系列的概念的数量之前。也就是说，弗雷格通过归纳证明了每个自然数都有一个后继，证明了以下关于后继的引理：
 
- 后继引理：
-∀nPrecedes(n,#[λzPrecedes+(z,n)])
+后继引理： ∀nPrecedes(n,#\[λzPrecedes+(z,n)])
 
 这个断言表示每个自然数 n 都在以 n 结尾的前导数列中。弗雷格可以通过证明关于后继的引理，并展示自然数的后继仍然是自然数来证明定理 5。
 
 为了直观地理解为什么后继引理给我们所需的结果，我们可以临时将 Precedes+ 视为关系 ≤。（可以证明 Precedes+ 在自然数上具有 ≤ 在自然数上的性质。）尽管我们尚未为数字 '1' 和 '2' 分配任何含义，但以下直观的序列驱动着弗雷格的策略：
 
-0 在#[λzz≤0]1 之前，在#[λzz≤1]2 之前，在#[λzz≤2]等等之前。
+0 在#\[λzz≤0]1 之前，在#\[λzz≤1]2 之前，在#\[λzz≤2]等等之前。
 
 例如，这个序列的第三个成员是真的，因为有 3 个自然数（0、1 和 2）小于或等于 2；所以数字 2 在小于或等于 2 的数字之前。弗雷格的策略是展示这个一般性的断言，即 n 在小于或等于 n 的数字之前，对于每个自然数都成立。因此，根据对继承引理的直观理解，弗雷格有一个很好的策略来证明每个数字都有一个后继者。（在本小节的剩余部分，读者可以继续将 Precedes+理解为≤。）
 
 现在，为了通过归纳法证明继承引理，我们需要将这个引理重新配置为可以用作数学归纳法原理的结果；即，我们需要形如∀nFn 的东西。我们可以通过使用λ-转换（即λ-抽象）的右到左方向来从引理中“抽象出”一个概念，从而将继承引理转化为以下等价的陈述：
 
-∀n[λyPrecedes(y,#[λzPrecedes+(z,y)])]n
+∀n\[λyPrecedes(y,#\[λzPrecedes+(z,y)])]n
 
 “抽象化”的概念如下所示：
 
-[λyPrecedes(y,#[λzPrecedes+(z,y)])]
+\[λyPrecedes(y,#\[λzPrecedes+(z,y)])]
 
 这是概念：作为一个对象 y，它在以 y 结尾的前任序列中的概念数量之前。让我们将表示这个概念的λ表达式简写为“Q”。我们的策略是将数学归纳原理中的变量 F 实例化为 Q。因此，结果是已经被证明并且我们知道是真实的：
 
-Q0&HerOn(Q,N)→∀nQn
+Q0\&HerOn(Q,N)→∀nQn
 
 由于结论是重新配置的后继引理，弗雷格可以通过证明 0 属于 Q（参见 Gg I，定理 154）以及 Q 在自然数上是遗传的（参见 Gg I，定理 150）来证明这个引理：
 
@@ -823,8 +775,7 @@ Q0&HerOn(Q,N)→∀nQn
 
 鉴于这个关于后继的引理的证明，定理 5 就不远了。关于后继的引理表明每个数都在某个形式为#F 的基数之前。我们仍然需要证明这样的后继基数是自然数。也就是说，我们仍然需要证明如果一个数 n 在某个东西 y 之前，那么 y 是一个自然数。
 
-自然数的后继是自然数：
- ∀n∀y（前驱（n，y）→Ny）
+自然数的后继是自然数： ∀n∀y（前驱（n，y）→Ny）
 
 证明：假设前驱（n，a）。然后，根据定义，由于 n 是自然数，存在 Precedes+（0，n）。因此根据关于 R+的事实（在第 4 节的弱祖先子节中），可以得出 Precedes∗（0，a），因此根据 Precedes+的定义，可以得出 Precedes+（0，a）；即 a 是自然数。
 
@@ -838,7 +789,7 @@ n′=df x，其中 Precedes(n,x)
 
 然后我们可以如下定义自然数序列，它们是 0 之后的数：
 
- 1=0′2=1′3=2′等等。
+1=0′2=1′3=2′等等。
 
 此外，现在可以给出加法的递归定义：
 
@@ -846,7 +797,7 @@ n+0=nn+m′=(n+m)′
 
 我们还可以正式定义：
 
-n<m=dfPrecedes∗(n,m)n≤m=dfPrecedes+(n,m)
+n\<m=dfPrecedes∗(n,m)n≤m=dfPrecedes+(n,m)
 
 这些定义构成了算术的基础。弗雷格因此从休谟原则在二阶逻辑中深入地推导出了算术的基本定律。（对于对休谟原则与谓词性二阶逻辑相结合时这些结果受到的影响感兴趣的读者应参阅 Linnebo 2004。）
 
@@ -860,23 +811,17 @@ n<m=dfPrecedes∗(n,m)n≤m=dfPrecedes+(n,m)
 
 弗雷格的策略是要证明在数论定理的推导过程中不需要依赖直觉。为了达到这个目标，他需要展示后者可以仅仅使用推理规则、公理和纯粹逻辑原理的定义来进行推导。这个观点被称为“逻辑主义”。以下是弗雷格的说法：
 
-> [《概念书》前言，第 5 页：]
-> 为了防止任何直觉无意间渗入其中，我必须竭尽全力确保推理链条没有任何漏洞。[引自范·海厄诺特 1967 年的鲍尔-门格尔伯格翻译]
+> \[《概念书》前言，第 5 页：] 为了防止任何直觉无意间渗入其中，我必须竭尽全力确保推理链条没有任何漏洞。\[引自范·海厄诺特 1967 年的鲍尔-门格尔伯格翻译]
 >
-> 【Begr，第三部分，§23：】
-> 此外，通过这个例子，我们看到纯粹的思维，不论是通过感官还是先验直觉给出的任何内容，仅凭其自身构成的内容，可以产生乍看起来只有基于某种直觉才可能的判断。...在接下来的内容中，关于序列【R 系列】的命题在广泛性上远远超过了可以从任何序列的直觉中推导出的所有命题。【来自 van Heijenoort 1967 年的 Bauer-Mengelberg 翻译】
+> 【Begr，第三部分，§23：】 此外，通过这个例子，我们看到纯粹的思维，不论是通过感官还是先验直觉给出的任何内容，仅凭其自身构成的内容，可以产生乍看起来只有基于某种直觉才可能的判断。...在接下来的内容中，关于序列【R 系列】的命题在广泛性上远远超过了可以从任何序列的直觉中推导出的所有命题。【来自 van Heijenoort 1967 年的 Bauer-Mengelberg 翻译】
 >
-> 【Gl，§62：】
-> 那么，如果我们无法拥有任何关于数字的概念或直觉，那么数字如何给予我们呢？由于只有在命题的背景下，词语才有任何意义，我们的问题变成了：定义一个包含数字词的命题的意义。【来自 Frege 1953 年的奥斯汀翻译】
+> 【Gl，§62：】 那么，如果我们无法拥有任何关于数字的概念或直觉，那么数字如何给予我们呢？由于只有在命题的背景下，词语才有任何意义，我们的问题变成了：定义一个包含数字词的命题的意义。【来自 Frege 1953 年的奥斯汀翻译】
 >
-> [Gl，§87：]
-> 我希望在本作品中可以证明算术定律是分析判断，因此是先验的。因此，算术只是逻辑的发展，算术的每个命题都是逻辑定律，尽管是派生的。【来自 Frege 1953 年的奥斯汀翻译】
+> \[Gl，§87：] 我希望在本作品中可以证明算术定律是分析判断，因此是先验的。因此，算术只是逻辑的发展，算术的每个命题都是逻辑定律，尽管是派生的。【来自 Frege 1953 年的奥斯汀翻译】
 >
-> [**Gg I**, §0:]
-> 在我的《算术基础》一书中，我试图使算术是逻辑的一个分支，并且不需要从经验或直觉中借用任何证明的基础。在本书中，通过仅仅使用逻辑手段推导出最简单的数学定律来证实这一点。[来自弗尔特的翻译，引自弗雷格 1967 年的著作]
+> \[**Gg I**, §0:] 在我的《算术基础》一书中，我试图使算术是逻辑的一个分支，并且不需要从经验或直觉中借用任何证明的基础。在本书中，通过仅仅使用逻辑手段推导出最简单的数学定律来证实这一点。\[来自弗尔特的翻译，引自弗雷格 1967 年的著作]
 >
-> [Gg II, 附录:]
-> 算术的主要问题是：我们应该如何构思逻辑对象，特别是数字？我们有什么理由将数字视为对象？即使这个问题在我写这本书时没有得到完全解决，我仍然相信已经找到了解决的方法。【来自弗尔特（Furth）在 Frege 1967 中的翻译】
+> \[Gg II, 附录:] 算术的主要问题是：我们应该如何构思逻辑对象，特别是数字？我们有什么理由将数字视为对象？即使这个问题在我写这本书时没有得到完全解决，我仍然相信已经找到了解决的方法。【来自弗尔特（Furth）在 Frege 1967 中的翻译】
 
 ### 6.2 Frege 战略的基本问题
 
@@ -899,13 +844,13 @@ Boolos（1985）指出，替换规则对于弗雷格的计划来说会导致这�
 
 要理解为什么，注意λ-转换原理：
 
-∀y([λxϕ]y≡ϕyx)
+∀y(\[λxϕ]y≡ϕyx)
 
 似乎是逻辑的一种分析真理。它表明：
 
 对象 y 展示了复杂属性的特性，即当且仅当 y 满足ϕ时，ϕ成立。
 
-有人可能认为这是由于λ表达式的含义、≡的含义以及语句[λxϕ]y（具有形式 Fx）的含义而成立。然而，λ-转换还暗示了概念的理解原则，因为后者通过存在泛化从前者推导出来：
+有人可能认为这是由于λ表达式的含义、≡的含义以及语句\[λxϕ]y（具有形式 Fx）的含义而成立。然而，λ-转换还暗示了概念的理解原则，因为后者通过存在泛化从前者推导出来：
 
 ∃F∀y(Fy≡ϕyx)
 
@@ -915,30 +860,25 @@ Boolos（1985）指出，替换规则对于弗雷格的计划来说会导致这�
 
 虽然扩展的存在直接来自于身份理论（§2.3），一旦将形式为ϵF 的术语添加到二阶逻辑中，与概念一一对应的扩展的存在就是基本定律 V 的结果。那么，对于弗雷格的项目来说，我们为什么要接受一个暗示个体存在和这种相关性的逻辑定律呢？弗雷格意识到基本定律 V 作为逻辑定律的地位可能会受到质疑：
 
-> [Gg I, 序言, 第 3 页:]
-> 据我所见，只有关于我的有关价值课程的基本法（V）方面才可能引发争议……我认为这是一条纯逻辑法则。[来自弗尔特在弗雷格 1967 年的翻译]
+> \[Gg I, 序言, 第 3 页:] 据我所见，只有关于我的有关价值课程的基本法（V）方面才可能引发争议……我认为这是一条纯逻辑法则。\[来自弗尔特在弗雷格 1967 年的翻译]
 
 此外，他认为对扩展的诉诸可以回答他工作中激发的一个问题：
 
-> [致罗素的信，1902 年 7 月 28 日：]
-> 我自己曾经不愿意承认数值范围和因此类别[集合]，但我没有看到将算术放在逻辑基础上的其他可能性。但问题是，我们如何理解逻辑对象？对此，我没有找到其他答案，只能是这样，我们将它们理解为概念的延伸，或更一般地说，作为函数值的范围。[来自弗雷格 1980 年的 Kaal 翻译]
+> \[致罗素的信，1902 年 7 月 28 日：] 我自己曾经不愿意承认数值范围和因此类别\[集合]，但我没有看到将算术放在逻辑基础上的其他可能性。但问题是，我们如何理解逻辑对象？对此，我没有找到其他答案，只能是这样，我们将它们理解为概念的延伸，或更一般地说，作为函数值的范围。\[来自弗雷格 1980 年的 Kaal 翻译]
 
-现在不清楚为什么弗雷格认为他可以通过说我们将数字理解为概念的延伸来回答这里提出的问题。他似乎认为我们可以通过说“通过基本定律 V”的方式回答明显的下一个问题“我们如何理解延伸？”他在这里的想法似乎是，由于基本定律 V 被认为是纯粹分析的或根据其术语的含义而真实的，我们只要真实地判断概念 F 和 G 在物质上是等价的，我们就理解了一对延伸。一些哲学家确实认为，具有与基本定律 V 相同逻辑形式的某些一致原则是分析的，并且这些原则通过在右侧条件的真实性中以左侧条件所描述的实体为基础来证明对左侧条件所描述的实体的引用。[15]
+现在不清楚为什么弗雷格认为他可以通过说我们将数字理解为概念的延伸来回答这里提出的问题。他似乎认为我们可以通过说“通过基本定律 V”的方式回答明显的下一个问题“我们如何理解延伸？”他在这里的想法似乎是，由于基本定律 V 被认为是纯粹分析的或根据其术语的含义而真实的，我们只要真实地判断概念 F 和 G 在物质上是等价的，我们就理解了一对延伸。一些哲学家确实认为，具有与基本定律 V 相同逻辑形式的某些一致原则是分析的，并且这些原则通过在右侧条件的真实性中以左侧条件所描述的实体为基础来证明对左侧条件所描述的实体的引用。\[15]
 
-弗雷格为什么认为基本定律 V 是分析的，并且概念 F 和 G 的物质等价性在逻辑上等同于暗示了扩展的存在的恒等式？要认为基本定律 V 是分析的，似乎必须认为右侧条件作为意义问题暗示了相应的左侧条件。[16]然而，这种观点是可以质疑的。假设右手条件作为意义问题暗示了左侧条件。也就是说，假设(R)作为意义问题暗示了(L)：
+弗雷格为什么认为基本定律 V 是分析的，并且概念 F 和 G 的物质等价性在逻辑上等同于暗示了扩展的存在的恒等式？要认为基本定律 V 是分析的，似乎必须认为右侧条件作为意义问题暗示了相应的左侧条件。\[16]然而，这种观点是可以质疑的。假设右手条件作为意义问题暗示了左侧条件。也就是说，假设(R)作为意义问题暗示了(L)：
 
 ∀x(Fx≡Gx)ϵF=ϵG
 
 现在注意到(L)本身可以从逻辑角度进行分析。表达式“ϵF”，虽然由一个构词运算符构成，实际上是一个确定描述（“F 的扩展”），因此，使用罗素的描述理论，(L)可以逻辑上分析为以下论断：
 
-存在对象 x 和对象 y，满足以下条件：
-(1) x 是 F 的唯一扩展，
-(2) y 是 G 的唯一扩展，并且
-(3) x=y.
+存在对象 x 和对象 y，满足以下条件： (1) x 是 F 的唯一扩展， (2) y 是 G 的唯一扩展，并且 (3) x=y.
 
 也就是说，对于某个定义或原始概念 Extension(x,F)（'x 是 F 的扩展'），(L) 意味着分析 (D) 是一种意义上的事实：
 
-∃x∃y[Extension(x,F)&∀z(Extension(z,F)→z=x) &Extension(y,G)&∀z(Extension(z,G)→z=y)&x=y]
+∃x∃y\[Extension(x,F)&∀z(Extension(z,F)→z=x) \&Extension(y,G)&∀z(Extension(z,G)→z=y)\&x=y]
 
 但是，如果（R）作为意义问题暗示（L），并且（L）作为意义问题暗示（D），那么（R）作为意义问题暗示（D）。这个结论可能会受到质疑：为什么 F 和 G 的物质等价性会暗示存在性主张（D）作为意义问题？换句话说，Va（即《基本法 V》的从右到左方向）是分析的这一建议引发了一个没有明显答案的问题。下面，这种推理方式将被用来质疑休谟原则从右到左方向的分析性。参见 Boolos 1997（307-309），了解为什么 Vb（休谟原则的从左到右方向）不是分析的原因。
 
@@ -946,24 +886,23 @@ Boolos（1985）指出，替换规则对于弗雷格的计划来说会导致这�
 
 ### 6.5 数字和真值的存在：凯撒大帝问题
 
-鉴于弗雷格定理的证明不依赖于基本定律 V，一些哲学家认为，弗雷格为建立算术的认识论合理基础而采取的最佳策略是用原始术语#F 替换原始术语ϵF，用休谟原理替换基本定律 V，并主张休谟原理是逻辑的分析原理[17]。然而，我们刚刚看到这种策略不足的一个原因。主张休谟原理是逻辑的分析原理面临着与基本定律 V 所面临的同样问题。必须给出一个理由，说明以下主张：
+鉴于弗雷格定理的证明不依赖于基本定律 V，一些哲学家认为，弗雷格为建立算术的认识论合理基础而采取的最佳策略是用原始术语#F 替换原始术语ϵF，用休谟原理替换基本定律 V，并主张休谟原理是逻辑的分析原理\[17]。然而，我们刚刚看到这种策略不足的一个原因。主张休谟原理是逻辑的分析原理面临着与基本定律 V 所面临的同样问题。必须给出一个理由，说明以下主张：
 
 F≈G
 
 作为意义问题，意味着：
 
-#F=#G
+\#F=#G
 
 毕竟，“#F=#G”这个陈述可以以类似我们在前一节中分析“ϵF=ϵG”的方式进行分析，我们使用罗素的描述理论将句子（L）分析为句子（D）。按照这个模式，我们采用原始概念 Numbers(x,F) 并将 #F=#G 分析为：
 
-∃x∃y[Numbers(x,F)&∀z(Numbers(z,F)→z=x) &Numbers(y,G)&∀z(Numbers(z,G)→z=y)&x=y]
+∃x∃y\[Numbers(x,F)&∀z(Numbers(z,F)→z=x) \&Numbers(y,G)&∀z(Numbers(z,G)→z=y)\&x=y]
 
 不清楚为什么我们应该认为这个最后的主张是作为意义问题而暗示了 F≈G。休谟原则的从右到左的方向并不明显是分析的。
 
 此外，弗雷格有自己的理由不用休谟原则替换基本定律 V。其中一个原因是他认为休谟原则对于认识论问题“我们如何理解或理解逻辑对象，如数字？”没有提供答案。第二个原因是休谟原则显然受到“凯撒大帝问题”的限制。弗雷格首次在 Gl，§55 中提出了这个问题，与他在其中尝试的“n=#F”的归纳定义有关。关于这个定义，弗雷格说：
 
-> [Gl，§56：]
-> … 但是我们永远无法——以一个简单的例子来说——通过我们的定义来决定任何概念是否包含了属于它的朱利叶斯·凯撒这个数字，或者那个高卢征服者是一个数字还是不是。【来自弗雷格 1953 年的奥斯汀翻译】
+> \[Gl，§56：] … 但是我们永远无法——以一个简单的例子来说——通过我们的定义来决定任何概念是否包含了属于它的朱利叶斯·凯撒这个数字，或者那个高卢征服者是一个数字还是不是。【来自弗雷格 1953 年的奥斯汀翻译】
 
 弗雷格再次提出了对于给出被定义对象的“同一性标准”的上下文定义的同样担忧。在 Gl §66 中，弗雷格考虑了以下关于“线 x 的方向”的上下文定义：
 
@@ -971,21 +910,19 @@ F≈G
 
 关于这个定义，弗雷格说：
 
-> [Gl，§66：]
-> 例如，它不会决定英格兰是否与地球轴的方向相同 - 如果我可以原谅一个看起来荒谬的例子。当然，没有人会把英格兰和地球轴的方向混淆在一起；但这并不归功于我们对方向的定义。[来自弗雷格 1953 年的奥斯汀翻译]
+> \[Gl，§66：] 例如，它不会决定英格兰是否与地球轴的方向相同 - 如果我可以原谅一个看起来荒谬的例子。当然，没有人会把英格兰和地球轴的方向混淆在一起；但这并不归功于我们对方向的定义。\[来自弗雷格 1953 年的奥斯汀翻译]
 
 当我们意识到休谟原则是一个具有与方向定义相同逻辑形式的语境定义时，问题开始出现。对弗雷格来说，这是他观点的核心，即数字是对象，因此他认为有责任说明它们是哪些对象。但是，“凯撒大帝问题”是，如果将休谟原则视为唯一提供数字身份条件的原则，它并没有描述任意对象（比如凯撒大帝）与行星数量是否相等的条件。也就是说，休谟原则没有定义“#F=x”这个条件，其中 x 是任意对象。它只在 x 被确认为基数时提供身份条件（因为此时 x=#G，其中 G 是某个对象），而休谟原则告诉我们何时#F=#G。
 
 在《Gg》中，弗雷格通过用外延概念明确定义数字来解决这个问题（我们在上面的第 4 节中描述了这一点）。不幸的是，这只是一个权宜之计，因为当弗雷格在《Gg》中系统化外延时，基本定律 V 与休谟原则以及上述方向的语境定义具有相同的逻辑形式。弗雷格意识到凯撒大帝问题影响了基本定律 V，正如《Gg I，§10》中的讨论所示。在该部分中，他说（请记住，对于弗雷格来说，ϵ绑定对象变量而不是函数项）：
 
-> [《Gg I，§10》：]
-> … 这绝对不能完全解决像‘,ϵΦ(ϵ)’这样的名称的指称问题。我们只有一种方法，即通过像‘,ϵΦ(ϵ)’这样的名称来始终识别一个值域，通过这种方式，它已经可以被识别为一个值域。但是，到目前为止，我们无法确定一个对象是否是一个未被给出的值域，而不是一个值域... [来自 Frege 1967 的 Furth 翻译]
+> \[《Gg I，§10》：] … 这绝对不能完全解决像‘,ϵΦ(ϵ)’这样的名称的指称问题。我们只有一种方法，即通过像‘,ϵΦ(ϵ)’这样的名称来始终识别一个值域，通过这种方式，它已经可以被识别为一个值域。但是，到目前为止，我们无法确定一个对象是否是一个未被给出的值域，而不是一个值域... \[来自 Frege 1967 的 Furth 翻译]
 
 换句话说，基本定律 V 并没有告诉我们在什么条件下可以将任意选择的对象 x 与某个给定的扩展（如ϵF）等同起来。
 
 直到最近，人们认为 Frege 在他的 Gg 系统的§10 中通过限制普遍量词∀x 来仅涵盖扩展来解决了这个问题。如果 Frege 能够成功地将这个量词限制为扩展，那么当问题出现时，即（任意选择的）对象 x 是否与ϵF 相同，可以回答 x 必须是某个概念的扩展，比如 G，并且基本定律 V 将告诉您 x 与ϵF 相同的条件。根据对§10 的这种解释，据称 Frege 在将两个真值（真和假）分别与只包含这些对象作为成员的两个扩展进行等同识别时，限制了量词。通过这样做，人们认为在 Gg 中量词∀x 的范围内的所有对象都成为已被识别为扩展的扩展，因为真值是他的系统中唯一没有被引入为扩展或值域的两个对象。
 
-然而，Wehmeier（1999）的最新研究表明，在第 10 节中，弗雷格并不试图将他的系统的量词限制为集合（或者更一般地说，是值域）。第 10 节的详细脚注表明，弗雷格考虑过，但并不抱有太大希望，将值域中的每个对象与仅包含该对象的集合进行等同[18]。但更重要的是，弗雷格后来考虑了一些情况（在 Gg 的第 34 和 35 节），这些情况似乎假设了值域中包含的不是集合的对象。（在这些节中，弗雷格考虑了当 y 不是集合时，“x 是 y 的成员”的定义会发生什么变化。）[19]
+然而，Wehmeier（1999）的最新研究表明，在第 10 节中，弗雷格并不试图将他的系统的量词限制为集合（或者更一般地说，是值域）。第 10 节的详细脚注表明，弗雷格考虑过，但并不抱有太大希望，将值域中的每个对象与仅包含该对象的集合进行等同\[18]。但更重要的是，弗雷格后来考虑了一些情况（在 Gg 的第 34 和 35 节），这些情况似乎假设了值域中包含的不是集合的对象。（在这些节中，弗雷格考虑了当 y 不是集合时，“x 是 y 的成员”的定义会发生什么变化。）\[19]
 
 即使弗雷格设法成功地将 Gg 的量词限制在避免朱利叶斯·凯撒问题上，他也将无法通过扩展系统来包括普通非逻辑对象的名称。因为如果他试图这样做，那么“ϵF 与朱利叶斯·凯撒相同的条件是什么？”这个问题将是合法的，但没有答案。这意味着他的逻辑系统无法用于分析普通语言。然而，正是对普通语言的分析使弗雷格得出了关于概念的数学陈述的洞察。
 
@@ -997,43 +934,37 @@ F≈G
 
 以现代集合论为例。策梅洛集合论（Z）有几个独特的集合存在原则。例如，考虑众所周知的子集（或分离）公理：
 
-Z 的子集（分离）公理：
-∀x[集合(x)→∃y[集合(y)&∀z(z∈y≡(z∈x&ϕ))]],
-这里ϕ是任意一个 y 不自由的公式
+Z 的子集（分离）公理： ∀x\[集合(x)→∃y\[集合(y)&∀z(z∈y≡(z∈x&ϕ))]], 这里ϕ是任意一个 y 不自由的公式
 
 在 Z 中，子集公理和其他集合存在公理与 Z 的集合身份原则是不同的：
 
-集合的身份原则：
-Set(x) 和 Set(y) → [∀z(z∈x≡z∈y)→x=y]
+集合的身份原则： Set(x) 和 Set(y) → \[∀z(z∈x≡z∈y)→x=y]
 
 注意，第二个原则提供了以集合最显著特征为基础的身份条件，即与其他对象不同，它们具有成员。因此，对于不是集合的对象的身份条件可以是标准原则，即只要它们属于相同的概念，就可以确定它们的身份。这自然地引导我们到一个非常普遍的身份原则，适用于任何对象：
 
-身份的普遍原则：x=y=df[Set(x)&Set(y)&∀z(z∈x≡z∈y)] ∨[¬Set(x)&¬Set(y)&∀F(Fx≡Fy)]
+身份的普遍原则：x=y=df\[Set(x)\&Set(y)&∀z(z∈x≡z∈y)] ∨\[¬Set(x)&¬Set(y)&∀F(Fx≡Fy)]
 
 现在，如果我们将某个东西视为集合，并询问它是否与任意选择的对象 x 相同，这就确定了一个明确的条件来解决问题。对于理论 Z 而言，唯一剩下的问题是它的存在原则：我们是否知道子集公理和其他集合存在原则是真实的，如果是，又是如何知道的？存在的问题因此被揭示出来。我们不通过试图证明一个暗示着集合存在的原则来接近它，而这个原则我们尚不知道是否定义良好。
 
 在一些经典的论文（1987 年和 1986/87 年），布洛斯似乎推荐使用单独的存在和同一原则的这种程序。在那些论文中，他避免使用集合成员关系的原始数学关系，并建议弗雷格可以通过使用一个非逻辑的概括公理来构建他的数论理论（“弗雷格算术”），该公理使用一种特殊的实例化关系，该关系在概念 G 和对象 x 之间成立，直观地说，当 x 仅由概念组成且 G 是 x 中的一个概念时。他将这个非逻辑公理称为“Numbers”，并使用符号“Gηx”表示 G 在 x 中：
 
- 数字：
-∀F∃!x∀G(Gηx≡G≈F)
+数字： ∀F∃!x∀G(Gηx≡G≈F)
 
-[参见 Boolos 1987（5），1986/87（140）。] 这个原则断言对于任何概念 F，存在一个唯一的对象，其中包含所有与 F 等势的概念 G，且仅包含这些概念 G。然后，Boolos 提出两个观察结果：（1）Frege 可以将#F 定义为“唯一的对象 x，对于所有概念 G，当且仅当 G 与 F 等势时，G 在 x 中”，以及（2）Hume 的原则可以从 Numbers 中推导出来。[参见 Boolos 1986/87（140）。] 根据我们在上面第 4 和第 5 节的工作，我们知道 Numbers 足以推导出算术的基本定律。
+\[参见 Boolos 1987（5），1986/87（140）。] 这个原则断言对于任何概念 F，存在一个唯一的对象，其中包含所有与 F 等势的概念 G，且仅包含这些概念 G。然后，Boolos 提出两个观察结果：（1）Frege 可以将#F 定义为“唯一的对象 x，对于所有概念 G，当且仅当 G 与 F 等势时，G 在 x 中”，以及（2）Hume 的原则可以从 Numbers 中推导出来。\[参见 Boolos 1986/87（140）。] 根据我们在上面第 4 和第 5 节的工作，我们知道 Numbers 足以推导出算术的基本定律。
 
 由于 Boolos 将这个原则称为“Numbers”，因此我们可以合理地假设他会接受以下改写（其中“Number(x)”是一个未定义的、原始的概念）：
 
-**Numbers**:
-∀F∃!x[Number(x)&∀G(Gηx≡G≈F)]
+**Numbers**: ∀F∃!x\[Number(x)&∀G(Gηx≡G≈F)]
 
 虽然 Boolos 并没有明确提出一个与 Numbers 相补充的恒等原则，但很明显以下原则将以数字最显著的特征提供恒等条件：
 
-数字的恒等原则：
-Number(x)&Number(y)→[∀G(Gηx≡Gηy)→x=y]
+数字的恒等原则： Number(x)\&Number(y)→\[∀G(Gηx≡Gηy)→x=y]
 
 然后，我们可以像在集合论 Z 的情况下那样，直接制定一个一般的同一性原则：
 
-一般的同一性原则：x=y=df[Number(x)&Number(y)&∀F(Fηx≡Fηy)]∨[¬Number(x)&¬Number(y)&∀F(Fx≡Fy)]
+一般的同一性原则：x=y=df\[Number(x)\&Number(y)&∀F(Fηx≡Fηy)]∨\[¬Number(x)&¬Number(y)&∀F(Fx≡Fy)]
 
-用数字和身份的普遍原则来表述弗雷格算术的这种形式，将上述所描述的凯撒大帝问题置于更好的视角之中；条件“#F=x”对于任意概念 F 和对象 x 都有定义。它直接面对认识论问题：我们知道数字是真实的吗？如果是，那么如何知道？这是哲学家需要集中精力的地方。[有关使用更一般版本的特殊实例化关系η重建弗雷格算术的重建，请参见 Zalta 1999。]
+用数字和身份的普遍原则来表述弗雷格算术的这种形式，将上述所描述的凯撒大帝问题置于更好的视角之中；条件“#F=x”对于任意概念 F 和对象 x 都有定义。它直接面对认识论问题：我们知道数字是真实的吗？如果是，那么如何知道？这是哲学家需要集中精力的地方。\[有关使用更一般版本的特殊实例化关系η重建弗雷格算术的重建，请参见 Zalta 1999。]
 
 通过用单独的存在和身份原则替换弗雷格的双条件，我们将两个问题简化为一个，并将弗雷格算术基础的真正问题隔离出来，即为某种抽象对象（例如数字）提供独特存在性主张的认识论证明问题。因为如果类似于弗雷格的计划要成功，它必须在某个时候断言（作为公理或定理）某种（逻辑）对象的存在。这些单独的存在性主张应该是关注的焦点。
 
@@ -1043,110 +974,110 @@ Number(x)&Number(y)→[∀G(Gηx≡Gηy)→x=y]
 
 #### Cited Works by Frege
 
-* 1879, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle a. S.: Louis Nebert; translation by S. Bauer Mengelberg as *Concept Notation: A formula language of pure thought, modelled upon that of arithmetic*, in J. van Heijenoort, *From Frege to Gödel: A Sourcebook in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press
-* 1884, *Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl*, Breslau: w. Koebner; translated by J. L. Austin as *The Foundations of Arithmetic: A Logic-Mathematical Enquiry into the Concept of Number*, Oxford: Blackwell, second revised edition, 1953.
-* 1892, “Über Begriff und Gegenstand”, in *Vierteljahresschrift für wissenschaftliche Philosophie*, 16: 192–205; translated as ‘Concept and Object,’ by P. Geach in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds. and trans.), Oxford: Blackwell, third edition, 1980.
-* 1893/1903, *Grundgesetze der Arithmetik*, Band I/II, Jena: Verlag Herman Pohle; translation by P. Ebert and M. Rossberg (with C. Wright) as *Basic Laws of Arithmetic*: *Derived using concept-script*, Oxford: Oxford University Press, 2013; partial translation of Volume I by M. Furth as *The Basic Laws of Arithmetic*, Berkeley: U. California Press, 1964.
-* 1953, *The Foundations of Arithmetic*, J. L. Austin (trans.), Oxford: Basil Blackwell, 2nd revised edition.
-* 1967, *The Basic Laws of Arithmetic*, M. Furth (trans.), Berkeley: University of California.
-* 1980, *Philosophical and Mathematical Correspondence*, G. Gabriel, H. Hermes, F. Kambartel, C. Thiel, and A. Veraart (eds. of the German edition), abridged from the German edition by Brian McGuinness, translated by Hans Kaal, Chicago: University of Chicago Press.
+* 1879, _Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens_, Halle a. S.: Louis Nebert; translation by S. Bauer Mengelberg as _Concept Notation: A formula language of pure thought, modelled upon that of arithmetic_, in J. van Heijenoort, _From Frege to Gödel: A Sourcebook in Mathematical Logic, 1879–1931_, Cambridge, MA: Harvard University Press
+* 1884, _Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl_, Breslau: w. Koebner; translated by J. L. Austin as _The Foundations of Arithmetic: A Logic-Mathematical Enquiry into the Concept of Number_, Oxford: Blackwell, second revised edition, 1953.
+* 1892, “Über Begriff und Gegenstand”, in _Vierteljahresschrift für wissenschaftliche Philosophie_, 16: 192–205; translated as ‘Concept and Object,’ by P. Geach in _Translations from the Philosophical Writings of Gottlob Frege_, P. Geach and M. Black (eds. and trans.), Oxford: Blackwell, third edition, 1980.
+* 1893/1903, _Grundgesetze der Arithmetik_, Band I/II, Jena: Verlag Herman Pohle; translation by P. Ebert and M. Rossberg (with C. Wright) as _Basic Laws of Arithmetic_: _Derived using concept-script_, Oxford: Oxford University Press, 2013; partial translation of Volume I by M. Furth as _The Basic Laws of Arithmetic_, Berkeley: U. California Press, 1964.
+* 1953, _The Foundations of Arithmetic_, J. L. Austin (trans.), Oxford: Basil Blackwell, 2nd revised edition.
+* 1967, _The Basic Laws of Arithmetic_, M. Furth (trans.), Berkeley: University of California.
+* 1980, _Philosophical and Mathematical Correspondence_, G. Gabriel, H. Hermes, F. Kambartel, C. Thiel, and A. Veraart (eds. of the German edition), abridged from the German edition by Brian McGuinness, translated by Hans Kaal, Chicago: University of Chicago Press.
 
 #### Cited Primary Works by Others
 
-* Dedekind, R., 1888, *Was sind und was sollen die Zahlen*, Braunschweig: Vieweg und Sohn; 2nd edition, 1893; 7th edition, 1939; translated as “The Nature and Meaning of Numbers”, in W.W. Beman (ed. and trans.), *Essays on the Theory of Numbers*, Chicago: Open Court, 1901; reprinted, New York: Dover, 1963; also translated as “What Are Numbers and What Should They Be?”, H. Pogorzelski, W. Ryan & W. Snyder (eds. and trans.), Orono, ME: Research Institute for Mathematics, 1995.
-* Hilbert, D., 1899, “Grundlagen der Geometrie”, in *Festschrift zur Feier der Enthüllung des Gauss-Weber Denkmals in Göttingen*, Leipzig: Teubner; translated as *Foundations of Geometry*, Leo Unger (trans.), La Salle: Open Court, 1971 (ninth printing, 1997).
-* Pasch, M., 1882, *Vorlesungen über neuere Geometrie*, Leipzig: Teubner.
-* Peano, G., 1889a, *Arithmetices Principia: Nova Methodo Exposita*, Turin: Fratelli Bocca; translated as “The Principles of Arithmetic, Presented by a New Method”, in Jean van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879--1931*, Cambridge, MA: Harvard University Press, 1967, 83–97.
-* Peano, G., 1889b, *I principii di geometria logicamente esposti*, Turin: Fratelli Bocca.
-* Pieri, M., 1898, “I principii della geometria di posizione composti in sistema logico deduttivo”, *Memorie della Reale Accademia delle Scienze di Torino* (Series 2), 48: 1–62.
-* Whitehead, A.N., and B. Russell, 1910--1913, *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; 2nd edition, Cambridge: Cambridge University Press, 1925--1927.
+* Dedekind, R., 1888, _Was sind und was sollen die Zahlen_, Braunschweig: Vieweg und Sohn; 2nd edition, 1893; 7th edition, 1939; translated as “The Nature and Meaning of Numbers”, in W.W. Beman (ed. and trans.), _Essays on the Theory of Numbers_, Chicago: Open Court, 1901; reprinted, New York: Dover, 1963; also translated as “What Are Numbers and What Should They Be?”, H. Pogorzelski, W. Ryan & W. Snyder (eds. and trans.), Orono, ME: Research Institute for Mathematics, 1995.
+* Hilbert, D., 1899, “Grundlagen der Geometrie”, in _Festschrift zur Feier der Enthüllung des Gauss-Weber Denkmals in Göttingen_, Leipzig: Teubner; translated as _Foundations of Geometry_, Leo Unger (trans.), La Salle: Open Court, 1971 (ninth printing, 1997).
+* Pasch, M., 1882, _Vorlesungen über neuere Geometrie_, Leipzig: Teubner.
+* Peano, G., 1889a, _Arithmetices Principia: Nova Methodo Exposita_, Turin: Fratelli Bocca; translated as “The Principles of Arithmetic, Presented by a New Method”, in Jean van Heijenoort (ed.), _From Frege to Gödel: A Source Book in Mathematical Logic, 1879--1931_, Cambridge, MA: Harvard University Press, 1967, 83–97.
+* Peano, G., 1889b, _I principii di geometria logicamente esposti_, Turin: Fratelli Bocca.
+* Pieri, M., 1898, “I principii della geometria di posizione composti in sistema logico deduttivo”, _Memorie della Reale Accademia delle Scienze di Torino_ (Series 2), 48: 1–62.
+* Whitehead, A.N., and B. Russell, 1910--1913, _Principia Mathematica_, 3 volumes, Cambridge: Cambridge University Press; 2nd edition, Cambridge: Cambridge University Press, 1925--1927.
 
 ### Secondary Literature
 
-* Anderson, D., and Zalta, E., 2004, “Frege, Boolos, and Logical Objects”, *J. Philosophical Logic*, 33 (1): 1–26.
-* Antonelli, A., and May, R., 2005, “Frege’s Other Program”, *Notre Dame Journal of Formal Logic*, 46 (1): 1–17. [[Available online in PDF](http://projecteuclid.org/Dienst/Repository/1.0/Disseminate/euclid.ndjfl/1107220671/body/pdf).]
-* Beaney, M., 1997, *The Frege Reader*, Oxford: Blackwell.
-* Bell, J. L., 1995, “Type-Reducing Correspondences and Well-Orderings: Frege’s and Zermelo’s Construction Re-examined”, *Journal of Symbolic Logic*, 60: 209–221.
-* –––, 1999, “Frege’s Theorem in a Constructive Setting”, *Journal of Symbolic Logic*, 64 (2): 486–488.
-* –––, 1994, “Fregean Extensions of First-Order Theories”, *Mathematical Logic Quarterly*, 40: 27–30; reprinted in Demopoulos 1995, 432–437.
-* Boolos, G., 1985, “Reading the *Begriffsschrift*”, *Mind*, 94: 331–344; reprinted in Boolos (1998): 155–170. [Page references are to the reprint.]
-* –––, 1986/87, “Saving Frege From Contradiction”, in *Proceedings of the Aristotelian Society*, 87(1): 137–151; reprinted in Boolos (1998): 171–182. [Page references are to the original.]
-* –––, 1987, “The Consistency of Frege’s *Foundations of Arithmetic*”, in *On Being and Saying*, J. J. Thomson (ed.), Cambridge, MA: MIT Press, pp. 3–20; reprinted in Boolos (1998): 183–201. [Page references are to the original.]
-* –––, 1990, “The Standard of Equality of Numbers”, in *Meaning and Method: Essays in Honor of Hilary Putnam*, G. Boolos (ed.), Cambridge: Cambridge University Press, pp. 261–277; reprinted in Boolos (1998): 202–219. [Page references are to the original.]
-* –––, 1993, “Whence the Contradiction?”, in *Aristotelian Society Supplementary Volume*, 67: 213–233; reprinted in Boolos (1998): 220–236.
-* –––, 1994, “The Advantages of Honest Toil Over Theft”, in *Mathematics and Mind*, Alexander George (ed.), Oxford: Oxford University Press, 27–44; reprinted in Boolos (1998): 255–274.
-* –––, 1997, “Is Hume’s Principle Analytic?”, in Heck (ed.) 1997, 245–262; reprinted in Boolos (1998): 301–314. [Page references are to the reprint.]
-* –––, 1998, *Logic, Logic, and Logic*, J. Burgess and R. Jeffrey (eds.), Cambridge, MA: Harvard University Press.
-* Burgess, J., 1984, “Review of Wright (1983)”, *The Philosophical Review*, 93: 638–40.
-* –––, 1998, “On a Consistent Subsystem of Frege’s *Grundgesetze*”, *Notre Dame Journal of Formal Logic*, 39: 274–278.
-* –––, 2005, *Fixing Frege*, Princeton: Princeton University Press.
-* Demopoulos, W., 1998, “The Philosophical Basis of Our Knowledge of Number”, *Noûs*, 32: 481–503.
-* Demopoulos, W., (ed.), 1995, *Frege’s Philosophy of Mathematics*, Cambridge: Harvard University Press.
-* Demopoulos, W., and Clark, P., 2005, “The Logicism of Frege, Dedekind and Russell”, in *Oxford Handbook of Philosophy of Mathematics and Logic*, S. Shapiro (ed.), Oxford: Oxford University Press, 129–165.
-* Dummett, M., 1991, *Frege: Philosophy of Mathematics*, Cambridge: Harvard University Press.
+* Anderson, D., and Zalta, E., 2004, “Frege, Boolos, and Logical Objects”, _J. Philosophical Logic_, 33 (1): 1–26.
+* Antonelli, A., and May, R., 2005, “Frege’s Other Program”, _Notre Dame Journal of Formal Logic_, 46 (1): 1–17. \[[Available online in PDF](http://projecteuclid.org/Dienst/Repository/1.0/Disseminate/euclid.ndjfl/1107220671/body/pdf).]
+* Beaney, M., 1997, _The Frege Reader_, Oxford: Blackwell.
+* Bell, J. L., 1995, “Type-Reducing Correspondences and Well-Orderings: Frege’s and Zermelo’s Construction Re-examined”, _Journal of Symbolic Logic_, 60: 209–221.
+* –––, 1999, “Frege’s Theorem in a Constructive Setting”, _Journal of Symbolic Logic_, 64 (2): 486–488.
+* –––, 1994, “Fregean Extensions of First-Order Theories”, _Mathematical Logic Quarterly_, 40: 27–30; reprinted in Demopoulos 1995, 432–437.
+* Boolos, G., 1985, “Reading the _Begriffsschrift_”, _Mind_, 94: 331–344; reprinted in Boolos (1998): 155–170. \[Page references are to the reprint.]
+* –––, 1986/87, “Saving Frege From Contradiction”, in _Proceedings of the Aristotelian Society_, 87(1): 137–151; reprinted in Boolos (1998): 171–182. \[Page references are to the original.]
+* –––, 1987, “The Consistency of Frege’s _Foundations of Arithmetic_”, in _On Being and Saying_, J. J. Thomson (ed.), Cambridge, MA: MIT Press, pp. 3–20; reprinted in Boolos (1998): 183–201. \[Page references are to the original.]
+* –––, 1990, “The Standard of Equality of Numbers”, in _Meaning and Method: Essays in Honor of Hilary Putnam_, G. Boolos (ed.), Cambridge: Cambridge University Press, pp. 261–277; reprinted in Boolos (1998): 202–219. \[Page references are to the original.]
+* –––, 1993, “Whence the Contradiction?”, in _Aristotelian Society Supplementary Volume_, 67: 213–233; reprinted in Boolos (1998): 220–236.
+* –––, 1994, “The Advantages of Honest Toil Over Theft”, in _Mathematics and Mind_, Alexander George (ed.), Oxford: Oxford University Press, 27–44; reprinted in Boolos (1998): 255–274.
+* –––, 1997, “Is Hume’s Principle Analytic?”, in Heck (ed.) 1997, 245–262; reprinted in Boolos (1998): 301–314. \[Page references are to the reprint.]
+* –––, 1998, _Logic, Logic, and Logic_, J. Burgess and R. Jeffrey (eds.), Cambridge, MA: Harvard University Press.
+* Burgess, J., 1984, “Review of Wright (1983)”, _The Philosophical Review_, 93: 638–40.
+* –––, 1998, “On a Consistent Subsystem of Frege’s _Grundgesetze_”, _Notre Dame Journal of Formal Logic_, 39: 274–278.
+* –––, 2005, _Fixing Frege_, Princeton: Princeton University Press.
+* Demopoulos, W., 1998, “The Philosophical Basis of Our Knowledge of Number”, _Noûs_, 32: 481–503.
+* Demopoulos, W., (ed.), 1995, _Frege’s Philosophy of Mathematics_, Cambridge: Harvard University Press.
+* Demopoulos, W., and Clark, P., 2005, “The Logicism of Frege, Dedekind and Russell”, in _Oxford Handbook of Philosophy of Mathematics and Logic_, S. Shapiro (ed.), Oxford: Oxford University Press, 129–165.
+* Dummett, M., 1991, _Frege: Philosophy of Mathematics_, Cambridge: Harvard University Press.
 * –––, 1997, “Neo-Fregeans: In Bad Company?”, in Schirn (1997).
-* Ferreira, F., 2005, “Amending Frege’s *Grundgesetze der Arithmetik*”, *Synthese*, 147: 3–19.
-* Ferreira, F., and K. Wehmeier, 2002, “On the Consistency of the Δ11-CA Fragment of Frege’s *Grundgesetze*”, *Journal of Philosophical Logic*, 31: 303–311.
-* Field, H., 1984, “Critical Notice of Crispin Wright: *Frege’s Conception of Numbers as Objects*”, *Canadian Journal of Philosophy*, 14: 637–632; reprinted under the title “Platonism for Cheap? Crispin Wright on Frege’s Context Principle” in H. Field, *Realism, Mathematics, and Modality*, Oxford: Blackwell, 1989, pp. 147–170.
-* Fine, K., 2002, *The Limits of Abstraction*, Oxford: Clarendon Press.
-* Furth, M., 1967, “Editor’s Introduction”, in G. Frege, *The Basic Laws of Arithmetic*, M. Furth (translator and editor), Berkeley: University of California Press, pp. v–lvii.
-* Geach, P., 1976, “Critical Notice”, *Mind*, 85 (339): 436–449.
-* –––, 1955, “Class and Concept”, *Philosophical Review*, 64: 561–570.
-* Goldfarb, W., 2001, “First-Order Frege Theory is Undecidable”, *Journal of Philosophical Logic*, 30: 613–616.
-* Hale, B., 1994, “Dummett’s Critique of Wright’s Attempt to Resuscitate Frege”, *Philosophia Mathematica*, (Series III), 2: 122–147.
-* Hazen, A., 1985, “Review of Crispin Wright’s *Frege’s Conception of Numbers as Objects*”, *Australasian Journal of Philosophy*, 63 (2): 251–254.
-* Heck, Jr., R., 2012, *Reading Frege’s* Grundgesetze, Oxford: Clarendon Press.
-* –––, 2011, *Frege’s Theorem*, Oxford: Clarendon Press.
-* –––, 1999, “Grundgesetze der Arithmetik I, §10”, *Philosophia Mathematica*, 7: 258–292.
+* Ferreira, F., 2005, “Amending Frege’s _Grundgesetze der Arithmetik_”, _Synthese_, 147: 3–19.
+* Ferreira, F., and K. Wehmeier, 2002, “On the Consistency of the Δ11-CA Fragment of Frege’s _Grundgesetze_”, _Journal of Philosophical Logic_, 31: 303–311.
+* Field, H., 1984, “Critical Notice of Crispin Wright: _Frege’s Conception of Numbers as Objects_”, _Canadian Journal of Philosophy_, 14: 637–632; reprinted under the title “Platonism for Cheap? Crispin Wright on Frege’s Context Principle” in H. Field, _Realism, Mathematics, and Modality_, Oxford: Blackwell, 1989, pp. 147–170.
+* Fine, K., 2002, _The Limits of Abstraction_, Oxford: Clarendon Press.
+* Furth, M., 1967, “Editor’s Introduction”, in G. Frege, _The Basic Laws of Arithmetic_, M. Furth (translator and editor), Berkeley: University of California Press, pp. v–lvii.
+* Geach, P., 1976, “Critical Notice”, _Mind_, 85 (339): 436–449.
+* –––, 1955, “Class and Concept”, _Philosophical Review_, 64: 561–570.
+* Goldfarb, W., 2001, “First-Order Frege Theory is Undecidable”, _Journal of Philosophical Logic_, 30: 613–616.
+* Hale, B., 1994, “Dummett’s Critique of Wright’s Attempt to Resuscitate Frege”, _Philosophia Mathematica_, (Series III), 2: 122–147.
+* Hazen, A., 1985, “Review of Crispin Wright’s _Frege’s Conception of Numbers as Objects_”, _Australasian Journal of Philosophy_, 63 (2): 251–254.
+* Heck, Jr., R., 2012, _Reading Frege’s_ Grundgesetze, Oxford: Clarendon Press.
+* –––, 2011, _Frege’s Theorem_, Oxford: Clarendon Press.
+* –––, 1999, “Grundgesetze der Arithmetik I, §10”, _Philosophia Mathematica_, 7: 258–292.
 * –––, 1997, “The Julius Caesar Objection”, in Heck (ed.) 1997, 273–308.
-* –––, 1996, “The Consistency of Predicative Fragments of Frege’s *Grundgesetze der Arithmetik*”, *History and Philosophy of Logic*, 17: 209–220.
-* –––, 1993, “The Development of Arithmetic in Frege’s *Grundgesetze der Arithmetik*”, *Journal of Symbolic Logic*, 58 (2): 579–600; reprinted in Demopoulos (1995).
-* Heck, R. (ed.), 1997, *Language, Thought, and Logic: Essays in Honour of Michael Dummett*, Oxford: Oxford University Press, 1997.
-* Hodes, H., 1984, “Logicism and the Ontological Commitments of Arithmetic,” *Journal of Philosophy*, 81 (3): 123–149.
-* Linnebo, Ø., 2004, “Predicative Fragments of Frege Arithmetic”, *The Bulletin of Symbolic Logic*, 10 (2): 153–174.
-* MacBride, F., 2003, “Speaking with Shadows: A Study of Neo-Logicism”, *British Journal for the Philosophy of Science*, 54: 103–163.
-* MacFarlane, J., 2002, “Frege, Kant, and the Logic in Logicism”, *The Philosophical Review*,111:25–65.
-* May, R., and K. Wehmeier, 2019, “The Proof of Hume’ Principle”, P. Ebert and M. Rossberg (eds.), *Essays on Frege’s* Basic Laws of Arithmetic, Oxford: Oxford University Press, pp. 182–206.
-* Parsons, C., 1965, “Frege’s Theory of Number”, *Philosophy in America*, M. Black (ed.), Ithaca: Cornell University Press, pp. 180–203; reprinted with Postscript in Demopoulos (1995), pp. 182–210.
-* Parsons, T., 1987, “The Consistency of the First-Order Portion of Frege’s Logical System”, *Notre Dame Journal of Formal Logic*, 28: 161–68.
-* Pelletier, F.J., 2001, “Did Frege Believe Frege’s Principle”, *Journal of Logic, Language, and Information*, 10 (1): 87–114.
-* Quine, W.V.O., 1995, “On Frege’s Way Out”, in *Selected Logical Papers* (enlarged edition), Cambridge, MA: Harvard University Press.
-* Reck, E., and Awodey, S. (trans./eds.), 2004, *Frege’s Lectures on Logic: Carnap’s Student Notes, 1910–1914*, Chicago and La Salle, IL: Open Court.
-* Resnik, M., 1980, *Frege and the Philosophy of Mathematics*, Ithaca: Cornell University Press.
-* Rosen, G., 1993, “The Refutation of Nominalism(?)”, *Philosophical Topics*, 21 (2): 149–186
-* Ruffino, M., 2003, “Why Frege Would Not Be A Neo-Fregean”, *Mind*, 112 (445): 51–78.
-* Schirn, M., (ed.), 1997, *Philosophy of Mathematics Today*, Oxford: Oxford University Press.
-* Schroeder-Heister, P., 1987, “A model-theoretic reconstruction of Frege’s Permutation Argument”, *Notre Dame Journal of Formal Logic*, 28 (1): 69–79.
-* Sullivan, P. and Potter, M., 1997, “Hale on Caesar”, *Philosophia Mathematica* (Series III), 5: 135–152.
-* Tabata, H., 2000, “Frege’s Theorem and His Logicism”, *History and Philosophy of Logic*, 21 (4): 265–295.
-* Tennant, N., 2004, “A General Theory of Abstraction Operators”, *The Philosophical Quarterly*, 54(214): 105–133.
-* van Heijenoort, J., 1967, ed., *From Frege to Gödel: A Sourcebook in Mathematical Logic*, Cambridge: Harvard University Press.
-* Wehmeier, K., 1999, “Consistent Fragments of *Grundgesetze* and the Existence of Non-Logical Objects”, *Synthese*, 121: 309–328.
-* Wright, C., 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press.
+* –––, 1996, “The Consistency of Predicative Fragments of Frege’s _Grundgesetze der Arithmetik_”, _History and Philosophy of Logic_, 17: 209–220.
+* –––, 1993, “The Development of Arithmetic in Frege’s _Grundgesetze der Arithmetik_”, _Journal of Symbolic Logic_, 58 (2): 579–600; reprinted in Demopoulos (1995).
+* Heck, R. (ed.), 1997, _Language, Thought, and Logic: Essays in Honour of Michael Dummett_, Oxford: Oxford University Press, 1997.
+* Hodes, H., 1984, “Logicism and the Ontological Commitments of Arithmetic,” _Journal of Philosophy_, 81 (3): 123–149.
+* Linnebo, Ø., 2004, “Predicative Fragments of Frege Arithmetic”, _The Bulletin of Symbolic Logic_, 10 (2): 153–174.
+* MacBride, F., 2003, “Speaking with Shadows: A Study of Neo-Logicism”, _British Journal for the Philosophy of Science_, 54: 103–163.
+* MacFarlane, J., 2002, “Frege, Kant, and the Logic in Logicism”, _The Philosophical Review_,111:25–65.
+* May, R., and K. Wehmeier, 2019, “The Proof of Hume’ Principle”, P. Ebert and M. Rossberg (eds.), _Essays on Frege’s_ Basic Laws of Arithmetic, Oxford: Oxford University Press, pp. 182–206.
+* Parsons, C., 1965, “Frege’s Theory of Number”, _Philosophy in America_, M. Black (ed.), Ithaca: Cornell University Press, pp. 180–203; reprinted with Postscript in Demopoulos (1995), pp. 182–210.
+* Parsons, T., 1987, “The Consistency of the First-Order Portion of Frege’s Logical System”, _Notre Dame Journal of Formal Logic_, 28: 161–68.
+* Pelletier, F.J., 2001, “Did Frege Believe Frege’s Principle”, _Journal of Logic, Language, and Information_, 10 (1): 87–114.
+* Quine, W.V.O., 1995, “On Frege’s Way Out”, in _Selected Logical Papers_ (enlarged edition), Cambridge, MA: Harvard University Press.
+* Reck, E., and Awodey, S. (trans./eds.), 2004, _Frege’s Lectures on Logic: Carnap’s Student Notes, 1910–1914_, Chicago and La Salle, IL: Open Court.
+* Resnik, M., 1980, _Frege and the Philosophy of Mathematics_, Ithaca: Cornell University Press.
+* Rosen, G., 1993, “The Refutation of Nominalism(?)”, _Philosophical Topics_, 21 (2): 149–186
+* Ruffino, M., 2003, “Why Frege Would Not Be A Neo-Fregean”, _Mind_, 112 (445): 51–78.
+* Schirn, M., (ed.), 1997, _Philosophy of Mathematics Today_, Oxford: Oxford University Press.
+* Schroeder-Heister, P., 1987, “A model-theoretic reconstruction of Frege’s Permutation Argument”, _Notre Dame Journal of Formal Logic_, 28 (1): 69–79.
+* Sullivan, P. and Potter, M., 1997, “Hale on Caesar”, _Philosophia Mathematica_ (Series III), 5: 135–152.
+* Tabata, H., 2000, “Frege’s Theorem and His Logicism”, _History and Philosophy of Logic_, 21 (4): 265–295.
+* Tennant, N., 2004, “A General Theory of Abstraction Operators”, _The Philosophical Quarterly_, 54(214): 105–133.
+* van Heijenoort, J., 1967, ed., _From Frege to Gödel: A Sourcebook in Mathematical Logic_, Cambridge: Harvard University Press.
+* Wehmeier, K., 1999, “Consistent Fragments of _Grundgesetze_ and the Existence of Non-Logical Objects”, _Synthese_, 121: 309–328.
+* Wright, C., 1983, _Frege’s Conception of Numbers as Objects_, Aberdeen: Aberdeen University Press.
 * –––, 1997a, “Response to Dummett”, in Schirn (1997).
 * –––, 1997b, “On the Philosophical Significance of Frege’s Theorem”, in Heck (ed.) 1997, 201–244.
-* Zalta, E., 1999, “Natural Numbers and Natural Cardinals as Abstract Objects: A Partial Reconstruction of Frege’s *Grundgesetze* in Object Theory”, *Journal of Philosophical Logic*, 28 (6): 619–660.
+* Zalta, E., 1999, “Natural Numbers and Natural Cardinals as Abstract Objects: A Partial Reconstruction of Frege’s _Grundgesetze_ in Object Theory”, _Journal of Philosophical Logic_, 28 (6): 619–660.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-theorem). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/frege-theorem/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=frege-theorem&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/frege-theorem/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-theorem).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/frege-theorem/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=frege-theorem\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/frege-theorem/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-* [Die Grundlagen der Arithmetik](https://books.google.com/books?id=Ajs6l1o2vdkC&printsec=frontcover), original German text, at Google Books.
-* [Grundgesetze der Arithmetik](https://books.google.com/books?id=LZ5tAAAAMAAJ&printsec=frontcover), original German text, at Google Books.
+* [Die Grundlagen der Arithmetik](https://books.google.com/books?id=Ajs6l1o2vdkC\&printsec=frontcover), original German text, at Google Books.
+* [Grundgesetze der Arithmetik](https://books.google.com/books?id=LZ5tAAAAMAAJ\&printsec=frontcover), original German text, at Google Books.
 
 ## Related Entries
 
-[Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: controversy with Hilbert](https://plato.stanford.edu/entries/frege-hilbert/) | [Frege, Gottlob: logic](https://plato.stanford.edu/entries/frege-logic/) | [*Principia Mathematica*](https://plato.stanford.edu/entries/principia-mathematica/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/)
+[Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: controversy with Hilbert](https://plato.stanford.edu/entries/frege-hilbert/) | [Frege, Gottlob: logic](https://plato.stanford.edu/entries/frege-logic/) | [_Principia Mathematica_](https://plato.stanford.edu/entries/principia-mathematica/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/)
 
 ### Acknowledgments
 
-I was motivated to write the present entry after reading an early draft of an essay by William Demopoulos. (The draft was eventually published as Demopoulos and Clark 2005.) Demopoulos kindly allowed me to quote certain passages from that early draft in the footnotes to the present entry. I am also indebted to Roberto Torretti, who carefully read this piece and identified numerous infelicities; to Franz Fritsche, who noticed a quantifier transposition error in Fact 2 about the strong ancestral; to Seyed N. Mousavian, who noticed some typographical errors in some formulas; to Xu Mingming, who noticed that Fact 8 about the Weak Ancestral (Section 4, subsection “The Weak Ancestral of R”) was missing an important condition (namely, that R must be 1–1); to Evgeni Latinov, who noted that the discussion in Section 2.7 (of how the Russell paradox is engendered in Frege’s system) also requires that the material equivalence of F and G be a sufficient for the identity of F and G; and to Paul Pietroski, who noticed an infelicity in the first statement of the principle of induction in Section 4. I am indebted to Kai Wehmeier, who (a) reminded me that, strictly speaking, the result of replacing Basic Law V by Hume’s Principle in Frege’s system does not result in a subsystem of the original until we replace the primitive notion “the course of values of the function f” with the primitive notion “the number of Fs”, and (b) refereed the July 2013 update to this entry and developed numerous, insightful suggestions for improvement. Finally, I am indebted to Jerzy Hanusek for pointing out that Existence of Extensions principle can be derived more simply in Frege’s system directly from the classical logic of identity, and to Rowena Conway for noticing some unnoticed corruption caused by our new MathJax rendering of the formulas.
+I was motivated to write the present entry after reading an early draft of an essay by William Demopoulos. (The draft was eventually published as Demopoulos and Clark 2005.) Demopoulos kindly allowed me to quote certain passages from that early draft in the footnotes to the present entry. I am also indebted to Roberto Torretti, who carefully read this piece and identified numerous infelicities; to Franz Fritsche, who noticed a quantifier transposition error in Fact 2 about the strong ancestral; to Seyed N. Mousavian, who noticed some typographical errors in some formulas; to Xu Mingming, who noticed that Fact 8 about the Weak Ancestral (Section 4, subsection “The Weak Ancestral of R”) was missing an important condition (namely, that R must be 1–1); to Evgeni Latinov, who noted that the discussion in Section 2.7 (of how the Russell paradox is engendered in Frege’s system) also requires that the material equivalence of F and G be a sufficient for the identity of F and G; and to Paul Pietroski, who noticed an infelicity in the first statement of the principle of induction in Section 4. I am indebted to Kai Wehmeier, who (a) reminded me that, strictly speaking, the result of replacing Basic Law V by Hume’s Principle in Frege’s system does not result in a subsystem of the original until we replace the primitive notion “the course of values of the function f” with the primitive notion “the number of Fs”, and (b) refereed the July 2013 update to this entry and developed numerous, insightful suggestions for improvement. Finally, I am indebted to Jerzy Hanusek for pointing out that Existence of Extensions principle can be derived more simply in Frege’s system directly from the classical logic of identity, and to Rowena Conway for noticing some unnoticed corruption caused by our new MathJax rendering of the formulas.
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Edward N. Zalta](http://mally.stanford.edu/zalta.html) <[*zalta@stanford.edu*](mailto:zalta%40stanford%2eedu)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Edward N. Zalta](http://mally.stanford.edu/zalta.html) <[_zalta@stanford.edu_](mailto:zalta%40stanford%2eedu)>

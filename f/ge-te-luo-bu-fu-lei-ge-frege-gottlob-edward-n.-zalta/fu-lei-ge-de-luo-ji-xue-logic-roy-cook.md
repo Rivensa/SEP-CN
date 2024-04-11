@@ -1,43 +1,35 @@
 # 弗雷格的逻辑学 logic (Roy Cook)
 
-
-*首次发表于 2023 年 2 月 7 日*
+_首次发表于 2023 年 2 月 7 日_
 
 弗里德里希·路德维希·戈特洛布·弗雷格（出生于 1848 年，逝世于 1925 年）常被认为是在他的《概念符号》中发明了现代量化逻辑。虽然关于弗雷格的创新之处以及他的作品与同时代人如乔治·布尔、奥古斯都·德摩根、恩斯特·施罗德、查尔斯·桑德斯·皮尔斯和约翰·文恩的作品中存在哪些相似之处存在一些争议（参见普特南 1982 年或布洛斯 1994 年的论述，以抵制将现代逻辑归功于弗雷格的倾向，还有关于逻辑代数传统的条目），但毫无疑问，弗雷格的工作，尤其是在伯特兰·罗素和路德维希·维特根斯坦的推崇下，对哲学和数学逻辑的发展产生了巨大影响。
 
 虽然本条目旨在向读者概述弗雷格在《概念符号》和《基本法则》中提出的逻辑系统，但并不意味着它是将弗雷格的逻辑系统翻译成现代符号的指南，因此以下内容中几乎没有现代符号。尽管“研究”弗雷格逻辑和他的逻辑主义计划的常见方法是通过将他的公理和定理翻译成现代符号，但这种方法往往会导致对弗雷格实际观点的误解，因为他自己的符号（在两个逻辑系统中）与现代的一阶和高阶量化逻辑在很多方面存在显著差异。因此，任何有兴趣以自己的方式理解弗雷格的逻辑和哲学观点的人都需要在《概念符号》和《基本法则》的逻辑和形式语言中研究这些观点，并且需要直接熟练地使用弗雷格的符号、演绎系统等。本条目旨在作为开始这一旅程的手段，除其他目的外。
 
-* [ 1. 介绍](https://plato.stanford.edu/entries/frege-logic/#Intr)
+* [1. 介绍](https://plato.stanford.edu/entries/frege-logic/#Intr)
 * [2. 概念书写的逻辑](https://plato.stanford.edu/entries/frege-logic/#LogiBegr)
-
   * [2.1 概念书写的运算符](https://plato.stanford.edu/entries/frege-logic/#OperBegr)
-
     * [2.1.1 判定笔画](https://plato.stanford.edu/entries/frege-logic/#JudgStro)
     * [2.1.2 条件笔画](https://plato.stanford.edu/entries/frege-logic/#CondStro)
     * [2.1.3 否定笔画](https://plato.stanford.edu/entries/frege-logic/#NegaStro)
     * [2.1.4 身份运算符](https://plato.stanford.edu/entries/frege-logic/#IdenOper)
     * [2.1.5 表达一般性的凹凸性](https://plato.stanford.edu/entries/frege-logic/#ConcForExprGene)
   * [2.2 概念书的公理和规则](https://plato.stanford.edu/entries/frege-logic/#AxioRuleBegr)
-
-    * [ 2.2.1 公理](https://plato.stanford.edu/entries/frege-logic/#Axio)
+    * [2.2.1 公理](https://plato.stanford.edu/entries/frege-logic/#Axio)
     * [2.2.2 推理规则](https://plato.stanford.edu/entries/frege-logic/#RuleInfe)
 * [3.《格言法则》的逻辑](https://plato.stanford.edu/entries/frege-logic/#LogiGrun)
-
   * [3.1 格伦德格塞的“旧”运算符](https://plato.stanford.edu/entries/frege-logic/#OldOperGrun)
-
-    * [3.1.1 判断符号](https://plato.stanford.edu/entries/frege-logic/#JudgStro_1)
-    * [3.1.2 否定符号](https://plato.stanford.edu/entries/frege-logic/#NegaStro_1)
-    * [3.1.3 条件笔画](https://plato.stanford.edu/entries/frege-logic/#CondStro_1)
+    * [3.1.1 判断符号](https://plato.stanford.edu/entries/frege-logic/#JudgStro\_1)
+    * [3.1.2 否定符号](https://plato.stanford.edu/entries/frege-logic/#NegaStro\_1)
+    * [3.1.3 条件笔画](https://plato.stanford.edu/entries/frege-logic/#CondStro\_1)
     * [3.1.4 判断笔画的等价性](https://plato.stanford.edu/entries/frege-logic/#EquiForJudgStro)
     * [3.1.5 等号](https://plato.stanford.edu/entries/frege-logic/#EquaSign)
     * [3.1.6 通用量化的两种形式](https://plato.stanford.edu/entries/frege-logic/#TwoFormUnivQuan)
   * [3.2 Grundgesetze 的新运算符](https://plato.stanford.edu/entries/frege-logic/#NewOperGrun)
-
     * [3.2.1 一种通用性设备：罗马字母](https://plato.stanford.edu/entries/frege-logic/#DeviForGeneRomaLett)
     * [3.2.2 值范围运算符](https://plato.stanford.edu/entries/frege-logic/#ValuRangOper)
     * [3.2.3 确定描述的反斜杠运算符](https://plato.stanford.edu/entries/frege-logic/#BackOperForDefiDesc)
   * [3.3 Grundgesetze 的公理](https://plato.stanford.edu/entries/frege-logic/#AxioGrun)
-
     * [3.3.1 基本法 I](https://plato.stanford.edu/entries/frege-logic/#BasiLawI)
     * [3.3.2 基本法 II](https://plato.stanford.edu/entries/frege-logic/#BasiLawII)
     * [3.3.3 基本法 III](https://plato.stanford.edu/entries/frege-logic/#BasiLawIII)
@@ -45,28 +37,25 @@
     * [3.3.5 基本法第五条](https://plato.stanford.edu/entries/frege-logic/#BasiLawV)
     * [3.3.6 基本法第六条](https://plato.stanford.edu/entries/frege-logic/#BasiLawVI)
   * [3.4 Grundgesetze 的推理规则](https://plato.stanford.edu/entries/frege-logic/#RuleInfeGrun)
-
     * [3.4.1 广义摩德斯·波奈斯](https://plato.stanford.edu/entries/frege-logic/#GeneModuPone)
     * [3.4.2 广义假设三段论](https://plato.stanford.edu/entries/frege-logic/#GeneHypoSyll)
     * [3.4.3 广义反言](https://plato.stanford.edu/entries/frege-logic/#GeneCont)
     * [3.4.4 广义二难推理](https://plato.stanford.edu/entries/frege-logic/#GeneDile)
     * [3.4.5 凹性引入](https://plato.stanford.edu/entries/frege-logic/#ConcIntr)
     * [3.4.6 罗马字母消除](https://plato.stanford.edu/entries/frege-logic/#RomaLettElim)
-* [ 参考文献](https://plato.stanford.edu/entries/frege-logic/#Bib)
-
-  * [ 弗雷格的著作](https://plato.stanford.edu/entries/frege-logic/#FregWrit)
-  * [ 翻译](https://plato.stanford.edu/entries/frege-logic/#Tran)
-  * [ 二手文献](https://plato.stanford.edu/entries/frege-logic/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/frege-logic/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/frege-logic/#Bib)
+  * [弗雷格的著作](https://plato.stanford.edu/entries/frege-logic/#FregWrit)
+  * [翻译](https://plato.stanford.edu/entries/frege-logic/#Tran)
+  * [二手文献](https://plato.stanford.edu/entries/frege-logic/#SecoLite)
+* [学术工具](https://plato.stanford.edu/entries/frege-logic/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/frege-logic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/frege-logic/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/frege-logic/#Rel)
 * 补充：
-
   * [概念符号中的假设矛盾](https://plato.stanford.edu/entries/frege-logic/supp-begriff.html)
   * [概念符号与《Grundgesetze》之间的时期](https://plato.stanford.edu/entries/frege-logic/supp-between.html)
   * [悖论之后的弗雷格逻辑](https://plato.stanford.edu/entries/frege-logic/supp-after.html)
 
----
+***
 
 ## 1. 介绍
 
@@ -86,7 +75,7 @@
 
 ## 2. 《概念符号》的逻辑
 
-《概念符号学》的逻辑在弗雷格写作《函数与概念》（1891）、《意义与指称》（1892a）和《概念与对象》（1892b）之前就已经形成。这些论文中的每一篇都旨在解决弗雷格在《概念符号学》中提出的原始逻辑中的特定问题：“函数与概念”阐明了概念和关系作为数学函数的地位（并包含了逻辑的许多其他变化的首次出现，包括弗雷格的意义/指称区分的首次发表提及），《意义与指称》为弗雷格提供了处理恰当的同一性问题的工具，而《概念与对象》则解决了弗雷格在“函数与概念”中首次明确引入的高阶逻辑中涉及的类型区分所引发的难题（尽管在《基础》[1884]中也隐含地假定了严格的概念/对象区分，并起到了很大的作用）。这些作品中的每一篇都导致了从《概念符号学》到《基本法则》之间弗雷格的逻辑在形式细节和哲学解释方面的重大变化，我们将在下面讨论其中的一些差异。然而，就理解《概念符号学》逻辑的基本机制而言，这三篇论文中最关键的是《意义与指称》。
+《概念符号学》的逻辑在弗雷格写作《函数与概念》（1891）、《意义与指称》（1892a）和《概念与对象》（1892b）之前就已经形成。这些论文中的每一篇都旨在解决弗雷格在《概念符号学》中提出的原始逻辑中的特定问题：“函数与概念”阐明了概念和关系作为数学函数的地位（并包含了逻辑的许多其他变化的首次出现，包括弗雷格的意义/指称区分的首次发表提及），《意义与指称》为弗雷格提供了处理恰当的同一性问题的工具，而《概念与对象》则解决了弗雷格在“函数与概念”中首次明确引入的高阶逻辑中涉及的类型区分所引发的难题（尽管在《基础》\[1884]中也隐含地假定了严格的概念/对象区分，并起到了很大的作用）。这些作品中的每一篇都导致了从《概念符号学》到《基本法则》之间弗雷格的逻辑在形式细节和哲学解释方面的重大变化，我们将在下面讨论其中的一些差异。然而，就理解《概念符号学》逻辑的基本机制而言，这三篇论文中最关键的是《意义与指称》。
 
 在写作《概念符号学》时，弗雷格并没有明确区分意义和指称。因此，他使用了概念内容的概念，这在某种意义上承担了后来他在《意义与指称》之后的著作中分配给意义和指称的工作。
 
@@ -136,31 +125,31 @@
 
 > 判断总是通过符号来表达
 >
-> ![judgement symbol, a vertical line with a horizontal line going from the center of it to the right](https://plato.stanford.edu/entries/frege-logic/judgement.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/judgement.svg" alt="judgement symbol, a vertical line with a horizontal line going from the center of it to the right" data-size="original">
 >
 > 这个符号位于表示判断内容的符号或符号复合物的左侧。如果省略了水平线的左端的小竖线 |，那么判断将被转化为作者并未陈述其真实性的一组想法。例如，让
 >
-> ![judgement A](https://plato.stanford.edu/entries/frege-logic/judgementA.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/judgementA.svg" alt="judgement A" data-size="original">
 >
 > 表示判断“相反的磁极会互相吸引”，那么
 >
-> ![circumstance A](https://plato.stanford.edu/entries/frege-logic/circumstanceA.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/circumstanceA.svg" alt="circumstance A" data-size="original">
 >
 > 不会表达这个判断，而只是应该在读者心中唤起相互吸引的相反磁极的概念，以便从中得出结论，并通过这些结论来测试思想的正确性。在这里，我们使用词语“这个情况”或“这个命题”进行解释。 （1879a：§2）
 
 在《概念符号》中，弗雷格明确指出，并非每个概念内容都是可判断的内容，因此，并非每个表达式（尤其不是每个对象的名称）都有资格成为判断符号的论据：
 
-> 并非每个内容都可以通过在其符号之前加上  来成为判断；例如，“房子”的概念就不能。因此，我们区分可判断和不可判断的内容。（1879a：§2）
+> 并非每个内容都可以通过在其符号之前加上 来成为判断；例如，“房子”的概念就不能。因此，我们区分可判断和不可判断的内容。（1879a：§2）
 
 他总结了他对主谓分析命题的拒绝，而更倾向于他的功能-论元方法的讨论，如上所述，以下是关于判断符号作用的观察：
 
-> 想象一种语言，其中命题“阿基米德在攻占锡拉库萨时被杀”以以下方式表达：“阿基米德在攻占锡拉库萨时的暴力死亡是一个事实”。即使在这种情况下，如果有人愿意，主语和谓语可以被区分开来，但主语包含了整个内容，而谓语仅仅是为了将其呈现为一个判断。这样的语言对于所有判断只有一个谓语，即“是一个事实”。可以看出，在这里并没有通常意义上的主语和谓语的问题。我们的 Begriffsschrift 就是这样一种语言，符号  是其所有判断的通用谓语。（1879a: §3）
+> 想象一种语言，其中命题“阿基米德在攻占锡拉库萨时被杀”以以下方式表达：“阿基米德在攻占锡拉库萨时的暴力死亡是一个事实”。即使在这种情况下，如果有人愿意，主语和谓语可以被区分开来，但主语包含了整个内容，而谓语仅仅是为了将其呈现为一个判断。这样的语言对于所有判断只有一个谓语，即“是一个事实”。可以看出，在这里并没有通常意义上的主语和谓语的问题。我们的 Begriffsschrift 就是这样一种语言，符号 是其所有判断的通用谓语。（1879a: §3）
 
-弗雷格在 Begriffsschrift 中引入判断符号后不久，便声称它由两部分组成，水平符号“  ”和垂直符号“|”，后者是判断符号本身，并且他暗示水平符号将随后的可判断内容的组成部分合而为一：
+弗雷格在 Begriffsschrift 中引入判断符号后不久，便声称它由两部分组成，水平符号“ ”和垂直符号“|”，后者是判断符号本身，并且他暗示水平符号将随后的可判断内容的组成部分合而为一：
 
-> 水平笔画形成了符号  ，将其后的符号组合成一个整体，而通过水平笔画左端的垂直笔画来表达这个整体的断言。水平笔画可以称为内容笔画，垂直笔画可以称为判断笔画。内容笔画通常用于将任何符号与跟随笔画的整体相关联。跟随内容笔画的内容必须始终具有可判断的内容。（1879a: §2）
+> 水平笔画形成了符号 ，将其后的符号组合成一个整体，而通过水平笔画左端的垂直笔画来表达这个整体的断言。水平笔画可以称为内容笔画，垂直笔画可以称为判断笔画。内容笔画通常用于将任何符号与跟随笔画的整体相关联。跟随内容笔画的内容必须始终具有可判断的内容。（1879a: §2）
 
-注意判断笔画的参数受限于可判断的内容（宽泛地说，即句子，在非正式的意义上），因此在 Begriffsschrift 的逻辑中，“  2”不是一个错误，而只是不符合规范。我们将在下面理解弗雷格两种逻辑之间的差异时再回到这个观察的重要性。但是在 Begriffsschrift 的逻辑中，水平笔画实际上几乎没有实际作用：它从不单独出现。
+注意判断笔画的参数受限于可判断的内容（宽泛地说，即句子，在非正式的意义上），因此在 Begriffsschrift 的逻辑中，“ 2”不是一个错误，而只是不符合规范。我们将在下面理解弗雷格两种逻辑之间的差异时再回到这个观察的重要性。但是在 Begriffsschrift 的逻辑中，水平笔画实际上几乎没有实际作用：它从不单独出现。
 
 #### 2.1.2 条件笔画
 
@@ -173,11 +162,11 @@
 > 3. A 被否定，而 B 被确认；
 > 4. A 被否定，而 B 被否定。
 >
-> ![judgement conditional term B term A](https://plato.stanford.edu/entries/frege-logic/sec2-1-A.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec2-1-A.svg" alt="judgement conditional term B term A" data-size="original">
 >
 > 现在表示这三种可能性中的第三种不成立，但其他三种中的一种成立。因此，如果
 >
-> ![conditional term B term A](https://plato.stanford.edu/entries/frege-logic/sec2-1-B.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec2-1-B.svg" alt="conditional term B term A" data-size="original">
 >
 > 被否定，那么这就意味着第三种可能性成立；也就是说，否定了 A 并且肯定了 B。（1879a：§5）
 
@@ -199,7 +188,7 @@
 
 > 如果在内容符号的底部附加一个小的竖直符号，那么这意味着表达的情况并不成立。因此，例如，
 >
-> ![judgement not A](https://plato.stanford.edu/entries/frege-logic/sec2-1-D.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec2-1-D.svg" alt="judgement not A" data-size="original">
 >
 > 意味着“A 不获得”。我称这个小竖线为否定线。否定线右侧的水平线段是 A 的内容线段，而否定线左侧的部分则是 A 的否定的内容线段。（1879a: §7）
 
@@ -207,17 +196,17 @@
 
 ![conditional not term B term A](https://plato.stanford.edu/entries/frege-logic/sec2-1-E1.svg)
 
- 包含式析取
+包含式析取
 
 ![not conditional term conditional not term B term A not term conditional term B not term A](https://plato.stanford.edu/entries/frege-logic/sec2-1-E2.svg)
 
- 互斥的异或
+互斥的异或
 
 ![not conditional term B not term A](https://plato.stanford.edu/entries/frege-logic/sec2-1-E3.svg)
 
- 同时
+同时
 
- 分别。
+分别。
 
 #### 2.1.4 身份运算符
 
@@ -225,7 +214,7 @@
 
 因此，弗雷格被迫否认“a”和“b”在身份声明的上下文中具有相同的概念内容。因此，它们的概念内容不能是它们的指称。弗雷格得出结论，身份陈述中名称的概念内容就是名称本身，定义如下（值得注意的是，他在这里使用“≡”，但在解决这些问题后，他转而使用了更为标准的符号“=”在《Grundgesetze》中）：
 
-> ![judgement A equiv B](https://plato.stanford.edu/entries/frege-logic/sec2-1-F.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec2-1-F.svg" alt="judgement A equiv B" data-size="original">
 >
 > 因此，它的意思是：符号 A 和符号 B 具有相同的概念内容，因此 A 可以始终被 B 替代，反之亦然。（1879a：§7）
 
@@ -259,9 +248,9 @@
 
 最后，我们有弗雷格在《概念符号》中用于表达普遍性的工具：凹度。
 
-> 在判断的表达中，  右侧的符号复合总是可以视为其中一个符号的函数。如果在参数的位置放置一个哥特字母，并在内容笔画中插入包含该字母的凹陷，如
+> 在判断的表达中， 右侧的符号复合总是可以视为其中一个符号的函数。如果在参数的位置放置一个哥特字母，并在内容笔画中插入包含该字母的凹陷，如
 >
-> ![judgement all gothic a term higothic a](https://plato.stanford.edu/entries/frege-logic/sec2-1-H.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec2-1-H.svg" alt="judgement all gothic a term higothic a" data-size="original">
 >
 > 那么这表示函数是一个事实，无论其参数取何值。由于用作函数符号的字母，如Φ在Φ(A)中，可以视为函数的参数，因此可以用哥特字母以刚才指定的方式替换它。哥特字母的含义仅受明显限制，即在内容笔画后面的符号复合仍然必须是可判断的（§2），并且如果哥特字母作为函数符号出现，必须考虑这一情况。替换哥特字母可能的所有其他条件都应包括在判断中。（1879a: §11）
 
@@ -269,7 +258,7 @@
 
 ![all gothic a term higothic a](https://plato.stanford.edu/entries/frege-logic/sec2-1-I.svg)
 
-如果且仅如果，对于任意的参数，将由Φ(ξ)表示的函数应用于该参数是真的（或者又是一个事实），那么"是真的"（或者又是一个事实）。请注意，Frege 明确限制了 Begriffsschrift 逻辑中公式的形成，以便凹度只能绑定一个函数，当填入适当的参数时，该函数输出一个可判断的内容。因此，在 Begriffsschrift 逻辑中，“  a+1”是不良形式的。
+如果且仅如果，对于任意的参数，将由Φ(ξ)表示的函数应用于该参数是真的（或者又是一个事实），那么"是真的"（或者又是一个事实）。请注意，Frege 明确限制了 Begriffsschrift 逻辑中公式的形成，以便凹度只能绑定一个函数，当填入适当的参数时，该函数输出一个可判断的内容。因此，在 Begriffsschrift 逻辑中，“ a+1”是不良形式的。
 
 现在我们可以对 Frege 的 Begriffsschrift 中函数和参数之间的区别的解释增加一些细节，以及在 Grundgesetze 逻辑中将出现的更现代化的对象层次结构，一级函数、二级函数和三级函数。正确理解：
 
@@ -291,11 +280,11 @@
 
 > 只有在其范围内，哥特字母才保留其含义；同一哥特字母可以在一个判断中的不同范围内出现，而在一个范围内赋予其的含义并不会延伸到其他范围。哥特字母的范围可以包括另一个范围，就像下面的例子所示。在这种情况下，必须选择不同的字母；e 不能被替换为 a。当然，可以在其范围内用另一个特定的哥特字母替换一个哥特字母，只要在不同的位置仍然有不同的字母。这对内容没有影响。其他替换只有在凹度紧跟在判断笔画之后时才允许，以便整个判断的内容构成哥特字母的范围。因此，由于这种情况特别重要，我将为其引入以下缩写。斜体字母的范围总是整个判断的内容，而不需要在内容笔画中用凹度表示出来。（1879a: §11）
 >
-> ![judgement all gothic a conditional all gothic e term Bgothic a, gothic e term Agothic a](https://plato.stanford.edu/entries/frege-logic/sec2-1-K.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec2-1-K.svg" alt="judgement all gothic a conditional all gothic e term Bgothic a, gothic e term Agothic a" data-size="original">
 >
 > 弗雷格在这里非常明确：在概念书写的逻辑公式中出现的罗马（或斜体）字母只不过是相应的用罗马变量替换哥特变量，并且将与这些变量对应的凹度立即放在判断笔画之后的公式的缩写。因此，上述引文中出现的公式在概念书写的逻辑中只是以下公式的缩写：
 
-Frege is quite explicit here: The occurrence of Roman (or italic) letters in a formula of the logic of *Begriffsschrift* is nothing more than an abbreviation of the corresponding formula with the Roman variables replaced by corresponding Gothic variables, and the concavities corresponding to those variables placed immediately after the judgement stroke. Thus, the formula appearing in the quotation above is, in the logic of *Begriffsschrift*, merely an abbreviation for:
+Frege is quite explicit here: The occurrence of Roman (or italic) letters in a formula of the logic of _Begriffsschrift_ is nothing more than an abbreviation of the corresponding formula with the Roman variables replaced by corresponding Gothic variables, and the concavities corresponding to those variables placed immediately after the judgement stroke. Thus, the formula appearing in the quotation above is, in the logic of _Begriffsschrift_, merely an abbreviation for:
 
 ![judgement all gothic F all gothic G all gothic a conditional all gothic b term gothic F gothic a, gothic e term gothic G gothic a](https://plato.stanford.edu/entries/frege-logic/sec2-1-L.svg)
 
@@ -323,7 +312,7 @@ A→(B→A)
 
 其中量词范围涵盖可判断内容。弗雷格如下辩护这一公理：
 
-> [这一公理]… 表明：“否定 a，肯定 b，再肯定 a 的情况被排除”。这是显而易见的，因为 a 不能同时被否定和肯定。我们也可以用文字表达这个判断：“如果命题 a 成立，那么在任意命题 b 成立的情况下它也成立”。（1879a: §14）
+> \[这一公理]… 表明：“否定 a，肯定 b，再肯定 a 的情况被排除”。这是显而易见的，因为 a 不能同时被否定和肯定。我们也可以用文字表达这个判断：“如果命题 a 成立，那么在任意命题 b 成立的情况下它也成立”。（1879a: §14）
 
 公理 2（公式 2）同样很简单，只要我们记住它是一个对可判断内容进行量化的公式的缩写：
 
@@ -369,11 +358,11 @@ A→(B→A)
 
 > 后来我意识到公式（31）和（41）可以合并成一个单一的公式
 >
-> ![judgement not not a equiv a](https://plato.stanford.edu/entries/frege-logic/sec-2-2A.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-2-2A.svg" alt="judgement not not a equiv a" data-size="original">
 >
 > 这样可以进行更多的简化。（1879a：前言）
 
-这个原则与公理 7 和弗雷格的摩德斯·波嫩斯版本结合起来，确实蕴含了公理 5 和 6。此外，有充分理由认为这个原则在弗雷格在《概念书》中提出的非正式语义上是有效的，因为（在《概念书》中）变量被限制为可判断的内容，似乎没有理由怀疑由  a 表示的可判断内容与由 a 表示的可判断内容是相同的。
+这个原则与公理 7 和弗雷格的摩德斯·波嫩斯版本结合起来，确实蕴含了公理 5 和 6。此外，有充分理由认为这个原则在弗雷格在《概念书》中提出的非正式语义上是有效的，因为（在《概念书》中）变量被限制为可判断的内容，似乎没有理由怀疑由 a 表示的可判断内容与由 a 表示的可判断内容是相同的。
 
 然而，所有这些都受到一个重要的限制：《概念书》逻辑中的量词受到了限制，而《格伦德格塞茨》中的量词没有受到这种限制。在《概念书》的逻辑中，弗雷格要求量词受到限制，以便将逻辑运算符应用于相关量词范围内的实体的结果得到可判断的内容。因此，在《概念书》对逻辑的理解上有效的公式在《格伦德格塞茨》的理解上不再有效。特别是，正如我们将看到的：
 
@@ -407,7 +396,7 @@ A→(B→A)
 
 > 对于任何函数 f 和任何使得 f(c) 是可判断内容的参数 c：如果对于任何使得 f(a) 是可判断内容的参数 a，f(a) 是一个事实，那么 f(c) 也是一个事实。
 
- 而不是：
+而不是：
 
 > 对于任何（一级）函数 f 和任何对象 c：如果对于任何对象 a，f(a) 是一个事实，那么 f(c) 也是一个事实。
 
@@ -421,17 +410,17 @@ A→(B→A)
 
 > 从第 5 节中给出的解释可以清楚地看出，从这两个判断中
 >
-> ![judgement conditional term B term A](https://plato.stanford.edu/entries/frege-logic/sec-2-2Ca.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-2-2Ca.svg" alt="judgement conditional term B term A" data-size="original">
 >
 > 和
 >
-> ![judgement term B](https://plato.stanford.edu/entries/frege-logic/sec-2-2Cb.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-2-2Cb.svg" alt="judgement term B" data-size="original">
 >
-> 新的判断  A 如下。在我们上面列举的四种情况中，第三种情况被排除在外
+> 新的判断 A 如下。在我们上面列举的四种情况中，第三种情况被排除在外
 >
-> ![judgement conditional term B term A](https://plato.stanford.edu/entries/frege-logic/sec-2-2D.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-2-2D.svg" alt="judgement conditional term B term A" data-size="original">
 >
-> 第二种和第四种情况被  B 排除，因此只剩下第一种情况。（1879a: §6）
+> 第二种和第四种情况被 B 排除，因此只剩下第一种情况。（1879a: §6）
 
 弗雷格所指的四种情况是指在上面引用的条件符号的解释中给出的 A 和 B 是事实或不是事实的四种可能组合。
 
@@ -439,17 +428,17 @@ A→(B→A)
 
 ![judgement all gothic a all gothic e conditional term gothic a term gothic e](https://plato.stanford.edu/entries/frege-logic/sec-2-2Ea.svg)
 
- 和
+和
 
 ![judgement all gothic a term gothic a](https://plato.stanford.edu/entries/frege-logic/sec-2-2Eb.svg)
 
- 到：
+到：
 
 ![judgement all gothic e term gothic e](https://plato.stanford.edu/entries/frege-logic/sec-2-2F.svg)
 
 量词范围涵盖可判断内容的地方。因此，正如他在整个《概念书》中所应用的那样，这条规则根本不是命题规则摩德斯·波能斯。相反，它类似于以下内容（用现代符号表示）：
 
-∀a1∀a2…∀an∀b1∀b2…∀bm∀c1∀c2…∀ck(Φ1(a1,a2,…an,b1,b2,…bm)→Φ2(a1,a2,…an,c1,c2,…ck))[P2] ∀a1∀a2…∀an∀b1∀b2…∀bm(Φ1(a1,a2,…an,b1,b2,…bm))[C] ∀a1∀a2…∀an∀c1∀c2…∀ck(Φ2(a1,a2,…an,c1,c2,…ck))
+∀a1∀a2…∀an∀b1∀b2…∀bm∀c1∀c2…∀ck(Φ1(a1,a2,…an,b1,b2,…bm)→Φ2(a1,a2,…an,c1,c2,…ck))\[P2] ∀a1∀a2…∀an∀b1∀b2…∀bm(Φ1(a1,a2,…an,b1,b2,…bm))\[C] ∀a1∀a2…∀an∀c1∀c2…∀ck(Φ2(a1,a2,…an,c1,c2,…ck))
 
 以这种方式理解这条规则，有两件事情值得注意。
 
@@ -467,17 +456,17 @@ A→(B→A)
 
 > 斜体字母总是可以用哥特字母来替换，只要这个哥特字母还没有出现在判断式中，凹槽应立即插入判断笔画之后。例如，可以用以下形式代替：
 >
-> ![judgement Xa](https://plato.stanford.edu/entries/frege-logic/sec-2-2Ga.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-2-2Ga.svg" alt="judgement Xa" data-size="original">
 >
 > 人们可以放置：
 >
-> ![judgement all gothic a term Xgothic a](https://plato.stanford.edu/entries/frege-logic/sec-2-2Gb.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-2-2Gb.svg" alt="judgement all gothic a term Xgothic a" data-size="original">
 
 如果 a 只出现在 X(a)的参数位置中：很明显也可以从中清楚地看出：
 
 ![judgement conditional term A term hia](https://plato.stanford.edu/entries/frege-logic/sec-2-2Gc.svg)
 
-* 人们可以得出：*
+* 人们可以得出：\*
 
 ![judgement conditional term A all gothic a term higothic a](https://plato.stanford.edu/entries/frege-logic/sec-2-2Gd.svg)
 
@@ -487,11 +476,11 @@ A→(B→A)
 
 > 同样，从：
 >
-> ![judgement conditional term B term conditional term A term hia](https://plato.stanford.edu/entries/frege-logic/sec-2-2Ha.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-2-2Ha.svg" alt="judgement conditional term B term conditional term A term hia" data-size="original">
 >
 > 我们可以推断：
 >
-> ![judgement conditional term B term conditional term A all gothic a term higothic a](https://plato.stanford.edu/entries/frege-logic/sec-2-2Hb.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-2-2Hb.svg" alt="judgement conditional term B term conditional term A all gothic a term higothic a" data-size="original">
 >
 > （1879a: §11）
 
@@ -507,7 +496,7 @@ A→(B→A)
 
 ![judgement all gothic a conditional term A term conditional term B term conditional term higothic a term sigothic a](https://plato.stanford.edu/entries/frege-logic/sec-2-2Ib3.svg)
 
- 但不能推断出：
+但不能推断出：
 
 ![judgement conditional term A term conditional term B term conditional term higothic a all gothic a term sigothic a](https://plato.stanford.edu/entries/frege-logic/sec-2-2Ic.svg)
 
@@ -517,13 +506,13 @@ Frege 在 Begriffsschrift 中的最后推理规则是替换规则：一旦证明
 
 Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先的定义，并根据这些概念证明了一个强大的归纳定理。对这一构造的仔细研究超出了本文的范围，鼓励读者查阅有关 Frege 定理的条目以获取更多细节。
 
-对于我们来说，Begriffsschrift 第三部分最重要的方面至少是弗雷格引入的新符号：定义符号“  ”。定义符号最初出现在以下形式的公式中：
+对于我们来说，Begriffsschrift 第三部分最重要的方面至少是弗雷格引入的新符号：定义符号“ ”。定义符号最初出现在以下形式的公式中：
 
 ![definition term hi equiv si](https://plato.stanford.edu/entries/frege-logic/sec-2-2J.svg)
 
 其中“Ψ”是被定义的部分，“Φ”是定义部分。在展示定义符号如何运作的例子之后（第 69 公式，f-序列中 F 的遗传性概念），弗雷格在 Begriffsschrift 中解释了定义符号如下：
 
-> 这个句子与之前考虑过的句子不同，因为其中出现了以前未被定义的符号；它本身就是给出的定义。它并不是说，“等式的右边与左边具有相同的内容”；而是，“它们应该具有相同的内容”。因此，这个句子不是一个判断；因此，使用康德的表达方式，也不是一个综合判断。[...]
+> 这个句子与之前考虑过的句子不同，因为其中出现了以前未被定义的符号；它本身就是给出的定义。它并不是说，“等式的右边与左边具有相同的内容”；而是，“它们应该具有相同的内容”。因此，这个句子不是一个判断；因此，使用康德的表达方式，也不是一个综合判断。\[...]
 >
 > 虽然最初（69）不是一个判断，但它很容易转化为一个；因为一旦新符号的含义被指定，它就从那时起保持不变；因此，公式（69）也作为一个判断成立，但作为一个分析性的判断，因为我们只能得到新符号中所输入的内容。这个公式的双重作用通过判断符号的加倍来表示。（1879a: §24）
 
@@ -547,9 +536,9 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 与《概念书》中的情况一样，《格言法则》的判断符号将表达式转化为判断。然而，与早期系统不同，在《格言法则》的逻辑中，判断符号并不附加于命名事实或情况的表达式，而是附加于命名对象（即专有名词）的表达式：
 
-> 上文已经说明，在单纯的等式中并没有包含任何断言；对于“2+3=5”，只是指定了一个真值，而没有说明是其中的哪一个。此外，如果我写下“(2+3=5)=(2=2)”并假设人们知道 2=2 是真的，即使这样，我也并没有断言 2 和 3 的和是 5；相反，我只是指定了这样一个真值：即“2+3=5”指的是与“2=2”相同的东西。因此，我们需要另一个特殊符号来断言某事为真。为此，我让符号  在真值的名称之前，例如在以下情况下：
+> 上文已经说明，在单纯的等式中并没有包含任何断言；对于“2+3=5”，只是指定了一个真值，而没有说明是其中的哪一个。此外，如果我写下“(2+3=5)=(2=2)”并假设人们知道 2=2 是真的，即使这样，我也并没有断言 2 和 3 的和是 5；相反，我只是指定了这样一个真值：即“2+3=5”指的是与“2=2”相同的东西。因此，我们需要另一个特殊符号来断言某事为真。为此，我让符号 在真值的名称之前，例如在以下情况下：
 >
-> ![judgement 2^2 = 4](https://plato.stanford.edu/entries/frege-logic/sec-3-1-A.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-A.svg" alt="judgement 2^2 = 4" data-size="original">
 >
 > 据称 2 的平方是 4。我以这样的方式区分判断和思想，即我认为判断是对思想真实性的确认。（弗雷格 1893/1903: §5）
 
@@ -565,11 +554,11 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 > 我将其视为一个函数名称，满足以下条件：
 >
-> ![circumstance elta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ca.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ca.svg" alt="circumstance elta" data-size="original">
 >
 > 当Δ为真时，为真，当Δ不为真时，为假。因此，
 >
-> ![circumstance i](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Cb.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Cb.svg" alt="circumstance i" data-size="original">
 >
 > 是一个其值始终为真值的函数，或者根据我们的约定是一个概念。（1893/1903: §5）
 
@@ -577,11 +566,11 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 ![circumstance elta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ca.svg)
 
-与“Δ”命名相同的真值。然而，如果“Δ”不命名一个真值，那么“  Δ”就表示 False。
+与“Δ”命名相同的真值。然而，如果“Δ”不命名一个真值，那么“ Δ”就表示 False。
 
 这里特别重要的是，在 Grundgesetze 的逻辑中，横线并不仅限于可判断的内容：横线可以有意义地应用于任何名称。由于 Frege 坚持要求所有函数在适当类型的所有参数上都有定义，因此横线表示的函数必须对所有对象都有定义。因此，当应用于不是真值的对象时，它输出 False。
 
-因此，尽管 Frege 要求在引用上述判断线的解释时，判断线必须附加到一个真值名称上，但在 Grundgesetze 的逻辑中，我们可以通过将判断线附加到“  Δ”来实现将判断线附加到任何名称Δ的效果，得到：
+因此，尽管 Frege 要求在引用上述判断线的解释时，判断线必须附加到一个真值名称上，但在 Grundgesetze 的逻辑中，我们可以通过将判断线附加到“ Δ”来实现将判断线附加到任何名称Δ的效果，得到：
 
 ![judgement circumstance elta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Da.svg)
 
@@ -589,7 +578,7 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 ![judgement elta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Db.svg)
 
-或者，如果后者构成良好形式的话。因此，“  2”（或者至少，“  （  2)”在 Grundgesetze 逻辑中是一个良好形式的判断，尽管是错误的。
+或者，如果后者构成良好形式的话。因此，“ 2”（或者至少，“ （ 2)”在 Grundgesetze 逻辑中是一个良好形式的判断，尽管是错误的。
 
 #### 3.1.2 否定笔画
 
@@ -599,21 +588,21 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 >
 > 函数的值
 >
-> ![not i](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ea.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ea.svg" alt="not i" data-size="original">
 >
 > 对于函数值为假的每个参数，它是假的，对于所有其他参数，它是真的。
 >
-> ![circumstance i](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Eb.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Eb.svg" alt="circumstance i" data-size="original">
 >
 > 是真的，对于所有其他参数，它是真的。（1893/1903: §6）
 
-因此，如果否定符号前缀于一个真值“Δ”的名称，则“  Δ”如果“Δ”表示假，则命名为真，并且如果“Δ”表示真，则命名为假。然而，如果“Δ”不表示一个真值，那么“  Δ”命名为真。
+因此，如果否定符号前缀于一个真值“Δ”的名称，则“ Δ”如果“Δ”表示假，则命名为真，并且如果“Δ”表示真，则命名为假。然而，如果“Δ”不表示一个真值，那么“ Δ”命名为真。
 
-弗雷格将否定符号视为一个全函数的处理方式具有奇怪的后果。例如，如果“Δ”是除了真值以外的任何对象的名称，那么“  Δ”就表示真，因此我们有：
+弗雷格将否定符号视为一个全函数的处理方式具有奇怪的后果。例如，如果“Δ”是除了真值以外的任何对象的名称，那么“ Δ”就表示真，因此我们有：
 
 ![judgement not elta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ed.svg)
 
-弗雷格明确指出“  2”是一个正确的判断（1893/1903: §6）。
+弗雷格明确指出“ 2”是一个正确的判断（1893/1903: §6）。
 
 #### 3.1.3 条件符号
 
@@ -621,7 +610,7 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 > 接下来，为了能够指定概念的从属关系和其他重要关系，我引入了具有两个参数的函数：
 >
-> ![conditional term eta term i](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Fa.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Fa.svg" alt="conditional term eta term i" data-size="original">
 >
 > 通过规定，如果将 True 作为ζ参数，那么其值应为 False，而如果将不是 True 的任何对象作为ξ参数，则在所有其他情况下，函数的值应为 True。（1893/1903: §12）
 
@@ -663,7 +652,7 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 Frege 引入了一条推理规则（可以在推导中无需注释地应用），允许对子组件进行任意重新排序。这条规则相当于 Begriffsschrift 逻辑中 Axiom 3 的 Grundgesetze 类比。
 
- 沿着类似的思路：
+沿着类似的思路：
 
 ![conditional term elta term conditional term elta term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ia.svg)
 
@@ -679,7 +668,7 @@ Frege 引入了一条推理规则（可以在推导中无需注释地应用）�
 
 1. ![not](https://plato.stanford.edu/entries/frege-logic/inline-not.svg) Δ,
 2. ![not](https://plato.stanford.edu/entries/frege-logic/inline-not.svg) ( ![circumstance](https://plato.stanford.edu/entries/frege-logic/inline-circumstance.svg) Δ),
-3. (  Δ), 和
+3. ( Δ), 和
 4. ![circumstance](https://plato.stanford.edu/entries/frege-logic/inline-circumstance.svg) ( ![not](https://plato.stanford.edu/entries/frege-logic/inline-not.svg) ( ![circumstance](https://plato.stanford.edu/entries/frege-logic/inline-circumstance.svg) Δ))
 
 名称相同的真值（1893/1903 年：§6），对于任何名称“Δ”和“Γ”，都有：
@@ -698,7 +687,7 @@ Frege 引入了一条推理规则（可以在推导中无需注释地应用）�
 
 ![conditional term elta term circumstance amma](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Kd.svg)
 
- (d)Translation:
+(d)Translation:
 
 ![conditional term circumstance elta  term circumstance amma](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ke.svg)
 
@@ -718,7 +707,7 @@ Frege 引入了一条推理规则（可以在推导中无需注释地应用）�
 
 名称相同的真值（1893/1903: §12）。弗雷格称之为等价性，并且由于用另一个等效的表达式替换上述表达式而产生的转换，称为水平线的融合。与子组件的排列和相同子组件的融合一样，弗雷格允许在《基本法则》的推导中融合（和“解融”）水平线（1893/1903: §48），而不作任何评论。
 
-细心的读者可能会想知道为什么弗雷格选择了他实际选择的特定函数。他难道不能定义否定，使得“  Δ”在“Δ”不是真值名称时表示真吗？我们现在有能力回答这个问题：否定符号和条件符号必须与水平线融合的事实意味着弗雷格提供的否定符号和条件符号的特定定义是唯一可能的，考虑到他如何定义水平线（Berg＆Cook 2017）。
+细心的读者可能会想知道为什么弗雷格选择了他实际选择的特定函数。他难道不能定义否定，使得“ Δ”在“Δ”不是真值名称时表示真吗？我们现在有能力回答这个问题：否定符号和条件符号必须与水平线融合的事实意味着弗雷格提供的否定符号和条件符号的特定定义是唯一可能的，考虑到他如何定义水平线（Berg＆Cook 2017）。
 
 #### 3.1.5 等号
 
@@ -752,7 +741,7 @@ Frege 引入了一条推理规则（可以在推导中无需注释地应用）�
 
 ![judgement not not a equiv a](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Na.svg)
 
-对于逻辑来说，这个原则将简化表达，因为它暗示了公理 5 和公理 6。我们还注意到，对于 Begriffsschrift 的逻辑来说，这个论断是正确的，因为所讨论的量词仅限于可判断的内容。然而，在 Grundgesetze 的逻辑中情况就不同了，因为在 Grundgesetze 的解释中，这个相同的公式（在纯语法意义上理解“sameness”，取决于将“≡”替换为“=”）是错误的。假设“Δ”是任何不是真值的对象的名称。那么“  Δ”是 True 的名称，因此“  Δ”是 False 的名称，“Δ”和“  Δ”不是同一个对象的名称。因此，“  Δ=Δ”是 False 的名称。
+对于逻辑来说，这个原则将简化表达，因为它暗示了公理 5 和公理 6。我们还注意到，对于 Begriffsschrift 的逻辑来说，这个论断是正确的，因为所讨论的量词仅限于可判断的内容。然而，在 Grundgesetze 的逻辑中情况就不同了，因为在 Grundgesetze 的解释中，这个相同的公式（在纯语法意义上理解“sameness”，取决于将“≡”替换为“=”）是错误的。假设“Δ”是任何不是真值的对象的名称。那么“ Δ”是 True 的名称，因此“ Δ”是 False 的名称，“Δ”和“ Δ”不是同一个对象的名称。因此，“ Δ=Δ”是 False 的名称。
 
 我们可以利用刚刚讨论的真值概念，在 Grundgesetze 的逻辑中构建一个正确的判断，捕捉到 Frege 考虑添加到 Begriffsschrift 中的直观含义：
 
@@ -764,13 +753,13 @@ Frege 引入了一条推理规则（可以在推导中无需注释地应用）�
 
 接下来是量词。在《Grundgesetze》的逻辑中，不像（严格来说）在《Begriffsschrift》的逻辑中，弗雷格动用了两种不同的普遍量化形式。其中第一种是最简单的：凹性。凹性（伴随德语字母）是一个一元的二级概念，将一级函数映射到真值：
 
-> […] 让：
+> \[…] 让：
 >
-> ![all gothic a term higothic a](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ob.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ob.svg" alt="all gothic a term higothic a" data-size="original">
 >
 > 如果函数Φ(ξ)的值对于每个参数都为真，则为真，否则为假。（弗雷格 1893/1903：§8）
 
-弗雷格没有限制“Φ(ξ)”必须是一个概念的名称，因此“  a+1”是格兰德格塞茨逻辑中的一个良好形成的判断，尽管是错误的。实际上，他无法一致地施加任何这样的限制，因为二级函数必须以与一级函数完全相同的方式为所有一级函数定义，就像一级函数必须为所有对象定义一样。
+弗雷格没有限制“Φ(ξ)”必须是一个概念的名称，因此“ a+1”是格兰德格塞茨逻辑中的一个良好形成的判断，尽管是错误的。实际上，他无法一致地施加任何这样的限制，因为二级函数必须以与一级函数完全相同的方式为所有一级函数定义，就像一级函数必须为所有对象定义一样。
 
 在格兰德格塞茨逻辑中，凹度与否定符号和条件符号一样，“融合”于水平线上。换句话说，以下所有内容都表示相同的真值（即等价）：
 
@@ -789,11 +778,11 @@ Frege 通过凹度明确引入了通过凹度进行二阶量化的符号表示�
 
 Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度来看，他从来不需要它：相反，他使用值域运算符来“降低”Grundgesetze 中的各种结构（如下所述），使它们处于他的一级和二级凹量化的范围内。
 
-最后，我们有定义符号。与 Begriffsschrift 一样，Frege 使用定义符号“  ”来指示一个句子是一个定义：
+最后，我们有定义符号。与 Begriffsschrift 一样，Frege 使用定义符号“ ”来指示一个句子是一个定义：
 
 > 为了通过已知的符号来引入新的符号，我们现在需要定义的双划线，它是由一个双判断划线和一个水平线组合而成：
 >
-> ![definition symbol](https://plato.stanford.edu/entries/frege-logic/definition.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/definition.svg" alt="definition symbol" data-size="original">
 >
 > 并且在需要定义而不是判断的情况下，它代替了判断划线。通过定义，我们通过确定一个由已知符号组成的名称具有相同的意义和相同的指称来引入一个新名称。新的符号因此与解释符号具有共同的指称；因此，定义立即变成了一个命题。因此，我们可以像替换判断划线一样引用一个定义，用判断划线代替定义划线。（1893/1903: §27）
 
@@ -803,7 +792,7 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 #### 3.2.1 泛化的工具：罗马字母
 
-##### 3.2.1.1 罗马字母的基础
+**3.2.1.1 罗马字母的基础**
 
 我们开始讨论在 Begriffsschrift 的逻辑中没有出现的新概念，这些概念在 Grundgesetze 中用于表达普遍性的第二种方法：罗马字母普遍性装置。乍一看，这可能令人惊讶，因为罗马字母在 Begriffsschrift 中被用作表达普遍性的装置，如上所讨论的。但在 Begriffsschrift 中，它们（至少在官方上）仅仅是所讨论的公式中最初出现的凹陷的实例的缩写。然而，在 Grundgesetze 的逻辑中，罗马字母是一个全新的、独立的泛化装置。
 
@@ -823,42 +812,39 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 > 现在让我们看看逻辑中称为“巴巴拉”的推理如何适用于这里。从以下两个命题：
 >
->> “所有的 1 的平方根都是 1 的四次方根”
->>
+> > “所有的 1 的平方根都是 1 的四次方根”
 >
 > 并且：
 >
->> “1 的所有四次方根都是 1 的八次方根”
->>
+> > “1 的所有四次方根都是 1 的八次方根”
 >
 > 我们可以推断：
 >
->> “1 的所有平方根都是 1 的八分之一根”
->>
+> > “1 的所有平方根都是 1 的八分之一根”
 >
 > 如果我们现在这样写前提：
 >
-> ![judgement all gothic a conditional term gothic a](https://plato.stanford.edu/entries/frege-logic/sec-3-2-B1a.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B1a.svg" alt="judgement all gothic a conditional term gothic a" data-size="original">
 >
-> ![judgement all gothic a conditional term gothic a](https://plato.stanford.edu/entries/frege-logic/sec-3-2-B1a.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B1a.svg" alt="judgement all gothic a conditional term gothic a" data-size="original">
 >
 > 那么我们无法应用我们的推理方式；然而，如果我们将前提写成以下形式，我们就可以应用
 >
-> ![judgement conditional term x](https://plato.stanford.edu/entries/frege-logic/sec-3-2-B2a.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B2a.svg" alt="judgement conditional term x" data-size="original">
 >
-> ![judgement conditional term x](https://plato.stanford.edu/entries/frege-logic/sec-3-2-B2b.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B2b.svg" alt="judgement conditional term x" data-size="original">
 >
 > 这里我们有第 15 段的情况。在上文中，我们尝试用罗马字母来表达一般性，但放弃了，因为我们观察到一般性的范围无法得到充分的界定。现在，我们通过规定罗马字母的范围为包括命题中除了判断符号之外的一切来解决这一问题。因此，一个人永远不能用罗马字母来表达一般性的否定，尽管我们可以表达否定的一般性。因此，现在不再存在歧义。然而，德语字母和凹凸的一般性表达并没有变得多余。我们关于罗马字母范围的规定仅仅是为了界定其最窄的范围，而不是最宽的范围。因此，让范围延伸到多个命题仍然是允许的，这样罗马字母就适合用于推理，而德语字母由于其严格的范围界定无法胜任。因此，当我们的前提是
 >
-> ![judgement conditional x](https://plato.stanford.edu/entries/frege-logic/sec-3-2-C1.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-C1.svg" alt="judgement conditional x" data-size="original">
 >
 > 并且
 >
-> ![judgement conditional x](https://plato.stanford.edu/entries/frege-logic/sec-3-2-C2.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-C2.svg" alt="judgement conditional x" data-size="original">
 >
 > 那么为了得出结论
 >
-> ![judgement conditional x](https://plato.stanford.edu/entries/frege-logic/sec-3-2-C3.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-C3.svg" alt="judgement conditional x" data-size="original">
 >
 > 我们暂时扩展“x”的范围，以包括前提和结论，尽管每个命题即使没有这种扩展也成立。（1893/1903: §17）
 
@@ -868,7 +854,7 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 ![judgement conditional term amma term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-2-D2.svg)
 
- 至：
+至：
 
 ![judgement conditional term elta term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-2-D3.svg)
 
@@ -880,15 +866,15 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 仅仅是缩写形式：
 
-![judgement all gothic a conditional term gothic a ](https://plato.stanford.edu/entries/frege-logic/sec-3-2-D6.svg)
+![judgement all gothic a conditional term gothic a](https://plato.stanford.edu/entries/frege-logic/sec-3-2-D6.svg)
 
-![judgement all gothic a conditional term gothic a ](https://plato.stanford.edu/entries/frege-logic/sec-3-2-D7.svg)
+![judgement all gothic a conditional term gothic a](https://plato.stanford.edu/entries/frege-logic/sec-3-2-D7.svg)
 
 那么严格来说，我们就没有这个规则的前提实例，因此无法得出期望的（也是正确的）结论。因此，我们需要对罗马字母的普遍性设备有一种替代理解。
 
 弗雷格建议，当我们执行假设三段论的相关实例时，我们暂时扩展罗马字母“x”的范围，使其包括前提和结论。因此，罗马字母“x”在所有三个 Grundgesetze 命题中“指示”相同的对象（无论这个对象是什么），我们可以应用假设三段论。
 
-##### 3.2.1.2 高阶量化和罗马字母
+**3.2.1.2 高阶量化和罗马字母**
 
 弗雷格还允许通过罗马字母的普遍性设备来表达二阶和三阶量化。因此，如果“Δ”是一个对象的名称，那么：
 
@@ -900,7 +886,7 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 如果且仅如果对于每个二级函数 F，将 F 应用于“Φ(ξ)”所指代的函数的结果为 True（1893/1903: §25）。虽然弗雷格确实通过罗马普遍性设备提供了对第三阶量化的处理（与他对凹度的处理不同，后者仅限于一阶和二阶），但他没有提供任何关于四阶或更高阶量化的符号表示。
 
-##### 3.2.1.3 罗马字母的工作原理
+**3.2.1.3 罗马字母的工作原理**
 
 我们现在转向第二个问题：罗马字母设备到底是如何工作的？我们如何理解弗雷格关于涉及罗马字母普遍性设备的表达式“指示”而不是“命名”真值的想法，以及我们如何理解这样一个观点，即它们的范围必须包含它们所在的判断的全部内容（除了可能的判断符号），但可以扩展到一次包含多个公式的情况？正确解答这些问题的方法是一个相当有争议的问题。兰迪尼（Landini）认为，弗雷格在暗示变量赋值的概念（Landini 2012），这个概念直到塔斯基（Tarski）（1933）才得到充分发展；而赫克（Heck）则认为，弗雷格打算用辅助名称的替代方式来理解罗马字母（即，“额外”的名称不包括在对象语言级别的词汇中），例如，形式为的表达式：
 
@@ -918,13 +904,11 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 > 我使用这些词语：
 >
->> “函数 Φ(ξ) 的值域与函数 Ψ(ξ) 相同”
->>
+> > “函数 Φ(ξ) 的值域与函数 Ψ(ξ) 相同”
 >
 > 总是与这些词语指代同一事物
 >
->> “函数 Φ(ξ) 和 Ψ(ξ) 对于相同的参数总是具有相同的值”。
->>
+> > “函数 Φ(ξ) 和 Ψ(ξ) 对于相同的参数总是具有相同的值”。
 >
 > (1893/1903: §3)
 
@@ -948,7 +932,7 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 《Grundgesetze》逻辑的最终原始符号是反斜杠。反斜杠是一个一元的一级函数，将对象映射到对象：
 
-> […] 通过引入函数，我们可以帮助自己：
+> \[…] 通过引入函数，我们可以帮助自己：
 >
 > ∖ξ
 >
@@ -984,11 +968,11 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 > 现在我们将为罗马字母制定一些一般规律，以便我们以后会用到。根据第 12 条：
 >
-> ![judgement conditional term amma term conditional term elta term amma](https://plato.stanford.edu/entries/frege-logic/sec-3-3-A1.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-3-A1.svg" alt="judgement conditional term amma term conditional term elta term amma" data-size="original">
 >
 > 只有在Γ和Δ为真而Γ不为真时，才会出现假。这是不可能的；因此：
 >
-> ![judgement conditional term a term conditional term b term a](https://plato.stanford.edu/entries/frege-logic/axiom1.svg)
+> <img src="https://plato.stanford.edu/entries/frege-logic/axiom1.svg" alt="judgement conditional term a term conditional term b term a" data-size="original">
 >
 > （1893/1903：第 18 条）
 
@@ -1010,11 +994,11 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 基本法 IIa (1893/1903: §20)
 
-弗雷格将这个基本定律描述为表达了“所有对象所具有的性质，也同样适用于任意对象”的思想（1893/1903: §20）。基本定律 IIa 与 Grundgesetze 中使用的推广形式的假言三段论（下文讨论）结合起来，提供了一种从使用凹凸性所表述的一般性推断出罗马字母的一般性的方法。给定一个形式为“  Φ(a)”的凹凸性命题，我们可以调用基本定律 IIa 的一个实例：
+弗雷格将这个基本定律描述为表达了“所有对象所具有的性质，也同样适用于任意对象”的思想（1893/1903: §20）。基本定律 IIa 与 Grundgesetze 中使用的推广形式的假言三段论（下文讨论）结合起来，提供了一种从使用凹凸性所表述的一般性推断出罗马字母的一般性的方法。给定一个形式为“ Φ(a)”的凹凸性命题，我们可以调用基本定律 IIa 的一个实例：
 
 ![judgement conditional all gothic a term higothic a term hia](https://plato.stanford.edu/entries/frege-logic/sec-3-3-B3.svg)
 
-并结合这些，使用假言三段论，得出“  Φ(a)”的结论。
+并结合这些，使用假言三段论，得出“ Φ(a)”的结论。
 
 基本定律 II 的二阶版本被称为基本定律 IIb：
 
@@ -1056,7 +1040,7 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 ![judgement a = a](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D6.svg)
 
- 首先证明：
+首先证明：
 
 ![judgement all gothic f conditional term gothic fa term gothic fa](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D7.svg)
 
@@ -1078,7 +1062,7 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 ![judgement conditional not term circumstance 2 = not 3 term circumstance 2 = circumstance 3](https://plato.stanford.edu/entries/frege-logic/sec-3-3-E2.svg)
 
-是真的名称（请记住，“  2”和“  3”都是假的名称，“  3”是真的名称，因此这个基本定律 IV 的实例的超部分和子部分都是真的名称）。
+是真的名称（请记住，“ 2”和“ 3”都是假的名称，“ 3”是真的名称，因此这个基本定律 IV 的实例的超部分和子部分都是真的名称）。
 
 与大多数 Grundgesetze 逻辑的公理和规则（不涉及值范围的）不同，基本法第四条在 Begriffsschrift 逻辑中没有直接的类似物（但请参阅下面关于公理 5 和 6 的讨论），其目的似乎部分是为了在参数不是真值的情况下强制执行水平和否定的预期解释。然而，鉴于基本法第四条中所有罗马字母的出现都以水平线为前缀，这一原则的实际意义与经典类似：对于任意两个真值，如果第一个不等于第二个的否定，则它们本身相等。
 
@@ -1098,7 +1082,7 @@ IVd
 
 弗雷格引入如今臭名昭著的基本定律 V 时，伴随着的庆祝声却相当少，这有些令人惊讶。弗雷格仅仅注意到：
 
-> […] 一个值域的相等性总是可以转化为相等性的一般性，反之亦然。（1893/1903: §20）
+> \[…] 一个值域的相等性总是可以转化为相等性的一般性，反之亦然。（1893/1903: §20）
 
 然后陈述了这条公理：
 
@@ -1134,7 +1118,7 @@ IVd
 
 Dummett 心中所指的规定是在 Grundgesetze 第 10 节的“排列论证”结束时，将真值与其单元素扩展进行等同。然而，基本法则 VI 缺乏第二个实例揭示了一点，那就是弗雷格对 Grundgesetze 逻辑的不完备性（如果它不是不一致的）是非常清楚的，因为他未包含一个在预期解释下显然为真的原则。将他归因于对他的逻辑中实际包含的逻辑原则的明显缺陷的认识（考虑到他提供的关于他逻辑预期解释的非正式语义阐释）与声称他意识到二阶逻辑在原则上的不完备性是完全不同的，当然。
 
-有趣的是，Heck 指出（2012 年：第 2 章），弗雷格后来在 Grundgesetze 中声称一个命题“似乎是不可证明的”（Frege 1893/1903：§114）。弗雷格小心地声称只有这个原则是不可证明的，因此他不会声称它是真的（即，他不会将其写为带有“  ”的判断），但他也不声称它是假的。Heck 认为，弗雷格在这一点上意识到了他的系统（或者至少是与§114 相关的推导的一致子系统）的潜在不完备性。阻止弗雷格证明所讨论的命题的原因，以及允许戴德金德在他自己的算术处理中证明类似原则的原因（Dedekind 1888），是后者在推导中使用了选择公理的非正式版本，而弗雷格在 Grundgesetze 的逻辑中没有包含任何形式的选择公理（Heck 2012 年：第 2 章）。这是一个重要的观察，但为了得出结论，我们并不需要如此复杂的东西，即弗雷格很可能认为他的系统是不完备的。
+有趣的是，Heck 指出（2012 年：第 2 章），弗雷格后来在 Grundgesetze 中声称一个命题“似乎是不可证明的”（Frege 1893/1903：§114）。弗雷格小心地声称只有这个原则是不可证明的，因此他不会声称它是真的（即，他不会将其写为带有“ ”的判断），但他也不声称它是假的。Heck 认为，弗雷格在这一点上意识到了他的系统（或者至少是与§114 相关的推导的一致子系统）的潜在不完备性。阻止弗雷格证明所讨论的命题的原因，以及允许戴德金德在他自己的算术处理中证明类似原则的原因（Dedekind 1888），是后者在推导中使用了选择公理的非正式版本，而弗雷格在 Grundgesetze 的逻辑中没有包含任何形式的选择公理（Heck 2012 年：第 2 章）。这是一个重要的观察，但为了得出结论，我们并不需要如此复杂的东西，即弗雷格很可能认为他的系统是不完备的。
 
 弗雷格在 Grundgesetze 的形式系统中推导算术时，并不需要涵盖反斜杠应用于非单元素扩展的公理（我们可以假设他在推导实数和复数分析时也不需要它）。因此，他不需要将其添加到他的基本法则库存中。弗雷格的形式系统只需要包括那些对他的算术和分析重建所需的逻辑原则-他的项目并不需要在现代意义上具有证明论上的完备性，因此我们不应该对他所制定的逻辑显然是不完备的（如果基本法则 V 没有使其不一致，从而变得平凡完备）感到惊讶。
 
@@ -1154,7 +1138,7 @@ Dummett 心中所指的规定是在 Grundgesetze 第 10 节的“排列论证”
 
 ![judgement conditional term elta term conditional term amma term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-I1.svg)
 
-那么，如果我们还有“  Δ”，那么我们可以得出结论：
+那么，如果我们还有“ Δ”，那么我们可以得出结论：
 
 ![judgement conditional term amma term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-I2.svg)
 
@@ -1162,7 +1146,7 @@ Dummett 心中所指的规定是在 Grundgesetze 第 10 节的“排列论证”
 
 ![judgement conditional term amma term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-I2.svg)
 
-超组件。另一方面，如果我们有“  Γ”，那么我们将得出以下结论：
+超组件。另一方面，如果我们有“ Γ”，那么我们将得出以下结论：
 
 ![judgement conditional term elta term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-I4.svg)
 
@@ -1172,7 +1156,7 @@ Dummett 心中所指的规定是在 Grundgesetze 第 10 节的“排列论证”
 
 A1→(A2→(A3→(A4→(A5→(A6→(A7→(A8→B)))))))
 
- 并且 A8 到：
+并且 A8 到：
 
 A1→(A2→(A3→(A4→(A5→(A6→(A7→B)))))I hope this helps! If you need further assistance, feel free to ask
 
@@ -1182,7 +1166,7 @@ A1→(A2→(A3→(A4→(A5→(A6→(A7→B)))))I hope this helps! If you need fu
 
 ![judgement conditional term elta term conditional term amma term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-I1.svg)
 
-然后我们同时证明“  Δ”和“  Γ”，我们可以同时消去两个子部分，用双横线标记过渡（1893/1903: §14）。
+然后我们同时证明“ Δ”和“ Γ”，我们可以同时消去两个子部分，用双横线标记过渡（1893/1903: §14）。
 
 #### 3.4.2 广义假设三段论
 
@@ -1194,7 +1178,7 @@ A1→(A2→(A3→(A4→(A5→(A6→(A7→B)))))I hope this helps! If you need fu
 
 ![judgement conditional term elta term conditional term amma term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-I1.svg)
 
- 和
+和
 
 ![judgement conditional term amma term conditional term igma term elta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-M.svg)
 
@@ -1206,7 +1190,7 @@ A1→(A2→(A3→(A4→(A5→(A6→(A7→B)))))I hope this helps! If you need fu
 
 #### 3.4.3 Generalized Contraposition
 
-The third rule of inference is *Generalized Contraposition* (Frege calls this rule merely “contraposition”).
+The third rule of inference is _Generalized Contraposition_ (Frege calls this rule merely “contraposition”).
 
 > 只要同时颠倒每个子组件的真值，就可以对子组件和超组件进行置换。（1893/1903: §15）
 
@@ -1218,15 +1202,15 @@ The third rule of inference is *Generalized Contraposition* (Frege calls this ru
 
 ![judgement conditional not term heta term conditional not term amma not term elta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-O2.svg)
 
- （a）
+（a）
 
 ![judgement conditional term elta term conditional not term heta not not term amma](https://plato.stanford.edu/entries/frege-logic/sec-3-3-O3.svg)
 
- （b）
+（b）
 
 ![judgement conditional term elta term conditional not term heta term amma](https://plato.stanford.edu/entries/frege-logic/sec-3-3-O4.svg)
 
- （c）
+（c）
 
 ![judgement conditional not term conditional not term amma term heta not term elta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-O5.svg)
 
@@ -1244,13 +1228,13 @@ The third rule of inference is *Generalized Contraposition* (Frege calls this ru
 
 ![judgement conditional term elta term conditional term amma term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-I1.svg)
 
- (a) (一)
+(a) (一)
 
 ![judgement conditional term igma term conditional not term elta term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-P.svg)
 
- (b) (二)
+(b) (二)
 
- we can infer: (我们可以推断：)
+we can infer: (我们可以推断：)
 
 ![judgement conditional term amma term conditional term Sigma term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-P1.svg)
 
@@ -1284,88 +1268,89 @@ The third rule of inference is *Generalized Contraposition* (Frege calls this ru
 >
 > 当我们引用法则（IIb）时，我们可以将“Mβ”的两个出现都替换为具有第二类一元参数的二级函数的相同名称或罗马标记。（1893/1903: §48）
 
-罗马字母消除允许两种应用。第一种，也是最简单的，涉及统一地用适当的名称替换特定的罗马字母。但是，罗马字母消除规则还允许我们用罗马对象标记替换单个罗马字母。因此，使用这个规则，我们还可以通过用罗马对象标记“  y”替换罗马字母“x”从“  Φ(x)”得到“  Φ(  y)”。同样，给定形式为“  f(Δ)”的 Grundgesetze 命题，我们可以推断出“  Δ”（通过用函数名称“  ”替换罗马字母“f”）或“  g(  Δ)”（通过用罗马函数标记“  g  ”替换罗马字母“f”）。罗马字母消除规则最显著和最重要的应用之一是在引入公理的“实例”时，因为弗雷格不要求我们明确地写出公理。相反，我们可以引用应用罗马字母消除规则（一次或多次）得到的任何公理的“实例”。
+罗马字母消除允许两种应用。第一种，也是最简单的，涉及统一地用适当的名称替换特定的罗马字母。但是，罗马字母消除规则还允许我们用罗马对象标记替换单个罗马字母。因此，使用这个规则，我们还可以通过用罗马对象标记“ y”替换罗马字母“x”从“ Φ(x)”得到“ Φ( y)”。同样，给定形式为“ f(Δ)”的 Grundgesetze 命题，我们可以推断出“ Δ”（通过用函数名称“ ”替换罗马字母“f”）或“ g( Δ)”（通过用罗马函数标记“ g ”替换罗马字母“f”）。罗马字母消除规则最显著和最重要的应用之一是在引入公理的“实例”时，因为弗雷格不要求我们明确地写出公理。相反，我们可以引用应用罗马字母消除规则（一次或多次）得到的任何公理的“实例”。
 
 对于这种推理，没有转换符号，因为它是在先前推导的公式被用作上述任一规则的前提的应用时应用的。
 
 这结束了我们对弗雷格的《概念书》和《基本法则》中发现的逻辑系统的调查。但这远非是弗雷格在逻辑上的思考的结束。尽管弗雷格最终放弃了他的逻辑主义项目，以及他的逻辑系统中导致矛盾（Basic Laws V 和 VI，以及价值范围的概念）的部分，鉴于罗素悖论，他继续多年教授逻辑课程。对弗雷格后来的观点感兴趣的读者应查阅附加的文章《悖论之后的弗雷格逻辑》。
+
 ## Bibliography
 
 ### Frege’s Writings
 
-* 1879a, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle a. S.: Louis Nebert; all quotes from this work are from the translation in T.W. Bynum (ed. and trans.), *Frege: Conceptual Notation and Related Articles*, Oxford: Clarendon, 1972.
-* 1879b, “Anwendungen der Begriffsschrift”, *Sitzungsberichte der Jenaische Zeitschrift für Medicin und Naturwissenschaft*, 13: 29–33.
+* 1879a, _Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens_, Halle a. S.: Louis Nebert; all quotes from this work are from the translation in T.W. Bynum (ed. and trans.), _Frege: Conceptual Notation and Related Articles_, Oxford: Clarendon, 1972.
+* 1879b, “Anwendungen der Begriffsschrift”, _Sitzungsberichte der Jenaische Zeitschrift für Medicin und Naturwissenschaft_, 13: 29–33.
 * 1880/1881, “Booles rechnende Logik und die Begriffsschrift”, unpublished manuscript. Translated as “Boole’s Logical Calculus and the Concept Script”, in LW79: 9–46.
 * 1881, “Booles logische Formelsprache und meine Begriffsschrift”, unpublished manuscript. Translated as “Boole’s Logical Formula Language and my Concept-script”, in LW79: 47–52.
-* 1882a, “Über die wissenschaftliche Berechtigung einer Begriffsschrift”, *Zeitschrift für Philosophie und philosophische Kritik*, 81: 48–56. Translated as “On the Scientific Justification of a Conceptual Notation” in By72: 83–89.
+* 1882a, “Über die wissenschaftliche Berechtigung einer Begriffsschrift”, _Zeitschrift für Philosophie und philosophische Kritik_, 81: 48–56. Translated as “On the Scientific Justification of a Conceptual Notation” in By72: 83–89.
 * 1882b, “Über den Zweck der Begriffsschrift”, Lecture at the 27 January 1882 meeting of the Jenaischen Gesellschaft für Medizin und Naturwissenschaft. Translated as “On the Aim of the ‘Conceptual Notation’” in By72: 90–100.
-* 1884, *Die Grundlagen der Arithmetik: eine logisch mathematische Untersuchung über den Begriff der Zahl*, Breslau: W. Koebner. Translated as *The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number*, J. L. Austin (trans.), second revised edition, Oxford: Blackwell, 1953.
-* 1891, “Funktion und Begriff” (“Function and Concept”), *Vortrag, gehalten in der Sitzung vom 9. Januar 1891 der Jenaischen Gesellschaft für Medizin und Naturwissenschaft*, Jena: Hermann Pohle.
-* 1892a, “Über Sinn und Bedeutung” (“On Sense and Reference”), *Zeitschrift für Philosophie und philosophische Kritik*, 100: 25–50.
-* 1892b, “Über Begriff und Gegenstand”’ (“Concept and Object”), *Vierteljahresschrift für wissenschaftliche Philosophie*, 16: 192–205.
-* 1893/1903, *Grundgesetze der Arithmetik: begriffsschriftlich abgeleitet*, Jena: Verlag Hermann Pohle, volume 1 in 1893 and volume 2 in 1903. Translated in ER13.
-* 1897, “Über die Begriffsschrift des Herrn Peano und meine eigene”, *Berichte über die Verhandlungen der Königlich Sächsischen Gesellschaft der Wissenschaften zu Leipzig: Mathematisch-physische Klasse*, 48: 361–378. Translated as “On Mr. Peano’s Conceptual Notation and My Own” in BD84: 234–248.
+* 1884, _Die Grundlagen der Arithmetik: eine logisch mathematische Untersuchung über den Begriff der Zahl_, Breslau: W. Koebner. Translated as _The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number_, J. L. Austin (trans.), second revised edition, Oxford: Blackwell, 1953.
+* 1891, “Funktion und Begriff” (“Function and Concept”), _Vortrag, gehalten in der Sitzung vom 9. Januar 1891 der Jenaischen Gesellschaft für Medizin und Naturwissenschaft_, Jena: Hermann Pohle.
+* 1892a, “Über Sinn und Bedeutung” (“On Sense and Reference”), _Zeitschrift für Philosophie und philosophische Kritik_, 100: 25–50.
+* 1892b, “Über Begriff und Gegenstand”’ (“Concept and Object”), _Vierteljahresschrift für wissenschaftliche Philosophie_, 16: 192–205.
+* 1893/1903, _Grundgesetze der Arithmetik: begriffsschriftlich abgeleitet_, Jena: Verlag Hermann Pohle, volume 1 in 1893 and volume 2 in 1903. Translated in ER13.
+* 1897, “Über die Begriffsschrift des Herrn Peano und meine eigene”, _Berichte über die Verhandlungen der Königlich Sächsischen Gesellschaft der Wissenschaften zu Leipzig: Mathematisch-physische Klasse_, 48: 361–378. Translated as “On Mr. Peano’s Conceptual Notation and My Own” in BD84: 234–248.
 
 ### Translations
 
-* [Be97] *The Frege Reader*, Michael Beaney (ed.), Oxford ; Malden, MA: Blackwell Publishers, 1997.
-* [BD84] *Collected Papers on Mathematics, Logic, and Philosophy*, Brian McGuinness (ed.), Oxford/New York: B. Blackwell, 1984.
-* [By72] *Conceptual Notation, and Related Articles*, Terrell Ward Bynum (ed./tran.), Oxford: Clarendon Press, 1972.
-* [ER13] *Gottlob Frege: Basic Laws of Arithmetic: Derived Using Concept-Script. Volumes I & II*, Philip A. Ebert and Marcus Rossberg (eds/trans), Oxford: Oxford University Press, 2013.
-* [LW79] *Posthumous Writings*, Hans Hermes, Friedrich Kambartel, and Friedrich Kaulbach (eds.). Peter Long and Roger White (trans.), Chicago: University of Chicago Press, 1979.
-* [RA04] *Frege’s Lectures on Logic: Carnap’s Student Notes, 1910-1914*, Gottfried Gabriel (ed.). Erich H. Reck and Steve Awodey (trans/eds), Chicago, IL: Open Court, 2004.
-* Van Heijenoort, Jean (ed.), 1967a, *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, (Source Books in the History of the Sciences), Cambridge, MA: Harvard University Press.
+* \[Be97] _The Frege Reader_, Michael Beaney (ed.), Oxford ; Malden, MA: Blackwell Publishers, 1997.
+* \[BD84] _Collected Papers on Mathematics, Logic, and Philosophy_, Brian McGuinness (ed.), Oxford/New York: B. Blackwell, 1984.
+* \[By72] _Conceptual Notation, and Related Articles_, Terrell Ward Bynum (ed./tran.), Oxford: Clarendon Press, 1972.
+* \[ER13] _Gottlob Frege: Basic Laws of Arithmetic: Derived Using Concept-Script. Volumes I & II_, Philip A. Ebert and Marcus Rossberg (eds/trans), Oxford: Oxford University Press, 2013.
+* \[LW79] _Posthumous Writings_, Hans Hermes, Friedrich Kambartel, and Friedrich Kaulbach (eds.). Peter Long and Roger White (trans.), Chicago: University of Chicago Press, 1979.
+* \[RA04] _Frege’s Lectures on Logic: Carnap’s Student Notes, 1910-1914_, Gottfried Gabriel (ed.). Erich H. Reck and Steve Awodey (trans/eds), Chicago, IL: Open Court, 2004.
+* Van Heijenoort, Jean (ed.), 1967a, _From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931_, (Source Books in the History of the Sciences), Cambridge, MA: Harvard University Press.
 
 ### Secondary Literature
 
 * Beaney, Michael, 1997, “Introduction”, in Be97, 1–46.
-* ––– (ed.), 2013, *The Oxford Handbook of the History of Analytic Philosophy*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199238842.001.0001
-* Berg, Eric D. and Roy T. Cook, 2017, “The Propositional Logic of Frege’s *Grundgesetze*: Semantics and Expressiveness”, *Journal for the History of Analytical Philosophy*, 5: article 6. doi:10.15173/jhap.v5i6.2920
+* ––– (ed.), 2013, _The Oxford Handbook of the History of Analytic Philosophy_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199238842.001.0001
+* Berg, Eric D. and Roy T. Cook, 2017, “The Propositional Logic of Frege’s _Grundgesetze_: Semantics and Expressiveness”, _Journal for the History of Analytical Philosophy_, 5: article 6. doi:10.15173/jhap.v5i6.2920
 * Boolos, George, 1994, “1879?”, in Clark and Hale (eds) 1994: 31–48 (ch. 2).
-* Burge, Tyler, 1984, “Frege on Extensions of Concepts, from 1884 to 1903”, *The Philosophical Review*, 93(1): 3–34. doi:10.2307/2184411
-* Clark, Peter and Bob Hale (eds.), 1994, *Reading Putnam*, Cambridge, MA: Blackwell Publishers.
-* Cook, Roy T., 2013, “How to Read *Grundgesetze*”, appendix to ER13: A1–A42.
-* Currie, Gregory, 1984, “Frege’s Metaphysical Argument”, *The Philosophical Quarterly*, 34(136): 329–342. Reprinted Wright 1984: 144–157. doi:10.2307/2218764
-* Dedekind, Richard, 1888, *Was sind und was sollen die Zahlen?*, Braunschweig: Friedrich Vieweg.
-* Dummett, Michael A. E., 1981, *The Interpretation of Frege’s Philosophy*, London: Duckworth.
-* Ebert, Philip A. and Marcus Rossberg (eds.), 2019, *Essays on Frege’s: “Basic Laws of Arithmetic”*, Oxford: Oxford University Press.
-* Gabbay, Dov M. and John Woods (eds.), 2004, *Handbook of the History of Logic, Volume 3, the Rise of Modern Logic: From Leibniz to Frege*, Amsterdam/Boston: Elsevier.
+* Burge, Tyler, 1984, “Frege on Extensions of Concepts, from 1884 to 1903”, _The Philosophical Review_, 93(1): 3–34. doi:10.2307/2184411
+* Clark, Peter and Bob Hale (eds.), 1994, _Reading Putnam_, Cambridge, MA: Blackwell Publishers.
+* Cook, Roy T., 2013, “How to Read _Grundgesetze_”, appendix to ER13: A1–A42.
+* Currie, Gregory, 1984, “Frege’s Metaphysical Argument”, _The Philosophical Quarterly_, 34(136): 329–342. Reprinted Wright 1984: 144–157. doi:10.2307/2218764
+* Dedekind, Richard, 1888, _Was sind und was sollen die Zahlen?_, Braunschweig: Friedrich Vieweg.
+* Dummett, Michael A. E., 1981, _The Interpretation of Frege’s Philosophy_, London: Duckworth.
+* Ebert, Philip A. and Marcus Rossberg (eds.), 2019, _Essays on Frege’s: “Basic Laws of Arithmetic”_, Oxford: Oxford University Press.
+* Gabbay, Dov M. and John Woods (eds.), 2004, _Handbook of the History of Logic, Volume 3, the Rise of Modern Logic: From Leibniz to Frege_, Amsterdam/Boston: Elsevier.
 * Goldfarb, Warren, 2010, “Frege’s Conception of Logic”, in Potter and Ricketts 2010: 63–85. doi:10.1017/CCOL9780521624282.003
-* Heck, Richard Kimberly, 2012, *Reading Frege’s “Grundgesetze”*, Oxford: Clarendon Press. (originally published under Richard G. Heck)
-* –––, 2019, “Formal Arithmetic Before *Grundgesetze*”, in Ebert and Rossberg 2019: 497–537 (ch. 18).
+* Heck, Richard Kimberly, 2012, _Reading Frege’s “Grundgesetze”_, Oxford: Clarendon Press. (originally published under Richard G. Heck)
+* –––, 2019, “Formal Arithmetic Before _Grundgesetze_”, in Ebert and Rossberg 2019: 497–537 (ch. 18).
 * Heck, Richard Kimberly and Robert May, 2013, “The Function Is Unsaturated”, in Beaney 2013: 825–850. (originally published under Richard Kimberley Heck and Robert May) doi:10.1093/oxfordhb/9780199238842.013.0028
-* –––, 2020, “The Birth of Semantics”, *Journal for the History of Analytical Philosophy*, 8: article 6. doi:10.15173/jhap.v8i6.3970
-* Jones, Emily Elizabeth Constance, 1890, *Elements of Logic as a Science of Propositions*, Edinburgh: T. & T. Clark.
-* Jourdain, Philip, 1912, “The Development of Theories of Mathematic Logic and the Principles of Mathematics”, *The Quarterly Journal of Pure and Applied Mathematics*, 43: 219–314.
-* Kemp, Gary, 1995, “Truth in Frege’s ‘Law of Truth’”, *Synthese*, 105(1): 31–51. doi:10.1007/BF01064102
+* –––, 2020, “The Birth of Semantics”, _Journal for the History of Analytical Philosophy_, 8: article 6. doi:10.15173/jhap.v8i6.3970
+* Jones, Emily Elizabeth Constance, 1890, _Elements of Logic as a Science of Propositions_, Edinburgh: T. & T. Clark.
+* Jourdain, Philip, 1912, “The Development of Theories of Mathematic Logic and the Principles of Mathematics”, _The Quarterly Journal of Pure and Applied Mathematics_, 43: 219–314.
+* Kemp, Gary, 1995, “Truth in Frege’s ‘Law of Truth’”, _Synthese_, 105(1): 31–51. doi:10.1007/BF01064102
 * Kremer, Michael, 2010, “Sense and Reference: The Origins and Development of the Distinction”, in Potter and Ricketts 2010: 220–292. doi:10.1017/CCOL9780521624282.007
-* Landini, Gregory, 2012, *Frege’s Notations: What They Are and How They Mean*, (History of Analytic Philosophy), Houndmills, UK/New York: Palgrave Macmillan.
-* Łukasiewicz, Jan, 1934, “Z Historii Logiki Zdãn”, *Przeglad Filozoficzny*, 37: 369–377.
-* Mates, Benson, 1972, *Elementary Logic*, second edition, New York: Oxford University Press.
-* Mostowski, Andrzej, 1957, “On a Generalization of Quantifiers”, *Fundamenta Mathematics*, 44(1): 12–36.
+* Landini, Gregory, 2012, _Frege’s Notations: What They Are and How They Mean_, (History of Analytic Philosophy), Houndmills, UK/New York: Palgrave Macmillan.
+* Łukasiewicz, Jan, 1934, “Z Historii Logiki Zdãn”, _Przeglad Filozoficzny_, 37: 369–377.
+* Mates, Benson, 1972, _Elementary Logic_, second edition, New York: Oxford University Press.
+* Mostowski, Andrzej, 1957, “On a Generalization of Quantifiers”, _Fundamenta Mathematics_, 44(1): 12–36.
 * Pedriali, Walter B., 2019, “When Logic Gives Out: Frege on Basic Logical Laws”, in Ebert and Rossberg 2019: 57–89 (ch. 3).
-* Potter, Michael D. and Tom Ricketts (eds.), 2010, *The Cambridge Companion to Frege*, Cambridge, UK/New York: Cambridge University Press. doi:10.1017/CCOL9780521624282
-* Putnam, Hilary, 1982, “Peirce the Logician”, *Historia Mathematica*, 9(3): 290–301. doi:10.1016/0315-0860(82)90123-9
+* Potter, Michael D. and Tom Ricketts (eds.), 2010, _The Cambridge Companion to Frege_, Cambridge, UK/New York: Cambridge University Press. doi:10.1017/CCOL9780521624282
+* Putnam, Hilary, 1982, “Peirce the Logician”, _Historia Mathematica_, 9(3): 290–301. doi:10.1016/0315-0860(82)90123-9
 * Russell, Bertrand, 1902, “Letter to Frege”, printed in van Heijenoort (ed.) 1967a: 124–125.
-* Tarski, Alfred, 1933, “The Concept of Truth in the Languages of the Deductive Sciences” (Polish), *Prace Towarzystwa Naukowego Warszawskiego, Wydzial III Nauk Matematyczno-Fizycznych* 34, Warsaw. Reprinted in Zygmunt (ed.), 1995, *Alfred Tarski, Pisma Logiczno-Filozoficzne, 1 Prawda*, Warsaw: Wydawnictwo Naukowe PWN, 13–172. English translation in Tarski’s *Logic, Semantics, Metamathematics: Papers from 1923 to 1938*, 2nd edition, John Corcoran (ed.), Indianapolis: Hackett Publishing Company, 1983, 152–278.
-* van Heijenoort, Jean, 1967b, “Introduction to *Begriffsschrift*”, in van Heijenoort (ed.) 1967: 1–5.
-* Wright, Crispin (ed.), 1984, *Frege: Tradition and Influence*, Oxford/New York: B. Blackwell.
+* Tarski, Alfred, 1933, “The Concept of Truth in the Languages of the Deductive Sciences” (Polish), _Prace Towarzystwa Naukowego Warszawskiego, Wydzial III Nauk Matematyczno-Fizycznych_ 34, Warsaw. Reprinted in Zygmunt (ed.), 1995, _Alfred Tarski, Pisma Logiczno-Filozoficzne, 1 Prawda_, Warsaw: Wydawnictwo Naukowe PWN, 13–172. English translation in Tarski’s _Logic, Semantics, Metamathematics: Papers from 1923 to 1938_, 2nd edition, John Corcoran (ed.), Indianapolis: Hackett Publishing Company, 1983, 152–278.
+* van Heijenoort, Jean, 1967b, “Introduction to _Begriffsschrift_”, in van Heijenoort (ed.) 1967: 1–5.
+* Wright, Crispin (ed.), 1984, _Frege: Tradition and Influence_, Oxford/New York: B. Blackwell.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-logic). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/frege-logic/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up this entry topic](https://www.inphoproject.org/entity?sep=frege-logic&redirect=True) at the [Internet Philosophy Ontology Project](https://www.inphoproject.org/) (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/frege-logic/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-logic).                                                                            |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/frege-logic/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/).       |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up this entry topic](https://www.inphoproject.org/entity?sep=frege-logic\&redirect=True) at the [Internet Philosophy Ontology Project](https://www.inphoproject.org/) (InPhO). |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/frege-logic/) at [PhilPapers](https://philpapers.org/), with links to its database.                                |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[algebra of logic tradition](https://plato.stanford.edu/entries/algebra-logic-tradition/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: controversy with Hilbert](https://plato.stanford.edu/entries/frege-hilbert/) | [Frege, Gottlob: theorem and foundations for arithmetic](https://plato.stanford.edu/entries/frege-theorem/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: second-order and higher-order](https://plato.stanford.edu/entries/logic-higher-order/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [truth values](https://plato.stanford.edu/entries/truth-values/)
+[algebra of logic tradition](https://plato.stanford.edu/entries/algebra-logic-tradition/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: controversy with Hilbert](https://plato.stanford.edu/entries/frege-hilbert/) | [Frege, Gottlob: theorem and foundations for arithmetic](https://plato.stanford.edu/entries/frege-theorem/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: second-order and higher-order](https://plato.stanford.edu/entries/logic-higher-order/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [truth values](https://plato.stanford.edu/entries/truth-values/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-Roy Cook <[*cookx432@umn.edu*](mailto:cookx432%40umn%2eedu)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+Roy Cook <[_cookx432@umn.edu_](mailto:cookx432%40umn%2eedu)>
