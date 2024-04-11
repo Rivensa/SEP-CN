@@ -1,2 +1,292 @@
 # 上帝存在的道德论证 moral arguments (C. Stephen Evans and David Baggett)
 
+*首次发表于2014年6月12日，实质性修订于2022年10月4日。*
+
+上帝存在的道德论证形成了一个多样的论证家族，从道德或道德生活的某些特征推理出上帝的存在，通常被理解为宇宙的道德善良的创造者。道德论证既重要又有趣。它们有趣是因为评估它们的正确性需要关注元伦理学中处理的几乎每个重要的哲学问题。它们重要是因为它们在为宗教信仰进行辩护的流行论证中占据重要地位。这一点的证据可以在C·S·刘易斯的《纯粹基督教》（1952年）的惊人畅销中找到，这几乎可以肯定是20世纪最畅销的辩护书，它以对上帝存在的道德论证开始。许多普通人认为宗教在某种程度上为道德提供了基础或根据。这个事实似乎支持宗教论证道德而不是道德论证宗教信仰，但如果有人相信道德在某种程度上是“客观的”或“真实的”，并且这种道德现实需要解释，道德论证上帝的存在自然会被提出。道德和宗教之间的明显联系似乎支持这样的主张：道德真理需要宗教基础，或者可以通过上帝的存在或上帝的某些品质或行为来最好地解释。
+
+在对神论证的一般评论和道德论证的简要历史之后，本文将讨论几种不同形式的道德论证。一个重要的区别是理论性道德论证和实践性或实用性道德论证之间的区别。前者最好被视为从所谓的道德事实开始，并主张上帝是解释这些事实的必要条件，或者至少上帝提供了比世俗解释更好的解释。后者通常从道德所要求的某种善或目标的主张开始，并主张除非上帝存在，否则无法实现这一目标。是否存在这种明确的区别将是讨论的问题之一，因为有人认为仅凭实践性论证本身不能成为理性信仰的基础。为了满足这种担忧，实践性论证可能还必须包括理论性的维度。
+
+* [1. 神论证的目标](https://plato.stanford.edu/entries/moral-arguments-god/#GoaTheArg)
+* [2. 上帝存在的道德论证的历史](https://plato.stanford.edu/entries/moral-arguments-god/#HisMorArgForGodExi)
+* [3. 上帝存在的道德论证和道德义务的神圣命令理论](https://plato.stanford.edu/entries/moral-arguments-god/#TheMorArgForGodExiDivComTheMorObl)
+* [4. 从道德知识或意识的论证](https://plato.stanford.edu/entries/moral-arguments-god/#ArgMorKnoAwa)
+* [5. 从人的尊严或价值的论证](https://plato.stanford.edu/entries/moral-arguments-god/#ArgHumDigWor)
+* [6. 上帝信仰的实践道德论证](https://plato.stanford.edu/entries/moral-arguments-god/#PraMorArgForBelGod)
+* [ 7. 结论](https://plato.stanford.edu/entries/moral-arguments-god/#Con)
+* [ 参考文献](https://plato.stanford.edu/entries/moral-arguments-god/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/moral-arguments-god/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/moral-arguments-god/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/moral-arguments-god/#Rel)
+
+---
+
+## 1. 上帝存在的道德论证的目标
+
+在试图解释和评估上帝存在的道德论证之前，了解一些关于上帝存在的论证目标的背景将会很有帮助。（我们通常将上帝存在的论证泛称为“上帝存在的道德论证”。）当然，对于这个问题的观点是多样的，但是大多数当代支持这些论证的人并不认为上帝存在的论证是试图提供无可否认的前提的有效论证。（这里的“无可否认”是指没有合理人能够否认的前提。）这样的成就标准显然将成功的门槛设得很高，而上帝存在的论证的支持者正确地指出，在形式逻辑之外的任何领域，哲学论证很少能达到这样的标准。
+
+对于上帝存在的论证，更合理的问题似乎是：是否存在一些已知或被一些人合理相信的前提，可以为上帝存在的结论提供有效的论证？这些论证的前提是否比它们的否定更合理，至少对于一些合理的人来说是这样的？满足这些标准的论证可以使一些人对上帝的信仰变得合理，甚至可以使一些人对上帝的存在有所了解，即使最终这些论证的一些前提可以被其他人合理地否认，从而使这些论证失败。
+
+一个无法在此解决的重要问题涉及到关于有神论论证的证明责任问题。许多世俗哲学家遵循安东尼·弗卢（1976）的观点，认为存在“无神论的假设”。根据这种观点，相信上帝就像相信尼斯湖水怪或小矮人一样，是没有充分证据的理智人士不会相信的事情。如果缺乏这样的证据，适当的立场是无神论而不是不可知论。
+
+这种“无神论的假设”已经受到多种方式的质疑。阿尔文·普兰廷加（2000）认为，对上帝的合理信仰不必基于命题证据，而可以是“适当基本的”。根据这种观点，对上帝的合理信仰可以是基本能力的结果（神学家约翰·加尔文称之为神性感知），因此根本不需要任何论证的支持。作为回应，一些人可能会争辩，即使有神论的信仰不是基于命题证据，它仍然可能需要非命题证据（如经验），因此普兰廷加的观点本身是否消除了证明责任的挑战并不清楚。
+
+挑战无神论的假设的第二种方式是质疑那些为这种假设辩护的人所做的一个隐含假设，即相信上帝的风险在认识论上比不相信上帝的风险更大。这种假设可以通过以下方式进行辩护：人们可能认为有神论者和无神论者在许多实体上都持有相同的信念，比如原子、中等大小的物体、动物和星星。然而，那些除了这些公认的实体之外还相信小矮人或海怪的人就需要承担举证的责任。这样的人相信“一件额外的事物”，因此似乎承担了额外的认识论风险。人们可能认为相信上帝与相信小矮人或海怪是相关的，因此有神论者也承担了额外的举证责任。如果没有关于上帝存在的充分证据，安全的选择就是不相信。
+
+然而，有神论者可能认为这种说法并不准确地描述了情况。相反，有神论者可能主张无神论和有神论之间的辩论并不仅仅是关于世界上是否存在“一件额外的事物”的争论。事实上，上帝根本不应被理解为世界上的一个实体；任何这样的实体都不可能是上帝。这场辩论实际上是关于宇宙的性质的辩论。有神论者相信自然界中的每一个物体之所以存在，是因为上帝创造并保持了那个物体；每一个有限的事物都具有依赖上帝的性质。无神论者否认这一点，并肯定自然界中的基本实体具有“自主存在”的性质。
+
+如果这是正确思考辩论的方式，那么无神论并不比有神论更安全。这场辩论不是关于一个物体的存在，而是关于整个宇宙的性质。双方都在对自然界中的一切事物的性质提出主张，而这些主张似乎都存在风险。这一点在处理对上帝存在的道德论证时尤为重要，因为这类论证提出的问题之一是自然主义世界观在解释道德方面的充分性。这样的解释需要在不淡化道德范畴或以其他方式驯化它们的同时，解释它们最有趣的特征。如果无神论者致力于像自然主义这样的对立形而上学，那么证明有神论的证据是合理的，但询问无神论的证据似乎也是合理的。
+
+## 2. 上帝存在的道德论证的历史
+
+在托马斯·阿奎那的“五种方式”（Aquinas 1265-1274，I，1，3）中可以找到类似于上帝存在的道德论证，或者至少是从价值的论证。阿奎那在那里提出了这样的主张：在拥有“善良、真实和高尚”等品质的存在之间存在着层次。他可能是指一些好的事物比其他好的事物更好；或许一些高尚的人比其他高尚的人更高尚。实际上，阿奎那声称当我们以这种方式“分级”事物时，我们至少是在将它们与某种绝对标准进行比较。阿奎那认为这个标准不能仅仅是“理想的”或“假设的”，因此只有当存在某个具有这种品质的存在时，这种分级才有可能：“因此，存在着某种最真实的东西，某种最好的东西，某种最高尚的东西，因此，存在着某种最极端的存在；因为在真理上最伟大的事物在存在上也是最伟大的，正如在《形而上学》第二篇中所写的。”阿奎那接着肯定了这个提供标准的存在也是这些品质存在的原因或解释，而这样的原因必须是上帝。显然，这个论证深深依赖于柏拉图和亚里士多德的假设，这些假设在哲学家中已经不再广泛持有。为了使这个论证在今天变得可信，这些假设必须得到辩护，或者将论证重新表述，使其摆脱原来的形而上学背景。
+
+上帝存在的道德论证中，可能最有影响力的版本可以追溯到康德（1788 [1956]），他著名地认为，关于上帝存在的理论论证是不成功的，但提出了一个理性的信仰上帝的论证，作为“实践理性的假设”。康德认为，一个理性的、道德的存在必然会愿意“最高善”，这包括一个世界，其中人们既道德善良又幸福，并且道德美德是幸福的条件。后者的条件意味着这个目标必须仅通过道德行为来追求。然而，康德认为，一个人不能在不相信道德行为能够成功实现这个目标的情况下，理性地愿意这个目标，而这需要相信自然界的因果结构有利于通过道德手段实现这个目标。这等同于相信上帝的存在，上帝是一个道德的存在，最终对自然界的特性负有责任。康德的论证将在本文后面讨论。
+
+受康德启发的论证在 19 世纪非常突出，并一直重要到 20 世纪中叶。例如，在 W. R. Sorley（1918）、Hastings Rashdall（1920）和 A. E. Taylor（1945/1930）的著作中可以找到这样的论证。虽然亨利·西奇威克本人并不支持上帝存在的道德论证，但有人认为他的思想为这样的论证提供了材料（参见 Walls 和 Baggett 2011）。在 19 世纪，约翰·亨利·纽曼（1870）在他为信仰上帝的案例中也充分利用了道德论证，发展了一种可以称为良心论证的论证。
+
+除了道德论证历史上的那些杰出人物外，还有几位其他人物以各种方式对这个讨论做出了贡献，包括亚瑟·巴尔弗（1915 年）、安德鲁·塞思·普林格-帕蒂森（1920 年）、克莱门特·韦伯（2012 年）、W·G·德·伯格（1938 年）、W·R·马修斯（1921 年）、奥斯汀·法勒（2012 年）和 H·P·欧文（1965 年）。Walls 和 Baggett（2019 年）出版了这段历史的编年史。恢复这样的历史有助于对许多当代分析哲学的非历史性特征进行补救。
+
+在最近的哲学中，神圣命令元伦理理论得到了复兴，这反过来又导致了道德论证的新版本，这些版本可以在罗伯特·亚当斯（1987 年）、约翰·哈尔（1996 年）和 C·斯蒂芬·埃文斯（2010 年）等思想家中找到。对神圣命令理论的研究，无论是支持还是反对，都经历了最近的兴趣复苏。这项工作涵盖了对神圣命令理论的动机和表述的讨论，以及对其旧有和新的反对意见的广泛讨论。
+
+然而，重要的是要看到，存在上帝的道德论证中有一些完全独立于神圣命令理论的版本，这一可能性可以在安格斯·里奇（2012 年）和马克·林维尔（2009 年）所提出的论证中看到。也许最近哲学中关于上帝存在的道德论证的最全面和完善的论述可以在大卫·巴格特和杰里·L·沃尔斯（2016 年）的著作中找到。这本书探讨了一种全面的累积形式的道德论证，并广泛探讨了其中的基本问题。不用说，这些重新提出的论证也引发了新的批评。对上帝存在的理论道德论证可以理解为以下模板的变体：
+
+1. 存在客观的道德事实。
+2. 上帝为存在客观道德事实提供了最好的解释。
+3. 因此，（很可能）上帝存在。
+
+正如我们将看到的，道德的各种特征可以在论证的第一步中被引用，上帝在第二步中提供这些特征的解释也有多种方式。使用“客观道德事实”这个含糊的短语是为了允许第一前提的多样性。上帝提供这些事实的最佳解释的类似模糊概念允许道德特征以多种方式依赖于上帝，神圣命令是其中一个显著的选择。这两种前提显然都可以受到质疑。例如，这样一个论证的第一个前提可以受到流行的元伦理观点的质疑，这些观点认为道德是“主观的”或“表达的”，而不是由客观事实构成的。道德怀疑论者和“错误理论家”也质疑第一个前提。第二个前提可以基于对道德特征的竞争性解释进行质疑，这些解释不需要上帝。因此，关于第二个前提的论证可能需要比较上帝论证和这些竞争观点对道德的解释，同时注意需要解释的相关证据。
+
+很容易看出，道德论证的支持者面临着一个复杂的任务：她必须捍卫所依据的道德特征的现实性和客观性，同时还必须捍卫这一特征可以通过上帝来最好地解释的观点。任务的第二部分可能不仅需要展示有神论解释的优势，还需要指出竞争的世俗解释的弱点。任务的两个部分都是必不可少的，但值得注意的是，这两个组成部分不能同时完成。有神论者必须捍卫道德的现实性，反对主观主义者、建构主义者和“道德虚无主义者”。假设这个任务已经完成，有神论者必须试图表明，因此理解道德要求或至少最有可能通过有神论解释来理解。
+
+然而，有趣的是，在任务的两个部分上，有神论者可以招募非有神论者作为盟友。有神论者很可能与伦理自然主义者以及伦理非自然主义者一起，共同捍卫道德实在论，反对“投射”理论，如表达主义。然而，有神论者也可以招募错误理论家，如 J.L.麦基（1977 年），以及道德虚无主义者，如弗里德里希·尼采（1887 年），以主张上帝对于客观道德的必要性。例如，尼采明确表示上帝不存在，但也声称上帝的不存在破坏了传统西方道德的现实性。有神论者能够招募到这样不太可能的盟友，并不意味着上帝存在的道德论证是正确的，但这确实表明这个论证并不明显是自圆其说的，因为这两个前提有时被（不同的）非信仰者接受。
+
+## 3. 上帝存在的道德论证和道德义务的神圣命令理论
+
+一个易于理解的有神论道德论证版本依赖于国家制定的人类法律和道德法则之间的类比。主权国家颁布法律，禁止或要求某些行为。如果我是美国公民，并且我赚的钱超过一定金额，我就有义务每年提交所得税申报表。由于美国的法律规定，我也被禁止因性别、年龄或种族而在雇佣中进行歧视。许多人认为，道德法则以与政治法律相同的方式约束个人。我有道义义务不对他人撒谎，同样也有义务遵守我所做出的承诺。（法律和道德法则都可以被理解为原则上有效，因此在某些情况下，为了遵守更重要的法则，一个人必须违反一项法律。）
+
+我们知道人类法律是如何产生的。它们是由立法机构（或某些国家的绝对君主）制定的，他们有权通过这些法律。那么道德法律的存在应该如何解释呢？许多人认为，它们必须以某种适当的权威为基础，而最合适的候选人就是上帝。一些哲学家将这种类型的论证称为“粗糙的”，可能是因为它的力量是如此明显，不需要特殊的哲学训练就能理解并吸引人。然而，能够在没有太多哲学技巧的情况下理解这个论证并不一定是一个缺点。如果假设有一个上帝，并且上帝希望人类认识他并与他建立关系，那么人们会期望上帝以非常明显的方式向人类展示他的真实性（参见Evans 2010）。毕竟，对于神论信仰的批评者，如J. L. Schellenberg（1993）已经提出，对于那些希望相信上帝的人来说，上帝的真实性对他们来说并不明显，这是一个严重的问题。如果道德义务的意识实际上是对上帝的命令或神圣法律的意识，那么意识到道德义务的普通人确实具有对上帝的某种意识。当然，这样的人可能意识到上帝的法律，却没有意识到它们是上帝的法律；她可能意识到上帝的命令，却没有意识到它们是以那种方式存在的。宗教辩护者可能认为这样的人已经对上帝有了一种de re的意识，因为道德义务只是上帝意愿的表达（或上帝的命令、动机、偏好或欲望）。
+
+如何将这种意识转化为对上帝的完全信仰？其中一种方法是帮助个人获得识别道德法则为神命令或神律的技能。如果道德法则被体验到，那么道德经验可以被视为一种宗教经验，或者至少是原始的宗教经验。也许以这种方式经历过上帝的人不需要道德论证（或任何形式的论证）来对上帝有合理的信仰。这可能是阿尔文·普兰廷加（2000 年）和“改革派认识论者”所指的一种情况，他们声称对上帝的信仰可以是“适当基本的”。值得注意的是，可能存在一种根植于道德经验的对上帝的认识，而这种认识并非道德论证的结果。
+
+然而，即使是这种情况，道德论证仍然可以发挥重要作用。这样的论证可能是帮助个人理解道德义务实际上是神的命令或法律的一种方式。即使某些普通人可能无需论证就能知道上帝的存在，但论证可以有助于捍卫这种情况的主张。一个人可能需要一个论证来支持第二层次的主张，即该人无需论证就能知道上帝的存在。
+
+无论如何，神命令的元伦理理论为这样的论证提供了材料。神命令道德义务理论（DCT）的复兴主要归功于菲利普·奎因（1979/1978）和罗伯特·亚当斯（1999）的工作。亚当斯的 DCT 版本尤其有影响力，并且非常适合为道德知识能够提供对上帝的认识的主张进行辩护。亚当斯的 DCT 版本是对道德义务的描述，必须与更一般的“意志论”伦理观区分开来，后者试图将其他道德属性（如善）视为依赖于上帝的意志。如下所述，通过将该理论限制在义务范围内，亚当斯避免了标准的“尤菲德罗”反对意见，该反对意见声称神命令观将伦理学降低为任意性。
+
+亚当斯关于道德义务作为神命令的描述是建立在更一般的义务社会理论基础上的。当然，有许多类型的义务：法律义务、财务义务、礼节义务以及因属于某个俱乐部或协会而产生的义务，仅举几例。显然，这些义务与道德义务是不同的，因为在某些情况下，道德义务可能与这些其他类型的义务发生冲突。义务的一般特点是什么？它们不能简单地归结为关于一个人有充分理由做某事的规范性主张。
+
+J. S. Mill（1874年，164-165页）认为，我们可以解释规范原则，而不必提及上帝。他认为，“义务感”源于“内在良心在其本质中所见证的某种东西”，因此道德法则与人类法律不同，“并非源于一个立法者或立法机构的意愿，而是源于心灵之外的地方”。毫无疑问，米尔在这里指的是诸如“同时相信p和非p是错误的”等规范逻辑原则。米尔认为，这些规范原则成立并不需要任何“权威”作为它们的基础，他认为这对于道德原则的情况也是合理的。米尔的观点至少对于某些规范原则来说是合理的，尽管一些有神论者认为形而上学的自然主义者难以解释任何形式的规范性（参见德文1989年，88-89页）。然而，即使米尔在一般规范性问题上是正确的，也不能得出他对于道德义务的观点是正确的结论，因为道德义务具有特殊的性质。义务具有一种特殊的力量；我们应该关心遵守它，并且违反义务应适当受到责备（亚当斯1999年，235页）。如果我犯了逻辑错误，我可能会感到愚蠢、愚笨或尴尬，但我没有理由感到内疚，除非这个错误反映了我本身的粗心大意，从而构成了对道德义务的违反。亚当斯认为，“义务事实是由广泛的社会要求构成的。”（同上，233页）例如，作为父母的社会角色部分由成为父母所承担的义务构成，作为公民的社会角色部分由遵守所在国家法律的义务构成。
+
+所有义务都是由社会要求构成的，根据亚当斯的观点。然而，并非所有由社会要求构成的义务都是道德义务。什么样的社会关系可以成为道德义务的基础？亚当斯认为，并非任何人类社会关系都具备必要的权威：“显然，一个道德上有效的义务不会仅仅由一个人实际上重视的社会关系系统所支持的任何要求构成。某些这样的要求没有道德力量，而且某些社会系统简直是邪恶的。”（同上，242页）如果一个善良和慈爱的上帝存在，并创造了所有人类，那么人类与上帝的社会关系具备解释道德义务的正确特征。因为如果道德义务源于上帝的要求，它们将是客观的，但它们也将是有动力的，因为与上帝的关系显然是人类有理由重视的伟大善。由于与上帝的适当关系可以说比任何其他社会关系都更重要，我们也可以理解为什么道德义务胜过其他种类的义务。从这个观点来看，我们还可以解释为什么道德义务具有超越性的特征，这一点很重要，因为“一个真正的道德义务概念必须具备对社会系统及其要求进行道德批评的资源。”（同上，242-243页）
+
+注意，亚当斯在他后期的作品中所辩护的 DCT 是本体论的而不是语义的：他声称道德义务实际上与神的命令是相同的，而不是声称“道德义务”与“神的命令”具有相同的意义。根据他的说法，将希拉里·普特南和索尔·克里普克等直接指称理论家的工作应用于伦理学领域，"道德义务"的意义是由这个概念在我们的语言中所扮演的角色所确定的。这个角色包括以下事实：道德义务必须具有动机和客观性。它们还必须为对其他类型义务的批判性评估提供基础，并且它们必须是这样的，即违反道德义务的人应该适当地受到责备。亚当斯认为，神的命令最能满足这些要求。因此，上帝的存在提供了对道德义务的最佳解释。如果道德义务与神的命令相同（或者也许是基于神的命令或由神的命令引起的存在），那么可以很容易地构建一个从这些义务中推导出上帝存在的论证：
+
+1. 存在客观的道德义务。
+2. 如果存在客观的道德义务，那么就有一个解释这些义务的上帝。
+3. 上帝存在。
+
+这个论证以演绎形式陈述，但它可以很容易地改述为概率性的“最佳解释论证”，如下所示：
+
+1. 存在客观的道德义务。
+2. 上帝为道德义务的存在提供了最好的解释。
+3. 很可能，上帝存在。
+
+显然，那些不认为神命论令人信服的人不会认为道德义务的这个论证有力。然而，亚当斯预见到并对神命论的一个常见批评给出了有力的回答。人们经常争论神命论必然失败，因为它面临着与柏拉图的《尤菲德罗》类似的两难困境。神命论的困境可以从以下问题中得出：假设上帝命令的是正确的事情，他之所以命令正确的事情是因为它是正确的（假设这里的“正确”意味着“道德上必须的”，而不仅仅是“道德上允许的”）。如果神命论的支持者回答肯定，那么似乎正确性的品质必须先于上帝的命令而独立存在。然而，如果支持者否认上帝之所以命令正确的事情是因为它是正确的，那么上帝的命令似乎是任意的。亚当斯的神命论版本通过引用善与正确的区别，并坚持上帝本质上是善良的，并且他的命令必然指向善良。这使得亚当斯可以声称上帝的命令使行为成为义务（或禁止），同时否认命令在任何有问题的意义上是任意的。
+
+虽然亚当斯的DCT版本成功地应对了“尤菲德罗”异议，但在文献中还有其他强有力的批评针对这一元伦理理论。这些异议可以在韦斯·莫里斯顿（2009年，2016年）、埃里克·维伦伯格（2005年，尤其是第3部分，2014年和第2章，2020年）、奥皮（2014年，尤其是第3章）和尼古拉斯·沃尔特斯多夫（2007年）等人的著作中找到。除了任意性之外，针对DCT提出的异议还包括自治异议、各种认识论异议、心理病态异议、监督性异议、先前义务异议以及其他尤菲德罗异议，其中包括基础、空洞和反事实异议。
+
+Wielenberg 明确地为上帝命令元伦理学的替代观点进行辩护，他称之为“无神规范实在论”。这本质上是一种观点，即道德真理是基本的或根本的性质，不是从自然事实或任何更基本的形而上学事实中得出的。因此，它似乎类似于通常被称为“伦理非自然主义”的观点。这个观点确实为上帝命令元伦理学提供了一个重要的替代方案。然而，值得注意的是，一些形而上学自然主义者对神学元伦理学的批评也可能适用于 Wielenberg 的观点。具体而言，像 J.L. Mackie（1977）这样的哲学家认为，任何类型的非自然伦理品质都是“奇怪的”，因为它们与科学发现的现实如此不同。Wielenberg 提出的“蛮力道德事实”作为必然真理似乎容易受到同样的批评。实际上，对 Wielenberg 的观点的批评可能比对神学观点的批评更为尖锐，因为在一个最终以人为基础的宇宙中，伦理真理可能显得不那么奇怪。对 Wielenberg、Morriston 和其他人的反驳也已经提出（参见 Evans 2013 年，Baggett 和 Walls，2011 年，2016 年，Flannagan，2017 年，2021a，2021 年，Pruss，2009 年，Davis 和 Franks，2015 年）。显然，基于神圣命令理论的上帝存在的道德论证版本只有在那些认为 DCT 可信的人中才会被认为是有力的，而这肯定只是哲学家中的少数派。（尽管值得注意的是，在哲学家中似乎没有一种单一的元伦理理论得到广泛支持，所以 DCT 并不是唯一的少数派观点。）然而，那些认为 DCT 有力的人也会认为道德义务为上帝的存在提供了有力的证据。
+
+## 4. 上帝存在的道德知识或意识论证
+
+已经发展出了各种论证，证明上帝是解释人类对道德真理的意识的必要存在（或者如果有人认为这种道德意识等同于知识的话，那就是道德知识）。例如，理查德·斯温伯恩（2004年，218页）认为，在一个没有上帝的宇宙中，“道德意识发生的可能性不大”。在斯温伯恩的观点中，道德真理要么是必然真理，要么是以必然真理为基础的偶然真理。例如，“在广岛投下原子弹是错误的”显然是偶然的，因为存在广岛这样的城市是偶然的。但是，有人可能认为这个命题是真实的（假设是真实的），是因为存在其他真理，比如“故意杀害无辜人类是错误的”，这个真理是普遍适用的，是必然真理。斯温伯恩认为，仅仅从道德事实本身来证明上帝的存在并不强有力，只能稍微增加神论的可能性。然而，我们人类意识到道德事实本身就是令人惊讶的，需要解释。
+
+也许属于表现利他行为的群体的生物相对于缺乏这种特征的群体来说，具有一些生存优势是真实的。然而，为了产生这种行为，并不需要道德信仰，因为“有很多种动物天生倾向于帮助同类，但并没有道德信仰。”（斯温伯恩，2004年，217页）如果上帝存在，他有“充分的理由创造具有道德意识的有意识存在”，因为他对人类的预期目的包括使他们能够自由选择善而不是恶，这将使他们能够与上帝建立关系。斯温伯恩并不认为这个论证本身为上帝的存在提供了非常强有力的证据，而是为相信上帝提供了一些归纳支持。这是一种在有神论宇宙中比无神论宇宙更有可能发生的几种现象之一。随着我们考虑越来越多的这类现象，它们“都会发生”的可能性将越来越小。（同上，218页）所有这些归纳论证一起可能为有神论提供实质性的支持，即使其中没有一个单独的论证足以通过证明有神论可能是真实的来提供合理的信仰。
+
+斯温伯恩的论证版本相当简短且不完善，但一些用来支持更完善版本的论证（将在下文中描述）的主张可以在沙龙·斯特里特（Sharon Street）2006年的一篇著名且被引用频繁的文章中找到。正如标题所示，斯特里特的论证绝不意味着支持上帝存在的道德论证。相反，她的目的是为了捍卫反实在主义元伦理理论，反对将道德真理视为与人类态度和情感“独立立场”的实在主义理论。斯特里特向道德实在主义者提出了一个困境，即我们人类评价信念与人类进化之间的关系。她认为，很明显，进化强烈地塑造了我们的评价态度。问题在于这些态度与实在主义者接受的客观评价真理之间的关系。如果实在主义者认为这些真理与我们的评价态度之间没有关系，那么这意味着“由于达尔文过程的扭曲影响，我们的大部分评价判断都是偏离轨道的。”实在主义者的另一种选择是声称存在一种关系，因此我们的评价信念追踪客观真理并非偶然或奇迹。然而，斯特里特声称，这种观点在科学上是不可行的。因此，斯特里特认为关于我们如何形成我们所做的道德判断的进化故事削弱了对这些判断客观真理的信心。当然，斯特里特的论证是有争议的，思想家如埃里克·维伦伯格（Erik Wielenberg）（2014年）已经对进化揭示论进行了反驳。然而，许多人认为这样的论证对于那些想要捍卫道德实在主义的人来说是有问题的，尤其是当它作为一个“全球”论证时（Kahane，2010年）。
+
+Street的论证也受到了Russ Shafer-Landau（2012）等批评家的质疑。然而，她的论证以及类似的论证已经被一些道德实在主义者，如David Enoch（2011）和Erik Wielenberg（2014）所承认，对他们的观点构成了一个重大问题。例如，尽管Enoch对Street的论证提出了回应，但显然他对自己的回答的力量有些担忧。为了避免在非神论的宇宙中，进化选择信仰客观真实道德价值观将是极其幸运的这一批评，Wielenberg提出产生这一结果的自然法则可能是形而上学上必然的，因此没有运气的成分。然而，许多哲学家会认为这种对自然法则的看法是为了避免神论而付出的巨大代价。Street似乎是在直接论证进化论使得人类拥有客观道德知识的概率变得不太可能。然而，预测客观道德知识的概率不是单纯依靠进化本身，而是进化和形而上学自然主义的结合。Street的论证的很大一部分力量来自于自然主义为真的假设，因此进化过程是无指导的。既然挑战道德实在主义的不是单纯的进化，而是进化和形而上学自然主义的结合，那么拒绝自然主义就为道德实在主义者解决问题提供了一种途径。在自然主义的宇宙中，我们确实预期达尔文进化过程会选择一种倾向于追踪生存而非客观道德真理的道德判断的倾向。Mark Linville（2009，391-446）对于形而上学自然主义者如何发展一个合理的进化故事来解释我们的道德判断如何具有认识论保证提出了详细的论证。 然而，如果我们假设进化过程是由上帝引导的，上帝的目标之一是创造具有道德意义的人类生物，能够与上帝建立关系并享受这种关系，那么上帝确保人类拥有大部分正确的价值信念就不会显得偶然或者不太可能。
+
+一些哲学家认为，达尔文的自然选择的随机性排除了通过这种过程进行任何形式的神圣引导的可能性。一些思想家，包括一些无神论者和一些所谓的“创造科学”的支持者，认为进化和上帝是对立的，是关于自然世界起源的相互排斥的假设。科学可以解释的事情不需要宗教解释。然而，这远非显而易见的真理；事实上，如果有神论是真实的，那么这显然是错误的。从有神论的角度来看，认为上帝和科学提供了相互竞争的解释，无法理解上帝与自然世界之间的关系，因为它将上帝看作是自然世界中的另一个原因。如果上帝存在，上帝不是自然世界中的实体，而是创造了自然世界及其所有因果过程的创造者。因此，原则上，自然解释永远不能排除有神论的解释。任何认为自然解释排除或与有神论解释相矛盾的论证实际上都具有神学性质，因为它们基于对上帝创造世界类型的假设。
+
+但是达尔文故事中至关重要的随机性呢？无神论者可能会声称，由于进化理论认为植物和动物进化的过程涉及随机的基因突变，因此它不能被引导，因此上帝不能使用进化手段来实现他的目的。然而，这个论证是错误的。它依赖于对“随机”一词的模棱两可理解。当科学家声称基因突变是随机的时候，他们并不是指它们是无因的，甚至不是指从生物化学的角度来看它们是不可预测的，而只是指这些突变不是为了适应有机体的需求而发生的。即使整个自然秩序本身是由上帝创造和维持的，自然过程中包含这种意义上的随机性是完全可能的。进化理论所需的“随机性”并不意味着进化过程必须是无指导的。负责自然法则和塑造进化过程的初始条件的上帝当然可以确保进程实现某些目标。
+
+像其他关于上帝存在的道德论证一样，从道德知识出发的论证可以很容易地以命题形式陈述，我认为斯温伯恩是正确的，他认为这个论证最好被理解为一种概率论证，它通过上帝提供比在自然宇宙中可能实现的更好的道德知识解释来进行论证。
+
+1. 人类拥有客观的道德知识。
+2. 如果上帝不存在，人类可能不会拥有客观的道德知识。
+3. 可能上帝存在。
+
+在安格斯·里奇（Angus Ritchie）的著作《从道德到形而上学：我们伦理承诺的神论涵义》（2012）中，也隐含了一种从道德知识的论证。里奇对非神论的道德解释提出了一种困境。像表达主义这样的主观主义理论当然可以解释我们做出道德判断的事实，但它们剥夺了道德的客观权威。然而，真正认真对待道德的客观主义理论在解释我们能够做出真正道德判断的能力时遇到了困难，除非人类获得这些能力的过程是由上帝这样的存在控制的。
+
+上帝存在的道德论证对于任何坚持任何形式的表达主义或其他非客观元伦理理论的人来说都不会令人信服，显然许多哲学家都认为这些观点很有吸引力。而且，肯定会有许多哲学家认为，如果道德客观主义意味着存在上帝或需要上帝才能合理，那么这就是对客观主义观点的还原。此外，无神论的道德哲学家，无论是自然主义者还是非自然主义者，都有关于道德知识可能性的故事要讲述。然而，这些故事的合理性存在真正的问题，因此，一些确信道德实在论是真实的人可能会认为道德知识为神论提供了一些支持。
+
+## 5. 人的尊严或价值的论证
+
+许多哲学家认为伊曼纽尔·康德的道德哲学仍然提供了一种有益的伦理学方法。康德提出的“范畴命令”的各种形式中，将人类视为“自身目的”的公式尤其有吸引力：“以这样的方式行事，使你始终不仅在你自己的人身上，而且在任何其他人身上，都不仅仅是一种手段，而且始终是一种目的”（康德 1785 [1964]，96）。许多受康德影响的当代道德哲学家，如克里斯汀·科斯加德（1996），认为康德提供了一种“建构主义”元伦理立场。建构主义被认为是在道德实在论和道德主义观点之间提供了一种“第三种方式”。与主观主义者一样，建构主义者希望将道德视为人类的创造。然而，与道德实在论者一样，建构主义者希望将道德问题视为具有客观答案。建构主义是一种试图发展一种摆脱道德实在论的形而上学承诺的客观道德的尝试。
+
+然而，关于康德本人是否以这种意义上的建构主义者存在争议。质疑这种阅读康德的正确性的一个原因是，康德本人并不认为道德是摆脱形而上学承诺的。例如，康德认为，如果有人相信机械决定论是关于自己的真实描述，那么他将无法相信自己是一个道德行为者，因为道德要求一种与决定论不相容的自主性。为了将自己视为具有康德所称的“尊严”价值的生物，我不能仅仅将自己视为物理环境的机器般产物。因此，康德认为，对于道德来说，他的《批判哲学》必须表明，对人类的决定论观点仅仅是科学知识的“现象世界”的一部分，而不是某种科学实在论是真正的形而上学观点。当我们从事科学研究时，我们将自己视为被决定的，但科学只告诉我们世界的表象，而不是它的真实本质。认识到这一事实表明，当康德假设人类具有他所称的尊严这种内在价值时，他并不是在“构建”人类所拥有的价值，而是在承认某种特定类型的生物必须具有这种价值。只有当人类是一种特定类型的生物时，他们才能具有这种价值。无论康德本人是否是道德实在论者，他的哲学中肯定存在一些朝着实在论方向的要素。
+
+如果人类个体具有某种内在的尊严或价值的主张是一个真正的客观原则，并且如果它提供了道德的一个关键基本原则，那么值得问一下这种主张可能具有哪些形而上学的含义。这是马克·林维尔（Mark Linville）在他发展的第二个道德论证中追求的问题（2009 年，417-446）。林维尔首先指出，如果人类个体不存在，那么很难认为“人类个体具有内在尊严”是真实的。显然，某些形而上学立场确实否认了人类个体的存在，比如绝对唯一主义形式，它认为只有一个绝对的现实存在。然而，似乎也有一些科学自然主义的形式致力于否认“作为实质性自我并本质上具有第一人称观点的个体”（参见丹尼特 2006 年，107）。例如，丹尼尔·丹尼特（Daniel Dennett）认为，人类个体将不会成为事物的最终真实科学解释的一部分。丹尼特认为，将人类视为个体只是采取了他称之为“故意立场”的一种特定方式，但很明显，当我们以这种方式思考人类时得到的人类形象与其内在的形而上学属性不相符。目前尚不清楚我们采取“故意立场”对待的系统如何真正具有自主性，从而具有康德认为人类个体具有的价值。
+
+从人的尊严出发，可以将论证表述为以下命题形式：
+
+1. 人类个体具有一种我们称之为尊严的特殊内在价值。
+2. 人类拥有尊严的唯一（或最好）解释是，他们是由一个至高善良的上帝按照上帝自己的形象创造的。
+3. 可能存在一个至高善良的上帝。
+
+一个自然主义者可能想通过找到其他策略来解释人类尊严来挑战前提（2）。例如，迈克尔·马丁（2002）试图提出道德判断可以被分析为完全公正和知情的观察者的赞同或反对感。林维尔（2009）反对说，不清楚这样一个观察者的感受如何构成一个人的内在价值，因为人们会认为内在属性应该是非关联和独立于心灵的。无论如何，林维尔指出，这样一个理想观察者理论存在一个“尤西弗洛”问题，因为人们会认为这样一个观察者会因为一个人具有内在价值而判断其为内在有价值的。
+
+追求建构主义者（如科斯加德）所采取的另一种策略是将赋予人类的价值与理性反思的能力联系起来。这个想法是，只要我致力于理性反思，我就必须将自己视为具有这种能力的人，并且始终将那些具有这种能力的他人也视为有价值的。维伦伯格的伦理非自然主义中也有类似的策略，因为维伦伯格认为，任何具有某些反思能力的存在都将拥有道德权利（维伦伯格，2014 年，第 4 章）这是远远不清楚的，人类的理性是否为道德权利提供了充分的基础。然而，许多人认为，幼儿和患有痴呆症的人仍然具有这种固有的尊严，但在这两种情况下都没有理性反思的能力。
+
+在尼古拉斯·沃尔特斯多夫最近关于正义的研究中（2007 年，特别是第 8 章），可以找到对将理性视为人类价值基础的尝试的批评的一些支持。沃尔特斯多夫在这项工作中辩护称，存在自然人权，并且侵犯这些权利是对一个人不公正行为的一种方式。为什么人类拥有这样的权利？沃尔特斯多夫说，这些权利根植于人类所拥有的基本价值或尊严。当我试图折磨或杀害一个无辜的人时，我没有尊重这个价值。如果有人问为什么我们应该认为人类拥有这样的价值，沃尔特斯多夫认为，对人类拥有这种品质的信仰不仅在历史上是由犹太人和基督教对人的概念产生的，而且现在即使离开这样的概念也无法为其辩护。特别是，他认为，试图认为我们的价值源于我们拥有的某种卓越，如理性，将无法解释婴儿或患有严重脑损伤或痴呆症的价值。
+
+在解释人的尊严的特殊价值方面，神论世界观是否更好？在神论宇宙中，上帝本身被视为至善。事实上，神论柏拉图主义者通常将上帝与善等同起来。如果上帝本身是一个人，那么这似乎是对人性本身必须是内在善的观念的承诺。如果人类是按照上帝的形象创造的，正如犹太教和基督教都肯定的那样，那么似乎可以推断出人类具有某种内在价值，仅仅因为他们是这种生物的一种。
+
+这个论证对许多人来说显然是站不住脚的。有些人会否定前提（1），要么是因为他们拒绝将道德实在论作为元伦理立场，要么是因为他们否定人类具有任何特殊价值或尊严的规范性主张。（也许他们甚至认为这样的主张是一种“物种主义”）。其他人会怀疑前提（2）。他们可能倾向于同意人类个体具有特殊尊严，但认为这种尊严的来源可以在人类的理性等特质中找到。对于婴儿和患有痴呆症的人的地位，批评者可能会选择坚持这一事实，即人类尊严不适用于他们，或者争辩说，婴儿和患有精神崩溃的人是属于一个通常具有理性的物种的一部分，这使得他们值得特殊尊重，即使他们个体上缺乏这种品质。其他人会怀疑前提（2），因为他们认为关于尊严的神学解释不清楚。另一种选择是寻求一种建构主义的尊严解释，也许将人类的特殊地位视为我们人类决定彼此赋予的东西。也许最强有力的非神论替代方案将是某种形式的伦理非自然主义，其中一个简单地肯定人具有特殊尊严的主张是一种不需要解释的先验真理。实际上，这是对非神论形式的柏拉图主义的选择。
+
+论证的支持者可能会同意关于人类特殊地位的主张是先验真实的，并因此选择某种形式的柏拉图主义。然而，论证的支持者将指出，一些必然真理可以通过其他必然真理来解释。有神论者相信，关于人类特殊地位的这些真理告诉我们一些关于人类所处宇宙的事实。说人类是上帝创造的意味着人格不是宇宙中的短暂或偶然特征，因为在本质上，现实本身是个人的（Mavrodes 1986）。
+
+## 6. 上帝信仰的实践道德论证
+
+正如前面所提到的，关于上帝存在的道德论证中最著名且可能最有影响力的版本出现在伊曼努尔·康德（1788）的著作中。康德本人坚称他的论证不是一种理论性的论证，而是一种基于实践理性的论证。论证的结论不是“上帝存在”或“上帝可能存在”，而是“我（作为一个理性的、道德的行动者）应该相信上帝的存在”。然而，我们将看到有一些理由怀疑实践论证是否能够与理论论证清晰地分开。
+
+康德的道德论证可以以不同的方式陈述，但以下可能捕捉到了该论证的一个合理解释。道德根植于纯粹的实践理性，道德行为者必须根据可以被理性认同为普遍原则的准则行动。因此，道德行为不是由结果或后果决定，而是由其基础的准则决定。然而，所有行为，包括道德行为，都必然以目标为导向。康德认为，道德行为的目标是“最高善”，即在这个世界上道德美德和幸福都被最大化，而幸福取决于美德。对于康德来说，“应该意味着能够”，所以如果我有义务追求最高善，那么我必须相信实现这一目标是可能的。然而，我只能通过按照道德行动来追求最高善；不允许通过捷径来追求幸福。这似乎要求我相信按照道德行动将在实现最高善方面具有因果效力。然而，合理的信念是，只有在因果律被设定为有利于道德行动效力的情况下，道德行动才会以这种方式具有因果效力。最高善的两个部分都似乎很难实现。我们人类在性格上有一些困难，似乎很难甚至不可能通过自己的努力克服。此外，作为有感知能力的生物，我们有一些主观需求，如果我们幸福的话，这些需求必须得到满足，但我们几乎没有经验理由认为即使我们成功成为有美德的人，这些需求会通过道德行动得到满足。 如果一个人相信自然界只是一个没有道德目的的非道德机器，那么这个人就没有理由相信道德行为能够成功，因为没有先验的理由认为道德行为能够实现最高善，并且也没有太多经验理由去相信这一点。因此，康德得出结论，道德行为者必须“假设”上帝的存在作为道德生活的理性前提。
+
+这个论证的一个问题是，许多人会否认道德要求我们按照康德的意义寻求最高善。即使康德的最高善在理想上似乎是合理的，一些人会反对我们有义务实现这样的状态，而仅仅是努力实现可能的最接近这样状态的状态（参见亚当斯 1987 年，152 页）。也许在没有神的帮助下，完美的美德是无法实现的，但在这种情况下，如果没有上帝，我们就不能被迫实现这样的状态。也许我们不能希望在实际世界中，幸福与美德的比例是适当的，如果上帝不存在，但那么我们的义务只能是通过道德手段实现尽可能多的幸福。康德无疑会拒绝这个批评，因为在他看来，道德的目的直接由纯粹实践理性先验地给出，我们不能根据经验信念来调整这些目的。然而，很少有当代哲学家会分享康德在这里对理性的自信观点，因此对许多人来说，这个批评是有力的。甚至康德自己也承认，对上帝的完全信仰在理性上并非必要，因为如果一个人仅仅相信上帝的存在是可能的，那么他仍然可以追求最高善（康德，1781-1787，651 页）。
+
+解释康德论证的另一种方式更加强调个体对幸福的渴望与履行道德义务之间的联系。如果为了做正确的事情必须牺牲个人的幸福，那么道德要求我这样做。然而，心理事实是人类必然渴望自己的幸福。在这种状态下，似乎人类道德行为者将被亨利·西奇威克所称的“实践理性的二元性”所困扰（1884 年，401 页）。理性既要求人类追求自己的幸福，又要求人类牺牲它。西奇威克本人指出，只有在有上帝的情况下，我们才能希望这种二元性得到解决，这样那些追求道德行为的人最终也会为了推进自己的幸福和福祉而行动。（有趣的是，西奇威克本人并不支持这个论证，但他明显认识到这个问题是神论的吸引力的一部分。）C.斯蒂芬·雷曼（2002 年）提出了一个类似于这个论证的当代论证。
+
+对康德论证的这种形式的批评者可能会回应说，康德的道德观认为义务是无论后果如何都必须履行的事情，因此一个真正的道德人不能将他或她对道德的承诺视为对幸福的实现有所依赖。从康德的观点来看，这种回应似乎是正确的；康德明确肯定道德行为必须是出于义务而不是出于对个人回报的任何渴望。然而，特别是对于任何愿意支持任何形式的幸福主义的哲学家来说，将自己视为不可避免地为了义务而牺牲自己无法不渴望的东西似乎是有问题的。正如约翰·哈尔所肯定的那样，“如果我们要全心全意地认同我们生活的长期形态，我们必须将这种形态视为与我们的幸福一致”（1996 年，88 页）。
+
+批评者可以通过简单地接受这个令人遗憾的事实来回应这一点，即人类的处境有些悲剧甚至荒谬。世界可能不是我们希望的那样，但这并不意味着我们有任何理由相信它与现实不同。如果道德要求与自利之间存在紧张关系，那么这可能只是一个必须面对的事实。
+
+这种回应对于所有形式的实践或实用的信仰论证都提出了一个问题。许多哲学家坚持认为，理性的信仰必须仅基于理论证据。仅仅因为相信 p 对我来说更好，并不能给我任何理由相信 p。这种批评不仅针对康德，还针对其他实践道德论证。例如，罗伯特·亚当斯（Robert Adams）认为，如果人类相信宇宙中没有道德秩序，那么他们在追求道德时将变得道德沮丧，这是道德上不可取的（1987 年，151 页）。无神论者可能会承认无神论（在某种程度上）会让人变得道德沮丧，但否认这给我们任何理由相信宇宙中存在道德秩序。同样，琳达·扎格泽布斯基（Linda Zagzebski）（1987 年）认为，除非善行增加世界上的善，否则道德将不成为一种理性的事业。然而，鉴于道德行为常常涉及牺牲幸福，没有理由相信道德行为会增加善，除非有一种超越人类活动的力量在善的一方起作用。在这里，无神论者可能声称道德行为确实会增加善，因为这种行为总是会增加良好的品格。然而，即使这种回应失败，无神论者可能再次承认人类的处境可能有些悲剧或荒谬，我们希望事情不同并不意味着我们有理由相信它们是不同的。因此，问题必须面对：实践论证只是理性化的心愿实现吗？
+
+上帝存在的道德论证可能以几种方式回应这种担忧。首先要说的是，如果宇宙的自然观点暗示宇宙必然是悲剧或荒谬的，那么这本身就是一个重要且有趣的结论。然而，除此之外，我们对所谓的背景认识情况的理解方式会产生很大的差异。如果一个人认为我们的理论证据支持无神论，那么似乎有道理认为即使世界具有这样的特征在实际上是不可取的，我们也应该坚持自然观点。在这种情况下，对宗教信仰的实际论证可以被视为一种心愿实现。然而，支持这种实际论证的人似乎并不是这样看待这种情况的。康德肯定了在《纯粹理性批判》中确立的理性限度将以“苏格拉底式的方式，即通过对反对者无知的最清晰证明”来消除对道德和宗教的所有异议。（1781年，1787年，30页。另见530-531页）实际上，情况实际上有利于有神论，因为康德认为理论理性在上帝的概念中看到了价值，尽管上帝的存在不能作为知识在理论上被肯定。如果我们诉诸于上帝的意愿来解释自然秩序中发生的事情，我们将削弱科学和宗教，因为在这种情况下，我们将不再寻求因果关系的经验证据，我们将把上帝变成自然界中的有限对象（1781年，1787年，562-563页）。然而，作为一个规范理念，上帝的概念是理论理性发现有用的：“作为宇宙的唯一原因的至高智慧的假设，即使只是在思想中，因此总是有益于理性，永远不会伤害它”（1781年，1787年，560页）。 有一种意义上，理论理性本身倾向于肯定上帝的存在，因为它必须假设现实是可以理性认识的：“如果一个人希望对世界实现系统性的认识，他应该将其视为由至高的理性所创造。”（康德1786年，298页）虽然理论理性不能肯定上帝的存在，但它认为将自然界视为如果上帝存在时所具有的特征是有用的。因此，如果对上帝的信仰有理性的根据来自实践理性，理论理性将不会提出异议。
+
+对于康德来说，基于实践理性的上帝信仰论证并不是一种心愿实现，因为它的基础不是任意的欲望或愿望，而是“与理性相关的真正需求”（康德，1786年，296页）。人类不仅仅是宇宙的理论旁观者，而是行动者。并不总是理性的，甚至有时不可能不采取行动，而行动又预设了关于事物本质的信念（关于康德在行动和信念之间关系的这种观点的一个很好的解释和辩护，请参见伍德1970年的著作，17-25页）。因此，在某些情况下，无法悬置判断。批评者可能会反对说，一个人可以假装p是真实的而不相信p。然而，目前尚不清楚是否总是能够遵循这种基于p的行动和相信p的区分的建议。首先，从经验上看，似乎有一种获取相信p的方式就是开始行动，就好像p是真实的一样。因此，开始行动，就好像p是真实的，至少是开始采取一系列行动，使得相信p更有可能。其次，可能存在一种“信念”的意义，即“行动就好像p是真实的”足以构成信念。这在实用主义关于信念的解释中显然是成立的。但即使是那些拒绝一般实用主义信念解释的人，对于宗教信仰可能也会发现类似的观点具有吸引力。许多宗教信徒认为衡量一个人的宗教信仰的最佳方式是根据其行动。因此，一个愿意根据宗教观念行动的人，尤其是如果这些行动是冒险或代价高昂的，就是真正的宗教信徒，即使这个人充满了怀疑和焦虑。这样的人很可能被认为比那些自鸣得意地“同意”宗教教义却不愿意行动的人更真实地相信。
+
+或许正确的方式是将实践道德论证视为不仅仅是在没有证据的情况下证明信仰的方式，而是将其视为改变被视为必要的证据量的方式。这是一些人从最近的认识论中广泛讨论的“实用侵占”现象中得出的教训。以下是实用侵占的一个例子：
+
+> 你：我正准备更换厨房的吊扇。
+> 配偶：你关掉了房子的主电源吗？
+> 你: 是的。
+> 配偶: 如果你忘记了，可能会触电。
+> 你: 我最好回去检查一下。
+> (见 McBrayer 2014 年，Rizzieri 2013 年)。
+
+这种情况的一个合理解释是，通常基于记忆的主张，像我所做的那样，是有理由的，并且被视为知识。然而，在这种情况下，风险增加了，因为我的生命处于危险之中，而我的知识丧失了，因为实用的情况已经“侵占”了对知识的正常以真理为导向的条件。实用侵占是有争议的，一些认识论者拒绝了这种侵占的想法。然而，辩护者认为，在考虑支持重大行动背后的信念的证据时，考虑实用的风险是合理的（见 Fantl 和 McGrath 2007 年）。如果这是正确的，那么在确定多少证据足以证明宗教信仰时，考虑实用的情况似乎是合理的。理论上，调整可以朝任何方向进行，这取决于错误所带来的代价以及这些代价位于哪一方。
+
+无论如何，实际道德论证是否总能清晰地与理论道德论证区分开来并不清楚。原因在于，在许多情况下，所描述的实际情况本身似乎是或涉及对所证明信仰的真实性的一种证据。以康德的经典论证为例。康德的论证之一是引起我们的注意，认为相信人类是受客观道德法则约束的道德生物，但同时相信人类所处的宇宙对道德漠不关心，这将是非常奇怪的。换句话说，将人类个体存在作为道德存在的理解本身可以被理解为关于人类所处宇宙特征的证据之一。彼得·伯恩（2013年，1998年）批评实际论证，认为它们假设了类似以下命题：“世界很可能被组织成满足我们最深层次的人类需求。”伯恩反对这个前提，认为如果没有上帝，这个前提很可能是错误的，因此假设它的论证显得循环。然而，并不清楚只有那些已经相信上帝的人才会觉得这个前提有吸引力。原因在于，人类本身是自然宇宙的一部分，而一个形而上学观点似乎应该解释（而不是解释掉）人类存在中看似真实而重要的特征。
+
+因此，任何对实践论证的呼吁都很可能包含一些理论成分，即使这些成分并不总是明确表达出来。然而，这并不意味着实践论证没有一些重要和独特的特点。对于康德来说，宗教信仰源于实践理性是很重要的。因为如果宗教信仰仅仅基于理论理性，那么这种信仰就必须符合“外在和武断的立法”。（康德 1790 年，131 页）康德认为这样的宗教将是一种基于“恐惧和屈服”的宗教，因此宗教信仰主要是由一个自由的道德行为所驱使的，这个行为向我们呈现了“我们存在的最终目标”。（1790 年，159 页）任何实践论证都使宗教信仰具有存在性；问题不仅仅是我对宇宙的真实看法，而是我将如何在宇宙中生活。
+
+## 7. 结论
+
+显然，道德论证的任何版本都不能构成对上帝存在的“证明”。每个版本都包含许多合理思考者拒绝接受的前提。然而，这并不意味着这些论证没有力量。可以将每个版本的论证视为试图阐明拒绝结论的“代价”。一些哲学家肯定愿意承担这个代价，并且确实有独立的理由这样做。然而，如果有人确信无神论要求他们完全拒绝道德现实主义，或者接受一个不合理的道德知识获取方式，那将是有趣且重要的。对于那些认为某些版本的论证具有力量的人来说，这些论证可能提升了对有神论信仰的累积案例。
+
+## Bibliography
+
+* Adams, R., 1987, “Moral Arguments for Theism,” in *The Virtue of Faith and Other Essays in Philosophical Theology*, New York: Oxford University Press, 144–163.
+* –––, 1999, *Finite and Infinite Goods*, New York: Oxford University Press.
+* Aquinas, St. Thomas, 1265–1274 [1948], *Summa Theologica*, New York: Benziger Brothers.
+* Baggett, D., and Walls, J., 2011, *Good God: The Theistic Foundations of Morality*, Oxford: Oxford University Press.
+* –––, 2016, *God and Cosmos: Moral Truth and Human Meaning*, Oxford: Oxford University Press.
+* –––, 2019, *The Moral Argument: A History*, Oxford: Oxford University Press.
+* Balfour, A., 1915, *Theism and Humanism*, London: Hodder and Stoughton.
+* Byrne, P., 2013, “Moral Arguments for the Existence of God,” *The Stanford Encyclopedia of Philosophy*, Spring 2013 Edition, Edward N. Zalta (ed.), URL = <[Moral Arguments for the Existence of God (Stanford Encyclopedia of Philosophy/Spring 2013 Edition)](https://plato.stanford.edu/archives/spr2013/entries/moral-arguments-god/)>.
+* –––, 1998, *The Moral Interpretation of Religion*, Edinburgh: Edinburgh University Press.
+* Davis, R. and Franks, W., 2015, “Counterpossibles and the ‘Terrible’ Divine Command Deity,” *Religious Studies*, 51(1): 1–19.
+* De Burgh, W. G., *From Morality to Religion: Being the Gifford Lectures, Delivered at the University of St. Andrews, 1938*, Port Washington, New York: Kennikat Press.
+* Dennett, D., 2006, *Breaking the Spell: Religion as a Natural Phenomenon*, New York: Penguin.
+* Devine, P., 1989, *Relativism, Nihilism, and God*, Notre Dame, IN: Notre Dame University Press.
+* Enoch, D., 2011, *Taking Morality Seriously: A Defense of Robust Realism*, Oxford: Oxford University Press.
+* Evans, C. S., 2010, *Natural Signs and Knowledge of God: A New Look at Theistic Arguments*, Oxford: Oxford University Press.
+* –––, 2013, *God and Moral Obligation*, Oxford: Oxford University Press.
+* –––, 2021, “Does Darwall’s Morality of Accountability Require Moral Realism? (And Would It Be Strengthened by Adding God to the Story?),” *Religions*, 12(3), first online 11 March 2021, doi:10.3390/rel12030187
+* Fantl, J., and McGrath, M., 2007, “On Pragmatic Encroachment in Epistemology,” *Philosophy and Phenomenological Research*, 75(3): 558–589.
+* Farrer, A., 2012, *Reflective Faith: Essays in Philosophical Theology*, Eugene, OR: Wipf & Stock.
+* Flannagan, M., 2017, “Robust Ethics and the Autonomy Thesis,” *Philosophia Christi*, 19(2): 345–362.
+* –––, 2021a, “The Psychopath Objection to Divine Command Theory: Another Reply to Erik Wielenberg,” *European Journal for Philosophy of Religion*, 13(3): 157–170.
+* –––, 2021, “Why the Horrendous Deeds Objection Is Still a Bad Argument,” *Sophia*, 61(2): 399–418.
+* Flew, A., 1976, *The Presumption of Atheism and Other Philosophical Essays on God, Freedom, and Immortality*, New York: Barnes and Noble.
+* Garcia, R., and King, N., 2009, *Is Goodness without God Good Enough?: A Debate on Faith, Secularism, and Ethics*, Lanham, MD: Rowman and Littlefield Press.
+* Hare, J., 1996, *The Moral Gap*, Oxford: Clarendon Press.
+* –––, 2009, *God and Morality: A Philosophical History*, Malden, MA: Blackwell.
+* –––, 2011, *Why Bother Being Good: The Place of God in the Moral Life*, Eugene, OR: Wipf and Stock.
+* –––, 2015, *God’s Command*, New York: Oxford University Press.
+* James, W., 1897 [1907], *The Will to Believe and Other Essays in Popular Philosophy*, New York: Longmans Green and Co.
+* Kahane, Guy, 2014, “Evolutionary Debunking Arguments,” *Noûs*, 45(1): 103–125.
+* Kant, I., 1781, 1787 [1965], *Critique of Pure Reason*, trans. Norman Kemp Smith, New York: Macmillan.
+* –––, 1785 [1964], *Groundwork of the Metaphysic of Morals*, trans H. J. Paton, New York: Harper and Row.
+* –––, 1786 [1949], *What Is Orientation in Thinking?* in *Critique of Practical Reason and Other Writings in Moral Philosophy*, Lewis White Beck (trans. and ed.), Chicago: University of Chicago Press.
+* –––, 1788 [1956], *Critique of Practical Reason*, trans. Lewis White Beck, Indianapolis, Indiana: Bobbs-Merrill.
+* –––, 1790 [1952], *Critique of Judgment*, trans. James Creed Meredith, Oxford: Clarendon Press.
+* Korsgaard, C., 1996, *The Sources of Normativity*, Cambridge: Cambridge University Press.
+* Layman, C. S., 2002, “God and the Moral Order,” *Faith and Philosophy* 19, 304–316.
+* Lewis, C. S., 1952, *Mere Christianity*. London: Collins.
+* Linville, M., 2009, “The Moral Argument,” in *The Blackwell Companion to Natural Theology*, first edition, W. L. Craig, J. P. Mooreland (eds.), West Sussex: Wiley-Blackwell.
+* Liu, X., 2016, “A Moral Reason to be a Mere Theist: Improving the Practical Argument,” *International Journal for Philosophy of Religion*, 79(2): 113–132.
+* Mackie, J., 1977, *Ethics: Inventing Right and Wrong*, Hammondsworth: Penguin.
+* Martin, M., 2002, *Atheism, Morality, and Meaning*, Amherst NY: Prometheus Books.
+* Matthews, W. R., 1921, *Studies in Christian Philosophy*, London: Macmillan.
+* Mavrodes, G., 1986, “Religion and the Queerness of Morality,” in *Rationality, Religious Belief, and Moral Commitment: New Essays in the Philosophy of Religion*, eds. Robert Audi and William J. Wainwright, Ithaca, NY: Cornell University Press, 213–226.
+* McBrayer, J., 2014, “Pragmatic Encroachment, Religious Belief, and Practice,” *Notre Dame Philosophical Reviews*, March 19.
+* Mill, J., 1874, *Nature, The Utility of Religion, and Theism*, Longmans, Green, Reader, and Dyer: London.
+* Morriston, W., 2009, “What if God Commanded Something Terrible? A Worry for Divine-command Meta-ethics,” *Religious Studies*, 45(3): 249–267.
+* Morriston, W., 2016, “‘Terrible’ Divine Commands Revisited: A Response to Davis and Franks,” *Religious Studies*, 52(3): 361–373.
+* Newman, J. H., 1870, *An Essay in Aid of a Grammar of Assent*, London: Burns, Oates, and Co.
+* Nietzsche, F., 1887 [2003], *The Genealogy of Morals*, translated by Horace Barnett Samuel, New York: Courier Dover Publications.
+* Oppy, G., 2014, *Best Argument Against God*, Hampshire: Palgrave Pivot.
+* Osborn, R., 2017, *Humanism and the Death of God: Searching for the Good After Darwin, Marx, and Nietzsche*, Oxford: Oxford University Press.
+* Owen, H. P., 1965, *The Moral Argument for Christian Theism*, London: George Allen and Unwin.
+* Plantinga, A., 2000, *Warranted Christian Belief*, New York: Oxford University Press.
+* Pringle-Pattison, A. S., *The Idea of God in Light of Recent Philosophy: The Gifford Lectures Delivered in the University of Aberdeen in the Years 1912 and 1913*, New York: Oxford University Press.
+* Pruss, A., 2009, “Another Step in Divine Command Dialectics,” *Faith and Philosophy*, 26: 432–439.
+* Quinn, P., 1978, *Divine Commands and Moral Requirements*, Oxford: Clarendon Press.
+* –––, 1979, “Divine Command Ethics: A Causal Theory,” in *Divine Command Morality: Historical and Contemporary Readings*, edited by Janine Idziak, New York: Edwin Mellen Press, 305–325.
+* Rashdall, H., 1920, “The Moral Argument for Personal Immortality,” in *King’s College Lectures on Immortality*, London: University of London Press.
+* Ritchie, A., 2012, *From Morality to Metaphysics: The Theistic Implications of our Ethical Commitments*, Oxford: Oxford University Press.
+* Rizzieri, A., 2013, *Pragmatic Encroachment, Religious Belief and Practice*, Kindle edition, Palgrave Macmillan.
+* Schellenberg, J. L., 1993, *Divine Hiddenness and Human Reason*, 1st edition, Ithaca: Cornell University Press.
+* Shafer-Landau, R., 2003, *Moral Realism: A Defense*, Oxford: Oxford University Press.
+* –––, 2012, “Evolutionary Debunking, Moral Realism and Moral Knowledge,” *Journal of Ethics and Social Philosophy*, 7(1): 1–37.
+* Sidgwick, H., 1884, *Methods of Ethics*, London: Macmillan and Co.
+* Sorley, W., 1918, *Moral Values and the Idea of God*, Cambridge: Cambridge University Press.
+* Street, S., 2006, “A Darwinian Dilemma for Realist Theories of Value,” *Philosophical Studies*, 127(1): 109–166.
+* Swinburne, R., 2004, *The Existence of God*, 2nd edition, Oxford: Oxford University Press.
+* Taylor, A. E., 1930, *The Faith of a Moralist*, London: Macmillan.
+* –––, 1945, *Does God Exist?*, London: Macmillan.
+* Webb, C., 2012, *Studies in the History of Natural Theology*, Oxford: Clarendon Press.
+* Wielenberg, E., 2005, *Value and Virtue in a Godless Universe*, Cambridge: Cambridge University Press.
+* –––, 2010, “On the Evolutionary Debunking of Morality,” *Ethics* 120(3): 441–464.
+* –––, 2014, *Robust Ethics: The Metaphysics and Epistemology of Godless Normative Realism*, Oxford: Oxford University Press.
+* –––, 2020, “Divine Command Theory and Psychopathy,” *Religious Studies* 56(4): 542–57.
+* Wolterstorff, N., 2007, *Justice: Rights and Wrongs*, Princeton: Princeton University Press.
+* Wood, A., 1970, *Kant’s Moral Religion*, Ithaca: Cornell University Press.
+* Zagzebski, L., 2004, “Does Ethics Need God?” *Faith and Philosophy*, 4: 294–303.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-arguments-god). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/moral-arguments-god/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=moral-arguments-god&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/moral-arguments-god/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* Byrne, Peter, “Moral Arguments for the Existence of God”, *Stanford Encyclopedia of Philosophy* (Spring 2013 Edition), Edward N. Zalta (ed.), URL = <[Moral Arguments for the Existence of God (Stanford Encyclopedia of Philosophy/Spring 2013 Edition)](https://plato.stanford.edu/archives/spr2013/entries/moral-arguments-god/)>. [This was the previous entry on moral arguments for the existence of God in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-arguments-god).]
+* [Divine Command Theory](http://www.iep.utm.edu/divine-c/), entry by Michael Austin, in the Internet Encyclopedia of Philosophy.
+
+## Related Entries
+
+[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Darwinism](https://plato.stanford.edu/entries/darwinism/) | [Kant, Immanuel: and Hume on morality](https://plato.stanford.edu/entries/kant-hume-morality/) | [Kant, Immanuel: philosophy of religion](https://plato.stanford.edu/entries/kant-religion/) | Mackie, John Leslie | [metaethics](https://plato.stanford.edu/entries/metaethics/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [moral anti-realism](https://plato.stanford.edu/entries/moral-anti-realism/) | [moral epistemology](https://plato.stanford.edu/entries/moral-epistemology/) | [moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/) | [moral realism](https://plato.stanford.edu/entries/moral-realism/) | [naturalism: moral](https://plato.stanford.edu/entries/naturalism-moral/) | [Nietzsche, Friedrich](https://plato.stanford.edu/entries/nietzsche/) | [Platonism: in metaphysics](https://plato.stanford.edu/entries/platonism/) | [pragmatic arguments and belief in God](https://plato.stanford.edu/entries/pragmatic-belief-god/) | [religious experience](https://plato.stanford.edu/entries/religious-experience/) | [Sidgwick, Henry](https://plato.stanford.edu/entries/sidgwick/) | [voluntarism, theological](https://plato.stanford.edu/entries/voluntarism-theological/)
+
+### Acknowledgments
+
+The authors wish to thank Trent Dougherty and Mark Linville for reading a draft of this essay and making many useful suggestions. Matthew Wilson also deserves thanks for tracking many bibliographical references and page numbers.
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+[C. Stephen Evans](http://www.baylor.edu/philosophy/index.php?id=871791) <[*C_Stephen_Evans@baylor.edu*](mailto:C_Stephen_Evans%40baylor%2eedu)>  
+David Baggett <[*dbaggett@hbu.edu*](mailto:dbaggett%40hbu%2eedu)>
