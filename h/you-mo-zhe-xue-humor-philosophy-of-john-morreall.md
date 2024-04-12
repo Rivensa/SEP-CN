@@ -1,2 +1,425 @@
 # 幽默哲学 humor, philosophy of (John Morreall)
 
+*首次发表于2012年11月20日；实质性修订于2020年8月20日*
+
+虽然大多数人都重视幽默，但哲学家对此几乎没有多少论述，而且他们所说的大多是批评的。本文探讨了三种传统的笑声和幽默理论，以及幽默起源于猿类的模拟攻击性游戏的理论。将幽默理解为游戏有助于克服对其的传统反对意见，并揭示出它与哲学本身共享的一些好处。
+
+* [1. 幽默的坏名声](https://plato.stanford.edu/entries/humor/#HumBadRep)
+* [2. 优越性理论](https://plato.stanford.edu/entries/humor/#SupThe)
+* [3. 幽默哲学的解脱理论](https://plato.stanford.edu/entries/humor/#RelThe)
+* [4. 幽默哲学的不协调理论](https://plato.stanford.edu/entries/humor/#IncThe)
+* [5. 幽默作为游戏，笑声作为游戏信号](https://plato.stanford.edu/entries/humor/#HumPlaLauPlaSig)
+* [ 6. 幽默哲学](https://plato.stanford.edu/entries/humor/#Com)
+* [ 参考书目](https://plato.stanford.edu/entries/humor/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/humor/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/humor/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/humor/#Rel)
+
+---
+
+## 1. 幽默的坏名声
+
+When people are asked what’s important in their lives, they often mention humor. Couples listing the traits they prize in their spouses usually put “sense of humor” at or near the top. Philosophers are concerned with what is important in life, so two things are surprising about what they have said about humor.
+
+The first is how little they have said. From ancient times to the 20th century, the most that any notable philosopher wrote about laughter or humor was an essay, and only a few lesser-known thinkers such as Frances Hutcheson and James Beattie wrote that much. The word *humor* was not used in its current sense of funniness until the 18th century, we should note, and so traditional discussions were about laughter or comedy. The most that major philosophers like Plato, Hobbes, and Kant wrote about laughter or humor was a few paragraphs within a discussion of another topic. Henri Bergson’s 1900 *Laughter* was the first book by a notable philosopher on humor. Martian anthropologists comparing the amount of philosophical writing on humor with what has been written on, say, justice, or even on Rawls’ Veil of Ignorance, might well conclude that humor could be left out of human life without much loss.
+
+第二个令人惊讶的事情是，大多数哲学家对幽默持负面评价。从古希腊到 20 世纪，关于笑和幽默的哲学评论大多集中在嘲笑或嘲弄的笑声上，或者是压倒人们的笑声，而不是喜剧、机智或开玩笑。柏拉图，作为最有影响力的对笑声的批评家，将笑声视为一种超越理性自控的情感。在《理想国》（*388e）中，他说国家的守护者应该避免笑声，“因为通常当一个人沉溺于狂笑时，他的状态会引发强烈的反应。”对柏拉图来说，特别令人不安的是《伊利亚特》和《奥德赛》中提到奥林匹斯山响起众神的笑声的段落。他抗议说，“如果有人把有价值的人描绘成被笑声压倒，我们不能接受，尤其是如果是神明。”
+
+柏拉图对笑声的另一个反对意见是它是恶意的。在《费勒布斯》（48-50）中，他将喜剧的享受解释为一种嘲笑形式。“总的来说，”他说，“可笑是一种特定的邪恶，具体来说是一种恶习。”那种恶习是自我无知：我们嘲笑的人想象自己比他们实际上更富有、更好看或更有德行。在嘲笑他们时，我们对某种邪恶——他们的自我无知——感到愉悦，而这种恶意是道德上可厌恶的。
+
+由于对笑声和幽默的这些反对意见，柏拉图说在理想的国家中，喜剧应该受到严格控制。“我们将命令这些表演留给奴隶或雇佣的外国人，不给予任何认真考虑。不论是女人还是男人，都不应该发现他们在学习。”“不允许任何喜剧、短诗或抒情诗的作曲家通过言辞、姿态、激情或其他方式让任何公民发笑”（《法律》7：816e；11：935e）。
+
+柏拉图之后的希腊思想家对笑声和幽默也有类似的负面评价。虽然亚里士多德认为机智是对话的宝贵组成部分（Nicomachean Ethics 4, 8），但他同意柏拉图的观点，即笑声表达了蔑视之情。他在《修辞学》（2, 12）中说，机智是受过教育的傲慢。在《Nicomachean Ethics》（4, 8）中，他警告说：“大多数人比他们应该的更喜欢娱乐和戏谑……戏谑是一种嘲弄，立法者禁止某些种类的嘲弄——也许他们应该禁止某些种类的戏谑。”斯多亚派强调自我控制，同意柏拉图的观点，认为笑声会削弱自我控制。埃比克泰德的《手册》（33）建议：“不要让你的笑声大声、频繁或不受限制。”他的追随者说他从不笑。
+
+这些对笑声和幽默的反对意见影响了早期基督教思想家，以及后来的欧洲文化。这些观点在圣经中对笑声和幽默的负面描绘中得到了强化，其中绝大多数与敌意有关。圣经中唯一描述上帝笑的方式是带有敌意的：
+
+> 地上的君王一同起来，统治者一同商议，反对上主和他的受傅者……上主坐在天上嗤笑他们，他以怒气责备他们，以愤怒威胁他们（诗篇 2:2–5）。
+
+圣经中的上帝代言人是先知们，对于他们来说，笑声也表达了敌意。例如，在上帝的先知以利亚和巴力的 450 个先知之间的竞争中，以利亚嘲笑他们的神无能，然后让他们被杀（列王纪上 18:21-27）。在圣经中，嘲笑是如此冒犯，以至于可能值得死刑，就像一群孩子嘲笑先知以利沙的秃头一样：
+
+> 他从那里上伯特利去的路上，有几个小童子从城里出来，戏弄他，说：“秃头的上去吧！秃头的上去吧！”他回头看见，就奉耶和华的名咒诅他们；于是有两个母熊从林中出来，撕裂他们中间四十二个童子（列王纪下 2:23）。
+
+将圣经中对笑声的负面评价与希腊哲学的批评结合起来，早期基督教领袖如安博罗斯、耶罗尼莫、巴西尔、以弗所和约翰·克里索斯多姆警告人们不要过度笑或一般地笑。有时，他们批评的是人失去自我控制的笑声。例如，在他的《长规》中，巴西尔大帝写道：“喧闹的笑声和身体不受控制的颤抖并不是一个有规律的灵魂、个人尊严或自我掌控的表现”（引自瓦格纳 1962 年，271 页）。其他时候，他们将笑声与懒散、不负责任、欲望或愤怒联系在一起。例如，约翰·克里索斯多姆警告说
+
+> 笑声常常引发恶言恶语，而恶言恶语又引发更加恶劣的行为。往往从言语和笑声中产生嘲讽和侮辱；从嘲讽和侮辱中产生打击和伤害；从打击和伤害中产生屠杀和谋杀。因此，如果你想为自己谋福祉，不仅要避免恶言恶行、打击和伤害以及屠杀和谋杀，还要避免不合时宜的笑声本身（在 Schaff 1889, 442 中）。
+
+毫不奇怪，最强调自我控制的基督教机构——修道院——对笑声的谴责是严厉的。早期的一个修道院派别，埃及的巴科姆禁止开玩笑（Adkin 1985, 151–152）。最有影响力的修道院规则，圣本笃的规则，建议修道士“在言谈中保持适度，不说愚蠢的闲话，不做令人发笑的事情；不要喜欢过度或喧闹的笑声。”在本笃的谦卑阶梯中，第十步是对笑声的克制，第十一步是对开玩笑的警告（Gilhus 1997, 65）。圣哥伦巴努斯修道院有以下惩罚：“在仪式中微笑的人……受到六次鞭打；如果他爆发出大笑声，除非是可以原谅的，否则要进行特殊的禁食”（Resnick 1987, 95）。
+
+在中世纪，基督教欧洲对笑声和幽默的拒绝一直延续下去，无论改革者改革了什么，都没有包括对幽默的传统评估。最强烈的谴责来自清教徒，他们写了反对笑声和喜剧的小册子。威廉·普林恩（1633 年）的一本书长达 1100 多页，声称喜剧“是罪恶的、异教的、淫秽的、邪恶的景象，是最有害的腐败；在所有时代都被谴责，作为对教堂、共和国、人们的品行、思想和灵魂不可容忍的祸害。”它鼓励基督徒过着庄重、认真的生活，不要“对纯粹淫秽的虚荣心过度地感到高兴，或者在放荡无恩的人们的公众视野中过度地大笑。”当清教徒在 17 世纪中叶统治英格兰时，他们禁止了喜剧。
+
+同时，托马斯·霍布斯和勒内·笛卡尔加强了对笑声的哲学论证。霍布斯的《利维坦》（1651 [1982]）将人类描述为天生的个人主义和竞争主义者。这使我们警觉地寻找我们正在赢或输的迹象。前者让我们感觉良好，后者让我们感觉糟糕。如果我们对一些显示我们优越性的迹象的感知迅速到来，我们的良好感觉很可能会转化为笑声。在第一部分第 6 章中，他写道
+
+> 突如其来的荣耀，是那些被称为笑声的怪异表情所引起的激情；它要么是由于他们自己的突然行为使他们感到愉悦，要么是由于对他人的某种畸形事物的理解，通过与之相比较，他们突然对自己表示赞赏。这主要发生在那些意识到自己能力最少的人身上；他们被迫通过观察他人的缺点来保持自己的优势。因此，对他人的缺陷大笑，是懦弱的表现。因为伟大的心灵之一的适当工作是帮助和解放他人免受嘲笑，并仅与最有能力的人进行比较。
+
+在同一时期，笛卡尔的《灵魂的激情》中也有关于笑声的类似解释。他说笑声伴随着六种基本情感中的三种——惊奇、爱（轻微的仇恨）、欲望、喜悦和悲伤。尽管承认笑声的原因不仅仅是仇恨，但在本书的第三部分“特殊激情”中，他只将笑声视为蔑视和嘲笑的表达。
+
+> 嘲笑或蔑视是一种与仇恨混合的喜悦，它源于我们察觉到某个我们认为应该受到惩罚的人身上的一些小恶；我们对这个恶感到仇恨，我们对看到它发生在那个应该受到惩罚的人身上感到喜悦；当这突然发生时，惊奇的惊讶是我们爆发笑声的原因...我们注意到，那些有明显缺陷的人，比如跛脚、瞎眼、驼背，或者受到公开侮辱的人，特别喜欢嘲笑；因为他们希望看到所有其他人都像他们一样被低估，他们对那些降临在他们身上的灾祸感到真正的高兴，并认为他们应该受到这些灾祸的惩罚（第 178-179 条）。
+
+## 2. 幽默哲学
+
+通过霍布斯和笛卡尔的这些评论，我们得到了一个粗略的心理理论，阐述了从柏拉图和圣经开始并在西方思想中主导了两千年的对笑声的看法。在 20 世纪，这个观点被称为优越性理论。简单来说，我们的笑声表达了对他人或自己以前的状态的优越感。这个理论的当代支持者是罗杰·斯克鲁顿，他将娱乐解释为对一个人或与一个人有关的事物的“专注拆解”。斯克鲁顿说：“如果人们不喜欢被嘲笑，那肯定是因为笑声贬低了主体眼中的对象”（摘自 Morreall 1987, 168）。
+
+在 18 世纪，优越性理论的主导地位开始削弱，当弗朗西斯·哈奇森（1750）批评霍布斯对笑声的解释时。哈奇森认为，优越感既不是笑声的必要条件，也不是充分条件。当我们嘲笑时，我们可能并不是在与任何人进行比较，就像我们嘲笑这首关于日出的诗中的奇怪的修辞手法一样：
+
+> The sun, long since, had in the lap
+> Of Thetis taken out his nap;
+> And like a lobster boil’d, the morn
+> 从黑色转向红色开始。
+
+如果自我比较和突然的荣耀对于笑声来说并非必要，那么它们也不足以引发笑声。哈奇森说，我们可以感觉自己比低等动物优越，但并不会笑，而且“狗和猴子的一些巧妙之处，接近我们自己的一些艺术，往往使我们快乐；而它们在我们之下的愚蠢行为则一点也不好笑。”他还举了一些同情的例子。例如，一个坐在马车里看到街上的乞丐的绅士会觉得自己比他们过得好，但这种感觉不太可能逗乐他。在这种情况下，“我们更容易哭泣而不是笑。”
+
+对于这些对“优越理论”的反例，我们还可以补充更多。有时候，当一个喜剧角色展示出我们所缺乏的令人惊讶的技能时，我们会笑。在查理·卓别林、哈罗德·劳埃德和巴斯特·基顿的无声电影中，主人公经常陷入看似注定要失败的境地。但是然后他用一个聪明的杂技绝技逃脱了，而我们自己既没有想到，也无法完成这样的动作。笑这样的场景似乎并不需要我们将自己与主人公进行比较；而且如果我们确实进行了这样的比较，我们也不会觉得自己优越。
+
+至少有些人也会嘲笑自己——不是嘲笑他们以前的状态，而是嘲笑现在发生的事情。如果我四处寻找我的眼镜，最后发现它们在我的头上，优越理论似乎无法解释我对自己的笑声。
+
+虽然这些例子涉及到我们可能与之相比较的人，但还有其他一些情况下的笑声，似乎没有涉及个人的比较。在 Lambert Deckers（1993）的实验中，被试被要求举起一系列表面上相同的重物。前几个重物都是相同的，这加强了剩下的重物也是相同的预期。但是然后被试拿起了一个比其他重物重得多或轻得多的重物。大多数人笑了，但显然不是出于霍布斯式的“突然的荣耀”，也显然没有与任何人进行比较。
+
+## 3. 解脱理论
+
+在 18 世纪，进一步削弱了优越理论的主导地位的是两种新的笑声解释，现在被称为解脱理论和不协调理论。两者都没有提到优越感。
+
+解脱理论是一种液压解释，其中笑声在神经系统中起到了压力释放阀在蒸汽锅炉中的作用。该理论最早出现在沙夫茨伯里勋爵于 1709 年发表的论文《关于机智和幽默自由的一篇论文》中，这是第一次以现代意义上的有趣来使用幽默一词。当时的科学家知道神经将大脑与感觉器官和肌肉连接在一起，但他们认为神经传递的是“动物精神”——气体和液体，如空气和血液。例如，约翰·洛克（1690 年，第 3 卷，第 9 章，第 16 段）将动物精神描述为“通过神经的导管传递的流体和细小物质”。
+
+沙夫茨伯里的解释是，笑声释放了在神经内积聚的动物精神的压力。
+
+> 机智人的自然自由精神，如果被囚禁或受控，将会找到其他方式来缓解自己的束缚；无论是滑稽、模仿还是小丑表演，他们都会乐意发泄自己，并对束缚者进行报复。
+
+在接下来的两个世纪里，随着神经系统的进一步理解，赫伯特·斯宾塞和西格蒙德·弗洛伊德等思想家修订了解脱理论背后的生物学观点，但保留了笑声能够释放积压的神经能量的观念。
+
+斯宾塞在他的论文《笑声的生理学》（1911 年）中解释道，情绪会以神经能量的形式表现出来。他说，神经能量“总是倾向于产生肌肉运动，并且当它达到一定强度时，总是会产生肌肉运动”（299 页）。“情感达到一定程度时，通常会通过身体行动来发泄”（302 页）。例如，当我们生气时，神经能量会产生一些小的攻击性动作，比如握紧拳头；如果能量达到一定水平，我们会攻击冒犯我们的人。在恐惧中，能量会产生一些小规模的准备逃跑的动作；如果恐惧变得足够强烈，我们会逃跑。因此，与情绪相关的动作会释放或释放积累的神经能量。
+
+笑声也释放了紧张能量，斯宾塞说，但有一个重要的区别：笑声中的肌肉运动不是攻击或逃跑等更大实际行动的早期阶段。与情绪不同，笑声不涉及任何行动的动机。斯宾塞说，笑声的运动“没有对象”（303）：它们只是紧张能量的释放。
+
+根据斯宾塞的说法，通过笑声缓解的紧张能量是被认为不合适的情绪的能量。考虑一下哈里·格雷厄姆（2009）的这首诗《浪费》：
+
+> 我曾写信给莫德阿姨
+> 在国外旅行的人
+> 当我听说她死于抽筋时，
+> 只是为了节省邮票而太晚了。
+
+读完前三行，我们可能会为写这首诗的丧侄感到遗憾。但是最后一行让我们重新解释那些句子。他不是一个哀悼中的爱侄子，而是一个冷酷吝啬的人。所以我们的同情的紧张能量，现在变得多余，通过笑声释放出来。斯宾塞说，这种释放首先发生在“最常刺激感觉的肌肉”，也就是声道肌肉。如果还需要释放更多能量，它会溢出到与呼吸有关的肌肉，如果这些肌肉的运动不能释放所有能量，剩余的能量会转移到手臂、腿部和其他肌肉群体上（304）。
+
+在 20 世纪，约翰·杜威（1894: 558–559）提出了一种类似的解脱理论。他说，笑声“标志着一段悬念或期望的结束”。它是一种“通过呼吸和声音装置的媒介而发生的突然放松紧张的现象……笑声因此是一种与宽慰的叹息相同类型的现象。”
+
+比肖夫斯伯里、斯宾塞和杜威的解脱理论版本更为人所熟知的是西格蒙德·弗洛伊德的版本。在他的《笑话与无意识的关系》（1905 [1974]）中，弗洛伊德分析了三种笑声情境：der Witz（通常翻译为“笑话”或“开玩笑”）、“喜剧”和“幽默”。在这三种情况下，笑声释放了为心理任务而召唤的紧张能量，但随后因为任务被放弃而变得多余。在 der Witz 中，多余的能量是用于压抑感情的能量；在喜剧中，它是用于思考的能量；而在幽默中，它是用于感受情绪的能量。（在本文中，我们没有使用弗洛伊德狭义上的幽默，而是使用包括开玩笑、机智、喜剧等在内的广义幽默概念。）
+
+幽默哲学包括讲述准备好的虚构笑话，做出即兴的机智评论和回应。弗洛伊德说，在幽默哲学中，释放的心理能量是原本会压抑的情绪，当人们笑的时候，这些情绪就得到了表达。（弗洛伊德关于笑话的理论的大多数摘要错误地将笑声描述为压抑情绪本身的释放。）根据弗洛伊德的说法，最受压抑的情绪是性欲和敌意，所以大多数笑话和机智的评论都是关于性、敌意或两者兼有的。当我们讲一个性笑话或听一个性笑话时，我们绕过了内部审查员，发泄了我们的性欲。同样地，当我们讲或听一个贬低我们不喜欢的个人或群体的笑话时，我们发泄了通常会压抑的敌意。在这两种情况下，通常用于压抑的心理能量变得多余，并以笑声的形式释放出来。
+
+弗洛伊德的第二种笑声情境“喜剧”涉及到一种类似的能量释放，这种能量被召唤出来，但后来发现是不必要的。在这里，它是通常用于思考的能量。一个例子是对小丑笨拙动作的笑声。当我们看着小丑踉跄而过，而我们自己会平稳高效地完成的动作时，我们节省了理解小丑动作所需的能量。在这里，弗洛伊德提出了“模仿表现”的理论，我们为了理解大事物而消耗大量能量，而为了理解小事物而消耗少量能量。弗洛伊德说，我们对小丑笨拙动作的心理表征需要比我们为了表征自己平稳高效的动作所消耗的能量更多。我们对小丑的笑声是我们发泄那种多余能量的方式。
+
+> 我想象中的这两种可能性相当于观察到的动作和我自己之间的比较。如果对方的动作夸张且不合适，那么为了理解它，我增加的努力会在形成过程中受到抑制，就像在被动员的行动中；它被宣布为多余的，并且可以在其他地方或者通过笑声来使用或释放（弗洛伊德 1905 [1974]，254）。
+
+弗洛伊德分析了第三种笑声情境，他称之为“幽默”，就像斯宾塞一般分析笑声一样。幽默发生在“如果有一种情况，根据我们通常的习惯，我们应该被诱使释放一种令人痛苦的情感，而此时有动机作用于我们，抑制了这种情感的形成过程…… 幽默的快乐……是通过节省情感的消耗而产生的：它是在情感的支出上的一种经济”（293）。他的例子是马克·吐温讲的一个故事，故事中他的兄弟正在修路时，一颗炸药提前爆炸，把他炸得高高飞起。当这个可怜的人从工地远处落下时，他因“不在工作地点”而被扣除半天的工资。弗洛伊德对我们对这个故事的笑声的解释类似于上面对格雷厄姆的关于小气侄子的诗的解释。他说，我们笑这个故事时，我们释放了我们本来为吐温的兄弟感到同情而召唤的心理能量，但当我们听到奇幻的结尾时，这种能量变得多余。“由于这种理解，已经准备好的同情的消耗变得无法利用，我们通过笑声将其消解掉”（295）。
+
+在勾勒出几个版本的解脱理论之后，我们可以注意到，今天几乎没有哲学或心理学领域的学者将笑声或幽默解释为释放紧张能量的过程。当然，笑声和能量消耗之间存在联系。热烈的笑声涉及许多肌肉群和几个神经系统区域。大笑也会让我们的肺部得到锻炼，因为我们吸入的氧气比平常多得多。但是，很少有当代学者支持斯宾塞和弗洛伊德的观点，即笑声中消耗的能量是情感的能量、压抑情感的能量或思考的能量，这些能量已经积累起来并需要宣泄。
+
+有趣的事物和情境可能引发情绪，但许多情况似乎并非如此。考虑 P·G·伍德豪斯的一句话：“如果可行，让我们去做。”或者是斯特里克兰德·吉利兰（1927 年）创作的英语中最短的诗：“关于微生物的古老之处”：
+
+> 亚当
+> 幽默哲学。
+
+这些似乎并不释放我们阅读之前积压的情绪，也不似乎唤起情绪然后使其变得多余。因此，笑对它们的消耗的能量似乎并不是多余的能量被释放。事实上，基于解脱理论的整个神经系统的液压模型似乎已经过时了。
+
+弗洛伊德在这个液压模型的基础上增加了几个可疑的主张，这些主张源自他对心灵的一般精神分析理论。他说，der Witz（笑话和机智的评论）的创作是一种将被压抑的思想和感情引入意识的无意识过程。这一主张似乎被专业幽默家们用有意识的策略创作笑话和漫画的事实所证伪。弗洛伊德关于笑话讲述中心理能量如何被释放的描述也是可疑的，尤其是他声称心理能量的包被召唤来压抑思想和感情，但在形成过程中变得多余。如果弗洛伊德正确，那么在笑话中释放的能量应该是通常用于压抑敌对和性感情的能量，那么最喜欢侵略性和性感笑话的人应该是那些通常压抑这些感情的人。但是，汉斯·尤尔根·艾森克（Hans Jürgen Eysenck）关于笑话偏好的研究（1972 年，xvi）表明，最喜欢侵略性和性感幽默的人并不是那些通常压抑敌对和性感情的人，而是那些表达这些情感的人。
+
+弗洛伊德对“喜剧”的描述仍然存在更多问题，特别是他对“模仿表现”的理念。他说，节省下来的心理能量是为了理解某件事情而召唤的能量，比如小丑的滑稽动作。我们召唤了一大包能量来理解小丑的大动作，但在召唤的同时，我们将其与理解我们自己在做同样事情时所需的小包能量进行比较。这两个包的差异是通过笑声释放的多余能量。弗洛伊德在这里对思考的描述是独特的，并且有着奇怪的含义，比如，思考游泳英吉利海峡需要比思考舔邮票消耗更多的能量。鉴于所有这些困难，不足为奇的是，今天研究幽默的哲学家和心理学家不借助弗洛伊德的理论来解释笑声或幽默。更一般地说，解脱理论很少被用作解释笑声或幽默的一般性理论。
+
+## 4. 不协调理论
+
+18 世纪出现的第二种幽默理论是不协调理论，它挑战了优越性理论。优越性理论认为笑声的原因是优越感，解脱理论认为是紧张能量的释放，而不协调理论认为是对某种不协调的感知，即违反我们的心理模式和期望的事物。詹姆斯·比蒂、伊曼努尔·康德、亚瑟·叔本华、苏伦·基尔凯郭尔等许多后来的哲学家和心理学家都采取了这种方法。它现在是哲学和心理学中主导的幽默理论。
+
+虽然亚里士多德没有使用“不协调”这个术语，但他暗示这是至少一些幽默的基础。在《修辞学》（3, 2）中，这是一本演讲者手册，他说演讲者引发观众笑声的一种方式是制造观众的期望然后违背它。作为例子，他引用了一部喜剧中的这句台词：“当他走路时，他的脚下是冻疮[脚上的疮痛]。”他指出，依赖于拼写变化或文字游戏的笑话可以产生相同的效果。西塞罗在《演说家》（第 63 章）中说：“最常见的笑话是我们期望一件事情，却说出了另一件事情；我们自己失望的期望让我们笑了起来。”
+
+这种开玩笑的方法与今天的单口喜剧演员的技巧相似。他们谈论设定和笑点。设定是笑话的第一部分：它制造了期望。笑点是违背了那个期望的最后一部分。用不协调理论的语言来说，笑话的结尾与开头是不协调的。
+
+第一个使用“不协调”一词来分析幽默的哲学家是詹姆斯·比蒂（1779 年）。他说，当我们看到有趣的事情时，我们的笑声“总是源于在心中激发的某种情感或情绪，因为某些对象或思想被呈现给它”（304）。我们的笑声“似乎源于将不协调的事物联合在同一组合中”（318）。幽默笑声的原因是“两个或更多不一致、不合适或不协调的部分或情况，被视为一个复杂的对象或组合，从心智注意到它们的独特方式中获得一种相互关系”（320）。
+
+康德（1790 [1911]，第一部分，第 54 节），与比蒂同时代的人，没有使用不协调这个术语，但对笑话和机智的笑声有一个涉及不协调的解释。
+
+> 在一切能引起活泼的抽搐笑声的事物中，必须有一些荒谬的东西（因此，理解无法得到满足）。笑声是一种情感，起因于对紧张期望的突然转变为虚无。这种转变对理解来说肯定不令人愉快，但间接地给予它非常活跃的享受片刻。因此，它的原因必须在于表现对身体的影响，以及这种影响对心灵的反射作用。
+
+康德用这个故事来说明：
+
+> 在苏拉特的一位英国人的餐桌上，一个印度人看到一瓶啤酒打开后，所有的啤酒都变成了泡沫并溢出来，他用许多感叹来表达他的惊讶。当英国人问他：“这有什么让你如此惊讶的？”他回答说：“我一点也不惊讶它会流出来，但我确实想知道你是怎么把它装进去的。”
+
+康德说，我们笑这个故事，“不是因为我们认为自己比这个无知的人聪明，也不是因为其中有什么让我们满意的东西，而是因为我们的期望被拉紧了（一段时间），然后突然消散成了无。”
+
+康德坚持说：“我们必须注意”，我们的期望不会转变为预期对象的正面相反……而是必须转变为无。“他用另外两个笑话来说明：
+
+> 一个富有亲戚的继承人希望举办一场盛大的葬礼，但他悲叹自己无法成功；“因为”（他说）“我给予悲伤的丧礼者越多的钱，他们看起来越开心！”
+>
+> 一位商人带着他所有的财富（商品）从印度返回欧洲...在一场狂风暴雨中被迫将其抛入海中...他为此感到非常悲伤，以至于他的假发在同一晚变成了灰色。”
+
+笑话通过唤起、转移和消散我们的思维来逗乐我们，但我们并不通过这些思维上的体操学到任何东西。根据康德的观点，幽默通常并不能让我们的理性获得任何有价值的东西。然而，思维的碰撞会引起我们内脏器官的物理碰撞，我们享受那种身体上的刺激。
+
+> 如果我们承认我们所有的思想都与身体器官的运动和谐地结合在一起，我们将很容易理解，思维的这种突然转换，从一个立场到另一个立场以便思考其对象，可能对应着我们肠道弹性部分的交替张紧和放松，这种张紧和放松会传递给膈肌（就像容易发痒的人感受到的那样）。与此同时，肺部以快速连续的间隔排出空气，从而产生对健康有益的运动；这种运动，而不是在思维中之前的东西，才是底层代表无意义的思想中的满足的真正原因。
+
+在这一点上，康德将开玩笑和机智的享受比作赌博和音乐的享受。在这三种情况下，快乐来自于思维中的观念转变所引起的“感觉的自由变化的游戏”。在赌博中，“命运的游戏”引起身体的兴奋；在音乐中，是“音调的游戏”，而在开玩笑中，是“思想的游戏”。在一个活跃的赌博游戏中，“希望、恐惧、喜悦、愤怒、嘲笑的情感被激发起来……每一刻都在交替；它们是如此生动，以至于通过它们，就像一种内部运动一样，似乎促进了身体的所有生命过程。”同样地，在音乐和幽默中，我们所享受的是由于快速转变的思想引起的身体变化。
+
+> 音乐和引起笑声的东西是两种不同类型的对美学观念的游戏，或者说是通过理解的表现，最终没有任何思考的东西，仅仅通过它们的变化就能带来活泼的满足。因此，我们很清楚地认识到，在这两种情况下，活力仅仅是身体的，尽管它是由思想激发的；而与所讨论的游戏相对应的肠道运动所产生的健康感，构成了整个欢乐派对的满足。
+
+一种比康德版本更具哲学意义的不协调理论版本是亚瑟·叔本华的版本（1818/1844 [1907]）。康德认为幽默的不协调在于我们的期望与经验之间的不匹配，而叔本华认为幽默的不协调在于我们对事物的感知和对同一事物的抽象理性知识之间的不匹配。我们感知到具有许多属性的独特个体事物。但当我们将感知归类为抽象概念时，我们只关注任何个体事物的一个或几个属性。因此，我们将完全不同的事物归为一个概念和一个词。例如，想象一下吉娃娃和圣伯纳德犬被归类为狗。对于叔本华来说，当我们突然注意到一个概念和一个感知之间的不协调时，幽默就产生了，而这些概念和感知应该是关于同一事物的。
+
+> 许多人类行为只能在理性和思考的帮助下完成，然而有些行为在没有理性的帮助下更好地完成。感性和抽象知识的这种不协调，使得后者总是仅仅接近前者，就像马赛克接近绘画一样，这是一种非常显著的现象，它像理性本身一样，是人性特有的，对于这种现象的解释一直都不够充分：我指的是笑……。笑声的原因在每种情况下都只是突然察觉到一个概念与通过它思考的真实对象之间的不协调，而笑声本身就是对这种不协调的表达（1818/1844 [1907]，第一册，第 13 节）。
+
+作为一个例子，叔本华讲述了监狱看守允许一个囚犯和他们一起玩牌，但当他们发现他作弊时，他们把他踢了出去。他评论道：“他们让自己被普遍观念‘坏伴侣被赶出去’所引导，并忘记他也是一个囚犯，也就是说，他们应该抓住他”（第一册补充：第 8 章）。他还评论了一个奥地利笑话（相当于几十年前美国的波兰笑话）：
+
+> 当有人宣称他喜欢独自散步时，一个奥地利人对他说：“你喜欢独自散步；我也是：所以我们可以一起去。”他从观念“两个人喜欢的乐趣可以共同享受”出发，并将排除共同性的情况归入其中。
+
+创造这样的笑话需要有能力想出一个抽象的概念，可以将非常不同的事物归入其中。叔本华说，机智“完全在于找到每个出现的对象都可以被思考的一个概念，尽管它与所有其他归入这个概念的对象非常不同”（第一册补充，第 8 章）。
+
+基于抽象思想与现实事物之间的差异的幽默理论，叔本华解释了被嘲笑的冒犯性，这种嘲笑是优越性理论的核心。
+
+> 其他人对我们所做或所说的笑声严重冒犯我们的原因在于它断言我们的概念与客观现实之间存在巨大的不协调。出于同样的原因，“荒谬”或“荒唐”的形容词是侮辱性的。嘲笑的轻蔑之笑向困惑的对手宣告，他所珍视的概念与现实之间是多么不协调（第一册补充，第 8 章）。
+
+叔本华的理论也解释了幽默的乐趣。
+
+> 在所感知和所思之间突然出现的冲突中，所感知的总是毫无疑问地正确的；因为它根本不会出错，不需要外部的确认，而是自我回答。...感知对思维的胜利给我们带来了快乐。因为感知是与动物本性密不可分的原始知识形式，在其中一切直接满足意愿的东西都呈现出来。它是现在的媒介，享受和快乐的媒介；而且它不需要努力。思考则恰恰相反：它是知识的第二个力量，其运用总是需要一些，而且经常需要相当大的努力。此外，思维的概念往往反对我们即时欲望的满足，因为作为过去、未来和严肃的媒介，它们是我们恐惧、悔恨和所有烦恼的载体。因此，看到这个严格、不知疲倦、麻烦的女家庭教师——理性——一次被证明是不足够的，对我们来说肯定是有趣的。因此，笑声的神情或外貌与喜悦的神情或外貌非常相似（第一册补充，第 8 章）。
+
+像叔本华一样，索伦·基尔克戈尔也认为幽默是基于不协调的，并且在哲学上具有重要意义。在他对“存在的三个领域”（生活的三个存在阶段——审美、伦理和宗教）的讨论中，他讨论了幽默及其近亲讽刺。讽刺标志着审美和伦理领域之间的界限，而幽默则标志着伦理和宗教领域之间的界限。“幽默是信仰之前存在意识的最后阶段”（1846 [1941]，448，259）。他说，具有宗教生活观的人很可能培养幽默感，而基督教是世界历史上最幽默的生活观（[JP]，条目 1681-1682）。
+
+幽默哲学（Kierkegaard，1846 [1941]，459-468）将幽默的本质，他称之为“滑稽”，定位于期望与经历之间的差异，尽管他没有称之为“不协调”，而是称之为“矛盾”。例如，“错误是滑稽的，所有的错误都可以通过涉及的矛盾来解释。”他引用了一个面包师傅对乞讨妇人说的故事：“不，妈妈，我不能给你任何东西。最近还有一个人来过，我也没有给他任何东西：我们不能给每个人都给。”
+
+违背我们的期望是悲剧和喜剧的核心，Kierkegaard 说。为了对比这两者，他引用了亚里士多德在《诗学》第 5 章中对喜剧的定义：“荒谬是一种错误或不得体，但并不痛苦或破坏性。”
+
+> 悲剧和喜剧是相同的，因为两者都基于矛盾；但悲剧是痛苦的矛盾，喜剧是无痛的矛盾...喜剧的理解通过考虑解决办法来唤起矛盾，这就是为什么矛盾是无痛的。悲剧的理解看到矛盾并绝望于找到出路。
+
+几十年前，威廉·哈兹里特在他的论文《关于机智和幽默》中以这种方式对比了悲剧和喜剧：
+
+> 人是唯一会笑和哭的动物：因为他是唯一一个能够感受到事物本来的样子和它们应该是什么样子之间差异的动物。我们在严肃的事情中为了那些挫败或超出我们欲望的事情而哭泣；我们在琐事中仅仅因为让我们失望而笑……解释笑和泪的本质，就是解释人类生活的状况；因为它在某种程度上是由这两者组成的！它是一出悲剧或喜剧——悲伤或欢乐，取决于发生的情况……泪水可以被视为心灵在某种突然而强烈的情感下被克服之前的自然和无意识的反应，此时它还没有时间去适应环境的变化；而笑可以被定义为同样一种痉挛性和无意识的动作，由于纯粹的惊讶或对比（在没有更严肃的情感的情况下）而引起，此时它还没有时间去适应相反的表象（Hazlitt 1819 [1907]，1）。
+
+在各种版本的不协调理论中，“不协调”一词的核心意义是，我们感知或思考的某些事物或事件违反了我们的标准心理模式和正常期望。（当然，如果我们第二次听一个笑话，我们会有一种期待不协调的结尾的感觉，但它仍然违反了我们的普通期望。）除了这个核心意义之外，各种思想家还添加了不同的细节，其中许多是彼此不兼容的。例如，在当代心理学中，理论家如托马斯·舒尔茨（1976年）和杰瑞·苏尔斯（1972年，1983年）声称，我们在幽默中享受的不是不协调本身，而是不协调的解决。舒尔茨说，在七岁以后，我们需要将明显异常的元素适应到某种概念模式中。这就是当我们“明白”一个笑话时发生的情况。事实上，舒尔茨甚至不把无法解决的不协调称为“幽默”——他称之为“无意义”。这些理论家引用的幽默例子通常是那些笑话，其中笑话的结尾一时令人困惑，但随后听者重新解释第一部分，使其有一种意义。例如，当梅·韦斯特说：“婚姻是一所伟大的学院，但我还没有准备好进入学院时，‘学院’这个词的意义转变就是不协调，但需要一点时间才能理解这个转变，而乐趣就在于弄清楚这个词有两个意思。根据对幽默的这种理解，娱乐类似于解谜。其他理论家坚持认为，不协调解决只在某些幽默中起作用，而娱乐的乐趣并不像解谜。
+
+当哲学家和心理学家在 20 世纪末完善了不协调理论时，几个旧版本中出现了一个缺陷：它们说，或者更常见的是暗示，不协调的感知足以引发幽默。这显然是错误的，因为当我们的心理模式和期望被违反时，我们可能会感到恐惧、厌恶或愤怒，而不是愉悦。詹姆斯·比蒂（James Beattie）是第一个将幽默解释为对不协调的反应的哲学家，他小心地指出笑声只是其中一种反应。他说，当我们的不协调感知“伴随着其他更有权威的情感”（如恐惧、怜悯、道德不赞成、愤怒或厌恶）时，我们对不协调的感知不会引发“可笑的情感”（1779 年，420 页）。
+
+纠正这个缺陷的一种方法是说，幽默的愉悦不仅仅是对不协调的任何反应，而是一种享受不协调的方式。例如，迈克尔·克拉克（Michael Clark）将以下三个特征视为幽默所必需且充分的条件：
+
+1. 一个人感知（思考、想象）一个物体是不协调的。
+2. 人喜欢感知（思考，想象）对象。
+3. 人至少部分地因为其自身而喜欢感知到的（思考，想象的）不协调，而不仅仅是为了某种别有用心的原因（参见 Morreall 1987，139-155）。
+
+这个不协调理论的版本是对将娱乐描述为不协调感知的理论的改进，但似乎还不够具体。娱乐是享受不协调的一种方式，但不是唯一的方式。迈克·W·马丁在艺术领域提供了几个例子（参见 Morreall，1987，176）。索福克勒斯的《俄狄浦斯王》中有很多台词，奥狄浦斯发誓不惜一切代价将拉伊俄斯国王的凶手绳之以法。我们作为观众，知道奥狄浦斯本人就是那个凶手，可能会享受国王威胁自己的不协调之处，但这种享受不一定是幽默的娱乐。约翰·莫里尔（1987，204-205）认为，许多审美范畴——怪诞、恐怖、可怕、离奇和奇幻——涉及对我们的心理模式和期望的某种非幽默享受的违背。
+
+无论不协调理论可能需要什么改进，它似乎比科学上过时的解脱理论更能解释笑声和幽默。它似乎也比优越性理论更全面，因为它可以解释那些似乎不基于优越性的幽默，比如双关语和其他文字游戏。
+
+## 5. 幽默作为游戏，笑声作为游戏信号
+
+尽管不协调理论使幽默看起来比优越性理论更不可取，但至少从哲学家们发表的观点来看，它并没有改善对幽默的看法。幽默的持续不良声誉部分是由不协调理论引发的新反对意见引起的：如果幽默是享受违背我们的思维模式和期望，那么它是非理性的。这种非理性反对意见几乎与不协调理论一样古老，并且在康德的观点中是隐含的，他声称笑声的快乐只是身体的而不是智力的。“一个欺骗性的期望怎么能满足呢？”他问道。根据康德的观点，幽默感觉良好，尽管它挫败了我们理解的欲望，而不是因为它满足了我们的欲望。乔治·桑塔亚那（1896 年，248 页）同意这一观点，认为不协调本身是无法享受的。
+
+> 我们有一个平凡的常识和日常现实的背景；在这个背景上，突然出现了一个意想不到的想法。但事情是徒劳的。滑稽的意外使我们面前的本质变得虚假，在思维中开始了一个错误的类比，一个无法实现的建议。总之，我们面对的是荒谬，而作为一个理性的动物，人们不喜欢荒谬，就像他们不喜欢饥饿或寒冷一样。
+
+如果当代对幽默的广泛赞赏是可辩护的，那么这种非理性的反对需要得到解决。要做到这一点似乎需要解释我们的高级心理功能如何以一种与理论和实践推理不同的有益方式运作。构建这种解释的一种方法是将幽默视为一种游戏，并解释这种游戏如何有益。
+
+非常少有哲学家甚至提到幽默是一种游戏，更不用说从这种游戏中看到好处了。康德将开玩笑称为“思维的游戏”，尽管他认为除了笑声刺激内脏器官外，它没有任何价值。将幽默归类为游戏并看到幽默的心理价值的少数人之一是托马斯·阿奎那。他追随亚里士多德的领导，亚里士多德在《伦理学》（第 8 章）中说：“生活既包括休息又包括活动，在其中包括休闲和娱乐。”有些人过分追求娱乐，亚里士多德称他们为“粗俗的小丑”，但同样糟糕的是“那些既不能开玩笑也不能容忍开玩笑的人”，他称他们为“粗鲁和不文雅”。在小丑和粗鲁之间有一个幸福的中间地带-在适当的时间和地点以及适度地从事幽默。这种美德亚里士多德称之为 eutrapelia，机智，源自希腊语“转动得好”。在他的《神学大全》（2a2ae，Q. 168）中，阿奎那在三篇文章中扩展了亚里士多德的思想：“是否可以在游戏中行动中有美德”，“玩得太多的罪过”和“玩得太少的罪过”。他同意亚里士多德的观点，认为幽默和其他形式的游戏提供偶尔的休息：
+
+> 就像通过休息身体来缓解身体疲劳一样，通过休息心灵来缓解心理疲劳。正如我们在讨论感受时解释的那样，快乐是心灵的休息。因此，缓解心灵疲劳的方法在于放松精神学习的紧张状态并获得一些快乐...那些追求心灵快乐而不寻求其他的言行被称为好玩或幽默，有时需要利用它们来安慰心灵（2a2ae，Q. 168，Art. 2）。
+
+除了为灵魂提供休息之外，阿奎那斯认为幽默还具有社会效益。他扩展了亚里士多德的“欢乐”（eutrapelia）的含义，谈到“一个欢乐的人，心情愉快，以愉快的方式表达自己的言行。”阿奎那斯说，从不开玩笑或幽默的人是“违背理性”的，因此是有罪的。
+
+> 任何与理性相冲突的人类行为都是邪恶的。一个人对他人造成负担，从不让自己对他人感到愉快，或者成为他人享受的扫兴或湿毯，这是违背理性的。所以塞内加说：“以机智的方式表现自己，免得被视为乖戾或被人看作迟钝。”现在那些缺乏幽默感的人是有罪的，那些从不说令人微笑的话，或者对那些这样做的人发脾气的人是有罪的（2a2ae，Q. 168，Art. 4）。
+
+在上个世纪，马克斯·伊斯特曼（Max Eastman）（1936）发展了一种早期的幽默游戏理论，他在动物的游戏中找到了与幽默的相似之处，特别是在嬉闹时的黑猩猩的笑声中。他认为，“我们生来就具有一种本能的笑的倾向，并对以戏谑方式呈现的痛苦产生这种感觉”（45）。根据伊斯特曼的观点，在幽默和游戏中，我们对本来可以认真对待的事物采取了一种超然的态度。
+
+在 20 世纪末，泰德·科恩（1999）写道讲笑话的社会效益，并且许多心理学家证实了阿奎那对幽默的评价是有道德的。美国心理学协会的《性格优势与美德：手册与分类》一书中的“超越力量”章节中有“幽默[俏皮]”。参与幽默可以培养对模糊和多样性的容忍，并促进创造性问题解决。它可以作为社交润滑剂，培养信任并减少冲突。在容易引起负面情绪的沟通中，比如宣布坏消息、道歉、抱怨、警告、批评、命令、评估，幽默可以提供愉悦感，减少甚至阻止负面情绪。考虑一下这封催债信中的段落：
+
+> 我们感谢您的业务，但是，请给我们一个喘息的机会。您的账户已经逾期十个月了。这意味着我们比您的母亲还要养你更久（Morreall 2009, 117）。
+
+当然，像幽默这样的游戏活动通常不是为了实现这些好处而追求的；正如阿奎那所说，它们是为了快乐而追求的。这里与幽默类似的是音乐，我们通常是为了快乐而演奏和聆听音乐，但它可以提高我们的手部灵活性，甚至数学能力，减轻压力，加强我们的社交纽带。
+
+动物行为学家（包括人类行为的学生）指出，在游戏活动中，幼年动物学习了他们以后需要的重要技能。例如，幼狮通过进行狩猎的动作来玩耍。人类使用石头和长矛狩猎已有数万年的历史，所以男孩经常通过向目标投掷抛射物来玩耍。马雷克·斯平卡（2001）观察到，在玩耍中，幼年动物以夸张的方式移动。幼猴不仅从树枝跳到树枝，还从树上跳到河里。孩子们不仅跑步，还会跳跃和做翻筋斗。斯平卡认为，在玩耍中，幼年动物在测试他们的速度、平衡和协调能力的极限。通过这样做，他们学会应对意外情况，比如被一种新的捕食者追赶。
+
+这种关于游戏在儿童和幼年动物中的价值的解释并不能自动解释为什么幽默对成年人很重要，但对于我们和儿童以及幼年动物来说，最有趣的游戏活动是那些在一个安全的环境中以不寻常和极端的方式锻炼我们的能力的活动。体育运动就是一个例子。幽默也是如此。
+
+在幽默中，我们在一个安全的环境中以不寻常和极端的方式锻炼的能力与思考和与他人互动有关。我们所享受的是不协调，即违背我们的思维模式和期望。例如，在与朋友开玩笑时，我们打破了像 H·P·格赖斯（1975）所制定的对话规则：
+
+1. 不要说你认为是假的话。
+2. 不要说你没有足够证据支持的话。
+3. 避免表达含糊不清的意思。
+4. 避免歧义。
+5. 言简意赅。
+
+当我们为了引起笑声而大肆夸张、说出与自己真实想法相反的话，或者“开玩笑”时，我们就违反了第一条规则。当我们将有趣的幻想呈现为事实时，我们就违反了第二条规则。当我们对一个尴尬的问题回答一个明显模糊或混淆的答案时，我们就违反了第三条规则，以创造幽默。正如维克多·拉斯金（1984）所示，我们在讲述大多数准备好的笑话时违反了第四条规则。一条评论或故事以对一个短语的假设解释开始，但在笑话的关键时刻，转而采用第二个通常相反的解释。考虑一下这句话：“我喜欢猫。它们尝起来很像鸡肉。”当我们将一个普通的抱怨转变成像罗斯安妮·巴尔和刘易斯·布莱克那样的喜剧怒吼时，我们就违反了第五条规则。
+
+幽默，就像其他游戏一样，有时采取的形式不会被误认为是严肃的活动。戴着红色小丑鼻子，编造无意义的音节就是例子。然而，更常见的是，就像上面的对话中一样，幽默和游戏是以严肃活动为模型的。例如，当我们在对话中从严肃讨论转向发表有趣的评论时，我们保持相同的词汇和语法，我们的句子在纸上转录可能看起来像真实的断言、问题等。非严肃语言和行为与严肃语言和行为之间的这种相似性需要参与者能够区分两者的方式。动物行为学家称这些方式为“游戏信号”。
+
+人类最古老的戏剧信号是微笑和笑声。根据动物行为学家的观察，这些信号是从类似的戏剧信号在人类的祖先猿类中演化而来的。进化成智人的猿类与进化成黑猩猩和大猩猩的猿类大约在六百万年前分道扬镳。在黑猩猩和大猩猩以及其他哺乳动物中，戏剧通常采取模拟攻击的形式，如追逐、摔跤、咬和挠痒。许多动物行为学家认为，模拟攻击是最早的戏剧形式，其他所有的戏剧都是从这个形式演化而来的（Aldis 1975, 139; Panksepp 1993, 150）。在模拟攻击的戏剧中，关键是所有参与者都意识到这种活动并不是真正的攻击。如果没有办法区分被追逐或咬玩耍和真正被攻击，动物可能会以致命的力量做出反应。在类人猿中，戏剧信号是视觉和听觉的。Jan van Hooff（1972, 212–213）和其他人推测，人类最早的戏剧信号是从人类和大猩猩的共同祖先中演化而来的，这些信号在大猩猩和黑猩猩身上仍然存在。其中之一是“咧嘴笑”或“社交鬼脸”：嘴角和嘴唇向后拉动，露出牙龈，下颚闭合，没有声音，身体运动受限，眼睛朝向互动伙伴。根据van Hooff（1972, 217）的说法，这种“无声露齿展示”演化成了人类的安抚性社交微笑。
+
+在另一种面部表情中，嘴唇放松，嘴巴张开，呼吸浅而断续，像是喘气。黑猩猩的这种发声是在吸气时发出的：“啊啊啊”。根据范·霍夫的说法，这种“放松张口表情”或“嬉戏表情”演变成了人类的笑声。笑声中放松的嘴巴与真正的攻击中紧张而准备咬紧的嘴巴形成了对比。这种差异，再加上独特的浅而断续的呼吸模式，使笑声成为一种嬉戏信号，宣告“这只是为了好玩；不是真的打架”。黑猩猩和大猩猩在搏斗游戏中展示了这种面部表情和发声，我们称之为挠痒痒的方式可以引发它们的这种反应（安德鲁 1963 年）。
+
+随着早期直立行走的古人类物种，前肢不再用于运动，胸部的肌肉不再需要与运动同步呼吸。喉咙移动到喉咙的较低位置，咽喉发育，使早期人类能够以复杂的方式调节呼吸和发声（哈里斯 1989 年，77 页）。最终，他们会说话，但在那之前，他们以我们人类的方式笑了起来：“哈哈哈”而不是在吸气时发出的“啊啊啊”。
+
+在过去的十年中，进化心理学的思想家们扩展了范·霍夫的工作，将幽默与性选择（格林格罗斯 2008 年；李等 2009 年）等事物联系起来。在与女性交配的竞争中，早期男性可能通过幽默来展示他们的智慧、聪明才智、适应能力和愿意取悦他人的欲望。
+
+幽默哲学中的一个假设是笑声作为一种游戏信号的演化是有吸引力的。与优越性理论和不协调理论不同的是，它解释了幽默与面部表情、肢体语言和笑声之间的联系。它还解释了为什么笑声主要是一种社交体验，而那些理论则不是。根据一项估计，与独自一人时相比，我们与他人一起笑的可能性要高出30倍（Provine 2000, 45）。将笑声追溯到早期人类的游戏信号也符合现在年幼的孩子在追逐、摔跤和挠痒痒等活动中笑出声来的事实，而黑猩猩和大猩猩则会展示他们的游戏表情和类似笑声的发声。此外，笑声和幽默从模拟攻击演化而来的想法还有助于解释为什么现在有这么多幽默，特别是男性幽默，是带有玩笑性的攻击。
+
+幽默哲学中的幽默中常见的戏剧性攻击被哲学家们广泛误解，尤其是在对幽默伦理的讨论中。从柏拉图开始，大多数哲学家都将以负面形象描绘人们的幽默视为对这些人的真实攻击。例如，金发女郎或波兰人极其愚蠢，黑人极其懒惰，意大利人极其胆小，律师极其自我中心，女性极其不擅长数学等的笑话通常被分析为对金发女郎或波兰人极其愚蠢，黑人极其懒惰等的真实断言。这种方法在迈克尔·菲利普斯的《种族主义行为与种族主义幽默》（1984）的标题中就有所体现。例如，菲利普斯将波兰笑话归类为种族主义，但是任何了解它们在20世纪60年代的流行程度的人都知道，它们并不涉及对波兰人的敌意，因为波兰人早已融入北美社会。考虑一下关于波兰宇航员召开新闻发布会宣布他将飞向太阳的笑话。当被问及他将如何应对太阳的强烈热量时，他说：“别担心，我会在晚上去。”要欣赏这个笑话，不需要持有种族主义的信念或态度，就像不需要相信波兰有一个太空计划一样。这是一种享受其对难以置信的愚蠢的巧妙描绘的幻想。
+
+在笑话中玩弄负面刻板印象并不意味着对这些刻板印象的认可，然而，它仍然使它们流传下去，在种族主义或性别歧视的文化中，这可能是有害的，因为刻板印象支持偏见和不公正。笑话可能因为延续需要消除的刻板印象而在道德上是可厌恶的。更一般地说，当幽默将本应被认真对待的事物作为游戏的对象时，它可能在道德上是可厌恶的。（Morreall 2009，第 5 章）。在这种情况下，幽默经常阻碍了同情心和负责任的行动。一个极端的例子是 1974 年 7 月《国家讽刺杂志》的封面，名为“甜点问题”。几年前，乔治·哈里森和其他音乐家组织了一场慈善音乐会，以帮助孟加拉国饥荒的受害者。他们制作了专辑《孟加拉国音乐会》。专辑封面上有一张饥饿的孩子拿着乞讨碗的照片。《国家讽刺杂志》的“甜点问题”封面上的照片几乎一样，只不过是一个巧克力雕塑的饥饿儿童，头部被咬掉了一部分。
+
+在勾勒出幽默作为对词语和思想进行游戏的描述之后，为了反驳非理性的反对意见，我们需要进一步探讨，特别是因为这种游戏是基于违反心理模式和期望的。必须补充的是，如何以玩味地违反心理模式和期望来促进理性而不是削弱它的解释。
+
+有理性的一部分是抽象思维——一种不与个人的即时经验和个人观点相联系的方式。如果在一个晚宴上，我把一滩看起来像枪洞的番茄酱溅到了我的衬衫上，我可能会陷入一种“此地/此刻/我自己/实际”的模式中，只考虑我自己和脏兮兮的衬衫。或者，我可以像数百万人一样，思考这样尴尬的时刻。更抽象的是，像佛陀一样思考人类生活充满问题。
+
+在低等动物中，心理加工不是抽象的，而是与当前的经验、需求和机会相联系。它涉及到附近的捕食者、食物、伴侣等。当有事情违背它们的期望，尤其是涉及潜在或实际的损失时，它们的典型反应是恐惧、愤怒、厌恶或悲伤。这些情绪在哺乳动物中进化而来，并且在数百万年间非常有用，因为它们激发适应性行为，如战斗、逃跑、避免有害物质、停止活动和避免将来类似的情况。
+
+恐惧、愤怒、厌恶和悲伤在人类中有时仍然是适应性的：例如，一只龇牙咧嘴的狗吓到了我们，我们会迅速离开，避免被咬伤。我们尖叫并戳劫匪的眼睛，他就会逃走。但是，如果人类的心智发展没有超越这些情绪，以及它们的此时此地/我/实际关注点，我们就不会成为理性的动物。早期人类需要的是一种超越他们即时经验和个人视角的方式来对违背他们期望的情况做出反应。幽默提供了这种方式。在幽默的心境中，我们经历、思考或甚至创造了一些违背我们对事物应该如何的理解。但是我们暂时搁置了个人的实际关切，避免产生负面情绪，并享受所发生事情的奇特之处。如果这种不协调的情况是我们自己的失败或错误，我们会像看待他人的失败和错误一样看待它。这种观点比情绪观点更加抽象、客观和理性。正如旧版《暗中摄影》电视节目的主题曲所说，我们“以他人的眼光看待自己”。我们不会紧张起来准备逃跑或攻击，而是放松并笑出声来。正如Wallace Chafe在《不认真的重要性》（2007）中所说的那样，在笑声中，我们不仅什么都不做，而且我们的躯干、手臂和腿部的肌肉控制也会丧失。在极度的笑声中，我们会跌倒在地，尿湿裤子。
+
+幽默哲学中的非实用态度在我面临即将发生的危险时并不有益。如果我把硫酸洒在衬衫上而不是番茄酱，那么对于恐惧的此时此地/我/实用的狭隘关注而言，它比毫不关心、玩乐的幽默态度更可取。当需要立即采取行动时，幽默无法替代。但在许多情况下，我们的期望被违背，没有任何行动能够帮助。亚里士多德在《诗学》（5, 1449a）中说，有趣的东西是“一个错误或不得体的行为，它既不痛苦也不具有破坏性。”但人们开玩笑的问题可能严重到与自己即将面临的死亡一样。据说，当托马斯·莫尔走向绞刑架时，他问刽子手：“你能帮我上去吗？我自己能下来。”据说，奥斯卡·王尔德临终时说：“这壁纸太可怕了。我们中的一个必须离开。”
+
+幽默不仅培养理性和带来快乐，而且减少或消除了被称为“压力”的恐惧和/或愤怒的组合，这在工业化世界中达到了流行水平。在恐惧和愤怒中，肾上腺素、去甲肾上腺素和皮质醇等化学物质释放到血液中，导致肌肉紧张、心率增加、血压升高，并抑制免疫系统。这些生理变化在早期哺乳动物中进化出来，作为激发它们战斗或逃跑的方式，在早期人类中，它们通常是对物理危险的反应，如捕食者或敌人。然而，今天，我们的身体和大脑对于并非物理威胁的问题，如专横的老板和工作截止日期，以同样的方式做出反应。增加的肌肉紧张、血压飙升和压力的其他变化不仅对这些问题没有帮助，而且会引发新问题，如头痛、心脏病和癌症。当我们在潜在的压力情况下转向幽默的游戏模式时，我们的心率、血压和肌肉紧张度降低，肾上腺素、去甲肾上腺素和皮质醇的水平也降低。笑声还增加了疼痛耐受力，并增强了免疫系统的活动，而压力则抑制了免疫系统的活动（Morreall 1997，第 4 章；Morreall 2016，第 5-6 章）。
+
+一个世纪前，当心理学家还像哲学家一样说话时，美国心理学杂志（1907 年 10 月）的一篇社论说：“也许幽默的最大作用是使我们脱离我们的善恶世界、损失和获得的世界，并使我们能够以正确的角度看待它。它使我们摆脱虚荣，一方面，摆脱悲观主义，另一方面，通过使我们比我们所做的事情更大，比我们所遇到的事情更伟大。”
+
+## 6. 幽默哲学
+
+虽然关于幽默是如何在早期人类中发展起来的只存在推测，但我们知道到公元前 6 世纪晚期，希腊人已经将其制度化为一种被称为喜剧的仪式，并且它是与一种被称为悲剧的戏剧形式相对立的。两者都基于对心理模式和期望的违反，在两者中，世界都是一个充满矛盾系统的混乱之地，人类生活在失败、愚蠢和死亡的阴影下。喜剧和悲剧都代表了生活充满了紧张、危险和斗争，成功或失败往往取决于偶然因素。它们的区别在于主角对生活中的不协调之处的反应。观众在喜剧和悲剧中对事件的反应是截然不同的。由于这些反应会延续到生活中的类似情况，喜剧和悲剧体现了对生活中不协调之处的截然不同的反应。（Morreall 1999，第 1-4 章）。
+
+悲剧赞美对生活问题的认真、情感上的投入，甚至是为了死亡而奋斗。它与史诗一起，是西方英雄传统的一部分，赞美理想、为之奋斗和荣誉。悲剧的伦理观与父权制和军国主义有关——它的许多英雄都是国王和征服者——它赞美康拉德·海尔斯（1996）所称的战士美德——盲目服从、愿意按命令杀人或死亡、无条件的忠诚、一心一意、坚定的目标和自豪。
+
+幽默哲学，相比之下，体现了一种反英雄主义、实用主义的生活态度。从亚里士多德的《莉西斯特拉塔》到查理·卓别林的《大独裁者》再到迈克尔·摩尔的《华氏 911》，喜剧嘲笑了军国主义和盲目尊重权威的非理性。它处理冲突的方法包括交易、诡计、让敌人喝醉和逃跑。正如爱尔兰的谚语所说，你只是在某一刻胆怯，但你在余下的生命中都是死的。它推崇的不是战士的美德，而是批判性思维、聪明才智、适应性和对吃、喝和性等身体快乐的欣赏。
+
+悲剧的理想主义伴随着精英主义。重要的人物是国王、皇后和将军。在喜剧中，角色更多，种类更多，女性更突出，许多主角来自下层阶级。每个人都有份量。这在喜剧的语言中表现出来，与悲剧的高雅语言不同，喜剧使用的是通俗的语言。悲剧的基本单位是个体，而喜剧的基本单位是家庭、一群朋友或一群同事。
+
+虽然悲剧英雄在情感上与他们的问题有所牵连，但喜剧主角表现出情感上的脱离。他们通过思考而不是感受来应对困难。通过将这样的角色呈现为榜样，喜剧隐含地肯定了幽默的好处，这些好处现在已经得到了实证验证，比如幽默在心理和身体上都有益处，它促进了心理的灵活性，也起到了社交润滑剂的作用。除了阿奎那斯等少数例外，哲学家们忽视了这些好处。
+
+如果哲学家们想要消除对幽默的传统偏见，他们可以考虑一种当代喜剧类型——单口喜剧与哲学本身之间的亲和性。至少有七个方面（Morreall 2009，第7章）。首先，单口喜剧和哲学都是对话性的：就像从柏拉图开始的对话格式一样，单口喜剧表演是互动的。其次，它们都反思熟悉的经历，尤其是令人困惑的经历。例如，我们从一个生动的梦中醒来，不确定发生了什么和正在发生什么。第三，像哲学家一样，单口喜剧演员经常用问题来思考令人困惑的经历。“如果我认为那个梦是真实的，那我怎么知道我现在不是在做梦呢？”哲学和单口喜剧的最基本起点都是“X——这是怎么回事？”第四，当他们思考熟悉的经历时，哲学家和喜剧演员都会情感上保持距离。亨利·贝尔松（1900 [1911]）在谈到笑声时提到了“心灵的短暂麻醉”。情感上的脱离早已成为“哲学的”意义之一——“理性的、明智的、冷静的，如在困境中”。第五，哲学家和单口喜剧演员都会进行批判性思考。他们会质疑熟悉的观念是否合理，并拒绝顺从权威和传统。苏格拉底因为他的批判性思维而被处决。在德国，嘲笑第三帝国的卡巴莱演员也是如此。第六，在进行批判性思考时，哲学家和单口喜剧演员会仔细关注语言。攻击词语的懒散和不合逻辑的使用在两者中都很常见，找到恰到好处的词语来表达一个观点也是如此。第七，欣赏单口喜剧的乐趣往往就像从事哲学的乐趣一样。在两者中，我们都喜欢以新的方式看待事物，并对令人惊讶的思想感到愉悦。机智是受人赞赏的。威廉·詹姆斯（1911 [1979]，11）说哲学“将熟悉的事物看作陌生的，将陌生的事物看作熟悉的”。"同样适用于单口喜剧。西蒙·克里奇利（Simon Critchley）写道，两者都要求我们“像刚从另一个星球降落一样看待事物”（2002 年，1 页）。
+
+一位对喜剧和哲学之间的亲和性敏感的近代哲学家是伯特兰·罗素（Bertrand Russell）。他说：“哲学的目的是从一个看似不值得陈述的简单事物开始，以一个如此矛盾以至于没有人会相信的事物结束”（1918 年，53 页）。在一场争论中，他曾观察到：“这似乎显然荒谬：但是任何希望成为哲学家的人都必须学会不被荒谬所吓倒”（2008 年[1912 年]，17 页）。
+
+罗素经常为大众读者写作，他有许多俏皮话可以很好地融入喜剧表演中：
+
+* 在现代世界中，麻瓜们自以为是，而聪明人却充满了怀疑之情的根本原因是“（1998 年，28 页）。
+* 大多数人宁愿死也不愿思考-事实上他们确实如此”（1925a，166 页）。
+* 人是一个理性的动物-至少我被告知是这样。在漫长的一生中，我一直努力寻找支持这一说法的证据，但到目前为止，我还没有幸运地找到它，尽管我在遍布三个大陆的许多国家中进行了搜索“（1950 年，71 页）。
+* 数学可以被定义为我们永远不知道我们在谈论什么，也不知道我们所说的是否真实的学科（1925b，75）。
+
+关于喜剧和哲学之间的亲缘关系，有一系列由 Open Court Publishing 出版的关于哲学和流行文化的书籍，包括：《宋飞和哲学》（2002 年），《辛普森一家和哲学》（2001 年），《伍迪·艾伦和哲学》（2004 年）和《蒙提·派森和哲学》（2006 年）。托马斯·卡特卡特和丹尼尔·克莱因写了《柏拉图和鸭嘴兽走进酒吧……：通过笑话理解哲学》（2008 年），以及《海德格尔和一只河马穿过那些珍珠之门：用哲学（和笑话！）探索生命、死亡、来世和一切之间的关系》（2009 年）。在心灵哲学中，马修·赫利、丹尼尔·丹尼特和雷金纳德·亚当斯（2011 年）用幽默来解释人类思维的发展。在美学中，诺埃尔·卡罗尔（1999 年，2003 年，2007 年，2013 年）写过关于喜剧和幽默的哲学意义以及它们与恐怖类型的关系。《东西方哲学》（1989 年），《单一论》（2005 年）和《教育哲学与理论》（2014 年）杂志上都发表了关于幽默的专题。始于柏拉图的古代对幽默的偏见终于开始瓦解。
+
+## Bibliography
+
+* Adkin, N., 1985, “The Fathers on Laughter,” *Orpheus*, 6(1): 149–152.
+* Aldis, O., 1975, *Play Fighting*, New York: Academic Press.
+* American Psychological Association, 2004, *Character Strengths and Virtues: A Handbook and Classification*, New York: Oxford University Press.
+* Andrew, R. J., 1963, “The Origins and the Evolution of the Calls and Facial Expressions of the Primates,” *Behaviour*, 20: 100–109.
+* Aquinas, Thomas, *Summa Theologiae*, trans. Thomas Gilby, London: Blackfriars, 1972.
+* Aristotle, *The Basic Works of Aristotle*, ed. R. McKeon, New York: Random House, 1941.
+* Beattie, J., 1779, “Essay on Laughter and Ludicrous Composition,” in *Essays*, 3rd ed., London.
+* Bergson, H., 1900 [1911], *Laughter: An Essay on the Meaning of the Comic*, C. Brereton and F. Rothwell (trs.), London: Macmillan. [[available online](http://www.gutenberg.org/ebooks/4352)]
+* Boyd, B., 2004, “Laughter and Literature: A Play Theory of Humor,” *Philosophy and Literature*, 28: 1–23.
+* Bressler, E. R. and S. Balshine, 2006, “The Influence of Humor on Desirability,” *Evolution and Human Behavior*, 27: 29–39.
+* Bressler, E. R., R. A. Martin, and S. Balshine, 2006, “Production and Appreciation of Humor as Sexually Selected Traits,” *Evolution and Human Behavior*, 27: 121–130.
+* Carroll, N., 1999, “Horror and Humor,” *Journal of Aesthetics and Art Criticism*, 57: 145–160.
+* –––, 2003, “Humour,” in *The Oxford Handbook of Aesthetics*, J. Levinson (ed.), Oxford: Oxford University Press, pp. 344–365.
+* –––, 2007, *Comedy Incarnate: Buster Keaton, Physical Humor and Bodily Coping*, Malden MA: Blackwell.
+* –––, 2013, *Humour: A Very Short Introduction*, Oxford: Oxford University Press.
+* Cathcart, T. and D. Klein, 2008, *Plato and a Platypus Walk into a Bar … : Understanding Philosophy Through Jokes*, New York: Penguin.
+* –––, 2009, *Heidegger and a Hippo Walk Through Those Pearly Gates: Using Philosophy (and Jokes!) to Explore Life, Death, the Afterlife, and Everything in Between*, New York: Viking.
+* Chafe, W., 2007, *The Importance of Not Being Earnest: The Feeling behind Laughter and Humor*, Amsterdam: John Benjamins.
+* Cicero, Quintus Tullius, 1942, *On the Orator*, Book II, E. W. Sutton and H. Rackham (trans.), Loeb Classical Library, Cambridge MA: Harvard University Press.
+* Clark, M., 1987, “Humor and Incongruity,” in *The Philosophy of Laughter and Humor*, John Morreall (ed.), Albany: State University of New York Press, pp. 139–55.
+* Clewis, R., 2020, *Kant’s Humorous Writings*, New York: Bloomsbury Academic.
+* Cochrane, T., 2017, “No Hugging, No Learning: The Limitations of Humour,” *British Journal of Aesthetics*, 57: 51–66.
+* Cohen, T., 1999, *Jokes: Philosophical Thoughts on Joking Matters*, Chicago: University of Chicago Press.
+* Critchley, S., 2002, “Did You Hear the One About the Philosopher Writing a Book on Humour?”, *Richmond Journal of Philosophy*, 2 (Autumn): 1–6. [[Available online](https://web.archive.org/web/20170214235051/http://www.richmond-philosophy.net/rjp/back_issues/rjp2_critchley.pdf)]
+* –––, 2002, *On Humour*, New York: Routledge.
+* Deckers, L., 1993, “On the Validity of a Weight-Judging Paradigm for the Study of Humor,” *Humor: International Journal of Humor Research*, 6: 43–56.
+* Descartes, R., 1649 [1911], *The Passions of the Soul*, in *Philosophical Works of Descartes*, Vol. 1, E. Haldane and G. R. T. Ross (trans.), Cambridge: Cambridge University Press.
+* Dewey, J., 1894, “The Theory of Emotion,” *Psychological Review*, 1: 553–569.
+* Eastman, M., 1936, *Enjoyment of Laughter*, New York: Halcyon House.
+* *Educational Philosophy and Theory*, 2014: 46(2). Special Issue: Humor, Laughter, and Philosophy of Education.
+* Eysenck, H., 1972, Foreword to *The Psychology of Humor*, J. Goldstein & P. McGhee (eds.), New York: Academic Press.
+* Flamson, T. and H. C. Barrett, 2008, “The Encryption Theory of Humor: A Knowledge-Based Mechanism for Honest Signaling,” *Journal of Evolutionary Psychology*, 6: 261–281.
+* Freud, S., 1905 [1974], *Jokes and Their Relation to the Unconscious* (*Der Witz und seine Beziehung zum Unbewußten*), James Strachey (tr.), New York: Penguin.
+* Gaut, B., 1998, “Just Joking: The Ethics and Aesthetics of Humor,” *Philosophy and Literature*, 22: 51–68.
+* Gilhus, I., 1997, *Laughing Gods, Weeping Virgins: Laughter in the History of Religion*, New York: Routledge.
+* Gillilan, S., 1927 (1 July), “Lines on the Antiquity of Microbes,” *Mount Rainier Nature News Notes*.
+* Graham, H., 2009, *When Grandma Fell off the Boat: The Best of Harry Graham*, London: Sheldrake.
+* Greengross, G., 2008, “Survival of the Funniest,” *Evolutionary Psychology*, 6: 90–95.
+* Grice, H. P. 1975, “Logic and Conversation,” in *Syntax and Semantics*, vol. 3, Peter Cole and Jerry Morgan (ed.), New York: Academic Press, pp. 41–58.
+* Hardcastle, G. and G. A. Reisch, 2006, *Monty Python and Philosophy: Nudge, Nudge, Think, Think!*, Chicago: Open Court.
+* Harris, M., 1989, *Our Kind*, New York: Harper & Row.
+* Hazlitt, W., 1819 [1907], *Lectures on the English Comic Writers*, London: Oxford University Press*.*
+* Hobbes, T., 1651 [1982], *Leviathan*, New York: Penguin.
+* Hurley, M., D. Dennett, and R. Adams, 2011, *Inside Jokes: Using Humor to Reverse-Engineer the Mind*, Cambridge, MA: MIT Press.
+* Hutcheson, F., 1750, *Reflections Upon Laughter, and Remarks on the Fable of the Bees*, Glasgow: R. Urie.
+* Hyers, C., 1996, *The Spirituality of Comedy: Comic Heroism in a Tragic World*, New Brunswick, NJ: Transaction Publishers.
+* Irwin, W., 2000, *Seinfeld and Philosophy: A Book about Everything and Nothing*, Chicago: Open Court.
+* –––, 2001, *The Simpsons and Philosophy: The D’oh! Of Homer*, Chicago: Open Court.
+* James, W., 1911 [1979], *Some Problems of Philosophy*, Cambridge, MA: Harvard University Press.
+* Kant, I., 1790 [1911], *Critique of Judgment*, James Creed Meredith (tr.), Oxford: Clarendon Press.
+* Karlen, P., 2016, “Humor and Enlightenment, Part I: The Theory,” *Contemporary Aesthetics*, 14.
+* –––, 2016, “Humor and Enlightenment, Part II: The Theory Applied,” *Contemporary Aesthetics*, 14.
+* Kierkegaard, S., 1846 [1941], *Concluding Unscientific Postscript*, D. Swenson and W. Lowrie (tr.), Princeton: Princeton University Press, 1941.
+* –––, [JP], *Journals and Papers*, Vol. 2, H. Hong and E. Hong (eds. and trs.), Bloomington: Indiana University Press, 1970.
+* Li, N. P., V. Griskevicius, K. M. Durante, P. K. Jonason, D. J. Pasisz, and K. Aumer, 2009, “An Evolutionary Perspective on Humor: Sexual Selection or Interest Indication,” *Personality and Social Psychology Bulletin*, 35: 923–936.
+* Lintott, S., 2016, “Superiority in Humor Theory,” *Journal of Aesthetics and Art Criticism*, 74: 347–358.
+* Locke, J., 1690, *Essay Concerning Human Understanding*, London. [[available online](http://www.earlymoderntexts.com/authors/locke.html)]
+* Martin, M. W., 1987, “Humor and the Aesthetic Enjoyment of Incongruities,” in *The Philosophy of Laughter and Humor*, John Morreall (ed.), Albany: State University of New York Press, pp. 172–186.
+* *The Monist*, 2005: 88(1). Special Issue on Humor.
+* Monro, D. H., 1951, *Argument of Laughter*, Melbourne: Melbourne University Press.
+* Morreall, J., 1983, *Taking Laughter Seriously*, Albany, NY: State University of New York Press.
+* –––, ed., 1987, *The Philosophy of Laughter and Humor*, Albany, NY: State University of New York Press.
+* –––, 1997, *Humor Works*, Amherst: Human Resource Development Press.
+* –––, 1999, *Comedy, Tragedy, and Religion*, Albany, NY: State University of New York Press.
+* –––, 2009, *Comic Relief: A Comprehensive Philosophy of Humor*, Malden, MA: Wiley-Blackwell.
+* –––, 2016, *Laughing All the Way*, Melbourne FL: Motivational Press.
+* Oring, E., 2017, “The Consolations of Humor,” *European Journal of Humour Research*, 2017: 5(4): 56–66.
+* Oring, E., 2016, *Joking Asides: The Theory, Analysis, and Aesthetics of Humor*, Boulder CO: Utah State University Press.
+* Panksepp, J., 1993, “Rough and Tumble Play: A Fundamental Brain Process,” in *Parent-Child Play*, Kevin MacDonald (ed.), Albany: State University of New York Press, pp. 147–184.
+* Paulos, J., 2000, *I Think Therefore I Laugh: The Flip Side of Philosophy*, revised ed., New York: Columbia University Press.
+* Philips, M., 1984, “Racist Acts and Racist Humor,” *Canadian Journal of Philosophy*, 14: 75–96.
+* *Philosophy East and West*, 1989: 39(3). Special Issue on Philosophy and Humor.
+* Plato, *The Collected Dialogues of Plato*, E. Hamilton and H. Cairns (trs.), Princeton: Princeton University Press, 1978.
+* Polimeni, J. and P. J. Reiss, 2006, “The First Joke: Exploring the Evolutionary Origins of Humor,” *Evolutionary Psychology*, 4: 347–366.
+* Provine, R., 2000, *Laughter: A Scientific Investigation*, Harmondworth: Penguin.
+* Prynne, W., 1633, *Histrio-Mastix: The Players Scourge or Actors Traegedie*, London.
+* Raskin, V., 1984, *Semantic Mechanisms of Humor*, Dordrecht: Reidel.
+* Resnick, I., 1987, “Risus Monasticus: Laughter and Medieval Monastic Culture,” *Revue Benedictine*, 97(1–2): 90–100.
+* Roberts, A., 2017 “Humour Is a Funny Thing,” *British Journal of Aesthetics*, 56: 355–366.
+* –––, 2019, *A Philosophy of Humour*, London: Palgrave Macmillan.
+* Roberts, R., 1988, “Humor and the Virtues,” *Inquiry*, 31: 127–149.
+* Roecklein, J., 2002, *The Psychology of Humor: A Reference Guide and Annotated Bibliography*, Westport CT: Greenwood.
+* Russell, B., 1918, *The Philosophy of Logical Atomism*, London: Allen & Unwin.
+* –––, 1925a, *The ABC of Relativity*, London: Allen & Unwin.
+* –––, 1925b, *Mysticism and Logic*, London: Longmans, Green.
+* –––, 1950, *Unpopular Essays*, New York: Simon & Schuster.
+* –––, 1998, *Mortals and Others: Bertrand Russell’s American Essays*, 1931–1935, London: Routledge.
+* –––, 2008, *The Problems of Philosophy*, Rockville, MD: ARC Manor.
+* Santayana, G., 1896, *The Sense of Beauty*, New York: Scribner’s.
+* Schaff, P. (ed.), 1889, *John Chrysostom, On the Priesthood: Ascetic Treatises; Select Homilies and Letters; Homilies on the Statues*, vol. 9 of *A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church*, Philip Schaff (ed.), New York: Christian Literature Co..
+* Schopenhauer, A., 1818/1844 [1907], *The World as Will and Idea* (*Die Welt als Wille und Vorstellung*), tr. R. B. Haldane and J. Kemp, 6th ed., London: Routledge & Kegan Paul.
+* Schultz, T., 1976, “A Cognitive—Developmental Analysis of Humor,” in *Humor and Laughter: Theory, Research and Applications*, Tony Chapman and Hugh Foot (eds.), New York: Wiley, pp. 12–13.
+* Scruton, R., 1986, “Laughter,” in *The Philosophy of Laughter and Humor*, John Morreall (ed.), Albany: State University of New York Press, pp. 156–171.
+* Shaftesbury, Lord, 1709, “Sensus Communis: An Essay on the Freedom of Wit and Humour,” republished in 1711, *Characteristicks of Men, Manners, Opinions, Times*, 1st ed., London (4th edition in 1727).
+* Shaw, J., 2010, “Philosophy of Humor,” *Philosophy Compass*, 5: 112–126.
+* Skoble, A. J., and M. T. Conard, 2004, *Woody Allen and Philosophy: You Mean My Whole Fallacy Is Wrong?*, Chicago: Open Court.
+* Spencer, H. 1911, “On the Physiology of Laughter,” *Essays on Education, Etc.*, London: Dent.
+* Spinka, M. et al., 2001, “Mammalian Play: Training for the Unexpected,” *Quarterly Journal of Biology*, 76: 141–168.
+* Storey, R., 2003, “Humor and Sexual Selection,” *Human Nature*, 14: 319–336.
+* Suls, J., 1972, “A Two-Stage Model for the Appreciation of Jokes and Cartoons: An Information-Processing Analysis,” in *The Psychology of Humor*, Jeffrey Goldstein and Paul McGhee (eds.), New York: Academic Press, pp. 81–99.
+* –––, 1983, “Cognitive Processes in Humor Appreciation,” in *Handbook of Humor Research*, Paul McGhee and Jeffrey Goldstein (eds.), New York: Springer-Verlag, pp. 39–58.
+* Tisljar, R., and T. Bereczkei, 2005, “An Evolutionary Interpretation of Humor and Laughter,” *Journal of Cultural and Evolutionary Psychology*, 3: 301–309.
+* Van Hooff, J. 1972, “A Comparative Approach to the Phylogeny of Laughter and Smiling,” in *Non-Verbal Communication*, Robert A. Hinde (ed.), London: Cambridge University Press, pp. 209–241.
+* Wagner, M., 1962, *St. Basil’s Ascetical Works* (Fathers of the Church, Vol. 9), Washington, D.C.: Catholic University of America Press.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=humor). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/humor/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=humor&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/humor/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Humor](http://www.iep.utm.edu/humor/), article in the *Internet Encyclopedia of Philosophy*.
+* [Noël Carroll on humor](http://philosophybites.com/2011/04/no%C3%ABl-carroll-on-humour.html), in *Philosophy Bites*.
+* [Philosophical Humour](http://philosophynow.org/links/Philosophical_Humour), links on Philosophy Now website.
+* [The Philosophy of Laughter and Smiling](http://humorinamerica.wordpress.com/2012/06/04/in-the-archives-the-philosophy-of-laughter-and-smiling-by-george-vasey-1875/), by George Vasey, 1875; a Victorian attack on laughter. (There are also links to William Hazlitt’s “On Wit and Humour” (1818) and Benjamin Franklin’s Fart Proudly (1781).).
+
+## Related Entries
+
+[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | Freud, Sigmund | [Grice, Paul](https://plato.stanford.edu/entries/grice/) | [Hobbes, Thomas](https://plato.stanford.edu/entries/hobbes/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Kierkegaard, Søren](https://plato.stanford.edu/entries/kierkegaard/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Santayana, George](https://plato.stanford.edu/entries/santayana/) | [Schopenhauer, Arthur](https://plato.stanford.edu/entries/schopenhauer/) | [Scottish Philosophy: in the 18th Century](https://plato.stanford.edu/entries/scottish-18th/) | [Shaftesbury, Lord [Anthony Ashley Cooper, 3rd Earl of]](https://plato.stanford.edu/entries/shaftesbury/) | [Spencer, Herbert](https://plato.stanford.edu/entries/spencer/)
+
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
+John Morreall <[*jsmorr@wm.edu*](mailto:jsmorr%40wm%2eedu)>
