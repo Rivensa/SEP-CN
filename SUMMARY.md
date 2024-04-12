@@ -1205,3 +1205,8 @@
 * [\*永生——见死后生命 immortality — see afterlife](i/yong-sheng-jian-si-hou-sheng-ming-immortality-see-afterlife.md)
 * [immunology, philo免疫学哲学 sophy of (Bartlomiej Swiatczak and Alfred I. Tauber) ](i/immunology-philo-mian-yi-xue-zhe-xue-sophy-of-bartlomiej-swiatczak-and-alfred-i.-tauber.md)
 * [永恒 immutability (Brian Leftow) ](i/yong-heng-immutability-brian-leftow.md)
+* [公正 impartiality (Troy Jollimore)](i/gong-zheng-impartiality-troy-jollimore.md)
+* [含义 implicature (Wayne Davis)](i/han-yi-implicature-wayne-davis/README.md)
+  * [优选论和博弈论对含义的研究方法 optimality theoretic and game theoretic approaches (Robert van Rooij and Michael Franke)](i/han-yi-implicature-wayne-davis/you-xuan-lun-he-bo-yi-lun-dui-han-yi-de-yan-jiu-fang-fa-optimality-theoretic-and-game-theoretic-appr.md)
+* [\*内隐偏见——见内隐偏见 implicit bias — see bias, implicit](i/nei-yin-pian-jian-jian-nei-yin-pian-jian-implicit-bias-see-bias-implicit.md)
+* [不可能世界 impossible worlds (Francesco Berto and Mark Jago)](i/bu-ke-neng-shi-jie-impossible-worlds-francesco-berto-and-mark-jago.md)
