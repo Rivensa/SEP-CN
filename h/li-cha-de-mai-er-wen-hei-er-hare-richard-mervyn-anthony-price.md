@@ -1,2 +1,409 @@
 # 理查德·麦尔文·黑尔 Hare, Richard Mervyn (Anthony Price)
 
+*首次发表于2014年6月4日星期三；实质性修订于2019年5月10日星期五*
+
+理查德·麦尔文·黑尔 在去世时留下了一篇长文，题为“哲学自传”，在他去世后出版。它的开头令人印象深刻：
+
+> 不久前，我做了一个奇怪的梦，或者说是半醒的幻觉。我发现自己站在雾中的山顶，对自己感到非常满意，不仅仅是因为爬上了山，而且还因为实现了我一生的抱负，即找到一种理性回答道德问题的方法。但就在我为这一成就而自鸣得意时，雾开始消散，我看到自己被山顶上所有其他哲学家的坟墓所包围，无论他们是伟大的还是渺小的，他们都有着同样的抱负，并认为他们已经实现了它。回想起我的梦，我开始明白，自那时起，勤奋的哲学蠕虫一直在啃食他们的体系，并显示这一成就是一个幻觉。（2002: 269）
+
+然而，他的想象力也可以不那么谦虚：一群道德哲学家被困在充满烟雾的地下室里；他们互相交谈，拒绝采纳他独自发现的通往户外的出路。他的抱负是以逻辑一致的方式将亚里士多德、康德和密尔的元素结合起来，解决伦理学的基本问题（尽管还有未完成的工作），他通常相信自己已经做到了。在他的职业生涯中的大部分时间里，他的“规范主义”在课程中占据重要地位，至少在英国是如此。他的失望在于未能说服他人（偶尔的“我们规范主义者”总是指向不确定），并且没有留下门徒；他曾告诉约翰·卢卡斯，这使他的一生成为失败。然而，他留下了一代又一代感激的学生，他们感激的不是一种教条，而是一种纪律；后人虽然不太可能认可他理论的逻辑有效性，但会因其统一表面上的对立，自由与理性、传统与理性主义、折衷主义与严谨性而钦佩他。
+
+* [1. 生平与人物](https://plato.stanford.edu/entries/hare/#LifMan)
+* [2. 道德语言](https://plato.stanford.edu/entries/hare/#LanMor)
+* [3. 指令的逻辑](https://plato.stanford.edu/entries/hare/#LogImp)
+* [4. 原则决策](https://plato.stanford.edu/entries/hare/#DecPri)
+* [5. 关注偏好](https://plato.stanford.edu/entries/hare/#AttPre)
+* [ 6. 可能的人](https://plato.stanford.edu/entries/hare/#PosPeo)
+* [7. 道德思维的层次](https://plato.stanford.edu/entries/hare/#LevMorThi)
+* [8. 宗教和元伦理学中的实证主义痕迹](https://plato.stanford.edu/entries/hare/#TraPosRelMet)
+* [ 9. 后记](https://plato.stanford.edu/entries/hare/#Aft)
+
+  * 补充文件：黑尔的“一篇唯一主义论文”
+* [ 参考书目](https://plato.stanford.edu/entries/hare/#Bib)
+
+  * [ 主要文献](https://plato.stanford.edu/entries/hare/#PriLit)
+  * [次要和其他文献](https://plato.stanford.edu/entries/hare/#SecOthLit)
+* [ 学术工具](https://plato.stanford.edu/entries/hare/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/hare/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/hare/#Rel)
+
+---
+
+## 1. 生平和人物
+
+理查德·麦尔文·黑尔于1919年3月21日出生在布里斯托尔郊外的巴克韦尔·唐。他在职业上被称为R.M.黑尔，私下则被称为迪克·黑尔。他的父亲查尔斯·弗朗西斯·奥本·黑尔是一家名为约翰·黑尔公司的公司董事，生产油漆和地板布；母亲是路易丝·凯瑟琳·西蒙兹，来自一个酿酒和银行家族。他的父母在他很小的时候就去世了。之后，他主要由母亲一侧的监护人和亲戚照顾，先是在萨塞克斯郡的科普索恩上学，然后从1932年到1937年在拉格比学习古典学者。1937年，他获得了奖学金进入巴利奥尔学院，读了两年的伟大课程，然后战争爆发。
+
+尽管受过较为古典的教育，理查德·麦尔文·黑尔的思维已经开始转向道德哲学。他将这归因于两件事情，一是需要定义对战斗的态度，二是对生活在适度舒适中感到内疚。在还在拉格比学校时，他花了很多时间与失业者一起工作，最终决定不成为和平主义者，而是加入了军事训练队。当战争爆发时，他自愿加入皇家炮兵部队，并规避了一次医学检查的结果，以便获准在海外服役。1940年秋天，他最终被派往印度的一艘船上。他在那里接受了一年的旁遮普士兵训练，并享受了一些冒险经历（两次在丛林中找回自己的路，一次是在将枪支交给日本人后）。1942年2月新加坡沦陷时，他最终被俘虏。然后，他经历了一段漫长的沿着河桂途径前往三塔关附近的艰苦行军，与一群军官一起，他们的任务是作为苦力修建从泰国通往缅甸的铁路。因此，他深知亚里士多德在一首致已故朋友的颂诗中所提到的与美德相关的“暴力不懈的劳动”。他在自传中写道，“我宁愿不提及我们在那里度过的八个月的苦难”（2002: 283）；他很少提及这些经历（除非更幸运的批评者鲁莽地归咎于他，认为他享有牛津大学研究员的特权，免受更广泛生活经验的影响）。最终，他与其他军官一起被囚禁在新加坡，战争结束后的三年半后获释。
+
+战后，理查德·麦尔文·黑尔回到巴利奥尔完成了四年的哲学学业。甚至在他参加期末考试之前，他就被巴利奥尔提供了一个讲师职位，几乎立刻就成为了一名研究员。黑尔总是声称从他的学生那里学到了很多东西，他在巴利奥尔的早年为他赢得了杰出的学生，其中包括伯纳德·威廉姆斯、大卫·皮尔斯、理查德·沃尔海姆和约翰·卢卡斯，他们四人不仅成为了职业哲学家，还成为了英国学院院士。卢卡斯叙述了他和同辈们如何计划一天的辩论，一群学生整天围绕着对黑尔某个已定观点的异议进行讨论，并对黑尔的回应进行回应，而威廉姆斯则被派去最后进行致命一击，然而事实上从未致命。从未经历过黑尔即兴应对异议的人，无法真正理解即使是他不太可信的信念也有多坚定。然而，尽管有一些印象，他完全有能力承认公正反驳的力量。他相信，一旦消除了混淆，表面上的分歧通常可以得到解决（这也是他最后一本书《伦理学的整理》（1997 年）标题过于乐观的原因）。这种信念伴随着一种假设，即对他观点的异议基于混淆，这可能导致一定程度的尖刻。他意识到他在《黑尔和评论家》中“评论”的简洁经济格式（他认真希望将其命名为英国熟悉的一家酒吧的名字“黑尔和猎狗”）可能会被误解（1988a: 201）：
+
+> 如果有人认为我在写笔记而不是文章时对我的批评者不礼貌，我必须指出，这正是我们通常对待柏拉图和亚里士多德的方式（如在克拉伦登评论系列中），逐一审视他们的论点，简洁而认真地对待。
+
+有人可能会抱怨说，理查德·麦尔文·黑尔最感兴趣的是他自己的想法。约翰·卢卡斯从汤姆·布劳恩那里得到了一首巴利奥尔韵律（他在卢卡斯 2002 年的著作中引用了一个变体版本：31 页），这首韵律是在《道德语言》（1952 年）出版后不久创作的：
+
+> 我一直教导我的学生们
+> 你不能从“应当”中得到一个“是”。
+> 这是我的歌曲的负担：
+> “这在我的书里，否则就是错误。”
+
+理查德·麦尔文·黑尔确实最欣赏对他自己重新考虑有帮助的观点；可以依赖他会非常慷慨。他总是贬低自己的学术成就，尽管从一个苛刻的角度来看。 （在写他非常简短的一本书《1982 年》之前，像黑尔那样重新阅读整个希腊文的柏拉图的长篇著作的作家很少见。）然而，他的兴趣范围比他的出版物更广泛，涵盖了弗雷格、乔姆斯基、戴维森以及当代心灵和语言哲学的广泛领域。尽管他热衷于宣称自己的祖先（在一篇晚期百科全书文章中，他将苏格拉底和亚里士多德算作第一批规范主义者的一部分；1998 年：20），但他对哲学的热爱并不完全等同于对自己哲学的热爱。
+
+他最和蔼可亲的一面显而易见地展现在本科生（优先）身上，他从早期开始邀请他们参加他在安格尔西的普拉斯·罗斯科林和后来在埃维尔姆的藏红花之家举办的读书聚会之一。在那里，他生动地传达了一种价值和乐趣的感觉，不仅仅是阅读，而是做哲学。因此，无论他的标准有多高，作为导师，他都是一个非常积极的人物，以一种可能有主见但也忘我自我的方式参与讨论。他是传统意义上的清教徒，与约翰逊博士一样赞同“无害的乐趣”。他关心反对吃肉的理由；但他最终成为几乎素食主义者，他说，这更多是因为园艺而不是争论。他的一些厌恶是独特的：贝多芬的音乐（他发现表面），穿袜子（他归因于商业主义），喝咖啡（他说影响他的脾气），乘火车旅行（引起他焦虑），赠送和接收礼物（接收者最清楚自己想要什么）。维德·梅赫塔（1962年）回忆起他为了摆脱干扰而在牛津的房子前草坪上的房车里工作。尽管他并不奢侈，但他有勇气成为一个古怪的人。
+
+最初是在阅读聚会上，他的学生们接触到了他生活中与哲学同等重要的一部分，那就是他的妻子和孩子。他将这段经历描述为“大多数是噩梦的一夜”，始于 1935 年他母亲的去世，终于 1947 年与凯瑟琳·弗尼结婚，他称之为“我做过的最好的事情，也是持久幸福的源泉”（2002 年：272 和 292 页）。他们共同热爱传统的英国圣公会（尽管她的信仰比他更正统），以及音乐（尤其是合唱和无伴奏声乐）。在尤尔姆的黑尔阅读聚会总是在某种程度上是一个音乐营地，有钢琴可以弹奏和无伴奏合唱曲可以演唱（只要有人能加入）。所有事情都同样涉及到他们的四个孩子，约翰（已经出版了关于他父亲的著作，2007 年：184-248 页），以及三个女儿。没有他们，即使作为一名道德哲学家，他也会感到不完整；因为对亚里士多德的问题“我应该成为什么样的人？”对他来说，变成了“我应该教育我的孩子成为什么样的人？”
+
+黑尔在巴勒尔担任导师长达二十年，并始终感到与该机构的联系胜过其他一切（因此遗赠了他的 Nachlass）。直到 1964 年，他被选为英国学院院士。然而，不可避免的晋升最终使他在 1966 年调任到科珀斯克里斯蒂的怀特斯道德道德哲学讲座。在那里，他负责监督研究生的工作。（巴勒尔和科珀斯的学生仍然受益于他的阅读聚会，而在约翰在巴勒尔期间，这些聚会曾一度成为每两年一次。）他还轮流担任哲学小组的主席，负责招收和监督研究生，以及系主任。可以说，管理是一项他处理得很出色的任务，但他也很出色地拒绝将其视为自己的身份认同。
+
+他回忆起他母亲这一边的大多数表亲都是美国人；他的两个孩子移民到美国并嫁给了美国人。像所有杰出的牛津哲学家一样，他收到了许多邀请（其中最受欢迎的是斯坦福行为科学高级研究中心的邀请，他在那里写了《道德思维》（1981年）和他的小书《柏拉图》（1982年）。所有这些使他1983年从牛津提前退休，被任命为佛罗里达大学盖恩斯维尔分校哲学研究生教授，显得不那么令人意外。一个愿望是逃离牛津的学院政治。一个促成因素是《道德思维》的出版，他承认，这让他在他的主要讲座中立即没有新的话可说。然而，他的主要动机是帮助建立一个应用哲学中心。
+
+“应用伦理学”这个短语现在非常熟悉（然而，人们可能认为有争议），这暗示了一种伦理理论传统，比如理查德·麦尔文·黑尔的理论，邀请进行实际应用。事实上，他在实践伦理学领域发表了他的第一篇论文，题为《伦理学与政治》，发表在《听众》杂志上（1955年）。 （其中一部分被收入，标题为“我可以因遵命而受责备吗？”，见黑尔1972a；随后是三篇最初发表于1950年代的论文，以及更多来自1960年代的论文。）更为人所知的是《自由与理性》（1963年）的最后一章，讨论了当时（似乎）完全顽固的种族隔离问题。此后还有许多其他作品，包括一系列论文和担任各种咨询机构的成员（见黑尔2002：294–5）。他特别关注城市规划，偏爱径向道路而不是环形道路，以及生物医学伦理学，在这方面，他努力做到逻辑严谨，而不仅仅是思想上的一致。当应用哲学协会成立时，他成为了第一任主席。因此，他期待着将自己的精力重新聚焦在这一领域上；在某种程度上，即使中心部分让他失望，这种情况也发生了。正如他所指出的，1989年至1993年间出版的四卷论文集中，有三卷属于实践伦理学（见黑尔1989b、1992a、1993a）。
+
+他在盖恩斯维尔的时光被他第一次、也是最轻微的中风打断了。1994 年，他与凯瑟琳完全回到尤尔姆，进一步的发作剥夺了他继续与“通常的误解”作斗争的希望（2002: 304–5）。他最后一次发表论文是在伦敦国王学院向本科生观众做的。他仍然能够整理出《伦理学的整理》（1997a），这是从他 1991 年在乌普萨拉大学发表的阿克塞尔·哈格斯特伦讲座中得出的（当时他还获得了乌普萨拉大学的荣誉博士学位——他的第一个博士学位来自隆德大学）。他的八十岁生日标志着最后一部论文集《客观处方和其他文章》（1999）的出版。他在 2002 年 1 月 29 日突然而平静地去世。
+
+## 2. 道德语言
+
+在哲学上，黑尔受到了两种影响，这两种影响共同导致了他始终能够保持的观点。一种是情感主义。他在这方面遵循了一种广义经验主义的事实观，排除了任何关于道德事实的“事实”概念。然而，他从未完全采纳验证原则的意义。他也回避了任何将“情感意义”解释为道德话语被情感操纵的因果解释。一个经常出现的主题是情感主义之所以错误，是因为将道德语言的意义与其言外行为联系起来，而不是与其言内行为联系起来（1997a: 112–14），也就是说，与我们通过使用它所做的事情联系起来，而不是我们在使用它时所做的事情。
+
+另一个影响是康德的。从H.J.帕顿关于康德的讲座和雷金纳德·杰克逊的文章中，他了解到命令属于理性范畴。这使他开始研究命令逻辑，这是在斯堪的纳维亚（尤其是由阿尔夫·罗斯）已经在探讨的主题，但在英国却不常见。在他的第一篇发表的文章《命令句》（1949年），在他于1950年参加T.H.格林道德哲学奖的论文《实践理性》中，以及在他的第一本书《道德语言》（1952年）中，他探讨了从命令性或命令性和陈述性前提中推断出命令性结论的可能性。
+
+《道德语言》介绍了规范性和描述性含义之间的区别。规范性含义是指与命令相关的：如果一种陈述蕴含着至少一个命令，即使必要时需要与纯粹事实陈述一起，那么这种陈述就是规范性的；同意一个命令就是规定行动。描述性含义是指与真值条件相关的：一种陈述在正确应用的事实条件定义其含义的程度上是描述性的。在休谟的传统中，人们认为事实只是偶然具有动机作用：欲望并不是对纯粹事实陈述真诚同意的一部分。道德陈述具有规范性含义，但也可能部分具有描述性。因此，“A[一个人]应该φ”蕴含着命令“让A φ”，因此真诚同意这一陈述就意味着有一个压倒性的欲望（如果对自己的应用看起来可行，这种欲望将转化为意图）让A φ。如果在语言社区内有φ的同意理由，比如说它是令人愉快的，“A应该φ”可能会带有“φ是令人愉快的”这种描述性含义。如果有关于评估F的标准，那么“X是一个好的F”就会规定在某个范围内做出选择（比如，对于正在选择F的人）；如果有关于评估F的标准，它就会带有描述性的含义。
+
+黑尔从未说道伦理陈述是命令; 但是，非描述性或评价性的含义却是以命令的方式定义的，这一点非常引人注目。这立即使人们清楚地理解了他对休谟否认从“是”中推导“应该”的支持。这也与康德至少在表面上是一致的，并且对于后来的发展至关重要，这些发展带来了与康德相媲美的结果。然而，一个缺乏康德对纯理性意志信仰的休谟主义者可能更倾向于使伦理陈述更宽松地表达愿望或欲望，甚至抱有志向; 这可以避免每个人对规范主义的第一个反对意见，即，直观上，“我应该φ”并不意味着“我将φ”（表达意图）。黑尔从苏格拉底和亚里士多德遭受了同样的反对意见中获得了勇气; 正如他喜欢强调的那样，苏格拉底并不只是犯了一个错误。他最初的回答是，未尝试做自己承认应该做的事情的情况可能涉及心理能力不足，或者“应该”一词的不当使用使其失去了完全的规定性含义。他在他的第二本书《自由与理性》（1963 年）的一章中更全面地回到了这个问题，并且在 1992 年的一篇晚期百科全书文章“意志的软弱”中再次讨论了这个问题。在最后一篇文章中，他承认在不同情况下会出现不同的问题。有时，真实故事甚至可能涉及类似于柏拉图灵魂的划分（旨在容纳自觉的自相矛盾）。
+
+## 命令的逻辑
+
+黑尔试图建立一种命令逻辑是创新的，但存在问题。一个不确定性在于其领域。他假设存在一种讲述的种类，涵盖命令、指令、指示、给予建议，甚至——当命令是自我指向时——形成欲望和意图。这些共同具有一个适应方向或匹配责任的种类，与传达信息并表达信念或知识状态的讲述形成对比。粗略地说，如果我告诉你 p，而 p 是错误的，那么，如果有什么问题，那就是我的话语有问题；如果我告诉你做 X，而你没有做 X，那么，如果有什么问题，那就是你的行动有问题。总体思想是，正如如果我告诉你 p，我隐含地告诉你 q，如果在我们之间是共同知识 p 蕴含 q，那么，如果我告诉你做 X，我隐含地告诉你做 Y，如果我们知道——嗯，这就是需要确定的事情。
+
+有人认为隐含规定的概念未能确定任何命令逻辑（Price 2004b: §4）。黑尔后来的论文集中讨论了各种问题案例。我将在这里考虑其中三个，所有这些问题都可以通过黑尔提出或可提出的可能解决方案来解决。
+
+（1）最简单的例子只涉及命令句。如果第一个命令无法满足而不满足第二个命令，则可能会引发这样的简单想法，即一个命令蕴含另一个命令（黑尔将其确定为“满足逻辑”，1971a: 63）。在以下情况中，这似乎是合理的。
+
+* (A)做 X 和 Y。
+  因此，做 X。
+
+然而，这可能看起来不太可能。
+
+* (B)执行 X。
+  因此，执行 X 或 Y。
+
+（黑尔讨论了以下实例，“寄信；所以要么寄信要么烧掉”，1967 年：25-34）。然而，与（A）一样，对于（B）来说，前提不能在没有满足结论的情况下得到满足。此外，（B）可以通过逆否命题和替换从（A）中推导出来。如果（A）是有效的，那么（C）也应该是：
+
+* (C)不要做 X。
+  所以，不要做 X 和 Y。
+  所以，要么不做 X，要么不做 Y。
+
+然后我们只需将“不”替换为“做”，就得到了（B）。
+
+威廉姆斯（1962/3）认为（B）是无效的，理由是其结论带有“允许性前提”，即听者可以做 X 或做 Y。黑尔则辩护说，这种允许是一个在由前提“做 X”定义的语境中被取消的会话含义。然而，即使（A）看起来可能没有那么合理。举个例子（出自鲍勃·黑尔）：
+
+* （D）点燃导火线并后退三步。
+  因此，点燃导火线。
+
+当然，结论重申了前提中规定的部分内容。但是，即使我很乐意告诉某人点燃导火线并后退，但如果我知道，考虑到他容易冲动的倾向，他点燃导火线后很可能会忘记后退，我可能会犹豫告诉他点燃导火线。 （用可能世界的术语来表达，如果他点燃导火线的最接近这个世界的世界是一个他忘记后退的世界，我就不会告诉他点燃导火线；事实上，一个解决方案是要求为了推理的进行，添加一个事实前提，即如果他点燃导火线，他会记得后退。）那么，我怎么能在暗示某人做一件事情时，却不愿明确告诉他去做呢？
+
+然而，黑尔可能会说，隐含在“点燃导火线”中的任何建议，即听者应该专注于点燃导火线的内容，在上下文中通过最初的指示——即随后后退——得到纠正。
+
+(2) 当我们混合推理时，涉及陈述性和祈使性前提时会出现新问题。将满足逻辑扩展到这些情况的最简单方法是通过以下规则：如果前提不能为真（如果是陈述性的）或不能被满足（如果是祈使性的）而不使结论也为真或被满足，则一组前提蕴涵一个结论。然而，我们还需要限制性规则，其中一个例子（已在 1952 年声明过：28）是纯粹陈述性前提不能得出祈使性结论，但这无疑太简单了。从亚里士多德的《动物运动论》（7，701a19-22）中举一个例子。它涉及从一个意图推理到另一个意图。鉴于黑尔将意图表示为自我指示的祈使句的意愿，我们可以将其改写如下：
+
+* (E)让我做一件斗篷。
+  如果我做一件斗篷，我必须做某某事。
+  所以，让我这样做。
+
+在这里，如果第二个前提为真，则第一个前提不能在不满足结论的情况下得到满足；因此，推理是基于满足逻辑进行的。
+
+现在显然需要加以限制。拿以下情况为例：
+
+* (F)让我喝醉。
+  谁喝醉了就一定会宿醉。
+  所以，让我宿醉吧。
+
+确实，如果我建议某人“喝醉”，他可能会回答“你是在让我宿醉吗？”然而，这种推断并不可接受，因为实现意图的预期副作用并不意味着有意，即使（在另一种情况下）它们是受欢迎的。可能会将一个意图转变为另一个意图的推断实际上更需要与亚里士多德所期望的（尽管其措辞实际上是模棱两可）相关，即与实现特定目标的手段或方式相关。
+
+然而，进一步的问题出现了。假设我打算实现某个难忘的目标，并意识到这将需要，最终，一个目前可以被遗忘的手段。（假设我已经决定制作一件斗篷，这个目标已经在我的脑海中占据了重要位置；但是我知道在适当的时候将需要一些辅助手段，只有当时机到来时，这些辅助手段才会变得突出——我现在无法形成实现手段的意图，因为我知道我会立即忘记它，直到我打算实现目标时在适当的时刻提醒我。）那么，我已经打算实现目标，但目前还不能认真打算实现手段；因为有一个合理的解释是，当一个人期望自己的意图在导致自己做某事的因果序列中发挥作用时，他才会有当前意图做某事的一部分。
+
+黑尔会对这一切说什么呢？他可以回答，虽然自我命令可能表达一种意图，但也可能未能如此，并且这并不限制命令逻辑。如果我告诉某人喝醉，知道这会导致宿醉，那么我就是在告诉他要宿醉，即使我并没有打算这样做。此外，一个命令表达意图的一个前提条件是，其实现对于主体来说似乎是可行的；现在可以补充说，我只有在期望它有助于满足命令时才能形成一个意图。这就成为一种完善，而不是一个反对意见。
+
+(3) 我们都面临的一个问题是如何调和以下两个条件性命令。 （我从 Price 2008: 60 中选取例子；但这是黑尔长期以来意识到的一种情况，并在黑尔 1968 中进行讨论。）
+
+* (a) 如果你想每天晚上喝醉，你应该在酒吧工作。
+* (b) 如果你想每天晚上喝醉，你不应该在酒吧工作。
+
+这些看起来矛盾，但不一定完全不一致：(a) 可能是真实的，因为在酒吧工作是你每天晚上唯一能喝醉的方式；(b) 可能是真实的，因为考虑到你是一个意志薄弱的潜在酗酒者，不在酒吧工作是你保持健康的必要条件（你可能非常关心，或者应该关心）。我们可以通过询问如何分离结果来最清楚地区分(a)和(b)。在(b)的情况下，这似乎很简单：可以通过断言“你（确实）想每天晚上喝醉”来从(b)中分离“你不应该在酒吧工作”。但是，如果可能的话，我们如何分离(a)的结果呢？
+
+一个答案可能是不能。另一个答案可能是可以，通过断言“你（确实）想每天晚上喝醉”，但只能在非常限定和情境化的意义上推导出结果“你应该在酒吧工作”：在这种情况下，在必要手段方面，酒吧工作可能符合每天晚上喝醉；因此，可以说“你应该在酒吧工作”，但前提是“应该”所暗示的适合性仅存在于相关目标之间的关系中。（因此，当然，不会有任何关于在酒吧工作的建议。）然而，黑尔允许自己一个大胆的解决方案。他认为从句“你想每天晚上喝醉”在(a)和(b)中有不同的含义。在(b)中，它是一个嵌入式陈述句，将一种愿望归因给你—这就是为什么结果可以通过断言“你想每天晚上喝醉”来分离。在(a)中，它是一个嵌入式祈使句，这本身就足以建议你每天晚上喝醉；因此结果可以分离，但只能通过规定“每天晚上喝醉”来规定。
+
+因此，逻辑本质上与上述(E)的逻辑相同（但第二前提有明确的消歧义）：
+
+> 每天晚上都喝醉。
+> 要每天晚上喝醉，你必须在酒吧工作。
+> 所以，在酒吧工作。
+
+这就邀请了重新书写，根据理查德·麦尔文·黑尔认为是合法逻辑策略的类比，如下所示：
+
+> 每天晚上喝醉酒，你必须在酒吧工作。
+> 因此，如果每天晚上喝醉酒，就在酒吧工作。
+
+但是，由于语法排除了在“if”之后使用祈使句，因此在前提中用“you want”的特殊用法替代它。
+
+这可能被认为对理查德·麦尔文·黑尔来说并不比方便更有问题：它是否违反了一个简单——如果太简单——规则，即不能从不包含祈使句的前提中推导出祈使结论？然而，在这里这个简单规则并不适用；因为在结论中具有最广泛范围的运算符是“if”，而不是一个祈使句。
+
+当然，黑尔提出的这个建议突显了一直以来对实践“应该”（和“必须”）的规范分析最严重的反对意见：道德判断不能蕴涵祈使句；因为道德判断的内容可以发生，而祈使句不能出现在各种上下文中，比如“if”从句（构成条件前提）或“that”从句（给出信念或断言的内容）。这一反对意见在彼得·吉奇在一篇文章中（1965 年）引用戈特洛布·弗雷格时得到了强烈表达；因此它被称为“弗雷格-吉奇”反对意见。黑尔的回应可以在黑尔（1970 年）中找到。他对条件句中出现的问题的解决方案源自吉尔伯特·赖尔的“推理凭证”概念（1950 年）。准英语“如果每天晚上喝醉酒，就在酒吧工作”的作用是从任何关于每天晚上喝醉酒的规定中得出在酒吧工作的隐含规定。因此，追问（a）的说话者在假设什么以及什么可能使其成立是不合适的。看起来像是具有复杂结构的真实命题实际上发挥了完全不同的作用：它不是一个命题，而是一种规则。
+
+黑尔（1989c）进一步希望通过区分言语行为表达中的两个要素来减少嵌入式祈使句的悖论：当说话者说“做 X”，从而告诉听话者做 X 时，他既发出了一句祈使句，适合传达命令，又表明他打算这样使用它。他称第一个的标志为修辞标志，或语气标志；这应该与订阅标志（如弗雷格的断言标志）区分开来。当“做 X”嵌入在条件前提中时，如英语中可以用“如果你想做 X”来表达，修辞标志仍然存在，尽管订阅标志消失了。这就是为什么是祈使句“做 X”，而不是陈述句“你将要做 X”，释放了结果。
+
+自那时以来，已经有许多尝试解决本质上相同的问题，这个问题出现在任何一种道德判断的观点中，这种观点否认它们在实质上是真实的，即描述事物或提出关于事物状况的可能信念内容。事实上，这个话题在过去十年左右再次充满活力。在最近的研究中，最接近黑尔的是约翰·埃里克森（2009）的研究；另见埃里克森（2015），以及 Eggers（2016）的讨论。请看以下例子（比埃里克森的例子更直接）：
+
+1. 你对我撒谎是不好的。
+2. 如果你对我撒谎是不好的，那么我对你撒谎也是不好的。因此，
+3. 我对你撒谎是不好的。
+
+我们可以称说话者为“S”，被称者为“A”。埃里克森的建议是，推理的有效性取决于“坏”的描述性含义（一般情况下的含义，或者更可能的是在这种情境下的含义）。假设 S 认为 A 对他撒谎是不好的。这必须是因为在他看来，它具有某种一般的使其变坏的特征 B *；这是前提 1 背后的原因。然后，在一个简单的情况下（这应该足以说明目前的观点），在前提 2 背后的是对 A 对他撒谎的 B*的相等但有条件的归因。前提 1 成为释放前提 2 后果的前提，我们得出了第 3 点中陈述的结论。
+
+黑尔意识到，这样的推理在我们限制自己只涉及 B*中拼写出的“坏”的描述性含义时可以毫无问题地进行（并且毫无趣味）；但是，当然，我们希望进行一种导向性结论的推理，而不仅仅是描述性结论。埃里克松现在借鉴了黑尔已经反复提到的一个观点：根据普遍性，如果 S 希望在拒绝导向性地表示 3.的同时导向性地表示 1.，他将面临问题。如果他要禁止 A 对他撒谎，但不禁止他对 A 撒谎，他将需要确定一些与 B*不同但适用于 A 对他撒谎而不适用于他对 A 撒谎的相关替代方案；这就是描述性含义变得至关重要的地方。这里如何定义“相关性”？普遍性排除了 S 和 A 之间的纯粹身份差异被视为相关。然而，毫无疑问，S 也可以通过各种一般特征与 A 区分开来，其中任何一个都可能用来在这两种情况之间做出允许的区分。在这里，我们需要借助我们将在下一节中讨论的《黄金法则论证》的全部力量：排除发言者制造某种人为区别以允许他对 A 撒谎而不允许 A 对他撒谎的可能性，将是他无法真诚和谨慎地根据其选择他的规则的能力所在。
+
+毫无疑问，黑尔对这个解决方案会表示欢迎。对它的两个明显反对意见源于无论如何都与他对“描述性含义”的构想有关的问题：
+
+1. S 可能只对 B*的内容有一个模糊的概念。
+2. 即使 S 对 B* 有一个清晰（或足够清晰）的概念，A 本人很可能有不同的概念，和/或对 S 的概念没有清晰的理解。
+
+显然，理查德·麦尔文·黑尔需要在思维和语言哲学中进一步思考，这必须是演讲者意义的概念。（在阅读聚会和非正式讨论中，他对 H.P.格莱斯的工作非常感兴趣；然而，也许是出于对其复杂性的认识，他从未在印刷品中或在这方面进行过讨论。）一个局部的回答，远离任何这样的一般哲学，必须是以下的思路。显然，我呈现的推理的有效性如何选择指定 B* 对推理的有效性并不重要。因此，即使 S 和 A 都缺乏或未能分享任何适当的 B* 概念，他们仍然可以分享对推理的有效性的理解。埃里克松提供的所有内容，以及我提出的内容，都是推理的概要基础；出于给出的理由，我们可以在能够明确详细说明以可靠地支持 S 和 A 共同推理出伦理结论之前，理解这个模式如何确认推理的有效性。而一个可能缓解情况的真实可能性是：S 和 A 可能会同意，没有相关的一般特征可以区分 S 对 A 的谎言和 A 对 S 的谎言，尽管他们在使两者都错误的特征上存在分歧，或者彼此不清楚。
+
+讨论集中在条件句前提中嵌入的特殊问题上。随着道德谓词在间接话语中的出现，理查德·麦尔文·黑尔面临着独立的困难，而且他并没有提供明确的解决方案。然而，如果要有任何解决方案的希望，他可能需要在这种情况下利用他对描述性含义的概念。以“S 相信说谎是错误的”为例，或者（并且无关紧要地）“S 认为说谎是错误的。”直接分析他相信这一点的内容几乎是不可能的。然而，通过采用黑尔对“说谎是错误的”分析作为假设，可以指定一些必须为真的内容，以便 S 被视为相信说谎是错误的。S 需要有一个概念，描述说谎的某些特征，由此，一旦他普遍规定，他就会禁止说谎。（或者，S 可能无法说出使说谎成为错误的原因，但却不怀疑说谎具有某些特征使其如此。）那么，赋予他“信仰”内容的可理解性和确定性的不是一组真值条件，而是一种基于事实基础的意志行为，并不仅仅是重复他的保姆教他愿意的内容。他持有的是关于说谎的一个明显的事实信念（尽管他可能无法始终表达出来），并且基于这一点禁止说谎。
+
+## 4. 原则决策
+
+在理查德·麦尔文·黑尔的理论中，规范性和普遍性这两个特征始终是其理论的双重支柱。术语“普遍性”后来成为稍晚一篇论文（1954/5 年）的标题，该论文还澄清了亚里士多德和康德中造成真正困扰的混淆。 “普遍”术语（如“人”或“希腊人”）与“特定”术语（如“苏格拉底”）形成对比。然而，在格言的情况下，需要区分两个不同之处：格言可能是“普遍”的，而不是“特定”的或（含糊地）“特定的”，因为它不指涉任何个体（除非在介词的范围内，如“像”将个体的名称转换为模糊的种类规范）；格言也可能是“一般的”，而不是“具体的”，以识别广泛的代理人或行为类别——这是一个程度上的差异（因此普遍规则“始终提供真实证据”比“始终说实话”更具体，比“始终宣誓提供真实证据”更一般）。任何关于“一般原则”的实用性和可接受性的讨论都需要区分这些差异。黑尔在这个问题上的清晰度是他对哲学最重要且不容置疑的贡献。
+
+在他的论文“实践理由”（1950 年）中，他已经提出许多决策是原则决策，不是源自原则，而是建立原则。正如他在那里所指出的，
+
+> 决定接受一个非常普遍的命令，比如“永远不说谎话”，并不比决定不说这个特定的谎言更容易，而是更困难...如果我们甚至不能决定是否说这个谎言，那么我们就无法决定是否在我们完全不了解细节的无数情况下说谎。
+
+那么，是什么指导决定呢？在他的文章的第二部分中，他试图在诸如“朋友”之类的概念中找到道德推理的安全基础；但在尝试在印刷品中使用之前，他放弃了这种方法。他的论文《普遍性》（1954/5）强调了在做出既是原则性决定又是个人责任的决定时的个人责任。下一个重要发展出现在第二本书《自由与理性》（1963年）中，其中规范性和普遍性的形式特征产生了一种“黄金法则”形式的论证（正如路加福音6:31（KJV）中所述，“你们愿意人怎样待你们，你们也要怎样待人”）。黑尔提供了一个简单的情景（1963: 90-1）：假设A欠B钱，B欠C钱，法律允许债权人通过将债务人关押在监狱来追讨债务。如果B简单地决定“我会把A关进监狱”，可能没有什么可对他说的。但他能说“我应该把A关进监狱”吗？如果他这样做，他就承诺了一个原则，比如“如果这是追讨债务的唯一途径，债权人应该关押债务人”。B不太可能愿意推荐这样一个可能的含义，“让C把我关进监狱”，因为那会挫败他自己的利益。黑尔认为，即使事实上B并不是债务人，这种论证形式仍然具有说服力；因为判断“我应该把A关进监狱”及其所引用的原则仍将导致条件句，比如“如果我处于A的境地，让我被关进监狱”，B不太可能诚实地同意这些条件。
+
+在《自由与理性》中，理查德·麦尔文·黑尔允许那些对某种客观理想（比如认为债务人应该受到严厉对待）如此执着的“狂热者”回避论点，以至于他愿意忽视自己的个人利益（包括作为债务人自己的利益，或者如果他是债务人的话会有的利益）。后来对这一论点进行了进一步的收紧（最早完整阐述于1972年），希望消除这种可能性。在实践力量上，理想等同于普遍偏好，其内容不同于个人偏好，但其道德分量取决于实现这些偏好将满足的偏好的普遍性和强度。B真的宁愿自己去监狱，也不愿债务人受到宽容对待，这是可能的，但不太可能。一个更有可能的狂热者在未能充分考虑自己的利益（实际的或假设的）方面犯了一种轻率的错误。新兴的伦理理论是一种独特的功利主义，它将道德善与最大化某种主观状态（比如幸福）不同，而是与偏好的满足最大化相对应。
+
+这个论点引起了几乎和关注一样多的怀疑。似乎不太可能，指定普遍性地应该使一个说话者承担一个实质性的伦理立场，更不用说如此独特的立场了。然而，理查德·麦尔文·黑尔的立场逻辑在他的第三本书《道德思维：其层次、方法和要点》（1981年）中变得明晰。在那里，他阐述如下。在思考是否应该同意陈述“某人应该φ”时，说话者必须反思自己是否可以规定每个人都应该以相同的方式行动，无论他自己的情况如何。“我”并不暗示任何本质（例如，人类）：我们每个人可能是任何事物，因此，在为所有情况（实际或可能的）制定规范时，必须代表每个人关心。此外，“我”的含义还有一个规定性方面：将一个角色视为可能是自己的角色，并为该可能情况制定规范，就是要权衡那个角色的占有者的偏好，就好像它们实际上是自己的偏好一样。因此，说话者只有在某个普遍原则可以推导出他将接受的情况下，才能理性地同意特定的“应该”陈述，如果他对所有受其遵守影响的偏好给予公正和积极的重视。因此，道德反思产生了一种普遍化的谨慎。在这个框架内，道德理想仅仅是普遍偏好；让自己的理想取代他人更强烈或更普遍的欲望或理想是一种自我主义，因此被排除在外。然而，人类的决定仍然是自由的，无论多么理性和知情，因为任何人都可以通过拒绝道德化来避开道德的约束；因此，仍然是真实的，没有“是”蕴含着“应该”。
+
+This is an extraordinary, and extraordinarily bold, intellectual construction, which invites debate at many points. Zeno Vendler (1988: 181) urged that we keep apart the semantic thesis (which may be true or nearly true) that “I” is a pure indexical, from any metaphysical claim (which may baffle us) that it denotes a pure subject which can take on *any* state or role. In his reply, Hare clearly shies away from adopting a metaphysical position stranger than Vendler’s own (which rejects Cartesian egos but does admit a transcendental ego). Yet he still supposes it to be true that “I might be Napoleon”, and that “the world in which I was Napoleon would be a different world than this, though not in its universal properties” (1988a: 285). He even supposes that I can consider situations in which I am a stove, a mountain, or a tree—although, since I cannot care what happens to me if I become such a thing, the consideration is idle (1988a: 283). Hare seems here to have entered rather unexpected territory. It would have suited his usual common sense to permit me to imagine not *that I am* Napoleon, but *being* Napoleon, i.e., what it was like to be Napoleon; and that can suffice to incline one to ambivalence about the outcome of Waterloo. But he requires there to be a possible situation in which I am, at any rate, relevantly *just like* Napoleon if he is to maintain that prescribing, say, “All men like Napoleon should receive their come-uppance” applies even *to oneself*, and so may be imprudent.
+
+从陈述句中推导出一种命令的危险仍然存在。毫无疑问，拿破仑非常希望赢得这场战斗。对这一事实的认识是否意味着我要在反事实的假设下，即我是拿破仑，规定拿破仑必须获胜？在这里，理查德·麦尔文·黑尔进一步利用了他的论点，即“我”的含义在一定程度上是规范性的：假设“如果我是拿破仑”已经意味着“与他的规定产生共鸣”，即规定，其他条件相等的情况下，在假设范围内得到满足（1981 年：96-9）。
+
+解决方案同样优雅而大胆。这可能会使人怀疑，我是拿破仑这种情况是否真实存在。（因为如果这是一个可能的情况，与实际情况相同类型的情况，那么我如何在采取什么态度上受到逻辑的约束—而不是人性的约束呢？）这也引发了关于与拿破仑的规定产生共鸣意味着什么的问题。有人可能认为，如果“我”完全是规范性的，那么在我是拿破仑的情况下，我不能规定拿破仑在那种情况下被击败，因为那绝对不是他想要的，也永远不会是他想要的；如果是这样，我就不能诚实地规定所有像拿破仑一样的人都被击败，因为对于一个情况（我是拿破仑的情况），我不希望那样。黑尔所要求的是一种较弱的认同：鉴于我正在道德化，因此在给定一般类型的所有情况下都在规定，我必须给予在我是拿破仑的情况下属于我的偏好一些重视，但不能比我在其他任何情况下属于我的偏好给予更多的重视；因此，在决定要普遍规定什么时，我必须平等地权衡所有相关的偏好（相对于它们的普遍性和强度）。这正是黑尔想要引导我们的地方；但他提出了一个问题，即他如何证明人们是通过“应该”和“我”的逻辑来接受这种方式的。
+
+## 5. 关注偏好
+
+一个相关的问题（《道德思维》将其视为“未完成的事务”；1981年：105，参见1997年）涉及普遍性规定所承担的偏好范围。如果“我”是完全规范性的，那么进一步推论可能是，假设我是某个人就意味着接受他的所有偏好，包括关于事项（比如他邻居的性或饮食习惯）的“外部”偏好，这些事项可能永远不会影响到他的意识。然而，有时黑尔只要求在利益之间保持公正，这更为狭窄。为了准确地适应这一点，我们可以区分一种富有同情心的“我”：假设我是某个人可能意味着充分考虑他关于自己经历的偏好。这仍然没有解决是否应该考虑他对未来的谨慎偏好（现在-将来），还是仅考虑他对当前状态的同步偏好（现在-现在）。或者，我们可以承认一种以自我为中心的“我”：这将使我们考虑到吉萨大金字塔的建造者希望在他去世后得到盛大葬礼，但不考虑那些与其所有者本质上无关的外部愿望。然而，如果旨在从概念的逻辑中推导出精确的伦理理论，这样的选择会让人感到尴尬。
+
+正如理查德·麦尔文·黑尔（1981: 103）所指出的，对相关偏好范围的限制可能会使旨在最大化快乐或幸福的功利主义与旨在最大化偏好满足的功利主义结合起来。然而，要实现这一目标，我们需要进行双重限制：只考虑当前-当前或将来-将来的偏好，并且这些偏好必须完全内在，仅涉及主体的意识状态——确切地说，涉及主体意识到的那些状态的特征，或者简而言之，处于那些状态中是什么感觉。然而，这个立场存在双重不确定性。首先，在讨论当前-将来偏好的处理时，黑尔借鉴了理查德·布兰特的观点，即理性主体在经过充分接触逻辑和事实后，寻求最大化其当前偏好的满足（1981: 101–5, 214–16）。这使得主体的实际问题不是“我现在偏好什么？”，而是“在充分接触逻辑和事实后，我会偏好什么？” 即使是当前-当前偏好也存在同样的问题。黑尔在另一个背景下讨论了J.J.C.斯马特（Smart & Williams 1983: 18）所想象的快乐机器，通过产生一系列虚幻但愉快的体验来最大化主体的快乐。他认为他的功利主义的一个优势在于，不是“以快乐的术语来表述”，而是可以考虑“我们是否更喜欢将自己插入机器中的生活，而不是过去认为正常和愉快的追求”（1981: 143）。这表明我们应该考虑当前-当前偏好，其对象不仅限于当前心理状态的意识特征。 此外，如果我们遵循布兰特，我们应该问的不是一个代理人实际上拥有什么当下偏好，而是在接受布兰特的“认知心理治疗”后，他会拥有什么偏好。然而，这一推论可能会让我们感到困扰，不仅因为它为家长制提供了不明确的范围，而且因为似乎无法确定代理人在无限通知的情况下会想要什么。
+
+不安全感的另一个来源是对于在黑尔的框架内，我们是否有理由限制相关偏好范围的怀疑。如果在决定应该做什么时，我在理性上被束缚要认同那些与之相关的偏好的代理人，无论是内在的还是外在的，我怎么能不考虑到最广泛范围的实际偏好，无论是当下-将来还是当下-现在和将来-将来，外部的还是内部的，不知情的还是知情的？黑尔倾向于这样做，写道“我仍然相信，对此事的全面说明将给予所有偏好以重要性”（1981 年：103-4）。然而，如何最好地做到这一点呢？让我们依次来看。
+
+1. 现在-对-然后的偏好。黑尔明确指出，我们考虑一个人更喜欢一件事情而不是另一件事情的程度，以及有多少人喜欢它。这表明我们也应该关注一个人持有某种偏好的时间长短；因为如果两个人只是在某一天持有某种偏好，那么计算两次偏好似乎是武断的，但如果一个人持有两天，那么只计算一次似乎更合理。我们可以通过将人们划分为时间片段，在这些时间片段内他们的相关偏好是稳定的，来将持续时间和数量的问题合二为一，并询问有多少人共享某种给定的偏好。然而，效果是奇特的。在一个人的一生中，一个偏好可能变得至关重要，因为他已经持有它很长时间，即使在行动时它已被相互冲突的偏好所取代。（而且这个理论不允许我们优先考虑那些基于主体自主权行动的人-片的偏好；因为代理人并没有享有这样的特权。）
+2. 外部偏好。这里的一个困难在于评估一个无所作为的外部偏好的强度，但也许是因为代理人无法采取任何行动来满足它。表面上的强度可能是具有欺骗性的：这是一种感情态度的标志，它可能被热烈地感受到，但同时又是不活跃和不真诚的。然而，同样的问题也会在其他地方出现；这并不是外部偏好所特有的。
+3. 未知偏好。很难看出黑尔的框架本身如何证明忽视这些偏好是合理的。然而，受试者可能有一个更高层次的偏好，即在他们仅仅因为无知而持有或缺乏较低层次的偏好时，其存在或缺失应该被折扣—尽管也许只要这不导致在我们每个人都期望在自己的判断下自由行动的领域内否定自主权。
+
+在“偏好”概念中存在进一步的不清晰。理查德·麦尔文·黑尔长期以来区分了疼痛状态，一个人可能对此漠不关心（如果疼痛轻微，或者如果接受了前额叶白质切除术），以及痛苦，这意味着有一种渴望（不一定是最重要的）摆脱它。现在可以认为，在任何种类的痛苦中，都存在一种被其影响的感受。 （因此，黑尔可以写道一群受苦者，“我不会知道他们会经历什么感受……除非我知道受苦是什么感觉”；1981年：92。）只要作为痛苦一部分的渴望是一种必然会被感受到的类型。然而，我们都受到无限范围的倾向性欲望的影响；即使偶发的欲望可能会在我们的思维或行为中表现出来，而不被感知。 当他考虑到未按照规定行事的情况时（例如，1981年：21-2），他表现出了一种意识，即一个人选择和行动的方式可以与一个人所偏好的任何感受一样具有指示性。毫无疑问，这可以得到澄清，确切地认识到（尽管语言不是他的）偏好的标准是多样的。然而，这对他来说有两个缺点。首先，这样会增加一个人可能被视为“认同”另一个人的方式。黑尔曾写道，“在实际或假设中认同某人时，我会认同他的规定”（1981年：96-7）。然而，另一种方式可能是想象自己在某个时间或某种情况下是他——尽管这是不同的，尽管（在他的偏好成为注意对象的程度上）可能是重叠的。 其次，它证实了一个人们很可能会对偏好的可比性产生怀疑。如果我想做某事但却没有什么令人信服的理由而未去做，而你却在没有任何先前或伴随意识的情况下去做了，那么谁更倾向于去做呢？这个问题很可能无法回答。
+
+## 6. 可能的人
+
+在道德思维之外，黑尔框架的一个引人注目的应用是对可能存在的人的思考，也就是说，对那些可能存在的人，只要我们选择使他们存在，他们就会有需满足的偏好和利益。我们是否应该这样做，只要这样做会增加偏好的总满足度？肯定的答案会产生影响——尽管黑尔认为，这些影响并不是非常激进的——对人口政策以及堕胎和试管受精等做法的道德性。黑尔认为，如果我为自己的存在感到高兴，我就会无时态地建议，其他条件不变的情况下，我的父母应该使我存在；普遍化这个建议，我必须建议，其他条件不变的情况下，使其他与我相关的人存在（1975 年，1988b 年，1988c 年）。
+
+这是令人感兴趣的，尽管并非没有问题。我们可能会被其唤起的过去的命令所震撼（比如杰拉尔德·曼利·霍普金斯对亨利·普尔塞尔说的“美丽的倒下了，哦美丽的，美丽的倒下了”，霍普金斯在 1883 年 2 月 3 日写给布里奇斯的信中解释说，这是“过去的单数命令（或者你喜欢的话，虚拟语气），在逻辑和语法上都是可能的和实际的，但自然是罕见的”）。这并不是什么新鲜事：黑尔已经不得不在“我本应该做那件事”这一规范分析中为它们辩护。另一个问题是黑尔是否正确地确定了最初的态度。如果我所高兴的是我所经历的生活方式，而不是世界上简单地少了这种生活方式（参见 1988c: 173–4），那么，如果普遍化产生了一个黄金法则的论证，它确实应该让我建议，其他条件不变的情况下，创造其他类似的生活（除非我所重视的是生活的独特性）。但黑尔还假设简·多是因为她简·多存在而感激，而不是其他人，即使是同样特权的人，代替她（1988b: 87–8）。然而，我们不太清楚是否可以期望她拥有那种态度，更不用说在黑尔的框架内，即特别高兴狄克·黑尔（或者拥有他所有普遍品质的人）存在——假设他高兴存在——在她所在的那个可能的世界中。
+
+## 道德思维的层次
+
+他理论的一个不同特点，最初在1976年以不同术语提出（在“伦理学理论与功利主义”中），并在《道德思维》（1981年）中得到充分探讨，是区分由“大天使”进行的“批判性”思维层次，使用“黄金法则”论证，以及由“普罗尔”进行的“直觉性”思维层次，使用简单原则（通常表达情感反应），这些原则的接受可以在批判性层次上得到合理化。这两个层次并不定义两个社会阶层，而是我们每个人学会根据情况交替的两种角色。这种复杂性实际上在功利主义中是不可避免的，因为必须将一个人应该如何行动的问题与一个人应该如何思考如何行动的问题分开——因为思考方式的后果与行动方式一样重要（认为应该以某种方式行动并不意味着成功行动，甚至不意味着尝试）。功利主义对实践原则的评估必须考虑不仅仅是守则效用（OU），即通过实施它们会带来什么好处，还要考虑接受效用（AU），即（大致上）打算实施它们会带来什么好处。黑尔倾向于一个广泛的概括是，最高的OU可能与高度具体的原则相关联，尽管一些相当一般的原则可能具有更高的AU。这源于人类的无知和自欺。比如，允许在婚姻已经破裂时通奸的原则可能比简单禁止通奸的原则具有更高的OU；但是，如果周围有一些具有虚假合理化才能的唐璜，那么它的AU可能较低。
+
+这种复杂情况既方便又棘手。理查德·麦尔文·黑尔长期以来一直受到熟悉的反对意见的困扰，这些反对意见引用具体案例，显示功利主义理论似乎与道德直觉相冲突，比如一个美国警长可能会在司法上执行一个嫌疑人，以防止其他人被群众私刑处死。他现在可以希望在“直觉”思维层面上解决这些问题。在紧急情况下，无法容忍司法谋杀可能是直觉思维的一种限制，这可能是值得推荐的。鉴于这种态度得到了批准，如果不是被理查德·麦尔文·黑尔所重新确认，那么它如何能够反对他对批判性思维的理解呢？（这将是一种，可以说是，恩将仇报的情况。）
+
+然而，存在一个困难。用直觉方式解决问题是一回事，这些问题在时间和信息限制下是最佳选择，同时留待以后慢慢纠正；另一回事是接受一种理论，这种理论认可一个人实际上同意某些内容它无法支持的原则。然而，一个仅仅是“经验法则”的规则是对诱惑的一种纸面防护。如果理论可以自我消隐，以便代理人在采用直觉观点时将其丢弃；但是，在理查德·麦尔文·黑尔的情景中，代理人已经内化了批判性和直觉性思维方式，那么在测试对某些直觉原则的实际承诺时，他如何能够排除心头的疑虑，即这种原则显然不是一种（绝对的，但显然等同于没有功利主义原则）可以得到批判认可的原则？
+
+威廉姆斯（1988 年）和 J.L. 麦基（1985 年：110-11）（参见，尽管没有明确涉及黑尔，亨特 1999 年：§5）都提出了这个反对意见。理查德·麦尔文·黑尔预见到了这一点：
+
+> 声称在同一思维过程中不可能同时保持批判性和直觉性思维，就好像在一场战斗中，指挥官不能同时考虑战术细节、取得胜利的整体目标以及他在学习自己的行业时学到的原则（兵力经济、兵力集中、进攻性行动等）。 （1981 年：52；参见 1988a：289-90）
+
+这显然适用于他所谓的“经验法则”，即代理人只要在实现目标的情况下这仍然是最佳方式，他就会应用这些法则。然而，黑尔开始贬低这个短语（1981 年：38），并强调他更喜欢称之为“表面原则”的原则具有产生懊悔的力量，即使在忽视它们的情况下，由于根深蒂固，也不能产生懊悔（1981 年：30）。但是这该如何运作呢？毫无疑问，可以同时确信在某些困难情况下必须做 X（比如只有撒谎才能救我父亲），以及认为在某种重要方式上继续做 X 是不好的。然而，这种想法需要具备一个独特的“不好”的概念，其应用，尽管缺乏决定伦理决定的力量，仍然固执重要且无法消除。如果没有这样的概念，“懊悔”的谈论就是不合适的。当黑尔承认道德概念在直觉和非批判水平上应用时可能发生根本变化时，他为此留出了空间。他提出的唯一具体建议是“应该”可以被推翻；然而，他应该愿意承认，当然，所有这些都在批判性思维的指导下。并且这样的一个概念可能通过使用与黑尔否则会拒绝的道德哲学相关的“道德上不好”的用法来表达。
+
+However, it must remain a problem that, precisely to the extent that intuitive thinking can draw upon conceptions of its own, a clear-eyed intuitive thinking that does not occlude the judgments of critical thinking must be as problematic for Hare as a clear-eyed acrasia that unites conscious and voluntary infringement of a prescription with continued acceptance of it. Force still attaches to an objection by Williams (1988: 190):
+
+> The theory ignores the fact that the responses are not merely a black-box mechanism to generate what is probably the best outcome under confusing conditions. Rather, they constitute a way of seeing the situation; and you cannot combine seeing the situation in that way, *from* the point of view of those dispositions, with seeing it in the archangel’s way, in which all that is important is maximum preference satisfaction, and the dispositions themselves are merely a means to that.
+
+## 8. Traces of Positivism in Religion and Metaethics
+
+黑尔并不认为现代思维的人能够长期保持他所称之为“简单信徒”的状态；因此，他欢迎 R.B. Braithwaite 和其他人试图剥夺宗教教条内容的尝试。他自称为“基督教经验主义者”，但认为自己是否真正是基督徒是一个术语问题。他保留给自己的是他曾经称之为“blik”的东西，一种对世界的态度，以某种方式让他对道德生活和思考充满信心，相信（正如他所说）“如果我继续按照自己的信念做正确的事情，那么我自己的持续幸福（以我现在可能还没有完全理解的方式）是可以信赖的”，也相信“像希特勒这样的人最终会有个糟糕的结局”（1950/1: 38）。约翰·黑尔（2002: 307）将阻止他的父亲相信的禁忌不仅与现代怀疑论有关，还与“他从卡尔纳普和逻辑实证主义者那里继承的关于意义的哲学主义”有关；因为“他认为自己无法对超出可能的感官经验限度的主题，比如上帝之类，做出有意义的断言”。因此，他否认超验与祈祷有任何关系，质疑“超验上帝倾听祈祷并相应地指导事件之间有何不同，与事件发生只是因果关系之间有何不同？”，并回答“没有任何不同”（1973: 27）。其结果对信仰和非信仰的正统观念都是致命的：
+
+> 就超验而言，真实故事和神话之间没有区别；因此，称祈祷者有幻觉认为他在祈祷的对象是某个存在是错误的。（同上）
+
+结果表明，简单的信仰甚至缺乏内容。
+
+也可追溯到实证主义的是一种经常性的怀疑哲学分歧的实质性的倾向。据理查德·麦尔文·黑尔诊断，柏拉图可能犯了一个错误，当他将我们称之为“在某个特定场合脑海中出现一个正方形的形象”解释为“在某个特定场合，看到正方形”。（1964 年：67）
+
+> 然而，在元伦理学中，黑尔倾向于认为这种差异不过是措辞上的不同。这种怀疑首次表达在一篇未发表的论文《道德客观性》（1949-1950 年）。在这里，黑尔想象了一个白人（客观主义者）称之为“道德直觉”的东西，而黑人（主观主义者）称之为“赞同的感觉”，并对争议的焦点产生疑惑：
+
+Within meta-ethics, however, Hare was inclined to suppose that such variations fail to be more than verbal. This suspicion was first expressed in an unpublished paper “Moral Objectivity” (1949–50). Here Hare imagines a White (an objectivist) who calls “a moral intuition” what a Black (a subjectivist) calls “a feeling of approval”, and wonders about the point at issue:
+
+> 现在我们可以问，既然我们都同意有这种经验，无论你如何称呼它，那么对于对它称呼进行长时间的哲学争论到底有什么意义呢。
+
+以和平主义的分歧为例：
+
+> 白人描述这种情况时说，我们在是否战斗具有权利这一问题上存在分歧；而黑人则说，我们对战斗有不同的感受。但他们试图描述的情况实际上是完全相同的，他们知道这一点... 他们只是在争论词语。
+
+黑尔在两篇发表的论文《无关紧要》（1959 年）和《伦理学中的本体论》（1985 年）中追求了这种怀疑主义。在这里，他怀疑某些被过度使用的术语的空洞性，“真实”、“事实”、“世界”、“客观”、“现实主义者”、“认知论者”；因此，他认为要定义一个独特的客体主义立场比许多人所做的要困难得多。（仅仅以一种奇特的、可以说是元伦理的语调，坚定而又不带感情地重申“谋杀是错误的”显然是不够的。）我追溯到的验证主义现在可能看起来有些过时，但当应用于哲学家所使用的等待明确意义的抽象概念时，就变得扎实有力。
+
+## 9. 后记
+
+黑尔未发表的论文《道德客观性》中包含一段引人注目的段落，在其他地方都找不到，这段段落证实了卢卡斯（2002 年：31）对他的战争经历和一种存在主义倾向之间存在联系的推测。他想象自己是一个在日本战俘营里担任翻译的人，试图说服日本指挥官不要派生病的人去铁路工作。
+
+> 我要求他想象的不是某些不确定的非自然属性，而是替代行动将带来的情况的非常自然、真实的属性……我无法通过直觉来进行论证；……而是通过向他揭示他选择的本质，并向他展示选择涉及的内容，实际上他在选择什么。当我做完所有这些后，我只能让他选择；毕竟这是他的选择，而不是我的选择……无论如何，我已经选择了，尽我所能，选择了我自己的生活方式，我自己的价值标准，我自己的选择原则。最终，我们都必须为自己做选择；没有人可以替别人做出选择。
+
+使理查德·麦尔文·黑尔独特的原因，尽管与康德的方法更接近，而不是他成为盟友的功利主义者，是他将对个体选择的不可避免性与对理性地做出选择可能性的乐观看法相结合。 （事实上，他曾玩弄康德本可以成为功利主义者的想法，1993b。）在他看来，调和道德思维的这两个特征的东西，除了实践“应该”的逻辑之外别无他物。这一点至关重要和核心已经是他早期未发表的专著《一篇唯一主义论文》中的主张。在那里，批评“唯物主义者”（他认为功利主义者也在其中）让“应该”这个词从他们的词汇中滑出，他评论道，
+
+> 公元前四世纪的希腊人和我们现代人都看到，一旦人们忘记了“应该”的含义，像苏格拉底的对手瑟西马库斯这样的人就会迅速出现，并带来可怕的后果。 （第 19 章，第 62 页）
+
+这在两个方面可能已经显得奇怪。首先，人们可能会认为语言更像是我们的仆人而不是主人，他推荐的推理的合理性需要建立在一般原则上，而不是依赖于关于一个词的内涵的论点。其次，其中一个问题的论点——实践中的“应该”蕴含着命令——几乎显然不是真的；人们可能更期望牛津哲学家在普通语言哲学鼎盛时期对这样一个异议敏感，即情态动词“你应该做 X”并不比蕴含着“做 X”更多，就像情态动词“他现在应该已经回家了”并不蕴含着陈述句“他现在已经回家了”一样。（想想从“他现在一定已经回家了”推断出第二个命题有多么合理。）
+
+黑尔对这两个异议都有回应，他在《道德思维》（1981 年）中简要阐述了这一点。他坚持认为，如果我们要回答我们想问的问题，我们需要我们的词语意味着它们的实际意义：
+
+> 如果我们改变我们词语的意义，我们将改变我们提出的问题，也许会用这些词语来回答这些问题... 如果我们试图回答这些问题，我们就必须使用这些概念。（1981 年：18）
+
+然而，与此同时，他仅仅断言实践中的“应当”与道义上的“必须”是“近邻”（1981 年：7），承认
+
+> 在一个人正在倒退（即做了自己说不应该做的事）的时刻说“我必须”要比用“应当”说更奇怪得多。（1981 年：24）
+
+在这里，他似乎在两种不同的角色之间摇摆，一种是描述我们的语言现状，另一种是收紧语言以使之更严谨。也许可以通过充分利用以下限定来调和这些：
+
+> 但“应该”渴望成为“必须”的地位，并且...在严谨、批判性的道德推理中必须像使用它一样。(1981: 24)
+
+在理查德·麦尔文·黑尔看来，“应该”更能满足人类的软弱，而不是“必须”，我们在使用“应该”时表现出对“必须”逻辑的承诺，尽管这种使用未达到该逻辑，但却不断努力达到这一标准。“直觉”思维可能与“批判性”思维同样重要，但它永远不会有一个安全的栖息地在我们的心灵中。
+
+因此，在理查德·麦尔文·黑尔的伦理理论核心，是对人类的愿景，他们无法达到一种思考方式，但却不可避免地被吸引。他认为人类状况中存在着一种戏剧性，任何完全整合和统一的系统都无法充分体现。他的哲学目前有些过时，部分原因是伦理学中各种形式认知主义的回归，部分原因是哲学风格的变化，现在通过新的复杂性和专业化追求他所期望的清晰度。至少在短期内，很可能会根据我们开始的“奇怪梦境”，他的思想将被远距离地看待，作为在 20 世纪大部分时间占主导地位的非认知主义伦理学中曾扮演过重要角色。然而，通过承认对任何实践思维的紧张关系，对我们伦理理想的愿望和我们道德能力的局限性作出回应，他的思想可能会吸引新的观众的注意。
+
+> 补充文件：[黑尔的《关于一元论的论文》](https://plato.stanford.edu/entries/hare/supplement.html)
+
+
+
+## Bibliography
+
+### Primary Literature
+
+(For a complete listing of publications, see Hare 1997a: 167–82, updated in 2000 reprint.)
+
+* unpublished (early 1940s), “An Essay in Monism”, Balliol College Archive. (I quote from the typescript, within which chs 1–12 are numbered in type pp. 1–120, after which a new pagination starts in pencil.)
+* unpublished (1949–50), “Moral Objectivity”, Balliol College Archive.
+* unpublished (1950), “Practical Reason”, Balliol College Archive.
+* 1949, “Imperative Sentences”, *Mind*, 58: 21–39; reprinted in Hare 1971a: 1–21.
+* 1950/1, “Theology and Falsification”, *University*, 1 (Winter); reprinted in 1992a: 37–9 (page-reference in text to reprint).
+* 1952, *The Language of Morals*, Oxford: Clarendon Press.
+* 1954/5, “Universalizability”, *Proceedings of the Aristotelian Society*, 55: 295–312; reprinted in Hare 1972b: 13–28.
+* 1955, “Ethics and Politics”, *The Listener*, 54 (13 October): 593–4; 55 (20 October): 651–2; the first installment was reprinted as “Can I Be Blamed for Obeying Orders?”, Hare 1972a: 1–8.
+* 1957, “Geach: Good and Evil”, *Analysis*, 18: 103–12.
+* 1959, “Nothing Matters”, published in French in *La Philosophie Analytique*, Paris: Les Éditions de Minuit; reprinted in English in 1972a: 32–47.
+* 1963, *Freedom and Reason*, Oxford: Clarendon Press.
+* 1964, “A Question about Plato’s Theory of Ideas”, in M. Bunge (ed.), *The Critical Approach, Essays in Honor of Karl Popper*, Glencoe IL: Free Press of Glencoe; reprinted in 1971b: 54–79 (page-reference in text to reprint).
+* 1967, “Some Alleged Differences between Indicatives and Imperatives”, *Mind*, 76: 309–26; reprinted in Hare 1971a: 25–43 (page-reference in text to reprint).
+* 1968, “Wanting, Some Pitfalls”, in R. Binkley (ed.), *Agent, Action and Reason* (Proceedings of the University of Western Ontario Colloquium); reprinted in Hare 1971a: 44–58.
+* 1969, “Practical Inferences”, in V. Kruse (ed.), *Festskrift til Alf Ross*, Copenhagen: Juristvorbundets Vorlag; reprinted in Hare 1971a: 59–73 (page-reference in text to reprint).
+* 1970, “Meaning and Speech Acts”, *Philosophical Review*, 79: 3–24; reprinted in Hare 1971a: 74–93.
+* 1971a, *Practical Inferences*, London: Macmillan.
+* 1971b, *Essays on Philosophical Method*, London: Macmillan.
+* 1972a, *Applications of Moral Philosophy*, London: Macmillan.
+* 1972b, *Essays on the Moral Concepts*, London: Macmillan.
+* 1972c, “Wrongness and Harm”, in 1972b: 92–109.
+* 1973, “The Simple Believer”, in G. Outka & J.P. Reeder (eds), *Religion and Morality*, New York: Anchor Press; reprinted in 1992a: 1–36 (page-reference in text to reprint).
+* 1975, “Abortion and the Golden Rule”, *Philosophy and Public Affairs*, 4: 201–22; reprinted in 1993a: 147–67.
+* 1976, “Ethical Theory and Utilitarianism”, in H.D. Lewis (ed.), *Contemporary British Philosophy 4th Series,* London: Allen & Unwin; reprinted in 1989a: 212–30.
+* 1978, “Relevance”, in A.I. Goldman & J. Kim (eds), *Values and Morals*, Dordrecht: Reidel; reprinted (with second thoughts) in Hare 1989a: 191–211.
+* 1981, *Moral Thinking: Its Levels, Method and Point*, Oxford: Clarendon Press.
+* 1982, *Plato*, Oxford: Oxford University Press.
+* 1985, “Ontology in Ethics”, in T. Honderich (ed.), *Morality and Objectivity: A Tribute to J.L. Mackie*, London: Routledge; reprinted in 1989a: 82–98.
+* 1988a, “Comments”, in Seanor & Fotion (eds) 1988: 199–293.
+* 1988b, “When does Potentiality Count?”, *Bioethics*, 2: 214–26; reprinted in Hare 1993a: 84–97.
+* 1988c, “A Kantian Approach to Abortion”, in M. Bayles & K. Henley (eds), *Right Conduct*, New York: Random House; reprinted in Hare 1993a: 168–84.
+* 1989a, *Essays in Ethical Theory*, Oxford: Clarendon Press.
+* 1989b, *Essays on Political Morality*, Oxford: Clarendon Press.
+* 1989c, “Some Sub-Atomic Particles of Logic”, *Mind*, 98: 23–37; reprinted in Hare 1999: 28–42.
+* 1992a, *Essays on Religion and Education*, Oxford: Clarendon Press.
+* 1992b, “Weakness of the Will”, in L. Becker (ed.), *Encyclopedia of Ethics*, New York: Garland; reprinted in Hare 1999: 109–14.
+* 1993a, *Essays on Bioethics*, Oxford: Clarendon Press.
+* 1993b, “Could Kant have been a Utilitarian?”, *Utilitas*, 5: 1–16; revised in 1997a: 147–65.
+* 1997a, *Sorting Out Ethics*, Oxford: Clarendon Press.
+* 1997b, “Preferences of Possible People”, in C. Fehige & U. Wessels (eds), *Preferences*, Berlin: De Gruyter; reprinted in Hare 1999: 126–31.
+* 1998, “Prescriptivism”, in E. Craig (ed.) *The Routledge Encyclopedia of Philosophy*,London: Routledge; reprinted in Hare 1999: 19–27 (page-reference in text to reprint).
+* 1999, *Objective Prescriptions and Other Essays*, Oxford: Clarendon Press.
+* 2002, “A Philosophical Autobiography”, *Utilitas*, 14: 269–305.
+
+### Secondary and Other Literature
+
+* Adu-Amankwah, P.A., 1997, *The Moral Philosophy of R.M. Hare: A Vindication of Utilitarianism?*, New York: Peter Lang.
+* Alwood, A., 2010, “Imperative Clauses and the Frege–Geach Problem”, *Analysis*, 70: 105–17.
+* Biesenbach, H., 1982, *Zur Logik der moralischen Argumentation: Die Theorie Richard M. Hares und die Entwicklung der analytischen Ethik*, Düsseldorf: Patmos Verlag.
+* Brandt, R.B., 1979, *A Theory of the Good and the Right*, Oxford: Oxford University Press.
+* Eggers, D., 2016, “Nothing New in Ecumenia? Hare, Hybrid Expressivism and de Dicto Beliefs”, *Ethical Theory and Moral Practice*, 19: 831–47.
+* Eriksson J., 2009, “Homage to Hare: Ecumenism and the Frege-Geach Problem”, *Ethics*, 120: 8–35.
+* –––, 2015, “Hybrid Expressivism”, in M. Ridge & G. Fletcher eds, *Having it Both Ways: Hybrid Theories and Modern Metaethics*, Oxford: Oxford University Press, 149–70.
+* Fehige, C. & U. Wessels (eds), 1998, *Preferences*, Berlin: De Gruyter.
+* Foot, P., 1978, *Virtues and Vices and Other Essays in Moral Philosophy*, Oxford: Basil Blackwell; reprinted in 2002, Oxford: Clarendon Press.
+* –––, 2001, *Natural Goodness*, Oxford: Clarendon Press.
+* Forschler, S., 2013, “Kantian and Consequentialist Ethics: The Gap Can Be Bridged”, *Metaphilosophy*, 44: 88–104.
+* Geach, P.T., 1956, “Good and Evil”, *Analysis*, 17: 33–42.
+* –––, 1965, “Assertion”, *Philosophical Review*, 74: 449–65; reprinted in his *Logic Matters*, Oxford: Basil Blackwell, 1972: 254–69.
+* Hallich, O., 2000, *Richard Hares Moralphilosophie*, Freiburg/München: Alber Verlag.
+* Hare, J.E., 2002, “A Memorial Address”, *Utilitas*, 14: 306–8.
+* –––, 2007, *God and Morality*, Oxford: Blackwell.
+* Hudson, W.D., 1983, *Modern Moral Philosophy*, 2nd edn, London: Macmillan.
+* Hunt, L., 1999, “Flourishing Egoism”, *Social Philosophy and Policy*, 16: 72–95.
+* Ibberson, J., 1986, *The Language of Decision: An Essay in Prescriptivist Ethical Theory*, London: Macmillan.
+* Irwin, T., 2009, *The Development of Ethics: A Historical and Critical Study* (Volume III: From Kant to Rawls), Oxford: Oxford University Press.
+* Kalokairinou, E.M., 2011, *From Meta-Ethics to Ethics: An Overview of R.M. Hare’s Moral Philosophy*, Frankfurt am Main: Peter Lang.
+* Kenny, A., 1966, “Practical Inference”, *Analysis*, 26: 65–75.
+* –––, 1975, *Will, Freedom and Power*, Oxford: Basil Blackwell.
+* Lucas, J.R., 2002, Obituary of R.M. Hare, *Balliol Annual Record*: 30–2.
+* Lucien, P., 1976, *Empirisme, logique et langage religieux: Trois approches anglo-saxonnes contemporaines: R.B. Braithwaite, R.M. Hare, I.T. Ramsey*, Montreal: Bellarmin.
+* MacKay, A.F., 1969, “Inferential Validity and Imperative Inference Rules”, *Analysis*, 29: 145–56.
+* Mackie, J.L., 1977, *Ethics, Inventing Right and Wrong*, Harmondsworth: Penguin.
+* –––, 1985, *Persons and Values: Selected Papers Volume II*, Oxford: Oxford University Press.
+* Mehta, V., 1962, *Fly and the Fly-Bottle: Encounters with British Intellectuals*, London: Weidenfeld & Nicolson.
+* Murdoch, I., 1956, “Vision and Choice in Morality”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 30: 32–58.
+* Price, A.W., 2004a, “Richard Mervyn Hare, 1919–2002”, *Proceedings of the British Academy*, 124: 117–37.
+* –––, 2004b, “On the so-called Logic of Practical Inference”, in A. O’Hear (ed.), *Modern Moral Philosophy*, *Philosophy*, Supplement 54: 119–40.
+* –––, 2005, “Hare, Richard Mervyn”, in *Oxford Dictionary of National Biography.*
+* –––, 2008, *Contextuality in Practical Reason*, Oxford: Clarendon Press.
+* Ridge, M., 2006, “Ecumenical Expressivism: Finessing Frege”, *Ethics*, 116: 302–36.
+* Rønnow-Rasmussen, T., 1993, *Logic, Facts and Representation: An Examination of R.M. Hare’s Philosophy*, Lund: Lund University Press.
+* Ryle, G., 1950, “If, So, and Because”, in M. Black (ed.), *Philosophical Analysis*, Cornell: Cornell University Press; reprinted in *Collected Papers* (Volume 2), London: Hutchinson, 1971, 234–49.
+* Seanor, D. & Fotion, N. (eds), 1988, *Hare and Critics: Essays on Moral Thinking*, Oxford: Clarendon Press; contributions by D. Seanor & N. Fotion, W.D. Hudson, R.B. Brandt, W.K. Frankena, A. Gibbard, J. Griffin, J.C. Harsanyi, T. Nagel, D.A.J. Richards, T.M. Scanlon, P. Singer, J.O. Urmson, Z. Vendler, B. Williams.
+* Shibasaki, F., 1994, *Formalismus und Fanatismus: Eine Untersuchung zur Moralphilosophie R.M. Hares*, Sydney: Kovac.
+* Singer, P., 2002, “R.M. Hare’s Achievements in Moral Philosophy”, *Utilitas*, 14: 309–17.
+* Smart, J.J.C. & Williams, B., 1983, *Utilitarianism, For and Against*, Cambridge: Cambridge University Press.
+* Smith, M., 2001, “Some Not-Much Discussed Problems for Non-Cognitivism in Ethics”, *Ratio*, 4: 93–115.
+* Timmermann, J., 2005, “Why Kant Could Not Have Been a Utilitarian”, *Utilitas*, 17: 243–64.
+* Varner, G.E., 2012, *Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism*, Oxford: Oxford University Press.
+* Vendler, Z., 1988, “Changing Places?”, in Seanor & Fotion (eds): 171–83.
+* Warnock, G.J., 1967, *Contemporary Moral Philosophy*, London: Macmillan.
+* Wiggins, D., 2009, *Ethics: Twelve Lectures on the Philosophy of Morality*, Cambridge MA: Harvard University Press.
+* Williams, B., 1962/3, “Imperative Inference”, *Analysis*, suppl. 23: 30–6.
+* –––, 1988, “The Structure of Hare’s Theory”, in Seanor & Fotion (eds): 185–96.
+* Wym, K.D., 2005, *Crucible of Reason: Intentional Action, Practical Rationality, and Weakness of Will*, Lanham MD: Rowman & Littlefield.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=hare). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/hare/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=hare&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/hare/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[cognitivism vs. non-cognitivism, moral](https://plato.stanford.edu/entries/moral-cognitivism/) | [metaethics](https://plato.stanford.edu/entries/metaethics/) | [practical reason](https://plato.stanford.edu/entries/practical-reason/) | [weakness of will](https://plato.stanford.edu/entries/weakness-will/)
+
+### Acknowledgments
+
+With the kind permission of the British Academy, this present piece abbreviates the biographical, and extends the philosophical, parts of Price 2004a. I am grateful to John Hare for permission to use and copy unpublished material from the Balliol College Archive.
+
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
+[Anthony Price](http://www.bbk.ac.uk/philosophy/our-staff/academics/price) <[*a.price@bbk.ac.uk*](mailto:a%2eprice%40bbk%2eac%2euk)>
