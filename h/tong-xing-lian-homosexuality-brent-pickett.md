@@ -1,2 +1,181 @@
 # 同性恋 homosexuality (Brent Pickett)
 
+*首次发表于2002年8月6日；实质性修订于2020年4月28日*
+
+“同性恋”一词是 19 世纪末由奥地利出生的匈牙利心理学家卡罗利·玛丽亚·本克特创造的。尽管这个术语是新的，但关于性取向的讨论，特别是同性吸引力的讨论，从柏拉图的《饮宴篇》到当代酷儿理论，一直引发了哲学上的讨论。由于文化对同性吸引力的理解的历史与这些理解引发的哲学问题相关，有必要简要回顾一下同性恋的社会历史。至少在西方，自然法则的概念以及对该法则禁止同性性行为的某些解释，源于这段历史。对自然法则的引用在宗教、政治甚至法庭对同性恋的当代辩论中仍然起着重要作用。最后，涉及同性恋的最重要的近期社会变革之一是西方酷儿解放运动的兴起。在哲学界，这一运动在一定程度上通过一个被称为酷儿理论的多元化思想家群体来代表。酷儿理论提出的一个核心问题，将在下文中讨论，即同性恋，以及异性恋和双性恋，是社会构建的还是纯粹受生物力量驱动的。
+
+* [ 1. 历史](https://plato.stanford.edu/entries/homosexuality/#His)
+* [2. 历史学辩论](https://plato.stanford.edu/entries/homosexuality/#HisDeb)
+* [ 3. 自然法则](https://plato.stanford.edu/entries/homosexuality/#NatLaw)
+* [4. 酷儿理论和性取向的社会建构](https://plato.stanford.edu/entries/homosexuality/#QueTheSocConSex)
+* [ 5. 结论](https://plato.stanford.edu/entries/homosexuality/#Con)
+* [ 参考文献](https://plato.stanford.edu/entries/homosexuality/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/homosexuality/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/homosexuality/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/homosexuality/#Rel)
+
+---
+
+## 1. 历史
+
+正如经常提到的那样，古希腊人没有与当代“异性恋”和“同性恋”相对应的术语或概念（例如，福柯，1980 年）。古希腊有大量与性问题相关的资料，从柏拉图的对话，如《饮宴篇》到阿里斯托芬尼斯的戏剧，以及希腊的艺术品和花瓶。以下是对古希腊态度的简要描述，但重要的是要认识到存在地区差异。例如，在伊奥尼亚的某些地区，存在对同性恋的普遍限制，而在伊利斯和波伊提亚（例如底比斯）则被认可甚至庆祝（参见多佛，1989 年；哈尔佩林，1990 年）。
+
+关于性取向的最常见假设之一，至少在古希腊作家中，是人们可以对任何性别的美感产生性欲反应。例如，迪奥根尼斯·拉尔修斯（Diogenes Laeurtius）写道，公元前5世纪的雅典将军和政治家阿尔西比亚德斯“在他的青春期，他使丈夫们远离妻子，年轻时则使妻子们远离丈夫们。”（引自格林伯格，1988年，144页）有些人以对同一性别的人产生独特兴趣而闻名。例如，亚历山大大帝和斯多噶学派的创始人锡诺都以对男孩和其他男性的独特兴趣而闻名。然而，这样的人通常被描绘为例外。此外，对于一个人被吸引到哪种生物性别，被视为一种品味或偏好的问题，而不是道德问题。普鲁塔克（Plutarch）在《爱情对话》中的一个角色争辩说，“对美的高贵爱人在看到卓越和出色的天赋时，无论生理细节有何不同，都会投入爱情”（同上，146页）。性别只成为无关紧要的“细节”，真正重要的是品德和美。
+
+尽管一个人对性别的性吸引（在任何特定时间内，假设人们可能会对两性的人产生吸引）并不重要，但其他问题却很重要，比如是否适度行事。地位问题也非常重要。鉴于只有自由人享有完全的地位，妇女和男奴隶并不是问题性伴侣。然而，自由人之间的性行为对地位来说是有问题的。古希腊性关系的核心区别在于扮演主动或插入角色与被动或被插入角色。被动角色只适用于下级人员，比如妇女、奴隶或尚未成为公民的男青年。因此，同性关系的文化理想是一个年长的男人（可能是二三十岁），被称为erastes，和一个还没有长胡须的男孩，被称为eromenos或paidika。在这种关系中，存在着求爱仪式，包括礼物（如一只公鸡）和其他规范。erastes必须表明他对男孩有更高尚的兴趣，而不仅仅是纯粹的性关注。男孩不应该太容易屈服，如果被多个男人追求，应该谨慎选择更高尚的一个。还有证据表明，通过让erastes面对他所爱的人，将阴茎放在eromenos的大腿之间来避免插入，这被称为大腿间性行为。这种关系应该是暂时的，并且在男孩成年后应该结束（Dover，1989）。即使在应该成为平等公民的同时继续扮演从属角色被认为是令人不安的，尽管确实有许多成年男同性关系被注意到并且没有受到强烈的污名化。因此，被动角色被视为有问题，而对男性产生吸引则经常被视为男子气概的标志。 希腊神话中的诸神，如宙斯，被赋予了同性恋的故事，其他希腊神话和文学中的重要人物，如阿喀琉斯和赫拉克勒斯，也有同样的故事。柏拉图在《饮宴篇》中主张军队应由同性恋者组成。底比斯确实组建了这样一个军团，底比斯神圣军团，由 500 名士兵组成。他们在古代世界因其在战斗中的勇气而闻名。
+
+古罗马在对同性吸引力以及性问题的理解上与古希腊有许多相似之处，尤其是在共和国时期。然而，在帝国时期，罗马社会对性的看法逐渐变得更加负面，可能是由于社会和经济动荡，甚至在基督教影响力产生之前。
+
+新约对性以及同性吸引力的态度是一个激烈争论的问题。约翰·博斯威尔在他引人入胜的《基督教、社会宽容与同性恋》一书中认为，今天被视为对同性恋的谴责的许多经文更关注的是卖淫问题，或者当描述同性行为为“不自然”时，其含义更接近于“与众不同”而不是道德上的不正当行为（博斯威尔，1980 年，第 4 章；另见博斯威尔，1994 年）。然而，其他人批评了博斯威尔的学术观点，有时也很有说服力，认为传统的当代解读更为合理（参见格林伯格，1988 年，第 5 章）。然而，可以明确的是，虽然新约中对同性吸引力的谴责在福音书中是边缘化的，在其他新约书信中也只是间歇性的焦点，但早期基督教教父们更加直言不讳。在他们的著作中，对任何形式的性行为都感到恐惧，但几代人过后，这些观点有所缓和，部分原因无疑是为了招募信徒的实际考虑。到了第四和第五个世纪，主流基督教观点只允许生育性行为。
+
+这种观点认为，婚姻中的生育性行为是被允许的，而其他任何性行为都是罪恶的，例如在圣奥古斯丁的著作中可以找到这种观点。这种对可允许的性关系的理解导致了对伴侣性别的关注，在以前的希腊或罗马观点中是找不到的，并且明确禁止同性行为。很快，这种态度，尤其是对同性性行为的态度，开始在罗马法中得到反映。在 529 年颁布的查士丁尼法典中，从事同性性行为的人将被处决，尽管悔过的人可以被饶恕。历史学家一致认为，晚期罗马帝国对同性恋的不容忍有所上升，尽管在不同地区仍存在重要的区域差异。
+
+随着罗马帝国的衰落，以及各种野蛮王国的取而代之，对同性行为的普遍容忍（唯一的例外是西哥特西班牙）盛行。正如一位著名学者所说：“直到 13 世纪中叶，欧洲世俗法律对同性恋几乎没有任何限制措施。”（格林伯格，1988 年，260 页）尽管一些基督教神学家继续谴责非生育性行为，包括同性行为，但在 11 和 12 世纪，尤其是在教士中，出现了一种同性恋文学流派。
+
+然而，12世纪末至14世纪，同性恋性行为的不容忍程度急剧上升，同时对犹太人、穆斯林、异端和其他人的迫害也增加了。尽管造成这种情况的原因还不太清楚，但增加的阶级冲突以及天主教会的格里高利改革运动很可能是两个重要因素。教会本身开始呼吁将“自然”作为道德标准，并以一种禁止同性恋性行为（以及婚外性行为、婚姻中的非生殖性行为和经常的自慰）的方式来描绘它。例如，1179年的第三次拉特朗公会议是第一个谴责同性恋性行为的全教会公会议，它规定“凡犯下违背自然的淫乱之事者”将受到惩罚，其严重程度取决于违法者是否是教士或俗人（引自Boswell，1980，277页）。这种对自然法的呼吁（下文将讨论）在西方传统中产生了很大影响。然而，需要注意的一个重要点是，这里的关键类别是“索多玛人”，它与当代的“同性恋者”概念不同。索多玛人被理解为一种行为定义，而不是一种人的类型。那些有欲望从事肛交行为但没有实施的人不是索多玛人。同时，从事异性肛交的人也是索多玛人。有报道称，有人因与配偶从事肛交而被活活烧死或斩首（Greenberg，1988，277页）。最后，一个从事肛交但已悔过并发誓再也不这样做的人不再是索多玛人。伴侣的性别再次不是决定性的重要因素，尽管一些中世纪神学家将同性肛交单列为最严重的性犯罪类型（Crompton，2003，第6章）。
+
+在接下来的几个世纪里，欧洲对同性性行为的法律处罚非常严厉。然而，执法是间歇性的。在一些地区，几十年都没有任何起诉。然而，荷兰在18世纪30年代发起了一场严厉的反同性恋运动（同时还进行了一场反罗姆人的大屠杀），甚至使用酷刑来获得自白。多达一百名男子和男孩被处决并被拒绝埋葬（Greenberg, 1988, 313–4）。此外，对鸡奸和同性吸引力的接受程度因阶级而异，中产阶级持最为严格的观点，而贵族和贵族阶层通常接受公开表达其他性取向的行为。有时，即使冒着严厉惩罚的风险，同性恋倾向的亚文化也会在城市中蓬勃发展，有时只会被当局镇压。19世纪，鸡奸的法律处罚大幅减少。拿破仑法典将鸡奸合法化，并随着拿破仑的征服而传播。此外，在许多同性性行为仍然是犯罪的国家，此时普遍的废除死刑的运动通常意味着鸡奸被从死刑罪名中删除。
+
+在18世纪和19世纪，明显的神学框架不再主导关于同性吸引的讨论。相反，世俗的论点和解释变得越来越普遍。讨论同性恋的最重要的世俗领域可能是医学，包括心理学。这种讨论反过来与关于国家及其对不断增长的人口、优秀士兵和具有明确定义的性别角色的完整家庭的需求有关。法庭要求医生对性犯罪被告进行检查（Foucault，1980；Greenberg，1988）。与此同时，学校入学率的大幅增加和在学校的平均学习时间的增加减少了代际接触，因此也减少了代际性行为的频率。大致同龄人之间的同性关系成为常态。
+
+显然，医学声望的提高部分归因于科学在解释自然现象方面的能力不断增强，基于机械因果关系。将这种观点应用于人类，导致了将性取向解释为先天或生物驱动的观点。中世纪对鸠姦的自愿主义理解让位于现代普遍但有争议的同性恋观念，即无论他们是否实践这种取向，同性恋都是人的一种深层、不可选择的特征。"潜在的鸠姦者"的概念在这种新观点下没有意义，然而在这种新观点下，将一个人称为"潜在的同性恋者"是有意义的。与中世纪观点中特定行为定义一个人不同，现代"同性恋者"这一范畴将整个身体和心理构造（通常被描绘为有缺陷或病态）归属于同性恋者。尽管这些观念有历史先例（例如，亚里士多德对被动同性恋给出了生理解释），但医学使它们得到了更大的公众关注和可信度（格林伯格，1988年，第15章）。这些观念的影响产生了矛盾的结果。从这个观点来看，同性恋并非选择，因此将其定为犯罪的做法就显得不太合理。人们并非选择邪恶行为。然而，人们可能表达了一种有病或病态的心理状态，因此医疗干预以治愈是合适的。因此，医生，尤其是精神科医生，呼吁废除或减轻对自愿同性恋鸠姦的刑罚，同时进行"康复"同性恋者的干预。他们还试图开发防止儿童成为同性恋的技术，例如通过主张童年手淫导致同性恋，因此必须严加防范。
+
+在20世纪，性别角色再次被重新定义。由于各种原因，婚前性行为逐渐变得更加普遍，并最终被接受。随着对婚外性行为的禁令的减少，为了追求快乐而进行的性行为变得更难以反对同性恋性行为。这些趋势在20世纪60年代尤为强烈，正是在这个背景下，同性恋解放运动开始兴起。尽管同性恋和女同性恋权利组织已经存在了几十年，但马塔钦协会（以中世纪秘密社团命名）和比利提斯女儿们的低调方式并没有取得太大进展。这在1969年6月28日凌晨发生了变化，当时格林威治村的一家同性恋酒吧斯通沃尔酒吧在警方突袭后爆发了骚乱。在那次事件的余波中，同性恋和女同性恋团体开始在全国范围内组织起来。每个主要城市都成立了同性恋民主俱乐部，四分之一的大学校园都有同性恋团体（Shilts，1993，第28章）。从东海岸到西海岸的城市中出现了大规模的同性恋社区，这已经成为美国生活的永久特征。美国精神病学会将同性恋从其正式的精神障碍名单中删除。尽管爱滋病流行和反同性恋浪潮给同性恋和女同性恋带来了两次重大挫折，但他们的能见度的增加已经成为美国生活的永久特征（有关良好调查的信息，请参见Berman，1993年）。斯通沃尔事件后的时代也见证了西欧的显著变化，那里废除了反同性恋法律，并普遍实现了同性恋和女同性恋的法律平等。在21世纪，同性婚姻的法律承认已经广泛普及。
+
+同性恋关系日益被接受，引发了新的理论辩论，例如是否会出现“后同性恋”文化，因为同性恋和女同性恋者的广泛同化（Anderson，2016）。通常所说的“后同性恋”是指如果 LGBTQ 人士在法律和社会上完全平等，那么这种接受程度使得性取向不再是一个人身份或社会地位的决定性方面。虽然看起来同性恋、女同性恋或酷儿人士在有限的未来内无法实现这种同化，尤其是有色人种、生活在农村地区或处于边缘化地位的人士，但这个辩论仍然具有理论上的意义。例如，后同性恋可以被概念化为一种特定的政治秩序，其特点是性取向平等，或者可以被视为一种特定类型的身份，人们理解并接受自己是同性恋，但并不以此为定义。后同性恋也可以是一个时间，一个被广泛同化所标志的时代，或者是一个空间，人们在其中被完全平等对待。一些人认为对该术语赋予的多种含义是混乱的证据（Kampler 和 Connell，2018）。然而，更好的理解是，该术语被用于不同的目的。对于一些人来说，后同性恋标志着同性恋权利运动的顶点，他们坚称，一直以来，这是一种被平等对待的努力。对于其他人来说，它开辟了一个空间，可以抵制、重新协商和使性别标签变得流动和非二元化（Coleman-Fountain，2014）。
+
+## 2. 历史学辩论
+
+社会中的广泛潮流影响了学者和活动家对性取向和同性吸引力研究的方法。一些20世纪初的研究者和平等倡导者试图为那些被社会贬低和定罪的同性关系辩护，提出了一些著名历史人物吸引同性的名单。这些名单暗示了一个共同的历史实体，支撑着性吸引力，无论是将其称为“倒错”还是“同性恋”。这种方法（或者可能是相关的方法家族）通常被称为本质主义。历史学家和研究者对20世纪60年代末和70年代的同性解放运动持同情态度，出版了一些隐含着本质主义方法的书籍。在20世纪70年代和80年代，约翰·博斯威尔将其提升到了一种新的方法论和历史学的水平，尽管他的立场随着时间的推移从本质主义者转变为几乎不可知论者。克朗普顿的作品（2003年）是当代本质主义方法的一个显著例子。
+
+本质主义者声称性吸引的分类是观察到的，而非创造出来的。例如，古希腊并没有对应于异性恋/同性恋的术语，但人们确实注意到只对特定性别的人产生吸引的男性，因此术语的缺乏不应被视为分类连续性缺乏的证据。在历史和不同文化中，性吸引具有一致的特征，尽管随着时间和空间的变化而有着有意义的多样性，以至于可以谈论特定的性取向。根据这种观点，同性恋是一种特定的、自然的类型，而不是文化或历史的产物。本质主义者承认在表达和解释同性恋方面存在文化差异，但他们强调这并不妨碍它成为人类性表达的普遍范畴。
+
+相比之下，在 20 世纪 70 年代以及之后，许多研究者，常常受到 Mary McIntosh 或 Michel Foucault 的影响，认为阶级关系、人类科学和其他历史构建的力量创造了性别范畴和与之相关的个人身份。对于这种观点的支持者，比如 David Halperin，性别在特定的文化和历史背景中是不可简化的特定事物（Halperin，2002）。对于性经验和表达的社会创造的强调导致了将这种观点标签化为社会建构主义，尽管最近一些支持者更倾向于使用“历史主义”这个术语。因此，作为一种特定的性别建构，同性恋最好被理解为仅仅是现代西方的概念和角色。在这种建构发展之前，即使是只对同性产生吸引的人，也不真正被称为“同性恋”。古希腊与当代西方的“同性恋”或“同性恋者”的角色之间的差异太大，无法归为一类。
+
+与酷儿理论的主张密切相关，社会建构主义者认为特定的社会建构产生了性别存在的方式。没有独立于文化的固定性别模式；甚至性取向的概念和经验本身也是历史的产物。对于这种观点的支持者来说，历史性别多样性的范围和人类可能性的流动性太过丰富，无法被任何特定的概念体系充分捕捉到。
+
+这个看似抽象的历史学辩论实际上具有重要的政治维度。社会建构主义者认为，至少有两个政治上的原因使本质主义成为较弱的立场。首先，通过接受基本的异性恋/同性恋的组织二分法，本质主义错误地承认异性恋是规范，而同性恋严格来说是异常的，并成为永久少数群体的基础。其次，社会建构主义者认为，历史调查的一个重要目标应该是对当代关于性取向的组织模式提出质疑。接受当代的异性恋/同性恋二分法是保守的，甚至是反动的，并且限制了对新可能性的探索。（下面讨论了与本质主义立场相关的酷儿理论批评。）相比之下，本质主义者认为，历史主义的方法限制了“同性恋历史”的可能性。相反，研究领域变成了其他社会力量以及它们如何“产生”一种或多种特定的性取向。只有本质主义的方法才能将“同性恋历史”以及少数群体的历史作为解放的力量维持下去。
+
+## 3. 自然法则
+
+今天，自然法理论为对待同性恋者的差异待遇提供了最常见的知识辩护，因此值得关注。自然法的发展是一个漫长而非常复杂的故事。一个合理的起点是柏拉图的对话，因为这是一些核心思想首次被表达出来的地方，而且，非常重要的是，立即应用于性领域。对于苏格拉底学派来说，人类世界是一个约定和变化的领域，而不是不变的道德真理。相比之下，柏拉图认为不变的真理支撑着物质世界的变化。现实，包括永恒的道德真理，是关于自然的。尽管从一个城市到另一个城市的约定存在明显的多样性（古希腊人越来越意识到这一点），但仍然存在一个无形的标准或法律，人类应该遵守。
+
+在《法律》中，柏拉图将固定的自然法的概念应用于性行为，并采取了比在《饮宴篇》或《斐德鲁斯篇》中更严厉的态度。在第一卷中，他写道，异性性行为自然而然地带来快乐，而同性性行为是“不自然的”（636c）。在第八卷中，雅典的发言人考虑如何使禁止同性恋行为、手淫和非婚生育性行为的立法得到广泛接受。然后他说，这个法律是符合自然的（838–839d）。理解柏拉图在这里的讨论最好的方式可能是将其置于他对灵魂的欲望部分及其最佳控制方式的整体关注背景中。柏拉图显然认为同性恋的激情特别强烈，因此特别棘手，尽管在《饮宴篇》中，这种性吸引力被呈现为潜在地成为哲学生活的催化剂，而不是基于感官的感性（参见多佛，1989 年，153–170；纳斯鲍姆，1999 年，尤其是第 12 章）。
+
+Other figures played important roles in the development of natural law theory. Aristotle, with his emphasis upon reason as the distinctive human function, and the Stoics, with their emphasis upon human beings as a part of the natural order of the cosmos, both helped to shape the natural law perspective which says that “True law is right reason in agreement with nature,” as Cicero put it. Aristotle, in his approach, did allow for change to occur according to nature, and therefore the way that natural law is embodied could itself change with time, which was an idea Aquinas later incorporated into his own natural law theory. Aristotle did not write extensively about sexual issues, since he was less concerned with the appetites than Plato. Probably the best reconstruction of his views places him in mainstream Greek society as outlined above; his main concern is with an active versus a passive role, with only the latter problematic for those who either are or will become citizens. Zeno, the founder of Stoicism, was, according to his contemporaries, only attracted to men, and his thought did not have prohibitions against same-sex sexuality. In contrast, Cicero, a later Stoic, was dismissive about sexuality in general, with some harsher remarks towards same-sex pursuits (Cicero, 1966, 407-415).
+
+自然法理论最有影响力的阐述是由托马斯·阿奎那在13世纪提出的。阿奎那将亚里士多德的方法与基督教神学相结合，强调了某些人类善的核心，包括婚姻和生育。虽然阿奎那没有详细论述同性性关系，但他确实详细论述了各种性行为作为罪恶。对于阿奎那来说，符合婚姻界限并有助于进一步实现他所认为的婚姻的独特善，主要是爱情、伴侣关系和合法子嗣的性行为是可以接受的，甚至是好的。阿奎那并没有主张生育是道德或正义性行为的必要组成部分；已婚夫妇可以享受没有生育动机的性行为，而且在一个或两个伴侣不孕（也许是因为女性绝经）的婚姻中进行性行为也有可能是正当的（如果有表达爱意的动机）。到目前为止，阿奎那的观点实际上并不排除同性性行为。例如，一个托马斯主义者可以接受同性婚姻，然后应用同样的推理，简单地将这对夫妇视为不能生育但仍然完全相爱和互助的结合。
+
+阿奎那斯在一个重要的举措中增加了一个要求，即任何性行为要道德，必须是生殖性的。唯一的方式是通过阴道性交来实现。也就是说，只有在阴道中射精才能导致自然繁殖，只有那种类型的性行为才是生殖性的，即使某种性行为不导致繁殖，即使因为不孕而不可能。这个要求的结果当然是排除了同性性行为可能是道德的可能性（即使在有爱的婚姻中进行），并禁止异性已婚夫妇进行非阴道性行为。这个重要补充的理由是什么？这个问题变得更加紧迫，因为阿奎那斯承认道德规则如何适用于个人可能会有很大差异，因为人的本质也有一定程度的差异。也就是说，由于阿奎那斯承认个体的本质是不同的，一个人可以简单地争辩说，自己天生情感和身体上对同性的吸引，并因此追求同性关系是“自然的”（Sullivan，1995）。不幸的是，阿奎那斯没有详细说明这个生殖要求的理由。
+
+然而，更近期的自然法理论家为阿奎那的“生成型”要求提出了几种不同的辩护线路。第一种观点是，涉及同性恋、异性恶性交或使用避孕措施的性行为会破坏性器官的目的，即繁殖。这个论点通常被称为“变态能力论”，或许在阿奎那的著作中隐含着。然而，它已经受到了严厉的批评（参见Weitham，1997），而最近一些最好的托马斯主义自然法学派的辩护者正试图超越这一观点（例如，George，1999a，对这个论点不予理会）。当然，如果他们的论证失败，他们必须承认某些同性恋性行为在道德上是可容许的（甚至是积极的好），尽管他们仍然有资源来反对随意的同性恋（和异性恋）性行为。
+
+尽管当代各种自然法理论家提出的第二类论证的具体细节有所不同，但它们具有共同的要素（Finnis，1994; George，1999a）。作为托马斯主义者，他们的论证在很大程度上依赖于对人类利益的描述。对于反对同性性行为的论证来说，最重要的两个要素（尽管不反对作为一种未实践的取向的同性恋，因此他们遵循官方天主教教义；参见George，1999a，第15章）是个人整合和婚姻。在这种观点中，个人整合是指人类作为行动者需要在其意图和具体身体之间实现整合的观念。因此，像自慰一样，将自己或他人的身体仅仅作为自己快乐的手段，会导致自我“解体”。也就是说，这时候一个人的意图只是将身体（自己的或他人的）仅仅作为获得快乐的手段，这会削弱个人整合。然而，人们可以很容易地回答说，两个同性别的人进行性交并不一定意味着将对方仅仅作为自己快乐的手段。因此，自然法理论家回应说，在婚姻的实现作为一种重要的人类利益的背景下，性交是唯一可接受的性表达方式。然而，这个论证需要以非常特定的方式解释婚姻是一种重要的利益，因为它将生育置于婚姻的中心位置作为其“自然实现”（George，1999a，168）。自然法理论家如果想支持他们对同性性行为的反对意见，就必须强调生育。例如，如果他们将爱和相互支持人类繁荣置于中心位置，很明显许多同性伴侣将符合这一标准。因此，他们的性行为将在道德上是正当的。
+
+然而，对于将婚姻视为人类核心价值的这种观点，存在一些反对意见。其中之一是，通过将生育视为婚姻的“自然实现”，无法生育的婚姻因此受到贬低。在一对夫妻中，如果双方知道自己中的一方或双方都无法生育，异性婚姻中的性行为并非为了生育。然而，这并不是错误的。那么，为什么在同样的情境下（长期的伴侣关系），同性性行为就是错误的呢（Macedo，1995）？自然法的反驳是，虽然阴道性交是一种潜在的生育性行为，从本质上来看（尽管承认对于某对夫妻来说可能是不可能的），口交和肛交无论是异性还是同性，都不具备潜在的生育性（George，1999a）。但是，这种生物学上的区别是否也在道德上具有相关性，并且以自然法理论家所假设的方式存在呢？自然法理论家在讨论这些问题时似乎犹豫不决。一方面，他们希望捍卫婚姻作为一种相互繁荣的爱的结合的理想，并且性行为是对这一理想的补充。然而，这就打开了允许同性性行为或异性口交的可能性，而他们又想反对这两种行为。因此，他们为性行为提出了一种似乎过于简化的解释，强调生育到了一个程度，以至于除了在自己爱人的阴道内发生的男性高潮以外的任何地方的男性高潮都是不允许的。然后，当被指责过于简化时，他们又回到了更广泛的婚姻理想。
+
+目前，自然法理论已经对主流自由思想做出了重大让步。与中世纪的表述相比，大多数当代自然法理论家主张有限的政府权力，并不认为国家有兴趣试图阻止所有道德错误行为。然而，“新自然法理论”的大多数支持者确实反对同性恋，并反对在就业和住房方面为同性恋者提供法律保护，甚至在法庭案件中担任专家证人或协助撰写友情法庭意见书。他们还反对同性婚姻（Bradley，2001; George，1999b）。然而，一些人试图调和自然法理论和同性恋（例如，Lago，2018; Goldstein，2011）。在保持自然法理论及其对基本人类利益的描述的核心要素的同时，他们通常要么认为婚姻本身不是一种基本利益（Lago），要么认为当以较宽泛、非教条的方式理解时，它所代表的利益是同性伴侣可以享受的。这些论点在理论上的重要性在于，它们允许对性取向进行道德评估，仍然要求它实现友谊的基本利益才能被允许，同时避免了当代自然法理论家对同性性行为以任何形式的贬低所带来的各种问题。
+
+## 4. 酷儿理论和性别的社会建构
+
+随着后石墙时代同性恋解放运动的兴起，公开的同性恋观点开始在政治、哲学和文学理论中被提出。最初，这些观点常常与女权主义对父权制的分析（例如，Rich，1980）或其他早期的理论方法明显相关。然而，在1980年代末和1990年代初，酷儿理论得到了发展，尽管显然有重要的前身，使得确切地确定其起源变得困难。酷儿理论与早期的同性恋解放理论有许多不同之处，但一个重要的最初差异在于我们审视选择使用“酷儿”一词而不是“同性恋”的原因时变得明显。例如，某些版本的女同性恋理论以非等级、共识为基础，并且在性方面，不一定专注于生殖器（例如，Faderman，1985）。从这个框架出发进行论述的女同性恋者可以批评自然法理论家将本质上是男性的性取向、专注于生殖器、渗透和男性高潮的特征“自然法”写入法律中（自然法理论家很少提到女性高潮）。
+
+这种基于“女同性恋”和“男同性恋”身份和性取向的表述方法，却面临三个困难。首先，尽管目标是批判异性恋主义制度对性取向不同的人的排斥和边缘化，但任何关于同性恋性取向的具体或“本质主义”的描述都会产生同样的效果。以上面提到的女同性恋身份的具体概念为例，它贬低了那些对其他女性产生性和情感吸引，但不符合该描述的女性。虐恋者和女雄/女性女同性恋显然不符合这种“平等”的理想。第二个问题是，过分强调性伴侣的性别会排斥其他可能重要的身份来源，比如种族和民族。例如，对于一位黑人女同性恋者来说，她的女同性恋身份比她的种族更重要。许多有色人种的同性恋者批评这种方法，指责它将一个基本上白人的身份重新铭刻到同性恋身份的核心（Jagose，1996）。
+
+对于同性恋解放主义方法的第三个和最后一个问题是，它经常将“身份”这个范畴本身视为不成问题和非历史性的。然而，这种观点在很大程度上因为后结构主义的论证而变得越来越站不住脚。在对历史性的身份进行攻击方面，米歇尔·福柯是关键人物。在一系列的著作中，他试图分析从古希腊到现代的性的历史（1980 年，1985 年，1986 年）。尽管这个项目因为他在 1984 年因艾滋病并发症去世而被迫中断，但福柯阐述了性取向的理解在时间和空间上的巨大变化，并且他的论点在同性恋和女同性恋的理论研究中，尤其是酷儿理论中，产生了很大影响（Spargo，1999 年；Stychin，2005 年）。
+
+以上历史回顾的一个原因是它有助于理解性取向是社会构建的，而非天生的背景。此外，为了不预设社会建构主义与本质主义之争的问题，我避免将“同性恋”这个术语应用于古代或中世纪时期。在古希腊，伴侣的性别并不重要，而是重要的是一个人扮演主动还是被动的角色。在中世纪的观点中，“淫乱者”是指屈服于诱惑并从事某些非生殖性行为的人。虽然在中世纪的观点中，伴侣的性别比古代观点更重要，但更广泛的神学框架将重点放在了罪恶与克制罪恶的二分法上。随着“同性恋”概念在现代的兴起，即使一个人不实践这些倾向，也会被归入特定的类别。很难想象在这三种非常不同的文化中存在着共同的自然性取向。社会建构主义的观点是，没有“自然”的性取向；所有的性理解都是在文化理解中构建和调解的。这些例子可以通过纳入西方传统之外的人类学数据来进一步推广（Halperin, 1990; Greenberg, 1988）。然而，即使在这里提供的较窄的背景下，它们之间的差异也是显著的。古希腊的假设是男性（对于希腊人对待女性的态度了解较少）可以对任何性别产生性吸引，而绝大多数从事同性关系的男性也是已婚的（或者以后会结婚）。然而，当代对同性恋的理解将性领域分为两个部分，即异性恋和同性恋，而大多数异性恋者无法对自己的性别产生性吸引。
+
+在说性取向是社会建构时，这些理论家并不是说这些理解不是真实的。由于人也是文化的构建物（在这种观点下），我们被塑造成这些类别。因此，今天的人当然会将自己理解为直男或同性恋（或者可能是双性恋），即使一旦我们认识到它们是历史构建物后，要跳出这些类别也非常困难。
+
+同性恋理论因此面临着三个重要问题，所有这些问题都涉及到“身份”的困难。酷儿理论在很大程度上是为了克服这些问题而出现的。酷儿理论是如何做到这一点的，可以通过观察“酷儿”这个词本身来看出。与同性恋不同，“酷儿”被认为不是指性质，无论是性质的还是非性质的。相反，它是纯粹的关系性的，作为一个未定义的术语，通过成为与规范之外的东西来获得其意义，无论规范本身如何定义。正如最有发言权的酷儿理论家之一所说：“酷儿是……与正常、合法、主导相悖的一切。它没有特定的指涉对象。它是一种没有本质的身份”（Halperin，1995，62，原文强调）。由于没有任何本质，酷儿不会边缘化那些性取向超出任何同性恋规范的人，比如虐恋者。由于避免了对性取向的具体概念化，并且因此没有将其放在酷儿定义的中心位置，它为自我认同提供了更多的自由，例如，黑人女同性恋者可以更多地或更多地与自己的种族（或任何其他特征，比如参与 S＆M 亚文化）认同，而不是与女同性恋认同。最后，它融入了关于将任何本质或非历史性方面归因于身份的困难的后结构主义的见解。
+
+同性恋理论家的这一核心观点，即认为我们理解身份的范畴都是社会构建的，而非自然给予的，为我们打开了许多分析的可能性。例如，同性恋理论家研究了性别和性的基本概念，这些概念对于现代西方人来说似乎是如此自然和不言而喻的，但实际上是通过日常行为构建和强化的，并且这种构建方式偏向异性恋（Butler，1990年，1993年）。同样被研究的还有医学范畴，比如“倒错性”和两性人，它们本身也是社会构建的（Fausto-Sterling，2000年是一个博学的例子，尽管她并不是同性恋理论家）。其他人研究了语言，尤其是言说和不言而喻之间的区分，对应于“隐秘”和“公开”之间的二分法，特别是关于现代异性恋/同性恋的划分，这构成了现代思想的很大部分。也就是说，有人认为当我们看待自然/人造或男性/女性等二分法时，我们会发现在背后有一个隐含的依赖，即对性世界的最近和武断的理解，将其分为两个物种（Sedgwick，1990年）。通过同性恋理论创造的范畴的流动性甚至打开了一种新类型的历史研究可能性，这种研究探讨以前沉默的情感和关系类型（Carter，2005年）。
+
+同性恋的另一个关键视角是通过酷儿（queer）的方法打开的，尽管这在刚才提到的那些观点中肯定是隐含的，但它尤为重要。由于大多数反同性恋和女同性恋的论点依赖于异性恋的自然性，酷儿理论家试图展示这些范畴本身是深深的社会构建。一个例子有助于说明这种方法。在一篇反对同性婚姻的文章中，詹姆斯·Q·威尔逊（1996）认为，同性恋男性有“极大的倾向”去滥交。相比之下，他提出了爱情、一夫一妻制的婚姻作为异性恋的自然状态。在他的论证中，异性恋是一种奇怪的组合，既是完全自然的，同时又是受到威胁的。一个人天生就是异性恋，然而这种自然状态可以被同性恋伴侣的存在、同性恋教师，甚至是对同性恋的过度谈论等事物所颠覆。威尔逊的论点需要在异性恋和同性恋之间进行根本性的分离。如果同性恋是根本不同的，那么压制它就是合理的。威尔逊在他的论证中勇于直言不讳地表达了这一要素；他反对对同性恋者的“政治上的宽容强加”（威尔逊，1996，35页）。
+
+在酷儿理论中，将真实与虚假的问题（Halperin，1995）至少暂时地放在一边是一种常见的做法。相反，分析侧重于话语的社会功能。对于谁被视为专家以及为什么，以及对专家话语影响的关注与对所说内容的真实性问题被赋予了同等重要的地位。这种方法揭示了在威尔逊（以及其他反同性恋）的工作中隐藏着一个重要的认识论动作。由于异性恋是自然状态，它是一个从中发声但不被探究的地方。相比之下，同性恋是异常的，因此需要研究，但它不是一个可以发表权威言论的地方。凭借这种异性恋特权，威尔逊被允许拥有公正、公正的专家声音。然而，正如上面的历史部分所显示的，对性取向的理解存在明显的不连续性，根据酷儿理论家的观点，我们不应该认为性取向具有任何特定的本质。通过解除我们对任何特定性取向概念的迷恋，酷儿理论家为边缘化的性取向提供了空间，从而为更一般的生活方式提供了可能性。
+
+坚持我们必须调查性取向等类别是如何通过科学和其他文化机制被创造和赋予权力的这一观点，使酷儿理论对各个学科的学者都具有吸引力。历史学家和社会学家都借鉴了它，这或许并不令人意外，因为历史上关于性取向社会建构的论断扮演了重要角色。酷儿理论在文学研究和女性主义理论方面尤其有影响力，尽管后者与酷儿思维之间的界限存在争议（参见 Jagose，2009；Marinucci，2010）。在宪法法律领域研究同性恋问题的最杰出学者之一也借鉴了酷儿理论，以推进对美国法律如何偏袒异性恋的质询（Eskridge，1999）。后殖民主义和种族分析、民族志学、美国研究和其他领域的学者都借鉴了酷儿理论提供的概念工具。
+
+尽管酷儿理论起源于后现代主义和福柯的研究，但在法国的接受程度最初是敌对的（参见 Eribon，2004）。第一波酷儿理论的核心文献，如朱迪斯·巴特勒和伊夫·塞奇威克的重要著作，在法语翻译上进展缓慢，直到原著出版后的十五年后才问世。毫无疑问，法国共和国的自我理解是普世主义的，对多元文化倾向的运动常常持敌对态度，这是导致酷儿理论洞察力在法国进口过程中缓慢且经常受到激烈抵制的因素之一。同样，酷儿理论在德国哲学和政治哲学领域也处于边缘地位。总之，可以说酷儿理论在英美世界产生了更大的影响。
+
+酷儿理论，然而，以各种方式受到了批评（Jagose，1996）。其中一组批评来自于那些支持将同性恋解放视为激进社会变革项目的理论家。最初的批评是，正因为“酷儿”并不指涉任何特定的性别身份或性别对象选择，例如Halperin（1995）允许直人也可以是“酷儿”，这剥夺了同性恋者的独特性，使他们边缘化。它去性别化了身份，而问题恰恰是关于性别身份的（Jagose，1996）。相关的批评是，酷儿理论，因为它拒绝任何本质或参照标准正常性的观念，无法做出重要的区分。例如，酷儿理论家通常认为“酷儿”这个术语的一个优点是它包括了跨性别者、虐恋者和其他边缘性取向。这种扩展有多远？跨代性行为（例如恋童癖）是否可接受？对于可接受的虐恋或恋物主义形式是否有任何限制？虽然一些酷儿理论家明确不允许恋童癖，但这是一个悬而未决的问题，理论是否有足够的资源来支持这种区分。此外，一些酷儿理论家公然拒绝将恋童癖者排除在“酷儿”之外（Halperin，1995，62）。另一个批评是，酷儿理论通常使用非常专业的术语，由狭隘的精英阶层撰写，为狭隘的精英阶层服务。因此，它具有阶级偏见，并且在实践中只在大学和学院中被真正提及（Malinowitz，1993）。
+
+同性恋理论也受到那些反对激进社会变革的人的批评。例如，中间派和保守派的同性恋者批评同性恋理论的方法，认为这将是“灾难性的适得其反”（Bawer，1996，xii）。如果“同性恋”保持其与主流社会相悖的反常意义，这正是大多数同性恋理论家所希望的，那么它似乎只会证实保守派对同性恋者的攻击。Sullivan（1996）还批评同性恋理论家依赖福柯对权力的描述，他认为这不允许有意义的抵抗。然而，Sullivan 对福柯关于权力和抵抗的理解似乎是错误的。
+
+## 5. 结论
+
+关于同性恋的辩论，部分原因是因为它们经常涉及公共政策和法律问题，往往呈现出极端的两极分化。那些最关心同性恋的人，无论是积极还是消极，也是最积极参与其中的人，自然法理论家主张同性恋者享有降低的法律地位，酷儿理论家则从批判和解构异性至上制度的角度参与其中。然而，这两者并不多谈论彼此，而是忽视或者互相忽略。中间有一些理论家。例如，迈克尔·桑德尔采取了亚里士多德的方法，他认为同性恋关系可以实现与异性关系相同的好处（桑德尔，1995 年）。他在重要人类利益的描述上与自然法理论家基本一致，但在评估同性关系的价值时，他明显对同性恋者的关切持同情态度。同样，布鲁斯·鲍尔（1993 年）和安德鲁·沙利文（1995 年）曾经为同性恋者的完全法律平等辩护，包括婚姻权利。然而，他们都没有主张对更广泛的美国文化或政治进行系统性改革。在这方面，他们本质上是保守派。因此，毫不奇怪，这些中间派受到了两方面的攻击。例如，沙利文长期以来受到酷儿理论家（例如菲伦，2001 年）和自然法理论家（例如乔治，1999a 年）的批评。
+
+然而，正如前文所清楚显示的那样，围绕同性恋的政策和法律辩论涉及到道德和正义的根本问题。或许最核心的问题是涉及到个人身份和自我定义的问题。因此，这些辩论中存在着另一组更深层次的原因，这也是导致两极分化的原因。
+
+## Bibliography
+
+* Alderson, David, 2016, *Sex, Needs & Queer Culture: From liberation to the Postgay*, London: Zed Books.
+* Bawer, Bruce, 1993, *A Place at the Table: The Gay Individual in American Society*, New York: Poseidon Press.
+* –––, 1996. *Beyond Queer: Challenging Gay Left Orthodoxy*, New York: The Free Press.
+* Berman, Paul, 1993, “Democracy and Homosexuality” in *The New Republic*, 209(25): 17–35.
+* Boswell, John, 1980, *Christianity, Social Tolerance, and Homosexuality: Gay People in Western Europe from the Beginning of the Christian Era to the Fourteenth Century*, Chicago: The University of Chicago Press.
+* –––, 1994, *Same-Sex Unions in Premodern Europe*, New York: Vintage Books.
+* Bradley, Gerard V., 2001, “The End of Marriage,” in *Marriage and the Common Good*, Kenneth D. Whitehead (ed.), South Bend, IN: St. Augustine’s Press.
+* Butler, Judith, 1990, *Gender Trouble: Feminism and the Subversion of Identity*, New York: Routledge.
+* –––, 1993, *Bodies That Matter: On the Discursive Limits of “Sex”*, New York: Routledge.
+* Kampler, Benjamin, and Catherine Connell, 2018, “The Post-gay Debates: Competing Visions of the Future of Homosexualities,” *Sociology Compass* 12:e12646.
+* Carter, Julian, 2005, “On Mother-Love: History, Queer Theory, and Nonlesbian Identity,” *Journal of the History of Sexuality*, 14: 107–138.
+* Cicero, 1966, *Tusculan Disputations*, Cambridge, MA: Harvard University Press.
+* Coleman-Fountain, Edmund, 2014, “Lesbian and Gay Youth and the Question of Labels,” *Sexualities*, 17: 802–817.
+* Crompton, Louis, 2003, *Homosexuality and Civilization*, Cambridge, MA: Harvard University Press.
+* Dover, K.J., 1978 [1989], *Greek Homosexuality*, Cambridge, MA: Harvard University Press.
+* Eribon, Didier, 2004, *Insult and the Making of the Gay Self*, Durham: Duke University Press.
+* Eskridge, Jr., William N., 1999, *Gaylaw: Challenging the Apartheid of the Closet*, Cambridge, MA: Harvard University Press.
+* Faderman, Lillian, 1985, *Surpassing the Love of Men: Romantic Friendship and Love Between Women from the Renaissance to the Present*, London: The Women’s Press.
+* Fausto-Sterling, Anne, 2000, *Sexing the Body: Gender Politics and the Construction of Sexuality*, New York: Basic Books.
+* Finnis, John, 1994, “Law, Morality, and ‘Sexual Orientation’,” *Notre Dame Law Review*, 69: 1049–1076.
+* Foucault, Michel, 1980, *The History of Sexuality. Volume One: An Introduction*, Robert Hurley (trans.), New York: Vintage Books.
+* –––,1985, *The History of Sexuality* (Volume Two: The Use of Pleasure), New York: Pantheon Books.
+* –––, 1986, *The History of Sexuality* (Volume Three: The Care of the Self), New York: Pantheon.
+* George, Robert P., 1999a, *In Defense of Natural Law*, New York: Oxford University Press.
+* –––, 1999b, “‘Same-Sex Marriage’ and ‘Moral Neutrality’,” in Christopher Wolfe (ed.), *Homosexuality and American Public Life*, Dallas: Spence Publishing, 141–153; reprinted in Kenneth D. Whitehead (ed.), *Marriage and the Common Good*, South Bend, IN: St. Augustine’s Press, 646–655.
+* Goldstein, Joshua D., 2011, “ New Natural Law Theory and the Grounds of Marriage: Friendship and Self-Constitution,” *Social Theory and Practice*, 37(2): 461–482.
+* Greenberg, David F., 1988, *The Construction of Homosexuality*, Chicago: The University of Chicago Press.
+* Halperin, David M., 1990, *One Hundred Years of Homosexuality: and other essays on Greek love*, New York: Routledge.
+* –––, 1995, *Saint Foucault: Towards a Gay Hagiography*, New York: Oxford University Press.
+* Jagose, Annamarie, 1996, *Queer Theory: An Introduction*, New York: New York University Press.
+* –––, 2009, “Feminism’s Queer Theory,” *Feminism and Psychology*, 19(2): 157–174.
+* Lago, Pablo Antonio, 2018, “Same-Sex Marriage: a defense based on foundations of natural law,” *Revista Direito GV*, 4(3): 1044–1066.
+* Macedo, Stephen, 1995, “Homosexuality and the Conservative Mind,” *Georgetown Law Journal*, 84: 261–300.
+* Malinowitz, Harriet, 1993, “Queer Theory: Whose Theory?” *Frontiers*, 13: 168–184.
+* Marinucci, Mimi, 2010, *Feminism is Queer: The Intimate Connection Between Queer and Feminist Theory*, London: Zed Books.
+* Nussbaum, Martha, 1999, *Sex and Social Justice*, New York: Oxford University Press.
+* Phelan, Shane, 2001, *Sexual Strangers: Gays, Lesbians, and Dilemmas of Citizenship*, Philadelphia: Temple University Press.
+* Plato, *The Symposium*, Walter Hamilton (trans.), New York: Penguin Books, 1981.
+* –––, *The Laws*, Trevor Saunders (trans.), New York: Penguin Books, 1970.
+* Rich, Adrienne, 1980, “Compulsory Heterosexuality and Lesbian Existence,” in *Women, Sex, and Sexuality*, Catharine Stimpson and Ethel Spector Person (eds.), Chicago: University of Chicago Press.
+* Sandel, Michael J., 1995, “Moral Argument and Liberal Toleration: Abortion and Homosexuality,” in *New Communitarian Thinking: Persons, Virtues, Institutions, and Communities*, Amitai Etzioni (ed.), Charlottesville: University Press of Virginia.
+* Sedgwick, Eve Kosofsky, 1990, *Epistemology of the Closet*, Berkeley: University of California Press.
+* Shilts, Randy, 1993, *Conduct Unbecoming: Gays and Lesbians in the U.S. Military*, New York: St. Martin’s Press.
+* Spargo, Tasmin, 1999, *Foucault and Queer Theory*, New York: Totem Books.
+* Stychin, Carl F., 2005, “Being Gay,” *Government and Opposition*, 40: 90–109.
+* Sullivan, Andrew, 1995, *Virtually Normal: An Argument about Homosexuality*, New York: Knopf.
+* Weitham, Paul J., 1997, “Natural Law, Morality, and Sexual Complementarity,” in *Sex, Preference, and Family: Essay on Law and Nature*, David M. Estlund and Martha C. Nussbaum (eds.), New York: Oxford University Press.
+* Wilson, James Q., 1996, “Against Homosexual Marriage,” *Commentary*, 101(3): 34–39.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=homosexuality). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/homosexuality/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=homosexuality&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/homosexuality/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Queer Theory Reading List](https://www.brown.edu/campus-life/support/lgbtq/graduate-student-resources/queer-theory-reading-list), compiled by the LGBTQ Center, Brown University
+
+## Related Entries
+
+[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [ethics: natural law tradition](https://plato.stanford.edu/entries/natural-law-ethics/) | [feminist philosophy, topics: perspectives on the self](https://plato.stanford.edu/entries/feminism-self/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/)
+
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
+Brent Pickett <[*bpick@uwyo.edu*](mailto:bpick%40uwyo%2eedu)>
