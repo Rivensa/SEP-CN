@@ -1160,7 +1160,7 @@
   * [\*情感理论——见情绪：17 世纪和 18 世纪的情绪理论 theory of emotion — see emotion: 17th and 18th century theories of](h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/qing-gan-li-lun-jian-qing-xu-17-shi-ji-he-18-shi-ji-de-qing-xu-li-lun-theory-of-emotion-see-emotion.md)
 * [\*谦逊——见谦虚与谦逊 humility — see modesty and humility](h/qian-xun-jian-qian-xu-yu-qian-xun-humility-see-modesty-and-humility.md)
 * [幽默哲学 humor, philosophy of (John Morreall)](h/you-mo-zhe-xue-humor-philosophy-of-john-morreall.md)
-* [埃德蒙德•胡塞尔 Husserl, Edmund (Christian Beyer)](h/ai-de-meng-de-hu-sai-er-husserl-edmund-christian-beyer.md)
+* [埃德蒙德·胡塞尔 Husserl, Edmund (Christian Beyer)](h/ai-de-meng-de-hu-sai-er-husserl-edmund-christian-beyer.md)
 * [\*弗兰西斯·哈奇森——见苏格兰哲学：18 世纪苏格兰哲学 Hutcheson, Francis — see Scottish Philosophy: in the 18th Century](h/fu-lan-xi-si-ha-qi-sen-jian-su-ge-lan-zhe-xue-18-shi-ji-su-ge-lan-zhe-xue-hutcheson-francis-see-scot.md)
 * [弗兰西斯·哈奇森 Hutcheson, Francis (Dale Dorsey)](h/fu-lan-xi-si-ha-qi-sen-hutcheson-francis-dale-dorsey/README.md)
   * [\*情感理论——见情绪：17 世纪和 18 世纪的情绪理论 theory of emotion — see emotion: 17th and 18th century theories of](h/fu-lan-xi-si-ha-qi-sen-hutcheson-francis-dale-dorsey/qing-gan-li-lun-jian-qing-xu-17-shi-ji-he-18-shi-ji-de-qing-xu-li-lun-theory-of-emotion-see-emotion.md)
