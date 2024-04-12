@@ -1,5 +1,6 @@
 # 群体遗传学 population (Samir Okasha)
-*首次发表于2006年9月22日星期五；实质性修订于2022年11月24日星期四*
+
+_首次发表于2006年9月22日星期五；实质性修订于2022年11月24日星期四_
 
 群体遗传学是生物学的一个领域，研究生物群体的遗传组成，以及由各种因素的作用（包括自然选择）导致的遗传组成的变化。群体遗传学家开发基因频率动态的抽象数学模型，提取关于实际群体遗传变异可能模式的预测，并将这些预测与实证数据进行验证。从群体遗传学分析中得出的一些更为可靠的概括性结论如下讨论。
 
@@ -14,23 +15,21 @@
 * [1. 群体遗传学的起源](https://plato.stanford.edu/entries/population-genetics/#OriPopGen)
 * [2. 硬氏-温伯格原理](https://plato.stanford.edu/entries/population-genetics/#HarWeiPri)
 * [3. 群体遗传学进化模型](https://plato.stanford.edu/entries/population-genetics/#PopGenModEvo)
-
   * [3.1 单位点的选择](https://plato.stanford.edu/entries/population-genetics/#SelOneLoc)
   * [3.2 选择-突变平衡](https://plato.stanford.edu/entries/population-genetics/#SelMutBal)
-  * [ 3.3 迁移](https://plato.stanford.edu/entries/population-genetics/#Mig)
-  * [ 3.4 非随机交配](https://plato.stanford.edu/entries/population-genetics/#NonRanMat)
+  * [3.3 迁移](https://plato.stanford.edu/entries/population-genetics/#Mig)
+  * [3.4 非随机交配](https://plato.stanford.edu/entries/population-genetics/#NonRanMat)
   * [3.5 两位点模型和连锁](https://plato.stanford.edu/entries/population-genetics/#TwoLocModLin)
 * [4. 随机漂变](https://plato.stanford.edu/entries/population-genetics/#RanDri)
-
-  * [ 4.1 合并](https://plato.stanford.edu/entries/population-genetics/#Coalescence)
+  * [4.1 合并](https://plato.stanford.edu/entries/population-genetics/#Coalescence)
 * [5. 群体遗传学及其批评者](https://plato.stanford.edu/entries/population-genetics/#PopGenCri)
 * [6. 群体遗传学中的哲学问题](https://plato.stanford.edu/entries/population-genetics/#PhiIssPopGen)
-* [ 参考文献](https://plato.stanford.edu/entries/population-genetics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/population-genetics/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/population-genetics/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/population-genetics/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/population-genetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/population-genetics/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/population-genetics/#Rel)
 
----
+***
 
 ## 1. 群体遗传学的起源
 
@@ -100,7 +99,7 @@ f(A1A1)=p2,f(A1A2)=2pq,f(A2A2)=q2
 
 方程（1）被称为“复发”方程，它表达了第二代中 A1 等位基因的频率与第一代中频率的关系。两代之间的频率变化可以写成：
 
-(2)Δp=p′−p=p2w11+pqw12w−p=pq[p(w11−w12)+q(w12−w22)]w
+(2)Δp=p′−p=p2w11+pqw12w−p=pq\[p(w11−w12)+q(w12−w22)]w
 
 如果Δp>0，则自然选择导致 A1 等位基因频率增加；如果Δp<0，则选择导致 A2 等位基因频率增加。如果Δp=0，则没有发生基因频率变化，即系统处于等位平衡状态。（但请注意，Δp=0 的条件并不意味着没有发生自然选择；其条件是 w11=w12=w22。自然选择可能发生，但对基因频率没有影响。）
 
@@ -114,7 +113,7 @@ f(A1A1)=p2,f(A1A2)=2pq,f(A2A2)=q2
 
 p(w11−w12)+q(w12−w22)=0
 
- 这可以简化为
+这可以简化为
 
 p=p∗=(w12−w22)(w12−w22)+(w12−w11)
 
@@ -140,7 +139,7 @@ p′=(p2w11+pqw12)(1−u)w
 
 p∗=p(1−u)p2+2pq+q2(1−s)
 
- 化简后为：
+化简后为：
 
 p∗=1−(us)12
 
@@ -148,7 +147,7 @@ p∗=1−(us)12
 
 (4)q∗=(us)12
 
-方程（4）给出了 A2 等位基因的平衡频率，假设它是完全隐性的。请注意，随着 u 的增加，q*也会增加。这是非常直观的：从 A1 到 A2 的突变率越大，对于给定的 s 值，可以在平衡状态下维持的 A2 频率就越大。相反，随着 s 的增加，q*会减少。这也是直观的：对 A2A2 纯合子的选择越强，对于给定的 u 值，A2 的平衡频率就越低。
+方程（4）给出了 A2 等位基因的平衡频率，假设它是完全隐性的。请注意，随着 u 的增加，q_也会增加。这是非常直观的：从 A1 到 A2 的突变率越大，对于给定的 s 值，可以在平衡状态下维持的 A2 频率就越大。相反，随着 s 的增加，q_会减少。这也是直观的：对 A2A2 纯合子的选择越强，对于给定的 u 值，A2 的平衡频率就越低。
 
 很容易理解为什么方程（4）被称为描述选择-突变平衡的方程——自然选择不断地从种群中去除 A2 等位基因，而突变则不断地重新产生它们。方程（4）告诉我们将保持的 A2 平衡频率，作为从 A1 到 A2 的突变速率和 A2A2 纯合子所遭受的选择性劣势的函数。尽管方程（4）是在 A2 等位基因完全隐性的假设下推导出来的，但是很容易推导出类似的方程，用于 A2 等位基因为显性或部分显性的情况。在这些情况下，A2 的平衡频率将低于其完全隐性的情况；因为选择更有效地将其从种群中去除。一个隐性的有害等位基因可以“隐藏”在杂合子中，从而逃避选择的净化作用，但是一个显性等位基因则不行。
 
@@ -195,9 +194,9 @@ pt=pm+(p0−pm)(1−m)t
 在物理上，完全连锁意味着 A 和 B 位点在同一染色体上靠近彼此；因此，两个位点上的等位基因被视为一个单元进行遗传。非连锁位点要么在不同的染色体上，要么在同一染色体上但相隔较远，因此很可能会被重组打断。当位点在同一染色体上时，完全连锁和完全非连锁是一个连续体的两端。连锁程度由重组率 r 来衡量，其中 0≤r≤1/2。由 A1B1/A2B2 基因型的个体产生的配子组合的构成可以用 r 来表示，如下所示：
 
 | A1B1 | 12(1−r) |
-| ------ | ---------- |
-| A1B2 | 12r      |
-| A2B1 | 12r      |
+| ---- | ------- |
+| A1B2 | 12r     |
+| A2B1 | 12r     |
 | A2B2 | 12(1−r) |
 
 很容易看出 r=1/2 表示位点是非连锁的，而 r=0 表示它们是完全连锁的。
@@ -295,122 +294,123 @@ Prob(coalescence t generations ago)=12N×(1−12N)t−1.
 群体遗传学相关的哲学关注的最后一个领域是关于种族范畴地位的辩论。这是种族哲学中的一个核心主题，是哲学的一个新兴子领域（有关种族的条目请参阅概述）。一个有影响力的论点认为，种族范畴是社会建构而非自然种类。根据这一观点，将人类物种划分为不同的“种族”（可以用多种方式进行划分），应主要理解为这些种族范畴在社会和政治角色中所扮演的作用。这种观点有时被称为关于种族的“反实在论”，因为它认为将人类划分为种族的通常方式（例如在国家普查中使用的方式）是约定俗成的而非真实存在的。反对反实在论的人有时候会借助人类群体遗传学来支持种族划分实际上是真实存在的对立立场（Andreasen 2007，Sesardic 2010，Spencer 2015）。利用机器学习技术对人类基因变异结构进行的实证研究发现了似乎大致对应于某些广泛种族群体（如“非洲”和“欧亚”）的遗传簇（Rosenberg 等人 2002 年，Li 等人 2008 年）。然而，这些实证结果对种族划分的真实性与约定性问题的确切影响是一个持续存在的哲学争议问题（Kopec 2014，Winther 2014）。
 
 总之，最近文献中讨论的群体遗传学周围存在许多有趣的哲学问题。除此之外，由于群体遗传学对进化生物学的核心地位，对许多哲学领域都具有重要意义，因此群体遗传学间接地与更广泛的一系列哲学关注相关。
+
 ## Bibliography
 
-* Agren, J.A., 2021, *The Gene’s Eye View of Evolution*, Oxford: Oxford University Press.
-* Amundson, R., 2007, *The Changing Role of the Embryo in Evolutionary Thought*, Cambridge: Cambridge University Press.
-* Andreasen, R., 2007, ‘Biological Conceptions of Race’, in D. Gabbay and M. Matthen (eds.) *Philosophy of Biology*, Amsterdam: Elsevier, 455–481.
-* Arthur, W. 2021, *Understanding Evo-Devo*, Cambridge: Cambridge University Press.
-* Baedke, J. and Gilbert, S.F., 2021, ‘Evolution and Development’, *The Stanford Encyclopedia of Philosophy* (Fall 2021 Edition), Edward N. Zalta (ed.), URL=<https://plato.stanford.edu/archives/fall2021/entries/evolution-development/>.
-* Beurton, P.J., Falk, R. and Rheinberger, H., (eds.), 2000, *The Concept of the Gene in Development and Evolution*, Cambridge: Cambridge University Press.
-* Bowler, P.J., 1988, *The Non-Darwinian Revolution*, Baltimore, MD: Johns Hopkins University Press.
-* Reisman, K. and Forber, P., 2005, ‘Manipulation and the Causes of Evolution’, *Philosophy of Science*, 72: 1113–1123.
-* Brandon, R.N. and Ramsey, G., 2007, ‘What’s Wrong with the Emergentist Statistical Interpretation of Natural Selection and Random Drift?’, in D. Hull and M. Ruse (eds.) *The Cambridge Companion to the Philosophy of Biology*, 66–84.
-* Bromham, L., 2009, ‘Does Nothing in Evolution Make Sense in the Light of Population Genetics?’, *Biology and Philosophy*, 24: 387–403.
-* Carroll, S.B., 2005, *Endless Forms Most Beautiful: The New Science of Evo Devo and the Making of the Animal Kingdom*, New York: W.W. Norton.
-* Casillas, S., Barbadilla, A., 2017, ‘Molecular Population Genetics’, *Genetics*, 205(3): 1003–1035.
-* Charlesworth, B. and Charlesworth, D., 2017, ‘Population Genetics from 1966 to 2016’, *Heredity*, 118: 2–9.
-* Charlesworth D., Barton N.H., and Charlesworth, B., 2017, ‘The Sources of Adaptive Variation’, *Proceedings of the Royal Society B* 284(1855): 20162864.
-* Crow, J.F., and Kimura, M., 1970, *An Introduction to Population Genetics Theory*, New York: Harper and Row.
-* Darwin, C., 1859, *On the Origin of Species by Means of Natural Selection*, London: John Murray.
-* Dawkins, R., 1976, *The Selfish Gene*, Oxford: Oxford University Press.
-* –––, 1982, *The Extended Phenotype*, Oxford: Oxford University Press.
-* Dietrich, M.R., 1994, ‘The Origins of the Neutral Theory of Molecular Evolution’, *Journal of the History of Biology*, 27: 21–59.
-* Dunn, L.C., 1965, *A Short History of Genetics*, London: McGraw Hill.
-* Edwards, A.W.F., 1977, *Foundations of Mathematical Genetics*, Cambridge: Cambridge University Press.
-* Eldredge, N., 1989, *Macroevolutionary Dynamics*, New York: McGraw Hill.
-* Ewens, W.J., 1969, *Population Genetics*, Birkenhead: Willmer Brothers.
-* Falconer, D.S., 1995, *Introduction to Quantitative Genetics*, 4th edition, London: Longman.
-* Fisher, R.A., 1918, ‘The Correlation Between Relatives on the Supposition of Mendelian Inheritance’, *Transactions of the Royal Society of Edinburgh*, 52: 399–433.
-* –––, 1930, *The Genetical Theory of Natural Selection*, Oxford: Clarendon Press.
-* Frigg, R. and Hartmann, S., 2006, ‘Models in Science’, *Stanford Encyclopedia of Philosophy* (Summer 2009 Edition), Edward N. Zalta (ed.), URL=<[Models in Science (Stanford Encyclopedia of Philosophy/Summer 2009 Edition)](https://plato.stanford.edu/archives/sum2009/entries/models-science/)>.
-* Gillespie, J.H., 2004, *Population Genetics: A Concise Guide*, 2nd edition, Baltimore, MD: Johns Hopkins University Press.
-* Glymour, B., 2006, ‘Wayward Modeling: Population Genetics and Natural Selection’, *Philosophy of Science*, 73: 369–389.
-* Godfrey-Smith, P., 2006, ‘The Strategy of Model-Based Science’, *Biology and Philosophy*, 21: 725–740.
-* Gould, S.J., 2002, *The Structure of Evolutionary Theory*, Cambridge, MA: Harvard University Press.
-* Grantham, T.A., 1995, ‘Hierarchical Approaches to Macroevolution’, *Annual Review of Ecology and Systematics*, 26: 301–321.
-* Griffiths, P.E. and Stotz, K., 2006, ‘Genes in the Post-Genomic Era’, *Theoretical Medicine and Bioethics*, 27(6): 499–521.
-* Haldane, J.B.S., 1930–1932, ‘A Mathematical Theory of Natural and Artificial Selection’, *Proceedings of the Cambridge Philosophical Society*, 26–28, Parts I–IX.
-* –––, 1932, *The Causes of Evolution*, London: Longmans Green.
-* Hamilton, W.D., 1964, ‘The Genetical Evolution of Social Behaviour I and II’, *Journal of Theoretical Biology*, 7: 1–52.
-* Hamilton, M.B., 2021, *Population Genetics: 2nd edition*, Oxford: Blackwell.
-* Hardy, G.H., 1908, ‘Mendelian Proportions in a Mixed Population’, *Science*, 28: 49–50.
-* Hartl, D., 2020, *A Primer of Population Genetics and Genomics, 4th edition*, Oxford: Oxford University Press.
-* Hartl, D.L. and Clark, A.G., 2006, *Principles of Population Genetics*, 4th edition, Sunderland, MA: Sinauer.
-* James, M. and Burgos, A., 2022, ‘Race’, *The Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward N. Zalta (ed.), URL=<https://plato.stanford.edu/archives/spr2022/entries/race/>.
-* Jenkin, F., 1867, ‘The Origin of Species’, *North British Review*, 46: 277—318
-* Jensen, J.D., Payseur, B.A., Stephan, W., Aquadro, C.F., Lynch, M., Charlesworth, D. and Charlesworth, B. (2019), ‘The importance of the Neutral Theory in 1968 and 50 years on: A response to Kern and Hahn’ , *Evolution*, 73: 111–114. https://doi.org/10.1111/evo.13650
-* Kern, A.D. and Hahn, M.W., 2018, ‘The Neutral Theory in Light of Natural Selection’, *Molecular Biology and Evolution* 35(6): 1366–1371.
-* Kimura, M., 1964, *Diffusion Models in Population Genetics*, London: Methuen.
-* –––, 1977, ‘The Neutral Theory of Molecular Evolution and Polymorphism’, *Scientia*, 112: 687–707.
-* –––, 1994, *Population Genetics, Molecular Evolution and the Neutral Theory*, Chicago: University of Chicago Press.
-* Kimura, M. and Ohta, T., 1971, *Theoretical Aspects of Population Genetics*, Princeton: Princeton University Press.
-* Kingman, J.F.C., 1982, ‘On the Genealogy of Large Populations’, *Journal of Applied Probability*, 19: 27–43.
-* Kopec, M., 2014, ‘Clines, Clusters and Clades in the Race Debate’, *Philosophy of Science*, 81: 1053–1065.
-* Laland, K.N, Uller, T., Feldman, M.W., Sterelny, K., Muller, G.B., Moczek, A., Jablonka, E., and Odling-Smee, J., 2014, ‘Does Evolutionary Theory Need a Re-think? Yes, Urgently’, *Nature*, 514: 161–4.
-* Laland, K.N, Uller, T., Feldman, M.W., Sterelny, K., Muller, G.B., Moczek, A., Jablonka, E., and Odling-Smee, J., 2015, ‘The Extended Evolutionary Synthesis: its Structure, Assumptions and Predictions’, *Proceedings of the Royal Society B*, 282: 20151019.
-* Lewontin, R.C., 1974, *The Genetic Basis of Evolutionary Change*, New York: Columbia University Press.
-* –––, 1980, ‘Theoretical Population Genetics in the Evolutionary Synthesis’, in *The Evolutionary Synthesis*, E. Mayr and W.B. Provine (eds.), Cambridge MA, Harvard University Press, 58–68.
-* Lewontin, R.C. and Hubby, J. L., 1966, ‘A Molecular Approach to the Study of Genic Heterozygosity in Natural Populations 1’, *Genetics*, 54(2): 577–594.
-* Li, J., Absher, D., Tang, H., Southwick, A.M., Casto, A., Ramachandran, S. and Cann, H., 2008, ‘Worldwide Human Relationships Inferred from Genome-Wide Patterns of Variation’, *Science*, 319: 1100–1104.
-* Lynch, M.J., 2007, *The Origins of Genome Architecture*, Baltimore, MD: Sinauer.
-* Matthen, M. and Ariew, A., 2009, ‘Selection and Causation’, *Philosophy of Science*, 76: 201–224.
-* Maynard Smith, J., 1989, *Evolutionary Genetics*, Oxford: Oxford University Press.
-* Meunier, R., 2022, ‘Gene’, *The Stanford Encyclopedia of Philosophy* (Fall 2022 Edition), Edward N. Zalta (ed.), URL=<https://plato.stanford.edu/archives/fall2022/entries/gene/>.
-* Millstein, R., 2002, ‘Are Random Drift and Natural Selection Conceptually Distinct?’, *Biology and Philosophy*, 17: 33–53.
-* Morrison, M., 2004, ‘Population Genetics and Population Thinking: Mathematics and the Role of the Individual’, *Philosophy of Science*, 71: 1189–1200.
-* Morrison, M., 2014, *Reconstructing Reality: Models, Mathematics and Simulations*. Oxford: Oxford University Press.
-* Moss, L., 2003, *What Genes Can’t Do*, Cambridge MA: MIT Press.
-* Okasha, S., 2006, *Evolution and the Levels of Selection*, Oxford: Oxford University Press.
-* –––, 2008, ‘Fisher’s “Fundamental Theorem” of Natural Selection: A Philosophical Analysis’, *The* *British Journal for the Philosophy of Science*, 59: 319–351.
-* –––, 2009, ‘Causation in Biology’, in *The Oxford Handbook of Causation*, H. Beebee, C. Hitchcock and P. Menzies (eds.), Oxford, Oxford University Press, 707–725.
-* Otsuka, J., 2016a, ‘Causal Foundations of Evolutionary Genetics’, *The* *British Journal for the Philosophy of Science*, 67: 247–269.
-* Otsuka, J., 2016b, ‘A Critical Review of the Statisticalist Debate’, *Biology and Philosophy*, 31: 459–482.
-* Otto, S.P. and Day, T., 2007, *A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution*, Princeton, NJ: Princeton University Press.
-* Pigliucci, M., 2008, ‘The Proper Role of Population Genetics in Modern Evolutionary Theory’, *Biology and Philosophy*, 3(4): 316–324.
-* Pigliucci, M. and Muller, G. B. (eds.), 2010, *Evolution: The Extended Synthesis*, Cambridge MA: MIT Press.
-* Provine, W.B., 1971, *The Origins of Theoretical Population Genetics*, Chicago: University of Chicago Press.
-* Plutynski, A., 2006, ‘Strategies of Model Building in Population Genetics’, *Philosophy of Science*, 73: 755–764.
-* Reisman, K. and Forber, P., 2005, ‘Manipulation and the Causes of Evolution’, *Philosophy of Science*, 72: 1113–1123.
-* Rice, S.H., 2004, *Evolutionary Theory*, Sunderland MA: Sinauer.
-* Rosenberg, N., Pritchard, J., Weber, J., Cann, H., Kidd, K., Zhivotovsky, L. and Feldman, M., 2002., ‘Genetic Structure of Human Populations’, *Science*, 298: 2381–85.
-* Roughgarden, J., 1979, *Theory of Population Genetics and Evolutionary Ecology*, New York: Macmillan.
-* Sarkar, S., 1998, *Genetics and Reductionism*, Cambridge: Cambridge University Press.
-* –––, 2011, ‘Drift and the Causes of Evolution’, in P. McKay Illari, F. Russo and J. Williamson (eds.) *Causality in the Sciences*, Oxford: Oxford University Press, 445–469.
+* Agren, J.A., 2021, _The Gene’s Eye View of Evolution_, Oxford: Oxford University Press.
+* Amundson, R., 2007, _The Changing Role of the Embryo in Evolutionary Thought_, Cambridge: Cambridge University Press.
+* Andreasen, R., 2007, ‘Biological Conceptions of Race’, in D. Gabbay and M. Matthen (eds.) _Philosophy of Biology_, Amsterdam: Elsevier, 455–481.
+* Arthur, W. 2021, _Understanding Evo-Devo_, Cambridge: Cambridge University Press.
+* Baedke, J. and Gilbert, S.F., 2021, ‘Evolution and Development’, _The Stanford Encyclopedia of Philosophy_ (Fall 2021 Edition), Edward N. Zalta (ed.), URL=[https://plato.stanford.edu/archives/fall2021/entries/evolution-development/](https://plato.stanford.edu/archives/fall2021/entries/evolution-development/).
+* Beurton, P.J., Falk, R. and Rheinberger, H., (eds.), 2000, _The Concept of the Gene in Development and Evolution_, Cambridge: Cambridge University Press.
+* Bowler, P.J., 1988, _The Non-Darwinian Revolution_, Baltimore, MD: Johns Hopkins University Press.
+* Reisman, K. and Forber, P., 2005, ‘Manipulation and the Causes of Evolution’, _Philosophy of Science_, 72: 1113–1123.
+* Brandon, R.N. and Ramsey, G., 2007, ‘What’s Wrong with the Emergentist Statistical Interpretation of Natural Selection and Random Drift?’, in D. Hull and M. Ruse (eds.) _The Cambridge Companion to the Philosophy of Biology_, 66–84.
+* Bromham, L., 2009, ‘Does Nothing in Evolution Make Sense in the Light of Population Genetics?’, _Biology and Philosophy_, 24: 387–403.
+* Carroll, S.B., 2005, _Endless Forms Most Beautiful: The New Science of Evo Devo and the Making of the Animal Kingdom_, New York: W.W. Norton.
+* Casillas, S., Barbadilla, A., 2017, ‘Molecular Population Genetics’, _Genetics_, 205(3): 1003–1035.
+* Charlesworth, B. and Charlesworth, D., 2017, ‘Population Genetics from 1966 to 2016’, _Heredity_, 118: 2–9.
+* Charlesworth D., Barton N.H., and Charlesworth, B., 2017, ‘The Sources of Adaptive Variation’, _Proceedings of the Royal Society B_ 284(1855): 20162864.
+* Crow, J.F., and Kimura, M., 1970, _An Introduction to Population Genetics Theory_, New York: Harper and Row.
+* Darwin, C., 1859, _On the Origin of Species by Means of Natural Selection_, London: John Murray.
+* Dawkins, R., 1976, _The Selfish Gene_, Oxford: Oxford University Press.
+* –––, 1982, _The Extended Phenotype_, Oxford: Oxford University Press.
+* Dietrich, M.R., 1994, ‘The Origins of the Neutral Theory of Molecular Evolution’, _Journal of the History of Biology_, 27: 21–59.
+* Dunn, L.C., 1965, _A Short History of Genetics_, London: McGraw Hill.
+* Edwards, A.W.F., 1977, _Foundations of Mathematical Genetics_, Cambridge: Cambridge University Press.
+* Eldredge, N., 1989, _Macroevolutionary Dynamics_, New York: McGraw Hill.
+* Ewens, W.J., 1969, _Population Genetics_, Birkenhead: Willmer Brothers.
+* Falconer, D.S., 1995, _Introduction to Quantitative Genetics_, 4th edition, London: Longman.
+* Fisher, R.A., 1918, ‘The Correlation Between Relatives on the Supposition of Mendelian Inheritance’, _Transactions of the Royal Society of Edinburgh_, 52: 399–433.
+* –––, 1930, _The Genetical Theory of Natural Selection_, Oxford: Clarendon Press.
+* Frigg, R. and Hartmann, S., 2006, ‘Models in Science’, _Stanford Encyclopedia of Philosophy_ (Summer 2009 Edition), Edward N. Zalta (ed.), URL=<[Models in Science (Stanford Encyclopedia of Philosophy/Summer 2009 Edition)](https://plato.stanford.edu/archives/sum2009/entries/models-science/)>.
+* Gillespie, J.H., 2004, _Population Genetics: A Concise Guide_, 2nd edition, Baltimore, MD: Johns Hopkins University Press.
+* Glymour, B., 2006, ‘Wayward Modeling: Population Genetics and Natural Selection’, _Philosophy of Science_, 73: 369–389.
+* Godfrey-Smith, P., 2006, ‘The Strategy of Model-Based Science’, _Biology and Philosophy_, 21: 725–740.
+* Gould, S.J., 2002, _The Structure of Evolutionary Theory_, Cambridge, MA: Harvard University Press.
+* Grantham, T.A., 1995, ‘Hierarchical Approaches to Macroevolution’, _Annual Review of Ecology and Systematics_, 26: 301–321.
+* Griffiths, P.E. and Stotz, K., 2006, ‘Genes in the Post-Genomic Era’, _Theoretical Medicine and Bioethics_, 27(6): 499–521.
+* Haldane, J.B.S., 1930–1932, ‘A Mathematical Theory of Natural and Artificial Selection’, _Proceedings of the Cambridge Philosophical Society_, 26–28, Parts I–IX.
+* –––, 1932, _The Causes of Evolution_, London: Longmans Green.
+* Hamilton, W.D., 1964, ‘The Genetical Evolution of Social Behaviour I and II’, _Journal of Theoretical Biology_, 7: 1–52.
+* Hamilton, M.B., 2021, _Population Genetics: 2nd edition_, Oxford: Blackwell.
+* Hardy, G.H., 1908, ‘Mendelian Proportions in a Mixed Population’, _Science_, 28: 49–50.
+* Hartl, D., 2020, _A Primer of Population Genetics and Genomics, 4th edition_, Oxford: Oxford University Press.
+* Hartl, D.L. and Clark, A.G., 2006, _Principles of Population Genetics_, 4th edition, Sunderland, MA: Sinauer.
+* James, M. and Burgos, A., 2022, ‘Race’, _The Stanford Encyclopedia of Philosophy_ (Spring 2022 Edition), Edward N. Zalta (ed.), URL=[https://plato.stanford.edu/archives/spr2022/entries/race/](https://plato.stanford.edu/archives/spr2022/entries/race/).
+* Jenkin, F., 1867, ‘The Origin of Species’, _North British Review_, 46: 277—318
+* Jensen, J.D., Payseur, B.A., Stephan, W., Aquadro, C.F., Lynch, M., Charlesworth, D. and Charlesworth, B. (2019), ‘The importance of the Neutral Theory in 1968 and 50 years on: A response to Kern and Hahn’ , _Evolution_, 73: 111–114. https://doi.org/10.1111/evo.13650
+* Kern, A.D. and Hahn, M.W., 2018, ‘The Neutral Theory in Light of Natural Selection’, _Molecular Biology and Evolution_ 35(6): 1366–1371.
+* Kimura, M., 1964, _Diffusion Models in Population Genetics_, London: Methuen.
+* –––, 1977, ‘The Neutral Theory of Molecular Evolution and Polymorphism’, _Scientia_, 112: 687–707.
+* –––, 1994, _Population Genetics, Molecular Evolution and the Neutral Theory_, Chicago: University of Chicago Press.
+* Kimura, M. and Ohta, T., 1971, _Theoretical Aspects of Population Genetics_, Princeton: Princeton University Press.
+* Kingman, J.F.C., 1982, ‘On the Genealogy of Large Populations’, _Journal of Applied Probability_, 19: 27–43.
+* Kopec, M., 2014, ‘Clines, Clusters and Clades in the Race Debate’, _Philosophy of Science_, 81: 1053–1065.
+* Laland, K.N, Uller, T., Feldman, M.W., Sterelny, K., Muller, G.B., Moczek, A., Jablonka, E., and Odling-Smee, J., 2014, ‘Does Evolutionary Theory Need a Re-think? Yes, Urgently’, _Nature_, 514: 161–4.
+* Laland, K.N, Uller, T., Feldman, M.W., Sterelny, K., Muller, G.B., Moczek, A., Jablonka, E., and Odling-Smee, J., 2015, ‘The Extended Evolutionary Synthesis: its Structure, Assumptions and Predictions’, _Proceedings of the Royal Society B_, 282: 20151019.
+* Lewontin, R.C., 1974, _The Genetic Basis of Evolutionary Change_, New York: Columbia University Press.
+* –––, 1980, ‘Theoretical Population Genetics in the Evolutionary Synthesis’, in _The Evolutionary Synthesis_, E. Mayr and W.B. Provine (eds.), Cambridge MA, Harvard University Press, 58–68.
+* Lewontin, R.C. and Hubby, J. L., 1966, ‘A Molecular Approach to the Study of Genic Heterozygosity in Natural Populations 1’, _Genetics_, 54(2): 577–594.
+* Li, J., Absher, D., Tang, H., Southwick, A.M., Casto, A., Ramachandran, S. and Cann, H., 2008, ‘Worldwide Human Relationships Inferred from Genome-Wide Patterns of Variation’, _Science_, 319: 1100–1104.
+* Lynch, M.J., 2007, _The Origins of Genome Architecture_, Baltimore, MD: Sinauer.
+* Matthen, M. and Ariew, A., 2009, ‘Selection and Causation’, _Philosophy of Science_, 76: 201–224.
+* Maynard Smith, J., 1989, _Evolutionary Genetics_, Oxford: Oxford University Press.
+* Meunier, R., 2022, ‘Gene’, _The Stanford Encyclopedia of Philosophy_ (Fall 2022 Edition), Edward N. Zalta (ed.), URL=[https://plato.stanford.edu/archives/fall2022/entries/gene/](https://plato.stanford.edu/archives/fall2022/entries/gene/).
+* Millstein, R., 2002, ‘Are Random Drift and Natural Selection Conceptually Distinct?’, _Biology and Philosophy_, 17: 33–53.
+* Morrison, M., 2004, ‘Population Genetics and Population Thinking: Mathematics and the Role of the Individual’, _Philosophy of Science_, 71: 1189–1200.
+* Morrison, M., 2014, _Reconstructing Reality: Models, Mathematics and Simulations_. Oxford: Oxford University Press.
+* Moss, L., 2003, _What Genes Can’t Do_, Cambridge MA: MIT Press.
+* Okasha, S., 2006, _Evolution and the Levels of Selection_, Oxford: Oxford University Press.
+* –––, 2008, ‘Fisher’s “Fundamental Theorem” of Natural Selection: A Philosophical Analysis’, _The_ _British Journal for the Philosophy of Science_, 59: 319–351.
+* –––, 2009, ‘Causation in Biology’, in _The Oxford Handbook of Causation_, H. Beebee, C. Hitchcock and P. Menzies (eds.), Oxford, Oxford University Press, 707–725.
+* Otsuka, J., 2016a, ‘Causal Foundations of Evolutionary Genetics’, _The_ _British Journal for the Philosophy of Science_, 67: 247–269.
+* Otsuka, J., 2016b, ‘A Critical Review of the Statisticalist Debate’, _Biology and Philosophy_, 31: 459–482.
+* Otto, S.P. and Day, T., 2007, _A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution_, Princeton, NJ: Princeton University Press.
+* Pigliucci, M., 2008, ‘The Proper Role of Population Genetics in Modern Evolutionary Theory’, _Biology and Philosophy_, 3(4): 316–324.
+* Pigliucci, M. and Muller, G. B. (eds.), 2010, _Evolution: The Extended Synthesis_, Cambridge MA: MIT Press.
+* Provine, W.B., 1971, _The Origins of Theoretical Population Genetics_, Chicago: University of Chicago Press.
+* Plutynski, A., 2006, ‘Strategies of Model Building in Population Genetics’, _Philosophy of Science_, 73: 755–764.
+* Reisman, K. and Forber, P., 2005, ‘Manipulation and the Causes of Evolution’, _Philosophy of Science_, 72: 1113–1123.
+* Rice, S.H., 2004, _Evolutionary Theory_, Sunderland MA: Sinauer.
+* Rosenberg, N., Pritchard, J., Weber, J., Cann, H., Kidd, K., Zhivotovsky, L. and Feldman, M., 2002., ‘Genetic Structure of Human Populations’, _Science_, 298: 2381–85.
+* Roughgarden, J., 1979, _Theory of Population Genetics and Evolutionary Ecology_, New York: Macmillan.
+* Sarkar, S., 1998, _Genetics and Reductionism_, Cambridge: Cambridge University Press.
+* –––, 2011, ‘Drift and the Causes of Evolution’, in P. McKay Illari, F. Russo and J. Williamson (eds.) _Causality in the Sciences_, Oxford: Oxford University Press, 445–469.
 * Sesardic, N., 2010, ‘Race: A Social Destruction of a Biological Concept’, Biology and Philosophy, 25, 143–162.
-* Skipper, R.A., 2004, ‘Stochastic Evolutionary Dynamics: Drift versus Draft’, *Philosophy of Science*, 73: 655–665.
-* Sober, E., 1984, *The Nature of Selection*, Chicago: Chicago University Press.
-* Spencer, Q., 2015, ‘Philosophy of Race Meets Population Genetics’, *Studies in History and Philosophy of Science Part C*: *Studies in History and Philosophy of Biological and Biomedical Sciences* 52: 46–55.
-* Sterelny, K., 1996, ‘Explanatory Pluralism in Evolutionary Biology’, *Biology and Philosophy*, 11: 193–214.
-* Turner, D. and Havstad, J.C., 2019, ‘Philosophy of Macroevolution’, *The Stanford Encyclopedia of Philosophy (Fall 2019 Edition)*, Edward N. Zalta (ed.), URL=<https://plato.stanford.edu/archives/fall2019/entries/macroevolution/>.
-* Wade, M.J., 2005, ‘Evolutionary and Ecological Genetics,’ *Stanford Encyclopedia of Philosophy* (Spring 2005 Edition), Edward N. Zalta (ed.), URL=<[Evolutionary Genetics (Stanford Encyclopedia of Philosophy/Spring 2005 Edition)](https://plato.stanford.edu/archives/spr2005/entries/evolutionary-genetics/)>.
-* Wakeley, J., 2008, *Coalescent Theory: an Introduction*, Greenwood Village, CO: Roberts.
-* Walsh, D.M., 2007, ‘The Pomp of Superfluous Causes: the Interpretation of Evolutionary Theory’, *Philosophy of Science*, 74: 281–303.
-* Walsh, B. and Lynch, M., 2018, *Evolution and Selection of Quantitative Traits*, Oxford: Oxford University Press.
-* Weinberg, W., 1908, ‘Über den Nachweis der Vererbung beim Menschen’, Jahreshefte des Vereins für Vaterlandische Naturkunde in Württemburg, 64: 368–82. English translation in S. Boyer (ed.), 1983, *Papers on Human Genetics*, Englewood Cliffs, N. J.: Prentice-Hall, 4-15.
-* Weisberg, M., 2006, ‘Forty Years of “The Strategy”: Levins on Model Building and Idealization’, *Biology and Philosophy*, 21: 623–645.
-* Williams, G.C., 1966, *Adaptation and Natural Selection*. Princeton: Princeton University Press.
-* Winther, R.G., 2014, ‘The Genetic Reification of ‘Race’ A Story of Two Mathematical Methods’, *Critical Philosophy of Race*, 2: 204–223.
-* Wray, G.A, Futuyma D.A., Lenski R.E., MacKay T.F.C., Schluter D., Strassman J.E., Hoekstra H.E., 2014, ‘Does Evolutionary Biology Need a Rethink? Counterpoint: No: All is Well’, *Nature*, 514: 161–4.
-* Wright, S., 1931, ‘Evolution in Mendelian Populations’, *Genetics*, 16: 97–159.
-* –––, 1937, ‘The Distribution of Gene Frequencies in Populations’, *Proceedings of the National Academy of Sciences*, 23: 307–20.
-* –––, 1968–1978, *Evolution and the Genetics of Populations, Volumes 1–4*, Chicago: University of Chicago Press.
+* Skipper, R.A., 2004, ‘Stochastic Evolutionary Dynamics: Drift versus Draft’, _Philosophy of Science_, 73: 655–665.
+* Sober, E., 1984, _The Nature of Selection_, Chicago: Chicago University Press.
+* Spencer, Q., 2015, ‘Philosophy of Race Meets Population Genetics’, _Studies in History and Philosophy of Science Part C_: _Studies in History and Philosophy of Biological and Biomedical Sciences_ 52: 46–55.
+* Sterelny, K., 1996, ‘Explanatory Pluralism in Evolutionary Biology’, _Biology and Philosophy_, 11: 193–214.
+* Turner, D. and Havstad, J.C., 2019, ‘Philosophy of Macroevolution’, _The Stanford Encyclopedia of Philosophy (Fall 2019 Edition)_, Edward N. Zalta (ed.), URL=[https://plato.stanford.edu/archives/fall2019/entries/macroevolution/](https://plato.stanford.edu/archives/fall2019/entries/macroevolution/).
+* Wade, M.J., 2005, ‘Evolutionary and Ecological Genetics,’ _Stanford Encyclopedia of Philosophy_ (Spring 2005 Edition), Edward N. Zalta (ed.), URL=<[Evolutionary Genetics (Stanford Encyclopedia of Philosophy/Spring 2005 Edition)](https://plato.stanford.edu/archives/spr2005/entries/evolutionary-genetics/)>.
+* Wakeley, J., 2008, _Coalescent Theory: an Introduction_, Greenwood Village, CO: Roberts.
+* Walsh, D.M., 2007, ‘The Pomp of Superfluous Causes: the Interpretation of Evolutionary Theory’, _Philosophy of Science_, 74: 281–303.
+* Walsh, B. and Lynch, M., 2018, _Evolution and Selection of Quantitative Traits_, Oxford: Oxford University Press.
+* Weinberg, W., 1908, ‘Über den Nachweis der Vererbung beim Menschen’, Jahreshefte des Vereins für Vaterlandische Naturkunde in Württemburg, 64: 368–82. English translation in S. Boyer (ed.), 1983, _Papers on Human Genetics_, Englewood Cliffs, N. J.: Prentice-Hall, 4-15.
+* Weisberg, M., 2006, ‘Forty Years of “The Strategy”: Levins on Model Building and Idealization’, _Biology and Philosophy_, 21: 623–645.
+* Williams, G.C., 1966, _Adaptation and Natural Selection_. Princeton: Princeton University Press.
+* Winther, R.G., 2014, ‘The Genetic Reification of ‘Race’ A Story of Two Mathematical Methods’, _Critical Philosophy of Race_, 2: 204–223.
+* Wray, G.A, Futuyma D.A., Lenski R.E., MacKay T.F.C., Schluter D., Strassman J.E., Hoekstra H.E., 2014, ‘Does Evolutionary Biology Need a Rethink? Counterpoint: No: All is Well’, _Nature_, 514: 161–4.
+* Wright, S., 1931, ‘Evolution in Mendelian Populations’, _Genetics_, 16: 97–159.
+* –––, 1937, ‘The Distribution of Gene Frequencies in Populations’, _Proceedings of the National Academy of Sciences_, 23: 307–20.
+* –––, 1968–1978, _Evolution and the Genetics of Populations, Volumes 1–4_, Chicago: University of Chicago Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=population-genetics). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/population-genetics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=population-genetics&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/population-genetics/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=population-genetics).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/population-genetics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=population-genetics\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/population-genetics/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | [developmental biology: evolution and development](https://plato.stanford.edu/entries/evolution-development/) | [evolution](https://plato.stanford.edu/entries/evolution/) | [fitness](https://plato.stanford.edu/entries/fitness/) | [genetic drift](https://plato.stanford.edu/entries/genetic-drift/) | [genetics: ecological](https://plato.stanford.edu/entries/ecological-genetics/) | [genetics: genotype/phenotype distinction](https://plato.stanford.edu/entries/genotype-phenotype/) | [genetics: molecular](https://plato.stanford.edu/entries/molecular-genetics/) | [heritability](https://plato.stanford.edu/entries/heritability/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/)
+[biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | [developmental biology: evolution and development](https://plato.stanford.edu/entries/evolution-development/) | [evolution](https://plato.stanford.edu/entries/evolution/) | [fitness](https://plato.stanford.edu/entries/fitness/) | [genetic drift](https://plato.stanford.edu/entries/genetic-drift/) | [genetics: ecological](https://plato.stanford.edu/entries/ecological-genetics/) | [genetics: genotype/phenotype distinction](https://plato.stanford.edu/entries/genotype-phenotype/) | [genetics: molecular](https://plato.stanford.edu/entries/molecular-genetics/) | [heritability](https://plato.stanford.edu/entries/heritability/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Samir Okasha](http://www.bris.ac.uk/Depts/Philosophy/PHS/PHS_Staff.html#samir) <[*samir.okasha@bristol.ac.uk*](mailto:samir%2eokasha%40bristol%2eac%2euk)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Samir Okasha](http://www.bris.ac.uk/Depts/Philosophy/PHS/PHS\_Staff.html#samir) <[_samir.okasha@bristol.ac.uk_](mailto:samir%2eokasha%40bristol%2eac%2euk)>

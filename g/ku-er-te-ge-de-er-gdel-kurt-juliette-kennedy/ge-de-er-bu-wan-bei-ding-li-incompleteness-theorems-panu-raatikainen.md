@@ -1,29 +1,25 @@
 # 哥德尔不完备定理 incompleteness theorems (Panu Raatikainen)
 
-*首次发表于2013年11月11日星期一；实质性修订于2020年4月2日星期四。*
+_首次发表于2013年11月11日星期一；实质性修订于2020年4月2日星期四。_
 
 哥德尔的两个不完备定理是现代逻辑中最重要的结果之一，对各种问题有深远的影响。它们涉及形式公理理论中可证明性的限制。第一个不完备定理指出，在任何一致的形式系统 F 中，可以进行一定数量的算术运算，F 的语言中存在无法在 F 中证明或证伪的陈述。根据第二个不完备定理，这样一个形式系统无法证明系统本身的一致性（假设它确实是一致的）。这些结果对数学和逻辑的哲学产生了巨大影响。人们还试图将这些结果应用于其他哲学领域，如心灵哲学，但这些尝试的应用更具争议。本文概述了这两个不完备定理及其周围的各种问题。（有关哥德尔的不完备定理的讨论，请参见 Kurt Gödel 的条目，将其置于他的数学和哲学工作的更广泛讨论的背景中。）
 
-* [ 1. 引言](https://plato.stanford.edu/entries/goedel-incompleteness/#Int)
-
-  * [ 1.1 概述](https://plato.stanford.edu/entries/goedel-incompleteness/#Out)
+* [1. 引言](https://plato.stanford.edu/entries/goedel-incompleteness/#Int)
+  * [1.1 概述](https://plato.stanford.edu/entries/goedel-incompleteness/#Out)
   * [1.2 一些形式化的理论](https://plato.stanford.edu/entries/goedel-incompleteness/#SomForThe)
   * [1.3 哥德尔不完备定理的相关性](https://plato.stanford.edu/entries/goedel-incompleteness/#RelChuTurThe)
 * [2. 哥德尔不完备定理的第一部分](https://plato.stanford.edu/entries/goedel-incompleteness/#FirIncThe)
-
-  * [ 2.1 准备工作](https://plato.stanford.edu/entries/goedel-incompleteness/#Pre)
-  * [ 2.2 可表示性](https://plato.stanford.edu/entries/goedel-incompleteness/#Rep)
+  * [2.1 准备工作](https://plato.stanford.edu/entries/goedel-incompleteness/#Pre)
+  * [2.2 可表示性](https://plato.stanford.edu/entries/goedel-incompleteness/#Rep)
   * [2.3 形式语言的算术化](https://plato.stanford.edu/entries/goedel-incompleteness/#AriForLan)
   * [2.4 对角线化，或者“自指”](https://plato.stanford.edu/entries/goedel-incompleteness/#DiaSelRef)
   * [2.5 第一不完备定理——证明完成](https://plato.stanford.edu/entries/goedel-incompleteness/#FirIncTheCom)
   * [2.6 不完备性和非标准模型](https://plato.stanford.edu/entries/goedel-incompleteness/#IncNonStaMod)
 * [3. 哥德尔不完备定理](https://plato.stanford.edu/entries/goedel-incompleteness/#SecIncThe)
-
-  * [ 3.1 准备工作](https://plato.stanford.edu/entries/goedel-incompleteness/#Prethree)
+  * [3.1 准备工作](https://plato.stanford.edu/entries/goedel-incompleteness/#Prethree)
   * [3.2 可导性条件](https://plato.stanford.edu/entries/goedel-incompleteness/#DerCon)
   * [3.3 哥德尔不完备定理的费弗曼替代方法](https://plato.stanford.edu/entries/goedel-incompleteness/#FefAltAppSecThe)
 * [4. 与哥德尔不完备定理相关的结果](https://plato.stanford.edu/entries/goedel-incompleteness/#ResRelIncThe)
-
   * [4.1 塔斯基关于真理不可定义性的定理](https://plato.stanford.edu/entries/goedel-incompleteness/#TarTheUndTru)
   * [4.2 哥德尔不完备定理](https://plato.stanford.edu/entries/goedel-incompleteness/#UndRes)
   * [4.3 反射原理和 Löb 定理](https://plato.stanford.edu/entries/goedel-incompleteness/#RefPriLbsThe)
@@ -31,19 +27,18 @@
   * [4.5 无法证明的陈述的具体案例](https://plato.stanford.edu/entries/goedel-incompleteness/#ConCasUnpSta)
 * [5. 哥德尔不完备定理的历史和早期接受情况](https://plato.stanford.edu/entries/goedel-incompleteness/#HisEarRecIncThe)
 * [6. 哲学意义-真实和被指责的](https://plato.stanford.edu/entries/goedel-incompleteness/#PhiImpAll)
-
   * [6.1 数学哲学](https://plato.stanford.edu/entries/goedel-incompleteness/#Mat)
   * [6.2 自明和分析真理](https://plato.stanford.edu/entries/goedel-incompleteness/#SelEviAnaTru)
   * [6.3 对机械主义的“哥德尔式”论证](https://plato.stanford.edu/entries/goedel-incompleteness/#GdeArgAgaMec)
   * [6.4 哥德尔和贝纳塞拉夫关于机械主义和形而上学](https://plato.stanford.edu/entries/goedel-incompleteness/#GdeBenMecPla)
   * [6.5 神秘主义和上帝的存在？](https://plato.stanford.edu/entries/goedel-incompleteness/#MysExiGod)
-* [ 进一步阅读](https://plato.stanford.edu/entries/goedel-incompleteness/#FurRea)
-* [ 参考文献](https://plato.stanford.edu/entries/goedel-incompleteness/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/goedel-incompleteness/#Aca)
+* [进一步阅读](https://plato.stanford.edu/entries/goedel-incompleteness/#FurRea)
+* [参考文献](https://plato.stanford.edu/entries/goedel-incompleteness/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/goedel-incompleteness/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/goedel-incompleteness/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/goedel-incompleteness/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/goedel-incompleteness/#Rel)
 
----
+***
 
 ## 1. 引言
 
@@ -57,8 +52,7 @@
 
 哥德尔建立了两个不同但相关的不完备定理，通常称为第一不完备定理和第二不完备定理。“哥德尔定理”有时用来指代这两个定理的合并，但也可以单独指代其中之一，通常是第一个。根据 J. Barkley Rosser 在 1936 年的改进，第一个定理可以粗略地陈述如下：
 
-**第一不完备定理**
-在任何一致的形式系统 F 中，可以进行一定数量的初等算术，但该系统是不完备的；即，在 F 的语言中存在无法在 F 中被证明或证伪的陈述。
+**第一不完备定理** 在任何一致的形式系统 F 中，可以进行一定数量的初等算术，但该系统是不完备的；即，在 F 的语言中存在无法在 F 中被证明或证伪的陈述。
 
 哥德尔不完备定理并不仅仅声称存在这样的陈述：哥德尔证明的方法明确地产生了一个在 F 中既不可证明也不可证伪的特定句子；这个“不可判定”的陈述可以从对 F 的规范机械地找到。所讨论的句子是一个相对简单的数论陈述，一个纯粹的普遍算术陈述。
 
@@ -66,8 +60,7 @@
 
 哥德尔的第二不完备定理涉及一致性证明的限制。一个粗略的陈述是：
 
-**哥德尔不完备定理二**
-对于任何一致的系统 F，其中可以进行一定数量的初等算术运算，在 F 本身中无法证明 F 的一致性。
+**哥德尔不完备定理二** 对于任何一致的系统 F，其中可以进行一定数量的初等算术运算，在 F 本身中无法证明 F 的一致性。
 
 在第二个定理的情况下，F 必须包含比第一个定理的情况下更多的算术，第一个定理在非常弱的条件下成立。需要注意的是，这个结果和第一个不完备定理一样，是关于形式可证性或可推导性的定理（这总是相对于某个形式系统来说的；在这种情况下，相对于 F 本身）。它并不说明对于满足定理条件的特定理论 T，陈述“T 是一致的”是否可以通过确凿的论证或者对数学家普遍接受的证明来证明为真。对于许多理论来说，这是完全可能的。
 
@@ -93,7 +86,7 @@
 
 在这些基本公理的基础上，还添加了归纳公理方案：
 
-(IND)ϕ(0)∧∀x[ϕ(x)→ϕ(x′)]→∀xϕ(x)，
+(IND)ϕ(0)∧∀x\[ϕ(x)→ϕ(x′)]→∀xϕ(x)，
 
 结果在（一阶）皮亚诺算术（PA）中。请注意，与 Q 不同，PA 包含无限多个公理，因为将语言中至少有一个自由变量的每个公式ϕ（x）的所有（无限多个）归纳方案实例都作为公理。但是，检查给定句子是否是此方案的实例是一项例行机械任务。PA 通常被视为标准的一阶算术系统。
 
@@ -103,9 +96,9 @@
 
 比 PA 更强大的系统，在数学基础中非常重要，下面会不时提到，是二阶算术 PA2（也经常用 Z2 表示）。它足以发展所有普通的分析和代数。它的语言是一个双排序的一阶语言（参见二阶和高阶逻辑的条目），即它包含两种变量类型，数字变量 x1，x2，…（或 x，y，z，…）和属性变量 X1，X2，…（或 X，Y，Z，…），其中属性是外延概念。作为公理，除了 PA 的基本公理外，它还包括二阶包含方案的所有实例：
 
-∃X∀x[Xx↔ϕ(x)]
+∃X∀x\[Xx↔ϕ(x)]
 
-其中ϕ(x)可以是 PA2 语言中的任何公式，其中 X 不自由出现。（值得一提的是，PA2 也可以通过将集合成员关系（∈）作为原始概念添加到语言中，将变量 X，Y，Z，…明确地视为集合范围，并将二阶包含重新表述为∃X∀x[x∈X↔ϕ(x)]。）
+其中ϕ(x)可以是 PA2 语言中的任何公式，其中 X 不自由出现。（值得一提的是，PA2 也可以通过将集合成员关系（∈）作为原始概念添加到语言中，将变量 X，Y，Z，…明确地视为集合范围，并将二阶包含重新表述为∃X∀x\[x∈X↔ϕ(x)]。）
 
 PA2 是一个非常强大的理论。通过解释方法（见下文），可以证明它在证明论上与没有幂集公理的策梅洛-弗兰克尔集合论 ZFC-Pow 一样强大（而标准的一阶 PA 在证明论上与没有无穷公理的 ZFC-Inf 等价）。 （参见集合论条目中关于 ZFC 公理的部分。）
 
@@ -145,7 +138,7 @@ PA2 是一个非常强大的理论。通过解释方法（见下文），可以�
 
 在他最初的证明中，哥德尔使用了他特定的ω-一致性概念，对于某些目的来说，遵循哥德尔的原始方法仍然很方便。如果一个形式化理论 F 是ω-一致的，那么对于某个公式 A(x)，既有 F⊢¬A(n––)对于所有 n，又有 F⊢∃xA(x)不成立。这自然地意味着正常一致性，并且是基于自然数满足 F 的公理的假设。
 
-实际上，在这里只需要一个简单的特殊情况的ω-一致性；即，这个假设只需要与逻辑学家所称的Σ01-公式有关；这些公式大致上是纯存在的公式；更确切地说，是形如∃x1∃x2…∃xnA 的公式，其中 A 不包含任何无界量词（A 可能包含有界全称量词∀x<t 和有界存在量词∃x<t）。这种受限的ω-一致性被称为 1-一致性。
+实际上，在这里只需要一个简单的特殊情况的ω-一致性；即，这个假设只需要与逻辑学家所称的Σ01-公式有关；这些公式大致上是纯存在的公式；更确切地说，是形如∃x1∃x2…∃xnA 的公式，其中 A 不包含任何无界量词（A 可能包含有界全称量词∀x\<t 和有界存在量词∃x\<t）。这种受限的ω-一致性被称为 1-一致性。
 
 ω-一致性和 1-一致性是纯语法概念。如果允许使用真假概念，那么 1-一致性的假设可以直观地表达为所讨论的形式系统不证明任何假的Σ01-句子（即，至少在这些句子的情况下，该系统是完备的）。从现在开始，假设所考虑的形式化系统包含 Q，并且至少是 1-一致的，除非另有说明。
 
@@ -159,11 +152,11 @@ n∈S⇒F⊢A(n––);n∉S⇒F⊢¬A(n––)，
 
 如果存在 F 语言的公式 A(x)，使得对于每个自然数 n，n∈S⇔F⊢A(n––)，那么自然数集合 S 在 F 中是弱可表示的。
 
- 对于多元关系，这些概念的推广是显而易见的。函数的可表示性也有相关概念。正如不完备性定理特别教导我们的那样，存在一些集合只是弱可表示而不是强可表示（其中一个关键例子是系统中可证明的陈述的集合）。
+对于多元关系，这些概念的推广是显而易见的。函数的可表示性也有相关概念。正如不完备性定理特别教导我们的那样，存在一些集合只是弱可表示而不是强可表示（其中一个关键例子是系统中可证明的陈述的集合）。
 
 It is obvious how all these notions are generalized to many-place relations. There are also related notions of representability for functions. As the incompleteness results in particular teach us, there are sets which are only weakly but not strongly representable (the key example being the set of statements provable in the system).
 
-[警告：这里文献中的术语变化很大：“强表示”有时被称为“表示”，“逐数字表达”，“双数字表达”，“定义”或“强定义”；而“弱表示”则可以用“表示”，“定义”，“弱定义”或“数字表达”来表示。在这里应该小心，并专注于相关定义，不要让词语误导。]
+\[警告：这里文献中的术语变化很大：“强表示”有时被称为“表示”，“逐数字表达”，“双数字表达”，“定义”或“强定义”；而“弱表示”则可以用“表示”，“定义”，“弱定义”或“数字表达”来表示。在这里应该小心，并专注于相关定义，不要让词语误导。]
 
 对于弱表示和强表示的两种情况，总是存在一个简单的存在性Σ01 公式，它（弱或强）表示所讨论的集合，并且通常使用这样的公式来表示 S。
 
@@ -171,8 +164,7 @@ It is obvious how all these notions are generalized to many-place relations. The
 
 总之，我们有：
 
-**可表示性定理**
-在任何包含 Q 的一致形式系统中：
+**可表示性定理** 在任何包含 Q 的一致形式系统中：
 
 1. 如果且仅如果一个集合（或关系）是递归的，那么它是强可表示的；
 2. 如果且仅如果一个集合（或关系）是可递归枚举的，那么它是弱可表示的；
@@ -189,7 +181,7 @@ Gödel 证明的下一个关键步骤是将形式系统的语言进行算术化�
 
 由于（根据形式系统的定义）判断给定的公式序列是否构成给定句子的证明是可判定的，根据所选择的形式系统 F 的规则，二元关系“x 是（哥德尔数为）公式（的证明）（具有哥德尔数）y”可以在包含 Q 的所有系统中强表示，特别是在 F 中。让我们用 PrfF(x,y)来表示在 F 本身中强表示这个关系的公式。在 F 中可证明的性质可以定义为∃xPrfF(x,y)。让我们将这个形式化的可证性谓词缩写为 ProvF(x)。由此可知，后者是弱表示的（尽管事实证明，它不是强表示的）：
 
- F⊢A⇒F⊢ProvF(┌A┐)。
+F⊢A⇒F⊢ProvF(┌A┐)。
 
 总是可以选择可证性谓词 ProvF(x)为一个Σ01-公式。
 
@@ -201,7 +193,7 @@ Gödel 证明的下一个，也许有些令人惊讶的重要引理是以下引�
 
 设 A(x) 是 F 语言中只有一个自由变量的任意公式。那么可以机械地构造一个句子 D 使得 F⊢D↔A(┌D┐) 成立。
 
- 哥德尔不完备定理
+哥德尔不完备定理
 
 （有关证明的概述，请参见补充：对角线引理）
 
@@ -213,13 +205,13 @@ Gödel 证明的下一个，也许有些令人惊讶的重要引理是以下引�
 
 为了完成证明，对否定的可证性谓词¬ProvF(x)应用对角线引理：这给出了一个句子 GF，使得
 
- (G)F⊢GF↔¬ProvF(┌GF┐)。
+(G)F⊢GF↔¬ProvF(┌GF┐)。
 
 因此，甚至在 F 内部也可以证明，如果 GF 为真，则 GF 在 F 中不可证明。
 
 如果 F 只是 1-一致的，那么很容易证明 GF 既不可证明也不可证伪。
 
-对于前半部分，假设 GF 是可证明的。那么，由于 F 实际上也证明了*provability-in-* F 的弱可表示性，即 F 也会证明 ProvF(┌GF┐)。然而，因为 F 实际上还证明了等价性(G)，即 F⊢GF↔¬ProvF(┌GF┐)，所以 F 也会证明¬GF。但这意味着 F 是不一致的。总之，如果 F 是一致的，则 GF 在 F 中不可证明。对于这个前半部分，F 的简单一致性的假设就足够了。
+对于前半部分，假设 GF 是可证明的。那么，由于 F 实际上也证明了_provability-in-_ F 的弱可表示性，即 F 也会证明 ProvF(┌GF┐)。然而，因为 F 实际上还证明了等价性(G)，即 F⊢GF↔¬ProvF(┌GF┐)，所以 F 也会证明¬GF。但这意味着 F 是不一致的。总之，如果 F 是一致的，则 GF 在 F 中不可证明。对于这个前半部分，F 的简单一致性的假设就足够了。
 
 对于后半部分，必须假设 F 是 1-一致的（如果选择了 ProvF(┌GF┐)使其成为Σ01-句子，则需要更一般的假设ω-一致性）。
 
@@ -246,16 +238,15 @@ Gödel 证明的下一个，也许有些令人惊讶的重要引理是以下引�
 
 存在一个 y，使得 y 是具有 Gödel 编号 x 的公式的证明的 Gödel 编号，并且不存在比 y 更小的 z，使得 z 是具有 Gödel 编号 x 的否定公式的证明的 Gödel 编号。
 
- 更正式地说：
+更正式地说：
 
-Prov∗(x)=def∃y[PrfF(y,x)∧∀z<y(¬PrfF(z,neg(x)))],
+Prov∗(x)=def∃y\[PrfF(y,x)∧∀z\<y(¬PrfF(z,neg(x)))],
 
 其中 PrfF(y,x)是前面讨论过的更标准的证明关系。
 
 恰好，如果所考虑的形式系统 F 确实是一致的，Rosser 的可证性谓词与普通的可证性谓词是同扩展的。将对 Rosser 的可证性谓词 Prov∗(x)的否定应用对角线引理得到：
 
-**Rosser 对第一个定理的修改（Rosser 1936）** 
-设 F 是一个包含 Q 的一致形式化系统。那么存在一个 F 的语言中的句子 RF，使得 F 中既不能证明 RF，也不能证明¬RF。
+**Rosser 对第一个定理的修改（Rosser 1936）** 设 F 是一个包含 Q 的一致形式化系统。那么存在一个 F 的语言中的句子 RF，使得 F 中既不能证明 RF，也不能证明¬RF。
 
 ### 2.6 不完备性和非标准模型
 
@@ -269,12 +260,11 @@ Prov∗(x)=def∃y[PrfF(y,x)∧∀z<y(¬PrfF(z,neg(x)))],
 
 从非正式的角度来看，导致第二不完备定理的推理相对简单。给定算术化的可证性谓词，也很容易提出一个算术化的一致性陈述：选择一些明显不一致的公式（在算术理论中，标准选择是(0–=1–)）；让我们用⊥表示它；系统的一致性（算术化的对应物）可以定义为¬ProvF(┌⊥┐)。让我们用 Cons(F)来缩写这个公式。第一不完备定理的第一部分的证明（即上面的情况(i)）可以在 F 内部被形式化（实际上这肯定会很复杂）。这给出了：
 
- F⊢Cons(F)→GF，
+F⊢Cons(F)→GF，
 
 其中 GF 是第一个定理为 F 提供的哥德尔句子。如果 Cons(F)在 F 中是可证的，那么 GF 也是可证的，根据简单逻辑。这将与哥德尔的第一个定理相矛盾。因此，Cons(F)在 F 中也不能被证明。
 
-**哥德尔的第二不完备定理**
-假设 F 是一个包含初等算术的一致形式化系统。那么 F⊬Cons(F)。
+**哥德尔的第二不完备定理** 假设 F 是一个包含初等算术的一致形式化系统。那么 F⊬Cons(F)。
 
 这里有一个在哲学上很重要的问题应该提到：按照目前的说法，哥德尔的第二不完备定理只能证明一个句子 Cons(F)的不可证明性。但是这个句子真的表达了 F 的一致性吗？（将此与上面的备注进行比较，GF 严格来说并没有表达自己的不可证明性。）此外，可能还有其他可证明且表达了 F 一致性的句子吗？
 
@@ -292,7 +282,7 @@ Löb 的可导出条件（D1）（D2）（D3）F⊢A⇒F⊢ProvF(┌A┐)。F⊢
 
 如果算术化的可证性谓词确实满足这些条件，那么第二个定理可以被证明。让 GF 再次成为第一个定理给出的 F 的哥德尔句子。使用可导性条件，很容易证明：
 
- F⊢GF↔Cons(F)。
+F⊢GF↔Cons(F)。
 
 这立即导致了第一个不完备定理给出的 Cons(F)的不可证明性。
 
@@ -308,8 +298,7 @@ Löb 的可导出条件（D1）（D2）（D3）F⊢A⇒F⊢ProvF(┌A┐)。F⊢
 
 现在，Feferman 1960 年提出的第二不完备定理的版本是：
 
-**第二不完备定理的一个变体（Feferman 1960）** 
-设 F 是 PA 的一致扩展，AxF(x)是一个弱表示 F 公理的Σ01-公式，Cons(F)是由 AxF(x)和 ProvFOL(x)构造的一致性陈述。那么 Cons(F)在 F 中是不可证明的。
+**第二不完备定理的一个变体（Feferman 1960）** 设 F 是 PA 的一致扩展，AxF(x)是一个弱表示 F 公理的Σ01-公式，Cons(F)是由 AxF(x)和 ProvFOL(x)构造的一致性陈述。那么 Cons(F)在 F 中是不可证明的。
 
 关于第二不完备定理的其他不同方法，请参见 Feferman 1982、1989a；Visser 2011。关于第二定理的一些哲学复杂性，请参见 Detlefsen 1979、1986、1990、2001；Auerbach 1985、1992；Roeper 2003；Franks 2009（另请参见 Hilbert 计划条目中关于不完备性的部分）。
 
@@ -321,16 +310,15 @@ Löb 的可导出条件（D1）（D2）（D3）F⊢A⇒F⊢ProvF(┌A┐)。F⊢
 
 塔斯基明确区分了客体语言，即句子的真理受到质疑的语言，和用于讨论前者的元语言。他还要求（参见塔斯基的真理定义条目）任何对客体语言的真理 True(x)的令人满意的定义都应满足他的“T 公约”，即它应该具有所有形式为“T-等价”的等价关系作为其结果
 
- (T)真(┌A┐)↔B,
+(T)真(┌A┐)↔B,
 
 其中┌A┐是目标语言的一个句子的名称，B 是它在元语言中的翻译。如果元语言与目标语言相同，或者是目标语言的扩展，那么 B 就是 A 本身，而 T-等价关系的形式为：
 
- 真(┌A┐)↔A.
+真(┌A┐)↔A.
 
 哥德尔不完备定理表明的是，对象语言和元语言不能重合，而必须是不同的。
 
-**塔斯基的不可定义性定理**
-设 F 是一个包含足够数量算术的一致形式化系统。那么在 F 的语言中不存在一个公式 Tr(x)，使得对于 F 的语言中的每个句子 A：
+**塔斯基的不可定义性定理** 设 F 是一个包含足够数量算术的一致形式化系统。那么在 F 的语言中不存在一个公式 Tr(x)，使得对于 F 的语言中的每个句子 A：
 
 F⊢Tr(┌A┐)↔A.
 
@@ -362,8 +350,7 @@ F⊢¬Tr(┌L┐)↔L,
 
 但是，一阶逻辑的决策过程将为 Q 提供一个决策方法。然而，后者是不可能的，因为已经被证明了。因此，可以得出结论：
 
-** 哥德尔不完备定理**
-一阶谓词逻辑是不可判定的。
+\*\* 哥德尔不完备定理\*\* 一阶谓词逻辑是不可判定的。
 
 （这个不可判定性结果最早由哥德尔在 1936 年 a、b 中建立；通过 Q 的不可判定性推导它的方法是由塔斯基、莫斯托夫斯基和罗宾逊在 1953 年提出的。）
 
@@ -385,8 +372,7 @@ Martin Hugo Löb（1955）的论文，在一位评审的评论下，取得了在
 
 反射方案的哪些实例实际上可以在系统中被证明？Löb 定理对这个问题给出了精确的答案（假设 ProvF(x)满足可导性条件）：
 
-** 哥德尔不完备定理**
-设 A 是 F 语言的任意句子。那么：如果且仅如果 F⊢ProvF(┌A┐)→A，那么 F⊢A。
+\*\* 哥德尔不完备定理\*\* 设 A 是 F 语言的任意句子。那么：如果且仅如果 F⊢ProvF(┌A┐)→A，那么 F⊢A。
 
 因此，在一个系统中可证明的正确性实例（反射原理）正是那些涉及到在该系统中本身可证明的句子。作为结果，这也解决了亨金最初的问题：假设算术化的可证性谓词再次“正常”（即满足 Löb 的可导性条件），所有“断言自己可证性”的句子都是可证明的。
 
@@ -402,13 +388,11 @@ Hilbert 在 1900 年的著名数学问题清单中的第十个问题要求找到
 
 由于存在半可判定（可递归可枚举）集合而不可判定（递归）的情况，因此可以立即得出一般结论：
 
-** MRDP 定理**
-无法一般性地确定给定的丢番图方程是否有解。
+\*\* MRDP 定理\*\* 无法一般性地确定给定的丢番图方程是否有解。
 
 这也提供了一个关于丢番图方程的优雅变体的不完备定理。
 
-** 推论**
-对于任何 1-一致的可公理化形式系统 F，存在着迪欧凡尼方程，它们没有解，但在 F 中无法证明它们没有解。
+\*\* 推论\*\* 对于任何 1-一致的可公理化形式系统 F，存在着迪欧凡尼方程，它们没有解，但在 F 中无法证明它们没有解。
 
 （在这里避免 1-一致性的要求是棘手的；参见 Dyson，Jones 和 Shepherson 1982 年。）
 
@@ -472,7 +456,7 @@ Gödel 的证明提供的不可判定句子（如果写出来）是非常复杂�
 
 > 证明了机械论是错误的，也就是说，思维不能被解释为机器。
 
- 他声称
+他声称
 
 > 对于任何一台一致且能够进行简单算术运算的机器来说，存在一个它无法生成的被证明为真的公式...但我们可以看出它是真的。
 
@@ -502,219 +486,218 @@ Gödel 的证明提供的不可判定句子（如果写出来）是非常复杂�
 
 关于不完备定理的哲学方面的更多讨论，请参见 Raatikainen 2005 和 Franzén 2005。
 
-
 ## Further reading
 
 A standard reference for the incompleteness theorems is:
 
-* Smoryński, C., 1977, “The incompleteness theorems,” in *Handbook of Mathematical Logic*, J. Barwise (ed.), Amsterdam: North-Holland, pp. 821–866 [[available online](http://www.karlin.mff.cuni.cz/~krajicek/smorynski.pdf)].
+* Smoryński, C., 1977, “The incompleteness theorems,” in _Handbook of Mathematical Logic_, J. Barwise (ed.), Amsterdam: North-Holland, pp. 821–866 \[[available online](http://www.karlin.mff.cuni.cz/\~krajicek/smorynski.pdf)].
 
 There are several introductory textbooks in mathematical logic which give a good exposition of the incompleteness theorems and related topics; for example:
 
-* Boolos, G., and R. Jeffrey, 1989, *Computability and Logic*, 3rd revised edition, Cambridge: Cambridge University Press.
-* Enderton, H., 1972, *A Mathematical Introduction to Logic*, New York: Academic Press.
-* Van Dalen, D., 2004, *Logic and Structure*, 4th edition, Berlin: Springer.
+* Boolos, G., and R. Jeffrey, 1989, _Computability and Logic_, 3rd revised edition, Cambridge: Cambridge University Press.
+* Enderton, H., 1972, _A Mathematical Introduction to Logic_, New York: Academic Press.
+* Van Dalen, D., 2004, _Logic and Structure_, 4th edition, Berlin: Springer.
 
 Two books that are dedicated to the incompleteness theorems are:
 
-* Smullyan, R., 1991, *Gödel’s Incompleteness Theorems*, Oxford: Oxford University Press.
-* Smith, P., 2007, *An Introduction to Gödel’s Theorems*, Cambridge: Cambridge University Press.
+* Smullyan, R., 1991, _Gödel’s Incompleteness Theorems_, Oxford: Oxford University Press.
+* Smith, P., 2007, _An Introduction to Gödel’s Theorems_, Cambridge: Cambridge University Press.
 
 Another useful book on the incompleteness theorems and related topics is:
 
-* Murawski, R., 1999, *Recursive Functions and Metamathematics: Problems of Completeness and Decidability, Gödel’s Theorems.* Dordrecht: Kluwer.
+* Murawski, R., 1999, _Recursive Functions and Metamathematics: Problems of Completeness and Decidability, Gödel’s Theorems._ Dordrecht: Kluwer.
 
 A comprehensive, more advanced book on these themes is:
 
-* Hájek, P. and Pudlák, P., 1993, *Metamathematics of First-Order Arithmetic*, Berlin: Springer.
+* Hájek, P. and Pudlák, P., 1993, _Metamathematics of First-Order Arithmetic_, Berlin: Springer.
 
 Another useful book, including also some more advanced topics is:
 
-* Franzén, T., 2004, *Inexhaustibility: A Non-Exhaustive Treatment*, Lecture Notes in Logic 16, ASL, Wellesley: A.K. Peters.
+* Franzén, T., 2004, _Inexhaustibility: A Non-Exhaustive Treatment_, Lecture Notes in Logic 16, ASL, Wellesley: A.K. Peters.
 
 The more philosophical aspects around the incompleteness theorems are surveyed in the following two sources (Franzén is an accessible, informal, and yet reliable, explanation of the incompleteness theorems):
 
-* Raatikainen, P., 2005, “On the Philosophical Relevance of Gödel’s Incompleteness Theorems,” *Revue Internationale de Philosophie*, 59: 513–534 [[available online](https://www.cairn.info/revue-internationale-de-philosophie-2005-4-page-513.htm)].
-* Franzén, T., 2005, *Gödel’s Theorem: An Incomplete Guide to its Use and Abuse*, Wellesley: A.K. Peters.
+* Raatikainen, P., 2005, “On the Philosophical Relevance of Gödel’s Incompleteness Theorems,” _Revue Internationale de Philosophie_, 59: 513–534 \[[available online](https://www.cairn.info/revue-internationale-de-philosophie-2005-4-page-513.htm)].
+* Franzén, T., 2005, _Gödel’s Theorem: An Incomplete Guide to its Use and Abuse_, Wellesley: A.K. Peters.
 
 The following two papers survey various issues around the first incompleteness theorem:
 
-* Beklemishev, L. D., 2010, “Gödel incompleteness theorems and the limits of their applicability. I,” *Russian Mathematical Surveys*, 65: 857–898.
-* Buldt, B., 2014, “The scope of Gödel’s first incompleteness theorem,” *Logica Universalis*, 8: 499–552.
+* Beklemishev, L. D., 2010, “Gödel incompleteness theorems and the limits of their applicability. I,” _Russian Mathematical Surveys_, 65: 857–898.
+* Buldt, B., 2014, “The scope of Gödel’s first incompleteness theorem,” _Logica Universalis_, 8: 499–552.
 
 Finally, there is an open-source e-book that contains a presentation of the incompleteness theorems:
 
-* Zach, Richard, 2019, [*Incompleteness and Computability*](https://ic.openlogicproject.org/), e-Book published by the Open Logic Project.
+* Zach, Richard, 2019, [_Incompleteness and Computability_](https://ic.openlogicproject.org/), e-Book published by the Open Logic Project.
 
 ## Bibliography
 
-* Auerbach, David, 1985, “Intensionality and the Gödel theorems,” *Philosophical Studies*, 48 (3):337–51.
-* –––, 1992, “How to say things with formalisms,” in *Proof, Logic, and Formalization*, M. Detlefsen (ed.), London: Routledge, 77–93 [[available online](https://www.academia.edu/1861652/How_to_Say_Things_With_Formalisms)].
-* Awodey, S. & A.W. Carus, 2003, “Carnap versus Gödel on Syntax and Tolerance,” in *Logical Empiricism: Historical and Contemporary Perspectives*, P. Parrini et al. (eds.), Pittsburgh: University of Pittsburgh Press, pp. 57–64 [[available online](https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/106_Awodey.pdf)].
-* –––, 2004, “How Carnap Could Have Replied to Gödel,” in S. Awodey and C. Klein (eds.), *Carnap Brought Home: The View from Jena*, LaSalle, IL: Open Court, pp. 203–223 [[available online](https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/123_Awodey.pdf)].
-* Barzin, M., 1940, “Sur la portée du théorème de M. Gödel,” *Académie Royale de Belgique, Bulletin de la Classe des Sciences*, Series 5, 26: 230–39.
-* Benacerraf, P., 1967, “God, the Devil, and Gödel,” *The Monist*, 51: 9–32 [[available online](http://www2.units.it/etica/2003_1/3_monographica.htm)].
-* Bezboruah, A. and J.C. Shepherdson, 1976, “Gödel’s Second Incompleteness Theorem for Q,” *The Journal of Symbolic Logic*, 41: 503–512.
-* Boolos, G., 1968, “Review of ‘Minds, Machines and Gödel’, by J.R. Lucas, and ‘God, the Devil, and Gödel’,” *Journal of Symbolic Logic*, 33: 613–15.
-* –––, 1990, “On ‘Seeing’ the Truth of Gödel Sentence,” *Behavioral and Brain Sciences*, 13: 655–656.
-* –––, 1995, “Introductory Note to *1951,” in Gödel 1995: 290–304.
-* Boolos, G. and R. Jeffrey, 1989, *Computability and logic*, 3rd revised edition, Cambridge: Cambridge University Press.
-* Carnap, R., 1934, *Logische Syntax der Sprache*, Vienna: Julius Springer.
-* Chihara, C., 1972, “On Alleged Refutations of Mechanism Using Gödel’s Incompleteness Results,” *Journal of Philosophy*, 69: 507–26.
-* Church, A., 1936a, “An Unsolvable Problem of Elementary Number Theory,” *American Journal of Mathematics*, 58: 354–363. Republished in Davis 1965, 89–107.
-* –––, 1936b, “A Note on Entscheidungsproblem,” *Journal of Symbolic Logic*, 1: 40–41; correction, *ibid.*, 101–102. Republished in Davis 1965, 110–115.
-* Cohen, P. J., 1963, “The Independence of the Continuum Hypothesis I,” *Proceedings of the National Academy of Sciences*, (U.S.A.), 50(6): 1143–48.
-* –––, 1964, “The Independence of the Continuum Hypothesis II,” *Proceedings of the National Academy of Sciences*, (U.S.A.), 51(1): 105–110.
-* Crocco, G., 2003, “Gödel, Carnap, and the Fregean Heritage,” *Synthese*, 137: 21–41.
-* Davis, M., 1965, *The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions*, Hewlett, NY: Raven Press.
-* –––, 1973, “Hilbert’s Tenth Problem is Unsolvable,” *The American Mathematical Monthly*, 80: 233–269.
-* –––, 1977, “Unsolvable Problems,” in *Handbook of Mathematical Logic*, J. Barwise (ed.), Amsterdam: North-Holland, pp. 567–594.
-* –––, 1990, “Is Mathematical Insight Algorithmic?” *Behavioral and Brain Sciences*, 13: 659–660.
-* –––, 1993, “How Subtle is Gödel’s Theorem? More on Roger Penrose,” *Behavioral and Brain Sciences*, 16: 611–612.
-* Davis, M., H. Putnam, and J. Robinson, 1961, “The decision problem for exponential diophantine equations,” *Annals of Mathematics (2)*, 74(3): 425–436.
-* Dawson, J., 1985, “The Reception of Gödel’s Incompleteness Theorems,” *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association 1984*, vol. II, pp. 253–271.
-* –––, 1997, *Logical Dilemmas: The Life and Work of Kurt Gödel*, Natick, MA: A. K. Peters.
-* Detlefsen, M., 1979, “On Interpreting Gödel’s Second Theorem,” *Journal of Philosophical Logic*, 8(1): 297–313.
-* –––, 1986, *Hilbert’s Program: An Essay in Mathematical Instrumentalism*, Dordrecht: Reidel.
-* –––, 1990, “On an Alleged Refutation of Hilbert’s Program Using Gödel’s First Incompleteness Theorem,” *Journal of Philosophical Logic*, 19(4): 343–377.
-* –––, 1995, “Wright on the Non-mechanizability of Intuitionist Reasoning,” *Philosophia Mathematica*, 3(1): 103–118.
-* –––, 2001, “What Does Gödel’s Second Theorem Say?” *Philosophia Mathematica*, 9: 37–71.
-* Dyson, V., J.P. Jones, and J.C. Shepherdson, 1982, “Some Diophantine Forms of Gödel’s Theorem,” *Archiv für Mathematische Logik und Grundlagenforschung*, 22: 51–60.
-* Ehrenfeucht, A. and S. Feferman, 1960, “Representability of recursively enumerable sets in formal theories”, *Arch. Math. Logik Grundlag.*, 5(1–2), 37–41.
-* Feferman, S., 1960, “Arithmetization of Metamathematics in a General Setting,” *Fundamenta Mathematicae*, 49: 35–92.
-* –––, 1982, “Inductively Presented Systems and the Formalization of Meta-mathematics,” in *Logic Colloquium ’80*, D. van Dalen et al. (eds.), Amsterdam: North-Holland, pp. 95–128.
-* –––, 1989a, “Finitary Inductively Presented Logics,” in *Logic Colloquium ‘88*, R. Ferro, et al. (eds.), Amsterdam: North-Holland, pp. 191–220. [[available online](https://web.archive.org/web/20170311004001/http://math.stanford.edu/~feferman/papers/presentedlogics.pdf)]
-* –––, 1989b, “Infinity in Mathematics: Is Cantor Necessary?” *Philosophical Topics*, 17(2): 23–45.
-* –––, 1995, “Penrose’s Gödelian argument: A Review of *Shadows of Mind*, by Roger Penrose,” *Psyche*, 2 (7).
-* –––, 1997, “My Route to Arithmetization,” *Theoria*, 63: 168–181.
-* Finsler, P., 1926, “Formale Beweise und die Entscheidbarkeit,” *Mathematische Zeitschrift*, 25: 676–82.
-* Fitting, M., 2007, *Incompleteness in the land of sets*, London: College Publications. Series: Studies in logic ; v. 5.
-* Franks, C., 2009, *The Autonomy of Mathematical Knowledge. Hilbert’s Program Revisited*, Oxford: Oxford University Press.
-* Gaifman, H., 2006, “Naming and Diagonalization, From Cantor to Gödel to Kleene,” *Logic Journal of the IGPL*, 14: 709–728. [[available online](https://haimgaifman.files.wordpress.com/2016/07/22odel-to-kleene.pdf)]
-* Gentzen, G., 1936, “Die Widerspruchsfreiheit der reinen Zahlentheorie,” *Mathematische Annalen*, 112: 493–565.
-* Gödel, K., 1931, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I,” *Monatshefte für Mathematik Physik*, 38: 173–198. English translation in van Heijenoort 1967, 596–616, and in Gödel 1986, 144–195.
-* –––, 1932, “Über Vollständigkeit und Widerspruchsfreiheit,” *Ergebnisse eines mathematischen Kolloquiums*, 3: 12–13. English translation “On Completeness and Consistency” in Gödel 1986: 235–7.
+* Auerbach, David, 1985, “Intensionality and the Gödel theorems,” _Philosophical Studies_, 48 (3):337–51.
+* –––, 1992, “How to say things with formalisms,” in _Proof, Logic, and Formalization_, M. Detlefsen (ed.), London: Routledge, 77–93 \[[available online](https://www.academia.edu/1861652/How\_to\_Say\_Things\_With\_Formalisms)].
+* Awodey, S. & A.W. Carus, 2003, “Carnap versus Gödel on Syntax and Tolerance,” in _Logical Empiricism: Historical and Contemporary Perspectives_, P. Parrini et al. (eds.), Pittsburgh: University of Pittsburgh Press, pp. 57–64 \[[available online](https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/106\_Awodey.pdf)].
+* –––, 2004, “How Carnap Could Have Replied to Gödel,” in S. Awodey and C. Klein (eds.), _Carnap Brought Home: The View from Jena_, LaSalle, IL: Open Court, pp. 203–223 \[[available online](https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/123\_Awodey.pdf)].
+* Barzin, M., 1940, “Sur la portée du théorème de M. Gödel,” _Académie Royale de Belgique, Bulletin de la Classe des Sciences_, Series 5, 26: 230–39.
+* Benacerraf, P., 1967, “God, the Devil, and Gödel,” _The Monist_, 51: 9–32 \[[available online](http://www2.units.it/etica/2003\_1/3\_monographica.htm)].
+* Bezboruah, A. and J.C. Shepherdson, 1976, “Gödel’s Second Incompleteness Theorem for Q,” _The Journal of Symbolic Logic_, 41: 503–512.
+* Boolos, G., 1968, “Review of ‘Minds, Machines and Gödel’, by J.R. Lucas, and ‘God, the Devil, and Gödel’,” _Journal of Symbolic Logic_, 33: 613–15.
+* –––, 1990, “On ‘Seeing’ the Truth of Gödel Sentence,” _Behavioral and Brain Sciences_, 13: 655–656.
+* –––, 1995, “Introductory Note to \*1951,” in Gödel 1995: 290–304.
+* Boolos, G. and R. Jeffrey, 1989, _Computability and logic_, 3rd revised edition, Cambridge: Cambridge University Press.
+* Carnap, R., 1934, _Logische Syntax der Sprache_, Vienna: Julius Springer.
+* Chihara, C., 1972, “On Alleged Refutations of Mechanism Using Gödel’s Incompleteness Results,” _Journal of Philosophy_, 69: 507–26.
+* Church, A., 1936a, “An Unsolvable Problem of Elementary Number Theory,” _American Journal of Mathematics_, 58: 354–363. Republished in Davis 1965, 89–107.
+* –––, 1936b, “A Note on Entscheidungsproblem,” _Journal of Symbolic Logic_, 1: 40–41; correction, _ibid._, 101–102. Republished in Davis 1965, 110–115.
+* Cohen, P. J., 1963, “The Independence of the Continuum Hypothesis I,” _Proceedings of the National Academy of Sciences_, (U.S.A.), 50(6): 1143–48.
+* –––, 1964, “The Independence of the Continuum Hypothesis II,” _Proceedings of the National Academy of Sciences_, (U.S.A.), 51(1): 105–110.
+* Crocco, G., 2003, “Gödel, Carnap, and the Fregean Heritage,” _Synthese_, 137: 21–41.
+* Davis, M., 1965, _The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions_, Hewlett, NY: Raven Press.
+* –––, 1973, “Hilbert’s Tenth Problem is Unsolvable,” _The American Mathematical Monthly_, 80: 233–269.
+* –––, 1977, “Unsolvable Problems,” in _Handbook of Mathematical Logic_, J. Barwise (ed.), Amsterdam: North-Holland, pp. 567–594.
+* –––, 1990, “Is Mathematical Insight Algorithmic?” _Behavioral and Brain Sciences_, 13: 659–660.
+* –––, 1993, “How Subtle is Gödel’s Theorem? More on Roger Penrose,” _Behavioral and Brain Sciences_, 16: 611–612.
+* Davis, M., H. Putnam, and J. Robinson, 1961, “The decision problem for exponential diophantine equations,” _Annals of Mathematics (2)_, 74(3): 425–436.
+* Dawson, J., 1985, “The Reception of Gödel’s Incompleteness Theorems,” _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association 1984_, vol. II, pp. 253–271.
+* –––, 1997, _Logical Dilemmas: The Life and Work of Kurt Gödel_, Natick, MA: A. K. Peters.
+* Detlefsen, M., 1979, “On Interpreting Gödel’s Second Theorem,” _Journal of Philosophical Logic_, 8(1): 297–313.
+* –––, 1986, _Hilbert’s Program: An Essay in Mathematical Instrumentalism_, Dordrecht: Reidel.
+* –––, 1990, “On an Alleged Refutation of Hilbert’s Program Using Gödel’s First Incompleteness Theorem,” _Journal of Philosophical Logic_, 19(4): 343–377.
+* –––, 1995, “Wright on the Non-mechanizability of Intuitionist Reasoning,” _Philosophia Mathematica_, 3(1): 103–118.
+* –––, 2001, “What Does Gödel’s Second Theorem Say?” _Philosophia Mathematica_, 9: 37–71.
+* Dyson, V., J.P. Jones, and J.C. Shepherdson, 1982, “Some Diophantine Forms of Gödel’s Theorem,” _Archiv für Mathematische Logik und Grundlagenforschung_, 22: 51–60.
+* Ehrenfeucht, A. and S. Feferman, 1960, “Representability of recursively enumerable sets in formal theories”, _Arch. Math. Logik Grundlag._, 5(1–2), 37–41.
+* Feferman, S., 1960, “Arithmetization of Metamathematics in a General Setting,” _Fundamenta Mathematicae_, 49: 35–92.
+* –––, 1982, “Inductively Presented Systems and the Formalization of Meta-mathematics,” in _Logic Colloquium ’80_, D. van Dalen et al. (eds.), Amsterdam: North-Holland, pp. 95–128.
+* –––, 1989a, “Finitary Inductively Presented Logics,” in _Logic Colloquium ‘88_, R. Ferro, et al. (eds.), Amsterdam: North-Holland, pp. 191–220. \[[available online](https://web.archive.org/web/20170311004001/http://math.stanford.edu/\~feferman/papers/presentedlogics.pdf)]
+* –––, 1989b, “Infinity in Mathematics: Is Cantor Necessary?” _Philosophical Topics_, 17(2): 23–45.
+* –––, 1995, “Penrose’s Gödelian argument: A Review of _Shadows of Mind_, by Roger Penrose,” _Psyche_, 2 (7).
+* –––, 1997, “My Route to Arithmetization,” _Theoria_, 63: 168–181.
+* Finsler, P., 1926, “Formale Beweise und die Entscheidbarkeit,” _Mathematische Zeitschrift_, 25: 676–82.
+* Fitting, M., 2007, _Incompleteness in the land of sets_, London: College Publications. Series: Studies in logic ; v. 5.
+* Franks, C., 2009, _The Autonomy of Mathematical Knowledge. Hilbert’s Program Revisited_, Oxford: Oxford University Press.
+* Gaifman, H., 2006, “Naming and Diagonalization, From Cantor to Gödel to Kleene,” _Logic Journal of the IGPL_, 14: 709–728. \[[available online](https://haimgaifman.files.wordpress.com/2016/07/22odel-to-kleene.pdf)]
+* Gentzen, G., 1936, “Die Widerspruchsfreiheit der reinen Zahlentheorie,” _Mathematische Annalen_, 112: 493–565.
+* Gödel, K., 1931, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I,” _Monatshefte für Mathematik Physik_, 38: 173–198. English translation in van Heijenoort 1967, 596–616, and in Gödel 1986, 144–195.
+* –––, 1932, “Über Vollständigkeit und Widerspruchsfreiheit,” _Ergebnisse eines mathematischen Kolloquiums_, 3: 12–13. English translation “On Completeness and Consistency” in Gödel 1986: 235–7.
 * –––, 1933, “The Present Situation in Foundations of Mathematics,” in Gödel 1995: 45–53.
 * –––, 1934, “On Undecidable Propositions of Formal Mathematical Systems” (mimeographed lecture notes; taken by S. Kleene and J. Rosser), reprinted with corrections in Davis 1965, 41–81, and Gödel 1986, 346–371.
 * –––, 1935, “Review of Carnap 1934,” in Gödel 1986: 389.
 * –––, 1941, “In What Sense is Intuitionistic Logic Constructive?” in Gödel 1995: 189–200.
-* –––, 1944, “Russell’s Mathematical Logic,” in *The Philosophy of Bertrand Russell*, P. A. Schilpp (ed.), Evanston, Il.: Northwestern University, pp. 125–153. Reprinted in Gödel 1990: 119­–141.
+* –––, 1944, “Russell’s Mathematical Logic,” in _The Philosophy of Bertrand Russell_, P. A. Schilpp (ed.), Evanston, Il.: Northwestern University, pp. 125–153. Reprinted in Gödel 1990: 119­–141.
 * –––, 1951, “Some Basic Theorems on the Foundations of Mathematics and their Implications” (Gibbs Lecture), in Gödel 1995: 304­–323.
 * –––, 1953/9, “Is Mathematics a Syntax of Language?,” lecture manuscript (two versions), in Gödel 1995: 334–362.
 * –––, 1963, “Note added 28 August 1963” (to Gödel 1931), in Gödel 1986: 195.
-* –––, 1986, *Collected Works I. Publications 1929–1936*, S. Feferman et al. (eds.), Oxford: Oxford University Press.
-* –––, 1990, *Collected Works II. Publications 1938–1974*, S. Feferman et al. (eds.), Oxford: Oxford University Press.
-* –––, 1995, *Collected Works III. Unpublished Essays and Lectures*, S. Feferman et al. (eds.), Oxford: Oxford University Press.
-* Goldfarb, W., 1995, “Introductory Note to *1953/9,” in Gödel 1995: 324–334.
-* Goldfarb, W. and T. Ricketts, 1992, “Carnap and the Philosophy of Mathematics,” in *Science and Subjectivity*, D. Bell and W. Vossenkuhl (eds.), Berlin: Akademie Verlag, pp. 61–78.
-* Gómez Torrente, M., 2004, “The Indefinability of Truth in the *Wahrheitsbegriff*,” *Annals of Pure and Applied Logic*, 126(1–3): 27–37. [[available online](http://dx.doi.org/10.1016/j.apal.2003.10.005)]
-* Goodstein, R., 1944, “On the Restricted Ordinal Theorem,” *The Journal of Symbolic Logic*, 9: 33–41.
-* Grelling, K., 1937, “Gibt es eine Gödelsche Antinomie?,” *Theoria*, 3: 297–306.
-* Hanson, W.H., 1971, “Mechanism and Gödel’s theorems,” *The British Journal for the Philosophy of Science*, 22: 9–16.
-* Hellman, G., 1981, “How to Gödel a Frege-Russell: Gödel’s Incompleteness Theorems and Logicism,” *Nous*, 15: 451–468.
-* Helmer, O., 1938, “Perelman versus Gödel,” *Mind*, 46: 58–60.
-* Henkin, L., 1952, “Problem,” *The Journal of Symbolic Logic*, 17: 160.
-* –––, 1962, “Are Mathematics and Logic Identical?” *Science*, 138: 788–794.
-* Hilbert, D., 1928, “Die Grundlagen der Mathematik,” *Abhandlungen aus dem Mathematischen Seminar der Hamburgischen Universität*, 6: 65–85. English translation in van Heijenoort 1967.
-* Hilbert, D. and P. Bernays, 1939, *Grundlagen der Mathematik*, vol. 2, Berlin: Springer.
-* Jeroslow, R., 1973, “Redundancies in the Hilbert-Bernays Derivability Conditions for Gödel’s Second Incompleteness Theorem,” *Journal of Symbolic Logic*, 38: 359–367.
-* Kaye, R., 1991, *Models of Peano Arithmetic*, (Oxford Logic Guides), Oxford: Clarendon Press.
-* Kirby, L. and J. Paris, 1982, “Accessible Independence Results for Peano Arithmetic,” *Bull. London. Math. Soc.*, 14: 285–93.
-* Kleene, S.C., 1936, “General recursive functions of natural numbers,”, *Mathematische Annalen* 112(1): 727–742.
-* –––,1937a, “Review of Perelman 1936,” *Journal of Symbolic Logic*, 2: 40–41.
-* –––, 1937b, “Review of Helmer 1937,” *Journal of Symbolic Logic*, 2: 48–49.
+* –––, 1986, _Collected Works I. Publications 1929–1936_, S. Feferman et al. (eds.), Oxford: Oxford University Press.
+* –––, 1990, _Collected Works II. Publications 1938–1974_, S. Feferman et al. (eds.), Oxford: Oxford University Press.
+* –––, 1995, _Collected Works III. Unpublished Essays and Lectures_, S. Feferman et al. (eds.), Oxford: Oxford University Press.
+* Goldfarb, W., 1995, “Introductory Note to \*1953/9,” in Gödel 1995: 324–334.
+* Goldfarb, W. and T. Ricketts, 1992, “Carnap and the Philosophy of Mathematics,” in _Science and Subjectivity_, D. Bell and W. Vossenkuhl (eds.), Berlin: Akademie Verlag, pp. 61–78.
+* Gómez Torrente, M., 2004, “The Indefinability of Truth in the _Wahrheitsbegriff_,” _Annals of Pure and Applied Logic_, 126(1–3): 27–37. \[[available online](http://dx.doi.org/10.1016/j.apal.2003.10.005)]
+* Goodstein, R., 1944, “On the Restricted Ordinal Theorem,” _The Journal of Symbolic Logic_, 9: 33–41.
+* Grelling, K., 1937, “Gibt es eine Gödelsche Antinomie?,” _Theoria_, 3: 297–306.
+* Hanson, W.H., 1971, “Mechanism and Gödel’s theorems,” _The British Journal for the Philosophy of Science_, 22: 9–16.
+* Hellman, G., 1981, “How to Gödel a Frege-Russell: Gödel’s Incompleteness Theorems and Logicism,” _Nous_, 15: 451–468.
+* Helmer, O., 1938, “Perelman versus Gödel,” _Mind_, 46: 58–60.
+* Henkin, L., 1952, “Problem,” _The Journal of Symbolic Logic_, 17: 160.
+* –––, 1962, “Are Mathematics and Logic Identical?” _Science_, 138: 788–794.
+* Hilbert, D., 1928, “Die Grundlagen der Mathematik,” _Abhandlungen aus dem Mathematischen Seminar der Hamburgischen Universität_, 6: 65–85. English translation in van Heijenoort 1967.
+* Hilbert, D. and P. Bernays, 1939, _Grundlagen der Mathematik_, vol. 2, Berlin: Springer.
+* Jeroslow, R., 1973, “Redundancies in the Hilbert-Bernays Derivability Conditions for Gödel’s Second Incompleteness Theorem,” _Journal of Symbolic Logic_, 38: 359–367.
+* Kaye, R., 1991, _Models of Peano Arithmetic_, (Oxford Logic Guides), Oxford: Clarendon Press.
+* Kirby, L. and J. Paris, 1982, “Accessible Independence Results for Peano Arithmetic,” _Bull. London. Math. Soc._, 14: 285–93.
+* Kleene, S.C., 1936, “General recursive functions of natural numbers,”, _Mathematische Annalen_ 112(1): 727–742.
+* –––,1937a, “Review of Perelman 1936,” _Journal of Symbolic Logic_, 2: 40–41.
+* –––, 1937b, “Review of Helmer 1937,” _Journal of Symbolic Logic_, 2: 48–49.
 * –––, 1986, “Introductory note to 1930b, 1931 and 1932b”, in Gödel 1986, pp. 126–141.
-* Kreisel, G., 1953, “On a Problem of Henkin’s,” *Proc. Netherlands Acad. Sci.* 56: 405–406.
-* –––, 1958, “Mathematical significance of consistency proofs,” *The Journal of Symbolic Logic*, 23: 159–182.
-* –––, 1967, “Mathematical Logic: What Has it Done For the Philosophy of Mathematics?” in *Bertrand Russell: Philosopher of the Century*, R. Schoenman (ed.), London: George Allen and Unwin.
-* Kruskal, J.B., 1960, “Well-quasi-ordering, the Tree Theorem, and Vazsonyi’s Conjecture,” *Transactions of the American Mathematical Society*, 95 (2): 210–225.
-* Lindström, P., 2001, “Penrose’s New Argument,” *Journal of Philosophical Logic*, 30(3): 241–250.
-* Lucas, J. R., 1961, “Minds, Machines, and Gödel,” *Philosophy*, 36(137): 112–137 [[available online](https://web.archive.org/web/20070819165214/http://users.ox.ac.uk/~jrlucas/Godel/mmg.html)].
-* –––, 1996, “Minds, Machines, and Gödel: A Retrospect,” in *Machines and Thought. The Legacy of Alan Turing*, Vol. 1, P.J.R. Millican and A. Clark (eds.), Oxford: Oxford University Press, 103–124.
-* Löb, M. H., 1955, “Solution of a Problem of Leon Henkin,” *Journal of Symbolic Logic*, 20: 115–118.
-* Mancosu, P., 1999, “Between Vienna and Berlin: The Immediate Reception of Gödel’s Incompleteness Theorems,” *History and Philosophy of Logic*, 20: 33–45.
-* Martin, D., 1977, “Descriptive Set Theory: Projective Sets,” in *Handbook of Mathematical Logic*, J. Barwise (ed.), Amsterdam: North-Holland, 783–815.
-* Martin, D. and Steel, J., 1988, “Projective Determinacy,” *Proceedings of the National Academy of Sciences*, (U.S.A.), 85: 6582–86.
-* –––, 1989, “A Proof of Projective Determinacy,” *Journal of the A.M.S.*, 2: 71–125.
-* Matiyasevich, Y., 1970, “Diofantovost’ perechislimykh mnozhestv,” *Dokl. Akad. Nauk SSSR*, 191(2): 297–282 (Russian). (English translation, 1970, “Enumerable sets are Diophantine,” *Soviet Math. Dokl.*, 11(2): 354–358.)
-* –––, 1993, *Hilbert’s Tenth Problem*, Cambridge, MA: MIT Press.
-* Milne, P., 2007, “On Gödel Sentences and What They Say,” *Philosophia Mathematica*, 15: 193–226.
-* Montague, R., 1962, “Theories Incomparable with Respect to Relative Interpretability,” *The Journal of Symbolic Logic*, 27: 195–211.
-* Murawski, R., 1998, “Undefinability of Truth. The Problem of Priority: Tarski vs. Gödel,” *History and Philosophy of Logic*, 19: 153–160.
-* –––, 1999, *Recursive Functions and Metamathematics: Problems of Completeness and Decidability, Gödel’s Theorems*, Dordrecht: Kluwer.
-* Musgrave, A., 1977, “Logicism Revisited,” *British Journal for the Philosophy of Science*, 28: 99–127.
-* Nagel, E. and J.R. Newman, 1958, *Gödel’s Proof*, New York: New York University Press.
-* Paris, J. and L. Harrington, 1977, “A Mathematical Incompleteness in Peano Arithmetic,” in *Handbook of Mathematical Logic*, J. Barwise (ed.), Amsterdam: North-Holland, pp. 1133–1142 [[available online](http://www.karlin.mff.cuni.cz/~krajicek/ph.pdf)].
-* Paris, J. and L. Kirby, 1978, “Sn Collection Schema in Arithmetic,” in *Logic Colloquium ’77*, A. McIntyre et al. (eds.), Amsterdam: North-Holland, pp. 199–209.
-* Parsons, C., 1970, “On Number Choice Schema and its Relation to Induction,” in *Intuitionism and Proof Theory*, Kino et al. (eds.), Amsterdam: North-Holland, pp. 459–473.
-* Penrose, R., 1989, *The Emperor’s New Mind: Concerning Computers, Minds, and the Laws of Physics*, New York: Oxford University Press.
-* –––, 1994, *Shadows of the Mind: A Search for the Missing Science of Consciousness*, New York: Oxford University Press
-* –––, 1995, “Beyond the Doubting of a Shadow: A Reply to Commentaries of *Shadows of the Mind*,” *Psyche*, Vol 2.
-* –––, 1997, “On understanding understanding”, *International Studies in the Philosophy of Science*, 11: 7–20.
-* Perelman, C., 1936, “L’Antinomie de M. Gödel,” *Académie Royale de Belgique. Bulletin de la Classe des Sciences* (Series 5), 22: 730–36.
-* Piccinini, G., 2003, “Alan Turing and the Mathematical Objection,” *Minds and Machines*, 13: 23–48.
+* Kreisel, G., 1953, “On a Problem of Henkin’s,” _Proc. Netherlands Acad. Sci._ 56: 405–406.
+* –––, 1958, “Mathematical significance of consistency proofs,” _The Journal of Symbolic Logic_, 23: 159–182.
+* –––, 1967, “Mathematical Logic: What Has it Done For the Philosophy of Mathematics?” in _Bertrand Russell: Philosopher of the Century_, R. Schoenman (ed.), London: George Allen and Unwin.
+* Kruskal, J.B., 1960, “Well-quasi-ordering, the Tree Theorem, and Vazsonyi’s Conjecture,” _Transactions of the American Mathematical Society_, 95 (2): 210–225.
+* Lindström, P., 2001, “Penrose’s New Argument,” _Journal of Philosophical Logic_, 30(3): 241–250.
+* Lucas, J. R., 1961, “Minds, Machines, and Gödel,” _Philosophy_, 36(137): 112–137 \[[available online](https://web.archive.org/web/20070819165214/http://users.ox.ac.uk/\~jrlucas/Godel/mmg.html)].
+* –––, 1996, “Minds, Machines, and Gödel: A Retrospect,” in _Machines and Thought. The Legacy of Alan Turing_, Vol. 1, P.J.R. Millican and A. Clark (eds.), Oxford: Oxford University Press, 103–124.
+* Löb, M. H., 1955, “Solution of a Problem of Leon Henkin,” _Journal of Symbolic Logic_, 20: 115–118.
+* Mancosu, P., 1999, “Between Vienna and Berlin: The Immediate Reception of Gödel’s Incompleteness Theorems,” _History and Philosophy of Logic_, 20: 33–45.
+* Martin, D., 1977, “Descriptive Set Theory: Projective Sets,” in _Handbook of Mathematical Logic_, J. Barwise (ed.), Amsterdam: North-Holland, 783–815.
+* Martin, D. and Steel, J., 1988, “Projective Determinacy,” _Proceedings of the National Academy of Sciences_, (U.S.A.), 85: 6582–86.
+* –––, 1989, “A Proof of Projective Determinacy,” _Journal of the A.M.S._, 2: 71–125.
+* Matiyasevich, Y., 1970, “Diofantovost’ perechislimykh mnozhestv,” _Dokl. Akad. Nauk SSSR_, 191(2): 297–282 (Russian). (English translation, 1970, “Enumerable sets are Diophantine,” _Soviet Math. Dokl._, 11(2): 354–358.)
+* –––, 1993, _Hilbert’s Tenth Problem_, Cambridge, MA: MIT Press.
+* Milne, P., 2007, “On Gödel Sentences and What They Say,” _Philosophia Mathematica_, 15: 193–226.
+* Montague, R., 1962, “Theories Incomparable with Respect to Relative Interpretability,” _The Journal of Symbolic Logic_, 27: 195–211.
+* Murawski, R., 1998, “Undefinability of Truth. The Problem of Priority: Tarski vs. Gödel,” _History and Philosophy of Logic_, 19: 153–160.
+* –––, 1999, _Recursive Functions and Metamathematics: Problems of Completeness and Decidability, Gödel’s Theorems_, Dordrecht: Kluwer.
+* Musgrave, A., 1977, “Logicism Revisited,” _British Journal for the Philosophy of Science_, 28: 99–127.
+* Nagel, E. and J.R. Newman, 1958, _Gödel’s Proof_, New York: New York University Press.
+* Paris, J. and L. Harrington, 1977, “A Mathematical Incompleteness in Peano Arithmetic,” in _Handbook of Mathematical Logic_, J. Barwise (ed.), Amsterdam: North-Holland, pp. 1133–1142 \[[available online](http://www.karlin.mff.cuni.cz/\~krajicek/ph.pdf)].
+* Paris, J. and L. Kirby, 1978, “Sn Collection Schema in Arithmetic,” in _Logic Colloquium ’77_, A. McIntyre et al. (eds.), Amsterdam: North-Holland, pp. 199–209.
+* Parsons, C., 1970, “On Number Choice Schema and its Relation to Induction,” in _Intuitionism and Proof Theory_, Kino et al. (eds.), Amsterdam: North-Holland, pp. 459–473.
+* Penrose, R., 1989, _The Emperor’s New Mind: Concerning Computers, Minds, and the Laws of Physics_, New York: Oxford University Press.
+* –––, 1994, _Shadows of the Mind: A Search for the Missing Science of Consciousness_, New York: Oxford University Press
+* –––, 1995, “Beyond the Doubting of a Shadow: A Reply to Commentaries of _Shadows of the Mind_,” _Psyche_, Vol 2.
+* –––, 1997, “On understanding understanding”, _International Studies in the Philosophy of Science_, 11: 7–20.
+* Perelman, C., 1936, “L’Antinomie de M. Gödel,” _Académie Royale de Belgique. Bulletin de la Classe des Sciences_ (Series 5), 22: 730–36.
+* Piccinini, G., 2003, “Alan Turing and the Mathematical Objection,” _Minds and Machines_, 13: 23–48.
 * Post, E., 1941, “Absolutely Unsolvable Problems and Relatively Unsolvable Propositions: Account of an Anticipation,” published in Davis 1965, 338–433.
-* Presburger, M., 1929, “Über die Vollständigkeit eines gewissen Systems der Arithmetik ganzer Zahlen, in welchem die Addition als einzige Operation hervortritt,” *Sprawozdanie z I Kongresu Matematyków Krajów Slowiańskich*, (= Comptes-rendus du I Congrès Mathématiciens des Pays Slaves), Warsaw, pp. 92–101. English translation, 1991,“On the completeness of a certain system of arithmetic of whole numbers in which addition occurs as the only operation,” *History and Philosophy of Logic*, 12(2): 225–232.
-* Pudlák, P., 1996, “On the Length of Proofs of Consistency,” *Collegium Logicum, Annals of the Kurt-Gödel-Society*, 2: 65–86.
-* –––, 1999, “A Note on Applicability of the Incompleteness Theorem to Human Mind,” *Annals of Pure and Applied Logic*, 96: 335–342.
-* Putnam, H., 1960, “Minds and machines,” in *Dimensions of Mind*, S. Hook (ed.), New York: New York University Press. Reprinted in H. Putnam, 1975, *Mind, Language, and Reality. Philosophical Papers, Vol 2*, Cambridge: Cambridge University Press, pp. 325–341.
-* –––, 1975, “What is Mathematical Truth?” *Historia Mathematica*, 2: 529–545. Reprinted in H. Putnam, 1975, *Mathematics, Matter and Method. Philosophical Papers, Vol 1*, Cambridge: Cambridge University Press, pp. 60–78.
-* Quine, W.V. and J.S. Ullian, 1978, *The Web of Belief*, 2nd ed., New York: Random House.
-* Raatikainen, P., 2005, “On the Philosophical Relevance of Gödel’s Incompleteness Theorems,” *Revue Internationale de Philosophie*, 59: 513–534.
-* Ramsey, F. P., 1930, “On a Problem of Formal Logic,” *Proceedings of the London Mathematical Society*, series 2, 30: 264–286.
-* Ricketts, T., 1995, “Carnap’s Principle of Tolerance, Empiricism, and Conventionalism,” in *Reading Putnam*, P. Clark & B. Hale (eds.), Cambridge: Blackwell, pp. 176–200.
-* Rodríguez-Consuegra, F., 1993, “Russell, Gödel and Logicism,” in *Philosophy of Mathematics*, J. Czermak (ed.), Vienna: Hölder-Pichler-Tempsky, pp. 233–42. Reprinted in, 1998, *Bertrand Russell: Critical Assessments*, A. Irvine (ed.), vol. 2: *Logic and mathematics*, London: Routledge, pp. 320–29.
-* Roeper, P., 2003, “Giving an Account of Provability within a Theory,” *Philosophia Mathematica*, 11: 332–340.
-* Rosser, J. B., 1936, “Extensions of Some Theorems of Gödel and Church,” *Journal of Symbolic Logic*, 1: 87–91.
-* –––, 1938, “Review: Kurt Grelling, *Gibt es eine Godelsche Antinomie?* [Grelling 1937/8],” *Journal of Symbolic Logic*, 3(2): 86.
-* Searle, J., 1997, “Roger Penrose, Kurt Gödel, and the Cytoskeletons,” in J. Searle: *Mystery of Consciousness*, New York: New York Review of Books, pp. 55–93.
-* Shapiro, S., 1998, “Incompleteness, Mechanism, and Optimism,” *Bulletin of Symbolic Logic*, 4: 273–302.
-* –––, 2003, “Mechanism, Truth and Penrose’s New Argument,” *Journal of Philosophical Logic*, 32(1): 19–42.
-* Simpson, S.G., 1985, “Nonprovability of Certain Combinatorial Properties of Finite Trees,” in *Harvey Friedman’s Research on the Foundations of Mathematics*, L. Harrington et al. (eds.), Studies in Logic and the Foundations of Mathematics, Amsterdam: North-Holland, pp. 87–117
-* –––, 1999, *Subsystems of Second Order Arithmetic*, Berlin: Springer.
-* Skolem, T., 1930, “Über einige Satzfunktionen in der Arithmetik,” *Skrifter utgitt av Det Norske Videnskaps-Akademi i Oslo*, I, no. 7, 1–28. Reprinted in T. Skolem, 1970, *Selected Works in Logic*, (J. Fenstad, editor), Oslo: Universitetsforlaget, pp. 281–306.
-* Smoryński, C., 1977, “The Incompleteness Theorems,” in *Handbook of Mathematical Logic*, J. Barwise (ed.), Amsterdam: North-Holland, pp. 821–865.
-* –––, 1981, “Fifty Years of Self-reference in Arithmetic,” *Notre Dame Journal of Formal Logic*, 22(4): 357–374.
-* –––, 1991, “The Development of Self-reference: Löb’s Theorem,” in *Perspectives on the History of Mathematical Logic*, T. Drucker (ed.), Birkhauser, pp. 111–133.
-* Smullyan, R., 1992, *Gödel’s Incompleteness Theorems*, Oxford: Oxford University Press.
-* Solovay, R.M., 1970, “A Model of Set Theory in which Every Set of Reals is Lebesgue Measurable,” *Annals of Mathematics*, 92: 1–56.
-* Sternfeld, R., 1976, “The Logistic Thesis,” in *Studien zu Frege/Studies on Frege I*, M. Schirn (ed.), Stuttgart-Bad Cannstatt: Frommann-Holzboog, pp. 139–160.
-* Tarski, A., 1948, *A Decision Method for Elementary Algebra and Geometry*, manuscript. Santa Monica, CA: RAND Corp., 1948. Republished as *A Decision Method for Elementary Algebra and Geometry*, 2nd ed. Berkeley, CA: University of California Press, 1951.
-* Tarski, A., A. Mostowski, and R.M. Robinson, 1953, *Undecidable Theories*, Amsterdam: North-Holland.
-* Tennant, Neil, 2008, “Carnap, Gödel, and the Analyticity of Arithmetic”, *Philosophia Mathematica*, 16: 100–112.
-* Turing, A.M., 1936–7, “On Computable Numbers, with an Application to the *Entscheidungsproblem*,” *Proceedings of the London Mathematical Society*, Series 2, 42: 230–265; correction, *ibid.*, 43: 544–546. Republished in Davis 1965, 115–154.
-* Van Heijenoort, J. (ed.), 1967, *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press.
-* Visser, A., 2011, “Can We Make the Second Incompleteness Theorem Coordinate Free,” *Journal on Logic and Computation*, 21(4): 543–560.
-* Woodin, H., 1988, “Supercompact Cardinals, Sets of Reals, and Weakly Homogeneous Trees,” *Proceedings of the National Academy of Sciences*, (U.S.A.), 85: 6587–91.
-* Wright, C., 1994, “About ‘The Philosophical Significance of Gödel’s Theorem’: Some Issues,” in *The Philosophy of Michael Dummett*, B. McGuinness and G. Oliveri (eds.) Dordrecht: Kluwer, pp. 167–202.
-* –––, 1995, “Intuitionists are not (Turing) Machines,” *Philosophia Mathematica*, 3: 86–102.
-* Zach, R., 2005, “Paper on the Incompleteness Theorems,” in *Landmark Writings in Western Mathematics*, I. Grattan-Guinness (ed.), Amsterdam: Elsevier, pp. 917–25 [[available online](https://philarchive.org/rec/ZACKGP)].
+* Presburger, M., 1929, “Über die Vollständigkeit eines gewissen Systems der Arithmetik ganzer Zahlen, in welchem die Addition als einzige Operation hervortritt,” _Sprawozdanie z I Kongresu Matematyków Krajów Slowiańskich_, (= Comptes-rendus du I Congrès Mathématiciens des Pays Slaves), Warsaw, pp. 92–101. English translation, 1991,“On the completeness of a certain system of arithmetic of whole numbers in which addition occurs as the only operation,” _History and Philosophy of Logic_, 12(2): 225–232.
+* Pudlák, P., 1996, “On the Length of Proofs of Consistency,” _Collegium Logicum, Annals of the Kurt-Gödel-Society_, 2: 65–86.
+* –––, 1999, “A Note on Applicability of the Incompleteness Theorem to Human Mind,” _Annals of Pure and Applied Logic_, 96: 335–342.
+* Putnam, H., 1960, “Minds and machines,” in _Dimensions of Mind_, S. Hook (ed.), New York: New York University Press. Reprinted in H. Putnam, 1975, _Mind, Language, and Reality. Philosophical Papers, Vol 2_, Cambridge: Cambridge University Press, pp. 325–341.
+* –––, 1975, “What is Mathematical Truth?” _Historia Mathematica_, 2: 529–545. Reprinted in H. Putnam, 1975, _Mathematics, Matter and Method. Philosophical Papers, Vol 1_, Cambridge: Cambridge University Press, pp. 60–78.
+* Quine, W.V. and J.S. Ullian, 1978, _The Web of Belief_, 2nd ed., New York: Random House.
+* Raatikainen, P., 2005, “On the Philosophical Relevance of Gödel’s Incompleteness Theorems,” _Revue Internationale de Philosophie_, 59: 513–534.
+* Ramsey, F. P., 1930, “On a Problem of Formal Logic,” _Proceedings of the London Mathematical Society_, series 2, 30: 264–286.
+* Ricketts, T., 1995, “Carnap’s Principle of Tolerance, Empiricism, and Conventionalism,” in _Reading Putnam_, P. Clark & B. Hale (eds.), Cambridge: Blackwell, pp. 176–200.
+* Rodríguez-Consuegra, F., 1993, “Russell, Gödel and Logicism,” in _Philosophy of Mathematics_, J. Czermak (ed.), Vienna: Hölder-Pichler-Tempsky, pp. 233–42. Reprinted in, 1998, _Bertrand Russell: Critical Assessments_, A. Irvine (ed.), vol. 2: _Logic and mathematics_, London: Routledge, pp. 320–29.
+* Roeper, P., 2003, “Giving an Account of Provability within a Theory,” _Philosophia Mathematica_, 11: 332–340.
+* Rosser, J. B., 1936, “Extensions of Some Theorems of Gödel and Church,” _Journal of Symbolic Logic_, 1: 87–91.
+* –––, 1938, “Review: Kurt Grelling, _Gibt es eine Godelsche Antinomie?_ \[Grelling 1937/8],” _Journal of Symbolic Logic_, 3(2): 86.
+* Searle, J., 1997, “Roger Penrose, Kurt Gödel, and the Cytoskeletons,” in J. Searle: _Mystery of Consciousness_, New York: New York Review of Books, pp. 55–93.
+* Shapiro, S., 1998, “Incompleteness, Mechanism, and Optimism,” _Bulletin of Symbolic Logic_, 4: 273–302.
+* –––, 2003, “Mechanism, Truth and Penrose’s New Argument,” _Journal of Philosophical Logic_, 32(1): 19–42.
+* Simpson, S.G., 1985, “Nonprovability of Certain Combinatorial Properties of Finite Trees,” in _Harvey Friedman’s Research on the Foundations of Mathematics_, L. Harrington et al. (eds.), Studies in Logic and the Foundations of Mathematics, Amsterdam: North-Holland, pp. 87–117
+* –––, 1999, _Subsystems of Second Order Arithmetic_, Berlin: Springer.
+* Skolem, T., 1930, “Über einige Satzfunktionen in der Arithmetik,” _Skrifter utgitt av Det Norske Videnskaps-Akademi i Oslo_, I, no. 7, 1–28. Reprinted in T. Skolem, 1970, _Selected Works in Logic_, (J. Fenstad, editor), Oslo: Universitetsforlaget, pp. 281–306.
+* Smoryński, C., 1977, “The Incompleteness Theorems,” in _Handbook of Mathematical Logic_, J. Barwise (ed.), Amsterdam: North-Holland, pp. 821–865.
+* –––, 1981, “Fifty Years of Self-reference in Arithmetic,” _Notre Dame Journal of Formal Logic_, 22(4): 357–374.
+* –––, 1991, “The Development of Self-reference: Löb’s Theorem,” in _Perspectives on the History of Mathematical Logic_, T. Drucker (ed.), Birkhauser, pp. 111–133.
+* Smullyan, R., 1992, _Gödel’s Incompleteness Theorems_, Oxford: Oxford University Press.
+* Solovay, R.M., 1970, “A Model of Set Theory in which Every Set of Reals is Lebesgue Measurable,” _Annals of Mathematics_, 92: 1–56.
+* Sternfeld, R., 1976, “The Logistic Thesis,” in _Studien zu Frege/Studies on Frege I_, M. Schirn (ed.), Stuttgart-Bad Cannstatt: Frommann-Holzboog, pp. 139–160.
+* Tarski, A., 1948, _A Decision Method for Elementary Algebra and Geometry_, manuscript. Santa Monica, CA: RAND Corp., 1948. Republished as _A Decision Method for Elementary Algebra and Geometry_, 2nd ed. Berkeley, CA: University of California Press, 1951.
+* Tarski, A., A. Mostowski, and R.M. Robinson, 1953, _Undecidable Theories_, Amsterdam: North-Holland.
+* Tennant, Neil, 2008, “Carnap, Gödel, and the Analyticity of Arithmetic”, _Philosophia Mathematica_, 16: 100–112.
+* Turing, A.M., 1936–7, “On Computable Numbers, with an Application to the _Entscheidungsproblem_,” _Proceedings of the London Mathematical Society_, Series 2, 42: 230–265; correction, _ibid._, 43: 544–546. Republished in Davis 1965, 115–154.
+* Van Heijenoort, J. (ed.), 1967, _From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931_, Cambridge, MA: Harvard University Press.
+* Visser, A., 2011, “Can We Make the Second Incompleteness Theorem Coordinate Free,” _Journal on Logic and Computation_, 21(4): 543–560.
+* Woodin, H., 1988, “Supercompact Cardinals, Sets of Reals, and Weakly Homogeneous Trees,” _Proceedings of the National Academy of Sciences_, (U.S.A.), 85: 6587–91.
+* Wright, C., 1994, “About ‘The Philosophical Significance of Gödel’s Theorem’: Some Issues,” in _The Philosophy of Michael Dummett_, B. McGuinness and G. Oliveri (eds.) Dordrecht: Kluwer, pp. 167–202.
+* –––, 1995, “Intuitionists are not (Turing) Machines,” _Philosophia Mathematica_, 3: 86–102.
+* Zach, R., 2005, “Paper on the Incompleteness Theorems,” in _Landmark Writings in Western Mathematics_, I. Grattan-Guinness (ed.), Amsterdam: Elsevier, pp. 917–25 \[[available online](https://philarchive.org/rec/ZACKGP)].
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=goedel-incompleteness). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/goedel-incompleteness/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=goedel-incompleteness&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/goedel-incompleteness/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=goedel-incompleteness).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/goedel-incompleteness/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=goedel-incompleteness\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/goedel-incompleteness/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * Papers and Reviews by Sol Feferman on Gödel’s incompleteness theorem:
-  * [Review of Rebecca Goldstein’s *The Proof and Paradox of Kurt Gödel*](https://www.lrb.co.uk/v28/n03/solomon-feferman/provenly-unprovable), in *London Review of Books*, 28(3) (9 February 2006).
-  * [The impact of the incompleteness theorems on mathematics](https://www.ams.org/notices/200604/fea-feferman.pdf), preprint, *Notices American Mathematical Society*, 53(4) (April 2006): 434–439.
-  * [The nature and significance of Gödel’s incompleteness theorem](https://web.archive.org/web/20171211005909/http://math.stanford.edu/~feferman/papers/Godel-IAS.pdf), lecture for the Princeton Institute for Advanced Study Gödel Centenary Program, Nov. 17, 2006.
-  * [Gödel’s incompleteness theorems, free will and mathematical thought](https://web.archive.org/web/20171211010122/http://math.stanford.edu/~feferman/papers/GodelFreeWill.pdf), preprint of paper in *Free Will and Modern Science*, R. Swinburne (ed.), Oxford: Oxford University Press, 2011, 102–122.
-  * [Penrose’s Gödelian argument](http://journalpsyche.org/files/0xaa23.pdf), preprint of review that appeared in *PSYCHE*, 2 (1996): 21–32.
-* [Special Issue (April 2006) of the *Notices of the American Mathematical Society*](http://www.ams.org/notices/200604/), (Volume 53, Issue 4), marking the centennial of the birth of Kurt Gödel with a collection of articles about Gödel, his work, and its impact on mathematics.
+  * [Review of Rebecca Goldstein’s _The Proof and Paradox of Kurt Gödel_](https://www.lrb.co.uk/v28/n03/solomon-feferman/provenly-unprovable), in _London Review of Books_, 28(3) (9 February 2006).
+  * [The impact of the incompleteness theorems on mathematics](https://www.ams.org/notices/200604/fea-feferman.pdf), preprint, _Notices American Mathematical Society_, 53(4) (April 2006): 434–439.
+  * [The nature and significance of Gödel’s incompleteness theorem](https://web.archive.org/web/20171211005909/http://math.stanford.edu/\~feferman/papers/Godel-IAS.pdf), lecture for the Princeton Institute for Advanced Study Gödel Centenary Program, Nov. 17, 2006.
+  * [Gödel’s incompleteness theorems, free will and mathematical thought](https://web.archive.org/web/20171211010122/http://math.stanford.edu/\~feferman/papers/GodelFreeWill.pdf), preprint of paper in _Free Will and Modern Science_, R. Swinburne (ed.), Oxford: Oxford University Press, 2011, 102–122.
+  * [Penrose’s Gödelian argument](http://journalpsyche.org/files/0xaa23.pdf), preprint of review that appeared in _PSYCHE_, 2 (1996): 21–32.
+* [Special Issue (April 2006) of the _Notices of the American Mathematical Society_](http://www.ams.org/notices/200604/), (Volume 53, Issue 4), marking the centennial of the birth of Kurt Gödel with a collection of articles about Gödel, his work, and its impact on mathematics.
 
 ## Related Entries
 
-[Church-Turing Thesis](https://plato.stanford.edu/entries/church-turing/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [logic, history of: intuitionistic logic](https://plato.stanford.edu/entries/intuitionistic-logic-development/) | [logic: second-order and higher-order](https://plato.stanford.edu/entries/logic-higher-order/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [mathematics, philosophy of: intuitionism](https://plato.stanford.edu/entries/intuitionism/) | [proof theory](https://plato.stanford.edu/entries/proof-theory/) | [proof theory: development of](https://plato.stanford.edu/entries/proof-theory-development/) | [recursive functions](https://plato.stanford.edu/entries/recursive-functions/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: independence and large cardinals](https://plato.stanford.edu/entries/independence-large-cardinals/) | [Turing machines](https://plato.stanford.edu/entries/turing-machine/) | [Wittgenstein, Ludwig: philosophy of mathematics](https://plato.stanford.edu/entries/wittgenstein-mathematics/)
+[Church-Turing Thesis](https://plato.stanford.edu/entries/church-turing/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [logic, history of: intuitionistic logic](https://plato.stanford.edu/entries/intuitionistic-logic-development/) | [logic: second-order and higher-order](https://plato.stanford.edu/entries/logic-higher-order/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [mathematics, philosophy of: intuitionism](https://plato.stanford.edu/entries/intuitionism/) | [proof theory](https://plato.stanford.edu/entries/proof-theory/) | [proof theory: development of](https://plato.stanford.edu/entries/proof-theory-development/) | [recursive functions](https://plato.stanford.edu/entries/recursive-functions/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: independence and large cardinals](https://plato.stanford.edu/entries/independence-large-cardinals/) | [Turing machines](https://plato.stanford.edu/entries/turing-machine/) | [Wittgenstein, Ludwig: philosophy of mathematics](https://plato.stanford.edu/entries/wittgenstein-mathematics/)
 
 ### Acknowledgments
 
 The author would like to thank Richard Zach for his careful and valuable comments on the earlier drafts of this entry. The author and SEP editors would like to thank Richard O’Callaghan for bringing to our attention that, in an earlier version of the supplement on the Diagonalization Lemma, the definition of the substitution function, although standard, didn’t suffice for the purposes of the proof.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[Panu Raatikainen](https://www.tuni.fi/en/panu-raatikainen) <[*panu.raatikainen@tuni.fi*](mailto:panu%2eraatikainen%40tuni%2efi)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[Panu Raatikainen](https://www.tuni.fi/en/panu-raatikainen) <[_panu.raatikainen@tuni.fi_](mailto:panu%2eraatikainen%40tuni%2efi)>

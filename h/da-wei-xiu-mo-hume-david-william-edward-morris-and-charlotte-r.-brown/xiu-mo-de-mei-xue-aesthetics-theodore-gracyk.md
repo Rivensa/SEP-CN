@@ -1,28 +1,26 @@
 # 休谟的美学 aesthetics (Theodore Gracyk)
 
-*首次发表于2003年12月17日星期三；实质性修订于2020年4月21日星期二。*
+_首次发表于2003年12月17日星期三；实质性修订于2020年4月21日星期二。_
 
 大卫·休谟在美学理论和艺术哲学方面的观点可以在他关于道德理论的著作和几篇论文中找到。虽然有一种倾向于强调他专门研究艺术的两篇论文《品味的标准》和《悲剧》，但他对艺术和审美判断的观点与他的道德哲学、人类思维和情感理论密切相关。他的品味和美的理论并非完全原创，但他的论证通常展示了他最好的作品所具有的敏锐分析。休谟过时的术语有时会阻碍对他分析的欣赏，引发对他立场的不同解读。
 
-* [ 1. 背景](https://plato.stanford.edu/entries/hume-aesthetics/#Cont)
-* [ 2. 休谟的术语](https://plato.stanford.edu/entries/hume-aesthetics/#HumeTerm)
+* [1. 背景](https://plato.stanford.edu/entries/hume-aesthetics/#Cont)
+* [2. 休谟的术语](https://plato.stanford.edu/entries/hume-aesthetics/#HumeTerm)
 * [3. 休谟的道德理论中的美和品味](https://plato.stanford.edu/entries/hume-aesthetics/#BeauTastHumeMoraTheo)
-
-  * [ 3.1 主观主义](https://plato.stanford.edu/entries/hume-aesthetics/#Subj)
+  * [3.1 主观主义](https://plato.stanford.edu/entries/hume-aesthetics/#Subj)
   * [3.2 大卫·休谟的倾向性分析](https://plato.stanford.edu/entries/hume-aesthetics/#DispAnal)
   * [3.3 想象力和观点](https://plato.stanford.edu/entries/hume-aesthetics/#ImagPoinView)
 * [4. 大卫·休谟的品味论文](https://plato.stanford.edu/entries/hume-aesthetics/#HumeEssaTast)
 * [5. 大卫·休谟的悲剧论文](https://plato.stanford.edu/entries/hume-aesthetics/#HumeEssaTrag)
-* [ 参考文献](https://plato.stanford.edu/entries/hume-aesthetics/#Bib)
-
-  * [ 大卫·休谟的著作](https://plato.stanford.edu/entries/hume-aesthetics/#HumeWork)
+* [参考文献](https://plato.stanford.edu/entries/hume-aesthetics/#Bib)
+  * [大卫·休谟的著作](https://plato.stanford.edu/entries/hume-aesthetics/#HumeWork)
   * [有关大卫·休谟美学的著作](https://plato.stanford.edu/entries/hume-aesthetics/#WorkHumeAest)
   * [大卫·休谟及其背景的相关作品](https://plato.stanford.edu/entries/hume-aesthetics/#RelaWorkHumeHisCont)
-* [ 学术工具](https://plato.stanford.edu/entries/hume-aesthetics/#Aca)
+* [学术工具](https://plato.stanford.edu/entries/hume-aesthetics/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/hume-aesthetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hume-aesthetics/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/hume-aesthetics/#Rel)
 
----
+***
 
 ## 1. 背景
 
@@ -52,7 +50,7 @@
 
 休谟认为品味的自然能力对人类进行道德和审美判断至关重要。与他的前辈一样，休谟认为美的“内在感觉”与食物和饮料的味觉之间存在类比。两者都受到自然的普遍规律的引导。两者都可以通过教育和提炼而变得更好或更差。两者都会产生赞同和反对的情感或感觉。但只有“心理”品味，即道德和审美判断中所涉及的品味，可以通过“思想的干预”得到提炼（T，275）。
 
-休谟在 18 世纪的术语中包括一对不再普遍使用的术语。在他的基本术语中，“道德、雄辩或美的品味”将“赞同”或“反对”（或两者的组合）分配给品味的对象（T，547n）。赞同是一种“特殊的愉悦”（T，298）和一种“特殊的快乐”（T，472）。它与其他快乐感觉不同。他将赞同描述为一种赞同、喜欢或喜爱的感觉。美丽的物体或行为使我们感到可爱、愉快和令人向往。然而，道德和审美反应并不相同，因为“满足感是不同的，[这]使我们对它们的情感不会混淆”（T，472）。休谟将反对的感觉描述为反对、不喜欢和鄙视的感觉。丑陋的物体或邪恶的行为感觉可憎、令人不快和不可取。
+休谟在 18 世纪的术语中包括一对不再普遍使用的术语。在他的基本术语中，“道德、雄辩或美的品味”将“赞同”或“反对”（或两者的组合）分配给品味的对象（T，547n）。赞同是一种“特殊的愉悦”（T，298）和一种“特殊的快乐”（T，472）。它与其他快乐感觉不同。他将赞同描述为一种赞同、喜欢或喜爱的感觉。美丽的物体或行为使我们感到可爱、愉快和令人向往。然而，道德和审美反应并不相同，因为“满足感是不同的，\[这]使我们对它们的情感不会混淆”（T，472）。休谟将反对的感觉描述为反对、不喜欢和鄙视的感觉。丑陋的物体或邪恶的行为感觉可憎、令人不快和不可取。
 
 在 18 世纪的道德理论背景下，“情感”是情绪的通用标签。（休谟的理论有时被称为“感性主义”，但这个术语在现代有不幸的含义——请参阅有关道德感性主义的条目。）在休谟的专业词汇中，所有情绪都是印象，而不是思想。与美和丑陋相关的情感是反思性的印象。它们不是“感官的印象”。相反，它们是对感官印象的反应（T，276）。
 
@@ -86,7 +84,7 @@
 
 休谟提出，感觉而非思考告诉我们一个物体是美丽还是丑陋，或者一个行为是美德还是恶习：“这种感觉本身构成了我们的赞美或钦佩”（T，471）。这种感觉或情感本身就是审美或道德的区别。它是任何后续赞美或钦佩表达的先决条件和基础。这种情感是物体的美丽，也是可取的人类行为的美德。情感是统治人类活动的价值的唯一来源。品味是一种“创造性的能力，用内在情感借来的颜色给所有自然物体镀金或染色，以某种方式创造了一种新的存在。”这种新的存在就是“美丽和丑陋，美德和恶习”（EPM，294）。然而，这种情感是平静而非激烈的，所以非哲学的观点将其视为“物体的属性”（S，218）。
 
-这种道德和审美主观主义之所以吸引休谟，与哈奇森吸引他的原因相同。对情感的诉求提供了英国文学中两种主流理论之间的中立立场，即霍布斯的利己主义和伦理理性主义。哈奇森认为，美德和美不是归属于人和事物的品质。我们可以说对象和人具有道德和审美属性，但相关属性仅仅是“在我们内心中产生的一个‘观念’”。休谟通过运用自己的哲学词汇改变了哈奇森的理论，将美变成了一种印象而不是一个观念。但他们一致认为，将一个人描述为有德行或将一个物体描述为美丽，意味着它们具有引起某种反应的倾向。休谟问哈奇森，将这个论点总结为以下这样的说法是否不明智和“过于强烈”（HL，I，39-40）：“[当你宣称某个行为或品质是邪恶的时候，你的意思只是，由于你的本性构成，你对它的思考产生了一种责备的感觉或情绪。因此，邪恶和美德可以与声音、颜色、热和冷相比，后者根据现代哲学并不是对象的品质，而是心灵中的感知]”（T，469）。强调休谟对哈奇森的债务，基维（2003年，307-310页）认为，休谟非常理解美与颜色的模式。尽管它们是次要品质，因此不能直接揭示引起对象的属性，但某些颜色感知是“真实和实在的”（SOT，272），对于休谟来说，美也是如此。然而，美德和美并不严格类似于次要品质，如热和冷，因为评论家声称一件作品美丽涉及一种认可的元素，而这在观察冰是冷的时候是不存在的。关于不将休谟的美与次要品质的观念模式相提并论的论据由莎纳（1996年）和泰勒（2011年）提供。
+这种道德和审美主观主义之所以吸引休谟，与哈奇森吸引他的原因相同。对情感的诉求提供了英国文学中两种主流理论之间的中立立场，即霍布斯的利己主义和伦理理性主义。哈奇森认为，美德和美不是归属于人和事物的品质。我们可以说对象和人具有道德和审美属性，但相关属性仅仅是“在我们内心中产生的一个‘观念’”。休谟通过运用自己的哲学词汇改变了哈奇森的理论，将美变成了一种印象而不是一个观念。但他们一致认为，将一个人描述为有德行或将一个物体描述为美丽，意味着它们具有引起某种反应的倾向。休谟问哈奇森，将这个论点总结为以下这样的说法是否不明智和“过于强烈”（HL，I，39-40）：“\[当你宣称某个行为或品质是邪恶的时候，你的意思只是，由于你的本性构成，你对它的思考产生了一种责备的感觉或情绪。因此，邪恶和美德可以与声音、颜色、热和冷相比，后者根据现代哲学并不是对象的品质，而是心灵中的感知]”（T，469）。强调休谟对哈奇森的债务，基维（2003年，307-310页）认为，休谟非常理解美与颜色的模式。尽管它们是次要品质，因此不能直接揭示引起对象的属性，但某些颜色感知是“真实和实在的”（SOT，272），对于休谟来说，美也是如此。然而，美德和美并不严格类似于次要品质，如热和冷，因为评论家声称一件作品美丽涉及一种认可的元素，而这在观察冰是冷的时候是不存在的。关于不将休谟的美与次要品质的观念模式相提并论的论据由莎纳（1996年）和泰勒（2011年）提供。
 
 休谟通过以下推理来捍卫情感的核心地位。对美德和美的认识需要人类观察者特定的情感。如果品味的区分没有这些情感的参与，我们就会缺乏做我们认为是道德的事情的动机。道德和审美判断具有纯理性所缺乏的实际后果。因此，品味与理解或理性所表现的同意不同（T，458；EPM，172；S，219）。尽管品味回应对象的真实品质，我们不能用理性的同意来取代品味的运用。在许多情况下，美和优雅（无论是审美还是道德）是无法解释的；它们抵抗我们的解释努力，我们必须相信“品味和情感的确凿证词”（EPM，267）。
 
@@ -204,142 +202,142 @@
 
 The abbreviations and texts cited above are as follows:
 
-| [T] | *A Treatise of Human Nature*, edited by L. A. Selby-Bigge, 2nd ed. revised by P.H. Nidditch, Oxford: Clarendon Press, 1975. [Page references above are to this edition.] |
-| --- | --- |
-|     | *A Treatise of Human Nature*, edited by David Fate Norton and Mary J. Norton, Oxford/New York: Oxford University Press, 2000. |
-| [EHU] | *An Enquiry concerning Human Understanding*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975. |
-| [EHUa] | *An Enquiry concerning Human Understanding*, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1999. |
-| [EPM] | *An Enquiry concerning the Principles of Morals*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975.[Page references above are to this edition.] |
-|     | *Enquiry concerning the Principles of Morals*, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1998. |
-| [HL] | *The Letters of David Hume*, edited by J.Y.T. Greig, 2 volumes, Oxford: Clarendon Press, 1932. |
-| [PW] | *The Philosophical Works of David Hume*, edited by T. H. Green and T. H. Grose. 4 volumes, London: Longman, Green, 1874–75. [Page references below to individual essays are to volume 3 of this edition.] |
-| [C] | “Of Commerce,” in PW, Volume 3. |
-| [CL] | “Of Civil Liberty,” in PW, Volume 3. |
-| [DOT] | “Of the Delicacy of Taste and Passion,” in PW, Volume 3. |
-| [E] | “Of Eloquence,” in PW, Volume 3. |
-| [OT] | “Of Tragedy,” in PW, Volume 3. |
-| [S] | “The Sceptic,” in PW, Volume 3. |
-| [SOT] | “Of the Standard of Taste,” in PW, Volume 3. |
-| [SRW] | “Of Simplicity and Refinement in Writing,” in PW, Volume 3. |
+| \[T]    | _A Treatise of Human Nature_, edited by L. A. Selby-Bigge, 2nd ed. revised by P.H. Nidditch, Oxford: Clarendon Press, 1975. \[Page references above are to this edition.]                                                                                                                |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         | _A Treatise of Human Nature_, edited by David Fate Norton and Mary J. Norton, Oxford/New York: Oxford University Press, 2000.                                                                                                                                                            |
+| \[EHU]  | _An Enquiry concerning Human Understanding_, in _Enquiries concerning Human Understanding and concerning the Principles of Morals_, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975.                                                   |
+| \[EHUa] | _An Enquiry concerning Human Understanding_, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1999.                                                                                                                                                                 |
+| \[EPM]  | _An Enquiry concerning the Principles of Morals_, in _Enquiries concerning Human Understanding and concerning the Principles of Morals_, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975.\[Page references above are to this edition.] |
+|         | _Enquiry concerning the Principles of Morals_, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1998.                                                                                                                                                               |
+| \[HL]   | _The Letters of David Hume_, edited by J.Y.T. Greig, 2 volumes, Oxford: Clarendon Press, 1932.                                                                                                                                                                                           |
+| \[PW]   | _The Philosophical Works of David Hume_, edited by T. H. Green and T. H. Grose. 4 volumes, London: Longman, Green, 1874–75. \[Page references below to individual essays are to volume 3 of this edition.]                                                                               |
+| \[C]    | “Of Commerce,” in PW, Volume 3.                                                                                                                                                                                                                                                          |
+| \[CL]   | “Of Civil Liberty,” in PW, Volume 3.                                                                                                                                                                                                                                                     |
+| \[DOT]  | “Of the Delicacy of Taste and Passion,” in PW, Volume 3.                                                                                                                                                                                                                                 |
+| \[E]    | “Of Eloquence,” in PW, Volume 3.                                                                                                                                                                                                                                                         |
+| \[OT]   | “Of Tragedy,” in PW, Volume 3.                                                                                                                                                                                                                                                           |
+| \[S]    | “The Sceptic,” in PW, Volume 3.                                                                                                                                                                                                                                                          |
+| \[SOT]  | “Of the Standard of Taste,” in PW, Volume 3.                                                                                                                                                                                                                                             |
+| \[SRW]  | “Of Simplicity and Refinement in Writing,” in PW, Volume 3.                                                                                                                                                                                                                              |
 
 ### Works on Hume’s Aesthetics
 
-* Baceski, Tina, 2013. “Hume on Art Critics, Wise Men, and the Virtues of Taste,” *Hume Studies*, 39: 233–56.
-* Baxter, Donald L. M., 1990. “Hume on Virtue, Beauty, Composites, and Secondary Qualities,” *Pacific Philosophical Quarterly*, 71: 103–18.
-* Brown, Stuart Gerry, 1938. “Observations on Hume’s Theory of Taste,” *English Studies*, 20: 193–98.
-* Budd, Malcolm, 1991. “Hume’s Tragic Emotions,” *Hume Studies*, 17: 93–106.
-* Carroll, Noël, 1984. “Hume’s Standard of Taste,” *Journal of Aesthetics and Art Criticism*, 43: 181–94.
-* Cohen, Ralph, 1962. “The Transformation of Passion: A Study of Hume’s Theories of Tragedy,‘Antinomy of Taste’,” *Philological Quarterly*, 41: 450–64.
-* Cohen, Ted, 1994. “*Partial Enchantment* in Hume’s Essay on Taste,” in Robert Yanal (ed.), *Institutions of Art: Reconsiderations of George Dickie’s Philosophy*, University Park, PA: Pennsylvania State University Press, 145–56.
-* Costelloe, Timothy M., 2003. “Hume, Kant, and the ‘Antinomy of Taste’,” *Journal of the History of Philosophy,* 41: 165–85.
-* –––, 2007. *Aesthetics and Morals in the Philosophy of David Hume* (Routledge Studies in Eighteenth Century Philosophy), London: Routledge.
-* –––, 2018. *Imagination in Hume’s Philosophy: The Canvas of the Mind*, Edinburgh: Edinburgh University Press.
-* Dadlez, Eva M., 2002. “The Vicious Habits of Entirely Fictitious People: Hume on the Moral Evaluation of Art,” *Philosophy and Literature*, 26: 143–56.
-* –––, 2004. “Pleased and Afflicted: Hume on the Paradox of Tragic Pleasure,” *Hume Studies*, 30: 213–36.
-* –––, 2016. “A Humean Approach to the Problem of Disgust and Aesthetic Appreciation,” *Essays in Philosophy*, 17(1): Article 4. http://dx.doi.org/10.7710/1526-0569.1543.
-* –––, 2017. “Hume, Halos, and Rough Heroes: Moral and Aesthetic Defects in Works of Fiction,” *Philosophy and Literature*, 41: 91–102.
-* Dickie, George, 2003. “James Shelley on Critical Principles,” *British Journal of Aesthetics*, 43: 57–64.
-* Durà-Vilà, Víctor, 2014. “Courage in Art Appreciation: A Humean Perspective,” *British Journal of Aesthetics*, 54 (1): 77–95.
-* –––, 2015. “Shelley on Hume’s Standard of Taste and the Impossibility of Sound Disagreement among the Ideal Critics,” *Journal of Aesthetics and Art Criticism*, 73 (3): 341–45.
-* Foot, Philippa, 1966. “Hume on Moral Judgment,” in David F. Pears (ed.), *David Hume: A Symposium*, London: Macmillan, 67–76.
-* Galgut, Elisa, 2001. “The Poetry and the Pity: Hume’s Account of Tragic Pleasure,” *British Journal of Aesthetics*, 41: 411–24.
-* –––, 2012. “Hume’s Aesthetic Standard,” *Hume Studies*, 38: 183–200.
-* Gracyk, Theodore, 1994. “Rethinking Hume’s Standard of Taste,” *Journal of Aesthetics and Art Criticism*, 52: 168–82.
-* –––, 2011. “Delicacy in Hume’s Aesthetic Theory,” *Journal of Scottish Philosophy*, 9: 1–16.
-* Grant, James, 2014. “Hume, David. Theory of Beauty,” in Michael Kelly (ed.), *The Encyclopedia of Aesthetics*, 2nd ed., Oxford: Oxford University Press, Volume 3: 368–72.
-* Guyer, Paul, 2005. “Beauty and Utility in Eighteenth-Century Aesthetics,” in Paul Guyer, *Values of Beauty: Historical Essays in Aesthetics*, Cambridge: Cambridge University Press: 110–28.
-* –––, 2005. “The Standard of Taste and the ‘Most Ardent Desire of Society’,” in Paul Guyer, *Values of Beauty: Historical Essays in Aesthetics*, Cambridge: Cambridge University Press: 37–74.
-* Hester, Marcus, 1979. “Hume on Principles and Perceptual Ability,” *Journal of Aesthetics and Art Criticism*, 37: 295–302.
-* Jones, Peter, 1976. “Hume’s Aesthetics Reassessed,” *Philosophical Quarterly*, 26: 48–62.
-* –––, 2009. “Hume on the Arts and ‘The Standard of Taste’: Texts and Contexts,” in David Fate Norton and Jacqueline Tylor (eds.), *The Cambridge Companion to Hume*, Cambridge: Cambridge University Press: 414–46.
-* Kivy, Peter, 1967. “Hume’s Standard of Taste: Breaking the Circle,” *British Journal of Aesthetics*, 7: 57–66.
-* –––, 1983. “Hume’s Neighbor’s Wife: An Essay in the Evolution of Hume’s Aesthetics,” *British Journal of Aesthetics*, 23: 195–208.
-* –––, 2011. “Remarks on the Varieties of Prejudice in Hume’s Essay on Taste,” *Journal of Scottish Philosophy*, 9: 111–15.
-* Korsmeyer, Carolyn, 1976. “Hume and the Foundations of Taste,” *Journal of Aesthetics and Art Criticism*, 35: 201–15.
-* –––, 1995. “Gendered Concepts and Hume’s Standard of Taste,” in P. Z. Brand and Carolyn Korsmeyer (eds.), *Feminism and Tradition in Aesthetics*, University Park, PA: Pennsylvania State University Press, pp. 49–65.
-* Kulenkampff, Jens, 1990. “The Objectivity of Taste: Hume and Kant,” *Noûs*, 24: 93–100.
-* Levinson, Jerrold, 2002. “Hume’s Standard of Taste: The Real Problem,” *Journal of Aesthetics and Art Criticism*, 60: 227–238.
-* –––, 2003. “The Real Problem Sustained: Reply to Wieand”, *Journal of Aesthetics and Art Criticism*, 61: 398–99.
-* MacLachlan, Christopher, 1986. “Hume and the Standard of Taste”, *Hume Studies*, 12: 18–38.
-* MacMillan, Claude, 1986. “Hume, Points of View and Aesthetic Judgments”, *The Journal of Value Inquiry*, 20: 109–23.
-* Marshall, David, 1995. “Arguing by Analogy: Hume’s Standard of Taste,” *Eighteenth-Century Studies*, 28: 323–43.
-* Mason, Michelle, 2001. “Moral Prejudice and Aesthetic Deformity: Rereading Hume’s ‘Of the Standard of Taste’,” *Journal of Aesthetics and Art Criticism*, 59: 59–71.
-* Mothersill, Mary, 1997. “In Defense of Hume and the Causal Theory of Taste,” *Journal of Aesthetics and Art Criticism*, 55: 312–17.
-* –––, 1984. “Hume: ‘Of the Standard of Taste’,” in *Beauty Restored*, Oxford: Clarendon Press, pp. 177–208.
-* –––, 2014. “Hume, David. ‘Of the Standard of Taste,’” in Michael Kelly (ed.), *The Encyclopedia of Aesthetics*, 2nd ed., Oxford: Oxford University Press, Volume 3: 364–68.
-* Neill, Alex, 1998. “‘An Unaccountable Pleasure’: Hume on Tragedy and the Passions,” *Hume Studies*, 24: 335–354.
-* –––, 1992. “Yanal and Others on Hume on Tragedy,” *Journal of Aesthetics and Art Criticism*, 50: 151–154.
-* –––, 1999. “Hume’s ‘Singular Phænomenon’,” *British Journal of Aesthetics*, 39: 112–125.
-* Noxon, James, 1961. “Hume’s Opinion of Critics,” *Journal of Aesthetics and Art Criticism*, 20: 157–62.
-* Osborne, Harold, 1967. “Hume’s Standard and the Diversity of Aesthetic Taste,” *British Journal of Aesthetics*, 7: 50–56.
-* Perricone, Christopher, 1995. “The Body and Hume’s Standard of Taste,” *Journal of Aesthetics and Art Criticism*, 53: 371–8.
-* Ribeiro, Brian, 2007. “Hume’s Standard of Taste and the *de gustibus Sceptic*,” *British Journal of Aesthetics*, 47: 16–28.
-* Rose, Mary Carman, 1976. “The Importance of Hume in the History of Western Aesthetics,” *British Journal of Aesthetics*, 16: 218–29.
-* Ross, Stephanie, 2008. “Humean Critics: Real or Ideal?,” *British Journal of Aesthetics*, 48: 20–28.
-* Saccamano, Neil, 2011. “Aesthetically Non-Dwelling: Sympathy, Property, and the House of Beauty in Hume’s *Treatise*,” *Journal of Scottish Philosophy*, 9: 37–58.
-* Sayre-McCord, Geoffrey, 1994. “On Why Hume’s ‘General Point of View’ isn’t Ideal – and Shouldn’t Be,” *Social Philosophy and Policy*, 11: 202–28.
-* Schier, Flint, 1986–87. “Hume and the Aesthetics of Agency,” *Proceedings of the Aristotelian Society*, 87: 121–35.
-* Shelley, James, 1994. “Hume’s Double Standard of Taste,” *Journal of Aesthetics and Art Criticism*, 52: 437–45.
-* –––, 1998. “Hume and the Nature of ‘Taste’,” *Journal of Aesthetics and Art Criticism*, 56: 29–38.
-* –––, 2002. “The Character and Role of Principles in the Evaluation of Art,” *British Journal of Aesthetics*, 42; 37–51.
-* –––, 2004. “Hume’s Principles of Taste: A Reply to Dickie,” *British Journal of Aesthetics*, 44: 84–89.
-* –––, 2011. “Hume and the Value of the Beautiful,” *British Journal of Aesthetics*, 51: 213–22.
-* –––, 2013. “Hume and the Verdict of True Judges,” *Journal of Aesthetics and Art Criticism*, 71 (2): 145–53.
-* –––, 2015. “When True Judges Differ: Reply to Durà-Vilà,” *Journal of Aesthetics and Art Criticism*, 73 (3): 345–48.
-* Shiner, Roger A., 1996. “Hume and the Causal Theory of Taste,” *Journal of Aesthetics and Art Criticism*, 54: 237–49.
-* Shusterman, Richard, 1989. “Of the Scandal of Taste: Social Privilege as Nature in the Aesthetic Theories of Hume and Kant,” *Philosophical Forum*, 20: 211–29.
-* Siebert, Donald T., 1989. “The Sentimental Sublime in Hume’s *History of England*,” *Review of English Studies New Series*, 40: 352–72.
-* Stradella, Alessandra, 2012. “The Fiction of the Standard of Taste: David Hume on the Social Constitution of Beauty,” *The Journal of Aesthetic Education*, 46 (4): 32–47.
-* Sverdlik, Steven, 1986. “Hume’s Key and Aesthetic Rationality,” *Journal of Aesthetics and Art Criticism*, 45: 69–76.
-* Taylor, Jacqueline, 2008. “Hume on Beauty and Virtue,” in Elisabeth Radcliffe (ed.), *A Companion to Hume*, Oxford: Blackwell, 273–92.
-* Townsend, Dabney, 2001. *Hume’s Aesthetic Theory: Taste and Sentiment*, London: Routledge.
-* –––, 2013. “Hume’s Aesthetic Move: The Legitimization of Sentiment.” *The European Legacy: Toward New Paradigms*, 18 (5): 552–562.
-* Wieand, Jeffrey, 1984. “Hume’s Two Standards of Taste,” *Philosophical Quarterly*, 34: 129–42.
-* –––, 2003. “Hume’s Real Problem,” *Journal of Aesthetics and Art Criticism*, 61: 395–98.
-* Williams, Christopher, 2007. “Some Questions in Hume’s Aesthetics,” *Philosophy Compass*, 2: 157–69.
-* Winegar, Reed, 2011. “Good Sense, Art, and Morality in Hume’s ‘Standard of Taste,’” *Journal of Scottish Philosophy*, 9: 17–35.
-* Yanal, Robert J., 1991. “Hume and Others on the Paradox of Tragedy,” *Journal of Aesthetics and Art Criticism*, 49: 75–76.
-* Zangwill, Nick, 2001. “Hume, Taste, and Teleology,” in *The Metaphysics of Beauty*, Ithaca: Cornell University Press: 149–65.
+* Baceski, Tina, 2013. “Hume on Art Critics, Wise Men, and the Virtues of Taste,” _Hume Studies_, 39: 233–56.
+* Baxter, Donald L. M., 1990. “Hume on Virtue, Beauty, Composites, and Secondary Qualities,” _Pacific Philosophical Quarterly_, 71: 103–18.
+* Brown, Stuart Gerry, 1938. “Observations on Hume’s Theory of Taste,” _English Studies_, 20: 193–98.
+* Budd, Malcolm, 1991. “Hume’s Tragic Emotions,” _Hume Studies_, 17: 93–106.
+* Carroll, Noël, 1984. “Hume’s Standard of Taste,” _Journal of Aesthetics and Art Criticism_, 43: 181–94.
+* Cohen, Ralph, 1962. “The Transformation of Passion: A Study of Hume’s Theories of Tragedy,‘Antinomy of Taste’,” _Philological Quarterly_, 41: 450–64.
+* Cohen, Ted, 1994. “_Partial Enchantment_ in Hume’s Essay on Taste,” in Robert Yanal (ed.), _Institutions of Art: Reconsiderations of George Dickie’s Philosophy_, University Park, PA: Pennsylvania State University Press, 145–56.
+* Costelloe, Timothy M., 2003. “Hume, Kant, and the ‘Antinomy of Taste’,” _Journal of the History of Philosophy,_ 41: 165–85.
+* –––, 2007. _Aesthetics and Morals in the Philosophy of David Hume_ (Routledge Studies in Eighteenth Century Philosophy), London: Routledge.
+* –––, 2018. _Imagination in Hume’s Philosophy: The Canvas of the Mind_, Edinburgh: Edinburgh University Press.
+* Dadlez, Eva M., 2002. “The Vicious Habits of Entirely Fictitious People: Hume on the Moral Evaluation of Art,” _Philosophy and Literature_, 26: 143–56.
+* –––, 2004. “Pleased and Afflicted: Hume on the Paradox of Tragic Pleasure,” _Hume Studies_, 30: 213–36.
+* –––, 2016. “A Humean Approach to the Problem of Disgust and Aesthetic Appreciation,” _Essays in Philosophy_, 17(1): Article 4. http://dx.doi.org/10.7710/1526-0569.1543.
+* –––, 2017. “Hume, Halos, and Rough Heroes: Moral and Aesthetic Defects in Works of Fiction,” _Philosophy and Literature_, 41: 91–102.
+* Dickie, George, 2003. “James Shelley on Critical Principles,” _British Journal of Aesthetics_, 43: 57–64.
+* Durà-Vilà, Víctor, 2014. “Courage in Art Appreciation: A Humean Perspective,” _British Journal of Aesthetics_, 54 (1): 77–95.
+* –––, 2015. “Shelley on Hume’s Standard of Taste and the Impossibility of Sound Disagreement among the Ideal Critics,” _Journal of Aesthetics and Art Criticism_, 73 (3): 341–45.
+* Foot, Philippa, 1966. “Hume on Moral Judgment,” in David F. Pears (ed.), _David Hume: A Symposium_, London: Macmillan, 67–76.
+* Galgut, Elisa, 2001. “The Poetry and the Pity: Hume’s Account of Tragic Pleasure,” _British Journal of Aesthetics_, 41: 411–24.
+* –––, 2012. “Hume’s Aesthetic Standard,” _Hume Studies_, 38: 183–200.
+* Gracyk, Theodore, 1994. “Rethinking Hume’s Standard of Taste,” _Journal of Aesthetics and Art Criticism_, 52: 168–82.
+* –––, 2011. “Delicacy in Hume’s Aesthetic Theory,” _Journal of Scottish Philosophy_, 9: 1–16.
+* Grant, James, 2014. “Hume, David. Theory of Beauty,” in Michael Kelly (ed.), _The Encyclopedia of Aesthetics_, 2nd ed., Oxford: Oxford University Press, Volume 3: 368–72.
+* Guyer, Paul, 2005. “Beauty and Utility in Eighteenth-Century Aesthetics,” in Paul Guyer, _Values of Beauty: Historical Essays in Aesthetics_, Cambridge: Cambridge University Press: 110–28.
+* –––, 2005. “The Standard of Taste and the ‘Most Ardent Desire of Society’,” in Paul Guyer, _Values of Beauty: Historical Essays in Aesthetics_, Cambridge: Cambridge University Press: 37–74.
+* Hester, Marcus, 1979. “Hume on Principles and Perceptual Ability,” _Journal of Aesthetics and Art Criticism_, 37: 295–302.
+* Jones, Peter, 1976. “Hume’s Aesthetics Reassessed,” _Philosophical Quarterly_, 26: 48–62.
+* –––, 2009. “Hume on the Arts and ‘The Standard of Taste’: Texts and Contexts,” in David Fate Norton and Jacqueline Tylor (eds.), _The Cambridge Companion to Hume_, Cambridge: Cambridge University Press: 414–46.
+* Kivy, Peter, 1967. “Hume’s Standard of Taste: Breaking the Circle,” _British Journal of Aesthetics_, 7: 57–66.
+* –––, 1983. “Hume’s Neighbor’s Wife: An Essay in the Evolution of Hume’s Aesthetics,” _British Journal of Aesthetics_, 23: 195–208.
+* –––, 2011. “Remarks on the Varieties of Prejudice in Hume’s Essay on Taste,” _Journal of Scottish Philosophy_, 9: 111–15.
+* Korsmeyer, Carolyn, 1976. “Hume and the Foundations of Taste,” _Journal of Aesthetics and Art Criticism_, 35: 201–15.
+* –––, 1995. “Gendered Concepts and Hume’s Standard of Taste,” in P. Z. Brand and Carolyn Korsmeyer (eds.), _Feminism and Tradition in Aesthetics_, University Park, PA: Pennsylvania State University Press, pp. 49–65.
+* Kulenkampff, Jens, 1990. “The Objectivity of Taste: Hume and Kant,” _Noûs_, 24: 93–100.
+* Levinson, Jerrold, 2002. “Hume’s Standard of Taste: The Real Problem,” _Journal of Aesthetics and Art Criticism_, 60: 227–238.
+* –––, 2003. “The Real Problem Sustained: Reply to Wieand”, _Journal of Aesthetics and Art Criticism_, 61: 398–99.
+* MacLachlan, Christopher, 1986. “Hume and the Standard of Taste”, _Hume Studies_, 12: 18–38.
+* MacMillan, Claude, 1986. “Hume, Points of View and Aesthetic Judgments”, _The Journal of Value Inquiry_, 20: 109–23.
+* Marshall, David, 1995. “Arguing by Analogy: Hume’s Standard of Taste,” _Eighteenth-Century Studies_, 28: 323–43.
+* Mason, Michelle, 2001. “Moral Prejudice and Aesthetic Deformity: Rereading Hume’s ‘Of the Standard of Taste’,” _Journal of Aesthetics and Art Criticism_, 59: 59–71.
+* Mothersill, Mary, 1997. “In Defense of Hume and the Causal Theory of Taste,” _Journal of Aesthetics and Art Criticism_, 55: 312–17.
+* –––, 1984. “Hume: ‘Of the Standard of Taste’,” in _Beauty Restored_, Oxford: Clarendon Press, pp. 177–208.
+* –––, 2014. “Hume, David. ‘Of the Standard of Taste,’” in Michael Kelly (ed.), _The Encyclopedia of Aesthetics_, 2nd ed., Oxford: Oxford University Press, Volume 3: 364–68.
+* Neill, Alex, 1998. “‘An Unaccountable Pleasure’: Hume on Tragedy and the Passions,” _Hume Studies_, 24: 335–354.
+* –––, 1992. “Yanal and Others on Hume on Tragedy,” _Journal of Aesthetics and Art Criticism_, 50: 151–154.
+* –––, 1999. “Hume’s ‘Singular Phænomenon’,” _British Journal of Aesthetics_, 39: 112–125.
+* Noxon, James, 1961. “Hume’s Opinion of Critics,” _Journal of Aesthetics and Art Criticism_, 20: 157–62.
+* Osborne, Harold, 1967. “Hume’s Standard and the Diversity of Aesthetic Taste,” _British Journal of Aesthetics_, 7: 50–56.
+* Perricone, Christopher, 1995. “The Body and Hume’s Standard of Taste,” _Journal of Aesthetics and Art Criticism_, 53: 371–8.
+* Ribeiro, Brian, 2007. “Hume’s Standard of Taste and the _de gustibus Sceptic_,” _British Journal of Aesthetics_, 47: 16–28.
+* Rose, Mary Carman, 1976. “The Importance of Hume in the History of Western Aesthetics,” _British Journal of Aesthetics_, 16: 218–29.
+* Ross, Stephanie, 2008. “Humean Critics: Real or Ideal?,” _British Journal of Aesthetics_, 48: 20–28.
+* Saccamano, Neil, 2011. “Aesthetically Non-Dwelling: Sympathy, Property, and the House of Beauty in Hume’s _Treatise_,” _Journal of Scottish Philosophy_, 9: 37–58.
+* Sayre-McCord, Geoffrey, 1994. “On Why Hume’s ‘General Point of View’ isn’t Ideal – and Shouldn’t Be,” _Social Philosophy and Policy_, 11: 202–28.
+* Schier, Flint, 1986–87. “Hume and the Aesthetics of Agency,” _Proceedings of the Aristotelian Society_, 87: 121–35.
+* Shelley, James, 1994. “Hume’s Double Standard of Taste,” _Journal of Aesthetics and Art Criticism_, 52: 437–45.
+* –––, 1998. “Hume and the Nature of ‘Taste’,” _Journal of Aesthetics and Art Criticism_, 56: 29–38.
+* –––, 2002. “The Character and Role of Principles in the Evaluation of Art,” _British Journal of Aesthetics_, 42; 37–51.
+* –––, 2004. “Hume’s Principles of Taste: A Reply to Dickie,” _British Journal of Aesthetics_, 44: 84–89.
+* –––, 2011. “Hume and the Value of the Beautiful,” _British Journal of Aesthetics_, 51: 213–22.
+* –––, 2013. “Hume and the Verdict of True Judges,” _Journal of Aesthetics and Art Criticism_, 71 (2): 145–53.
+* –––, 2015. “When True Judges Differ: Reply to Durà-Vilà,” _Journal of Aesthetics and Art Criticism_, 73 (3): 345–48.
+* Shiner, Roger A., 1996. “Hume and the Causal Theory of Taste,” _Journal of Aesthetics and Art Criticism_, 54: 237–49.
+* Shusterman, Richard, 1989. “Of the Scandal of Taste: Social Privilege as Nature in the Aesthetic Theories of Hume and Kant,” _Philosophical Forum_, 20: 211–29.
+* Siebert, Donald T., 1989. “The Sentimental Sublime in Hume’s _History of England_,” _Review of English Studies New Series_, 40: 352–72.
+* Stradella, Alessandra, 2012. “The Fiction of the Standard of Taste: David Hume on the Social Constitution of Beauty,” _The Journal of Aesthetic Education_, 46 (4): 32–47.
+* Sverdlik, Steven, 1986. “Hume’s Key and Aesthetic Rationality,” _Journal of Aesthetics and Art Criticism_, 45: 69–76.
+* Taylor, Jacqueline, 2008. “Hume on Beauty and Virtue,” in Elisabeth Radcliffe (ed.), _A Companion to Hume_, Oxford: Blackwell, 273–92.
+* Townsend, Dabney, 2001. _Hume’s Aesthetic Theory: Taste and Sentiment_, London: Routledge.
+* –––, 2013. “Hume’s Aesthetic Move: The Legitimization of Sentiment.” _The European Legacy: Toward New Paradigms_, 18 (5): 552–562.
+* Wieand, Jeffrey, 1984. “Hume’s Two Standards of Taste,” _Philosophical Quarterly_, 34: 129–42.
+* –––, 2003. “Hume’s Real Problem,” _Journal of Aesthetics and Art Criticism_, 61: 395–98.
+* Williams, Christopher, 2007. “Some Questions in Hume’s Aesthetics,” _Philosophy Compass_, 2: 157–69.
+* Winegar, Reed, 2011. “Good Sense, Art, and Morality in Hume’s ‘Standard of Taste,’” _Journal of Scottish Philosophy_, 9: 17–35.
+* Yanal, Robert J., 1991. “Hume and Others on the Paradox of Tragedy,” _Journal of Aesthetics and Art Criticism_, 49: 75–76.
+* Zangwill, Nick, 2001. “Hume, Taste, and Teleology,” in _The Metaphysics of Beauty_, Ithaca: Cornell University Press: 149–65.
 
 ### Related Works on Hume and His Context
 
-* Addison, Joseph, and Steele, Richard, 1879. *The Spectator*, Alexander Chalmers (ed.), New York: D. Appleton.
-* Brunius, Teddy, 1952. *David Hume on Criticism*, Stockholm: Almqvist & Wiksell.
-* Coleman, Francis X. J., 1971. *The Aesthetic Thought of the French Enlightenment*, Pittsburgh: University of Pittsburgh Press.
-* Costelloe, Timothy, 2013. *The British Aesthetic Tradition: From Shaftesbury to Wittgenstein*, Cambridge: Cambridge University Press.
-* Dickie, George, 1996. *The Century of Taste*, Oxford: Oxford University Press.
-* DuBos, Jean Baptiste, 1748. *Critical Reflections on Poetry, Painting, and Music*, 3 vols. Translated by Thomas Nugent. London: John Nourse. Reprint, New York: AMS Press, 1978.
-* Duncan, Elmer H., 1970. “The Ideal Aesthetic Observer: a Second Look”, *Journal of Aesthetics and Art Criticism*, 29: 47–52.
-* Guyer, Paul, 2014. *A History of Modern Aesthetics* (Vol. 1: The Eighteenth Century), Cambridge: Cambridge University Press.
-* Hipple, Walter John Jr., 1967. *The Beautiful, the Sublime, and the Picturesque in Eighteenth Century Aesthetic Theory*, Carbondale, IL: The Southern Illinois University Press.
-* Jones, Peter, 1982. *Hume’s Sentiments: Their Ciceronian and French Context*, Edinburgh: Edinburgh University Press.
-* Kivy, Peter, 2003. *The Seventh Sense: Francis Hutcheson & Eighteenth-Century British Aesthetics*, 2nd ed., Oxford: Clarendon Press.
-* –––, 2016. “Hume’s Taste and the Rationalist Critique,” in Paul Russell (ed.), *The Oxford Handbook of Hume*, Oxford: Oxford University Press, 531–545.
-* Savile, Anthony, 1982. *The Test of Time: An Essay in Philosophical Aesthetics*, Oxford: Clarendon Press.
-* –––, 1988. *Aesthetic Reconstructions: The Seminal Writings of Lessing, Kant, and Schiller*, Oxford: Basil Blackwell.
-* Shaftesbury (Anthony Ashley-Cooper, Third Earl of Shaftesbury), 1999. *Characteristics of Men, Manners, Opinions, Times* (2 volumes), Philip Ayres (ed.), Oxford: Clarendon Press.
-* Shelley, James, 2001. “Empiricism: Hutcheson and Hume,” in Berys Gaut and Dominic M. Lopes (eds.), *Routledge Companion to Aesthetics*, 3rd edition, London and New York: Routledge: 36–45.
-* Townsend, Dabney, 1987. “From Shaftesbury to Kant: The Development of the Concept of Aesthetic Experience,” *Journal of the History of Ideas*, 48: 287–305.
-* –––, 2003. “Art and the Aesthetic: Hume, Kant, and the Essence of Art,” in Stephen Davies and Ananta Ch. Sukla (eds.), *Art and Essences*, Westport, CT: Praeger, 75–93.
+* Addison, Joseph, and Steele, Richard, 1879. _The Spectator_, Alexander Chalmers (ed.), New York: D. Appleton.
+* Brunius, Teddy, 1952. _David Hume on Criticism_, Stockholm: Almqvist & Wiksell.
+* Coleman, Francis X. J., 1971. _The Aesthetic Thought of the French Enlightenment_, Pittsburgh: University of Pittsburgh Press.
+* Costelloe, Timothy, 2013. _The British Aesthetic Tradition: From Shaftesbury to Wittgenstein_, Cambridge: Cambridge University Press.
+* Dickie, George, 1996. _The Century of Taste_, Oxford: Oxford University Press.
+* DuBos, Jean Baptiste, 1748. _Critical Reflections on Poetry, Painting, and Music_, 3 vols. Translated by Thomas Nugent. London: John Nourse. Reprint, New York: AMS Press, 1978.
+* Duncan, Elmer H., 1970. “The Ideal Aesthetic Observer: a Second Look”, _Journal of Aesthetics and Art Criticism_, 29: 47–52.
+* Guyer, Paul, 2014. _A History of Modern Aesthetics_ (Vol. 1: The Eighteenth Century), Cambridge: Cambridge University Press.
+* Hipple, Walter John Jr., 1967. _The Beautiful, the Sublime, and the Picturesque in Eighteenth Century Aesthetic Theory_, Carbondale, IL: The Southern Illinois University Press.
+* Jones, Peter, 1982. _Hume’s Sentiments: Their Ciceronian and French Context_, Edinburgh: Edinburgh University Press.
+* Kivy, Peter, 2003. _The Seventh Sense: Francis Hutcheson & Eighteenth-Century British Aesthetics_, 2nd ed., Oxford: Clarendon Press.
+* –––, 2016. “Hume’s Taste and the Rationalist Critique,” in Paul Russell (ed.), _The Oxford Handbook of Hume_, Oxford: Oxford University Press, 531–545.
+* Savile, Anthony, 1982. _The Test of Time: An Essay in Philosophical Aesthetics_, Oxford: Clarendon Press.
+* –––, 1988. _Aesthetic Reconstructions: The Seminal Writings of Lessing, Kant, and Schiller_, Oxford: Basil Blackwell.
+* Shaftesbury (Anthony Ashley-Cooper, Third Earl of Shaftesbury), 1999. _Characteristics of Men, Manners, Opinions, Times_ (2 volumes), Philip Ayres (ed.), Oxford: Clarendon Press.
+* Shelley, James, 2001. “Empiricism: Hutcheson and Hume,” in Berys Gaut and Dominic M. Lopes (eds.), _Routledge Companion to Aesthetics_, 3rd edition, London and New York: Routledge: 36–45.
+* Townsend, Dabney, 1987. “From Shaftesbury to Kant: The Development of the Concept of Aesthetic Experience,” _Journal of the History of Ideas_, 48: 287–305.
+* –––, 2003. “Art and the Aesthetic: Hume, Kant, and the Essence of Art,” in Stephen Davies and Ananta Ch. Sukla (eds.), _Art and Essences_, Westport, CT: Praeger, 75–93.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=hume-aesthetics). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/hume-aesthetics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=hume-aesthetics&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/hume-aesthetics/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=hume-aesthetics).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/hume-aesthetics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=hume-aesthetics\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/hume-aesthetics/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [American Society for Aesthetics: Aesthetics On-line](https://www.aesthetics-online.org/) 
-* [David Hume: Links](http://comp.uark.edu/~rlee/semiau98/humelink.html) 
-* [Hume: Essays, Moral, Political, and Literary](http://www.econlib.org/library/LFBooks/Hume/hmMPL.html) (Complete Text online)
-* [The Hume Society](http://humesociety.org/) 
+* [American Society for Aesthetics: Aesthetics On-line](https://www.aesthetics-online.org/)&#x20;
+* [David Hume: Links](http://comp.uark.edu/\~rlee/semiau98/humelink.html)&#x20;
+* [Hume: Essays, Moral, Political, and Literary](http://www.econlib.org/library/LFBooks/Hume/hmMPL.html) (Complete Text online)
+* [The Hume Society](http://humesociety.org/)&#x20;
 
 ## Related Entries
 
-[aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [Aristotle, General Topics: aesthetics](https://plato.stanford.edu/entries/aristotle-aesthetics/) | [beauty](https://plato.stanford.edu/entries/beauty/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Hume, David: moral philosophy](https://plato.stanford.edu/entries/hume-moral/) | [moral sentimentalism](https://plato.stanford.edu/entries/moral-sentimentalism/) | [Scottish Philosophy: in the 18th Century](https://plato.stanford.edu/entries/scottish-18th/) | [Shaftesbury, Lord [Anthony Ashley Cooper, 3rd Earl of]](https://plato.stanford.edu/entries/shaftesbury/)
+[aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [Aristotle, General Topics: aesthetics](https://plato.stanford.edu/entries/aristotle-aesthetics/) | [beauty](https://plato.stanford.edu/entries/beauty/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Hume, David: moral philosophy](https://plato.stanford.edu/entries/hume-moral/) | [moral sentimentalism](https://plato.stanford.edu/entries/moral-sentimentalism/) | [Scottish Philosophy: in the 18th Century](https://plato.stanford.edu/entries/scottish-18th/) | [Shaftesbury, Lord \[Anthony Ashley Cooper, 3rd Earl of\]](https://plato.stanford.edu/entries/shaftesbury/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Theodore Gracyk <[*gracyk@mnstate.edu*](mailto:gracyk%40mnstate%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Theodore Gracyk <[_gracyk@mnstate.edu_](mailto:gracyk%40mnstate%2eedu)>

@@ -1,41 +1,35 @@
 # 米歇尔·亨利 Henry, Michel (Frédéric Seyler)
 
-*首次发表于2016年10月7日星期五；实质性修订于2020年9月30日星期三。*
+_首次发表于2016年10月7日星期五；实质性修订于2020年9月30日星期三。_
 
 米歇尔·亨利（1922-2002 年）通过对现象学传统（尤其是侯塞尔和海德格尔）的批判性阅读，发展了一种根本性修订的现象学方法。亨利将自己的方法命名为“生命现象学”，之前称之为“物质现象学”或“激进现象学”。他在某种程度上受到了缅因·德·比朗的影响。亨利的生命现象学最具特色、也最具争议的特征或许在于，它将意向性基础化为一种先验的出现形式，即内在情感性或“生命”。在他的最后工作时期（1992-2002 年），亨利基于自己的现象学发展了一种基于宗教和基督教的哲学。他被广泛认为是 20 世纪法国现象学的重要人物之一。
 
 * [1. 生命与工作](https://plato.stanford.edu/entries/michel-henry/#LifeWork)
 * [2. 生命现象学与超验情感性概念](https://plato.stanford.edu/entries/michel-henry/#PhenLifeConcTranAffe)
-
   * [2.1 对意向性和本体论一元论的批判](https://plato.stanford.edu/entries/michel-henry/#CritInteOntoMoni)
   * [2.2 亨利现象学的源头](https://plato.stanford.edu/entries/michel-henry/#SourHenrPhen)
   * [2.3 生命与生存：基督教哲学](https://plato.stanford.edu/entries/michel-henry/#LifeLiviPhilChri)
-* [ 3. 美学](https://plato.stanford.edu/entries/michel-henry/#Aest)
-
+* [3. 美学](https://plato.stanford.edu/entries/michel-henry/#Aest)
   * [3.1 应用现象学：艺术与美学](https://plato.stanford.edu/entries/michel-henry/#ApplPhenArtAest)
   * [3.2 亨利的康定斯基现象学阅读](https://plato.stanford.edu/entries/michel-henry/#HenrPhenReadKand)
   * [3.3 特定艺术形式：从音乐到文学](https://plato.stanford.edu/entries/michel-henry/#PartArtFormMusiLite)
 * [4. 伦理学和政治哲学](https://plato.stanford.edu/entries/michel-henry/#EthiPoliPhil)
-
   * [4.1 艺术作为内在伦理](https://plato.stanford.edu/entries/michel-henry/#ArtIntrEthi)
   * [4.2 当代文化批判为“野蛮”](https://plato.stanford.edu/entries/michel-henry/#CritContCultBarb)
   * [4.3 基督教伦理学作为对绝对生命的认识](https://plato.stanford.edu/entries/michel-henry/#ChriEthiRecoAbsoLife)
   * [4.4 政治哲学](https://plato.stanford.edu/entries/michel-henry/#PoliPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/michel-henry/#Bib)
-
+* [参考文献](https://plato.stanford.edu/entries/michel-henry/#Bib)
   * [米歇尔·亨利的著作](https://plato.stanford.edu/entries/michel-henry/#WorkMichHenr)
-
-    * [ 主要作品](https://plato.stanford.edu/entries/michel-henry/#PrinWork)
-    * [ 小说](https://plato.stanford.edu/entries/michel-henry/#Nove)
-  * [ 二手文献](https://plato.stanford.edu/entries/michel-henry/#SecoLite)
-
-    * [ 精选作品](https://plato.stanford.edu/entries/michel-henry/#SeleWork)
+    * [主要作品](https://plato.stanford.edu/entries/michel-henry/#PrinWork)
+    * [小说](https://plato.stanford.edu/entries/michel-henry/#Nove)
+  * [二手文献](https://plato.stanford.edu/entries/michel-henry/#SecoLite)
+    * [精选作品](https://plato.stanford.edu/entries/michel-henry/#SeleWork)
     * [特别版期刊](https://plato.stanford.edu/entries/michel-henry/#SpecEditPeri)
-* [ 学术工具](https://plato.stanford.edu/entries/michel-henry/#Aca)
+* [学术工具](https://plato.stanford.edu/entries/michel-henry/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/michel-henry/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/michel-henry/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/michel-henry/#Rel)
 
----
+***
 
 ## 1. 生平与工作
 
@@ -43,11 +37,11 @@
 
 ## 2. 生命现象学与超验情感的概念
 
-自 1963 年出版《显现的本质》以来，亨利的整个作品都致力于系统地发展一种现象学，虽然它构建在现象学传统之内，但实质性地批判了不仅是古典胡塞尔现象学，还有胡塞尔一些最著名的继承者的作品：海德格尔、萨特和梅洛·庞蒂。亨利现象学的独创性在于，它认为意向性只是出现的两种模式之一。换句话说，亨利认为现象对我们的显现方式不能仅限于古典现象学所建议的“某物的意识”。相反，对于亨利来说，意向性意识必须建立在一种更基本的出现模式之上，这种模式恰恰是非意向性甚至*先验*意向性，因此与意向性本质上不同。正是这种基本的出现模式，亨利将其称为“情感性”、“悲情”或“生命”。
+自 1963 年出版《显现的本质》以来，亨利的整个作品都致力于系统地发展一种现象学，虽然它构建在现象学传统之内，但实质性地批判了不仅是古典胡塞尔现象学，还有胡塞尔一些最著名的继承者的作品：海德格尔、萨特和梅洛·庞蒂。亨利现象学的独创性在于，它认为意向性只是出现的两种模式之一。换句话说，亨利认为现象对我们的显现方式不能仅限于古典现象学所建议的“某物的意识”。相反，对于亨利来说，意向性意识必须建立在一种更基本的出现模式之上，这种模式恰恰是非意向性甚至_先验_意向性，因此与意向性本质上不同。正是这种基本的出现模式，亨利将其称为“情感性”、“悲情”或“生命”。
 
 ### 2.1 对意向性和本体论单一性的批判
 
-如果将亨利对意向性的批判理解为对胡塞尔现象学的批判，那么它实际上包含了一个更广泛的视角，其中包括对哲学史的“解构”，因为后者依赖于有限的显现或现象性概念。亨利认为，每种哲学都依赖于现象学的前提，因此，“对现象性的批判必然涉及到一般哲学”（PNI 105）。然而，现象性本身是现象学的对象。正如胡塞尔在他 1905 年的哥廷根讲座中所指出的，现象学关注的是对象如何呈现（Gegenstände im Wie，胡塞尔[GW]：117）。呈现的方式，即现身本身，因此是现象学必须调查的内容。然而，对于亨利来说，这种思路必须进一步包括一个事实，即现身本身必须呈现。亨利认为，由于事物本身无法自行成为现象，使它们呈现的东西本身必须呈现。否则，什么都不会出现（PNI 107-8）。因此，现象学不能简化为一种使我们看到事物如何呈现给我们的方法。相反，它通过问题“呈现如何呈现？”找到了适当的对象。然而，根据亨利对现象学传统的阐释，我们面临着一个非常奇特的情况，即意向性被认为是唯一的呈现方式。
+如果将亨利对意向性的批判理解为对胡塞尔现象学的批判，那么它实际上包含了一个更广泛的视角，其中包括对哲学史的“解构”，因为后者依赖于有限的显现或现象性概念。亨利认为，每种哲学都依赖于现象学的前提，因此，“对现象性的批判必然涉及到一般哲学”（PNI 105）。然而，现象性本身是现象学的对象。正如胡塞尔在他 1905 年的哥廷根讲座中所指出的，现象学关注的是对象如何呈现（Gegenstände im Wie，胡塞尔\[GW]：117）。呈现的方式，即现身本身，因此是现象学必须调查的内容。然而，对于亨利来说，这种思路必须进一步包括一个事实，即现身本身必须呈现。亨利认为，由于事物本身无法自行成为现象，使它们呈现的东西本身必须呈现。否则，什么都不会出现（PNI 107-8）。因此，现象学不能简化为一种使我们看到事物如何呈现给我们的方法。相反，它通过问题“呈现如何呈现？”找到了适当的对象。然而，根据亨利对现象学传统的阐释，我们面临着一个非常奇特的情况，即意向性被认为是唯一的呈现方式。
 
 由于意向性总是意识到意识本身以外的某物，正如萨特强调的那样，出现本质上变得“超验”，即指向自身之外的某物。这反过来取代了出现的问题，转而关注实体或存在物的出现，并最终将现象学的焦点集中在存在物（étants）上，因为它们出现了。这种倾向，即亨利所说的“本体论一元论”，在哲学史上占主导地位，导致将人类主体性简化为仅仅是指向外部的功能，并因此将其等同于外部性或“世界的超验”（EM 89）。亨利并不否认通过意向性的视角取得了决定性的成果，特别是在胡塞尔对诺意诺对象相关性的研究中（I 91）。然而，他的问题在于意向性本身，即关于使意向性成为可能的条件的超验问题。如果意向性可以接触对象，那么我们如何接触意向性本身，这种接触是否也是有意的？换句话说，意向性的呈现方式是否与对象的呈现方式相同？由本体论一元论构成的哲学视野的问题在于，它预设“将显现的本质理解为表象”，从而使“哲学思维无法接触到一个不是本质上接收外部内容的接收的概念”（EM 237）。
 
@@ -61,7 +55,7 @@
 
 亨利对现象学的方法可以进一步描述为“物质性的”，参照胡塞尔的“物质”概念（原始印象，作为意识的物质感知数据），不过有一个重要的区别。在胡塞尔看来，物质是原始物质，注定要被塑造成一种有意向性的形式（形态），只有通过这种塑造才能成为现象。而亨利的“物质现象学”则颠倒了物质与形态之间的关系，通过 1) 赋予物质自身的（自我）显现形式作为情感性，独立于意向性；以及 2) 将意向性基于情感性，后者成为前者的超验条件。正如亨利在《物质现象学》（1990）中所写：
 
-> 这种自我给予[...] 在结构上与“关联”有所不同。它本身并非“关联”，而是无法逾越地将其排除在外。它并非超越自身，而是根本内在。只有基于这种根本内在，才有可能出现超越的东西。视觉只有作为一种非视觉才得以实现[...]。这种非视觉，这种未见，这种无形，并非无意识。它并非现象性的否定，而是其首次现象化。它并非假设，而是我们生活中的非出神状态，但却不可否认的悲情。(MP 81)
+> 这种自我给予\[...] 在结构上与“关联”有所不同。它本身并非“关联”，而是无法逾越地将其排除在外。它并非超越自身，而是根本内在。只有基于这种根本内在，才有可能出现超越的东西。视觉只有作为一种非视觉才得以实现\[...]。这种非视觉，这种未见，这种无形，并非无意识。它并非现象性的否定，而是其首次现象化。它并非假设，而是我们生活中的非出神状态，但却不可否认的悲情。(MP 81)
 
 因此，亨利将他的现象学理解为与一元论彻底不同，因为它主张“出现的二重性”。如果非意向性的自我出现对于意向性的可能性是必要的，那么确实存在两种出现模式：一种是通过差异运作并将意向对象构成为超越的意向性出现；另一种是非意向性或“情感性”出现（apparaître pathétique，与“出神性出现”相对立，字面上翻译为“可怜的出现”，这个表达在亨利的翻译者中仍然存在争议），它在纯粹内在中给出，早于任何主客体分裂。
 
@@ -101,7 +95,7 @@
 
 但亨利强调艺术宗教起源也与艺术揭示的原初显现问题相关。在批判海德格尔时，亨利区分了存在与时间，一方面，以及受到赫尔德林和尼采影响的海德格尔后期文本，另一方面。关于存在与时间，亨利的反对态度显而易见：“原初的显现不是海德格尔所想的那个，它不是世界”，这意味着
 
-> 它不是一种超验的显现[... ]，因此它不是一个视野，而是我所说的生命，即，这不是他者的启示，不是向外部敞开，而是向内部敞开的启示。（AP 286）
+> 它不是一种超验的显现\[... ]，因此它不是一个视野，而是我所说的生命，即，这不是他者的启示，不是向外部敞开，而是向内部敞开的启示。（AP 286）
 
 艺术所指的原初显现是通过自我感动或悲情赋予的生命内在显现。从亨利的基本意义上讲，这种情感性的显现是在痛苦和喜悦中作为基本音调给出的。关于赫尔德林和尼采对希腊诸神的提及，这意味着狄奥尼索斯必须被视为“第一位神”，因为他是欲望之神，是生命在痛苦和喜悦中与自身联系的神（AP 287）。此外，狄奥尼索斯“没有世界”，但承受着自己悲情的重担，他试图通过产生阿波罗来摆脱，即光明之神，因此，远离悲情的希望。在这里，艺术成为一种光明之源，一种狄奥尼索斯努力摆脱痛苦的形象。然而，这并不是亨利对艺术的概念：正是在康定斯基的著作的影响下，他将艺术构想为“生命的强化”（AP 296），其中生命被理解为自我感动和原初显现。
 
@@ -111,7 +105,7 @@
 
 > 世界上没有红色。红色是一种感觉，这种感觉是绝对主观的，最初是看不见的。原始的颜色是看不见的；然而，它们通过投射的过程覆盖在事物上。(AP 290)
 
-对于画家来说，选择一种颜色取决于它的情感力量。绘画的对象不是世界，而是在某种意义上是情感本身。这适用于抽象绘画，显然不代表任何世俗对象，但也适用于任何其他形式的绘画。一幅简单复制世界所见的绘画将是完全“无足轻重”的。正如亨利所举的文艺复兴时期绘画的例子所示，即使是具象绘画——在这种情况下是对三博士来朝的描绘——也是根据它们的情感力量选择颜色，而不是根据“现实主义”的表现。因此，尽管为抽象绘画提供了理论基础，但实际上是康定斯基提供了一种绘画的理论。对于这样一种理论，形式与颜色非常相似，它们不是生活之外的实体，而是力量的表达(K 123)。康定斯基的形式理论——将点、平面和线作为其基本元素——因此等同于一种力量理论，这种力量并非存在于世界中，而是存在于我们通过主观生活的身体中(K 82)。这就是康定斯基绘画理论的本质：成为一种可见的构成，既表达又触及生活内在性。正如康定斯基自己承认的那样，绘画被赋予了与音乐相同的目的：表达“不是世界[...]而是生命和生命的基础”(“Dessiner la musique”, PHV III, 272)。
+对于画家来说，选择一种颜色取决于它的情感力量。绘画的对象不是世界，而是在某种意义上是情感本身。这适用于抽象绘画，显然不代表任何世俗对象，但也适用于任何其他形式的绘画。一幅简单复制世界所见的绘画将是完全“无足轻重”的。正如亨利所举的文艺复兴时期绘画的例子所示，即使是具象绘画——在这种情况下是对三博士来朝的描绘——也是根据它们的情感力量选择颜色，而不是根据“现实主义”的表现。因此，尽管为抽象绘画提供了理论基础，但实际上是康定斯基提供了一种绘画的理论。对于这样一种理论，形式与颜色非常相似，它们不是生活之外的实体，而是力量的表达(K 123)。康定斯基的形式理论——将点、平面和线作为其基本元素——因此等同于一种力量理论，这种力量并非存在于世界中，而是存在于我们通过主观生活的身体中(K 82)。这就是康定斯基绘画理论的本质：成为一种可见的构成，既表达又触及生活内在性。正如康定斯基自己承认的那样，绘画被赋予了与音乐相同的目的：表达“不是世界\[...]而是生命和生命的基础”(“Dessiner la musique”, PHV III, 272)。
 
 ### 3.3 特定艺术形式：从音乐到文学
 
@@ -133,7 +127,7 @@
 
 正如我们在上面所看到的，米歇尔·亨利明确地将伦理功能归因于艺术。这涉及两个基本概念：生命的“自我增长”（auto-accroissement）和生者与绝对生命之间的联系（后者在他的宗教哲学中尤为重要）。自我增长描述了生命固有的运动，即“生命中的‘我’”本身（AP 295）。然而，这样的运动并不仅仅是对不变状态的延续。自我经历主要是一种被动的经历（épreuve），在亨利的术语中是一种痛苦：我们既没有把自己带到存在中，也不会继续使自己存在。相反，正是绝对生命在我们“内部”产生了自己。但出于同样的原因，被动经历是主体性“重量”的体验之一，导致了发挥主观力量的冲动。或许类似于寻求在直觉中实现的有意行为，亨利关于自我增长的概念，在内在情感层面上，指的是主体性寻求在“我能”中发展其力量：
 
-> 每只眼睛[…]都想看到更多。当这种视觉能量被遵循并展示所看到的东西以及创造这种展示时，文化就存在了。现在对我们来说完全清楚的是，这种能量存在于视觉本身。也就是说，它存在于[…]它的自我增长中，存在于所谓的力量意志中。（B 100–1）
+> 每只眼睛\[…]都想看到更多。当这种视觉能量被遵循并展示所看到的东西以及创造这种展示时，文化就存在了。现在对我们来说完全清楚的是，这种能量存在于视觉本身。也就是说，它存在于\[…]它的自我增长中，存在于所谓的力量意志中。（B 100–1）
 
 在这种背景下，艺术作品被视为一种可能的中介，促进艺术家和观众的主观自我成长。然而，艺术并不仅限于主体性的加强。根据亨利的观点，艺术同时起着“提醒”的作用，提醒生命与绝对生命之间的联系，这正是伦理学的功能，即“让我们重温这种被遗忘的联系”（AP 296）。通过将 religio 从词源上理解为“联系”，亨利的美学不仅本质上是伦理的，也是本质上是宗教的。“艺术在其本质上是伦理的”，正如它是“一种宗教生活的形式”（AP 297），这一结论对于亨利来说既符合基督教的也符合尼采的艺术观。然而，由于美学不仅关注艺术而且包括所有感性经验，因此伦理相关的不仅仅是艺术，还有一切影响感性的事物，包括整个世界在文化形式和传统中的组织（B 102–3）。因此，亨利对当代文化的批判必须被视为他对伦理学方法的重要组成部分。
 
@@ -143,11 +137,11 @@
 
 鉴于它依赖于客体化，所谓的“伽利略原则”直接与亨利的内在情感哲学相对立。对于亨利来说，科学，包括现代的伽利略科学，仍然是一种高度精心制作的文化形式（B 62）。尽管“知识的喜悦并不总是像看起来那样无辜”，（B 72），但当科学转变为科学家意识形态，即当伽利略原则被转化为一个本体论主张，即最终现实仅通过客观可测量和可量化的方式给出时，文化与“野蛮主义”之间的界线被跨越。在这里，亨利对科技主义的批判与他对本体论单一主义的批判并行：在这两种情况下，被认为是唯一接近现实的是外在的显现，这等同于（意识形态或哲学上的）否定作为内在自我感的主体性。正如《显现的本质》中已经指出的，与黑格尔以及海德格尔相对立：
 
-> 物化是不可能的，除非最初使自己物化的本质最初到达自己[...]。本质最初到达自己并不是由物化构成的，正如黑格尔和海德格尔所希望的那样，它不可能成为其结果，这正是由于它是这种物化的条件。(EM 278)
+> 物化是不可能的，除非最初使自己物化的本质最初到达自己\[...]。本质最初到达自己并不是由物化构成的，正如黑格尔和海德格尔所希望的那样，它不可能成为其结果，这正是由于它是这种物化的条件。(EM 278)
 
 但“野蛮主义”的概念并不仅限于对科学意识形态及其物化范式的批判。更重要的是，它针对这种意识形态对日常实践层面的影响，亨利称之为“野蛮主义实践”。这种对术语“野蛮主义”的较为激烈的使用指的是那些使主观力量贫乏而非发展的实践。如果它包括野蛮主义的普通意义，即残暴和极端暴力，那么它绝不仅限于此，而是延伸到颠倒主体性固有的自我增长运动的各种实践形式。在社会层面上，“野蛮主义”的概念成为对弗洛伊德“文明的不安”重新诠释。“每当生命的能量闲置时，文明就会感到不安”，亨利解释道(B 103)。“颠倒”的实践形式因此说明了通过支配伽利略原理及其技术结果而导致主观实践异化。例如，关于电视的实践，亨利的批评针对的是不断从一个图像切换到另一个图像，使审美沉思成为不可能。作为其不稳定性的必然结果，电视图像也被认为是无关紧要的。如果它们具有任何意义，它们不仅会吸引注意力，还会引发思考和沉思。然而，这正是不间断的图像流所使不可能的。
 
-> 因此，出现和消失只是生命摆脱自身的持续行为。只有在这样的行为光芒下，消失才能变得完全可理解。这意味着图像的内容本身并不重要，它注定会被另一个取代。如果它能引起真正的注意，并具有自身的价值，那么这将意味着它将保留下来，而且对它的感知将引发观众感性和智力的增长。这将意味着心灵，专注于这种内在工作，将抓住图像[...]，在将其呈现给凝视的文化对象的全时空中。但是，在这种情况下，生命将不再试图在这样的图像中逃避自己；相反，它将在其中找到自己的完成，也就是说，在自身中。（B 111，编辑翻译）
+> 因此，出现和消失只是生命摆脱自身的持续行为。只有在这样的行为光芒下，消失才能变得完全可理解。这意味着图像的内容本身并不重要，它注定会被另一个取代。如果它能引起真正的注意，并具有自身的价值，那么这将意味着它将保留下来，而且对它的感知将引发观众感性和智力的增长。这将意味着心灵，专注于这种内在工作，将抓住图像\[...]，在将其呈现给凝视的文化对象的全时空中。但是，在这种情况下，生命将不再试图在这样的图像中逃避自己；相反，它将在其中找到自己的完成，也就是说，在自身中。（B 111，编辑翻译）
 
 正如这一段所示，“野蛮主义”的基本原则是逃离主体性，进入被技术科学掌控的匿名过程，然后逐渐用来取代生活实践。亨利对“野蛮主义”的概念可以与基尔凯郭尔的绝望概念联系起来，作为“死的病”（EM 680–1，B 64–66）。更确切地说，“野蛮主义”被视为绝望的最终形式，其中逃避自己作为生活主体性的欲望采取了否定生活纯粹简单的形式。重要的是要注意，对于亨利来说，这种欲望本身根植于生命，即内在情感，作为逃避生活必然经历的苦难色调的欲望。因此，“野蛮主义”是一个不可能实现的项目，因为生命即使通过逃避和否定的形式仍然保持自身，亨利毫不犹豫地将其描述为“疯狂”（B 52）。正是这种逃避的运动，亨利认识到构成了现代性的特征。
 
@@ -173,111 +167,111 @@ Page indications refer to the English translations when available
 
 #### Principal Works
 
-* *Le bonheur de Spinoza*, mémoire de fin d’étude (1943) reprinted in *Le bonheur de Spinoza suivi de: J.-M. Longneaux, “Étude sur le spinozisme de Michel Henry”*, Paris: Presses Universitaires de France, 2004.
-* **[EM]** *L’essence de la manifestation*, Paris: Presses Universitaires de France, 1963; second edition, 1990. English Translation by G. Etzkorn: *The Essence of Manifestation*, The Hague: Nijhoff, 1973; second edition, 2004.
-* *Philosophie et phénoménologie du corps. Essai d’ontologie biranienne*, Paris: Presses Universitaires de France, 1965. English translation by G. Etzkorn: *Philosophy and Phenomenology of the Body*, The Hague: Nijhoff, 1975.
-* *Marx*, 2 volumes, vol. 1: Une philosophie de la réalité, vol. 2: Une philosophie de l’économie. Paris: Gallimard, 1976. Partial English translation by K. McLaughlin: *Marx. A Philosophy of Human Reality*, Bloomington: Indiana University Press, 1983.
-* *Généalogie de la psychanalyse. Le commencement perdu*, Paris: Presses Universitaires de France, 1985. English translation by D. Brick : *The Genealogy of Psychoanalysis*, Stanford: Stanford University Press, 1993.
-* **[B]** *La barbarie*, Paris: Presses Universitaires de France, 19871, 20042. English translation by S. Davidson: *Barbarism*, London/ New York: Continuum, 2012.
-* **[K]** *Voir l’invisible. Sur Kandinsky*, Paris: Presses Universitaires de France, 19881, 20052. English translation by S. Davidson: *Seeing the Invisible. On Kandinsky*, London/New York: Continuum, 2009.
-* **[MP]** *Phénoménologie matérielle*, Paris: Presses Universitaires de France, 1990. English translation by S. Davidson: *Material Phenomenology*, New York: Fordham University Press, 2008.
-* *Du communisme au capitalisme. Théorie d’une catastrophe*, Paris: Odile Jacob, 1990. English translation by S. Davidson: *From Communism to Capitalism. Theory of a Catastrophe*, London: Bloomsbury Academic, 2014.
-* **[IAT]** *C’est moi la vérité. Pour une philosophie du christianisme*, Paris: Seuil, 1996. English translation by S. Emanuel: *I Am the Truth. Toward a Philosophy of Christianity*, Stanford: Stanford University Press, 2003.
-* **[I]** *Incarnation. Une philosophie de la chair*, Paris: Seuil, 2000. English translation by K. Hefty: *Incarnation. A Philosophy of Flesh*, Evanston: Northwestern University Press, 2015.
-* *Paroles du Christ*, Paris: Seuil, 2002. English translation by C. Gschwandtner: *Words of Christ*, Grand Rapids: Eerdmans, 2012.
-* **[PHV]** *Phénoménologie de la vie*, 4 volumes (collected articles): Volume I: De la phénoménologie. Paris: Presses Universitaires de France, 2003; Volume II: De la subjectivité. Paris: Presses Universitaires de France, 2003. Volume III: De l’art et du politique. Paris: Presses Universitaires de France, 2004. Volume IV: Sur l’éthique et la religion. Paris: Presses Universitaires de France, 2004.
-* *Auto-donation. Entretiens et conférences*, Paris: Beauchesne, 20021, 20042.
-* **[PNI]** “Phénoménologie non-intentionnelle: une tâche de la phénoménologie à venir”, in Janicaud, D. (ed.), *L’intentionnalité en question. Entre phénoménologie et sciences cognitives.* Paris: Vrin, 1995, 383–397; reprinted in *Phénoménologie de la vie*, vol. I, Paris, Presses Universitaires de France, 2003, 105–121 (translations by the author).
-* **[AP]** “Art et phénoménologie de la vie”, in *Prétentaine*, 6, 1996, 27–43; reprinted in *Phénoménologie de la vie*, vol. III, Paris: Presses Universitaires de France, 2004, 283–308 (translations by the author).
-* **[VR]** “La vie et la république”, in *Enseignement philosophique*, 3, 1989, 148–160; reprinted in *Phénoménologie de la vie*, vol. III, Paris: Presses Universitaires de France, 147–165. (translations mine)
-* **[DD]** “Difficile démocratie”, in David, A. and Greisch, J.(ed.), *Michel Henry*, *l’épreuve de la vie*, Paris: Cerf 2000, 39–54; reprinted in *Phénoménologie de la vie*, vol. III. Paris: Presses Universitaires de France, 2004, 167–182. (translations mine)
+* _Le bonheur de Spinoza_, mémoire de fin d’étude (1943) reprinted in _Le bonheur de Spinoza suivi de: J.-M. Longneaux, “Étude sur le spinozisme de Michel Henry”_, Paris: Presses Universitaires de France, 2004.
+* **\[EM]** _L’essence de la manifestation_, Paris: Presses Universitaires de France, 1963; second edition, 1990. English Translation by G. Etzkorn: _The Essence of Manifestation_, The Hague: Nijhoff, 1973; second edition, 2004.
+* _Philosophie et phénoménologie du corps. Essai d’ontologie biranienne_, Paris: Presses Universitaires de France, 1965. English translation by G. Etzkorn: _Philosophy and Phenomenology of the Body_, The Hague: Nijhoff, 1975.
+* _Marx_, 2 volumes, vol. 1: Une philosophie de la réalité, vol. 2: Une philosophie de l’économie. Paris: Gallimard, 1976. Partial English translation by K. McLaughlin: _Marx. A Philosophy of Human Reality_, Bloomington: Indiana University Press, 1983.
+* _Généalogie de la psychanalyse. Le commencement perdu_, Paris: Presses Universitaires de France, 1985. English translation by D. Brick : _The Genealogy of Psychoanalysis_, Stanford: Stanford University Press, 1993.
+* **\[B]** _La barbarie_, Paris: Presses Universitaires de France, 19871, 20042. English translation by S. Davidson: _Barbarism_, London/ New York: Continuum, 2012.
+* **\[K]** _Voir l’invisible. Sur Kandinsky_, Paris: Presses Universitaires de France, 19881, 20052. English translation by S. Davidson: _Seeing the Invisible. On Kandinsky_, London/New York: Continuum, 2009.
+* **\[MP]** _Phénoménologie matérielle_, Paris: Presses Universitaires de France, 1990. English translation by S. Davidson: _Material Phenomenology_, New York: Fordham University Press, 2008.
+* _Du communisme au capitalisme. Théorie d’une catastrophe_, Paris: Odile Jacob, 1990. English translation by S. Davidson: _From Communism to Capitalism. Theory of a Catastrophe_, London: Bloomsbury Academic, 2014.
+* **\[IAT]** _C’est moi la vérité. Pour une philosophie du christianisme_, Paris: Seuil, 1996. English translation by S. Emanuel: _I Am the Truth. Toward a Philosophy of Christianity_, Stanford: Stanford University Press, 2003.
+* **\[I]** _Incarnation. Une philosophie de la chair_, Paris: Seuil, 2000. English translation by K. Hefty: _Incarnation. A Philosophy of Flesh_, Evanston: Northwestern University Press, 2015.
+* _Paroles du Christ_, Paris: Seuil, 2002. English translation by C. Gschwandtner: _Words of Christ_, Grand Rapids: Eerdmans, 2012.
+* **\[PHV]** _Phénoménologie de la vie_, 4 volumes (collected articles): Volume I: De la phénoménologie. Paris: Presses Universitaires de France, 2003; Volume II: De la subjectivité. Paris: Presses Universitaires de France, 2003. Volume III: De l’art et du politique. Paris: Presses Universitaires de France, 2004. Volume IV: Sur l’éthique et la religion. Paris: Presses Universitaires de France, 2004.
+* _Auto-donation. Entretiens et conférences_, Paris: Beauchesne, 20021, 20042.
+* **\[PNI]** “Phénoménologie non-intentionnelle: une tâche de la phénoménologie à venir”, in Janicaud, D. (ed.), _L’intentionnalité en question. Entre phénoménologie et sciences cognitives._ Paris: Vrin, 1995, 383–397; reprinted in _Phénoménologie de la vie_, vol. I, Paris, Presses Universitaires de France, 2003, 105–121 (translations by the author).
+* **\[AP]** “Art et phénoménologie de la vie”, in _Prétentaine_, 6, 1996, 27–43; reprinted in _Phénoménologie de la vie_, vol. III, Paris: Presses Universitaires de France, 2004, 283–308 (translations by the author).
+* **\[VR]** “La vie et la république”, in _Enseignement philosophique_, 3, 1989, 148–160; reprinted in _Phénoménologie de la vie_, vol. III, Paris: Presses Universitaires de France, 147–165. (translations mine)
+* **\[DD]** “Difficile démocratie”, in David, A. and Greisch, J.(ed.), _Michel Henry_, _l’épreuve de la vie_, Paris: Cerf 2000, 39–54; reprinted in _Phénoménologie de la vie_, vol. III. Paris: Presses Universitaires de France, 2004, 167–182. (translations mine)
 
 #### Novels
 
-* *Le jeune officier*, Paris: Gallimard, 1954.
-* *L’amour les yeux fermés*, Paris: Gallimard, 19771, 19822.
-* *Le fils du roi.* Paris: Gallimard, 1981.
-* *Le cadavre indiscret*, Paris: Albin-Michel, 1996
+* _Le jeune officier_, Paris: Gallimard, 1954.
+* _L’amour les yeux fermés_, Paris: Gallimard, 19771, 19822.
+* _Le fils du roi._ Paris: Gallimard, 1981.
+* _Le cadavre indiscret_, Paris: Albin-Michel, 1996
 
 ### Secondary Literature
 
 #### Selected Works
 
-* Audi, P., 2006, *Michel Henry. Une trajectoire philosophique*, Paris: Les Belles Lettres.
-* Barbaras, R., 1991, “Le sens de l’auto-affection chez M. Henry et chez M. Merleau-Ponty”, *Epochè*, 2: 91–111.
-* Barbaras, R., 2012, “The Essence of Life: Desire or Drive?”, in Hanson, J. and Kelly, M. (eds.), 2012, *Michel Henry and the Affect of Thought*, London/New York: Continuum: 40–61.
-* Brohm, J.-M. and J. Leclercq. (eds.), 2009, *Michel Henry*, Lausanne: L’Âge d’Homme.
-* Capelle, Ph. (ed.), 2004, *Phénoménologie et christianisme chez Michel Henry. Les derniers écrits de Michel Henry en débat*, Paris: Cerf.
-* David, A. and J. Greisch. (eds.), 2001, *Michel Henry, l’épreuve de la vie*, Paris: Cerf.
-* Davidson,S. and F. Seyler. (eds.), 2019, *The Michel Henry Reader*, Evanston: Northwestern University Press.
-* Enders, M. (ed.), 2015, *Immanenz und Einheit. Festschrift zum 70. Geburtstag von Rolf Kühn*, Boston/Leiden: Brill Academic Publishers.
-* Fichte, J. G., 1806, *Die Anweisung zum seligen Leben oder auch die Religionslehre*, in *Gesamtausgabe der Bayerischen Akademie der Wissenschaften*, Vol. I, 9, Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1995. English translation by W. Smith, *The Way Towards the Blessed Life or The Doctrine of Religion*, London: Chapman, 1849.
-* Garcia-Baro, M., 1997, “Introduccion a la teoria de la verdad de Michel Henry”, *Dialogo Filosofico*, 38: 189–202.
-* Gély, R., 2007, *Rôles, action sociale et vie subjective. Recherches à partir de la phénoménologie de Michel*, Bruxelles: Lang.
-* Green, G., 2012, “Kant and Henry: An Inheritance of Idealism and a ‘Turn’ for Phenomenology”, *Analecta Hermeneutica*, 4: 1–19.
-* Grätzel, S. and F. Seyler (eds.), 2013, *Sein, Existenz, Leben: Michel Henry und Martin Heidegger*, Freiburg i. Br.: Alber.
-* Gschwandtner, C., 2010, “Can We Hear the Voice of God? Michel Henry and Words of Christ”, in Benson, B.E. and Wirzba, W. (eds.), 2010, *Words of Life. New Theological Turns in French Phenomenology.* New York: Fordham University Press: 147–157.
-* Haar, M., 1987, “Michel Henry entre phénoménologie et métaphysique”, *Philosophie*, 15: 30–59.
-* Hanson, J. and M. Kelly (eds.), 2012, *Michel Henry and the Affect of Thought*, London/New York: Continuum.
-* Hart, J., 1999, “A Phenomenological Theory and Critique of Culture: A Reading of Michel Henry’s *La barbarie*”, *Continental Philosophy Review*, 32(3): 255–270.
-* Hatem, J.(ed.), 2003, *Michel Henry. La parole de la vie*, Paris: L’Harmattan.
-* Husserl, E., [GW], *Gesammelte Werke*, Vol. X, The Hague: Nijhoff, 1966.
-* Janicaud, D., 1991, *Le tournant théologique de la phénoménologie française.* Combas: Éclat. English translation by B. C. Prusak: *The French Debate. Part I: The Theological Turn of French Phenomenology*, New York: Fordham University Press 2004.
-* Jean, G., 2015, *Force et temps. Essai sur le vitalisme phénoménologique de Michel Henry*, Paris: Hermann.
-* Jean, G. and J. Leclercq (eds.), 2014, *Lectures de Michel Henry: Enjeux et perspectives*, Louvain: Presses Universitaires de Louvain.
-* Jdey, A. and R. Kühn (eds.), 2011, *Michel Henry et l’affect de l’art. Recherches sur l’esthétique* *de la phénoménologie matérielle*, Boston/Leiden: Brill Academic Publishers.
-* Kawase, M., 2012, “Genjitsukan no genshogaku: Michel Henry to Kimura Bin” [The Sentiment of Reality: Michel Henry and Kimura Bin], *Ritsumeikan bungaku*, 625: 1077–1089.
-* Kühn, R., 1992, *Leiblichkeit als Lebendigkeit. Michel Henrys Phänomenologie absoluter Subjektivität als Affektivität*, Freiburg i. Br.: Alber.
-* –––, 2003, *Radicalité et passibilité. Pour une phénoménologie pratique*, Paris: L’Harmattan.
-* –––, 2016, *Wie das Leben spricht: Narrativität als radikale Lebensphänomenologie. Neuere Studien zu Michel Henry*, Dordrecht: Spinger.
-* –––, 2019, “‘Vitalismus’ und reine Potenzialität bei Michel Henry”, *Phänomenologische Forschungen*, 1: 53–70.
-* Kühn, R. and S. Nowotny (eds.), 2002, *Michel Henry: Selbsterprobung des Lebens und der Kultur*, Freiburg/München: Alber.
-* Laoureux, S., 2005, *L’immanence à la limite*, Paris: Cerf.
-* Lavigne, J.-F. (ed.), 2006, *Michel Henry. Pensée de la vie et culture contemporaine*, Actes du colloque international de Montpellier 3–5 décembre 2003. Paris: Beauchesne.
-* –––, 2009, “The Paradox and Limits of Michel Henry’s Concept of Transcendence”, *International Journal of Philosophical Studies*, 17(3): 377–388.
-* –––, 2011, “Souffrance et ipséité selon Michel Henry”, *Cahiers Philosophiques*, 3: 66–81.
-* Longneaux, J.-M., 2004,“Étude sur le spinozisme de Michel Henry”, in M. Henry, *Le bonheur de Spinoza, suivi de: J.-M. Longneaux, “Étude sur le spinozisme de Michel Henry”*, Paris: Presses Universitaires de France, 2004, 153–429.
-* Martins, F., 2004, “Michel Henry: beatitude e fenomenologia”, *Revista Portuguesa de Filosofia*, 60(4): 1031–1040.
-* O’Sullivan, M., 2006, *Incarnation, Barbarism and Belief. An Introduction to the Work of Michel Henry*, Bern: Lang.
-* Ricoeur, P., 2014, “Le Marx de Michel Henry”, in Jean, G. and Leclercq, J. (eds.), 2014, *Lectures de Michel Henry: Enjeux et perspectives*, Louvain: Presses Universitaires de Louvain: 161–183.
-* Rivera, J., 2015, *The Contemplative Self after Michel Henry*, Notre Dame: Notre Dame University Press.
-* Sebbah, J.-D., 2001, *L’épreuve de la limite*, *Derrida, Henry, Levinas et la phénoménologie*, Paris: Presses Universitaires de France. English translation by S. Barker: *Testing the Limit: Derrida, Henry, Levinas, and the Phenomenological Tradition*, Stanford: Stanford University Press 2012.
-* Seyler, F., 2009, “Michel Henry et la critique du politique”, *Studia Phaenomenologica*, IX: 351–377.
-* –––, 2010, *Barbarie ou culture: L’éthique de l’affectivité dans la phénoménologie de Michel Henry*, Paris: Kimé.
-* –––, 2014, “Fichte in 1804: A Radical Phenomenology of Life? On a Possible Comparison Between the 1804 *Wissenschaftslehre* and Michel Henry’s Phenomenology”, *Journal of Speculative Philosophy*, 28(3): 295–304.
-* Staudigl, M., 2009, “From the ‘Metaphysics of the Individual’ to the Critique of Society: On the Practical Significance of Michel Henry’s Phenomenology of Life”, *Continental Philosophy Review*, 45(3), 339–361.
-* Steinbock, A., 1999, “The Problem of Forgetfulness in Michel Henry”, *Continental Philosophy Review*, 32(3): 271–302.
-* Vidalin, A., 2012, *Acte du Christ et actes de l’homme. La théologie morale à l’épreuve de la phénoménologie de la vie*, Paris: Parole et Silence.
+* Audi, P., 2006, _Michel Henry. Une trajectoire philosophique_, Paris: Les Belles Lettres.
+* Barbaras, R., 1991, “Le sens de l’auto-affection chez M. Henry et chez M. Merleau-Ponty”, _Epochè_, 2: 91–111.
+* Barbaras, R., 2012, “The Essence of Life: Desire or Drive?”, in Hanson, J. and Kelly, M. (eds.), 2012, _Michel Henry and the Affect of Thought_, London/New York: Continuum: 40–61.
+* Brohm, J.-M. and J. Leclercq. (eds.), 2009, _Michel Henry_, Lausanne: L’Âge d’Homme.
+* Capelle, Ph. (ed.), 2004, _Phénoménologie et christianisme chez Michel Henry. Les derniers écrits de Michel Henry en débat_, Paris: Cerf.
+* David, A. and J. Greisch. (eds.), 2001, _Michel Henry, l’épreuve de la vie_, Paris: Cerf.
+* Davidson,S. and F. Seyler. (eds.), 2019, _The Michel Henry Reader_, Evanston: Northwestern University Press.
+* Enders, M. (ed.), 2015, _Immanenz und Einheit. Festschrift zum 70. Geburtstag von Rolf Kühn_, Boston/Leiden: Brill Academic Publishers.
+* Fichte, J. G., 1806, _Die Anweisung zum seligen Leben oder auch die Religionslehre_, in _Gesamtausgabe der Bayerischen Akademie der Wissenschaften_, Vol. I, 9, Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1995. English translation by W. Smith, _The Way Towards the Blessed Life or The Doctrine of Religion_, London: Chapman, 1849.
+* Garcia-Baro, M., 1997, “Introduccion a la teoria de la verdad de Michel Henry”, _Dialogo Filosofico_, 38: 189–202.
+* Gély, R., 2007, _Rôles, action sociale et vie subjective. Recherches à partir de la phénoménologie de Michel_, Bruxelles: Lang.
+* Green, G., 2012, “Kant and Henry: An Inheritance of Idealism and a ‘Turn’ for Phenomenology”, _Analecta Hermeneutica_, 4: 1–19.
+* Grätzel, S. and F. Seyler (eds.), 2013, _Sein, Existenz, Leben: Michel Henry und Martin Heidegger_, Freiburg i. Br.: Alber.
+* Gschwandtner, C., 2010, “Can We Hear the Voice of God? Michel Henry and Words of Christ”, in Benson, B.E. and Wirzba, W. (eds.), 2010, _Words of Life. New Theological Turns in French Phenomenology._ New York: Fordham University Press: 147–157.
+* Haar, M., 1987, “Michel Henry entre phénoménologie et métaphysique”, _Philosophie_, 15: 30–59.
+* Hanson, J. and M. Kelly (eds.), 2012, _Michel Henry and the Affect of Thought_, London/New York: Continuum.
+* Hart, J., 1999, “A Phenomenological Theory and Critique of Culture: A Reading of Michel Henry’s _La barbarie_”, _Continental Philosophy Review_, 32(3): 255–270.
+* Hatem, J.(ed.), 2003, _Michel Henry. La parole de la vie_, Paris: L’Harmattan.
+* Husserl, E., \[GW], _Gesammelte Werke_, Vol. X, The Hague: Nijhoff, 1966.
+* Janicaud, D., 1991, _Le tournant théologique de la phénoménologie française._ Combas: Éclat. English translation by B. C. Prusak: _The French Debate. Part I: The Theological Turn of French Phenomenology_, New York: Fordham University Press 2004.
+* Jean, G., 2015, _Force et temps. Essai sur le vitalisme phénoménologique de Michel Henry_, Paris: Hermann.
+* Jean, G. and J. Leclercq (eds.), 2014, _Lectures de Michel Henry: Enjeux et perspectives_, Louvain: Presses Universitaires de Louvain.
+* Jdey, A. and R. Kühn (eds.), 2011, _Michel Henry et l’affect de l’art. Recherches sur l’esthétique_ _de la phénoménologie matérielle_, Boston/Leiden: Brill Academic Publishers.
+* Kawase, M., 2012, “Genjitsukan no genshogaku: Michel Henry to Kimura Bin” \[The Sentiment of Reality: Michel Henry and Kimura Bin], _Ritsumeikan bungaku_, 625: 1077–1089.
+* Kühn, R., 1992, _Leiblichkeit als Lebendigkeit. Michel Henrys Phänomenologie absoluter Subjektivität als Affektivität_, Freiburg i. Br.: Alber.
+* –––, 2003, _Radicalité et passibilité. Pour une phénoménologie pratique_, Paris: L’Harmattan.
+* –––, 2016, _Wie das Leben spricht: Narrativität als radikale Lebensphänomenologie. Neuere Studien zu Michel Henry_, Dordrecht: Spinger.
+* –––, 2019, “‘Vitalismus’ und reine Potenzialität bei Michel Henry”, _Phänomenologische Forschungen_, 1: 53–70.
+* Kühn, R. and S. Nowotny (eds.), 2002, _Michel Henry: Selbsterprobung des Lebens und der Kultur_, Freiburg/München: Alber.
+* Laoureux, S., 2005, _L’immanence à la limite_, Paris: Cerf.
+* Lavigne, J.-F. (ed.), 2006, _Michel Henry. Pensée de la vie et culture contemporaine_, Actes du colloque international de Montpellier 3–5 décembre 2003. Paris: Beauchesne.
+* –––, 2009, “The Paradox and Limits of Michel Henry’s Concept of Transcendence”, _International Journal of Philosophical Studies_, 17(3): 377–388.
+* –––, 2011, “Souffrance et ipséité selon Michel Henry”, _Cahiers Philosophiques_, 3: 66–81.
+* Longneaux, J.-M., 2004,“Étude sur le spinozisme de Michel Henry”, in M. Henry, _Le bonheur de Spinoza, suivi de: J.-M. Longneaux, “Étude sur le spinozisme de Michel Henry”_, Paris: Presses Universitaires de France, 2004, 153–429.
+* Martins, F., 2004, “Michel Henry: beatitude e fenomenologia”, _Revista Portuguesa de Filosofia_, 60(4): 1031–1040.
+* O’Sullivan, M., 2006, _Incarnation, Barbarism and Belief. An Introduction to the Work of Michel Henry_, Bern: Lang.
+* Ricoeur, P., 2014, “Le Marx de Michel Henry”, in Jean, G. and Leclercq, J. (eds.), 2014, _Lectures de Michel Henry: Enjeux et perspectives_, Louvain: Presses Universitaires de Louvain: 161–183.
+* Rivera, J., 2015, _The Contemplative Self after Michel Henry_, Notre Dame: Notre Dame University Press.
+* Sebbah, J.-D., 2001, _L’épreuve de la limite_, _Derrida, Henry, Levinas et la phénoménologie_, Paris: Presses Universitaires de France. English translation by S. Barker: _Testing the Limit: Derrida, Henry, Levinas, and the Phenomenological Tradition_, Stanford: Stanford University Press 2012.
+* Seyler, F., 2009, “Michel Henry et la critique du politique”, _Studia Phaenomenologica_, IX: 351–377.
+* –––, 2010, _Barbarie ou culture: L’éthique de l’affectivité dans la phénoménologie de Michel Henry_, Paris: Kimé.
+* –––, 2014, “Fichte in 1804: A Radical Phenomenology of Life? On a Possible Comparison Between the 1804 _Wissenschaftslehre_ and Michel Henry’s Phenomenology”, _Journal of Speculative Philosophy_, 28(3): 295–304.
+* Staudigl, M., 2009, “From the ‘Metaphysics of the Individual’ to the Critique of Society: On the Practical Significance of Michel Henry’s Phenomenology of Life”, _Continental Philosophy Review_, 45(3), 339–361.
+* Steinbock, A., 1999, “The Problem of Forgetfulness in Michel Henry”, _Continental Philosophy Review_, 32(3): 271–302.
+* Vidalin, A., 2012, _Acte du Christ et actes de l’homme. La théologie morale à l’épreuve de la phénoménologie de la vie_, Paris: Parole et Silence.
 * Yamagata, Y., 2006, “Le langage du sentiment”, in Lavigne 2006: 261–274.
-* Zahavi, D., 1999, “Michel Henry and the Phenomenology of the Invisible”, *Continental Philosophy Review*, 32(3): 223–240.
+* Zahavi, D., 1999, “Michel Henry and the Phenomenology of the Invisible”, _Continental Philosophy Review_, 32(3): 223–240.
 
 #### Special Edition Periodicals
 
-* *Philosophie*, XV, 1987.
-* *Les Etudes philosophiques*, I, 1988.
-* *Annales de philosophie de Beyrouth*, 16, 1995 & 18, 1997.
-* *Communio*, XXI, 1996.
-* *Continental Philosophy Review*, 32(3), 1999.
-* *Revue philosophique de la France et de l’étranger*, 3, 2001.
-* *Etudes phénoménologiques*, 39–40, 2004.
-* *Phainomenon*, 13, 2006.
-* *Studia Phaenomenologica*, IX, 2009.
-* *International Journal for Philosophical Studies*, 17(3), 2009.
-* *Cahiers philosophiques de Strasbourg*, 30, 2011.
-* *Cahiers philosophiques*, 126(3), 2011.
-* *Alea. International Journal for Phenomenology and Hermeneutics*, 10, 2012
-* *Journal of French and Francophone Philosophy—Revue de philosophie française et de langue française*, XX(2), 2012.
-* *Revue Internationale Michel Henry* (Journal, since 2010).
-* *Michel Henry kenkyu* (Journal in Japanese, since 2011).
-* *Analecta Hermeneutica*, vol. 8, 2016.
+* _Philosophie_, XV, 1987.
+* _Les Etudes philosophiques_, I, 1988.
+* _Annales de philosophie de Beyrouth_, 16, 1995 & 18, 1997.
+* _Communio_, XXI, 1996.
+* _Continental Philosophy Review_, 32(3), 1999.
+* _Revue philosophique de la France et de l’étranger_, 3, 2001.
+* _Etudes phénoménologiques_, 39–40, 2004.
+* _Phainomenon_, 13, 2006.
+* _Studia Phaenomenologica_, IX, 2009.
+* _International Journal for Philosophical Studies_, 17(3), 2009.
+* _Cahiers philosophiques de Strasbourg_, 30, 2011.
+* _Cahiers philosophiques_, 126(3), 2011.
+* _Alea. International Journal for Phenomenology and Hermeneutics_, 10, 2012
+* _Journal of French and Francophone Philosophy—Revue de philosophie française et de langue française_, XX(2), 2012.
+* _Revue Internationale Michel Henry_ (Journal, since 2010).
+* _Michel Henry kenkyu_ (Journal in Japanese, since 2011).
+* _Analecta Hermeneutica_, vol. 8, 2016.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=michel-henry). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/michel-henry/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=michel-henry&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/michel-henry/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=michel-henry).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/michel-henry/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=michel-henry\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/michel-henry/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
@@ -286,7 +280,7 @@ Page indications refer to the English translations when available
 
 ## Related Entries
 
-[Heidegger, Martin](https://plato.stanford.edu/entries/heidegger/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [Levinas, Emmanuel](https://plato.stanford.edu/entries/levinas/) | [Meister Eckhart](https://plato.stanford.edu/entries/meister-eckhart/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/)
+[Heidegger, Martin](https://plato.stanford.edu/entries/heidegger/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [Levinas, Emmanuel](https://plato.stanford.edu/entries/levinas/) | [Meister Eckhart](https://plato.stanford.edu/entries/meister-eckhart/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Frédéric Seyler <[*fseyler@depaul.edu*](mailto:fseyler%40depaul%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Frédéric Seyler <[_fseyler@depaul.edu_](mailto:fseyler%40depaul%2eedu)>

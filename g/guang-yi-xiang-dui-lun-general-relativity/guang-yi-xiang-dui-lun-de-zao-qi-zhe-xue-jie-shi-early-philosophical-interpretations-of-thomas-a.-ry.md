@@ -1,6 +1,6 @@
 # 广义相对论的早期哲学解释 early philosophical interpretations of (Thomas A. Ryckman)
 
-*首次发表于 2001 年 11 月 28 日星期三；实质性修订于 2024 年 4 月 4 日星期四*
+_首次发表于 2001 年 11 月 28 日星期三；实质性修订于 2024 年 4 月 4 日星期四_
 
 广义相对论的早期哲学解释选择了该理论的不同方面来赞扬或偏爱认可。马赫的实证主义追随者最初赞扬爱因斯坦试图实施“惯性的相对化”——大致上，即身体的惯性（惯性质量，局部惯性行为）是由所有其他质量的存在所导致的——在广义理论中。但马赫派对该理论在数学构建和实验测试之间的前所未有的距离感到畏惧，最终更愿意接受爱因斯坦在特殊理论中对远距同时性概念的操作主义处理。康德主义者和新康德主义者，如果不受对“超验美学”和“超验分析”的严格忠诚的约束，转而转向“超验辩证法”。他们指出（正如爱因斯坦自己在后来的岁月中所做的）广义理论中某些“智力形式”的超越重要性，尤其是广义协变性原理。因此，该原理被视为不仅仅是坐标普遍性的一种形式原则，而是一种“规范性观念”，对任何基本物理理论的约束（大致意味着空间和时间是事件的相对顺序的关系，物理定律不应依赖于任何特定坐标系标记时空事件）。
 
@@ -8,25 +8,21 @@
 
 * [1. 寻找哲学新颖性](https://plato.stanford.edu/entries/genrel-early/#SearForPhilNove)
 * [2. 马赫实证主义](https://plato.stanford.edu/entries/genrel-early/#MachPosi)
-
   * [2.1 在早期的爱因斯坦](https://plato.stanford.edu/entries/genrel-early/#EarlEins)
   * [2.2 “惯性的相对化”？](https://plato.stanford.edu/entries/genrel-early/#RelaIner)
   * [2.3 实证主义和“洞论证”](https://plato.stanford.edu/entries/genrel-early/#PosiHoleArgu)
-  * [ 2.4 &quot;马赫原理&quot;](https://plato.stanford.edu/entries/genrel-early/#MachPrin)
+  * [2.4 "马赫原理"](https://plato.stanford.edu/entries/genrel-early/#MachPrin)
   * [2.5 新兴反实证主义](https://plato.stanford.edu/entries/genrel-early/#EmerAntiPosi)
 * [3. 康德主义和新康德主义解释](https://plato.stanford.edu/entries/genrel-early/#KantNeoKantInte)
-
   * [3.1 特殊相对论的新康德主义者](https://plato.stanford.edu/entries/genrel-early/#NeoKantSpecRela)
   * [3.2 免疫策略](https://plato.stanford.edu/entries/genrel-early/#ImmuStra)
   * [3.3 拒绝或翻新超验美学](https://plato.stanford.edu/entries/genrel-early/#RejeRefuTranAest)
   * [3.4 广义相对论： “决定的统一”的综合原则](https://plato.stanford.edu/entries/genrel-early/#GeneCovaSyntPrinUnitDete)
 * [4. 逻辑经验主义](https://plato.stanford.edu/entries/genrel-early/#LogiEmpi)
-
   * [4.1 方法论的教训？](https://plato.stanford.edu/entries/genrel-early/#LessMeth)
   * [4.2 从“相对化的先验”到“几何的相对性”](https://plato.stanford.edu/entries/genrel-early/#RelaPrioRelaGeom)
   * [4.3 批判赖希巴赫的度规约定论](https://plato.stanford.edu/entries/genrel-early/#CritReicMetrConv)
 * [5. “物理的几何化”：柏拉图主义、先验唯心主义、结构主义](https://plato.stanford.edu/entries/genrel-early/#GeomPhysPlatTranIdeaStru)
-
   * [5.1 不同的动机](https://plato.stanford.edu/entries/genrel-early/#DiffMoti)
   * [5.2 初步：将引力“几何化”](https://plato.stanford.edu/entries/genrel-early/#InitStepGeomGrav)
   * [5.3 扩展几何化](https://plato.stanford.edu/entries/genrel-early/#ExteGeom)
@@ -34,12 +30,12 @@
   * [5.5 埃丁顿的世界几何学](https://plato.stanford.edu/entries/genrel-early/#EddiWorlGeom)
   * [5.6 梅耶森关于“泛几何主义”](https://plato.stanford.edu/entries/genrel-early/#MeyePang)
   * [5.7 “结构实在论”？](https://plato.stanford.edu/entries/genrel-early/#StruReal)
-* [ 参考文献](https://plato.stanford.edu/entries/genrel-early/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/genrel-early/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/genrel-early/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/genrel-early/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/genrel-early/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/genrel-early/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/genrel-early/#Rel)
 
----
+***
 
 ## 1. 寻找哲学新颖性
 
@@ -53,13 +49,13 @@
 
 ### 2.1 在爱因斯坦的早期
 
-爱因斯坦在他几乎完全专注于相对论引力理论（1909-1915）之前的大部分早期论文（1902-1911）并不是关于相对论的理论，而是关于普朗克在 1900 年发现他的同名能量常数所提出的经典物理问题。这些早期作品显示，爱因斯坦是路德维希·玻尔兹曼的坚定支持者，而不是欧内斯特·马赫在世纪之交关于原子论的辩论中的支持者（Ryckman 2017：第 3 章）。然而，在 1912 年，爱因斯坦的名字与哥廷根数学家大卫·希尔伯特和菲利克斯·克莱因的名字一起，在《自然科学评论》27:336 中显著地展示出来，他们与马赫一起呼吁成立一个“实证哲学协会”。引用科学“但也是我们这个时代的”对“基于个别科学积累的综合世界观”的迫切需要，这一呼吁似乎首先是一场有组织的企图，旨在在马克的实证主义科学观面临马克斯·普朗克最近批评的情况下支持马赫的科学观。这更像是一种效忠宣言，而不是学术中立的行为，它证明了爱因斯坦年轻时对马赫的某些著作的热情。爱因斯坦晚年（1949a：21）写道，“马赫的《力学科学》（1883）对他作为学生产生了“深远的影响”，并且在他年轻的时候，“马赫的认识论立场”产生了“非常大的影响”。早在狭义相对论（1905）中，爱因斯坦对“远距离事件的同时性”的操作定义，即通过发送和接收光信号来同步远距离时钟，与马赫的力学中质量的操作定义非常相似。此外，偶尔的认识论和方法论声明似乎表明了对实证主义有意义的核心部分的认同，例如，“物理学家直到他有可能发现它在实际情况中是否成立之前，这个概念对他来说是不存在的”（1917a [1955：22]）。因此，广义相对论可以被视为完全符合马赫将理论概念仅仅视为具体观察或操作的经济简写的特征。
+爱因斯坦在他几乎完全专注于相对论引力理论（1909-1915）之前的大部分早期论文（1902-1911）并不是关于相对论的理论，而是关于普朗克在 1900 年发现他的同名能量常数所提出的经典物理问题。这些早期作品显示，爱因斯坦是路德维希·玻尔兹曼的坚定支持者，而不是欧内斯特·马赫在世纪之交关于原子论的辩论中的支持者（Ryckman 2017：第 3 章）。然而，在 1912 年，爱因斯坦的名字与哥廷根数学家大卫·希尔伯特和菲利克斯·克莱因的名字一起，在《自然科学评论》27:336 中显著地展示出来，他们与马赫一起呼吁成立一个“实证哲学协会”。引用科学“但也是我们这个时代的”对“基于个别科学积累的综合世界观”的迫切需要，这一呼吁似乎首先是一场有组织的企图，旨在在马克的实证主义科学观面临马克斯·普朗克最近批评的情况下支持马赫的科学观。这更像是一种效忠宣言，而不是学术中立的行为，它证明了爱因斯坦年轻时对马赫的某些著作的热情。爱因斯坦晚年（1949a：21）写道，“马赫的《力学科学》（1883）对他作为学生产生了“深远的影响”，并且在他年轻的时候，“马赫的认识论立场”产生了“非常大的影响”。早在狭义相对论（1905）中，爱因斯坦对“远距离事件的同时性”的操作定义，即通过发送和接收光信号来同步远距离时钟，与马赫的力学中质量的操作定义非常相似。此外，偶尔的认识论和方法论声明似乎表明了对实证主义有意义的核心部分的认同，例如，“物理学家直到他有可能发现它在实际情况中是否成立之前，这个概念对他来说是不存在的”（1917a \[1955：22]）。因此，广义相对论可以被视为完全符合马赫将理论概念仅仅视为具体观察或操作的经济简写的特征。
 
 ### 2.2 惯性的“相对化”？
 
 与广义相对论相关的马赫影响似乎更加广泛。马赫的固定观念是，物体的惯性质量和行为是由周围所有其他物质的影响所导致的（从而消除了“怪诞”的牛顿绝对空间的概念），这可能是引导爱因斯坦追求相对论引力理论的最强动机。在 1916 年最终提出广义相对论之前的论文中，爱因斯坦毫不掩饰地表示，马赫是启发他进行一次认识论上的尝试来推广相对性原理的灵感。与马赫一样，认为不可能将任何可观察的事实与绝对加速度或绝对惯性（即抵抗加速度）的概念联系起来（即，自然法则完全独立于任何选择的参考系的运动状态），这一概括要求自然法则完全独立于任何选择的参考系的运动状态。事实上，在努力完全相对化惯性时，爱因斯坦将自然法则的形式不变性原则（广义协变性，请参见下文）与虚假的“广义相对性原则”混为一谈，根据这一原则，加速运动（如旋转）将相对于观察者的运动状态。在完成他的理论的最终呈现的几天后，爱因斯坦对马赫的热情的讣告中，他广泛引用了马赫的《力学》中批评牛顿关于空间、时间和运动的“绝对”概念的著名段落，并慷慨地承认，马赫对力学原理的理解使他在半个世纪前就非常接近要求一个广义相对论（1916b：102-3）。毫无疑问，后来与维也纳学派有关的物理学家菲利普·弗兰克观察到
 
-> 众所周知，爱因斯坦的广义相对论立即源自实证主义对空间和运动的信条。（1917 [1949: 68]）
+> 众所周知，爱因斯坦的广义相对论立即源自实证主义对空间和运动的信条。（1917 \[1949: 68]）
 
 但是，如上所述，爱因斯坦的“广义相对性原理”既有真实的，也有虚假的方面，这种混合又被爱因斯坦自己关于广义协变性原理的令人困惑的言论所复杂化。
 
@@ -67,7 +63,7 @@
 
 爱因斯坦在他第一次完整阐述广义相对论的作品（1916a）的第 3 节中的一段文字似乎为马赫实证主义的磨坊提供了更多的燃料。在那里，爱因斯坦雄辩地宣称引力场方程需要广义协变性（即在时空坐标的任意但可逆和适当连续的变换下，它们在形式上保持不变），“从空间和时间中夺走了最后的物体性的残余”（翻译自达里戈尔（2022 年，第 354 页）爱因斯坦的术语 Gegenständlichkeit）。对这一主张背后的启发性反思，似乎不过是对马赫的现象主义的明确支持。“爱因斯坦写道，我们所有的时空验证最终都归结为对时空巧合的确定……”。这是因为，爱因斯坦假设，所有物理测量的结果最终都可以归结为对这种巧合的验证，比如观察时钟秒针与表盘上的标记的巧合，或者两个物体的世界线的交点。爱因斯坦观察到，这种（拓扑）关系在任意坐标变换下都保持不变，因此得出结论：“我们所有的物理经验最终都可以归结为这种巧合”。对马赫的追随者来说，爱因斯坦的说明性反思不过是对马赫现象主义认识论的明确肯定，即只有感觉（Empfindungen），直接经历的感知知觉，才是真实和可知的。因此，马赫主义哲学家、马赫力学第 8 版的编辑约瑟夫·佩茨霍尔特（Josef Petzoldt）指出，爱因斯坦的言论意味着这一理论“最终建立在对感觉巧合的感知上”，因此“与马赫的世界观完全一致，最好的表述是相对主义实证主义”（1921 年：516）。
 
-但是，当代学术研究表明，爱因斯坦在这里的言论只是对一个论点（所谓的“洞论证”）的简略提及，这个论点只有从他的私人信件中完全重建出来。其结论是，如果一个理论是广义不变的，时空流形的裸点就没有固有的原始身份（比如说，从流形的基础拓扑结构继承而来），因此也没有与物理现实独立的实在性，特别是与爱因斯坦场方程的一个特定解所关联的度规场的数值独立（Stachel 1980；Norton 1984，1993）。因此对于一个广义不变的理论，没有任何物理现实可以积累到“空间”空无一物的状态中。在爱因斯坦的修辞修饰中，广义不变性“夺走了空间和时间最后的物理客观性”；他本应该说的是，时空没有独立于物质分布之外的固有度规结构[参见洞论证条目]。因此，这段文字实际上并不是对实证主义现象主义的支持。
+但是，当代学术研究表明，爱因斯坦在这里的言论只是对一个论点（所谓的“洞论证”）的简略提及，这个论点只有从他的私人信件中完全重建出来。其结论是，如果一个理论是广义不变的，时空流形的裸点就没有固有的原始身份（比如说，从流形的基础拓扑结构继承而来），因此也没有与物理现实独立的实在性，特别是与爱因斯坦场方程的一个特定解所关联的度规场的数值独立（Stachel 1980；Norton 1984，1993）。因此对于一个广义不变的理论，没有任何物理现实可以积累到“空间”空无一物的状态中。在爱因斯坦的修辞修饰中，广义不变性“夺走了空间和时间最后的物理客观性”；他本应该说的是，时空没有独立于物质分布之外的固有度规结构\[参见洞论证条目]。因此，这段文字实际上并不是对实证主义现象主义的支持。
 
 ### 2.4 “马赫原理”
 
@@ -88,6 +84,7 @@ Natorp 的论述虽然只有不到六页，但更为详细（1910: 399–404）�
 > 他最后观察到，非欧几里得和多维几何在物理学和数学中的出现只能被理解为“处理特殊问题的有价值工具”。它们本身并没有为（超验的）逻辑意义和超验的纯数学确定的空间和时间概念的基础提供新的见解；更不需要放弃这些概念。
 
 他得出的结论是，物理学和数学中出现的非欧几里得和多维几何学只能被理解为“在处理特定问题时的有价值工具”。它们本身并没有为（超验的）空间和时间的概念提供新的见解和基础；更不需要放弃这些概念。
+
 ### 3.2 Immunizing Strategies
 
 在 1919 年广义相对论的实验确认之后，少数康德派试图保留康德认识论观点的所有组成部分，而不加掩饰。几个例子足以说明特征性的“免疫策略”（Hentschel 1990）。E. Sellien（1919）的 Habilitationsschrift，爱因斯坦在 1919 年 10 月致莫里茨·施利克的信中批评了这篇论文（Howard 1984: 625），宣称康德关于空间和时间的观点仅适用于直观空间；因此，康德的观点对爱因斯坦的经验理论中可测量的空间和时间是不可渗透的。另一位年轻的康德哲学家伊尔莎·施耐德，与爱因斯坦有私人交情，她确认康德仅仅认为三维欧几里得几何的空间是牛顿引力定律有效的空间，因此对康德的任何异议都不能从广义相对论的四维可变曲率时空中提出。此外，爱因斯坦的宇宙学（1917b）中的有限但无边界的宇宙被认为与《悟性辩证法》第二书中的第一反论的“超验解”完全一致。她的结论是，对于相对论理论和康德哲学之间的表面矛盾，在对这两种学说进行更仔细的审查后就会消失（Schneider 1921: 71–75）。
@@ -102,7 +99,7 @@ Natorp 的论述虽然只有不到六页，但更为详细（1910: 399–404）�
 
 ### 3.4 广义协变性： “决定的统一”的综合原则
 
-所有新康德主义对广义相对论的解释中最有影响力的是恩斯特·卡西勒的《论爱因斯坦的相对论理论》（1921）。卡西勒认为这个理论是对马堡超验唯心主义的物理科学认识论（Erkenntniskritik）的一个关键测试。一开始就提出的问题是，《超验美学》是否提供了足够广泛和足够强大的基础来承载广义相对论的一般理论。卡西勒认识到理论的主要认识论意义在于对广义协变性的要求（“自然的一般规律不会因空间-时间变量的任意变化而改变形式”），他把注意力集中在爱因斯坦在 2.3 节中引用的言论上，即广义协变性“从空间和时间中夺走了最后一点物理客观性”。卡西勒正确地理解了这段话的要点，即在广义相对论中，空间和时间坐标除了作为事件（“巧合”）的纯标签外，再没有其他重要性，它们是独立变量，用于表征物理状态量的场函数。事实上，广义协变性的要求显著地改进了康德的观点，更清楚地表明了经验认识的超验条件的纯方法论作用，这是康德误导性地归因于纯直觉的。这一要求不仅表明了空间和时间不是“事物”，而且还澄清了空间和时间的概念只是适用于物理世界对象的“理想秩序原则”，是它们可能经验的必要条件。根据卡西勒的观点，康德关于纯直觉的意图只是表达了某些“智力形式”（Denkformen）的方法论前提，其中包括纯粹理想的共存和继承的概念，这些概念进入所有物理知识。根据自 17 世纪以来物理学的发展，这些形式逐渐失去了其“偶然”的（zufälligen）拟人特征，而越来越多地具有“统一决定的系统形式”的特征。从这个角度来看，广义协变性只是方法论趋势“决定的统一”的最新表现，其中物理知识对象的构成揭示了从物质概念到功能概念的逐渐过渡。与上述马堡康德解释的核心原则一致，卡西勒认为一般协变性的要求证明了空间和时间的超验理想性，不是作为“直观形式”，而是作为进一步“去拟人化”物理学中对象概念的“客观化条件”。正如卡西勒后来所辩论的，这种去拟人化的趋势最终使物理学中的对象概念成为“纯粹的象征形式”。物理学中的基本对象概念不再涉及空间和时间中传播的特定实体或过程，而是涉及由一般协变数学对象（张量）所代表的（物理状态）量之间的关系的“不变性”。因此，卡西勒得出结论，广义相对论展示了“批判性唯心主义观点在经验科学中最明确的应用和贯彻”（1921 [1957：71；1923：412]）。
+所有新康德主义对广义相对论的解释中最有影响力的是恩斯特·卡西勒的《论爱因斯坦的相对论理论》（1921）。卡西勒认为这个理论是对马堡超验唯心主义的物理科学认识论（Erkenntniskritik）的一个关键测试。一开始就提出的问题是，《超验美学》是否提供了足够广泛和足够强大的基础来承载广义相对论的一般理论。卡西勒认识到理论的主要认识论意义在于对广义协变性的要求（“自然的一般规律不会因空间-时间变量的任意变化而改变形式”），他把注意力集中在爱因斯坦在 2.3 节中引用的言论上，即广义协变性“从空间和时间中夺走了最后一点物理客观性”。卡西勒正确地理解了这段话的要点，即在广义相对论中，空间和时间坐标除了作为事件（“巧合”）的纯标签外，再没有其他重要性，它们是独立变量，用于表征物理状态量的场函数。事实上，广义协变性的要求显著地改进了康德的观点，更清楚地表明了经验认识的超验条件的纯方法论作用，这是康德误导性地归因于纯直觉的。这一要求不仅表明了空间和时间不是“事物”，而且还澄清了空间和时间的概念只是适用于物理世界对象的“理想秩序原则”，是它们可能经验的必要条件。根据卡西勒的观点，康德关于纯直觉的意图只是表达了某些“智力形式”（Denkformen）的方法论前提，其中包括纯粹理想的共存和继承的概念，这些概念进入所有物理知识。根据自 17 世纪以来物理学的发展，这些形式逐渐失去了其“偶然”的（zufälligen）拟人特征，而越来越多地具有“统一决定的系统形式”的特征。从这个角度来看，广义协变性只是方法论趋势“决定的统一”的最新表现，其中物理知识对象的构成揭示了从物质概念到功能概念的逐渐过渡。与上述马堡康德解释的核心原则一致，卡西勒认为一般协变性的要求证明了空间和时间的超验理想性，不是作为“直观形式”，而是作为进一步“去拟人化”物理学中对象概念的“客观化条件”。正如卡西勒后来所辩论的，这种去拟人化的趋势最终使物理学中的对象概念成为“纯粹的象征形式”。物理学中的基本对象概念不再涉及空间和时间中传播的特定实体或过程，而是涉及由一般协变数学对象（张量）所代表的（物理状态）量之间的关系的“不变性”。因此，卡西勒得出结论，广义相对论展示了“批判性唯心主义观点在经验科学中最明确的应用和贯彻”（1921 \[1957：71；1923：412]）。
 
 ## 4. 逻辑经验主义
 
@@ -116,19 +113,19 @@ Natorp 的论述虽然只有不到六页，但更为详细（1910: 399–404）�
 
 莱希巴赫对广义相对论的逻辑分析的一个基石是“几何的相对性”论题，即如果物理定律通过引入“普遍力”相应地修改，那么可以赋予时空任意几何结构（保持基础拓扑不变）。度量规范约定论的这一特定论证引发了相当大的争议，但通过对其在莱希巴赫早期新康德主义中的起源的描述，可以更好地理解。不考虑这一起源，这一论题成为莱希巴赫广泛方法论主张的典型例证，即在自然科学的数学科学中，传统或定义性元素——将物理理论的数学概念与“物理现实的元素”相关联的“协调定义”——是经验认知的必要条件。与此同时，莱希巴赫的度量规范约定论论题是关于时空结构的认识论简化计划的一部分。这最初体现在他对相对论的“建设性公理化”（1924 年）中，该公理化是基于关于光线、棒和钟的可观察行为的“基本事实”（Elementartatbestande）。在这里，以及在更广泛阅读的论述中（1928 年），时空的度量属性被认为不如拓扑属性基础，而后者则源自时间排序的概念。但时间排序又被简化为因果排序，因此整个时空结构体系被认为是认识论上的派生物，最终基于有关因果排序的基本经验事实以及禁止远距作用的原则。莱希巴赫对时空理论基础的认识论分析的终点是“时间的因果理论”，这是一种关于时间的关系理论类型，假定了“接触作用因果原理”的有效性。
 
-然而，莱希巴赫在相对论方面的第一部专著（1920 年）是从新康德主义的角度撰写的。正如弗里德曼（1994 年）和其他人（Ryckman 2005）详细讨论的那样，莱希巴赫的创新是对康德关于综合先验原则的概念的修改，拒绝了“永恒有效”之意义，同时保留了“构成对象（知识对象）”之意义，导致了理论特定的“相对先验”的概念。根据莱希巴赫的观点，任何物理理论都预设了某些非常普遍的系统原则的有效性，然而这些原则在不同理论中可能有所不同。这些协调原则，如其所称，对于对感知数据的排序是不可或缺的；它们定义了理论内的知识对象。根据早期莱希巴赫的观点，相对论的认识论意义在于，与康德相反，它表明这些系统可能包含相互矛盾的原则，因此需要修正以消除矛盾。因此，康德关于综合先验原则的“相对化”是相对论的直接认识论结果。但这一发现也被视为标志着科学认识论调查方法的转变。在康德的“理性分析”之处，提出了“科学分析方法”（der wissenschaftsanalytische Methode）作为“唯一能让我们理解我们的理性对知识的贡献的方法”（1920 年：71 [1965 年：74]）。这一方法的存在理由在于，要明确区分（协调）原则的主观作用——“理性的贡献”——和客观现实的贡献，由理论特定的经验定律和规律（“连接公理”）代表，这些定律和规律在某种意义上已经被前者“构成”。相对论本身是这一方法的光辉典范，因为它表明了时空的度规描述了世界的“客观属性”，一旦承认了进行坐标变换的主观自由（广义协变性的协调原则）（1920 年：86–7 [1965 年：90]）。度规约定论的论题尚未出现。
+然而，莱希巴赫在相对论方面的第一部专著（1920 年）是从新康德主义的角度撰写的。正如弗里德曼（1994 年）和其他人（Ryckman 2005）详细讨论的那样，莱希巴赫的创新是对康德关于综合先验原则的概念的修改，拒绝了“永恒有效”之意义，同时保留了“构成对象（知识对象）”之意义，导致了理论特定的“相对先验”的概念。根据莱希巴赫的观点，任何物理理论都预设了某些非常普遍的系统原则的有效性，然而这些原则在不同理论中可能有所不同。这些协调原则，如其所称，对于对感知数据的排序是不可或缺的；它们定义了理论内的知识对象。根据早期莱希巴赫的观点，相对论的认识论意义在于，与康德相反，它表明这些系统可能包含相互矛盾的原则，因此需要修正以消除矛盾。因此，康德关于综合先验原则的“相对化”是相对论的直接认识论结果。但这一发现也被视为标志着科学认识论调查方法的转变。在康德的“理性分析”之处，提出了“科学分析方法”（der wissenschaftsanalytische Methode）作为“唯一能让我们理解我们的理性对知识的贡献的方法”（1920 年：71 \[1965 年：74]）。这一方法的存在理由在于，要明确区分（协调）原则的主观作用——“理性的贡献”——和客观现实的贡献，由理论特定的经验定律和规律（“连接公理”）代表，这些定律和规律在某种意义上已经被前者“构成”。相对论本身是这一方法的光辉典范，因为它表明了时空的度规描述了世界的“客观属性”，一旦承认了进行坐标变换的主观自由（广义协变性的协调原则）（1920 年：86–7 \[1965 年：90]）。度规约定论的论题尚未出现。
 
 但很快它出现了。仍然是在 1920 年，施利克公开反对，也在与莱希巴赫的私人通信中反对，“协调原则”正是庞加莱所称的“约定”类型的陈述（参见 Coffa 1991：201ff.）。此外，爱因斯坦在 1921 年 1 月的一次讲座中，题为“几何与经验”，似乎支持了这一观点。爱因斯坦认为，关于时空几何性质的问题只有在关于测量的“实际刚体”的某些临时规定下才成为经验问题（鉴于相对论理论中“实际刚体”概念的不可接受性）。无论如何，到了 1922 年，莱希巴赫成熟的约定论观点的基本要点已经出现。这一论证在《时空哲学》第 8 节（题为“几何的相对性”）中经典地呈现（1926 年完成，1928 年出版）。莱希巴赫认为，关于时空度规的经验确定的问题必须首先面对这样一个事实，即只有包括几何和物理的整个理论体系才能进行观察测试。爱因斯坦的引力理论就是这样一个整体。然而，与爱因斯坦不同，莱希巴赫的“科学分析方法”，后来更名为“科学的逻辑分析”，旨在解决将这一整体分解为其传统或定义性和经验性成分的认识论问题。
 
-这是通过以下方式完成的。通过测量对时空度量的经验确定需要选择一些“度量指标”：这只能通过制定一个协调的定义来完成，例如，长度的度量概念与某些物理对象或过程协调。标准选择将长度与“假设刚性的无穷小测量棒”协调（例如，爱因斯坦的“实际刚体”）。然而，这只是一种惯例，也可以选择其他物理对象或过程。（在席克的幻想性例子中，达赖喇嘛的心跳可以被选择为时间单位协调的物理过程。）当然，所选择的度量指标必须校正某些扭曲效应（温度、磁性等），这是由于物理力的存在。这些力被称为“微分力”，表明它们以不同的方式影响各种材料。然而，赖希巴赫认为，选择刚性棒作为长度标准等同于声称不存在非微分的“普遍”扭曲力，这些力以相同的方式影响所有物体并且无法被屏蔽。在“普遍力”不存在的情况下，关于刚性棒的协调定义可以被实施，并且可以通过经验确定时空度量的性质，例如，发现光线通过太阳引力场的路径不是欧几里得直线。因此，广义相对论理论，在采用刚性棒的协调定义（“普遍力=0”）后，确认了给定区域内时空的几何结构是非欧几里得的。然而，问题在于这个结论建立在测量棒的惯例上。另一种选择是，通过采用不同的协调定义，例如，认为测量棒在时空中的位置不同会膨胀或收缩，这种选择等同于假设“普遍力”。然后，与所有经验现象一致，可以坚持认为如果只允许存在这样的力，那么欧几里得几何学与爱因斯坦的理论是相容的。因此，广义相对论在太阳引力场中是肯定欧几里得度量还是非欧几里得度量，这取决于关于非零普遍力存在的惯例选择。可以采用任何假设，因为它们是经验上等价的描述；它们的共同可能性被称为“几何的相对性”。就像在赖希巴赫对同时性的惯例性分析中选择标准同步一样，这个选择也被认为是“逻辑上任意的”，赖希巴赫推荐采用“描述上更简单”的选择，即不存在普遍力。当然，“描述上的简单性与真理无关”，即与时空度量是否真的具有非欧几里得结构的问题无关（1928: 47 [1958: 35]）。
+这是通过以下方式完成的。通过测量对时空度量的经验确定需要选择一些“度量指标”：这只能通过制定一个协调的定义来完成，例如，长度的度量概念与某些物理对象或过程协调。标准选择将长度与“假设刚性的无穷小测量棒”协调（例如，爱因斯坦的“实际刚体”）。然而，这只是一种惯例，也可以选择其他物理对象或过程。（在席克的幻想性例子中，达赖喇嘛的心跳可以被选择为时间单位协调的物理过程。）当然，所选择的度量指标必须校正某些扭曲效应（温度、磁性等），这是由于物理力的存在。这些力被称为“微分力”，表明它们以不同的方式影响各种材料。然而，赖希巴赫认为，选择刚性棒作为长度标准等同于声称不存在非微分的“普遍”扭曲力，这些力以相同的方式影响所有物体并且无法被屏蔽。在“普遍力”不存在的情况下，关于刚性棒的协调定义可以被实施，并且可以通过经验确定时空度量的性质，例如，发现光线通过太阳引力场的路径不是欧几里得直线。因此，广义相对论理论，在采用刚性棒的协调定义（“普遍力=0”）后，确认了给定区域内时空的几何结构是非欧几里得的。然而，问题在于这个结论建立在测量棒的惯例上。另一种选择是，通过采用不同的协调定义，例如，认为测量棒在时空中的位置不同会膨胀或收缩，这种选择等同于假设“普遍力”。然后，与所有经验现象一致，可以坚持认为如果只允许存在这样的力，那么欧几里得几何学与爱因斯坦的理论是相容的。因此，广义相对论在太阳引力场中是肯定欧几里得度量还是非欧几里得度量，这取决于关于非零普遍力存在的惯例选择。可以采用任何假设，因为它们是经验上等价的描述；它们的共同可能性被称为“几何的相对性”。就像在赖希巴赫对同时性的惯例性分析中选择标准同步一样，这个选择也被认为是“逻辑上任意的”，赖希巴赫推荐采用“描述上更简单”的选择，即不存在普遍力。当然，“描述上的简单性与真理无关”，即与时空度量是否真的具有非欧几里得结构的问题无关（1928: 47 \[1958: 35]）。
 
 ### 4.3 对赖希巴赫度量惯例主义的批判
 
-回顾来看，很难理解这个论点被赋予的重要性。例如，卡尔纳普在《导言》（卡尔纳普 1956 [赖希巴赫 1958: vii]）中，对这部作品的英文遗作翻译给予了特别关注，因为它对“物理学方法论具有极大的兴趣”。赖希巴赫本人认为“相对论理论的哲学成就”在于这种关于时空几何的惯例性和事实性主张的方法论区分（1928: 24 [1958: 15]），并且他自豪地宣称他的“相对论哲学理论”是一个无可辩驳的“哲学结果”：
+回顾来看，很难理解这个论点被赋予的重要性。例如，卡尔纳普在《导言》（卡尔纳普 1956 \[赖希巴赫 1958: vii]）中，对这部作品的英文遗作翻译给予了特别关注，因为它对“物理学方法论具有极大的兴趣”。赖希巴赫本人认为“相对论理论的哲学成就”在于这种关于时空几何的惯例性和事实性主张的方法论区分（1928: 24 \[1958: 15]），并且他自豪地宣称他的“相对论哲学理论”是一个无可辩驳的“哲学结果”：
 
-> 相对论的哲学理论，即，对度量的定义性特征的发现，独立于经验……是一个不受个别科学批评的哲学结果（1928: 223 [1958: 177]）。
+> 相对论的哲学理论，即，对度量的定义性特征的发现，独立于经验……是一个不受个别科学批评的哲学结果（1928: 223 \[1958: 177]）。
 
-然而，这一结果既非不容置疑，也不是爱因斯坦引力理论的无拘无束的结果。首先，普遍力量被赋予了模糊的地位。一种同情的阅读（例如，Dieks 1987）表明，这个概念在传统的先验对欧几里得几何的承诺和现代几何动力学观点之间起着有用的调解作用，在现代几何动力学观点中，引力被“几何化消失”（见§5）。毕竟，正如赖希巴赫明确承认的那样，引力本身是一种普遍力量，与所有物体耦合并以相同的方式影响它们（1928: 294–6 [1958: 256–8]）。因此，描述简单性所推荐的选择仅仅是一种规定，即应将无穷小的度量设备视为“在惯性系统中微微地静止”（1924: 115 [1969: 147]）。这是一个规定，即时空测量总是发生在被认为是小的闵可夫斯基时空（无引力物理学的竞技场）的区域内。同样，一致性随后要求承认“从特殊理论到一般理论的过渡仅仅代表了对度量特性的放弃”（1924: 115 [1969: 147]），甚至更加直截了当地说，“时空连续体的所有度量特性都被引力场摧毁，只有拓扑特性保留下来”（1928: 308 [1958: 268–9]）。当然，这些奇怪的结论据说在时间的因果理论中关于时空结构的认识论减少方面更容易接受。
+然而，这一结果既非不容置疑，也不是爱因斯坦引力理论的无拘无束的结果。首先，普遍力量被赋予了模糊的地位。一种同情的阅读（例如，Dieks 1987）表明，这个概念在传统的先验对欧几里得几何的承诺和现代几何动力学观点之间起着有用的调解作用，在现代几何动力学观点中，引力被“几何化消失”（见§5）。毕竟，正如赖希巴赫明确承认的那样，引力本身是一种普遍力量，与所有物体耦合并以相同的方式影响它们（1928: 294–6 \[1958: 256–8]）。因此，描述简单性所推荐的选择仅仅是一种规定，即应将无穷小的度量设备视为“在惯性系统中微微地静止”（1924: 115 \[1969: 147]）。这是一个规定，即时空测量总是发生在被认为是小的闵可夫斯基时空（无引力物理学的竞技场）的区域内。同样，一致性随后要求承认“从特殊理论到一般理论的过渡仅仅代表了对度量特性的放弃”（1924: 115 \[1969: 147]），甚至更加直截了当地说，“时空连续体的所有度量特性都被引力场摧毁，只有拓扑特性保留下来”（1928: 308 \[1958: 268–9]）。当然，这些奇怪的结论据说在时间的因果理论中关于时空结构的认识论减少方面更容易接受。
 
 尽管这一论点对随后一代科学哲学家的影响很大，赖希巴赫对时空测量的分析显然是不恰当的，表现出一种错误的倾向，即将广义相对论的一般曲率时空视为由小块闵可夫斯基平坦时空拼接而成。除了在数学上不一致外，这种程序也无法为广义相对论的核心理论概念——度规张量 gμν以及由此导出的一系列曲率张量提供非隐喻的物理意义，也无法提供一种从基本的度规张量 gμν到空间时间某一点的曲率分量的推导方法，例如，作为引力的潮汐力的曲率分量可以被测量，它们很难被归因于传统上采用的“普遍力量”。此外，在广义相对论中，无穷小刚性杆的概念实际上不能是爱因斯坦认识到的临时权宜之计。因为它实际上不能是刚性的，由于这些潮汐力；事实上，在特殊相对论中，刚体的概念已经被禁止，因为它允许瞬时因果作用。此外，这样的杆实际上必须是无穷小的，即，一个自由下落的厚度可以忽略不计并且足够短的延伸，以便不受到引力场的不均匀性的影响；具体取决于局部曲率的强度和测量误差（Torretti 1983: 239）。但是，正如赖希巴赫在他关于引力场“摧毁”度规的评论中所认识到的那样，它不能作为坐标定义的度规关系的一般标准。事实上，正如魏尔首先指出的那样，哪些物理对象或结构最适合作为测量仪器应该根据引力理论本身来决定。从这个开明的角度来看，测量杆和时钟是过于物理上复杂的结构。相反，围绕任何观察者 O 的区域中的度规可以从自由下落的理想小中性测试质量以及光线的路径中得到经验确定。更准确地说，空间时间度规来自于可忽略质量的中性测试粒子的仿射-射影结构的行为以及观察者接收和发出的光线的共形结构（Weyl 1921）。在广义相对论中，关于测量杆行为的任何纯粹的约定，作为度规关系的物理构成，都是多余的（Weyl 1923a；Ehlers，Pirani 和 Schild 1973；Geroch 1978）。遗憾的是，由于赖希巴赫认为引力-惯性场的仿射结构与其度规结构一样是约定俗成的，他无法将这种方法视为除了是一种等效的方法之外，但决不一定是首选的方法，用于通过使用测量杆和时钟来经验确定度规（Coffa 1979；Ryckman 2005：第 2 和第 4 章；Giovanelli 2013b）。
 
@@ -140,9 +137,9 @@ Natorp 的论述虽然只有不到六页，但更为详细（1910: 399–404）�
 
 > 然而，这意味着将物理学减少到几何学是在希尔伯特所称的“公理化方法”的认识论框架内获得的；它的预期意义是对希尔伯特在 1900 年巴黎国际数学家大会上提出的著名的 23 个数学问题中的第 6 个问题（“物理学的公理化”）的提议解决方案。其他人则走了不同的道路，试图通过超越广义相对论的伪黎曼几何（区分空间和时间维度的黎曼几何）（赫尔曼·魏尔，阿瑟·斯坦利·爱丁顿）或者通过在五维中使用黎曼几何（西奥多·卡卢扎）来将物理学减少到几何学。无论卡卢扎的哲学动机是什么（范·东根 2010 年：132-5），魏尔（1918a，b）和继魏尔之后的爱丁顿（1921 年）的广义化黎曼几何中都没有数学实在论或者柏拉图主义的作用。它们的提议首先是明确的尝试，以系统的认识论立场来理解基本物理理论的性质，既不是实证主义者也不是现实主义者。因此，它们包括了对该理论的早期哲学解释，尽管它们以一种自笛卡尔以来前所未有的方式将哲学、几何学和物理学交织在一起。
 
-完成广义相对论后，爱因斯坦长期希望物质可以通过将引力和电磁力统一的几何理论来描述。但他坚决并一再地抵制将物理学减少到几何学的宣言（例如，1928 年：254；乔万内利 2013a）。理论统一是首要目标；任何成功的统一理论，其物理对象、运动和相互作用都以几何术语描述，都不会产生特殊意义（莱姆库尔 2014）。然而，爱因斯坦仍然遵循了理论统一的两种方法，一种是通过广义化黎曼几何，另一种是通过增加额外的维度。到 1923 年，爱因斯坦成为统一计划的领导者（维兹金 1985 [1994：265]），到 1925 年，他设计了他的第一个“自制”的几何“统一场理论”（索尔 2014）。几何统一计划的第一阶段基本上以爱因斯坦 1928 年至 1931 年的“遥远平行”理论（例如，1929 年）结束，这是一个无意中引起公众轰动的理论（弗尔辛 1993 [1997：605]）。不用说，这些努力都没有取得成功。1931 年 10 月 14 日在维也纳大学的一次讲座上，爱因斯坦悲伤地提到他的失败尝试，每一个都是基于不同的微分几何基础，都是“死去的希望的坟墓”（爱因斯坦 1932）。当然，到这个时候，几何统一计划的可行前景已经大大减弱。几乎所有领先的理论物理学家都达成了共识，即虽然引力和电磁场的统一可能以形式上不同的方式实现，但通过新的核物理学的不可否认的实验成功处理的物质问题，不可能仅仅在经典场和时空几何的范围内解决。无论如何，从 20 世纪 30 年代开始，任何类型的统一计划的前景都显得过早，鉴于新的核物理学产生的大量数据。
+完成广义相对论后，爱因斯坦长期希望物质可以通过将引力和电磁力统一的几何理论来描述。但他坚决并一再地抵制将物理学减少到几何学的宣言（例如，1928 年：254；乔万内利 2013a）。理论统一是首要目标；任何成功的统一理论，其物理对象、运动和相互作用都以几何术语描述，都不会产生特殊意义（莱姆库尔 2014）。然而，爱因斯坦仍然遵循了理论统一的两种方法，一种是通过广义化黎曼几何，另一种是通过增加额外的维度。到 1923 年，爱因斯坦成为统一计划的领导者（维兹金 1985 \[1994：265]），到 1925 年，他设计了他的第一个“自制”的几何“统一场理论”（索尔 2014）。几何统一计划的第一阶段基本上以爱因斯坦 1928 年至 1931 年的“遥远平行”理论（例如，1929 年）结束，这是一个无意中引起公众轰动的理论（弗尔辛 1993 \[1997：605]）。不用说，这些努力都没有取得成功。1931 年 10 月 14 日在维也纳大学的一次讲座上，爱因斯坦悲伤地提到他的失败尝试，每一个都是基于不同的微分几何基础，都是“死去的希望的坟墓”（爱因斯坦 1932）。当然，到这个时候，几何统一计划的可行前景已经大大减弱。几乎所有领先的理论物理学家都达成了共识，即虽然引力和电磁场的统一可能以形式上不同的方式实现，但通过新的核物理学的不可否认的实验成功处理的物质问题，不可能仅仅在经典场和时空几何的范围内解决。无论如何，从 20 世纪 30 年代开始，任何类型的统一计划的前景都显得过早，鉴于新的核物理学产生的大量数据。
 
-完成广义相对论后，爱因斯坦长期希望物质可以通过一个统一引力和电磁力的理论以几何术语来描述。但他坚决且反复地抵制任何将物理学归纳为几何学的宣称（例如，1928年: 254; Giovanelli 2013a）。理论统一是首要目标；任何成功的统一理论都不会因为其物理对象、运动和相互作用以几何术语描述而获得特殊意义（Lehmkuhl 2014）。尽管如此，爱因斯坦仍然遵循了两种理论统一的方法，一种是推广黎曼几何，另一种是添加额外的维度。到了1923年，爱因斯坦成为了统一计划的领导者（Vizgin 1985 [1994: 265]），并且到了1925年，他设计出了自己的第一个“自制”的几何“统一场理论”（Sauer 2014）。几何统一计划的第一阶段基本上在爱因斯坦的1928年至1931年的“远距离平行”理论（例如，1929年）中结束，这是一个无意的公开轰动（Fölsing 1993 [1997: 605]）。毫无疑问，这些努力都没有取得成功。在1931年10月14日在维也纳大学的一次讲座上，爱因斯坦悲观地将他的失败尝试称为“死去的希望之墓”，每一个都是建立在不同的微分几何基础上的（Einstein 1932）。到那个时候，可以肯定的是，几何统一计划的可行前景已经大大减弱。几乎所有主要理论物理学家都达成了共识，即虽然引力场和电磁场的统一可以通过形式上不同的方式实现，但通过新量子理论在实验上取得了不可否认的成功的物质问题，不能仅仅在经典场和时空几何的范围内解决。无论如何，从20世纪30年代初开始，由于新核子量子力学产生的大量数据，任何类型的统一计划的前景都显得过于仓促。
+完成广义相对论后，爱因斯坦长期希望物质可以通过一个统一引力和电磁力的理论以几何术语来描述。但他坚决且反复地抵制任何将物理学归纳为几何学的宣称（例如，1928年: 254; Giovanelli 2013a）。理论统一是首要目标；任何成功的统一理论都不会因为其物理对象、运动和相互作用以几何术语描述而获得特殊意义（Lehmkuhl 2014）。尽管如此，爱因斯坦仍然遵循了两种理论统一的方法，一种是推广黎曼几何，另一种是添加额外的维度。到了1923年，爱因斯坦成为了统一计划的领导者（Vizgin 1985 \[1994: 265]），并且到了1925年，他设计出了自己的第一个“自制”的几何“统一场理论”（Sauer 2014）。几何统一计划的第一阶段基本上在爱因斯坦的1928年至1931年的“远距离平行”理论（例如，1929年）中结束，这是一个无意的公开轰动（Fölsing 1993 \[1997: 605]）。毫无疑问，这些努力都没有取得成功。在1931年10月14日在维也纳大学的一次讲座上，爱因斯坦悲观地将他的失败尝试称为“死去的希望之墓”，每一个都是建立在不同的微分几何基础上的（Einstein 1932）。到那个时候，可以肯定的是，几何统一计划的可行前景已经大大减弱。几乎所有主要理论物理学家都达成了共识，即虽然引力场和电磁场的统一可以通过形式上不同的方式实现，但通过新量子理论在实验上取得了不可否认的成功的物质问题，不能仅仅在经典场和时空几何的范围内解决。无论如何，从20世纪30年代初开始，由于新核子量子力学产生的大量数据，任何类型的统一计划的前景都显得过于仓促。
 
 尽管如此，对几何统一目标的不成功追求吸引了爱因斯坦和他的各种研究助手长达三十多年，直到爱因斯坦于 1955 年去世。在此过程中，爱因斯坦的研究方法经历了一次戏剧性的变化（Ryckman 2014; Ryckman 2017: 第 9 章和第 10 章）。爱因斯坦逐渐不再依赖于物理上保证的原则来指导理论构建，比如惯性和引力质量之间的等价性曾经让他在广义相对论方面取得了最大的成功，而是越来越多地依赖于数学美学的考虑，“逻辑简单性”，以及在各种约束条件下某些数学结构的必然性，基本上是出于哲学原因。在 1933 年在牛津的一次名为“论理论物理方法”的讲座中，这种转变被戏剧性地陈述了：
 
@@ -178,7 +175,7 @@ Gμν=kTμν，其中 Gμν≡Rμν−12gμνR
 
 ### 5.5 爱丁顿的世界几何学
 
-尽管未能为他的理论赢得许多朋友，魏尔统一的引导示例启动了统一场理论的几何计划，引发了各种努力，所有这些努力都旨在找到爱因斯坦理论的黎曼几何的合适推广，以包括非引力物理学（Vizgin 1985 [1994: chapter 4]）。1921 年 12 月，柏林学院发表了西奥多·卡卢扎关于基于五维黎曼几何统一引力和电磁的新提议。但在同年二月，阿瑟·斯坦利·爱丁顿提出了魏尔四维几何的进一步推广，其中唯一的原始几何概念是在相同或相邻点的方向或取向的非度量比较。在魏尔的几何中，可以直接比较指向不同方向的同一点的矢量的大小；在爱丁顿的几何中，只有指向相同方向的矢量才能立即比较。他的“仿射场理论”包括了魏尔的几何和爱因斯坦广义相对论的半黎曼几何作为特例。然而，很少有人注意到爱丁顿在论文开头声称，他的目标不是“寻找（物质的）未知法则”，而是统一场理论所适合的“巩固已知（场）法则”，在其中“整个方案似乎变得简化，新的光照射在物理基本法则的起源上”（1921: 105）。
+尽管未能为他的理论赢得许多朋友，魏尔统一的引导示例启动了统一场理论的几何计划，引发了各种努力，所有这些努力都旨在找到爱因斯坦理论的黎曼几何的合适推广，以包括非引力物理学（Vizgin 1985 \[1994: chapter 4]）。1921 年 12 月，柏林学院发表了西奥多·卡卢扎关于基于五维黎曼几何统一引力和电磁的新提议。但在同年二月，阿瑟·斯坦利·爱丁顿提出了魏尔四维几何的进一步推广，其中唯一的原始几何概念是在相同或相邻点的方向或取向的非度量比较。在魏尔的几何中，可以直接比较指向不同方向的同一点的矢量的大小；在爱丁顿的几何中，只有指向相同方向的矢量才能立即比较。他的“仿射场理论”包括了魏尔的几何和爱因斯坦广义相对论的半黎曼几何作为特例。然而，很少有人注意到爱丁顿在论文开头声称，他的目标不是“寻找（物质的）未知法则”，而是统一场理论所适合的“巩固已知（场）法则”，在其中“整个方案似乎变得简化，新的光照射在物理基本法则的起源上”（1921: 105）。
 
 爱丁顿相信魏尔的“长度相对性原理”是“相对论观念的一个基本部分”，这一观点他一直保持到生命的最后（例如，1939: 28）。但他也相信，魏尔理论受到的主要敌对接受是由于其混乱的表述。缺陷在于魏尔未能明显表明局部标度不变（“纯无穷小”）的“世界几何”不是实际时空的物理几何，而是一种完全数学构造，本质上用于指定独立于观察者的外部世界的理想。为了弥补这一点，爱丁顿设计了一种场物理的一般演绎表达方法，在这种方法中，“世界几何”在概念上与物理分开进行数学发展。一个“世界几何”是一个纯数学构造，其衍生物仅具有理想完全客观世界所需的结构性质；这些是对象，正如他在《空间、时间和引力》（1920）中写道的那样，一本半通俗畅销书，代表了“从特定人的角度来看”。当然，这种理想随着物理理论的进展而改变。根据相对论理论，这样的世界对参考系的规定是漠不关心的，并且在魏尔之后，对长度（尺度）的规定也是如此。世界几何不是这样一个世界的物理理论，而是一个框架或“图形表示”，在其中现有的物理理论可以通过将现有物理定律的已知张量与在世界几何中推导的那些张量进行纯粹形式上的等同来展示。这样一个物理学的几何表示实际上不能说是对还是错，因为它只是实现了当前关于客观外部世界的对象和属性概念的想法，如果可能的话。但是，当现有的物理学，特别是爱因斯坦的引力理论，被置于爱丁顿的世界几何的背景中时，它产生了一个令人惊讶的结果：爱因斯坦的引力定律出现为一种定义！以 Rμν=0 的形式，它定义了在“世界几何”中出现在头脑中的“真空”，而在上述爱因斯坦场方程的形式中，它定义了作为“物质”遇到的东西。这一结果是爱丁顿所说的对“物理基本法则的起源投下新光”的意思（参见 Ryckman 2005: 第 7 和第 8 章）。爱丁顿臭名昭著的晦涩难懂的后期作品（1936 年，1946 年），进一步表达了他的观点，试图表明“一切的基础都是心智的特性”（1928 年，p.281）。在量子力学和狄拉克的相对论电子理论之后，爱丁顿追求了一种代数而非几何的计划，试图从先验认识论原则中推导出基本物理定律，特别是其中出现的常数。这种哲学被称为“选择性主观主义”（1939），认为基本物理理论无法揭示世界本身，而只是代表了主观选择的可观测量之间的关系，因此反映了物理学家对观察数据所施加的解释。
 
@@ -190,7 +187,7 @@ Gμν=kTμν，其中 Gμν≡Rμν−12gμνR
 
 > 梅耶森已经接近理解魏尔-爱丁顿的几何统一方案，就像它们被打算的那样。对他和其他人来说，绊脚石是相信超验唯心主义只能从直觉和直觉表达的本质的论证中得到支持。当然，魏尔对相对论的客观四维世界的几何构建的几何框架是基于“基本洞察”中的证据，这种证据仅限于流形中某点 P 处的简单线性关系和映射。因此，在魏尔的微分几何中，存在着可积和不可积的比较关系之间的根本分歧。后者是原始的并且在认识论上是特权的，但直到如何展示无穷小同质空间与广义相对论的大尺度非均匀空间（时空）是兼容的之后才得到证明。这不需要关于直觉本质的哲学论证，而是需要以群论概念形式来表述的论证（魏尔 1923a，b）。另一方面，爱丁顿没有依赖于胡塞尔现象学或者哲学的文化背景，他完全放弃了超验唯心主义的直觉基础，仿佛没有意识到它的突出地位。因此，他试图通过在一个基于非度量仿射（即线性和对称）连接的几何结构（其“世界结构”（1923））中构建相对论理论的客观四维世界，自由地找到与爱因斯坦理论的经验确认的可积度规关系的完全普遍的概念基础，而不受“纯无穷小”度规与原子光谱观测事实之间的冲突的阻碍。
 
-梅耶森已经接近理解维尔-爱丁顿几何统一方案，以某种方式符合它们的初衷。对他和其他人来说，绊脚石在于坚信只有通过关于直观和直观表达的本质的论证才能支持超验唯心主义。确实，维尔构建相对论客观四维世界的几何框架是基于“实质洞察力”中可用的*确凿证据*，这仅限于流形中某一点*P*处的基本线性关系和映射，基本上是切向量空间 TP。因此，在维尔的微分几何中，存在着可积和不可积的比较关系之间的根本分歧。后者是原始的、在认识论上特权的，但直到展示了无限小的同质空间（对应于“空间的本质作为直观形式”）如何与广义相对论的大尺度不均匀空间（时空）相容之后，它们才得到了合理的证明。而这不需要关于直观本质的哲学论证，而是以群论概念形式进行的（维尔 1923a，b）。另一方面，爱丁顿没有依靠胡塞尔的现象学文化背景，或者实际上是哲学的背景，完全放弃了超验唯心主义的直觉基础，仿佛没有意识到其重要性。因此，他通过在基于非度量仿射（即线性和对称）连接的几何学中构建世界结构（1923年的“世界结构”）来构成相对论客观四维世界，从而寻求了一种更为优越且完全普遍的概念基础。然后，他可以自由地找到自己的方式来构建爱因斯坦理论中经验验证的可积度量关系，而不受“纯无穷小”度量与原子光谱观测事实之间的冲突的束缚。
+梅耶森已经接近理解维尔-爱丁顿几何统一方案，以某种方式符合它们的初衷。对他和其他人来说，绊脚石在于坚信只有通过关于直观和直观表达的本质的论证才能支持超验唯心主义。确实，维尔构建相对论客观四维世界的几何框架是基于“实质洞察力”中可用的_确凿证据_，这仅限于流形中某一点_P_处的基本线性关系和映射，基本上是切向量空间 TP。因此，在维尔的微分几何中，存在着可积和不可积的比较关系之间的根本分歧。后者是原始的、在认识论上特权的，但直到展示了无限小的同质空间（对应于“空间的本质作为直观形式”）如何与广义相对论的大尺度不均匀空间（时空）相容之后，它们才得到了合理的证明。而这不需要关于直观本质的哲学论证，而是以群论概念形式进行的（维尔 1923a，b）。另一方面，爱丁顿没有依靠胡塞尔的现象学文化背景，或者实际上是哲学的背景，完全放弃了超验唯心主义的直觉基础，仿佛没有意识到其重要性。因此，他通过在基于非度量仿射（即线性和对称）连接的几何学中构建世界结构（1923年的“世界结构”）来构成相对论客观四维世界，从而寻求了一种更为优越且完全普遍的概念基础。然后，他可以自由地找到自己的方式来构建爱因斯坦理论中经验验证的可积度量关系，而不受“纯无穷小”度量与原子光谱观测事实之间的冲突的束缚。
 
 ### 5.7 “结构实在论”？
 
@@ -204,131 +201,131 @@ Gμν=kTμν，其中 Gμν≡Rμν−12gμνR
 
 ## Bibliography
 
-* Barbour, Julian B. and Herbert Pfister (eds.), 1995, *Mach’s Principle: From Newton’s Bucket to Quantum Gravity* (Einstein Studies: 6), Boston, Basel, Berlin: Birkhäuser.
-* Bohr, N., H.A. Kramers, and J.C. Slater, 1924, “The Quantum Theory of Radiation”, *Philosophical Magazine*, sixth series, 47(281): 785–802. doi:10.1080/14786442408565262
-* Bollert, Karl, 1921, *Einstein’s Relativitätstheorie und ihre Stellung im System der Gesamterfahrung*, Leipzig: Theodor Steinkopff.
-* Brading, K.A. and T.A. Ryckman, 2008, “Hilbert’s ‘Foundations of Physics’: Gravitation and Electromagnetism within the Axiomatic Method”, *Studies in History and Philosophy of Modern Physics*, 39(1): 102–53. doi:10.1016/j.shpsb.2007.08.002
+* Barbour, Julian B. and Herbert Pfister (eds.), 1995, _Mach’s Principle: From Newton’s Bucket to Quantum Gravity_ (Einstein Studies: 6), Boston, Basel, Berlin: Birkhäuser.
+* Bohr, N., H.A. Kramers, and J.C. Slater, 1924, “The Quantum Theory of Radiation”, _Philosophical Magazine_, sixth series, 47(281): 785–802. doi:10.1080/14786442408565262
+* Bollert, Karl, 1921, _Einstein’s Relativitätstheorie und ihre Stellung im System der Gesamterfahrung_, Leipzig: Theodor Steinkopff.
+* Brading, K.A. and T.A. Ryckman, 2008, “Hilbert’s ‘Foundations of Physics’: Gravitation and Electromagnetism within the Axiomatic Method”, _Studies in History and Philosophy of Modern Physics_, 39(1): 102–53. doi:10.1016/j.shpsb.2007.08.002
 * Bridgman, P., 1949, “Einstein’s Theories and the Operational Point of View”, in Schilpp 1949: 335–354.
-* Carnap, Rudolf, 1922, *Der Raum. Ein Beitrag zur Wissenschaftslehre* (*Kant-Studien*: Ergänzungshefte 56), Berlin: Reuther & Reichard.
+* Carnap, Rudolf, 1922, _Der Raum. Ein Beitrag zur Wissenschaftslehre_ (_Kant-Studien_: Ergänzungshefte 56), Berlin: Reuther & Reichard.
 * –––, 1956, “Introductory Remarks to the English Edition” (dated July 1956), in Reichenbach 1958: v–vii.
-* Cassirer, Ernst, 1910 [1923], *Substanzbegriff und Funktionsbegriff*, Berlin: Bruno Cassirer; English translation in Cassirer 1923 [1953: 1–346].
-* –––, 1921 [1957|1923], *Zur Einstein’schen Relativitätstheorie*, Berlin: Bruno Cassirer. Pagination as reprinted in *Zur Modernen Physik*, Darmstadt: Wissenschaftliche Buchgesellschaft, 1957, 1–125; English translation in Cassirer 1923 [1953: 345–460].
-* –––, 1923 [1953], *Substance and Function and Einstein’s Theory of Relativity*, translated by William Curtis Swabey and Marie Tylor Collins Swabey, Chicago: Open Court, 1923; reprint New York: Dover, 1953.
-* Coffa, J. Alberto, 1979, “Elective Affinities: Weyl and Reichenbach”, in Wesley C. Salmon (ed.), *Hans Reichenbach: Logical Empiricist*, Dordrecht: D. Reidel, 267–304. doi:10.1007/978-94-009-9404-1_9
-* –––, 1991, *The Semantic Tradition from Kant to Carnap: To the Vienna Station*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172240
-* Darrigol, Olivier, 2022, *Relativity Principles and Theories from Galileo to Einstein*, New York: Oxford University Press.
-* Dieks, Dennis, 1987, “Gravitation as a Universal Force”, *Synthese*, 73(2): 381–397. doi:10.1007/BF00484749
-* Eddington, Arthur Stanley, 1919, *Report on the Relativity Theory of Gravitation*, London: The Physical Society of London, Fleetway Press.
-* –––, 1920, *Space, Time and Gravitation: An Outline of the General Relativity Theory*, Cambridge: Cambridge University Press.
-* –––, 1921, “A Generalization of Weyl’s Theory of the Electromagnetic and Gravitational Fields”, *Proceedings of the Royal Society of London* (Series A), 99(697): 104–122. doi:10.1098/rspa.1921.0027
-* –––, 1923, *The Mathematical Theory of Relativity*, Cambridge: Cambridge University Press.
-* –––, 1928, *The Nature of the Physical World*, Cambridge: Cambridge University Press.
-* –––, 1936, *The Relativity Theory of Protons and Electrons*, Cambridge: Cambridge University Press.
-* –––, 1939, *The Philosophy of Physical Science* (The Tarner Lectures, 1938), Cambridge: Cambridge University Press
-* –––, 1948, *Fundamental Theory*, Cambridge: Cambridge University Press; published posthumously.
-* Ehlers, Jürgen, Felix A.E. Pirani, and Alfred Schild, 1973, “The Geometry of Freefall and Light Propagation”, in Lochlainn O’Raifeartaigh (ed.), *General Relativity: Papers in Honour of J.L. Synge*, Oxford: Clarendon Press, 63–84; reprinted in 2012, *General Relativity and Gravitation*, 44(6): 1587–1609. doi:10.1007/s10714-012-1353-4
-* Einstein, Albert, 1905, “Zur Elektrodynamik bewegter Körper”, *Annalen der Physik*, 17(10):891–921, doi:10.1002/andp.19053221004; reprinted in Einstein 1989: 275–310; translation by A. Beck in Einstein 1989, supplement, 140–171.
-* –––, 1916a, “Die Grundlage der allgemeine Relativitätstheorie”, *Annalen der Physik*, 49(7): 769–822, doi:10.1002/andp.19163540702; separately printed Berlin: J. Springer; reprinted in Einstein 1996: 284–339; translation in Einstein *et al.*, 1923: 109–173.
-* –––, 1916b, “Ernst Mach”, *Physikalische Zeitschrift*, 17(7): 101–104; reprinted in Einstein 1996: 278–281.
-* –––, 1917a [1955], *Über die spezielle und die allgemeine Relativitätstheorie*, Braunschweig: Vieweg; translation by R.W. Lawson as *Relativity: The Special and the General Theory*, New York: Crown Publishers, 1955.
-* –––, 1917b, “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie”, *Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften*, 1917: 142–157; translation Einstein *et al.* 1923: 175–188.
-* –––, 1918, “Prinzipielles zur allgemeinen Relativitätstheorie”, *Annalen der Physik*, 55(4): 241–244. doi:10.1002/andp.19183600402
-* –––, 1921, “Geometrie und Erfahrung”, *Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften*, 1921: 123–130; expanded and issued separately, Berlin: J.Springer, 1921; translation in *Sidelights on Relativity*, London: Methuen, 1922; reprint New York: Dover, 1983: 27–56.
-* –––, 1922, “Remarks”, *Bulletin de la Société Française de Philosophie*, 22(3): 91–113; as reprinted in *La Pensée*, 210 (1980): 12–29.
-* –––, 1923, “Fundamental Ideas and Problems of the Theory of Relativity”, Lecture delivered to the Nordic Assembly of Naturalists at Gothenburg, July 11, 1923, as translated in *Nobel Lectures Physics, 1901–1921*, Elsevier, Amsterdam–London–New York, 1967: 482–90.
-* –––, 1924, “Review of *Relativitätstheorie und Erkenntnislehre*, by J. Winternitz”, *Deutsche Literaturzeitung*,45: 20–22.
-* –––, 1925, “Einheitliche Feldtheorie von Gravitation und Elektrizität”, *Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften*, 1925: 414–419.
-* –––, 1928, “A propos de «La Déduction Relativiste» de M. Émile Meyerson”, *Revue Philosophique de la France et de l’etranger*, 105: 161–166; pagination according to translation of original German text by D. and M. Sipfle in Meyerson 1925.
-* –––, 1929, “Zur einheitliche Feldtheorie”, *Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften*, 1929: 2–7.
-* –––, 1932, “Der gegenwärtige Stand der Relativitätstheorie”, *Die Quelle (Pedagogischer Führer)*, 82: 440–442
+* Cassirer, Ernst, 1910 \[1923], _Substanzbegriff und Funktionsbegriff_, Berlin: Bruno Cassirer; English translation in Cassirer 1923 \[1953: 1–346].
+* –––, 1921 \[1957|1923], _Zur Einstein’schen Relativitätstheorie_, Berlin: Bruno Cassirer. Pagination as reprinted in _Zur Modernen Physik_, Darmstadt: Wissenschaftliche Buchgesellschaft, 1957, 1–125; English translation in Cassirer 1923 \[1953: 345–460].
+* –––, 1923 \[1953], _Substance and Function and Einstein’s Theory of Relativity_, translated by William Curtis Swabey and Marie Tylor Collins Swabey, Chicago: Open Court, 1923; reprint New York: Dover, 1953.
+* Coffa, J. Alberto, 1979, “Elective Affinities: Weyl and Reichenbach”, in Wesley C. Salmon (ed.), _Hans Reichenbach: Logical Empiricist_, Dordrecht: D. Reidel, 267–304. doi:10.1007/978-94-009-9404-1\_9
+* –––, 1991, _The Semantic Tradition from Kant to Carnap: To the Vienna Station_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172240
+* Darrigol, Olivier, 2022, _Relativity Principles and Theories from Galileo to Einstein_, New York: Oxford University Press.
+* Dieks, Dennis, 1987, “Gravitation as a Universal Force”, _Synthese_, 73(2): 381–397. doi:10.1007/BF00484749
+* Eddington, Arthur Stanley, 1919, _Report on the Relativity Theory of Gravitation_, London: The Physical Society of London, Fleetway Press.
+* –––, 1920, _Space, Time and Gravitation: An Outline of the General Relativity Theory_, Cambridge: Cambridge University Press.
+* –––, 1921, “A Generalization of Weyl’s Theory of the Electromagnetic and Gravitational Fields”, _Proceedings of the Royal Society of London_ (Series A), 99(697): 104–122. doi:10.1098/rspa.1921.0027
+* –––, 1923, _The Mathematical Theory of Relativity_, Cambridge: Cambridge University Press.
+* –––, 1928, _The Nature of the Physical World_, Cambridge: Cambridge University Press.
+* –––, 1936, _The Relativity Theory of Protons and Electrons_, Cambridge: Cambridge University Press.
+* –––, 1939, _The Philosophy of Physical Science_ (The Tarner Lectures, 1938), Cambridge: Cambridge University Press
+* –––, 1948, _Fundamental Theory_, Cambridge: Cambridge University Press; published posthumously.
+* Ehlers, Jürgen, Felix A.E. Pirani, and Alfred Schild, 1973, “The Geometry of Freefall and Light Propagation”, in Lochlainn O’Raifeartaigh (ed.), _General Relativity: Papers in Honour of J.L. Synge_, Oxford: Clarendon Press, 63–84; reprinted in 2012, _General Relativity and Gravitation_, 44(6): 1587–1609. doi:10.1007/s10714-012-1353-4
+* Einstein, Albert, 1905, “Zur Elektrodynamik bewegter Körper”, _Annalen der Physik_, 17(10):891–921, doi:10.1002/andp.19053221004; reprinted in Einstein 1989: 275–310; translation by A. Beck in Einstein 1989, supplement, 140–171.
+* –––, 1916a, “Die Grundlage der allgemeine Relativitätstheorie”, _Annalen der Physik_, 49(7): 769–822, doi:10.1002/andp.19163540702; separately printed Berlin: J. Springer; reprinted in Einstein 1996: 284–339; translation in Einstein _et al._, 1923: 109–173.
+* –––, 1916b, “Ernst Mach”, _Physikalische Zeitschrift_, 17(7): 101–104; reprinted in Einstein 1996: 278–281.
+* –––, 1917a \[1955], _Über die spezielle und die allgemeine Relativitätstheorie_, Braunschweig: Vieweg; translation by R.W. Lawson as _Relativity: The Special and the General Theory_, New York: Crown Publishers, 1955.
+* –––, 1917b, “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie”, _Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften_, 1917: 142–157; translation Einstein _et al._ 1923: 175–188.
+* –––, 1918, “Prinzipielles zur allgemeinen Relativitätstheorie”, _Annalen der Physik_, 55(4): 241–244. doi:10.1002/andp.19183600402
+* –––, 1921, “Geometrie und Erfahrung”, _Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften_, 1921: 123–130; expanded and issued separately, Berlin: J.Springer, 1921; translation in _Sidelights on Relativity_, London: Methuen, 1922; reprint New York: Dover, 1983: 27–56.
+* –––, 1922, “Remarks”, _Bulletin de la Société Française de Philosophie_, 22(3): 91–113; as reprinted in _La Pensée_, 210 (1980): 12–29.
+* –––, 1923, “Fundamental Ideas and Problems of the Theory of Relativity”, Lecture delivered to the Nordic Assembly of Naturalists at Gothenburg, July 11, 1923, as translated in _Nobel Lectures Physics, 1901–1921_, Elsevier, Amsterdam–London–New York, 1967: 482–90.
+* –––, 1924, “Review of _Relativitätstheorie und Erkenntnislehre_, by J. Winternitz”, _Deutsche Literaturzeitung_,45: 20–22.
+* –––, 1925, “Einheitliche Feldtheorie von Gravitation und Elektrizität”, _Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften_, 1925: 414–419.
+* –––, 1928, “A propos de «La Déduction Relativiste» de M. Émile Meyerson”, _Revue Philosophique de la France et de l’etranger_, 105: 161–166; pagination according to translation of original German text by D. and M. Sipfle in Meyerson 1925.
+* –––, 1929, “Zur einheitliche Feldtheorie”, _Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften_, 1929: 2–7.
+* –––, 1932, “Der gegenwärtige Stand der Relativitätstheorie”, _Die Quelle (Pedagogischer Führer)_, 82: 440–442
 * –––, 1933, “On the Method of Theoretical Physics”, as translated by S. Bargmann in Einstein 1954: 270–276.
-* –––, 1936, “Physik und Realität”, *The Journal of the Franklin Institute*, 221(3): 313–337; as translated by S. Bargmann in Einstein 1954: 290–323. doi:10.1016/S0016-0032(36)91045-1 (de)
+* –––, 1936, “Physik und Realität”, _The Journal of the Franklin Institute_, 221(3): 313–337; as translated by S. Bargmann in Einstein 1954: 290–323. doi:10.1016/S0016-0032(36)91045-1 (de)
 * –––, 1949a, “Autobiographical Notes”, in Schilpp 1949: 2–95.
 * –––, 1949b, “Replies to Criticisms” in Schilpp 1949: 665–688.
-* –––, 1950, “On the Generalized Theory of Gravitation”, *Scientific American*, 182(4): 13–17. Reprinted in Einstein 1954: 341–356.
-* –––, 1954, *Albert Einstein: Ideas and Opinions*, New York: Bonanza Books.
-* –––, 1989, *The Collected Papers of Albert Einstein*, volume 2, J. Stachel (ed.) Princeton: Princeton University Press; English translation supplement published separately.
-* –––, 1996, *The Collected Papers of Albert Einstein*, volume 6, A.J. Kox, M.J. Klein, and R. Schulmann (eds.) Princeton: Princeton University Press.
-* Einstein, Albert, H.A. Lorentz, H. Minkowski and Hermann Weyl, 1923, *The Principle of Relativity*, translation by W. Parret and G.B. Jeffrey, London: Methuen, 1923; reprint New York: Dover, n.d.
-* Fölsing, Albrecht, 1993 [1997], *Albert Einstein: eine Biographie*, Frankfurt am Main : Suhrkamp. Translated as *Albert Einstein; A Biography* by Ewald Osers, New York: Viking, 1997.
-* Frank, Philipp, 1917 [1949], “Die Bedeutung der physikalischen Erkenntnistheorie Machs für die Geistesleben der Gegenwart”, *Die Naturwissenschaften*, 5(5): 65–71, doi:10.1007/BF02448154; translated as “The Importance for Our Times of Ernst Mach’s Philosophy of Science”, in his *Modern Science and its Philosophy*, Cambridge, MA: Harvard University Press, 1949, 61–78.
-* Friedman, Michael, 1983, *Foundations of Space-Time Theories*, Princeton: Princeton University Press.
-* –––, 1994 [1999], “Geometry, Convention, and the Relativized A Priori: Reichenbach, Schlick, and Carnap”, in *Logic, Language, and the Structure of Scientific Theories*, W. Salmon and G. Wolters (eds), Pittsburgh: University of Pittsburgh Press, 21–34. Reprinted in his *Reconsidering Logical Positivism*, Cambridge: Cambridge University Press, 1999, 59–70. doi:10.1017/CBO9781139173193
-* Geroch, Robert P., 1966, “Electromagnetism as an Aspect of Geometry? Already Unified Field Theory—The Null Field Case”, *Annals of Physics*, 36(2): 147–187. doi:10.1016/0003-4916(66)90217-X
-* –––, 1978, *General Relativity from A to B*, Chicago: University of Chicago Press.
-* Giovanelli, Marco, 2013a, “The Forgotten Tradition: How the Logical Empiricists Missed the Philosophical Significance of the Work of Riemann, Christoffel, and Ricci”, *Erkenntnis*, 78(6): 1219–1257. doi:10.1007/s10670-012-9407-2
-* –––, 2013b, “Talking at Cross Purposes. How Einstein and the Logical Empiricists never Agreed on what they were Disagreeing About”, *Synthese*, 190(17): 3819–3863. doi:10.1007/s11229-012-0229-1
-* Gödel, Kurt, 1946/9-B2, “Some Observations about the Relationship between Theory of Relativity and Kantian Philosophy”, in 1995, *Collected Works, Volume III: Unpublished Essays and Lectures*, New York and Oxford: Oxford University Press, 230–259.
-* –––, 1949, “An Example of a New Type of Cosmological Solutions of Einstein’s Field Equations of Gravitation”, *Reviews of Modern Physics*, 21(3): 447–450; reprinted in 1990, *Collected Works, volume II: Publications 1938–1974*, New York and Oxford: Oxford University Press, 190–198. doi:10.1103/RevModPhys.21.447
-* Hentschel, Klaus, 1990, *Interpretationen und Fehlinterpretationen der speziellen und der allgemeinen Relativitätstheorie durch Zeitgenossen Albert Einsteins*, Basel, Boston, Berlin: Birkhäuser. doi:10.1007/978-3-0348-9261-2
-* Haas, Arthur, 1920, “Die Physik als geometrische Notwendigkeit”, *Die Naturwissenschaften*, 8(7): 121–140. doi:10.1007/BF02448074
-* Hilbert, David, 1915, “Die Grundlagen der Physik (Erste Mitteilung)”, *Nachrichten. Königliche Gesellschaft der Wissenschaften zu Göttingen. Mathematische-Physikalische Klasse*, 1915: 395–407. [[Hilbert 1915 available online](http://www.digizeitschriften.de/dms/resolveppn/?PID=GDZPPN002504286)]
-* –––, 1917, “Die Grundlagen der Physik (Zweite Mitteilung)”, *Nachrichten. Königliche Gesellschaft der Wissenschaften zu Göttingen. Mathematische-Physikalische Klasse*, 1917: 53–76. [[Hilbert 1917 available online](http://www.digizeitschriften.de/dms/resolveppn/?PID=GDZPPN002504561)]
-* Howard, Don A., 1984, “Realism and Conventionalism in Einstein’s Philosophy of Science: The Einstein-Schlick Correspondence”, *Philosophia Naturalis*, 21(2–4): 616–629.
-* Howard, Don and John J. Stachel (eds.), 1989, *Einstein and the History of General Relativity* (Einstein Studies: 1), Boston, Basel, Berlin: Birkhäuser.
+* –––, 1950, “On the Generalized Theory of Gravitation”, _Scientific American_, 182(4): 13–17. Reprinted in Einstein 1954: 341–356.
+* –––, 1954, _Albert Einstein: Ideas and Opinions_, New York: Bonanza Books.
+* –––, 1989, _The Collected Papers of Albert Einstein_, volume 2, J. Stachel (ed.) Princeton: Princeton University Press; English translation supplement published separately.
+* –––, 1996, _The Collected Papers of Albert Einstein_, volume 6, A.J. Kox, M.J. Klein, and R. Schulmann (eds.) Princeton: Princeton University Press.
+* Einstein, Albert, H.A. Lorentz, H. Minkowski and Hermann Weyl, 1923, _The Principle of Relativity_, translation by W. Parret and G.B. Jeffrey, London: Methuen, 1923; reprint New York: Dover, n.d.
+* Fölsing, Albrecht, 1993 \[1997], _Albert Einstein: eine Biographie_, Frankfurt am Main : Suhrkamp. Translated as _Albert Einstein; A Biography_ by Ewald Osers, New York: Viking, 1997.
+* Frank, Philipp, 1917 \[1949], “Die Bedeutung der physikalischen Erkenntnistheorie Machs für die Geistesleben der Gegenwart”, _Die Naturwissenschaften_, 5(5): 65–71, doi:10.1007/BF02448154; translated as “The Importance for Our Times of Ernst Mach’s Philosophy of Science”, in his _Modern Science and its Philosophy_, Cambridge, MA: Harvard University Press, 1949, 61–78.
+* Friedman, Michael, 1983, _Foundations of Space-Time Theories_, Princeton: Princeton University Press.
+* –––, 1994 \[1999], “Geometry, Convention, and the Relativized A Priori: Reichenbach, Schlick, and Carnap”, in _Logic, Language, and the Structure of Scientific Theories_, W. Salmon and G. Wolters (eds), Pittsburgh: University of Pittsburgh Press, 21–34. Reprinted in his _Reconsidering Logical Positivism_, Cambridge: Cambridge University Press, 1999, 59–70. doi:10.1017/CBO9781139173193
+* Geroch, Robert P., 1966, “Electromagnetism as an Aspect of Geometry? Already Unified Field Theory—The Null Field Case”, _Annals of Physics_, 36(2): 147–187. doi:10.1016/0003-4916(66)90217-X
+* –––, 1978, _General Relativity from A to B_, Chicago: University of Chicago Press.
+* Giovanelli, Marco, 2013a, “The Forgotten Tradition: How the Logical Empiricists Missed the Philosophical Significance of the Work of Riemann, Christoffel, and Ricci”, _Erkenntnis_, 78(6): 1219–1257. doi:10.1007/s10670-012-9407-2
+* –––, 2013b, “Talking at Cross Purposes. How Einstein and the Logical Empiricists never Agreed on what they were Disagreeing About”, _Synthese_, 190(17): 3819–3863. doi:10.1007/s11229-012-0229-1
+* Gödel, Kurt, 1946/9-B2, “Some Observations about the Relationship between Theory of Relativity and Kantian Philosophy”, in 1995, _Collected Works, Volume III: Unpublished Essays and Lectures_, New York and Oxford: Oxford University Press, 230–259.
+* –––, 1949, “An Example of a New Type of Cosmological Solutions of Einstein’s Field Equations of Gravitation”, _Reviews of Modern Physics_, 21(3): 447–450; reprinted in 1990, _Collected Works, volume II: Publications 1938–1974_, New York and Oxford: Oxford University Press, 190–198. doi:10.1103/RevModPhys.21.447
+* Hentschel, Klaus, 1990, _Interpretationen und Fehlinterpretationen der speziellen und der allgemeinen Relativitätstheorie durch Zeitgenossen Albert Einsteins_, Basel, Boston, Berlin: Birkhäuser. doi:10.1007/978-3-0348-9261-2
+* Haas, Arthur, 1920, “Die Physik als geometrische Notwendigkeit”, _Die Naturwissenschaften_, 8(7): 121–140. doi:10.1007/BF02448074
+* Hilbert, David, 1915, “Die Grundlagen der Physik (Erste Mitteilung)”, _Nachrichten. Königliche Gesellschaft der Wissenschaften zu Göttingen. Mathematische-Physikalische Klasse_, 1915: 395–407. \[[Hilbert 1915 available online](http://www.digizeitschriften.de/dms/resolveppn/?PID=GDZPPN002504286)]
+* –––, 1917, “Die Grundlagen der Physik (Zweite Mitteilung)”, _Nachrichten. Königliche Gesellschaft der Wissenschaften zu Göttingen. Mathematische-Physikalische Klasse_, 1917: 53–76. \[[Hilbert 1917 available online](http://www.digizeitschriften.de/dms/resolveppn/?PID=GDZPPN002504561)]
+* Howard, Don A., 1984, “Realism and Conventionalism in Einstein’s Philosophy of Science: The Einstein-Schlick Correspondence”, _Philosophia Naturalis_, 21(2–4): 616–629.
+* Howard, Don and John J. Stachel (eds.), 1989, _Einstein and the History of General Relativity_ (Einstein Studies: 1), Boston, Basel, Berlin: Birkhäuser.
 * Janssen, Michel, 2014, “‘No Success Like Failure ….’ Einstein’s Quest for General Relativity, 1907–1920”, in Janssen and Lehner 2014: 167–227. doi:DOI: 10.1017/CCO9781139024525.008
-* Janssen, Michel and Christoph Lehner (eds.), 2014, *The Cambridge Companion to Einstein*, Cambridge: Cambridge University Press. doi:10.1017/CCO9781139024525
-* Kaluza, Theodore, 1921, “Zum Unitätsproblem der Physik”, *Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften*, 1921: 966–972; translation in O’Raifeartaigh 1997: 53–58; a second translation, together with translations of the relevant letters from Einstein to Kaluza, all by C. Hoenselaers, appears in V. de Sabbata and E. Schmutzer (eds.), *Unified Field Theories of More than 4 Dimensions*, Singapore: World Scientific, 1983, 427–33; 447–57.
-* Ladyman, James and Don Ross, 2007, *Every Thing Must Go: Metaphysics Naturalized*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199276196.001.0001
-* Lehmkuhl, Dennis, 2014, “Why Einstein Did Not Believe that General Relativity Geometrizes Gravity”, *Studies in the History and Philosophy of Modern Physics*, 46: 316–26. doi: 10.1016/j.shpsb.2013.08.002
-* Lodge, Oliver, 1921, “The Geometisation of Physics, and its Supposed Basis on the Michelson-Morley Experiment”, *Nature*, 106(2677): 795–802. doi:10.1038/106795a0
-* Mach, Ernst, 1883, *Die Mechanik in ihrer Entwicklung: Historisch-Kritisch Dargestellt*, Leipzig: Brockhaus. Translation of the 7th German edition (1912), by T.J. McCormack, with revisions through the 9th German edition (1933), as *The Science of Mechanics: A Critical and Historical Account of its Development*, LaSalle, IL: Open Court Publishing Co., 1960.
-* –––, 1921, *Die Prinzipien der physikalischen Optik. Historisch und erkenntnispsychologisch entwickelt*, Leipzig: J.A. Barth. Translation by J. Anderson and A.Young as *The Principles of Physical Optics: An Historical and Philosophical Treatment*; reprinted, New York: Dover, 1953.
-* Mancosu, Paolu and Thomas Ryckman, 2005, “Geometry, Physics and Phenomenology: Four Letters of O. Becker to H. Weyl”, in Volker Peckhaus (hrsg.), *Oskar Becker und die Philosophie der Mathematik*, Munich: Wilhelm Fink Verlag, 153–228; reprinted in Paolo Mancosu, *The Adventure of Reason: Interplay Between Philosophy of Mathematics and Mathematical Logic: 1900–1940*, New York: Oxford University Press, 2010, 308–45.
-* Meyerson, Émile, 1925, *La Déduction Relativiste*, Paris: Payot; translation with supplementary material by D.A. and M.A. Sipfle as *The Relativistic Deduction*, Dordrecht: D. Reidel, 1985.
-* Misner, Charles W. and John A. Wheeler, 1957 [1962], “Classical Physics as Geometry”, *Annals of Physics*, 2(6): 523–603; reprinted in J.A. Wheeler, *Geometrodynamics*, New York and London: Academic Press, 1962, 225–307. doi:10.1016/0003-4916(57)90049-0
-* Natorp, Paul, 1910, *Die Logischen Grundlagen der Exakten Wissenschaften*, Leipzig: B.G. Teubner.
-* Norton, John D., 1984, “How Einstein Found his Field Equations: 1912–1915”, *Historical Studies in the Physical Sciences*, 14(2): 253–316; reprinted in Howard & Stachel 1989: 101–159. doi:10.2307/27757535
-* –––, 1993, “General Covariance and the Foundations of General Relativity: Eight Decades of Dispute”, *Reports on Progress in Physics*, 56(7): 791–858. doi:10.1088/0034-4885/56/7/001
-* –––, 2000, “‘Nature is the Realisation of the Simplest Conceivable Mathematical Ideas’: Einstein and the Canon of Mathematical Simplicity”, *Studies in the History and Philosophy of Modern Physics*, 31(2): 135–170. doi:10.1016/S1355-2198(99)00035-0
-* Ohanian, Hans C., 2008, *Einstein’s Mistakes: The Human Failings of Genius*, New York and London: W.W. Norton and Co..
-* O’Raifeartaigh, Lochlainn, 1997, *The Dawning of Gauge Theory*, Princeton: Princeton University Press.
-* Petzoldt, Joseph, 1921, “Der Verhältnis der Machschen Gedankenwelt zur Relativitätstheorie”, an appendix to Ernst Mach, *Die Mechanik in ihrer Entwicklung: Historisch-Kritisch Dargestellt. Achte Auflage*, Leipzig: Brockhaus, 490–517.
-* Poincaré, Henri, 1906, *La Valeur de la Science* (*The Value of Science*), 1913 translation from the original French edition by George Bruce Halsted; reprint edition New York: Dover Publishing, 1958.
-* Rainich, G.Y., 1925, “Electrodynamics in the General Relativity Theory”, *Transactions of the American Mathematical Society*, 27(1): 106–136. doi:10.1090/S0002-9947-1925-1501302-6
-* Reichenbach, Hans, 1920 [1965], *Relativitätstheorie und Erkenntnis Apriori*, Berlin: J. Springer; translation by M. Reichenbach, *The Theory of Relativity and A Priori Knowledge*, Berkeley and Los Angeles: University of California Press, 1965.
-* –––, 1922, “La signification philosophique de la théorie de la relativité”, *Revue Philosophique de la France et de Étranger*, 94(Juillet a Décembre): 5–61; translated into French by Léon Bloch; English translation, with omissions, “:The Present State of the Discussion on Relativity A Critical Investigation”, by Maria Reichenbach in Maria Reichenbach and Robert S. Cohen (eds.) *Hans Reichenbach Selected Works* (Volume 2), Dordrecht: D. Reidel, 1978, 3–47. doi:10.1007/978-94-009-9855-1_1
-* –––, 1924 [1969], *Axiomatik der relativistischen Raum-Zeit-Lehre*, Braunschweig: Vieweg; translation by M. Reichenbach, *Axiomatization of the Theory of Relativity*, Berkeley and Los Angeles: University of California Press, 1969.
-* –––, 1928 [1958], *Philosophie der Raum-Zeit Lehre*, Berlin: Walter de Gruyter; translation, with omissions, by M. Reichenbach and J. Freund, *The Philosophy of Space and Time*, New York: Dover, 1958.
-* Russell, Bertrand, 1926, “Relativity: Philosophical Consequences”, *Encyclopedia Britannica* (13th edition: Volume 31), 331–332, London and New York.
-* –––, 1927, *The Analysis of Matter*, London: Kegan Paul.
-* Ryckman, Thomas, 2005, *The Reign of Relativity: Philosophy in Physics 1915–1925* (Oxford Studies in Philosophy of Science), New York: Oxford University Press.
-* –––, 2007, “Logical Empiricism and the Philosophy of Physics”, in Alan Richardson and Thomas E. Uebel (eds.), *The Cambridge Companion to Logical Empiricism*, Cambridge: Cambridge University Press, 193–227. doi:10.1017/CCOL0521791782.009
+* Janssen, Michel and Christoph Lehner (eds.), 2014, _The Cambridge Companion to Einstein_, Cambridge: Cambridge University Press. doi:10.1017/CCO9781139024525
+* Kaluza, Theodore, 1921, “Zum Unitätsproblem der Physik”, _Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften_, 1921: 966–972; translation in O’Raifeartaigh 1997: 53–58; a second translation, together with translations of the relevant letters from Einstein to Kaluza, all by C. Hoenselaers, appears in V. de Sabbata and E. Schmutzer (eds.), _Unified Field Theories of More than 4 Dimensions_, Singapore: World Scientific, 1983, 427–33; 447–57.
+* Ladyman, James and Don Ross, 2007, _Every Thing Must Go: Metaphysics Naturalized_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199276196.001.0001
+* Lehmkuhl, Dennis, 2014, “Why Einstein Did Not Believe that General Relativity Geometrizes Gravity”, _Studies in the History and Philosophy of Modern Physics_, 46: 316–26. doi: 10.1016/j.shpsb.2013.08.002
+* Lodge, Oliver, 1921, “The Geometisation of Physics, and its Supposed Basis on the Michelson-Morley Experiment”, _Nature_, 106(2677): 795–802. doi:10.1038/106795a0
+* Mach, Ernst, 1883, _Die Mechanik in ihrer Entwicklung: Historisch-Kritisch Dargestellt_, Leipzig: Brockhaus. Translation of the 7th German edition (1912), by T.J. McCormack, with revisions through the 9th German edition (1933), as _The Science of Mechanics: A Critical and Historical Account of its Development_, LaSalle, IL: Open Court Publishing Co., 1960.
+* –––, 1921, _Die Prinzipien der physikalischen Optik. Historisch und erkenntnispsychologisch entwickelt_, Leipzig: J.A. Barth. Translation by J. Anderson and A.Young as _The Principles of Physical Optics: An Historical and Philosophical Treatment_; reprinted, New York: Dover, 1953.
+* Mancosu, Paolu and Thomas Ryckman, 2005, “Geometry, Physics and Phenomenology: Four Letters of O. Becker to H. Weyl”, in Volker Peckhaus (hrsg.), _Oskar Becker und die Philosophie der Mathematik_, Munich: Wilhelm Fink Verlag, 153–228; reprinted in Paolo Mancosu, _The Adventure of Reason: Interplay Between Philosophy of Mathematics and Mathematical Logic: 1900–1940_, New York: Oxford University Press, 2010, 308–45.
+* Meyerson, Émile, 1925, _La Déduction Relativiste_, Paris: Payot; translation with supplementary material by D.A. and M.A. Sipfle as _The Relativistic Deduction_, Dordrecht: D. Reidel, 1985.
+* Misner, Charles W. and John A. Wheeler, 1957 \[1962], “Classical Physics as Geometry”, _Annals of Physics_, 2(6): 523–603; reprinted in J.A. Wheeler, _Geometrodynamics_, New York and London: Academic Press, 1962, 225–307. doi:10.1016/0003-4916(57)90049-0
+* Natorp, Paul, 1910, _Die Logischen Grundlagen der Exakten Wissenschaften_, Leipzig: B.G. Teubner.
+* Norton, John D., 1984, “How Einstein Found his Field Equations: 1912–1915”, _Historical Studies in the Physical Sciences_, 14(2): 253–316; reprinted in Howard & Stachel 1989: 101–159. doi:10.2307/27757535
+* –––, 1993, “General Covariance and the Foundations of General Relativity: Eight Decades of Dispute”, _Reports on Progress in Physics_, 56(7): 791–858. doi:10.1088/0034-4885/56/7/001
+* –––, 2000, “‘Nature is the Realisation of the Simplest Conceivable Mathematical Ideas’: Einstein and the Canon of Mathematical Simplicity”, _Studies in the History and Philosophy of Modern Physics_, 31(2): 135–170. doi:10.1016/S1355-2198(99)00035-0
+* Ohanian, Hans C., 2008, _Einstein’s Mistakes: The Human Failings of Genius_, New York and London: W.W. Norton and Co..
+* O’Raifeartaigh, Lochlainn, 1997, _The Dawning of Gauge Theory_, Princeton: Princeton University Press.
+* Petzoldt, Joseph, 1921, “Der Verhältnis der Machschen Gedankenwelt zur Relativitätstheorie”, an appendix to Ernst Mach, _Die Mechanik in ihrer Entwicklung: Historisch-Kritisch Dargestellt. Achte Auflage_, Leipzig: Brockhaus, 490–517.
+* Poincaré, Henri, 1906, _La Valeur de la Science_ (_The Value of Science_), 1913 translation from the original French edition by George Bruce Halsted; reprint edition New York: Dover Publishing, 1958.
+* Rainich, G.Y., 1925, “Electrodynamics in the General Relativity Theory”, _Transactions of the American Mathematical Society_, 27(1): 106–136. doi:10.1090/S0002-9947-1925-1501302-6
+* Reichenbach, Hans, 1920 \[1965], _Relativitätstheorie und Erkenntnis Apriori_, Berlin: J. Springer; translation by M. Reichenbach, _The Theory of Relativity and A Priori Knowledge_, Berkeley and Los Angeles: University of California Press, 1965.
+* –––, 1922, “La signification philosophique de la théorie de la relativité”, _Revue Philosophique de la France et de Étranger_, 94(Juillet a Décembre): 5–61; translated into French by Léon Bloch; English translation, with omissions, “:The Present State of the Discussion on Relativity A Critical Investigation”, by Maria Reichenbach in Maria Reichenbach and Robert S. Cohen (eds.) _Hans Reichenbach Selected Works_ (Volume 2), Dordrecht: D. Reidel, 1978, 3–47. doi:10.1007/978-94-009-9855-1\_1
+* –––, 1924 \[1969], _Axiomatik der relativistischen Raum-Zeit-Lehre_, Braunschweig: Vieweg; translation by M. Reichenbach, _Axiomatization of the Theory of Relativity_, Berkeley and Los Angeles: University of California Press, 1969.
+* –––, 1928 \[1958], _Philosophie der Raum-Zeit Lehre_, Berlin: Walter de Gruyter; translation, with omissions, by M. Reichenbach and J. Freund, _The Philosophy of Space and Time_, New York: Dover, 1958.
+* Russell, Bertrand, 1926, “Relativity: Philosophical Consequences”, _Encyclopedia Britannica_ (13th edition: Volume 31), 331–332, London and New York.
+* –––, 1927, _The Analysis of Matter_, London: Kegan Paul.
+* Ryckman, Thomas, 2005, _The Reign of Relativity: Philosophy in Physics 1915–1925_ (Oxford Studies in Philosophy of Science), New York: Oxford University Press.
+* –––, 2007, “Logical Empiricism and the Philosophy of Physics”, in Alan Richardson and Thomas E. Uebel (eds.), _The Cambridge Companion to Logical Empiricism_, Cambridge: Cambridge University Press, 193–227. doi:10.1017/CCOL0521791782.009
 * –––, 2014, “‘A Believing Rationalist’: Einstein and ‘the Truly Valuable in Kant’”, in Janssen and Lehner 2014: 377–420. doi:10.1017/CCO9781139024525.014
-* –––, 2017, *Einstein* (Routledge Philosophers Series), London and New York: Routledge.
+* –––, 2017, _Einstein_ (Routledge Philosophers Series), London and New York: Routledge.
 * Sauer, Tilman, 2014, “Einstein’s Unified Field Theory Program”, in Janssen and Lehner 2014: 281–305. doi:10.1017/CCO9781139024525.011
-* Schilpp, Paul Arthur (ed.), 1949, *Albert Einstein: Philosopher-Scientist*, Evanston: Northwestern University Press.
-* Schlick, Moritz, 1917, “Raum und Zeit in der gegenwärtigen Physik”, *Die Naturwissenschaften*, 5(11): 161–167 (doi:10.1007/BF02448293) and 5(12): 177–186 (doi:10.1007/BF02448303); also appearing as a monograph Berlin: J. Springer. Augmented *Vierte Auflage, 1922*, Berlin: J. Springer; translation by H.L. Brose and P. Heath in H. Mulder, and B. van de Velde-Schlick (eds.), *Moritz Schlick: Philosophical Papers* (Volume 1), Dordrecht: D. Reidel, 1979, 207–269.
-* Schneider, Ilse, 1921, *Das Raum-Zeit Problem bei Kant und Einstein*, Berlin: J. Springer. doi:10.1007/978-3-642-92225-1
-* Scholz, Erhard, 2001, “Weyl’s Infinitessimalgeometrie, 1917–1925”, in Erhard Scholz (ed.), *Hermann Weyl’s ‘Raum-Zeit-Materie’ and a General Introduction to his Scientific Work*, Basel, Boston, Berlin: Birkhäuser, 48–104.
-* –––, 2004, “Hermann Weyl’s Analysis of the ‘Problem of Space’ and the Origin of Gauge Structures”, *Science in Context*, 17(1–2): 165–197. doi:10.1017/S0269889704000080
-* –––, 2018, “The Unexpected Resurgence of Weyl Geometry in late 20th-Century Physics”, in D. Rowe, et al. (eds.), *Beyond Einstein* (Einstein Studies 14), New York: Birkhäuser, 261–360.
-* Sellien, Ewald, 1919, *Die erkenntnistheoretische Bedeutung der Relativitätstheorie*, (*Kant-Studien*: Ergänzungshefte 48), Berlin: Reuther & Reichard.
+* Schilpp, Paul Arthur (ed.), 1949, _Albert Einstein: Philosopher-Scientist_, Evanston: Northwestern University Press.
+* Schlick, Moritz, 1917, “Raum und Zeit in der gegenwärtigen Physik”, _Die Naturwissenschaften_, 5(11): 161–167 (doi:10.1007/BF02448293) and 5(12): 177–186 (doi:10.1007/BF02448303); also appearing as a monograph Berlin: J. Springer. Augmented _Vierte Auflage, 1922_, Berlin: J. Springer; translation by H.L. Brose and P. Heath in H. Mulder, and B. van de Velde-Schlick (eds.), _Moritz Schlick: Philosophical Papers_ (Volume 1), Dordrecht: D. Reidel, 1979, 207–269.
+* Schneider, Ilse, 1921, _Das Raum-Zeit Problem bei Kant und Einstein_, Berlin: J. Springer. doi:10.1007/978-3-642-92225-1
+* Scholz, Erhard, 2001, “Weyl’s Infinitessimalgeometrie, 1917–1925”, in Erhard Scholz (ed.), _Hermann Weyl’s ‘Raum-Zeit-Materie’ and a General Introduction to his Scientific Work_, Basel, Boston, Berlin: Birkhäuser, 48–104.
+* –––, 2004, “Hermann Weyl’s Analysis of the ‘Problem of Space’ and the Origin of Gauge Structures”, _Science in Context_, 17(1–2): 165–197. doi:10.1017/S0269889704000080
+* –––, 2018, “The Unexpected Resurgence of Weyl Geometry in late 20th-Century Physics”, in D. Rowe, et al. (eds.), _Beyond Einstein_ (Einstein Studies 14), New York: Birkhäuser, 261–360.
+* Sellien, Ewald, 1919, _Die erkenntnistheoretische Bedeutung der Relativitätstheorie_, (_Kant-Studien_: Ergänzungshefte 48), Berlin: Reuther & Reichard.
 * Stachel, John, 1980, “Einstein’s Search for General Covariance”, as reprinted in Howard & Stachel 1989: 63–100.
-* Torretti, Roberto, 1983, *Relativity and Geometry*, Oxford: Pergamon Press.
-* van Dongen, Jeroen, 2010, *Einstein’s Unification*, New York: Cambridge University Press. doi:10.1017/CBO9780511781377
-* von Laue, Max, 1921, *Die Relativitätstheorie. Zweiter Band: Die Allgemeine Relativitätstheorie und Einsteins Lehre von der Schwerkraft*, Braunschweig: Vieweg.
-* Vizgin, Vladimir P., 1985 [1994], *Edinye teorii poli͡a v pervoĭ treti XX veka*, Moscow: Nauka; translated by J.B. Barbour from the Russian as *Unified Field Theories in the first third of the 20th Century*, Basel, Boston, Berlin: Birkäuser, 1995.
-* Weyl, Hermann, 1918a, “Gravitation und Elektrizität”, *Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften*, 1918: 465–480; reprinted in Weyl 1968a: 29–42; translation in O’Raifeartaigh 1997: 24–37.
-* –––, 1918b, “Reine Infinitesimalgeometrie”, *Mathematische Zeitschrift*, 2(3–4): 384–411; reprinted in Weyl 1968a: 1–28. doi:10.1007/BF01199420
-* –––, 1919, *Raum-Zeit-Materie. Dritte Auflage*, Berlin: J. Springer.
-* –––, 1920, “Das Verhältnis der kausalen zur statistischen Betrachtungsweise in der Physik”, *Schweizerische Medizinische Wochenschrift*, 50: 737–741; reprinted in Weyl 1968a: 113–122.
-* –––, 1921, “Zur infinitesimalgeometrie: Einordnung der projektiven und der konformen Auffassung”, *Nachrichten: Königlichen Gesellschaft der Wissenschaften zu Göttingen, Math.-Phys. Kl.*, 1921: 99–112; reprinted in Weyl 1968a: 195–207. [[Weyl 1921 available online](http://www.digizeitschriften.de/dms/img/?PID=GDZPPN002505908)]
-* –––, 1923a, *Raum-Zeit-Materie. Fünfte Auflage*, Berlin: J. Springer.
-* –––, 1923b, *Mathematische Analyse des Raumproblems*, Berlin: J. Springer; reprint in *Das Kontinuum und andere Monographien*, New York: Chelsea Publishing Co., 2006
-* –––, 1929, “Elektron und Gravitation”, *Zeitschrift für Physik*, 56(5–6): 330–352, doi:10.1007/BF01339504; reprinted in Weyl, 1968b: 245–267; translation in O’Raifeartaigh 1997: 121–144.
-* –––, 1968a, *Gesammelte Abhandlungen*, Bd. II (articles written between 1918 and 1926), Komaravolu Chandrasekharan (ed.), Berlin, Heidelberg, New York: Springer Verlag.
-* –––, 1968b, *Gesammelte Abhandlungen*, Bd. III (articles written between 1926 and 1940), Komaravolu Chandrasekharan (ed.), Berlin, Heidelberg, New York: Springer Verlag.
-* Winternitz, Josef, 1924, *Relativitätstheorie und Erkenntnislehre*, Leipzig und Berlin: B.G. Teubner. doi:10.1007/978-3-663-15828-8
-* Wolters, Gereon, 1987, *Mach I, Mach II, Einstein und die Relativitätstheorie: Eine Fälschung und ihre Folgen*, Berlin and New York: Walter de Gruyter.
+* Torretti, Roberto, 1983, _Relativity and Geometry_, Oxford: Pergamon Press.
+* van Dongen, Jeroen, 2010, _Einstein’s Unification_, New York: Cambridge University Press. doi:10.1017/CBO9780511781377
+* von Laue, Max, 1921, _Die Relativitätstheorie. Zweiter Band: Die Allgemeine Relativitätstheorie und Einsteins Lehre von der Schwerkraft_, Braunschweig: Vieweg.
+* Vizgin, Vladimir P., 1985 \[1994], _Edinye teorii poli͡a v pervoĭ treti XX veka_, Moscow: Nauka; translated by J.B. Barbour from the Russian as _Unified Field Theories in the first third of the 20th Century_, Basel, Boston, Berlin: Birkäuser, 1995.
+* Weyl, Hermann, 1918a, “Gravitation und Elektrizität”, _Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften_, 1918: 465–480; reprinted in Weyl 1968a: 29–42; translation in O’Raifeartaigh 1997: 24–37.
+* –––, 1918b, “Reine Infinitesimalgeometrie”, _Mathematische Zeitschrift_, 2(3–4): 384–411; reprinted in Weyl 1968a: 1–28. doi:10.1007/BF01199420
+* –––, 1919, _Raum-Zeit-Materie. Dritte Auflage_, Berlin: J. Springer.
+* –––, 1920, “Das Verhältnis der kausalen zur statistischen Betrachtungsweise in der Physik”, _Schweizerische Medizinische Wochenschrift_, 50: 737–741; reprinted in Weyl 1968a: 113–122.
+* –––, 1921, “Zur infinitesimalgeometrie: Einordnung der projektiven und der konformen Auffassung”, _Nachrichten: Königlichen Gesellschaft der Wissenschaften zu Göttingen, Math.-Phys. Kl._, 1921: 99–112; reprinted in Weyl 1968a: 195–207. \[[Weyl 1921 available online](http://www.digizeitschriften.de/dms/img/?PID=GDZPPN002505908)]
+* –––, 1923a, _Raum-Zeit-Materie. Fünfte Auflage_, Berlin: J. Springer.
+* –––, 1923b, _Mathematische Analyse des Raumproblems_, Berlin: J. Springer; reprint in _Das Kontinuum und andere Monographien_, New York: Chelsea Publishing Co., 2006
+* –––, 1929, “Elektron und Gravitation”, _Zeitschrift für Physik_, 56(5–6): 330–352, doi:10.1007/BF01339504; reprinted in Weyl, 1968b: 245–267; translation in O’Raifeartaigh 1997: 121–144.
+* –––, 1968a, _Gesammelte Abhandlungen_, Bd. II (articles written between 1918 and 1926), Komaravolu Chandrasekharan (ed.), Berlin, Heidelberg, New York: Springer Verlag.
+* –––, 1968b, _Gesammelte Abhandlungen_, Bd. III (articles written between 1926 and 1940), Komaravolu Chandrasekharan (ed.), Berlin, Heidelberg, New York: Springer Verlag.
+* Winternitz, Josef, 1924, _Relativitätstheorie und Erkenntnislehre_, Leipzig und Berlin: B.G. Teubner. doi:10.1007/978-3-663-15828-8
+* Wolters, Gereon, 1987, _Mach I, Mach II, Einstein und die Relativitätstheorie: Eine Fälschung und ihre Folgen_, Berlin and New York: Walter de Gruyter.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=genrel-early). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/genrel-early/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=genrel-early&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/genrel-early/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=genrel-early).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/genrel-early/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=genrel-early\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/genrel-early/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -337,7 +334,7 @@ Gμν=kTμν，其中 Gμν≡Rμν−12gμνR
 
 ## Related Entries
 
-[*a priori* justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [Einstein, Albert: philosophy of science](https://plato.stanford.edu/entries/einstein-philscience/) | [equivalence of mass and energy](https://plato.stanford.edu/entries/equivME/) | [geometry: in the 19th century](https://plato.stanford.edu/entries/geometry-19th/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Reichenbach, Hans](https://plato.stanford.edu/entries/reichenbach/) | [space and time: conventionality of simultaneity](https://plato.stanford.edu/entries/spacetime-convensimul/) | [space and time: the hole argument](https://plato.stanford.edu/entries/spacetime-holearg/) | [structural realism](https://plato.stanford.edu/entries/structural-realism/)
+[_a priori_ justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [Einstein, Albert: philosophy of science](https://plato.stanford.edu/entries/einstein-philscience/) | [equivalence of mass and energy](https://plato.stanford.edu/entries/equivME/) | [geometry: in the 19th century](https://plato.stanford.edu/entries/geometry-19th/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Reichenbach, Hans](https://plato.stanford.edu/entries/reichenbach/) | [space and time: conventionality of simultaneity](https://plato.stanford.edu/entries/spacetime-convensimul/) | [space and time: the hole argument](https://plato.stanford.edu/entries/spacetime-holearg/) | [structural realism](https://plato.stanford.edu/entries/structural-realism/)
 
-[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
-[Thomas A. Ryckman](https://philosophy.stanford.edu/people/thomas-ryckman) <[*tryckman@stanford.edu*](mailto:tryckman%40stanford%2eedu)>
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
+[Thomas A. Ryckman](https://philosophy.stanford.edu/people/thomas-ryckman) <[_tryckman@stanford.edu_](mailto:tryckman%40stanford%2eedu)>

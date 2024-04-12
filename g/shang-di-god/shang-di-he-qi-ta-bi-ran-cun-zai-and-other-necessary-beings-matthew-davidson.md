@@ -1,6 +1,6 @@
 # 上帝和其他必然存在 and other necessary beings (Matthew Davidson)
 
-*首次发布于2005年4月29日星期五；实质性修订于2019年8月6日星期二。*
+_首次发布于2005年4月29日星期五；实质性修订于2019年8月6日星期二。_
 
 普遍认为存在两种存在实体：那些存在但本可以不存，以及那些不可能不存的实体。第一种实体是偶然存在的；第二种实体是必然存在的。我们将在本文中关注后一种实体。
 
@@ -9,23 +9,21 @@
 * [1. 提出问题](https://plato.stanford.edu/entries/god-necessary-being/#StatQues)
 * [2. 为什么有人会相信上帝是必然存在的抽象对象的基础？](https://plato.stanford.edu/entries/god-necessary-being/#WhyMighSomeBeliGodGrouExisNeceExisAbstObje)
 * [3. 上帝作为抽象对象的基础 I：认为所有必然存在的抽象对象都是上帝所基础的观点](https://plato.stanford.edu/entries/god-necessary-being/#GodsGrouAbstObjeIViewWhicNeceExisAbstAllGrouGod)
-
   * [3.1 神学意志论](https://plato.stanford.edu/entries/god-necessary-being/#TheiVolu)
   * [3.2 神论的外放主义](https://plato.stanford.edu/entries/god-necessary-being/#TheiEman)
   * [3.3 神论的心灵主义（不包括神的简单性）](https://plato.stanford.edu/entries/god-necessary-being/#TheiMentWithDiviSimp)
   * [3.4 神论的心灵主义（包括神的简单性）](https://plato.stanford.edu/entries/god-necessary-being/#TheiMentDiviSimp)
 * [4. 上帝的抽象对象基础 II：关于不存在必然存在的抽象对象的观点，所有抽象对象都基于上帝](https://plato.stanford.edu/entries/god-necessary-being/#GodsGrouAbstObjeIIViewWhicTherArenNeceExisAbstObjeAllGrouGod)
-
-  * [ 4.1 神论柏拉图主义](https://plato.stanford.edu/entries/god-necessary-being/#TheiPlat)
-  * [ 4.2 神论名义主义](https://plato.stanford.edu/entries/god-necessary-being/#TheiNomi)
+  * [4.1 神论柏拉图主义](https://plato.stanford.edu/entries/god-necessary-being/#TheiPlat)
+  * [4.2 神论名义主义](https://plato.stanford.edu/entries/god-necessary-being/#TheiNomi)
   * [4.3 混合观点 1：心灵主义-柏拉图主义](https://plato.stanford.edu/entries/god-necessary-being/#MixeView1MentPlat)
   * [4.4 混合观点 2：反自举产生主义](https://plato.stanford.edu/entries/god-necessary-being/#MixeView2AntiBootEman)
-* [ 参考文献](https://plato.stanford.edu/entries/god-necessary-being/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/god-necessary-being/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/god-necessary-being/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/god-necessary-being/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/god-necessary-being/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/god-necessary-being/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/god-necessary-being/#Rel)
 
----
+***
 
 ## 1. 提出问题
 
@@ -47,11 +45,11 @@
 
 在新约中，有像约翰福音 1:1–1:4 这样的经文：
 
-> 起初有道，道与上帝同在，道就是上帝。这道起初与上帝同在。万物是借着他造的；凡被造的，没有一样不是借着他造的。（约翰所指的“道”[希腊文中的 logos]是拿撒勒的耶稣）
+> 起初有道，道与上帝同在，道就是上帝。这道起初与上帝同在。万物是借着他造的；凡被造的，没有一样不是借着他造的。（约翰所指的“道”\[希腊文中的 logos]是拿撒勒的耶稣）
 
 保罗在歌罗西书 1:15–16 中说到，
 
-> 他[耶稣]是那不能看见之神的形像，是一切被造之物的头生者；因为万有都是在他里面被造的，无论是天上的，地上的，能看见的，不能看见的，或是有位的，主权的，掌权的，有能的，一概都是藉着他并为他造的。
+> 他\[耶稣]是那不能看见之神的形像，是一切被造之物的头生者；因为万有都是在他里面被造的，无论是天上的，地上的，能看见的，不能看见的，或是有位的，主权的，掌权的，有能的，一概都是藉着他并为他造的。
 
 《尼西亚信经》是基督教信仰中除了希伯来圣经和新约圣经之外最重要的文件之一，其中写道：“我们信唯一的上帝，全能的父，造了天地万物，看得见的和看不见的。” 381 年的《尼西亚-君士坦丁堡信经》是对 325 年旧版尼西亚信经的修改，被西方教会采用，开头也是类似的：“我们信唯一的上帝，全能的父，造了天地万物，看得见的和看不见的。”
 
@@ -69,17 +67,13 @@
 
 本节讨论的观点如下：
 
-** 上帝意志论：**
-必然存在的抽象实体是由上帝的意志（或其他通常是偶然的神圣能力）引起存在的。例如：笛卡尔。
+\*\* 上帝意志论：\*\* 必然存在的抽象实体是由上帝的意志（或其他通常是偶然的神圣能力）引起存在的。例如：笛卡尔。
 
-** 神学产生论:**
-必然存在的抽象实体是由某种非偶然的神圣能力引起存在（例如，正确类型的神圣认知）。例如：莱布尼茨，莫里斯-门泽尔（1986）。
+\*\* 神学产生论:\*\* 必然存在的抽象实体是由某种非偶然的神圣能力引起存在（例如，正确类型的神圣认知）。例如：莱布尼茨，莫里斯-门泽尔（1986）。
 
-**神学心灵论（不涉及神的简单性）:** 
-必然存在的抽象体与神的心灵状态相同，上帝并非简单。示例：Welty（2014）。
+**神学心灵论（不涉及神的简单性）:** 必然存在的抽象体与神的心灵状态相同，上帝并非简单。示例：Welty（2014）。
 
-**神论心灵主义（带有神的简单性）：** 
-必然存在的抽象体与神的心灵状态相同，上帝是简单的。例子：奥古斯丁，阿奎那。
+**神论心灵主义（带有神的简单性）：** 必然存在的抽象体与神的心灵状态相同，上帝是简单的。例子：奥古斯丁，阿奎那。
 
 ### 3.1 神学意志论
 
@@ -104,7 +98,7 @@
 有神论辐射主义者的一个例子是莱布尼茨。在他的《单子论》中，他说：
 
 > 43. 同样真实的是，上帝不仅是存在的源泉，也是实质的源泉，因为他们是真实的，也就是说，是可能性中真实的源泉。这是因为上帝的理解是永恒真理的领域，或者是它们所依赖的思想的领域；没有他，可能性中就不会有任何真实的东西，不仅什么都不存在，而且什么都不可能存在。
-> 44. 如果本体或可能性中存在现实，或者确实存在永恒的真理，那么这种现实必须建立在某种存在和实际之上，因此，它必须建立在必然存在的上帝和其他必然存在之上，其中本质包含存在，也就是说，在其中可能存在足以成为实际存在。（莱布尼茨 1714 年[1989: 218]）
+> 44. 如果本体或可能性中存在现实，或者确实存在永恒的真理，那么这种现实必须建立在某种存在和实际之上，因此，它必须建立在必然存在的上帝和其他必然存在之上，其中本质包含存在，也就是说，在其中可能存在足以成为实际存在。（莱布尼茨 1714 年\[1989: 218]）
 
 在这里，莱布尼茨似乎暗示必然存在的抽象实体是基于神的认知活动的。关于认知活动与抽象对象存在之间的关系如何描述并不清楚，但考虑到他的措辞，说前者导致后者存在似乎是合适的。
 
@@ -112,7 +106,7 @@
 
 > 因此，我们的建议是，现实的柏拉图主义框架源于上帝的创造性智力活动。从这个意义上说，上帝是框架的创造者。这取决于他。（1986: 356）
 
- 他们后来继续说：
+他们后来继续说：
 
 > 让我们称之为这种观点，即神圣的智力活动对现实框架负责，为“神圣行动主义”。神圣行动主义者将认为上帝创造性地对整个模态经济负责，对可能的事物以及必然的和不可能的事物负责。整个柏拉图领域因此被视为源自上帝。（1986: 356）
 
@@ -126,16 +120,17 @@
 
 反对有神论发散主义的人可能会做出以下反驳。当然，上述回应是正确的，即如果存在循环性问题，那就是因果循环性问题。早些时候，我们看到对于有神论发散主义者来说，上帝的认知活动与抽象存在之间存在着单向的因果关系，比如数字二的存在。我们可以说数字二（或任何抽象对象）的必然存在在因果上依赖于上帝具有他所具有的认知活动。或者，也许我们可以说数字二的必然存在在因果上依赖于上帝是全知的、全能的和必然存在的。然而，数字二的存在在因果上依赖的实体本身就是属性。它们在什么上因果依赖？在发散主义者的观点中，它们最终似乎会因果依赖于它们自己。但这是不连贯的，有人可能指责说。
 
-即使流出论者成功地回答了这个观点的第一个问题，仍然存在第二个，也许更严重的反对意见。我们将这个反对意见称为“自助反对”（参见Leftow 1990年，Davidson 1999年，Bergmann和Brower 2006年以及Gould 2014b年对这种反对意见的讨论）。我们可以这样表达这个担忧（参照Davidson 1999年）。使某物存在就是使其本质（或者，用Plantinga 1980年的术语来说，使其*性质*）得以体现。假设上帝创造了一张桌子，其本质的一部分是*红色*。然后上帝在创造时使属性*红色*被这张桌子体现。再考虑属性*全能*。属性*被上帝体现*包含在其本质中。因此，上帝在使*全能*存在时，也使属性*被上帝体现*被*全能*所体现。类似于上帝使*红色*被这张桌子体现的方式，上帝使*全能*被自己体现。但是，显然上帝不能使属性*全能*被自己体现：上帝如何使自己成为全能？此外，人们可能认为上帝的全能应该在他使属性存在之前就有了因果关系。然而，在这种情况下并非如此。那么，如果有人认为上帝的全能应该在他使属性存在之前就有因果关系，这将是因果循环的一个实例。这种论证方法也适用于其他属性，如*全知*或*拥有神圣认知活动*（尽管与前者相比，因果循环可能更难建立，而自我体现的不合理性可能更难以建立）。 
+即使流出论者成功地回答了这个观点的第一个问题，仍然存在第二个，也许更严重的反对意见。我们将这个反对意见称为“自助反对”（参见Leftow 1990年，Davidson 1999年，Bergmann和Brower 2006年以及Gould 2014b年对这种反对意见的讨论）。我们可以这样表达这个担忧（参照Davidson 1999年）。使某物存在就是使其本质（或者，用Plantinga 1980年的术语来说，使其_性质_）得以体现。假设上帝创造了一张桌子，其本质的一部分是_红色_。然后上帝在创造时使属性_红色_被这张桌子体现。再考虑属性_全能_。属性_被上帝体现_包含在其本质中。因此，上帝在使_全能_存在时，也使属性_被上帝体现_被_全能_所体现。类似于上帝使_红色_被这张桌子体现的方式，上帝使_全能_被自己体现。但是，显然上帝不能使属性_全能_被自己体现：上帝如何使自己成为全能？此外，人们可能认为上帝的全能应该在他使属性存在之前就有了因果关系。然而，在这种情况下并非如此。那么，如果有人认为上帝的全能应该在他使属性存在之前就有因果关系，这将是因果循环的一个实例。这种论证方法也适用于其他属性，如_全知_或_拥有神圣认知活动_（尽管与前者相比，因果循环可能更难建立，而自我体现的不合理性可能更难以建立）。
 
-此外，考虑上帝的个体性，即属性*上帝*。属性*被必然体现*包含在这个属性的本质中。因此，当上帝使他的个体性存在时，他使属性*被必然体现*被他的个体性所体现。正如上帝在使它存在时使*红色*被这张桌子体现一样，上帝使*上帝*必然被体现。然而，人们可能认为这是不连贯的。事实上，这似乎是神造成了自己的存在：上帝用自己的靴带拉起了自己。
+此外，考虑上帝的个体性，即属性_上帝_。属性_被必然体现_包含在这个属性的本质中。因此，当上帝使他的个体性存在时，他使属性_被必然体现_被他的个体性所体现。正如上帝在使它存在时使_红色_被这张桌子体现一样，上帝使_上帝_必然被体现。然而，人们可能认为这是不连贯的。事实上，这似乎是神造成了自己的存在：上帝用自己的靴带拉起了自己。
 
 神秘主义的流出论者需要解决这些关于自助的担忧，但目前还不清楚如何解决。
+
 ### 3.3 神论心灵主义（不涉及神的简单性）
 
 一种神论心灵主义的观点是，必然存在的抽象对象是神圣的心灵状态，上帝并不简单。在这种观点中，上帝与他的心灵状态是不同的，抽象对象与这些心灵状态是相同的。这种观点的支持者之一是韦尔蒂（2014 年）。他说
 
-> 我坚持认为[抽象对象]在构成上依赖于上帝，因为它们由存在于神圣心灵中并在其之外没有存在的神圣思想构成... [抽象对象]是必然存在的、未创造的与上帝不同且依赖于上帝的神圣思想。（2014: 81）
+> 我坚持认为\[抽象对象]在构成上依赖于上帝，因为它们由存在于神圣心灵中并在其之外没有存在的神圣思想构成... \[抽象对象]是必然存在的、未创造的与上帝不同且依赖于上帝的神圣思想。（2014: 81）
 
 为什么有人会采纳有神论心灵主义？可以提出以下这种情况。思想（例如，思维语言中的句子）能够代表世界是某种特定方式。命题能够代表世界是某种特定方式。为什么我们需要这两种有意图的实体？我们可以简单地将命题和思想识别出来，从而得到一个更简单的本体论。
 
@@ -164,7 +159,7 @@
 
 根据上帝论的柏拉图主义者，至少存在一些必然存在的抽象对象（例如命题、属性、关系、数字和事实状态），所有必然存在的抽象体的存在并非基于上帝。彼得·范·因瓦根（2009 年）是上帝论的柏拉图主义的典范案例。正如我们之前所看到的，因瓦根认为，如果必然存在的抽象对象是基于上帝的，那么它们将被上帝引起存在。但是必然存在的抽象体无法进入因果关系。因此它们并非基于上帝。他说：
 
-> 最后，我发现上帝创造自由抽象对象的想法毫无意义[例如命题、关系、数字、属性等等]，也发现自由抽象对象的存在与上帝的活动有关的想法毫无意义。（请记住，尽管我相信所有抽象对象都是自由的，但这并不是我在本章中要捍卫的立场。）这是因为自由抽象对象的存在与任何事物无关。它们的存在与因果关系无关... 因果关系对抽象对象的存在（和内在属性）根本无关（2009: 18）。
+> 最后，我发现上帝创造自由抽象对象的想法毫无意义\[例如命题、关系、数字、属性等等]，也发现自由抽象对象的存在与上帝的活动有关的想法毫无意义。（请记住，尽管我相信所有抽象对象都是自由的，但这并不是我在本章中要捍卫的立场。）这是因为自由抽象对象的存在与任何事物无关。它们的存在与因果关系无关... 因果关系对抽象对象的存在（和内在属性）根本无关（2009: 18）。
 
 范·因瓦根认为，他最严肃的挑战来自他认为具有权威性的宗教文本。他特别提到尼西亚-君士坦丁堡信经的开头部分，其中写道：“我信奉一位上帝，全能的父，创造了天地，所有看得见和看不见的事物。”他认为这里的“所有看得见和看不见的事物”中的量词是限定于能够进入因果关系并因此能够被创造的事物。正如范·因瓦根所指出的，还有其他具有权威性的基督教文本，其中普遍量词被以一种受限的方式解读（例如马太福音 19:26“在上帝凡事都能”；另见路加福音 1:37，马可福音 10:27）。不应将这样的段落视为支持全能观的证据。相反，量词应以一种受限的方式解读。同样，尼西亚-君士坦丁堡信经的开头部分中的量词也是受限的。
 
@@ -195,98 +190,99 @@
 话虽如此，这里至少有一丝临时应变的味道。这个理论的动机可能是完美存在论。这种第一种混合观点的支持者必须认为相关宗教文本中的量词实际上是受限制的。它们并不像有神论者认为的那样受限制。但她会同意有神论者的观点，即并非所有（读作量词完全开放）实体都是由上帝创造/依赖/根植的。值得指出的是，如何明确划分导致引导问题和不导致引导问题的抽象实体并不清楚。我们能做的最好的事似乎是说那些导致引导问题的实体不依赖于上帝，而其他所有实体都是上帝导致其存在的。但是对于每个必然存在的抽象对象来说，要么它会引起引导问题，要么不会。因此，在这里应该有两个不重叠的抽象对象类，即使我们无法更具描述性地指定哪些抽象实体属于哪个类。
 
 如果发散论者能够找到一个有力的回答来解决自举的问题，那将更好。但如果她不能，她可能会选择在所有抽象事物中成为一个发散论者，除了那些与上帝有关的事物。
+
 ## Bibliography
 
-* Adams, Robert Merrihew, 1983, “Divine Necessity”, *The Journal of Philosophy*, 80(11): 741–752. doi:10.2307/2026018
+* Adams, Robert Merrihew, 1983, “Divine Necessity”, _The Journal of Philosophy_, 80(11): 741–752. doi:10.2307/2026018
 * Audi, Paul, 2012, “A Clarification and Defense of the Notion of Grounding”, in Correia and Schnieder 2012: 101–121. doi:10.1017/CBO9781139149136.004
-* Augustine, “On Ideas”, from *Eighty-Three Different Questions*, David L. Mosher (trans.), Washington, DC: Catholic University of America Press, 1982.
-* –––, *City of God*, Marcus Dods (trans.), Modern Library, 1993.
-* Aquinas, Thomas, [ST], *Summa Theologica*, Fathers of English Dominican Province (trans.), Encyclopedia Britannica (Great Books of the Western World), 1922 [2013].
-* –––, *Disputed Questions on Truth*, Robert J. Mulligan (trans.), Chicago: H. Regnery, 1954.
-* Beaty, Michael (ed.), 1990, *Christian Theism and the Problems of Philosophy*, Notre Dame, IN: Notre Dame Press.
-* Beebee, Helen and Julian Dodd (eds.), 2005, *Truthmakers: The Contemporary Debate*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199283569.001.0001
-* Bergmann, Michael and Jeffrey E. Brower, 2006, “A Theistic Argument Against Platonism (and in Support of Truthmakers and Divine Simplicity)”, *Oxford Studies in Metaphysics*, 2: 357–386.
-* Chandler, Hugh S., 1976, “Plantinga and the Contingently Possible”, *Analysis*, 36(2): 106–109. doi:10.1093/analys/36.2.106
-* Chalmers, David John, David Manley, and Ryan Wasserman (eds.), 2009, *Metametaphysics: New Essays on the Foundations of Ontology*, Oxford: Clarendon Press.
-* Conee, Earl, 1991, “The Possibility of Power Beyond Possibility”, *Philosophical Perspectives*, 5: 447–473. doi:10.2307/2214105
-* Correia, Fabrice and Benjamin Schnieder (eds.), 2012, *Metaphysical Grounding: Understanding the Structure of Reality*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139149136
-* Craig, William Lane, 2016, *God Over All: Divine Aseity and the Challenge of Platonism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198786887.001.0001
+* Augustine, “On Ideas”, from _Eighty-Three Different Questions_, David L. Mosher (trans.), Washington, DC: Catholic University of America Press, 1982.
+* –––, _City of God_, Marcus Dods (trans.), Modern Library, 1993.
+* Aquinas, Thomas, \[ST], _Summa Theologica_, Fathers of English Dominican Province (trans.), Encyclopedia Britannica (Great Books of the Western World), 1922 \[2013].
+* –––, _Disputed Questions on Truth_, Robert J. Mulligan (trans.), Chicago: H. Regnery, 1954.
+* Beaty, Michael (ed.), 1990, _Christian Theism and the Problems of Philosophy_, Notre Dame, IN: Notre Dame Press.
+* Beebee, Helen and Julian Dodd (eds.), 2005, _Truthmakers: The Contemporary Debate_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199283569.001.0001
+* Bergmann, Michael and Jeffrey E. Brower, 2006, “A Theistic Argument Against Platonism (and in Support of Truthmakers and Divine Simplicity)”, _Oxford Studies in Metaphysics_, 2: 357–386.
+* Chandler, Hugh S., 1976, “Plantinga and the Contingently Possible”, _Analysis_, 36(2): 106–109. doi:10.1093/analys/36.2.106
+* Chalmers, David John, David Manley, and Ryan Wasserman (eds.), 2009, _Metametaphysics: New Essays on the Foundations of Ontology_, Oxford: Clarendon Press.
+* Conee, Earl, 1991, “The Possibility of Power Beyond Possibility”, _Philosophical Perspectives_, 5: 447–473. doi:10.2307/2214105
+* Correia, Fabrice and Benjamin Schnieder (eds.), 2012, _Metaphysical Grounding: Understanding the Structure of Reality_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139149136
+* Craig, William Lane, 2016, _God Over All: Divine Aseity and the Challenge of Platonism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198786887.001.0001
 * Daly, Chris, 2012, “Scepticism about Grounding”, in Correia and Schnieder 2012: 81–100. doi:10.1017/CBO9781139149136.003
-* Davidson, Matthew, 1999, “A Demonstration against Theistic Activism”, *Religious Studies*, 35(3): 277–290. doi:10.1017/S0034412599004886
-* –––, 2013, “Presentism and Grounding Past Truths”, in *New Papers on the Present: Focus on Presentism*, Roberto Ciuni, Kristie Miller, and Giuliano Torrengo (eds.), (Basic Philosophical Concepts), München: Philosophia Verlag, 153–172.
-* Davis, Richard Brian, 2006, “God and Counterpossibles”, *Religious Studies*, 42(4): 371–391. doi:10.1017/S0034412506008559
-* Davison, Scott A., 1991, “Could Abstract Objects Depend Upon God?”, *Religious Studies*, 27(4): 485–497. doi:10.1017/S003441250002120X
-* Descartes, René, 1991, *The Philosophical Writings of Descartes: Volume III The Correspondence*, John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny (trans.), Cambridge: Cambridge University Press.
-* Fine, Kit, 2001, “The Question of Realism”, *Philosopher’s Imprint*, 1(2). [[Fine 2001 available online](http://hdl.handle.net/2027/spo.3521354.0001.002)]
-* Gould, Paul M. (ed.), 2014a, *Beyond the Control of God? Six Views on the Problem of God and Abstract Objects*, (Bloomsbury Studies in Philosophy of Religion), New York: Bloomsbury Publishing.
+* Davidson, Matthew, 1999, “A Demonstration against Theistic Activism”, _Religious Studies_, 35(3): 277–290. doi:10.1017/S0034412599004886
+* –––, 2013, “Presentism and Grounding Past Truths”, in _New Papers on the Present: Focus on Presentism_, Roberto Ciuni, Kristie Miller, and Giuliano Torrengo (eds.), (Basic Philosophical Concepts), München: Philosophia Verlag, 153–172.
+* Davis, Richard Brian, 2006, “God and Counterpossibles”, _Religious Studies_, 42(4): 371–391. doi:10.1017/S0034412506008559
+* Davison, Scott A., 1991, “Could Abstract Objects Depend Upon God?”, _Religious Studies_, 27(4): 485–497. doi:10.1017/S003441250002120X
+* Descartes, René, 1991, _The Philosophical Writings of Descartes: Volume III The Correspondence_, John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny (trans.), Cambridge: Cambridge University Press.
+* Fine, Kit, 2001, “The Question of Realism”, _Philosopher’s Imprint_, 1(2). \[[Fine 2001 available online](http://hdl.handle.net/2027/spo.3521354.0001.002)]
+* Gould, Paul M. (ed.), 2014a, _Beyond the Control of God? Six Views on the Problem of God and Abstract Objects_, (Bloomsbury Studies in Philosophy of Religion), New York: Bloomsbury Publishing.
 * –––, 2014b, “Introduction to the Problem of God and Abstract Objects”in Gould 2014a, pp. 1–20.
 * Gould, Paul M. and Richard Brian Davis, 2014, “Modified Theistic Activism”, in Gould 2014a, pp. 51–80.
-* Hale, Bob and Aviv Hoffmann (eds.), 2010, *Modality: Metaphysics, Logic, and Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199565818.001.0001
+* Hale, Bob and Aviv Hoffmann (eds.), 2010, _Modality: Metaphysics, Logic, and Epistemology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199565818.001.0001
 * Hofweber, Thomas, 2009, “Ambitious, Yet Modest, Metaphysics”, in Chalmers, Manley, and Wasserman 2009, pp. 260–290: .
 * Koslicki, Kathrin, 2012, “Varieties of Ontological Dependence”, in Correia and Schnieder 2012: 186–213. doi:10.1017/CBO9781139149136.008
-* Leibniz, Gottfried, 1714 [1989], *The Principles of Philosophy, or, the Monadology*, translated in *Leibniz: Philosophical Essays*, Roger Ariew and Daniel Garber (eds/trans), Indianapolis, IN: Hackett, 213–224.
-* Leftow, Brian, 1989, “A Leibnizian Cosmological Argument”, *Philosophical Studies*, 57(2): 135–155. doi:10.1007/BF00354595
-* –––, 1990, “God and Abstract Entities”, *Faith and Philosophy*, 7(2): 193–217. doi:10.5840/faithphil19907210
-* –––, 2006a, “God and the Problem of Universals”, *Oxford Studies in Metaphysics*, vol. 2, pp. 325–357 Dean Zimmerman (ed.).
-* –––, 2006b, “Impossible Worlds”, *Religious Studies*, 42(4): 393–402. doi:10.1017/S0034412506008560
-* –––, 2012, *God and Necessity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263356.001.0001
-* Lewis, David, 1973, *Counterfactuals*, Oxford: Blackwell.
-* –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
-* MacDonald, Scott Charles (ed.), 1991, *Being and Goodness: The Concept of the Good in Metaphysics and Philosophical Theology*, Ithaca, NY: Cornell University Press.
-* Mares, Edwin D., 1997, “Who’s Afraid of Impossible Worlds?”, *Notre Dame Journal of Formal Logic*, 38(4): 516–526. doi:10.1305/ndjfl/1039540767
-* Mann, William E., 1982, “Divine Simplicity”, *Religious Studies*, 18(4): 451–471. doi:10.1017/S0034412500014360
-* Menzel, Christopher, 1987, “Theism, Platonism, and the Metaphysics of Mathematics”, *Faith and Philosophy*, 4(4): 365–382. doi:10.5840/faithphil19874441
-* Merricks, Trenton, 2007, *Truth and Ontology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199205233.001.0001
-* Morris, Thomas V., 1987a, *Anselmian Explorations: Essays in Philosophical Theology*, Notre Dame, IN: University of Notre Dame Press.
-* –––, 1987b, “Perfect Being Theology”, *Noûs*, 21(1): 19–30.
-* Morris, Thomas V. and Christopher Menzel, 1986, “Absolute Creation”, *American Philosophical Quarterly*, 23(4): 353–362.
-* Nagasawa, Yujin, 2017, *Maximal God: A New Defence of Perfect Being Theology*, Oxford: Oxford University Press. doi:10.1093/oso/9780198758686.001.0001
-* Nolan, Daniel, 1997, “Impossible Worlds: A Modest Approach”, *Notre Dame Journal of Formal Logic*, 38(4): 535–572. doi:10.1305/ndjfl/1039540769
-* Plantinga, Alvin, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
-* –––, 1978, *The Nature of Necessity*, Oxford: Oxford University Press. doi:10.1093/0198244142.001.0001
-* –––, 1980, *Does God Have a Nature?*, Milwaukee: Marquette University Press.
-* –––, 1982, “How to Be an Anti-Realist”, *Proceedings and Addresses of the American Philosophical Association*, 56(1): 47–70. doi:10.2307/3131293
-* –––, 2003, *Essays in the Metaphysics of Modality*, Matthew Davidson (ed.), Oxford University Press. doi:10.1093/0195103769.001.0001
+* Leibniz, Gottfried, 1714 \[1989], _The Principles of Philosophy, or, the Monadology_, translated in _Leibniz: Philosophical Essays_, Roger Ariew and Daniel Garber (eds/trans), Indianapolis, IN: Hackett, 213–224.
+* Leftow, Brian, 1989, “A Leibnizian Cosmological Argument”, _Philosophical Studies_, 57(2): 135–155. doi:10.1007/BF00354595
+* –––, 1990, “God and Abstract Entities”, _Faith and Philosophy_, 7(2): 193–217. doi:10.5840/faithphil19907210
+* –––, 2006a, “God and the Problem of Universals”, _Oxford Studies in Metaphysics_, vol. 2, pp. 325–357 Dean Zimmerman (ed.).
+* –––, 2006b, “Impossible Worlds”, _Religious Studies_, 42(4): 393–402. doi:10.1017/S0034412506008560
+* –––, 2012, _God and Necessity_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263356.001.0001
+* Lewis, David, 1973, _Counterfactuals_, Oxford: Blackwell.
+* –––, 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
+* MacDonald, Scott Charles (ed.), 1991, _Being and Goodness: The Concept of the Good in Metaphysics and Philosophical Theology_, Ithaca, NY: Cornell University Press.
+* Mares, Edwin D., 1997, “Who’s Afraid of Impossible Worlds?”, _Notre Dame Journal of Formal Logic_, 38(4): 516–526. doi:10.1305/ndjfl/1039540767
+* Mann, William E., 1982, “Divine Simplicity”, _Religious Studies_, 18(4): 451–471. doi:10.1017/S0034412500014360
+* Menzel, Christopher, 1987, “Theism, Platonism, and the Metaphysics of Mathematics”, _Faith and Philosophy_, 4(4): 365–382. doi:10.5840/faithphil19874441
+* Merricks, Trenton, 2007, _Truth and Ontology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199205233.001.0001
+* Morris, Thomas V., 1987a, _Anselmian Explorations: Essays in Philosophical Theology_, Notre Dame, IN: University of Notre Dame Press.
+* –––, 1987b, “Perfect Being Theology”, _Noûs_, 21(1): 19–30.
+* Morris, Thomas V. and Christopher Menzel, 1986, “Absolute Creation”, _American Philosophical Quarterly_, 23(4): 353–362.
+* Nagasawa, Yujin, 2017, _Maximal God: A New Defence of Perfect Being Theology_, Oxford: Oxford University Press. doi:10.1093/oso/9780198758686.001.0001
+* Nolan, Daniel, 1997, “Impossible Worlds: A Modest Approach”, _Notre Dame Journal of Formal Logic_, 38(4): 535–572. doi:10.1305/ndjfl/1039540769
+* Plantinga, Alvin, 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
+* –––, 1978, _The Nature of Necessity_, Oxford: Oxford University Press. doi:10.1093/0198244142.001.0001
+* –––, 1980, _Does God Have a Nature?_, Milwaukee: Marquette University Press.
+* –––, 1982, “How to Be an Anti-Realist”, _Proceedings and Addresses of the American Philosophical Association_, 56(1): 47–70. doi:10.2307/3131293
+* –––, 2003, _Essays in the Metaphysics of Modality_, Matthew Davidson (ed.), Oxford University Press. doi:10.1093/0195103769.001.0001
 * Rodriguez-Pereyra, Gonzalo, 2005, “Why Truthmakers”, in Beebee and Dowd 2005, pp. 17–31.
 * Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and Reduction”, in Hale and Hoffman 2010, pp. 109–136.
-* Salmon, Nathan U., 1981, *Reference and Essence*, Princeton, NJ: Princeton University Press.
+* Salmon, Nathan U., 1981, _Reference and Essence_, Princeton, NJ: Princeton University Press.
 * Schaffer, Jonathan, 2009, “On What Grounds What”, in Chalmers, Manley, and Wasserman 2009, pp. 347–383.
-* Sider, Theodore, 2011, *Writing the Book of the World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697908.001.0001
-* Stump, Eleonore, 1997 [2010], “Simplicity”, in *A Companion to Philosophy of Religion*, Charles Taliaferro, Paul Draper, and Philip L. Quinn (eds.), Oxford: Wiley-Blackwell; second edition 2010: 270–277. doi:10.1002/9781444320152.ch31
-* Stump, Eleonore and Norman Kretzmann, 1985, “Absolute Simplicity”, *Faith and Philosophy*, 2(4): 353–382. doi:10.5840/faithphil19852449
-* Timpe, Kevin (ed.), 2009, *Metaphysics and God: Essays in Honor of Eleonore Stump*, (Routledge Studies in the Philosophy of Religion 7), London/New York: Routledge. doi:10.4324/9780203875216
-* Vander Laan, David, 2004, “Counterpossibles and Similarity”, in *Lewisian Themes: The Philosophy of David K. Lewis*, Frank Jackson and Graham Priest (eds.), Oxford: Oxford University Press, pp. 258–275
-* van Inwagen, Peter, 1977, “Ontological Arguments”, *Noûs*, 11(4): 375–395. doi:10.2307/2214562
+* Sider, Theodore, 2011, _Writing the Book of the World_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697908.001.0001
+* Stump, Eleonore, 1997 \[2010], “Simplicity”, in _A Companion to Philosophy of Religion_, Charles Taliaferro, Paul Draper, and Philip L. Quinn (eds.), Oxford: Wiley-Blackwell; second edition 2010: 270–277. doi:10.1002/9781444320152.ch31
+* Stump, Eleonore and Norman Kretzmann, 1985, “Absolute Simplicity”, _Faith and Philosophy_, 2(4): 353–382. doi:10.5840/faithphil19852449
+* Timpe, Kevin (ed.), 2009, _Metaphysics and God: Essays in Honor of Eleonore Stump_, (Routledge Studies in the Philosophy of Religion 7), London/New York: Routledge. doi:10.4324/9780203875216
+* Vander Laan, David, 2004, “Counterpossibles and Similarity”, in _Lewisian Themes: The Philosophy of David K. Lewis_, Frank Jackson and Graham Priest (eds.), Oxford: Oxford University Press, pp. 258–275
+* van Inwagen, Peter, 1977, “Ontological Arguments”, _Noûs_, 11(4): 375–395. doi:10.2307/2214562
 * –––, 2009, “God and Other Uncreated Things”, in Timpe 2009: chapter 1, pp. 3–21.
-* –––, 2014, *Existence: Essays in Ontology*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107111004
+* –––, 2014, _Existence: Essays in Ontology_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107111004
 * Welty, Greg, 2014, “Theistic Conceptual Realism”, in Gould 2014a, pp. 81–113.
-* Wierenga, Edward R., 1989, *The Nature of God: An Inquiry into Divine Attributes*, (Cornell Studies in the Philosophy of Religion), Ithaca, NY: Cornell University Press.
-* –––, 1998, “Theism and Counterpossibles”, *Philosophical Studies*, 89(1): 87–103. doi:10.1023/A:1004239104009
-* Wolterstorff, Nicholas, 1970, *On Universals: An Essay in Ontology*, Chicago, IL: University of Chicago Press.
-* –––, 1991, “Divine Simplicity”, *Philosophical Perspectives*, 5: 531–552. doi:10.2307/2214108
-* Yandell, Keith E., 1994, “The Most Brutal and Inexcusable Error in Counting?: Trinity and Consistency”, *Religious Studies*, 30(2): 201–217. doi:10.1017/S0034412500001499
-* Yagisawa, Takashi, 1988, “Beyond Possible Worlds”, *Philosophical Studies*, 53(2): 175–204. doi:10.1007/BF00354640
+* Wierenga, Edward R., 1989, _The Nature of God: An Inquiry into Divine Attributes_, (Cornell Studies in the Philosophy of Religion), Ithaca, NY: Cornell University Press.
+* –––, 1998, “Theism and Counterpossibles”, _Philosophical Studies_, 89(1): 87–103. doi:10.1023/A:1004239104009
+* Wolterstorff, Nicholas, 1970, _On Universals: An Essay in Ontology_, Chicago, IL: University of Chicago Press.
+* –––, 1991, “Divine Simplicity”, _Philosophical Perspectives_, 5: 531–552. doi:10.2307/2214108
+* Yandell, Keith E., 1994, “The Most Brutal and Inexcusable Error in Counting?: Trinity and Consistency”, _Religious Studies_, 30(2): 201–217. doi:10.1017/S0034412500001499
+* Yagisawa, Takashi, 1988, “Beyond Possible Worlds”, _Philosophical Studies_, 53(2): 175–204. doi:10.1007/BF00354640
 * Zagzebski, Linda, 1990, “What if the Impossible Had Been Actual?”, in Beaty 1990: 165–183.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=god-necessary-being). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/god-necessary-being/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=god-necessary-being&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/god-necessary-being/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=god-necessary-being).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/god-necessary-being/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=god-necessary-being\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/god-necessary-being/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [Anselm of Canterbury [Anselm of Bec]](https://plato.stanford.edu/entries/anselm/) | [Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [conditionals: counterfactual](https://plato.stanford.edu/entries/counterfactuals/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Lewis, David](https://plato.stanford.edu/entries/david-lewis/) | [simplicity: divine](https://plato.stanford.edu/entries/divine-simplicity/)
+[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [Anselm of Canterbury \[Anselm of Bec\]](https://plato.stanford.edu/entries/anselm/) | [Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [conditionals: counterfactual](https://plato.stanford.edu/entries/counterfactuals/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Lewis, David](https://plato.stanford.edu/entries/david-lewis/) | [simplicity: divine](https://plato.stanford.edu/entries/divine-simplicity/)
 
 ### Acknowledgments
 
 Thanks to Edward Wierenga, Timothy Simmons, Anthony Macias, and an anonymous referee for comments on this version of this entry.
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Matthew Davidson](http://rocket.csusb.edu/~mld/) <[*mdavidson@csusb.edu*](mailto:mdavidson%40csusb%2eedu)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Matthew Davidson](http://rocket.csusb.edu/\~mld/) <[_mdavidson@csusb.edu_](mailto:mdavidson%40csusb%2eedu)>

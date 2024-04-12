@@ -1,58 +1,48 @@
 # 库尔特·哥德尔 Gödel, Kurt (Juliette Kennedy)
 
+_首次发表于2007年2月13日；实质性修订于2015年12月11日_
 
+库尔特·哥德尔（生于 1906 年，卒于 1978 年）是现代数理逻辑中的主要奠基人之一。他以不完全性定理而闻名，这是 20 世纪数学中少数几个里程碑定理之一，但他的工作涉及数理逻辑的每个领域，如果不是在大多数情况下是它们的原始刺激。在他的哲学著作中，哥德尔阐述并捍卫了数学柏拉图主义，即数学是一门描述性科学的观点，或者说数学真理的概念是客观的观点。基于这一观点，他为集合论中的概念分析计划奠定了基础（见下文）。他坚持希尔伯特在数学中的“原始理性主义观念”（他自称如此）\[1]，并在大基数在集合论中的重要性变得明确之前，预见并强调了它们的重要性。
 
-*首次发表于2007年2月13日；实质性修订于2015年12月11日*
-
-库尔特·哥德尔（生于 1906 年，卒于 1978 年）是现代数理逻辑中的主要奠基人之一。他以不完全性定理而闻名，这是 20 世纪数学中少数几个里程碑定理之一，但他的工作涉及数理逻辑的每个领域，如果不是在大多数情况下是它们的原始刺激。在他的哲学著作中，哥德尔阐述并捍卫了数学柏拉图主义，即数学是一门描述性科学的观点，或者说数学真理的概念是客观的观点。基于这一观点，他为集合论中的概念分析计划奠定了基础（见下文）。他坚持希尔伯特在数学中的“原始理性主义观念”（他自称如此）[1]，并在大基数在集合论中的重要性变得明确之前，预见并强调了它们的重要性。
-
-* [ 1. 个人简介](https://plato.stanford.edu/entries/goedel/#BioSke)
+* [1. 个人简介](https://plato.stanford.edu/entries/goedel/#BioSke)
 * [2. 哥德尔的数学工作](https://plato.stanford.edu/entries/goedel/#GodMatWor)
-
   * [2.1 库尔特·哥德尔的完备性定理](https://plato.stanford.edu/entries/goedel/#ComThe)
-
-    * [ 2.1.1 引言](https://plato.stanford.edu/entries/goedel/#Int)
+    * [2.1.1 引言](https://plato.stanford.edu/entries/goedel/#Int)
     * [2.1.2 完备性定理的证明](https://plato.stanford.edu/entries/goedel/#ProComThe)
     * [2.1.3 完备性定理的一个重要推论](https://plato.stanford.edu/entries/goedel/#ImpConComThe)
   * [2.2 不完全性定理](https://plato.stanford.edu/entries/goedel/#IncThe)
-
     * [2.2.1 第一不完全性定理](https://plato.stanford.edu/entries/goedel/#FirIncThe)
     * [2.2.2 库尔特·哥德尔的第一不完全性定理的证明](https://plato.stanford.edu/entries/goedel/#ProFirIncThe)
     * [2.2.3 第二不完全性定理](https://plato.stanford.edu/entries/goedel/#SecIncThe)
     * [附录：不完全性定理是否推翻了希尔伯特的计划？](https://plato.stanford.edu/entries/goedel/incompleteness-hilbert.html)
-  * [ 2.3 加速定理](https://plato.stanford.edu/entries/goedel/#SpeUpThe)
+  * [2.3 加速定理](https://plato.stanford.edu/entries/goedel/#SpeUpThe)
   * [2.4 库尔特·哥德尔在集合论中的工作](https://plato.stanford.edu/entries/goedel/#GodWorSetThe)
-
     * [2.4.1 连续统假设和选择公理的一致性](https://plato.stanford.edu/entries/goedel/#ConConHypAxiCho)
     * [2.4.2 库尔特·哥德尔对连续体假设和选择公理与策梅洛-弗兰克尔集合论公理的一致性的证明](https://plato.stanford.edu/entries/goedel/#GodProConConHypAxiChoAxiZerFraSetThe)
     * [2.4.3 一致性的结果](https://plato.stanford.edu/entries/goedel/#ConCon)
     * [2.4.4 库尔特·哥德尔对构造性公理的看法](https://plato.stanford.edu/entries/goedel/#GodVieAxiCon)
   * [2.5 库尔特·哥德尔在直觉主义逻辑和算术中的工作](https://plato.stanford.edu/entries/goedel/#GodWorIntLogAri)
-
     * [2.5.1 直觉主义命题逻辑不是有限值的](https://plato.stanford.edu/entries/goedel/#IntProLogNotFinVal)
     * [2.5.2 古典算术可以在海廷算术中解释](https://plato.stanford.edu/entries/goedel/#ClaAriIntHeyAri)
     * [2.5.3 直觉主义命题逻辑可在 S4 中解释](https://plato.stanford.edu/entries/goedel/#IntProLogIntS4)
     * [2.5.4 Heyting 算术可解释为有限类型的可计算函数](https://plato.stanford.edu/entries/goedel/#HeyAriIntComFunFinTyp)
   * [补充文件：库尔特·哥德尔的文件](https://plato.stanford.edu/entries/goedel/documents.html)
 * [3. 库尔特·哥德尔的哲学观点](https://plato.stanford.edu/entries/goedel/#GodPhiWor)
-
-  * [ 3.1 库尔特·哥德尔的理性主义](https://plato.stanford.edu/entries/goedel/#GodRat)
-  * [ 3.2 库尔特·哥德尔的现实主义](https://plato.stanford.edu/entries/goedel/#GodRea)
+  * [3.1 库尔特·哥德尔的理性主义](https://plato.stanford.edu/entries/goedel/#GodRat)
+  * [3.2 库尔特·哥德尔的现实主义](https://plato.stanford.edu/entries/goedel/#GodRea)
   * [附录文档：库尔特·哥德尔的转向现象学](https://plato.stanford.edu/entries/goedel/goedel-phenomenology.html)
   * [附录文档：关于数学内容的哲学论证](https://plato.stanford.edu/entries/goedel/content-mathematics.html)
-* [ 参考文献](https://plato.stanford.edu/entries/goedel/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/goedel/#PriSou)
-
-    * [ 库尔特·哥德尔的著作](https://plato.stanford.edu/entries/goedel/#GodWri)
+* [参考文献](https://plato.stanford.edu/entries/goedel/#Bib)
+  * [主要来源](https://plato.stanford.edu/entries/goedel/#PriSou)
+    * [库尔特·哥德尔的著作](https://plato.stanford.edu/entries/goedel/#GodWri)
     * [库尔特·哥德尔的论文集](https://plato.stanford.edu/entries/goedel/#ColPapKurGod)
     * [库尔特·哥德尔选集](https://plato.stanford.edu/entries/goedel/#SelWorKurGod)
-  * [ 二手资料](https://plato.stanford.edu/entries/goedel/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/goedel/#Aca)
+  * [二手资料](https://plato.stanford.edu/entries/goedel/#SecSou)
+* [学术工具](https://plato.stanford.edu/entries/goedel/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/goedel/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/goedel/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/goedel/#Rel)
 
----
+***
 
 ## 1. 传记简介
 
@@ -60,7 +50,7 @@
 
 哥德尔的父亲鲁道夫·奥古斯特是一位商人，他的母亲玛丽安娜是一位受过良好教育和有修养的女性，哥德尔一生中与她保持着亲密的联系，他们之间的长期广泛的通信是证明。这个家庭很富裕，哥德尔的童年是平静无事的，只有一个重要的例外；从大约四岁开始，哥德尔经常遭受健康问题，他一生中一直受到各种健康问题的困扰。
 
-尽管健康问题不断，哥德尔在小学和后来的中学表现出色，尤其在数学、语言和宗教方面表现出色。1924 年，哥德尔从布尔诺中学毕业后，进入维也纳大学，参加了物理学的讲座，这是他最初感兴趣的领域，还参加了海因里希·戈姆珀兹的哲学讲座和数学讲座。哥德尔在本科期间修了一些物理课程，这在他的大学成绩单上有证明；鉴于哥德尔在 1947 年对相对论的贡献，这一点尤为值得注意。菲利普·弗特文格勒是他的数学教授之一，他是伟大的德国指挥家威廉·弗特文格勒的表亲，事实上，弗特文格勒关于类域论的课程几乎使哥德尔决定在这个领域继续深造。哥德尔从鲁道夫·卡尔纳普和汉斯·哈恩那里学到了逻辑，最终在哈恩的指导下于 1929 年获得了数学博士学位。他的博士论文的主要定理是一阶逻辑的完备性定理（哥德尔 1929 年）。[2]
+尽管健康问题不断，哥德尔在小学和后来的中学表现出色，尤其在数学、语言和宗教方面表现出色。1924 年，哥德尔从布尔诺中学毕业后，进入维也纳大学，参加了物理学的讲座，这是他最初感兴趣的领域，还参加了海因里希·戈姆珀兹的哲学讲座和数学讲座。哥德尔在本科期间修了一些物理课程，这在他的大学成绩单上有证明；鉴于哥德尔在 1947 年对相对论的贡献，这一点尤为值得注意。菲利普·弗特文格勒是他的数学教授之一，他是伟大的德国指挥家威廉·弗特文格勒的表亲，事实上，弗特文格勒关于类域论的课程几乎使哥德尔决定在这个领域继续深造。哥德尔从鲁道夫·卡尔纳普和汉斯·哈恩那里学到了逻辑，最终在哈恩的指导下于 1929 年获得了数学博士学位。他的博士论文的主要定理是一阶逻辑的完备性定理（哥德尔 1929 年）。\[2]
 
 库尔特·哥德尔的大学时代也标志着他开始参加维也纳学派的会议，这是一个围绕着莫里茨·施利克的团体，很快被称为“逻辑实证主义者”，这个术语是费格尔和布伦伯格在他们的 1931 年的《逻辑实证主义：欧洲哲学的新运动》中创造的（费格尔和布伦伯格 1931）。尽管哥德尔本人并不是逻辑实证主义者，但这些讨论对他的形成影响至关重要。
 
@@ -68,7 +58,7 @@
 
 在这个十年结束时，他在数学上的成就之一是证明了选择公理和康托尔连续统假设与策梅洛-弗兰克尔集合论公理的一致性，分别在 1935 年和 1937 年获得。哥德尔还在这个时期发表了许多重要的关于模态和直觉逻辑以及算术的论文，其中最重要的是他的《关于直觉算术和数论》（哥德尔 1933e），他在其中证明了经典的一阶算术可以通过简单的翻译在海廷算术中解释。20 世纪 30 年代的其他出版物还包括关于谓词演算的决策问题、证明的长度以及微分几何和射影几何的论文。
 
-在十年结束时，哥德尔的导师汉斯·哈恩和莫里茨·施利克都已经去世（后者被一名前学生暗杀），这两件事导致了哥德尔的个人危机。此外，他在大学的职位，即特许讲师职位，被取消，取而代之的是“新秩序讲师职位”，只有在通过种族测试后才能获得该职位。[3]在那十年里，哥德尔三次前往美国，引发了一次调查。（参见西格蒙德 2006 年。）最后，哥德尔在 1939 年被纳粹政府认定适合服兵役。
+在十年结束时，哥德尔的导师汉斯·哈恩和莫里茨·施利克都已经去世（后者被一名前学生暗杀），这两件事导致了哥德尔的个人危机。此外，他在大学的职位，即特许讲师职位，被取消，取而代之的是“新秩序讲师职位”，只有在通过种族测试后才能获得该职位。\[3]在那十年里，哥德尔三次前往美国，引发了一次调查。（参见西格蒙德 2006 年。）最后，哥德尔在 1939 年被纳粹政府认定适合服兵役。
 
 所有这些事件都对他决定在 1940 年离开奥地利产生了决定性影响，当时他和妻子阿黛尔移民到了美国。约翰·道森在他的哥德尔传记《逻辑困境》（Dawson 1997）中以及所罗门·费弗曼在《哥德尔的生活与工作》（Feferman 1986）中都详细叙述了他们生活中的这段漫长而艰难的经历，读者可以参考这两本书。
 
@@ -76,11 +66,11 @@
 
 哥德尔在研究所的早年以与他的日常散步伙伴阿尔伯特·爱因斯坦的亲密友谊以及他对数学哲学的转向而闻名，从大约 1943 年开始，哥德尔几乎完全专注于数学哲学领域。他随后终身参与哲学的最初阶段是一个富有成果的阶段（从出版物的角度来看）：1944 年，他发表了他的第一篇哲学论文，题为《论罗素的数理逻辑》（Gödel 1944），1947 年，他发表了第二篇论文，题为《康托尔的连续统假设是什么？》（Gödel 1947）。1949 年，他发表了第三篇论文，题为《关于相对论理论与唯心主义哲学之间的关系的一点注释》（Gödel 1949a）。后一篇论文与他在 1949 年获得的有关旋转宇宙的相对论结果相吻合，这些结果首次发表在一篇名为《爱因斯坦引力场方程的新型宇宙学解的一个例子》的文章中（Gödel 1949）。
 
-在 1940 年代，哥德尔的其他重要哲学作品中，必须计算他 1941 年的演讲《直观逻辑何以具有建设性？》（Gödel *1941），其中引入了“有限类型的可计算函数”的概念。基于这次演讲的思想，他发表了一篇名为《关于有限观点的迄今未使用的扩展》的论文，该论文直到 1958 年才发表，其中将 Heyting 算术解释为无量词的演算 T，这一解释后来被称为“辩证解释”，以发表该文章的期刊命名（Gödel 1958）。（有关 1972 年修订版，请参见 Gödel 1995。）最后，这十年见证了哥德尔对莱布尼茨的深入研究的开始，哥德尔报告称，这一研究占据了 1943 年至 1946 年的时期。[4]
+在 1940 年代，哥德尔的其他重要哲学作品中，必须计算他 1941 年的演讲《直观逻辑何以具有建设性？》（Gödel \*1941），其中引入了“有限类型的可计算函数”的概念。基于这次演讲的思想，他发表了一篇名为《关于有限观点的迄今未使用的扩展》的论文，该论文直到 1958 年才发表，其中将 Heyting 算术解释为无量词的演算 T，这一解释后来被称为“辩证解释”，以发表该文章的期刊命名（Gödel 1958）。（有关 1972 年修订版，请参见 Gödel 1995。）最后，这十年见证了哥德尔对莱布尼茨的深入研究的开始，哥德尔报告称，这一研究占据了 1943 年至 1946 年的时期。\[4]
 
-20 世纪 50 年代，哥德尔与哲学的关系日益加深：1951 年，哥德尔在布朗大学发表了一场哲学演讲，通常被称为吉布斯演讲，题为《关于数学基础及其哲学意义的一些基本定理》（哥德尔*1951）。从 1953 年到 1959 年，哥德尔致力于提交给希尔普（Schilpp）关于鲁道夫·卡尔纳普（Rudolf Carnap）的论文集的一篇论文，题为《数学是语言的句法吗？》（哥德尔*1953/9-III，哥德尔*1953/9-V）。哥德尔在有生之年都没有发表这两篇重要的手稿，尽管这两篇手稿都出现在哥德尔的遗稿中的两个清单上，清单名为《我可以发表的内容》（英文名：“What I could publish.”），这两篇手稿最终都出现在哥德尔 1995 年的著作中。到了这个十年的结束，哥德尔对现象学产生了浓厚的兴趣。[5]
+20 世纪 50 年代，哥德尔与哲学的关系日益加深：1951 年，哥德尔在布朗大学发表了一场哲学演讲，通常被称为吉布斯演讲，题为《关于数学基础及其哲学意义的一些基本定理》（哥德尔_1951）。从 1953 年到 1959 年，哥德尔致力于提交给希尔普（Schilpp）关于鲁道夫·卡尔纳普（Rudolf Carnap）的论文集的一篇论文，题为《数学是语言的句法吗？》（哥德尔_1953/9-III，哥德尔\*1953/9-V）。哥德尔在有生之年都没有发表这两篇重要的手稿，尽管这两篇手稿都出现在哥德尔的遗稿中的两个清单上，清单名为《我可以发表的内容》（英文名：“What I could publish.”），这两篇手稿最终都出现在哥德尔 1995 年的著作中。到了这个十年的结束，哥德尔对现象学产生了浓厚的兴趣。\[5]
 
-哥德尔的最后几年以他传播两篇手稿而闻名：“一些考虑导致可能的结论，即连续体的真正能力是ℵ2”（哥德尔*1970a，* 1970b），他试图从豪斯多夫（Hausdorff）的所谓比例公理中推导出连续体的价值，以及他的“本体论证明”（哥德尔*1970），他在 1970 年将其托付给了达纳·斯科特（Dana Scott）（尽管它似乎是早些时候写的）。这两篇手稿共同构成了一个合适的遗言，对于一个在与数学和哲学的五十年的交往中，追求或更准确地说，寻求以“严格科学”为总标题追求这两个主题的基础的人来说，这是一个思维的转变，这种思维从哥德尔 1929 年开始就已经存在，当时他 23 岁时在他的博士论文中发表了一些哲学言论。
+哥德尔的最后几年以他传播两篇手稿而闻名：“一些考虑导致可能的结论，即连续体的真正能力是ℵ2”（哥德尔_1970a，_ 1970b），他试图从豪斯多夫（Hausdorff）的所谓比例公理中推导出连续体的价值，以及他的“本体论证明”（哥德尔\*1970），他在 1970 年将其托付给了达纳·斯科特（Dana Scott）（尽管它似乎是早些时候写的）。这两篇手稿共同构成了一个合适的遗言，对于一个在与数学和哲学的五十年的交往中，追求或更准确地说，寻求以“严格科学”为总标题追求这两个主题的基础的人来说，这是一个思维的转变，这种思维从哥德尔 1929 年开始就已经存在，当时他 23 岁时在他的博士论文中发表了一些哲学言论。
 
 哥德尔于 1978 年 1 月 14 日在普林斯顿去世，享年 71 岁。他的死亡证明书上记录了死因为“饥饿和虚弱，由于人格障碍。”他的妻子阿黛尔比他多活了三年。
 
@@ -96,7 +86,7 @@
 
 #### 2.1.1 引言
 
-库尔特·哥德尔可能非常熟悉希尔伯特和阿克曼在他们的著作《理论逻辑基础》（希尔伯特和阿克曼 1928）中于 1928 年首次明确提出的一阶谓词演算的完备性问题[6]。
+库尔特·哥德尔可能非常熟悉希尔伯特和阿克曼在他们的著作《理论逻辑基础》（希尔伯特和阿克曼 1928）中于 1928 年首次明确提出的一阶谓词演算的完备性问题\[6]。
 
 希尔伯特和阿克曼提出的问题是关于一阶谓词演算的某个明确给定的公理系统是否“在所有个体域中都能推导出所有正确的逻辑公式”（van Heijenoort 1967, p. 48）。
 
@@ -106,8 +96,7 @@
 
 在哥德尔的术语中，“逻辑表达式”是一个没有恒等性的良构的一阶公式。如果一个表达式的否定是可证明的，则它是“可证伪的”；如果它在每个解释中都为真，则它是“有效的”；如果它在某个解释中为真，则它是“可满足的”。完备性定理的陈述如下：
 
-> 定理 1。
-> 每个有效的逻辑表达式都是可证明的。等价地，每个逻辑表达式要么是可满足的，要么是可证伪的。
+> 定理 1。 每个有效的逻辑表达式都是可证明的。等价地，每个逻辑表达式要么是可满足的，要么是可证伪的。
 
 哥德尔的证明演算是希尔伯特和阿克曼的文本。如果一个表达式的所有量词都出现在开头，那么它就是正常形式。一个表达式或公式的程度是指在公式开头交替出现的量词块的数量，假设以全称量词开始。哥德尔证明了如果完备性定理对程度为 k 的公式成立，那么它必须对程度为 k + 1 的公式成立。因此，完备性的问题可以简化为程度为 1 的公式。也就是说，需要证明程度为 1 的任何正常公式(Q)φ要么是可满足的，要么是可证伪的，其中“(Q)”表示一个(非空)全称量词块，后面跟着一个(可能为空)存在量词块。
 
@@ -115,15 +104,15 @@
 
 让我们考虑一个例子，展示哥德尔的方法如何找到一个特定的公式是可满足的还是它的否定是可证明的：考虑 φ = ∀x0∃x1ψ(x0, x1)，其中 ψ(x0, x1) 是无量词的。我们将展示这个公式要么是可证伪的，要么是可满足的。我们做出以下定义：
 
-> | φ0 是表达式 ψ(x0, x1)                    |
-> | -------------------------------------------- |
-> | φ1 是表达式 ψ(x0, x1) ∧ ψ(x1, x2)      |
-> | …                                         |
-> | φn 是表达式 ψ(x0, x1) ∧ …∧ ψ(x**n, x**n+1)。 |
+| φ0 是表达式 ψ(x0, x1)                       |
+| --------------------------------------- |
+| φ1 是表达式 ψ(x0, x1) ∧ ψ(x1, x2)           |
+| …                                       |
+| φn 是表达式 ψ(x0, x1) ∧ …∧ ψ(x**n, x**n+1)。 |
 
-上面提到的关键引理表明，从 φ 我们可以推导出对于每个 n，∃x0…∃x**n+1φn。
+上面提到的关键引理表明，从 φ 我们可以推导出对于每个 n，∃x0…∃x\*\*n+1φn。
 
-> 情况 1：对于某个 n，φn 是不可满足的。然后，哥德尔通过使用已知的命题逻辑完备性定理[7]，论证出 ¬φn 是可证的，因此 ∀x0,…, x**n+1¬φn 也是可证的。因此 ¬∃x0…∃x**n+1φn 是可证的，因此 ¬φ 是可证的，即 φ 在希尔伯特-阿克曼系统中是可证伪的。（除了已经提到的关于命题逻辑的一些部分结果外，还包括 Post（1921）提出的命题演算的语义完备性，以及 Bernays 在 1918 年提出的同一命题演算的更一般的完备性定理；后者出现在 Bernays 的未发表的 1918 年 Habilitationsschrift 中；另请参阅 Bernays 1926。）
+> 情况 1：对于某个 n，φn 是不可满足的。然后，哥德尔通过使用已知的命题逻辑完备性定理\[7]，论证出 ¬φn 是可证的，因此 ∀x0,…, x**n+1¬φn 也是可证的。因此 ¬∃x0…∃x**n+1φn 是可证的，因此 ¬φ 是可证的，即 φ 在希尔伯特-阿克曼系统中是可证伪的。（除了已经提到的关于命题逻辑的一些部分结果外，还包括 Post（1921）提出的命题演算的语义完备性，以及 Bernays 在 1918 年提出的同一命题演算的更一般的完备性定理；后者出现在 Bernays 的未发表的 1918 年 Habilitationsschrift 中；另请参阅 Bernays 1926。）
 >
 > 情况 2：每个φn 都是可满足的。存在着只有有限个可能模型的集合，其宇宙为{x0,…, xn+1}。哥德尔通过定义模型 M 在模型 M'之下来对它们进行排序，如果 M 是 M'的子模型。通过这种方式，我们得到了一棵有限分支但无限的树。根据 König 引理，存在一条无限分支 B。（在证明中，哥德尔明确地构造了由 König 引理给出的分支，而不是引用它的名称。）B 上的模型的并集形成了一个具有宇宙{x0, x1,…}的模型 M。由于 M 满足每个φn，原始公式φ在 M 中成立。因此φ是可满足的，我们完成了。
 
@@ -137,13 +126,13 @@
 
 如果一个理论只有一个同构模型，则称其为范畴性理论；如果一个理论在基数为λ时只有一个同构模型，则称其为λ-范畴性理论。完备性定理的一个主要推论是，Peano 算术和 Zermelo-Fraenkel 集合论都不具备范畴性。
 
-就详细而言，关于一阶 Peano 公理（以下简称 PA），非标准模型的存在实际上是由完备性和紧致性共同推导出来的。我们可以按照以下方式构造这些模型，这些模型包含无限大的整数：在算术语言中添加一个新的常量符号 c。通过将无穷公理集合{c > 0, c > 1, …}添加到 PA 中，将 PA 扩展为一个新的理论 PA *，其中 3 表示为 S(S(S(0)))。PA*是有限一致的（即 PA*的每个有限子集都是一致的），因此是一致的，因此根据完备性定理，它有一个模型。
+就详细而言，关于一阶 Peano 公理（以下简称 PA），非标准模型的存在实际上是由完备性和紧致性共同推导出来的。我们可以按照以下方式构造这些模型，这些模型包含无限大的整数：在算术语言中添加一个新的常量符号 c。通过将无穷公理集合{c > 0, c > 1, …}添加到 PA 中，将 PA 扩展为一个新的理论 PA _，其中 3 表示为 S(S(S(0)))。PA_是有限一致的（即 PA\*的每个有限子集都是一致的），因此是一致的，因此根据完备性定理，它有一个模型。
 
 哥德尔在与完备性定理相关的任何出版物中都没有指出 Peano 算术模型的这个简单事实，直到很久以后，一般逻辑学界才注意到这一点。斯科勒姆在 1933 年的可定义超能力构造（参见斯科勒姆 1933 年）中直接构造了一个真算术的非标准模型（它扩展了 Peano 算术，是在自然数中为真的算术句子的集合）。但是斯科勒姆从未提到这样的模型的存在是由完备性和紧致性定理推导出来的。哥德尔在他对斯科勒姆论文的评论（1934c）中也没有提到这一事实，而是观察到算术的非一致性是由于不完备性定理导致的。
 
 至于集合论，斯科勒姆在 1923 年已经注意到了非一致性的失败，因为它是由 Löwenheim-Skolem 定理（斯科勒姆在那一年得出的结论；参见斯科勒姆 1923 年，基于 Löwenheim 1915 年和斯科勒姆 1920 年）推导出来的：任何具有模型的可数语言的一阶理论都有一个可数模型。
 
-斯科勒姆观察到集合论中的分类性因为它具有可数模型而失败，现在被称为斯科勒姆悖论。[8]这个观察在斯科勒姆的论文中得到了强调，因此论文的标题是《关于集合论公理基础的一项观察》。正如他在结论中写道，他在 1915 年就已经指出了集合论中的相对性，原因是：
+斯科勒姆观察到集合论中的分类性因为它具有可数模型而失败，现在被称为斯科勒姆悖论。\[8]这个观察在斯科勒姆的论文中得到了强调，因此论文的标题是《关于集合论公理基础的一项观察》。正如他在结论中写道，他在 1915 年就已经指出了集合论中的相对性，原因是：
 
 > …首先，我同时忙于其他问题；其次，我认为用集合的公理化作为数学的令人满意的最终基础是如此明显，以至于大多数数学家不会太关心它。但最近我惊讶地发现，有这么多数学家认为这些集合论公理提供了数学的理想基础；因此，我觉得是时候发表一篇批判性文章了。（英文翻译摘自 van Heijenoort 1967，第 300 页。）
 
@@ -161,7 +150,7 @@ Skolem 对完备性定理的贡献的问题已在 van Atten 和 Kennedy 2009 以
 
 顺便说一下，冯·诺伊曼在哥德尔之前就以这种方式理解了这两个定理。事实上，冯·诺伊曼在认为它们显示了古典数学的不可行性方面更进一步。他在 1931 年 6 月写信给卡尔纳普时写道：
 
-> 因此，我现在认为：1. 哥德尔已经显示了希尔伯特计划的不可实现性。2. 没有更多的理由拒绝直觉主义（如果忽略美学问题的话，这对我来说也将是决定性因素）。因此，我认为哥尼斯堡的基础讨论状态已经过时，因为哥德尔的基本发现已经将问题提升到完全不同的水平。[9]
+> 因此，我现在认为：1. 哥德尔已经显示了希尔伯特计划的不可实现性。2. 没有更多的理由拒绝直觉主义（如果忽略美学问题的话，这对我来说也将是决定性因素）。因此，我认为哥尼斯堡的基础讨论状态已经过时，因为哥德尔的基本发现已经将问题提升到完全不同的水平。\[9]
 
 而在之前的秋天，冯·诺伊曼以更强烈的措辞写信给哥德尔：
 
@@ -187,31 +176,31 @@ Skolem 对完备性定理的贡献的问题已在 van Atten 和 Kennedy 2009 以
 
 证明中使用的主要技术工具之一是哥德尔编号，这是一种将我们的形式理论 P 中的项和公式分配给自然数的机制。有不同的方法可以做到这一点。最常见的方法是基于将自然数唯一表示为质数的幂的乘积。数论中的每个符号 s 都以一种固定但任意的方式被分配一个正自然数#(s)，例如
 
-> | #(0) = 1  | #(=) = 5     | #(¬) = 9   |
-> | ----------- | -------------- | ------------- |
-> | #(1) = 2  | #( ( ) = 6 | #(∀) = 10  |
-> | #(+) = 3  | #( ) ) = 7 | #(*v*i) = 11 +*i* |
-> | #(×) = 4 | #(∧) = 8    |             |
+| #(0) = 1 | #(=) = 5   | #(¬) = 9          |
+| -------- | ---------- | ----------------- |
+| #(1) = 2 | #( ( ) = 6 | #(∀) = 10         |
+| #(+) = 3 | #( ) ) = 7 | #(_v_i) = 11 +_i_ |
+| #(×) = 4 | #(∧) = 8   |                   |
 
-序列 w = < w0,…, w**k > 对应的自然数是
+序列 w = < w0,…, w\*\*k > 对应的自然数是
 
-> ⌈*w*⌉ = 2#(#​#*w*#​#0) · 3#(*w*1) · … · *p**k*#(*w**k*),
+> ⌈_w_⌉ = 2#(#​#_w_#​#0) · 3#(_w_1) · … · _p\*\*k_#(_w\*\*k_),
 
-其中 p**k 是第 k+1 个素数。它被称为它的哥德尔数，并用⌈w⌉表示。通过这种方式，我们可以为公式、公式序列（一旦采用了区分一个公式结束和另一个公式开始的方法）以及最重要的证明分配哥德尔数。
+其中 p\*\*k 是第 k+1 个素数。它被称为它的哥德尔数，并用⌈w⌉表示。通过这种方式，我们可以为公式、公式序列（一旦采用了区分一个公式结束和另一个公式开始的方法）以及最重要的证明分配哥德尔数。
 
 这里的一个关键点是，当一个公式被解释为一个自然数时，那么对应于该自然数的数字可以作为一个公式的参数出现，从而使得语法可以“引用”自身，可以这么说（即，当一个数字被替换到一个公式中时，该数字所代表的哥德尔数）。这最终将使得哥德尔能够通过将自己的自然数编码（或更准确地说是相应的数字）替换到说“具有代码 x 的公式是不可证明的”这个公式中，从而形式化 Liar 悖论（以“可证明性”代替“真实性”）。
 
-执行形式化所需的另一个概念是数论谓词的数字表达能力的概念。如果对于每个自然数元组（n1，…，n**k），数论公式φ(n1，…，nk)在 P 中是数字表达的。
+执行形式化所需的另一个概念是数论谓词的数字表达能力的概念。如果对于每个自然数元组（n1，…，n\*\*k），数论公式φ(n1，…，nk)在 P 中是数字表达的。
 
-> | 库尔特·哥德尔 ⊨ φ(n1, …, n**k)   | ⇒ | *P*⊢ φ(*n*1, …,*nk*)   |
-> | -------------------------------------- | ---- | ----------------- |
-> | 库尔特·哥德尔 ⊨ ¬φ(n1, …, n**k) | ⇒ | *P*⊢ ¬φ(*n*1, …,*nk*) |
+| 库尔特·哥德尔 ⊨ φ(n1, …, n\*\*k)  | ⇒ | _P_⊢ φ(_n_1, …,_nk_)  |
+| --------------------------- | - | --------------------- |
+| 库尔特·哥德尔 ⊨ ¬φ(n1, …, n\*\*k) | ⇒ | _P_⊢ ¬φ(_n_1, …,_nk_) |
 
 其中 n 是表示自然数 n 的形式术语。（在 P 中，这是 S(S(…S(0)…)，其中 n 是将继承函数应用于常量符号 0 的次数。）其中一个主要目标是以数字方式表达谓词
 
 > Prf(x, y)：‘具有 Gödel 编号 x 的序列是具有 Gödel 编号 y 的句子的证明。’
 
-达到这个目标需要定义四十五个关系，每个关系都是根据前面的关系定义的。这些关系都是原始递归的。[10] 所需的关系包括，断言一个自然数编码了一个序列、一个公式、一个公理，或者它是一个公式的代码，用 Sb(r**u1…unZ(x1)…Z(x**n))表示，通过用其自由变量 u**i 的第 x**i 个数字替换公式 r 的代码获得的公式，其中 i = 1，…，n。第四十五个定义的原始递归关系是 Prf(x, y)，第四十六个是
+达到这个目标需要定义四十五个关系，每个关系都是根据前面的关系定义的。这些关系都是原始递归的。\[10] 所需的关系包括，断言一个自然数编码了一个序列、一个公式、一个公理，或者它是一个公式的代码，用 Sb(r**u1…unZ(x1)…Z(x**n))表示，通过用其自由变量 u**i 的第 x**i 个数字替换公式 r 的代码获得的公式，其中 i = 1，…，n。第四十五个定义的原始递归关系是 Prf(x, y)，第四十六个是
 
 > Prov(y): '具有 Gödel 编号 y 的句子在 P 中是可证明的'
 
@@ -221,17 +210,15 @@ Skolem 对完备性定理的贡献的问题已在 van Atten 和 Kennedy 2009 以
 
 在他的不完全性定理中，哥德尔使用了一种现在被称为哥德尔不动点定理的方法。尽管哥德尔在证明不完全性定理的过程中构造了一个不动点，但他并没有明确陈述不动点定理。不动点定理如下：
 
-> 定理 2（哥德尔不动点定理）
-> 如果φ(v0)是数论的一个公式，则存在一个句子ψ，使得 P ⊢ ψ ↔ φ(⌈ψ⌉)，其中⌈ψ⌉是与⌈ψ⌉的自然数编码对应的形式术语。
+> 定理 2（哥德尔不动点定理） 如果φ(v0)是数论的一个公式，则存在一个句子ψ，使得 P ⊢ ψ ↔ φ(⌈ψ⌉)，其中⌈ψ⌉是与⌈ψ⌉的自然数编码对应的形式术语。
 >
 > 证明：设σ(x,y,z)是一个公式，按数字表达数论谓词“y 是通过将变量 v0 替换为项 z 而得到的具有 Gödel 数为 x 的公式的 Gödel 数”。设θ(v0)是公式∃v1(φ(v1) ∧ σ(v0, v1, v0))。令 k = ⌈θ(v0)⌉，ψ = θ(k)。现在根据构造，直接有 P ⊢ ψ ↔ φ(⌈ψ⌉)。
 
 如果一个句子的否定是可证明的，则它是可证伪的。Gödel 所陈述的第一不完全性定理如下：
 
-> 定理 3（哥德尔的第一不完全性定理）
-> 如果 P 是ω-一致的，那么存在一个句子，既不能从 P 中被证明，也不能被反驳。
+> 定理 3（哥德尔的第一不完全性定理） 如果 P 是ω-一致的，那么存在一个句子，既不能从 P 中被证明，也不能被反驳。
 >
-> 证明：通过对上述引用的语法进行谨慎编码，编写一个可在 P 中表示的数论公式 Prf(x,y)[ 11]。
+> 证明：通过对上述引用的语法进行谨慎编码，编写一个可在 P 中表示的数论公式 Prf(x,y)\[ 11]。
 >
 > 1. 库尔特·哥德尔证明了φ⇒P ⊢ Prf(n, ⌈φ⌉)。
 >
@@ -239,13 +226,13 @@ Skolem 对完备性定理的贡献的问题已在 van Atten 和 Kennedy 2009 以
 >
 > 2. 库尔特·哥德尔未证明φ⇒P ⊢ ¬Prf(n, ⌈φ⌉)。
 >
-> 令 Prov(y)表示公式∃x Prf(x,y)[ 12]。根据定理 2，存在一个句子φ具有以下属性
+> 令 Prov(y)表示公式∃x Prf(x,y)\[ 12]。根据定理 2，存在一个句子φ具有以下属性
 >
-> 3. *P* ⊢ (φ ↔ ¬Prov(⌈φ⌉)).
+> 3. _P_ ⊢ (φ ↔ ¬Prov(⌈φ⌉)).
 >
 > 因此，φ表示“我是不可证明的”。我们现在观察到，如果 P ⊢ φ，则根据(1)存在一个 n 使得 P ⊢ Prf(n, ⌈φ⌉)，因此 P ⊢ Prov(⌈φ⌉)，因此，根据(3)P ⊢ ¬φ，因此 P 是不一致的。因此
 >
-> 4. *P* ⊬ φ
+> 4. _P_ ⊬ φ
 >
 > 此外，根据（4）和（2），我们有对于所有自然数 n，P ⊢ ¬Prf(n, ⌈φ⌉)。根据ω-一致性，P ⊬ ∃x Prf(x, ⌈φ⌉)。因此（3）给出了 P ⊬ ¬φ。我们已经证明了如果 P 是ω-一致的，那么φ对于 P 是独立的。
 
@@ -265,7 +252,7 @@ Skolem 对完备性定理的贡献的问题已在 van Atten 和 Kennedy 2009 以
 
 库尔特·哥德尔在第一不完全性定理中的ω-一致性假设在 1936 年被罗瑟尔消除，并被较弱的一致性概念所取代。罗瑟尔的推广涉及将不动点定理应用于公式 R(x)：“对于所有的 z：要么 z 不是具有哥德尔数 x 的公式的证明的哥德尔数，要么存在一个比 z 更短的证明来否定（具有哥德尔数）x 的公式”（参见罗瑟尔 1936 年）。
 
-关于第二不完全性定理，该论证部分依赖于将第一不完全性定理的证明形式化，正如我们所见。这一步在哥德尔 1931 年的论文中被省略了。他计划在原本应该是第二部分 II 中包括这一步（参见哥德尔 1931 年的脚注 48a）。但是，他没有写下来，而是转向了连续统问题[13]（第二部分还将详细阐述其他几点：不完全性的“真正原因”以及两个定理在其他系统中的适用性）。他可能没有感到有必要去处理看起来像是形式化练习的东西，而是依靠非正式的论证来说服（这一点成功了）。然而，这一步结果证明并不是那么简单。正如克利尼在他对哥德尔 1931 年论文的引言中所说的那样，“当然，关于定理 XI（一致性）的论证思路非常有说服力；但是事实证明，细节的执行需要比预期更多的工作和关注。”（参见哥德尔 1986 年的第 126-141 页）。最终，希尔伯特和伯奈斯在他们 1939 年的《希尔伯特和伯奈斯》中给出了第二定理的完整证明，共计约七十页。洛布在他的 1956 年的《洛布》中给出了更简洁的定理处理方式，随后费弗曼在他的 1960 年的《在一般情境中的元数学算术化》中对第一和第二定理进行了简明而完全的处理。但请参阅补充文件：
+关于第二不完全性定理，该论证部分依赖于将第一不完全性定理的证明形式化，正如我们所见。这一步在哥德尔 1931 年的论文中被省略了。他计划在原本应该是第二部分 II 中包括这一步（参见哥德尔 1931 年的脚注 48a）。但是，他没有写下来，而是转向了连续统问题\[13]（第二部分还将详细阐述其他几点：不完全性的“真正原因”以及两个定理在其他系统中的适用性）。他可能没有感到有必要去处理看起来像是形式化练习的东西，而是依靠非正式的论证来说服（这一点成功了）。然而，这一步结果证明并不是那么简单。正如克利尼在他对哥德尔 1931 年论文的引言中所说的那样，“当然，关于定理 XI（一致性）的论证思路非常有说服力；但是事实证明，细节的执行需要比预期更多的工作和关注。”（参见哥德尔 1986 年的第 126-141 页）。最终，希尔伯特和伯奈斯在他们 1939 年的《希尔伯特和伯奈斯》中给出了第二定理的完整证明，共计约七十页。洛布在他的 1956 年的《洛布》中给出了更简洁的定理处理方式，随后费弗曼在他的 1960 年的《在一般情境中的元数学算术化》中对第一和第二定理进行了简明而完全的处理。但请参阅补充文件：
 
 > [库尔特·哥德尔的不完备定理是否推翻了希尔伯特的计划？](https://plato.stanford.edu/entries/goedel/incompleteness-hilbert.html)
 
@@ -275,8 +262,7 @@ Skolem 对完备性定理的贡献的问题已在 van Atten 和 Kennedy 2009 以
 
 库尔特·哥德尔的 1936 年的“加速”定理，发表在一篇名为“论证明的长度”的摘要中，哥德尔 1936 年指出，虽然算术的某些句子是真实的但无法证明的，但还有其他句子是可证明的，但即使是最短的证明也比事先给定的句子的递归函数的任何界限都要长。更确切地说：
 
-> 定理 5。
-> 对于任何递归函数 f，存在可证明的算术句子φ，其最短证明的长度大于 f(⌈φ⌉)。
+> 定理 5。 对于任何递归函数 f，存在可证明的算术句子φ，其最短证明的长度大于 f(⌈φ⌉)。
 
 我们将要概述的证明对于我们用于证明长度的特定概念是敏感的。另一种可能性，也是哥德尔所考虑的，是证明中的公式数量。Buss（见下文）证明了定理的两种情况，因此两种情况都得到了解决。
 
@@ -286,8 +272,7 @@ Skolem 对完备性定理的贡献的问题已在 van Atten 和 Kennedy 2009 以
 
 哥德尔以与上述不同的方式陈述了加速定理。设 Sn 为第 n 阶逻辑系统，第一级变量被认为是自然数的范围。在这种设置下，第二级变量的范围是自然数集合，依此类推。哥德尔的表述是：
 
-> 定理 6。
-> 设 n 是一个大于 0 的自然数。如果 f 是一个可计算函数，则存在无穷多个在 S**n 中可证的公式 A，使得如果 k 是 A 在 S**n 中最短证明的长度，l 是 A 在 S**n+1 中最短证明的长度，则 k > f(l)。
+> 定理 6。 设 n 是一个大于 0 的自然数。如果 f 是一个可计算函数，则存在无穷多个在 S**n 中可证的公式 A，使得如果 k 是 A 在 S**n 中最短证明的长度，l 是 A 在 S\*\*n+1 中最短证明的长度，则 k > f(l)。
 >
 > 证明概述：思路如下：设φ(x)是一个公式，如上所述，对于任何 m，φ(m)在 S**n 中没有短证明。假设我们有一个更高阶的系统 S**n+1，我们可以证明∀xφ(x)。这个证明的长度是恒定的。因此，每个φ(m)都可以通过逻辑规则∀xφ(x) → φ(t)从这个普遍陈述中推导出来。因此，在该系统中，φ(m)对于所有 m 都有一个短证明。
 
@@ -315,31 +300,31 @@ Skolem 对完备性定理的贡献的问题已在 van Atten 和 Kennedy 2009 以
 
 现在我们用现代术语概述一下关于 CH 和 AC 与 ZFC 一致性的证明。在概述证明之前，我们先介绍一些预备概念：我们首先定义分层集合论宇宙，记为 V。（V 也被称为累积层次结构。）它是通过从空集开始迭代幂集操作（℘）而得到的：
 
-> | *V*0    | = | ∅,        |
-> | ------ | --- | ------------ |
-> | *V*α+1 | = | ℘(*V*α),    |
-> | *V*γ   | = | ∪β<γ*V*β, |
+| _V_0   | = | ∅,        |
+| ------ | - | --------- |
+| _V_α+1 | = | ℘(_V_α),  |
+| _V_γ   | = | ∪β<γ_V_β, |
 
 其中α、β是任意序数，γ是一个极限序数，℘(x)表示 x 的幂集。最后
 
-> | *V* | = | ∪α∈*Ord* *V*α, |
-> | -- | --- | ------------ |
+| _V_ | = | ∪α∈_Ord_ _V_α, |
+| --- | - | -------------- |
 
-where *Ord* denotes the class of all ordinals.
+where _Ord_ denotes the class of all ordinals.
 
-库尔特·哥德尔定义的可构造层 L 也是通过对序数进行递归来定义的。但是，与完全幂集操作迭代以获得累积层次结构不同，可构造层次的层级严格地以预测方式定义，即仅在下一层级中包括那些使用来自上一层级的参数的一阶可定义集合。更确切地说，让 Def(A)表示通过在结构<A,∈>中使用一阶公式和 A 中的参数来定义的 A 的所有子集。（有关可定义性的更多信息，请参见本百科全书中关于模型论的条目。）
+库尔特·哥德尔定义的可构造层 L 也是通过对序数进行递归来定义的。但是，与完全幂集操作迭代以获得累积层次结构不同，可构造层次的层级严格地以预测方式定义，即仅在下一层级中包括那些使用来自上一层级的参数的一阶可定义集合。更确切地说，让 Def(A)表示通过在结构\<A,∈>中使用一阶公式和 A 中的参数来定义的 A 的所有子集。（有关可定义性的更多信息，请参见本百科全书中关于模型论的条目。）
 
 使用这个符号，可构造层次通过对序数进行归纳来定义，如下所示：
 
-> | *L*0    | = | ∅,        |
-> | ------ | --- | ------------ |
-> | *L*α+1 | = | *Def*(*L*α),      |
-> | *L*γ   | = | ∪α<γ*L*α, |
-> | *L*     | = | ∪α∈*Ord* *L*α, |
+| _L_0   | = | ∅,             |
+| ------ | - | -------------- |
+| _L_α+1 | = | _Def_(_L_α),   |
+| _L_γ   | = | ∪α<γ_L_α,      |
+| _L_    | = | ∪α∈_Ord_ _L_α, |
 
 一个集合 x 被称为可构造的，如果 x ∈ L。将所有集合都是可构造的公理表示为 V = L，并称之为可构造性公理。注意，L 是一个适当的类而不是一个集合；尽管我们将看到，每个 Lα都是一个集合，而“x 是可构造的”谓词实际上是语言的一个可定义术语。
 
-我们的下一个任务是证明 L 是 ZF 的一个模型。如果一个集合或类的元素也是它的子集，则该集合或类是传递的。通过细致的超限归纳，可以证明对于每个α，Lα都是传递的；因此 L 本身也是传递的。这个事实，再加上观察到一些基本的闭包性质在 L 中成立[16]，足以证明 L 是 ZF 的一个模型。（实际上，事实证明，L 是包含所有序数的 ZF 公理的最小传递模型，因此在这个意义上是规范的。）
+我们的下一个任务是证明 L 是 ZF 的一个模型。如果一个集合或类的元素也是它的子集，则该集合或类是传递的。通过细致的超限归纳，可以证明对于每个α，Lα都是传递的；因此 L 本身也是传递的。这个事实，再加上观察到一些基本的闭包性质在 L 中成立\[16]，足以证明 L 是 ZF 的一个模型。（实际上，事实证明，L 是包含所有序数的 ZF 公理的最小传递模型，因此在这个意义上是规范的。）
 
 具体来说，证明 ZF 公理在 L 中除了包含公理之外都是真的，相当于证明大致上任何具有 ZF 公理断言存在的属性 P 的集合，可以通过考虑将属性 P 相对于 L 的相对化 PL 来看出在 L 中存在。（属性 P 相对于内部模型 M 的相对化是通过将每个量词∃xφ替换为∃x(x ∈ M ∧ φ)和每个量词∀xφ替换为∀x(x ∈ M→ φ)来实现的。）至于包含公理，验证它需要证明所断言的集合是在特定的后继层 Lα + 1 中构造的。证明这一点需要集合论中一个重要的原理，现代术语中称为 Levy（或 ZF）反射原理。这个原理说，ZF 语言中的任何在 V 中为真的语句，在任何连续递增的层次结构（如 L）的某个层次上已经为真。（关于这个原理的历史，请参见 Kanamori 2006。）Levy 反射原理给出了集合的元素都是在哪个层次上构造的级别α。哥德尔实际上没有使用 Levy 反射原理，而是使用了该原理证明背后的论证。
 
@@ -405,17 +390,15 @@ where *Ord* denotes the class of all ordinals.
 
 二十世纪二十年代，Łukasiewicz 引入了多值逻辑（Łukasiewicz 1970），而直觉主义逻辑则由 Heyting 于 1930 年形式化。这两种逻辑都无法满足排中律。因此，自然而然地提出了一个问题：直觉主义逻辑是否可以被看作是一种多值逻辑，事实上，20 世纪 20 年代的一些逻辑学家已经提出了这个观点。在他 1932 年的论文中，哥德尔给出了一个简单的论证，证明了直觉主义命题逻辑不能被看作是一种有限值逻辑。准确地说，哥德尔证明了两个定理：
 
-> 定理 7。
-> 对于有限个元素（真值）而言，不存在一种实现方式，使得在 H 中可证明的公式（仅限于这些公式）被满足（即对于任意赋值都产生指定的值）。
+> 定理 7。 对于有限个元素（真值）而言，不存在一种实现方式，使得在 H 中可证明的公式（仅限于这些公式）被满足（即对于任意赋值都产生指定的值）。
 
 （H 是直觉主义命题逻辑，由 Heyting 提出。）
 
-> 定理 8。
-> 在 H 和普通命题演算系统 A 之间存在无限多个系统，即存在一个单调递减的系统序列，其中每个系统都包含 H 作为子集，并且都被 A 作为子集包含。
+> 定理 8。 在 H 和普通命题演算系统 A 之间存在无限多个系统，即存在一个单调递减的系统序列，其中每个系统都包含 H 作为子集，并且都被 A 作为子集包含。
 
 在他的证明中，他考虑了每个大于 0 的自然数 n 的句子
 
-> *F**n* = ∨1 ≤ *i* < *j* ≤ *np**i* ≡ *p**j*.
+> _F\*\*n_ = ∨1 ≤ _i_ < _j_ ≤ _np\*\*i_ ≡ _p\*\*j_.
 
 他观察到在 n 值逻辑中，对于 m > n 的句子 F**m 应该是可推导的。然而，哥德尔证明了，对于任何 n，F**n 都不能从 Heyting 的公理中推导出来。
 
@@ -427,24 +410,22 @@ where *Ord* denotes the class of all ordinals.
 
 这个结果扩展了命题情况下的相同断言。记 H 为直觉主义命题逻辑，A 为其古典对应（如上所述）。归纳地定义：
 
-> | *A*′     | ≡ | ¬¬A（A 是原子命题） |
-> | -------- | ---- | ----------------------- |
-> | (¬*A*)′ | ≡ | ¬*A*′                  |
-> | (*A*→*B*)′ | ≡ | ¬(*A*′ ∧ ¬*B*′)        |
-> | (*A*∨*B*)′ | ≡ | ¬(¬*A*′ ∧ ¬*B*′)      |
-> | (*A*∧*B*)′ | ≡ | *A*′ ∧*B*′               |
+| _A_′       | ≡ | ¬¬A（A 是原子命题）     |
+| ---------- | - | ---------------- |
+| (¬_A_)′    | ≡ | ¬_A_′            |
+| (_A_→_B_)′ | ≡ | ¬(_A_′ ∧ ¬_B_′)  |
+| (_A_∨_B_)′ | ≡ | ¬(¬_A_′ ∧ ¬_B_′) |
+| (_A_∧_B_)′ | ≡ | _A_′ ∧_B_′       |
 
- 然后，
+然后，
 
-> 定理 9.
-> 令 F 为一个命题公式。则当且仅当 A ⊢ F′时，H ⊢ F。
+> 定理 9. 令 F 为一个命题公式。则当且仅当 A ⊢ F′时，H ⊢ F。
 
 库尔特·哥德尔的定理很容易从 Glivenko（1929）的结果推导出来，即如果且仅如果命题公式 F 的否定¬F 从 H 中推导出来，则¬F 从 A 中推导出来。
 
 哥德尔所谓的双重否定解释将定理 9 扩展为将经典一阶逻辑归约为直觉主义谓词逻辑。在这种情况下，可以将 A'映射到 A 以进行翻译，对于原子 A，我们还可以让∀xA(x)' = ∀xA'(x)：
 
-> 定理 10。
-> 假设 A 是一个一阶公式。如果 A 在经典一阶逻辑中是可证的，那么 A'在直觉主义一阶逻辑中也是可证的。
+> 定理 10。 假设 A 是一个一阶公式。如果 A 在经典一阶逻辑中是可证的，那么 A'在直觉主义一阶逻辑中也是可证的。
 
 上述结果由 Gentzen（与 Bernays）独立获得，但在听到哥德尔的结果后，Gentzen 撤回了他的论文。这个结果也被 Kolmogorov 在他 1925 年的《排中律原理》中预见到（英文翻译 van Heijenoort 1967），但那篇论文在 Kolmogorov 的圈子之外的逻辑学家中几乎是未知的。
 
@@ -452,8 +433,7 @@ Bernays 在他 1967 年的《爱德华兹》中写道（参见 Bernays 关于 Da
 
 库尔特·哥德尔的定理 10 推导出以下关于算术的定理：
 
-> 定理 11。
-> 假设 A 是算术的一阶公式。如果 A 在经典的 Peano 算术中是可证的，那么 A'在直觉主义的一阶算术中也是可证的。
+> 定理 11。 假设 A 是算术的一阶公式。如果 A 在经典的 Peano 算术中是可证的，那么 A'在直觉主义的一阶算术中也是可证的。
 
 对于直觉主义一阶逻辑的公理和规则列表，请参见库尔特·哥德尔（Gödel）1958 年的著作，由 A.S. Troelstra 在库尔特·哥德尔（Gödel）1990 年的著作中附有详细的引言。还请参见 Troelstra 1973 年的著作，以及 Troelstra 在 Barwise 1977 年的著作中的“建设性数学的方面”。对于上述定理的详细证明，读者还可以参考后者。
 
@@ -463,20 +443,19 @@ Bernays 在他 1967 年的《爱德华兹》中写道（参见 Bernays 关于 Da
 
 库尔特·哥德尔在他 1929 年的论文引言中已经注意到了这种差异。背景是这样的：哥德尔在那里提出了他的完备性定理可能是循环的可能性，因为排中律被用来证明它。这是因为虽然完备性定理断言“一种可决定性”，即每个量化公式要么是可证明的，要么可以给出一个反例，“排中律似乎只是表达了每个问题的可决定性”：
 
-> … 肯定的是（通过排中律）可解性，但不是通过特定的手段，而是通过任何可以想象到的手段 … [20]
+> … 肯定的是（通过排中律）可解性，但不是通过特定的手段，而是通过任何可以想象到的手段 … \[20]
 
 哥德尔考虑直觉主义命题逻辑（以下简称 IPL）；他还考虑了第二个系统，即在经典命题逻辑中添加了一个操作符“B”，其中“B”的意思是“可证明的”。现在称为 S4 的公理系统（有关这些公理的列表，请参见本百科全书中有关模态逻辑的条目）与经典命题逻辑的标准公理一起添加了一个新的证明规则：从 A，可以推导出 BA。让我们称这个第二个系统为 G。哥德尔的定理通过以下翻译表明 IPL 可以通过 G 来解释：
 
-> | ¬*p* | ≡ | ~B*p*    |
-> | ---- | ---- | ------- |
-> | *p*⊃*q* | ≡ | B*p*→ B*q* |
-> | *p*∨*q* | ≡ | B*p*∨ B*q* |
-> | *p*∧*q* | ≡ | B*p*∧ B*q* |
+| ¬_p_    | ≡ | \~B_p_     |
+| ------- | - | ---------- |
+| _p_⊃_q_ | ≡ | B_p_→ B_q_ |
+| _p_∨_q_ | ≡ | B_p_∨ B_q_ |
+| _p_∧_q_ | ≡ | B_p_∧ B_q_ |
 
- 那就是，
+那就是，
 
-> 定理 12。
-> 设 A 是 IPL 的一个公式，A'是它的翻译。那么如果 IPL ⊢ A 成立，则 G ⊢ A'也成立。
+> 定理 12。 设 A 是 IPL 的一个公式，A'是它的翻译。那么如果 IPL ⊢ A 成立，则 G ⊢ A'也成立。
 
 哥德尔猜想逆向蕴涵必须成立，事实上这在麦金西和塔斯基 1948 年的研究中得到了证明。
 
@@ -495,7 +474,7 @@ Bernays 在他 1967 年的《爱德华兹》中写道（参见 Bernays 关于 Da
 
 哥德尔考虑了这些有限类型函数的无量词自由理论，用 T 表示。 T 具有以下特点：T 的语言包含每种类型的变量，用于区分类型的常量，以及用于类型σ的三元谓词=σ。相同类型的术语之间的相等性是可判定的。 T 的非逻辑公理和规则包括 0 和后继的经典算术公理，以及归纳规则：
 
-> (*F*(0) ∧ (*F*(*x*0) → *F*(*S*(*x*0)))) → *F*(*x*0)
+> (_F_(0) ∧ (_F_(_x_0) → _F_(_S_(_x_0)))) → _F_(_x_0)
 
 对于无量词的公式 F(x0)。正如哥德尔所指出的（哥德尔 1990 年，第 247 页），T 的公理基本上是原始递归算术的公理，只是变量可以是任何有限类型的。
 
@@ -503,12 +482,11 @@ Bernays 在他 1967 年的《爱德华兹》中写道（参见 Bernays 关于 Da
 
 库尔特·哥德尔的定理如下：
 
-> 定理 13。
-> 假设 F' = ∃y∀zA(y, z, x)。如果 F 在直觉主义一阶算术中是可证的，则存在有限类型的可计算函数 Q，使得 A(Q(x), z, x)在 T 中是可证的。
+> 定理 13。 假设 F' = ∃y∀zA(y, z, x)。如果 F 在直觉主义一阶算术中是可证的，则存在有限类型的可计算函数 Q，使得 A(Q(x), z, x)在 T 中是可证的。
 
 库尔特·哥德尔在直觉主义一阶算术的证明结构上进行归纳证明。（有关详细证明的处理，请参阅 Troelstra 1986。）
 
-这个定理对于基础理论的重要性不可高估。[21]关于它的推广讨论，由于 Kreisel、Tait、Howard、Feferman 等人对定理的功能解释所引发的后续工作，以及它的基础和哲学意义，最后特别是与 Heyting-Kolmogorov 提供的早期非正式证明解释的关系，这里不会尝试。因此，读者可以参考大量关于这个主题的文献，例如上述的 Troelstra 1986、Tait 1967、Feferman 1993 和 Avigad & Feferman 1998。关于最近有趣的发展，例如关于关联哥德尔的 Dialectica 解释和 Kreisel 的修改实现性的领域，请参阅 Oliva 2006。另请参阅 van Oosten 2008。
+这个定理对于基础理论的重要性不可高估。\[21]关于它的推广讨论，由于 Kreisel、Tait、Howard、Feferman 等人对定理的功能解释所引发的后续工作，以及它的基础和哲学意义，最后特别是与 Heyting-Kolmogorov 提供的早期非正式证明解释的关系，这里不会尝试。因此，读者可以参考大量关于这个主题的文献，例如上述的 Troelstra 1986、Tait 1967、Feferman 1993 和 Avigad & Feferman 1998。关于最近有趣的发展，例如关于关联哥德尔的 Dialectica 解释和 Kreisel 的修改实现性的领域，请参阅 Oliva 2006。另请参阅 van Oosten 2008。
 
 关于哲学背景的一点说明，哥德尔提出了他的翻译，即有限主义。论文引言中讨论的问题是，在有限数学中必须添加哪些抽象概念才能获得算术的一致性证明。等价地说：在第二不完全性定理的光下，为了获得一致性证明，有限观点必须放弃什么。
 
@@ -559,7 +537,7 @@ Bernays 在他 1967 年的《爱德华兹》中写道（参见 Bernays 关于 Da
 
 > 哲学比科学更为普遍。概念论已经比数学更为普遍...真正的哲学是精确但不专业化的。
 >
-> 或许数学没有取得进展（并且有很多未解决的问题）的原因是，人们将自己局限于外延性，因此也对许多理论感到失望，例如命题逻辑和形式化。（王浩 1996 年，9.3.20，9.3.21）[22]
+> 或许数学没有取得进展（并且有很多未解决的问题）的原因是，人们将自己局限于外延性，因此也对许多理论感到失望，例如命题逻辑和形式化。（王浩 1996 年，9.3.20，9.3.21）\[22]
 
 （见笔记本 Max IV，第 198 页（哥德尔遗产，普林斯顿大学图书馆，项目 030090）。转录 Cheryl Dawson；德文翻译为英文；修正为英文。哥德尔对 Max IV 的日期表明它是从 1941 年 5 月到 1942 年 4 月。另请参阅哥德尔致伯奈斯的信件，哥德尔 2003a，第 283 页。）
 
@@ -604,13 +582,13 @@ Bernays 在他 1967 年的《爱德华兹》中写道（参见 Bernays 关于 Da
 
 一些作家在这些和类似的段落中以实用主义的方式解释哥德尔，将他归因于这样的观点：由于经验陈述是成功引用的典范，所以在抽象概念的情况下，引用应该以因果模型为基础。（参见 Maddy 1990 年。）据认为，以这种方式解释对抽象对象的引用，可以解决与现实主义相关的主要困难，即我们如何能够获得关于抽象对象的知识的问题。其他人则认为，哥德尔没有特定的典型案例在心中；对他来说，无论是经验案例还是抽象案例都同样具有问题，或者同样没有问题。（参见 Tait 1986 年。）后一种观点在 van Atten 和 Kennedy 2003 年中被称为认识论平等。（另请参见 Kennedy 和 van Atten 2004 年。）
 
-在他 1947 年的《康托的连续统问题是什么？》一文中，哥德尔阐述了这样一种观点：在数学的有意义命题的情况下，总是存在一个可以用是或否来决定的事实。这是现实主义的直接结果，因为如果存在一个数学对象或概念的领域，那么任何关于它们的有意义命题必须是真或假的。[23]连续统假设是哥德尔提出的一个有意义问题的例子。概念“有多少”导致了假设的明确含义，因此它应该是可以决定的-至少在原则上是如此。最引人注目的是，哥德尔并没有就此打住，而是继续提供了一个确定连续统的值以及确定扩展 ZFC 的其他公理的真值的实际策略。具体而言，他提供了两个判定的标准：第一个涉及概念分析，并与哥德尔的理性主义计划相关联。（请参见上述关于哥德尔理性主义的部分。）其次，必须注意所谓的公理的成功，作为检查或指示其真值解决方向的标志。例如，哥德尔在论文中指出，可构造性公理的任何后果都不太可信。因此，它很可能是假的。有关集合论新公理的内在与外在证明的讨论，请参见 Maddy 2011 和 Koellner 2014。
+在他 1947 年的《康托的连续统问题是什么？》一文中，哥德尔阐述了这样一种观点：在数学的有意义命题的情况下，总是存在一个可以用是或否来决定的事实。这是现实主义的直接结果，因为如果存在一个数学对象或概念的领域，那么任何关于它们的有意义命题必须是真或假的。\[23]连续统假设是哥德尔提出的一个有意义问题的例子。概念“有多少”导致了假设的明确含义，因此它应该是可以决定的-至少在原则上是如此。最引人注目的是，哥德尔并没有就此打住，而是继续提供了一个确定连续统的值以及确定扩展 ZFC 的其他公理的真值的实际策略。具体而言，他提供了两个判定的标准：第一个涉及概念分析，并与哥德尔的理性主义计划相关联。（请参见上述关于哥德尔理性主义的部分。）其次，必须注意所谓的公理的成功，作为检查或指示其真值解决方向的标志。例如，哥德尔在论文中指出，可构造性公理的任何后果都不太可信。因此，它很可能是假的。有关集合论新公理的内在与外在证明的讨论，请参见 Maddy 2011 和 Koellner 2014。
 
 有关哥德尔的哲学观点的进一步讨论，请参阅附加文件：
 
 > [哥德尔转向现象学](https://plato.stanford.edu/entries/goedel/goedel-phenomenology.html)
 
- 和
+和
 
 > [数学内容的哲学论证](https://plato.stanford.edu/entries/goedel/content-mathematics.html)
 
@@ -620,216 +598,216 @@ Bernays 在他 1967 年的《爱德华兹》中写道（参见 Bernays 关于 Da
 
 #### Gödel’s Writings
 
-The Gödel Nachlass is located at Firestone Library of Princeton University with the exception of Gödel’s preprint collection, which is housed at the library of the Institute for Advanced Study. The Nachlass itself is the property of the Institute but a microfilm copy of it may be purchased from Brill. All of Gödel’s published work, together with a large number of the unpublished material from the Nachlass, together with a selection of Gödel’s correspondence is published in *Kurt Gödel, Collected Works, Volumes I-V*.
+The Gödel Nachlass is located at Firestone Library of Princeton University with the exception of Gödel’s preprint collection, which is housed at the library of the Institute for Advanced Study. The Nachlass itself is the property of the Institute but a microfilm copy of it may be purchased from Brill. All of Gödel’s published work, together with a large number of the unpublished material from the Nachlass, together with a selection of Gödel’s correspondence is published in _Kurt Gödel, Collected Works, Volumes I-V_.
 
 #### The Collected Papers of Kurt Gödel
 
-* 1986, *Collected Works. I: Publications 1929–1936*. S. Feferman, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
-* 1990, *Collected Works. II: Publications 1938–1974*. S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
-* 1995, *Collected Works. III: Unpublished essays and lectures*. S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
-* 2003a, *Collected Works. IV: Correspondence A-G*. S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
-* 2003b, *Collected Works. V: Correspondence H-Z*. S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
+* 1986, _Collected Works. I: Publications 1929–1936_. S. Feferman, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
+* 1990, _Collected Works. II: Publications 1938–1974_. S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
+* 1995, _Collected Works. III: Unpublished essays and lectures_. S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
+* 2003a, _Collected Works. IV: Correspondence A-G_. S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
+* 2003b, _Collected Works. V: Correspondence H-Z_. S. Feferman, J. Dawson, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press.
 
 #### Selected Works of Kurt Gödel
 
-| [1929] | “I”, *Dissertation, University of Vienna*. Reprinted in Gödel 1986, pp. 60–101. |
-| --- | --- |
-| [1930] | “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik*, 37: 349–360. Reprinted in Gödel 1986, pp. 102–123. |
-| [1931] | “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I”, *Monatshefte für Mathematik und Physik*, 38: 173–198. Reprinted in Gödel 1986, pp. 144–195. |
-| [1932] | “Zum intuitionistischen Aussagenkalkül”, *Anzeiger der Akademie der Wissenschaften in Wien*, 69: 65–66. Reprinted in Gödel 1986, pp. 222–225. |
-| [1933e] | “Zur intuitionistischen Arithmetik und Zahlentheorie”, *Ergebnisse eines mathematischen Kolloquiums*, 4: 34–38. Reprinted in Gödel 1986, pp. 286–295. |
-| [1933f] | “Eine Interpretation des intuitionistischen Aussagenkalküls”, *Ergebnisse eines mathematischen Kolloquiums* 4, 39–40. Reprinted in Gödel 1986, pp. 300–301. |
-| [1933i] | “Zum Entscheidungsproblem des logischen Functionenkalküls”, *Monatshefte für Mathematik und Physik*, 40: 433–443. Reprinted in Gödel 1986, pp. 306–326. |
-| [*1933o] | “The present situation in the foundations of mathematics”, manuscript. Printed in Gödel 1995, pp. 45–53. |
-| [1934c] | Review of Skolem (1933). *Zentralblatt für Mathematik und ihre Grenzgebiete*, 7: 193–194. Reprinted in Gödel 1986, pp. 379–380. |
-| [1936a] | “Über die Länge von Beweisen”, *Ergebnisse eines mathematischen Kolloquiums*, 7: 23–24. Reprinted in Gödel 1986, pp. 395–399. |
-| [1939a] | “Consistency proof for the generalized continuum hypothesis”, *Proceedings of the National Academy of Sciences, U.S.A.*, 25: 220–224. Reprinted in Gödel 1990, pp. 28–32. |
-| [1940] | “The Consistency of the Continuum Hypothesis”, *Annals of Mathematics Studies*, Volume 3, Princeton: Princeton University Press. Reprinted in Gödel 1990, pp. 33–101. |
-| [*1941] | “In what sense is intuitionistic logic constructive?”, lecture manuscript. Printed in Gödel 1995, pp. 189–200. |
-| [1944] | “Russell’s mathematical logic”, *The Philosophy of Bertrand Russell* (Library of Living Philosophers), P. Schilpp (ed.), New York: Tudor, 1951, pp. 123–153. Reprinted in Gödel 1990, pp. 119–141. |
-| [*1946/9-B2] | “Some observations about the relationship between theory of relativity and Kantian philosophy”, manuscript. Printed in Gödel 1995, pp. 230–246. |
-| [*1946/9-C1] | “Some observations about the relationship between theory of relativity and Kantian philosophy”, manuscript. Printed in Gödel 1995, pp. 247–259. |
-| [1947] | “What is Cantor’s continuum problem?”, *Amer. Math. Monthly*, 54: 515–525. Reprinted in Gödel 1990, pp. 176–187. |
-| [1949a] | “A remark on the relationship between relativity theory and idealistic philosophy”, *Albert Einstein: Philosopher-Scientist* (Library of Living Philosophers), P. Schilpp (ed.), La Salle, IL: Open Court, 1949, pp. 555–562. Reprinted in Gödel 1990, pp. 202–207. |
-| [1949] | “An Example of a New Type of Cosmological Solutions of Einstein’s Field Equations of Gravitation,” *Reviews of Modern Physics*, 21: 447–450. Reprinted in Gödel 1990, pp. 190–198. |
-| [*1951] | “Some basic theorems on the foundations of mathematics and their implications”, lecture manuscript. Printed in Gödel 1995, pp. 304–323. |
-| [*1953/9-III] | “Is mathematics a syntax of language?”, lecture manuscript. Printed in Gödel 1995, pp. 334–356. |
-| [*1953/9-V] | “Is mathematics a syntax of language?,” lecture manuscript. Printed in Gödel 1995, pp. 356–362. |
-| [1958] | “Über eine bisher noch nicht benützte Erweiterung des finiten Standpunktes”, *Dialectica*, 12: 280–287. Reprinted in Gödel 1990, pp. 240–251. |
-| [*1961/?] | “The modern development of the foundations of mathematics in light of philosophy”, manuscript. Printed in Gödel 1995, pp. 374–387. |
-| [1964] | “What is Cantor’s continuum problem?*”*, revised version of Gödel 1947, in Benacerraf, P. and Putnam, H. (eds.), 1983, *Philosophy of mathematics: selected readings (2nd ed.)*, Cambridge: Cambridge University Press. Reprinted in Gödel 1990, pp. 254–270. |
-| [*1970] | “Ontological proof”, manuscript. Printed in Gödel 1995, pp. 403–404. |
-| [*1970a] | “Some considerations leading to the probable conclusion that the true power of the continuum is ℵ2”, manuscript. Printed in Gödel 1995, pp. 420–422. |
-| [*1970b] | “A proof of Cantor’s continuum hypothesis from a highly plausible axioms about orders of growth”, manuscript. Printed in Gödel 1995, pp. 422–423. |
+| \[1929]         | “I”, _Dissertation, University of Vienna_. Reprinted in Gödel 1986, pp. 60–101.                                                                                                                                                                                     |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \[1930]         | “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, _Monatshefte für Mathematik und Physik_, 37: 349–360. Reprinted in Gödel 1986, pp. 102–123.                                                                                                       |
+| \[1931]         | “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I”, _Monatshefte für Mathematik und Physik_, 38: 173–198. Reprinted in Gödel 1986, pp. 144–195.                                                                                |
+| \[1932]         | “Zum intuitionistischen Aussagenkalkül”, _Anzeiger der Akademie der Wissenschaften in Wien_, 69: 65–66. Reprinted in Gödel 1986, pp. 222–225.                                                                                                                       |
+| \[1933e]        | “Zur intuitionistischen Arithmetik und Zahlentheorie”, _Ergebnisse eines mathematischen Kolloquiums_, 4: 34–38. Reprinted in Gödel 1986, pp. 286–295.                                                                                                               |
+| \[1933f]        | “Eine Interpretation des intuitionistischen Aussagenkalküls”, _Ergebnisse eines mathematischen Kolloquiums_ 4, 39–40. Reprinted in Gödel 1986, pp. 300–301.                                                                                                         |
+| \[1933i]        | “Zum Entscheidungsproblem des logischen Functionenkalküls”, _Monatshefte für Mathematik und Physik_, 40: 433–443. Reprinted in Gödel 1986, pp. 306–326.                                                                                                             |
+| \[\*1933o]      | “The present situation in the foundations of mathematics”, manuscript. Printed in Gödel 1995, pp. 45–53.                                                                                                                                                            |
+| \[1934c]        | Review of Skolem (1933). _Zentralblatt für Mathematik und ihre Grenzgebiete_, 7: 193–194. Reprinted in Gödel 1986, pp. 379–380.                                                                                                                                     |
+| \[1936a]        | “Über die Länge von Beweisen”, _Ergebnisse eines mathematischen Kolloquiums_, 7: 23–24. Reprinted in Gödel 1986, pp. 395–399.                                                                                                                                       |
+| \[1939a]        | “Consistency proof for the generalized continuum hypothesis”, _Proceedings of the National Academy of Sciences, U.S.A._, 25: 220–224. Reprinted in Gödel 1990, pp. 28–32.                                                                                           |
+| \[1940]         | “The Consistency of the Continuum Hypothesis”, _Annals of Mathematics Studies_, Volume 3, Princeton: Princeton University Press. Reprinted in Gödel 1990, pp. 33–101.                                                                                               |
+| \[\*1941]       | “In what sense is intuitionistic logic constructive?”, lecture manuscript. Printed in Gödel 1995, pp. 189–200.                                                                                                                                                      |
+| \[1944]         | “Russell’s mathematical logic”, _The Philosophy of Bertrand Russell_ (Library of Living Philosophers), P. Schilpp (ed.), New York: Tudor, 1951, pp. 123–153. Reprinted in Gödel 1990, pp. 119–141.                                                                  |
+| \[\*1946/9-B2]  | “Some observations about the relationship between theory of relativity and Kantian philosophy”, manuscript. Printed in Gödel 1995, pp. 230–246.                                                                                                                     |
+| \[\*1946/9-C1]  | “Some observations about the relationship between theory of relativity and Kantian philosophy”, manuscript. Printed in Gödel 1995, pp. 247–259.                                                                                                                     |
+| \[1947]         | “What is Cantor’s continuum problem?”, _Amer. Math. Monthly_, 54: 515–525. Reprinted in Gödel 1990, pp. 176–187.                                                                                                                                                    |
+| \[1949a]        | “A remark on the relationship between relativity theory and idealistic philosophy”, _Albert Einstein: Philosopher-Scientist_ (Library of Living Philosophers), P. Schilpp (ed.), La Salle, IL: Open Court, 1949, pp. 555–562. Reprinted in Gödel 1990, pp. 202–207. |
+| \[1949]         | “An Example of a New Type of Cosmological Solutions of Einstein’s Field Equations of Gravitation,” _Reviews of Modern Physics_, 21: 447–450. Reprinted in Gödel 1990, pp. 190–198.                                                                                  |
+| \[\*1951]       | “Some basic theorems on the foundations of mathematics and their implications”, lecture manuscript. Printed in Gödel 1995, pp. 304–323.                                                                                                                             |
+| \[\*1953/9-III] | “Is mathematics a syntax of language?”, lecture manuscript. Printed in Gödel 1995, pp. 334–356.                                                                                                                                                                     |
+| \[\*1953/9-V]   | “Is mathematics a syntax of language?,” lecture manuscript. Printed in Gödel 1995, pp. 356–362.                                                                                                                                                                     |
+| \[1958]         | “Über eine bisher noch nicht benützte Erweiterung des finiten Standpunktes”, _Dialectica_, 12: 280–287. Reprinted in Gödel 1990, pp. 240–251.                                                                                                                       |
+| \[\*1961/?]     | “The modern development of the foundations of mathematics in light of philosophy”, manuscript. Printed in Gödel 1995, pp. 374–387.                                                                                                                                  |
+| \[1964]         | “What is Cantor’s continuum problem?_”_, revised version of Gödel 1947, in Benacerraf, P. and Putnam, H. (eds.), 1983, _Philosophy of mathematics: selected readings (2nd ed.)_, Cambridge: Cambridge University Press. Reprinted in Gödel 1990, pp. 254–270.       |
+| \[\*1970]       | “Ontological proof”, manuscript. Printed in Gödel 1995, pp. 403–404.                                                                                                                                                                                                |
+| \[\*1970a]      | “Some considerations leading to the probable conclusion that the true power of the continuum is ℵ2”, manuscript. Printed in Gödel 1995, pp. 420–422.                                                                                                                |
+| \[\*1970b]      | “A proof of Cantor’s continuum hypothesis from a highly plausible axioms about orders of growth”, manuscript. Printed in Gödel 1995, pp. 422–423.                                                                                                                   |
 
 ### Secondary Sources
 
-* Avigad, J. and S. Feferman, 1998, “Gödel’s Functional (‘Dialectica’) Interpretation”, in *Handbook of Proof Theory* (Studies in Logic and the Foundations of Mathematics, Volume 137), Samuel Buss (ed.), Amsterdam: North-Holland, pp. 337-405.
-* Awodey, S. and A. W. Carus, 2010, “Gödel and Carnap”, in *Kurt Gödel: Essays for his Centennial*, Solomon Feferman, Charles Parsons & Stephen G. Simpson (eds.), Cambridge: Cambridge University Press.
-* Baaz, M., and C. Papadimitriou, D.Scott, H. Putnam, and C. Harper (eds.), 2011, *Kurt Gödel and the Foundations of Mathematics: Horizons of Truth*, Cambridge: Cambridge University Press.
-* Badesa, C., and P. Mancosu, and R. Zach, 2009, “The Development of Mathematical Logic from Russell to Tarski, 1900–1935”, in Leila Haaparanta (ed.), *The History of Modern Logic*. New York and Oxford: Oxford University Press:318–470..
-* Barwise, Jon (ed.), 1977, *Handbook of Mathematical Logic* (Studies in Logic and the Foundations of Mathematics, Volume 90), Amsterdam: North-Holland Publishing Co.
-* Behmann, Heinrich, 1922, “Beiträge, Algebra, Logik, insbesodere zum Entscheidungsproblem”, *Mathematische Annalen*, 86: 419–432.
-* Benacerraf, P. and H. Putnam (eds.), 1983, *Philosophy of Mathematics: Selected Readings*, Cambridge: Cambridge University Press, 2nd edition.
-* Bernays, Paul, 1926, “Axiomatische Untersuchung des Aussagen-Kalkuls der ‘Principia Mathematica’”, *Mathematisches Zeitschrift*, 25(1): 305–320.
-* Bezboruah, A., and J.C. Sheperdson, 1976, “Gödel’s second incompleteness theorem for \(Q\)”, *Journal of Symbolic Logic*, 41 (2): 503–512.
-* Bolzano, Bernard, 1969, *Wissenschaftslehre*, Sections 349–391, in *Bernard Bolzano — Gesamtausgabe*, Reihe I/Band 13, edited and with an introduction by Jan Berg, Stuttgart-Bad Cannstatt: Frommann Holzboog.
-* Burgess, John, 2009, “”Intuitions of Three Kinds in Gödel’s Views on the Continuum“”, in *Interpreting Gödel*Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
-* Buss, Samuel R., 1994, “On Gödel’s Theorems on Lengths of Proofs. I. Number of Lines and Speedup for Arithmetics”, *Journal of Symbolic Logic*, 59(3): 737–756.
-* Chisholm, R., 1948, “The Problem of Empiricism”, *The Journal of Philosophy*, 45: 512–7.
-* Cohen, Paul, 1963, “The Independence of the Continuum Hypothesis”, *Proceedings of the National Academy of Sciences of the U.S.A.*, 50: 1143–1148.
-* Crocco, G., 2003, “Gödel, Carnap and the Fregean Heritage”, *History and Philosophy of Logic*, 27: 171–191.
-* –––, 2006, “Gödel on Concepts”, *Synthese*, 137(1,2): 21–41.
-* Dawson, Jr., John W., 1997, *Logical dilemmas: The Life and Work of Kurt Gödel*, Wellesley, MA: A. K. Peters, Ltd.
-* Dehornoy, Patrick, 2004, “Progrès récents sur l’hypothèse du continu (d’après Woodin)”, *Astérisque*, 294: viii, 147–172.
-* Detlefsen, Michael, 1986, *Hilbert’s Program: An essay on mathematical instrumentalism*, Dordrecht: D. Reidel.
-* –––, 2001, “What Does Gödel’s Second theorem Say?”, *Philosophia Mathemathica*, 9(1): 37–71.
-* –––, 2014, “Completeness and the Ends of Axiomatization”, in *Interpreting Gödel*, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
+* Avigad, J. and S. Feferman, 1998, “Gödel’s Functional (‘Dialectica’) Interpretation”, in _Handbook of Proof Theory_ (Studies in Logic and the Foundations of Mathematics, Volume 137), Samuel Buss (ed.), Amsterdam: North-Holland, pp. 337-405.
+* Awodey, S. and A. W. Carus, 2010, “Gödel and Carnap”, in _Kurt Gödel: Essays for his Centennial_, Solomon Feferman, Charles Parsons & Stephen G. Simpson (eds.), Cambridge: Cambridge University Press.
+* Baaz, M., and C. Papadimitriou, D.Scott, H. Putnam, and C. Harper (eds.), 2011, _Kurt Gödel and the Foundations of Mathematics: Horizons of Truth_, Cambridge: Cambridge University Press.
+* Badesa, C., and P. Mancosu, and R. Zach, 2009, “The Development of Mathematical Logic from Russell to Tarski, 1900–1935”, in Leila Haaparanta (ed.), _The History of Modern Logic_. New York and Oxford: Oxford University Press:318–470..
+* Barwise, Jon (ed.), 1977, _Handbook of Mathematical Logic_ (Studies in Logic and the Foundations of Mathematics, Volume 90), Amsterdam: North-Holland Publishing Co.
+* Behmann, Heinrich, 1922, “Beiträge, Algebra, Logik, insbesodere zum Entscheidungsproblem”, _Mathematische Annalen_, 86: 419–432.
+* Benacerraf, P. and H. Putnam (eds.), 1983, _Philosophy of Mathematics: Selected Readings_, Cambridge: Cambridge University Press, 2nd edition.
+* Bernays, Paul, 1926, “Axiomatische Untersuchung des Aussagen-Kalkuls der ‘Principia Mathematica’”, _Mathematisches Zeitschrift_, 25(1): 305–320.
+* Bezboruah, A., and J.C. Sheperdson, 1976, “Gödel’s second incompleteness theorem for (Q)”, _Journal of Symbolic Logic_, 41 (2): 503–512.
+* Bolzano, Bernard, 1969, _Wissenschaftslehre_, Sections 349–391, in _Bernard Bolzano — Gesamtausgabe_, Reihe I/Band 13, edited and with an introduction by Jan Berg, Stuttgart-Bad Cannstatt: Frommann Holzboog.
+* Burgess, John, 2009, “”Intuitions of Three Kinds in Gödel’s Views on the Continuum“”, in _Interpreting Gödel_Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
+* Buss, Samuel R., 1994, “On Gödel’s Theorems on Lengths of Proofs. I. Number of Lines and Speedup for Arithmetics”, _Journal of Symbolic Logic_, 59(3): 737–756.
+* Chisholm, R., 1948, “The Problem of Empiricism”, _The Journal of Philosophy_, 45: 512–7.
+* Cohen, Paul, 1963, “The Independence of the Continuum Hypothesis”, _Proceedings of the National Academy of Sciences of the U.S.A._, 50: 1143–1148.
+* Crocco, G., 2003, “Gödel, Carnap and the Fregean Heritage”, _History and Philosophy of Logic_, 27: 171–191.
+* –––, 2006, “Gödel on Concepts”, _Synthese_, 137(1,2): 21–41.
+* Dawson, Jr., John W., 1997, _Logical dilemmas: The Life and Work of Kurt Gödel_, Wellesley, MA: A. K. Peters, Ltd.
+* Dehornoy, Patrick, 2004, “Progrès récents sur l’hypothèse du continu (d’après Woodin)”, _Astérisque_, 294: viii, 147–172.
+* Detlefsen, Michael, 1986, _Hilbert’s Program: An essay on mathematical instrumentalism_, Dordrecht: D. Reidel.
+* –––, 2001, “What Does Gödel’s Second theorem Say?”, _Philosophia Mathemathica_, 9(1): 37–71.
+* –––, 2014, “Completeness and the Ends of Axiomatization”, in _Interpreting Gödel_, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
 * Dreben, B. and J. van Heijenoort, 1986, “Introductory Note to 1929, 1930 and 1930a”, in Gödel 1986, pp. 44–59.
-* Edwards, Paul (ed.), 1967, *The Encyclopedia of Philosophy*, New York: MacMillan.
-* Ehrenfeucht, A. and J. Mycielski, 1971, “Abbreviating Proofs by Adding New Axioms”, *Bulletin of the American Mathematical Society*, 77: 366–367.
-* Feferman, Solomon, 1960/1961, “Arithmetization of Metamathematics in a General Setting”, *Fundamenta Mathematicae*, 49: 35–92.
-* –––, 1993, “Gödel’s Dialectica Interpretation and Its Two-way Stretch”, in *Computational Logic and Proof Theory* (Lecture Notes in Computer Science, Volume 713), G. Gottlob, A. Leitsch, and D. Mundici (eds.), Berlin: Springer, pp. 23–40.
+* Edwards, Paul (ed.), 1967, _The Encyclopedia of Philosophy_, New York: MacMillan.
+* Ehrenfeucht, A. and J. Mycielski, 1971, “Abbreviating Proofs by Adding New Axioms”, _Bulletin of the American Mathematical Society_, 77: 366–367.
+* Feferman, Solomon, 1960/1961, “Arithmetization of Metamathematics in a General Setting”, _Fundamenta Mathematicae_, 49: 35–92.
+* –––, 1993, “Gödel’s Dialectica Interpretation and Its Two-way Stretch”, in _Computational Logic and Proof Theory_ (Lecture Notes in Computer Science, Volume 713), G. Gottlob, A. Leitsch, and D. Mundici (eds.), Berlin: Springer, pp. 23–40.
 * –––, 1986, “Gödel’s Life and Work”, in Gödel 1986, pp. 1–34.
-* –––, 1988, “Hilbert’s Program Relativized: Proof-Theoretical and Foundational Reductions”, *Journal of Symbolic Logic*, 53: 364–384.
-* –––, 1996, “Proof Theory”, in *The Encyclopedia of Philosophy Supplement*, D. Borchrt (ed.), New York: MacMillan, pp. 466–469.
-* Feferman, S., and H. Friedman, P. Maddy, and J. Steel, 2000, “Does Mathematics Need New Axioms?”, *Bulletin of Symbolic Logic*, 6(4): 401–446.
-* Feferman, S., C. Parsons, and S. Simpson (eds.), 2010, *Kurt Gödel: Essays for his Centennial* (Lecture Notes in Logic, 33), Cambridge: Cambridge University Press.
-* Feigl, H. and A. Blumberg, 1931, “Logical Positivism. A New Movement in European Philosophy”, *Journal of Philosophy*, 28: 281–296.
-* Floyd, J. and A. Kanamori, 2006, “How Gödel Transformed Set Theory”, *Notices of the American Mathematical Society*, 53(4): 419–427.
-* Folina, Janet, 2014, “Gödel on How to Have your Mathematics and Know it Too”, in *Interpreting Gödel*, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
-* Føllesdal, Dagfinn, 1995, “Gödel and Husserl”, in *From Dedekind to Gödel* (Synthese Library, Volume 251), J. Hintikka (ed.), Dordrecht, Boston: Kluwer, pp. 427–446.
-* Foreman, Matthew, 1998, “Generic Large Cardinals: New Axioms for Mathematics?”, in *Documenta Mathematica*, Extra Volume, Proceedings of the International Congress of Mathematicians, II, pp. 11–21 [[available online](http://emis.dsd.sztaki.hu/journals/DMJDMV/xvol-icm/01/Foreman.MAN.ps.gz) (in compressed Postscript)].
+* –––, 1988, “Hilbert’s Program Relativized: Proof-Theoretical and Foundational Reductions”, _Journal of Symbolic Logic_, 53: 364–384.
+* –––, 1996, “Proof Theory”, in _The Encyclopedia of Philosophy Supplement_, D. Borchrt (ed.), New York: MacMillan, pp. 466–469.
+* Feferman, S., and H. Friedman, P. Maddy, and J. Steel, 2000, “Does Mathematics Need New Axioms?”, _Bulletin of Symbolic Logic_, 6(4): 401–446.
+* Feferman, S., C. Parsons, and S. Simpson (eds.), 2010, _Kurt Gödel: Essays for his Centennial_ (Lecture Notes in Logic, 33), Cambridge: Cambridge University Press.
+* Feigl, H. and A. Blumberg, 1931, “Logical Positivism. A New Movement in European Philosophy”, _Journal of Philosophy_, 28: 281–296.
+* Floyd, J. and A. Kanamori, 2006, “How Gödel Transformed Set Theory”, _Notices of the American Mathematical Society_, 53(4): 419–427.
+* Folina, Janet, 2014, “Gödel on How to Have your Mathematics and Know it Too”, in _Interpreting Gödel_, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
+* Føllesdal, Dagfinn, 1995, “Gödel and Husserl”, in _From Dedekind to Gödel_ (Synthese Library, Volume 251), J. Hintikka (ed.), Dordrecht, Boston: Kluwer, pp. 427–446.
+* Foreman, Matthew, 1998, “Generic Large Cardinals: New Axioms for Mathematics?”, in _Documenta Mathematica_, Extra Volume, Proceedings of the International Congress of Mathematicians, II, pp. 11–21 \[[available online](http://emis.dsd.sztaki.hu/journals/DMJDMV/xvol-icm/01/Foreman.MAN.ps.gz) (in compressed Postscript)].
 * Franks, Curtis, 2009, “The Autonomy of Mathematical Knowledge: Hilbert’s Program Revisited”, Cambridge: Cambridge University Press.
-* –––, 2011, “Stanley Tennenbaum’s Socrates”, in *Set Theory, Arithmetic and Foundations of Mathematics: Theorems, Philosophies*, Kennedy, J. and Kossak, R., (eds.), Lecture Notes in Logic, 36, Cambridge: Cambridge University Press, 2011.
-* –––, 2014, “Logical Completeness, Form and Content: An Archaeology”, in *Interpreting Gödel*, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
-* Gaifman, H., 2000, “What Godel’s Incompleteness Result Does and Does Not Show”, *Journal of Philosophy*, 97 (8): 462–471.
-* Garson, James, 2003, “Modal Logic”, in *The Stanford Encyclopedia of Philosophy*, Fall 2003 Edition, Edward N. Zalta (ed.), URL = <[Modal Logic (Stanford Encyclopedia of Philosophy/Fall 2003 Edition)](https://plato.stanford.edu/archives/fall2003/entries/logic-modal/)>.
-* Glivenko, V., 1929, “Sur quelques points de la logique de m. Brouwer.”, *Académie Royale de Belgique, Bulletin de la Classe des Sciences*, 15: 183–188.
-* Gottwald, Siegfried, 2004, “Many-valued Logic”, in *The Stanford Encyclopedia of Philosophy*, Winter 2004 Edition, Edward N. Zalta (ed.), URL = <[Many-Valued Logic (Stanford Encyclopedia of Philosophy/Winter 2004 Edition)](https://plato.stanford.edu/archives/win2004/entries/logic-manyvalued/)>.
+* –––, 2011, “Stanley Tennenbaum’s Socrates”, in _Set Theory, Arithmetic and Foundations of Mathematics: Theorems, Philosophies_, Kennedy, J. and Kossak, R., (eds.), Lecture Notes in Logic, 36, Cambridge: Cambridge University Press, 2011.
+* –––, 2014, “Logical Completeness, Form and Content: An Archaeology”, in _Interpreting Gödel_, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
+* Gaifman, H., 2000, “What Godel’s Incompleteness Result Does and Does Not Show”, _Journal of Philosophy_, 97 (8): 462–471.
+* Garson, James, 2003, “Modal Logic”, in _The Stanford Encyclopedia of Philosophy_, Fall 2003 Edition, Edward N. Zalta (ed.), URL = <[Modal Logic (Stanford Encyclopedia of Philosophy/Fall 2003 Edition)](https://plato.stanford.edu/archives/fall2003/entries/logic-modal/)>.
+* Glivenko, V., 1929, “Sur quelques points de la logique de m. Brouwer.”, _Académie Royale de Belgique, Bulletin de la Classe des Sciences_, 15: 183–188.
+* Gottwald, Siegfried, 2004, “Many-valued Logic”, in _The Stanford Encyclopedia of Philosophy_, Winter 2004 Edition, Edward N. Zalta (ed.), URL = <[Many-Valued Logic (Stanford Encyclopedia of Philosophy/Winter 2004 Edition)](https://plato.stanford.edu/archives/win2004/entries/logic-manyvalued/)>.
 * Gödel, Rudolf, 1983, “History of the Gödel Family”, Susan Simonsin (trans.), in Weingartner and Schmetterer 1987, pp. 11–27.
-* Hauser, Kai, 2006, “Gödel’s Program Revisited, Part 1: the Turn to Phenomenology”, *Bulletin of Symbolic Logic*, 12 (4): 529–590.
-* Heyting, Arendt, 1930, “Die formalen Regeln der intuitionistischen Logik”, *Sitzungsberichte der Preussischen Akademie der Wissenschaften, physikalisch-mathematische Klasse*, II, pp. 42–56.
-* Hilbert, David, 1926, “Über das Unendliche”, *Mathematische Annalen*, 95: 161–190.
-* Hilbert, D. and W. Ackermann, 1928, *Grundzüge der theoretischen Logik*, Berlin: Springer-Verlag.
-* Hilbert, D. and P. Bernays, 1934, *Grundlagen der Mathematik*, Volume 1, Berlin: Springer-Verlag.
-* –––, 1939, *Grundlagen der Mathematik*, Volume II, Berlin: Springer-Verlag.
-* Hodges, Wilfrid, 2005, “Model Theory”, in *The Stanford Encyclopedia of Philosophy*, Fall 2005 Edition, Edward N. Zalta (ed.), URL = <[Model Theory (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](https://plato.stanford.edu/archives/fall2005/entries/model-theory/)>.
-* Husserl, Edmund, 1911, “Philosophie als strenge Wissenschaft”, *Logos*, 1: 289–341.
-* Jaśkowski, Stanisław, 1936, “Investigations into the System of Intuitionist Logic”, *Studia Logica*, 34(2) (1975): 117–120. (Translated by S. McCall from the French “Rechereches sur le système de la logique intuitioniste” in *Actes du Congrés International de Philosophie Scientifique*, Volume VI, Hermann, Paris, 1936, pp. 58–61.)
-* Jech, Thomas, 2003, *Set theory*, (Springer Monographs in Mathematics), Berlin: Springer-Verlag. 3rd millennium edition, revised and expanded.
-* Jensen, R. Björn, 1972, “The Fine Structure of the Constructible Hierarchy” (with a section by Jack Silver), *Annals of Mathematical Logic*, 4: 229–308; Erratum, 4 (1972): 443.
-* Kanamori, Aki, 1996, “The Mathematical Development of Set theory from Cantor to Cohen.” *Bulletin of Symbolic Logic*, 2(1): 1–71.
-* –––, 2006, “Levy and Set Theory”, *Annals of Pure and Applied Logic*, 140(3): 233–252.
-* Kennedy, Juliette, 2006, “Incompleteness — A Book Review,” *Notices of the American Mathematical Societ*, 53(4): 448–455.
-* –––, 2011, “Gödel’s Thesis: An Appreciation” in *Kurt Gödel and the Foundations of Mathematics: Horizons of Truth*, M. Baaz, C. Papadimitriou, D. Scott, H. Putnam, and C. Harper (eds.), Cambridge: Cambridge University Press 95–110.
-* –––, 2013, “On Formalism Freeness: Implementing Gödel’s 1946 Princeton Bicentennial Lecture”, *Bulletin of Symbolic Logic*, 19(3): 351–393.
-* –––, 2014, “Gödel’s 1946 Princeton Bicentennial Lecture: An Appreciation”, in *Interpreting Gödel: Critical Essays*, Cambridge: Cambridge University Press.
-* Kennedy, Juliette (ed.), 2014, *Interpreting Gödel: Critical Essays*, Cambridge: Cambridge University Press.
-* Kennedy, J. and van Atten, M., 2003, “On the Philosophical Development of Kurt Gödel”, *Bulletin of Symbolic Logic*, 9(4): 425–476. Reprinted in *Kurt Gödel: Essays for his Centennial*, Solomon Feferman, Charles Parsons and Stephen G. Simpson (eds.), Cambridge: Cambridge University Press.
-* –––, 2004, “Gödel’s Modernism: On Set-theoretic Incompleteness”, *Graduate Faculty Philosophy Journal*, 25(2): 289–349. (See the Erratum in *Graduate Faculty Philosophy Journal*, 26(1) (2005), page facing contents.)
-* –––, 2009, “Gödel’s Modernism: On Set-theoretic Incompleteness, Revisited”, in *Logicism, Intuitionism and Formalism: What has become of them?*, S. Linström, E. Palmgren, K. Segerberg, and V. Stoltenberg-Hansen (eds.), Berlin: Springer: 303–356.
-* –––, 2009, “Gödel’s Logic”, in D. Gabbay and J. Woods (eds.), *The Handbook of the History of Logic: Logic from Russell to Gödel*, Volume 5, Amsterdam: Elsevier: 449–509.
+* Hauser, Kai, 2006, “Gödel’s Program Revisited, Part 1: the Turn to Phenomenology”, _Bulletin of Symbolic Logic_, 12 (4): 529–590.
+* Heyting, Arendt, 1930, “Die formalen Regeln der intuitionistischen Logik”, _Sitzungsberichte der Preussischen Akademie der Wissenschaften, physikalisch-mathematische Klasse_, II, pp. 42–56.
+* Hilbert, David, 1926, “Über das Unendliche”, _Mathematische Annalen_, 95: 161–190.
+* Hilbert, D. and W. Ackermann, 1928, _Grundzüge der theoretischen Logik_, Berlin: Springer-Verlag.
+* Hilbert, D. and P. Bernays, 1934, _Grundlagen der Mathematik_, Volume 1, Berlin: Springer-Verlag.
+* –––, 1939, _Grundlagen der Mathematik_, Volume II, Berlin: Springer-Verlag.
+* Hodges, Wilfrid, 2005, “Model Theory”, in _The Stanford Encyclopedia of Philosophy_, Fall 2005 Edition, Edward N. Zalta (ed.), URL = <[Model Theory (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](https://plato.stanford.edu/archives/fall2005/entries/model-theory/)>.
+* Husserl, Edmund, 1911, “Philosophie als strenge Wissenschaft”, _Logos_, 1: 289–341.
+* Jaśkowski, Stanisław, 1936, “Investigations into the System of Intuitionist Logic”, _Studia Logica_, 34(2) (1975): 117–120. (Translated by S. McCall from the French “Rechereches sur le système de la logique intuitioniste” in _Actes du Congrés International de Philosophie Scientifique_, Volume VI, Hermann, Paris, 1936, pp. 58–61.)
+* Jech, Thomas, 2003, _Set theory_, (Springer Monographs in Mathematics), Berlin: Springer-Verlag. 3rd millennium edition, revised and expanded.
+* Jensen, R. Björn, 1972, “The Fine Structure of the Constructible Hierarchy” (with a section by Jack Silver), _Annals of Mathematical Logic_, 4: 229–308; Erratum, 4 (1972): 443.
+* Kanamori, Aki, 1996, “The Mathematical Development of Set theory from Cantor to Cohen.” _Bulletin of Symbolic Logic_, 2(1): 1–71.
+* –––, 2006, “Levy and Set Theory”, _Annals of Pure and Applied Logic_, 140(3): 233–252.
+* Kennedy, Juliette, 2006, “Incompleteness — A Book Review,” _Notices of the American Mathematical Societ_, 53(4): 448–455.
+* –––, 2011, “Gödel’s Thesis: An Appreciation” in _Kurt Gödel and the Foundations of Mathematics: Horizons of Truth_, M. Baaz, C. Papadimitriou, D. Scott, H. Putnam, and C. Harper (eds.), Cambridge: Cambridge University Press 95–110.
+* –––, 2013, “On Formalism Freeness: Implementing Gödel’s 1946 Princeton Bicentennial Lecture”, _Bulletin of Symbolic Logic_, 19(3): 351–393.
+* –––, 2014, “Gödel’s 1946 Princeton Bicentennial Lecture: An Appreciation”, in _Interpreting Gödel: Critical Essays_, Cambridge: Cambridge University Press.
+* Kennedy, Juliette (ed.), 2014, _Interpreting Gödel: Critical Essays_, Cambridge: Cambridge University Press.
+* Kennedy, J. and van Atten, M., 2003, “On the Philosophical Development of Kurt Gödel”, _Bulletin of Symbolic Logic_, 9(4): 425–476. Reprinted in _Kurt Gödel: Essays for his Centennial_, Solomon Feferman, Charles Parsons and Stephen G. Simpson (eds.), Cambridge: Cambridge University Press.
+* –––, 2004, “Gödel’s Modernism: On Set-theoretic Incompleteness”, _Graduate Faculty Philosophy Journal_, 25(2): 289–349. (See the Erratum in _Graduate Faculty Philosophy Journal_, 26(1) (2005), page facing contents.)
+* –––, 2009, “Gödel’s Modernism: On Set-theoretic Incompleteness, Revisited”, in _Logicism, Intuitionism and Formalism: What has become of them?_, S. Linström, E. Palmgren, K. Segerberg, and V. Stoltenberg-Hansen (eds.), Berlin: Springer: 303–356.
+* –––, 2009, “Gödel’s Logic”, in D. Gabbay and J. Woods (eds.), _The Handbook of the History of Logic: Logic from Russell to Gödel_, Volume 5, Amsterdam: Elsevier: 449–509.
 * Kleene, S. C., 1987, “Gödel’s Impression on Students of Logic in the 1930s”, in Weingartner and Schmetterer 1987, pp. 49–64.
-* Koellner, Peter, 2014, “Large Cardinals and Determinacy”, *The Stanford Encyclopedia of Philosophy* (Spring Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2014/entries/large-cardinals-determinacy/>.
-* Kreisel, Georg, 1980, “Kurt Gödel, 28 April 1906 – 14 January 1978”, *Biographical Memoirs of Fellows of the Royal Society*, 26: 148–224. Corrigenda, 27 (1981): 697; further corrigenda, 28 (1982): 697.
-* –––, 1988, “Review of Kurt Gödel: *Collected works*, Volume I”, *Notre Dame Journal of Formal Logic*, 29(1): 160–181.
-* –––, 1990, “Review of Kurt Gödel: *Collected Works*, Volume II”, *Notre Dame Journal of Formal Logic*, 31(4): 602–641.
-* –––, 1998, “Second Thoughts Around Some of Gödel’s Writings: A Non-academic Option”, *Synthese*, 114(1): 99–160.
-* Kripke, Saul, 2009, “The collapse of the Hilbert program: why a system cannot prove its own 1-consistency”, *Bulletin of Symbolic Logic*, 15 (2): 229–231.
-* Kunen, Kenneth, 1983, *Set Theory: An Introduction to Independence Proofs*, (Studies in Logic and the Foundations of Mathematics, Volume 102), Amsterdam: North-Holland Publishing Co. Reprint of the 1980 original.
-* Löb, M. H., 1956, “Formal Systems of Constructive Mathematics”, *Journal of Symbolic Logic*, 21: 63–75.
-* Löwenheim, L., 1915, “Über Möglichkeiten im Relativkalkül”, *Mathematische Annalen*, 76(4): 447–470.
-* Łukasiewicz, Jan, 1970, *Selected works*, (Studies in Logic and the Foundations of Mathematics), L. Borkowski (ed.), Amsterdam: North-Holland Publishing Co.
-* Maddy, Penelope, 1990, *Realism in Mathematics*, New York: Clarendon Press.
-* Maddy, Penelope, 2011, *Defending the Axioms*, Oxford: Oxford University Press.
-* Mal’cev, Anatoli Ivanovic, 1971, *The Metamathematics of Algebraic Systems. Collected Papers: 1936–1967* (Studies in Logic and the Foundations of Mathematics, Volume 66), translated, edited, and provided with supplementary notes by Benjamin Franklin Wells, III, Amsterdam: North-Holland Publishing Co.
-* Mancosu, Paolo, 1998, *From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s*, Oxford: Oxford University Press.
-* –––, 2004, “Review of Kurt Gödel, *Collected Works*, Volumes IV and V”, *Notre Dame Journal of Formal Logic*, 45: 109–125.
-* Martin, D.A., 2005, “Gödel’s Conceptual Realism”, *Bulletin of Symbolic Logic*, 11: 207–224.
-* McKinsey, J. C. C. and A. Tarski, 1948, “Some Theorems About the Sentential Calculi of Lewis and Heyting”, *Journal of Symbolic Logic*, 13: 1–15.
-* Mostowski, Andrzej, 1949, “An Undecidable Arithmetical Statement”, *Fundamenta Mathematicae*, 36: 143–164.
-* –––, 1982, *Sentences Undecidable in Formalized Arithmetic: An Exposition of the Theory of Kurt Gödel*, Westport, CT: Greenwood Press. Reprint of the 1952 original.
-* Oliva, Paulo, 2006, “Unifying Functional Interpretations”, *Notre Dame Journal of Formal Logic*, 47(2): 263–290.
-* Parikh, Rohit, 1971, “Existence and Feasibility in Arithmetic”, *Journal of Symbolic Logic*, 36: 494–508.
-* Parsons, Charles, 1995a, “Platonism and Mathematical Intuition in Kurt Gödel’s Thought”, *Bulletin of Symbolic Logic*, 1(1): 44–74.
-* –––, 1995b, “Quine and Gödel on Analyticity”, in *On Quine: New Essays*, Cambridge: Cambridge University Press, pp. 297–313.
-* –––, 2000, “Reason and Intuition”, *Synthese*, 125(3): 299–315.
-* –––, 2002, “Realism and the Debate on Impredicativity, 1917–1944”, in *Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman*, (Lecture Notes in Logic, Volume 15), W. Sieg, R. Sommer, and C. Talcott (eds.), Urbana, IL: Association of Symbolic Logic, pp. 372–389.
-* –––, 2010, “Gödel and Philosophical Idealism”*Philosophia Mathematica*, 18 (2): 166–192.
-* –––, 2014, “Analyticity for Realists”, in *Interpreting Gödel*, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
-* Poonen, Bjorn, 2014, “Undecidable Problems: A Sampler”, in *Interpreting Gödel: Critical Essays*, Cambridge: Cambridge University Press.
-* Post, Emil L., 1921, “Introduction to a General Theory of Elementary Propositions”, *American Journal of Mathematics*, 43(3): 163–185.
-* Pudlák, Pavel, 1996, “On the lengths of proofs of consistency: a survey of results”, *Annals of the Kurt Gödel Society*, 2: 65-86.
-* Raatikainen, P., 2005, “On the Philosophical Relevance of Gödel’s Incompleteness Theorems”, *Revue Internationale de Philosophie*, 59 (4): 513–534.
-* Rogers, Jr., Hartley, 1967, *Theory of Recursive Functions and Effective Computability*, New York: McGraw-Hill Book Co.
-* Rosser, J.B., 1936, “Extensions of Some Theorems of Gödel and Church”, *Journal of Symbolic Logic*, 1(3): 87–91.
-* Scott, Dana, 1961, “Measurable Cardinals and Constructible Sets”, *Bulleint de l’Academie Polonaise des Sciences* (Série des Science, Mathématiques, Astronomiques et Physiques), 9: 521–524.
-* Shelah, Saharon, 2014, “Reflecting on Logical Dreams”, in *Interpreting Gödel: Critical Essays*, Cambridge: Cambridge University Press.
-* Sieg, Wilfried, 1988, “Hilbert’s Program Sixty Years Later”, *Journal of Symbolic Logic*, 53(2): 338–348.
-* –––, 1990, “Relative Consistency and Accessible Domains”, *Synthese*, 84(2): 259–297.
-* –––, 1999, “Hilbert’s Programs: 1917–1922”, *Bulletin of Symbolic Logic*, 5(1): 1–44.
-* –––, 2006, “Gödel on Computability”, *Philosophia Mathematica*, 14: 189–207.
-* Sierpinski, Wacław, 1947, “L’hypothèse généralisée du continu et l’axiome du choix”, *Fundamenta Mathematicae*, 34: 1–5.
-* Sigmund, Karl, 2006, “Pictures at an Exhibition”, *Notices of the American Mathematical Society*, 53(4): 428–432.
-* Skolem, Thoralf, 1920, “Logisch-kombinatorische Untersuchungen über die Erfüllbarkeit oder Beweisbarkeit mathematischer Sätze nebst einem Theoreme über dichte Mengen”, *Skrifter utgit av Videnskappsselskapet i Kristiania*, I. *Matematisk-naturvidenskabelig klasse*, Number 4, pp. 1–36. Reprinted in Skolem 1970, pp. 103–136.
-* –––, 1923, “Einige Bemerkungen zur axiomatischen Begründung der Mengenlehre”, *Matematikerkongressen i Helsingfors den 4–7 Juli 1922, Den femte skandinaviska matematikerkongressen, Redogörelse*, Helsinki, pp. 217–232. Reprinted in Skolem 1970, pp. 137–152.
-* –––, 1933, “Über die Unmöglichkeit einer vollständigen Charakterisierung der Zahlenreihe mittels eines endlichen Axiomensystems”, *Norsk Matematisk forenings skrifter*, 10: 73–82.
-* –––, 1970, *Selected Works in Logic*, Jens Erik Fenstad (ed.), Oslo: Universitetsforlaget.
-* Smith, David Woodruff, 2005, “Phenomenology”, in *The Stanford Encyclopedia of Philosophy* (Winter Edition), Edward N. Zalta (ed.), URL = <[Phenomenology (Stanford Encyclopedia of Philosophy/Winter 2005 Edition)](https://plato.stanford.edu/archives/win2005/entries/phenomenology/)>.
+* Koellner, Peter, 2014, “Large Cardinals and Determinacy”, _The Stanford Encyclopedia of Philosophy_ (Spring Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2014/entries/large-cardinals-determinacy/](https://plato.stanford.edu/archives/spr2014/entries/large-cardinals-determinacy/).
+* Kreisel, Georg, 1980, “Kurt Gödel, 28 April 1906 – 14 January 1978”, _Biographical Memoirs of Fellows of the Royal Society_, 26: 148–224. Corrigenda, 27 (1981): 697; further corrigenda, 28 (1982): 697.
+* –––, 1988, “Review of Kurt Gödel: _Collected works_, Volume I”, _Notre Dame Journal of Formal Logic_, 29(1): 160–181.
+* –––, 1990, “Review of Kurt Gödel: _Collected Works_, Volume II”, _Notre Dame Journal of Formal Logic_, 31(4): 602–641.
+* –––, 1998, “Second Thoughts Around Some of Gödel’s Writings: A Non-academic Option”, _Synthese_, 114(1): 99–160.
+* Kripke, Saul, 2009, “The collapse of the Hilbert program: why a system cannot prove its own 1-consistency”, _Bulletin of Symbolic Logic_, 15 (2): 229–231.
+* Kunen, Kenneth, 1983, _Set Theory: An Introduction to Independence Proofs_, (Studies in Logic and the Foundations of Mathematics, Volume 102), Amsterdam: North-Holland Publishing Co. Reprint of the 1980 original.
+* Löb, M. H., 1956, “Formal Systems of Constructive Mathematics”, _Journal of Symbolic Logic_, 21: 63–75.
+* Löwenheim, L., 1915, “Über Möglichkeiten im Relativkalkül”, _Mathematische Annalen_, 76(4): 447–470.
+* Łukasiewicz, Jan, 1970, _Selected works_, (Studies in Logic and the Foundations of Mathematics), L. Borkowski (ed.), Amsterdam: North-Holland Publishing Co.
+* Maddy, Penelope, 1990, _Realism in Mathematics_, New York: Clarendon Press.
+* Maddy, Penelope, 2011, _Defending the Axioms_, Oxford: Oxford University Press.
+* Mal’cev, Anatoli Ivanovic, 1971, _The Metamathematics of Algebraic Systems. Collected Papers: 1936–1967_ (Studies in Logic and the Foundations of Mathematics, Volume 66), translated, edited, and provided with supplementary notes by Benjamin Franklin Wells, III, Amsterdam: North-Holland Publishing Co.
+* Mancosu, Paolo, 1998, _From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s_, Oxford: Oxford University Press.
+* –––, 2004, “Review of Kurt Gödel, _Collected Works_, Volumes IV and V”, _Notre Dame Journal of Formal Logic_, 45: 109–125.
+* Martin, D.A., 2005, “Gödel’s Conceptual Realism”, _Bulletin of Symbolic Logic_, 11: 207–224.
+* McKinsey, J. C. C. and A. Tarski, 1948, “Some Theorems About the Sentential Calculi of Lewis and Heyting”, _Journal of Symbolic Logic_, 13: 1–15.
+* Mostowski, Andrzej, 1949, “An Undecidable Arithmetical Statement”, _Fundamenta Mathematicae_, 36: 143–164.
+* –––, 1982, _Sentences Undecidable in Formalized Arithmetic: An Exposition of the Theory of Kurt Gödel_, Westport, CT: Greenwood Press. Reprint of the 1952 original.
+* Oliva, Paulo, 2006, “Unifying Functional Interpretations”, _Notre Dame Journal of Formal Logic_, 47(2): 263–290.
+* Parikh, Rohit, 1971, “Existence and Feasibility in Arithmetic”, _Journal of Symbolic Logic_, 36: 494–508.
+* Parsons, Charles, 1995a, “Platonism and Mathematical Intuition in Kurt Gödel’s Thought”, _Bulletin of Symbolic Logic_, 1(1): 44–74.
+* –––, 1995b, “Quine and Gödel on Analyticity”, in _On Quine: New Essays_, Cambridge: Cambridge University Press, pp. 297–313.
+* –––, 2000, “Reason and Intuition”, _Synthese_, 125(3): 299–315.
+* –––, 2002, “Realism and the Debate on Impredicativity, 1917–1944”, in _Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman_, (Lecture Notes in Logic, Volume 15), W. Sieg, R. Sommer, and C. Talcott (eds.), Urbana, IL: Association of Symbolic Logic, pp. 372–389.
+* –––, 2010, “Gödel and Philosophical Idealism”_Philosophia Mathematica_, 18 (2): 166–192.
+* –––, 2014, “Analyticity for Realists”, in _Interpreting Gödel_, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
+* Poonen, Bjorn, 2014, “Undecidable Problems: A Sampler”, in _Interpreting Gödel: Critical Essays_, Cambridge: Cambridge University Press.
+* Post, Emil L., 1921, “Introduction to a General Theory of Elementary Propositions”, _American Journal of Mathematics_, 43(3): 163–185.
+* Pudlák, Pavel, 1996, “On the lengths of proofs of consistency: a survey of results”, _Annals of the Kurt Gödel Society_, 2: 65-86.
+* Raatikainen, P., 2005, “On the Philosophical Relevance of Gödel’s Incompleteness Theorems”, _Revue Internationale de Philosophie_, 59 (4): 513–534.
+* Rogers, Jr., Hartley, 1967, _Theory of Recursive Functions and Effective Computability_, New York: McGraw-Hill Book Co.
+* Rosser, J.B., 1936, “Extensions of Some Theorems of Gödel and Church”, _Journal of Symbolic Logic_, 1(3): 87–91.
+* Scott, Dana, 1961, “Measurable Cardinals and Constructible Sets”, _Bulleint de l’Academie Polonaise des Sciences_ (Série des Science, Mathématiques, Astronomiques et Physiques), 9: 521–524.
+* Shelah, Saharon, 2014, “Reflecting on Logical Dreams”, in _Interpreting Gödel: Critical Essays_, Cambridge: Cambridge University Press.
+* Sieg, Wilfried, 1988, “Hilbert’s Program Sixty Years Later”, _Journal of Symbolic Logic_, 53(2): 338–348.
+* –––, 1990, “Relative Consistency and Accessible Domains”, _Synthese_, 84(2): 259–297.
+* –––, 1999, “Hilbert’s Programs: 1917–1922”, _Bulletin of Symbolic Logic_, 5(1): 1–44.
+* –––, 2006, “Gödel on Computability”, _Philosophia Mathematica_, 14: 189–207.
+* Sierpinski, Wacław, 1947, “L’hypothèse généralisée du continu et l’axiome du choix”, _Fundamenta Mathematicae_, 34: 1–5.
+* Sigmund, Karl, 2006, “Pictures at an Exhibition”, _Notices of the American Mathematical Society_, 53(4): 428–432.
+* Skolem, Thoralf, 1920, “Logisch-kombinatorische Untersuchungen über die Erfüllbarkeit oder Beweisbarkeit mathematischer Sätze nebst einem Theoreme über dichte Mengen”, _Skrifter utgit av Videnskappsselskapet i Kristiania_, I. _Matematisk-naturvidenskabelig klasse_, Number 4, pp. 1–36. Reprinted in Skolem 1970, pp. 103–136.
+* –––, 1923, “Einige Bemerkungen zur axiomatischen Begründung der Mengenlehre”, _Matematikerkongressen i Helsingfors den 4–7 Juli 1922, Den femte skandinaviska matematikerkongressen, Redogörelse_, Helsinki, pp. 217–232. Reprinted in Skolem 1970, pp. 137–152.
+* –––, 1933, “Über die Unmöglichkeit einer vollständigen Charakterisierung der Zahlenreihe mittels eines endlichen Axiomensystems”, _Norsk Matematisk forenings skrifter_, 10: 73–82.
+* –––, 1970, _Selected Works in Logic_, Jens Erik Fenstad (ed.), Oslo: Universitetsforlaget.
+* Smith, David Woodruff, 2005, “Phenomenology”, in _The Stanford Encyclopedia of Philosophy_ (Winter Edition), Edward N. Zalta (ed.), URL = <[Phenomenology (Stanford Encyclopedia of Philosophy/Winter 2005 Edition)](https://plato.stanford.edu/archives/win2005/entries/phenomenology/)>.
 * Solovay, Robert, 1990, “Introductory Note to 1938, 1939, 1939a, 1940”, in Gödel 1990, pp. 1–25.
-* Steel, John, 2000, “Mathematics Needs New Axioms”, *Bulletin of Symbolic Logic*, 6(4): 422–433.
-* Steel, John, 2014, “Gödel’s Program”, in *Interpreting Gödel*, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
-* Tait, William, 1967, “Intensional Interpretations of Functionals of Finite Type I,” *Journal of Symbolic Logic*, 32(2): 198–212.
-* –––, 1981, “Finitism”, *Journal of Philosophy*, 78: 524–556. Reprinted in Tait 2005, pp. 21–42.
-* –––, 1986, “Truth and Proof: The Platonism of Mathematics”, *Synthese*, 69(3): 341–370. Reprinted in Tait 2005, pp. 61–88.
-* –––, 2001, “Gödel’s Unpublished Papers on Foundations of Mathematics”, *Philosophia Mathematica*, 9(1): 87–126. Reprinted in Tait 2005, pp. 276–313.
-* –––, 2002, “Remarks on Finitism”, in *Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman* (Lecture Notes in Logic, Volume 15), W. Sieg, R. Sommer, and C. Talcott (eds.), Urbana, IL: Association of Symbolic Logic, pp. 410–419. Reprinted in Tait 2005, pp. 43–53.
-* –––, 2005, *The Provenance of Pure Reason: Essays in the Philosophy of Mathematics and its History* (Logic and Computation in Philosophy), New York: Oxford University Press.
-* –––, 2006, “Gödel’s correspondence on proof theory and constructive mathematics”*Philosophia Mathematica*, 14 (1): 76–111.
-* –––, 2006, “Gödel’s interpretation of intuitionism”,*Philosophia Mathematica*, 14 (2): 208–228.
+* Steel, John, 2000, “Mathematics Needs New Axioms”, _Bulletin of Symbolic Logic_, 6(4): 422–433.
+* Steel, John, 2014, “Gödel’s Program”, in _Interpreting Gödel_, Kennedy, J. (ed.) Cambridge: Cambridge University Press, 2014.
+* Tait, William, 1967, “Intensional Interpretations of Functionals of Finite Type I,” _Journal of Symbolic Logic_, 32(2): 198–212.
+* –––, 1981, “Finitism”, _Journal of Philosophy_, 78: 524–556. Reprinted in Tait 2005, pp. 21–42.
+* –––, 1986, “Truth and Proof: The Platonism of Mathematics”, _Synthese_, 69(3): 341–370. Reprinted in Tait 2005, pp. 61–88.
+* –––, 2001, “Gödel’s Unpublished Papers on Foundations of Mathematics”, _Philosophia Mathematica_, 9(1): 87–126. Reprinted in Tait 2005, pp. 276–313.
+* –––, 2002, “Remarks on Finitism”, in _Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman_ (Lecture Notes in Logic, Volume 15), W. Sieg, R. Sommer, and C. Talcott (eds.), Urbana, IL: Association of Symbolic Logic, pp. 410–419. Reprinted in Tait 2005, pp. 43–53.
+* –––, 2005, _The Provenance of Pure Reason: Essays in the Philosophy of Mathematics and its History_ (Logic and Computation in Philosophy), New York: Oxford University Press.
+* –––, 2006, “Gödel’s correspondence on proof theory and constructive mathematics”_Philosophia Mathematica_, 14 (1): 76–111.
+* –––, 2006, “Gödel’s interpretation of intuitionism”,_Philosophia Mathematica_, 14 (2): 208–228.
 * Taussky-Todd, Olga, 1983, “Remembrances of Kurt Gödel”, in Weingartner and Schmetterer 1987, pp. 29–41.
-* Tieszen, Richard, 1992, “Kurt Gödel and Phenomenology”, *Philosophy of Science*, 59(2): 176–194.
-* –––, 2002, “Gödel and the Intuition of Concepts”, *Synthese*, 133 (3): 363–391.
-* –––, 2005, *Phenomenology, Logic and the Philosophy of Mathematics*, Cambridge: Cambridge University Press.
-* –––, 2011, *After Gödel: Platonism and Rationalism in Mathematics and Logic*, Oxford: Oxford University Press.
-* Toledo, Sue, 2011, “Sue Toledo’s Notes of her Conversations with Kurt Gödel in 1972-5”, in *Set Theory, Arithmetic and Foundations of Mathematics: Theorems, Philosophies* (Lecture Notes in Logic, 36), Kennedy, J. and Kossak, R., (eds.), Cambridge: Cambridge University Press, forthcoming.
-* Tragesser, Robert, 1977, *Phenomenology and Logic*, Ithaca: Cornell University Press.
-* –––, 1984, *Husserl and Realism in Logic and Mathematics*, (Series: Modern European Philosophy), Cambridge: Cambridge University Press.
-* –––, 1989, “Sense Perceptual Intuition, Mathematical Existence, and Logical Imagination”, *Philosphia Mathematica*, 4(2): 154–194.
-* Troelstra, A. S., 1986, “Note to *1958* and *1972*”, in Gödel 1990, pp. 217–241.
-* Troelstra, A. S. (ed.), 1973, *Metamathematical Investigation of Intuitionistic Arithmetic and Analysis*, (Lecture Notes in Mathematics, Volume 344), Berlin: Springer-Verlag.
-* Turing, A. M., 1937, “On Computable Numbers, with an Application to the Entscheidungsproblem”, *Proceedings of the London Mathematical Society* (Series 2), 42: 230–265.
-* van Atten, Mark, 2005, “On Gödel’s Awareness of Skolem’s Helsinki Lecture”, *History and Philosophy of Logic*, 26(4): 321–326.
-* –––, 2006, “Two Draft Letters from Gödel on Self-knowledge of Reason”, *Philosophia Mathematica*, 14(2): 255–261.
+* Tieszen, Richard, 1992, “Kurt Gödel and Phenomenology”, _Philosophy of Science_, 59(2): 176–194.
+* –––, 2002, “Gödel and the Intuition of Concepts”, _Synthese_, 133 (3): 363–391.
+* –––, 2005, _Phenomenology, Logic and the Philosophy of Mathematics_, Cambridge: Cambridge University Press.
+* –––, 2011, _After Gödel: Platonism and Rationalism in Mathematics and Logic_, Oxford: Oxford University Press.
+* Toledo, Sue, 2011, “Sue Toledo’s Notes of her Conversations with Kurt Gödel in 1972-5”, in _Set Theory, Arithmetic and Foundations of Mathematics: Theorems, Philosophies_ (Lecture Notes in Logic, 36), Kennedy, J. and Kossak, R., (eds.), Cambridge: Cambridge University Press, forthcoming.
+* Tragesser, Robert, 1977, _Phenomenology and Logic_, Ithaca: Cornell University Press.
+* –––, 1984, _Husserl and Realism in Logic and Mathematics_, (Series: Modern European Philosophy), Cambridge: Cambridge University Press.
+* –––, 1989, “Sense Perceptual Intuition, Mathematical Existence, and Logical Imagination”, _Philosphia Mathematica_, 4(2): 154–194.
+* Troelstra, A. S., 1986, “Note to _1958_ and _1972_”, in Gödel 1990, pp. 217–241.
+* Troelstra, A. S. (ed.), 1973, _Metamathematical Investigation of Intuitionistic Arithmetic and Analysis_, (Lecture Notes in Mathematics, Volume 344), Berlin: Springer-Verlag.
+* Turing, A. M., 1937, “On Computable Numbers, with an Application to the Entscheidungsproblem”, _Proceedings of the London Mathematical Society_ (Series 2), 42: 230–265.
+* van Atten, Mark, 2005, “On Gödel’s Awareness of Skolem’s Helsinki Lecture”, _History and Philosophy of Logic_, 26(4): 321–326.
+* –––, 2006, “Two Draft Letters from Gödel on Self-knowledge of Reason”, _Philosophia Mathematica_, 14(2): 255–261.
 * –––, 2015, “Essays on Gödel’s Reception of Leibniz, Husserl and Brouwer”, Springer.
-* van Heijenoort, J. (ed.), 1967, *From Frege to Gödel: A sourcebook in mathematical logic, 1879–1931*, Cambridge, MA: Harvard University Press.
-* van Oosten, Jaap, 2008, *Realizability: An Introduction to its Categorical Side* (Studies in Logic and Foundations of Mathematics: Volume 152), Amsterdam: Elsevier.
-* von Neumann, John, 2005, *John von Neumann: Selected Letters* (History of Mathematics, Volume 27), foreword by P. Lax, introduction by Marina von Neumann Whitman, preface and introductory comments by Miklós Rédei (ed.), Providence, RI: American Mathematical Society.
-* Väänänen, Jouko, 2014, “Multiverse Set Theory and Absolutely Undecidable Propositions”, in *Interpreting Gödel*, J. Kennedy (ed.), Cambridge: Cambridge University Press, 2014.
-* Wang, Hao, 1957, “The Axiomatization of Arithmetic”, *Journal of Symbolic Logic*, 22: 145–158.
-* –––, 1973, *From Mathematics to Philosophy*, London: Routledge.
-* –––, 1981, “Some Facts about Kurt Gödel”, *Journal of Symbolic Logic*, 46(3): 653–659.
-* –––, 1987, *Reflections on Kurt Gödel*, Cambridge, MA: MIT Press.
-* –––, 1993, *Popular Lectures on Mathematical Logic*, New York: Dover Publications Inc., 2nd edition.
-* –––, 1996, *A Logical Lourney: From Gödel to Philosophy* (Representation and Mind), Cambridge, MA: MIT Press.
-* Weingartner, P., and L. Schmetterer (eds.), 1987, *Gödel Remembered: Salzburg 10–12 July 1983*, (History of Logic, Number 4), Naples: Bibliopolis.
+* van Heijenoort, J. (ed.), 1967, _From Frege to Gödel: A sourcebook in mathematical logic, 1879–1931_, Cambridge, MA: Harvard University Press.
+* van Oosten, Jaap, 2008, _Realizability: An Introduction to its Categorical Side_ (Studies in Logic and Foundations of Mathematics: Volume 152), Amsterdam: Elsevier.
+* von Neumann, John, 2005, _John von Neumann: Selected Letters_ (History of Mathematics, Volume 27), foreword by P. Lax, introduction by Marina von Neumann Whitman, preface and introductory comments by Miklós Rédei (ed.), Providence, RI: American Mathematical Society.
+* Väänänen, Jouko, 2014, “Multiverse Set Theory and Absolutely Undecidable Propositions”, in _Interpreting Gödel_, J. Kennedy (ed.), Cambridge: Cambridge University Press, 2014.
+* Wang, Hao, 1957, “The Axiomatization of Arithmetic”, _Journal of Symbolic Logic_, 22: 145–158.
+* –––, 1973, _From Mathematics to Philosophy_, London: Routledge.
+* –––, 1981, “Some Facts about Kurt Gödel”, _Journal of Symbolic Logic_, 46(3): 653–659.
+* –––, 1987, _Reflections on Kurt Gödel_, Cambridge, MA: MIT Press.
+* –––, 1993, _Popular Lectures on Mathematical Logic_, New York: Dover Publications Inc., 2nd edition.
+* –––, 1996, _A Logical Lourney: From Gödel to Philosophy_ (Representation and Mind), Cambridge, MA: MIT Press.
+* Weingartner, P., and L. Schmetterer (eds.), 1987, _Gödel Remembered: Salzburg 10–12 July 1983_, (History of Logic, Number 4), Naples: Bibliopolis.
 * Wilkie, Alex, and J.B. Paris, 1987, “On the scheme of induction for bounded arithmetic formulas”, 35: 261–302.
-* Woodin, W. Hugh, 1988, “Supercompact Cardinals, Sets of Reals, and Weakly Homogeneous Trees”, *Proceedings of the National Academy of Sciences of the U.S.A.*, 85(18): 6587–6591.
-* –––, 2001a, “The Continuum Hypothesis. I”, *Notices of the American Mathematical Society*, 48(6): 567–576.
-* –––, 2001b, “The Continuum Hypothesis. II”, *Notices of the American Mathematical Society*, 48(7): 681–690.
-* –––, 2002, “Correction: ‘The Continuum Hypothesis. II’”, *Notices of the American Mathematical Society*, 49(1): 46.
-* Yourgrau, Palle, 2005, *A World Without Time. The Forgotten Legacy of Gödel and Einstein*, New York: Basic Books.
-* Zach, Richard, 1999, “Completeness Before Post: Bernays, Hilbert, and the Development of Propositional Logic”, *Bulletin of Symbolic Logic*, 5(3): 331–366.
-* –––, 2003, “Hilbert’s Program”, in *The Stanford Encyclopedia of Philosophy* (Fall Edition), Edward N. Zalta (ed.), URL = <[Hilbert's Program (Stanford Encyclopedia of Philosophy/Fall 2003 Edition)](https://plato.stanford.edu/archives/fall2003/entries/hilbert-program/)>.
+* Woodin, W. Hugh, 1988, “Supercompact Cardinals, Sets of Reals, and Weakly Homogeneous Trees”, _Proceedings of the National Academy of Sciences of the U.S.A._, 85(18): 6587–6591.
+* –––, 2001a, “The Continuum Hypothesis. I”, _Notices of the American Mathematical Society_, 48(6): 567–576.
+* –––, 2001b, “The Continuum Hypothesis. II”, _Notices of the American Mathematical Society_, 48(7): 681–690.
+* –––, 2002, “Correction: ‘The Continuum Hypothesis. II’”, _Notices of the American Mathematical Society_, 49(1): 46.
+* Yourgrau, Palle, 2005, _A World Without Time. The Forgotten Legacy of Gödel and Einstein_, New York: Basic Books.
+* Zach, Richard, 1999, “Completeness Before Post: Bernays, Hilbert, and the Development of Propositional Logic”, _Bulletin of Symbolic Logic_, 5(3): 331–366.
+* –––, 2003, “Hilbert’s Program”, in _The Stanford Encyclopedia of Philosophy_ (Fall Edition), Edward N. Zalta (ed.), URL = <[Hilbert's Program (Stanford Encyclopedia of Philosophy/Fall 2003 Edition)](https://plato.stanford.edu/archives/fall2003/entries/hilbert-program/)>.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=goedel). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/goedel/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=goedel&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/goedel/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=goedel).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/goedel/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=goedel\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/goedel/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -839,11 +817,11 @@ The Gödel Nachlass is located at Firestone Library of Princeton University with
 
 ## Related Entries
 
-[Gödel, Kurt: incompleteness theorems](https://plato.stanford.edu/entries/goedel-incompleteness/) | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [mathematics, philosophy of: intuitionism](https://plato.stanford.edu/entries/intuitionism/) | [mathematics, philosophy of: Platonism](https://plato.stanford.edu/entries/platonism-mathematics/) | [model theory](https://plato.stanford.edu/entries/model-theory/) | [model theory: first-order](https://plato.stanford.edu/entries/modeltheory-fo/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [realism](https://plato.stanford.edu/entries/realism/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: continuum hypothesis](https://plato.stanford.edu/entries/continuum-hypothesis/) | [set theory: large cardinals and determinacy](https://plato.stanford.edu/entries/large-cardinals-determinacy/)
+[Gödel, Kurt: incompleteness theorems](https://plato.stanford.edu/entries/goedel-incompleteness/) | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [mathematics, philosophy of: intuitionism](https://plato.stanford.edu/entries/intuitionism/) | [mathematics, philosophy of: Platonism](https://plato.stanford.edu/entries/platonism-mathematics/) | [model theory](https://plato.stanford.edu/entries/model-theory/) | [model theory: first-order](https://plato.stanford.edu/entries/modeltheory-fo/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [realism](https://plato.stanford.edu/entries/realism/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: continuum hypothesis](https://plato.stanford.edu/entries/continuum-hypothesis/) | [set theory: large cardinals and determinacy](https://plato.stanford.edu/entries/large-cardinals-determinacy/)
 
 ### Acknowledgments
 
 This entry was very much improved by discussion and correspondence with the following: Aki Kanamori, who made helpful corrections and comments to section 2.4; Jouko Väänänen, whose expertise in all areas of mathematical logic the author benefited from in a great many invaluable discussions regarding the material in section 2; my sub-editor Richard Zach, whose many important and helpful suggestions led to a vast improvement of this entry, and an anonymous referee for helpful comments and corrections. The author is grateful to the NWO for their support during the last period of the writing of this entry, to the Institute for Advanced Study for their hospitality during the writing of this entry, and to Marcia Tucker of the IAS and the Rare Books and Special Collections department of Firestone Library for all of their assistance over the years .
 
-[Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
-[Juliette Kennedy](http://www.math.helsinki.fi/logic/people/juliette.kennedy/) <[*juliette.kennedy@helsinki.fi*](mailto:juliette%2ekennedy%40helsinki%2efi)>
+[Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
+[Juliette Kennedy](http://www.math.helsinki.fi/logic/people/juliette.kennedy/) <[_juliette.kennedy@helsinki.fi_](mailto:juliette%2ekennedy%40helsinki%2efi)>
