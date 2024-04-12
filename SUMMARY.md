@@ -1113,7 +1113,7 @@
 * [基督教思想中的地狱与天堂——见基督教思想中的天堂与地狱 hell and heaven in Christian thought — see heaven and hell in Christian thought](h/ji-du-jiao-si-xiang-zhong-de-di-yu-yu-tian-tang-jian-ji-du-jiao-si-xiang-zhong-de-tian-tang-yu-di-yu.md)
 * [赫尔曼·冯·亥姆霍兹 Helmholtz, Hermann von (Lydia Patton)](h/he-er-man-feng-hai-mu-huo-zi-helmholtz-hermann-von-lydia-patton.md)
 * [卡尔·G·亨普尔 Hempel, Carl (James Fetzer)](h/ka-ergheng-pu-er-hempel-carl-james-fetzer.md)
-* [米歇尔•亨利 Henry, Michel (Frédéric Seyler)](h/mi-xie-er-heng-li-henry-michel-frdric-seyler.md)
+* [米歇尔·亨利 Henry, Michel (Frédéric Seyler)](h/mi-xie-er-heng-li-henry-michel-frdric-seyler.md)
 * [根特的亨利 Henry of Ghent (Pasquale Porro)](h/gen-te-de-heng-li-henry-of-ghent-pasquale-porro.md)
 * [赫拉克利特 Heraclitus (Daniel W. Graham)](h/he-la-ke-li-te-heraclitus-daniel-w.-graham.md)
 * [约翰·弗里德里希·赫尔巴特 Herbart, Johann Friedrich (Alan Kim)](h/yue-han-fu-li-de-li-xi-he-er-ba-te-herbart-johann-friedrich-alan-kim.md)
