@@ -336,7 +336,7 @@
   * [\*天台——见中国哲学：佛教天台宗 Tiantai — see Chinese Philosophy: Tiantai Buddhism](b/fo-jiao-buddhism/tian-tai-jian-zhong-guo-zhe-xue-fo-jiao-tian-tai-zong-tiantai-see-chinese-philosophy-tiantai-buddhis.md)
   * [\*禅宗——见日本哲学：佛教禅宗 Zen — see Japanese Philosophy: Zen Buddhism](b/fo-jiao-buddhism/chan-zong-jian-ri-ben-zhe-xue-fo-jiao-chan-zong-zen-see-japanese-philosophy-zen-buddhism.md)
 * [\*佛教：华严——见中国哲学：华严宗 Buddhism: Huayan — see Chinese Philosophy: Huayan Buddhism](b/fo-jiao-hua-yan-jian-zhong-guo-zhe-xue-hua-yan-zong-buddhism-huayan-see-chinese-philosophy-huayan-bu.md)
-* [\*丛束理论——见物质 bundle theory — see substance](b/cong-shu-li-lun-jian-wu-zhi-bundle-theory-see-substance.md)
+* [\*丛束理论——见物质 bundle theory — see substance](b/cong-shu-li-lun-jian-shi-ti-bundle-theory-see-substance.md)
 * [让·布里丹 Buridan, John \[Jean\] (Jack Zupko)](b/rang-bu-li-dan-buridan-john-jean-jack-zupko.md)
 * [埃德蒙·伯克 Burke, Edmund (Ian Harris)](b/ai-de-meng-bo-ke-burke-edmund-ian-harris.md)
 * [沃尔特·伯利 Burley \[Burleigh\], Walter (Alessandro Conti)](b/wo-er-te-bo-li-burley-burleigh-walter-alessandro-conti.md)
@@ -888,7 +888,7 @@
 * [\*外在主义 externalism](e/wai-zai-zhu-yi-externalism/)
   * [外在主义与自我知识 and self-knowledge (T. Parent)](e/wai-zai-zhu-yi-externalism/wai-zai-zhu-yi-yu-zi-wo-zhi-shi-and-selfknowledge-t.-parent.md)
 * [心灵外在主义 externalism about the mind (Mark Rowlands, Joe Lau, and Max Deutsch)](e/xin-ling-wai-zai-zhu-yi-externalism-about-the-mind-mark-rowlands-joe-lau-and-max-deutsch.md)
-* [\*外在性——见内在性属性与外在性属性 extrinsic — see intrinsic vs. extrinsic properties](e/wai-zai-xing-jian-nei-zai-xing-shu-xing-yu-wai-zai-xing-shu-xing-extrinsic-see-intrinsic-vs.-extrins.md)
+* [\*外在性——见内在性属性与外在性属性 extrinsic — see intrinsic vs. extrinsic properties](e/wai-zai-xing-jian-nei-zai-shu-xing-yu-wai-zai-shu-xing-extrinsic-see-intrinsic-vs.-extrinsic-propert.md)
 * [\*亚伯拉罕·伊本·埃兹拉——见亚伯拉罕·伊本·埃兹拉 Ezra, Abraham Ibn — see Ibn Ezra, Abraham](e/ya-bo-la-han-yi-ben-ai-zi-la-jian-ya-bo-la-han-yi-ben-ai-zi-la-ezra-abraham-ibn-see-ibn-ezra-abraham.md)
 
 ## F

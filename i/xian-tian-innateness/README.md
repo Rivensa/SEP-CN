@@ -1,0 +1,2 @@
+# \*先天 innateness
+
