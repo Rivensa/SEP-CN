@@ -631,7 +631,7 @@
 * [\*演绎 demonstration](d/yan-yi-demonstration/)
   * [\*亚里士多德的理论——见亚里士多德的特色主题：亚里士多德的逻辑学 Aristotle’s theory of — see Aristotle, General Topics: logic](d/yan-yi-demonstration/ya-li-shi-duo-de-de-li-lun-jian-ya-li-shi-duo-de-de-te-se-zhu-ti-ya-li-shi-duo-de-de-luo-ji-xue-aris.md)
   * [中世纪的演绎理论 medieval theories of (John Longeway)](d/yan-yi-demonstration/zhong-shi-ji-de-yan-yi-li-lun-medieval-theories-of-john-longeway.md)
-* [\*指示词——见指称词 demonstratives — see indexicals](d/zhi-shi-ci-jian-zhi-cheng-ci-demonstratives-see-indexicals.md)
+* [\*指示词——见指称词 demonstratives — see indexicals](d/zhi-shi-ci-jian-zhi-dai-ci-demonstratives-see-indexicals.md)
 * [\*直指——见指涉 denotation — see reference](d/zhi-zhi-jian-zhi-she-denotation-see-reference.md)
 * [\*义务伦理学——见伦理学：义务伦理学 deontological ethics — see ethics: deontological](d/yi-wu-lun-li-xue-jian-lun-li-xue-yi-wu-lun-li-xue-deontological-ethics-see-ethics-deontological.md)
 * [本体论依赖 dependence, ontological (Tuomas E. Tahko and E. Jonathan Lowe)](d/ben-ti-lun-yi-lai-dependence-ontological-tuomas-e.-tahko-and-e.-jonathan-lowe.md)
