@@ -1239,3 +1239,13 @@
 * [\*无限小——见连续性与无穷小 infinitesimals — see continuity and infinitesimals](i/wu-xian-xiao-jian-lian-xu-xing-yu-wu-qiong-xiao-infinitesimals-see-continuity-and-infinitesimals.md)
 * [无限 infinity (Kenny Easwaran, Alan Hájek, Paolo Mancosu, and Graham Oppy)](i/wu-xian-infinity-kenny-easwaran-alan-hjek-paolo-mancosu-and-graham-oppy.md)
 * [\*非形式逻辑——见逻辑学：非形式逻辑 informal logic — see logic: informal](i/fei-xing-shi-luo-ji-jian-luo-ji-xue-fei-xing-shi-luo-ji-informal-logic-see-logic-informal.md)
+* [信息 information (Pieter Adriaans)](i/xin-xi-information-pieter-adriaans/README.md)
+  * [生物信息 biological (Peter Godfrey-Smith and Kim Sterelny)](i/xin-xi-information-pieter-adriaans/sheng-wu-xin-xi-biological-peter-godfreysmith-and-kim-sterelny.md)
+  * [\*逻辑——见逻辑学：逻辑和信息 and logic — see logic: and information](i/xin-xi-information-pieter-adriaans/luo-ji-jian-luo-ji-xue-luo-ji-he-xin-xi-and-logic-see-logic-and-information.md)
+  * [\*量子纠缠——见量子理论：量子纠缠与信息 quantum entanglement and — see quantum theory: quantum entanglement and information](i/xin-xi-information-pieter-adriaans/liang-zi-jiu-chan-jian-liang-zi-li-lun-liang-zi-jiu-chan-yu-xin-xi-quantum-entanglement-and-see-quan.md)
+  * [语义学概念的信息 semantic conceptions of (Sebastian Sequoiah-Grayson and Luciano Floridi)](i/xin-xi-information-pieter-adriaans/yu-yi-xue-gai-nian-de-xin-xi-semantic-conceptions-of-sebastian-sequoiahgrayson-and-luciano-floridi.md)
+
+***
+
+* [\*信息加工 information processing](xin-xi-jia-gong-information-processing/README.md)
+  * [信息加工与热力学熵 and thermodynamic entropy (Owen Maroney)](xin-xi-jia-gong-information-processing/xin-xi-jia-gong-yu-re-li-xue-shang-and-thermodynamic-entropy-owen-maroney.md)
