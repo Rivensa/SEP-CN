@@ -30,7 +30,7 @@
 * [\*偶然属性——见本质属性与偶然属性 accidental properties — see essential vs. accidental properties](a/ou-ran-shu-xing-jian-ben-zhi-shu-xing-yu-ou-ran-shu-xing-accidental-properties-see-essential-vs.-acc.md)
 * [行动 action (Juan S. Piñeros Glasscock and Sergio Tenenbaum)](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/)
   * [\*共同——见能动性：共享能动性 joint — see agency: shared](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/gong-tong-jian-neng-dong-xing-gong-xiang-neng-dong-xing-joint-see-agency-shared.md)
-  * [\*逻辑 ——见逻辑：行动的逻辑 logic of — see logic: action](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/of-see-logic-action.md)
+  * [\*逻辑 ——见逻辑：行动的逻辑 logic of — see logic: action](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/luo-ji-jian-luo-ji-xue-hang-dong-de-luo-ji-logic-of-see-logic-action.md)
 * [基于行动的感知理论 action-based theories of perception (Robert Briscoe, Rick Grush, and Alison Springle)](a/ji-yu-hang-dong-de-gan-zhi-li-lun-actionbased-theories-of-perception-robert-briscoe-rick-grush-and-a.md)
 * [\*超距作用——见量子力学：量子力学中的超距作用 action at a distance — see quantum mechanics: action at a distance in](a/chao-ju-zuo-yong-jian-liang-zi-li-xue-liang-zi-li-xue-zhong-de-chao-ju-zuo-yong-action-atadistance-s.md)
 * [\*现实主义——见现实主义与可能性主义辩论 actualism — see possibilism-actualism debate](a/xian-shi-zhu-yi-yu-ke-neng-xing-zhu-yi-bian-lun-actualism-see-possibilismactualism-debate.md)
