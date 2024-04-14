@@ -1,2 +1,477 @@
 # 内涵及物动词 intensional transitive verbs (Graeme Forbes)
+*首次发表于2004年11月3日星期三；实质性修订于2020年5月7日星期四。*
 
+一个动词是及物动词，当且仅当它通常与直接宾语一起出现，并且在这种情况下被称为及物动词。因此，在“我吃了肉，留下了蔬菜”中，“吃了”是及物动词，但在“我吃了然后离开了”中不是（也许这两个例子中的“离开”不是同一个动词，但它们似乎是同一个“吃了”）。一个动词是内涵动词，如果它与其补语形成的动词短语（VP）在以下三种方式中至少有一种是异常的：（i）用与其补语中的指称相同的另一个表达式替换它可以改变VP所在句子的真值 - 例如，你可能欣赏马克·吐温但不欣赏塞缪尔·克莱门斯，没有意识到你讨厌的邻居山姆是那位著名作家（在这种情况下，将与其补语中的“马克·吐温”替换为“塞缪尔·克莱门斯”将把一个真句子“你欣赏马克·吐温”变成一个假句子“你欣赏塞缪尔·克莱门斯”）；（ii）如果VP包含一个量词或某种类型的量词，那么VP可以具有特殊的“不特定”解读（奎恩的例子（1956:185）很有名：他观察到，如果我们将“我想要一艘帆船”改写为“存在一艘（特定的）帆船，我想要它”，如果我只是想要“摆脱没有帆船的困境”，一艘帆船但不是特定的一艘，这样的改写会给出错误的理解；更多例子，请参见第1节）；（iii）即使嵌套句子没有否定，名字和存在量词在补语中的正常存在承诺也会被暂停（同样，请参见第1节）。
+
+内涵现象令人困惑且值得研究，因为（a）似乎唯一能解释语言使用者能够产生和理解他们以前从未遇到过的母语句子的能力的方式是假设语言中存在组合结构，并且使用者具有利用这种结构的解释能力。但是（b）关于这种结构的最简单的想法无法涵盖内涵性。因此，我们想知道允许内涵性的最小复杂性是什么。对内涵动词的研究主要集中在用于进行陈述态度报告的动词上。这些动词的补语是从句而不是直接宾语。然而，正如我们将在下面看到的，内涵及物动词（以下简称 ITVs）不仅仅是重复了陈述态度动词引发的问题，而且引入了自己的特殊困难。
+
+* [1. 一些 ITV 的群体及其行为](https://plato.stanford.edu/entries/intensional-trans-verbs/#SomeGrouITVsTheiBeha)
+* [2. 有多少机制对应多少标记？](https://plato.stanford.edu/entries/intensional-trans-verbs/#HowManyMechForHowManyMark)
+* [ 3. 命题主义](https://plato.stanford.edu/entries/intensional-trans-verbs/#Prop)
+* [ 4. 蒙塔格的语义学](https://plato.stanford.edu/entries/intensional-trans-verbs/#MontSema)
+* [5. 修订和完善](https://plato.stanford.edu/entries/intensional-trans-verbs/#ReviRefi)
+* [ 6. 先验之谜](https://plato.stanford.edu/entries/intensional-trans-verbs/#PrioPuzz)
+* [7. 内涵及物动词的逻辑](https://plato.stanford.edu/entries/intensional-trans-verbs/#LogiInteTran)
+* [ 参考文献](https://plato.stanford.edu/entries/intensional-trans-verbs/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/intensional-trans-verbs/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/intensional-trans-verbs/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/intensional-trans-verbs/#Rel)
+
+---
+
+## 1. 一些内涵及物动词群体及其行为
+
+搜索动词和欲望动词展示了内涵性的“标志”或效果中列出的三种行为。因此，Lois Lane 可能正在寻找 Superman。但似乎并不意味着她正在寻找 Clark，即使 Superman 就是 Clark，所以我们有了序言中提到的第一种异常的例子：用另一个名字替换同一个人导致嵌入句子（这里是“Lois 正在寻找 Superman”）的真值发生变化。类似地，一个口渴的人相信水可以解渴，而 H2O 是一种毒鼠药，他可能想要一些水，但不想要一些 H2O。[根据一些人的说法，这种替换无法保持真值的失败是一种幻觉；但由于篇幅原因，我不追求这个理论——它的经典论文是（Salmon 1986）。]
+
+其次，无论是搜索动词还是欲望动词，在动词的句法对象由冠词后跟名词组成时，都会在其所包含的动词短语中产生特定-不特定的歧义（这种歧义也被称为关系/概念歧义，根据 Quine 1956，这是第一次研究它，至少在现代时期是这样）。例如，“Oedipus 正在寻找他家庭的一个成员”可能是真实的，因为 Oedipus 正在寻找特别是 Jocasta，她是他家庭的成员，尽管他没有意识到。在这种情况下，真实的陈述可以更仔细地陈述为“存在一个他家庭的成员，Oedipus 正在寻找那个人”。通过添加“但没有特定的一个”，强制使用替代的、不具体的或概念性的阅读：“Oedipus 正在寻找他家庭的一个成员，但没有特定的一个”。在这里，暗示 Oedipus 只是有一个一般的意图找到他家庭的某个成员。与外延性的“拥抱”相对比：Oedipus 不能拥抱他家庭的一个成员，但没有特定的一个。
+
+第三，显而易见的是，人们可能同时希望和寻找不存在的事物，例如永恒青春的泉水。但是，除非这种事物存在，否则不可能偶然发现它。
+
+描绘动词，例如“画”，“雕刻”和“想象”，在其句法对象中抵制替换，至少如果是从句的“想象”：如果想象超人救了你与想象克拉克救了你不是同一件事，那么很难理解为什么想象超人会与想象克拉克是同一件事。还可能存在特定/不特定的歧义，诺顿·西蒙博物馆关于格尔奇诺的《奥尔德罗万迪狗》（约 1625 年）的墙标就证明了这一点，它说“这一定是一只特定的狗的肖像”，从而暗示了另一种可能性，即“格尔奇诺画了一只狗”可能被理解为他画了一只狗，但不是特定的狗-他只是编造了一只狗。我们显然可以画出或想象不存在的事物（与拍照不同）。芝加哥艺术学院的策展人认为，布拉克的《诺曼底小港》（1909 年）就是一个例子：“看起来这幅作品是根据想象绘制的，因为所描绘的景观无法辨认。”
+
+然而，是否可以对描绘动词短语进行概念化阅读取决于名词短语补语中出现的量化限定词。如果我们说“Guercino 画了每只狗”，“Guercino 画了大多数狗”，或者“Guercino 画了那只狗”（非指代性的“那只狗”），我们似乎是在提及某个先行领域，以便评估“画了每只/大多数/那只狗”的情况。因此，需要具体的解读。[1]这种对非具体解读的抵抗在各种语言中都很普遍，并且是那些在存在语境中不自然出现的量化限定词的典型特征，例如“有”：将“花园里有一只狗”与“花园里有每只狗”、“花园里有大多数狗”或“花园里有那只狗”进行对比。对于“花园里有每只狗”这种表达的错误（参见 Keenan 2003），可能会包含解释具有“每只”、“大多数”和“那只”等限定词的描绘动词短语缺乏非具体解读的材料；更多信息请参见（Forbes 2006:142–150）。
+
+需要强调的是，在这方面，描绘动词是特殊的，因为使用“every”、“most”和“the”时，使用愿望动词或搜索动词可以得到非具体解读没有问题。Guercino 可能在奥尔德罗万蒂的庄园里寻找每只狗，尽管没有特定的狗是他在寻找的；读者可能在一个陌生的机场租车场四处开车，寻找出口，在这种情况下，并没有出口被寻找。（“look”实际上不是及物动词，但是当后面的介词是“for”时，表示搜索活动，因此在讨论内涵性的语境中，习惯上将“looking for”之类的词视为“及物动词”）。
+
+混合行为也可以通过评价动词来体现，例如“尊重”、“钦佩”、“鄙视”、“崇拜”，包括情感动词如“渴望”和“害怕”。Lex Luthor可能害怕Superman，但不害怕Clark，而Lois可能鄙视Clark，但不鄙视Superman。然而，带有量化补语的动词短语的不具体解读更难以听到，至少当量词是存在量词时。"Lois 钦佩一个外星人"可以有两种理解方式：一种是"钦佩一个特定的外星人"的解读，另一种是泛指的解读，意味着她钦佩的事物中包括外星人。评价动词的泛指解读归因于倾向，与不具体或概念化的解读不同（参见Cohen 1999, 2008以及关于泛指的条目）。"Lois 钦佩一个外星人，但不是特定的一个"似乎没有一个合理的非泛指的解读。
+
+动词“need”是一个有趣的例子。一个运动队可能需要一位更好的教练，尽管没有具体的更好的教练，即使没有可用的教练，他们也可能需要一位更好的教练。因此，内涵性的三个标志中有两个是存在的。然而，“need”与“want”在替换方面有所不同：我们的脱水主体并不想要H2O，因为他认为它是一种毒药，但他仍然需要H2O。似乎可以在“need”的补语中交换共指的术语。但仅仅是偶然共延的术语不能被交换：Larson（2001年，232页）举了一个例子，剧院经理Max需要更多的歌手，但不需要更多的舞者，尽管所有唱歌的人都会跳舞，反之亦然。歌手和舞者是不同的属性，因此它们的表达不能在“need”的补语中交换。类似的受限替代性也适用于交易动词，如“wager”、“owe”、“buy”、“sell”、“reserve”，以及可能的交易结果动词“own”。人们可以在餐厅预订一张桌子，尽管在预订时没有具体的预订桌子，因为餐厅可能预计当晚客人较少。但这些动词确实允许共指表达的交换（购买水权就是购买H2O权），但不允许（Zimmerman 1993年，151页）偶然共延的表达。关于“own”请参见（Zimmerman 2001年，各处）。
+
+实际上，甚至可以争论一些内涵性标记存在于允许交换意外共同表达的动词中。一个例子是缺席动词，比如“省略”和“缺乏”。如果恰好只有物理学家是该学院的诺贝尔奖获得者，那么一个没有物理学家的学院委员会就没有诺贝尔奖获得者。然而，对于这种情况不能给予太多的重视，因为可能在某个层面上，“缺乏”应该以没有的方式进行分析（可能是以一种复杂的方式），在这种情况下，它实际上根本不是一个内涵动词；尽管据作者所知，尚未提出对这种类型的令人信服的分析。有关内涵性标记之间关系的进一步讨论，请参见（Zimmerman 2001, 516–20）。
+
+## 2. 有多少机制用于多少标记？
+
+我们区分了三个内涵性的“标记”或效应：替换抵抗、非特定读法的可用性和存在中性。一个自然的问题是是否同一个语义机制支持了这三个效应，它们是否完全独立，或者其中两个与第三个有一个不同的共同来源。
+
+在讨论命题态度动词的背景下，即那些接受从句或从句嵌入名词短语补语而不是简单名词短语（NP）宾语的动词，有一个将解释装置保持最小的假设是，内涵性的三个效应都是由于补语可能在态度动词中具有狭义范围而产生的。因此，我们可以区分两种解读：
+
+(1)
+
+莱克斯·卢瑟害怕超人在附近，
+
+ 即
+
+(2a)
+
+Lex Luthor 真正害怕超人附近的命题[2]
+
+and
+
+(2b)
+
+超人是一个使莱克斯·卢瑟害怕（真实的命题）他附近有人的人。
+
+在（2a）中，我们将从句“超人在附近”作为“命题”的补语，以确保“超人”在“害怕”的范围内（结果为 NP“命题…”是一个“范围岛”）。而在（2b）中，我们使用一种措辞方式，鼓励听众先处理“超人”，然后再处理“害怕”。我们可以将（2a）与替换抵抗联系起来，同时允许在（2b）中进行替换。 （2b）将一个复杂属性归因于超人，因此也归因于克拉克；即，成为一个使莱克斯害怕 x 附近有人的 x。另一方面，（2a）将莱克斯与某个命题的害怕-真实态度关系联系起来，基本上没有关于他可能害怕-真实的其他命题的暗示。因此，只要超人在附近的命题与克拉克·肯特在附近的命题是不同的，将（1）解释为（2a）的替换失败是可以解释的。
+
+至于将这两个命题视为不同的问题，有许多有用的解释，大多数涉及现代哲学语义学中最初提出的一些变体，这些变体可以在（Frege 1892, 1970）中找到。根据弗雷格的观点，每个有意义的表达式或短语都有一个习惯性的指称和一个习惯性的意义。对于从句来说，习惯性的指称将是一个由从句中的词的指称组合而成的真值，而习惯性的意义将是一种思考这个真值的方式，由从句中的词的意义组合而成。因此，只要“Superman”和“Clark Kent”具有不同但指涉相同的意义（即，它们表达了对同一对象的不同思考方式），我们将得到不同的命题。（然而，要找到关于名称意义的充分解释是非常困难的，鉴于（Kripke 1972）中对最直接解释的批评。）
+
+然而，从表面上看，这只有（1），以（2a）的方式意图表达，表达了一个不同的命题
+
+ （2c）
+
+莱克斯·卢瑟担心克拉克就在附近。
+
+由于真值是在参照层面上的，而（2a）和（2c）的对应词汇都有相同的指称，所以（2a）和（2c）的真值结果将是相同的；但它们应该是不同的。因此，弗雷格提出了一个巧妙的建议，即在内涵语境中（他只考虑了从句动词），表达式不再表示其习惯参照，而是表示其习惯意义。从现在开始，我们将使用“当且仅当”来缩写“if and only if”，那么（1）作为（2a）的意思是真的，当且仅当“莱克斯”的指称与“超人就在附近”的切换指称之间存在担心-真实关系，即其习惯意义。现在我们解释了为什么仅仅交换在（1）中习惯上共指的表达式会从真值变为假值：替换没有保持参照，因为这些名称现在表示它们的习惯意义。然而，如果（1）的意思是（2b），就不会发生真值切换，因为没有名称-指称切换：在（2b）中，“超人”不在“担心”的范围内，因此它表示其习惯参照，并且与表示相同指称的任何其他表达式的交换必然保持真值。想要了解更详细的弗雷格意义观讨论的读者可以参考弗雷格语言哲学条目中关于弗雷格语言哲学的部分。另请参阅关于命题态度报告的条目，以及关于弗雷格式“切换语义学”的其他用途，Gluer 和 Pagin 2012。
+
+这样的观点有能力解释其他内涵性效应。在“莱克斯担心有外星人就在附近”的“特指-不特指”歧义可以通过范围歧义来解释，其中的概念或不特指解读对应
+
+(3a)
+
+莱克斯·卢瑟害怕这个命题，即附近有一个外星人
+
+以及与之相关或具体的解读
+
+(3b)
+
+外星人是指莱克斯·卢瑟害怕其附近存在的事物。
+
+存在中立性也得到了解释，因为无论是否存在外星人，都可以有关于外星人附近存在的命题，可以被害怕、相信、怀疑或否认。
+
+这里还有其他关于替代失败的描述，但在这一点上细节是次要的。因为存在着真正的问题，即(A)是否存在一个单一的机制可以解释所有三种效应，以及(B)是否可以通过范围机制来解释任何效应，而不是及物动词的从句。
+
+(A)前一节中提到的行为表明，替代抵抗和非特定阅读的可用性有不同的解释。因为我们看到动词“need”在替代抵抗方面与动词“want”有所不同，但在嵌入 VP 的非特定阅读方面相似。因此，似乎存在一种机制阻止替代，也许是弗雷格的参照切换机制，也许是与戴维森所称的“语义无辜”更相容的其他机制（戴维森 1969 年，172 页——替代失败的语义无辜解释是指在内涵语境中出现时不改变替代抵抗表达式本身的语义的特殊情况）。这种机制不能出现在“need”中，但可以出现在“want”中（“可以”而不是“会”，因为它是可选的；这是为了允许类似于（3b）的“透明”或允许替代的阅读，例如“Lex 害怕 Superman”）。另一方面，无论是什么解释了概念性阅读，显然对这两个动词都是可用的，因此它与“want”的替代抵抗不是同一种机制。然而，这种推理并不是最终的，因为替代抵抗机制可能存在于“needs”（和交易动词）中，但以某种方式变得无效（参见帕森斯 1997 年，370 页）。我们需要了解无效性是如何产生的。
+
+评价动词提出了相反的挑战：替换抵抗，但显然没有嵌入 VP 的非特定阅读，当然也没有存在性阅读。对于“单一解释”理论的辩护者如何处理这个问题就不太清楚了，至少如果单一解释是一个范围机制的话，因为从其他情况来看，出现在内涵动词范围内似乎会立即产生一个非特定阅读。
+
+暂停存在性承诺可能与解释目的上的非特定阅读相结合。似乎没有内涵及物动词允许嵌入 VP 的概念性阅读的情况，但在这些 VP 具有与仅通过替换内涵动词为外延动词而不同的存在性后果的情况下，这些情况并不存在。
+
+（B）范围解释是内涵性效应的唯一真正的竞争者。但是，关于它是否可以从从句转移到及物动词存在一个重大问题。因为内涵性效应都与名词短语（NP）的窄范围出现相关，并且在及物动词的句法结构中，当 NP 被量化时，这种句法配置是有问题的。这是因为在标准的一阶句法中，量词必须在其范围内有一个句子（一个带有自由变量 NP 绑定的开放句子，如果在句法中排除了冗余量化）。我们可以为关系或宽范围阅读提供这个例子。
+
+(4)
+
+外星人是指洛伊斯正在寻找的对象
+
+其中，“洛伊斯正在寻找的对象”是“外星人”的范围。但是，如果“外星人”被假设在“寻找”的范围内，就没有子句可以作为其范围；它必须是关系的一个参数，而一阶语言不允许这样。正如卡普兰所说，“没有内部句子上下文...范围的区别就消失了”（卡普兰 1986 年，266 页）。（尽管教过符号逻辑的读者对于那个将“杰克打了比尔”符号化为“Hjb”，然后将“Hj(∃x)”作为“杰克打了某人”的符号化表示的学生非常熟悉。）
+
+问题的描述提出了两种解决方案。一种是保留一阶语法，通过揭示隐藏的材料来作为量化名词短语的范围，即使后者在内涵动词的范围内。另一种是放弃一阶语法，采用一种允许量化名词短语的含义成为害怕和寻求等内涵关系的参数的形式主义。我们将依次在以下两个部分讨论这些选项。
+
+## 3. 命题主义
+
+揭示隐藏材料以在内涵动词短语的概念性解读中提供具有句子范围的名词短语的想法在（Quine 1956）中得到了显著的支持，该提议是用“努力寻找”来解释搜索动词。因此，对于（5a），我们将得到（5b）：
+
+ （5a）
+
+路易斯正在寻找外星人
+
+(5b)
+
+路易斯正在努力寻找外星人
+
+Partee (1974, 97) 反对这不可能是整个故事，因为搜索动词并非全部是同义词（“摸索”并不完全意味着“翻找”），但 den Dikken，Larson 和 Ludlow（1996）以及 Parsons（1997, 381）建议将搜索动词本身用于替代“尝试”。所以我们得到
+
+ （6a）
+
+Lois 正在寻找外星生物
+
+或者用一些非奎因式的术语来说，
+
+(6b)
+
+路易斯正在寻找，以使命题成真，即一个外星人是这样的，她自己发现它是这样的。[3]
+
+这里，“外星人”在“看”的范围内，但它有一个开放的句子“她自己发现它”作为自己的范围。
+
+用（5a）的介词短语替换（6a）的目的从句可能会保持意义，也可能不会，但即使保持意义，这也不足以表明（6a）或（6b）表达了（5a）的语义；它可能只是一个同义词。然而，对于“需要”和欲望动词，存在隐藏从句的证据很强。例如，在
+
+(7)
+
+物理学很快需要一些新的计算机
+
+将“soon”解释为修饰“needs”几乎没有意义；它似乎更多地修饰一个隐藏的“get”或“have”，正如“Physics needs to get some new computers soon”中明确表示的那样，即“Physics needs it to be the case that, for some new computers, it gets them soon”。（关于“have”与“get”的区别，请参见（Harley 2004）。）
+
+其次，还有命题照应现象（den Dikken, Larson, & Ludlow 2018, 52–3），如下所示：
+
+(8)
+
+物理学需要一些新的计算机，但它的预算不允许。
+
+不允许的是物理学获得一些新的计算机的命题的真实性。
+
+第三，附着的歧义表明存在多个动词供修饰语附着（Dikken，Larson 和 Ludlow 1996，332）：
+
+(9)
+
+物理学明年将需要一些新的计算机。
+
+可能意味着部门明年将需要新的计算机，但也可能意味着明年是物理学应该获得新计算机的时间，如果它的需求（可能在今年晚些时候出现）得到满足。
+
+最后，省略号会产生类似的歧义：
+
+(10)
+
+物理学在化学之前将需要一些新的计算机
+
+可能意味着在化学之前，物理学需要的需求会出现，但也可能意味着物理学需要在化学之前获得一些新的计算机。
+
+然而，关于“need”或“want”的隐藏“get”的案例的力量与关于搜索动词的命题主义的案例形成对比。正如 Partee（1974 年，99 页）所观察到的那样，对于后者，没有像（9）中那样的附着歧义。例如，
+
+(11)
+
+物理学将在明年购买一些新的计算机。
+
+只能意味着购物将在明年发生。没有第二个解读，对应于（9）的另一个解读，其中“明年”附着于一个隐藏的“寻找/购买”。（8）和（10）中的现象也缺乏与搜索动词的类似之处；例如，“物理学将在化学之前购买一些新电脑”没有一个解读，即物理学在化学之前购买新电脑的目标：在化学找到/购买之前找到/购买。虽然命题主义者可能会提供类似于
+
+(12)
+
+物理学将在中午之前寻找更多办公空间
+
+作为（7）的类比，很难确定（12）是否真正具有“寻找到中午之前更多办公空间”的解读，或者这样一个解读的暗示只是（7）的回声。
+
+其他一些内涵及物动词的群体，如描写动词和评价动词，引发了一个问题，即首先没有明显的命题释义。对于心理描写动词，如“幻想”和“想象”，帕森斯（1997 年，376 页）提出了他所称的“哈姆雷特省略”：对于“玛丽想象了一只独角兽”，我们将有一个从句“玛丽想象了一只独角兽”。拉尔森（2001 年，233 页）认为，补语是一个“小”或“无动词”的从句，对于“马克斯想象了一只独角兽”，他提出了“马克斯在他面前想象了一只独角兽”。这太具体了，因为我们可以理解“马克斯想象了一只独角兽”，而不知道他是在他面前、在他上方还是在他下方想象它，但即使我们将释义改为“马克斯在空间上与他相关地想象了一只独角兽”，这个提议以及帕森斯的提议在否定方面存在问题：“玛丽没有想象一只独角兽”与“玛丽没有想象一只独角兽”或“玛丽没有想象一只与她在空间上相关的独角兽”并不同义，因为第一个允许她想象一只独角兽但不想象它，第二个允许她想象一只独角兽但不与她在空间上相关。可能有排除这些选项的哲学论证，[4]但需要哲学论证的事实使这些提议在语义学上不令人满意。
+
+对于像“害怕”这样的动词，从句释义甚至更不可能，因为释义中的额外材料可以被理解为害怕的焦点，使得释义不足够。例如，害怕 x 并不等同于害怕遇到 x，因为可能是遇到引起了恐惧，比如 x 是一个有传染病的无害个体。同样，害怕 x 并不等同于害怕 x 会伤害你；例如，你可能害怕你那个容易出事故的牙医会伤害你，而不害怕牙医本人。
+
+我们得出结论，如果任何一种对内涵及物动词的处理方法要涵盖所有领域，那么它必须是非命题主义的。但也有可能，也许是很有可能，内涵及物动词并不是一个统一的类别，命题主义对于其中一些动词是正确的，但对于其他动词则不正确（详见 Schwarz 2006，Montague 2007）。
+
+## 4. Montague 的语义学
+
+对于内涵及物动词的非命题主义方法主要起源于 Richard Montague 的工作，尤其是他的论文《The Proper Treatment of Quantification in Ordinary English》（Montague 1973），通常在文献中称为 PTQ（Montague 的条件（9）（1974, 264）将“seek”定义为“尝试寻找”，但这是可选的）。Montague 基于高阶内涵类型理论开发了一种自然语言的系统语义学。我们从右到左解释这个术语。
+
+类型理论以函数应用的方式体现了语义组合性的特定模型。根据这个模型，如果两个表达式 x 和 y 可以连接成一个有意义的表达式 xy，那么（i）其中一个表达式的含义被视为一个函数，（ii）另一个表达式的含义被视为函数所定义的一种类型的项目，（iii）xy 的含义是将输入应用于函数时的输出。这种含义的类型理论表示写作 x(y)或 y(x)，具体取决于哪个表达式被视为函数，哪个是输入或参数。像 x(y)这样的函数应用被称为良类型，当且仅当 y 所表示的输入是函数 x 定义的输入类型时。
+
+例如，在简单类型理论中，像“毛衣”这样的普通名词被赋予以下类型的含义：从个体到真值的函数（简称为 ib 类型的函数；b 代表“布尔”）。对于“毛衣”，所讨论的函数是将所有毛衣映射到真值 TRUE，将其他所有个体映射到真值 FALSE 的函数。另一方面，“交集性”形容词如“羊毛的”将被赋予以下类型的含义：从（从个体到真值的函数）到（从个体到真值的函数）的函数，或简写为（ib）（ib）类型的函数。因此，“羊毛的”这个词的含义可以将“毛衣”（一个 ib 类型）的含义作为输入，并产生“羊毛毛衣”（另一个 ib 类型）的含义作为输出；这就是为什么“羊毛的”这个词的含义具有（ib）（ib）类型的原因。woollen(sweater)是一个特定的 ib 类型函数，它将由羊毛制成的毛衣映射到 TRUE，将其他所有个体映射到 FALSE。
+
+在这个框架中，一个量化的名词短语（如“每件毛衣”）具有一个含义，可以接受一个不及物动词（例如“解开”）或更一般地，一个动词短语（VP）作为输入，并产生一个句子的含义（真值）（例如“每件毛衣解开”）作为输出。不及物动词和动词短语与普通名词一样，属于ib类型。例如，动词短语quickly(unravelled)是ib类型的，将所有迅速解开的个体映射为TRUE。因此，一个量化的名词短语是一个从ib类型的输入到b类型的输出的函数，因此是(ib)b类型的。"每件毛衣迅速解开"可以表示为(every(sweater))(quickly(unravelled))，并表示应用类型为(ib)b的含义（即every(sweater)）到类型为ib的含义（即quickly(unravelled)）的结果，其中副词quickly本身是(ib)(ib)类型的，类似形容词woollen。every特定的规则保证了every(sweater)将quickly(unravelled)映射为TRUE，当且仅当quickly(unravelled)将sweater映射为TRUE。
+
+到目前为止，这个装置是内涵的，除了提供只有两种可能的句子意义，即真和假之外，还对我们可以表达的概念范围施加了严格的限制。假设苏格兰服装公司Pringle垄断了毛衣的制造，并且只生产毛料的毛衣。那么一件衣服只有在它是Pringle毛衣的情况下才是毛料的毛衣，这意味着woollen(sweater)和pringle(sweater)是类型为ib的相同函数，而这两个术语在类型理论语言中可以互换使用。然后，像“有可能是”的模态运算符不能出现在语言中，因为在它们的范围内交换woollen(sweater)和pringle(sweater)有时应该导致真值的改变，但是如果这两个表达式在语义上具有相同的含义，则无法实现。例如，“每件Pringle毛衣都是毛料的是有可能的”是真的，但是“每件毛料的毛衣都是毛料的是有可能的”是假的。因此，类型理论（粗体）语言中没有对“有可能性”这一概念进行充分的表示。
+
+转向内涵类型理论处理这个困难。任何表达式 X 的内涵是一个从可能世界到类型的扩展的函数，该表达式在刚才概述的外延理论中具有这样的扩展，如果它有这样的扩展，否则是适用于内涵词汇的某种适当的东西，比如“它是有可能的”。一个从可能世界到类型为 t 的项目的函数被称为 st 类型的内涵。例如，毛衣的内涵将是一个从可能世界到类型为 ib 的函数，为每个可能世界提供一个指定在该世界上是毛衣的个体的函数；所以毛衣的内涵是 s(ib)类型的。然而，像“它是有可能的”这样的情态句操作符的内涵将是一个函数，对于每个可能世界，它产生相同的函数，该函数以类型为 sb 的函数作为输入，并产生真值作为输出。因此，“它是有可能的”在每个世界的扩展是相同的函数，类型为(sb)b。（该操作符被称为内涵的，因为它在每个世界的扩展是一个接受内涵，比如类型为 sb 的函数，作为输入的函数。）
+
+类型为 sb 的函数有时被称为可能世界命题，因为它跟踪句子在不同世界中的真值。例如，通过适当的分配给组成部分，
+
+(13)
+
+ **（每个（羊毛的毛衣））（羊毛）**
+
+应该是真的，也就是说，在每个世界上都指向真实。[5]因此，（13）的内涵是类型为 sb 的函数 f，对于每个世界 w，f(w) = 真实。这是一个恒定的内涵。另一方面，
+
+(14)
+
+ **（每个（普林格尔（毛衣）））（羊毛）**
+
+在一些世界上是真的，但在其他世界上是假的，那些普林格尔制造非羊毛毛衣的世界；因此它的内涵是非恒定的。
+
+我们将“contingent”的内涵定义为一个函数，对于每个输入世界 w，产生类型为(sb)b 的函数 c 作为输出，使得对于任何类型为 sb 的函数 p，c(p)在 w 上为真当且仅当存在世界 u 和 v 使得 p(u) = TRUE 且 p(v) = FALSE（这是“contingent that”在“contingent whether”意义上的含义）。因此，“contingent”的内涵也是恒定的，因为在每个世界上输出的是相同的函数 c。
+
+由于“contingent”期望一个类型为 sb 的输入，我们不能写成
+
+(15)
+
+**contingent((every(woollen(sweater)))(woollen))**
+
+由于在评估这个公式时，在世界 w 中我们会发现自己试图将可变的引用应用于 w，即刚刚定义的函数 c，以及将(wollen(毛衣))的引用应用于 w，即真值 TRUE。但是 c 需要一个类型为 sb 的输入，而不是 b。因此，我们引入一个新的运算符，写作^，如果 X 是一个表达式，t 是 X 在每个 w 的引用的类型，那么在每个 w，^X 的引用是*st*类型的。 **^** X 可以解读为“X 的内涵”，因为^的规则是，在每个世界上，**^**X 指的是对于每个世界 w，输出 X 在 w 上的引用的函数。
+
+如果我们现在评估
+
+(16)
+
+**可变^(每个(毛衣))(毛衣)**
+
+在一个世界 w 中，结果将为 FALSE。这是因为类型为 sb 的函数 p，即^((every(woollen(sweater)))(woollen))的引用，在每个世界上将每个世界映射为 TRUE。因此，不存在 u 使得 p(u) = FALSE。但是对于^((every(pringle(sweater)))(woollen))，存在这样的 u，因此
+
+(17)
+
+**内涵的^((every(pringle(sweater)))(woollen))**
+
+在 w 上为 TRUE。注意，w 的选择并不重要，因为 contingent 的内涵在每个世界上产生相同的函数 c，并且例如^((every(pringle(sweater)))(woollen))的引用在每个世界上是相同类型的 sb 函数。
+
+最后，我们的类型理论，内涵或外延，是高阶的，因为语义学提供了高阶的量化和引用域。sweater 指的是个体的属性，是一阶属性。（every(sweater)）指的是个体属性的属性，是二阶属性。正如 sweater（我最喜欢的衣服）将成为一件毛衣的属性归属于某个个体一样，我们可以认为（every(sweater))(woollen)将一个属性归属于毛织品的属性。归属于毛织品的是哪个属性？every 的规则确保（every(F)）当且仅当 G 是每个 F 的属性时，G 真正地被谓词化。在这种情况下，G 具有成为每个 F 的属性的属性。因此，（every(F)）代表了成为每个 F 的属性的属性。
+
+将量化的 NP 视为属性的属性的术语意味着它们可以作为任何为属性的属性定义的表达式的参数出现。我们甚至可以挽救那个不理解的学生对“Jack hit someone”的尝试，因为只要“hit”是正确类型的 - 这很容易安排 - 我们可以有（hit(someone))(jack)。这里，hit 接受至少一个人的属性的属性，并产生打击某人的一阶属性，然后将其归属于 Jack。在外延类型理论中，如果（hit(someone))(jack)是良型的，jack 的类型为 i，那么 hit 的类型为((ib)b)(ib)。[6]
+
+这对于内涵及物动词的语义学意义重大，因为我们现在有一种表示的方式，可以解释例如
+
+(18)
+
+Jack 想要一件羊毛衫
+
+其中量化的 NP 在动词的语义范围内，而不是在具有 NP 绑定的隐藏子句上具有范围：量化的 NP“一件羊毛衫”可以成为动词的论元。为了允许及物动词的内涵性，蒙塔古采用了一个规则，即如果 x 和 y 可以连接成一个有意义的表达式 xy，那么功能表达式的引用是一个作用于参数表达式内涵的函数。忽略一些不相关的细节，这意味着如果“want”在句法上与“一件羊毛衫”组合成 VP“want a woollen sweater”，那么在其语义上，want 应用于（a（woollen（sweater）））的内涵，从而得到以下（18）的语义：
+
+(19)
+
+**want(^(a(woollen(sweater))))(jack)** .[[7](https://plato.stanford.edu/entries/intensional-trans-verbs/notes.html#note-7)]
+
+在（19）中，一件羊毛衫在“想要”的范围内。因此，如果我们将（19）表示为（18）的概念阅读，即概念阅读是指量化的名词短语在内涵动词方面具有狭义范围的观点是可持续的。
+
+## 5. 修订和完善
+
+Montague 关于内涵及物动词的解释在内涵性的三个标志方面如何表现？存在性名词短语的存在中立性显然得到了（19）的支持，因为在世界 w 中，将“想要”应用于^(一件羊毛衫)可以产生一个将 Jack 映射到 TRUE 的函数，即使在同一个 w 中，（羊毛衫）将每个个体映射到 FALSE（羊毛衫不存在）。
+
+替代失败支持对有条件共同扩展表达式。例如，即使存在所有且仅有羊毛衫是普林格尔羊毛衫的世界，(19)也不蕴涵 want(^(a(pringle(sweater))))(jack)，只要存在其他世界不是这样。设 u 是后一种类型的世界。那么 u 上的 a(pringle(sweater))和 u 上的 a(woollen(sweater))是类型为(ib)b 的不同函数，使得^(a(pringle(sweater)))和^(a(woollen(sweater)))在每个世界上都不同。因此，want(^(a(pringle(sweater))))可能在 want(^(a(woollen(sweater))))将 Jack 映射为 TRUE 的世界上将 Jack 映射为 FALSE：由于 want 在这里应用于不同的输入，输出也可能不同。
+
+但是，这个结果取决于(pringle(sweater))和(woollen(sweater))仅仅是有条件共同扩展的事实。如果“water”和“H2O”是必然共同扩展的，那么想要一杯水和想要一杯 H2O 是无法区分的在高阶内涵类型理论中。然而，这种区分的失败可以追溯到语义的内涵性——即它是（仅仅）一个可能世界的语义——而不是它是高阶的或类型理论的。因此，可能的解决方案包括（i）用额外的装置增强高阶内涵类型理论，或者（ii）使用不同类型的高阶类型理论。在这两种情况下，目标是标记像想要一杯水和想要一杯 H2O 之间的区别。
+
+根据（Carnap 1947）提出的第一种解决方案在（Lewis 1972:182–6）中被提出；其思想是复杂表达式的意义不是其内涵，而是一棵自底向上展示表达式句法结构的树，树中的每个节点都带有适当的句法类别标签和语义内涵。但正如Lewis所说（第182页），对于非复合词的词汇成分，内涵的相同意味着意义的相同。因此，尽管他的方法可以处理水/H2O问题，但前提是我们假设术语“H2O”具有术语“水”所缺乏的结构，否则无法解决该问题。出于同样的原因，它无法解释涉及非结构化专有名词的替换失败，因为通常的观点（源自Kripke 1972）认为这些名字在任何世界上的外延相同意味着内涵相同。因此，我们无法解释为什么欣赏西塞罗不等同于欣赏图利。
+
+在（Thomason 1980）中，采用了一种不同类型的高阶类型理论来追求第二类解决方案。在Thomason的“内涵”逻辑中，命题被视为一个原始范畴，而不是被分析为类型sb的内涵。结果发现，可以基于这一基础构建一种相对熟悉的高阶类型理论，其中，命题的类型在某种程度上起到类似于外延类型理论中真值类型的作用。例如，像orator这样的属性是类型为ip的函数（与ib相对），其中p是命题的类型：给定一个个体作为输入，orator将产生该个体是演说家的命题作为输出。然而，专有名词不被翻译为类型i的术语，因为这样cicero和tully将向orator提供相同的输入，导致相同的命题作为输出：orator(cicero) = orator(tully)。因此，没有相信Cicero是演说家而不相信Tully是演说家。相反，Thomason将专有名词分配给类型（ip）p，即从属性到命题的函数。仅仅因为Cicero和Tully是同一个个体，并不要求我们说cicero和tully在给定相同属性输入时必须产生相同的命题输出。相反，我们可以使cicero(orator)和tully(orator)不同（有关Thomason方法的进一步发展，请参见Muskens 2005）。
+
+将此应用于内涵及物动词只是分配适当的类型的问题，以便“Lucia seeks Cicero”和“Lucia seeks Tully”的翻译是不同的命题（可能具有不同的真值）。我们需要将动词保持为函数，并且我们已经将 cicero 和 tully 的类型设置为（ip）p。 “seeks Cicero”和“seeks Tully”的翻译应该是能够接受类型为（ip）p 的输入（如 lucia），并产生命题作为输出的函数。因此，seeks 接受类型为（ip）p 的输入，并产生接受类型为（ip）p 的输入并产生类型为 p 的输出。因此，seeks 的类型为（（ip）p）（（（ip）p）p），并且我们得到替换失败，因为 seeks（cicero）和 seeks（tully）可以是不同类型的函数（（（ip）p）p），只要 cicero 和 tully 是类型为（ip）p 的不同函数（正如我们已经说过的）。因此，seeks（cicero）可以将 lucia 映射到一个命题，而 seeks（tully）将其（而不是“她”）映射到另一个命题；而这些命题可以具有不同的真值。[8]
+
+最后，问题是（19）是否表明 Montague 的语义支持概念性阅读。一个问题是 Montague 对于“get”等外延动词的语义与内涵动词完全相同，而对于“get”，需要额外的规定或意义前提来保证 get（^(a(woollen(sweater))))在 w 上的外延仅在 woollen(sweater)在 w 上的外延将某个个体映射到 TRUE 时，才将 Jack 映射到 TRUE（即使没有金色的羊毛衫，你也可以想要一个，但如果没有，你就不能得到一个）。因此，显然（19）的模式体现了“想要一件羊毛衫”的概念意义和“得到一件羊毛衫”的意义之间的共同之处，这在羊毛衫的存在上是中立的。这是不直观的，但也许不是一个严重的问题，因为可以通过对外延及物动词进行不同的处理来避免这个问题。
+
+一个更紧迫的问题是我们有什么理由认为（19）捕捉到（18）的概念，“没有特定的一个”，的阅读方式。[9]从表面上看，（19）将渴望的态度归因于杰克对于毛衣的属性的态度。这与杰克可能对待一个特定的毛衣的态度是相同的。但我们并不清楚我们对于具有如此多样化对象的单一态度有什么理解，而且困难似乎主要在于概念阅读的提议语义上。对于渴望具有毛衣属性的属性是什么意思呢？
+
+有两种处理这个问题的方法。首先，我们可以在形式语义学中补充阐明什么是对属性的常见态度。其次，我们可以修改分析以消除其中的反直觉方面，但不引入命题主义者隐藏的句子语境。
+
+(Moltmann 1997)和(Richard 2001)都可以被理解为在蒙塔古的一般方法论框架下，对于处于态度关系中的属性的解释。这两种解释都是模态的，涉及到态度在某种意义上与情境“匹配”的可能情况的性质：需求或期望的态度状态在需求或期望得到满足时被匹配，欲望的态度状态在欲望得到满足时被匹配，寻求的态度事件在搜索成功结束时被满足，等等。根据Moltmann的解释（1997年，22-3页），当且仅当在每个最小的情境σ中，该搜索成功结束时，你在σ中找到一件羊毛衫，就会处于寻求^(a(woollen(sweater)))的态度关系中。Richard（2001年，第116页）提供了一个更复杂的分析，旨在处理否定的量化NP（如“没有羊毛衫”，“几件羊毛衫”等）。根据这个解释，一个搜索π要求^(a(P))，当且仅当对于π的每个相关的成功故事m = <w, s>，在s中具有蕴含P的属性的事物在w中的^(a(P))的范围内。这里的s是在w中搜索成功结束时找到的事物的集合。
+
+相比之下，（Zimmerman 1993）和（Forbes 2000, 2006）提出了对（19）及其类似结构的修订。Zimmerman（161-2）将量词内涵替换为属性内涵，因为他认为（i）非特指解读仅限于“广义存在量化的名词短语”，以及（ii）与存在量化名词短语中名词相对应的属性可以代表名词短语本身。当然，将非特指解读限制在存在量化中是有争议的（参见我们之前的例子，“Guercino正在寻找Aldrovandi庄园上的每只狗”）。人们也可以想知道，与对象的属性相比，解释与对象的属性之间的寻求关系是否有更少的需要（但是对于这种反对意见的回应，请参见Grzankowski 2018, 146-9）。
+
+根据《福布斯2000》的说法，对于像“寻找”这样的动词，已经需要解释，因为它在“寻找那件羊毛衫”和“寻找一些羊毛衫”中的含义已经不再唯一。福布斯观察到搜索动词是行为动词，并将戴维森的事件语义应用于它们（戴维森，1967）。在这种语义中，如（帕森斯，1990）所发展的那样，搜索动词成为事件的谓词，在关系（特定）解读中，被搜索的对象被说成与事件之间存在一个由“for”表示的主题关系；因此，“某个搜索e是为了那件羊毛衫”。但在非特定解读中，不涉及任何主题关系；相反，量化的名词短语用于描述搜索。因此，我们会有“某个搜索e被^(a(woollen(sweater)))所描述”，即e是一个a-woollen-sweater搜索（福布斯，2000年，174-6；2006年，77-84）。一个搜索被^(a(woollen(sweater))所描述的含义是通过“结果假设”来解释的。对于当前的例子，作为第一个近似，一个搜索被^(a(woollen(sweater))所描述，当且仅当任何一个使该搜索成功达到目标的事件过程中，都包括一个找到一件羊毛衫的事件，其执行者是该搜索的执行者。类似的假设可以用于满足期望和满足欲望的情况：一个欲望状态被^(a(woollen(sweater))所描述，当且仅当任何一个使该欲望得到满足的事件过程中，都包括一个得到一件羊毛衫的事件，其接受者是该搜索的执行者（福布斯，2006年，94-129）。
+
+因此，对于内涵及物动词存在着各种不同的非命题主义方法。正如我们已经提到的，一种可能性是命题主义对于某些动词是正确的，而非命题主义对于其他动词是正确的。然而，还有一种选择，即非命题主义对于所有动词都是正确的。一个提出这种主张的非命题主义者将不得不解释图（7）-（10）中所示的现象，而不引入使得这些现象对于所有的内涵及物动词都不会发生的自由度。
+
+## 6. Prior 的谜题
+
+除了已经讨论过的那个，内涵及物动词还涉及到另一个替换抵抗的谜题。在关于命题态度报告的文献中，普遍认为这些报告中的补语从句指代的是命题。因此，例如，在“Holmes 相信 Moriarty 已经回来”中，从句“Moriarty 已经回来”被认为代表了 Moriarty 已经回来的命题。整个归属被理解为具有 Rab 的形式，这在这个例子中意味着 Holmes（a）与 Moriarty 已经回来的命题（b）之间存在信念（R）的关系。然而，除了由 that 从句表示，命题似乎也可以由命题描述来表示，即明确使用“the proposition”的名词短语，例如，在前一句中的“the proposition that Moriarty has returned”。因此，如果从句和描述具有共同指称，我们有以下真理：
+
+(20)
+
+Moriarty 回来了是 Moriarty 回来了的命题。
+
+但是我们应该能够用命题描述替换那个从句，这对于“相信”来说确实足够好：“Holmes 相信 Moriarty 回来了”似乎可以推断出 Holmes 相信 Moriarty 回来了的命题，尽管替换的副作用是将从句“相信”转换为及物动词形式。然而，“相信”在这方面是相当特殊的。尽管（20），下面的例子（21a）和（21b）似乎有着非常不同的含义：
+
+ （21a）
+
+福尔摩斯{害怕/怀疑}莫里亚蒂已经回来了。
+
+(21b)
+
+福尔摩斯{害怕/怀疑}莫里亚蒂已经回来的命题。
+
+(21a) 可能是真的，但是很不可能霍姆斯害怕一个命题，或者某个命题是他怀疑的事物。（这个现象似乎是由 A.N.普赖尔（1963 年）首次在印刷品中注意到的。）
+
+次要前提的含义不能在替换后保留，这是规则而不是例外：我们在“宣布”，“预期”，“询问”，“吹嘘”，“计算”，“警告”，“抱怨”，“得出结论”，“鸣叫”，“决定”，“侦测”，“发现”，“梦想”，“估计”，“忘记”，“猜测”，“希望”，“暗示”，“坚持”，“审问”（文学理论），“判断”，“知道”，“爱”，“提及”，“注意”，“观察”，“更喜欢”，“假装”，“质疑”，“意识到”，“欢喜”，“需要”，“看到”，“建议”，“猜测”，“怀疑”，“信任”，“理解”，“投票”，“希望”以及这些动词的各种同源词。在某些情况下，替换失败是因为它改变了意义，在其他情况下，替换失败是因为它溶解了意义（违反了选择约束条件，或者所谓的及物动词在语言中根本不存在）。可以接受替换的动词较少：推理动词如“得出结论”，“推断”，“蕴涵”和“建立”，以及其他一些动词如“接受”，“相信”，“怀疑”，“陈述”和“验证”（但对于“相信”请参见 King 2002, 359–60; Forbes 2018, 118; and Nebel 2019, 97–9）。
+
+这个谜题并不依赖于（20）作为一个身份句的凭证。即使出于任何原因，它不是，也很难看出真值如何从（21a）变为（21b），鉴于莫里亚蒂已经回来的命题和莫里亚蒂已经回来是共指的。传统的指称不透明性解释似乎也没有有用的应用，比如弗雷格的（在上面与（2c）讨论过）。弗雷格式的解释是通过共指表达式具有不同的意义来解释替换失败，但是增加或删除“命题”是否足够显著地改变意义还不清楚。我们还期望，如果主语被明确地认为是身份前提的信念，替换失败的例子将变得不现实。然而，即使霍姆斯对（20）的真实性非常清楚，并将其放在他的意识前沿，也并不意味着（21b）更有可能是真的，尽管（21a）是真的。
+
+因此，对于 Prior 的谜题的解决方案有一些吸引力，它们能够辨别推理中的模棱两可之处，或者提出关键术语“Moriarty 已经回来”和“Moriarty 已经回来”在推理中并非真正的共指。第一种方法（King 2002）认为，内涵动词的及物和从句形式是多义的，即弱歧义（两个意义相关）。这一观点在省略例子的基础上受到了批评，例如“Bob 甚至没有提到一阶逻辑是不可判定的命题，更不用说它是可证明的”（Boer 2009, 552），以及“苏联当局真正担心宗教复兴，以及宗教的传染会蔓延”（Nebel 2019, 77）。由于这些例子并没有像典型的 zeugma 例子（“爱尔兰各地的农民种植了土豆、大麦和无聊”）那样令人发笑地不协调，它们与多义性的假设相矛盾。因此，Boer（2009）和 Nebel（2019）提出问题在于“Moriarty 已经回来”和“Moriarty 已经回来”这些术语的模棱两可之处。根据他们的说法，命题描述“the proposition that…”未能表示出人们所期望的意义。另一方面，作为多义性的证据，有一些省略的情况在某种程度上是异常的，例如“John 听到了雷声，以及有一场暴风雨正在来临”。在这里，异常之处可以通过解释“听到”这两个意义有多么不同来解释。
+
+事件语义（见上文第 5 节）提供了一种替代方案，可以避免任何形式的模棱两可。在（Pietroski 2000）中提出了一个初步的建议，对于“解释”这个词的行为方式与“害怕”和“怀疑”类似，如
+
+ （22a）
+
+马丁解释说，虚无本身是无意义的。
+
+(22b)
+
+马丁解释了虚无本身是无意义的命题。
+
+(22a) 可能是真的，但(22b) 不太可能。那么，问题就在于“解释”的从句形式和及物形式接受不同的语义补足语，内容与主题：对于(22a)的从句动词来说，“that”-从句提供了一个内容，而对于(22b)的及物动词来说，一个命题描述提供了一个主题，即被解释的事物。正如前面已经指出的，替换的一个副作用是将动词从从句形式变为及物形式，因此，一个相应的副作用是将所述命题所归属的角色从内容变为主题。这一观点在(Pietroski 2005)中得到了发展，并且也在(Forbes 2006)的事件语义的扩展中得到了发展。(Forbes 2018)。
+
+## 7. 内涵及物动词的逻辑
+
+或许没有所谓的命题态度逻辑这个话题：可以怀疑“Mary 想要见一个读过 Proust 和读过 Gide 的男人”是否逻辑上蕴含“Mary 想要见一个读过 Proust 的男人”。即使以想要成为真实态度来看待“我想要见一个读过 Proust 和读过 Gide 的男人”可能会导致以想要成为真实态度来看待“我想要见一个读过 Proust 的男人”，但这种必然性似乎更多是心理上的而不是逻辑上的。另一方面，我们可以称之为“客体态度”的非命题态度，由内涵及物动词所归属，似乎具有一种逻辑(有关例子的汇编，请参见 Richard 2000, 105–7)：“Mary 寻找一个读过 Proust 和读过 Gide 的男人”似乎蕴含“Mary 寻找一个读过 Proust 的男人”。
+
+然而，正如Richard所指出的（Richard 2001, 107–8），内涵及物动词的量化补语的推理行为仍然与外延情况非常不同。例如（他的“文学例子”），即使玛丽寻找了一个读过普鲁斯特和一个读过吉德的男人是真的，但她寻找至多一个男人和她寻找至少两个男人可能都是假的；因为她可能对于找到一个既读过普鲁斯特又读过吉德的男人与找到两个男人，一个读普鲁斯特但不读吉德，另一个读吉德但不读普鲁斯特之间是无所谓的。相比之下，“看见”、“拍照”或“遇见”：如果她遇见了一个读过普鲁斯特和一个读过吉德的男人，那么她至多遇见一个男人和她至少遇见两个男人这两个说法不可能同时为假。正如Richard所坚持的，对于任何内涵及物动词的语义来说，正确处理这种类型的情况是一种限制。
+
+相比之下，在其他情况下，即使是非常简单的情况，关于内涵及物动词在不特定阅读中支持哪些推理，仍然存在争议。如果玛丽寻找一个读过普鲁斯特的男人，那么她是否寻找一个会阅读的男人呢？毕竟，一个看漫画书的人不太可能满足她对男人的品味。如果珀尔修斯寻找一个凡人蛇发女妖，那么他是否寻找一个蛇发女妖呢？毕竟，如果他找到一个不死的蛇发女妖，他就会陷入麻烦。齐默尔曼（1993年，173页）认为，对概念性阅读的解释要求验证这些删除或“削弱”推理。但是，对于不特定阅读的描述，存在这些推理实际上是无效的表述，例如，用对相关类型的对象漠不关心的方式来描述（刘易斯在1972年的著作中使用了这样一个“任何一个都可以”的描述）。即使玛丽寻找一个读过普鲁斯特的男人，并且任何一个男性普鲁斯特读者都可以，也不能得出玛丽寻找一个会阅读的男人，并且任何一个会阅读的男人都可以的结论。因为并非每个会阅读的男人都读过普鲁斯特。
+
+有没有什么内在于不确定性的冷漠特征（“任何一个都可以”）的东西，我们可以反对，同时保持推理减弱的状态开放？一个反对意见是，这种特征并不适用于每个动词或量词：“Guercino 画了一只狗，任何一只狗都可以”没有多大意义，“警察正在寻找在房间里的每个人，任何在房间里的人都可以”也不好。更重要的是，这种特征似乎使得合理的断言变得难以实现，因为我们通常认为用来证明存在量化客体态度的理由很少会让人认为代理人在超越所归属的对象种类的特征时绝对没有进一步的偏好（也许玛丽会拒绝见一个读过普鲁斯特的男性精神病杀手；有关欲望的类似讨论，请参见Graff Fara 2013）。
+
+然而，这并不是为了验证弱化推论；因为我们需要展示，使用“但没有特定的一个”修饰语的不具体阅读的更常见解释，是否像冷漠的表述一样强烈支持这些推论。而如何进行这样的论证尚不清楚（详见 Forbes 2006, 94–6）。此外，虽然能够充分证明这些推论在直觉上是有效的是一回事，但让语义学来验证它们又是另一回事。无论是命题主义者还是蒙塔戈维安主义者都需要添加额外的原则，因为他们的裸语义中没有任何东西能够强制这些推论。即使杰克与^(一件羊毛衫)之间存在着渴望关系，这本身并不能说明他是否也与^(一件毛衣)之间存在渴望关系。然而，Moltmann和Richard的观点都明确地解决了这个问题（例如，如果在每个满足杰克欲望的最小情境中，他得到一件羊毛衫，那么在每个这样的情境中，他都得到一件毛衣；所以他想要一件毛衣）。
+
+弱化的直观有效性也可以直接受到质疑。例如，通过弱化，我们可以推断如果 A 在找一只猫，B 在找一只狗，那么 A 和 B 都在找同样的东西（一只动物）。关于这种例子的讨论，请参见（Zimmerman 2006），关于“同样的东西”的特殊用法，请参见（Moltmann 2008）。Asher（1987 年，171 页）提出了一个更直接的反例。假设你参加了一个奖品是一张去纽约的协和号免费机票的比赛。所以你想要一张免费的协和号机票。但是你不想要一张协和号机票，因为你知道这些机票通常很贵，你很穷，而且你坚决抵制对无法实现的事物的渴望。Asher 在这里将不定式的概念用法与泛指相类比，根据他的说法，这涉及对正常世界的量化。因此，如果由于某种奇怪的原因你想要一艘船，但是它的船体布满了洞，那么说你想要一艘船就不是字面上的真实。
+
+毫无疑问，这里存在着一个真实的现象，但也许它属于语用学而不是语义学。如果我说“我想要一艘船”，那么如果有人提供给我港口中任何一艘漂浮的船，我以没有明确说明的要求船体布满洞的理由拒绝了这个提议，那么他们可以合理地抱怨“你应该说清楚”。但是，我的志愿者的抱怨可能是有道理的，因为正常性是一个默认的含义或前提，一个合作的说话者有义务让她的听众知道当它不起作用时。根据这个观点，你想要一艘船仍然是字面上的真实，尽管你的欲望的细节是特殊的。然而，这还远远不是故事的结束。那些对弱化持怀疑态度的人会发现（Sainsbury 2018, 129–133）中的讨论是令人愉快的。
+
+另一个有趣的逻辑问题涉及到对象归属中分离的量化名词短语的“连接力”。关于分离的连接力在许多其他情境中有大量的文献（例如，Kamp 1973，Loewer 1976，Makinson 1984，Jennings 1994，Zimmerman 2000，Simons 2005，Fox 2007），例如在“x 比 y 或 z 大”和“John 可以对你说法语或意大利语”中展示的情况。在这些情况下，连接力很容易通过简单的分配来捕捉：“x 比 y 大且比 z 大”，“John 可以对你说法语且可以对你说意大利语”。[12]然而，对于内涵及物动词，我们发现相同的连接力，但没有分配的表达。如果我们说 Jack 需要一件羊毛衫或一件绒线夹克，我们是在表达以下意思：（i）他得到一件羊毛衫是满足他需求的一种方式，（ii）他得到一件绒线夹克是满足他需求的另一种方式。但是，“Jack 需要一件羊毛衫或一件绒线夹克”并不意味着 Jack 需要一件羊毛衫和一件绒线夹克。这个最后的连接词指派了两个需求，其中只有一个通过获得令人满意的羊毛衫得到满足。但是，仅仅通过自身的后者获取满足了对羊毛衫或绒线夹克的分离需求。因此，在解释分离归属的语义时面临着一个挑战，同时仍然在一个可以容纳所有连接力情况的框架内——比较级，各种意义上的“可以”，带有分离前提的虚拟语气（“如果 Jack 穿上一件羊毛衫或一件绒线夹克，他会更暖和”）等等；进一步参见（Forbes 2006，97-111）。
+
+我们将提到的倒数第二种推理类型是一种同时出现内涵及物动词和外延动词的推理，即使将内涵动词短语解释为不具体时，推理似乎仍然有效。一个例子：
+
+ （23a）
+
+Jack 想要一件羊毛衫
+
+(23b)
+
+无论 Jack 想要什么，他都能得到
+
+(23c)
+
+因此，杰克将得到一件羊毛衫
+
+显然，当(23a)被具体理解时，(23a,b)蕴涵(23c)。但是，被调查者判断，当(23a)被不具体理解时，推理也是有效的，附加了“但没有特定的一个”。如果我们寻求符合表面形式的推理的验证，蒙塔古对内涵和外延动词的统一处理具有吸引力：(23b)将表明无论杰克对于哪个属性或属性集 P 处于想要关系中，他都处于得到关系中。因此，推理被描绘为简单的假言三段论。然后，其他的意义假设的任务是将我们从他处于得到关系中到存在这样一件羊毛衫，他得到它。
+
+这里要考虑的最后一个例子涉及到内涵及物动词范围内的虚构或神话名字。这些名字可能导致的难题的一个例子（Zalta 1988, 128）是：
+
+ （24a）
+
+古希腊人崇拜宙斯。
+
+(24b)
+
+宙斯是一个神话人物。
+
+(24c)
+
+神话人物并不存在。
+
+(24d)
+
+因此，古希腊人崇拜的是并不存在的东西。
+
+ 或者甚至：
+
+(24e)
+
+因此，存在一些不存在的东西，古希腊人崇拜它。
+
+例子显示的一件事是，特定/非特定与真实/虚构不应混淆。（24a）是一个真实的特定归属，就像“古希腊人崇拜阿胡拉·马兹达”是一个错误的归属一样。（24b）也是真实的。因此，古希腊人犯了一个相当大的错误，如果其中一个是一个熟悉的错误。
+
+如果我们在这个背景下小心地考虑“不存在”的含义，（24c）也是真实的。宙斯神话的形成是有可能的，我们可能是指（24c）的一种意义是，如果关于虚构和神话人物的虚构和神话存在，那么虚构和神话人物就存在。从这个意义上说，（24c）是错误的，尽管如果没有宙斯神话，实际的虚构人物如宙斯就不会存在。这也解释了为什么（24a）和（24b）都可以是真实的：“宙斯”指的是神话人物，一个有条件存在的抽象对象。
+
+然而，（24c）更有可能的解读是指神话人物不是真实的。宙斯不是血肉之躯，甚至不是非物质的血肉之躯。考虑到这一点，（24d）和（24e）都是真实的。量词“某物”涵盖了一个包括真实和虚构或神话实体的领域，在那个领域中有一些东西，即神话人物，古希腊人崇拜的对象，不属于真实物品的子领域。
+
+这样可以为（24）中的陈述得到正确的真值，但可能会被认为在类似于“宙斯住在奥林匹斯山”的陈述中遇到麻烦：如果“宙斯”指的是一个抽象对象，那么宙斯怎么可能住在任何地方呢？处理这种情况的一种方式是假设，显然是合理的，即说“宙斯住在奥林匹斯山”的人并且了解事实的人的意思是
+
+(25)
+
+根据神话，宙斯住在奥林匹斯山。
+
+另一方面，如果一个古希腊信徒说“宙斯住在奥林匹斯山”，他或她说的是假话，在这种情况下没有理由假设一个隐藏的“根据神话”。
+
+然而，即使暗中操作者理论可能会受到质疑，理由是在其范围内，我们仍然将“生活在奥林匹斯山上”这一概念应用于一个抽象对象上，这是无法理解的。仅仅在无法理解的前面加上“根据神话”并不能使其变得可理解。但显而易见的事实是，（25）既可理解又正确。因此，要么在无法理解的前面加上“根据神话”可以使其变得可理解，要么嵌入句中所发生的事情不能被解释为标准的断言。有关这些问题的进一步讨论，请参见van Inwagen 1977、Parsons 1980、Zalta 1988、Thomasson 1998和Salmon 2002等文献。
+
+
+## Bibliography
+
+* Almog, J., 1998, “The Subject Verb Object Class I”, *Philosophical Perspectives*, 12: 39–76.
+* Asher, N., 1987, “A Typology for Attitude Verbs”, *Linguistics and Philosophy*, 10: 125–1976.
+* Carnap, R., 1947, *Meaning and Necessity*, Chicago: University of Chicago Press.
+* Cohen, A., 1999, *Think Generic!*, Stanford: CSLI Publications.
+* Crimmins, M., 1992, *Talk About Belief*, Cambridge, MA: The MIT Press.
+* Davidson, D., 1969, “On Saying That”, in *Words and Objections: Essays on the Work of W. V. Quine*, D. Davidson and J. Hintikka (ed.), Dordrecht: Reidel: 158–174.
+* Davidson, D., 1967, “The Logical Form of Action Sentences”, in *The Logic of Decision and Action*, N. Rescher (ed.), Pittsburgh: University of Pittsburgh Press. Reprinted in *Essays on Actions and Events* by Donald Davidson. Oxford: Oxford University Press 1980, pp. 105–121.
+* den Dikken, M., R. Larson and P. Ludlow, 1996, “Intensional ‘Transitive’ Verbs and Concealed Complement Clauses”, *Rivista di Linguistica*, 8: 331–348; also (slightly abridged) in *Readings in the Philosophy of Language* P. Ludlow (ed.), Cambridge, MA: The MIT Press 1997, 1041–1053.
+* –––, 2018, “Intensional Transitive Verbs and Abstract Clausal Complementation”. In *Non-Propositional Intentionality*, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 46–94.
+* Dowty, D., R. Wall, and S. Peters, 1981, *Introduction to Montague Semantics*, Dordrecht: Kluwer Academic Publishers.
+* Forbes, G., 2000, “Objectual Attitudes”, *Linguistics and Philosophy*, 23(2): 141–183.
+* –––, 2006, *Attitude Problems*, Oxford and New York: Oxford University Press.
+* –––, 2018, “Content and Theme in Attitude Ascriptions”, in *Non-Propositional Intentionality*, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 114–133.
+* Fox, D., 2007, “Free Choice and the Theory of Scalar Implicatures”, in *Presupposition and Implicature in Compositional Semantics*, U. Sauerland and P. Stateva (ed.), New York: Palgrave Macmillan, 537–586.
+* Gluer, K. and P. Pagin, 2012, “General Terms and Relational Modality”, *Noûs*, 46(1): 159–199.
+* Graff Fara, Delia, 2013, “Specifying Desires”, *Noûs*, 47(2): 250–272.
+* Grzankowski, A., 2018, “A Theory of Non-Propositional Attitudes”, in *Non-Propositional Intentionality*, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 134–151.
+* Harley, H., 2004, “Wanting, Having and Getting: A Note on Fodor and Lepore 1998”, *Linguistic Inquiry*, 35(2): 255–267.
+* Heim, I. and A. Kratzer, 1998, *Semantics in Generative Grammar*, Oxford and New York: Basil Blackwell.
+* van Inwagen, Peter, 1977, “Creatures of Fiction”, *American Philosophical Quarterly*, 14: 299–308.
+* Jennings, R. E., 1994, *The Genealogy of Disjunction*, Oxford and New York: Oxford University Press.
+* Kamp, H., 1973, “Free Choice Permission”, *Proceedings of the Aristotelian Society*, 74: 57–94.
+* Kaplan, D., 1986, “Opacity”, in *The Philosophy of W. V. Quine*, L. E. Hahn and P. A. Schilpp (ed.), LaSalle: Open Court, 229–289.
+* Keenan, E., 2003, “The Definiteness Effect: Semantic or Pragmatic?” *Natural Language Semantics*, 11: 187–216.
+* King, J., 2002, “Designating Propositions”, *The Philosophical Review*, 111(3): 341–371.
+* Kripke, S., 1972, “Naming and Necessity”, in *Semantics of Natural Language*, D. Davidson and G. Harman (ed.), Dordrecht: Reidel Publishing Company, 252–355. Reprinted as *Naming and Necessity* by Saul Kripke, Oxford: Basil Blackwell, 1980.
+* Larson, R., 2001, “The Grammar of Intensionality”, in *Logical Form and Natural Language*, G. Preyer and G. Peter (ed.), Oxford and New York: Oxford University Press, 228–262.
+* Leslie, S-J., 2008, “Generics: Cognition and Acquisition”, *The Philosophical Review*, 117(1): 1–47.
+* Lewis, D., 1972, “General Semantics”, in *Semantics of Natural Language*, D. Davidson and G. Harman (ed.), Dordrecht: Reidel: 169–218.
+* Loewer, B., 1976, “Counterfactuals with Disjunctive Antecedents”, *The Journal of Philosophy*, 73: 531–537.
+* Makinson, D., 1984, “Stenius’ Approach to Disjunctive Permission”, *Theoria*, 50: 138–147.
+* Moltmann, F., 1997, “Intensional Verbs and Quantifiers”, *Natural Language Semantics*, 5(1): 1–52.
+* –––, 2008, “Intensional Verbs and Their Intentional Objects”, *Natural Language Semantics*, 16(3): 239–270.
+* Montague, M., 2007, “Against Propositionalism”, *Noûs*, 41: 503–518.
+* Montague, R., 1973, “The Proper Treatment of Quantification in Ordinary English”, in *Approaches to Natural Language*, J. Hintikka, J. Moravcsik and P. Suppes(ed.), Dordrecht: Reidel Publishing Company. Also in Montague 1974: 242–270.
+* –––, 1974, *Formal Philosophy: Selected Papers of Richard Montague*, edited by Richmond Thomason, New Haven and London: Yale University Press.
+* Muskens, R., 2005, “Sense and the Computation of Reference”, *Linguistics and Philosophy*, 29(4): 473–504.
+* Nebel, J., 2019, “Hopes, Fears and Other Grammatical Scarecrows”, *The Philosophical Review*, 128(1): 63–105.
+* Parsons, T., 1980, *Nonexistent Objects*, New Haven: Yale University Press.
+* –––, 1990, *Events in the Semantics of English*, Cambridge, MA: The MIT Press.
+* –––, 1997, “Meaning Sensitivity and Grammatical Structure”, in *Structures and Norms in Science*, M. L. Dalla Chiara, K. Doets, D. Mundici and J. v. Benthem (ed.), Dordrecht: Kluwer Academic Publishers: 369–383.
+* Partee, B., 1974, “Opacity and Scope”, in *Semantics and Philosophy*, M. Munitz and P. Unger (ed.), New York: NYU Press, 81–101.
+* Proust, M., 1998, *À La Recherche du Temps Perdu: Combray*, adaptation and drawings by Stéphane Heuet, colors by Véronique Doray, Luçon: Delcourt.
+* Pietroski, P., 2000, “On Explaining That”, *The Journal of Philosophy*, 97(12): 655–662.
+* –––, 2005, *Events and Semantic Architecture*, Oxford and New York: Oxford University Press.
+* Prior, A. N., 1963, “Oratio Obliqua”, *Proceedings of the Aristotelian Society, Supplementary Volume*, 37: 115–146.
+* Quine, W. V., 1956, “Quantifiers and Propositional Attitudes”, *The Philosophical Review*, 53: 177–187.
+* Richard, M., 2001, “Seeking a Centaur, Adoring Adonis: Intensional Transitives and Empty Terms”, in *Figurative Language* (Midwest Studies in Philosophy Volume 25), P. French and H. Wettstein (ed.), Oxford and New York: Basil Blackwell, 103–127.
+* Sainsbury, M., 2018, *Thinking About Things*, Oxford and New York: Oxford University Press.
+* Salmon, N., 1986, *Frege’s Puzzle*, Cambridge, Mass.: The MIT Press.
+* –––, 2002, “Mythical Objects”, in J. Campbell, M. O’Rourke and D. Shier (ed.), *Meaning and Truth*, New York: Seven Bridges Press, 105–123.
+* Schwarz, F., 2006, “On *needing* Propositions and *looking for* Properties”, *Proceedings of Semantics and Linguistic Theory XVI*, M. Gibson, J. Howell (ed.), CLC Publications, Ithaca, New York, 259–276.
+* Simons, M., 2005, “Dividing Things Up: The Semantics of ‘Or’ and the Modal/‘Or’ Interaction”, *Natural Language Semantics*, 13: 271–316.
+* Thomason, R., 1980, “A Model Theory for Propositional Attitudes”, *Linguistics and Philosophy*, 4: 47–70.
+* Thomasson, A., 1998, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
+* Zalta, E., 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: The MIT Press.
+* Zimmerman, T. E., 1993, “On the Proper Treatment of Opacity in Certain Verbs”, *Natural Language Semantics*, 1: 149–179.
+* –––, 2000, “Free Choice Disjunction and Epistemic Possibility”, *Natural Language Semantics*, 8(4): 255–290.
+* –––, 2001, “Unspecificity and Intensionality”, in *Audiatur Vox Sapentiae*, C. Féry and W. Sternefeld (ed.), Berlin: Akademie Verlag.
+* –––, 2006, “Monotonicity in Opaque Verbs”, *Linguistics and Philosophy*, 29: 715–761.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intensional-trans-verbs). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/intensional-trans-verbs/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=intensional-trans-verbs&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/intensional-trans-verbs/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[compositionality](https://plato.stanford.edu/entries/compositionality/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [generic generalizations](https://plato.stanford.edu/entries/generics/) | [logic: intensional](https://plato.stanford.edu/entries/logic-intensional/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [semantics: Montague](https://plato.stanford.edu/entries/montague-semantics/)
+
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
+[Graeme Forbes](http://www.colorado.edu/philosophy/people/graeme-forbes) <[*graeme.forbes@colorado.edu*](mailto:graeme%2eforbes%40colorado%2eedu)>
