@@ -1,32 +1,30 @@
 # 伊本·西那（阿维森纳） Ibn Sina \[Avicenna] (Dimitri Gutas)
 
-*首次发布于2016年9月15日星期四*
+_首次发布于2016年9月15日星期四_
 
 阿维森纳（约公元970年至1037年）是伊斯兰世界中最杰出的哲学家和医生。他在他的作品中将希腊晚期和早期伊斯兰的哲学/科学思想融合在一起，形成了一个理性严谨且自洽的科学体系，包括了所有现实，包括揭示宗教及其神学和神秘学的原则。在科学和哲学的整体和全面表达中，它代表了希腊传统的顶峰，在希腊语中在第六世纪后消亡，在9世纪的阿拉伯语中复兴（Gutas 2004a，2010）。它在伊斯兰世界的知识生活中占主导地位，并对它产生的各种反应，从接受到修订再到驳斥，以及用类哲学构建替代品，决定了哲学、科学、宗教、神学和神秘主义的发展。从12世纪开始的拉丁翻译，阿维森纳的哲学对中世纪和文艺复兴时期的哲学家和学者产生了巨大影响，就像他的医学《医学大全》（GMed 1）的拉丁翻译一样，经常修订，成为欧洲大学的医学教学基础，直到17世纪。在伊斯兰教内的阿拉伯语犹太和基督教学者，只要他们是为自己的社区写作，而不是作为伊斯兰共和国的成员，就接受了他的大部分观点（尤其是梅蒙尼德在他的阿拉伯语《迷惑者指南》和巴尔赫布拉伊斯在他的叙利亚语《智慧之奶油》中）。欧洲的犹太社区使用了他一些作品的希伯来语翻译，尽管他们比罗马天主教徒更不愿接受，更喜欢阿维罗伊斯。 君士坦丁堡的罗马正教对国外的哲学发展漠不关心（对国内的哲学发展敌视），只是通过希腊翻译拉丁学院派的希腊翻译才知道阿维森纳的名字，这种翻译是在第四次十字军东征之后开始的。在他对西方（印度）的思想史影响方面，他仅次于亚里士多德，这在伊斯兰世界是直观承认的，他在伊斯兰世界被称为“卓越大师”（al-shaykh al-raʾīs），在亚里士多德之后，阿维森纳称之为“第一教师”（al-muʿallim al-awwal）。
 
 * [1. 生平与作品](https://plato.stanford.edu/entries/ibn-sina/#LifeWork)
-
-  * [ 1.1 生平](https://plato.stanford.edu/entries/ibn-sina/#Life)
-  * [ 1.2 作品](https://plato.stanford.edu/entries/ibn-sina/#Work)
-* [ 2. 哲学目标](https://plato.stanford.edu/entries/ibn-sina/#PhilAims)
+  * [1.1 生平](https://plato.stanford.edu/entries/ibn-sina/#Life)
+  * [1.2 作品](https://plato.stanford.edu/entries/ibn-sina/#Work)
+* [2. 哲学目标](https://plato.stanford.edu/entries/ibn-sina/#PhilAims)
 * [3. 逻辑和经验主义](https://plato.stanford.edu/entries/ibn-sina/#LogiEmpi)
 * [4. 理性灵魂的形而上学; 实践哲学](https://plato.stanford.edu/entries/ibn-sina/#MetaRatiSoulPracPhil)
-* [ 5. 结论](https://plato.stanford.edu/entries/ibn-sina/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/ibn-sina/#Bib)
-
+* [5. 结论](https://plato.stanford.edu/entries/ibn-sina/#Conc)
+* [参考文献](https://plato.stanford.edu/entries/ibn-sina/#Bib)
   * [阿维森纳的作品](https://plato.stanford.edu/entries/ibn-sina/#WorkIbnSina)
-  * [ 二手资料](https://plato.stanford.edu/entries/ibn-sina/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/ibn-sina/#Aca)
+  * [二手资料](https://plato.stanford.edu/entries/ibn-sina/#SecoSour)
+* [学术工具](https://plato.stanford.edu/entries/ibn-sina/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/ibn-sina/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ibn-sina/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/ibn-sina/#Rel)
 
----
+***
 
 ## 1. 生平与作品
 
 ### 1.1 生活
 
-在他晚年的某个时候，阿维森纳为他的学生、伴侣和抄写员阿布·乌拜德·朱兹贾尼写作或口述了他的自传，自传记录了他中年时与朱兹贾尼首次相遇的情况；朱兹贾尼在此之后继续写作并在 1037 年阿维森纳去世后的某个时间完成了这部传记。这部自传/传记复合体，还包含了书目，作为一个单一的文献传承下来（Gohlman 1974），是伊斯兰中世纪科学家和学者广泛培养的阿拉伯文学体裁的早期代表（Gutas 2015）。它也是我们对阿维森纳生平和时代最详尽的来源。根据这份文件，阿维森纳出生在布哈拉大都市郊区的一个名叫阿夫沙纳的村庄，大约在十世纪 70 年代，可能早在 964 年之前；我们无法确定他的出生年份更加精确的时间。[3]他的父亲原本来自更南方的巴尔赫，年轻时北移，显然是为了寻找（更好的）工作，他是附近地区哈尔迈坦的州长。他在波斯萨曼王朝的雇佣下工作，该王朝统治着布哈拉为首的穿越河地区和赫拉桑，家族在阿维森纳还是个孩子的时候搬到了那里。阿维森纳在那里长大并接受教育，并开始了他的哲学生涯，成为与萨曼王朝密切相关的政治圈子中受过教育的精英成员。
+在他晚年的某个时候，阿维森纳为他的学生、伴侣和抄写员阿布·乌拜德·朱兹贾尼写作或口述了他的自传，自传记录了他中年时与朱兹贾尼首次相遇的情况；朱兹贾尼在此之后继续写作并在 1037 年阿维森纳去世后的某个时间完成了这部传记。这部自传/传记复合体，还包含了书目，作为一个单一的文献传承下来（Gohlman 1974），是伊斯兰中世纪科学家和学者广泛培养的阿拉伯文学体裁的早期代表（Gutas 2015）。它也是我们对阿维森纳生平和时代最详尽的来源。根据这份文件，阿维森纳出生在布哈拉大都市郊区的一个名叫阿夫沙纳的村庄，大约在十世纪 70 年代，可能早在 964 年之前；我们无法确定他的出生年份更加精确的时间。\[3]他的父亲原本来自更南方的巴尔赫，年轻时北移，显然是为了寻找（更好的）工作，他是附近地区哈尔迈坦的州长。他在波斯萨曼王朝的雇佣下工作，该王朝统治着布哈拉为首的穿越河地区和赫拉桑，家族在阿维森纳还是个孩子的时候搬到了那里。阿维森纳在那里长大并接受教育，并开始了他的哲学生涯，成为与萨曼王朝密切相关的政治圈子中受过教育的精英成员。
 
 布哈拉位于丝绸之路的主要贸易路线之一，位于撒马尔罕和马尔瓦之间，与这些以及丝绸之路上的其他城市一样，在伊斯兰教之前就在经济和文化上非常活跃。在9世纪和10世纪的萨曼王朝统治下，他们积极推动波斯语复兴，并推广伊斯兰世界中心巴格达辐射出来的高度阿拉伯-伊斯兰文化，为艺术和科学的培养提供了一个复杂而精致的环境。萨曼王朝的宫殿图书馆允许年轻的阿维森纳访问和学习，这是因为他成功治疗了生病的统治者，图书馆收藏了各种主题的书籍，包括阿拉伯翻译的古希腊书籍，这是他从未见过也再未见过的（Gohlman 1974, 37）。这是巴格达文化、科学和哲学的结果，这是由于阿巴斯王朝在750年掌权时对政治和社会事务的理性观点以及伴随而来的希腊-阿拉伯翻译运动（Gutas 1998; Gutas 2014a, 359–62）。布哈拉并不是一个偏远的省级城市，它充满了居住和访问的学者和知识分子。
 
@@ -58,17 +56,17 @@
 14. 伊拉希亚特 / 形而上学 1. 普遍科学：作为存在的存在、第一哲学、自然神学的研究 (亚里士多德的《形而上学》) 2. 理性灵魂的形而上学 (将宗教和超自然生活现象作为理性灵魂功能的研究)
 15. 实用哲学
 16. 先知立法作为实用哲学三个部分的基础
-17. 政治（先知立法者对公共管理和继任者的规定；[柏拉图和亚里士多德的政治书]）
-18. 家庭管理（先知立法者对家庭法的规定；[布莱森的《经济学》和其他相关书籍]）
-19. 伦理学（由哈里发立法；[亚里士多德的Nicomachean Ethics]）[4]
+17. 政治（先知立法者对公共管理和继任者的规定；\[柏拉图和亚里士多德的政治书]）
+18. 家庭管理（先知立法者对家庭法的规定；\[布莱森的《经济学》和其他相关书籍]）
+19. 伦理学（由哈里发立法；\[亚里士多德的Nicomachean Ethics]）\[4]
 
 阿维森纳并没有在他的每一部总集中都涉及所有这些主题，而是根据他撰写它们的具体目的来变化其内容和重点。他发展了一种灵活的阿拉伯散文风格，包括技术性的哲学术语，这种风格从此成为标准。在《治疗》之后，他被要求写一篇关于哲学主题的简短论述，他通过收集和组合他早期的著作材料，有时甚至拼接在一起，创作了《救赎》（al-Najāt）。这次他用波斯语为他的赞助人卡库伊德·阿拉·阿德·道拉创作了《阿拉的哲学》（Dāneshnāme-ye ʿAlāʾī, GS 7）。在这两本书中，他省略了数学科学和实践哲学的主题，只有前者后来由朱兹贾尼在阿维森纳早期著作的基础上，先用阿拉伯语，然后用波斯语进行补充。
 
-在阿维森纳生命的最后阶段，他以稍有不同的方式写了两本总论。其中一本他称之为《东方哲学》（al-Mashriqiyyūn或al-Ḥikma al-mashriqiyya, GS 8），以反映他自己所在的东方伊斯兰世界的地理位置，即更广泛的库拉桑（mashriq），他集中讨论了逻辑、物理学和形而上学中“研究者存在分歧的问题”，但不包括数学或实践哲学的主题（除了他引入的先知立法；见下文），因为对它们的争议很少。他的方法是教义性的，而不是历史性的，正如他所说的，“真正哲学的基本要素是由一个经过深入研究、反思良久的人发现的”，并且具有几乎完美的演绎能力，即他自己（GS 8，第2页和第4页；翻译和分析Gutas 2014a，35-40；Gutas 2000）。在第二本，也是他最后的总论中，他与传统的表达方式有更大的差异，并发展出一种暗示性和提示性的风格，他称之为“指示和提醒”（al-Ishārāt wa-l-tanbīhāt，GS 9）。他借用了晚期古代亚里士多德评论传统的主题，解释亚里士多德为什么采用了一种隐晦的写作风格，目的是通过提供不完整的论证和完全表达的理论，而只提供指示和提醒，来训练学生，学生将自行完成它们。这本书分为两部分，第一部分涉及逻辑，第二部分涉及物理学、形而上学和理性灵魂的形而上学。它以简洁而常常含糊不清的陈述成为他成熟哲学的重要表达，备受欢迎，并成为几个世纪以来反复评论的对象，显然这正是阿维森纳的意图。这是一本难懂的作品，必须始终通过对《治愈》中阿维森纳理论更明确的阐述的不断参考来理解。 传统上，除了与法赫尔·阿迪·拉齐和尤其是纳西尔·阿迪·图西的评论一起阅读外，它很少被阅读。[ 5]
+在阿维森纳生命的最后阶段，他以稍有不同的方式写了两本总论。其中一本他称之为《东方哲学》（al-Mashriqiyyūn或al-Ḥikma al-mashriqiyya, GS 8），以反映他自己所在的东方伊斯兰世界的地理位置，即更广泛的库拉桑（mashriq），他集中讨论了逻辑、物理学和形而上学中“研究者存在分歧的问题”，但不包括数学或实践哲学的主题（除了他引入的先知立法；见下文），因为对它们的争议很少。他的方法是教义性的，而不是历史性的，正如他所说的，“真正哲学的基本要素是由一个经过深入研究、反思良久的人发现的”，并且具有几乎完美的演绎能力，即他自己（GS 8，第2页和第4页；翻译和分析Gutas 2014a，35-40；Gutas 2000）。在第二本，也是他最后的总论中，他与传统的表达方式有更大的差异，并发展出一种暗示性和提示性的风格，他称之为“指示和提醒”（al-Ishārāt wa-l-tanbīhāt，GS 9）。他借用了晚期古代亚里士多德评论传统的主题，解释亚里士多德为什么采用了一种隐晦的写作风格，目的是通过提供不完整的论证和完全表达的理论，而只提供指示和提醒，来训练学生，学生将自行完成它们。这本书分为两部分，第一部分涉及逻辑，第二部分涉及物理学、形而上学和理性灵魂的形而上学。它以简洁而常常含糊不清的陈述成为他成熟哲学的重要表达，备受欢迎，并成为几个世纪以来反复评论的对象，显然这正是阿维森纳的意图。这是一本难懂的作品，必须始终通过对《治愈》中阿维森纳理论更明确的阐述的不断参考来理解。 传统上，除了与法赫尔·阿迪·拉齐和尤其是纳西尔·阿迪·图西的评论一起阅读外，它很少被阅读。\[ 5]
 
 除了总结之外，阿维森纳还全面地撰写了关于哲学的两部重要且庞大的作品，每部约有二十卷，现已失传。第一部是他年轻时对亚里士多德著作的评论，他是应邻居巴拉基的委托而写的，如上所述，《哲学的可得和有效性》。第二部《公正的判断》（GS 11）于 1029 年创作，是对整个亚里士多德著作中“困难段落”的详细评论，其中甚至包括可疑的亚里士多德神学（实际上是普罗提诺斯的《恩尼阿德》第四至第六篇）。标题指的是阿维森纳通过提出支持后者的论点来裁决传统亚里士多德解释学派和阿维森纳自己观点之间的争议。正如阿维森纳解释他的标题：“我将学者们分为两组，西方人（希腊的评论传统和巴格达的亚里士多德学派）和东方人（阿维森纳的立场），当他们之间真正存在争议时，我会公正地介入裁决”（GS 14，375；翻译 Gutas 2014a，145）。不幸的是，这本书在某次军事撤退中丢失了，只有亚里士多德《形而上学》书Λ的评论幸存下来（GS 11a；Geoffroy 等人 2014），以及他对亚里士多德神学的两个不完整版本的评论（GS 11b；Vajda 1951）。一些关于《灵魂论》的边注，作为手抄本独立保存下来，采用了相同的方法，明显属于同一时期和项目（GS 11c；Gutas 2004b）。
 
-阿维森纳撰写的关于各个主题的独立论文涉及大多数主题，尤其是他的赞助商和他特别感兴趣的主题，特别是逻辑、灵魂和理性灵魂的形而上学。为了吸引更广泛的受众，他用两个寓言表达了他关于理性灵魂的理论，分别是《活着的儿子》（Ḥayy b. Yaqẓān, GM 7; Goichon 1959）和《鸟》（GM 8; Heath 1990），他还用诗歌形式表达了其他观点：《神圣的珍珠》（al-Jumāna al-ilāhiyya）关于上帝的唯一性和 334 节的创造（GM 9），《逻辑学》诗歌形式，290 行（GL 4），以及一些关于医学主题的诗歌，尤其是他的《医学》诗歌形式，1326 行（GMed 27），这些都受到了阿维罗伊斯的评论。此外，他还与学者们进行了长时间的通信，他们向他提出了特定问题或质疑；值得注意的是，他回答了伯鲁尼提出的问题[GP 8]，伯鲁尼是他那个时代的另一个科学天才，问题涉及亚里士多德的物理学和宇宙学，尤其是他的两个遗作编纂，以《笔记》（GS 12a）和《讨论》（GS 14）为题的回应和讨论。他还写了一些类似公开信的东西，描绘了他所涉及的争议，并寻求仲裁或驳斥对他的诽谤指控（GPW 1–3）。
+阿维森纳撰写的关于各个主题的独立论文涉及大多数主题，尤其是他的赞助商和他特别感兴趣的主题，特别是逻辑、灵魂和理性灵魂的形而上学。为了吸引更广泛的受众，他用两个寓言表达了他关于理性灵魂的理论，分别是《活着的儿子》（Ḥayy b. Yaqẓān, GM 7; Goichon 1959）和《鸟》（GM 8; Heath 1990），他还用诗歌形式表达了其他观点：《神圣的珍珠》（al-Jumāna al-ilāhiyya）关于上帝的唯一性和 334 节的创造（GM 9），《逻辑学》诗歌形式，290 行（GL 4），以及一些关于医学主题的诗歌，尤其是他的《医学》诗歌形式，1326 行（GMed 27），这些都受到了阿维罗伊斯的评论。此外，他还与学者们进行了长时间的通信，他们向他提出了特定问题或质疑；值得注意的是，他回答了伯鲁尼提出的问题\[GP 8]，伯鲁尼是他那个时代的另一个科学天才，问题涉及亚里士多德的物理学和宇宙学，尤其是他的两个遗作编纂，以《笔记》（GS 12a）和《讨论》（GS 14）为题的回应和讨论。他还写了一些类似公开信的东西，描绘了他所涉及的争议，并寻求仲裁或驳斥对他的诽谤指控（GPW 1–3）。
 
 阿维森纳将他的哲学融入生活，并希望将其传播到个人环境所需之外，作为公众眼中的知识分子，他用不同的作品风格和语言风格写作。他的目的是触及所有（有文化的）社会层面，同时也着眼于后世。他的影响力在其抱负的全球化中得到体现，就像他的体系的全面性一样；历史证明了他的正确性。
 
@@ -78,7 +76,7 @@
 
 第一个任务的实施，将所有哲学视为一个统一整体的处理，尽管在历史上似乎是不可实现的，但阿维森纳几乎毫不费力地完成了这个任务。亚里士多德本人就站在这个过程的最开始。他明确地有一个关于所有哲学的统一概念，可以基于《后分析》中所阐述的逻辑结构来系统地呈现（Barnes 1994，第xii页），而他在《形而上学》E1和K7中对科学的分类则显示了这样一个系统呈现的大纲。在他公元前322年去世后的希腊化时期（公元前336-31年）的哲学声音和体系的多声部中，他的建议大多未被亚里士多德学派所听从，只有在那个时期的最后，罗得的安德洛尼库斯才按照他在第一版中所编排的亚里士多德学派论文（他现存的著作集）的顺序来遵循他的建议。在随后的几个世纪中，当多声部逐渐减少为只有两个声音，即柏拉图派和亚里士多德派，由于政治原因（为了对抗迅速基督教化的罗马帝国的“神圣”声音），这两个声音最终必须被呈现为一个声音，回到两位大师的文本（ad fontes）进行辩护的倾向加强了，这种倾向甚至在基督教统治之前就已经开始。因此，虽然继续将哲学的不同部分分类呈现为一个潜在的哲学总汇的虚拟蓝图，但哲学论述的主要形式是关于一个或多个相关主题的个别论文，以及对“神圣”柏拉图和到了六世纪也包括“神圣”亚里士多德著作的评论。当哲学在大约两个世纪的间断后复苏时（约公元 公元600年至800年之间，随着阿拉伯语的翻译和解释，这些作曲实践再次出现了（Gutas 2004a）。但是，哲学现在所处的社会背景已经发生了变化。在阿巴斯王朝早期，伊斯兰近东和远东的有文化人口对哲学持有积极的态度，将其视为一种理性科学体系，并且对这个体系的不同部分——哲学课程——有广泛的了解，尽管不是详细了解。因此，像阿维森纳在布哈拉的邻居阿布·哈桑·艾哈迈德·本·阿卜杜拉·阿鲁迪（我给出他的全名是因为他值得在哲学史中被注意到）这样受过教育的外行人对拥有并阅读一本关于整个学科的全面介绍感兴趣，并委托年轻的阿维森纳写作这样一本著作是可能的，甚至是预期的。阿维森纳答应了这个请求，于是第一本哲学总论诞生了，它以亚里士多德传统中分类的逻辑和理论哲学的所有分支为对象，在一本书的封面内以系统和一致的方式进行了论述。当然，阿维森纳能够创作出这样一部作品（并从此以后再次重复七次）是对他天才的致敬（无论是当时还是现在，这一点都得到了普遍的认可），但是这一请求来自他的社会，这是对其文化态度的有力证据，即对科学的态度。
 
-哲学总汇的创作——不仅是对于阿鲁迪来说的这个首部作品，尤其是主要作品《治疗》以及引人入胜且充满暗示的《指引与提醒》——产生了重大的影响。它首次向世界呈现了一个全面、统一且内部自洽的现实描述，以及验证它的方法工具（逻辑）——它呈现了一个科学体系作为一种世界观，由于其自我验证的特性，很难抗拒甚至反驳。这对于研究哲学和传播哲学是有益的。但是，出于同样的原因，以及其本质，这种世界观如此明确地呈现、记录和验证，使其与社会中持有不同世界观的其他意识形态相对立。在此之前，关于离散主题和深奥注释的哲学论文，作为哲学话语的两种主导形式，正如前面所提到的，只是专家们关心的问题，并不能声称或获得整个社会的支持或归属；而哲学总汇却可以。而阿维森纳以不同的风格和体裁撰写，以便尽可能地触及更多的人，正如前面所提到的，这显然是他的明确意图。因此，他的哲学体系在什叶派和大部分逊尼派伊斯兰教中占据了主导地位（Gutas 2002），并通过引发的各种反应，决定并现在可以解释哲学、神学和神秘主义的发展，并产生了几个可以称为“拟哲学”的领域：使用哲学话语来表达（或隐藏）伊斯兰内容的神学（al-Ghazālī及其追随者和模仿者的传统），“哲学”神秘主义（被称为“最伟大的大师”[al-Shaykh al-Akbar]的Ibn al-ʿArabī的传统，以与阿维森纳的“卓越大师”[al-Shaykh al-Raʾīs]相媲美），神秘主义、数字学、字母学。
+哲学总汇的创作——不仅是对于阿鲁迪来说的这个首部作品，尤其是主要作品《治疗》以及引人入胜且充满暗示的《指引与提醒》——产生了重大的影响。它首次向世界呈现了一个全面、统一且内部自洽的现实描述，以及验证它的方法工具（逻辑）——它呈现了一个科学体系作为一种世界观，由于其自我验证的特性，很难抗拒甚至反驳。这对于研究哲学和传播哲学是有益的。但是，出于同样的原因，以及其本质，这种世界观如此明确地呈现、记录和验证，使其与社会中持有不同世界观的其他意识形态相对立。在此之前，关于离散主题和深奥注释的哲学论文，作为哲学话语的两种主导形式，正如前面所提到的，只是专家们关心的问题，并不能声称或获得整个社会的支持或归属；而哲学总汇却可以。而阿维森纳以不同的风格和体裁撰写，以便尽可能地触及更多的人，正如前面所提到的，这显然是他的明确意图。因此，他的哲学体系在什叶派和大部分逊尼派伊斯兰教中占据了主导地位（Gutas 2002），并通过引发的各种反应，决定并现在可以解释哲学、神学和神秘主义的发展，并产生了几个可以称为“拟哲学”的领域：使用哲学话语来表达（或隐藏）伊斯兰内容的神学（al-Ghazālī及其追随者和模仿者的传统），“哲学”神秘主义（被称为“最伟大的大师”\[al-Shaykh al-Akbar]的Ibn al-ʿArabī的传统，以与阿维森纳的“卓越大师”\[al-Shaykh al-Raʾīs]相媲美），神秘主义、数字学、字母学。
 
 完成第一个任务必然涉及第二个任务，使哲学保持最新状态。阿维森纳所接受的哲学知识既不完整也不一致。他无法获得有关他与亚里士多德之间1330年哲学运动的所有信息，即使是现在我们对此有非常有限的了解（阿维森纳自己给出了这个相当准确的数字），但他可以将整个传统视为基本上是亚里士多德主义的。阿拉伯语中只有柏拉图的简短摘录、伽莲的摘要、格言以及亚里士多德和伽莲的二手报道（Gutas 2012a），因此阿维森纳可以将柏拉图排除在外。他对古代较小的哲学学派——斯多葛派、伊壁鸠鲁派、怀疑派和毕达哥拉斯派——几乎只知道他们的名字以及与他们有关的某些基本观点或格言。我们所称的新柏拉图主义者，他将他们视为亚里士多德的评论家，连普罗提诺斯和普罗克鲁斯也是以亚里士多德的名义在他面前以翻译的摘录形式出现，分别是《亚里士多德的神学》和《纯善》。然而，这些传统中的来源在实质和时间上都存在严重的不一致和分歧，更不用说时代错误，而即使是亚里士多德自己的作品也存在矛盾和不完整的处理。此外，阿维森纳之前的伊斯兰传统也同样不一致，它由折衷主义者阿尔-金迪及其弟子、巴格达的亚里士多德主义者和独特的拉齐斯（阿维森纳甚至对他作为医生的能力都不怎么看好）代表。还应该加上各种穆塔齐派的哲学上精通的神学家（其中最著名的代表之一，法官阿卜杜勒-贾巴尔，阿维森纳可能在1013年至1015年间在雷伊相遇）。 面对这种情况，阿维森纳给自己设定了一个任务，即修订和更新哲学，作为一个内部自洽且完整的系统，能解释一切现实并在逻辑上可验证，通过纠正传统中的错误，删除不可持续的论证和命题，加强其他论点的焦点，并扩展和增加需要讨论的主题。如果他的系统要涵盖所有现实，那么在哲学的理论和实践部分中最迫切需要添加的领域是宗教生活和超自然事件的所有表现。正如他所说，“他的继承者有责任收集他留下的松散的线索，修复他所建构的任何破损，并为他提出的基本原理提供推论”（GS 8, 2–3; transl. Gutas 2014a, 36）。
 
@@ -102,7 +100,7 @@
 
 阿维森纳的理性主义经验主义是他在哲学上一方面努力完善和精细调整逻辑方法，另一方面以前所未有的复杂和精确程度研究人类（理性）灵魂和通过理性经验方法提供知识的认知过程的主要原因。在众多作品的章节中，他不仅分析形式逻辑的问题，还分析了理性灵魂获得知识的机制，特别是在找到中间项的过程中起作用的条件：如何为之努力，从何处寻找，以及灵魂的装置和操作如何产生这种结果（Gutas 2001）。这涉及对灵魂在其整体和所有功能（无论是理性的、动物的还是植物的）的详细研究。他详细描述了所有感官的运作，包括五个外部感官和位于大脑中的五个内部感官——共同感觉、意象（存储事物的形式）、想象力、估计（判断我们对感知对象的无法感知的意义或内涵，如友谊和敌意，也包括本能感知）和记忆——以及它们如何帮助或阻碍智力找到中间项和更普遍地感知智性事物。 当在刚刚描述的所有这些操作的最后，智力碰巧找到一个中间术语或者只是察觉到一个之前没有考虑过的可理解的东西时，它就获得了所涉及的可理解的东西（因此，智力的这个阶段被称为“获得的智力”，al-ʿaql al-mustafād），或者换句话说，从永恒且非时态地思考它的能动智力那里获得了它，因为能动智力实际上是所有可理解的所在之处，没有其他地方可以让它们始终实际存在。人类智力可以思考一个可理解的东西一段时间，但然后它会消失，因为非物质的智力不可能“存储”它，或者对它有记忆，与两个内部感官——意象和记忆相反，它们对它们特定的对象（形式和内涵属性）具有存储功能，因为它们在大脑中有一个物质基础。阿维森纳将这种获得或理解可理解的过程称为人类和能动智力之间的“接触”（ittiṣāl）。在他从新柏拉图主义传统中继承并融入他对宇宙同心球体及其相互交流的智力和灵魂的宇宙学理解中，他将知识从上界世界流向人类智力的过程称为“神圣的流露”（al-fayḍ al-ilāhī）。之所以这一切都可能，再次是因为所有智力，无论是人类的还是天体的，都具有同质性和同类性。只是，如前所述，由于它们的不同情况，后者直接、永久且非时态地思考可理解的东西，而人类智力必须通过技术手段从潜在性到实际性在时间上前进，同时受到灵魂和身体的所有其他能力的帮助，以发现中间术语。
 
-这种通过人类智力获得知识的措辞本身——“与主动智力接触”或接收“神圣流动”——误导了阿维森纳的学生，使他们认为这种知识从神圣到人类智力的“流动”是自动的，是由上帝的恩典，或者是无法言喻和神秘的。但这是没有根据的；这种“流动”并没有神秘之处；它只是意味着对于寻求中间项或其他可理解事物的人类智力来说，这些可理解事物是永久可用的，通过抽象和演绎推理的思维过程的最后。阿维森纳非常明确地指出，人类智力需要准备好并要求找到一个中间项，或积极寻求一个可理解事物，以便接收它。他明确表示：“主动原则[即主动智力]根据灵魂的需求，将形式一次又一次地流向[人类理性]灵魂；当灵魂背离它[主动智力]时，流动就中断了”（GS 5，De anima，245-246；翻译Gutas 2014a，377；参见Hasse 2013，118）。
+这种通过人类智力获得知识的措辞本身——“与主动智力接触”或接收“神圣流动”——误导了阿维森纳的学生，使他们认为这种知识从神圣到人类智力的“流动”是自动的，是由上帝的恩典，或者是无法言喻和神秘的。但这是没有根据的；这种“流动”并没有神秘之处；它只是意味着对于寻求中间项或其他可理解事物的人类智力来说，这些可理解事物是永久可用的，通过抽象和演绎推理的思维过程的最后。阿维森纳非常明确地指出，人类智力需要准备好并要求找到一个中间项，或积极寻求一个可理解事物，以便接收它。他明确表示：“主动原则\[即主动智力]根据灵魂的需求，将形式一次又一次地流向\[人类理性]灵魂；当灵魂背离它\[主动智力]时，流动就中断了”（GS 5，De anima，245-246；翻译Gutas 2014a，377；参见Hasse 2013，118）。
 
 同样适用于来自超自然世界的其他形式的交流。对于先知而言，他获得了包括知识在内的所有可理解的事物，其中包括中间术语，如前所述，因为他的理性灵魂的智力能力非常高，能够找到中间术语并获得可理解的事物；这种能力与同样高度发达的内在想象力相结合，可以将这种理性知识转化为语言和图像（以启示书的形式），以便大多数人能够轻松理解。但除了可理解的知识之外，来自智力和天体灵魂的神圣流露还包括关于地球上的事件的信息，包括过去、现在和未来，阿维森纳称之为“看不见的”（al-ghayb），所有这些都由智力和天体灵魂直接负责。这些信息也可以以各种形式被人类接收，例如清醒或睡梦中的梦境、幻象、传递给占卜者的信息，这取决于接收者体液平衡的水平、内外感官的正常功能以及其智力的准备程度。例如，内在想象力或估计能力过度活跃的人可能会因此在清晰接收梦境图像方面受到阻碍，以至于他的梦境需要解释，而不受此类困扰的其他人可能会得到更清晰的信息；或者一个希望获得关于未来信息的占卜者必须长时间而努力地奔跑，以通过努力带来这种体液平衡，从而使他的智力准备好接收信息。
 
@@ -114,7 +112,7 @@
 
 书籍 10，第 1 章：天体对世界的影响：灵感，梦境，祈祷，天体惩罚，预言，占星术。
 
-在宗教的社会方面，他在实践哲学中增加了第四个分支（除了伦理学，家庭管理和政治学之外），他称之为“立法学”（al-ṣināʿa al-shāriʿa，Kaya 2012; Kaya 2014; Gutas 2014a, 470–471, 497）。如上所述，先知通过他极其发达的推理能力，能够一次或几乎同时获得所有知识（由主动智力实际思考的所有可理解的东西）。“这种获得“不是仅仅基于权威的无批判接受[这些知识]，而是按照包括中间术语的顺序进行的：因为关于那些仅通过它们的原因而被认识的事物的权威接受的信念没有智力上的确定性”（GS 5，De anima，249–250; transl. Gutas 2014a, 183–184）。凭借这种安全和经过推理验证的知识，先知就能够立法和调节社会生活，并获得合法的获得同意的基础。实践哲学的所有部分的主题也在《治疗》的最后简要涵盖如下：
+在宗教的社会方面，他在实践哲学中增加了第四个分支（除了伦理学，家庭管理和政治学之外），他称之为“立法学”（al-ṣināʿa al-shāriʿa，Kaya 2012; Kaya 2014; Gutas 2014a, 470–471, 497）。如上所述，先知通过他极其发达的推理能力，能够一次或几乎同时获得所有知识（由主动智力实际思考的所有可理解的东西）。“这种获得“不是仅仅基于权威的无批判接受\[这些知识]，而是按照包括中间术语的顺序进行的：因为关于那些仅通过它们的原因而被认识的事物的权威接受的信念没有智力上的确定性”（GS 5，De anima，249–250; transl. Gutas 2014a, 183–184）。凭借这种安全和经过推理验证的知识，先知就能够立法和调节社会生活，并获得合法的获得同意的基础。实践哲学的所有部分的主题也在《治疗》的最后简要涵盖如下：
 
 书籍 10，第 2 章：基于对法律的需求的预言的证明，由先知立法者制定，以调节对人类生存至关重要的社会生活。
 
@@ -130,7 +128,7 @@
 
 阿维森纳将他继承的各种哲学思想——希腊传统和伊斯兰教内哲学和神学的发展——综合成一个自洽的科学体系，解释了一切现实。他的科学建筑基于亚里士多德的物理学和形而上学，以托勒密宇宙学为背景，加上新柏拉图主义的发散论，这些都经过了他的修订、重新思考和批判性评估。他的成就在于将这些不同的部分融合成一个合理的整体，特别是在逻辑上论证了亚月界和超月界之间的可理解关系。因此，这个系统既是一个研究计划，也是一个世界观。
 
-亚里士多德伦理学为这个体系提供了基础。阿维森纳构思并实现他的科学体系的动机是基于亚里士多德关于幸福的概念，即幸福是区别人类与其他有机生命的活动，是心智的活动（X.7, 1177b19–25）：“智力的活动被认为是通过辛勤工作（spoudê, ijtihād）来区别的，因为它运用理论，并且它并不渴望任何其他目标，只追求自身；它有自己的快乐……完全的幸福（eudaimonia, saʿāda）就是这样。”阿维森纳完全赞同这种对人类幸福的看法，并将其扩展为下一世界幸福的基础，事实上，他将其作为下一世界幸福的先决条件。只有在身体中过着沉思的生活，才能准备好智力，智力必须使用肉体的外部和内部感官来获取知识，并获得思考智性事物的倾向，以便在死后过上沉思的生活。通过这种方式理解人生的目标，阿维森纳再次忠于亚里士多德关于神圣幸福的观点，即思考者、思考和思想的一致性（形而上学XII.7, 1072b18–26）。阿维森纳用亚里士多德的话来解释这段话，如下所示：“至于最重要的‘理解（noêsis, fahm）本身，它是关于自身最好的事物’；至于‘理解自身的事物，它是’智力的本质‘，因为它立即变得可理解’，就像‘触摸它’一样，例如。‘而智力’，即智力的本质，‘和可理解的事物在本质上是一样的’，与自身相关。” “如果神的状态总是像我们有时候的状态一样，那就太神奇了；如果更多，那就更加神奇”（Geoffroy 等人，2014 年，59 页）。[ 9]
+亚里士多德伦理学为这个体系提供了基础。阿维森纳构思并实现他的科学体系的动机是基于亚里士多德关于幸福的概念，即幸福是区别人类与其他有机生命的活动，是心智的活动（X.7, 1177b19–25）：“智力的活动被认为是通过辛勤工作（spoudê, ijtihād）来区别的，因为它运用理论，并且它并不渴望任何其他目标，只追求自身；它有自己的快乐……完全的幸福（eudaimonia, saʿāda）就是这样。”阿维森纳完全赞同这种对人类幸福的看法，并将其扩展为下一世界幸福的基础，事实上，他将其作为下一世界幸福的先决条件。只有在身体中过着沉思的生活，才能准备好智力，智力必须使用肉体的外部和内部感官来获取知识，并获得思考智性事物的倾向，以便在死后过上沉思的生活。通过这种方式理解人生的目标，阿维森纳再次忠于亚里士多德关于神圣幸福的观点，即思考者、思考和思想的一致性（形而上学XII.7, 1072b18–26）。阿维森纳用亚里士多德的话来解释这段话，如下所示：“至于最重要的‘理解（noêsis, fahm）本身，它是关于自身最好的事物’；至于‘理解自身的事物，它是’智力的本质‘，因为它立即变得可理解’，就像‘触摸它’一样，例如。‘而智力’，即智力的本质，‘和可理解的事物在本质上是一样的’，与自身相关。” “如果神的状态总是像我们有时候的状态一样，那就太神奇了；如果更多，那就更加神奇”（Geoffroy 等人，2014 年，59 页）。\[ 9]
 
 阿维森纳的哲学体系中存在着深刻的伦理方面。核心概念是理性灵魂的生活：因为我们的理论智力——我们的自我——与天体智力是同质的，所以我们有宇宙的责任使我们的智力达到其最大潜力，并像天体一样行为，即思考可理解的事物（参见 Lizzini，2009 年）。因为我们（即我们的本质核心，即我们的理性灵魂）被赋予了一个身体，我们的物质性阻碍了我们无拘无束的思维，就像第一位和其他天体存在所享有的那样，我们必须通过各种方式来照顾身体，行为上的（宗教实践，道德行为）和药理学上的，以使其体液的气质达到平衡水平，这将有助于智力在此生活中的功能，并为下一个生活中的无阻碍和持续的思维，如神一样的思维，做好准备。这是一种由科学世界观所决定的人文伦理学。
 
@@ -140,119 +138,119 @@
 
 ### Works by Ibn Sina
 
-| GL 4 | *The Science of Logic, in verse* (*Urjūza fī ʿilm* *al-manṭiq*). Text in *Manṭiq* *al-mashriqiyyīn wa-l-Qaṣīda al-muzdawija, taṣnīf al-Raʾīs Abī* *ʿAlī Ibn Sīnā*, Cairo 1910, pp. 1–18. Modern Latin translation in Aug. Schmoelders, *Documenta philosophiae Arabum*, Bonn 1836, pp. 26–42. |
-| --- | --- |
-| GM 7 | *Alive, Son of Awake* (*Ḥayy* *Ibn-Yaqẓān*). Text in M.A.F. Mehren, *Traités mystiques d’Abou Alî al-Hosain b. Abdallah b. Sînâ ou d’Avicenne*, I, Leiden 1889–1899. French translation by Goichon 1959. |
-| GM 8 | *The Bird* (*al-Ṭayr*). Text in Mehren (as in GM 7), II,27–32. English translation in Heath 1990. |
-| GM 9 | *The Divine Pearl: On Professing the Unity of God* (*Al-Jumāna al-ilāhiyya fī l-tawḥīd*). No edition or translation available. |
-| GMed 1 | *The Canon of Medicine* (*al-Qānūn fī l-ṭibb*). Text in E. al-Qashsh and ʿAlī Zayʿūr, eds., *Al-Qānūn fī l-ṭibb*, 4 vols., Beirut 1413/1993. For various partial translations see Janssens 1991, 30–35, and Janssens 1999, 17–18. |
-| GMed 27 | *Medicine, in verse* (*Urjūza* *fī l-ṭibb*). Text and French translation in H. Jahier and A. Noureddine, eds., *Avicenne, Poème de la médecine*, Paris 1956. |
-| GP 8 | *Answers to Questions Posed by Bīrūnī* (*Al-Ajwiba* *ʿan masāʾil Abī Rayḥān al-Bīrūnī*). Text in S.H. Nasr and M. Mohaghegh, *Abū Reyḥān Bērūnī va Ebn-e Sīnā,* *Al-Asʾila wa-l-ajwiba*, Tehran 1352Sh/1974. English translation in R. Berjak and M. Iqbal, “Ibn Sīnā - al-Bīrūnī Correspondence,” *Islam & Science* 1 (2003) 91–98, 253–260; 2 (2004) 57–62, 181–187; 3 (2005) 57–62, 166–170. |
-| GP 10 | *Compendium on the Soul* (*Kitāb* *fī l-Nafs ʿalā sunnat al-iḫtiṣār*). Text and German translation in S. Landauer, “Die Psychologie des Ibn Sīnā,” *Zeitschrift der Deutschen Morgenländischen Gesellschaft* 29 (1875) 335–418. |
-| GPP 1 | *Piety and Sin* (*al-Birr wa-l-ithm*). The work does not survive except in some fragments of questionable provenance; see Gutas 2014a, 498. A fragment in a MS going under that title was published in ʿA.Z. Shamsaddīn, ed., *Al-Madhhab al-tarbawī* *ʿinda Ibn Sīnā*, Beirut 1988, pp. 353–368. |
-| GPW 1 | *Letter to the Scholars of Baghdad* (*Risāla ilā* *ʿUlamāʾ Baghdād yasʾaluhum al-inṣāf baynahu wa-bayna rajul Hamadhānī yaddaʿī l-ḥikma*). Text in E. Yarshater, ed., *Panj Resāle*, Tehran 1332Sh/1953, pp. 73–90. German translation in R. Arnzen, *Platonische* *Ideen in der arabischen Philosophie*, Berlin 2011, pp. 355–370. |
-| GPW 2 | *Letter to a Friend* (*R. ilā Ṣadīq  yasʾaluhu l-inṣāf baynahu wa-bayna l-Hamadhānī alladhī yaddaʿī l-ḥikma*). Text and French translation in Y. Michot, *Ibn Sînâ*. *Lettre au vizir Abû Sa‘d*, Beirut and Paris 2000. |
-| GPW 3 | *Repudiating Charges of Imitating the Qurʾān* (*R. fī Intifāʾ* *ʿammā nusiba ilayhi min muʿāraḍat al-Qurʾān*). Text and French translation in Y. Michot, “Le Riz trop cuit du Kirmânî,” in *Mélanges offerts à Hossam Elkhadem*, F. Daelemans et al., eds., *Archives et Bibliothèques de Belgique*, Numéro Spécial 83, Brussels 2007, pp. 81–129. |
-| GS 2 | *The Compilation* / *Philosophy for* *ʿArūḍī* (*al-Majmūʿ/ al-Ḥikma al-ʿArūḍiyya*). Text in M. Ṣāliḥ, *Kitāb al-Majmūʿ aw al-Ḥikma al-ʿArūḍiyya*, Beirut 1428/2007. No full translation yet available. |
-| GS 3 | *Elements of Philosophy* (*ʿUyūn al-ḥikma*). Text in ʿA. Badawī, ed., *Avicennae Fontes Sapientiae* [Mémorial Avicenne - V], Cairo 1954. No translation available. |
-| GS 5 | *The Cure* (*al-Shifāʾ*). Edition by various scholars in 22 volumes, Cairo 1952–1983. |
-| De anima | (part of *The Cure*). Text in  F. Rahman, ed., *Avicenna’s De anima*, London: Oxford University Press, 1959. No full translation available. For parts in English translation see *The Salvation*. |
-| GS 6 | *The Salvation* (*al-Najāt*). Text in M.T. Dāneshpaǰūh, ed., *Al-Najāt*, Tehran 1364Sh/[1985]. English translation of the logic part in A.Q. Ahmed, *Avicenna’s Deliverance: Logic*, Karachi: Oxford University Press, 2011. English translation of parts on the soul in F. Rahman, *Avicenna’s Psychology*. *An English Translation of* Kitāb al-Najāt,*Book II*, *Chapter VI*, London: Oxford University Press, 1952. |
-| GS 7 | *Philosophy for* *ʿAlāʾ-ad-Dawla* (*Dāneshnāme-ye* *ʿAlāʾī*). Text in M. Meshkāt, *Manṭiq* and *Ṭabīʿiyyāt*;  M. Moʿīn, *Ilāhiyyāt*; and M. Mīnovī, *Riyāḍiyyāt*, Tehran 1331Sh/[1952]. French translation in M. Achena and Henri Massé, *Le Livre de science*, Paris: Les Belles Lettres / UNESCO, ²1986. |
-| GS 8 | *The Easterners; Eastern Philosophy* (*al-Mashriqiyyūn; al-Ḥikma al-mashriqiyya*). Text in *Manṭiq al-mashriqiyyīn wa-l-Qaṣīda al-muzdawija, taṣnīf al-Raʾīs Abī* *ʿAlī Ibn Sīnā*, Cairo 1910. |
-| GS 9 | *Pointers and Reminders* (*al-Ishārāt wa-l-tanbīhāt*). Text in J. Forget, *Ibn Sīnā. Le livre des théorèmes et des avertissements*, Leiden 1892, and in M. Zāreʿī, *Al-Ishārāt wa-l-tanbīhāt li-l-Shaykh al-Raʾīs Ibn Sīnā*, Qum 1381Sh/2002. French translation in Goichon 1951; English translation in Inati 1984, 1996, and 2014. |
-| GS 10 | *The Available and the Valid* [*of Philosophy*] (*al-Ḥāṣil wa-l-maḥṣūl*). Not extant. |
-| GS 11 | *Fair Judgment* (*al-Inṣāf*). Only the following parts are extant: |
-| (a) | *Commentary on* [*Metaphysics*] *Lambda* (*Sharḥ Kitāb al-lām*). Text and French translation in Geoffroy et al. 2014. |
-| (b) | *Commentary on the Theologia Aristotelis* (*Tafsīr/Sharḥ Kitāb Uthūlūjiyā*). Text in Badawī 1947, pp. 37–74. French translation in Vajda 1951. |
-| (c) | *Marginal Glosses on Aristotle’s De anima* (*al-Taʿlīqāt ʿalā* *ḥawāšī Kitāb al-Nafs li-Arisṭūṭālīs*). Text in Badawī 1947, pp. 75–116; no translation available. |
-| GS 12a | *Notes* (*al-Taʿlīqāt*). Text in ʿA. Badawī, *Ibn Sīnā*, *al-Taʿlīqāt*, Cairo 1973. No full translation available. |
-| GS 14 | *Discussions* (*al-Mubāḥathāt*). Text in M. Bīdārfar, *Al-Mubāḥathāt*, Qum 1371Sh/1992. |
+| GL 4     | _The Science of Logic, in verse_ (_Urjūza fī ʿilm_ _al-manṭiq_). Text in _Manṭiq_ _al-mashriqiyyīn wa-l-Qaṣīda al-muzdawija, taṣnīf al-Raʾīs Abī_ _ʿAlī Ibn Sīnā_, Cairo 1910, pp. 1–18. Modern Latin translation in Aug. Schmoelders, _Documenta philosophiae Arabum_, Bonn 1836, pp. 26–42.                                                                                                                            |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| GM 7     | _Alive, Son of Awake_ (_Ḥayy_ _Ibn-Yaqẓān_). Text in M.A.F. Mehren, _Traités mystiques d’Abou Alî al-Hosain b. Abdallah b. Sînâ ou d’Avicenne_, I, Leiden 1889–1899. French translation by Goichon 1959.                                                                                                                                                                                                                 |
+| GM 8     | _The Bird_ (_al-Ṭayr_). Text in Mehren (as in GM 7), II,27–32. English translation in Heath 1990.                                                                                                                                                                                                                                                                                                                        |
+| GM 9     | _The Divine Pearl: On Professing the Unity of God_ (_Al-Jumāna al-ilāhiyya fī l-tawḥīd_). No edition or translation available.                                                                                                                                                                                                                                                                                           |
+| GMed 1   | _The Canon of Medicine_ (_al-Qānūn fī l-ṭibb_). Text in E. al-Qashsh and ʿAlī Zayʿūr, eds., _Al-Qānūn fī l-ṭibb_, 4 vols., Beirut 1413/1993. For various partial translations see Janssens 1991, 30–35, and Janssens 1999, 17–18.                                                                                                                                                                                        |
+| GMed 27  | _Medicine, in verse_ (_Urjūza_ _fī l-ṭibb_). Text and French translation in H. Jahier and A. Noureddine, eds., _Avicenne, Poème de la médecine_, Paris 1956.                                                                                                                                                                                                                                                             |
+| GP 8     | _Answers to Questions Posed by Bīrūnī_ (_Al-Ajwiba_ _ʿan masāʾil Abī Rayḥān al-Bīrūnī_). Text in S.H. Nasr and M. Mohaghegh, _Abū Reyḥān Bērūnī va Ebn-e Sīnā,_ _Al-Asʾila wa-l-ajwiba_, Tehran 1352Sh/1974. English translation in R. Berjak and M. Iqbal, “Ibn Sīnā - al-Bīrūnī Correspondence,” _Islam & Science_ 1 (2003) 91–98, 253–260; 2 (2004) 57–62, 181–187; 3 (2005) 57–62, 166–170.                          |
+| GP 10    | _Compendium on the Soul_ (_Kitāb_ _fī l-Nafs ʿalā sunnat al-iḫtiṣār_). Text and German translation in S. Landauer, “Die Psychologie des Ibn Sīnā,” _Zeitschrift der Deutschen Morgenländischen Gesellschaft_ 29 (1875) 335–418.                                                                                                                                                                                          |
+| GPP 1    | _Piety and Sin_ (_al-Birr wa-l-ithm_). The work does not survive except in some fragments of questionable provenance; see Gutas 2014a, 498. A fragment in a MS going under that title was published in ʿA.Z. Shamsaddīn, ed., _Al-Madhhab al-tarbawī_ _ʿinda Ibn Sīnā_, Beirut 1988, pp. 353–368.                                                                                                                        |
+| GPW 1    | _Letter to the Scholars of Baghdad_ (_Risāla ilā_ _ʿUlamāʾ Baghdād yasʾaluhum al-inṣāf baynahu wa-bayna rajul Hamadhānī yaddaʿī l-ḥikma_). Text in E. Yarshater, ed., _Panj Resāle_, Tehran 1332Sh/1953, pp. 73–90. German translation in R. Arnzen, _Platonische_ _Ideen in der arabischen Philosophie_, Berlin 2011, pp. 355–370.                                                                                      |
+| GPW 2    | _Letter to a Friend_ (_R. ilā Ṣadīq  yasʾaluhu l-inṣāf baynahu wa-bayna l-Hamadhānī alladhī yaddaʿī l-ḥikma_). Text and French translation in Y. Michot, _Ibn Sînâ_. _Lettre au vizir Abû Sa‘d_, Beirut and Paris 2000.                                                                                                                                                                                                  |
+| GPW 3    | _Repudiating Charges of Imitating the Qurʾān_ (_R. fī Intifāʾ_ _ʿammā nusiba ilayhi min muʿāraḍat al-Qurʾān_). Text and French translation in Y. Michot, “Le Riz trop cuit du Kirmânî,” in _Mélanges offerts à Hossam Elkhadem_, F. Daelemans et al., eds., _Archives et Bibliothèques de Belgique_, Numéro Spécial 83, Brussels 2007, pp. 81–129.                                                                       |
+| GS 2     | _The Compilation_ / _Philosophy for_ _ʿArūḍī_ (_al-Majmūʿ/ al-Ḥikma al-ʿArūḍiyya_). Text in M. Ṣāliḥ, _Kitāb al-Majmūʿ aw al-Ḥikma al-ʿArūḍiyya_, Beirut 1428/2007. No full translation yet available.                                                                                                                                                                                                                   |
+| GS 3     | _Elements of Philosophy_ (_ʿUyūn al-ḥikma_). Text in ʿA. Badawī, ed., _Avicennae Fontes Sapientiae_ \[Mémorial Avicenne - V], Cairo 1954. No translation available.                                                                                                                                                                                                                                                      |
+| GS 5     | _The Cure_ (_al-Shifāʾ_). Edition by various scholars in 22 volumes, Cairo 1952–1983.                                                                                                                                                                                                                                                                                                                                    |
+| De anima | (part of _The Cure_). Text in  F. Rahman, ed., _Avicenna’s De anima_, London: Oxford University Press, 1959. No full translation available. For parts in English translation see _The Salvation_.                                                                                                                                                                                                                        |
+| GS 6     | _The Salvation_ (_al-Najāt_). Text in M.T. Dāneshpaǰūh, ed., _Al-Najāt_, Tehran 1364Sh/\[1985]. English translation of the logic part in A.Q. Ahmed, _Avicenna’s Deliverance: Logic_, Karachi: Oxford University Press, 2011. English translation of parts on the soul in F. Rahman, _Avicenna’s Psychology_. _An English Translation of_ Kitāb al-Najāt,_Book II_, _Chapter VI_, London: Oxford University Press, 1952. |
+| GS 7     | _Philosophy for_ _ʿAlāʾ-ad-Dawla_ (_Dāneshnāme-ye_ _ʿAlāʾī_). Text in M. Meshkāt, _Manṭiq_ and _Ṭabīʿiyyāt_;  M. Moʿīn, _Ilāhiyyāt_; and M. Mīnovī, _Riyāḍiyyāt_, Tehran 1331Sh/\[1952]. French translation in M. Achena and Henri Massé, _Le Livre de science_, Paris: Les Belles Lettres / UNESCO, ²1986.                                                                                                              |
+| GS 8     | _The Easterners; Eastern Philosophy_ (_al-Mashriqiyyūn; al-Ḥikma al-mashriqiyya_). Text in _Manṭiq al-mashriqiyyīn wa-l-Qaṣīda al-muzdawija, taṣnīf al-Raʾīs Abī_ _ʿAlī Ibn Sīnā_, Cairo 1910.                                                                                                                                                                                                                           |
+| GS 9     | _Pointers and Reminders_ (_al-Ishārāt wa-l-tanbīhāt_). Text in J. Forget, _Ibn Sīnā. Le livre des théorèmes et des avertissements_, Leiden 1892, and in M. Zāreʿī, _Al-Ishārāt wa-l-tanbīhāt li-l-Shaykh al-Raʾīs Ibn Sīnā_, Qum 1381Sh/2002. French translation in Goichon 1951; English translation in Inati 1984, 1996, and 2014.                                                                                     |
+| GS 10    | _The Available and the Valid_ \[_of Philosophy_] (_al-Ḥāṣil wa-l-maḥṣūl_). Not extant.                                                                                                                                                                                                                                                                                                                                   |
+| GS 11    | _Fair Judgment_ (_al-Inṣāf_). Only the following parts are extant:                                                                                                                                                                                                                                                                                                                                                       |
+| (a)      | _Commentary on_ \[_Metaphysics_] _Lambda_ (_Sharḥ Kitāb al-lām_). Text and French translation in Geoffroy et al. 2014.                                                                                                                                                                                                                                                                                                   |
+| (b)      | _Commentary on the Theologia Aristotelis_ (_Tafsīr/Sharḥ Kitāb Uthūlūjiyā_). Text in Badawī 1947, pp. 37–74. French translation in Vajda 1951.                                                                                                                                                                                                                                                                           |
+| (c)      | _Marginal Glosses on Aristotle’s De anima_ (_al-Taʿlīqāt ʿalā_ _ḥawāšī Kitāb al-Nafs li-Arisṭūṭālīs_). Text in Badawī 1947, pp. 75–116; no translation available.                                                                                                                                                                                                                                                        |
+| GS 12a   | _Notes_ (_al-Taʿlīqāt_). Text in ʿA. Badawī, _Ibn Sīnā_, _al-Taʿlīqāt_, Cairo 1973. No full translation available.                                                                                                                                                                                                                                                                                                       |
+| GS 14    | _Discussions_ (_al-Mubāḥathāt_). Text in M. Bīdārfar, _Al-Mubāḥathāt_, Qum 1371Sh/1992.                                                                                                                                                                                                                                                                                                                                  |
 
 ### Secondary Sources
 
-* Adamson, P., 2004, “Non-Discursive Thought in Avicenna’s Commentary on the Theology of Aristotle,” in *Interpreting Avicenna: Science and Philosophy in Medieval Islam*, J. McGinnis (ed.), Leiden: Brill, pp. 87–111.
-* –––, (ed.), 2013, *Interpreting Avicenna. Critical Essays*, Cambridge: Cambridge University Press.
-* Akasoy, A., and A. Fidora, 2005, *The Arabic Version of the* Nicomachean Ethics, Leiden: Brill.
-* Badawī, ʿA., 1947, *Arisṭū ʿinda l-ʿArab*, Cairo: Maktabat an-nahḍa al-miṣriyya.
-* Barnes, J., 1994, *Aristotle. Posterior Analytics*, Oxford: Clarendon Press.
-* Bertolacci, A., 2006, *The Reception of Aristotle’s* Metaphysics *in Avicenna’s* Kitāb al-Šifāʾ, Leiden: Brill.
-* Biesterfeldt, H.H., 2000. “Medieval Arabic Encyclopedias of Science and Philosophy,” in *The Medieval Hebrew Encyclopedias of Science and Philosophy*, S. Harvey (ed.), Boston: Kluwer, pp. 77–98.
-* –––, 2002, “Arabisch-islamische Enzyklopädien: Formen und Funktionen,” in *Die Enzyklopädie im Mittelalter vom Hochmittelalter bis zur frühen Neuzeit*, Ch. Meier (ed.), München: Wilhelm Fink, pp. 43–83.
-* Black, D., 2008, “Avicenna on Self-Awareness and Knowing that One Knows,” in *The Unity of Science in the Arabic Tradition*, S. Rahman, T. Street, and H. Tahiri (eds.), N.p.: Springer, pp. 63–87.
-* Davidson, H.A., 1987, *Proofs for Eternity, Creation and the Existence of God in Medieval Islamic and Jewish Philosophy*. Oxford: Oxford University Press.
-* –––, 1992, *Alfarabi, Avicenna, and Averroes, on Intellect*, Oxford / New York: Oxford University Press, 1992.
-* Eichner, H., 2009, *The Post-Avicennian Philosophical Tradition and Islamic Orthodoxy: Philosophical and Theological Summae in Context*, unpublished professorial dissertation (Habilitationsschrift), Halle.
-* Geoffroy et al., 2014, *Commentaire sur le Livre Lambda de la* Métaphysique *d’Aristote (Chapitres 6–10) par Ibn Sīnā (Avicenne)*, M. Geoffroy, J. Janssens, and M. Sebti (eds.), Paris: Vrin.
-* Gohlman, W.E., 1974, *The Life of Ibn Sina*, Albany, NY: SUNY Press.
-* Goichon, A.-M., 1938, *Lexique de la langue philosophique d’Ibn Sīnā*, Paris: Desclée de Brouwer.
-* –––, 1939, *Vocabulaires comparés d’Aristote et d’Ibn Sīnā*, Paris: Desclée de Brouwer.
-* –––, 1951, *Ibn Sīnā (Avicenne). Livre des directives et remarques*, Paris: Vrin
-* –––, 1959, *Le récit de Ḥayy ibn Yaqẓān commenté par des textes d’Avicenne*. Paris: Desclée de Brouwer.
-* Gutas, D., 1987–88, “Avicenna’s *Maḏhab*, With an Appendix on the Question of His Date of Birth,” *Quaderni di Studi Arabi*, 5–6: 323–36; repr. in Gutas 2014b-II.
-* –––, 1998, *Greek Thought, Arabic Culture*, London and New York: Routledge.
-* –––, 2000, “Avicenna’s Eastern (“Oriental”) Philosophy: Nature, Contents, Transmission,” *Arabic Sciences and Philosophy,* 10: 159‑180.
-* –––, 2001, “Intuition and Thinking: The Evolving Structure of Avicenna’s Epistemology,” *Princeton Papers. Interdisciplinary Journal of Middle Eastern Studies* 9: 1‑38; repr. in *Aspects of Avicenna,* R. Wisnovsky (ed.), Princeton: Markus Wiener, 2001, pp. 1‑38.
+* Adamson, P., 2004, “Non-Discursive Thought in Avicenna’s Commentary on the Theology of Aristotle,” in _Interpreting Avicenna: Science and Philosophy in Medieval Islam_, J. McGinnis (ed.), Leiden: Brill, pp. 87–111.
+* –––, (ed.), 2013, _Interpreting Avicenna. Critical Essays_, Cambridge: Cambridge University Press.
+* Akasoy, A., and A. Fidora, 2005, _The Arabic Version of the_ Nicomachean Ethics, Leiden: Brill.
+* Badawī, ʿA., 1947, _Arisṭū ʿinda l-ʿArab_, Cairo: Maktabat an-nahḍa al-miṣriyya.
+* Barnes, J., 1994, _Aristotle. Posterior Analytics_, Oxford: Clarendon Press.
+* Bertolacci, A., 2006, _The Reception of Aristotle’s_ Metaphysics _in Avicenna’s_ Kitāb al-Šifāʾ, Leiden: Brill.
+* Biesterfeldt, H.H., 2000. “Medieval Arabic Encyclopedias of Science and Philosophy,” in _The Medieval Hebrew Encyclopedias of Science and Philosophy_, S. Harvey (ed.), Boston: Kluwer, pp. 77–98.
+* –––, 2002, “Arabisch-islamische Enzyklopädien: Formen und Funktionen,” in _Die Enzyklopädie im Mittelalter vom Hochmittelalter bis zur frühen Neuzeit_, Ch. Meier (ed.), München: Wilhelm Fink, pp. 43–83.
+* Black, D., 2008, “Avicenna on Self-Awareness and Knowing that One Knows,” in _The Unity of Science in the Arabic Tradition_, S. Rahman, T. Street, and H. Tahiri (eds.), N.p.: Springer, pp. 63–87.
+* Davidson, H.A., 1987, _Proofs for Eternity, Creation and the Existence of God in Medieval Islamic and Jewish Philosophy_. Oxford: Oxford University Press.
+* –––, 1992, _Alfarabi, Avicenna, and Averroes, on Intellect_, Oxford / New York: Oxford University Press, 1992.
+* Eichner, H., 2009, _The Post-Avicennian Philosophical Tradition and Islamic Orthodoxy: Philosophical and Theological Summae in Context_, unpublished professorial dissertation (Habilitationsschrift), Halle.
+* Geoffroy et al., 2014, _Commentaire sur le Livre Lambda de la_ Métaphysique _d’Aristote (Chapitres 6–10) par Ibn Sīnā (Avicenne)_, M. Geoffroy, J. Janssens, and M. Sebti (eds.), Paris: Vrin.
+* Gohlman, W.E., 1974, _The Life of Ibn Sina_, Albany, NY: SUNY Press.
+* Goichon, A.-M., 1938, _Lexique de la langue philosophique d’Ibn Sīnā_, Paris: Desclée de Brouwer.
+* –––, 1939, _Vocabulaires comparés d’Aristote et d’Ibn Sīnā_, Paris: Desclée de Brouwer.
+* –––, 1951, _Ibn Sīnā (Avicenne). Livre des directives et remarques_, Paris: Vrin
+* –––, 1959, _Le récit de Ḥayy ibn Yaqẓān commenté par des textes d’Avicenne_. Paris: Desclée de Brouwer.
+* Gutas, D., 1987–88, “Avicenna’s _Maḏhab_, With an Appendix on the Question of His Date of Birth,” _Quaderni di Studi Arabi_, 5–6: 323–36; repr. in Gutas 2014b-II.
+* –––, 1998, _Greek Thought, Arabic Culture_, London and New York: Routledge.
+* –––, 2000, “Avicenna’s Eastern (“Oriental”) Philosophy: Nature, Contents, Transmission,” _Arabic Sciences and Philosophy,_ 10: 159‑180.
+* –––, 2001, “Intuition and Thinking: The Evolving Structure of Avicenna’s Epistemology,” _Princeton Papers. Interdisciplinary Journal of Middle Eastern Studies_ 9: 1‑38; repr. in _Aspects of Avicenna,_ R. Wisnovsky (ed.), Princeton: Markus Wiener, 2001, pp. 1‑38.
 * –––, 2002, “The Heritage of Avicenna: The Golden Age of Arabic Philosophy, 1000 ‑ ca. 1350,” in Janssens and De Smet 2002: 81–97.
-* –––, 2004a. “Geometry and the Rebirth of Philosophy in Arabic with al‑Kindī,” in *Words, Texts and Concepts Cruising the Mediterranean Sea, Studies … Dedicated to Gerhard Endress on his Sixty‑fifth Birthday*, ed. R. Arnzen and J. Thielmann, 195–209. Leuven: Peeters.
-* –––, 2004b, “Avicenna’s Marginal Glosses on *De anima* and the Greek Commentatorial Tradition,” in *Philosophy Science & Exegesis in Greek, Arabic & Latin Commentaries*, ed. P. Adamson, H. Baltussen, and M.W.F. Stone, II,77–88, London: Bulletin of the Institute of Classical Studies Supplement 83.2.
-* –––, 2006a, “Intellect Without Limits: The Absence of Mysticism in Avicenna,” in *Intellect et imagination dans la Philosophie Médiévale* (*Actes du XIe Congrès International de Philosophie Médiévale de la S.I.E.P.M.*, Porto, du 26 au 31 août 2002)*,* M. C. Pacheco and J.F. Meirinhos (eds.), Turnhout: Brepols, pp. 351–372; repr. in Gutas 2014b, article XII.
-* –––, 2006b, “Imagination and Transcendental Knowledge in Avicenna,” in *Arabic Theology, Arabic Philosophy. From the Many to the One: Essays in Celebration of Richard M. Frank*, J.E. Montgomery (ed.,), Leuven: Peters, pp. 337–354; repr. in Gutas 2014b, article XI.
-* –––, 2010, “Origins in Baghdad,” in *The Cambridge History of Medieval Philosophy*, R. Pasnau (ed.), Cambridge: Cambridge University Press, pp. 11–25
-* –––, 2012a, “Platon. Tradition Arabe,” in *Dictionnaire des Philosophes Antiques*, R. Goulet (ed.), Paris: CNRS.
-* –––, 2012b, “Avicenna: The Metaphysics of the Rational Soul,” *Muslim World*, 102: 417–425.
-* –––, 2014a, *Avicenna and the Aristotelian Tradition. Inroduction to Reading Avicenna’s Philosophical Works. Second, Revised and Enlarged Edition*, Leiden: E.J. Brill.
-* –––, 2014b, *Orientations of Avicenna’s Philosophy*, Ashgate/Variorum: Surrey/Burlington.
+* –––, 2004a. “Geometry and the Rebirth of Philosophy in Arabic with al‑Kindī,” in _Words, Texts and Concepts Cruising the Mediterranean Sea, Studies … Dedicated to Gerhard Endress on his Sixty‑fifth Birthday_, ed. R. Arnzen and J. Thielmann, 195–209. Leuven: Peeters.
+* –––, 2004b, “Avicenna’s Marginal Glosses on _De anima_ and the Greek Commentatorial Tradition,” in _Philosophy Science & Exegesis in Greek, Arabic & Latin Commentaries_, ed. P. Adamson, H. Baltussen, and M.W.F. Stone, II,77–88, London: Bulletin of the Institute of Classical Studies Supplement 83.2.
+* –––, 2006a, “Intellect Without Limits: The Absence of Mysticism in Avicenna,” in _Intellect et imagination dans la Philosophie Médiévale_ (_Actes du XIe Congrès International de Philosophie Médiévale de la S.I.E.P.M._, Porto, du 26 au 31 août 2002)_,_ M. C. Pacheco and J.F. Meirinhos (eds.), Turnhout: Brepols, pp. 351–372; repr. in Gutas 2014b, article XII.
+* –––, 2006b, “Imagination and Transcendental Knowledge in Avicenna,” in _Arabic Theology, Arabic Philosophy. From the Many to the One: Essays in Celebration of Richard M. Frank_, J.E. Montgomery (ed.,), Leuven: Peters, pp. 337–354; repr. in Gutas 2014b, article XI.
+* –––, 2010, “Origins in Baghdad,” in _The Cambridge History of Medieval Philosophy_, R. Pasnau (ed.), Cambridge: Cambridge University Press, pp. 11–25
+* –––, 2012a, “Platon. Tradition Arabe,” in _Dictionnaire des Philosophes Antiques_, R. Goulet (ed.), Paris: CNRS.
+* –––, 2012b, “Avicenna: The Metaphysics of the Rational Soul,” _Muslim World_, 102: 417–425.
+* –––, 2014a, _Avicenna and the Aristotelian Tradition. Inroduction to Reading Avicenna’s Philosophical Works. Second, Revised and Enlarged Edition_, Leiden: E.J. Brill.
+* –––, 2014b, _Orientations of Avicenna’s Philosophy_, Ashgate/Variorum: Surrey/Burlington.
 * –––, 2014b-I, “Avicenna: Biography,” in Gutas 2014b, article I.
 * –––, 2014b-VII, “The Empiricism of Avicenna,” in Gutas 2014b, article VII.
-* –––, 2015, “The Author as Pioneer[ing Genius]: Graeco-Arabic Philosophical Autobiographies and the Paradigmatic Ego,” in *Concepts of Authorship in Pre-Modern Arabic Texts*, L. Behzadi and J. Hameen-Anttila (eds.), Bamberg: University of Bamberg Press, pp. 47–62
+* –––, 2015, “The Author as Pioneer\[ing Genius]: Graeco-Arabic Philosophical Autobiographies and the Paradigmatic Ego,” in _Concepts of Authorship in Pre-Modern Arabic Texts_, L. Behzadi and J. Hameen-Anttila (eds.), Bamberg: University of Bamberg Press, pp. 47–62
 * Hasse, D.N., 2013, “Avicenna’s Epistemological Optimism,” in Adamson 2013, pp. 109–119.
-* Hasse, D.N., and A. Bertolacci (eds.), 2012, *The Arabic, Hebrew and Latin Reception of Avicenna’s Metaphysics* [Scientia Graeco-Arabica 7], Berlin: De Gruyter.
-* Heath, P., 1990, “Disorientation and Reorientation in Ibn Sina’s *Epistle of the Bird: A Reading*,” in *Intellectual Studies on Islam. Essays written in honor of Martin B. Dickson*, Michel M. Mazzaoui and Vera B. Moreen, eds., Salt Lake City, Utah: University of Utah Press, pp. 163–183.
-* Inati, S.C., 1984, *Ibn Sīnā*, *Remarks and Admonitions. Part One: Logic*,Toronto: Pontifical Institute of Mediaeval Studies.
-* –––, 1996, *Ibn Sīnā and Mysticism. Remarks and Admonitions: Part Four*, London and New York: Kegan Paul International.
-* –––, 2014, *Ibn Sina’s* Remarks and Admonitions: Physics and Metaphysics, New York: Columbia University Press.
-* Janssens, J., 1991, *An Annotated Bibliography on Ibn Sînâ (1970–1989)*, Leuven: Leuven University Press.
-* –––, 1999, *An Annotated Bibliography on Ibn Sīnā: First Supplement (1990–1994)*, Louvain-la-Neuve: Fédération Internationale des Instituts d’Études Médiévales.
-* –––, 2006, *Ibn Sīnā and His Influence on the Arabic and Latin World* [Variorum Collected Studies 843], Aldershot, Hampshire: Ashgate.
-* Janssens, J., and D. De Smet (eds.), 2002, *Avicenna and His Heritage*, Leuven: Leuven University Press.
-* Kaya, M.C., 2012, “Prophetic Legislation: Avicenna’s View of Practical Philosophy Revisited,” in *Philosophy and the Abrahamic Religions: Scriptural Hermeneutics and Epistemology*, T. Kirby, R. Acar, and B. Baş, eds., Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 205–223.
-* –––, 2014, “In the Shadow of “Prophetic Legislation”: The Venture of Practical Philosophy after Avicenna,” *Arabic Sciences and Philosophy* 24: 269–296.
-* Lameer, J., 2006, *Conception and Belief in Ṣadr al-Dīn Shīrāzī (ca 1571–1635*), Tehran: Iranian Institute of Philosophy.
-* Langermann, T., 2009, *Avicenna and His Legacy. A Golden Age of Science and Philosophy*, Turnhout: Brepols.
-* Lizzini, O., 2009, “Vie active, vie contemplative et philosophie chez Avicenne,” in *Vie active et vie contemplative au Moyen Âge et au seuil de la Renaissance*, Ch. Trottmann (ed.), Rome: École Française de Rome, pp. 207–239.
-* Mahdavī, Y., 1954, *Fehrest-e nosḫahā-ye moṣannafāt-e Ebn-e Sīnā*, Tehran: Dānešgāh-e Tehrān, 1333Š.
-* Marmura, M.E., 1990, “The Fortuna of the *Posterior Analytics* in the Arabic Middle Ages,” in *Knowledge and the Sciences in Medieval Philosophy*, M. Asztalos, J.E. Murdoch, I. Niiniluoto (eds.), Helsinki: Acta Philosophica Fennica, v. I, pp. 85–103; repr. in Marmura 2005: 355–373.
-* –––, 2005, *Probing in Islamic Philosophy*, Binghamton, N.Y.: Global Academic Publishing.
-* McGinnis, J., with the assistance of D.C. Reisman, 2004, *Interpreting Avicenna*: *Science and Philosophy in Medieval Islam*, Leiden: Brill.
-* McGinnis, J., 2010, *Avicenna*, Oxford: Oxford University Press.
-* Michot, Yahya (Jean R.), 1986, *La destinée de l’homme selon Avicenne. Le retour à Dieu (ma‘ād) et l’imagination*, Leuven: Peeters.
-* –––, 2000, *Ibn Sînâ. Lettre au vizir Abû Sa‘d. Editio princeps d’après le manuscrit de Bursa, traduction de l’arabe, introduction, notes et lexique [Sagesses musulmanes 4]*, Beirut/Paris: Al-Bouraq.
-* Rahman, F., 1958, *Prophecy in Islam*, London : George Allen & Unwin; repr. Chicago: The University of Chicago Press, 2011.
-* Reisman, D.C., 2002, *The Making of the Avicennan Tradition: The Transmission, Contents, and Structure of Ibn Sīnā’s* al-Mubāḥaṯāt (The Discussions), Leiden: Brill.
+* Hasse, D.N., and A. Bertolacci (eds.), 2012, _The Arabic, Hebrew and Latin Reception of Avicenna’s Metaphysics_ \[Scientia Graeco-Arabica 7], Berlin: De Gruyter.
+* Heath, P., 1990, “Disorientation and Reorientation in Ibn Sina’s _Epistle of the Bird: A Reading_,” in _Intellectual Studies on Islam. Essays written in honor of Martin B. Dickson_, Michel M. Mazzaoui and Vera B. Moreen, eds., Salt Lake City, Utah: University of Utah Press, pp. 163–183.
+* Inati, S.C., 1984, _Ibn Sīnā_, _Remarks and Admonitions. Part One: Logic_,Toronto: Pontifical Institute of Mediaeval Studies.
+* –––, 1996, _Ibn Sīnā and Mysticism. Remarks and Admonitions: Part Four_, London and New York: Kegan Paul International.
+* –––, 2014, _Ibn Sina’s_ Remarks and Admonitions: Physics and Metaphysics, New York: Columbia University Press.
+* Janssens, J., 1991, _An Annotated Bibliography on Ibn Sînâ (1970–1989)_, Leuven: Leuven University Press.
+* –––, 1999, _An Annotated Bibliography on Ibn Sīnā: First Supplement (1990–1994)_, Louvain-la-Neuve: Fédération Internationale des Instituts d’Études Médiévales.
+* –––, 2006, _Ibn Sīnā and His Influence on the Arabic and Latin World_ \[Variorum Collected Studies 843], Aldershot, Hampshire: Ashgate.
+* Janssens, J., and D. De Smet (eds.), 2002, _Avicenna and His Heritage_, Leuven: Leuven University Press.
+* Kaya, M.C., 2012, “Prophetic Legislation: Avicenna’s View of Practical Philosophy Revisited,” in _Philosophy and the Abrahamic Religions: Scriptural Hermeneutics and Epistemology_, T. Kirby, R. Acar, and B. Baş, eds., Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 205–223.
+* –––, 2014, “In the Shadow of “Prophetic Legislation”: The Venture of Practical Philosophy after Avicenna,” _Arabic Sciences and Philosophy_ 24: 269–296.
+* Lameer, J., 2006, _Conception and Belief in Ṣadr al-Dīn Shīrāzī (ca 1571–1635_), Tehran: Iranian Institute of Philosophy.
+* Langermann, T., 2009, _Avicenna and His Legacy. A Golden Age of Science and Philosophy_, Turnhout: Brepols.
+* Lizzini, O., 2009, “Vie active, vie contemplative et philosophie chez Avicenne,” in _Vie active et vie contemplative au Moyen Âge et au seuil de la Renaissance_, Ch. Trottmann (ed.), Rome: École Française de Rome, pp. 207–239.
+* Mahdavī, Y., 1954, _Fehrest-e nosḫahā-ye moṣannafāt-e Ebn-e Sīnā_, Tehran: Dānešgāh-e Tehrān, 1333Š.
+* Marmura, M.E., 1990, “The Fortuna of the _Posterior Analytics_ in the Arabic Middle Ages,” in _Knowledge and the Sciences in Medieval Philosophy_, M. Asztalos, J.E. Murdoch, I. Niiniluoto (eds.), Helsinki: Acta Philosophica Fennica, v. I, pp. 85–103; repr. in Marmura 2005: 355–373.
+* –––, 2005, _Probing in Islamic Philosophy_, Binghamton, N.Y.: Global Academic Publishing.
+* McGinnis, J., with the assistance of D.C. Reisman, 2004, _Interpreting Avicenna_: _Science and Philosophy in Medieval Islam_, Leiden: Brill.
+* McGinnis, J., 2010, _Avicenna_, Oxford: Oxford University Press.
+* Michot, Yahya (Jean R.), 1986, _La destinée de l’homme selon Avicenne. Le retour à Dieu (ma‘ād) et l’imagination_, Leuven: Peeters.
+* –––, 2000, _Ibn Sînâ. Lettre au vizir Abû Sa‘d. Editio princeps d’après le manuscrit de Bursa, traduction de l’arabe, introduction, notes et lexique \[Sagesses musulmanes 4]_, Beirut/Paris: Al-Bouraq.
+* Rahman, F., 1958, _Prophecy in Islam_, London : George Allen & Unwin; repr. Chicago: The University of Chicago Press, 2011.
+* Reisman, D.C., 2002, _The Making of the Avicennan Tradition: The Transmission, Contents, and Structure of Ibn Sīnā’s_ al-Mubāḥaṯāt (The Discussions), Leiden: Brill.
 * –––, 2004, “The Pseudo-Avicennan Corpus, I: Methodological Considerations,” in McGinnis with Reisman 2004, pp. 3–21.
-* –––, 2010, “The Ps.-Avicenna Corpus II: The Ṣūfistic Turn,” in *Documenti e Studi sulla Tradizione Filosofica Medievale*,” 21: 243–258.
+* –––, 2010, “The Ps.-Avicenna Corpus II: The Ṣūfistic Turn,” in _Documenti e Studi sulla Tradizione Filosofica Medievale_,” 21: 243–258.
 * –––, 2013, “The Life and Times of Avicenna. Patronage and Learning in Medieval Islam,” in Adamson 2013, pp. 7–27.
-* Swain, S., 2013, *Economy, Family, and Society from Rome to Islam*, Cambridge: Cambridge University Press.
-* Treiger, A. 2011. *Inspired Knowledge in Islamic Thought. Al-Ghazālī’s Theory of Mystical Cognition and Its Avicennian Foundation*. London: Routledge.
-* Vajda, G., 1951, “Les notes d’Avicenne sur la «Théologie d’Aristote»,” *Revue Thomiste* 51: 346–406.
-* Wisnovsky, R, 2003, *Avicenna’s Metaphysics in Context*, Ithaca, N.Y.: Cornell University Press.
+* Swain, S., 2013, _Economy, Family, and Society from Rome to Islam_, Cambridge: Cambridge University Press.
+* Treiger, A. 2011. _Inspired Knowledge in Islamic Thought. Al-Ghazālī’s Theory of Mystical Cognition and Its Avicennian Foundation_. London: Routledge.
+* Vajda, G., 1951, “Les notes d’Avicenne sur la «Théologie d’Aristote»,” _Revue Thomiste_ 51: 346–406.
+* Wisnovsky, R, 2003, _Avicenna’s Metaphysics in Context_, Ithaca, N.Y.: Cornell University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ibn-sina). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ibn-sina/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ibn-sina&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/ibn-sina/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ibn-sina).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ibn-sina/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ibn-sina\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/ibn-sina/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Ibn Sina [Avicenna]: logic](https://plato.stanford.edu/entries/ibn-sina-logic/) | [Ibn Sina [Avicenna]: metaphysics](https://plato.stanford.edu/entries/ibn-sina-metaphysics/) | [Ibn Sina [Avicenna]: natural philosophy](https://plato.stanford.edu/entries/ibn-sina-natural/)
+[Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Ibn Sina \[Avicenna\]: logic](https://plato.stanford.edu/entries/ibn-sina-logic/) | [Ibn Sina \[Avicenna\]: metaphysics](https://plato.stanford.edu/entries/ibn-sina-metaphysics/) | [Ibn Sina \[Avicenna\]: natural philosophy](https://plato.stanford.edu/entries/ibn-sina-natural/)
 
-[Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
-Dimitri Gutas <[*dimitri.gutas@yale.edu*](mailto:dimitri%2egutas%40yale%2eedu)>
+[Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
+Dimitri Gutas <[_dimitri.gutas@yale.edu_](mailto:dimitri%2egutas%40yale%2eedu)>

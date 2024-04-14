@@ -1,6 +1,6 @@
 # 不可分者同一性原理 of indiscernibles (Peter Forrest)
 
-*首次发表于1996年7月31日星期三；实质性修订于2010年8月15日星期日。*
+_首次发表于1996年7月31日星期三；实质性修订于2010年8月15日星期日。_
 
 同一性原理是分析本体论的一个原则，由威廉·戈特弗里德·莱布尼茨在他的《形而上学论》第 9 节中首次明确提出（Loemker 1969: 308）。它指出没有两个不同的事物完全相似。这通常被称为“莱布尼茨定律”，通常被理解为没有两个对象具有完全相同的属性。同一性原理引起人们的兴趣，因为它引发了关于如何区分具有相同质量的对象的因素的问题。对量子力学解释的最新研究表明，该原理在量子领域的适用性存在争议（参见 French 2019）。
 
@@ -8,18 +8,18 @@
 * [2. 本体论的含义](https://plato.stanford.edu/entries/identity-indiscernible/#Ont)
 * [3. 支持和反对该原则的论点](https://plato.stanford.edu/entries/identity-indiscernible/#Arg)
 * [4. 该原则的历史](https://plato.stanford.edu/entries/identity-indiscernible/#His)
-* [ 参考文献](https://plato.stanford.edu/entries/identity-indiscernible/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/identity-indiscernible/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/identity-indiscernible/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/identity-indiscernible/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/identity-indiscernible/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/identity-indiscernible/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/identity-indiscernible/#Rel)
 
----
+***
 
 ## 1. 制定原则
 
 不可分者的同一性（以下简称原则）通常被制定如下：如果对于每个属性 F，对象 x 具有 F 当且仅当对象 y 具有 F，则 x 等同于 y。或者用符号逻辑表示为：
 
-> ∀*F*(*Fx* ↔ *Fy*) → *x*=*y*.
+> ∀_F_(_Fx_ ↔ _Fy_) → _x_=_y_.
 
 这个原则的表述等同于麦克塔格特所称的多样性的不相似性，即：如果 x 和 y 是不同的，则至少存在一个 x 具有而 y 没有的属性，或者反之亦然。
 
@@ -89,53 +89,53 @@ Black 的球体是第三级可辨别的，因为它们处于对称关系，至�
 
 ## Bibliography
 
-* Adams, R. M., 1979, “Primitive Thisness and Primitive Identity”, *Journal of Philosophy*, 76: 5–26.
-* Armstrong, D. M., 1989, *Universals: An Opinionated Introduction*, Boulder: Westview Press.
-* Ayer, A. J., 1954, *Philosophical Essays*, London: Macmillan.
-* Black, M., 1952, “The Identity of Indiscernibles”, *Mind*, 61: 153–64.
-* Boolos, George, 1984, “To Be Is To Be a Value of a Variable (or to Be Some Values of Some Variables),” *Journal of Philosophy*, 81: 430–50.
-* Cross, C., 1995, “Max Black on the Identity of Indiscernibles”, *Philosophical Quarterly*, 45: 350–60.
-* Della Rocca, M., 2005, “Two Spheres, Twenty Spheres, and the Identity of Indiscernibles”, *Pacific Philosophical Quarterly*, 86: 480–492.
-* Earman, J., 1986, *A Primer on Determinism*, Dordrecht: D. Reidel.
-* French, S., 1988, “Quantum Physics and the Identity of Indiscernibles”, *British Journal of the Philosophy of Science*, 39: 233–46.
-* French, S., 1989, “Why the Principle of the Identity of Indiscernibles is not Contingently True Either”, *Synthese*, 78: 141–66.
-* French, S., 2019, “Identity and Individuality in Quantum Theory”, *The Stanford Encyclopedia of Philosophy* (Winter 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2019/entries/qt-idind/>.
-* Hacking, I., 1975, “The Identity of Indiscernibles”, *Journal of Philosophy*, 72 (9): 249–256.
-* Hawley, K., 2009, “Identity and Indiscernibility”, *Mind*, 118: 101–9.
-* Leibniz, G. W., *Philosophical Papers and Letters*, in Loemker 1969.
-* Linnebo, O., 2009, “Plural Quantification”, *The Stanford Encyclopedia of Philosophy* (Spring 2009 Edition), Edward N. Zalta (ed.), URL = <[Plural Quantification (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/plural-quant/)>.
-* Loemker, L., 1969, (ed. and trans.), *G. W. Leibniz: Philosophical Papers and Letters*, 2nd ed., Dordrecht: D. Reidel.
-* Markosian, N., 1998, “Simples”, *The Australasian Journal of Philosophy*, 76: 213–229.
-* Morris, M. and Parkinson G. H. R., 1973, *Leibniz Philosophical Writings*, London: Dent.
-* O’Leary-Hawthorne, J., 1995, “The Bundle Theory of Substance and the Identity of Indiscernibles”, *Analysis*, 55: 191–196.
-* Potrc, M. and Horgan, T., 2008, *Austere Realism: Contextual Semantics Meets Minimal Ontology*, Cambridge, MA: MIT Press.
-* Quine, W.V.O., 1976, “Grades of Discriminability”, *Journal of Philosophy*, 73: 113–116.
-* Rodriguez-Pereyra, G., 1999, “Leibniz’s Argument for the Identity of Indiscernibles in His Correspondence with Clarke”, *Australasian Journal of Philosophy*, 77: 429–38.
-* Rodriguez-Pereyra, G., 2004, “The Bundle Theory Is Compatible with Distinct but Indiscernible Particulars”, *Analysis*, 64: 72–81.
-* Russell, B., 1940, *An Inquiry into Meaning and Truth*, London: Allen and Unwin.
-* Saunders, S., 2006, “Are Quantum Particles Objects?”, *Analysis*, 66: 52–63.
-* Schaffer, Jonathan, “Monism”, *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <[Monism (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/monism/)>.
-* Swinburne, R. 1995, “Thisness”, *Australasian Journal of Philosophy*, 73: 389–400.
-* Teller, P., 1995, *An Interpretive Introduction to Quantum Field Theory*, Princeton: Princeton University Press.
-* Weatherson, B., 2008, “Intrinsic vs. Extrinsic Properties”, *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <[Intrinsic vs. Extrinsic Properties (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/intrinsic-extrinsic/)>.
-* Zimmerman, D., 1997, “Distinct Indiscernibles and the Bundle Theory”, *Mind*, 106: 305–09.
+* Adams, R. M., 1979, “Primitive Thisness and Primitive Identity”, _Journal of Philosophy_, 76: 5–26.
+* Armstrong, D. M., 1989, _Universals: An Opinionated Introduction_, Boulder: Westview Press.
+* Ayer, A. J., 1954, _Philosophical Essays_, London: Macmillan.
+* Black, M., 1952, “The Identity of Indiscernibles”, _Mind_, 61: 153–64.
+* Boolos, George, 1984, “To Be Is To Be a Value of a Variable (or to Be Some Values of Some Variables),” _Journal of Philosophy_, 81: 430–50.
+* Cross, C., 1995, “Max Black on the Identity of Indiscernibles”, _Philosophical Quarterly_, 45: 350–60.
+* Della Rocca, M., 2005, “Two Spheres, Twenty Spheres, and the Identity of Indiscernibles”, _Pacific Philosophical Quarterly_, 86: 480–492.
+* Earman, J., 1986, _A Primer on Determinism_, Dordrecht: D. Reidel.
+* French, S., 1988, “Quantum Physics and the Identity of Indiscernibles”, _British Journal of the Philosophy of Science_, 39: 233–46.
+* French, S., 1989, “Why the Principle of the Identity of Indiscernibles is not Contingently True Either”, _Synthese_, 78: 141–66.
+* French, S., 2019, “Identity and Individuality in Quantum Theory”, _The Stanford Encyclopedia of Philosophy_ (Winter 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2019/entries/qt-idind/](https://plato.stanford.edu/archives/win2019/entries/qt-idind/).
+* Hacking, I., 1975, “The Identity of Indiscernibles”, _Journal of Philosophy_, 72 (9): 249–256.
+* Hawley, K., 2009, “Identity and Indiscernibility”, _Mind_, 118: 101–9.
+* Leibniz, G. W., _Philosophical Papers and Letters_, in Loemker 1969.
+* Linnebo, O., 2009, “Plural Quantification”, _The Stanford Encyclopedia of Philosophy_ (Spring 2009 Edition), Edward N. Zalta (ed.), URL = <[Plural Quantification (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/plural-quant/)>.
+* Loemker, L., 1969, (ed. and trans.), _G. W. Leibniz: Philosophical Papers and Letters_, 2nd ed., Dordrecht: D. Reidel.
+* Markosian, N., 1998, “Simples”, _The Australasian Journal of Philosophy_, 76: 213–229.
+* Morris, M. and Parkinson G. H. R., 1973, _Leibniz Philosophical Writings_, London: Dent.
+* O’Leary-Hawthorne, J., 1995, “The Bundle Theory of Substance and the Identity of Indiscernibles”, _Analysis_, 55: 191–196.
+* Potrc, M. and Horgan, T., 2008, _Austere Realism: Contextual Semantics Meets Minimal Ontology_, Cambridge, MA: MIT Press.
+* Quine, W.V.O., 1976, “Grades of Discriminability”, _Journal of Philosophy_, 73: 113–116.
+* Rodriguez-Pereyra, G., 1999, “Leibniz’s Argument for the Identity of Indiscernibles in His Correspondence with Clarke”, _Australasian Journal of Philosophy_, 77: 429–38.
+* Rodriguez-Pereyra, G., 2004, “The Bundle Theory Is Compatible with Distinct but Indiscernible Particulars”, _Analysis_, 64: 72–81.
+* Russell, B., 1940, _An Inquiry into Meaning and Truth_, London: Allen and Unwin.
+* Saunders, S., 2006, “Are Quantum Particles Objects?”, _Analysis_, 66: 52–63.
+* Schaffer, Jonathan, “Monism”, _The Stanford Encyclopedia of Philosophy_ (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <[Monism (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/monism/)>.
+* Swinburne, R. 1995, “Thisness”, _Australasian Journal of Philosophy_, 73: 389–400.
+* Teller, P., 1995, _An Interpretive Introduction to Quantum Field Theory_, Princeton: Princeton University Press.
+* Weatherson, B., 2008, “Intrinsic vs. Extrinsic Properties”, _The Stanford Encyclopedia of Philosophy_ (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <[Intrinsic vs. Extrinsic Properties (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/intrinsic-extrinsic/)>.
+* Zimmerman, D., 1997, “Distinct Indiscernibles and the Bundle Theory”, _Mind_, 106: 305–09.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=identity-indiscernible). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/identity-indiscernible/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=identity-indiscernible&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/identity-indiscernible/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=identity-indiscernible).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/identity-indiscernible/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=identity-indiscernible\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/identity-indiscernible/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [Entry on Leibniz](https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/), MacTutor History of Mathematics Archive (edited by John J O’Connor and Edmund F Robertson, University of St. Andrews)
-* [Links on the topic of identity](http://dmoz.org/Society/Philosophy/Philosophy_of_Logic/Identity/), Open Directory Project (Society → Philosophy → Philosophy of Logic → Identity).
+* [Links on the topic of identity](http://dmoz.org/Society/Philosophy/Philosophy\_of\_Logic/Identity/), Open Directory Project (Society → Philosophy → Philosophy of Logic → Identity).
 
 ## Related Entries
 
-[identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [ontological commitment](https://plato.stanford.edu/entries/ontological-commitment/) | [quantum mechanics](https://plato.stanford.edu/entries/qm/) | [quantum theory: identity and individuality in](https://plato.stanford.edu/entries/qt-idind/)
+[identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [ontological commitment](https://plato.stanford.edu/entries/ontological-commitment/) | [quantum mechanics](https://plato.stanford.edu/entries/qm/) | [quantum theory: identity and individuality in](https://plato.stanford.edu/entries/qt-idind/)
 
-[Copyright © 2010](https://plato.stanford.edu/info.html#c) by  
+[Copyright © 2010](https://plato.stanford.edu/info.html#c) by\
 Peter Forrest

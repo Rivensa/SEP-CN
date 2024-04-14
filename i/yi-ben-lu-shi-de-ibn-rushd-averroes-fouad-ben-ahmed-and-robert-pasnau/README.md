@@ -1,6 +1,6 @@
 # 伊本·鲁世德 Ibn Rushd \[Averroes] (Fouad Ben Ahmed and Robert Pasnau)
 
-*首次发表于2021年6月23日星期三*
+_首次发表于2021年6月23日星期三_
 
 伊本·鲁世德（1126-1198 年）是安达卢西亚的哲学家、医生和法官，是穆斯林背景下哲学的伟大人物之一，也是后古典欧洲思想的基础来源之一。
 
@@ -9,33 +9,29 @@
 伊本·鲁世德经常被错误地称为阿维罗伊斯（Averroes）-这是他的名字在拉丁语中变形的形式。他在后来的欧洲思想中迅速获得了如此重要的地位，以至于与亚里士多德本人的影响力相媲美，而伊本·鲁世德不知疲倦地捍卫了亚里士多德的著作。大多数现代学术研究都以他在基督教欧洲的接受为导向，他在那里被简称为“评论家”，因此无法欣赏到伊本·鲁世德自己独特的哲学成就。
 
 * [1. 生平与作品](https://plato.stanford.edu/entries/ibn-rushd/#LifeWork)
-
-  * [ 1.1 生平](https://plato.stanford.edu/entries/ibn-rushd/#Life)
-  * [ 1.2 作品](https://plato.stanford.edu/entries/ibn-rushd/#Work)
+  * [1.1 生平](https://plato.stanford.edu/entries/ibn-rushd/#Life)
+  * [1.2 作品](https://plato.stanford.edu/entries/ibn-rushd/#Work)
 * [2. 逻辑和方法论](https://plato.stanford.edu/entries/ibn-rushd/#LogiMeth)
-* [ 3. 形而上学](https://plato.stanford.edu/entries/ibn-rushd/#Meta)
-* [ 4. 自然哲学](https://plato.stanford.edu/entries/ibn-rushd/#NatuPhil)
-* [ 5. 心理学](https://plato.stanford.edu/entries/ibn-rushd/#Psyc)
-* [ 6. 宗教](https://plato.stanford.edu/entries/ibn-rushd/#Reli)
-
-  * [ 6.1 上帝](https://plato.stanford.edu/entries/ibn-rushd/#God)
-  * [ 6.2 法律](https://plato.stanford.edu/entries/ibn-rushd/#Law)
-* [ 7. 医学](https://plato.stanford.edu/entries/ibn-rushd/#Medi)
+* [3. 形而上学](https://plato.stanford.edu/entries/ibn-rushd/#Meta)
+* [4. 自然哲学](https://plato.stanford.edu/entries/ibn-rushd/#NatuPhil)
+* [5. 心理学](https://plato.stanford.edu/entries/ibn-rushd/#Psyc)
+* [6. 宗教](https://plato.stanford.edu/entries/ibn-rushd/#Reli)
+  * [6.1 上帝](https://plato.stanford.edu/entries/ibn-rushd/#God)
+  * [6.2 法律](https://plato.stanford.edu/entries/ibn-rushd/#Law)
+* [7. 医学](https://plato.stanford.edu/entries/ibn-rushd/#Medi)
 * [8. 伦理学和政治学](https://plato.stanford.edu/entries/ibn-rushd/#EthiPoli)
-* [ 9. 接待](https://plato.stanford.edu/entries/ibn-rushd/#Rece)
-
-  * [ 9.1 阿拉伯语](https://plato.stanford.edu/entries/ibn-rushd/#Arab)
-  * [ 9.2 希伯来语](https://plato.stanford.edu/entries/ibn-rushd/#Hebr)
-  * [ 9.3 拉丁语](https://plato.stanford.edu/entries/ibn-rushd/#Lati)
-* [ 参考文献](https://plato.stanford.edu/entries/ibn-rushd/#Bib)
-
+* [9. 接待](https://plato.stanford.edu/entries/ibn-rushd/#Rece)
+  * [9.1 阿拉伯语](https://plato.stanford.edu/entries/ibn-rushd/#Arab)
+  * [9.2 希伯来语](https://plato.stanford.edu/entries/ibn-rushd/#Hebr)
+  * [9.3 拉丁语](https://plato.stanford.edu/entries/ibn-rushd/#Lati)
+* [参考文献](https://plato.stanford.edu/entries/ibn-rushd/#Bib)
   * [伊本·鲁世德的著作](https://plato.stanford.edu/entries/ibn-rushd/#WorkIbnRush)
-  * [ B. 其他作品](https://plato.stanford.edu/entries/ibn-rushd/#BOtheWork)
-* [ 学术工具](https://plato.stanford.edu/entries/ibn-rushd/#Aca)
+  * [B. 其他作品](https://plato.stanford.edu/entries/ibn-rushd/#BOtheWork)
+* [学术工具](https://plato.stanford.edu/entries/ibn-rushd/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/ibn-rushd/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ibn-rushd/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/ibn-rushd/#Rel)
 
----
+***
 
 ## 1. 生平与作品
 
@@ -55,7 +51,7 @@
 
 伊本·鲁世德至少保持了四十年的高产。他是一部庞大的著作的作者，涵盖了医学、逻辑和哲学的各个分支，包括自然哲学、天文学、形而上学、心理学、政治学和伦理学。他的著作还包括伊斯兰宗教的科学：法学（fiqh）、伊斯兰法律的基础（usūl al-fiqh）、宗教的基础（usūl al-dīn）以及阿拉伯语言学科，包括语法。除了一些重要的例外，他的大部分作品都以原始的阿拉伯语形式存在。对于那些已经失传的作品，读者们只能暂时依靠希伯来语或拉丁语的中世纪翻译来了解。
 
-伊本·鲁世德的著作采用了各种方法和风格。许多论文采用评论形式，最著名且最广泛的是对亚里士多德的评论，几乎涵盖了整个亚里士多德的著作 *，* 还有对加伦的医学论文以及其他哲学家如柏拉图、伊本·西那和伊本·巴杰的评论。许多其他专门讨论特定问题的论文则不是以评论形式呈现。（有关文本和翻译的详细清单，请参见§10.1。）
+伊本·鲁世德的著作采用了各种方法和风格。许多论文采用评论形式，最著名且最广泛的是对亚里士多德的评论，几乎涵盖了整个亚里士多德的著作 _，_ 还有对加伦的医学论文以及其他哲学家如柏拉图、伊本·西那和伊本·巴杰的评论。许多其他专门讨论特定问题的论文则不是以评论形式呈现。（有关文本和翻译的详细清单，请参见§10.1。）
 
 他的评论的重点是亚里士多德，因为至今没有人能够超越他的成就：“没有人在他之后的这个时代——这已经接近 1500 年了——能够在他所说的话上增加一句值得关注的话”（《物理学》序言；哈维 1985 年，83 页）。从 19 世纪开始的学术研究将评论分为三种类型：
 
@@ -103,7 +99,7 @@
 
 在逻辑艺术的最远端，与真正的三段论之间的联系变得遥远。因此，尽管伊本·鲁世德承认诗学是一门三段论的艺术，但他说它缺乏真正三段论的力量，因此是无效的（CompLogic 12.3）。在他对《诗学》的释义中，他完全避免使用“诗意的三段论”这个术语。
 
-在法学领域，伊本·鲁世德以他对法律推理的逻辑和认识论价值的立场而闻名，他认为这些推理只能产生意见（ẓ**ann）。即使在阿拉伯语翻译的《先验分析》68b10 中出现了法学（fiqh）一词，伊本·鲁世德也选择完全忽略它。在他的法学著作中，他公开否认了术语“三段论”（qiyās）对于习惯称之为法学推理（al-maqāyīs al-fiqhiyya 或 qiyās sharʿī）的准确性。当法学家谈论 qiyās 时，重要的是要认识到这个术语有着完全不同的含义（摘要 299 {130–1}；Bou Akl 2019）。特别是，与三段论中发生的情况相反，法学家的 qiyās 没有从已知中推导出未知的能力。即使在伊本·鲁世德似乎接受法学推理的那些情况中，他也没有使用逻辑词汇，而是使用了他之前大多数法学家使用的术语。他不是将法学推理“三段论化”，而是专注于法学规则的语义和语言起源。对于伊本·鲁世德来说，每门科学都有其自身的特点；因此，任何试图在学习法学的同时学习逻辑的人都会在两者的学习中失败（摘要 123 {37–38}）。
+在法学领域，伊本·鲁世德以他对法律推理的逻辑和认识论价值的立场而闻名，他认为这些推理只能产生意见（ẓ\*\*ann）。即使在阿拉伯语翻译的《先验分析》68b10 中出现了法学（fiqh）一词，伊本·鲁世德也选择完全忽略它。在他的法学著作中，他公开否认了术语“三段论”（qiyās）对于习惯称之为法学推理（al-maqāyīs al-fiqhiyya 或 qiyās sharʿī）的准确性。当法学家谈论 qiyās 时，重要的是要认识到这个术语有着完全不同的含义（摘要 299 {130–1}；Bou Akl 2019）。特别是，与三段论中发生的情况相反，法学家的 qiyās 没有从已知中推导出未知的能力。即使在伊本·鲁世德似乎接受法学推理的那些情况中，他也没有使用逻辑词汇，而是使用了他之前大多数法学家使用的术语。他不是将法学推理“三段论化”，而是专注于法学规则的语义和语言起源。对于伊本·鲁世德来说，每门科学都有其自身的特点；因此，任何试图在学习法学的同时学习逻辑的人都会在两者的学习中失败（摘要 123 {37–38}）。
 
 ## 3. 形而上学
 
@@ -129,7 +125,7 @@
 
 随着时间的推移，会发生一种偶然的排序，就像雨水来自云，云来自水蒸气，水蒸气来自之前的雨水（《不连贯论》I.4 {268}）。这样的排序是循环的，因为一个阶段的材料会被破坏并在后面的阶段中重新使用，因此不存在实际无限的威胁。因此，这样一个系列在过去和未来无限延伸是没有不连贯之处的，伊本·鲁世德确实认为这样的无限可以通过各种方式证明（Davidson 1987）。一个基本的证明源于第一因素的本质。由于它本身是不动的——即完全不变的——它的因果作用也必须是永恒的。“一件没有变化和改变的潜力的事物不能在任何时候被改变，因为如果它被改变，那么它的改变将是由它自己引起的，所以就会有没有可能性的改变”（《长天》I.103）。对于伊本·鲁世德来说，假设一个永恒存在、不变的实际性，然后在无限长的时间内突然变得活跃起来是不连贯的。一般来说，“原因的效果不能在因果之后延迟”（《不连贯论》I.1 {15}）。类似的考虑还表明世界的未来存在也必须是永恒的（《不连贯论》1.1 {22}）。
 
-由于刚才重述的原因，一个永恒不变的第一动因意味着一个永恒不变的第一被动之物，观察表明这必须是星球的最外层球体，其自转又会带动其范围内的一切：“有一个被动之物，它天然地是第一的，它带动整个宇宙，它终结了每一个由外部动因引起的运动……这个[第一]被动之物的动因本身并不是一个物体，绝对且本质上是不动的”（EpiPhys 8.242 {141}）。在这个第一个不停的运动之后，因果关系变得越来越复杂，受到天体智慧的影响。伊本·鲁世德对托勒密宇宙学的不切实际的曲折感到怀疑，更愿意尊重亚里士多德物理学的原则，即使这样会在理论和观察之间留下一些空白（Sabra 1984; Endress 1995）。一句引人注目的个人言论描述了他曾经渴望弥合这个空白，但现在在年老之后放弃了这个项目（LongMeta XII.45 {1664}）。预见到现代科学专业化的兴起，他将领域让给那些专注于这一科学的人（LongMeta XII.48 {1679}）。
+由于刚才重述的原因，一个永恒不变的第一动因意味着一个永恒不变的第一被动之物，观察表明这必须是星球的最外层球体，其自转又会带动其范围内的一切：“有一个被动之物，它天然地是第一的，它带动整个宇宙，它终结了每一个由外部动因引起的运动……这个\[第一]被动之物的动因本身并不是一个物体，绝对且本质上是不动的”（EpiPhys 8.242 {141}）。在这个第一个不停的运动之后，因果关系变得越来越复杂，受到天体智慧的影响。伊本·鲁世德对托勒密宇宙学的不切实际的曲折感到怀疑，更愿意尊重亚里士多德物理学的原则，即使这样会在理论和观察之间留下一些空白（Sabra 1984; Endress 1995）。一句引人注目的个人言论描述了他曾经渴望弥合这个空白，但现在在年老之后放弃了这个项目（LongMeta XII.45 {1664}）。预见到现代科学专业化的兴起，他将领域让给那些专注于这一科学的人（LongMeta XII.48 {1679}）。
 
 这些天体以庄严的圆周运动永恒地移动，仅仅因为这样符合它们崇高的存在（EpiMeta 4.152 {140}，LongMeta XII.36 {1595}，Incoherence I.15 {484}），但这些运动对我们来说有一个重要的次要影响：它们维持着我们亚月球世界的存在。最基本的是，天体的运动（尽管它们本身并不炽热）在月球球体下方的火区产生了热量，而从热量及其相反的寒冷中产生了四大元素：土、气、火、水。“天体的存在必然导致元素的存在...作为保存、效能、形式和目的的原因”（EpiMeta 4.171 {161}；Incoherence I.3 {261}）。构成我们亚月球领域的物体是各种元素的混合物，在这些混合物中，元素本身以一种减弱的状态存在，就像原质上方的物质层（EpiMeta 1.48 {32}；LongCaelo III.67；EpiGC I.121 {22–3}；参见Maier 1982第6章）。这些元素的特性——热、冷、湿、干——“是所有自然物体产生和消亡的原因”（Incoherence II.1 {525}）。整个系统如此依赖于天体，以至于“如果天体的运动被破坏，...整个世界将被摧毁”（SubstOrb 4.117；Kashf 5.112 {191}）。
 
@@ -262,7 +258,7 @@
 
 随着犹太作家开始越来越多地用希伯来语写作，伊本·鲁世德的文本也随之而来，得益于从 1230 年开始的一系列阿拉伯语到希伯来语的翻译（参见 Zonta 2010，以及更详细的 Tamani 和 Zonta 1997，31-49）。到 1340 年，几乎所有的评论都已经以希伯来语的形式可用，尽管亚里士多德本人的翻译很少。与此同时，犹太作家开始对伊本·鲁世德撰写评论，产生了一系列广泛的“超级评论”（Glasner 2011）。这种现象的主要例子是格尔索尼德斯（Gersonides）在 1320 年代对伊本·鲁世德的一系列超级评论（Glasner 1995）。
 
-伊本·鲁世德在亚里士多德主义的其他来源之上的地位令人惊讶。一个典型的例子是舍姆·托夫·伊本·法拉克拉，他在他十三世纪的百科全书的引言中澄清道：“我所写的一切都是亚里士多德的话，是由学者伊本·鲁世德的评论解释的，因为他是最后的评论者，他吸收了[早期]评论中最好的内容”（在舍姆·托夫·伊本·法拉克拉第 4 节）。不同类型的鲁世德评论在不同的时期都有他们的支持者。以下是十六世纪的摩西·阿尔莫斯尼诺的建议：“不要浪费时间阅读伊本·鲁世德的摘要和中间评论，只需阅读长篇评论，因为如果你仔细阅读长篇评论，你将不需要阅读其他任何书籍来理解自然科学的任何内容”（在哈维 1985 年，61 页）。
+伊本·鲁世德在亚里士多德主义的其他来源之上的地位令人惊讶。一个典型的例子是舍姆·托夫·伊本·法拉克拉，他在他十三世纪的百科全书的引言中澄清道：“我所写的一切都是亚里士多德的话，是由学者伊本·鲁世德的评论解释的，因为他是最后的评论者，他吸收了\[早期]评论中最好的内容”（在舍姆·托夫·伊本·法拉克拉第 4 节）。不同类型的鲁世德评论在不同的时期都有他们的支持者。以下是十六世纪的摩西·阿尔莫斯尼诺的建议：“不要浪费时间阅读伊本·鲁世德的摘要和中间评论，只需阅读长篇评论，因为如果你仔细阅读长篇评论，你将不需要阅读其他任何书籍来理解自然科学的任何内容”（在哈维 1985 年，61 页）。
 
 十三世纪的其他重要人物包括艾萨克·阿尔巴拉格和艾萨克·波尔卡尔。十四世纪的杰出人物有格尔索尼德和摩西·纳尔博尼（见海翁 2005 年），他们对伊本·鲁世德的连结理论的评论已经与伊本·鲁世德的书信一起被翻译成英文。十五世纪的重要人物包括亚伯拉罕·比巴戈和以利亚·德尔·梅迪戈（见海翁 2005 年）。十六世纪的人物，如亚伯拉罕·德·巴尔梅斯，试图更准确地将伊本·鲁世德的作品翻译成拉丁语，借鉴了早期的阿拉伯语到希伯来语的翻译（伊夫里 1983 年，哈斯 2016 年）。
 
@@ -282,775 +278,775 @@
 
 ## Bibliography
 
-For a brief narrative sketch of Ibn Rushd’s literary output, see [§1.2](https://plato.stanford.edu/entries/ibn-rushd/#Work). Here we provide bibliographical details regarding all of Ibn Rushd’s surviving work. In each case we list the best Arabic text where that is available, or otherwise the best surviving witnesses to the original, in Hebrew or Latin. In parentheses, where possible, we suggest dates of composition. Sometimes these are a matter of conjecture; in other cases, the text itself provides a precise date. (For a detailed inventory of texts and dating see Al-ʿAlawī 1986a.)
+For a brief narrative sketch of Ibn Rushd’s literary output, see [§1.2](https://plato.stanford.edu/entries/ibn-rushd/#Work). Here we provide bibliographical details regarding all of Ibn Rushd’s surviving work. In each case we list the best Arabic text where that is available, or otherwise the best surviving witnesses to the original, in Hebrew or Latin. In parentheses, where possible, we suggest dates of composition. Sometimes these are a matter of conjecture; in other cases, the text itself provides a precise date. (For a detailed inventory of texts and dating see Al-ʿAlawī 1986a.)
 
 Contrary to what is often said, most of Ibn Rushd’s work has survived in Arabic. (Of the 49 works listed below, 14 are not extant in Arabic.) Where the Arabic is available, we do not list the various medieval translations (Hebrew and Latin) that were made. We also do not provide a comprehensive list of all available modern translations outside of English. But, in cases where an English translation is not available, we list available translations in other European languages.
 
 Where the medieval Latin translation remains useful to consult, we refer to the most commonly used edition:
 
-* *Aristotelis opera cum Averrois commentariis* (Venice: Junta, 1562), [available online](http://capricorn.bc.edu/siepm/books.html#12).
+* _Aristotelis opera cum Averrois commentariis_ (Venice: Junta, 1562), [available online](http://capricorn.bc.edu/siepm/books.html#12).
 
 ### A. Works of Ibn Rushd
 
 #### A1. Religious Treatises
 
-***Abridgement of al-Ghazālī (Ḍarūrī fī uṣūl al-fiqh)*** (1157)
+_**Abridgement of al-Ghazālī (Ḍarūrī fī uṣūl al-fiqh)**_ (1157)
 
-An abridgement of al-Ghazālī’s *Mustaṣfā min ʿilm al-ʿuṣūl,* extant in Arabic:
+An abridgement of al-Ghazālī’s _Mustaṣfā min ʿilm al-ʿuṣūl,_ extant in Arabic:
 
-*Al-Ḍarūrī fī uṣūl al-fiqh: Mukhtaṣar al-Mustaṣfā,* edited by Jamāl Al-Dīn Al-ʿAlawī (Beirut: Dār al-gharb al-Islāmī, 1994).
+_Al-Ḍarūrī fī uṣūl al-fiqh: Mukhtaṣar al-Mustaṣfā,_ edited by Jamāl Al-Dīn Al-ʿAlawī (Beirut: Dār al-gharb al-Islāmī, 1994).
 
 There is a French translation, with a revised edition:
 
-*Le philosophe et la loi; Edition, traduction, et commentaire de l’Abrégé du Mustaṣfā*, ed. and tr. Ziad Bou Akl (Berlin: De Gruyter, 2015)
+_Le philosophe et la loi; Edition, traduction, et commentaire de l’Abrégé du Mustaṣfā_, ed. and tr. Ziad Bou Akl (Berlin: De Gruyter, 2015)
 
-*References are to the page of the French plus the {page} of the Al-ʿAlawī edition.*
+_References are to the page of the French plus the {page} of the Al-ʿAlawī edition._
 
-***The Distinguished Jurist’s Primer (Bidāyat al-mujtahid wa-nihāyat al-muqtaṣid)*** (begun 1169; completed 1188)
+_**The Distinguished Jurist’s Primer (Bidāyat al-mujtahid wa-nihāyat al-muqtaṣid)**_ (begun 1169; completed 1188)
 
 Extant in Arabic in many imperfect editions, including:
 
-*Bidāyat al-mujtahid wa nihāyat al-muqtaṣid*, 2 vols., 6th ed. (Beirut: Dār al-Maʿrifa, 1982).
+_Bidāyat al-mujtahid wa nihāyat al-muqtaṣid_, 2 vols., 6th ed. (Beirut: Dār al-Maʿrifa, 1982).
 
 Translated into English:
 
-*The Distinguished Jurist’s Primer: A Translation of Bidāyat al-Mujtahid*, tr. I. A. K. Nyazee, reviewed by M. Abdul Rauf, 2 vols. (Reading: Garnet, 2006).
+_The Distinguished Jurist’s Primer: A Translation of Bidāyat al-Mujtahid_, tr. I. A. K. Nyazee, reviewed by M. Abdul Rauf, 2 vols. (Reading: Garnet, 2006).
 
-*References are to the (book.page) of the translation, plus the {volume.page} of the Arabic.*
+_References are to the (book.page) of the translation, plus the {volume.page} of the Arabic._
 
-***Decisive Treatise (Faṣl al-maqāl)*** (1178/9)
+_**Decisive Treatise (Faṣl al-maqāl)**_ (1178/9)
 
 The Arabic with facing English translation is available here:
 
-*The Book of the Decisive Treatise Determining the Connection Between the Law and Wisdom; and Epistle Dedicatory*, tr. Charles E. Butterworth (Provo, UT: Brigham Young University Press, 2001).
+_The Book of the Decisive Treatise Determining the Connection Between the Law and Wisdom; and Epistle Dedicatory_, tr. Charles E. Butterworth (Provo, UT: Brigham Young University Press, 2001).
 
-*References are to the (section) of this text.*
+_References are to the (section) of this text._
 
-***A Question on Divine Knowledge (al-Ḍamīma*****)**(1179?)
+_**A Question on Divine Knowledge (al-Ḍamīma**_\*\*)\*\*(1179?)
 
-This brief treatise has traditionally been described as an appendix to the *Decisive Treatise*, and more recently as a prefatory epistle, but in fact all we know is that it is mentioned in the *Decisive Treatise*. The Arabic, with facing English translation, is available here:
+This brief treatise has traditionally been described as an appendix to the _Decisive Treatise_, and more recently as a prefatory epistle, but in fact all we know is that it is mentioned in the _Decisive Treatise_. The Arabic, with facing English translation, is available here:
 
-*The Book of the Decisive Treatise Determining the Connection Between the Law and Wisdom; and Epistle Dedicatory*, tr. Charles E. Butterworth (Provo, UT: Brigham Young University Press, 2001).
+_The Book of the Decisive Treatise Determining the Connection Between the Law and Wisdom; and Epistle Dedicatory_, tr. Charles E. Butterworth (Provo, UT: Brigham Young University Press, 2001).
 
-***Al-Kashf ʿan manāhij al-adilla fī ʿaqāʾid al-milla*** **(*Exposition of the Methods of Proof concerning Religious Doctrines*)** (1179/80?)
+_**Al-Kashf ʿan manāhij al-adilla fī ʿaqāʾid al-milla**_ **(**_**Exposition of the Methods of Proof concerning Religious Doctrines**_**)** (1179/80?)
 
-The *Kashf* is extant and available in various imperfect Arabic editions, including:
+The _Kashf_ is extant and available in various imperfect Arabic editions, including:
 
-*Al-Kashf ʿan manāhij al-adillah fī ʿaqāʾid al-millah*, ed. Muṣṭafā Ḥanfī (Beirut: Markaz Dirāsāt al-Waḥdah al-ʿArabīyah, 1998). [Bibliographies commonly misattribute editorship of this work to M. A. Al-Jābirī, who in fact merely supervised the edition.]
+_Al-Kashf ʿan manāhij al-adillah fī ʿaqāʾid al-millah_, ed. Muṣṭafā Ḥanfī (Beirut: Markaz Dirāsāt al-Waḥdah al-ʿArabīyah, 1998). \[Bibliographies commonly misattribute editorship of this work to M. A. Al-Jābirī, who in fact merely supervised the edition.]
 
 Fouad Ben Ahmed is preparing a new edition that draws on previously unused manuscripts.
 
 There is an English translation:
 
-*Faith and Reason in Islam: Averroes’ Exposition of Religious Arguments*, tr. Ibrahim Y. Najjar (Oxford: Oneworld, 2001).
+_Faith and Reason in Islam: Averroes’ Exposition of Religious Arguments_, tr. Ibrahim Y. Najjar (Oxford: Oneworld, 2001).
 
-*References are to (chapter.page) of the translation, plus {Arabic page}.*
+_References are to (chapter.page) of the translation, plus {Arabic page}._
 
-***The Incoherence of the Incoherence (Tahāfut al-Tahāfut)*** (1180/81)
+_**The Incoherence of the Incoherence (Tahāfut al-Tahāfut)**_ (1180/81)
 
 Extant in Arabic:
 
-*Tahāfut al-Tahāfut*, ed. Maurice Bouyges (Beirut: Imprimerie Catholique, 1930).
+_Tahāfut al-Tahāfut_, ed. Maurice Bouyges (Beirut: Imprimerie Catholique, 1930).
 
 In English translation:
 
-*Tahāfut al-Tahāfut (The Incoherence of the Incoherence)*, tr. Simon van den Bergh, 2 vols. (London: Luzac, 1954).
+_Tahāfut al-Tahāfut (The Incoherence of the Incoherence)_, tr. Simon van den Bergh, 2 vols. (London: Luzac, 1954).
 
-*References are to (part.discussion) of the translation, plus {Arabic page}, which is given marginally in the translation.*
+_References are to (part.discussion) of the translation, plus {Arabic page}, which is given marginally in the translation._
 
 #### A2. Aristotelian (and Related) Commentaries
 
-***Compendium on Logic*** **(*****Mukhtaṣar al-Manṭiq / Kitāb al-ḍarūrī fī-l-manṭiq)*** (1157)
+_**Compendium on Logic**_ \*\*(\*\*_**Mukhtaṣar al-Manṭiq / Kitāb al-ḍarūrī fī-l-manṭiq)**_ (1157)
 
 One of Ibn Rushd’s earliest works, a summary of logic that briefly runs through the entire extended Organon. An edition of the Arabic, with English translation, is forthcoming:
 
-*Short Commentaries on Aristotle’s Organon*, ed. and tr. Charles E. Butterworth (Albany, NY: SUNY Press, forthcoming).
+_Short Commentaries on Aristotle’s Organon_, ed. and tr. Charles E. Butterworth (Albany, NY: SUNY Press, forthcoming).
 
 Three sections of this work were earlier published:
 
-*Three Short Commentaries on Aristotle’s Topics, Rhetoric, and Poetics*, ed. and tr. Charles E. Butterworth (Albany, NY: SUNY Press, 1977).
+_Three Short Commentaries on Aristotle’s Topics, Rhetoric, and Poetics_, ed. and tr. Charles E. Butterworth (Albany, NY: SUNY Press, 1977).
 
-*References are to the (treatise.section) of the forthcoming translation.*
+_References are to the (treatise.section) of the forthcoming translation._
 
-**Porphyry**, ***Isagoge***
+**Porphyry**, _**Isagoge**_
 
 **Epitome**
 
-See *CompLogic*, above.
+See _CompLogic_, above.
 
-**Paraphrase** (circa 1170)
+**Paraphrase** (circa 1170)
 
 The Arabic is not extant, but there is a translation in Hebrew:
 
-*Commentarium medium in Porphyrii Isagogen et Aristotelis Categorias*, ed. Herbert A. Davidson (Cambridge, MA: Mediaeval Academy of America, 1969), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_In%20Isagogen%20et%20Categorias_Medium_hebrew.pdf).
+_Commentarium medium in Porphyrii Isagogen et Aristotelis Categorias_, ed. Herbert A. Davidson (Cambridge, MA: Mediaeval Academy of America, 1969), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_In%20Isagogen%20et%20Categorias\_Medium\_hebrew.pdf).
 
 And in Latin:
 
-*Commentum medium super libro Porphyrii: translatio Wilhelmo de Luna adscripta*, ed. Roland Hissette (Louvain: Peeters, 2016).
+_Commentum medium super libro Porphyrii: translatio Wilhelmo de Luna adscripta_, ed. Roland Hissette (Louvain: Peeters, 2016).
 
 It has also been translated into English:
 
-*Middle Commentary on Porphyry’s Isagoge and on Aristotle’s Categoriae*, tr. Herbert A. Davidson (Cambridge, MA: Mediaeval Academicy of America, 1969).
+_Middle Commentary on Porphyry’s Isagoge and on Aristotle’s Categoriae_, tr. Herbert A. Davidson (Cambridge, MA: Mediaeval Academicy of America, 1969).
 
-***Categories***
+_**Categories**_
 
 **Epitome**
 
-See *CompLogic*, above.
+See _CompLogic_, above.
 
-**Paraphrase** (1164?)
+**Paraphrase** (1164?)
 
 Extant in Arabic:
 
-*Talkhīṣ Kitāb al-Maqūlāt*, ed. Maḥmūd Qāsim and Charles E. Butterworth (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1980).
+_Talkhīṣ Kitāb al-Maqūlāt_, ed. Maḥmūd Qāsim and Charles E. Butterworth (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1980).
 
 And it has been translated:
 
-*Middle Commentaries on Aristotle’s Categories and De Interpretatione*, tr. Charles E. Butterworth (Princeton, NJ.: Princeton University Press, 1983).
+_Middle Commentaries on Aristotle’s Categories and De Interpretatione_, tr. Charles E. Butterworth (Princeton, NJ.: Princeton University Press, 1983).
 
-***De interpretatione***
+_**De interpretatione**_
 
 **Epitome**
 
-See *CompLogic*, above.
+See _CompLogic_, above.
 
-**Paraphrase** (1165?)
+**Paraphrase** (1165?)
 
 The Arabic is available in various editions, including
 
-*Talkhīṣ kitāb al-ʿIbāra* / *Averrois Cordubensis in librum Aristotelis De interpretatione*, ed. Maḥmūd Qāsim, Charles E. Butterworth, Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1981).
+_Talkhīṣ kitāb al-ʿIbāra_ / _Averrois Cordubensis in librum Aristotelis De interpretatione_, ed. Maḥmūd Qāsim, Charles E. Butterworth, Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1981).
 
 Available in translation into English:
 
-*Middle Commentaries on Aristotle’s Categories and De Interpretatione*, tr. Charles E. Butterworth (Princeton, NJ.: Princeton University Press, 1983).
+_Middle Commentaries on Aristotle’s Categories and De Interpretatione_, tr. Charles E. Butterworth (Princeton, NJ.: Princeton University Press, 1983).
 
-***Prior Analytics***
+_**Prior Analytics**_
 
 **Epitome**
 
-See *CompLogic*, above.
+See _CompLogic_, above.
 
-**Paraphrase** (1166?)
+**Paraphrase** (1166?)
 
 Available in multiple Arabic editions, including
 
-*Talkhīṣ kitāb al-qiyās / Averrois Cordubensis in Aristotelis Priorum analiticorum libros*, ed. Maḥmūd Qāsim, Charles E. Butterworth, Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1983).
+_Talkhīṣ kitāb al-qiyās / Averrois Cordubensis in Aristotelis Priorum analiticorum libros_, ed. Maḥmūd Qāsim, Charles E. Butterworth, Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1983).
 
 Multiple English translations, including
 
-*Middle Commentary on Aristotle’s Prior Analytics*, ed. Maḥmūd Qāsim, Charles E. Butterworth, Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1983).
+_Middle Commentary on Aristotle’s Prior Analytics_, ed. Maḥmūd Qāsim, Charles E. Butterworth, Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1983).
 
-***Posterior Analytics***
+_**Posterior Analytics**_
 
 **Epitome**
 
-See *CompLogic*, above.
+See _CompLogic_, above.
 
-**Paraphrase** (1170)
+**Paraphrase** (1170)
 
 Available in multiple Arabic editions, including
 
-*Talkhīṣ Kitāb al-Burhān*, ed. Mahmūd Qāsim (Cairo: al-Haya al-ʿĀmma li al-Kitāb, 1982).
+_Talkhīṣ Kitāb al-Burhān_, ed. Mahmūd Qāsim (Cairo: al-Haya al-ʿĀmma li al-Kitāb, 1982).
 
-No modern translation has been made, but there is a Latin translation in [Junta 1562 vol. 1 pt. 2b](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Logica_JuntSecunda_01-3.pdf).
+No modern translation has been made, but there is a Latin translation in [Junta 1562 vol. 1 pt. 2b](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-3.pdf).
 
-**Long Commentary** (after 1186)
+**Long Commentary** (after 1186)
 
 Extant in Arabic but only through I.23 (85a11):
 
-*Sharḥ al-Burhān li-Arisṭū wa-Talkhīṣ al-Burhān*, ed. ʿAbd al-Raḥmān Badawī (Kuwait: al-Majlis al-Waṭanī li-1-ṭaqāfa wa-l-funūn wa-1-ādāb, 1984), 155–486.
+_Sharḥ al-Burhān li-Arisṭū wa-Talkhīṣ al-Burhān_, ed. ʿAbd al-Raḥmān Badawī (Kuwait: al-Majlis al-Waṭanī li-1-ṭaqāfa wa-l-funūn wa-1-ādāb, 1984), 155–486.
 
-The complete Hebrew translation has been transcribed [online](https://dare.uni-koeln.de/app/fulltexts/FT114).
+The complete Hebrew translation has been transcribed [online](https://dare.uni-koeln.de/app/fulltexts/FT114).
 
-No modern translation has been made, but three Latin translations, each based on an earlier, complete Hebrew translation, are printed in [Junta 1562 vol. 1 pt. 2a](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Logica_JuntSecunda_01-2a.Long%20Post%20An.pdf).
+No modern translation has been made, but three Latin translations, each based on an earlier, complete Hebrew translation, are printed in [Junta 1562 vol. 1 pt. 2a](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-2a.Long%20Post%20An.pdf).
 
-*References are to (book.comment) of the Junta edition, plus {Arabic page}.*
+_References are to (book.comment) of the Junta edition, plus {Arabic page}._
 
-***Topics***
+_**Topics**_
 
 **Epitome**
 
-See *CompLogic*, above.
+See _CompLogic_, above.
 
-**Paraphrase** (1168)
+**Paraphrase** (1168)
 
 Available in multiple Arabic editions, including
 
-*Commentarium Medium in Aristotelis Topica*, ed. Charles E. Butterworth and Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1979).
+_Commentarium Medium in Aristotelis Topica_, ed. Charles E. Butterworth and Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1979).
 
-No modern translation, but a Latin translation is available in [Junta 1562 vol. 1 pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Logica_JuntSecunda_01-3.pdf).
+No modern translation, but a Latin translation is available in [Junta 1562 vol. 1 pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-3.pdf).
 
-*References are to the Latin (book.page {Arabic page}).*
+_References are to the Latin (book.page {Arabic page})._
 
-***Sophistical Refutations***
+_**Sophistical Refutations**_
 
 **Epitome**
 
-See *CompLogic*, above.
+See _CompLogic_, above.
 
-**Paraphrase** (1174?)
+**Paraphrase** (1174?)
 
 Available in multiple Arabic editions, including
 
-*Talkhīs al-Safsaṭa,* ed. M. Salīm Sālim (Cairo: Dār al-Kutub, 1973).
+_Talkhīs al-Safsaṭa,_ ed. M. Salīm Sālim (Cairo: Dār al-Kutub, 1973).
 
-No modern translation, but a Latin translation is available in [Junta 1562 vol. I pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Logica_JuntSecunda_01-3.pdf).
+No modern translation, but a Latin translation is available in [Junta 1562 vol. I pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-3.pdf).
 
-***Rhetoric***
+_**Rhetoric**_
 
 **Epitome**
 
-See *CompLogic*, above.
+See _CompLogic_, above.
 
-**Paraphrase** (1175)
+**Paraphrase** (1175)
 
 In Arabic, with a French translation:
 
-*Commentaire moyen à la Rhétorique d’Aristote*, ed. and tr. M. Aouad, 3 vols. (Paris: Vrin, 2002).
+_Commentaire moyen à la Rhétorique d’Aristote_, ed. and tr. M. Aouad, 3 vols. (Paris: Vrin, 2002).
 
 Book I has been translated into English:
 
-*Three Arabic Treatises on Aristotle’s Rhetoric: the Commentaries of al-Fārābī, Avicenna, and Averroes*, tr. Lahcen Elyazghi Ezzaher (Carbondale: Southern Illinois University Press, 2015), 72–181.
+_Three Arabic Treatises on Aristotle’s Rhetoric: the Commentaries of al-Fārābī, Avicenna, and Averroes_, tr. Lahcen Elyazghi Ezzaher (Carbondale: Southern Illinois University Press, 2015), 72–181.
 
-***Poetics***
+_**Poetics**_
 
 **Epitome**
 
-See *CompLogic*, above.
+See _CompLogic_, above.
 
-**Paraphrase** (1176?)
+**Paraphrase** (1176?)
 
 Extant in Arabic:
 
-*Commentarium medium in Aristotelis De arte poetica liber*, ed. Charles E. Butterworth with the assistance of Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-Miṣriyya al-ʿāmma li-l-kitāb, 1986).
+_Commentarium medium in Aristotelis De arte poetica liber_, ed. Charles E. Butterworth with the assistance of Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-Miṣriyya al-ʿāmma li-l-kitāb, 1986).
 
 In English translation:
 
-*Averroes’ Middle Commentary on Aristotle’s Poetics*, tr. Charles E. Butterworth (Princeton, NJ: Princeton University Press, 1986; repr. South Bend, IN: St. Augustine’s Press, 2000).
+_Averroes’ Middle Commentary on Aristotle’s Poetics_, tr. Charles E. Butterworth (Princeton, NJ: Princeton University Press, 1986; repr. South Bend, IN: St. Augustine’s Press, 2000).
 
-***Physics***
+_**Physics**_
 
-**Epitome** (1159, revised after 1186)
+**Epitome** (1159, revised after 1186)
 
-The four short commentaries on physical treatises—*Physics*, *De caelo*, *On Generation and Corruption*, and *Meteorology*—were conceived of as a single work, *Al-jawāmiʿ fī l-falsafa*. They are, however, often edited and translated separately.
+The four short commentaries on physical treatises—_Physics_, _De caelo_, _On Generation and Corruption_, and _Meteorology_—were conceived of as a single work, _Al-jawāmiʿ fī l-falsafa_. They are, however, often edited and translated separately.
 
 Extant in Arabic:
 
-*Epitome in physicorum libros*, ed. Josep Puig (Madrid: Consejo Superior de Investigaciones Científicas: Instituto Hispano-Arabe de Cultura, 1983).
+_Epitome in physicorum libros_, ed. Josep Puig (Madrid: Consejo Superior de Investigaciones Científicas: Instituto Hispano-Arabe de Cultura, 1983).
 
 Translated into Spanish:
 
-*Epítome de física*, tr. Josep Puig (Madrid: Consejo Superior de Investigaciones Científicas: Instituto Hispano-Arabe de Cultura, 1987).
+_Epítome de física_, tr. Josep Puig (Madrid: Consejo Superior de Investigaciones Científicas: Instituto Hispano-Arabe de Cultura, 1987).
 
-*References are to (book.page) of the translation plus {Arabic page}.*
+_References are to (book.page) of the translation plus {Arabic page}._
 
-**Paraphrase** (1169)
+**Paraphrase** (1169)
 
 Not extant in Arabic, but it survives in two distinct Hebrew versions. Only the first two books of the more popular Kalonymus translation have been edited and translated:
 
-*Averroes on the Principles of Nature: The* Middle Commentary *on Aristotle’s* Physics *I–II*, edited and translated by Steven Harvey (Harvard: Ph.D. dissertation, 1977).
+_Averroes on the Principles of Nature: The_ Middle Commentary _on Aristotle’s_ Physics _I–II_, edited and translated by Steven Harvey (Harvard: Ph.D. dissertation, 1977).
 
 The Latin translation (Junta 1962, vol. 4) is based on the Hebrew.
 
-A detailed outline (*taqsīm*) of the text is extant in Arabic:
+A detailed outline (_taqsīm_) of the text is extant in Arabic:
 
-*Min Talkhīṣ al-Samāʿ al-ṭabīʿi: Taqsīm al-Samāʿ al-ṭabīʿi*, ed. Jamāl al-Dīn al- *ʿ*Alawī, *Revue de la Faculté des lettres et des sciences humaines*, *Dhar al-Mahraz de Fes* 7 (1983-1984), 205*–*55.
+_Min Talkhīṣ al-Samāʿ al-ṭabīʿi: Taqsīm al-Samāʿ al-ṭabīʿi_, ed. Jamāl al-Dīn al- _ʿ_Alawī, _Revue de la Faculté des lettres et des sciences humaines_, _Dhar al-Mahraz de Fes_ 7 (1983-1984), 205\*–\*55.
 
-**Long Commentary** (1186)
+**Long Commentary** (1186)
 
-Not extant in Arabic. A Hebrew translation survives but is not yet edited (save for the edition with translation in Harvey 1985 of the important proem). The Latin translation is available in Iunta 1562, vol. 4, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Physica_JuntSecunda_04.pdf). The Latin text of Book VII is available in a modern edition:
+Not extant in Arabic. A Hebrew translation survives but is not yet edited (save for the edition with translation in Harvey 1985 of the important proem). The Latin translation is available in Iunta 1562, vol. 4, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Physica\_JuntSecunda\_04.pdf). The Latin text of Book VII is available in a modern edition:
 
-*Commentarium Magnum In Aristotelis Physicorum Librum Septimum (Vindobonensis [Vienna] lat. 2334)*, ed. H. Schmieja (Paderborn, 2006), [available online](https://dare.uni-koeln.de/app/fulltexts/FT14).
+_Commentarium Magnum In Aristotelis Physicorum Librum Septimum (Vindobonensis \[Vienna] lat. 2334)_, ed. H. Schmieja (Paderborn, 2006), [available online](https://dare.uni-koeln.de/app/fulltexts/FT14).
 
-*References are made to (book.comment) of the Latin text.*
+_References are made to (book.comment) of the Latin text._
 
-Glasner (2009) contains much useful information about the various commentaries on the *Physics* and their various translations.
+Glasner (2009) contains much useful information about the various commentaries on the _Physics_ and their various translations.
 
-***De caelo***
+_**De caelo**_
 
-**Epitome** (1159)
+**Epitome** (1159)
 
 Extant in Arabic:
 
-*Rasāʾil Ibn Rushd* (Hyderabad: Daʾirat al-Maʿārif al-ʿUthmāniyya, 1947).
+_Rasāʾil Ibn Rushd_ (Hyderabad: Daʾirat al-Maʿārif al-ʿUthmāniyya, 1947).
 
 No modern translation.
 
-**Paraphrase** (1171)
+**Paraphrase** (1171)
 
 Extant in Arabic:
 
-*Talkhīṣ al-Samāʾ wa-l-ʿālam*, ed. Jamāl al-Dīn al-ʿAlawī (Fes: Faculté des Lettres, 1984), [available online](https://dare.uni-koeln.de/app/fulltexts/FT109).
+_Talkhīṣ al-Samāʾ wa-l-ʿālam_, ed. Jamāl al-Dīn al-ʿAlawī (Fes: Faculté des Lettres, 1984), [available online](https://dare.uni-koeln.de/app/fulltexts/FT109).
 
-There is no modern translation, but there is a Latin version in [Iunta 1962, vol. 5](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_DC_DGC_M_JuntSecunda_05.pdf).
+There is no modern translation, but there is a Latin version in [Iunta 1962, vol. 5](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_DC\_DGC\_M\_JuntSecunda\_05.pdf).
 
-**Long Commentary** (1188)
+**Long Commentary** (1188)
 
 The whole surives only in Latin:
 
-*Commentum magnum super libro De celo et mundo Aristotelis*, ed. Francis J. Carmody and Rüdiger Arnzen, 2 vols. (Leuven: Peeters, 2003), [available online](https://dare.uni-koeln.de/app/fulltexts/FT19).
+_Commentum magnum super libro De celo et mundo Aristotelis_, ed. Francis J. Carmody and Rüdiger Arnzen, 2 vols. (Leuven: Peeters, 2003), [available online](https://dare.uni-koeln.de/app/fulltexts/FT19).
 
 A third of the Arabic (= I.61–140 and II.1–42) survives:
 
-*Sharḥ al-Samāʾ wa-l-ʿālam*, ed. Asʿad Jumʿa, 2 vols. (Tunis: Markaz al-Nashr al-Jāmiʿī, 2002).
+_Sharḥ al-Samāʾ wa-l-ʿālam_, ed. Asʿad Jumʿa, 2 vols. (Tunis: Markaz al-Nashr al-Jāmiʿī, 2002).
 
-*References are to the (book.comment.page) of the Latin edition.*
+_References are to the (book.comment.page) of the Latin edition._
 
-***On Generation and Corruption***
+_**On Generation and Corruption**_
 
-**Epitome** (1159)
+**Epitome** (1159)
 
 Extant in Arabic:
 
-*Epitome del libro sobre la generación y la corrupción*, edition and Spanish translation by Josep Puig Montada (Madrid: Consejo Superior de Investigaciones Científicas, 1992).
+_Epitome del libro sobre la generación y la corrupción_, edition and Spanish translation by Josep Puig Montada (Madrid: Consejo Superior de Investigaciones Científicas, 1992).
 
 Available in English:
 
-*Averroes on Aristotle’s* De generatione et corruptione*:* *Middle Commentary and Epitome*, tr. Samuel Kurland (Cambridge, MA: Mediaeval Academy of America, 1958).
+_Averroes on Aristotle’s_ De generatione et corruptione\*:\* _Middle Commentary and Epitome_, tr. Samuel Kurland (Cambridge, MA: Mediaeval Academy of America, 1958).
 
-*References are to (book.page) of the translation, plus {Arabic page}.*
+_References are to (book.page) of the translation, plus {Arabic page}._
 
-**Paraphrase** (1172)
+**Paraphrase** (1172)
 
 Extant in Arabic:
 
-*Mittlerer Kommentar zu Aristoteles’ De generatione et corruptione*, ed. Heidrun Eichner (Paderborn: F. Schöningh, 2005), [available online](https://dare.uni-koeln.de/app/fulltexts/FT21).
+_Mittlerer Kommentar zu Aristoteles’ De generatione et corruptione_, ed. Heidrun Eichner (Paderborn: F. Schöningh, 2005), [available online](https://dare.uni-koeln.de/app/fulltexts/FT21).
 
 Available in English:
 
-*Averroes on Aristotle’s* De generatione et corruptione. *Middle Commentary and Epitome*, tr. Samuel Kurland (Cambridge, MA: Mediaeval Academy of America, 1958).
+_Averroes on Aristotle’s_ De generatione et corruptione. _Middle Commentary and Epitome_, tr. Samuel Kurland (Cambridge, MA: Mediaeval Academy of America, 1958).
 
-***Meteorology***
+_**Meteorology**_
 
-**Epitome** (1159)
+**Epitome** (1159)
 
 Extant in Arabic:
 
-*Kitāb al-Āthār al-ʿulwiyya / Averroes’ Epitome Meteorologica*, edited by Suhayr Faḍllallāh Abū Wāfiya and Suʿād ʿAlī ʿAbd-al-Rāziq, revised by Zaynab Maḥmūd al-Khuḍayrī (Cairo: al-Majlis al-aʿla li-1-Thaqāfa, 1994).
+_Kitāb al-Āthār al-ʿulwiyya / Averroes’ Epitome Meteorologica_, edited by Suhayr Faḍllallāh Abū Wāfiya and Suʿād ʿAlī ʿAbd-al-Rāziq, revised by Zaynab Maḥmūd al-Khuḍayrī (Cairo: al-Majlis al-aʿla li-1-Thaqāfa, 1994).
 
 No modern translation.
 
-**Paraphrase** (1173?)
+**Paraphrase** (1173?)
 
 Extant in Arabic:
 
-*Talkhīṣ al-Āthār al-ʿulwiyya*, ed. Jamāl-al-Dīn alʿAlawī (Beirut: Dār al-Gharb al-Islāmī, 1994).
+_Talkhīṣ al-Āthār al-ʿulwiyya_, ed. Jamāl-al-Dīn alʿAlawī (Beirut: Dār al-Gharb al-Islāmī, 1994).
 
-Translated into Latin in Junta 1962, vol. 5, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_DC_DGC_M_JuntSecunda_05.pdf).
+Translated into Latin in Junta 1962, vol. 5, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_DC\_DGC\_M\_JuntSecunda\_05.pdf).
 
-***De anima***
+_**De anima**_
 
-**Epitome** (circa 1158-1160)
+**Epitome** (circa 1158-1160)
 
 Extant in Arabic in various editions, including
 
-*Talkhīṣ Kitāb al-nafs*, ed. Aḥmad Fuʾād al-Ahwānī (Cairo: Maktabat al-Nahḍa al-Miṣrīyya, 1950).
+_Talkhīṣ Kitāb al-nafs_, ed. Aḥmad Fuʾād al-Ahwānī (Cairo: Maktabat al-Nahḍa al-Miṣrīyya, 1950).
 
 There is a Spanish translation:
 
-*La psicología de Averroes: commentario al libro “Sobre el alma” de Aristóteles*, tr. Salvador Gómez Nogales (Madrid: Universidad Nacional de Educacion a Distancia, 1987).
+_La psicología de Averroes: commentario al libro “Sobre el alma” de Aristóteles_, tr. Salvador Gómez Nogales (Madrid: Universidad Nacional de Educacion a Distancia, 1987).
 
-*References are to the (Spanish page {Arabic page}).*
+_References are to the (Spanish page {Arabic page})._
 
-**Paraphrase** (1172/1181)
+**Paraphrase** (1172/1181)
 
 Extant in Arabic, with facing English translation:
 
-*Middle Commentary on Aristotle’s De Anima*, ed. and tr. A. L. Ivry (Provo, UT: Brigham Young University Press, 2002).
+_Middle Commentary on Aristotle’s De Anima_, ed. and tr. A. L. Ivry (Provo, UT: Brigham Young University Press, 2002).
 
-**Long Commentary** (1186)
+**Long Commentary** (1186)
 
 Survives only in Latin:
 
-*Averrois Cordubensis Commentarium magnum in Aristotelis De anima libros*, ed. F. S. Crawford (Cambridge, MA: Medieval Academy of America, 1953), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_DeAnima_Crawford.pdf).
+_Averrois Cordubensis Commentarium magnum in Aristotelis De anima libros_, ed. F. S. Crawford (Cambridge, MA: Medieval Academy of America, 1953), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_DeAnima\_Crawford.pdf).
 
 An English translation carefully compares the Latin with surviving Arabic fragments:
 
-*Long Commentary on the De anima of Aristotle*, tr. Richard C. Taylor, with Thérèse-Anne Druart (New Haven: Yale University Press, 2009).
+_Long Commentary on the De anima of Aristotle_, tr. Richard C. Taylor, with Thérèse-Anne Druart (New Haven: Yale University Press, 2009).
 
-*References are to (book.comment {Latin page})*.
+_References are to (book.comment {Latin page})_.
 
-***Parva naturalia*** (1170)
+_**Parva naturalia**_ (1170)
 
 The sole commentary has traditionally been described as an epitome, but recent scholarship suggests that it might better be thought of as a paraphrase (Hansberger 2019). It is extant in Arabic:
 
-*Compendia librorum Aristotelis qui Parva naturalia vocantur*, ed. Henry Blumberg (Cambridge, MA: Mediaeval Academy of America, 1972).
+_Compendia librorum Aristotelis qui Parva naturalia vocantur_, ed. Henry Blumberg (Cambridge, MA: Mediaeval Academy of America, 1972).
 
 And has been translated:
 
-*Epitome of Parva naturalia*, tr. Henry Blumberg (Cambridge, MA: The Mediaeval Academy of America, 1961).
+_Epitome of Parva naturalia_, tr. Henry Blumberg (Cambridge, MA: The Mediaeval Academy of America, 1961).
 
-*References are to (book.page) of the English plus {Arabic page}.*
+_References are to (book.page) of the English plus {Arabic page}._
 
-***De animalibus***
+_**De animalibus**_
 
-**Paraphrase** (1170)
+**Paraphrase** (1170)
 
-Extant in Latin and Hebrew, and covering only the *Parts of Animals* and the *Generation of Animals*. Only the Latin has been edited, in volume 6 of the 1562 Junta edition, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Animalia_JuntSecunda_06.pdf).
+Extant in Latin and Hebrew, and covering only the _Parts of Animals_ and the _Generation of Animals_. Only the Latin has been edited, in volume 6 of the 1562 Junta edition, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Animalia\_JuntSecunda\_06.pdf).
 
-***Metaphysics***
+_**Metaphysics**_
 
-**Epitome** (composed circa 1161, but revised around 1180 and again in the early 1190s)
+**Epitome** (composed circa 1161, but revised around 1180 and again in the early 1190s)
 
 Extant in Arabic in various non-critical editions, including:
 
-*Compendio de Metafisica: texto Arabe*, ed. Carlos Quirós Rodríguez (Madrid: Estanislao Maestre, 1919).
+_Compendio de Metafisica: texto Arabe_, ed. Carlos Quirós Rodríguez (Madrid: Estanislao Maestre, 1919).
 
 An English translation has been made based on careful study of the manuscript tradition:
 
-*Averroes on Aristotle’s Metaphysics: An Annotated Translation of the So-Called “Epitome,”* tr. Rüdiger Arnzen (Berlin: De Gruyter, 2010).
+_Averroes on Aristotle’s Metaphysics: An Annotated Translation of the So-Called “Epitome,”_ tr. Rüdiger Arnzen (Berlin: De Gruyter, 2010).
 
-*References are to (chapter.page) of the translation, plus {Arabic page}.*
+_References are to (chapter.page) of the translation, plus {Arabic page}._
 
-**Paraphrase** (1174)
+**Paraphrase** (1174)
 
 Extant only in Hebrew, in two translations:
 
-*Il* Commento medio *di Averroè alla* Metafisica *di Aristotele nella tradizione ebraica*, ed. Mauro Zonta, 2 vols. (Pavia: Pavia University Press, 2011).
+_Il_ Commento medio _di Averroè alla_ Metafisica _di Aristotele nella tradizione ebraica_, ed. Mauro Zonta, 2 vols. (Pavia: Pavia University Press, 2011).
 
 This work includes an Italian translation of Bks. I–II.
 
-**Long Commentary** (after 1190)
+**Long Commentary** (after 1190)
 
 Extant in Arabic:
 
-*Tafsīr Mā baʿd al-ṭabīʿa*, ed. Maurice Bouyges, 3rd ed., 3 vols. (Beirut: Dar el-Machreq, 1990).
+_Tafsīr Mā baʿd al-ṭabīʿa_, ed. Maurice Bouyges, 3rd ed., 3 vols. (Beirut: Dar el-Machreq, 1990).
 
 There is an English translation of Book XII:
 
-*Ibn Rushd’s Metaphysics: A Translation with Introduction of Ibn Rushd’s Commentary on Aristotle’s Metaphysics, Book Lām*, tr. Charles Genequand (Leiden: Brill, 1984).
+_Ibn Rushd’s Metaphysics: A Translation with Introduction of Ibn Rushd’s Commentary on Aristotle’s Metaphysics, Book Lām_, tr. Charles Genequand (Leiden: Brill, 1984).
 
 And a French translation of Book III:
 
-*Grand commentaire (Tafsīr) de la Métaphysique Livre Bêta*, tr. Laurence Bauloye (Paris: Vrin, 2002).
+_Grand commentaire (Tafsīr) de la Métaphysique Livre Bêta_, tr. Laurence Bauloye (Paris: Vrin, 2002).
 
 And a French translation of books I, II, IV, and VI:
 
-*Traduction commentée du Grand commentaire d’ Averroès aux livres petit Alpha, grand Alpha, Gamma et Epsilon de la Métaphysique d’ Aristote*, tr. Karim Kaddour (Paris: Université Panthéon- Sorbonne - Paris I, 2018).
+_Traduction commentée du Grand commentaire d’ Averroès aux livres petit Alpha, grand Alpha, Gamma et Epsilon de la Métaphysique d’ Aristote_, tr. Karim Kaddour (Paris: Université Panthéon- Sorbonne - Paris I, 2018).
 
-For the remainder, there is a Latin translation, in Junta 1562 vol. 8, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Metaphysica_JuntSecunda_08.pdf).
+For the remainder, there is a Latin translation, in Junta 1562 vol. 8, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Metaphysica\_JuntSecunda\_08.pdf).
 
-*References are to (book.comment {Arabic page})*.
+_References are to (book.comment {Arabic page})_.
 
-***Nicomachean Ethics***
+_**Nicomachean Ethics**_
 
-**Paraphrase** (1177)
+**Paraphrase** (1177)
 
 The Arabic is not extant, but the work has survived in Hebrew:
 
-*The Hebrew Version of Averroes’ Middle Commentary on Aristotle’s* Nicomachean Ethics, ed. Lawrence V. Berman (Jerusalem: Israel Academy of Sciences and Humanities, 1999).
+_The Hebrew Version of Averroes’ Middle Commentary on Aristotle’s_ Nicomachean Ethics, ed. Lawrence V. Berman (Jerusalem: Israel Academy of Sciences and Humanities, 1999).
 
-An independent Latin translation, printed in Junta 1562 vol. 3, is [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Moralia_JuntSecunda_03.pdf). A modern edition of Book X of the Latin translation has made been, along with a French translation:
+An independent Latin translation, printed in Junta 1562 vol. 3, is [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Moralia\_JuntSecunda\_03.pdf). A modern edition of Book X of the Latin translation has made been, along with a French translation:
 
-*Le plaisir, le bonheur, et l’acquisition des vertus: édition du Livre x du Commentaire moyen d’Averroès à l’Éthique à Nicomaque d’Aristote*, ed. and tr. Frédérique Woerther (Leiden: Brill, 2018).
+_Le plaisir, le bonheur, et l’acquisition des vertus: édition du Livre x du Commentaire moyen d’Averroès à l’Éthique à Nicomaque d’Aristote_, ed. and tr. Frédérique Woerther (Leiden: Brill, 2018).
 
-*References are to (book.chapter, page) of the Junta edition.*
+_References are to (book.chapter, page) of the Junta edition._
 
-**Plato’s *Republic***
+**Plato’s **_**Republic**_
 
 Not extant in Arabic, but it has survived in Hebrew:
 
-*Averroes’ Commentary on Plato’s Republic*, ed. and tr. Erwin I. J. Rosenthal (Cambridge: Cambridge University Press, 1956).
+_Averroes’ Commentary on Plato’s Republic_, ed. and tr. Erwin I. J. Rosenthal (Cambridge: Cambridge University Press, 1956).
 
 For an improved English translation see
 
-*Averroes on Plato’s Republic*, tr. Ralph Lerner (Ithaca: Cornell University Press, 1974).
+_Averroes on Plato’s Republic_, tr. Ralph Lerner (Ithaca: Cornell University Press, 1974).
 
-*References are to (treatise.page) of the Hebrew, given in the margin of Lerner’s translation.*
+_References are to (treatise.page) of the Hebrew, given in the margin of Lerner’s translation._
 
 #### A3. Medical Treatises
 
-***Al-Kulliyyāt fī al-ṭibb*** **(*General Principles of Medicine*)** (1162–69, subsequently revised)
+_**Al-Kulliyyāt fī al-ṭibb**_ **(**_**General Principles of Medicine**_**)** (1162–69, subsequently revised)
 
 The original redaction is extant in Arabic, in many editions, including:
 
-*Al-Kulliyyāt fī al-ṭibb*, ed. Murād Maḥfūẓ et al., with an introduction by Aḥmad Maḥfūẓ (Beirut: Markaz Dirāsāt al-Waḥda al-ʿArabiyya, 1999). [Bibliographies commonly misattribute editorship of this work to M. A. Al-Jābirī, who in fact merely supervised the edition.]
+_Al-Kulliyyāt fī al-ṭibb_, ed. Murād Maḥfūẓ et al., with an introduction by Aḥmad Maḥfūẓ (Beirut: Markaz Dirāsāt al-Waḥda al-ʿArabiyya, 1999). \[Bibliographies commonly misattribute editorship of this work to M. A. Al-Jābirī, who in fact merely supervised the edition.]
 
-The Latin (*Colliget*), which translates a significantly revised version of the text, is found in
+The Latin (_Colliget_), which translates a significantly revised version of the text, is found in
 
-Iunta 1562, vol. 10, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Colliget_JuntSecunda_10.pdf).
+Iunta 1562, vol. 10, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Colliget\_JuntSecunda\_10.pdf).
 
 It is also available in a modern Spanish translation:
 
-*El libro de las generalidades de la medicina*, tr. M. C. Vázquez de Benito, C. Álvarez de Morales (Madrid: Trotta, 2003).
+_El libro de las generalidades de la medicina_, tr. M. C. Vázquez de Benito, C. Álvarez de Morales (Madrid: Trotta, 2003).
 
-*References are to (book.page) of the Arabic text.*
+_References are to (book.page) of the Arabic text._
 
-***Commentary on Ibn Sīnā’s Medical Poem* (*Sharḥ li-Urjūza fī al-ṭibb / Avicennae Cantica*)** (between 1184 and 1195)
+_**Commentary on Ibn Sīnā’s Medical Poem**_** (**_**Sharḥ li-Urjūza fī al-ṭibb / Avicennae Cantica**_**)** (between 1184 and 1195)
 
 The Arabic text, with Latin and a modern Spanish translation:
 
-*Avicennae Cantica*, ed. and tr. J. Coullaut Cordero, E. Fernández Vallina, and M. C. Vázquez de Benito (Salamanca: Universidad de Salamanca, 2010).
+_Avicennae Cantica_, ed. and tr. J. Coullaut Cordero, E. Fernández Vallina, and M. C. Vázquez de Benito (Salamanca: Universidad de Salamanca, 2010).
 
-*References are to the Arabic text, by page number.*
+_References are to the Arabic text, by page number._
 
-***Commentaries on Galen*** (1190s)
+_**Commentaries on Galen**_ (1190s)
 
 Extant in Arabic:
 
-*Averrois in Galenum*, ed. Maria de la Conceptión Vázquez de Benito (Madrid: Consejo Superior de Investigaciones Cientfficas, 1984).
+_Averrois in Galenum_, ed. Maria de la Conceptión Vázquez de Benito (Madrid: Consejo Superior de Investigaciones Cientfficas, 1984).
 
 Translated here:
 
-*Medical Manuscripts of Averroes at El Escorial*, tr. Georges C. Anawati and P. Ghalioungui (Cairo: Al Ahram Center for Scientific Translations, 1986).
+_Medical Manuscripts of Averroes at El Escorial_, tr. Georges C. Anawati and P. Ghalioungui (Cairo: Al Ahram Center for Scientific Translations, 1986).
 
 #### A4. Brief Works
 
 Many brief treatises survive. The most prominent are these:
 
-***Questions on Logic***
+_**Questions on Logic**_
 
 Various questions are extant in Arabic:
 
-*Maqālāt fī l-manṭiq wa-l-ʿilm al-ṭabīʿī (Essais de logique et de physique d’Ibn Rochd)*, ed. Jamal al-Dīn al-ʿAlawī (Casablanca: Dār al-Nashr al-Maghribiyya, 1983), 71–221.
+_Maqālāt fī l-manṭiq wa-l-ʿilm al-ṭabīʿī (Essais de logique et de physique d’Ibn Rochd)_, ed. Jamal al-Dīn al-ʿAlawī (Casablanca: Dār al-Nashr al-Maghribiyya, 1983), 71–221.
 
 The material on assertoric propositions has been translated:
 
-Nicholas Rescher, “Averroes’ *Quaesitum* on Assertoric (Absolute) Propositions,” *Journal of the History of Philosophy* 1 (1963) 80–93.
+Nicholas Rescher, “Averroes’ _Quaesitum_ on Assertoric (Absolute) Propositions,” _Journal of the History of Philosophy_ 1 (1963) 80–93.
 
-A lengthy collection of these questions is also available in Latin, in Junta 1562 vol. 1 pt. 2b, ff. 75v–119v, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_Logica_JuntSecunda_01-3.pdf).
+A lengthy collection of these questions is also available in Latin, in Junta 1562 vol. 1 pt. 2b, ff. 75v–119v, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-3.pdf).
 
-***Questiones on Physics***
+_**Questiones on Physics**_
 
 Partially extant in Arabic:
 
-*Maqālāt fī l-manṭiq wa-l-ʿilm al-ṭabīʿī (Essais de logique et de physique d’Ibn Rochd)*, ed. Jamal al-Dīn al-ʿAlawī (Casablanca: Dār al-Nashr al-Maghribiyya, 1983), 225–63.
+_Maqālāt fī l-manṭiq wa-l-ʿilm al-ṭabīʿī (Essais de logique et de physique d’Ibn Rochd)_, ed. Jamal al-Dīn al-ʿAlawī (Casablanca: Dār al-Nashr al-Maghribiyya, 1983), 225–63.
 
 A longer series of questions is extant in Hebrew. The Hebrew has mainly not been edited, but it has been translated:
 
-*Averroes’ Questions in Physics*, tr. Helen Tunik Goldstein (Dordrecht: Kluwer, 1991).
+_Averroes’ Questions in Physics_, tr. Helen Tunik Goldstein (Dordrecht: Kluwer, 1991).
 
-Question 6 in Goldstein corresponds to 258–63 in ʿAlawī’s edition of the Arabic, [available online](https://dare.uni-koeln.de/app/fulltexts/FT16).
+Question 6 in Goldstein corresponds to 258–63 in ʿAlawī’s edition of the Arabic, [available online](https://dare.uni-koeln.de/app/fulltexts/FT16).
 
-Question 7 in Goldstein corresponds to 225–43 in ʿAlawī’s edition, [available online](http://dare.uni-koeln.de/app/fulltexts/FT17).
+Question 7 in Goldstein corresponds to 225–43 in ʿAlawī’s edition, [available online](http://dare.uni-koeln.de/app/fulltexts/FT17).
 
-*References are to the (question.paragraph) of the translation, plus {Arabic page}.*
+_References are to the (question.paragraph) of the translation, plus {Arabic page}._
 
-***De separatione primi principii*** (1190s?)
+_**De separatione primi principii**_ (1190s?)
 
 This single treatise is apparently extant only in Latin, and has been edited and translated:
 
-Carlos Steel and Guy Guldentops, “An Unknown Treatise of Averroes against the Avicennians on the First Cause: Edition and Translation,” *Recherches de théologie et philosophie médiévales* 64 (1997) 86–135.
+Carlos Steel and Guy Guldentops, “An Unknown Treatise of Averroes against the Avicennians on the First Cause: Edition and Translation,” _Recherches de théologie et philosophie médiévales_ 64 (1997) 86–135.
 
-***De substantia orbis*** (1178–9)
+_**De substantia orbis**_ (1178–9)
 
 This collection of six short treatises on cosmology and metaphysics is extant in Hebrew and has been translated:
 
-*De substantia orbis: Critical Edition of the Hebrew Text with English Translation and Commentary*, ed. Arthur Hyman (Cambridge, MA: Medieval Academy of America, 1986), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes_De%20substantia%20orbis_Hyman.pdf).
+_De substantia orbis: Critical Edition of the Hebrew Text with English Translation and Commentary_, ed. Arthur Hyman (Cambridge, MA: Medieval Academy of America, 1986), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_De%20substantia%20orbis\_Hyman.pdf).
 
-*References are to (treatise.page) of the translation.*
+_References are to (treatise.page) of the translation._
 
-***On the Possibility of Conjunction***
+_**On the Possibility of Conjunction**_
 
 Extant only in Hebrew, which has been edited and translated into English:
 
-*The Epistle on the Possibility of Conjunction with the Active Intellect by Ibn Rushd with the Commentary of Moses Narboni*, tr. Kalman P. Bland (New York: Jewish Theological Seminary of America, 1982).
+_The Epistle on the Possibility of Conjunction with the Active Intellect by Ibn Rushd with the Commentary of Moses Narboni_, tr. Kalman P. Bland (New York: Jewish Theological Seminary of America, 1982).
 
-*References are to (section.page) of the translation.*
+_References are to (section.page) of the translation._
 
-***On the Conjunction of Intellect, Epistle 1***
+_**On the Conjunction of Intellect, Epistle 1**_
 
 This letter seems to reflect Ibn Rushd’s mature views about the material intellect. Extant in Hebrew, edited with German translation:
 
-*Drei Abhandlungen über die Conjunction des separaten Intellects mit dem Menschen. Von Averroes (Vater und Sohn), aus dem Arabischen übersetzt von Samuel Ibn Tibbon*, ed. and tr. Yiṣḥaq Hercz (Berlin: H. G. Hermann, 1869), 3–10 and 1–47.
+_Drei Abhandlungen über die Conjunction des separaten Intellects mit dem Menschen. Von Averroes (Vater und Sohn), aus dem Arabischen übersetzt von Samuel Ibn Tibbon_, ed. and tr. Yiṣḥaq Hercz (Berlin: H. G. Hermann, 1869), 3–10 and 1–47.
 
 Also available in French:
 
-*La Béatitude de l’âme: Éditions, traductions et études*, tr. Marc Geoffroy and Carlos Steel (Paris: Vrin, 2001), 198–222.
+_La Béatitude de l’âme: Éditions, traductions et études_, tr. Marc Geoffroy and Carlos Steel (Paris: Vrin, 2001), 198–222.
 
-***On the Conjunction of Intellect, Epistle 2***
+_**On the Conjunction of Intellect, Epistle 2**_
 
 Extant in Hebrew, edited with a German translation:
 
-*Drei Abhandlungen über die Conjunction des separaten Intellects mit dem Menschen. Von Averroes (Vater und Sohn), aus dem Arabischen übersetzt von Samuel Ibn Tibbon*, ed. and tr. Yiṣḥaq Hercz (Berlin: H. G. Hermann, 1869), 10–14 and 48–56.
+_Drei Abhandlungen über die Conjunction des separaten Intellects mit dem Menschen. Von Averroes (Vater und Sohn), aus dem Arabischen übersetzt von Samuel Ibn Tibbon_, ed. and tr. Yiṣḥaq Hercz (Berlin: H. G. Hermann, 1869), 10–14 and 48–56.
 
 Also available in French:
 
-*La Béatitude de l’âme: Éditions, traductions et études*, ed. and tr. Marc Geoffroy and Carlos Steel (Paris: Vrin, 2001), 222–36.
+_La Béatitude de l’âme: Éditions, traductions et études_, ed. and tr. Marc Geoffroy and Carlos Steel (Paris: Vrin, 2001), 222–36.
 
-A Latin translation of these two epistles was made from the Hebrew and joined with other material, under the title *De animae beatitudine*. Printed in Junta vol. 9, it is also available in a modern edition and French translation, with extensive explanatory material:
+A Latin translation of these two epistles was made from the Hebrew and joined with other material, under the title _De animae beatitudine_. Printed in Junta vol. 9, it is also available in a modern edition and French translation, with extensive explanatory material:
 
-*La Béatitude de l’âme: Éditions, traductions et études*, ed. and tr. Marc Geoffroy and Carlos Steel (Paris: Vrin, 2001).
+_La Béatitude de l’âme: Éditions, traductions et études_, ed. and tr. Marc Geoffroy and Carlos Steel (Paris: Vrin, 2001).
 
-***Commentary on Ibn Bājja’s Epistle on the Conjunction of the Intellect with Man***
+_**Commentary on Ibn Bājja’s Epistle on the Conjunction of the Intellect with Man**_
 
 Extant in Arabic:
 
-Aḥmad Fuʾād al-Ahwānī, *Talkhīṣ kitāb al-nafs* (Cairo: Maktabat al- Nahḍa al-Miṣriyya, 1950), pp. 90–95.
+Aḥmad Fuʾād al-Ahwānī, _Talkhīṣ kitāb al-nafs_ (Cairo: Maktabat al- Nahḍa al-Miṣriyya, 1950), pp. 90–95.
 
 Translated into Spanish:
 
-Salvador Gómez Nogales, *La psicologia de Averroës: commentario al libro sobre el alma de Aristoteles* (Madrid: Universidad Nacional de Educacion a Distancia, 1987), pp. 214–21.
+Salvador Gómez Nogales, _La psicologia de Averroës: commentario al libro sobre el alma de Aristoteles_ (Madrid: Universidad Nacional de Educacion a Distancia, 1987), pp. 214–21.
 
-***Commentary on Alexander’s* De intellectu**
+_**Commentary on Alexander’s**_** De intellectu**
 
 Extant in Arabic:
 
-Mauro Zonta, “La tradizione giudeo-araba ed ebraica del *De intellectu* di Alexxandro di Afrodisia e il testo originale del Commento di Averroè,” *Annali di Ca’ Foscari*, 40 (2001): 17–35.
+Mauro Zonta, “La tradizione giudeo-araba ed ebraica del _De intellectu_ di Alexxandro di Afrodisia e il testo originale del Commento di Averroè,” _Annali di Ca’ Foscari_, 40 (2001): 17–35.
 
 And in Hebrew:
 
-Herbert A. Davidson, “Peruš Ibn Rušd le-maʾamar be-sekel šel Aleksander me-Afrodisiyas,” in *Sefer ha-yovel li-Shelomoh Pines: bi-melot lo shemonim shanah / Schlomo Pines Jubilee Volume*, 2 vols. (Jerusalem: Universitah ha-‘Ivrit, 1988–90) I:205–17.
+Herbert A. Davidson, “Peruš Ibn Rušd le-maʾamar be-sekel šel Aleksander me-Afrodisiyas,” in _Sefer ha-yovel li-Shelomoh Pines: bi-melot lo shemonim shanah / Schlomo Pines Jubilee Volume_, 2 vols. (Jerusalem: Universitah ha-‘Ivrit, 1988–90) I:205–17.
 
 ### B. Other Works
 
 For recent bibliographies see Other Internet Resources. For comprehensive older bibliographies see
 
-* Georges C. Anawati, *Bibliographie d’Averroes (Ibn Rushd)* (Algiers: Jāmiʻat al-Duwal al-ʻArabīyah, 1978).
-* Philipp W. Rosemann. “Averroes: A Catalogue of Editions and Writings from 1821 Onwards,” *Bulletin de philosophie médiévale* 30 (1988) 153–221.
+* Georges C. Anawati, _Bibliographie d’Averroes (Ibn Rushd)_ (Algiers: Jāmiʻat al-Duwal al-ʻArabīyah, 1978).
+* Philipp W. Rosemann. “Averroes: A Catalogue of Editions and Writings from 1821 Onwards,” _Bulletin de philosophie médiévale_ 30 (1988) 153–221.
 
 For a good book-length summary of Ibn Rushd’s philosophy in English, see
 
-* Majid Fakhry. *Averroes (Ibn Rushd): His Life, Works and Influence* (Oxford: Oneworld, 2001).
+* Majid Fakhry. _Averroes (Ibn Rushd): His Life, Works and Influence_ (Oxford: Oneworld, 2001).
 
 For a state-of-the-art recent study, in Italian, see
 
-* Matteo Di Giovanni. *Averroè* (Rome: Carocci, 2017).
+* Matteo Di Giovanni. _Averroè_ (Rome: Carocci, 2017).
 
 #### Works Cited in this Entry
 
 * Adamson, Peter (2019). “Averroes on Divine Causation,” in Adamson and Di Giovanni (2019), 198–217.
-* Adamson, Peter and Matteo Di Giovanni (eds.) (2019). *Interpreting Averroes: Critical Essays* (Cambridge: Cambridge University Press).
-* Akasoy, Anna A. (2008). “Ibn Sabʿīn’s Sicilian Questions: The Text, Its Sources, and Their Historical Context,” *al-Qanṭara* 29: 115–46.
-* Akasoy, Anna A. and Guido Giglioni (eds.) (2010). *Renaissance Averroism and Its Aftermath: Arabic Philosophy in Early Modern Europe* (Dordrecht: Springer).
-* Al-*ʿ*Alawī, Jamal Al-Dīn (1986a). *Al-Matn al-Rushdī: Madkhal li-qirāʾa jadīda* [*The Rushdian Corpus: An Introduction to a New Reading*] (Casablanca: Dār Tubqāl).
-* ––– (1986b). “Naẓariyyat al-burhān wa dalālatuhā fī al-khiṭāb al-falsafiy ʿinda Ibn Rushd,” in *Un Trait d’union entre l’Orient et l’Occident: al-Ghazzali et Ibn Maimoun* (Rabat: Maṭbaʿat al-maʿārif al-jadīda), 43–101.
-* Amerini, Fabrizio (2008). “The Semantics of Substantial Names: The Tradition of the Commentaries on Aristotle’s *Metaphysics*,” *Recherches de théologie et philosophie médiévale* 75: 395–440.
-* Arfa Mensia, Mokdad (1999). “Malāmiḥ min naẓariyyat Ibn Rushd fī al-nubuwwa,” in M. Arfa Mensia (ed.), *Ibn Rushd faylasūf al-sharq wa-l-gharb* (Tunis: Dār al-Gharb al-Islāmī), I:219–57.
+* Adamson, Peter and Matteo Di Giovanni (eds.) (2019). _Interpreting Averroes: Critical Essays_ (Cambridge: Cambridge University Press).
+* Akasoy, Anna A. (2008). “Ibn Sabʿīn’s Sicilian Questions: The Text, Its Sources, and Their Historical Context,” _al-Qanṭara_ 29: 115–46.
+* Akasoy, Anna A. and Guido Giglioni (eds.) (2010). _Renaissance Averroism and Its Aftermath: Arabic Philosophy in Early Modern Europe_ (Dordrecht: Springer).
+* Al-_ʿ_Alawī, Jamal Al-Dīn (1986a). _Al-Matn al-Rushdī: Madkhal li-qirāʾa jadīda_ \[_The Rushdian Corpus: An Introduction to a New Reading_] (Casablanca: Dār Tubqāl).
+* ––– (1986b). “Naẓariyyat al-burhān wa dalālatuhā fī al-khiṭāb al-falsafiy ʿinda Ibn Rushd,” in _Un Trait d’union entre l’Orient et l’Occident: al-Ghazzali et Ibn Maimoun_ (Rabat: Maṭbaʿat al-maʿārif al-jadīda), 43–101.
+* Amerini, Fabrizio (2008). “The Semantics of Substantial Names: The Tradition of the Commentaries on Aristotle’s _Metaphysics_,” _Recherches de théologie et philosophie médiévale_ 75: 395–440.
+* Arfa Mensia, Mokdad (1999). “Malāmiḥ min naẓariyyat Ibn Rushd fī al-nubuwwa,” in M. Arfa Mensia (ed.), _Ibn Rushd faylasūf al-sharq wa-l-gharb_ (Tunis: Dār al-Gharb al-Islāmī), I:219–57.
 * ––– (2019). “Dogmatics, Theology, and Philosophy in Averroes,” in Adamson and Di Giovanni (2019), 27–44.
-* Belo, Catarina (2007). *Chance and Determinism in Avicenna and Averroes* (Leiden: Brill).
-* Ben Ahmed, Fouad (2010–11). “Averroes’ Philosophical Approach to Dialectics: Values, Usages, and Limits,” *Mélanges de l’Université Saint-Joseph* 63: 259–322.
-* Ben Ahmed, Fouad (2012). “Al-Tamthīl tadlīlan fī naẓariyyat al-nubuwwa,” in *Tamthilāt wa Istiʿārāt Ibn Rushd: min manṭiq al-burhān ilā manṭiq al-Khaṭāba* (Beirut, Algeria, Rabat: Manshurāt Ḍifāf, Manshurāt al-Ikhtilāf, Dār al-Amān), 133–70.
-* ––– (2016). “Three Masters and One Disciple: Ibn Ṭumlūs Critical Incorporation of Al-Farābī, al-Ġazālī, Ibn Rushd,” in Andreas Speer and Thomas Jescke (eds.), *Schüler und Meister, 39th Kölner Mediaevistentagung* (Berlin: De Gruyter), 537–56.
-* ––– (2017). *Ibn Ṭumlūs al-faylasūf wa al- ṭabīb (620/1223): Sīrat bībliyūgrafiyya*, *with an introduction in English* (Beirut, Rabat, Alger, Tunis: Manshūrat Ḍifāf, Dār al-Amān, Manshūrāt al-Ikhtilāf, Kalima li al-Nashr).
-* ––– (2019a). “Fī munāhaḍat Ibn Sīnā wa as-sīnawiyya: ʿAbd-Allaṭīf al-Baghdādī wa iṣlāḥ al-falsafa fī al-qarn at-thālith ʿashar al-mīlādī,” *Hespéris-Tamuda* 54: 129–64.
-* ––– (2019b). “Ibn Rushd in the Ḥanbali Tradition: Ibn Taymiyya and Ibn Qayyim al-Jawziyya and the Continuity of Philosophy in Muslim Contexts,” *The Muslim World* 19: 561–81.
-* ––– (2019c). “Ibn Tumlūs’ Logic and Medicine: An Overview of the Current State of Scholarship,” in Jean-Baptiste Brenet and Olga L. Lizzini (eds.), *La philosophie arabe à l’étude: sens, limites et défis d’une discipline moderne / Studying Arabic Philosophy: Meaning, Limits and Challenges of a Modern Discipline* (Paris: Vrin), 705–21.
-* ––– (2020a). “Ibn Ṭumlūs on Dialectic Reasoning: The Extent of His Reliance on al-Fārābī and Ibn Rušd,” in Nadja Germann and Steven Harvey (eds.), *The Origin and Nature of Language and Logic in Medieval Islamic, Jewish, and Christian Thought* (Turnhout: Brepols).
-* ––– (2020b). “Re-writing the History of Philosophy in Sunni Muslim contexts: Ibn Taymiyyah and the Impact of Ibn Rushd,” *Hespéris-Tamuda* 55: 303–54.
-* ––– (2020c). “Fī murājaʿat ʿalāqat Ibn Rushd bi al-maḏhab al-Ashʿarī wa bi al-ʿaqīda al-muwaḥḥidiyya,” in Jamāl ʿAllāl al-Bakhtī (ed.), a*l-Fikr al-Ashʿarī bi al-Andalus: Tārīkh wa ishkālāt* (Tetouan: Markaz Abū al-Ḥasan al-Ashʿarī), 477-539.
-* ––– (2020d). “What Were Ibn Rushd’s Works Doing in Egypt and the Levant in the 14th Century? Ibn Rushd in the Library of Ibn Taymiyya,” *Al-Ibānat* 6: 183–233.
-* ––– (forthcoming). “Ibn Rushd in Irān: «En Orient, après Averroès…» Revisited,” in *Science, Philosophy and Kalām in Islamic Civilisation: The Old and the New* (International colloquium organized by the Société internationale d’histoire des sciences et de la philosophie arabes et islamiques, Naples, 9–11 September 2019).
-* Ben Sharīfa, Muḥammad (1999). *Ibn Rushd al-Ḥafīd: Sīra wathāʾiqīyya* (Casablanca: Maṭbaʿat al-Najāḥ al-Jadīda).
-* Bertolacci, Amos (2007). “Avicenna and Averroes on the Proof of God’s Existence and the Subject Matter of Metaphysics,” *Medioevo* 32: 61–97.
-* Black, Deborah L. (1990). *Logic and Aristotle’s* Rhetoric *and* Poetics *in Medieval Arabic Philosophy* (Leiden: Brill).
-* ––– (1996). “Memory, Individuals, and the Past in Averroes’ Psychology,” *Medieval Philosophy and Theology* 5: 161–87.
-* ––– (1999). “Conjunction and the Identity of Knower and Known in Averroes,” *American Catholic Philosophical Quarterly* 73: 159–84.
+* Belo, Catarina (2007). _Chance and Determinism in Avicenna and Averroes_ (Leiden: Brill).
+* Ben Ahmed, Fouad (2010–11). “Averroes’ Philosophical Approach to Dialectics: Values, Usages, and Limits,” _Mélanges de l’Université Saint-Joseph_ 63: 259–322.
+* Ben Ahmed, Fouad (2012). “Al-Tamthīl tadlīlan fī naẓariyyat al-nubuwwa,” in _Tamthilāt wa Istiʿārāt Ibn Rushd: min manṭiq al-burhān ilā manṭiq al-Khaṭāba_ (Beirut, Algeria, Rabat: Manshurāt Ḍifāf, Manshurāt al-Ikhtilāf, Dār al-Amān), 133–70.
+* ––– (2016). “Three Masters and One Disciple: Ibn Ṭumlūs Critical Incorporation of Al-Farābī, al-Ġazālī, Ibn Rushd,” in Andreas Speer and Thomas Jescke (eds.), _Schüler und Meister, 39th Kölner Mediaevistentagung_ (Berlin: De Gruyter), 537–56.
+* ––– (2017). _Ibn Ṭumlūs al-faylasūf wa al- ṭabīb (620/1223): Sīrat bībliyūgrafiyya_, _with an introduction in English_ (Beirut, Rabat, Alger, Tunis: Manshūrat Ḍifāf, Dār al-Amān, Manshūrāt al-Ikhtilāf, Kalima li al-Nashr).
+* ––– (2019a). “Fī munāhaḍat Ibn Sīnā wa as-sīnawiyya: ʿAbd-Allaṭīf al-Baghdādī wa iṣlāḥ al-falsafa fī al-qarn at-thālith ʿashar al-mīlādī,” _Hespéris-Tamuda_ 54: 129–64.
+* ––– (2019b). “Ibn Rushd in the Ḥanbali Tradition: Ibn Taymiyya and Ibn Qayyim al-Jawziyya and the Continuity of Philosophy in Muslim Contexts,” _The Muslim World_ 19: 561–81.
+* ––– (2019c). “Ibn Tumlūs’ Logic and Medicine: An Overview of the Current State of Scholarship,” in Jean-Baptiste Brenet and Olga L. Lizzini (eds.), _La philosophie arabe à l’étude: sens, limites et défis d’une discipline moderne / Studying Arabic Philosophy: Meaning, Limits and Challenges of a Modern Discipline_ (Paris: Vrin), 705–21.
+* ––– (2020a). “Ibn Ṭumlūs on Dialectic Reasoning: The Extent of His Reliance on al-Fārābī and Ibn Rušd,” in Nadja Germann and Steven Harvey (eds.), _The Origin and Nature of Language and Logic in Medieval Islamic, Jewish, and Christian Thought_ (Turnhout: Brepols).
+* ––– (2020b). “Re-writing the History of Philosophy in Sunni Muslim contexts: Ibn Taymiyyah and the Impact of Ibn Rushd,” _Hespéris-Tamuda_ 55: 303–54.
+* ––– (2020c). “Fī murājaʿat ʿalāqat Ibn Rushd bi al-maḏhab al-Ashʿarī wa bi al-ʿaqīda al-muwaḥḥidiyya,” in Jamāl ʿAllāl al-Bakhtī (ed.), a_l-Fikr al-Ashʿarī bi al-Andalus: Tārīkh wa ishkālāt_ (Tetouan: Markaz Abū al-Ḥasan al-Ashʿarī), 477-539.
+* ––– (2020d). “What Were Ibn Rushd’s Works Doing in Egypt and the Levant in the 14th Century? Ibn Rushd in the Library of Ibn Taymiyya,” _Al-Ibānat_ 6: 183–233.
+* ––– (forthcoming). “Ibn Rushd in Irān: «En Orient, après Averroès…» Revisited,” in _Science, Philosophy and Kalām in Islamic Civilisation: The Old and the New_ (International colloquium organized by the Société internationale d’histoire des sciences et de la philosophie arabes et islamiques, Naples, 9–11 September 2019).
+* Ben Sharīfa, Muḥammad (1999). _Ibn Rushd al-Ḥafīd: Sīra wathāʾiqīyya_ (Casablanca: Maṭbaʿat al-Najāḥ al-Jadīda).
+* Bertolacci, Amos (2007). “Avicenna and Averroes on the Proof of God’s Existence and the Subject Matter of Metaphysics,” _Medioevo_ 32: 61–97.
+* Black, Deborah L. (1990). _Logic and Aristotle’s_ Rhetoric _and_ Poetics _in Medieval Arabic Philosophy_ (Leiden: Brill).
+* ––– (1996). “Memory, Individuals, and the Past in Averroes’ Psychology,” _Medieval Philosophy and Theology_ 5: 161–87.
+* ––– (1999). “Conjunction and the Identity of Knower and Known in Averroes,” _American Catholic Philosophical Quarterly_ 73: 159–84.
 * ––– (2019). “Constructing Averroes’ Epistemology,” in Adamson and Di Giovanni (2019), 96–115.
-* Blaustein, Michael A. (1984). *Averroes on the Imagination and the Intellect* (Ph.D. dissertation, Harvard University).
+* Blaustein, Michael A. (1984). _Averroes on the Imagination and the Intellect_ (Ph.D. dissertation, Harvard University).
 * Bou Akl, Ziad (2019). “Averroes on Judicial Reasoning,” in Adamson and Di Giovanni (2019), 45–63.
-* Brenet, Jean-Baptiste (2003). *Transferts du sujet: la noétique d’Averroès selon Jean de Jandun* (Paris: Vrin).
-* ––– (2015). *Averroès l’inquiétant* (Paris, Les Belles Lettres).
+* Brenet, Jean-Baptiste (2003). _Transferts du sujet: la noétique d’Averroès selon Jean de Jandun_ (Paris: Vrin).
+* ––– (2015). _Averroès l’inquiétant_ (Paris, Les Belles Lettres).
 * Burnett, Charles (2010). “Arabic Philosophical Works Translated into Latin,” in Pasnau and Van Dyke (2010), 814–22.
-* Butterworth, Charles E. (1986). *Philosophy, Ethics, and Virtuous Rule: A Study of Averroes’ Commentary on Plato’s “Republic”* (Cairo: AUC Press).
-* Cerami, Cristina (2014). “Signe physique, signe métaphysique: Averroès contre Avicenne sur le statut épistémologique des sciences de l’être,” in C. Cerami (ed.), *Nature et sagesse: les rapports entre physique et métaphysique dans la tradition aristotélicienne: recueil de textes en hommage à Pierre Pellegrin* (Louvain-la-Neuve: Peeters) 429–74.
-* ––– (2015). *Génération et substance : Aristote et Averroès entre physique et métaphysique* (Berlin: De Gruyter).
-* Cruz Hernández, Miguel (1997). *Abū-l-Walīd ibn Rušd (Averroes): vida, obra, pensamiento, influencia*, 2nd ed. (Cordova: Caja de Ahorros y Monte de Piedad de Córdoba).
-* Dales, Richard C. (1990). *Medieval Discussions of the Eternity of the World* (Leiden: Brill).
-* Davidson, Herbert A. (1987). *Proofs for Eternity, Creation and the Existence of God in Medieval Islamic and Jewish Philosophy* (New York: Oxford University Press).
-* ––– (1992). *Alfarabi, Avicenna, and Averroes on Intellect: Their Cosmologies, Theories of the Active Intellect, and Theories of Human Intellect* (New York: Oxford University Press, 1992).
-* ––– (2005). *Moses Maimonides: The Man and His Works* (Oxford: Oxford University Press).
-* Di Giovanni, Matteo (2006). “Averroes on the Species of Celestial Bodies,” *Miscellanea mediaevalia* 33: 438–64.
-* ––– (2007). “Individuation by Matter in Averroes’ Metaphysics,” *Documenti e studi sulla tradizione filosofica medievale* 18: 187–210.
-* ––– (2011). “Substantial Form in Averroes’s Long Commentary on the Metaphysics,” in P. Adamson (ed.), *In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century* (London: Warburg Institute) 175–94.
-* ––– (2012). “Averroes’ Notion of Primary Substance,” in A. Musco et al. (ed.), *Universality of Reason: Plurality of Philosophies in the Middle Ages* (Palermo: Officina di Studi Medievali, 2012) III: 55–65.
+* Butterworth, Charles E. (1986). _Philosophy, Ethics, and Virtuous Rule: A Study of Averroes’ Commentary on Plato’s “Republic”_ (Cairo: AUC Press).
+* Cerami, Cristina (2014). “Signe physique, signe métaphysique: Averroès contre Avicenne sur le statut épistémologique des sciences de l’être,” in C. Cerami (ed.), _Nature et sagesse: les rapports entre physique et métaphysique dans la tradition aristotélicienne: recueil de textes en hommage à Pierre Pellegrin_ (Louvain-la-Neuve: Peeters) 429–74.
+* ––– (2015). _Génération et substance : Aristote et Averroès entre physique et métaphysique_ (Berlin: De Gruyter).
+* Cruz Hernández, Miguel (1997). _Abū-l-Walīd ibn Rušd (Averroes): vida, obra, pensamiento, influencia_, 2nd ed. (Cordova: Caja de Ahorros y Monte de Piedad de Córdoba).
+* Dales, Richard C. (1990). _Medieval Discussions of the Eternity of the World_ (Leiden: Brill).
+* Davidson, Herbert A. (1987). _Proofs for Eternity, Creation and the Existence of God in Medieval Islamic and Jewish Philosophy_ (New York: Oxford University Press).
+* ––– (1992). _Alfarabi, Avicenna, and Averroes on Intellect: Their Cosmologies, Theories of the Active Intellect, and Theories of Human Intellect_ (New York: Oxford University Press, 1992).
+* ––– (2005). _Moses Maimonides: The Man and His Works_ (Oxford: Oxford University Press).
+* Di Giovanni, Matteo (2006). “Averroes on the Species of Celestial Bodies,” _Miscellanea mediaevalia_ 33: 438–64.
+* ––– (2007). “Individuation by Matter in Averroes’ Metaphysics,” _Documenti e studi sulla tradizione filosofica medievale_ 18: 187–210.
+* ––– (2011). “Substantial Form in Averroes’s Long Commentary on the Metaphysics,” in P. Adamson (ed.), _In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century_ (London: Warburg Institute) 175–94.
+* ––– (2012). “Averroes’ Notion of Primary Substance,” in A. Musco et al. (ed.), _Universality of Reason: Plurality of Philosophies in the Middle Ages_ (Palermo: Officina di Studi Medievali, 2012) III: 55–65.
 * ––– (2019). “Averroes, Philosopher of Islam,” in Adamson and Di Giovanni (2019), 9–26.
-* Druart, Thérèse-Anne (1994). “Averroes: The Commentator and the Commentators,” in Lawrence P. Schrenk (ed.), *Aristotle in Late Antiquity* (Washington: Catholic University of America Press) 184–202.
-* Elamrani-Jamal, Abdelali (2000). “La demonstration du signe (*burhān al-dalīl*) selon Ibn Rushd (Averroès),” *Documenti e studi sulla tradizione filosofica medievale* 11: 113–31.
-* Endress, Gerhard (1995). “Averroes’ *De caelo*: Ibn Rushd’s Cosmology in His Commentaries on Aristotle’s *On the Heavens*,” *Arabic Sciences and Philosophy* 5 (1995) 9–49.
-* ––– (1999). “Le projet d’Averroès: constitution, réception et édition du corpus des œuvres d’Ibn Rušd,” in Gerhard Endress and Jan A. Aertsen (ed.), *Averroes and the Aristotelian Tradition: Sources, Constitution and Reception of the Philosophy of Ibn Rushd (1126–1198)* (Leiden: Brill), 3–31.
-* ––– (2001). “Philosophische ein-Band-Bibliotheken aus Isfahan,” *Oriens* 36: 10–58.
-* ––– (2006). “Reading Avicenna in the Madrasa: Intellectual Genealogies and Chains of Transmission of Philosophy and the Sciences in the Islamic East,” in James E. Montgomery (ed.), *Arabic Theology, Arabic Philosophy. From the Many to the One: Essays in Celebration of Richard M. Frank* (Leuven: Peeters), 371–422.
-* Freudenthal, Gad (2002). “The Medieval Astrologization of Aristotle’s Biology: Averroes on the Role of the Celestial Bodies in the Generation of Animate Beings,” *Arabic Sciences and Philosophy* 12: 111–37.
-* Gätje, Helmut (1986). “Die Vorworte zum *Colliget* des Averroes,” *Zeitschrift der Deutschen Morgenländischen Gesellschaft* 136: 402–27.
-* Gauthier, René-Antoine (1982). “Notes sur les débuts (1225–1240) du premier ‘averroïsme’,” in *Revue des sciences philosophiques et théologiques* 66: 321–74.
-* Geoffroy, Marc (1999). “L’Almohadisme théologique d’Averroès (Ibn Rušd),” *Archives d’histoire doctrinale et littéraire du Moyen Âge* 66: 9–47.
-* Glasner, Ruth (1995). “Levi ben Gershom and the Study of Ibn Rushd in the Fourteenth Century,” *Jewish Quarterly Review* 86: 51–90.
-* ––– (2009). *Averroes’ Physics: A Turning Point in Medieval Natural Philosophy* (Oxford: Oxford University Press).
-* ––– (2011). “The Evolution of the Genre of Philosophical-Scientific Commentary: Hebrew Supercommentaries on Aristotle’s Physics,” in G. Freudenthal (ed.), *Science in Medieval Jewish Cultures* (Cambridge: Cambridge University Press), 182–206.
-* Gutas, Dimitri (1993). “Aspects of Literary Form and Genre in Arabic Logical Works,” in Charles Burnett (ed.), *Glosses and Commentaries on Aristotelian Logical Texts: The Syriac, Arabic and Medieval Latin Traditions* (London: Warburg Institute), 29–76.
-* Ḥamdān, Aḥmad ʿAlamī (2005). “Istīʿāb al-laḥẓa al-rushdiyya fī naqd al-Miklātī li al-falsafa,” in ʿAlī al-Idrīsī (ed.), *al-Ittijāhāt al-kalāmiyya fī al-Gharb al-Islāmī* (Rabat: Manshūrat Kulliyat al-Adāb wa al-ʿulūm al-Insāniyya), 237–59.
+* Druart, Thérèse-Anne (1994). “Averroes: The Commentator and the Commentators,” in Lawrence P. Schrenk (ed.), _Aristotle in Late Antiquity_ (Washington: Catholic University of America Press) 184–202.
+* Elamrani-Jamal, Abdelali (2000). “La demonstration du signe (_burhān al-dalīl_) selon Ibn Rushd (Averroès),” _Documenti e studi sulla tradizione filosofica medievale_ 11: 113–31.
+* Endress, Gerhard (1995). “Averroes’ _De caelo_: Ibn Rushd’s Cosmology in His Commentaries on Aristotle’s _On the Heavens_,” _Arabic Sciences and Philosophy_ 5 (1995) 9–49.
+* ––– (1999). “Le projet d’Averroès: constitution, réception et édition du corpus des œuvres d’Ibn Rušd,” in Gerhard Endress and Jan A. Aertsen (ed.), _Averroes and the Aristotelian Tradition: Sources, Constitution and Reception of the Philosophy of Ibn Rushd (1126–1198)_ (Leiden: Brill), 3–31.
+* ––– (2001). “Philosophische ein-Band-Bibliotheken aus Isfahan,” _Oriens_ 36: 10–58.
+* ––– (2006). “Reading Avicenna in the Madrasa: Intellectual Genealogies and Chains of Transmission of Philosophy and the Sciences in the Islamic East,” in James E. Montgomery (ed.), _Arabic Theology, Arabic Philosophy. From the Many to the One: Essays in Celebration of Richard M. Frank_ (Leuven: Peeters), 371–422.
+* Freudenthal, Gad (2002). “The Medieval Astrologization of Aristotle’s Biology: Averroes on the Role of the Celestial Bodies in the Generation of Animate Beings,” _Arabic Sciences and Philosophy_ 12: 111–37.
+* Gätje, Helmut (1986). “Die Vorworte zum _Colliget_ des Averroes,” _Zeitschrift der Deutschen Morgenländischen Gesellschaft_ 136: 402–27.
+* Gauthier, René-Antoine (1982). “Notes sur les débuts (1225–1240) du premier ‘averroïsme’,” in _Revue des sciences philosophiques et théologiques_ 66: 321–74.
+* Geoffroy, Marc (1999). “L’Almohadisme théologique d’Averroès (Ibn Rušd),” _Archives d’histoire doctrinale et littéraire du Moyen Âge_ 66: 9–47.
+* Glasner, Ruth (1995). “Levi ben Gershom and the Study of Ibn Rushd in the Fourteenth Century,” _Jewish Quarterly Review_ 86: 51–90.
+* ––– (2009). _Averroes’ Physics: A Turning Point in Medieval Natural Philosophy_ (Oxford: Oxford University Press).
+* ––– (2011). “The Evolution of the Genre of Philosophical-Scientific Commentary: Hebrew Supercommentaries on Aristotle’s Physics,” in G. Freudenthal (ed.), _Science in Medieval Jewish Cultures_ (Cambridge: Cambridge University Press), 182–206.
+* Gutas, Dimitri (1993). “Aspects of Literary Form and Genre in Arabic Logical Works,” in Charles Burnett (ed.), _Glosses and Commentaries on Aristotelian Logical Texts: The Syriac, Arabic and Medieval Latin Traditions_ (London: Warburg Institute), 29–76.
+* Ḥamdān, Aḥmad ʿAlamī (2005). “Istīʿāb al-laḥẓa al-rushdiyya fī naqd al-Miklātī li al-falsafa,” in ʿAlī al-Idrīsī (ed.), _al-Ittijāhāt al-kalāmiyya fī al-Gharb al-Islāmī_ (Rabat: Manshūrat Kulliyat al-Adāb wa al-ʿulūm al-Insāniyya), 237–59.
 * Hansberger, Rotraud (2019). “Averroes and the ‘Internal Senses,’” in Adamson and Di Giovanni (2019), 138–57.
-* Harvey, Steven (1985). “The Hebrew Translation of Averroes’ Prooemium to his *Long Commentary on Aristotle’s Physics*,” *Proceedings of the American Academy for Jewish Research* 52: 55–84.
-* ––– (1992). “Did Maimonides Letter to Samuel ibn Tibbon Determine Which Philosophers Would Be Studied by Later Jewish Thinkers?” *Jewish Quarterly Review* 83: 51–70.
-* ––– (2000). “On the Nature and Extent of Jewish Averroism: Renan’s *Averroès et l’averroïsme* Revisited,” *Jewish Studies Quarterly* 7: 100–19.
-* Hasse, Dag Nikolaus (2016). *Success and Suppression: Arabic Sciences and Philosophy in the Renaissance* (Cambridge, MA: Harvard University Press).
-* Hayoun, Maurice-Ruben (2005). “L’averroïsme dans les milieu intellectuels du judaisme: Moïse de Narbonne (1300–1362) et Eliya Delmédigo (v. 1460–1493),” in André Bazzana, Nicole Bériou, and Pierre Guichard (eds.), *Averroès et l’averroïsme (XIIe–XVe siècle): un itinéraire historique du Haut Atlas à Paris et à Padoue* (Lyon: Presses Universitaires), 275–305.
-* Hoover, Jon (2018). “Ibn Taymiyya’s Use of Ibn Rushd to Refute the Incorporealism of Fakhr al-Dīn al-Rāzī,” in Abdelkader al-Ghouz (ed.), *Islamic Philosophy from the 12th to the 14th Century* (Göttingen: V&R Unipress), 469–91.
-* Hourani, George F. (1962). “Averroes on Good and Evil,” *Studia Islamica* 16: 13–40.
-* Hyman, Arthur (1965). “Aristotle’s ‘First Matter’ and Avicenna’s and Averroes’ ‘Corporeal Form’,” in Saul Lieberman et al. (eds.) *Harry Austryn Wolfson Jubilee Volume* (Jerusalem: American Academy for Jewish Research) 385–406.
-* Ibn Haydūr, ʿAlī b. ʿAbd al-Lāh al-Tādilī (2018). *Tuḥfat al-ṭullāb wa umniyyat al-ḥussāb fī sharḥ mā ashkal min rafʿ al-ḥijāb*, in Aḥmad Muṣliḥ (ed.), *Al-Riyāḍiyāt fī Maġrib al-qarn al-rābiʿ ʿashar: Tuḥfat al-ṭullāb li Ibn Hadūr al-Tādilī (d. 816/1413)* (Rabat: Dār Nashr al-Maʿrifa).
-* Ibn al-Khaṭīb, Lisān al-Dīn (1975). *Al-Iḥāṭa fī akhbār Gharnāṭa* [*History of Granada*], 4 vols.: vol.3 ed. ʿAbd al-Lāh ʿInān (Cairo: Maktabat al-Khānjī).
-* Ibn Khaldūn, ʿAbd al-Raḥmān (2004). *Riḥlat Ibn Khaldūn* [*Autobiography*], ed. M. Ben Tāwīt al-Ṭanjī (Beirut: Dar al-kutub al-ʿilmiyya).
-* Ibn Ṭumlūs (2020). *Compendium on Logic* (*al-Mukhta**ṣ**ar fī al-Mantiq*), ed. F. Ben Ahmed (Leiden: Brill).
-* Ivry, Alfred L. (1983). “Remnants of Jewish Averroism in the Renaissance,” in Bernard Dov Cooperman (ed.), *Jewish Thought in the Sixteenth Century* (Cambridge, MA: Harvard University Center for Jewish Studies), 243–65.
-* Al-Jābirī, Muḥammad ʿĀbid (1998). *Ibn Rushd: Sīra wa fikr* (Beirut: Markaz Dirāsāt al-Waḥda al-ʿArabiyya).
-* Klima, Gyula (1998). “*Ancilla theologiae vs domina philosophorum*: Thomas Aquinas, Latin Averroism and the Autonomy of Philosophy,” in Jan A. Aertsen and Andreas Speer (eds.), *Was ist Philosophie im Mittelalter?* (Berlin: De Gruyter), 393–402.
-* Kogan, Barry S. (1985). *Averroes and the Metaphysics of Causation* (Albany: SUNY Press).
-* Kügelgen, Anke von (1994). *Averroes und die arabische Moderne: Ansätze zu einer Neubegründung des Rationalismus im Islam* (Leiden: Brill).
-* Kuksewicz, Zdzisław (1968). *La thèorie de l’intellect chez les averroistes latins des XIIIe et XIVe siècles: de Siger de Brabant à Jacques de Plaisance* (Wrocław: Ossolineum).
-* Mahdi, Muhsin (2016). “Averroes’ *Commentary on Plato’s Republic*,” in Mokdad Arfa Mensia (ed.), *Political Philosophy and Philosophy of History: Proceedings of the Colloquium Dedicated to Muhsin Mahdi* (Tunis: Dār al-tanwīr), 27–42.
-* Mahoney, Edward (1988). “Aristotle as ‘The Worst Natural Philosophy’ (*pessimus naturalis*) and ‘The Worst Metaphysician’ (*pessimus metaphysicus*): His Reputation among Some Franciscan Philosophers (Bonaventure, Francis of Meyronnes, Antonius Andreas, and Joannes Canonicus) and Later Reactions,” in O. Pluta (ed.), *Die Philosophie im 14. und 15. Jahrhundert* (Amsterdam: Gruener), 261–73.
-* Maier, Anneliese (1982). *On the Threshold of Exact Science: Selected Writings of Anneliese Maier on Late Medieval Natural Philosophy*, tr. Steven D. Sargent (Philadelphia: University of Pennsylvania Press).
-* Marenbon, John (2007). “Latin Averroism,” in Anna Akasoy, James E. Montgomery, and Peter E. Pormann (eds.), *Islamic Crosspollinations: Interactions in the Medieval Middle East* (Exeter: Gibb Memorial Trust), 135–47.
-* Martin, Craig (2015). “Providence and Seventeenth-Century Attacks on Averroes,” in Paul J. J. M. Bakker (ed.), *Averroes’ Natural Philosophy and Its Reception in the West* (Leuven: Leuven University Press), 193–212.
-* Niewöhner, Friedrich and Loris Sturlese (1994). *Averroismus im Mittelalter und in der Renaissance* (Zurich: Spur).
-* Normore, Calvin G. (1995). “Who Was Condemned in 1277?” *Modern Schoolman* 72: 273–81.
-* Ogden, Stephen (2016). “On a Possible Argument for Averroes’s Single Separate Intellect,” *Oxford Studies in Medieval Philosophy* 4: 27–63.
-* ––– (forthcoming). “Averroes’s Unity Argument against Multiple Intellects,” *Archiv für Geschichte der Philosophie*.
-* Pasnau, Robert, with Christina Van Dyke (eds.) (2010). *The Cambridge History of Medieval Philosophy* (Cambridge: Cambridge University Press).
-* Phillipson, Traci (2013). “The Will in Averroes and Aquinas,” *Proceedings of the American Catholic Philosophical Association* 87: 231–47.
-* Pourjavady, Reza and Sabine Schmidtke (2015). “An Eastern Renaissance? Greek Philosophy under the Safavids (16th–18th Centuries AD),” *Intellectual History of the Islamicate World* 3: 248–90.
-* Puig, Josep (1992). “Materials on Averroes’s Circle,” *Journal of Near Eastern Studies* 51: 241–60.
+* Harvey, Steven (1985). “The Hebrew Translation of Averroes’ Prooemium to his _Long Commentary on Aristotle’s Physics_,” _Proceedings of the American Academy for Jewish Research_ 52: 55–84.
+* ––– (1992). “Did Maimonides Letter to Samuel ibn Tibbon Determine Which Philosophers Would Be Studied by Later Jewish Thinkers?” _Jewish Quarterly Review_ 83: 51–70.
+* ––– (2000). “On the Nature and Extent of Jewish Averroism: Renan’s _Averroès et l’averroïsme_ Revisited,” _Jewish Studies Quarterly_ 7: 100–19.
+* Hasse, Dag Nikolaus (2016). _Success and Suppression: Arabic Sciences and Philosophy in the Renaissance_ (Cambridge, MA: Harvard University Press).
+* Hayoun, Maurice-Ruben (2005). “L’averroïsme dans les milieu intellectuels du judaisme: Moïse de Narbonne (1300–1362) et Eliya Delmédigo (v. 1460–1493),” in André Bazzana, Nicole Bériou, and Pierre Guichard (eds.), _Averroès et l’averroïsme (XIIe–XVe siècle): un itinéraire historique du Haut Atlas à Paris et à Padoue_ (Lyon: Presses Universitaires), 275–305.
+* Hoover, Jon (2018). “Ibn Taymiyya’s Use of Ibn Rushd to Refute the Incorporealism of Fakhr al-Dīn al-Rāzī,” in Abdelkader al-Ghouz (ed.), _Islamic Philosophy from the 12th to the 14th Century_ (Göttingen: V\&R Unipress), 469–91.
+* Hourani, George F. (1962). “Averroes on Good and Evil,” _Studia Islamica_ 16: 13–40.
+* Hyman, Arthur (1965). “Aristotle’s ‘First Matter’ and Avicenna’s and Averroes’ ‘Corporeal Form’,” in Saul Lieberman et al. (eds.) _Harry Austryn Wolfson Jubilee Volume_ (Jerusalem: American Academy for Jewish Research) 385–406.
+* Ibn Haydūr, ʿAlī b. ʿAbd al-Lāh al-Tādilī (2018). _Tuḥfat al-ṭullāb wa umniyyat al-ḥussāb fī sharḥ mā ashkal min rafʿ al-ḥijāb_, in Aḥmad Muṣliḥ (ed.), _Al-Riyāḍiyāt fī Maġrib al-qarn al-rābiʿ ʿashar: Tuḥfat al-ṭullāb li Ibn Hadūr al-Tādilī (d. 816/1413)_ (Rabat: Dār Nashr al-Maʿrifa).
+* Ibn al-Khaṭīb, Lisān al-Dīn (1975). _Al-Iḥāṭa fī akhbār Gharnāṭa_ \[_History of Granada_], 4 vols.: vol.3 ed. ʿAbd al-Lāh ʿInān (Cairo: Maktabat al-Khānjī).
+* Ibn Khaldūn, ʿAbd al-Raḥmān (2004). _Riḥlat Ibn Khaldūn_ \[_Autobiography_], ed. M. Ben Tāwīt al-Ṭanjī (Beirut: Dar al-kutub al-ʿilmiyya).
+* Ibn Ṭumlūs (2020). _Compendium on Logic_ (_al-Mukhta**ṣ**ar fī al-Mantiq_), ed. F. Ben Ahmed (Leiden: Brill).
+* Ivry, Alfred L. (1983). “Remnants of Jewish Averroism in the Renaissance,” in Bernard Dov Cooperman (ed.), _Jewish Thought in the Sixteenth Century_ (Cambridge, MA: Harvard University Center for Jewish Studies), 243–65.
+* Al-Jābirī, Muḥammad ʿĀbid (1998). _Ibn Rushd: Sīra wa fikr_ (Beirut: Markaz Dirāsāt al-Waḥda al-ʿArabiyya).
+* Klima, Gyula (1998). “_Ancilla theologiae vs domina philosophorum_: Thomas Aquinas, Latin Averroism and the Autonomy of Philosophy,” in Jan A. Aertsen and Andreas Speer (eds.), _Was ist Philosophie im Mittelalter?_ (Berlin: De Gruyter), 393–402.
+* Kogan, Barry S. (1985). _Averroes and the Metaphysics of Causation_ (Albany: SUNY Press).
+* Kügelgen, Anke von (1994). _Averroes und die arabische Moderne: Ansätze zu einer Neubegründung des Rationalismus im Islam_ (Leiden: Brill).
+* Kuksewicz, Zdzisław (1968). _La thèorie de l’intellect chez les averroistes latins des XIIIe et XIVe siècles: de Siger de Brabant à Jacques de Plaisance_ (Wrocław: Ossolineum).
+* Mahdi, Muhsin (2016). “Averroes’ _Commentary on Plato’s Republic_,” in Mokdad Arfa Mensia (ed.), _Political Philosophy and Philosophy of History: Proceedings of the Colloquium Dedicated to Muhsin Mahdi_ (Tunis: Dār al-tanwīr), 27–42.
+* Mahoney, Edward (1988). “Aristotle as ‘The Worst Natural Philosophy’ (_pessimus naturalis_) and ‘The Worst Metaphysician’ (_pessimus metaphysicus_): His Reputation among Some Franciscan Philosophers (Bonaventure, Francis of Meyronnes, Antonius Andreas, and Joannes Canonicus) and Later Reactions,” in O. Pluta (ed.), _Die Philosophie im 14. und 15. Jahrhundert_ (Amsterdam: Gruener), 261–73.
+* Maier, Anneliese (1982). _On the Threshold of Exact Science: Selected Writings of Anneliese Maier on Late Medieval Natural Philosophy_, tr. Steven D. Sargent (Philadelphia: University of Pennsylvania Press).
+* Marenbon, John (2007). “Latin Averroism,” in Anna Akasoy, James E. Montgomery, and Peter E. Pormann (eds.), _Islamic Crosspollinations: Interactions in the Medieval Middle East_ (Exeter: Gibb Memorial Trust), 135–47.
+* Martin, Craig (2015). “Providence and Seventeenth-Century Attacks on Averroes,” in Paul J. J. M. Bakker (ed.), _Averroes’ Natural Philosophy and Its Reception in the West_ (Leuven: Leuven University Press), 193–212.
+* Niewöhner, Friedrich and Loris Sturlese (1994). _Averroismus im Mittelalter und in der Renaissance_ (Zurich: Spur).
+* Normore, Calvin G. (1995). “Who Was Condemned in 1277?” _Modern Schoolman_ 72: 273–81.
+* Ogden, Stephen (2016). “On a Possible Argument for Averroes’s Single Separate Intellect,” _Oxford Studies in Medieval Philosophy_ 4: 27–63.
+* ––– (forthcoming). “Averroes’s Unity Argument against Multiple Intellects,” _Archiv für Geschichte der Philosophie_.
+* Pasnau, Robert, with Christina Van Dyke (eds.) (2010). _The Cambridge History of Medieval Philosophy_ (Cambridge: Cambridge University Press).
+* Phillipson, Traci (2013). “The Will in Averroes and Aquinas,” _Proceedings of the American Catholic Philosophical Association_ 87: 231–47.
+* Pourjavady, Reza and Sabine Schmidtke (2015). “An Eastern Renaissance? Greek Philosophy under the Safavids (16th–18th Centuries AD),” _Intellectual History of the Islamicate World_ 3: 248–90.
+* Puig, Josep (1992). “Materials on Averroes’s Circle,” _Journal of Near Eastern Studies_ 51: 241–60.
 * Putallaz, François-Xavier (2010). “Censorship,” in Pasnau and Van Dyke (2010), 99–113.
-* Rahman, Fazlur (1958). *Prophecy in Islam: Philosophy and Orthodoxy* (London: Allen and Unwin).
-* Renan, Ernest (1852). *Averroès et l’averroīsme: essai historique* (Paris: Auguste Durand, 1852). A revised and expanded second edition was published in Paris by Michel Lévy in 1861.
-* Sabra, Abdelhamid I. (1984). “The Andalusian Revolt against Ptolemaic Astronomy. Averroes and al-Bitruji,” in E. Mendelsohn (ed.), *Transformation and Tradition in the Sciences: Essays in Honor of I. Bernard Cohen* (Cambridge: Cambridge University Press), 133–53.
-* Sylla, Edith Dudley (1979). “The A Posteriori Foundations of Natural Science,” *Synthese* 40 (1979) 147–87.
-* Tamani, Giuliano and Mauro Zonta (1997). *Aristoteles Hebraicus: versioni, commenti e compendi del Corpus Aristotelicum nei manoscritti ebraici delle biblioteche italiane* (Venice: Supernova, 1997), 31–49.
-* Taylor, Richard C. (1998). “Personal Immortality in Averroes’ Mature Philosophical Psychology,” *Documenti e studi sulla tradizione filosofica medievale* 9: 87–110.
-* ––– (2000). “‘Truth Does Not Contradict Truth’: Averroes and the Unity of Truth,” *Topoi* 19: 3–16.
-* ––– (2009). “Introduction,” in Averroes, *Long Commentary on the* De anima *of Aristotle* (New Haven: Yale University Press), xv–cix.
-* ––– (2012). “Averroes on the Sharīʿah of the Philosophers,” in R. C. Taylor and I. A. Omar (eds.), *The Judeo-Christian-Islamic Heritage: Philosophical and Theological Perspectives* (Milwaukee: Marquette University Press), 283–304.
-* ––– (2014). “Providence in Averroes,” in P. d’Hoine and G. Van Riel (eds.), *Faith, Providence and Moral Responsibility in Ancient, Medieval and Early Modern Thought: Studies in Honour of Carlos Steel* (Leuven: Leuven University Press), 455–72.
-* ––– (2018). “Averroes and the Philosophical Account of Prophecy,” *Studia graeco-arabica* 8: 387–304.
+* Rahman, Fazlur (1958). _Prophecy in Islam: Philosophy and Orthodoxy_ (London: Allen and Unwin).
+* Renan, Ernest (1852). _Averroès et l’averroīsme: essai historique_ (Paris: Auguste Durand, 1852). A revised and expanded second edition was published in Paris by Michel Lévy in 1861.
+* Sabra, Abdelhamid I. (1984). “The Andalusian Revolt against Ptolemaic Astronomy. Averroes and al-Bitruji,” in E. Mendelsohn (ed.), _Transformation and Tradition in the Sciences: Essays in Honor of I. Bernard Cohen_ (Cambridge: Cambridge University Press), 133–53.
+* Sylla, Edith Dudley (1979). “The A Posteriori Foundations of Natural Science,” _Synthese_ 40 (1979) 147–87.
+* Tamani, Giuliano and Mauro Zonta (1997). _Aristoteles Hebraicus: versioni, commenti e compendi del Corpus Aristotelicum nei manoscritti ebraici delle biblioteche italiane_ (Venice: Supernova, 1997), 31–49.
+* Taylor, Richard C. (1998). “Personal Immortality in Averroes’ Mature Philosophical Psychology,” _Documenti e studi sulla tradizione filosofica medievale_ 9: 87–110.
+* ––– (2000). “‘Truth Does Not Contradict Truth’: Averroes and the Unity of Truth,” _Topoi_ 19: 3–16.
+* ––– (2009). “Introduction,” in Averroes, _Long Commentary on the_ De anima _of Aristotle_ (New Haven: Yale University Press), xv–cix.
+* ––– (2012). “Averroes on the Sharīʿah of the Philosophers,” in R. C. Taylor and I. A. Omar (eds.), _The Judeo-Christian-Islamic Heritage: Philosophical and Theological Perspectives_ (Milwaukee: Marquette University Press), 283–304.
+* ––– (2014). “Providence in Averroes,” in P. d’Hoine and G. Van Riel (eds.), _Faith, Providence and Moral Responsibility in Ancient, Medieval and Early Modern Thought: Studies in Honour of Carlos Steel_ (Leuven: Leuven University Press), 455–72.
+* ––– (2018). “Averroes and the Philosophical Account of Prophecy,” _Studia graeco-arabica_ 8: 387–304.
 * Thom, Paul (2019). “Averroes’ Logic,” in Adamson and Di Giovanni (2019), 81–95.
-* Twetten, David (2007). “Averroes’ Prime Mover Argument,” in Jean-Baptiste Brenet (ed.), *Averroès et les averroïsmes juif et latin* (Turnhout: Brepols), 9–75.
-* ––– (forthcoming). “Aristotle Less Transformed: Averroes and the Prime Mover Not as Artist but as Art,” *Documenti e studi sulla tradizione filosofica medievale*.
-* Urvoy, Dominique (1998). *Averroès: les ambitions d’un intellectuel musulman* (Paris: Flammarion). (There is a 1991 edition in English, but the 1998 French edition is significantly improved.)
-* Van Steenberghen, Fernand (1980). *St. Thomas Aquinas and Radical Aristotelianism* (Washington: Catholic University of America Press, 1980).
-* Wippel, John F. (1995). *Mediaeval Reactions to the Encounter Between Faith and Reason* (Milwaukee: Marquette University Press).
-* Wirmer, David (2008). *Über den Intellekt: Auszüge aus seinen drei Kommentaren zu Aristoteles’ De anima.* *Arabisch–Lateinisch–Deutsch* (Freiburg: Herder).
-* Wolfson, Harry Austryn (1962). “The Problem of the Souls of the Spheres, from the Byzantine Commentaries on Aristotle through the Arabs and St. Thomas to Kepler,” *Dumbarton Oaks Papers* 16: 67–93.
+* Twetten, David (2007). “Averroes’ Prime Mover Argument,” in Jean-Baptiste Brenet (ed.), _Averroès et les averroïsmes juif et latin_ (Turnhout: Brepols), 9–75.
+* ––– (forthcoming). “Aristotle Less Transformed: Averroes and the Prime Mover Not as Artist but as Art,” _Documenti e studi sulla tradizione filosofica medievale_.
+* Urvoy, Dominique (1998). _Averroès: les ambitions d’un intellectuel musulman_ (Paris: Flammarion). (There is a 1991 edition in English, but the 1998 French edition is significantly improved.)
+* Van Steenberghen, Fernand (1980). _St. Thomas Aquinas and Radical Aristotelianism_ (Washington: Catholic University of America Press, 1980).
+* Wippel, John F. (1995). _Mediaeval Reactions to the Encounter Between Faith and Reason_ (Milwaukee: Marquette University Press).
+* Wirmer, David (2008). _Über den Intellekt: Auszüge aus seinen drei Kommentaren zu Aristoteles’ De anima._ _Arabisch–Lateinisch–Deutsch_ (Freiburg: Herder).
+* Wolfson, Harry Austryn (1962). “The Problem of the Souls of the Spheres, from the Byzantine Commentaries on Aristotle through the Arabs and St. Thomas to Kepler,” _Dumbarton Oaks Papers_ 16: 67–93.
 * Zonta, Mauro (2010). “Ancient Philosophical Works and Commentaries Translated into Hebrew,” in Pasnau and Van Dyke (2010), 826–32.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ibn-rushd). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ibn-rushd/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ibn-rushd&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/ibn-rushd/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ibn-rushd).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ibn-rushd/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ibn-rushd\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/ibn-rushd/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * The Thomas-Institute at Cologne’s comprehensive digital catalog of Ibn Rushd’s work—the Digital Averroes Research Environment. Particularly useful are:
-  * the [list of printed texts](https://dare.uni-koeln.de/project/dare-publications/) currently available online;
-  * a [web reader](https://dare.uni-koeln.de/app/works) that allows the comparison of printed texts and manuscripts;
-  * an extensive [bibliography](http://dare.uni-koeln.de/app/bib) of secondary sources.
-* Thérèse-Anne Druart’s annual [bibliographical guide to medieval Islamic philosophy and theology](https://philosophy.catholic.edu/faculty-and-research/publications/dr.-druarts-bibliographic-guide.html).
-* *History of Philosophy without Any Gaps*, a podcast series hosted by Peter Adamson, with [a series of entries regarding Ibn Rushd](https://historyofphilosophy.net/islamic-world), including an interview with Richard Taylor.
-* [“The Commentator,”](https://www.npr.org/2019/10/09/768651310/the-commentator) featuring Robert Pasnau, a podcast on National Public Radio’s *Throughlines* (October 10, 2019)
-* [*Al-Massir* (*Destiny*)](https://www.imdb.com/title/tt0119629/) (1997), a dramatic film, by Youssef Chahine, based on the life of Ibn Rushd.
+  * the [list of printed texts](https://dare.uni-koeln.de/project/dare-publications/) currently available online;
+  * a [web reader](https://dare.uni-koeln.de/app/works) that allows the comparison of printed texts and manuscripts;
+  * an extensive [bibliography](http://dare.uni-koeln.de/app/bib) of secondary sources.
+* Thérèse-Anne Druart’s annual [bibliographical guide to medieval Islamic philosophy and theology](https://philosophy.catholic.edu/faculty-and-research/publications/dr.-druarts-bibliographic-guide.html).
+* _History of Philosophy without Any Gaps_, a podcast series hosted by Peter Adamson, with [a series of entries regarding Ibn Rushd](https://historyofphilosophy.net/islamic-world), including an interview with Richard Taylor.
+* [“The Commentator,”](https://www.npr.org/2019/10/09/768651310/the-commentator) featuring Robert Pasnau, a podcast on National Public Radio’s _Throughlines_ (October 10, 2019)
+* [_Al-Massir_ (_Destiny_)](https://www.imdb.com/title/tt0119629/) (1997), a dramatic film, by Youssef Chahine, based on the life of Ibn Rushd.
 
 ## Related Entries
 
-[Arabic and Islamic Philosophy, disciplines in: metaphysics](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/) | [Arabic and Islamic Philosophy, disciplines in: natural philosophy and natural science](https://plato.stanford.edu/entries/arabic-islamic-natural/) | [Arabic and Islamic Philosophy, disciplines in: philosophy of language and logic](https://plato.stanford.edu/entries/arabic-islamic-language/) | [Arabic and Islamic Philosophy, disciplines in: psychology and philosophy of mind](https://plato.stanford.edu/entries/arabic-islamic-mind/) | [Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on Judaic thought](https://plato.stanford.edu/entries/arabic-islamic-judaic/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on the Latin West](https://plato.stanford.edu/entries/arabic-islamic-influence/) | [causation: in Arabic and Islamic thought](https://plato.stanford.edu/entries/arabic-islamic-causation/) | [Ibn Rushd [Averroes]: natural philosophy](https://plato.stanford.edu/entries/ibn-rushd-natural/)
+[Arabic and Islamic Philosophy, disciplines in: metaphysics](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/) | [Arabic and Islamic Philosophy, disciplines in: natural philosophy and natural science](https://plato.stanford.edu/entries/arabic-islamic-natural/) | [Arabic and Islamic Philosophy, disciplines in: philosophy of language and logic](https://plato.stanford.edu/entries/arabic-islamic-language/) | [Arabic and Islamic Philosophy, disciplines in: psychology and philosophy of mind](https://plato.stanford.edu/entries/arabic-islamic-mind/) | [Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on Judaic thought](https://plato.stanford.edu/entries/arabic-islamic-judaic/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on the Latin West](https://plato.stanford.edu/entries/arabic-islamic-influence/) | [causation: in Arabic and Islamic thought](https://plato.stanford.edu/entries/arabic-islamic-causation/) | [Ibn Rushd \[Averroes\]: natural philosophy](https://plato.stanford.edu/entries/ibn-rushd-natural/)
 
 ### Acknowledgments
 
 Thanks for their help and advice to Peter Adamson, Matteo Di Giovanni, Stephen Ogden, Richard Taylor, and David Wirmer.
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-Fouad Ben Ahmed <[*benahmedf@gmail.com*](mailto:benahmedf%40gmail%2ecom)>  
-[Robert Pasnau](http://spot.colorado.edu/~pasnau/) <[*pasnau@colorado.edu*](mailto:pasnau%40colorado%2eedu)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+Fouad Ben Ahmed <[_benahmedf@gmail.com_](mailto:benahmedf%40gmail%2ecom)>\
+[Robert Pasnau](http://spot.colorado.edu/\~pasnau/) <[_pasnau@colorado.edu_](mailto:pasnau%40colorado%2eedu)>

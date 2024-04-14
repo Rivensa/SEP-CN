@@ -1,24 +1,21 @@
 # 跨世界同一性 transworld (Penelope Mackie and Mark Jago)
 
-*首次发表于2006年7月25日；实质性修订于2022年8月18日*
+_首次发表于2006年7月25日；实质性修订于2022年8月18日_
 
 跨世界同一性的概念——“跨越可能世界的同一性”——是指同一对象存在于多个可能的世界中（实际世界被视为可能世界之一）。因此，它在分析或至少释义关于可能性或必然性的陈述时，属于“可能世界”框架的范畴。
 
 跨世界同一性的主题在哲学家中引起了极大的争议，即使是那些接受可能世界讨论合法性的哲学家也是如此。观点从认为在不同可能世界中的对象之间存在的同一性概念如此有问题以至于无法接受，到认为这个概念完全无害，不比无争议地声称个体可能以稍有不同的属性存在更有问题。事情的复杂性在于“跨世界同一性”的一个重要对手已经被提出：David Lewis 的对应理论，它用在一个世界中的个体存在于其他世界中存在对应物的主张来取代一个个体存在于多个可能世界中的主张，其中对应关系（基于相似性）不具有同一性的逻辑。因此，这个领域的许多讨论涉及到跨世界同一性和对应理论账户作为解释的相对优劣，这些解释是在一个可能世界的框架内对特定个体的可能性和必然性陈述的。 （类似的问题也涉及到属性的跨世界同一性。）
 
 * [1. 什么是跨世界同一性？](https://plato.stanford.edu/entries/identity-transworld/#WhaTraIde)
-
   * [1.1 为什么需要跨世界同一性？](https://plato.stanford.edu/entries/identity-transworld/#WhyTraIde)
   * [1.2 跨世界同一性与可能世界的概念](https://plato.stanford.edu/entries/identity-transworld/#TraIdeConPosWor)
 * [2. 跨世界同一性与莱布尼兹定律](https://plato.stanford.edu/entries/identity-transworld/#TraIdeLeiLaw)
 * [3. “跨世界同一性问题”是一个伪问题吗？](https://plato.stanford.edu/entries/identity-transworld/#ProTraIdePsePro)
-
   * [3.1 反对认识论假设](https://plato.stanford.edu/entries/identity-transworld/#AgaEpiAss)
   * [3.2 反对“指称安全性”假设](https://plato.stanford.edu/entries/identity-transworld/#AgaSecRefAss)
   * [3.3 反对“可理解性”假设](https://plato.stanford.edu/entries/identity-transworld/#AgaIntAss)
-  * [ 3.4 未解决的问题](https://plato.stanford.edu/entries/identity-transworld/#RemainingIssues)
+  * [3.4 未解决的问题](https://plato.stanford.edu/entries/identity-transworld/#RemainingIssues)
 * [4. 个体本质和裸同一性](https://plato.stanford.edu/entries/identity-transworld/#IndEssBarIde)
-
   * [4.1 Chisholm 的悖论和裸同一性](https://plato.stanford.edu/entries/identity-transworld/#ChiParBarIde)
   * [4.2 Forbes 对个体本质和裸同一性的看法](https://plato.stanford.edu/entries/identity-transworld/#ForIndEssBarIde)
   * [4.3 跨世界同一性和随时间变化的同一性条件](https://plato.stanford.edu/entries/identity-transworld/#TraIdeConForIdeOveTim)
@@ -26,20 +23,18 @@
   * [4.5 莱布尼兹和超本质主义](https://plato.stanford.edu/entries/identity-transworld/#Leibniz)
   * [4.6 同一性和同一性主义](https://plato.stanford.edu/entries/identity-transworld/#HaeHae)
 * [5. 跨世界同一性和同一性的传递性](https://plato.stanford.edu/entries/identity-transworld/#TraIdeTraIde)
-
   * [5.1 Chandler 的传递性论证](https://plato.stanford.edu/entries/identity-transworld/#ChaTraArg)
   * [5.2 对传递性问题的回应](https://plato.stanford.edu/entries/identity-transworld/#RespTranProb)
-  * [5.3 &apos;四个世界悖论&apos;](https://plato.stanford.edu/entries/identity-transworld/#FouWorPar)
+  * [5.3 '四个世界悖论'](https://plato.stanford.edu/entries/identity-transworld/#FouWorPar)
 * [6. 结论](https://plato.stanford.edu/entries/identity-transworld/#ConRem)
-
   * [6.1 跨世界同一性和对应理论](https://plato.stanford.edu/entries/identity-transworld/#TraIdeCouThe)
   * [6.2 路易斯关于跨世界同一性和“根据世界的存在”](https://plato.stanford.edu/entries/identity-transworld/#LewTraIdeExiAccWor)
-* [ 参考文献](https://plato.stanford.edu/entries/identity-transworld/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/identity-transworld/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/identity-transworld/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/identity-transworld/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/identity-transworld/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/identity-transworld/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/identity-transworld/#Rel)
 
----
+***
 
 ## 1. 什么是跨世界同一性？
 
@@ -69,7 +64,7 @@ Lewis 拒绝了这两种选择。他拒绝了重叠观点，因为他称之为�
 
 Lewis 本人将他对可能世界的现实主义观点与否认跨世界同一性相结合。根据 Lewis 的观点，我们不应该说乔治·艾略特（整体或部分）存在于多个世界中，而应该说她只存在于一个世界（我们的世界），但在其他世界中有对应物。正是乔治·艾略特的对应物在科学事业而不是写小说方面取得了成功，这使得她本可以成为一名科学家而不是一名小说家（Lewis 1973 年，39-43 页；1968 年；1986 年，第 4 章）。
 
-然而，刘易斯对于现实主义的版本绝不是唯一的可能世界概念。根据一系列有影响力的对立观点，可能世界虽然是真实的实体，但并非像刘易斯的理论中那样具体的“其他宇宙”，而是抽象的对象，例如（最大化的）可能事态或“世界可能存在的方式”。（参见普兰廷加1974年；斯坦内克1976年；范因瓦根1985年；迪弗斯2002年；梅利亚2003年；斯坦内克1995年；还有关于可能世界的单独条目。事态S是“最大化的”，只要对于任何事态S *，要么S和S*同时发生是不可能的，要么S在没有S*的情况下发生是不可能的：限制在最大化的意义上是为了确保可能世界应该是一种在相关意义上完整的可能事态。）
+然而，刘易斯对于现实主义的版本绝不是唯一的可能世界概念。根据一系列有影响力的对立观点，可能世界虽然是真实的实体，但并非像刘易斯的理论中那样具体的“其他宇宙”，而是抽象的对象，例如（最大化的）可能事态或“世界可能存在的方式”。（参见普兰廷加1974年；斯坦内克1976年；范因瓦根1985年；迪弗斯2002年；梅利亚2003年；斯坦内克1995年；还有关于可能世界的单独条目。事态S是“最大化的”，只要对于任何事态S _，要么S和S_同时发生是不可能的，要么S在没有S\*的情况下发生是不可能的：限制在最大化的意义上是为了确保可能世界应该是一种在相关意义上完整的可能事态。）
 
 表面上看，将可能世界视为抽象实体似乎只会使跨世界同一性的问题更加复杂。如果很难相信你（或一张桌子或一只猫）可以是另一个刘易斯式可能世界的一部分，那么更难相信一个像你（或桌子或猫）这样的具体实体可以是抽象实体的一部分。然而，那些认为可能世界是抽象实体的人通常不认为在一个仅仅可能的世界中存在一个具体的实际个体意味着该实体实质上是这样一个抽象事物的一部分。相反，这样的理论家将提出对“存在于”这样一个世界的不同解释。例如，根据普兰廷加（1973年，1974年）对这一观点的版本，说乔治·艾略特存在于她是一名科学家的某个可能世界中，只是说存在这样一种（最大的）可能事态，如果它发生了（即它是实际的），乔治·艾略特将（仍然）存在，但将成为一名科学家。根据这种（贬低的）存在于可能世界的解释，乔治·艾略特过着双重生活，作为另一个具体宇宙和我们自己的一部分（或者她在许多这样的宇宙中部分存在）的想法所伴随的困难完全可以避免。根据普兰廷加的观点，声称一个实际对象存在于另一个具有稍有不同属性的可能世界中，不过是声称该对象本可以具有稍有不同的属性：这是很少有人会否认的。 （请注意，根据这种观点，如果实际世界是可能世界之一，那么实际世界必须是一个抽象实体。） 所以，举个例子，如果一个仅仅可能的世界是“世界可能是的一种方式”，那么实际世界将是“世界的实际状态”；如果一个仅仅可能的世界是一个未实现的最大可能的事态，那么实际世界将是一个已实现的最大可能的事态。由此可见，我们必须区分抽象实体的实际世界和“宇宙”或“宇宙”的集合，即包括您和您周围的空间和时间相关实体的实际世界。您在这个具体宇宙中存在的方式（通过成为其中的一部分）必须与您在实际实现的抽象事态中存在的方式不同（参见 Stalnaker 1976；van Inwagen 1985，注 3；Kripke 1980，19-20）。)
 
@@ -111,7 +106,7 @@ Lewis 本人将他对可能世界的现实主义观点与否认跨世界同一�
 
 认识论假设似乎暗示着我们对乔治·艾略特（George Eliot）具有跨世界同一性的标准的目的是，我们可以利用这个标准来确定在可能世界中哪个个体是艾略特；如果我们没有这样的标准，我们将无法在其他可能世界中找到她或识别她（Plantinga 1973；1974 年，第 6 章；Kripke 1980 年，42-53 页；参见 Loux 1979 年，引言；Kaplan 1967/1979 年）。然而，这个建议本身容易受到混淆的指责。因为我们如何能够按照设想的方式使用同一性标准呢？我们必须摒弃这样一个奇想，即如果我们对乔治·艾略特有一个跨世界同一性的标准，我们可以通过对其他可能世界中个体的属性进行经验检查（也许使用一台强大的望远镜（Kripke 1980 年，44 页）或“朱尔斯·凡尔纳望远镜”（Kaplan 1967/1979 年，93 页；Plantinga 1974 年，94 页）），来确定哪个（如果有的话）个体是艾略特。因为没有人（包括像刘易斯这样的极端现实主义者）认为我们对其他可能世界的认识论接触是这种类型的。（根据刘易斯的观点，其他可能世界与我们自己是因果隔离的，因此超出了我们望远镜或任何其他感知设备的范围。）但是一旦我们正视这样一个事实，即跨世界同一性的标准（如果我们有的话）不能有这样的经验用途，基于认识论假设的论证似乎就会崩溃。很容易认为，这个论证是受到了对我们对其他可能世界的认识论接触的误导性图像（也许是潜在的）影响的产物。正如克里普克（Kripke）所写（以尼克松总统为例）：
 
-一个人在这个[错误的]图像中，将一个可能的世界想象成一个像外国一样的国家。一个人以观察者的身份看待它。也许尼克松已经搬到了另一个国家，也许他没有，但是一个人只能看到一些特质。一个人可以观察到他的所有特质，但是，当然，一个人并没有观察到有人是尼克松。一个人观察到某物有红色的头发（或者绿色或者黄色），但并不知道某物是否是尼克松。因此，当我们遇到与之前看到的相同的事物时，最好有一种通过属性来判断的方法；当我们遇到这些其他可能的世界之一时，最好有一种方法来判断谁是尼克松。（1980 年，43 页）
+一个人在这个\[错误的]图像中，将一个可能的世界想象成一个像外国一样的国家。一个人以观察者的身份看待它。也许尼克松已经搬到了另一个国家，也许他没有，但是一个人只能看到一些特质。一个人可以观察到他的所有特质，但是，当然，一个人并没有观察到有人是尼克松。一个人观察到某物有红色的头发（或者绿色或者黄色），但并不知道某物是否是尼克松。因此，当我们遇到与之前看到的相同的事物时，最好有一种通过属性来判断的方法；当我们遇到这些其他可能的世界之一时，最好有一种方法来判断谁是尼克松。（1980 年，43 页）
 
 （不过，可能在这段文字中，克里普克的主要目标并不是对我们对其他可能世界的认识的错误观念，而是他认为对它们的本质的错误（“外国”）观念：一种（当与幻想的认识论分离时）对于刘易斯式的世界实在论者来说是完全适当的观念。）
 
@@ -187,7 +182,7 @@ Chisholm（1967）从他的论证中得出的教训是对跨世界同一性持�
 
 第四种反应是福布斯的提议，他提出了一个混合解决方案：他认为对于一些个体（包括人类和树木），可以找到非平凡个体本质的合适候选者（通过诉诸于它们起源的独特特征），尽管对于其他一些个体（包括大多数人造物品），可能没有合适的候选者可用，这种情况下应采用对应理论（参见福布斯 1985 年第 6-7 章）。
 
-Koslicki（2020 年）提供了另一种混合解决方案。她出于奎因的原因接受了某些个体（包括人类）存在跨世界同一性问题：只有通过归因于它们非平凡的个体本质才能解决这个问题；她认为这些个体本质包括它们的个体形式。这样一个个体形式将为诸如“在“角色切换”世界中，是什么使个体诺亚而不是亚当？”这样的问题提供一个实质性的答案。因此，似乎，对于诺亚和亚当等个体的跨世界同一性问题被它们的个体形式的跨世界同一性问题所取代。但是，为什么这被认为是一种改进呢？正如 Fine 所说：“我们为什么不简单地将[非形式]实体的跨世界同一性视为已知，并且不需要任何标准？”（2020 年，430 页）。Koslicki 考虑的一个原因是概念上的。人们认为我们需要通过 de dicto 的模态主张来理解 de re 的模态主张。然而，如果个体形式要来解救，问题就出现了，即如何区分个体形式彼此之间的差异。在个体在其他方面无法区分的情况下，这个问题变得尖锐（Fine 2020 年，432 页）。此外，不清楚 Koslicki 引用个体形式具有“质的”元素（与不可分析的 haecceities 不同）（2020 年，第 3.3.4-3.5 节）是否能够帮助解决这个问题。
+Koslicki（2020 年）提供了另一种混合解决方案。她出于奎因的原因接受了某些个体（包括人类）存在跨世界同一性问题：只有通过归因于它们非平凡的个体本质才能解决这个问题；她认为这些个体本质包括它们的个体形式。这样一个个体形式将为诸如“在“角色切换”世界中，是什么使个体诺亚而不是亚当？”这样的问题提供一个实质性的答案。因此，似乎，对于诺亚和亚当等个体的跨世界同一性问题被它们的个体形式的跨世界同一性问题所取代。但是，为什么这被认为是一种改进呢？正如 Fine 所说：“我们为什么不简单地将\[非形式]实体的跨世界同一性视为已知，并且不需要任何标准？”（2020 年，430 页）。Koslicki 考虑的一个原因是概念上的。人们认为我们需要通过 de dicto 的模态主张来理解 de re 的模态主张。然而，如果个体形式要来解救，问题就出现了，即如何区分个体形式彼此之间的差异。在个体在其他方面无法区分的情况下，这个问题变得尖锐（Fine 2020 年，432 页）。此外，不清楚 Koslicki 引用个体形式具有“质的”元素（与不可分析的 haecceities 不同）（2020 年，第 3.3.4-3.5 节）是否能够帮助解决这个问题。
 
 然而，值得注意的是，似乎没有理论家认为“非平凡的个体本质”解决方案可以适用于所有相关案例。换句话说，共识似乎是，将所有 de re 模态主张解释为跨世界同一性（而不是对应理论）的代价是接受（某些）裸同一性跨越可能的世界。
 
@@ -245,7 +240,7 @@ Chandler 的传递性论证可以改编成一个类似于 4.1-4.2 节中讨论�
 
 目前还没有关于这些问题的适当解决方案达成共识。特别是，关于采用同一性理论是否优于跨世界身份论者可用的解决方案，目前还没有共识。对这个问题的全面讨论需要讨论针对同一性理论作为de re模态解释的反对意见。而对同一性理论的详细讨论超出了本文的范围。（对于David Lewis关于同一性理论的阐述，读者可以从Lewis 1973年的39-43页开始，然后是（更技术性的）Lewis 1968年。对Lewis的同一性理论的早期批评包括Kripke 1980年，Plantinga 1973年和Plantinga 1974年第6章。Lewis在Lewis 1971年和1986年的第4章中发展了他的同一性理论的1968年版本；他在他的“Postscripts to 'Counterpart Theory and Quantified Modal Logic'”（1983年，39-46页）和Lewis 1986年的第4章中回应了批评。其他关于同一性理论的讨论包括Hazen 1979年，Divers 2002年的相关部分，Melia 2003年以及Forbes 1985年的更技术性处理。对该理论的更近期批评（Lewis 1986年回应批评者之后）包括Fara和Williamson 2005年，Fara 2009年以及Dorr、Hawthorne和Yli-Vakkuri 2021年的第10章。）
 
-为了支持跨世界同一性（与上述第 4 和第 5 节讨论的防御策略不同），有一种论证方法可以称之为“逻辑简单性论证”（Linsky 和 Zalta 1994, 1996; Williamson 1998, 2000）。该论证从指出量化模态逻辑（结合个体量词和模态运算符）在接受巴尔坎方案的有效性时大大简化开始，即∀x□A → □∀x**A（Marcus 1946）。由此产生的逻辑在常量域语义上是完备和正确的，其中每个可能世界的域中都有完全相同的个体集合。对这种语义的最简单的哲学解释是，在每个可能世界中都存在同一个个体。
+为了支持跨世界同一性（与上述第 4 和第 5 节讨论的防御策略不同），有一种论证方法可以称之为“逻辑简单性论证”（Linsky 和 Zalta 1994, 1996; Williamson 1998, 2000）。该论证从指出量化模态逻辑（结合个体量词和模态运算符）在接受巴尔坎方案的有效性时大大简化开始，即∀x□A → □∀x\*\*A（Marcus 1946）。由此产生的逻辑在常量域语义上是完备和正确的，其中每个可能世界的域中都有完全相同的个体集合。对这种语义的最简单的哲学解释是，在每个可能世界中都存在同一个个体。
 
 对这个论证的几点评论是有必要的。首先，它的结论非常强大：它说任何实际存在或可能存在的实体都是必然存在的。不存在偶然存在。这远远超出了在世界之间存在真实的同一性的主张。（Williamson（2002）在独立的基础上为这个结论辩护。）其次，这个论证并没有解释跨世界同一性是如何可能的；它只坚持存在真实的跨世界同一性。（然而，最自然地从常量域语义中“读出”的形而上学图景将世界上的属性视为个体和世界之间的关系，如麦克丹尼尔的重叠模态实在论（McDaniel 2004）在上述第 1.2 节中讨论的那样。）
 
@@ -265,113 +260,113 @@ Chandler 的传递性论证可以改编成一个类似于 4.1-4.2 节中讨论�
 
 ## Bibliography
 
-* Adams, R. M., 1974, “Theories of Actuality”, *Noûs*, 8: 211–231; reprinted in Loux 1979.
-* –––, 1979, “Primitive Thisness and Primitive Identity”, *The Journal of Philosophy*, 76: 5–26; reprinted in Kim and Sosa 1999.
-* Bottani, A., Carrara, M., and Giaretta, P. (eds.), 2002, *Individuals, Essence and Identity: Themes of Analytic Metaphysics*, Dordrecht: Kluwer.
-* Brody, B., 1980, *Identity and Essence*, Princeton, NJ: Princeton University Press.
-* Catterson, T. T., 2008, “Reducing Reductionism: On a Putative Proof for Extreme Haecceitism”, *Philosophical Studies*, 140: 149–159.
-* Chandler, H., 1976, “Plantinga and the Contingently Possible”, *Analysis*, 36: 106–109.
-* Chihara, C., 1998, *The Worlds of Possibility*, Oxford: Oxford University Press.
-* Chisholm, R., 1967, “Identity through Possible Worlds: Some Questions”, *Noûs*, 1: 1–8; reprinted in Loux 1979, and in Kim and Sosa 1999.
+* Adams, R. M., 1974, “Theories of Actuality”, _Noûs_, 8: 211–231; reprinted in Loux 1979.
+* –––, 1979, “Primitive Thisness and Primitive Identity”, _The Journal of Philosophy_, 76: 5–26; reprinted in Kim and Sosa 1999.
+* Bottani, A., Carrara, M., and Giaretta, P. (eds.), 2002, _Individuals, Essence and Identity: Themes of Analytic Metaphysics_, Dordrecht: Kluwer.
+* Brody, B., 1980, _Identity and Essence_, Princeton, NJ: Princeton University Press.
+* Catterson, T. T., 2008, “Reducing Reductionism: On a Putative Proof for Extreme Haecceitism”, _Philosophical Studies_, 140: 149–159.
+* Chandler, H., 1976, “Plantinga and the Contingently Possible”, _Analysis_, 36: 106–109.
+* Chihara, C., 1998, _The Worlds of Possibility_, Oxford: Oxford University Press.
+* Chisholm, R., 1967, “Identity through Possible Worlds: Some Questions”, _Noûs_, 1: 1–8; reprinted in Loux 1979, and in Kim and Sosa 1999.
 * Coburn, R., 1986, “Individual Essences and Possible Worlds”, in French, Uehling, and Wettstein 1986, 165–183.
-* Della Rocca, M., 1996, “Recent Work in Essentialism, Part II”, *Philosophical Books*, 37: 81–89.
-* Divers, J., 2002, *Possible Worlds,* London: Routledge.
-* Dorr, C., Hawthorne, J., and Yli-Vakkuri, J., 2021, *The Bounds of Possibility: Puzzles of Modal Variation*, Oxford: Oxford University Press.
-* Evans, G., 1978, “Can There be Vague Objects?”, *Analysis*, 38: 208.
-* Fara, D. G., 2009, “Dear Haecceitism”, *Erkenntnis*, 70: 285–297.
-* Fara, M., and Williamson, T., 2005, “Counterparts and Actuality”, *Mind*, 114: 1–130.
-* Fine, K., 2020, “Comments on Kathrin Koslicki’s ‘Essence and Identity’”, in *Metaphysics, Meaning, and Modality: Themes from Kit Fine*, M. Dumitru (ed.), Oxford: Oxford University Press, 429–434.
-* Forbes, G., 1980, “Origin and Identity”, *Philosophical Studies*, 37: 353–362.
-* –––, 1985, *The Metaphysics of Modality*, Oxford: Oxford University Press.
+* Della Rocca, M., 1996, “Recent Work in Essentialism, Part II”, _Philosophical Books_, 37: 81–89.
+* Divers, J., 2002, _Possible Worlds,_ London: Routledge.
+* Dorr, C., Hawthorne, J., and Yli-Vakkuri, J., 2021, _The Bounds of Possibility: Puzzles of Modal Variation_, Oxford: Oxford University Press.
+* Evans, G., 1978, “Can There be Vague Objects?”, _Analysis_, 38: 208.
+* Fara, D. G., 2009, “Dear Haecceitism”, _Erkenntnis_, 70: 285–297.
+* Fara, M., and Williamson, T., 2005, “Counterparts and Actuality”, _Mind_, 114: 1–130.
+* Fine, K., 2020, “Comments on Kathrin Koslicki’s ‘Essence and Identity’”, in _Metaphysics, Meaning, and Modality: Themes from Kit Fine_, M. Dumitru (ed.), Oxford: Oxford University Press, 429–434.
+* Forbes, G., 1980, “Origin and Identity”, _Philosophical Studies_, 37: 353–362.
+* –––, 1985, _The Metaphysics of Modality_, Oxford: Oxford University Press.
 * –––, 1986, “In Defense of Absolute Essentialism”, in French, Uehling, and Wettstein 1986, 3–31.
-* –––, 1994, “A New Riddle of Existence”, in *Philosophical Perspectives* (Volume 8: Logic and Language), J. Tomberlin (ed.), Atascadero, CA: Ridgeview, 415–430.
+* –––, 1994, “A New Riddle of Existence”, in _Philosophical Perspectives_ (Volume 8: Logic and Language), J. Tomberlin (ed.), Atascadero, CA: Ridgeview, 415–430.
 * –––, 1997, “Essentialism”, in Hale and Wright 1997, 515–533.
 * –––, 2002, “Origins and Identities”, in Bottani, Carrara, and Giaretta 2002, 319–340.
-* French, P., Uehling, T., and Wettstein, H., (eds.), 1986, *Midwest Studies in Philosophy XI: Studies in Essentialism*, Minneapolis: University of Minnesota Press.
-* Hale, B., and Wright, C., (eds.), 1997, *A Companion to the Philosophy of Language*, Oxford: Blackwell.
+* French, P., Uehling, T., and Wettstein, H., (eds.), 1986, _Midwest Studies in Philosophy XI: Studies in Essentialism_, Minneapolis: University of Minnesota Press.
+* Hale, B., and Wright, C., (eds.), 1997, _A Companion to the Philosophy of Language_, Oxford: Blackwell.
 * Haslanger, S., 2003, “Persistence through Time”, in Loux and Zimmerman 2003, 315–354.
-* Hawley, K., 2001, *How Things Persist*, Oxford: Oxford University Press.
-* Hawthorne, J., and Gendler, T. S., 2000, “Origin Essentialism: the Arguments Revisited”, *Mind*, 109: 285–298.
-* Hazen, A., 1979, “Counterpart-Theoretic Semantics for Modal Logic”, *The Journal of Philosophy*, 76: 319–338.
-* Hughes, C., 2004, *Kripke: Names, Necessity, and Identity*, Oxford: Oxford University Press.
+* Hawley, K., 2001, _How Things Persist_, Oxford: Oxford University Press.
+* Hawthorne, J., and Gendler, T. S., 2000, “Origin Essentialism: the Arguments Revisited”, _Mind_, 109: 285–298.
+* Hazen, A., 1979, “Counterpart-Theoretic Semantics for Modal Logic”, _The Journal of Philosophy_, 76: 319–338.
+* Hughes, C., 2004, _Kripke: Names, Necessity, and Identity_, Oxford: Oxford University Press.
 * Kaplan, D., 1967/1979, “Transworld Heir Lines”, in Loux 1979, 88–109.
-* –––, 1975, “How to Russell a Frege-Church”, *The Journal of Philosophy*, 72: 716–729; reprinted in Loux 1979.
-* Kim, J., and Sosa, E., (eds.), 1995, *A Companion to Metaphysics*, Oxford: Blackwell.
-* –––, (eds.), 1999, *Metaphysics: An Anthology*, Oxford: Blackwell.
-* Koslicki, K., 2020, “Essence and Identity”, in *Metaphysics, Meaning, and Modality: Themes from Kit Fine*, M. Dumitru (ed.), Oxford: Oxford University Press, 113–140.
-* Kripke, S., 1972, “Naming and Necessity”, in *Semantics of Natural Language*, D. Davidson and G. Harman (eds.), Dordrecht: Reidel, 252–355; reprinted in revised form as a monograph by Basil Blackwell, Oxford, 1980.
-* –––, 1980, *Naming and Necessity*, Oxford: Basil Blackwell; this is the expanded monograph version of Kripke 1972.
-* Leibniz, G. W., 1973, *Leibniz, Philosophical* *Writings*, G. Parkinson (ed.), trans. M. Morris and G. Parkinson, London: Dent.
-* Lewis, D., 1968, “Counterpart Theory and Quantified Modal Logic”, *The Journal of Philosophy*, 65: 113–126; reprinted in Loux 1979 and (with additional “Postscripts”) in Lewis 1983.
-* –––, 1971, “Counterparts of Persons and Their Bodies”, *The Journal of Philosophy*, 68: 203–211; reprinted in Lewis 1983.
-* –––, 1973, *Counterfactuals*, Oxford: Blackwell. (Extracts from pp. 39–41 and 84–91 reprinted in Loux 1979, 125–128 and 182–189.)
-* –––, 1983, *Philosophical Papers, vol. 1*, Oxford: Oxford University Press.
-* –––, 1986, *On the Plurality of Worlds*, Oxford: Basil Blackwell. (Sections 1–3 of Chapter 4 reprinted in Kim and Sosa 1999.)
-* Linsky, B., and Zalta, E., 1994, “In Defense of the Simplest Quantified Modal Logic”, *Philosophical Perspectives*, 8: 431–458.
-* –––, 1996, “In Defense of the Contingently Nonconcrete”, *Philosophical Studies*, 84: 283–294.
-* Loux, M., (ed.), 1979, *The Possible and the Actual*, Ithaca, NY: Cornell University Press.
-* –––, 1998, *Metaphysics: a contemporary introduction*, London: Routledge.
-* Loux, M., and Zimmerman, D., (eds.), 2003, *The Oxford Handbook of Metaphysics*, Oxford: Oxford University Press.
-* Lowe, E. J., 2002, *A Survey of* *Metaphysics*, Oxford: Oxford University Press.
-* McDaniel, K., 2004, “Modal Realism with Overlap”, *Australasian Journal of Philosophy*, 82: 137–152; reprinted in *Lewisian Themes: The Philosophy of David K. Lewis*, F. Jackson and G. Priest (eds.), Oxford: Oxford University Press, 140–155.
-* McGinn, C., 1976, “On the Necessity of Origin”, *The Journal of Philosophy*, 73: 127–135.
+* –––, 1975, “How to Russell a Frege-Church”, _The Journal of Philosophy_, 72: 716–729; reprinted in Loux 1979.
+* Kim, J., and Sosa, E., (eds.), 1995, _A Companion to Metaphysics_, Oxford: Blackwell.
+* –––, (eds.), 1999, _Metaphysics: An Anthology_, Oxford: Blackwell.
+* Koslicki, K., 2020, “Essence and Identity”, in _Metaphysics, Meaning, and Modality: Themes from Kit Fine_, M. Dumitru (ed.), Oxford: Oxford University Press, 113–140.
+* Kripke, S., 1972, “Naming and Necessity”, in _Semantics of Natural Language_, D. Davidson and G. Harman (eds.), Dordrecht: Reidel, 252–355; reprinted in revised form as a monograph by Basil Blackwell, Oxford, 1980.
+* –––, 1980, _Naming and Necessity_, Oxford: Basil Blackwell; this is the expanded monograph version of Kripke 1972.
+* Leibniz, G. W., 1973, _Leibniz, Philosophical_ _Writings_, G. Parkinson (ed.), trans. M. Morris and G. Parkinson, London: Dent.
+* Lewis, D., 1968, “Counterpart Theory and Quantified Modal Logic”, _The Journal of Philosophy_, 65: 113–126; reprinted in Loux 1979 and (with additional “Postscripts”) in Lewis 1983.
+* –––, 1971, “Counterparts of Persons and Their Bodies”, _The Journal of Philosophy_, 68: 203–211; reprinted in Lewis 1983.
+* –––, 1973, _Counterfactuals_, Oxford: Blackwell. (Extracts from pp. 39–41 and 84–91 reprinted in Loux 1979, 125–128 and 182–189.)
+* –––, 1983, _Philosophical Papers, vol. 1_, Oxford: Oxford University Press.
+* –––, 1986, _On the Plurality of Worlds_, Oxford: Basil Blackwell. (Sections 1–3 of Chapter 4 reprinted in Kim and Sosa 1999.)
+* Linsky, B., and Zalta, E., 1994, “In Defense of the Simplest Quantified Modal Logic”, _Philosophical Perspectives_, 8: 431–458.
+* –––, 1996, “In Defense of the Contingently Nonconcrete”, _Philosophical Studies_, 84: 283–294.
+* Loux, M., (ed.), 1979, _The Possible and the Actual_, Ithaca, NY: Cornell University Press.
+* –––, 1998, _Metaphysics: a contemporary introduction_, London: Routledge.
+* Loux, M., and Zimmerman, D., (eds.), 2003, _The Oxford Handbook of Metaphysics_, Oxford: Oxford University Press.
+* Lowe, E. J., 2002, _A Survey of_ _Metaphysics_, Oxford: Oxford University Press.
+* McDaniel, K., 2004, “Modal Realism with Overlap”, _Australasian Journal of Philosophy_, 82: 137–152; reprinted in _Lewisian Themes: The Philosophy of David K. Lewis_, F. Jackson and G. Priest (eds.), Oxford: Oxford University Press, 140–155.
+* McGinn, C., 1976, “On the Necessity of Origin”, _The Journal of Philosophy_, 73: 127–135.
 * McKay, T., 1986, “Against Constitutional Sufficiency Principles”, in French, Uehling, and Wettstein 1986, 295–304.
-* Mackie, J. L., 1974, “*De* What *Re* is *De Re* Modality?”, *The Journal of Philosophy*, 71: 551–561.
-* Mackie, P., 1987, “Essence, Origin, and Bare Identity”, *Mind*, 96: 173–201.
-* –––, 1989, “Identity and Extrinsicness: Reply to Garrett”, *Mind*, 98: 105–117.
-* –––, 1998, “Identity, Time, and Necessity”, *Proceedings of the Aristotelian Society*, 98: 59–78.
+* Mackie, J. L., 1974, “_De_ What _Re_ is _De Re_ Modality?”, _The Journal of Philosophy_, 71: 551–561.
+* Mackie, P., 1987, “Essence, Origin, and Bare Identity”, _Mind_, 96: 173–201.
+* –––, 1989, “Identity and Extrinsicness: Reply to Garrett”, _Mind_, 98: 105–117.
+* –––, 1998, “Identity, Time, and Necessity”, _Proceedings of the Aristotelian Society_, 98: 59–78.
 * –––, 2002, “Forbes on Origins and Identities”, in Bottani, Carrara, and Giaretta 2002, 341–352.
-* –––, 2006, *How Things Might Have Been: Individuals, Kinds, and Essential Properties*, Oxford: Oxford University Press.
-* Marcus, R. B., 1946, “A Functional Calculus of First Order Based on Strict Implication”, *Journal of Symbolic Logic*, 11: 1–16.
-* Melia, J., 2003, *Modality*, Chesham: Acumen Publishing Company.
-* Mills, E., 1991, “Forbes’s Branching Conception of Possible Worlds”, *Analysis*, 51: 48–50.
-* Noonan, H., 1983, “The Necessity of Origin”, *Mind*, 92: 1–20.
-* –––, 1985, “Wiggins, Artefact Identity and ‘Best Candidate’ Theories”, *Analysis*, 45: 4–8.
-* –––, 1989, *Personal Identity,* London: Routledge.
-* –––, 2003, *Personal Identity*, Second edition, London: Routledge.
-* Plantinga, A., 1973, “Transworld Identity or Worldbound Individuals?”, in *Logic and Ontology*, M. Munitz (ed.), New York, NY: New York University Press; reprinted in Loux 1979.
-* –––, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
-* Priest, G., 2010, “Non-transitive Identity”, in *Cuts and Clouds: Vagueness, its Nature, and its Logic*, R. Dietz and S. Moruzzi (eds.), Oxford: Oxford University Press, 400–416.
-* Prior, A. N., 1960, “Identifiable Individuals”, *The Review* *of Metaphysics*, 13: 684–696; reprinted in Prior, *Papers on Time and Tense*, Oxford: Oxford University Press, 1968.
-* Quine, W. V., 1976, “Worlds Away”, *The Journal of Philosophy*, 73: 859–863; reprinted in Quine, *Theories and Things*, Cambridge, Mass.: Harvard University Press, 1981.
-* Robertson, T., 1998, “Possibilities and the Arguments for Origin Essentialism”, *Mind*, 107: 729–749.
-* Roca-Royes, S., 2016, “Rethinking Origin Essentialism (for Artefacts)”, in *Reality Making*, M. Jago (ed.), Oxford: Oxford University Press, 152–176.
-* Salmon, N., 1979, “How *Not* to Derive Essentialism from the Theory of Reference”, *The Journal of Philosophy*, 76: 703–725.
-* –––, 1982, *Reference and Essence*, Princeton NJ: Princeton University Press.
+* –––, 2006, _How Things Might Have Been: Individuals, Kinds, and Essential Properties_, Oxford: Oxford University Press.
+* Marcus, R. B., 1946, “A Functional Calculus of First Order Based on Strict Implication”, _Journal of Symbolic Logic_, 11: 1–16.
+* Melia, J., 2003, _Modality_, Chesham: Acumen Publishing Company.
+* Mills, E., 1991, “Forbes’s Branching Conception of Possible Worlds”, _Analysis_, 51: 48–50.
+* Noonan, H., 1983, “The Necessity of Origin”, _Mind_, 92: 1–20.
+* –––, 1985, “Wiggins, Artefact Identity and ‘Best Candidate’ Theories”, _Analysis_, 45: 4–8.
+* –––, 1989, _Personal Identity,_ London: Routledge.
+* –––, 2003, _Personal Identity_, Second edition, London: Routledge.
+* Plantinga, A., 1973, “Transworld Identity or Worldbound Individuals?”, in _Logic and Ontology_, M. Munitz (ed.), New York, NY: New York University Press; reprinted in Loux 1979.
+* –––, 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
+* Priest, G., 2010, “Non-transitive Identity”, in _Cuts and Clouds: Vagueness, its Nature, and its Logic_, R. Dietz and S. Moruzzi (eds.), Oxford: Oxford University Press, 400–416.
+* Prior, A. N., 1960, “Identifiable Individuals”, _The Review_ _of Metaphysics_, 13: 684–696; reprinted in Prior, _Papers on Time and Tense_, Oxford: Oxford University Press, 1968.
+* Quine, W. V., 1976, “Worlds Away”, _The Journal of Philosophy_, 73: 859–863; reprinted in Quine, _Theories and Things_, Cambridge, Mass.: Harvard University Press, 1981.
+* Robertson, T., 1998, “Possibilities and the Arguments for Origin Essentialism”, _Mind_, 107: 729–749.
+* Roca-Royes, S., 2016, “Rethinking Origin Essentialism (for Artefacts)”, in _Reality Making_, M. Jago (ed.), Oxford: Oxford University Press, 152–176.
+* Salmon, N., 1979, “How _Not_ to Derive Essentialism from the Theory of Reference”, _The Journal of Philosophy_, 76: 703–725.
+* –––, 1982, _Reference and Essence_, Princeton NJ: Princeton University Press.
 * –––, 1986, “Modal Paradox: Parts and Counterparts, Points and Counterpoints”, in French, Uehling, and Wettstein 1986, 75–120.
-* ___, 1996, “Trans-World Identification and Stipulation”, *Philosophical Studies*, 84: 203–223.
-* Sider, T., 2001, *Four-Dimensionalism: an Ontology of Persistence and Time*, Oxford: Oxford University Press.
-* Stalnaker, R., 1976, “Possible Worlds”, *Noûs*, 10: 65–75; reprinted in Loux 1979.
+* \_\_\_, 1996, “Trans-World Identification and Stipulation”, _Philosophical Studies_, 84: 203–223.
+* Sider, T., 2001, _Four-Dimensionalism: an Ontology of Persistence and Time_, Oxford: Oxford University Press.
+* Stalnaker, R., 1976, “Possible Worlds”, _Noûs_, 10: 65–75; reprinted in Loux 1979.
 * –––, 1986, “Counterparts and Identity”, in French, Uehling, and Wettstein 1986, 121–140.
 * –––, 1995, “Modalities and Possible Worlds”, in Kim and Sosa 1995, 333–337.
-* Strawson, P. F., 1976, “Entity and Identity”, in *Contemporary* *British Philosophy, Fourth Series*, H. D. Lewis (ed.), London: George Allen and Unwin, 193–220; reprinted in Strawson, *Entity and Identity*, Oxford: Oxford University Press, 1997.
-* van Inwagen, P., 1985, “Plantinga on Trans-world Identity”, in *Alvin Plantinga*, J. Tomberlin and P. van Inwagen (eds.), Dordrecht: Reidel, 101–120; reprinted in van Inwagen, *Ontology, Identity, and Modality: Essays in Metaphysics,* Cambridge: Cambridge University Press, 2001.
-* Wiggins, D., 1967, *Identity and Spatio-temporal Continuity*, Oxford: Basil Blackwell.
-* –––, 1980, *Sameness and Substance*, Oxford: Basil Blackwell.
-* –––, 2001, *Sameness and Substance Renewed*, Cambridge: Cambridge University Press.
-* Williamson, T., 1990, *Identity and Discrimination*, Oxford: Basil Blackwell.
-* –––, 1998, “Bare Possibilia”, *Erkenntnis*, 48: 257–273.
-* –––, 2000, “Existence and Contingency”, *Proceedings of the Aristotelian Society*, 100: 117–139.
-* –––, 2002, “Necessary Existents”, in *Logic, Thought and Language*, A. O’Hear (ed.), Cambridge: Cambridge University Press, 233–251.
-* Yablo, S., 1988, Review of Forbes, *The Metaphysics of Modality*, *The Journal of Philosophy*, 85: 329–337.
-* Yagisawa, T., 2010, *Worlds and Individuals, Possible and Otherwise*, New York: Oxford University Press.
+* Strawson, P. F., 1976, “Entity and Identity”, in _Contemporary_ _British Philosophy, Fourth Series_, H. D. Lewis (ed.), London: George Allen and Unwin, 193–220; reprinted in Strawson, _Entity and Identity_, Oxford: Oxford University Press, 1997.
+* van Inwagen, P., 1985, “Plantinga on Trans-world Identity”, in _Alvin Plantinga_, J. Tomberlin and P. van Inwagen (eds.), Dordrecht: Reidel, 101–120; reprinted in van Inwagen, _Ontology, Identity, and Modality: Essays in Metaphysics,_ Cambridge: Cambridge University Press, 2001.
+* Wiggins, D., 1967, _Identity and Spatio-temporal Continuity_, Oxford: Basil Blackwell.
+* –––, 1980, _Sameness and Substance_, Oxford: Basil Blackwell.
+* –––, 2001, _Sameness and Substance Renewed_, Cambridge: Cambridge University Press.
+* Williamson, T., 1990, _Identity and Discrimination_, Oxford: Basil Blackwell.
+* –––, 1998, “Bare Possibilia”, _Erkenntnis_, 48: 257–273.
+* –––, 2000, “Existence and Contingency”, _Proceedings of the Aristotelian Society_, 100: 117–139.
+* –––, 2002, “Necessary Existents”, in _Logic, Thought and Language_, A. O’Hear (ed.), Cambridge: Cambridge University Press, 233–251.
+* Yablo, S., 1988, Review of Forbes, _The Metaphysics of Modality_, _The Journal of Philosophy_, 85: 329–337.
+* Yagisawa, T., 2010, _Worlds and Individuals, Possible and Otherwise_, New York: Oxford University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=identity-transworld). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/identity-transworld/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=identity-transworld&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/identity-transworld/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=identity-transworld).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/identity-transworld/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=identity-transworld\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/identity-transworld/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [haecceitism](https://plato.stanford.edu/entries/haecceitism/) | [haecceity: medieval theories of](https://plato.stanford.edu/entries/medieval-haecceity/) | [identity](https://plato.stanford.edu/entries/identity/) | [identity: over time](https://plato.stanford.edu/entries/identity-time/) | [identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [possibilism-actualism debate](https://plato.stanford.edu/entries/possibilism-actualism/) | [possible objects](https://plato.stanford.edu/entries/possible-objects/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [temporal parts](https://plato.stanford.edu/entries/temporal-parts/)
+[essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [haecceitism](https://plato.stanford.edu/entries/haecceitism/) | [haecceity: medieval theories of](https://plato.stanford.edu/entries/medieval-haecceity/) | [identity](https://plato.stanford.edu/entries/identity/) | [identity: over time](https://plato.stanford.edu/entries/identity-time/) | [identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [possibilism-actualism debate](https://plato.stanford.edu/entries/possibilism-actualism/) | [possible objects](https://plato.stanford.edu/entries/possible-objects/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [temporal parts](https://plato.stanford.edu/entries/temporal-parts/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Penelope Mackie](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/penelope.mackie)  
-Mark Jago <[*mark.jago@nottingham.ac.uk*](mailto:mark%2ejago%40nottingham%2eac%2euk)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Penelope Mackie](https://www.nottingham.ac.uk/humanities/departments/philosophy/people/penelope.mackie)\
+Mark Jago <[_mark.jago@nottingham.ac.uk_](mailto:mark%2ejago%40nottingham%2eac%2euk)>
