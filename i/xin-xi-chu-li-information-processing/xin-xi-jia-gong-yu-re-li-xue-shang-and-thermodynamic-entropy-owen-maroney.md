@@ -1,2 +1,557 @@
 # 信息加工与热力学熵 and thermodynamic entropy (Owen Maroney)
 
+
+*首次发表于2009年9月15日星期二*
+
+信息加工的原则是否必要来证明统计力学的一致性？计算操作的物理实现是否由于其逻辑属性而具有基本的热力学成本？这两个问题是与 Szilard 引擎（Maxwell 的恶魔思想实验的一种变体）、Landauer 原理（被认为是计算的热力学基本原理）以及两者之间可能的联系相关的大量文献的核心。对这些问题的各种尝试揭示了统计力学基础中的许多未解之谜。
+
+* [1. 麦克斯韦、Szilard 和 Landauer](https://plato.stanford.edu/entries/information-entropy/#MaxSziLan)
+
+  * [ 1.1 麦克斯韦的恶魔](https://plato.stanford.edu/entries/information-entropy/#MaxDem)
+  * [ 1.2 Szilard 的引擎](https://plato.stanford.edu/entries/information-entropy/#SziEng)
+  * [1.3 Landauer 的原理](https://plato.stanford.edu/entries/information-entropy/#LanPri)
+* [2. 统计力学和第二定律](https://plato.stanford.edu/entries/information-entropy/#StaMecSecLaw)
+
+  * [ 2.1 哪种熵？](https://plato.stanford.edu/entries/information-entropy/#WhiEnt)
+  * [2.2 哪个第二定律？](https://plato.stanford.edu/entries/information-entropy/#WhiSecLaw)
+* [3. 需要信息加工的统计力学](https://plato.stanford.edu/entries/information-entropy/#StaMecReqInfPro)
+
+  * [3.1 用光进行测量](https://plato.stanford.edu/entries/information-entropy/#MeaLig)
+  * [3.2 无恶魔的引擎](https://plato.stanford.edu/entries/information-entropy/#EngWitDem)
+  * [3.3 信息加工和擦除](https://plato.stanford.edu/entries/information-entropy/#MemEra)
+  * [3.4 算法复杂度](https://plato.stanford.edu/entries/information-entropy/#AlgCom)
+  * [3.5 声音 vs. 深刻困境](https://plato.stanford.edu/entries/information-entropy/#SouVsProDil)
+  * [ 3.6 恶魔存在](https://plato.stanford.edu/entries/information-entropy/#DemExi)
+* [4. 信息加工使用统计力学](https://plato.stanford.edu/entries/information-entropy/#InfProUsiStaMec)
+
+  * [ 4.1 Liouvillean 证明](https://plato.stanford.edu/entries/information-entropy/#LioPro)
+  * [ 4.2 Gibbsian 证明](https://plato.stanford.edu/entries/information-entropy/#GibPro)
+  * [4.3 现象学证明](https://plato.stanford.edu/entries/information-entropy/#PhePro)
+  * [4.4 反证和例子](https://plato.stanford.edu/entries/information-entropy/#CouArgExa)
+* [5. 量子理论的作用](https://plato.stanford.edu/entries/information-entropy/#RolQuaThe)
+* [ 6. 讨论](https://plato.stanford.edu/entries/information-entropy/#Dis)
+* [ 参考文献](https://plato.stanford.edu/entries/information-entropy/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/information-entropy/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/information-entropy/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/information-entropy/#Rel)
+
+---
+
+## 1. 麦克斯韦、西拉德和兰道尔
+
+### 1.1 麦克斯韦的恶魔
+
+麦克斯韦的恶魔首次在 1867 年写给泰特的一封信中提到。麦克斯韦是热力学领域中一些研究者中的一员，他对以基础的原子物理学来解释热现象很感兴趣。然而，与试图从原子物理学证明熵增定律的玻尔兹曼和克劳修斯不同，麦克斯韦意识到，如果热力学最终基于原子理论，那么热力学第二定律只能具有统计学的有效性。
+
+> ![Maxwell's demon the partitioned container](https://plato.stanford.edu/entries/information-entropy/container.gif)
+
+标准恶魔被认为能够在不消耗能量的情况下在气体中产生温度差异。气体被一个绝缘隔板分成两部分，但隔板上有一个足够大的孔让单个分子通过。气体已经在某个明确定义的温度下达到平衡，因此每个分子的平均动能为(3/2)k**T（我们忽略内部自由度并假设气体是单原子的），其中 T 是绝对温度（开尔文）标度，k 是玻尔兹曼常数。
+
+这个恶魔配备了一个能够堵住孔洞的快门。如果一个比平均速度更快的分子从左边接近孔洞，恶魔会用快门关闭孔洞，分子会弹性地反射回左边。如果一个分子从左边接近，但速度比平均速度慢，恶魔会保持孔洞不堵住，分子会通过孔洞向右边前进。当一个分子从右边接近孔洞时，恶魔的排序过程被颠倒：慢分子被堵住，快分子被允许通过。结果是左边逐渐积累了更快的分子，右边积累了更慢的分子。分子之间的进一步碰撞将把这种动能分布到每一边，导致左边的气体变得更热，右边变得更冷。由于与快门的碰撞是弹性的，而且移动快门是无摩擦的，恶魔不会执行任何工作。发展出的温度差异可以被传统热机利用来提取功，违反了热力学第二定律。
+
+> ![Maxwell's demon the standard demon at work](https://plato.stanford.edu/entries/information-entropy/demon_working.gif)
+
+一个更简单的恶魔可以通过始终堵住从左边接近的分子，从而不堵住从右边接近的分子来构建。这个压力恶魔会导致隔板的两侧产生压力差异，同样，传统运行的引擎可以利用这种差异来提取功。
+
+他的思想实验旨在证明气体从高熵状态演化到低熵状态的可能性。洛施密特和庞加莱的时间逆转和复发论据同样挑战了玻尔兹曼的 H 定理（有关这些论证的讨论，请参见 Uffink（2006）第 4 节），但时间逆转需要很高的敏感性，复发需要很长时间。虽然它们表明熵增定律并非绝对，但我们可能仍然会惊讶地目睹通过这些手段发生的熵大幅度减少。通过恶魔，我们似乎需要另一个解释，解释为什么这样的系统在自然界中不会自发发生，或者为什么我们不能安排这样的熵减少发生。
+
+麦克斯韦最初的讨论强调，恶魔需要具有比我们自己更强大的感知和处理单个分子的能力。这使得它的操作仅仅是一个尺度问题，第二定律的统计性质并非概率性的，而是由于我们无法区分大量粒子的确切状态（类似于我们无法利用洛施密特的可逆性反驳）。这为一种能够区分原子速度波动的装置的可能性留下了空间，而且并不清楚任何概率论的论证是否会阻止从中提取能量。爱因斯坦在 1905 年对布朗运动的解释将其视为统计力学波动的效应，使其直接可观察并可供利用。Earman 和 Norton（1998）对早期设计此类装置的尝试进行了历史回顾。
+
+Smoluchowski (1914)通常被认为是提出了阻止它们运作的解释。他用一个物理装置取代了恶魔，这个装置是一个轻柔的弹簧，它将活门按在隔板的一侧。弹簧和活门的组合被认为是一个阀门。如果分子从左边碰撞，活门会保持关闭，但如果从右边发生快速碰撞，活门会打开，从而产生压力差。然而，弹簧是一个具有自身动能和势能的系统。碰撞会将能量传递给弹簧，使其振荡。当弹簧的内能与气体的温度相匹配时，它会来回摆动，有效地随机。当分子从左边到达时，它变得有可能自发地打开，当分子从右边到达时，它变得有可能摆动关闭。这种平衡意味着压力或温度差异发生的可能性不比如果孔洞被简单地保持开放时自发发生的可能性更大。如果弹簧的内能与气体不平衡，它将通过与分子的碰撞而被加热（或冷却），直到达到平衡。
+
+活门在短时间内可能看起来违反了第二定律，但行为方式使得它在长期内不会被违反。Smoluchowski 建议修改第二定律，以表达设备无法持续可靠地减少熵的能力。
+
+### 1.2 Szilard 的引擎
+
+Smoluchowski 还保留了一个例外的可能性，即对修改后的第二定律的例外。
+
+> 就我们目前所知，尽管分子波动存在，但没有自动、永久有效的永动机，但如果由智能生物适当操作，这样的装置也许可以正常运行。
+
+Szilard（1929 年）试图通过考虑只含有单个分子的盒子来研究这种特殊情况下的智能操作装置。他认为，为了实现熵的减少，智能生物必须获得发生波动的知识，因此必须进行测量。只要进行这种测量的成本有所补偿，无论智能生物的性质如何，第二定律都不会受到威胁。
+
+> ![The Szilard engine](https://plato.stanford.edu/entries/information-entropy/szilard_engine.gif)
+
+Szilard 引擎由一个盒子组成，其中包含一个单个分子，与热源保持热接触，并有一个隔板。热接触通过随机波动将能量在分子和热源之间来回传递。分子在盒子中以这种热能随机弹跳。
+
+隔板可以插入盒子中，将其分成两个独立的体积，并且还可以无摩擦地沿盒子向左或向右滑动。当隔板插入盒子时，与分子的碰撞对隔板施加压力。如果隔板朝压力方向移动，它可以与滑轮相连，并用力量举起一个重物。如果隔板逆着压力方向移动，这就需要耦合滑轮降低一个重物，以抵抗分子施加的压力。
+
+如果隔板插入中点，分子有相等的概率被困在一侧或另一侧。现在，如果知道分子在哪一侧，就可以将隔板连接到滑轮上并提取功。根据理想气体定律 P**V=NkT，对于 N=1 的情况，可以进行标准计算，显示隔板移动到盒子一侧时提取的最大功为 k**T ln 2。由于分子被假定始终与热源保持热接触，分子的动能保持为(3/2)k**T，并且提取的功来自热源。一旦隔板到达盒子的一侧，它可以被移除，循环已经完成。热量已经从热源中提取出来并转化为功，表面上是确定的。这个过程可以无限重复，以继续确定地提取功。如果成功，似乎违反了 Smoluchowski 的修正第二定律。
+
+Szilard 的分析强调了知道分子在哪一边是必要的，才能提取能量。如果没有这个信息，就无法知道隔板需要移动的方向。这将违反第二定律与恶魔的知识状态联系起来。Szilard 认为，如果恶魔获得知识的同时伴随着熵的代价，第二定律就能得到保证。随后的大部分文献都关注于这种知识是否伴随着 Szilard 所认为的代价，或者这种知识是否实际上对引擎的运行是必要的。
+
+### 1.3 Landauer 原理
+
+Landauer（1961）研究了构建实现计算的设备的物理限制是什么。当他写作时，已经有一系列有影响力的研究成果，由 Brillouin（1951, 1956）、Gabor（1964）和 Rothstein（1951）提出，认为通过测量获得信息需要至少消耗 k**T ln 2 的能量来收集每一位信息。von Neumann（1949）也根据 Szilard 的工作提出，每一次信息加工都必然伴随着这个能量耗散水平。
+
+通过将逻辑操作表示为从一个离散逻辑状态集合到另一个集合的抽象映射，兰道尔认为，设计用于实现逻辑操作的物理系统必须具有与逻辑状态相对应的物理状态。然后，他区分了逻辑可逆和逻辑不可逆操作：如果可以从输出状态唯一确定输入状态，则操作在逻辑上是可逆的。
+
+例如，NOT 操作是一个逻辑可逆操作。如果输出是逻辑状态一，则输入必须是逻辑状态零，反之亦然。逻辑不可逆操作的一个例子是 AND 操作。如果输出是逻辑状态零，则有三种可能的输入逻辑状态组合可以产生该输出：（零，零）；（零，一）；和（一，零）。
+
+由于逻辑可逆操作需要是 1:1 映射，兰道尔认为它们可以由不压缩物理状态空间的物理设备实现。逻辑不可逆操作会减少逻辑状态空间，因此必须压缩物理状态空间。兰道尔认为，这必须伴随着环境中相应的熵增加，以形式的热耗散。大多数熟悉的逻辑操作都是不可逆的，因此根据这个论点必然会产生热量。
+
+> ![Szilard engine for irreversible logical operation](https://plato.stanford.edu/entries/information-entropy/sz_en_irr_log_op.gif)
+
+为了量化热量的产生，兰道尔认为最基本的逻辑不可逆操作是将一个比特重置。这个操作接受两个输入逻辑状态（通常是零和一），并始终输出逻辑状态零（某些论文中可能考虑将其重置为一）。
+
+对于这个操作的物理实现，通常考虑类似于希拉德引擎的装置。一个与热源热接触的盒子中包含一个单独的分子和一个将盒子分成两部分的隔板。如果分子在左侧，则物理状态表示逻辑状态零，如果分子在右侧，则表示逻辑状态一。
+
+然后将隔板从盒子中心移除，使分子可以在整个盒子中自由移动。隔板被插入到盒子的最右侧，并保持热接触，然后缓慢地移动到盒子的中心。再次，与分子的碰撞对隔板施加压力，需要执行工作，并且工作的能量通过分子传递给热源中的热量。标准计算表明，这至少需要 k**T ln 2 的工作量。现在被称为“兰道尔原理”的一个表达式是，没有可能的物理实现可以比这更好地重置一个比特为零，即将少于 k**T ln 2 的工作量转化为热量。
+
+Landauer 将这个操作称为重置，尽管在随后的文献中，这被称为抹除。这导致了一些混淆，因为“抹除”信息可能仅仅意味着一个破坏原始信息的操作，而不一定将系统确定地置于零状态。这种“破坏性抹除”的一个例子是简单地从盒子中移除分隔板，等待足够长的时间使分子的位置随机化，然后将分隔板重新插入盒子的中心。这样的操作显然会破坏原始信息，即分子的原始位置，但不需要执行任何工作。然而，这显然不是重置操作的实现。
+
+Landauer 的论证表明，仅从逻辑操作的抽象属性，就可以推断出对任何物理系统的热力学约束，该物理系统需要作为该逻辑操作的具体体现。它表明计算中存在着非平凡的热力学，存在着抽象逻辑函数与热力学系统中的物理实现之间的非平凡联系。
+
+Landauer 在他 1961 年的论文中并没有直接讨论测量是逻辑可逆还是不可逆的问题，而只是质疑在 Brillouin 和其他人的工作中是否已经足够清晰地定义了测量的概念。在那个时候，他认为逻辑不可逆是计算的一个必要部分，并认为这是信息加工中必要的最小热量产生的原因。他的论证被认为更加精确地阐述了 Brillouin 和 von Neumann 的论点。
+
+Bennett (1973)在 Landauer 的基础上进行了扩展，但他认为在计算中可以避免逻辑不可逆性。在(Bennett 1982)中，他认为测量也可以通过逻辑可逆过程来表示，避免了产生热量的需要。这对于冯·诺依曼和布里留安的论点来说是一个重大的改变，Bennett 对 Landauer 原理的阐述迅速被接受为计算热力学的基本原理。
+
+## 2. 统计力学和第二定律
+
+在统计力学的背景下，研究热力学第二定律的文献始于 19 世纪末的统计力学的发展。由于这个学科的发展，关键术语的含义已经发生了变化或变得模糊，因此产生了相当大的混淆。当一篇论文提到第二定律被违反或熵减少，另一篇论文提到它被保存或非减少时，并不一定意味着它们指的是同样的事情。虽然对热物理学基础的回顾超出了本条目的范围（但请参阅 Sklar 和 Uffink 的相关条目），但仍需记住一些重要的区别。
+
+### 2.1 哪种熵？
+
+即使在现象学热力学中，热力学熵的定义也很难精确，并且可以通过多种方式来接近（有关此问题的详细处理，请参见（Uffink 2001））。传统方法基于卡诺、开尔文和克劳修斯的工作，其中一种版本将在此给出。
+
+一个封闭的热力学系统只通过工作和热交换与世界其他部分接触。对系统施加的工作通过重力势能降低重量，而提取的工作则用于通过势能提高重量。可以通过操纵系统的外部可控参数（例如调整包含气体的密封箱的体积）或通过其他方式（例如在气体中驱动桨轮，搅拌气体）来执行此工作。热与与系统进行热接触的热浴交换。可以使用多个热浴，并且它们可以具有不同的温度。封闭循环是一系列操作，使系统在序列结束时与序列开始时处于相同的热力学状态，但可能会改变重力势能中的位置，并且可能涉及将热量沉积在个别热浴中或从中提取热量。
+
+根据经验观察，在任何闭合循环中，其唯一结果是在温度为 T**i 的热浴中产生热量 Q**i（需要执行的工作 W=∑i Q**i），克劳修斯不等式：
+
+> ∑*i*
+>
+> |  |
+> | -- |
+> | *Q**i* |
+> | *T**i* |
+>
+> ≥ 0
+
+保持。热力学第二定律的开尔文版本：
+
+> 不可能进行一个循环过程，除了从热源中提取热量和提升重物之外没有其他结果
+
+和克劳修斯版本：
+
+> 不可能进行一个循环过程，除了从低温热源中提取热量并将其沉积到高温热源中之外，没有其他结果
+
+是这个不等式的特殊情况。开尔文和克劳修斯在卡诺的工作基础上建议，这个不等式必须对所有闭合循环成立，作为一个普遍定律。温度尺度是绝对温度尺度（通过正的乘法常数重新调整：T′=a**T，其中 a>0），可以用理想气体温度计测量。
+
+现在假设存在一个过程，将系统从热力学状态 A 转变为热力学状态 B，同时在温度为 T**i 的热源中产生热量 q**i，并且一个相反的过程，从 B 到 A，以相同的热源中产生热量*q′* i，以使得等式成立：
+
+> ∑*i*
+>
+> |  |
+> | -- |
+> | *q**i* |
+> | *T**i* |
+>
+> +∑*i*
+>
+> |  |
+> | -- |
+> | *q′i* |
+> | *T**i* |
+>
+> = 0
+
+达到。根据不等式，如果存在任何将系统从状态 A 转变为状态 B 的过程，同时在温度为 T**i 的热浴中产生热量 Q**i，则有：
+
+> ∑*i*
+>
+> |  |
+> | -- |
+> | *Q**i* |
+> | *T**i* |
+>
+> +∑*i*
+>
+> |  |
+> | -- |
+> | *q′i* |
+> | *T**i* |
+>
+> ≥ 0
+
+ 和所以：
+
+> ∑*i*
+>
+> |  |
+> | -- |
+> | *Q**i* |
+> | *T**i* |
+>
+> ≥ ∑*i*
+>
+> |  |
+> | -- |
+> | *q**i* |
+> | *T**i* |
+>
+> .
+
+ 该术语
+
+> ∑*i*
+>
+> |  |
+> | -- |
+> | *q**i* |
+> | *T**i* |
+
+定义了与通过任何可能将系统从状态 A 转变为状态 B 的过程产生的热量相关的最小量。克劳修斯认识到这可以用来通过测量传递给热浴的热量来定义热力学状态的函数，当系统在两个状态之间变化时。该函数，热力学熵 SΘ，由
+
+> *S*Θ(*A*) − *S*Θ(*B*) = ∑*i*
+>
+> |  |
+> | -- |
+> | *q**i* |
+> | *T**i* |
+
+对于任何其他过程，
+
+> ∑*i*
+>
+> |  |
+> | -- |
+> | *Q**i* |
+> | *T**i* |
+>
+> ≥ ∑*i*
+>
+> |  |
+> | -- |
+> | *q**i* |
+> | *T**i* |
+
+所以对于任何可能的过程：
+
+> ∑*i*
+>
+> |  |
+> | -- |
+> | *Q**i* |
+> | *T**i* |
+>
+> ≥ SΘ(A) - SΘ(B)
+
+从状态 A 到状态 B 的绝热过程（不产生任何热量）只有在熵增的情况下才可能发生：SΘ(A) ≤ SΘ(B)。
+
+热力学熵的定义依赖于能够达到平等的循环过程，这些过程被称为可逆过程。这些可逆过程的存在使得可以确定热力学状态之间的熵差，并通过对所有状态的推广，定义了一个在全局上唯一的热力学熵函数（通过重新调整 S' = a^-1 S + b，其中 a 和 b 是常数，a 是温度尺度的乘法常数）。值得注意的是，如果存在无法通过可逆过程连接的状态，仍然可以定义一个满足条件的熵函数。
+
+> ∑*i*
+>
+> |  |
+> | -- |
+> | *Q**i* |
+> | *T**i* |
+>
+> ≥ *S*Θ(*A*) − *S*Θ(*B*)
+
+对于所有可能的过程，但其值不会被唯一确定（即存在满足不等式的多个函数）。
+
+要达到循环的平等通常需要准静态可逆过程。这些过程是指系统在状态变量（如气体的温度、体积和压力）上经历无穷小的变化，并且变化可以以相等且相反的无穷小热交换与热浴的方式进行。只有当系统与热浴处于热平衡时，这些热交换通常才是可逆的。
+
+为了使状态变量的变化无穷小，状态空间必须是连续的。一系列状态将在状态空间中表示为连续的曲线。通过这些无穷小变化连接 A 到 B 的曲线用积分代替了求和。T**i 可以用系统的温度 T 代替，热量 dQ 现在是系统吸收的热量，得到：
+
+> *S*Θ(*B*) − *S*Θ(*A*) =      *B*
+>  ∫
+>
+> * 一个*
+>
+> |  |
+> | -- |
+> | *d**Q* |
+> | *T* |
+
+克劳修斯不等式确保了从 A 到 B 的所有准静态可逆路径上的这个值是相同的。值得注意的是，准静态可逆路径是一种理想化，只能在无限慢过程的极限情况下达到。
+
+这个热力学熵只有在克劳修斯不等式成立的情况下，才是一个一致定义的单值函数，仅与热力学状态有关。然而，如果存在一个麦克斯韦恶魔，那么克劳修斯不等式可能不成立。为了进一步研究，有必要考虑熵的统计力学推广。
+
+对于统计力学，我们需要考虑一个微观状态空间和该空间中状态的动力学演化。经典情况下，这将是一个相空间，一个 N 体系统具有 3N 个位置自由度和 3N 个动量自由度。相空间中的一个点对应于所有 N 个物体的组合物理状态。动力学几乎总是被假设为哈密顿的。哈密顿流保持测度 d**X3NdP3N 不变。这个测度可以用来定义相空间区域 R 的体积 V**R，如下所示：
+
+> | *V**R* | = | ∫<br />*R* | *d**x*3*N*​***d***​*p*3*N* |
+> | -- | --- | ------ | ---- |
+
+这个非常重要的结果是李乌维尔定理，它表明一组状态所占据的相空间体积在经过哈密顿演化时不会改变。
+
+对于量子力学系统，微观状态空间是一个希尔伯特空间。动态演化通常通过一个幺正算符进行，但如果波函数坍缩发生，则会出现双随机转换。状态空间中区域的体积与包含该区域的最小子空间的维数相关联，并且类似于 Liouville 定理的模拟适用于幺正演化（双随机转换可能会增加，但不能减少该状态空间的体积）。在 Szilard 引擎和 Landauer 原理的经典和量子处理中，大部分情况下几乎没有区别，除非另有说明，我们将使用经典处理方法。我们将在第 5 节中考虑一些建议的差异。
+
+玻尔兹曼熵 S**B = k lnW 被广泛认为是统计力学中热力学熵的最自然类比。它是一个个体微观状态的属性。状态空间被划分为多个不同的区域，S**B 是根据微观状态所属的状态空间区域的体积 W 来定义的。给定区域内的所有微观状态具有相同的玻尔兹曼熵。
+
+有许多方法可以定义状态空间的划分为不同的区域。最常见的方法是将满足某些标准的微观状态集合在一起，这些标准可以是在宏观上或观察上无法区分，或者是在微观状态演化过程中随时间可达到的。对于我们所考虑的系统，这些方法通常定义了相同的区域。我们可以惯例地将这些区域称为宏观状态，同时承认当描述仅由单个分子组成的系统时，这个术语有点不恰当。例如，在Szilard引擎的情况下，当分隔物不存在时，系统的宏观状态由分子在盒子中的所有微观状态组成。当将分隔物插入盒子时，宏观状态是分子位置与分隔物实际位置在同一侧的所有微观状态的集合。我们有时会提到宏观状态的玻尔兹曼熵：这只是该宏观状态内微观状态的玻尔兹曼熵。
+
+Boltzmann熵S**B不能保证是非递减的。虽然通过对Boltzmann的H定理的可逆性和重现性的质疑，已知S**B的减少是可能的，但如果在实践中发生这种减少将被视为令人惊讶的。虽然一个个体的微观状态可以从一个高体积的宏观状态演化到一个低体积的宏观状态，但Liouville定理保证在哈密顿演化下，只有一部分来自较大宏观状态的微观状态会进入较小宏观状态。根据Boltzmann熵的对数形式，按体积比例，p ≤ eΔS**B/k（其中ΔS**B是两个宏观状态之间Boltzmann熵的减少）。如果可以假设微观状态在给定宏观状态的子区域中的概率与子区域的相空间体积成比例，这就得到了爱因斯坦的涨落公式。尽管广泛使用这个假设，但其合理性是统计力学基础中更重要的挑战之一。
+
+根据 Liouville 定理，如果所有微观状态（除了一个零测集）在初始宏观状态下演化为相同的最终宏观状态，那么最终宏观状态的 Boltzmann 熵不能小于初始宏观状态的 Boltzmann 熵。这是一个宏观上确定性的过程。宏观上不确定性的过程是指在相同初始宏观状态下开始的微观状态最终进入不同的最终宏观状态。Penrose（1970 年，第 V、VI 章）详细分析了这类过程中 Boltzmann 熵变化的问题。在试图证明概率与相空间体积成比例的合理性之后，他认为即使对于宏观上不确定性的过程，Boltzmann 熵的平均值也可能会减小。对于一个初始宏观状态的系统，其 Boltzmann 熵为 S**B，并且以概率 p**i 演化为具有 Boltzmann 熵 SBi 的宏观状态 i，有可能出现∑i piSBi < S**B（甚至可能对于所有 i 都有 SBi &lt; S**B）。然而，Penrose 还表明这种减小是有界的：∑i p**i (SBi − k ln p**i) ≥ S**B。他建议，在存在不同宏观状态的概率分布时，应使用一种修改后的统计熵 S**P = ∑i p**i (SBi − k ln p**i)。即使对于宏观上不确定性的过程，这种统计熵也是非减的。
+
+Gibbs 对统计力学的方法基于状态空间上的概率分布 p(X3N, P3N)，而不是个别微观状态的属性。分布的 Gibbs 熵由 S**G = −k ∫ p(X3N, P3N) ln p(X3N, P3N) dX3NdP3N 定义。如果状态空间被划分为若干个不同的宏观状态 R**i，则第 i 个宏观状态的 Gibbs 熵为
+
+> SGi = −k ∫R**i p(X3N, P3N | i) ln p(X3N, P3N | i) dX3NdP3N
+
+使用 p(X3N, P3N | i) = p(X3N, P3N, i) / p**i 和 p**i = ∫R**i p(X3N, P3N) dX3N dP3N。这给出了 S**G = ∑i p**i(SGi −k ln p**i)。（注意：p(X3N, P3N, i) = 0 在 R**i 之外，p(X3N, P3N, i) = p(X3N, P3N) 在 R**i 内。）
+
+这个熵是在哈密顿流下恒定的，这是由于 Liouville 定理的结果。虽然这保证了熵是不减的，但它对于解释熵增加的出现提出了问题。处理这个问题的标准方法称为粗粒化。粗粒化用一个“更平滑”的概率分布 p′(X3N, P3N | i) 替换每个宏观状态的概率分布 p(X3N, P3N | i)，通常是“均匀”分布：
+
+> *p*′(*X*3*N*, *P*3*N* | *i*)   =
+>
+> |        |
+> | -------- |
+> | 1      |
+> | ∫*R**i*d*X*3*N*d*P*3*N* |
+
+在 R**i 内，p′(X3N, P3N | i) = 0 在 R**i 外。现在，宏观状态的粗粒化熵满足
+
+> *S*′*G**i* = −*k* ∫*R**ip*′(*X*3*N*, *P*3*N* | *i*) ln *p*′(*X*3*N*, *P*3*N* | *i*) d*X*3*N*d*P*3*N* ≥ *S*​***G***​*i* .
+
+整体粗粒化概率分布 p′(X3N, P3N) = ∑i p′(X3N, P3N | i) p**i 的熵是
+
+> *S*′*G* = −*k* ∫ *p*′(*X*3*N*, *P*3*N*) ln *p*′(*X*3*N*, *P*3*N*) d*X*3*N*d*P*3*N* = ∑*ip**i*(*S*′*G**i* −*k* ln *p**i*) ≥ *S**G*.
+
+粗粒化概率分布避免了 Liouville 定理，连续的粗粒化增加了粗粒化的 Gibbs 熵。粗粒化的理由通常归因于我们对原始概率分布 p(X3N, P3N | i)的细粒化结构不敏感。这种做法的可接受性是 Gibbs 统计力学方法的主要问题之一。
+
+对于 Szilard 的引擎和 Landauer 的原理，人们普遍认为通过调整一个单一的可加常数（这相当于说宏观态之间的熵差对于每个熵定义都是相同的），可以通过数值评估来设置 SBi = SGi = S′G**i，从而使得在所有宏观态下成立。当对宏观态没有不确定性时，还可以假设 S**B = S**P = S**G = S′G。这使得在文献中可以进行大量关于“熵”的讨论，而不必指定具体是哪种熵。尽管这种做法可能会引起混淆，但它避免了在不同熵达成一致的情况下使用不必要的冗长语言。然而，当一个论点只对特定的熵有效，或者当这些熵存在分歧时，应明确说明涉及的是哪种熵。
+
+### 2.2 哪个第二定律？
+
+原子物理学允许可能出现热力学熵较低的状态演化。因此，驱魔人的存在并不意味着熵不会下降，因为这是完全可能的。Smoluchowski 提出了一个修改后的第二定律，它指出驱魔人无法可靠、持续地产生功。这样的驱魔人虽然没有被驱逐，但可以被认为是“驯服”的。一个驯服的驱魔人可以产生（按照 Earman 和 Norton（1998）的术语）“直接”的第二定律违反，但不能产生“修饰”的违反，即不能以可靠、持续地产生这样的功的方式利用直接的违反。
+
+这样的表述还有很多需要澄清的地方：可靠性没有明确定义，而且恶魔只在无限时间极限下失败的要求似乎允许在我们关心的任何有限时间尺度上任意大的违规，概率可以无限接近于一，只要它们实际上没有达到一。对修改后形式的常见改写，但明显更强的是，恶魔不能在有限时间内进行一个循环，其中产生的工作期望值为正，因为重复这样一个循环可能会以概率无限接近于一产生任意大量的工作。
+
+这些表述不仅不等价，还留下了其他类型的违规可能性。是否存在一个连续、可靠地产生工作但从未完成一个循环的恶魔，或者一个以概率无限接近于一产生任意大量工作并完成一个循环的恶魔，但在平均情况下仍然失败，因为它面临着一种灾难性的大失败的遥远可能性？一个循环是否需要以确定性完成，或者只需要以概率无限接近于一完成，一个完成的循环是否意味着系统必须恢复到完全相同的初始状态，还是只需要恢复到一个等效状态，似乎需要作为这样一个修改后的定律的一部分进行澄清。
+
+以熵为基础的修改第二定律的表述必须首先确定所使用的熵函数。在这里，问题不在于定义一个修改的定律。人们可以很容易地定义已知为真的定律（细粒度的吉布斯熵不会减少）或者已知为假的定律（玻尔兹曼熵不会减少，或者平均不会减少）。挑战在于证明给定的修改定律实际上是我们真正关心的定律。它的违反将表明未被驯服的恶魔确实存在，而它的证明将确保所有恶魔都被驯服。
+
+在这个条目中，有约束的违反是指未修改的第二定律被违反，但是在违反的形式上有一些约束，以便仍然可能存在某种形式的修改第二定律。无约束的违反是指所有构建有意义的第二定律修改尝试也被无效化。虽然这仍然存在歧义，但似乎普遍认为，一个可以在有限时间内以概率为一完成，并且除了将一定量的热转化为功之外没有其他影响的循环，肯定构成了无约束的违反。
+
+## 3. 需要信息加工的统计力学
+
+Szilard 对他的引擎所提出的困境的解答是假设一个恶魔无法持续和可靠地操作该装置。然后他试图推断出它可能出错的地方。他提出了第二定律必须被遵守的假设，并在排除了所有其他熵产生源后，他认为测量过程中会发生最小的熵产生。这个假设的第二定律是一个修改过的定律，要求测量过程中的平均熵产生必须等于由于该测量而导致的平均熵减少。虽然 Szilard 没有明确定义熵，但从上下文中可以清楚地看出，他考虑的是特定宏观状态的熵。Szilard 论证的最重要的方面实际上是，如果统计力学与未受控制的恶魔的操作不兼容，那么恶魔获取信息必须付出熵的代价。
+
+### 3.1 用光进行测量
+
+虽然 Szilard 给出了一个具体的测量过程的例子，以证明熵的代价，但他并没有试图给出一个一般性的论证，即没有任何物理测量过程能够做得更好。相反，论证是如果存在这样的过程，它将导致一个未受控制的恶魔。根据后来的论证，还应指出，实际上不是测量本身，而是在 Szilard 的例子中，抹去测量结果才会产生熵的产生。
+
+Szilard的论点在Shannon确定p ln p的测量在信息理论中具有操作意义后得到了进一步发展，这暗示了熵和信息之间更深层次的联系。为了进一步阐述这个想法，Gabor（1964）和Brillouin（1951）都构建了特定的耗散测量模型，其中涉及将光照射到引擎的一侧，以查看该侧是否含有分子。如果分子在该侧，则光会散射，但如果分子不存在，则光不会散射。然而，如果系统，包括电磁场本身，处于热平衡状态，则在该温度下会有具有黑体谱的背景辐射。要看到散射光，它必须与背景辐射有所区别。这需要一个能量远高于黑体谱平均能量的光子，因此 ℏ ν ≫ k T。必须使用一个能量大于引擎运行所获得的能量的光子，从而阻止将热量净转化为功。
+
+布里渊（Brillouin）特别试图将这个想法发展成关于信息和熵之间关系的一般理论。布里渊现在将熵与系统的吉布斯熵等同起来。他区分了两种信息：'束缚'信息和'自由'信息。束缚信息严格指的是体现在物理系统状态中的信息。根据布里渊的说法，仅存在于某人的思维中的信息是自由的，而不是束缚的。进行测量可以减少系统的热力学熵，但这需要在保存测量结果的设备中创建相等数量的束缚信息。然而，布里渊的论点并不完全清楚，即是否认为创建束缚信息必然与补偿熵产生有关，就像基于散射光子的论证所暗示的那样，或者束缚信息本身是否是必须添加到正常熵中以产生广义第二定律的附加项。
+
+### 3.2 无恶魔引擎
+
+Szilard 的一个反驳论点最初由波普尔（Popper）提出，尽管它首次出现在费耶拉本德（Feyerabend）的著作中（1966 年），并且一直被反复发现。其目标是拒绝统计力学熵是主观量的观点。反驳论点的主要目的是要显示可以提取功而无需涉及智能生物。论证认为，在理解 Szilard 引擎时，信息的概念并不承载任何真正的负担。可以进行测量，并且可以实现引擎的操作，而不需要有一个恶魔来找出测量结果。将测量结果描述为信息是多余的。
+
+> ![PopperSzilard engine diagram](https://plato.stanford.edu/entries/information-entropy/popper-szilard.gif)
+
+Popper-Szilard 引擎将滑轮和重物连接到隔板的两侧，但是以这样的方式将地板放置在引擎下方，以便当隔板位于盒子的中心时，两个重物都靠在地板上，滑轮是拉紧的。隔板上有一个孔，使分子可以进入引擎的两侧。在任意时间，孔被堵塞，而不对分子的位置进行任何测量。分子对隔板的碰撞现在将对一个或另一个重物施加力，使其逆着重力上升。
+
+在讨论这些装置时，经常不清楚的是是否仍然需要进行补偿熵的增加，如果不需要，这会有什么影响。对于一些人，尤其是费耶阿本德，不需要进行补偿，而且这个论点继续明确地声称热力学第二定律被无条件地违反。对于其他人，如波普尔，它表明热力学第二定律只适用于具有许多自由度的大系统。该引擎用于演示热力学的有效领域，类似于麦克斯韦的原始恶魔。从这个观点来看，Smoluchowski 的活门仍然可以被视为一个热力学系统，但 Szilard 引擎不是。技术的进步，如纳米技术和量子计算，可能会使这个论点变得有问题，因为如果没有其他物理约束，构建可靠地操作单个分子状态的设备的能力最终将允许构建大量这样的设备。如果每个设备都能可靠地连续提取微小的热量，那么总体上将再次产生宏观上显著的工作量。
+
+### 3.3 记忆和抹除
+
+兰道尔的工作间接导致了对斯扎拉德论证的批评，尽管兰道尔并没有直接涉及斯扎拉德引擎或麦克斯韦的恶魔。根据他在（兰道尔 1986 年）的评论中，似乎他认为逻辑上不可逆的操作是计算的必要部分，并且会产生热量。虽然已经知道可以用逻辑可逆的操作来模拟逻辑上不可逆的操作，但这样做需要额外存储的信息位数。为了避免这种存储，并完成热力学循环，需要将额外的位数重置为零，伴随着相应的热力学熵成本。
+
+彭罗斯（1970 年，第 V 章和第 VI 章，特别是第 VI.3 节）从第一原理出发发展了类似的论证，他推断出玻尔兹曼熵在宏观不确定性过程中平均可以降低，但只能在宏观不确定性过程中降低。这种降低是有界的，即如果一个宏观不确定性过程从玻尔兹曼熵 S**0 的确定宏观态开始，并产生玻尔兹曼熵 S**i 的不同宏观态，概率为 p**i，则 S0 - ⟨ S**i ⟩ ≤ -k ⟨ ln p**i ⟩。他进一步认为，这意味着一个从具有玻尔兹曼熵 S**i 的不同宏观态开始的过程，每个宏观态发生的概率为 p**i，不能以确定性地结束于具有玻尔兹曼熵 S**f 的宏观态，除非 S**f - ⟨ S**i ⟩ ≥ -k ⟨ ln p**i ⟩，否则，连续进行的两个过程可能导致玻尔兹曼熵减小的宏观确定性过程（S**f < S**0）。
+
+然后，彭罗斯直接将这一理论应用于 Szilard 引擎的问题。插入隔板对应于一个宏观上不确定的过程。在插入之后，分子处于两种可能的宏观状态之一，无论哪种情况都会通过 k ln 2 减少玻尔兹曼熵。然而，这种减少不能直接用于提取 k T ln 2 的热量，并使分子再次处于占据整个盒子的宏观状态。如果存在一种可以直接利用这种减少的过程，它可以与插入隔板结合，成为一个宏观上确定性的过程，通过从热浴中提取热量来减少玻尔兹曼熵。彭罗斯已经从第一原理上论证了，宏观上确定性的过程不能减少玻尔兹曼熵。
+
+然后，他考虑添加一个恶魔，并将相同的论证应用于引擎和恶魔的组合系统。现在，他得出结论，可以通过将分子留在占据整个盒子的宏观状态中来提取能量，但只能通过将恶魔不确定地留在多个宏观状态之一来实现。恶魔宏观状态的附加统计熵补偿了热浴中的熵减少。只有以增加热浴中的熵为代价，才能消除对恶魔状态的统计分布。
+
+彭罗斯得出结论，恶魔需要测量分子的位置，将该位置存储在其记忆中，然后可以提取能量。在操作结束时，恶魔保留了分子的位置记忆，保持了不确定性的结果。他认为恶魔重复这个过程多次，逐渐用之前测量的结果填满其记忆。如果恶魔的记忆是有限的，最终它将耗尽空间，导致两种可能性之一：要么恶魔无法继续操作，要么恶魔必须将其一些记忆重置为零，这将导致热力学熵在其他地方相应增加。
+
+彭罗斯的解决方案在本内特（1982 年）独立地重新发现之后，本内特证明了逻辑可逆计算可以避免存储大量额外信息的必要性（本内特 1973 年）。本内特提出了一个明确的可逆测量的物理模型。在逻辑上，他通过测量系统的状态与被测系统的状态相关联来表示测量。测量系统从一个固定状态开始（可以视为逻辑状态零），通过相关的相互作用，进入被测系统的逻辑状态零或一的副本。对于（测量系统，被测系统），输入逻辑状态为（零，零）的组合不受影响，输出逻辑状态为（零，零），而输入逻辑状态为（零，一）的组合则变为输出逻辑状态（一，一）。由于组合输出状态可以唯一地识别组合输入状态，该操作是逻辑可逆的。
+
+对于物理过程，贝内特使 Szilard 引擎中的分子成为了抗磁性，并且将测量装置设为一个具有固定初始极化的单域铁磁体。通过精心的操作，他认为可以利用抗磁体对磁场的扰动，将铁磁体的极化与抗磁体在引擎的一侧或另一侧的位置进行非耗散性的相关。通过相同类型的操作，他认为要将铁磁体的极化重置为其初始状态，而不使用抗磁体的相关位置，会产生 k T ln 2 的热量生成成本，符合兰道尔原理。从 Szilard 引擎中提取能量使得抗磁性分子可以自由地在整个引擎中移动，因此失去了相关性。热量生成的重置操作是将铁磁体恢复到其初始极化的唯一方法。
+
+以铁磁体代表恶魔的记忆，贝内特给出了 Szilard 和 Brillouin 论证的明确反例，即测量必然是耗散性的。同时，他认为重置恶魔记忆的过程是一个必然的逻辑不可逆步骤，会产生兰道尔所确定的热量生成成本，并且这个成本保存了第二定律的一个修改形式。尽管贝内特给出了重置恶魔记忆的一个特定模型，但没有直接证明没有更好的方法。与彭罗斯的论证不同，兰道尔原理似乎是被假设而不是推导出来的。
+
+支持这项决议的人认为，波普尔等人的无魔引擎也是这种过程的例子。在每个无魔引擎的情况下，在提取工作后，还有另一种机制被留在两种不同的可能状态之一，这取决于分子位于盒子的哪一侧。在波普尔-斯扎拉德引擎的情况下，分区在左侧或右侧，且举起的重量不同。这种状态仍然编码了发生的结果信息。为了真正完成一个循环，可靠地，有必要将分区恢复到盒子的中心，无论它移动到哪一侧，并且举起一个明确的、单一的重量。如果兰道尔原理是正确的，这是一个复位操作，并且必然会产生一个成本，平均抵消了引擎运行中提取的工作。
+
+### 3.4 算法复杂性
+
+兰道尔-彭罗斯-贝内特决议在继续考虑测量发生后可能结果的概率分布方面具有一致性。有很多原因可以认为这会引起问题。例如，玻尔兹曼统计力学的方法认为系统的熵仅取决于微观状态空间的一个有限区域，通常是与给定宏观状态兼容的微观状态或随时间可访问的微观状态。从这个观点来看，对于不可访问或宏观上不同的区域的概率分布在热力学上没有意义。从相反的角度来看，主观贝叶斯可能会认为概率分布只是代表一个代理人的不确定性。如果智能恶魔被认为是代理人，一旦它进行了测量，它几乎不可能对自己的状态感到不确定。
+
+Zurek（1989a; 1989b）提出了对 Landauer-Penrose-Bennett 观点的发展，基于 Bennett 的建议，试图解决一些这些问题，以及一个足够聪明编程的计算机是否能够比 Landauer 的原则更好地完成任务。如果一个恶魔在不擦除其记忆的情况下执行大量循环，正如 Penrose 所建议的那样，那么它的记忆将包含一个随机生成的位串。Zurek 的建议是，表示位串的物理状态的 Boltzmann 熵需要加上位串本身的算法复杂度，而这个总熵是修改后的第二定律的主题。
+
+位串的算法复杂度是计算机可以通过多大程度的压缩给定位串的度量。一个很长但算法上简单的位串可以被压缩成一个更短的位串。这个更短的位串可以通过将每个单独的位重置为零来重置，成本比重置原始较长的位串中的每个单独位要低得多。因此，一个聪明的恶魔可能能够压缩其记忆，从而避免需要确保修改后的第二定律成立所需的完全擦除成本。
+
+然而，长的随机生成的位串在很大概率上是不可压缩的，因此除非恶魔非常幸运，否则这种方法行不通。此外，统计混合位串的平均算法复杂度不小于统计分布的 Shannon 信息。因此，即使最好的压缩算法可用，聪明的恶魔在平均情况下也无法比简单地逐个重置其记忆中的每个位更好。
+
+Zurek 提出的总熵，由 Boltzmann 熵和算法复杂度的总和给出，是个体微观态的属性，而不是关于结果的概率分布。如果发生了一系列特别算法简单的结果，它可以在宏观上不确定的过程中减少。然而，与 Boltzmann 熵不同，即使在宏观上不确定的过程中，它的平均值也不会减少。
+
+### 3.5 声音与深远的困境
+
+Earman 和 Norton（1999）提出了一个困境，对于所有试图通过信息论论证来驱除 Szilard 引擎的尝试都是如此。他们敦促那些想要使用信息论来拯救第二定律的驱魔人，在“声音”和“深远”的两难境地中做出选择。
+
+声音喇叭提出了一个解决方案，其中假设恶魔和系统都是“规范热系统”，因此受到可能修改形式的第二定律的约束。通过施加某种形式的第二定律，考虑恶魔可能需要进行的信息加工，可以得出信息加工的热力学成本。这种方法使 Szilard 得出结论，信息获取具有固有的热力学成本。可以以类似的方式阅读关于在 Szilard 引擎中使用 Landauer 原理的一些论文：相信重置操作必须具有热力学成本的理由是，否则，即使修改后的第二定律也将是错误的。
+
+这种淘汰性论证具有显著的弱点。所有可能导致熵增加的来源都被排除，然后得出任何剩余熵增加的责任。很难看出它如何被认为是解释恶魔不存在的原因，因为首先通过施加第二定律，已经排除了它们可能的存在。最多，它可以证明假设某个特定操作具有附加的热力学成本的一致性。也很难看出对这种论证的结论可以有多大的信心。Szilard、Gabor 和 Brillouin 认为这样的论证导致了信息获取具有固有成本的结论。相比之下，Landauer、Penrose 和 Bennett 得出结论，信息获取没有固有成本，但信息抹除有。有什么理由认为 Landauer 原理比 Szilard 的论证更可靠呢？
+
+通过假设第二定律为真，并推导出信息加工的结果，可以得出一个合理的解决方案。而另一种解决方案则是引入兰道尔原理（或其他信息论原理）作为一个独立的公理，无法在统计力学中推导出来。通过添加这个额外的公理，可以推导出修改后的第二定律，并推断出没有未受控制的恶魔存在。这本身引发了问题。这意味着统计力学在没有补充这个新的信息加工原理的情况下是不完整的。如果兰道尔原理真的是 Szilard 引擎失败的原因，那么深入的解决方案意味着在没有它的情况下，统计力学将允许对第二定律的无限制违反。同样，如果我们没有其他独立的理由相信兰道尔原理，那么我们如何能确信不能构造一个聪明的装置来产生这样的无限制违反呢？
+
+### 3.6 恶魔存在
+
+当然，对于 Szilard 引擎和 Maxwell 的恶魔，还有另一种回应。这是在近年来由 Albert（2000）提出，并由 Hemmo 和 Shenker（2007）发展起来的。主要的论证依赖于这样一个观察：在宏观上不确定的过程中，玻尔兹曼熵可以下降。采用玻尔兹曼观点，Albert 认为系统所处的宏观态的玻尔兹曼熵是热力学熵的唯一有意义的度量。因此，在不确定的过程中，它可以被系统地降低，这只是世界的一个事实。在 Szilard 引擎中，将分隔板插入盒子的中心就是这样一个不确定的过程，无论分子位于哪一侧，都会降低玻尔兹曼熵。正如没有恶魔的引擎所展示的那样，从这种降低中提取功是可能的，而无需智能的干预。
+
+Hemmo 和 Shenker 考虑了这种功的提取是否需要保留分子初始位置的记录，正如 Landauer-Penrose-Bennett 解决方案的支持者所建议的那样。他们认为这是不必要的。相反，他们对辅助系统执行了一种等效于“毁灭性抹除”的操作。这将销毁有关分子位置的任何剩余宏观痕迹，而不会产生任何热力学成本（参见 Maroney（2005），他在 Gibbsian 框架内考虑了类似的过程），但会使辅助系统处于几个低玻尔兹曼熵的宏观态之一。
+
+然而，在这些论点中似乎也明确承认，只有通过宏观上不确定的过程才能实现减少。系统和辅助不能同时被确定地恢复到它们的初始宏观状态，而不产生热量。似乎违反仍然受到限制，恶魔可能是温顺的。至少，阿尔伯特似乎承认了这一点，并且相应的可能性是修改第二定律仍然可能存在。
+
+最后，可以注意到，可以构想出不受限制的麦克斯韦恶魔，通过简单修改微观定律来违反第二定律。张和张（1992）提供了一个例子，用一个速度相关的势能替换麦克斯韦盒子中心的隔板，该势能能够在气体中产生压力差。这个势能是非哈密顿的，所以李乌维尔定理不成立。气体的宏观态的相体积可以被压缩，无论是在宏观确定性过程中，还是在玻尔兹曼熵和吉布斯熵中都可以系统地减少。这样的例子，虽然不一定被提出作为可以在现实世界中构建的恶魔候选者，但在阐明提出驱魔术时所做的附带假设时仍然是有用的。
+
+## 4. 信息加工使用统计力学
+
+In his earliest paper, Landauer derived the cost of performing the reset operation by simply assuming that there is an equivalence between the Shannon information of a distribution of logical states, and thermodynamic entropy of a physical system that can represent those logical states. A reduction in the Shannon information content of the logical states would then reduce the thermodynamic entropy of the physical system. Landauer then further assumed that the second law holds true and that this reduction must produce a thermodynamic entropy increase elsewhere. Viewed in this way, his argument appears to contain elements both of the profound and the sound horns of Earman and Norton's (1998, 1999) dilemma. It follows the profound horn in identifying Shannon information with thermodynamic entropy and the sound horn in assuming the validity of the second law.
+
+It is less clear that Landauer himself thought he was introducing a new principle. It seems more plausible that he was taking for granted the Gibbsian approach to statistical mechanics, which identified *p* ln *p* as the statistical mechanical entropy long before Shannon's work, and the non-decrease of this entropy through coarse-graining. As such, the validity of Landauer's principle would still require the structure of Gibbsian statistical mechanics to be self-consistent and the appropriate representation of thermal systems. At the very least this cannot be taken for granted unless it has already been established that untamed demons do not exist and so the unquestioned use of Landauer's principle in exorcisms of the demon would still appear to be circular.
+
+然而，这并不能说明分析计算的热力学是一项完全无意义的任务。从逻辑操作本身的结构中是否可以推断出物理实现逻辑操作的热力学后果，可能是一个有根据的问题（尽管显然不能完全脱离基本物理学对这些设备构造的说法）。此外，如果能够证明兰道尔原理是不正确的，并且信息可以以任意低的成本重置，那么似乎要么存在无法控制的恶魔，要么在斯扎拉德引擎的运行中必须发现一些进一步的热量产生源。
+
+在一个极端情况下，冯·诺伊曼认为任何逻辑操作都必然产生最小数量的热量。加博尔和布里留安曾经认为，至少测量会产生热量。兰道尔和贝内特认为，只有逻辑上不可逆的操作才需要产生热量，但测量是逻辑上可逆的。这得到了通过物理过程的展示的支持，这些物理过程在原则上可以以任意小的热量产生进行测量。贝内特认为，虽然加博尔和布里留安讨论的使用散射光的测量过程会产生热量，但他们错误地将这一点推广到所有测量过程必然会产生热量的说法。然而，兰道尔原理也可能受到类似的指责。尽管已经构建了明确的重置操作模型，使得最小热量生成量接近 k T ln 2，但需要的是证明没有物理过程可以做得更好。现在已经存在一些文献来检验这一说法的强度，特别是它们的物理和统计假设的基础是什么。
+
+### 4.1 李氏证明
+
+从示意图上看，支持兰道尔原理的最简单论证基于相空间容量和刘维尔定理。
+
+> ![Volume of phase space diagram](https://plato.stanford.edu/entries/information-entropy/volume.gif)
+
+假设系统和环境的微观状态空间被划分为逻辑或信息相关的自由度和环境或非信息相关的自由度。这些可以简化为只有两个维度。在图中，水平轴表示信息相关的自由度。系统处于逻辑状态零或逻辑状态一对应于微观状态位于信息相关自由度的特定区域内。将系统重置为零操作要求是系统和环境状态空间的哈密顿演化，无论初始逻辑状态如何，都将使系统处于逻辑状态零。
+
+当逻辑自由度的状态空间区域减少一半时，根据刘维尔定理，环境自由度的状态空间区域必须增加一倍。然后认为这必然涉及环境中的热量产生。这最后一步需要一些理由。在玻尔兹曼方法中，宏观态的温度通常由以下公式定义
+
+> |    | ∂*S**B* |  | *V* | = | 1 | . |
+> | ---- | ---- | -- | -- | --- | --- | --- |
+> | ∂*E* | *T*   |  |  |   |   |   |
+
+如果这个系统非常大，假设它的温度在吸收少量热量时几乎不发生变化。因此，如果物理体积保持不变，只有通过加热才会发生能量变化，那么热量和熵之间的关系为ΔQ = T ΔS**B。满足这些条件的系统可以被视为良好的热源。热源的相空间体积加倍意味着玻尔兹曼熵增加了 k ln 2，因此需要吸收 k**T ln 2 的热量。
+
+尽管这个简单的论证似乎令人信服，但很容易引起疑问。逻辑状态和环境的表示是如此简化，以至于至少应该引起人们对这种简化可能丢失了什么的担忧。Shenker（2000）和 Hemmo 和 Shenker（2007）提出了一些这样的问题，作为他们对恶魔存在性的论证的一部分。没有理由要求环境吸收热量，甚至处于相空间体积加倍的宏观态。相反，它可以处于两个不同的区域之一，对应于宏观上不同但在其他方面并不重要的自由度（例如鞋子掉在地板上的位置）。所需要的只是环境自由度必须处于一些不同的宏观态之一，其所有可能宏观态的总相空间体积必须是原始宏观态的两倍。然后，通过“抹除销毁”操作可以确保特定的宏观态没有原始信息的痕迹。
+
+然而，正如在 3.6 节中所指出的，Hemmo 和 Shenker 承认存在一些更严格的 Landauer 原理的表述，阻止了这种移动（尽管他们对这些表述的合理性表示质疑）：如果要求重置操作不改变任何非热浴环境自由度的宏观状态，那么 Liouvillean 论证似乎是成立的。
+
+### 4.2 Gibbsian 证明
+
+从统计力学的角度来构建 Landauer 原理的一般严格证明的最早尝试是由 Shizume（1995）和 Piechocinska（2000）进行的。（尽管 Penrose（1970 年，第六章）实际上推导出了重置操作的熵代价，但他的工作似乎与 Landauer 的工作完全独立）。Shizume 的证明依赖于将热接触视为 Langevin 方程中的高斯白噪声场，而 Piechocinska 则假设哈密顿动力学和一个与系统最初不相关且由 Gibbs 正则分布表示的热浴。
+
+这些证明以及随后的证明，都遵循了在统计力学的实际计算环境中普遍接受的标准假设的传统。人们默认一个概率分布至少在某个状态空间区域上是对系统状态的有意义的刻画，并且通常还会对可能的概率分布做出进一步的限制。从研究统计力学的基本一致性的角度来看，这可能显得不令人满意。然而，如果目标更为谨慎，只是研究在何种情况下朗道原理可能成立的普遍性，这样的证明仍然具有价值。重要的是要区分开，例如，为什么热平衡系统应该用可访问状态空间上的正则分布来表示这个相当困难的问题，与从经验上证明热平衡系统确实可以用可访问状态空间上的正则分布来很好地表示这个相对较容易的任务。
+
+Piechocinska 为经典和量子情况提供了证明。Piechocinska 的量子证明可以简要概述如下。首先，简单地定义一个函数Γ(i, f, m, n)= ln p**i − ln p**f − β(E**n − E**m)，其中 p**i 是系统初始状态 i 的占据概率，p**f 是最终状态 f 的占据概率，beta 是热浴的规范分布的离散参数，E**m 和 E**n 是热浴的本征态的能量。这个函数没有特定的物理意义。然而，从整体演化必须是幺正的要求出发，可以证明⟨ e−Γ ⟩=1，因此根据凸性有⟨ Γ ⟩ ≥ 0。然后可以很容易地证明在热浴中产生的平均热量满足⟨ Q ⟩ ≥ −ΔH k T ln 2，其中ΔH = ∑ i p**i log p**i − ∑ f p**f log p**f 是操作过程中系统状态的 Shannon 信息的变化。如果假设有两个等概率的输入状态，则要求操作是一个重置操作并且确定地将系统置于特定的输出状态，导致ΔH = −1，从而得到 Landauer 原理的常规表达式。
+
+这只考虑纯量子态来表示逻辑态，尽管在经典情况下，她的证明允许逻辑态由宏观态表示。Maroney（2009）进一步推广了这种方法，将输入和输出状态表示为具有可变平均内能、熵和温度的宏观态，并考虑了对重置操作以外更一般的逻辑操作的影响。Turgut（2009）在 Penrose 的工作基础上，使用 Gibbs 微正则分布方法得出了类似的结果，尽管似乎更强大。
+
+### 4.3 现象学证明
+
+Groisman, Ladyman, Short 和 Presnell（2007）提出了一个现象学论证，支持逻辑上不可逆操作都是热力学上不可逆的命题。他们在某种程度上回应了 Norton（2005）对 Landauer 原理的普遍性证明（包括 Piechocinska 的证明）的批评，以及 Maroney（2005）关于 Piechocinska 证明中平等性是可达到的，并且当达到时热量是以热力学可逆的方式产生的论证。
+
+他们的意图似乎是要提供一个普遍的证明，可以独立于任何特定的物理过程重置模型来证明。为了在不假设控制执行重置的设备的物理规律的情况下实现这一点，他们明确接受了 Earman 和 Norton 的 Sound vs. Profound 困境的合理方法。这意味着他们假设了一个特定修改形式的热力学第二定律必须成立。他们采用的修改版本是，不存在仅将系统恢复到其初始状态并且热转化为功的期望值严格为正的循环过程。
+
+他们的方法本质上等同于 Szilard 和 Bennett 的方法。他们考虑了 Szilard 引擎的操作，使用一个设备来测量和存储分子的位置，并进行相关操作以从中提取热量。然后他们对设备进行重置。与 Bennett 不同，他们没有假设重置是有成本的，并且认为这个成本拯救了第二定律。相反，像 Szilard 一样，他们引入了一个修改形式的第二定律，并从中推导出重置是有成本的。他们的主张的普遍性基于他们没有试图对设备进行物理描述，尽管他们假设它能够进行非耗散性测量。
+
+### 4.4 反对论据和例子
+
+早期对兰道尔原理的批评主要集中在声称逻辑可逆操作可以以热力学可逆的方式实现，并且为冯·诺依曼、加伯和布里留安的立场进行辩护（参见兰道尔的回应（Porod 1988）和（Bennett 2003）中的参考文献）。由本内特、弗雷德金和托福利等人开发的越来越明确的模型现在普遍认为已经证明了如果由逻辑可逆计算机实现，热力学可逆计算确实是可能的。
+
+最近的批评（Shenker 2000 [在其他互联网资源中]，Norton 2005）集中在热量产生是否必然与逻辑不可逆操作相关。Shenker 提出的一个特定异议和 Norton 提出的类似异议涉及对宏观上不同状态的概率分布的使用。Shenker 和 Norton 都认为，系统的热力学熵只有通过考虑给定微观态可访问的状态空间区域才能正确定义。对于逻辑状态的物理表示，物理系统不能从一个逻辑状态跳到另一个逻辑状态是至关重要的。因此，对应于不同逻辑状态的状态空间区域彼此之间是不可访问的，或者正如 Shenker 所称，它们是不可互访的。在兰道尔的原始论文中，他只是将概率分布在不同逻辑状态上的 p ln p 项与热力学熵等同起来。更发展的吉布斯方法仍然计算状态空间区域上的统计分布的吉布斯熵，这些区域是不可互访的。Norton 详细论证了这是一个不合法的计算，并且由此得到的熵与热力学熵无关。
+
+这个反对意见远远超出了兰道尔原理的范围。它与波尔兹曼对吉布斯统计力学方法的一般论证有很多共同之处。然而，可以质疑的是，按照皮霍钦斯卡的方法进行的证明是否真的容易受到指责。事实上，皮霍钦斯卡并没有将热力学熵归因于吉布斯熵的度量（在她的论文中几乎没有提到熵），也没有像一些批评所说的那样，假设了关于重置操作如何执行的具体模型，至少在量子情况下是如此。兰道尔原理呈现对数形式的假设是热浴最初是符合正则分布的（至少诺顿似乎愿意承认这一假设），并且要求使用单个哈密顿量（或者在量子理论中是幺正的）动力学来描述系统和环境的联合演化，独立于输入逻辑状态。类似的评论也可以适用于（Maroney 2009），而（Turgut 2009）进一步推导出了一个更强的约束条件，这意味着通常版本的兰道尔原理，甚至不需要考虑输入逻辑状态的概率分布。
+
+一个更具体的反例是 Allahverdyan 和 Nieuwenhuizen（2001）的例子，他们认为在低温量子体系中，可以实现比 Landauer 原理所建议的更低成本的抹除过程。在统计力学证明中的一个典型假设是系统与热浴之间的相互作用能量可以被视为可以忽略的（至少在过程开始和结束之前）。Allahverdyan 和 Nieuwenhuizen 的例子利用了这一点，考虑了温度足够低以至于与 k**T 相比，相互作用能量不再可以被视为可以忽略的情况。在这种情况下，热浴不能再被视为一个正则分布，与系统和标准证明无关。值得注意的是，虽然张和张的非哈密顿恶魔被认为实际上不可能存在，但 Allahverdyan 和 Nieuwenhuizen 明确声称在低温体系中，Landauer 原理实际上是可以被打破的。
+
+## 5. 量子理论的作用
+
+量子理论、测量和不可逆性之间的关系是复杂的，考虑量子理论对论证的影响有时会得出令人惊讶的结论。
+
+冯·诺依曼在（冯·诺依曼1932年，第V.2章）中明确提到了Szilard的论点，当讨论测量中波函数坍缩的不可逆性时，尽管目前尚不清楚这一论点的具体作用。Gabor和Brillouin的测量程序都使用光，需要对电磁场进行量子化处理以产生耗散。Gabor明确表示他相信通过经典电磁场进行测量可以在非耗散情况下进行，并且会导致对第二定律的无限制违反。Landauer-Penrose-Bennett的论证不需要测量产生热量，因此对于他们来说，经典统计力学不一定会导致无法控制的恶魔。尽管可以争论量子电动力学在测量中是否会耗散热量，但一些物理过程用于测量时耗散热量的事实并不削弱Bennett的观点，即其他物理过程可以在非耗散情况下进行测量。
+
+尽管波函数坍缩经常与热力学不可逆性相关联，但这似乎存在矛盾。在 Szilard 引擎中，测量被认为会导致熵的减少，而在量子理论中，测量被认为会增加熵。或者，可以想知道波函数坍缩中的熵增是否抵消了测量的减少。这些想法主要是一种混淆，可以很容易地加以纠正。一个投影的冯·诺依曼测量会增加密度矩阵的吉布斯-冯·诺依曼熵，除非被测量的可观测量与密度矩阵对易，此时测量将使其保持不变。然而，这仅适用于描述所有测量结果的统计分布的密度矩阵。对应于发生了特定结果的子集密度矩阵仍然可以比所有测量结果的总体具有较低的吉布斯-冯·诺依曼熵。
+
+Zurek（1986 年）是将量子测量与 Szilard 引擎相关联的最重要的尝试之一。Zurek 认为，在 Szilard 引擎中，分子处于在隔板的两侧之间的叠加态，并不是对分子所在位置的主观不确定性。相反，这是一个客观事实，即量子态占据了两侧。即使有隔板存在，分子仍然占据整个盒子。在进行测量之前，将量子态坍缩到一侧或另一侧，无法提取能量。Zurek 仍然认为重置操作是补偿熵增的来源。这是因为恶魔在进行测量并提取能量后，现在处于观察到每个可能结果的统计混合态中。对于重置恶魔的代价，Zurek 直接引用了兰道尔原理。
+
+这里的逻辑很难理解。如果在经典情况下，关于必须引用分子位置的主观不确定性而存在客观事实的问题存在歧义或困扰，那么在决定执行重置操作时，必须引用恶魔状态的统计混合物应该至少同样令人困扰。Zurek似乎并没有暗示恶魔被视为处于测量结果的叠加状态（如果是这样的话，它可能可以被重置为具有较低成本的标准状态）。似乎假设有一个关于发生的结果以及恶魔处于哪种状态的事实。同样不明确的是，我们是否应该将测量理解为非幺正波函数坍缩为其中一种结果。如果波函数坍缩被视为理解没有恶魔的必要组成部分，那么这将对无坍缩解释产生什么影响？
+
+值得注意的是，迄今为止，所有推导兰道尔原理的尝试都是基于经典信息加工的。虽然量子计算操作可以推导出一个形式非常类似于兰道尔原理的下界，但与经典情况不同，目前还没有证明存在能够原则上达到这个下界的过程。因此，量子计算可能需要承担额外的热力学成本。即使对于逻辑可逆操作的量子模拟，这一点似乎也是正确的：贝内特（1973）避免存储额外位的成本的过程涉及一种通常无法应用于量子操作的操作（Maroney 2004 [in Other Internet Resources]）。最后，正如上面所指出的，Allahverdyan 和 Nieuwenhuizen 在相反的方向上提出了论据，即这个下界的推导涉及到在低温区域内量子理论可以违反的假设。
+
+## 6. 讨论
+
+在文献中，存在着广泛不同的动机和接受的证明标准，因此有时很难看到任何一致的工作体系。麦克斯韦最初的意图是证明第二定律只有有限的有效性，并且存在违反的可能性。尽管他最初将恶魔描述为一个有生命的存在，但后来将其角色减少为一个阀门。斯莫鲁霍夫斯基试图驯服这个恶魔，通过制定一个修改后的第二定律，以免其违反。他的驱魔仪式仅适用于机械装置，他对智能干预是否能够逆转第二定律的问题保持开放。随着文献的发展，驱魔的范围和恶魔的性质都发生了变化。智能的概念被简化为机械装置执行的信息加工。与其研究如何通过物理定律约束一个驯服的恶魔，目标变成了完全排除恶魔。大部分相关文献都是以逐案论证的方式进行，通过论证个别恶魔的失败，并简单地推断所有恶魔将因为类似的原因而失败。
+
+锡拉德最初的意图是分析智能是否可以用来战胜第二定律。他的论点没有分析智能的含义。他认为，无论多么智能的存在，仍然需要进行测量。如果这些测量带来足够的热力学熵代价，第二定律将是安全的，而不需要进一步考虑智能存在的构成。这显然不需要将智能简化为执行测量和处理测量结果。
+
+在冯·诺依曼、布里洛安和加伯的分析下，信息加工的更一般概念发展起来，具有基本的热力学熵成本。事实上，拥有信息可以被视为减少熵，从而能够产生热力学工作。然而，由于通过测量获得信息仍然被认为需要耗散热量，因此对于广义第二定律并没有威胁。对于信息的持有者必须是什么样的存在，不需要明确考虑。
+
+兰道尔的分析表明，测量并没有减少表示对象和测量设备组合系统所需的自由度，因此不会导致热量产生的必要性。由 Szilard、Gabor 和 Brillouin 提出的测量模型不够普遍。兰道尔的早期论文没有明确考虑 Szilard 引擎和麦克斯韦的恶魔问题，因此没有涉及这对统计力学的一致性有何影响。似乎兰道尔认为，逻辑可逆计算无法在不积累大量无关信息的情况下实现。这种积累最终需要擦除，因此逻辑不可逆计算的成本是无法避免的。本内特证明了在逻辑可逆计算中可以避免这种成本。
+
+尽管贝内特也认为，Szilard 引擎是一个过程，在这个过程中，逻辑上不可逆的抹除步骤是无法避免的，以完成循环。在非耗散性测量期间获得的信息必须存储在恶魔记忆的状态中。虽然这些信息使恶魔能够从引擎中提取能量，但是这个记忆不能被重置，否则将产生至少等于从中提取的能量的抹除成本。与 Szilard 到 Brillouin 的分析不同，统计力学的一致性现在要求我们至少对恶魔本身作为一个受特定物理定律约束的物理存在说一些话。恶魔可能能够进行非耗散性测量，但是它的记忆必须能够由物理设备表示，并且这个设备必须包含在统计力学描述中。这与 Brillouin 形成鲜明对比。Brillouin 将信息描述为“束缚的”，如果它体现在物理设备的状态中，但他明确表示，仅存在于思维中的信息是“自由的”，而不是“束缚的”。
+
+现在熵和信息之间的关系变得不太清楚。如果将恶魔排除在系统之外，它可以被视为一个代理人，了解系统的信息。对系统描述的不确定性可以被视为恶魔对系统确切状态的不了解。如果恶魔拥有更多的信息，系统的熵就会减少。然而，一旦恶魔能够非耗散地获取信息，系统的熵就会降低，唯一的补偿似乎是恶魔状态本身的不确定性增加。
+
+如果必须将恶魔自身的心态状态纳入系统，并且对恶魔所处的状态存在不确定性，那就引出了一个问题：“是谁的不确定性？”也许这是恶魔在过程开始时对自己将处于哪种状态感到不确定？也许统计分布应该被放弃，因为恶魔对自己的状态并不不确定，而是另一个属性（比如 Zurek 的提议）发生了相应的变化？也许恶魔已经被自然化到不再代表一个智能体，不再具有信息的获取和行动能力，而不确定性现在是另一个外部智能体的不确定性？在后一种情况下，似乎任何利用 Szilard 引擎回答 Smoluchowski 最初关心的智能干预的希望已经完全丧失。
+
+要使 Penrose 和 Bennett 的解决方案成功，必须将恶魔看作一种特定类型的物理系统，因为现在必须考虑到恶魔记忆的物理构成。如果假设恶魔可以用一个哈密顿系统来表示，那么它就被简化为一个机械装置，与 Smoluchowski 的活门和弹簧并没有太大的区别。不出所料，作为一个哈密顿系统，并受到 Liouville 定理的约束，可能会对恶魔施加一些物理限制，使其可控。然而，这种限制的存在和确切性质，以及相应的修改第二定律的可能性，仍然存在争议，并且在很大程度上取决于对统计力学的理解方法。
+
+在Landauer等人的无耗散测量中，测量仍然需要通过相互作用来发展物理系统之间的相关性。Popper等人的无魔引擎表明，这个过程中唯一相关的物理方面就是这种相关的相互作用，而相互作用是否用于信息收集的问题本身并不重要。虽然信息论方法的支持者可能会认为相关性就是信息，但Maroney以及Shenker和Hemmo的论点似乎挑战了保持这种相关性是否甚至是理解引擎运作所必需的。可以问一下，将相关性描述为“信息”是否真的起到了任何作用，或者这只是一个微不足道的重新标记的过程？如果术语“信息”对于理解统计力学没有任何贡献，那么它可以从描述中清除（当然，这仍然存在统计力学对信息加工物理学具有非微不足道的影响的可能性）。
+
+Szilard引擎和Landauer原理似乎都提出了一个关于知识和热力学熵之间关系的类似问题：如果我们能知道分子位于引擎的哪一侧，我们就能提取能量；如果我们能知道设备处于哪种逻辑状态，我们就能将其设置为零而不需要能量。没有这些知识，就需要设计一个能够独立于系统特定状态的过程。但很明显，这并不能告诉我们，即使没有这些知识，设计一个聪明的过程仍然可以从引擎中提取能量而不需要补偿，或者一个聪明的过程仍然可以在不需要能量的情况下重置位。哈密顿力学和Liouville定理似乎起着重要的作用，尽管这在很大程度上未被注意到。正如张和张的恶魔所证明的那样，通过非哈密顿流，明显存在对第二定律的无限制违反，而不需要借助信息理论或计算来避免这种情况。
+## Bibliography
+
+A comprehensive annotated bibliography of the subject, up until 2003, is included in the collection (Leff and Rex 2003), which also contains many key articles, mainly supporting the Landauer-Penrose-Bennett position. A detailed analysis of the history of Maxwell's demon, the Szilard engine and critiques of information theoretic exorcisms are in Earman and Norton (1998, 1999) with Norton (2005) providing a similar critique of Landauer's principle.
+
+* Albert, D.Z., 2001, *Time and Chance*, Cambridge, Massachusetts: Harvard University Press.
+* Allahverdyan, A.E. and T.M. Nieuwenhuizen, “Breakdown of the Landauer bound for information erasure in the quantum regime”, *Physical Review E*, 64: 0561171–0561179.
+* Bennett, C.H., 1973, “Logical reversibility of computation”, *IBM Journal of Research and Development*, 17: 525–532.
+* Bennett, C.H., 1982, “The thermodynamics of computation—a review”, *International Journal of Theoretical Physics*, 21(12): 905–940.
+* Bennett, C.H., 2003, “Notes on Landauer's principle, reversible computation, and Maxwell's demon”, *Studies in the History and Philosophy of Modern Physics*, 34: 501–510.
+* Brillouin, L., 1951, “Maxwell's demon cannot operate: Information and entropy I”, *Journal of Applied Physics*, 22: 334–337.
+* Brillouin, L., 1956, *Science and Information Theory*, New York: Academic Press.
+* Earman, J. and J.D. Norton, 1998, “Exorcist XIV: The wrath of Maxwell's demon. Part I. From Maxwell to Szilard”, *Studies in the History and Philosophy of Modern Physics*, 29: 435–471.
+* Earman, J. and J.D. Norton, 1999, “Exorcist XIV: The wrath of Maxwell's demon. Part II. From Szilard to Landauer”, *Studies in the History and Philosophy of Modern Physics*, 30: 1–40.
+* Feyerabend, P.K., 1966, “On the possibility of a perpetuum mobile of the second kind”, in *Mind, Matter and Method: Essays in Philosophy and Science in Honor of Herbert Feigel*, P.K. Feyerabend and G. Maxwell (eds.), Minneapolis, Minnesota: University of Minnesota Press, pp. 409–412.
+* Gabor, D., 1964, “Light and Information”, *Progress in Optics*, 1: 111–153.
+* Groisman, B., J. Ladyman, S. Presnell, and T. Short, 2007, “The connection between logical and thermodynamic irreversibility”, *Studies in the History and Philosophy of Modern Physics*, 38: 58–79.
+* Landauer, R., 1961, “Irreversibility and heat generation in the computing process”, *IBM Journal of Research and Development*, 5: 183–191.
+* Leff, H.S. and A.F. Rex, 1990, *Maxwell's Demon: Entropy, Information, Computing*, Princeton, New Jersey: Princeton University Press.
+* Leff, H.S. and A.F. Rex, 2003, *Maxwell's Demon 2: Entropy, Classical and Quantum Information, Computing*, Philadelphia, Pennsylvania: Institute of Physics Publishing.
+* Maroney, O.J.E., 2005, “The (absence of a) relationship between thermodynamic and logical irreversibility”, *Studies in the History and Philosophy of Modern Physics*, 36: 355–374.
+* Maroney, O.J.E., 2009, “Generalising Landauer's principle”, *Physical Review E*, 79: 031105.
+* Maxwell, J.C., 1867, Letter to P.G. Tait, 11 December 1867, in *Life and Scientific Work of Peter Guthrie Tait*, C.G.Knott (author), Cambridge: Cambridge University Press, 1911, pp. 213–215.
+* Norton, J.D., 2005, “Eaters of the lotus: Landauer's principle and the return of Maxwell's demon”, *Studies in the History and Philosophy of Modern Physics*, 36: 375–411.
+* Penrose, O., 1970, *Foundations of Statistical Mechanics*, Oxford: Pergamon Press.
+* Piechocinska, B., 2000, “Information erasure”, *Physical Review A*, 61: 1–9.
+* Porod, W., 1988, “Comment on ‘Energy requirements in communication’”, *Applied Physics Letters*, 52: 2191.
+* Rothstein, J., 1951, “Information, measurement and quantum mechanics”, *Science*, 114: 171–175.
+* Shizume, K., 1995, “Heat generation required by erasure”, *Physical Review E*, 52: 3495–3499.
+* Smoluchowski, M. von, 1914, “Gültigkeitsgrenzen des zweiten Hauptsatzes der Wärmtheorie”, *Vorträge über die Kinetische Theorie der Materie und der Elektrizität*, Leipzig: Teubner, 1914, pp. 89–121.
+* Szilard, L., 1929, “On the Decrease of Entropy in a Thermodynamic System by the Intervention of Intelligent Beings”, *Zeitschrift fur Physik* 53: 840–856. English translation in *The Collected Works of Leo Szilard: Scientific Papers*, B.T. Feld and G. Weiss Szilard (eds.), Cambridge, Massachusetts: MIT Press, 1972, pp. 103–129.
+* Turgut, S., 2009, “Relations between entropies produced in non-deterministic thermodynamic processes”, *Physical Review E*, 79: 041102.
+* Uffink, J., 2001, “Bluff your way in the second law of thermodynamics”, *Studies in the History and Philosophy of Modern Physics*, 32: 305–394.
+* Uffink, J., 2006, “Compendium of the foundations of classical statistical physics” in *Philosophy of Physics (Handbook of the Philosophy of Science)*, J. Butterfield and J. Earman (eds.), Amsterdam: North Holland, Part B, pp. 923–1074.
+* von Neumann, J., 1932, *Mathematical Foundations of Quantum Mechanics*, English translation, Princeton, New Jersey: Princeton University Press, 1955.
+* von Neumann, J., 1949, “The Role of High and of Extremely High Complication”, Fourth University of Illinois lecture, in *Theory of Self-Reproducing Automata*, A.W. Burks (ed.), Champaign, Illinois: University of Illinois Press, 1966, pp. 64–73.
+* Zhang, K. and K. Zhang, 1992, “Mechanical models of Maxwell's demon with noninvariant phase volume”, *Physical Review A*, 46: 4598–4605.
+* Zurek, W.H., 1986, “Maxwell's demon, Szilard's engine and quantum measurements”, in *Frontiers of Nonequilibrium Statistical Physics*, G.T. Moore and M.O. Scully (eds.), New York: Plenum Press, pp. 151–161.
+* Zurek, W.H., 1989a, “Algorithmic randomness and physical entropy”, *Physical Review A*, 40: 4731–4751.
+* Zurek, W.H., 1989b, “Thermodynamic cost of computation, algorithmic complexity and the information metric”, *Nature*, 347: 119–124.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=information-entropy). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/information-entropy/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=information-entropy&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/information-entropy/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* Maroney, O.J.E., 2004, “Are all reversible computations tidy?”, Physics preprint ArXiv, [[quant-ph/0403079] Are all reversible computations tidy?](http://arxiv.org/abs/quant-ph/0403079/).
+* Shenker, O., 2000, “Logic and entropy”, Philosophy of Science preprint archive, http://philsci-archive.pitt.edu/archive/00000115/.
+* Shenker, O., and M. Hemmo, “Maxwell's demon”, Philosophy of Science preprint archive,  [Maxwell's Demon - PhilSci-Archive](http://philsci-archive.pitt.edu/archive/00003795/).
+
+## Related Entries
+
+[probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/) | [statistical physics: Boltzmann’s work in](https://plato.stanford.edu/entries/statphys-Boltzmann/) | [statistical physics: philosophy of statistical mechanics](https://plato.stanford.edu/entries/statphys-statmech/) | [thought experiments](https://plato.stanford.edu/entries/thought-experiment/)
+
+### Acknowledgments
+
+Many thanks to John Norton for his helpful suggestions and editing during the production of this article.
+
+[Copyright © 2009](https://plato.stanford.edu/info.html#c) by  
+[Owen Maroney](https://www.philosophy.ox.ac.uk/people/owen-maroney) <[*owen.maroney@philosophy.ox.ac.uk*](mailto:owen%2emaroney%40philosophy%2eox%2eac%2euk)>
