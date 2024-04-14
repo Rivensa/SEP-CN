@@ -1,2 +1,221 @@
 # 伊本·凯姆那 Ibn Kammūna (Tzvi Langermann)
 
+*首次发表于2007年12月18日；实质性修订于2022年3月29日。*
+
+伊本·凯姆那（Ibn Kammūna）是一位来自巴格达的犹太人，在伊本·西那（Avicenna）（公元 1037 年去世）取得显著成就之后的几个世纪里，科学和哲学经历了一个非常富有创造力的时期。他在他丰富的著作中涉及了他同时代人讨论的所有哲学问题。近年来，伊本·凯姆那和当时其他思想家的作品的版本、翻译和研究已经出现。然而，在这个阶段很难将伊本·凯姆那的工作置于背景之中，或者决定他最值得注意的贡献在哪里。
+
+没有任何一个话题比研究人类灵魂更能吸引伊本·凯姆那的注意，尤其是对其正确特征的描述以及关于灵魂在身体死亡后的存活的证明。因此，在首先调查伊本·凯姆那的传记、著作和形象之后，我们将介绍伊本·凯姆那关于灵魂及其来世的观点。然后，我们将通过他的主要著作来追踪一个在当时思想中具有重要意义的概念，即“ḥads”（通常翻译为“直觉”）。至少，这将让我们一窥伊本·凯姆那如何以各种文学形式处理心理学、认识论和预言理论的一个关键概念。在此之后，我们将介绍他宗教伦理学的首次调查；关键文本最近才出版。最后，我们将看一些被归功于他的诡辩和悖论。
+
+众人一致认为，出版伊本·凯姆那的著作（全部为阿拉伯文）是研究他的贡献的必要第一步。关于如何评估版本的价值以及是否需要重新编辑已有版本，意见迥异。讨论这些问题及相关问题对我们的主题至关重要，并涉及对伊本·凯姆那对当时问题的立场的正确理解。考虑到这一点，我们将在参考文献之前对一些已出版的版本进行简短的批评性讨论。
+
+* [ 1. 生平](https://plato.stanford.edu/entries/ibn-kammuna/#Lif)
+* [ 2. 著作](https://plato.stanford.edu/entries/ibn-kammuna/#Wri)
+* [3. 现代学术中的评价和形象](https://plato.stanford.edu/entries/ibn-kammuna/#EvaImaModSch)
+* [4. 灵魂科学](https://plato.stanford.edu/entries/ibn-kammuna/#SciSou)
+* [5. 哲学：追随直觉的线索](https://plato.stanford.edu/entries/ibn-kammuna/#FolThrInt)
+
+  * [ 5.1 简介](https://plato.stanford.edu/entries/ibn-kammuna/#Int)
+  * [ 5.2 考察](https://plato.stanford.edu/entries/ibn-kammuna/#Exa)
+  * [ 5.3 新智慧](https://plato.stanford.edu/entries/ibn-kammuna/#NewWis)
+  * [5.4 伊本·凯姆那对苏赫拉瓦尔迪的评论，al-Talwīḥāt](https://plato.stanford.edu/entries/ibn-kammuna/#ComSuhAlTal)
+  * [5.5 智慧科学的关键问题 (al-Maṭālib al-Muhimma fī ‘ilm al-ḥikma)](https://plato.stanford.edu/entries/ibn-kammuna/#KeyIssSciWisAlMatAlMuhFiIlmAlHik)
+  * [5.6 虔诚的著作 (Kalimāt wajīza, Ithbāt al-mabda’)](https://plato.stanford.edu/entries/ibn-kammuna/#PieWriKalWajIthAlMab)
+* [6. 虔诚和伦理](https://plato.stanford.edu/entries/ibn-kammuna/#PieEth)
+* [7. 疑难问题：悖论、问题和诡辩](https://plato.stanford.edu/entries/ibn-kammuna/#ShuParProSop)
+* [ 8. 最近的版本](https://plato.stanford.edu/entries/ibn-kammuna/#RecEdi)
+* [ 参考文献](https://plato.stanford.edu/entries/ibn-kammuna/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/ibn-kammuna/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/ibn-kammuna/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/ibn-kammuna/#Rel)
+
+---
+
+## 1. 生平
+
+伊本·凯姆那的生平事实很少得到证实（Pourjavady＆Schmidtke 2006 年，8-22 页，用于大部分生平细节和参考文献）。据推测，他出生在巴格达，并在那里度过了大部分的生活。然而，有很好的证据表明他在阿勒颇待过一段时间；他在这个重要的知识中心的存在解释了他的某些活动，否则很难解释（Langermann 2007 年）。他可能是来自一个宫廷家族；他肯定与一些高级官员有联系，其中一些人是他的赞助人。伊本·凯姆那还与一些知名的学者通信，尤其是纳西尔·丁·图西。在他于 1284 年去世前不久，伊本·凯姆那逃离巴格达，前往附近的希拉镇。长期以来，人们一直认为这次搬迁是由于对他的一本书的敌对反应而被迫的。然而，最近有人提出更有可能与他的一位赞助人的处决有关。
+
+伊本·凯姆那肯定出生在一个犹太家庭中。尽管他的著作通常不会暴露出他的犹太信仰，如果有的话，它们更像是一个虔诚的、具有哲学倾向的穆斯林的作品，但他两次涉足比较宗教的经历表明他明显偏袒拉比犹太教。在他为一部重要的伊斯兰神学著作所写的注释中，可以发现一些微妙的辩论。 （这在下一节中讨论。）另一方面，他对苏菲式虔诚的吸引并没有暴露出任何早期犹太人在同一方向上的影响，特别是由迈蒙尼德斯的后裔。但他是否一直保持犹太信仰直到去世？后来的作家引用的证据通常将他称为犹太人，这表明是这样的。然而，也有反对意见；人们还可以注意到伊本·凯姆那的著作中对先知的许多虔诚引用，并不是所有这些引用都可以轻易归因于后来的抄写员。伟大的书目学家莫里茨·斯坦施奈德认为伊本·凯姆那实际上改变了信仰；他的观点遭到了犹太阿拉伯研究的一些伟大先驱者，特别是 D.H.巴内斯的反驳。Pourjavady 和 Schmidtke 在他们最近的专著（2006 年）中对伊本·凯姆那的改变信仰的故事表示怀疑。
+
+## 2. 著作
+
+关于伊本·凯姆那的最新研究主要集中在他的心理学上；他在这一领域的著作和学说将在下文中讨论。从对现代学术的影响来看，特别是当我们超越晚期犹太和伊斯兰哲学专家的狭窄范围时，伊本·凯姆那的《三种信仰的审查》（英文译本由Perlmann完成）是他最重要的作品。这篇论文的基本前提，也是他其他著作的基础，是犹太人、基督徒和穆斯林都接受的一种关于先知的单一理论，而且符合哲学的真理标准。剩下的问题是比较每种信仰独有的主张。尽管这篇审查不应被归类为辩论性作品，因为它没有对任何信仰进行直接攻击，但它对犹太人的偏袒是相当明显的。伊本·凯姆那通过结合从梅蒙尼德和犹大·哈莱维那里汲取的思想构建了他所呈现的犹太观点。虽然这一看法乍看起来是两位杰出的安达卢西亚人的奇怪组合，但伊本·凯姆那并不是唯一一个将两者协调起来的犹太思想家。基督徒和穆斯林对他们的教义被呈现的方式表示反对，并且两者的代表都写了反驳文章（Pourjavady & Schmidtke 2006, 106–113）。另一方面，我们没有收到任何犹太人对这篇审查的任何反应。值得补充的是，在这篇审查中，伊本·凯姆那既没有明确提到佛教，也没有在任何其他作品中提到；考虑到蒙古统治的政治现实（蒙古人尚未皈依伊斯兰教）以及伊本·凯姆那的广泛兴趣，人们可能会期望他表现出一些好奇心。
+
+伊本·凯姆那写了一篇关于犹太教两个主要派别（拉比派和卡拉派）之间差异的较短论文（由 Nemoy 翻译成英文）。尽管没有任何公开的争论，但很明显伊本·凯姆那的同情心倾向于拉比派的多数派。
+
+伊本·凯姆那对苏赫拉瓦尔迪的《阿尔塔尔维哈特》进行了详细的评论（本条目的最后一节讨论了几个版本）。这是对该作品的首次已知评论，尽管比苏赫拉瓦尔迪的其他著作更接近亚里士多德哲学，但仍传达了伊斯赫拉基哲学的基本观点。通过他的评论直接影响了库特本·迪·阿尔·希拉兹（1236-1311），伊本·凯姆那在苏赫拉瓦尔迪思想的阐述和传播的初期阶段起到了非常重要的作用。
+
+《新智慧》是对 13 世纪科学和哲学的全面阐述（有关初步研究，请参见 Langemann 2005；本书的标题在下面的最后几节中讨论）。存在着许多手抄本（Pourjavady＆Schmidtke 2006，87-92）。伊本·凯姆那在他的哲学著作中尝试了不同的格式和长度。他坚持传统的逻辑、物理和形而上学的三分法，有一篇较长的版本（《新智慧》），一篇高度浓缩的版本（Talkhīṣ；有关参考文献，请参见 Pourjavady＆Schmidtke 2006，94，以及阿拉伯文本的版本，196-206），还可能有一篇中等长度的版本（《关于智慧的论文》），其真实性尚未解决（Langermann 2005，279-286）。
+
+同样，他给我们留下了一部中等长度的虔诚作品（Kalimat wajiza）和同一篇论文的一个更短版本（Ithbāt al-mabdaʾ）；但他也透露他可能会扩展Kalimāt wajīza（Pourjavady & Schmidtke 2006, 140）。即使这个计划从未实现（迄今为止还没有这个更长版本的证据出现），但它表明他坚信重要的话题应该以三种形式进行讨论，这可能考虑到人们在学习上投入时间的能力不同。这两个现存的虔诚文本由Pourjavady & Schmidtke 2006, 139–195出版（没有对内容的讨论）。Langermann（2017）已经出版了Ithbāt的注释翻译。这些将在下面的倒数第二节进一步讨论。
+
+伊本·凯姆那为伊斯兰神学重要著作《马阿利姆》（Schmidtke & Pourjavady 2007）写了注释。在某种程度上，这是一种超注释，即对他的同时代人纳吉姆·丁·卡提比·卡兹温尼（1277年去世）早期注释的回应。在某些地方，伊本·凯姆那为阿尔·拉齐辩护，反对卡提比·卡兹温尼的批评，但在其他地方，他对阿尔·拉齐提出了自己的批评。在仔细阅读后，其中一些批评暗示了一种微妙的反伊斯兰辩论。例如，他在第七章的第一个问题上的长篇注释（Schmidtke & Pourjavady 2007, 96–98）批评了奇迹在建立先知使命中的作用。伊本·凯姆那没有提到任何先知，而是集中讨论了阿尔·拉齐在其他著作中对“奇迹”（阿拉伯语中的术语）的确切定义，这与他在这部特定著作中的定义相矛盾；并且再次从理论上辩论，即使传递者很多，一个传统也可能是错误的（或至少包含某些错误）。然而，在受到审查的问题中，阿尔·拉齐特别谈到了穆罕默德。因此，伊本·凯姆那的批评实际上等同于对穆罕默德先知使命的否定。然而，后来伊本·凯姆那对犹太教和基督教提出了具体批评（Schmidtke & Pourjavady 2007, 226）。这些注释是用伊斯兰神学的高度技术语言写成的，与他在其他著作中使用的哲学用语非常不同。伊本·凯姆那显然精通这两种语言。
+
+伊本·凯姆那与几个悖论有关，这些悖论一直困扰着伊朗的思想家们。这些问题在本条目的最后一节中进行了讨论。他还留下了一些次要的著作和通信；一些医学著作的片段也已经被找到（参见 Pourjavady＆Schmidtke 2006 的参考书目；医学片段由 Langermann 2007 发表、翻译和分析，14-19 页）。
+
+## 3. 现代学术界对其评价和形象
+
+伊本·凯姆那在心理学方面的工作引起了伊斯兰研究的伟大先驱伊格纳斯·戈尔齐赫（1896）的兴趣，他专门研究了伊本·凯姆那关于灵魂不朽的论证。然而，伊本·凯姆那在二十世纪最有名的是他的《考试》，这被广泛认为是第一部客观、科学、非抨击性的比较研究。亨利·科尔宾（1945）的法语两卷本作品为西方学术界打开了苏赫拉瓦尔迪和伊斯赫拉基哲学家的世界，并标志着伊本·凯姆那在苏赫拉瓦尔迪思想传播中的关键作用。然而，我们对伊本·凯姆那对苏赫拉瓦尔迪的独特解释仍然没有清晰的认识，如果这样的解释存在的话。他的哲学属于阿维森纳传统的阐述、完善和辩护，当时由纳西尔·丁·图西领导，他与图西有通信往来。另一方面，他显然接受了阿维森纳受到阿布·巴拉卡特·巴格达迪和法赫鲁丁·拉齐等人的批评。最后，本文希望在他的思想画像中增加他伦理著作中所体现的深厚虔诚，这些著作借鉴了犹太、伊斯兰和非宗派的哲学来源。
+
+## 4. 灵魂科学
+
+灵魂科学（‘ilm al-nafs）是伊本·凯姆那所有哲学论著中的一个重要主题。此外，他还写了三篇专论，其中两篇旨在证明灵魂是永恒的，第三篇则驳斥了灵魂仅仅是体液的气质或混合物，以及灵魂与身体同时产生的观点。（Pourjavady & Schmidtke 2006, 100–106）。他对研究灵魂（nafs）的特别兴趣需要解释。就像他作品中的许多其他特点一样，只有在亚维齐安的遗产背景下才能理解。亚维齐安认为自己对自己的感知是他所拥有的最确定的知识。（顺便提一下，在阿拉伯语中，nafs 既可以表示“灵魂”也可以表示“自我”；尽管亚维齐安在术语上尽可能准确，但这种双关语在阿拉伯心理学文献中不可避免地存在，尤其是在亚维齐安之后）。这种方法与伊斯兰哲学的基础——亚里士多德主义完全不同。亚维齐安一生都在努力解决由他的洞察力带来的一系列复杂问题，特别是在心理学和认识论领域，但从未得到令人满意的解决方案。这个难题在后续几代人的作品中反复出现。[1]
+
+伊本·凯姆那将阿维森纳的改革理论作为他对灵魂的基本概念。在更长的著作中，他当然会回顾与灵魂相关的能力、属性等等；但基本观念是个体的自我意识。例如，在他的论文《论灵魂的不朽性》的引言中，他写道：“（词语）灵魂是个体本质的指称，当我们使用代词‘我’说‘我这样做了’、‘我达到了某个目标’时，我们就是在指称它”[译者：Nemoy 1958，第86页]。在他虔诚的《简言》（Kalimāt wajīza，稍后将在本文中详细讨论）中，伊本·凯姆那抱怨对灵魂的属性、与身体的结合方式等等进行全面讨论将会“冗长”；他满足于将读者“引荐给那些在我们之前的人所写的书籍”。对于他的目的来说，“最重要的观点，也是最接近理解的观点……就是灵魂是我们在说‘我’时所指称的东西，比如‘我感知到了’、‘我做了这个’”[译者：Schmidtke and Pourjavady 2007，第151页]。
+
+尽管如此，伊本·凯姆那在灵魂的先前存在这一关键问题上与伊本·西那以及主流哲学传统分道扬镳。伊本·西那否认灵魂在人类出生之前存在，但伊本·凯姆那认为灵魂的先前存在与其非物质性密切相关，并且这是一个必须接受的教义，以证明灵魂在身体死亡后的生存。正如卢卡斯·穆勒塔勒在一系列出版物中所展示的那样，伊本·凯姆那努力巩固了心理学教义的证明。在他对伊本·西那《指引》的评论中，展示了“飞行人”思想实验，伊本·凯姆那将伊本·西那的口头论证转化为三段论形式。（三段论是否具有生产力，以及伊本·凯姆那在回答伊本·西那的现代批评者方面取得了多大的成功，仍然是一个悬而未决的问题；详见穆勒塔勒 2009 年的全面讨论）。伊本·凯姆那大胆宣称已经提出了灵魂永恒存在的第一个证明 a parte ante。实际上，对于伊本·凯姆那来说，灵魂实际上是一个被称为“灵魂”的智慧（‘aql），当它与特定的身体相关联时（穆勒塔勒 2012 年）。
+
+## 5. 哲学：跟随直觉的线索
+
+### 5.1 引言
+
+伊本·凯姆那是一位哲学作家，一位博学而敏锐的学者，他给后世留下的不是一种"哲学"，而是一系列丰富的哲学研究。其中一些，比如他的《新智慧》，旨在进行综合；另一些，比如他对苏赫拉瓦尔迪的评论，主要是对他人思想的解释；还有一些，比如前一节提到的专题论文，涉及到特定问题，伊本·凯姆那认为他可以做出贡献。然而，对他的作品的学术研究对文学形式、预期读者和具体目标的兴趣较少；相反，按照学术传统，研究主要集中在"来源"的确定上，甚至在句子和短语的层面上进行分析。这种方法带来了一些重要的见解，例如，将亚维中派和苏赫拉瓦尔迪的陈述结合起来，涉及到存在的概念。
+
+这种方法的一个缺点是给现代学生留下了一个拼凑的形象，伊本·凯姆那似乎是为了准备一个哲学来源的拼布而不是对问题采取立场。但是，对于不了解学术研究的读者来说，他的著作是否以这种方式呈现给他们呢？伊本·凯姆那意识到正在争论的问题，并且通常会阐明自己的观点。尽管如此，他的观点可能随着年岁的增长而改变，这一点并不奇怪，如果有人认为他更加剧烈地改变了宗教信仰。无论如何，很明显，他的表达、强调、一致和不一致、包含和排除在一定程度上取决于他选择的文学体裁。他在评论中可以批评，因为他会仔细研究他所解释的文本并引用其他观点，但他不会完全拒绝他所评论的作者的观点。在他的原创作品中，他更自由地表达个人立场。
+
+如果我们还记得学术界对这个人和他繁荣时期的研究处于初级阶段，那么对于本文来说，最好的做法似乎是这样。我们将选择一个非常核心的概念，即 ḥads，它通常被翻译为“直觉”，并跟随它在伊本·凯姆那的主要作品中的运用。（很明显，在这个背景下，直觉是一种独特的状态，在认识论的尺度上，介于非常聪明的个体的推理和预言的天赋之间。）这将使我们能够掌握他哲学思想的一个关键特征，并观察伊本·凯姆那在不同项目中处理同一概念的不同方式。请注意，即使在所审查的文本中没有出现 ḥads 这个术语，我们也将对该概念的运用保持警觉。
+
+严格来说，伊本·凯姆那是推理三段论的中项的启示，有些人会补充说是瞬间的启示，从而得出一个无误的结论。然而，在实践中，它的应用范围更广，定义也不那么精确。当人们将伊本·凯姆那作为知识的源泉时，很少会展示完整的三段论并指明中项（参见 Langermann 2005, 286–302 和 Gutas 2001）。实际上，它与阿维森纳通过“启示”了解自己的存在（以及他的大部分教育）的方式相同，并且像那个阿维森纳时刻一样，它将认识论转向了个人对自己启示的安全感的依赖。在后来的思想家，包括伊本·凯姆那的作品中，对伊本·凯姆那的评价有助于合法化炼金术和占星术，并且更一般地模糊了演绎知识和启示之间的区别。
+
+伊本·凯姆那不仅仅是解释心理过程的术语篮子中的又一个功能。特别需要强调的是两个应用。首先，伊本·凯姆那提供了一个类比于预言的现象；没有其他来自人类世界的现象，无论它有多么非凡，都与预言的启示如此接近。其次，它提供了解释伟大科学才能的方法。预言、科学发现和直觉总体上都会使那些经历过它们的人在启示的瞬间获得某种知识，通常是之前无法获得的知识。
+
+### 5.2 考试
+
+早期试图解释预言现象的努力，以当时被接受的人类心理学工作为基础，例如，迈蒙尼德斯的努力，在两种类型的人类灵感中找到了类似或原始预言的症状。第一种包括真实的梦境、占卜和其他揭示未知的情况。第二种包括人们自发地表现出勇敢、领导能力或文学创造力的情况，从而以超出寻常的方式行事。这些想法有助于发展预言的政治理论；先知，就像哲学国王一样，是一个有远见的人，具有大胆的领导能力以及将行为准则强加给他的人民的能力。主要区别在于，先知的准则明确不是他自己设计的，而是由某种超自然的来源揭示的。总体而言，伊本·凯姆那淡化了预言的政治功能。先知在组织和秩序社会方面确实有重要的角色要发挥。然而，伊本·凯姆那的分析重点强调了先知的认识论优势，而不是他的政治技巧。此外，作为政治领导人，他负责灌输正确的宗教信仰；伊本·凯姆那明确区分了先知与贾希利亚（未受教育、缺乏适当揭示准则的城市）的统治者之间的区别。
+
+先知与其他人的区别可以用心理学术语来解释，这是由于他的 ḥads 的完美。在发展这一主题时，伊本·凯姆那大胆地声称，ḥads 是所有人类知识的最终基础。所有获得的知识要么是直接的直觉，由适当装备的人获得，要么是由他人通过直觉获得的知识项目的指导：
+
+> 至于他们（先知们）的完美，是由于他们的推理智力的完美，因此如此。通过这种方式获得以前未知的可理解的中间术语，有时是通过 ḥads 获得的，有时是通过教学获得的。然而，ḥads 是教学的基础。因此，事物无疑可以追溯到直觉的先知们达到的直觉。然后他们将它们传达给学生。然而，有可能有人自己有直觉；推理在他的脑海中形成，没有老师。[Perlmann（ed。）1971，第 12 页；作者翻译]
+
+人类展示了全面的天赋，从那些从不直觉的迟钝者到那些能够通过直觉满足所有或几乎所有追求的人。这种变化既体现在通过直觉获得的感知的数量上，也体现在直觉行为的速度上。（尽管如此，应该补充说，伊本·凯姆那将极限设定为“最快和最短的瞬间”；与伊本·西那（Ibn Sina）不同，他在这里并没有声称直觉根本不需要时间。）当然，有可能在人类能力的上限处，可以找到一个被“纯洁和与超凡来源的紧密联系”所祝福的个体，他可以通过“中间术语和证明性证据”直觉地了解人类能够知道的所有或大部分内容，“而不是通过不确定的传统。” Ḥads 不仅解释了先知知识的快速性和独立性，还解释了其确定性。它满足形式逻辑的要求，因为它提供了三段论的中间术语，因此是有证明力的。
+
+### 5.3 新智慧
+
+我们首先研究理论讨论（参考 Langermann 2005, 286–302）。在处理论证（burhan）的章节中，伊本·凯姆那通过七种判断（hukm）列举了一种通过这些判断来断言或验证（tasdiq）在演绎中要使用的前提。直觉判断（Ḥadsiyyāt）是列表中的最后一种，伊本·凯姆那简单地将其定义为“根据除了上述提到的六个来源（mabadi'）之外的证据（qara'in）而灵魂判断为确定的事物”（al-Kabisi 1982, 196；作者翻译）。伊本·西那在他的前提分类中不包括直觉判断（Ḥadsiyyāt）；苏赫拉瓦尔迪在他的两个列表中包括直觉判断（Ḥadsiyyāt），但两者都与 al-Jadīd 中的列表不同。然而，尽管有所有这些发展，伊本·凯姆那在这里提供了与伊本·西那（以及他之前的亚里士多德）使用的陈旧例子完全相同的例子，即月亮的光源自太阳。
+
+在《新智慧》的后面部分，伊本·凯姆那几乎逐字逐句地复制了伊本·西那在他的《指示》（al-Ishārāt）中对 ḥads 的最终定义，这是他的后期著作之一。他首先指出，从第一可理解的事物到第二可理解的事物的进展可以通过思考或反思（fikr）或通过 ḥads 来实现，“即中间术语一下子出现在思想中，要么是由于对它的搜索和渴望 [shawq]，没有任何[相应的]心灵运动，要么是没有任何冲动 [ishtiyaq] 或运动。”伊本·凯姆那继续说道：“随之而来的是搜索的对象[即演绎的结论]和它所蕴含的东西。反思和直觉之间没有区别，除了反思中存在运动而直觉中不存在运动”[ed. 441]。
+
+在《新智慧》中，很容易找到许多应用 ḥads 的例子；但要看到如何将 ḥads 一贯地融入一个全面的科学计划中却更加困难。以下是一些据说源自 ḥads 的知识。ḥads 告诉天文学家，即使在逻辑上并非必然，行星也需要多个轨道才能完成它们的运动[编者注 402]。在生命科学中，我们通过 ḥads 知道非理性动物是无意识地执行其生物功能的[编者注 424]。至于形而上学和心理学，我们通过 ḥads 得出结论，智力比灵魂更完美[编者注 517]，身体（或其种类）只是精神实体的阴影[编者注 522]。ḥads 和反复的经验（tajriba）共同表明，身体是灵魂与纯粹形式相结合的唯一障碍[编者注 492]。
+
+最后一个例子特别重要，因为它说明了 ḥads 和 tajriba 之间的密切联系，这种联系在伊本·凯姆那（和其他人）中一直存在。tajriba 是占星家和炼金术士声称的知识的最常见的理由。因此，ḥads 和 tajriba 都旨在作为科学系统中隐藏知识的来源，这些系统基于（最终）亚里士多德的逻辑。尽管 ḥads 一再被引用为科学知识的来源，但它并不是科学探究的工具，而是一种事后解释，解释一个思想家如何找到解决一个困难问题的方法。因此，在科学中，它的功能与解释宗教启示和预言的功能非常相似。
+
+### 5.4 对苏赫拉瓦尔迪《al-Talwīḥāt》的评论
+
+伊本·凯姆那经常在他对《al-Talwīḥāt》的评论中提到直觉。然而，需要记住的是，作为评论者，伊本·凯姆那通常会尽力阐明和扩展苏赫拉瓦迪的意图，而不是明确发展自己的想法。
+
+在这里，我们将限制自己在 H. Ziai 和 A. Alwishah 发表的这篇评论的部分版本中选择几个例子，该版本涵盖了《al-Talwīhāt》的第二部分，主题是自然科学或物理学。伊本·凯姆那在某个地方引用并赞同苏赫拉瓦迪关于人们在这方面的差异之说：“人们在 ḥads 方面存在差异。有些人愚蠢，从未在思考中取得任何成功；还有些人拥有强大的 ḥads。后者中的许多人在数量和质量上超过其他人；但并没有必须停止的限制。有可能有人在短时间内通过 ḥads 感知到大部分可理解的事物，而无需老师的指导；还有一种被称为“神圣”的灵魂，其能力与先知们一样强大”（Ziai＆Alwishah 2003，456）。
+
+其他段落为我们提供了一个机会，可以了解 ḥads 在各种科学或者我们今天认为是神秘的背景下是如何使用的。在描述包括大气中的各种光学效应、雷电和彗星在内的一些十二种现象时，这些现象都是由地球上产生的“蒸汽”引起的（就像亚里士多德在他的《气象学》中所争论的那样），伊本·凯姆那补充说，除了这些原因之外，ḥads 认为必须存在由天体配置引起的“精神力量”（Ziai＆Alwishah 2003，254）。除人类以外的动物都有理性的灵魂；这与转世的问题有关。对于使用 ḥads 的人来说，这种推理是显而易见的，但对于那些故意关闭 ḥads 或者天生没有这种天赋的人来说，这种推理是不明显的（Ziai＆Alwishah 2003，346-7）。
+
+### 5.5 智慧科学中的关键问题（al-Maṭālib al-Muhimma fī 'ilm al-ḥikma）
+
+这篇论文篇幅简洁，但内容广泛。（参见 Musawi 2003 的版本；另见 Pourjavady＆Schmidtke 2006，92-3。）它分为七个部分。在这里，逻辑始终是讨论的第一个主题，但在逻辑部分中根本没有提到 ḥads。然而，在第七和最后一节中，它确实出现了，这一节讨论了心理学。与当时的一些趋势一致，伊本·凯姆那在这里将“灵魂科学”排名为最崇高的科学，因为人类的灵魂类似于神明。
+
+人的灵魂的认知能力是最后一部分的第五个“问题”的重点。这些能力因人而异，就像身体的天赋能力一样。然而，在这个光谱的高端，存在着一种人的灵魂，其认知能力在实际上是无限的。在这个层面上，人类的认知是神圣的“品味”。伊本·凯姆那解释道：
+
+> 只有那些亲身经历（字面上的“品味”）了神圣芬香的真实实相的人，才能将这些事物呈现给自己。但在那些没有通过天生的天赋能力达到这一点的灵魂中，有些人确实能够获得，而其他人则无法获得任何东西。凡是放弃身体上的过度，善用必需品，并远离人群（通过生活在山顶和空旷的地方），沉思神圣智慧的细微之处，全心全意地致力于他，有时以众所周知的和谐旋律唱歌，用诗意的言辞，歌颂至高的上帝的伟大，他将获得一些无法形容的神圣乐趣，言语太过局限无法表达；也就是说，如果他有能力接受这条道路。所有这一切对于那些在自己内心找到它的人来说，都是通过经验所知，对于那些有天赋的人来说，也是通过反复和直觉所知（作者翻译）。
+
+在这里和其他地方一样，ḥads 与 tajriba（“经验”）相配对，并被描述为一种天生的天赋。然而，在这里，伊本·凯姆那补充了一个重要观点。那些在出生时没有获得 ḥads 的天赋的人，如果他们培养苏菲派的隔离、冥想、音乐和祈祷方法，也可以品味到神圣的滋味。
+
+### 5.6 修道文献（Kalimāt wajīza，Ithbāt al-mabda’）
+
+这两篇密切相关的论文的阿拉伯原文首次由 Pourjavady＆Schmidtke（2006）出版；Ithbat 的注释翻译由 Langermann（2017）出版。在这些著作中，伊本·凯姆那对认知问题的关注要少得多，而在他的其他著作中则更多。然而，在这里和其他地方，他注意到有天赋的人能够理解那些对其他人来说仍然难以理解的问题。在这里，伊本·凯姆那再次将这种特殊的认知方式与 tajriba，即重复经验联系起来。此外，他在这里强调，只有亲身经历过这种特殊知识的人才能充分欣赏到其成果。因此，令人惊讶的是，他在阐述过程中并没有使用技术术语 ḥads，或者在这两篇著作中的任何地方都没有使用。
+
+请考虑一下来自 Kalimāt 的这段话（Pourjavady＆Schmidtke 2006，158，作者翻译）：“然而，如果身体障碍的减弱与灵魂的力量相结合，无论这种力量是原始的（asli，这里的意思是“天生的”）还是后天获得的，就像灵魂通过实践或与“那些知道的人”（即苏菲派）相关的训练而变得强大一样，那么这种联系就会变得牢固，以至于灵魂将获得许多隐藏的事物，丰富的知识和启发性的愉悦，其真正的本质只有亲身经历过的人才能理解。”几行下面提到了 tajriba：“通过重复的经验（tajarib），重复和某种形式的推理（qiyas）了解到了许多灵魂的奇妙之处。”
+
+伊本·凯姆那在刚才引用的段落中确实提到了 Tajriba，但在较短的虔诚论文《确立第一原则》中却没有提到。另一方面，伊本·凯姆那在这篇较短的论文中使用了几个同源词来描述那些能够立即理解某个事实并且不需要冗长论证的人：dhihn salim（“健康的心智”，Pourjavady & Schmidtke 2006, 188），dhu fitana（“聪明”，Pourjavady & Schmidtke 2006, 189），dhu lubb（“理解”，Pourjavady & Schmidtke 2006, 189）。
+
+当我们讨论另一个术语 dhawq 时，术语的困境变得更加复杂，dhawq 字面上意为“味道”。Dhawq 是苏菲派的一个术语，指的是通常是短暂而强烈的宗教体验，使修行者在之前所知之外获得更多的认知。从人类心智的现象来看，它本质上与直觉是一样的。伊本·西那在他被认为是他最后一部作品的有关理性灵魂的专著中以完全这个意义使用了这个术语[3]。苏赫拉瓦尔迪采用了这个术语来描述基于直觉的知识，称之为 ḥikma dhawqiyya；在伊本·凯姆那的《新智慧》中，ḥads 和 dhawq 是同义词（Langermann 2005, 300）。然而，在虔诚的著作中，人们本来期望会出现通常的苏菲派术语，但却没有使用 dhawq。
+
+这两篇论文中表达的观点与其他著作中的观点几乎没有什么区别。在所有情况下，基本思想都是有些人天生具有迅速得出肯定真理结论的能力。在技术上有一个区别，即 ḥads，特别是 ḥads，被认为揭示了三段论的中项。然而，我们不应该对此过于看重。首先，即使在使用 ḥads 的情况下，我们很少能确定 ḥads 揭示了哪个三段论的中项。一个重要的例外是从“飞行人”实验中得出的重大结论的推理（参见 Muehlethaler 2009）。此外，无论是否特别提到 ḥads，直觉或自发理解都与 tajriba 相配对。
+
+伊本·凯姆那的著作年表也无法解决这个问题。Kalimat 似乎是在伊本·凯姆那已经接触到伊本·西那和苏赫拉瓦尔迪的著作之后写的，正如我们所见（Pourjavady＆Schmidtke 2006，8-12）。因此，我们在这里面临的是历史学和方法论问题，即对技术术语和思想的重视程度问题，这是本文作者选择保持开放的问题。
+
+## 6. 虔诚和伦理学
+
+伊本·凯姆那的著作通常只涉及理论问题。然而，最近出版的两篇论文同样重视实践，与更长篇作品标题中的“知识和实践”相呼应；这种配对在苏菲派中很常见，但并不仅限于他们。伊本·凯姆那通常将这些论文的读者称为“阿基尔”，字面意思是运用智慧的人；这也是相当普遍的。他用来描述他的受众的其他表达方式包括“追求完美者”和“追求救赎（纳贾特）和完美者”。
+
+这些著作中表达的理论哲学与伊本·凯姆那在其他地方表达的观点一致。然而，在这里他指的是一种非常特殊的“知识”；正如他告诉我们的那样，“真正的”知识并不是人们普遍认为的那样。相反，它是自我认知：对自己的缺点和对崇拜上帝的义务的认识。这种类型的知识是目标导向的；它有助于削弱一个人与这个世界的联系或参与，并产生相应地加强一个人对另一个世界的倾向。关于实践的部分，鼓励一个以虔诚为基础的伦理计划，揭示了伊本·凯姆那的一个方面，这在学术文献中迄今尚未提及，更不用说充分探讨了。以下段落试图突出一些重要观点。我们将提供一些关于背景的建议，这些建议必然是暂时和初步的。
+
+在这些著作中，理性、可独立验证的知识与基于启示和传统的知识之间的无张力的和谐（简单地说，科学和信仰）是值得注意的。伊本·凯姆那没有提出任何让伊本·西那、阿尔·加扎利和迈蒙尼德斯如此困扰的明显矛盾。他提出了一系列通常很容易的论证，证明了上帝的存在和他的属性。总的来说，对神的概念更多地受到他的善良和慷慨的影响，而不是他的力量和判断。
+
+与他其他著作中突出的关注一致，伊本·凯姆那在《卡利马特》的第一部分（该部分涉及“知识”，在本文中的含义已在前两段中描述）中大量探讨了人类灵魂（纳夫斯）的准神性质以及死后的生存。他对这些问题的论述是哲学性的。然而，在这篇论文的第二部分中，伊本·凯姆那转向苏菲派的表达方式。他强调了“心”（qalb）作为人类善良的中心的关键和关键作用，与苏菲派的观念一致。然而，他没有采用苏菲派中非常常见的将“灵魂”（nafs）与“心”（qalb）对立起来的观点，其中前者代表激情和不良道德品质。相反，他将“心”定义为“灵魂的眼睛”（在这个背景下，“眼睛”与英语短语“风暴中心的眼睛”具有相同的意思）。
+
+两篇论文都展示了宗教和哲学思想的彻底融合。正如伊本·凯姆那在《卡利马特》开篇所写：“传统宗教和智识信条的大师们一致认为，救赎和永恒的幸福取决于对上帝、末日和行善的信仰”（Pourjavady & Schmidtke 2006, 142）。伊本·凯姆那在其他地方也提到了“智慧和启示之人”。这两部作品所阐述的价值观和思想似乎代表了这两个群体达成的共识，而这两个群体在不同的情况下被认为是非常对立的。我们还不能确定这种一致在社会现象中有多普遍。无论如何，一个世纪后，伊本·泰米亚及其追随者从不同角度攻击了“外来”的科学。
+
+“‘阿玛勒”绝对是“伊尔姆”的下级；在这个意义上，虔诚的论文延续了伊本·凯姆那所有著作中明显的强烈科学导向。然而，实践绝不是对大众低智力水平的妥协，正如在“政治”宗教观念中经常被认为的那样；它也不仅仅是一种约束身体欲望的手段。实践和科学以一种特定的方式相互加强：“从肢体的状态中，光明向着心灵升起，就像从心灵的认知中，光明向着肢体降临。这就是通过身体虔诚实现灵魂提升的秘密”（Pourjavady & Schmidtke 2006, 161）。因此，实践对于灵魂有着明显而直接的精神回报，甚至对于启蒙者来说尤其如此。
+
+伊本·凯姆那致力于为一个穆斯林赞助人写作，它很容易和自然地被视为一部穆斯林虔诚之作。然而，仔细观察后，我们会发现其中没有明显的穆斯林特色。伊本·凯姆那受到了与穆斯林、犹太人、基督徒或犹太教派哲学神论者共同的灵性和宗教观念的驱使，正如犹太学者犹大·哈莱维在他的《库萨里》一书中所描述的那样，伊本·凯姆那对此书进行了深入研究。令人惊讶的是，唯一引用的古兰经经文，来自第 57 章（“铁”，第 3 节），至少在其前半部分（“他是第一个，也是最后一个……”）在希伯来圣经和基督教圣经中都有确切的对应。
+
+伊本·凯姆那究竟包含了多少犹太伦理学、圣经、拉宾尼克和中世纪的内容，很难确定。犹太伦理学和伊斯兰伦理学一直交织在一起；到了 13 世纪，一些拉宾尼克思想已经完全伊斯兰化，而犹太教派苏菲主义的版本也已经确立。犹太人将古兰经的片段引用为普世智慧的箴言，而不是作为特定信仰群体的经文。所以当伊本·凯姆那说“智慧的开端（ra’s，参见希伯来语 reishit）是敬畏上帝”时，他是否有意从诗篇 111:10 中引用这一经文？总体而言，伊本·凯姆那似乎形成了一种独特的“亚伯拉罕式”哲学虔诚。无论是哲学基础（神的概念和人类的概念）还是道德价值观和灵性修炼，都经过精心设计，以便被所有一神论者接受。
+
+## 7. 疑难：悖论、问题和诡辩
+
+一些“问题”（shubuhāt；阿拉伯语指的是所有形式的模糊，包括我们所称的悖论和诡辩）被归因于伊本·凯姆那。从16世纪开始，这些问题一直挑战着伊朗哲学家（Pourjavady＆Schmidtke 2006，37-51）。其中一些问题可以追溯到伊本·凯姆那已知的著作。其中之一是著名的说谎者悖论，伊本·凯姆那在《新智慧》中对此进行了讨论；一些后来的人错误地认为伊本·凯姆那是发明者。另一个被广泛讨论的问题是“统一问题”（shubhat al-tawḥīd）。特别是自伊本·西那以来，神被广泛地与wājib al-wujūd（“存在是必要的”）等同起来；但是，作为一个哲学范畴，“必要存在”是否必然是唯一的？穆斯林和犹太思想家肯定希望如此，但证明这一点并不简单。伊本·凯姆那在某个地方从所有现实的相互关联中进行论证，这意味着一个单一的“必要存在”必须位于因果链的顶端。他可能从迈蒙尼德斯那里得到了这一点，迈蒙尼德斯在他的《迷惑者指南》（第一部，第72章）中指出，现实的统一是对上帝统一的重要指示。然而，在其他地方，他选择了一条更加曲折的道路。如果存在多个“必要存在”，那么“必要存在”将不再是一个独特的本质特征，而是被降级为两个或更多个存在共享的偶然性。这个提议在后来的思想家中进行了辩论和批评。
+
+另一个“问题”是一种与逻辑中的一些深奥问题相关的诡辩，这些问题困扰着伊本·凯姆那和他的同时代人，尤其是通过对偶转换（Langermann 2007, 11-13）。伊本·凯姆那试图操纵这样一个简单的观察：创造（ḥudūth al-'alam）并非反事实，也就是说，它不需要否认即时的现实（al-waqi'，现实或实际性，正如它在此时此地呈现的那样），从而得出一个形式上的证明：创造并不需要否认即时的现实；任何不需要否认即时的现实的事物都是即时真实的；因此，世界的创造是即时真实的。
+
+伊本·凯姆那将这个“证明”传达给纳西尔丁·图西，后者发现了其中的谬误。例如，对偶的主要前提“任何不需要否认即时的现实的事物都是即时真实的”，在其正面表述时，需要一个附加条件：“只要它仍然不在即时的现实中，任何不在即时的现实中的事物（ghayr waqi'，在阿拉伯语中是一个肯定句）都需要否定即时的现实。”然而，这个附加条件使前提变成了假设性的，这反过来改变了转换的规则，并且不允许伊本·凯姆那希望得出的结论。
+
+## 8. 最近的版本
+
+在伊斯兰哲学领域，尤其是在其后阿维森纳时期，人们普遍抱怨我们缺乏原始文本的版本；这个抱怨在本条目的第一个版本中提出。在此期间，伊本·凯姆那的一些著作已经出版了不少版本。两个关键文本已经以原文重新出版。Lwiis Saliba 博士在一本近 600 页的书中重新出版了《Tanqīḥ al-Abḥāth》（《三种信仰的考察》），该书由 Byblion 出版，于黎巴嫩的 Byblos 市出版，2009 年；2010 年已经进行了第二次印刷），该书配有详细的介绍和丰富的注释，全部为阿拉伯文，但对欧洲语言的学术出版物有很好的掌握。Simon Bellahsen 出版了《Examen de la critique des trois religions monothéistes》（《三种一神教批判的考察》）的法语译本，其中包括 Pourjavady 和 Schmidtke 2006 年的传记部分的翻译：巴黎：Vrin，2012 年。H.J. Isfahani 出版了《新智慧》的新版本，他选择了一个替代标题《Kitāb al-Kāshif》（《启示者》），该书由伊朗哲学研究所和柏林自由大学伊斯兰研究所联合出版，2008 年德黑兰。
+
+只有很小一部分苏赫拉瓦尔迪的《Talwihat》评论由 Ziai 和 Alwishah 出版。现在已经准备了全文的两个版本：Sayyid H.S. Musawi 的三卷博士论文（德黑兰大学，1385 年太阳历，1996/1997 年）和 N. Habibi 的三卷出版物（德黑兰，1387 年太阳历，2008/2009 年）。Joep Lameer 查阅了这三个版本，并发表了一个 30 页的评论（2012 年）。他得出结论，我们仍然需要一个可靠的版本。
+
+这些是受欢迎的进展，但还需要进一步思考。特别是，伊本·凯姆那提出的论点通常未被编辑们考虑在内，他们必须在手稿的变体之间做出决定，或者由评论家审查版本。仅仅注意到一个或多个编辑忽略的变体，即使这些变体似乎很重要，也是不够的；我们希望看到对样本段落的讨论，并对不同阅读的含义进行全面分析。有时，在选择一个变体而不是另一个变体之前，没有语法、句法或词汇上的先验理由。如果不完全理解所讨论的段落，可能会出现错误；Langermann在2009年的一篇文章中给出了一个例子（第282页）。除非能提供例子来证明这种极端说法，否则早期版本不应被认为是毫无价值的。此外，在没有任何理由的情况下（例如，所有人都同意伊本·凯姆那本人没有给这本通常被称为《新智慧》的作品命名），在中途更改书名会引起混淆，而没有任何补偿。
+
+## Bibliography
+
+Note: We cite here the most important works, mainly in English. Pourjavady & Schmidtke has a very extensive bibliography. Additional materials are found in the preceding section (Recent Editions) as well as the internet resources listed in the following section.
+
+* Alwishah, Ahemd, 2017, “Suhrawardi and Ibn Kammuna on the Impossibility of Having Two Necessary Existents,” in *Illuminationst Texts and Textual Studies: Essays in Memory of Hossein Ziai*, Ali Gheissari, John Walbridge, and Ahmed Alwishah (eds.), Leiden: Brill, 115–134.
+* al-Kabisi, H.A. (ed.), 1982, al-Jadid fi al-hikma, Baghdad: University of Baghdad.
+* Black, D.L., 1982, “Avicenna on Self-Awareness and Knowing that One Knows,” in *The Unity of Science in the Arabic Tradition*, Shahid Rahman, Tony Street, and Hassan Tahiri (eds.), AK Houten: Springer, 2008, pp. 63–87.
+* Corbin, H. (ed.), 1945, *Shihāb al-Dīn al-Suhrawardī: Opera Metaphysica et Mystica*, 2 volumes, Istanbul: Maarif Matbaasi.
+* Eichner, H., 2009, “The Chapter ‘On Existence and Non-Existence’ of Ibn Kammuna’s al-Jadid fi l-Hikma: Trends and Sources in Author’s Shaping the Exegetical Tradition of al-Suhrawardi’s Ontology,” in in Avicenna and his Legacy, Y. T. Langermann (ed.), Turnhout:Brepols, 143–177.
+* Goldziher, I., 1896, “Sa‘d b. Mansur ibn Kammuna’s Abhandlung uber die Unverganglichkeit der Seele,” in *Festschrift zum achstigsten Geburtstage Moritz Steinschneider*, Leipzig: O. Harrassowitz, 110–114.
+* Gutas, D., 2001, “Intuition and Thinking: The Evolving Structure of Avicenna’s Epistemology,” in *Princeton Papers: Interdisciplinary Journal of Middle Eastern Studies*, 9: 1–38. [This is a special issue: *Aspects of Avicenna*, Andras Hamori and Bernard Lewis (eds.).]
+* Gutas, D., 1988, *Avicenna and the Aristotelian Tradition*, Leiden: Brill.
+* Lameer, J., 2012, “Ibn Kammuna’s Commentary on Suhrawardi’s Talwihat: Three Editions,” Journal of Islamic Manuscripts 3:154–184.
+* Langermann, Y. Tzvi, 2003, “Saving the Soul by Knowing the Soul: A Medieval Yemeni Interpretation of Song of Songs,” *Journal of Jewish Thought and Philosophy*, 12: 147–166.
+* –––, 2005, “Ibn Kammūna and the New Wisdom of the Thirteenth Century,” *Arabic Sciences and Philosophy*, 15: 277–327.
+* –––, 2007, “Ibn Kammūna at Aleppo,” *Journal of the Royal Asiatic Society* (Third Series), 17: 1–19.
+* –––, 2009, Review of Pourjavady and Schmidtke 2006, in *Review of Middles Eastern Studies*, 43(2): 280–282.
+* –––, 2017, “Ithbāt al-Mabda’ by Saʿd ibn Manṣūr ibn Kammūna: A Philosophically Oriented Monotheistic Ethic”, in *Illuminationst Texts and Textual Studies: Essays in Memory of Hossein Ziai* Ali Gheissari, John Walbridge, and Ahmed Alwishah (eds.), Leiden: Brill, 135–159.
+* Marcotte, Roxanne, 1996, “Philosophical Reason vs. Mystical Intuition, Shihab al-Din Suhrawardi (d. 1191),” *Anaquel des Estudios Árabes*, 7: 109–125.
+* Muehlethaler, L., 2009, Ibn Kammuna on the argument of the Flying Man in Avicenna’s Isharat and Suhrawardi’s Talwihat, in Avicenna and his Legacy, Y. T. Langermann (ed.), Turnhout:Brepols, 179–203.
+* –––, 2010, Ibn Kammuna (D. 683/1284) On the Eternity of the Human Soul. The Three Treatises on the Soul and Related Text, Ph.D. Dissertation, Yale.
+* –––, 2012, Revising Avicenna’s Ontology of the Soul: Ibn Kammuna on the Soul’s Eternity a Parte Ante, The Muslim World, 102:597–616.
+* Musawi, S.H.S. (ed.), 2003, *Key Issues in the Science of Wisdom*, in *Kheradname-ye Sadra*, 8: 64–86.
+* Nemoy, L., 1958, “Ibn Kammuna’s Treatise on the Immortality of the Soul,” in *Ignace Goldziher Memorial Volume* (Volume 2), S. Loewinger, A. Scheiber, and J. Somogyi (eds.), Budapest: Typ Globus, 83–99.
+* –––, 1972–3, “Ibn Kammunah’s Treatise on the Differences between the Rabbanites and the Karaites,” *Jewish Quarterly Review*, 13: 97–135, 222–246.
+* Perlmann, Moshe (ed.), 1971, *Ibn Kammūna’s Examination of the Three Faiths. A Thirteenth Century Essay in Comparative Study of Religion*, Berkeley-Los Angeles: University of California.
+* Pines, Shlomo, 1979–1989, *The Collected Works of Shlomo Pines*, 2 volumes, Jerusalem: The Hebrew University Magnes Press.
+* Pourjavady, R., and Schmidtke, S., 2006, *A Jewish Philosopher of Baghdad. ‘Izz al-Dawla Ibn Kammuna (d. 683/1284) and His Writings*, Leiden and Boston: E.J. Brill.
+* Schimmel, Annemarie, 1975, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina.
+* Schmidtke, S., and Pourjavady, R., 2007, *Critical Remarks by Najm al-Din al-Katibi on the Kitab al-Ma‘alim by Fakhr al-Din al-Razi, together with the Commentaries by ‘Izz al-Dawla Ibn Kammuna*, Tehran:Iranian Institute of Philosophy & Institute of Islamic Studies, Free University of Berlin.
+* Ziai, H, 1991, *Knowledge and Illumination*, Atlanta: Scholars’ Press.
+* Ziai, H., and Alwishah, A., 2003, *Ibn Kammūna*: *al-Tanqīhāt fī Sharh al-Talwīhāt*, Costa Mesa: Mazda.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ibn-kammuna). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ibn-kammuna/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ibn-kammuna&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/ibn-kammuna/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Ibn Kammuna](http://academia.edu/Documents/in/Ibn_Kammuna) resources at academia.edu
+
+## Related Entries
+
+[Arabic and Islamic Philosophy, special topics in: mysticism](https://plato.stanford.edu/entries/arabic-islamic-mysticism/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Halevi, Judah](https://plato.stanford.edu/entries/halevi/) | [Ibn Sina [Avicenna]](https://plato.stanford.edu/entries/ibn-sina/) | Ibn Taymiyya | [intuition](https://plato.stanford.edu/entries/intuition/) | [Maimonides](https://plato.stanford.edu/entries/maimonides/) | [prophecy](https://plato.stanford.edu/entries/prophecy/) | [religion: and morality](https://plato.stanford.edu/entries/religion-morality/) | [Suhrawardi](https://plato.stanford.edu/entries/suhrawardi/)
+
+### Acknowledgments
+
+Much of the research for this entry was carried out during tenure of a grant from the German Israel Foundation for Scientific Development.
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+Tzvi Langermann
