@@ -1232,7 +1232,7 @@
 * [\*生物学个体——见生物学个体 individuals, biological — see biological individuals](i/sheng-wu-xue-ge-ti-jian-sheng-wu-xue-ge-ti-individuals-biological-see-biological-individuals.md)
 * [\*归纳 induction](i/gui-na-induction/README.md)
   * [归纳问题 problem of (Leah Henderson)](i/gui-na-induction/gui-na-wen-ti-problem-of-leah-henderson.md)
-* [归纳逻辑——见逻辑学：归纳逻辑 inductive logic — see logic: inductive](i/gui-na-luo-ji-jian-luo-ji-xue-gui-na-luo-ji-inductive-logic-see-logic-inductive.md)
+* [\*归纳逻辑——见逻辑学：归纳逻辑 inductive logic — see logic: inductive](i/gui-na-luo-ji-jian-luo-ji-xue-gui-na-luo-ji-inductive-logic-see-logic-inductive.md)
 * [\*不平等——见平等 inequality — see equality](i/bu-ping-deng-jian-ping-deng-inequality-see-equality.md)
 * [\*惯性系统——见空间和时间：空间与时间：惯性参考系 inertial systems — see space and time: inertial frames](i/guan-xing-xi-tong-jian-kong-jian-he-shi-jian-kong-jian-yu-shi-jian-guan-xing-can-kao-xi-inertial-sys.md)
 * [\*推断至最佳解释——见溯因 inference to the best explanation — see abduction](i/tui-duan-zhi-zui-jia-jie-shi-jian-su-yin-inference-to-the-best-explanation-see-abduction.md)
