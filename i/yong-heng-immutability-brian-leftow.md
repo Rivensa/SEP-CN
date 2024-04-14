@@ -1,2 +1,160 @@
 # 永恒 immutability (Brian Leftow)&#x20;
 
+*首次发表于2002年7月1日星期一；实质性修订于2024年3月28日星期四。*
+
+神的永恒性教义（DDI）断言上帝在偶然属性上不能改变。因此，要理解这个教义，我们首先必须理解这种变化。
+
+* [1. 变化的种类](https://plato.stanford.edu/entries/immutability/#1)
+* [2. 永恒性与无感性](https://plato.stanford.edu/entries/immutability/#2)
+* [3. 永恒的案例](https://plato.stanford.edu/entries/immutability/#3)
+* [4. 反对永恒的论点](https://plato.stanford.edu/entries/immutability/#4)
+* [ 参考文献](https://plato.stanford.edu/entries/immutability/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/immutability/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/immutability/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/immutability/#Rel)
+
+---
+
+## 1. 变化的种类
+
+发展 DDI 的古典和中世纪作者将属性分为本质和偶然。本质属性大致上是帮助定义物品种类的属性。一个物品没有本质就无法存在。因此，获得本质属性的唯一方法是开始存在，失去本质属性的唯一方法是停止存在。古典/中世纪的作者称开始存在为生成，而不是变化。他们称停止存在为腐败，而不是变化。他们将术语“变化”限制为获得或失去非本质属性。他们的 DDS 断言上帝不能改变。因此，这并不意味着上帝不能开始或停止存在。它只断言他不能获得或失去一个非本质属性。
+
+偶然属性可以内在地或外在地拥有。我将这些概念解释如下：如果物品 x 具有属性 F，那么 x 是否是 F 完全由 x、x 的适当部分（如果有的话）以及成为 F 的标准决定；如果物品 x 不是内在地具有 F，则它外在地具有 F。如果是内在的变化，则是获得或失去内在地具有的属性。不是内在的变化则是外在的。如果一个属性只能内在地拥有，则它是内在的；如果一个属性只能外在地拥有，则它是外在的。对于任何 x 和 y，如果 y 不是 x 的一部分，x 与 y 的关系是外在属性，因此这些关系的变化是外在的。Francescotti（2017）提供了许多其他解释“内在”的方法。它们与我在这里概述的方法的不同之处不会影响我的论述；那些更喜欢其中一种方法的人可以相应地重新解释我的“内在”一词。
+
+关系属性是像被马踢或被史密斯爱的属性。它们显然是外在的。从亚里士多德到邓斯·斯科特斯的作者们将一些关系属性视为真实的、存在的意外。比史密斯矮是合格的，但受到史密斯的钦佩则不是，原因不必详述。因此，DDI 不仅排除了内在的意外变化，还排除了某些类型的外在变化，即真实的、存在的关系意外的变化。
+
+这引发了一个问题：为什么只有这些类型的变化才重要？DDI 的朋友们只是按照具体的论证，讨论如下，他们似乎导致否认这些类型的神圣变化。
+
+## 2. 不变性与不受感动性
+
+DDI有时与神的不受感动教义混淆，后者断言没有任何外部因素能够影响上帝——即不能使上帝处于任何状态，尤其是感受到悲伤等负面情绪。实际上，DDI既不暗示也不源自神的不受感动。如果某物能够改变自身但其他事物不能影响它，那么它可以是不受感动但可变的。上帝也可以是不变但能受感动的。如果一个事件总是影响上帝，他将始终察觉到它，但永远不会改变。如果它使他悲伤，他将永远感受到它，但永远不会改变。如果是暂时的，这样的上帝将在我们遭受之前、当下和之后为我们感到悲伤。
+
+在这一点上没有什么违反直觉的地方。西方神论的上帝对我们的未来有着完全的预知：他在我们感受到痛苦之前就已经看到了。如果有关于此事他事先不知道的任何事情，那么这种预知就不会是完全的。事先的完全知识应该引起与事中的完全知识相同的反应。因此，如果西方神论的上帝在我们遭受痛苦之前曾经悲伤过，那么他的悲伤与我们遭受痛苦时的悲伤并无二致。西方神论也认为上帝具有认知完美性。如果他是如此，并且存在于时间中，那么他有一个可以回忆的过去，因此具有完美的记忆力。如果上帝完美地记得我们的痛苦，那么多年后对他来说，它仍然像当时发生时一样新鲜，如果他完美地爱我们，也许他永远无法忘怀。因此，我们可以理解不变的悲伤；如果上帝确实悲伤，我们很可能会从一个具有完全预知、认知完美和完美情感本质的上帝那里期待到这种悲伤。如果他是无时间性的，一个不变但可受感动的上帝将在永恒中为我们而永恒地受苦——因为我们的痛苦而受苦。事情将会和他是有时间性的一样，只是他的知识不会有时间位置，因此他不会真正地预知或记得。因此，无论上帝是有时间性还是无时间性，这里都没有什么奇怪的地方。而且它不需要像一些人认为的那样“非人性化”上帝。
+
+然而，令人惊讶的是，西方的有神论者持有不变性的观点。因为西方的经文似乎与不变性相冲突。《创世纪》描绘了人类的罪孽使上帝感到悲伤，然后带领他做出新的决定，例如洪水泛滥。根据约翰的记载，“道成了肉身”（1:14），即上帝拥有了他以前没有的人性。因此，西方有神论的经文根源似乎否认了不变性。然而，不变性在犹太教中早在菲洛时代就已经出现，在基督教的第二个世纪也出现了。在奥古斯丁和阿奎那等“古典有神论”作家中，不变性使上帝成为了永恒的（参见阿奎那，《神学大全》Ia 9-10），而永恒是上帝独特的存在方式。因此，不变性是这些作家对上帝本质理解的根源。尽管斯科齐和奥卡姆领导了一场反对神圣不时性的起义，但他们及其追随者仍然坚持不变性，并且在 19 世纪之前一直统治着神学界。因此，人们不禁要问：是什么让不变性如此长久地具有吸引力？
+
+## 3. 不变性的论据
+
+首先，经文并没有明确支持神的偶然变化。经文所说的许多关于上帝的内容显然是隐喻，将变化归因于上帝的旧约圣经文本可能是在隐喻地表达。正如我后面所提到的，即使在道成肉身的教义中，也可以解释为没有偶然变化。标准的西方有神论明确排除了上帝的许多变化形式。对于标准的西方有神论者来说，上帝本质上是一个没有身体的灵魂。如果是这样，上帝就不能在物理上改变-他在物理上是不变的。因此，西方的上帝最多只能在心理上发生变化-在知识、意愿或情感上。此外，经文充分支持上帝在知识、意愿和情感方面始终是完美的。这排除了许多心理变化的可能性。这是一个太广泛的话题，在这里无法完全讨论；因此，让我们只研究上帝知识的一个方面。
+
+如果上帝的知识总是完美的，他总是知道过去和现在的一切，以及可以预知的未来的一切。只有自由的存在的未来行动和依赖于这些行动的事情，从表面上看超出了上帝的预知范围，而圣经中充满了上帝预知自由行动的说法。如果上帝的知识总是完美的，这总是包括完全的预知，上帝总是知道所有“无时态”的事实。假设上帝现在知道我明天会完成这篇文章，明天上帝知道我正在完成这篇文章。有一个事实上帝两天都知道，就是在一天被称为“明天”，另一天被称为“今天”的一天，我完成了这篇文章。这些事实没有真正的时态。无论一个人是在那一天之前，那一天，还是在那一天之后，这都是同样的事实。因此，这些事实是无时态的。如果上帝总是预知即使是自由的造物主的行为，他总是知道所有无时态的事实。如果他总是知道它们，那么他知道它们永远不会改变。
+
+从神圣的完美到必然的神圣完美只有一小步。因为无法不完美比完美但可以不完美更完美。同样，从全知到必然的全知也只有一小步：后者更完美。如果上帝的知识是必然完美的，他对无时态事实的知识是不变的。在任何一个他知道无时态事实的可能世界中，他总是知道它。因此，他对它的知识不可能改变，尽管如果有可能的世界中它不是一个事实，那么有可能的世界中他永远不会知道它。同样，如果上帝是必然全知的，他永远知道所有必然的真理。
+
+因此，上帝对必然和无时间性的偶然真理的认知似乎是不变的，只要超越圣经的一小步。到目前为止，我们所遗漏的唯一类型的知识是有时间性的偶然真理的知识 - 例如，明天我将完成这篇文章，或者昨天我已经完成了这篇文章。如果上帝总是知道这些真理的无时间性对应物 - 例如，在 2002 年 3 月 27 日，我无时间性地在 2002 年 3 月 28 日完成这篇文章 - 那么时间的流逝就解释了他的偶然知识的所有变化。上帝知道哪个有时间性的真理 - 我将完成，正在完成或已经完成 - 仅仅取决于现在是什么时间。可以这样说，他永远不必了解我是否在 3 月 28 日完成；他只需要了解他在时间上与 3 月 28 日的关系，这就告诉他关于我的完成的有时间性命题的真实性。因此，可以基本上根据圣经的理由提出一个观点，即上帝的知识的内容最多只因时间的流逝而改变。
+
+因此，圣经的考虑表明上帝在某些方面是不变的。但完整的 DDI 的根源也是哲学的。西方哲学家们在很大程度上通过赋予上帝他们认为他必须具备的属性来完善上帝的概念。上帝的完美似乎排除了某些类型的变化，正如我们刚刚所见。更一般的完美论证使许多人相信上帝不能以任何方式改变。
+
+在《理想国》第二篇（381b-c）中，柏拉图主张完全的 DDI。他断言，上帝在美德和美丽方面是“可能的最好”。美德是心灵的完美。美丽可以是心理的或非心理的。因此，柏拉图的例子可能意味着所有心理和非心理的完美，即所有完美的简单形式。柏拉图推理道，如果上帝在这些方面已经是可能的最好，那么上帝就不能变得更好。但是完美包括对变得更糟的免疫 —— 太强大以至于没有许可就无法遭受它，太善良以至于不允许它。因此，上帝不能改善或恶化。柏拉图的论证具有重大的历史影响。但它忽视了既不改善也不恶化的变化。如果一个人首先知道现在是 11:59:59，然后知道现在是午夜，那么这个变化对他来说既不好也不坏。如果心灵的最佳状态包括全知，那么也许它包括既不改善也不恶化上帝的持续变化，例如上帝知道现在是什么时间。也许持续的全知需要持续的变化来“跟上”时间。在 11:59:59，知道现在是 11:59:59 肯定是更好的，然后在午夜，知道现在是午夜是更好的。柏拉图的论证并不排除这样的变化。
+
+亚里士多德也为完全的 DDI 的接受做出了贡献。许多中世纪的神学家接受了亚里士多德对上帝存在的论证。亚里士多德的《物理学》推理道，如果发生变化，就必然有一个最终的源头，一个永恒不变的变化者。亚里士多德的《天体论》补充道，只有不可改变的东西才是永恒不变的。后来的神学家认为作为变化的第一原因的角色太崇高，只能是上帝的。那些认为亚里士多德的论证或其后代可以证明上帝存在的作家发现自己承认了 DDI。
+
+奥古斯丁为基督教对 DDI 的接受提供了强大的推动力。正如他所看到的（《三位一体论》第五卷第二章），一个将自己的名字称为“我是”的上帝是完美的，必须是存在的完美案例。但是，奥古斯丁认为，可以改变的不是一个完美的存在案例：它没有如此牢固地存在，以至于不能停止成为它所是的东西。
+
+伯修斯的《哲学慰藉书》（第五卷第六章）也帮助推广了 DDI。伯修斯认为，存在于时间中必然涉及缺陷，因为它涉及过去和未来。如果时间生活有过去的部分，那么时间的事物就不再活在它们身上。它们被剥夺了它们的过去。它们还没有活在它们生活的未来部分，这是另一种剥夺。根据伯修斯的观点，这两种剥夺都是缺陷。因此，如果上帝没有任何缺陷，伯修斯推理道，上帝没有过去或未来。没有过去或未来的东西不会改变。因为改变的东西从过去到将来，所以有过去和未来。因此，对于伯修斯来说，完美需要不变。必然的完美比偶然的完美更好，所以通过完美的推理，上帝是不变的。如果完美意味着不变性，那么必然的完美意味着永恒。
+
+现在，博伊修斯的推理需要进行一些清理。如果一个人的过去或未来有不好的经历，不活在其中并不是一件坏事。但是，如果上帝真正完美，他的生活就不能包含一些整体上不好过的部分。再者，我们必须扩展博伊修斯对过去的思考。首先，如果一个时间性的事物不是活着的，从本质上讲它并不真正错过或被剥夺了它的过去。但是，不活着本身就是一种较低的存在状态。此外，一个时间性的生命可能没有过去的部分；时间性的事物可能是瞬间的，或者刚刚开始存在。但无论哪种情况，它都错过了之前的任何时间-一种剥夺。此外，只存在一瞬间是一种剥夺。如果没有之前的时间，时间性的事物就是在时间的第一个瞬间瞬间存在或开始存在。再者，瞬间存在是一种剥夺。对于博伊修斯和西方的有神论者来说，一个在时间的第一个瞬间开始存在的事物是一个新被创造的生物。对于许多人来说，存在的因果依赖似乎是一个缺陷，而作为一个创造物则是一种较低的状态。因此，在这个论点的这一方面，我们得到了一个不完美的结果。因此，对于过去的博伊修斯的论点的适当扩展可能有一些价值，并且可以以类似的方式处理他对未来的思考。
+
+实际上，博伊修斯根据他对神圣完美的推理得出结论，上帝存在于时间之外。因为既没有过去也没有未来的事物不在时间中。但是，变化需要存在于时间中。假设一个萝卜，随着时间的推移，从新鲜变坏。它也从新鲜变为不新鲜。所以首先，“萝卜是新鲜的”是真的，然后“萝卜不是新鲜的”也是真的。这两个陈述不能同时为真。因此，事物只有在至少存在于两个不同的时间点上才会发生变化。因此，如果上帝必然是无时间性的-通过必然的神圣完美-上帝必然是不变的，即永恒的。
+
+阿奎那（像奥古斯丁一样）从神圣简单的更深层次的古典神论教义中推导出 DDI（ST Ia 9）。如果上帝是简单的，上帝没有任何部分。现在，当一件事物发生变化时，它变得在某种程度上不同。如果不是这样，就不会发生变化。但它不能在每个方面都变得不同。因为如果是这样，它将在与这个事物相同的方面上变得不同。如果首先我们有与这个萝卜相同的东西，然后我们有与它不同的东西，那么萝卜没有改变，而是消失并被其他东西取代。因此，任何变化都必须部分保持相同（否则就没有在一个相同的存活的事物中发生变化）。因此，任何可以改变的东西在某种程度上可以分为如果它改变了会保留下来的部分和会消失的部分。如果是这样，一个简单的上帝就不能改变。此外，古典神论者以及苏格斯和奥卡姆等批评者普遍认为，上帝的简单性排除了拥有意外的可能性。当然，没有意外的东西在意外中不能改变。此外，排除了意外的简单性本身不能是一种偶然的属性，因此必须是本质的。因此，这种简单性不仅决定了没有实际的意外变化，而且决定了不变性。DDI 与神圣的简单性以及以神圣的简单性为核心的古典神论关于上帝完美的理论之间的联系是 DDI 在历史上广泛吸引人的最深层次的原因之一；如果不同时考虑到对神圣简单性教义的动机，就无法完全解释思想家接受 DDI 的原因。然而，这是一个太大的话题，在这里无法涉及。
+
+DDI 因此具有各种宗教和哲学的根源。
+
+## 4. 反对不变性的论点
+
+对 DDI 有许多反对的观点。阿维森纳提出了一个，诺曼·克雷茨曼（1966 年）重新发明了这个观点。我们可以这样表达它的一个版本：
+
+1. 如果上帝是全知的，上帝知道现在是什么时间。
+2. 现在的时间是不断变化的。所以
+3. 上帝所知道的是不断变化的。所以
+4. 上帝是不断变化的。
+
+(2) 假设除了 t 时刻存在 t 和 t+1 时刻存在 t+1 这样的事实之外，还有关于时间在绝对意义上存在的事实，简单地存在：如果现在是 t 时刻，t 不仅仅在 t 时刻存在，而是完全存在。对于(1)-(4)的一些回应否认了这个假设，因此否认了(2)，例如 Helm（1988）。此外，Kretzmann 和其他推动这个论点的人们说得好像存在一个唯一的普遍现在，但这是不必要的：如果由于相对论我们说在不同的地方有不同的现在，全知的上帝将不得不知道它们每一个现在是什么时间。
+
+阿奎那报告称“古代名义主义者”否认（3）-他们声称上帝所知道的只是一个事件，即基督的诞生。因此，他们认为，“基督出生了”和“基督将要出生”这两个句子意味着同样的事情，因为它们表示同样的事件（ST Ia 14, 15 ad 3），所以这些句子所表达的上帝知识的对象并没有区别。阿奎那反驳说，句子的差异导致它们表达了不同的命题，因此承认并不是每个命题都能表达上帝所知道的内容。但他补充说，这并不意味着上帝的知识本身发生了变化，因为他不是通过肯定命题来了解自己所知道的内容（ibid.）。相反，他的知识是一种超越时间的直觉，它表明命题在某个时间是真的，在另一个时间是假的（ibid. et De Ver. 2, 5 ad 11；有关评论，请参见 Sullivan 1991）。因此，阿奎那也否认（3）。
+
+赫克托-内里·卡斯塔涅达通过声称回应克雷茨曼
+
+> P. 如果 x 知道 y 知道 p，那么 x 知道 p（1967，207）。
+
+（P）是合理的。如果x知道y知道p，那么x知道p是真的，因为知识包含真理。但是至少可以认为，如果x知道p是真的，那么x知道p。假设我们的不变的存在是一个超越时间的上帝，从外部看时间。上帝知道在t时刻，Smith知道现在是t。上帝知道在t+1时刻，Jones知道现在是t+1。根据（P），上帝超越时间地知道这两个命题，而无需改变。Swinburne反对：一个命题不仅仅（说）陈述一个个体的属性，而且以一种特定的方式呈现个体给x，除非y所代表的东西以与x所代表的东西呈现给x相同的方式呈现给y（1993年，170-1）。然而，Swinburne在“y知道什么”上可能有歧义。x和y知道相同的命题是一回事，而命题对于x和y来说具有相同的整体认知意义可能是另一回事。一种表达方式可能会影响整体意义，而不提供可能在另一个命题中陈述的进一步信息。然而，Castañeda的做法确实失败了，因为（P）实际上是错误的。如果我知道上帝是全知的，那么对于任何命题p，我知道上帝知道p。但是我可能仍然不知道p。我知道上帝知道第二次来临的日期。但是我仍然不知道具体的日子和时间。
+
+Edward Wierenga（1989年，175-90页）对（1）-（4）提出了两个回答，基于对上帝所相信的命题以及全知的要求的不同解释。根据其中一个解释，现在时态的句子表达了关于任何时间具有时间特性T的命题的属性，它们和其他所有命题都是永恒真实的，而全知是知道所有真理的。时间中的知者可以在具有T的时间以及可能的T本身上获得访问权限，但只能在那个时间上。因此，随着时间的推移变化的不是真实的内容，而是时间信徒所能接触到的内容。但是（Wierenga指出），没有理由认为一个非时间性的信徒会遭受类似的访问限制。（毕竟，可以合理地认为是处于时间中才会施加这些限制。）因此，在这种解释中，一个非时间性的、不变的信徒在永恒中就已经知道了那些时间信徒只在某些时间上才知道的真理。实际上，Wierenga否认了（2）蕴含（3）的观点：如果所有真理都是永恒真实的，那么真实的内容就不会改变。Kvanvig 1986年提出了一个类似的观点。
+
+威廉·克雷格（William Craig）认为这一观点与时间真正流逝的观念不相容（2001年，119-23页）。从某种意义上说，威伦加（Wierenga）并不在意。他的目标不是要证明全知、不变性和流逝是相容的，而只是证明全知和不变性是相容的。如果全知、不变性和否认流逝的结合是一致的，那么它们的成员之间也是一致的，因为如果任何两个结合词之间存在矛盾，整个结合词本身就是不一致的。但无论如何，克雷格的指责都是错误的。威伦加的第一步是与真正的流逝相容的。它只暗示了如果时间流逝，流逝不是通过先后两个事物的真实性来表示的。相反，流逝是由永恒真理集合中的某些东西来表示的-也许只是一个关于时间流逝的断言，甚至是每次当下都是时间现实的全部。流逝也可以出现在我们的故事中，解释我们所能接触到的变化，以及我们信念状态的整体认知意义。威伦加的观点可以允许他所说的时间流逝，并且只在当下存在。这个观点要求的不是时间无时无刻地存在，而是它们的个别性始终在无时无刻地可用。
+
+在Wierenga的第二步中，没有所谓的绝对真理。相反，所有的真理都是从一个观点（一个人和一个时间的配对<S，t>）来看的。如果我现在坐着，但午夜时我没有坐着，第二步并不是说这个命题先是假的，后来又是真的。相反，它说在<我，现在>这个观点上是真的，但在<我，午夜>这个观点上是假的。基于这个机制，Wierenga这样定义全知：对于所有的命题p和观点<S，t>，如果p在< S，t>上是真的，x就知道这一点；如果x在< S，t>上，并且p在< S，t>上是真的，x就知道p。通过这些步骤，很容易证明如果存在一个非时态的观点，那么非时态（因此不变的）全知是可能的。如果是这样的话，那些提出（1）-（4）的人只有在能够提供独立的理由来认为所有的观点都是时态的时候，才能排除不变的全知。如果他们有这个理由，当然就不需要（1）-（4）了，因为如果上帝是时态的并且持续存在，他的观点会发生变化，所以他必须知道的事情也会发生变化。因此，（1）-（4）在辩论中变得无效和无用。
+
+**克雷格声称，诉诸于透视真理与真正的流逝和真正的绝对现在是不相容的（2004年，107页）。他认为如此，是因为在t时刻真实的命题必须在t是唯一客观现在时真实。但为什么要这样认为呢？这里有另一种观点：当t是唯一的客观现在时，所有实际存在的时间透视都包括t，与t相关的真理在所有实际存在的透视中都是真实的，但并不存在真正的真理。除非这里存在某种隐藏的不一致性，流逝和绝对现在并不需要真正的真理。根据维伦加的观点，全知并不要求透视无时态地存在。它要求关于它们的命题始终和可能无时态地可用，这可以通过将“t”视为“具有特定性T的某个时间”的简写，并让特定性必然存在来确保。
+
+第二个动作在给定的经文和绝对现在下起作用，但它有一个后果，这些朋友可能不喜欢。假设时间确实流逝：确实，假设现在主义，即只有瞬息的现在是真实的。那么首先，对于那些包括t的时间观点来说，<现在是t>是真实的（在现在主义中，没有其他观点），然后在所有观点上都是假的（在现在主义中，因为t现在过去了，只有在它是假的时间观点中）。但在一个非时间性的观点中，对于任何t来说，现在是t从来不是真实的。它不在永恒中的任何时间；如果有的话，永恒性就不会是一种非时间性的存在方式。因此，在一个非时间性的观点中，时间根本不会流逝，没有关于流逝的任何信息可知，这就是为什么流逝对于不变的全知来说没有问题的原因。流逝在时间中是真实的，但在非时间性的观点中不是。要求一个非时间性的存在知道现在是中午才能算作全知，就像要求午夜时分的人知道现在是中午才能算作全知一样：在一个人的观点中不真实的事情也不可知。
+
+当然，人们想知道如何理解只有在时间中才存在的通过的想法。Stump 和 Kretzmann（1981）在撤回 Kretzmann 对（1）-（4）的原始认可时对此提出了看法。假设现在主义。在 Stump-Kretzmann 的观点中，每个时间 t，在现在时，与一个永恒存在的生命“ET-同时”。所以那个生命与 t 是 ET-同时的。所以所有时间，恰好在它们的现在性中，都与一个永恒生命 ET-同时。在永恒的生命中，没有什么会过去。如果有的话，那个生命将有早期和晚期的部分：它将是有时间性的，而不是永恒的。所以在上帝的永恒生命中，每个时间，恰好在它的现在性中，保持不变：没有什么会停止与上帝的生命 ET-同时。所以虽然时间在时间中流逝，但相对于永恒来说，它们并没有流逝。Leftow（1991）提供了一个类似的观点，但使用了一个不同定义的同时性关系。
+
+反对 DDI 的其他论据援引了圣经对上帝的描绘，例如在洪水故事（创世纪 6:6）中。面对这样的文本，DDI 的朋友们通过诉诸比 DDI 更少投机和理论的教义来化解上帝变化的外观。因此，菲洛根据上帝对未来的预知和性格的恒定，认为上帝不能悔改或感到后悔，正如洪水故事所暗示的那样。对于 DDI 的基督教朋友来说，道成肉身是一个特别棘手的问题。总的来说，这些人认为，所有的变化都发生在上帝之子所承担的人性中，而不是在上帝本身中；上帝永远准备成为道成肉身，永远拥有地上基督的那些经历，这是道成肉身生活的一部分。通过玛丽和她所生的婴儿的变化，最终在地球上发生了永恒存在于上帝中的事情。
+
+另一个反对 DDI 的论点是对上帝的力量的诉诸。在创造之前，上帝可以确保没有宇宙存在。只有在他能够改变过去的情况下，上帝才拥有这种力量。很少有人认为他能够做到这一点。因此，事件似乎改变了上帝的力量。DDI 的辩护者回应说，上帝始终拥有他曾经拥有的所有力量，但失去了使用它的机会。因为他这样做了，我们不再想把他的力量称为阻止宇宙的力量。但他们声称，他仍然能够做到这一点，就像他以前一样。
+
+斯温伯恩认为，不变性与自由行动是不相容的，他写道：“如果一个人的行动是由他自己在某个时间做出的选择所导致的，并且他的选择本身并不是由其他任何事情引起的，那么他在某个时间完全自由。然而，一个在强烈意义上是不变的人在某个时间内将无法执行任何与他之前打算做的事情不同的行动。他的行动过程是由他过去的选择确定的，他将不会完全自由”（1993 年，第 222 页）。这里需要注意的一点是，如果我的过去选择决定了我的现在选择，并不意味着它们引起了现在的选择。它只能意味着我自己在那个时间不可避免地引起了那个选择。因此，不变性与斯温伯恩的完全自由甚至是相容的并不明显。更重要的是，斯温伯恩的“完全自由”是一个特别苛刻的概念。即使我的过去选择确实导致了我的现在选择，许多自由意志论者也会认为，如果导致现在选择的过去选择是自由意志的（例如，Kane 1996，Stump 1996，Ekstrom 2000），那么我的现在选择是派生自由和负责任的。大多数有神论者对拥有完全自由意志的上帝会感到非常满意。
+
+最后一个反对意见假设时间流逝，并以这种方式运行：与上帝相关的事物会发生变化。首先，上帝与某个时间的存在共存，然后与另一个时间的存在共存。如果与上帝相关的事物发生变化，上帝在关系事故中发生变化。一个回答是认为上帝是无时无刻的。如果是这样，在他自己的立场上，与他相关的事物不会发生变化。或许，为了捍卫DDI，需要坚持上帝无时无刻的观点。
+
+## Bibliography
+
+* Aristotle, *De Caelo* (*De Cael.*), trans. R. Hardie and R. Gaye, in *The Basic Works of Aristotle*, ed. Richard McKeon, NY: Random House, 1941.
+* Aristotle, *Physics* (*Phys.*), tr. J. Stocks, in *The Basic Works of Aristotle*, ed. Richard McKeon, NY: Random House, 1941.
+* Azadegan, Ebrahim, 2022, “On the incompatibility of God’s knowledge of particulars and the doctrine of divine immutability,” *Religious Studies* 58, 327–344.
+* –––, 2023, “Necessary Existence, Immutability, and God’s Knowledge of Particulars,” *Philosophy East and West* 73, 188–196.
+* Boethius, *The Consolation of Philosophy*, trans. H. Stewart, in *Boethius: The Theological Tractates*, trans. H. Stewart and E. K. Rand, Cambridge, MA: Loeb Classical Library, Harvard University Press, 1936.
+* Brown, Robert F., 1991, “Divine Omniscience, Immutability, Aseity, and Human Free Will,” *Religious Studies: An International Journal for the Philosophy of Religion*, 27: 285–295.
+* Castañeda, Hector-Neri, 1967, “Omniscience and Indexical Reference,” *Journal of Philosophy*, 64: 203–210.
+* Craig, William L., 2001, *God, Time and Eternity*, Dordrecht: Kluwer.
+* –––, 2004, “Wierenga No A-Theorist Either,” *Faith and Philosophy*, 21: 105–109.
+* Cumming, David, 2003, “Descartes on the Immutability of the Divine Will,” *Religious Studies: An International Journal for the Philosophy of Religion*, 39 (1): 79–92.
+* Dorner, Isaak, tr. Robert Williams and Claude Welch, 1994, *Divine Immutability*, Minneapolis: Fortress Press.
+* Duby, Stephen, 2017, “Divine Immutability, Divine Action and the God–World Relation,” *International Journal of Systematic Theology* 19, 144–162.
+* –––, 2022, *Jesus and the God of Classical Theism*, Grand Rapids: Baker Academic.
+* Ekstrom, Laura, 2000, *Free Will*, Boulder: Westview.
+* Francescotti, Robert (ed.), 2017, *Companion to Intrinsic Properties*, Berlin: De Gruyter.
+* Gale, Richard, 1986, “Omniscience-Immutability Arguments,” *American Philosophical Quarterly*, 23: 319–35.
+* Hallman, Joseph, 1981, “The Mutability of God: Tertullian to Lactantius,” *Theological Studies*, 42: 373–93.
+* Hartshorne, Charles, 1948, *The Divine Relativity*, New Haven: Yale University Press.
+* Helm, Paul, 1988, *Eternal God*, New York: Oxford University Press.
+* Kane, Robert, 1996, *The Significance of Free Will*, Oxford: Oxford University Press.
+* Kaufman, Dan, 2005, “God’s Immutability and the Necessity of Descartes’s Eternal Truths”, *Journal of the History of Philosophy*, 43: 1–19.
+* Kretzmann, Norman, 1966, “Omniscience and Immutability,” *Journal of Philosophy*, 63: 409–421.
+* Kretzmann, Norman, and Eleonore Stump, 1981, “Eternity,” *Journal of Philosophy*, 78: 429–458.
+* Kvanvig, Jonathan, 1986, *The Possibility of an All-Knowing God*, New York: St. Martin’s Press.
+* Leftow, Brian, 1991, *Time and Eternity*, Ithaca, NY: Cornell University Press.
+* Mann, William, 1987, “Immutability and Predication,” *International Journal for Philosophy of Religion*, 22: 21–39.
+* –––, 1983, “Simplicity and Immutability in God”, *International Philosophical Quarterly*, 23: 267–276.
+* McHugh, Christopher, 2003, “A Refutation of Gale’s Creation-Immutability Arguments,” *Philo*, 6: 5-9.
+* Pawl, Timothy, 2016, *In Defense of Conciliar Christology*, Oxford: Oxford University Press.
+* Philo, *On the Unchangeableness of God*, trans. F. Colson and G. Whitaker, in *Philo*, trans. F. Colson and G. Whitaker, Cambridge, MA: Loeb Classical Library (Volume 3), Harvard University press, 1960.
+* Plato, *Phaedo*, trans. G. Grube, Indianapolis: Hackett, 1977.
+* Plato, *Republic*, trans. G. Grube and C. Reeve, Indianapolis: Hackett, 1992.
+* Sorabji, Richard, 1983, *Time, Creation and the Continuum*, Ithaca, NY: Cornell University Press.
+* Stump, Eleonore, 1996, “Libertarian Freedom and the Principle of Alternative Possibilities,” in Jeff Jordan & Daniel Howard-Snyder (eds.), *Faith, Freedom, and Rationality*, Lanham: Rowman and Littlefield.
+* Sullivan, Thomas D., 1991, “Omniscience, Immutability, and the Divine Mode of Knowing,” *Faith and Philosophy*, 8: 21–35.
+* Swinburne, Richard, 1993, *The Coherence of Theism*, rev. ed., Oxford: Oxford University Press.
+* Wierenga, Edward, 1989, *The Nature of God*, Ithaca: Cornell University Press.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=immutability). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/immutability/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=immutability&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/immutability/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Boethius, Anicius Manlius Severinus](https://plato.stanford.edu/entries/boethius/) | [change: and inconsistency](https://plato.stanford.edu/entries/change/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/)
+
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
+[Brian Leftow](https://www.philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/954-leftow-brian) <[*brian.leftow@rutgers.edu*](mailto:brian%2eleftow%40rutgers%2eedu)>
