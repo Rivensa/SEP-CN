@@ -1,7 +1,25 @@
 # Table of contents
 
-* [SEP-CN2](README.md)
-
 ## J
 
-* [弗里德里希·海因里希·雅可比 Jacobi, Friedrich Heinrich (Paolo Livieri and George di Giovanni)](j/fu-li-de-li-xi-hai-yin-li-xi-ya-ke-bi-jacobi-friedrich-heinrich-paolo-livieri-and-george-di-giovanni.md)
+* [弗里德里希·海因里希·雅可比 Jacobi, Friedrich Heinrich (Paolo Livieri and George di Giovanni)](README.md)
+* [耆那教哲学 Jaina Philosophy (Marie-Hélène Gorisse)](j/qi-na-jiao-zhe-xue-jaina-philosophy-mariehlne-gorisse.md)
+* [威廉·詹姆斯 James, William (Russell Goodman)](j/wei-lian-zhan-mu-si-james-william-russell-goodman.md)
+* [维泰博的詹姆斯 James of Viterbo (Antoine Côté)](j/wei-tai-bo-de-zhan-mu-si-james-of-viterbo-antoine-ct.md)
+* [日本哲学 Japanese Philosophy (Thomas Kasulis)](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/README.md)
+  * [日本美学 aesthetics (Graham Parkes and Adam Loughnane)](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/ri-ben-mei-xue-aesthetics-graham-parkes-and-adam-loughnane.md)
+  * [日本儒学 Confucian (John Tucker)](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/ri-ben-ru-xue-confucian-john-tucker.md)
+  * [日本国学 Kokugaku School \[Native Japan Studies School\] (Gideon Fujiwara and Peter Nosco)](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/ri-ben-guo-xue-kokugaku-school-native-japan-studies-school-gideon-fujiwara-and-peter-nosco.md)
+  * [空海 Kūkai (John Krummel)](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/kong-hai-kkai-john-krummel.md)
+  * [京都学派 Kyoto School (Bret W. Davis)](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/jing-du-xue-pai-kyoto-school-bret-w.-davis.md)
+  * [\*西田几多郎——见西田几多郎 Nishida Kitarō — see Nishida Kitarō](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/xi-tian-ji-duo-lang-jian-xi-tian-ji-duo-lang-nishida-kitar-see-nishida-kitar.md)
+  * [日本净土宗哲学 Pure Land (Dennis Hirota)](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/ri-ben-jing-tu-zong-zhe-xue-pure-land-dennis-hirota.md)
+  * [\*和辻哲郎——见和辻哲郎 Watsuji Tetsurō — see Watsuji Tetsurō](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/he-shi-zhe-lang-jian-he-shi-zhe-lang-watsuji-tetsur-see-watsuji-tetsur.md)
+  * [日本禅宗哲学 Zen Buddhism (Shigenori Nagatomo)](j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/ri-ben-chan-zong-zhe-xue-zen-buddhism-shigenori-nagatomo.md)
+* [卡尔·雅斯贝尔斯 Jaspers, Karl (Chris Thornhill and Ronny Miron)](j/ka-er-ya-si-bei-er-si-jaspers-karl-chris-thornhill-and-ronny-miron.md)
+* [伽耶惹悉·巴札 Jayarāśi (Piotr Balcerowicz)](j/qie-ye-re-xi-ba-zha-jayari-piotr-balcerowicz.md)
+* [托马斯·杰斐逊 Jefferson, Thomas (M. Andrew Holowchak)](j/tuo-ma-si-jie-fei-xun-jefferson-thomas-m.-andrew-holowchak.md)
+* [威廉姆·斯坦利·杰文斯 Jevons, William Stanley (Bert Mosselmans)](j/wei-lian-mu-si-tan-li-jie-wen-si-jevons-william-stanley-bert-mosselmans.md)
+* [ 索尔兹伯里的约翰 John of Salisbury (Karen Bollermann and Cary Nederman)](j/suo-er-zi-bo-li-de-yue-han-john-of-salisbury-karen-bollermann-and-cary-nederman.md)
+* [艾米莉·伊丽莎白·康斯坦茨·琼斯 Jones, Emily Elizabeth Constance (Gary Ostertag)](j/ai-mi-li-yi-li-suo-bai-kang-si-tan-ci-qiong-si-jones-emily-elizabeth-constance-gary-ostertag.md)
+* [\*犹大·哈列维——见犹大·哈列维 Judah Halevi — see Halevi, Judah](j/you-da-ha-lie-wei-jian-you-da-ha-lie-wei-judah-halevi-see-halevi-judah.md)
