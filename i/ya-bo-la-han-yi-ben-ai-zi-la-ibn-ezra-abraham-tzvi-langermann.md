@@ -1,6 +1,6 @@
 # 亚伯拉罕·伊本·埃兹拉 Ibn Ezra, Abraham (Tzvi Langermann)
 
-*首次发表于2006年12月19日，实质性修订于2018年10月22日。*
+_首次发表于2006年12月19日，实质性修订于2018年10月22日。_
 
 所有犹太哲学史都包括了亚伯拉罕·伊本·埃兹拉的记载，并且从他对该领域的影响来看，他确实值得得到他所获得的认可。然而，他是如何获得这种认可的，却是一个困难的历史问题。伊本·埃兹拉在哲学的任何分支上几乎没有做出任何贡献；他几乎没有撰写过严格的哲学著作，事实上，我们没有理由认为他接受过任何严格的哲学训练。然而，他确实在犹太思想上留下了自己的痕迹，他的言论被后来的人记录并受到尊重。
 
@@ -11,8 +11,8 @@
 尽管如此，伊本·埃兹拉成为了一位智者，他的言论虽然简短而晦涩，但具有权威性和影响力。在某种程度上，他在哲学方面的作用，或者更好地说，在传播某些哲学教义方面的作用，并不与他在数学、天文学和占星术方面的作用有太大的区别。他在这些领域的大量著作并没有什么深度或独创性，但毫无疑问，它们在整个欧洲的知识传播中起到了关键作用，尤其是在犹太社区中，尽管不仅限于此。虽然不能提供一个完整且完全令人满意的答案，但我们认为有几个因素促成了他的成功：勤奋努力、广泛旅行、圣经注释这一非常受欢迎的传播方式、赋予占星术重要地位的理性思维，以及将个体置于集体之上的救赎论。
 
 * [1. 亚伯拉罕·伊本·埃兹拉的生平和著作](https://plato.stanford.edu/entries/ibn-ezra/#LifWor)
-* [ 2. 占星术](https://plato.stanford.edu/entries/ibn-ezra/#Ast)
-* [ 3. 影响](https://plato.stanford.edu/entries/ibn-ezra/#Imp)
+* [2. 占星术](https://plato.stanford.edu/entries/ibn-ezra/#Ast)
+* [3. 影响](https://plato.stanford.edu/entries/ibn-ezra/#Imp)
 * [4. 强调个体](https://plato.stanford.edu/entries/ibn-ezra/#EmpUpoInd)
 * [5. 他思想的特点](https://plato.stanford.edu/entries/ibn-ezra/#ChaHisTho)
 * [6. 伊本·埃兹拉的哲学是什么？他的哲学家是谁？](https://plato.stanford.edu/entries/ibn-ezra/#WhaForIbnEzrWhoHisPhi)
@@ -21,15 +21,14 @@
 * [9. 在传道书评论中关于灵魂的插曲](https://plato.stanford.edu/entries/ibn-ezra/#ExcSouComEcc)
 * [10. 诫命的理论基础：Yesod Mora](https://plato.stanford.edu/entries/ibn-ezra/#RatCom)
 * [11. 哲学寓言：哈伊·本·梅基茨](https://plato.stanford.edu/entries/ibn-ezra/#PhiAllHayBenMeq)
-* [ 参考书目](https://plato.stanford.edu/entries/ibn-ezra/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/ibn-ezra/#PriSou)
-  * [ 二次来源](https://plato.stanford.edu/entries/ibn-ezra/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/ibn-ezra/#Aca)
+* [参考书目](https://plato.stanford.edu/entries/ibn-ezra/#Bib)
+  * [主要来源](https://plato.stanford.edu/entries/ibn-ezra/#PriSou)
+  * [二次来源](https://plato.stanford.edu/entries/ibn-ezra/#SecSou)
+* [学术工具](https://plato.stanford.edu/entries/ibn-ezra/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/ibn-ezra/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ibn-ezra/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/ibn-ezra/#Rel)
 
----
+***
 
 ## 1. 生平与作品
 
@@ -79,7 +78,7 @@
 
 伊本·埃兹拉作为一位哲学家的评价在 14 世纪和 15 世纪达到了顶峰。他的《托拉注释》中有一些注释相当详细，遍布地中海地区（西蒙，1993 年）。伊本·埃兹拉的著作也在阿拉伯语社区中得到了知名度。其中至少有一本超级注释是用犹太阿拉伯语写的，例如，亚伯拉罕·迈蒙尼德斯在他自己的《托拉注释》中引用了伊本·埃兹拉的观点。拜占庭犹太学者们特别致力于研究伊本·埃兹拉的哲学著作。莫迪凯·库姆蒂亚努（康特亚诺）对《Yesod Mora》和《Sefer ha-Shem》进行了评论，尽力按照他最为熟悉的（基本上是亚里士多德的）哲学思想来阅读伊本·埃兹拉的著作。
 
-利维·本·格尔森（Levi ben Gerson）无疑是中世纪犹太传统中最系统和最原创的思想家之一，他对亚伯拉罕·伊本·埃兹拉（Abraham Ibn Ezra）的引用与他对摩西·迈蒙尼德（Moses Maimonides）一样恭敬。例如，他讨论了上帝的知识，特别是关于上帝是否知道发生在个体身上的特定事件，或者他只是“一般地”知道这个事件，即通过他对“事件排序的知识，因为这些事件是有序的。”利维支持第二个选项，并在章节的结尾暗示迈蒙尼德和伊本·埃兹拉都会同意他的观点。对于迈蒙尼德的观点，利维可以参考《迷惑者指南》3.20 中持续的讨论；但对于伊本·埃兹拉，他只引用了创世记 18:21 中简洁的评论，其中写道：“事实是他一般地知道每一个特定的事情，而不是作为一个特定的事情。”[1] 值得注意的是，利维必须同时引用迈蒙尼德和伊本·埃兹拉来支持他自己的观点与《托拉》不矛盾的主张；这两位权威人物被利用，不是因为他们在这个问题上的论证，而是因为他们作为解经学家的声望。
+利维·本·格尔森（Levi ben Gerson）无疑是中世纪犹太传统中最系统和最原创的思想家之一，他对亚伯拉罕·伊本·埃兹拉（Abraham Ibn Ezra）的引用与他对摩西·迈蒙尼德（Moses Maimonides）一样恭敬。例如，他讨论了上帝的知识，特别是关于上帝是否知道发生在个体身上的特定事件，或者他只是“一般地”知道这个事件，即通过他对“事件排序的知识，因为这些事件是有序的。”利维支持第二个选项，并在章节的结尾暗示迈蒙尼德和伊本·埃兹拉都会同意他的观点。对于迈蒙尼德的观点，利维可以参考《迷惑者指南》3.20 中持续的讨论；但对于伊本·埃兹拉，他只引用了创世记 18:21 中简洁的评论，其中写道：“事实是他一般地知道每一个特定的事情，而不是作为一个特定的事情。”\[1] 值得注意的是，利维必须同时引用迈蒙尼德和伊本·埃兹拉来支持他自己的观点与《托拉》不矛盾的主张；这两位权威人物被利用，不是因为他们在这个问题上的论证，而是因为他们作为解经学家的声望。
 
 伊本·埃兹拉从未被遗忘，他的著作在各种文化和历史背景下引起了兴趣。然而，对他在犹太思想中的地位的看法发生了重大变化。因此，十六世纪威尼斯学者朱达·莫斯卡托（Judah Moscato）在对哈莱维（Halevi）的《库扎里》进行了非常博学的评论时，将伊本·埃兹拉与格尔森尼德（Gersonides）并列，而对抗迈蒙尼德和哈莱维——前者否认了无中生有的创造，后者则为其辩护（Langermann 1997, 517）。
 
@@ -95,7 +94,7 @@
 
 这一系列论证得出了两个结论。首先，以掌握法律的所有细节为意义的托拉学习不能成为我们存在的终极目的。其次，终极目的并不在于个人对社区的贡献。伊本·埃兹拉现在准备陈述生活的目标是什么：
 
-“人（ha-adam）必须使自己正确。他必须了解上帝的诫命，上帝创造了一切。他必须尽全力去理解[上帝的]作为-然后他将认识到他的创造者...当他认识到他时，他将在他的眼中找到恩宠。”在引用一些圣经证据之后-这在阿拉伯语社区中已经成为标准观点，即知识是真正的崇拜形式-伊本·埃兹拉总结道：“这就是人类被创造的原因。一旦一个人纠正了自己，他可以纠正其他人，如果可能的话”（科恩 2002 年，83-84）。
+“人（ha-adam）必须使自己正确。他必须了解上帝的诫命，上帝创造了一切。他必须尽全力去理解\[上帝的]作为-然后他将认识到他的创造者...当他认识到他时，他将在他的眼中找到恩宠。”在引用一些圣经证据之后-这在阿拉伯语社区中已经成为标准观点，即知识是真正的崇拜形式-伊本·埃兹拉总结道：“这就是人类被创造的原因。一旦一个人纠正了自己，他可以纠正其他人，如果可能的话”（科恩 2002 年，83-84）。
 
 从表面上看，伊本·埃兹拉符合托拉赋予生命意义的传统。然而，法律现在只是上帝的众多杰作之一，而不一定是最重要的。伊本·埃兹拉明显赞同当时哲学家中流行的观点，即人类存在的目的和目标是认识上帝。这个责任落在每个人身上；它不是一个共同的项目，事实上，伊本·埃兹拉对“理想城市”没有兴趣。然而，他仅仅陈述了这个目标；他没有智力理论，没有精细甚至粗糙的认识论。实际上，他已经严重贬低了托拉的学习，但他以一种不刺人的方式做到了这一点。（事实上，关于伊本·埃兹拉本人了解多少“托拉”的问题存在长期争议。）这是伊本·埃兹拉悄然而不夸张地将激进观点融入传统的经典例子。
 
@@ -123,19 +122,19 @@
 
 犹太哲学的历史学家将伊本·埃兹拉的思想称为“新柏拉图主义”，这主要是因为他对占星术和数理学的深入研究，以及他对超脱尘世的强烈渴望。然而，在中世纪犹太哲学的历史中，“新柏拉图主义”这个术语通常被不准确地使用，它通常只是指“亚里士多德派”和其他所有人之间的明显分歧，而这些人通常被标记为新柏拉图主义者。因此，值得注意的是，伊本·埃兹拉与一些广泛接受的新柏拉图主义教义存在分歧。伊本·埃兹拉否认了恶魔的存在。他对灵魂通过天体球体下降的教义没有提及，尽管他的同时代人伪巴希亚知道这个教义，这可能自然地吸引了一个占星术士。最后，他对音乐的和谐没有提及——尽管他的《哈埃哈德》（Langermann 1993, 66）明显受到毕达哥拉斯主义的影响。总之，伊本·埃兹拉主要使用了一些常见的概念，比如“三个世界”，这些概念构成了所谓的伊斯兰和犹太新柏拉图主义的基础。沃尔夫森最有力地证明了伊本·埃兹拉与普罗提诺斯之间的“确切术语联系”，但他甚至无法追溯传承的路径（沃尔夫森，1990年，第89-90页）。
 
-亚伯拉罕·伊本·埃兹拉给出了一个鲜为人知但有很多支持的特征描述，他是著名的摩西·迈蒙尼德的儿子。在他的新颖观点中，伊本·埃兹拉将自己置于一系列教授基本教义的拉比名单中，这些教义包括上帝不是物质的；上帝不表现出任何物质的属性；所有有问题的圣经经文必须（重新）解释以符合这些教义。有趣的是，亚伯拉罕·迈蒙尼德名单上的其他名字还包括：萨阿迪亚·迦夫尼、萨缪尔·本·霍夫尼、以撒·阿尔法西、约瑟夫·伊本·米加什。[2]今天只有第一个被认为是哲学家，而且仅仅是在更广泛的意义上。看来，亚伯拉罕和他的父亲一样，将整个名单（包括伊本·埃兹拉在内）视为 mutakallimūn，即教授可接受（尽管不一定正确）的神学的卡拉米派宗教思想家，这种神学缺乏哲学严谨性，并包含一些严重错误。
+亚伯拉罕·伊本·埃兹拉给出了一个鲜为人知但有很多支持的特征描述，他是著名的摩西·迈蒙尼德的儿子。在他的新颖观点中，伊本·埃兹拉将自己置于一系列教授基本教义的拉比名单中，这些教义包括上帝不是物质的；上帝不表现出任何物质的属性；所有有问题的圣经经文必须（重新）解释以符合这些教义。有趣的是，亚伯拉罕·迈蒙尼德名单上的其他名字还包括：萨阿迪亚·迦夫尼、萨缪尔·本·霍夫尼、以撒·阿尔法西、约瑟夫·伊本·米加什。\[2]今天只有第一个被认为是哲学家，而且仅仅是在更广泛的意义上。看来，亚伯拉罕和他的父亲一样，将整个名单（包括伊本·埃兹拉在内）视为 mutakallimūn，即教授可接受（尽管不一定正确）的神学的卡拉米派宗教思想家，这种神学缺乏哲学严谨性，并包含一些严重错误。
 
 实际上，萨阿迪亚的《信仰与观点》是伊本·埃兹拉提到的唯一一部现存的关于犹太哲学的实质性著作。这个引用出现在《摩拉的基础》第一章的最后；伊本·埃兹拉观察到，萨阿迪亚的书中有些部分是正确的，但其他部分是毫无根据的。然而，他从未告诉我们哪些部分是可接受的，哪些部分是不可接受的，也没有就任何问题与萨阿迪亚进行有针对性的辩论。在他的著作中，尤其是在他的圣经注释中，伊本·埃兹拉多次提到萨阿迪亚；虽然他很少提到具体的来源，但他似乎最常指的是萨阿迪亚自己的圣经注释。至少根据这个统计数据，萨阿迪亚是伊本·埃兹拉最重要的“影响”。
 
 ## 6. 亚伯拉罕·伊本·埃兹拉对哲学的理解是什么？他的哲学家是谁？
 
-亚伯拉罕·伊本·埃兹拉的著作中充斥着许多希伯来语词汇，可能指的是“哲学家”或“哲学”，其中没有一个非常准确，其中一些可能是伊本·埃兹拉自己创造的。这为我们提供了对伊本·埃兹拉“哲学”的特殊性质的额外视角。希伯来语中表示“哲学”或“哲学家”的同音词（通过阿拉伯语进入希伯来语）从未出现在圣经注释中。在克拉茨金的词典中引用的唯一例子中，据报道伊本·埃兹拉将这个词用于天文学家的狭义意义上，这与他的前辈亚伯拉罕·巴尔·希亚（他密切研究了他的天文著作）的用法类似。这未必是真的；在克拉茨金引用的唯一例子中，filosofim 出现在与 hakhamim 并列的位置上，hakhamim 是一个通用词，意思是七种或十种科学的学者或大师。[3]尽管如此，伊本·埃兹拉似乎确实没有对 falsafa 有任何概念，就像它在阿拉伯哲学中的用法那样，即柏拉图和亚里士多德传统的狭义意义上。
+亚伯拉罕·伊本·埃兹拉的著作中充斥着许多希伯来语词汇，可能指的是“哲学家”或“哲学”，其中没有一个非常准确，其中一些可能是伊本·埃兹拉自己创造的。这为我们提供了对伊本·埃兹拉“哲学”的特殊性质的额外视角。希伯来语中表示“哲学”或“哲学家”的同音词（通过阿拉伯语进入希伯来语）从未出现在圣经注释中。在克拉茨金的词典中引用的唯一例子中，据报道伊本·埃兹拉将这个词用于天文学家的狭义意义上，这与他的前辈亚伯拉罕·巴尔·希亚（他密切研究了他的天文著作）的用法类似。这未必是真的；在克拉茨金引用的唯一例子中，filosofim 出现在与 hakhamim 并列的位置上，hakhamim 是一个通用词，意思是七种或十种科学的学者或大师。\[3]尽管如此，伊本·埃兹拉似乎确实没有对 falsafa 有任何概念，就像它在阿拉伯哲学中的用法那样，即柏拉图和亚里士多德传统的狭义意义上。
 
 术语 shiqqul ha-da‘at（理性分析，字面上是“用理性权衡”）在广义上指的是理性或合理性。在他对《托拉》的注释引言中，伊本·埃兹拉写道：“理性分析（shiqqul ha-da‘at）是基础，因为托拉不是给那些没有理性的人的；人与上帝之间的中介（mal’akh，“天使”或“使者”）是他的智慧。”不久之后（创世纪 1:2 的注释中），相同的术语在可能再次被视为严格的天文学或科学背景下使用：“运用理性分析的人们有确凿的证据表明只有一个地球。”伊本·埃兹拉在精确科学方面的基础比哲学更加牢固，这一事实在他对 filosofim 和 shiqqul ha-da‘at 的使用中得到了体现。
 
-在一些情况下，可以缩小伊本·埃兹拉使用的术语的意义。一个例子是“以证据为基础的学者”（hakhmei ha-ra'ayot），它出现在一篇关于心理学的论述中，我们将在下面详细研究。约瑟夫·伊本·阿克宁（Joseph Ibn Aqnin）使用了一个非常类似的表达：“逻辑学家，他们提出证据（ra'ayot）来加强伊斯兰教，以及以实在主义者（mutakallimūn）称之的以实在主义者（kalamists）。”[4]鉴于伊本·埃兹拉对以实在主义的依恋，其中一些已经被注意到，很明显，这里所讨论的术语，也许还有其他术语，指的是以实在主义的医生。因此，这里和其他地方对逻辑和证据的引用实际上代表了基于理性的争论，但不一定遵循亚里士多德逻辑的规则。
+在一些情况下，可以缩小伊本·埃兹拉使用的术语的意义。一个例子是“以证据为基础的学者”（hakhmei ha-ra'ayot），它出现在一篇关于心理学的论述中，我们将在下面详细研究。约瑟夫·伊本·阿克宁（Joseph Ibn Aqnin）使用了一个非常类似的表达：“逻辑学家，他们提出证据（ra'ayot）来加强伊斯兰教，以及以实在主义者（mutakallimūn）称之的以实在主义者（kalamists）。”\[4]鉴于伊本·埃兹拉对以实在主义的依恋，其中一些已经被注意到，很明显，这里所讨论的术语，也许还有其他术语，指的是以实在主义的医生。因此，这里和其他地方对逻辑和证据的引用实际上代表了基于理性的争论，但不一定遵循亚里士多德逻辑的规则。
 
-伊本·埃兹拉使用的另一个术语是 hakhemei（或：anshei）ha-mehqar，字面意思是“学者”（或：探究之人）。巴尔·希亚（Bar Hiyya）将 hakhemei ha-mehqar 一词用于哲学家的意义上：“关于这个形式，hakhemei ha-mehqar 说它既不是物质也不附着于物质。”[5]
+伊本·埃兹拉使用的另一个术语是 hakhemei（或：anshei）ha-mehqar，字面意思是“学者”（或：探究之人）。巴尔·希亚（Bar Hiyya）将 hakhemei ha-mehqar 一词用于哲学家的意义上：“关于这个形式，hakhemei ha-mehqar 说它既不是物质也不附着于物质。”\[5]
 
 Tushiyya 是另一个术语。在一个地方，伊本·埃兹拉将探究之人的观点与 Tushiyya 的观点进行对比，这表明前者是以实在主义者，而后者是哲学家。在他对诗篇 104:30 的注释中，他指出：“探究之人说每个生物在死后都会复活；Tushiyya 的人说普遍性被保留，但个体消亡。”选择这个术语显然源自萨阿迪亚（Sa'adiah）将 Tushiyya（约伯记 26:3）翻译为 falsafa。然而，这种用法既不具有统计学意义，也不完全一致。
 
@@ -145,7 +144,7 @@ Tushiyya 是另一个术语。在一个地方，伊本·埃兹拉将探究之人
 
 他的著作中最有趣且真正哲学性的章节与灵魂的回收和改造教义无关，而是与犹太身份的基本问题进行坦率的讨论。在对十诫中的第一诫（出埃及记 20:1）进行的详细注释中，伊本·埃兹拉记录了他与密友和诗人友达·哈莱维的一次对话。哈莱维想知道，为什么上帝选择在西奈山上向犹太人揭示自己，作为将犹太人从埃及带出来的上帝？为什么他不选择将自己揭示为创造天地和人类的上帝？为什么他将自己与仅对以色列重要的事件联系起来，而不是与具有普遍意义的事件联系起来？对标准哲学观点的隐含批评在伊本·埃兹拉的全部作品中一贯明显。如果创造是存在神明最明显和令人信服的迹象，正如哲学家们所说；如果上帝通过他的作品向我们显现自己-那么，他为什么选择在西奈山上将自己揭示为历史之神，出埃及之神呢？
 
-伊本·埃兹拉以人们对信仰的性质存在差异为开头回答。有些人相信上帝是因为他们听说过他或在圣经中读到过他；但是，如果这种信仰受到任何挑战，他们立即陷入困境。相比之下，那些选择了知识之路的人将从研究矿物和动物王国开始，逐步了解人体的结构和功能，然后再研究天空。因此，学者将从上帝的“方式”上升到对神圣名字的理解。根据伊本·埃兹拉的观点，诫命的前两个字（“我[是]耶和华”）暗示了人们从创造中获得的对上帝的认识；因此，添加“创造天地的上帝”是多余的。
+伊本·埃兹拉以人们对信仰的性质存在差异为开头回答。有些人相信上帝是因为他们听说过他或在圣经中读到过他；但是，如果这种信仰受到任何挑战，他们立即陷入困境。相比之下，那些选择了知识之路的人将从研究矿物和动物王国开始，逐步了解人体的结构和功能，然后再研究天空。因此，学者将从上帝的“方式”上升到对神圣名字的理解。根据伊本·埃兹拉的观点，诫命的前两个字（“我\[是]耶和华”）暗示了人们从创造中获得的对上帝的认识；因此，添加“创造天地的上帝”是多余的。
 
 到目前为止，伊本·埃兹拉一直重申并支持哲学家们的观点。然而，现在他与他们分道扬镳；占星术在这种思想转变中起着关键作用。伊本·埃兹拉观察到，追随这条道路的知识分子否认神在世俗事务中的干预。以色列的星象命运本应在那个特定的时刻不被解放。然而，上帝可以推翻星象，而他在那个星象不吉利的时刻这样做，不仅证明了他的存在，也证明了他创造的宇宙的运行。
 
@@ -177,7 +176,7 @@ Tushiyya 是另一个术语。在一个地方，伊本·埃兹拉将探究之人
 
 亚伯拉罕·伊本·埃兹拉的哲学思想最系统的阐述可以在《敬畏的基础》（Cohen 2002）中找到。值得注意的是，这是一本关于诫命理论的专著，也许是犹太哲学发展的关键领域之一（与圣经解释有些重叠）。和他的其他著作一样，这本书非常简短，包含了一些晦涩的段落，其含义从未被令人满意地阐明，并且与他在其他著作中的言论并不总是一致。有充分的理由相信，《敬畏的基础》是伊本·埃兹拉在去世前不久写的，因此可能是他对这些问题的最后陈述。
 
-《敬畏的基础》的开头包含了对科学的宝贵概述。这不是像阿尔法拉比和其他许多人写的那种正式分类，旨在将所有科学放在适当的位置上。相反，伊本·埃兹拉批判性地审查了犹太学者群体青睐的各个学科。有些人的“全部智慧”仅限于 masora，即圣经中字母和音标的传统清单。有些人只对希伯来语法感兴趣；还有些人只研究圣经，而其他人只对塔木德感兴趣。然而，没有这些群体中的任何一个能够实现他们所追求的智慧，除非他们学习天文学（hokhmat ha-mazalot）。天文学反过来又需要几何学的基础（hokhmat ha-middot）。心理学（hokhmat ha-nefesh）也是必修课，而心理学又需要物理学，或者更准确地说，生理学（toledet ha-shamayim，字面意思是“由天堂产生[或引发]的事物”；toledet 通常指物质的转化，但在伊本·埃兹拉的用法中，几乎总是指生物过程）。最后，逻辑学（hokhmatha-mivta），“所有智慧的平衡”也是不可或缺的。
+《敬畏的基础》的开头包含了对科学的宝贵概述。这不是像阿尔法拉比和其他许多人写的那种正式分类，旨在将所有科学放在适当的位置上。相反，伊本·埃兹拉批判性地审查了犹太学者群体青睐的各个学科。有些人的“全部智慧”仅限于 masora，即圣经中字母和音标的传统清单。有些人只对希伯来语法感兴趣；还有些人只研究圣经，而其他人只对塔木德感兴趣。然而，没有这些群体中的任何一个能够实现他们所追求的智慧，除非他们学习天文学（hokhmat ha-mazalot）。天文学反过来又需要几何学的基础（hokhmat ha-middot）。心理学（hokhmat ha-nefesh）也是必修课，而心理学又需要物理学，或者更准确地说，生理学（toledet ha-shamayim，字面意思是“由天堂产生\[或引发]的事物”；toledet 通常指物质的转化，但在伊本·埃兹拉的用法中，几乎总是指生物过程）。最后，逻辑学（hokhmatha-mivta），“所有智慧的平衡”也是不可或缺的。
 
 在这篇论述的末尾，提到了某种神秘学（sod ha-merkaba, shi‘ur qoma）；伊本·埃兹拉似乎赞同它，但前提是正确的方法。在段落的最后，伊本·埃兹拉试图将所有内容整合成一个连贯的学习计划：“如果一个人既不了解自己的灵魂也不了解自己的身体，他又怎么能试图了解比他更崇高的事物呢？只有那些了解物理学（或生理学？）及其所有证明和逻辑的人，才能了解那些像印章一样被保留下来的普遍规律。天文学可以通过从算术（hokhmat ha-heshbon）、几何学（hokhmat ha-middot）和比例（hokhmat ha-‘arakhim）中得出的明确证据来了解。只有这样，他才能升得更高，了解灵魂的秘密、上位天使和来世。” 这个计划要求研究身体和灵魂，以及天文学，目的是确保普遍规律。然后，人们可以超越星球，进入“灵魂的秘密”和我们自己之外的世界或世界。科学的学习顺序是清楚的，它们之间的联系则不太明显。
 
@@ -203,64 +202,64 @@ Tushiyya 是另一个术语。在一个地方，伊本·埃兹拉将探究之人
 
 ### Primary Sources
 
-* Cohen, J., with Simon, U. (eds.), 2002, *R. Abraham Ibn Ezra. Yesod Mora ve-Sod Torah*, Ramat-Gan: Bar- Ilan University Press.
-* Levin, I., 1985, *Abraham Ibn Ezra Reader: Annotated texts with Introductions and Commentaries*, New York and Tel Aviv: Israel Matz.
-* Sela, S., 2007, *Abraham Ibn Ezra: The Book of Reasons. A Parallel Hebrew-English Crirical Edition of the Two Versions of the Text*, Leiden: Brill
-* –––, 2010, *The Book of the world. A parallel hebrew-english critical edition of the two versions of the text.*, Leiden: Brill
-* –––, 2011, *Abraham Ibn Ezra on Elections, Interrogations, and Medical Astrology: A Parallel Hebrew-English Critical Edition of the Book of Elections (3 Versions), the Book of Interrogations (3 Versions), and the Book of the Luminaries.*, Leiden: Brill
-* –––, 2013, *Abraham Ibn Ezra on Nativities and Continuous Horoscopy: A Parallel Hebrew-English Critical Edition of the Book of Nativities and the Book of Revolution.*, Leiden: Brill
-* Weinberger, L., 2010, *Twilight of a Golden Age: Selected Poems of Abraham Ibn Ezra*, Tuscaloosa: University of Alabama Press.
+* Cohen, J., with Simon, U. (eds.), 2002, _R. Abraham Ibn Ezra. Yesod Mora ve-Sod Torah_, Ramat-Gan: Bar- Ilan University Press.
+* Levin, I., 1985, _Abraham Ibn Ezra Reader: Annotated texts with Introductions and Commentaries_, New York and Tel Aviv: Israel Matz.
+* Sela, S., 2007, _Abraham Ibn Ezra: The Book of Reasons. A Parallel Hebrew-English Crirical Edition of the Two Versions of the Text_, Leiden: Brill
+* –––, 2010, _The Book of the world. A parallel hebrew-english critical edition of the two versions of the text._, Leiden: Brill
+* –––, 2011, _Abraham Ibn Ezra on Elections, Interrogations, and Medical Astrology: A Parallel Hebrew-English Critical Edition of the Book of Elections (3 Versions), the Book of Interrogations (3 Versions), and the Book of the Luminaries._, Leiden: Brill
+* –––, 2013, _Abraham Ibn Ezra on Nativities and Continuous Horoscopy: A Parallel Hebrew-English Critical Edition of the Book of Nativities and the Book of Revolution._, Leiden: Brill
+* Weinberger, L., 2010, _Twilight of a Golden Age: Selected Poems of Abraham Ibn Ezra_, Tuscaloosa: University of Alabama Press.
 
 ### Secondary Sources
 
-* Burnett, C., 1997, *The Introduction of Arabic Learning into England*, London: The British Library.
-* Cohen, J., 1996, *The Philosophy of R. Abraham Ibn Ezra*, Rishon le-Zion: Shai [Hebrew].
-* Fenton, P., 2001, “Abraham Ibn Ezra, a-t-il composé un commentaire sur le Livre de la Création?” *Revue des études juives*, 111: 33–59.
-* Freudenthal, G., 2013, “Abraham Ibn Ezra and Judah Ibn Tibbon as Cultural Intermediaries,” in *Exchange and Transmission across Cultural Boundaries: Philosophy, Mysticism, and Science in the Mediterranean World*, H. Ben-Shammai, S. Shaked, and S. Stroumsa (eds.), Jerusalem: Israel Academy.
-* Goldstein, B.R., 1996, “Astronomy and Astrology in the Works of Abraham ibn Ezra,” *Arabic Sciences and philosophy*, 6: 9–21.
-* Greive, H., 1973, *Studien zum jüdischen Neuplatnismus.* *Die Religionsphilosophie des Abraham Ibn Ezra*. Berlin-New York: De Gruyter.
-* Guttmann, J., 1973, *Philosophies of Judaism*, New York: Schoken.
-* Harris, J.M., 1993, “Ibn Ezra in Modern Jewish Perspective,” in *Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath*, I. Twersky and J.M. Harris (eds.), Cambridge, MA: Harvard University Press.
-* Hughes, A., 1999, “Two approaches to the love of God in medieval Jewish thought: The concept of *devequt* in the works of Ibn Ezra and Judah Halevi,” *Studies in Religion/Sciences Religieuses*, 28: 139–151.
-* –––, 2002, “The Three Worlds of ibn Ezra’s *Hay ben Meqitz*,” *The Journal of Jewish Thought and Philosophy*, 11: 1–24.
-* –––, 2004, *The Texture of the Divine*, Indianapolis: Indiana University Press.
-* –––, 2009, “The Soul In Jewish Neoplatonism: A Case Study Of Abraham Ibn Ezra And Judah Halevi,” in *The Afterlife of the Platonic Soul*, M. Elkaisy-Friemuth & John M. Dillon (eds.), Leiden: Brill.
-* Husik, I., 1969, *A History of Mediaeval Jewish Philosophy*, New York: Atheneum.
-* Kreisel, H.T., 1994, “On the term ‘*kol*’ in Abraham Ibn Ezra: a reappraisal,” *Revue des études juives*, 153: 29–66.
-* Labaton, S., 2015, *Abraham ibn Ezra’s Interpretation of the Tabernacle: A Case Study in the Relationship between Peshaṭ and Sod*, Ph.D. Dissertation, New York University.
-* Lancaster, I., 2002, *Deconstructing the Bible: Abraham Ibn Ezra’s Introduction to the Torah*, London: Routledge.
-* Langermann, Y.T., 1993, “Some Astrological Themes in the Thought of Abraham ibn Ezra,” in *Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath*, I. Twersky and J.M. Harris (eds.), Cambridge, U.S.A: Harvard University Press.
-* –––, 1997, “Science and the Kuzari,” *Science in Context*, 10: 495–522
-* Lawee E, 2017, “A Genre Is Born: The Genesis, Dynamics, and Role of Hebrew Exegetical Supercommentaries,” *Revue des études juives*, 176: 295–332.
-* Levin, I., 1992, “‘Cling to the Ladder of Wisdom’ (The Influence of Neoplatonic Psychology on the Poetry of Abraham Ibn Ezra),” in *Te‘udah* (*Studies in the Work of Abraham Ibn Ezra*: Volume 8), I. Levin (ed.), Tel Aviv: Tel Aviv University Press, 1992 [Hebrew].
-* Sela, S., 2001, “Abraham ibn Ezra’s Scientific Corpus—Basic Constituents and General Characterization,” *Arabic Sciences and philosophy* 11:91–149.
-* –––, 2004, “Queries on Astrology sent from Southern France  to Maimonides: Critical edition of the Hebrew Text, Translation, and Commentary,” *Aleph* 4:89–190.
-* Sela, S., and Freudenthal, G., 2006, “Abraham Ibn Ezra’s Scholarly Writings: A Chronological Listing,” *Aleph*, 6: 13–55.
-* Simon, U., 1993, “Interpreting the Interpreter: Supercommentaries on Ibn Ezra’s Commentaries,” in *Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath*, I. Twersky and J.M. Harris (eds.), Cambridge, U.S.A: Harvard University Press.
-* Sirat, C., 1985, *A History of Jewish Philosophy in the Middle Ages*, Cambridge: Cambridge University Press.
-* Tanenbaum, A., 1990, “Beholding the Splendor of the Creator: Conceptions of the Soul in the Poetry of Abraham Ibn Ezra,” in *Abraham Ibn Ezra y su tiempo*, F.D. Esteban (ed.), Madrid: Asociación Espanola de Orientalistas.
-* Twersky, I., 1993, “Did R. Abraham Ibn Ezra Influence Maimonides?” in *Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath*, I. Twersky and J.M. Harris (eds.), Cambridge, MA: Harvard University Press [Hebrew].
-* Wolfson, E.R., 1990, “God, the Demiurge and the Intellect: on the usage of the word ‘*kol*’ in Abraham Ibn Ezra,” *Revue des études juives*, 149: 77–111.
+* Burnett, C., 1997, _The Introduction of Arabic Learning into England_, London: The British Library.
+* Cohen, J., 1996, _The Philosophy of R. Abraham Ibn Ezra_, Rishon le-Zion: Shai \[Hebrew].
+* Fenton, P., 2001, “Abraham Ibn Ezra, a-t-il composé un commentaire sur le Livre de la Création?” _Revue des études juives_, 111: 33–59.
+* Freudenthal, G., 2013, “Abraham Ibn Ezra and Judah Ibn Tibbon as Cultural Intermediaries,” in _Exchange and Transmission across Cultural Boundaries: Philosophy, Mysticism, and Science in the Mediterranean World_, H. Ben-Shammai, S. Shaked, and S. Stroumsa (eds.), Jerusalem: Israel Academy.
+* Goldstein, B.R., 1996, “Astronomy and Astrology in the Works of Abraham ibn Ezra,” _Arabic Sciences and philosophy_, 6: 9–21.
+* Greive, H., 1973, _Studien zum jüdischen Neuplatnismus._ _Die Religionsphilosophie des Abraham Ibn Ezra_. Berlin-New York: De Gruyter.
+* Guttmann, J., 1973, _Philosophies of Judaism_, New York: Schoken.
+* Harris, J.M., 1993, “Ibn Ezra in Modern Jewish Perspective,” in _Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath_, I. Twersky and J.M. Harris (eds.), Cambridge, MA: Harvard University Press.
+* Hughes, A., 1999, “Two approaches to the love of God in medieval Jewish thought: The concept of _devequt_ in the works of Ibn Ezra and Judah Halevi,” _Studies in Religion/Sciences Religieuses_, 28: 139–151.
+* –––, 2002, “The Three Worlds of ibn Ezra’s _Hay ben Meqitz_,” _The Journal of Jewish Thought and Philosophy_, 11: 1–24.
+* –––, 2004, _The Texture of the Divine_, Indianapolis: Indiana University Press.
+* –––, 2009, “The Soul In Jewish Neoplatonism: A Case Study Of Abraham Ibn Ezra And Judah Halevi,” in _The Afterlife of the Platonic Soul_, M. Elkaisy-Friemuth & John M. Dillon (eds.), Leiden: Brill.
+* Husik, I., 1969, _A History of Mediaeval Jewish Philosophy_, New York: Atheneum.
+* Kreisel, H.T., 1994, “On the term ‘_kol_’ in Abraham Ibn Ezra: a reappraisal,” _Revue des études juives_, 153: 29–66.
+* Labaton, S., 2015, _Abraham ibn Ezra’s Interpretation of the Tabernacle: A Case Study in the Relationship between Peshaṭ and Sod_, Ph.D. Dissertation, New York University.
+* Lancaster, I., 2002, _Deconstructing the Bible: Abraham Ibn Ezra’s Introduction to the Torah_, London: Routledge.
+* Langermann, Y.T., 1993, “Some Astrological Themes in the Thought of Abraham ibn Ezra,” in _Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath_, I. Twersky and J.M. Harris (eds.), Cambridge, U.S.A: Harvard University Press.
+* –––, 1997, “Science and the Kuzari,” _Science in Context_, 10: 495–522
+* Lawee E, 2017, “A Genre Is Born: The Genesis, Dynamics, and Role of Hebrew Exegetical Supercommentaries,” _Revue des études juives_, 176: 295–332.
+* Levin, I., 1992, “‘Cling to the Ladder of Wisdom’ (The Influence of Neoplatonic Psychology on the Poetry of Abraham Ibn Ezra),” in _Te‘udah_ (_Studies in the Work of Abraham Ibn Ezra_: Volume 8), I. Levin (ed.), Tel Aviv: Tel Aviv University Press, 1992 \[Hebrew].
+* Sela, S., 2001, “Abraham ibn Ezra’s Scientific Corpus—Basic Constituents and General Characterization,” _Arabic Sciences and philosophy_ 11:91–149.
+* –––, 2004, “Queries on Astrology sent from Southern France  to Maimonides: Critical edition of the Hebrew Text, Translation, and Commentary,” _Aleph_ 4:89–190.
+* Sela, S., and Freudenthal, G., 2006, “Abraham Ibn Ezra’s Scholarly Writings: A Chronological Listing,” _Aleph_, 6: 13–55.
+* Simon, U., 1993, “Interpreting the Interpreter: Supercommentaries on Ibn Ezra’s Commentaries,” in _Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath_, I. Twersky and J.M. Harris (eds.), Cambridge, U.S.A: Harvard University Press.
+* Sirat, C., 1985, _A History of Jewish Philosophy in the Middle Ages_, Cambridge: Cambridge University Press.
+* Tanenbaum, A., 1990, “Beholding the Splendor of the Creator: Conceptions of the Soul in the Poetry of Abraham Ibn Ezra,” in _Abraham Ibn Ezra y su tiempo_, F.D. Esteban (ed.), Madrid: Asociación Espanola de Orientalistas.
+* Twersky, I., 1993, “Did R. Abraham Ibn Ezra Influence Maimonides?” in _Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath_, I. Twersky and J.M. Harris (eds.), Cambridge, MA: Harvard University Press \[Hebrew].
+* Wolfson, E.R., 1990, “God, the Demiurge and the Intellect: on the usage of the word ‘_kol_’ in Abraham Ibn Ezra,” _Revue des études juives_, 149: 77–111.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ibn-ezra). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ibn-ezra/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ibn-ezra&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/ibn-ezra/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ibn-ezra).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ibn-ezra/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ibn-ezra\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/ibn-ezra/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-arabic-islamic-kalam | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on Judaic thought](https://plato.stanford.edu/entries/arabic-islamic-judaic/) | [Halevi, Judah](https://plato.stanford.edu/entries/halevi/) | [Ibn Gabirol, Solomon [Avicebron]](https://plato.stanford.edu/entries/ibn-gabirol/) | [Maimonides](https://plato.stanford.edu/entries/maimonides/) | [Neoplatonism](https://plato.stanford.edu/entries/neoplatonism/) | [Saadya [Saadiah]](https://plato.stanford.edu/entries/saadya/)
+arabic-islamic-kalam | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on Judaic thought](https://plato.stanford.edu/entries/arabic-islamic-judaic/) | [Halevi, Judah](https://plato.stanford.edu/entries/halevi/) | [Ibn Gabirol, Solomon \[Avicebron\]](https://plato.stanford.edu/entries/ibn-gabirol/) | [Maimonides](https://plato.stanford.edu/entries/maimonides/) | [Neoplatonism](https://plato.stanford.edu/entries/neoplatonism/) | [Saadya \[Saadiah\]](https://plato.stanford.edu/entries/saadya/)
 
 ### Acknowledgments
 
 The editors are grateful to Jasper Pirasteh for his help in correcting a number of typographical errors.
 
-[Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
+[Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Tzvi Langermann
