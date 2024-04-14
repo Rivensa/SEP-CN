@@ -335,7 +335,7 @@
   * [\*印度佛教中的伦理学——见印度佛教中的伦理学 ethics in Indian Buddhism — see ethics: in Indian Buddhism](b/fo-jiao-buddhism/yin-du-fo-jiao-zhong-de-lun-li-xue-jian-yin-du-fo-jiao-zhong-de-lun-li-xue-ethics-in-indian-buddhism.md)
   * [\*印度佛教哲学中的心灵——见印度佛教哲学中的心灵 mind in Indian Buddhist Philosophy — see mind: in Indian Buddhist Philosoph](b/fo-jiao-buddhism/yin-du-fo-jiao-zhe-xue-zhong-de-xin-ling-jian-yin-du-fo-jiao-zhe-xue-zhong-de-xin-ling-mind-in-india.md)
   * [\*天台——见中国哲学：佛教天台宗 Tiantai — see Chinese Philosophy: Tiantai Buddhism](b/fo-jiao-buddhism/tian-tai-jian-zhong-guo-zhe-xue-fo-jiao-tian-tai-zong-tiantai-see-chinese-philosophy-tiantai-buddhis.md)
-  * [\*禅宗——见日本哲学：佛教禅宗 Zen — see Japanese Philosophy: Zen Buddhism](b/fo-jiao-buddhism/chan-zong-jian-ri-ben-zhe-xue-fo-jiao-chan-zong-zen-see-japanese-philosophy-zen-buddhism.md)
+  * [\*禅宗——见日本哲学：日本禅宗哲学 Zen — see Japanese Philosophy: Zen Buddhism](b/fo-jiao-buddhism/chan-zong-jian-ri-ben-zhe-xue-ri-ben-chan-zong-zhe-xue-zen-see-japanese-philosophy-zen-buddhism.md)
 * [\*佛教：华严——见中国哲学：华严宗 Buddhism: Huayan — see Chinese Philosophy: Huayan Buddhism](b/fo-jiao-hua-yan-jian-zhong-guo-zhe-xue-hua-yan-zong-buddhism-huayan-see-chinese-philosophy-huayan-bu.md)
 * [\*丛束理论——见实体 bundle theory — see substance](b/cong-shu-li-lun-jian-shi-ti-bundle-theory-see-substance.md)
 * [让·布里丹 Buridan, John \[Jean\] (Jack Zupko)](b/rang-bu-li-dan-buridan-john-jean-jack-zupko.md)

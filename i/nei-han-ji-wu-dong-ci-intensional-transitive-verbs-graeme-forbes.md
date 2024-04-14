@@ -1,5 +1,6 @@
 # 内涵及物动词 intensional transitive verbs (Graeme Forbes)
-*首次发表于2004年11月3日星期三；实质性修订于2020年5月7日星期四。*
+
+_首次发表于2004年11月3日星期三；实质性修订于2020年5月7日星期四。_
 
 一个动词是及物动词，当且仅当它通常与直接宾语一起出现，并且在这种情况下被称为及物动词。因此，在“我吃了肉，留下了蔬菜”中，“吃了”是及物动词，但在“我吃了然后离开了”中不是（也许这两个例子中的“离开”不是同一个动词，但它们似乎是同一个“吃了”）。一个动词是内涵动词，如果它与其补语形成的动词短语（VP）在以下三种方式中至少有一种是异常的：（i）用与其补语中的指称相同的另一个表达式替换它可以改变VP所在句子的真值 - 例如，你可能欣赏马克·吐温但不欣赏塞缪尔·克莱门斯，没有意识到你讨厌的邻居山姆是那位著名作家（在这种情况下，将与其补语中的“马克·吐温”替换为“塞缪尔·克莱门斯”将把一个真句子“你欣赏马克·吐温”变成一个假句子“你欣赏塞缪尔·克莱门斯”）；（ii）如果VP包含一个量词或某种类型的量词，那么VP可以具有特殊的“不特定”解读（奎恩的例子（1956:185）很有名：他观察到，如果我们将“我想要一艘帆船”改写为“存在一艘（特定的）帆船，我想要它”，如果我只是想要“摆脱没有帆船的困境”，一艘帆船但不是特定的一艘，这样的改写会给出错误的理解；更多例子，请参见第1节）；（iii）即使嵌套句子没有否定，名字和存在量词在补语中的正常存在承诺也会被暂停（同样，请参见第1节）。
 
@@ -7,21 +8,21 @@
 
 * [1. 一些 ITV 的群体及其行为](https://plato.stanford.edu/entries/intensional-trans-verbs/#SomeGrouITVsTheiBeha)
 * [2. 有多少机制对应多少标记？](https://plato.stanford.edu/entries/intensional-trans-verbs/#HowManyMechForHowManyMark)
-* [ 3. 命题主义](https://plato.stanford.edu/entries/intensional-trans-verbs/#Prop)
-* [ 4. 蒙塔格的语义学](https://plato.stanford.edu/entries/intensional-trans-verbs/#MontSema)
+* [3. 命题主义](https://plato.stanford.edu/entries/intensional-trans-verbs/#Prop)
+* [4. 蒙塔格的语义学](https://plato.stanford.edu/entries/intensional-trans-verbs/#MontSema)
 * [5. 修订和完善](https://plato.stanford.edu/entries/intensional-trans-verbs/#ReviRefi)
-* [ 6. 先验之谜](https://plato.stanford.edu/entries/intensional-trans-verbs/#PrioPuzz)
+* [6. 先验之谜](https://plato.stanford.edu/entries/intensional-trans-verbs/#PrioPuzz)
 * [7. 内涵及物动词的逻辑](https://plato.stanford.edu/entries/intensional-trans-verbs/#LogiInteTran)
-* [ 参考文献](https://plato.stanford.edu/entries/intensional-trans-verbs/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/intensional-trans-verbs/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/intensional-trans-verbs/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/intensional-trans-verbs/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/intensional-trans-verbs/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/intensional-trans-verbs/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/intensional-trans-verbs/#Rel)
 
----
+***
 
 ## 1. 一些内涵及物动词群体及其行为
 
-搜索动词和欲望动词展示了内涵性的“标志”或效果中列出的三种行为。因此，Lois Lane 可能正在寻找 Superman。但似乎并不意味着她正在寻找 Clark，即使 Superman 就是 Clark，所以我们有了序言中提到的第一种异常的例子：用另一个名字替换同一个人导致嵌入句子（这里是“Lois 正在寻找 Superman”）的真值发生变化。类似地，一个口渴的人相信水可以解渴，而 H2O 是一种毒鼠药，他可能想要一些水，但不想要一些 H2O。[根据一些人的说法，这种替换无法保持真值的失败是一种幻觉；但由于篇幅原因，我不追求这个理论——它的经典论文是（Salmon 1986）。]
+搜索动词和欲望动词展示了内涵性的“标志”或效果中列出的三种行为。因此，Lois Lane 可能正在寻找 Superman。但似乎并不意味着她正在寻找 Clark，即使 Superman 就是 Clark，所以我们有了序言中提到的第一种异常的例子：用另一个名字替换同一个人导致嵌入句子（这里是“Lois 正在寻找 Superman”）的真值发生变化。类似地，一个口渴的人相信水可以解渴，而 H2O 是一种毒鼠药，他可能想要一些水，但不想要一些 H2O。\[根据一些人的说法，这种替换无法保持真值的失败是一种幻觉；但由于篇幅原因，我不追求这个理论——它的经典论文是（Salmon 1986）。]
 
 其次，无论是搜索动词还是欲望动词，在动词的句法对象由冠词后跟名词组成时，都会在其所包含的动词短语中产生特定-不特定的歧义（这种歧义也被称为关系/概念歧义，根据 Quine 1956，这是第一次研究它，至少在现代时期是这样）。例如，“Oedipus 正在寻找他家庭的一个成员”可能是真实的，因为 Oedipus 正在寻找特别是 Jocasta，她是他家庭的成员，尽管他没有意识到。在这种情况下，真实的陈述可以更仔细地陈述为“存在一个他家庭的成员，Oedipus 正在寻找那个人”。通过添加“但没有特定的一个”，强制使用替代的、不具体的或概念性的阅读：“Oedipus 正在寻找他家庭的一个成员，但没有特定的一个”。在这里，暗示 Oedipus 只是有一个一般的意图找到他家庭的某个成员。与外延性的“拥抱”相对比：Oedipus 不能拥抱他家庭的一个成员，但没有特定的一个。
 
@@ -29,7 +30,7 @@
 
 描绘动词，例如“画”，“雕刻”和“想象”，在其句法对象中抵制替换，至少如果是从句的“想象”：如果想象超人救了你与想象克拉克救了你不是同一件事，那么很难理解为什么想象超人会与想象克拉克是同一件事。还可能存在特定/不特定的歧义，诺顿·西蒙博物馆关于格尔奇诺的《奥尔德罗万迪狗》（约 1625 年）的墙标就证明了这一点，它说“这一定是一只特定的狗的肖像”，从而暗示了另一种可能性，即“格尔奇诺画了一只狗”可能被理解为他画了一只狗，但不是特定的狗-他只是编造了一只狗。我们显然可以画出或想象不存在的事物（与拍照不同）。芝加哥艺术学院的策展人认为，布拉克的《诺曼底小港》（1909 年）就是一个例子：“看起来这幅作品是根据想象绘制的，因为所描绘的景观无法辨认。”
 
-然而，是否可以对描绘动词短语进行概念化阅读取决于名词短语补语中出现的量化限定词。如果我们说“Guercino 画了每只狗”，“Guercino 画了大多数狗”，或者“Guercino 画了那只狗”（非指代性的“那只狗”），我们似乎是在提及某个先行领域，以便评估“画了每只/大多数/那只狗”的情况。因此，需要具体的解读。[1]这种对非具体解读的抵抗在各种语言中都很普遍，并且是那些在存在语境中不自然出现的量化限定词的典型特征，例如“有”：将“花园里有一只狗”与“花园里有每只狗”、“花园里有大多数狗”或“花园里有那只狗”进行对比。对于“花园里有每只狗”这种表达的错误（参见 Keenan 2003），可能会包含解释具有“每只”、“大多数”和“那只”等限定词的描绘动词短语缺乏非具体解读的材料；更多信息请参见（Forbes 2006:142–150）。
+然而，是否可以对描绘动词短语进行概念化阅读取决于名词短语补语中出现的量化限定词。如果我们说“Guercino 画了每只狗”，“Guercino 画了大多数狗”，或者“Guercino 画了那只狗”（非指代性的“那只狗”），我们似乎是在提及某个先行领域，以便评估“画了每只/大多数/那只狗”的情况。因此，需要具体的解读。\[1]这种对非具体解读的抵抗在各种语言中都很普遍，并且是那些在存在语境中不自然出现的量化限定词的典型特征，例如“有”：将“花园里有一只狗”与“花园里有每只狗”、“花园里有大多数狗”或“花园里有那只狗”进行对比。对于“花园里有每只狗”这种表达的错误（参见 Keenan 2003），可能会包含解释具有“每只”、“大多数”和“那只”等限定词的描绘动词短语缺乏非具体解读的材料；更多信息请参见（Forbes 2006:142–150）。
 
 需要强调的是，在这方面，描绘动词是特殊的，因为使用“every”、“most”和“the”时，使用愿望动词或搜索动词可以得到非具体解读没有问题。Guercino 可能在奥尔德罗万蒂的庄园里寻找每只狗，尽管没有特定的狗是他在寻找的；读者可能在一个陌生的机场租车场四处开车，寻找出口，在这种情况下，并没有出口被寻找。（“look”实际上不是及物动词，但是当后面的介词是“for”时，表示搜索活动，因此在讨论内涵性的语境中，习惯上将“looking for”之类的词视为“及物动词”）。
 
@@ -49,11 +50,11 @@
 
 莱克斯·卢瑟害怕超人在附近，
 
- 即
+即
 
 (2a)
 
-Lex Luthor 真正害怕超人附近的命题[2]
+Lex Luthor 真正害怕超人附近的命题\[2]
 
 and
 
@@ -67,7 +68,7 @@ and
 
 然而，从表面上看，这只有（1），以（2a）的方式意图表达，表达了一个不同的命题
 
- （2c）
+（2c）
 
 莱克斯·卢瑟担心克拉克就在附近。
 
@@ -109,7 +110,7 @@ and
 
 揭示隐藏材料以在内涵动词短语的概念性解读中提供具有句子范围的名词短语的想法在（Quine 1956）中得到了显著的支持，该提议是用“努力寻找”来解释搜索动词。因此，对于（5a），我们将得到（5b）：
 
- （5a）
+（5a）
 
 路易斯正在寻找外星人
 
@@ -119,7 +120,7 @@ and
 
 Partee (1974, 97) 反对这不可能是整个故事，因为搜索动词并非全部是同义词（“摸索”并不完全意味着“翻找”），但 den Dikken，Larson 和 Ludlow（1996）以及 Parsons（1997, 381）建议将搜索动词本身用于替代“尝试”。所以我们得到
 
- （6a）
+（6a）
 
 Lois 正在寻找外星生物
 
@@ -127,7 +128,7 @@ Lois 正在寻找外星生物
 
 (6b)
 
-路易斯正在寻找，以使命题成真，即一个外星人是这样的，她自己发现它是这样的。[3]
+路易斯正在寻找，以使命题成真，即一个外星人是这样的，她自己发现它是这样的。\[3]
 
 这里，“外星人”在“看”的范围内，但它有一个开放的句子“她自己发现它”作为自己的范围。
 
@@ -177,7 +178,7 @@ Lois 正在寻找外星生物
 
 作为（7）的类比，很难确定（12）是否真正具有“寻找到中午之前更多办公空间”的解读，或者这样一个解读的暗示只是（7）的回声。
 
-其他一些内涵及物动词的群体，如描写动词和评价动词，引发了一个问题，即首先没有明显的命题释义。对于心理描写动词，如“幻想”和“想象”，帕森斯（1997 年，376 页）提出了他所称的“哈姆雷特省略”：对于“玛丽想象了一只独角兽”，我们将有一个从句“玛丽想象了一只独角兽”。拉尔森（2001 年，233 页）认为，补语是一个“小”或“无动词”的从句，对于“马克斯想象了一只独角兽”，他提出了“马克斯在他面前想象了一只独角兽”。这太具体了，因为我们可以理解“马克斯想象了一只独角兽”，而不知道他是在他面前、在他上方还是在他下方想象它，但即使我们将释义改为“马克斯在空间上与他相关地想象了一只独角兽”，这个提议以及帕森斯的提议在否定方面存在问题：“玛丽没有想象一只独角兽”与“玛丽没有想象一只独角兽”或“玛丽没有想象一只与她在空间上相关的独角兽”并不同义，因为第一个允许她想象一只独角兽但不想象它，第二个允许她想象一只独角兽但不与她在空间上相关。可能有排除这些选项的哲学论证，[4]但需要哲学论证的事实使这些提议在语义学上不令人满意。
+其他一些内涵及物动词的群体，如描写动词和评价动词，引发了一个问题，即首先没有明显的命题释义。对于心理描写动词，如“幻想”和“想象”，帕森斯（1997 年，376 页）提出了他所称的“哈姆雷特省略”：对于“玛丽想象了一只独角兽”，我们将有一个从句“玛丽想象了一只独角兽”。拉尔森（2001 年，233 页）认为，补语是一个“小”或“无动词”的从句，对于“马克斯想象了一只独角兽”，他提出了“马克斯在他面前想象了一只独角兽”。这太具体了，因为我们可以理解“马克斯想象了一只独角兽”，而不知道他是在他面前、在他上方还是在他下方想象它，但即使我们将释义改为“马克斯在空间上与他相关地想象了一只独角兽”，这个提议以及帕森斯的提议在否定方面存在问题：“玛丽没有想象一只独角兽”与“玛丽没有想象一只独角兽”或“玛丽没有想象一只与她在空间上相关的独角兽”并不同义，因为第一个允许她想象一只独角兽但不想象它，第二个允许她想象一只独角兽但不与她在空间上相关。可能有排除这些选项的哲学论证，\[4]但需要哲学论证的事实使这些提议在语义学上不令人满意。
 
 对于像“害怕”这样的动词，从句释义甚至更不可能，因为释义中的额外材料可以被理解为害怕的焦点，使得释义不足够。例如，害怕 x 并不等同于害怕遇到 x，因为可能是遇到引起了恐惧，比如 x 是一个有传染病的无害个体。同样，害怕 x 并不等同于害怕 x 会伤害你；例如，你可能害怕你那个容易出事故的牙医会伤害你，而不害怕牙医本人。
 
@@ -201,13 +202,13 @@ Lois 正在寻找外星生物
 
 (13)
 
- **（每个（羊毛的毛衣））（羊毛）**
+**（每个（羊毛的毛衣））（羊毛）**
 
-应该是真的，也就是说，在每个世界上都指向真实。[5]因此，（13）的内涵是类型为 sb 的函数 f，对于每个世界 w，f(w) = 真实。这是一个恒定的内涵。另一方面，
+应该是真的，也就是说，在每个世界上都指向真实。\[5]因此，（13）的内涵是类型为 sb 的函数 f，对于每个世界 w，f(w) = 真实。这是一个恒定的内涵。另一方面，
 
 (14)
 
- **（每个（普林格尔（毛衣）））（羊毛）**
+**（每个（普林格尔（毛衣）））（羊毛）**
 
 在一些世界上是真的，但在其他世界上是假的，那些普林格尔制造非羊毛毛衣的世界；因此它的内涵是非恒定的。
 
@@ -219,7 +220,7 @@ Lois 正在寻找外星生物
 
 **contingent((every(woollen(sweater)))(woollen))**
 
-由于在评估这个公式时，在世界 w 中我们会发现自己试图将可变的引用应用于 w，即刚刚定义的函数 c，以及将(wollen(毛衣))的引用应用于 w，即真值 TRUE。但是 c 需要一个类型为 sb 的输入，而不是 b。因此，我们引入一个新的运算符，写作^，如果 X 是一个表达式，t 是 X 在每个 w 的引用的类型，那么在每个 w，^X 的引用是*st*类型的。 **^** X 可以解读为“X 的内涵”，因为^的规则是，在每个世界上，**^**X 指的是对于每个世界 w，输出 X 在 w 上的引用的函数。
+由于在评估这个公式时，在世界 w 中我们会发现自己试图将可变的引用应用于 w，即刚刚定义的函数 c，以及将(wollen(毛衣))的引用应用于 w，即真值 TRUE。但是 c 需要一个类型为 sb 的输入，而不是 b。因此，我们引入一个新的运算符，写作^，如果 X 是一个表达式，t 是 X 在每个 w 的引用的类型，那么在每个 w，^X 的引用是_st_类型的。 **^** X 可以解读为“X 的内涵”，因为^的规则是，在每个世界上，\*\*^\*\*X 指的是对于每个世界 w，输出 X 在 w 上的引用的函数。
 
 如果我们现在评估
 
@@ -237,7 +238,7 @@ Lois 正在寻找外星生物
 
 最后，我们的类型理论，内涵或外延，是高阶的，因为语义学提供了高阶的量化和引用域。sweater 指的是个体的属性，是一阶属性。（every(sweater)）指的是个体属性的属性，是二阶属性。正如 sweater（我最喜欢的衣服）将成为一件毛衣的属性归属于某个个体一样，我们可以认为（every(sweater))(woollen)将一个属性归属于毛织品的属性。归属于毛织品的是哪个属性？every 的规则确保（every(F)）当且仅当 G 是每个 F 的属性时，G 真正地被谓词化。在这种情况下，G 具有成为每个 F 的属性的属性。因此，（every(F)）代表了成为每个 F 的属性的属性。
 
-将量化的 NP 视为属性的属性的术语意味着它们可以作为任何为属性的属性定义的表达式的参数出现。我们甚至可以挽救那个不理解的学生对“Jack hit someone”的尝试，因为只要“hit”是正确类型的 - 这很容易安排 - 我们可以有（hit(someone))(jack)。这里，hit 接受至少一个人的属性的属性，并产生打击某人的一阶属性，然后将其归属于 Jack。在外延类型理论中，如果（hit(someone))(jack)是良型的，jack 的类型为 i，那么 hit 的类型为((ib)b)(ib)。[6]
+将量化的 NP 视为属性的属性的术语意味着它们可以作为任何为属性的属性定义的表达式的参数出现。我们甚至可以挽救那个不理解的学生对“Jack hit someone”的尝试，因为只要“hit”是正确类型的 - 这很容易安排 - 我们可以有（hit(someone))(jack)。这里，hit 接受至少一个人的属性的属性，并产生打击某人的一阶属性，然后将其归属于 Jack。在外延类型理论中，如果（hit(someone))(jack)是良型的，jack 的类型为 i，那么 hit 的类型为((ib)b)(ib)。\[6]
 
 这对于内涵及物动词的语义学意义重大，因为我们现在有一种表示的方式，可以解释例如
 
@@ -249,7 +250,7 @@ Jack 想要一件羊毛衫
 
 (19)
 
-**want(^(a(woollen(sweater))))(jack)** .[[7](https://plato.stanford.edu/entries/intensional-trans-verbs/notes.html#note-7)]
+**want(^(a(woollen(sweater))))(jack)** .\[[7](https://plato.stanford.edu/entries/intensional-trans-verbs/notes.html#note-7)]
 
 在（19）中，一件羊毛衫在“想要”的范围内。因此，如果我们将（19）表示为（18）的概念阅读，即概念阅读是指量化的名词短语在内涵动词方面具有狭义范围的观点是可持续的。
 
@@ -265,15 +266,15 @@ Montague 关于内涵及物动词的解释在内涵性的三个标志方面如�
 
 在（Thomason 1980）中，采用了一种不同类型的高阶类型理论来追求第二类解决方案。在Thomason的“内涵”逻辑中，命题被视为一个原始范畴，而不是被分析为类型sb的内涵。结果发现，可以基于这一基础构建一种相对熟悉的高阶类型理论，其中，命题的类型在某种程度上起到类似于外延类型理论中真值类型的作用。例如，像orator这样的属性是类型为ip的函数（与ib相对），其中p是命题的类型：给定一个个体作为输入，orator将产生该个体是演说家的命题作为输出。然而，专有名词不被翻译为类型i的术语，因为这样cicero和tully将向orator提供相同的输入，导致相同的命题作为输出：orator(cicero) = orator(tully)。因此，没有相信Cicero是演说家而不相信Tully是演说家。相反，Thomason将专有名词分配给类型（ip）p，即从属性到命题的函数。仅仅因为Cicero和Tully是同一个个体，并不要求我们说cicero和tully在给定相同属性输入时必须产生相同的命题输出。相反，我们可以使cicero(orator)和tully(orator)不同（有关Thomason方法的进一步发展，请参见Muskens 2005）。
 
-将此应用于内涵及物动词只是分配适当的类型的问题，以便“Lucia seeks Cicero”和“Lucia seeks Tully”的翻译是不同的命题（可能具有不同的真值）。我们需要将动词保持为函数，并且我们已经将 cicero 和 tully 的类型设置为（ip）p。 “seeks Cicero”和“seeks Tully”的翻译应该是能够接受类型为（ip）p 的输入（如 lucia），并产生命题作为输出的函数。因此，seeks 接受类型为（ip）p 的输入，并产生接受类型为（ip）p 的输入并产生类型为 p 的输出。因此，seeks 的类型为（（ip）p）（（（ip）p）p），并且我们得到替换失败，因为 seeks（cicero）和 seeks（tully）可以是不同类型的函数（（（ip）p）p），只要 cicero 和 tully 是类型为（ip）p 的不同函数（正如我们已经说过的）。因此，seeks（cicero）可以将 lucia 映射到一个命题，而 seeks（tully）将其（而不是“她”）映射到另一个命题；而这些命题可以具有不同的真值。[8]
+将此应用于内涵及物动词只是分配适当的类型的问题，以便“Lucia seeks Cicero”和“Lucia seeks Tully”的翻译是不同的命题（可能具有不同的真值）。我们需要将动词保持为函数，并且我们已经将 cicero 和 tully 的类型设置为（ip）p。 “seeks Cicero”和“seeks Tully”的翻译应该是能够接受类型为（ip）p 的输入（如 lucia），并产生命题作为输出的函数。因此，seeks 接受类型为（ip）p 的输入，并产生接受类型为（ip）p 的输入并产生类型为 p 的输出。因此，seeks 的类型为（（ip）p）（（（ip）p）p），并且我们得到替换失败，因为 seeks（cicero）和 seeks（tully）可以是不同类型的函数（（（ip）p）p），只要 cicero 和 tully 是类型为（ip）p 的不同函数（正如我们已经说过的）。因此，seeks（cicero）可以将 lucia 映射到一个命题，而 seeks（tully）将其（而不是“她”）映射到另一个命题；而这些命题可以具有不同的真值。\[8]
 
 最后，问题是（19）是否表明 Montague 的语义支持概念性阅读。一个问题是 Montague 对于“get”等外延动词的语义与内涵动词完全相同，而对于“get”，需要额外的规定或意义前提来保证 get（^(a(woollen(sweater))))在 w 上的外延仅在 woollen(sweater)在 w 上的外延将某个个体映射到 TRUE 时，才将 Jack 映射到 TRUE（即使没有金色的羊毛衫，你也可以想要一个，但如果没有，你就不能得到一个）。因此，显然（19）的模式体现了“想要一件羊毛衫”的概念意义和“得到一件羊毛衫”的意义之间的共同之处，这在羊毛衫的存在上是中立的。这是不直观的，但也许不是一个严重的问题，因为可以通过对外延及物动词进行不同的处理来避免这个问题。
 
-一个更紧迫的问题是我们有什么理由认为（19）捕捉到（18）的概念，“没有特定的一个”，的阅读方式。[9]从表面上看，（19）将渴望的态度归因于杰克对于毛衣的属性的态度。这与杰克可能对待一个特定的毛衣的态度是相同的。但我们并不清楚我们对于具有如此多样化对象的单一态度有什么理解，而且困难似乎主要在于概念阅读的提议语义上。对于渴望具有毛衣属性的属性是什么意思呢？
+一个更紧迫的问题是我们有什么理由认为（19）捕捉到（18）的概念，“没有特定的一个”，的阅读方式。\[9]从表面上看，（19）将渴望的态度归因于杰克对于毛衣的属性的态度。这与杰克可能对待一个特定的毛衣的态度是相同的。但我们并不清楚我们对于具有如此多样化对象的单一态度有什么理解，而且困难似乎主要在于概念阅读的提议语义上。对于渴望具有毛衣属性的属性是什么意思呢？
 
 有两种处理这个问题的方法。首先，我们可以在形式语义学中补充阐明什么是对属性的常见态度。其次，我们可以修改分析以消除其中的反直觉方面，但不引入命题主义者隐藏的句子语境。
 
-(Moltmann 1997)和(Richard 2001)都可以被理解为在蒙塔古的一般方法论框架下，对于处于态度关系中的属性的解释。这两种解释都是模态的，涉及到态度在某种意义上与情境“匹配”的可能情况的性质：需求或期望的态度状态在需求或期望得到满足时被匹配，欲望的态度状态在欲望得到满足时被匹配，寻求的态度事件在搜索成功结束时被满足，等等。根据Moltmann的解释（1997年，22-3页），当且仅当在每个最小的情境σ中，该搜索成功结束时，你在σ中找到一件羊毛衫，就会处于寻求^(a(woollen(sweater)))的态度关系中。Richard（2001年，第116页）提供了一个更复杂的分析，旨在处理否定的量化NP（如“没有羊毛衫”，“几件羊毛衫”等）。根据这个解释，一个搜索π要求^(a(P))，当且仅当对于π的每个相关的成功故事m = <w, s>，在s中具有蕴含P的属性的事物在w中的^(a(P))的范围内。这里的s是在w中搜索成功结束时找到的事物的集合。
+(Moltmann 1997)和(Richard 2001)都可以被理解为在蒙塔古的一般方法论框架下，对于处于态度关系中的属性的解释。这两种解释都是模态的，涉及到态度在某种意义上与情境“匹配”的可能情况的性质：需求或期望的态度状态在需求或期望得到满足时被匹配，欲望的态度状态在欲望得到满足时被匹配，寻求的态度事件在搜索成功结束时被满足，等等。根据Moltmann的解释（1997年，22-3页），当且仅当在每个最小的情境σ中，该搜索成功结束时，你在σ中找到一件羊毛衫，就会处于寻求^(a(woollen(sweater)))的态度关系中。Richard（2001年，第116页）提供了一个更复杂的分析，旨在处理否定的量化NP（如“没有羊毛衫”，“几件羊毛衫”等）。根据这个解释，一个搜索π要求^(a(P))，当且仅当对于π的每个相关的成功故事m = \<w, s>，在s中具有蕴含P的属性的事物在w中的^(a(P))的范围内。这里的s是在w中搜索成功结束时找到的事物的集合。
 
 相比之下，（Zimmerman 1993）和（Forbes 2000, 2006）提出了对（19）及其类似结构的修订。Zimmerman（161-2）将量词内涵替换为属性内涵，因为他认为（i）非特指解读仅限于“广义存在量化的名词短语”，以及（ii）与存在量化名词短语中名词相对应的属性可以代表名词短语本身。当然，将非特指解读限制在存在量化中是有争议的（参见我们之前的例子，“Guercino正在寻找Aldrovandi庄园上的每只狗”）。人们也可以想知道，与对象的属性相比，解释与对象的属性之间的寻求关系是否有更少的需要（但是对于这种反对意见的回应，请参见Grzankowski 2018, 146-9）。
 
@@ -291,7 +292,7 @@ Moriarty 回来了是 Moriarty 回来了的命题。
 
 但是我们应该能够用命题描述替换那个从句，这对于“相信”来说确实足够好：“Holmes 相信 Moriarty 回来了”似乎可以推断出 Holmes 相信 Moriarty 回来了的命题，尽管替换的副作用是将从句“相信”转换为及物动词形式。然而，“相信”在这方面是相当特殊的。尽管（20），下面的例子（21a）和（21b）似乎有着非常不同的含义：
 
- （21a）
+（21a）
 
 福尔摩斯{害怕/怀疑}莫里亚蒂已经回来了。
 
@@ -309,7 +310,7 @@ Moriarty 回来了是 Moriarty 回来了的命题。
 
 事件语义（见上文第 5 节）提供了一种替代方案，可以避免任何形式的模棱两可。在（Pietroski 2000）中提出了一个初步的建议，对于“解释”这个词的行为方式与“害怕”和“怀疑”类似，如
 
- （22a）
+（22a）
 
 马丁解释说，虚无本身是无意义的。
 
@@ -335,11 +336,11 @@ Moriarty 回来了是 Moriarty 回来了的命题。
 
 毫无疑问，这里存在着一个真实的现象，但也许它属于语用学而不是语义学。如果我说“我想要一艘船”，那么如果有人提供给我港口中任何一艘漂浮的船，我以没有明确说明的要求船体布满洞的理由拒绝了这个提议，那么他们可以合理地抱怨“你应该说清楚”。但是，我的志愿者的抱怨可能是有道理的，因为正常性是一个默认的含义或前提，一个合作的说话者有义务让她的听众知道当它不起作用时。根据这个观点，你想要一艘船仍然是字面上的真实，尽管你的欲望的细节是特殊的。然而，这还远远不是故事的结束。那些对弱化持怀疑态度的人会发现（Sainsbury 2018, 129–133）中的讨论是令人愉快的。
 
-另一个有趣的逻辑问题涉及到对象归属中分离的量化名词短语的“连接力”。关于分离的连接力在许多其他情境中有大量的文献（例如，Kamp 1973，Loewer 1976，Makinson 1984，Jennings 1994，Zimmerman 2000，Simons 2005，Fox 2007），例如在“x 比 y 或 z 大”和“John 可以对你说法语或意大利语”中展示的情况。在这些情况下，连接力很容易通过简单的分配来捕捉：“x 比 y 大且比 z 大”，“John 可以对你说法语且可以对你说意大利语”。[12]然而，对于内涵及物动词，我们发现相同的连接力，但没有分配的表达。如果我们说 Jack 需要一件羊毛衫或一件绒线夹克，我们是在表达以下意思：（i）他得到一件羊毛衫是满足他需求的一种方式，（ii）他得到一件绒线夹克是满足他需求的另一种方式。但是，“Jack 需要一件羊毛衫或一件绒线夹克”并不意味着 Jack 需要一件羊毛衫和一件绒线夹克。这个最后的连接词指派了两个需求，其中只有一个通过获得令人满意的羊毛衫得到满足。但是，仅仅通过自身的后者获取满足了对羊毛衫或绒线夹克的分离需求。因此，在解释分离归属的语义时面临着一个挑战，同时仍然在一个可以容纳所有连接力情况的框架内——比较级，各种意义上的“可以”，带有分离前提的虚拟语气（“如果 Jack 穿上一件羊毛衫或一件绒线夹克，他会更暖和”）等等；进一步参见（Forbes 2006，97-111）。
+另一个有趣的逻辑问题涉及到对象归属中分离的量化名词短语的“连接力”。关于分离的连接力在许多其他情境中有大量的文献（例如，Kamp 1973，Loewer 1976，Makinson 1984，Jennings 1994，Zimmerman 2000，Simons 2005，Fox 2007），例如在“x 比 y 或 z 大”和“John 可以对你说法语或意大利语”中展示的情况。在这些情况下，连接力很容易通过简单的分配来捕捉：“x 比 y 大且比 z 大”，“John 可以对你说法语且可以对你说意大利语”。\[12]然而，对于内涵及物动词，我们发现相同的连接力，但没有分配的表达。如果我们说 Jack 需要一件羊毛衫或一件绒线夹克，我们是在表达以下意思：（i）他得到一件羊毛衫是满足他需求的一种方式，（ii）他得到一件绒线夹克是满足他需求的另一种方式。但是，“Jack 需要一件羊毛衫或一件绒线夹克”并不意味着 Jack 需要一件羊毛衫和一件绒线夹克。这个最后的连接词指派了两个需求，其中只有一个通过获得令人满意的羊毛衫得到满足。但是，仅仅通过自身的后者获取满足了对羊毛衫或绒线夹克的分离需求。因此，在解释分离归属的语义时面临着一个挑战，同时仍然在一个可以容纳所有连接力情况的框架内——比较级，各种意义上的“可以”，带有分离前提的虚拟语气（“如果 Jack 穿上一件羊毛衫或一件绒线夹克，他会更暖和”）等等；进一步参见（Forbes 2006，97-111）。
 
 我们将提到的倒数第二种推理类型是一种同时出现内涵及物动词和外延动词的推理，即使将内涵动词短语解释为不具体时，推理似乎仍然有效。一个例子：
 
- （23a）
+（23a）
 
 Jack 想要一件羊毛衫
 
@@ -355,7 +356,7 @@ Jack 想要一件羊毛衫
 
 这里要考虑的最后一个例子涉及到内涵及物动词范围内的虚构或神话名字。这些名字可能导致的难题的一个例子（Zalta 1988, 128）是：
 
- （24a）
+（24a）
 
 古希腊人崇拜宙斯。
 
@@ -371,7 +372,7 @@ Jack 想要一件羊毛衫
 
 因此，古希腊人崇拜的是并不存在的东西。
 
- 或者甚至：
+或者甚至：
 
 (24e)
 
@@ -393,85 +394,84 @@ Jack 想要一件羊毛衫
 
 然而，即使暗中操作者理论可能会受到质疑，理由是在其范围内，我们仍然将“生活在奥林匹斯山上”这一概念应用于一个抽象对象上，这是无法理解的。仅仅在无法理解的前面加上“根据神话”并不能使其变得可理解。但显而易见的事实是，（25）既可理解又正确。因此，要么在无法理解的前面加上“根据神话”可以使其变得可理解，要么嵌入句中所发生的事情不能被解释为标准的断言。有关这些问题的进一步讨论，请参见van Inwagen 1977、Parsons 1980、Zalta 1988、Thomasson 1998和Salmon 2002等文献。
 
-
 ## Bibliography
 
-* Almog, J., 1998, “The Subject Verb Object Class I”, *Philosophical Perspectives*, 12: 39–76.
-* Asher, N., 1987, “A Typology for Attitude Verbs”, *Linguistics and Philosophy*, 10: 125–1976.
-* Carnap, R., 1947, *Meaning and Necessity*, Chicago: University of Chicago Press.
-* Cohen, A., 1999, *Think Generic!*, Stanford: CSLI Publications.
-* Crimmins, M., 1992, *Talk About Belief*, Cambridge, MA: The MIT Press.
-* Davidson, D., 1969, “On Saying That”, in *Words and Objections: Essays on the Work of W. V. Quine*, D. Davidson and J. Hintikka (ed.), Dordrecht: Reidel: 158–174.
-* Davidson, D., 1967, “The Logical Form of Action Sentences”, in *The Logic of Decision and Action*, N. Rescher (ed.), Pittsburgh: University of Pittsburgh Press. Reprinted in *Essays on Actions and Events* by Donald Davidson. Oxford: Oxford University Press 1980, pp. 105–121.
-* den Dikken, M., R. Larson and P. Ludlow, 1996, “Intensional ‘Transitive’ Verbs and Concealed Complement Clauses”, *Rivista di Linguistica*, 8: 331–348; also (slightly abridged) in *Readings in the Philosophy of Language* P. Ludlow (ed.), Cambridge, MA: The MIT Press 1997, 1041–1053.
-* –––, 2018, “Intensional Transitive Verbs and Abstract Clausal Complementation”. In *Non-Propositional Intentionality*, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 46–94.
-* Dowty, D., R. Wall, and S. Peters, 1981, *Introduction to Montague Semantics*, Dordrecht: Kluwer Academic Publishers.
-* Forbes, G., 2000, “Objectual Attitudes”, *Linguistics and Philosophy*, 23(2): 141–183.
-* –––, 2006, *Attitude Problems*, Oxford and New York: Oxford University Press.
-* –––, 2018, “Content and Theme in Attitude Ascriptions”, in *Non-Propositional Intentionality*, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 114–133.
-* Fox, D., 2007, “Free Choice and the Theory of Scalar Implicatures”, in *Presupposition and Implicature in Compositional Semantics*, U. Sauerland and P. Stateva (ed.), New York: Palgrave Macmillan, 537–586.
-* Gluer, K. and P. Pagin, 2012, “General Terms and Relational Modality”, *Noûs*, 46(1): 159–199.
-* Graff Fara, Delia, 2013, “Specifying Desires”, *Noûs*, 47(2): 250–272.
-* Grzankowski, A., 2018, “A Theory of Non-Propositional Attitudes”, in *Non-Propositional Intentionality*, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 134–151.
-* Harley, H., 2004, “Wanting, Having and Getting: A Note on Fodor and Lepore 1998”, *Linguistic Inquiry*, 35(2): 255–267.
-* Heim, I. and A. Kratzer, 1998, *Semantics in Generative Grammar*, Oxford and New York: Basil Blackwell.
-* van Inwagen, Peter, 1977, “Creatures of Fiction”, *American Philosophical Quarterly*, 14: 299–308.
-* Jennings, R. E., 1994, *The Genealogy of Disjunction*, Oxford and New York: Oxford University Press.
-* Kamp, H., 1973, “Free Choice Permission”, *Proceedings of the Aristotelian Society*, 74: 57–94.
-* Kaplan, D., 1986, “Opacity”, in *The Philosophy of W. V. Quine*, L. E. Hahn and P. A. Schilpp (ed.), LaSalle: Open Court, 229–289.
-* Keenan, E., 2003, “The Definiteness Effect: Semantic or Pragmatic?” *Natural Language Semantics*, 11: 187–216.
-* King, J., 2002, “Designating Propositions”, *The Philosophical Review*, 111(3): 341–371.
-* Kripke, S., 1972, “Naming and Necessity”, in *Semantics of Natural Language*, D. Davidson and G. Harman (ed.), Dordrecht: Reidel Publishing Company, 252–355. Reprinted as *Naming and Necessity* by Saul Kripke, Oxford: Basil Blackwell, 1980.
-* Larson, R., 2001, “The Grammar of Intensionality”, in *Logical Form and Natural Language*, G. Preyer and G. Peter (ed.), Oxford and New York: Oxford University Press, 228–262.
-* Leslie, S-J., 2008, “Generics: Cognition and Acquisition”, *The Philosophical Review*, 117(1): 1–47.
-* Lewis, D., 1972, “General Semantics”, in *Semantics of Natural Language*, D. Davidson and G. Harman (ed.), Dordrecht: Reidel: 169–218.
-* Loewer, B., 1976, “Counterfactuals with Disjunctive Antecedents”, *The Journal of Philosophy*, 73: 531–537.
-* Makinson, D., 1984, “Stenius’ Approach to Disjunctive Permission”, *Theoria*, 50: 138–147.
-* Moltmann, F., 1997, “Intensional Verbs and Quantifiers”, *Natural Language Semantics*, 5(1): 1–52.
-* –––, 2008, “Intensional Verbs and Their Intentional Objects”, *Natural Language Semantics*, 16(3): 239–270.
-* Montague, M., 2007, “Against Propositionalism”, *Noûs*, 41: 503–518.
-* Montague, R., 1973, “The Proper Treatment of Quantification in Ordinary English”, in *Approaches to Natural Language*, J. Hintikka, J. Moravcsik and P. Suppes(ed.), Dordrecht: Reidel Publishing Company. Also in Montague 1974: 242–270.
-* –––, 1974, *Formal Philosophy: Selected Papers of Richard Montague*, edited by Richmond Thomason, New Haven and London: Yale University Press.
-* Muskens, R., 2005, “Sense and the Computation of Reference”, *Linguistics and Philosophy*, 29(4): 473–504.
-* Nebel, J., 2019, “Hopes, Fears and Other Grammatical Scarecrows”, *The Philosophical Review*, 128(1): 63–105.
-* Parsons, T., 1980, *Nonexistent Objects*, New Haven: Yale University Press.
-* –––, 1990, *Events in the Semantics of English*, Cambridge, MA: The MIT Press.
-* –––, 1997, “Meaning Sensitivity and Grammatical Structure”, in *Structures and Norms in Science*, M. L. Dalla Chiara, K. Doets, D. Mundici and J. v. Benthem (ed.), Dordrecht: Kluwer Academic Publishers: 369–383.
-* Partee, B., 1974, “Opacity and Scope”, in *Semantics and Philosophy*, M. Munitz and P. Unger (ed.), New York: NYU Press, 81–101.
-* Proust, M., 1998, *À La Recherche du Temps Perdu: Combray*, adaptation and drawings by Stéphane Heuet, colors by Véronique Doray, Luçon: Delcourt.
-* Pietroski, P., 2000, “On Explaining That”, *The Journal of Philosophy*, 97(12): 655–662.
-* –––, 2005, *Events and Semantic Architecture*, Oxford and New York: Oxford University Press.
-* Prior, A. N., 1963, “Oratio Obliqua”, *Proceedings of the Aristotelian Society, Supplementary Volume*, 37: 115–146.
-* Quine, W. V., 1956, “Quantifiers and Propositional Attitudes”, *The Philosophical Review*, 53: 177–187.
-* Richard, M., 2001, “Seeking a Centaur, Adoring Adonis: Intensional Transitives and Empty Terms”, in *Figurative Language* (Midwest Studies in Philosophy Volume 25), P. French and H. Wettstein (ed.), Oxford and New York: Basil Blackwell, 103–127.
-* Sainsbury, M., 2018, *Thinking About Things*, Oxford and New York: Oxford University Press.
-* Salmon, N., 1986, *Frege’s Puzzle*, Cambridge, Mass.: The MIT Press.
-* –––, 2002, “Mythical Objects”, in J. Campbell, M. O’Rourke and D. Shier (ed.), *Meaning and Truth*, New York: Seven Bridges Press, 105–123.
-* Schwarz, F., 2006, “On *needing* Propositions and *looking for* Properties”, *Proceedings of Semantics and Linguistic Theory XVI*, M. Gibson, J. Howell (ed.), CLC Publications, Ithaca, New York, 259–276.
-* Simons, M., 2005, “Dividing Things Up: The Semantics of ‘Or’ and the Modal/‘Or’ Interaction”, *Natural Language Semantics*, 13: 271–316.
-* Thomason, R., 1980, “A Model Theory for Propositional Attitudes”, *Linguistics and Philosophy*, 4: 47–70.
-* Thomasson, A., 1998, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
-* Zalta, E., 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: The MIT Press.
-* Zimmerman, T. E., 1993, “On the Proper Treatment of Opacity in Certain Verbs”, *Natural Language Semantics*, 1: 149–179.
-* –––, 2000, “Free Choice Disjunction and Epistemic Possibility”, *Natural Language Semantics*, 8(4): 255–290.
-* –––, 2001, “Unspecificity and Intensionality”, in *Audiatur Vox Sapentiae*, C. Féry and W. Sternefeld (ed.), Berlin: Akademie Verlag.
-* –––, 2006, “Monotonicity in Opaque Verbs”, *Linguistics and Philosophy*, 29: 715–761.
+* Almog, J., 1998, “The Subject Verb Object Class I”, _Philosophical Perspectives_, 12: 39–76.
+* Asher, N., 1987, “A Typology for Attitude Verbs”, _Linguistics and Philosophy_, 10: 125–1976.
+* Carnap, R., 1947, _Meaning and Necessity_, Chicago: University of Chicago Press.
+* Cohen, A., 1999, _Think Generic!_, Stanford: CSLI Publications.
+* Crimmins, M., 1992, _Talk About Belief_, Cambridge, MA: The MIT Press.
+* Davidson, D., 1969, “On Saying That”, in _Words and Objections: Essays on the Work of W. V. Quine_, D. Davidson and J. Hintikka (ed.), Dordrecht: Reidel: 158–174.
+* Davidson, D., 1967, “The Logical Form of Action Sentences”, in _The Logic of Decision and Action_, N. Rescher (ed.), Pittsburgh: University of Pittsburgh Press. Reprinted in _Essays on Actions and Events_ by Donald Davidson. Oxford: Oxford University Press 1980, pp. 105–121.
+* den Dikken, M., R. Larson and P. Ludlow, 1996, “Intensional ‘Transitive’ Verbs and Concealed Complement Clauses”, _Rivista di Linguistica_, 8: 331–348; also (slightly abridged) in _Readings in the Philosophy of Language_ P. Ludlow (ed.), Cambridge, MA: The MIT Press 1997, 1041–1053.
+* –––, 2018, “Intensional Transitive Verbs and Abstract Clausal Complementation”. In _Non-Propositional Intentionality_, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 46–94.
+* Dowty, D., R. Wall, and S. Peters, 1981, _Introduction to Montague Semantics_, Dordrecht: Kluwer Academic Publishers.
+* Forbes, G., 2000, “Objectual Attitudes”, _Linguistics and Philosophy_, 23(2): 141–183.
+* –––, 2006, _Attitude Problems_, Oxford and New York: Oxford University Press.
+* –––, 2018, “Content and Theme in Attitude Ascriptions”, in _Non-Propositional Intentionality_, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 114–133.
+* Fox, D., 2007, “Free Choice and the Theory of Scalar Implicatures”, in _Presupposition and Implicature in Compositional Semantics_, U. Sauerland and P. Stateva (ed.), New York: Palgrave Macmillan, 537–586.
+* Gluer, K. and P. Pagin, 2012, “General Terms and Relational Modality”, _Noûs_, 46(1): 159–199.
+* Graff Fara, Delia, 2013, “Specifying Desires”, _Noûs_, 47(2): 250–272.
+* Grzankowski, A., 2018, “A Theory of Non-Propositional Attitudes”, in _Non-Propositional Intentionality_, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 134–151.
+* Harley, H., 2004, “Wanting, Having and Getting: A Note on Fodor and Lepore 1998”, _Linguistic Inquiry_, 35(2): 255–267.
+* Heim, I. and A. Kratzer, 1998, _Semantics in Generative Grammar_, Oxford and New York: Basil Blackwell.
+* van Inwagen, Peter, 1977, “Creatures of Fiction”, _American Philosophical Quarterly_, 14: 299–308.
+* Jennings, R. E., 1994, _The Genealogy of Disjunction_, Oxford and New York: Oxford University Press.
+* Kamp, H., 1973, “Free Choice Permission”, _Proceedings of the Aristotelian Society_, 74: 57–94.
+* Kaplan, D., 1986, “Opacity”, in _The Philosophy of W. V. Quine_, L. E. Hahn and P. A. Schilpp (ed.), LaSalle: Open Court, 229–289.
+* Keenan, E., 2003, “The Definiteness Effect: Semantic or Pragmatic?” _Natural Language Semantics_, 11: 187–216.
+* King, J., 2002, “Designating Propositions”, _The Philosophical Review_, 111(3): 341–371.
+* Kripke, S., 1972, “Naming and Necessity”, in _Semantics of Natural Language_, D. Davidson and G. Harman (ed.), Dordrecht: Reidel Publishing Company, 252–355. Reprinted as _Naming and Necessity_ by Saul Kripke, Oxford: Basil Blackwell, 1980.
+* Larson, R., 2001, “The Grammar of Intensionality”, in _Logical Form and Natural Language_, G. Preyer and G. Peter (ed.), Oxford and New York: Oxford University Press, 228–262.
+* Leslie, S-J., 2008, “Generics: Cognition and Acquisition”, _The Philosophical Review_, 117(1): 1–47.
+* Lewis, D., 1972, “General Semantics”, in _Semantics of Natural Language_, D. Davidson and G. Harman (ed.), Dordrecht: Reidel: 169–218.
+* Loewer, B., 1976, “Counterfactuals with Disjunctive Antecedents”, _The Journal of Philosophy_, 73: 531–537.
+* Makinson, D., 1984, “Stenius’ Approach to Disjunctive Permission”, _Theoria_, 50: 138–147.
+* Moltmann, F., 1997, “Intensional Verbs and Quantifiers”, _Natural Language Semantics_, 5(1): 1–52.
+* –––, 2008, “Intensional Verbs and Their Intentional Objects”, _Natural Language Semantics_, 16(3): 239–270.
+* Montague, M., 2007, “Against Propositionalism”, _Noûs_, 41: 503–518.
+* Montague, R., 1973, “The Proper Treatment of Quantification in Ordinary English”, in _Approaches to Natural Language_, J. Hintikka, J. Moravcsik and P. Suppes(ed.), Dordrecht: Reidel Publishing Company. Also in Montague 1974: 242–270.
+* –––, 1974, _Formal Philosophy: Selected Papers of Richard Montague_, edited by Richmond Thomason, New Haven and London: Yale University Press.
+* Muskens, R., 2005, “Sense and the Computation of Reference”, _Linguistics and Philosophy_, 29(4): 473–504.
+* Nebel, J., 2019, “Hopes, Fears and Other Grammatical Scarecrows”, _The Philosophical Review_, 128(1): 63–105.
+* Parsons, T., 1980, _Nonexistent Objects_, New Haven: Yale University Press.
+* –––, 1990, _Events in the Semantics of English_, Cambridge, MA: The MIT Press.
+* –––, 1997, “Meaning Sensitivity and Grammatical Structure”, in _Structures and Norms in Science_, M. L. Dalla Chiara, K. Doets, D. Mundici and J. v. Benthem (ed.), Dordrecht: Kluwer Academic Publishers: 369–383.
+* Partee, B., 1974, “Opacity and Scope”, in _Semantics and Philosophy_, M. Munitz and P. Unger (ed.), New York: NYU Press, 81–101.
+* Proust, M., 1998, _À La Recherche du Temps Perdu: Combray_, adaptation and drawings by Stéphane Heuet, colors by Véronique Doray, Luçon: Delcourt.
+* Pietroski, P., 2000, “On Explaining That”, _The Journal of Philosophy_, 97(12): 655–662.
+* –––, 2005, _Events and Semantic Architecture_, Oxford and New York: Oxford University Press.
+* Prior, A. N., 1963, “Oratio Obliqua”, _Proceedings of the Aristotelian Society, Supplementary Volume_, 37: 115–146.
+* Quine, W. V., 1956, “Quantifiers and Propositional Attitudes”, _The Philosophical Review_, 53: 177–187.
+* Richard, M., 2001, “Seeking a Centaur, Adoring Adonis: Intensional Transitives and Empty Terms”, in _Figurative Language_ (Midwest Studies in Philosophy Volume 25), P. French and H. Wettstein (ed.), Oxford and New York: Basil Blackwell, 103–127.
+* Sainsbury, M., 2018, _Thinking About Things_, Oxford and New York: Oxford University Press.
+* Salmon, N., 1986, _Frege’s Puzzle_, Cambridge, Mass.: The MIT Press.
+* –––, 2002, “Mythical Objects”, in J. Campbell, M. O’Rourke and D. Shier (ed.), _Meaning and Truth_, New York: Seven Bridges Press, 105–123.
+* Schwarz, F., 2006, “On _needing_ Propositions and _looking for_ Properties”, _Proceedings of Semantics and Linguistic Theory XVI_, M. Gibson, J. Howell (ed.), CLC Publications, Ithaca, New York, 259–276.
+* Simons, M., 2005, “Dividing Things Up: The Semantics of ‘Or’ and the Modal/‘Or’ Interaction”, _Natural Language Semantics_, 13: 271–316.
+* Thomason, R., 1980, “A Model Theory for Propositional Attitudes”, _Linguistics and Philosophy_, 4: 47–70.
+* Thomasson, A., 1998, _Fiction and Metaphysics_, Cambridge: Cambridge University Press.
+* Zalta, E., 1988, _Intensional Logic and the Metaphysics of Intentionality_, Cambridge, MA: The MIT Press.
+* Zimmerman, T. E., 1993, “On the Proper Treatment of Opacity in Certain Verbs”, _Natural Language Semantics_, 1: 149–179.
+* –––, 2000, “Free Choice Disjunction and Epistemic Possibility”, _Natural Language Semantics_, 8(4): 255–290.
+* –––, 2001, “Unspecificity and Intensionality”, in _Audiatur Vox Sapentiae_, C. Féry and W. Sternefeld (ed.), Berlin: Akademie Verlag.
+* –––, 2006, “Monotonicity in Opaque Verbs”, _Linguistics and Philosophy_, 29: 715–761.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intensional-trans-verbs). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/intensional-trans-verbs/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=intensional-trans-verbs&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/intensional-trans-verbs/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intensional-trans-verbs).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/intensional-trans-verbs/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=intensional-trans-verbs\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/intensional-trans-verbs/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[compositionality](https://plato.stanford.edu/entries/compositionality/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [generic generalizations](https://plato.stanford.edu/entries/generics/) | [logic: intensional](https://plato.stanford.edu/entries/logic-intensional/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [semantics: Montague](https://plato.stanford.edu/entries/montague-semantics/)
+[compositionality](https://plato.stanford.edu/entries/compositionality/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [generic generalizations](https://plato.stanford.edu/entries/generics/) | [logic: intensional](https://plato.stanford.edu/entries/logic-intensional/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [semantics: Montague](https://plato.stanford.edu/entries/montague-semantics/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[Graeme Forbes](http://www.colorado.edu/philosophy/people/graeme-forbes) <[*graeme.forbes@colorado.edu*](mailto:graeme%2eforbes%40colorado%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[Graeme Forbes](http://www.colorado.edu/philosophy/people/graeme-forbes) <[_graeme.forbes@colorado.edu_](mailto:graeme%2eforbes%40colorado%2eedu)>

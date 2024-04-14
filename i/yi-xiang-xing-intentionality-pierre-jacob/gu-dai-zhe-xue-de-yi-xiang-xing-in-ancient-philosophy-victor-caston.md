@@ -1,6 +1,6 @@
 # 古代哲学的意向性 in ancient philosophy (Victor Caston)
 
-*首次发表于2003年9月22日星期一；实质性修订于2019年10月18日星期五。*
+_首次发表于2003年9月22日星期一；实质性修订于2019年10月18日星期五。_
 
 在最近几十年里，哲学家们经常提到“意向性”，大致上指的是信念、欲望和其他心理状态具有的特征，使它们能够对某事物有所指或者更一般地说，具有内容；与“有意的”在日常用法中所暗示的相反，它并不仅限于实际状态，比如有意做某事或者有意识地行动。这个技术术语的流行很大程度上要归功于埃德蒙·胡塞尔，他从自己的老师弗朗茨·布伦塔诺那里借用了这个术语。1874年，布伦塔诺提出了这个特征作为心理学与自然科学之间的界限的标准，并明确地引用了中世纪的学院哲学术语（intentio, esse intentionale）来重新引入这个概念。布伦塔诺关于心理标准的论点在哲学界的命运多舛。但对意向性本身的兴趣仍然持续不减。
 
@@ -8,16 +8,16 @@
 
 * [1. 术语的历史](https://plato.stanford.edu/entries/intentionality-ancient/#HistTerm)
 * [2. 问题的历史](https://plato.stanford.edu/entries/intentionality-ancient/#HistProb)
-* [ 3. 柏拉图之前](https://plato.stanford.edu/entries/intentionality-ancient/#BefoPlat)
-* [ 4. 柏拉图](https://plato.stanford.edu/entries/intentionality-ancient/#Plat)
-* [ 5. 亚里士多德](https://plato.stanford.edu/entries/intentionality-ancient/#Aris)
-* [ 6. 斯多嘉学派](https://plato.stanford.edu/entries/intentionality-ancient/#Stoi)
-* [ 参考书目](https://plato.stanford.edu/entries/intentionality-ancient/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/intentionality-ancient/#Aca)
+* [3. 柏拉图之前](https://plato.stanford.edu/entries/intentionality-ancient/#BefoPlat)
+* [4. 柏拉图](https://plato.stanford.edu/entries/intentionality-ancient/#Plat)
+* [5. 亚里士多德](https://plato.stanford.edu/entries/intentionality-ancient/#Aris)
+* [6. 斯多嘉学派](https://plato.stanford.edu/entries/intentionality-ancient/#Stoi)
+* [参考书目](https://plato.stanford.edu/entries/intentionality-ancient/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/intentionality-ancient/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/intentionality-ancient/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/intentionality-ancient/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/intentionality-ancient/#Rel)
 
----
+***
 
 ## 1. 术语的历史
 
@@ -61,7 +61,7 @@
 
 ## 4. 柏拉图
 
-在他的对话中，柏拉图强调了各种心理状态的关系性：视觉、听觉、触觉和一般感知、记忆、信念、知识、概念、言语、爱（《费德鲁斯篇》152c、160a-b、163e、188d-189b；《理想国篇》V，476e、478b；《巴门尼德篇》132b-c；《苏菲斯篇》262e、263c；《饮宴篇》199d）。在每种情况下，苏格拉底（或其他主要发言人）问这个心理状态是否“关于某事或关于无物”，对话者们一致认为它总是关于某事——这种状态不可能完全不关于任何事物。在《查尔米德篇》中，苏格拉底让克里提亚斯同意更强的观点，即这些状态中的许多——视觉、听觉和其他形式的感知、欲望、意向、爱、恐惧和信念——必须有一个与它们自身不同的对象；他还暗示，如果知识不是这样的话，那将是奇怪的（167c-168a）。但在这方面，心理状态与其他亲属并无不同，正如他自己强调的：苏格拉底有时会补充一些非意向性的例子，比如兄弟姐妹、父母和子女、双胞胎和一半，以说明他的观点。在上述一些段落中，苏格拉底在这个问题之后提出了另一个问题，这个问题只对心理状态有关，即它们是否总是关于“存在的”而不是关于“不存在的”东西。尽管发言者们乐意同意这些状态必须总是关于存在的东西，但意向性的问题已经出现，仅仅是因为他提出了有时某些状态可能是关于不存在的东西，无论是关于不是事实的东西还是关于不存在的东西。在《费利伯斯篇》中，这个替代方案被明确提出：就像一个人可以相信某件事情，而这种信念并不是关于任何曾经存在、存在或将来存在的东西，一个人也可以对某件事情感到愉悦、恐惧、愤怒等，即使它不是关于任何曾经存在、存在或将来存在的东西。 在所有这些情况下，这些信念、快乐、恐惧等等被称为“虚假”（pseudē，*Phlb.* 40c–e）。
+在他的对话中，柏拉图强调了各种心理状态的关系性：视觉、听觉、触觉和一般感知、记忆、信念、知识、概念、言语、爱（《费德鲁斯篇》152c、160a-b、163e、188d-189b；《理想国篇》V，476e、478b；《巴门尼德篇》132b-c；《苏菲斯篇》262e、263c；《饮宴篇》199d）。在每种情况下，苏格拉底（或其他主要发言人）问这个心理状态是否“关于某事或关于无物”，对话者们一致认为它总是关于某事——这种状态不可能完全不关于任何事物。在《查尔米德篇》中，苏格拉底让克里提亚斯同意更强的观点，即这些状态中的许多——视觉、听觉和其他形式的感知、欲望、意向、爱、恐惧和信念——必须有一个与它们自身不同的对象；他还暗示，如果知识不是这样的话，那将是奇怪的（167c-168a）。但在这方面，心理状态与其他亲属并无不同，正如他自己强调的：苏格拉底有时会补充一些非意向性的例子，比如兄弟姐妹、父母和子女、双胞胎和一半，以说明他的观点。在上述一些段落中，苏格拉底在这个问题之后提出了另一个问题，这个问题只对心理状态有关，即它们是否总是关于“存在的”而不是关于“不存在的”东西。尽管发言者们乐意同意这些状态必须总是关于存在的东西，但意向性的问题已经出现，仅仅是因为他提出了有时某些状态可能是关于不存在的东西，无论是关于不是事实的东西还是关于不存在的东西。在《费利伯斯篇》中，这个替代方案被明确提出：就像一个人可以相信某件事情，而这种信念并不是关于任何曾经存在、存在或将来存在的东西，一个人也可以对某件事情感到愉悦、恐惧、愤怒等，即使它不是关于任何曾经存在、存在或将来存在的东西。 在所有这些情况下，这些信念、快乐、恐惧等等被称为“虚假”（pseudē，_Phlb._ 40c–e）。
 
 更重要的是，苏格拉底在几个段落中详细讨论了信念和言辞中的虚假问题，将其视为一个熟悉且重要的需要解决的问题。在《克拉提卢斯篇》中，苏格拉底说，过去和现在有很多人认为不可能说谎，理由是说话时不可能不说出一些存在的东西；克拉提卢斯得出结论，在这种情况下，说谎并说出不存在的东西，说话者只是在发出噪音，没有更多的意义，就像敲锅一样（429d–430a）。在《尤西底德篇》中也提出了一个关于虚假言辞的难题，最初是由尤西底德和狄奥尼索多罗斯兄弟提出的，他们是一对访问的辩士团队，展示他们的争辩能力（283e–284e）。苏格拉底后来重提了这个难题，明确将其归因于“普罗泰戈拉的追随者”和更早的思想家，并明确将其扩展到了虚假信念（286c–d）。这些难题的版本将其框定为是否可以说（或思考）“不存在的事物”：一个人不能说话而不说出一些存在的东西（或思考）；然而，这种事物的存在和不存在是不可能的。但从这个观点来看，说谎就是说出不存在的东西。柏拉图从未明确质疑说话和相信的关系性质，也没有否认关系的要求必须存在或成立。在我们上面考虑的不一致的三元组中，第三个命题“有时我们可以思考不存在/成立的事物”在这些背景下一直受到压力。同时，苏格拉底反对这种立场将自我破坏（Euthyd. 287e–288a），尽管他在这里没有提供进一步的诊断。
 
@@ -75,7 +75,7 @@
 
 ## 5. 亚里士多德
 
-中世纪的意向性理论 - 更不用说受到这些理论影响的近期哲学家，如布伦塔诺（1874 [1995]） - 从亚里士多德的知觉和思维理论中汲取灵感，特别是他关于认知中感知或可理解对象的形式“不带有物质”（《论灵魂》第二卷第12章，424a17-24；第三卷第2章，425b23-24；第三卷第4章，429a15-19；和第三卷第8章，431b26-29）以及对象，或更准确地说，作为认知对象的活动与认知活动“是一致的”并存在于认知主体中（第三卷第2章，425b25-426a27）。知觉和思维都是有意向性的状态，亚里士多德对它们的分析对他的整个心理理论至关重要。但是，这些段落中没有清晰证据表明亚里士多德意识到意向性问题，更不用说提供意向性的定义或任何其基本特征。首先，每个理论都适用于不仅仅是有意向性的状态。印戒在封蜡中的印记不仅仅是一个类比，而是一个真实的形式被接受而不带有物质的例子，这一点甚至被像约翰·菲洛普诺斯和托马斯·阿奎那这样的评论家所接受；菲洛普诺斯还提到镜子中的影像作为另一个例子（菲洛普诺斯，《亚里士多德论灵魂》，444.17-26，437.19-25；托马斯·阿奎那，《亚里士多德论灵魂》2.24，56-59 = §554）。因此，这个理论不能为意向性提供充分条件，更不能为认知或意识提供充分条件。 同样地，亚里士多德辩护他的观点，即对象的活动与认知的活动是一致的，并且以简单地作为更广泛因果关系的一个实例存在于认知主体中：在每一个因果互动中，包括无生命和非认知的互动中，代理者的活动与受体的活动是一致的，并且发生在受体中（《论灵魂》第三篇第二章，426a2-11）。此外，这些学说都不适用于所有的意向状态：它们都无法适用于意向性的典型案例，比如梦境或未来的希望，这些案例中意向性问题最为明显。因此，这两个学说都不能提供意向性的必要条件。它们只是适用于一类特殊的意向状态，比如感知和思考，其中意向状态是关于导致它发生的事物的 - 也就是说，它是关于自身原因的 - 这一点并不适用于一般的意向状态。即使它们被证明是他意向性理论的核心，它们也并没有直接解决问题本身。
+中世纪的意向性理论 - 更不用说受到这些理论影响的近期哲学家，如布伦塔诺（1874 \[1995]） - 从亚里士多德的知觉和思维理论中汲取灵感，特别是他关于认知中感知或可理解对象的形式“不带有物质”（《论灵魂》第二卷第12章，424a17-24；第三卷第2章，425b23-24；第三卷第4章，429a15-19；和第三卷第8章，431b26-29）以及对象，或更准确地说，作为认知对象的活动与认知活动“是一致的”并存在于认知主体中（第三卷第2章，425b25-426a27）。知觉和思维都是有意向性的状态，亚里士多德对它们的分析对他的整个心理理论至关重要。但是，这些段落中没有清晰证据表明亚里士多德意识到意向性问题，更不用说提供意向性的定义或任何其基本特征。首先，每个理论都适用于不仅仅是有意向性的状态。印戒在封蜡中的印记不仅仅是一个类比，而是一个真实的形式被接受而不带有物质的例子，这一点甚至被像约翰·菲洛普诺斯和托马斯·阿奎那这样的评论家所接受；菲洛普诺斯还提到镜子中的影像作为另一个例子（菲洛普诺斯，《亚里士多德论灵魂》，444.17-26，437.19-25；托马斯·阿奎那，《亚里士多德论灵魂》2.24，56-59 = §554）。因此，这个理论不能为意向性提供充分条件，更不能为认知或意识提供充分条件。 同样地，亚里士多德辩护他的观点，即对象的活动与认知的活动是一致的，并且以简单地作为更广泛因果关系的一个实例存在于认知主体中：在每一个因果互动中，包括无生命和非认知的互动中，代理者的活动与受体的活动是一致的，并且发生在受体中（《论灵魂》第三篇第二章，426a2-11）。此外，这些学说都不适用于所有的意向状态：它们都无法适用于意向性的典型案例，比如梦境或未来的希望，这些案例中意向性问题最为明显。因此，这两个学说都不能提供意向性的必要条件。它们只是适用于一类特殊的意向状态，比如感知和思考，其中意向状态是关于导致它发生的事物的 - 也就是说，它是关于自身原因的 - 这一点并不适用于一般的意向状态。即使它们被证明是他意向性理论的核心，它们也并没有直接解决问题本身。
 
 然而，亚里士多德对意向性状态的特殊性非常清楚。实际上，他严厉批评了他的前辈们未能解释那些对象并非引起它们的原因的意向性状态。在他的论文《记忆与回忆》的第二章中，他拒绝了思想像光线一样延伸到对象的观点，因为即使它们不存在，我们“思考的方式仍然相同”：在这种情况下，光线将无法发挥作用，因为没有任何东西可以延伸到它（452b9-11）。在他的论文《论观念》中，他进一步反驳了柏拉图的理论，该理论认为我们的思想是关于柏拉图形式的。因为这些对象据说总是存在的，无论是否存在它们所包含的个体，这种理论可以避免之前的批评：在这种中介物的存在下，思想可以达到某种对象。但是，亚里士多德反驳道，它们无法解释我们实际上拥有的所有思想，因为我们可以思考已经不存在的特定个体，比如苏格拉底，以及“根本不存在”的神话生物，比如半人马。在这种情况下，没有柏拉图形式可以作为思想的对象：根据柏拉图主义者自己的观点，苏格拉底或半人马都没有形式。因此，仅仅假设一个与形式相同类型的特殊对象是不够的。
 
@@ -83,7 +83,7 @@
 
 亚里士多德坚持认为，思想总是需要一个幻象（《论灵魂》III 7，431a16–17，b2；III 8，432a8–10；《论记忆》1，449b31）。但即使是最简单的概念的内容也超出了任何类似感知的表象所包含的内容（《论灵魂》III 8，432a12–14）。至少，在思想中，我们能够有选择地关注某些特征，忽略这些表象中的许多其他特征，就像我们可以使用一个三角形的图表进行数学目的，而不关心其特定的尺寸，从而有效地将其抽象出来（《论记忆》1，449b31–450a17）。但我们也能够使用一个概念形成相反的概念，并将一个概念应用于另一个概念，从而形成一个能够真实或虚假的复合命题思想（《论灵魂》III 6；《形而上学》VI 4，IX 10；《论释义》1）。这种操作所产生的抽象内容使我们能够使用符号来交流和理解彼此（《论释义》1，16a3–9）。
 
-亚里士多德还考虑了高阶感知和思维。他在《论灵魂》第三篇第二章的开头提出了一个回归论证，以表明当我们感知到我们看到或听到时，我们对第一阶感知有一个高阶感知意识（425b12-25），虽然具体细节存在争议，但可以认为这是同一种感知行为指向自身（Caston 2002b；对此的回应，请参见 Johansen 2005）。但是亚里士多德在其他地方声称，通常像知识、感知、信念或思维这样的状态主要是指向其他事物的，只是次要地或“在一边”（en parergōi）指向自身；只有上帝的自我反思思维，他将其描述为“思考思考”（noēsis noēseōs），将自身作为其主要对象（Metaph. XII 9, 1074b34–36）。自我导向的意向性引发了许多问题，特别是亚里士多德是否认为它是每个心理行为的一部分 - 正如他似乎在Nicomachean Ethics IX 9, 1170a29–b1 中所声称的那样，Brentano 1874 [1995]，第二册，第 2-4 章对此进行了讨论和支持 - 以及他是否认为可能对第一阶状态的内容或特征产生错误，即使对其存在没有错误（Caston 2002b）。
+亚里士多德还考虑了高阶感知和思维。他在《论灵魂》第三篇第二章的开头提出了一个回归论证，以表明当我们感知到我们看到或听到时，我们对第一阶感知有一个高阶感知意识（425b12-25），虽然具体细节存在争议，但可以认为这是同一种感知行为指向自身（Caston 2002b；对此的回应，请参见 Johansen 2005）。但是亚里士多德在其他地方声称，通常像知识、感知、信念或思维这样的状态主要是指向其他事物的，只是次要地或“在一边”（en parergōi）指向自身；只有上帝的自我反思思维，他将其描述为“思考思考”（noēsis noēseōs），将自身作为其主要对象（Metaph. XII 9, 1074b34–36）。自我导向的意向性引发了许多问题，特别是亚里士多德是否认为它是每个心理行为的一部分 - 正如他似乎在Nicomachean Ethics IX 9, 1170a29–b1 中所声称的那样，Brentano 1874 \[1995]，第二册，第 2-4 章对此进行了讨论和支持 - 以及他是否认为可能对第一阶状态的内容或特征产生错误，即使对其存在没有错误（Caston 2002b）。
 
 ## 6. 斯多嘉学派
 
@@ -99,7 +99,7 @@
 
 最令人着迷的问题之一涉及心理表征（phantasiai）与 lekta 之间的关系。斯多葛派实际上支持了布伦塔诺的论点，即意向性是心理的标准，它划定了心理学的领域。斯多葛派认为，表征是将动物和人类与植物和无生命物质区分开来的因素：只有具有灵魂（psuchē）或心灵的事物才具有对世界的心理表征（phantasiai）并努力移动和改变事物（奥里根《原理论》3.1.2，196.12-197.8 Koetschau）。但他们也认为，表征是心理现象的普遍特征：每个心理状态要么是一个表征，要么在本质上涉及一个表征，因为它是对一个表征的同意，或者是对其不正确的拒绝，或者是对其完全保留同意。因此，表征（phantasia）是所有心理状态的特征。Lekta 构成了这些表征的内容。事实上，斯多葛派将它们定义为“与理性表征相对应的存在”，其中理性表征是属于像我们这样的理性动物的表征（Diogenes Laertius VII 63; Sextus Empiricus Adv. math. VII 51）。
 
-然而，这个定义也带来了一个困难。近几十年来，人们认为它暗示了lektas只存在于理性动物的表象中 - 这在我们的报告中并没有明确说明 - 尽管这将产生问题：这将意味着非理性动物，甚至是非常年幼的人，在发展理性之前，要么矛盾地拥有没有任何内容的表象，要么仅仅具有无法表达的非概念性内容。（有关这种观点的经典陈述，请参见Frede 1983 [1987]，153-54，156；有关其后果的讨论，请参见Sorabji 1993，20-28。）斯多葛派和他们的批评者从未提到过这样的后果，这将使他们难以解释动物行为，更不用说理性本身在人类中的出现了。他们坚称我们在出生时没有概念（ennoiai），将心灵比作一张空白的纸莎草，准备被书写：它首先被感知所书写，然后通过感知记忆的整理和收集，通过经验，形成我们的第一个自然概念，从中我们以后可以构建更复杂的概念。理性只在后来出现 - 一些资料说是在七岁，另一些说是在十四岁 - 当有足够的概念形成一个稳定的、相互关联的系统时（Aetius 4.11.1-4；Plutarch On Common Conceptions 1084f-1085a；Diogenes Laertius VII 53）。因此，在斯多葛派的观点中，儿童在拥有理性之前的某个阶段将拥有概念，因为理性是从概念的累积获取和系统化中产生的，显然其中一些概念仅仅是通过感知和记忆自然形成的，不依赖于理性，至少在某种程度上它们的内容是由此推导出来的。 由于所有这些状态无疑都具有内容，因此在非理性动物的表征中否认类似的内容也没有原则性的依据，至少对于感知表征来说。
+然而，这个定义也带来了一个困难。近几十年来，人们认为它暗示了lektas只存在于理性动物的表象中 - 这在我们的报告中并没有明确说明 - 尽管这将产生问题：这将意味着非理性动物，甚至是非常年幼的人，在发展理性之前，要么矛盾地拥有没有任何内容的表象，要么仅仅具有无法表达的非概念性内容。（有关这种观点的经典陈述，请参见Frede 1983 \[1987]，153-54，156；有关其后果的讨论，请参见Sorabji 1993，20-28。）斯多葛派和他们的批评者从未提到过这样的后果，这将使他们难以解释动物行为，更不用说理性本身在人类中的出现了。他们坚称我们在出生时没有概念（ennoiai），将心灵比作一张空白的纸莎草，准备被书写：它首先被感知所书写，然后通过感知记忆的整理和收集，通过经验，形成我们的第一个自然概念，从中我们以后可以构建更复杂的概念。理性只在后来出现 - 一些资料说是在七岁，另一些说是在十四岁 - 当有足够的概念形成一个稳定的、相互关联的系统时（Aetius 4.11.1-4；Plutarch On Common Conceptions 1084f-1085a；Diogenes Laertius VII 53）。因此，在斯多葛派的观点中，儿童在拥有理性之前的某个阶段将拥有概念，因为理性是从概念的累积获取和系统化中产生的，显然其中一些概念仅仅是通过感知和记忆自然形成的，不依赖于理性，至少在某种程度上它们的内容是由此推导出来的。 由于所有这些状态无疑都具有内容，因此在非理性动物的表征中否认类似的内容也没有原则性的依据，至少对于感知表征来说。
 
 如果lekta在这里和其他地方一样作为这些状态的内容，那么lekta将不仅仅对应于理性的表达。但是，一个合理的问题是，非理性动物和非常年幼的人如何有对应于它们的lekta，它们没有概念，也不能进行口头表达？在二级文献中普遍存在这样的假设，即lekton是否对应于一个表达取决于个体拥有哪些概念（如果有的话）。但斯多葛派不能接受这个假设。恰恰相反。他们认为，无论是有生命的还是无生命的，lekton都参与到每一个因果关系中：一个物体使lekton成为真实或适用于另一个物体，其中lekton指定了作用体对受体的完全确定的影响（Stobaeus 1.138.14; Sextus Empiricus Adv. math. 9.211; Clement of Alexandria Stromata 8.9.3–4; 这一点被Frede 1994正确强调）。但是，一旦我们承认斯多葛派还持有一种关于表达的因果理论，这种因果关系的分析立即变得相关：他们将表达定义为表达对象在灵魂上产生的效果，字面上是一种“印象”（tupōsis）；他们明确地将其与印章在蜡上留下的印记进行比较（Diogenes Laertius VII 50; Aetius 4.12.1–4; Plutarch On Common Conceptions 1084f–1085a），并且当他们定义他们认为是真理的标准和知识的基础的“安全”表达（phantasia katalēptikē）时，他们再次引用了印章语言，这种表达以如此丰富的细节来表达产生它的对象，以至于它可以与任何其他东西区分开来，无论它们有多相似（Cicero Acad. 2.77–78; Sextus Empiricus Adv. math. 7.248 ff.; Diogenes Laertius VII 46）。
 
@@ -107,43 +107,43 @@
 
 ## Bibliography
 
-* Brentano, Franz, 1874 [1995], *Psychology from an Empirical Standpoint*, ed. by Linda L. McAlister, trans. by Antos C. Rancurello, D. B. Terrell, and Linda McAlister (from the second edition of 1924, ed. by Oskar Kraus). Second edition, with a new introduction by Peter Simons. London: Routledge, 1995. (First German edition, 1874; first edition of English translation, 1973.)
-* Burnyeat, Myles F., 2002, “Plato on How Not to Speak of What is Not: *Euthydemus* 283a–288a,” in M. Canto-Sperber and P. Pellegrin (eds), *Le Style de la pensée: Recueil de textes en hommage à Jacques Brunschwig*, 40–66, Paris: Les Belles Lettres.
-* Caston, Victor, 1998, “Aristotle and the Problem of Intentionality,” *Philosophy and Phenomenological Research*, 58: 249–298.
-* –––, 1999, “Something and Nothing: The Stoics on Concepts and Universals,” *Oxford Studies in Ancient Philosophy*, 17: 145–213.
+* Brentano, Franz, 1874 \[1995], _Psychology from an Empirical Standpoint_, ed. by Linda L. McAlister, trans. by Antos C. Rancurello, D. B. Terrell, and Linda McAlister (from the second edition of 1924, ed. by Oskar Kraus). Second edition, with a new introduction by Peter Simons. London: Routledge, 1995. (First German edition, 1874; first edition of English translation, 1973.)
+* Burnyeat, Myles F., 2002, “Plato on How Not to Speak of What is Not: _Euthydemus_ 283a–288a,” in M. Canto-Sperber and P. Pellegrin (eds), _Le Style de la pensée: Recueil de textes en hommage à Jacques Brunschwig_, 40–66, Paris: Les Belles Lettres.
+* Caston, Victor, 1998, “Aristotle and the Problem of Intentionality,” _Philosophy and Phenomenological Research_, 58: 249–298.
+* –––, 1999, “Something and Nothing: The Stoics on Concepts and Universals,” _Oxford Studies in Ancient Philosophy_, 17: 145–213.
 * –––, 2001, “Connecting Traditions: Augustine and the Greeks on Intentionality,” in Perler 2001, 23–48.
-* –––, 2002*a*, “Gorgias on Thought and its Objects,” in *Presocratic Philosophy: Essays in honour of Alexander Mourelatos*, V. Caston and D. W. Graham (eds.), 205–232, Aldershot, Hampshire: Ashgate.
-* –––, 2002*b*, “Aristotle on Consciousness,” *Mind*, 111: 751–815.
-* –––, *forthcoming*, “The Stoics on Mental Representation,” in J. Klein & N. Powers (eds.), *The Oxford Handbook in Hellenistic Philosophy*, Oxford: Oxford University Press.
-* Denyer, Nicholas, 1991, *Language, Thought and Falsehood in Ancient Greek Philosophy*, London: Routledge.
-* Frede, Michael, 1983 [1987], “Stoics and Skeptics on Clear and Distinct Impressions,” in M. F. Burnyeat (ed.), *The Skeptical Tradition*, 65–93, Berkeley: University of California Press, 1983; reprinted in Michael Frede, *Essays in Ancient Philosophy*, 151–76, Minneapolis: University of Minnesota Press, 1987.
-* –––, 1992, “Plato’s *Sophist* on False Statements,” in R. Kraut (ed.), *The Cambridge Companion to Plato*, 397–424, Cambridge: Cambridge University Press.
-* –––, 1994, “The Stoic Notion of a *lekton*,” in Stephen Everson (ed.), *Language* (Companions to Ancient Thought: Volume 3), 109–28, Cambridge: Cambridge University Press.
-* Furth, Montgomery, 1968, “Elements of Eleatic Ontology,” *Journal of the History of Philosophy*, 6 (1968): 111–132; reprinted in *The Pre-Socratics: A Collection of Critical Essays*, A. P. D. Mourelatos (ed.), 241–270, Princeton: Princeton University Press, 1993.
-* Johansen, Thomas, 2005, “In Defense of Inner Sense: Aristotle on Perceiving that One Sees,” *Proceedings of the Boston Area Colloquium in Ancient Philosophy* 21: 235–85.
-* Owen, G. E. L., 1960, “Eleatic Questions.” *Classical Quarterly* (n.s.), 10: 84–102; reprinted in his *Logic, Science, and Dialectic: Collected Papers in Greek Philosophy*, M. Nussbaum (ed.), 3–26, Ithaca, NY: Cornell University Press, 1986.
-* –––, 1970, “Plato on Not-Being,” in Gregory Vlastos (ed.), *Plato I: Metaphysics and Epistemology*, 223–67, Garden City, NY: Doubleday, 1970; reprinted in G. E. L. Owen, *Logic, Science, and Dialectic: Collected Papers in Greek Philosophy*, 104–37, edited by Martha Nussbaum, Ithaca, NY: Cornell University Press, 1986.
-* Perler, Dominik (ed.), 2001, *Ancient and Medieval Theories of Intentionality*. (= Studien und Texte zur Geistesgeschichte des Mittelalters, Bd. 76), Leiden: Brill.
-* Ryle, Gilbert, 1952 [1990], “Logical Atomism in Plato’s *Theaetetus*,” first published in *Phronesis*, 35 (1990): 21–46.
-* Sorabji, Richard, 1993, *Animal Minds and Human Morals: The Origins of the Western Debate* (The Townsend Lectures (Cornell Studies in Classical Philology: Volume 54), Ithaca, NY: Cornell University Press.
-* Spiegelberg, Herbert, 1976, “‘Intention’ and ‘Intentionality’ in the Scholastics, Brentano and Husserl.” in *The Philosophy of Brentano*, Linda L. McAlister (ed.), 108–127, London: Duckworth.
-* Taieb, Hamid, 2018, *Relational Intentionality: Brentano and the Aristotelian Tradition*, Dordrecht: Springer Verlag.
+* –––, 2002_a_, “Gorgias on Thought and its Objects,” in _Presocratic Philosophy: Essays in honour of Alexander Mourelatos_, V. Caston and D. W. Graham (eds.), 205–232, Aldershot, Hampshire: Ashgate.
+* –––, 2002_b_, “Aristotle on Consciousness,” _Mind_, 111: 751–815.
+* –––, _forthcoming_, “The Stoics on Mental Representation,” in J. Klein & N. Powers (eds.), _The Oxford Handbook in Hellenistic Philosophy_, Oxford: Oxford University Press.
+* Denyer, Nicholas, 1991, _Language, Thought and Falsehood in Ancient Greek Philosophy_, London: Routledge.
+* Frede, Michael, 1983 \[1987], “Stoics and Skeptics on Clear and Distinct Impressions,” in M. F. Burnyeat (ed.), _The Skeptical Tradition_, 65–93, Berkeley: University of California Press, 1983; reprinted in Michael Frede, _Essays in Ancient Philosophy_, 151–76, Minneapolis: University of Minnesota Press, 1987.
+* –––, 1992, “Plato’s _Sophist_ on False Statements,” in R. Kraut (ed.), _The Cambridge Companion to Plato_, 397–424, Cambridge: Cambridge University Press.
+* –––, 1994, “The Stoic Notion of a _lekton_,” in Stephen Everson (ed.), _Language_ (Companions to Ancient Thought: Volume 3), 109–28, Cambridge: Cambridge University Press.
+* Furth, Montgomery, 1968, “Elements of Eleatic Ontology,” _Journal of the History of Philosophy_, 6 (1968): 111–132; reprinted in _The Pre-Socratics: A Collection of Critical Essays_, A. P. D. Mourelatos (ed.), 241–270, Princeton: Princeton University Press, 1993.
+* Johansen, Thomas, 2005, “In Defense of Inner Sense: Aristotle on Perceiving that One Sees,” _Proceedings of the Boston Area Colloquium in Ancient Philosophy_ 21: 235–85.
+* Owen, G. E. L., 1960, “Eleatic Questions.” _Classical Quarterly_ (n.s.), 10: 84–102; reprinted in his _Logic, Science, and Dialectic: Collected Papers in Greek Philosophy_, M. Nussbaum (ed.), 3–26, Ithaca, NY: Cornell University Press, 1986.
+* –––, 1970, “Plato on Not-Being,” in Gregory Vlastos (ed.), _Plato I: Metaphysics and Epistemology_, 223–67, Garden City, NY: Doubleday, 1970; reprinted in G. E. L. Owen, _Logic, Science, and Dialectic: Collected Papers in Greek Philosophy_, 104–37, edited by Martha Nussbaum, Ithaca, NY: Cornell University Press, 1986.
+* Perler, Dominik (ed.), 2001, _Ancient and Medieval Theories of Intentionality_. (= Studien und Texte zur Geistesgeschichte des Mittelalters, Bd. 76), Leiden: Brill.
+* Ryle, Gilbert, 1952 \[1990], “Logical Atomism in Plato’s _Theaetetus_,” first published in _Phronesis_, 35 (1990): 21–46.
+* Sorabji, Richard, 1993, _Animal Minds and Human Morals: The Origins of the Western Debate_ (The Townsend Lectures (Cornell Studies in Classical Philology: Volume 54), Ithaca, NY: Cornell University Press.
+* Spiegelberg, Herbert, 1976, “‘Intention’ and ‘Intentionality’ in the Scholastics, Brentano and Husserl.” in _The Philosophy of Brentano_, Linda L. McAlister (ed.), 108–127, London: Duckworth.
+* Taieb, Hamid, 2018, _Relational Intentionality: Brentano and the Aristotelian Tradition_, Dordrecht: Springer Verlag.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intentionality-ancient). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/intentionality-ancient/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=intentionality-ancient&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/intentionality-ancient/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intentionality-ancient).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/intentionality-ancient/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=intentionality-ancient\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/intentionality-ancient/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Aristotle, General Topics: psychology](https://plato.stanford.edu/entries/aristotle-psychology/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [Brentano, Franz](https://plato.stanford.edu/entries/brentano/) | Gorgias | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | intentionality: medieval theories of | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [Parmenides](https://plato.stanford.edu/entries/parmenides/) | [Plato: *Cratylus*](https://plato.stanford.edu/entries/plato-cratylus/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [Protagoras](https://plato.stanford.edu/entries/protagoras/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/)
+[Aristotle, General Topics: psychology](https://plato.stanford.edu/entries/aristotle-psychology/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [Brentano, Franz](https://plato.stanford.edu/entries/brentano/) | Gorgias | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | intentionality: medieval theories of | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [Parmenides](https://plato.stanford.edu/entries/parmenides/) | [Plato: _Cratylus_](https://plato.stanford.edu/entries/plato-cratylus/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [Protagoras](https://plato.stanford.edu/entries/protagoras/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-Victor Caston <[*vcaston@umich.edu*](mailto:vcaston%40umich%2eedu)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+Victor Caston <[_vcaston@umich.edu_](mailto:vcaston%40umich%2eedu)>
