@@ -64,7 +64,7 @@
   * [康德和休谟论道德 and Hume on morality (Eric Entrican Wilson and Lara Denis)](k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/kang-de-he-xiu-mo-lun-dao-de-and-hume-on-morality-eric-entrican-wilson-and-lara-denis.md)
   * [莱布尼茨对康德的影响 and Leibniz (Catherine Wilson)](k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/lai-bu-ni-ci-dui-kang-de-de-ying-xiang-and-leibniz-catherine-wilson.md)
   * [康德的道德哲学 moral philosophy (Robert Johnson and Adam Cureton)](k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/kang-de-de-dao-de-zhe-xue-moral-philosophy-robert-johnson-and-adam-cureton.md)
-  * [康德的哲学发展 philosophical development (Martin Schönfeld and Michael Thompson)](k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/kang-de-de-zhe-xue-fa-zhan-philosophical-development-martin-schnfeld-and-michael-thompson.md)
+  * [康德哲学的发展历程 philosophical development (Martin Schönfeld and Michael Thompson)](k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/kang-de-zhe-xue-de-fa-zhan-li-cheng-philosophical-development-martin-schnfeld-and-michael-thompson.md)
   * [康德的数学哲学 philosophy of mathematics (Lisa Shabel)](k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/kang-de-de-shu-xue-zhe-xue-philosophy-of-mathematics-lisa-shabel.md)
   * [康德的宗教哲学 philosophy of religion (Lawrence Pasternack and Courtney Fugate)](k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/kang-de-de-zong-jiao-zhe-xue-philosophy-of-religion-lawrence-pasternack-and-courtney-fugate.md)
   * [康德的科学哲学 philosophy of science (Eric Watkins and Marius Stan)](k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/kang-de-de-ke-xue-zhe-xue-philosophy-of-science-eric-watkins-and-marius-stan.md)

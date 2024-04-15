@@ -1,6 +1,6 @@
 # 日本净土宗哲学 Pure Land (Dennis Hirota)
 
-*首次发布于2012年11月19日星期一；实质性修订于2022年9月7日星期三*
+_首次发布于2012年11月19日星期一；实质性修订于2022年9月7日星期三_
 
 净土宗的教义从公元 6 世纪起在日本的知识界和社会生活中发挥了重要作用。当时，来自朝鲜半岛的使者首次正式向日本朝廷介绍了佛教的形象和经文，直到现在。虽然禅宗对日本思想和文化的影响被广泛承认，但净土宗的概念和情感的作用在西方往往只得到边缘的认可。然而，我们不可能忽视它们可能更具普遍性的力量。此外，正如铃木大拙（1870-1966）所指出的，
 
@@ -10,42 +10,36 @@
 
 简而言之，日本净土宗对佛教哲学的贡献可以说在于融合了两种基本态度。一方面，它坚定地立足于大乘佛教对觉悟智慧的理解，认为它与现实是完全非二元且非二元对立的，用诸如如是、佛性和空性等术语来表示。另一方面，它直接面对人类存在的本质，即无法逃避的有限性：在业力的制约下，具有辨别和实在意识，并陷入对虚构的自我和实质性对象的执着激情之中。通过其深入的宗教人类学研究，日本净土宗思想探索了以下矛盾问题：无知的自我如何可能实现转化觉醒，从被玷污的自我意志中获得解脱，以及宗教实现的世界在一个人的轮回存在中展开的本质。
 
-* [ 1. 简介](https://plato.stanford.edu/entries/japanese-pure-land/#Intr)
-
+* [1. 简介](https://plato.stanford.edu/entries/japanese-pure-land/#Intr)
   * [1.1 经典和注释传统](https://plato.stanford.edu/entries/japanese-pure-land/#ScriCommTrad)
   * [1.2 比较框架](https://plato.stanford.edu/entries/japanese-pure-land/#CompFram)
   * [1.3 一个日本净土宗哲学](https://plato.stanford.edu/entries/japanese-pure-land/#JapaPureLandPhil)
 * [2. 净土宗佛教思想的轮廓](https://plato.stanford.edu/entries/japanese-pure-land/#ContPureLandBuddThou)
-
   * [2.1 自我反思](https://plato.stanford.edu/entries/japanese-pure-land/#CritSelfRefl)
   * [2.2 菩萨道中的净土思想种子](https://plato.stanford.edu/entries/japanese-pure-land/#SeedPureLandThouBodhPath)
-  * [ 2.3 功德转移](https://plato.stanford.edu/entries/japanese-pure-land/#MeriTran)
+  * [2.3 功德转移](https://plato.stanford.edu/entries/japanese-pure-land/#MeriTran)
   * [2.4 宇宙佛和佛土](https://plato.stanford.edu/entries/japanese-pure-land/#CosmBuddBuddFiel)
   * [2.5 净土宗的僧侣和在家信徒](https://plato.stanford.edu/entries/japanese-pure-land/#MonaLay)
 * [3. 日本净土宗佛教思想](https://plato.stanford.edu/entries/japanese-pure-land/#JapaPureLandBuddThou)
-
   * [3.1 净土宗对念佛的革命性理解](https://plato.stanford.edu/entries/japanese-pure-land/#HnenRevoUndeNembPrax)
   * [3.2 净土宗念佛教义的问题](https://plato.stanford.edu/entries/japanese-pure-land/#ProbHnenNembTeac)
 * [4. 日本净土宗佛教思想中的哲学问题](https://plato.stanford.edu/entries/japanese-pure-land/#PhilIssuJapaPureLandBuddThou)
-
   * [4.1 净土宗佛教形而上学：对现实的反思](https://plato.stanford.edu/entries/japanese-pure-land/#PureLandBuddMetaReflReal)
   * [4.2 净土宗佛教人类学](https://plato.stanford.edu/entries/japanese-pure-land/#PureLandBuddAnth)
   * [4.3 净土宗佛教解释学](https://plato.stanford.edu/entries/japanese-pure-land/#PureLandBuddHerm)
   * [4.4 净土宗佛教的伦理反思](https://plato.stanford.edu/entries/japanese-pure-land/#PureLandBuddEthiRefl)
 * [5. 日本净土宗佛教与现代性的相遇](https://plato.stanford.edu/entries/japanese-pure-land/#JapaPureLandBuddEncoMode)
-
   * [5.1 基督教对净土宗佛教的批评](https://plato.stanford.edu/entries/japanese-pure-land/#ChriCritPureLandBudd)
   * [5.2 佛教思想的现代化：知识改革](https://plato.stanford.edu/entries/japanese-pure-land/#ModeBuddThouInteRefo)
   * [5.3 对净土宗佛教的存在性参与](https://plato.stanford.edu/entries/japanese-pure-land/#ExisEngaPureLandBudd)
-* [ 参考文献](https://plato.stanford.edu/entries/japanese-pure-land/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/japanese-pure-land/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/japanese-pure-land/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/japanese-pure-land/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/japanese-pure-land/#Bib)
+  * [主要文献](https://plato.stanford.edu/entries/japanese-pure-land/#PrimLite)
+  * [次要文献](https://plato.stanford.edu/entries/japanese-pure-land/#SecoLite)
+* [学术工具](https://plato.stanford.edu/entries/japanese-pure-land/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/japanese-pure-land/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/japanese-pure-land/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/japanese-pure-land/#Rel)
 
----
+***
 
 ## 1. 介绍
 
@@ -207,7 +201,7 @@
 
 法然在他所处时代以天台宗僧侣的广博学识和模范实践而闻名，直接表达了“深心”的两个方面：
 
-> 尽管佛教广博，本质上只由三学[戒定慧]组成...但是对于戒律，我自己一个也没有遵守。在禅定中，我一个也没有修得。在智慧上，我没有修得断除分别思维、实现果位的正确智慧...然而，阿弥陀佛无论明智与愚痴、遵守戒律与违背戒律，都来欢迎我们。（《铁钉选择弘愿念佛集》、《浄土宗全书》第 7 卷：95-96 页记录）
+> 尽管佛教广博，本质上只由三学\[戒定慧]组成...但是对于戒律，我自己一个也没有遵守。在禅定中，我一个也没有修得。在智慧上，我没有修得断除分别思维、实现果位的正确智慧...然而，阿弥陀佛无论明智与愚痴、遵守戒律与违背戒律，都来欢迎我们。（《铁钉选择弘愿念佛集》、《浄土宗全书》第 7 卷：95-96 页记录）
 
 正是在这种自我意识中，我们看到了法然对实践理解的彻底转变背后的力量。法然清楚地看到，除非对佛教传统中教授的无数实践进行全新的分类和评估的视角得以确立，他所理解的浄土道的真正意义将仍然模糊不清，而声音念佛将继续被所有人视为仅仅是低级修行者的一种方便的实践。因此，他提出了修行者的主观性问题，并坚持认为，基于自己的基本明晰和自主判断能力的常识性等级观念必须被放弃。为了实现这一转变，法然依靠了他创新的“从众多选择中选取”的概念（选择），这个概念最核心地指的是阿弥陀佛自己为众生选择了声音念佛作为单一、普遍可行的实践，从而导致众生往生浄土。众生修行浄土道因此是建立在阿弥陀佛对声音念佛的选择和满足上的。因此，我们看到，“深心”这种双重意识是法然道的核心。
 
@@ -237,7 +231,7 @@
 
 单一性的效果不仅在死后在净土出生的发生中显现，而且在现世以各种方式显现。Shōkū谈到念佛者在现世中获得的各种好处，包括消除过去恶行的影响，延长寿命，避免各种灾难，保护佛陀，见到阿弥陀佛等等。人们不应为了自己而追求这些好处，但对于净土出生已经确定的念佛者来说，这些好处自然而然地发生。因此，为了表达念佛修行者的状态，Shōkū甚至区分了两种净土“出生”，一种是在现世中仍然负担着痛苦激情的“即时出生”（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在���后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）��即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即
 
-Shōkū’s thinking about ethical life reflects the same elements seen in relation to benefits in this life: the person continues to act out of ignorance and self-attachment, but conduct manifesting oneness with Amida Buddha may also emerge spontaneously. He speaks, for example, of the elimination of the effects of past evil acts through repentance (*zange metsuzai*). He distinguishes, however, between two kinds or stages of repentance, that which is deliberately undertaken at particular times through ones own powers of self-reflection and contrition, but which is difficult to achieve (*gyōmon no zange*), and that which arises spontaneously and immediately as the working of the vow (*kanmon no zange*). As seen here, ethical behavior is not prescribed and undertaken as another form of praxis, but Other Power may function of itself in the life of the nembutsu practitioner to suppress evil and manifest compassion action.
+Shōkū’s thinking about ethical life reflects the same elements seen in relation to benefits in this life: the person continues to act out of ignorance and self-attachment, but conduct manifesting oneness with Amida Buddha may also emerge spontaneously. He speaks, for example, of the elimination of the effects of past evil acts through repentance (_zange metsuzai_). He distinguishes, however, between two kinds or stages of repentance, that which is deliberately undertaken at particular times through ones own powers of self-reflection and contrition, but which is difficult to achieve (_gyōmon no zange_), and that which arises spontaneously and immediately as the working of the vow (_kanmon no zange_). As seen here, ethical behavior is not prescribed and undertaken as another form of praxis, but Other Power may function of itself in the life of the nembutsu practitioner to suppress evil and manifest compassion action.
 
 Such thinking may also be seen in Shinran, who includes, in his list of ten benefits obtained by the nembutsu practitioner in the present, “constantly enacting great compassion.” In letters, he states:
 
@@ -261,11 +255,11 @@ Such thinking may also be seen in Shinran, who includes, in his list of ten bene
 
 戈登对净土宗佛教的批评始于他断言它“不是释迦牟尼所教的佛教”，甚至更进一步地称“日本真宗所教的佛教在某些方面与释迦牟尼的教义完全相反”（戈登1882年，第108页）。戈登利用当时的梵文和巴利文的欧洲学术研究，列举了“释迦牟尼所教的佛教”与“所谓的大乘佛教”教义之间的矛盾，后者“是对真理的曲解而非否定，因此更加危险。”戈登遇到的问题部分是与西方理性的冲突，他称之为“佛教思维能够毫不认识地直面逻辑矛盾的能力。”然而，对他来说更重要的是，净土传统中被认为是“原始佛教”的偏离，将其转变为一种基督教式的宗教。
 
-戈登提出了“三大圣经教义”，这些教义对他来说证明了基督教优于日本佛教的地位：“上帝、罪恶和救赎。”这些教义涉及到我们所考虑的本体论、人类学和伦理学的哲学问题，并预示了日本佛教徒将在 20 世纪继续探讨的主题。戈登首先谈到了“使佛教徒对上帝有一个充分的概念的困难。”在这里，上帝作为创造者的概念对戈登来说至关重要，部分原因是因为它在上帝中确认了一种独特的超越性，而这在佛陀的概念中是不存在的。正如日本佛教徒在与基督教的首次接触中指出的那样，神圣化身的概念很容易适应广泛的日本佛教范式，即形式从无形的现实中出现。用戈登的话来说，“化身的教义可以被称为……被佛教严重贬低了。化身是频繁的。”此外，与出现或显现相关的是非二元性的本体论模糊性。因此，戈登发现，也许有些沮丧，“如果我们问传教这个[净土]教义的僧侣……阿弥陀是否真的存在，他可能在一些挣扎后承认，对于这个问题的任何观点都是完全可接受的。”
+戈登提出了“三大圣经教义”，这些教义对他来说证明了基督教优于日本佛教的地位：“上帝、罪恶和救赎。”这些教义涉及到我们所考虑的本体论、人类学和伦理学的哲学问题，并预示了日本佛教徒将在 20 世纪继续探讨的主题。戈登首先谈到了“使佛教徒对上帝有一个充分的概念的困难。”在这里，上帝作为创造者的概念对戈登来说至关重要，部分原因是因为它在上帝中确认了一种独特的超越性，而这在佛陀的概念中是不存在的。正如日本佛教徒在与基督教的首次接触中指出的那样，神圣化身的概念很容易适应广泛的日本佛教范式，即形式从无形的现实中出现。用戈登的话来说，“化身的教义可以被称为……被佛教严重贬低了。化身是频繁的。”此外，与出现或显现相关的是非二元性的本体论模糊性。因此，戈登发现，也许有些沮丧，“如果我们问传教这个\[净土]教义的僧侣……阿弥陀是否真的存在，他可能在一些挣扎后承认，对于这个问题的任何观点都是完全可接受的。”
 
 对于戈登来说，上帝作为创造者是其他两个关键教义的关键所在，即罪恶和救赎。由于没有创造者的概念，佛教“不承认宇宙的至高和智慧的统治者和审判者。”这导致了“对罪恶的非常不充分的理解”，这种理解将罪恶轻视，并实际上促进了“不道德行为”。另一个后果是，佛教中的救赎是“从现世的痛苦中得救，而不是从罪恶中得救。”换句话说，净土宗佛教贬低了现世的重要性，只关注未来的拯救承诺。
 
-基督教对日本佛教徒的挑战涉及到戈登所表达的“对人们心灵和生活的控制权”，这并不一定是日本寺庙僧侣所追求的，他们的主要职责是进行纪念仪式的日历。在他的自传中，戈登谈到了他的信徒对他们经历深度的证言。他说：“将[罪]作为个人负担的强烈印象并不常见。一位老太太证明她几乎没有把自己看作罪人，直到她开始听到这‘新的方式’……只有基督教带来真正的悔改”（戈登 1893 年，第 213-214 页）。
+基督教对日本佛教徒的挑战涉及到戈登所表达的“对人们心灵和生活的控制权”，这并不一定是日本寺庙僧侣所追求的，他们的主要职责是进行纪念仪式的日历。在他的自传中，戈登谈到了他的信徒对他们经历深度的证言。他说：“将\[罪]作为个人负担的强烈印象并不常见。一位老太太证明她几乎没有把自己看作罪人，直到她开始听到这‘新的方式’……只有基督教带来真正的悔改”（戈登 1893 年，第 213-214 页）。
 
 戈登进一步表示：“基督教使对人类的爱心服务比其他宗教更加突出。”传教士们对于个人和集体社会伦理的表达挑战激发了佛教徒建立学校、医院和各种形式的牧师职位。
 
@@ -313,82 +307,82 @@ Such thinking may also be seen in Shinran, who includes, in his list of ten bene
 
 ### Primary Literature
 
-* Genshin, 1973. *The Teachings Essential for Rebirth : A Study of Genshin’s Ōjōyōshū*, Allan A. Andrews, Tokyo: Sophia University. Partial translation and outline of the seminal work of the Tendai Pure Land master.
-* Gómez, Luis O., trans., 1996. *Land of Bliss : The Paradise of the Buddha of Measureless Light : Sanskrit and Chinese Versions of the Sukhāvatīvyūha Sutras*, Honolulu: University of Hawai‘i Press. Major scriptures of the Pure Land tradition, including discussions and charts reflecting hermeneutical practices of Japanese masters.
-* Hirota, Dennis, trans., 1989. *Plain Words on the Pure Land Way: Sayings of the Wandering Monks of Medieval Japan*, Kyoto: Ryukoku University. A translation of *Ichigon hōdan*.
-* –––, trans., 1990. “On Attaining the Settled Mind: A Translation of *Anjinketsujosho*,” *Eastern Buddhist*, 23(2): 106–121 and 24(1) (1991): 81–96. Anonymous philosophically oriented medieval tract.
-* Hōnen, 1998. *Hōnen’s Senchakushū: Passages on the Selection of the Nembutsu in the Original Vow* (*Senchaku hongan nembutsu shū*), trans. and ed. Senchakushū English Translation Project, Honolulu: University of Hawai‘i Press.
-* –––, 2011. *The Promise of Amida Buddha: Hōnen’s Path to Bliss*, trans. Jōji Atone and Yūko Hayashi, Boston: Wisdom Publications. Japanese writings and recorded words of Hōnen.
-* Ippen, 1989. *No Abode: The Record of Ippen*, trans. Dennis Hirota, Honolulu: University of Hawai‘i Press. Reflects the Pure Land thought of Hōnen’s disciple Shōkū, as well as esoteric and folk religious practices.
-* Shinran, 1973. *The Kyōgyōshinshō: The Collection of passages Expounding the True Teaching, Living, Faith, and Realizing of the Pure Land*, trans. Daisetsu Teitarō Suzuki, Kyoto: Shinshū Ōtaniha. Volume 2 includes major essays by Suzuki on Shin Buddhism.
-* –––, 1982. *Tannishō: A Primer*, trans. Dennis Hirota, Kyoto: Ryukoku University. Phrase-by-phrase translation with romanization and original text.
-* –––, 1997 [CWS]. *The Collected Works of Shinran*, Dennis Hirota et al., trans., Kyoto: Jōdo Shinshū Hongwanji-ha, 2 vols. Volume 1: Shinran’s doctrinal writings. Volume 2: introductions, glossaries, and reading aids.
-* Shinran, 2012. *Shinran’s* *Kyōgyōshinshō: The Collection of Passages Expounding the True Teaching, Living, Faith, and Realizing of the Pure Land*, translated by Daisetz Teitarō Suzuki, Oxford: Oxford University Press.
+* Genshin, 1973. _The Teachings Essential for Rebirth : A Study of Genshin’s Ōjōyōshū_, Allan A. Andrews, Tokyo: Sophia University. Partial translation and outline of the seminal work of the Tendai Pure Land master.
+* Gómez, Luis O., trans., 1996. _Land of Bliss : The Paradise of the Buddha of Measureless Light : Sanskrit and Chinese Versions of the Sukhāvatīvyūha Sutras_, Honolulu: University of Hawai‘i Press. Major scriptures of the Pure Land tradition, including discussions and charts reflecting hermeneutical practices of Japanese masters.
+* Hirota, Dennis, trans., 1989. _Plain Words on the Pure Land Way: Sayings of the Wandering Monks of Medieval Japan_, Kyoto: Ryukoku University. A translation of _Ichigon hōdan_.
+* –––, trans., 1990. “On Attaining the Settled Mind: A Translation of _Anjinketsujosho_,” _Eastern Buddhist_, 23(2): 106–121 and 24(1) (1991): 81–96. Anonymous philosophically oriented medieval tract.
+* Hōnen, 1998. _Hōnen’s Senchakushū: Passages on the Selection of the Nembutsu in the Original Vow_ (_Senchaku hongan nembutsu shū_), trans. and ed. Senchakushū English Translation Project, Honolulu: University of Hawai‘i Press.
+* –––, 2011. _The Promise of Amida Buddha: Hōnen’s Path to Bliss_, trans. Jōji Atone and Yūko Hayashi, Boston: Wisdom Publications. Japanese writings and recorded words of Hōnen.
+* Ippen, 1989. _No Abode: The Record of Ippen_, trans. Dennis Hirota, Honolulu: University of Hawai‘i Press. Reflects the Pure Land thought of Hōnen’s disciple Shōkū, as well as esoteric and folk religious practices.
+* Shinran, 1973. _The Kyōgyōshinshō: The Collection of passages Expounding the True Teaching, Living, Faith, and Realizing of the Pure Land_, trans. Daisetsu Teitarō Suzuki, Kyoto: Shinshū Ōtaniha. Volume 2 includes major essays by Suzuki on Shin Buddhism.
+* –––, 1982. _Tannishō: A Primer_, trans. Dennis Hirota, Kyoto: Ryukoku University. Phrase-by-phrase translation with romanization and original text.
+* –––, 1997 \[CWS]. _The Collected Works of Shinran_, Dennis Hirota et al., trans., Kyoto: Jōdo Shinshū Hongwanji-ha, 2 vols. Volume 1: Shinran’s doctrinal writings. Volume 2: introductions, glossaries, and reading aids.
+* Shinran, 2012. _Shinran’s_ _Kyōgyōshinshō: The Collection of Passages Expounding the True Teaching, Living, Faith, and Realizing of the Pure Land_, translated by Daisetz Teitarō Suzuki, Oxford: Oxford University Press.
 
 ### Secondary Literature
 
-* Barth, K., 1961. *Church Dogmatics*, Edinburgh: T. & T. Clark; I/2 reprinted in *On Religion: The Revelation of God as the Sublimation of Religion*, Garrett Green (trans.), London: T. & T. Clark, 2006.
-* Bloom, Alfred (ed.), 2004. *Living in Amida’s Universal Vow: Essays in Shin Buddhism*, Bloomington: World Wisdom. (Includes essays by Kiyozawa Manshi, Soga Ryōjin, D. T. Suzuki, Takeuchi Yoshinori, Ueda Yoshifumi and others.)
-* –––, (ed.), 2007. *The Essential Shinran: A Buddhist Path of True Entrusting*, Bloomington, Indiana: World Wisdom.
-* Blum, Mark L. and Robert F. Rhodes (eds.), 2011. *Cultivating Spirituality: A Modern Shin Buddhist Anthology*, Albany: State University of New York Press. (Includes essays by Kiyozawa Manshi, Soga Ryōjin, and other figures associated with Higashi Honganji.)
-* Blum, Mark L and Michael Conway (eds.), 2022. *Adding Flesh to Bones: Kiyozawa Manshi’s Seishinshugi in Modern Japanese Buddhist Thought*, Honolulu: University of Hawai‘i Press.
-* Curley, Melissa Anne-Marie, 2017. *Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination*, Honolulu: University of Hawai‘i Press.
-* Gordon, M. L., 1882. “The Doctrine of Amida is Unauthentic,” *The Chrysanthemum: A Monthly Magazine for Japan and the Far East* 3 (March 1882): 104–110.
-* –––, 1883. “The Religious Influence of Buddhism as an Obstacle to the Reception of the Gospel in Japan,” in *Proceedings of the General Conference of the Protestant Missionaries of Japan* (Osaka, Japan, April, 1983), Yokohama: R. Meiklejohn and Company.
-* –––, 1893. *An American Missionary in Japan*, Boston: Houghton, Mifflin.
-* Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011. “The Pure Land Tradition,” in *Japanese Philosophy: A Sourcebook*,$$ Honolulu: University of Hawai‘i Press, 235–85.
+* Barth, K., 1961. _Church Dogmatics_, Edinburgh: T. & T. Clark; I/2 reprinted in _On Religion: The Revelation of God as the Sublimation of Religion_, Garrett Green (trans.), London: T. & T. Clark, 2006.
+* Bloom, Alfred (ed.), 2004. _Living in Amida’s Universal Vow: Essays in Shin Buddhism_, Bloomington: World Wisdom. (Includes essays by Kiyozawa Manshi, Soga Ryōjin, D. T. Suzuki, Takeuchi Yoshinori, Ueda Yoshifumi and others.)
+* –––, (ed.), 2007. _The Essential Shinran: A Buddhist Path of True Entrusting_, Bloomington, Indiana: World Wisdom.
+* Blum, Mark L. and Robert F. Rhodes (eds.), 2011. _Cultivating Spirituality: A Modern Shin Buddhist Anthology_, Albany: State University of New York Press. (Includes essays by Kiyozawa Manshi, Soga Ryōjin, and other figures associated with Higashi Honganji.)
+* Blum, Mark L and Michael Conway (eds.), 2022. _Adding Flesh to Bones: Kiyozawa Manshi’s Seishinshugi in Modern Japanese Buddhist Thought_, Honolulu: University of Hawai‘i Press.
+* Curley, Melissa Anne-Marie, 2017. _Pure Land, Real World: Modern Buddhism, Japanese Leftists, and the Utopian Imagination_, Honolulu: University of Hawai‘i Press.
+* Gordon, M. L., 1882. “The Doctrine of Amida is Unauthentic,” _The Chrysanthemum: A Monthly Magazine for Japan and the Far East_ 3 (March 1882): 104–110.
+* –––, 1883. “The Religious Influence of Buddhism as an Obstacle to the Reception of the Gospel in Japan,” in _Proceedings of the General Conference of the Protestant Missionaries of Japan_ (Osaka, Japan, April, 1983), Yokohama: R. Meiklejohn and Company.
+* –––, 1893. _An American Missionary in Japan_, Boston: Houghton, Mifflin.
+* Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011. “The Pure Land Tradition,” in _Japanese Philosophy: A Sourcebook_,\$$ Honolulu: University of Hawai‘i Press, 235–85.
 * Hirota, Dennis, 1993. “Shinran’s View of Language: A Buddhist Hermeneutics of Faith,” Eastern Buddhist, 26(1): 50–93 and 26(2): 91–130.
 * –––, 2000a, “Images of Reality in the Shin Buddhist Path: A Hermeneutical Approach,” in Hirota 2000b.
-* ––– (ed.), 2000b. *Toward a Contemporary Understanding of Pure Land Buddhism*, Albany, N. Y.: State University of New York Press. Articles by John B. Cobb, Jr., Dennis Hirota, Gordon D. Kaufman, Musashi Tachikawa, and John Yokota.
-* –––, 2006. *Asura’s Harp: Engagement with Language as Buddhist Path*, Heidelberg: Universitatsverlag Winter.
-* –––, 2008. “Shinran and Heidegger on Truth,” in Paul Numrich (ed.), *Boundaries of Knowledge in Buddhism, Christianity, and the Natural Sciences*, Göttingen: Vandenhoeck and Ruprecht, pp. 59–79.
-* –––, 2010. “Shinran in the Light of Heidegger: Rethinking the Concept of Shinjin,” in James Heisig and Rein Raud (eds.), *Classical Japanese Philosophy*, Frontiers of Japanese Philosophy 7, Nagoya: Nanzan Institute for Religion and Culture, 207–231.
-* –––, 2011. “The Awareness of the Natural World in *Shinjin*,” *Buddhist-Christian Studies* 31, 189–200.
-* –––, 2019. “How to Read Shinran,” in Gereon Kopf (ed.), *The Dao Companion to Japanese Buddhist Philosophy*, Dordrecht: Springer Nature, 415–449.
-* –––, 2020. “Philosophical Dimensions of Shinran’s Pure Land Buddhist Path,” in Bret W. Davis (ed.), *The Oxford Handbook of Japanese Philosophy*, New York: Oxford University Press, 159–180.
-* –––, 2022. “On Religious Engagement: Shinran and Heidegger’s Paul,” in Carol Anderson and Thomas Cattoi (eds.), *The Routledge Handbook of Buddhist-Christian Studies*, London: Routledge, 428–441.
-* –––, 2022. “The Nembutsu as Language: Shinran’s Conception of Practice,” *Buddhist-Christian Studies* 42.
-* Josephson, Jason Ānanda, 2012. *The Invention of Religion in Japan*, Chicago: University of Chicago Press.
-* Kasulis, Thomas P., 1984. “Buddhist Existentialism,” *Eastern Buddhist*, 17(2): 134–141.
-* –––, 2001. “Symposium: Shin Buddhist Ethics in Our Postmodern Age of*Mappō*,” *Eastern Buddhist*, 33(1): 16–37.
-* –––, 2018. *Engaging Japanese Philosophy: A Short History* (Chapter 5: Shinran: Naming What Comes Naturally), Honolulu: University of Hawai‘i Press.
-* Ketelaar, James Edward, 1990. *Of Heretics and Martyrs in Meiji Japan: Buddhism and Its Persecution*, Princeton, N.J.: Princeton University Press.
-* Machida, Soho, 1999. *Renegade Monk: Hōnen and Japanese Pure Land Buddhism*, Ioannis Mentzas (trans. and ed.), Berkeley: University of California Press.
-* Mattice, Sarah, 2022. “Shinran as Global Philosopher,” *Religions*, 13(2), 105.
-* Morrell, Robert E., 1987. *Early Kamakura Buddhism: A Minority Report*, Berkeley, CA: Asian Humanities Press.
-* Nishida, Kitaro, 1986. “The Logic of Topos and the Religious Worldview,” trans. Michiko Yusa, *Eastern Buddhist*, 19(2): 1–29.
-* –––, 1995. “Nishida’s Gutoku Shinran,” trans. Dennis Hirota, *Eastern Buddhist*, 28(2): 231–244.
-* Nishitani, Keiji, 1978. “The Problem of Time in Shinran,” trans. Dennis Hirota, *Eastern Buddhist*, 11(1): 13–26.
-* Payne, Richard K. and Kenneth K. Tanaka (eds.), 2004. *Approaching the Land of Bliss: Religious Praxis in the Cult of Amitābha*, Honolulu: University of Hawai‘i Press. (Includes an essay on the Pure Land practice of the Shingon priest Kakuban.)
-* Pye, Michael (ed.), 2011. *Beyond Meditation: Expressions of Japanese Shin Buddhist Spirituality.* London: Equinox Publishing.
-* –––, (ed.), 2012. *Listening to Shin Buddhism: Starting Points of Modern Dialogue.* London: Equinox Publishing.
-* Soga, Ryōjin, 1965. “Dharmakara Bodhisattva,” *Eastern Buddhist*, 1(1): 64–78.
-* Suzuki, D. T., 1970, *Shin Buddhism*, New York: Harper and Row.
-* –––, 1957. *Mysticism: Christian and Buddhist*, London: Routledge.
-* –––, 2015. *Selected Works of D.T. Suzuki* (Volume II: Pure Land), James C. Dobbins (ed.), Berkeley: University of California Press.
-* Tanabe, George J., 1992. *Myōe the Dreamkeeper: Fantasy and Knowledge in Early Kamakura Buddhism*, Cambridge, MA: Harvard University Press.
-* Tanabe, Hajime, 1986. *Philosophy as Metanoetics*, Berkeley: University of California Press.
-* Tanaka, Kenneth K. and Eisho Nasu (eds.), 1998. *Engaged Pure Land Buddhism: The Challenges of Jōdo-Shinshū in the Contemporary World*, Berkeley, CA: WisdomOcean Publications.
-* Takeuchi, Yoshinori, 1980. “Shinran and Contemporary Thought,” trans. Jan van Bragt, *Eastern Buddhist*, 13(2): 26–45.
-* –––, 1982. “The Meaning of Other Power in the Buddhist Way of Salvation,” *Eastern Buddhist*, 15(2): 10–27.
-* –––, 1983. *The Heart of Buddhism : In Search of the Timeless Spirit of Primitive Buddhism*, New York: Crossroad. Includes essays treating Shinran.
-* –––, 1996. “The Fundamental Problem of Shinran’s Thought (Part I),” *Eastern Buddhist*, 29(2): 153–158.
-* Thelle, Notto R., 1987. *Buddhism and Christianity in Japan: From Conflict to Dialogue, 1854–1899*, Honolulu: University of Hawai‘i Press.
-* Ueda, Yoshifumi, 1984. “The Mahayana Structure of Shinran’s Thought,” trans. Dennis Hirota, in *Eastern Buddhist*, 17(1): 57–78 and 17(2): 30–54.
-* –––, 1986. “Freedom and Necessity in Shinran’s Concept of Karma,” trans. Dennis Hirota, *Eastern* *Buddhist*, 19(1): 76–100.
-* Ueda, Yoshifumi and Dennis Hirota, 1989. *Shinran: An Introduction to His Thought*, Kyoto: Hongwanji International Center. (Includes background chapters on Mahayana and general Pure Land Buddhist thought and a selection of key passages from Shinran’s writings with original texts.)
-* Unno Taitetsu and James W. Heisig (eds.), 1990. *The Religious Philosophy of Tanabe Hajime* (Part I: Shin Buddhism). Berkeley: Asian Humanities Press.
-* van Bragt, Jan, 2017. *A Soga Ryōjin Reader*, Wamae Muriuki (ed.), Michael Conway (Introduction), Nagoya, Japan: Chisokudō.
-* van der Veere, Henny, 2000. *A Study into the Thought of Kōgyō Daishi Kakuban: With a Translation of His Gorin kuji myō himitsushaku*. Leiden: Hotei Publishing. (Twelfth century Shingon formulation of Pure Land themes. Includes a translation of *Amida hishaku*.)
-* Watt, Paul B., 2016. *Demythologizing Pure Land Buddhism: Yasuda Rijin and the Shin Buddhist Tradition*, Honolulu: University of Hawai‘i Press.
+* ––– (ed.), 2000b. _Toward a Contemporary Understanding of Pure Land Buddhism_, Albany, N. Y.: State University of New York Press. Articles by John B. Cobb, Jr., Dennis Hirota, Gordon D. Kaufman, Musashi Tachikawa, and John Yokota.
+* –––, 2006. _Asura’s Harp: Engagement with Language as Buddhist Path_, Heidelberg: Universitatsverlag Winter.
+* –––, 2008. “Shinran and Heidegger on Truth,” in Paul Numrich (ed.), _Boundaries of Knowledge in Buddhism, Christianity, and the Natural Sciences_, Göttingen: Vandenhoeck and Ruprecht, pp. 59–79.
+* –––, 2010. “Shinran in the Light of Heidegger: Rethinking the Concept of Shinjin,” in James Heisig and Rein Raud (eds.), _Classical Japanese Philosophy_, Frontiers of Japanese Philosophy 7, Nagoya: Nanzan Institute for Religion and Culture, 207–231.
+* –––, 2011. “The Awareness of the Natural World in _Shinjin_,” _Buddhist-Christian Studies_ 31, 189–200.
+* –––, 2019. “How to Read Shinran,” in Gereon Kopf (ed.), _The Dao Companion to Japanese Buddhist Philosophy_, Dordrecht: Springer Nature, 415–449.
+* –––, 2020. “Philosophical Dimensions of Shinran’s Pure Land Buddhist Path,” in Bret W. Davis (ed.), _The Oxford Handbook of Japanese Philosophy_, New York: Oxford University Press, 159–180.
+* –––, 2022. “On Religious Engagement: Shinran and Heidegger’s Paul,” in Carol Anderson and Thomas Cattoi (eds.), _The Routledge Handbook of Buddhist-Christian Studies_, London: Routledge, 428–441.
+* –––, 2022. “The Nembutsu as Language: Shinran’s Conception of Practice,” _Buddhist-Christian Studies_ 42.
+* Josephson, Jason Ānanda, 2012. _The Invention of Religion in Japan_, Chicago: University of Chicago Press.
+* Kasulis, Thomas P., 1984. “Buddhist Existentialism,” _Eastern Buddhist_, 17(2): 134–141.
+* –––, 2001. “Symposium: Shin Buddhist Ethics in Our Postmodern Age of_Mappō_,” _Eastern Buddhist_, 33(1): 16–37.
+* –––, 2018. _Engaging Japanese Philosophy: A Short History_ (Chapter 5: Shinran: Naming What Comes Naturally), Honolulu: University of Hawai‘i Press.
+* Ketelaar, James Edward, 1990. _Of Heretics and Martyrs in Meiji Japan: Buddhism and Its Persecution_, Princeton, N.J.: Princeton University Press.
+* Machida, Soho, 1999. _Renegade Monk: Hōnen and Japanese Pure Land Buddhism_, Ioannis Mentzas (trans. and ed.), Berkeley: University of California Press.
+* Mattice, Sarah, 2022. “Shinran as Global Philosopher,” _Religions_, 13(2), 105.
+* Morrell, Robert E., 1987. _Early Kamakura Buddhism: A Minority Report_, Berkeley, CA: Asian Humanities Press.
+* Nishida, Kitaro, 1986. “The Logic of Topos and the Religious Worldview,” trans. Michiko Yusa, _Eastern Buddhist_, 19(2): 1–29.
+* –––, 1995. “Nishida’s Gutoku Shinran,” trans. Dennis Hirota, _Eastern Buddhist_, 28(2): 231–244.
+* Nishitani, Keiji, 1978. “The Problem of Time in Shinran,” trans. Dennis Hirota, _Eastern Buddhist_, 11(1): 13–26.
+* Payne, Richard K. and Kenneth K. Tanaka (eds.), 2004. _Approaching the Land of Bliss: Religious Praxis in the Cult of Amitābha_, Honolulu: University of Hawai‘i Press. (Includes an essay on the Pure Land practice of the Shingon priest Kakuban.)
+* Pye, Michael (ed.), 2011. _Beyond Meditation: Expressions of Japanese Shin Buddhist Spirituality._ London: Equinox Publishing.
+* –––, (ed.), 2012. _Listening to Shin Buddhism: Starting Points of Modern Dialogue._ London: Equinox Publishing.
+* Soga, Ryōjin, 1965. “Dharmakara Bodhisattva,” _Eastern Buddhist_, 1(1): 64–78.
+* Suzuki, D. T., 1970, _Shin Buddhism_, New York: Harper and Row.
+* –––, 1957. _Mysticism: Christian and Buddhist_, London: Routledge.
+* –––, 2015. _Selected Works of D.T. Suzuki_ (Volume II: Pure Land), James C. Dobbins (ed.), Berkeley: University of California Press.
+* Tanabe, George J., 1992. _Myōe the Dreamkeeper: Fantasy and Knowledge in Early Kamakura Buddhism_, Cambridge, MA: Harvard University Press.
+* Tanabe, Hajime, 1986. _Philosophy as Metanoetics_, Berkeley: University of California Press.
+* Tanaka, Kenneth K. and Eisho Nasu (eds.), 1998. _Engaged Pure Land Buddhism: The Challenges of Jōdo-Shinshū in the Contemporary World_, Berkeley, CA: WisdomOcean Publications.
+* Takeuchi, Yoshinori, 1980. “Shinran and Contemporary Thought,” trans. Jan van Bragt, _Eastern Buddhist_, 13(2): 26–45.
+* –––, 1982. “The Meaning of Other Power in the Buddhist Way of Salvation,” _Eastern Buddhist_, 15(2): 10–27.
+* –––, 1983. _The Heart of Buddhism : In Search of the Timeless Spirit of Primitive Buddhism_, New York: Crossroad. Includes essays treating Shinran.
+* –––, 1996. “The Fundamental Problem of Shinran’s Thought (Part I),” _Eastern Buddhist_, 29(2): 153–158.
+* Thelle, Notto R., 1987. _Buddhism and Christianity in Japan: From Conflict to Dialogue, 1854–1899_, Honolulu: University of Hawai‘i Press.
+* Ueda, Yoshifumi, 1984. “The Mahayana Structure of Shinran’s Thought,” trans. Dennis Hirota, in _Eastern Buddhist_, 17(1): 57–78 and 17(2): 30–54.
+* –––, 1986. “Freedom and Necessity in Shinran’s Concept of Karma,” trans. Dennis Hirota, _Eastern_ _Buddhist_, 19(1): 76–100.
+* Ueda, Yoshifumi and Dennis Hirota, 1989. _Shinran: An Introduction to His Thought_, Kyoto: Hongwanji International Center. (Includes background chapters on Mahayana and general Pure Land Buddhist thought and a selection of key passages from Shinran’s writings with original texts.)
+* Unno Taitetsu and James W. Heisig (eds.), 1990. _The Religious Philosophy of Tanabe Hajime_ (Part I: Shin Buddhism). Berkeley: Asian Humanities Press.
+* van Bragt, Jan, 2017. _A Soga Ryōjin Reader_, Wamae Muriuki (ed.), Michael Conway (Introduction), Nagoya, Japan: Chisokudō.
+* van der Veere, Henny, 2000. _A Study into the Thought of Kōgyō Daishi Kakuban: With a Translation of His Gorin kuji myō himitsushaku_. Leiden: Hotei Publishing. (Twelfth century Shingon formulation of Pure Land themes. Includes a translation of _Amida hishaku_.)
+* Watt, Paul B., 2016. _Demythologizing Pure Land Buddhism: Yasuda Rijin and the Shin Buddhist Tradition_, Honolulu: University of Hawai‘i Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=japanese-pure-land). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/japanese-pure-land/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=japanese-pure-land&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/japanese-pure-land/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=japanese-pure-land).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/japanese-pure-land/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=japanese-pure-land\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/japanese-pure-land/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -399,7 +393,7 @@ Such thinking may also be seen in Shinran, who includes, in his list of ten bene
 
 ## Related Entries
 
-[Buddha](https://plato.stanford.edu/entries/buddha/) | [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/) | [Japanese Philosophy: Kūkai](https://plato.stanford.edu/entries/kukai/) | [Japanese Philosophy: Kyoto School](https://plato.stanford.edu/entries/kyoto-school/) | [Japanese Philosophy: Zen Buddhism](https://plato.stanford.edu/entries/japanese-zen/) | [Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/) | [Vasubandhu](https://plato.stanford.edu/entries/vasubandhu/)
+[Buddha](https://plato.stanford.edu/entries/buddha/) | [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/) | [Japanese Philosophy: Kūkai](https://plato.stanford.edu/entries/kukai/) | [Japanese Philosophy: Kyoto School](https://plato.stanford.edu/entries/kyoto-school/) | [Japanese Philosophy: Zen Buddhism](https://plato.stanford.edu/entries/japanese-zen/) | [Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/) | [Vasubandhu](https://plato.stanford.edu/entries/vasubandhu/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-Dennis Hirota <[*hirota.dennis@gmail.com*](mailto:hirota%2edennis%40gmail%2ecom)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+Dennis Hirota <[_hirota.dennis@gmail.com_](mailto:hirota%2edennis%40gmail%2ecom)>

@@ -1,39 +1,35 @@
 # 维泰博的詹姆斯 James of Viterbo (Antoine Côté)
 
-*首次发表于2011年8月18日，实质性修订于2020年7月22日。*
+_首次发表于2011年8月18日，实质性修订于2020年7月22日。_
 
 维泰博的詹姆斯（约 1255 年-1308 年）是 13 世纪最后一个季度活跃的一批重要神学家之一，与戈弗雷·冯坦、亨利·根特和罗马的吉尔斯并列，他经常讨论这三位作者的观点，并经常与他们意见不合。尽管詹姆斯明显受到圣奥古斯丁的工作和观点的影响，但他是一个独立思考者，他的独创性源于他对亚里士多德的希腊和阿拉伯评论家的细致阅读。在几个问题上，例如认知、自我对上帝的爱、精神和世俗权力之间的关系，詹姆斯持有引人注目的独特和常常引起争议的立场。
 
 * [1. 生平和著作](https://plato.stanford.edu/entries/james-viterbo/#LifWri)
 * [2. 哲学神学](https://plato.stanford.edu/entries/james-viterbo/#PhiThe)
-
   * [2.1 神学作为一门实践科学](https://plato.stanford.edu/entries/james-viterbo/#ThePraSci)
-  * [ 2.2 神圣的力量](https://plato.stanford.edu/entries/james-viterbo/#DivPow)
-  * [ 2.3 神圣的观念](https://plato.stanford.edu/entries/james-viterbo/#DivIde)
-* [ 3. 形而上学](https://plato.stanford.edu/entries/james-viterbo/#Met)
-
+  * [2.2 神圣的力量](https://plato.stanford.edu/entries/james-viterbo/#DivPow)
+  * [2.3 神圣的观念](https://plato.stanford.edu/entries/james-viterbo/#DivIde)
+* [3. 形而上学](https://plato.stanford.edu/entries/james-viterbo/#Met)
   * [3.1 存有的类比](https://plato.stanford.edu/entries/james-viterbo/#Ana)
   * [3.2 存有与本质的区别](https://plato.stanford.edu/entries/james-viterbo/#DisBeiEss)
-  * [ 3.3 关系](https://plato.stanford.edu/entries/james-viterbo/#Relations)
-  * [ 3.4 个体化](https://plato.stanford.edu/entries/james-viterbo/#Ind)
+  * [3.3 关系](https://plato.stanford.edu/entries/james-viterbo/#Relations)
+  * [3.4 个体化](https://plato.stanford.edu/entries/james-viterbo/#Ind)
 * [4. 自然哲学（种子理论）](https://plato.stanford.edu/entries/james-viterbo/#NatDocSemRea)
 * [5. 灵魂及其能力](https://plato.stanford.edu/entries/james-viterbo/#SouPow)
-* [ 6. 认知](https://plato.stanford.edu/entries/james-viterbo/#Cog)
-* [ 7. 伦理学](https://plato.stanford.edu/entries/james-viterbo/#Eth)
-
+* [6. 认知](https://plato.stanford.edu/entries/james-viterbo/#Cog)
+* [7. 伦理学](https://plato.stanford.edu/entries/james-viterbo/#Eth)
   * [7.1 自由意志](https://plato.stanford.edu/entries/james-viterbo/#FreWil)
   * [7.2 美德的联系](https://plato.stanford.edu/entries/james-viterbo/#ConVir)
   * [7.3 爱自己 vs. 爱上帝](https://plato.stanford.edu/entries/james-viterbo/#LovSelVsLovGod)
-* [ 8. 政治思想](https://plato.stanford.edu/entries/james-viterbo/#PolTho)
-* [ 参考书目](https://plato.stanford.edu/entries/james-viterbo/#Bib)
-
+* [8. 政治思想](https://plato.stanford.edu/entries/james-viterbo/#PolTho)
+* [参考书目](https://plato.stanford.edu/entries/james-viterbo/#Bib)
   * [维泰博的詹姆斯作品的现代版本](https://plato.stanford.edu/entries/james-viterbo/#ModEdiJamWor)
-  * [ 二次文献](https://plato.stanford.edu/entries/james-viterbo/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/james-viterbo/#Aca)
+  * [二次文献](https://plato.stanford.edu/entries/james-viterbo/#SecLit)
+* [学术工具](https://plato.stanford.edu/entries/james-viterbo/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/james-viterbo/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/james-viterbo/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/james-viterbo/#Rel)
 
----
+***
 
 ## 1. 生平与著作
 
@@ -53,14 +49,14 @@
 2. 维泰博的詹姆斯在神学上的巴黎问题讨论（1293-1295）
 3. 关于天体运动的问题（1293-1296）
 4. 第一哲学解释（1293-1295）
-5. 维泰博的詹姆斯 Quodlibeta quattuor* (1293–1298)
-6. *Abbreviatio In Sententiarum Aegidii Romani*** (1286–1288 or 1300–1302)
-7. 维泰博的詹姆斯 De regimine christiano* (1302)
+5. 维泰博的詹姆斯 Quodlibeta quattuor\* (1293–1298)
+6. _Abbreviatio In Sententiarum Aegidii Romani_\*\* (1286–1288 or 1300–1302)
+7. 维泰博的詹姆斯 De regimine christiano\* (1302)
 8. 罪恶区分总论 (1300–1308)
-9. 各种事物的讲道** (1303–1308)
+9. 各种事物的讲道\*\* (1303–1308)
 10. 大卫诗篇的一致性 (1302–1308)
 11. 论忏悔 (1302–1308)
-12. 论主教职责* (1302–1308)
+12. 论主教职责\* (1302–1308)
 
 ## 2. 哲学神学
 
@@ -158,7 +154,7 @@
 
 就詹姆斯而言，相关问题并不是关于智力如何被抽象出来以产生当前的认知行为，而是关于先天智力能力如何发展成为当前的认知行为。他解决问题的关键在于他认为能力积极地趋向于完成。詹姆斯将这种积极倾向描述为一种自我运动-形式自我运动-他认为这是对力量实现的主要创造性因素。当然，“主要创造性因素”并不意味着“唯一的创造性因素”；虽然灵魂的力量比物质中的种子理性更接近实现，并且比感官及其能力更具形式自我运动，智力及其能力也比感官及其能力更接近实现并具有更大的自我运动，但仅仅有“适应性”是不足以实现其实现的（Quodl. I, q. 7, p. 102, 777–778）；还需要其他的东西。对于感官来说，所需的是由感官器官的物理变化引起的“激发性”因果关系（excitatio）；对于智力来说，所需的是由幻象提供的激发性因果关系。在这两种情况下，詹姆斯认为力量的形式自我运动以及来自器官或幻象的“唤醒”行为必然导致它们的效果。
 
-维泰博的詹姆斯因此是哲学史上一群思想家的一部分，对于他们来说，智力本身是行为知识产生的主要因素，而不是超心理对象或其在灵魂中的代理。而且，对于詹姆斯来说，这个内容已经以一般和特定的“适应性”或“才能”的形式存在于灵魂中。这些才能是先天的（naturaliter inditae，“始终存在于[灵魂]中”（Quodl. I, q. 7, p. 92, 422–423）），在适当的触发因素存在时准备实现。很少有其他的斯科拉学派愿意支持这种极端的先天主义形式，一些学者将其比作早期现代人的先天观念理论（Solère 2018a）。
+维泰博的詹姆斯因此是哲学史上一群思想家的一部分，对于他们来说，智力本身是行为知识产生的主要因素，而不是超心理对象或其在灵魂中的代理。而且，对于詹姆斯来说，这个内容已经以一般和特定的“适应性”或“才能”的形式存在于灵魂中。这些才能是先天的（naturaliter inditae，“始终存在于\[灵魂]中”（Quodl. I, q. 7, p. 92, 422–423）），在适当的触发因素存在时准备实现。很少有其他的斯科拉学派愿意支持这种极端的先天主义形式，一些学者将其比作早期现代人的先天观念理论（Solère 2018a）。
 
 ## 7. 伦理学
 
@@ -184,7 +180,7 @@
 
 其次，维泰博的詹姆斯遵循许多斯科拉学派的做法，区分了两种形式的爱：“欲望之爱”或“贪婪之爱”（amor concupiscentiae），他将其定义为“我们为自己或他人而渴望的某种好处的爱”，以及友谊之爱（amor amicitiae），或者是出于对某人本身的爱。尽管詹姆斯认为理性生物以这两种方式都爱上帝，但他明确表示，关于人是否比爱自己更爱上帝或相反的辩论仅涉及友谊之爱；因此，这个辩论是关于人是否天然地出于自己的缘故比爱上帝更爱自己，这是詹姆斯所支持的观点，还是相反。
 
-维泰博的詹姆斯提出了两个论据来支持他的立场。第一个基于这样一个原则：自然爱的方式必须与存在的方式以及存在的方式一致，因为一切存在的东西都是一。现在，一件事物通过数值上的同一性与自身一致，但通过某种一致性与其他事物一致。例如，苏格拉底通过他是苏格拉底这一事实与自己一致，但通过他与柏拉图共享相同形式这一事实与柏拉图一致。但通过数值上的同一性所具有的存在方式比通过与他人共享某些东西而具有的存在方式“更大”。鉴于自然爱的种类遵循存在的方式，可以得出结论，爱自己比爱他人更完美（Quodl. II, q. 20, p. 206, 148 – p. 149, 165）。第二个论证试图从“上帝的慈善之爱提升了[人类]本性的”对上帝的爱这一原则中得出相同的结论（Quodl. II, q. 20, p. 207, 166–167）。詹姆斯推理认为，慈善只有一种方式可以提升本性，那就是使其爱上帝胜过一切。但如果是这样，就必须得出“本性本身不能以这种方式爱上帝（...）。因为如果可以，它就不需要通过慈善来提升。”（Quodl. II, q. 20, p. 207, 181–184）。而詹姆斯说本性本身不能将上帝置于一切之上，这只是说人天然地将自己置于一切之上。证毕。
+维泰博的詹姆斯提出了两个论据来支持他的立场。第一个基于这样一个原则：自然爱的方式必须与存在的方式以及存在的方式一致，因为一切存在的东西都是一。现在，一件事物通过数值上的同一性与自身一致，但通过某种一致性与其他事物一致。例如，苏格拉底通过他是苏格拉底这一事实与自己一致，但通过他与柏拉图共享相同形式这一事实与柏拉图一致。但通过数值上的同一性所具有的存在方式比通过与他人共享某些东西而具有的存在方式“更大”。鉴于自然爱的种类遵循存在的方式，可以得出结论，爱自己比爱他人更完美（Quodl. II, q. 20, p. 206, 148 – p. 149, 165）。第二个论证试图从“上帝的慈善之爱提升了\[人类]本性的”对上帝的爱这一原则中得出相同的结论（Quodl. II, q. 20, p. 207, 166–167）。詹姆斯推理认为，慈善只有一种方式可以提升本性，那就是使其爱上帝胜过一切。但如果是这样，就必须得出“本性本身不能以这种方式爱上帝（...）。因为如果可以，它就不需要通过慈善来提升。”（Quodl. II, q. 20, p. 207, 181–184）。而詹姆斯说本性本身不能将上帝置于一切之上，这只是说人天然地将自己置于一切之上。证毕。
 
 但是，如果慈善以这种方式提升了本性，难道它不是“毁灭”了本性吗？因为它用将自己置于一切之上的倾向完全不同的将上帝置于一切之上的倾向来替代了。詹姆斯的答案是不会，因为“通过慈善，人对自己的爱并没有减少；他只是更加爱上帝。”（Quodl. II, q. 20, p. 210, 280–282）。
 
@@ -196,115 +192,115 @@
 
 《关于基督教政权》分为两个部分。第一部分涉及教会的理论，对于哲学兴趣不大，除了詹姆斯利用亚里士多德来展示所有人类社群，包括教会，都根植于“人类的自然倾向”。第二部分是最长的部分，致力于定义基督和教皇的权力的性质和范围。詹姆斯最具特色的教义之一出现在第二卷第7章，他在这里讨论了世俗权力是否必须由精神权力“设立”，换句话说，它是否从精神权力中获得合法性，或者它是否具有自己的合法性。詹姆斯明确表示，精神权力确实设立了世俗权力，但指出在这个问题上存在两种观点。一些人，例如巴黎的约翰·奎多特等“二元论”立场的支持者，认为世俗权力直接来自上帝，因此无需由精神权力设立，而另一些人，例如罗马的吉尔斯在《论教会权力》中主张，世俗完全来自精神，并且在没有任何合法性的情况下“除非它与精神权力在同一人身上合二为一或由精神权力设立”（《关于基督教政权》：211）。
 
-维泰博的詹姆斯对这两个立场都不满意，并且像往常一样，努力寻找它们之间的“中间道路”。他的解决方案是说，世俗权力的机构的“存在”既来自上帝——通过人的天性倾向——在“一种物质和不完全的意义上”，又来自使其“完善和形成”的精神力量。这是一个非常聪明的解决方案。一方面，通过将世俗权力根植于人的天性倾向中，尽管是在刚才提到的不完全的意义上，詹姆斯承认了世俗统治的合法性，独立于其与精神的联系，从而“避免了[罗马的吉尔斯]的极端和不可信的观点”（戴森2009年：xxix）。另一方面，将世俗权力的自然起源仅仅视为其存在的不完全物质，是一种强调其对精神秩序的从属和次等性的方式，符合他的教皇主义信念。然而，詹姆斯选择的类比来说明精神和世俗领域之间的关系表明，他的解决方案与吉尔斯·罗马所倡导的神权主义立场更为接近，而不是他努力寻找“中间道路”的努力所让我们相信的。因此，他将精神力量与世俗力量的关系比作光与颜色的关系，解释说尽管“颜色具有光的性质，（...）它具有如此微弱的光，以至于，除非存在一种更优秀的光来形成它，不是在其自身的本质上而是在其力量上，它无法引起视觉的变化”（《基督教政权》：211）。换句话说，詹姆斯告诉我们，尽管世俗权力确实源于人的天性倾向，但如果没有精神的指导，它作为权力是无效的。
+维泰博的詹姆斯对这两个立场都不满意，并且像往常一样，努力寻找它们之间的“中间道路”。他的解决方案是说，世俗权力的机构的“存在”既来自上帝——通过人的天性倾向——在“一种物质和不完全的意义上”，又来自使其“完善和形成”的精神力量。这是一个非常聪明的解决方案。一方面，通过将世俗权力根植于人的天性倾向中，尽管是在刚才提到的不完全的意义上，詹姆斯承认了世俗统治的合法性，独立于其与精神的联系，从而“避免了\[罗马的吉尔斯]的极端和不可信的观点”（戴森2009年：xxix）。另一方面，将世俗权力的自然起源仅仅视为其存在的不完全物质，是一种强调其对精神秩序的从属和次等性的方式，符合他的教皇主义信念。然而，詹姆斯选择的类比来说明精神和世俗领域之间的关系表明，他的解决方案与吉尔斯·罗马所倡导的神权主义立场更为接近，而不是他努力寻找“中间道路”的努力所让我们相信的。因此，他将精神力量与世俗力量的关系比作光与颜色的关系，解释说尽管“颜色具有光的性质，（...）它具有如此微弱的光，以至于，除非存在一种更优秀的光来形成它，不是在其自身的本质上而是在其力量上，它无法引起视觉的变化”（《基督教政权》：211）。换句话说，詹姆斯告诉我们，尽管世俗权力确实源于人的天性倾向，但如果没有精神的指导，它作为权力是无效的。
 
 ## Bibliography
 
 ### Modern Editions of James’ Works
 
-* *Abbreviatio in I Sententiarum Aegidii Romani*, dist. 36. Edited by P. Giustiniani, *Analecta Augustiniana,* 42 (1979): 325–338.
-* *De episcopali officio*. Edited by C. Scanzillo in “Il *De episcopali officio* del codice 793 O. di Montecassino.” *Asprenas* (1968):158–79.
-* *De regimine christiano*. A Critical Edition and Translation by R.W. Dyson, Leiden: Brill, 2009. Replaces Arquillière’s edition (see below for complete reference), as well as Dyson’s earlier translation in James of Viterbo, *On Christian Government* (*De regimine christiano*). Edited and Translated by R.W. Dyson, Woodbridge: The Boydell Press, 1995.
-* *Disputationes de quolibet*. Edited by E. Ypma, Würzburg: Augustinus Verlag, vols. I-III, and V, 1968–75.
-* *Quaestiones de divinis praedicamentis,*  
-  qq. I-X and XI-XVII. Edited by E. Ypma (*Corpus Scriptorum Augustianorum*, Vol. V, 1–2), Rome, Augustinianum, 1983, 1986;  
-  q. XVIII, *Augustiniana*, 38 (1988): 67–98;  
-  q. XIX, *Augustiniana*, 39 (1989): 154–185;  
-  q. XX, *Augustiniana*, 42 (1992): 351–378;  
-  q. XXI, *Augustiniana*, 44 (1994): 177–208;  
-  q. XXII, *Augustiniana*, 45 (1995): 299–318;  
-  q. XXIII, *Augustiniana*, 46 (1996): 147–76;  
-  q. XXIV, *Augustiniana*, 46 (1997): 339–369;  
-  q. XXV,  *Augustiniana*, 48 (1998): 131–163;  
-  q. XXVI, *Augustiniana*, 49 (1999): 323–336.  
-  (Fr. Ypma’s declining health and subsequent death in 2007 prevented him from completing the edition of the remaining *Quaestiones*.)
-* *Sermones diversarum rerum*. Edition of two sermons by G. Tavolaro, in “*Opus nature est opus Dei: Potestas regalis et potestas sacerdotalis* nel pensiero di Giacomo da Viterbo,” *Archives d’histoire doctrinale et littéraire du Moyen-Âge*, 81, 91–92 and 93–98.
-* *Summa de peccatorum distinctione*. Partially edited by D. Ambrasi, *Asprenas*, 6 (1959): 189–218.
+* _Abbreviatio in I Sententiarum Aegidii Romani_, dist. 36. Edited by P. Giustiniani, _Analecta Augustiniana,_ 42 (1979): 325–338.
+* _De episcopali officio_. Edited by C. Scanzillo in “Il _De episcopali officio_ del codice 793 O. di Montecassino.” _Asprenas_ (1968):158–79.
+* _De regimine christiano_. A Critical Edition and Translation by R.W. Dyson, Leiden: Brill, 2009. Replaces Arquillière’s edition (see below for complete reference), as well as Dyson’s earlier translation in James of Viterbo, _On Christian Government_ (_De regimine christiano_). Edited and Translated by R.W. Dyson, Woodbridge: The Boydell Press, 1995.
+* _Disputationes de quolibet_. Edited by E. Ypma, Würzburg: Augustinus Verlag, vols. I-III, and V, 1968–75.
+* _Quaestiones de divinis praedicamentis,_\
+  qq. I-X and XI-XVII. Edited by E. Ypma (_Corpus Scriptorum Augustianorum_, Vol. V, 1–2), Rome, Augustinianum, 1983, 1986;\
+  q. XVIII, _Augustiniana_, 38 (1988): 67–98;\
+  q. XIX, _Augustiniana_, 39 (1989): 154–185;\
+  q. XX, _Augustiniana_, 42 (1992): 351–378;\
+  q. XXI, _Augustiniana_, 44 (1994): 177–208;\
+  q. XXII, _Augustiniana_, 45 (1995): 299–318;\
+  q. XXIII, _Augustiniana_, 46 (1996): 147–76;\
+  q. XXIV, _Augustiniana_, 46 (1997): 339–369;\
+  q. XXV,  _Augustiniana_, 48 (1998): 131–163;\
+  q. XXVI, _Augustiniana_, 49 (1999): 323–336.\
+  (Fr. Ypma’s declining health and subsequent death in 2007 prevented him from completing the edition of the remaining _Quaestiones_.)
+* _Sermones diversarum rerum_. Edition of two sermons by G. Tavolaro, in “_Opus nature est opus Dei: Potestas regalis et potestas sacerdotalis_ nel pensiero di Giacomo da Viterbo,” _Archives d’histoire doctrinale et littéraire du Moyen-Âge_, 81, 91–92 and 93–98.
+* _Summa de peccatorum distinctione_. Partially edited by D. Ambrasi, _Asprenas_, 6 (1959): 189–218.
 
 ### Secondary Literature
 
-* Ambrasi, D., 1959, “La Summa de peccatorum distinctione del B. Giacomo da Viterbo dal ms. VII G 101 della Biblioteca Nazionale di Napoli,” *Asprenas*, 6: 47–78, 189–218, 288–308.
-* Anderson, D., 1995, “‘Dominus Ludovicus’ in the Sermons of Jacobus of Viterbo (Arch. S. Pietro D.213),” in *Literature and Religion in the Later Middle Ages: Philological Studies in Honor of Siegfried Wenzel*, R. Newhauser and J. A. Alford (eds.), Binghamton, N.Y.: Medieval & Renaissance Texts & Studies, pp. 275–295.
-* Arquillière, F.-X., 1926, *Le plus ancien traité de l’Église: Jacques de Viterbe ‘De regimine christiano’ (1301–1302)*, *Étude des sources et édition critique*, Paris: G. Beauchesne.
-* Bataillon, L. J.,  1989, “Quelques utilisateurs des textes rares de Moerbeke (Philopon, *tria Opuscula*) et particulièrement Jacques de Viterbe,” in *Guillaume de Moerbeke*: *Recueil d’études à l’occasion du 700e anniversaire de sa mort (1286)*,  J. Brams et W. Vanhamel (eds.), Leuven: Leuven University Press, pp. 107–112.
-* Beneš, J., 1927, “Valor possibilium apud S. Thomam, Henricum Gandavensem et B. Iacobum de Viterbio,” *Divus Thomas* (Piacenza) 30: 333–55.
-* Côté, A., 2009a, “Le progrès à l’infini des perfections créées selon Godefroid de Fontaines et Jacques de Viterbe,” in *Actualité de l’infinité divine aux XIIIe et XIVe siècles*, D. Arbib (ed.) *Les Études Philosophiques*, 4: 505–530.
-* –––, 2009b, “Simplicius and James of Viterbo on Propensities,” *Vivarium*, 47: 24–53.
-* –––, 2010, *L’âme, l’intellect, et la volonté*, Paris: Librairie Philosophique J. Vrin. Latin text of James of Viterbo’s *Quod.* I, q. 7 (partial), q. 12 (complete), and 13 (complete), with French Translation, Introduction, and notes.
-* –––, 2012,“Le *Quodlibet* I, question 17 de Jacques de Viterbe: introduction, traduction et notes,” *Augustiniana*, 62: 45–76.
-* –––, 2013,“La critique de la doctrine de l’abstraction de Jacques de Viterbe,” *Medioevo* 38: 33–61.
-* –––, 2016, “Bernard of Auvergne on James of Viterbo’s Doctrine of Possibles: With a Critical Edition of Bernard’s *Reprobatio* of James’s Quodlibet 1, Question 5, ” *Augustiniana*, 66: 151–184.
+* Ambrasi, D., 1959, “La Summa de peccatorum distinctione del B. Giacomo da Viterbo dal ms. VII G 101 della Biblioteca Nazionale di Napoli,” _Asprenas_, 6: 47–78, 189–218, 288–308.
+* Anderson, D., 1995, “‘Dominus Ludovicus’ in the Sermons of Jacobus of Viterbo (Arch. S. Pietro D.213),” in _Literature and Religion in the Later Middle Ages: Philological Studies in Honor of Siegfried Wenzel_, R. Newhauser and J. A. Alford (eds.), Binghamton, N.Y.: Medieval & Renaissance Texts & Studies, pp. 275–295.
+* Arquillière, F.-X., 1926, _Le plus ancien traité de l’Église: Jacques de Viterbe ‘De regimine christiano’ (1301–1302)_, _Étude des sources et édition critique_, Paris: G. Beauchesne.
+* Bataillon, L. J.,  1989, “Quelques utilisateurs des textes rares de Moerbeke (Philopon, _tria Opuscula_) et particulièrement Jacques de Viterbe,” in _Guillaume de Moerbeke_: _Recueil d’études à l’occasion du 700e anniversaire de sa mort (1286)_,  J. Brams et W. Vanhamel (eds.), Leuven: Leuven University Press, pp. 107–112.
+* Beneš, J., 1927, “Valor possibilium apud S. Thomam, Henricum Gandavensem et B. Iacobum de Viterbio,” _Divus Thomas_ (Piacenza) 30: 333–55.
+* Côté, A., 2009a, “Le progrès à l’infini des perfections créées selon Godefroid de Fontaines et Jacques de Viterbe,” in _Actualité de l’infinité divine aux XIIIe et XIVe siècles_, D. Arbib (ed.) _Les Études Philosophiques_, 4: 505–530.
+* –––, 2009b, “Simplicius and James of Viterbo on Propensities,” _Vivarium_, 47: 24–53.
+* –––, 2010, _L’âme, l’intellect, et la volonté_, Paris: Librairie Philosophique J. Vrin. Latin text of James of Viterbo’s _Quod._ I, q. 7 (partial), q. 12 (complete), and 13 (complete), with French Translation, Introduction, and notes.
+* –––, 2012,“Le _Quodlibet_ I, question 17 de Jacques de Viterbe: introduction, traduction et notes,” _Augustiniana_, 62: 45–76.
+* –––, 2013,“La critique de la doctrine de l’abstraction de Jacques de Viterbe,” _Medioevo_ 38: 33–61.
+* –––, 2016, “Bernard of Auvergne on James of Viterbo’s Doctrine of Possibles: With a Critical Edition of Bernard’s _Reprobatio_ of James’s Quodlibet 1, Question 5, ” _Augustiniana_, 66: 151–184.
 * –––, 2018, “James of Viterbo on Divine Ideas and the Divine Cognition of Creatures” in A. Côté & M. Pickavé (eds.), pp. 70–96.
-* –––, 2019, “Maino de Maineri (ca. 1290–ca.1368) on Whether Something Can Come to Be Out of Nothing: *Questiones de substantia orbis: questio utrum ex nihilo possit aliquid fieri*,” *Mediaeval Studies*, 81: 2–76.
-* Côté, A., & Pickavé, M. (eds.), 2018, *A Companion to James of Viterbo*, Leiden: Brill.
+* –––, 2019, “Maino de Maineri (ca. 1290–ca.1368) on Whether Something Can Come to Be Out of Nothing: _Questiones de substantia orbis: questio utrum ex nihilo possit aliquid fieri_,” _Mediaeval Studies_, 81: 2–76.
+* Côté, A., & Pickavé, M. (eds.), 2018, _A Companion to James of Viterbo_, Leiden: Brill.
 * Dumont, S., 2018a,“James of Viterbo on the Will,” in A. Côté & M. Pickavé (eds.), pp. 249–305.
-* –––, 2018b,“The Authorship of the *Quaestiones septem de Verbo* Attributed to James of Viterbo,” in A. Côté & M. Pickavé (eds.), pp. 356–375.
-* Fidel Casado, P., 1951–3, “El pensamiento filosófico del Beato Santiago de Viterbo,” *La Ciudad de Dios*, 163 (1951): 437–454; 164 (1952): 301–331; 165 (1953): 103–144, 283–302, 489–500.
-* –––, 1967, “Quaestiones de quolibet de Santiago de Viterbo (Quodlibeto I, q. 12),” *Archivo Teológico Agustiniano*, 2: 109–130.
-* Giustiniani, P., 1979, “Il problema delle idee in Dio secondo Giacomo da Viterbo OESA, con edizione della Distinzione 36 dell’Abbreviato in I Sententiarum Aegidii Romani,” *Analecta Augustiniana*, 42: 288–342.
-* –––, 1980, “La teologia studiata secondo le 4 cause aristoteliche in un’opera inedita di Giacomo da Viterbo,” *Asprenas*, 27: 161–188.
-* Giustiniani, P., Tavolaro, G. (eds.), 2011, *Giacomo da Viterbo al tempo di Bonifacio VIII: Studi per il VII centenario della morte in onore di S.E. Rev.ma Mons. Lorenzo Chiarinelli Vescovo emerito di Viterbo*, Rome: Centro Culturale Agostiniano.
-* Gossiaux, M. D., 1999, “James of Viterbo on the Relationship between Essence and Existence,” *Augustiniana*, 49: 73–107.
-* –––, 2007, “James of Viterbo and the Late Thirteenth-Century Debate Concerning the Reality of the Possibles,” *Recherches de Théologie et Philosophie Médiévales*, 74 (2): 483–522.
+* –––, 2018b,“The Authorship of the _Quaestiones septem de Verbo_ Attributed to James of Viterbo,” in A. Côté & M. Pickavé (eds.), pp. 356–375.
+* Fidel Casado, P., 1951–3, “El pensamiento filosófico del Beato Santiago de Viterbo,” _La Ciudad de Dios_, 163 (1951): 437–454; 164 (1952): 301–331; 165 (1953): 103–144, 283–302, 489–500.
+* –––, 1967, “Quaestiones de quolibet de Santiago de Viterbo (Quodlibeto I, q. 12),” _Archivo Teológico Agustiniano_, 2: 109–130.
+* Giustiniani, P., 1979, “Il problema delle idee in Dio secondo Giacomo da Viterbo OESA, con edizione della Distinzione 36 dell’Abbreviato in I Sententiarum Aegidii Romani,” _Analecta Augustiniana_, 42: 288–342.
+* –––, 1980, “La teologia studiata secondo le 4 cause aristoteliche in un’opera inedita di Giacomo da Viterbo,” _Asprenas_, 27: 161–188.
+* Giustiniani, P., Tavolaro, G. (eds.), 2011, _Giacomo da Viterbo al tempo di Bonifacio VIII: Studi per il VII centenario della morte in onore di S.E. Rev.ma Mons. Lorenzo Chiarinelli Vescovo emerito di Viterbo_, Rome: Centro Culturale Agostiniano.
+* Gossiaux, M. D., 1999, “James of Viterbo on the Relationship between Essence and Existence,” _Augustiniana_, 49: 73–107.
+* –––, 2007, “James of Viterbo and the Late Thirteenth-Century Debate Concerning the Reality of the Possibles,” _Recherches de Théologie et Philosophie Médiévales_, 74 (2): 483–522.
 * –––, 2018, “James of Viterbo on Metaphysics” in A. Côté & M. Pickavé (eds.), pp. 33–69.
-* Grabmann, M., 1936, “Die Lehre des Jakob von Viterbo (1308) von der Wirklichkeit des göttlichen Seins (Beitrag zum Streit über das Sein Gottes zur Zeit Meister Eckharts),” *Mittelalterliches Geistesleben. Abhandlungen zur Geschichte der Scholastik und Mystik*, vol. 2, Max Hueber Verlag, Munich: 490–511.
-* Gutiérrez, P. D., 1939, *De B. Iacobi Viterbiensis O.E.S.A. Vita, Operibus et Doctrina Theologica*, Rome: Analecta Augustiniana.
-* Henninger, M., 1989, *Relations: Medieval Theories 1250–1325*, Oxford: Clarendon Press.
+* Grabmann, M., 1936, “Die Lehre des Jakob von Viterbo (1308) von der Wirklichkeit des göttlichen Seins (Beitrag zum Streit über das Sein Gottes zur Zeit Meister Eckharts),” _Mittelalterliches Geistesleben. Abhandlungen zur Geschichte der Scholastik und Mystik_, vol. 2, Max Hueber Verlag, Munich: 490–511.
+* Gutiérrez, P. D., 1939, _De B. Iacobi Viterbiensis O.E.S.A. Vita, Operibus et Doctrina Theologica_, Rome: Analecta Augustiniana.
+* Henninger, M., 1989, _Relations: Medieval Theories 1250–1325_, Oxford: Clarendon Press.
 * –––, 2018, “James of Viterbo on the Ontological Status of Real Relations,” in A. Côté & M. Pickavé (eds.), pp. 97–126.
-* Jeschke, T., 2009, “Über natürliche und übernatürliche Gottesliebe. Durandus und einige Dominikaner gegen Jakob von Viterbo (mit einer Textedition von *In III Sententiarum*, D. 29, Q. 2 des Petrus de Palude),” *Recherches de Théologie et Philosophie Médiévale*, 76 (1): 111–198.
+* Jeschke, T., 2009, “Über natürliche und übernatürliche Gottesliebe. Durandus und einige Dominikaner gegen Jakob von Viterbo (mit einer Textedition von _In III Sententiarum_, D. 29, Q. 2 des Petrus de Palude),” _Recherches de Théologie et Philosophie Médiévale_, 76 (1): 111–198.
 * Kempshall, M. S., 1999, “The Common Good in Late Medieval Political Thought,” Oxford: Clarendon Press, ch. 10.
-* Kent, B., 2001, “Justice, Passion, and Another’s Good: Aristotle among the Theologians,” in *Nach der Verurteilung von 1277. Philosophie und Theologie an der Universität von Paris im letzten Viertel des 13. Jahrhunderts. Studien und Texte—After the Condemnation of 1277. Philosophy and Theology at the University of Paris in the Last Quarter of the Thirteenth Century. Studies and Texts*, Miscellanea Mediaevalia, 28, J. Aertsen, K. Emery, Jr., A. Speer (eds.), Berlin: Walter de Gruyter, pp. 704–718.
-* Libera, A. de, 1994, “D’Avicenne à Averroès, et retour. Sur les sources arabes de la théorie scolastique de l’un transcendental,” *Arabic Sciences and Philosophy*, 4: 141–179.
-* Mahoney, E. P., 1973, “Themistius and the Agent Intellect in James of Viterbo and other Thirteenth Century Philosophers (Saint Thomas, Siger of Brabant and Henry Bate),” *Augustiniana*, 23: 422–467.
-* –––, 1980, “Metaphysical Foundations of the Hierarchy of Being according to Some Late Medieval Philosophers,” in *Philosophies of Existence: Ancient and Medieval*, P. Morewedge (ed.), New York: Fordham University Press, pp. 165–257.
-* –––, 1995, “Duns Scotus and Medieval Discussions of Metaphysical Hierarchy: the Background of Scotus’ ‘Essential Order’ in Henry of Ghent, Godfrey of Fontaines and James of Viterbo,” in *Via Scoti. Methodologica ad mentem Joannis Duns Scoti. Atti del Congresso scotistico internazionale, Roma, 9–11 marzo 1993*, vol. I, L. Sileo (ed.), Rome: PAA-Edizioni Antonianum, pp. 359–374.
-* Maier, A., 1943, *An der Grenze von Scholastik und Naturwissenschaft. Studien zur Naturphilosophie des 14. Jahrhunderts*, Essen: Essener Verlagsanstalt, pp. 367–368.
-* Osborne, T. M., 1999, “James of Viterbo’s Rejection of Giles of Rome’s Arguments for the Natural Love of God over Self,” *Augustiniana*, 49: 235–249.
-* –––, 2005, *Love of Self and Love of God in Thirteenth-Century Ethics*, Notre Dame: University of Notre Dame Press.
-* Pattin, A, 1962, “La structure de l’être fini selon Bernard d’Auvergne, O.P. (après 1307),” *Tijdschrift voor Filosofie*, 4: 668–737.
-* Phelps, M., 1980, “The Theory of Seminal Reasons in James of Viterbo,” *Augustiniana*, 30: 271–283.
-* Pickavé, M., 2007, “The Controversy over the Principle of Individuation in *Quodlibeta* (1277–ca. 1320): A Forest Map,” in *Theological Quodlibeta in the Middle Ages. The Fourteenth Century*, C. Schabel (ed.) Leiden: Brill, pp. 17–79.
+* Kent, B., 2001, “Justice, Passion, and Another’s Good: Aristotle among the Theologians,” in _Nach der Verurteilung von 1277. Philosophie und Theologie an der Universität von Paris im letzten Viertel des 13. Jahrhunderts. Studien und Texte—After the Condemnation of 1277. Philosophy and Theology at the University of Paris in the Last Quarter of the Thirteenth Century. Studies and Texts_, Miscellanea Mediaevalia, 28, J. Aertsen, K. Emery, Jr., A. Speer (eds.), Berlin: Walter de Gruyter, pp. 704–718.
+* Libera, A. de, 1994, “D’Avicenne à Averroès, et retour. Sur les sources arabes de la théorie scolastique de l’un transcendental,” _Arabic Sciences and Philosophy_, 4: 141–179.
+* Mahoney, E. P., 1973, “Themistius and the Agent Intellect in James of Viterbo and other Thirteenth Century Philosophers (Saint Thomas, Siger of Brabant and Henry Bate),” _Augustiniana_, 23: 422–467.
+* –––, 1980, “Metaphysical Foundations of the Hierarchy of Being according to Some Late Medieval Philosophers,” in _Philosophies of Existence: Ancient and Medieval_, P. Morewedge (ed.), New York: Fordham University Press, pp. 165–257.
+* –––, 1995, “Duns Scotus and Medieval Discussions of Metaphysical Hierarchy: the Background of Scotus’ ‘Essential Order’ in Henry of Ghent, Godfrey of Fontaines and James of Viterbo,” in _Via Scoti. Methodologica ad mentem Joannis Duns Scoti. Atti del Congresso scotistico internazionale, Roma, 9–11 marzo 1993_, vol. I, L. Sileo (ed.), Rome: PAA-Edizioni Antonianum, pp. 359–374.
+* Maier, A., 1943, _An der Grenze von Scholastik und Naturwissenschaft. Studien zur Naturphilosophie des 14. Jahrhunderts_, Essen: Essener Verlagsanstalt, pp. 367–368.
+* Osborne, T. M., 1999, “James of Viterbo’s Rejection of Giles of Rome’s Arguments for the Natural Love of God over Self,” _Augustiniana_, 49: 235–249.
+* –––, 2005, _Love of Self and Love of God in Thirteenth-Century Ethics_, Notre Dame: University of Notre Dame Press.
+* Pattin, A, 1962, “La structure de l’être fini selon Bernard d’Auvergne, O.P. (après 1307),” _Tijdschrift voor Filosofie_, 4: 668–737.
+* Phelps, M., 1980, “The Theory of Seminal Reasons in James of Viterbo,” _Augustiniana_, 30: 271–283.
+* Pickavé, M., 2007, “The Controversy over the Principle of Individuation in _Quodlibeta_ (1277–ca. 1320): A Forest Map,” in _Theological Quodlibeta in the Middle Ages. The Fourteenth Century_, C. Schabel (ed.) Leiden: Brill, pp. 17–79.
 * Pickavé, M. and Côté, A., 2018, “James of Viterbo’s Philosophy of Nature,”in Côté, A., & Pickavé, M. (eds.), 2018, pp.127–167.
-* Ruello, F., 1970, “L’analogie de l’être selon Jacques de Viterbe, *Quodlibet* I, *Quaestio* I,” *Augustiniana*, 20: 145–180.
-* –––, 1974–5, “Les fondements de la liberté humaine selon Jacques de Viterbe, *Disputatio prima de Quolibet*, q. VII (1293),” *Augustiniana*, 24: 283–347; 25: 114–142.
-* Rüssmann, H., 1938, *Zur Ideenlehre der Hochscholastik, unter besonderer Berücksichtigung des Heinrich von Gent, Gottfried von Fontaines un Jakob von Viterbo*, Freiburg: Herder.
-* Scanzillo, C., 1972, “Jacobus de Viterbio OSA: La ‘Prima quaestio disputata de Verbo’ del codice A. 971 delle Biblioteca dell’Archiginnasio di Bologna. Edizione e note,” *Asprenas*, 19: 25–61.
-* Schönberger, R., 1986, *Die Transformation des klassischen Seinsverständnisses. Studien zur Vorgeschichte des neuzeitlichen Seinsbegriffs im Mittelalter*, Quellen und Studien zur Geschichte der Philosophie, 21, Berlin-New York, De Gruyter.
-* –––, 1994, *Relation als Vergleich. Die Relationstheorie des Johannes Buridan im Kontext seines Denkens und der Scholastik*, Leiden: Brill, pp. 132–142.
+* Ruello, F., 1970, “L’analogie de l’être selon Jacques de Viterbe, _Quodlibet_ I, _Quaestio_ I,” _Augustiniana_, 20: 145–180.
+* –––, 1974–5, “Les fondements de la liberté humaine selon Jacques de Viterbe, _Disputatio prima de Quolibet_, q. VII (1293),” _Augustiniana_, 24: 283–347; 25: 114–142.
+* Rüssmann, H., 1938, _Zur Ideenlehre der Hochscholastik, unter besonderer Berücksichtigung des Heinrich von Gent, Gottfried von Fontaines un Jakob von Viterbo_, Freiburg: Herder.
+* Scanzillo, C., 1972, “Jacobus de Viterbio OSA: La ‘Prima quaestio disputata de Verbo’ del codice A. 971 delle Biblioteca dell’Archiginnasio di Bologna. Edizione e note,” _Asprenas_, 19: 25–61.
+* Schönberger, R., 1986, _Die Transformation des klassischen Seinsverständnisses. Studien zur Vorgeschichte des neuzeitlichen Seinsbegriffs im Mittelalter_, Quellen und Studien zur Geschichte der Philosophie, 21, Berlin-New York, De Gruyter.
+* –––, 1994, _Relation als Vergleich. Die Relationstheorie des Johannes Buridan im Kontext seines Denkens und der Scholastik_, Leiden: Brill, pp. 132–142.
 * Solère, J.-L., 2018a, “James of Viterbo’s Innatist Theory of Cognition,” in A. Côté & M. Pickavé (eds.), 2018, pp. 168–217.
 * –––, 2018b, “Intellect and Intellectual Cognition According to James of Viterbo,” in A. Côté & M. Pickavé (eds.), 2018, pp. 218–248.
-* Spruit, L., 1994, Species Intelligibilis: *From Perception to Knowledge,* vol. 1, Leiden: Brill.
-* Tavolaro, G., 2014, “*Opus nature est opus Dei: Potestas regalis et potestas sacerdotalis* nel pensiero di Giacomo da Viterbo,” *Archives d’histoire doctrinale et littéraire du Moyen-Âge*, 81: 39–98.
-* –––, 2018, “The So-Called *Abbreviatio in I Sententiarum Aegidii Romani* of James of Viterbo: A New Hypothesis,” in A. Côté & M. Pickavé (eds.), 2018, pp. 376–392.
-* Wéber, E., 1981, “Eckhart et l’ontothéologisme : histoire et conditions d’une rupture,” in *Maître Eckhart à Paris. Une critique médiévale de l’ontothéologie. Les* Questions parisiennes n° 1 et n° 2 *d’Eckhart*, Z. Kaluza, A. de Libera, P. Vignaux, E. Wéber, E. Zum Brunn (eds.), Paris: Presses universitaires de France, pp. 21–54.
-* Wippel, J. F., 1974, “The Dating of James of Viterbo’s *Quodlibet* I and Godfrey of Fontaine’s *Quodlibet* VIII,” *Augustiniana*, 24: 348–386.
-* –––, 1981, “James of Viterbo on the Essence-Existence Relationship (*Quodlibet* 1, Q. 4), and Godfrey of Fontaines on the Relationship between Nature and Supposit (*Quodlibet* 7, Q. 5),” in *Sprache und Kenntnis im Mittelalter* (Miscellanea Mediaevalia, 13), Berlin: De Gruyter, pp. 777–787.
-* –––, 1994, “James of Viterbo (b. ca. 1255; d. 1308),” in *Individuation in Scholasticism: The Later Middle Ages and the Counter-Reformation, 1150–1650*, J.J.E. Gracia (ed.), Albany: State University of New York Press, pp. 257–269.
-* Ypma, E., 1974, “Recherches sur la carrière scolaire et la bibliothèque de Jacques de Viterbe,” *Augustiniana*, 24: 247–282.
-* –––, 1975, “Recherches sur la productivité littéraire de Jacques de Viterbe jusqu’à 1300,” *Augustiniana*, 25: 223–282.
-* –––, 1980, “La méthode de travail de Jacques de Viterbe. L’analyse d’une question,” *Augustiniana*, 30: 254–270.
-* –––, 1980, “A propos d’un exposé sur Jacques de Viterbe,” *Augustiniana*, 30: 43–45.
-* –––, 1985, “Jacques de Viterbe, témoin valable?,” *Recherches de Théologie ancienne et médiévale*, 52: 232–234.
-* –––, 1987, “Jacques de Viterbe, lecteur attentif de Gilbert de la Porrée,” *Recherches de Théologie ancienne et médiévale*, 54: 257–261.
-* –––, 1991, “La relation est-elle un être réel ou seulement un être de raison d’après Jacques de Viterbe,” in *Lectionum Varietates*: Hommage à Paul Vignaux (1904–1987), J. Jolivet (ed.), Paris: J. Vrin, pp. 155–162.
-* Zumkeller, A., 1951, “De doctrina sociali scholae Augustininae aevi medii,” *Analecta Augustiniana*, 22: 57–84.
-* –––, 1964, “Die Augustinerschule des Mittelalters: Vertreter und Philosophisch-Theologische Lehre,”*Analecta Augustiniana*, 27: 167–262.
+* Spruit, L., 1994, Species Intelligibilis: _From Perception to Knowledge,_ vol. 1, Leiden: Brill.
+* Tavolaro, G., 2014, “_Opus nature est opus Dei: Potestas regalis et potestas sacerdotalis_ nel pensiero di Giacomo da Viterbo,” _Archives d’histoire doctrinale et littéraire du Moyen-Âge_, 81: 39–98.
+* –––, 2018, “The So-Called _Abbreviatio in I Sententiarum Aegidii Romani_ of James of Viterbo: A New Hypothesis,” in A. Côté & M. Pickavé (eds.), 2018, pp. 376–392.
+* Wéber, E., 1981, “Eckhart et l’ontothéologisme : histoire et conditions d’une rupture,” in _Maître Eckhart à Paris. Une critique médiévale de l’ontothéologie. Les_ Questions parisiennes n° 1 et n° 2 _d’Eckhart_, Z. Kaluza, A. de Libera, P. Vignaux, E. Wéber, E. Zum Brunn (eds.), Paris: Presses universitaires de France, pp. 21–54.
+* Wippel, J. F., 1974, “The Dating of James of Viterbo’s _Quodlibet_ I and Godfrey of Fontaine’s _Quodlibet_ VIII,” _Augustiniana_, 24: 348–386.
+* –––, 1981, “James of Viterbo on the Essence-Existence Relationship (_Quodlibet_ 1, Q. 4), and Godfrey of Fontaines on the Relationship between Nature and Supposit (_Quodlibet_ 7, Q. 5),” in _Sprache und Kenntnis im Mittelalter_ (Miscellanea Mediaevalia, 13), Berlin: De Gruyter, pp. 777–787.
+* –––, 1994, “James of Viterbo (b. ca. 1255; d. 1308),” in _Individuation in Scholasticism: The Later Middle Ages and the Counter-Reformation, 1150–1650_, J.J.E. Gracia (ed.), Albany: State University of New York Press, pp. 257–269.
+* Ypma, E., 1974, “Recherches sur la carrière scolaire et la bibliothèque de Jacques de Viterbe,” _Augustiniana_, 24: 247–282.
+* –––, 1975, “Recherches sur la productivité littéraire de Jacques de Viterbe jusqu’à 1300,” _Augustiniana_, 25: 223–282.
+* –––, 1980, “La méthode de travail de Jacques de Viterbe. L’analyse d’une question,” _Augustiniana_, 30: 254–270.
+* –––, 1980, “A propos d’un exposé sur Jacques de Viterbe,” _Augustiniana_, 30: 43–45.
+* –––, 1985, “Jacques de Viterbe, témoin valable?,” _Recherches de Théologie ancienne et médiévale_, 52: 232–234.
+* –––, 1987, “Jacques de Viterbe, lecteur attentif de Gilbert de la Porrée,” _Recherches de Théologie ancienne et médiévale_, 54: 257–261.
+* –––, 1991, “La relation est-elle un être réel ou seulement un être de raison d’après Jacques de Viterbe,” in _Lectionum Varietates_: Hommage à Paul Vignaux (1904–1987), J. Jolivet (ed.), Paris: J. Vrin, pp. 155–162.
+* Zumkeller, A., 1951, “De doctrina sociali scholae Augustininae aevi medii,” _Analecta Augustiniana_, 22: 57–84.
+* –––, 1964, “Die Augustinerschule des Mittelalters: Vertreter und Philosophisch-Theologische Lehre,”_Analecta Augustiniana_, 27: 167–262.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=james-viterbo). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/james-viterbo/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=james-viterbo&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/james-viterbo/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=james-viterbo).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/james-viterbo/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=james-viterbo\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/james-viterbo/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Giles of Rome](https://plato.stanford.edu/entries/giles/) | [Godfrey of Fontaines](https://plato.stanford.edu/entries/godfrey/) | [Henry of Ghent](https://plato.stanford.edu/entries/henry-ghent/)
+[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Giles of Rome](https://plato.stanford.edu/entries/giles/) | [Godfrey of Fontaines](https://plato.stanford.edu/entries/godfrey/) | [Henry of Ghent](https://plato.stanford.edu/entries/henry-ghent/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Antoine Côté <[*coteaj@uottawa.ca*](mailto:coteaj%40uottawa%2eca)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Antoine Côté <[_coteaj@uottawa.ca_](mailto:coteaj%40uottawa%2eca)>

@@ -1,7 +1,6 @@
 # 知识证成的基础主义理论 foundationalist theories of (Ali Hasan and Richard Fumerton)
 
-
-*首次发表于2000年2月21日，实质性修订于2022年8月5日。*
+_首次发表于2000年2月21日，实质性修订于2022年8月5日。_
 
 基础主义理论是关于（认识论的）证成或知识结构的一种观点。基础主义的论点简而言之是：（a）存在一些“基本”或“基础”信念，它们具有积极的认识论地位，例如它们被视为证成或知识，而不依赖于其他信念来获得这种地位；（b）任何其他具有积极认识论地位的信念必须最终依赖于基础信念来获得这种地位。
 
@@ -15,31 +14,27 @@
 
 * [1. 基础主义的回归论证](https://plato.stanford.edu/entries/justep-foundational/#RegrArguForFoun)
 * [2. 基础证成的古典分析](https://plato.stanford.edu/entries/justep-foundational/#ClasAnalNoniJust)
-
   * [2.1 基础证成作为不可错误的信念](https://plato.stanford.edu/entries/justep-foundational/#NoniJustInfaBeli)
   * [2.2 基础证成作为不可错误的证成](https://plato.stanford.edu/entries/justep-foundational/#NoniJustInfaJust)
 * [3. 对经典基础主义的反对意见](https://plato.stanford.edu/entries/justep-foundational/#ObjeClasFoun)
-
   * [3.1 对内部主义访问的回归问题](https://plato.stanford.edu/entries/justep-foundational/#RegrProbForAcceInte)
   * [3.2 塞拉斯困境](https://plato.stanford.edu/entries/justep-foundational/#SellDile)
   * [3.3 对对应和熟悉的怀疑](https://plato.stanford.edu/entries/justep-foundational/#DoubAbouCorrAcqu)
   * [3.4 怀疑主义的威胁](https://plato.stanford.edu/entries/justep-foundational/#ThreSkep)
 * [4. 基础主义的内在替代方案](https://plato.stanford.edu/entries/justep-foundational/#InteAlteClasFoun)
 * [5. 对古典基础主义的内在主义替代方案的反对意见](https://plato.stanford.edu/entries/justep-foundational/#ObjeInteAlteClasFoun)
-
   * [5.1 认知渗透反对意见](https://plato.stanford.edu/entries/justep-foundational/#CognPeneObje)
 * [6. 基础主义的外在主义版本](https://plato.stanford.edu/entries/justep-foundational/#ExteVersFoun)
 * [7. 对基础主义外在主义版本的反对意见](https://plato.stanford.edu/entries/justep-foundational/#ObjeExteVersFoun)
-
   * [7.1 对充分性的挑战：Norman 和 Truetemp](https://plato.stanford.edu/entries/justep-foundational/#ChalSuffNormTrue)
   * [7.2 对必要性的挑战：新邪恶魔问题](https://plato.stanford.edu/entries/justep-foundational/#ChalNeceNewEvilDemoProb)
 * [8. 简易知识问题](https://plato.stanford.edu/entries/justep-foundational/#ProbEasyKnow)
-* [ 参考书目](https://plato.stanford.edu/entries/justep-foundational/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justep-foundational/#Aca)
+* [参考书目](https://plato.stanford.edu/entries/justep-foundational/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/justep-foundational/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/justep-foundational/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justep-foundational/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/justep-foundational/#Rel)
 
----
+***
 
 ## 1. 基础主义的回归论证
 
@@ -51,10 +46,9 @@
 
 现在考虑另一个例子。假设我声称我有理由相信弗雷德很快就会死去，并且以他手掌上的一条线（他臭名昭著的“生命线”）很短作为我的理由。你正确地表示怀疑，这次你想知道我为什么相信手掌纹与寿命有任何关系。一旦你确信我没有理由认为这条线的特征与弗雷德的生命有任何概率上的联系，你会再次拒绝我声称对弗雷德即将到来的死亡有正当信念。这表明我们可以扩展我们的原则，加入第二个条款。
 
-**推理证成原则（PIJ）：** 
-在基于 E 相信 P 的基础上，人们必须（1）在相信 E 方面有证成，以及（2）在相信 E 使 P 成为可能方面有证成。
+**推理证成原则（PIJ）：** 在基于 E 相信 P 的基础上，人们必须（1）在相信 E 方面有证成，以及（2）在相信 E 使 P 成为可能方面有证成。
 
-有人可能会指出，在手相阅读的例子中，弗雷德的所谓“生命线”长度与他的寿命之间实际上没有显著的客观概率关系。也许这就是为什么我相信他会很快死去是不合理的原因，而不是因为我不满足第（2）条款。对此，PIJ 的支持者可能会要求我们考虑对该案例的修正。假设令人惊讶的是，事实证明“生命线”与拥有它们的个体的寿命之间存在一些客观的、显著的概率联系，尽管再次假设我没有任何理由相信存在这样的联系。这种可能性似乎是连贯的：相关的客观概率关系的存在并不足以使人有理由相信它的存在。但是，直观上，我仍然没有理由相信弗雷德会很快死去。或者考虑这样一种可能性，我相信弗雷德会死亡，因为他刚刚摄入了大量毒芹，当你问我为什么我认为毒芹会导致死亡时，我说我不确定，这只是我认为它会杀死他的一种直觉。同样，如果我没有理由相信毒芹是一种致命的毒药，或者它可能具有这种效果，那么直观上，我没有理由相信弗雷德会很快死去。那么，还需要什么？一个自然但有争议的建议是，人们必须满足类似第（2）条款的要求。[3]
+有人可能会指出，在手相阅读的例子中，弗雷德的所谓“生命线”长度与他的寿命之间实际上没有显著的客观概率关系。也许这就是为什么我相信他会很快死去是不合理的原因，而不是因为我不满足第（2）条款。对此，PIJ 的支持者可能会要求我们考虑对该案例的修正。假设令人惊讶的是，事实证明“生命线”与拥有它们的个体的寿命之间存在一些客观的、显著的概率联系，尽管再次假设我没有任何理由相信存在这样的联系。这种可能性似乎是连贯的：相关的客观概率关系的存在并不足以使人有理由相信它的存在。但是，直观上，我仍然没有理由相信弗雷德会很快死去。或者考虑这样一种可能性，我相信弗雷德会死亡，因为他刚刚摄入了大量毒芹，当你问我为什么我认为毒芹会导致死亡时，我说我不确定，这只是我认为它会杀死他的一种直觉。同样，如果我没有理由相信毒芹是一种致命的毒药，或者它可能具有这种效果，那么直观上，我没有理由相信弗雷德会很快死去。那么，还需要什么？一个自然但有争议的建议是，人们必须满足类似第（2）条款的要求。\[3]
 
 用PIJ的第一个条款，我们可以为基础主义提出一个相对直接的认识论回归论证。该条款基本上说，一个人不能通过从一个未经证明的信念推导出它来获得对一个信念的证明。似乎一个人也不能通过循环的、推理的证明来获得对一个信念的证明——一个人甚至不能在支持该命题的推理中部分地依赖于一个命题作为前提。我们似乎只剩下两个选择：承认一些信念在不依赖其他信念的情况下具有证明，或者假设所有的证明都是推理的。如果所有的证明都是推理的，那么对于某个命题P，要使某人S在相信P方面具有证明，S必须有合法的推理能力从某个其他命题E1中推导出它。但是只有当S在相信E1方面具有证明时，E1才能证明S在相信P方面具有证明，如果所有的证明都是推理的，S就必须从某个其他命题E2中推导出它（或者至少能够推导出它），而E2又必须从某个其他命题E3中推导出它，依此类推，无限循环。但是有限的存在无法完成无限长的推理链。因此，如果所有的证明都是推理的，没有人可以在任何程度上对任何事情的相信具有证明。
 
@@ -90,13 +84,13 @@ PIJ是有争议的，尤其是它的第二条款。需要注意的是，原则�
 
 如果经典基础主义者试图在某人相信某个命题和该命题为真之间的逻辑关系中寻找基础，那么他们可能从一开始就走错了。基础证成毕竟是一种证成，如果错误的不可能性对基础证成至关重要，那么将不可错误性的源头定位在支持信念的一种特殊证成中可能更有说服力。我们可以说，在 t 时刻，当 S 相信 P 的理由或证成蕴含 P 的真实性时，S 的信念在 t 时刻是不可错误地证成的，换句话说，当 P 为假时，S 不能拥有相信 P 的那个理由或证成。因此，这个建议是，只有当信念在这个意义上是不可错误地证成时，它才是基础证成的。
 
-我们仍然需要以某种方式限定蕴涵，以避免之前讨论的问题。每当我对一个被证明是必然真实的命题有任何证明时，那个证明将蕴涵着必然真实性。但是，我们不希望任何形式的证明都能产生绝对正确的信念，即使这个信念的对象是一个必然真理。这个问题被公认为很难解决（更多信息请参见“确定性”条目），但直观上解决方案应该与使命题成为真实的事实和使蕴涵它的命题成为真实的事实之间的关系有关。更具体地说，我们可以说只有当使命题P成为真实的事实至少是使命题Q成为真实的事实的组成部分时，P才蕴涵* Q。这个建议只能被视为初步的，因为我们显然需要更详细地说明事实及其组成部分。我的头发是灰色蕴涵着某人的头发是灰色，但是我的头发是某人的头发是灰色的事实的组成部分吗？当回答“是什么使某人的头发是灰色？”这个问题时，显然有一种可以指出的意义上的回答。但是，不能适当地指出我的头发是使两加二等于四成为真实的事实的一部分。如果有这样的关系存在，也许我们可以适当地限制我们可以绝对正确地相信的必然真理的范围，并且仍然允许绝对正确地相信偶然真理：当被问到“是什么使你感到疼痛？”时，有一种意义上可以“指出”自己的经验。
+我们仍然需要以某种方式限定蕴涵，以避免之前讨论的问题。每当我对一个被证明是必然真实的命题有任何证明时，那个证明将蕴涵着必然真实性。但是，我们不希望任何形式的证明都能产生绝对正确的信念，即使这个信念的对象是一个必然真理。这个问题被公认为很难解决（更多信息请参见“确定性”条目），但直观上解决方案应该与使命题成为真实的事实和使蕴涵它的命题成为真实的事实之间的关系有关。更具体地说，我们可以说只有当使命题P成为真实的事实至少是使命题Q成为真实的事实的组成部分时，P才蕴涵\* Q。这个建议只能被视为初步的，因为我们显然需要更详细地说明事实及其组成部分。我的头发是灰色蕴涵着某人的头发是灰色，但是我的头发是某人的头发是灰色的事实的组成部分吗？当回答“是什么使某人的头发是灰色？”这个问题时，显然有一种可以指出的意义上的回答。但是，不能适当地指出我的头发是使两加二等于四成为真实的事实的一部分。如果有这样的关系存在，也许我们可以适当地限制我们可以绝对正确地相信的必然真理的范围，并且仍然允许绝对正确地相信偶然真理：当被问到“是什么使你感到疼痛？”时，有一种意义上可以“指出”自己的经验。
 
 再考虑一下我感到疼痛的信念（当我确实感到疼痛时）。如果这样的信念是基础性证成的，那么这种信念的证成在于什么？是什么区别了这种信念和我对下周是否会下雨的信念？一些基础主义者希望将基础性证成定位于所信的命题的真实性。当我确实感到疼痛时，使我相信我感到疼痛的仅仅是我确实感到疼痛这个事实。但是，再次问一下，是什么使我感到疼痛与下周是否会下雨不同，使得宣称我感到疼痛证成我相信我感到疼痛是合适的，而下周是否会下雨不证成我相信下周会下雨呢？
 
 诱人的想法是，基础主义者最好诉诸于我与痛苦之间的某种特殊关系，这使得我无需寻求其他信念来证明我感到疼痛。正是我对痛苦有一种独特的接触，而其他人没有，这使得我的信念在基础上得到了证明，而其他人必须依赖推理才能发现我处于这种状态。这引出了另一种经典的基础主义观点，即熟悉理论。也许最著名的熟悉理论支持者是伯特兰·罗素（1910-11年，1913年；有关熟悉理论的更多信息，请参见对比熟悉与描述的知识条目）。但是，很容易将这种观点应用到大多数英国经验主义者身上。大致上，这种观点认为，证明S相信自己感到疼痛的是S与自己的痛苦有一种熟悉的方式，而他对其他人、物理世界、未来等任何偶然事实都不熟悉。罗素（1910-11年）将熟悉描述为一种直接或直接意识的关系，一种在这种关系中，正如他和其他一些人所说，某物被“呈现”或简单地“给予”主体（刘易斯1929年和1946年；莫泽尔1989年：80ff.；费尔斯1996年）。
 
-有人怀疑仅仅对某个事实的了解就足以证明相应命题的信仰是合理的。为了更好地理解这一动机，再次考虑推理信念。一个合理的P的信念不能为相应的命题提供证明，因为可能存在超出一个人认知能力的蕴涵关系，或者推理不是一个人所做的，甚至是无法做出的。同样，一些熟知理论家认为，对某个事实的熟知不能为对命题的信念提供证明，除非意识到（或至少有能力意识到）该事实与所信命题的真实性的相关性。例如，我可能对我视野中的某种特定颜色或形状很熟悉，并且相信（正确地）我正在经历某种颜色或形状，但我可能实际上很难辨认出这些具体特征，我的信念可能只是侥幸猜测而已。假设这些理论家还接受了真理的对应概念，大致上，一个命题是真的，只要它与事实相符或与世界的实际情况相符；他们可能还会补充说，为了完全合理地相信一个命题是真的，不仅必须熟知使命题成立的事实，还必须熟知命题与事实之间的对应关系。例如，为了合理地相信我正在经历紫红色，我必须熟知（或至少有能力熟知）我思考或相信我正在经历紫红色与我确实正在经历紫红色之间的“匹配”、“符合”或对应关系。[5]
+有人怀疑仅仅对某个事实的了解就足以证明相应命题的信仰是合理的。为了更好地理解这一动机，再次考虑推理信念。一个合理的P的信念不能为相应的命题提供证明，因为可能存在超出一个人认知能力的蕴涵关系，或者推理不是一个人所做的，甚至是无法做出的。同样，一些熟知理论家认为，对某个事实的熟知不能为对命题的信念提供证明，除非意识到（或至少有能力意识到）该事实与所信命题的真实性的相关性。例如，我可能对我视野中的某种特定颜色或形状很熟悉，并且相信（正确地）我正在经历某种颜色或形状，但我可能实际上很难辨认出这些具体特征，我的信念可能只是侥幸猜测而已。假设这些理论家还接受了真理的对应概念，大致上，一个命题是真的，只要它与事实相符或与世界的实际情况相符；他们可能还会补充说，为了完全合理地相信一个命题是真的，不仅必须熟知使命题成立的事实，还必须熟知命题与事实之间的对应关系。例如，为了合理地相信我正在经历紫红色，我必须熟知（或至少有能力熟知）我思考或相信我正在经历紫红色与我确实正在经历紫红色之间的“匹配”、“符合”或对应关系。\[5]
 
 当我了解到P事实是构成我对P的基础证成的一部分时，我的基础证成在某种程度上是不可错误的。我不能在相信P是错误的情况下直接了解到P事实。然而，大多数当代基础主义者对基础证成持有可错误性的观点：他们认为人可以在相信错误命题的情况下具有基础证成。似乎有道理，例如，我可以有理由相信我正在经历轻微的疼痛，而实际上我正在经历痒，或者我可以有理由相信我正在经历一种特定的颜色，而实际上我正在经历稍微不同的颜色。甚至一些熟知理论家也希望允许一些可错误的基础。例如，Fumerton（1995）认为，通过直接了解与P事实非常相似但最终不同的事实（使P成为真实的事实），人可以非推理地有理由相信P。这样的熟知理论可以允许存在一个基础证成但错误的相信P的可能性。然而，Huemer（2007）、Poston（2010）和Tucker（2016）认为，经典基础主义者难以容纳可错误的基础信念。有关一些回应，请参见Fumerton（2010和2016）和Hasan（2013）。
 
@@ -192,7 +186,7 @@ Goldman最初区分了两种重要不同的合理信念——那些来自于与�
 
 值得注意的是，Goldman（1979）本人否认可以在不使用其他类似的评价性或规范性术语的情况下给出关于“证成”这样的评价性或规范性认识术语的严格定义。然而，他有兴趣提供“实质性条件”，即以非认识性术语指定何时一个信念是被证成的条件。从这个意义上说，Goldman 仍然有兴趣提供一个普遍而实质性的证成理论。
 
-我们通过研究最著名的外在主义版本之一——可靠主义，阐明了外在主义对证成信念的基础主义结构的方式。但是其他版本的外在主义也隐含或明确地致力于基础主义的某个版本，或者至少提供了一个关于证成的解释，使人们能够区分非推理证成与推理证成、直接知识与间接知识。例如，考虑一种所谓的因果知识理论的简单版本，根据这种理论，当一个人相信一个命题并且这个信念是由使所相信的命题成为真实的事实（以“正确”的方式）引起的时候，他就知道这个命题。在这样的解释中，可以区分导致所讨论的信念的因果链中涉及中间信念的因果链和不涉及中间信念的因果链。利用这个区分，可以再次定义基础和非基础知识之间的区别：大致上，不包括其他信念的信念的原因是基础知识。[8]
+我们通过研究最著名的外在主义版本之一——可靠主义，阐明了外在主义对证成信念的基础主义结构的方式。但是其他版本的外在主义也隐含或明确地致力于基础主义的某个版本，或者至少提供了一个关于证成的解释，使人们能够区分非推理证成与推理证成、直接知识与间接知识。例如，考虑一种所谓的因果知识理论的简单版本，根据这种理论，当一个人相信一个命题并且这个信念是由使所相信的命题成为真实的事实（以“正确”的方式）引起的时候，他就知道这个命题。在这样的解释中，可以区分导致所讨论的信念的因果链中涉及中间信念的因果链和不涉及中间信念的因果链。利用这个区分，可以再次定义基础和非基础知识之间的区别：大致上，不包括其他信念的信念的原因是基础知识。\[8]
 
 基础主义理论的外在主义版本可能对许多人具有吸引力，因为它们似乎至少允许有一个更广泛的合理信念基础的可能性。与笛卡尔观点不同，可靠主义者对基础和非基础信念的区分与这些信念是否无论如何都是无误的或无误地证成的无关。如果自然界足够合作，确保认知主体以大部分真实的信念对其环境刺激做出反应，那么可能存在着一个巨大的基础知识储备，我们可以在推理证成结论时借鉴这个储备。在大多数外在主义的基础信念观点中，对于可能最终证成基础的内容，实际上没有任何先验的限制。任何命题都可能是某种可靠的信念形成过程的运作结果。此外，许多认识论学家认为证成者必须以某种方式具有真理导向性或概率性，并且可靠性的要求（或其他某种外在条件）使得与真理的联系明确起来。相比之下，非经典的内在主义基础主义观点（如现象保守主义）威胁到了证成与真理或概率之间的联系，因为那些似乎是真实的命题可能大部分是错误的。
 
@@ -208,9 +202,9 @@ Goldman最初区分了两种重要不同的合理信念——那些来自于与�
 
 许多其他人试图以某种方式适应这些直觉。戈德曼（1986 年）认为，在所描述的情况下，人们自然会认为像诺曼这样的主体确实有可用的驳斥理由，这解释了我们将他们视为不合理的直觉。然而，许多人，包括其他一些可靠主义者，认为很容易进一步指定或修改这些情况，以确保驳斥理由不可用（莱昂斯 2009 年：123-4）。一些人接受一种适度的内在主义，引入了一个相对较弱的访问要求，例如，主体必须具有一种经验或可接触的心理状态，实际上是一种可靠的形成信念的方式，尽管主体不需要了解经验的可靠性（奥尔斯顿 1989 年）。然而，似乎存在许多可能的情况，包括诺曼和特鲁坦普的情况的变体，在这些条件得到满足但直觉是相同的；例如，我们可以假设某种现象学的感觉，像某种不寻常的瘙痒，头痛或嗅觉感觉，实际上是关于总统下落或环境温度真实性的高度可靠的指示器。当他们不知道它是可靠的时，这在直觉上没有任何区别（参见莱昂斯 2009 年：125）。
 
-对诺曼和特鲁坦普案的最新回应尝试增加了对基本或基础信念的限制：它们必须是感知信念，即由“感知系统”产生的信念（有关什么算作感知系统的更多信息，请参见Lyons 2009年第4章）。Lyons（2009年第5章）认为，最初的诺曼案没有明确指定信念是否是感知系统的产物，在特鲁坦普案中，它是植入芯片的产物而不是感知系统的产物；他还认为，一旦我们改变细节，使信念成为感知系统的结果，直觉似乎会改变。例如，想象一下，诺曼*就像诺曼一样，只是他属于一种外星物种，所有成员都具有透视能力，这要归功于他们进化的感知器官和可靠的信息传递过程。Lyons声称，直观上，像诺曼*这样的人对总统在纽约的信念是有正当理由的，即使诺曼*不知道这些过程的存在或可靠性。
+对诺曼和特鲁坦普案的最新回应尝试增加了对基本或基础信念的限制：它们必须是感知信念，即由“感知系统”产生的信念（有关什么算作感知系统的更多信息，请参见Lyons 2009年第4章）。Lyons（2009年第5章）认为，最初的诺曼案没有明确指定信念是否是感知系统的产物，在特鲁坦普案中，它是植入芯片的产物而不是感知系统的产物；他还认为，一旦我们改变细节，使信念成为感知系统的结果，直觉似乎会改变。例如，想象一下，诺曼_就像诺曼一样，只是他属于一种外星物种，所有成员都具有透视能力，这要归功于他们进化的感知器官和可靠的信息传递过程。Lyons声称，直观上，像诺曼_这样的人对总统在纽约的信念是有正当理由的，即使诺曼\*不知道这些过程的存在或可靠性。
 
-Just as the cases of Norman and Truetemp are designed to show that reliabilism makes getting foundational justification too easy, other, similar cases seem to show that reliabilism make getting *nonfoundational* justification too easy. Suppose, for example, that while you are asleep a group of logician-neuroscientists implant a device in your head that takes some of your highly reliable foundational beliefs (say, introspective or perceptual beliefs) as input and responds by selecting at random from a list of complex theorems of logic and producing a belief in that theorem. Intuitively, such beliefs are not justified despite their high degree of reliability. (This example is taken from Lyons 2009: 126). One intuitive diagnosis is that the relation between the output beliefs and input beliefs is not evidential or inferential, or the process by which the output beliefs are generated is not an evidential or inferential one. The challenge for the reliabilist who wants to avoid saying that such beliefs are justified, and avoid adding internalist constraints, is to provide a better account of inferential processes. To retain its externalism, the account must not have good inference depend on awareness of or access to the connection between propositions believed.
+Just as the cases of Norman and Truetemp are designed to show that reliabilism makes getting foundational justification too easy, other, similar cases seem to show that reliabilism make getting _nonfoundational_ justification too easy. Suppose, for example, that while you are asleep a group of logician-neuroscientists implant a device in your head that takes some of your highly reliable foundational beliefs (say, introspective or perceptual beliefs) as input and responds by selecting at random from a list of complex theorems of logic and producing a belief in that theorem. Intuitively, such beliefs are not justified despite their high degree of reliability. (This example is taken from Lyons 2009: 126). One intuitive diagnosis is that the relation between the output beliefs and input beliefs is not evidential or inferential, or the process by which the output beliefs are generated is not an evidential or inferential one. The challenge for the reliabilist who wants to avoid saying that such beliefs are justified, and avoid adding internalist constraints, is to provide a better account of inferential processes. To retain its externalism, the account must not have good inference depend on awareness of or access to the connection between propositions believed.
 
 ### 7.2 A Challenge to Necessity: The New Evil Demon Problem
 
@@ -273,121 +267,122 @@ The objections discussed above challenge the sufficiency of the externalist’s 
 因此（可能），熟人是真实信念的来源。
 
 经典基础主义者可能会回应，问题不在于允许某个来源证明关于自身或其认识证明的命题。问题在于某些所谓的来源使证明变得难以置信地容易。经典基础主义并不会；在刚刚提出的论证形式中，获得的知识或证明的直觉是缺失的或至少要弱得多（参见 Fumerton 2006）。经典基础主义面临的问题是它使证明变得过于困难，而不是过于容易。
+
 ## Bibliography
 
-* Aikin, Scott F., 2011, *Epistemology and the Regress Problem*, New York: Routledge.
-* Alston, William P., 1989, *Epistemic justification: Essays in the theory of knowledge*, Ithaca: Cornell University Press.
-* Aristotle, *Posterior Analytics*, Jonathan Barnes (trans.), second edition, translated with a commentary, Oxford: Oxford University Press, 1956.
-* Armstrong, David, 1973, *Belief, Truth and Knowledge*, London: Cambridge University Press.
-* Audi, Robert, 1993, *The Structure of Justification*, New York: Cambridge University Press.
-* Ayer, A. J., 1956, *The Problem of Knowledge*, London: Cambridge University Press.
-* Bach, Kent, 1985, “A Rationale for Reliabilism”, *Monist*, 68(2): 246–263.
-* Bergmann, Michael, 2006, *Justification without Awareness: A Defense of Epistemic Externalism*, Oxford: Clarendon Press.
-* –––, 2008, “Externalist Responses to Skepticism”, in *Oxford Handbook of Skepticism*, John Greco (ed.), Oxford University Press, pp. 504–32. doi:10.1093/oxfordhb/9780195183214.003.0024
-* BonJour, Laurence, 1978, “Can Empirical Knowledge Have a Foundation?” *American Philosophical Quarterly*, 15(1): 1–13.
-* –––, 1985, *The Structure of Empirical Knowledge*, Cambridge, MA: Harvard University Press.
-* –––, 2000, “Toward a Defense of Empirical Foundationalism”, in *Resurrecting Old-Fashioned Foundationalism*, Michael DePaul (ed.), Lanham, MD: Rowman & Littlefield.
-* –––, 2003, “A Version of Internalist Foundationalism”, in *Epistemic Justification: Internalism vs. Externalism, Foundationalism vs. Virtues*, L. BonJour and E. Sosa (eds.), Malden, MA: Blackwell.
-* Chisholm, Roderick, 1980, “A Version of Foundationalism”, *Midwest Studies in Philosophy*, 5(1): 543–564. doi:10.1111/j.1475-4975.1980.tb00423.x
-* –––, 1989, *Theory of Knowledge*, 3rd edition, Englewood Cliffs: Prentice-Hall.
-* Christensen, David, 1994, “Conservatism in Epistemology”, *Noûs*, 28(1): 69–89. doi:10.2307/2215920
-* Cohen, Stewart, 1984, “Justification and Truth”, *Philosophical Studies*, 46(3): 279–295.
-* –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 309–329.
-* –––, 2005, “Why Basic Knowledge is Easy Knowledge”, *Philosophy and Phenomenological Research*, 70(2): 417–430. doi:10.1111/j.1933-1592.2005.tb00536.x
-* Comesaña, Juan, 2002, “The Diagonal and the Demon”, *Philosophical Studies*, 110(3): 249–266. doi: 10.1023/A:1020656411534
-* Conee, Earl, 2013, “Seeming Evidence”, in Chris Tucker (ed.), *Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism*. Oxford University Press.
-* Cullison, Andrew, 2010, “What are Seemings?” *Ratio*, 23(3): 260–274. doi:10.1111/j.1467-9329.2010.00466.x
-* Dretske, Fred I., 1970, “Epistemic Operators”, *The Journal of Philosophy*, 67(24): 1007–1023. doi:10.2307/2024710
-* Engel, Mylan, 1992, “Personal and Doxastic Justification in Epistemology”, *Philosophical Studies*, 67(2): 133–150.
-* Fales, Evan, 1996, *A Defense of the Given*, Lanham, MA: Rowman and Littlefield.
-* –––, 2014, “Turtle Epistemology”, *Philosophical Studies*, 169(2): 339–354. doi:10.1007/s11098-013-0185-8
-* Fantl, Jeremy, 2003, “Modest Infinitism”, *Canadian Journal of Philosophy*, 33(4): 537–562. doi:10.1080/00455091.2003.10716554
-* Foley, Richard, 1983, “Epistemic Conservatism”, *Philosophical Studies*, 43(2): 165–182.
-* Fumerton, Richard, 1995, *Metaepistemology and Skepticism*, Lanham, MA: Rowman and Littlefield.
-* –––, 2006, “Epistemic Internalism, Philosophical Assurance and the Skeptical Predicament”, in *Knowledge and Reality*, Thomas M. Crisp, Matthew Davidson, and David Vander Laan (eds.), Vol. 103, Springer Science & Business Media. doi:10.1007/1-4020-4733-9_8
-* –––, 2009, “Markie, Speckles, and Classical Foundationalism”, *Philosophy and Phenomenological Research*, 79(1): 207–212. doi:10.1111/j.1933-1592.2009.00272.x
-* –––, 2010, “Poston on Similarity and Acquaintance”, *Philosophical Studies*, 147(3): 379–386.
-* –––, 2016, “The Prospects for Traditional Internalism”, in Brett Coppenger and Michael Bergmann (eds.), *Intellectual Assurance: Essays on Traditional Epistemic Internalism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198719632.003.0013
-* Glüer, Kathrin, 2018, “Defeating looks”, *Synthese*, 195(7): 2985–3012.
-* Goldman, Alvin, 1979, “What is Justified Belief?” in *Justification and Knowledge*, George Pappas (ed.), Dordrecht: Reidel, pp. 1–23.
-* –––, 1986, *Epistemology and Cognition*, Cambridge, MA: Harvard University Press.
-* –––, 1988, “Strong and Weak Justification”, in *Philosophical Perspectives 2: Epistemology*, James Tomberlin (ed.), Atascadero, Calif.: Ridgeview Publishing Co., pp. 51–69.
-* –––, 2009, “Internalism, Externalism, and the Architecture of Justification”, *The Journal of Philosophy*, 106(6): 309–338.
-* Hasan, Ali, 2011, “Classical Foundationalism and Bergmann’s Dilemma for Internalism”, *Journal of Philosophical Research*, 36: 391–410. doi:10.5840/jpr_2011_22
-* –––, 2013, “Phenomenal Conservatism, Classical Foundationalism, and Internalist Justification”, *Philosophical Studies*, 162(2): 119–141. doi:10.1007/s11098-011-9751-0
-* Henderson, David and Terence Horgan, 2006, “Transglobal Reliabilism”, *Croatian Journal of Philosophy*, 6(17): 171–195.
-* Huemer, Michael, 2001, *Skepticism and the Veil of Perception*, Lanham, MD: Rowman & Littlefield.
-* –––, 2002, “Fumerton’s Principle of Inferential Justification”, *Journal of Philosophical Research*, 27: 329–40. doi:10.5840/jpr_2002_4
-* –––, 2007, “Compassionate Phenomenal Conservatism”, *Philosophy and Phenomenological Research*, 74(1): 30–55. doi:10.1111/j.1933-1592.2007.00002.x
+* Aikin, Scott F., 2011, _Epistemology and the Regress Problem_, New York: Routledge.
+* Alston, William P., 1989, _Epistemic justification: Essays in the theory of knowledge_, Ithaca: Cornell University Press.
+* Aristotle, _Posterior Analytics_, Jonathan Barnes (trans.), second edition, translated with a commentary, Oxford: Oxford University Press, 1956.
+* Armstrong, David, 1973, _Belief, Truth and Knowledge_, London: Cambridge University Press.
+* Audi, Robert, 1993, _The Structure of Justification_, New York: Cambridge University Press.
+* Ayer, A. J., 1956, _The Problem of Knowledge_, London: Cambridge University Press.
+* Bach, Kent, 1985, “A Rationale for Reliabilism”, _Monist_, 68(2): 246–263.
+* Bergmann, Michael, 2006, _Justification without Awareness: A Defense of Epistemic Externalism_, Oxford: Clarendon Press.
+* –––, 2008, “Externalist Responses to Skepticism”, in _Oxford Handbook of Skepticism_, John Greco (ed.), Oxford University Press, pp. 504–32. doi:10.1093/oxfordhb/9780195183214.003.0024
+* BonJour, Laurence, 1978, “Can Empirical Knowledge Have a Foundation?” _American Philosophical Quarterly_, 15(1): 1–13.
+* –––, 1985, _The Structure of Empirical Knowledge_, Cambridge, MA: Harvard University Press.
+* –––, 2000, “Toward a Defense of Empirical Foundationalism”, in _Resurrecting Old-Fashioned Foundationalism_, Michael DePaul (ed.), Lanham, MD: Rowman & Littlefield.
+* –––, 2003, “A Version of Internalist Foundationalism”, in _Epistemic Justification: Internalism vs. Externalism, Foundationalism vs. Virtues_, L. BonJour and E. Sosa (eds.), Malden, MA: Blackwell.
+* Chisholm, Roderick, 1980, “A Version of Foundationalism”, _Midwest Studies in Philosophy_, 5(1): 543–564. doi:10.1111/j.1475-4975.1980.tb00423.x
+* –––, 1989, _Theory of Knowledge_, 3rd edition, Englewood Cliffs: Prentice-Hall.
+* Christensen, David, 1994, “Conservatism in Epistemology”, _Noûs_, 28(1): 69–89. doi:10.2307/2215920
+* Cohen, Stewart, 1984, “Justification and Truth”, _Philosophical Studies_, 46(3): 279–295.
+* –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, _Philosophy and Phenomenological Research_, 65(2): 309–329.
+* –––, 2005, “Why Basic Knowledge is Easy Knowledge”, _Philosophy and Phenomenological Research_, 70(2): 417–430. doi:10.1111/j.1933-1592.2005.tb00536.x
+* Comesaña, Juan, 2002, “The Diagonal and the Demon”, _Philosophical Studies_, 110(3): 249–266. doi: 10.1023/A:1020656411534
+* Conee, Earl, 2013, “Seeming Evidence”, in Chris Tucker (ed.), _Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism_. Oxford University Press.
+* Cullison, Andrew, 2010, “What are Seemings?” _Ratio_, 23(3): 260–274. doi:10.1111/j.1467-9329.2010.00466.x
+* Dretske, Fred I., 1970, “Epistemic Operators”, _The Journal of Philosophy_, 67(24): 1007–1023. doi:10.2307/2024710
+* Engel, Mylan, 1992, “Personal and Doxastic Justification in Epistemology”, _Philosophical Studies_, 67(2): 133–150.
+* Fales, Evan, 1996, _A Defense of the Given_, Lanham, MA: Rowman and Littlefield.
+* –––, 2014, “Turtle Epistemology”, _Philosophical Studies_, 169(2): 339–354. doi:10.1007/s11098-013-0185-8
+* Fantl, Jeremy, 2003, “Modest Infinitism”, _Canadian Journal of Philosophy_, 33(4): 537–562. doi:10.1080/00455091.2003.10716554
+* Foley, Richard, 1983, “Epistemic Conservatism”, _Philosophical Studies_, 43(2): 165–182.
+* Fumerton, Richard, 1995, _Metaepistemology and Skepticism_, Lanham, MA: Rowman and Littlefield.
+* –––, 2006, “Epistemic Internalism, Philosophical Assurance and the Skeptical Predicament”, in _Knowledge and Reality_, Thomas M. Crisp, Matthew Davidson, and David Vander Laan (eds.), Vol. 103, Springer Science & Business Media. doi:10.1007/1-4020-4733-9\_8
+* –––, 2009, “Markie, Speckles, and Classical Foundationalism”, _Philosophy and Phenomenological Research_, 79(1): 207–212. doi:10.1111/j.1933-1592.2009.00272.x
+* –––, 2010, “Poston on Similarity and Acquaintance”, _Philosophical Studies_, 147(3): 379–386.
+* –––, 2016, “The Prospects for Traditional Internalism”, in Brett Coppenger and Michael Bergmann (eds.), _Intellectual Assurance: Essays on Traditional Epistemic Internalism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198719632.003.0013
+* Glüer, Kathrin, 2018, “Defeating looks”, _Synthese_, 195(7): 2985–3012.
+* Goldman, Alvin, 1979, “What is Justified Belief?” in _Justification and Knowledge_, George Pappas (ed.), Dordrecht: Reidel, pp. 1–23.
+* –––, 1986, _Epistemology and Cognition_, Cambridge, MA: Harvard University Press.
+* –––, 1988, “Strong and Weak Justification”, in _Philosophical Perspectives 2: Epistemology_, James Tomberlin (ed.), Atascadero, Calif.: Ridgeview Publishing Co., pp. 51–69.
+* –––, 2009, “Internalism, Externalism, and the Architecture of Justification”, _The Journal of Philosophy_, 106(6): 309–338.
+* Hasan, Ali, 2011, “Classical Foundationalism and Bergmann’s Dilemma for Internalism”, _Journal of Philosophical Research_, 36: 391–410. doi:10.5840/jpr\_2011\_22
+* –––, 2013, “Phenomenal Conservatism, Classical Foundationalism, and Internalist Justification”, _Philosophical Studies_, 162(2): 119–141. doi:10.1007/s11098-011-9751-0
+* Henderson, David and Terence Horgan, 2006, “Transglobal Reliabilism”, _Croatian Journal of Philosophy_, 6(17): 171–195.
+* Huemer, Michael, 2001, _Skepticism and the Veil of Perception_, Lanham, MD: Rowman & Littlefield.
+* –––, 2002, “Fumerton’s Principle of Inferential Justification”, _Journal of Philosophical Research_, 27: 329–40. doi:10.5840/jpr\_2002\_4
+* –––, 2007, “Compassionate Phenomenal Conservatism”, _Philosophy and Phenomenological Research_, 74(1): 30–55. doi:10.1111/j.1933-1592.2007.00002.x
 * –––, 2013, “Phenomenal Conservatism Über Alles”, in Tucker 2013: 328–350. doi:10.1093/acprof:oso/9780199899494.003.0015
-* Klein, Peter, 1998, “Foundationalism and the Infinite Regress of Reasons”, *Philosophy and Phenomenological Research*, 58: 919–26. doi:10.2307/2653735
-* Kvanvig, Jonathan and Christopher Menzel, 1990, “The Basic Notion of Justification”, *Philosophical Studies*, 59(3): 235–261.
-* Lehrer, Keith, 1974, *Knowledge*, Oxford: Clarendon Press.
-* –––, 1990, *The Theory of Knowledge*, New York: Routledge.
-* Lehrer, Keith and Stewart Cohen, 1983, “Justification, Truth, and Knowledge”, *Synthese*, 55(2): 191–207. doi:10.1007/BF00485068
-* Lewis, C. I., 1929, *Mind and the World-Order: Outline of a Theory of Knowledge*, New York: Charles Scribner’s Sons. Reprinted by New York: Dover Publications, 1956. doi:10.1353/cjp.0.0054
-* –––,1946, *An Analysis of Knowledge and Valuation*, La Salle, IL: Open Court.
-* Littlejohn, Clayton, 2009, “The Externalist’s Demon”, *Canadian Journal of Philosophy*, 39(3): 399–434.
-* Lyons, Jack, 2009, *Perception and Basic Beliefs*, Oxford: Oxford University Press.
-* –––, 2011, “Circularity, Reliability, and the Cognitive Penetrability of Perception”, *Philosophical Issues*, 21(1): 289–311. doi:10.1111/j.1533-6077.2011.00205.x
-* Majors, Brad and Sarah Sawyer, 2005, “The Epistemological Argument for Content Externalism”, *Philosophical Perspectives*, 19: 257–80. doi:10.1111/j.1520-8583.2005.00062.x
-* Markie, Peter, 2005, “Easy Knowledge”, *Philosophy and Phenomenological Research*, 70(2): 406–416.
+* Klein, Peter, 1998, “Foundationalism and the Infinite Regress of Reasons”, _Philosophy and Phenomenological Research_, 58: 919–26. doi:10.2307/2653735
+* Kvanvig, Jonathan and Christopher Menzel, 1990, “The Basic Notion of Justification”, _Philosophical Studies_, 59(3): 235–261.
+* Lehrer, Keith, 1974, _Knowledge_, Oxford: Clarendon Press.
+* –––, 1990, _The Theory of Knowledge_, New York: Routledge.
+* Lehrer, Keith and Stewart Cohen, 1983, “Justification, Truth, and Knowledge”, _Synthese_, 55(2): 191–207. doi:10.1007/BF00485068
+* Lewis, C. I., 1929, _Mind and the World-Order: Outline of a Theory of Knowledge_, New York: Charles Scribner’s Sons. Reprinted by New York: Dover Publications, 1956. doi:10.1353/cjp.0.0054
+* –––,1946, _An Analysis of Knowledge and Valuation_, La Salle, IL: Open Court.
+* Littlejohn, Clayton, 2009, “The Externalist’s Demon”, _Canadian Journal of Philosophy_, 39(3): 399–434.
+* Lyons, Jack, 2009, _Perception and Basic Beliefs_, Oxford: Oxford University Press.
+* –––, 2011, “Circularity, Reliability, and the Cognitive Penetrability of Perception”, _Philosophical Issues_, 21(1): 289–311. doi:10.1111/j.1533-6077.2011.00205.x
+* Majors, Brad and Sarah Sawyer, 2005, “The Epistemological Argument for Content Externalism”, _Philosophical Perspectives_, 19: 257–80. doi:10.1111/j.1520-8583.2005.00062.x
+* Markie, Peter, 2005, “Easy Knowledge”, _Philosophy and Phenomenological Research_, 70(2): 406–416.
 * –––, 2013, “Searching for True Dogmatism”, in Tucker 2013: 248–69. doi:10.1093/acprof:oso/9780199899494.003.0011
-* McAllister, Blake, 2018), “Seemings as sui generis.” *Synthese*, 195(7): 3079–3096
-* McCain, Kevin, 2008, “The Virtues of Epistemic Conservatism”, *Synthese*, 164(2): 185–200. doi:10.1007/s11229-007-9222-5
-* McCain, Kevin & Moretti, Luca, 2021, *Appearance and Explanation: Phenomenal Explanationism in Epistemology*. Oxford: Oxford University Press.
+* McAllister, Blake, 2018), “Seemings as sui generis.” _Synthese_, 195(7): 3079–3096
+* McCain, Kevin, 2008, “The Virtues of Epistemic Conservatism”, _Synthese_, 164(2): 185–200. doi:10.1007/s11229-007-9222-5
+* McCain, Kevin & Moretti, Luca, 2021, _Appearance and Explanation: Phenomenal Explanationism in Epistemology_. Oxford: Oxford University Press.
 * McGrath, Matthew, 2013, “Phenomenal Conservatism and Cognitive Penetration: The ‘Bad Basis’ Counterexamples”, in Tucker 2013: 225–47. doi:10.1093/acprof:oso/10.1093/acprof:oso/9780199899494.003.0010
-* McGrew, Timothy, 1995, *The Foundations of Knowledge*, Lanham, MD: Littlefield Adams Books.
-* –––, 1998, “A Defense of Classical Foundationalism”, in *The Theory of Knowledge: Classical and Contemporary Readings*, second edition, L.P. Pojman (ed.), Belmont, CA/London: Wadsworth, pp. 224–35.
-* Mill, John Stuart, 1906, *A System of Logic*, London: Longmans, Green, and Co.
-* Moser, Paul, 1989, *Knowledge and Evidence*, Cambridge: Cambridge University Press.
-* Nozick, Robert, 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
-* Pollock, John and Joseph Cruz, 1999, *Contemporary Theories of Knowledge*, second edition, Lanham, MA: Rowman & Littlefield.
-* Poston, Ted, 2010, “Similarity and Acquaintance: A Dilemma”, *Philosophical Studies*, 147(3): 369–378. doi:10.1007/s11098-008-9290-5
-* Pryor, James, 2000, “The Skeptic and the Dogmatist”, *Noûs*, 34(4): 517–549. doi:10.1111/0029-4624.00277
-* –––, 2001, “Highlights of Recent Epistemology”, *The British Journal for the Philosophy of Science*, 52(1): 95–124. doi:10.1093/bjps/52.1.95
-* –––, 2004, “What’s Wrong with Moore’s Argument?” *Philosophical Issues*, 14(1): 349–378. doi:10.1111/j.1533-6077.2004.00034.x
+* McGrew, Timothy, 1995, _The Foundations of Knowledge_, Lanham, MD: Littlefield Adams Books.
+* –––, 1998, “A Defense of Classical Foundationalism”, in _The Theory of Knowledge: Classical and Contemporary Readings_, second edition, L.P. Pojman (ed.), Belmont, CA/London: Wadsworth, pp. 224–35.
+* Mill, John Stuart, 1906, _A System of Logic_, London: Longmans, Green, and Co.
+* Moser, Paul, 1989, _Knowledge and Evidence_, Cambridge: Cambridge University Press.
+* Nozick, Robert, 1981, _Philosophical Explanations_, Cambridge, MA: Harvard University Press.
+* Pollock, John and Joseph Cruz, 1999, _Contemporary Theories of Knowledge_, second edition, Lanham, MA: Rowman & Littlefield.
+* Poston, Ted, 2010, “Similarity and Acquaintance: A Dilemma”, _Philosophical Studies_, 147(3): 369–378. doi:10.1007/s11098-008-9290-5
+* Pryor, James, 2000, “The Skeptic and the Dogmatist”, _Noûs_, 34(4): 517–549. doi:10.1111/0029-4624.00277
+* –––, 2001, “Highlights of Recent Epistemology”, _The British Journal for the Philosophy of Science_, 52(1): 95–124. doi:10.1093/bjps/52.1.95
+* –––, 2004, “What’s Wrong with Moore’s Argument?” _Philosophical Issues_, 14(1): 349–378. doi:10.1111/j.1533-6077.2004.00034.x
 * –––, 2013a, “Problems for Credulism”, in Tucker 2013: 89–132. doi:10.1093/acprof:oso/9780199899494.003.0005
-* –––, 2013b, “There is Immediate Justification”, in Turri, Steup, & Sosa (eds.) *Contemporary Debates in Epistemology. 2nd Edition, Blackwell.*
-* Rogers, Jason and Jonathan Matheson, 2011, “Bergmann’s Dilemma: Exit Strategies for Internalists”, *Philosophical Studies*, 152(1): 55–80. doi:10.1007/s11098-009-9460-0
-* Russell, Bertrand, 1910–11, “Knowledge by Acquaintance and Knowledge by Description”, *The Proceedings of the Aristotelian Society*, 11: 209–32.
-* –––, 1984 [1913], *Theory of Knowledge: The 1913 Manuscript*, Elizabeth Eames (ed.), London: Allen and Unwin Ltd.
-* –––, 1948, *Human Knowledge: Its Scope and Limits*, New York: Simon and Schuster.
-* Sellars, Wilfrid, 1963, *Science, Perception and Reality*, London: Routledge & Kegan Paul.
-* Siegel, Susanna, 2013, “The Epistemic Impact of the Etiology of Experience”, *Philosophical Studies*, 162(3): 697–722. doi:10.1007/s11098-012-0059-5
-* Skene, Matthew, 2013, “Seemings and the Possibility of Epistemic Justification”, *Philosophical Studies*, 163(2): 539–559. doi:10.1007/s11098-011-9830-2
-* Smithies, Declan, 2019, *The Epistemic Role of Consciousness*. Oxford University Press.
-* Steup, Matthias, 2004, “Internalist Reliabilism”, *Philosophical Issues*, 14(1): 403–425. doi:10.1111/j.1533-6077.2004.00036.x
-* Sosa, Ernest, 1997, “Reflective Knowledge in the Best Circles”,*The Journal of Philosophy*, 94(8): 410–430. doi:10.2307/2564607
-* –––, 2003, “Privileged Access”, in *Consciousness: New Philosophical Essays*, Q. Smith and A. Jokic (eds.), Oxford: Oxford University Press, pp. 273–92.
-* Tolhurst, William, 1998, “Seemings”, *American Philosophical Quarterly*, 35(3): 293–302.
-* Tooley, Michael, 2013, “Michael Huemer and the Principle of Phenomenal Conservatism.” In Chris Tucker (ed.), *Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism*. Oxford University Press.
-* Tucker, Chris, 2010, “Why Open-Minded People Should Endorse Dogmatism”, *Philosophical Perspectives*, 24(1): 529–545. cite:10.1111/j.1520-8583.2010.00202.x
-* –––, 2012, “Movin’ on up: Higher-Level Requirements and Inferential Justification”, *Philosophical Studies* 157(3): 323–340.
-* ––– (ed.), 2013, *Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism*, Oxford: Oxford University Press.
-* –––, 2016, “Acquaintance and Fallible Non-Inferential Justification”, in Brett Coppenger and Michael Bergmann (eds.), *Intellectual Assurance: Essays on Traditional Epistemic Internalism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198719632.003.0003
-* Turri, John (2010). “On the relationship between propositional and doxastic justification”, *Philosophy and Phenomenological Research*, 80(2) :312–326.
-* Turri, John & Klein, Peter D. (eds.), 2014, *Ad infinitum: new essays on epistemological infinitism*. Oxford University Press.
-* Vogel, Jonathan, 2008a, “Internalist Responses to Skepticism”, in *The Oxford Handbook of Skepticism*, John Greco (ed.), Oxford University Press, pp. 553–56. doi:10.1093/oxfordhb/9780195183214.003.0025
-* –––, 2008b, “Epistemic Bootstrapping”, *The Journal of Philosophy*, 105(9): 518–539.
-* Williamson, Timothy, 2000, *Knowledge and its Limits*, Oxford: Oxford University Press.
+* –––, 2013b, “There is Immediate Justification”, in Turri, Steup, & Sosa (eds.) _Contemporary Debates in Epistemology. 2nd Edition, Blackwell._
+* Rogers, Jason and Jonathan Matheson, 2011, “Bergmann’s Dilemma: Exit Strategies for Internalists”, _Philosophical Studies_, 152(1): 55–80. doi:10.1007/s11098-009-9460-0
+* Russell, Bertrand, 1910–11, “Knowledge by Acquaintance and Knowledge by Description”, _The Proceedings of the Aristotelian Society_, 11: 209–32.
+* –––, 1984 \[1913], _Theory of Knowledge: The 1913 Manuscript_, Elizabeth Eames (ed.), London: Allen and Unwin Ltd.
+* –––, 1948, _Human Knowledge: Its Scope and Limits_, New York: Simon and Schuster.
+* Sellars, Wilfrid, 1963, _Science, Perception and Reality_, London: Routledge & Kegan Paul.
+* Siegel, Susanna, 2013, “The Epistemic Impact of the Etiology of Experience”, _Philosophical Studies_, 162(3): 697–722. doi:10.1007/s11098-012-0059-5
+* Skene, Matthew, 2013, “Seemings and the Possibility of Epistemic Justification”, _Philosophical Studies_, 163(2): 539–559. doi:10.1007/s11098-011-9830-2
+* Smithies, Declan, 2019, _The Epistemic Role of Consciousness_. Oxford University Press.
+* Steup, Matthias, 2004, “Internalist Reliabilism”, _Philosophical Issues_, 14(1): 403–425. doi:10.1111/j.1533-6077.2004.00036.x
+* Sosa, Ernest, 1997, “Reflective Knowledge in the Best Circles”,_The Journal of Philosophy_, 94(8): 410–430. doi:10.2307/2564607
+* –––, 2003, “Privileged Access”, in _Consciousness: New Philosophical Essays_, Q. Smith and A. Jokic (eds.), Oxford: Oxford University Press, pp. 273–92.
+* Tolhurst, William, 1998, “Seemings”, _American Philosophical Quarterly_, 35(3): 293–302.
+* Tooley, Michael, 2013, “Michael Huemer and the Principle of Phenomenal Conservatism.” In Chris Tucker (ed.), _Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism_. Oxford University Press.
+* Tucker, Chris, 2010, “Why Open-Minded People Should Endorse Dogmatism”, _Philosophical Perspectives_, 24(1): 529–545. cite:10.1111/j.1520-8583.2010.00202.x
+* –––, 2012, “Movin’ on up: Higher-Level Requirements and Inferential Justification”, _Philosophical Studies_ 157(3): 323–340.
+* ––– (ed.), 2013, _Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism_, Oxford: Oxford University Press.
+* –––, 2016, “Acquaintance and Fallible Non-Inferential Justification”, in Brett Coppenger and Michael Bergmann (eds.), _Intellectual Assurance: Essays on Traditional Epistemic Internalism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198719632.003.0003
+* Turri, John (2010). “On the relationship between propositional and doxastic justification”, _Philosophy and Phenomenological Research_, 80(2) :312–326.
+* Turri, John & Klein, Peter D. (eds.), 2014, _Ad infinitum: new essays on epistemological infinitism_. Oxford University Press.
+* Vogel, Jonathan, 2008a, “Internalist Responses to Skepticism”, in _The Oxford Handbook of Skepticism_, John Greco (ed.), Oxford University Press, pp. 553–56. doi:10.1093/oxfordhb/9780195183214.003.0025
+* –––, 2008b, “Epistemic Bootstrapping”, _The Journal of Philosophy_, 105(9): 518–539.
+* Williamson, Timothy, 2000, _Knowledge and its Limits_, Oxford: Oxford University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=justep-foundational). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/justep-foundational/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=justep-foundational&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/justep-foundational/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=justep-foundational).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/justep-foundational/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=justep-foundational\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/justep-foundational/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Foundationalism](http://www.iep.utm.edu/found-ep/), entry in the *Internet Encyclopedia of Philosophy*, by Ted Poston.
+* [Foundationalism](http://www.iep.utm.edu/found-ep/), entry in the _Internet Encyclopedia of Philosophy_, by Ted Poston.
 
 ## Related Entries
 
-[epistemology](https://plato.stanford.edu/entries/epistemology/) | [justification, epistemic: coherentist theories of](https://plato.stanford.edu/entries/justep-coherence/) | [justification, epistemic: internalist vs. externalist conceptions of](https://plato.stanford.edu/entries/justep-intext/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [knowledge: by acquaintance vs. description](https://plato.stanford.edu/entries/knowledge-acquaindescrip/) | [reliabilist epistemology](https://plato.stanford.edu/entries/reliabilism/)
+[epistemology](https://plato.stanford.edu/entries/epistemology/) | [justification, epistemic: coherentist theories of](https://plato.stanford.edu/entries/justep-coherence/) | [justification, epistemic: internalist vs. externalist conceptions of](https://plato.stanford.edu/entries/justep-intext/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [knowledge: by acquaintance vs. description](https://plato.stanford.edu/entries/knowledge-acquaindescrip/) | [reliabilist epistemology](https://plato.stanford.edu/entries/reliabilism/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-Ali Hasan <[*ali-hasan@uiowa.edu*](mailto:ali-hasan%40uiowa%2eedu)>  
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+Ali Hasan <[_ali-hasan@uiowa.edu_](mailto:ali-hasan%40uiowa%2eedu)>\
 [Richard Fumerton](http://clas.uiowa.edu/philosophy/people/richard-fumerton)
