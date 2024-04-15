@@ -145,7 +145,7 @@ _首次发布于 2003 年 4 月 7 日；实质性修订于 2014 年 3 月 19 日
 
 然而，笛卡尔对分解分析的强调并非没有先例。它不仅已经涉及到古希腊几何学，而且还隐含在柏拉图的收集和分割方法中。我们可以通过以下方式解释从逆向到分解（概念）分析的转变，以及两者之间的联系。考虑一个简单的例子，如下图所示，将所有动物“收集”起来，并将它们分为“有理性”和“非有理性”，以便将人定义为有理性动物。
 
-> <img src="https://plato.stanford.edu/entries/analysis/Diagplat.jpg" alt="division" data-size="original">
+![](../.gitbook/assets/Diagplat.png)
 
 根据这个模型，在寻求定义任何事物时，我们沿着适当的分类层次结构向上工作，找到更高级别（即更基本或更一般）的“形式”，通过这些形式我们可以确定定义。尽管柏拉图本人并没有使用“分析”这个词——“分割”的词是“_dihairesis_”——但寻找适当的“形式”本质上就是分析。作为苏格拉底寻求定义的延伸，我们可以清楚地看到这是概念分析的起源。关于“人类是理性动物”的定义，我们寻求的就是这种类型的定义，通过其他概念（即“理性”和“动物”）来定义一个概念（即“人类”）。但是，对于这个定义提供的解释存在一些问题。从分类层次的外延理解来看，即根据所指的事物类别，上层类别显然更大，作为子类别包含了下层类别（例如，动物类别包含人类类别作为其子类别之一）。然而，从内涵理解来看，“包含”的关系被认为是相反的。如果有人理解了“人类”这个概念，至少在强烈的意义上知道它的定义，那么他们必须理解“动物”和“理性”这两个概念；因此，自然而然地会说“人类”这个概念“包含”了“理性”和“动物”这两个概念。在“分析”中向上工作（在回归的意义上）随后就被认为是将一个概念“拆解”或“分解”为其“组成”概念（在分解的意义上的“分析”）。当然，严格来说，将一个概念“分解”为其“组成”概念只是一个隐喻（正如奎因在《经验主义的两个谬论》第 1 节中所著名地指出的），但在早期现代时期，这种说法开始被更加字面地理解。
 
@@ -276,10 +276,10 @@ What follows here is a selection of thirty classic and recent works published ov
 
 ## Academic Tools
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=analysis).                                                                      |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=analysis).                                                                      |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/analysis/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=analysis\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/analysis/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=analysis\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/analysis/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources

@@ -306,7 +306,7 @@ Gerry Mackie（2003）认为，在“无关性”概念上存在模棱两可的�
 
 要不然它们可以像这样被描绘出来：
 
-![一个图表，y 轴标注为“偏好”，x 轴依次为“冷”，“温暖”和“热”。第一条线标注为“妈妈”，从冷/偏好高到热/偏好低。第二条线标注为“爸爸”，从冷/偏好低到热/偏好高。第三条线标注为“宝宝”，从冷/偏好低到温暖/偏好高再到热/偏好中等。](https://plato.stanford.edu/entries/arrows-theorem/fig1.png)
+![一个图表，y 轴标注为“偏好”，x 轴依次为“冷”，“温暖”和“热”。第一条线标注为“妈妈”，从冷/偏好高到热/偏好低。第二条线标注为“爸爸”，从冷/偏好低到热/偏好高。第三条线标注为“宝宝”，从冷/偏好低到温暖/偏好高再到热/偏好中等。](../.gitbook/assets/fig1.png)
 
 图 1
 
@@ -323,7 +323,7 @@ Gerry Mackie（2003）认为，在“无关性”概念上存在模棱两可的�
 
 成对多数决策从这个配置文件中得出了对 A 相对于 B 的弱社会偏好，因为有一个人弱偏好 A 而不是 B，还有一个人弱偏好 B 而不是 A。同样，它得出了对 B 相对于 C 的弱社会偏好。传递性要求对 A 相对于 C 的弱社会偏好，但是没有。相反，存在一个严格的社会偏好，即 C 高于 A，因为这是选民的一致偏好。尽管如此，这个配置文件相对于公共排序 BCA 是单峰的：
 
-![一个图表，y 轴标记为“偏好”，x 轴按照 B、C 和 A 的顺序排列。第一行标记为“1”，从 B/低偏好到 C/高偏好到 A/中等偏好。第二行标记为“2”，从 B/高偏好到 A/低偏好](https://plato.stanford.edu/entries/arrows-theorem/fig2.png)
+![一个图表，y 轴标记为“偏好”，x 轴按照 B、C 和 A 的顺序排列。第一行标记为“1”，从 B/低偏好到 C/高偏好到 A/中等偏好。第二行标记为“2”，从 B/高偏好到 A/低偏好](../.gitbook/assets/fig2.png)
 
 图 2
 
@@ -540,10 +540,10 @@ Sen 展示了如何通过协调从不同假设中得出的社会排序来研究�
 
 ## Academic Tools
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arrows-theorem).                                                                      |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arrows-theorem).                                                                      |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/arrows-theorem/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=arrows-theorem\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/arrows-theorem/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=arrows-theorem\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/arrows-theorem/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources

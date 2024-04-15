@@ -2,7 +2,7 @@
 
 _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 日_
 
-![年轻的安德森的照片](https://plato.stanford.edu/entries/anderson-john/anderson.jpg)
+![年轻的安德森的照片](../.gitbook/assets/anderson.png)
 
 **约翰·安德森，约 1926 年，悉尼大学档案馆。**
 
@@ -154,7 +154,7 @@ _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 �
 
 在这些讲座中，安德森系统地从命题的性质和主谓结构中推导出了类别的数量和排序。结果是一个包含 13 个类别的方案，按照黑格尔式的“继承”方式组织成三组，并且在两组之间的过渡中，普遍性和数量作为“连接类别”起作用。
 
-![一个有 3 列的表格，标题为“类别表”，第一列标为“逻辑或质量的类别”，列出了同一性、差异、存在、关系、普遍性；第二列标为“数学或数量的类别”，列出了从前一列链接过来的普遍性、特殊性、数目、顺序、数量；第三列标为“物理的类别”，列出了从前一列链接过来的数量、强度、物质、因果、个体](https://plato.stanford.edu/entries/anderson-john/ja\*categories.jpg)
+![一个有 3 列的表格，标题为“类别表”，第一列标为“逻辑或质量的类别”，列出了同一性、差异、存在、关系、普遍性；第二列标为“数学或数量的类别”，列出了从前一列链接过来的普遍性、特殊性、数目、顺序、数量；第三列标为“物理的类别”，列出了从前一列链接过来的数量、强度、物质、因果、个体](../.gitbook/assets/jacategories.png)
 
 （转载自《空间、时间和范畴》，经悉尼大学出版社许可。）
 
@@ -326,10 +326,10 @@ Rush Rhees 是安德森在爱丁堡的学生，当然后来也是路德维希·�
 
 ## Academic Tools
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=anderson-john).                                                                      |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=anderson-john).                                                                      |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/anderson-john/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=anderson-john\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/anderson-john/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=anderson-john\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/anderson-john/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources

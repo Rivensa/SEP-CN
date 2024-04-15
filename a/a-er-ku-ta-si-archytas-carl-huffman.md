@@ -91,9 +91,9 @@ _首次发表于 2003 年 6 月 26 日；实质性修订于 2020 年 11 月 5 �
 
 阿基塔斯的解决方案被称为“所有解决方案中最为卓越的”和“三维建构中的大胆构思”（Heath 1921, 246）；穆勒称其为“空间想象力的壮举”（1997, 312 n. 23）。我们要感谢尤托修斯，他在公元六世纪收集了大约十一个解决这个问题的方法，并将其作为对阿基米德《论球体和圆柱体》第二卷的评论的一部分。尤托修斯对阿基塔斯解决方案的来源最终是亚里士多德的弟子欧德莫斯，他在公元前四世纪末写了一本几何学史。这个解决方案很复杂，这里不可能一步一步地进行详细说明（详见 Huffman 2005, 342–401）。阿基塔斯通过构造一系列四个相似三角形（见下图 1）并证明它们的边成比例，即 AM : AI :: AI : AK :: AK : AD，其中 AM 等于原立方体的边长（G），AD 是 AM 的两倍。因此，应该在 AI 上建立一个体积是 AM 立方体两倍的立方体。构造这四个相似三角形的真正困难在于，给定的原立方体边长和两倍于此长度的边长是相似三角形中的两条边。构造这些三角形的关键点 K 是由两个旋转平面图形的交点确定的。第一个图形是一个半圆，它垂直于圆 ABDZ 的平面，从直径 AED 开始，并在点 A 保持固定的情况下旋转到位置 AKD。第二个图形是三角形 APD，它从圆 ABDZ 的平面上旋转到位置 ALD。当这些图形中的每一个旋转时，它们在半圆柱体的表面上划出一条线，该半圆柱体垂直于 ABDZ 的平面，以 ABD 为底。构造的大胆和想象力在于设想旋转半圆在半圆柱体表面上划出的线与旋转三角形在同一表面上划出的线在点 K 处相交。我们不知道是什么让阿基塔斯产生了这种惊人的空间想象力，以构造边长成比例的三角形。关于将阿基塔斯的解决方案置于他所处时代的数学中并使其变得不那么“神奇”的最近尝试，请参见 Menn 2015。
 
-> <img src="https://plato.stanford.edu/entries/archytas/cube1.jpg" alt="图 1" data-size="original">
+![图 1](../.gitbook/assets/cube1.png)
 
-> <img src="https://plato.stanford.edu/entries/archytas/cube2.jpg" alt="图 2" data-size="original">
+![图 2](../.gitbook/assets/cube2.png)
 
 **图 1**
 
@@ -286,10 +286,10 @@ Brisson（2013）对证据持怀疑态度，并得出结论认为阿基塔斯从
 
 ## Academic Tools
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=archytas).                                                                      |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=archytas).                                                                      |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/archytas/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=archytas\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/archytas/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=archytas\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/archytas/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources

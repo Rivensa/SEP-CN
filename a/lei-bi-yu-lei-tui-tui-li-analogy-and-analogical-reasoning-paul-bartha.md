@@ -776,13 +776,13 @@ Knuttila 和 Loettgers（2014）研究了类比推理在合成生物学中的作
 
 ## 学术工具
 
-> \| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [如何引用本条目](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=reasoning-analogy). |
+> \| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [如何引用本条目](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=reasoning-analogy). |
 
 \| --- | --- |
 
-\| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [预览此条目的 PDF 版本](https://leibniz.stanford.edu/friends/preview/reasoning-analogy/) 在 [SEP 学会的朋友们](https://leibniz.stanford.edu/friends/)。 |
+\| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [预览此条目的 PDF 版本](https://leibniz.stanford.edu/friends/preview/reasoning-analogy/) 在 [SEP 学会的朋友们](https://leibniz.stanford.edu/friends/)。 |
 
-\| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [查找与本条目相关的主题和思想家](https://www.inphoproject.org/entity?sep=reasoning-analogy\&redirect=True) 在互联网哲学本体项目（InPhO）上。 |
+\| ![inpho icon](../.gitbook/assets/inpho.png) | [查找与本条目相关的主题和思想家](https://www.inphoproject.org/entity?sep=reasoning-analogy\&redirect=True) 在互联网哲学本体项目（InPhO）上。 |
 
 \| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [本条目的增强参考文献](https://philpapers.org/sep/reasoning-analogy/) 在[PhilPapers](https://philpapers.org/)上，附带链接到其数据库。 |
 
@@ -1583,10 +1583,10 @@ Knuttila 和 Loettgers（2014）研究了类比推理在合成生物学中的作
 
 ## Academic Tools
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=reasoning-analogy).                                                                      |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=reasoning-analogy).                                                                      |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/reasoning-analogy/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=reasoning-analogy\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/reasoning-analogy/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=reasoning-analogy\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/reasoning-analogy/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
