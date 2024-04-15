@@ -1,2 +1,368 @@
-# &#x20;索尔兹伯里的约翰 John of Salisbury (Karen Bollermann and Cary Nederman)
+# 索尔兹伯里的约翰 John of Salisbury (Karen Bollermann and Cary Nederman)
 
+*首次发表于2016年8月10日星期三；实质性修订于2022年4月27日星期三*
+
+索尔兹伯里的约翰（1115/20-1180）是所谓的十二世纪文艺复兴时期最重要的哲学家之一，对政治和道德哲学的发展以及中世纪教育理论和新兴亚里士多德学说的传播做出了贡献。他在巴黎接受了广泛的教育，大部分时间都在担任教会的积极仆人。约翰是坎特伯雷大主教托马斯·贝克特与英格兰国王亨利二世争议期间的合作伙伴，最终被提升为沙特尔主教。约翰的思想被称为“人文主义”，因为他赞美人类和自然的尊严：后者是可以理解的，并且可以通过运用自然理性来理解。然而，约翰承认在获得智慧方面存在严重的障碍。在他的著作中，他宣称自己遵循西塞罗和新学派的温和怀疑主义，后者拒绝对确定性提出教条主张。约翰说，理性人类探究在大多数问题上能够达到的最好成果是可能的真理，始终需要重新评估和修订。他的哲学的总体倾向反映在他对中庸的倡导和对自然作为地上满足的规范指南的强调上。约翰撰写了几篇哲学著作，其中最著名的是《政治学》（PC），还有《论元学》（ML）和《哲学家信条》（EMM）。这些作品都是在 1154 年至 1159 年间完成的，当时约翰在坎特伯雷主教座位上任前的主教提奥巴尔德的服务期间。约翰的其他著作——两个信件集、两个圣徒传记和一部历史著作——展示了他哲学承诺的实际应用。
+
+* [ 1. 传记](https://plato.stanford.edu/entries/john-salisbury/#Biog)
+* [2. 古典哲学来源](https://plato.stanford.edu/entries/john-salisbury/#ClasPhilSour)
+* [ 3. 哲学方法](https://plato.stanford.edu/entries/john-salisbury/#PhilMeth)
+* [ 4. 中庸之道](https://plato.stanford.edu/entries/john-salisbury/#Mode)
+* [ 5. 王者之道](https://plato.stanford.edu/entries/john-salisbury/#PrinMode)
+* [ 6. 反伊壁鸠鲁主义](https://plato.stanford.edu/entries/john-salisbury/#AntiEpic)
+* [ 7. 自然主义](https://plato.stanford.edu/entries/john-salisbury/#Natu)
+* [8. 政治体制](https://plato.stanford.edu/entries/john-salisbury/#BodyPoli)
+* [ 9. 实用哲学](https://plato.stanford.edu/entries/john-salisbury/#PracPhil)
+* [ 参考书目](https://plato.stanford.edu/entries/john-salisbury/#Bib)
+
+  * [ 主要来源](https://plato.stanford.edu/entries/john-salisbury/#PrimSour)
+  * [ 二手文献](https://plato.stanford.edu/entries/john-salisbury/#SecoLite)
+* [ 学术工具](https://plato.stanford.edu/entries/john-salisbury/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/john-salisbury/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/john-salisbury/#Rel)
+
+---
+
+## 1. 传记
+
+索尔兹伯里的约翰出生于英格兰的旧索尔兹伯里（现在的索尔兹伯里遗址），出生年份在 1115 年至 1120 年之间。关于他的家庭背景和早年生活的具体了解很少；只知道他有一个兄弟理查德和一个同父异母的兄弟罗伯特，两人都在英国教会内担任职务。约翰可能在索尔兹伯里接受了早期教育，然后在埃克塞特继续学习。与他安全关联的第一个日期是 1136 年，当时他前往巴黎在圣日耶尔山修道院学习。在《论语言学》中的一段著名的自传性段落中，约翰叙述了他十二年的教育经历，这是了解这一时期法国高等教育的重要来源。他的老师名单包括了 12 世纪中叶许多伟大的思想家，其中包括彼得·阿伯拉德、梅伦的罗伯特、康奇斯的威廉、沙特尔的蒂埃里、小桥的亚当、普瓦捷的吉尔伯特和普兰的罗伯特。约翰的学习涵盖了思辨哲学、修辞学、语言学理论、文学和神学。他似乎在巴黎的后年辅导过学生。也正是在这些年间（具体来说是 1141 年至 1147 年），约翰很可能起草了他那首长达 1852 行的哲学和讽刺诗《哲学家的 Entheticus de dogmate》（或称为 Entheticus maior）；最后两部分很可能是在 1154 年末至 1156 年中期完成的（较短的 Entheticus minor 是 Policraticus 的前言）。
+
+像他那个时代的许多受过教育的教士一样，约翰最终选择进入权力中心，而不是修道院或教室。在他的朋友彼得·塞勒的帮助下，约翰于1148年加入了坎特伯雷大主教西奥巴尔德的家族，后者是英国教会权益的积极倡导者。作为西奥巴尔德的秘书，约翰是一位全能的行政人员：他撰写大主教的信件，就法律和政治事务向他提供建议，经常作为大主教的特使前往欧洲大陆，并以亲密信使的身份生活。约翰的第一封信集是在西奥巴尔德于1161年去世后不久编写的，其中主要包括以西奥巴尔德的名义写的官方信件，以及约翰为坎特伯雷撰写的信件和一些个人信件。
+
+Theobald的宫廷吸引了许多接受过类似培训和经验的牧师，与约翰自己相似，因此在1140年代和1150年代，他可以在一个同情他的智识追求的环境中继续沉迷其中。约翰被认为是一群博学的牧师中的一员，其中包括托马斯·贝克特（未来的大主教和殉道者），他在1154年底被任命为亨利二世的大臣之前一直是Theobald的忠实仆人（Nederman和Bollermann 2020）。约翰代表Theobald的活动使他接触到了十二世纪欧洲最有权势和最杰出的人物。他在尤金三世（1145年至1153年）的教皇任期内参加了许多关键事件的罗马教廷，他后来在他的《教皇史》（HP）中记述了这四年的情况（在与贝克特有关的流亡早期，可能是1164年初至1166年初写成的）。他与同胞尼古拉斯·布雷克斯皮尔（Nicholas Breakspear）有着亲密的友谊，后者在1154年登上教皇宝座，成为阿德里安四世。约翰还熟悉十二世纪世俗生活中的重要人物，无论是在法国还是英格兰，尤其是亨利二世。在英国历史上被称为混乱时期，约翰曾支持亨利一方对抗斯蒂芬国王的党羽。然而，他对亨利对英国教会的政策持有足够强烈的反对意见，以至于在1156年和1157年期间被流放出皇家宫廷。尽管他最终恢复了宠爱，但他对亨利的动机持有持久的怀疑态度，这在后来的事件中得到了证实。 索尔兹伯里的约翰似乎在提奥巴尔德的大主教任期的最后几年里忙于坎特伯雷的管理工作，但也正是在这个时期（1156 年末至 1159 年末），约翰创作了他最著名和受人尊敬的两部作品：《金属逻辑》和《政治哲学》，前者介绍了学院派课程的概述和对三学科研究的辩护；后者是一部以西塞罗的中庸怀疑论为基础的道德和政治哲学著作，其中融入了圣经、教父和古典文献的例证。
+
+在贝克特于 1162 年成为坎特伯雷大主教后，他开始捍卫教会自由免受亨利的侵犯，部分原因是对此，贝克特委托约翰在 1163 年初撰写了一部关于安瑟姆的圣徒传记，安瑟姆是一位曾与过度扩张的英国君主作斗争的前坎特伯雷大主教，以支持正式的教会封圣。随着贝克特与亨利之间的冲突加深，约翰勉强地支持教会对抗英国王室的事业。因此，约翰在 1160 年代的大部分时间都在流亡中度过，要么在法国，要么在教皇的宫廷，为贝克特辩护并反对支持国王的英国主教。约翰的第二封信函集中的大部分信件都是在这个时期写的，对这段时期具有重要的证词意义。在贝克特于 1170 年 12 月被谋杀的事件中，约翰作为旁观者，他在早期的封圣努力中为英国教会服务。约翰在 1170 年代初期以多种身份为英国教会服务。重要的是，约翰撰写了贝克特最早的圣徒传记之一，用于支持最初的封圣努力。约翰于 1176 年被任命为沙特尔主教（他致力于推广贝克特的崇拜），并于 1180 年在那里去世，葬于附近的圣母若瑟法特修道院教堂。
+
+## 2. 古典哲学来源
+
+曾经有人认为约翰·索尔兹伯里是“12世纪最博学的人”（普尔1932: 191）。然而，珍妮特·马丁已经有力地证明，约翰对拉丁语（在某种程度上还有希腊语）经典的熟悉主要来自所谓的花束集，即简短段落的集合（马丁1977, 1979, 1984）。这些编纂可能很容易在坎特伯雷大教堂附属的基督教堂修道院的广泛（宗教改革前）图书馆中获得。这并不意味着约翰对古代哲学文本和思想没有直接了解。至少，他个人图书馆的清单（他将其留给他在1176年至1180年担任主教的沙特尔大教堂）提到了西塞罗的《职官论》和《演说家》，塞内加的《自然问题书》和瓦勒里乌斯·马克西姆斯（韦伯1932: 65–69）。当然，约翰对古代拉丁作家和文本的了解远不止他自己收藏的那些。除了基督教堂的图书馆，约翰的旅行也使他能够接触到大量的文本资源。此外，当时的知识分子经常交换书籍或委托复制。因此，拉丁哲学家，尤其是西塞罗和塞内加，在12世纪广泛传播，约翰对他们的依赖很大（参见赫曼德-谢巴特2015年的综述）。
+
+在希腊哲学家中，约翰的知识可谓贫乏，主要是因为在12世纪的拉丁西方几乎没有古希腊语言。直到13世纪期间拉丁语对亚里士多德著作的翻译以及柏拉图的几部作品的传播，才有可能有所了解。约翰能够接触到的柏拉图的文本只有卡尔西迪乌斯的《提摩伊》部分翻译；在亚里士多德的著作中，他显然对《逻辑学》的六卷本有一定了解，这构成了亚里士多德逻辑和“科学”体系的基础。在给他的前任老师理查德·德拉维克的一封无日期信中，约翰表达了对获取（未指明的）亚里士多德作品的兴趣（JL2: 294–95）。（Bloch 2012对约翰在哲学中使用古典文献的技术方面进行了彻底分析，特别是对亚里士多德的关注，但不是唯一的关注点。）
+
+然而，约翰显然对古希腊哲学家的学说了解更多，而这份账目可能没有显示出来。有许多拉丁语作家向中世纪传递了关于希腊哲学教义的记载，包括阿普勒尤斯、卡尔西迪乌斯、西塞罗、塞内加、拉坦修斯和圣奥古斯丁（O'Daly 2018）。因此，例如，约翰知道柏拉图的《理想国》及其一些主要思想的存在，尽管这本书直到 15 世纪才在欧洲流传开来（Dutton 1983；PC：54，137）。他还能够广泛参考伊壁鸠鲁的观点，尽管主要是通过西塞罗和其他拉丁语作家的高度批判性著作进行过滤（Nederman 和 Bollermann 2011）。而且，古希腊思想家的翻译文本有时包含对他们其他哲学原则的间接提及，形成所谓的“地下”来源（这个术语是 Nederman 和 Brückmann 1983: 228-29 用来形容约翰的）。“地下”来源。其中一个例子是约翰在他的重要著作中使用了亚里士多德伦理学理论的关键要素，这发生在拉丁版本的Nicomachean Ethics流传之前，可以通过亚里士多德在《逻辑学》中偶尔提及他的道德原则来解释（Nederman 1997）。
+
+尽管约翰接触古代哲学著作的机会相对较少，但他还是能够拼凑出关于这些作者提出的思想的大量信息。这对约翰对自己知识事业的愿景至关重要。在《元辩论》中，约翰曾经发表过一句著名的评论，谈到了他所欠的伟大债务的传承：
+
+> …我们这个时代享受着前一个时代的好处，并且通常比前一个时代更加了解，不是因为我们的智力超过了他们，而是因为我们依赖于他人的力量和我们祖先的丰富学识。沙尔兹伯里的约翰曾经说过，我们就像坐在巨人的肩膀上的侏儒，因此我们能够看得更多、看得更远，不是因为我们自己的视力敏锐或身体高大，而是因为我们被巨人的伟大所抬举和高举。我愿意毫不犹豫地赞同这些话....（ML: 257）
+
+虽然约翰对过去伟大的基督教神学家所欠的债务绝不应该减少，但他明显而坚决地将自己视为古代哲学探究传统的继承者。因此，他被赋予了“人文主义者”的称号（由 Leibschütz 1950 和最近的 Nederman 2005: 41–43 所赋予，但被 Olsen 1998 和后来的 Bloch 2012: 61 所质疑）。问题不在于约翰是否“准确地”阅读了他的古典前辈，而在于他如何从中获得灵感，并以这样的方式加以改编，以捍卫和推动自己作为哲学家的努力。
+
+## 3. 哲学方法
+
+约翰最基本的哲学承诺明确源自西塞罗。除了约翰自觉（并且在很大程度上成功地）模仿西塞罗的拉丁表达风格之外，他还接受了西塞罗对新学派纲领的奉献（Nederman 2005; Grellard 2013）。新学派主张一种反教条主义的概率知识理论，即只要没有被无疑地证明，对确定性的主张仍然可以受到质疑。西塞罗与所谓的“旧学派”更激进的怀疑方法保持距离，后者否认任何事物都可以被确定地认识到（西塞罗《神的本性》：1.1）。正如西塞罗所解释的那样，新学派并不排除人类思维能够获得真理的可能性（与旧学派相反），只是坚持认为辨别真假的标准并非不言自明或直观，并且感官可能会受到欺骗（西塞罗《学术篇》：2.24.76–2.30.98）。西塞罗的怀疑立场具有反教条主义而非绝对怀疑的特点。
+
+索尔兹伯里的约翰在他对哲学的所有重要贡献中公开采用了相同的西塞罗式新学派观点：《政治学》、《逻辑学》和《哲学家的教诲》。第一部作品是他最著名的著作，是一部关于正确的宫廷和王室行为的论文，其中包含了大量的政治理论；第二部作品是他对 12 世纪欧洲教育状况的批判性评估，特别关注他所处时代亚里士多德学派知识的进展；最后一部作品是一首漫长的教诲诗。尽管学者们通常将这些著作视为独立且大部分无关的作品（威尔克斯 1984a 和冯·穆斯 1984 是例外），但它们在方法上通过共同认可和应用西塞罗式的温和怀疑主义而得以统一，这在构建约翰的哲学立场的实质上起到了关键作用。查尔斯·B·施密特声称约翰对“新学派的处理缺乏哲学上的复杂性”是站不住脚的（施密特 1972：37-38）。
+
+由于约翰广泛接触到西塞罗的主要哲学作品，他对坚持新学派怀疑主义所涉及的问题有全面的理解（德内里 2016），明确把握了温和和严格怀疑主义立场之间的认识论差异。在他的《哲学家的教诲》中，约翰批评了旧学派的激进怀疑主义观点，即“人类被剥夺了光明”（EMM：1.138），支持与新学派相关的立场。
+
+> 除了那些通过活生生的理由证明的事情，人们在所有事情上都应该犹豫不决... 这些事情，[学院派]宣称，是已知的；他对其他事情持怀疑态度，对这些事情，通过经验可以更加确定。因为通常的事情发展趋势使你总是在相似的模式下看到可能性。然而，由于有时会发生不同的情况，这些事情并不足够确定，但也不是没有证据。因此，他所断言的是真实的，他认为是必要的；至于其他事情，他说“我相信”或“我认为是这样的”。（EMM，ll. 1143–44, 1147–54）
+
+从他的第一部哲学反思作品开始，约翰已经宣布了他对一个基本上是西塞罗观点的忠诚。约翰的《元辩论论》重申了这一立场，反复宣称他明确承诺新学派的哲学计划。在序言中，他宣布，
+
+> 在对智者来说是可疑的事情上，我不发誓我所说的是真的，但无论是真是假，我仅满足于概率。 （ML：122）
+
+虽然约翰将他对怀疑论的看法与更激进的观点区分开来，但他承认获得知识的过程是麻烦的。约翰引用了西塞罗的一句话，观察到：
+
+> … 发现真理是一件伟大的事情，正如我们的学院派朋友所声称的那样，它就像隐藏在井底一样….（ML: 205）
+
+索尔兹伯里的约翰在《论辩的方法》中经常回顾西塞罗的方法论规定，警告不要过于草率地接受不充分证实的真理主张。《论辩的方法》的一个主要主题可以被描述为对他那个时代的教师之间发生的干燥争论的驳斥，这是由于他们不愿放弃他们的刻板公式和固定教条所导致的。
+
+索尔兹伯里的约翰在《政治学》中对西塞罗的新学派进行了最广泛的讨论和应用。该论文再次重复了作者与学院教义的自我认同，其序言回响着《元辩论》的话语：
+
+> 在哲学上，我是学院争论的信徒，它通过理性来衡量那些自称更有可能的事物。……在那些智者怀疑的事情上，我不会背离他们的足迹。（PC：7）
+
+在第七卷中，这一观点被提升到了一个评价标准的水平，回顾了希腊罗马哲学的主要学派，其目的是发现每个学派的宝贵教训，并展示其中的局限性（PC：148-49）。学院派的论述被赋予了重要地位，开启了这一关键性的异教哲学史。尽管他承认自己对学院派的热爱，约翰强调了学派内部存在的极端怀疑主义与他自己温和的西塞罗立场之间的分歧，并提出了对前者的还原论证。
+
+> 然而，我并不是说所有被称为学院派的人都遵守了谦逊的原则，因为即使它的基本信条也存在争议，其中的一些部分既可嘲笑又可误导... 如果学院派对每件事都存在疑问，那么他对任何事情都没有确定性... 但他对自己是否存在疑问持有不确定性，只要他不能确定地知道自己不知道这种疑问本身。（PC：150）
+
+约翰说，激进怀疑主义不能成为哲学的代表，因为哲学家对智慧的热爱要求承认自己可能知道真理（PC：151-52）。
+
+约翰的温和怀疑主义认可有三个可靠的知识基础：信仰、理性和感官（PC：153-56）。因此，哲学家不应该质疑自己对上帝存在的信仰，也不应该质疑一些数学公设的确定性，以及其他一些“除了那些忙于不知道任何事情的人之外，其他人都不允许怀疑的第一原则”（PC：154）。尽管约翰的怀疑主义似乎并不那么怀疑，但他列举了一个冗长的清单
+
+> 对于那些智者既不被信仰、感官或明显的理由所说服，而且相反的主张都有一些证据支持的可疑问题。（PC: 152）
+
+这些话题包括形而上学、宇宙学、自然科学、神学和伦理学的重大问题。约翰列举了一些伦理学话题，认为它们容易产生怀疑，因此可以进行理性辩论，包括美德和恶习的用途、目的和起源，一个拥有一种美德的人是否拥有所有美德，所有罪恶是否都是平等的，应该受到相等的惩罚。（PC: 152）
+
+整个列表显然是为了举例说明而不是详尽无遗（PC: 152-53）。总之，约翰开放了一系列适合哲学讨论的广泛话题，这些话题都可以进行理性争论。在面对所有这些有争议的话题时，约翰建议坚持学院派的方法，因为
+
+> 学院派对这些问题存在疑虑，他们非常谦虚，以至于我认为他们努力防范了鲁莽的危险。（PC：153）
+
+在所有哲学学派中，学院派独特地抵制了用过早的教条取代对不确定问题进行开放讨论的诱惑。在约翰看来，新学派的适度怀疑主义独自捍卫了他认为对追求真理必不可少的探究自由。
+
+虽然《政治学家》没有重申《论知识论》和《论修辞学》中讨论的知识错误的认识论基础，但它明确地认为人类的思维具备理解真理的潜在能力。因此，约翰反对奥古斯丁的观点，即即使是西塞罗的适度怀疑主义也是错误的。
+
+> 从某个隐藏的源头堆积黑暗，并警告整个哲学是模糊的，不允许人们希望在其中找到任何光明。（奥古斯丁反学院派：3.14.30）
+
+在一个令人惊讶的转折中，约翰将奥古斯丁本人列为支持那些表现出学院派怀疑的人：
+
+> 即使我们的奥古斯丁也没有攻击他们，因为他自己在他的作品中经常使用学院派的温和态度，并提出许多问题是模棱两可的，而对于另一个更有信心和同样安全地进行争论的人来说，这些问题似乎并不成问题。（PC：152）
+
+索尔兹伯里的约翰认为，奥古斯丁在批判学派的原则上谴责它的同时，实际上也在实践学派的方法。尽管这种解释的有效性暂且不论，约翰寻求任何证据来支持他的观点，即“凡人所能知道的很少”（EMM，第 1142 行）。
+
+## 4. 温和
+
+约翰对温和的学派怀有钦佩之情，这支持了他哲学中的一个关键主题：适度或温和。他坚定地奉行一种带有亚里士多德色彩的信条，即美德必然包含在中庸之中，而在一切事物中保持适度是评判人类思想和行为的最有效标准（Nederman 1997）。正如约翰在《恩泰修斯》中指出的那样，学派的立场与适度相一致。
+
+> 一个谦虚的心灵...以免有人指责它有虚假之处；因此，它用限定词来调和所有的言辞，以便始终保持可信度。（EMM，155-58 行）
+
+约翰强调，拥有这样谦虚心灵的人“根据条件、时间、原因和方式来克制他们的言辞，避免过于简单地说话”（EMM，161-62 行）。学术的适度导致修辞和智力的谦卑，如果不是谨慎，与道德中庸一致。
+
+适度的忠告对于任何形式的美德都至关重要，这一点在约翰的后期作品中也得到了体现。在《金属言论论》中，他坚持认为教育具有明确的伦理组成部分，需要予以认可和审查。正如他在序言中所承认的，
+
+> 我故意在道德问题上加入了许多评论，因为我认为除非它支持我们的生活方式，否则所读或所写的一切都是毫无价值的。任何哲学的表白都是毫无价值和欺骗性的，除非它在培养美德和引导我们的生活方面得到体现。（ML：122）
+
+使人们具有美德并不是一个独立的事业，而是使他们聪明和有知识的一部分；如果一个人无法将所学应用于道德正直的服务中，那么受过良好教育也是毫无价值的。此外，人们在获取知识的过程中所采用的技巧也是受道德评价和判断的。适当的学习不仅取决于灌输的知识数量，还取决于教育经验的质量。约翰认为，适度和美德的平衡原则对于任何认真履行塑造道德和智力责任的教育学都是至关重要的。
+
+温和主题在《金属逻辑》中最突出地出现在对学生应对学科的正确态度的讨论中。约翰断言，知识纪律源于在过度追求所有话题和缺乏知识好奇心之间保持适度的态度：“然而，如果没有适度，心灵的所有这些品质都会变成它们的对立面。机智失去了它的效用”（ML：194）。心灵必须首先区分其潜在的研究对象，以排除那些不适合的对象，即仅涉及上帝的事物以及“有害的事物；……从中产生痛苦、愤怒、贪婪及其追随者，嫉妒、仇恨、诽谤、淫荡和虚荣……”（ML：299）。然而，过度谨慎会导致一个抵制对新领域或外来领域进行探究的智力。约翰认为，适当的哲学研究要求仔细思考自己智力的边界，并正确运用上帝赋予我们的理性能力（ML：180-82）。
+
+约翰将他对知识温和的讨论扩展到教学实践中，即适度的学习态度体现在所咨询的材料的范围上。《金属逻辑》警告说，
+
+> “追随甚至最卑微之人所说的话是完全 masochism 的标志，或者是空洞的炫耀，它阻碍并淹没那些最好将时间花在其他事情上的心灵。”（ML：177）
+
+那些受到尊重的权威人士将受到训练有素的学者的调查，而忽视那些不值得努力和关注的作品。同样重要的是，学习不应该成为一种全然占据、排他（因此过度）的生活方式。相反，
+
+> 智慧必须在学习和放松的控制下进行精心培养，前者旨在增强其力量，后者则是鼓励...智慧始于天性，得到实践的帮助，过度劳累会使其迟钝，而受控制的锻炼则会使其锐化。（ML：148）
+
+过于热衷的学者会招致适得其反的行为，甚至危及其灵魂。
+
+智慧意味着温和的思维方式的观念构成了约翰对当时学校中教学技术的批评的基础。时代的气氛不鼓励保持中庸之道，因此教师们促使学生从事各种智力过度活动。辩论进行时无论时间、地点或主题都不受关注，尽管亚里士多德本应制止那些将无差别口才与辩证法运用等同起来的人的这种过度行为。（ML: 196）
+
+> 索尔兹伯里的约翰反对无节制地使用口舌之争，原因是过度行为。
+
+索尔兹伯里的约翰反对无节制地使用口舌之争的理由是过度行为。
+
+> 一个多话的舌头...会使一个人的生活陷入混乱，除非通过适度的约束加以控制，否则会使整个人陷入困境。（ML：195-96；翻译略有改动）
+
+他说，他亲眼目睹了这种情况。约翰在拜访巴黎的前校友后，报告了他的失望，发现他们“取得了进步 - 就是在这一点上，他们失去了适度，因此失去了所有的谦逊”（ML：201）。出于同样的原因，《金属言论》敦促重新评估与哲学研究相关的当代实践。当逻辑和辩证法在不考虑追求智慧的情况下被使用时，当它们的实践超出了适度，当哲学过度喜欢自己的形象时，智慧的目标不再是至高无上的，这样的研究就是无益且无意义的。
+
+适度的主题也贯穿于《政治学》中，其受众有两个：首先是宫廷人士和其他所谓的“官僚”（根据 Forhan 1985 的说法），他们为国家的利益服务；其次是最终负责维护王国和正义的统治者。约翰的主要关注点是揭示国王及其仆人的恶习，以便教导他们适合身份和权力的行为方式。但约翰采取了现实主义的方法，明确承认禁欲道德的要求对这些人来说是不合适的。由于约翰打算将《政治学》作为一本实用指南，他准备允许
+
+> 如果适度被展示出来，我不认为它是不合适的...有时候沉迷于感官的愉悦是可以理解的；正如所说的，没有什么是过分的不得体的...适度地追求娱乐是可以在闲暇时允许的。（FCP：373）
+
+约翰将适度的价值定位于朝臣和王子们实际生活的条件之下。但其中隐含着一个政治警告：那些处于领导地位的人不能沉迷于这些追求，使其成为目标本身，从而导致国家事务受损。
+
+更广泛地说，约翰将适度的原则与一般的美德理论相结合，这对他的政治思想和道德思想都有重要的影响。在《政治学家》中，约翰的教义中心思想是，如果任何行动
+
+> 超过平均水平是一种错误。每一种美德都有其界限，并且存在于平均水平之中。如果超过了这个水平，就偏离了正道，而不是在正道上。（FCP：157）
+
+坏人“‘远离恶习之间的平均水平，这是美德的领域’”（FCP：374）。但约翰绝不赞同狂热主义。约翰运用左右手的比喻观察到，
+
+> 向右偏离是坚决坚持美德本身[即狂热]。向左偏离是在美德行为中超过平均水平，而美德存在于平均水平之中。确实，所有的狂热都是有害于救赎的，所有的过度都是错误的；过度的善良和习惯性的善行是非常邪恶的。（PC：53）
+
+尽管这种观点对于一个正统教士来说可能显得奇怪，但它揭示了约翰对于他的听众如何解释他的言论的关注程度。所有的美德本质上只有在明确的限制内追求时才能获得，因此他并不指望朝臣们成为圣人。约翰几乎可以肯定是在引用亚里士多德，他说：
+
+> 哲学家说：要小心过度，因为如果一个人放弃了这种谨慎的中庸自身，他就会不谨慎地偏离美德之路...因此，如果美德之后的女王——正义在其过度中消亡，那么过度带来了什么好处呢？（PC: 54）
+
+为了善良本身而超越善良本身，与道德的彻底缺失一样令人厌恶。
+
+在任何具体情况下确定道德中庸的标准，约翰提出了一种基本上是西塞罗式的标准：“关于时间、地点、数量、人物和原因的谨慎判断很容易区分”善恶行为。事实上，人们可以理解约翰主张一种情境主义的道德理论，虽然绝不是相对主义，因为谨慎判断“是广义上节制的起源和源泉，没有它，没有一个职责能够得到适当履行”（FCP：373）。约翰认为，需要关注上下文，以指导人们对何为道德行为的判断。因此，显然，夺取人命是邪恶的，然而作为一种惩罚形式或正义战斗的结果，不夺取生命可能是邪恶的。这种道德观念将道德正确行为的确定视为一种移动目标，而不是适用于所有时间和地点的固定道德绝对。这似乎是他的论点的哲学前提，即各种可能被视为本质上可鄙的活动在适当的程度上可能是道德上可辩护的。在《政治学家》的第一卷中，约翰对狩猎进行了长篇且尖锐的批评，而狩猎是他写信的英国贵族们最喜欢的消遣活动，然而约翰改变了立场：“然而，当表现出节制并以判断的方式进行狩猎时，这种活动是值得称赞的，并且在可能的情况下，还能获利”（FCP：25）。对于其他许多受欢迎的宫廷“娱乐活动”也是如此。约翰的总体目标是让他的听众时刻牢记“没有节制，良好生活是不可能的”（FCP：161），其中的精髓就是根据自己的最佳判断，在适当的方式和适当的情况下执行正确的行为。（有关此主题的进一步讨论，请参阅有关实用中庸怀疑主义的补充材料。）
+
+## 5. 王者的中庸
+
+索尔兹伯里的约翰强调将美德定义为在过度和不足之间的中庸，并将此原则应用于统治者。在约翰看来，整个社群的道德品质与其王室首领的道德特征密不可分。凭借其个人品质，善良的王子——国王——确保了他所统治的政体的连贯性和幸福；相反，邪恶的王子——暴君——将使他的臣民成为他个人欲望的奴隶。根据约翰提出的美德定义，国王的行动本身必须是中庸的。根据《政治学》的说法，善良统治者所行使的中庸必然统一和平衡他的人民之间的关系。他运用了音乐的隐喻，问道，
+
+> 王子们应该更加谨慎地保持中庸——一方面通过正义的力量，另一方面通过宽恕的仁慈——以使臣民心心相印……和平与慈善的行为将看似不协调的追求创造出一个完美而伟大的和谐？（PC: 51）
+
+这并不意味着国王是他臣民道德的绝对仲裁者。相反，好的王子应该以身作则，采取古代官员所珍视的“心灵的宁静中庸”（PC：54）来教导。尽管从不鼓励恶行，约翰更倾向于容忍那些社区成员犯下的不危及公共秩序或宗教正统的罪恶，或者至少不会过于急躁和严厉地惩罚他们。约翰警告说，“国王对待臣民的爱护之情，就像慈善之臂中的兄弟一样，必须限制在适度的范围内”，以免他的人民失去对他的尊重，并相信他们可以毫无顾忌地进行各种邪恶行为而不受后果的惩罚（PC：49）。然而，《政治学》对那些“过于倾向于惩罚臣民过失的统治者”表示抗议（PC：54）。国王应该迅速采取行动对付那些“不能容忍或不能忠实容忍的明显罪行”，但他也应该对臣民的那些“荣誉和宗教可以安全容忍的行为”表现出温和和耐心（PC：140）。特殊的王室美德，即治理艺术，就在于适度运用上帝所赋予的权威。
+
+尽管约翰将国王视为“上帝的仆人”和神圣法律的仆人，但善良的统治者必须用法律的马勒约束自己，抑制自己的意愿，同时在与臣民的关系中保持谦卑，因为他的一切行为和法令都以适度为定义（PC: 28–29, 46–49）。根据约翰的观点，一个善良的统治者将展示出这种克制，尽管他拥有神圣授权的权力，因为国王根深蒂固的道德品质——这是经过精心指导的计划的结果——必然引导他追求正义并尊重神圣的命令。需要强调的是，约翰对政治权力性质的理解完全是个人化的：在职者塑造了这个职位。国王遵循适度之道的性格得到了他所获得的奖赏的加强：在人们中受到尊敬，他保证了和平的统治和安全的继承；在上帝眼中受宠爱，他将获得救赎的恩赐。“国王既可以享受最甜蜜的世俗之物，又可以选择最有用的永恒之果”，约翰宣称（PC: 55）。他并不认为这样的回报只属于最公正的统治者：
+
+> “拒绝邪恶对于他们（王子们）来说是一件伟大的事情，即使他们没有做出伟大的善行，只要他们不允许臣民沉溺于邪恶”（PC: 55）
+
+那些不滥用他们的巨大权力并追求维护社区和谐秩序的国王，为自己、子孙和臣民带来了幸福（世俗和永恒的幸福）。
+
+国王的对立面是暴君，他以对受其统治的人们过度运用政治权力为特征。如果统治者寻求过度的统治，如果他试图利用自己的权力奴役社区，那么他就是一个暴君。也就是说，暴君是一个完全以自我为中心和任性的人，他对最高政府职位的野心已经实现。使他成为暴君的，严格来说，既不是他的道德品质，也不是他行使的权力，而是两者的结合和组合。暴君声称对他控制下的所有人拥有自由裁量权的垄断，以便维持他的完全自由需要他人真正自由的缺席。《政治学》坚称“只要所有人，无论是集体还是个人，都随着一个头的意愿而行动，他们就被剥夺了自己的自由意志”（FCP：184）。约翰也不相信暴君的受害者应该“将必然性当作美德，通过将同意和必要性结合起来，并优雅地接受他所负有的责任”（FCP：184），因为这只是保留了自由的表面。约翰反而主张采取积极措施保护社区免受暴君的侵害——最后一招是暴君杀（下文讨论）。《政治学》认为，国王的良好统治，即按照中庸之道统治，被视为社会中进行道德善行所必需的自由的唯一保证。
+
+## 6. 反伊壁鸠鲁主义
+
+符合约翰对中庸的重视，Policraticus 的第七和第八卷的重要部分对他认为是中庸的对立面的哲学——即伊壁鸠鲁主义进行了严厉的批评（尽管在 Hermand-Schebat 2015 年对约翰对古典哲学的运用的考察中几乎没有提到伊壁鸠鲁和/或他的学派）。约翰的观点反映了西塞罗高度批判的观点（塞内加和奥古斯丁的《上帝之城》中也存在类似的批评），约翰对伊壁鸠鲁主义的呈现有几个方面非常独特和创新。在选择性地借用伊壁鸠鲁主义的教义时，他省略了传统的重要维度，同时将其他元素延伸到新的方向。古代的伊壁鸠鲁主义依赖于一个原子论的宇宙观，认为虚空中的随机事件是宇宙的本体论前提。因此，古代的伊壁鸠鲁主义者坚持道德理论不会带来任何政治教训。约翰将伊壁鸠鲁主义的伦理教义背景放在一边，同时也在其中找到了一种强大（尽管危险）的政治学说的根源。似乎没有任何直接的先例来解释这种解释，但是，考虑到约翰对权威和例证的创造性运用，对他对伊壁鸠鲁学派的选择性和个人化处理不应感到惊讶（von Moos 1984; Martin 1984）。
+
+约翰提出的对伊壁鸠鲁传统的独特阐释的一个迹象是他声称伊壁鸠鲁自己的观点并不应该被主要蔑视，而应该责怪他的追随者将他的伦理学变成了一种无拘无束的享乐主义。约翰偏离了他古代和教父时代的来源，将大师与学派分离，发现了伊壁鸠鲁的观点中追求适度享乐可能带来幸福的一些价值。“[如果展示出]中庸”，约翰说，
+
+> 我认为谈论感官的快乐并不是不合适的...[因为]只有超过适度的事物才是不得体的。(FCP: 373)
+
+“[美德的领域]”既不在于过度享受也不在于否定快乐，而是在于“两种恶习之间的中庸”(FCP: 374)。
+
+约翰断言伊壁鸠鲁的追随者摆脱了适度的约束，以至于伊壁鸠鲁主义变成了无限追求感官快乐。约翰将伊壁鸠鲁的可接受哲学与其后来的实践区分开来：
+
+> …[W]hat should have been the instrument of virtue has been diverted by writers to the profit of filthiness. Flesh then has concluded (for assuredly no man endowed with sense holds the opinion) that to think, say, and do all that the mind, tongue, and hand covet and to thwart oneself or to repress one’s inclination in nothing is the life of a man enjoying supreme happiness …. (FCP: 273)
+
+The sensual has been placed above the philosophical, the external above the internal, and pleasure above wisdom, so that in all ways Epicureanism subverts true happiness. Epicureanism not only perverts the individual, but also the entire body politic, inasmuch as a nation that “has … been conquered by its own self-indulgence” is ripe for conquest (FCP: 331).
+
+索尔兹伯里的约翰将那些被他称为伊壁鸠鲁派的人之所以被贴上这个标签，并不是因为他们自称是伊壁鸠鲁学派的追随者，而是因为他们的行为和行动。放纵是伊壁鸠鲁派的定义特征，“在所有事情上都为自己的私欲服务”（PC: 182）。因为他们“教授哲学并为自己的私人意愿服务”，所以他们也是伪君子（PC: 175）。尽管约翰对评估适度有着灵活的标准，但他发现“世界上充满了伊壁鸠鲁派，因为在众多的人中，很少有人不是对欲望的奴隶”（FCP: 399-400）。约翰断言，由于大多数人容易受到感官的满足，一个人不需要自称为伊壁鸠鲁派，就可以实践它的教义。
+
+索尔兹伯里的约翰确信，缺乏节制的伊壁鸠鲁主义者无法实现伊壁鸠鲁自己所设想的幸福（FCP：399），因为通过快乐之路通往幸福的道路是艰辛的，因为其追随者们聚集财富以维持自己，追求权力以得到支持，追求地位以激发尊重和避免蔑视，并追求荣耀以赢得名声。然而，伊壁鸠鲁所描述的那种生活并不是通过所有这些手段获得的（FCP：274）。
+
+> 一个追求伊壁鸠鲁主义贪得无厌的人的一个迹象就是显眼——无论是在行为、言辞还是着装上——“因为显眼意味着缺乏节制”（FCP：371）。因此，“貂皮斗篷使人成为法官”（FCP：386）。一个人对财产的欲望“耗尽了他整个人的力量”，并且永远无法过上美好的生活，“因为贪婪的狂热……过度渴望他人的财产或过于顽固地保护自己的财产”（FCP：277）。约翰明确指出了这种恶性循环的起源：“骄傲是一切罪恶的开始”，在人们心中产生了成为卓越者的欲望。从其“有毒的根源”中滋生了野心、贪得无厌、囤积、怨恨、奉承、虚伪的谦逊、过度放纵以及各种邪恶（FCP：295）。
+
+One sign that a man driven by Epicurean acquisitiveness is notoriety—whether in conduct, speech, or dress—“for notoriety connotes lack of moderation” (FCP: 371). Thus it is that “ermine makes the judge” (FCP: 386). A person’s desire for possessions “exhaust[s] the strength of [his] whole being” and can never lead to the good life, “[f]or the frenzy of avarice … covets to excess the possessions of others or guards its own too tenaciously” (FCP: 277). John is explicit about the origin of this vicious cycle: “Pride is the beginning of all sin”, creating in man the desire to be pre-eminent. From its “poisonous root” spring ambition, acquisitiveness, hoarding, resentment, flattery, false modesty, over-indulgence, and all manner of evils (FCP: 295).
+
+索尔兹伯里的约翰认识到等级制度是人类和组织关系的内在特征，但他警告说，当慷慨和公正这两个支柱被推翻时，等级制度可能产生扭曲的影响：“财富、影响力和恩惠，因为它们赋予了很大的权力，会对人的品格进行严峻的考验”（FCP: 298）。在这样的考验中生存下来的唯一方法是拥抱中庸之道的指引之光，因为“每个人更容易因为在某方面胜过他人而骄傲自满，除非他受到中庸之恩的支持”（FCP: 297）。尽管他知道柏拉图认为应该积极抵制这样的欢乐（这是古代哲学家的普遍观点），约翰主张“更安全的做法是逃避和回避冲突”，因为他从未“听说过有人挑战肉欲快乐而没有在战斗中失败的”（FCP: 353）。很可能，他自己的经历和对猖獗的享乐主义的观察也影响了他的观点。
+
+约翰对享乐主义的处理使他发现了古代学派中不存在的一个政治成分。对约翰来说，享乐主义的思维方式和生活方式与暴政紧密相关，并构成了暴政的基础，这不完全是一个政治概念。《政治学家》详细描述了几种暴君：私人暴君、教会暴君和公共或王室暴君（PC: 191–92）。根据约翰的说法，任何利用权力对他人强行施加意志的人都是暴君。约翰承认，他的定义与普通理解相差很大：
+
+> 有人说暴君是通过强力统治压迫人民的人；但他的暴政不仅仅是对人民施加，他可以从最低的地位施行暴政。因为即使不是对人民，他仍然会统治（dominatur）任何他能够统治的人……谁不希望在某个人面前屈服呢？（PC: 163）
+
+在约翰的评估中，任何人都有可能表现出暴虐行为，这是由于人类对追求感官满足的深层渴望。“那些希望按照自己的意愿行事的人应被视为享乐主义者”，约翰总结道，“当行动成为欲望的奴隶时，情感就变成了激情”（FCP: 399）。享乐主义的恶习源于“激情之井”，这使人们认为他们“可以无后果地”做任何他们想做的事情，并且“在某种程度上可以像上帝一样”——不是模仿神圣的善良，而是相信他们的意愿可以取代上帝自己的意愿。因此，享乐主义促进了傲慢和野心，导致“对权力和荣誉的热衷”，构成了暴政的根源（PC: 162–63）。 （有关约翰的典型例子，请参见关于享乐主义暴君的补充说明。）
+
+## 7. 自然主义
+
+索尔兹伯里的约翰涉及的另一个实质性哲学问题是自然在社会和政治秩序基础中所起的作用，这一兴趣在他的作品中显而易见。约翰在《政治学》中采用了自然主义的框架似乎是合理的，但它也出现在《元学论》中的一个关键特征，约翰在其中发展了西塞罗主义的主题，即人类由动物般的原始存在转变为文明生物，这是由于意识到人类固有的理性和语言能力。因此，教育成为他的自然主义的一个非常相关的要素。
+
+索尔兹伯里的约翰在《论语言》中对塞西罗的自然社会基础概念提出了呼吁，这是他试图反驳可能是虚构的 Cornificius 及其追随者所归因的教义，即人们天生具有的品质和能力构成了他们知识和能力的极限（Tobin 1989）。根据这种观点，人类不应该寻求改善自己的状况或发展自己的思想和技能，而是完全依赖上帝的救赎恩典，同时完全回避物质世界和自身的本性（ML: 137, 141–42）。约翰反对 Cornificius 的观点，认为人类本性的世俗和罪恶特征并不结束辩论。相反，上帝通过自然赋予人类通过勤奋运用理性和言辞的天赋能力来改善自己的境遇。这并不意味着约翰认为人的本性（按亚里士多德的术语）是完全可完善的；仍然需要恩典。然而，人们可以单凭本性取得很大成就，与 Cornificius 的教导相反，后堕落的人不应该（或者也许不应该）努力发展（ML: 125–26）。
+
+索尔兹伯里的约翰反对 Cornificius 的一个重要支持柱是对塞西罗关于人类社会原始发展的改编版本的描绘。约翰运用他的来源来证明人与人之间的社会互动是真正（尽管只是部分的，因为仅仅是凡人的）幸福或祝福（beatitudo）的重要源泉。《论语言》将自然（以斯多嘉派的方式）视为“最仁慈的父母和最合理的统治者”，并赋予了神圣的计划（ML: 124）。因此，如果自然只赋予人类言辞和理性的能力，那是为了让他“获得幸福”（ML: 125）。这样的计划是通过对宇宙结构的理性观察得出的：
+
+> [T]he one and true God, in order to bind the parts of the universe in a firm alliance and to keep charity alive, ordered them in such a way that one thing needed the help of another, and one made good the deficiency of another, every single one being as it were a member of every other one. All things if separated from one another are thus only half complete, but are made perfect when allied to others, since all things are held together by mutual support. (ML: 125)
+
+这种互惠的主题贯穿约翰的作品，用于他的通信并构成他对政体的有机隐喻的基础（见下文）（见 JL1：181）。在《金属逻辑》中，这种相互连接的普遍模式表明了应该指导人类行为的自然规律：“[我]们甚至无法想象一种不需要交往或存在于社会之外的幸福”，约翰宣称，因为自然规定了人类的幸福来自于人类的交往（ML：125）。通过攻击人类改善其理性能力的能力，这是约翰对科尼菲修斯提出的指控，从而危及社会，因此使人与上帝在现世所分配的幸福隔绝，也排除了实现上帝赐予的恩典的可能性。
+
+索尔兹伯里的约翰认为，人的理性需要一种在自然界中无与伦比的社交水平。《元辩论论》以西塞罗式的方式论证，理性发现协会的自然性是不够的，因为这种个体的实现永远无法产生它所知道的对人类存在自然而有益的社群。言语是无声智慧将其洞见转化为公开宣言并说服人们遵循他们的自然倾向，放弃个人利益而选择共同利益的机制（ML：126）。如果人类保留了理性能力但被剥夺了言语，"他们将变成野兽，城市将看起来像农场而不是人类在社会纽带中团结在一起的集会"（ML：126）。然而，启蒙辩才
+
+> 却诞生了如此多辉煌的城市...并将如此多的人民紧密联系在慈善的纽带中，以至于任何试图分离上帝为了所有人的共同利益而结合在一起的人，都应被公认为所有人的共同敌人。（ML：126）
+
+索尔兹伯里的约翰对社会的愿景与西塞罗的相似，因为人类的联合需要除了地理接近之外，还需要明确同意在构成社群的所有特征中共享共同的生活。只有语言的雄辩运用才能说服自私的人们，使他们相信按照本性，他们更喜欢共同利益而不是个人福利。在这方面，约翰对西塞罗的依赖是显著的：《元辩论论》假定人与人之间的联结既是他们积极合作的产物，又是一种自然的，但不纯粹自然的（与亚里士多德相对）结果。
+
+索尔兹伯里的约翰认为，Cornifician 的真正意义在于其反对“同时所有城市和整个公民生活”，因为通过声称人们不应该发展他们的理性和言辞能力，任何人与人之间的交往机会都被否定了（ML：127）。Cornifician 的错误在于将后堕落人性的固定性解释为一种永久的状态，然而，如果这是正确的，社会原本就无法形成，更不用说维持了。然而，约翰承认，如果人们要共同生活，就需要有意识的努力。约翰将人类的交往理解为人不断完善和提高自己能力的过程，以便为自然的事业提供帮助。《金言论》对社会起源的理解深受西塞罗观念的影响，即自然的赋予只是一个出发点，人们必须发展和塑造它，才能真正按照自己的天性生活。
+
+这种对自然主义的承诺在《政治学》中更加明显，约翰多次强调“自然是生活的最佳指南”（PC：27，127，201）。《政治学》遵循《金言论》中的教导，即尽管自然为人类的能力提供了基础，但它们只是潜力。“每件事物的开始都是来自自然”，约翰观察到，但人们可以（也应该）通过实践发展他们的天然能力，直到掌握他们的技艺，这一原则在自由和机械职业中同样适用（PC：125）。尽管自然为人类的行为和交往提供了一个模型，但只有参与其中的人们的合作才能实现良好生活的自然方案。
+
+## 8. 政治体
+
+索尔兹伯里的约翰对合作协会的自然主义观念贯穿了他在《政治学家》中提出和发展的著名有机类比。约翰将他的洞察力归功于一封据称是普鲁塔克写给特拉亚努斯皇帝的指示信（约翰的创作）（关于这封信的真实性争议的历史，请参见马丁 1984 年：194-96）。约翰从一个简单的观察开始，即共和国可以被比作一个“有生命的身体”（PC：66）。政治社会的不同职位被比作人体的不同部位。像所有的身体一样，共和国也由一个灵魂引导，约翰将其归属于“指导宗教实践的人们”（PC：67）。然而，正如永恒的人类灵魂与其所驻的有限的肉体不是一致的一样，政治团体的教士灵魂严格来说不是共和国的成员（参见内德曼 2013 年）。因为政治生物本质上是一个世俗实体，政治团体由君主统治，君主“占据头的位置”（PC：69）。 （有关世俗身体与其教会灵魂之间关系的进一步讨论，请参见关于君主暴政和教会自由的补充说明。）
+
+由君主顾问组成的参议院是共和国的心脏。感官对应于以国王名义行使司法权力的皇家法官和地方代理人。财务官员构成了身体的胃和肠道，而税务官员和士兵则代表了两只手。最后，约翰将脚比作工匠和农民，“他们建立、维持和推动整个身体的质量”（PC：67）。根据《政治学家》的说法，有机体的每个部分都有自己明确的功能，由其在整体结构中的位置确定。没有一个成员可以被排除或移除，否则将对整体造成严重损害。
+
+索尔兹伯里的约翰对社区的功能性描绘，并非像有人认为的那样，主要是为了证明社会内部的等级和分裂（有相反观点，请参见斯特鲁夫 1984 年：309-11）。相反，Policraticus 中所发现的政治机体是一种通过合作和谐原则表达的，通过这种原则，原本不同的个体和利益得以和解和联系在一起。约翰采用了一种“生理学”方法来看待政治机体，根据这种方法，所有器官都相互合作，以实现共同的目标。Policraticus 坚持认为“如果没有坚定的意志统一和灵魂的虚拟结合，就不可能有忠诚和坚定的一致性”（PC：77）。回应《Metalogicon》中阐述的自然主义原则，约翰提出，身体的所有部分都必须真正面向和致力于超越政体内的个体私利的共同或公共福利。建议统治者和官员“关注所有人的效益”，建议脚“在所有事情上集中关注公共效益”，并且通常“所有成员”都应该“关注公共利益”（PC：136，126，135）。只有通过对造福所有人的公共利益的共同承诺，才能维护政治机体的安全，以使每个个体都可以相互类比，并且每个人都相信对自己有利的事情是由他认为对他人最有用的事情决定的。（PC：126）
+
+> 约翰的政治机体是一个超越社会差异的机体，在其中，“相互的慈善无处不在”，因为所有部分都与同样持久的共同目标保持一致，该目标包括整个社区和每个成员的合法利益（PC：142）。团结源于合作，合作源于整个社区和每个成员共享的共同利益的存在。
+
+John’s political body is one in which, beyond all social differentiation, there is “mutual charity reigning everywhere”, because all segments are attuned to the same enduring common purpose that encompasses the valid interests of the whole (PC: 142). Unity follows from cooperation, and cooperation stems from the existence of a good shared by the entire community and each of its members.
+
+索尔兹伯里的约翰基于生理模型的社会组织，认为维护政治体的“健康”对于确保合作精神和避免分裂是必要的。对于约翰来说，政治体的健康取决于器官和成员实践公正。共同利益与公正之间的关联意味着所有公民都有相应的义务：
+
+> 只要每个个体的职责都是为了集体社区的利益而实践，只要实践公正，所有人的目标都会充满甜蜜的味道。(PC: 131)
+
+如果政体要作为一个整体存在，每个器官和肢体都必须按照公正的要求行事。约翰对公正的理解遵循西塞罗的双重义务（西塞罗《论职务》：I.7.23）：负面义务和积极责任。
+
+> 正义主要包括以下内容：出于对人类的责任，不要造成伤害，阻止他人造成伤害。当你造成伤害时，你默认了伤害。当你不阻止他人造成伤害时，你是不公正的仆人。（PC：62）
+
+由于正义本质上促进社会合作，而不公正必然导致不和谐和社会分裂，约翰将正义解释为一种普遍的美德和身体健康的保证人。由于正义是共同利益的显著特征，它决定了每个身体部位执行其功能的方式。约翰认为，不仅国王和法官，甚至最卑微的部分也是公共正义的潜在代理人（参见 Nederman 1997），这得到了事实的支持，即每个部分的功能对于所有人的福祉都是绝对必要的。对于维护正义的责任的广泛分散确保了政治体的所有成员都具备保护共同利益所必需的基本能力。
+
+约翰愿意在特殊情况下，将这种自由裁量权扩展到对邪恶统治者的直接政治行动。他描述了两种引起公众关注的情况：统治者犯下的轻微罪行，可以被社会容忍，以及犯下的明目张胆的罪行，危及政治机体的福祉（PC：140-41）。在第一种情况下，公民应表达他们的不满并建议纠正措施，但不应挑战国王的地位。在第二种情况下，当公共利益和宗教受到暴君的威胁时，政治机体的成员应该-事实上，根据政治秩序的功能性条款-采取行动以避免对机体的伤害。这一主张构成了约翰有争议的暴君杀戮学说的基础。学者们一直在辩论这些言论是否构成了一种暴君杀戮理论，还是仅仅是对所有暴君不幸结局的描述（Van Laarhoven 1984; Nederman 1988）。约翰似乎矛盾的主张，即暴君既是上帝的仆人，又必定会受到神罚（PC：201-02），通过许多历史例子得到解决，这些例子展示了一旦暴君的使命完成，他们就会被摧毁。
+
+然而，正如约翰的其他著作一样，暗杀暴君的宗教维度与仅依赖于理性的哲学辩护相平行。由于约翰认为暴政是对“正义本身的侵犯”（PC: 25），他援引社群的有机性质来解释暗杀暴君的合法性，尽管这种情况很少见。只要一个人享有政治社群的成员资格，他可能最终要负起责任——基于每个部分在整体中履行使正义得以实现的职责——来消灭那个无可救药的暴君。约翰并不认为这样的行动应该轻率地进行，他明确规定了在消灭暴君之前必须满足的一系列条件（PC: 209；参见 207-09 以了解典型的适当暗杀暴君）。基于他的自然主义范式，约翰断言“不追究[暴君]的人违背了自己和世俗共和国的整体利益”（PC: 25）。请注意，根据约翰的规定，在特定条件下杀死暴君是每个政治体的每个成员的一般义务，没有区别，以追求正义。由于每个人的健康都依赖于所有人的健康，约翰提出了社会和政治秩序的有机性质与广泛的公共维护该秩序之间的强烈联系，甚至延伸到消除暴君的行为（关于约翰使用医学隐喻的内容，请参见 Shogimen 和 Nederman 2011）。
+
+## 9. 实践哲学
+
+索尔兹伯里的约翰所谓的非哲学作品——两个大量的信件集、两个圣徒传记和一部（简短的）历史——以各种方式证明了他对实践哲学的核心承诺。约翰的当代读者与他一样理解，他的所有作品既参与了道德和哲学，又具有直接的现实世界的相关性。在收到约翰的第一封信件集的副本后，他的密友和频繁通信者彼得·塞勒形容它为“用哲学调味，用修辞的形象装扮”（引自 JL1，x）。在他的非理论文本中的各种方式中，约翰探讨了哲学的本质，提供了中庸怀疑论的实例，概述了中庸和极端在美德和恶习方面的界限，并考察了世俗政治体和其教会灵魂之间的关系。
+
+约翰经常引起对哲学实践维度的关注。例如，在约翰的《圣安瑟姆传》中的一段中，他详细阐述了他对学习的批评，他认为学校中主导的学习方式——无论是为了自身还是为了不以培养美德为目的——都是无益的。约翰报道说，安瑟姆在学习上或许过于勤奋后，“回过神来，明智地审视自己的行为”，这是《元辩论》中推荐的一种教学实践。然后他意识到“流利的辞令或这个世界的哲学并不能带来真正的幸福。它们常常产生骄傲…”（A&B：21）。鉴于约翰对猖獗的伊壁鸠鲁主义倾向的持续谴责，以及他对伊壁鸠鲁主义无法导致至善的判断，很可能“这个世界的哲学”代表了对约翰现在的回顾性参考。
+
+索尔兹伯里的约翰在法国流亡期间写的一些信件中，包括对哲学的真正目的和真正哲学家的角色的思考。在给他的教友普塞尔的信中，约翰将自己的流亡描述为“真正哲学家目的的考验...那些因无辜受苦并为捍卫信仰和正义而受苦的人”（JL2: 68-69）。考虑到约翰财务上的实际限制，他对哲学传统中拒绝世俗财产的安慰并不令人意外，他声称“对于哲学家来说，没有什么比宣扬真理、尊重正义、鄙视世界，必要时爱贫穷更合适的了”（JL2: 68-69）。在同一时期的一封信中，约翰向他的朋友埃德蒙斯伯里修道院院长休解释道，哲学是“美德的养育者和责任的女导师...她规定有用和荣誉是通过相互陈述相互联系在一起的...”（JL2: 264-65），这是一个独特的西塞罗主题。对于哲学家约翰·萨拉森，约翰将自己的流亡状态描述为有利于哲学的，他用既回应了《政治哲学》又让人想起博伊西的语言写道，他现在将自己的现状视为一个朋友，这个朋友“开启了我被荒谬的幻想所迷惑的眼睛，驱散了宫廷的琐事和诱人的享乐，促使我走上了美德之路，并将我列入哲学家的行列”（JL2: 270-71）。
+
+> 在约翰看来，这个行列的顶点是他的前任教师普瓦捷的吉尔伯特，“我们这个时代最有学问的人”（HP: 15），约翰参加了他在 1148 年的兰斯大公会议上的异端审判，并在他的《教皇史》中详细报道了这一事件（有关约翰对审判及其后果的描述和分析，请参见 Bollermann 和 Nederman 2014）。约翰指出，吉尔伯特以及理想（基督教）哲学家所具备的特质之一是
+
+Occupying the pinnacle of this throng, in John’s estimation, is his former teacher, Gilbert of Poitiers, “the most learned man of our day” (HP: 15), whose heresy trial at the 1148 Council of Rheims John attended and reports at length in his *Historia Pontificalis* (for an analysis of John’s account of the trial and its aftermath, see Bollermann and Nederman 2014). Among the qualities that single Gilbert—and, hence, the ideal (Christian) philosopher—out, John notes that he possessed
+
+> 非常敏锐的智慧...阅读了大部分的事物...在阅读和深入研究近 60 年后，他在自由艺术方面学识渊博...在每个学科上都被认为超越了所有人...并且对教父们非常熟悉。(HP: 16, 27)
+
+吉尔伯特展示了他一贯的“极大的温和”，“根据需要利用各种学科，知道它们之间是一致的，相互启迪的”(HP: 26-27)。这些观点回应并加强了《金属逻辑》对学者和学习的教训。
+
+最后，在《教皇历史》的序言中，约翰勾勒出一种根植于实践的历史哲学：像他这样的编年史将“使我的同时代人和后代受益”，因为它产生了一份记录。
+
+> 有助于建立或废除习俗，加强或破坏特权的可贵之处；对于生者来说，没有什么比了解逝者的行为更能确切而深刻地教导他们。 （HP：3）
+
+约翰提到习俗和特权尤为值得注意，因为他在流亡早期写下了这部历史著作，当时亨利二世国王坚持贝克特和英国教会顺从所谓的古老习俗和特权，声称这是他的皇家前任享有的。
+
+总之，约翰并不认同传统观念，即沉思本质上优于行动，并且更值得称赞。相反，他采取的立场是，哲学探究的整个目的在于为个人事务提供指导。因此，应将约翰的哲学探究原则视为他广泛的人文主义项目的一部分，即确定有助于人类幸福的特征。在他的著作中，他强调哲学不应是一种专门化、枯燥和晦涩的追求，而应是政治舞台上积极、尽责和虔诚生活的一个重要特征。哲学探究之所以有价值，是因为知识及其副产品（包括社会秩序和美德）促进了人类的地上至善。与他在宫廷中观察到的享乐主义者相比，约翰认为良好生活的标准并不在于与财富、权力、地位和奢华相关的物质舒适。相反，他提出，正确获得的智慧促进了美德的有益品质，这些品质最终产生了最高程度的幸福。约翰相信，我们应该渴望成为智者和有德行的人，因为这样我们将实现作为人类的天然（和神圣命定的）目标。当我们以这种方式茁壮成长时，我们必将按照上帝的意愿变得幸福。
+
+这种基本的思维取向构成了约翰对哲学的主要贡献的核心。《元辩论》旨在通过道德引导的知识追求，成为一本实用的指南，以实现这种幸福，约翰认为这个目标比学校中常见的技术追求更有价值，更适合哲学家。同样，在提出《政治哲学》的政治思想时，他试图阐明哲学在实现个人和整个社区美好生活方面提供了宝贵的帮助的原则。约翰思想的活力主要在于它与日常生活的要求之间的紧张关系，无论是在教室还是在法庭上，以及在道德和宗教意义上的良好生活的要求。他对哲学的愿景是自觉实践的愿景，揭示我们的道德和智力特征如何帮助我们在地球上过上充实的生活，同时也获得最终的天堂奖赏。约翰的职业生涯很大程度上证明了他的信念，即哲学只有在塑造我们的选择和行动方面具有价值。
+
+通过约翰后期的作品追溯他思想的哲学渊源，可以看出他智力观点的基本统一性。他并没有在他的理论和实践工作之间进行根本性的区分。相反，他似乎热情地将哲学原理融入到他的日常生活以及对当代事件和人物的分析中。约翰认为哲学不应该仅仅停留在学校门口，因为它应该在整个世界中占据重要地位。哲学辩论的任务是帮助辨别善恶、真伪，从而通过航行公共生活的曲折道路来照亮通往幸福的道路。
+
+## Bibliography
+
+### Primary Sources
+
+#### Works by John of Salisbury
+
+| [A&B] | *Anselm & Becket: Two Canterbury Saints’ Lives by John of Salisbury*, R.E. Pepin (trans.), Toronto: Pontifical Institute of Medieval Studies, 2009. |
+| --- | --- |
+| [EMM] | *Entheticus maior et minor*, L. Van Laarhoven (ed.), 3 vols., Leiden: Brill, 1987. |
+| [FCP] | *Frivolities of Courtiers and Footprints of Philosophers*, J.B. Pike (ed.), Minneapolis: University of Minnesota Press, 1938. |
+| [HP] | *Historia Pontificalis*, M. Chibnall (ed.), rev. ed., Oxford: Oxford University Press, 1986. |
+| [JL1] | *The Letters of John of Salisbury, Vol. 1, The Early Letters (1153–1161)*, W.J. Millor, H.E. Butler and C.N.L. Brooke (eds.), Edinburgh: Thomas Nelson and Sons, 1955. |
+| [JL2] | *The Letters of John of Salisbury, Vol. 2: The Later Letters*, W.J. Millor and C.N.L. Brooke (eds.), Oxford: Oxford University Press, 1979. |
+| [ML] | *Metalogicon*, J.B. Hall and J.P. Haseldine (eds.), Turnhout: Brepols, 2013. |
+| [PC] | *Policraticus: Of the Frivolities of Courtiers and the Footprints of Philosophers*, C.J. Nederman (ed.), Cambridge: Cambridge University Press, 1990. |
+
+#### Other Primary Sources
+
+* Augustine, *Against the Academicians*, P. King (ed.), Indianapolis: Hackett, 1995.
+* Cicero, *De officiis*, W. Miller (ed.), Cambridge, MA : Harvard University Press, 1913.
+* –––, *De natura deorum and Academica*, H. Rackham (ed.), Cambridge, MA: Harvard University Press, 1933.
+* Eadmer, [*History*], *Eadmer’s History of Recent Events in England*, G. Bosanquet (trans.), London: The Cresset Press, 1964.
+* –––, *The Life of Saint Anselm (Vita Anselmi)*, R.W. Southern (ed. and trans.), Oxford: Oxford University Press, 1962.
+
+### Secondary Literature
+
+* Bloch, D., 2012, *John of Salisbury on Aristotelian Science*, Turnhout: Brepols.
+* Blumenroth, I., 2021, *Das Alexanderische Schisma in Briefen und Ideenwelt des Arnulf von Lisieux und Johannes von Salisbury*, Cologne: Bohlau Verlag.
+* Bollermann, K. and C.J. Nederman, 2014, “Standing in Abelard’s Shadow: Gilbert of Poitiers, the 1148 Council of Rheims, and the Politics of Ideas”, in *Religion, Power, and Resistance from the Eleventh to the Sixteenth Centuries*, K. Bollermann, T.M. Izbicki, and C.J. Nederman (eds.), New York: Palgrave Macmillan, pp. 13–36.
+* –––, 2015, “John of Salisbury and Thomas Becket”, in Grellard and Lachaud 2015: 63–104.
+* Denery, D., II, 2016, “John of Salisbury, Academic Scepticism, and Ciceronian Rhetoric”, in *The Oxford History of Classical Reception in English Literature*, v. 1, Rita Copeland (ed.), Oxford: Oxford University Press, pp. 377–390.
+* Dutton, P.E., 1983, “*Illustre Civitatis et Popoli Exemplum*: Plato’s *Timaeus* and the Transmission from Calcidius to the End of the Twelfth Century of a Tripartite Scheme of Society”, *Mediaeval Studies*, 45: 79–119.
+* Forhan, K.L, 1985, “A Twelfth-Century ‘Bureaucrat’ and the Life of the Mind: The Political Thought of John of Salisbury”, *Proceedings of the PMR Conference*, 10: 65–74.
+* Grellard, C., 2013, *Jean de Salisbury et le renaissance médiévale du scepticisme*, Paris: Les Belles Lettres.
+* Grellard, C. and F. Lachaud (eds.), 2015, *A Companion to John of Salisbury*, Leiden: Brill.
+* –––, 2018, *Jean de Salisbury, nouvelles lectures, nouveaux enjeux*, Florence, SISMEL Edizioni del Galluzzo.
+* Hermand-Schebat, L., 2015, “John of Salisbury and Classical Antiquity”, in Grellard and Lachaud 2015: 180–214.
+* Hosler, J.D., 2013, *John of Salisbury: Military Authority of the Twelfth-Century Renaissance*, Leiden: Brill.
+* Liebeschütz, H., 1950, *Mediaeval Humanism in the Life and Writings of John of Salisbury*, London: The Warburg Institute.
+* Martin, J., 1977, “John of Salisbury’s Manuscripts of Frontinus and of Gellius”, *Journal of the Warburg and Courtauld Institutes*, 40: 1–26.
+* –––, 1979, “Uses of Tradition: Gellius, Petronius, and John of Salisbury”, *Viator*, 10: 57–76.
+* –––, 1984, “John of Salisbury as Classical Scholar”, in Wilks 1984b: 179–201.
+* Nederman, C.J., 1988, “A Duty to Kill: John of Salisbury’s Theory of Tyrannicide”, *Review of Politics*, 50: 365–389.
+* –––, 1997, *Medieval Aristotelianism and its Limits*, Aldershot, Hampshire, UK: Variorum/Ashgate.
+* –––, 2005, *John of Salisbury*, Tempe, AZ: Arizona Center for Medieval and Renaissance Studies.
+* –––, 2013, “Civil Religion—Metaphysical, Not Political: Nature, Faith, and Communal Order in European Thought, c.1150–c.1550”, *Journal of the History of Ideas*, 74: 1–22.
+* Nederman, C.J. and K. Bollermann, 2011, “‘The Extravagance of the Senses’: Epicureanism, Priestly Tyranny, and the Becket Problem in John of Salisbury’s *Policraticus*,” *Studies in Medieval and Renaissance History*, 3rd series, 8: 1–25.
+* –––, 2020, *Thomas Becket: An Intimate Portrait*, Maweh, NJ: Paulist Press.
+* Nederman, C.J. and J. Brückmann, 1983, “Aristotelianism in John of Salisbury’s *Policraticus*”, *Journal of the History of Philosophy*, 21: 203–29.
+* Nederman, C.J. and C. Campbell, 1991, “Priests, Kings, and Tyrants: Spiritual and Temporal Power in John of Salisbury’s *Policraticus*”, *Speculum*, 66: 572–90.
+* O’Daly, I., 2018, *John of Salisbury and the Medieval Roman Renaissance*, Manchester: Manchester University Press.
+* Olsen, G.W., 1998, “John of Salisbury’s Humanism”, in *Gli Umansimi Medievali*, C. Leonardi (ed.), Florence: SISMEL, pp. 447–468.
+* Pinzano, Roberto, 2018, “John Salisbury on Universals” in *The Problem of Universals from Boethius to John of Salisbury*, Studies in Intellectual History 282, Leiden: Brill, pp. 271–298.
+* Poole, R.L., 1932, *Illustrations in the History of Medieval Thought and Learning*, New York: Mcmillan.
+* Ray, R., 1985, “Rhetorical Skepticism and Verisimilar Narrative in John of Salisbury’s *Historia Pontificalis*”, in *Classical Rhetoric and Medieval Historiograhy*, Ernst Breisach (ed.), Kalamazoo: Medieval Institute Publications, pp. 61–102.
+* Schmitt, C.B., 1972, *Cicero Skepticus: A Study of the Influence of the Academica in the Renaissance*, The Hague: Martinus Nijhoff.
+* Shogimen, T. and C.J. Nederman, 2011, “The Best Medicine? Medical Education, Practice and Metaphor in John of Salisbury’s *Policraticus* and *Metalogicon*”, *Viator*, 42: 55–74.
+* Struve, T., 1984, “The Importance of the Organism in the Political Theory of John of Salisbury”, in Wilks 1984b: 303–317.
+* Tobin, R.B., 1989, “The Cornifician Motif in John of Salisbury’s *Metalogicon*”, *History of Education*, 13: 1–6.
+* Van Laarhoven, J., 1984, “Thou Shalt *Not* Slay a Tyrant! The So-called Theory of John of Salisbury”, in Wilks 1984b: 319–341.
+* von Moos, P., 1984, *Geschichte als Topik*, Darmstadt: Olms Verlag.
+* Webb, C.C.J., 1932, *John of Salisbury*, London: Methuen.
+* Wilks, M., 1984a, “John of Salisbury and the Tyranny of Nonsense”, in Wilks 1984b: 263–286.
+* Wilks, M. (ed.), 1984b, *The World of John of Salisbury*, Oxford: Blackwell for the Ecclesiastical History Society.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=john-salisbury). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/john-salisbury/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=john-salisbury&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/john-salisbury/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Entry on John in the Catholic Encyclopedia (1910)](http://www.newadvent.org/cathen/08478b.htm)
+* [Medieval Sourcebook’s selections from *Policraticus*, Book 4](http://legacy.fordham.edu/halsall/source/salisbury-poli4.html)
+
+## Related Entries
+
+[Abelard [Abailard], Peter](https://plato.stanford.edu/entries/abelard/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [Cicero](https://plato.stanford.edu/entries/cicero/) | [Epicurus](https://plato.stanford.edu/entries/epicurus/) | [Plato](https://plato.stanford.edu/entries/plato/) | [political philosophy: medieval](https://plato.stanford.edu/entries/medieval-political/) | [skepticism: ancient](https://plato.stanford.edu/entries/skepticism-ancient/) | [skepticism: medieval](https://plato.stanford.edu/entries/skepticism-medieval/) | [universals: the medieval problem of](https://plato.stanford.edu/entries/universals-medieval/)
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+Karen Bollermann <[*kbollermann@icloud.com*](mailto:kbollermann%40icloud%2ecom)>  
+[Cary Nederman](http://pols.tamu.edu/about-us/faculty-directory/cary-j-nederman-professor/) <[*cary-j-nederman@tamu.edu*](mailto:cary-j-nederman%40tamu%2eedu)>
