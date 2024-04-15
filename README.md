@@ -8,6 +8,9 @@
 
 [开源地址](https://github.com/taophilosophy/SEP-CN)
 
+
+J-Z 部分：<https://tphil.gitbook.io/sep2>
+
 ## 词条说明
 
 * 凡是以 `*` 开头的且词条名中**包含** `— see` 的词条都是指向其他词条的“别名词条”，例如 `*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire`，伏尔泰（Voltaire）是其笔名，“弗朗索瓦-马里‧阿鲁埃（François-Marie Arouet）”才是原名，但是实际上两个代表的是一个人。`*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire` 实际指向条目——`伏尔泰——Voltaire (J.B. Shank)`
@@ -29,8 +32,8 @@
 |  G  |  58  |  50  |   ✓  |    
 |  H  |  61  |  60  | ✓    |     
 |  I  |  83  | 75   |   ✓  |     
-|  J  |  35  |      |      |     
-|  K  |  33  |      |      |     
+|  J  |  35  |   32   |  ✓   |     
+|  K  |  33  |   32   |  ✓   |     
 |  L  |  146 |      |      |    
 |  M  |  163 |      |      |     
 |  N  |  54  |      |      |    
