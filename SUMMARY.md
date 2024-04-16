@@ -136,6 +136,7 @@
   * [法律实证主义 legal positivism (Leslie Green and Thomas Adams)](l/fa-lv-shi-zheng-zhu-yi-jian-fa-lv-de-ben-zhi-lv-shi-zheng-zhu-yi-legal-positivism-see-nature-of-law/fa-lv-shi-zheng-zhu-yi-legal-positivism-leslie-green-and-thomas-adams.md)
   * [自然法理论 natural law theories (John Finnis)](l/fa-lv-shi-zheng-zhu-yi-jian-fa-lv-de-ben-zhi-lv-shi-zheng-zhu-yi-legal-positivism-see-nature-of-law/zi-ran-fa-li-lun-natural-law-theories-john-finnis.md)
   * [纯粹法学 pure theory of law (Andrei Marmor)](l/fa-lv-shi-zheng-zhu-yi-jian-fa-lv-de-ben-zhi-lv-shi-zheng-zhu-yi-legal-positivism-see-nature-of-law/chun-cui-fa-xue-pure-theory-of-law-andrei-marmor.md)
+* [法律概然性 legal probabilism (Rafal Urbaniak and Marcello Di Bello)](l/fa-lv-gai-ran-xing-legal-probabilism-rafal-urbaniak-and-marcello-di-bello.md)
 
 ## N
 
