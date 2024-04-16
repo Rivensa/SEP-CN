@@ -799,7 +799,7 @@
   * [\*社会女性主义——见女性主义哲学介入：女性主义社会认识论 social feminist — see feminist philosophy, interventions: social epistemology](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/she-hui-nv-xing-zhu-yi-jian-nv-xing-zhu-yi-zhe-xue-jie-ru-nv-xing-zhu-yi-she-hui-ren-shi-lun-social.md)
   * [美德认识论 virtue (John Turri, Mark Alfano, and John Greco)](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/mei-de-ren-shi-lun-virtue-john-turri-mark-alfano-and-john-greco.md)
 * [形式认识论 epistemology, formal (Jonathan Weisberg)](e/xing-shi-ren-shi-lun-epistemology-formal-jonathan-weisberg.md)
-* [Epsilon 演算 epsilon calculus (Jeremy Avigad and Richard Zach)](e/epsilon-yan-suan-epsilon-calculus-jeremy-avigad-and-richard-zach.md)
+* [Epsilon 演算 epsilon calculus (Jeremy Avigad and Richard Zach)](e/yan-suan-epsilon-calculus-jeremy-avigad-and-richard-zach.md)
 * [平等 equality (Stefan Gosepath)](e/ping-deng-equality-stefan-gosepath/)
   * [教育机会均等 of educational opportunity (Liam Shields, Anne Newman, and Debra Satz)](e/ping-deng-equality-stefan-gosepath/jiao-yu-ji-hui-jun-deng-of-educational-opportunity-liam-shields-anne-newman-and-debra-satz.md)
   * [机会平等 of opportunity (Gideon Elford)](e/ping-deng-equality-stefan-gosepath/ji-hui-ping-deng-of-opportunity-gideon-elford.md)
