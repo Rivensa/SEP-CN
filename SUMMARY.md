@@ -137,6 +137,10 @@
   * [自然法理论 natural law theories (John Finnis)](l/fa-lv-shi-zheng-zhu-yi-jian-fa-lv-de-ben-zhi-lv-shi-zheng-zhu-yi-legal-positivism-see-nature-of-law/zi-ran-fa-li-lun-natural-law-theories-john-finnis.md)
   * [纯粹法学 pure theory of law (Andrei Marmor)](l/fa-lv-shi-zheng-zhu-yi-jian-fa-lv-de-ben-zhi-lv-shi-zheng-zhu-yi-legal-positivism-see-nature-of-law/chun-cui-fa-xue-pure-theory-of-law-andrei-marmor.md)
 * [法律概然性 legal probabilism (Rafal Urbaniak and Marcello Di Bello)](l/fa-lv-gai-ran-xing-legal-probabilism-rafal-urbaniak-and-marcello-di-bello.md)
+* [\*法律惩罚——见法律惩罚 legal punishment — see punishment, legal](l/fa-lv-cheng-fa-jian-fa-lv-cheng-fa-legal-punishment-see-punishment-legal.md)
+* [\*法律推理 legal reasoning](l/fa-lv-tui-li-legal-reasoning/README.md)
+  * [法律推理的解释与连贯 interpretation and coherence in (Julie Dickson)](l/fa-lv-tui-li-legal-reasoning/fa-lv-tui-li-de-jie-shi-yu-lian-guan-interpretation-and-coherence-in-julie-dickson.md)
+  * [法律推理中的先例与类推 precedent and analogy in (Grant Lamond)](l/fa-lv-tui-li-legal-reasoning/fa-lv-tui-li-zhong-de-xian-li-yu-lei-tui-precedent-and-analogy-in-grant-lamond.md)
 
 ## N
 
