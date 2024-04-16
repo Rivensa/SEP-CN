@@ -94,3 +94,10 @@
 * [托马斯·库恩 Kuhn, Thomas (Alexander Bird)](k/tuo-ma-si-ku-en-kuhn-thomas-alexander-bird.md)
 * [鸠摩利罗·跋陀 Kumārila (Daniel Arnold)](k/jiu-mo-li-luo-ba-tuo-kumrila-daniel-arnold.md)
 * [\*空海——见日本哲学：空海 Kūkai — see Japanese Philosophy: Kūkai](k/kong-hai-jian-ri-ben-zhe-xue-kong-hai-kkai-see-japanese-philosophy-kkai.md)
+
+## L
+
+* [雅克·拉康 Lacan, Jacques (Adrian Johnston)](l/ya-ke-la-kang-lacan-jacques-adrian-johnston.md)
+* [路易·德·拉弗尔热 La Forge, Louis de (Andrea Sangiacomo and Desmond Clarke)](l/lu-yi-de-la-fu-er-re-la-forge-louis-de-andrea-sangiacomo-and-desmond-clarke.md)
+* [伊姆雷·拉卡托斯 Lakatos, Imre (Alan Musgrave and Charles Pigden)](l/yi-mu-lei-la-ka-tuo-si-lakatos-imre-alan-musgrave-and-charles-pigden.md)
+* [λ 演算 lambda calculus, the (Jesse Alama and Johannes Korbmacher)](l/yan-suan-lambda-calculus-the-jesse-alama-and-johannes-korbmacher.md)
