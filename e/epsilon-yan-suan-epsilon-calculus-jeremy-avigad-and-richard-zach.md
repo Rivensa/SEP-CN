@@ -1,4 +1,4 @@
-# Epsilon 演算 epsilon calculus (Jeremy Avigad and Richard Zach)
+# ε 演算 epsilon calculus (Jeremy Avigad and Richard Zach)
 
 _首次发表于 2002 年 5 月 3 日星期五；实质性修订于 2019 年 5 月 6 日星期一_
 
