@@ -1,2 +1,2 @@
-# \*印度哲学 Indian Philosophy (Classical)
+# \*古典印度哲学 Indian Philosophy (Classical)
 
