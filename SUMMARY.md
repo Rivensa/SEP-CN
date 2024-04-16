@@ -1281,7 +1281,7 @@
   * [\*伦理学——见直觉主义伦理学 ethics — see moral intuitionism](i/zhi-jue-zhu-yi-intuitionism/lun-li-xue-jian-zhi-jue-zhu-yi-lun-li-xue-ethics-see-moral-intuitionism.md)
   * [\*数学哲学——见数学哲学：数学哲学中的直觉主义 in the philosophy of mathematics — see mathematics, philosophy of: intuitionism](i/zhi-jue-zhu-yi-intuitionism/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-zhi-jue-zhu-yi-in-the-philosophy-of-ma.md)
 * [\*直觉主义逻辑——见逻辑学：直觉主义逻辑 intuitionistic logic — see logic: intuitionistic](i/zhi-jue-zhu-yi-luo-ji-jian-luo-ji-xue-zhi-jue-zhu-yi-luo-ji-intuitionistic-logic-see-logic-intuition/README.md)
-  * [\*发展——见逻辑史：直觉主义逻辑的发展development of — see logic, history of: intuitionistic logic](i/zhi-jue-zhu-yi-luo-ji-jian-luo-ji-xue-zhi-jue-zhu-yi-luo-ji-intuitionistic-logic-see-logic-intuition/fa-zhan-jian-luo-ji-shi-zhi-jue-zhu-yi-luo-ji-de-fa-zhan-development-of-see-logic-history-of-intuiti.md)
+  * [\*发展——见逻辑史：直觉主义逻辑的发展 development of — see logic, history of: intuitionistic logic](i/zhi-jue-zhu-yi-luo-ji-jian-luo-ji-xue-zhi-jue-zhu-yi-luo-ji-intuitionistic-logic-see-logic-intuition/fa-zhan-jian-luo-ji-shi-zhi-jue-zhu-yi-luo-ji-de-fa-zhan-development-of-see-logic-history-of-intuiti.md)
 * [\*直觉类型论——见类型论：直觉类型论 intuitionistic type theory — see type theory: intuitionistic](i/zhi-jue-lei-xing-lun-jian-lei-xing-lun-zhi-jue-lei-xing-lun-intuitionistic-type-theory-see-type-theo.md)
 * [\*质感倒转——见质感：质感倒转 inverted qualia — see qualia: inverted](i/zhi-gan-dao-zhuan-jian-zhi-gan-zhi-gan-dao-zhuan-inverted-qualia-see-qualia-inverted.md)
 * [艾萨克·本·所罗门·以色列 Israeli, Isaac (Leonard Levin, R. David Walker, and Shalom Sadik)](i/ai-sa-ke-ben-suo-luo-men-yi-se-lie-israeli-isaac-leonard-levin-r.-david-walker-and-shalom-sadik.md)
