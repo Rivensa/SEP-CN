@@ -1,4 +1,4 @@
-# 女性主义生物哲学 philosophy of biology (Carla Fehr and Letitia Meynell)
+# 女性主义生物学哲学 philosophy of biology (Carla Fehr and Letitia Meynell)
 
 *首次发表于 2011 年 6 月 22 日星期三；实质性修订于 2024 年 4 月 6 日星期六*
 
