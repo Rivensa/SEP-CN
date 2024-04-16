@@ -923,7 +923,7 @@
   * [自由主义女性主义 liberal feminism (Amy R. Baehr)](f/nv-xing-zhu-yi-zhe-xue-jie-ru-feminist-philosophy-interventions/zi-you-zhu-yi-nv-xing-zhu-yi-liberal-feminism-amy-r.-baehr.md)
   * [女性主义形而上学 metaphysics (Sally Haslanger and Ásta)](f/nv-xing-zhu-yi-zhe-xue-jie-ru-feminist-philosophy-interventions/nv-xing-zhu-yi-xing-er-shang-xue-metaphysics-sally-haslanger-and-sta.md)
   * [女性主义道德心理学 moral psychology (Anita Superson)](f/nv-xing-zhu-yi-zhe-xue-jie-ru-feminist-philosophy-interventions/nv-xing-zhu-yi-dao-de-xin-li-xue-moral-psychology-anita-superson.md)
-  * [女性主义生物哲学 philosophy of biology (Carla Fehr and Letitia Meynell)](f/nv-xing-zhu-yi-zhe-xue-jie-ru-feminist-philosophy-interventions/nv-xing-zhu-yi-sheng-wu-zhe-xue-philosophy-of-biology-carla-fehr-and-letitia-meynell.md)
+  * [女性主义生物哲学 philosophy of biology (Carla Fehr and Letitia Meynell)](f/nv-xing-zhu-yi-zhe-xue-jie-ru-feminist-philosophy-interventions/nv-xing-zhu-yi-sheng-wu-xue-zhe-xue-philosophy-of-biology-carla-fehr-and-letitia-meynell.md)
   * [女性主义语言哲学 philosophy of language (Jennifer Saul, Esa Diaz-Leon, and Samia Hesni)](f/nv-xing-zhu-yi-zhe-xue-jie-ru-feminist-philosophy-interventions/nv-xing-zhu-yi-yu-yan-zhe-xue-philosophy-of-language-jennifer-saul-esa-diazleon-and-samia-hesni.md)
   * [女性主义法哲学 philosophy of law (Leslie Francis and Patricia Smith)](f/nv-xing-zhu-yi-zhe-xue-jie-ru-feminist-philosophy-interventions/nv-xing-zhu-yi-fa-zhe-xue-philosophy-of-law-leslie-francis-and-patricia-smith.md)
   * [女性主义宗教哲学 philosophy of religion (Nancy Frankenberry)](f/nv-xing-zhu-yi-zhe-xue-jie-ru-feminist-philosophy-interventions/nv-xing-zhu-yi-zong-jiao-zhe-xue-philosophy-of-religion-nancy-frankenberry.md)
