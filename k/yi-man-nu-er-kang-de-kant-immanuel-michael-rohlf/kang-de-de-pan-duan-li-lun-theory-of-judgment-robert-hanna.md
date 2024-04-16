@@ -1,39 +1,35 @@
 # 康德的判断理论 theory of judgment (Robert Hanna)
 
-*首次发表于2004年7月28日，实质性修订于2017年10月23日。*
+_首次发表于2004年7月28日，实质性修订于2017年10月23日。_
 
-论述理论，无论是认知（即客体表现、思维表达、真实适应）判断还是实践（即行为表现、选择表达、评估适应）判断，将语义学、逻辑学、认知心理学和认识论（共同构成认知判断的四个“面孔”[另见 Martin 2006]）以及行动理论、道德心理学和伦理学（共同构成实践判断的三个“面孔”）中的基本问题汇集在一起：事实上，判断的概念对于任何关于人类理性的一般理论都是核心的。但是康德的判断理论在三个方面与许多其他传统和现代的判断理论有着明显的不同：（1）将判断的先天能力视为理性人类思维的核心认知能力，（2）坚持判断的命题内容在语义、逻辑、心理、认识和实践上的优先性，以及（3）将判断系统地嵌入先验唯象论的形而上学中。第一和第二因素与第三因素的相互作用产生了几个严重的问题。这反过来又表明康德的判断理论的另外两个部分可以从他的先验唯象论的最强版本中逻辑上分离出来，并且可以独立地进行辩护。本条目还包括五个补充文件，涵盖了（i）关于康德的概念主义与非概念主义的辩论，（ii）康德判断的认识论和康德信念的伦理学，（iii）康德逻辑与他的判断理论的关系，（iv）判断的使用方式，以及（v）完善康德判断的形而上学图景。
+论述理论，无论是认知（即客体表现、思维表达、真实适应）判断还是实践（即行为表现、选择表达、评估适应）判断，将语义学、逻辑学、认知心理学和认识论（共同构成认知判断的四个“面孔”\[另见 Martin 2006]）以及行动理论、道德心理学和伦理学（共同构成实践判断的三个“面孔”）中的基本问题汇集在一起：事实上，判断的概念对于任何关于人类理性的一般理论都是核心的。但是康德的判断理论在三个方面与许多其他传统和现代的判断理论有着明显的不同：（1）将判断的先天能力视为理性人类思维的核心认知能力，（2）坚持判断的命题内容在语义、逻辑、心理、认识和实践上的优先性，以及（3）将判断系统地嵌入先验唯象论的形而上学中。第一和第二因素与第三因素的相互作用产生了几个严重的问题。这反过来又表明康德的判断理论的另外两个部分可以从他的先验唯象论的最强版本中逻辑上分离出来，并且可以独立地进行辩护。本条目还包括五个补充文件，涵盖了（i）关于康德的概念主义与非概念主义的辩论，（ii）康德判断的认识论和康德信念的伦理学，（iii）康德逻辑与他的判断理论的关系，（iv）判断的使用方式，以及（v）完善康德判断的形而上学图景。
 
 * [1. 判断的本质](https://plato.stanford.edu/entries/kant-judgment/#NatJud)
-
   * [1.1 判断的能力与其他认知能力](https://plato.stanford.edu/entries/kant-judgment/#PowJudOthFacCog)
   * [1.2 判断本质上是命题性认知](https://plato.stanford.edu/entries/kant-judgment/#JudEssProCog)
   * [1.3 判断、客观有效性、客观现实和真理](https://plato.stanford.edu/entries/kant-judgment/#JudObjValObjReaTru)
   * [补充：共同性原则、康德的概念主义和康德的非概念主义](https://plato.stanford.edu/entries/kant-judgment/supplement1.html)
   * [补充：判断、信仰和科学知识](https://plato.stanford.edu/entries/kant-judgment/supplement2.html)
 * [2. 判断的种类](https://plato.stanford.edu/entries/kant-judgment/#KinJud)
-
   * [2.1 逻辑形式的种类](https://plato.stanford.edu/entries/kant-judgment/#KinLogFor)
   * [补充：康德的逻辑的表面限制和困惑是否削弱了他的判断理论？](https://plato.stanford.edu/entries/kant-judgment/supplement3.html)
   * [2.2 命题内容的种类](https://plato.stanford.edu/entries/kant-judgment/#KinProCon)
   * [补充：使用的种类](https://plato.stanford.edu/entries/kant-judgment/supplement4.html)
 * [3. 论述判断的先验理想主义](https://plato.stanford.edu/entries/kant-judgment/#MetJudTraIde)
-
   * [3.1 判断、先验理想主义和真理](https://plato.stanford.edu/entries/kant-judgment/#JudTraIdeTru)
   * [3.2 康德是验证主义者吗？](https://plato.stanford.edu/entries/kant-judgment/#KanVer)
   * [补充：完善康德先验判断形上学的全貌](https://plato.stanford.edu/entries/kant-judgment/supplement5.html)
 * [4. 问题与前景](https://plato.stanford.edu/entries/kant-judgment/#ProPro)
-
   * [4.1 自下而上的问题：本质上非概念主义的直观，流氓对象和 B 推论中的差距](https://plato.stanford.edu/entries/kant-judgment/#BotUpProEssNonConIntRogObjGapBDed)
   * [4.2 顶层问题：判断、先验亲和性和自然的系统统一性](https://plato.stanford.edu/entries/kant-judgment/#TopDowProJudTraAffSysUniNat)
   * [4.3 梦境怀疑问题：判断、问题性唯心主义和第二类比中的差距](https://plato.stanford.edu/entries/kant-judgment/#DreSkeProJudProIdeGapSecAna)
   * [4.4 结论：没有强烈的先验唯心主义的判断？](https://plato.stanford.edu/entries/kant-judgment/#ConJudWitStrTraIde)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-judgment/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-judgment/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/kant-judgment/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/kant-judgment/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/kant-judgment/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-judgment/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/kant-judgment/#Rel)
 
----
+***
 
 ## 1. 判断的本质
 
@@ -65,13 +61,13 @@
 
 康德之前的逻辑学家，例如波尔图皇家学派，倾向于将判断定义为“两个概念之间的关系的表达”（B140）。这个康德之前的定义暗示了所有判断都是主谓形式的；但实际上，正如康德指出的（在这里追随斯多亚派逻辑学家），一些判断——例如，分离判断和假设条件判断——是具有真值的主谓判断的关系复合体，因此，表面上具有本质上的真值功能形式，而不是主谓形式。这个想法后来对乔治·布尔的逻辑观念产生了重大影响，他将逻辑视为一套先验的“思维定律”，统治着模拟命题的经典真假的二元函数的形式演算（布尔1854）。然而，更重要的是，康德之前的定义也未能解释判断的统一性以及判断与仅仅是概念列表之间的区别。因此，为了解决这个“判断的统一性”问题——后来在早期分析哲学中重新出现为“命题的统一性问题”（Hylton 1984，Linsky 1992）——康德提出了一个根本新的判断概念，即作为不同类型的低阶客观表象内容的高阶认知绑定功能。在一篇康德的前批判性论文《四种三段论的虚妄微妙》中，他说判断是一种逻辑断言的行为，通过“是”或“是...的”连词来表达一个概念被应用于一个事物（2: 47）。在他的逻辑教科书《耶斯切逻辑》中，他说判断是意识的统一的表达，将几个其他表达连接在一起，或者是它们在一个单一概念中的关系的表达（9: 101）。在《纯粹理性批判》中，他至少四次描述了判断：
 
-> 判断是……对一个对象的中介认识，因此是对其再现的再现的表达。在每个判断中，都有一个概念适用于许多[再现]，并且在这许多中也包括一个给定的再现，然后立即将其指向对象。(A68/B93)
+> 判断是……对一个对象的中介认识，因此是对其再现的再现的表达。在每个判断中，都有一个概念适用于许多\[再现]，并且在这许多中也包括一个给定的再现，然后立即将其指向对象。(A68/B93)
 
 > 所有的判断都是……我们认识中的统一功能，因为在认识对象时，不是使用直接的再现，而是使用一个更高的再现，它将这个再现和其他再现都包含在自己之下，并将许多可能的认识汇集成一个。(A69/B94)
 
 > 判断无非是将给定的认识带到知觉的客观统一的方式。这就是它们中的谓词的目的：将给定再现的客观统一与主观统一区分开来。(B141)
 
-> [纯粹的普遍逻辑]处理概念、判断和推理，与心智的那些能力的功能和顺序完全对应，这些能力被统称为普遍理解力...如果普遍理解力被解释为规则的能力，那么判断力就是将事物归入规则的能力，即确定某事物是否符合给定规则（casus datae legis）。（A130–132/B170–172）
+> \[纯粹的普遍逻辑]处理概念、判断和推理，与心智的那些能力的功能和顺序完全对应，这些能力被统称为普遍理解力...如果普遍理解力被解释为规则的能力，那么判断力就是将事物归入规则的能力，即确定某事物是否符合给定规则（casus datae legis）。（A130–132/B170–172）
 
 尽管在强调和表述上存在表面上的差异，这六个描述都聚焦于同一个基本的论述：判断是一种高阶复杂的意识认知，直接（通过直观/非概念认知的本质指示内容）或间接（通过概念的本质属性或描述内容）指向对象；其中概念要么被陈述为这些对象，要么被陈述为其他组成概念；概念之间以及与直观/非概念认知之间通过纯粹的一般逻辑形式/纯概念相互关联，表达各种修饰和显然具有真值功能的陈述谓词；根据纯粹一般逻辑的先验法则进行推理；本质上涉及遵循规则和将规则应用于直观认知所选择的感知对象；并且通过单一自我意识理性主体的高阶执行心理过程生成和统一了一个复合客观表征。这里的关键要点是：（a）判断在直观/非概念认知中的指称基础，因此在单一范畴判断中构成直接指称的特定术语，不能在不改变或丧失意义的情况下被个体概念或明确描述语义替代（与Thompson 1972和Hanna 2001第4章进行对比），（b）“陈述特权”（Longuenesse 1998, 104）优于其他逻辑操作，（c）判断的内在逻辑-句法和逻辑-语义形式，基于陈述谓词的修饰或复合真值关系，（d）判断的规则性特征，（e）判断的统一意识客观表征（即, 语义)内容，尤其是(f)其高阶理性自我意识的客观统一基础。因此，康德式的判断既不仅仅是心理对象或过程（如心理学理论中的心理主义判断），也不是本质上与心灵无关的抽象对象（如柏拉图主义判断理论），也不是本质上断言性地认为命题为真（如弗雷格的判断理论）。相反，康德式的判断是可以相互主观分享、理性传达、认知生成的心理行为结构或类型，其逻辑结构化的真实性语义内容可以成为许多不同类型的认知或非认知命题态度的目标。
 
@@ -121,12 +117,11 @@
 
 康德的判断表列出了四个主要标题下的（据称）详尽的命题不同可能的逻辑形式，每个主要标题下包含三个子类，如下所示。
 
-> * 判断表*
->
-> 1. 判断的数量：普遍的、特殊的、个别的。
-> 2. 质量：肯定的、否定的、无限的。
-> 3. 关系：范畴的、假设的、分离的。
-> 4. 模态性：有问题的，断言的，必然的（A70/B95）
+> * 判断表\*
+> * 判断的数量：普遍的、特殊的、个别的。
+> * 质量：肯定的、否定的、无限的。
+> * 关系：范畴的、假设的、分离的。
+> * 模态性：有问题的，断言的，必然的（A70/B95）
 
 符合康德“赋予谓词特权”的观点，可以认为他的逻辑形式要么是简单的一元（即一位）范畴（即主谓）命题的修改，要么是真值功能化的复合命题，其一般形式为“Fs 是 Gs”。
 
@@ -156,9 +151,9 @@
 
 #### 2.2.2 分析判断和综合判断
 
-康德对分析判断和综合判断的区分是历史起源，并且与现今更为熟悉的分析-综合区分有重要关联，但关联并非完全等同，无论是在内涵还是外延上。根据现今更为熟悉的分析-综合区分，（1）分析性是仅凭语言意义而非经验事实而言真实的，（2）综合性是凭借经验事实而言真实的，（3）必然陈述与偶然陈述的区别在形式上和实质上等同于分析-综合区分。到1950年，几乎所有分析哲学家都将这种更为熟悉的区分视为不折不扣的真理。然而，在1951年W.V.O.奎因发表了颠覆性的《经验主义的两个谬误》之后的二十年里，这种更为熟悉的区分逐渐被新的、改进后的奎因后真理所取代，即不存在可接受的分析-综合区分。这个明显的历史事实与康德的分析-综合区分现今常常被错误地解释有密切关系，即（i）以更为熟悉且现已被广泛否定的分析-综合区分为基础解释，以及（ii）将其归结为一种认识论区分，即无信息或平凡真实的先验判断与有信息的判断。讽刺的是，作为分析哲学之父或祖父的弗雷格在《算术基础》中更接近于康德的分析性理论，他正确地将其语义地解释为概念之间的必然内在关系的理论；尽管同时他并没有完全准确地说康德的分析性归结为“简单地将我们刚刚放入盒子中的东西再拿出来”（弗雷格1953，101）。 弗雷格对康德分析性的19世纪描述，事实证明与18世纪莱布尼兹和沃尔夫的概念和/或逻辑真理理论有显著的相似之处，这些理论对康德关于分析性的工作产生了重大影响（安德森2015年）。然而，现在远离弗雷格和莱布尼兹-沃尔夫传统，关键事实是康德的分析-综合区分涉及客观有效命题中两种不可约简的语义内容（汉纳2001年，第3-4章），这种区分既不是主要的认识论性质（尽管它确实有一些重要的认识论含义[汉纳2006b，362-379]），也不特别涉及判断的逻辑形式（4：266）。
+康德对分析判断和综合判断的区分是历史起源，并且与现今更为熟悉的分析-综合区分有重要关联，但关联并非完全等同，无论是在内涵还是外延上。根据现今更为熟悉的分析-综合区分，（1）分析性是仅凭语言意义而非经验事实而言真实的，（2）综合性是凭借经验事实而言真实的，（3）必然陈述与偶然陈述的区别在形式上和实质上等同于分析-综合区分。到1950年，几乎所有分析哲学家都将这种更为熟悉的区分视为不折不扣的真理。然而，在1951年W.V.O.奎因发表了颠覆性的《经验主义的两个谬误》之后的二十年里，这种更为熟悉的区分逐渐被新的、改进后的奎因后真理所取代，即不存在可接受的分析-综合区分。这个明显的历史事实与康德的分析-综合区分现今常常被错误地解释有密切关系，即（i）以更为熟悉且现已被广泛否定的分析-综合区分为基础解释，以及（ii）将其归结为一种认识论区分，即无信息或平凡真实的先验判断与有信息的判断。讽刺的是，作为分析哲学之父或祖父的弗雷格在《算术基础》中更接近于康德的分析性理论，他正确地将其语义地解释为概念之间的必然内在关系的理论；尽管同时他并没有完全准确地说康德的分析性归结为“简单地将我们刚刚放入盒子中的东西再拿出来”（弗雷格1953，101）。 弗雷格对康德分析性的19世纪描述，事实证明与18世纪莱布尼兹和沃尔夫的概念和/或逻辑真理理论有显著的相似之处，这些理论对康德关于分析性的工作产生了重大影响（安德森2015年）。然而，现在远离弗雷格和莱布尼兹-沃尔夫传统，关键事实是康德的分析-综合区分涉及客观有效命题中两种不可约简的语义内容（汉纳2001年，第3-4章），这种区分既不是主要的认识论性质（尽管它确实有一些重要的认识论含义\[汉纳2006b，362-379]），也不特别涉及判断的逻辑形式（4：266）。
 
-弗雷格认为康德关于分析性的概念是琐碎的；相应地，如果莱布尼兹-沃尔夫（Leibniz-Wolff）对概念和/或逻辑真理的处理在很大程度上决定了康德的分析性理论，那么康德的分析性概念就是贫乏的（安德森，2015年）。但相反，康德的分析性概念是实质性的，因为有五个重要观点：首先，康德支持莱布尼兹的观点，即所有概念都具有内涵微结构，或者他所称的“逻辑本质”或“概念本质”（9：61）；其次，他反对莱布尼兹的观点，即逻辑可能世界仅仅是概念的最大逻辑一致集，而不是物自身（A571–573/B599–601）；第三，他的指称主义观点认为，所有语法上良好形成、分类正确且逻辑一致的概念都具有非空的跨可能世界扩展（也称为“包容”）（A239/B298–299）（9：95–96）；第四，他的语义限制观点认为，只有客观有效的命题才具有真值；第五，最重要的是，他的逻辑分析性观点认为，分析性的概念不仅涵盖了所谓的谓词概念在主词概念中的“包含”，以及主词概念和谓词概念的内涵一致性，还涵盖了真值逻辑和一元谓词逻辑的所有逻辑真理。因此，对于康德来说，只有当判断的命题内容由于其客观有效的概念微结构和/或概念包容，或者由于其真值逻辑连接词，或者由于其一元谓词逻辑连接词之间的必要内在关系而必然成立时，该判断才是分析性的（汉纳，2001年，第3章），这也留下了一个问题，即对于康德来说，是否所有逻辑连接词都严格符合真值功能。 无论如何，让我们强调一下：康德并没有用概念的包含或一致性来定义分析性，这些最多只是分析性的充分条件，而不是必要条件。相反，康德明确提出了一个普遍、必要和充分的语义标准来判断分析判断的真实性，即一个判断只有在它的否定导致矛盾时才是分析性真实的，这里的“导致”是广义的，包括内涵导致而不仅仅是经典演绎导致（A151/B190–191）。这个标准还直接将分析真理的概念与逻辑真理的概念联系起来，这里的逻辑真理是广义的，完全包括真值逻辑和一元谓词逻辑的重言式和有效句，但不仅限于经典多元谓词逻辑的真值重言式和有效句（附加了“逻辑定义”[Frege 1953]，无论它们在弗雷格的观点上实际上是什么，这一点并不清楚[Benacerraf 1981]）。
+弗雷格认为康德关于分析性的概念是琐碎的；相应地，如果莱布尼兹-沃尔夫（Leibniz-Wolff）对概念和/或逻辑真理的处理在很大程度上决定了康德的分析性理论，那么康德的分析性概念就是贫乏的（安德森，2015年）。但相反，康德的分析性概念是实质性的，因为有五个重要观点：首先，康德支持莱布尼兹的观点，即所有概念都具有内涵微结构，或者他所称的“逻辑本质”或“概念本质”（9：61）；其次，他反对莱布尼兹的观点，即逻辑可能世界仅仅是概念的最大逻辑一致集，而不是物自身（A571–573/B599–601）；第三，他的指称主义观点认为，所有语法上良好形成、分类正确且逻辑一致的概念都具有非空的跨可能世界扩展（也称为“包容”）（A239/B298–299）（9：95–96）；第四，他的语义限制观点认为，只有客观有效的命题才具有真值；第五，最重要的是，他的逻辑分析性观点认为，分析性的概念不仅涵盖了所谓的谓词概念在主词概念中的“包含”，以及主词概念和谓词概念的内涵一致性，还涵盖了真值逻辑和一元谓词逻辑的所有逻辑真理。因此，对于康德来说，只有当判断的命题内容由于其客观有效的概念微结构和/或概念包容，或者由于其真值逻辑连接词，或者由于其一元谓词逻辑连接词之间的必要内在关系而必然成立时，该判断才是分析性的（汉纳，2001年，第3章），这也留下了一个问题，即对于康德来说，是否所有逻辑连接词都严格符合真值功能。 无论如何，让我们强调一下：康德并没有用概念的包含或一致性来定义分析性，这些最多只是分析性的充分条件，而不是必要条件。相反，康德明确提出了一个普遍、必要和充分的语义标准来判断分析判断的真实性，即一个判断只有在它的否定导致矛盾时才是分析性真实的，这里的“导致”是广义的，包括内涵导致而不仅仅是经典演绎导致（A151/B190–191）。这个标准还直接将分析真理的概念与逻辑真理的概念联系起来，这里的逻辑真理是广义的，完全包括真值逻辑和一元谓词逻辑的重言式和有效句，但不仅限于经典多元谓词逻辑的真值重言式和有效句（附加了“逻辑定义”\[Frege 1953]，无论它们在弗雷格的观点上实际上是什么，这一点并不清楚\[Benacerraf 1981]）。
 
 当然，如果一个人认为康德对分析性的定义是基于包含而真实性，同时康德对综合性的定义是基于非包含而真实性，并且持有康德的概念主义观点来看待判断的本质，那么他对康德的分析判断和综合判断的理解将会有相应的不同（Anderson 2004，Anderson 2005，Anderson 2009，Anderson 2015）。
 
@@ -176,11 +171,11 @@
 
 到目前为止的讨论中，判断基本上被认为与其命题内容相同。但根据康德的观点，理性认识者也可以以不同的方式使用完全相同的命题内容。判断使用的基本差异在于（a）理论判断和（b）非理论判断。但是，在理论使用判断方面也存在一些关键差异。有关这些使用方式的讨论，请参阅以下补充文件：
 
-> [ 使用方式的种类](https://plato.stanford.edu/entries/kant-judgment/supplement4.html)
+> [使用方式的种类](https://plato.stanford.edu/entries/kant-judgment/supplement4.html)
 
 ## 3. 论述的先验批判：先验唯心主义
 
-从某种实质意义上说，康德在《纯粹理性批判》中的积极形而上学实质上是他判断理论的阐述：“《批判》所做的不是[传统]形而上学，而是一门前所未有的全新科学，即对先验判断理性的批判”（10: 340）。这直接源于中心论和先验唯心主义论的结合：判断是人类心智的中心认知活动，只有当先验唯心主义的形而上学正确时，判断才具有客观有效性和真实性。在本节中，将更详细地阐述判断与先验唯心主义之间的关键联系。
+从某种实质意义上说，康德在《纯粹理性批判》中的积极形而上学实质上是他判断理论的阐述：“《批判》所做的不是\[传统]形而上学，而是一门前所未有的全新科学，即对先验判断理性的批判”（10: 340）。这直接源于中心论和先验唯心主义论的结合：判断是人类心智的中心认知活动，只有当先验唯心主义的形而上学正确时，判断才具有客观有效性和真实性。在本节中，将更详细地阐述判断与先验唯心主义之间的关键联系。
 
 ### 3.1 判断、先验唯心主义和真实性
 
@@ -218,7 +213,7 @@ Longuenesse恰当地将这个康德主题称为“对表象对象的内化表象
 
 在《先验辩证法》的附录中，康德在这一关键点上悄悄地但非常重要地退却了，并将自然系统统一原则仅视为判断的调整性使用而非构成性使用，尽管这一原则也被断言具有某种先验力量（见补充部分“使用的种类”）。然后在《判断力批判》的第一篇引言中，康德明确表示
 
-> [它]本身是完全可能的（至少就理性而言是如此），[即]这些[经验]法则的多样性以及与之相对应的自然形式是无限巨大的，[可能]……向我们展示一个原始的混沌集合，而不是任何系统的痕迹，尽管我们必须根据先验法则预设这样一个系统。（20：209）
+> \[它]本身是完全可能的（至少就理性而言是如此），\[即]这些\[经验]法则的多样性以及与之相对应的自然形式是无限巨大的，\[可能]……向我们展示一个原始的混沌集合，而不是任何系统的痕迹，尽管我们必须根据先验法则预设这样一个系统。（20：209）
 
 换句话说，康德现在说的是，先验的多样性亲和并不意味着经验的多样性亲和或自然的系统统一。当然，在第三批判中，他还明确将系统统一原则与审美反思判断的规范使用联系在一起，并说这是一种主观上必要的先验原则，是合法的审美判断的前提（见补充使用类型）。但是，如果系统统一原则只是主观上而不是实际上必要的，那么康德并没有向我们展示自然因果律系统必须完全适用于感性现象或对象。相反，他只是表明我们在认识上相信它完全适用于感性现象或对象。因此，仍然存在相对或绝对混乱的感性现象或对象的真实可能性，它们不能被归入先验的多样性亲和之下，即流氓对象的范畴无政府状态的真实可能性。换句话说，根据康德的论述，即使假设存在先验的亲和性，先验法则对自然的完全适用仍然可能不存在。因此，纯概念的先验图式论是不足以弥合范畴和感性现象之间的鸿沟的，先验判断的先验教义失败了。
 
@@ -238,122 +233,122 @@ Longuenesse恰当地将这个康德主题称为“对表象对象的内化表象
 
 ## Bibliography
 
-Internal references to Kant’s *Critique of Pure Reason* contain page numbers from both the A (1781) and B (1787) German editions. All other internal references to Kant’s writings are cited using the relevant volume and page number from the standard “Akademie” edition of Kant’s works: *Kants Gesammelte Schriften*, edited by the Königlich Preussischen (now Deutschen) Akademie der Wissenschaften (Berlin: G. Reimer [now de Gruyter], 1902–).
+Internal references to Kant’s _Critique of Pure Reason_ contain page numbers from both the A (1781) and B (1787) German editions. All other internal references to Kant’s writings are cited using the relevant volume and page number from the standard “Akademie” edition of Kant’s works: _Kants Gesammelte Schriften_, edited by the Königlich Preussischen (now Deutschen) Akademie der Wissenschaften (Berlin: G. Reimer \[now de Gruyter], 1902–).
 
-* Abela, P., 2002, *Kant’s Empirical Realism*, Oxford: Clarendon/Oxford University Press.
-* Allais, L., 2009, “Non-Conceptual Content and the Representation of Space,” *Journal of the History of Philosophy*, 47: 383–413.
-* –––, 2015, *Manifest Reality: Kant’s Idealism and His Realism*, Oxford: Oxford University Press.
-* –––, 2016, “ Conceptualism and Nonconceptualism in Kant: A Survey of the Recent Debate,” in D. Schulting (ed.), *Kantian Nonconceptualism*, London: Palgrave Macmillan, pp. 1–25.
-* Anderson, R.L., 2001, “Synthesis, Cognitive Normativity, and the Meaning of Kant’s Question ‘How are synthetic cognitions a priori possible’” *European Journal of Philosophy*, 9: 275–305.
-* –––, 2004, “It Adds Up After All: Kant’s Philosophy of Arithmetic in Light of the Traditional Logic,” *Philosophy and Phenomenological Research*, 69: 501–540.
-* –––, 2005, “The Wolffian Paradigm and its Discontents: Kant’s Containment Definition of Analyticity in Historical Context,” *Archiv für Geschichte der Philosophie*, 87: 22–74.
-* –––, 2015, *The Poverty of Conceptual Truth: Kant’s Analytic/Synthetic Distinction and the Limits of Metaphysics*, Oxford: Oxford University Press.
-* Arnaud, A. & Nicole, P. N., 1996, *Logic or the Art of Thinking*, Trans. J.V. Buroker, Cambridge: Cambridge University Press.
-* Bauer, N., 2012, “A Peculiar Intuition: Kant’s Conceptualist Account of Perception,” *Inquiry*, 55: 215–237.
-* Bell, D., 1979, *Frege’s Theory of Judgement*, Oxford: Oxford University Press.
-* –––, D., 1987, “The Art of Judgement,” *Mind*, 96: 221–244.
-* Benacerraf, P., 1965, “What Numbers Could Not Be,”*Philosophical Review*, 74: 47–73.
-* –––, 1981, “Frege: the Last Logicist,” in P. French, et al (eds.), *The Foundations of Analytic Philosophy*, *Midwest Studies in Philosophy* 6, Minneapolis, MN: University of Minnesota Press, pp. 17–35.
-* Bermúdez, J., 2003, *Thinking without Words*, New York: Oxford University Press.
-* Bermúdez, J. & Cahen, A., 2015, “Nonconceptual Mental Content,” *The Stanford Encyclopedia of Philosophy* (Fall 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2015/entries/content-nonconceptual/>.
-* Bolzano, B., 1972, *Theory of Science*, trans. R. George, Berkeley, CA: University of California Press.
-* BonJour, L., 1998, *In Defense of Pure Reason*, Cambridge: Cambridge University Press.
-* Boole, G., 1854, *An Investigation of the Laws of Thought*, Cambridge: Macmillan.
-* Boolos, G., 1998, *Logic, Logic, and Logic*, Cambridge: Harvard University Press.
-* Boolos, G., and Jeffrey, R., 1989, *Computability and Logic*, 3rd edn., Cambridge: Cambridge University Press.
-* Bowman, B., 2011, “A Conceptualist Reply to Hanna’s Kantian Non-Conceptualism,” *International Journal of Philosophical Studies*, 19: 417–446.
-* Brandt, R., 1995, *The Table of Judgments: Critique of Pure Reason A67–76; B92–101*, trans. E. Watkins, Atascadero, CA: Ridgeview.
-* Breitenbach, A., 2015, “Beauty in Proofs: Kant on Aesthetics in Mathematics,” *European Journal of Philosophy*, 23: 955–977.
-* Chignell, A., 2007a, “Belief in Kant,” *Philosophical Review*, 116: 323–360.
-* –––, 2007b, “Kant’s Concepts of Justification,” *Noûs*, 41: 33–63.
-* Chomsky, N., 1975, *Reflections on Language*, New York: Pantheon.
-* Cook, V., and Newson, M., 1996, *Chomsky’s Universal Grammar: An Introduction*, 2nd edn., Oxford: Blackwell.
-* Denyer, N., 1992, “Pure Second-Order Logic,” *Notre Dame Journal of Formal Logic*, 33: 220–224.
-* Frege, G., 1953, *Foundations of Arithmetic*, trans. J.L. Austin, Evanston, IL: Northwestern University Press.
-* –––, 1972, *Conceptual Notation and Related Articles*, trans. T.W. Bynum, Oxford: Oxford University Press.
-* –––, 1979, “Logic (1897),”, inn G. Frege*Frege: Posthumous Writings*, trans. P. Long et al., Chicago, IL: University of Chicago Press, pp. 127–151.
-* –––, 1984, “Thoughts,”, in G. Frege, *Frege: Collected Papers on Mathematics, Logic, and Philosophy*, trans. M. Black, et al., Chicago, IL: University of Chicago Press, pp. 351–372.
-* Friedman, M., 1992, *Kant and the Exact Sciences*, Cambridge: Harvard University Press.
-* Gardner, S., 2013, “Transcendental Philosophy and the Given,” in J. Schear (ed.), *Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate*, London: Routledge, pp. 110–142.
-* Ginsborg, H., 2006, “Empirical Concepts and the Content of Experience,”, *European Journal of Philosophy*, 14: 349–372.
-* –––, 2008, “Was Kant a Nonconceptualist?,”, *Philosophical Studies*, 137: 65–77.
-* Golob, S., 2012, “Kant on Intentionality, Magnitude, and the Unity of Perception,” *European Journal of Philosophy*, 22: 505–528
-* –––, 2016, “Why the Transcendental Deduction Is Compatible With Nonconceptualism,” in D. Schulting (ed.), *Kantian Nonconceptualism*, London: Palgrave Macmillan, pp. 27–52.
-* –––, forthcoming, “Kant as Both Conceptualist and Nonconceptualist,” *Kantian Review*.
-* Griffith, A., 2010, “Perception and the Categories: A Conceptualist Reading of Kant’s Critique of Pure Reason,” *European Journal of Philosophy*, 20: 193–222.
-* Grüne, S., 2009, *Blinde Anschauung: Die Rolle von Begriffen in Kants Theorie sinnlicher Synthesis*, Frankfurt am Main: Klostermann.
-* –––, 2011, “Is There a Gap in Kant’s B Deduction?,” *International Journal of Philosophical Studies*, 19: 465–490.
-* Hanna, R., 2001, *Kant and the Foundations of Analytic Philosophy*, Oxford: Clarendon/Oxford University Press.
-* –––, 2005, “Kant and Nonconceptual Content,” *European Journal of Philosophy*, 13: 247–290.
-* –––, 2006a, *Rationality and Logic*, Cambridge, MA: MIT Press.
-* –––, 2006b, *Kant, Science, and Human Nature*, Oxford: Clarendon/Oxford University Press.
-* –––, 2011, “Kant’s Non-Conceptualism, Rogue Objects, and the Gap in the B Deduction,” *International Journal of Philosophical Studies*, 19: 399–415.
-* –––, 2012, “Kant, Hegel, and the Fate of Non-Conceptual Content,” *Hegel Society of Great Britain Bulletin*, 65
-* –––, 2013, “Forward to Idealism: On Eckart Förster’s *The Twenty-Five Years of Philosophy*,” *Kantian Review*, 18(2): 301-315.
-* –––, 2015, *Cognition, Content, and the A Priori: A Study in the Philosophy of Mind and Knowledge*, Oxford: Oxford University Press.
-* –––, 2016a, “Directions in Space, Nonconceptual Form, and the Foundations of Transcendental Idealism,” in D. Schulting (ed.), *Kantian Nonconceptualism*, London: Palgrave Macmillan, pp. 99–115.
-* –––, 2016b, “Kantian Madness: Blind Intuitions, Essentially Rogue Objects, Nomological Deviance, and Categorial Anarchy,” *Contemporary Studies in Kantian Philosophy*, 1: 44–64.
-* Hazen, A., 1999, “Logic and Analyticity,” in A.C. Varzi (ed.), *The Nature of Logic*, Stanford, CA: CSLI, pp. 79–110.
-* Heidegger, M., 1990, *Kant and the Problem of Metaphysics*, trans. R. Taft, Bloomington, IN: Indiana University Press.
-* Hylton, P., 1984, “The Nature of the Proposition and the Revolt against Idealism,” in R. Rorty (ed.), *Philosophy in History*, Cambridge: Cambridge University Press, pp. 375–397.
-* Kain, P., 2010, “Practical Cognition, Intuition, and the Fact of Reason,” in B. Lipscomb and J. Krueger (eds.), *Kant’s Moral Metaphysics: God, Freedom, and Immortality*, Berlin: DeGruyter, pp. 211–230.
-* Kitcher, P., 1990, *Kant’s Transcendental Psychology*, New York: Oxford.
-* Laiho, H., 2012, *Perception in Kant’s Model of Experience*, PhD dissertation, Turku: University of Turku.
-* Land, T., 2011, “Kantian Conceptualism,” in G. Abel et al. (eds.), *Rethinking Epistemology*, Berlin: DeGruyter, pp. 197–239.
-* –––, 2015, “Nonconceptualist Readings of Kant and the Transcendental Deduction,”, *Kantian Review*, 20: 25–51.
-* –––, 2016, “Moderate Conceptualism and Spatial Representation,” in D. Schulting (ed.), *Kantian Nonconceptualism*, London: Palgrave Macmillan, pp. 145–170.
-* Landy, D., 2009, “Inferentialism and the Transcendental Deduction,” *Kantian Review*, 14: 1–30.
-* Leech, J., 2010, “Kant’s Modalities of Judgment,” *European Journal of Philosophy*, 20: 260–284.
-* Linsky, L., 1992, “The Problem of the Unity of the Proposition,” *Journal of the History of Philosophy*, 30: 243–273.
-* Longuenesse, B., 1998, *Kant and the Capacity to Judge*, trans. C. Wolfe, Princeton, NJ: Princeton University Press.
-* MacFarlane, J., 2002, “Kant, Frege, and the Logic in Logicism,” *Philosophical Review*, 111: 25–65.
-* Martin, W., 2006, *Theories of Judgment*, Cambridge: Cambridge University Press.
-* McDowell, J., 1994, *Mind and World*, Cambridge, MA: Harvard University Press.
-* –––, 2009, “Avoiding the Myth of the Given,” in J. McDowell, *Having the World in View*, Cambridge, MA: Harvard University Press, pp. 256–272.
-* –––, 2013, “The Myth of the Mind as Detached,” in J. Schear (ed.), *Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate*, London: Routledge, pp. 41–58.
-* McLear, C., 2011, “Kant on Animal Consciousness,” *Philosophers' Imprint*, 11: 1–16.
-* –––, 2014, “The Kantian (Non)Conceptualism Debate,” *Philosophy Compass*, 9: 769–790.
-* –––, 2015, “Two Kinds of Unity in the Critique of Pure Reason,” *Journal of the History of Philosophy*, 53: 79–110.
-* Newton, A., 2015, “Kant on the Logical Origin of Concepts,” *European Journal of Philosophy*, 23: 456–484.
-* Onof, C., 2016,“Is There Room For Nonconceptual Content in Kant’s Critical Philosophy?,” in D. Schulting (ed.), *Kantian Nonconceptualism*, London: Palgrave Macmillan, pp. 199–226.
-* Parsons, C., “Kant’s Philosophy of Arithmetic,” in C. Parsons, *Mathematics in Philosophy*, New York: Cornell University Press, pp. 110–149.
-* Pasternack, L., 2011, “The Development and Scope of Kantian Belief: The Highest Good, The Practical Postulates, and the Fact of Reason,” *Kant-Studien*, 102: 290–315.
-* –––, 2014, “Kant on Opinion, Hypothesis, and the Norms of Applied Logic,” *Kant-Studien*, 105: 41–82.
-* Pippin, R., 2013, “What is ‘Conceptual Activity’?,” in J. Schear (ed.), *Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate*, London: Routledge, pp. 91–109.
-* Priest, G., 2001, *An Introduction to Non-Classical Logic*, Cambridge: Cambridge University Press.
-* Quine, W.V.O., 1961, “Two Dogmas of Empiricism,” in W.V.O. Quine, *From a Logical Point of View*, 2nd edn., New York: Harper and Row, pp. 20–46.
-* Reich, K., 1992, *The Completeness of Kant’s Table of Judgments*, trans. J. Kneller and M. Losonsky, Stanford, CA: Stanford University Press.
-* Rödl, S., 2006, “Logical Form as a Relation to the Object,” *Philosophical Topics*, 34: 345–369.
-* Rohs, P., 2001, “Bezieht sich nach Kant die Anschauung unmittelbar auf Gegenstände?,” *Akte des IX. Internationalen Kant-Kongresses*, vol. II, Berlin: De Gruyter.
-* Russell, B., 1966, “On the Nature of Truth and Falsehood,” in B. Russell, *Philosophical Essays*, London: Allen & Unwin, pp. 147–159.
-* Schulting, D., 2012, “Kant, Non-Conceptual Content, and the ‘Second Step’ of the B Deduction,” *Kant Studies Online*, 51–92.
-* Shabel, L., 2003, *Mathematics in Kant’s Critical Philosophy*, London: Routledge.
-* –––, 2006, “Kant’s Philosophy of Mathematics,” in P. Guyer (ed.), *The Cambridge Companion to Kant*, 2nd edn., Cambridge: Cambridge University Press.
-* Sellars, W., 1963, “Empiricism and the Philosophy of Mind,” in W. Sellars, *Science, Perception, and Reality*, New York: Humanities Press, pp. 127–196.
-* –––, 1968, *Science and Metaphysics: Variations on Kantian Themes*, London: Routledge & Kegan Paul.
-* Soboleva, M., forthcoming, “How We Read Kant: An Empiricist and a Transcendental Reading of Kant’s Theory of Experience,” *Philosophia*, first online 22 July 2017, doi:10.1007/s11406-017-9878-0
-* Stevenson, L., 2003, “Opinion, Belief or Faith, and Knowledge,” *Kantian Review*, 7: 72–101.
-* Strawson, P.F., 1966, *The Bounds of Sense: An Essay on Kant’s Critique of Pure Reason*, London: Methuen.
-* Thompson, M., 1972, “Singular Terms and Intuitions in Kant's Epistemology,” *The Review of Metaphysics*, 26(2): 314–343.
-* Tolley, C., 2012, “The Generality of Kant’s Transcendental Logic,” *Journal of the History of Philosophy*.
-* –––, 2013, “The Non-Conceptuality of the Content of Intuitions: A New Approach,” *Kantian Review*, 18: 107–136.
-* Van Cleve, J., 2012, “Defining and Defending Nonconceptual Contents and States,” *Philosophical Perspectives*, 26: 411–430.
-* Von Humboldt, W., 1988, *On Language*, trans. P. Heath, Cambridge: Cambridge University Press.
-* Waxman, W., 1991, *Kant’s Model of the Mind*, New York: Oxford University Press.
-* Wenzel, C., 2005, “Spielen nach Kant die Kategorien schon bei der Wahrnehmung eine Rolle?,” *Kant-Studien*, 96: 407–426.
-* Whitehead, A.N., and Russell, B., 1962, *Principia Mathematica to *56*, Cambridge: Cambridge University Press.
-* Williams, J., 2012, “How Conceptually-Guided are Kantian Intuitions?,” *History of Philosophy Quarterly*, 29: 57–78.
-* Wittgenstein, L., 1922, *Tractatus Logico-Philosophicus*, trans. C.K. Ogden, London: Routledge & Kegan Paul.
-* –––, 1953, *Philosophical Investigations*, trans. G.E.M. Anscombe, New York: Macmillan.
-* Wolff, M., 1995, *Die Vollständigkeit der kantischen Urteilstafel*, Frankfurt am Main: Vittorio Klostermann.
+* Abela, P., 2002, _Kant’s Empirical Realism_, Oxford: Clarendon/Oxford University Press.
+* Allais, L., 2009, “Non-Conceptual Content and the Representation of Space,” _Journal of the History of Philosophy_, 47: 383–413.
+* –––, 2015, _Manifest Reality: Kant’s Idealism and His Realism_, Oxford: Oxford University Press.
+* –––, 2016, “ Conceptualism and Nonconceptualism in Kant: A Survey of the Recent Debate,” in D. Schulting (ed.), _Kantian Nonconceptualism_, London: Palgrave Macmillan, pp. 1–25.
+* Anderson, R.L., 2001, “Synthesis, Cognitive Normativity, and the Meaning of Kant’s Question ‘How are synthetic cognitions a priori possible’” _European Journal of Philosophy_, 9: 275–305.
+* –––, 2004, “It Adds Up After All: Kant’s Philosophy of Arithmetic in Light of the Traditional Logic,” _Philosophy and Phenomenological Research_, 69: 501–540.
+* –––, 2005, “The Wolffian Paradigm and its Discontents: Kant’s Containment Definition of Analyticity in Historical Context,” _Archiv für Geschichte der Philosophie_, 87: 22–74.
+* –––, 2015, _The Poverty of Conceptual Truth: Kant’s Analytic/Synthetic Distinction and the Limits of Metaphysics_, Oxford: Oxford University Press.
+* Arnaud, A. & Nicole, P. N., 1996, _Logic or the Art of Thinking_, Trans. J.V. Buroker, Cambridge: Cambridge University Press.
+* Bauer, N., 2012, “A Peculiar Intuition: Kant’s Conceptualist Account of Perception,” _Inquiry_, 55: 215–237.
+* Bell, D., 1979, _Frege’s Theory of Judgement_, Oxford: Oxford University Press.
+* –––, D., 1987, “The Art of Judgement,” _Mind_, 96: 221–244.
+* Benacerraf, P., 1965, “What Numbers Could Not Be,”_Philosophical Review_, 74: 47–73.
+* –––, 1981, “Frege: the Last Logicist,” in P. French, et al (eds.), _The Foundations of Analytic Philosophy_, _Midwest Studies in Philosophy_ 6, Minneapolis, MN: University of Minnesota Press, pp. 17–35.
+* Bermúdez, J., 2003, _Thinking without Words_, New York: Oxford University Press.
+* Bermúdez, J. & Cahen, A., 2015, “Nonconceptual Mental Content,” _The Stanford Encyclopedia of Philosophy_ (Fall 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2015/entries/content-nonconceptual/](https://plato.stanford.edu/archives/fall2015/entries/content-nonconceptual/).
+* Bolzano, B., 1972, _Theory of Science_, trans. R. George, Berkeley, CA: University of California Press.
+* BonJour, L., 1998, _In Defense of Pure Reason_, Cambridge: Cambridge University Press.
+* Boole, G., 1854, _An Investigation of the Laws of Thought_, Cambridge: Macmillan.
+* Boolos, G., 1998, _Logic, Logic, and Logic_, Cambridge: Harvard University Press.
+* Boolos, G., and Jeffrey, R., 1989, _Computability and Logic_, 3rd edn., Cambridge: Cambridge University Press.
+* Bowman, B., 2011, “A Conceptualist Reply to Hanna’s Kantian Non-Conceptualism,” _International Journal of Philosophical Studies_, 19: 417–446.
+* Brandt, R., 1995, _The Table of Judgments: Critique of Pure Reason A67–76; B92–101_, trans. E. Watkins, Atascadero, CA: Ridgeview.
+* Breitenbach, A., 2015, “Beauty in Proofs: Kant on Aesthetics in Mathematics,” _European Journal of Philosophy_, 23: 955–977.
+* Chignell, A., 2007a, “Belief in Kant,” _Philosophical Review_, 116: 323–360.
+* –––, 2007b, “Kant’s Concepts of Justification,” _Noûs_, 41: 33–63.
+* Chomsky, N., 1975, _Reflections on Language_, New York: Pantheon.
+* Cook, V., and Newson, M., 1996, _Chomsky’s Universal Grammar: An Introduction_, 2nd edn., Oxford: Blackwell.
+* Denyer, N., 1992, “Pure Second-Order Logic,” _Notre Dame Journal of Formal Logic_, 33: 220–224.
+* Frege, G., 1953, _Foundations of Arithmetic_, trans. J.L. Austin, Evanston, IL: Northwestern University Press.
+* –––, 1972, _Conceptual Notation and Related Articles_, trans. T.W. Bynum, Oxford: Oxford University Press.
+* –––, 1979, “Logic (1897),”, inn G. Frege_Frege: Posthumous Writings_, trans. P. Long et al., Chicago, IL: University of Chicago Press, pp. 127–151.
+* –––, 1984, “Thoughts,”, in G. Frege, _Frege: Collected Papers on Mathematics, Logic, and Philosophy_, trans. M. Black, et al., Chicago, IL: University of Chicago Press, pp. 351–372.
+* Friedman, M., 1992, _Kant and the Exact Sciences_, Cambridge: Harvard University Press.
+* Gardner, S., 2013, “Transcendental Philosophy and the Given,” in J. Schear (ed.), _Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate_, London: Routledge, pp. 110–142.
+* Ginsborg, H., 2006, “Empirical Concepts and the Content of Experience,”, _European Journal of Philosophy_, 14: 349–372.
+* –––, 2008, “Was Kant a Nonconceptualist?,”, _Philosophical Studies_, 137: 65–77.
+* Golob, S., 2012, “Kant on Intentionality, Magnitude, and the Unity of Perception,” _European Journal of Philosophy_, 22: 505–528
+* –––, 2016, “Why the Transcendental Deduction Is Compatible With Nonconceptualism,” in D. Schulting (ed.), _Kantian Nonconceptualism_, London: Palgrave Macmillan, pp. 27–52.
+* –––, forthcoming, “Kant as Both Conceptualist and Nonconceptualist,” _Kantian Review_.
+* Griffith, A., 2010, “Perception and the Categories: A Conceptualist Reading of Kant’s Critique of Pure Reason,” _European Journal of Philosophy_, 20: 193–222.
+* Grüne, S., 2009, _Blinde Anschauung: Die Rolle von Begriffen in Kants Theorie sinnlicher Synthesis_, Frankfurt am Main: Klostermann.
+* –––, 2011, “Is There a Gap in Kant’s B Deduction?,” _International Journal of Philosophical Studies_, 19: 465–490.
+* Hanna, R., 2001, _Kant and the Foundations of Analytic Philosophy_, Oxford: Clarendon/Oxford University Press.
+* –––, 2005, “Kant and Nonconceptual Content,” _European Journal of Philosophy_, 13: 247–290.
+* –––, 2006a, _Rationality and Logic_, Cambridge, MA: MIT Press.
+* –––, 2006b, _Kant, Science, and Human Nature_, Oxford: Clarendon/Oxford University Press.
+* –––, 2011, “Kant’s Non-Conceptualism, Rogue Objects, and the Gap in the B Deduction,” _International Journal of Philosophical Studies_, 19: 399–415.
+* –––, 2012, “Kant, Hegel, and the Fate of Non-Conceptual Content,” _Hegel Society of Great Britain Bulletin_, 65
+* –––, 2013, “Forward to Idealism: On Eckart Förster’s _The Twenty-Five Years of Philosophy_,” _Kantian Review_, 18(2): 301-315.
+* –––, 2015, _Cognition, Content, and the A Priori: A Study in the Philosophy of Mind and Knowledge_, Oxford: Oxford University Press.
+* –––, 2016a, “Directions in Space, Nonconceptual Form, and the Foundations of Transcendental Idealism,” in D. Schulting (ed.), _Kantian Nonconceptualism_, London: Palgrave Macmillan, pp. 99–115.
+* –––, 2016b, “Kantian Madness: Blind Intuitions, Essentially Rogue Objects, Nomological Deviance, and Categorial Anarchy,” _Contemporary Studies in Kantian Philosophy_, 1: 44–64.
+* Hazen, A., 1999, “Logic and Analyticity,” in A.C. Varzi (ed.), _The Nature of Logic_, Stanford, CA: CSLI, pp. 79–110.
+* Heidegger, M., 1990, _Kant and the Problem of Metaphysics_, trans. R. Taft, Bloomington, IN: Indiana University Press.
+* Hylton, P., 1984, “The Nature of the Proposition and the Revolt against Idealism,” in R. Rorty (ed.), _Philosophy in History_, Cambridge: Cambridge University Press, pp. 375–397.
+* Kain, P., 2010, “Practical Cognition, Intuition, and the Fact of Reason,” in B. Lipscomb and J. Krueger (eds.), _Kant’s Moral Metaphysics: God, Freedom, and Immortality_, Berlin: DeGruyter, pp. 211–230.
+* Kitcher, P., 1990, _Kant’s Transcendental Psychology_, New York: Oxford.
+* Laiho, H., 2012, _Perception in Kant’s Model of Experience_, PhD dissertation, Turku: University of Turku.
+* Land, T., 2011, “Kantian Conceptualism,” in G. Abel et al. (eds.), _Rethinking Epistemology_, Berlin: DeGruyter, pp. 197–239.
+* –––, 2015, “Nonconceptualist Readings of Kant and the Transcendental Deduction,”, _Kantian Review_, 20: 25–51.
+* –––, 2016, “Moderate Conceptualism and Spatial Representation,” in D. Schulting (ed.), _Kantian Nonconceptualism_, London: Palgrave Macmillan, pp. 145–170.
+* Landy, D., 2009, “Inferentialism and the Transcendental Deduction,” _Kantian Review_, 14: 1–30.
+* Leech, J., 2010, “Kant’s Modalities of Judgment,” _European Journal of Philosophy_, 20: 260–284.
+* Linsky, L., 1992, “The Problem of the Unity of the Proposition,” _Journal of the History of Philosophy_, 30: 243–273.
+* Longuenesse, B., 1998, _Kant and the Capacity to Judge_, trans. C. Wolfe, Princeton, NJ: Princeton University Press.
+* MacFarlane, J., 2002, “Kant, Frege, and the Logic in Logicism,” _Philosophical Review_, 111: 25–65.
+* Martin, W., 2006, _Theories of Judgment_, Cambridge: Cambridge University Press.
+* McDowell, J., 1994, _Mind and World_, Cambridge, MA: Harvard University Press.
+* –––, 2009, “Avoiding the Myth of the Given,” in J. McDowell, _Having the World in View_, Cambridge, MA: Harvard University Press, pp. 256–272.
+* –––, 2013, “The Myth of the Mind as Detached,” in J. Schear (ed.), _Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate_, London: Routledge, pp. 41–58.
+* McLear, C., 2011, “Kant on Animal Consciousness,” _Philosophers' Imprint_, 11: 1–16.
+* –––, 2014, “The Kantian (Non)Conceptualism Debate,” _Philosophy Compass_, 9: 769–790.
+* –––, 2015, “Two Kinds of Unity in the Critique of Pure Reason,” _Journal of the History of Philosophy_, 53: 79–110.
+* Newton, A., 2015, “Kant on the Logical Origin of Concepts,” _European Journal of Philosophy_, 23: 456–484.
+* Onof, C., 2016,“Is There Room For Nonconceptual Content in Kant’s Critical Philosophy?,” in D. Schulting (ed.), _Kantian Nonconceptualism_, London: Palgrave Macmillan, pp. 199–226.
+* Parsons, C., “Kant’s Philosophy of Arithmetic,” in C. Parsons, _Mathematics in Philosophy_, New York: Cornell University Press, pp. 110–149.
+* Pasternack, L., 2011, “The Development and Scope of Kantian Belief: The Highest Good, The Practical Postulates, and the Fact of Reason,” _Kant-Studien_, 102: 290–315.
+* –––, 2014, “Kant on Opinion, Hypothesis, and the Norms of Applied Logic,” _Kant-Studien_, 105: 41–82.
+* Pippin, R., 2013, “What is ‘Conceptual Activity’?,” in J. Schear (ed.), _Mind, Reason, and Being-in-the-World: The McDowell-Dreyfus Debate_, London: Routledge, pp. 91–109.
+* Priest, G., 2001, _An Introduction to Non-Classical Logic_, Cambridge: Cambridge University Press.
+* Quine, W.V.O., 1961, “Two Dogmas of Empiricism,” in W.V.O. Quine, _From a Logical Point of View_, 2nd edn., New York: Harper and Row, pp. 20–46.
+* Reich, K., 1992, _The Completeness of Kant’s Table of Judgments_, trans. J. Kneller and M. Losonsky, Stanford, CA: Stanford University Press.
+* Rödl, S., 2006, “Logical Form as a Relation to the Object,” _Philosophical Topics_, 34: 345–369.
+* Rohs, P., 2001, “Bezieht sich nach Kant die Anschauung unmittelbar auf Gegenstände?,” _Akte des IX. Internationalen Kant-Kongresses_, vol. II, Berlin: De Gruyter.
+* Russell, B., 1966, “On the Nature of Truth and Falsehood,” in B. Russell, _Philosophical Essays_, London: Allen & Unwin, pp. 147–159.
+* Schulting, D., 2012, “Kant, Non-Conceptual Content, and the ‘Second Step’ of the B Deduction,” _Kant Studies Online_, 51–92.
+* Shabel, L., 2003, _Mathematics in Kant’s Critical Philosophy_, London: Routledge.
+* –––, 2006, “Kant’s Philosophy of Mathematics,” in P. Guyer (ed.), _The Cambridge Companion to Kant_, 2nd edn., Cambridge: Cambridge University Press.
+* Sellars, W., 1963, “Empiricism and the Philosophy of Mind,” in W. Sellars, _Science, Perception, and Reality_, New York: Humanities Press, pp. 127–196.
+* –––, 1968, _Science and Metaphysics: Variations on Kantian Themes_, London: Routledge & Kegan Paul.
+* Soboleva, M., forthcoming, “How We Read Kant: An Empiricist and a Transcendental Reading of Kant’s Theory of Experience,” _Philosophia_, first online 22 July 2017, doi:10.1007/s11406-017-9878-0
+* Stevenson, L., 2003, “Opinion, Belief or Faith, and Knowledge,” _Kantian Review_, 7: 72–101.
+* Strawson, P.F., 1966, _The Bounds of Sense: An Essay on Kant’s Critique of Pure Reason_, London: Methuen.
+* Thompson, M., 1972, “Singular Terms and Intuitions in Kant's Epistemology,” _The Review of Metaphysics_, 26(2): 314–343.
+* Tolley, C., 2012, “The Generality of Kant’s Transcendental Logic,” _Journal of the History of Philosophy_.
+* –––, 2013, “The Non-Conceptuality of the Content of Intuitions: A New Approach,” _Kantian Review_, 18: 107–136.
+* Van Cleve, J., 2012, “Defining and Defending Nonconceptual Contents and States,” _Philosophical Perspectives_, 26: 411–430.
+* Von Humboldt, W., 1988, _On Language_, trans. P. Heath, Cambridge: Cambridge University Press.
+* Waxman, W., 1991, _Kant’s Model of the Mind_, New York: Oxford University Press.
+* Wenzel, C., 2005, “Spielen nach Kant die Kategorien schon bei der Wahrnehmung eine Rolle?,” _Kant-Studien_, 96: 407–426.
+* Whitehead, A.N., and Russell, B., 1962, \*Principia Mathematica to _56_, Cambridge: Cambridge University Press.
+* Williams, J., 2012, “How Conceptually-Guided are Kantian Intuitions?,” _History of Philosophy Quarterly_, 29: 57–78.
+* Wittgenstein, L., 1922, _Tractatus Logico-Philosophicus_, trans. C.K. Ogden, London: Routledge & Kegan Paul.
+* –––, 1953, _Philosophical Investigations_, trans. G.E.M. Anscombe, New York: Macmillan.
+* Wolff, M., 1995, _Die Vollständigkeit der kantischen Urteilstafel_, Frankfurt am Main: Vittorio Klostermann.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-judgment). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/kant-judgment/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=kant-judgment&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/kant-judgment/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-judgment).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/kant-judgment/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=kant-judgment\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/kant-judgment/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
@@ -361,7 +356,7 @@ Internal references to Kant’s *Critique of Pure Reason* contain page numbers
 
 ## Related Entries
 
-[analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/) | [*a priori* justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) | [concepts](https://plato.stanford.edu/entries/concepts/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [innateness: historical controversies](https://plato.stanford.edu/entries/innateness-history/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [Kant, Immanuel: philosophy of mathematics](https://plato.stanford.edu/entries/kant-mathematics/) | [Kant, Immanuel: view of mind and consciousness of self](https://plato.stanford.edu/entries/kant-mind/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [mental content: nonconceptual](https://plato.stanford.edu/entries/content-nonconceptual/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [propositions](https://plato.stanford.edu/entries/propositions/) | rationality | [reference](https://plato.stanford.edu/entries/reference/) | [truth: correspondence theory of](https://plato.stanford.edu/entries/truth-correspondence/) | [truth: deflationism about](https://plato.stanford.edu/entries/truth-deflationary/)
+[analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/) | [_a priori_ justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) | [concepts](https://plato.stanford.edu/entries/concepts/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [innateness: historical controversies](https://plato.stanford.edu/entries/innateness-history/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [Kant, Immanuel: philosophy of mathematics](https://plato.stanford.edu/entries/kant-mathematics/) | [Kant, Immanuel: view of mind and consciousness of self](https://plato.stanford.edu/entries/kant-mind/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [mental content: nonconceptual](https://plato.stanford.edu/entries/content-nonconceptual/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [propositions](https://plato.stanford.edu/entries/propositions/) | rationality | [reference](https://plato.stanford.edu/entries/reference/) | [truth: correspondence theory of](https://plato.stanford.edu/entries/truth-correspondence/) | [truth: deflationism about](https://plato.stanford.edu/entries/truth-deflationary/)
 
-[Copyright © 2017](https://plato.stanford.edu/info.html#c) by  
+[Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
 Robert Hanna

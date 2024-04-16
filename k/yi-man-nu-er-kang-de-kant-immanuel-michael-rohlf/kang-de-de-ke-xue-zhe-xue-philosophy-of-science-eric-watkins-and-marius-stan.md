@@ -1,6 +1,6 @@
 # 康德的科学哲学 philosophy of science (Eric Watkins and Marius Stan)
 
-*首次发表于2003年10月21日；实质性修订于2023年9月18日。*
+_首次发表于2003年10月21日；实质性修订于2023年9月18日。_
 
 康德的科学哲学因为多种原因引起了不同的关注。对于当代科学哲学家来说，康德试图构建一个哲学框架，既对我们对世界的科学知识提出实质性的条件，同时又尊重特定科学的自主性和多样性，这一点非常有趣。他关于科学理论的法则，包括科学理论的法则，也一直是人们持久关注的焦点。
 
@@ -10,24 +10,23 @@
 
 * [1. 物理学：先验批判时期](https://plato.stanford.edu/entries/kant-science/#PhysPreCritPeri)
 * [2. 物理学：批判时期（自然科学的形而上学基础）](https://plato.stanford.edu/entries/kant-science/#PhysCritPeriMetaFounNatuScie)
-
-  * [ 2.1 序言](https://plato.stanford.edu/entries/kant-science/#Pref)
-  * [ 2.2 运动学](https://plato.stanford.edu/entries/kant-science/#Phor)
-  * [ 2.3 动力学](https://plato.stanford.edu/entries/kant-science/#Dyna)
-  * [ 2.4 力学](https://plato.stanford.edu/entries/kant-science/#Mech)
-  * [ 2.5 现象学](https://plato.stanford.edu/entries/kant-science/#Phen)
-* [ 3. 法则](https://plato.stanford.edu/entries/kant-science/#Laws)
+  * [2.1 序言](https://plato.stanford.edu/entries/kant-science/#Pref)
+  * [2.2 运动学](https://plato.stanford.edu/entries/kant-science/#Phor)
+  * [2.3 动力学](https://plato.stanford.edu/entries/kant-science/#Dyna)
+  * [2.4 力学](https://plato.stanford.edu/entries/kant-science/#Mech)
+  * [2.5 现象学](https://plato.stanford.edu/entries/kant-science/#Phen)
+* [3. 法则](https://plato.stanford.edu/entries/kant-science/#Laws)
 * [4. 物理学：后批判时期（遗稿集）](https://plato.stanford.edu/entries/kant-science/#PhysPostCritPeriOpusPost)
-* [ 5. 生物学](https://plato.stanford.edu/entries/kant-science/#Biol)
-* [ 6. 化学](https://plato.stanford.edu/entries/kant-science/#Chem)
-* [ 7. 心理学](https://plato.stanford.edu/entries/kant-science/#Psyc)
+* [5. 生物学](https://plato.stanford.edu/entries/kant-science/#Biol)
+* [6. 化学](https://plato.stanford.edu/entries/kant-science/#Chem)
+* [7. 心理学](https://plato.stanford.edu/entries/kant-science/#Psyc)
 * [8. 其他科学：历史、物理地理学和人类学](https://plato.stanford.edu/entries/kant-science/#OtheScieHistPhysGeogAnth)
-* [ 参考书目](https://plato.stanford.edu/entries/kant-science/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-science/#Aca)
+* [参考书目](https://plato.stanford.edu/entries/kant-science/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/kant-science/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/kant-science/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-science/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/kant-science/#Rel)
 
----
+***
 
 ## 1. 物理学：先验批判时期
 
@@ -79,7 +78,7 @@ Adickes（1924）、Harman（1982）、Friedman（1992）、Laywine（1993）、
 
 在命题4中，康德从他对斥力的特征化中得出一个重要的结论，即物质是无限可分的（4:503）。这一点特别引人注目的是，它代表了他自己早期的物理单子论的一个重要转变，他在那里接受了引力和斥力，但否认了构成物质的最终要素——物理点或单子的无限可分性。康德改变立场的部分原因确实源于《纯粹理性批判》（尤其是其中的第二反论）中进行的“批判性转向”。因为一旦人们认识到空间和可分性等空间属性不是事物本身的属性，而只是表象，就可以拒绝似乎需要接受简单物质的命题，即简单物质必须先于它们所组成的整体存在（4:506）。然而，康德的证明似乎还依赖于细节上的更强主张，即每个空间都可以通过某种斥力填充，并且可以将每个空间分割成由不同的斥力填充的较小空间。
 
-命题5-8都致力于吸引力。在命题5中，康德认为物质必须具有吸引力才能填满空间。康德的论证是，如果只有斥力，那么物质“将无限地扩散开来”(4:508)，因为既没有空间也没有其他物质可以限制它。命题6认为，吸引力和斥力都必须被视为物质的本质。也就是说，仅有吸引力是不足以解释物质填满空间的，因为如果物质仅由吸引力组成，就没有力量来抵消所施加的吸引力，宇宙将坍缩成一个点。命题5和6共同构成了一个“平衡论证”，这个论证康德在早期的物理单子论中已经使用过。（平衡论证是一种存在性证明，证明某种力量的存在。其前提是（1）一个被普遍接受的事实，即某种稳定的配置存在；（2）一种已知存在的力量类型。该论证试图证明，除非存在第二种力量来平衡第一种力量，否则所讨论的稳定是不可能的。在康德的平衡论证中，普遍事实是控制体积中的质量密度恒定；给定的力量是“原始斥力”，他在命题4中证明了它的存在。）命题7进一步说明了如何理解吸引力，即物质对其他物质的直接作用，通过空虚的空间（因此是在距离上）。康德直接面对了牛顿试图通过仅仅数学上的假设来避免的关于吸引力如何理解的形而上学问题。正如康德所解释的那样，牛顿“抽象出所有试图回答物质普遍吸引的原因的假设……[因为]这个问题是物理或形而上学的，而不是数学的”(4:515)。 作为对“远距离即时行动最常见的反对意见”的回应，即“一个物体不能在其不存在的地方立即行动”（4:513），康德认为远距离行动并不比接触行动更具问题性，因为在两种情况下，物体都只是在自身之外行动。命题8的结论是，引力作用立即延伸到无限远，并通过“初步建议”（4:518）来说明如何构建凝聚概念（康德将其理解为仅限于接触的吸引力）。
+命题5-8都致力于吸引力。在命题5中，康德认为物质必须具有吸引力才能填满空间。康德的论证是，如果只有斥力，那么物质“将无限地扩散开来”(4:508)，因为既没有空间也没有其他物质可以限制它。命题6认为，吸引力和斥力都必须被视为物质的本质。也就是说，仅有吸引力是不足以解释物质填满空间的，因为如果物质仅由吸引力组成，就没有力量来抵消所施加的吸引力，宇宙将坍缩成一个点。命题5和6共同构成了一个“平衡论证”，这个论证康德在早期的物理单子论中已经使用过。（平衡论证是一种存在性证明，证明某种力量的存在。其前提是（1）一个被普遍接受的事实，即某种稳定的配置存在；（2）一种已知存在的力量类型。该论证试图证明，除非存在第二种力量来平衡第一种力量，否则所讨论的稳定是不可能的。在康德的平衡论证中，普遍事实是控制体积中的质量密度恒定；给定的力量是“原始斥力”，他在命题4中证明了它的存在。）命题7进一步说明了如何理解吸引力，即物质对其他物质的直接作用，通过空虚的空间（因此是在距离上）。康德直接面对了牛顿试图通过仅仅数学上的假设来避免的关于吸引力如何理解的形而上学问题。正如康德所解释的那样，牛顿“抽象出所有试图回答物质普遍吸引的原因的假设……\[因为]这个问题是物理或形而上学的，而不是数学的”(4:515)。 作为对“远距离即时行动最常见的反对意见”的回应，即“一个物体不能在其不存在的地方立即行动”（4:513），康德认为远距离行动并不比接触行动更具问题性，因为在两种情况下，物体都只是在自身之外行动。命题8的结论是，引力作用立即延伸到无限远，并通过“初步建议”（4:518）来说明如何构建凝聚概念（康德将其理解为仅限于接触的吸引力）。
 
 在《动力学的一般注释》中，康德提出了两个主要问题。首先，康德考虑了特定物质的各种变体（例如，水与汞的不同之处）如何至少在原则上归结为引力和斥力这两个基本力。第二个问题涉及“数学-力学”和“形而上-动力学解释模式”之间的基本区别。前一种解释模式与原子和虚空的假设有关，仅仅使用基本粒子的形状和运动以及它们之间的空隙来解释。它与后一种形而上-动力学模式形成对比，后者在解释中使用基本的运动力（例如引力和斥力）。康德承认数学-力学模式比形而上-动力学模式具有优势，因为它的基本假设可以在数学上表示（实际上可以“验证”（4:525）），而他反复承认基本力的可能性永远无法被理解，即其可能性永远无法确定。然而，康德认为这种优势被两个劣势所抵消。首先，通过假设绝对不可渗透性，数学-力学解释模式在其基础上接受了一个“空概念”。其次，通过放弃物质内在的所有力量，这种解释模式给予了想象力更多的自由，“这与哲学的谨慎真正一致”（4:525）。
 
@@ -145,11 +144,9 @@ Adickes（1924）、Harman（1982）、Friedman（1992）、Laywine（1993）、
 
 正是这些特殊性质在物理学和化学中没有遇到的情况下引发了哲学上的挑战。康德在他的第三部重要著作《判断力批判》（1790）的后半部分中解决了这些挑战。特别是，他声称试图解释有机体会在反思判断中引发不可避免的冲突，而我们在经验概念形成、分类和解释特定法则的统一中使用的能力。康德在《目的论判断的矛盾》（CJ §§ 69–78; 5: 385–415）中描述了这种冲突。这种矛盾存在于两个规范原则之间，在此处以“R”为前缀以将其与康德在同一地方简要讨论的两个类似的构成性原则区分开来：
 
-> R-论题：
-> 所有物质事物的生成和形式都必须根据纯粹的机械法则来判断为可能。
+> R-论题： 所有物质事物的生成和形式都必须根据纯粹的机械法则来判断为可能。
 >
-> R-反对命题：
-> 一些物质性质的产品不能仅根据机械定律来判断其可能性（判断它们需要完全不同的因果关系定律，即最终因果关系）（5: 387）。
+> R-反对命题： 一些物质性质的产品不能仅根据机械定律来判断其可能性（判断它们需要完全不同的因果关系定律，即最终因果关系）（5: 387）。
 
 大量学术研究旨在阐明这种对立，而在过去十年中，这些解释性工作获得了新的动力（请参阅本百科全书中的“康德的美学和目的论”条目）。特别是，人们对三个问题给予了持续关注：对于康德来说，有机体在何种意义上是无法用机械方式解释的？产生这种对立的矛盾究竟是什么？康德如何解决这个问题？
 
@@ -195,135 +192,135 @@ Hatfield（1990 年，第 4 章）更详细地调查了这些康德后期的发�
 
 ## Bibliography
 
-* Adickes, E., 1911, *Untersuchungen zu Kants Physischer Geographie*, Tübingen: Mohr.
-* –––, 1920, *Kants Opus postumum, dargestellt und beurteilt*, Berlin: Reuther & Reichard.
-* –––, 1924–5, *Kant als Naturforscher*, (2 vols.) Berlin: De Gruyter.
-* Allison, H., 1991, “Kant’s Antinomy of Teleological Judgment,” *Southern Journal of Philosophy*, 30 (Supplement): 25–42.
-* Basile, G.P., 2013, *Kants* Opus postumum *und seine Rezeption*, Berlin: De Gruyter.
-* Basile, G.P. and A. Lyssy (eds.), 2023, *Perspectives on Kant’s* Opus postumum, New York: Routledge.
-* Blasche, S. (ed.), 1991, *Übergang. Untersuchungen zum Spätwerk Immanuel Kants*, Frankfurt: Klostermann.
-* Blomme, H., 2023, “Kant’s Paradoxical Reception of Lavoisier,” in *Perspectives on Kant’s* Opus postumum, G.P. Basile and A. Lyssy (eds.), Routledge, pp. 9–26.
-* Brandt, R., 1999, *Kritischer Kommentar zu Kants Anthropologie in pragmatischer Hinsicht*, Hamburg: Felix Meiner Verlag.
-* Breitenbach, A., 2008, “Two Views on Nature: A Solution to Kant’s Antinomy of Mechanism and Teleology,” *British Journal for the History of Philosophy*, 16: 351–369.
-* –––, 2018, “Laws and ideal unity,” in W. Ott and L. Patton (eds.), *Laws of Nature*, Oxford University Press, pp. 108–21.
-* Brittan, G., 1978, Kant’s Theory of Sci*ence*, Princeton: Princeton University Press.
-* –––, 1995, “The Continuity of Matter,” in *Proceedings of the Eighth International Kant Congress*, H. Robinson (ed.), Milwaukee: Marquette University Press, vol. I/2, pp. 611–18.
-* Buchdahl, G., 1969, *Metaphysics and the Philosophy of Science*, Cambridge: Belknap Press.
-* –––, 1986, “Kant’s ‘Special Metaphysics’ and *The Metaphysical Foundations of Natural Science*,” in *Kant’s Philosophy of Physical Science*, R. Butts (ed.), Dordrecht: D. Reidel, pp. 127–61.
-* –––, 1992, *Kant and the Dynamics of Reason*, Oxford: Blackwell.
-* Butts, R., 1986, “The Methodological Structure of Kant’s Metaphysics of Science,” in *Kant’s Philosophy of Physical Science*, R. Butts (ed.), Dordrecht: D. Reidel, pp. 163–99.
-* –––, 1986, (ed.), *Kant’s Philosophy of Physical Science*, Dordrecht: D. Reidel.
-* Carrier, M., 1990, “Kants Theorie der Materie und ihre Wirkung auf die zeitgenössische Chemie,” *Kant-Studien*, 81: 170–210.
-* –––, 1992, “Kant’s Relational Theory of Absolute Space,” *Kant-Studien*, 83: 399–416.
-* –––, 2001, “Kant’s Theory of Matter and His Views on Chemistry,” in *Kant and the Sciences*, E. Watkins (ed.), Oxford University Press, pp. 205–30.
-* Cohen, A, 2004, “Kant’s Antinomy of Reflective Judgment: A Re-evaluation,” *Theorema*, 23: 183–97.
-* Cooper, A., 2023, “Hypotheses in Kant’s philosophy of science,” *Studies in History and Philosophy of Science* 99: 97–105.
-* Cramer, K., 1985, *Nicht-reine synthetische Urteile a priori. Ein Problem der Transzendentalphilosophie Immanuel Kants*, Heidelberg: Winter.
-* Demarest, B., and  H. van den Berg, 2022, “Kant’s theory of scientific hypotheses in its historical context,” *Studies in History and Philosophy of Science*, 92: 12–19.
-* Edwards, J., 2000, *Substance, Force, and the Possibility of Knowledge: On Kant’s Philosophy of Material Nature*, University of California Press.
-* Emundts, D., 2004, *Kants Übergangskonzeption im Opus postumum*, Berlin: De Gruyter.
-* Engelhard, K., 2005, *Das Einfache und die Materie*, Berlin: De Gruyter.
-* –––, 2011, *Empirische Naturgesetze bei Kant*, Brill.
-* –––, 2018, “The problem of grounding natural modality in Kant’s account of empirical laws of nature,” *Studies in History and Philosophy of Science*, 71: 24–34.
-* Förster, E., 2000, *Kant’s Final Synthesis: An Essay on the Opus postumum*, Cambridge: Harvard University Press.
-* –––, 2008, “Von der Eigentümlichkeit unseres Verstandes in Ansehung der Urteilskraft (§§ 74–78),” *Immanuel Kant: Kritik der Urteilskraft*, eds. O. Höeffe and I. Goy, Akademie Verlag, pp. 259–74.
-* Friedman, M., 1990, “Kant and Newton: Why Gravity is Essential to Matter,” in *Philosophical Perspectives on Newtonian Science*, P. Bricker and R.I.G. Hughes (eds.), MIT Press, pp. 185–202.
-* –––, 1992, *Kant and the Exact Sciences*, Harvard University Press.
-* –––, 2001, “Matter and Motion in the *Metaphysical Foundations* and the First *Critique,*” in *Kant and the Sciences*, E. Watkins (ed.), Oxford University Press, pp. 53–69.
-* –––, 2002, “Kant on Science and Experience,” in *Kant und die Berliner Aufklärung*, V. Gerhardt, R.-P. Horstmann, and R. Schumacher (eds.), De Gruyter, Vol. I, pp. 233–45.
-* –––, 2012, “Newton and Kant: Quantity of matter in the *Metaphysical Foundations of Natural Science*,” *Southern Journal of Philosophy*, 50: 482–503.
-* –––, 2013, *Kant’s Construction of Nature: A Reading of the* Metaphysical Foundations of Natural Science, Cambridge University Press.
-* Ginsborg, H., 2001, “Kant on Understanding Organisms as Natural Purposes,” *Kant and the Sciences*, E. Watkins (ed.), Oxford University Press, pp. 231–58.
-* –––, 2004, “Two Kinds of Mechanical Inexplicability in Kant and Aristotle,” *Journal of the History of Philosophy*, 42: 33–65.
-* Goy, I. and Watkins, E., eds., 2014, *Kant’s Theory of Biology*, Berlin: de Gruyter.
-* Guyer, P., 2001, “Organisms and the Unity of Science,” in *Kant and the Sciences*, E. Watkins (ed.), Oxford University Press, pp. 259–81.
-* Hall, B., 2006, “A Reconstruction of Kant’s Ether Deduction in *Übergang 11*,” *British Journal for the History of Philosophy*, 14: 719–46.
-* –––, 2009, “‘*Effecting a Transition*’: How to Fill the Gap in Kant’s System of Critical Philosophy,” *Kant-Studien*, 100: 187–211.
-* Harman, P., 1982, *Metaphysics and Natural Philosophy*, Harvester Press.
-* Hatfield, G., 1990, *The natural and the normative: theories of spatial perception from Kant to Helmholtz*, MIT Press.
-* –––, 1992, “Empirical, rational, and transcendental psychology,” in *The Cambridge Companion to Kant*, ed. P. Guyer, Cambridge University Press, pp. 200–27.
-* Holden, Th., 2004, *The Architecture of Matter: Galileo to Kant*, Oxford University Press.
-* Hoppe, H., 1969, *Kants Theorie der Physik. Eine Untersuchung über das Opus postumum von Kant*, Frankfurt: Klostermann.
-* Howard, S., 2023, *Kant’s Late Philosophy of Nature*, Cambridge University Press.
-* Kitcher, P., 1990, *Kant’s Transcendental Psychology*, Oxford University Press.
-* Kitcher, Ph., 1983, “Kant’s Philosophy of Science,” in *Midwest Studies in Philosophy VIII*, P. French, T. Uehling, and H. Wettstein (eds.), University of Minnesota Press, pp. 387–408.
-* –––, 1986, “Projecting the order of nature,” in *Kant’s Philosophy of Physical Science*, R. Butts (ed.), D. Reidel, pp. 231–35.
-* Kleingeld, P., 1995, *Fortschritt und Vernunft: Zur Geschichtsphilosophie Kants*, Würzburg: Königshausen and Neumann.
-* –––, 1999, “Kant, History, and the Idea of Moral Development,” *History of Philosophy Quarterly*, 16: 59–80.
-* Kraus, K., 2016, “Quantifying inner experience?—Kant’s mathematical principles in the context of empirical psychology,” *European Journal of Philosophy*, 24: 331–57.
-* Kreines, J., 2005, “The Inexplicability of Kant’s *Naturzweck*,” *Archiv für Geschichte der Philosophie*, 87: 270–311.
-* –––, 2017, “Kant on the laws of nature: restrictive inflationism and its philosophical advantages,” *The Monist*, 100: 326–41.
-* Kuehn, M., 2001, “Kant’s Teachers in the Exact Sciences,” in *Kant and the Sciences*, E. Watkins (ed.), Oxford University Press, pp. 11–30.
-* Laywine, A., 1993, *Kant’s Early Metaphysics and the Origins of the Critical Philosophy*, Atascadero: Ridgeview.
-* Leduc, Chr., 2013, “Les critères kantiens de validité de l’hypothèse physique,” *Akten des XI. Kant-Kongresses 2010*, M. Ruffing et al. (eds.), De Gruyter. pp. 125–38.
-* Lefevre, W., and Wunderlich, F., 2000, *Kants naturtheoretische Begriffe (1747–1780)*, Berlin: De Gruyter.
-* –––, 2001, (ed.) *Between Leibniz, Newton and Kant: Philosophy and Science in the 18th Century*, Dordrecht: Kluwer.
-* Lequan, M., 2000. *La chimie selon Kant*, Paris: Presses Universitaires de France.
-* Makkreel, R., 2001, “Kant on the Scientific Status of Psychology, Anthropology, and History,” in *Kant and the Sciences*, E. Watkins (ed.), Oxford University Press, pp. 185–201.
-* Malzkorn, W., 1998, “Kant über die Teilbarkeit der Materie,” *Kant-Studien*, 89: 385–409.
-* Massimi, M. 2017, “Grounds, modality, and nomic necessity in the Critical Kant,” in *Kant and the Laws of Nature*, M. Massimi and A. Breitenbach (eds.), Cambridge University Press, pp. 150–70.
-* McLaughlin, P., 1990, *Kant’s Critique of Teleology in Biological Explanation*, Lewiston, NY: Edwin Mellen Press.
-* McNulty, M.B., 2014, “Kant on chemistry and the application of mathematics in natural science,” *Kantian Review*, 19: 393–418.
-* –––, 2015, “Rehabilitating the regulative use of reason: Kant on empirical and chemical laws,” *Studies in History and Philosophy of Science*, 54: 1–10.
-* –––, 2016, “Chemistry in Kant’s Opus postumum,” *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 6: 64–95.
-* –––, 2018, “Kant on empirical psychology and experimentation,” in *Akten des XII. Internationalen Kant-Kongresses*, V. Waibel, M. Ruffing & D. Wagner (eds.), De Gruyter, pp. 2707–14.
-* –––, (ed.), 2022, *Kant’s* Metaphysical Foundations of Natural Science: *A Critical Guide*, Cambridge University Press.
-* Messina, J. 2017, “Kant’s necessitation account of laws and the nature of natures,” in *Kant and the Laws of Nature*, M. Massimi and A. Breitenbach (eds.), Cambridge University Press, pp. 131–49.
-* Parsons, C., 1984, “Remarks on Pure Natural Science,” in *Self and Nature in Kant’s Philosophy*, A. Wood (ed.), Ithaca: Cornell University Press, pp. 216–27.
-* Plaass, P., 1994, *Kant’s Theory of Natural Science*, A. Miller and M. Miller (translators), Dordrecht: Kluwer, 1994.
-* Pollok, K., 2001, *Kants ‘Metaphysische Anfangsgründe der Naturwissenschaft’. Ein kritischer Kommentar*, Hamburg: Felix Meiner Verlag.
-* –––, 2002, “Fabricating a World in Accordance with Mere Fantasy...? The Origins of Kant’s Critical Theory of Matter,” *Review of Metaphysics*, 56: 61–97.
-* Quarfood, M., 2004, *Transcendental Idealism and the Organism*, Stockholm: Almqvist & Wiksell.
-* Schäfer, L., 1966, *Kants Metaphysik der Natur*, Berlin: De Gruyter.
-* Schönfeld, M., 2000, *The Philosophy of the Young Kant: The Precritical Project*, New York: Oxford University Press.
-* Smith, S., 2013, “Kant’s Picture of Monads in the *Physical Monadology*,” *Studies in History and Philosophy of Science*, 44: 102–11.
-* Stan, M., 2013, “Kant’s Third Law of Mechanics: the Long Shadow of Leibniz,” *Studies in History and Philosophy of Science*, 44: 493–504.
-* –––, 2014, “Unity for Kant’s Natural Philosophy,”*Philosophy of Science*, 81(3): 423–43.
-* –––, forthcoming, *Kant’s Natural Philosophy*, Cambridge University Press.
-* Steigerwald, J., 2006, “Kant’s Concept of Natural Purpose and the Reflecting Power of Judgement,” *Studies in History and Philosophy of Science* (Part C), 37: 712–34.
-* Teufel, Th., 2011, “What Is the Problem of Teleology in Kant’s Critique of the Teleological Power of Judgment?,” *SATS: Northern European Journal of Philosophy*, 12(2): 198–236.
-* Sturm, T., 2001, “Kant on Empirical Psychology: How Not to Investigate the Human Mind,” in *Kant and the Sciences*, E. Watkins (ed.), New York: Oxford University Press, pp. 163–84.
-* –––, 2009, *Kant und die Wissenschaften vom Menschen*, Paderborn: Mentis.
-* Tuschling, B., 1971, *Metaphysische und Transzendentale Dynamik in Kants Opus postumum*, Berlin: De Gruyter.
-* Van den Berg, H., 2014, *Kant on Proper Science*, Dordrecht: Springer.
-* Vanzo, A., 2013, “Kant on experiment,” in *Rationis Defensor*, James Maclaurin (ed.), Springer, pp. 75–96.
-* Walker, R.C.S., 1974, “The Status of Kant’s Theory of Matter”, in *Kant’s Theory of Knowledge*, L.W. Beck (ed.), Dordrecht: Reidel, pp. 151–56.
-* Warren, D., 2001, *Reality and Impenetrability in Kant’s Philosophy of Nature*, London: Routledge.
-* –––, 2010, “Kant on Attractive and Repulsive Forces: the Balancing Argument,” in M. Domski and M. Dickson (eds.), *Discourse on a New Method*, LaSalle, Ill.: Open Court, pp. 193–242.
-* Watkins, E., 1997, “The Laws of Motion from Newton to Kant,” *Perspectives on Science*, 5: 311–48.
-* –––, 1998a, “The Argumentative Structure of Kant’s *Metaphysical Foundations of Natural Science*,” *Journal of the History of Philosophy*, 36: 567–93.
-* –––, 1998b, “Kant’s Justification of the Laws of Mechanics,” in *Studies in History and Philosophy of Science*, 29: 539–60.
-* –––, 2001, (ed.), *Kant and the Sciences*, Oxford University Press.
-* –––, 2001, “Kant on Force and Extension: Critical Appropriations of Leibniz and Newton,” in *Between Leibniz, Newton and Kant: Philosophy and Science in the 18th Century*, W. Lefevre (ed.), Dordrecht: Kluwer, pp. 111–27.
-* –––, 2003, “Forces and Causes in Kant’s Early Pre-Critical Writings,” *Studies in History and Philosophy of Science*, 33: 5–27.
-* –––, 2006, “On the Necessity and Nature of Simples: Leibniz, Wolff, Baumgarten, and the pre-Critical Kant,” *Oxford Studies in Early Modern Philosophy*, 3: 261–314.
-* –––, 2009, “The Antinomy of Teleological Judgment,” *Kant Yearbook*, 1: 197–221.
-* –––, 2013, “The early Kant’s (anti-)Newtonianism,” *Studies in History and Philosophy of Science*, 44: 429–37.
-* –––, 2019, *Kant on Laws*, Cambridge University Press.
-* Westphal, K., 1995, “Does Kant’s *Metaphysical Foundations of Natural Science*, fill a gap in the *Critique of Pure Reason*?,” *Synthese*, 103: 43–86.
-* Wood, A., 1999, *Kant’s Ethical Thought*, New York: Cambridge University Press.
-* Zanetti, V., 1993, “Die Antinomie der teleologischen Urteilskraft,” *Kant-Studien*, 83: 341–355.
-* Zumbach, C., 1984, *The Transcendent Science*, The Hague: Martinus Nijhoff.
-* Yovel, Y., 1980, *Kant and the Philosophy of History*, Princeton: Princeton University Press.
+* Adickes, E., 1911, _Untersuchungen zu Kants Physischer Geographie_, Tübingen: Mohr.
+* –––, 1920, _Kants Opus postumum, dargestellt und beurteilt_, Berlin: Reuther & Reichard.
+* –––, 1924–5, _Kant als Naturforscher_, (2 vols.) Berlin: De Gruyter.
+* Allison, H., 1991, “Kant’s Antinomy of Teleological Judgment,” _Southern Journal of Philosophy_, 30 (Supplement): 25–42.
+* Basile, G.P., 2013, _Kants_ Opus postumum _und seine Rezeption_, Berlin: De Gruyter.
+* Basile, G.P. and A. Lyssy (eds.), 2023, _Perspectives on Kant’s_ Opus postumum, New York: Routledge.
+* Blasche, S. (ed.), 1991, _Übergang. Untersuchungen zum Spätwerk Immanuel Kants_, Frankfurt: Klostermann.
+* Blomme, H., 2023, “Kant’s Paradoxical Reception of Lavoisier,” in _Perspectives on Kant’s_ Opus postumum, G.P. Basile and A. Lyssy (eds.), Routledge, pp. 9–26.
+* Brandt, R., 1999, _Kritischer Kommentar zu Kants Anthropologie in pragmatischer Hinsicht_, Hamburg: Felix Meiner Verlag.
+* Breitenbach, A., 2008, “Two Views on Nature: A Solution to Kant’s Antinomy of Mechanism and Teleology,” _British Journal for the History of Philosophy_, 16: 351–369.
+* –––, 2018, “Laws and ideal unity,” in W. Ott and L. Patton (eds.), _Laws of Nature_, Oxford University Press, pp. 108–21.
+* Brittan, G., 1978, Kant’s Theory of Sci_ence_, Princeton: Princeton University Press.
+* –––, 1995, “The Continuity of Matter,” in _Proceedings of the Eighth International Kant Congress_, H. Robinson (ed.), Milwaukee: Marquette University Press, vol. I/2, pp. 611–18.
+* Buchdahl, G., 1969, _Metaphysics and the Philosophy of Science_, Cambridge: Belknap Press.
+* –––, 1986, “Kant’s ‘Special Metaphysics’ and _The Metaphysical Foundations of Natural Science_,” in _Kant’s Philosophy of Physical Science_, R. Butts (ed.), Dordrecht: D. Reidel, pp. 127–61.
+* –––, 1992, _Kant and the Dynamics of Reason_, Oxford: Blackwell.
+* Butts, R., 1986, “The Methodological Structure of Kant’s Metaphysics of Science,” in _Kant’s Philosophy of Physical Science_, R. Butts (ed.), Dordrecht: D. Reidel, pp. 163–99.
+* –––, 1986, (ed.), _Kant’s Philosophy of Physical Science_, Dordrecht: D. Reidel.
+* Carrier, M., 1990, “Kants Theorie der Materie und ihre Wirkung auf die zeitgenössische Chemie,” _Kant-Studien_, 81: 170–210.
+* –––, 1992, “Kant’s Relational Theory of Absolute Space,” _Kant-Studien_, 83: 399–416.
+* –––, 2001, “Kant’s Theory of Matter and His Views on Chemistry,” in _Kant and the Sciences_, E. Watkins (ed.), Oxford University Press, pp. 205–30.
+* Cohen, A, 2004, “Kant’s Antinomy of Reflective Judgment: A Re-evaluation,” _Theorema_, 23: 183–97.
+* Cooper, A., 2023, “Hypotheses in Kant’s philosophy of science,” _Studies in History and Philosophy of Science_ 99: 97–105.
+* Cramer, K., 1985, _Nicht-reine synthetische Urteile a priori. Ein Problem der Transzendentalphilosophie Immanuel Kants_, Heidelberg: Winter.
+* Demarest, B., and  H. van den Berg, 2022, “Kant’s theory of scientific hypotheses in its historical context,” _Studies in History and Philosophy of Science_, 92: 12–19.
+* Edwards, J., 2000, _Substance, Force, and the Possibility of Knowledge: On Kant’s Philosophy of Material Nature_, University of California Press.
+* Emundts, D., 2004, _Kants Übergangskonzeption im Opus postumum_, Berlin: De Gruyter.
+* Engelhard, K., 2005, _Das Einfache und die Materie_, Berlin: De Gruyter.
+* –––, 2011, _Empirische Naturgesetze bei Kant_, Brill.
+* –––, 2018, “The problem of grounding natural modality in Kant’s account of empirical laws of nature,” _Studies in History and Philosophy of Science_, 71: 24–34.
+* Förster, E., 2000, _Kant’s Final Synthesis: An Essay on the Opus postumum_, Cambridge: Harvard University Press.
+* –––, 2008, “Von der Eigentümlichkeit unseres Verstandes in Ansehung der Urteilskraft (§§ 74–78),” _Immanuel Kant: Kritik der Urteilskraft_, eds. O. Höeffe and I. Goy, Akademie Verlag, pp. 259–74.
+* Friedman, M., 1990, “Kant and Newton: Why Gravity is Essential to Matter,” in _Philosophical Perspectives on Newtonian Science_, P. Bricker and R.I.G. Hughes (eds.), MIT Press, pp. 185–202.
+* –––, 1992, _Kant and the Exact Sciences_, Harvard University Press.
+* –––, 2001, “Matter and Motion in the _Metaphysical Foundations_ and the First _Critique,_” in _Kant and the Sciences_, E. Watkins (ed.), Oxford University Press, pp. 53–69.
+* –––, 2002, “Kant on Science and Experience,” in _Kant und die Berliner Aufklärung_, V. Gerhardt, R.-P. Horstmann, and R. Schumacher (eds.), De Gruyter, Vol. I, pp. 233–45.
+* –––, 2012, “Newton and Kant: Quantity of matter in the _Metaphysical Foundations of Natural Science_,” _Southern Journal of Philosophy_, 50: 482–503.
+* –––, 2013, _Kant’s Construction of Nature: A Reading of the_ Metaphysical Foundations of Natural Science, Cambridge University Press.
+* Ginsborg, H., 2001, “Kant on Understanding Organisms as Natural Purposes,” _Kant and the Sciences_, E. Watkins (ed.), Oxford University Press, pp. 231–58.
+* –––, 2004, “Two Kinds of Mechanical Inexplicability in Kant and Aristotle,” _Journal of the History of Philosophy_, 42: 33–65.
+* Goy, I. and Watkins, E., eds., 2014, _Kant’s Theory of Biology_, Berlin: de Gruyter.
+* Guyer, P., 2001, “Organisms and the Unity of Science,” in _Kant and the Sciences_, E. Watkins (ed.), Oxford University Press, pp. 259–81.
+* Hall, B., 2006, “A Reconstruction of Kant’s Ether Deduction in _Übergang 11_,” _British Journal for the History of Philosophy_, 14: 719–46.
+* –––, 2009, “‘_Effecting a Transition_’: How to Fill the Gap in Kant’s System of Critical Philosophy,” _Kant-Studien_, 100: 187–211.
+* Harman, P., 1982, _Metaphysics and Natural Philosophy_, Harvester Press.
+* Hatfield, G., 1990, _The natural and the normative: theories of spatial perception from Kant to Helmholtz_, MIT Press.
+* –––, 1992, “Empirical, rational, and transcendental psychology,” in _The Cambridge Companion to Kant_, ed. P. Guyer, Cambridge University Press, pp. 200–27.
+* Holden, Th., 2004, _The Architecture of Matter: Galileo to Kant_, Oxford University Press.
+* Hoppe, H., 1969, _Kants Theorie der Physik. Eine Untersuchung über das Opus postumum von Kant_, Frankfurt: Klostermann.
+* Howard, S., 2023, _Kant’s Late Philosophy of Nature_, Cambridge University Press.
+* Kitcher, P., 1990, _Kant’s Transcendental Psychology_, Oxford University Press.
+* Kitcher, Ph., 1983, “Kant’s Philosophy of Science,” in _Midwest Studies in Philosophy VIII_, P. French, T. Uehling, and H. Wettstein (eds.), University of Minnesota Press, pp. 387–408.
+* –––, 1986, “Projecting the order of nature,” in _Kant’s Philosophy of Physical Science_, R. Butts (ed.), D. Reidel, pp. 231–35.
+* Kleingeld, P., 1995, _Fortschritt und Vernunft: Zur Geschichtsphilosophie Kants_, Würzburg: Königshausen and Neumann.
+* –––, 1999, “Kant, History, and the Idea of Moral Development,” _History of Philosophy Quarterly_, 16: 59–80.
+* Kraus, K., 2016, “Quantifying inner experience?—Kant’s mathematical principles in the context of empirical psychology,” _European Journal of Philosophy_, 24: 331–57.
+* Kreines, J., 2005, “The Inexplicability of Kant’s _Naturzweck_,” _Archiv für Geschichte der Philosophie_, 87: 270–311.
+* –––, 2017, “Kant on the laws of nature: restrictive inflationism and its philosophical advantages,” _The Monist_, 100: 326–41.
+* Kuehn, M., 2001, “Kant’s Teachers in the Exact Sciences,” in _Kant and the Sciences_, E. Watkins (ed.), Oxford University Press, pp. 11–30.
+* Laywine, A., 1993, _Kant’s Early Metaphysics and the Origins of the Critical Philosophy_, Atascadero: Ridgeview.
+* Leduc, Chr., 2013, “Les critères kantiens de validité de l’hypothèse physique,” _Akten des XI. Kant-Kongresses 2010_, M. Ruffing et al. (eds.), De Gruyter. pp. 125–38.
+* Lefevre, W., and Wunderlich, F., 2000, _Kants naturtheoretische Begriffe (1747–1780)_, Berlin: De Gruyter.
+* –––, 2001, (ed.) _Between Leibniz, Newton and Kant: Philosophy and Science in the 18th Century_, Dordrecht: Kluwer.
+* Lequan, M., 2000. _La chimie selon Kant_, Paris: Presses Universitaires de France.
+* Makkreel, R., 2001, “Kant on the Scientific Status of Psychology, Anthropology, and History,” in _Kant and the Sciences_, E. Watkins (ed.), Oxford University Press, pp. 185–201.
+* Malzkorn, W., 1998, “Kant über die Teilbarkeit der Materie,” _Kant-Studien_, 89: 385–409.
+* Massimi, M. 2017, “Grounds, modality, and nomic necessity in the Critical Kant,” in _Kant and the Laws of Nature_, M. Massimi and A. Breitenbach (eds.), Cambridge University Press, pp. 150–70.
+* McLaughlin, P., 1990, _Kant’s Critique of Teleology in Biological Explanation_, Lewiston, NY: Edwin Mellen Press.
+* McNulty, M.B., 2014, “Kant on chemistry and the application of mathematics in natural science,” _Kantian Review_, 19: 393–418.
+* –––, 2015, “Rehabilitating the regulative use of reason: Kant on empirical and chemical laws,” _Studies in History and Philosophy of Science_, 54: 1–10.
+* –––, 2016, “Chemistry in Kant’s Opus postumum,” _HOPOS: The Journal of the International Society for the History of Philosophy of Science_, 6: 64–95.
+* –––, 2018, “Kant on empirical psychology and experimentation,” in _Akten des XII. Internationalen Kant-Kongresses_, V. Waibel, M. Ruffing & D. Wagner (eds.), De Gruyter, pp. 2707–14.
+* –––, (ed.), 2022, _Kant’s_ Metaphysical Foundations of Natural Science: _A Critical Guide_, Cambridge University Press.
+* Messina, J. 2017, “Kant’s necessitation account of laws and the nature of natures,” in _Kant and the Laws of Nature_, M. Massimi and A. Breitenbach (eds.), Cambridge University Press, pp. 131–49.
+* Parsons, C., 1984, “Remarks on Pure Natural Science,” in _Self and Nature in Kant’s Philosophy_, A. Wood (ed.), Ithaca: Cornell University Press, pp. 216–27.
+* Plaass, P., 1994, _Kant’s Theory of Natural Science_, A. Miller and M. Miller (translators), Dordrecht: Kluwer, 1994.
+* Pollok, K., 2001, _Kants ‘Metaphysische Anfangsgründe der Naturwissenschaft’. Ein kritischer Kommentar_, Hamburg: Felix Meiner Verlag.
+* –––, 2002, “Fabricating a World in Accordance with Mere Fantasy...? The Origins of Kant’s Critical Theory of Matter,” _Review of Metaphysics_, 56: 61–97.
+* Quarfood, M., 2004, _Transcendental Idealism and the Organism_, Stockholm: Almqvist & Wiksell.
+* Schäfer, L., 1966, _Kants Metaphysik der Natur_, Berlin: De Gruyter.
+* Schönfeld, M., 2000, _The Philosophy of the Young Kant: The Precritical Project_, New York: Oxford University Press.
+* Smith, S., 2013, “Kant’s Picture of Monads in the _Physical Monadology_,” _Studies in History and Philosophy of Science_, 44: 102–11.
+* Stan, M., 2013, “Kant’s Third Law of Mechanics: the Long Shadow of Leibniz,” _Studies in History and Philosophy of Science_, 44: 493–504.
+* –––, 2014, “Unity for Kant’s Natural Philosophy,”_Philosophy of Science_, 81(3): 423–43.
+* –––, forthcoming, _Kant’s Natural Philosophy_, Cambridge University Press.
+* Steigerwald, J., 2006, “Kant’s Concept of Natural Purpose and the Reflecting Power of Judgement,” _Studies in History and Philosophy of Science_ (Part C), 37: 712–34.
+* Teufel, Th., 2011, “What Is the Problem of Teleology in Kant’s Critique of the Teleological Power of Judgment?,” _SATS: Northern European Journal of Philosophy_, 12(2): 198–236.
+* Sturm, T., 2001, “Kant on Empirical Psychology: How Not to Investigate the Human Mind,” in _Kant and the Sciences_, E. Watkins (ed.), New York: Oxford University Press, pp. 163–84.
+* –––, 2009, _Kant und die Wissenschaften vom Menschen_, Paderborn: Mentis.
+* Tuschling, B., 1971, _Metaphysische und Transzendentale Dynamik in Kants Opus postumum_, Berlin: De Gruyter.
+* Van den Berg, H., 2014, _Kant on Proper Science_, Dordrecht: Springer.
+* Vanzo, A., 2013, “Kant on experiment,” in _Rationis Defensor_, James Maclaurin (ed.), Springer, pp. 75–96.
+* Walker, R.C.S., 1974, “The Status of Kant’s Theory of Matter”, in _Kant’s Theory of Knowledge_, L.W. Beck (ed.), Dordrecht: Reidel, pp. 151–56.
+* Warren, D., 2001, _Reality and Impenetrability in Kant’s Philosophy of Nature_, London: Routledge.
+* –––, 2010, “Kant on Attractive and Repulsive Forces: the Balancing Argument,” in M. Domski and M. Dickson (eds.), _Discourse on a New Method_, LaSalle, Ill.: Open Court, pp. 193–242.
+* Watkins, E., 1997, “The Laws of Motion from Newton to Kant,” _Perspectives on Science_, 5: 311–48.
+* –––, 1998a, “The Argumentative Structure of Kant’s _Metaphysical Foundations of Natural Science_,” _Journal of the History of Philosophy_, 36: 567–93.
+* –––, 1998b, “Kant’s Justification of the Laws of Mechanics,” in _Studies in History and Philosophy of Science_, 29: 539–60.
+* –––, 2001, (ed.), _Kant and the Sciences_, Oxford University Press.
+* –––, 2001, “Kant on Force and Extension: Critical Appropriations of Leibniz and Newton,” in _Between Leibniz, Newton and Kant: Philosophy and Science in the 18th Century_, W. Lefevre (ed.), Dordrecht: Kluwer, pp. 111–27.
+* –––, 2003, “Forces and Causes in Kant’s Early Pre-Critical Writings,” _Studies in History and Philosophy of Science_, 33: 5–27.
+* –––, 2006, “On the Necessity and Nature of Simples: Leibniz, Wolff, Baumgarten, and the pre-Critical Kant,” _Oxford Studies in Early Modern Philosophy_, 3: 261–314.
+* –––, 2009, “The Antinomy of Teleological Judgment,” _Kant Yearbook_, 1: 197–221.
+* –––, 2013, “The early Kant’s (anti-)Newtonianism,” _Studies in History and Philosophy of Science_, 44: 429–37.
+* –––, 2019, _Kant on Laws_, Cambridge University Press.
+* Westphal, K., 1995, “Does Kant’s _Metaphysical Foundations of Natural Science_, fill a gap in the _Critique of Pure Reason_?,” _Synthese_, 103: 43–86.
+* Wood, A., 1999, _Kant’s Ethical Thought_, New York: Cambridge University Press.
+* Zanetti, V., 1993, “Die Antinomie der teleologischen Urteilskraft,” _Kant-Studien_, 83: 341–355.
+* Zumbach, C., 1984, _The Transcendent Science_, The Hague: Martinus Nijhoff.
+* Yovel, Y., 1980, _Kant and the Philosophy of History_, Princeton: Princeton University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-science). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/kant-science/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=kant-science&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/kant-science/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-science).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/kant-science/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=kant-science\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/kant-science/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [North American Kant Society](http://www.northamericankantsociety.org/).
-* [Kant Forschungstelle](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/).
-* [Kants naturtheoretische Begriffe](https://knb.mpiwg-berlin.mpg.de/kant/info/index_en.html) (in German), a database for their explicit and implicit connections.
+* [Kant Forschungstelle](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs\_kant/).
+* [Kants naturtheoretische Begriffe](https://knb.mpiwg-berlin.mpg.de/kant/info/index\_en.html) (in German), a database for their explicit and implicit connections.
 
 ## Related Entries
 
-[Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Kant, Immanuel: philosophical development](https://plato.stanford.edu/entries/kant-development/) | [Kant, Immanuel: view of mind and consciousness of self](https://plato.stanford.edu/entries/kant-mind/) | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/)
+[Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Kant, Immanuel: philosophical development](https://plato.stanford.edu/entries/kant-development/) | [Kant, Immanuel: view of mind and consciousness of self](https://plato.stanford.edu/entries/kant-mind/) | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Eric Watkins](http://philosophy.ucsd.edu/faculty/ewatkins/) <[*ewatkins@ucsd.edu*](mailto:ewatkins%40ucsd%2eedu)>  
-Marius Stan <[*marius.c.stan@gmail.com*](mailto:marius%2ec%2estan%40gmail%2ecom)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Eric Watkins](http://philosophy.ucsd.edu/faculty/ewatkins/) <[_ewatkins@ucsd.edu_](mailto:ewatkins%40ucsd%2eedu)>\
+Marius Stan <[_marius.c.stan@gmail.com_](mailto:marius%2ec%2estan%40gmail%2ecom)>

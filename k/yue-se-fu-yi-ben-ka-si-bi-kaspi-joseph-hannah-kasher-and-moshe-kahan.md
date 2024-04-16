@@ -1,22 +1,22 @@
-# 约瑟夫·伊本·卡斯比
+# 约瑟夫·伊本·卡斯比 Kaspi, Joseph (Hannah Kasher and Moshe Kahan)
 
-*首次发表于2006年6月6日；实质性修订于2023年4月10日*
+_首次发表于2006年6月6日；实质性修订于2023年4月10日_
 
 哈里·A·沃尔夫森曾将中世纪哲学描述为“为圣经服务的哲学”（菲洛，II，p. 439）。从形式上看，创造了一种新的文体：“从现在开始，哲学文献中出现了一种新的表达形式，即对某些经文的讲道或对某些经书的逐字注释”（p. 444）。约瑟夫·伊本·卡斯比完美地诠释了中世纪哲学家的这一特征。他写了大约三十部作品，致力于解释圣经，其中哲学作为一种方法和哲学结论的概要，是圣经作者想要传达给读者的。卡斯比的一些作品致力于逻辑学和语言学作为适用于圣经解释的方法；另一些是对圣经书的注释，或者是超注释，他还写过一些关于神学的作品。这个庞大的工作中，只有一部分被出版；还有很多以手稿形式存在，而且似乎还有一些已经失落了。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/kaspi-joseph/#Life)
-* [ 2. 解经](https://plato.stanford.edu/entries/kaspi-joseph/#Exeg)
-* [ 3. 逻辑](https://plato.stanford.edu/entries/kaspi-joseph/#Logi)
+* [1. 生平](https://plato.stanford.edu/entries/kaspi-joseph/#Life)
+* [2. 解经](https://plato.stanford.edu/entries/kaspi-joseph/#Exeg)
+* [3. 逻辑](https://plato.stanford.edu/entries/kaspi-joseph/#Logi)
 * [4. 逻辑与希伯来语言](https://plato.stanford.edu/entries/kaspi-joseph/#LogiHebrLang)
 * [5. 词典编纂方法中的哲学原则](https://plato.stanford.edu/entries/kaspi-joseph/#PhilPrinLexiMeth)
 * [6. 神学和人类学](https://plato.stanford.edu/entries/kaspi-joseph/#TheoAnth)
-* [ 6. 结论](https://plato.stanford.edu/entries/kaspi-joseph/#Conc)
-* [ 参考书目](https://plato.stanford.edu/entries/kaspi-joseph/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/kaspi-joseph/#Aca)
+* [6. 结论](https://plato.stanford.edu/entries/kaspi-joseph/#Conc)
+* [参考书目](https://plato.stanford.edu/entries/kaspi-joseph/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/kaspi-joseph/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/kaspi-joseph/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kaspi-joseph/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/kaspi-joseph/#Rel)
 
----
+***
 
 ## 1. 生活
 
@@ -41,7 +41,7 @@
 
 因此，理解作者的意图被视为一种预言（“无论我是否预言意图…”）。卡斯比坚持认为，他的解释真理与作者及其意图无关，而与读者及其理解有关：评论家只能代表自己。这种解释是主观的，取决于作品的无数读者。然而，卡斯比有时对作者的意思相当有把握：
 
-> 我已经向你揭示了主向我们透露的神秘之事，因为我认为我们已经在这一章节中达到了作者的意图；正如亚里士多德所说的，“真理是自己的证人，在每个方面都是一致的。” “在每个方面都是一致的” 的意思是他解释的那样，“其中一个方面证明了[另一个]方面…”… 现在我们尊敬的圣贤们已经说过，“真理之言是可以辨认的” [巴比伦塔木德，索塔 9b]（《银的净化》第 83 页）。
+> 我已经向你揭示了主向我们透露的神秘之事，因为我认为我们已经在这一章节中达到了作者的意图；正如亚里士多德所说的，“真理是自己的证人，在每个方面都是一致的。” “在每个方面都是一致的” 的意思是他解释的那样，“其中一个方面证明了\[另一个]方面…”… 现在我们尊敬的圣贤们已经说过，“真理之言是可以辨认的” \[巴比伦塔木德，索塔 9b]（《银的净化》第 83 页）。
 
 在这里，卡斯比大胆地暗示上帝以某种方式告知他隐藏在文本中的秘密。他确定的标准是连贯性。然而，根据卡斯比自己的神学（见下文），他并不声称接受了超自然的启示。尽管有人认为他对亚里士多德哲学的坚定奉行是激进的，但卡斯比对有关圣经的书面文字及其阅读方式的一切都持保守态度。他坚持认为，自第二圣殿时期的早期圣贤以来，书面文字或其阅读方式并没有发生变化。犹太人书写《托拉》卷轴的方式与原始版本相同。今天的《托拉》卷轴上所见的方形亚述字母与西奈山上给摩西的字母相同。甚至包括每周的部分在内的五卷书的划分都是来自第二圣殿时期的早期圣贤。卡斯比区分了第二圣殿时期的早期圣贤（他们持有从摩西那里传下来的传统，因此反映了《托拉》作者的意图）和后来的圣贤，即拉宾尼克文献中的塔纳伊姆和阿莫拉伊姆，如果他们的对圣经叙述的解释与圣经的明确解释不一致，那么这些解释是可以争议的。
 
@@ -71,7 +71,7 @@
 1. 没有真正的同音词。卡斯比确定了共同分母的先验原则，这是一种逻辑经济原则，根据这个原则，词根具有一个主要含义，包括所有从同一词根派生的词。然而，在某些情况下，他被迫使数据适应这个原则。例如，根词 l-ch-m 表示“对立和抵抗”，从中派生了希伯来语中表示“战争”（milchamah）和“面包”（lechem）的词。他解释了在“面包”中使用这个词根的原因，根据亚里士多德在《论灵魂》416 中的命题：“食物是…被喂养的事物的对立面。”卡斯比对于任何人对这个原则的异议感到惊讶：“因为一个人怎么能认为语言的创造者，他们是伟大的学者，会用一个名词…来表示如此无关的事物”（《夏洛特·凯瑟夫》, Last 编辑，第 29 页）。
 2. 没有绝对的同义词。卡斯比声称希伯来语没有绝对的同义词，他在整个词典中努力区分同义词。
 
-一般来说，当代语言学区分两种关键的意义差异：（a）词指称之间的差异，其中每个同义词被不同地指定：数量上的差异- rekhev vs. mekhonith（机动车 vs. 汽车）；质量上的差异- shikor vs. mevusam（醉酒 vs. 微醺）；（b）语言的不同层次或层次之间的差异（layish vs. *aryeh/* lion）。
+一般来说，当代语言学区分两种关键的意义差异：（a）词指称之间的差异，其中每个同义词被不同地指定：数量上的差异- rekhev vs. mekhonith（机动车 vs. 汽车）；质量上的差异- shikor vs. mevusam（醉酒 vs. 微醺）；（b）语言的不同层次或层次之间的差异（layish vs. _aryeh/_ lion）。
 
 卡斯比还坚持在同义词中区分出一种额外的差异类型，认为只有一个指称物，即使指称物也没有区别。单词之间的差异体现在它们强调的指称物的方面上。例如，卡斯比解释说，单词ḥerev、sakkin、maakheleth和shelaḥ（标枪）并不是同义词，因为每个词指称了物体的不同方面。卡斯比认为，所有这些物体都是切割工具：刀子。其中一个被称为ḥerev，是因为它证明了被它击中的人的毁灭（ḥurban）；sakkin指明了被击中的受害者处于危险之中，然后与生物分离（根据卡斯比对samekh-kaf-nun词根的解释）。有启发性的词maakhelet告诉我们，被击中的人被屠宰、消耗（neekhal）、终结等等。因此，ḥerev、sakkin、maakhelet和shelaḥ这些词指称的是同一类型的工具，即切割工具。不同的词指示和描述了关于指称物的不同现象，但它们并不是同义词。
 
@@ -87,7 +87,7 @@
 
 卡斯比以尽可能自然的方式解释了上帝与世界之间的关系。他同意亚里士多德和柏拉图所持的观点，即世界并非在某个特定时刻从虚无中创造出来，他认为这也是孟子的观点。在这种精神下，卡斯比自己提出了对《创世纪》中所描述的创造的系统性解释。
 
-卡斯比也以完全自然主义的方式理解上帝对世界的持续关怀。他将圣经中的奇迹解释为罕见但自然的现象，这个观点与斯宾诺莎的教义相似。卡斯比写道，说某种现象违反自然法则是一种主观判断，“因为毫无疑问，那些对自然科学一无所知的人认为许多自然现象是奇迹，而不是自然现象”（《Tirat Kesef》，第 12 页）。这与斯宾诺莎在他的《神学政治论文》（第 6 章）中的观点相似：“[由于奇迹是根据群众的理解而产生的，而群众完全不了解自然的运作]，我们不容置疑地认为，圣经中记载的许多事物的原因可以轻松地通过参考已经确立的自然运作来解释。”卡斯比还认为，智慧的先知能够通过广博的知识来进行奇迹。摩西，最聪明的人，之所以在埃及进行了奇迹，是因为“他获得了对天体的知识……因为他掌握了[四个亚月]元素的世界”（《Menorat Kesef》，第 93 页）。这种知识使他能够对埃及人施加灾祸：“摩西用这四个[元素]进行了其他任何[智者]无法做到的行动”（《箴言注释 B》，第 127 页）。
+卡斯比也以完全自然主义的方式理解上帝对世界的持续关怀。他将圣经中的奇迹解释为罕见但自然的现象，这个观点与斯宾诺莎的教义相似。卡斯比写道，说某种现象违反自然法则是一种主观判断，“因为毫无疑问，那些对自然科学一无所知的人认为许多自然现象是奇迹，而不是自然现象”（《Tirat Kesef》，第 12 页）。这与斯宾诺莎在他的《神学政治论文》（第 6 章）中的观点相似：“\[由于奇迹是根据群众的理解而产生的，而群众完全不了解自然的运作]，我们不容置疑地认为，圣经中记载的许多事物的原因可以轻松地通过参考已经确立的自然运作来解释。”卡斯比还认为，智慧的先知能够通过广博的知识来进行奇迹。摩西，最聪明的人，之所以在埃及进行了奇迹，是因为“他获得了对天体的知识……因为他掌握了\[四个亚月]元素的世界”（《Menorat Kesef》，第 93 页）。这种知识使他能够对埃及人施加灾祸：“摩西用这四个\[元素]进行了其他任何\[智者]无法做到的行动”（《箴言注释 B》，第 127 页）。
 
 在讨论先知与智者之间的关系时，卡斯比赞同穆斯林思想家巴塔留西的观点，即具有先知灵魂的人在层次和本质上优于具有哲学灵魂的智者。然而，预言并不是超理性的现象。先知对未来的知识是基于演绎推理的，因为他或她对世界和自然因果关系的所有细节都非常熟悉。
 
@@ -113,96 +113,96 @@
 
 ### Kaspi’s works
 
-* *Adnei Kesef* or *Sefer ha-Mashal*, Commentary on the Prophetic books, ed. I. H. Last, pt. I, London 1911; pt. II, London 1912. The text is also being published anew in *Mikra’ot Gedolot ‘Haketer*’, ed. Menachem Hacohen, Jerusalem 1992 ff.
-* *Amudei Kesef*, Exoteric commentary on *The Guide of the perplexed*, in: *Amudei Kesef u-Maskiyot Kesef*, ed. S. A. Werbloner, Frankfurt a/M 1848.
-* Commentaries on the book of Job (two versions), in: *Asarah Kelei Kesef*, ed. I. H. Last, vol. I, Presburg 1903.
-* Commentaries on the book of Proverbs (two versions), in: *Asarah Kelei Kesef*, ed. I. H. Last, vol. I, Presburg 1903.
-* Commentary on Ibn Janach’s *Sefer ha-Rikmah*, lost.
-* Commentary on Maimonides’ *Milot ha-Higayon*, ed. H. Kasher and C. Manekin, “The Commentary of Joseph ibn *Kaspi* to the ‘Logical Terms’ of Maimonides”, in *Tarbiz*, 78:3 (2009), pp. 383–398.
-* Commentary on the Song of Songs, in: *Asarah Kelei Kesef*, ed. I. H. Last, vol. I, Presburg 1903.
-* *Gelilei Kesef*, Commentary on the book of Esther, in: *Asarah Kelei Kesef*, ed. I. H. Last, vol. II, Presburg 1903.
-* *Gevia‘ ha-Kesef*, Treatise on esoteric topics in the book of Genesis, with English translation, ed. B. E. Herring, New York 1982.
-* *Ḥagorat Kesef*, Commentary on the books of Ezra, Nehemiah, and Chronicles, in: *Asarah Kelei Kesef*, ed. I. H. Last, vol. II, Presburg 1903.
-* *Ḥatsotserot Kesef*, Commentary on the book of Ecclesiastes, in: *Asarah Kelei Kesef*, ed. I. H. Last, vol. I, Presburg 1903.
-* *Kapot Kesef*, Commentaries on the books of Ruth and Lamentations, in: *Asarah Kelei Kesef*, ed. I. H. Last, vol. II, Presburg 1903.
-* *Ke‘arot Kesef*, Commentary on the book of Daniel, lost.
-* *Kesef Sigim*, 110 questions on the Bible, lost.
-* *Kevutsat Kesef* (two versions): Version A, in: *Asarah Kelei Kesef*, ed. I. H. Last, vol. I, Presburg 1903; Version B, in E. Renan, *Les écrivains juifs français du XIVe siècle*, Paris 1983, pp. 131–201.
-* *Kipurei Kesef*, Critique of earlier Bible commentaries, lost.
-* *Maskiyot Kesef*, Esoteric commentary on *The Guide of the Perplexed*, in: *Amudei Kesef u-Maskiyot Kesef*, ed. S. A. Werbloner, Frankfurt a/M 1848.
-* *Menorat Kesef*, in: *Asarah Kelei Kesef*, ed. I. H. Last, vol. II, Presburg 1903.
-* *Mazmerot Kesef*, Commentary on the book of Psalms, lost.
-* *Matsref la-Kesef*, Systematic commentary on the Torah, ed. I. H. Last, Krakow 1906.
-* *Mitot Kesef*, Treatise on the intentions of the Bible, lost.
-* *Mizrak la-Kesef*, Treatise on Creation, lost.
-* *Parashat Kesef*, Supercommentary on Ibn Ezra, unpublished, Ms. Vatican 151.
-* *Retukot Kesef*, Principles of linguistics, Ms. Rome-Angelica 60.
-* *Sharshot Kesef*, Dictionary of Hebrew roots, Ms. Rome-Angelica. Part published by I. H. Last, *JQR* 1907, pp. 651–687.
-* *Shulchan Kesef*, Five exegetical and theological essays, ed. H. Kasher, Jerusalem 1996.
-* *Tam ha-Kesef*, Eight theological essays, ed. I. H. Last, London 1913.
-* *Terumat Kesef*, Brief treatise on ethics and politics, Ms. Wien 161. Part published by E. Z. Berman, *The Hebrew Versions of the Fourth Book of Averro‘s’ Middle Commentary on the Nicomedean Ethics*, Jerusalem 1981 (Hebrew).
-* *Tirat Kesef* or *Sefer ha-Sod*, Brief commentary on the Torah, ed. I. H. Last, Presburg 1905.
-* *Yoreh De‘ah*, Ethical treatise, with English translation, in: I. Abrahams (ed.), *Hebrew Ethical wills*, Philadelphia 1926, vol. I, pp. 127–161.
-* Ẓe*ror ha-Kesef*, Brief treatise on logic, unpublished, Ms. Vatican 183 and 27 other mss. Section on fallacies edited by S. Rosenberg in *Iyyun* 32 (1984), pp. 275–295.
+* _Adnei Kesef_ or _Sefer ha-Mashal_, Commentary on the Prophetic books, ed. I. H. Last, pt. I, London 1911; pt. II, London 1912. The text is also being published anew in _Mikra’ot Gedolot ‘Haketer_’, ed. Menachem Hacohen, Jerusalem 1992 ff.
+* _Amudei Kesef_, Exoteric commentary on _The Guide of the perplexed_, in: _Amudei Kesef u-Maskiyot Kesef_, ed. S. A. Werbloner, Frankfurt a/M 1848.
+* Commentaries on the book of Job (two versions), in: _Asarah Kelei Kesef_, ed. I. H. Last, vol. I, Presburg 1903.
+* Commentaries on the book of Proverbs (two versions), in: _Asarah Kelei Kesef_, ed. I. H. Last, vol. I, Presburg 1903.
+* Commentary on Ibn Janach’s _Sefer ha-Rikmah_, lost.
+* Commentary on Maimonides’ _Milot ha-Higayon_, ed. H. Kasher and C. Manekin, “The Commentary of Joseph ibn _Kaspi_ to the ‘Logical Terms’ of Maimonides”, in _Tarbiz_, 78:3 (2009), pp. 383–398.
+* Commentary on the Song of Songs, in: _Asarah Kelei Kesef_, ed. I. H. Last, vol. I, Presburg 1903.
+* _Gelilei Kesef_, Commentary on the book of Esther, in: _Asarah Kelei Kesef_, ed. I. H. Last, vol. II, Presburg 1903.
+* _Gevia‘ ha-Kesef_, Treatise on esoteric topics in the book of Genesis, with English translation, ed. B. E. Herring, New York 1982.
+* _Ḥagorat Kesef_, Commentary on the books of Ezra, Nehemiah, and Chronicles, in: _Asarah Kelei Kesef_, ed. I. H. Last, vol. II, Presburg 1903.
+* _Ḥatsotserot Kesef_, Commentary on the book of Ecclesiastes, in: _Asarah Kelei Kesef_, ed. I. H. Last, vol. I, Presburg 1903.
+* _Kapot Kesef_, Commentaries on the books of Ruth and Lamentations, in: _Asarah Kelei Kesef_, ed. I. H. Last, vol. II, Presburg 1903.
+* _Ke‘arot Kesef_, Commentary on the book of Daniel, lost.
+* _Kesef Sigim_, 110 questions on the Bible, lost.
+* _Kevutsat Kesef_ (two versions): Version A, in: _Asarah Kelei Kesef_, ed. I. H. Last, vol. I, Presburg 1903; Version B, in E. Renan, _Les écrivains juifs français du XIVe siècle_, Paris 1983, pp. 131–201.
+* _Kipurei Kesef_, Critique of earlier Bible commentaries, lost.
+* _Maskiyot Kesef_, Esoteric commentary on _The Guide of the Perplexed_, in: _Amudei Kesef u-Maskiyot Kesef_, ed. S. A. Werbloner, Frankfurt a/M 1848.
+* _Menorat Kesef_, in: _Asarah Kelei Kesef_, ed. I. H. Last, vol. II, Presburg 1903.
+* _Mazmerot Kesef_, Commentary on the book of Psalms, lost.
+* _Matsref la-Kesef_, Systematic commentary on the Torah, ed. I. H. Last, Krakow 1906.
+* _Mitot Kesef_, Treatise on the intentions of the Bible, lost.
+* _Mizrak la-Kesef_, Treatise on Creation, lost.
+* _Parashat Kesef_, Supercommentary on Ibn Ezra, unpublished, Ms. Vatican 151.
+* _Retukot Kesef_, Principles of linguistics, Ms. Rome-Angelica 60.
+* _Sharshot Kesef_, Dictionary of Hebrew roots, Ms. Rome-Angelica. Part published by I. H. Last, _JQR_ 1907, pp. 651–687.
+* _Shulchan Kesef_, Five exegetical and theological essays, ed. H. Kasher, Jerusalem 1996.
+* _Tam ha-Kesef_, Eight theological essays, ed. I. H. Last, London 1913.
+* _Terumat Kesef_, Brief treatise on ethics and politics, Ms. Wien 161. Part published by E. Z. Berman, _The Hebrew Versions of the Fourth Book of Averro‘s’ Middle Commentary on the Nicomedean Ethics_, Jerusalem 1981 (Hebrew).
+* _Tirat Kesef_ or _Sefer ha-Sod_, Brief commentary on the Torah, ed. I. H. Last, Presburg 1905.
+* _Yoreh De‘ah_, Ethical treatise, with English translation, in: I. Abrahams (ed.), _Hebrew Ethical wills_, Philadelphia 1926, vol. I, pp. 127–161.
+* Ẓe_ror ha-Kesef_, Brief treatise on logic, unpublished, Ms. Vatican 183 and 27 other mss. Section on fallacies edited by S. Rosenberg in _Iyyun_ 32 (1984), pp. 275–295.
 
 ### Secondary Sources
 
-* Aslanov, C., 2000, “De la lexicographie hébraïque à la sémantique générale; la pensée sémantique de Caspi d’après le ‘Sefer Sarsot ha-Kesef’”, *Helmantica*, 154: 75–120.
-* –––, 2002, “How much Arabic did Joseph Kaspi know?”, *Aleph*, 2, pp. 259–269.
-* –––, 2002, “L’ aristotélisme medieval au service du commentaire littéral; de cas de Joseph Caspi”, *Revue des Etudies juives*, 161: 123–137.
-* –––, “Yosef Caspi entre Provenza y Sefarad”. *Hispania Judaica Bulletin*, 6: 33–42.
-* Bacher, W., 1912, “Ioseph Ibn Kaspi als Bibelerklarer”, *Festschrift zu Herman Cohens siebzigsten geburstag*, Berlin: Cassirer, pp. 119–135.
-* Ben-Shalom, R., 2010, “An (Unwritten) Diary of Joseph Ibn Kaspi’s Journey to the East: Images and Orientalism”, in: *Pe’amim*, 124: 7–51. (Hebrew)
-* Dimant, I., 1979, *Exegesis, Philosophy and Language in the Writing of Joseph Ibn Caspi*, Ann Arbor: University Microfilms, (Dissertation: University of California/Los Angeles).
-* Efros I., 1938, *Maimonides’ Treatise on Logic*, New York.
-* Eisen, R., 2001, “Joseph Ibn Kaspi on the secret meaning of the Scroll of Esther”, *Revue des Etudies juives*, 160: 379–408.
-* –––, 2006, “Joseph ibn Kaspi on the Book of Job”, *Jewish Studies Quarterly*, 13: 50–86.
-* Finkelscherer, B., 1930, *Die Sprachwissenschaft des joseph Ibn Kaspi*, Göttingen: Dieterichsche Universitäts-Buchdruckerei.
-* Frank, U., 2022, *Linguistic and Biblical interpretation issues in the book ‘Retukot Kesef’ by Rabbi Yosef Kaspi* (Manuscript), Thesis, Ben-Gurion University of the Negev, Faculty of Humanities and Social Sciences, Department of Hebrew Language.
-* Goetschel, R., 1996, “Le Sacrifice d’Isaak dans le ‘Gebia Kesef’ de Joseph Ibn Kaspi”, *Pardes*, 22: 69–82.
-* Grossman, A., 2006, “A social Controversy in Biblical Commentaries of R. Joseph Ibn Caspi”, Hazan E. and Yahalom J. (Ed.), *Studies in Hebrew Poetry and Jewish Heritage*, Ramat Gan, pp. 103–124. (Hebrew)
-* Grossman, A., 2003, “Contempt for Women on Philosophical Grounds: Joseph Ibn Kaspi”, *Zion*, 88: 41–67. (Hebrew)
-* Herring, B., 1982, “Joseph ibn Kaspi’s *Gevia Kesef*”, New York: Ktav.
-* Kahan M. 2013, “Sharshot Kesef: Ibn Kaspi’s Hebrew Dictionary”, *Lešonenu*, 75: 251–265. (Hebrew)
-* –––, 2013, “Dictionarial Innovations in Joseph ibn Kaspi’s ‘Sharshot Kesef’ Dictionary”, *Mehkarim BeLashon*, 14–15: 133–162. (Hebrew)
-* –––, 2014, “The Precedence of Logic Over Grammar in Joseph ibn Kaspi’s Thought”. *Da’at*, 77: 81–93. (Hebrew)
-* –––, 2015, “Synonymy in Joseph ibn Kaspi’s Dictionary ‘Sharshot Kesef’”. *Balshanut Ivrit*, 69: 87–105. (Hebrew)
-* –––, 2015, “Homonymy and Polysemy in Medieval Lexicography—between Radak’s Sefer HaShorashim and Jonah Ibn Janāḥ’s Kitāb Al-Uṣūl”. *Leshonenu*, 77: 223–240. (Hebrew)
-* –––, 2016, “Joseph ibn Kaspi—New Biographical Data”, *Pe’amim*, 145: 143–166. (Hebrew)
-* –––, 2016, “Joseph Kaspi—from Arles to Majorca”, *Iberia Judaica*, VIII: 181–192.
-* –––, forthcoming, “Logic versus Grammar: Al-Farabi in 14th Century Provence”. *Pe’amim*. (Hebrew, accepted for publication)
-* Kasher, H., 1988, “Joseph Ibn Kaspi’s Aristotelian Interpretation, and Fundamentalist Interpretation of the book of Job”, *Daat*, 20: 117–126. (Hebrew)
-* –––, 1981, “Linguistic Solutions to Theological Problems in the Works of Josepf Ibn Kaspi”, in M. Hallamish and A. Kasher (ed.), *Religion and Language*, Tel Aviv: University Publising Projects, pp. 91–96.
-* –––, 2002, “On the Book of Esther as an allegory in the works of Joseph Ibn Kaspi, A Response to R. Eisen”, *Revue des Etudies juives*, 161: 459–464.
-* ––– (ed.), 1996, *Shulchan Kesef*, Jerusalem: Ben-Zvi Institute, Introduction, pp. 11–53 (Hebrew).
-* Kasher H. and Manekin C., 2009–2010, “The Commentary of Joseph ibn Kaspi to the Logical Terms of Maimonides”, *Tarbiz*, 78: 203–230. (Hebrew)
-* Manekin, C. 2008, “Ambiguities of scriptural exegesis: Joseph Ibn Kaspi on God’s foreknowledge”, *Philosophers and the Jewish Bible*, pp. 97–111
-* Mesch, B., 1982, “Principles of Judaism in Maimonides and Joseph Ibn Kaspi”, in *Mystics, Philosophers, and Politicians*, Durham: Duke University Press, pp. 85–98.
-* –––, 1975, *Studies in Joseph Ibn Caspi*, Leiden: Brill.
-* Pines, S., 1963, “The Resurrection of the Jewish State according to Ibn Caspi and Spinoza”, *Iyyun*, 14: 289–317. (Hebrew)
-* Renan, E., 1893, *Les écrivains juifs français des XIV siècle*, Paris: Imprimerie nationale, pp. 131–201.
-* Rosenberg, S., 1981, “Logic, Language and Exegesis of the Bible in the Works of Joseph Ibn Kaspi”, in M. Hallamish and A. Kasher (ed.), *Religion and Language*, Tel Aviv: University Publising Projects, pp. 104–113.
-* –––, 1983, “Joseph Ibn Kaspi: Sepher Ha-Hata’a (Sophhistical Refutation)”, *Iyyun*, 32: 275–295 (Hebrew).
-* Sackson A., 2017, *Joseph Ibn Kaspi: Portrait of a Hebrew Philosopher in Medieval Provence*, Brill.
-* Stroudze, H., 1962, “Les deux commentaires d’ibn Kaspi sur les Proverbs”, *Revue des Etudies juives*, 52: 71–76.
-* Twersky, I., 1979, “Joseph Ibn Kaspi – Portrait of a medieval Jewish Intellectual”, in. I. Twersky (ed.), *Studies in Medieval Jewish History and Literature*, Cambridge, MA: Isadore, pp. 231–257.
+* Aslanov, C., 2000, “De la lexicographie hébraïque à la sémantique générale; la pensée sémantique de Caspi d’après le ‘Sefer Sarsot ha-Kesef’”, _Helmantica_, 154: 75–120.
+* –––, 2002, “How much Arabic did Joseph Kaspi know?”, _Aleph_, 2, pp. 259–269.
+* –––, 2002, “L’ aristotélisme medieval au service du commentaire littéral; de cas de Joseph Caspi”, _Revue des Etudies juives_, 161: 123–137.
+* –––, “Yosef Caspi entre Provenza y Sefarad”. _Hispania Judaica Bulletin_, 6: 33–42.
+* Bacher, W., 1912, “Ioseph Ibn Kaspi als Bibelerklarer”, _Festschrift zu Herman Cohens siebzigsten geburstag_, Berlin: Cassirer, pp. 119–135.
+* Ben-Shalom, R., 2010, “An (Unwritten) Diary of Joseph Ibn Kaspi’s Journey to the East: Images and Orientalism”, in: _Pe’amim_, 124: 7–51. (Hebrew)
+* Dimant, I., 1979, _Exegesis, Philosophy and Language in the Writing of Joseph Ibn Caspi_, Ann Arbor: University Microfilms, (Dissertation: University of California/Los Angeles).
+* Efros I., 1938, _Maimonides’ Treatise on Logic_, New York.
+* Eisen, R., 2001, “Joseph Ibn Kaspi on the secret meaning of the Scroll of Esther”, _Revue des Etudies juives_, 160: 379–408.
+* –––, 2006, “Joseph ibn Kaspi on the Book of Job”, _Jewish Studies Quarterly_, 13: 50–86.
+* Finkelscherer, B., 1930, _Die Sprachwissenschaft des joseph Ibn Kaspi_, Göttingen: Dieterichsche Universitäts-Buchdruckerei.
+* Frank, U., 2022, _Linguistic and Biblical interpretation issues in the book ‘Retukot Kesef’ by Rabbi Yosef Kaspi_ (Manuscript), Thesis, Ben-Gurion University of the Negev, Faculty of Humanities and Social Sciences, Department of Hebrew Language.
+* Goetschel, R., 1996, “Le Sacrifice d’Isaak dans le ‘Gebia Kesef’ de Joseph Ibn Kaspi”, _Pardes_, 22: 69–82.
+* Grossman, A., 2006, “A social Controversy in Biblical Commentaries of R. Joseph Ibn Caspi”, Hazan E. and Yahalom J. (Ed.), _Studies in Hebrew Poetry and Jewish Heritage_, Ramat Gan, pp. 103–124. (Hebrew)
+* Grossman, A., 2003, “Contempt for Women on Philosophical Grounds: Joseph Ibn Kaspi”, _Zion_, 88: 41–67. (Hebrew)
+* Herring, B., 1982, “Joseph ibn Kaspi’s _Gevia Kesef_”, New York: Ktav.
+* Kahan M. 2013, “Sharshot Kesef: Ibn Kaspi’s Hebrew Dictionary”, _Lešonenu_, 75: 251–265. (Hebrew)
+* –––, 2013, “Dictionarial Innovations in Joseph ibn Kaspi’s ‘Sharshot Kesef’ Dictionary”, _Mehkarim BeLashon_, 14–15: 133–162. (Hebrew)
+* –––, 2014, “The Precedence of Logic Over Grammar in Joseph ibn Kaspi’s Thought”. _Da’at_, 77: 81–93. (Hebrew)
+* –––, 2015, “Synonymy in Joseph ibn Kaspi’s Dictionary ‘Sharshot Kesef’”. _Balshanut Ivrit_, 69: 87–105. (Hebrew)
+* –––, 2015, “Homonymy and Polysemy in Medieval Lexicography—between Radak’s Sefer HaShorashim and Jonah Ibn Janāḥ’s Kitāb Al-Uṣūl”. _Leshonenu_, 77: 223–240. (Hebrew)
+* –––, 2016, “Joseph ibn Kaspi—New Biographical Data”, _Pe’amim_, 145: 143–166. (Hebrew)
+* –––, 2016, “Joseph Kaspi—from Arles to Majorca”, _Iberia Judaica_, VIII: 181–192.
+* –––, forthcoming, “Logic versus Grammar: Al-Farabi in 14th Century Provence”. _Pe’amim_. (Hebrew, accepted for publication)
+* Kasher, H., 1988, “Joseph Ibn Kaspi’s Aristotelian Interpretation, and Fundamentalist Interpretation of the book of Job”, _Daat_, 20: 117–126. (Hebrew)
+* –––, 1981, “Linguistic Solutions to Theological Problems in the Works of Josepf Ibn Kaspi”, in M. Hallamish and A. Kasher (ed.), _Religion and Language_, Tel Aviv: University Publising Projects, pp. 91–96.
+* –––, 2002, “On the Book of Esther as an allegory in the works of Joseph Ibn Kaspi, A Response to R. Eisen”, _Revue des Etudies juives_, 161: 459–464.
+* ––– (ed.), 1996, _Shulchan Kesef_, Jerusalem: Ben-Zvi Institute, Introduction, pp. 11–53 (Hebrew).
+* Kasher H. and Manekin C., 2009–2010, “The Commentary of Joseph ibn Kaspi to the Logical Terms of Maimonides”, _Tarbiz_, 78: 203–230. (Hebrew)
+* Manekin, C. 2008, “Ambiguities of scriptural exegesis: Joseph Ibn Kaspi on God’s foreknowledge”, _Philosophers and the Jewish Bible_, pp. 97–111
+* Mesch, B., 1982, “Principles of Judaism in Maimonides and Joseph Ibn Kaspi”, in _Mystics, Philosophers, and Politicians_, Durham: Duke University Press, pp. 85–98.
+* –––, 1975, _Studies in Joseph Ibn Caspi_, Leiden: Brill.
+* Pines, S., 1963, “The Resurrection of the Jewish State according to Ibn Caspi and Spinoza”, _Iyyun_, 14: 289–317. (Hebrew)
+* Renan, E., 1893, _Les écrivains juifs français des XIV siècle_, Paris: Imprimerie nationale, pp. 131–201.
+* Rosenberg, S., 1981, “Logic, Language and Exegesis of the Bible in the Works of Joseph Ibn Kaspi”, in M. Hallamish and A. Kasher (ed.), _Religion and Language_, Tel Aviv: University Publising Projects, pp. 104–113.
+* –––, 1983, “Joseph Ibn Kaspi: Sepher Ha-Hata’a (Sophhistical Refutation)”, _Iyyun_, 32: 275–295 (Hebrew).
+* Sackson A., 2017, _Joseph Ibn Kaspi: Portrait of a Hebrew Philosopher in Medieval Provence_, Brill.
+* Stroudze, H., 1962, “Les deux commentaires d’ibn Kaspi sur les Proverbs”, _Revue des Etudies juives_, 52: 71–76.
+* Twersky, I., 1979, “Joseph Ibn Kaspi – Portrait of a medieval Jewish Intellectual”, in. I. Twersky (ed.), _Studies in Medieval Jewish History and Literature_, Cambridge, MA: Isadore, pp. 231–257.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kaspi-joseph). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/kaspi-joseph/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=kaspi-joseph&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/kaspi-joseph/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kaspi-joseph).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/kaspi-joseph/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=kaspi-joseph\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/kaspi-joseph/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Maimonides](https://plato.stanford.edu/entries/maimonides/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [Tibbon, Samuel Ibn](https://plato.stanford.edu/entries/tibbon/)
+[Maimonides](https://plato.stanford.edu/entries/maimonides/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [Tibbon, Samuel Ibn](https://plato.stanford.edu/entries/tibbon/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-Hannah Kasher <[*kasheh@mail.biu.ac.il*](mailto:kasheh%40mail%2ebiu%2eac%2eil)>  
-Moshe Kahan <[*moshe.kahan@mail.huji.ac.il*](mailto:moshe%2ekahan%40mail%2ehuji%2eac%2eil)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+Hannah Kasher <[_kasheh@mail.biu.ac.il_](mailto:kasheh%40mail%2ebiu%2eac%2eil)>\
+Moshe Kahan <[_moshe.kahan@mail.huji.ac.il_](mailto:moshe%2ekahan%40mail%2ehuji%2eac%2eil)>
