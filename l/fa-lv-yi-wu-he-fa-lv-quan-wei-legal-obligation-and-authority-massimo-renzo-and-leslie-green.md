@@ -1,29 +1,27 @@
 # 法律义务和法律权威 legal obligation and authority (Massimo Renzo and Leslie Green)
 
-*首次发表于2003年12月29日；实质性修订于2022年6月30日。*
+_首次发表于2003年12月29日；实质性修订于2022年6月30日。_
 
 无论他们做什么，所有的法律体系都承认、创造、变化和执行义务。这不是偶然的：义务对于法律的社会角色至关重要，解释它们对于理解法律的权威和因此法律的本质是必要的。不仅在法律中有义务，也有对法律的义务。历史上，大多数哲学家都同意这些义务包括对服从的道德义务，或者通常所称的“政治义务”。对于一些人来说，这是我们与国家进行某种交易的结果。由于国家为我们提供了至关重要的利益，我们承担了一定的义务作为回报，要么是因为我们同意为了这些利益而承担这些义务，要么是因为不回报对他们来说是不公平或不感激的。其他的解释是非交易性的，将政治义务基于服从法律增强我们做我们有理由做的事情的能力的事实，基于我们有责任维护公正的法律体系的事实，或者基于我们作为政治共同体成员的特殊责任。所有这些论证线路都经受了彻底的批评，这导致一些人否认法律有权利主张自己所声称的所有权威，即使法律体系是合法和相当公正的。根据这种观点，有些法律的主体没有道德义务履行法律义务。
 
 * [1. 法律中的义务](https://plato.stanford.edu/entries/legal-obligation/#ObliLaw)
 * [2. 权威、义务和合法性](https://plato.stanford.edu/entries/legal-obligation/#AuthObliLegi)
-* [3. 对法律的义务](https://plato.stanford.edu/entries/legal-obligation/#ObliLaw_1)
+* [3. 对法律的义务](https://plato.stanford.edu/entries/legal-obligation/#ObliLaw\_1)
 * [4. 交易理论](https://plato.stanford.edu/entries/legal-obligation/#TranTheo)
-
-  * [ 4.1 同意](https://plato.stanford.edu/entries/legal-obligation/#Cons)
-  * [ 4.2 公平性](https://plato.stanford.edu/entries/legal-obligation/#Fair)
-  * [ 4.3 感激之情](https://plato.stanford.edu/entries/legal-obligation/#Grat)
+  * [4.1 同意](https://plato.stanford.edu/entries/legal-obligation/#Cons)
+  * [4.2 公平性](https://plato.stanford.edu/entries/legal-obligation/#Fair)
+  * [4.3 感激之情](https://plato.stanford.edu/entries/legal-obligation/#Grat)
 * [5. 非交易性理论](https://plato.stanford.edu/entries/legal-obligation/#NonTranTheo)
-
   * [5.1 工具性正当化](https://plato.stanford.edu/entries/legal-obligation/#InstJust)
   * [5.2 必要性和自然义务](https://plato.stanford.edu/entries/legal-obligation/#NeceNatuDuty)
   * [5.3 构成义务](https://plato.stanford.edu/entries/legal-obligation/#ConsObli)
 * [6. 怀疑主义和无政府主义](https://plato.stanford.edu/entries/legal-obligation/#ScepAnar)
-* [ 参考书目](https://plato.stanford.edu/entries/legal-obligation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/legal-obligation/#Aca)
+* [参考书目](https://plato.stanford.edu/entries/legal-obligation/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/legal-obligation/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/legal-obligation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/legal-obligation/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/legal-obligation/#Rel)
 
----
+***
 
 ## 1. 法律中的义务
 
@@ -37,35 +35,35 @@
 
 这些法律产生义务是由于“犯罪”和“隐含条件”在各自的法律领域中的功能，而不是由于它们所表达的语言。
 
-表面上看，一些法律有其他功能。对于“遗嘱必须签署”的要求通常不会产生义务，不是要求制定遗嘱，甚至不是要求签署遗嘱，如果您不签署，它只是不被视为有效的遗嘱。尽管如此，一些哲学家认为每个法律体系的内容可以且应该仅以义务规定和除外规定的法律术语来表示（Bentham《普通法》；Kelsen 1960 [1967]）。Bentham 问道，
+表面上看，一些法律有其他功能。对于“遗嘱必须签署”的要求通常不会产生义务，不是要求制定遗嘱，甚至不是要求签署遗嘱，如果您不签署，它只是不被视为有效的遗嘱。尽管如此，一些哲学家认为每个法律体系的内容可以且应该仅以义务规定和除外规定的法律术语来表示（Bentham《普通法》；Kelsen 1960 \[1967]）。Bentham 问道，
 
-> 每一条法律条文与其他条文有什么共同之处？它命令并通过这样做创造义务或者说，另一个词是权威。（本丹姆，《普通法律》[1970: 294]）
+> 每一条法律条文与其他条文有什么共同之处？它命令并通过这样做创造义务或者说，另一个词是权威。（本丹姆，《普通法律》\[1970: 294]）
 
-（有关当代观点，请参见哈里斯 1979 年：84-106。）他们认为，以这种方式分析法律揭示了立法者或主体最需要了解的内容：在什么条件下，法律的强制力最终会得到满足。其他人认为，即使这样的简化是可能的，它也会笨重、无信息和无动力，因为它掩盖了法律所履行的不同社会功能（哈特 1961 [1994: 26-49]）以及它们所创造的不同行动原因的种类（拉兹 1975 [1990]）。仍有其他人，对于知道什么是法律的任何有原则的方法感到绝望，已经完全放弃了这个问题，并试图发展一种绕过它的法律理论（霍诺雷 1977；德沃金 1978：71-78）。至少，似乎很明确的是，无论是否所有的法律都强加义务，只有通过与那些强加义务的法律的关系，才能完全理解它们。因此，法律权利是一种值得他人承担保护义务的利益，法律权力是创造或修改义务的能力，等等。
+（有关当代观点，请参见哈里斯 1979 年：84-106。）他们认为，以这种方式分析法律揭示了立法者或主体最需要了解的内容：在什么条件下，法律的强制力最终会得到满足。其他人认为，即使这样的简化是可能的，它也会笨重、无信息和无动力，因为它掩盖了法律所履行的不同社会功能（哈特 1961 \[1994: 26-49]）以及它们所创造的不同行动原因的种类（拉兹 1975 \[1990]）。仍有其他人，对于知道什么是法律的任何有原则的方法感到绝望，已经完全放弃了这个问题，并试图发展一种绕过它的法律理论（霍诺雷 1977；德沃金 1978：71-78）。至少，似乎很明确的是，无论是否所有的法律都强加义务，只有通过与那些强加义务的法律的关系，才能完全理解它们。因此，法律权利是一种值得他人承担保护义务的利益，法律权力是创造或修改义务的能力，等等。
 
 那么法律义务是什么呢？它们是法律主体必须遵守的法律要求。义务性的行为或不作为是法律使之不可选的。由于人们显然可以违反他们的法律义务，“不可选”并不意味着他们被迫执行，甚至法律也没有给他们留下任何可选的替代方案。相反，人们经常计算是否履行他们的法律职责。那么义务只是一种重要的履行理由，即使有时被忽视或被权衡，这是否足够？这不是一个充分的条件：高等法院有重要的理由不经常改变自己的判决，但没有法律义务要求他们这样做。这也不是必要的：一个人有义务，但只有一个微不足道的理由，不得未经他的同意踏入别人的草坪。
 
 如果它们的内容不能解释义务的严格性，那么是什么解释了呢？一个历史上重要但现在基本上已经废弃的理论是用惩罚来解释。根据这种观点，拥有法律义务意味着受到主权命令的约束，要求做或不做某事，其中命令需要表达意愿，并附带着一定的风险，即使很小，也可能因不遵守而遭受不幸。正如英国法学家约翰·奥斯汀所说，
 
-> [当我直接谈论遭受不幸的机会，或者（换句话说）遭受不幸的责任或讨厌，我使用“义务”这个词……（奥斯汀 1832 [1995: 18]；参见本森《普通法律》；霍布斯 1651 [1968]）
+> \[当我直接谈论遭受不幸的机会，或者（换句话说）遭受不幸的责任或讨厌，我使用“义务”这个词……（奥斯汀 1832 \[1995: 18]；参见本森《普通法律》；霍布斯 1651 \[1968]）
 
 其他人认为义务和制裁之间存在间接联系，认为通常被视为法律义务内容的东西实际上只是命令或授权官员施加制裁的强制性规范的触发条件的一部分。根据这种观点，
 
-> 一条规范：“你不可杀人”是多余的，如果一条规范有效：“凡是杀人的人应该受到惩罚”。（凯尔森 1960 [1967: 55]）
+> 一条规范：“你不可杀人”是多余的，如果一条规范有效：“凡是杀人的人应该受到惩罚”。（凯尔森 1960 \[1967: 55]）
 
- 因此，
+因此，
 
-> [l]法律义务并非是或者不是立即应该采取的行为。只有作为制裁的强制行为应该采取。（凯尔森 1960 [1967: 119]）
+> \[l]法律义务并非是或者不是立即应该采取的行为。只有作为制裁的强制行为应该采取。（凯尔森 1960 \[1967: 119]）
 
-这些制裁理论的版本都没有经受住 H.L.A.哈特的批评（哈特 1961 [1994: 27–42]；参见哈克 1973；但参见肖尔 2015 年对这一方法的最新阐述）。首先，它们误导地将一系列不同的法律后果，包括赔偿甚至无效，都视为惩罚。其次，在没有制裁的情况下，它们使许多关于义务的熟悉引用变得不可理解，例如，最高法院适用法律的义务。第三，它们对非选择性提供了不充分的解释。“你有义务不杀人”不能仅仅意味着“如果你杀人，你将受到惩罚”，因为法律并不对人们在一方面杀人并被监禁，在另一方面根本不杀人之间持中立态度。“不通过支付罚款或许可费用就无法获得违抗法律的权利”（Francome v. Mirror Group Newspapers Ltd. [1984] 2 All ER 408 at 412）。这样的话语很常见，反映了司法界熟悉的态度。最重要的是，制裁在法律中的正常功能是加强义务，而不是构成义务。的确，人们对了解自己的法律义务感兴趣的一个原因是为了避免制裁，但这并不是唯一的原因，也不是奥利弗·温德尔·霍姆斯所认为的理论上的主要原因（霍姆斯 1897）。主体还希望根据他们的义务行事，无论是为了履行它们还是故意违反它们，而官员则将它们作为决策的理由，而不仅仅是后果。
+这些制裁理论的版本都没有经受住 H.L.A.哈特的批评（哈特 1961 \[1994: 27–42]；参见哈克 1973；但参见肖尔 2015 年对这一方法的最新阐述）。首先，它们误导地将一系列不同的法律后果，包括赔偿甚至无效，都视为惩罚。其次，在没有制裁的情况下，它们使许多关于义务的熟悉引用变得不可理解，例如，最高法院适用法律的义务。第三，它们对非选择性提供了不充分的解释。“你有义务不杀人”不能仅仅意味着“如果你杀人，你将受到惩罚”，因为法律并不对人们在一方面杀人并被监禁，在另一方面根本不杀人之间持中立态度。“不通过支付罚款或许可费用就无法获得违抗法律的权利”（Francome v. Mirror Group Newspapers Ltd. \[1984] 2 All ER 408 at 412）。这样的话语很常见，反映了司法界熟悉的态度。最重要的是，制裁在法律中的正常功能是加强义务，而不是构成义务。的确，人们对了解自己的法律义务感兴趣的一个原因是为了避免制裁，但这并不是唯一的原因，也不是奥利弗·温德尔·霍姆斯所认为的理论上的主要原因（霍姆斯 1897）。主体还希望根据他们的义务行事，无论是为了履行它们还是故意违反它们，而官员则将它们作为决策的理由，而不仅仅是后果。
 
-对这些问题的敏感性使哈特辩护了一种基于规则的理论。他说，尽管制裁可能标志着人们被迫遵守的情况，但只有在受到实践社会规则要求行为或不作为时，他们才有义务。主体将其用作规则的事实标志着它具有规范性。义务施加规则还具有以下三个特征：它们必须受到严厉或坚持不懈的压力来遵守；它们必须被认为对社会生活或其某个重要方面至关重要；它们的要求可能与主体的利益和目标相冲突（哈特 1961 [1994: 85–88]）。这种义务性质的描述并不是对其有效性的描述。哈特并不是说只要愿意采取严厉的压力来支持法律责任，法律责任就具有约束力等。他认为，如果一项义务是法律体系的一部分（即，如果它通过该体系的法律测试被认证为这样），则该义务在法律上是有效的；而法律义务在道德上只有在有充分的道德理由遵守它时才是有效的。但是，至少在他的早期作品中，他将实践理论作为对义务的一般解释——法律义务是法律规则的产物，道德义务是道德规则的产物，依此类推（哈特后来修改了这个观点，参见1982: 255–268；以及1961 [1994: 256]）。
+对这些问题的敏感性使哈特辩护了一种基于规则的理论。他说，尽管制裁可能标志着人们被迫遵守的情况，但只有在受到实践社会规则要求行为或不作为时，他们才有义务。主体将其用作规则的事实标志着它具有规范性。义务施加规则还具有以下三个特征：它们必须受到严厉或坚持不懈的压力来遵守；它们必须被认为对社会生活或其某个重要方面至关重要；它们的要求可能与主体的利益和目标相冲突（哈特 1961 \[1994: 85–88]）。这种义务性质的描述并不是对其有效性的描述。哈特并不是说只要愿意采取严厉的压力来支持法律责任，法律责任就具有约束力等。他认为，如果一项义务是法律体系的一部分（即，如果它通过该体系的法律测试被认证为这样），则该义务在法律上是有效的；而法律义务在道德上只有在有充分的道德理由遵守它时才是有效的。但是，至少在他的早期作品中，他将实践理论作为对义务的一般解释——法律义务是法律规则的产物，道德义务是道德规则的产物，依此类推（哈特后来修改了这个观点，参见1982: 255–268；以及1961 \[1994: 256]）。
 
-社会压力的构成作用有时被认为是哈特理论中的奥斯汀式瑕疵，但无论如何，它作为义务的一般解释存在更严重的问题（德沃金1978年：50-54；拉兹1975年[1990年：53-58]）。人们常常在明知没有相关社会实践的情况下谈论义务，就像一个在食肉社会中的孤独素食主义者一样。而哈特的实践条件可能在没有义务而只有普遍适用的理由的情况下得到满足，就像受害者经常被敦促把钱包交给抢劫犯一样。最好的情况是，哈特的理论只适用于一类特殊的义务，其中传统实践的存在是符合理由的一个基本部分，尽管即使在这种情况下，该理论也存在疑问（参见德沃金1978年：54-58；格林1988年：88-121；参见马莫尔2011年：第3章）。最近，一些人提出反对意见，认为哈特试图将社会规则归结为社会实践失败，因为规则和实践属于不同的形而上学范畴。如果是这样，那么将一个范畴基于另一个范畴是一个范畴错误。相反，我们应该将我们法律体系的规则看作是基于各种官员的计划活动，他们的意图是调节在法律体系内运作的个人（以及其他机构）的行为（沙皮罗2011年）。
+社会压力的构成作用有时被认为是哈特理论中的奥斯汀式瑕疵，但无论如何，它作为义务的一般解释存在更严重的问题（德沃金1978年：50-54；拉兹1975年\[1990年：53-58]）。人们常常在明知没有相关社会实践的情况下谈论义务，就像一个在食肉社会中的孤独素食主义者一样。而哈特的实践条件可能在没有义务而只有普遍适用的理由的情况下得到满足，就像受害者经常被敦促把钱包交给抢劫犯一样。最好的情况是，哈特的理论只适用于一类特殊的义务，其中传统实践的存在是符合理由的一个基本部分，尽管即使在这种情况下，该理论也存在疑问（参见德沃金1978年：54-58；格林1988年：88-121；参见马莫尔2011年：第3章）。最近，一些人提出反对意见，认为哈特试图将社会规则归结为社会实践失败，因为规则和实践属于不同的形而上学范畴。如果是这样，那么将一个范畴基于另一个范畴是一个范畴错误。相反，我们应该将我们法律体系的规则看作是基于各种官员的计划活动，他们的意图是调节在法律体系内运作的个人（以及其他机构）的行为（沙皮罗2011年）。
 
 第三个账户是基于理性的。在这种观点中，构成义务的不是强制执行它们的社会资源，也不是它们可能表达的实践，而是它们提供的行动理由的种类。法律义务是内容无关的理由，既具有范畴性又具有先发制人的力量。它们内容无关的标志是它们的力量不依赖于所要求行动的性质或优点：在大多数情况下，法律可以强制要求做X或者禁止做X（哈特1958年；1982年：254-55；但参见马克威克2000年；斯基亚拉法2009年；瓦伦蒂尼2018年）。它们的先发制人意味着它们要求主体抛开自己对优点的看法并且无论如何都要遵守。它们的范畴性意味着它们不以主体自己的目标或利益为条件来提出要求。
 
-这个观点早在托马斯·霍布斯和约翰·洛克身上就有预兆，但其最有影响力的当代版本归功于约瑟夫·拉兹（Joseph Raz）（1975 [1990: 35–84]）。拉兹认为，义务是行动的范畴性理由，它们在与特殊的二级理由相结合时被“保护”，这些二级理由要求我们在思考时排除一些竞争的一级理由。所谓“一级理由”是以自身利益、欲望或道德为基础的正常行动理由；而“二级理由”是我们必须根据一级理由行动（或不行动）的理由。因此，根据拉兹的观点，义务的独特特征在于它们排除了一些相反的理由，通常至少排除了便利和普通偏好的理由，使其不参与我们的实践思考。一些但并非全部。一种“排除性理由”不一定是决定性的理由。因此，义务的严格性不是由其重要性或实践特征决定的，而是由于它通过特殊的规范手段支持所需的行动，使其免受一般理由的竞争。或者至少在义务声称具有力量时是这样，也就是当它们具有约束力时。该理论并不假设所有法律义务实际上都从道德角度来看都是具有约束力的，但它确实假设法律体系将它们提出来，就好像它们是具有约束力的——这是一些人怀疑的结果（哈特1982: 263–267; 希玛2001: 284–297）。虽然这个观点不容易受到基于制裁和基于实践的理论的反对，但它确实需要充分解释“排除性理由”的一般概念，一些哲学家对此也表示了怀疑。
+这个观点早在托马斯·霍布斯和约翰·洛克身上就有预兆，但其最有影响力的当代版本归功于约瑟夫·拉兹（Joseph Raz）（1975 \[1990: 35–84]）。拉兹认为，义务是行动的范畴性理由，它们在与特殊的二级理由相结合时被“保护”，这些二级理由要求我们在思考时排除一些竞争的一级理由。所谓“一级理由”是以自身利益、欲望或道德为基础的正常行动理由；而“二级理由”是我们必须根据一级理由行动（或不行动）的理由。因此，根据拉兹的观点，义务的独特特征在于它们排除了一些相反的理由，通常至少排除了便利和普通偏好的理由，使其不参与我们的实践思考。一些但并非全部。一种“排除性理由”不一定是决定性的理由。因此，义务的严格性不是由其重要性或实践特征决定的，而是由于它通过特殊的规范手段支持所需的行动，使其免受一般理由的竞争。或者至少在义务声称具有力量时是这样，也就是当它们具有约束力时。该理论并不假设所有法律义务实际上都从道德角度来看都是具有约束力的，但它确实假设法律体系将它们提出来，就好像它们是具有约束力的——这是一些人怀疑的结果（哈特1982: 263–267; 希玛2001: 284–297）。虽然这个观点不容易受到基于制裁和基于实践的理论的反对，但它确实需要充分解释“排除性理由”的一般概念，一些哲学家对此也表示了怀疑。
 
 一些人批评了出于其他原因行动（或反对）的理由的存在，指出出于其他原因行动（或反对）并不是我们可以选择做的事情（Whiting 2017; Adams 2021）。其他人指出，权威指令提供的理由最好理解为在因果上限制了我们不遵守相关指令的能力的理由（Shapiro 2002）。还有人认为，Raz 所称的排斥性理由最终只是超过竞争理由的理由（Mian 2002），影响一级理由的重要性的理由（Perry 1989），或者在事实情况上以一种触发预先存在的理由的方式从因果上改变事实情况的理由（Enoch 2011 和 2014）。最后，还有人承认排斥性理由的存在，但否认完全排除考虑其他有效理由是合理的（Regan 1987; Gur 2007）。这导致了替代模型的制定，根据这些模型，义务最好理解为提供“推定理由”，而不是行动的排斥性理由（Schauer 1991; Renzo 2019）。根据这些模型，行动的竞争理由并没有完全被排除在代理人的思考之外。相反，义务所创造的二级理由仅仅在排除方面产生了一个推定。在满足一定认识条件的情况下，这个推定可以被反驳（但请参见 Venezia 2020）。
 
@@ -73,9 +71,9 @@
 
 竞争市场并非法律体系，尽管人们根据相对价格调整行为，整个过程构成了一种社会秩序形式。相互核威慑体系也不是如此，尽管它引导行为并产生规范来调节冷战。许多哲学家和社会科学家认为，只有具备有效权威的社会秩序才是法律体系。有效（或实际）权威可能没有正当性，但它与正当（法定）权威存在特殊关系。正当权威是有效权威所声称的，或者是他们普遍被认可的。
 
-什么是法律权威，它与义务有何关联？它是一种实践权威，即对行动的权威。在一种有影响力的观点中，“声称权威就是声称有权被服从”（R. P. Wolff 1970: 5）。当然，也有一些权威不会提出这样的要求。理论权威，即专家，并不以要求服从为特征。他们甚至不必声称有被相信的权利。还有较弱形式的实践权威。授权某人使用你的汽车只是允许他。但是，政治权威，其中法律权威是一种，通常被视为统治权利，并伴随着服从的相应义务。根据这种观点，法律声称在设定义务的任何地方都有服从的权利。服从不仅仅是遵守法律，而是受其指导。马克斯·韦伯说，这就好像被统治者将命令的内容作为自己行为的准则。（韦伯 1922 [1963: II 946]）
+什么是法律权威，它与义务有何关联？它是一种实践权威，即对行动的权威。在一种有影响力的观点中，“声称权威就是声称有权被服从”（R. P. Wolff 1970: 5）。当然，也有一些权威不会提出这样的要求。理论权威，即专家，并不以要求服从为特征。他们甚至不必声称有被相信的权利。还有较弱形式的实践权威。授权某人使用你的汽车只是允许他。但是，政治权威，其中法律权威是一种，通常被视为统治权利，并伴随着服从的相应义务。根据这种观点，法律声称在设定义务的任何地方都有服从的权利。服从不仅仅是遵守法律，而是受其指导。马克斯·韦伯说，这就好像被统治者将命令的内容作为自己行为的准则。（韦伯 1922 \[1963: II 946]）
 
-> as if the ruled had made the content of the command the maxim of their conduct for its very own sake. (Weber 1922 [1963: II 946])
+> as if the ruled had made the content of the command the maxim of their conduct for its very own sake. (Weber 1922 \[1963: II 946])
 
 或者，正如罗伯特·保罗·沃尔夫更加明确地表达的那样：
 
@@ -110,11 +108,11 @@ Hayek 偏爱自由市场，并得出结论，法律权威的性质应该被类�
 
 这两者之间的关系是什么？有人认为义务首先存在：
 
-> [虽然义务并非强制的充分条件，但它接近于必要条件。在某些特殊情况下，国家可能有充分的理由强迫那些没有义务服从的人。但如果法律在一般情况下不是真正义务的来源，那么没有任何以钢铁来维护法律的一般政策能够被证明是合理的。（德沃金 1986: 191）]
+> \[虽然义务并非强制的充分条件，但它接近于必要条件。在某些特殊情况下，国家可能有充分的理由强迫那些没有义务服从的人。但如果法律在一般情况下不是真正义务的来源，那么没有任何以钢铁来维护法律的一般政策能够被证明是合理的。（德沃金 1986: 191）]
 
-这个观点是仅仅拥有正义并不足以成为强迫他人的充分理由；还需要一种特殊的权威，源自法律的道德地位。（例如，与洛克的观点相反，洛克认为每个人至少在政治社会之外都有“自然法的执行权”[《第二篇论文》，第 13 节]。）
+这个观点是仅仅拥有正义并不足以成为强迫他人的充分理由；还需要一种特殊的权威，源自法律的道德地位。（例如，与洛克的观点相反，洛克认为每个人至少在政治社会之外都有“自然法的执行权”\[《第二篇论文》，第 13 节]。）
 
-其他人认为这种观点是颠倒了关系。首先，我们怀疑是否有义务服从一个非法政权。我们可能认为“对明显不公正的制度的默许，甚至同意，不会产生义务”（罗尔斯 1971 年：343；但参见西蒙斯 1979 年：78-79）。如果是这样，至少在服从义务之前，合法性的某些条件是先行的。其次，有实质性的理由认为，如果法律没有通过“钢铁”来证明其要求的合理性，我们就没有服从的义务。一个无法合理强制的法律体系无法保证守法者不会被不服从者利用。在无法解决这个保证问题的情况下，对他们施加义务是不公正的，要求他们服从也是不公正的。这个建议的基础是熟悉的观点，即效力是合理权威的必要条件，但绝对不是充分条件。（参见凯尔森 1960 年[1967 年：46-50]；但参见芬尼斯 1979 年：250。关于在我们建立了权威强制的权利之前没有服从义务的观点的另一种表述，请参见里普斯坦 2004 年。）
+其他人认为这种观点是颠倒了关系。首先，我们怀疑是否有义务服从一个非法政权。我们可能认为“对明显不公正的制度的默许，甚至同意，不会产生义务”（罗尔斯 1971 年：343；但参见西蒙斯 1979 年：78-79）。如果是这样，至少在服从义务之前，合法性的某些条件是先行的。其次，有实质性的理由认为，如果法律没有通过“钢铁”来证明其要求的合理性，我们就没有服从的义务。一个无法合理强制的法律体系无法保证守法者不会被不服从者利用。在无法解决这个保证问题的情况下，对他们施加义务是不公正的，要求他们服从也是不公正的。这个建议的基础是熟悉的观点，即效力是合理权威的必要条件，但绝对不是充分条件。（参见凯尔森 1960 年\[1967 年：46-50]；但参见芬尼斯 1979 年：250。关于在我们建立了权威强制的权利之前没有服从义务的观点的另一种表述，请参见里普斯坦 2004 年。）
 
 ## 3. 对法律的义务
 
@@ -126,7 +124,7 @@ Hayek 偏爱自由市场，并得出结论，法律权威的性质应该被类�
 
 沃尔夫的一些担忧源于“判断的放弃”本身——如何能够合理地行动，而违背自己所认为的理性呢？另一些担忧则源于这是对法律的投降。关于第一个观点，值得注意的是，承诺和合同也涉及对判断的放弃和对他人的一种顺从（参见Soper 2002: 103–139），然而，一个理性的无政府主义者需要这样的自愿承诺来替代权威性的命令。因此，对每一次判断的放弃的原则性反对是自我失败的。此外，似乎有些情况下，通过在某些事情上放弃判断，可以为反思和决策更重要的事情提供更多的时间和资源，或者在这些事情上，个体具有更大的自我指导能力。因此，部分放弃判断可能会增强行动者的整体自主性。
 
-这表明沃尔夫的关注更好地理解为对是否有正当理由完全将自己的判断交给法律的怀疑。一些哲学家对这种怀疑的可理解性提出了质疑；他们说，法律的本质就是有义务遵守它，至少在其核心案例中是如此（Fuller 1958 [2000: 100]; Finnis 1979: 14–15）。有些人甚至得出结论，因此要求对遵守法律的义务提出任何理由是荒谬的：法律就是应该遵守的东西（McPherson 1967: 64）。我们需要一种进入这个循环的方式，最好的入口是通过明确法律的本质，以与其本质的各种理论相兼容。三个特征尤为重要（参考Hart 1961 [1994: 193–200]; Raz 1975 [1990: 149–154]; 和Lyons 1984: 66–68）。首先，法律是制度化的：与立法机构、法院、行政机构、警察等机构的活动无关的东西都不是法律。其次，法律系统具有广泛的范围。法律不仅限于小规模面对面的群体（如家庭或氏族）的事务，也不仅仅关注棒球等生活的有限领域。法律统治着大规模、松散结构的陌生人群体的无限领域，并调节他们最紧迫的利益：生命、自由、财产、亲属关系等。但尽管法律必然涉及道德问题，但它并不一定做得很好，这是它的第三个核心特征：法律在道德上是可犯错误的。这一点被实证主义者和自然法学派都承认，他们的口号“不公正的法律不是法律”从未意味着法律的绝对正确。
+这表明沃尔夫的关注更好地理解为对是否有正当理由完全将自己的判断交给法律的怀疑。一些哲学家对这种怀疑的可理解性提出了质疑；他们说，法律的本质就是有义务遵守它，至少在其核心案例中是如此（Fuller 1958 \[2000: 100]; Finnis 1979: 14–15）。有些人甚至得出结论，因此要求对遵守法律的义务提出任何理由是荒谬的：法律就是应该遵守的东西（McPherson 1967: 64）。我们需要一种进入这个循环的方式，最好的入口是通过明确法律的本质，以与其本质的各种理论相兼容。三个特征尤为重要（参考Hart 1961 \[1994: 193–200]; Raz 1975 \[1990: 149–154]; 和Lyons 1984: 66–68）。首先，法律是制度化的：与立法机构、法院、行政机构、警察等机构的活动无关的东西都不是法律。其次，法律系统具有广泛的范围。法律不仅限于小规模面对面的群体（如家庭或氏族）的事务，也不仅仅关注棒球等生活的有限领域。法律统治着大规模、松散结构的陌生人群体的无限领域，并调节他们最紧迫的利益：生命、自由、财产、亲属关系等。但尽管法律必然涉及道德问题，但它并不一定做得很好，这是它的第三个核心特征：法律在道德上是可犯错误的。这一点被实证主义者和自然法学派都承认，他们的口号“不公正的法律不是法律”从未意味着法律的绝对正确。
 
 政治义务的问题，因此，取决于是否存在道德理由遵守广泛、道德上可犯错误、制度化的权威的强制要求。这种义务声称是全面的，因为它涵盖了所有的法律义务和所有需要遵守法律的人。虽然它不被认为是无论如何都要遵守的，但它是一种真正的义务之一。一些哲学家还认为，它应该特别约束人们对自己的国家，即他们所居住或拥有公民身份的国家，并且认为，一个不能表明一个人对自己的国家有比一个同样公正的外国国家更严格的义务的论证，在某种程度上是不足的（Simmons 1979: 31–35; Green 1988: 227–228）。最后，共识是，只有在满足公正的门槛条件时，义务才存在。
 
@@ -148,7 +146,7 @@ Hayek 偏爱自由市场，并得出结论，法律权威的性质应该被类�
 
 然而，同意理论家通常并未将这一原则作为解决“实际协调问题”的解决方案。一致同意将是一个非常糟糕的决策规则：交易成本将是巨大的，而持不同意见者可能会阻止许多理想的政策。因此，同意通常被提议作为设立政治共同体的宪法规则的一部分。因此，同意理论家拒绝了伊曼纽尔·康德（下文讨论）的观点，即A对B的利益产生暴力影响的能力就足以让任何人将他们两个都置于正面法律体制之下（《道德的形而上学》第44节）。对于同意理论家来说，只有在A和B同意在一个管辖权下联合起来之后，A-B的互动才成为一个受权监管的候选。在我们回答为什么应该有一个管辖权之前，我们无法询问在伊拉克的库尔德人和什叶派之间应该有哪种或什么样的权威。然而，在这个基础性角色之外，同意理论家对它是否在政策中具有进一步的重要性持有不同的观点。洛克认为，在大多数决策中，它被代表们的多数规则所取代，成为自然的程序；而卢梭则认为这只是另一种形式的奴役。
 
-然而，即使在其有限的角色中，同意也引起了强烈的批评。（有关良好的调查，请参阅西蒙斯1979年：57-100；有关有条件的辩护，请参阅贝兰1987年。）其中很大一部分集中在问题上，即同意是否实际给出，如果给出，是否会约束。首先要注意的是，在这里，同意意味着通过同意的行为本身承担义务的履行承诺。因此，它更接近我们通常理解的承诺概念，而不是同意在其他情境中的使用方式。（例如，当您同意手术时，并不意味着您有义务接受手术。您只是放弃了反对接受手术的意见。）然而，与其他承诺和誓言一样，同意的有效性是有限的。不仅因为如果通过胁迫、操纵或威逼获得同意，则同意无效，而且因为有些事情我们没有道德权力同意。例如，洛克认为，人们既不能同意被杀害，也不能同意奴役，因此也不能同意任何等同于奴役的事物，包括绝对政府。可以想象类似的论证得出政治同意必须可撤销的结论。但是，随着我们引入所有这些有效性条件，承诺本身似乎越来越不起作用，这导致一些人得出结论称其变得“基本无关紧要”（皮特金1965年[1972年：57]）。只有当我们能够解释为什么我们还重视约束自己服从的权力时，同意才能免于无关紧要。大卫·休谟无法想象任何理由：遵守承诺是一种为公共利益服务的“人为美德”，就像服从法律一样。 只要法律相对合法——休谟准备给予它很大的容忍度——服从的承诺就是多余的，因为对于我们为什么受到承诺的约束的问题，任何合理的回答都会“立即、毫不拖延地解释我们对效忠的义务”；“由于它们具有相同的力量和权威，我们将承诺解释为效忠并没有任何收益”（休谟 1748 [1985: 481]）。
+然而，即使在其有限的角色中，同意也引起了强烈的批评。（有关良好的调查，请参阅西蒙斯1979年：57-100；有关有条件的辩护，请参阅贝兰1987年。）其中很大一部分集中在问题上，即同意是否实际给出，如果给出，是否会约束。首先要注意的是，在这里，同意意味着通过同意的行为本身承担义务的履行承诺。因此，它更接近我们通常理解的承诺概念，而不是同意在其他情境中的使用方式。（例如，当您同意手术时，并不意味着您有义务接受手术。您只是放弃了反对接受手术的意见。）然而，与其他承诺和誓言一样，同意的有效性是有限的。不仅因为如果通过胁迫、操纵或威逼获得同意，则同意无效，而且因为有些事情我们没有道德权力同意。例如，洛克认为，人们既不能同意被杀害，也不能同意奴役，因此也不能同意任何等同于奴役的事物，包括绝对政府。可以想象类似的论证得出政治同意必须可撤销的结论。但是，随着我们引入所有这些有效性条件，承诺本身似乎越来越不起作用，这导致一些人得出结论称其变得“基本无关紧要”（皮特金1965年\[1972年：57]）。只有当我们能够解释为什么我们还重视约束自己服从的权力时，同意才能免于无关紧要。大卫·休谟无法想象任何理由：遵守承诺是一种为公共利益服务的“人为美德”，就像服从法律一样。 只要法律相对合法——休谟准备给予它很大的容忍度——服从的承诺就是多余的，因为对于我们为什么受到承诺的约束的问题，任何合理的回答都会“立即、毫不拖延地解释我们对效忠的义务”；“由于它们具有相同的力量和权威，我们将承诺解释为效忠并没有任何收益”（休谟 1748 \[1985: 481]）。
 
 现在，虽然同意理论不必将效忠“解释”为承诺——服从也可能有非承诺的条件——但它必须解释为什么应该以此为条件。有三种类型的论证很受欢迎。首先，有工具性的理由希望对法律义务的责任有意识的控制。在政治权威中，利害关系至关重要，能够给予和拒绝同意的权力超越了我们对有限政府脆弱机构的期望，起到了终极的保护功能。其次，同意使人们能够通过创建新的政治社团或加入现有的政治社团来建立政治效忠，而不需要等待社区和互惠关系逐渐形成；同意是进入共和国的“完美成员”的直接通行证（洛克，《第二篇论政府》，§ 119）。第三，虽然同意的定义是基于其行为特征的，但它自然地伴随着附属的非行为特征：同意也表达了对政府的可接受性，或至少是容忍度。这可能使同意的统治者在众多可能的竞争者中显得突出，并且可能表明他们有很大的机会发挥作用，这本身是任何政治权威合理化的必要条件。
 
@@ -170,7 +168,7 @@ Hayek 偏爱自由市场，并得出结论，法律权威的性质应该被类�
 
 ### 4.3 感激
 
-公平（在其自愿解释中）要求某种接受，而不仅仅是接收国家产生的利益，以便产生政治义务。然而，尽管所接收的利益尚未被接受，但某些交易似乎会产生义务。例如，如果您为我提供了一个好处，我至少应该心存感激，并以适当的方式表达我的感激之情。这个想法难道不能用来证明政治义务吗？一些人认为可以。根据他们的观点，遵守法律是我们履行对我们自己的国家所应得的利益的感激之情的一种方式（柏拉图[Crito]；W. D Ross 1930；沃克 1988；克洛斯科 1989）。
+公平（在其自愿解释中）要求某种接受，而不仅仅是接收国家产生的利益，以便产生政治义务。然而，尽管所接收的利益尚未被接受，但某些交易似乎会产生义务。例如，如果您为我提供了一个好处，我至少应该心存感激，并以适当的方式表达我的感激之情。这个想法难道不能用来证明政治义务吗？一些人认为可以。根据他们的观点，遵守法律是我们履行对我们自己的国家所应得的利益的感激之情的一种方式（柏拉图\[Crito]；W. D Ross 1930；沃克 1988；克洛斯科 1989）。
 
 这种说法的一个问题是，仅仅接收好处似乎不足以产生感激之情的义务。也许我喜欢听你练习长号，但如果你无意中为我提供了这个好处（也许你以为我在度假，而你在隔壁练习），我是否欠你一份感激之情的义务？如果你的意图是伤害我而不是使我受益，我是否欠你一份义务？（也许你知道我就在隔壁，你大声练习是为了打扰我，却不知道没有比听你练习长号更让我开心的事情了。）这似乎是不合理的。仅仅提供好处似乎不会产生感激之情的义务，除非所涉及的好处是出于正确的意图提供的。但是国家能够有意图吗（如果不是以隐喻的意义）？那些否认这一点的人得出结论，因此，对他们不应该有任何感激之情的义务（西蒙斯 1979：第 7 章；但参见诺尔斯 2002）。
 
@@ -200,13 +198,13 @@ Raz将其称为“正常的正当化论”（NJT）。只有当权威将他的�
 
 ### 5.2 必要性和自然义务
 
-基于必要性的论证可能正是出于这种担忧。根据这种观点，仅仅能够帮助他人追踪正确理性是不够的，他必须能够在某个特定领域内做到这一点。洛克认为政治哲学最紧迫的问题是“准确区分公民政府的职责”（Locke 1689 [1983: 26]），确定哪些事物是凯撒的。一些当代作家持有类似观点。伊丽莎白·安斯康姆认为，权威的领域是必要社会功能的领域。
+基于必要性的论证可能正是出于这种担忧。根据这种观点，仅仅能够帮助他人追踪正确理性是不够的，他必须能够在某个特定领域内做到这一点。洛克认为政治哲学最紧迫的问题是“准确区分公民政府的职责”（Locke 1689 \[1983: 26]），确定哪些事物是凯撒的。一些当代作家持有类似观点。伊丽莎白·安斯康姆认为，权威的领域是必要社会功能的领域。
 
 > 如果某事是必要的，例如人类生活中的一项必要任务，那么在那些负责执行任务的人中，就会产生一种权利，即拥有属于任务执行的东西。(Anscombe 1978: 17)
 
 但是什么任务是必要的呢？正如我们所见，有些任务指向“被推定有益的公共物品”的生产，这些物品任何人都希望拥有，并且需要社会合作来生产(Klosko 1991)。其他观点则更为广泛。例如，Finnis 认为，法律必须提供一个全面的框架，以实现一系列自明的价值观，包括生命、知识、娱乐和宗教(Finnis 1979: 81–97, 154–156)。在中间，我们可以找到一系列细致入微的中间立场(例如，Copp 1999 和 Perry 2012)。一种有影响力的中间立场将政治权威与正义领域联系起来，并将服从建立在自然义务之上。根据约翰·罗尔斯的观点，
 
-> [t]这一义务要求我们支持和遵守现有并适用于我们的公正制度。它还限制我们在不太牺牲自己的情况下进一步推动尚未建立的公正安排。(Rawls 1971: 115)
+> \[t]这一义务要求我们支持和遵守现有并适用于我们的公正制度。它还限制我们在不太牺牲自己的情况下进一步推动尚未建立的公正安排。(Rawls 1971: 115)
 
 Rawls 理论的基础在于必要性，如果我们探索一个公正的机构如何“适用于我们”，这一点就变得明显。一个为哲学家进步而设立的机构，即使公正地为我们带来了好处，也不能要求我们支付会费（Simmons 1979: 148）。如果是这样的话，看起来我们需要接受某个机构提供的好处，然后才能说这个机构“适用于我们”。但这就把一个自然义务的解释转变成了一个弱意愿主义的解释，类似于公平（见上文，§4.2）。诊断这类反例的一种方法是注意到，虽然这个机构的运作是公正的，但它并不是一个公正所要求的活动：它们是可选的，而不是必要的（Waldron 1993）。
 
@@ -226,9 +224,9 @@ Rawls 理论的基础在于必要性，如果我们探索一个公正的机构�
 
 第三种非交易观点质疑了对政治义务的正当性的想法。例如，托马斯·麦克弗森写道
 
-> [W]hy should I obey the government is an absurd question. We have not understood what it *means* to be a member of political society if we suppose that political obligation is something we might not have had and that therefore needs to be *justified*. (McPherson 1967: 64)
+> \[W]hy should I obey the government is an absurd question. We have not understood what it _means_ to be a member of political society if we suppose that political obligation is something we might not have had and that therefore needs to be _justified_. (McPherson 1967: 64)
 
-从这个观点来看，寻找独立的道德原则来证明义务的许多尝试不仅是错误的，而且是概念上混乱的；它们展示了“哲学混乱的症状”（Pitkin 1965 [1972: 75]）。政治义务的问题应该通过关注“成员”的含义来解决。
+从这个观点来看，寻找独立的道德原则来证明义务的许多尝试不仅是错误的，而且是概念上混乱的；它们展示了“哲学混乱的症状”（Pitkin 1965 \[1972: 75]）。政治义务的问题应该通过关注“成员”的含义来解决。
 
 很难找到仍然认为规范问题可以通过语言考虑来解决的哲学家，但最近玛格丽特·吉尔伯特（Margaret Gilbert）提出了这种策略的更复杂版本，她依赖于政治社群的成员共同致力于维护其制度的想法，并因此有义务履行自己在执行这一共同承诺中的角色。（然而请注意，对于吉尔伯特来说，这些义务并非道德性质，因此她的观点在这一重要方面与我们考虑的所有其他观点都非常不同。）
 
@@ -236,12 +234,11 @@ Rawls 理论的基础在于必要性，如果我们探索一个公正的机构�
 
 > 只有正确理解与这些有价值的实践和关系相关的义务应扮演的角色，我们才能理解它们。事实上，一些人更进一步主张，鉴于这些角色通常是我们自身身份的重要组成部分，正确理解相关义务对于避免与自己疏离是必要的（Horton 2010；Tamir 1995）。我们身份的社会前提部分由这些义务构成，因此理解它们是最终理解我们是谁的必要条件。通过理解这些义务，我们最终理解了自己。
 
-
 有些人通过指出，虽然有机团体的成员确实常常感到对其他成员有义务，但我们通常寻求一个独立的理由来证明这些义务（参见西蒙斯 1996 年；韦尔曼 1997 年）。毕竟，不足为奇的是，那些在某种实践中接受社会化的成员会觉得他们的身份在重要方面受到与之相关的责任的塑造。担心的是，在没有对这种对待的理由的情况下，这些感受只是虚假意识的一个例子。值得注意的是，虽然这可能是对这一理论的社群主义版本（霍顿 2010 年）的反对意见，但这并不是对德沃金的关联观点的反对意见。德沃金确实相信我们有一个义务，即尊重定义群体并赋予成员特殊责任的社会实践下的责任（德沃金 1986 年：198）。只要群体的成员认为他们的义务是特殊的、个人的，并且源于对所有成员福祉平等关切的善意解释，德沃金就认为这些条件并不是成员的实际感受和思想的问题。相反，它们是我们应该归因于成员的解释性属性。即便如此，为什么要认为它们构成服从的义务，而不是尊重关注的义务，或者为不服从情况道歉的义务？当然，服从不是德沃金“友爱”的典范美德的一部分——互助和支持是那里的正常义务。事实上，政治权威的经典关联模型不是友爱，而是父权，对此洛克进行了决定性的反驳。这并不是否认我们对那些我们发现自己是非自愿成员的体面团体有所负责——但这似乎不足以证明政治义务（关于德沃金的观点，请参见佩里 2008 年）。
 
->我们有责任遵守社会实践下定义团体并赋予成员特殊责任的义务（Dworkin 1986: 198）。
+> 我们有责任遵守社会实践下定义团体并赋予成员特殊责任的义务（Dworkin 1986: 198）。
 
-只要团体成员认为他们的义务是特殊的、个人的，并源自对所有成员福祉平等关切的善意解释，那么这些条件就被满足了。但对他来说，这些条件并不是成员实际感受和思考的问题。相反，它们是我们应该赋予成员的解释性属性。即便如此，为什么要认为它们构成服从的义务，而不是尊重注意的义务，或者为违反情况道歉的义务呢？毫无疑问，服从不是Dworkin所谓的“友爱”的典型美德——互助与支持是正常的义务。实际上，政治权威的古典联想模式不是友爱，而是*父权*，对此洛克进行了如此决定性的辩论。这并不是否认我们对那些我们发现自己成为非自愿成员的体面团体有所义务——但这似乎不足以证明政治义务（按Dworkin的观点，参见Perry 2008）。
+只要团体成员认为他们的义务是特殊的、个人的，并源自对所有成员福祉平等关切的善意解释，那么这些条件就被满足了。但对他来说，这些条件并不是成员实际感受和思考的问题。相反，它们是我们应该赋予成员的解释性属性。即便如此，为什么要认为它们构成服从的义务，而不是尊重注意的义务，或者为违反情况道歉的义务呢？毫无疑问，服从不是Dworkin所谓的“友爱”的典型美德——互助与支持是正常的义务。实际上，政治权威的古典联想模式不是友爱，而是_父权_，对此洛克进行了如此决定性的辩论。这并不是否认我们对那些我们发现自己成为非自愿成员的体面团体有所义务——但这似乎不足以证明政治义务（按Dworkin的观点，参见Perry 2008）。
 
 对联想模型的第二个反对意见在于指出，即使我们承认这个模型可以为小团体成员所欠的义务提供合理的理由，这些小团体是围绕着亲密的个人互动而构建的，但这并不意味着它能够为我们所属的大团体成员（如政治社群）所欠的义务提供同样的理由，其中大多数人我们从未有机会见面或互动（Simmons 2001: 第4章；但参见Horton 2010和Gilbert 2006）。然而，这种义务的强制力尚不清楚。假设我一生中大部分甚至全部时间都无法与父母或兄弟姐妹互动，原因是我们都无法控制的。这是否意味着我对他们的特殊义务自动取消？或许在某些情况下是如此，但并非必然。
 
@@ -269,146 +266,146 @@ Rawls 理论的基础在于必要性，如果我们探索一个公正的机构�
 
 ## Bibliography
 
-* Adams, N. P., 2021, “In Defense of Exclusionary Reasons”, *Philosophical Studies*, 178(1): 235–253. doi:10.1007/s11098-020-01429-8
-* Anscombe, Elizabeth, 1978, “On the Source of the Authority of the State”, *Ratio*, o.s. 20(1): 1–28.
-* Arneson, Richard J., 1982, “The Principle of Fairness and Free-Rider Problems”, *Ethics*, 92(4): 616–633. doi:10.1086/292379
-* Austin, John, 1832 [1995], *The Province of Jurisprudence Determined*, London: John Murray. New edition Wilfrid E. Rumble (ed.), Cambridge/New York: Cambridge University Press.
-* Bentham, Jeremy, *Of Laws in General*, unpublished manuscript, written circa 1790. Published, Herbert Lionel Adolphus Hart (ed.), London: Athlone, 1970.
-* Beran, Harry, 1987, *The Consent Theory of Political Obligation*, London/New York: Croom Helm.
-* Buchanan, Allen, 2002, “Political Legitimacy and Democracy”, *Ethics*, 112(4): 689–719. doi:10.1086/340313
-* Christiano, Thomas, 2004, “The Authority of Democracy”, *Journal of Political Philosophy*, 12(3): 266–290. doi:10.1111/j.1467-9760.2004.00200.x
-* –––, 2008, *The Constitution of Equality: Democratic Authority and Its Limits*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198297475.001.0001
-* Coleman, Jules L., 2001, *The Practice of Principle: In Defence of a Pragmatist Approach to Legal Theory*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199264124.001.0001
-* Coleman, Jules L. and Scott Shapiro (eds.), 2004, *The Oxford Handbook of Jurisprudence and Philosophy of Law*, Oxford/New York: Oxford University Press.
-* Copp, David, 1999, “The Idea of a Legitimate State”, *Philosophy & Public Affairs*, 28(1): 3–45. doi:10.1111/j.1088-4963.1999.00003.x
-* Darwall, Stephen L., 2013, *Morality, Authority, and Law* (Essays in Second-Personal Ethics 1), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199662586.001.0001
-* Dagger, Richard, 1997, *Civic Virtues: Rights, Citizenship, and Republican Liberalism*, (Oxford Political Theory), New York: Oxford University Press.
-* –––, 2018, *Playing Fair: Political Obligation and the Problems of Punishment* (Studies in Penal Theory and Philosophy), New York: Oxford University Press. doi:10.1093/oso/9780199388837.001.0001
-* Dworkin, Ronald, 1978, *Taking Rights Seriously*, Cambridge, MA: Harvard University Press.
-* –––, 1986, *Law’s Empire*, Cambridge, MA: Belknap Press.
-* Edmundson, William A., 1998, *Three Anarchical Fallacies: An Essay on Political Authority*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511663741
-* –––, 2004, “State of the Art: The Duty to Obey the Law”, *Legal Theory*, 10(4): 215–259. doi:10.1017/S1352325204040236
-* Enoch, David, 2011, “Reason‐Giving and the Law”, in *Oxford Studies in Philosophy of Law, Volume 1*, Leslie Green and Brian Leiter (eds.), Oxford: Oxford University Press, chapter 1.
-* –––, 2014, “Authority and Reason-Giving”, *Philosophy and Phenomenological Research*, 89(2): 296–332. doi:10.1111/j.1933-1592.2012.00610.x
-* –––, 2017, “Hypothetical Consent and the Value(s) of Autonomy”, *Ethics*, 128(1): 6–36. doi:10.1086/692939
-* Estlund, David M., 2008, *Democratic Authority: A Philosophical Framework*, Princeton, NJ: Princeton University Press.
-* Finnis, John, 1979, *Natural Law and Natural Rights*, (Clarendon Law Series), Oxford: Clarendon Press.
-* Friedman, Richard B., 1973, “On the Concept of Authority in Political Philosophy”, in *Concepts in Social and Political Philosophy*, Richard E. Flathman (ed.), New York: Macmillan.
-* Fuller, Lon L., 1958 [2000], “Positivism and Fidelity to Law: A Reply to Professor Hart”, *Harvard Law Review*, 71(4): 630–672. Reprinted in *Philosophy of Law*, Joel Feinberg and Jules Coleman (eds), Belmont, CA: Wadsworth, 2000. doi:10.2307/1338226
-* Gans, Chaim, 1992, *Philosophical Anarchism and Political Disobedience*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511898235
-* Gilbert, Margaret, 2006, *A Theory of Political Obligation: Membership, Commitment, and the Bonds of Society*, Oxford: Clarendon Press. doi:10.1093/0199274959.001.0001
-* Green, Leslie, 1988, *The Authority of the State*, Oxford: Clarendon Press.
+* Adams, N. P., 2021, “In Defense of Exclusionary Reasons”, _Philosophical Studies_, 178(1): 235–253. doi:10.1007/s11098-020-01429-8
+* Anscombe, Elizabeth, 1978, “On the Source of the Authority of the State”, _Ratio_, o.s. 20(1): 1–28.
+* Arneson, Richard J., 1982, “The Principle of Fairness and Free-Rider Problems”, _Ethics_, 92(4): 616–633. doi:10.1086/292379
+* Austin, John, 1832 \[1995], _The Province of Jurisprudence Determined_, London: John Murray. New edition Wilfrid E. Rumble (ed.), Cambridge/New York: Cambridge University Press.
+* Bentham, Jeremy, _Of Laws in General_, unpublished manuscript, written circa 1790. Published, Herbert Lionel Adolphus Hart (ed.), London: Athlone, 1970.
+* Beran, Harry, 1987, _The Consent Theory of Political Obligation_, London/New York: Croom Helm.
+* Buchanan, Allen, 2002, “Political Legitimacy and Democracy”, _Ethics_, 112(4): 689–719. doi:10.1086/340313
+* Christiano, Thomas, 2004, “The Authority of Democracy”, _Journal of Political Philosophy_, 12(3): 266–290. doi:10.1111/j.1467-9760.2004.00200.x
+* –––, 2008, _The Constitution of Equality: Democratic Authority and Its Limits_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198297475.001.0001
+* Coleman, Jules L., 2001, _The Practice of Principle: In Defence of a Pragmatist Approach to Legal Theory_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199264124.001.0001
+* Coleman, Jules L. and Scott Shapiro (eds.), 2004, _The Oxford Handbook of Jurisprudence and Philosophy of Law_, Oxford/New York: Oxford University Press.
+* Copp, David, 1999, “The Idea of a Legitimate State”, _Philosophy & Public Affairs_, 28(1): 3–45. doi:10.1111/j.1088-4963.1999.00003.x
+* Darwall, Stephen L., 2013, _Morality, Authority, and Law_ (Essays in Second-Personal Ethics 1), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199662586.001.0001
+* Dagger, Richard, 1997, _Civic Virtues: Rights, Citizenship, and Republican Liberalism_, (Oxford Political Theory), New York: Oxford University Press.
+* –––, 2018, _Playing Fair: Political Obligation and the Problems of Punishment_ (Studies in Penal Theory and Philosophy), New York: Oxford University Press. doi:10.1093/oso/9780199388837.001.0001
+* Dworkin, Ronald, 1978, _Taking Rights Seriously_, Cambridge, MA: Harvard University Press.
+* –––, 1986, _Law’s Empire_, Cambridge, MA: Belknap Press.
+* Edmundson, William A., 1998, _Three Anarchical Fallacies: An Essay on Political Authority_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511663741
+* –––, 2004, “State of the Art: The Duty to Obey the Law”, _Legal Theory_, 10(4): 215–259. doi:10.1017/S1352325204040236
+* Enoch, David, 2011, “Reason‐Giving and the Law”, in _Oxford Studies in Philosophy of Law, Volume 1_, Leslie Green and Brian Leiter (eds.), Oxford: Oxford University Press, chapter 1.
+* –––, 2014, “Authority and Reason-Giving”, _Philosophy and Phenomenological Research_, 89(2): 296–332. doi:10.1111/j.1933-1592.2012.00610.x
+* –––, 2017, “Hypothetical Consent and the Value(s) of Autonomy”, _Ethics_, 128(1): 6–36. doi:10.1086/692939
+* Estlund, David M., 2008, _Democratic Authority: A Philosophical Framework_, Princeton, NJ: Princeton University Press.
+* Finnis, John, 1979, _Natural Law and Natural Rights_, (Clarendon Law Series), Oxford: Clarendon Press.
+* Friedman, Richard B., 1973, “On the Concept of Authority in Political Philosophy”, in _Concepts in Social and Political Philosophy_, Richard E. Flathman (ed.), New York: Macmillan.
+* Fuller, Lon L., 1958 \[2000], “Positivism and Fidelity to Law: A Reply to Professor Hart”, _Harvard Law Review_, 71(4): 630–672. Reprinted in _Philosophy of Law_, Joel Feinberg and Jules Coleman (eds), Belmont, CA: Wadsworth, 2000. doi:10.2307/1338226
+* Gans, Chaim, 1992, _Philosophical Anarchism and Political Disobedience_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511898235
+* Gilbert, Margaret, 2006, _A Theory of Political Obligation: Membership, Commitment, and the Bonds of Society_, Oxford: Clarendon Press. doi:10.1093/0199274959.001.0001
+* Green, Leslie, 1988, _The Authority of the State_, Oxford: Clarendon Press.
 * –––, 2002, “Law and Obligations”, in Coleman and Shapiro 2002: 514–547.
-* Greenawalt, Kent, 1987, *Conflicts of Law and Morality*, (Clarendon Law Series), New York/Oxford: Oxford University Press.
-* Gur, Noam, 2007, “Legal Directives in the Realm of Practical Reason: A Challenge to the Pre-Emption Thesis”, *The American Journal of Jurisprudence*, 52(1): 159–228. doi:10.1093/ajj/52.1.159
-* Hacker, P.M.S., 1973, “Sanction Theories of Duty”, in *Oxford Essays in Jurisprudence: Second Series*, A.W.B. Simpson (ed.): Oxford: Clarendon Press, chapter VI.
-* Hacker, P. M. S. and Joseph Raz (eds.), 1977, *Law, Morality, and Society: Essays in Honour of H. L. A. Hart*, Oxford: Clarendon Press.
-* Hardimon, Michael O., 1994, “Role Obligations”, *The Journal of Philosophy*, 91(7): 333–363. doi:10.2307/2940934
-* Harris, J. W., 1979, *Law and Legal Science: An Inquiry into the Concepts: Legal Rule and Legal System*, Oxford: Clarendon Press.
-* Hart, H. L. A., 1955, “Are There Any Natural Rights?”, *The Philosophical Review*, 64(2): 175–191. doi:10.2307/2182586
-* –––, 1958, “Legal and Moral Obligation”, in *Essays in Moral Philosophy*, A.I. Melden (ed.), Seattle, WA: University of Washington Press, 82–107.
-* –––, 1961 [1994], *The Concept of Law* (Clarendon Law Series), Oxford: Clarendon Press. Second edition, 1994, with a postscript edited by Penelope A. Bulloch and Joseph Raz.
-* –––, 1982, *Essays on Bentham: Studies in Jurisprudence and Political Theory*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198254683.001.0001
-* Hayek, Friedrich A. von, 1960, *The Constitution of Liberty*, Chicago: University of Chicago Press.
-* Hershovitz, Scott, 2003, “Legitimacy, Democracy, and Razian Authority”, *Legal Theory*, 9(23): 201–220. doi:10.1017/S1352325203000090
-* Himma, Kenneth Einar, 2001, “Law’s Claim of Legitimate Authority”, in *Hart’s Postscript: Essays on the Postscript to the Concept of Law*, Jules L. Coleman (ed.), Oxford: Oxford University Press, 271–309 (chap. 8).
-* –––, 2007, “Just ’Cause You’re Smarter than Me Doesn’t Give You a Right to Tell Me What to Do: Legitimate Authority and the Normal Justification Thesis”, *Oxford Journal of Legal Studies*, 27(1): 121–150. doi:10.1093/ojls/gql013
-* Hobbes, Thomas, 1651 [1968], *Leviathan*, London: Crooke. New edition, C. B Macpherson (ed.), Harmondsworth: Penguin.
-* Holmes, Oliver Wendell, 1897, “The Path of the Law”, *Harvard Law Review*, 10(8): 457–478. Reprinted in his *Collected Legal Papers*, Harold J. Laski (ed.), New York: Harcourt, Brace and Company, 1920: 167–202. doi:10.2307/1322028
+* Greenawalt, Kent, 1987, _Conflicts of Law and Morality_, (Clarendon Law Series), New York/Oxford: Oxford University Press.
+* Gur, Noam, 2007, “Legal Directives in the Realm of Practical Reason: A Challenge to the Pre-Emption Thesis”, _The American Journal of Jurisprudence_, 52(1): 159–228. doi:10.1093/ajj/52.1.159
+* Hacker, P.M.S., 1973, “Sanction Theories of Duty”, in _Oxford Essays in Jurisprudence: Second Series_, A.W.B. Simpson (ed.): Oxford: Clarendon Press, chapter VI.
+* Hacker, P. M. S. and Joseph Raz (eds.), 1977, _Law, Morality, and Society: Essays in Honour of H. L. A. Hart_, Oxford: Clarendon Press.
+* Hardimon, Michael O., 1994, “Role Obligations”, _The Journal of Philosophy_, 91(7): 333–363. doi:10.2307/2940934
+* Harris, J. W., 1979, _Law and Legal Science: An Inquiry into the Concepts: Legal Rule and Legal System_, Oxford: Clarendon Press.
+* Hart, H. L. A., 1955, “Are There Any Natural Rights?”, _The Philosophical Review_, 64(2): 175–191. doi:10.2307/2182586
+* –––, 1958, “Legal and Moral Obligation”, in _Essays in Moral Philosophy_, A.I. Melden (ed.), Seattle, WA: University of Washington Press, 82–107.
+* –––, 1961 \[1994], _The Concept of Law_ (Clarendon Law Series), Oxford: Clarendon Press. Second edition, 1994, with a postscript edited by Penelope A. Bulloch and Joseph Raz.
+* –––, 1982, _Essays on Bentham: Studies in Jurisprudence and Political Theory_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198254683.001.0001
+* Hayek, Friedrich A. von, 1960, _The Constitution of Liberty_, Chicago: University of Chicago Press.
+* Hershovitz, Scott, 2003, “Legitimacy, Democracy, and Razian Authority”, _Legal Theory_, 9(23): 201–220. doi:10.1017/S1352325203000090
+* Himma, Kenneth Einar, 2001, “Law’s Claim of Legitimate Authority”, in _Hart’s Postscript: Essays on the Postscript to the Concept of Law_, Jules L. Coleman (ed.), Oxford: Oxford University Press, 271–309 (chap. 8).
+* –––, 2007, “Just ’Cause You’re Smarter than Me Doesn’t Give You a Right to Tell Me What to Do: Legitimate Authority and the Normal Justification Thesis”, _Oxford Journal of Legal Studies_, 27(1): 121–150. doi:10.1093/ojls/gql013
+* Hobbes, Thomas, 1651 \[1968], _Leviathan_, London: Crooke. New edition, C. B Macpherson (ed.), Harmondsworth: Penguin.
+* Holmes, Oliver Wendell, 1897, “The Path of the Law”, _Harvard Law Review_, 10(8): 457–478. Reprinted in his _Collected Legal Papers_, Harold J. Laski (ed.), New York: Harcourt, Brace and Company, 1920: 167–202. doi:10.2307/1322028
 * Honoré, Anthony M., 1977, “Real Laws”, in Hacker and Raz 1977: 99–118.
-* Horton, John, 2010, *Political Obligation*, second edition, (Issues in Political Theory), New York: Palgrave Macmillan. Substantial revision of the first edition, Atlantic Highlands, NJ: Humanities Press International, 1992.
-* Hume, David, 1748 [1985], “Of the Original Contract”, in *Three Essays, Moral and Political*. Revised and reprinted in his lifetime. Reprinted in *Essays: Moral, Political, and Literary*, Eugene F. Miller (ed.), Indianapolis, IN: Liberty Classics, 1985.
-* Huemer, Michael, 2013, *The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey*, London: Palgrave Macmillan UK. doi:10.1057/9781137281661
-* Kant, Immanuel, 1797 [1970], *Die Metaphysik der Sitten*, Königsberg. Translated as “The Metaphysics of Morals”, H. B. Nisbet (trans.), in *Kant’s Political Writings*, H. P. Reiss (ed.), Cambridge: Cambridge University Press, 1970: 131–175.
-* Kelly, Erin I., 2022, “The Ethics of Law’s Authority: On Tommie Shelby’s, ‘Dark Ghettos: Injustice, Dissent, and Reform’”, *Criminal Law and Philosophy*, 16(1): 1–12. doi:10.1007/s11572-019-09498-5
-* Kelsen, Hans, 1960 [1967], *Reine Rechtslehre. Mit einem Anhang: Das Problem der Gerechtigkeit*, second edition greatly revised, Wien: F. Deuticke. First edition was 1934. Translation of the second edition as *Pure Theory of Law*, Max Knight (trans.), Berkeley, CA: University of California Press, 1967.
-* Klosko, George, 1989, “Political Obligation and Gratitude”, *Philosophy & Public Affairs*, 18(4): 352–358.
-* –––, 1991, *The Principle of Fairness and Political Obligation*, Savage, MD: Rowman & Littlefield.
-* –––, 2005, *Political Obligations*, Oxford/New York: Oxford University Press. doi:10.1093/0199256209.001.0001
-* Knowles, Dudley, 2002, “Gratitude and Good Government”, *Res Publica*, 8(1): 1–20. doi:10.1023/A:1014250718677
-* –––, 2010, *Political Obligation: A Critical Introduction*, (Routledge Contemporary Political Philosophy), London/New York: Routledge. doi:10.4324/9780203872499
-* Kramer, Matthew H., 1999, *In Defense of Legal Positivism: Law without Trimmings*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199264834.001.0001
-* Ladenson, Robert, 1980, “In Defense of a Hobbesian Conception of Law”, *Philosophy & Public Affairs*, 9(2): 134–159.
-* Locke, John, 1689 [1983], *Epistola de Tolerantia*, Gouda: Hoeve. Translated as *A Letter Concerning Toleration*, William Popple (trans.), London: Awnsham Churchill, 1689, corrected edition 1690. New edition, James Tully (ed.), Indianapolis, IN: Hackett, 1983.
-* –––, 1690, *Two Treatises of Government*, London: Awnsham Churchill. New edition, Peter Laslett (ed.), Cambridge: University Press, 1960, revised edition 1963.
-* Lyons, David, 1984, *Ethics and the Rule of Law*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511608933
-* Macklem, Timothy, 2015, *Law and Life in Common*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198735816.001.0001
-* Markwick, P, 2000, “Law and Content-Independent Reasons”, *Oxford Journal of Legal Studies*, 20(4): 579–596. doi:10.1093/ojls/20.4.579
-* Marmor, Andrei, 2001, *Positive Law and Objective Values*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198268970.001.0001
-* –––, 2011, *Philosophy of Law*, Princeton, NJ: Princeton University Press.
-* McPherson, Thomas, 1967, *Political Obligation*, (Library of Political Studies), London/New York: Routledge & K. Paul.
-* Mian, Emran, 2002, “The Curious Case of Exclusionary Reasons”, *Canadian Journal of Law & Jurisprudence*, 15(1): 99–124. doi:10.1017/S0841820900002484
-* Mokrosińska, Dorota, 2012, *Rethinking Political Obligation: Moral Principles, Communal Ties, Citizenship*, London: Palgrave Macmillan UK. doi:10.1057/9781137025036
-* Nozick, Robert, 1974. *Anarchy, State, and Utopia*, New York: Basic Books.
-* Parekh, Bhikhu, 1993, “A Misconceived Discourse on Political Obligation”, *Political Studies*, 41(2): 236–251. doi:10.1111/j.1467-9248.2006.tb00926.x
-* Perry, Stephen R., 1989, “Second-Order Reasons, Uncertainty and Legal Theory”, *Southern California Law Review*, 62(3–4): 913–994.
-* –––, 2005, “Law and Obligation”, *The American Journal of Jurisprudence*, 50(1): 263–295. doi:10.1093/ajj/50.1.263
-* –––, 2008, “Associative Obligations and the Obligation to Obey the Law”, in *Exploring Law’s Empire: The Jurisprudence of Ronald Dworkin*, Scott Hershovitz (ed.), Oxford: Oxford University Press, 183–206.
-* –––, 2012, “Political Authority and Political Obligation”, in *Oxford Studies in Philosophy of Law, Volume II*, Leslie Green and Brian Leiter (eds), Oxford: Oxford University Press, 1–74.
-* Pitkin, Hanna, 1965 [1972], “Obligation and Consent—I”, *American Political Science Review*, 59(4): 990–999.
-* Plato, *Crito*, in *Plato: Complete Works*, J. M. Cooper and D. S. Hutchinson (eds.): Indianapolis: Hackett, 1997.
-* Rawls, John, 1964, “Legal Obligation and the Duty of Fair Play”, in *Law and Philosophy*, Sidney Hook (ed.), New York: New York University Press, 3–18.
-* –––, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* Raz, Joseph, 1975 [1990], *Practical Reason and Norms*, (Hutchinson University Library), London: Hutchinson. Second edition, Princeton, NJ: Princeton University Press, 1990.
+* Horton, John, 2010, _Political Obligation_, second edition, (Issues in Political Theory), New York: Palgrave Macmillan. Substantial revision of the first edition, Atlantic Highlands, NJ: Humanities Press International, 1992.
+* Hume, David, 1748 \[1985], “Of the Original Contract”, in _Three Essays, Moral and Political_. Revised and reprinted in his lifetime. Reprinted in _Essays: Moral, Political, and Literary_, Eugene F. Miller (ed.), Indianapolis, IN: Liberty Classics, 1985.
+* Huemer, Michael, 2013, _The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey_, London: Palgrave Macmillan UK. doi:10.1057/9781137281661
+* Kant, Immanuel, 1797 \[1970], _Die Metaphysik der Sitten_, Königsberg. Translated as “The Metaphysics of Morals”, H. B. Nisbet (trans.), in _Kant’s Political Writings_, H. P. Reiss (ed.), Cambridge: Cambridge University Press, 1970: 131–175.
+* Kelly, Erin I., 2022, “The Ethics of Law’s Authority: On Tommie Shelby’s, ‘Dark Ghettos: Injustice, Dissent, and Reform’”, _Criminal Law and Philosophy_, 16(1): 1–12. doi:10.1007/s11572-019-09498-5
+* Kelsen, Hans, 1960 \[1967], _Reine Rechtslehre. Mit einem Anhang: Das Problem der Gerechtigkeit_, second edition greatly revised, Wien: F. Deuticke. First edition was 1934. Translation of the second edition as _Pure Theory of Law_, Max Knight (trans.), Berkeley, CA: University of California Press, 1967.
+* Klosko, George, 1989, “Political Obligation and Gratitude”, _Philosophy & Public Affairs_, 18(4): 352–358.
+* –––, 1991, _The Principle of Fairness and Political Obligation_, Savage, MD: Rowman & Littlefield.
+* –––, 2005, _Political Obligations_, Oxford/New York: Oxford University Press. doi:10.1093/0199256209.001.0001
+* Knowles, Dudley, 2002, “Gratitude and Good Government”, _Res Publica_, 8(1): 1–20. doi:10.1023/A:1014250718677
+* –––, 2010, _Political Obligation: A Critical Introduction_, (Routledge Contemporary Political Philosophy), London/New York: Routledge. doi:10.4324/9780203872499
+* Kramer, Matthew H., 1999, _In Defense of Legal Positivism: Law without Trimmings_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199264834.001.0001
+* Ladenson, Robert, 1980, “In Defense of a Hobbesian Conception of Law”, _Philosophy & Public Affairs_, 9(2): 134–159.
+* Locke, John, 1689 \[1983], _Epistola de Tolerantia_, Gouda: Hoeve. Translated as _A Letter Concerning Toleration_, William Popple (trans.), London: Awnsham Churchill, 1689, corrected edition 1690. New edition, James Tully (ed.), Indianapolis, IN: Hackett, 1983.
+* –––, 1690, _Two Treatises of Government_, London: Awnsham Churchill. New edition, Peter Laslett (ed.), Cambridge: University Press, 1960, revised edition 1963.
+* Lyons, David, 1984, _Ethics and the Rule of Law_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511608933
+* Macklem, Timothy, 2015, _Law and Life in Common_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198735816.001.0001
+* Markwick, P, 2000, “Law and Content-Independent Reasons”, _Oxford Journal of Legal Studies_, 20(4): 579–596. doi:10.1093/ojls/20.4.579
+* Marmor, Andrei, 2001, _Positive Law and Objective Values_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198268970.001.0001
+* –––, 2011, _Philosophy of Law_, Princeton, NJ: Princeton University Press.
+* McPherson, Thomas, 1967, _Political Obligation_, (Library of Political Studies), London/New York: Routledge & K. Paul.
+* Mian, Emran, 2002, “The Curious Case of Exclusionary Reasons”, _Canadian Journal of Law & Jurisprudence_, 15(1): 99–124. doi:10.1017/S0841820900002484
+* Mokrosińska, Dorota, 2012, _Rethinking Political Obligation: Moral Principles, Communal Ties, Citizenship_, London: Palgrave Macmillan UK. doi:10.1057/9781137025036
+* Nozick, Robert, 1974. _Anarchy, State, and Utopia_, New York: Basic Books.
+* Parekh, Bhikhu, 1993, “A Misconceived Discourse on Political Obligation”, _Political Studies_, 41(2): 236–251. doi:10.1111/j.1467-9248.2006.tb00926.x
+* Perry, Stephen R., 1989, “Second-Order Reasons, Uncertainty and Legal Theory”, _Southern California Law Review_, 62(3–4): 913–994.
+* –––, 2005, “Law and Obligation”, _The American Journal of Jurisprudence_, 50(1): 263–295. doi:10.1093/ajj/50.1.263
+* –––, 2008, “Associative Obligations and the Obligation to Obey the Law”, in _Exploring Law’s Empire: The Jurisprudence of Ronald Dworkin_, Scott Hershovitz (ed.), Oxford: Oxford University Press, 183–206.
+* –––, 2012, “Political Authority and Political Obligation”, in _Oxford Studies in Philosophy of Law, Volume II_, Leslie Green and Brian Leiter (eds), Oxford: Oxford University Press, 1–74.
+* Pitkin, Hanna, 1965 \[1972], “Obligation and Consent—I”, _American Political Science Review_, 59(4): 990–999.
+* Plato, _Crito_, in _Plato: Complete Works_, J. M. Cooper and D. S. Hutchinson (eds.): Indianapolis: Hackett, 1997.
+* Rawls, John, 1964, “Legal Obligation and the Duty of Fair Play”, in _Law and Philosophy_, Sidney Hook (ed.), New York: New York University Press, 3–18.
+* –––, 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
+* Raz, Joseph, 1975 \[1990], _Practical Reason and Norms_, (Hutchinson University Library), London: Hutchinson. Second edition, Princeton, NJ: Princeton University Press, 1990.
 * –––, 1977, “Promises and Obligations”, in Hacker and Raz 1977: 210–228.
-* –––, 1979, *The Authority of Law: Essays on Law and Morality*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198253457.001.0001
-* –––, 1986, *The Morality of Freedom*, Oxford: Clarendon Press. doi:10.1093/0198248075.001.0001
-* –––, 1994, *Ethics in the Public Domain: Essays in the Morality of Law and Politics*, Oxford : New York: Clarendon Press ; Oxford University Press. doi:10.1093/acprof:oso/9780198260691.001.0001
-* –––, 2006, “The Problem of Authority: Revisiting the Service Conception”, *Minnesota Law Review*, 90: 1003–1044.
-* –––, 2010, “On Respect, Authority, and Neutrality: A Response”, *Ethics*, 120(2): 279–301. doi:10.1086/651426
-* Regan, Donald H., 1987, “Law’s Halo”, in *Philosophy and Law*, Jules Coleman and Ellen Frankel Paul (eds.), Oxford: Basil Blackwell, 15–30.
-* Renzo, Massimo, 2008, “Duties of Samaritanism and Political Obligation”, *Legal Theory*, 14(3): 193–217. doi:10.1017/S1352325208080087
-* –––, 2011, “State Legitimacy and Self-Defence”, *Law and Philosophy*, 30(5): 575–601. doi:10.1007/s10982-011-9105-2
-* –––, 2012, “Associative Responsibilities and Political Obligation”, *The Philosophical Quarterly*, 62(246): 106–127. doi:10.1111/j.1467-9213.2011.00002.x
-* –––, 2014, “Fairness, Self-Deception and Political Obligation”, *Philosophical Studies*, 169(3): 467–488. doi:10.1007/s11098-013-0203-x
-* –––, 2019, “Political Authority and Unjust Wars”, *Philosophy and Phenomenological Research*, 99(2): 336–357. doi:10.1111/phpr.12487
-* Ripstein, Arthur, 2004, “Authority and Coercion”, *Philosophy & Public Affairs*, 32(1): 2–35. doi:10.1111/j.1467-6486.2004.00003.x
-* –––, 2009, *Force and Freedom: Kant’s Legal and Political Philosophy*, Cambridge, MA/London: Harvard University Press.
-* Ross, W.D., 1930 [2002], *The Right and the Good*, Oxford: Clarendon Press.
-* Schauer, Frederick F., 1991, *Playing by the Rules: A Philosophical Examination of Rule-Based Decision Making in Law and in Life*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198258315.001.0001
-* –––, 2015, *The Force of Law*, Cambridge, MA: Harvard University Press.
-* Senor, Thomas D., 1987, “What If There Are No Political Obligations? A Reply to A. J. Simmons”, *Philosophy & Public Affairs*, 16(3): 260–268.
-* Sciaraffa, Stefan, 2009, “On Content-Independent Reasons: It’s Not in the Name”, *Law and Philosophy*, 28(3): 233–260. doi:10.1007/s10982-008-9037-7
-* Shapiro, Scott J., 1998, “On Hart’s Way Out”, *Legal Theory*, 4(4): 469–507. doi:10.1017/S1352325200001117
+* –––, 1979, _The Authority of Law: Essays on Law and Morality_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198253457.001.0001
+* –––, 1986, _The Morality of Freedom_, Oxford: Clarendon Press. doi:10.1093/0198248075.001.0001
+* –––, 1994, _Ethics in the Public Domain: Essays in the Morality of Law and Politics_, Oxford : New York: Clarendon Press ; Oxford University Press. doi:10.1093/acprof:oso/9780198260691.001.0001
+* –––, 2006, “The Problem of Authority: Revisiting the Service Conception”, _Minnesota Law Review_, 90: 1003–1044.
+* –––, 2010, “On Respect, Authority, and Neutrality: A Response”, _Ethics_, 120(2): 279–301. doi:10.1086/651426
+* Regan, Donald H., 1987, “Law’s Halo”, in _Philosophy and Law_, Jules Coleman and Ellen Frankel Paul (eds.), Oxford: Basil Blackwell, 15–30.
+* Renzo, Massimo, 2008, “Duties of Samaritanism and Political Obligation”, _Legal Theory_, 14(3): 193–217. doi:10.1017/S1352325208080087
+* –––, 2011, “State Legitimacy and Self-Defence”, _Law and Philosophy_, 30(5): 575–601. doi:10.1007/s10982-011-9105-2
+* –––, 2012, “Associative Responsibilities and Political Obligation”, _The Philosophical Quarterly_, 62(246): 106–127. doi:10.1111/j.1467-9213.2011.00002.x
+* –––, 2014, “Fairness, Self-Deception and Political Obligation”, _Philosophical Studies_, 169(3): 467–488. doi:10.1007/s11098-013-0203-x
+* –––, 2019, “Political Authority and Unjust Wars”, _Philosophy and Phenomenological Research_, 99(2): 336–357. doi:10.1111/phpr.12487
+* Ripstein, Arthur, 2004, “Authority and Coercion”, _Philosophy & Public Affairs_, 32(1): 2–35. doi:10.1111/j.1467-6486.2004.00003.x
+* –––, 2009, _Force and Freedom: Kant’s Legal and Political Philosophy_, Cambridge, MA/London: Harvard University Press.
+* Ross, W.D., 1930 \[2002], _The Right and the Good_, Oxford: Clarendon Press.
+* Schauer, Frederick F., 1991, _Playing by the Rules: A Philosophical Examination of Rule-Based Decision Making in Law and in Life_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198258315.001.0001
+* –––, 2015, _The Force of Law_, Cambridge, MA: Harvard University Press.
+* Senor, Thomas D., 1987, “What If There Are No Political Obligations? A Reply to A. J. Simmons”, _Philosophy & Public Affairs_, 16(3): 260–268.
+* Sciaraffa, Stefan, 2009, “On Content-Independent Reasons: It’s Not in the Name”, _Law and Philosophy_, 28(3): 233–260. doi:10.1007/s10982-008-9037-7
+* Shapiro, Scott J., 1998, “On Hart’s Way Out”, _Legal Theory_, 4(4): 469–507. doi:10.1017/S1352325200001117
 * –––, 2002, “Authority”, in Coleman and Shapiro 2002: 382–439.
-* –––, 2011, *Legality*, Cambridge, MA: Harvard University Press.
-* Simmons, A. John, 1979, *Moral Principles and Political Obligations*, Princeton, NJ: Princeton University Press.
-* –––, 1996, “Associative Political Obligations”, *Ethics*, 106(2): 247–273. doi:10.1086/233617
-* –––, 2001, *Justification and Legitimacy: Essays on Rights and Obligations*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511625152
+* –––, 2011, _Legality_, Cambridge, MA: Harvard University Press.
+* Simmons, A. John, 1979, _Moral Principles and Political Obligations_, Princeton, NJ: Princeton University Press.
+* –––, 1996, “Associative Political Obligations”, _Ethics_, 106(2): 247–273. doi:10.1086/233617
+* –––, 2001, _Justification and Legitimacy: Essays on Rights and Obligations_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511625152
 * –––, 2005, “The Duty to Obey and Our Natural Moral Duties”, in Wellman and Simmons 2005: 93–196.
-* Shelby, Tommie, 2016, *Dark Ghettos: Injustice, Dissent, and Reform*, Cambridge, MA: Harvard University Press. doi:10.4159/9780674974647
-* Smith, M. B. E., 1973, “Is There a Prima Facie Obligation to Obey the Law?”, *The Yale Law Journal*, 82(5): 950–976. doi:10.2307/795537
-* Soper, Philip, 2002, *The Ethics of Deference: Learning from Law’s Morals*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511613890
-* Sreenivasan, Gopal, 2009, “‘Oh, but You Should Have’: Estlund on Normative Consent”, *Iyyun: The Jerusalem Philosophical Quarterly / עיון: רבעון פילוסופי*, 58: 62–72.
-* Steinhoff, Uwe, 2016, “Renzo’s Attempt to Ground State Legitimacy on a Right to Self-Defence, and the Uselessness of Political Obligation”, *Ratio Juris*, 29(1): 122–135. doi:10.1111/raju.12112
-* Stilz, Anna, 2009, *Liberal Loyalty: Freedom, Obligation, and the State*, Princeton, NJ: Princeton University Press.
-* Tadros, Victor, 2020, *To Do, to Die, to Reason Why: Individual Ethics in War*, Oxford: Oxford University Press. doi:10.1093/oso/9780198831549.001.0001
-* Tamir, Yael, 1995, *Liberal Nationalism*, (Studies in Moral, Political, and Legal Philosophy), Princeton, NJ: Princeton University Press.
-* Thomson, Judith Jarvis, 1990, *The Realm of Rights*, Cambridge, MA: Harvard University Press.
-* Valentini, Laura, 2018, “The Content-Independence of Political Obligation: What It Is and How to Test It”, *Legal Theory*, 24(2): 135–157. doi:10.1017/S1352325218000095
-* Venezia, Luciano, 2020, “Mistaken Authority and Obligation”, *Legal Theory*, 26(4): 338–351. doi:10.1017/S135232522100001X
-* Viehoff, Daniel, 2011, “Debate: Procedure and Outcome in the Justification of Authority”, *Journal of Political Philosophy*, 19(2): 248–259. doi:10.1111/j.1467-9760.2010.00375.x
-* Waldron, Jeremy, 1993, “Special Ties and Natural Duties”, *Philosophy & Public Affairs*, 22(1): 3–30.
-* –––, 1999, *Law and Disagreement*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198262138.001.0001
-* Walker, A. D. M., 1988, “Political Obligation and the Argument from Gratitude”, *Philosophy & Public Affairs*, 17(3): 191–211.
-* Waluchow, Wilfrid J., 1994, *Inclusive Legal Positivism*, Oxford: Clarendon Press.
-* Wasserstrom, Richard A., 1963, “The Obligation to Obey the Law Symposium: Jurisprudence”, *UCLA Law Review*, 10(4): 780–807.
-* Weber, Max, 1922 [1968], *Wirtschaft und Gesellschaft. Grundriß der verstehenden Soziologie*, Tübingen: Mohr. Translated as *Economy and Society: An Outline of Interpretive Sociology*, 3 volumes, Guenther Roth and Claus Wittich (eds), Ephraim Fischoff (trans.), New York: Bedminster Press, 1968.
-* Wellman, Christopher Heath, 1997, “Associative Allegiances and Political Obligations”, *Social Theory and Practice*, 23(2): 181–204. doi:10.5840/soctheorpract19972328
+* Shelby, Tommie, 2016, _Dark Ghettos: Injustice, Dissent, and Reform_, Cambridge, MA: Harvard University Press. doi:10.4159/9780674974647
+* Smith, M. B. E., 1973, “Is There a Prima Facie Obligation to Obey the Law?”, _The Yale Law Journal_, 82(5): 950–976. doi:10.2307/795537
+* Soper, Philip, 2002, _The Ethics of Deference: Learning from Law’s Morals_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511613890
+* Sreenivasan, Gopal, 2009, “‘Oh, but You Should Have’: Estlund on Normative Consent”, _Iyyun: The Jerusalem Philosophical Quarterly / עיון: רבעון פילוסופי_, 58: 62–72.
+* Steinhoff, Uwe, 2016, “Renzo’s Attempt to Ground State Legitimacy on a Right to Self-Defence, and the Uselessness of Political Obligation”, _Ratio Juris_, 29(1): 122–135. doi:10.1111/raju.12112
+* Stilz, Anna, 2009, _Liberal Loyalty: Freedom, Obligation, and the State_, Princeton, NJ: Princeton University Press.
+* Tadros, Victor, 2020, _To Do, to Die, to Reason Why: Individual Ethics in War_, Oxford: Oxford University Press. doi:10.1093/oso/9780198831549.001.0001
+* Tamir, Yael, 1995, _Liberal Nationalism_, (Studies in Moral, Political, and Legal Philosophy), Princeton, NJ: Princeton University Press.
+* Thomson, Judith Jarvis, 1990, _The Realm of Rights_, Cambridge, MA: Harvard University Press.
+* Valentini, Laura, 2018, “The Content-Independence of Political Obligation: What It Is and How to Test It”, _Legal Theory_, 24(2): 135–157. doi:10.1017/S1352325218000095
+* Venezia, Luciano, 2020, “Mistaken Authority and Obligation”, _Legal Theory_, 26(4): 338–351. doi:10.1017/S135232522100001X
+* Viehoff, Daniel, 2011, “Debate: Procedure and Outcome in the Justification of Authority”, _Journal of Political Philosophy_, 19(2): 248–259. doi:10.1111/j.1467-9760.2010.00375.x
+* Waldron, Jeremy, 1993, “Special Ties and Natural Duties”, _Philosophy & Public Affairs_, 22(1): 3–30.
+* –––, 1999, _Law and Disagreement_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198262138.001.0001
+* Walker, A. D. M., 1988, “Political Obligation and the Argument from Gratitude”, _Philosophy & Public Affairs_, 17(3): 191–211.
+* Waluchow, Wilfrid J., 1994, _Inclusive Legal Positivism_, Oxford: Clarendon Press.
+* Wasserstrom, Richard A., 1963, “The Obligation to Obey the Law Symposium: Jurisprudence”, _UCLA Law Review_, 10(4): 780–807.
+* Weber, Max, 1922 \[1968], _Wirtschaft und Gesellschaft. Grundriß der verstehenden Soziologie_, Tübingen: Mohr. Translated as _Economy and Society: An Outline of Interpretive Sociology_, 3 volumes, Guenther Roth and Claus Wittich (eds), Ephraim Fischoff (trans.), New York: Bedminster Press, 1968.
+* Wellman, Christopher Heath, 1997, “Associative Allegiances and Political Obligations”, _Social Theory and Practice_, 23(2): 181–204. doi:10.5840/soctheorpract19972328
 * –––, 2005, “Samaritanism and the Duty to Obey the Law”, in Wellman and Simmons 2005: 3–89.
-* Wellman, Christopher and John Simmons, 2005, *Is There a Duty to Obey the Law?*, New York: Cambridge University Press. doi:10.1017/CBO9780511809286
-* Whiting, Daniel, 2017, “Against Second-Order Reasons”, *Noûs*, 51(2): 398–420. doi:10.1111/nous.12138
-* Wolff, Jonathan, 2000, “Political Obligation: A Pluralistic Approach”, in *Pluralism: The Philosophy and Politics of Diversity*, Maria Baghramian and Attracta Ingram (eds.), London/New York: Routledge, 179–196.
-* Wolff, Robert Paul, 1970, *In Defense of Anarchism*, (Harper Essays in Philosophy), New York: Harper & Row.
-* Yankah, Ekow N., 2022, “Whose Burden to Bear? Privilege, Lawbreaking and Race”, *Criminal Law and Philosophy*, 16(1): 13–28. doi:10.1007/s11572-019-09503-x
+* Wellman, Christopher and John Simmons, 2005, _Is There a Duty to Obey the Law?_, New York: Cambridge University Press. doi:10.1017/CBO9780511809286
+* Whiting, Daniel, 2017, “Against Second-Order Reasons”, _Noûs_, 51(2): 398–420. doi:10.1111/nous.12138
+* Wolff, Jonathan, 2000, “Political Obligation: A Pluralistic Approach”, in _Pluralism: The Philosophy and Politics of Diversity_, Maria Baghramian and Attracta Ingram (eds.), London/New York: Routledge, 179–196.
+* Wolff, Robert Paul, 1970, _In Defense of Anarchism_, (Harper Essays in Philosophy), New York: Harper & Row.
+* Yankah, Ekow N., 2022, “Whose Burden to Bear? Privilege, Lawbreaking and Race”, _Criminal Law and Philosophy_, 16(1): 13–28. doi:10.1007/s11572-019-09503-x
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=legal-obligation). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/legal-obligation/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=legal-obligation&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/legal-obligation/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=legal-obligation).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/legal-obligation/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=legal-obligation\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/legal-obligation/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -416,8 +413,8 @@ Rawls 理论的基础在于必要性，如果我们探索一个公正的机构�
 
 ## Related Entries
 
-[anarchism](https://plato.stanford.edu/entries/anarchism/) | [Austin, John](https://plato.stanford.edu/entries/austin-john/) | [authority](https://plato.stanford.edu/entries/authority/) | [Bentham, Jeremy](https://plato.stanford.edu/entries/bentham/) | [free rider problem](https://plato.stanford.edu/entries/free-rider/) | [law: and language](https://plato.stanford.edu/entries/law-language/) | [legitimacy, political](https://plato.stanford.edu/entries/legitimacy/) | [nature of law](https://plato.stanford.edu/entries/lawphil-nature/) | [nature of law: interpretivist theories](https://plato.stanford.edu/entries/law-interpretivist/) | [nature of law: legal positivism](https://plato.stanford.edu/entries/legal-positivism/) | [nature of law: pure theory of law](https://plato.stanford.edu/entries/lawphil-theory/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/)
+[anarchism](https://plato.stanford.edu/entries/anarchism/) | [Austin, John](https://plato.stanford.edu/entries/austin-john/) | [authority](https://plato.stanford.edu/entries/authority/) | [Bentham, Jeremy](https://plato.stanford.edu/entries/bentham/) | [free rider problem](https://plato.stanford.edu/entries/free-rider/) | [law: and language](https://plato.stanford.edu/entries/law-language/) | [legitimacy, political](https://plato.stanford.edu/entries/legitimacy/) | [nature of law](https://plato.stanford.edu/entries/lawphil-nature/) | [nature of law: interpretivist theories](https://plato.stanford.edu/entries/law-interpretivist/) | [nature of law: legal positivism](https://plato.stanford.edu/entries/legal-positivism/) | [nature of law: pure theory of law](https://plato.stanford.edu/entries/lawphil-theory/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-Massimo Renzo <[*massimo.renzo@kcl.ac.uk*](mailto:massimo%2erenzo%40kcl%2eac%2euk)>  
-[Leslie Green](http://www.competition-law.ox.ac.uk/members/profile.phtml?lecturer_code=leslie.green)
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+Massimo Renzo <[_massimo.renzo@kcl.ac.uk_](mailto:massimo%2erenzo%40kcl%2eac%2euk)>\
+[Leslie Green](http://www.competition-law.ox.ac.uk/members/profile.phtml?lecturer\_code=leslie.green)
