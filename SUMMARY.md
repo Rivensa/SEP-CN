@@ -302,7 +302,19 @@
 * [婚姻和同居伴侣 marriage and domestic partnership (Elizabeth Brake)](m/hun-yin-he-tong-ju-ban-lv-marriage-and-domestic-partnership-elizabeth-brake.md)
 * [因根的马西利乌斯 Marsilius of Inghen (Maarten Hoenen)](m/yin-gen-de-ma-xi-li-wu-si-marsilius-of-inghen-maarten-hoenen.md)
 * [安东·马蒂 Marty, Anton (Robin Rollinger and Hynek Janousek)](m/an-dong-ma-di-marty-anton-robin-rollinger-and-hynek-janousek.md)
-* [Page](m/page.md)
+* [分析马克思主义 Marxism, analytical (David Leopold)](m/fen-xi-ma-ke-si-zhu-yi-marxism-analytical-david-leopold.md)
+* [达马里斯·卡德沃斯·马沙姆 Masham, Lady Damaris (Sarah Hutton)](m/da-ma-li-si-ka-de-wo-si-ma-sha-mu-masham-lady-damaris-sarah-hutton.md)
+* [\*质能守恒——见质能守恒 mass/energy equivalence — see equivalence of mass and energy](m/zhi-neng-shou-heng-jian-zhi-neng-shou-heng-massenergy-equivalence-see-equivalence-of-mass-and-energy.md)
+* [\*物质名词 mass expressions](m/wu-zhi-ming-ci-mass-expressions/README.md)
+  * [物质名词的逻辑 logic of (David Nicolas)](m/wu-zhi-ming-ci-mass-expressions/wu-zhi-ming-ci-de-luo-ji-logic-of-david-nicolas.md)
+  * [物质名词的形而上学 metaphysics of (Mark Steen)](m/wu-zhi-ming-ci-mass-expressions/wu-zhi-ming-ci-de-xing-er-shang-xue-metaphysics-of-mark-steen.md)
+* [物质构成 material constitution (Ryan Wasserman)](m/wu-zhi-gou-cheng-material-constitution-ryan-wasserman.md)
+* [\*唯物主义——见物理主义 materialism — see physicalism](m/wei-wu-zhu-yi-jian-wu-li-zhu-yi-materialism-see-physicalism/README.md)
+  * [取消唯物主义 eliminative (William Ramsey)](m/wei-wu-zhu-yi-jian-wu-li-zhu-yi-materialism-see-physicalism/qu-xiao-wei-wu-zhu-yi-eliminative-william-ramsey.md)
+* [\*数学相关 mathematical](m/shu-xue-xiang-guan-mathematical/README.md)
+  * [数学解释 explanation (Paolo Mancosu, Francesca Poggiolesi, and Christopher Pincock)](m/shu-xue-xiang-guan-mathematical/shu-xue-jie-shi-explanation-paolo-mancosu-francesca-poggiolesi-and-christopher-pincock.md)
+  * [\*风格——见风格：数学的风格 style — see style: in mathematics](m/shu-xue-xiang-guan-mathematical/feng-ge-jian-feng-ge-shu-xue-de-feng-ge-style-see-style-in-mathematics.md)
+* [\*数学 mathematics](m/shu-xue-mathematics.md)
 
 ## N
 
