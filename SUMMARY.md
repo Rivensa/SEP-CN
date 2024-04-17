@@ -888,7 +888,7 @@
   * [\*科学——见科学解释 scientific — see scientific explanation](e/jie-shi-explanation/ke-xue-jian-ke-xue-jie-shi-scientific-see-scientific-explanation.md)
 * [剥削 exploitation (Matt Zwolinski, Benjamin Ferguson, and Alan Wertheimer)](e/bao-xiao-exploitation-matt-zwolinski-benjamin-ferguson-and-alan-wertheimer.md)
 * [\*外在主义 externalism](e/wai-zai-zhu-yi-externalism/README.md)
-  * [外在主义与自我知识 and self-knowledge (T. Parent)](e/wai-zai-zhu-yi-externalism/wai-zai-zhu-yi-yu-zi-wo-zhi-shi-and-selfknowledge-t.-parent.md)
+  * [外在主义与自我认识 and self-knowledge (T. Parent)](e/wai-zai-zhu-yi-externalism/wai-zai-zhu-yi-yu-zi-wo-ren-shi-and-selfknowledge-t.-parent.md)
 * [心灵外在主义 externalism about the mind (Mark Rowlands, Joe Lau, and Max Deutsch)](e/xin-ling-wai-zai-zhu-yi-externalism-about-the-mind-mark-rowlands-joe-lau-and-max-deutsch.md)
 * [\*外在性——见内在属性与外在属性 extrinsic — see intrinsic vs. extrinsic properties](e/wai-zai-xing-jian-nei-zai-shu-xing-yu-wai-zai-shu-xing-extrinsic-see-intrinsic-vs.-extrinsic-propert.md)
 * [\*亚伯拉罕·伊本·埃兹拉——见亚伯拉罕·伊本·埃兹拉 Ezra, Abraham Ibn — see Ibn Ezra, Abraham](e/ya-bo-la-han-yi-ben-ai-zi-la-jian-ya-bo-la-han-yi-ben-ai-zi-la-ezra-abraham-ibn-see-ibn-ezra-abraham.md)
