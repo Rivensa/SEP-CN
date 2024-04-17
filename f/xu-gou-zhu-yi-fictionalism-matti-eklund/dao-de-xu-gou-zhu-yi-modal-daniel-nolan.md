@@ -1,4 +1,4 @@
-# 道德虚构主义 modal (Daniel Nolan)
+# 模态虚构主义 modal (Daniel Nolan)
 
 *首次发表于 2002 年 5 月 14 日星期二；实质性修订于 2024 年 3 月 23 日星期六*
 
