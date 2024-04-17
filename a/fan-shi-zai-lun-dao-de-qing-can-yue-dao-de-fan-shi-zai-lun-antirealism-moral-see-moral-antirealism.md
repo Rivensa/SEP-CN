@@ -1,2 +1,2 @@
-# 反实在论，道德——请参阅道德反实在论 anti-realism, moral — see moral anti-realism
+# 道德反实在论——见道德反实在论 anti-realism, moral — see moral anti-realism
 
