@@ -956,7 +956,7 @@
   * [虚构实体 fictional entities (Fred Kroon and Alberto Voltolini)](f/xu-gou-xiao-shuo-fiction-fred-kroon-and-alberto-voltolini/xu-gou-shi-ti-fictional-entities-fred-kroon-and-alberto-voltolini.md)
 * [虚构主义 fictionalism (Matti Eklund)](f/xu-gou-zhu-yi-fictionalism-matti-eklund/)
   * [\*数学哲学——见数学哲学：数学哲学中的虚构主义 in the philosophy of mathematics — see mathematics, philosophy of: fictionalism](f/xu-gou-zhu-yi-fictionalism-matti-eklund/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-xu-gou-zhu-yi-in-the-philosophy-of-mat.md)
-  * [道德虚构主义 modal (Daniel Nolan)](f/xu-gou-zhu-yi-fictionalism-matti-eklund/dao-de-xu-gou-zhu-yi-modal-daniel-nolan.md)
+  * [道德虚构主义 modal (Daniel Nolan)](f/xu-gou-zhu-yi-fictionalism-matti-eklund/mo-tai-xu-gou-zhu-yi-modal-daniel-nolan.md)
 * [信仰主义 fideism (Richard Amesbury)](f/xin-yang-zhu-yi-fideism-richard-amesbury.md)
 * [电影哲学 film, philosophy of (Thomas Wartenberg)](f/dian-ying-zhe-xue-film-philosophy-of-thomas-wartenberg.md)
 * [\*金融、货币哲学——见货币与金融哲学 finance, philosophy of money and — see money and finance, philosophy of](f/jin-rong-huo-bi-zhe-xue-jian-huo-bi-yu-jin-rong-zhe-xue-finance-philosophy-of-money-and-see-money-an.md)
