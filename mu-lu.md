@@ -882,7 +882,7 @@
   * [\*生物学——见生物学：实验生物学 in biology — see biology: experiment in](e/shi-yan-experimentation/sheng-wu-xue-jian-sheng-wu-xue-shi-yan-sheng-wu-xue-in-biology-see-biology-experiment-in.md)
   * [\*物理学——见物理学：实验物理学 in physics — see physics: experiment in](e/shi-yan-experimentation/wu-li-xue-jian-wu-li-xue-shi-yan-wu-li-xue-in-physics-see-physics-experiment-in.md)
 * [\*解释 explanation](e/jie-shi-explanation/)
-  * [\*数学——见数学：数学解释 mathematical — see mathematical: explanation](e/jie-shi-explanation/shu-xue-jian-shu-xue-shu-xue-jie-shi-mathematical-see-mathematical-explanation.md)
+  * [\*数学——见数学：数学解释 mathematical — see mathematical: explanation](e/jie-shi-explanation/shu-xue-jian-shu-xue-xiang-guan-shu-xue-jie-shi-mathematical-see-mathematical-explanation.md)
   * [\*形而上学——见形而上学解释 metaphysics — see metaphysical explanation](e/jie-shi-explanation/xing-er-shang-xue-jian-xing-er-shang-xue-jie-shi-metaphysics-see-metaphysical-explanation.md)
   * [\*科学——见科学解释 scientific — see scientific explanation](e/jie-shi-explanation/ke-xue-jian-ke-xue-jie-shi-scientific-see-scientific-explanation.md)
 * [剥削 exploitation (Matt Zwolinski, Benjamin Ferguson, and Alan Wertheimer)](e/bao-xiao-exploitation-matt-zwolinski-benjamin-ferguson-and-alan-wertheimer.md)
