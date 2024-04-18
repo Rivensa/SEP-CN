@@ -96,13 +96,13 @@ D-宽恕发生在一个行动者不赞同某人的行为，但却容忍它的情
 
 ## 5. 宽恕的理论
 
-### 情感账户
+### 情感解释
 
 人们普遍认为，宽恕基本上是关乎一个人对另一个人的感受的问题。例如，杰弗里·墨菲声称“[原谅]主要是关于我对你的感受（而不是我如何对待你）”（Murphy & Hampton 1988: 21; cf. Hughes 1993: 108）。大体上，关于宽恕的情感观点声称，最好将宽恕理解为基本上是情感上的改变。根据这种观点，如果你受到了冤屈，你原谅行为的本质包括克服（或减轻、消除、放弃）你因受到冤屈而产生的某些相关负面情绪 （例如，愤恨、仇恨、怨恨）。例如，凯瑟琳·迪安·墨尔写道，“宽恕的态度以善意的存在和对伤害的个人怨恨的缺乏为特征”（1989:184）。诺文·理查兹声称，“对某人的冒犯而宽恕是放弃基于相关事件产生的所有负面情绪”（1988: 79）。斯蒂芬·达沃尔在他说到“原谅是，大致地说，忍耐或放弃怨恨”（2006: 72）时，也似乎是在支持某种情感观点。
 
 在各种情绪描述中，然而，关于两个主要问题存在着重大分歧:(1)涉及宽恕的具体情绪是哪些;和(2)为了宽恕，必须对这些情绪采取什么行动。我们通过依次讨论这两个问题来调查情绪描述。
 
-一种区分情感账户的方式是根据被认为与宽恕相关的情感或一组情感。对宽恕文献的粗略调查可能会让人产生这样的印象，即人们普遍认为哪种情感在宽恕中起着至关重要的作用。那种情感是怨恨。通常认为宽恕至关重要的情感是怨恨，这种观点通常被视为“已接受的正统观念”（Bash 2007: 161; cf. Kekes 2009: 490; Radzik 2009: 117; and Zaibert 2009: 38）。但任何对广泛一致的印象都是错误的，有两个原因。首先，一些情感理论家认为，克服怨恨既不是宽恕的必要条件，也不足以实现宽恕。这些情感理论家认为，在宽恕中可能或必须克服其他情感。其次，即使在那些认为克服怨恨是宽恕的必要条件或充分条件的人中，对于怨恨的定义也存在分歧。有些人认为怨恨是一种“敌对的感觉”，旨在对行为不当者造成伤害（Garrard & McNaughton 2002），而其他人认为它是一种“道德抗议”的一种形式（Hieronymi 2001），还有人认为怨恨是一种典型的“道德愤怒”（Hughes 1993）。有些人将怨恨描述为一种“复仇的激情”（Murphy 2003: 16），而另一些人声称怨恨“不必意味着要为错误寻求报复的动机”（Holmgren 2012: 31）。在最近的工作中，杰弗里·布鲁斯坦将怨恨描述为一类“受辱感”的态度之一（2014: 33; cf. Murphy & Hampton 1988: 44–5）。
+一种区分情感解释的方式是根据被认为与宽恕相关的情感或一组情感。对宽恕文献的粗略调查可能会让人产生这样的印象，即人们普遍认为哪种情感在宽恕中起着至关重要的作用。那种情感是怨恨。通常认为宽恕至关重要的情感是怨恨，这种观点通常被视为“已接受的正统观念”（Bash 2007: 161; cf. Kekes 2009: 490; Radzik 2009: 117; and Zaibert 2009: 38）。但任何对广泛一致的印象都是错误的，有两个原因。首先，一些情感理论家认为，克服怨恨既不是宽恕的必要条件，也不足以实现宽恕。这些情感理论家认为，在宽恕中可能或必须克服其他情感。其次，即使在那些认为克服怨恨是宽恕的必要条件或充分条件的人中，对于怨恨的定义也存在分歧。有些人认为怨恨是一种“敌对的感觉”，旨在对行为不当者造成伤害（Garrard & McNaughton 2002），而其他人认为它是一种“道德抗议”的一种形式（Hieronymi 2001），还有人认为怨恨是一种典型的“道德愤怒”（Hughes 1993）。有些人将怨恨描述为一种“复仇的激情”（Murphy 2003: 16），而另一些人声称怨恨“不必意味着要为错误寻求报复的动机”（Holmgren 2012: 31）。在最近的工作中，杰弗里·布鲁斯坦将怨恨描述为一类“受辱感”的态度之一（2014: 33; cf. Murphy & Hampton 1988: 44–5）。
 
 这些对于怨恨的表征到底意味着什么，它们之间存在怎样的关系，也许更重要的是，哪种观点是正确的，这些问题都很难确定。事实上，这是对宽恕哲学文献中较为棘手的一个方面：虽然人们普遍认为宽恕必然涉及到怨恨，但对于怨恨到底是什么并没有达成共识（Holmgren 2012: 35 反对）。而且正如我们已经指出的那样，尽管广泛认为怨恨是宽恕必然牵涉的中心或典范情感，但并非所有情感理论都接受这一观点。
 
@@ -158,7 +158,7 @@ Ernesto Garcia（2011）称之为巴特勒的这种解释为“放弃模式”�
 
 一些人反对关于宽恕惩罚之间关系的这些说法，相反认为“宽恕与惩罚之间没有冲突”（Mabbott 1939: 158; cf. Haber 1991, Murphy 2003: 101; O’Shaughnessy 1967）。有关惩罚与宽恕关系的进一步讨论，请参见 Griswold（2007: 32-33），Pettigrove（2012: 117-121），Russell（2016），Tosi 和 Warmke（2017）；以及 Warmke（2011, 2013）。
 
-### 5.4 多阶段账户
+### 5.4 多阶段解释
 
 在一篇富有洞察力的章节中，讨论了宽恕和仇恨之间的关系，让·汉普顿(Jean Hampton)提出了宽恕是一个两阶段过程，第一阶段“包括重新获得自身价值的信心，尽管道德行为会对其构成挑战”，可以通过完成
 
@@ -186,7 +186,7 @@ Ernesto Garcia（2011）称之为巴特勒的这种解释为“放弃模式”�
 
 Three clarifications about performative accounts are in order. First, one need not think that performative forgiveness possesses only one kind of illocutionary force. Pettigrove (2004a, 2012), for example, argues that “I forgive you” can function as both a behabitive and commissive. Some hold that it can function as a behabitive, commissive, and declarative (Warmke 2016b). Second, defenders of performative accounts need not hold that acts of forgiveness *qua* performative, must always function in the same way, for it might be that even if “the language of forgiveness is quite often put to a performatory use, and it is not always put to the same performatory use” (Neblett 1974: 269; cf. Pettigrove 2012: 17–8). It may be that sometimes “I forgive you” functions only as a behabitive, and other times also as a commissive. Third, defenders of performative accounts need not think that only *speech acts* (e.g., utterances of “I forgive you”) can fulfill the performative functions of forgiving. Cognate communicative acts, gestures, and facial expressions may achieve the same result (Swinburne 1989: 85).
 
-### 5.6 多元主义账户
+### 5.6 多元主义解释
 
 一些哲学家认为，宽恕实在是一种太过多元且分散的做法，无法被简单、单一的理论所概括。尼克·史密斯观察到，我们的“宽恕观念似乎在各种信仰、判断、情感和行为之间识别出一系列相互关联的意义”（2008: 134）。针对有关宽恕无论在何处都是相同的观点，威廉·尼布莱特写道：
 

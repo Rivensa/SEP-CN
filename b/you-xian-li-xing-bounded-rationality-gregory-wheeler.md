@@ -6,7 +6,7 @@ Herbert Simon 引入了术语‘bounded rationality’（Simon 1957b: 198; 另�
 
 > 广义地说，任务是用与经济人的全局理性相容的理性行为来取代这种理性，这种理性行为与实际上由有机体（包括人类）在这些有机体存在的环境中所拥有的信息获取和计算能力相容。（Simon 1955a: 99）
 
-‘有限理性’此后已经成为指涉广泛的有效行为描述性、规范性和规定性账户，这些账户偏离了完美理性的假设。本条目旨在突出来自决策科学、经济学、认知和神经心理学、生物学、计算机科学和哲学的关键贡献，以加深我们对有限理性的当前理解。
+‘有限理性’此后已经成为指涉广泛的有效行为描述性、规范性和规定性解释，这些解释偏离了完美理性的假设。本条目旨在突出来自决策科学、经济学、认知和神经心理学、生物学、计算机科学和哲学的关键贡献，以加深我们对有限理性的当前理解。
 
 * [1. 有限理性和预期效用理论](https://plato.stanford.edu/entries/bounded-rationality/#HomoEconExpeUtilTheo)
 * [1.1 预期效用理论](https://plato.stanford.edu/entries/bounded-rationality/#ExpeUtilTheo)
@@ -96,7 +96,7 @@ V(P)=∑i(pi⋅u(xi))的实值函数 V(⋅)
 
 #### 1.2.2 A2 的替代方案
 
-放弃阿基米德公理允许一个代理人拥有_词典偏好_(Blume, Brandenburger, & Dekel 1991);也就是说，省略[A2](https://plato.stanford.edu/entries/bounded-rationality/#Ax2)允许代理人更喜欢一种选择胜过另一种的可能性。发展非阿基米德版本的期望效用理论的一个动机是解决标准主观效用框架基础中的一个空白，该空白阻碍了_可接受性_（即，一个人不应选择一个在选择上处于弱支配地位的选项的原则）与_完全条件偏好_（即，对于任何事件，都有一个明确定义的条件概率来表示代理人的条件偏好；Pedersen 2014）的完全调和。具体来说，标准主观期望效用账户无法适应对零概率事件的条件，这对博弈论尤为重要（P. Hammond 1994）。期望效用理论的非阿基米德变体转向非标准分析技术（Goldblatt 1998）、完全条件概率（Rényi 1955；Coletii & Scozzafava 2002；Dubins 1975；Popper 1959）和词典概率（Halpern 2010；Brickhill & Horsten 2016 \[[其他互联网资源](https://plato.stanford.edu/entries/bounded-rationality/#Oth)]），并且都与不精确概率理论相关联。
+放弃阿基米德公理允许一个代理人拥有_词典偏好_(Blume, Brandenburger, & Dekel 1991);也就是说，省略[A2](https://plato.stanford.edu/entries/bounded-rationality/#Ax2)允许代理人更喜欢一种选择胜过另一种的可能性。发展非阿基米德版本的期望效用理论的一个动机是解决标准主观效用框架基础中的一个空白，该空白阻碍了_可接受性_（即，一个人不应选择一个在选择上处于弱支配地位的选项的原则）与_完全条件偏好_（即，对于任何事件，都有一个明确定义的条件概率来表示代理人的条件偏好；Pedersen 2014）的完全调和。具体来说，标准主观期望效用解释无法适应对零概率事件的条件，这对博弈论尤为重要（P. Hammond 1994）。期望效用理论的非阿基米德变体转向非标准分析技术（Goldblatt 1998）、完全条件概率（Rényi 1955；Coletii & Scozzafava 2002；Dubins 1975；Popper 1959）和词典概率（Halpern 2010；Brickhill & Horsten 2016 \[[其他互联网资源](https://plato.stanford.edu/entries/bounded-rationality/#Oth)]），并且都与不精确概率理论相关联。
 
 非补偿性单线索决策模型，如采用最佳启发式方法（[第 7.2 节](https://plato.stanford.edu/entries/bounded-rationality/#FastFrugHeur)），吸引了词典顺序的线索，并以非阿基米德期望的形式进行数值表示（Arló-Costa & Pedersen 2011）。
 

@@ -296,7 +296,7 @@ _首次发表于 2000 年 10 月 8 日；实质性修订于 2020 年 11 月 21 �
 
 * accident: 事故 (sumbebêkos)
 * accidental: 偶然的 (kata sumbebêkos)
-* account: 账户 (logos)
+* account: 解释 (logos)
 * 活动：_energeia_
 * 实际性：_entelecheia_
 * 变化：_alloiôsis_

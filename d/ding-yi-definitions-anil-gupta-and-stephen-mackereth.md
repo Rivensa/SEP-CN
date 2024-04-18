@@ -16,7 +16,7 @@
 * [2. 定义的逻辑](https://plato.stanford.edu/entries/definitions/#LogDef)
 
   * [ 2.1 两个标准](https://plato.stanford.edu/entries/definitions/#TwoCri)
-  * [2.2 传统账户的基础](https://plato.stanford.edu/entries/definitions/#FouTraAcc)
+  * [2.2 传统解释的基础](https://plato.stanford.edu/entries/definitions/#FouTraAcc)
   * [2.3 保守性和可消除性](https://plato.stanford.edu/entries/definitions/#ConEli)
   * [2.4 正常形式下的定义](https://plato.stanford.edu/entries/definitions/#DefNorFor)
   * [2.5 条件定义](https://plato.stanford.edu/entries/definitions/#CondDef)

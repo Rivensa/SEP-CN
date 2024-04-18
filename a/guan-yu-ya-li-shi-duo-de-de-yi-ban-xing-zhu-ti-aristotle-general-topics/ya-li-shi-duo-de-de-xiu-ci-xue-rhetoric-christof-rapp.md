@@ -40,7 +40,7 @@ _首次发表于 2002 年 5 月 2 日；实质性修订于 2022 年 3 月 15 日
 * [其他互联网资源](https://plato.stanford.edu/entries/aristotle-rhetoric/#Oth)
 * [相关条目](https://plato.stanford.edu/entries/aristotle-rhetoric/#Rel)
 * 补充资料：
-* [亚里士多德情感的判断和非判断账户](https://plato.stanford.edu/entries/aristotle-rhetoric/judgmental-emotions.html)
+* [亚里士多德情感的判断和非判断解释](https://plato.stanford.edu/entries/aristotle-rhetoric/judgmental-emotions.html)
 * [关于恩希美的论点是放松的推理](https://plato.stanford.edu/entries/aristotle-rhetoric/enthymeme-inference.html)
 * [论演绎法的简洁性](https://plato.stanford.edu/entries/aristotle-rhetoric/brevity-enthymeme.html)
 * [《修辞学》中的](https://plato.stanford.edu/entries/aristotle-rhetoric/variety-topoi.html)​\*[Topoi](https://plato.stanford.edu/entries/aristotle-rhetoric/variety-topoi.html)\*​[的多样性](https://plato.stanford.edu/entries/aristotle-rhetoric/variety-topoi.html)

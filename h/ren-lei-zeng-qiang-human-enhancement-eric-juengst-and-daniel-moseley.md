@@ -12,9 +12,9 @@
   * [ 1.2 背景](https://plato.stanford.edu/entries/enhancement/#Bac)
 * [2. 人类增强的适当限度是什么？](https://plato.stanford.edu/entries/enhancement/#WhaProLimHeaCar)
 
-  * [2.1 专业领域账户](https://plato.stanford.edu/entries/enhancement/#ProDomAcc)
-  * [2.2 正常功能账户](https://plato.stanford.edu/entries/enhancement/#NorFunAcc)
-  * [2.3 基于疾病的账户](https://plato.stanford.edu/entries/enhancement/#DisBasAcc)
+  * [2.1 专业领域解释](https://plato.stanford.edu/entries/enhancement/#ProDomAcc)
+  * [2.2 正常功能解释](https://plato.stanford.edu/entries/enhancement/#NorFunAcc)
+  * [2.3 基于疾病的解释](https://plato.stanford.edu/entries/enhancement/#DisBasAcc)
 * [3. 使用增强技术算作作弊吗？](https://plato.stanford.edu/entries/enhancement/#ItCheUseEnh)
 * [4. 增强技术会损害真实性吗？](https://plato.stanford.edu/entries/enhancement/#DoEnhComAut)
 * [5. 增强技术是否会使人类丧失人性？](https://plato.stanford.edu/entries/enhancement/#EnhDeh)
@@ -67,13 +67,13 @@
 
 这引发了三种主要的增强概念操作化方式，每种方式都试图纠正其前任的弱点，这些弱点在接下来的三个小节中进行了介绍。
 
-### 2.1 专业领域账户
+### 2.1 专业领域解释
 
 定义治疗和增强之间界限的第一种方法是基于卫生专业人员对其适当领域的传统观念。因此，“治疗”是指符合专业护理标准认可的任何干预措施，而“增强”是指专业人员宣称超出其职责范围的任何干预措施。专业协会试图通过将特定实践定义为“增强”而不是“治疗”来监管自己的边界，这反映了这种方法，卫生保健支付者试图通过“社区标准”来区分“选择性”和“医疗必要性”干预措施以进行支付也是如此。
 
 对于那些致力于特定健康护理目标的人来说，这种方法可以为怀疑的专业实践提供规范指导（Kass 1985）。但是当然，存在着许多竞争的健康护理哲学，其中没有一个在健康专业中拥有普遍的忠诚度。事实上，这种方法也与那些认为健康专业没有固有实践领域的人产生共鸣，除了他们可以与患者协商的领域之外（Good 1994）。对于那些受到这种自由主义观点的专业自主权影响的人来说，对于关心特定案例中自己义务的专业人士来说，规范的教训可能很简单：他们的患者愿意接受的任何干预都可以被视为“治疗”，而“增强”只是那些个体健康专业人员拒绝提供的干预措施（Engelhardt 1990）。不幸的是，医学历史学家和社会学家指出，健康专业一直擅长于适应所服务的机构和社区的文化信仰和社会价值观。这是通过将新问题“医学化”，使其被视为医学合法范围的一部分来实现的（Conrad 2007）。鉴于健康专业的哲学多元主义和政治自主权，它们自己的惯例似乎没有提供一种有原则的方式来排除新的干预措施。在政策层面上需要有用的“上边界”概念的程度上（例如，用于制定卫生保健分配决策的社会），这种无能为力是这种区分的一个重要缺陷。
 
-### 2.2 正常功能账户
+### 2.2 正常功能解释
 
 There is another approach to interpreting the treatment/enhancement distinction that seeks to provide a firmer theoretical foundation for delimiting legitimate health care needs. On this approach, to be healthy is to be able to do all that appropriately matched members of one’s own species can do, in our case what human beings of similar age and gender can do. Legitimate health care needs or “health problems” or “diseases” or “maladies” are all characterized by a fall from that level of functional capacity. All proper health care services, therefore, should be aimed at getting people back to “normal”, e.g., restoring an individual’s functional capability to the species-typical range for their reference class, and within that range to the particular capability level which was the patient’s genetic birthright. Interventions which take people to the top of their personal potential (like athletic training) or beyond their own birth range (like growth hormone), or to the top of the range of their reference class, or to the top of the species-typical range, or beyond (!), are all to be counted as enhancements and fall successively further beyond the responsibility of medicine or health care.
 
@@ -81,15 +81,15 @@ The advantage of the normal function account is that it provides a single (relat
 
 对于正常功能方法的一些批评者对其关注“物种典型范围”表示异议，认为它对人类在生活中蓬勃发展的多样性不敏感。他们指出，那些天生残疾的人可能对生物医学对“规范化”的“致命吸引力”持谨慎态度。（Silvers, 1998; Asch and Block, 2011）此外，即使再多的治疗也无法使某人达到“物种典型”功能，可能存在补偿性技术，实际上可以扩大他们的机会范围超出常规（Silvers 1998）。应该设计动力轮椅以与步行的人疲劳相同的距离减速和停止，以防止他们“增强”用户的能力？同样地，天赋异禀的人可能发现他们对于仅使他们降到“正常范围”的受伤或事故没有治疗的要求。如果我们的冠军思想家、运动员和圣人可以合理地要求治疗他们的物种最佳功能受损的问题，那么将其他人提升到他们的水平也应该被视为适当的医疗保健。但这只留下了“增强”边界的最极端改进：如果我们的物种冠军是基准，只有那些创造出以前没有的能力的干预措施才会超出医学的适当领域。当然，将最佳功能范围个性化到个体基因组潜力将无法解决这个问题，尤其是当我们的基因组本身变得可以通过生物医学方式改变时。确定特定人类功能的“物种典型规范”是一项艰巨的任务，即使描述性统计数据可以提供帮助。但当边界是“最佳”而不是“正常”功能时，方法的证据基础开始分崩离析（Sculley and Rehman-Sutter 2008）。
 
-对于正常功能方法来说，第二个严重问题是预防的挑战。虽然一些促进健康的努力，如锻炼，跨越了医疗责任的边界，但许多预防干预措施（即疫苗）被广泛认可为医学使命的合法组成部分，并且明确位于增强边界的治疗方面。预防疾病的一种方式是在出现任何可诊断问题之前增强身体抵抗病理变化的能力。但是，只要预防试图将身体功能提升到个体（在某些情况下甚至是物种典型范围）的正常范围之上，它似乎就会滑入正常功能方法所称的增强领域。如果将正常功能账户作为生物医学边界标记认真对待，如何为这种预防辩护？相反，如果这样的预防干预在医学上是可接受的，那么声称研究人员和临床医生应该在增强方面“划定界限”意味着什么？
+对于正常功能方法来说，第二个严重问题是预防的挑战。虽然一些促进健康的努力，如锻炼，跨越了医疗责任的边界，但许多预防干预措施（即疫苗）被广泛认可为医学使命的合法组成部分，并且明确位于增强边界的治疗方面。预防疾病的一种方式是在出现任何可诊断问题之前增强身体抵抗病理变化的能力。但是，只要预防试图将身体功能提升到个体（在某些情况下甚至是物种典型范围）的正常范围之上，它似乎就会滑入正常功能方法所称的增强领域。如果将正常功能解释作为生物医学边界标记认真对待，如何为这种预防辩护？相反，如果这样的预防干预在医学上是可接受的，那么声称研究人员和临床医生应该在增强方面“划定界限”意味着什么？
 
-### 2.3 基于疾病的账户
+### 2.3 基于疾病的解释
 
 对于预防问题的最常见回应可能是区分它们所应对的问题。治疗是针对可诊断的疾病和残疾所造成的健康问题的干预措施——在Gert、Culver和Clouser（2006）有益的语言中称为“疾病”。而增强则是针对健康系统和特征的干预措施。因此，为了纠正可诊断的生长激素缺乏症而开处方合成生长激素是合法的治疗，而为正常生长激素水平的患者开处方则是试图进行“积极的基因工程”或增强（Berger和Gert 1991）。根据这种观点，将干预措施作为适当的医学手段来证明，意味着能够在患者身上识别出一种疾病。如果没有可以诊断的医学上可识别的疾病，那么这种干预措施就不能被视为“医学上必要”，因此会被怀疑为一种增强。这将为针对可预测的肌肉损伤的安全有效的基因“疫苗”铺平道路（即使它们提供的损伤抵抗力超过正常水平），但会将那些没有诊断风险的特征改善努力排除在“增强”之外（Juengst 1997）。
 
-这些账户具有简单、直观和与许多生物医学行为一致的优势。疾病是客观可观察的现象，也是传统医疗干预的目标。通过诊断，我们可以了解疾病，并且当无法确定病理时，我们可以知道我们已经超越了医学的范畴。因此，儿科内分泌学家通过引用古老的格言“如果它没有坏，就不要修理它”来反对生物合成生长激素的增强使用。这种解释也适用于边界工作人员（如整形外科医生）的努力来证明他们的服务的合理性。他们声称他们是为了缓解“可诊断”的心理痛苦（“心理疾病”），而不是满足客户的审美品味，保险公司坚持在提供此类手术的保险之前提供该诊断。
+这些解释具有简单、直观和与许多生物医学行为一致的优势。疾病是客观可观察的现象，也是传统医疗干预的目标。通过诊断，我们可以了解疾病，并且当无法确定病理时，我们可以知道我们已经超越了医学的范畴。因此，儿科内分泌学家通过引用古老的格言“如果它没有坏，就不要修理它”来反对生物合成生长激素的增强使用。这种解释也适用于边界工作人员（如整形外科医生）的努力来证明他们的服务的合理性。他们声称他们是为了缓解“可诊断”的心理痛苦（“心理疾病”），而不是满足客户的审美品味，保险公司坚持在提供此类手术的保险之前提供该诊断。
 
-另一方面，基于疾病的观点也面临至少两个主要困难。首先，它们与专业领域账户共同面临的问题是生物医学的臭名昭著的疾病分类弹性问题。为了证明增强干预的使用是合理的，很容易创造新的疾病（Carey，Melvin 和 Ranney 2008）。除非采用某种具体（通常是有争议的）的疾病理论来赋予这种方法以力量，否则它将把划定边界的权力重新交回给专业人士，并引发有关医疗社会化的同样担忧（Parens 2013）。
+另一方面，基于疾病的观点也面临至少两个主要困难。首先，它们与专业领域解释共同面临的问题是生物医学的臭名昭著的疾病分类弹性问题。为了证明增强干预的使用是合理的，很容易创造新的疾病（Carey，Melvin 和 Ranney 2008）。除非采用某种具体（通常是有争议的）的疾病理论来赋予这种方法以力量，否则它将把划定边界的权力重新交回给专业人士，并引发有关医疗社会化的同样担忧（Parens 2013）。
 
 最重要的实际问题是，无论如何划定界限，大多数可能被视为增强的生物技术干预措施在开发和获得临床使用批准时都不需要被证明为增强。这是因为大多数这类干预措施也具有合法的治疗应用。实际上，大多数具有增强潜力的生物医学工具首先会作为治疗药物出现。例如，一般认知增强干预措施可能只会在患有神经系统疾病的患者中获得批准使用。然而，如果这些干预措施在正常衰老影响下的个体中需求量很高，未经批准或“超范围使用”的风险将会很高（Whitehouse 等，1997 年）。
 

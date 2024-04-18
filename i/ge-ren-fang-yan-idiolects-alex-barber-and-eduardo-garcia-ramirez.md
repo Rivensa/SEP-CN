@@ -17,7 +17,7 @@
 * [2. 关于语言约定性的辩论](https://plato.stanford.edu/entries/idiolects/#DebaOverConvLang)
 
   * [2.1 个人方言使用作为一种约定：基本观点](https://plato.stanford.edu/entries/idiolects/#LangUseConvBasiView)
-  * [2.2 Lewisian 账户的其他重要方面](https://plato.stanford.edu/entries/idiolects/#FurtImpoAspeLewiAcco)
+  * [2.2 Lewisian 解释的其他重要方面](https://plato.stanford.edu/entries/idiolects/#FurtImpoAspeLewiAcco)
   * [2.3 反对将语言视为约定](https://plato.stanford.edu/entries/idiolects/#AgaiTreaLangConv)
   * [2.4 个人方言回应](https://plato.stanford.edu/entries/idiolects/#ConvResp)
 * [3. 电子语言与个人语言](https://plato.stanford.edu/entries/idiolects/#ELangVersILang)

@@ -586,7 +586,7 @@ Fenton-Glynn (2017)提供了一项基于 Halpern 和 Pearl（2005）定义的实
 
 直觉上，情况是这样的：如果 X=x∗ 是 Y=y∗ 的一个实际原因，那么从 X 到 Y 必须至少存在一条有向路径。Z 将由沿着这些路径的一些（但不一定全部）变量组成。（如果 X 是 Y 的直接原因，则 Z 可以为空。）F-G 要求 X=x∗ 提高了 Y=y∗ 的概率，即将 X 设为 x∗ 的干预导致 Y=y∗ 的概率高于将 X 设为 x′ 的干预。具体来说，当我们还干预将变量 W 设为它们的实际值时，X=x∗ 必须提高 Y=y∗ 的概率。W=w∗ 就像是[第 2.4 节](https://plato.stanford.edu/entries/causation-probabilistic/#SimpParaBackCont)中讨论的背景背景一样，只是 W 可能包括一些 X 的后代变量。此外，X=x∗ 必须提高 Y=y∗ 的概率，与 Z 中的任何组合变量被设置为它们的实际值一起。这个想法是，X 对 Y 的概率影响被限制在通过 Z 中的变量流动，而在过程的每个阶段，{X}∪Z 中变量的值必须使 Y=y∗ 的概率高于如果 X 被设为 x′ 时将会产生的基准概率。
 
-让我们看看这个账户如何处理来自[section 4.2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbCase)的问题案例。对于预先条件的例子，我们将使用以下变量：
+让我们看看这个解释如何处理来自[section 4.2](https://plato.stanford.edu/entries/causation-probabilistic/#ProbCase)的问题案例。对于预先条件的例子，我们将使用以下变量：
 
 * ST0=1 如果苏茜投掷，如果不投掷则为 0
 * 如果比利扔了，BT1=1，如果没有扔则为 0
