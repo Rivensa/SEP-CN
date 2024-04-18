@@ -1,2 +1,2 @@
-# 路德·马丁 Luther, Martin (Robert Stern)
+# 马丁·路德 Luther, Martin (Robert Stern)
 
