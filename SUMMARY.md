@@ -4,7 +4,7 @@
 
 ## J
 
-* [弗里德里希·海因里希·雅可比 Jacobi, Friedrich Heinrich (Paolo Livieri and George di Giovanni)](README.md)
+* [弗里德里希·海因里希·雅可比 Jacobi, Friedrich Heinrich (Paolo Livieri and George di Giovanni](j/fu-li-de-li-xi-hai-yin-li-xi-ya-ke-bi-jacobi-friedrich-heinrich-paolo-livieri-and-george-di-giovanni.md)
 * [耆那教哲学 Jaina Philosophy (Marie-Hélène Gorisse)](j/qi-na-jiao-zhe-xue-jaina-philosophy-mariehlne-gorisse.md)
 * [威廉·詹姆斯 James, William (Russell Goodman)](j/wei-lian-zhan-mu-si-james-william-russell-goodman.md)
 * [维泰博的詹姆斯 James of Viterbo (Antoine Côté)](j/wei-tai-bo-de-zhan-mu-si-james-of-viterbo-antoine-ct.md)
