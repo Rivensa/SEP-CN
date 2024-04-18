@@ -300,6 +300,7 @@
 * [婚姻和同居伴侣 marriage and domestic partnership (Elizabeth Brake)](m/hun-yin-he-tong-ju-ban-lv-marriage-and-domestic-partnership-elizabeth-brake.md)
 * [因根的马西利乌斯 Marsilius of Inghen (Maarten Hoenen)](m/yin-gen-de-ma-xi-li-wu-si-marsilius-of-inghen-maarten-hoenen.md)
 * [安东·马蒂 Marty, Anton (Robin Rollinger and Hynek Janousek)](m/an-dong-ma-di-marty-anton-robin-rollinger-and-hynek-janousek.md)
+* [卡尔·马克思 Marx, Karl (Jonathan Wolff and David Leopold)](m/ka-er-ma-ke-si-marx-karl-jonathan-wolff-and-david-leopold.md)
 * [分析马克思主义 Marxism, analytical (David Leopold)](m/fen-xi-ma-ke-si-zhu-yi-marxism-analytical-david-leopold.md)
 * [达马里斯·卡德沃斯·马沙姆 Masham, Lady Damaris (Sarah Hutton)](m/da-ma-li-si-ka-de-wo-si-ma-sha-mu-masham-lady-damaris-sarah-hutton.md)
 * [\*质能守恒——见质能守恒 mass/energy equivalence — see equivalence of mass and energy](m/zhi-neng-shou-heng-jian-zhi-neng-shou-heng-massenergy-equivalence-see-equivalence-of-mass-and-energy.md)
