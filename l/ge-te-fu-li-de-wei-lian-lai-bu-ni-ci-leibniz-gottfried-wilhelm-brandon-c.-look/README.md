@@ -1,17 +1,15 @@
 # 戈特弗里德·威廉·莱布尼茨 Leibniz, Gottfried Wilhelm (Brandon C. Look)
 
-*首次发表于2007年12月22日星期六；实质性修订于2013年7月24日星期三。*
+_首次发表于2007年12月22日星期六；实质性修订于2013年7月24日星期三。_
 
 戈特弗里德·威廉·莱布尼茨（1646-1716）是17世纪和18世纪伟大的思想家之一，被誉为最后的“通才”。他在形而上学、认识论、逻辑、宗教哲学以及数学、物理学、地质学、法学和历史学等领域做出了深刻而重要的贡献。即使是与莱布尼茨观点常常相左的18世纪法国无神论者和唯物主义者丹尼·狄德罗，也对他的成就感到敬畏，他在《百科全书》中对莱布尼茨的条目中写道：“也许没有人像莱布尼茨那样阅读过这么多书，研究过这么多东西，沉思过这么多，写过这么多……他对世界、上帝、自然和灵魂的论述是最崇高的雄辩。如果他的思想像柏拉图那样富有才华地表达出来，莱比锡的哲学家将不会让雅典的哲学家让步”（《全集》，第7卷，第709页）。事实上，狄德罗在这篇文章中几乎感到绝望：“当一个人将自己的才华与莱布尼茨的才华相比较时，他会有冲动把自己的书扔掉，在某个被遗忘的角落悄悄地死去”（《全集》，第7卷，第678页）。一个多世纪后，戈特洛布·弗雷格（Gottlob Frege）幸运地没有因绝望而抛弃他的书籍，他表达了类似的钦佩之情，宣称“在他的著作中，莱布尼茨散布了如此丰富的思想种子，以至于在这方面他几乎是独一无二的”（《遗著》，第9页）。本文的目的主要是介绍莱布尼茨的生平，并总结和阐述他在形而上学、认识论和哲学神学领域的观点。
 
 请注意，在本条目中，使用以下标准缩写：PC（矛盾原则），PSR（充分理由原则），PII（不可辨别性原则），PIN（概念中的谓词原则）和 CIC（完全个体概念）。
 
-* [ 1. 生命](https://plato.stanford.edu/entries/leibniz/#Life)
-
+* [1. 生命](https://plato.stanford.edu/entries/leibniz/#Life)
   * [1.1 主要著作的编年史](https://plato.stanford.edu/entries/leibniz/#ChrMajWri)
 * [2. 戈特弗里德·威廉·莱布尼茨哲学概述](https://plato.stanford.edu/entries/leibniz/#OveLei)
 * [3. 莱布尼茨哲学的一些基本原则](https://plato.stanford.edu/entries/leibniz/#SomFunPriLei)
-
   * [3.1 最佳原则](https://plato.stanford.edu/entries/leibniz/#PriBes)
   * [3.2 谓词在概念中的原则（PIN）](https://plato.stanford.edu/entries/leibniz/#PreNotPri)
   * [3.3 矛盾原则（PC）](https://plato.stanford.edu/entries/leibniz/#PriCon)
@@ -19,39 +17,34 @@
   * [3.5 不可分辨性原则（PII）](https://plato.stanford.edu/entries/leibniz/#PriIdeInd)
   * [3.6 连续性原则](https://plato.stanford.edu/entries/leibniz/#PriCont)
 * [4. 形而上学：物质初探](https://plato.stanford.edu/entries/leibniz/#MetPriSub)
-
   * [4.1 物质的逻辑概念](https://plato.stanford.edu/entries/leibniz/#LogConSub)
-  * [ 4.2 统一性](https://plato.stanford.edu/entries/leibniz/#Uni)
-  * [ 4.3 活动性](https://plato.stanford.edu/entries/leibniz/#Act)
+  * [4.2 统一性](https://plato.stanford.edu/entries/leibniz/#Uni)
+  * [4.3 活动性](https://plato.stanford.edu/entries/leibniz/#Act)
   * [4.4 预设和谐](https://plato.stanford.edu/entries/leibniz/#PreEstHar)
   * [4.5 有效和最终原因以及自然和恩典的王国](https://plato.stanford.edu/entries/leibniz/#EffFinCauKinNatGra)
 * [5. 形而上学：莱布尼茨的理想主义](https://plato.stanford.edu/entries/leibniz/#MetLeiIde)
-
   * [5.1 单子与现象世界](https://plato.stanford.edu/entries/leibniz/#MonWorPhe)
   * [5.2 全器官论和唯心主义](https://plato.stanford.edu/entries/leibniz/#PanIde)
   * [5.3 视角与神圣放射](https://plato.stanford.edu/entries/leibniz/#PerDivEma)
-  * [ 5.4 单子层次结构](https://plato.stanford.edu/entries/leibniz/#MonHie)
-* [ 6. 认识论](https://plato.stanford.edu/entries/leibniz/#Epi)
-
+  * [5.4 单子层次结构](https://plato.stanford.edu/entries/leibniz/#MonHie)
+* [6. 认识论](https://plato.stanford.edu/entries/leibniz/#Epi)
   * [6.1 “关于知识、真理和观念的冥想”](https://plato.stanford.edu/entries/leibniz/#MedKnoTruIde)
   * [6.2 理性真理和事实真理](https://plato.stanford.edu/entries/leibniz/#TruReaTruFac)
-  * [ 6.3 先天观念](https://plato.stanford.edu/entries/leibniz/#InnIde)
+  * [6.3 先天观念](https://plato.stanford.edu/entries/leibniz/#InnIde)
   * [6.4 感知、记忆和理性](https://plato.stanford.edu/entries/leibniz/#AppMemRea)
-  * [ 6.5 小感知](https://plato.stanford.edu/entries/leibniz/#PetPer)
+  * [6.5 小感知](https://plato.stanford.edu/entries/leibniz/#PetPer)
   * [6.6 人类知识的范围](https://plato.stanford.edu/entries/leibniz/#ExtHumKno)
 * [7. 哲学神学](https://plato.stanford.edu/entries/leibniz/#PhiThe)
-
   * [7.1 上帝的存在](https://plato.stanford.edu/entries/leibniz/#ExiGod)
-  * [ 7.2 乐观主义](https://plato.stanford.edu/entries/leibniz/#Opt)
-* [ 参考文献](https://plato.stanford.edu/entries/leibniz/#Bib)
-
-  * [ 其他主要来源](https://plato.stanford.edu/entries/leibniz/#OthPriSou)
-  * [ 二级来源](https://plato.stanford.edu/entries/leibniz/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/leibniz/#Aca)
+  * [7.2 乐观主义](https://plato.stanford.edu/entries/leibniz/#Opt)
+* [参考文献](https://plato.stanford.edu/entries/leibniz/#Bib)
+  * [其他主要来源](https://plato.stanford.edu/entries/leibniz/#OthPriSou)
+  * [二级来源](https://plato.stanford.edu/entries/leibniz/#SecSou)
+* [学术工具](https://plato.stanford.edu/entries/leibniz/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/leibniz/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/leibniz/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/leibniz/#Rel)
 
----
+***
 
 ## 1. 生命
 
@@ -71,22 +64,22 @@
 
 ### 1.1 主要著作年表
 
-| 1684  | *关于知识、真理和思想的沉思录*                |
-| ------- | ----------------- |
-| 1686  | * 形而上学演讲* |
-| 1686f | 与阿尔诺通信    |
-| 1689  | * 原始真理*     |
-| 1695  | *New System*                |
-| 1695  | * 动力学样本*   |
-| 1697  | *关于事物的最终起源*                |
-| 1698  | * 关于自然本身* |
-| 1699f | 与德沃尔德通信  |
-| 1704  | *人类理解的新论文*                |
-| 1706f | 与德·博斯通信  |
-| 1710  | *Theodicy*                |
-| 1714  | *Monadology*                |
-| 1714  | *自然与恩典的原则*                |
-| 1715f | 与克拉克的通信  |
+| 1684  | _关于知识、真理和思想的沉思录_ |
+| ----- | ---------------- |
+| 1686  | \* 形而上学演讲\*      |
+| 1686f | 与阿尔诺通信           |
+| 1689  | \* 原始真理\*        |
+| 1695  | _New System_     |
+| 1695  | \* 动力学样本\*       |
+| 1697  | _关于事物的最终起源_      |
+| 1698  | \* 关于自然本身\*      |
+| 1699f | 与德沃尔德通信          |
+| 1704  | _人类理解的新论文_       |
+| 1706f | 与德·博斯通信          |
+| 1710  | _Theodicy_       |
+| 1714  | _Monadology_     |
+| 1714  | _自然与恩典的原则_       |
+| 1715f | 与克拉克的通信          |
 
 ## 2. 莱布尼茨哲学概述
 
@@ -106,7 +99,7 @@
 
 ## 3. 莱布尼茨哲学的一些基本原则
 
-戈特弗里德·威廉·莱布尼茨在 Monadology §§31–32 中断言：“我们的推理基于两个伟大的原则，即矛盾原则... [和]充分理由原则” (G II 612/AG 217)。除了这两个伟大的原则，还可以添加四个：最佳原则、概念中的谓词原则、不可辨别性原则和连续性原则。这些原则之间的关系比人们预期的要复杂。莱布尼茨有时暗示最佳原则和概念中的谓词原则可以被视为他的“两个伟大原则”的基础；然而，在其他时候，所有四个原则似乎都在一个循环蕴涵的系统中共同发挥作用。虽然在当代分析形而上学的讨论中，不可辨别性原则通常被作为一个独立的公理呈现，但莱布尼茨告诉我们它是从这两个伟大原则中得出的。最后，连续性原则或定律实际上是莱布尼茨从数学工作中引用并应用于世界中的无限单子层次和它们的感知质量的原则；它似乎只从充分理由原则中得到脆弱的支持。
+戈特弗里德·威廉·莱布尼茨在 Monadology §§31–32 中断言：“我们的推理基于两个伟大的原则，即矛盾原则... \[和]充分理由原则” (G II 612/AG 217)。除了这两个伟大的原则，还可以添加四个：最佳原则、概念中的谓词原则、不可辨别性原则和连续性原则。这些原则之间的关系比人们预期的要复杂。莱布尼茨有时暗示最佳原则和概念中的谓词原则可以被视为他的“两个伟大原则”的基础；然而，在其他时候，所有四个原则似乎都在一个循环蕴涵的系统中共同发挥作用。虽然在当代分析形而上学的讨论中，不可辨别性原则通常被作为一个独立的公理呈现，但莱布尼茨告诉我们它是从这两个伟大原则中得出的。最后，连续性原则或定律实际上是莱布尼茨从数学工作中引用并应用于世界中的无限单子层次和它们的感知质量的原则；它似乎只从充分理由原则中得到脆弱的支持。
 
 ### 3.1 最佳原则
 
@@ -134,14 +127,14 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 值得注意的是，在莱布尼茨的《初级真理》和与克拉克的通信中，他将 PII 不是作为他系统的基石公理，而是作为 PC 和 PSR 的结果。简而言之，描绘这个论证的一种方式是：
 
-> | (1) | 假设在我们的世界 W 中有两个不可辨的个体 a 和 b。                                    |
-> | ----- | ------------------------------------------------------------------------------------- |
-> | (2) | 如果这是事实的话，那么必须存在一个可能的世界 W*，在这个世界中 a 和 b 是“交换”的。 |
-> | (3) | 但是如果这是事实的话，那么上帝选择 W 而不是 W*就没有理由。                          |
-> | (4) | 但是上帝必须有他所行动的理由。（PSR）                                               |
-> | (5) | 因此，我们最初的假设必须是错误的。在我们的世界中没有两个无法区分的个体。（PII）     |
+| (1) | 假设在我们的世界 W 中有两个不可辨的个体 a 和 b。                    |
+| --- | ----------------------------------------------- |
+| (2) | 如果这是事实的话，那么必须存在一个可能的世界 W\*，在这个世界中 a 和 b 是“交换”的。 |
+| (3) | 但是如果这是事实的话，那么上帝选择 W 而不是 W\*就没有理由。               |
+| (4) | 但是上帝必须有他所行动的理由。（PSR）                            |
+| (5) | 因此，我们最初的假设必须是错误的。在我们的世界中没有两个无法区分的个体。（PII）       |
 
-现在，上面已经说过，莱布尼茨排除了纯粹外在的称谓（或关系属性）作为构成个体的属性种类之一。允许纯粹外在的称谓将意味着接受这样一种可能性，即两个事物在其内在属性方面是相同的，而在其关系属性方面是可以区分的，因为它们的关系属性并不是由其内在属性决定的。（再次强调，如果将关系属性纳入个体的本质中，那么 PII 将相对较弱。当然，存在于不同时空位置的两个事物是不同的，这是莱布尼茨在上述《新论》中所承认的。）但是，如果我们遵循莱布尼茨的观点，排除将这种关系属性作为区分属性的可能性，并对上述论证进行反思，我们就会发现世界是通过个体的内在属性来区分的，而这种差异与一个世界的相对伟大或完美有关。再次假设 a 和 b 是无法区分的，但在 W 和 W*中占据镜像位置。我们怎么能说 W 比 W*更值得上帝选择呢？我们不能。为什么 a 在这里，b 在那里，必须有一个原因，而这个原因与 a 和 b 的内在属性有关。换句话说，即使关系属性也必须在某种程度上是物质的内在属性的派生物。
+现在，上面已经说过，莱布尼茨排除了纯粹外在的称谓（或关系属性）作为构成个体的属性种类之一。允许纯粹外在的称谓将意味着接受这样一种可能性，即两个事物在其内在属性方面是相同的，而在其关系属性方面是可以区分的，因为它们的关系属性并不是由其内在属性决定的。（再次强调，如果将关系属性纳入个体的本质中，那么 PII 将相对较弱。当然，存在于不同时空位置的两个事物是不同的，这是莱布尼茨在上述《新论》中所承认的。）但是，如果我们遵循莱布尼茨的观点，排除将这种关系属性作为区分属性的可能性，并对上述论证进行反思，我们就会发现世界是通过个体的内在属性来区分的，而这种差异与一个世界的相对伟大或完美有关。再次假设 a 和 b 是无法区分的，但在 W 和 W_中占据镜像位置。我们怎么能说 W 比 W_更值得上帝选择呢？我们不能。为什么 a 在这里，b 在那里，必须有一个原因，而这个原因与 a 和 b 的内在属性有关。换句话说，即使关系属性也必须在某种程度上是物质的内在属性的派生物。
 
 正如我们将看到的，莱布尼茨在一系列论证中运用了这一原则：反对心灵作为空白板，反对原子论，反对牛顿的绝对空间等等。（有关这个主题的更多信息，请参阅关于无法区分的身份的条目。）
 
@@ -163,13 +156,13 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 从逻辑上对物质的概念和标记和痕迹学说中，莱布尼茨得出的结论是非凡的。在《形而上学论述》的下一节（§9）中，我们被告知它们包括以下内容：
 
-> | (1) | 没有两个物质可以完全相似且不同。（PII）                                        |
-> | ----- | -------------------------------------------------------------------------------- |
-> | (2) | 一种物质只能在创造中开始，在消灭中结束。                                       |
-> | (3) | 一种物质是不可分割的。                                                         |
-> | (4) | 一个物质不能由两个构建。                                                       |
-> | (5) | 物质的数量并不自然地增加和减少。                                               |
-> | (6) | 每个物质就像一个完整的世界，又像上帝或整个宇宙的镜子，它们以各自的方式表达着。 |
+| (1) | 没有两个物质可以完全相似且不同。（PII）                   |
+| --- | --------------------------------------- |
+| (2) | 一种物质只能在创造中开始，在消灭中结束。                    |
+| (3) | 一种物质是不可分割的。                             |
+| (4) | 一个物质不能由两个构建。                            |
+| (5) | 物质的数量并不自然地增加和减少。                        |
+| (6) | 每个物质就像一个完整的世界，又像上帝或整个宇宙的镜子，它们以各自的方式表达着。 |
 
 不幸的是，戈特弗里德·威廉·莱布尼茨得出这些结论的原因并非在所有情况下都是明显的。为什么完整的个体概念解释会导致随附于物质的PII呢？如果我们将CIC视为使我们能够从无限的物质中挑选和个体化任何个体物质的东西，那么我们会意识到，如果两个物质a和b的个体概念不能让我们（或上帝）区分它们，那么它们的个体概念就不完整。也就是说，必须总是有一个原因，它存在于物质的完整个体概念中，并且来自上帝的自由决定，使得a可以与b区分开来。这个事实指向了上面提出的解释的另一个重要事实：不仅每个物质都有一个完整的个体概念——作为其存在于神的心灵中的本质——而且对于每个本质或完整的个体概念，在世界中只有一个物质存在。（这里的论证基本上与上面描述PSR和PII之间关系的部分相同；也就是说，上帝为什么要实例化具有相同CIC的两个物质的原因是什么？）此外，为什么只有在上帝创造世界时物质才能自然产生，并在上帝毁灭时终结呢？如果我们完全按照莱布尼茨的说法，即CIC包含了过去、现在和未来的所有关于物质的真实谓词，那么我们可以说，这必须包括延伸到创造的真理，无论是无限延伸还是延伸到时间的终结。这个论证本身可能有些薄弱，但它显然是根据莱布尼茨对物质的逻辑概念以及其他后果之一得出的结论，即每个物质都是整个宇宙的镜像。 如果是这样的话，那么一种物质，因为它是整个宇宙的镜像，必须在其完整的个体概念中具有向创造过去和未来延伸的谓词。乍一看，仅从CIC和标记与痕迹的教义来看，也不容易看出为什么一种物质不能由两种物质构成或分裂成两种新物质。假设物质x在其完整的个体概念中具有谓词g、h、i...，这些谓词在过去、现在和未来都适用于它。假设x被分裂为xα和xβ。人们可能会想象，两种新物质都会共享x在分裂之前的所有谓词，并且之后会有独特的谓词。但是，莱布尼茨逻辑概念中相关的部分是，CIC足够丰富，可以让我们（或上帝）从中推导出所有过去、现在和未来的谓词。莱布尼茨隐含的建议是，分裂之前的谓词将不允许逻辑上推导出分支或分裂的物质。如果g、h、i...暗示lα、mα、nα，它们就不能暗示lβ、mβ、nβ。类似的论证也适用于两种物质融合的可能性。此外，如果我们已经承认PII，那么应该清楚的是，具有谓词g、h、i...lα、mα、nα的物质和具有谓词g、h、i...lβ、mβ、nβ的物质是数值上不同的物质，而不仅仅是在其分裂阶段中繁殖的一个物质。由于物质只能在上帝创造世界时自然产生，并且物质不能发生融合或分裂，显然物质的数量必须保持不变。 最后，如果事实上，物质的本质是具有一个完整的概念，以至于可以从中推导出它的过去、现在和未来的所有谓词，并且如果物质存在于世界的创造之初，那么似乎（相对而言）自然地得出结论，每个物质内部都包含着整个宇宙的一种故事，从它自己独特的视角来看。虽然下面还会有更多的论述，但莱布尼茨在这里提出的是一套他将会详细发展的教义：分离的世界教义、镜像（或表达）论和普遍和谐的教义。
 
@@ -177,7 +170,7 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 ### 4.2 统一性
 
-如果一个有限的实体要有一个CIC，正如莱布尼茨在《形而上学论》第8节中所主张的，那么它的本体论地位是什么？也就是说，什么样的事物可以拥有这样的CIC或这样的本质？莱布尼茨对这个问题的回答凸显了另一种物质性的范例：统一性。虽然个体实体的本质是具有CIC，但只有真正的统一才能被称为物质。莱布尼茨在给阿尔诺德的一封信中非常清晰而有力地表达了他的立场：“简而言之，我认为这个完全相同的命题，只是强调不同，是一个公理，即，不是真正的一体性的东西也不是真正的一体性。”（G II 97/AG 86）在《形而上学论》和与阿尔诺德的通信时期，莱布尼茨借鉴了某些斯科拉学派的概念，其中最重要的是实质形式的概念。在后来的岁月里，斯科拉学派的说法逐渐消失，但基本思想仍然保持不变：必须有某种东西来保证或使实体的统一成为可能，这就是实质形式或灵魂。莱布尼茨想要表达的观点是，只有灵魂或实质形式才是可以说具有或作为完整个体概念的事物，因为只有灵魂或实质形式才是天性上不朽的统一体。莱布尼茨在给阿尔诺德的另一封信中非常明确地表达了这一观点：“一个实质性的统一需要一个完全不可分割且天性上不可毁灭的存在，因为它的概念包括了将发生在它身上的一切，这在形状和运动中都找不到（两者都涉及一些想象的东西，我可以证明），但可以在灵魂或实质形式中找到，就像所谓的我一样”（G II 76/AG 79）。因此，统一是真正物质的标志，但同样重要的是莱布尼茨对物质的范例案例：自我。 这种思想贯穿了莱布尼茨对物质本质的思考，并产生了重要的后果。因为，不仅仅是笛卡尔，整个奥古斯丁传统也认为，“我”本质上是非物质的，是一个心灵或灵魂。同样，他在《初级真理》中写道：“物体的本质需要一些没有延展性的东西，否则现象的实在性或真正的统一就没有来源[原则]……但由于排除了原子，剩下的就是一些没有延展性的东西，类似于灵魂，他们曾经称之为形式或种类”（A VI iv 1648/AG 34）。（莱布尼茨认为，古典时期的德谟克利特主义者以及十七世纪的加桑迪和其他人所主张的物质原子被排除在外，因为它们违反了随附性；也就是说，两个纯粹的物质原子似乎在质量上是相同的，但又是不同的，如果接受了 PC、PSR 和 PII 的推导，这是不可能的。）)
+如果一个有限的实体要有一个CIC，正如莱布尼茨在《形而上学论》第8节中所主张的，那么它的本体论地位是什么？也就是说，什么样的事物可以拥有这样的CIC或这样的本质？莱布尼茨对这个问题的回答凸显了另一种物质性的范例：统一性。虽然个体实体的本质是具有CIC，但只有真正的统一才能被称为物质。莱布尼茨在给阿尔诺德的一封信中非常清晰而有力地表达了他的立场：“简而言之，我认为这个完全相同的命题，只是强调不同，是一个公理，即，不是真正的一体性的东西也不是真正的一体性。”（G II 97/AG 86）在《形而上学论》和与阿尔诺德的通信时期，莱布尼茨借鉴了某些斯科拉学派的概念，其中最重要的是实质形式的概念。在后来的岁月里，斯科拉学派的说法逐渐消失，但基本思想仍然保持不变：必须有某种东西来保证或使实体的统一成为可能，这就是实质形式或灵魂。莱布尼茨想要表达的观点是，只有灵魂或实质形式才是可以说具有或作为完整个体概念的事物，因为只有灵魂或实质形式才是天性上不朽的统一体。莱布尼茨在给阿尔诺德的另一封信中非常明确地表达了这一观点：“一个实质性的统一需要一个完全不可分割且天性上不可毁灭的存在，因为它的概念包括了将发生在它身上的一切，这在形状和运动中都找不到（两者都涉及一些想象的东西，我可以证明），但可以在灵魂或实质形式中找到，就像所谓的我一样”（G II 76/AG 79）。因此，统一是真正物质的标志，但同样重要的是莱布尼茨对物质的范例案例：自我。 这种思想贯穿了莱布尼茨对物质本质的思考，并产生了重要的后果。因为，不仅仅是笛卡尔，整个奥古斯丁传统也认为，“我”本质上是非物质的，是一个心灵或灵魂。同样，他在《初级真理》中写道：“物体的本质需要一些没有延展性的东西，否则现象的实在性或真正的统一就没有来源\[原则]……但由于排除了原子，剩下的就是一些没有延展性的东西，类似于灵魂，他们曾经称之为形式或种类”（A VI iv 1648/AG 34）。（莱布尼茨认为，古典时期的德谟克利特主义者以及十七世纪的加桑迪和其他人所主张的物质原子被排除在外，因为它们违反了随附性；也就是说，两个纯粹的物质原子似乎在质量上是相同的，但又是不同的，如果接受了 PC、PSR 和 PII 的推导，这是不可能的。）)
 
 莱布尼茨并不像人们希望他那样清晰明了，因为在他的职业生涯的这个阶段，人们可以理解他认为只要有灵魂或实质形式，某物就是一种物质，而在他职业生涯的后期，似乎更明确的是只有灵魂或类似灵魂的实体，即单子体，才是唯一的物质。换句话说，莱布尼茨可以被解释为至少在这个时期提倡一种亚里士多德的物质形式论，其中物质是物质和形式的组合体。这一点在学术界一直存在争议，但本文无法裁决此事。（有关这一争议的更多信息，请参见 Look 2010。）
 
@@ -191,7 +184,7 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 莱布尼茨对笛卡尔关于物质实体的学说的批判的第二部分涉及到活动的概念。根据莱布尼茨的观点，物质不仅本质上是统一的，而且是活动的。正如他在《自然与恩典原理》的开篇所说：“物质是一种能够行动的存在”（G VI 598/AG 207）。但是，笛卡尔的物质实体，就其本质而言是延展性的，不能成为活动的源泉。（G IV 510/AG 161）莱布尼茨在这一点上的论证至少有两个方面。首先，莱布尼茨认为如此是因为他坚持古典和斯科拉学派的观念，即行动属于实体；也就是说，只有能够作为陈述的主语的东西才能是活动的，只有真正的统一体才能是真正的陈述主语（而不仅仅是现象）。换句话说，笛卡尔的延展物质不能构成一个实体，或者说不能作为陈述的主语，因为它是无限可分的。但是，其次，莱布尼茨认为，只有当活动的源泉可以在自身内部产生时，某物才是活动的。换句话说，只有心灵或类似心灵的东西才能产生并改变它们的变化。因此，这也是个体实体被理解为类似心灵的另一个原因，因为莱布尼茨认为只有心灵或类似心灵的东西才能产生并改变它们的变化。
 
-在说物质本质上是活动的时候，莱布尼茨指的是它们被赋予了力量。更准确地说，根据莱布尼茨的观点，“事物的本质就在于一种用于行动和被行动的力量”（G IV 508/AG 159），也就是说，每个简单物质都被赋予了莱布尼茨所称的原始主动和被动力量。这里的观念再次听起来像是亚里士多德的：物质有一个特定的本质上活动的组成部分，即灵魂或实质形式或第一完全体，以及一个被动的组成部分，即原始物质。在莱布尼茨成熟的观点中，原始主动力是“一种由神圣法令印刻的内在法则”，也就是说，它是展开的法则或简单物质系列的法则。正如他在给德·沃尔德的一封信中所说，“我认为显而易见的是，原始力量只能是简单物质的内在倾向[趋势]，通过这种倾向，它们按照其本性的某种法则从感知到感知地过渡，并与彼此协调，以不同的方式呈现宇宙的相同现象，这必然是由一个共同的原因引起的”（G II 275/AG 181）。由于简单物质是心灵，它们的变化是表示或感知，而简单物质的活动将与其感知的变化或连续性相关。可以这样思考，每个物质都有一个独特的感知系列，由上帝编程以与所有其他物质和谐共处，而物质从感知到感知的内在倾向就是它的主动力，或者莱布尼茨也称之为欲望或追求。
+在说物质本质上是活动的时候，莱布尼茨指的是它们被赋予了力量。更准确地说，根据莱布尼茨的观点，“事物的本质就在于一种用于行动和被行动的力量”（G IV 508/AG 159），也就是说，每个简单物质都被赋予了莱布尼茨所称的原始主动和被动力量。这里的观念再次听起来像是亚里士多德的：物质有一个特定的本质上活动的组成部分，即灵魂或实质形式或第一完全体，以及一个被动的组成部分，即原始物质。在莱布尼茨成熟的观点中，原始主动力是“一种由神圣法令印刻的内在法则”，也就是说，它是展开的法则或简单物质系列的法则。正如他在给德·沃尔德的一封信中所说，“我认为显而易见的是，原始力量只能是简单物质的内在倾向\[趋势]，通过这种倾向，它们按照其本性的某种法则从感知到感知地过渡，并与彼此协调，以不同的方式呈现宇宙的相同现象，这必然是由一个共同的原因引起的”（G II 275/AG 181）。由于简单物质是心灵，它们的变化是表示或感知，而简单物质的活动将与其感知的变化或连续性相关。可以这样思考，每个物质都有一个独特的感知系列，由上帝编程以与所有其他物质和谐共处，而物质从感知到感知的内在倾向就是它的主动力，或者莱布尼茨也称之为欲望或追求。
 
 ### 4.4 预设的和谐
 
@@ -199,12 +192,12 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 更准确地说，莱布尼茨认为上帝创造了世界，使每个物质都按照其自身的展开法则行动，并与其他所有物质完美地协调一致；此外，由于心灵是某个质量（身体）的中心，因此它对世界有一个独特的观点，并且心灵的展开法则与物质机器的法则相一致。他在他的 1695 年的论文《自然的新系统》中最简洁地阐述了这一观点，在该论文中，他有效地提出了关于预设和谐的五步论证：
 
-> | (1) | "[T]一个被创造的物质对另一个物质没有真正的影响。"（G IV 483/AG 143）                                                                                                                                                      |
-> | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | (2) | "上帝最初以这样的方式创造了灵魂（和任何其他真正的统一体），以至于一切都必须从它自己的深处通过完美的自发性相对于自身产生，并且与外部事物完美地一致。"（G IV 484/AG 143）                                                   |
-> | (3) | “这就是使每个物质以一定的观点准确地代表整个宇宙，并以其自己的方式，在给定的时间内，根据其自身的法则，在灵魂中发生对外部事物的感知或表达，就像在一个独立的世界中一样，就像只有上帝和它自己存在一样。”（G IV 484/AG 143） |
-> | (4) | “[灵魂的观点所在的有机质量，通过灵魂更加紧密地表达，反过来又准备按照肉体机器的法则自行行动，当灵魂希望它行动时，而不会干扰其他法则-然后，精神和血液正好具有它们需要以响应灵魂的激情和感知的运动。”（G IV 484/AG 144）   |
-> | (5) | “正是这种事先在宇宙的每个物质中调节的相互关系，产生了我们所谓的它们之间的交流，并且只有这种交流才能实现灵魂和身体的结合。”（G IV 484–85/AG 144）                                                                       |
+| (1) | "\[T]一个被创造的物质对另一个物质没有真正的影响。"（G IV 483/AG 143）                                                                         |
+| --- | --------------------------------------------------------------------------------------------------------------------- |
+| (2) | "上帝最初以这样的方式创造了灵魂（和任何其他真正的统一体），以至于一切都必须从它自己的深处通过完美的自发性相对于自身产生，并且与外部事物完美地一致。"（G IV 484/AG 143）                          |
+| (3) | “这就是使每个物质以一定的观点准确地代表整个宇宙，并以其自己的方式，在给定的时间内，根据其自身的法则，在灵魂中发生对外部事物的感知或表达，就像在一个独立的世界中一样，就像只有上帝和它自己存在一样。”（G IV 484/AG 143）  |
+| (4) | “\[灵魂的观点所在的有机质量，通过灵魂更加紧密地表达，反过来又准备按照肉体机器的法则自行行动，当灵魂希望它行动时，而不会干扰其他法则-然后，精神和血液正好具有它们需要以响应灵魂的激情和感知的运动。”（G IV 484/AG 144） |
+| (5) | “正是这种事先在宇宙的每个物质中调节的相互关系，产生了我们所谓的它们之间的交流，并且只有这种交流才能实现灵魂和身体的结合。”（G IV 484–85/AG 144）                                    |
 
 现在，当莱布尼茨以形而上学的严谨性发言时，他否定了笛卡尔二元论的基本前提：身体不是一种物质；因此，关于它作为物质如何与心灵或思维物质相互作用或相关的问题是不存在的。然而，莱布尼茨能够以通俗的方式表达他的观点 - 也就是说，对于那些期望笛卡尔形而上学的人来说 - 他说心灵和身体可以被说成是形成一种联合体，并且在心灵遵循其规律、身体遵循其规律并且二者完美协调的程度上相互作用。身体和灵魂并不是以笛卡尔所暗示的方式相互结合，但是灵魂的感知和欲望将自发地从自身的存储中产生，并且将与身体的行动以及世界的事件相对应。换句话说，虽然心灵或灵魂的感知和欲望将独立于身体，但它们将与所附着的特定身体的行动完全一致，并与世界上的所有其他物质完美符合。
 
@@ -236,7 +229,7 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 ### 5.2 全器官论和唯心主义
 
-当莱布尼茨主张物体是单子的结果，而物质本身是一种现象时，他心中有着非常具体的想法。首先，在莱布尼茨的体系中，自然界存在一种特殊的秩序，对应着单子的等级制度。首先考虑莱布尼茨向德·沃尔德尔（De Volder）提出的一个众所周知的评论，引入了一个五重本体论方案：“我区分：（1）原初的完整性或灵魂；（2）物质，即原初物质或原初被动力量；（3）由这两者组成的单子；（4）质量[质量]或次级物质，或无数从属单子聚集在一起的有机机器；以及（5）动物，即由主导单子制造成一个机器的物质实体”（G II 252/AG 177）。莱布尼茨在这里要表达的一点是，在动物体内存在着一个主导单子，它与所有从属于它的单子之间有着特殊的关系，这些单子构成了该动物的“有机机器”。但是，最终，情况比这更加复杂，因为每个从属单子都可以被认为与一个有机机器相连，而这种关系一直延续到无限小。因此，例如，莱布尼茨在《单子论》第70节中写道：“因此，我们看到每个有机体都有一个主导完整性，在动物中就是灵魂；但是这个有机体的肢体充满了其他生命体，植物、动物，每个都有自己的完整性，或者说是它的主导灵魂”（G VI 619/AG 222）。同样，在给比尔林（Bierling）的一封信中，他写道：“任何质量都包含无数的单子，因为尽管自然界中的任何一个有机体都有其相应的[主导]单子，但它的部分中仍然包含其他以同样方式具有从属于主要单子的有机体的单子；而整个自然界除此以外别无他物，因为每个聚合体都必须由简单的物质组成，就像由元素组成一样”（G VII 502）。 换句话说，每个单子都会有一个有机体，而这个有机体又由其他单子组成，而每个单子同样也有一个有机体。同样地，任何看似无生命的物质块——比如石头或者尿滴——都是无限多个单子及其有机体的结果，而这些有机体不过是更多单子及其有机体而已。这种观点与莱布尼茨思想中的全有机派系相关联。正因如此，莱布尼茨将声称“自然界充满了生命”（《自然与恩典原理》第1节：G VI 598/AG 207），并且“单子中存在无限多个生命程度”（《自然与恩典原理》第4节：G VI 599/AG 208）。
+当莱布尼茨主张物体是单子的结果，而物质本身是一种现象时，他心中有着非常具体的想法。首先，在莱布尼茨的体系中，自然界存在一种特殊的秩序，对应着单子的等级制度。首先考虑莱布尼茨向德·沃尔德尔（De Volder）提出的一个众所周知的评论，引入了一个五重本体论方案：“我区分：（1）原初的完整性或灵魂；（2）物质，即原初物质或原初被动力量；（3）由这两者组成的单子；（4）质量\[质量]或次级物质，或无数从属单子聚集在一起的有机机器；以及（5）动物，即由主导单子制造成一个机器的物质实体”（G II 252/AG 177）。莱布尼茨在这里要表达的一点是，在动物体内存在着一个主导单子，它与所有从属于它的单子之间有着特殊的关系，这些单子构成了该动物的“有机机器”。但是，最终，情况比这更加复杂，因为每个从属单子都可以被认为与一个有机机器相连，而这种关系一直延续到无限小。因此，例如，莱布尼茨在《单子论》第70节中写道：“因此，我们看到每个有机体都有一个主导完整性，在动物中就是灵魂；但是这个有机体的肢体充满了其他生命体，植物、动物，每个都有自己的完整性，或者说是它的主导灵魂”（G VI 619/AG 222）。同样，在给比尔林（Bierling）的一封信中，他写道：“任何质量都包含无数的单子，因为尽管自然界中的任何一个有机体都有其相应的\[主导]单子，但它的部分中仍然包含其他以同样方式具有从属于主要单子的有机体的单子；而整个自然界除此以外别无他物，因为每个聚合体都必须由简单的物质组成，就像由元素组成一样”（G VII 502）。 换句话说，每个单子都会有一个有机体，而这个有机体又由其他单子组成，而每个单子同样也有一个有机体。同样地，任何看似无生命的物质块——比如石头或者尿滴——都是无限多个单子及其有机体的结果，而这些有机体不过是更多单子及其有机体而已。这种观点与莱布尼茨思想中的全有机派系相关联。正因如此，莱布尼茨将声称“自然界充满了生命”（《自然与恩典原理》第1节：G VI 598/AG 207），并且“单子中存在无限多个生命程度”（《自然与恩典原理》第4节：G VI 599/AG 208）。
 
 其次，莱布尼茨思想中有一种可以最好地描述为真正的唯心主义思潮。也就是说，如果唯心主义是唯有心灵和其思想真正存在的命题，那么莱布尼茨显然支持这个学说。在这里，运作的思想是身体，特别是与特定心灵相关联的身体，是有意识的客体 - 尽管它们源于或以单子为基础。这就是莱布尼茨在给德·沃尔德尔的另一封信中所表达的意思：“仔细考虑，我们必须说事物中除了简单的物质和其中的感知和欲望之外，没有其他东西。此外，物质和运动不是物质或事物，而是感知者的现象，其现实性位于感知者与自身（在不同时间）和其他感知者之间的和谐中”（G II 270/AG 181）。因此，唯一真实的东西是简单的物质；我们在周围感知到的身体是现象，而不是物质本身，尽管它们最终基于简单的物质或单子。此外，自然界的身体应被视为有意识的客体，因为它们是我们持有某些信念的对象。这就是莱布尼茨所说的，只要感知者之间或同一感知者的信念或感知在不同时间之间存在和谐，它们就具有现实性。换句话说，一个人的身体甚至一块石头之所以真实，是因为它是一个适应世界的认知对象，从单个感知者的角度来看是连贯的，并与其他心灵的感知相协调。
 
@@ -276,7 +269,7 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 戈特弗里德·威廉·莱布尼茨有几个明显的形而上学原因来否认心灵可能是一张白纸。首先，也是最明显的，由于物质之间不能有真正的因果互动，那么我们所有的观念都不可能来自经验；事实上，严格来说，没有观念可以来自经验。（然而，莱布尼茨将采取更宽松的对感性经验的理解，所以这并不是完全无关紧要的。）但是，第二个原因，很少有人注意到，莱布尼茨认为，我们的心灵在出生时是一张空白的，违反了不可辨别性原则。简而言之，不可辨别性原则反对在质量上相同的物理原子和在质量上相同（因为空白）的灵魂。此外，在一个有力的段落中，他向我们展示了他发现如此令人反感的经验主义观点的形而上学基础。他写道：“我承认，如果要给灵魂赋予这样那样的思想，并且要注意我们内心的观念，那么经验是必要的。但是经验和感官如何提供这些观念呢？灵魂有窗户吗？它类似于写字板还是蜡？显然，那些持这种观点的人将灵魂视为根本上是物质的”（A VI vi 110/RB 110）。洛克著名地提出了“思维物质”的可能性，而莱布尼茨对这样的论题感到可憎。在他的整个职业生涯中，莱布尼茨从未怀疑人类的心灵或灵魂本质上是非物质的，而洛克对物质性质的怀疑与莱布尼茨最深刻的哲学承诺根本不一致。当然，这意味着莱布尼茨试图削弱洛克关于观念的起源和性质的立场。根据莱布尼茨的观点，心灵必须本质上是非物质的，在形而上学部分已经得到证明。 但是莱布尼茨确实有一个关于心灵非物质性或反对其机械性的特定论证，涉及思想和观念的本质。这就是他著名的磨坊隐喻，在《新论》和《单子论》中都有提及。根据莱布尼茨的观点，感知无法用机械或唯物主义的术语来解释。即使我们创造了一台机器，我们将思想和感知能力归因于它，检查这台机器的内部也不会显示出思想或感知的经验，只会显示出各个部分的运动。
 
-但是即使莱布尼茨接受了常见的说法——即感官在因果上负责某些观念——他也对经验主义者声称感官是所有观念的起源提出了反对意见。根据莱布尼茨的观点，尽管经验主义立场可以解释偶然真理的来源，但它无法充分解释必然真理的起源和特性。因为感官永远无法达到任何必然真理的普遍性；它们最多只能为我们提供进行相对强有力归纳的手段。莱布尼茨声称，正是理解本身是这些真理的源头，并保证了它们的必然性。虽然我们并不总是意识到我们所有的观念——这一事实通过记忆的功能和作用得到证明——但某些观念或真理以我们的心灵中的形式存在，作为倾向或倾向。这就是所谓的先天观念或先天真理。确实，莱布尼茨认为心灵对必然真理有一种“特殊的亲和力”。在这个问题上，莱布尼茨使用了一个独特的隐喻：一块大理石有纹理，这些纹理指示或倾向于指示出一个熟练的雕塑家可以发现和利用的形状。同样，有一种“倾向、适应、预形成”，决定了我们的灵魂，并使得[必然真理]可以从中推导出来”（A VI vi 80/RB 80）。
+但是即使莱布尼茨接受了常见的说法——即感官在因果上负责某些观念——他也对经验主义者声称感官是所有观念的起源提出了反对意见。根据莱布尼茨的观点，尽管经验主义立场可以解释偶然真理的来源，但它无法充分解释必然真理的起源和特性。因为感官永远无法达到任何必然真理的普遍性；它们最多只能为我们提供进行相对强有力归纳的手段。莱布尼茨声称，正是理解本身是这些真理的源头，并保证了它们的必然性。虽然我们并不总是意识到我们所有的观念——这一事实通过记忆的功能和作用得到证明——但某些观念或真理以我们的心灵中的形式存在，作为倾向或倾向。这就是所谓的先天观念或先天真理。确实，莱布尼茨认为心灵对必然真理有一种“特殊的亲和力”。在这个问题上，莱布尼茨使用了一个独特的隐喻：一块大理石有纹理，这些纹理指示或倾向于指示出一个熟练的雕塑家可以发现和利用的形状。同样，有一种“倾向、适应、预形成”，决定了我们的灵魂，并使得\[必然真理]可以从中推导出来”（A VI vi 80/RB 80）。
 
 ### 6.4 感知、记忆和理性
 
@@ -304,14 +297,14 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 但是仅凭这个论证本身是不足以确定上帝必然存在的。莱布尼茨还必须证明存在本身就是一种完美，以便可以说存在着一个具有所有完美的存在，即 ens perfectissimum。更确切地说，莱布尼茨需要证明必然存在属于上帝的本质。他在这个时期的另一篇短文中做到了这一点，写道：“再者，一个必然存在的存在与其本质之间存在着从属关系。因为一个必然存在的存在，是指它必然存在，如果它不存在将会导致矛盾，从而与这个存在的概念或本质相冲突”（A VI iii 583/SR 107）。换句话说，如果一个必然存在的存在与其存在从其本质中得出的存在是同一回事，那么存在实际上必然是其本质属性之一。莱布尼茨在这个短篇反思中继续说道：“因此，存在属于它的概念或本质。由此我们得到了一个辉煌的定理，这是模态理论的巅峰，通过这个定理，我们以一种奇妙的方式从可能性到行动：如果一个必然存在的存在是可能的，那么它实际上存在，或者说，这样的存在实际上在宇宙中被发现”（A VI iii 583/SR 107）。莱布尼茨在这里提到的“模态理论的巅峰”正是模态逻辑 S5 的臭名昭著的公理之一：◊□p → □p。简而言之，莱布尼茨的论证如下：
 
-> | (1) | 上帝是一个具有所有完美的存在。（定义）                         |
-> | ----- | ---------------------------------------------------------------- |
-> | (2) | 完美是一种简单而绝对的属性。（定义）                           |
-> | (3) | 存在是一种完美。                                               |
-> | (4) | 如果存在是一件事物本质的一部分，那么它是一个必然存在的存在。   |
-> | (5) | 如果一个必然存在的存在有可能存在，那么必然存在的存在确实存在。 |
-> | (6) | 一个存在可以拥有所有完美之处。                                 |
-> | (7) | 因此，一个必然存在的存在（上帝）确实存在。                     |
+| (1) | 上帝是一个具有所有完美的存在。（定义）             |
+| --- | ------------------------------- |
+| (2) | 完美是一种简单而绝对的属性。（定义）              |
+| (3) | 存在是一种完美。                        |
+| (4) | 如果存在是一件事物本质的一部分，那么它是一个必然存在的存在。  |
+| (5) | 如果一个必然存在的存在有可能存在，那么必然存在的存在确实存在。 |
+| (6) | 一个存在可以拥有所有完美之处。                 |
+| (7) | 因此，一个必然存在的存在（上帝）确实存在。           |
 
 值得注意的是，莱布尼茨的论证与哥德尔提出的本体论论证有一定的相似之处，因为它也试图证明一个存在可以拥有所有简单、积极的属性的可能性。（有关哥德尔的论证，请参见本体论论证条目。）
 
@@ -325,13 +318,13 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 戈特弗里德·威廉·莱布尼茨对可能世界的本质的阐述在另一篇文章中进行。在这里，将讨论以下简单的问题：这个世界如何成为所有可能世界中最好的？毕竟，正如伏尔泰在《 Candide 》中清楚地指出的那样，这个世界显然并不完美 - 实际上，它似乎相当糟糕。当然，只有愚人才会相信这是最好的世界。但是，莱布尼茨代表愚人发言，他的论证基本上具有以下结构：
 
-> | (1) | 上帝是全能的、全知的、仁慈的，并且是世界的自由创造者。（定义）                                                                                                                                                                                                                         |
-> | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | (2) | 事物本可以是另外一种方式 - 即存在其他可能的世界。（前提）                                                                                                                                                                                                                              |
-> | (3) | 假设这个世界不是所有可能世界中最好的。（即，“世界可以更好。”）                                                                                                                                                                                                                       |
-> | (4) | 如果这个世界不是所有可能世界中最好的，那么至少有以下情况之一必定成立：<br /><br />* 上帝没有足够的能力创造一个更好的世界；或者<br />* 上帝在创造世界后不知道它会如何发展（即上帝缺乏预知）；或者<br />* 上帝不希望这个世界是最好的；或者<br />* 上帝并没有创造世界；或者<br />* 没有其他可能的世界供上帝选择。 |
-> | (5) | 但是，(4)的任何一个或多个分支与(1)或(2)相矛盾。                                                                                                                                                                                                                                        |
-> | (6) | 因此，这个世界是所有可能世界中最好的。                                                                                                                                                                                                                                                 |
+| (1) | 上帝是全能的、全知的、仁慈的，并且是世界的自由创造者。（定义）                                                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (2) | 事物本可以是另外一种方式 - 即存在其他可能的世界。（前提）                                                                                                                                            |
+| (3) | 假设这个世界不是所有可能世界中最好的。（即，“世界可以更好。”）                                                                                                                                          |
+| (4) | <p>如果这个世界不是所有可能世界中最好的，那么至少有以下情况之一必定成立：<br><br>* 上帝没有足够的能力创造一个更好的世界；或者<br>* 上帝在创造世界后不知道它会如何发展（即上帝缺乏预知）；或者<br>* 上帝不希望这个世界是最好的；或者<br>* 上帝并没有创造世界；或者<br>* 没有其他可能的世界供上帝选择。</p> |
+| (5) | 但是，(4)的任何一个或多个分支与(1)或(2)相矛盾。                                                                                                                                              |
+| (6) | 因此，这个世界是所有可能世界中最好的。                                                                                                                                                       |
 
 换句话说，莱布尼茨似乎认为，如果一个人持有传统的有神论观念，并相信人们可以有意义地断言世界本可以不同于现在的样子，那么他必须认为这个世界是最好的可能世界。当然，这个论证只是基督教对抗伊壁鸠鲁论证反对有神论的回应。
 
@@ -341,192 +334,192 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 
 ### Primary Sources for Leibniz with Abbreviations
 
-> | -   | *Confessio Philosophi: Papers Concerning the Problem of Evil, 1671–1678*. Translated and edited by Robert C. Sleigh, Jr. New Haven, CT: Yale University Press, 2005. |
-> | --- | --- |
-> | -   | *The Labyrinth of the Continuum: Writings on the Continuum Problem, 1672–1686.* Translated and edited by Richard T. W. Arthur. New Haven, CT: Yale University Press, 2002. |
-> | -   | *The Leibniz-Arnauld Correspondence*. Edited and translated by H. T. Mason. Manchester: Manchester University Press, 1967. |
-> | -   | *The Leibniz-Des Bosses Correspondence*. Edited and translated by Brandon C. Look and Donald Rutherford. New Haven, CT: Yale University Press, 2007. |
-> | -   | *The Leibniz-De Volder Correspondence: With Selections from the Correspondence between Leibniz and Johann Bernoulli*. Edited and translated by Paul Lodge. New Haven: Yale University Press, 2013. |
-> | -   | *Lettres de Leibniz à Arnauld d'après un manuscrit inédit*. Edited by Geneviève Rodis-Lewis. Paris: Presses Universitaires de France, 1952. |
-> | -   | *Logical Papers*. Translated and edited by G. H. R. Parkinson. Oxford: Clarendon Press, 1966. |
-> | [GM] | *Mathematische Schriften*. 7 vols. Edited by C. I. Gerhardt. Halle, 1849–63. Reprint, Hildesheim: Georg Olms, 1963. |
-> | [RB] | *New Essays on Human Understanding*. Translated by Peter Remnant and Jonathan Bennett. Cambridge: Cambridge University Press, 1981. |
-> | -   | *Nouvelles lettres et opuscules inédits de Leibniz*. Edited by A. Foucher de Careil. Paris, 1857. Reprint, Hildesheim: Georg Olms, 1971. |
-> | -   | *Opera omnia, nunc primum collecta…* 6 vols. Edited by Ludovici Dutens. Genevae, 1768. |
-> | [C] | *Opuscules et fragments inédits de Leibniz*. *Extraits des manuscrits*… Edited by Louis Couturat. Paris: Presses Universitaires de France, 1903. Reprint, Hildesheim: Georg Olms, 1961. |
-> | [AG] | *Philosophical Essays*. Translated and edited by Roger Ariew and Dan Garber. Indianapolis: Hackett, 1989. |
-> | [L] | *Philosophical Papers and Letters*. Edited and translated by Leroy E. Loemker. 2d ed., Dordrect: D. Reidel, 1969. |
-> | -   | *Philosophical Texts*. Edited and translated by R.S. Woolhouse and Richard Francks. Oxford: Oxford University Press, 1998. |
-> | [G] | *Die philosophischen Schriften*. 7 vols. Edited by C. I. Gerhardt. Berlin, 1875–90. Reprint, Hildesheim: Georg Olms, 1965. |
-> | -   | *Political Writings*. Edited by Patrick Riley. Second edition. Cambridge: Cambridge University Press, 1988. |
-> | [A] | *Sämtliche Schriften und Briefe*. Edited by the Deutsche Akademie der Wissenschaften zu Berlin. Darmstadt, 1923 ff., Leipzig, 1938 ff., Berlin, 1950 ff. Cited by Series (Reihe) and Volume (Band). (To date the *Akademie* edition, Series VI, has the philosophical writings to 1690, plus the *New Essays*, as well as, in Series II, Leibniz's philosophical correspondence to 1685.) |
-> | [SR] | *De Summa Rerum: Metaphysical Paper, 1675–1676*. Translated and edited by G.H.R. Parkinson. New Haven, CT: Yale University Press, 1992. |
-> | -   | *Textes inédits d'après les manuscrits de la Bibliothèque provinciale de Hanovre*. 2 vols. Edited by Gaston Grua. Paris: Presses Universitaires de France, 1948. |
-> | [H] | *Theodicy: Essays on the Goodness of God, the Freedom on Man and the Origin of Evil*. Translated by E. M. Huggard. La Salle, IL: Open Court, 1985. |
+| -     | _Confessio Philosophi: Papers Concerning the Problem of Evil, 1671–1678_. Translated and edited by Robert C. Sleigh, Jr. New Haven, CT: Yale University Press, 2005.                                                                                                                                                                                                                      |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -     | _The Labyrinth of the Continuum: Writings on the Continuum Problem, 1672–1686._ Translated and edited by Richard T. W. Arthur. New Haven, CT: Yale University Press, 2002.                                                                                                                                                                                                                |
+| -     | _The Leibniz-Arnauld Correspondence_. Edited and translated by H. T. Mason. Manchester: Manchester University Press, 1967.                                                                                                                                                                                                                                                                |
+| -     | _The Leibniz-Des Bosses Correspondence_. Edited and translated by Brandon C. Look and Donald Rutherford. New Haven, CT: Yale University Press, 2007.                                                                                                                                                                                                                                      |
+| -     | _The Leibniz-De Volder Correspondence: With Selections from the Correspondence between Leibniz and Johann Bernoulli_. Edited and translated by Paul Lodge. New Haven: Yale University Press, 2013.                                                                                                                                                                                        |
+| -     | _Lettres de Leibniz à Arnauld d'après un manuscrit inédit_. Edited by Geneviève Rodis-Lewis. Paris: Presses Universitaires de France, 1952.                                                                                                                                                                                                                                               |
+| -     | _Logical Papers_. Translated and edited by G. H. R. Parkinson. Oxford: Clarendon Press, 1966.                                                                                                                                                                                                                                                                                             |
+| \[GM] | _Mathematische Schriften_. 7 vols. Edited by C. I. Gerhardt. Halle, 1849–63. Reprint, Hildesheim: Georg Olms, 1963.                                                                                                                                                                                                                                                                       |
+| \[RB] | _New Essays on Human Understanding_. Translated by Peter Remnant and Jonathan Bennett. Cambridge: Cambridge University Press, 1981.                                                                                                                                                                                                                                                       |
+| -     | _Nouvelles lettres et opuscules inédits de Leibniz_. Edited by A. Foucher de Careil. Paris, 1857. Reprint, Hildesheim: Georg Olms, 1971.                                                                                                                                                                                                                                                  |
+| -     | _Opera omnia, nunc primum collecta…_ 6 vols. Edited by Ludovici Dutens. Genevae, 1768.                                                                                                                                                                                                                                                                                                    |
+| \[C]  | _Opuscules et fragments inédits de Leibniz_. _Extraits des manuscrits_… Edited by Louis Couturat. Paris: Presses Universitaires de France, 1903. Reprint, Hildesheim: Georg Olms, 1961.                                                                                                                                                                                                   |
+| \[AG] | _Philosophical Essays_. Translated and edited by Roger Ariew and Dan Garber. Indianapolis: Hackett, 1989.                                                                                                                                                                                                                                                                                 |
+| \[L]  | _Philosophical Papers and Letters_. Edited and translated by Leroy E. Loemker. 2d ed., Dordrect: D. Reidel, 1969.                                                                                                                                                                                                                                                                         |
+| -     | _Philosophical Texts_. Edited and translated by R.S. Woolhouse and Richard Francks. Oxford: Oxford University Press, 1998.                                                                                                                                                                                                                                                                |
+| \[G]  | _Die philosophischen Schriften_. 7 vols. Edited by C. I. Gerhardt. Berlin, 1875–90. Reprint, Hildesheim: Georg Olms, 1965.                                                                                                                                                                                                                                                                |
+| -     | _Political Writings_. Edited by Patrick Riley. Second edition. Cambridge: Cambridge University Press, 1988.                                                                                                                                                                                                                                                                               |
+| \[A]  | _Sämtliche Schriften und Briefe_. Edited by the Deutsche Akademie der Wissenschaften zu Berlin. Darmstadt, 1923 ff., Leipzig, 1938 ff., Berlin, 1950 ff. Cited by Series (Reihe) and Volume (Band). (To date the _Akademie_ edition, Series VI, has the philosophical writings to 1690, plus the _New Essays_, as well as, in Series II, Leibniz's philosophical correspondence to 1685.) |
+| \[SR] | _De Summa Rerum: Metaphysical Paper, 1675–1676_. Translated and edited by G.H.R. Parkinson. New Haven, CT: Yale University Press, 1992.                                                                                                                                                                                                                                                   |
+| -     | _Textes inédits d'après les manuscrits de la Bibliothèque provinciale de Hanovre_. 2 vols. Edited by Gaston Grua. Paris: Presses Universitaires de France, 1948.                                                                                                                                                                                                                          |
+| \[H]  | _Theodicy: Essays on the Goodness of God, the Freedom on Man and the Origin of Evil_. Translated by E. M. Huggard. La Salle, IL: Open Court, 1985.                                                                                                                                                                                                                                        |
 
 ### Other Primary Sources
 
-> | [CSM] | *The Philosophical Writings of Descartes*. Edited by John Cottingham, Robert Stoothoff, Dugald Murdoch. 2 Volumes. Cambridge: Cambridge University Press, 1984. |
-> | --- | --- |
-> | [AT] | *Oeuvres de Descartes*. Edited by Charles Adam and Paul Tannery. 12 Volumes. Reprint, Paris: J. Vrin, 1996. |
+| \[CSM] | _The Philosophical Writings of Descartes_. Edited by John Cottingham, Robert Stoothoff, Dugald Murdoch. 2 Volumes. Cambridge: Cambridge University Press, 1984. |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \[AT]  | _Oeuvres de Descartes_. Edited by Charles Adam and Paul Tannery. 12 Volumes. Reprint, Paris: J. Vrin, 1996.                                                     |
 
 ### Secondary Sources
 
-* Adams, Robert Merrihew, 1972. “Must God Create the Best?” *Philosophical Review*, 81(3): 317–332.
-* –––, 1983. “Phenomenalism and Corporeal Substance in Leibniz,” *Midwest Studies in Philosophy*, 8(1): 217–257.
-* –––, 1984. “Predication, Truth and Transworld Identity in Leibniz,” in Bogen and McGuire, *How Things Are*, Dordrecht: D. Reidel, 235–283.
-* –––, 1994. *Leibniz: Determinist, Theist, Idealist*, Oxford: Oxford University Press.
-* Aiton, Eric, 1985. *Leibniz: A Biography*, Bristol: Adam Hilger.
-* Andrault, Raphaele, 2006. “Leibniz et les iatromécaniciens,” *Studia Leibnitiana*, 38/39(1): 63–88.
-* Antognazza, Maria Rosa, 2008. *Leibniz on the Trinity and the Incarnation: Reason and Revelation in the Seventeenth Century*, Gerald Parks (trans.), New Haven: Yale University Press.
-* –––, 2009. *Leibniz: An Intellectual Biography*, Cambridge: Cambridge University Press.
-* Arthur, Richard, 1985. “Leibniz's Theory of Time,” in Okruhlik and Brown (eds.), *The Natural Philosophy of Leibniz*, 263–313.
-* Beeley, Philip, 1996. *Kontinuität und Mechanismus.* Stuttgart: Steiner Verlag (*Studia Leibnitiana*, Supplement 30).
-* Bolton, Martha Brandt, 1996. “The Nominalist Argument of the New Essays,” *The Leibniz Review*, 6: 1–24.
-* –––, 1998. “Locke, Leibniz, and the Logic of Mechanism,” *Journal of the History of Philosophy*, 36 (2): 189–213.
-* Broad, C. D., 1975. *Leibniz: An Introduction*, Cambridge: Cambridge University Press.
-* Brown, Gregory, 1987. “Compossibility, Harmony, and Perfection in Leibniz,” *The Philosophical Review*, 96(2): 173–203.
-* –––, 1988. “Leibniz's Theodicy and the Confluence of Worldly Goods,” *Journal of the History of Philosophy*, 26(4): 571–591
-* –––, 1992. “Is There a Pre-Established Harmony of Aggregates in the Leibnizian Dynamics, or Do Non-Substantial Bodies Interact?” *Journal of the History of Philosophy*, 30(1): 53–75.
-* Brown, Stuart, 1984. *Leibniz*, Minneapolis: University of Minnesota Press.
-* Burkhardt, Hans, 1980. *Logik und Semiotik in der Philosophie von Leibniz*, Munich: Philosophia Verlag.
-* Busche, Hubertus, 1997. *Leibniz' Weg ins perspektivische Universum*, Hamburg: Meiner.
-* Cassirer, Ernst, 1902. *Leibniz' System in Seinen Wissenschaftlichen Grundlagen*, Marburg: Elwert; reprinted Hildesheim: Olms, 1962.
-* Coudert, Allison P., 1995. *Leibniz and the Kabbalah*, Dordrecht: Springer.
-* Couturat, Louis, 1901. *La logique de Leibniz*. Paris: Presses Universitaires de France; reprinted Hildesheim: Georg Olms, 1961.
-* Cover, J.A. and J. O'Leary-Hawthorne, 1999. *Substance and Individuation in Leibniz*, Cambridge: Cambridge University Press.
-* Di Bella, Stefano, 2005. *The Science of the Individual: Leibniz's Ontology of Individual Substance*, Dordrect: Springer.
-* Duchesneau, François, 1993. *Leibniz et la méthode de la science*, Paris: Presses Universitaires de France.
-* –––, 1994. *La dynamique de Leibniz*, Paris: J. Vrin.
-* Fichant, Michel, 1998. *Science et métaphysique dans Descartes et Leibniz*, Paris: Presses Universitaires de France.
-* –––, 2003. “Leibniz et les machines de la nature,” *Studia Leibnitiana*, 35(1): 1–28.
-* –––, 2004. “L'Invention métaphysique” (Introduction to Leibniz, *Discours de métaphysique suivi de Monadologie et autres textes*), Paris: Gallimard, 1–123.
-* Frankfurt, Harry G. (ed.), 1972. *Leibniz: A Collection of Critical Essays*, New York: Doubleday.
-* Furth, Montgomery, 1967. “Monadology,” *The Philosophical Review*, 76(2): 169–200.
+* Adams, Robert Merrihew, 1972. “Must God Create the Best?” _Philosophical Review_, 81(3): 317–332.
+* –––, 1983. “Phenomenalism and Corporeal Substance in Leibniz,” _Midwest Studies in Philosophy_, 8(1): 217–257.
+* –––, 1984. “Predication, Truth and Transworld Identity in Leibniz,” in Bogen and McGuire, _How Things Are_, Dordrecht: D. Reidel, 235–283.
+* –––, 1994. _Leibniz: Determinist, Theist, Idealist_, Oxford: Oxford University Press.
+* Aiton, Eric, 1985. _Leibniz: A Biography_, Bristol: Adam Hilger.
+* Andrault, Raphaele, 2006. “Leibniz et les iatromécaniciens,” _Studia Leibnitiana_, 38/39(1): 63–88.
+* Antognazza, Maria Rosa, 2008. _Leibniz on the Trinity and the Incarnation: Reason and Revelation in the Seventeenth Century_, Gerald Parks (trans.), New Haven: Yale University Press.
+* –––, 2009. _Leibniz: An Intellectual Biography_, Cambridge: Cambridge University Press.
+* Arthur, Richard, 1985. “Leibniz's Theory of Time,” in Okruhlik and Brown (eds.), _The Natural Philosophy of Leibniz_, 263–313.
+* Beeley, Philip, 1996. _Kontinuität und Mechanismus._ Stuttgart: Steiner Verlag (_Studia Leibnitiana_, Supplement 30).
+* Bolton, Martha Brandt, 1996. “The Nominalist Argument of the New Essays,” _The Leibniz Review_, 6: 1–24.
+* –––, 1998. “Locke, Leibniz, and the Logic of Mechanism,” _Journal of the History of Philosophy_, 36 (2): 189–213.
+* Broad, C. D., 1975. _Leibniz: An Introduction_, Cambridge: Cambridge University Press.
+* Brown, Gregory, 1987. “Compossibility, Harmony, and Perfection in Leibniz,” _The Philosophical Review_, 96(2): 173–203.
+* –––, 1988. “Leibniz's Theodicy and the Confluence of Worldly Goods,” _Journal of the History of Philosophy_, 26(4): 571–591
+* –––, 1992. “Is There a Pre-Established Harmony of Aggregates in the Leibnizian Dynamics, or Do Non-Substantial Bodies Interact?” _Journal of the History of Philosophy_, 30(1): 53–75.
+* Brown, Stuart, 1984. _Leibniz_, Minneapolis: University of Minnesota Press.
+* Burkhardt, Hans, 1980. _Logik und Semiotik in der Philosophie von Leibniz_, Munich: Philosophia Verlag.
+* Busche, Hubertus, 1997. _Leibniz' Weg ins perspektivische Universum_, Hamburg: Meiner.
+* Cassirer, Ernst, 1902. _Leibniz' System in Seinen Wissenschaftlichen Grundlagen_, Marburg: Elwert; reprinted Hildesheim: Olms, 1962.
+* Coudert, Allison P., 1995. _Leibniz and the Kabbalah_, Dordrecht: Springer.
+* Couturat, Louis, 1901. _La logique de Leibniz_. Paris: Presses Universitaires de France; reprinted Hildesheim: Georg Olms, 1961.
+* Cover, J.A. and J. O'Leary-Hawthorne, 1999. _Substance and Individuation in Leibniz_, Cambridge: Cambridge University Press.
+* Di Bella, Stefano, 2005. _The Science of the Individual: Leibniz's Ontology of Individual Substance_, Dordrect: Springer.
+* Duchesneau, François, 1993. _Leibniz et la méthode de la science_, Paris: Presses Universitaires de France.
+* –––, 1994. _La dynamique de Leibniz_, Paris: J. Vrin.
+* Fichant, Michel, 1998. _Science et métaphysique dans Descartes et Leibniz_, Paris: Presses Universitaires de France.
+* –––, 2003. “Leibniz et les machines de la nature,” _Studia Leibnitiana_, 35(1): 1–28.
+* –––, 2004. “L'Invention métaphysique” (Introduction to Leibniz, _Discours de métaphysique suivi de Monadologie et autres textes_), Paris: Gallimard, 1–123.
+* Frankfurt, Harry G. (ed.), 1972. _Leibniz: A Collection of Critical Essays_, New York: Doubleday.
+* Furth, Montgomery, 1967. “Monadology,” _The Philosophical Review_, 76(2): 169–200.
 * Garber, Daniel, 1982. “Motion and Metaphysics in the Young Leibniz,” in Hooker (ed.) 1982, pp. 160–184.
-* –––, 1983. “Mind, Body and the Laws of Nature in Descartes and Leibniz,“*Midwest Studies in Philosophy*, 8(1): 105–133.
-* –––, 1985. “Leibniz and the Foundations of Physics: The Middle Years,” in Okrulik and Brown, *Natural Philosophy*, 27–130.
-* –––, 2009. *Leibniz: Body, Substance, Monad*, New York and Oxford: Oxford University Press.
-* Gaudemar, Martine de, 1994. *Leibniz: de la puissance au sujet*, Paris: Vrin.
-* Goldenbaum, Ursula, and Douglas Jesseph (eds.), 2008. *Infinitesimal Differences: Controversies between Leibniz and his Contemporaries*, Berlin: De Gruyter.
-* Guéroult, Martial, 1967. *Leibniz: Dynamique et Métaphysique*. Paris: Aubier.
-* Hacking, Ian, 1972. “Individual Substance,” in H. Frankfurt (ed.), *Leibniz: A Collection of Critical Essays*, New York: Doubleday, 137–153.
-* Hartz, Glenn, 2006. *Leibniz's Final System*, New York: Routledge.
-* Hooker, Michael (ed.), 1982. *Leibniz: Critical and Interpretive Essays*, Minneapolis: University of Minnesota Press.
-* Ishiguro, Hidé, 1990. *Leibniz's Philosophy of Logic and Language*, 2nd ed., Cambridge: Cambridge University Press.
-* –––, 1972. “Leibniz's Theory of the Ideality of Relations,” in Frankfurt, *Leibniz: A Collection of Critical Essays*, New York: Doubleday, 191–213.
-* Jalabert, Jacques, 1947. *La théorie leibnizienne de la substance*, Paris: Presses Universitaires de France.
-* –––, 1960. *Le Dieu de Leibniz*, Paris: Presses Universitaires de France.
-* Jauernig, Anja, 2008. “The Modal Strength of Leibniz's Principle of the Identity of Indiscernibles,” *Oxford Studies in Early Modern Philosophy*, IV: 191–225.
-* –––, 2010. “Disentangling Leibniz's Views on Relations and Extrinsic Denominations,” *Journal of the History of Philosophy*, 48 (2): 171–205.
-* Jolley, Nicholas, 1984. *Leibniz and Locke: A Study of the “New Essays on Human Understanding*,” Oxford: Clarendon Press.
-* –––, 1986. “Leibniz and Phenomenalism,” *Studia Leibnitiana*, XVIII(1): 38–51.
-* –––, 2005. *Leibniz*, New York: Routledge.
-* Jolley, Nicholas (ed.), 1995. *The Cambridge Companion to Leibniz*, Cambridge: Cambridge University Press.
-* Kauppi, Raili, 1960. *Über die Leibnizsche Logik*, Helsinki: Acta Philosophica Fennica, Fasc. XII.
-* Kulstad, Mark A., 1980. “A Closer Look at Leibniz's Alleged Reduction of Relations,” *Southern Journal of Philosophy*, 18(4): 417–32.
-* –––, 1991. *Leibniz on Apperception, Consciousness and Reflection*, Munich: Philosophia Verlag.
-* –––, 1993. “Two Interpretations of the Pre-Established Harmony in the Philosophy of Leibniz,” *Synthese*, 96(3): 477–504.
-* Lærke, Mogens, 2008. *Leibniz et Spinoza: le genèse d'une opposition complexe*, Paris: Honoré Champion.
-* –––, 2011. “Leibniz's Cosmological Argument for the Existence of God,” *Archiv für Geschichte der Philosophie*, 93(1): 58–84.
-* Leduc, Christian, 2009. *Substance, individu et connaissance chez Leibniz*, Montreal: University of Montreal Press.
-* Levey, Samuel, 1998. “Leibniz on Mathematics and the Actually Infinite Division of Matter,” *Philosophical Review*, 107(1): 49–96.
-* Lin, Martin, 2012. “Rationalism and Necessitarianism,” *Noûs*, 46(3): 418–448.
-* Lodge, Paul, 1998a. “Leibniz's Heterogeneity Argument against the Cartesian Conception of Body,” *Studia Leibnitiana*, 30(1): 83–102.
-* –––, 1998b. “Leibniz's Commitment to the Pre-established Harmony in the Late 1670s and Early 1680s,” *Archiv für Geschichte der Philosophie*, 80(3): 292–320.
-* –––, 2001. “Leibniz's Notion of an Aggregate,” *British Journal for the History of Philosophy*, 9(3): 467–486.
-* Lodge, Paul (ed.), 2004. *Leibniz and His Correspondents*, Cambridge: Cambridge University Press.
-* Lodge, Paul, and Marc Bobro, 1998. “Stepping Back Inside Leibniz's Mill,” *The Monist*, 81(4): 553–572.
-* Look, Brandon C., 1999. *Leibniz and the ‘Vinculum Substantiale’*, Stuttgart: Steiner (*Studia Leibnitiana*, Supplement 30).
-* –––, 2002. “On Monadic Domination in Leibniz's Metaphysics,” *British Journal for the History of Philosophy*, 10(3): 379–399.
-* –––, 2005. “Leibniz and the Shelf of Essence,” *The Leibniz Review*, 15: 27–47.
-* –––, 2010. “Leibniz's Metaphysics and Metametaphysics: Idealism, Realism and the Nature of Substance,” *Philosophy Compass*, 5(11): 871–879.
-* Look, Brandon C. (ed.), 2011. *The Continuum Companion to Leibniz*, London: Continuum.
-* Martin, Gottfried, 1964. *Leibniz: Logic and Metaphysics*, Manchester: Manchester University Press.
-* Mates, Benson, 1972. “Individuals and Modality in the Philosophy of Leibniz,” *Studia Leibnitiana*, IV(2): 81–118.
-* –––, 1986. *The Philosophy of Leibniz: Metaphysics and Language*, Oxford: Oxford University Press.
-* McDonough, Jeffrey K., 2008. “Leibniz's Two Realms Revisited,” *Noûs*, 42(4): 673–696.
-* McRae, Robert, 1976. *Leibniz: Perception, Apperception, and Thought*, Toronto: University of Toronto Press.
-* Mercer, Christia, 2001. *Leibniz's Metaphysics: Its Origin and Development*, Cambridge: Cambridge University Press.
-* Mercer, Christia, and Robert C. Sleigh Jr., 1995. “Metaphysics: The early period to the *Discourse on Metaphysics*,” in N. Jolley (ed.), *The Cambridge Companion to Leibniz*, 67–123.
-* Mondadori, Fabrizio, 1973. “Reference, Essentialism, and Modality in Leibniz's Metaphysics,” *Studia Leibnitiana*, V(1): 74–101.
-* –––, 1985. “Understanding Superessentialism,” *Studia Leibnitiana*, XVII(2): 162–190.
-* Mugnai, Massimo, 1992. *Leibniz' Theory of Relations*, Stuttgart: Franz Steiner (*Studia Leibnitiana*, Supplement 28).
-* Nachtomy, Ohad, 2007. *Possibility, Agency, and Individuality in Leibniz's Metaphysics*, Dordrecht: Springer.
-* Newlands, Samuel, 2010. “The Harmony of Spinoza and Leibniz,” *Philosophy and Phenomenological Research*, 81(1): 64–104.
-* Okruhlik, Kathleen, and James Brown (eds.), 1985. *The Natural Philosophy of Leibniz*, Dordrecht: D. Reidel.
-* Parkinson, G. H. R., 1965. *Logic and Reality in Leibniz's Metaphysics*, Oxford: Oxford University Press.
-* Phemister, Pauline, 2001. “Corporeal Substances and the ‘Discourse on Metaphysics’,” *Studia Leibnitiana*, 33 (1): 68–85.
-* –––, 2005. *Leibniz and the Natural World: Activity, Passivity, and Corporeal Substances in Leibniz's Philosophy*, Dordrecht: Springer.
-* Picon, Marine, 2003. “Vers la doctrine de l'entendement en abrégé: éléments pour une généalogie des *Meditationes de cognitione, veritate, et ideis*,” *Studia Leibnitiana*, 35 (1): 102–132.
-* Puryear, Stephen, 2010. “Monadic Interaction,” *British Journal for the History of Philosophy*, 18(5): 763–796.
-* Rateau, Paul, 2008. *La question du mal chez Leibniz*, Paris: Champion.
-* Rauzy, Jean-Baptiste, 2001. *La doctrine leibnizienne de la vérité: aspects logiques et ontologiques*, Paris: J. Vrin.
-* Rescher, Nicholas, 1979. *Leibniz: An Introduction to His Philosophy*, Oxford: Basil Blackwell.
-* –––, 1981. *Leibniz's Metaphysics of Nature*, Dordrecht: D. Reidel.
-* –––, 1967. *The Philosophy of Leibniz*, Englewood Cliffs, NJ: Prentice Hall.
-* Rescher, Nicholas (ed.), 1989. *Leibnizian Inquiries: A Group of Essays*, New York: University Press of America.
-* Rey, Anne-Lise, 2011. “Les paradoxes de la singularité: infini et perception chez GW Leibniz,” *Revue de métaphysique et de morale*, 70(2): 253–266.
-* Riley, Patrick, 1996. *Leibniz' Universal Jurisprudence: Justice as Charity of the Wise*, Cambridge, MA: Harvard University Press.
-* Risi, Vincenzo de, 2007. *Geometry and Monadology: Leibniz's Analysis Situs and Philosophy of Space*, Basel: Birkhäuser.
-* Robinet, André, 1986. *Architectonique Disjonctive Automates Systémiques et Idéalité Transcendantale dans l'Œuvre de G.W. Leibniz*, Paris: J. Vrin.
-* Rodriguez-Pereyra, Gonzalo, 1999. “Leibniz's argument for the identity of indiscernibles in his correspondence with Clarke,” *Australasian Journal of Philosophy*, 77(4): 429–438.
-* Roland, Jeanne, 2012. *Leibniz et l'individualité organique*, Montreal: University of Montreal Press.
-* Russell, Bertrand, 1937. *A Critical Exposition of the Philosophy of Leibniz*, 2nd ed., London: Allen & Unwin.
-* Rutherford, Donald, 1990a. “Leibniz's ‘Analysis of Multitude and Phenomena into Unities and Reality,’” *Journal of the History of Philosophy*, 28: 525–552.
-* –––, 1990b. “Phenomenalism and the Reality of Body in Leibniz's Later Philosophy,” *Studia Leibnitiana*, XXII(1): 11–28.
-* –––, 1993. “Natures, Laws, and Miracles: The Roots of Leibniz's Critique of Occasionalism,” in Steven Nadler (ed.), *Causation in Early Modern Philosophy*, College Park, PA: Pennsylvania State University Press, 135–58.
-* –––, 1994. “Leibniz and the Problem of Monadic Aggregation,” *Archiv für Geschichte der Philosophie*, 76(1): 65–90.
-* –––, 1995a. *Leibniz and the Rational Order of Nature*, Cambridge: Cambridge University Press.
-* –––, 1995b. “Metaphysics: The late period,” in N. Jolley (ed.), *The Cambridge Companion to Leibniz*, Cambridge: Cambridge University Press, 124–174.
-* –––, 2008. “Leibniz as Idealist,” *Oxford Studies in Early Modern Philosophy*, IV: 141–190.
-* Schepers, Heinrich, 1965. “Zum Problem der Kontingenz bei Leibniz: Die beste der möglichen Welten,” in *Collegium Philosophicum: Joachim Ritter zum 60. Geburtstag*, Basel and Stuttgart: Schwabe, 326–350.
-* Sellers, Wilfrid, 1965. “Meditations Leibniziennes,” *American Philosophical Quarterly*, 2(2): 105–118.
-* Simmons, Alison, 2001. “Changing the Cartesian Mind: Leibniz on Sensation, Representation and Consciousness,” *Philosophical Review*, 110(1): 31–75.
+* –––, 1983. “Mind, Body and the Laws of Nature in Descartes and Leibniz,“_Midwest Studies in Philosophy_, 8(1): 105–133.
+* –––, 1985. “Leibniz and the Foundations of Physics: The Middle Years,” in Okrulik and Brown, _Natural Philosophy_, 27–130.
+* –––, 2009. _Leibniz: Body, Substance, Monad_, New York and Oxford: Oxford University Press.
+* Gaudemar, Martine de, 1994. _Leibniz: de la puissance au sujet_, Paris: Vrin.
+* Goldenbaum, Ursula, and Douglas Jesseph (eds.), 2008. _Infinitesimal Differences: Controversies between Leibniz and his Contemporaries_, Berlin: De Gruyter.
+* Guéroult, Martial, 1967. _Leibniz: Dynamique et Métaphysique_. Paris: Aubier.
+* Hacking, Ian, 1972. “Individual Substance,” in H. Frankfurt (ed.), _Leibniz: A Collection of Critical Essays_, New York: Doubleday, 137–153.
+* Hartz, Glenn, 2006. _Leibniz's Final System_, New York: Routledge.
+* Hooker, Michael (ed.), 1982. _Leibniz: Critical and Interpretive Essays_, Minneapolis: University of Minnesota Press.
+* Ishiguro, Hidé, 1990. _Leibniz's Philosophy of Logic and Language_, 2nd ed., Cambridge: Cambridge University Press.
+* –––, 1972. “Leibniz's Theory of the Ideality of Relations,” in Frankfurt, _Leibniz: A Collection of Critical Essays_, New York: Doubleday, 191–213.
+* Jalabert, Jacques, 1947. _La théorie leibnizienne de la substance_, Paris: Presses Universitaires de France.
+* –––, 1960. _Le Dieu de Leibniz_, Paris: Presses Universitaires de France.
+* Jauernig, Anja, 2008. “The Modal Strength of Leibniz's Principle of the Identity of Indiscernibles,” _Oxford Studies in Early Modern Philosophy_, IV: 191–225.
+* –––, 2010. “Disentangling Leibniz's Views on Relations and Extrinsic Denominations,” _Journal of the History of Philosophy_, 48 (2): 171–205.
+* Jolley, Nicholas, 1984. _Leibniz and Locke: A Study of the “New Essays on Human Understanding_,” Oxford: Clarendon Press.
+* –––, 1986. “Leibniz and Phenomenalism,” _Studia Leibnitiana_, XVIII(1): 38–51.
+* –––, 2005. _Leibniz_, New York: Routledge.
+* Jolley, Nicholas (ed.), 1995. _The Cambridge Companion to Leibniz_, Cambridge: Cambridge University Press.
+* Kauppi, Raili, 1960. _Über die Leibnizsche Logik_, Helsinki: Acta Philosophica Fennica, Fasc. XII.
+* Kulstad, Mark A., 1980. “A Closer Look at Leibniz's Alleged Reduction of Relations,” _Southern Journal of Philosophy_, 18(4): 417–32.
+* –––, 1991. _Leibniz on Apperception, Consciousness and Reflection_, Munich: Philosophia Verlag.
+* –––, 1993. “Two Interpretations of the Pre-Established Harmony in the Philosophy of Leibniz,” _Synthese_, 96(3): 477–504.
+* Lærke, Mogens, 2008. _Leibniz et Spinoza: le genèse d'une opposition complexe_, Paris: Honoré Champion.
+* –––, 2011. “Leibniz's Cosmological Argument for the Existence of God,” _Archiv für Geschichte der Philosophie_, 93(1): 58–84.
+* Leduc, Christian, 2009. _Substance, individu et connaissance chez Leibniz_, Montreal: University of Montreal Press.
+* Levey, Samuel, 1998. “Leibniz on Mathematics and the Actually Infinite Division of Matter,” _Philosophical Review_, 107(1): 49–96.
+* Lin, Martin, 2012. “Rationalism and Necessitarianism,” _Noûs_, 46(3): 418–448.
+* Lodge, Paul, 1998a. “Leibniz's Heterogeneity Argument against the Cartesian Conception of Body,” _Studia Leibnitiana_, 30(1): 83–102.
+* –––, 1998b. “Leibniz's Commitment to the Pre-established Harmony in the Late 1670s and Early 1680s,” _Archiv für Geschichte der Philosophie_, 80(3): 292–320.
+* –––, 2001. “Leibniz's Notion of an Aggregate,” _British Journal for the History of Philosophy_, 9(3): 467–486.
+* Lodge, Paul (ed.), 2004. _Leibniz and His Correspondents_, Cambridge: Cambridge University Press.
+* Lodge, Paul, and Marc Bobro, 1998. “Stepping Back Inside Leibniz's Mill,” _The Monist_, 81(4): 553–572.
+* Look, Brandon C., 1999. _Leibniz and the ‘Vinculum Substantiale’_, Stuttgart: Steiner (_Studia Leibnitiana_, Supplement 30).
+* –––, 2002. “On Monadic Domination in Leibniz's Metaphysics,” _British Journal for the History of Philosophy_, 10(3): 379–399.
+* –––, 2005. “Leibniz and the Shelf of Essence,” _The Leibniz Review_, 15: 27–47.
+* –––, 2010. “Leibniz's Metaphysics and Metametaphysics: Idealism, Realism and the Nature of Substance,” _Philosophy Compass_, 5(11): 871–879.
+* Look, Brandon C. (ed.), 2011. _The Continuum Companion to Leibniz_, London: Continuum.
+* Martin, Gottfried, 1964. _Leibniz: Logic and Metaphysics_, Manchester: Manchester University Press.
+* Mates, Benson, 1972. “Individuals and Modality in the Philosophy of Leibniz,” _Studia Leibnitiana_, IV(2): 81–118.
+* –––, 1986. _The Philosophy of Leibniz: Metaphysics and Language_, Oxford: Oxford University Press.
+* McDonough, Jeffrey K., 2008. “Leibniz's Two Realms Revisited,” _Noûs_, 42(4): 673–696.
+* McRae, Robert, 1976. _Leibniz: Perception, Apperception, and Thought_, Toronto: University of Toronto Press.
+* Mercer, Christia, 2001. _Leibniz's Metaphysics: Its Origin and Development_, Cambridge: Cambridge University Press.
+* Mercer, Christia, and Robert C. Sleigh Jr., 1995. “Metaphysics: The early period to the _Discourse on Metaphysics_,” in N. Jolley (ed.), _The Cambridge Companion to Leibniz_, 67–123.
+* Mondadori, Fabrizio, 1973. “Reference, Essentialism, and Modality in Leibniz's Metaphysics,” _Studia Leibnitiana_, V(1): 74–101.
+* –––, 1985. “Understanding Superessentialism,” _Studia Leibnitiana_, XVII(2): 162–190.
+* Mugnai, Massimo, 1992. _Leibniz' Theory of Relations_, Stuttgart: Franz Steiner (_Studia Leibnitiana_, Supplement 28).
+* Nachtomy, Ohad, 2007. _Possibility, Agency, and Individuality in Leibniz's Metaphysics_, Dordrecht: Springer.
+* Newlands, Samuel, 2010. “The Harmony of Spinoza and Leibniz,” _Philosophy and Phenomenological Research_, 81(1): 64–104.
+* Okruhlik, Kathleen, and James Brown (eds.), 1985. _The Natural Philosophy of Leibniz_, Dordrecht: D. Reidel.
+* Parkinson, G. H. R., 1965. _Logic and Reality in Leibniz's Metaphysics_, Oxford: Oxford University Press.
+* Phemister, Pauline, 2001. “Corporeal Substances and the ‘Discourse on Metaphysics’,” _Studia Leibnitiana_, 33 (1): 68–85.
+* –––, 2005. _Leibniz and the Natural World: Activity, Passivity, and Corporeal Substances in Leibniz's Philosophy_, Dordrecht: Springer.
+* Picon, Marine, 2003. “Vers la doctrine de l'entendement en abrégé: éléments pour une généalogie des _Meditationes de cognitione, veritate, et ideis_,” _Studia Leibnitiana_, 35 (1): 102–132.
+* Puryear, Stephen, 2010. “Monadic Interaction,” _British Journal for the History of Philosophy_, 18(5): 763–796.
+* Rateau, Paul, 2008. _La question du mal chez Leibniz_, Paris: Champion.
+* Rauzy, Jean-Baptiste, 2001. _La doctrine leibnizienne de la vérité: aspects logiques et ontologiques_, Paris: J. Vrin.
+* Rescher, Nicholas, 1979. _Leibniz: An Introduction to His Philosophy_, Oxford: Basil Blackwell.
+* –––, 1981. _Leibniz's Metaphysics of Nature_, Dordrecht: D. Reidel.
+* –––, 1967. _The Philosophy of Leibniz_, Englewood Cliffs, NJ: Prentice Hall.
+* Rescher, Nicholas (ed.), 1989. _Leibnizian Inquiries: A Group of Essays_, New York: University Press of America.
+* Rey, Anne-Lise, 2011. “Les paradoxes de la singularité: infini et perception chez GW Leibniz,” _Revue de métaphysique et de morale_, 70(2): 253–266.
+* Riley, Patrick, 1996. _Leibniz' Universal Jurisprudence: Justice as Charity of the Wise_, Cambridge, MA: Harvard University Press.
+* Risi, Vincenzo de, 2007. _Geometry and Monadology: Leibniz's Analysis Situs and Philosophy of Space_, Basel: Birkhäuser.
+* Robinet, André, 1986. _Architectonique Disjonctive Automates Systémiques et Idéalité Transcendantale dans l'Œuvre de G.W. Leibniz_, Paris: J. Vrin.
+* Rodriguez-Pereyra, Gonzalo, 1999. “Leibniz's argument for the identity of indiscernibles in his correspondence with Clarke,” _Australasian Journal of Philosophy_, 77(4): 429–438.
+* Roland, Jeanne, 2012. _Leibniz et l'individualité organique_, Montreal: University of Montreal Press.
+* Russell, Bertrand, 1937. _A Critical Exposition of the Philosophy of Leibniz_, 2nd ed., London: Allen & Unwin.
+* Rutherford, Donald, 1990a. “Leibniz's ‘Analysis of Multitude and Phenomena into Unities and Reality,’” _Journal of the History of Philosophy_, 28: 525–552.
+* –––, 1990b. “Phenomenalism and the Reality of Body in Leibniz's Later Philosophy,” _Studia Leibnitiana_, XXII(1): 11–28.
+* –––, 1993. “Natures, Laws, and Miracles: The Roots of Leibniz's Critique of Occasionalism,” in Steven Nadler (ed.), _Causation in Early Modern Philosophy_, College Park, PA: Pennsylvania State University Press, 135–58.
+* –––, 1994. “Leibniz and the Problem of Monadic Aggregation,” _Archiv für Geschichte der Philosophie_, 76(1): 65–90.
+* –––, 1995a. _Leibniz and the Rational Order of Nature_, Cambridge: Cambridge University Press.
+* –––, 1995b. “Metaphysics: The late period,” in N. Jolley (ed.), _The Cambridge Companion to Leibniz_, Cambridge: Cambridge University Press, 124–174.
+* –––, 2008. “Leibniz as Idealist,” _Oxford Studies in Early Modern Philosophy_, IV: 141–190.
+* Schepers, Heinrich, 1965. “Zum Problem der Kontingenz bei Leibniz: Die beste der möglichen Welten,” in _Collegium Philosophicum: Joachim Ritter zum 60. Geburtstag_, Basel and Stuttgart: Schwabe, 326–350.
+* Sellers, Wilfrid, 1965. “Meditations Leibniziennes,” _American Philosophical Quarterly_, 2(2): 105–118.
+* Simmons, Alison, 2001. “Changing the Cartesian Mind: Leibniz on Sensation, Representation and Consciousness,” _Philosophical Review_, 110(1): 31–75.
 * Sleigh, R. C., Jr., 1982. “Truth and Sufficient Reason in the Philosophy of Leibniz,” in Hooker (ed.), 1982, 209–42.
-* –––, 1983a. “Expression, Perception and Harmony in the *Discourse*,” *Southern Journal of Philosophy*, 21 (Supplement): 71–84.
-* –––, 1983b. “Leibniz on the Two Great Principles of All Our Reasonings,” *Midwest Studies in Philosophy*, 8(1): 193–217.
-* –––, 1990a. *Leibniz and Arnauld: A Commentary on Their Correspondence*, New Haven: Yale University Press.
-* –––, 1990b. “Leibniz on Malebranche on Causality,” in J.A. Cover and M. Kulstad (eds.), *Central Themes in Early Modern Philosophy*, Indianapolis: Hackett, 161–193.
-* Smith, Justin E. H., 2004. “Christian Platonism and the Metaphysics of Body in Leibniz,” *British Journal for the History of Philosophy*, 12(1): 43–59.
-* –––, 2010. *Divine Machines: Leibniz and the Sciences of Life*, Princeton: Princeton University Press.
-* Smith, Justin E. H. and Ohad Nachtomy (eds.), 2011. *Machines of Nature and Corporeal Substances In Leibniz*, Dordrecht: Springer, 2011.
-* Wilson, Catherine, 1983. “Leibnizian Optimism,” *The Journal of Philosophy*, 80 (11): 765–783.
-* –––, 1987. “*De Ipsa Natura*: Sources of Leibniz's Doctrines of Force, Activity and Natural Law” *Studia Leibnitiana*, 19(2): 148–172.
-* –––, 1989. *Leibniz's Metaphysics: A Historical and Comparative Study*, Manchester: Manchester University Press.
-* –––, 2000. “Plenitude and Compossibility in Leibniz,” *The Leibniz Review*, 10: 1–20.
-* Wilson, Margaret D., 1976. “Leibniz's Dynamics and Contingency in Nature,” in Machamer and Turnbull, *Motion and Time, Space and Matter*, London: Routledge, 264–289; reprinted in Wilson 1999.
-* –––, 1978/9. “Possible Gods,” *Review of Metaphysics*, 32(4): 717–733; reprinted in Wilson 1999.
-* –––, 1987. “The Phenomenalisms of Leibniz and Berkeley,” in *Essays on the Philosophy of George Berkeley*, E. Sosa (ed.), Dordrecht: D. Reidel, 3–22; reprinted in Wilson 1999.
-* –––, 1999. *Ideas and Mechanism: Essays on Early Modern Philosophy*, Princeton: Princeton University Press.
-* Woolhouse, R. S., 1993. *Descartes, Spinoza, Leibniz: The Concept of Substance in Seventeenth Century Metaphysics*, Routledge: New York.
-* Zalta, Edward, 2000. “A (Leibnizian) Theory of Concepts,” *Philosophiegeschichte und logische Analyse* / *Logical Analysis and History of Philosophy*, 3: 137–183.
+* –––, 1983a. “Expression, Perception and Harmony in the _Discourse_,” _Southern Journal of Philosophy_, 21 (Supplement): 71–84.
+* –––, 1983b. “Leibniz on the Two Great Principles of All Our Reasonings,” _Midwest Studies in Philosophy_, 8(1): 193–217.
+* –––, 1990a. _Leibniz and Arnauld: A Commentary on Their Correspondence_, New Haven: Yale University Press.
+* –––, 1990b. “Leibniz on Malebranche on Causality,” in J.A. Cover and M. Kulstad (eds.), _Central Themes in Early Modern Philosophy_, Indianapolis: Hackett, 161–193.
+* Smith, Justin E. H., 2004. “Christian Platonism and the Metaphysics of Body in Leibniz,” _British Journal for the History of Philosophy_, 12(1): 43–59.
+* –––, 2010. _Divine Machines: Leibniz and the Sciences of Life_, Princeton: Princeton University Press.
+* Smith, Justin E. H. and Ohad Nachtomy (eds.), 2011. _Machines of Nature and Corporeal Substances In Leibniz_, Dordrecht: Springer, 2011.
+* Wilson, Catherine, 1983. “Leibnizian Optimism,” _The Journal of Philosophy_, 80 (11): 765–783.
+* –––, 1987. “_De Ipsa Natura_: Sources of Leibniz's Doctrines of Force, Activity and Natural Law” _Studia Leibnitiana_, 19(2): 148–172.
+* –––, 1989. _Leibniz's Metaphysics: A Historical and Comparative Study_, Manchester: Manchester University Press.
+* –––, 2000. “Plenitude and Compossibility in Leibniz,” _The Leibniz Review_, 10: 1–20.
+* Wilson, Margaret D., 1976. “Leibniz's Dynamics and Contingency in Nature,” in Machamer and Turnbull, _Motion and Time, Space and Matter_, London: Routledge, 264–289; reprinted in Wilson 1999.
+* –––, 1978/9. “Possible Gods,” _Review of Metaphysics_, 32(4): 717–733; reprinted in Wilson 1999.
+* –––, 1987. “The Phenomenalisms of Leibniz and Berkeley,” in _Essays on the Philosophy of George Berkeley_, E. Sosa (ed.), Dordrecht: D. Reidel, 3–22; reprinted in Wilson 1999.
+* –––, 1999. _Ideas and Mechanism: Essays on Early Modern Philosophy_, Princeton: Princeton University Press.
+* Woolhouse, R. S., 1993. _Descartes, Spinoza, Leibniz: The Concept of Substance in Seventeenth Century Metaphysics_, Routledge: New York.
+* Zalta, Edward, 2000. “A (Leibnizian) Theory of Concepts,” _Philosophiegeschichte und logische Analyse_ / _Logical Analysis and History of Philosophy_, 3: 137–183.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/leibniz/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=leibniz&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/leibniz/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/leibniz/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=leibniz\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/leibniz/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-* [Gallica](http://gallica.bnf.fr/) (Contains searchable texts from Leibniz)
+* [Gallica](http://gallica.bnf.fr/) (Contains searchable texts from Leibniz)
 * [Gottfried-Wilhelm-Leibniz-Gesellschaft](http://www.gottfried-wilhelm-leibniz-gesellschaft.de/)
 * [Leibnitiana](http://www.gwleibniz.com/)
 * [Leibniz-Edition](http://www.leibniz-edition.de/)
 * [Leibniz-Forschungsstelle](http://www.uni-muenster.de/Leibniz/Welcome.html)
 * [Leibniz – online texts](http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/leibniz.html), links to a variety of online texts by Leibniz, maintained by Clinton Tolley (Philosophy, UCSD).
-* [MacTutor page on Leibniz](https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/), including a [picture of a model of Leibniz's calculating machine](https://web.archive.org/web/20160305103908/http://www-groups.dcs.st-and.ac.uk/~history/Bookpages/Leibniz_machine.jpeg)
+* [MacTutor page on Leibniz](https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/), including a [picture of a model of Leibniz's calculating machine](https://web.archive.org/web/20160305103908/http://www-groups.dcs.st-and.ac.uk/\~history/Bookpages/Leibniz\_machine.jpeg)
 
 ## Related Entries
 
-[Arnauld, Antoine](https://plato.stanford.edu/entries/arnauld/) | [Continental Rationalism](https://plato.stanford.edu/entries/continental-rationalism/) | [identity: of indiscernibles](https://plato.stanford.edu/entries/identity-indiscernible/) | [Kant, Immanuel: and Leibniz](https://plato.stanford.edu/entries/kant-leibniz/) | [Leibniz, Gottfried Wilhelm: ethics](https://plato.stanford.edu/entries/leibniz-ethics/) | [Leibniz, Gottfried Wilhelm: influence on 19th century logic](https://plato.stanford.edu/entries/leibniz-logic-influence/) | [Leibniz, Gottfried Wilhelm: modal metaphysics](https://plato.stanford.edu/entries/leibniz-modal/) | [Leibniz, Gottfried Wilhelm: on causation](https://plato.stanford.edu/entries/leibniz-causation/) | [Leibniz, Gottfried Wilhelm: on the problem of evil](https://plato.stanford.edu/entries/leibniz-evil/) | [Leibniz, Gottfried Wilhelm: philosophy of mind](https://plato.stanford.edu/entries/leibniz-mind/) | [Leibniz, Gottfried Wilhelm: philosophy of physics](https://plato.stanford.edu/entries/leibniz-physics/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [Newton, Isaac: views on space, time, and motion](https://plato.stanford.edu/entries/newton-stm/)
+[Arnauld, Antoine](https://plato.stanford.edu/entries/arnauld/) | [Continental Rationalism](https://plato.stanford.edu/entries/continental-rationalism/) | [identity: of indiscernibles](https://plato.stanford.edu/entries/identity-indiscernible/) | [Kant, Immanuel: and Leibniz](https://plato.stanford.edu/entries/kant-leibniz/) | [Leibniz, Gottfried Wilhelm: ethics](https://plato.stanford.edu/entries/leibniz-ethics/) | [Leibniz, Gottfried Wilhelm: influence on 19th century logic](https://plato.stanford.edu/entries/leibniz-logic-influence/) | [Leibniz, Gottfried Wilhelm: modal metaphysics](https://plato.stanford.edu/entries/leibniz-modal/) | [Leibniz, Gottfried Wilhelm: on causation](https://plato.stanford.edu/entries/leibniz-causation/) | [Leibniz, Gottfried Wilhelm: on the problem of evil](https://plato.stanford.edu/entries/leibniz-evil/) | [Leibniz, Gottfried Wilhelm: philosophy of mind](https://plato.stanford.edu/entries/leibniz-mind/) | [Leibniz, Gottfried Wilhelm: philosophy of physics](https://plato.stanford.edu/entries/leibniz-physics/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [Newton, Isaac: views on space, time, and motion](https://plato.stanford.edu/entries/newton-stm/)
 
 ### Acknowledgments
 
 The editors would like to thank Sally Ferguson for noticing inaccuracies in a claim and in a quote attributed to Leibniz.
 
-[Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
-[Brandon C. Look](http://www.uky.edu/~look) <[*look@uky.edu*](mailto:look%40uky%2eedu)>
+[Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
+[Brandon C. Look](http://www.uky.edu/\~look) <[_look@uky.edu_](mailto:look%40uky%2eedu)>

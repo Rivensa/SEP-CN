@@ -1,34 +1,31 @@
 # 罗素的逻辑原子主义 Russell’s (Kevin Klement)
 
-*首次发表于2005年10月24日；实质性修订于2019年10月14日*
+_首次发表于2005年10月24日；实质性修订于2019年10月14日_
 
 伯特兰·罗素（1872-1970）将他的哲学描述为一种“逻辑原子主义”，他的意思是既支持一种形而上学观点，又支持一种特定的哲学方法论。形而上学观点认为世界由一系列独立存在的事物组成，这些事物具有品质并存在关系。根据逻辑原子主义，所有真理最终依赖于一层原子事实，这些事实要么是展示品质的简单个体，要么是存在关系的多个简单个体。方法论观点推荐一种分析过程，通过这种过程，人们试图用更简单的概念或词汇来定义或重构更复杂的概念。这个过程通常揭示了我们认为是绝对必然的东西实际上是纯粹的逻辑。根据罗素的说法，至少在他的逻辑原子主义阶段的早期，这样的分析最终可能导致一种只包含代表简单个体、其简单属性和关系以及逻辑常量的语言，尽管词汇量有限，但可以充分捕捉到所有真理。
 
 罗素的逻辑原子主义对 20 世纪上半叶的分析哲学产生了深远影响；事实上，可以说“分析哲学”这个名称正是源自罗素对分析方法的辩护。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/logical-atomism/#Intr)
+* [1. 引言](https://plato.stanford.edu/entries/logical-atomism/#Intr)
 * [2. 罗素逻辑原子主义的起源和发展](https://plato.stanford.edu/entries/logical-atomism/#OrigDeveRussLogiAtom)
-
   * [2.1 与唯心主义的决裂和关系的本质](https://plato.stanford.edu/entries/logical-atomism/#BreaIdeaNatuRela)
   * [2.2 《数学原理》中的命题](https://plato.stanford.edu/entries/logical-atomism/#PropPrinMath)
   * [2.3 描述理论](https://plato.stanford.edu/entries/logical-atomism/#TheoDesc)
   * [2.4 类、命题和《数学原理》中的真理](https://plato.stanford.edu/entries/logical-atomism/#ClasPropTrutPrinMath)
 * [3. 罗素的哲学方法和分析概念](https://plato.stanford.edu/entries/logical-atomism/#RussPhilMethNotiAnal)
 * [4. 罗素的逻辑原子主义的本体论方面](https://plato.stanford.edu/entries/logical-atomism/#OntoAspeRussLogiAtom)
-
   * [4.1 罗素事实：原子、否定和一般](https://plato.stanford.edu/entries/logical-atomism/#RussFactAtomNegaGene)
   * [4.2 逻辑原子和简洁性](https://plato.stanford.edu/entries/logical-atomism/#LogiAtomSimp)
   * [4.3 原子主义命题，逻辑独立性和必然性](https://plato.stanford.edu/entries/logical-atomism/#AtomPropLogiIndeNece)
 * [5. 影响和接受](https://plato.stanford.edu/entries/logical-atomism/#InflRece)
-* [ 参考文献](https://plato.stanford.edu/entries/logical-atomism/#Bib)
-
-  * [ 罗素的著作](https://plato.stanford.edu/entries/logical-atomism/#WorkRuss)
-  * [ 二手文献](https://plato.stanford.edu/entries/logical-atomism/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/logical-atomism/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/logical-atomism/#Bib)
+  * [罗素的著作](https://plato.stanford.edu/entries/logical-atomism/#WorkRuss)
+  * [二手文献](https://plato.stanford.edu/entries/logical-atomism/#SecoLite)
+* [学术工具](https://plato.stanford.edu/entries/logical-atomism/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/logical-atomism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logical-atomism/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/logical-atomism/#Rel)
 
----
+***
 
 ## 1. 引言
 
@@ -38,7 +35,7 @@
 
 从形而上学上看，逻辑原子主义认为世界由多个独立而离散的实体组成，这些实体通过聚集形成事实。根据罗素的观点，事实是一种复合体，其存在依赖于构成它的更简单的实体。最简单的复合体，即原子事实，被认为要么由一个展示简单品质的单个个体组成，要么由多个个体在简单关系中站立而成。
 
-逻辑原子主义的方法论和形而上学要素在假设理论上汇聚，即使在实践上也是如此，可以实现完全分析的语言，其中所有真理原则上都可以以明晰的方式表达。罗素有时称之为“逻辑理想语言”的这种语言除了逻辑常量外，只包含表示原子事实成分的词语。在这样的语言中，最简单的完整句子是罗素所称的“原子命题”，包含一个表示质量或关系的单一谓词或动词，以及适当数量的代表个体的专有名词。原子命题的真假完全取决于相应的原子事实。这种语言的其他句子要么通过使用真值功能连接词组合原子命题而得到分子命题，要么通过用变量替换较简单命题的成分，并在前缀中加上全称量词或存在量词，从而得到一般和存在命题。根据罗素有时采用的更强形式的逻辑原子主义，他认为在这样的语言中，“[鉴于所有真实的原子命题，以及它们都是真实的这一事实，理论上可以通过逻辑方法推导出每个其他真实命题]”（PM2，xv；参见OKEW，50）。这将原子命题的真假置于罗素的真理理论的核心位置，因此将原子事实置于罗素形而上学的中心位置。
+逻辑原子主义的方法论和形而上学要素在假设理论上汇聚，即使在实践上也是如此，可以实现完全分析的语言，其中所有真理原则上都可以以明晰的方式表达。罗素有时称之为“逻辑理想语言”的这种语言除了逻辑常量外，只包含表示原子事实成分的词语。在这样的语言中，最简单的完整句子是罗素所称的“原子命题”，包含一个表示质量或关系的单一谓词或动词，以及适当数量的代表个体的专有名词。原子命题的真假完全取决于相应的原子事实。这种语言的其他句子要么通过使用真值功能连接词组合原子命题而得到分子命题，要么通过用变量替换较简单命题的成分，并在前缀中加上全称量词或存在量词，从而得到一般和存在命题。根据罗素有时采用的更强形式的逻辑原子主义，他认为在这样的语言中，“\[鉴于所有真实的原子命题，以及它们都是真实的这一事实，理论上可以通过逻辑方法推导出每个其他真实命题]”（PM2，xv；参见OKEW，50）。这将原子命题的真假置于罗素的真理理论的核心位置，因此将原子事实置于罗素形而上学的中心位置。
 
 罗素有时也暗示分析表明，我们认为是事物的本质或必要属性以及事物之间的关系是这些事物、属性和关系在逻辑上构造出来的结果。这表明简单实体之间没有这样的联系，所有的原子命题都是彼此独立的，所有形式的必然性都归结为（形式）逻辑必然性。一些评论家将这些论点解释为罗素逻辑原子主义的核心，尽管他的著作中对它们的明确承诺很少。
 
@@ -118,7 +115,7 @@
 
 罗素在 1902 年至 1910 年间致力于寻找哲学动机的解决方案来解决这些悖论。他尝试了各种解决方案。然而，在 1905 年末发现描述理论之后，他确信一个类的表达是一个“不完整的符号”，即虽然这样的表达可以作为一个有意义的句子的一部分出现，但不应被视为在相应命题中代表一个单一实体。罗素将这种方法称为“无类”类的理论（参见 TNOT，145），因为虽然它允许关于类的论述具有意义，但它并不将类作为世界上基本的本体家具之一。罗素的“无类”理论的确切性质在 1905 年至 1910 年之间发生了重大变化。然而，在《数学原理》第一版中采用的版本中，罗素认为一个表面上关于类的陈述总是可以通过使用高阶量化来重构，以涉及其定义的命题函数。罗素认为，每当一个形式为“{z|ψz}”的类术语出现在某个句子中时，整个句子可以被视为以下定义（参见 PM，188）：
 
-> *f*({*z*|ψ*z*})   =*df*   (∃φ)((*x*)(φ!*x* ≡ ψ*x*) & *f*(φ))
+> _f_({_z_|ψ_z_}) =_df_ (∃φ)((_x_)(φ!_x_ ≡ ψ_x_) & _f_(φ))
 
 以上观点可以粗略地概括为，任何关于一个类的真理似乎都可以归结为关于其成员的某种或全部的主张。例如，根据这种上下文定义的类术语，类A是另一个类B的子集的说法等同于这样一种主张：满足A的定义命题函数的任何事物也满足B的定义命题函数。罗素有时也将这描述为类是“逻辑构造”，不是“真实世界”的一部分，而只是逻辑世界的一部分。罗素另一种表达方式是说类是“逻辑虚构”。虽然类术语似乎代表一个实体，但根据罗素的观点，类术语的意义有所不同。类不是世界的基本构成部分；然而，在有意义的言论中，可以使用类术语，仿佛存在类这样的东西。因此，罗素将类描绘为一种纯粹的说法方式，或者说是一种方便的方式，用来谈论满足某个命题函数的全部或部分实体。
 
@@ -200,7 +197,7 @@
 
 最后，有人可能会主张将简单体作为经验论证的基础；也就是说，有人可能声称已经完成了分析过程，并将各种真理归纳为某种以某种方式可以知道的实体。罗素有时被解释为以这种方式推理。根据罗素在认识论中著名的“熟悉原则”，为了理解一个命题，必须熟悉构成它的每个简单符号的含义（参见，例如，KAKD，159页）。罗素有时暗示我们只能直接熟悉感觉数据及其属性和关系，也许还有我们自己（KAKD，154页以下）。人们可能认为这些实体是简单的，并且必须构成分析的终点。然而，罗素明确表示感觉数据本身可以是复杂的，并且他不知道为什么我们不能熟悉一个复杂的实体而不知道它是复杂的，也不熟悉它的组成部分（KAKD，153页；参见TK，120页）。此外，罗素在他的认识论不再以熟悉关系为中心之后，仍然继续使用“逻辑原子主义”这个标签来描述他的哲学（有关这些观点的进一步论证，请参见Elkind 2018年）。事实上，罗素最终得出结论，没有什么可以被知道是简单的（MPD，123页）。
 
-虽然有很多证据表明罗素在他的逻辑原子主义时期的早期阶段确实相信简单实体的存在，但可能是他不同寻常地在没有论证的情况下持有这种信念。罗素承认分析可能会无限进行，他声称：“我不认为这是真的，但这是一个可以争论的事情”（PLA，202）。在他 1924 年的文章《逻辑原子主义》中，罗素承认“通过更大的逻辑技巧，可以避免假设它们[即简单实体]”。这种态度可能部分解释了为什么在他关于逻辑原子主义的 1918 年讲座开始时，他声称“在这些讲座中我要说的东西主要是我个人的观点，我并不声称它们超过这个范围”（PLA，178）。罗素可能更感兴趣的是不是要明确地证明存在任何绝对简单的实体，而是要反驳其他人普遍认为简单、独立实体的概念是不连贯的，只有整个宇宙才是根本真实的观点。根据罗素的观点，这种态度通常归因于对关系的错误看法；在为“外在关系”学说辩护时，罗素只是试图使一个由简单实体构成的世界再次变得连贯。其他人曾经争论说，为了解释事物的本质属性或它们之间的必要联系，需要具有“本质”的内在复杂性；正如我们将在下面的第 4.3 节中看到的那样，罗素认为这种表面上的本质属性或必要关系通常可以解释掉。
+虽然有很多证据表明罗素在他的逻辑原子主义时期的早期阶段确实相信简单实体的存在，但可能是他不同寻常地在没有论证的情况下持有这种信念。罗素承认分析可能会无限进行，他声称：“我不认为这是真的，但这是一个可以争论的事情”（PLA，202）。在他 1924 年的文章《逻辑原子主义》中，罗素承认“通过更大的逻辑技巧，可以避免假设它们\[即简单实体]”。这种态度可能部分解释了为什么在他关于逻辑原子主义的 1918 年讲座开始时，他声称“在这些讲座中我要说的东西主要是我个人的观点，我并不声称它们超过这个范围”（PLA，178）。罗素可能更感兴趣的是不是要明确地证明存在任何绝对简单的实体，而是要反驳其他人普遍认为简单、独立实体的概念是不连贯的，只有整个宇宙才是根本真实的观点。根据罗素的观点，这种态度通常归因于对关系的错误看法；在为“外在关系”学说辩护时，罗素只是试图使一个由简单实体构成的世界再次变得连贯。其他人曾经争论说，为了解释事物的本质属性或它们之间的必要联系，需要具有“本质”的内在复杂性；正如我们将在下面的第 4.3 节中看到的那样，罗素认为这种表面上的本质属性或必要关系通常可以解释掉。
 
 随着他的职业发展，罗素越来越倾向于强调对他的哲学观点来说重要的不是绝对的简单性，而是相对的简单性。早在 1922 年，针对他对简单性概念的批评，罗素就写道：
 
@@ -262,139 +259,139 @@
 
 ### Works By Russell
 
-| *AMa* | *The Analysis of Matter*. London: Kegan Paul, 1927. |
-| --- | --- |
-| *AMi* | *The Analysis of Mind*. London: Allen & Unwin, 1921. |
-| *AMR* | “An Analysis of Mathematical Reasoning” (1898), in *CPBR2*, pp. 162–242. |
-| *BReal* | “The Basis of Realism” (1911), in *ROM* pp. 87–90 and *CPBR6* pp. 128–81. |
-| *CPBR2* | *Collected Papers of Bertrand Russell*, vol. 2, *Philosophical Papers 1896–99*, ed. N. Griffin and A. C. Lewis. London: Unwin Hyman, 1990. |
-| *CPBR3* | *Collected Papers of Bertrand Russell*, vol. 3, *Toward the “Principles of Mathematics”, 1900–02*, ed. G. H. Moore. London: Routledge, 1993. |
-| *CPBR4* | *Collected Papers of Bertrand Russell*, vol. 4, *Foundations of Logic 1903–05*, ed. A. Urquhart. London: Routledge, 1994. |
-| *CPBR6* | *Collected Papers of Bertrand Russell*, vol. 6, *Logical and Philosophical Papers, 1909–1913*, ed. J. G. Slater. London: Allen & Unwin, 1992. |
-| *CPBR8* | *Collected Papers of Bertrand Russell*, vol. 8, *The Philosophy of Logical Atomism and Other Essays: 1914–1919*, ed. J. G. Slater. London: Allen & Unwin, 1986. |
-| *CPBR9* | *Collected Papers of Bertrand Russell*, vol. 9, *Essays on Language, Mind and Matter, 1919–26*, ed. J. G. Slater. London: Unwin Hyman, 1988. |
-| *CPBR10* | *Collected Papers of Bertrand Russell*, vol. 10, *A Fresh Look at Empiricism, 1927–42*, ed. J. G. Slater. London: Routledge, 1996. |
-| *CPBR11* | *Collected Papers of Bertrand Russell*, vol. 11, *Last Philosophical Testament, 1943–68*, ed. J. G. Slater. London: Routledge, 1997. |
-| *EA* | *Essays in Analysis*, ed. D. Lackey. London: Allen & Unwin, 1973. |
-| *EFG* | *An Essay in the Foundations of Geometry*. Cambridge: Cambridge University Press, 1897. |
-| *HK* | *Human Knowledge: Its Scope and Limits*. London: Allen & Unwin, 1948. |
-| *HWP* | *A History of Western Philosophy*. New York: Simon and Schuster, 1945 |
-| *IMP* | *Introduction to Mathematical Philosophy*. London: Allen & Unwin, 1919. |
-| *IMT* | *An Inquiry into Meaning and Truth*. London: Allen & Unwin, 1940. |
-| *IPL* | “L’Importance philosophique de la logistique” (1911), translated as “The Philosophical Implications of Mathematical Logic,” in *EA* pp. 284–94 and *CPBR6* pp. 33–40. |
-| *IPOM* | Introduction to *The Principles of Mathematics*, 2nd ed. London: W. W. Norton, 1937. |
-| *ITLP* | Introduction to L. Wittgenstein, *Tractatus Logico-Philosophicus*. London: Kegan Paul, 1922. |
-| *KAKD* | “Knowledge by Acquaintance and Knowledge by Description” (1911), in *ML* pp. 152–167 and *CPBR6* pp. 147–61. |
-| *LA* | “Logical Atomism” (1924), in *LK* pp. 323–43 and *CPBR9* pp. 160–79. |
-| *LE* | “The Limits of Empiricism” (1936), in *CPBR10* pp. 313–328. |
-| *LK* | *Logic and Knowledge*, ed. R.C. Marsh. London: Allen & Unwin, 1956. |
-| *ML* | *Mysticism and Logic and Other Essays*.  London: Longmans, 1918. |
-| *MPD* | *My Philosophical Development*. London: Allen & Unwin, 1959. |
-| *MTCA* | “Meinong’s Theory of Complexes and Assumptions” (1904), in *EA* pp. 21–76 and *CPBR4* pp. 432–74. |
-| *MTT* | “The Monistic Theory of Truth” (1907), in *PE* pp. 131–46 |
-| *NA* | “On the Nature of Acquaintance” (1914), in *LK* pp. 125–74. |
-| *NC* | “On the Notion of Cause” (1913), in *ML* pp. 132–151 and *ROM* pp. 163–182 and *CPBR6* pp. 193–210. |
-| *NP* | “Necessity and Possibility” (1905), in *CPBR3* pp. 508–20. |
-| *NTF* | “On the Nature of Truth and Falsehood” (1910), in *PE* pp. 147–59 and *CPBR6* pp.116–24 . |
-| *OD* | “On Denoting” (1905), in *LK* pp. 41–56, *EA* pp. 103–119 and *CPBR4* pp. 415–27. |
-| *OKEW* | *Our Knowledge of the External World*. London: Allen & Unwin, 1914. |
-| *OOP* | *An Outline of Philosophy*. London: Allen & Unwin, 1927. |
-| *OP* | “On Propositions: What They Are, and How They Mean” (1919), in *LK* pp. 285–320 and *CPBR8* pp. 276–306. |
-| *PE* | *Philosophical Essays*. London: Longmans, 1910. |
-| *PLA* | “The Philosophy of Logical Atomism” (1918), in *LK* pp. 177–281 and *CPBR8* pp. 157–244. |
-| *PM* | *Principia Mathematica* (with A. N. Whitehead). 3 vols. Cambridge: Cambridge University Press, 1925–27 (First edition 1910–13). |
-| *PM2* | Introduction to the Second Edition of *Principia Mathematica*. Cambridge: Cambridge University Press, 1925. |
-| *POL* | *A Critical Exposition of the Philosophy of Leibniz*. Cambridge: Cambridge University Press, 1900. |
-| *POM* | *The Principles of Mathematics*. London: W.W. Norton, 1937. (First edition 1903.) |
-| *POP* | *The Problems of Philosophy*. London: Williams and Norgate, 1912. |
-| *RA* | “Le Réalisme analytique” (1911), translated as “Analytic Realism,” in *ROM* pp. 91–96 and *CPBR6* pp. 133–46 |
-| *RMDP* | “The Regressive Method for Discovering the Premises of Mathematics” (1907), in *EA* pp. 272–83. |
-| *RMSL* | “On the Relation of Mathematics to Symbolic Logic” (1905), in *EA* pp. 260–71 and *CPBR3* pp. 524–32. |
-| *ROM* | *Russell on Metaphysics*, ed. S. Mumford. London: Routledge, 2003. |
-| *RSDP* | “The Relation of Sense Data to Physics” (1914), in *ML* pp. 108–131 and *CPBR8* pp. 3–26. |
-| *RTC* | “Reply to Criticisms” (1944), in P. A. Schlipp, ed. *The Philosophy of Bertrand Russell*. 3rd ed. 2 vols. New York: Harper in Row, 1963. |
-| *RUP* | “On the Relations of Universals and Particulars” (1911), in *LK* pp. 103–24, *ROM* pp. 123–43 and *CPBR6* pp. 167–82. |
-| *SA* | “Dr. Schiller’s Analysis of *The Analysis of Mind*” (1922), in *CPBR9* pp. 37–44. |
-| *SMP* | “On Scientific Method in Philosophy” (1914), in *ML* pp. 75–93. |
-| *TK* | *Theory of Knowledge: The 1913 Manuscript*, ed. E. R. Eames and K. Blackwell. London: Allen & Unwin, 1984. |
-| *TNOT* | “The Theory of Transfinite Numbers and Order Types” (1905), in *EA* pp. 135–64. |
-| *UCM* | “The Ultimate Constituents of Matter” (1915), in *ML* pp. 94–107 and *CPBR8* pp. 75–86. |
-| *Vag* | “Vagueness” (1923), in *ROM* pp. 211–20 and *CPBR9* pp. 147–54. |
+| _AMa_    | _The Analysis of Matter_. London: Kegan Paul, 1927.                                                                                                                   |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _AMi_    | _The Analysis of Mind_. London: Allen & Unwin, 1921.                                                                                                                  |
+| _AMR_    | “An Analysis of Mathematical Reasoning” (1898), in _CPBR2_, pp. 162–242.                                                                                              |
+| _BReal_  | “The Basis of Realism” (1911), in _ROM_ pp. 87–90 and _CPBR6_ pp. 128–81.                                                                                             |
+| _CPBR2_  | _Collected Papers of Bertrand Russell_, vol. 2, _Philosophical Papers 1896–99_, ed. N. Griffin and A. C. Lewis. London: Unwin Hyman, 1990.                            |
+| _CPBR3_  | _Collected Papers of Bertrand Russell_, vol. 3, _Toward the “Principles of Mathematics”, 1900–02_, ed. G. H. Moore. London: Routledge, 1993.                          |
+| _CPBR4_  | _Collected Papers of Bertrand Russell_, vol. 4, _Foundations of Logic 1903–05_, ed. A. Urquhart. London: Routledge, 1994.                                             |
+| _CPBR6_  | _Collected Papers of Bertrand Russell_, vol. 6, _Logical and Philosophical Papers, 1909–1913_, ed. J. G. Slater. London: Allen & Unwin, 1992.                         |
+| _CPBR8_  | _Collected Papers of Bertrand Russell_, vol. 8, _The Philosophy of Logical Atomism and Other Essays: 1914–1919_, ed. J. G. Slater. London: Allen & Unwin, 1986.       |
+| _CPBR9_  | _Collected Papers of Bertrand Russell_, vol. 9, _Essays on Language, Mind and Matter, 1919–26_, ed. J. G. Slater. London: Unwin Hyman, 1988.                          |
+| _CPBR10_ | _Collected Papers of Bertrand Russell_, vol. 10, _A Fresh Look at Empiricism, 1927–42_, ed. J. G. Slater. London: Routledge, 1996.                                    |
+| _CPBR11_ | _Collected Papers of Bertrand Russell_, vol. 11, _Last Philosophical Testament, 1943–68_, ed. J. G. Slater. London: Routledge, 1997.                                  |
+| _EA_     | _Essays in Analysis_, ed. D. Lackey. London: Allen & Unwin, 1973.                                                                                                     |
+| _EFG_    | _An Essay in the Foundations of Geometry_. Cambridge: Cambridge University Press, 1897.                                                                               |
+| _HK_     | _Human Knowledge: Its Scope and Limits_. London: Allen & Unwin, 1948.                                                                                                 |
+| _HWP_    | _A History of Western Philosophy_. New York: Simon and Schuster, 1945                                                                                                 |
+| _IMP_    | _Introduction to Mathematical Philosophy_. London: Allen & Unwin, 1919.                                                                                               |
+| _IMT_    | _An Inquiry into Meaning and Truth_. London: Allen & Unwin, 1940.                                                                                                     |
+| _IPL_    | “L’Importance philosophique de la logistique” (1911), translated as “The Philosophical Implications of Mathematical Logic,” in _EA_ pp. 284–94 and _CPBR6_ pp. 33–40. |
+| _IPOM_   | Introduction to _The Principles of Mathematics_, 2nd ed. London: W. W. Norton, 1937.                                                                                  |
+| _ITLP_   | Introduction to L. Wittgenstein, _Tractatus Logico-Philosophicus_. London: Kegan Paul, 1922.                                                                          |
+| _KAKD_   | “Knowledge by Acquaintance and Knowledge by Description” (1911), in _ML_ pp. 152–167 and _CPBR6_ pp. 147–61.                                                          |
+| _LA_     | “Logical Atomism” (1924), in _LK_ pp. 323–43 and _CPBR9_ pp. 160–79.                                                                                                  |
+| _LE_     | “The Limits of Empiricism” (1936), in _CPBR10_ pp. 313–328.                                                                                                           |
+| _LK_     | _Logic and Knowledge_, ed. R.C. Marsh. London: Allen & Unwin, 1956.                                                                                                   |
+| _ML_     | _Mysticism and Logic and Other Essays_.  London: Longmans, 1918.                                                                                                      |
+| _MPD_    | _My Philosophical Development_. London: Allen & Unwin, 1959.                                                                                                          |
+| _MTCA_   | “Meinong’s Theory of Complexes and Assumptions” (1904), in _EA_ pp. 21–76 and _CPBR4_ pp. 432–74.                                                                     |
+| _MTT_    | “The Monistic Theory of Truth” (1907), in _PE_ pp. 131–46                                                                                                             |
+| _NA_     | “On the Nature of Acquaintance” (1914), in _LK_ pp. 125–74.                                                                                                           |
+| _NC_     | “On the Notion of Cause” (1913), in _ML_ pp. 132–151 and _ROM_ pp. 163–182 and _CPBR6_ pp. 193–210.                                                                   |
+| _NP_     | “Necessity and Possibility” (1905), in _CPBR3_ pp. 508–20.                                                                                                            |
+| _NTF_    | “On the Nature of Truth and Falsehood” (1910), in _PE_ pp. 147–59 and _CPBR6_ pp.116–24 .                                                                             |
+| _OD_     | “On Denoting” (1905), in _LK_ pp. 41–56, _EA_ pp. 103–119 and _CPBR4_ pp. 415–27.                                                                                     |
+| _OKEW_   | _Our Knowledge of the External World_. London: Allen & Unwin, 1914.                                                                                                   |
+| _OOP_    | _An Outline of Philosophy_. London: Allen & Unwin, 1927.                                                                                                              |
+| _OP_     | “On Propositions: What They Are, and How They Mean” (1919), in _LK_ pp. 285–320 and _CPBR8_ pp. 276–306.                                                              |
+| _PE_     | _Philosophical Essays_. London: Longmans, 1910.                                                                                                                       |
+| _PLA_    | “The Philosophy of Logical Atomism” (1918), in _LK_ pp. 177–281 and _CPBR8_ pp. 157–244.                                                                              |
+| _PM_     | _Principia Mathematica_ (with A. N. Whitehead). 3 vols. Cambridge: Cambridge University Press, 1925–27 (First edition 1910–13).                                       |
+| _PM2_    | Introduction to the Second Edition of _Principia Mathematica_. Cambridge: Cambridge University Press, 1925.                                                           |
+| _POL_    | _A Critical Exposition of the Philosophy of Leibniz_. Cambridge: Cambridge University Press, 1900.                                                                    |
+| _POM_    | _The Principles of Mathematics_. London: W.W. Norton, 1937. (First edition 1903.)                                                                                     |
+| _POP_    | _The Problems of Philosophy_. London: Williams and Norgate, 1912.                                                                                                     |
+| _RA_     | “Le Réalisme analytique” (1911), translated as “Analytic Realism,” in _ROM_ pp. 91–96 and _CPBR6_ pp. 133–46                                                          |
+| _RMDP_   | “The Regressive Method for Discovering the Premises of Mathematics” (1907), in _EA_ pp. 272–83.                                                                       |
+| _RMSL_   | “On the Relation of Mathematics to Symbolic Logic” (1905), in _EA_ pp. 260–71 and _CPBR3_ pp. 524–32.                                                                 |
+| _ROM_    | _Russell on Metaphysics_, ed. S. Mumford. London: Routledge, 2003.                                                                                                    |
+| _RSDP_   | “The Relation of Sense Data to Physics” (1914), in _ML_ pp. 108–131 and _CPBR8_ pp. 3–26.                                                                             |
+| _RTC_    | “Reply to Criticisms” (1944), in P. A. Schlipp, ed. _The Philosophy of Bertrand Russell_. 3rd ed. 2 vols. New York: Harper in Row, 1963.                              |
+| _RUP_    | “On the Relations of Universals and Particulars” (1911), in _LK_ pp. 103–24, _ROM_ pp. 123–43 and _CPBR6_ pp. 167–82.                                                 |
+| _SA_     | “Dr. Schiller’s Analysis of _The Analysis of Mind_” (1922), in _CPBR9_ pp. 37–44.                                                                                     |
+| _SMP_    | “On Scientific Method in Philosophy” (1914), in _ML_ pp. 75–93.                                                                                                       |
+| _TK_     | _Theory of Knowledge: The 1913 Manuscript_, ed. E. R. Eames and K. Blackwell. London: Allen & Unwin, 1984.                                                            |
+| _TNOT_   | “The Theory of Transfinite Numbers and Order Types” (1905), in _EA_ pp. 135–64.                                                                                       |
+| _UCM_    | “The Ultimate Constituents of Matter” (1915), in _ML_ pp. 94–107 and _CPBR8_ pp. 75–86.                                                                               |
+| _Vag_    | “Vagueness” (1923), in _ROM_ pp. 211–20 and _CPBR9_ pp. 147–54.                                                                                                       |
 
 ### Secondary Literature
 
-* Austin, J.L., 1962. *Sense and Sensibilia*, ed. G. J. Warnock. Oxford: Clarendon Press.
-* Ayer, A.J., 1952. *Language, Truth and Logic*, 2nd ed., New York: Dover. (First edition 1936.)
-* Baldwin, Thomas, 2003a. “Logic and Philosophical Analysis,” in Baldwin 2003b,  pp. 417–23.
-* Baldwin, Thomas (ed.), 2003b. *The Cambridge History of Philosophy 1870–1945*, Cambridge: Cambridge University Press.
-* Bell, John and William Demopoulos, 1996. “Elementary Propositions and Independence,” *Notre Dame Journal of Formal Logic*, 37: 112–24.
-* Bostock, David, 2012. *Russell’s Logical Atomism*, Oxford: Oxford University Press.
-* Bradley, F.H., 1883. *The Principles of Logic*, 2 vols. Oxford: Oxford University Press.
-* –––, 1893. *Appearance and Reality*, Oxford: Oxford University Press.
+* Austin, J.L., 1962. _Sense and Sensibilia_, ed. G. J. Warnock. Oxford: Clarendon Press.
+* Ayer, A.J., 1952. _Language, Truth and Logic_, 2nd ed., New York: Dover. (First edition 1936.)
+* Baldwin, Thomas, 2003a. “Logic and Philosophical Analysis,” in Baldwin 2003b,  pp. 417–23.
+* Baldwin, Thomas (ed.), 2003b. _The Cambridge History of Philosophy 1870–1945_, Cambridge: Cambridge University Press.
+* Bell, John and William Demopoulos, 1996. “Elementary Propositions and Independence,” _Notre Dame Journal of Formal Logic_, 37: 112–24.
+* Bostock, David, 2012. _Russell’s Logical Atomism_, Oxford: Oxford University Press.
+* Bradley, F.H., 1883. _The Principles of Logic_, 2 vols. Oxford: Oxford University Press.
+* –––, 1893. _Appearance and Reality_, Oxford: Oxford University Press.
 * Carnap, Rudolf, 1934. “On the Character of Philosophic Problems” in Rorty (1967), pp. 54–71.
 * Cartwright, Richard, 2003. “Russell and Moore 1898–1905,” in Griffin 2003b, pp. 108–27.
-* Cocchiarella, Nino, 1987. *Logical Studies in Early Analytic Philosophy*, Columbus: Ohio State University Press.
-* –––, 2007. *Formal Ontology and Conceptual Realism*, Dordrecht: Springer.
+* Cocchiarella, Nino, 1987. _Logical Studies in Early Analytic Philosophy_, Columbus: Ohio State University Press.
+* –––, 2007. _Formal Ontology and Conceptual Realism_, Dordrecht: Springer.
 * Elkind, Landon, 2018. “On Russell’s Logical Atomism” in Elkind and Landini 2018, pp. 3–37.
-* –––, forthcoming. “Logical Atomism and Necessity” in Klement, Kevin, ed., *The Oxford Handbook of Bertrand Russell*, Oxford: Oxford University Press.
-* Elkind, Landon and Gregory Landini, eds., 2018. *The Philosophy of Logical Atomism: A Centenary Reappraisal*, Basingstoke: Palgrave Macmillan.
-* Griffin, Nicholas, 1991. *Russell’s Idealist Apprenticeship*, Oxford: Clarendon.
+* –––, forthcoming. “Logical Atomism and Necessity” in Klement, Kevin, ed., _The Oxford Handbook of Bertrand Russell_, Oxford: Oxford University Press.
+* Elkind, Landon and Gregory Landini, eds., 2018. _The Philosophy of Logical Atomism: A Centenary Reappraisal_, Basingstoke: Palgrave Macmillan.
+* Griffin, Nicholas, 1991. _Russell’s Idealist Apprenticeship_, Oxford: Clarendon.
 * –––, 2003a. “Russell’s Philosophical Background,” in Griffin 2003b, pp. 84–107.
-* Griffin, Nicholas (ed.), 2003b. *The Cambridge Companion to Bertrand Russell*, Cambridge: Cambridge University Press.
-* Hager, Paul, 1994. *Continuity and Change in the Development of Russell’s Philosophy*, Dordrecht: Kluwer.
+* Griffin, Nicholas (ed.), 2003b. _The Cambridge Companion to Bertrand Russell_, Cambridge: Cambridge University Press.
+* Hager, Paul, 1994. _Continuity and Change in the Development of Russell’s Philosophy_, Dordrecht: Kluwer.
 * –––, 2003. “Russell’s Method of Analysis,” in Griffin 2003b, pp. 310–31.
-* Hochberg, Herbert, 1978. *Thought, Fact and Reference: The Origins and Ontology of Logical Atomism*, Minneapolis: University of Minnesota Press, 1978.
-* Hylton, Peter, 1990. *Russell, Idealism and the Emergence of Analytic Philosophy*, Oxford: Clarendon.
-* –––, 2008. *Propositions, Functions, and Analysis: Selected Essays on Russell’s Philosophy*, Oxford: Oxford University Press.
-* Klement, Kevin, 2004. “Putting Form Before Function: Logical Grammar in Frege, Russell and Wittgenstein,” *Philosopher’s Imprint*, 4: 1–47.
-* –––, 2009. “Russell, His Paradoxes and Cantor’s Theorem” (2 parts). *Philosophy Compass*, 5 (January), doi:10.1111/j.1747-9991.2009.00270.x and doi:10.1111/j.1747-9991.2009.00271.x
-* Landini, Gregory, 1998. *Russell’s Hidden Substitutional Theory*, Oxford: Oxford University Press.
-* –––, 2007. *Wittgenstein’s Apprenticeship with Russell*, Cambridge: Cambridge University Press.
-* –––, 2010. *Russell*, New York: Routledge.
+* Hochberg, Herbert, 1978. _Thought, Fact and Reference: The Origins and Ontology of Logical Atomism_, Minneapolis: University of Minnesota Press, 1978.
+* Hylton, Peter, 1990. _Russell, Idealism and the Emergence of Analytic Philosophy_, Oxford: Clarendon.
+* –––, 2008. _Propositions, Functions, and Analysis: Selected Essays on Russell’s Philosophy_, Oxford: Oxford University Press.
+* Klement, Kevin, 2004. “Putting Form Before Function: Logical Grammar in Frege, Russell and Wittgenstein,” _Philosopher’s Imprint_, 4: 1–47.
+* –––, 2009. “Russell, His Paradoxes and Cantor’s Theorem” (2 parts). _Philosophy Compass_, 5 (January), doi:10.1111/j.1747-9991.2009.00270.x and doi:10.1111/j.1747-9991.2009.00271.x
+* Landini, Gregory, 1998. _Russell’s Hidden Substitutional Theory_, Oxford: Oxford University Press.
+* –––, 2007. _Wittgenstein’s Apprenticeship with Russell_, Cambridge: Cambridge University Press.
+* –––, 2010. _Russell_, New York: Routledge.
 * –––, 2018. “Logical Atomism’s Necessity”, in Elkind and Landini 2018, pp. 39–67.
 * Linsky, Bernard, 2003. “The Metaphysics of Logical Atomism,” in Griffin 2003b, pp. 371–92.
-* Livingston, Paul, 2001. “Russellian and Wittgensteinian Atomism,” *Philosophical Investigations*, 24: 30–54.
-* Lycan, William, 1981.  “Logical Atomism and Ontological Atoms,” *Synthese*, 46: 207–29.
+* Livingston, Paul, 2001. “Russellian and Wittgensteinian Atomism,” _Philosophical Investigations_, 24: 30–54.
+* Lycan, William, 1981.  “Logical Atomism and Ontological Atoms,” _Synthese_, 46: 207–29.
 * Maclean, Gülberk Koç, 2018. “Logical Atomism in Russell’s Later Works” in Elkind and Landini 2018, pp. 69–90.
-* Monk, Ray and Anthony Palmer (eds.), 1996. *Bertrand Russell and the Origins of Analytical Philosophy*, Bristol: Thoemmes.
-* Moore, G.E., 1899. “The Nature of Judgment,” *Mind* 8, pp. 176–93, reprinted in Moore 1993, pp. 1–19.
+* Monk, Ray and Anthony Palmer (eds.), 1996. _Bertrand Russell and the Origins of Analytical Philosophy_, Bristol: Thoemmes.
+* Moore, G.E., 1899. “The Nature of Judgment,” _Mind_ 8, pp. 176–93, reprinted in Moore 1993, pp. 1–19.
 * –––, 1901. “Truth and Falsity,” reprinted in Moore 1993, pp. 20–22.
-* –––, 1993. *Selected Writings*, ed. T. Baldwin. London: Routledge.
-* Pears, David, 1967. *Bertrand Russell and the British Tradition in Philosophy*, London: Collins.
-* –––, 1985. Introduction to B. Russell, *The Philosophy of Logical Atomism*, Chicago: Open Court.
-* Quine, W.V., 1951. “Two Dogmas of Empiricism,” *Philosophical Review*, 60: 20–43.
+* –––, 1993. _Selected Writings_, ed. T. Baldwin. London: Routledge.
+* Pears, David, 1967. _Bertrand Russell and the British Tradition in Philosophy_, London: Collins.
+* –––, 1985. Introduction to B. Russell, _The Philosophy of Logical Atomism_, Chicago: Open Court.
+* Quine, W.V., 1951. “Two Dogmas of Empiricism,” _Philosophical Review_, 60: 20–43.
 * Rodríguez-Consuegra, Francisco, 1996. “Russell’s Perilous Journey from Atomism to Holism 1919–1951,” in Monk and Palmer 1996, pp. 217–44.
-* Rorty, Richard (ed.), 1967. *The Linguistic Turn*, Chicago: University of Chicago Press.
-* Sainsbury, R.M., 1979. *Russell*, London: Routledge.
-* –––, 1980. “Russell on Constructions and Fictions,” *Theoria* 46, pp. 19–36.
+* Rorty, Richard (ed.), 1967. _The Linguistic Turn_, Chicago: University of Chicago Press.
+* Sainsbury, R.M., 1979. _Russell_, London: Routledge.
+* –––, 1980. “Russell on Constructions and Fictions,” _Theoria_ 46, pp. 19–36.
 * Simons, Peter, 2003. “Logical Atomism,” in Baldwin 2003b, pp. 383–90.
-* Skyrms, Brian, 1993. “Logical Atoms and Combinatorial Possibility,” *Journal of Philosophy*, 90: 219–32.
-* Stevens, Graham, 2005. *The Russellian Origins of Analytical Philosophy: Bertrand Russell and the Unity of the Proposition*, London: Routledge.
-* Urmson, J.O., 1956. *Philosophical Analysis: Its Development Between the Two World Wars*, Oxford: Clarendon Press.
-* Warnock, G.J., 1951. “Metaphysics in Logic,” *Proceedings of the Aristotelian Society*, 51: 197–222.
-* Wittgenstein, Ludwig, 1922. *Tractatus Logico-Philosophicus*, London: Kegan Paul.
-* –––, 1958. *Philosophical Investigations*, Oxford: Basil Blackwell.
+* Skyrms, Brian, 1993. “Logical Atoms and Combinatorial Possibility,” _Journal of Philosophy_, 90: 219–32.
+* Stevens, Graham, 2005. _The Russellian Origins of Analytical Philosophy: Bertrand Russell and the Unity of the Proposition_, London: Routledge.
+* Urmson, J.O., 1956. _Philosophical Analysis: Its Development Between the Two World Wars_, Oxford: Clarendon Press.
+* Warnock, G.J., 1951. “Metaphysics in Logic,” _Proceedings of the Aristotelian Society_, 51: 197–222.
+* Wittgenstein, Ludwig, 1922. _Tractatus Logico-Philosophicus_, London: Kegan Paul.
+* –––, 1958. _Philosophical Investigations_, Oxford: Basil Blackwell.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logical-atomism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/logical-atomism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=logical-atomism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/logical-atomism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logical-atomism).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/logical-atomism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=logical-atomism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/logical-atomism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Bertrand Russell Research Centre](http://www.humanities.mcmaster.ca/~russell/)
+* [Bertrand Russell Research Centre](http://www.humanities.mcmaster.ca/\~russell/)
 * [Bertrand Russell Archives](http://www.mcmaster.ca/russdocs/russell.htm)
 * [Bertrand Russell Society](https://bertrandrussellsociety.org/)
-* [Russell: The Journal of Bertrand Russell Studies](http://www.humanities.mcmaster.ca/~russell/journal.htm)
-* [Writings by Bertrand Russell](http://www.users.drew.edu/~jlenz/brtexts.html)
+* [Russell: The Journal of Bertrand Russell Studies](http://www.humanities.mcmaster.ca/\~russell/journal.htm)
+* [Writings by Bertrand Russell](http://www.users.drew.edu/\~jlenz/brtexts.html)
 * [Encyclopaedia Brittanica Online: Analytic Philosophy](http://www.britannica.com/topic/analytic-philosophy)
 
 ## Related Entries
 
-[analysis](https://plato.stanford.edu/entries/analysis/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [facts](https://plato.stanford.edu/entries/facts/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [Ockham [Occam], William](https://plato.stanford.edu/entries/ockham/) | [*Principia Mathematica*](https://plato.stanford.edu/entries/principia-mathematica/) | [propositional function](https://plato.stanford.edu/entries/propositional-function/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [sense data](https://plato.stanford.edu/entries/sense-data/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/) | [Wittgenstein, Ludwig: logical atomism](https://plato.stanford.edu/entries/wittgenstein-atomism/)
+[analysis](https://plato.stanford.edu/entries/analysis/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [facts](https://plato.stanford.edu/entries/facts/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [Ockham \[Occam\], William](https://plato.stanford.edu/entries/ockham/) | [_Principia Mathematica_](https://plato.stanford.edu/entries/principia-mathematica/) | [propositional function](https://plato.stanford.edu/entries/propositional-function/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [sense data](https://plato.stanford.edu/entries/sense-data/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/) | [Wittgenstein, Ludwig: logical atomism](https://plato.stanford.edu/entries/wittgenstein-atomism/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Kevin Klement](http://people.umass.edu/klement/) <[*klement@philos.umass.edu*](mailto:klement%40philos%2eumass%2eedu)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Kevin Klement](http://people.umass.edu/klement/) <[_klement@philos.umass.edu_](mailto:klement%40philos%2eumass%2eedu)>

@@ -1,11 +1,10 @@
 # 拉曼·鲁尔 Llull, Ramon (Ernesto Priani)
 
-*首次发表于2017年2月10日星期五；实质性修订于2021年2月11日星期四。*
+_首次发表于2017年2月10日星期五；实质性修订于2021年2月11日星期四。_
 
 拉曼·鲁尔（1232-1316）是中世纪哲学领域中一位令人惊叹的人物。他目前被认为是《大艺术》的作者，这是一个结合逻辑系统以发现真理的工具，被构想为用于跨宗教对话以转化异教徒的工具。在《大艺术》中，拉曼·鲁尔的神学、形而上学和逻辑观念得到了充分的阐述，并且这些观念在他的 200 多部加泰罗尼亚语、阿拉伯语和拉丁语著作中得到了发展。他以使用自己的方言语言加泰罗尼亚语来传达自己的思想而闻名。
 
 * [1. 生平及其哲学和宗教项目](https://plato.stanford.edu/entries/llull/#LifeHisPhilReliProj)
-
   * [1.1 转化和形成](https://plato.stanford.edu/entries/llull/#ConvForm)
   * [1.2 蒙彼利埃和首次巴黎之行](https://plato.stanford.edu/entries/llull/#MontFirsTripPari)
   * [1.3 在通往异教徒土地的途中](https://plato.stanford.edu/entries/llull/#WayInfiLand)
@@ -13,50 +12,42 @@
   * [1.5 哲学和政治的成功](https://plato.stanford.edu/entries/llull/#PhilPoliSucc)
   * [1.6 最后的旅行](https://plato.stanford.edu/entries/llull/#LastTrip)
 * [2. 一个理解现实的普遍模型](https://plato.stanford.edu/entries/llull/#UnivModeUndeReal)
-* [ 3. 形而上学](https://plato.stanford.edu/entries/llull/#Meta)
-
-  * [ 3.1 原理](https://plato.stanford.edu/entries/llull/#Prin)
+* [3. 形而上学](https://plato.stanford.edu/entries/llull/#Meta)
+  * [3.1 原理](https://plato.stanford.edu/entries/llull/#Prin)
   * [3.2 秩序，参与，影响](https://plato.stanford.edu/entries/llull/#OrdePartInfl)
   * [3.3 相关理论](https://plato.stanford.edu/entries/llull/#TheoCorr)
 * [4. 知识理论](https://plato.stanford.edu/entries/llull/#TheoKnow)
-
   * [4.1 第六感知](https://plato.stanford.edu/entries/llull/#SixtSens)
-  * [ 4.2 类比知识](https://plato.stanford.edu/entries/llull/#AnalKnow)
+  * [4.2 类比知识](https://plato.stanford.edu/entries/llull/#AnalKnow)
   * [4.3 超越点的教义](https://plato.stanford.edu/entries/llull/#DoctTranPoin)
-* [ 5. 随附性](https://plato.stanford.edu/entries/llull/#Ars)
-
+* [5. 随附性](https://plato.stanford.edu/entries/llull/#Ars)
   * [5.1 Ars 的结构](https://plato.stanford.edu/entries/llull/#StruArs)
   * [5.2 四元相位的图形及其功能](https://plato.stanford.edu/entries/llull/#FiguQuatPhasTheiFunc)
-
-    * [ 5.2.1 图形 T](https://plato.stanford.edu/entries/llull/#FiguT)
-    * [ 5.2.2 图 V](https://plato.stanford.edu/entries/llull/#FiguV)
+    * [5.2.1 图形 T](https://plato.stanford.edu/entries/llull/#FiguT)
+    * [5.2.2 图 V](https://plato.stanford.edu/entries/llull/#FiguV)
     * [5.2.3 图 X、Y 和 Z](https://plato.stanford.edu/entries/llull/#FiguXZ)
   * [5.3 阿尔斯的应用](https://plato.stanford.edu/entries/llull/#ApplArs)
   * [5.4 四元艺术的两种变体](https://plato.stanford.edu/entries/llull/#TwoVariQuatArs)
-  * [ 5.5 三元艺术](https://plato.stanford.edu/entries/llull/#TernArs)
+  * [5.5 三元艺术](https://plato.stanford.edu/entries/llull/#TernArs)
   * [5.6 三元艺术的字母和图形](https://plato.stanford.edu/entries/llull/#AlphFiguTernArs)
-
-    * [ 5.6.1 第一图](https://plato.stanford.edu/entries/llull/#FirsFigu)
+    * [5.6.1 第一图](https://plato.stanford.edu/entries/llull/#FirsFigu)
     * [5.6.2 第二图](https://plato.stanford.edu/entries/llull/#SecoFigu)
     * [5.6.3 第三和第四图](https://plato.stanford.edu/entries/llull/#ThirFourFigu)
   * [5.7 实践阿尔斯](https://plato.stanford.edu/entries/llull/#PracArs)
-
     * [5.7.1 定义和规则](https://plato.stanford.edu/entries/llull/#DefiRule)
     * [5.7.2 第四图的乘法](https://plato.stanford.edu/entries/llull/#MultFourFigu)
     * [5.7.3 原则、规则、主题、美德和恶习的结合](https://plato.stanford.edu/entries/llull/#CombPrinRuleSubjVirtVice)
     * [5.7.4 问题和对阿尔斯的使用](https://plato.stanford.edu/entries/llull/#QuesUseArs)
-* [ 参考文献](https://plato.stanford.edu/entries/llull/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/llull/#PrimLite)
-
+* [参考文献](https://plato.stanford.edu/entries/llull/#Bib)
+  * [主要文献](https://plato.stanford.edu/entries/llull/#PrimLite)
     * [用拉丁语、加泰罗尼亚语、西班牙语](https://plato.stanford.edu/entries/llull/#LatiCataSpan)
     * [翻译（英语、西班牙语、法语）](https://plato.stanford.edu/entries/llull/#TranEnglSpanFren)
-  * [ 二次文献](https://plato.stanford.edu/entries/llull/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/llull/#Aca)
+  * [二次文献](https://plato.stanford.edu/entries/llull/#SecoLite)
+* [学术工具](https://plato.stanford.edu/entries/llull/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/llull/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/llull/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/llull/#Rel)
 
----
+***
 
 ## 1. 生活及其哲学和宗教项目
 
@@ -324,7 +315,7 @@ Ars 的第二图称为图 S，其中理性灵魂被描绘为由记忆、理解�
 
 ### 5.3 拉曼·鲁尔的应用
 
-一旦定义了其中的数字和术语，拉曼·鲁尔就开始展示它们是如何组合的。《艺术》的几个版本中的一个重要部分是展示数字之间的关系如何有助于构建特定的论证或解决特定的问题。拉曼·鲁尔使用“enter（进入）”一词来表达一个数字与另一个数字的关系，有时为此目的使用另一个数字，通常是数字 T。因此，在《简明艺术》中，例如，他使用数字 ASTV 来解释哪些是与恶习相反的品种。因此，他解释说，如果 X（人的灵魂）以品种 EIN 进入 V（恶习和罪恶的数字），那是因为它以品种 E 理解（b），记得（c），并爱（d）节制，而通过 I，它理解（g），记得（f），并憎恨（h）暴食。当 b c d 在节制中时，I 形成了耐心，因为它被转化了。当灵魂以 N（不理解，不记得，爱和憎恨）进入 A（上帝）时，完美和正义（隔间[完美，正义]）通过红色三角形（相等）加强了 E I 的一致性。
+一旦定义了其中的数字和术语，拉曼·鲁尔就开始展示它们是如何组合的。《艺术》的几个版本中的一个重要部分是展示数字之间的关系如何有助于构建特定的论证或解决特定的问题。拉曼·鲁尔使用“enter（进入）”一词来表达一个数字与另一个数字的关系，有时为此目的使用另一个数字，通常是数字 T。因此，在《简明艺术》中，例如，他使用数字 ASTV 来解释哪些是与恶习相反的品种。因此，他解释说，如果 X（人的灵魂）以品种 EIN 进入 V（恶习和罪恶的数字），那是因为它以品种 E 理解（b），记得（c），并爱（d）节制，而通过 I，它理解（g），记得（f），并憎恨（h）暴食。当 b c d 在节制中时，I 形成了耐心，因为它被转化了。当灵魂以 N（不理解，不记得，爱和憎恨）进入 A（上帝）时，完美和正义（隔间\[完美，正义]）通过红色三角形（相等）加强了 E I 的一致性。
 
 这个例子使我们能够跟随拉曼·鲁尔构建这个论证的过程，基于不同数字的组合。因此，这是一个可能的组合的例子，也是拉曼·鲁尔的一个有效的哲学命题。如果我们按照这个例子，拉曼·鲁尔使用数字的组合来构建论证，通过这个论证解释了灵魂如何将恶习的否定转化为美德，当它在上帝中承担完美和正义时。
 
@@ -342,7 +333,7 @@ Figura Elementalis. Ars demostrativa. Beati Raymundi Lulli Opera, ed. Ivo Salzin
 
 ![line drawing, 7 concentric circles The innermost circumscribes an equaliteral triangle The second is divided on the rim into four sectors labelled Ignis, Terra, Aqua, and Aer The third is also divided into 4 with the same labels as the second The fourth is divided into 7 sectors labelled A, Z, Y, X, V, T, S The fifth is also divided into 7 with the same labels as the fourth The sixth is divided into 16 sectors labelled F, E, D, C, B, R, Q, P, O, N, M, L, K, I, H, G The seventh is also divided into 16 with the same labels as the sixth](https://plato.stanford.edu/entries/llull/image009.png)
 
- 示意图
+示意图
 
 示范图的重要性在于它是向拉曼·鲁尔的普遍化迈进的一步，因为它启动了对原则更大程度抽象的过程。尽管原始图中使用的术语被保留，但它们以及图形本身都被替换为字母。同时，它是一个旋转的图形，这显然显示了拉曼·鲁尔的组合特性。最后，它将拉曼·鲁尔超越其自身的原则，用于其他领域，如神学、哲学和法律。
 
@@ -356,7 +347,7 @@ Figura Elementalis. Ars demostrativa. Beati Raymundi Lulli Opera, ed. Ivo Salzin
 
 字母表是 Ars 三元公式中的一个核心要素。它由九个字母组成，即 B、C、D、E、F、G、H、I、K，利用这些字母，可以组织成命题和论证，提出和解决问题。每个字母都有与之相关联的六个术语：
 
-| 信 | 代表 | | --- | --- | --- | --- | --- | --- | --- | | B. | 善 | 差异 | 是否？ | 上帝 | 正义 | 贪婪 | | C. | 伟大 | 和谐 | 什么？ | 天使 | 谨慎 | 暴食 | | D. | 持续 | 对立 | 什么？ | 天堂 | 坚毅 | 欲望 | | E. | 力量 | 开始 | 为什么？ | 人类 | 节制 | 自负 | | F. | 智慧 | 中间 | 多少？ | 想象力 | 信仰 | 懒惰（懒散） | | G. | 意志 | 结束 | 什么品质？ | 感官 | 希望 | 嫉妒 | | H. | 美德 | 多数 | 何时？ | 植物 | 慈善 | 愤怒 | | I. | 真理 | 平等 | 在哪里？ | 元素 | 耐心 | 谎言 | | K. | 荣耀 | 少数 | 如何以及用什么？ | 乐器 | 同情 | 变化无常 |
+\| 信 | 代表 | | --- | --- | --- | --- | --- | --- | --- | | B. | 善 | 差异 | 是否？ | 上帝 | 正义 | 贪婪 | | C. | 伟大 | 和谐 | 什么？ | 天使 | 谨慎 | 暴食 | | D. | 持续 | 对立 | 什么？ | 天堂 | 坚毅 | 欲望 | | E. | 力量 | 开始 | 为什么？ | 人类 | 节制 | 自负 | | F. | 智慧 | 中间 | 多少？ | 想象力 | 信仰 | 懒惰（懒散） | | G. | 意志 | 结束 | 什么品质？ | 感官 | 希望 | 嫉妒 | | H. | 美德 | 多数 | 何时？ | 植物 | 慈善 | 愤怒 | | I. | 真理 | 平等 | 在哪里？ | 元素 | 耐心 | 谎言 | | K. | 荣耀 | 少数 | 如何以及用什么？ | 乐器 | 同情 | 变化无常 |
 
 这些术语中的第一个术语指的是适用于所有存在层次的积极属性。第二个术语对应于实体之间的关系的定义（它是对前一个图 T 的重新表述）。第三个术语对应于规则和问题，它构成了这个模型中研究的最重要工具，因为它们将被用来制定问题及其解决方案。最后三个术语对应于（a）Ars 所涉及的主题，（b）美德和（c）恶习。这些图形将被用于以类似于 Ars 的先前表述方式来直观地表示不同术语之间的关系。总共有 54 个原则，它们构成了整个系统的基础，并通过这些图形建立了它们之间的关系。
 
@@ -408,13 +399,13 @@ Bonner（2007）认为，在这一部分中，拉曼·鲁尔引入了亚里士�
 
 拉曼·鲁尔使用“排除”一词来说明如何提取每个组合的所有意义，以智力为代理。排除开始“通过进行陈述，然后我们用主语和谓语交换，然后提出问题”（阿尔斯通用终极 6-1。翻译：Yanis Dambergs）。也就是说，使用字母表的第一个意义（例如，B，C：善是伟大的）形成陈述；然后使用字母表的第一个和第二个意义形成另一个陈述（例如，b，B：差异是好的）；然后主语和谓语被颠倒（例如，B，b：善是不同的）。每个字母组合共有 12 个意义。BC 的示例为：
 
-| B | C | 善是伟大的   |  | b | B | 差异是好的   |
-| --- | --- | -------------- | -- | --- | --- | -------------- |
-| B | b | 善是不同的   |  | b | C | 差异很大     |
-| B | c | 善良是一致的 |  | b | c | 差异是一致的 |
-| C | B | 伟大是好的   |  | c | B | 和谐是好的   |
-| C | b | 伟大是不同的 |  | c | C | 和谐是伟大的 |
-| C | c | 伟大是和谐的 |  | c | b | 和谐是不同的 |
+| B | C | 善是伟大的  |   | b | B | 差异是好的  |
+| - | - | ------ | - | - | - | ------ |
+| B | b | 善是不同的  |   | b | C | 差异很大   |
+| B | c | 善良是一致的 |   | b | c | 差异是一致的 |
+| C | B | 伟大是好的  |   | c | B | 和谐是好的  |
+| C | b | 伟大是不同的 |   | c | C | 和谐是伟大的 |
+| C | c | 伟大是和谐的 |   | c | b | 和谐是不同的 |
 
 之后，根据字母表的第三个意义，引入了相应的问题。对于 B 和 C，问题是是否和什么。因此，基于这些肯定的陈述，例如可以是：“善是伟大的”，“善是否伟大？”和“伟大的善是什么？”这个过程应用于 12 个肯定的陈述，从而得到了 BC 组合的 36 个可能的意义。这个过程必须在第三图中找到的所有组合上进行。
 
@@ -422,12 +413,12 @@ Bonner（2007）认为，在这一部分中，拉曼·鲁尔引入了亚里士�
 
 拉曼·鲁尔提供的定义和规则是 Ars 的一部分，必须用来完成排除并理解所有 36 个可能的组合的意义。这里有 18 个定义：其中九个对应于字母表的第一个意义，另外九个对应于第二个意义。例如，前五个定义陈述了：
 
-| B. | 善是使善行善的东西。                       |
-| ---- | -------------------------------------------- |
-| C. | 伟大是使善、持久等变得伟大的东西。         |
-| D. | 持久是使善、伟大等持久的东西。             |
+| B. | 善是使善行善的东西。            |
+| -- | --------------------- |
+| C. | 伟大是使善、持久等变得伟大的东西。     |
+| D. | 持久是使善、伟大等持久的东西。       |
 | E. | 力量是使善良、伟大等能够存在和行动的东西。 |
-| F. | 智慧是智者理解的一种属性。                 |
+| F. | 智慧是智者理解的一种属性。         |
 
 Bonner（2007）指出，拉曼·鲁尔提出的定义的一个独特特点是它们不遵循亚里士多德的模式。相反，它们基于主体的活动来定义主体，这使得例如伟大的定义可以适用于阶梯中的任何存在，而不仅仅是上帝。这正是他将要做的，以完成第三图形的排除，稍后将会解释。
 
@@ -441,13 +432,13 @@ Bonner（2007）指出，拉曼·鲁尔提出的定义的一个独特特点是�
 
 对于第四图，拉曼·鲁尔采用了与第三图相似的程序。首先，可以基于初始组合进行三元组合。例如，基于 B C D，接下来会有 B C E，然后是 B C F，依此类推。因此，对于每个字母的三元组合，例如 B C D，可以根据字母表的第一、第二和第三个意义提出 20 个问题，以获得问题的形式。每个列中总共有 20 个问题。例如：
 
-| B | C | D | 是否善良如此伟大以至于它是永恒的？                           |
-| --- | --- | --- | -------------------------------------------------------------- |
+| B | C | D | 是否善良如此伟大以至于它是永恒的？              |
+| - | - | - | ------------------------------ |
 | B | C | b | 是否存在一种如此伟大的善，它内部包含与自身共本质的不同事物？ |
-| C | D | b | 永恒的巨大差异是什么？                                       |
-| C | D | c | 伟大而永恒的和谐是什么？                                     |
-| D | b | c | 和谐与永恒的差异在于什么？                                   |
-| D | b | d | 永恒与对立的差异在于什么？                                   |
+| C | D | b | 永恒的巨大差异是什么？                    |
+| C | D | c | 伟大而永恒的和谐是什么？                   |
+| D | b | c | 和谐与永恒的差异在于什么？                  |
+| D | b | d | 永恒与对立的差异在于什么？                  |
 
 解决这些问题的方法与第三图形的情况相同，根据涉及的字母、它们在字母表中的含义以及每个字母中使用的规则的种类，结合定义和规则。
 
@@ -469,153 +460,153 @@ Bonner（2007）指出，拉曼·鲁尔提出的定义的一个独特特点是�
 
 ### Cited Primary Literature
 
-* *Desconhort*, in [ORL] XIX (1936), 217–254 pp.
-* *De vita coaetanea*, in [MOG] (1721) I Int. i, 1–12 (35–46). English translation Anthony Bonner, *Ramon Llull: A Contemporary Life.*
-* *Arbor Scientiae*, in [ORL] XI-XIII (1917, 1923, 1926), xxi + LVI + 335, 451 i 521 pp.
-* *Ars Brevis*, in [ROL] XII / CCCM 38 (1984), 171–255. English translation SW 569–646 pp.
-* *Ars compendiosa inveniendi veritatem*, in [MOG] I (1721), Int. vii, 1–41 (433–473) [+31].
-* *Ars demonstrativa*, in [MOG] III (1722), Int.iii (93–204), and [ROL] XXXII / CCCM 213 (2007), lxxx + 343 pp. English translation SW 305–568.
-* *Ars inventiva veritatis*, in [MOG] V (1729), Int. i (1–211) and [ROL] XXXVII / CCCM 265 (2014), cxxii + 513 pp.
-* *Ars generalis ultima*, in [ROL] XIV / CCCM 75 (1986), 4–527 pp. English translation *Mnemonic Arts of Blessed Raymond Lull* (see Other Internet Resources)
-* *Liber de ascensu et descensu intellectus*, in [ROL] IX / CCCM 35 (1981), 1–199 pp
-* *Liber de homine*, in [ORL] XXI (1950), 1–159 pp.
-* *Liber de passagio*, in [ROL] XXVIII / CCCM 182 (2003), 255–353 pp.
-* *Libre dels proverbis de Ramon*, in [MOG] VI (1737), Int. vi (283–413). Spanish translation Garcías Palou, Sebastián. *Proverbis de Ramon.*
-* *Quomodo terra sancta recuperari potest*, Manuscript Palma, Vivot, 4. (XVIII). 207–209v; 211–212v
+* _Desconhort_, in \[ORL] XIX (1936), 217–254 pp.
+* _De vita coaetanea_, in \[MOG] (1721) I Int. i, 1–12 (35–46). English translation Anthony Bonner, _Ramon Llull: A Contemporary Life._
+* _Arbor Scientiae_, in \[ORL] XI-XIII (1917, 1923, 1926), xxi + LVI + 335, 451 i 521 pp.
+* _Ars Brevis_, in \[ROL] XII / CCCM 38 (1984), 171–255. English translation SW 569–646 pp.
+* _Ars compendiosa inveniendi veritatem_, in \[MOG] I (1721), Int. vii, 1–41 (433–473) \[+31].
+* _Ars demonstrativa_, in \[MOG] III (1722), Int.iii (93–204), and \[ROL] XXXII / CCCM 213 (2007), lxxx + 343 pp. English translation SW 305–568.
+* _Ars inventiva veritatis_, in \[MOG] V (1729), Int. i (1–211) and \[ROL] XXXVII / CCCM 265 (2014), cxxii + 513 pp.
+* _Ars generalis ultima_, in \[ROL] XIV / CCCM 75 (1986), 4–527 pp. English translation _Mnemonic Arts of Blessed Raymond Lull_ (see Other Internet Resources)
+* _Liber de ascensu et descensu intellectus_, in \[ROL] IX / CCCM 35 (1981), 1–199 pp
+* _Liber de homine_, in \[ORL] XXI (1950), 1–159 pp.
+* _Liber de passagio_, in \[ROL] XXVIII / CCCM 182 (2003), 255–353 pp.
+* _Libre dels proverbis de Ramon_, in \[MOG] VI (1737), Int. vi (283–413). Spanish translation Garcías Palou, Sebastián. _Proverbis de Ramon._
+* _Quomodo terra sancta recuperari potest_, Manuscript Palma, Vivot, 4. (XVIII). 207–209v; 211–212v
 
 ### Primary Literature Collections
 
 #### In Latin, Catalan, Spanish
 
-* [MOG] 1721–1742, *Raymundi Lulli Opera omnia*, Ivo Salzinger et al. (eds), 8 vols. Mainz (Reprinted Frankfur am Main 1965).
-* [ROL] 1959–1967, 1975–, *Raimundi Lulli Opera Latina*, I–V (Palma) and VI– Turnholt, Belgium: Brepols.
-* [CCCM], Corpus Christianorum Continuatio Mediaevalis. This is a reference to the series by the publisher Brepols in which [ROL] appear.
-* [NEORL] 1990, *Nova Edició de les Obres de Ramon Llull*, Palma de Mallorca.
-* [OE] 1957–1960, *Obras essencials*, Joaquín Carreras y Artau et al. (eds), 2 Vol., Barcelona.
-* [OL] 1948, *Obras literarias*, Miquel Batllori and Miguel Caldentey (eds), Madrid.
-* [ORL] 1906–1950, *Obres de Ramon Llull*, Salvador Galmés et al. (eds), 21 vols., Palma de Mallorca.
+* \[MOG] 1721–1742, _Raymundi Lulli Opera omnia_, Ivo Salzinger et al. (eds), 8 vols. Mainz (Reprinted Frankfur am Main 1965).
+* \[ROL] 1959–1967, 1975–, _Raimundi Lulli Opera Latina_, I–V (Palma) and VI– Turnholt, Belgium: Brepols.
+* \[CCCM], Corpus Christianorum Continuatio Mediaevalis. This is a reference to the series by the publisher Brepols in which \[ROL] appear.
+* \[NEORL] 1990, _Nova Edició de les Obres de Ramon Llull_, Palma de Mallorca.
+* \[OE] 1957–1960, _Obras essencials_, Joaquín Carreras y Artau et al. (eds), 2 Vol., Barcelona.
+* \[OL] 1948, _Obras literarias_, Miquel Batllori and Miguel Caldentey (eds), Madrid.
+* \[ORL] 1906–1950, _Obres de Ramon Llull_, Salvador Galmés et al. (eds), 21 vols., Palma de Mallorca.
 
 #### Translations (English, Spanish, French)
 
-* [SW] Bonner, Anthony (ed. and trans.), 1985, *Selected Works of Ramon Llull*, 2 vols., Princeton: Princeton University Press. Includes translations of *Ars demonstrativa* and *Ars brevis*.
-* Johnston, Mark D. (ed. and trans.), 1996, *The Book of the Lover and the Beloved*, Warminster: Aris & Phillips.
-* Bonner, Anthony (ed. and trans.), 2010, *Ramon Llull: A Contemporary Life*, New York: Tamesis. Translation of *De Vita Coetanea*
-* Fallows, Noel (trans.), 2013, *The Book of the Order of Chivalry*, Suffolk: The Boydell Press.
-* Cortijo Ocaña, Antonio (ed. and trans.), 2015, *The Book of the Order of Chivalry = Llibre de l’Ordre de Cavalleria = Libro de la Orden de Caballeria*, Amsterdam: John Benjamins Publishing Company. (original Catalan with modern Spanish and English translations)
-* Peers, Allison E. (trans.), 1926, *Blanquerna: A Thirteenth Century Romance*, London: Jarrolds.
-* Peers, Allison E. (trans.), 1978, *The Book of the Beasts*, Westport: Hyperion Press.
-* Llull, Ramon, *Llibre de Les Bèsties*, Col·lecció L’Aljub, núm. 2. Alicante: Editorial Aguaclara, 1990. (Catalan)
-* Garcías Palou, Sebastián (ed. and trans.), 1978, *Proverbis de Ramon*, Madrid: Editora Nacional. (Spanish)
-* Gustà, Marina (ed.), 1980, *Llibre de Meravelles*, Barcelona: Edicions 62. (Catalan)
-* Butinyà i Jiménez, Júlia (ed. and trans.), 2015, *Libro de la orden de caballeria*, Madrid: Centro de Lingüística Aplicada ATENEA. (Spanish)
-* Moga Bayona, Eduardo (trans.), 2006, *Libro de Amigo y Amada*, Barcelona: DVD Ediciones. (Spanish)
-* Rubio Albarracín, Josep-Enric (ed and trans.), 2004, *Arte breve*, Pamplona: Ediciones Universidad de Navarra. (Spanish)
-* Llinarès, Armand (trans.), 1988, *Traité d’astrologie Raymond Lulle*, Paris: Stock. (French)
+* \[SW] Bonner, Anthony (ed. and trans.), 1985, _Selected Works of Ramon Llull_, 2 vols., Princeton: Princeton University Press. Includes translations of _Ars demonstrativa_ and _Ars brevis_.
+* Johnston, Mark D. (ed. and trans.), 1996, _The Book of the Lover and the Beloved_, Warminster: Aris & Phillips.
+* Bonner, Anthony (ed. and trans.), 2010, _Ramon Llull: A Contemporary Life_, New York: Tamesis. Translation of _De Vita Coetanea_
+* Fallows, Noel (trans.), 2013, _The Book of the Order of Chivalry_, Suffolk: The Boydell Press.
+* Cortijo Ocaña, Antonio (ed. and trans.), 2015, _The Book of the Order of Chivalry = Llibre de l’Ordre de Cavalleria = Libro de la Orden de Caballeria_, Amsterdam: John Benjamins Publishing Company. (original Catalan with modern Spanish and English translations)
+* Peers, Allison E. (trans.), 1926, _Blanquerna: A Thirteenth Century Romance_, London: Jarrolds.
+* Peers, Allison E. (trans.), 1978, _The Book of the Beasts_, Westport: Hyperion Press.
+* Llull, Ramon, _Llibre de Les Bèsties_, Col·lecció L’Aljub, núm. 2. Alicante: Editorial Aguaclara, 1990. (Catalan)
+* Garcías Palou, Sebastián (ed. and trans.), 1978, _Proverbis de Ramon_, Madrid: Editora Nacional. (Spanish)
+* Gustà, Marina (ed.), 1980, _Llibre de Meravelles_, Barcelona: Edicions 62. (Catalan)
+* Butinyà i Jiménez, Júlia (ed. and trans.), 2015, _Libro de la orden de caballeria_, Madrid: Centro de Lingüística Aplicada ATENEA. (Spanish)
+* Moga Bayona, Eduardo (trans.), 2006, _Libro de Amigo y Amada_, Barcelona: DVD Ediciones. (Spanish)
+* Rubio Albarracín, Josep-Enric (ed and trans.), 2004, _Arte breve_, Pamplona: Ediciones Universidad de Navarra. (Spanish)
+* Llinarès, Armand (trans.), 1988, _Traité d’astrologie Raymond Lulle_, Paris: Stock. (French)
 
 ### Secondary Literature
 
-* Badia [Pàmies], Lola, Joan Santanach [Suñol], and Albert Soler [Llopart], 2016, *Ramon Llull as a Vernacular Writer: Communicating a New Kind of Knowledge*, Woodbridge: Tamesis.
-* Badia [Pàmies], Lola and Albert Soler [Llopart] (eds), 1991, *Robert Pring-Mill Estudis sobre Ramon Llull*, Barcelona: Curial—Publicacions de l’Abadia de Montserrat.
-* Bonillo Hoyos, Xavier, 2005, “L’estructura dels llibres del Paradís i de l’Infern al *Fèlix* de Ramon Llull”, in Ripoll Perelló 2005: 217–233.
-* Bonner, Anthony, 1993, “L’Art lul·liana com a autoritat alternativa”, *Studia Lulliana*, 33: 15–32.
-* –––, 2002, “A Background to the Desconhort, Tree of Science, and Apostrophe”, *Religion, Text, and Society in Medieval Spain and Northern Europe. Essays in honor of J.N. Hillgarth*, Thomas E. Burman, Mark D. Meyerson, and Leah Shopkow (eds), Toronto: Pontifical Institute of Mediaeval Studies, 122–133.
-* –––, 2003a, “Estadístiques sobre la recepció de l’obra de Ramon Llull”, *Studia Lulliana*, 43: 83–92.
-* –––, 2003b, “Les estructures de l’Art durant l’etapa quaternària”, *Studia Lulliana*, 43: 57–82.
-* –––, 2007, *The Art and Logic of Ramon Llull: A User’s Guide*, Studien Und Texte Zur Geistesgeschichte Des Mittelalters, Leiden, Boston: Brill.
-* Bonner, Anthony and Lola Badia [Pàmies], 1988, *Ramon Llull. Vida, pensament i obra literària*, Barcelona: Empúries.
-* Bonner, Anthony and Maria Isabel Ripoll Perelló, 2002, *Diccionari de defnicions lul·lianes/Dictionary of Lullian Defnitions*, Palma/Barcelona: Universitat de les Illes Balears/Universitat de Barcelona.
-* Bordoy Fernández, Antoni, 2012, *Raimundo Lulio y la filosofía del siglo XIII*, Madrid: Liceus.
-* Butiñá Jiménez, Julia (ed.), 2012, *Los mundos de Ramón Llull en las lenguas de hoy*, Madrid: Universidad Nacional de Educación a Distancia.
-* Carreras y Artau, Tomás and Joaquín, 1939–43, *Historia de la filosofía española*, 2 vols. Madrid.
-* Colom Mateu, Miquel, 1982–5, *Glossari general lul·lià*, 5 vols. Palma de Mallorca: Editorial Moll.
-* Colomer [Pous], Eusebi, 1975, *De la Edad Media al Renacimiento: Ramón Llull—Nicolás de Cusa—Juan Pico della Mirandola*, Barcelona: Herder.
-* –––, 1986, “El pensament de Ramon Llull i els seus precedents històrics com a expressió medieval de la relació fe-cultura”, *Fe i cultura en Ramon Llull*, Publicacions del Centre d’Estudis Teològics de Mallorca II. Palma de Mallorca: 9–29.
-* Cruz Hernández, Miguel, 1977, *El pensamiento de Ramon Llull*, Madrid: Fundación Juan March-Editorial Castalia.
-* Díaz Marcilla, Francisco José, José Huiguera Rubio, 2017. *En torno a Ramón Llull. Presencia y transmisión de su obra*, Vila Nova de Famalicão: Edições Húmus.
-* Domínguez Reboiras, Fernando, 2016, *Ramon Llull: El Mejor Libro Del Mundo*, Barcelona: Arpa Editores.
-* Domínguez Reboiras, Fernando, Viola Tenge-Wolf, Peter Walter, and Raimundus-Lullus-Institut (eds.), 2011, *Gottes Schau und Weltbetrachtung: Interpretationen zum “Liber contemplationis” des Raimundus Lullus: Akten des internationalen Kongresses aus Anlass des 50-jährigen Bestehens des Raimundus-Lullus-Instituts der Albert-Ludwigs-Universität Freiburg, 25.–28. November 2007*, Turnhout: Brepols.
+* Badia \[Pàmies], Lola, Joan Santanach \[Suñol], and Albert Soler \[Llopart], 2016, _Ramon Llull as a Vernacular Writer: Communicating a New Kind of Knowledge_, Woodbridge: Tamesis.
+* Badia \[Pàmies], Lola and Albert Soler \[Llopart] (eds), 1991, _Robert Pring-Mill Estudis sobre Ramon Llull_, Barcelona: Curial—Publicacions de l’Abadia de Montserrat.
+* Bonillo Hoyos, Xavier, 2005, “L’estructura dels llibres del Paradís i de l’Infern al _Fèlix_ de Ramon Llull”, in Ripoll Perelló 2005: 217–233.
+* Bonner, Anthony, 1993, “L’Art lul·liana com a autoritat alternativa”, _Studia Lulliana_, 33: 15–32.
+* –––, 2002, “A Background to the Desconhort, Tree of Science, and Apostrophe”, _Religion, Text, and Society in Medieval Spain and Northern Europe. Essays in honor of J.N. Hillgarth_, Thomas E. Burman, Mark D. Meyerson, and Leah Shopkow (eds), Toronto: Pontifical Institute of Mediaeval Studies, 122–133.
+* –––, 2003a, “Estadístiques sobre la recepció de l’obra de Ramon Llull”, _Studia Lulliana_, 43: 83–92.
+* –––, 2003b, “Les estructures de l’Art durant l’etapa quaternària”, _Studia Lulliana_, 43: 57–82.
+* –––, 2007, _The Art and Logic of Ramon Llull: A User’s Guide_, Studien Und Texte Zur Geistesgeschichte Des Mittelalters, Leiden, Boston: Brill.
+* Bonner, Anthony and Lola Badia \[Pàmies], 1988, _Ramon Llull. Vida, pensament i obra literària_, Barcelona: Empúries.
+* Bonner, Anthony and Maria Isabel Ripoll Perelló, 2002, _Diccionari de defnicions lul·lianes/Dictionary of Lullian Defnitions_, Palma/Barcelona: Universitat de les Illes Balears/Universitat de Barcelona.
+* Bordoy Fernández, Antoni, 2012, _Raimundo Lulio y la filosofía del siglo XIII_, Madrid: Liceus.
+* Butiñá Jiménez, Julia (ed.), 2012, _Los mundos de Ramón Llull en las lenguas de hoy_, Madrid: Universidad Nacional de Educación a Distancia.
+* Carreras y Artau, Tomás and Joaquín, 1939–43, _Historia de la filosofía española_, 2 vols. Madrid.
+* Colom Mateu, Miquel, 1982–5, _Glossari general lul·lià_, 5 vols. Palma de Mallorca: Editorial Moll.
+* Colomer \[Pous], Eusebi, 1975, _De la Edad Media al Renacimiento: Ramón Llull—Nicolás de Cusa—Juan Pico della Mirandola_, Barcelona: Herder.
+* –––, 1986, “El pensament de Ramon Llull i els seus precedents històrics com a expressió medieval de la relació fe-cultura”, _Fe i cultura en Ramon Llull_, Publicacions del Centre d’Estudis Teològics de Mallorca II. Palma de Mallorca: 9–29.
+* Cruz Hernández, Miguel, 1977, _El pensamiento de Ramon Llull_, Madrid: Fundación Juan March-Editorial Castalia.
+* Díaz Marcilla, Francisco José, José Huiguera Rubio, 2017. _En torno a Ramón Llull. Presencia y transmisión de su obra_, Vila Nova de Famalicão: Edições Húmus.
+* Domínguez Reboiras, Fernando, 2016, _Ramon Llull: El Mejor Libro Del Mundo_, Barcelona: Arpa Editores.
+* Domínguez Reboiras, Fernando, Viola Tenge-Wolf, Peter Walter, and Raimundus-Lullus-Institut (eds.), 2011, _Gottes Schau und Weltbetrachtung: Interpretationen zum “Liber contemplationis” des Raimundus Lullus: Akten des internationalen Kongresses aus Anlass des 50-jährigen Bestehens des Raimundus-Lullus-Instituts der Albert-Ludwigs-Universität Freiburg, 25.–28. November 2007_, Turnhout: Brepols.
 * Domínguez Reboiras, Fernando and Jordi Gayá, 2008, “Life”, in Fidora and Rubio 2008: 3–124.
-* Drton, M., G. Hägele, D. Haneberg, F. Pukelsheim, and W. Reif, 2004, “A Rediscovered Llull Tract and the Augsburg Web Edition of Llull’s Electoral Writings”, *Le Médiéviste et l’ordinateur*, 43. [Drton et al. 2004 available online](http://lemo.irht.cnrs.fr/43/43-06.htm)
+* Drton, M., G. Hägele, D. Haneberg, F. Pukelsheim, and W. Reif, 2004, “A Rediscovered Llull Tract and the Augsburg Web Edition of Llull’s Electoral Writings”, _Le Médiéviste et l’ordinateur_, 43. [Drton et al. 2004 available online](http://lemo.irht.cnrs.fr/43/43-06.htm)
 * Ensenyat Pujol, Gabriel. “Ramón Llull y la época. Genesis historica del pensamiento luliano”, in Díaz and Higuera 2017: 35–51.
-* Fidora, Alexander, 2003, “Ramón Llull frente a la crítica actual al diálogo interreligioso: el arte luliana como propuesta para una ‘Flosofía de las religiones’”, *Revista Española de Filosofía Medieval*, 10: 227–243.
-* Fidora, Alexander and José G. Higuera [Rubio] (eds.), 2001, *Ramón Llull, caballero de la fe: el arte luliana y su proyección en la edad media Pamplona*, Anuario Filosófico 17, España: Universidad de Navarra.
-* Fidora, Alexander and Josep E. Rubio [Albarracín] (eds.), 2008, *Raimundus Lullus: An Introduction to His Life, Works and Thought*, Turnhout: Brepols.
-* Gardner, Martin, 1982, *The Ars Magna of Ramon Lull. Logic Machines and Diagrams*, New York: McGraw-Hill.
-* Gayà Estelrich, Jordi, 1980, “Sobre algunes estructures literàries del *Libre de Meravelles*”, *Randa*, 10: 63–69.
-* –––, 1989, “Honori d’Autun i Ramon Llull. Raons per a una hipòtesi”, La cultura mallorquina des de l’Edat Mitjana fins al segle XX. Homenatge al Pare Miquel Batllori. *Estudis Balèarics*, 29/30: 19–24.
-* –––, 2002, *Raimondo Lullo. Una teologia per la missione*, Milan: Jaca Book.
+* Fidora, Alexander, 2003, “Ramón Llull frente a la crítica actual al diálogo interreligioso: el arte luliana como propuesta para una ‘Flosofía de las religiones’”, _Revista Española de Filosofía Medieval_, 10: 227–243.
+* Fidora, Alexander and José G. Higuera \[Rubio] (eds.), 2001, _Ramón Llull, caballero de la fe: el arte luliana y su proyección en la edad media Pamplona_, Anuario Filosófico 17, España: Universidad de Navarra.
+* Fidora, Alexander and Josep E. Rubio \[Albarracín] (eds.), 2008, _Raimundus Lullus: An Introduction to His Life, Works and Thought_, Turnhout: Brepols.
+* Gardner, Martin, 1982, _The Ars Magna of Ramon Lull. Logic Machines and Diagrams_, New York: McGraw-Hill.
+* Gayà Estelrich, Jordi, 1980, “Sobre algunes estructures literàries del _Libre de Meravelles_”, _Randa_, 10: 63–69.
+* –––, 1989, “Honori d’Autun i Ramon Llull. Raons per a una hipòtesi”, La cultura mallorquina des de l’Edat Mitjana fins al segle XX. Homenatge al Pare Miquel Batllori. _Estudis Balèarics_, 29/30: 19–24.
+* –––, 2002, _Raimondo Lullo. Una teologia per la missione_, Milan: Jaca Book.
 * –––, 2008, “The Divine Realm”, in Fidora and Rubio 2008: 462–515
-* Giles, Rayan D., 2020, “The Problem of Interreligious Peacmaking in the Works of Ramon Llull”, *Religions*, 11(4): 206. doi:10.3390/rel11040206
-* Hames, Harvey, 2003, “The Language of Conversion: Ramon Llull’s Art as a Vernacular”, *The Vulgar Tongue. Medieval and Postmedieval Vernacularity*, Fiona Somerset and Nicholas Watson (eds), University Park, PA: Pennsylvania State University Press, 43–56.
-* Higuera Rubio, José G. and International Society for the Study of Medieval Philosophy (eds.), 2015, *Knowledge, Contemplation and Lullism: Contributions to the Lullian Session at the SIEPM Congress—Freising, August 20–25, 2012*, Turnhout: Brepols.
-* Hillgarth, J.N., 1971, *Ramon Lull and Lullism in Fourteenth-Century France*, Oxford: Clarendon Press.
-* Jankélévitch, Vladimir, 1974, *La philosophie de l’amour chez Raymond Lulle*, Paris: Mouton.
-* Jaulent, Esteve 2010, “El *Ars Generalis ultima* de Ramon Llull: Presupuestos metafísicos y éticos”, *Anales del Seminario de Historia de la Filosofía*, 27: 87–113
-* Johnston, Mark D., 1987, *The Spiritual Logic of Ramon Llull*, Oxford/New York: Clarendon Press/Oxford University Press.
-* –––, 1996, *The Evangelical Rhetoric of Ramon Llull: Lay Learning and Piety in the Christian West around 1300*, New York: Oxford University Press.
-* Libera, Alain de, 1991, *Penser au Moyen Âge*, Paris: Seuil.
-* Lohr, Charles, 1986, “Ramon Llull: ‘Christianus arabicus’”, *Randa*, 19: 7–34.
-* –––, 1987, “Les fondements de la logique nouvelle de Raymond Lulle”, *Raymond Lulle et le Pays d’Oc*, Cahiers de Fanjeaux 22. Toulouse: Privat, 233–248.
-* López Alcalde, Celia, 2016, “Ontology of the Soul and Faculties of Knowledge. Soul, Body and Knowledge in Ramon Llull’s psychological work”, *Anuario filosófico*, 49(1): 73–95.
-* Mayer, Annemarie C., 2016, “Llull y los atributos divinos en el contexto del siglo XIII”, *Anuario filosófico*, 49(1): 139–154.
-* –––, 2010, “Ramon Llull and the Indispensable Dialogue”, *Quaderns de la Mediterrània*, 14: 53–59.
-* Musco, Alessandro, and Fernando Domínguez Reboiras (eds.), 2008, *Il Mediterraneo del 300: Raimondo Lullo E Federico III d’Aragona, Re Di Sicilia; Omaggio a Fernando Domínguez Reboiras; Atti Del Seminario Internazionale Di Palermo, Castelvetrano-Selinunte (TP), 17 – 19 Novembre 2005*, Turnhout: Brepols.
-* Peers, E. Allison, 1929, *Ramon Lull: A Biography*, London: Society for promoting Christian knowledge.
-* Pereira, Michela, 2012, “Comunicare la verità: Ramón Llull e la filosofía in volgare”, in Anna Alberni (ed.), *El saber i les llengües vernacles a l’època de Llull i Eiximenis: estudis ICREA sobre vernacularització*, Barcelona: Publicacions de l’Abadia de Montserrat, 22–44
-* Petit, Leonci, 2004, “Conèixer en Ramon Lull”, *Ars Brevis*, 10: 201–225
-* Platzeck, Erhard-Wolfram, 1953–4, “La Figura ‘A’ del Arte luliano y la esfera inteligible de Plotino”, *Studia Monographica & Recensiones*, 9–10: 19–34.
-* Pring-Mill, Robert D.F., 1955–6, “The Trinitarian World Picture of Ramon Lull”, *Romanistisches Jahrbu*ch 7: 229–256.
-* –––, 1961, *El microcosmos lul·lià*, Palma de Mallorca: Editorial Moll.
-* –––, 1962–7, “Entorn de la unitat del Libre d’amich e amat”, *Estudis Romànics*, 10: 33–61.
-* –––, 1963, *Ramón Llull y el número primitivo de las dignidades en el “Arte general”*, Oxford: Dolphin.
-* Ramis, Pedro, 1992, *Lectura del Liber de civitate mundi de Ramón Llull*, Barcelona: Biblioteca Universitaria de Filosofía.
-* Ripoll Perelló, Maria Isabel (ed.), 2005, *Actes de les Jornades Internacionals Lul·lianes: ‘Ramon Llull al s. XXI’ Palma, 1, 2 i 3 d’abril de 2004*, Palma/Barcelona: Universitat de les Illes Balears/Universitat de Barcelona.
-* Rocha da Silveria, Augusto Leandro, 2019, “Aspectos Éticos No Livro Da Ordem De Cavalaria De Ramon Llull – Por Uma Autonomia da Ética Luliana”, *Revista Chilemna de Estudios Medievales*, 16: 46–51.
+* Giles, Rayan D., 2020, “The Problem of Interreligious Peacmaking in the Works of Ramon Llull”, _Religions_, 11(4): 206. doi:10.3390/rel11040206
+* Hames, Harvey, 2003, “The Language of Conversion: Ramon Llull’s Art as a Vernacular”, _The Vulgar Tongue. Medieval and Postmedieval Vernacularity_, Fiona Somerset and Nicholas Watson (eds), University Park, PA: Pennsylvania State University Press, 43–56.
+* Higuera Rubio, José G. and International Society for the Study of Medieval Philosophy (eds.), 2015, _Knowledge, Contemplation and Lullism: Contributions to the Lullian Session at the SIEPM Congress—Freising, August 20–25, 2012_, Turnhout: Brepols.
+* Hillgarth, J.N., 1971, _Ramon Lull and Lullism in Fourteenth-Century France_, Oxford: Clarendon Press.
+* Jankélévitch, Vladimir, 1974, _La philosophie de l’amour chez Raymond Lulle_, Paris: Mouton.
+* Jaulent, Esteve 2010, “El _Ars Generalis ultima_ de Ramon Llull: Presupuestos metafísicos y éticos”, _Anales del Seminario de Historia de la Filosofía_, 27: 87–113
+* Johnston, Mark D., 1987, _The Spiritual Logic of Ramon Llull_, Oxford/New York: Clarendon Press/Oxford University Press.
+* –––, 1996, _The Evangelical Rhetoric of Ramon Llull: Lay Learning and Piety in the Christian West around 1300_, New York: Oxford University Press.
+* Libera, Alain de, 1991, _Penser au Moyen Âge_, Paris: Seuil.
+* Lohr, Charles, 1986, “Ramon Llull: ‘Christianus arabicus’”, _Randa_, 19: 7–34.
+* –––, 1987, “Les fondements de la logique nouvelle de Raymond Lulle”, _Raymond Lulle et le Pays d’Oc_, Cahiers de Fanjeaux 22. Toulouse: Privat, 233–248.
+* López Alcalde, Celia, 2016, “Ontology of the Soul and Faculties of Knowledge. Soul, Body and Knowledge in Ramon Llull’s psychological work”, _Anuario filosófico_, 49(1): 73–95.
+* Mayer, Annemarie C., 2016, “Llull y los atributos divinos en el contexto del siglo XIII”, _Anuario filosófico_, 49(1): 139–154.
+* –––, 2010, “Ramon Llull and the Indispensable Dialogue”, _Quaderns de la Mediterrània_, 14: 53–59.
+* Musco, Alessandro, and Fernando Domínguez Reboiras (eds.), 2008, _Il Mediterraneo del 300: Raimondo Lullo E Federico III d’Aragona, Re Di Sicilia; Omaggio a Fernando Domínguez Reboiras; Atti Del Seminario Internazionale Di Palermo, Castelvetrano-Selinunte (TP), 17 – 19 Novembre 2005_, Turnhout: Brepols.
+* Peers, E. Allison, 1929, _Ramon Lull: A Biography_, London: Society for promoting Christian knowledge.
+* Pereira, Michela, 2012, “Comunicare la verità: Ramón Llull e la filosofía in volgare”, in Anna Alberni (ed.), _El saber i les llengües vernacles a l’època de Llull i Eiximenis: estudis ICREA sobre vernacularització_, Barcelona: Publicacions de l’Abadia de Montserrat, 22–44
+* Petit, Leonci, 2004, “Conèixer en Ramon Lull”, _Ars Brevis_, 10: 201–225
+* Platzeck, Erhard-Wolfram, 1953–4, “La Figura ‘A’ del Arte luliano y la esfera inteligible de Plotino”, _Studia Monographica & Recensiones_, 9–10: 19–34.
+* Pring-Mill, Robert D.F., 1955–6, “The Trinitarian World Picture of Ramon Lull”, _Romanistisches Jahrbu_ch 7: 229–256.
+* –––, 1961, _El microcosmos lul·lià_, Palma de Mallorca: Editorial Moll.
+* –––, 1962–7, “Entorn de la unitat del Libre d’amich e amat”, _Estudis Romànics_, 10: 33–61.
+* –––, 1963, _Ramón Llull y el número primitivo de las dignidades en el “Arte general”_, Oxford: Dolphin.
+* Ramis, Pedro, 1992, _Lectura del Liber de civitate mundi de Ramón Llull_, Barcelona: Biblioteca Universitaria de Filosofía.
+* Ripoll Perelló, Maria Isabel (ed.), 2005, _Actes de les Jornades Internacionals Lul·lianes: ‘Ramon Llull al s. XXI’ Palma, 1, 2 i 3 d’abril de 2004_, Palma/Barcelona: Universitat de les Illes Balears/Universitat de Barcelona.
+* Rocha da Silveria, Augusto Leandro, 2019, “Aspectos Éticos No Livro Da Ordem De Cavalaria De Ramon Llull – Por Uma Autonomia da Ética Luliana”, _Revista Chilemna de Estudios Medievales_, 16: 46–51.
 * Romano, Marta M.M. and Oscar de la Cruz, 2008, “The Human Realm”, in Fidora and Rubio 2008: 263–459
-* Rossi, Paolo, 1960, *Clavis universalis. Arti mnemoniche e logica combinatoria da Lullo a Leibniz*, Bologna: Il Mulino, 1983 (second edition). Translated, 2000, *Logic and the Art of Memory. The Quest for a Universal Language*, Stephen Clucas (trans.), Chicago: University of Chicago Press; London, The Athlone Press.
-* Rubio y Albarracín, Josep Enrico, 1993, “Les raons necessàries segons l’*Art Demostrativa*”, *Studia Lulliana*, 33: 3–14.
-* –––, 1997, *Les bases del pensament de Ramon Llull. Els orígens de l’Art lul·liana*, Valencia and Barcelona: Publicacions de l’Abadia de Montserrat.
-* –––, 2000, “Com és la vertadera Figura X de l’Ars compendiosa inveniendi veritatem”, *Studia Lulliana*, 40: 47–80.
-* –––, 2002, “L’evolució de les figures A, S, T de l’Art quaternària en el trànsit cap a l’Art ternària”, *Taula*, 37: 83–98.
+* Rossi, Paolo, 1960, _Clavis universalis. Arti mnemoniche e logica combinatoria da Lullo a Leibniz_, Bologna: Il Mulino, 1983 (second edition). Translated, 2000, _Logic and the Art of Memory. The Quest for a Universal Language_, Stephen Clucas (trans.), Chicago: University of Chicago Press; London, The Athlone Press.
+* Rubio y Albarracín, Josep Enrico, 1993, “Les raons necessàries segons l’_Art Demostrativa_”, _Studia Lulliana_, 33: 3–14.
+* –––, 1997, _Les bases del pensament de Ramon Llull. Els orígens de l’Art lul·liana_, Valencia and Barcelona: Publicacions de l’Abadia de Montserrat.
+* –––, 2000, “Com és la vertadera Figura X de l’Ars compendiosa inveniendi veritatem”, _Studia Lulliana_, 40: 47–80.
+* –––, 2002, “L’evolució de les figures A, S, T de l’Art quaternària en el trànsit cap a l’Art ternària”, _Taula_, 37: 83–98.
 * –––, 2008a, “Thought: The Art”, in Fidora and Rubio 2008: 243–310
 * –––, 2008b, “Natural Realm”, in Fidora and Rubio 2008: 211–362.
-* Ruiz Simón, Josep Maria 1986, “De la naturalesa com a mescla a l’art de mesclar (sobre la fonamentació cosmològica de les arts lul·lianes)”, *Randa*, 19: 69–99.
-* –––, 1993, “‘Quomodo est haec ars inventiva?’ (l’Art de Llull i la dialèctica escolàstica)”, *Studia Lulliana*, 33: 77–98.
-* –––, 1996, “Ramon Llull y las contradicciones aparentes”, in Fernando Domínguez and Jaime de Salas. *Constantes y fragmentos del pensamiento luliano: Actas del simposio sobre Ramon Llull en Trujillo, 17–20 septiembre 1994*, Tübingen: Max Niemeyer Verlag, 19–38.
-* –––, 1998 “El Joc de Ramon Llull I la Significació de L’àrt General”, *Ars Brevis*, 2: 55–65
-* –––, 1999, *L’Art de Ramon Llull i la teoria escolàstica de la ciència*, Barcelona: Quaderns Crema.
+* Ruiz Simón, Josep Maria 1986, “De la naturalesa com a mescla a l’art de mesclar (sobre la fonamentació cosmològica de les arts lul·lianes)”, _Randa_, 19: 69–99.
+* –––, 1993, “‘Quomodo est haec ars inventiva?’ (l’Art de Llull i la dialèctica escolàstica)”, _Studia Lulliana_, 33: 77–98.
+* –––, 1996, “Ramon Llull y las contradicciones aparentes”, in Fernando Domínguez and Jaime de Salas. _Constantes y fragmentos del pensamiento luliano: Actas del simposio sobre Ramon Llull en Trujillo, 17–20 septiembre 1994_, Tübingen: Max Niemeyer Verlag, 19–38.
+* –––, 1998 “El Joc de Ramon Llull I la Significació de L’àrt General”, _Ars Brevis_, 2: 55–65
+* –––, 1999, _L’Art de Ramon Llull i la teoria escolàstica de la ciència_, Barcelona: Quaderns Crema.
 * –––, 2005, “Las transformació del pensament de Ramon Llull durant les obres de transició cap a l’etapa ternària”, in Ripoll Perelló 2005: 167–196.
-* Sala-Molins, Louis, 1974, *La philosophie de l’amour chez Raymond Lulle*, Paris and The Hague: Mouton.
-* Saranyana, Josep-Ignasi, 2000, “Le vocabulaire philosophique en langue romane: les premiers écrits catalans de Ramon Llull”, in Jacqueline Hamesse and Carlos Steel (eds), *L’élaboration du vocabulaire philosophique au Moyen Âge*, Actes du Colloque International de Louvain-la-Neuve et Leuven, 12–14 septembre 1998, Turnhout: Brepols, 325–335.
-* Soler [Llopart], Albert, 1992–3, “Els manuscrits lul·lians de Pere de Llemotges”, *Llengua i Literatura*, 5: 447–470.
-* –––, 1993, “Ramon Llull and Peter of Limoges”, *Traditio*, 48: 93–105. doi:10.1017/S0362152900012897
-* –––, 1994, “‘Vadunt plus inter sarracenos et tartaros’: Ramon Llull i Venècia”, in Lola Badia i Pàmies and Albert Soler, *Intel·lectuals i escriptors a la baixa Edat Mitjana*, Barcelona: Curial/Publicacions de l’Abadia de Montserrat, 49–68.
-* Trias Mercant, Sebastià, 1989, “Proyecto de sistematización de la etica luliana”, *Studia Lulliana*, 29: 45–58.
-* Urvoy, Dominique, 1980, *Penser l’Islam: Les présupposés islamiques de l’«Art» de Lull*, Paris: Vrin.
-* Vega [Esquerra], Amador, 2003, *Ramon Llull and the Secret of Life: An Introduction to the Philosophy of the Human Person*, New York, NY: Crossroad.
-* Villalba y Varneda, Pere, 2015, *Ramón Llull: escriptor i filòsof de la diferència: Palma de Mallorca, 1232–1316*, Barcelona: Universidad Autonoma de Barcelona.
-* Yates, Frances A. (ed.), 1982, *Lull and Bruno: Collected Essays*, volume 1, London/Boston: Routledge & Kegan Paul.
+* Sala-Molins, Louis, 1974, _La philosophie de l’amour chez Raymond Lulle_, Paris and The Hague: Mouton.
+* Saranyana, Josep-Ignasi, 2000, “Le vocabulaire philosophique en langue romane: les premiers écrits catalans de Ramon Llull”, in Jacqueline Hamesse and Carlos Steel (eds), _L’élaboration du vocabulaire philosophique au Moyen Âge_, Actes du Colloque International de Louvain-la-Neuve et Leuven, 12–14 septembre 1998, Turnhout: Brepols, 325–335.
+* Soler \[Llopart], Albert, 1992–3, “Els manuscrits lul·lians de Pere de Llemotges”, _Llengua i Literatura_, 5: 447–470.
+* –––, 1993, “Ramon Llull and Peter of Limoges”, _Traditio_, 48: 93–105. doi:10.1017/S0362152900012897
+* –––, 1994, “‘Vadunt plus inter sarracenos et tartaros’: Ramon Llull i Venècia”, in Lola Badia i Pàmies and Albert Soler, _Intel·lectuals i escriptors a la baixa Edat Mitjana_, Barcelona: Curial/Publicacions de l’Abadia de Montserrat, 49–68.
+* Trias Mercant, Sebastià, 1989, “Proyecto de sistematización de la etica luliana”, _Studia Lulliana_, 29: 45–58.
+* Urvoy, Dominique, 1980, _Penser l’Islam: Les présupposés islamiques de l’«Art» de Lull_, Paris: Vrin.
+* Vega \[Esquerra], Amador, 2003, _Ramon Llull and the Secret of Life: An Introduction to the Philosophy of the Human Person_, New York, NY: Crossroad.
+* Villalba y Varneda, Pere, 2015, _Ramón Llull: escriptor i filòsof de la diferència: Palma de Mallorca, 1232–1316_, Barcelona: Universidad Autonoma de Barcelona.
+* Yates, Frances A. (ed.), 1982, _Lull and Bruno: Collected Essays_, volume 1, London/Boston: Routledge & Kegan Paul.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=llull). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/llull/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=llull&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/llull/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=llull).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/llull/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=llull\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/llull/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [Base de datos Ramon Llull](https://www.ub.edu/llulldb/), maintained by Centre de documentació Ramon Llull (Facultat de Filolofia Catalana. Universitat de Barcelona), is an electronic bibliography aimed at systematizing and facilitating a search for all information regarding the Lullian or pseudo-Lullian opus. Provides information concerning the 265 authentic Lullian Works, reference to manuscripts, and a extensive bibliography.
-* [Biblioteca digital NARPAN.](http://www.narpan.net/bibliotecadigital/biblio-digital.html) Espai de literatura i cultura medieval coordinate by Sandurní Marti and Miriam Cabré (Universidad de Girona) has digital transcription and editions of Llull Works as *Ars demostrativa*, *Doctrina Pueril*, *Tabula general*, among others.
-* [Mnemonic Arts of Blessed Raymond Lull](http://lullianarts.narpan.net/), maintained by Yanis Dambergs, is a repository of Llull’s documents translated to English by Dambergs. The site include versions of the *Ars Brevis*, *Ars Generalis Ultima*, *The Book of Propositions*.
+* [Biblioteca digital NARPAN.](http://www.narpan.net/bibliotecadigital/biblio-digital.html) Espai de literatura i cultura medieval coordinate by Sandurní Marti and Miriam Cabré (Universidad de Girona) has digital transcription and editions of Llull Works as _Ars demostrativa_, _Doctrina Pueril_, _Tabula general_, among others.
+* [Mnemonic Arts of Blessed Raymond Lull](http://lullianarts.narpan.net/), maintained by Yanis Dambergs, is a repository of Llull’s documents translated to English by Dambergs. The site include versions of the _Ars Brevis_, _Ars Generalis Ultima_, _The Book of Propositions_.
 * [The Augsburg Web Edition of Llull’s Electoral Writings](http://www.uni-augsburg.de/llull/), maintained by the Institute of Mathematics of the University of Augsburg, exhibits the electoral writings of Ramon Lull: facsimiles, transcriptions, and translations of Llull’s three writings on electoral systems.
 * [Instituto Brasileiro de Filosofia e Ciência Raimundo Lúlio](http://www.ramonllull.net/). The site contains translations of Llull’s work in to Portuguese, publications and reference to research on Llull.
-* [The Freiburg manuscript database](https://www.theol.uni-freiburg.de/disciplinae/qtm/forschung/raimundus-lullus/projektbeschreibung-en) of the Freiburg University is a comprehensive collection of digitized manuscripts of Llull’s work.
+* [The Freiburg manuscript database](https://www.theol.uni-freiburg.de/disciplinae/qtm/forschung/raimundus-lullus/projektbeschreibung-en) of the Freiburg University is a comprehensive collection of digitized manuscripts of Llull’s work.
 
 ## Related Entries
 
-[Anselm of Canterbury [Anselm of Bec]](https://plato.stanford.edu/entries/anselm/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on the Latin West](https://plato.stanford.edu/entries/arabic-islamic-influence/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [Bonaventure](https://plato.stanford.edu/entries/bonaventure/) | [condemnation of 1277](https://plato.stanford.edu/entries/condemnation/) | [medieval philosophy](https://plato.stanford.edu/entries/medieval-philosophy/) | [Pseudo-Dionysius the Areopagite](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/)
+[Anselm of Canterbury \[Anselm of Bec\]](https://plato.stanford.edu/entries/anselm/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on the Latin West](https://plato.stanford.edu/entries/arabic-islamic-influence/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Augustine, Saint](https://plato.stanford.edu/entries/augustine/) | [Bonaventure](https://plato.stanford.edu/entries/bonaventure/) | [condemnation of 1277](https://plato.stanford.edu/entries/condemnation/) | [medieval philosophy](https://plato.stanford.edu/entries/medieval-philosophy/) | [Pseudo-Dionysius the Areopagite](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-Ernesto Priani <[*epriani@gmail.com*](mailto:epriani%40gmail%2ecom)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+Ernesto Priani <[_epriani@gmail.com_](mailto:epriani%40gmail%2ecom)>

@@ -1,6 +1,6 @@
 # 莱布尼茨的模态形而上学 modal metaphysics (Brandon C. Look)
 
-*首次发表于2008年5月23日，实质修订于2013年2月8日。*
+_首次发表于2008年5月23日，实质修订于2013年2月8日。_
 
 在关于莱布尼茨的主要文章中，声称莱布尼茨的哲学可以被视为对笛卡尔的物质实体理论和斯宾诺莎和霍布斯的必然主义的反应。本条目将讨论他哲学的第二个方面。在他的著作中，莱布尼茨发展了一种对模态问题（必然性、可能性、偶然性）的处理方法，这不仅在他的一般形而上学、认识论和哲学神学中起着重要作用，而且至今仍然具有持续的兴趣。事实上，有人认为 20 世纪模态逻辑的发展要么基于莱布尼茨的洞见，要么至少具有莱布尼茨的精神。
 
@@ -9,15 +9,14 @@
 * [3. 莱布尼茨的本质主义](https://plato.stanford.edu/entries/leibniz-modal/#LeiEss)
 * [4. 人类自由：确定性而无必然性](https://plato.stanford.edu/entries/leibniz-modal/#HumFreCerWitNec)
 * [5. 为什么是这个世界？](https://plato.stanford.edu/entries/leibniz-modal/#WhyWor)
-* [ 参考文献](https://plato.stanford.edu/entries/leibniz-modal/#Bib)
-
+* [参考文献](https://plato.stanford.edu/entries/leibniz-modal/#Bib)
   * [莱布尼茨的主要来源及缩写](https://plato.stanford.edu/entries/leibniz-modal/#PriSouForLeiAbb)
-  * [ 莱布尼茨的次要来源](https://plato.stanford.edu/entries/leibniz-modal/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/leibniz-modal/#Aca)
+  * [莱布尼茨的次要来源](https://plato.stanford.edu/entries/leibniz-modal/#SecSou)
+* [学术工具](https://plato.stanford.edu/entries/leibniz-modal/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/leibniz-modal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/leibniz-modal/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/leibniz-modal/#Rel)
 
----
+***
 
 ## 1. 个体与世界
 
@@ -35,7 +34,7 @@
 
 > 我认为有无限种可能的方式来创造世界，根据上帝可以形成的不同设计，每个可能的世界都取决于上帝的某些主要设计或目的，这些设计或目的是它的特点，即某些主要的自由决定（以可能性为前提）或某些与之一致并确定其概念的这个可能宇宙的一般秩序的法则，正如它们也确定了必须进入这个同样宇宙的所有个体物质的概念一样。（G II 51/L 333）
 
-莱布尼茨在这里的基本思想应该与我们的直觉密切一致。想象上帝考虑一个个体集合{a，b，c，d}。从上帝的角度来看，他可以选择用一组 L*的自然法则来实现这个世界，或者选择另一组法则 L**，而这个选择代表了两个可能世界之间的选择。这类似于我们说如果引力常数不同，我们将会有一个不同的世界。现在，这种说法并不完全正确，因为在莱布尼茨的观点中，不同的法则集最终会产生不同的属性和个体物质的感知。因此，严格来说，由 L*和 L**所统治的世界中的个体是不同的。
+莱布尼茨在这里的基本思想应该与我们的直觉密切一致。想象上帝考虑一个个体集合{a，b，c，d}。从上帝的角度来看，他可以选择用一组 L_的自然法则来实现这个世界，或者选择另一组法则 L\*\*，而这个选择代表了两个可能世界之间的选择。这类似于我们说如果引力常数不同，我们将会有一个不同的世界。现在，这种说法并不完全正确，因为在莱布尼茨的观点中，不同的法则集最终会产生不同的属性和个体物质的感知。因此，严格来说，由 L_和 L\*\*所统治的世界中的个体是不同的。
 
 莱布尼茨提到不同的法则统治不同的可能世界的原因是，法则系统及其效果作为上帝选择世界的标准。我们知道，对于莱布尼茨来说，上帝选择“最好的可能世界”。然而，在《形而上学演讲》的第 6 节中，我们了解到这意味着上帝选择了在假设（或法则）最简单且现象最丰富的世界。因此，虽然人们可能倾向于将自然法则视为个体物质的实际属性和感知的派生物，但实际上它们是上帝选择的对象。
 
@@ -100,7 +99,7 @@
 
 > 因为将会发现，关于恺撒的这个谓词的证明并不像数字或几何学的证明那样绝对，而是假设了上帝自由选择的事物的顺序，这个顺序基于上帝的第一个自由决定，即始终做最完美的事情，以及关于人性的上帝的决定，这是第一个决定的结果，即人将始终（虽然是自由的）做出看似最好的选择。但是，基于这些决定的每个真理都是有条件的，尽管它是确定的；因为这些决定不会改变事物的可能性，并且正如我已经说过的，尽管上帝总是选择最好的，但这并不妨碍某种不太完美的事物在本质上是可能的并且仍然存在，尽管它不会发生，因为它被拒绝的原因不是它的不可能性，而是它的不完美性。而没有任何一件事是必要的，如果它的相反是可能的。（A VI iv 1548/AG 46）
 
-这里的关键思想是，当一个命题在这个世界上是偶然真实的时候，它在某种程度上依赖于上帝的第一个自由旨意，也就是说，命题真实的原因应该在于这个特定世界的实现。在无限的世界书库中存在着另一个世界W *，如果上帝将那个世界W*带到现实中，命题P将是假的。换句话说，当一个命题在那个世界中是真的而在其他一些世界中是假的时候，它是偶然真实的。然而，正如上面提到的，莱布尼茨在这个时期的另一篇文章中将可能命题定义为在其分析中永远不会导致矛盾的命题，而根据他对世界的解释，这仅仅意味着该命题在某个世界中是真的。此外，由于必然真理不依赖于上帝的第一个自由旨意，而是通过分析揭示为恒等式，它们实际上是在所有可能的世界中都是真实的命题。因此，虽然我们的基本模态概念是通过真理的实在主义（即谓词-概念原则）和无限分析的概念（在偶然性的情况下）来解释的，但从可能世界语义学来看，这并不是一个很大的跳跃。
+这里的关键思想是，当一个命题在这个世界上是偶然真实的时候，它在某种程度上依赖于上帝的第一个自由旨意，也就是说，命题真实的原因应该在于这个特定世界的实现。在无限的世界书库中存在着另一个世界W _，如果上帝将那个世界W_带到现实中，命题P将是假的。换句话说，当一个命题在那个世界中是真的而在其他一些世界中是假的时候，它是偶然真实的。然而，正如上面提到的，莱布尼茨在这个时期的另一篇文章中将可能命题定义为在其分析中永远不会导致矛盾的命题，而根据他对世界的解释，这仅仅意味着该命题在某个世界中是真的。此外，由于必然真理不依赖于上帝的第一个自由旨意，而是通过分析揭示为恒等式，它们实际上是在所有可能的世界中都是真实的命题。因此，虽然我们的基本模态概念是通过真理的实在主义（即谓词-概念原则）和无限分析的概念（在偶然性的情况下）来解释的，但从可能世界语义学来看，这并不是一个很大的跳跃。
 
 莱布尼茨对必然和偶然真理之间区别的本质阐述能够以当代模态语义的术语进行翻译，这或许并不令人意外。因为莱布尼茨在《论自由》（De libertate... 1689?）中告诉我们，他最初是通过虚构世界的概念来思考可能性的本质，这些世界在某种程度上存在着一种脆弱的意义。“但是对于那些从未存在、不曾存在、将来也不会存在的可能性的考虑，使我从这个悬崖边缘（斯宾诺莎的必然主义）回到了现实。因为如果有某些从未存在的可能性，那么至少存在的事物就不总是必然的，否则其他事物就不可能存在于它们的位置，因此，从未存在的一切都将是不可能的。”（A VI iv 1653–54/AG 94）直到后来，他才开始以有限和无限分析的概念来理解必然和偶然真理之间的区别。因此，我们可以说无限分析的学说依赖于可能世界的无限性学说。
 
@@ -158,71 +157,71 @@
 
 ### Primary Sources for Leibniz with Abbreviations
 
-| [LLP] | *Logical Papers*. Translated and edited by G. H. R. Parkinson. Oxford: Clarendon Press, 1966. |
-| --- | --- |
-| [RB] | *New Essays on Human Understanding*. Translated by Peter Remnant and Jonathan Bennett. Cambridge: Cambridge University Press, 1981. |
-| [AG] | *Philosophical Essays*. Translated and edited by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989. |
-| [L] | *Philosophical Papers and Letters*. Edited and translated by Leroy E. Loemker. 2d ed., Dordrect: D. Reidel, 1969. |
-| [G] | *Die philosophischen Schriften*. 7 vols. Edited by C. I. Gerhardt. Berlin, 1875–90. Reprint, Hildesheim: Georg Olms, 1965. Cited by volume and page number |
-| [A] | *Sämtliche Schriften und Briefe*. Edited by the Deutsche Akademie der Wissenschaften zu Berlin. Darmstadt, 1923 ff., Leipzig, 1938 ff., Berlin, 1950 ff. Cited by Series (Reihe), Volume (Band), and page number. |
-| [H] | *Theodicy: Essays on the Goodness of God, the Freedom on Man and the Origin of Evil*. Translated by E. M. Huggard. La Salle, IL: Open Court, 1985. |
+| \[LLP] | _Logical Papers_. Translated and edited by G. H. R. Parkinson. Oxford: Clarendon Press, 1966.                                                                                                                     |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \[RB]  | _New Essays on Human Understanding_. Translated by Peter Remnant and Jonathan Bennett. Cambridge: Cambridge University Press, 1981.                                                                               |
+| \[AG]  | _Philosophical Essays_. Translated and edited by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989.                                                                                                      |
+| \[L]   | _Philosophical Papers and Letters_. Edited and translated by Leroy E. Loemker. 2d ed., Dordrect: D. Reidel, 1969.                                                                                                 |
+| \[G]   | _Die philosophischen Schriften_. 7 vols. Edited by C. I. Gerhardt. Berlin, 1875–90. Reprint, Hildesheim: Georg Olms, 1965. Cited by volume and page number                                                        |
+| \[A]   | _Sämtliche Schriften und Briefe_. Edited by the Deutsche Akademie der Wissenschaften zu Berlin. Darmstadt, 1923 ff., Leipzig, 1938 ff., Berlin, 1950 ff. Cited by Series (Reihe), Volume (Band), and page number. |
+| \[H]   | _Theodicy: Essays on the Goodness of God, the Freedom on Man and the Origin of Evil_. Translated by E. M. Huggard. La Salle, IL: Open Court, 1985.                                                                |
 
 ### Secondary Sources
 
-See also the main entry on [Leibniz](https://plato.stanford.edu/entries/leibniz/).
+See also the main entry on [Leibniz](https://plato.stanford.edu/entries/leibniz/).
 
-* Adams, Robert Merrihew, 1974. “Theories of Actuality,” *Noûs*, 8(3): 211–31.
-* Adams, Robert Merrihew, 1994 *Leibniz: Determinist, Theist, Idealist*, Oxford: Oxford University Press.
-* Blumenfeld, D., 1973. “Leibniz's Theory of Striving Possibles,” *Studia Leibnitiana*, 5: 163–77.
-* Brown, Gregory, 1987. “Compossibility, Harmony, and Perfection in Leibniz,” *The Philosophical Review*, 96(2): 173–203.
-* Burkhardt, Hans, 1980. *Logik und Semiotik in der Philosophie von Leibniz*. Munich: Philosophia Verlag.
-* Burkhardt, Hans, 1988. “Modalities in language, thought and reality in Leibniz, Descartes and Crusius,” *Synthese*, 75(2): 183–215.
-* Carnap, Rudolf, 1956. *Meaning and Necessity: A Study in Semantics and Modal Logic*, second edition, Chicago: University of Chicago Press.
-* Cover, J.A. and O'Leary-Hawthorne, John, 1999. *Substance and Individuation in Leibniz*, Cambridge: Cambridge University Press.
-* Curley, Edwin, 1972. “The Root of Contingency,” In Harry G. Frankfurt ( ed.), *Leibniz: A Collection of Critical Essays*, New York: Doubleday, pp. 69–97.
-* Fitch, Gregory, 1979. “Analyticity and Necessity in Leibniz,” *Journal of the History of Philosophy*, 17: 29–42.
-* Hooker, Michael (ed.), 1982. *Leibniz: Critical and Interpretive Essays*, Minneapolis: University of Minnesota Press.
-* Ishiguro, Hidé, 1990. *Leibniz's Philosophy of Logic and Language*, 2nd ed., Cambridge: Cambridge University Press.
-* Jauernig, Anja, 2008. “The Modal Strength of Leibniz's Principle of the Identity of Indiscernibles,” *Oxford Studies in Early Modern Philosophy*, IV: 191–225.
-* Jolley, Nicholas (ed.), 1995. *The Cambridge Companion to Leibniz*, Cambridge: Cambridge University Press.
-* Kauppi, Raili, 1960. *Über die Leibnizsche Logik*, Acta Philosophica Fennica, fasc. 12. Helsinki.
-* Lewis, D., 1986. *On the Plurality of Worlds*, Oxford, Basil Blackwell.
-* Lin, Martin, 2012. “Rationalism and Necessitarianism,” *Noûs*, 46(3): 418–448.
-* Look, Brandon, 2005. “Leibniz and the Shelf of Essence,” *The Leibniz Review*, 15: 27–47.
-* Mates, Benson, 1972. “Individuals and Modality in the Philosophy of Leibniz,” *Studia Leibnitiana*, IV: 81–118.
-* Mates, Benson, 1986. *The Philosophy of Leibniz: Metaphysics and Language*, Oxford: Oxford University Press.
-* Mondadori, Fabrizio, 1973. “Reference, Essentialism, and Modality in Leibniz's Metaphysics,” *Studia Leibnitiana*, V: 74–101.
-* Mondadori, Fabrizio, 1985. “Understanding Superessentialism,” *Studia Leibnitiana*, XVII: 162–190.
-* Mondadori, Fabrizio, 1993. “On Some Disputed Questions in Leibniz's Metaphysics,” *Studia Leibnitiana*, XXV: 153–73.
-* Nachtomy, Ohad, 2007. *Possibility, Agency, and Individuality in Leibniz's Metaphysics*, Dordrecht: Springer.
-* Parkinson, G.H.R., 1965. *Logic and Reality in Leibniz's Metaphysics*, Oxford: Clarendon Press.
-* Plantinga, Alvin, 1974. *The Nature of Necessity*, Oxford: Clarendon Press.
-* Rauzy, Jean-Baptiste, 2001. *La doctrine Leibnizienne de la vérité: Aspects logiques et ontologiques*, Paris: J. Vrin.
-* Russell, Bertrand, 1937. *A Critical Exposition of the Philosophy of Leibniz*, 2nd ed., London: Allen & Unwin.
-* Schepers, Heinrich, 1965. “Zum Problem der Kontingenz bei Leibniz: Die beste der möglichen Welten,” in *Collegium Philosophicum: Joachim Ritter zum 60. Geburtstag*, Basel and Stuttgart: Schwabe, 326–350.
-* Shields, Christopher, 1986. “Leibniz's Doctrine of Striving Possibles,” *Journal of the History of Philosophy*, 24: 343–59.
-* Sleigh, R. C., Jr., 1990. *Leibniz and Arnauld: A Commentary on Their Correspondence*, New Haven: Yale University Press.
-* Wilson, Catherine, 1989. *Leibniz's Metaphysics: A Historical and Comparative Study*, Manchester: Manchester University Press.
-* Wilson, Catherine, 2000. “Plenitude and Compossibility in Leibniz,” *The Leibniz Review*, 10: 1–20.
-* Wilson, Margaret D., 1978/9. “Possible Gods,” *Review of Metaphysics*, 32: 717–33. Reprinted in M. Wilson 1999.
-* Wilson, Margaret D., 1999. *Ideas and Mechanism: Essays on Early Modern Philosophy*, Princeton: Princeton University Press.
-* Zalta, Edward, 2000. “A (Leibnizian) Theory of Concepts,” *Philosophiegeschichte und logische Analyse* / *Logical Analysis and History of Philosophy*, 3: 137–183.
+* Adams, Robert Merrihew, 1974. “Theories of Actuality,” _Noûs_, 8(3): 211–31.
+* Adams, Robert Merrihew, 1994 _Leibniz: Determinist, Theist, Idealist_, Oxford: Oxford University Press.
+* Blumenfeld, D., 1973. “Leibniz's Theory of Striving Possibles,” _Studia Leibnitiana_, 5: 163–77.
+* Brown, Gregory, 1987. “Compossibility, Harmony, and Perfection in Leibniz,” _The Philosophical Review_, 96(2): 173–203.
+* Burkhardt, Hans, 1980. _Logik und Semiotik in der Philosophie von Leibniz_. Munich: Philosophia Verlag.
+* Burkhardt, Hans, 1988. “Modalities in language, thought and reality in Leibniz, Descartes and Crusius,” _Synthese_, 75(2): 183–215.
+* Carnap, Rudolf, 1956. _Meaning and Necessity: A Study in Semantics and Modal Logic_, second edition, Chicago: University of Chicago Press.
+* Cover, J.A. and O'Leary-Hawthorne, John, 1999. _Substance and Individuation in Leibniz_, Cambridge: Cambridge University Press.
+* Curley, Edwin, 1972. “The Root of Contingency,” In Harry G. Frankfurt ( ed.), _Leibniz: A Collection of Critical Essays_, New York: Doubleday, pp. 69–97.
+* Fitch, Gregory, 1979. “Analyticity and Necessity in Leibniz,” _Journal of the History of Philosophy_, 17: 29–42.
+* Hooker, Michael (ed.), 1982. _Leibniz: Critical and Interpretive Essays_, Minneapolis: University of Minnesota Press.
+* Ishiguro, Hidé, 1990. _Leibniz's Philosophy of Logic and Language_, 2nd ed., Cambridge: Cambridge University Press.
+* Jauernig, Anja, 2008. “The Modal Strength of Leibniz's Principle of the Identity of Indiscernibles,” _Oxford Studies in Early Modern Philosophy_, IV: 191–225.
+* Jolley, Nicholas (ed.), 1995. _The Cambridge Companion to Leibniz_, Cambridge: Cambridge University Press.
+* Kauppi, Raili, 1960. _Über die Leibnizsche Logik_, Acta Philosophica Fennica, fasc. 12. Helsinki.
+* Lewis, D., 1986. _On the Plurality of Worlds_, Oxford, Basil Blackwell.
+* Lin, Martin, 2012. “Rationalism and Necessitarianism,” _Noûs_, 46(3): 418–448.
+* Look, Brandon, 2005. “Leibniz and the Shelf of Essence,” _The Leibniz Review_, 15: 27–47.
+* Mates, Benson, 1972. “Individuals and Modality in the Philosophy of Leibniz,” _Studia Leibnitiana_, IV: 81–118.
+* Mates, Benson, 1986. _The Philosophy of Leibniz: Metaphysics and Language_, Oxford: Oxford University Press.
+* Mondadori, Fabrizio, 1973. “Reference, Essentialism, and Modality in Leibniz's Metaphysics,” _Studia Leibnitiana_, V: 74–101.
+* Mondadori, Fabrizio, 1985. “Understanding Superessentialism,” _Studia Leibnitiana_, XVII: 162–190.
+* Mondadori, Fabrizio, 1993. “On Some Disputed Questions in Leibniz's Metaphysics,” _Studia Leibnitiana_, XXV: 153–73.
+* Nachtomy, Ohad, 2007. _Possibility, Agency, and Individuality in Leibniz's Metaphysics_, Dordrecht: Springer.
+* Parkinson, G.H.R., 1965. _Logic and Reality in Leibniz's Metaphysics_, Oxford: Clarendon Press.
+* Plantinga, Alvin, 1974. _The Nature of Necessity_, Oxford: Clarendon Press.
+* Rauzy, Jean-Baptiste, 2001. _La doctrine Leibnizienne de la vérité: Aspects logiques et ontologiques_, Paris: J. Vrin.
+* Russell, Bertrand, 1937. _A Critical Exposition of the Philosophy of Leibniz_, 2nd ed., London: Allen & Unwin.
+* Schepers, Heinrich, 1965. “Zum Problem der Kontingenz bei Leibniz: Die beste der möglichen Welten,” in _Collegium Philosophicum: Joachim Ritter zum 60. Geburtstag_, Basel and Stuttgart: Schwabe, 326–350.
+* Shields, Christopher, 1986. “Leibniz's Doctrine of Striving Possibles,” _Journal of the History of Philosophy_, 24: 343–59.
+* Sleigh, R. C., Jr., 1990. _Leibniz and Arnauld: A Commentary on Their Correspondence_, New Haven: Yale University Press.
+* Wilson, Catherine, 1989. _Leibniz's Metaphysics: A Historical and Comparative Study_, Manchester: Manchester University Press.
+* Wilson, Catherine, 2000. “Plenitude and Compossibility in Leibniz,” _The Leibniz Review_, 10: 1–20.
+* Wilson, Margaret D., 1978/9. “Possible Gods,” _Review of Metaphysics_, 32: 717–33. Reprinted in M. Wilson 1999.
+* Wilson, Margaret D., 1999. _Ideas and Mechanism: Essays on Early Modern Philosophy_, Princeton: Princeton University Press.
+* Zalta, Edward, 2000. “A (Leibnizian) Theory of Concepts,” _Philosophiegeschichte und logische Analyse_ / _Logical Analysis and History of Philosophy_, 3: 137–183.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz-modal). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/leibniz-modal/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=leibniz-modal&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/leibniz-modal/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz-modal).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/leibniz-modal/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=leibniz-modal\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/leibniz-modal/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Continental Rationalism](https://plato.stanford.edu/entries/continental-rationalism/) | [Descartes, René: modal metaphysics](https://plato.stanford.edu/entries/descartes-modal/) | [evil: problem of](https://plato.stanford.edu/entries/evil/) | [fictionalism: modal](https://plato.stanford.edu/entries/fictionalism-modal/) | [identity: of indiscernibles](https://plato.stanford.edu/entries/identity-indiscernible/) | [identity: transworld](https://plato.stanford.edu/entries/identity-transworld/) | [Kant, Immanuel: and Leibniz](https://plato.stanford.edu/entries/kant-leibniz/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Leibniz, Gottfried Wilhelm: ethics](https://plato.stanford.edu/entries/leibniz-ethics/) | [Leibniz, Gottfried Wilhelm: on causation](https://plato.stanford.edu/entries/leibniz-causation/) | [Leibniz, Gottfried Wilhelm: on the problem of evil](https://plato.stanford.edu/entries/leibniz-evil/) | [Leibniz, Gottfried Wilhelm: philosophy of mind](https://plato.stanford.edu/entries/leibniz-mind/) | [Leibniz, Gottfried Wilhelm: philosophy of physics](https://plato.stanford.edu/entries/leibniz-physics/) | [logic, history of: modal logic](https://plato.stanford.edu/entries/logic-modal-origins/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [modality: epistemology of](https://plato.stanford.edu/entries/modality-epistemology/) | [modality: medieval theories of](https://plato.stanford.edu/entries/modality-medieval/) | [multi-modal logic, philosophical aspects of](https://plato.stanford.edu/entries/phil-multimodallogic/) | [Newton, Isaac: philosophy](https://plato.stanford.edu/entries/newton-philosophy/) | [possibilism-actualism debate](https://plato.stanford.edu/entries/possibilism-actualism/) | [possible objects](https://plato.stanford.edu/entries/possible-objects/) | [quantum mechanics: modal interpretations of](https://plato.stanford.edu/entries/qm-modal/) | [Spinoza, Baruch: modal metaphysics](https://plato.stanford.edu/entries/spinoza-modal/)
+[Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Continental Rationalism](https://plato.stanford.edu/entries/continental-rationalism/) | [Descartes, René: modal metaphysics](https://plato.stanford.edu/entries/descartes-modal/) | [evil: problem of](https://plato.stanford.edu/entries/evil/) | [fictionalism: modal](https://plato.stanford.edu/entries/fictionalism-modal/) | [identity: of indiscernibles](https://plato.stanford.edu/entries/identity-indiscernible/) | [identity: transworld](https://plato.stanford.edu/entries/identity-transworld/) | [Kant, Immanuel: and Leibniz](https://plato.stanford.edu/entries/kant-leibniz/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Leibniz, Gottfried Wilhelm: ethics](https://plato.stanford.edu/entries/leibniz-ethics/) | [Leibniz, Gottfried Wilhelm: on causation](https://plato.stanford.edu/entries/leibniz-causation/) | [Leibniz, Gottfried Wilhelm: on the problem of evil](https://plato.stanford.edu/entries/leibniz-evil/) | [Leibniz, Gottfried Wilhelm: philosophy of mind](https://plato.stanford.edu/entries/leibniz-mind/) | [Leibniz, Gottfried Wilhelm: philosophy of physics](https://plato.stanford.edu/entries/leibniz-physics/) | [logic, history of: modal logic](https://plato.stanford.edu/entries/logic-modal-origins/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [modality: epistemology of](https://plato.stanford.edu/entries/modality-epistemology/) | [modality: medieval theories of](https://plato.stanford.edu/entries/modality-medieval/) | [multi-modal logic, philosophical aspects of](https://plato.stanford.edu/entries/phil-multimodallogic/) | [Newton, Isaac: philosophy](https://plato.stanford.edu/entries/newton-philosophy/) | [possibilism-actualism debate](https://plato.stanford.edu/entries/possibilism-actualism/) | [possible objects](https://plato.stanford.edu/entries/possible-objects/) | [quantum mechanics: modal interpretations of](https://plato.stanford.edu/entries/qm-modal/) | [Spinoza, Baruch: modal metaphysics](https://plato.stanford.edu/entries/spinoza-modal/)
 
-[Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
-[Brandon C. Look](http://www.uky.edu/~look) <[*look@uky.edu*](mailto:look%40uky%2eedu)>
+[Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
+[Brandon C. Look](http://www.uky.edu/\~look) <[_look@uky.edu_](mailto:look%40uky%2eedu)>
