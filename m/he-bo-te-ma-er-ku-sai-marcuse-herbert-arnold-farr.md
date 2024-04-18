@@ -1,2 +1,409 @@
 # 赫伯特·马尔库塞 Marcuse, Herbert (Arnold Farr)
 
+*首次发表于2013年12月18日，实质修订于2019年4月10日。*
+
+赫伯特·马尔库塞（1898-1979）是法兰克福学派或法兰克福社会研究所（Institute für Sozialforschung）的最杰出成员之一。法兰克福学派成立于 1922 年，但在第三帝国统治下的 30 年代初期流亡到美国。尽管他的大部分同事在二战后返回德国，马尔库塞仍留在美国。
+
+法兰克福学派对美国以及全世界的哲学、社会和政治理论产生了巨大影响。在 20 世纪 60 年代，马尔库塞崭露头角，成为世界上最知名的哲学家和社会理论家之一。他经常被称为新左派的导师（他本人拒绝这个称号）。在 20 世纪 70 年代末到 90 年代期间，随着第二和第三代批判理论家、后现代主义、罗尔斯式自由主义以及他的前同事泰奥多尔·阿多诺和瓦尔特·本雅明的崛起，马尔库塞的声望开始下降。近年来，对马尔库塞的兴趣再度高涨。
+
+* [ 1. 解释](https://plato.stanford.edu/entries/marcuse/#Bio)
+* [2. 美学维度](https://plato.stanford.edu/entries/marcuse/#AesDim)
+* [3. 寻求马克思主义和激进主体的哲学基础](https://plato.stanford.edu/entries/marcuse/#SeaForPhiFouForMarRadSub)
+
+  * [3.1 现象学马克思主义](https://plato.stanford.edu/entries/marcuse/#PheMar)
+  * [3.2 哲学人类学与激进主体性](https://plato.stanford.edu/entries/marcuse/#PhiAntRadSub)
+  * [3.3 负面（辩证）思维与社会变革](https://plato.stanford.edu/entries/marcuse/#NegDiaThiSocCha)
+* [4. 精神分析与乌托邦愿景](https://plato.stanford.edu/entries/marcuse/#PsyUtoVis)
+
+  * [4.1 人类驱动力的历史和社会性质](https://plato.stanford.edu/entries/marcuse/#HisSocNatHumDri)
+  * [ 4.2 压抑](https://plato.stanford.edu/entries/marcuse/#Rep)
+  * [4.3 爱和理性](https://plato.stanford.edu/entries/marcuse/#EroLog)
+  * [4.4 稀缺的意识形态](https://plato.stanford.edu/entries/marcuse/#IdeSca)
+  * [4.5 幻想、乌托邦和满足的理性](https://plato.stanford.edu/entries/marcuse/#FanUtoRatGra)
+* [5. 单维思维与民主的拒绝](https://plato.stanford.edu/entries/marcuse/#OneDimThiDemRejDem)
+* [6. 技术的辩证法](https://plato.stanford.edu/entries/marcuse/#DiaTec)
+* [7. 解放的幽灵：巨大的拒绝和新的感性](https://plato.stanford.edu/entries/marcuse/#SpeLibGreRefNewSen)
+* [8. 赫伯特·马尔库塞与女性主义](https://plato.stanford.edu/entries/marcuse/#MarFem)
+* [ 参考文献](https://plato.stanford.edu/entries/marcuse/#Bib)
+
+  * [ 主要来源](https://plato.stanford.edu/entries/marcuse/#PriSou)
+  * [ 次要来源](https://plato.stanford.edu/entries/marcuse/#SecSou)
+  * [ 其他引用的作品](https://plato.stanford.edu/entries/marcuse/#OthWorCit)
+* [ 学术工具](https://plato.stanford.edu/entries/marcuse/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/marcuse/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/marcuse/#Rel)
+
+---
+
+## 1. 传记
+
+赫伯特·马尔库塞于 1898 年 7 月 19 日出生在柏林。他的母亲名叫格特鲁德·克雷斯劳斯基，父亲是一位富有的商人卡尔·马尔库塞。根据马尔库塞的说法，他的童年是一个典型的德国中上层阶级的青年，他的犹太家庭在德国社会中融入得很好（凯尔纳 1984 年：13）。马尔库塞的正式教育始于莫姆森中学，并在 1911 年至 1916 年间继续在夏洛滕堡的凯撒奥古斯塔中学就读。1916 年，马尔库塞被征召入伍。正是在军队中，他开始接受政治教育，尽管在这个时期他的政治参与很短暂。战争和德国革命的经历使马尔库塞开始研究马克思主义，试图理解“资本主义和帝国主义的动力，以及德国革命的失败”（凯尔纳 1984 年：17）。马尔库塞还想更多地了解社会主义和马克思主义革命理论，以便理解自己当时无法与任何主要左翼党派产生共鸣的原因（凯尔纳 1984 年：17）。然而，这段对马克思主义的研究是短暂的。1918 年，马尔库塞被解除了军队服役。
+
+1919 年，他进入柏林洪堡大学，并修读了四个学期的课程。1920 年，他转到弗莱堡专攻德国文学，并修读哲学、政治和经济学课程。这段学习期间，他完成了一篇名为《德国艺术家小说》的博士论文，该论文于 1922 年被接受（Kellner 1984: 18）。这项工作成为马尔库塞终身从事美学研究的第一步。
+
+在博士论文被接受后，马尔库塞回到柏林，“他的父亲为他提供了一间公寓和一家出版和古旧书籍经营的股份”（Wiggershaus 1994: 96）。马尔库塞主要从事目录研究和编目工作，并于 1925 年出版了一本席勒的书目（Kellner 1984: 32–33）。1924 年，马尔库塞与他的第一任妻子 Sophie 结婚。
+
+在柏林期间，赫伯特·马尔库塞在 1927 年与一位朋友开始阅读马丁·海德格尔新出版的《存在与时间》。尽管马尔库塞已经是哲学学生，但他对哲学的兴趣一直次于对德国文学的兴趣。《存在与时间》引起的激动使马尔库塞终身投身于哲学的严肃研究。根据道格拉斯·凯尔纳的说法，从对艺术的主要关注转向对哲学的更深入参与表明，马尔库塞对艺术作为“认知知识的源泉和个人解放与社会变革的工具”的力量持有一定的怀疑态度（凯尔纳 1984 年：36-37）。海德格尔的影响如此之大，以至于马尔库塞在 1928 年返回弗莱堡，与海德格尔和埃德蒙·胡塞尔一起研究哲学。在弗莱堡期间，马尔库塞担任海德格尔的助手，并开始撰写他的第二篇论文《黑格尔的本体论与历史性理论的基础》（1932 年[1987]）。尽管这篇论文从未得到海德格尔的批准（根据马尔库塞的说法，也许没有被阅读），但它于 1932 年出版。
+
+1932 年，由于海德格尔对国家社会主义的兴趣日益增长，马尔库塞与他分道扬镳，尽管海德格尔直到 1933 年才正式加入纳粹党。随着纳粹党的崛起和反犹太主义的蔓延，马尔库塞明白他“永远无法在纳粹政权下获得教授职位的资格”（凯尔纳 1984 年：92）。鉴于他的处境，马尔库塞开始咨询法兰克福社会研究所的就业问题。在面试后，得到埃德蒙·胡塞尔的支持信以及研究所成员（利奥·洛文塔尔）的支持后，马尔库塞被聘用（维格斯豪斯 1994 年：104；凯尔纳 1984 年：92）。
+
+由于纳粹活动，赫伯特·马尔库塞实际上从未在法兰克福工作过。预见到法西斯接管，研究所将他们的捐赠存放在荷兰。在日内瓦设立了一个分支机构，马尔库塞在那里开始了与研究所的合作。他曾短暂去巴黎，最后于 1934 年 7 月前往纽约。从 1934 年至 1942 年，马尔库塞在哥伦比亚大学的研究所分支机构工作。1942 年，他搬到华盛顿特区，先后在战争情报局和战略情报局工作。后来，马尔库塞在布兰迪斯大学和加利福尼亚大学圣地亚哥分校任教。他于 1940 年成为美国公民，并一直居住在美国直到 1979 年去世。
+
+## 2. 美学维度
+
+马尔库塞的文学、哲学和政治生涯的两个极点都是关于美学的作品。1922 年，他完成了一篇名为《德国艺术家小说》的博士论文。在他去世前一年的 1978 年，他出版了《美学维度：走向马克思主义美学批判》。在这两部作品之间，还有几部关于美学的小作品。然而，即使是那些没有直接涉及美学的作品，仍然包含（我们可以说）一种美学维度。不可能在所有马尔库塞的作品中讨论美学的作用。因此，将讨论美学在马尔库塞的批判理论中的总体作用。有三部关于美学的关键作品是在不同时间写的，揭示了马尔库塞美学理论的总体观点。
+
+即使在年轻时，赫伯特·马尔库塞对德国和世界文学经典就有着热爱（马尔库塞 2007a：4）。在完成兵役并经历短暂的政治参与后，马尔库塞回到了他的文学研究中。然而，在阅读马克思主义之后，马尔库塞的文学研究具有了决定性的政治取向。他对艺术的革命性和变革性功能感兴趣。
+
+这种转向艺术和文学是对早期热爱的回归，但有了新的使命。这个新的使命当然是受到他与马克思主义的相遇和马克思主义危机的启发。转向文学也是对革命性主体性的追求。换句话说，在他的整个文学生涯中，马尔库塞一直在寻找那些没有被资本主义的压迫和镇压力量完全削弱的批判意识的空间。革命和社会变革需要一个思考和行动的空间，使得对现状的抵抗成为可能。在他开始使用“伟大的拒绝”这个术语之前，他就一直在寻找这样的空间。
+
+在他1922年的论文《德国艺术家小说》中，艺术家代表了一种激进的主体性形式。马尔库塞在这部作品中区分了史诗诗歌和小说。史诗诗歌涉及一个民族和文化的起源和发展，而小说并不关注一个民族的生活形式和他们的发展，而是关注一种渴望和奋斗的感觉（马尔库塞2007a：72）。小说表明了对社会生活的疏离感。马尔库塞的论点细节将不在此处讨论。重点是要显示出马尔库塞在他1922年的论文中存在一种思维取向，这种取向受到他与马克思主义的接触所激发，并将随着他的项目变得更加哲学而保持下去。简而言之，艺术家在理想与现实之间经历了一种差距。在生活条件远不理想的情况下，至少在理论上能够设想出人类理想存在的形式，这在艺术家中产生了一种疏离感。这种疏离成为社会变革的催化剂。这种艺术的功能一直伴随着马尔库塞，并将在他与精神分析和哲学的接触中进一步发展。
+
+作为一位辩证思想家，赫伯特·马尔库塞能够看到事物的两面。也就是说，尽管艺术体现了革命的潜力，但它也是在一个压抑的社会中产生、解释和分发的。在一个压迫/压制的社会中，解放力量和统治力量并不是孤立地发展。相反，它们在一种辩证的关系中发展，其中一个产生了另一个的条件。这可以在马尔库塞的几乎所有著作中看到，并将在本文的不同部分指出。这里的任务是看看在马尔库塞的美学理论背景下，解放和统治的这种辩证关系是如何发生的。这并不意味着人类永远不会从统治力量中解放出来。这只是意味着，如果一个个体或群体寻求解放，他们对社会的分析或批判必须与当下社会的实际运作方式相符，才有可能实现任何形式的解放。正如马尔库塞所看到的，有一种意识形态既服务于统治，又同时创造了解放的条件。这将在后面讨论。此外，有一种解放形式容易被统治力量利用。
+
+正如艺术体现了解放的潜力和激进主体性的形成，它也能够被统治系统所利用，进一步加强或维持统治。这是马尔库塞1937年的论文《文化的肯定性特征》的主题。文化作为艺术的领域，与给定社会的整体结构相互发展。文化所产生的价值观和理想呼吁超越压迫性的社会现实。文化将自身与社会秩序分离开来。也就是说，社会领域或文明以劳动、工作日、必要领域、操作性思维等为特征（马尔库塞1965年：16）。这是真实的物质和社会关系以及生存斗争的领域。文化领域或文明以知识工作、休闲、非操作性思维和自由为特征（马尔库塞1965年：16）。在文化层面上产生的思考和反思自由，使得构建挑战社会秩序的价值观和理想成为可能。这是艺术的解放功能。然而，艺术本身并不能带来解放；它必须转化为政治行动。尽管如此，艺术很重要，因为它为思考开辟了空间，从而可能产生革命。
+
+文化与社会之间的分离并不意味着逃避社会现实。相反，它代表了社会现实中的一个异化或批判空间。文化产生的理想必须在社会中作为变革的思想发挥作用。在《文化的肯定性特征》中，赫伯特·马尔库塞以辩证的方式展示了文化如何与社会或文明分离，并创造了批判思想和社会变革的空间，但随后屈服于资产阶级社会的压迫要求。它通过“将‘文化’与日常世界分离”来实现这一点（马尔库塞 2007a：23）。在肯定性文化中，艺术成为精神沉思的对象。对现实世界中幸福的需求被放弃，转而追求内在形式的幸福，即灵魂的幸福。因此，资产阶级文化创造了人类内在的空间，可以实现文化的最高理想。这种内在的转变并不要求对现实世界及其物质条件进行外在的转变。
+
+在这样一个社会中，培养灵魂成为教育的重要组成部分。相信灵魂比身体和物质需求更重要，导致政治上的放弃，因为自由变得内在化。“灵魂在理论的严酷真理面前飞翔，这揭示了改变贫乏存在形式的必要性”（马尔库塞 2007b：222）。因此，灵魂接受其物质存在的事实，而不努力改变这些事实。肯定性文化及其对灵魂的理念已经利用艺术来抹去激进的主体性。
+
+在他的最后一本书《美学维度》（1978 年）中，赫伯特·马尔库塞继续试图拯救艺术的激进转化性质。在这本书中，他对正统马克思主义者对艺术功能的问题解释采取了抨击的立场。这些马克思主义者声称只有无产阶级艺术才能是革命的。马尔库塞试图通过确立真正艺术的自主性来建立所有艺术的革命潜力。马尔库塞说：“似乎艺术作为艺术表达了一种真理、一种经验、一种必要性，尽管不属于激进实践的领域，但它们仍然是革命的基本组成部分”（马尔库塞 1978 年：1）。艺术试图表达的经验是马尔库塞将要关注的，也是他与正统马克思主义者的区别所在。
+
+必须记住，对于赫伯特·马尔库塞和法兰克福学派来说，没有证据表明无产阶级会起来反抗压迫者。除了发展揭示社会和心理机制的理论，揭示了使无产阶级成为自己统治的同谋的社会和心理机制，马尔库塞还在多个地方看到了革命的可能性。其中一些将在后面讨论。20 世纪 60 年代的学生起义从早期就证实了马尔库塞批判理论的许多方向。也就是说，社会变革的需要包括阶级斗争，但不能简化为阶级斗争。我们社会中有多种社会群体出于各种原因寻求社会变革。存在多种形式的压迫和镇压，使得革命变得可取。因此，所产生的艺术形式及其革命愿景可能由多种被压迫/被镇压的主体地位决定。
+
+正统马克思主义将焦点放在无产阶级上，排除了其他可能的革命场所。因此，正统马克思主义本身成为一种意识形态，并产生了一种具体化的事态。在正统马克思主义美学中
+
+> 个体的主观性，他们自己的意识和无意识往往会溶解为阶级意识。因此，革命的一个重要前提被最小化了，即彻底改变的需求必须根植于个体自身的主观性、智慧、激情、驱动力和目标。（赫伯特·马尔库塞 1978 年：3-4）
+
+在正统的马克思主义中，激进的主观性被简化为一个社会群体，即无产阶级。马尔库塞大大扩展了激进主观性可能出现的空间。马尔库塞认为，“解放的主观性在个体的内在历史中构成自身”（赫伯特·马尔库塞 1978 年：5）。每个主体与其他主体不同，代表着特定的主体位置。例如：白人女性、工人阶级、两个孩子的母亲、出生于中西部等。然而，每个个体主体的不同特征都对应着一个结构位置。也就是说，在一个给定的社会中，性别、种族、阶级、教育水平等都以某种方式被解释。经历和由此提供的机会往往受到主体和结构位置的影响，并产生了马尔库塞所称的“个体的内在历史”（赫伯特·马尔库塞 1978 年：5）。
+
+鉴于有许多被压制和非人性化的主体位置，激进的主观性和艺术可能来自于任何这些位置。经济阶级只是众多结构位置中的一个。因此，不仅无产阶级可能对社会变革有兴趣。
+
+## 3. 寻求马克思主义和激进主体的哲学基础
+
+### 3.1 现象学马克思主义
+
+在阅读海德格尔的《存在与时间》并在军队时已受到马克思主义影响的启发下，马尔库塞于 1928 年前往弗莱堡与海德格尔学习。在 1928 年至 1932 年期间，他试图发展被称为海德格尔式或现象学马克思主义的项目。这个项目是马尔库塞对所谓的“马克思主义危机”的回应。
+
+早在 20 世纪初，马克思预测的无产阶级革命似乎不会发生。欧洲曾经见证了几次失败的革命尝试。1917 年的布尔什维克革命并非由无产阶级领导，只是产生了另一种形式的极权主义。
+
+> 毫无疑问，马尔库塞无疑接受了罗莎·卢森堡对列宁先锋主义威权主义含义的尖锐批评。事实上，大多数欧洲社会主义者认为列宁的自愿主义在西欧和中欧是不合适的，因为那里存在着更先进和经验丰富的无产阶级。（沃林 2005：xiv）
+
+这种情况导致了马克思主义的政治危机。
+
+马克思主义的政治危机与其认识论危机纠缠在一起（Wolin 2005: xiv）。认识论危机是马克思主义科学唯物主义的结果，这种科学唯物主义受到恩格斯和卡尔·考茨基的鼓励（马尔库塞 2005: xiv）。所谓的科学马克思主义是一种非哲学的、机械论的马克思主义理论形式，它教导资本主义的不可避免、自动崩溃。这种理论形式在一定程度上是非革命性的，因为它“淡化了工人阶级意识的主观因素”（马尔库塞 2005: xiv）。第二国际产生了一种实证主义形式，消除了马克思主义的辩证法方法，并抹去了人类主体性的作用。也就是说，如果资本主义的崩溃是由于某些自然法则的影响而不是由于无产阶级有意识、有意愿的努力，那么就没有必要为革命意识的发展而努力。
+
+马尔库塞的整个项目可以看作是试图拯救激进的、具有社会变革性的主体性。他倾向于马克思主义，因为马克思主义试图从资本主义的再现性压迫力量中拯救主体性或人性。不幸的是，第二国际的马克思主义也抹去了人类主体性，因为这种形式的马克思主义变得机械论性质。正是在这种主体性和人类行动力被削弱的背景下，马尔库塞转向海德格尔寻求可能的解决方案。马尔库塞在马克思和海德格尔中看到了“对激进行动的需求”（Wolin 2001: 146）。
+
+> 对于马克思来说，这种需求采取了“实践”，即“革命的、实践性的批判活动”。基于真实的时间性，存在也要求对异化社会存在的现实做出激进的回应（Wolin 2001: 147）。
+
+对于赫伯特·马尔库塞来说，需要采取激进行动来克服先进工业社会的压迫、压制和再现的结构。他认为在这个问题上，马克思和海德格尔有共同的立场。在他的职业生涯的这个阶段，马尔库塞通过三个视角来阅读先进工业社会的压迫结构，即马克思主义的异化视角、卢卡奇的再现视角和海德格尔的不真实视角。尽管马尔库塞在去弗莱堡之前还没有看到包括对异化的讨论在内的马克思1844年手稿，但马克思的异化理论在《资本论》第一卷的各个地方都隐含着，其中他讨论了将人与人之间的社会关系简化为物与物之间的关系，同时将物与物之间的关系视为社会关系。
+
+> 因此，赫伯特·马尔库塞认为海德格尔的《存在与时间》代表了与先进工业社会中的具体化社会连续体作斗争的潜在有价值的盟友。他推测海德格尔的存在哲学具备了对抗倒置的社会世界所需的概念手段，而这个社会世界中，根据马克思的说法，“人与人之间的社会关系呈现出…一种物与物之间的奇幻形式。”在某种程度上，马尔库塞将海德格尔的哲学解读为本体论上的隐晦批判：对压迫性社会环境如何阻碍人类自我实现的一种控诉。看起来，就像批判马克思主义者卢卡奇和科尔什一样，海德格尔努力克服了资产阶级即时性的幻象化。与卢卡奇和科尔什一样，在《存在与时间》中，海德格尔努力打破了资产阶级科学的决定论世界观，其中人类存在或存在被贬低为“物中之物”的地位。毕竟，这正是海德格尔对“存在于手”或作为一种不真实性模式的批判的主要观点。（沃林 2005：xiv-xv）。
+
+赫伯特·马尔库塞对马克思、海德格尔、卢卡奇、科尔什甚至马克斯·韦伯的阅读是基于他对激进或革命性主体性的追求。像霍克海默和阿多诺一样，马尔库塞认为西方社会正朝着一个完全管理的社会的方向发展。他后来关于一维性的概念是通过他对这样一个社会的批判而发展起来的。然而，他最终对海德格尔感到失望。
+
+即使在受到海德格尔影响的情况下，马尔库塞从未成为一个纯粹的海德格尔主义者。他早就认识到海德格尔的哲学有一定的局限性。他最终发现，海德格尔的哲学并不是那么具体。虽然海德格尔的哲学阐明了日常生活中存在的存在论结构，但它从未停留在存在论层面。在存在论层面上，海德格尔仅仅考察了存在论的基本结构。也就是说，存在论中的存在以一定的普遍结构展开其生活，这一结构由堕落、空谈、无聊、关怀、面对死亡等存在方式构成。在这里揭示的只是存在论中发生的普遍条件或存在方式。然而，这些存在方式在不同的个体身上以不同的方式、在不同的时间以及以不同的强度体验。
+
+最终，马尔库塞认为海德格尔回避了揭示许多人类所遭受的压迫和统治体系的分析。Dasein 的存在方式具有社会、历史和政治背景，这些背景塑造了它们的体验方式。例如，Dasein 具有种族、性别、阶级等特定特征。这些特定特征带有特定的社会解释，影响着 Dasein 的生活前景。根据马尔库塞的观点，海德格尔的 Dasein 是一个在社会学和生物学上中立的范畴（马尔库塞 2005b: 167）。海德格尔没有解释先进工业社会中存在的多种压迫和统治形式，也没有解释个体对这些压迫和统治形式的反应。在弗雷德里克·A·奥拉夫森进行的 1977 年采访中，马尔库塞提出了对海德格尔的以下批评：
+
+> 个体如何在资本主义中定位自己并看待自己——在资本主义的某个阶段、社会主义下、作为这个或那个阶级的成员等等？整个维度都不存在。当然，存在性是在历史性中构成的，但海德格尔关注的是被净化了的个体，他们摆脱了他们的阶级、工作、娱乐中隐藏和不那么隐藏的伤害，摆脱了他们从社会中遭受的伤害。没有任何关于日常反抗、追求解放的痕迹。人（匿名的任何人）不能替代社会现实（马尔库塞 2005b：169）。
+
+因此，海德格尔的具体哲学并不像他所定义的那样具体，因为他忽略了社会行动者所处的真实、具体的斗争。在上述引用的同一次采访中，马尔库塞声称他和其他人意识到“海德格尔的具体性在很大程度上是虚假的、错误的具体性”，脱离了现实（马尔库塞 2005b：166）。
+
+现在我们可以看到，马尔库塞被海德格尔的哲学所吸引的那个东西是缺失的。海德格尔的哲学未能为马尔克思主义提供一个具体的哲学基础，也未能提供一个关于激进行为或激进主体性的理论。海德格尔对纳粹主义的兴趣使得马尔库塞在 1932 年离开海德格尔变得容易。马尔克思的《1844 年手稿》在 1932 年首次出版，也使得这一决定变得容易。
+
+尽管赫伯特·马尔库塞在 1932 年与海德格尔决裂，但对于一些学者来说，这种决裂并不那么明确。马丁·杰伊声称，当马尔库塞加入研究所时，霍克海默的影响力非常大，以至于马尔库塞“放弃了海德格尔的词汇，因为现象学对他的思想的影响开始减弱”（杰伊 1973 年：76）。然而，在 1935 年 5 月 13 日写给霍克海默的一封信中，阿多诺强烈暗示马尔库塞仍然是海德格尔主义者（马尔库塞/凯尔纳 1998 年：16 n.22）。然而，对于阿多诺的说法，人们必须保持一定程度的怀疑，因为他和马尔库塞正在竞争霍克海默的青睐。尽管如此，马尔库塞是否是海德格尔主义者的问题仍然对马尔库塞的学者们感兴趣。例如，理查德·沃林写道：“在马尔库塞的战后著作中，海德格尔主义的维度虽然被淡化，但仍然可以追溯到”（沃林 2001 年：167）。
+
+马尔库塞是否继续在一种新的语言中使用海德格尔的思想？马尔库塞对一维化的批判是否只是对不真实性的海德格尔式批判？这两个术语都指的是“一个盲目遵从的大众社会”（沃林 2001 年：168）。沃林还提出了海德格尔的本体论精英主义和马尔库塞关于“教育独裁”的概念之间的相似之处（沃林 2001 年：172）。教育独裁的问题在《爱与文明》（1955 年）和《压抑的宽容》（1965 年）中都有提及，并反映了马尔库塞对工人阶级中激进意识发展的悲观态度。某种形式的知识精英主义问题不仅存在于海德格尔，而且存在于马克思主义本身。我们只需想一想列宁关于先锋队的概念。然而，无论是海德格尔还是某些马克思主义者，精英主义的倾向以一种形式或另一种形式在马尔库塞的作品中仍然是一个问题。
+
+### 3.2 哲学人类学与激进主体性
+
+1932 年，赫伯特·马尔库塞发表了对新出版的《1844 手稿》的首批评论之一，题为《新的历史唯物主义基础的新来源》。根据马尔库塞的观点，《1844 手稿》有可能实现两个目标。
+
+> 这些手稿可以为关于历史唯物主义的起源和原始意义以及整个“科学社会主义”理论的讨论提供新的基础。它们还使得能够更有成果地提出马克思与黑格尔之间的实际联系的问题。（沃林，2001 年：86）
+
+然而，这些手稿也为马尔库塞提供了必要的理论工具，用于发展一种批判性的哲学人类学，这将有助于他发展自己的批判理论品牌。
+
+在这个背景下，“人类学”并不是指对过去文化的研究，而是指德国人对人类本性进行哲学和社会科学研究的观念。《1844 年手稿》对马尔库塞来说很重要，因为马克思在其中为他后来对政治经济学的批判提供了哲学基础，同时也提供了行动理论和哲学人类学。马克思辩证地审视了黑格尔哲学中探讨的劳动、客体化、异化、超越、财产等哲学范畴（Kellner 1984: 79）。
+
+简而言之，马尔库塞在《1844 年手稿》中看到的是共产主义革命的社会条件分析。革命本身需要激进主体性的发展。激进主体性指的是一种自我意识的形式，它认为当前的社会和经济条件是无法容忍的。激进行动是对这些条件的拒绝，并朝向社会转型的方向。要理解马尔库塞的立场，我们必须问：这些无法容忍的条件是什么，它们是如何产生的？哲学人类学和激进主体性在这里是相互关联的，因为必须通过革命或激进行动来克服的无法容忍的条件代表了人类本质的社会扭曲。马尔库塞得到了马克思和黑格尔提供的揭示人类本质及其被扭曲的社会机制的哲学人类学。这里的关键范畴是“异化”，而要理解它，就必须考察劳动和客体化的作用。
+
+根据赫伯特·马尔库塞、黑格尔和马克思的观点，人类通过一种自我形成的过程来发展，其中外部世界（自然）根据人类的需求被占有和转化。劳动是这种自我形成活动的主要领域之一。劳动作为自我形成过程的重要组成部分的观念，是马克思与史密斯、李嘉图等古典经济学家的区别之处。在古典经济学中，劳动仅仅是个体为自己和家人提供生计的手段。在这些理论中，劳动并不被视为构成人类主体的活动。马克思将劳动视为一种自我形成的过程，这使得马克思的异化和革命理论成为可能。
+
+马尔库塞认为，在《1844 年手稿》中，马克思展示了劳动作为自我实现或自我形成过程的角色如何被颠倒。个体的主体性不再得到肯定，而是成为由外部异化力量塑造的客体。因此，马克思的理论从对劳动自我形成过程的考察转变为对资本主义历史事实引起的异化形式的批判。在资本主义的历史事实中，这个事实表现为对人类本质和人类劳动的本质的完全颠倒和掩盖。劳动不是“自由活动”或人类普遍自我实现，而是他的奴役和现实的丧失。工人不是他生活表达的整体人，而是某种非本质的东西，是“抽象”活动的纯粹物理主体。劳动的对象不是工人人类现实的表达和确认，而是属于工人之外的他人的异己之物——“商品”。（赫伯特·马尔库塞，2005 年：104）
+
+> this fact appears as the total inversion and concealment of what critique had defined as the essence of man and human labor. Labor is not “free activity” or the universal and free self-realization of man, but his enslavement and loss of reality. The worker is not man in the totality of his life-expression, but something unessential [*ein Unwesen*], the purely physical subject of “abstract” activity. The objects of labor are not expressions and confirmations of the human reality of the worker, but alien things, belonging to someone other than the worker—“commodities.” (Marcuse 2005b: 104)
+
+赫伯特·马尔库塞将花费余生来进行这些早期作品中开始的调查。他的项目与马克思的区别在于，每个人将如何处理上述引文中提到的隐藏问题。马克思将发展两种不同但相关的方法。他对政治经济学的批判是揭示资本主义内在逻辑（如何运作）以及将导致资本主义崩溃的矛盾的尝试。第二种方法是制定一种革命理论，这种理论假设工人阶级的自我意识觉醒。在这两种方法中，隐藏将被揭示和社会转型所取代。我们之前看到，马克思的预测在任何方面都没有实现。这种部分失败导致了所谓的马克思主义危机，而法兰克福学派的诞生是对此危机的回应。马尔库塞的工作将经历许多阶段，他试图找到革命行动的关键。对他来说，下一个关键举措是更深入地研究黑格尔作为批判社会理论的源泉。
+
+### 3.3 负面（辩证）思维与社会变革
+
+1941年，赫伯特·马尔库塞对马克思和黑格尔的研究在一本名为《理性与革命：黑格尔与社会理论的兴起》（1941年[1983年]）的书中达到了顶峰。这本书实现了几个目标。首先，揭示了黑格尔最关键、革命性和解放性概念在马克思批判哲学发展中的作用。其次，它挽救了黑格尔被指责为保守主义和合法化压迫性普鲁士国家的指控。第三个伟大的成就，或者至少是目标，体现了前两个成就，并且对马尔库塞的批判理论形成最重要的影响。黑格尔/马克思的辩证法概念，或者马尔库塞将其称为负面思维，成为马尔库塞批判理论的核心要素。在某种程度上，《理性与革命》并不是试图挽救黑格尔，而是试图挽救辩证法或负面思维。马尔库塞在该书1960年版的新序言中明确了这一点。这个名为“辩证法注”的新序言实际上可以作为阅读和理解马尔库塞的指南。马尔库塞从这本书是试图挽救一种思维方式或心智能力的危险中开始（马尔库塞1960年：vii）。
+
+辩证或否定性思维的目的是揭示并通过革命行动克服构成先进工业社会的矛盾。这里存在着隐藏问题，因为社会不仅产生矛盾和随之而来的统治形式，还产生掩盖这些矛盾的社会和心理机制。社会矛盾的一个例子是国家财富的增长与贫困同时存在。那些拥有、控制和影响生产手段的人（少数人）变得更富有，而工人（多数人）变得更贫穷。富人不加节制地追求财富增长将使财富向下渗透，使所有人受益的观念已被证明是错误的，因为贫富差距继续扩大。然而，这种“向下渗透”的意识形态仍然非常有效。资本主义的信念是，无节制的竞争对每个人都有好处，这掩盖了净化社会竞争的目标，即允许大公司收购竞争对手。
+
+在这种情况下，工人通过劳动并没有成为一个自由和理性的主体，而是成为经济体系利用的对象，这个体系是人类创造的，但工人对其没有控制权。在资本主义体系中，工人被用作生产的工具，却无法获得生产的全部利益。在这种情况下，工人无法实现自己作为一个自由和理性的人的潜力，而是被迫为了生存而劳作。工人的存在抹消了她的本质。辩证思维的任务是将这种情况带入意识。一旦这种情况被带入意识，就可以通过革命实践来解决。因此，凯尔纳写道：
+
+> 所呈现的核心概念正是本书标题中的“理性”和“革命”。通过概念化未实现的潜力、规范和理想，理性区分存在和本质，并要求在社会实践中实现它们。如果社会条件阻碍了它们的实现，理性就呼唤革命。（凯尔纳 1984 年：131）
+
+马尔库塞对本质的概念并非超验的，而是历史性的。也就是说，除了历史背景之外，没有人类本质。在历史发生的背景下，在物质存在中，人类的潜在可能性已经存在。例如，可以合理地断言，没有人类会愿意一辈子从事疏离的劳动而陷入贫困。然而，许多人正处于这种情况之中。然而，本质嵌入在这种历史出现中，因为工人摆脱剥削和疏离劳动的潜力作为一个真实的可能性已经存在，只需要实现。在工人工作的社会中，有足够的财富（由工人生产）来解放工人免于无尽的劳作。在一篇名为《本质概念》的文章中，马尔库塞写道：“唯物主义理论因此超越了现实状态，并朝着不同的潜力前进，从直接的表象到其中出现的本质。但在这里，表象和本质成为一个真正的对立，这是由社会生活的特定历史结构引起的”（马尔库塞 1968b：67）。
+
+以上段落对于理解《理性与革命》和马尔库塞后来著名的《一维人》（1964 年）（稍后将讨论）的主题至关重要。他对本质的概念并非静态或超验的。本质呈现为在特定历史、社会/政治结构内实现自由、非异化、非压抑的生活形式的可能性。外观（现行事物的秩序）与现实社会所产生的可能性存在矛盾。例如，资本主义生产方式使得我们社会的所有成员都有可能过上非异化和富有成果的生活。然而，许多人仍然生活在贫困中。辩证或否定性思维看到了这种矛盾，并试图否定这种情况。
+
+否定的概念最好通过区分资本主义社会中两个层次的否定来理解。马尔库塞所采用的否定概念实际上是对先前形式的否定的批判性回应。这种先前形式的否定将被称为否定 1，对它的回应将被称为否定 2。否定 1 是指压迫、压制的社会/经济体制对人类本质或自由的否定。在这里，解放、自我发展、自我决定、美好生活等潜力都被各种形式的统治抹去。因此，人类个体被否定。否定 2 指的是寻求否定这些压迫性社会结构的批判性、革命性意识的发展。否定 2 的目标是解放（Farr 2009: 85–86）。
+
+这里还有许多《理性与革命》的其他特点值得讨论，特别是马尔库塞对实证主义的批判。然而，这些问题将在以后讨论的其他作品中再次出现。可以说，在这一点上，马尔库塞将负面思维呈现为一维思维的替代方案。通过负面思维和革命，解放才成为可能。在下一节中，我们将探讨另一种解放的可能性。
+
+## 4. 精神分析与乌托邦愿景
+
+### 4.1 人类驱力的历史和社会性质
+
+精神分析学是法兰克福学派自始至终的重要理论工具。1931年，当马克斯·霍克海默接任主任时，他已经受到精神分析学的影响（阿布罗迈特2011年：192-195）。成为主任后不久，他引入了精神分析学家埃里希·弗洛姆。最初的目标是利用精神分析理论来理解工人阶级的心理。也就是说，目标是理解为什么那些最有可能从社会变革中受益的人似乎抵制变革。马尔库塞直到后来才开始涉足精神分析学。尽管他与同事们一样利用精神分析学，但马尔库塞也发展了自己独特的解释精神分析理论的方法。《爱与文明》是一部关于弗洛伊德的著作，充满了精神分析学的语言，但它既是马克思主义的，也是弗洛伊德主义的。文中没有提到马克思的名字，也很少引入马克思主义的范畴。然而，弗洛伊德的范畴被倾向于对先进工业社会进行马克思主义/马克思主义类型的分析。
+
+虽然赫伯特·马尔库塞在 20 世纪 20 年代和 30 年代就读过弗洛伊德的著作，但他真正认真地研究弗洛伊德的著作直到 20 世纪 50 年代才开始。1950 年至 1951 年，马尔库塞受邀在华盛顿精神病学学院发表一系列讲座。这次研究的结果是马尔库塞最著名的著作之一《爱欲与文明：对弗洛伊德的哲学探究》。马尔库塞的书是对弗洛伊德的《文明的不幸》（1930 年[1961 年]）悲观主义的回应。弗洛伊德的书描绘了文明的演进，即从越来越大的压抑中逃脱似乎无望。生死本能在争夺主导地位，但没有明确的胜者。根据马尔库塞的观点，弗洛伊德未能发展出自己理论的解放可能性。马尔库塞的任务是双重的。首先，他必须证明人类的本能或驱力不仅仅是生物学上的固定存在，而且还是社会的、历史的和可塑的。其次，他必须证明压抑的社会也产生了解除压抑的可能性（马尔库塞 1955 年：5）。
+
+本能可以被压抑这一事实已经表明社会及其组织形式在塑造本能方面起到了作用。如果是这样的话，本能就不是固定的。随着社会及其压抑机制的变化，本能也会发生变化。马尔库塞声称：
+
+> 本能的变迁是文明中心理机制的变迁。在外部现实的影响下，动物的驱力变成了人类的本能。（马尔库塞 1955 年：11-12）
+
+在将动物驱力转化为人类本能的过程中，快乐原则转化为现实原则（赫伯特·马尔库塞 1955: 12）。在《文明的不幸》中，弗洛伊德声称是快乐原则的计划决定了生活的目的（弗洛伊德 1961 [1930]: 25）。然而，外部世界并不符合快乐原则的要求，甚至对其持敌对态度。因此，快乐原则会逆转、内化并受到压抑。
+
+对于赫伯特·马尔库塞来说，解放意味着解放快乐原则。然而，他意识到，如果人类要共存，一定程度的压抑是必要的。也就是说，如果一个人仅仅按照快乐原则的要求行事，这将侵犯他人的自由。因此，我们必须相互限制自由和幸福，才能共存。正是针对这个问题，马尔库塞提出了他对弗洛伊德理论的最有创造性的修改之一。
+
+### 4.2 压抑
+
+赫伯特·马尔库塞引入了两个新术语来区分本能和社会的生物变迁。基本压抑是指对本能的压抑或改变，这是“为了在文明中延续人类种族而必要的”（马尔库塞 1955 年：35）。在这个层面上，压抑并不倾向于统治或压迫。另一方面，剩余压抑指的是“社会统治所必需的限制”（马尔库塞 1955 年：35）。剩余压抑的目的是根据当前的“表现原则”来塑造本能，这是“现实原则的主导形式”（马尔库塞 1955 年：35）。
+
+马克思和弗洛伊德在表现原则的概念中相遇。
+
+> 表现原则是一个追求和对抗性社会的原则，处于不断扩张的过程中，这一原则的存在假定了一个长期的发展过程，其中统治逐渐被合理化：对社会劳动的控制现在以大规模和改善的条件再生产社会。在很长一段时间里，统治的利益和整体的利益是一致的：生产装置的有利利用满足了个体的需求和能力。对于绝大多数人口来说，满足的范围和方式是由他们自己的劳动决定的；但他们的劳动是为一个他们无法控制的装置工作，这个装置作为一个独立的权力运作，如果他们想生存，就必须服从。而且，随着劳动分工的专业化程度越高，这种异化就越严重。人们不过是在履行预先确定的职能，而不是过自己的生活。当他们工作时，他们并不满足自己的需求和能力，而是在异化中工作。（马尔库塞 1955 年：45）
+
+赫伯特·马尔库塞在这里的观点是，虽然工作对于维持生活是必要的，但在我们的社会中，从维持生活所需的基本工作量过渡到了我们可以称之为剩余工作的阶段。这里有一个区别，即为了满足个人的工作和为了机构所需的工作。工人在工资方面没有控制权，无法确定满足自身需求所需的工作量。在资本主义社会中，工作超出了满足工人需求的范围，而是为了最大化资本家的利润。工人的“预先设定的功能”是生产商品并最大化资本家的利润。工人必须工作以生存，但她工作的条件是由机构决定的。
+
+被机构利用需要符合机构的要求。这就是马尔库塞所说的表演原则。社会成员必须按照其预先设定的功能的规定进行表演。这种表演要求对生命力的限制。工人必须以一种方式被操纵，以使这些限制似乎作为合理的、外在客观的法则发挥作用，然后被个体内化。个体的欲望必须符合机构的欲望。个体必须将自己定义为机构所定义的整个人类。正如马尔库塞所说，“他渴望他应该渴望的东西”（马尔库塞 1955 年：46）。
+
+尽管马尔库塞关于压抑和对两种形式的压抑的认识的理论是一个有用的理论工具，用于理解为什么我们没有进入革命时期，但它无法解释欲望如何被操纵，以形成一维身份。现在所谓的“压抑假设”的一个最有趣和富有成果的批评（福柯 1976 [1990]：17-49）。对于福柯来说，主体性或身份的形成不是某种原始欲望的压抑的结果。相反，身份是通过权力和某些话语实践形成的。此外，在身份形成的过程中，知识并不被压抑，而是被召唤或产生。在对马尔库塞的批评中，福柯写道：
+
+> 我也会与像马尔库塞这样的拟马克思主义者区分开来，他们给压抑的概念赋予了夸张的作用——因为如果权力的唯一功能是压抑，如果它只通过审查、排斥、阻塞和压抑的方式工作，就像一个伟大的超我，只以消极的方式行使自己。相反，如果权力强大，这是因为，正如我们开始意识到的那样，它在欲望和知识的层面上产生效果。权力并不阻止知识，而是产生它。（福柯 1980：59）
+
+### 4.3 爱与理性
+
+《爱与文明》第五章“哲学插曲”在文本中出现了一种断裂。在讨论弗洛伊德的本能理论四章之后，马尔库塞暂时放下了弗洛伊德，转而从哲学角度进行思考。然而，这种转变与本书的目的是一致的。马尔库塞在他的所有作品中，一个主要关注点就是统治的理性化。这也是《一维人》中的一个重要主题。这一章还给了我们一个线索，解释了为什么弗洛伊德对于批判理论如此重要。弗洛伊德被置于整个西方哲学传统的对立面。西方哲学传统的问题在于它构建了一种与压迫性理性或支持统治的理性形式相一致的理性观。例如，康德的道德义务观念将幸福置于义务之下。尽管康德对此提供了充分的理由，但他并没有充分解决对幸福的需求。根据康德的观点，遵循道德法则使人在来世可能值得幸福，但对现实世界的幸福并没有真正的关注。
+
+马尔库塞对西方哲学的批评与近期女性主义者和非洲哲学家的批评非常相似。也就是说，哲学倾向于将人类视为纯粹的、抽象的意识。身体和激情应该被理性或理性原则所征服。马尔库塞并不打算将理性原则（理性）屈服于爱欲（欲望）。他只是希望将爱欲恢复到与理性平等的适当位置。正是弗洛伊德认识到爱欲在人类行动中起着核心作用。
+
+### 4.4 稀缺意识形态
+
+赫伯特·马尔库塞的作品中最重要的特点之一是他对西方社会的辩证分析。在他的作品中，他试图引起人们对解放可能性和统治机制进一步发展的共存的关注。我们的社会既产生了自由的必要条件，同时也产生了更大的压迫。
+
+> 文明在绩效原则下的进步已经达到了一种生产力水平，使得对本能能量在异化劳动中的消耗的社会需求可以大大减少（马尔库塞 1955 年：129）
+
+资本主义的绩效原则（生产和利润的最大化）实际上为一种质的不同和非压抑的生活创造了先决条件。然而，我们并没有进入这种新的生活形式，因为更多的压抑被要求。
+
+尽管劳动者的劳动已经创造出足够的财富来维持他们的生活，但个体劳动者仍然继续从事异化劳动。问题在于资本主义制度的结构使得所有财富都流向少数拥有或控制生产资料的人。尽管财富是社会生产的，但其所有权和使用权却被限制在少数个人手中。因此，稀缺的概念已经过时，并以意识形态的方式用来控制劳动者。劳动者必须对自己施加抑制和压抑的形式，以便将他的生命能量引导到工作中，这超出了他为生存所需的商品的生产，而是为资本家创造了极大的财富。正是在这里，马尔库塞依靠他对基本压抑和剩余压抑的区分超越了弗洛伊德。关于弗洛伊德的元心理学，马尔库塞说：
+
+> 对于他的元心理学来说，决定性的不是抑制是由稀缺还是由稀缺的等级分配、生存斗争还是对统治的兴趣所强加的。（马尔库塞 1955 年：134）
+
+马尔库塞的观点是，在先进工业社会中，获取生存所需的资源甚至是成员的最佳生活已经不再是问题。问题在于资源的公平和公正分配。在这个时代，稀缺的概念的存在本身就具有意识形态的功能，并支持资本家对劳动者的统治。
+
+### 4.5 幻想、乌托邦和满足的理性
+
+虽然《爱欲与文明》的前半部分并不比弗洛伊德的《文明的不满》的结论更乐观，但它确实从诊断转向预后，或者从批判转向希望。在诊断层面上，马尔库塞考察了渗透于先进工业社会的社会病理形式。结论是，资本主义要求一定程度的过剩压抑，以支持死亡本能和社会统治的发展。然而，压抑永远不会完全。即使弗洛伊德也意识到了压抑的不完整性，在 1915 年的一篇名为《压抑》的文章中就提到过。弗洛伊德和马尔库塞都认识到，被压抑的本能永远不会消失，而是以某种方式继续表现自己。建设文化的性欲驱动继续在与死亡本能的冲突中表现自己。根据马尔库塞的观点，对幸福和快乐的性欲驱动在幻想、艺术和乌托邦幻想中继续存在。
+
+《爱欲与文明》的后半部分致力于幻想和想象力的工作。马尔库塞通过重建弗洛伊德、康德、席勒等人的观点，为想象力的解放功能建立了一个案例。他的主要观点是，通过想象力，我们可以设想一个更美好的世界。这并不是一个盲目的乌托邦幻想，因为创造一种更高质量的生活形式的资源已经存在。在预后层面上，马尔库塞主张将理性和性欲融合。他将这种融合称为“满足的理性”（马尔库塞 1955 年：224）。在这里，存在的斗争基于合作、自由发展和满足需求。
+
+虽然《爱神与文明》是马尔库塞更为乐观的作品之一，并对弗洛伊德提出了一种新的激进解释，但它并非没有争议。马尔库塞试图将弗洛伊德的驱力理论置于解放性批判理论的核心位置，这引起了一些批评。我将在后面的章节中讨论一些女权主义者的回应。
+
+在《爱神与文明》的附录《对新弗洛伊德主义修正主义的批判》中，马尔库塞指责几位著名精神分析学家修正了弗洛伊德的工作，使其丧失了批判性的含义。这些修正主义者利用精神分析来发展一种顺从的心理学，而不是批判性的心理学。这导致马尔库塞与研究所的前成员埃里希·弗洛姆之间展开了一场公开辩论。这场辩论发生在 20 世纪 50 年代中期的《异议》杂志上。马尔库塞认为弗洛姆和其他人拒绝了弗洛伊德的一些关键洞见，如他的性欲理论、死亡本能、俄狄浦斯情结、父杀的原始部落等等。
+
+> 对马尔库塞来说，关键问题在于随着岁月的流逝，弗洛姆越来越远离人类个性的本能基础。相反，他接受了“积极思考，将消极留在原地，主导人类存在”（弗里德曼 2013 年：195）。
+
+弗洛姆的方法与赫伯特·马尔库塞的方法不同，因为他更关注社会在塑造一个人性格方面所起的作用。这种不同的方法并不意味着弗洛姆变得不那么批判了。弗洛姆也许在他声称马尔库塞误读他的观点上是正确的。鉴于弗洛姆对马克思主义的持续承诺，他不太可能将精神分析简化为一种顺从的心理学。在弗洛姆的作品中所呈现的积极思维实际上与马尔库塞在《爱与文明》中追求的并没有太大的差异。也就是说，弗洛姆以一种与马尔库塞不同的方式，试图拯救培育文化的爱神免受资本主义的压迫力量。弗洛姆/马尔库塞的辩论代表了批判理论历史上一个不幸的时刻，两位重要的思想家彼此之间的言辞并未相通。
+
+## 5. 一维思维与民主的拒绝
+
+《一维人的思维》的第一章以以下句子开始：
+
+> 在先进工业文明中，存在着一种舒适、顺畅、合理、民主的非自由，这是技术进步的象征。（赫伯特·马尔库塞 1964 年：1）
+
+《一维人》是对《理性与革命》中的担忧的进一步分析，即批判性或负面思维的削弱。正如我们之前所看到的，负面思维是二维的，因为它看到了构成社会的矛盾，并意识到统治力量。批判性思维的人要求社会变革。一维思维不要求变革，也不认识到个体在社会中成为统治力量的受害者的程度。
+
+民主非自由的概念指的是对压迫和过剩压抑的自由接受。在《一维人》和《爱与文明》中，马尔库塞在解释社会变革的限制方面超越了马克思和弗洛伊德。他利用弗洛伊德帮助我们理解那些接受过剩压抑的个体中正在发挥作用的心理机制。然而，他在某种程度上超越了弗洛伊德，因为弗洛伊德的超我理论已经过时。也就是说，在弗洛伊德的理论中，超我是通过内化某个权威人物的价值观发展起来的。根据马尔库塞的观点，不再需要权威人物。超我已经变得非个人化，不再由父亲、牧师、教师、校长等权威人物滋养。他写道：
+
+> 但是这些个人的父亲形象逐渐消失在制度的背后。随着生产装置的合理化，功能的增加，所有的统治都呈现出管理的形式。（赫伯特·马尔库塞 1955: 98）
+
+马尔库塞的观点是，统治不再需要力量或权威人物的存在。一维思维的功能是通过削弱批判性的二维意识来产生一维社会。这是通过几种方式来实现的，这里只是简单列举。
+
+1. 系统必须让公民认为他们比实际上更自由。
+2. 系统必须为公民提供足够的商品以使他们保持平静。
+3. 公民必须认同他们的压迫者。
+4. 政治话语必须被消除。
+
+这里没有足够的空间来审视每一个。一个例子足以说明问题。早先已经表明，辩证或负面思维的目的是揭示社会矛盾，并要求通过社会变革来克服这些矛盾。一维思维掩盖了这些矛盾，使它们变得看不见。一种意识形态被建立起来，压迫者与被压迫者产生了认同感。人们之间因为观看相同的电视节目或支持相同的体育队而感到团结。在政治上，使用模糊的术语，如“美国人民”或“美国的生活方式”，来掩盖美国人实际上在美国的不同体验。富人和穷人之间的美国生活方式有很大的差异。
+
+另一个一维思维的例子是马尔库塞著名而有争议的论文《压抑的宽容》。在这里，马尔库塞展示了起源于解放斗争的术语、思想或概念如何被挪用并用于合法化压迫。宽容的概念曾经被边缘化社会群体用作批判性概念。根据马尔库塞的观点，这个术语现在被当权派用来合法化自己的压迫观点和政策。这是纯粹宽容或为了宽容而宽容的观念，忽视了这个概念产生的真实具体社会冲突。马尔库塞呼吁“有区别的宽容”（马尔库塞 1968a：123）。
+
+## 6. 技术的辩证法
+
+在他们著名的《启蒙辩证法》一书中，马尔库塞的同事马克斯·霍克海默和泰奥多尔·阿多诺试图证明启蒙体现了自由解放和压迫统治的张力。对于马尔库塞来说，现代技术（启蒙的产物）也体现了类似的张力。对他来说，问题是“技术在人类解放项目中扮演什么角色？”技术的繁荣得到了这样的支持，即技术发展与人类追求解放和美好生活之间存在某种根本联系。然而，弗洛伊德和许多其他人使我们对这个想法不再抱有幻想。现在的问题是“技术进步是否导致更多的压迫和统治？”
+
+马尔库塞的批判理论始终是辩证的，他在审视压迫和统治形式的同时，也在寻找解放的潜力。在 1941 年写的一篇名为《现代技术的一些社会影响》的文章中，马尔库塞对技术和技巧进行了重要的区分。在写有关技术的文章时，他在其余的人生中仍然使用这种区分的某个版本。在这篇文章中，他说：
+
+> 在本文中，技术被视为一个社会过程，其中技术本身（即工业、交通、通信的技术设备）只是其中的一个部分因素。我们不询问技术对人类个体的影响或效果。因为他们本身就是技术的一个组成部分和因素，不仅是发明或照料机械的人，也是指导其应用和利用的社会群体。技术作为一种生产方式，作为机器时代所特征的工具、装置和发明的总体，同时也是一种组织和延续（或改变）社会关系的方式，是普遍思维和行为模式的表现，是控制和统治的工具。技术本身既可以促进威权主义，也可以促进自由，既可以促进稀缺，也可以促进丰富，既可以促进劳动的扩展，也可以促进劳动的废除。（赫伯特·马尔库塞 1998 年）
+
+基于上述段落，听起来好像技术是中立的，它既可以促进压迫，也可以促进解放。然而，事实并非如此。马尔库塞在另一篇名为《技术社会中的社会变革问题》的文章中明确指出了这一点，该文章是在二十年后撰写的。此外，在一篇名为《从本体论到技术论》的 1960 年的文章中，他再次使用“技术性”而不是“技术”这个术语，拒绝了技术或技术性的中立性。马尔库塞所指的“技术”是指用于为人类服务而转变自然的设备或工具。
+
+> 技术是人类思维和行动对自然的方法论否定。在这种否定中，自然条件和关系成为维护、扩大和完善人类社会的工具。（赫伯特·马尔库塞 2011 年：45）
+
+通过“技术”，赫伯特·马尔库塞指的是生产方式或工具、设备等的总体。
+
+如果技术指的是一种生产方式或工具的总体，那么它就位于某种意识形态结构之内，实际上，它是一种决定特定生产形式的机械形式以及生产形式本身的意识形态。在这里，“意识形态”仅仅指的是一种信仰体系或思维方式，其中包括所有社会思想和行动的目标或目的。
+
+在技术层面上，机器只有作为纯粹的物质才能被视为中立，但在技术社会中，不存在这样的机器，因此，技术并不是中立的。每台机器都是在社会、政治、经济意义上构成的，是一系列社会关系的集合。技术存在于某种生产方式以及某种生产关系中。每个技术项目都被赋予一项任务，并且要进一步促进现实原则或资本主义绩效原则的目标。在这里涉及到一种辩证法，即使现代技术的起源是在一种压迫性、压迫性的资本主义现实原则中，这种技术本身也潜藏着其他可能性。
+
+赫伯特·马尔库塞认为，可以在一个全新的现实原则下构想技术。在资本主义体系中，技术和其统治的技术意识形态是基于竞争和生产的绩效原则，并必须为这一绩效原则设定的目标服务。即使稀缺性不再是一个真正的问题，稀缺性的观念和恐惧仍被用来为生产而生产和为竞争而竞争的意识形态服务。我们从未被告知此刻我们拥有结束世界饥饿所需的必要资源。相反，我们被告知越来越多的技术进步将解决稀缺性问题。
+
+根据赫伯特·马尔库塞的观点，技术的使用受到当前现实原则的意识形态塑造。正是这种压迫性/压抑性的现实原则塑造了技术发展的目标。因此，技术和技术都不能是中立的，因为其整个意义和目的都诞生于一个现实和绩效原则之内，正如马尔库塞所提醒我们的那样，这个原则并不以所有人的解放和幸福为目标。整个技术和技术装置的形式和使命都是由统治阶级赋予的。
+
+根据赫伯特·马尔库塞的观点，一种新的感性，即人与人之间以及人与自然之间的关系的重塑，将引领一个新的现实原则。在这个新的现实原则下，技术将有一个新的使命或目标。在这个新的现实原则下，将不可想象将技术进步与制造炸弹和更复杂的死亡工具联系在一起。
+
+## 7. 解释/理论解放的幽灵：伟大的拒绝和新的感性
+
+尽管马尔库塞在一些著作中的批判形式和使用一维性等概念可能让人们对马尔库塞的文本产生一些悲观主义的阅读，但没有什么比这样的阅读更具问题性了。在先进工业社会中，社会现实是存在非常复杂的统治系统，并且它们有能力改变自己以应对任何解放运动的挑战。然而，正如马克思和恩格斯在《共产党宣言》中警告的那样，“一个幽灵在欧洲游荡——共产主义的幽灵”（马克思和恩格斯 1848 [1964]：55）。对于马尔库塞来说，解放的幽灵在先进工业社会中游荡。甚至可以说，马尔库塞自己的批判理论也受到解放的幽灵的困扰。也就是说，在某种程度上，马尔库塞进行了对压迫性社会结构的批判，以便打开革命和解放的大门。在另一方面，马尔库塞修改了他的理论，为他在压迫社会中看到的各种形式的抵抗留出了空间。马尔库塞既是革命意识的教师，又是学生。
+
+尽管他被称为 20 世纪 60 年代学生运动的导师，但他拒绝这个称号，因为他也在从这些运动中学习。革命的希望在于那些在他们的本质中对自己的压抑感到厌倦的个体。60 年代的学生运动不是基于阶级斗争，而是对自己的压抑的拒绝，以及对战争和浪费日益缺乏容忍。在《解放论文》的前言中，马尔库塞在回顾 1968 年的学生起义时说：
+
+> 在宣称“永久挑战”（la contestation permanente），“永久教育”，大拒绝中，他们认识到社会压迫的痕迹，即使在传统文化最崇高的表现中，即使在技术进步最引人注目的表现中也是如此。他们再次引起了一个幽灵（这次是一个不仅困扰资产阶级而且困扰所有剥削官僚机构的幽灵）：一个将生产力发展和更高生活水平置于为人类物种创造团结、消除贫困和苦难超越所有国家界限和利益领域的要求之下的革命的幽灵，以实现和平。（马尔库塞 1969 年：ix-x）
+
+20 世纪 60 年代的学生抗议是一种大拒绝，对多种形式的压迫和统治说“不”。这种大拒绝要求一个新的/解放的社会。这个新社会需要马尔库塞所称的新感性，即生命本能高于攻击本能的提升（马尔库塞 1969 年：23）。这种新感性的理念是超越马克思主义的又一步，因为它需要的不仅仅是新的权力关系。它需要培养新的主体形式。目前的人类主体性是统治系统的产物。我们通过摆脱这些系统形成的主体性形式，并用新的主体性形式取而代之，来摆脱社会的统治系统。这就是为什么马尔库塞对女权主义运动如此感兴趣的原因。他在这个运动中看到了激进社会变革的潜力。重新思考女性和男性的特质可能是重新定义男性主体性的开始，使其发展为更少攻击性的方式。
+
+培养一种新的感知能力将改变人类与自然之间以及人类之间的关系。这种新的感知能力是社会变革的媒介，它在改变世界的政治实践和个人解放的驱动力之间进行调和（赫伯特·马尔库塞 2007 年：234）。
+
+## 8. 赫伯特·马尔库塞与女性主义
+
+赫伯特·马尔库塞寻求一种能够成为革命或社会转型动力的激进主体性形式，这使他走上了与他的法兰克福学派同事不同的道路。事实上，对马尔库塞的批评之一是他屈服于悲观主义，并放弃了工人阶级作为革命主体。对于马尔库塞来说，我们必须寻找“被遗弃者和局外人等”的社会变革（麦金太尔 1970 年：87）。
+
+赫伯特·马尔库塞转向的社会运动之一是女权主义运动。1974 年 3 月 7 日，马尔库塞在斯坦福大学发表了一篇题为《马克思主义与女权主义》的论文。在其中他说道：
+
+> 我相信当今的妇女解放运动可能是我们最重要、最潜在的激进政治运动。（马尔库塞 2005a：165）
+
+对于马尔库塞来说，妇女解放运动不仅对于妇女的解放至关重要，也对于我们社会中所有被压迫的人的解放至关重要。他希望妇女解放的斗争能够创造一种新的表演原则，并有助于培养一种新的感性。简而言之，某些女性特质将取代野蛮、暴力、男性化的特质。马尔库塞实际上主张一种雌雄同体的形式。
+
+赫伯特·马尔库塞对女权主义的态度的主要批评之一是，他简单地强化了性别刻板印象，回归到了本质主义。尼娜·鲍尔最近为马尔库塞辩护，反驳了这一指责。她的论点与马尔库塞在 1978 年接受布莱恩·麦基采访时提出的论点相似。鲍尔和马尔库塞都认为，虽然所谓的女性类别是社会构建的，但它们仍然可以普遍化，以使所有人类发展出一种新的感性。鲍尔指出：
+
+> 女权社会主义将普遍化这些所谓的女性特征，以至于它们不再是特定的“女性”，而是成为所有文化的特征，最终达到雌雄同体。剩余的侵略性将被引导到“对丑陋的资本主义破坏性的摧毁”，用马尔库塞的话说就是相当巧妙。“女权主义是对正在衰败的资本主义的反抗”，最终将不得不发展出“自己的道德”。（鲍尔 2013 年：79）
+
+女权主义者如杰西卡·本杰明和南希·乔多罗指出，马尔库塞的批判理论存在一个特定的弱点，而马尔库塞本人从未对此进行过回应。对于这两位思想家来说，马尔库塞依赖弗洛伊德的驱力理论作为可能产生社会变革需求的因素是不充分的，因为他未能解释个体的互为主体性发展。
+
+## Bibliography
+
+### Primary Sources
+
+* 1922, *Der deutsche Künstlerroman*, Dissertation. Freiburg.
+* 1932 [1987], *Hegel’s Ontology and the Theory of Historicity*, Seyla Benhabib (trans.), Cambridge and London: The MIT Press.
+* 1932 [2005], “Neue Quellen zur Grundlegung des historischen Materialismus” (“New Sources on the Foundation of Historical Materialism”), in *Heideggerian Marxism*, Richard Wolin and John Abromeit (eds.) Lincoln and London: University of Nebraska Press.
+* 1937 [2007a], “Der affirmative Character der Kulture,” *Zeitschrift für Sozialforschung*, VI(1), Paris: Libraire Félix Alcan, 1937; translated as “The Affirmative Character of Culture,” *Negations*, Boston, 1968; reference is to the version in *Herbert Marcuse: Art and Liberation*, Douglas Kellner (ed.), London and New York: Routledge, 2007.
+* 1941 [1983], *Reason and Revolution: Hegel and the Rise of Social Theory*, New Jersey and London: Humanities Press.
+* 1941 [1998],OB “Some Social Implications of Modern Technology,” in *Technology, War and Fascism*, Douglas Kellner (ed.) London and New York: Routledge Press.
+* 1955, *Eros and Civilization: A Philosophical Inquiry into Freud*, Boston: Beacon Press.
+* 1958, *Soviet Marxism: A Critical Analysis*, New York: Vintage Books.
+* 1960 [2011], “From Ontology to Technology,” in *Philosophy, Psychoanalysis and Emancipation*, Douglas Kellner (ed.), London and New York: Routledge Press.
+* 1961 [2001], “The Problem of Social Change in the Technological Society,” in *Towards a Critical Theory of Society*, Douglas Kellner (ed.), London and New York: Routledge Press.
+* 1964, *One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society*, Boston: Beacon Press.
+* 1965, “Repressive Tolerance” (with R.P. Wolff and Barrington Moore), in *A Critique of Pure Tolerance*, Boston: Beacon Press.
+* 1968a, “Postscript 1968,” in *A Critique of Pure Tolerance*, Boston: Beacon Press.
+* 1968b, *Negations: Essays in Critical Theory*, Boston: Beacon Press.
+* 1969, *An Essay on Liberation*, Boston: Beacon Press.
+* 1970, *Five Lectures*, Jeremy Shapiro and Shierry Weber (trans.), Boston: Beacon Press.
+* 1972, *A Study on Authority*, Joris De Bres (trans.), London and New York: Verso.
+* 1973, *Studies in Critical Philosophy*, Joris De Bres (trans.), Boston: Beacon.
+* 1978, *The Aesthetic Dimension: Toward a Critique of Marxist Aesthetics*, Boston: Beacon Press.
+* 1978, “BBC Interview: Marcuse on the Frankfurt School,”, in Bryan Magee (Ed.), *Man of Ideas*, (pp. 62–73). London: BBC Publishing.
+* 1998, *Technology, War and Fascism: Collected Papers of Herbert Marcuse* (Volume 1), Douglas Kellner (ed.), London and New York: Routledge.
+* 2001, *Towards A Critical Theory of Society: Collected Papers of Herbert Marcuse* (Volume 2), Douglas Kellner (ed.), London and New York: Routledge.
+* 2005a, *The New Left and the 1960s: Collected Papers of Herbert Marcuse* (Volume 3), Douglas Kellner (ed.), London and New York: Routledge.
+* 2005b, *Heideggerian Marxism*, Richard Wolin and John Abromeit (eds.), Lincoln and London: University of Nebraska Press.
+* 2007a, *Art and Liberation: Collected Papers of Herbert Marcuse* (Volume 4), Douglas Kellner (ed.), London and New York: Routledge.
+* 2007b, *The Essential Marcuse*, Andrew Feenberg and William Leiss (ed.), Boston: Beacon Press.
+* 2011, *Philosophy, Psychoanalysis and Emancipation: Collected Papers of Herbert Marcuse* (Volume 5), Douglas Kellner (ed.), London and New York: Routledge.
+* 2014, *Marxism, Revolution and Utopia: Collected Papers of Herbert Marcuse* (Volume 6) Douglas Kellner and Clayton Pierce (ed.), London and New York: Routledge.
+
+### Secondary Sources
+
+* Abromeit, John, 2011, *Max Horkheimer and the Foundations of the Frankfurt School*, Cambridge, New York, Melbourne, Madrid, Cape Town: Cambridge University Press.
+* Abromeit, John and Mark Cobb (eds.), 2004, *Herbert Marcuse: A Critical Reader*, New York and London: Routledge.
+* Alford, Fred C., 1985, *Science and the Revenge of Nature: Habermas & Marcuse*, Tampa and Gainesville: University Presses of Florida.
+* Always, Joan, 1995, *Critical Theory and Political Possibilities: Conceptions of Emancipatory Politics in the Works of Horkheimer, Adorno, Marcuse, and Habermas*, Westport, Connecticut and London: Greenwood Press.
+* Anderson, Kevin B. and Russell Rockwell (eds.), 2012, *The Dunayevskaya-Marcuse-Fromm Correspondence, 1954–1978*, Lanham, Boulder, New York, Toronto, Plymouth, UK: Lexington Books.
+* Benjamin, Jessica, 1988, *The Bonds of Love: Psychoanalysis, Feminism, and The Problem of Domination*, New York: Pantheon Books.
+* Bernstein, Richard, 2013, “Marcuse’s Critical Legacy,” *Radical Philosophy Review*, 16(1): 59–71.
+* Bokina, John and Timothy Lukes (eds.), 1994, *Marcuse: From the New Left to the Next Left*, Lawrence, Kansas: University Press of Kansas.
+* Breines, Paul (ed.), 1970, *Critical Interruptions: New Left Perspectives on Herbert Marcuse*, New York: Herder and Herder.
+* Bronner, Stephen Eric, 2002, *Critical Theory and Its Theorists*, New York and London: Routledge.
+* Chodorow, Nancy J., 1989, *Feminism and Psychoanalytic Theory*, New Haven and London: Yale University Press.
+* Davis, Angela, 2004, “Marcuse’s Legacies,” in *Herbert Marcuse: A Critical Reader*, John Abromeit and Mark Cobb (eds.), New York and London: Routledge.
+* Dabrowski, Tomash Conrad, 2016, “Concrete Philosophy: The Problem of Judgement in the Early Work of Herbert Marcuse,” *Philosophy and Social Criticism*, 42(6): 576–593.
+* Farr, Arnold, 2009, *Critical Theory and Democratic Vision: Herbert Marcuse and Recent Liberation Philosophies*, Lanham, Boulder, New York, Toronto, and Plymouth, UK: Lexington Books.
+* Feenberg, Andrew, 2018, “Marcuse,” *Radical Philosophy Review*, 21(2): 271–298.
+* Feenberg, Andrew, 2005, *Heidegger and Marcuse: The Catastrophe and Redemption of History*, New York and London: Routledge.
+* Foucault, Michel, 1976 [1990], *The History of Sexuality: An Introduction*, New York: Vintage Books.
+* –––, 1980, “Body/Power,” in *Power/Knowledge: Selected Interviews & Other Writings*, New York: Pantheon Books.
+* Friedman, Lawrence, 2013, *The Lives of Erich Fromm*, New York: Columbia University Press.
+* Geoghegan, Vincent, 1981, *Reason and Eros: The Social Theory of Herbert Marcuse*, London: Pluto Press.
+* Habermas, Jürgen and Charles Reitz, 2013, “Herbert Marcuse,” *Radical Philosophy Review*, 16(1): 17–19.
+* Held, David, 1980, *Introduction to Critical Theory: Horkheimer to Habermas*, Berkeley and Los Angeles: University of California Press.
+* Holman, Christopher, 2013, *Politics as Radical Creation: Herbert Marcuse and Hannah Arendt on Political Performativity*, Toronto: University of Toronto Press.
+* Honneth, Axel and Reitz Charles, 2013, “Herbert Marcuse and the Frankfurt School,” *Radical Philosophy Review*, 16(1): 49–57.
+* Horowitz, Gad, 1977, *Repression: Basic and Surplus Repression in Psychoanalytic Theory: Freud, Reich, and Marcuse*, Toronto and Buffalo: University of Toronto Press.
+* Jay, Martin, 1973, *The Dialectical Imagination: A History of the Frankfurt School and the Institute of Social Research, 1923–1950*, Boston and Toronto: Little, Brown and Company.
+* Katz, Barry, 1982, *Herbert Marcuse and the Art of Liberation: An Intellectual Biography*, London: Verso.
+* Kellner, Douglas, 1984, *Marcuse and the Crisis of Marxism*, London: Macmillan.
+* Kellner, Doug, Tyson Lewis, Clayton Pierce, and Daniel Cho (eds.), 2009, *Marcuse’s Challenge to Education*, Lanham, Boulder, New York, Toronto, Plymouth, UK: Rowman & Littlefield Publishers.
+* Lipshires, Sidney, 1974, *Herbert Marcuse: From Marx to Freud and Beyond*, Cambridge, Massachusetts: Schenkman Publishing Company, INC.
+* Lukes, Timothy, 1985, *The Flight into Inwardness: An Exposition and Critique of Herbert Marcuse’s Theory of Liberative Aesthetics*, London and Toronto: Susquehanna University Press and Associated University Press.
+* Marks, Robert, 1970, *The Meaning of Marcuse*, New York: Ballantine Books.
+* MacIntyre, Alasdair, 1970, *Marcuse*, London: Fontana/Collins.
+* Maley, Terry (ed.), 2017, *One-Dimensional Man 50 Years On: The Struggle Continues*, Halifax and Winnipeg: Fernwood Publishing.
+* Pippin, Robert, Andrew Feenberg, and Charles Webel, 1988 (eds.). *Marcuse: Critical Theory and the Promise of Utopia*, Massachusetts: Bergin & Garvey Publishers, INC.
+* Power, Nina, 2009, *One Dimensional Woman*, Winchester, UK and Washington, USA: Zero Books.
+* –––, 2013, “Marcuse and Feminism Revisited,” *Radical Philosophy Review*, 16(1): 73–79.
+* Reitz, Charles, 2000, *Art, Alienation, and the Humanities: A Critical Engagement with Herbert Marcuse*, Albany, NY: State University of New York Press.
+* Reitz, Charles, 2019, *Ecology and Revolution: Herbert Marcuse and the Challenge of a New World System Today*, New York and London: Routledge.
+* Schoolman, Morton, 1980, *The Imaginary Witness: The Critical Theory of Herbert Marcuse*, New York: The Free Press.
+* Steuernagel, Gertrude, 1979, *Political Philosophy as Therapy: Marcuse Reconsidered*, Westport, Connecticut and London, England: Greenwood Press.
+* –––, 1994, “Marcuse, the Women’s Movement, and Women’s Studies,” in *Marcuse: From the New Left to the Next Left*, edited by John Bokina and Timothy J. Lukes, Lawrence, Kansas: University Press of Kansas.
+* Wiggershaus, Rolf, 1994, *The Frankfurt School: Its History, Theories, and Political Significance*, Michael Robertson (trans.), Cambridge, Massachusetts: The MIT Press.
+* Wolin, Richard, 2001, *Heidegger’s Children: Hannah Arendt, Karl Lüwith, Hans Jonas, and Herbert Marcuse*, Princeton and Oxford: Princeton University Press.
+* –––, 2005, “Introduction: What is Heideggerian Marxism,” in Wolin & Abromeit (eds.) 2005, pp.xi–xxx.
+* Wolff, Kurt and Barrington Moore (eds,) 1968, *The Critical Spirit: Essays in Honor of Herbert Marcuse*, Boston: Beacon Press.
+
+### Other Works Cited
+
+* Freud, Sigmund, 1915 [1949], “Repression” in *Sigmund Freud: Collected Papers* Vol. IV, Ernest Jones (trans.), London: The Hogarth Press and the Institute of Psycho-Analysis.
+* Freud, Sigmund, 1930 [1961], *Civilization and its Discontents*, James Strachey (trans.), New York and London: W.W. Norton & Company.
+* Heidegger, Martin, 1927 [1962], *Being and Time*, John Macquarrie and Edward Robinson (trans.), New York, Hagerstown, San Francisco, London: Harper & Row Publishers.
+* Marx, Karl and Friedrich Engels, 1848 [1964], *The Communist Manifesto*, Samuel Moore (trans.), New York: Washington Square Press.
+* Marx, Karl, 1844, “Okonomisch-philosophichen Manuskripte von 1844,” in *Marx-Engels-Gesamtausgabe*, half-vol 3, sect I, D. Rjazanov (ed.), Frankfurt: Marx-Engels Archiv, 1932.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=marcuse). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/marcuse/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=marcuse&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/marcuse/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Illuminations: The Critical Theory Project](http://pages.gseis.ucla.edu/faculty/kellner/Illumina%20Folder/)
+* [The Herbert Marcuse Internet Archive](http://www.marxists.org/reference/archive/marcuse/)
+* [Herbert Marcuse Official Homepage](http://www.marcuse.org/herbert/)
+* [International Herbert Marcuse Society](http://www.marcusesociety.org/)
+
+## Related Entries
+
+[Adorno, Theodor W.](https://plato.stanford.edu/entries/adorno/) | [Benjamin, Walter](https://plato.stanford.edu/entries/benjamin/) | [critical theory](https://plato.stanford.edu/entries/critical-theory/) | frankfurt-school | Freud, Sigmund | [Habermas, Jürgen](https://plato.stanford.edu/entries/habermas/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Hegel, Georg Wilhelm Friedrich: dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) | [Heidegger, Martin](https://plato.stanford.edu/entries/heidegger/) | [Horkheimer, Max](https://plato.stanford.edu/entries/horkheimer/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [Marxism, analytical](https://plato.stanford.edu/entries/marxism-analytical/)
+
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
+Arnold Farr <[*arnold.farr@uky.edu*](mailto:arnold%2efarr%40uky%2eedu)>
