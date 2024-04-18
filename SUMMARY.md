@@ -1,5 +1,8 @@
 # Table of contents
 
+* [斯坦福哲学百科全书简体中文版 J-Z 部分](README.md)
+
+
 ## J
 
 * [弗里德里希·海因里希·雅可比 Jacobi, Friedrich Heinrich (Paolo Livieri and George di Giovanni)](README.md)
