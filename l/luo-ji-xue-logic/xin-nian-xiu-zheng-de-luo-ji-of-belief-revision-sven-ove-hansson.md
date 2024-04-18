@@ -39,7 +39,7 @@
   * [6.11 信念强度的变化](https://plato.stanford.edu/entries/logic-belief-revision/#ChanStreBeli)
   * [6.12 规范和偏好的变化](https://plato.stanford.edu/entries/logic-belief-revision/#ChanNormPref)
 * [ 7. 迭代变化](https://plato.stanford.edu/entries/logic-belief-revision/#IterChan)
-* [8. 替代账户](https://plato.stanford.edu/entries/logic-belief-revision/#AlteAcco)
+* [8. 替代解释](https://plato.stanford.edu/entries/logic-belief-revision/#AlteAcco)
 
   * [ 8.1 学习理论](https://plato.stanford.edu/entries/logic-belief-revision/#LearTheo)
   * [8.2 信念变化的动态逻辑学](https://plato.stanford.edu/entries/logic-belief-revision/#DynaLogiBeliChan)
@@ -285,7 +285,7 @@ Rott 证明，在存在六个基本的 AGM 公理的情况下，如果且仅如�
 
 对于任意一组句子 A，令[A]表示包含 A 作为子集的可能世界的集合，对于任意句子 p，令[p]表示包含 p 作为元素的可能世界的集合。如果 A 是不一致的，则[A]=∅。否则，[A]是一个非空的可能世界集合。（假设⋂∅等于整个语言。）如果 K 是一个信念集，则⋂[K]=K。
 
-命题账户提供了关于信念变化某些方面的直观清晰的图景。使用几何表面来表示可能世界的集合是方便的。在图表 1 中，矩形表面上的每个点代表一个可能世界。标记为[K]的圆表示那些所有 K 中的句子都为真的可能世界，即可能世界的集合[K]。标记为[p]的区域表示那些句子 p 为真的可能世界。
+命题解释提供了关于信念变化某些方面的直观清晰的图景。使用几何表面来表示可能世界的集合是方便的。在图表 1 中，矩形表面上的每个点代表一个可能世界。标记为[K]的圆表示那些所有 K 中的句子都为真的可能世界，即可能世界的集合[K]。标记为[p]的区域表示那些句子 p 为真的可能世界。
 
 ![Diagram 1](https://plato.stanford.edu/entries/logic-belief-revision/diag1.jpg)
 
