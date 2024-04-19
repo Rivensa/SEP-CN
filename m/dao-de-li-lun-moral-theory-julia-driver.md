@@ -1,2 +1,312 @@
 # 道德理论 moral theory (Julia Driver)
 
+*首次发表于2022年6月27日星期一*
+
+关于道德理论的确切构成有很多争议。其中一些争议集中在将道德与其他实践规范性领域（如伦理和美学）区分开来的问题上。另一些争议集中在道德理论的目标和功能上。在本条目中，这两个问题都将得到解释。然而，本条目是关于道德理论作为理论的，而不是关于具体理论的调查，尽管会使用具体理论作为例子。
+
+* [ 1. 道德](https://plato.stanford.edu/entries/moral-theory/#Mora)
+
+  * [1.1 常识道德](https://plato.stanford.edu/entries/moral-theory/#CommSensMora)
+  * [1.2 道德与其他规范领域的对比](https://plato.stanford.edu/entries/moral-theory/#ContBetwMoraOtheNormDoma)
+* [2. 理论和理论美德](https://plato.stanford.edu/entries/moral-theory/#TheoTheoVirt)
+
+  * [2.1 道德理论的任务](https://plato.stanford.edu/entries/moral-theory/#TaskMoraTheo)
+  * [ 2.2 理论构建](https://plato.stanford.edu/entries/moral-theory/#TheoCons)
+* [ 3. 标准](https://plato.stanford.edu/entries/moral-theory/#Crit)
+* [4. 决策程序和实践思考](https://plato.stanford.edu/entries/moral-theory/#DeciProcPracDeli)
+* [ 参考文献](https://plato.stanford.edu/entries/moral-theory/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/moral-theory/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/moral-theory/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/moral-theory/#Rel)
+
+---
+
+## 1. 道德
+
+当哲学家从事道德理论时，他们在做什么？非常广泛地说，他们试图提供道德的系统解释。因此，道德理论的对象是道德，而且进一步说，是作为一种规范系统的道德。
+
+在最基本的层面上，道德是一组规范和原则，用于管理我们在彼此之间的行为，并被认为具有一种特殊的重量或权威（Strawson 1961）。更根本地说，我们还可以将道德看作由道德理由组成，这些理由要么基于某种更基本的价值，要么反过来为价值提供基础（Raz 1999）。
+
+同样，普遍认为道德规范是普遍适用的，即它们适用于并约束在相似情况下的每个人。表达这些规范的原则也被认为是普遍的，而不是具体的，因为它们可以“不使用直观上被认为是适当的名称或固定的明确描述”来表述（Rawls 1979, 131）。它们也普遍被认为是公正的，要求每个人都被同等对待。
+
+### 1.1 常识道德
+
+> …常识是…一种不依赖于任何艺术或规则体系的判断行为：这种行为在我们日常生活中的无数情况下必然会使用；在这些情况下，我们没有既定的原则来指导我们…我们必须根据我们能够形成的最佳即兴猜测来行动。那些在这方面极为熟练的人被称为具有较高程度的常识。（理查德·沃特利，《逻辑要素》，1851 年，xi–xii）
+
+“常识道德”在这里的意思是指我们的先理论道德判断、直觉或原则。当我们进行理论构建时（见下文），正是这些常识直觉为理论评估提供了一个试金石。亨利·西奇威克认为常识道德的原则对于我们理解道德的“第一”原则或原则非常重要。的确，一些理论构建明确地诉诸于需要解决的常识道德难题，因此需要在理论上加以解决。
+
+常识道德的特点是由我们对情况的正常反应所决定，这反过来又暗示了某些规范原则或洞察力。例如，常识道德的一个经常被提及的特点是道德中的自我/他人不对称性，这在我们的直觉反应中以各种方式表现出来。例如，许多人在道德与谨慎方面有直觉上的区别，认为道德关乎我们与他人的互动，而谨慎关乎个体的幸福，从个体的角度来看。
+
+此外，根据我们的常识直觉，即使从客观的角度来看，我们追求自己重要的项目也是不“最优”的，我们也被允许这样做（Slote 1985）。同样，一个人为了他人的利益而牺牲自己的利益，即使这并不是最优的，也被认为是可允许的，甚至是令人钦佩的。然而，在相同的情况下，一个人牺牲他人的幸福是不允许的，也是令人愤慨的。Samuel Scheffler 提出了一种观点，即将后果主义改变为包括以行动者为中心的特权，即不行动以最大化利益的特权（Scheffler 1982）。
+
+我们对某些情况的反应似乎也表明了对意图和预见、行动与允许之间的区别以及行动者与受害者之间的距离在道德上的重要性的常识承诺（Kamm 2007）。
+
+在实证道德心理学领域撰写的哲学家一直在努力确定常识道德的其他特征，例如先前的道德评价如何影响我们对行为的道德责任的归因（Alicke et. al. 2011; Knobe 2003）。
+
+许多伦理学家都同意，常识有点混乱。很容易在常识承诺之间设置不一致和紧张关系。著名的电车难题思想实验说明了结构相似的情况可能引发关于道德正确行动的截然不同的直觉（Foot 1975）。我们直觉地认为杀人比简单地让人死亡更糟糕。事实上，我们认为在以下情景中杀害一个人以拯救其他五个人是错误的：
+
+> 大卫是一位出色的器官移植外科医生。他的五个患者需要新的器官——一个需要心脏，其他人分别需要肝脏、胃、脾脏和脊髓，但他们都是同一种相对罕见的血型。偶然间，大卫得知有一个与他们血型完全匹配的健康样本。大卫可以取出健康样本的器官，杀死他，并将它们植入他的患者，拯救他们。或者他可以不取健康样本的器官，让他的患者死亡。（Thomson 1976, 206）
+
+然而，在以下情景中，我们直觉上认为杀害一个人以拯救其他五个人是完全允许的，甚至可能是义务的：
+
+> 爱德华是一辆有刹车故障的有轨电车的司机。在他前面的轨道上有五个人，银行如此陡峭，他们将无法及时离开轨道。轨道有一条引导到右侧的支线，爱德华可以将有轨电车转向它。不幸的是，右侧轨道上有一个人。爱德华可以转动有轨电车，杀死那个人；或者他可以不转动有轨电车，杀死那五个人。（汤姆森 1976 年，206 页）。
+
+理论化被认为可以以一种有原则的方式解决这些紧张关系。理论构建试图提供如何解决这种紧张关系以及如何理解它们的指导。
+
+### 1.2 道德与其他规范领域之间的对比
+
+#### 1.2.1 道德与伦理
+
+伦理学通常被理解为“作为人类生活得好”的研究。这是亚里士多德的《Nicomachean Ethics》等作品的主题，其中人类的目标是展示出卓越的人格。我们在这里理解伦理学的意义是，伦理学比道德学更广泛，包括个人自身和所爱之人的个人发展的考虑。直观地说，这种个人发展对于过上美好的生活是重要的，因为我们的身份认同都集中在我们认为重要的项目上。伯纳德·威廉姆斯和其他人将这些项目称为“基础项目”。这些项目是我们行动的许多理由的来源。对于威廉姆斯来说，如果一个行动者试图采纳道德考虑或受其指导，那么重要的伦理考虑将被忽视，比如个人的完整性和真实性（威廉姆斯 1977 年；沃尔夫 1982 年）。然而，威廉姆斯对他所称之为“道德体系”的观点非常狭隘（威廉姆斯 1985 年）。
+
+威廉姆斯列举了道德体系的各种令人反感的特征，包括道德义务的无法逃避性、道德义务的优先性、公正性以及在道德体系中存在着向普遍化的推动。
+
+对于道德体系的每个特征都进行了相当多的讨论，自从威廉姆斯以来，标准道德理论家在如何解决他提出的考虑方面做了大量的工作。威廉姆斯对道德体系的批评是对 20 世纪 80 年代道德理论的一般批评，认为其无用、有害，甚至不可能实现（克拉克 1987 年）。这种反理论的趋势是由于对后果主义和义务论的不满，导致了德性伦理学的复兴。
+
+这种观点的一个主要批评是它对道德理论的看法非常狭隘。因此，其中一些方法仅仅拒绝了威廉姆斯对道德体系的某些特征的描述，比如公正性。然而，威廉姆斯本人以及其他一些人则对道德理论的整个项目进行了攻击。这就是对道德理论化的“反理论”攻击。例如，安妮特·贝尔认为道德无法被规则体系所捕捉，这在早期德性伦理学家中非常流行。根据这种观点，将道德原则系统化并陈述为指导行为的道德理论根本是不可能的：“以德性形式的规范在某些关键方面可能是不精确的，可能是相互参照的，但不可按等级排序，可能是本质上自我参照的”（贝尔 220）。
+
+罗伯特·劳登甚至认为，对于德行伦理学的最佳解释不是伦理理论，而是一种反理论，不应被评估为试图完全理论化道德。根据劳登的观点，道德理论是出于各种原因而制定的，包括提供问题解决方案、行动公式、普遍原则等。劳登指出，这种描述非常狭窄，许多人会对此提出异议，但他并不认为反理论是反对任何形式的道德理论化，而只是反对在德行伦理学出现之前占主导地位的那种理论化。这是一种较为温和的反理论观点，例如，它似乎并不将道德原因的重要性或重要性视为问题。
+
+基于上述特点，威廉姆斯和其他反理论者对道德提出了一些问题：
+
+1. 道德要求过高且无处不在：也就是说，道德原因的重要性表明我们应该优先考虑它们而不是其他类型的原因。此外，它们渗透到我们生活的方方面面，几乎没有道德中立的领域。
+2. 道德是疏离的。道德可以以多种方式疏离。正如阿德里安·派珀所指出的那样，道德可能使行动者与自己疏离，也可能使行动者与他人疏离 - 例如，公正和普遍性可能导致这种情况（派珀 1987 年；斯托克尔 1976 年）。我们可以理解疏离的另一种方式是，行动者与自己行动的真正理由疏离 - 这是一种认为选择间接方式的理论可能导致疏离的方式（见下面的第 4 节）。
+3. 道德因为公正而不给予特殊义务的空间。也就是说，如果正确的行动是在人们之间公正的行动，那么它就不会偏袒亲近和亲爱的人。在这种观点下，很难解释父母对自己的孩子以及朋友对彼此的道德要求。这些要求本质上是不公正的。
+4. 道德致力于提供可以用一套规则或普遍原则概括的行动指南。也就是说，道德是可编码的，道德规则是普遍的。
+
+道德要求太多。基本的担忧是道德体系贪婪，并渗透到我们生活的方方面面，损害了其他重要价值观。4 所表达的担忧有各种形式。例如，一些人对 4 的前提提出异议，认为如果我们将这些原则视为行动指导，就根本没有道德原则。有人认为，没有完整的道德原则，因为道德不是可以编码的东西。而且，即使道德是可以编码的，这些“原则”也会非常具体，根本不能称为原则。
+
+自从威廉姆斯的工作以来，哲学家们试图通过提供关于一个人的理由如何在实际思考中引导而不构成明确的实践思考的一部分的方式来回应疏离的担忧。例如，彼得·雷尔顿（Peter Railton）在他的著作《复杂的后果主义》（Sophisticated Consequentialism）中辩称支持一种客观的后果主义形式，即行动的正确性是其实际后果的函数（Railton 1984）。在雷尔顿的观点中，一个人可以成为一个良好的后果主义者，而不会与所爱之人疏离。虽然其他作家并非试图捍卫道德理论本身，但他们也提供了关于代理人如何根据理由行事的解释，从而进行道德上有价值的行动，即使这些理由在他们的实际思考中没有明确表达（Arpaly 2002; Markovits 2014）。义务论者认为，自主行动不必涉及明确引用，例如，范畴命令（Herman 1985）。总的来说，这些举措的特点是理由的证明在代理人的心理中以某种形式存在-它们可以从代理人的心理中恢复-但不需要代理人在正确行动时明确表达或引用。
+
+阐述这一策略的一种方式是主张道德良好的行动者是那些对于正确类型的理由做出反应的人，尽管行动者无法明确表达反应的本质（Arpaly 2002）。这一策略不依赖于可编码的原则，并且与各种各样的道德理论发展方法相兼容。当然，它在很大程度上依赖于“理由”和“道德理由”的概念，许多道德问题的作者认为这些概念在任何情况下都是基本的。
+
+关于道德的适当范围以及道德理论如何解决与公正性相关的问题，也存在争议。康德和古典功利主义者认为道德理由是公正的，即他人所称的无代理人立场。事实上，这是德行伦理学对这两个理论提出的批评之一。有人可能主张道德理由是公正的，但存在其他成功与之竞争的理由，例如与亲近的人有关的理由，或者与自己的个人项目有关的理由。或者，一个人可以认为道德包括特殊的理由，这些理由源于特殊的义务，也能在道德上证明我们的行动的正当性。
+
+第一种策略由伯纳德·威廉姆斯和其他“反理论家”所追求。威廉姆斯再次主张，道德是一个特殊的系统，我们最好不要有（威廉姆斯，1985 年）。在道德系统中，我们看到了一种特殊的“义务”感 - 道德义务 - 具有某些特征。例如，根据道德系统，道德义务是无法逃避的。例如，康德的理论认为，我们必须按照范畴命令行事。这不是可选的。这是因为道德被描绘为对我们具有权威，甚至要求我们牺牲个人项目，牺牲使我们的生活变得顺利的东西。这对功利主义来说似乎尤为明显，功利主义认为我们必须最大化善，并且未能最大化是错误的。康德主义者将尝试通过诉诸要求较少的义务来避免这个问题，即不完美的义务。但是，正如威廉姆斯指出的那样，这些仍然是义务，因此只能被其他义务覆盖。因此，这些理论也倾向于将道德呈现为无处不在，因为道德渗入我们生活的方方面面，不给中立决策留下空间。例如，甚至关于上班穿什么鞋的决定也成为了一个道德决定：
+
+> 一旦开始进入更一般的义务领域，我们可能会陷入麻烦 - 不仅是哲学上的麻烦，还有良心上的麻烦 - 无法找到道德中立行为的空间。我已经提到过可能的道德结论，即可以采取某种特定的行动。这意味着我没有其他义务要履行。但是，如果我们接受了进一步促进各种道德目标的一般和不确定的义务...它们将等待着为闲置的双手提供工作...（威廉姆斯，1985 年，181 页）
+
+他继续写道，为了摆脱这个问题，“……我需要一个那些欺骗性的东西，对自己的责任”（威廉姆斯 1985 年，182 页）。康德伦理学提供了这一点。许多人认为这是违反直觉的，因为自我/他人的不对称似乎捕捉到了谨慎/道德的区别，但康德主义者如汤姆·希尔（Tom Hill）等人已经为至少一些对自我负有道德责任的案例提出了有力的论据。无论如何，对于像威廉姆斯这样的作家来说，道德就更糟了。
+
+其他作家，也关注威廉姆斯提出的问题，反而认为道德确实为我们的部分关注和项目提供了空间，比如规范我们的关系和有意义的项目。例如，德性伦理学家通常乐于指出，道德并不完全公正，因为存在着偏见的美德。成为一个好母亲就意味着对自己孩子的幸福有偏好。真正公正的母亲将是一个非常糟糕的母亲，缺乏适当的美德。
+
+另一个选择是认为存在部分规范，但这些部分规范本身是以公正的理由来证明的。这可以用多种不同的方式来阐述。以马西娅·巴伦（Marcia Baron）对公正性的辩护为例，她指出，批评公正性的人之所以错误，是因为他们混淆了正当性的层次：“批评者认为，坚持在规则或原则层面上坚持公正性的公正主义者，就承诺要在日常活动中决定如何做到公正性”（巴伦，1991年）。这是一个错误，因为公正主义者可以通过诉诸公正的规则或原则来证明部分规范的正当性。她在这一点上是正确的。甚至杰里米·边沁（Jeremy Bentham）也认为，例如，效用原则不应在每个案例中应用，尽管他主要是诉诸于始终使用该原则的效率成本。但是人们可以诉诸于其他考虑因素。弗兰克·杰克逊（Frank Jackson）使用掠食者的类比来论证部分规范是最大化善的策略，鉴于我们的局限性，它们提供了实际做到这一点的最佳机会（杰克逊，1991年）。同样，正如巴伦所指出的，康德主义者汤姆·希尔（Tom Hill Jr.）可以主张公正性是理想的一部分，不应该统治我们的日常生活（希尔，1987年）。这会使人们与他人疏远吗？典型的母亲对她的孩子表现出适当的偏爱，但她本人并不认为这是基于促进善的理由来证明的。一个朋友去医院看望另一个朋友，也不认为这种偏袒是基于任何进一步的原则来证明的。但这并不比一个人能够在没有推理规则知识的情况下进行良好的论证和批评坏论证更具疏远性。也许了解潜在的正当性更好，但对于某些理论来说，甚至这一点也是有争议的。 对于客观理论家（见下文），了解基本的理由可能会干扰正确行事，这种情况下最好不要知道。然而，对于某些理论家，如新亚里士多德主义的德行伦理学家来说，一个人没有这种知识和理解就不是真正的德行，尽管罗莎琳德·赫斯特豪斯（1999）并不把这作为正确行动的要求。
+
+最近，后果主义者通过价值理论本身来探讨这个问题，认为存在着与行动者相关的价值形式。这种方法能够解释支持部分道德规范的直觉，同时保留后果主义的一般结构（Sen 2000）。例如，道格拉斯·波特莫尔主张一种他称之为“常识后果主义”的形式，因为它能够适应我们日常道德直觉的许多方面（Portmore 2011）。他这样做的原因是通过论证：（1）行为的义务状态，即它是对还是错，取决于行动者执行该行为的理由 - 如果行动者对执行的行为有决定性的理由，那么它是道德上必需的。结合（2）一种关于实践理由的目的论观点，即我们执行某个行动的理由是我们有理由偏好或欲望的功能，我们得到了一种行为后果主义的形式，但这种形式可以接受我们有理由偏好或欲望亲近和亲爱的人的幸福。
+
+尽管这其中有很多争议，但普遍认为道德理由是重要的，不是以自我为中心的 - 与务实理由相对应，并且与价值问题[责任，适当性]有关。
+
+#### 1.2.2. 道德和美学
+
+道德评价方式在内容上与美学评价方式有所不同，也在权威性上有所不同。例如，艺术作品被评价为“美丽”或“丑陋”，这些评价通常不被视为普遍或客观的道德评价。道德评价和美学评价之间的这些区别受到了质疑，并成为元伦理学中关于道德和美学规范以及道德和美学主张真值条件的一些有趣辩论的主题。但是，从直觉上来看，美学似乎至少比道德更缺乏客观性。
+
+一些作家指出，为了避免评价谬误，我们需要意识到道德规范与其他规范领域的规范之间的区别，并且许多讨论集中在美学中被称为“道德谬误”的问题上（D'Arms 和 Jacobson 2000）。
+
+反理论家对道德提出的一个挑战是指出，在一个人的生活中，会出现某些规范冲突，包括道德和审美之间的冲突。过分强调道德来判断一个人的生活是否良好，相对于实现或尊重这些规范。一个人的生活不能在追求美学时牺牲道德的情况下过得好吗？
+
+这种辩论在道德理论中有着悠久的历史。例如，它作为对 G.E.摩尔的理想功利主义的批评形式而出现，该理论将美视为一种内在的善，并且在原则上至少在道德上证明了在对他人行为良好和创造美之间进行权衡是合理的（摩尔 1903 年）。但是，反理论家并不追求这种容纳审美的方法，而是认为审美是一个独立的规范领域，在人类繁荣中具有自己的重要性和意义。
+
+## 2. 理论和理论美德
+
+有共识认为理论在某种程度上起到了系统化的作用，并且其中一个功能是审查与道德和道德实践相关的重要概念以及它们之间的联系（如果有的话）。例如，20 世纪中期非常普遍的观点之一，被归因于约翰·罗尔斯（John Rawls），是将道德理论视为主要关注理解“正确”和“善良”以及两者之间的联系（Rawls）。优先权主张通常是道德理论系统化作用的核心特征。与此相关的是解释或理论深度的问题。也就是说，解释越深入，越好。
+
+理论还追求简洁性、连贯性和准确性。理论需要假设的复杂性越少越好，理论的各个部分应该很好地契合在一起。例如，理论不应包含不一致的原则或具有不一致的含义。理论应涵盖所讨论的现象。在道德理论的情况下，所讨论的现象被认为是我们经过深思熟虑的道德直觉或判断。另一个连贯性条件还涉及理论与一个人的一系列深思熟虑的判断相一致。
+
+最后需要强调的一个特点，特别是对于道德理论来说，就是适用性。对于一些规范伦理理论的批评之一是它们不适用。例如，美德伦理学因为没有提供我们的道德义务是什么的解释而受到批评 - 只是依赖于在特定情况下一个有德行的人会做什么似乎设定了一个非常高的标准，或者没有回答关于我们应该如何制定指导人们社会义务的法律的相关问题。同样，将“正确行动”理解为实际后果的客观后果主义者因为在特定情况下什么算作正确行动是不可知的，因此作为行动指南是无用的而受到批评。这两种方法都对这个担忧提供了回应，但这支持了道德理论的一个要求是它具有适用性。
+
+### 2.1 道德理论的任务
+
+道德理论的一个任务（尽管这在某种程度上是有争议的）是给出对正确行动的解释。通常，这将涉及到对什么算作善的阐述 - 有些理论会以它们如何接近善来详细说明，通过最大化善、产生足够的善、尊重善等等。此外，一些理论会通过按照自己的职责行事或者按照有德行的人会如何行事来解释正确行动。在这些情况下，“职责”和“美德”的概念对于整体分析变得重要，道德理论的一个功能就是探索职责或美德与正确和善之间的系统联系。
+
+道德理论也具有实质性和形式性的目标。道德理论试图提供判断行为的标准。这个标准可能很简单，比如正确的行为最大化了善，或者可能很复杂，比如正确的行为是给予每个竞争义务适当的权重。有时候，为了承认并不总是有“唯一”的正确行为，理论只是提供了错误性或可允许性和不可允许性的解释，这允许一系列行为被视为“正确”。
+
+除了简单地提供正确或美德行为的标准，或者成为一个美德的人的标准，一个给定的道德理论，例如，将试图解释为什么某些事物，比如行为或品格特征，具有特定的道德品质，比如正确性或美德。一些理论认为正确性是以价值为基础或解释的。一些理论认为正确性是先于价值的原因问题。在每种情况下，提供“正确性”或“美德性”属性的解释将是提供基础价值是什么，或行动原因的解释。
+
+此外，道德理论还可以提供决策程序，以确定如何正确或美德地行动，成为善良或美德的条件，或道德适当实践思考的条件。因此，理论为评估和理由提供了实质。然而，道德理论通过提供一个解释框架，帮助我们看到标准和决策程序之间的联系，以及提供其他形式的系统化。因此，道德理论将根据其理论优点进行评估：简单性，解释力，优雅等。要将道德理论作为理论进行评估，每个理论都需要根据其在实现这些理论目标方面的成功程度进行评估。
+
+道德理论还有许多更专门的要素。例如，道德理论通常关注与行动和品格相关的道德心理特征，如动机、意图、情绪和理由的回应能力。一个将后果考虑进道德质量确定的道德理论，也会关注与这些后果的适当聚合以及需要考虑的后果范围相关的问题。
+
+### 2.2 理论构建
+
+长期以来，人们一直将道德理论与其他类型的理论进行比较，如科学理论。例如，在元伦理学中，一个问题涉及到道德“证据”的本质，类似于科学证据。根据罗纳德·德沃金（Ronald Dworkin）所称的“自然模型”，道德的真理是被发现的，就像科学的真理一样（德沃金，1977 年，160 页）。我们深思熟虑的直觉提供了发现这些道德真理的线索，就像我们所观察到的提供了发现科学真理的证据一样。他将这个模型与“建构模型”进行了比较，在建构模型中，直觉本身是正在构建的理论的特征，而不是类似于对外部世界的观察。
+
+然而，即使我们决定道德缺乏与科学相同类型的现象需要解释，道德显然仍然在我们的规范判断和反应中起着作用。例如，我们对道德案例的直觉可以被视为需要被任何一种理论解释的基本数据。
+
+“解释”我们深思熟虑的直觉的一种方式是揭穿它们。道德哲学中也有这样的传统。当学者们通过解释道德的谱系，将我们深思熟虑的直觉解释为与社会或进化力量有关，而这些力量并不关注真理时，他们正在揭穿道德，削弱我们的直觉对其洞察力的权威性（尼采 1887 [1998]，乔伊斯 2001，斯特里特 2006）。然而，在本文中，我们考虑的是道德理论家通过将直觉视为需要系统化、解释和应用以产生正确道德决策或结果的东西而构建他们的解释。
+
+沿着这些线索，理论构建中使用的一种方法涉及反思均衡和最佳解释推理。例如，一个人可能会注意到在两个结构相似的案例中关于道德判断存在明显的不一致，然后试图找出什么原则或一组原则可以使它们之间达到一致。在这种情况下，理论家试图弄清楚什么最好地解释了这两种直觉。但是，一个人也可能在思考自己已经接受或认为合理的原则之后，根据它与自己的其他深思熟虑观点不一致的基础上拒绝其中一种直觉。但是，由于之前讨论过的完全理论优点，完整的理论构建将超越这一点。我们希望有一个系统的解释，它不仅与自身相一致，而且与我们基于良好证据所相信的其他事物相一致。
+
+## 3. 标准
+
+ 考虑以下情况：
+
+> Malory 答应带 Chris 去购物。不幸的是，当 Malory 离开公寓时，Sam 打来紧急请求：请立刻过来我家，我的水管坏了，我需要帮助！犹豫不决的 Malory 决定帮助 Sam，从而违背了对 Chris 的承诺。
+
+Malory 做对了吗？做了道德正确的事情吗？Malory 违背了一个承诺，这在某种程度上是错误的，但 Sam 处于紧急情况，需要立即帮助。即使在这种情况下，Malory 的行为是正确的，为什么它是正确的是一个有趣的问题。在做出这些判断时，我们可以依据什么来做出呢？这引出了一个问题，即如何在道德上证明自己的行为。这是理解我们行为的正当理由的任务。在特定情况下，什么使一种行为成为正确的选择？这是正确性（或错误性）的标准。我们将重点关注正确性的标准，尽管在其他道德评价方式中也会涉及到标准问题，比如判断一种行为是否是道德的，或者判断它在某种程度上是否是好的，即使不是正确的。事实上，一些作家认为“道德上正确”应该从现代世俗伦理学中被抛弃，因为它假设了一个来自宗教账户的概念框架，而这些账户假设存在一个上帝（Anscombe 1958）。然而，我们暂时不考虑这些担忧，而是专注于标准解释。
+
+以下是一些玩具例子，展示了道德理论的不同结构特征，并阐述了不同的标准：
+
+> 后果主义。
+> 正确的行动是在行动时产生好处的行动（辛格）。这个理论最著名的版本是古典功利主义，它认为正确的行动促进快乐（密尔）。
+>
+> 康德的义务论。
+> 道德上有价值的行动符合范畴命令，要求行动者不要以不尊重他人理性本质的方式行事（康德）。
+>
+> 罗斯的道德理论。
+> 正确的行动是与履行和/或不违反个人初步义务（罗斯）最符合的行动。
+>
+> 契约主义。
+> 如果一种行为是那些理性人不能合理拒绝的原则所禁止的行为，那么这种行为在道德上是错误的（斯坎伦）。
+>
+> 道德伦理学。
+> 在特定情况下，正确的行动是一个有德行的人通常会执行的行动（赫斯特豪斯 1999 年）。
+
+这些原则规定了行动评估的标准或准则。它们并不一定告诉我们如何执行正确的行动，也不是决策程序本身，尽管它们可以很容易地转化为决策程序，例如：你应该尽力执行在行动时可用的选项中最大化好处的行动。这可能不是一个很好的决策程序，在普通情况下可能不是，它本身需要根据理论所规定的准则进行评估。
+
+这些理论可以大致分为德性论、后果论和美德伦理学三个类别。关于如何准确划分这些类别，一直存在着激烈的争论。有人认为德性论只是那些非后果论的理论。对于后果论理论的一个普遍观念是，它们以一种特定的方式进行还原主义——也就是说，通过将行动的德性特征（例如正确性、义务性）还原为关于行动者选择和选择后果的事实（Smith 2009）。如果是这样的话，那么似乎德性论方法就是那些不以这种方式还原的方法。然而，这未能捕捉到许多形式的美德伦理学的独特特征，它们既不是后果论，也不一定关注我们应该做什么，而是关注我们应该成为什么样的人。
+
+一个区分后果主义和义务论理论的方法是从价值的角度来看待它们。菲利普·佩蒂特（Philip Pettit）提出，后果主义理论要求促进价值，而义务论理论建议尊重或尊敬价值。在这些观点中，价值是理论的重要组成部分，理论将根据其价值理论部分划分。像杰里米·边沁（Jeremey Bentham）这样的功利主义者认为快乐主义是正确的价值理论，而像 G·E·摩尔（G. E. Moore）这样的功利主义者，但在价值观方面是多元论者，认为快乐主义是过于狭隘的解释。而康德主义者则认为，价值根植于理性的本质，根植于符合范畴命令的意愿。
+
+由于先前讨论的道德理论的系统化功能，最简单的解释是首选的，因此人们开始远离支持价值多元论。当然，随着对每个更简单的选择施加的直观压力增加，对于对错标准的多元论解释最符合道德直觉。
+
+以理由为先的哲学家会以不同的方式划分这些理论。例如，一个人可能将善理解为我们有理由渴望的事情，这样我们有理由渴望的事情就优先于善而不是相反。价值仍然是理论的重要组成部分，只是这个价值是以理由为基础的。
+
+规范理论之间的另一个区别是主观和客观版本的理论之间的区别。这个区别贯穿其他类别。例如，所有主要道德理论都有主观形式，而许多理论都有客观版本。正确的客观标准认为，行动者必须实际达到标准-达到标准是一种“客观”的行为，不依赖于行动者的心理状态-才能被视为正确或有德行。主观标准有两种广义形式：
+
+1. 心理敏感：证明理由是否是行动者的思考过程的一部分？或者，更弱地说，它们是否可以从行动者的心理中“恢复”[例如，行动者对提供理由的价值有承诺]。
+2. 证据敏感：正确的行动不是实际达到标准的行动，而是行动者可以预见到会达到该标准的行动。[这可以有很多不同的解释，取决于相关的证据程度：根据行动者实际预见到的情况，根据行动者所知道的情况，根据拥有合理证据的人可以预见到的情况等等。]
+
+当然，这两者可以重叠。对于评价内在主义者来说，证据敏感性似乎不是一种合理的标准解释方式，除非间接地。这种区别经常出现在后果主义中，客观标准被认为是：正确的行动是实际促进善的行动，而主观标准则是：正确的行动是根据行动者自己的观点促进善的行动（心理敏感），或者正确的行动是根据行动时可获得的证据促进可预见的善（证据敏感标准）。其他道德标准也有可能是客观的。例如，正确的行动是具有德行的人会采取的行动，即使行动者在情况下没有意识到这是德行人会采取的行动，即使具有最佳可获得证据的人也无法意识到这是德行人会采取的行动。
+
+我们确实会说出支持主观和客观使用的“应该做什么”或“正确”的话语。弗兰克·杰克逊在写作时指出了这一点：
+
+> …我们别无选择，只能承认一系列的“应该”——根据她在行动时的信念，她应该做什么……根据一个或多个拥有不同信息的旁观者的观点，以及，更重要的是，根据上帝的观点……也就是根据一个知道每种行动的结果和可能发生的人的观点。（杰克逊，1991 年，471 页）。
+
+对于杰克逊来说，行动的首要义务，行动的“正确性”最直接相关的义务，是“最直接与行动相关的义务”，否则，我们就无法理解行动是代理人的。因此，主观的“应该”在这个意义上是首要的，伦理学理论应该关注这一点（杰克逊，1991 年）。每种类型的理论家都利用我们的日常语言直觉来支持他们的观点。但理论的一个要求是它不仅仅反映这些直觉，还提供了批判性分析它们的工具。鉴于我们的语言允许两种类型的“应该”，有趣的问题是哪一种，如果有的话，从实际上提供了评估其他事物的标准？道德理论不仅仅关注从代理人的角度来看什么是正确的行动。
+
+有三种可能性：
+
+1. 两者都没有首要性
+2. 主观具有首要性
+3. 客观具有首要性
+
+首先，我们需要理解“首要性”的含义。对于弗兰克·杰克逊来说，“正确”或“应该”的主要意义是主观的，因为我们关心的是指向内在故事的“正确”，可以说是我们的代理故事。在这种观点下，客观和主观的意义可能根本没有任何关系，哪个意义被视为首要仅取决于我们的兴趣。然而，我们在这里关心的问题是一个意义是否可以用另一个意义来解释。选项 1 认为没有解释性的联系。这在理论上并不令人满意。选项 2 认为要么真的没有有意义的客观意义，只有主观意义，要么客观意义是以主观意义为基础理解的。
+
+让我们再次看一下客观表达：“他做了正确的事情，但当时他并不知道（或者他当时无法知道）”。也许这只是意味着“他做了一个有所有事实和正确价值观的人会根据自己的标准认为是正确的事情” - 这在本质上与“他以最好的实际后果执行了这个行动”是一样的。这当然是客观正确的可能解释之一，它使用了一个主观标准。但它违背了主观标准的精神，因为它既不与行动者的心理学相关，也不与行动者实际可获得的证据相关。因此，选择第 3 个选项似乎更自然。这个选项的一个优点是它给我们提供了一个关于客观和主观之间联系的良好而统一的解释。那么，主观标准就是赞扬和责备的标准，它们本身可以根据客观标准进行评估。随着时间的推移，人们可以判断一个标准在特定类型的情境中是否实际有效。或者，也许事实证明在责备方面有几个标准，这些标准在严重程度上有所不同。例如，如果某人行为疏忽，可以合理地认为这个人是有过失的，但不像故意行为那样有过失。
+
+至于客观标准不能提供行动指导的担忧，客观理论家可以认为行动指导是由赞扬/责备的主观标准提供的。此外，标准本身可以通过规范审查（Driver 2012）为我们提供行动指导所需的内容。规范审查是对实际上符合标准的事物以及在什么情况下符合标准的回顾。
+
+现在，考虑一个德行伦理的例子。正确的行动是一个具有特征性的善良人在特定情况下实际执行的行动，而不是代理人认为善良人会执行的行动。然后，我们根据代理人的“v 规则”评估其与善良理想的接近程度。
+
+## 4. 决策程序和实际思考
+
+道德理论的另一个功能是为人们提供决策程序，以确保他们执行正确的行动。事实上，一些作家，如 R.M.哈尔认为行动指导是道德理论的功能之一（Hare 1965）。这引发了一个问题，即哪些考虑因素与这些原则的内容相关 - 例如，这些原则是否应考虑到大多数人的认识限制？道德原则必须具有行动指导性，这是 Holly Smith 所称的“可用性要求”：“…一个可接受的道德原则必须可用于指导道德决策…”（Smith 2020，11）。 Smith 列举了满足这一要求的不同形式，并指出如何为了满足这一要求而具体阐述一个原则将取决于道德理论家对道德成功的看法。例如，成功是否仅通过做出正确的决策而实现，还是除了做出正确的决策外，代理人还必须在该决策上成功跟进。
+
+在关于遵循规则或原则的问题上，存在着巨大的争论，有人怀疑当我们认为自己在遵循规则时，实际上并不是这样做的。（克里普基，1982 年）一些德行理论家认为，道德感知实际上是在指导我们，并且一个有德行的人能够感知到什么是道德相关的，并相应地行动（麦克道尔，1979 年）。
+
+然而，正如前面在标准一节中讨论的那样，这也是有争议的，因为一些理论家认为决策程序本身并不具有根本意义。再次，认为理论的根本任务是建立一个正确标准的客观后果主义者认为，决策程序本身将根据其实际实现正确的程度来建立和评估。因此，决策程序是派生的。其他人，如主观后果主义者，将主张决策程序在某种意义上规定了标准，即遵循决策程序本身就足以满足标准。例如，客观后果主义者认为正确的行动最大化了善，而主观后果主义者可能认为正确的行动是尽力最大化善，无论是否实际实现（梅森，2003 年和 2019 年）。因此，遵循决策程序本身就是标准。
+
+至少自从西奇威克以来，准则和决策程序之间的区别已经被认可和讨论过，尽管早期的伦理学家也提到过这一区别。这种区别使得伦理理论能够避免荒谬的推论。例如，如果该理论推荐的标准是“促进善良”，那么认为“促进善良”需要成为行动者思考的一部分就是错误的。结果主义者可能会说，相反，决策程序将是一个实证问题，决策程序会因情境而异。肯定会有一些情况下，最好是考虑满足标准本身，但这同样是一个实证问题。同样，美德伦理学家可以认为正确的行动是美德行动者在特定情况下会采取的行动，但也可以认为行动者的思考过程不需要参考标准。几乎所有的理论都希望在标准和决策程序之间留出一些空间，以避免要求行动者必须按照正确的标准思考才能行事正确，甚至具有道德价值。在做正确的事情和出于正确的原因做正确的事情之间存在区别。出于正确的原因做正确的事情使得行动具有道德价值，因为它展示了良好的意愿品质。理论可以认为“善意”是理解行动的根本理由，但这似乎要求过高。如果后果主义是正确的理论，那么要求人们必须明确地有意识地最大化善良将导致较少的具有道德价值的行动，这似乎不太合理。对于“出于正确的原因”，必须理解为不允许明确引用真正的证明标准。
+
+这导致了提倡间接性的理论的发展。首先，我们需要区分间接性如何在道德哲学中发挥作用。
+
+1. 在评估正确行动时的间接性。
+2. 理论中的间接性并不一定提倡必须追求正确行动的必要性。
+
+再以功利主义为例，规则功利主义是第一种间接性的例子（胡克，2000年），*复杂后果主义*是第二种间接性的例子（雷尔顿，1984年）。我们可以认为，亚里士多德美德伦理学的某些版本，如罗莎琳德-赫斯特豪斯（Rosalind Hursthouse）的版本，也属于第一种类型，因为正确的行动是从美德的角度来理解的。我们可以设想一种具有类似结构的间接结果论观点：正确的行动是有美德的人会采取的行动，在这种观点中，美德被理解为一种有利于善的特质，而不是诉诸亚里士多德关于人类繁荣的概念。
+
+第二种正确的行为依赖于标准/决策程序的区别。雷尔顿认为，人际关系对人是有益的，而明确地试图最大限度地实现善并不是我们人际关系规范的一部分，因此，我们发展出关注和特别关注我们所爱的人的倾向很可能是好的。这种观点认为，不相信结果论的人有可能以另一种方式决定如何行动，而这种方式与促进善是相关的。如果一种理论所规定的标准不需要由行为人以标准所规定的理由来指导自己来实现，那么这种理论就被称为*自我克制*。当一种理论是自我否定的时候，它就会产生一个问题，那就是使人与自己行为的正当性相疏远。一种更接近雷尔顿观点的中间立场认为，正确的理由对于道德高尚的人来说是一种 "试金石"--定期参考以进行自我调节，但在我们普通的日常生活中并不被明确考虑。这样一来，该理论就不会完全自我贬低，行为人仍然可以理解自己行为的道德基础。
+
+## Bibliography
+
+* Alicke, Mark, David Rose and Dori Bloom, 2011, “Causation, Norm Violation, and Culpable Control,” *Journal of Philosophy*, 108(12): 670–696.
+* Annas, Julia, 2011, *Intelligent Virtue*, New York: Oxford University Press.
+* Arpaly, Nomy, 2002, *Unprincipled Virtue*, New York: Oxford University Press.
+* Baier, Annette, 1985, *Postures of the Mind*, Minneapolis, MN: University of Minnesota Press.
+* Baron, Marcia, 1991, “Impartiality and Friendship,” *Ethics*, 101(4): 836–857.
+* –––, 1995, *Kantian Ethics Almost Without Apology*, Ithaca, NY: Cornell University Press.
+* Clarke, Stanley G, 1987, “Anti-Theory in Ethics,” *American Philosophical Quarterly*, 24(3): 237–244.
+* D’Arms, Justin and Daniel Jacobson, 2000 , “The Moralistic Fallacy: On the ‘Appropriateness’ of Emotions,” *Philosophy and Phenomenological Research*, 61(1): 65–90.
+* Darwall, Stephen, 2006, *The Second-Person Standpoint*, Cambridge, MA: Harvard University Press.
+* Dreier, Jamie, 1993, “Structures of Normative Theories,” *The Monist*, 76(1): 22–40.
+* Driver, Julia, 2012, “What the Objective Standard is Good For,” in Mark Timmons (ed.), *Oxford Studies in Normative Ethics*, New York: Oxford University Press, 28–44.
+* Dworkin, Ronald, 1977, *Taking Rights Seriously*, Cambridge, MA: Harvard University Press.
+* Foot, Philippa, 1967, “Abortion and the Doctrine of Double Effect,” *Oxford Review*, 5: 5–15.
+* Graham, Peter, 2010, “In Defense of Objectivism About Moral Obligation,” *Ethics*, 121(1): 88–115.
+* Hare, R. M., 1965, *Freedom and Reason*, New York: Oxford University Press.
+* Herman, Barbara, 1985, “The Practice of Moral Judgment,” *Journal of Philosophy*, 82(8): 414–436.
+* Hill, jr., Thomas E., 1987, “The Importance of Autonomy,” in Eva Kittay and Diana Meyers (ed.) *Women and Moral Theory*, Totowa, NJ: Rowman & Allanheld, 129–138.
+* Hooker, Brad, 2000, *Ideal Code, Real World*, New York: Oxford University Press.
+* Hurka, Thomas, 2001, *Virtue, Vice, and Value*, New York: Oxford University Press.
+* Hursthouse, Rosalind, 1999, *On Virtue Ethics*, New York: Oxford University Press.
+* Jackson, Frank, 1991, “Decision-theoretic Consequentialism and the Nearest and Dearest Objection,” *Ethics*, 101(3): 461–482.
+* Jeske, Diane, 2008, *Rationality and Moral Theory: How Intimacy Generates Reasons*, New York: Routledge.
+* Joyce, Richard, 2001, *The Myth of Morality*, New York: Cambridge University Press.
+* Keas, Michael, 2018, “Systematizing the Theoretical Virtues,” *Synthese*, 195: 2761–2793.
+* Kagan, Shelley, 1989, *The Limits of Morality*, New York: Oxford University Press.
+* Kamm, Frances, 2007, *Intricate Ethics: Rights, Responsibilities, and Permissible Harm*, New York: Oxford University Press.
+* Kant, Immanuel, 1785 [2012], *Groundwork of the Metaphysics of Morals*, tr. by Mary Gregor and Jens Timmerman, New York: Cambridge University Press, 2012.
+* Knobe, Joshua, 2003, “Intentional Action in Folk Psychology: An Experimental Investigation,” *Philosophical Psychology*, 16(2): 309–325.
+* Kripke, Saul, 1982, *Wittgenstein on Rules and Private Languages*, Cambridge, MA: Harvard University Press.
+* Louden, Robert, 1990, “Virtue Ethics and Anti-Theory,” *Philosophia*, 20(1–2): 93–114.
+* Markovits, Julia, 2014, *Moral Reason*, New York: Oxford University Press.
+* Mason, Elinor, 2003, “Consequentialism and the ‘Ought Implies Can’ Principle,” *American Philosophical Quarterly*, 40(4): 319–331.
+* –––, 2019, *Ways to Be Blameworthy: Rightness, Wrongness, and Responsibility*, New York: Oxford University Press.
+* McDowell, John, 1979, “Virtue and Reason,” *The Monist*, 62(3): 331–350.
+* Moody-Adams, Michelle, 2002, *Fieldwork in Familiar Places: Morality, Culture, and Philosophy*, Cambridge, MA: Harvard University Press.
+* Moore, G. E., 1903 [1993], *Principia Ethica*, ed. Thomas Baldwin, New York: Cambridge University Press, 1993.
+* Nagel, Thomas, 1979, “The Fragmentation of Value,” in *Mortal Questions*, New York: Cambridge University Press, 128–141.
+* Nietzsche, Friedrich, 1887 [1998], *On the Genealogy of Morality*, Maudemarie Clark and Alan J. Swensen (trans.), Indianapolis, IN: Hackett Publishing.
+* Norcross, Alastair, 2020, *Morality By Degrees*, New York: Oxford University Press.
+* Olson, Jonas, 2004, “Buck-Passing and the Wrong Kind of Reasons,” *Philosophical Quarterly*, 54(215): 295–300.
+* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Clarendon Press.
+* Pettit, Phillip, 1997, “The Consequentialist Perspective,” in *The Three Methods of Ethics*, by Marcia Baron, Phillip Pettit, and Michael Slote, Oxford: Blackwell, 92–174.
+* Pettit, Phillip, and Michael Smith, 2000, “Global Consequentialism,” in Brad Hooker, et al. (eds.), *Morality, Rules, and Consequences*, Edinburgh: University of Edinburgh Press, 121–133.
+* Phillips, David, 2019, *Rossian Ethics*, New York: Oxford University Press.
+* Piper, Adrian, 1987, “Moral Theory and Moral Alienation,” *Journal of Philosophy*, 82(2): 102–118.
+* Portmore, Douglas, 2011, *Commonsense Consequentialism*, New York: Oxford University Press.
+* Rabinowicz, Wlodek and Toni Ronnow-Rasmussen, 2004, “The Strike of the Demon: on Fitting Pro-Attitudes and Value,” *Ethics*, 114(3): 391–423.
+* Railton, Peter, 1984, “Alienation, Consequentialism, and the Demands of Morality,” *Philosophy and Public Affairs*, 13(2): 134–171.
+* Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Belknap Press.
+* Scanlon, T. M., 1998, *What We Owe to Each Other*, Cambridge, MA: Belknap Press.
+* –––, 2008, *Moral Dimensions*, Cambridge, MA: Harvard University Press.
+* Scheffler, Samuel, 1982, *The Rejection of Consequentialism*, New York: Oxford University Press.
+* Schneewind, J. B., 1963, “First Principles and Common-sense Morality in Sidgwick’s Ethics,” *Archiv fur Geschichte der Philosophie*, 45(2): 137–156.
+* –––, 1990, “The Misfortunes of Virtue,” *Ethics*, 101(1): 42–63.
+* Schofield, Paul, 2021, *Duty to Self: Moral, Political, and Legal Self-Relation*, New York: Oxford University Press.
+* Sen, Amartya, 2000, “Consequential Evaluation and Practical Reason,” *The Journal of Philosophy*, 47(9): 477–502.
+* Sidgwick, Henry, 1874 [1907], *The Methods of Ethics*, London: Macmillan. [The seventh edition was published in 1907.]
+* Singer, Marcus, 1986, “Ethics and Common Sense,” *Revue Internationale de Philosophie*, 40(158): 221–258.
+* Slote, Michael, 1985, *Common-Sense Morality and Consequentialism*, New York: Routledge & Kegan Paul.
+* –––, 2007, *The Ethics of Care and Empathy*, New York: Routledge.
+* Smith, Holly, 2018, *Making Morality Work*, New York: Oxford University Press.
+* Smith, Michael, 2009, “Two Kinds of Consequentialism,” *Philosophical Issues*, 19(1): 257–272.
+* Stark, Cynthia, 1997, “Decision Procedures, Standards of Rightness and Impartiality,” *Noûs*, 31(4): 478–495.
+* Stocker, Michael, 1976, “The Schizophrenia of Modern Ethical Theories,” *Journal of Philosophy*, 73(14): 453–466.
+* Strawson, Peter, 1961, “Social Morality and Individual Ideal,” *Philosophy*, 36(136): 1–17.
+* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value,” *Philosophical Studies*, 127(1): 109–166.
+* Thomson, Judith Jarvis, 1976, “Killing, Letting Die, and the Trolley Problem,” *The Monist*, 59(2): 204–217.
+* Wiland, Eric J, “The Incoherence Objection in Moral Theory,” *Acta Analytica*, 25(3): 279–284.
+* Williams, Bernard, 1985, *Ethics and the Limits of Philosophy*, New York: Oxford University Press.
+* Wolf, Susan, 1982, “Moral Saints,” *Journal of Philosophy*, 79(8): 419–439.
+* –––, 2014, “Loving Attention: Lessons in Love from *The Philadelphia Story*,” in Susan Wolf and Christopher Grau (eds.), *Understanding Love: Philosophy, Film, and Fiction*, Oxford: Oxford University Press, pp. 369–386.
+* Zagzebski, Linda Trinkhaus, 2017, *Exemplarist Moral Theory*, New York: Oxford University Press.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-theory). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/moral-theory/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=moral-theory&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/moral-theory/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [ethics: deontological](https://plato.stanford.edu/entries/ethics-deontological/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [morality, definition of](https://plato.stanford.edu/entries/morality-definition/) | [value theory](https://plato.stanford.edu/entries/value-theory/)
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+Julia Driver <[*julia.driver@austin.utexas.edu*](mailto:julia%2edriver%40austin%2eutexas%2eedu)>
