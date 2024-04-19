@@ -504,7 +504,7 @@
 
 * [龙树 Nāgārjuna (Jan Christoph Westerhoff)](n/long-shu-ngrjuna-jan-christoph-westerhoff.md)
 * [名词 names (Sam Cumming)](n/ming-ci-names-sam-cumming.md)
-* [国家主义 nationalism (Nenad Miscevic)](n/guo-jia-zhu-yi-nationalism-nenad-miscevic.md)
+* [民族主义 nationalism (Nenad Miscevic)](n/guo-jia-zhu-yi-nationalism-nenad-miscevic.md)
 * [\*日本国学——见日本哲学：日本国学 Native Japan Studies (Kokugaku) School — see Japanese Philosophy: Kokugaku School](n/ri-ben-guo-xue-jian-ri-ben-zhe-xue-ri-ben-guo-xue-native-japan-studies-kokugaku-school-see-japanese.md)
 * [保罗·纳托尔普 Natorp, Paul (Alan Kim)](n/bao-luo-na-tuo-er-pu-natorp-paul-alan-kim.md)
 * [逻辑学中的自然演绎系统 natural deduction systems in logic (Francis Jeffry Pelletier and Allen Hazen)](n/luo-ji-xue-zhong-de-zi-ran-yan-yi-xi-tong-natural-deduction-systems-in-logic-francis-jeffry-pelletie.md)
