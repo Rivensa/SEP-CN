@@ -416,7 +416,7 @@
 * [\*模态认识论——见模态：模态认识论 modal epistemology — see modality: epistemology of](m/mo-tai-ren-shi-lun-jian-mo-tai-mo-tai-ren-shi-lun-modal-epistemology-see-modality-epistemology-of.md)
 * [\*模态 modality](m/mo-tai-modality/README.md)
   * [\*笛卡尔——见勒内·笛卡尔：笛卡尔的模态形而上学 Descartes and — see Descartes, René: modal metaphysics](m/mo-tai-modality/di-ka-er-jian-le-nei-di-ka-er-di-ka-er-de-mo-tai-xing-er-shang-xue-descartes-and-see-descartes-ren-m.md)
-  * [\*模态认识论 epistemology of (Antonella Mallozzi, Anand Vaidya, and Michael Wallner)](m/mo-tai-modality/mo-tai-ren-shi-lun-epistemology-of-antonella-mallozzi-anand-vaidya-and-michael-wallner.md)
+  * [模态认识论 epistemology of (Antonella Mallozzi, Anand Vaidya, and Michael Wallner)](m/mo-tai-modality/mo-tai-ren-shi-lun-epistemology-of-antonella-mallozzi-anand-vaidya-and-michael-wallner.md)
   * [\*不可能世界——见不可能世界 impossible worlds — see impossible worlds](m/mo-tai-modality/bu-ke-neng-shi-jie-jian-bu-ke-neng-shi-jie-impossible-worlds-see-impossible-worlds.md)
   * [\*莱布尼茨——见戈特弗里德·威廉·莱布尼茨：莱布尼茨的模态形而上学 Leibniz and — see Leibniz, Gottfried Wilhelm: modal metaphysics](m/mo-tai-modality/lai-bu-ni-ci-jian-ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-lai-bu-ni-ci-de-mo-tai-xing-er-shang-xue-leib.md)
   * [中世纪的模态理论 medieval theories of (Simo Knuuttila)](m/mo-tai-modality/zhong-shi-ji-de-mo-tai-li-lun-medieval-theories-of-simo-knuuttila.md)
