@@ -1,6 +1,6 @@
 # 道德认识论 moral epistemology (Richmond Campbell)
 
-*首次发表于2003年2月4日；实质性修订于2019年11月6日*
+_首次发表于2003年2月4日；实质性修订于2019年11月6日_
 
 道德认识论如何可能？这个问题在道德认识论中是核心问题，并标志着一系列问题。最重要的问题如下。
 
@@ -28,17 +28,14 @@
 * [1. 社会学：道德分歧和社会多样性](https://plato.stanford.edu/entries/moral-epistemology/#SocMorDisSocDiv)
 * [2. 心理学：道德动机](https://plato.stanford.edu/entries/moral-epistemology/#PsyMorMot)
 * [3. 存在论：道德事实和道德自然主义](https://plato.stanford.edu/entries/moral-epistemology/#OntMorFacMorNat)
-
-  * [ 3.1 神学事实](https://plato.stanford.edu/entries/moral-epistemology/#TheFac)
-  * [ 3.2 非自然事实](https://plato.stanford.edu/entries/moral-epistemology/#NonFac)
-  * [ 3.3 自然事实](https://plato.stanford.edu/entries/moral-epistemology/#NatFac)
+  * [3.1 神学事实](https://plato.stanford.edu/entries/moral-epistemology/#TheFac)
+  * [3.2 非自然事实](https://plato.stanford.edu/entries/moral-epistemology/#NonFac)
+  * [3.3 自然事实](https://plato.stanford.edu/entries/moral-epistemology/#NatFac)
 * [4. 进化论：道德为何进化的生物学解释](https://plato.stanford.edu/entries/moral-epistemology/#EvoBioExpWhyMorEvo)
-
   * [4.1 从简洁性、清晰性和非循环性的反驳论证](https://plato.stanford.edu/entries/moral-epistemology/#TheDebArgParClaNon)
   * [4.2 从道德客观性的反驳论证](https://plato.stanford.edu/entries/moral-epistemology/#TheDebArgMorObj)
   * [4.3 从道德情感的非理性的反驳论证](https://plato.stanford.edu/entries/moral-epistemology/#TheDebArgIrrMorEmo)
 * [5. 方法论：道德认识论自然化，反思均衡，理性选择和实用主义自然主义](https://plato.stanford.edu/entries/moral-epistemology/#MetEpiNatRefEquRatCho)
-
   * [5.1 道德认识论自然化](https://plato.stanford.edu/entries/moral-epistemology/#EpiNat)
   * [5.2 反思均衡和理性选择](https://plato.stanford.edu/entries/moral-epistemology/#RefEquRatCho)
   * [5.3 实用主义自然主义](https://plato.stanford.edu/entries/moral-epistemology/#PraNat)
@@ -47,13 +44,13 @@
 * [8. 道德认识论：情感中体现的道德知识社会化](https://plato.stanford.edu/entries/moral-epistemology/#MorKnoSocEmbEmo)
 * [9. 认识论排除](https://plato.stanford.edu/entries/moral-epistemology/#EpiExc)
 * [10. 六个问题的分类：有任何进展吗？](https://plato.stanford.edu/entries/moral-epistemology/#SixCluProAnyPro)
-* [ 11. 结论](https://plato.stanford.edu/entries/moral-epistemology/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-epistemology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-epistemology/#Aca)
+* [11. 结论](https://plato.stanford.edu/entries/moral-epistemology/#Con)
+* [参考文献](https://plato.stanford.edu/entries/moral-epistemology/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/moral-epistemology/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/moral-epistemology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-epistemology/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/moral-epistemology/#Rel)
 
----
+***
 
 ## 1. 社会学：道德分歧和社会多样性
 
@@ -171,7 +168,7 @@
 
 值得注意的是，对道德自然主义的最后三个反对意见是由那些相信道德知识是可能的但拒绝它是自然世界知识的想法的人提出的。当然，如果这些反对意见成功，那么道德怀疑论者可能会获得胜利，因为将道德知识视为神学知识或非自然世界知识的反对意见可能同样成功。简言之，对道德知识的可能性的问题必须从整体上看待，考虑到反对意见和回应的相互关联的含义。下面对道德解释的生物学含义的讨论也不例外。
 
-一些道德怀疑论者认为，达尔文对人类道德起源和持久性的解释削弱了道德信念的真实性，并因此削弱了道德知识的可能性。这些“揭穿”论点可以分为三个方面进行讨论。在每种情况下，我们假设，正如达尔文所建议的那样（达尔文 1982 [1871]），人类道德起源和持久性主要是通过自然选择塑造的适应性。这个假设与文化进化在将我们从原始道德带到现代道德的各种形式中发挥了巨大作用是相容的。然而，基本思想是，原始的道德倾向，比如对家人的帮助和对陌生人的伤害的回避，仍然作为行动的初步理由存在，即使相反的道德考虑可能会推翻这些核心倾向。因此，即使现代道德在文化上得到了演化，根据这个前提，它们仍然是由某些核心适应性构建的。这个思想在当前的道德进化解释中得到了很好的发展（参见 Copp 2008 年，第 187-90 页和 Campbell 2009 年的总结和参考文献）。尽管它并非毫无争议（参见关于道德和进化生物学的条目），但为了论证的目的，我将假设这个前提，不再进一步阐述。令人惊讶的是，如果承认这个前提，就足以给予以下三个揭穿论点以重量。
+一些道德怀疑论者认为，达尔文对人类道德起源和持久性的解释削弱了道德信念的真实性，并因此削弱了道德知识的可能性。这些“揭穿”论点可以分为三个方面进行讨论。在每种情况下，我们假设，正如达尔文所建议的那样（达尔文 1982 \[1871]），人类道德起源和持久性主要是通过自然选择塑造的适应性。这个假设与文化进化在将我们从原始道德带到现代道德的各种形式中发挥了巨大作用是相容的。然而，基本思想是，原始的道德倾向，比如对家人的帮助和对陌生人的伤害的回避，仍然作为行动的初步理由存在，即使相反的道德考虑可能会推翻这些核心倾向。因此，即使现代道德在文化上得到了演化，根据这个前提，它们仍然是由某些核心适应性构建的。这个思想在当前的道德进化解释中得到了很好的发展（参见 Copp 2008 年，第 187-90 页和 Campbell 2009 年的总结和参考文献）。尽管它并非毫无争议（参见关于道德和进化生物学的条目），但为了论证的目的，我将假设这个前提，不再进一步阐述。令人惊讶的是，如果承认这个前提，就足以给予以下三个揭穿论点以重量。
 
 ### 4.1 从简洁性、清晰性和非循环性的揭穿论证
 
@@ -315,187 +312,187 @@ Allen Buchanan 和 Russell Powell（2018）列举了十个道德进步的例子�
 
 ## Bibliography
 
-* Allman, John and James Woodward, 2008, “What Are Moral Intuitions and Why Should We Care about Them? A Neurobiological Perspective”, *Philosophical Issues*, 18: 164–85.
-* Altham, J. E. J., 1987, “The Legacy of Emotivism”, in *Fact, Science, and Morality*, G. MacDonald and C. Wright, (eds.), Oxford: Blackwell.
-* Anderson, Elizabeth, 1995, “Feminist Epistemology: An Interpretation and Defense”, *Hypatia*, 10: 50–84.
-* ––, 2010, *The Imperative of Integration*, Princeton, NJ: Princeton University Press.
-* –––, 2016, “The Social Epistemology of Morality: Learning the Forgotten History of the Abolition of Slavery”, in M. S. Brady & M. Fricker (eds.), *The Epistemic Life of Groups: Essays in the Epistemology of Collections*, Oxford: Oxford University Press.
-* Anscombe, G. E. M., 1963, *Intention*, 2nd ed., Ithaca, NY: Cornell University Press.
-* Alcoff, Linda Martin, 1996, *Real Knowing: New Versions of the Coherence Theory*, Ithaca, NY: Cornell University Press.
-* Antony, Louise, 1993, “Quine as Feminist: The Radical Import of Naturalized Epistemology”, in L. Antony and C. Witt (eds.), *A Mind of One’s Own: Feminist Essays on Reason and Objectivity*, Boulder: Westview.
-* Ayer, A. J., 1946, *Language, Truth, and Logic*, (2nd ed.), New York: Dover; first edition published in 1935.
-* Babbitt, Susan, 1996, *Impossible Dreams: Rationality, Integrity, and Moral Imagination*, Boulder: Westview.
-* –––, 2014, *Humanism and Embodiment: From Cause and Effect to Secularism*, London: Bloomsbury Academic.
-* Bach, Theodore, 2012, “Gender as a Natural Kind with an Historical Essence”, *Ethics*, 122: 231–72.
-* Berker, Selim, 2009, “The Normative Insignificance of Neuroscience”, *Philosophy and Public Affairs*, 37(4): 293–329.
-* Blackburn, Simon, 1984, *Spreading the Word*, Oxford: Oxford University Press.
-* –––, 1998, *Ruling Passions: A Theory of Practical Reasoning*, Oxford: Clarendon Press.
-* Bloom, Paul, 2013, *Just Babies: The Origins of Good and Evil*, New York: Crown Publishers.
-* Bowles, Samuel and Herbert Giants, 2011, *A Cooperative Species: Human Reciprocity and Its Evolution*, Princeton, NJ: Princeton University Press.
-* Boyd, Richard N., 1988, “How To Be a Moral Realist”, in Geoffrey Sayre-McCord (ed), *Essays on Moral Realism*Ithaca and London: Cornell University Press, pp. 181–228.
-* Brandt, Richard, 1959, *Ethical Theory: The Problems of Normative and Critical Ethics*, Englewood Cliffs: Prentice-Hall.
-* –––, 1979, *A Theory of the Good and the Right*, Oxford: Clarendon Press.
-* Braybrooke, David, 2001, *Natural Law Modernized*, Toronto: University of Toronto Press.
-* Braybrooke, David, Bryson Brown, and Peter K. Schotch, 1995, *Logic on the Track of Social Change*, Oxford: Clarendon Press.
-* Brink, David O., 1989, *Moral Realism and the Foundations of Ethics*, Cambridge: Cambridge University Press.
-* Buchanan, Allen and Russell Powell, 2018, *The Evolution of Moral Progress: A Biocultural Theory*, New York, NY: Oxford University Press.
-* Campbell, Richmond, 1985, “Sociobiology and the Possibility of Ethical Naturalism”, in *Morality, Reason, and Truth*, D. Copp and D. Zimmerman, (eds.), Totowa, N.J.: Rowman & Allanheld.
-* –––, 1996, “Can Biology Make Ethics Objective?”, *Biology and Philosophy*, 11: 21–31.
-* –––, 1998, *Illusions of Paradox: A Feminist Epistemology Naturalized*, Lanham, MD: Rowman & Littlefield.
-* –––, 2001, “The Bias Paradox in Feminist Epistemology”, in *Engendering Rationalities*, S. Morgan and N. Tuana, (eds.), New York: SUNY.
-* –––, 2003, “Feminist Epistemology Naturalized”, in *Feminist Interpretations of Quine*, L. H. Nelson and J. Nelson, (eds.), University Park, PA: The Pennsylvania State University.
-* –––, 2007, “What Is Moral Judgment?”, *The Journal of Philosophy*, 104: 321–49.
-* –––, 2009, “The Origin of Moral Reasons”, in Lars-Goran Johansson, Jan Osterberg, and Rysiek Sliwinski, (eds.), *Logic, Ethics, and All That Jazz: Essays in Honour of Jordan Howard Sobel*Uppsala Philosophical Studies 57, Philosophy Department, Uppsala University, Uppsala, pp. 67–97.
-* –––,2014, “Reflective Equilibrium and Moral Consistency Reasoning”, *Australasian Journal of Philosophy*, 92: 433–51.
-* ––, 2017, “Learning from Moral Inconsistency”, *Cognition*, 167: 46–57.
-* Campbell, Richmond and Bruce Hunter, 2000, “Introduction”, in *Moral Epistemology Naturalized*, R. Campbell and B. Hunter, (eds.), *Canadian Journal of Philosophy* (Supplementary Volume): 1–28.
-* Campbell, Richmond and Victor Kumar, 2012, “Moral Reasoning on the Ground”, *Ethics*, 122: 273–312.
-* –––, 2013, “Pragmatic Naturalism and Moral Objectivity”, *Analysis*, 73: 446–55.
-* Casebeer, William D., 2003 *Natural Ethical Facts: Evolution, Connectionism, and Moral Cognition*, Cambridge, Mass: MIT Press.
-* Chandler, John, 1984, “Is the Divine Command Theory Defensible?”, *Religious Studies*, 20: 443–452.
-* Churchland, Paul, 1998, “Toward a Cognitive Neurobiology of the Moral Virtues”, *Topoi*, 17: 83–96.
-* Code, Lorraine, 1991, *What Can She Know? Feminist Theory and the Construction of Knowledge*, Ithaca: Cornell University Press.
-* Committee on the Ethical and Legal Issues Relating to the Inclusion of Women in Clinical Studies, 1994, in *Women and Health Research Vol. 1: Ethical and Legal Issues of Including Women in Clinical Studies*, A. C. Mastroianni, R. Faden, and D. Federman, (eds.), Washington, D.C.: National Academy Press.
-* Copp, David, 1985, “Considered Judgments and Moral Justification”, in *Morality, Reason, and Truth*, D. Copp and D. Zimmerman, (eds.), Totowa, NJ: Rowman & Allanheld.
-* –––, 1995, *Morality, Normativity, and Society*, New York: Oxford University Press.
-* –––, 2000, “Four Epistemological Challenges to Ethical Naturalism: Naturalized Epistemology and the First-Person Perspective”, in Moral Epistemology Naturalized, R. Campbell and B. Hunter, (eds.), *Canadian Journal of Philosophy* (Supplementary Volume): 31–74.
-* –––, 2001, “Realist Expressivism: A Neglected Option for Moral Realism”, *Social Philosophy and Policy*, 18: 1–43.
-* –––, 2008, “Darwinian Skepticism about Moral Realism”, *Philosophical Issues*, 18: 186–206.
-* Copp, David and David Sobel, 2001, “Against Direction of Fit Accounts of Belief and Desire”, *Analysis*, 61: 44–53.
-* Cushman, Fiery, Liane Young, and Mark Hauser, 2006, “The Role of Conscious Reasoning and Intuition in Moral Judgment”, *Psychological Science*, 17 (12): 1082–89.
-* Damasio, Antonio, 1994, *Descartes Error: Emotion, Reason, and the Human Brain*, New York; Putnam/Boston: Norton.
-* Dancy, Jonathan, 1993, *Moral Reasons*, Cambridge: Blackwell.
-* Daniels, Norman, 1979, “Wide Reflective Equilibrium and Theory Acceptance in Ethics”, in *Morality, Reason, and Truth*, D. Copp and D. Zimmerman, (eds.), Totowa, NJ: Rowman & Allanheld.
-* Darwin, Charles, 1982 [1871], *The Descent of Man, and Selection in Relation to Sex*, Princeton: Princeton University Press.
-* Davidson, Donald, 1963, “Actions, Reasons, and Causes”, *Journal of Philosophy*, 60: 685–699.
-* –––, 2001, *Essays on Actions and Events*, 2nd ed., Oxford: Clarendon Press.
-* de Lazari-Radek, Katarzyna and Peter Singer, 2014, *The Point of View of the Universe: Sidgwick and Contemporary Ethics*, New York: Oxford University Press.
-* de Sousa, Ronald, 1987, *The Rationality of Emotion*, Cambridge, Mass: MIT Press
-* de Waal, Francis, 2006, “Morally Evolved: Primate Social Instincts, Human Morality, and the Rise and Fall of ‘Veneer Theory’ ”, in Francis de Waal (ed.), *Primates and Philosophers: How Morality Evolved*, Princeton, Princeton University Press.
-* Dewey, John, 1922, *Human Nature and Conduct: An Introduction to Social Psychology*, New York: Modern Library.
-* Dewey, John and James Tufts, 1932, *Ethics*, 2nd ed., New York: Holt.
-* Doris, John M. and Alexandra Plakias, 2008, “How to Argue about Disagreement: Evaluative Diversity and Moral Realism”, in Walter Sinnott-Armstrong (ed.) *Moral Psychology*, Vol. 2, *The Cognitive Science of Morality: Intuition and Diversity*, Cambridge, Mass: MIT Press
-* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, *Hypatia*, 26: 236–257.
-* Duran, Jane, 1994, *Knowledge in Context: Naturalized Epistemology and Sociolinguistics*, Landam, MD: Rowman & Littlefield.
-* Fenske, Wayne, 1997, “Noncognitivism: A New Defense”, *Journal of Value Inquiry*, 31: 301–309.
-* Fine, Cordelia, 2017, *Testosterone Rex: Myths of Sex, Science, and Society*, New York, NY: Norton.
-* Fricker, Miranda, 2007, *Epistemic Injustice*, Oxford: Clarendon Press.
-* Gauthier, David, 1986, *Morals by Agreement*, Oxford: Clarendon.
-* Gibbard, Allan, 1990, *Wise Choices, Apt Feelings*, Cambridge: Harvard University Press.
-* Gigerenzer, Gerd, 2008, “Moral Intuition = Fast and Frugal Heuristic?”, in Walter Sinnott-Armstrong (ed.), *Moral Psychology*, Vol. 2, *The Cognitive Science of Morality: Intuition and Diversity*, Cambridge, Mass: MIT Press.
-* Goldman, Alvin I., 1999, *Knowledge in a Social World*, Oxford: Clarendon Press.
-* Goodman, Nelson, 1955, *Fact, Fiction, and Forecast*, Cambridge: Harvard University Press.
-* Greene, Joshua, 2008, “The Secret Joke of Kant’s Soul”, in Walter Sinnott-Armstrong (ed.), *Moral Psychology*, Vol. 2, *The Evolution of Morality: Adaptations and Innateness*, Cambridge, Mass: MIT Press.
-* –––, 2013, *Moral Tribes: Emotion, Reason, and the Gap between Us and Them*, New York: Penguin.
-* Haidt, Jonathan, 2001, “The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment”, *Psychological Review*, 108: 814–34.
-* –––, 2012, *The Righteous Mind: Why Good People Are Divided by Politics and Religion*, New York: Pantheon Books.
-* Haidt, Jonathan and Craig Joseph, 2004, “Intuitive Ethics: How Innately Prepared Intuitions Generate Culturally Variable Virtues”, *Daedalus*, (Fall): 55–66.
-* Hare, R. M., 1952, *The Language of Morals*, Oxford: Clarendon Press.
-* –––, 1981, *Moral Thinking: Its Levels, Method, and Point*, Oxford: Clarendon Press.
-* Harman, Gilbert, 1965, “Inference to the Best Explanation”, *Philosophical Review*, 74: 88–95.
-* –––, 1975, “Moral Relativism Defended”, *The Philosophical Review*, 84: 3–22.
-* –––, 1977, *The Nature of Morality: An Introduction to Ethics*, New York: Oxford University Press.
-* –––, 1978, “What Is Moral Relativism?”, in *Values and Morals*, A. I. Goldman and J. Kim (eds.), Dordrecht: D. Reidel.
-* –––, 1985, “Is There a Single True Morality?”, in *Morality, Reason, and Truth*, D. Copp and D. Zimmerman, Totowa, N.J.: Rowman & Allanheld.
-* Hardwig, John, 1991, “The Role of Trust in Knowledge”, *Journal of Philosophy*, 88: 693–708.
-* Hrdy, Sarah Blaffer, 2009, *Mothers and Others: The Evolutionary Origins of Mutual Understanding*, Cambridge, MA: Harvard University Press
-* Hume, David, 1978, *A Treatise of Human Nature*, 2nd ed., L. A. Selby-Bigge, (ed.), Oxford: Oxford University Press. (First edition published in 1739–40.)
-* –––, 1902, *An Enquiry Concerning Human Understanding*, 2nd ed., L. A. Selby-Bigge, (ed.), Oxford: Oxford University Press. (First edition published in 1748.)
-* Jaggar, Alison, 1983, *Feminist Politics and Human Nature*, Totowa, N.J.: Rowman & Allanheld.
-* –––, 1989, “Love and Emotion in Feminist Epistemology”, in *Gender/Body/Knowledge*, S. Bordo and A. Jaggar, (eds.), New Brunswick, N. J.: Rutgers University Press.
-* Joyce, Richard, 2006, *The Evolution of Morality*, Cambridge, Mass: MIT Press.
-* Kahane, Guy, 2011, “Evolutionary Debunking Arguments”, *Noûs*, 45 (1): 103–25.
-* Kant, Immanuel, 1785, *Groundwork of the Metaphysics of Morals*, in H. J. Paton (ed., trans.), *The Moral Law: Kant’s Groundwork of the Metaphysic of Morals*, Oxford: Hutchinson, 1956.
-* Kim, Jaegwon, 1978, “Supervenience and Nomological Incommensurables”, *American Philosophical Quarterly*, 15: 149–56.
-* –––, 1988, “What Is ‘Naturalized Epistemology’?”, in *Philosophical Perspectives, 2, Epistemology*, J. E. Tomberlin, (ed.), Atascadero, Calif.: Ridgeview. (Reprinted in *Naturalizing Epistemology*, H. Kornblith, ed.)
-* Kitcher, Philip, 1984, “1953 and All That: A Tale of Two Sciences”, *Philosophical Review*, 93: 335–374.
-* –––, 1993, “The Evolution of Human Altruism”, *Journal of Philosophy*, 90: 497–519.
-* –––, 2011a, *The Ethical Project*, Cambridge, MA: Harvard University Press.
-* –––, 2011b, *Science in a Democratic Society*, Amherst: Prometheus Books.
-* –––, 2012, *Preludes to Pragmatism: Toward a Reconstruction of Philosophy*, Oxford: Oxford University Press.
-* James, William, 1907, *Pragmatism: A New Name for Some Old Ways of Thinking*, New York: Longmans (Harvard Book Collections).
-* Kornblith, Hilary, 1993, *Inductive Inference and Its Natural Ground: An Essay in Naturalistic Epistemology*, Cambridge: MIT Press.
-* –––, ed., 1994, *Naturalizing Epistemology*, 2nd ed., Cambridge: MIT Press.
-* Kumar, Victor, 2015, “Moral Judgment as a Natural Kind”, *Philosophical Studies*, 172: 2887–2910.
-* –––, forthcoming, “The Ethical Significance of Cognitive Science”, in S. Leslie and S. Cullen (eds.), *Current Controversies in Philosophy of Cognitive Science*, New York: Routledge.
-* Kumar, Victor and Richmond Campbell, 2012, “On the Normative Significance of Experimental Psychology”, *Philosophical Psychology*, 25: 311–30.
-* ––, 2016, “Honor and Moral Revolution”, *Ethical Theory and Moral Practice*. 19: 147–159.
-* Little, Margaret Olivia, 1997, “Virtue as Knowledge: Objections from Philosophy of Mind”, *Nous*, 31: 59–79.
-* Longino, Helen, 1990, *Science as Social Knowledge*, Princeton: Princeton University Press.
-* Lyons, David, 1976, “Ethical Relativism and the Problem of Incoherence”, *Ethics*, 86: 107–121.
-* Mackie, John L., 1977, *Ethics: Inventing Right and Wrong*, New York: Penguin.
-* Manne, Kate, 2018, *Down Girl: The Logic of Misogyny*, New York, NY: Oxford University Press.
-* Mastroianni, Anna C., Ruth Faden, and Daniel Bederman, eds., 1994, *Women and Health Research. Vol. 1: Ethical and Legal Issues of Including Women in Clinical Studies*, Washington, D.C.: National Academy Press.
-* McNaughton, David, 1988, *Moral Vision*, New York: Blackwell.
-* Mercier, Hugo and Dan Sperber, 2017, *The Enigma of Reason*, Cambridge, MA: Harvard University Press.
-* Miller, Richard W., 1992, *Moral Differences: Truth, Justice and Conscience in a World of Conflict*, Princeton: Princeton University Press.
-* Mills, Charles W., 2017, *Black Rights/White Wrongs: The Critique of Racial Liberalism*, New York, NY: Oxford University Press.
-* Misak, Cheryl, 2013, *The American Pragmatists*, Oxford: Oxford University Press.
-* Moore, G. E., 1903, *Principia Ethica*, Cambridge: Cambridge University Press.
-* –––, 1912, *Ethics*, Oxford: Oxford University Press.
-* Nelson, Jack, 1996, “The Last Dogma of Empiricism?”, in *Feminism, Science, and Philosophy of Science*, L. H. Nelson and J. Nelson, (eds.), Dordrecht: Kluwer.
-* Nelson, Lynn Hankinson, 1990, *Who Knows: From Quine to a Feminist Empiricism*, Philadelphia: Temple University Press.
-* –––, 1996, “Empiricism without Dogmas”, in *Feminism, Science, and Philosophy of Science*, L. H. Nelson and J. Nelson, (eds.), Dordrecht: Kluwer.
-* Nelson, Lynn Hankinson, and Jack Nelson, (eds.), 1996, *Feminism, Science, and the Philosophy of Science*, Dordrecht: Kluwer.
-* Nichols, Shaun, 2004, “After Objectivity: An Empirical Study of Moral Judgment”, *Philosophical Psychology*, 17: 3–26.
-* Nozick, Robert, 1974, *State, Anarchy, and Utopia*, New York: Basic Books.
-* Okin, Susan Moller, 1989, *Justice, Gender, and the Family*, New York: Basic Books.
-* Plato, *Euthyphro*, (1937): Translated by B. Jowett, in B. Jowett, (ed.), *The Dialogues of Plato*, New York: Random House.
-* Quine, W. V., 1969a, “Epistemology Naturalized” in *Ontological Relativity and Other Essays*, W. V. Quine, New York: Columbia University Press.
-* –––, 1969b, “Natural Kinds” in *Ontological Relativity and Other Essays*, W. V. Quine, New York: Columbia University Press.
-* –––, 1981, *Theories and Things*, Cambridge: Harvard University Press.
-* Railton, Peter, 1986, “Moral Realism”, *Philosophical Review*, 95: 163–207.
-* –––, 2014, “The Affective Dog and Its Rational Tale: Intuition and Attunement”, *Ethics*, 124: 813–59.
-* Rawls, John, 1971, *A Theory of Justice*, Cambridge: Harvard University Press.
-* Ridge, Michael, 2006, “Ecumenical Expressivism: Finessing Frege” *Ethics*, 116: 302–36.
-* Ross, W. D., 1930, *The Right and the Good*, Oxford: Oxford University Press.
-* Rottschaefer, William, 1998, *The Biology and Psychology of Moral Agency*, Cambridge: Cambridge University Press.
-* Ruse, Michael, 1986, *Taking Darwin Seriously*, Oxford: Basil Blackwell.
-* Sayre-McCord, Geoffrey, 1988, “Moral Theory and Explanatory Impotence”, *Midwest Studies*, 12: 433–57.
-* –––, 1991, “Being a Realist about Relativism (In Ethics)”, *Philosophical Studies*, 61: 155–76.
-* Schroeder, Timothy, 2004, *Three Faces of Desire*, Oxford: Oxford University Press.
-* Shafer-Landau, Russ, 2003, *Moral Realism: A Defence*, Oxford: Oxford University Press.
-* Sidgwick, Henry, 1907, *The Methods of Ethics*, New York: Macmillan.
-* Singer, Peter, 1972, “Famine, Affluence, and Morality”, *Philosophy and Public Affairs*, 1: 229–43.
-* Smith, Michael, 1987, “The Humean Theory of Motivation”, *Mind*, 96: 36–61.
-* –––, 1994, *The Moral Problem*, Oxford: Blackwell.
-* Sober, Elliott and David Sloan Wilson, *Unto Others: The Evolution and Psychology of Unselfish Behavior*, Cambridge, Mass: Harvard University Press.
-* Stevenson, Charles, 1944, *Ethics and Language*, New Haven: Yale University Press.
-* –––, 1963, *Facts and Values*, New Haven: Yale University Press.
-* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, *Philosophical Studies*127: 109–66.
-* Sturgeon, Nicholas, 1985, “Moral Explanations” in *Morality, Reason, and Truth*, D. Copp and D. Zimmerman, (eds.), Totowa, N. J.: Rowman & Allanheld.
-* Thomas, Laurence, 1992–3, “Moral Deference”, *The Philosophical Forum*, 24: 233–50.
-* Tomasello, Michael, 2016, *A Natural History of Human Morality*, Cambridge, MA: Harvard University Press.
-* Walker, Margaret Urban, 1998. *Moral Understandings: A Feminist Study in Ethics*, New York: Routledge.
-* Westmoreland, Robert, 1996, “Two Recent Metaphysical Divine Command Theories of Ethics”, *International Journal of Philosophy of Religion*, 39: 15–31.
-* White, Morton, 1981, *What Is and What Ought To Be Done: An Essay on Ethics and Epistemology*, New York: Oxford University Press.
-* –––, 1986, “Normative Ethics, Normative Epistemology, and Quine’s Holism”, in *The Philosophy of W. V. Quine*, L. E. Hahn and P. A. Lewis, (eds.), La Salle, Illinois: Open Court.
-* Wiggins, David, 1988, “Truth, Invention, and the Meaning of Life”, in *Essays on Moral Realism*, G. Sayre-McCord, (ed.), Ithaca, N.Y.: Cornell University Press.
-* Williams, Bernard, 1974–5, “The Truth in Relativism”, *Proceedings of The Aristotelian Society*, 75: 215–28.
-* Wilson, Edward O., 1978, *On Human Nature*, New York: Bantam Books.
-* Wong, David B., 1984, *Moral Relativity*, Berkeley: University of California Press.
-* –––, 2002, “Reasons and Analogical Reasoning in Mengzi”, in X. Liu and P. Ivanhoe (eds.), *Essays on the Moral Philosophy of Mengzi*, Indianapolis: Hackett Publishing.
-* Woodward, James and John Allman, 2007, “Moral Intuition: Its Neural Substrate and Normative Significance”, *Journal of physiology – Paris*, 101: 179–202.
+* Allman, John and James Woodward, 2008, “What Are Moral Intuitions and Why Should We Care about Them? A Neurobiological Perspective”, _Philosophical Issues_, 18: 164–85.
+* Altham, J. E. J., 1987, “The Legacy of Emotivism”, in _Fact, Science, and Morality_, G. MacDonald and C. Wright, (eds.), Oxford: Blackwell.
+* Anderson, Elizabeth, 1995, “Feminist Epistemology: An Interpretation and Defense”, _Hypatia_, 10: 50–84.
+* ––, 2010, _The Imperative of Integration_, Princeton, NJ: Princeton University Press.
+* –––, 2016, “The Social Epistemology of Morality: Learning the Forgotten History of the Abolition of Slavery”, in M. S. Brady & M. Fricker (eds.), _The Epistemic Life of Groups: Essays in the Epistemology of Collections_, Oxford: Oxford University Press.
+* Anscombe, G. E. M., 1963, _Intention_, 2nd ed., Ithaca, NY: Cornell University Press.
+* Alcoff, Linda Martin, 1996, _Real Knowing: New Versions of the Coherence Theory_, Ithaca, NY: Cornell University Press.
+* Antony, Louise, 1993, “Quine as Feminist: The Radical Import of Naturalized Epistemology”, in L. Antony and C. Witt (eds.), _A Mind of One’s Own: Feminist Essays on Reason and Objectivity_, Boulder: Westview.
+* Ayer, A. J., 1946, _Language, Truth, and Logic_, (2nd ed.), New York: Dover; first edition published in 1935.
+* Babbitt, Susan, 1996, _Impossible Dreams: Rationality, Integrity, and Moral Imagination_, Boulder: Westview.
+* –––, 2014, _Humanism and Embodiment: From Cause and Effect to Secularism_, London: Bloomsbury Academic.
+* Bach, Theodore, 2012, “Gender as a Natural Kind with an Historical Essence”, _Ethics_, 122: 231–72.
+* Berker, Selim, 2009, “The Normative Insignificance of Neuroscience”, _Philosophy and Public Affairs_, 37(4): 293–329.
+* Blackburn, Simon, 1984, _Spreading the Word_, Oxford: Oxford University Press.
+* –––, 1998, _Ruling Passions: A Theory of Practical Reasoning_, Oxford: Clarendon Press.
+* Bloom, Paul, 2013, _Just Babies: The Origins of Good and Evil_, New York: Crown Publishers.
+* Bowles, Samuel and Herbert Giants, 2011, _A Cooperative Species: Human Reciprocity and Its Evolution_, Princeton, NJ: Princeton University Press.
+* Boyd, Richard N., 1988, “How To Be a Moral Realist”, in Geoffrey Sayre-McCord (ed), _Essays on Moral Realism_Ithaca and London: Cornell University Press, pp. 181–228.
+* Brandt, Richard, 1959, _Ethical Theory: The Problems of Normative and Critical Ethics_, Englewood Cliffs: Prentice-Hall.
+* –––, 1979, _A Theory of the Good and the Right_, Oxford: Clarendon Press.
+* Braybrooke, David, 2001, _Natural Law Modernized_, Toronto: University of Toronto Press.
+* Braybrooke, David, Bryson Brown, and Peter K. Schotch, 1995, _Logic on the Track of Social Change_, Oxford: Clarendon Press.
+* Brink, David O., 1989, _Moral Realism and the Foundations of Ethics_, Cambridge: Cambridge University Press.
+* Buchanan, Allen and Russell Powell, 2018, _The Evolution of Moral Progress: A Biocultural Theory_, New York, NY: Oxford University Press.
+* Campbell, Richmond, 1985, “Sociobiology and the Possibility of Ethical Naturalism”, in _Morality, Reason, and Truth_, D. Copp and D. Zimmerman, (eds.), Totowa, N.J.: Rowman & Allanheld.
+* –––, 1996, “Can Biology Make Ethics Objective?”, _Biology and Philosophy_, 11: 21–31.
+* –––, 1998, _Illusions of Paradox: A Feminist Epistemology Naturalized_, Lanham, MD: Rowman & Littlefield.
+* –––, 2001, “The Bias Paradox in Feminist Epistemology”, in _Engendering Rationalities_, S. Morgan and N. Tuana, (eds.), New York: SUNY.
+* –––, 2003, “Feminist Epistemology Naturalized”, in _Feminist Interpretations of Quine_, L. H. Nelson and J. Nelson, (eds.), University Park, PA: The Pennsylvania State University.
+* –––, 2007, “What Is Moral Judgment?”, _The Journal of Philosophy_, 104: 321–49.
+* –––, 2009, “The Origin of Moral Reasons”, in Lars-Goran Johansson, Jan Osterberg, and Rysiek Sliwinski, (eds.), _Logic, Ethics, and All That Jazz: Essays in Honour of Jordan Howard Sobel_Uppsala Philosophical Studies 57, Philosophy Department, Uppsala University, Uppsala, pp. 67–97.
+* –––,2014, “Reflective Equilibrium and Moral Consistency Reasoning”, _Australasian Journal of Philosophy_, 92: 433–51.
+* ––, 2017, “Learning from Moral Inconsistency”, _Cognition_, 167: 46–57.
+* Campbell, Richmond and Bruce Hunter, 2000, “Introduction”, in _Moral Epistemology Naturalized_, R. Campbell and B. Hunter, (eds.), _Canadian Journal of Philosophy_ (Supplementary Volume): 1–28.
+* Campbell, Richmond and Victor Kumar, 2012, “Moral Reasoning on the Ground”, _Ethics_, 122: 273–312.
+* –––, 2013, “Pragmatic Naturalism and Moral Objectivity”, _Analysis_, 73: 446–55.
+* Casebeer, William D., 2003 _Natural Ethical Facts: Evolution, Connectionism, and Moral Cognition_, Cambridge, Mass: MIT Press.
+* Chandler, John, 1984, “Is the Divine Command Theory Defensible?”, _Religious Studies_, 20: 443–452.
+* Churchland, Paul, 1998, “Toward a Cognitive Neurobiology of the Moral Virtues”, _Topoi_, 17: 83–96.
+* Code, Lorraine, 1991, _What Can She Know? Feminist Theory and the Construction of Knowledge_, Ithaca: Cornell University Press.
+* Committee on the Ethical and Legal Issues Relating to the Inclusion of Women in Clinical Studies, 1994, in _Women and Health Research Vol. 1: Ethical and Legal Issues of Including Women in Clinical Studies_, A. C. Mastroianni, R. Faden, and D. Federman, (eds.), Washington, D.C.: National Academy Press.
+* Copp, David, 1985, “Considered Judgments and Moral Justification”, in _Morality, Reason, and Truth_, D. Copp and D. Zimmerman, (eds.), Totowa, NJ: Rowman & Allanheld.
+* –––, 1995, _Morality, Normativity, and Society_, New York: Oxford University Press.
+* –––, 2000, “Four Epistemological Challenges to Ethical Naturalism: Naturalized Epistemology and the First-Person Perspective”, in Moral Epistemology Naturalized, R. Campbell and B. Hunter, (eds.), _Canadian Journal of Philosophy_ (Supplementary Volume): 31–74.
+* –––, 2001, “Realist Expressivism: A Neglected Option for Moral Realism”, _Social Philosophy and Policy_, 18: 1–43.
+* –––, 2008, “Darwinian Skepticism about Moral Realism”, _Philosophical Issues_, 18: 186–206.
+* Copp, David and David Sobel, 2001, “Against Direction of Fit Accounts of Belief and Desire”, _Analysis_, 61: 44–53.
+* Cushman, Fiery, Liane Young, and Mark Hauser, 2006, “The Role of Conscious Reasoning and Intuition in Moral Judgment”, _Psychological Science_, 17 (12): 1082–89.
+* Damasio, Antonio, 1994, _Descartes Error: Emotion, Reason, and the Human Brain_, New York; Putnam/Boston: Norton.
+* Dancy, Jonathan, 1993, _Moral Reasons_, Cambridge: Blackwell.
+* Daniels, Norman, 1979, “Wide Reflective Equilibrium and Theory Acceptance in Ethics”, in _Morality, Reason, and Truth_, D. Copp and D. Zimmerman, (eds.), Totowa, NJ: Rowman & Allanheld.
+* Darwin, Charles, 1982 \[1871], _The Descent of Man, and Selection in Relation to Sex_, Princeton: Princeton University Press.
+* Davidson, Donald, 1963, “Actions, Reasons, and Causes”, _Journal of Philosophy_, 60: 685–699.
+* –––, 2001, _Essays on Actions and Events_, 2nd ed., Oxford: Clarendon Press.
+* de Lazari-Radek, Katarzyna and Peter Singer, 2014, _The Point of View of the Universe: Sidgwick and Contemporary Ethics_, New York: Oxford University Press.
+* de Sousa, Ronald, 1987, _The Rationality of Emotion_, Cambridge, Mass: MIT Press
+* de Waal, Francis, 2006, “Morally Evolved: Primate Social Instincts, Human Morality, and the Rise and Fall of ‘Veneer Theory’ ”, in Francis de Waal (ed.), _Primates and Philosophers: How Morality Evolved_, Princeton, Princeton University Press.
+* Dewey, John, 1922, _Human Nature and Conduct: An Introduction to Social Psychology_, New York: Modern Library.
+* Dewey, John and James Tufts, 1932, _Ethics_, 2nd ed., New York: Holt.
+* Doris, John M. and Alexandra Plakias, 2008, “How to Argue about Disagreement: Evaluative Diversity and Moral Realism”, in Walter Sinnott-Armstrong (ed.) _Moral Psychology_, Vol. 2, _The Cognitive Science of Morality: Intuition and Diversity_, Cambridge, Mass: MIT Press
+* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, _Hypatia_, 26: 236–257.
+* Duran, Jane, 1994, _Knowledge in Context: Naturalized Epistemology and Sociolinguistics_, Landam, MD: Rowman & Littlefield.
+* Fenske, Wayne, 1997, “Noncognitivism: A New Defense”, _Journal of Value Inquiry_, 31: 301–309.
+* Fine, Cordelia, 2017, _Testosterone Rex: Myths of Sex, Science, and Society_, New York, NY: Norton.
+* Fricker, Miranda, 2007, _Epistemic Injustice_, Oxford: Clarendon Press.
+* Gauthier, David, 1986, _Morals by Agreement_, Oxford: Clarendon.
+* Gibbard, Allan, 1990, _Wise Choices, Apt Feelings_, Cambridge: Harvard University Press.
+* Gigerenzer, Gerd, 2008, “Moral Intuition = Fast and Frugal Heuristic?”, in Walter Sinnott-Armstrong (ed.), _Moral Psychology_, Vol. 2, _The Cognitive Science of Morality: Intuition and Diversity_, Cambridge, Mass: MIT Press.
+* Goldman, Alvin I., 1999, _Knowledge in a Social World_, Oxford: Clarendon Press.
+* Goodman, Nelson, 1955, _Fact, Fiction, and Forecast_, Cambridge: Harvard University Press.
+* Greene, Joshua, 2008, “The Secret Joke of Kant’s Soul”, in Walter Sinnott-Armstrong (ed.), _Moral Psychology_, Vol. 2, _The Evolution of Morality: Adaptations and Innateness_, Cambridge, Mass: MIT Press.
+* –––, 2013, _Moral Tribes: Emotion, Reason, and the Gap between Us and Them_, New York: Penguin.
+* Haidt, Jonathan, 2001, “The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment”, _Psychological Review_, 108: 814–34.
+* –––, 2012, _The Righteous Mind: Why Good People Are Divided by Politics and Religion_, New York: Pantheon Books.
+* Haidt, Jonathan and Craig Joseph, 2004, “Intuitive Ethics: How Innately Prepared Intuitions Generate Culturally Variable Virtues”, _Daedalus_, (Fall): 55–66.
+* Hare, R. M., 1952, _The Language of Morals_, Oxford: Clarendon Press.
+* –––, 1981, _Moral Thinking: Its Levels, Method, and Point_, Oxford: Clarendon Press.
+* Harman, Gilbert, 1965, “Inference to the Best Explanation”, _Philosophical Review_, 74: 88–95.
+* –––, 1975, “Moral Relativism Defended”, _The Philosophical Review_, 84: 3–22.
+* –––, 1977, _The Nature of Morality: An Introduction to Ethics_, New York: Oxford University Press.
+* –––, 1978, “What Is Moral Relativism?”, in _Values and Morals_, A. I. Goldman and J. Kim (eds.), Dordrecht: D. Reidel.
+* –––, 1985, “Is There a Single True Morality?”, in _Morality, Reason, and Truth_, D. Copp and D. Zimmerman, Totowa, N.J.: Rowman & Allanheld.
+* Hardwig, John, 1991, “The Role of Trust in Knowledge”, _Journal of Philosophy_, 88: 693–708.
+* Hrdy, Sarah Blaffer, 2009, _Mothers and Others: The Evolutionary Origins of Mutual Understanding_, Cambridge, MA: Harvard University Press
+* Hume, David, 1978, _A Treatise of Human Nature_, 2nd ed., L. A. Selby-Bigge, (ed.), Oxford: Oxford University Press. (First edition published in 1739–40.)
+* –––, 1902, _An Enquiry Concerning Human Understanding_, 2nd ed., L. A. Selby-Bigge, (ed.), Oxford: Oxford University Press. (First edition published in 1748.)
+* Jaggar, Alison, 1983, _Feminist Politics and Human Nature_, Totowa, N.J.: Rowman & Allanheld.
+* –––, 1989, “Love and Emotion in Feminist Epistemology”, in _Gender/Body/Knowledge_, S. Bordo and A. Jaggar, (eds.), New Brunswick, N. J.: Rutgers University Press.
+* Joyce, Richard, 2006, _The Evolution of Morality_, Cambridge, Mass: MIT Press.
+* Kahane, Guy, 2011, “Evolutionary Debunking Arguments”, _Noûs_, 45 (1): 103–25.
+* Kant, Immanuel, 1785, _Groundwork of the Metaphysics of Morals_, in H. J. Paton (ed., trans.), _The Moral Law: Kant’s Groundwork of the Metaphysic of Morals_, Oxford: Hutchinson, 1956.
+* Kim, Jaegwon, 1978, “Supervenience and Nomological Incommensurables”, _American Philosophical Quarterly_, 15: 149–56.
+* –––, 1988, “What Is ‘Naturalized Epistemology’?”, in _Philosophical Perspectives, 2, Epistemology_, J. E. Tomberlin, (ed.), Atascadero, Calif.: Ridgeview. (Reprinted in _Naturalizing Epistemology_, H. Kornblith, ed.)
+* Kitcher, Philip, 1984, “1953 and All That: A Tale of Two Sciences”, _Philosophical Review_, 93: 335–374.
+* –––, 1993, “The Evolution of Human Altruism”, _Journal of Philosophy_, 90: 497–519.
+* –––, 2011a, _The Ethical Project_, Cambridge, MA: Harvard University Press.
+* –––, 2011b, _Science in a Democratic Society_, Amherst: Prometheus Books.
+* –––, 2012, _Preludes to Pragmatism: Toward a Reconstruction of Philosophy_, Oxford: Oxford University Press.
+* James, William, 1907, _Pragmatism: A New Name for Some Old Ways of Thinking_, New York: Longmans (Harvard Book Collections).
+* Kornblith, Hilary, 1993, _Inductive Inference and Its Natural Ground: An Essay in Naturalistic Epistemology_, Cambridge: MIT Press.
+* –––, ed., 1994, _Naturalizing Epistemology_, 2nd ed., Cambridge: MIT Press.
+* Kumar, Victor, 2015, “Moral Judgment as a Natural Kind”, _Philosophical Studies_, 172: 2887–2910.
+* –––, forthcoming, “The Ethical Significance of Cognitive Science”, in S. Leslie and S. Cullen (eds.), _Current Controversies in Philosophy of Cognitive Science_, New York: Routledge.
+* Kumar, Victor and Richmond Campbell, 2012, “On the Normative Significance of Experimental Psychology”, _Philosophical Psychology_, 25: 311–30.
+* ––, 2016, “Honor and Moral Revolution”, _Ethical Theory and Moral Practice_. 19: 147–159.
+* Little, Margaret Olivia, 1997, “Virtue as Knowledge: Objections from Philosophy of Mind”, _Nous_, 31: 59–79.
+* Longino, Helen, 1990, _Science as Social Knowledge_, Princeton: Princeton University Press.
+* Lyons, David, 1976, “Ethical Relativism and the Problem of Incoherence”, _Ethics_, 86: 107–121.
+* Mackie, John L., 1977, _Ethics: Inventing Right and Wrong_, New York: Penguin.
+* Manne, Kate, 2018, _Down Girl: The Logic of Misogyny_, New York, NY: Oxford University Press.
+* Mastroianni, Anna C., Ruth Faden, and Daniel Bederman, eds., 1994, _Women and Health Research. Vol. 1: Ethical and Legal Issues of Including Women in Clinical Studies_, Washington, D.C.: National Academy Press.
+* McNaughton, David, 1988, _Moral Vision_, New York: Blackwell.
+* Mercier, Hugo and Dan Sperber, 2017, _The Enigma of Reason_, Cambridge, MA: Harvard University Press.
+* Miller, Richard W., 1992, _Moral Differences: Truth, Justice and Conscience in a World of Conflict_, Princeton: Princeton University Press.
+* Mills, Charles W., 2017, _Black Rights/White Wrongs: The Critique of Racial Liberalism_, New York, NY: Oxford University Press.
+* Misak, Cheryl, 2013, _The American Pragmatists_, Oxford: Oxford University Press.
+* Moore, G. E., 1903, _Principia Ethica_, Cambridge: Cambridge University Press.
+* –––, 1912, _Ethics_, Oxford: Oxford University Press.
+* Nelson, Jack, 1996, “The Last Dogma of Empiricism?”, in _Feminism, Science, and Philosophy of Science_, L. H. Nelson and J. Nelson, (eds.), Dordrecht: Kluwer.
+* Nelson, Lynn Hankinson, 1990, _Who Knows: From Quine to a Feminist Empiricism_, Philadelphia: Temple University Press.
+* –––, 1996, “Empiricism without Dogmas”, in _Feminism, Science, and Philosophy of Science_, L. H. Nelson and J. Nelson, (eds.), Dordrecht: Kluwer.
+* Nelson, Lynn Hankinson, and Jack Nelson, (eds.), 1996, _Feminism, Science, and the Philosophy of Science_, Dordrecht: Kluwer.
+* Nichols, Shaun, 2004, “After Objectivity: An Empirical Study of Moral Judgment”, _Philosophical Psychology_, 17: 3–26.
+* Nozick, Robert, 1974, _State, Anarchy, and Utopia_, New York: Basic Books.
+* Okin, Susan Moller, 1989, _Justice, Gender, and the Family_, New York: Basic Books.
+* Plato, _Euthyphro_, (1937): Translated by B. Jowett, in B. Jowett, (ed.), _The Dialogues of Plato_, New York: Random House.
+* Quine, W. V., 1969a, “Epistemology Naturalized” in _Ontological Relativity and Other Essays_, W. V. Quine, New York: Columbia University Press.
+* –––, 1969b, “Natural Kinds” in _Ontological Relativity and Other Essays_, W. V. Quine, New York: Columbia University Press.
+* –––, 1981, _Theories and Things_, Cambridge: Harvard University Press.
+* Railton, Peter, 1986, “Moral Realism”, _Philosophical Review_, 95: 163–207.
+* –––, 2014, “The Affective Dog and Its Rational Tale: Intuition and Attunement”, _Ethics_, 124: 813–59.
+* Rawls, John, 1971, _A Theory of Justice_, Cambridge: Harvard University Press.
+* Ridge, Michael, 2006, “Ecumenical Expressivism: Finessing Frege” _Ethics_, 116: 302–36.
+* Ross, W. D., 1930, _The Right and the Good_, Oxford: Oxford University Press.
+* Rottschaefer, William, 1998, _The Biology and Psychology of Moral Agency_, Cambridge: Cambridge University Press.
+* Ruse, Michael, 1986, _Taking Darwin Seriously_, Oxford: Basil Blackwell.
+* Sayre-McCord, Geoffrey, 1988, “Moral Theory and Explanatory Impotence”, _Midwest Studies_, 12: 433–57.
+* –––, 1991, “Being a Realist about Relativism (In Ethics)”, _Philosophical Studies_, 61: 155–76.
+* Schroeder, Timothy, 2004, _Three Faces of Desire_, Oxford: Oxford University Press.
+* Shafer-Landau, Russ, 2003, _Moral Realism: A Defence_, Oxford: Oxford University Press.
+* Sidgwick, Henry, 1907, _The Methods of Ethics_, New York: Macmillan.
+* Singer, Peter, 1972, “Famine, Affluence, and Morality”, _Philosophy and Public Affairs_, 1: 229–43.
+* Smith, Michael, 1987, “The Humean Theory of Motivation”, _Mind_, 96: 36–61.
+* –––, 1994, _The Moral Problem_, Oxford: Blackwell.
+* Sober, Elliott and David Sloan Wilson, _Unto Others: The Evolution and Psychology of Unselfish Behavior_, Cambridge, Mass: Harvard University Press.
+* Stevenson, Charles, 1944, _Ethics and Language_, New Haven: Yale University Press.
+* –––, 1963, _Facts and Values_, New Haven: Yale University Press.
+* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, _Philosophical Studies_127: 109–66.
+* Sturgeon, Nicholas, 1985, “Moral Explanations” in _Morality, Reason, and Truth_, D. Copp and D. Zimmerman, (eds.), Totowa, N. J.: Rowman & Allanheld.
+* Thomas, Laurence, 1992–3, “Moral Deference”, _The Philosophical Forum_, 24: 233–50.
+* Tomasello, Michael, 2016, _A Natural History of Human Morality_, Cambridge, MA: Harvard University Press.
+* Walker, Margaret Urban, 1998. _Moral Understandings: A Feminist Study in Ethics_, New York: Routledge.
+* Westmoreland, Robert, 1996, “Two Recent Metaphysical Divine Command Theories of Ethics”, _International Journal of Philosophy of Religion_, 39: 15–31.
+* White, Morton, 1981, _What Is and What Ought To Be Done: An Essay on Ethics and Epistemology_, New York: Oxford University Press.
+* –––, 1986, “Normative Ethics, Normative Epistemology, and Quine’s Holism”, in _The Philosophy of W. V. Quine_, L. E. Hahn and P. A. Lewis, (eds.), La Salle, Illinois: Open Court.
+* Wiggins, David, 1988, “Truth, Invention, and the Meaning of Life”, in _Essays on Moral Realism_, G. Sayre-McCord, (ed.), Ithaca, N.Y.: Cornell University Press.
+* Williams, Bernard, 1974–5, “The Truth in Relativism”, _Proceedings of The Aristotelian Society_, 75: 215–28.
+* Wilson, Edward O., 1978, _On Human Nature_, New York: Bantam Books.
+* Wong, David B., 1984, _Moral Relativity_, Berkeley: University of California Press.
+* –––, 2002, “Reasons and Analogical Reasoning in Mengzi”, in X. Liu and P. Ivanhoe (eds.), _Essays on the Moral Philosophy of Mengzi_, Indianapolis: Hackett Publishing.
+* Woodward, James and John Allman, 2007, “Moral Intuition: Its Neural Substrate and Normative Significance”, _Journal of physiology – Paris_, 101: 179–202.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-epistemology). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/moral-epistemology/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=moral-epistemology&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/moral-epistemology/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moral-epistemology).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/moral-epistemology/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=moral-epistemology\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/moral-epistemology/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Greene, Joshua, 2010, [Notes on ‘The Normative Insignificance of Neuroscience’ by Selim Berker](https://web.archive.org/web/20130522143601/http://www.wjh.harvard.edu/~jgreene/GreeneWJH/Greene-Notes-on-Berker-Nov10.pdf), unpublished manuscript.
+* Greene, Joshua, 2010, [Notes on ‘The Normative Insignificance of Neuroscience’ by Selim Berker](https://web.archive.org/web/20130522143601/http://www.wjh.harvard.edu/\~jgreene/GreeneWJH/Greene-Notes-on-Berker-Nov10.pdf), unpublished manuscript.
 
 ## Related Entries
 
-[feminist philosophy, interventions: epistemology and philosophy of science](https://plato.stanford.edu/entries/feminism-epistemology/) | [morality: and evolutionary biology](https://plato.stanford.edu/entries/morality-biology/) | [moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/) | [moral particularism](https://plato.stanford.edu/entries/moral-particularism/) | [moral realism](https://plato.stanford.edu/entries/moral-realism/) | [moral skepticism](https://plato.stanford.edu/entries/skepticism-moral/) | [naturalism: moral](https://plato.stanford.edu/entries/naturalism-moral/) | [voluntarism, theological](https://plato.stanford.edu/entries/voluntarism-theological/)
+[feminist philosophy, interventions: epistemology and philosophy of science](https://plato.stanford.edu/entries/feminism-epistemology/) | [morality: and evolutionary biology](https://plato.stanford.edu/entries/morality-biology/) | [moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/) | [moral particularism](https://plato.stanford.edu/entries/moral-particularism/) | [moral realism](https://plato.stanford.edu/entries/moral-realism/) | [moral skepticism](https://plato.stanford.edu/entries/skepticism-moral/) | [naturalism: moral](https://plato.stanford.edu/entries/naturalism-moral/) | [voluntarism, theological](https://plato.stanford.edu/entries/voluntarism-theological/)
 
 ### Acknowledgments
 
-I am grateful to David Copp, a subject editor for the *Stanford Encyclopedia of Philosophy*, and to David Braybrooke, Victor Kumar, and Duncan MacIntosh, who read a previous draft in full and caught numerous mistakes and unclarities. I am also grateful to colleagues and students in the Philosophy Department of Dalhousie University for their vigorous discussion of parts of this entry.
+I am grateful to David Copp, a subject editor for the _Stanford Encyclopedia of Philosophy_, and to David Braybrooke, Victor Kumar, and Duncan MacIntosh, who read a previous draft in full and caught numerous mistakes and unclarities. I am also grateful to colleagues and students in the Philosophy Department of Dalhousie University for their vigorous discussion of parts of this entry.
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Richmond Campbell](http://philosophy.dal.ca/Faculty%20and%20Staff/Richmond_M._Campbell.php) <[*Richmond.Campbell@Dal.CA*](mailto:Richmond%2eCampbell%40Dal%2eCA)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Richmond Campbell](http://philosophy.dal.ca/Faculty%20and%20Staff/Richmond\_M.\_Campbell.php) <[_Richmond.Campbell@Dal.CA_](mailto:Richmond%2eCampbell%40Dal%2eCA)>

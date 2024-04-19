@@ -1,47 +1,41 @@
 # 毛拉·萨德拉 Mulla Sadra (Sajjad Rizvi)
 
-*首次发表于2009年6月9日；实质修订于2019年2月5日。*
+_首次发表于2009年6月9日；实质修订于2019年2月5日。_
 
 萨德尔丁·穆罕默德·本·易卜拉欣·本·亚哈亚·卡瓦米·设拉子（约1571-1636年）可以说是继阿维森纳之后最重要的伊斯兰哲学家。他以穆拉·萨德拉而闻名，后来被授予萨德尔·穆塔阿利欣（神学家大师）的称号，因为他的哲学方法结合了对神学的兴趣，并借鉴了神秘直觉的洞见。他认为哲学是一套精神锻炼和神化的过程，是追求智慧的追求，其目标是获得智慧并成为一个智者，从而成为神一样的存在。他提倡一种激进的哲学方法，试图超越辩证的、推理的推理和认识模式，以及更直观、诗意和非命题的知识模式之间的简单二分法。他因批判亚里士多德形而上学，该形而上学假设现实的基本物质由物质构成，而发起了一个（新柏拉图主义的）变化的过程形而上学，以及由存在行为引发和推动的。作为一位思想敏锐的哲学家，他在哲学、神学、神秘主义和经文解释方面写作，试图综合伊斯兰思想的各种方法，并主张通过逻辑推理、灵感启示和对伊斯兰十二伊玛目派传统的关键经文来源进行深入沉思来理解现实的方法的必要性。他对哲学探究采取了整体论的方法，他对追求智慧的理解包括经文解释和神学推理。作为纳斯尔和科尔宾所称的“伊斯法罕学派”的重要人物，他在萨法维王朝阿巴斯一世（在位期间）的哲学复兴中发挥了重要作用。 996–1038 AH/1588–1629 CE)和后来在生活中成为他家乡设拉子的哲学学院 Madrasa-yi Khan 的最重要的教师。自 19 世纪初以来，毛拉·萨德拉的思想已成为伊斯兰东部什叶派学院的主导哲学范式，并在南亚广泛影响力。
 
 * [1. 生平和作品](https://plato.stanford.edu/entries/mulla-sadra/#LifWor)
-
-  * [ 1.1 生平](https://plato.stanford.edu/entries/mulla-sadra/#Lif)
-  * [ 1.2 作品](https://plato.stanford.edu/entries/mulla-sadra/#Wor)
-* [ 2. 哲学](https://plato.stanford.edu/entries/mulla-sadra/#Phi)
-
+  * [1.1 生平](https://plato.stanford.edu/entries/mulla-sadra/#Lif)
+  * [1.2 作品](https://plato.stanford.edu/entries/mulla-sadra/#Wor)
+* [2. 哲学](https://plato.stanford.edu/entries/mulla-sadra/#Phi)
   * [2.1. 定义哲学](https://plato.stanford.edu/entries/mulla-sadra/#Def)
-  * [ 2.2. 做哲学](https://plato.stanford.edu/entries/mulla-sadra/#Doi)
-* [ 3. 形而上学](https://plato.stanford.edu/entries/mulla-sadra/#Met)
-
+  * [2.2. 做哲学](https://plato.stanford.edu/entries/mulla-sadra/#Doi)
+* [3. 形而上学](https://plato.stanford.edu/entries/mulla-sadra/#Met)
   * [3.1. 存在与实在](https://plato.stanford.edu/entries/mulla-sadra/#BeiExi)
   * [3.2 一元论和多元论](https://plato.stanford.edu/entries/mulla-sadra/#MonPlu)
   * [3.3 对上帝存在的证明](https://plato.stanford.edu/entries/mulla-sadra/#ProForExiGod)
   * [3.4 简单存在的解释](https://plato.stanford.edu/entries/mulla-sadra/#SimExi)
 * [4. 智性学——认识论和心理学](https://plato.stanford.edu/entries/mulla-sadra/#NoeEpiPsy)
-
   * [4.1 灵魂的本质](https://plato.stanford.edu/entries/mulla-sadra/#NatSou)
   * [4.2 灵魂与身体的关系](https://plato.stanford.edu/entries/mulla-sadra/#SouBodRel)
-  * [ 4.3 心智存在](https://plato.stanford.edu/entries/mulla-sadra/#MenExi)
+  * [4.3 心智存在](https://plato.stanford.edu/entries/mulla-sadra/#MenExi)
   * [4.4 知识的本质](https://plato.stanford.edu/entries/mulla-sadra/#NatKno)
   * [4.5 智力和被智力所理解的事物的一致性](https://plato.stanford.edu/entries/mulla-sadra/#IdeIntWhaInt)
-* [ 5. 末世论](https://plato.stanford.edu/entries/mulla-sadra/#Esc)
-
+* [5. 末世论](https://plato.stanford.edu/entries/mulla-sadra/#Esc)
   * [5.1 十一原则](https://plato.stanford.edu/entries/mulla-sadra/#ElePri)
   * [5.2 末世论作为形而上学的完成](https://plato.stanford.edu/entries/mulla-sadra/#EscComMet)
 * [6. 遗产和毛拉·萨德拉学派](https://plato.stanford.edu/entries/mulla-sadra/#LegSchMulSad)
-* [ 参考书目](https://plato.stanford.edu/entries/mulla-sadra/#Bib)
-
-  * [ A. 版本](https://plato.stanford.edu/entries/mulla-sadra/#Edi)
-  * [ B. 翻译](https://plato.stanford.edu/entries/mulla-sadra/#Tra)
-  * [ C. 现代传记](https://plato.stanford.edu/entries/mulla-sadra/#ModBio)
-  * [ D. 现代研究](https://plato.stanford.edu/entries/mulla-sadra/#ModStu)
-  * [ E. 其他参考资料](https://plato.stanford.edu/entries/mulla-sadra/#OthRef)
-* [ 学术工具](https://plato.stanford.edu/entries/mulla-sadra/#Aca)
+* [参考书目](https://plato.stanford.edu/entries/mulla-sadra/#Bib)
+  * [A. 版本](https://plato.stanford.edu/entries/mulla-sadra/#Edi)
+  * [B. 翻译](https://plato.stanford.edu/entries/mulla-sadra/#Tra)
+  * [C. 现代传记](https://plato.stanford.edu/entries/mulla-sadra/#ModBio)
+  * [D. 现代研究](https://plato.stanford.edu/entries/mulla-sadra/#ModStu)
+  * [E. 其他参考资料](https://plato.stanford.edu/entries/mulla-sadra/#OthRef)
+* [学术工具](https://plato.stanford.edu/entries/mulla-sadra/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/mulla-sadra/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mulla-sadra/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/mulla-sadra/#Rel)
 
----
+***
 
 ## 1. 生平与作品
 
@@ -86,7 +80,7 @@
 
 在他的注释作品中，他还讨论了以自我转化为术语的理解经文的过程，其中对文本的阅读激活了灵魂中的开关，促进了其变化。他说：
 
-> 知道人类是最高贵的存在；他在他的生成之初，处于由元素和组成部分的本质所产生的卑劣和不完善的极限之中，就像其他动物物种一样，他的本性相对于其他物质和实体而言是卑劣的，除了他在本质中具有一种向完美的极限和进步的能力，进而接触到超越起源和积极维持者的光明，摆脱邪恶和灾难，成为光明世界的居民，享受来世的恩惠和幸福；神的普遍关怀不会让他（人类）像昆虫和蠕虫一样在激情的牧场上打滚...因为众所周知，每个事物都有其特定的完美，为此而被创造，并有适合它的完成它的行为。人类的完美是通过感知神圣的阶段和分享神圣的可理解的知识，通过剥离物质感知的依附，放弃低级的世俗事务，摆脱激情的冲动，解脱肉体和欲望的束缚而实现的。所有这些都不容易，除非通过指导、学习、训练和坚定不移...对于那些希望走上真实和确定之路的人来说，他们必须先净化自己的灵魂，摒弃否认者（否认上帝）和迷失者的交往，因为他们的心灵、听觉和视觉上都有一个印记，但他们却不理解，还有（摒弃）迷失者的交往，因为当先知们带着明确的证据来到他们面前时，他们对自己所拥有的知识感到高兴，并接受了他们，但嘲笑了他们[先知们的证据]。 愿上帝保护你免受这两个团体的邪恶，并且不要让你即使一刻钟也与他们同在...我们在上帝和满足的心灵的光明中寻求庇护。（毛拉·萨德拉 1987 年，I：2-3）
+> 知道人类是最高贵的存在；他在他的生成之初，处于由元素和组成部分的本质所产生的卑劣和不完善的极限之中，就像其他动物物种一样，他的本性相对于其他物质和实体而言是卑劣的，除了他在本质中具有一种向完美的极限和进步的能力，进而接触到超越起源和积极维持者的光明，摆脱邪恶和灾难，成为光明世界的居民，享受来世的恩惠和幸福；神的普遍关怀不会让他（人类）像昆虫和蠕虫一样在激情的牧场上打滚...因为众所周知，每个事物都有其特定的完美，为此而被创造，并有适合它的完成它的行为。人类的完美是通过感知神圣的阶段和分享神圣的可理解的知识，通过剥离物质感知的依附，放弃低级的世俗事务，摆脱激情的冲动，解脱肉体和欲望的束缚而实现的。所有这些都不容易，除非通过指导、学习、训练和坚定不移...对于那些希望走上真实和确定之路的人来说，他们必须先净化自己的灵魂，摒弃否认者（否认上帝）和迷失者的交往，因为他们的心灵、听觉和视觉上都有一个印记，但他们却不理解，还有（摒弃）迷失者的交往，因为当先知们带着明确的证据来到他们面前时，他们对自己所拥有的知识感到高兴，并接受了他们，但嘲笑了他们\[先知们的证据]。 愿上帝保护你免受这两个团体的邪恶，并且不要让你即使一刻钟也与他们同在...我们在上帝和满足的心灵的光明中寻求庇护。（毛拉·萨德拉 1987 年，I：2-3）
 
 哲学推理和依赖自己的智力能力是使人类优于其他动物的因素，因此对于人类来说，追求哲学之路以实现他们的人性至关重要。从这个意义上说，我们可以看到毛拉·萨德拉思想中的互补性，即将哲学实践视为对超心理现实的理解和把握，以及作为对启示的解释性实践，这是基于这样一个观念：经书作为一本书和宇宙作为另一本书之间存在着类似性，寻求者应该阅读它，并且对其探究需要一种共同的解释学，以便智者能够表达。
 
@@ -100,9 +94,9 @@
 
 其次，他将哲学和精神推理结合在一起，因为在伊斯兰新柏拉图主义者中，尤其是在苏赫拉瓦尔迪的方法中，他坚持认为哲学是一种先知知识的模式，通过从亚当开始，通过圣经先知、希腊哲学家、印度和巴比伦贤者，一直传承到先知穆罕默德，然后通过穆斯林哲学家和苏菲派。在他关于创造的论文（Risala fi huduth al-‘alam）中，毛拉·萨德拉总结了从亚当和东方到希腊的哲学家族谱：
 
-> 请知道，哲学最初来自于上帝所拣选的亚当，以及他的后代塞特和赫尔墨斯，以及挪亚，因为世界永远不会没有一个确立上帝的统一和回归[到上帝]的知识的人。伟大的赫尔墨斯在各地和各国传播了它[哲学]，解释了它，并使人们从中受益。他是哲学家之父，也是最有学问的人...
+> 请知道，哲学最初来自于上帝所拣选的亚当，以及他的后代塞特和赫尔墨斯，以及挪亚，因为世界永远不会没有一个确立上帝的统一和回归\[到上帝]的知识的人。伟大的赫尔墨斯在各地和各国传播了它\[哲学]，解释了它，并使人们从中受益。他是哲学家之父，也是最有学问的人...
 >
-> 至于罗马和希腊，哲学在那些地方并不古老，因为他们最初的科学是修辞学、书信学和诗歌...直到亚伯拉罕成为先知，他教给他们神的统一科学。历史上记载，他们[希腊人]中第一个进行哲学思考的人是米利都的泰勒斯，他将其命名为哲学。他在埃及首次进行哲学思考，然后在年老时前往米利都，并传播了他的哲学。在他之后出现了阿那克萨戈拉斯和阿那克西门尼斯。之后出现了恩佩多克勒斯、毕达哥拉斯、苏格拉底和柏拉图。（毛拉·萨德拉 1999a: 153–4）
+> 至于罗马和希腊，哲学在那些地方并不古老，因为他们最初的科学是修辞学、书信学和诗歌...直到亚伯拉罕成为先知，他教给他们神的统一科学。历史上记载，他们\[希腊人]中第一个进行哲学思考的人是米利都的泰勒斯，他将其命名为哲学。他在埃及首次进行哲学思考，然后在年老时前往米利都，并传播了他的哲学。在他之后出现了阿那克萨戈拉斯和阿那克西门尼斯。之后出现了恩佩多克勒斯、毕达哥拉斯、苏格拉底和柏拉图。（毛拉·萨德拉 1999a: 153–4）
 
 第三，从方法上讲，人们需要将推理、命题知识和线性推理模式与更直观和非命题的认知模式相结合，特别是所谓的“直接”或“现在”知识。高级形而上学实质上需要修养品格和超越推理。正如波菲里和其他人之前有过的美德列表一样，对于毛拉·萨德拉来说，智者具备慷慨、幽默、审慎和对精神启示的明显品味和经验（毛拉·萨德拉 2001-5，VI：6）。真理必须从恩典和启示中获得其合法性和基础，而不能仅仅在重述先前哲学家的教义中找到肥沃的土壤。现象学经验是哲学的基础。在《四次旅程》中，毛拉·萨德拉写道：
 
@@ -160,7 +154,7 @@
 
 四次旅程的第三次旅程从讨论证明上帝存在的方式开始。在讨论了之前的宇宙学和本体论证明之后，毛拉·萨德拉以以下方式表达了他自己的“真实之路”（manhaj al-siddiqin）作为“详细的思想实验”：
 
-> 存在的实际性（haqiqat al-wujud），由于它是一种简单的事物（amran basitan），没有本质、组成属性或定义方式，与必然性相同，需要最完美的完善，这种完善是无限强烈的，因为其他程度（存在的程度），强度较弱，不是存在的纯粹实际性。相反，它是存在的不足，因为一切的不足都是必然与那个事物不同。存在的不足不是存在本身，而是它的缺乏，这种缺乏仅仅附属于存在，并不是存在的基础，因为它在后续的程度中实际存在，以及之后的程度。不足和本体的贫困构成次要实体，因为它们是次要的，但第一实体是完全的完善，没有定义，没有比它更完美的东西可以被构想出来。不足和本体的贫困源于流出和存在化，并由此得到完善[必然性]。这些次要实体的特性与第一实体相连。因此，他用他的完善对待它们的不足，用他的本体丰富对待它们的本体贫困。
+> 存在的实际性（haqiqat al-wujud），由于它是一种简单的事物（amran basitan），没有本质、组成属性或定义方式，与必然性相同，需要最完美的完善，这种完善是无限强烈的，因为其他程度（存在的程度），强度较弱，不是存在的纯粹实际性。相反，它是存在的不足，因为一切的不足都是必然与那个事物不同。存在的不足不是存在本身，而是它的缺乏，这种缺乏仅仅附属于存在，并不是存在的基础，因为它在后续的程度中实际存在，以及之后的程度。不足和本体的贫困构成次要实体，因为它们是次要的，但第一实体是完全的完善，没有定义，没有比它更完美的东西可以被构想出来。不足和本体的贫困源于流出和存在化，并由此得到完善\[必然性]。这些次要实体的特性与第一实体相连。因此，他用他的完善对待它们的不足，用他的本体丰富对待它们的本体贫困。
 >
 > 因此，通过这个论证，必然存在被证明了（毛拉·萨德拉 2001-5，VI: 17-8）。
 
@@ -180,7 +174,7 @@
 
 ### 3.4 简单存在
 
-证明上帝存在的论证与一个关键教义有关，该教义通过“简单现实”的概念来解释一和多之间的关系。这是萨德拉哲学的核心，借鉴了恩尼阿德斯第五篇 4[7].1.5-15 中的先前一的简单性。
+证明上帝存在的论证与一个关键教义有关，该教义通过“简单现实”的概念来解释一和多之间的关系。这是萨德拉哲学的核心，借鉴了恩尼阿德斯第五篇 4\[7].1.5-15 中的先前一的简单性。
 
 > 因为必须有一些先于一切事物的东西是简单的，而且这个东西必须与其后的一切不同，它本身独立存在，不与其后的东西混合；然而它能以一种不同的方式存在于其他事物中，真正地成为一个，而不是之后的某个东西。
 
@@ -200,7 +194,7 @@
 
 毛拉·萨德拉随后对语言和符号进行了分析：
 
-> 因此，[以例子来说]你说 C 不是 B。在这种情况下，如果 C 是 C 的那个方面与 C 不是 B 的那个方面完全相同，以至于 C 本身在其本质上就是否定的指涉物，那么[如果是这样的话]C 的本质将是否定的事实，因为每个理解 C 的人也会理解不是 B。但是，结论是无效的，所以前提也必须是无效的。因此，已经确定了[对于每个 C]C 性的主体是一个复合本质。因此，心智通过一个存在的意义来区分 C 存在和一个否定的意义，即 C 不是 B 或其他任何否定它的东西。
+> 因此，\[以例子来说]你说 C 不是 B。在这种情况下，如果 C 是 C 的那个方面与 C 不是 B 的那个方面完全相同，以至于 C 本身在其本质上就是否定的指涉物，那么\[如果是这样的话]C 的本质将是否定的事实，因为每个理解 C 的人也会理解不是 B。但是，结论是无效的，所以前提也必须是无效的。因此，已经确定了\[对于每个 C]C 性的主体是一个复合本质。因此，心智通过一个存在的意义来区分 C 存在和一个否定的意义，即 C 不是 B 或其他任何否定它的东西。
 
 所要表达的观点涉及存在-本质区分。一切非简单而是复杂的事物都是存在和本质的复合对。但它也说明了简单的现实是一种存在，并包含事物的存在而不是它们的本质。更重要的是，简单的存在没有什么可以被否定的，因为简单性不能被分析成部分或组成部分。
 
@@ -230,7 +224,7 @@
 
 ### 4.2 灵魂与身体的关系
 
-毛拉·萨德拉对灵魂与身体的关系的核心特征在于他所表达的短语，即灵魂在其起源上是“有形的，在其生存上是精神的[或无形的]”（jismaniyyat al-huduth wa-ruhaniyyat al-baqa’）。在《宝座的智慧》中，他描述了灵魂的诞生以及它与身体的关系，通过它在来世的进展。
+毛拉·萨德拉对灵魂与身体的关系的核心特征在于他所表达的短语，即灵魂在其起源上是“有形的，在其生存上是精神的\[或无形的]”（jismaniyyat al-huduth wa-ruhaniyyat al-baqa’）。在《宝座的智慧》中，他描述了灵魂的诞生以及它与身体的关系，通过它在来世的进展。
 
 > 人的灵魂从其生成的开始到其目标的结束有许多阶段和程度，并且具有某些基本的状态和存在方式。首先，在与身体的联系状态下，它是一个物质实体；然后，它逐渐增强并通过其创造的阶段发展，直到它变得自给自足并与这个世界分离，进入下一个世界并返回其主。
 
@@ -242,7 +236,7 @@
 
 对于毛拉·萨德拉来说，心智拥有一个被称为心智存在的本体领域，这个概念等同于存在-知识（Rahman 1975: 215-20）。他是一个现实主义者，因为每一个思想都必须对应一个真实的对象，即使它是一个迈农对象，也就是认知的非真实对象。通过假设一个心智现实的领域，他是一个二元论者。但是心智的存在和心智存在并不相同，因为心智的存在本身就是一种超心智的现实，而心智存在是指超心智存在。这是一个微妙但重要的区别。他在回应一个反对意见时澄清了这一点，即一件事物的存在不能被分析地溶解为心智和超心智（即具体）的存在。因此，对于毛拉·萨德拉来说，心灵-身体的“难题”并不存在，因为心智的存在是超心智存在。存在有两种主要的模式，每一种都是独特且根本不可互换的：实在存在和心智存在。
 
-> 哲学家们已经达成共识，与大多数思辨神学家相反，除了这种存在模式之外，事物还有另一种存在和显现的模式，同样被安排并经历类似的因果关系。[那种模式]被称为心智存在（Mulla Sadra 2001–5, I: 313）。
+> 哲学家们已经达成共识，与大多数思辨神学家相反，除了这种存在模式之外，事物还有另一种存在和显现的模式，同样被安排并经历类似的因果关系。\[那种模式]被称为心智存在（Mulla Sadra 2001–5, I: 313）。
 
 心理存在与超心理存在共享相同的特质、特征和描述，因为它只是存在的另一种方式，从某种意义上说。正如超心理存在不含糊，心理存在也不含糊。它是同义词和调节的。同样，心理存在并不是普遍的；我们已经看到上面否定存在概念是普遍的论证。心理存在与超心理存在之间的区别根源于柏拉图对感性和可知存在的区分，以及阿维森纳对有限存在和本质的区分。正是因为有了心理存在，人类才能构想出在超心理现实中没有任何参照的实体。
 
@@ -276,7 +270,7 @@
 
 简单的智力（即上帝）知道一切，因为一切都存在于其中，它是所有概念的最终指称。这就是“内在性论”，即所有可理解的事物都内在于智力，而感知对象则是外在的。我们的哲学家强烈批评亚里士多德为持有简单智力的概念（对于亚里士多德来说，这是非推理的、不依赖形式的简单认知），同时否认智力主体和其对象的联合。此外，根据亚里士多德传统，人类智力在此生中无法达到纯粹简单智力的水平。毛拉·萨德拉驳斥了这一观点：
 
-> 如果简单的智力（他认为存在于人类物种和可分离物质中）不是[全部]可理解的，那么灵魂如何从不发生在它们身上的东西中受益？灵魂如何从潜在性到实际性移动，而这些东西并不存在于它们身上？（毛拉·萨德拉 2001-5，III：405）
+> 如果简单的智力（他认为存在于人类物种和可分离物质中）不是\[全部]可理解的，那么灵魂如何从不发生在它们身上的东西中受益？灵魂如何从潜在性到实际性移动，而这些东西并不存在于它们身上？（毛拉·萨德拉 2001-5，III：405）
 
 在这个简单的智力中，事物的存在方式被称为“事物本身”（nafs al-amr）或内在对象。这个简单而更高的智力并不是抽象的，而是包含了所有较低和复杂的形式和存在程度。从这个意义上说，这个智力是“多元一体”的。它也是《心灵论》第三章第 5 节中的亚里士多德活动智力。
 
@@ -342,11 +336,11 @@
 
 For basic guides to his life, works and thought, see:
 
-* John Cooper (1998), “Mulla Sadra Shirazi”, in E. Craig (ed), *The Routledge Encyclopaedia of Philosophy* (London: Routledge), 6: 595–99.
-* Fazlur Rahman (1975), *The Philosophy of Mulla Sadra* (Albany: State University of New York Press).
-* Sajjad H. Rizvi (2005), “Molla Sadra Shirazi,” *Encyclopaedia Iranica*, available online at [MOLLĀ ṢADRĀ ŠIRĀZI – Encyclopaedia Iranica](https://www.iranicaonline.org/articles/molla-sadra-sirazi)
-* Sajjad H. Rizvi (2007), *Mulla Sadra Shirazi: His Life, Works and the Sources for Safavid Philosophy* (JSS Supplements 18, Oxford: Oxford University Press).
-* Nahid Baqiri Khurramdashti (1999), *Kitabshinasi-yi jami‘-yi Sadr al- Muta’allihin* (Tehran: Bunyad-i Hikmat-i islami-yi Sadra/Sadra Islamic Philosophy Research Institute = [S.I.P.R.In)](http://www.mullasadra.org/new_site/English/index.htm).
+* John Cooper (1998), “Mulla Sadra Shirazi”, in E. Craig (ed), _The Routledge Encyclopaedia of Philosophy_ (London: Routledge), 6: 595–99.
+* Fazlur Rahman (1975), _The Philosophy of Mulla Sadra_ (Albany: State University of New York Press).
+* Sajjad H. Rizvi (2005), “Molla Sadra Shirazi,” _Encyclopaedia Iranica_, available online at [MOLLĀ ṢADRĀ ŠIRĀZI – Encyclopaedia Iranica](https://www.iranicaonline.org/articles/molla-sadra-sirazi)
+* Sajjad H. Rizvi (2007), _Mulla Sadra Shirazi: His Life, Works and the Sources for Safavid Philosophy_ (JSS Supplements 18, Oxford: Oxford University Press).
+* Nahid Baqiri Khurramdashti (1999), _Kitabshinasi-yi jami‘-yi Sadr al- Muta’allihin_ (Tehran: Bunyad-i Hikmat-i islami-yi Sadra/Sadra Islamic Philosophy Research Institute = [S.I.P.R.In)](http://www.mullasadra.org/new\_site/English/index.htm).
 
 ### A. Editions
 
@@ -354,157 +348,157 @@ The Sadra Islamic Philosophy Research Institute (Bunyad-i hikmat-i Islami-yi Sad
 
 Works edited so far:
 
-* (1999a), *Risala fi huduth al-‘alam [On the Incipience of the Cosmos]*, ed. S. H. Musaviyan. (An important treatise on the creation of the cosmos.)
-* (1999b), *Al-Mazahir al-ilahiyya fi asrar al-‘ulum al-kamaliyya [Divine Manifestations of the Secrets of Sciences that lead to Perfection]*, ed. S. M. Khamanihi. (A short epitome of philosophical theology.)
-* (2000), *Al-Tanqih fi-l-mantiq [A Summary of Logic]*, ed. G. Yasipur. (A concise *organon* based on the Illuminationist modification of Avicennan logic.)
-* (2001–5), *Al-Hikma al-muta‘aliya fi-l-asfar al-‘aqliyya al-arba‘a [The Transcendent Philosophy of the Four Journeys of the Intellect]*, gen. ed. S.H. Khaminihi, 9 vols. (Mulla Sadra’s *summa* with the glosses of his 19th commentator Sabzavari.)
-* (2002), *Kasr asnam al-jahiliyya*, ed. M. Jahangiri. (A short work on spirituality and the defence of mysticism but critique of the shortcomings of monistic and antinomian Sufis.)
-* (2003), *Sharh al-ilahiyyat min Kitab al-Shifa’ [Commentary on the Metaphysics of the Cure]*, ed. Najafquli Habibi. (An important commentary on the metaphysics section of Avicenna’s *The Cure*.)
-* (2004), *Al-Shawahid al-rububiyya fi manahij al-sulukiyya [Divine Witnesses along the Spiritual Path]*, ed. S. M. Muhaqqiq Damad. (An extended summary of the main issues in his *summa*.)
-* (2007*a*), *Iqaz al-na’imin [Awakening of the Dormant]*, ed. M. Khwansari. (Short mystically inclined presentation of metaphysics.)
-* (2007*b*), *Mafatih al-ghayb [Keys to the Unseen]*, ed. N. Habibi. (An exposition of Mulla Sadra’s scriptural and philosophical hermeneutics.)
-* (2009), *Al-Ta‘liqat ‘ala Sharh Hikmat al-ishraq*, ed. H. Zia’i. (Glosses on the major Illuminationist work of Suhrawardi (d. 1191).)
-* (2010), *Majmu‘a-yi rasayil-i falsafi*, gen. ed. Sayyid Muhammad Khamanihi, 4 vols. (A collection of his important treatises including *al-Masha‘ir* on ontology.)
-* (2013), *Hikmat al-ishraq [The Philosophy of Illumination]*, ed. Najafquli Habibi, 4 vols. (The best edition of his glosses on Suhrawardi’s text.)
+* (1999a), _Risala fi huduth al-‘alam \[On the Incipience of the Cosmos]_, ed. S. H. Musaviyan. (An important treatise on the creation of the cosmos.)
+* (1999b), _Al-Mazahir al-ilahiyya fi asrar al-‘ulum al-kamaliyya \[Divine Manifestations of the Secrets of Sciences that lead to Perfection]_, ed. S. M. Khamanihi. (A short epitome of philosophical theology.)
+* (2000), _Al-Tanqih fi-l-mantiq \[A Summary of Logic]_, ed. G. Yasipur. (A concise _organon_ based on the Illuminationist modification of Avicennan logic.)
+* (2001–5), _Al-Hikma al-muta‘aliya fi-l-asfar al-‘aqliyya al-arba‘a \[The Transcendent Philosophy of the Four Journeys of the Intellect]_, gen. ed. S.H. Khaminihi, 9 vols. (Mulla Sadra’s _summa_ with the glosses of his 19th commentator Sabzavari.)
+* (2002), _Kasr asnam al-jahiliyya_, ed. M. Jahangiri. (A short work on spirituality and the defence of mysticism but critique of the shortcomings of monistic and antinomian Sufis.)
+* (2003), _Sharh al-ilahiyyat min Kitab al-Shifa’ \[Commentary on the Metaphysics of the Cure]_, ed. Najafquli Habibi. (An important commentary on the metaphysics section of Avicenna’s _The Cure_.)
+* (2004), _Al-Shawahid al-rububiyya fi manahij al-sulukiyya \[Divine Witnesses along the Spiritual Path]_, ed. S. M. Muhaqqiq Damad. (An extended summary of the main issues in his _summa_.)
+* (2007_a_), _Iqaz al-na’imin \[Awakening of the Dormant]_, ed. M. Khwansari. (Short mystically inclined presentation of metaphysics.)
+* (2007_b_), _Mafatih al-ghayb \[Keys to the Unseen]_, ed. N. Habibi. (An exposition of Mulla Sadra’s scriptural and philosophical hermeneutics.)
+* (2009), _Al-Ta‘liqat ‘ala Sharh Hikmat al-ishraq_, ed. H. Zia’i. (Glosses on the major Illuminationist work of Suhrawardi (d. 1191).)
+* (2010), _Majmu‘a-yi rasayil-i falsafi_, gen. ed. Sayyid Muhammad Khamanihi, 4 vols. (A collection of his important treatises including _al-Masha‘ir_ on ontology.)
+* (2013), _Hikmat al-ishraq \[The Philosophy of Illumination]_, ed. Najafquli Habibi, 4 vols. (The best edition of his glosses on Suhrawardi’s text.)
 
 There are a few other critical editions:
 
-* (1961), *Risala-yi Sih asl*, ed. S. H. Nasr (Tehran: Tehran University Press); (1997), *Risala-yi Sih asl*, ed. M. Khajavi, Tehran: Intisharat-i Mawla. (The only work in Persian that is a series of homiletic advice, defence of mystical practice and critique of exoteric religion.)
-* (1964), *Kitab al-masha‘ir*, ed./tr. H. Corbin, Tehran: Bibliothèque iranienne. (A focused treatise on Mulla Sadra’s ontology.
-* (1979), *Al-Waridat al-qalbiyya*, ed. A. Shafi‘iha, Tehran: Tehran University Press. (A short mystical treatise on the nature of the soul.)
-* (1983), *Asrar al-ayat [Secrets of the Divine Signs]*, ed. M. Khajavi, Tehran: Institute of Cultural Studies and Research. (On the philosophical hermeneutics of the Qur’an.)
-* (1987), *Sharh Usul al-kafi*, ed. M. Khajavi, 3 vols., Qum: Intisharat-i Bidar. (An incomplete commentary on traditions of the Shi‘i Imams. More recently a newer edition under the guidance of Khajavi was published by SIPRIn.)
-* (1988), *Tafsir al-Qur’an al-karim*, ed. M. Khajavi, 7 vols., Qom: Intisharat-i Bidar. (A partial philosophical commentary on the Qur’an, a newer edition of which under the guidance of Khajavi was published by SIPRIn.)
-* (1999), *Masnavi-yi Mulla Sadra*, ed. M. Fayzi, Qum: Kitabkhana-yi Mar‘ashi. (An edition of a selection of Mulla Sadra’s poetry by a descendent, it also has a useful introduction on the life of Mulla Sadra.)
+* (1961), _Risala-yi Sih asl_, ed. S. H. Nasr (Tehran: Tehran University Press); (1997), _Risala-yi Sih asl_, ed. M. Khajavi, Tehran: Intisharat-i Mawla. (The only work in Persian that is a series of homiletic advice, defence of mystical practice and critique of exoteric religion.)
+* (1964), _Kitab al-masha‘ir_, ed./tr. H. Corbin, Tehran: Bibliothèque iranienne. (A focused treatise on Mulla Sadra’s ontology.
+* (1979), _Al-Waridat al-qalbiyya_, ed. A. Shafi‘iha, Tehran: Tehran University Press. (A short mystical treatise on the nature of the soul.)
+* (1983), _Asrar al-ayat \[Secrets of the Divine Signs]_, ed. M. Khajavi, Tehran: Institute of Cultural Studies and Research. (On the philosophical hermeneutics of the Qur’an.)
+* (1987), _Sharh Usul al-kafi_, ed. M. Khajavi, 3 vols., Qum: Intisharat-i Bidar. (An incomplete commentary on traditions of the Shi‘i Imams. More recently a newer edition under the guidance of Khajavi was published by SIPRIn.)
+* (1988), _Tafsir al-Qur’an al-karim_, ed. M. Khajavi, 7 vols., Qom: Intisharat-i Bidar. (A partial philosophical commentary on the Qur’an, a newer edition of which under the guidance of Khajavi was published by SIPRIn.)
+* (1999), _Masnavi-yi Mulla Sadra_, ed. M. Fayzi, Qum: Kitabkhana-yi Mar‘ashi. (An edition of a selection of Mulla Sadra’s poetry by a descendent, it also has a useful introduction on the life of Mulla Sadra.)
 
 ### B. Translations
 
-* (1964), *Kitab al-masha‘ir*, tr. as *Livre des pénétrations métaphysiques* by H. Corbin, Tehran: L’Institut Franco-Iranien.
-* (1981), *al-Hikma al-‘Arshiyya*, tr. as *The Wisdom of the Throne* by James W. Morris, Princeton: Princeton University Press.
-* (1986), [Shihab al-Din Yahya] Sohravardî, *Hikmat al-ishraq*, tr. as *Le livre de la sagesse orientale* by H. Corbin with the glosses of Mulla Sadra, Paris: Fayard, pp. 439–669.
-* (2000a), *Risalat al-hashr*, tr. as *Se rendre immortel* by C. Jambet, Paris: Fata Morgana; new version (2017), *La fin de toute chose*, Paris: Albin Michel.
-* (2000b), *Risala fi huduth al-‘alam*, tr. as *Die* *Abhandlung über die Entstehung* by S. Bagher Talgharizadeh, Berlin: Klaus Schwarz.
-* (2000c), *Садр ад-Дин аш-Ширази*, «Приходящее в сердце о познании Господствия» (Sadr al-Din al-Shirazi, Coming Into Heart Concerning the Knowledge of Lordship), in *Восток*, Москва: Наука, 2: 109–132; 5: 109–127.
-* (2003), *Iksir al-‘arifin*, tr. as *The Elixir of the Gnostics* by W. Chittick, Provo, Utah: Brigham Young University Press.
-* (2004), *Садр ад-Дин аш-Ширази*, «Престольная мудрость» (Sadr al-Din al-Shirazi, The Wisdom of the Throne) (Москва: Восточная литература).
-* (2004), *Khalq al-a‘mal*, tr. T. Kirmani as *The Manner of the Creation of Actions*, Tehran: SIPRIn.
-* (2006), *al-Risala fi-l-tasawwur wa-l-tasdiq*, tr. J. Lameer as *Conception and Belief in Sadr al-Din Shirazi*, Tehran: Iranian Academy of Philosophy.
-* (2007), *al-Hikma al-‘arshiyya*, trs. A. Yousef & P. Moulinet as *Le Livre de la sagesse du trône*, Paris: Bouraq.
-* (2008), *Kasr asnam al-jahiliyya*, trs. M. Dasht Bozorgi & F. Asadi Amjad as *Breaking the Idols of Ignorance*, London: ICAS Press.
-* (2008), *al-Hikma al-muta‘aliya fi-l-asfar al-‘aqliyya al-arba‘a*, vols. 8 & 9, tr. L. Peerwani as *Spiritual Psychology: The Fourth Intellectual Journey*, London: ICAS Press.
-* (2010), *al-Mazahir al-ilahiyya*, trs. M. Dasht Bozorgi and F. Asadi Amjadi as *Divine Manifestations Concerning the Secrets of the Perfecting Sciences*, London: ICAS Press.
-* (2014), *al-Masha‘ir*, tr. Seyyed Hossein Nasr, ed. Ibrahim Kalin as *The Book of Metaphysical Penetrations*, Provo: Brigham Young University Press. (A new translation of a critically important work on Mulla Sadra’s metaphysics.)
-* (2016), *al-Asfar al-arba‘a*, tr. Sayyid Manazir Ahsan Gilani as *Falsafa-yi Mulla Sadra*, Karachi: Book Time. (A reprint of an old Urdu translation of the first journey but it is in fact more of a paraphrase than a translation.)
+* (1964), _Kitab al-masha‘ir_, tr. as _Livre des pénétrations métaphysiques_ by H. Corbin, Tehran: L’Institut Franco-Iranien.
+* (1981), _al-Hikma al-‘Arshiyya_, tr. as _The Wisdom of the Throne_ by James W. Morris, Princeton: Princeton University Press.
+* (1986), \[Shihab al-Din Yahya] Sohravardî, _Hikmat al-ishraq_, tr. as _Le livre de la sagesse orientale_ by H. Corbin with the glosses of Mulla Sadra, Paris: Fayard, pp. 439–669.
+* (2000a), _Risalat al-hashr_, tr. as _Se rendre immortel_ by C. Jambet, Paris: Fata Morgana; new version (2017), _La fin de toute chose_, Paris: Albin Michel.
+* (2000b), _Risala fi huduth al-‘alam_, tr. as _Die_ _Abhandlung über die Entstehung_ by S. Bagher Talgharizadeh, Berlin: Klaus Schwarz.
+* (2000c), _Садр ад-Дин аш-Ширази_, «Приходящее в сердце о познании Господствия» (Sadr al-Din al-Shirazi, Coming Into Heart Concerning the Knowledge of Lordship), in _Восток_, Москва: Наука, 2: 109–132; 5: 109–127.
+* (2003), _Iksir al-‘arifin_, tr. as _The Elixir of the Gnostics_ by W. Chittick, Provo, Utah: Brigham Young University Press.
+* (2004), _Садр ад-Дин аш-Ширази_, «Престольная мудрость» (Sadr al-Din al-Shirazi, The Wisdom of the Throne) (Москва: Восточная литература).
+* (2004), _Khalq al-a‘mal_, tr. T. Kirmani as _The Manner of the Creation of Actions_, Tehran: SIPRIn.
+* (2006), _al-Risala fi-l-tasawwur wa-l-tasdiq_, tr. J. Lameer as _Conception and Belief in Sadr al-Din Shirazi_, Tehran: Iranian Academy of Philosophy.
+* (2007), _al-Hikma al-‘arshiyya_, trs. A. Yousef & P. Moulinet as _Le Livre de la sagesse du trône_, Paris: Bouraq.
+* (2008), _Kasr asnam al-jahiliyya_, trs. M. Dasht Bozorgi & F. Asadi Amjad as _Breaking the Idols of Ignorance_, London: ICAS Press.
+* (2008), _al-Hikma al-muta‘aliya fi-l-asfar al-‘aqliyya al-arba‘a_, vols. 8 & 9, tr. L. Peerwani as _Spiritual Psychology: The Fourth Intellectual Journey_, London: ICAS Press.
+* (2010), _al-Mazahir al-ilahiyya_, trs. M. Dasht Bozorgi and F. Asadi Amjadi as _Divine Manifestations Concerning the Secrets of the Perfecting Sciences_, London: ICAS Press.
+* (2014), _al-Masha‘ir_, tr. Seyyed Hossein Nasr, ed. Ibrahim Kalin as _The Book of Metaphysical Penetrations_, Provo: Brigham Young University Press. (A new translation of a critically important work on Mulla Sadra’s metaphysics.)
+* (2016), _al-Asfar al-arba‘a_, tr. Sayyid Manazir Ahsan Gilani as _Falsafa-yi Mulla Sadra_, Karachi: Book Time. (A reprint of an old Urdu translation of the first journey but it is in fact more of a paraphrase than a translation.)
 
 ### C. Modern biographies
 
-* Ja‘far Al Yasin (1955), *Sadr al-Din al-Shirazi: mujaddid al-falsafa al-islamiyya*, Baghdad: Baghdad University.
-* Sayyid Jalal al-Din Ashtiyani (1971), *Sharh-i hal va ara’-yi falsafi-yi Mulla Sadra*, Mashad: Chapkhana-yi Khurasan. (An excellent Persian study of life and ideas by a leading recent ‘traditional’ Iranian philosopher.)
-* Idris Hani (2000), *Ma‘ ba‘d al-rushdiyya: Mulla Sadra ra’id al-hikma al-muta‘aliya*, Beirut: al-Ghadir.
-* Ibrahim Kalin (2003), “An Annotated Bibliography of the Works of Mulla Sadra with a Brief Account of his Life,” *Islamic Studies*, 42: 21–62.
-* –––(2010), *Mulla Sadra*, New Delhi: Oxford University Press. (A useful short account including a sketch of his thought.)
-* Sayyid Muhammad Khamenehi (2000), *Mulla Sadra: zindagi, shakhsiyyat va maktab-i Sadr al-Muta’allihin*, Tehran: SIPRIn. (The best study of his life in Persian.)
-* Muhammad Khajavi (1988), *Lawami‘ al-‘arifin*, Tehran: Intisharat-i Hikmat.
-* Denis MacEoin (n.d.), “Mulla Sadra Shirazi,” in *Encyclopaedia of Islam*, 2nd edition, VII: 547–48.
-* Sayeh Meisami (2013), *Mulla Sadra*, Oxford: Oneworld Publications. (An excellent introduction to his life and thought as part of the influential Makers of the Muslim World series.)
-* Rahmat-Allah Mihraz (1982), *Buzurgan-i Shiraz*, Tehran: Anjuman-i athar, 324-27.
-* Seyyed Hossein Nasr (1977), *Sadr al-Din al-Shirazi and his Transcendent Theosophy*, Tehran: Imperial Iranian Academy of Philosophy.
-* ‘Abd Allah Ni‘ma (1965), *Falasifat al-shi‘a*, Beirut: Maktabat al-Hayat, 346-66.
-* Abu ‘Abd Allah Zanjani (1972), *al-Faylasuf al-farisi al-kabir*, Tehran: al-Maktaba al-Islamiyya.
-* Hossein Ziai (1996), “Mulla Sadra,” in S. H. Nasr and O. Leaman (eds), *History of Islamic Philosophy*, London: Routledge, I: 635–42.
+* Ja‘far Al Yasin (1955), _Sadr al-Din al-Shirazi: mujaddid al-falsafa al-islamiyya_, Baghdad: Baghdad University.
+* Sayyid Jalal al-Din Ashtiyani (1971), _Sharh-i hal va ara’-yi falsafi-yi Mulla Sadra_, Mashad: Chapkhana-yi Khurasan. (An excellent Persian study of life and ideas by a leading recent ‘traditional’ Iranian philosopher.)
+* Idris Hani (2000), _Ma‘ ba‘d al-rushdiyya: Mulla Sadra ra’id al-hikma al-muta‘aliya_, Beirut: al-Ghadir.
+* Ibrahim Kalin (2003), “An Annotated Bibliography of the Works of Mulla Sadra with a Brief Account of his Life,” _Islamic Studies_, 42: 21–62.
+* –––(2010), _Mulla Sadra_, New Delhi: Oxford University Press. (A useful short account including a sketch of his thought.)
+* Sayyid Muhammad Khamenehi (2000), _Mulla Sadra: zindagi, shakhsiyyat va maktab-i Sadr al-Muta’allihin_, Tehran: SIPRIn. (The best study of his life in Persian.)
+* Muhammad Khajavi (1988), _Lawami‘ al-‘arifin_, Tehran: Intisharat-i Hikmat.
+* Denis MacEoin (n.d.), “Mulla Sadra Shirazi,” in _Encyclopaedia of Islam_, 2nd edition, VII: 547–48.
+* Sayeh Meisami (2013), _Mulla Sadra_, Oxford: Oneworld Publications. (An excellent introduction to his life and thought as part of the influential Makers of the Muslim World series.)
+* Rahmat-Allah Mihraz (1982), _Buzurgan-i Shiraz_, Tehran: Anjuman-i athar, 324-27.
+* Seyyed Hossein Nasr (1977), _Sadr al-Din al-Shirazi and his Transcendent Theosophy_, Tehran: Imperial Iranian Academy of Philosophy.
+* ‘Abd Allah Ni‘ma (1965), _Falasifat al-shi‘a_, Beirut: Maktabat al-Hayat, 346-66.
+* Abu ‘Abd Allah Zanjani (1972), _al-Faylasuf al-farisi al-kabir_, Tehran: al-Maktaba al-Islamiyya.
+* Hossein Ziai (1996), “Mulla Sadra,” in S. H. Nasr and O. Leaman (eds), _History of Islamic Philosophy_, London: Routledge, I: 635–42.
 
 ### D. Modern studies
 
-* M. ‘Abd al-Haq (1970), “The Psychology of Mulla Sadra,” *Islamic Studies (Islamabad)*, 9: 173–81.
-* M. ‘Abd al-Haq (1972), “Mulla Sadra’s Concept of Substantial Motion,” *Islamic Studies*, 11: 79–91.
-* ‘Abd al-Malik Ben‘athu (2016), *Nazariyyat al-fi‘l ‘inda Sadr al-Din al-Shirazi*, Freiburg: Manshurat al-Jamal. (A study of Mulla Sadra’s theory of motion in the category of substance.)
-* Biyuk ‘Alizada (1998), “Mahiyyat-i maktab-i falsafi-yi Mulla Sadra,” *Khirad-nama-yi Sadra* (Tehran), 10: 90–101.
-* Alparslan Açikgenç (1993), *Being and Existence in Sadra and Heidegger*, Kuala Lumpur: ISTAC.
-* S.K. Toussi-Alaghebandi (2007), *Ethics and Politics in the Philosophy of Mulla Sadra*, Ph.D. dissertation, University of Exeter.
-* S. H. Amin (1986), *Afkar-i falsafi-yi Mulla Sadra*, Exeter: Intisharat-i guruh-i pazhuhishi.
-* Hasanzada Amuli (1995), *al-Nur al-mutajalli fi zuhur al-zilli*, Tehran: Maktabat al-i‘lam al-islami. (A short study of the problem of mental existence in Mulla Sadra.)
-* Muhammad Fana’i Ashkivari (2008), *Ma‘qul thani: tahlili az anva‘-i mafahim-i kulli dar falsafa-yi islami va gharbi*, Qum: Imam Khomeini Institute. (A comparative philosophical study of universal concepts.)
-* Jalal-al-Din Ashtiyani (1980), *Hasti az nazar-i falsafa va ‘irfan*, Tehran: Intisharat-i nahzat-i zanan. (A study of Mulla Sadra’s ontology and its debt to mysticism.)
-* Jalal al-Din Ashtiyani (1981), *Ma‘ad-i jismani: Sharh-i Zad al-musafir-i Mulla Sadra*, Tehran: Intisharat-i Amir Kabir. (On the afterlife according to Mulla Sadra.)
-* Jalal al-Din Ashtiyani (1972) (ed), *Muntakhabati az athar-i hukama’-yi ilahi-yi Iran az ‘asr-i Mir Damad va Mir Findiriski ta zaman-i hazir. Qismat-i avval*, Tehran: L’Institut Franco-Iranien, I: 123–234.
-* Cécile Bonmariage (2007), *Le Réel et les réalités: Mollâ Sadrâ Shîrâzî et la structure de la réalité*, Paris: Vrin.
-* Henry Corbin (1962), “La place de Mollâ Sadrâ Shîrâzî dans la philosophie iranienne,” *Studia Islamica*, 18: 81–113.
-* Henry Corbin (1971–73), *En Islam iranien*, 4 vols., Paris: Gallimard, IV: 54–122.
-* Daniel De Smet (1999), “Le souffle de miséricordieux (*Nafas al-rahman*): un élément pseudo-empédocléen dans la métaphysique de Mulla Sadra ash-Shirazi,” *Documenti studi sulla tradizione filosofica medievale*, 10: 467–86.
-* Janis Esots (2007), *Mulla Sadra’s Teaching on wujud: A Synthesis of Mysticism and Philosophy*, Ph.D. dissertation, University of Tallinn.
-* Ghulam-Riza Fayyazi (2009), *Hasti u chisti dar maktab-i Mulla Sadra*, Qum: Pazhuhishgah-i hamza u danishgah. (A serious study of Mulla Sadra’s ontology by a leading teacher in the seminary in Qum.)
-* Rafael Ramón Guerrero (2001), “El lenguaje del ser: de Ibn Sina a Mulla Sadra,” *Convivium*, 14: 113–27.
-* Pierre Hadot (1995), *Philosophy as a Way of Life*, Oxford: Blackwell.
-* Mahdi Ha’iri Yazdi (1981), *Haram-i hasti*, Tehran: Institute of Cultural Studies and Research. (An important work that makes sense of Mulla Sadra’s metaphysics from the perspective of a traditional seminarian philosopher trained in analytical philosophy.)
-* ––– (1993), “Dar-amadi bar Kitab al-asfar,” *Iranshenasi*, 4: 707–12.
-* Trad Hamade (1992), *Dieu, le monde et l’âme chez Molla Sadra*, Ph.D. dissertation, Université de Paris I-Panthéon-Sorbonne.
-* H. Hamid (1995), “Para-yi ‘anasir-i Anaksimandres [Anaximander] dar nazariyya-yi vujud-i Mulla Sadra,” *Iranshenasi*, 6: 817–32.
-* Jalal-al-Din Huma’i (1977), *Du risala dar falsafa-yi islami*, Tehran: Imperial Iranian Academy of Philosophy.
-* Max Horten (1912), *Die Gottesbeweise bei Schirazi*, Bonn: K.J. Trübner.
-* ––– (1913), *Das* *philosophische System von Schirazi*, Strassburg: K.J. Trübner. (These two works by the famous German orientalist were the first European attempts to make sense of Mulla Sadra and were based on his main works. However, the translations are inaccurate and the interpretations based on faulty understandings of the philosophical tradition.)
-* Zaynab Ibrahim (2004), *al-Haraka al-jawhariyya wa-mafhum al-tasawwur wa-l-tasdiq ‘inda Sadr al-Din Shirazi*, Beirut: Dar al-Hadi. (A study of the concept of substantial motion.)
-* Mansur Imanpur (1997–98), “Harakat-i jawhari wa ma wara’-yi tabi‘at,” *Khirad-nama-yi Sadra*, 8–9: 70–80; 10: 47–52.
-* S. M. Intizam (1998–99), “Ibtikarat-i falsafi-yi Sadr al-Muta’allihin,” *Khirad-nama-yi Sadra*, 11: 56–62; 12: 78–86; 14: 58–63; 16: 51–55.
-* Christian Jambet (1997), “L’âme humaine d’Aristote à Mulla Sadra Shirazi,” *Studia Iranica*, 26: 211–36.
-* ––– (2002, 2006), *L’acte d’être*, Paris: Fayard; tr. Jeff Fort as *The Act of Being*, New York: Zone Books. (A Corbinian interpretation of the eschatological ends of Mulla Sadra’s ontology.)
-* ––– (2008), *Mort et résurrection en islam. L’au-delà selon Mullâ Sadrâ*, Paris: Albin Michel.
-* ––– (2016), *Le gouvernement divin: Islam et la conception politique du monde*, Paris: CNRS. (A study of Mulla Sadra’s political theology and how it relates to his ontology.)
-* Ibrahim Kalin (2002), *Knowledge as Appropriation: Sadr al-Din al-Shirazi (Mulla Sadra) on the Unification of the Intellect and the Intelligible*, Ph.D. dissertation, George Washington University.
-* Ibrahim Kalin (2004), “Mulla Sadra’s realist ontology and the concept of knowledge”, *Muslim World*, 94: 81–106.
-* ––– (2007), “Mulla Sadra on theodicy and the best of all possible worlds”, *Journal of Islamic Studies*, 18: 183–201.
-* Muhammad Husayn Khalili (2003), *Mabani-yi falsafi-ye ‘ishq: az manzar-i Ibn Sina va Mulla Sadra*, Qom. (A study on the philosophy of love, tracing its history from Avicenna to Mulla Sadra.)
-* Mahmoud Khatami (2004), *From a Sadrean Point of View: Toward an Ontetic Elimination of the Subjectivistic Self*, London: Salman-Azadeh Publications.
-* Eiyad al-Kutubi (2015), *Mulla Sadra and Eschatology: Evolution of Being*, London: Routledge. (The best study of Mulla Sadra’s eschatology and noetics as a critique of Avicenna.)
-* Kamal Lazziq (2014), *Maratib al-ma‘rifa wa-haram al-wujud ‘inda Mulla Sadra*, Beirut: Markaz al-hadara li-tanmiyat al-fikr al-islami. (A comparative study of the structure of being in MS, Descartes, Berkeley, and Kant.)
-* SIPRIn (2001), *Majmu‘a-yi maqalat-i hamayish-i jahani-i Mulla Sadra*, 5 vols., Tehran: SIPRIn. (The proceedings of the 1999 World Congress on Mulla Sadra held in Tehran.)
-* A. Ma‘sumi (1961), “Sadr al-Din Shirazi: Hayatuhu wa ma’thuruhu,” *Indo-Iranica* [Calcutta], 14: 27–42.
-* Mokda Arfa Mensia (2014) (ed), *Ibn Sina and Mulla Sadra Shirazi*, Carthage: Tunisian Academy of Sciences, Arts, and Letters. (A collection of Arabic, French and English articles on the two philosophers.)
-* Barry Miller (1996), *A Most Unlikely God*, Notre Dame: Notre Dame University Press.
-* A. Mishkat-al-Dini (1976), *Nazari ba falsafa-yi Sadr al-Din Shirazi*, Tehran: Intisharat-i bunyad-i farhangi-yi Iran.
-* Zailan Moris (2003), *Revelation, Intellectual Intuition and Reason in the Philosophy of Mulla Sadra. An Analysis of the al-Hikmah al-‘arshiyyah*, New York & London: Routledge.
-* J. W. Morris (1981), *The Wisdom of the Throne. An Introduction to the Philosophy of Mulla Sadra*, Princeton: Princeton University Press. (A translation and study of *al-Hikma al-‘arshiyya*.)
-* M. Musawi (1978), *al-Jadid fi falsafat Sadr al-Din al-Shirazi*, Baghdad: al-Dar al-‘arabiyya li-l-tiba‘a.
-* Yujin Nagasawa (2017), *Maximal God: A New Defence of Perfect Being Theism*, Oxford: Oxford University Press.
-* S. H. Nasr, ed. (1960), *Mulla Sadra Commemoration Volume*, Tehran: Tehran University Press.
-* ––– (1972), “Mulla Sadra and the Doctrine of the Unity of Being,” *Philosophical Forum*, 4: 153–61.
-* Murtaza Puyan (2009), *Ma‘ad-i jismani dar hikmat-i muta‘aliya*, Qum: Bustan-i kitab. (A detailed defence of Mulla Sadra’s eschatology.)
-* Sa‘id Rahimian (1996–98), “Maqayisa-yi tatbiqi-yi barkhi-i nizamha-yi sinavi, rushdi va sadra’i,” *Khirad-nama-yi Sadra*, 3: 73–81; 4: 52–59; 5–6 and 7: 54–60; 8–9 and 9: 41–49; 10: 53–62; 13: 11–19. (A useful series of articles in Persian comparing the metaphysics of Avicenna, Averroes and Mulla Sadra.)
-* ‘Ali-Riza Rahimian (2006), *Mas’ala-yi ‘ilm: tahlil-i ‘ilm dar falsafa-yi Sadra’i va maktab ma‘arif-i ahl bayt*, Tehran: Munir. (A critique of Mulla Sadra’s epistemology.)
-* Fazlur Rahman (1975), *The Philosophy of Mulla Sadra*, Albany: SUNY Press.
-* ‘Abd al-Majid Rida (2003), *Hiwar al-falasifa: asalat al-wujud wa-l-mahiya bayna Mulla Sadra wa-l-falsafa al-ishraqiyya*, Beirut: al-Dar al-Islamiyya.
-* Sajjad Rizvi (2005), “Philosophy and Mysticism: Ibn ‘Arabi and Mulla Sadra,” in P. Adamson and R. Taylor (eds.), *The Cambridge Companion to Arabic Philosophy*, Cambridge: Cambridge University Press, 2005, 224–46.
-* ––– (2009), *Mulla Sadra and Metaphysics: The Modulation of Being*, London: Routledge.
-* Mohammed Rustom (2012), *The Triumph of Mercy: Philosophy and Scripture in Mulla Sadra*, Albany: State University of New York Press. (An attempt of make sense of Mulla Sadra’s exegesis as philosophy.)
-* Muhammad Amin Sadiqi-Arzagani (2009), *Natayij-i kalami-yi hikmat-i Sadra’i*, Qum: Bustan-i kitab. (An important study of the theological implications of Mulla Sadra’s ontology.)
-* S. G. Safavi (2002) (ed), *Perception according to Mulla Sadra*, London: Salman-Azadeh Publications.
-* Ja‘far Sajjadi (1981), *Mustalahat-i falsafi-yi Sadr al-Din Shirazi*, Tehran: Tehran University Press.
-* Habib Allah Shahraki (2008), *‘Aql az nazar-i qur’an va hikmat-i muta‘aliya*, Qum: Bustan-i Kitab. (A scripturalist critique of Mulla Sadra’s concept of the intellect.)
-* ‘Abd-Allah Shakiba (1996), “Shinakht az didgah-i Sadr al-Muta’allihin,” *Khirad-nama-yi Sadra*, 3: 61–67; 4: 40–46.
-* Jeff Speaks (2018), *The Greatest Possible Being*, Oxford: Oxford University Press.
-* ‘Abd al-Karim Surush (1978), *Nihad-i na-aram-i jahan*, Tehran: Intisharat-i Qalam. (A pioneering study of Mulla Sadra’s concept of substantial motion by a philosopher of science and prominent dissident Iranian intellectual.)
-* –––, ed. (1981), *Yadvara-yi Mulla Sadra*, Tehran: Nahzat-i zanan-i musulman.
-* Akbar Subut (2002), *Filsuf-i Shiraz dar Hind*, Tehran: Intisharat-i Hermes.
-* ‘Abd al-Rasul ‘Ubudiyyat (2006), *Dar amadi bih nizam-i hikmat-i Sadra’i*, 3 vols., Qum: Imam Khomeini Research Institute. (A useful survey of the metaphysics of Mulla Sadra.)
-* Mashkur Husayn Yad (1998), *Mulla Sadra ka qabil-i ‘amal falsafa*, Lahore: al-Razzaq Publishers.
-* Khizar Yasin (2017), *Mulla Sadra ka tasavvur-i wujud*, Lahore: Kitab mahal. (A largely unsuccessful attempt at a critique of Mulla Sadra.)
-* Yahya Yasribi (2008), *‘Ayyar-i naqd*, Qum: Bustan-i Kitab.
-* ‘Ali-Asghar Zakavi (2005), *Basit al-haqiqa az didgah-i Mulla Sadra va monadology-i Leibniz*, Qum: Bustan-i Kitab.
-* Husayn Zia’i (1993), “Sadr al-Din Shirazi va bayan-i falsafi-i Hikmat-i muta‘alia,” *Iranshenasi*, 5: 353–64.
+* M. ‘Abd al-Haq (1970), “The Psychology of Mulla Sadra,” _Islamic Studies (Islamabad)_, 9: 173–81.
+* M. ‘Abd al-Haq (1972), “Mulla Sadra’s Concept of Substantial Motion,” _Islamic Studies_, 11: 79–91.
+* ‘Abd al-Malik Ben‘athu (2016), _Nazariyyat al-fi‘l ‘inda Sadr al-Din al-Shirazi_, Freiburg: Manshurat al-Jamal. (A study of Mulla Sadra’s theory of motion in the category of substance.)
+* Biyuk ‘Alizada (1998), “Mahiyyat-i maktab-i falsafi-yi Mulla Sadra,” _Khirad-nama-yi Sadra_ (Tehran), 10: 90–101.
+* Alparslan Açikgenç (1993), _Being and Existence in Sadra and Heidegger_, Kuala Lumpur: ISTAC.
+* S.K. Toussi-Alaghebandi (2007), _Ethics and Politics in the Philosophy of Mulla Sadra_, Ph.D. dissertation, University of Exeter.
+* S. H. Amin (1986), _Afkar-i falsafi-yi Mulla Sadra_, Exeter: Intisharat-i guruh-i pazhuhishi.
+* Hasanzada Amuli (1995), _al-Nur al-mutajalli fi zuhur al-zilli_, Tehran: Maktabat al-i‘lam al-islami. (A short study of the problem of mental existence in Mulla Sadra.)
+* Muhammad Fana’i Ashkivari (2008), _Ma‘qul thani: tahlili az anva‘-i mafahim-i kulli dar falsafa-yi islami va gharbi_, Qum: Imam Khomeini Institute. (A comparative philosophical study of universal concepts.)
+* Jalal-al-Din Ashtiyani (1980), _Hasti az nazar-i falsafa va ‘irfan_, Tehran: Intisharat-i nahzat-i zanan. (A study of Mulla Sadra’s ontology and its debt to mysticism.)
+* Jalal al-Din Ashtiyani (1981), _Ma‘ad-i jismani: Sharh-i Zad al-musafir-i Mulla Sadra_, Tehran: Intisharat-i Amir Kabir. (On the afterlife according to Mulla Sadra.)
+* Jalal al-Din Ashtiyani (1972) (ed), _Muntakhabati az athar-i hukama’-yi ilahi-yi Iran az ‘asr-i Mir Damad va Mir Findiriski ta zaman-i hazir. Qismat-i avval_, Tehran: L’Institut Franco-Iranien, I: 123–234.
+* Cécile Bonmariage (2007), _Le Réel et les réalités: Mollâ Sadrâ Shîrâzî et la structure de la réalité_, Paris: Vrin.
+* Henry Corbin (1962), “La place de Mollâ Sadrâ Shîrâzî dans la philosophie iranienne,” _Studia Islamica_, 18: 81–113.
+* Henry Corbin (1971–73), _En Islam iranien_, 4 vols., Paris: Gallimard, IV: 54–122.
+* Daniel De Smet (1999), “Le souffle de miséricordieux (_Nafas al-rahman_): un élément pseudo-empédocléen dans la métaphysique de Mulla Sadra ash-Shirazi,” _Documenti studi sulla tradizione filosofica medievale_, 10: 467–86.
+* Janis Esots (2007), _Mulla Sadra’s Teaching on wujud: A Synthesis of Mysticism and Philosophy_, Ph.D. dissertation, University of Tallinn.
+* Ghulam-Riza Fayyazi (2009), _Hasti u chisti dar maktab-i Mulla Sadra_, Qum: Pazhuhishgah-i hamza u danishgah. (A serious study of Mulla Sadra’s ontology by a leading teacher in the seminary in Qum.)
+* Rafael Ramón Guerrero (2001), “El lenguaje del ser: de Ibn Sina a Mulla Sadra,” _Convivium_, 14: 113–27.
+* Pierre Hadot (1995), _Philosophy as a Way of Life_, Oxford: Blackwell.
+* Mahdi Ha’iri Yazdi (1981), _Haram-i hasti_, Tehran: Institute of Cultural Studies and Research. (An important work that makes sense of Mulla Sadra’s metaphysics from the perspective of a traditional seminarian philosopher trained in analytical philosophy.)
+* ––– (1993), “Dar-amadi bar Kitab al-asfar,” _Iranshenasi_, 4: 707–12.
+* Trad Hamade (1992), _Dieu, le monde et l’âme chez Molla Sadra_, Ph.D. dissertation, Université de Paris I-Panthéon-Sorbonne.
+* H. Hamid (1995), “Para-yi ‘anasir-i Anaksimandres \[Anaximander] dar nazariyya-yi vujud-i Mulla Sadra,” _Iranshenasi_, 6: 817–32.
+* Jalal-al-Din Huma’i (1977), _Du risala dar falsafa-yi islami_, Tehran: Imperial Iranian Academy of Philosophy.
+* Max Horten (1912), _Die Gottesbeweise bei Schirazi_, Bonn: K.J. Trübner.
+* ––– (1913), _Das_ _philosophische System von Schirazi_, Strassburg: K.J. Trübner. (These two works by the famous German orientalist were the first European attempts to make sense of Mulla Sadra and were based on his main works. However, the translations are inaccurate and the interpretations based on faulty understandings of the philosophical tradition.)
+* Zaynab Ibrahim (2004), _al-Haraka al-jawhariyya wa-mafhum al-tasawwur wa-l-tasdiq ‘inda Sadr al-Din Shirazi_, Beirut: Dar al-Hadi. (A study of the concept of substantial motion.)
+* Mansur Imanpur (1997–98), “Harakat-i jawhari wa ma wara’-yi tabi‘at,” _Khirad-nama-yi Sadra_, 8–9: 70–80; 10: 47–52.
+* S. M. Intizam (1998–99), “Ibtikarat-i falsafi-yi Sadr al-Muta’allihin,” _Khirad-nama-yi Sadra_, 11: 56–62; 12: 78–86; 14: 58–63; 16: 51–55.
+* Christian Jambet (1997), “L’âme humaine d’Aristote à Mulla Sadra Shirazi,” _Studia Iranica_, 26: 211–36.
+* ––– (2002, 2006), _L’acte d’être_, Paris: Fayard; tr. Jeff Fort as _The Act of Being_, New York: Zone Books. (A Corbinian interpretation of the eschatological ends of Mulla Sadra’s ontology.)
+* ––– (2008), _Mort et résurrection en islam. L’au-delà selon Mullâ Sadrâ_, Paris: Albin Michel.
+* ––– (2016), _Le gouvernement divin: Islam et la conception politique du monde_, Paris: CNRS. (A study of Mulla Sadra’s political theology and how it relates to his ontology.)
+* Ibrahim Kalin (2002), _Knowledge as Appropriation: Sadr al-Din al-Shirazi (Mulla Sadra) on the Unification of the Intellect and the Intelligible_, Ph.D. dissertation, George Washington University.
+* Ibrahim Kalin (2004), “Mulla Sadra’s realist ontology and the concept of knowledge”, _Muslim World_, 94: 81–106.
+* ––– (2007), “Mulla Sadra on theodicy and the best of all possible worlds”, _Journal of Islamic Studies_, 18: 183–201.
+* Muhammad Husayn Khalili (2003), _Mabani-yi falsafi-ye ‘ishq: az manzar-i Ibn Sina va Mulla Sadra_, Qom. (A study on the philosophy of love, tracing its history from Avicenna to Mulla Sadra.)
+* Mahmoud Khatami (2004), _From a Sadrean Point of View: Toward an Ontetic Elimination of the Subjectivistic Self_, London: Salman-Azadeh Publications.
+* Eiyad al-Kutubi (2015), _Mulla Sadra and Eschatology: Evolution of Being_, London: Routledge. (The best study of Mulla Sadra’s eschatology and noetics as a critique of Avicenna.)
+* Kamal Lazziq (2014), _Maratib al-ma‘rifa wa-haram al-wujud ‘inda Mulla Sadra_, Beirut: Markaz al-hadara li-tanmiyat al-fikr al-islami. (A comparative study of the structure of being in MS, Descartes, Berkeley, and Kant.)
+* SIPRIn (2001), _Majmu‘a-yi maqalat-i hamayish-i jahani-i Mulla Sadra_, 5 vols., Tehran: SIPRIn. (The proceedings of the 1999 World Congress on Mulla Sadra held in Tehran.)
+* A. Ma‘sumi (1961), “Sadr al-Din Shirazi: Hayatuhu wa ma’thuruhu,” _Indo-Iranica_ \[Calcutta], 14: 27–42.
+* Mokda Arfa Mensia (2014) (ed), _Ibn Sina and Mulla Sadra Shirazi_, Carthage: Tunisian Academy of Sciences, Arts, and Letters. (A collection of Arabic, French and English articles on the two philosophers.)
+* Barry Miller (1996), _A Most Unlikely God_, Notre Dame: Notre Dame University Press.
+* A. Mishkat-al-Dini (1976), _Nazari ba falsafa-yi Sadr al-Din Shirazi_, Tehran: Intisharat-i bunyad-i farhangi-yi Iran.
+* Zailan Moris (2003), _Revelation, Intellectual Intuition and Reason in the Philosophy of Mulla Sadra. An Analysis of the al-Hikmah al-‘arshiyyah_, New York & London: Routledge.
+* J. W. Morris (1981), _The Wisdom of the Throne. An Introduction to the Philosophy of Mulla Sadra_, Princeton: Princeton University Press. (A translation and study of _al-Hikma al-‘arshiyya_.)
+* M. Musawi (1978), _al-Jadid fi falsafat Sadr al-Din al-Shirazi_, Baghdad: al-Dar al-‘arabiyya li-l-tiba‘a.
+* Yujin Nagasawa (2017), _Maximal God: A New Defence of Perfect Being Theism_, Oxford: Oxford University Press.
+* S. H. Nasr, ed. (1960), _Mulla Sadra Commemoration Volume_, Tehran: Tehran University Press.
+* ––– (1972), “Mulla Sadra and the Doctrine of the Unity of Being,” _Philosophical Forum_, 4: 153–61.
+* Murtaza Puyan (2009), _Ma‘ad-i jismani dar hikmat-i muta‘aliya_, Qum: Bustan-i kitab. (A detailed defence of Mulla Sadra’s eschatology.)
+* Sa‘id Rahimian (1996–98), “Maqayisa-yi tatbiqi-yi barkhi-i nizamha-yi sinavi, rushdi va sadra’i,” _Khirad-nama-yi Sadra_, 3: 73–81; 4: 52–59; 5–6 and 7: 54–60; 8–9 and 9: 41–49; 10: 53–62; 13: 11–19. (A useful series of articles in Persian comparing the metaphysics of Avicenna, Averroes and Mulla Sadra.)
+* ‘Ali-Riza Rahimian (2006), _Mas’ala-yi ‘ilm: tahlil-i ‘ilm dar falsafa-yi Sadra’i va maktab ma‘arif-i ahl bayt_, Tehran: Munir. (A critique of Mulla Sadra’s epistemology.)
+* Fazlur Rahman (1975), _The Philosophy of Mulla Sadra_, Albany: SUNY Press.
+* ‘Abd al-Majid Rida (2003), _Hiwar al-falasifa: asalat al-wujud wa-l-mahiya bayna Mulla Sadra wa-l-falsafa al-ishraqiyya_, Beirut: al-Dar al-Islamiyya.
+* Sajjad Rizvi (2005), “Philosophy and Mysticism: Ibn ‘Arabi and Mulla Sadra,” in P. Adamson and R. Taylor (eds.), _The Cambridge Companion to Arabic Philosophy_, Cambridge: Cambridge University Press, 2005, 224–46.
+* ––– (2009), _Mulla Sadra and Metaphysics: The Modulation of Being_, London: Routledge.
+* Mohammed Rustom (2012), _The Triumph of Mercy: Philosophy and Scripture in Mulla Sadra_, Albany: State University of New York Press. (An attempt of make sense of Mulla Sadra’s exegesis as philosophy.)
+* Muhammad Amin Sadiqi-Arzagani (2009), _Natayij-i kalami-yi hikmat-i Sadra’i_, Qum: Bustan-i kitab. (An important study of the theological implications of Mulla Sadra’s ontology.)
+* S. G. Safavi (2002) (ed), _Perception according to Mulla Sadra_, London: Salman-Azadeh Publications.
+* Ja‘far Sajjadi (1981), _Mustalahat-i falsafi-yi Sadr al-Din Shirazi_, Tehran: Tehran University Press.
+* Habib Allah Shahraki (2008), _‘Aql az nazar-i qur’an va hikmat-i muta‘aliya_, Qum: Bustan-i Kitab. (A scripturalist critique of Mulla Sadra’s concept of the intellect.)
+* ‘Abd-Allah Shakiba (1996), “Shinakht az didgah-i Sadr al-Muta’allihin,” _Khirad-nama-yi Sadra_, 3: 61–67; 4: 40–46.
+* Jeff Speaks (2018), _The Greatest Possible Being_, Oxford: Oxford University Press.
+* ‘Abd al-Karim Surush (1978), _Nihad-i na-aram-i jahan_, Tehran: Intisharat-i Qalam. (A pioneering study of Mulla Sadra’s concept of substantial motion by a philosopher of science and prominent dissident Iranian intellectual.)
+* –––, ed. (1981), _Yadvara-yi Mulla Sadra_, Tehran: Nahzat-i zanan-i musulman.
+* Akbar Subut (2002), _Filsuf-i Shiraz dar Hind_, Tehran: Intisharat-i Hermes.
+* ‘Abd al-Rasul ‘Ubudiyyat (2006), _Dar amadi bih nizam-i hikmat-i Sadra’i_, 3 vols., Qum: Imam Khomeini Research Institute. (A useful survey of the metaphysics of Mulla Sadra.)
+* Mashkur Husayn Yad (1998), _Mulla Sadra ka qabil-i ‘amal falsafa_, Lahore: al-Razzaq Publishers.
+* Khizar Yasin (2017), _Mulla Sadra ka tasavvur-i wujud_, Lahore: Kitab mahal. (A largely unsuccessful attempt at a critique of Mulla Sadra.)
+* Yahya Yasribi (2008), _‘Ayyar-i naqd_, Qum: Bustan-i Kitab.
+* ‘Ali-Asghar Zakavi (2005), _Basit al-haqiqa az didgah-i Mulla Sadra va monadology-i Leibniz_, Qum: Bustan-i Kitab.
+* Husayn Zia’i (1993), “Sadr al-Din Shirazi va bayan-i falsafi-i Hikmat-i muta‘alia,” _Iranshenasi_, 5: 353–64.
 
 ### E. Other References
 
-* Avicenna (1959), *Tabi‘iyyat al-Shifa’: Fi-l-nafs* [De Anima], F. Rahman (ed.), Durham: Oxford University Press.
-* ––– (1973), *al-Ta‘liqat*, ‘A. Badawi (ed.), Cairo: GEBO.
-* ––– (1996), *al-Isharat wa-l-tanbihat ma‘ sharhay al-Tusi wa-l-Razi*, M. Shihabi (ed.), 3 vols., Qum: Nashr al-Balagha.
-* Suhrawardi (1998), *Hikmat al-Ishraq/The Philosophy of Illumination*, H. Ziai & J. Walbridge (eds./trs.), Provo: Brigham Young University Press.
+* Avicenna (1959), _Tabi‘iyyat al-Shifa’: Fi-l-nafs_ \[De Anima], F. Rahman (ed.), Durham: Oxford University Press.
+* ––– (1973), _al-Ta‘liqat_, ‘A. Badawi (ed.), Cairo: GEBO.
+* ––– (1996), _al-Isharat wa-l-tanbihat ma‘ sharhay al-Tusi wa-l-Razi_, M. Shihabi (ed.), 3 vols., Qum: Nashr al-Balagha.
+* Suhrawardi (1998), _Hikmat al-Ishraq/The Philosophy of Illumination_, H. Ziai & J. Walbridge (eds./trs.), Provo: Brigham Young University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mulla-sadra). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mulla-sadra/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mulla-sadra&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/mulla-sadra/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mulla-sadra).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mulla-sadra/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mulla-sadra\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/mulla-sadra/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
@@ -512,7 +506,7 @@ There are a few other critical editions:
 
 ## Related Entries
 
-[Ibn ‘Arabî](https://plato.stanford.edu/entries/ibn-arabi/) | [Ibn Sina [Avicenna]](https://plato.stanford.edu/entries/ibn-sina/) | [Suhrawardi](https://plato.stanford.edu/entries/suhrawardi/)
+[Ibn ‘Arabî](https://plato.stanford.edu/entries/ibn-arabi/) | [Ibn Sina \[Avicenna\]](https://plato.stanford.edu/entries/ibn-sina/) | [Suhrawardi](https://plato.stanford.edu/entries/suhrawardi/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Sajjad Rizvi](https://socialsciences.exeter.ac.uk/iais/staff/rizvi/) <[*s.h.rizvi@exeter.ac.uk*](mailto:s%2eh%2erizvi%40exeter%2eac%2euk)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Sajjad Rizvi](https://socialsciences.exeter.ac.uk/iais/staff/rizvi/) <[_s.h.rizvi@exeter.ac.uk_](mailto:s%2eh%2erizvi%40exeter%2eac%2euk)>

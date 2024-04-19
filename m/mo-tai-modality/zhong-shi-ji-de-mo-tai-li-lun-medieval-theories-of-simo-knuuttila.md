@@ -1,6 +1,6 @@
 # 中世纪的模态理论 medieval theories of (Simo Knuuttila)
 
-*首次发表于1999年6月30日，实质性修订于2021年4月15日。*
+_首次发表于1999年6月30日，实质性修订于2021年4月15日。_
 
 古代哲学中有四种历史性的模态范式：模态的频率解释、可能性作为潜力的模型、关于某一时刻的先前必然性和可能性的模型（历时模态），以及可能性作为非矛盾性的模型。这些思维习惯中没有一个是基于模态涉及同时存在的替代选择的观念，这些思维习惯在早期中世纪时期通过博伊修斯的著作而广为人知。这种新的范式是在 12 世纪初受到奥古斯丁神学观念的影响，即上帝通过在替代历史之间选择来行动。
 
@@ -12,15 +12,14 @@
 * [2. 早期中世纪的发展](https://plato.stanford.edu/entries/modality-medieval/#EarMedDev)
 * [3. 十三世纪逻辑论文中的模态](https://plato.stanford.edu/entries/modality-medieval/#ModThiCenLogTre)
 * [4. 十四世纪讨论](https://plato.stanford.edu/entries/modality-medieval/#FouCenDis)
-* [ 参考文献](https://plato.stanford.edu/entries/modality-medieval/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/modality-medieval/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/modality-medieval/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/modality-medieval/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/modality-medieval/#Bib)
+  * [主要来源](https://plato.stanford.edu/entries/modality-medieval/#PriSou)
+  * [次要来源](https://plato.stanford.edu/entries/modality-medieval/#SecSou)
+* [学术工具](https://plato.stanford.edu/entries/modality-medieval/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/modality-medieval/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/modality-medieval/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/modality-medieval/#Rel)
 
----
+***
 
 ## 1. 古代模态范式的方面
 
@@ -56,7 +55,7 @@
 
 (1)
 
-M(*p**t* & ¬ *p**t*)
+M(_p\*\*t_ & ¬ _p\*\*t_)
 
 (1′)
 
@@ -66,7 +65,7 @@ M(*p**t* & ¬ *p**t*)
 
 (2)
 
-*p**t* & M*t* ¬*p**t*
+_p\*\*t_ & M_t_ ¬_p\*\*t_
 
 (2′)
 
@@ -76,7 +75,7 @@ p 在 t 时获得，并且在 t 时有可能不-p 在 t 获得。
 
 (3)
 
-*p**t* →  L*tp**t*
+_p\*\*t_ → L_tp\*\*t_
 
 (3′)
 
@@ -100,7 +99,7 @@ p 在 t 时获得，并且在 t 时有可能不-p 在 t 获得。
 
 ![square](https://plato.stanford.edu/entries/modality-medieval/square.png)
 
- 图 1.
+图 1.
 
 正方形可以被理解为模态的 de dicto 或 de re 的单数模态（见下文）。阿贝拉尔试图定义量化的 de re 模态之间的对立关系，错误地认为这些与单数模态命题之间的关系相同（《Glossae super Perihermeneias XII, 468–471, 530–544》）。在十四世纪模态语义学中，这个问题在得到令人满意的解决之前并没有得到广泛讨论（参见 Hughes 1989 以及他对布里丹的模态对立和等价八边形的描述）。在图中，possibile 和 contingens 被视为同义词，但后来更常将前者与单边可能性（非不可能）联系在一起，将后者与双边可能性（既非必然也非不可能）联系在一起。
 
@@ -116,7 +115,7 @@ p 在 t 时获得，并且在 t 时有可能不-p 在 t 获得。
 
 数量/主题/由否定模态化的系词/谓词（例如：一些 A 不一定是 B）
 
- 或者
+或者
 
 (6)
 
@@ -188,174 +187,174 @@ p 在 t 时获得，并且在 t 时有可能不-p 在 t 获得。
 
 ### Primary sources
 
-* Albert the Great, *Commentarium in Librum I Priorum Analyticorum*, in *Opera omnia*, ed. A. Borgnet, vol. I, Paris: Vivès, 1890.
-* Alexander of Aphrodisias, *In Aristotelis Analyticorum priorum librum I commentarium*, ed. M. Wallies, Commentaria in Aristotelem Graeca 2.1, Berlin, 1883.
-* –––, *On Fate*, text, translation and commentary by R. W. Sharples, London: Duckworth, 1983.
-* Ammonius, *In Aristotelis De interpretatione commentarius*, ed. A. Busse, Commentaria in Aristotelem Graeca 4.5, Berlin, 1897.
-* –––, *On Aristotle: On Interpretation 9*, trans. D. Blank, with Boethius, *On Aristotle: On Interpretation 9*, first and second Commentaries, trans. N. Kretzmann, with Essays by R. Sorabji, N. Kretzmann and M. Mignucci, London: Duckworth, 1998.  
-* Anonymus Aurelianensis III, *In Aristotelis* Analytica priora. Critical edition, Introduction, Notes, and Indices by C. Thomsen Thörnqvist, Studien und Texte zur Geistesgeschiche des Mittelalters 115, Leiden: Brill 2015.
-* Anselm of Canterbury, *Opera omnia*, 6 vols., ed. F. S. Schmitt, Edinburgh: Nelson, 1946–1961.
-* Averroes, *Aristotelis Opera cum Averrois commentariis*, vol. I.2b, Venice 1562, reprinted, Frankfurt am Main: Minerva, 1962.
-* Boethius, *Commentarii in librum Aristotelis* Perihermeneias *I-II*, ed. C. Meiser, Leipzig: Teubner, 1877–80.
-* De Rijk, L. M. (1962–67), *Logica Modernorum. A Contribution to the History of Early Terminist Logic I: On Twelfth Century Theories of Fallacy, II.1–2: The Origin and Early Development of the Theory of Supposition*, Wijsgerige teksten en studies 6, 16, Assen: van Gorcum, 1962, 1967.
-* Garland the Computist, *Dialectica*, ed. L.M. de Rijk, Assen: van Gorcum, 1959.
-* Gersonides, *The Book of Correct Syllogism* in *The Logic of Gersonides. A Translation of* Sefer ha-Heqqesh ha-Yashar, with an introduction, commentary, and analytical glossary by C. H. Manekin, The New Synthese Historical Library 40, Dordrecht: Kluwer, 1992.
-* Gilbert of Poitiers, *The Commentaries on Boethius*, ed. N. M. Häring, Toronto: Pontifical Institute of Mediaeval Studies, 1966.
-* John Buridan, *Quaestiones super libros* De generatione et corruptione *Aristotelis*. A critical edition with an introduction by M. Sreijger, P. Bakker and J. Thijssen. History of Science and Medicine Library 17, Leiden: Brill. 2010.
-* –––, *Summulae de Dialectica*, an annotated translation with a philosophical introduction by G. Klima, New Haven: Yale University Press, 2001.
-* –––, *Tractatus de consequentiis*, ed. H. Hubien, Louvain: Publications Universitaires, 1976, translated with an introduction by S. Read in John Buridan, *Treatise on Consequences*, New York: Fordham University Press, 2015.
-* John Duns Scotus, *Opera omnia*, studio et cura Commissionis Scotisticae, Vatican City: Vatican Press, 1950–.
-* –––, *Abhandlung über das erste Prinzip*, edited and translated by W. Kluxen, Darmstadt: Wissenschaftliche Buchgesellschaft, 1974; English translation by A.B. Wolter in John Duns Scotus, *A Treatise on God as First Principle*, Chicago: Franciscan Herald Press, 1966.
-* John of Jandun, *Quaestiones in duodecim libros Metaphysicae*, Venice, 1554.
-* –––, *In libros Aristotelis De caelo et mundo quae extant quaestiones*, Venice, 1552.
-* Peter Abelard, *Dialectica*, ed. L. M. de Rijk, Wijsgerige teksten en studies 1, Assen: van Gorcum, 1956.
-* –––, *Glossae super Perihermeneias*, ed. K. Jacobi and C. Strub, Corpus Christianorum Continuatio Mediaevalis 206, Turnhout: Brebols, 2010.
-* Peter Damian, *De divina omnipotentia*, Sources chrétiennes 191, ed. A. Cantin, Paris: Cerf, 1972.
-* Peter of Poitiers, *Sententiae I*, ed. P. S. Moore and M. Dulong, Publications in Medieval Studies 7, Notre Dame: The University of Notre Dame Press, 1961.
-* Peter of Spain, *Tractatus*, ed. L.M. de Rijk, Assen: van Gorcum, 1972.
-* Philoponus, *In Aristotelis Analytica priora commentaria*, ed. M. Wallies, Commentaria in Aristotelem Graeca 13.2, Berlin, 1905.
-* Radulphus Brito, *Quaestiones super Priora analytica Aristotelis*, ed. G.A. Wilson, Leuven: Leuven University Press, 2016.
-* Richard of Campsall, *Quaestiones super librum Priorum Analyticorum* in *The Works of Richard Campsall*, vol. I, ed. E. A. Synan, Toronto: Pontifical Institute of Medieval Studies, 1968.
-* Robert Grosseteste, *De libero arbitrio* in *Die philosophischen Werke des Robert Grosseteste*, ed. L. Baur, Beiträge zur Geschichte der Philosophie des Mittelalters 9, Münster: Aschendorff, 1912; N. Lewis, ‘The First Recension of Robert Grosseteste’s *De libero arbitrio*, *Mediaeval Studies* 53 (1991), 1–88.
-* Robert Kilwardby, *In libros Priorum Analyticorum expositio*, Venice 1516 (under the name Aegidius Romanus), reprint Frankfurt am Main: Minerva, 1968; modern edition by P. Thom and J. Scott, *Notule libri Priorum*, two volumes, Auctores Britannici Medii Aevi 23, Oxford: Oxford University Press for the British Academy, 2015.
-* Thomas Aquinas, *In Aristotelis Peri hermeneias expositio*, ed. R.M. Spiazzi, Turin: Marietti, 1964; trans. by J. T. Oesterle, Milwaukee: Marquette University Press, 1962.  
-* William of Ockham, *Summa logicae*, ed. Ph. Boehner, G. Gál, S. Brown, Guillelmi de Ockham Opera philosophica I, St. Bonaventure: Franciscan Institute of St. Bonaventure University, 1974.
-* William of Sherwood, *Introduction to Logic*, trans. with an introduction and notes by N. Kretzmann, Minneapolis: University of Minnesota Press, 1966.
+* Albert the Great, _Commentarium in Librum I Priorum Analyticorum_, in _Opera omnia_, ed. A. Borgnet, vol. I, Paris: Vivès, 1890.
+* Alexander of Aphrodisias, _In Aristotelis Analyticorum priorum librum I commentarium_, ed. M. Wallies, Commentaria in Aristotelem Graeca 2.1, Berlin, 1883.
+* –––, _On Fate_, text, translation and commentary by R. W. Sharples, London: Duckworth, 1983.
+* Ammonius, _In Aristotelis De interpretatione commentarius_, ed. A. Busse, Commentaria in Aristotelem Graeca 4.5, Berlin, 1897.
+* –––, _On Aristotle: On Interpretation 9_, trans. D. Blank, with Boethius, _On Aristotle: On Interpretation 9_, first and second Commentaries, trans. N. Kretzmann, with Essays by R. Sorabji, N. Kretzmann and M. Mignucci, London: Duckworth, 1998. &#x20;
+* Anonymus Aurelianensis III, _In Aristotelis_ Analytica priora. Critical edition, Introduction, Notes, and Indices by C. Thomsen Thörnqvist, Studien und Texte zur Geistesgeschiche des Mittelalters 115, Leiden: Brill 2015.
+* Anselm of Canterbury, _Opera omnia_, 6 vols., ed. F. S. Schmitt, Edinburgh: Nelson, 1946–1961.
+* Averroes, _Aristotelis Opera cum Averrois commentariis_, vol. I.2b, Venice 1562, reprinted, Frankfurt am Main: Minerva, 1962.
+* Boethius, _Commentarii in librum Aristotelis_ Perihermeneias _I-II_, ed. C. Meiser, Leipzig: Teubner, 1877–80.
+* De Rijk, L. M. (1962–67), _Logica Modernorum. A Contribution to the History of Early Terminist Logic I: On Twelfth Century Theories of Fallacy, II.1–2: The Origin and Early Development of the Theory of Supposition_, Wijsgerige teksten en studies 6, 16, Assen: van Gorcum, 1962, 1967.
+* Garland the Computist, _Dialectica_, ed. L.M. de Rijk, Assen: van Gorcum, 1959.
+* Gersonides, _The Book of Correct Syllogism_ in _The Logic of Gersonides. A Translation of_ Sefer ha-Heqqesh ha-Yashar, with an introduction, commentary, and analytical glossary by C. H. Manekin, The New Synthese Historical Library 40, Dordrecht: Kluwer, 1992.
+* Gilbert of Poitiers, _The Commentaries on Boethius_, ed. N. M. Häring, Toronto: Pontifical Institute of Mediaeval Studies, 1966.
+* John Buridan, _Quaestiones super libros_ De generatione et corruptione _Aristotelis_. A critical edition with an introduction by M. Sreijger, P. Bakker and J. Thijssen. History of Science and Medicine Library 17, Leiden: Brill. 2010.
+* –––, _Summulae de Dialectica_, an annotated translation with a philosophical introduction by G. Klima, New Haven: Yale University Press, 2001.
+* –––, _Tractatus de consequentiis_, ed. H. Hubien, Louvain: Publications Universitaires, 1976, translated with an introduction by S. Read in John Buridan, _Treatise on Consequences_, New York: Fordham University Press, 2015.
+* John Duns Scotus, _Opera omnia_, studio et cura Commissionis Scotisticae, Vatican City: Vatican Press, 1950–.
+* –––, _Abhandlung über das erste Prinzip_, edited and translated by W. Kluxen, Darmstadt: Wissenschaftliche Buchgesellschaft, 1974; English translation by A.B. Wolter in John Duns Scotus, _A Treatise on God as First Principle_, Chicago: Franciscan Herald Press, 1966.
+* John of Jandun, _Quaestiones in duodecim libros Metaphysicae_, Venice, 1554.
+* –––, _In libros Aristotelis De caelo et mundo quae extant quaestiones_, Venice, 1552.
+* Peter Abelard, _Dialectica_, ed. L. M. de Rijk, Wijsgerige teksten en studies 1, Assen: van Gorcum, 1956.
+* –––, _Glossae super Perihermeneias_, ed. K. Jacobi and C. Strub, Corpus Christianorum Continuatio Mediaevalis 206, Turnhout: Brebols, 2010.
+* Peter Damian, _De divina omnipotentia_, Sources chrétiennes 191, ed. A. Cantin, Paris: Cerf, 1972.
+* Peter of Poitiers, _Sententiae I_, ed. P. S. Moore and M. Dulong, Publications in Medieval Studies 7, Notre Dame: The University of Notre Dame Press, 1961.
+* Peter of Spain, _Tractatus_, ed. L.M. de Rijk, Assen: van Gorcum, 1972.
+* Philoponus, _In Aristotelis Analytica priora commentaria_, ed. M. Wallies, Commentaria in Aristotelem Graeca 13.2, Berlin, 1905.
+* Radulphus Brito, _Quaestiones super Priora analytica Aristotelis_, ed. G.A. Wilson, Leuven: Leuven University Press, 2016.
+* Richard of Campsall, _Quaestiones super librum Priorum Analyticorum_ in _The Works of Richard Campsall_, vol. I, ed. E. A. Synan, Toronto: Pontifical Institute of Medieval Studies, 1968.
+* Robert Grosseteste, _De libero arbitrio_ in _Die philosophischen Werke des Robert Grosseteste_, ed. L. Baur, Beiträge zur Geschichte der Philosophie des Mittelalters 9, Münster: Aschendorff, 1912; N. Lewis, ‘The First Recension of Robert Grosseteste’s _De libero arbitrio_, _Mediaeval Studies_ 53 (1991), 1–88.
+* Robert Kilwardby, _In libros Priorum Analyticorum expositio_, Venice 1516 (under the name Aegidius Romanus), reprint Frankfurt am Main: Minerva, 1968; modern edition by P. Thom and J. Scott, _Notule libri Priorum_, two volumes, Auctores Britannici Medii Aevi 23, Oxford: Oxford University Press for the British Academy, 2015.
+* Thomas Aquinas, _In Aristotelis Peri hermeneias expositio_, ed. R.M. Spiazzi, Turin: Marietti, 1964; trans. by J. T. Oesterle, Milwaukee: Marquette University Press, 1962. &#x20;
+* William of Ockham, _Summa logicae_, ed. Ph. Boehner, G. Gál, S. Brown, Guillelmi de Ockham Opera philosophica I, St. Bonaventure: Franciscan Institute of St. Bonaventure University, 1974.
+* William of Sherwood, _Introduction to Logic_, trans. with an introduction and notes by N. Kretzmann, Minneapolis: University of Minnesota Press, 1966.
 
 ### Secondary sources
 
-* Alanen, L., 1990, ‘Descartes, Conceivability and Logical Modality’ in T. Horowitz and G. J. Massey (eds.), *Thought Experiments in Science and Philosophy*, Savage: Rowman & Littlefield, 65–84.
+* Alanen, L., 1990, ‘Descartes, Conceivability and Logical Modality’ in T. Horowitz and G. J. Massey (eds.), _Thought Experiments in Science and Philosophy_, Savage: Rowman & Littlefield, 65–84.
 * Bäck, A., 2001, ‘Avicenna and Averroes: Modality and Theology’ in Buchheim et al. (eds.), 125–145.
-* Becker, O., 1952, *Untersuchungen über den Modalkalkül*, Meisenheim am Glan: Anton Hain.
-* Belo, C., 2007, *Chance and Determinism in Avicenna and Averroes*, Leiden: Brill.
-* Binini, I., 2019, ‘Abelard’s Treatment of Logical Determinism in Its Twelfth-Century Context’, *Vivarium*, 58: 1–28.
-* Bobzien, S., 1993, ‘Chrysippus’s Modal Logic and Its Relation to Philo and Diodorus’ in K. Döring and T. Ebert (eds.), *Dialektiker und Stoiker*, Stuttgart: Franz Steiner, 63–84.
-* –––, 1998, *Determinism and Freedom in Stoic Philosophy*, Oxford: Clarendon Press.
-* Boh, I., 1993, *Epistemic Logic in the Later Middle Ages*, London: Routledge.
-* Buchheim, T., C. H. Kneepkens and K. Lorenz (eds.), 2001, *Potentialität und Possibilität. Modalaussagen in der Geschichte der Metaphysik*, Stuttgart-Bad Canstatt: Frommann-Holzboog.
+* Becker, O., 1952, _Untersuchungen über den Modalkalkül_, Meisenheim am Glan: Anton Hain.
+* Belo, C., 2007, _Chance and Determinism in Avicenna and Averroes_, Leiden: Brill.
+* Binini, I., 2019, ‘Abelard’s Treatment of Logical Determinism in Its Twelfth-Century Context’, _Vivarium_, 58: 1–28.
+* Bobzien, S., 1993, ‘Chrysippus’s Modal Logic and Its Relation to Philo and Diodorus’ in K. Döring and T. Ebert (eds.), _Dialektiker und Stoiker_, Stuttgart: Franz Steiner, 63–84.
+* –––, 1998, _Determinism and Freedom in Stoic Philosophy_, Oxford: Clarendon Press.
+* Boh, I., 1993, _Epistemic Logic in the Later Middle Ages_, London: Routledge.
+* Buchheim, T., C. H. Kneepkens and K. Lorenz (eds.), 2001, _Potentialität und Possibilität. Modalaussagen in der Geschichte der Metaphysik_, Stuttgart-Bad Canstatt: Frommann-Holzboog.
 * Coombs, J. C., 2003, ‘The Ontological Source of Logical Possibility in Catholic Second Scholasticism’ in R. L. Friedman and L. O. Nielsen (eds.), 191–229.
-* Craig, W. L., 1988, *The Problem of Divine Foreknowledge and Future Contingents from Aristotle to Suárez*, Leiden: Brill.
-* De Haan, D., 2020, *Necessary Existence and the Doctrine of Being in Avicenna’s* Metaphysics of the Healing, Leiden: Brill.
+* Craig, W. L., 1988, _The Problem of Divine Foreknowledge and Future Contingents from Aristotle to Suárez_, Leiden: Brill.
+* De Haan, D., 2020, _Necessary Existence and the Doctrine of Being in Avicenna’s_ Metaphysics of the Healing, Leiden: Brill.
 * De Rijk, L. M., 1962–67, see Primary sources.
-* Dekker, E., 2000, *Middle Knowledge*, Studies in Philosophical Theology 20, Leuven: Peeters.
-* Dutilh Novaes, C., 2007, *Formalizing Medieval Logical Theories: Suppositio, Consequentiae and Obligationes*, Dordrecht: Springer.
-* Ebbesen, S., 2008, *Greek-Latin Philosophical Interaction: Collected Essays of Sten Ebbesen 1–2*, Aldershot: Ashgate.
-* –––, 2010, ‘The *Prior Analytics* in the Latin West: 12th–13th Centuries’, *Vivarium*, 48: 96–133.
-* Ebert, T. and U. Norrmann, 2007, *Aristoteles*, Analytica Priora, *Buch I*, Berlin: Akademie Verlag.
-* Flannery, K. L., 1995, *Ways into the Logic of Alexander of Aphrodisias*, Leiden: Brill.
-* Freddoso, A. J., 1988, *Louis de Molina: On Divine Foreknowledge, Part IV of the Concordia*, translation with introduction and texts, Ithaca: Cornell University Press.
-* Friedman, R. L. and L. O. Nielsen (eds.), 2003, *The Medieval Heritage in Early Modern Metaphysics and Modal Theory*, The New Synthese Historical Library 53, Dordrecht: Kluwer.
-* Frost, G., 2014, ‘Thomas Bradwardine on God and the Foundations of Modality’, *British Journal for the History of Philosophy*, 22: 655–679.
-* Gaskin, R., 1995, *The Sea Battle and the Master Argument*, Berlin: de Gruyter.
-* Gelber, H., 2004, *It Could Have Been Otherwise: Contingency and Necessity in Dominican Theology at Oxford 1300–1350*, Studien und Texte zur Geistesgeschichte des Mittelalters 81, Leiden: Brill.
-* Hankinson, R. J., 1999, ‘Determinism and Indeterminism’ in K. Algra et al. (eds.) *The Cambridge History of Hellenistic Philosophy*, Cambridge, Cambridge University Press.
-* Hintikka, J., 1973, *Time and Necessity: Studies in Aristotle’s Theory of Modality*, Oxford: Oxford University Press.
-* Hintikka, J., with U. Remes and S. Knuuttila, 1977, *Aristotle on Modality and Determinism*, Acta Philosophica Fennica 29, 1, Amsterdam: North-Holland.
-* Hoffmann, T., 2002, *Creatura intellecta. Die Ideen und Possibilien bei Duns Scotus mit Ausblick auf Franz von Mayronis, Poncius und Mastrius*, Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters, NF 60, Münster: Aschendorff.
-* –––, 2009, ‘Duns Scotus on the Origin of the Possibles in the Divine Intellect’, in S. F. Brown, T. Dewender, and T. Kobusch (eds.), *Philosophical Debates at Paris in the Early Fourteenth Century*, Leiden: Brill, 359–379.
-* Holopainen, T., 1996, *Dialectic and Theology in the Eleventh Century*, Studien und Texte zur Geistesgeschichte des Mittelalters 54, Leiden: Brill.
-* Honnefelder, L., 1990, *Scientia transcendens. Die formale Bestimmung der Seiendheit und Realität in der Metaphysik des Mittelalters und der Neuzeit*, Hamburg: Felix Meiner.
-* Honnefelder, L., R. Wood, and M. Dreyer (eds.), 1996, *John Duns Scotus: Metaphysics and Ethics*, Studien und Texte zur Geistesgeschichte des Mittelalters 53, Leiden: Brill.
-* Hughes, G. E., 1989, ‘The Modal Logic of John Buridan’, in G. Corsi, C. Mangione and M. Mugnai (eds.), *Atti del Convegno internazionale di storia della logica: le teorie delle modalità*, Bologna: CLUEB, 93–111.
-* Iwakuma, Y. and S. Ebbesen, 1992, ‘Logico-Theological Schools from the Second Half of the 12th Century: A List of Sources’, *Vivarium*, 30: 173–215.
-* Jacobi, K., 1980, *Die Modalbegriffe in den logischen Schriften des Wilhelm von Shyreswood und in anderen Kompendien des 12. und 13. Jahrhunderts: Funktionsbestimmung und Gebrauch in der logischen Analyse*, Leiden-Cologne: Brill.
-* Johnson, F., 2004, ‘Aristotle’s Modal Syllogisms’, in D. M. Gabbay and J. Woods (eds.), *Handbook of the History of Logic* (Volume I), Amsterdam: Elsevier, 247–307.
-* Johnston, S.C., 2015, ‘A Formal Reconstruction of Buridan’s Modal Syllogism’, *History and Philosophy of Logic*, 36: 2–17.
-* –––, 2021, ‘Modal Logic’ in R. Cross and J.T. Paatsch (eds.), *The Routledge Companion to Medieval Philosopy*, New York: Routledge, 43–56.
-* Judson, L., 1983, ‘Eternity and Necessity in *De caelo* I.12’, *Oxford Studies in Ancient Philosophy*, 1: 217–255.
-* King, P., 1985, *Jean Buridan’s Logic. The Treatise on Supposition. The Treatise on Consequences* (translation with introduction and commentary), Synthese Historical Library 27, Dordrecht: Reidel.
+* Dekker, E., 2000, _Middle Knowledge_, Studies in Philosophical Theology 20, Leuven: Peeters.
+* Dutilh Novaes, C., 2007, _Formalizing Medieval Logical Theories: Suppositio, Consequentiae and Obligationes_, Dordrecht: Springer.
+* Ebbesen, S., 2008, _Greek-Latin Philosophical Interaction: Collected Essays of Sten Ebbesen 1–2_, Aldershot: Ashgate.
+* –––, 2010, ‘The _Prior Analytics_ in the Latin West: 12th–13th Centuries’, _Vivarium_, 48: 96–133.
+* Ebert, T. and U. Norrmann, 2007, _Aristoteles_, Analytica Priora, _Buch I_, Berlin: Akademie Verlag.
+* Flannery, K. L., 1995, _Ways into the Logic of Alexander of Aphrodisias_, Leiden: Brill.
+* Freddoso, A. J., 1988, _Louis de Molina: On Divine Foreknowledge, Part IV of the Concordia_, translation with introduction and texts, Ithaca: Cornell University Press.
+* Friedman, R. L. and L. O. Nielsen (eds.), 2003, _The Medieval Heritage in Early Modern Metaphysics and Modal Theory_, The New Synthese Historical Library 53, Dordrecht: Kluwer.
+* Frost, G., 2014, ‘Thomas Bradwardine on God and the Foundations of Modality’, _British Journal for the History of Philosophy_, 22: 655–679.
+* Gaskin, R., 1995, _The Sea Battle and the Master Argument_, Berlin: de Gruyter.
+* Gelber, H., 2004, _It Could Have Been Otherwise: Contingency and Necessity in Dominican Theology at Oxford 1300–1350_, Studien und Texte zur Geistesgeschichte des Mittelalters 81, Leiden: Brill.
+* Hankinson, R. J., 1999, ‘Determinism and Indeterminism’ in K. Algra et al. (eds.) _The Cambridge History of Hellenistic Philosophy_, Cambridge, Cambridge University Press.
+* Hintikka, J., 1973, _Time and Necessity: Studies in Aristotle’s Theory of Modality_, Oxford: Oxford University Press.
+* Hintikka, J., with U. Remes and S. Knuuttila, 1977, _Aristotle on Modality and Determinism_, Acta Philosophica Fennica 29, 1, Amsterdam: North-Holland.
+* Hoffmann, T., 2002, _Creatura intellecta. Die Ideen und Possibilien bei Duns Scotus mit Ausblick auf Franz von Mayronis, Poncius und Mastrius_, Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters, NF 60, Münster: Aschendorff.
+* –––, 2009, ‘Duns Scotus on the Origin of the Possibles in the Divine Intellect’, in S. F. Brown, T. Dewender, and T. Kobusch (eds.), _Philosophical Debates at Paris in the Early Fourteenth Century_, Leiden: Brill, 359–379.
+* Holopainen, T., 1996, _Dialectic and Theology in the Eleventh Century_, Studien und Texte zur Geistesgeschichte des Mittelalters 54, Leiden: Brill.
+* Honnefelder, L., 1990, _Scientia transcendens. Die formale Bestimmung der Seiendheit und Realität in der Metaphysik des Mittelalters und der Neuzeit_, Hamburg: Felix Meiner.
+* Honnefelder, L., R. Wood, and M. Dreyer (eds.), 1996, _John Duns Scotus: Metaphysics and Ethics_, Studien und Texte zur Geistesgeschichte des Mittelalters 53, Leiden: Brill.
+* Hughes, G. E., 1989, ‘The Modal Logic of John Buridan’, in G. Corsi, C. Mangione and M. Mugnai (eds.), _Atti del Convegno internazionale di storia della logica: le teorie delle modalità_, Bologna: CLUEB, 93–111.
+* Iwakuma, Y. and S. Ebbesen, 1992, ‘Logico-Theological Schools from the Second Half of the 12th Century: A List of Sources’, _Vivarium_, 30: 173–215.
+* Jacobi, K., 1980, _Die Modalbegriffe in den logischen Schriften des Wilhelm von Shyreswood und in anderen Kompendien des 12. und 13. Jahrhunderts: Funktionsbestimmung und Gebrauch in der logischen Analyse_, Leiden-Cologne: Brill.
+* Johnson, F., 2004, ‘Aristotle’s Modal Syllogisms’, in D. M. Gabbay and J. Woods (eds.), _Handbook of the History of Logic_ (Volume I), Amsterdam: Elsevier, 247–307.
+* Johnston, S.C., 2015, ‘A Formal Reconstruction of Buridan’s Modal Syllogism’, _History and Philosophy of Logic_, 36: 2–17.
+* –––, 2021, ‘Modal Logic’ in R. Cross and J.T. Paatsch (eds.), _The Routledge Companion to Medieval Philosopy_, New York: Routledge, 43–56.
+* Judson, L., 1983, ‘Eternity and Necessity in _De caelo_ I.12’, _Oxford Studies in Ancient Philosophy_, 1: 217–255.
+* King, P., 1985, _Jean Buridan’s Logic. The Treatise on Supposition. The Treatise on Consequences_ (translation with introduction and commentary), Synthese Historical Library 27, Dordrecht: Reidel.
 * –––, 2001, ‘Duns Scotus on Possibilities, Powers and the Possible’ in Buchheim et al. (eds.), 175–199.
 * Knebel, S., 2003, ‘The Renaissance of Statistical Modalities in Early Modern Scholasticism’ in R. L. Friedman and L. O. Nielsen (eds.), 231–251.
-* Knuuttila, S., 1993, *Modalities in Medieval Philosophy*, London, New York: Routledge; second edition, 2020.
+* Knuuttila, S., 1993, _Modalities in Medieval Philosophy_, London, New York: Routledge; second edition, 2020.
 * –––, 1996, ‘Duns Scotus and the Foundations of Logical Modalities’ in L. Honnefelder, R. Wood, M. Dreyer (eds.), 127–143.
-* –––, 2001, ‘Time and Creation in Augustine’ in N. Kretzmann and E. Stump (eds.), *The Cambridge Companion to Augustine*, Cambridge: Cambridge University Press, 103–115; second edition, ed. D.V. Meconi and E. Stump, 2014, 81–97.
-* –––, 2001a, ‘Necessities in Buridan’s Natural Philosophy’ in H. Thijssen and J. Zupko (eds.), *The Metaphysics and Natural Philosophy of John Buridan*, Leiden: Brill, 65–76.
-* –––, 2004, ‘Anselm on Modality’ in B. Davies and B. Leftow (eds.), *The Cambridge Companion to Anselm*, Cambridge: Cambridge University Press, 111–131.
-* –––, 2008, ‘Medieval Modal Theories and Modal Logic’ in D. M. Gabbay and J. Woods (eds.), *Handbook of the History of Logic 2: Mediaeval and Renaissance Logic*, Amsterdam: Elsevier, 505–578
-* –––, 2010,‘Medieval Commentators on Future Contingents in *De interpretatione* 9’, *Vivarium*, 58: 75–95.
-* –––, 2012, ‘Modality’, in J. Marenbon (ed.), *The Oxford Handbook of Medieval Philosophy*, New York: Oxford University Press, 312–341.
-* –––, 2018, ‘Three Medieval Theories of Modal Syllogistics’, in C.Kann *et al.* (eds.), *Modern Views of Mediaeval logic*, Recherches de théologie et philophie mediévales Bibliotheca, Leuven: Peeters 2018.
-* Knuuttila, S. and O. Hallamaa, 1995, ‘Roseth and Medieval Deontic Logic’, *Logique & Analyse*, 149: 75–87.
-* Knuuttila, S. and T. Kukkonen, 2011, ‘Thought Experiment and Indirect Proof in Averroes, Aquinas, and Buridan’, in K. Ierodiakonou and S. Roux (eds.), *Thought Experiments: Methodological and Historical Perspectives*, Leiden: Brill, 83–99.
-* Kretzmann, N., 1985, ‘Nos ipsi principia sumus: Boethius and the Basis of Contingency’ in T. Rudavsky (ed.), *Divine Omniscience and Omnipotency in Medieval Philosophy*, Synthese Historical Library 25, Dordrecht: Reidel, 23–50.
-* –––, 1998, ‘Boethius and the Truth about Tomorrow’s Sea Battle’ in Ammonius, *On Aristotle: On Interpretation 9*, 24–52.
-* Kukkonen, T., 2000, ‘Possible Worlds in the *Tahâfut al-falâsifa*. Al-Gazâli on Creation and Contingency’, *Journal of the History of Philosophy*, 38: 479–502.
-* –––, 2002, ‘Alternatives to Alternativers: Approaches to Aristotle’s *per impossibile* Arguments’, *Vivarium*, 40: 137–173.
-* –––, 2005, ‘‘The Impossible insofar as it is Possible’: Ibn Rushd and Jean Buridan on Logic and Natural Theology’, in D. Perler and U. Rudolph (eds.), *Logik und Theologie: Das Organon im arabischen und lateinischen Mittelalter*, Studien und Texte zur Geistesgeschichte des Mittelalters 84, Leiden: Brill, 447–467.
-* Lagerlund, H., 2000, *Modal Syllogistics in the Middle Ages*, Leiden: Brill.
-* –––, 2009, ‘Avicenna and al-Tûsî on Modal Logic’, *History and Philosophy of Logic*, 30: 227–239.
-* Lewis, N. T., 1987, ‘Determinate Truth in Abelard’, *Vivarium*, 25: 81–109.
+* –––, 2001, ‘Time and Creation in Augustine’ in N. Kretzmann and E. Stump (eds.), _The Cambridge Companion to Augustine_, Cambridge: Cambridge University Press, 103–115; second edition, ed. D.V. Meconi and E. Stump, 2014, 81–97.
+* –––, 2001a, ‘Necessities in Buridan’s Natural Philosophy’ in H. Thijssen and J. Zupko (eds.), _The Metaphysics and Natural Philosophy of John Buridan_, Leiden: Brill, 65–76.
+* –––, 2004, ‘Anselm on Modality’ in B. Davies and B. Leftow (eds.), _The Cambridge Companion to Anselm_, Cambridge: Cambridge University Press, 111–131.
+* –––, 2008, ‘Medieval Modal Theories and Modal Logic’ in D. M. Gabbay and J. Woods (eds.), _Handbook of the History of Logic 2: Mediaeval and Renaissance Logic_, Amsterdam: Elsevier, 505–578
+* –––, 2010,‘Medieval Commentators on Future Contingents in _De interpretatione_ 9’, _Vivarium_, 58: 75–95.
+* –––, 2012, ‘Modality’, in J. Marenbon (ed.), _The Oxford Handbook of Medieval Philosophy_, New York: Oxford University Press, 312–341.
+* –––, 2018, ‘Three Medieval Theories of Modal Syllogistics’, in C.Kann _et al._ (eds.), _Modern Views of Mediaeval logic_, Recherches de théologie et philophie mediévales Bibliotheca, Leuven: Peeters 2018.
+* Knuuttila, S. and O. Hallamaa, 1995, ‘Roseth and Medieval Deontic Logic’, _Logique & Analyse_, 149: 75–87.
+* Knuuttila, S. and T. Kukkonen, 2011, ‘Thought Experiment and Indirect Proof in Averroes, Aquinas, and Buridan’, in K. Ierodiakonou and S. Roux (eds.), _Thought Experiments: Methodological and Historical Perspectives_, Leiden: Brill, 83–99.
+* Kretzmann, N., 1985, ‘Nos ipsi principia sumus: Boethius and the Basis of Contingency’ in T. Rudavsky (ed.), _Divine Omniscience and Omnipotency in Medieval Philosophy_, Synthese Historical Library 25, Dordrecht: Reidel, 23–50.
+* –––, 1998, ‘Boethius and the Truth about Tomorrow’s Sea Battle’ in Ammonius, _On Aristotle: On Interpretation 9_, 24–52.
+* Kukkonen, T., 2000, ‘Possible Worlds in the _Tahâfut al-falâsifa_. Al-Gazâli on Creation and Contingency’, _Journal of the History of Philosophy_, 38: 479–502.
+* –––, 2002, ‘Alternatives to Alternativers: Approaches to Aristotle’s _per impossibile_ Arguments’, _Vivarium_, 40: 137–173.
+* –––, 2005, ‘‘The Impossible insofar as it is Possible’: Ibn Rushd and Jean Buridan on Logic and Natural Theology’, in D. Perler and U. Rudolph (eds.), _Logik und Theologie: Das Organon im arabischen und lateinischen Mittelalter_, Studien und Texte zur Geistesgeschichte des Mittelalters 84, Leiden: Brill, 447–467.
+* Lagerlund, H., 2000, _Modal Syllogistics in the Middle Ages_, Leiden: Brill.
+* –––, 2009, ‘Avicenna and al-Tûsî on Modal Logic’, _History and Philosophy of Logic_, 30: 227–239.
+* Lewis, N. T., 1987, ‘Determinate Truth in Abelard’, _Vivarium_, 25: 81–109.
 * –––, 1996, ‘Power and Contingency in Robert Grosseteste and Duns Scotus’ in L. Honnefelder, R. Wood, M. Dreyer (eds.), 205–225.
-* Lovejoy, A., 1936, *The Great Chain of Being: A Study of the History of an Idea*, Cambridge, Mass.: Harvard University Press.
-* Maierù, A., 1972, *Terminologia logica della tarda scolastica*, Rome: Edizioni dell’ Ateneo.
-* Malink, M., 2006, ‘A Reconstruction of Aristotle’s Modal Syllogistic’, *History and Philosophy of Logic*, 27: 95–141.
-* Malink, M., 2013, *Aristotle’s Modal Syllogistic*, Cambridge, MA: Harvard University Press, 2013.
+* Lovejoy, A., 1936, _The Great Chain of Being: A Study of the History of an Idea_, Cambridge, Mass.: Harvard University Press.
+* Maierù, A., 1972, _Terminologia logica della tarda scolastica_, Rome: Edizioni dell’ Ateneo.
+* Malink, M., 2006, ‘A Reconstruction of Aristotle’s Modal Syllogistic’, _History and Philosophy of Logic_, 27: 95–141.
+* Malink, M., 2013, _Aristotle’s Modal Syllogistic_, Cambridge, MA: Harvard University Press, 2013.
 * Manekin, C.H., see Primary sources, Gersonides.
-* Marenbon, J., 2007, *Medieval Philosophy: An Historical and Philosophical Introduction*, London: Routledge.
-* Martin, C. J., 1987, ‘Embarrassing Arguments and Surprising Conclusions in the Development of Theories of the Conditional in the Twelfth Century’ in J. Jolivet and A. de Libera (eds.), *Gilbert de Poitiers et ses contemporains: aux origines de la* Logica Modernorum, Naples: Bibliopolis, 377–400.
-* –––, 1999, ‘Thinking the Impossible: Non-reductive Arguments from Impossible Hypotheses in Boethius and Philoponus’, *Oxford Studies in Ancient Philosophy*, 17: 279–302.
+* Marenbon, J., 2007, _Medieval Philosophy: An Historical and Philosophical Introduction_, London: Routledge.
+* Martin, C. J., 1987, ‘Embarrassing Arguments and Surprising Conclusions in the Development of Theories of the Conditional in the Twelfth Century’ in J. Jolivet and A. de Libera (eds.), _Gilbert de Poitiers et ses contemporains: aux origines de la_ Logica Modernorum, Naples: Bibliopolis, 377–400.
+* –––, 1999, ‘Thinking the Impossible: Non-reductive Arguments from Impossible Hypotheses in Boethius and Philoponus’, _Oxford Studies in Ancient Philosophy_, 17: 279–302.
 * –––, 2001, ‘Abaelard on Modality. Some Possibilities and Some Puzzles’in T. Buchheim et al. (eds.), 97–122.
-* –––, 2003, ‘An Amputee is Biped. The Role of the Categories in the Development of Abaelard’s Theory of Possibility’ in J. Biard and I. Catach-Rosier (eds.), *La Tradition médiévale des Catégories (XIIe-XV siècles)*, Philosophes médiévaux 45, Louvain-la-Neúve: Éditions de l’Institut Supérieur de Philosophie; Louvain-Paris: Peeters, 225–242.
-* –––, 2012, ‘Logical consequence’, in J. Marenbon (ed.), *The Oxford Handbook of Medieval Philosophy*, New York: Oxford University Press, 289–311.
-* Mignucci, M., 1989, ‘Truth and Modality in Late Antiquity: Boethius on Future Contingent Propositions’, G. Corsi, C. Mangione and M. Mugnai (eds.), in *Atti del Convegno internazionale di storia della logica: le teorie delle modalità* , Bologna: CLUEB, 47–78.
-* –––, 1998, ‘Ammonius’ Sea Battle’ in Ammonius, *On Aristotle: On Interpretation 9*, 53–86.
-* Moonan. L., 1994, *Divine Power: The Medieval Power Distinction up to Its Adoption by Albert, Bonaventure, and Aquinas*, Oxford: Clarendon Press.
-* Mueller, I., 1999, ‘Introduction’ in Alexander of Aphrodisias, *On Aristotle’s* Prior Analytics I.8–13, translated by I. Mueller and J. Gould, Ithaca: Cornell University Press, 1–38.
-* Normore, C., 1982, ‘Future Contingents’ in N. Kretzmann, A. Kenny, J. Pinborg (eds.), *The Cambridge History of Later Medieval Philosophy*, Cambridge: Cambridge University Press, 358–381.
-* –––, 1991, ‘Descartes’s Possibilities’ in G. J. D. Moyal (ed.), *René Descartes: Critical Assessments* (Volume III), London, Routledge, 68–83.
-* –––, 1993, ‘Petrus Aureoli and His Contemporaries on Future Contingents and Excluded Middle’, *Synthese*, 96: 83–92.
-* –––, 2003, ‘Duns Scotus’s Modal Theory’ in T. Williams (ed.), *The Cambridge Companion to Duns Scotus*, Cambridge: Cambridge University Press, 129–160.
-* –––, 2006, ‘Necessity, Immutability, and Descartes’ in V. Hirvonen et al. (eds.), *Mind and Modality*, Brill’s Studies in Intellectual History 141, Leiden: Brill, 257–283.
-* –––, 2016, ‘Ockham and the Foundations of Modality in the Fourteenth Century’ in M. Cresswell, E. Mares and A. Rini (eds.), *Logical Modalities from Aristotle to Carnap: The Story of Necessity*, Cambridge: Cambridge University Press, 133–153.
-* Nuchelmans, G., 1973, *Theories of the Proposition: Ancient and Medieval Conceptions of the Bearers of Truth and Falsity*, Amsterdam: North-Holland.
-* Pasnau, R., 2020, ‘Medieval Modal Spaces’, *Proceedings of the Aristotelian Society* (Supplementary Volume), 94: 225–254.
-* Patterson, R., 1995, *Aristotle’s Modal Logic: Essence and Entailment in the Organon*, Cambridge: Cambridge University Press.
-* Read, S., 2021, ‘Modality in Medieval Philosophy’, in O. Bueno and S. Shalkowski (eds.), *The Routledge Handbook of Modality*, New York and London, Routledge, 344–354.
-* Rini, A., 2011, *Aristotle’s Modal Proofs: Prior analytics A 8–22 in Predicate Logic*, The New Synthese Historical Library 68, Dordrecht: Springer.
-* Roncaglia, G., 1996, *Palestra rationis. Discussioni su natura della copula e modalità nella filosofia ‘scolastica’ tedesca del XVII secolo*, Florence: Leo S. Olschki.
-* –––, 2003, ‘Modal Logic in Germany at the Beginning of the Seventeenth Century: Christoph Scheibler’s *Opus Logicum*’ in R. L. Friedman and L. O. Nielsen (eds.), 191–229.
-* Rosen, J. and Malink, M., 2012, ‘A Method of Modal Proof in Aristotle’, *Oxford Studies in Ancient Philosophy*, 42: 179–261.
-* Schabel, C., 2000, *Theology in Paris 1316–1345. Peter Auriol and the Problem of Divine Foreknowledge and Future Contingents*, Aldershot: Ashgate.
-* Schmutz, J., 2006,‘Qui a inventé les mondes possibles’ in J. C. Bardout and V. Jullien (eds.) *Les Mondes possibles*, Cahiers de philosophie de l’Universite de Caen, Caen: Presses universitaires de Caen, 9–45.
-* Seel, G., 1982, *Die Aristotelische Modaltheorie*, Berlin: Walter de Gruyter.
-* –––, 2001, ‘‘In a Definite Way True’: Truth-Values and their Modalization in Ammonius’ in G. Seel (ed.), *Ammonius and the Seabattle; Text, Commentary and Essays*, Berlin and New York: de Gruyter, 234–246.
+* –––, 2003, ‘An Amputee is Biped. The Role of the Categories in the Development of Abaelard’s Theory of Possibility’ in J. Biard and I. Catach-Rosier (eds.), _La Tradition médiévale des Catégories (XIIe-XV siècles)_, Philosophes médiévaux 45, Louvain-la-Neúve: Éditions de l’Institut Supérieur de Philosophie; Louvain-Paris: Peeters, 225–242.
+* –––, 2012, ‘Logical consequence’, in J. Marenbon (ed.), _The Oxford Handbook of Medieval Philosophy_, New York: Oxford University Press, 289–311.
+* Mignucci, M., 1989, ‘Truth and Modality in Late Antiquity: Boethius on Future Contingent Propositions’, G. Corsi, C. Mangione and M. Mugnai (eds.), in _Atti del Convegno internazionale di storia della logica: le teorie delle modalità_ , Bologna: CLUEB, 47–78.
+* –––, 1998, ‘Ammonius’ Sea Battle’ in Ammonius, _On Aristotle: On Interpretation 9_, 53–86.
+* Moonan. L., 1994, _Divine Power: The Medieval Power Distinction up to Its Adoption by Albert, Bonaventure, and Aquinas_, Oxford: Clarendon Press.
+* Mueller, I., 1999, ‘Introduction’ in Alexander of Aphrodisias, _On Aristotle’s_ Prior Analytics I.8–13, translated by I. Mueller and J. Gould, Ithaca: Cornell University Press, 1–38.
+* Normore, C., 1982, ‘Future Contingents’ in N. Kretzmann, A. Kenny, J. Pinborg (eds.), _The Cambridge History of Later Medieval Philosophy_, Cambridge: Cambridge University Press, 358–381.
+* –––, 1991, ‘Descartes’s Possibilities’ in G. J. D. Moyal (ed.), _René Descartes: Critical Assessments_ (Volume III), London, Routledge, 68–83.
+* –––, 1993, ‘Petrus Aureoli and His Contemporaries on Future Contingents and Excluded Middle’, _Synthese_, 96: 83–92.
+* –––, 2003, ‘Duns Scotus’s Modal Theory’ in T. Williams (ed.), _The Cambridge Companion to Duns Scotus_, Cambridge: Cambridge University Press, 129–160.
+* –––, 2006, ‘Necessity, Immutability, and Descartes’ in V. Hirvonen et al. (eds.), _Mind and Modality_, Brill’s Studies in Intellectual History 141, Leiden: Brill, 257–283.
+* –––, 2016, ‘Ockham and the Foundations of Modality in the Fourteenth Century’ in M. Cresswell, E. Mares and A. Rini (eds.), _Logical Modalities from Aristotle to Carnap: The Story of Necessity_, Cambridge: Cambridge University Press, 133–153.
+* Nuchelmans, G., 1973, _Theories of the Proposition: Ancient and Medieval Conceptions of the Bearers of Truth and Falsity_, Amsterdam: North-Holland.
+* Pasnau, R., 2020, ‘Medieval Modal Spaces’, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 94: 225–254.
+* Patterson, R., 1995, _Aristotle’s Modal Logic: Essence and Entailment in the Organon_, Cambridge: Cambridge University Press.
+* Read, S., 2021, ‘Modality in Medieval Philosophy’, in O. Bueno and S. Shalkowski (eds.), _The Routledge Handbook of Modality_, New York and London, Routledge, 344–354.
+* Rini, A., 2011, _Aristotle’s Modal Proofs: Prior analytics A 8–22 in Predicate Logic_, The New Synthese Historical Library 68, Dordrecht: Springer.
+* Roncaglia, G., 1996, _Palestra rationis. Discussioni su natura della copula e modalità nella filosofia ‘scolastica’ tedesca del XVII secolo_, Florence: Leo S. Olschki.
+* –––, 2003, ‘Modal Logic in Germany at the Beginning of the Seventeenth Century: Christoph Scheibler’s _Opus Logicum_’ in R. L. Friedman and L. O. Nielsen (eds.), 191–229.
+* Rosen, J. and Malink, M., 2012, ‘A Method of Modal Proof in Aristotle’, _Oxford Studies in Ancient Philosophy_, 42: 179–261.
+* Schabel, C., 2000, _Theology in Paris 1316–1345. Peter Auriol and the Problem of Divine Foreknowledge and Future Contingents_, Aldershot: Ashgate.
+* Schmutz, J., 2006,‘Qui a inventé les mondes possibles’ in J. C. Bardout and V. Jullien (eds.) _Les Mondes possibles_, Cahiers de philosophie de l’Universite de Caen, Caen: Presses universitaires de Caen, 9–45.
+* Seel, G., 1982, _Die Aristotelische Modaltheorie_, Berlin: Walter de Gruyter.
+* –––, 2001, ‘‘In a Definite Way True’: Truth-Values and their Modalization in Ammonius’ in G. Seel (ed.), _Ammonius and the Seabattle; Text, Commentary and Essays_, Berlin and New York: de Gruyter, 234–246.
 * Sharples, R. W., 1983, see Primary sources, Alexander of Aphrodisias.
-* Smith, R. A., 1989, *Aristotle: Prior Analytics*, Indianapolis and Cambridge: Hackett.
-* –––, 2016, ‘‘Why Does Aristotle Need a *Modal* Syllogistic?’ in M. Cresswell, E. Mares and A. Rini (eds.), *Logical Modalities from Aristotle to Carnap: The Story of Necessity*, Cambridge: Cambridge University Press, 50–69.
-* Sorabji, R., 1980, *Necessity, Cause, and Blame: Perspectives on Aristotle’s Theory*, Ithaca, NY: Cornell University Press.
-* Street, T., 2002, ‘An Outline of Avicenna’s Syllogistic’, *Archiv für Geschichte der Philosophie*, 84: 129–160.
-* –––, 2005, ‘Fahraddîn Ar-Râzî’s Critique of Avicennan Logic’ in D. Perler and U. Rudolph (eds.) *Logik und Theologie: Das Organon im arabischen und lateinischen Mittelalter*, Studien und Texte zur Geistesgeschichte des Mittelalters 84, Leiden: Brill, 99–116.
-* Striker, G., 2009, *Aristotle*, Prior Analytics, *Book I*, Oxford: Clarendon Press.
-* Strobino, R. and P. Thom, 2016, ‘The Logic of Modality ’ in C. Dutilh Novaes and S. Read (eds.),*The Cambridge Companion to Medieval Logic*, Cambridge: Cambridge University Press, 342–369.
-* Sylla, E.D., 1981, ‘*Ideo quasi mendicare oportet intellectum humanum*: The Role of Theology in John Buridan’s Natural Philosophy’ in J. Thijssen and J. Zupko (eds.) *The Metaphysics and Natural Philosophy of John Buridan*, Medieval and Early Modern Science 2, Leiden: Brill.
-* Thom, P., 2003, *Medieval Modal Systems: Problems and Concepts*, Ashgate Studies in Medieval Philosophy, Aldershot: Ashgate, 2003.
-* –––, 2007, *Logic and Ontology in the Syllogistic of Robert Kilwardby*, Studien und Texte zur Geistesgeschichte des Mittelalters 92, Leiden: Brill.
-* –––, 2019, *Robert Kilwardby’s Science of Logic*, Investigating Medieval Philosophy 11, Leiden: Brill 2019.
-* Uckelman, S., 2009, *Modalities in Medieval Logic*, Ph.D. Dissertation, University of Amsterdam.
-* van Rijen, J., 1989, *Aspects of Aristotle’s Logic of Modalities*, Synthese Historical Library 35, Dordrecht: Kluwer.
-* von Wright, G. H., 1984, *Truth, Knowledge, and Modality*, Oxford: Blackwell.
-* Vos, A., H. Veldhuis, A. H. Looman-Graaskamp, E. Dekker, N. W. den Bok, 1994, *John Duns Scotus: Contingency and Freedom. Lectura I 39* (introduction, translation and commentary), The New Synthese Historical Library 42, Dordrecht: Kluwer.
-* Waterlow, S., 1982a, *Passage and Possibility: A Study of Aristotle’s Modal Concepts*, Oxford: Clarendon Press.
-* –––, 1982b, *Nature, Change, and Agency in Aristotle’s* Physics, Oxford: Clarendon Press.
-* Weidemann, H., 1986, ‘Aristoteles und das Problem des kausalen Determinismus (*Met*. E 3)’, *Phronesis* 31, 27–50.
-* Yrjönsuuri, M., 1994, *Obligationes: Fourteenth Century Logic of Disputational Duties*, Acta Philosophica Fennica 55, Helsinki: The Philosophical Society of Finland.
-* –––, 2001, ‘Duties, Rules and Interpretations in Obligational Disputations’, in M. Yrjönsuuri (ed.), *Medieval Formal Logic: Obligations, Insolubles and Consequences*, The New Synthese Historical Library 49, Dordrecht: Kluwer, 3–34.
+* Smith, R. A., 1989, _Aristotle: Prior Analytics_, Indianapolis and Cambridge: Hackett.
+* –––, 2016, ‘‘Why Does Aristotle Need a _Modal_ Syllogistic?’ in M. Cresswell, E. Mares and A. Rini (eds.), _Logical Modalities from Aristotle to Carnap: The Story of Necessity_, Cambridge: Cambridge University Press, 50–69.
+* Sorabji, R., 1980, _Necessity, Cause, and Blame: Perspectives on Aristotle’s Theory_, Ithaca, NY: Cornell University Press.
+* Street, T., 2002, ‘An Outline of Avicenna’s Syllogistic’, _Archiv für Geschichte der Philosophie_, 84: 129–160.
+* –––, 2005, ‘Fahraddîn Ar-Râzî’s Critique of Avicennan Logic’ in D. Perler and U. Rudolph (eds.) _Logik und Theologie: Das Organon im arabischen und lateinischen Mittelalter_, Studien und Texte zur Geistesgeschichte des Mittelalters 84, Leiden: Brill, 99–116.
+* Striker, G., 2009, _Aristotle_, Prior Analytics, _Book I_, Oxford: Clarendon Press.
+* Strobino, R. and P. Thom, 2016, ‘The Logic of Modality ’ in C. Dutilh Novaes and S. Read (eds.),_The Cambridge Companion to Medieval Logic_, Cambridge: Cambridge University Press, 342–369.
+* Sylla, E.D., 1981, ‘_Ideo quasi mendicare oportet intellectum humanum_: The Role of Theology in John Buridan’s Natural Philosophy’ in J. Thijssen and J. Zupko (eds.) _The Metaphysics and Natural Philosophy of John Buridan_, Medieval and Early Modern Science 2, Leiden: Brill.
+* Thom, P., 2003, _Medieval Modal Systems: Problems and Concepts_, Ashgate Studies in Medieval Philosophy, Aldershot: Ashgate, 2003.
+* –––, 2007, _Logic and Ontology in the Syllogistic of Robert Kilwardby_, Studien und Texte zur Geistesgeschichte des Mittelalters 92, Leiden: Brill.
+* –––, 2019, _Robert Kilwardby’s Science of Logic_, Investigating Medieval Philosophy 11, Leiden: Brill 2019.
+* Uckelman, S., 2009, _Modalities in Medieval Logic_, Ph.D. Dissertation, University of Amsterdam.
+* van Rijen, J., 1989, _Aspects of Aristotle’s Logic of Modalities_, Synthese Historical Library 35, Dordrecht: Kluwer.
+* von Wright, G. H., 1984, _Truth, Knowledge, and Modality_, Oxford: Blackwell.
+* Vos, A., H. Veldhuis, A. H. Looman-Graaskamp, E. Dekker, N. W. den Bok, 1994, _John Duns Scotus: Contingency and Freedom. Lectura I 39_ (introduction, translation and commentary), The New Synthese Historical Library 42, Dordrecht: Kluwer.
+* Waterlow, S., 1982a, _Passage and Possibility: A Study of Aristotle’s Modal Concepts_, Oxford: Clarendon Press.
+* –––, 1982b, _Nature, Change, and Agency in Aristotle’s_ Physics, Oxford: Clarendon Press.
+* Weidemann, H., 1986, ‘Aristoteles und das Problem des kausalen Determinismus (_Met_. E 3)’, _Phronesis_ 31, 27–50.
+* Yrjönsuuri, M., 1994, _Obligationes: Fourteenth Century Logic of Disputational Duties_, Acta Philosophica Fennica 55, Helsinki: The Philosophical Society of Finland.
+* –––, 2001, ‘Duties, Rules and Interpretations in Obligational Disputations’, in M. Yrjönsuuri (ed.), _Medieval Formal Logic: Obligations, Insolubles and Consequences_, The New Synthese Historical Library 49, Dordrecht: Kluwer, 3–34.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=modality-medieval). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/modality-medieval/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=modality-medieval&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/modality-medieval/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=modality-medieval).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/modality-medieval/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=modality-medieval\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/modality-medieval/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Boethius, Anicius Manlius Severinus](https://plato.stanford.edu/entries/boethius/) | [Buridan, John [Jean]](https://plato.stanford.edu/entries/buridan/) | [Duns Scotus, John](https://plato.stanford.edu/entries/duns-scotus/) | [Ibn Sina [Avicenna]](https://plato.stanford.edu/entries/ibn-sina/) | [Kilwardby, Robert](https://plato.stanford.edu/entries/robert-kilwardby/) | Latin Averroism | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [medieval philosophy](https://plato.stanford.edu/entries/medieval-philosophy/) | [Ockham [Occam], William](https://plato.stanford.edu/entries/ockham/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/) | [terms, properties of: medieval theories of](https://plato.stanford.edu/entries/medieval-terms/)
+[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Boethius, Anicius Manlius Severinus](https://plato.stanford.edu/entries/boethius/) | [Buridan, John \[Jean\]](https://plato.stanford.edu/entries/buridan/) | [Duns Scotus, John](https://plato.stanford.edu/entries/duns-scotus/) | [Ibn Sina \[Avicenna\]](https://plato.stanford.edu/entries/ibn-sina/) | [Kilwardby, Robert](https://plato.stanford.edu/entries/robert-kilwardby/) | Latin Averroism | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [medieval philosophy](https://plato.stanford.edu/entries/medieval-philosophy/) | [Ockham \[Occam\], William](https://plato.stanford.edu/entries/ockham/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/) | [terms, properties of: medieval theories of](https://plato.stanford.edu/entries/medieval-terms/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Simo Knuuttila

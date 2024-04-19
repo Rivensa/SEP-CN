@@ -1,7 +1,6 @@
 # 数学哲学中的虚构主义 fictionalism (Mark Balaguer)
 
-
-*首次发表于2008年4月22日；实质性修订于2018年7月23日*
+_首次发表于2008年4月22日；实质性修订于2018年7月23日_
 
 数学虚构主义（以下简称虚构主义）最好被视为对数学唯物主义的一种反应。唯物主义认为：（a）存在抽象的数学对象（即非时空的数学对象），以及（b）我们的数学句子和理论提供了对这些对象的真实描述。因此，例如，在唯物主义观点中，“3是质数”的句子提供了对某个对象（即数字3）的直接描述，就像“火星是红色的”句子描述了火星一样。但是，尽管火星是一个物理对象，但数字3（根据唯物主义）是一个抽象对象。唯物主义者告诉我们，抽象对象完全是非物质的、非心理的、非空间的、非时间的和非因果的。因此，在这个观点上，数字3独立于我们和我们的思维而存在，但它不在空间或时间中存在，它不是一个物理或心理对象，并且它不与其他对象产生因果关系。这个观点得到了柏拉图、弗雷格（1884年，1893-1903年，1919年）、哥德尔（1964年）以及罗素（1912年）和奎因（1948年，1951年）在他们的一些著作中的支持，更不用说许多近期的数学哲学家，例如普特南（1971年）、帕森斯（1971年）、斯坦纳（1975年）、雷斯尼克（1997年）、夏皮罗（1997年）、黑尔（1987年）、赖特（1983年）、卡茨（1998年）、扎尔塔（1988年）、科利万（2001年）、麦克沃伊（2012年）和马库斯（2015年）。
 
@@ -18,28 +17,26 @@
 第 1 节提供了对虚构主义的中心论证的阐述。第 2 节讨论了对虚构主义的不同反对意见，以及虚构主义的不同版本。这两个方面非常自然地结合在一起，因为不同版本的虚构主义是在不同哲学家对虚构主义的各种反对意见做出回应的过程中出现的。
 
 * [1. 虚构主义的论证](https://plato.stanford.edu/entries/fictionalism-mathematics/#ArgForFic)
-
   * [1.1 主要论证](https://plato.stanford.edu/entries/fictionalism-mathematics/#MaiArg)
   * [1.2 前提（1）和释义名义主义](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre1ParNom)
   * [1.3 前提（2）和膨胀真理名义主义](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre2DefTru)
   * [1.4 前提（4）和物理主义与心理主义](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre4PhyPsy)
   * [1.5 前提（5）和 Platonism](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre5Pla)
 * [2. 虚构主义的反对意见和回应](https://plato.stanford.edu/entries/fictionalism-mathematics/#ObjFicRes)
-
   * [2.1 不可或缺性论证](https://plato.stanford.edu/entries/fictionalism-mathematics/#IndArg)
-  * [ 2.2 客观性](https://plato.stanford.edu/entries/fictionalism-mathematics/#Obj)
+  * [2.2 客观性](https://plato.stanford.edu/entries/fictionalism-mathematics/#Obj)
   * [2.3 革命主义和解释学](https://plato.stanford.edu/entries/fictionalism-mathematics/#RevHer)
   * [2.4 与虚构主义的相似性](https://plato.stanford.edu/entries/fictionalism-mathematics/#SimFic)
   * [2.5 接受和相信](https://plato.stanford.edu/entries/fictionalism-mathematics/#AccBel)
   * [2.6 神秘的额外内容](https://plato.stanford.edu/entries/fictionalism-mathematics/#MysExCon)
-  * [ 2.7 其他反对意见](https://plato.stanford.edu/entries/fictionalism-mathematics/#OthObj)
-* [ 3. 结论](https://plato.stanford.edu/entries/fictionalism-mathematics/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/fictionalism-mathematics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fictionalism-mathematics/#Aca)
+  * [2.7 其他反对意见](https://plato.stanford.edu/entries/fictionalism-mathematics/#OthObj)
+* [3. 结论](https://plato.stanford.edu/entries/fictionalism-mathematics/#Con)
+* [参考文献](https://plato.stanford.edu/entries/fictionalism-mathematics/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/fictionalism-mathematics/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/fictionalism-mathematics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fictionalism-mathematics/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/fictionalism-mathematics/#Rel)
 
----
+***
 
 ## 1. 虚构主义的论证
 
@@ -47,7 +44,7 @@
 
 虚构主义的主要论证基本上是通过试图消除所有与虚构主义相反的观点来进行的。这个论证可以这样表述：
 
-1. 数学句子如“4 是偶数”应该按照字面意思来理解；也就是说，它们应该被理解为“F**a”的形式，并且因此作为对某些对象性质的直接主张；例如，“4 是偶数”应该被理解为对数字 4 性质的直接主张。但是
+1. 数学句子如“4 是偶数”应该按照字面意思来理解；也就是说，它们应该被理解为“F\*\*a”的形式，并且因此作为对某些对象性质的直接主张；例如，“4 是偶数”应该被理解为对数字 4 性质的直接主张。但是
 2. 如果像“4 是偶数”这样的句子应该按字面意思阅读，并且如果它们是真实的，那么它们所涉及的种类的对象必须实际存在；例如，如果“4 是偶数”对数字 4 的性质提出了直接的主张，并且如果这个句子字面上是真实的，那么必须实际存在一个叫做数字 4 的东西。因此，根据（1）和（2），可以得出结论
 3. 如果像“4 是偶数”这样的句子是真实的，那么就存在数学对象。但是
 4. 如果存在数学对象，那么它们是抽象对象，即非时空对象；例如，如果存在数字 4，那么它是一个抽象对象，而不是物理或心理对象。但是
@@ -73,13 +70,13 @@
 
 ### 1.3 前提（2）和通俗真理名义主义
 
-通货紧缩真理名义主义是这样一种观点：（a）正如柏拉图主义者和虚构主义者所主张的那样，普通的数学句子如“3是质数”应该按字面意义阅读，即被视为“F**a”的形式，并因此对数学对象提出了主张；（b）数学对象并不存在，但（c）我们的数学句子仍然是真实的。这种观点已经得到了阿祖尼（1994年，2004年，2010年）和布埃诺（2005年，2009年）的支持。然而，值得注意的是，布埃诺在他的（2009年）中将他的通货紧缩真理名义主义版本称为虚构主义的一种版本。这并不是因为他真的支持了本文中所称的虚构主义观点；而是因为他对“虚构主义”一词的使用与本文中的使用方式不同。但是需要注意的是，布埃诺的用法并没有那么不同；正如我们将要看到的，通货紧缩真理名义主义和虚构主义（如本文所定义的）是相当相似的观点。（布埃诺的观点与本文中所定义的虚构主义观点在第二个方面也有所不同：他支持对抽象对象的不可知论，而不是完全的反实在论。但是这个差异甚至比第一个差异还不重要；如果我们重新表述上述虚构主义定义中的（b）和（c），使它们与不可知论一致，虚构主义观点的其他方面几乎不需要改变。因此，虚构主义者可以选择是否对抽象对象持不可知论或反实在论的立场，而这个决定对他们观点的其他部分影响不大。事实上，正如第3节将清楚地表明的那样，布埃诺的不可知论可能与某些虚构主义者的观点更或多或少地等同。）
+通货紧缩真理名义主义是这样一种观点：（a）正如柏拉图主义者和虚构主义者所主张的那样，普通的数学句子如“3是质数”应该按字面意义阅读，即被视为“F\*\*a”的形式，并因此对数学对象提出了主张；（b）数学对象并不存在，但（c）我们的数学句子仍然是真实的。这种观点已经得到了阿祖尼（1994年，2004年，2010年）和布埃诺（2005年，2009年）的支持。然而，值得注意的是，布埃诺在他的（2009年）中将他的通货紧缩真理名义主义版本称为虚构主义的一种版本。这并不是因为他真的支持了本文中所称的虚构主义观点；而是因为他对“虚构主义”一词的使用与本文中的使用方式不同。但是需要注意的是，布埃诺的用法并没有那么不同；正如我们将要看到的，通货紧缩真理名义主义和虚构主义（如本文所定义的）是相当相似的观点。（布埃诺的观点与本文中所定义的虚构主义观点在第二个方面也有所不同：他支持对抽象对象的不可知论，而不是完全的反实在论。但是这个差异甚至比第一个差异还不重要；如果我们重新表述上述虚构主义定义中的（b）和（c），使它们与不可知论一致，虚构主义观点的其他方面几乎不需要改变。因此，虚构主义者可以选择是否对抽象对象持不可知论或反实在论的立场，而这个决定对他们观点的其他部分影响不大。事实上，正如第3节将清楚地表明的那样，布埃诺的不可知论可能与某些虚构主义者的观点更或多或少地等同。）
 
-在描述通货紧缩真实主义的问题之前，重要的是要注意，该观点背后的核心主张是关于普通话语的经验假设。特别是，这是关于术语“真实”的含义或关于真实概念的主张。当通货紧缩真实主义者说，例如，“3是质数”即使没有数字3这样的东西也可能是真实的时，他们是在对普通真实概念做出主张。他们在说，这个概念适用于我们大多数人（包括形而上学者、虚构主义者和其他几乎所有人）认为它不适用的某些情况。如果通货紧缩真实主义者试图否认他们在对普通真实概念做出主张，那么他们的观点将崩溃成为虚构主义的一种版本。因为他们同意虚构主义者的观点，即“3是质数”意味着涉及某个抽象对象，而且他们也同意没有抽象对象的存在，所以可以推断，如果他们支持标准的真实观点——即根据这个观点，形如“F**a”的句子只有在“a”指代一个实际存在的对象时才能为真——那么他们将不得不承认“3是质数”是不真实的。现在，他们可能会继续争辩说这些句子是真实的**​ ***——其中真实***​**的定义是这样的，即使没有这样的东西存在，形如“F**a”的句子也可以是真实的——当然，虚构主义者会同意这一点。因此，如果通货紧缩真实主义要真正与虚构主义有所区别，它必须涉及对普通词“真实”的含义的论点；特别是，这个主张必须是这样的，即形如“F**a”的句子可以在普通意义上是真实的，即使特指词“a”不指代任何实际存在的对象。
+在描述通货紧缩真实主义的问题之前，重要的是要注意，该观点背后的核心主张是关于普通话语的经验假设。特别是，这是关于术语“真实”的含义或关于真实概念的主张。当通货紧缩真实主义者说，例如，“3是质数”即使没有数字3这样的东西也可能是真实的时，他们是在对普通真实概念做出主张。他们在说，这个概念适用于我们大多数人（包括形而上学者、虚构主义者和其他几乎所有人）认为它不适用的某些情况。如果通货紧缩真实主义者试图否认他们在对普通真实概念做出主张，那么他们的观点将崩溃成为虚构主义的一种版本。因为他们同意虚构主义者的观点，即“3是质数”意味着涉及某个抽象对象，而且他们也同意没有抽象对象的存在，所以可以推断，如果他们支持标准的真实观点——即根据这个观点，形如“F**a”的句子只有在“a”指代一个实际存在的对象时才能为真——那么他们将不得不承认“3是质数”是不真实的。现在，他们可能会继续争辩说这些句子是真实的**​ _**——其中真实**_​**的定义是这样的，即使没有这样的东西存在，形如“F**a”的句子也可以是真实的——当然，虚构主义者会同意这一点。因此，如果通货紧缩真实主义要真正与虚构主义有所区别，它必须涉及对普通词“真实”的含义的论点；特别是，这个主张必须是这样的，即形如“F\*\*a”的句子可以在普通意义上是真实的，即使特指词“a”不指代任何实际存在的对象。
 
 鉴于这一点，大多数虚构主义者可能会说，通货紧缩真理名义主义的问题在于它在经验上是不可信的。换句话说，反对意见可能是通货紧缩真理名义主义与我们对“真实”含义的直觉相悖。对于这种主张，似乎有一些正当理由。例如，直觉上似乎很明显，除非存在火星这样的事物，否则句子“火星是一个行星”不能字面上是真实的。此外，直觉上，句子“火星是一个行星，但它不存在”似乎是一个矛盾，而这种直觉似乎与通货紧缩真理名义主义不相容。如果这是正确的——如果通货紧缩真理语义论与我们的语义直觉相悖——那么这为我们认为它是错误的提供了有力的证据。
 
-但是，虚构主义真理的紧缩问题还有第二个问题：它被认为可以为我们提供避免形而上学的方法，但实际上并没有。乍看之下，虚构主义真理似乎确实提供了一种避免形而上学的方法，因为形而上学的论证似乎依赖于上述第（2）前提，即似乎依赖于反紧缩真理主张，即如果像“4是偶数”这样的句子应该按面值阅读，即作为“F**a”形式的句子，并且如果这些句子在字面上是真实的，那么我们就必须相信它们所涉及的对象，例如数字4。但实际上，形而上学家可以制定他们的论证，使其不依赖于这个反紧缩真理前提。为了阐明这一点，让我们首先引入两个新的术语——“真1”和“真2”——并规定“真1”被视为表达形而上学虚构主义真理概念的术语，因此，除非“a”指的是实际存在的对象，“F**a”形式的句子不能是真1；而“真2”则表达了一种紧缩真理概念，因此，“F**a”形式的句子即使“a”不指代任何实际存在的对象，也可以是真2。在此基础上，形而上学家可以这样说：
+但是，虚构主义真理的紧缩问题还有第二个问题：它被认为可以为我们提供避免形而上学的方法，但实际上并没有。乍看之下，虚构主义真理似乎确实提供了一种避免形而上学的方法，因为形而上学的论证似乎依赖于上述第（2）前提，即似乎依赖于反紧缩真理主张，即如果像“4是偶数”这样的句子应该按面值阅读，即作为“F**a”形式的句子，并且如果这些句子在字面上是真实的，那么我们就必须相信它们所涉及的对象，例如数字4。但实际上，形而上学家可以制定他们的论证，使其不依赖于这个反紧缩真理前提。为了阐明这一点，让我们首先引入两个新的术语——“真1”和“真2”——并规定“真1”被视为表达形而上学虚构主义真理概念的术语，因此，除非“a”指的是实际存在的对象，“F**a”形式的句子不能是真1；而“真2”则表达了一种紧缩真理概念，因此，“F\*\*a”形式的句子即使“a”不指代任何实际存在的对象，也可以是真2。在此基础上，形而上学家可以这样说：
 
 > 我们并不关心普通英语中使用的词语“真实”是表达真理 1 还是真理 2（或者它是否含糊不清，有时表达一个概念，有时表达另一个概念）。我们承认，对于形而上主义的论证的标准表述涉及到普通数学句子如“3 是质数”的真实性。但我们同样可以基于这样的主张来构建我们的论证，即这样的句子是真实 1 的。这样做并不会削弱我们的论证。因为我们用来推动数学真实性的论证，尤其是下面讨论的奎因-普特南不可或缺性论证，已经是对数学真实性的论证。这并不令人惊讶；因为当我们说普通数学句子如“3 是质数”是真实的时候，我们的意思是它们是真实 1 的；所以，当然，我们为数学真实性给出的论证已经被认为是对数学真实 1 性的论证。
 
@@ -171,7 +168,7 @@ Colyvan（2002 年，2010 年）和 Baker（2005 年，2009 年）对于简易�
 
 形式主义观点由菲尔德（1980年，1989年，1998年）发展起来。在他的观点中，“3是质数”和“3是合数”的区别类似于“圣诞老人穿红色衣服”和“圣诞老人穿绿色衣服”的区别。更具体地说，菲尔德的观点是，像“3是质数”和“3是合数”这样的句子之间的区别在于前者（而不是后者）是某个众所周知的“故事”的一部分，即数学的故事。菲尔德通过说，虽然“3是质数”和“3是合数”都是严格不真实的，但前者在数学的故事中是真实的，而后者不是。现在，菲尔德的大部分观点与形式主义虚构主义和非形式主义虚构主义都是一致的。这两种观点的区别在于虚构主义者认为数学的故事包含什么。对于菲尔德来说，数学的故事本质上包含一堆形式系统，即我们目前接受的那些系统。更确切地说，他说（1998年，第391页），如果一个数学句子在虚构主义意义上是正确的，那么它就是“从被接受的公理中推导出来的后果……这种后果的逻辑包括量词‘只有有限多个’的逻辑”。因此，在这个观点中，“3是质数”和“3是合数”之间的区别——前者“正确”而后者不正确的原因在于前者是从被接受的数学公理中推导出来的。（这个观点也得到了莱恩（2010年）的支持；她说数学的可接受性归结为是否从被接受的公理中推导出来。）
 
-Balaguer（2001, 2009）认为Field的形式主义观点是错误的，并提出了一个非形式主义的替代方案。他反对形式主义观点的论据是，它无法解释数学中的所有客观性。最重要的是，形式主义观点错误地认为，在当前被接受的数学理论中，对于那些在数学上不可判定的数学句子的真值问题，不能有客观上正确的答案。这里最著名的例子可能是连续统假设（CH），它在当前被接受的集合论中是不可判定的，例如，策梅洛-弗兰克尔集合论（ZF）。（换句话说，ZF既与CH一致，也与~CH一致；即，ZF+CH和ZF+~CH都是一致的集合论。）基于这一点，根据Field的观点，CH和~CH都不是数学故事的一部分，因此，CH问题没有客观上正确的答案。然而，这似乎是不可接受的，因为可能会发现数学家们对CH问题有一个客观上正确的答案。例如，假设某个数学家提出了一个新的公理候选项AX，使得（i）所有数学家都同意AX是关于集合的直观明显的主张，且（ii）ZF+AX蕴含CH。如果发生了这种情况，那么数学家们会说他们已经证明了CH，并且发现了CH是正确的，等等。Field的观点将迫使我们说，如果我们支持AX，那么CH将在数学故事中成为真实的。但这似乎是错误的。鉴于AX的直观明显性，似乎很自然地说，在这种情况下，数学家们发现CH一直是真实的（或者说“正确的”，或者在数学故事中是真实的，或者无论我们想如何称呼它）——也就是说，我们不仅仅是通过支持一个新的理论而虚构出来的。而且，似乎这正是数学家们会说的。 所以，巴拉格尔认为，菲尔德对数学客观性的形式主义观点是不可接受的。
+Balaguer（2001, 2009）认为Field的形式主义观点是错误的，并提出了一个非形式主义的替代方案。他反对形式主义观点的论据是，它无法解释数学中的所有客观性。最重要的是，形式主义观点错误地认为，在当前被接受的数学理论中，对于那些在数学上不可判定的数学句子的真值问题，不能有客观上正确的答案。这里最著名的例子可能是连续统假设（CH），它在当前被接受的集合论中是不可判定的，例如，策梅洛-弗兰克尔集合论（ZF）。（换句话说，ZF既与CH一致，也与\~CH一致；即，ZF+CH和ZF+~~CH都是一致的集合论。）基于这一点，根据Field的观点，CH和~~CH都不是数学故事的一部分，因此，CH问题没有客观上正确的答案。然而，这似乎是不可接受的，因为可能会发现数学家们对CH问题有一个客观上正确的答案。例如，假设某个数学家提出了一个新的公理候选项AX，使得（i）所有数学家都同意AX是关于集合的直观明显的主张，且（ii）ZF+AX蕴含CH。如果发生了这种情况，那么数学家们会说他们已经证明了CH，并且发现了CH是正确的，等等。Field的观点将迫使我们说，如果我们支持AX，那么CH将在数学故事中成为真实的。但这似乎是错误的。鉴于AX的直观明显性，似乎很自然地说，在这种情况下，数学家们发现CH一直是真实的（或者说“正确的”，或者在数学故事中是真实的，或者无论我们想如何称呼它）——也就是说，我们不仅仅是通过支持一个新的理论而虚构出来的。而且，似乎这正是数学家们会说的。 所以，巴拉格尔认为，菲尔德对数学客观性的形式主义观点是不可接受的。
 
 巴拉格尔的非形式主义版本的虚构主义保留了菲尔德的论点，即数学的“正确性”与在数学故事中的真实性有关，但它放弃了菲尔德的观点，即数学故事包括当前被接受的公理。根据巴拉格尔的观点，所谓的“数学故事”包括这样一个论点，即实际上存在着抽象的数学对象，这些对象是形而上学家所考虑的那种对象，即我们的数学理论所涉及的对象。因此，在这种观点下，数学命题在虚构主义意义上是正确的，当且仅当如果实际上存在着形而上学家所考虑的那种抽象的数学对象，那么这个命题就是真的。巴拉格尔认为，如果虚构主义者采纳这种观点，他们就可以避免上述菲尔德观点的问题，更一般地说，他们可以完全解决客观性问题，因为他们可以模仿形而上学家关于客观性的所有说法。
 
@@ -234,142 +231,143 @@ Plebani（2018 年）给出了不同的回应。他认为，无论 Yablo 虚构�
 ## 3. 结论
 
 有几个不同的反对虚构主义的观点，但虚构主义者对所有这些观点都有回应，并且并不明显有任何一个观点成功地驳斥了虚构主义。因此，目前至少初步可行的假设是虚构主义是可以被辩护的。另一方面，如果第1节的论述是正确的，那么虚构主义者没有一个令人信服的正面论证来支持他们的观点。第1.2-1.4节的论证表明，有充分的理由拒绝各种反对形而上学的虚构主义替代方案，因此认为形而上学和虚构主义是数学的两种最佳观点，但似乎没有任何理由支持虚构主义优于形而上学或反之亦然。现在，大多数虚构主义者可能会说，甚至有些人已经说过（例如，Leng，2010），这种情况本身就已经给了我们一个支持虚构主义优于形而上学的充分理由。因为如果我们接受没有好的正面论证支持形而上学的主张，并将其与奥卡姆剃刀原则相结合（即告诉我们如果两个理论解释了所有相同的事实，那么其他条件相同，我们应该支持两者中更为本体论简约的那个），那么我们似乎会得出虚构主义优于形而上学的结论。然而，值得注意的是，至少有两位上述虚构主义辩护者明确拒绝了这个论证。Rosen（例如，Burgess和Rosen，1997）怀疑是否有任何充分的理由接受奥卡姆剃刀原则，而Balaguer（1998a）则认为即使我们接受它，在当前情况下也有理由认为它不适用。因此，Rosen和Balaguer都认为，目前我们没有任何充分的理由支持形而上学或虚构主义。此外，正如第1节中所指出的那样。3，布埃诺（2009）认为虚构主义者对于抽象对象的存在应该持不可知论态度；这似乎与罗森的观点更或多或少相等；巴拉格尔的观点有些不同，因为他实际上认为是否存在抽象对象并没有确切的事实。
+
 ## Bibliography
 
-* Armour-Garb, B., 2011, “Understanding Mathematical Fictionalism,” *Philosophia Mathematica*, 19: 335–44.
-* Arnzenius, F. and C. Dorr, 2012, “Calculus as Geometry,” in *Space, Time, and Stuff*, F. Arntzenius, Oxford: Oxford University Press, pp. 213–78.
-* Azzouni, J., 1994, *Metaphysical Myths, Mathematical Practice*, Cambridge: Cambridge University Press.
-* –––, 2004, *Deflating Existential Consequence: A Case for Nominalism*, Oxford: Oxford University Press.
-* –––, 2010, *Talking About Nothing: Numbers, Hallucinations, and Fictions*, Oxford: Oxford University Press.
-* Baker, A., 2005, “Are There Genuine Mathematical Explanations of Physical Phenomena?,” *Mind*, 114: 223–38.
-* –––, 2009, “Mathematical Explanation in Science,” *British Journal for the Philosophy of Science*, 60: 611–633.
-* Balaguer, M., 1995, “A Platonist Epistemology,” *Synthese*, 103: 303–25.
-* –––, 1996a, “A Fictionalist Account of the Indispensable Applications of Mathematics,” *Philosophical Studies*, 83: 291–314.
-* –––, 1996b, “Towards a Nominalization of Quantum Mechanics,” *Mind*, 105: 209–26.
-* –––, 1998a, *Platonism and Anti-Platonism in Mathematics*, Oxford: Oxford University Press.
-* –––, 1998b, “Attitudes Without Propositions,” *Philosophy and Phenomenological Research*, 58: 805–26.
-* –––, 2001, “A Theory of Mathematical Correctness and Mathematical Truth,” *Pacific Philosophical Quarterly*, 82: 87–114.
-* –––, 2009, “Fictionalism, Theft, and the Story of Mathematics,” *Philosophia Mathematica*, 17: 131–62.
-* Bangu, S., 2008, “Inference to the Best Explanation and Mathematical Realism,” *Synthese*, 160: 13–20.
+* Armour-Garb, B., 2011, “Understanding Mathematical Fictionalism,” _Philosophia Mathematica_, 19: 335–44.
+* Arnzenius, F. and C. Dorr, 2012, “Calculus as Geometry,” in _Space, Time, and Stuff_, F. Arntzenius, Oxford: Oxford University Press, pp. 213–78.
+* Azzouni, J., 1994, _Metaphysical Myths, Mathematical Practice_, Cambridge: Cambridge University Press.
+* –––, 2004, _Deflating Existential Consequence: A Case for Nominalism_, Oxford: Oxford University Press.
+* –––, 2010, _Talking About Nothing: Numbers, Hallucinations, and Fictions_, Oxford: Oxford University Press.
+* Baker, A., 2005, “Are There Genuine Mathematical Explanations of Physical Phenomena?,” _Mind_, 114: 223–38.
+* –––, 2009, “Mathematical Explanation in Science,” _British Journal for the Philosophy of Science_, 60: 611–633.
+* Balaguer, M., 1995, “A Platonist Epistemology,” _Synthese_, 103: 303–25.
+* –––, 1996a, “A Fictionalist Account of the Indispensable Applications of Mathematics,” _Philosophical Studies_, 83: 291–314.
+* –––, 1996b, “Towards a Nominalization of Quantum Mechanics,” _Mind_, 105: 209–26.
+* –––, 1998a, _Platonism and Anti-Platonism in Mathematics_, Oxford: Oxford University Press.
+* –––, 1998b, “Attitudes Without Propositions,” _Philosophy and Phenomenological Research_, 58: 805–26.
+* –––, 2001, “A Theory of Mathematical Correctness and Mathematical Truth,” _Pacific Philosophical Quarterly_, 82: 87–114.
+* –––, 2009, “Fictionalism, Theft, and the Story of Mathematics,” _Philosophia Mathematica_, 17: 131–62.
+* Bangu, S., 2008, “Inference to the Best Explanation and Mathematical Realism,” _Synthese_, 160: 13–20.
 * Benacerraf, P., 1965, “What Numbers Could Not Be,” reprinted in Benacerraf and Putnam (1983), pp. 272–94.
-* –––, 1973, “Mathematical Truth,” *Journal of Philosophy*, 70: 661–79.
-* Benacerraf, P. and Putnam, H. (eds.), 1983, *Philosophy of Mathematics*, Cambridge: Cambridge University Press.
-* Berto, F. and M. Plebani, 2015, *Ontology and Metaontology: A Contemporary Guide*, London: Bloomsbury Academic.
+* –––, 1973, “Mathematical Truth,” _Journal of Philosophy_, 70: 661–79.
+* Benacerraf, P. and Putnam, H. (eds.), 1983, _Philosophy of Mathematics_, Cambridge: Cambridge University Press.
+* Berto, F. and M. Plebani, 2015, _Ontology and Metaontology: A Contemporary Guide_, London: Bloomsbury Academic.
 * Brouwer, L.E.J., 1912, “Intuitionism and Formalism,” reprinted in Benacerraf and Putnam (1983), 77–89.
 * –––, 1948, “Consciousness, Philosophy, and Mathematics,” reprinted in Benacerraf and Putnam (1983), 90–96.
-* Bueno, O., 2003, “Is It Possible to Nominalize Quantum Mechanics?,” *Philosophy of Science*, 70: 1424–36.
-* –––, 2005, “Dirac and the Dispensability of Mathematics,” *Studies in History and Philosophy of Modern Physics*, 36: 465–90.
-* –––, 2009, “Mathematical Fictionalism,” in *New Waves in Philosophy of Mathematics*, O. Bueno and Ø. Linnebo (eds.), Hampshire: Palgrave Macmillan, pp. 59–79.
-* Burgess, J., 1983, “Why I am Not a Nominalist,” *Notre Dame Journal of Formal Logic*, 24: 93–105.
-* –––, 2004, “Mathematics and Bleak House,” *Philosophia Mathematica*, 12: 18–36.
-* Burgess, J. and G. Rosen, 1997, *A Subject With No Object*, New York: Oxford University Press.
-* Chihara, C., 1990, *Constructibility and Mathematical Existence*, Oxford: Oxford University Press.
-* –––, 2004, *A Structuralist Account of Mathematics*, Oxford: Oxford University Press.
-* –––, 2010, “New Directions for Nominalist Philosophers of Mathematics,” *Synthese*, 176: 153–75.
-* Cole, J., 2009, “Creativity, Freedom, and Authority: A New Perspective on the Metaphysics of Mathematics,” *Australasian Journal of Philosophy*, 87: 589–608.
-* Colyvan, M., 2001, *The Indispensability of Mathematics*, New York: Oxford University Press.
-* –––, 2002, “Mathematics and Aesthetic Considerations in Science,” *Mind*, 111: 69–74.
-* –––, 2010, “There is No Easy Road to Nominalism,” *Mind*, 119: 285–306.
-* Contessa, G., 2016, “It Ain’t Easy: Fictionalism, Deflationism, and Easy Arguments in Ontology,” *Mind*, 125: 1057–73.
-* Corkum, P., 2012, “Aristotle on Mathematical Truth,” *British Journal for the History of Philosophy*, 20: 763–76.
-* Curry, H.B., 1951, *Outlines of a Formalist Philosophy of Mathematics*, Amsterdam: North-Holland.
-* Daly, C., 2006, “Mathematical Fictionalism—No Comedy of Errors,” *Analysis*, 66: 208–16.
-* –––, 2008, “Fictionalism and the Attitudes,” *Philosophical Studies*, 139: 423–40.
-* Daly, C. and S. Langford, 2009, “Mathematical Explanation and Indispensability Arguments,” *Philosophical Quarterly*, 59: 641–58.
-* Dorr, C., 2008, “There are No Abstract Objects,” in *Contemporary Debates in Metaphysics*, T. Sider, J. Hawthorne, and D. Zimmerman (eds.), Oxford: Blackwell Publishing, pp. 12–64.
-* Field, H., 1980, *Science Without Numbers*, Princeton, NJ: Princeton University Press.
-* –––, 1989, *Realism, Mathematics, and Modality*, New York: Basil Blackwell.
-* –––, 1998, “Mathematical Objectivity and Mathematical Objects,” in *Contemporary Readings in the Foundations of Metaphysics*, C. MacDonald and S. Laurence (eds.), Oxford: Basil Blackwell, pp. 387–403.
-* –––, 2016, *Science Without Numbers,*, Second Edition, Oxford: Oxford University Press.
-* Frege, G., 1884, *Der Grundlagen die Arithmetik*. Translated by J.L. Austin as *The Foundations of Arithmetic*, Oxford: Basil Blackwell, 1953.
-* –––, 1893–1903, *Grundgesetze der Arithmetik*. Translated (in part) by M. Furth as *The Basic Laws of Arithmetic*, Berkeley, CA: University of California Press, 1964.
-* –––, 1919, “The Thought: A Logical Inquiry,” reprinted in *Essays on Frege*, E.D. Klemke (ed.), Urbana, IL: University of Illinois Press, 1968, 507–35.
+* Bueno, O., 2003, “Is It Possible to Nominalize Quantum Mechanics?,” _Philosophy of Science_, 70: 1424–36.
+* –––, 2005, “Dirac and the Dispensability of Mathematics,” _Studies in History and Philosophy of Modern Physics_, 36: 465–90.
+* –––, 2009, “Mathematical Fictionalism,” in _New Waves in Philosophy of Mathematics_, O. Bueno and Ø. Linnebo (eds.), Hampshire: Palgrave Macmillan, pp. 59–79.
+* Burgess, J., 1983, “Why I am Not a Nominalist,” _Notre Dame Journal of Formal Logic_, 24: 93–105.
+* –––, 2004, “Mathematics and Bleak House,” _Philosophia Mathematica_, 12: 18–36.
+* Burgess, J. and G. Rosen, 1997, _A Subject With No Object_, New York: Oxford University Press.
+* Chihara, C., 1990, _Constructibility and Mathematical Existence_, Oxford: Oxford University Press.
+* –––, 2004, _A Structuralist Account of Mathematics_, Oxford: Oxford University Press.
+* –––, 2010, “New Directions for Nominalist Philosophers of Mathematics,” _Synthese_, 176: 153–75.
+* Cole, J., 2009, “Creativity, Freedom, and Authority: A New Perspective on the Metaphysics of Mathematics,” _Australasian Journal of Philosophy_, 87: 589–608.
+* Colyvan, M., 2001, _The Indispensability of Mathematics_, New York: Oxford University Press.
+* –––, 2002, “Mathematics and Aesthetic Considerations in Science,” _Mind_, 111: 69–74.
+* –––, 2010, “There is No Easy Road to Nominalism,” _Mind_, 119: 285–306.
+* Contessa, G., 2016, “It Ain’t Easy: Fictionalism, Deflationism, and Easy Arguments in Ontology,” _Mind_, 125: 1057–73.
+* Corkum, P., 2012, “Aristotle on Mathematical Truth,” _British Journal for the History of Philosophy_, 20: 763–76.
+* Curry, H.B., 1951, _Outlines of a Formalist Philosophy of Mathematics_, Amsterdam: North-Holland.
+* Daly, C., 2006, “Mathematical Fictionalism—No Comedy of Errors,” _Analysis_, 66: 208–16.
+* –––, 2008, “Fictionalism and the Attitudes,” _Philosophical Studies_, 139: 423–40.
+* Daly, C. and S. Langford, 2009, “Mathematical Explanation and Indispensability Arguments,” _Philosophical Quarterly_, 59: 641–58.
+* Dorr, C., 2008, “There are No Abstract Objects,” in _Contemporary Debates in Metaphysics_, T. Sider, J. Hawthorne, and D. Zimmerman (eds.), Oxford: Blackwell Publishing, pp. 12–64.
+* Field, H., 1980, _Science Without Numbers_, Princeton, NJ: Princeton University Press.
+* –––, 1989, _Realism, Mathematics, and Modality_, New York: Basil Blackwell.
+* –––, 1998, “Mathematical Objectivity and Mathematical Objects,” in _Contemporary Readings in the Foundations of Metaphysics_, C. MacDonald and S. Laurence (eds.), Oxford: Basil Blackwell, pp. 387–403.
+* –––, 2016, _Science Without Numbers,_, Second Edition, Oxford: Oxford University Press.
+* Frege, G., 1884, _Der Grundlagen die Arithmetik_. Translated by J.L. Austin as _The Foundations of Arithmetic_, Oxford: Basil Blackwell, 1953.
+* –––, 1893–1903, _Grundgesetze der Arithmetik_. Translated (in part) by M. Furth as _The Basic Laws of Arithmetic_, Berkeley, CA: University of California Press, 1964.
+* –––, 1919, “The Thought: A Logical Inquiry,” reprinted in _Essays on Frege_, E.D. Klemke (ed.), Urbana, IL: University of Illinois Press, 1968, 507–35.
 * Gödel, K., 1964, “What is Cantor’s Continuum Problem?,” reprinted in Benacerraf and Putnam (1983), 470–85.
-* Hale, R., 1987, *Abstract Objects*, Oxford: Basil Blackwell.
-* Hellman, G., 1989, *Mathematics Without Numbers*, Oxford: Clarendon Press.
-* –––, 1998, “Maoist Mathematics?,” *Philosophia Mathematica*, 6: 334–45.
-* Heyting, A., 1956, *Intuitionism*, Amsterdam: North-Holland.
-* Hilbert, D., 1899, *Grundlagen der Geometrie*. Translated by E. Townsend as *Foundations of Geometry*, La Salle, IL: Open Court, 1959.
-* Hoffman, S., 2004, “Kitcher, Ideal Agents, and Fictionalism,” *Philosophia Mathematica*, 12: 3–17.
-* Hofweber, T., 2005, “Number Determiners, Numbers, and Arithmetic,” *The Philosophical Review*, 114: 179–225.
-* Horgan, T., 1984, “Science Nominalized,” *Philosophy of Science*, 51: 529–49.
-* Horwich, P., 1991, “On the Nature and Norms of Theoretical Commitment,” *Philosophy of Science*, 58: 1–14.
-* Husserl, E., 1891, *Philosophie der Arithmetik*, Leipzig: C.E.M. Pfeffer.
-* Katz, J., 1981, *Language and Other Abstract Objects*. Totowa, NJ: Rowman & Littlefield, and Oxford: Blackwell.
-* –––, 1998, *Realistic Rationalism*, Cambridge, MA: MIT Press.
-* Kitcher, P., 1984, *The Nature of Mathematical Knowledge*, Oxford: Oxford University Press.
-* Lear, J., 1982, “Aristotle’s Philosophy of Mathematics,” *The Philosophical Review*, 91: 161–92.
-* Leng, M., 2005a, “Revolutionary Fictionalism: A Call to Arms,” *Philosophia Mathematica*, 13: 277–93.
-* –––, 2005b, “Mathematical Explanation,” in *Mathematical Reasoning and Heuristics*, C. Cellucci and D. Gillies (eds.), London: King’s College Publications, pp. 167–89.
-* –––, 2010, *Mathematics and Reality*, Oxford: Oxford University Press.
-* Liggins, D., 2010, “The Autism Objection to Pretence Theory,” *Philosophical Quarterly*, 60: 764–82.
-* Linnebo, Ø., 2006, “Epistemological Challenges to Mathematical Platonism,” *Philosophical Studies*, 129: 545–74.
-* Linsky, B. and E. Zalta, “Naturalized Platonism and Platonized Naturalism,” *Journal of Philosophy*, 92: 525–55.
-* Liston, M., 2003–04, “Thin- and Full-Blooded Platonism,” *The Review of Modern Logic*, 9: 129–61.
-* Maddy, P., 1990, *Realism in Mathematics*, Oxford: Oxford University Press.
-* –––, 1995, “Naturalism and Ontology,” *Philosophia Mathematica*, 3: 248–70.
-* –––, 1997, *Naturalism in Mathematics*, Oxford: Clarendon Press.
-* Malament, D., 1982, *Review of Field, Science Without Numbers*, *Journal of Philosophy*, 79: 523–34.
-* Marcus, R., 2015, *Autonomy Platonism and the Indispensability Argument*, Lanham, MD: Rowman and Littlefield.
-* McEvoy, M., 2012, “Platonism and the ‘Epistemic Role Puzzle’,” *Philosophia Mathematica*, 20: 289–304.
-* Melia, J., 2000, “Weaseling Away the Indispensability Argument,” *Mind*, 109: 455–79.
-* –––, 2002, “Response to Colyvan,” *Mind*, 111: 75–79.
-* Moltmann, F., 2013, “Reference to Numbers in Natural Language,” *Philosophical Studies*, 162: 499–536.
-* Mortensen, C., 1998, “On the Possibility of Science Without Numbers,” *Australasian Journal of Philosophy*, 76: 182–97.
-* O’Leary-Hawthorne, J., 1994, “What Does van Fraassen’s Critique of Scientific Realism Show?,” *The Monist*, 77: 128–45.
-* Parsons, C., 1971, “Ontology and Mathematics,” *Philosophical Review*, 80: 151–76.
-* –––, 1990, “The Structuralist View of Mathematical Objects,” *Synthese*, 84: 303–46.
-* Plebani, M., 2018, “Fictionalism Versus Deflationism: A New Look,” *Philosophical Studies*, 175: 301–16.
+* Hale, R., 1987, _Abstract Objects_, Oxford: Basil Blackwell.
+* Hellman, G., 1989, _Mathematics Without Numbers_, Oxford: Clarendon Press.
+* –––, 1998, “Maoist Mathematics?,” _Philosophia Mathematica_, 6: 334–45.
+* Heyting, A., 1956, _Intuitionism_, Amsterdam: North-Holland.
+* Hilbert, D., 1899, _Grundlagen der Geometrie_. Translated by E. Townsend as _Foundations of Geometry_, La Salle, IL: Open Court, 1959.
+* Hoffman, S., 2004, “Kitcher, Ideal Agents, and Fictionalism,” _Philosophia Mathematica_, 12: 3–17.
+* Hofweber, T., 2005, “Number Determiners, Numbers, and Arithmetic,” _The Philosophical Review_, 114: 179–225.
+* Horgan, T., 1984, “Science Nominalized,” _Philosophy of Science_, 51: 529–49.
+* Horwich, P., 1991, “On the Nature and Norms of Theoretical Commitment,” _Philosophy of Science_, 58: 1–14.
+* Husserl, E., 1891, _Philosophie der Arithmetik_, Leipzig: C.E.M. Pfeffer.
+* Katz, J., 1981, _Language and Other Abstract Objects_. Totowa, NJ: Rowman & Littlefield, and Oxford: Blackwell.
+* –––, 1998, _Realistic Rationalism_, Cambridge, MA: MIT Press.
+* Kitcher, P., 1984, _The Nature of Mathematical Knowledge_, Oxford: Oxford University Press.
+* Lear, J., 1982, “Aristotle’s Philosophy of Mathematics,” _The Philosophical Review_, 91: 161–92.
+* Leng, M., 2005a, “Revolutionary Fictionalism: A Call to Arms,” _Philosophia Mathematica_, 13: 277–93.
+* –––, 2005b, “Mathematical Explanation,” in _Mathematical Reasoning and Heuristics_, C. Cellucci and D. Gillies (eds.), London: King’s College Publications, pp. 167–89.
+* –––, 2010, _Mathematics and Reality_, Oxford: Oxford University Press.
+* Liggins, D., 2010, “The Autism Objection to Pretence Theory,” _Philosophical Quarterly_, 60: 764–82.
+* Linnebo, Ø., 2006, “Epistemological Challenges to Mathematical Platonism,” _Philosophical Studies_, 129: 545–74.
+* Linsky, B. and E. Zalta, “Naturalized Platonism and Platonized Naturalism,” _Journal of Philosophy_, 92: 525–55.
+* Liston, M., 2003–04, “Thin- and Full-Blooded Platonism,” _The Review of Modern Logic_, 9: 129–61.
+* Maddy, P., 1990, _Realism in Mathematics_, Oxford: Oxford University Press.
+* –––, 1995, “Naturalism and Ontology,” _Philosophia Mathematica_, 3: 248–70.
+* –––, 1997, _Naturalism in Mathematics_, Oxford: Clarendon Press.
+* Malament, D., 1982, _Review of Field, Science Without Numbers_, _Journal of Philosophy_, 79: 523–34.
+* Marcus, R., 2015, _Autonomy Platonism and the Indispensability Argument_, Lanham, MD: Rowman and Littlefield.
+* McEvoy, M., 2012, “Platonism and the ‘Epistemic Role Puzzle’,” _Philosophia Mathematica_, 20: 289–304.
+* Melia, J., 2000, “Weaseling Away the Indispensability Argument,” _Mind_, 109: 455–79.
+* –––, 2002, “Response to Colyvan,” _Mind_, 111: 75–79.
+* Moltmann, F., 2013, “Reference to Numbers in Natural Language,” _Philosophical Studies_, 162: 499–536.
+* Mortensen, C., 1998, “On the Possibility of Science Without Numbers,” _Australasian Journal of Philosophy_, 76: 182–97.
+* O’Leary-Hawthorne, J., 1994, “What Does van Fraassen’s Critique of Scientific Realism Show?,” _The Monist_, 77: 128–45.
+* Parsons, C., 1971, “Ontology and Mathematics,” _Philosophical Review_, 80: 151–76.
+* –––, 1990, “The Structuralist View of Mathematical Objects,” _Synthese_, 84: 303–46.
+* Plebani, M., 2018, “Fictionalism Versus Deflationism: A New Look,” _Philosophical Studies_, 175: 301–16.
 * Putnam, H., 1967a, “Mathematics Without Foundations,” reprinted in Benacerraf and Putnam (1983), 295–311.
-* –––, 1967b, “The Thesis that Mathematics is Logic,” in *Bertrand Russell, Philosopher of the Century*, R. Schoenman (ed.), London: Allen and Unwin.
-* –––, 1971, *Philosophy of Logic*, New York: Harper and Row.
+* –––, 1967b, “The Thesis that Mathematics is Logic,” in _Bertrand Russell, Philosopher of the Century_, R. Schoenman (ed.), London: Allen and Unwin.
+* –––, 1971, _Philosophy of Logic_, New York: Harper and Row.
 * Quine, W.V.O., 1948, “On What There Is,” reprinted in Quine (1961), 1–19.
 * –––, 1951, “Two Dogmas of Empiricism,” reprinted in Quine (1961), 20–46.
-* –––, 1961, *From a Logical Point of View*, 2nd ed., New York: Harper and Row.
-* Rayo, A., 2008, “On Specifying Truth Conditions,” *Philosophical Studies*, 47: 163–181.
-* –––, 2013, *The Construction of Logical Space*, Oxford: Oxford University Press.
-* Resnik, M., 1985, “How Nominalist is Hartry Field’s Nominalism?” *The Philosophical Review*, 117: 385–443.
-* –––, 1997, *Mathematics as a Science of Patterns*, Oxford: Oxford University Press.
-* Rosen, G., 1990, “Modal Fictionalism,” *Mind*, 99: 327–54.
-* –––, 2001, “Nominalism, Naturalism, Epistemic Relativism,” in *Philosophical Topics*, 15: 60–91.
-* Russell, B., 1912, *The Problems of Philosophy*. Reprinted 1959, Oxford: Oxford University Press.
-* Shapiro, S., 1983, “Conservativeness and Incompleteness,” *Journal of Philosophy*, 80: 521–31.
-* –––, 1997, *Philosophy of Mathematics: Structure and Ontology*, New York: Oxford University Press.
-* Sober, E., 1993, “Mathematics and Indispensability,” *The Philosophical Review*, 102: 35–57.
-* Stanley, J., 2001, “Hermeneutic Fictionalism,” *Midwest Studies in Philosophy*, 25(1): 36–71.
-* Steiner, M., 1975, *Mathematical Knowledge*, Ithaca, NY: Cornell University Press.
-* Szabo, Z., 2001, “Fictionalism and Moore’s Paradox,” *Canadian Journal of Philosophy*, 31: 293–307.
-* Thomas, R., 2000, “Mathematics and Fiction I: Identification,” *Logique et Analyse*, 43: 301–40.
-* –––, 2002, “Mathematics and Fiction II: Analogy,” *Logique et Analyse*, 45: 185–228.
-* Thomasson, A., 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
-* –––, 2013, “Fictionalism Versus Deflationism,” *Mind*, 122: 1023–51.
-* van Fraassen, B., 1980, *The Scientific Image*, Oxford: Clarendon Press.
-* Walton, K., 1990, *Mimesis as Make-Believe*, Cambridge, MA: Harvard University Press.
-* Wittgenstein, L., 1956, *Remarks on the Foundations of Mathematics*, Oxford: Basil Blackwell.
-* Wright, C., 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen, Scotland: Aberdeen University Press.
-* Yablo, S., 2002a, “Go Figure: A Path Through Fictionalism,” *Midwest Studies in Philosophy*, 25: 72–102.
-* –––, 2002b, “Abstract Objects: A Case Study,” *Noûs*, 36 (Supplementary Volume 1): 220–240.
-* –––, 2005, “The Myth of the Seven,” in *Fictionalism in Metaphysics*, M. Kalderon (ed.), New York: Oxford University Press, pp. 88–115.
-* –––, 2012, “Explanation, Extrapolation, and Existence,” *Mind*, 121: 1007–29.
-* –––, 2017, “If-Thenism,” *Australasian Philosophical Review*, 1: 115–33.
-* Yi, B., 2002, *Understanding the Many*, New York and London: Routledge.
-* Zalta, E., 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: Bradford/MIT Press.
+* –––, 1961, _From a Logical Point of View_, 2nd ed., New York: Harper and Row.
+* Rayo, A., 2008, “On Specifying Truth Conditions,” _Philosophical Studies_, 47: 163–181.
+* –––, 2013, _The Construction of Logical Space_, Oxford: Oxford University Press.
+* Resnik, M., 1985, “How Nominalist is Hartry Field’s Nominalism?” _The Philosophical Review_, 117: 385–443.
+* –––, 1997, _Mathematics as a Science of Patterns_, Oxford: Oxford University Press.
+* Rosen, G., 1990, “Modal Fictionalism,” _Mind_, 99: 327–54.
+* –––, 2001, “Nominalism, Naturalism, Epistemic Relativism,” in _Philosophical Topics_, 15: 60–91.
+* Russell, B., 1912, _The Problems of Philosophy_. Reprinted 1959, Oxford: Oxford University Press.
+* Shapiro, S., 1983, “Conservativeness and Incompleteness,” _Journal of Philosophy_, 80: 521–31.
+* –––, 1997, _Philosophy of Mathematics: Structure and Ontology_, New York: Oxford University Press.
+* Sober, E., 1993, “Mathematics and Indispensability,” _The Philosophical Review_, 102: 35–57.
+* Stanley, J., 2001, “Hermeneutic Fictionalism,” _Midwest Studies in Philosophy_, 25(1): 36–71.
+* Steiner, M., 1975, _Mathematical Knowledge_, Ithaca, NY: Cornell University Press.
+* Szabo, Z., 2001, “Fictionalism and Moore’s Paradox,” _Canadian Journal of Philosophy_, 31: 293–307.
+* Thomas, R., 2000, “Mathematics and Fiction I: Identification,” _Logique et Analyse_, 43: 301–40.
+* –––, 2002, “Mathematics and Fiction II: Analogy,” _Logique et Analyse_, 45: 185–228.
+* Thomasson, A., 1999, _Fiction and Metaphysics_, Cambridge: Cambridge University Press.
+* –––, 2013, “Fictionalism Versus Deflationism,” _Mind_, 122: 1023–51.
+* van Fraassen, B., 1980, _The Scientific Image_, Oxford: Clarendon Press.
+* Walton, K., 1990, _Mimesis as Make-Believe_, Cambridge, MA: Harvard University Press.
+* Wittgenstein, L., 1956, _Remarks on the Foundations of Mathematics_, Oxford: Basil Blackwell.
+* Wright, C., 1983, _Frege’s Conception of Numbers as Objects_, Aberdeen, Scotland: Aberdeen University Press.
+* Yablo, S., 2002a, “Go Figure: A Path Through Fictionalism,” _Midwest Studies in Philosophy_, 25: 72–102.
+* –––, 2002b, “Abstract Objects: A Case Study,” _Noûs_, 36 (Supplementary Volume 1): 220–240.
+* –––, 2005, “The Myth of the Seven,” in _Fictionalism in Metaphysics_, M. Kalderon (ed.), New York: Oxford University Press, pp. 88–115.
+* –––, 2012, “Explanation, Extrapolation, and Existence,” _Mind_, 121: 1007–29.
+* –––, 2017, “If-Thenism,” _Australasian Philosophical Review_, 1: 115–33.
+* Yi, B., 2002, _Understanding the Many_, New York and London: Routledge.
+* Zalta, E., 1988, _Intensional Logic and the Metaphysics of Intentionality_, Cambridge, MA: Bradford/MIT Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=fictionalism-mathematics). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/fictionalism-mathematics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=fictionalism-mathematics&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/fictionalism-mathematics/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=fictionalism-mathematics).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/fictionalism-mathematics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=fictionalism-mathematics\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/fictionalism-mathematics/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [fictionalism](https://plato.stanford.edu/entries/fictionalism/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [mathematics, philosophy of: indispensability arguments in the](https://plato.stanford.edu/entries/mathphil-indis/) | [mathematics, philosophy of: nominalism](https://plato.stanford.edu/entries/nominalism-mathematics/) | [mathematics, philosophy of: Platonism](https://plato.stanford.edu/entries/platonism-mathematics/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [Platonism: in metaphysics](https://plato.stanford.edu/entries/platonism/) | [psychologism](https://plato.stanford.edu/entries/psychologism/)
+[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [fictionalism](https://plato.stanford.edu/entries/fictionalism/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [mathematics, philosophy of: indispensability arguments in the](https://plato.stanford.edu/entries/mathphil-indis/) | [mathematics, philosophy of: nominalism](https://plato.stanford.edu/entries/nominalism-mathematics/) | [mathematics, philosophy of: Platonism](https://plato.stanford.edu/entries/platonism-mathematics/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [Platonism: in metaphysics](https://plato.stanford.edu/entries/platonism/) | [psychologism](https://plato.stanford.edu/entries/psychologism/)
 
-[Copyright © 2018](https://plato.stanford.edu/info.html#c) by  
-Mark Balaguer <[*mbalagu@calstatela.edu*](mailto:mbalagu%40calstatela%2eedu)>
+[Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
+Mark Balaguer <[_mbalagu@calstatela.edu_](mailto:mbalagu%40calstatela%2eedu)>

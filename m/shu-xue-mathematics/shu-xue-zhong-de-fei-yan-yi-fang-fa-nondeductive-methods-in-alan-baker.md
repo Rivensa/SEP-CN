@@ -1,39 +1,34 @@
 # 数学中的非演绎方法 non-deductive methods in (Alan Baker)
 
-*首次发表于2009年8月17日；实质修订于2020年4月21日*
+_首次发表于2009年8月17日；实质修订于2020年4月21日_
 
 就目前而言，在数学中没有一个单一、明确定义的哲学子领域专门研究非演绎方法。在这里使用的术语包括一系列不同的哲学立场、方法和研究计划，它们的共同动机是认为（i）数学方法论中存在非演绎的方面，以及（ii）识别和分析这些方面具有哲学上的价值。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/mathematics-nondeductive/#Int)
-
+* [1. 引言](https://plato.stanford.edu/entries/mathematics-nondeductive/#Int)
   * [1.1 发现与证明的对比](https://plato.stanford.edu/entries/mathematics-nondeductive/#DisVerJus)
   * [1.2 非演绎方法与形式化](https://plato.stanford.edu/entries/mathematics-nondeductive/#DedFor)
   * [1.3 非演绎方法与基础](https://plato.stanford.edu/entries/mathematics-nondeductive/#DedFou)
 * [2. 非演绎方法的非演绎方面](https://plato.stanford.edu/entries/mathematics-nondeductive/#NonDedAspDedMet)
-
   * [2.1 非正式性的方面](https://plato.stanford.edu/entries/mathematics-nondeductive/#AspInf)
-
     * [2.1.1 半正式证明](https://plato.stanford.edu/entries/mathematics-nondeductive/#SemForPro)
     * [2.1.2 证明中的间隙](https://plato.stanford.edu/entries/mathematics-nondeductive/#GapPro)
-    * [ 2.1.3 图表](https://plato.stanford.edu/entries/mathematics-nondeductive/#Dia)
+    * [2.1.3 图表](https://plato.stanford.edu/entries/mathematics-nondeductive/#Dia)
   * [2.2 证明演绎](https://plato.stanford.edu/entries/mathematics-nondeductive/#JusDed)
-
     * [2.2.1 规则的证明](https://plato.stanford.edu/entries/mathematics-nondeductive/#JusRul)
     * [2.2.2 公理的地位](https://plato.stanford.edu/entries/mathematics-nondeductive/#StaAxi)
-  * [ 2.3 哥德尔的结果](https://plato.stanford.edu/entries/mathematics-nondeductive/#GodRes)
+  * [2.3 哥德尔的结果](https://plato.stanford.edu/entries/mathematics-nondeductive/#GodRes)
 * [3. 非演绎方法的替代方法](https://plato.stanford.edu/entries/mathematics-nondeductive/#AltNonDedMet)
-
   * [3.1 实验数学](https://plato.stanford.edu/entries/mathematics-nondeductive/#ExpMat)
   * [3.2 枚举归纳](https://plato.stanford.edu/entries/mathematics-nondeductive/#EnuInd)
-  * [ 3.3 计算机证明](https://plato.stanford.edu/entries/mathematics-nondeductive/#ComPro)
+  * [3.3 计算机证明](https://plato.stanford.edu/entries/mathematics-nondeductive/#ComPro)
   * [3.4 概率证明](https://plato.stanford.edu/entries/mathematics-nondeductive/#ProPro)
 * [4. 总结/结论](https://plato.stanford.edu/entries/mathematics-nondeductive/#SumCon)
-* [ 参考文献](https://plato.stanford.edu/entries/mathematics-nondeductive/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mathematics-nondeductive/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/mathematics-nondeductive/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/mathematics-nondeductive/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/mathematics-nondeductive/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mathematics-nondeductive/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/mathematics-nondeductive/#Rel)
 
----
+***
 
 ## 1. 引言
 
@@ -57,13 +52,13 @@
 
 缩小一般性主张的一种方法是利用熟知（尽管不完全没有问题）的“发现背景”和“证明背景”之间的区别。一方面，这种区别可能允许在 Lakatos 的批评面前维持传统的演绎主义观点，通过认为 Lakatos 所指的是数学中的发现背景。在证明背景中，从公理推导结果仍然是正确和完整的故事。数学家对 Lakatos 观点的一些反应具有这种性质，例如 Morris Kline 在写给 Lakatos 的信中的以下评论：
 
-> 我确实相信我们需要更多强调数学的发现方面的文献。正如你所知道和暗示的那样，所有的强调都在于数学的演绎结构，给学生的印象是从旧结论推导出新结论。[1]
+> 我确实相信我们需要更多强调数学的发现方面的文献。正如你所知道和暗示的那样，所有的强调都在于数学的演绎结构，给学生的印象是从旧结论推导出新结论。\[1]
 
 在拉卡托斯的作品中，也可以找到类似的观点，这些观点在波利亚的作品中也有所体现，波利亚对拉卡托斯产生了重大影响：
 
-> 研究解决问题的方法，我们可以看到数学的另一面。是的，数学有两个面孔；它是欧几里得的严谨科学，但它也是其他的东西。以欧几里得的方式呈现的数学是一门系统的、演绎的科学，但在创造中的数学则是一门实验的、归纳的科学。（波利亚 1945 年，vii）[原文斜体]
+> 研究解决问题的方法，我们可以看到数学的另一面。是的，数学有两个面孔；它是欧几里得的严谨科学，但它也是其他的东西。以欧几里得的方式呈现的数学是一门系统的、演绎的科学，但在创造中的数学则是一门实验的、归纳的科学。（波利亚 1945 年，vii）\[原文斜体]
 
-相反，为了对熟悉的演绎主义立场提出真正的挑战，反对主张需要声称非演绎方法在数学结果的证明中起到了作用（帕索 2015 年）。因此，在本次调查的剩余部分将主要关注证明性的背景。[2]
+相反，为了对熟悉的演绎主义立场提出真正的挑战，反对主张需要声称非演绎方法在数学结果的证明中起到了作用（帕索 2015 年）。因此，在本次调查的剩余部分将主要关注证明性的背景。\[2]
 
 ### 1.2 非演绎方法和形式化
 
@@ -111,12 +106,9 @@
 
 无论我们如何描述间断，不可否认的是，大多数数学家提出的实际证明都存在间断。Don Fallis 在他的著作（2003 年）中提出了一种证明间断的分类法：
 
-1. 推理间断
-    “每当数学家心中所想的特定命题序列（作为证明）不是一个证明时，数学家就留下了一个推理间隙”（Fallis 2003，53）。
-2. 隐含推理间隙
-    “每当数学家没有明确陈述他心中所想的特定命题序列时，他就留下了一个隐含推理间隙”（Fallis 2003，54）。[4]
-3. 未经穿越的间隙
-    “每当数学家没有直接尝试验证他心中的每个命题（作为证明）是否通过基本数学推理从前面的命题中推导出来时，他就留下了一个未经穿越的间隙”（Fallis 2003, 56–7）。
+1. 推理间断 “每当数学家心中所想的特定命题序列（作为证明）不是一个证明时，数学家就留下了一个推理间隙”（Fallis 2003，53）。
+2. 隐含推理间隙 “每当数学家没有明确陈述他心中所想的特定命题序列时，他就留下了一个隐含推理间隙”（Fallis 2003，54）。\[4]
+3. 未经穿越的间隙 “每当数学家没有直接尝试验证他心中的每个命题（作为证明）是否通过基本数学推理从前面的命题中推导出来时，他就留下了一个未经穿越的间隙”（Fallis 2003, 56–7）。
 
 除了这项分类工作，Fallis 还提出了一个哲学命题，即证明中的间隙不一定是一件坏事。在上述(iii)的基础上，他引入了普遍未经穿越的间隙的概念，换句话说，这是一个没有被数学界任何成员填补的间隙。Fallis 声称这样的间隙并不罕见，并且至少有些时候包含这些间隙的证明在数学家的证明背景下被接受。这个观点在 Andersen（2018）的最新研究中得到了证实。
 
@@ -144,7 +136,7 @@ Delariviere 和 Van Kerkhove（2017）指出，然而，虽然计算机方法在
 
 #### 2.2.1 推理规则的证明
 
-从某种意义上说，给一些偏爱的推理规则提供演绎证明似乎相当直接。例如，可以证明如果假设的前提是真的，那么假设的结论也必须是真的。问题在于，这样的证明通常使用了它们试图证明的规则。在上述情况中：如果将 Modus Ponens 应用于真前提，则结论为真；将 Modus Ponens 应用于真前提；因此结论为真。Haack（1976）和其他人争论这种循环是否是恶性的。一个关键的考虑因素是是否可以为无效的规则提供类似的“证明”，例如 Prior 的“tonk”的引入和消除规则，这些规则也具有使用规则来证明自身的特点。[5]（一个密切相关的问题可以追溯到刘易斯·卡罗尔和他的经典论文（1895 年））。
+从某种意义上说，给一些偏爱的推理规则提供演绎证明似乎相当直接。例如，可以证明如果假设的前提是真的，那么假设的结论也必须是真的。问题在于，这样的证明通常使用了它们试图证明的规则。在上述情况中：如果将 Modus Ponens 应用于真前提，则结论为真；将 Modus Ponens 应用于真前提；因此结论为真。Haack（1976）和其他人争论这种循环是否是恶性的。一个关键的考虑因素是是否可以为无效的规则提供类似的“证明”，例如 Prior 的“tonk”的引入和消除规则，这些规则也具有使用规则来证明自身的特点。\[5]（一个密切相关的问题可以追溯到刘易斯·卡罗尔和他的经典论文（1895 年））。
 
 #### 2.2.2 公理的地位
 
@@ -188,23 +180,23 @@ Borwein 和 Bailey 使用计算机计算了小于 1000 的正整数的平方根�
 
 在 1742 年写给欧拉的一封信中，克里斯蒂安·戈尔德巴赫猜想所有大于 2 的偶数都可以表示为两个质数的和。在接下来的两个半世纪里，数学家们一直无法证明戈尔德巴赫猜想。然而，它已经被验证了数十亿次，并且数学家们普遍认为这个猜想很可能是真实的。下面是一个部分列表（截至 2007 年 10 月），显示了已经检查并符合 GC 的偶数的数量级。
 
-| Bound     | Date | Author           |
-| ----------- | ------ | ------------------ |
-| 1 × 103  | 1742 | Euler            |
-| 1 × 104  | 1885 | Desboves         |
-| 1 × 105  | 1938 | Pipping          |
-| 1 × 108  | 1965 | 斯坦和斯坦       |
-| 2 × 1010 | 1989 | Granville        |
-| 1 × 1014 | 1998 | Deshouillers     |
-| 1 × 1018 | 2007 | 奥利维拉和席尔瓦 |
+| Bound    | Date | Author       |
+| -------- | ---- | ------------ |
+| 1 × 103  | 1742 | Euler        |
+| 1 × 104  | 1885 | Desboves     |
+| 1 × 105  | 1938 | Pipping      |
+| 1 × 108  | 1965 | 斯坦和斯坦        |
+| 2 × 1010 | 1989 | Granville    |
+| 1 × 1014 | 1998 | Deshouillers |
+| 1 × 1018 | 2007 | 奥利维拉和席尔瓦     |
 
-尽管自 20 世纪 60 年代初引入数字计算机以来，个别正面 GC 实例的积累已经非常庞大，并且随着计算速度的迅速增加，但至今尚未找到 GC 的证明。不仅如此，但很少有数论学家对即将出现的任何证明持乐观态度。菲尔兹奖得主艾伦·贝克在 2000 年的一次采访中说：“如果没有重大突破，我们不太可能在[证明 GC]方面取得进一步的进展。不幸的是，目前没有这样的重大想法。”同样在 2000 年，出版商 Faber and Faber 在 2000 年 3 月 20 日至 2002 年 3 月 20 日期间向任何能够证明 GC 的人提供了 100 万美元的奖金，他们相信自己的钱相对安全。
+尽管自 20 世纪 60 年代初引入数字计算机以来，个别正面 GC 实例的积累已经非常庞大，并且随着计算速度的迅速增加，但至今尚未找到 GC 的证明。不仅如此，但很少有数论学家对即将出现的任何证明持乐观态度。菲尔兹奖得主艾伦·贝克在 2000 年的一次采访中说：“如果没有重大突破，我们不太可能在\[证明 GC]方面取得进一步的进展。不幸的是，目前没有这样的重大想法。”同样在 2000 年，出版商 Faber and Faber 在 2000 年 3 月 20 日至 2002 年 3 月 20 日期间向任何能够证明 GC 的人提供了 100 万美元的奖金，他们相信自己的钱相对安全。
 
 使得这种情况特别有趣的是，数学家们长期以来对 GC 的真实性非常有信心。Hardy 和 Littlewood 在 1922 年就断言，“对于该定理的正确性没有合理的怀疑”，而 Echeverria 在最近的一篇综述文章中写道，“数学家对 GC 的真实性的确定性是完全的”（Echeverria 1996, 42）。此外，对 GC 真实性的这种信心通常明确地与归纳证据相关联：例如，G.H. Hardy 将支持 GC 真实性的数值证据描述为“压倒性的”。因此，合理地可以得出结论，数学家对 GC 的信念的基础是列举归纳证据。
 
 数学案例的一个独特特征可能会对列举归纳的证明力产生影响，那就是顺序的重要性。在给定的数学假设下的实例（至少在数论中）具有内在的顺序，并且在这个顺序中的位置对涉及的数学属性可能产生关键性的影响。正如 Frege 在谈到数学时所写的那样：
 
-> [T]he ground [is] unfavorable for induction; for here there is none of that uniformity which in other fields can give the method a high degree of reliability.（Frege，《算术的基础》）
+> \[T]he ground \[is] unfavorable for induction; for here there is none of that uniformity which in other fields can give the method a high degree of reliability.（Frege，《算术的基础》）
 
 弗雷格接着引用了莱布尼茨的观点，他认为大小的差异会导致数字之间的各种其他相关差异：
 
@@ -214,17 +206,17 @@ Borwein 和 Bailey 使用计算机计算了小于 1000 的正整数的平方根�
 
 > 在普通归纳中，我们经常充分利用这样一个命题：空间中的每个位置和时间中的每个时刻本身都是一样好的。... 数字序列中的位置不像空间中的位置那样无关紧要。（弗雷格，《算术的基础》）
 
-正如弗雷格的言论所暗示的那样，支持反对在数学中使用枚举归纳的一种方法是通过某种非均匀性原则：在没有证明的情况下，我们不应该期望（一般而言）数字具有任何有趣的属性。因此，证明某个特定数字具有某个属性并不能给出任何理由认为第二个任意选择的数字也具有该属性。[8]与休谟所建议的唯一基础归纳的均匀性原则相反，我们几乎完全相反的原则！从这个原则可以推断出，枚举归纳是不合理的，因为我们不应该期望（有限的）从自然数的总体中取样的样本能够反映出普遍属性。
+正如弗雷格的言论所暗示的那样，支持反对在数学中使用枚举归纳的一种方法是通过某种非均匀性原则：在没有证明的情况下，我们不应该期望（一般而言）数字具有任何有趣的属性。因此，证明某个特定数字具有某个属性并不能给出任何理由认为第二个任意选择的数字也具有该属性。\[8]与休谟所建议的唯一基础归纳的均匀性原则相反，我们几乎完全相反的原则！从这个原则可以推断出，枚举归纳是不合理的，因为我们不应该期望（有限的）从自然数的总体中取样的样本能够反映出普遍属性。
 
 在 GC 和数学归纳的所有其他情况中，一个可能更严重的问题是我们所看到的样本是有偏见的。首先要注意的是，所有已知的 GC 实例（实际上所有可能知道的实例）在重要意义上都是小的。
 
 > 从非常实际的意义上说，没有大数：任何明确的整数都可以说是“小”。实际上，无论你写下多少位数或指数的塔，都只有有限多个比你的候选数小的自然数，而有无限多个比它大的自然数（Crandall 和 Pomerance 2001，2）。
 
-当然，简单地抱怨所有 GC 的实例都是有限的是错误的。毕竟，每个数都是有限的，所以如果 GC 对所有有限数成立，那么 GC 就是成立的[9]。但我们可以确定一种更极端的小的意义，可以称之为微小。
+当然，简单地抱怨所有 GC 的实例都是有限的是错误的。毕竟，每个数都是有限的，所以如果 GC 对所有有限数成立，那么 GC 就是成立的\[9]。但我们可以确定一种更极端的小的意义，可以称之为微小。
 
 > 定义：一个正整数 n 是微小的，当且仅当 n 在我们可以使用普通十进制表示法（包括（非迭代）指数运算）写下的数字范围内。
 
-迄今为止，已经验证的GC实例不仅很小，而且微小。而微小性，虽然承认定义模糊，但已知会产生差异。例如，考虑对数估计的素数密度（即小于给定n的数中素数的比例），已知对于足够大的n，它会低估。设n*是第一个对数估计过小的数。如果黎曼猜想成立，那么可以证明n*的上界（第一个Skewes数）为8 × 10370。尽管这是一个令人印象深刻的大数，但根据上述定义，它仍然是微小的。然而，如果黎曼猜想为假，则我们已知的n*的上界（第二个Skewes数）是10↑10↑10↑10↑3.[10]在这里需要发明一个“箭头”符号来表示这个数告诉我们它并不微小。因此，这个结果的第二部分，虽然承认条件是一个被认为不太可能的结果（即RH的错误），但意味着存在一个对所有微小数都成立但对所有数都不成立的属性。微小性可以产生差异。
+迄今为止，已经验证的GC实例不仅很小，而且微小。而微小性，虽然承认定义模糊，但已知会产生差异。例如，考虑对数估计的素数密度（即小于给定n的数中素数的比例），已知对于足够大的n，它会低估。设n_是第一个对数估计过小的数。如果黎曼猜想成立，那么可以证明n_的上界（第一个Skewes数）为8 × 10370。尽管这是一个令人印象深刻的大数，但根据上述定义，它仍然是微小的。然而，如果黎曼猜想为假，则我们已知的n\*的上界（第二个Skewes数）是10↑10↑10↑10↑3.\[10]在这里需要发明一个“箭头”符号来表示这个数告诉我们它并不微小。因此，这个结果的第二部分，虽然承认条件是一个被认为不太可能的结果（即RH的错误），但意味着存在一个对所有微小数都成立但对所有数都不成立的属性。微小性可以产生差异。
 
 数论家对 GC 的真实性似乎有着极大的信心。Echeverria（1996）讨论了康托尔在 1894 年发表的一张 Goldbach 分割函数 G(n)的值表，其中 n 从 2 到 1000（Echeverria 1996,29-30）。分割函数用于衡量给定（偶数）数能够以两个质数之和的不同方式表示的数量。因此，G(4) = 1，G(6) = 1，G(8) = 1，G(10) = 2，等等。这种关注点的转移与数学家对 GC 的信心的显著增加相吻合。康托尔的工作表明，随着 n 的增加，G(n)倾向于增加。注意，在这个背景下，GC 的含义是 G(n)对于任何大于 2 的偶数 n 都不会取值为 0。分割函数的数据给人的压倒性印象是，GC 在某些大的 n 上失败的可能性非常小。例如，对于大约 100,000 的数，每个偶数都至少有 500 种不同的方式可以表示为两个质数的和！
 
@@ -247,9 +239,9 @@ Borwein 和 Bailey 使用计算机计算了小于 1000 的正整数的平方根�
 
 这里还有一段类似风格的数学家多伦·泽尔贝格的引文：
 
-> [T]raditional experimental mathematics … has been pursued by all the great, and less-great, mathematicians through the centuries, using pencil-and-paper. (Gallian and Pearson 2007, 14)
+> \[T]raditional experimental mathematics … has been pursued by all the great, and less-great, mathematicians through the centuries, using pencil-and-paper. (Gallian and Pearson 2007, 14)
 
-似乎可以说，将实验数学与计算机使用相结合，与当代实验数学家所做的事情相吻合，但与他们所说的事情不太吻合。[11]
+似乎可以说，将实验数学与计算机使用相结合，与当代实验数学家所做的事情相吻合，但与他们所说的事情不太吻合。\[11]
 
 提出的表征的第二个问题更具哲学性质。考虑与哥德巴赫猜想相关的另一个广泛引用的实验数学例子。截至 2007 年 4 月，已经验证了所有小于 1018 的偶数符合 GC，并且该项目（在 Oliveira e Silva 的指导下）正在进行中。这个庞大的计算任务通常被认为是实验数学的典范例子。而且很明显，计算机在这里发挥了至关重要的作用：没有数学家或一组数学家能够希望手工复制 1018 次计算。
 
@@ -259,7 +251,7 @@ Borwein 和 Bailey 使用计算机计算了小于 1000 的正整数的平方根�
 
 > 证明是一种可以被理性主体审视、审查、验证的构造。我们经常说证明必须是明晰的，或者可以被手工检查。它是一个展示，一个推导出结论的过程，它本身不需要任何外部因素来令人信服。数学家会全面审视证明，从而了解结论。（Tymoczko 1979，59）
 
-为了论证的目的，假设所讨论的计算机证明在演绎上是正确的，但在上述意义上也是不可监督的。我们决定依赖计算机的输出是否构成一种非演绎方法？一种观察这种例子的方式是将演绎方法与我们对该方法结果的非演绎访问之间拉开差距。例如，通过专家数学家（具有良好的记录）告知某个特定的数学结果。这是一种“非演绎方法”吗？[12]
+为了论证的目的，假设所讨论的计算机证明在演绎上是正确的，但在上述意义上也是不可监督的。我们决定依赖计算机的输出是否构成一种非演绎方法？一种观察这种例子的方式是将演绎方法与我们对该方法结果的非演绎访问之间拉开差距。例如，通过专家数学家（具有良好的记录）告知某个特定的数学结果。这是一种“非演绎方法”吗？\[12]
 
 ### 3.4 概率证明
 
@@ -283,88 +275,88 @@ Borwein 和 Bailey 使用计算机计算了小于 1000 的正整数的平方根�
 
 ## Bibliography
 
-* Adleman, L., 1994, “Molecular Computation of Solutions to Combinatorial Problems”, *Science*, CCLXVI: 1021–1024.
-* Andersen, L., 2018, “Acceptable Gaps in Mathematical Proofs”, *Synthese*, URL = <https://doi.org/10.1007/s11229-018-1778-8>.
-* Avigad, J., 2006, “Mathematical Method and Proof”, *Synthese*, 153: 105–159.
-* –––, 2007, “5 Questions”, in *Philosophy of Mathematics: 5 Questions*, V. Hendricks & H. Leitgeb (ed.), Copenhagen: Automatic Press, p 1–10.
-* Azzouni, J., 2013, “The Relationship of Derivations in Artificial Languages to Ordinary Rigorous Mathematical Proof”, *Philosophia Mathematica*, 21: 247–254.
-* –––, 2013, “That We See that Some Diagrammatic Proofs are Perfectly Rigorous”, *Philosophia Mathematica*, 21: 323–338.
-* Baker, A., 2007, “Is There a Problem of Induction for Mathematics?”, in *Mathematical Knowledge*, M. Leng, A. Paseau, & M. Potter (eds.), Oxford: Oxford University Press, pp. 59–73
-* –––, 2008, “Experimental Mathematics”, *Erkenntnis*, 68: 331–344.
-* Berry, D., 2016, “Proof and the Virtues of Shared Enquiry”, *Philosophia Mathematica*, 26: 112–130.
-* –––, 2019, “Should Mathematicians Play Dice?”, *Logique et Analyse*, 246: 135–160.
-* Borwein, J., & D. Bailey, 2003, *Mathematics by Experiment: Plausible Reasoning for the 21st Century*, Natick, MA: A K Peters.
-* –––, 2004, *Experimentation in Mathematics: Computational Paths to Discovery*, Natick, MA: AK Peters.
-* –––, 2015, “Experimental Mathematics as an Ontological Game Changer: the Impact of Modern Mathematical Computation Tools on the Ontology of Mathematics”, in *Mathematics, Substance and Surmise*, E. Davis & P. Davis (eds.), Springer, pp. 25–68.
-* Brown, J., 2008, *Philosophy of Mathematics: a Contemporary Introduction to the World of Proofs and Pictures*, 2nd Edition, New York: Routledge.
-* Burgess, J., 1992, “Proofs about Proofs: a Defense of Classical Logic. Part 1: the Aims of Classical Logic”, in *Proof, Logic and Formalization*, M. Detlefsen (ed.), London and New York: Routledge, pp. 8–23.
-* Carroll, L. [C. L. Dodgson], 1895, “What the Tortoise Said to Achilles,”, *Mind*, 4: 278–280.
-* Corfield, D., 2003, *Towards a Philosophy of Real Mathematics*, Cambridge: Cambridge University Press.
-* Courant, R., & H. Robbins, 1941, *What Is Mathematics?*, Oxford: Oxford University Press.
-* Crandall, R., & C. Pomerance, 2001, *Prime Numbers: a Computational Perspective*, New York: Springer-Verlag.
-* De Toffoli, S., & V. Giardino, 2014, “Forms and Roles of Diagrams in Knot Theory”, *Erkenntnis*, 79(4): 829–842.
-* De Toffoli, S., 2017, “‘Chasing’ the Diagram: the Use of Visualizations in Algebraic Reasoning”, *Review of Symbolic Logic*, 10: 158–186.
-* Delariviere, S.,& Van Kerkhove, B., 2017, “The Artificial Mathematician Objection: Exploring the (Im)possibility of Automating Mathematical Understanding”, in *Humanizing Mathematics and its Philosophy*, B. Sriraman (ed.), Springer International Publishing, pp. 173–198.
-* Descartes, R., 1627–28, *Rules for the Direction of the Mind*, in *Descartes: Selections*, R. Eaton (tr.), New York: Charles Scribner’s Sons, 1927, pp. 38–83.
-* Detlefsen, M. (ed.), 1992, *Proof, Logic and Formalization*, London and New York: Routledge.
-* Dummett, M., 1978, “Wang’s Paradox”, in *Truth and Other Enigmas*, London: Duckworth, pp. 248–268.
-* Easwaran, K., 2005, “The Role of Axioms in Mathematics”, *Erkenntnis*, 68: 381–391.
-* –––, 2009, “Probabilistic Proofs and Transferability”, *Philosophia Mathematica*, 17: 341–362.
-* Echeverria, J., 1996, “Empirical Methods in Mathematics. A Case-Study: Goldbach’s Conjecture”, in *Spanish Studies in the Philosophy of Science*, G. Munévar (ed.) , Dordrecht: Kluwer, pp. 19–55.
-* Fallis, D., 1997, “The Epistemic Status of Probabilistic Proof”, *Journal of Philosophy*, 94(4): 165–186.
-* –––, 2002, “What Do Mathematicians Want? Probabilistic Proofs and the Epistemic Goals of Mathematicians”, *Logique et Analyse*, 45: 373–388.
-* –––, 2003, “Intentional Gaps in Mathematical Proofs”, *Synthese*, 134: 45–69.
-* –––, 2011, “Probabilistic Proofs and the Collective Epistemic Goals of Mathematicians”, in *Collective Epistemology*, H.B. Schmid, D. Sirtes & M. Weber (eds.), Ontos Verlag, pp. 157–176.
-* Fontanella, L., 2019, “How to Choose New Axioms for Set Theory?”, in *Reflections on the Foundations of Mathematics*, D. Sarikaya, D. Kant & S. Centrone (eds.), Springer Verlag.
-* Franklin, J., 1987, “Non-Deductive Logic in Mathematics”, *British Journal for the Philosophy of Science*, 38: 1–18.
-* Frege, G., 1884, *Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl*, Breslau: W. Koebner. Translated as *The Foundations of Arithmetic: A logico-mathematical enquiry into the concept of number*, by J.L. Austin, Oxford: Blackwell, second revised edition, 1974. Reprinted 1980.
-* Gallian, J., & M. Pearson, 2007, “An Interview with Doron Zeilberger”, *FOCUS* (the newsletter of the Mathematical Association of America), 27(5): 14–17.
-* Giaquinto, M., 2007, *Visual Thinking in Mathematics: an Epistemological Study*, Oxford: Oxford University Press.
-* Gonthier, G., et al., 2008, “Formal Proof – The Four-Color Theorem”, *Notices of the American Mathematical Society*, 55(11): 1382–1393.
-* Gonthier, G., 2013, “A Machine-Checked Proof of the Odd Order Theorem”, in *Interactive Theorem Proving: 4th International Conference Proceedings*, S. Blazy, C. Paulin-Mohring & D. Pichardie (eds.), Berlin / Heidelberg: Springer-Verlag, pp. 163–179.
-* Haack, S., 1976, “The Justification of Deduction”, *Mind*, 85: 112–119.
-* Jackson, J., 2009, “Randomized Arguments are Transferable”, *Philosophia Mathematica*, 17: 363–368.
-* Lakatos, I., 1976, *Proofs and Refutations*, Cambridge: Cambridge University Press.
-* –––, 1980, “What Does a Mathematical Proof Prove?”, in *Mathematics, Science and Epistemology* (Imre Lakatos: Philosophical Papers, Volume 2), J. Worrall & G. Currie (eds.), Cambridge: Cambridge University Press, pp. 61–69.
-* Lingamneni, S., 2017, “Can we Resolve the Continuum Hypothesis?”, *Synthese*, URL = < [https://doi.org/10.1007/s11229-017-1648-9](https://doi.org/10.1007/s11229-017-1648-9)>.
-* Maddy, P., 1988, “Believing the Axioms. I & II”, *Journal of Symbolic Logic*, 53(2): 481–511, 736–764.
-* –––, 1997, *Naturalism in Mathematics*, Oxford: Oxford University Press.
-* –––, 2001, “Some Naturalistic Remarks on Set Theoretic Method”, *Topoi*, 20: 17–27.
-* –––, 2011, *Defending the Axioms: On the Philosophical Foundations of Set Theory*, Oxford: Oxford University Press.
-* Mancosu, P., 2008, “Mathematical Explanation: Why it Matters”, in *The Philosophy of Mathematical Practice*, P. Mancosu (ed.), Oxford: Oxford University Press, pp. 134–149.
-* McEvoy, M., 2008, “The Epistemological Status of Computer Proofs”, *Philosophia Mathematica*, 16: 374–387.
-* –––, 2013, “Experimental Mathematics, Computers and the A Priori”, *Synthese*, 190: 397–412.
-* Mumma, J., 2010, “Proofs, Pictures, and Euclid”, *Synthese*, 175: 255–287.
-* Paseau, A., 2015, “Knowledge of Mathematics without Proof”, *British Journal for the Philosophy of Science*, 66: 775–799.
-* Pólya, G., 1945, *How to Solve It*, Princeton: Princeton University Press.
-* Schlimm, D., 2013, “Axioms in Mathematical Practice”, *Philosophia Mathematica*, 21: 37–92.
-* Shin, S., & O. Lemon, 2008, “Diagrams”, The Stanford Encyclopedia of Philosophy (Winter 2008 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2008/entries/diagrams/>.
-* Sorensen, H.K., 2010, “Exploratory Experimentation in Experimental Mathematics: a Glimpse at the PSLQ Algorithm”, in *Philosophy of Mathematics: Sociological Aspects and Mathematical Practice*, B. Lowe & T. Muller (eds.), London: College Publications, pp. 341–360.
-* –––, 2016, “‘The End of Proof’? The Integration of Different Mathematical Cultures as Experimental Mathematics Comes of Age”, in *Mathematical Cultures*, B. Larvor (ed.), Cham: Birkhauser, pp. 139–160.
-* Steiner, M., 1993, “Review of *Proof, Logic and Formalization*”, *Journal of Symbolic Logic*, 58(4): 1459–1462.
-* Tennant, N., 2005, “Rule Circularity and the Justification of Deduction”, *Philosophical Quarterly*, 55: 625–648.
-* te Riele, H., 1987, “On the Sign of the Difference p(*x*)–Li(*x*)”, *Mathematics of Computation*, 48: 323–328.
-* Tymoczko, T., 1979, “The Four-Color Problem and Its Philosophical Significance”, *Journal of Philosophy*, 76(2): 57–83.
-* van Bendegem, J., 1998, “What, if Anything, is an Experiment in Mathematics?”, in *Philosophy and the Many Faces of Science*, D. Anapolitanos, et al. (eds.), London: Rowman & Littlefield, pp. 172–182.
-* van Kerkhove, B., & J. van Bendegem, 2008, “Pi on Earth”, *Erkenntnis*, 68: 421–435.
+* Adleman, L., 1994, “Molecular Computation of Solutions to Combinatorial Problems”, _Science_, CCLXVI: 1021–1024.
+* Andersen, L., 2018, “Acceptable Gaps in Mathematical Proofs”, _Synthese_, URL = [https://doi.org/10.1007/s11229-018-1778-8](https://doi.org/10.1007/s11229-018-1778-8).
+* Avigad, J., 2006, “Mathematical Method and Proof”, _Synthese_, 153: 105–159.
+* –––, 2007, “5 Questions”, in _Philosophy of Mathematics: 5 Questions_, V. Hendricks & H. Leitgeb (ed.), Copenhagen: Automatic Press, p 1–10.
+* Azzouni, J., 2013, “The Relationship of Derivations in Artificial Languages to Ordinary Rigorous Mathematical Proof”, _Philosophia Mathematica_, 21: 247–254.
+* –––, 2013, “That We See that Some Diagrammatic Proofs are Perfectly Rigorous”, _Philosophia Mathematica_, 21: 323–338.
+* Baker, A., 2007, “Is There a Problem of Induction for Mathematics?”, in _Mathematical Knowledge_, M. Leng, A. Paseau, & M. Potter (eds.), Oxford: Oxford University Press, pp. 59–73
+* –––, 2008, “Experimental Mathematics”, _Erkenntnis_, 68: 331–344.
+* Berry, D., 2016, “Proof and the Virtues of Shared Enquiry”, _Philosophia Mathematica_, 26: 112–130.
+* –––, 2019, “Should Mathematicians Play Dice?”, _Logique et Analyse_, 246: 135–160.
+* Borwein, J., & D. Bailey, 2003, _Mathematics by Experiment: Plausible Reasoning for the 21st Century_, Natick, MA: A K Peters.
+* –––, 2004, _Experimentation in Mathematics: Computational Paths to Discovery_, Natick, MA: AK Peters.
+* –––, 2015, “Experimental Mathematics as an Ontological Game Changer: the Impact of Modern Mathematical Computation Tools on the Ontology of Mathematics”, in _Mathematics, Substance and Surmise_, E. Davis & P. Davis (eds.), Springer, pp. 25–68.
+* Brown, J., 2008, _Philosophy of Mathematics: a Contemporary Introduction to the World of Proofs and Pictures_, 2nd Edition, New York: Routledge.
+* Burgess, J., 1992, “Proofs about Proofs: a Defense of Classical Logic. Part 1: the Aims of Classical Logic”, in _Proof, Logic and Formalization_, M. Detlefsen (ed.), London and New York: Routledge, pp. 8–23.
+* Carroll, L. \[C. L. Dodgson], 1895, “What the Tortoise Said to Achilles,”, _Mind_, 4: 278–280.
+* Corfield, D., 2003, _Towards a Philosophy of Real Mathematics_, Cambridge: Cambridge University Press.
+* Courant, R., & H. Robbins, 1941, _What Is Mathematics?_, Oxford: Oxford University Press.
+* Crandall, R., & C. Pomerance, 2001, _Prime Numbers: a Computational Perspective_, New York: Springer-Verlag.
+* De Toffoli, S., & V. Giardino, 2014, “Forms and Roles of Diagrams in Knot Theory”, _Erkenntnis_, 79(4): 829–842.
+* De Toffoli, S., 2017, “‘Chasing’ the Diagram: the Use of Visualizations in Algebraic Reasoning”, _Review of Symbolic Logic_, 10: 158–186.
+* Delariviere, S.,& Van Kerkhove, B., 2017, “The Artificial Mathematician Objection: Exploring the (Im)possibility of Automating Mathematical Understanding”, in _Humanizing Mathematics and its Philosophy_, B. Sriraman (ed.), Springer International Publishing, pp. 173–198.
+* Descartes, R., 1627–28, _Rules for the Direction of the Mind_, in _Descartes: Selections_, R. Eaton (tr.), New York: Charles Scribner’s Sons, 1927, pp. 38–83.
+* Detlefsen, M. (ed.), 1992, _Proof, Logic and Formalization_, London and New York: Routledge.
+* Dummett, M., 1978, “Wang’s Paradox”, in _Truth and Other Enigmas_, London: Duckworth, pp. 248–268.
+* Easwaran, K., 2005, “The Role of Axioms in Mathematics”, _Erkenntnis_, 68: 381–391.
+* –––, 2009, “Probabilistic Proofs and Transferability”, _Philosophia Mathematica_, 17: 341–362.
+* Echeverria, J., 1996, “Empirical Methods in Mathematics. A Case-Study: Goldbach’s Conjecture”, in _Spanish Studies in the Philosophy of Science_, G. Munévar (ed.) , Dordrecht: Kluwer, pp. 19–55.
+* Fallis, D., 1997, “The Epistemic Status of Probabilistic Proof”, _Journal of Philosophy_, 94(4): 165–186.
+* –––, 2002, “What Do Mathematicians Want? Probabilistic Proofs and the Epistemic Goals of Mathematicians”, _Logique et Analyse_, 45: 373–388.
+* –––, 2003, “Intentional Gaps in Mathematical Proofs”, _Synthese_, 134: 45–69.
+* –––, 2011, “Probabilistic Proofs and the Collective Epistemic Goals of Mathematicians”, in _Collective Epistemology_, H.B. Schmid, D. Sirtes & M. Weber (eds.), Ontos Verlag, pp. 157–176.
+* Fontanella, L., 2019, “How to Choose New Axioms for Set Theory?”, in _Reflections on the Foundations of Mathematics_, D. Sarikaya, D. Kant & S. Centrone (eds.), Springer Verlag.
+* Franklin, J., 1987, “Non-Deductive Logic in Mathematics”, _British Journal for the Philosophy of Science_, 38: 1–18.
+* Frege, G., 1884, _Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl_, Breslau: W. Koebner. Translated as _The Foundations of Arithmetic: A logico-mathematical enquiry into the concept of number_, by J.L. Austin, Oxford: Blackwell, second revised edition, 1974. Reprinted 1980.
+* Gallian, J., & M. Pearson, 2007, “An Interview with Doron Zeilberger”, _FOCUS_ (the newsletter of the Mathematical Association of America), 27(5): 14–17.
+* Giaquinto, M., 2007, _Visual Thinking in Mathematics: an Epistemological Study_, Oxford: Oxford University Press.
+* Gonthier, G., et al., 2008, “Formal Proof – The Four-Color Theorem”, _Notices of the American Mathematical Society_, 55(11): 1382–1393.
+* Gonthier, G., 2013, “A Machine-Checked Proof of the Odd Order Theorem”, in _Interactive Theorem Proving: 4th International Conference Proceedings_, S. Blazy, C. Paulin-Mohring & D. Pichardie (eds.), Berlin / Heidelberg: Springer-Verlag, pp. 163–179.
+* Haack, S., 1976, “The Justification of Deduction”, _Mind_, 85: 112–119.
+* Jackson, J., 2009, “Randomized Arguments are Transferable”, _Philosophia Mathematica_, 17: 363–368.
+* Lakatos, I., 1976, _Proofs and Refutations_, Cambridge: Cambridge University Press.
+* –––, 1980, “What Does a Mathematical Proof Prove?”, in _Mathematics, Science and Epistemology_ (Imre Lakatos: Philosophical Papers, Volume 2), J. Worrall & G. Currie (eds.), Cambridge: Cambridge University Press, pp. 61–69.
+* Lingamneni, S., 2017, “Can we Resolve the Continuum Hypothesis?”, _Synthese_, URL = < [https://doi.org/10.1007/s11229-017-1648-9](https://doi.org/10.1007/s11229-017-1648-9)>.
+* Maddy, P., 1988, “Believing the Axioms. I & II”, _Journal of Symbolic Logic_, 53(2): 481–511, 736–764.
+* –––, 1997, _Naturalism in Mathematics_, Oxford: Oxford University Press.
+* –––, 2001, “Some Naturalistic Remarks on Set Theoretic Method”, _Topoi_, 20: 17–27.
+* –––, 2011, _Defending the Axioms: On the Philosophical Foundations of Set Theory_, Oxford: Oxford University Press.
+* Mancosu, P., 2008, “Mathematical Explanation: Why it Matters”, in _The Philosophy of Mathematical Practice_, P. Mancosu (ed.), Oxford: Oxford University Press, pp. 134–149.
+* McEvoy, M., 2008, “The Epistemological Status of Computer Proofs”, _Philosophia Mathematica_, 16: 374–387.
+* –––, 2013, “Experimental Mathematics, Computers and the A Priori”, _Synthese_, 190: 397–412.
+* Mumma, J., 2010, “Proofs, Pictures, and Euclid”, _Synthese_, 175: 255–287.
+* Paseau, A., 2015, “Knowledge of Mathematics without Proof”, _British Journal for the Philosophy of Science_, 66: 775–799.
+* Pólya, G., 1945, _How to Solve It_, Princeton: Princeton University Press.
+* Schlimm, D., 2013, “Axioms in Mathematical Practice”, _Philosophia Mathematica_, 21: 37–92.
+* Shin, S., & O. Lemon, 2008, “Diagrams”, The Stanford Encyclopedia of Philosophy (Winter 2008 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2008/entries/diagrams/](https://plato.stanford.edu/archives/win2008/entries/diagrams/).
+* Sorensen, H.K., 2010, “Exploratory Experimentation in Experimental Mathematics: a Glimpse at the PSLQ Algorithm”, in _Philosophy of Mathematics: Sociological Aspects and Mathematical Practice_, B. Lowe & T. Muller (eds.), London: College Publications, pp. 341–360.
+* –––, 2016, “‘The End of Proof’? The Integration of Different Mathematical Cultures as Experimental Mathematics Comes of Age”, in _Mathematical Cultures_, B. Larvor (ed.), Cham: Birkhauser, pp. 139–160.
+* Steiner, M., 1993, “Review of _Proof, Logic and Formalization_”, _Journal of Symbolic Logic_, 58(4): 1459–1462.
+* Tennant, N., 2005, “Rule Circularity and the Justification of Deduction”, _Philosophical Quarterly_, 55: 625–648.
+* te Riele, H., 1987, “On the Sign of the Difference p(_x_)–Li(_x_)”, _Mathematics of Computation_, 48: 323–328.
+* Tymoczko, T., 1979, “The Four-Color Problem and Its Philosophical Significance”, _Journal of Philosophy_, 76(2): 57–83.
+* van Bendegem, J., 1998, “What, if Anything, is an Experiment in Mathematics?”, in _Philosophy and the Many Faces of Science_, D. Anapolitanos, et al. (eds.), London: Rowman & Littlefield, pp. 172–182.
+* van Kerkhove, B., & J. van Bendegem, 2008, “Pi on Earth”, _Erkenntnis_, 68: 421–435.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mathematics-nondeductive). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mathematics-nondeductive/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mathematics-nondeductive&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/mathematics-nondeductive/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mathematics-nondeductive).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mathematics-nondeductive/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mathematics-nondeductive\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/mathematics-nondeductive/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-* [Aims and Scope](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=uexm20) of the journal *Experimental Mathematics*, founded by David Epstein in 1992.
+* [Aims and Scope](https://www.tandfonline.com/action/journalInformation?show=aimsScope\&journalCode=uexm20) of the journal _Experimental Mathematics_, founded by David Epstein in 1992.
 * [Philosophy of Mathematics: Sociological Aspects and Mathematical Practice](http://www.lib.uni-bonn.de/PhiMSAMP/), Benedikt Löwe and Thomas Müller (coordination).
-* Corfield, D., 2004, “[Mathematical Kinds, or Being Kind to Mathematics](http://philsci-archive.pitt.edu/archive/00001960/)”, in the *PhilSci Archive*, University of Pittsburgh.
+* Corfield, D., 2004, “[Mathematical Kinds, or Being Kind to Mathematics](http://philsci-archive.pitt.edu/archive/00001960/)”, in the _PhilSci Archive_, University of Pittsburgh.
 
 ## Related Entries
 
-[computer science, philosophy of](https://plato.stanford.edu/entries/computer-science/) | [diagrams](https://plato.stanford.edu/entries/diagrams/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [mathematical: explanation](https://plato.stanford.edu/entries/mathematics-explanation/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [mathematics, philosophy of: naturalism](https://plato.stanford.edu/entries/naturalism-mathematics/) | [style: in mathematics](https://plato.stanford.edu/entries/mathematical-style/)
+[computer science, philosophy of](https://plato.stanford.edu/entries/computer-science/) | [diagrams](https://plato.stanford.edu/entries/diagrams/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [mathematical: explanation](https://plato.stanford.edu/entries/mathematics-explanation/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [mathematics, philosophy of: naturalism](https://plato.stanford.edu/entries/naturalism-mathematics/) | [style: in mathematics](https://plato.stanford.edu/entries/mathematical-style/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-Alan Baker <[*abaker1@swarthmore.edu*](mailto:abaker1%40swarthmore%2eedu)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+Alan Baker <[_abaker1@swarthmore.edu_](mailto:abaker1%40swarthmore%2eedu)>

@@ -1,20 +1,20 @@
 # 一阶模型论 first-order (Wilfrid Hodges and Thomas Scanlon)
 
-*首次发表于2001年11月10日；实质性修订于2024年1月25日。*
+_首次发表于2001年11月10日；实质性修订于2024年1月25日。_
 
 一阶模型论，也被称为经典模型论，是数学的一个分支，处理的是一阶语言中的描述与满足这些描述的结构之间的关系。从一个角度来看，这是一个充满活力的数学研究领域，它将逻辑方法（特别是定义理论）应用于经典数学的深层问题。从另一个角度来看，一阶模型论是模型论的范式；它是模型论许多更广泛的思想首次得到发展的领域。
 
 * [1. 一阶语言和结构](https://plato.stanford.edu/entries/modeltheory-fo/#Lang)
-* [ 2. 初等映射](https://plato.stanford.edu/entries/modeltheory-fo/#Elem)
+* [2. 初等映射](https://plato.stanford.edu/entries/modeltheory-fo/#Elem)
 * [3. 五个重要定理](https://plato.stanford.edu/entries/modeltheory-fo/#Thms)
 * [4. 三个有用的构造](https://plato.stanford.edu/entries/modeltheory-fo/#Const)
 * [5. 三个成功的计划](https://plato.stanford.edu/entries/modeltheory-fo/#Prog)
-* [ 参考文献](https://plato.stanford.edu/entries/modeltheory-fo/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/modeltheory-fo/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/modeltheory-fo/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/modeltheory-fo/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/modeltheory-fo/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/modeltheory-fo/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/modeltheory-fo/#Rel)
 
----
+***
 
 ## 1. 一阶语言和结构
 
@@ -29,7 +29,7 @@
 3. 对于每个谓词符号 P，其元数为 n，在 dom(A)上存在一个 n 元关系 PA；
 4. 对于每个函数符号 F，其元数为 n，在 dom(A)上存在一个从 dom(A)到 dom(A)的 n 元函数 FA。
 
-A 的元素是 dom(A)的元素。同样，A 的基数或者幂是它的定义域的基数。由于我们可以从生成它的一阶语言 L 中恢复出签名 K，我们可以将签名为 K 的结构称为 L-结构。我们将 c 视为结构 A 中元素 c**A 的名称，其他符号也是如此。
+A 的元素是 dom(A)的元素。同样，A 的基数或者幂是它的定义域的基数。由于我们可以从生成它的一阶语言 L 中恢复出签名 K，我们可以将签名为 K 的结构称为 L-结构。我们将 c 视为结构 A 中元素 c\*\*A 的名称，其他符号也是如此。
 
 例如，实数域形成了一个结构 R，其元素是实数，签名由个体常量 0 命名为零，一个一元函数符号−表示减法，以及两个二元函数符号+和.表示加法和乘法。乍一看，我们无法添加一个符号来表示 1/x，因为所有命名的函数都必须在结构的整个定义域上定义，并且没有 1/0 这样的实数。但仔细想想，这不是一个严重的问题；任何称职的数学家在除以 x 之前都会加上“x 不为零”的条件，所以 1/0 的值无关紧要，我们可以毫无害处地将其设为 42。但大多数模型论者对任何形式的除零操作都感到不舒服，所以他们坚持使用加法、乘法和减法。
 
@@ -37,13 +37,13 @@ A 的元素是 dom(A)的元素。同样，A 的基数或者幂是它的定义域
 
 如果φ是一个句子，我们写作
 
-> *A* ⊨ φ
+> _A_ ⊨ φ
 
-表示φ在 A 中为真，或者换句话说，A 是φ的一个模型。如果φ(v1,…,v**n)是一个带有自由变量的公式，我们写作
+表示φ在 A 中为真，或者换句话说，A 是φ的一个模型。如果φ(v1,…,v\*\*n)是一个带有自由变量的公式，我们写作
 
-> *A* ⊨ φ[a]
+> _A_ ⊨ φ\[a]
 
-意思是 n 元组 a 在由φ定义的集合中。（经典逻辑条目中的条目使用符号‘A,s ⊨ φ’，其中 s 是对 L 的所有变量进行赋值的任意赋值，对于在φ中自由的每个变量 v**i，它将 i-th 元素赋给 n 元组 a。）
+意思是 n 元组 a 在由φ定义的集合中。（经典逻辑条目中的条目使用符号‘A,s ⊨ φ’，其中 s 是对 L 的所有变量进行赋值的任意赋值，对于在φ中自由的每个变量 v\*\*i，它将 i-th 元素赋给 n 元组 a。）
 
 两个 L-结构，它们是 L 的完全相同的句子的模型，被称为元素等价。元素等价是所有 L-结构类的等价关系。在 L-结构 A 中为真的所有 L 的句子的集合称为 A 的完全理论，符号为 Th(A)。对于某个结构 A 为 Th(A)的理论被称为完全的。（根据一阶逻辑的完备性定理，详见经典逻辑条目，一个理论是完全的当且仅当它是最大句法一致的。）当且仅当 Th(A) = Th(B)，结构 A 和 B 是元素等价的。
 
@@ -51,9 +51,9 @@ A 的元素是 dom(A)的元素。同样，A 的基数或者幂是它的定义域
 
 当数学家引入一类结构时，他们喜欢定义这些结构之间的基本映射。相同符号 K 的结构之间的基本映射被称为同态，定义如下。从结构 A 到结构 B 的同态是一个从 dom(A)到 dom(B)的函数 f，满足对于每个原子公式φ(v1,…,v**n)和任意 n 元组 a = (a1,…,a**n)属于 A 的元素，
 
-> *A* ⊨ φ [a] ⇒ *B* ⊨ φ [b]
+> _A_ ⊨ φ \[a] ⇒ _B_ ⊨ φ \[b]
 
-其中 b 是(f(a1),…,f(a**n))。如果我们在引用的条件中用‘⇔’代替‘⇒’，我们说 f 是 A 嵌入到 B 中的一个嵌入。由于语言包括=，A 嵌入到 B 中总是一对一的，尽管它不一定是 B 的定义域上的满射。如果它是满射的，那么从 dom(B)到 dom(A)的逆映射也是一个同态，嵌入和它的逆映射都被称为同构。如果两个结构同构，则它们共享所有模型论属性；特别是它们在元素等价性方面是等价的。
+其中 b 是(f(a1),…,f(a\*\*n))。如果我们在引用的条件中用‘⇔’代替‘⇒’，我们说 f 是 A 嵌入到 B 中的一个嵌入。由于语言包括=，A 嵌入到 B 中总是一对一的，尽管它不一定是 B 的定义域上的满射。如果它是满射的，那么从 dom(B)到 dom(A)的逆映射也是一个同态，嵌入和它的逆映射都被称为同构。如果两个结构同构，则它们共享所有模型论属性；特别是它们在元素等价性方面是等价的。
 
 如果 A 和 B 是具有签名 K 的结构，其中 dom(A)是 dom(B)的子集，并且 A 中 K 符号的解释只是它们在 B 中解释的限制，则我们说 A 是 B 的子结构，反之亦然，B 是 A 的扩展。如果此外 B 有一些不在 A 中的元素，我们说 A 是 B 的真子结构，B 是 A 的真扩展。如果 B 是一个结构，X 是 dom(B)的一个非空子集，则存在一个唯一的最小子结构，其域包含 X 的所有元素。它被称为由 X 生成的 B 的子结构，我们首先将 X 添加到所有 K 的个体常量 cB 的元素中，然后在 K 的函数符号 F 下封闭。
 
@@ -63,7 +63,7 @@ A 的元素是 dom(A)的元素。同样，A 的基数或者幂是它的定义域
 
 设 L 为一阶语言，A 和 B 为 L-结构。假设 e 是一个将 A 的一些元素映射到 B 的元素的函数。如果对于 e 的定义域中的元素序列 a1, …, a**n，在 A 中满足 L 的公式φ(x1,…,x**n)，它们在 e 的映射下在 B 中也满足相同的公式；用符号表示为
 
-> *A* ⊨ φ(*a*1,…,*a**n*) ⇒ *B* ⊨ φ(*e*(*a*1),…,*e*(*a**n*)).
+> _A_ ⊨ φ(_a_1,…,_a\*\*n_) ⇒ _B_ ⊨ φ(_e_(_a_1),…,_e_(_a\*\*n_)).
 
 如果 e 是 A 到 B 的一个元素嵌入，那么我们说 e 是一个元素映射，并且它的定义域是 A 的整个定义域。顾名思义，元素嵌入总是嵌入。
 
@@ -73,27 +73,23 @@ A 的元素是 dom(A)的元素。同样，A 的基数或者幂是它的定义域
 
 初等嵌入是在一阶模型论中考虑的自然映射。大约在 1950 年，亚伯拉罕·罗宾逊对于一般代数结构之间的映射似乎很少是初等的这一事实印象深刻，而一些重要的映射（例如两个代数闭域之间的嵌入，或者两个实闭域之间的嵌入）却是初等的。他还惊讶地发现，关于代数闭域的这个事实是另一种陈述一个著名定理——希尔伯特零点定理的方式。罗宾逊的这些观察对模型论的发展产生了巨大影响。在罗宾逊的术语中，如果一个一阶理论的每个模型之间的嵌入都是初等的，则该理论是模型完备的。这个概念有很多用途，并且在代数中的模型论应用中经常出现。
 
-与模型完备性密切相关但不应与之混淆的概念是量词消除。假设 L 是一个一阶语言，T 是 L 中的一个理论，Φ是 L 的一组公式。如果对于 L 的每个公式φ(x1,…,x**n)，存在一个Φ中的公式ψ(x1,…,x**n)，使得在 T 的每个模型中，φ和ψ恰好由相同的 n 元素（a1,…,a**n）满足（在塔斯基的真值定义的第 2.2 节中讨论的“量词消除方法”是一种用于证明消除量词到特定公式集的句法和预模型论方法）。如果一个理论具有量词消除，则它具有消除量词到无量词公式的性质。
+与模型完备性密切相关但不应与之混淆的概念是量词消除。假设 L 是一个一阶语言，T 是 L 中的一个理论，Φ是 L 的一组公式。如果对于 L 的每个公式φ(x1,…,x**n)，存在一个Φ中的公式ψ(x1,…,x**n)，使得在 T 的每个模型中，φ和ψ恰好由相同的 n 元素（a1,…,a\*\*n）满足（在塔斯基的真值定义的第 2.2 节中讨论的“量词消除方法”是一种用于证明消除量词到特定公式集的句法和预模型论方法）。如果一个理论具有量词消除，则它具有消除量词到无量词公式的性质。
 
 模型完备性与量词消除之间的联系如下。罗宾逊证明了一个理论是模型完备的当且仅当它具有将量词消除到存在公式的能力（即，要么是无量词的公式，要么由一个或多个存在量词后跟一个无量词的公式组成）。因此，具有量词消除的理论是模型完备的，但反之不一定成立。然而，证明一个理论是模型完备的有时是向证明它具有量词消除的有用第一步。
 
 回到基本嵌入：它们具有一些有用的特性。我们有四个空间。
 
-> 下降的 Löwenheim-Skolem 定理：
-> 假设 L 是一个有κ个公式的一阶语言，A 是一个 L-结构，λ是一个至少为κ但小于 A 的基数。还假设 X 是 A 中最多有λ个元素的集合。那么 A 有一个基数恰好为λ且包含 X 中所有元素的初等子结构。
+> 下降的 Löwenheim-Skolem 定理： 假设 L 是一个有κ个公式的一阶语言，A 是一个 L-结构，λ是一个至少为κ但小于 A 的基数。还假设 X 是 A 中最多有λ个元素的集合。那么 A 有一个基数恰好为λ且包含 X 中所有元素的初等子结构。
 
 在经典逻辑的条目中有一个使用 Skolem 壳的证明。请注意，λ必须是无限的，因为每个一阶语言都有无限多个公式。
 
-> 初等链定理：
-> 假设 L 是一个一阶语言，A0，A1，...是一个 L-结构的序列（任意长度），其中序列中的任何结构都是序列中后面的所有结构的元子结构。那么存在一个唯一的最小的 L-结构 B，它包含序列中的所有结构作为子结构；这个结构 B 是序列中所有结构的元扩张。
+> 初等链定理： 假设 L 是一个一阶语言，A0，A1，...是一个 L-结构的序列（任意长度），其中序列中的任何结构都是序列中后面的所有结构的元子结构。那么存在一个唯一的最小的 L-结构 B，它包含序列中的所有结构作为子结构；这个结构 B 是序列中所有结构的元扩张。
 >
-> 元融合定理：
-> 假设 L 是一个一阶语言，A 是一个 L-结构，B，C 是 A 的两个元扩张。那么存在 B 的一个元扩张 D 和 C 到 D 的一个元嵌入 e，使得（i）对于 A 的每个元素 a，e(a) = a，（ii）如果 c 是 C 的一个元素但不是 A 的元素，则 e(c)不在 B 中。
+> 元融合定理： 假设 L 是一个一阶语言，A 是一个 L-结构，B，C 是 A 的两个元扩张。那么存在 B 的一个元扩张 D 和 C 到 D 的一个元嵌入 e，使得（i）对于 A 的每个元素 a，e(a) = a，（ii）如果 c 是 C 的一个元素但不是 A 的元素，则 e(c)不在 B 中。
 
 初等合并定理是下一节中的紧致性定理的结果。
 
-> 上升的 Löwenheim-Skolem 定理：
-> 假设 L 是一个具有κ个公式的一阶语言，A 是一个基数为无限基数μ的 L-结构，λ是一个至少与κ和μ一样大的基数。那么 A 有一个基数为λ的初等扩张。
+> 上升的 Löwenheim-Skolem 定理： 假设 L 是一个具有κ个公式的一阶语言，A 是一个基数为无限基数μ的 L-结构，λ是一个至少与κ和μ一样大的基数。那么 A 有一个基数为λ的初等扩张。
 
 这也可以从紧致性定理推导出来，如经典逻辑条目中所示。定理的名称有点不幸，因为这个定理最初是由塔斯基证明的，而斯科勒姆甚至不相信它（因为他不相信可数无穷的基数）。
 
@@ -131,7 +127,7 @@ Anatolii Mal’tsev 首次在 1938 年提出了紧致性定理（适用于任何
 
 这个定理有几个证明，其中并不都是模型论的。如果没有最后一句，这个定理被称为克雷格的插值定理，因为威廉·克雷格在 1959 年之前几年证明了这个版本的定理，而罗杰·林登发现了完整的陈述。正如克雷格当时指出的，他的插值定理给出了埃弗特·贝斯的可定义性定理的一个简洁证明，该定理如下。
 
-假设 L 是一个一阶语言，M 是通过向 L 添加一个新的谓词符号 R 得到的一阶语言。假设 T 是 M 中的一个理论。如果存在两个 M-结构，它们是 T 的模型，具有相同的元素并以相同的方式解释 L 的所有符号，但以不同的方式解释符号 R，则我们说 T 隐含地定义了 R。如果存在一个 L 的公式φ(x1,…,x**n)，在 T 的每个模型中，公式φ和 R(x1,…,x**n)被完全相同的 n 元组(a1,…,a**n)满足，则我们说 T 显式地定义了 R。很容易看出，如果 T 显式地定义了 R，则它也隐含地定义了 R。（这个事实被称为帕多亚的方法；帕多亚使用隐含定义的失败来证明显式定义的失败。）贝丝定理是其逆命题：
+假设 L 是一个一阶语言，M 是通过向 L 添加一个新的谓词符号 R 得到的一阶语言。假设 T 是 M 中的一个理论。如果存在两个 M-结构，它们是 T 的模型，具有相同的元素并以相同的方式解释 L 的所有符号，但以不同的方式解释符号 R，则我们说 T 隐含地定义了 R。如果存在一个 L 的公式φ(x1,…,x**n)，在 T 的每个模型中，公式φ和 R(x1,…,x**n)被完全相同的 n 元组(a1,…,a\*\*n)满足，则我们说 T 显式地定义了 R。很容易看出，如果 T 显式地定义了 R，则它也隐含地定义了 R。（这个事实被称为帕多亚的方法；帕多亚使用隐含定义的失败来证明显式定义的失败。）贝丝定理是其逆命题：
 
 > 假设 L、M、R 和 T 如上所述。如果 T 隐含地定义了 R，则 T 显式地定义了 R。
 
@@ -187,9 +183,9 @@ Saharon Shelah 的一个显著（但在实践中并不是非常有用）的定�
 
 ### 4.2 饱和
 
-假设 A 是一个 L-结构，X 是 A 的元素集合，B 是 A 和 b 的元素的初等扩张，b 和 c 是 B 的两个元素。那么如果对于 L 的每个公式φ(v1,…,v**n+1)和 X 的每个 n 元组 d 的元素，
+假设 A 是一个 L-结构，X 是 A 的元素集合，B 是 A 和 b 的元素的初等扩张，b 和 c 是 B 的两个元素。那么如果对于 L 的每个公式φ(v1,…,v\*\*n+1)和 X 的每个 n 元组 d 的元素，
 
-> B ⊨ φ[b,d] ⇔ B ⊨ φ[c,d]，则称 b 和 c 在 X 上具有相同的类型。
+> B ⊨ φ\[b,d] ⇔ B ⊨ φ\[c,d]，则称 b 和 c 在 X 上具有相同的类型。
 
 如果对于 A 的任何元素扩张 B，只要 X 是 A 的基数小于 A 的元素集合，那么 B 中的每个元素在 X 上都具有与 A 中某个元素相同的类型，我们称 A 是饱和的。
 
@@ -199,7 +195,7 @@ Saharon Shelah 的一个显著（但在实践中并不是非常有用）的定�
 
 ### 4.3 Ehrenfeucht-Mostowski 模型
 
-设 A 为 L-结构，X 为 A 的元素集合，<为 X 的线性排序（不一定可由一阶公式定义）。如果对于每个自然数 n，以及 A 的所有元素 a1,…,a**n 和 b1,…,b**n，满足 a1 < … < a**n 和 b1 &lt; … &lt; b**n，将每个 a**i 映射到相应的 b**i 的映射是一个元映射，则(X,<)是 A 中的不可辨序列。如果 T 是一个具有无穷模型的理论，则 T 具有是不可辨序列的 Skolem 包（参见经典逻辑条目）的模型。这些模型被称为 Ehrenfeucht-Mostowski 模型，以这两位波兰模型论者在 20 世纪 50 年代中期首次进行这种构造而命名。这些模型往往与饱和相反；我们可以安排它们的元素中很少有关于元素集合的类型。一些关于集合论不同模型之间的重要区别可以用这些模型中的不可辨序列来表达；请参见集合论条目。
+设 A 为 L-结构，X 为 A 的元素集合，<为 X 的线性排序（不一定可由一阶公式定义）。如果对于每个自然数 n，以及 A 的所有元素 a1,…,a**n 和 b1,…,b**n，满足 a1 < … < a**n 和 b1 < … < b**n，将每个 a**i 映射到相应的 b**i 的映射是一个元映射，则(X,<)是 A 中的不可辨序列。如果 T 是一个具有无穷模型的理论，则 T 具有是不可辨序列的 Skolem 包（参见经典逻辑条目）的模型。这些模型被称为 Ehrenfeucht-Mostowski 模型，以这两位波兰模型论者在 20 世纪 50 年代中期首次进行这种构造而命名。这些模型往往与饱和相反；我们可以安排它们的元素中很少有关于元素集合的类型。一些关于集合论不同模型之间的重要区别可以用这些模型中的不可辨序列来表达；请参见集合论条目。
 
 ## 5. 三个成功的研究计划
 
@@ -251,56 +247,56 @@ Kobi Peterzil 和 Sergei Starchenko 发展了一种 o-极小复分析理论。�
 
 ## Bibliography
 
-* Beth, E., 1953, “On Padoa’s method in the theory of definition”, *Nederlandse Akademie van Wetenschappen*, Proceedings (Series A), 56: 330–339.
-* Bouscaren, E. (ed.), 1998, *Model Theory and Algebraic Geometry: An introduction to E. Hrushovski’s proof of the geometric Mordell-Lang conjecture* (Lecture Notes in Mathematics: Volume 1696), Berlin: Springer-Verlag.
-* Buechler, S., 1996, *Essential Stability Theory*, Berlin: Springer-Verlag.
-* Chang, C. and Keisler, J., 1990, *Model Theory*, Amsterdam: North-Holland.
-* Chatzidakis, Z. *et al*. (eds.), 2008, *Model Theory with Applications to Algebra and Analysis*, Volumes 1 and 2, Cambridge: Cambridge University Press.
-* Dries, L. van den, 1998, *Tame Topology and O-minimal Structures*, Cambridge: Cambridge University Press.
-* Ealy, C. and Onshuus, A., 2007, “Characterizing rosy theories”, *Journal of Symbolic Logic*, 72: 919–940.
-* Ehrig, H. and Mahr, B., 1985, *Fundamentals of Algebraic Specification I: Equations and Initial Semantics*, Berlin: Springer-Verlag.
-* Ershov, Y. (ed.), 1998, *Handbook of Recursive Mathematics I, Recursive Model Theory*, New York: Elsevier.
-* Hart, B., Lachlan, A. and Valeriote, M., 1996, *Algebraic Model Theory*, Dordrecht: Kluwer.
-* Haskell, D., Pillay, A. and Steinhorn, C., 2000, *Model Theory, Algebra, and Geometry*, Cambridge: Cambridge University Press.
-* Hodges, W., 1993, *Model Theory*, Cambridge: Cambridge University Press.
-* –––, 1998, “The laws of distribution for syllogisms”, *Notre Dame Journal of Formal Logic*, 39: 221–230.
-* Karpinski, M. and A. Macintyre, 1997, Polynomial bounds for VC dimension of sigmoidal and general Pfaffian neural networks, 1st Annual Dagstuhl Seminar on Neural Computing (1994), *Journal of Computer and System Sciences*, 54(1[2]): 169–176.
-* Lascar, D., 1986, *Stability in Model Theory*, Harlow: Longman.
-* Macintyre, A. and Wilkie, A., 1996, “On the decidability of the real exponential field”, in *Kreiseliana: About and around Georg Kreisel*, P. Odifreddi (ed.), Wellesley MA : A. K. Peters, 441–467.
-* Marcja, A. and Toffalori, C., 2003, *A Guide to Classical and Modern Model Theory*, Dordrecht: Kluwer.
-* Marker, D., 2002, *Model Theory: An Introduction*, New York: Springer-Verlag.
-* Morley, M., 1965, “Categoricity in power”, *Transactions of the American Mathematical Society*, 114: 514–538.
-* Peterzil, Y. and S. Starchenko, Sergei, 2009, Complex analytic geometry and analytic-geometric categories, *Journal für die reine und angewandte Mathematik*, 626: 39–74.
-* Pillay, A., 1996, *Geometric Stability Theory*, Oxford: Oxford University Press.
-* Pila, J., 2011, “O-minimality and the André-Oort conjecture for **C***n*”, *Annals of Mathematics* (2), 173(3): 1779–1840.
-* Pila, J. and Wilkie, A., 2006, “The rational points of a definable set”, *Duke Mathematics Journal*, 133(3): 591–616.
-* Pila, J. and Zannier, U., 2008, “Rational points in periodic analytic sets and the Manin-Mumford conjecture”, *Rendiconti Lincei Matematica E Applicazioni*, 19(2): 149–162.
-* Poizat, B., 2000, *A Course in Model Theory*, New York: Springer.
-* Shelah, S., 1990, *Classification Theory*, Amsterdam: North-Holland.
-* Tarski, A., 1951, *A Decision Method for Elementary Algebra and Geometry*, Berkeley: University of California Press.
-* Vaught, R., 1974, “Model theory before 1945”, in *Proceedings of the Tarski Symposium*, L. Henkin, *et al*. (eds.), Providence RI : American Mathematical Society, 153–172.
-* Veblen, O., 1904, “A System of Axioms for Geometry”, *Transactions of the American Mathematical Society*, 5(3): 343–384
-* Wagner, F., 2000, *Simple Theories*, Dordrecht: Kluwer Academic Publishers.
-* Wilkie, A., 1996, “Model completeness results for expansions of the real field by restricted Pfaffian functions and the exponential function”, *Journal of the American Mathematical Society*, 9: 1051–1094.
+* Beth, E., 1953, “On Padoa’s method in the theory of definition”, _Nederlandse Akademie van Wetenschappen_, Proceedings (Series A), 56: 330–339.
+* Bouscaren, E. (ed.), 1998, _Model Theory and Algebraic Geometry: An introduction to E. Hrushovski’s proof of the geometric Mordell-Lang conjecture_ (Lecture Notes in Mathematics: Volume 1696), Berlin: Springer-Verlag.
+* Buechler, S., 1996, _Essential Stability Theory_, Berlin: Springer-Verlag.
+* Chang, C. and Keisler, J., 1990, _Model Theory_, Amsterdam: North-Holland.
+* Chatzidakis, Z. _et al_. (eds.), 2008, _Model Theory with Applications to Algebra and Analysis_, Volumes 1 and 2, Cambridge: Cambridge University Press.
+* Dries, L. van den, 1998, _Tame Topology and O-minimal Structures_, Cambridge: Cambridge University Press.
+* Ealy, C. and Onshuus, A., 2007, “Characterizing rosy theories”, _Journal of Symbolic Logic_, 72: 919–940.
+* Ehrig, H. and Mahr, B., 1985, _Fundamentals of Algebraic Specification I: Equations and Initial Semantics_, Berlin: Springer-Verlag.
+* Ershov, Y. (ed.), 1998, _Handbook of Recursive Mathematics I, Recursive Model Theory_, New York: Elsevier.
+* Hart, B., Lachlan, A. and Valeriote, M., 1996, _Algebraic Model Theory_, Dordrecht: Kluwer.
+* Haskell, D., Pillay, A. and Steinhorn, C., 2000, _Model Theory, Algebra, and Geometry_, Cambridge: Cambridge University Press.
+* Hodges, W., 1993, _Model Theory_, Cambridge: Cambridge University Press.
+* –––, 1998, “The laws of distribution for syllogisms”, _Notre Dame Journal of Formal Logic_, 39: 221–230.
+* Karpinski, M. and A. Macintyre, 1997, Polynomial bounds for VC dimension of sigmoidal and general Pfaffian neural networks, 1st Annual Dagstuhl Seminar on Neural Computing (1994), _Journal of Computer and System Sciences_, 54(1\[2]): 169–176.
+* Lascar, D., 1986, _Stability in Model Theory_, Harlow: Longman.
+* Macintyre, A. and Wilkie, A., 1996, “On the decidability of the real exponential field”, in _Kreiseliana: About and around Georg Kreisel_, P. Odifreddi (ed.), Wellesley MA : A. K. Peters, 441–467.
+* Marcja, A. and Toffalori, C., 2003, _A Guide to Classical and Modern Model Theory_, Dordrecht: Kluwer.
+* Marker, D., 2002, _Model Theory: An Introduction_, New York: Springer-Verlag.
+* Morley, M., 1965, “Categoricity in power”, _Transactions of the American Mathematical Society_, 114: 514–538.
+* Peterzil, Y. and S. Starchenko, Sergei, 2009, Complex analytic geometry and analytic-geometric categories, _Journal für die reine und angewandte Mathematik_, 626: 39–74.
+* Pillay, A., 1996, _Geometric Stability Theory_, Oxford: Oxford University Press.
+* Pila, J., 2011, “O-minimality and the André-Oort conjecture for **C**_n_”, _Annals of Mathematics_ (2), 173(3): 1779–1840.
+* Pila, J. and Wilkie, A., 2006, “The rational points of a definable set”, _Duke Mathematics Journal_, 133(3): 591–616.
+* Pila, J. and Zannier, U., 2008, “Rational points in periodic analytic sets and the Manin-Mumford conjecture”, _Rendiconti Lincei Matematica E Applicazioni_, 19(2): 149–162.
+* Poizat, B., 2000, _A Course in Model Theory_, New York: Springer.
+* Shelah, S., 1990, _Classification Theory_, Amsterdam: North-Holland.
+* Tarski, A., 1951, _A Decision Method for Elementary Algebra and Geometry_, Berkeley: University of California Press.
+* Vaught, R., 1974, “Model theory before 1945”, in _Proceedings of the Tarski Symposium_, L. Henkin, _et al_. (eds.), Providence RI : American Mathematical Society, 153–172.
+* Veblen, O., 1904, “A System of Axioms for Geometry”, _Transactions of the American Mathematical Society_, 5(3): 343–384
+* Wagner, F., 2000, _Simple Theories_, Dordrecht: Kluwer Academic Publishers.
+* Wilkie, A., 1996, “Model completeness results for expansions of the real field by restricted Pfaffian functions and the exponential function”, _Journal of the American Mathematical Society_, 9: 1051–1094.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=modeltheory-fo). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/modeltheory-fo/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=modeltheory-fo&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/modeltheory-fo/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=modeltheory-fo).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/modeltheory-fo/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=modeltheory-fo\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/modeltheory-fo/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Hrushovski, E. and Loeser, F., 2010, [Non-archimedean tame topology and stably dominated types](https://arxiv.org/pdf/1009.0252.pdf), online manuscript at arXiv.org.
-* Simon, P., 2012, [Lecture notes on NIP theories](https://arxiv.org/abs/1208.3944v2), online manuscript at arXiv.org.
+* Hrushovski, E. and Loeser, F., 2010, [Non-archimedean tame topology and stably dominated types](https://arxiv.org/pdf/1009.0252.pdf), online manuscript at arXiv.org.
+* Simon, P., 2012, [Lecture notes on NIP theories](https://arxiv.org/abs/1208.3944v2), online manuscript at arXiv.org.
 * [Schematic representation of the classification of theories](http://www.forkinganddividing.com/).
 
 ## Related Entries
 
-[logic: and games](https://plato.stanford.edu/entries/logic-games/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: infinitary](https://plato.stanford.edu/entries/logic-infinitary/) | [model theory](https://plato.stanford.edu/entries/model-theory/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [Tarski, Alfred: truth definitions](https://plato.stanford.edu/entries/tarski-truth/)
+[logic: and games](https://plato.stanford.edu/entries/logic-games/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: infinitary](https://plato.stanford.edu/entries/logic-infinitary/) | [model theory](https://plato.stanford.edu/entries/model-theory/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [Tarski, Alfred: truth definitions](https://plato.stanford.edu/entries/tarski-truth/)
 
-[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
-[Wilfrid Hodges](http://wilfridhodges.co.uk/)  
-Thomas Scanlon <[*scanlon@math.berkeley.edu*](mailto:scanlon%40math%2eberkeley%2eedu)>
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
+[Wilfrid Hodges](http://wilfridhodges.co.uk/)\
+Thomas Scanlon <[_scanlon@math.berkeley.edu_](mailto:scanlon%40math%2eberkeley%2eedu)>

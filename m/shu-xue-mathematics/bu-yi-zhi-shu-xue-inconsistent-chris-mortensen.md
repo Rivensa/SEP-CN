@@ -1,20 +1,20 @@
 # 不一致数学 inconsistent (Chris Mortensen)
 
-*首次发表于1996年7月2日；实质性修订于2022年11月30日。*
+_首次发表于1996年7月2日；实质性修订于2022年11月30日。_
 
 不一致数学是研究当经典数学公理在一个（非经典的）逻辑框架内被断言时所产生的数学理论。这个逻辑可以容忍矛盾的存在，而不会将每个句子都转化为定理。
 
 * [1. 数学基础](https://plato.stanford.edu/entries/mathematics-inconsistent/#FouMat)
-* [ 2. 算术](https://plato.stanford.edu/entries/mathematics-inconsistent/#Ari)
-* [ 3. 分析](https://plato.stanford.edu/entries/mathematics-inconsistent/#Ana)
+* [2. 算术](https://plato.stanford.edu/entries/mathematics-inconsistent/#Ari)
+* [3. 分析](https://plato.stanford.edu/entries/mathematics-inconsistent/#Ana)
 * [4. 几何不一致](https://plato.stanford.edu/entries/mathematics-inconsistent/#GeoInc)
 * [5. 块和渗透](https://plato.stanford.edu/entries/mathematics-inconsistent/#ChuPer)
-* [ 参考文献](https://plato.stanford.edu/entries/mathematics-inconsistent/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mathematics-inconsistent/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/mathematics-inconsistent/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/mathematics-inconsistent/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/mathematics-inconsistent/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mathematics-inconsistent/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/mathematics-inconsistent/#Rel)
 
----
+***
 
 ## 1. 数学基础
 
@@ -50,7 +50,7 @@ Meyer 和 Mortensen 后来使用的算术模型被证明允许不一致地表示
 
 范畴论揭示了许多数学结构。它确实被提出作为数学的另一种基础。这种广泛性不可避免地遇到了与集合论中理解问题类似的问题；参见，例如，Hatcher 1982（第255-260页）。因此，存在着相同的不一致解的可能应用。还有一个重要的范畴结构集合，即topos，它以与集合支持布尔逻辑相同的方式支持开放集合逻辑。这被许多人视为数学直觉主义基础观点的证明。然而，可以证明，topos与闭集合逻辑同样容易地支持开放集合逻辑，迄今为止是唯一的范畴论语义学对于一个旁证逻辑。然而，这不应被视为对直觉主义的反对，而更多地是一个论证，即不一致理论与数学研究项目同样合理。参见Mortensen（1995年第11章，合著者Lavers）。这个立场现在已经被Estrada-González（2010年，2015a，2015b）接受、扩展和有力地捍卫。同一作者（2016年）试图提供一个范畴论描述的平凡理论，旨在表明平凡性对于数学理论来说并不是一个无趣的特征。然而，本文作者仍然不信服，因为一个平凡的理论对于数学计算肯定是无用的；但是，这些论证的巧妙性必须被承认。
 
-不完备性/直觉主义与不一致性/超一致性之间存在至少两个方面的二元性。首先是上述的拓扑（开放/闭合）二元性。其次是 Routley*二元性。对于一个句子集合 S，Routley Star*被定义为 S* =df {A: ~A 不在 S 中}。Routleys（1972）发现了这个作为相关逻辑的语义工具的*操作，在德摩根逻辑的大自然类中，它在不一致和不完备的理论之间进行二元对偶。例如，对 Peano 算术进行星化操作会得到一个推理封闭的不一致完备的非平凡的经典算术理论，其中包含了所有的 PA，这对于哥德尔的不完备性结果提出了一个有趣的挑战，详见 Mortensen（2013）。这两种二元性也相互作用，* 操作为开放集和闭合集算术理论提供了独特的二元性和不变性定理。基于这些结果，可以公正地认为直觉主义和超一致性这两种数学方法同样合理。
+不完备性/直觉主义与不一致性/超一致性之间存在至少两个方面的二元性。首先是上述的拓扑（开放/闭合）二元性。其次是 Routley_二元性。对于一个句子集合 S，Routley Star_被定义为 S\* =df {A: \~A 不在 S 中}。Routleys（1972）发现了这个作为相关逻辑的语义工具的_操作，在德摩根逻辑的大自然类中，它在不一致和不完备的理论之间进行二元对偶。例如，对 Peano 算术进行星化操作会得到一个推理封闭的不一致完备的非平凡的经典算术理论，其中包含了所有的 PA，这对于哥德尔的不完备性结果提出了一个有趣的挑战，详见 Mortensen（2013）。这两种二元性也相互作用，_ 操作为开放集和闭合集算术理论提供了独特的二元性和不变性定理。基于这些结果，可以公正地认为直觉主义和超一致性这两种数学方法同样合理。
 
 ## 4. 几何不一致性
 
@@ -76,85 +76,85 @@ Meyer 和 Mortensen 后来使用的算术模型被证明允许不一致地表示
 
 再次强调，这些结构并不以任何方式挑战或否认现有的数学，而是扩展了我们对数学可能性的概念。这进一步加深了数学多元论的问题；参见例如 Davies（2005），Hellman 和 Bell（2006）或 Priest（2013）。不同的作者对数学多元论有不同的版本，但大致上是指不兼容的数学理论可以同样地成立。数学多元论的论据在于观察到存在不同的数学“宇宙”，其中不同的、甚至是不兼容的数学定理或定律成立。众所周知的例子是经典数学与直觉主义数学之间的不兼容性，以及 ZF 类集合宇宙与有选择公理和无选择公理的不兼容性。如果它们都是数学上行为良好的理论的合法例子，那么说 ZF 与选择是真实的数学而 ZF 无选择是虚假的数学似乎是荒谬的。
 
-数学哲学的主要问题无疑是什么是数学。拓扑对偶或 Routley*等二元操作强调了不完全/不一致的对偶同样合理作为数学的例子。从这个角度来看，关于接受直觉主义、经典主义还是不一致数学的争论似乎是毫无意义的；它们都是数学的主题的一部分。这一观点由 Shapiro（2014）有效地提出（相反，参见他的 2002 年观点）。Shapiro 的独特立场还有其他要素：数学作为结构科学，以及数学多元论暗示逻辑多元论（关于逻辑多元论，还可以参见 Beall 和 Restall 2006）；但我们在这里不讨论这些。
+数学哲学的主要问题无疑是什么是数学。拓扑对偶或 Routley\*等二元操作强调了不完全/不一致的对偶同样合理作为数学的例子。从这个角度来看，关于接受直觉主义、经典主义还是不一致数学的争论似乎是毫无意义的；它们都是数学的主题的一部分。这一观点由 Shapiro（2014）有效地提出（相反，参见他的 2002 年观点）。Shapiro 的独特立场还有其他要素：数学作为结构科学，以及数学多元论暗示逻辑多元论（关于逻辑多元论，还可以参见 Beall 和 Restall 2006）；但我们在这里不讨论这些。
 
 就其价值而言，笔者认为数学多元论的某种版本显然是正确的，如果我们将数学首先看作是允许不一致性的数学理论，而仅次于数学理论的是这些理论内部的对象。当然，如果将不兼容的理论视为命题结构，它们共存就没有问题。理论的首要性也符合数学认识论是演绎证明的自然观察。只有当我们以数学对象作为理论的真理生成者的起点时，我们才需要担心它们的对象如何共存。
 
 ## Bibliography
 
-* Beall, J.C. and G. Restall, 2006, *Logical Pluralism*, Oxford: The Clarendon Press.
-* Benham, R., C. Mortensen and G. Priest, 2014, “Chunk and Permeate III: The Dirac Delta Function”, *Synthese*, 191(13): 3057-3062. doi:10.1007/s11229-014-0473-7
-* Berto, F., 2007, *How to Sell a Contradiction*, London: College Publications.
-* Brady, R., 1971, “The Consistency of the Axioms of Abstraction and Extensionality in a Three-Valued Logic”, *Notre Dame Journal of Formal Logic*, 12: 447–453.
-* –––, 1989, “The Nontriviality of Dialectical Set Theory”, in G. Priest, R. Routley and J. Norman (eds.), *Paraconsistent Logic*, Munich: Philosophia Verlag.
-* –––, 2006, *Universal Logic*, Stanford: CSLI Publications.
-* Brown, B., and G. Priest, 2004, “Chunk and Permeate: A Paraconsistent Inference Strategy. Part I: The Infinitesimal Calculus”, *The Journal of Philosophical Logic*, 33: 379–388.
-* Burgess, J., 1981, “Relevance, a Fallacy?”, *Notre Dame Journal of Formal Logic*, 22: 97–104.
-* Colyvan, M., 2000, “Applying Inconsistent Mathematics”, *New Waves in the Philosophy of Mathematics*, O.Bueno and O. Limmbo (eds.), London: Palgrave McMillan, 160-172.
-* Da Costa, Newton C.A., 1974, “On the Theory of Inconsistent Formal Systems”, *Notre Dame Journal of Formal Logic*, 15: 497–510.
-* –––, 2000, “Paraconsistent Mathematics”, in D. Batens *et al*. (eds.), *Frontiers of Paraconsistent Logic*, Hertfordshire: Research Studies Press, 165–180.
-* Davies, E.B., 2005 “A Defence of Mathematical Pluralism ”, *Philosophia Mathematica*, 13: 252–276.
-* Estrada-González, L., 2010, “Complement-Topoi and Dual Intuitionistic Logic”, *Australasian Journal of Logic*, 9: 26–44.
-* –––, 2015a, “The Evil Twin: The Basics of Complement-toposes”, in Beziau, Chakraborty and Dutta (eds.), *New Directions in Paraconsistent Logic*, Dordrecht: Springer: 375-425.
-* –––, 2015b, “From (paraconsistent) topos logic to Universal (topos) logic”, in Koslow and Buchsbaum (eds.), *The Road to Universal Logic: Festschrift for Jean-Yves Beziau on his Fiftieth Birthday*, Dordrecht: Springer, 263-295.
-* –––, 2016, “Prospects for Triviality”, in H. Andreas and P. Verdee (eds.), *Logical Studies of Paraconsistent Reasoning in Science and Mathematics*, Dordrecht: Springer, 81-89.
-* Goodman, N., 1981, “The Logic of Contradictions”, *Zeitschrift fur Mathematische Logic und Grundlagen der Arithmetik*, 27: 119–126.
-* Hatcher, W. S., 1982, *The Logical Foundations of Mathematics*, Oxford: Pergamon.
-* Hellman, G. and J. Bell, 2006, “Pluralism and the Foundations of Mathematics”, in C.K. Waters et al. (eds.), *Scientific Pluralism* (Minnesota Studies in the Philosophy of Science, Volume XIX), Minneapolis: University of Minnesota Press.
-* Kripke, S., 1975, “Outline of a Theory of Truth”, *The Journal of Philosophy*, 72: 690–716.
-* McKubre-Jordens, M., and Zach Weber, 2012, “Real Analysis and Paraconsistent Logic”, *Journal of Philosophical Logic*, 41(5): 901–922.
-* Meyer, R. K., 1976, “Relevant Arithmetic”, *Bulletin of the Section of Logic of the Polish Academy of Sciences*, 5: 133–137.
-* Meyer, R. K. and C. Mortensen, 1984, “Inconsistent Models for Relevant Arithmetics”, *The Journal of Symbolic Logic*, 49: 917–929.
-* Mortensen, C., 1983, “Reply to Burgess and to Read”, *Notre Dame Journal of Formal Logic*, 24: 35–40.
-* –––, 1990, “Models for Inconsistent and Incomplete Differential Calculus”, *Notre Dame Journal of Formal Logic*, 31: 274–285.
-* –––, 1995, *Inconsistent Mathematics*, Kluwer Mathematics and Its Applications Series, Dordrecht: Kluwer. [[Errata available online](https://www.adelaide.edu.au/directory/chris.mortensen?dsn=directory.file;field=data;id=15292;m=view).]
-* –––, 1997, “Peeking at the Impossible”, *Notre Dame Journal of Formal Logic*, 38: 527–534.
-* –––, 2000, “Prospects for Inconsistency”, in D. Batens *et al*. (eds.), *Frontiers of Paraconsistent Logic*, London: Research Studies Press, 203–208.
-* –––, 2002a, “Towards a Mathematics of Impossible Pictures”, in W. Carnielli, M. Coniglio and I. D’Ottaviano (eds.), *Paraconsistency: The Logical Way to the Infinite*, (Lecture Notes in Pure and Applied Mathematics, Volume 228), New York: Marcel Dekker, 445–454.
-* –––, 2002b, “Paradoxes Inside and Outside Language”, *Language and Communication*, 22: 301–311.
-* –––, 2003, “Closed Set Logic”, in R. Brady (ed.), *Relevant Logics and Their Rivals* (Volume II), Aldershot: Ashgate, pp. 252-262 (especially 255-6).
-* –––, 2006, “An Analysis of Inconsistent and Incomplete Necker Cubes”, *Australasian Journal of Logic*, 4: 216–225.
-* –––, 2010, *Inconsistent Geometry* (Studies in Logic, Volume 27), London: College Publications (King’s College).
-* –––, 2011, “Merge”, *Australasian Journal of Logic*, 9: 135–141.
-* –––, 2013, “Arithmetic Starred”, in K. Tanaka, F. Berto, E. Mares and F. Paoli (eds.), *Paraconsistency: Logic and Applications*, Dordrecht: Springer, 309–314.
-* –––, 2019, “Euclid's Geometry: the Case of Contradiction”, *Journal of Modern Greek Studies* (Australia and New Zealand), Special Issue, 2019, 71–83.
-* –––, 2019a, “Dialethism and Impossible Figures”, in A. Rieger and G. Young (eds.), *Dialetheism and Its Applications*, Cham: Springer International Publishing, 185–194.
-* –––, 2022, *The Impossible Arises*, Bloomington, Indiana University Press.
-* Paris, J., and Pathmanathan, N., 2006, “A Note on Priest’s Finite Arithmetics”, *The Journal of Philosophical Logic*, 35: 529–537.
-* Paris, J., and Sirokofskich, A., 2008, “On LP-models of Arithmetic”, *The Journal of Symbolic Logic*, 73(1): 212–226.
-* Priest, G., 1987, *In Contradiction*, Dordrecht: Nijhoff; second expanded edition, Oxford: The Clarendon Press, 2006.
-* –––, 1997, “Inconsistent Models for Arithmetic: I, Finite Models”, *The Journal of Philosophical Logic*, 26: 223–235.
-* –––, 2000, “Inconsistent Models for Arithmetic: II, The General Case”, *The Journal of Symbolic Logic*, 65: 1519–29.
-* –––, 2013, “Mathematical Pluralism”, *Logic Journal of IGPL*, 21(1): 4–13: doi:10.1093/jzs018
-* Priest, G., R. Routley and J. Norman (eds.), 1989, *Paraconsistent Logic*, Munich: Philosophia Verlag.
-* Restall, G., 2007, “Review of Brady *Universal Logic*”, *Bulletin of Symbolic Logic*, 13(4): 544–547.
-* Robinson, A., 1974, *Non-standard Analysis*, Amsterdam: North-Holland, revised edition.
-* Routley, R. and V. Routley, 1972, “The Semantics of First Degree Entailment”, *Noûs*, 6: 335–359.
-* Shapiro, S., 2002, “Inconsistency and Incompleteness”, *Mind*, 111: 817–832.
-* –––, “Structures and Logics: a Case for (a) Relativism”, *Erkenntnis*, 79: 309–329.
-* Tedder, A., 2015,“Axioms for Finite Collapse Models of Arithmetic”, *The Review of Symbolic Logic*, 8(3): 529-539.
-* Van Bendegem, J-P., 2014, “Inconsistency in Mathematics and the Mathematics of Inconsistency”, *Synthese*, 191(13), 3063-3078.
-* Weber, Z., 2010, “Transfinite Numbers in Paraconsistent Set Theory”, *The Review of Symbolic Logic*, 3(1): 71-92.
-* –––, 2012, “Transfinite Cardinals in Paraconsistent Set Theory”, *The Review of Symbolic Logic*, 5(2): 269–293.
-* –––, 2013, “Notes on Inconsistent Set Theory”, in K. Tanaka, F. Berto, E. Mares and F. Paoli (eds.), *Paraconsistency: Logic and Applications*, Dordrecht: Springer, 315–328.
-* ––– and Cotnoir, A.J., 2015, “Inconsistent Boundaries”, *Synthese*, 192: 1267–1294. doi:10.1007/511229-014-0614-2
-* Weber, Z., and M. McKubre-Jordens, 2017, “Paraconsistent Measurement of the Circle”, *Australasian Journal of Logic*, 14(1): doi:10.26686/ajl.v14i1.4034
+* Beall, J.C. and G. Restall, 2006, _Logical Pluralism_, Oxford: The Clarendon Press.
+* Benham, R., C. Mortensen and G. Priest, 2014, “Chunk and Permeate III: The Dirac Delta Function”, _Synthese_, 191(13): 3057-3062. doi:10.1007/s11229-014-0473-7
+* Berto, F., 2007, _How to Sell a Contradiction_, London: College Publications.
+* Brady, R., 1971, “The Consistency of the Axioms of Abstraction and Extensionality in a Three-Valued Logic”, _Notre Dame Journal of Formal Logic_, 12: 447–453.
+* –––, 1989, “The Nontriviality of Dialectical Set Theory”, in G. Priest, R. Routley and J. Norman (eds.), _Paraconsistent Logic_, Munich: Philosophia Verlag.
+* –––, 2006, _Universal Logic_, Stanford: CSLI Publications.
+* Brown, B., and G. Priest, 2004, “Chunk and Permeate: A Paraconsistent Inference Strategy. Part I: The Infinitesimal Calculus”, _The Journal of Philosophical Logic_, 33: 379–388.
+* Burgess, J., 1981, “Relevance, a Fallacy?”, _Notre Dame Journal of Formal Logic_, 22: 97–104.
+* Colyvan, M., 2000, “Applying Inconsistent Mathematics”, _New Waves in the Philosophy of Mathematics_, O.Bueno and O. Limmbo (eds.), London: Palgrave McMillan, 160-172.
+* Da Costa, Newton C.A., 1974, “On the Theory of Inconsistent Formal Systems”, _Notre Dame Journal of Formal Logic_, 15: 497–510.
+* –––, 2000, “Paraconsistent Mathematics”, in D. Batens _et al_. (eds.), _Frontiers of Paraconsistent Logic_, Hertfordshire: Research Studies Press, 165–180.
+* Davies, E.B., 2005 “A Defence of Mathematical Pluralism ”, _Philosophia Mathematica_, 13: 252–276.
+* Estrada-González, L., 2010, “Complement-Topoi and Dual Intuitionistic Logic”, _Australasian Journal of Logic_, 9: 26–44.
+* –––, 2015a, “The Evil Twin: The Basics of Complement-toposes”, in Beziau, Chakraborty and Dutta (eds.), _New Directions in Paraconsistent Logic_, Dordrecht: Springer: 375-425.
+* –––, 2015b, “From (paraconsistent) topos logic to Universal (topos) logic”, in Koslow and Buchsbaum (eds.), _The Road to Universal Logic: Festschrift for Jean-Yves Beziau on his Fiftieth Birthday_, Dordrecht: Springer, 263-295.
+* –––, 2016, “Prospects for Triviality”, in H. Andreas and P. Verdee (eds.), _Logical Studies of Paraconsistent Reasoning in Science and Mathematics_, Dordrecht: Springer, 81-89.
+* Goodman, N., 1981, “The Logic of Contradictions”, _Zeitschrift fur Mathematische Logic und Grundlagen der Arithmetik_, 27: 119–126.
+* Hatcher, W. S., 1982, _The Logical Foundations of Mathematics_, Oxford: Pergamon.
+* Hellman, G. and J. Bell, 2006, “Pluralism and the Foundations of Mathematics”, in C.K. Waters et al. (eds.), _Scientific Pluralism_ (Minnesota Studies in the Philosophy of Science, Volume XIX), Minneapolis: University of Minnesota Press.
+* Kripke, S., 1975, “Outline of a Theory of Truth”, _The Journal of Philosophy_, 72: 690–716.
+* McKubre-Jordens, M., and Zach Weber, 2012, “Real Analysis and Paraconsistent Logic”, _Journal of Philosophical Logic_, 41(5): 901–922.
+* Meyer, R. K., 1976, “Relevant Arithmetic”, _Bulletin of the Section of Logic of the Polish Academy of Sciences_, 5: 133–137.
+* Meyer, R. K. and C. Mortensen, 1984, “Inconsistent Models for Relevant Arithmetics”, _The Journal of Symbolic Logic_, 49: 917–929.
+* Mortensen, C., 1983, “Reply to Burgess and to Read”, _Notre Dame Journal of Formal Logic_, 24: 35–40.
+* –––, 1990, “Models for Inconsistent and Incomplete Differential Calculus”, _Notre Dame Journal of Formal Logic_, 31: 274–285.
+* –––, 1995, _Inconsistent Mathematics_, Kluwer Mathematics and Its Applications Series, Dordrecht: Kluwer. \[[Errata available online](https://www.adelaide.edu.au/directory/chris.mortensen?dsn=directory.file;field=data;id=15292;m=view).]
+* –––, 1997, “Peeking at the Impossible”, _Notre Dame Journal of Formal Logic_, 38: 527–534.
+* –––, 2000, “Prospects for Inconsistency”, in D. Batens _et al_. (eds.), _Frontiers of Paraconsistent Logic_, London: Research Studies Press, 203–208.
+* –––, 2002a, “Towards a Mathematics of Impossible Pictures”, in W. Carnielli, M. Coniglio and I. D’Ottaviano (eds.), _Paraconsistency: The Logical Way to the Infinite_, (Lecture Notes in Pure and Applied Mathematics, Volume 228), New York: Marcel Dekker, 445–454.
+* –––, 2002b, “Paradoxes Inside and Outside Language”, _Language and Communication_, 22: 301–311.
+* –––, 2003, “Closed Set Logic”, in R. Brady (ed.), _Relevant Logics and Their Rivals_ (Volume II), Aldershot: Ashgate, pp. 252-262 (especially 255-6).
+* –––, 2006, “An Analysis of Inconsistent and Incomplete Necker Cubes”, _Australasian Journal of Logic_, 4: 216–225.
+* –––, 2010, _Inconsistent Geometry_ (Studies in Logic, Volume 27), London: College Publications (King’s College).
+* –––, 2011, “Merge”, _Australasian Journal of Logic_, 9: 135–141.
+* –––, 2013, “Arithmetic Starred”, in K. Tanaka, F. Berto, E. Mares and F. Paoli (eds.), _Paraconsistency: Logic and Applications_, Dordrecht: Springer, 309–314.
+* –––, 2019, “Euclid's Geometry: the Case of Contradiction”, _Journal of Modern Greek Studies_ (Australia and New Zealand), Special Issue, 2019, 71–83.
+* –––, 2019a, “Dialethism and Impossible Figures”, in A. Rieger and G. Young (eds.), _Dialetheism and Its Applications_, Cham: Springer International Publishing, 185–194.
+* –––, 2022, _The Impossible Arises_, Bloomington, Indiana University Press.
+* Paris, J., and Pathmanathan, N., 2006, “A Note on Priest’s Finite Arithmetics”, _The Journal of Philosophical Logic_, 35: 529–537.
+* Paris, J., and Sirokofskich, A., 2008, “On LP-models of Arithmetic”, _The Journal of Symbolic Logic_, 73(1): 212–226.
+* Priest, G., 1987, _In Contradiction_, Dordrecht: Nijhoff; second expanded edition, Oxford: The Clarendon Press, 2006.
+* –––, 1997, “Inconsistent Models for Arithmetic: I, Finite Models”, _The Journal of Philosophical Logic_, 26: 223–235.
+* –––, 2000, “Inconsistent Models for Arithmetic: II, The General Case”, _The Journal of Symbolic Logic_, 65: 1519–29.
+* –––, 2013, “Mathematical Pluralism”, _Logic Journal of IGPL_, 21(1): 4–13: doi:10.1093/jzs018
+* Priest, G., R. Routley and J. Norman (eds.), 1989, _Paraconsistent Logic_, Munich: Philosophia Verlag.
+* Restall, G., 2007, “Review of Brady _Universal Logic_”, _Bulletin of Symbolic Logic_, 13(4): 544–547.
+* Robinson, A., 1974, _Non-standard Analysis_, Amsterdam: North-Holland, revised edition.
+* Routley, R. and V. Routley, 1972, “The Semantics of First Degree Entailment”, _Noûs_, 6: 335–359.
+* Shapiro, S., 2002, “Inconsistency and Incompleteness”, _Mind_, 111: 817–832.
+* –––, “Structures and Logics: a Case for (a) Relativism”, _Erkenntnis_, 79: 309–329.
+* Tedder, A., 2015,“Axioms for Finite Collapse Models of Arithmetic”, _The Review of Symbolic Logic_, 8(3): 529-539.
+* Van Bendegem, J-P., 2014, “Inconsistency in Mathematics and the Mathematics of Inconsistency”, _Synthese_, 191(13), 3063-3078.
+* Weber, Z., 2010, “Transfinite Numbers in Paraconsistent Set Theory”, _The Review of Symbolic Logic_, 3(1): 71-92.
+* –––, 2012, “Transfinite Cardinals in Paraconsistent Set Theory”, _The Review of Symbolic Logic_, 5(2): 269–293.
+* –––, 2013, “Notes on Inconsistent Set Theory”, in K. Tanaka, F. Berto, E. Mares and F. Paoli (eds.), _Paraconsistency: Logic and Applications_, Dordrecht: Springer, 315–328.
+* ––– and Cotnoir, A.J., 2015, “Inconsistent Boundaries”, _Synthese_, 192: 1267–1294. doi:10.1007/511229-014-0614-2
+* Weber, Z., and M. McKubre-Jordens, 2017, “Paraconsistent Measurement of the Circle”, _Australasian Journal of Logic_, 14(1): doi:10.26686/ajl.v14i1.4034
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mathematics-inconsistent). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mathematics-inconsistent/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mathematics-inconsistent&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/mathematics-inconsistent/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mathematics-inconsistent).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mathematics-inconsistent/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mathematics-inconsistent\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/mathematics-inconsistent/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[contradiction](https://plato.stanford.edu/entries/contradiction/) | [logic: paraconsistent](https://plato.stanford.edu/entries/logic-paraconsistent/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [self-reference](https://plato.stanford.edu/entries/self-reference/)
+[contradiction](https://plato.stanford.edu/entries/contradiction/) | [logic: paraconsistent](https://plato.stanford.edu/entries/logic-paraconsistent/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [self-reference](https://plato.stanford.edu/entries/self-reference/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[*Chris.Mortensen@adelaide.edu.au*](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[_Chris.Mortensen@adelaide.edu.au_](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>

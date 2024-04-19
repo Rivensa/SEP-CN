@@ -1,41 +1,36 @@
 # 语义 of words (Luca Gasparri and Diego Marconi)
 
-*首次发表于2015年6月2日；实质性修订于2019年8月9日*
+_首次发表于2015年6月2日；实质性修订于2019年8月9日_
 
 语义在早期当代语言哲学中扮演了一个相对边缘的角色，主要关注句子意义的结构特征，并对词级输入到组合过程中的性质表现出较少的兴趣。如今，已经确立了研究词义对人类语言基本属性的探究至关重要。本文概述了在分析哲学中探索与词义相关问题的方式，并总结了邻近科学领域对该主题的相关研究。尽管主要关注哲学问题，但也会考虑语言学、心理学、神经科学和人工智能的贡献，因为词义研究是高度跨学科的。
 
-* [ 1. 基础](https://plato.stanford.edu/entries/word-meaning/#Bas)
-
+* [1. 基础](https://plato.stanford.edu/entries/word-meaning/#Bas)
   * [1.1 词的概念](https://plato.stanford.edu/entries/word-meaning/#NotWor)
   * [1.2 语义理论](https://plato.stanford.edu/entries/word-meaning/#TheWorMea)
 * [2. 历史背景](https://plato.stanford.edu/entries/word-meaning/#HisBac)
-
   * [2.1 古典传统](https://plato.stanford.edu/entries/word-meaning/#ClaTra)
   * [2.2 历史-语言学语义](https://plato.stanford.edu/entries/word-meaning/#HisPhiSem)
 * [3. 语言哲学](https://plato.stanford.edu/entries/word-meaning/#PhiLan)
-
   * [3.1 早期当代观点](https://plato.stanford.edu/entries/word-meaning/#EarConVie)
   * [3.2 基础和词汇能力](https://plato.stanford.edu/entries/word-meaning/#GroLexCom)
   * [3.3 外在主义的转向](https://plato.stanford.edu/entries/word-meaning/#ExtTur)
-  * [ 3.4 内在主义](https://plato.stanford.edu/entries/word-meaning/#Int)
+  * [3.4 内在主义](https://plato.stanford.edu/entries/word-meaning/#Int)
   * [3.5 语境主义、极简主义和词汇](https://plato.stanford.edu/entries/word-meaning/#ConMinLex)
-* [ 4. 语言学](https://plato.stanford.edu/entries/word-meaning/#Lin)
-
+* [4. 语言学](https://plato.stanford.edu/entries/word-meaning/#Lin)
   * [4.1 结构主义语义](https://plato.stanford.edu/entries/word-meaning/#StrSem)
   * [4.2 生成主义语义](https://plato.stanford.edu/entries/word-meaning/#GenSem)
   * [4.3 分解式方法](https://plato.stanford.edu/entries/word-meaning/#DecApp)
   * [4.4 关系式方法](https://plato.stanford.edu/entries/word-meaning/#RelApp)
 * [5. 认知科学](https://plato.stanford.edu/entries/word-meaning/#CogSci)
-
   * [5.1 认知语言学](https://plato.stanford.edu/entries/word-meaning/#CogLin)
-  * [ 5.2 心理语言学](https://plato.stanford.edu/entries/word-meaning/#Psy)
-  * [ 5.3 神经语言学](https://plato.stanford.edu/entries/word-meaning/#Neu)
-* [ 参考文献](https://plato.stanford.edu/entries/word-meaning/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/word-meaning/#Aca)
+  * [5.2 心理语言学](https://plato.stanford.edu/entries/word-meaning/#Psy)
+  * [5.3 神经语言学](https://plato.stanford.edu/entries/word-meaning/#Neu)
+* [参考文献](https://plato.stanford.edu/entries/word-meaning/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/word-meaning/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/word-meaning/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/word-meaning/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/word-meaning/#Rel)
 
----
+***
 
 ## 1. 基础知识
 
@@ -47,7 +42,7 @@
 
 另一方面，我们有形而上学的方法，试图通过探究词的形而上本质来确定词的概念。这些方法通常涉及以下问题：“词是什么？”，“词应该如何个体化？”以及“在什么条件下，两个话语被视为同一个词的话语？”例如，Kaplan（1990年，2011年）提出用“共同货币”观点取代传统的类型-标记解释来描述词与词标记之间的关系，其中词与其标记的关系类似于四维形而上学中的持续体与阶段的关系（参见类型和标记以及随时间的身份的条目）。这场辩论的其他贡献可以在McCulloch（1991年），Cappelen（1999年），Alward（2005年），Hawthorne＆Lepore（2011年），Sainsbury＆Tye（2012年），Gasparri（2016年）和Irmak（即将出版）等文献中找到。
 
-为了本条目的目的，我们可以依赖以下规定。每种自然语言都有一个按词汇条目组织的词汇表，其中包含有关词类型或词素的信息。这些是与非组合意义惯例相关联并可以独立表达语义内容的最小语言表达式。词类型与词标记和出现的关系就像音韵学理论中的音位与音素的关系一样。为了理解这种平行关系，可以考虑音素/n/在发音上的变化，它在“ten bags”中发音为带声带的双唇鼻音[m]，而在“ten gates”中发音为带声带的软腭鼻音[ŋ]。正如音素是音素集合的抽象表示（每个音素定义了音素在语音中的一种实例化方式），词素可以被定义为词集合的抽象表示（每个词素定义了词在句子中的一种实例化方式）。因此，“do”、“does”、“done”和“doing”是同一抽象词类型 do 的形态和图形标记的实现。为了将所有内容包装成一个公式，我们可以说在词汇表中列出的词汇条目设置了词类型在句子、话语和铭文中实例化潜力的参数（参见 Murphy 2010）。在接下来的内容中，除非另有说明，我们所说的“词义”应被理解为“词类型意义”或“词素意义”，就像我们刚刚举例说明的那样。
+为了本条目的目的，我们可以依赖以下规定。每种自然语言都有一个按词汇条目组织的词汇表，其中包含有关词类型或词素的信息。这些是与非组合意义惯例相关联并可以独立表达语义内容的最小语言表达式。词类型与词标记和出现的关系就像音韵学理论中的音位与音素的关系一样。为了理解这种平行关系，可以考虑音素/n/在发音上的变化，它在“ten bags”中发音为带声带的双唇鼻音\[m]，而在“ten gates”中发音为带声带的软腭鼻音\[ŋ]。正如音素是音素集合的抽象表示（每个音素定义了音素在语音中的一种实例化方式），词素可以被定义为词集合的抽象表示（每个词素定义了词在句子中的一种实例化方式）。因此，“do”、“does”、“done”和“doing”是同一抽象词类型 do 的形态和图形标记的实现。为了将所有内容包装成一个公式，我们可以说在词汇表中列出的词汇条目设置了词类型在句子、话语和铭文中实例化潜力的参数（参见 Murphy 2010）。在接下来的内容中，除非另有说明，我们所说的“词义”应被理解为“词类型意义”或“词素意义”，就像我们刚刚举例说明的那样。
 
 ### 1.2 词义理论
 
@@ -73,7 +68,7 @@
 
 历史-语言学语义学综合了上述所有经典传统的元素，并在大约1870年至1930年间主导了语言学界，其中包括米歇尔·布雷尔（Michel Bréal）、赫尔曼·保罗（Hermann Paul）和阿尔森·达梅斯特特（Arsène Darmesteter）等学者的工作（Gordon 1982）。特别是，它从推测性词源学中吸收了对词义形成的概念机制的兴趣，从修辞分析中获得了对词汇现象分类的分类工具包，以及从词典学和文本语言学中吸收了描述性数据的经验基础，这些数据是随后的词义理论需要解释的（Geeraerts 2013）。
 
-在方法论方面，历史-语言学语义学所引入的词义研究方法具有以下关键特点。首先，它具有历时性和实用性导向。也就是说，它主要关注词义的历史演变，而不是静态理解的词义，并且赋予词义的语境灵活性极大的重要性。例如，Paul（1920 [1880]）区分了usuelle Bedeutung和okkasionelle Bedeutung，或者Bréal（1924 [1897]）将多义性解释为语义变化的副产品。其次，它主要将词义视为一种心理现象。它假设词的语义属性应以心理学术语（即，词在广义上表示“概念”或“思想”）来定义，并且词义变化背后的感知调节、扩展和收缩动态对应于人类思维中更广泛的概念活动模式。有趣的是，尽管古典修辞传统将修辞手法视为边缘的语言现象，其研究虽然重要，但主要受到文体考虑的驱动，但对于历史-语言学语义学而言，修辞手法产生和理解的心理机制是语言的日常生活的一部分，也是词汇系统各个方面演变的推动力量（Nerlich 1992）。
+在方法论方面，历史-语言学语义学所引入的词义研究方法具有以下关键特点。首先，它具有历时性和实用性导向。也就是说，它主要关注词义的历史演变，而不是静态理解的词义，并且赋予词义的语境灵活性极大的重要性。例如，Paul（1920 \[1880]）区分了usuelle Bedeutung和okkasionelle Bedeutung，或者Bréal（1924 \[1897]）将多义性解释为语义变化的副产品。其次，它主要将词义视为一种心理现象。它假设词的语义属性应以心理学术语（即，词在广义上表示“概念”或“思想”）来定义，并且词义变化背后的感知调节、扩展和收缩动态对应于人类思维中更广泛的概念活动模式。有趣的是，尽管古典修辞传统将修辞手法视为边缘的语言现象，其研究虽然重要，但主要受到文体考虑的驱动，但对于历史-语言学语义学而言，修辞手法产生和理解的心理机制是语言的日常生活的一部分，也是词汇系统各个方面演变的推动力量（Nerlich 1992）。
 
 历史-语义学对词义研究的贡献具有持久的影响。首先，历史-语义学强调语义变化的原则，是第一个系统框架，专注于词义的动态性，并将上下文的灵活性确立为词义理论的主要解释对象（Nerlich＆Clarke 1996, 2007）。历史-语义学的这一特点是许多后续词义方法（包括哲学（见第 3 节）和语言学（见第 4 节））强调上下文敏感性的明确先驱。其次，历史-语义学所培养的心理学方法对词义与认知的关系提出了研究议程。如果词义本质上是一种心理现象，应该使用哪些心理学范畴来描述它？我们的心理活动中构成词义知识的方面与不构成词义知识的方面之间的分界线在哪里？正如我们将看到的，这个问题将成为认知词义理论的一个核心关注点（见第 5 节）。
 
@@ -83,11 +78,11 @@
 
 ### 3.1 早期当代观点
 
-弗雷格（Frege）将思想与真理的联系视为语义学的基本问题，并将句子视为“思想的适当表达手段”（Frege 1979a [1897]），为 20 世纪句子意义优先于词汇意义的观点铺平了道路：将词汇单元等子句意义属性视为派生的，并将其与对句子意义的贡献等同起来。句子意义又被明确地等同于真值条件，尤其是在维特根斯坦的《逻辑哲学论》（1922）中。然而，弗雷格从未对“思想的构建要素”（Frege 1979b [1914]）失去兴趣，即对词汇单元的语义属性。事实上，他对名称和谓词的意义和指称理论可以被视为分析传统中词汇语义学的开创性贡献（参见关于戈特洛布·弗雷格的条目）。值得注意的是，弗雷格并没有将语义属性归因于词汇单元本身，而是归因于他所认为的句子的逻辑成分：例如，不是归因于单词“狗”，而是归因于谓词“是一只狗”。在后来的工作中，这种区别被抹去，弗雷格的语义概念开始应用于词汇单元。
+弗雷格（Frege）将思想与真理的联系视为语义学的基本问题，并将句子视为“思想的适当表达手段”（Frege 1979a \[1897]），为 20 世纪句子意义优先于词汇意义的观点铺平了道路：将词汇单元等子句意义属性视为派生的，并将其与对句子意义的贡献等同起来。句子意义又被明确地等同于真值条件，尤其是在维特根斯坦的《逻辑哲学论》（1922）中。然而，弗雷格从未对“思想的构建要素”（Frege 1979b \[1914]）失去兴趣，即对词汇单元的语义属性。事实上，他对名称和谓词的意义和指称理论可以被视为分析传统中词汇语义学的开创性贡献（参见关于戈特洛布·弗雷格的条目）。值得注意的是，弗雷格并没有将语义属性归因于词汇单元本身，而是归因于他所认为的句子的逻辑成分：例如，不是归因于单词“狗”，而是归因于谓词“是一只狗”。在后来的工作中，这种区别被抹去，弗雷格的语义概念开始应用于词汇单元。
 
 可能是因为对语义概念缺乏清晰度的影响，而且肯定是由于罗素（1905年）对弗雷格语义学的权威批评，20世纪20年代和30年代间，词义从哲学舞台上消失了。在维特根斯坦的《论逻辑哲学》中，“真实的”词汇单位，即完全分析句子的组成部分，只是名称，其语义属性仅通过其指称来耗尽。在塔斯基（1933年）关于形式语言的工作中，这被认为是语义学领域的定义性工作，词汇单位根据其指称的逻辑类型被语义上分为不同的类别（个体常量、谓词常量、函数常量），即根据它们是否指代解释域中的个体、个体类（或n元组的个体类）或定义在解释域上的函数。然而，塔斯基没有试图也没有感到有必要在属于同一逻辑类型的表达式之间表示语义差异（例如，“狗”和“跑”之间的一元谓词，或者“爱”和“左边”的二元谓词之间的差异）。参见阿尔弗雷德·塔斯基的条目。
 
-Quine（1943）和Church（1951）恢复了弗雷格对意义和指称的区分。像“飞马”这样的非指称词不能是无意义的：正是“飞马”的意义使说话者能够确定该词缺乏指称。此外，正如弗雷格（1892）所主张的，真实的事实性等同性，如“晨星=夜星”，并不陈述同义词；如果是这样的话，任何精通该语言的说话者都会意识到它们的真实性。沿着这些线索，卡纳普（1947）提出了意义/指称二分法的新表述，这被转化为内涵和外延的区别。内涵的概念旨在成为弗雷格“晦涩”概念的解释：如果且仅如果两个表达式在每个可能世界或者卡纳普的术语中，在每个状态描述（即每个最大一致的原子句和原子句的否定）中具有相同的外延，那么它们具有相同的内涵。因此，“圆形”和“球形”具有相同的内涵（即它们在每个可能世界中都适用于相同的对象），因为它们将每个可能世界映射到外延的函数是相同的。卡纳普后来提出，内涵可以被视为词汇语义能力的内容：了解一个词的意义就是了解它的内涵，“一个对象必须满足的一般条件，以便被[该]词所指称”（卡纳普1955）。然而，卡纳普（1947）并没有详细说明这些一般条件。因此，他的系统与塔斯基的系统一样，无法解释属于同一语义范畴的词之间的语义差异和关系：在某些可能世界中，同一个个体a既可以是已婚男子又可以是单身汉，因为对于这两个词的内涵没有任何限制。 正如奎恩（1951）所指出的，其中一个结果是卡纳普的系统，该系统被认为是将分析真理作为在每个可能的世界中都为真的真理单独出来，“单身汉是未婚的”——直观上，这是一个典型的分析真理——结果却是合成的而不是分析的。
+Quine（1943）和Church（1951）恢复了弗雷格对意义和指称的区分。像“飞马”这样的非指称词不能是无意义的：正是“飞马”的意义使说话者能够确定该词缺乏指称。此外，正如弗雷格（1892）所主张的，真实的事实性等同性，如“晨星=夜星”，并不陈述同义词；如果是这样的话，任何精通该语言的说话者都会意识到它们的真实性。沿着这些线索，卡纳普（1947）提出了意义/指称二分法的新表述，这被转化为内涵和外延的区别。内涵的概念旨在成为弗雷格“晦涩”概念的解释：如果且仅如果两个表达式在每个可能世界或者卡纳普的术语中，在每个状态描述（即每个最大一致的原子句和原子句的否定）中具有相同的外延，那么它们具有相同的内涵。因此，“圆形”和“球形”具有相同的内涵（即它们在每个可能世界中都适用于相同的对象），因为它们将每个可能世界映射到外延的函数是相同的。卡纳普后来提出，内涵可以被视为词汇语义能力的内容：了解一个词的意义就是了解它的内涵，“一个对象必须满足的一般条件，以便被\[该]词所指称”（卡纳普1955）。然而，卡纳普（1947）并没有详细说明这些一般条件。因此，他的系统与塔斯基的系统一样，无法解释属于同一语义范畴的词之间的语义差异和关系：在某些可能世界中，同一个个体a既可以是已婚男子又可以是单身汉，因为对于这两个词的内涵没有任何限制。 正如奎恩（1951）所指出的，其中一个结果是卡纳普的系统，该系统被认为是将分析真理作为在每个可能的世界中都为真的真理单独出来，“单身汉是未婚的”——直观上，这是一个典型的分析真理——结果却是合成的而不是分析的。
 
 为了纠正他认为是他系统中不令人满意的特征，卡纳普（1952）引入了意义假设，即对词汇项的扩展之间关系的规定。例如，意义假设
 
@@ -173,7 +168,7 @@ Grice对话理论和含义被许多人（包括Grice本人）解释为一种令�
 
 ## 4. 语义学
 
-现代词义学理论的出现通常被放置在历史-语言学语义学（第 2.2 节）向结构主义语义学的过渡时期，即 20 世纪初费迪南德·索绪尔（Ferdinand de Saussure）以他的《普通语言学课程》（1995 [1916]）开始的语言学运动。
+现代词义学理论的出现通常被放置在历史-语言学语义学（第 2.2 节）向结构主义语义学的过渡时期，即 20 世纪初费迪南德·索绪尔（Ferdinand de Saussure）以他的《普通语言学课程》（1995 \[1916]）开始的语言学运动。
 
 ### 4.1 结构主义语义学
 
@@ -186,25 +181,25 @@ Grice对话理论和含义被许多人（包括Grice本人）解释为一种令�
 结构主义所推广的词汇现象解释方法催生了多种对词义的描述性方法。我们可以将它们分为三类（Lipka 1992; Murphy 2003; Geeraerts 2006）。
 
 * 词汇场理论。由特里尔（1931）引入，主张通过研究同一词汇场中词语之间的关系来研究词义。词汇场是一组语义相关的词语，它们的意义相互依赖，并共同构成了给定现实领域的概念结构。词汇场理论假设词汇场是封闭的集合，没有重叠的意义或语义空缺。每当一个词语的意义发生变化（例如，其适用范围扩大或缩小），其整个词汇场的安排都会受到影响（Lehrer 1974）。
-* 成分分析。在 20 世纪 50 年代下半叶由欧洲和美国的语言学家（如帕蒂尔、科塞里乌、布卢姆菲尔德、尼达）发展起来的框架，认为词义可以基于一组有限的概念构建块（称为语义成分或特征）来描述。例如，“男人”可以分析为[+ 男性]，[+ 成熟]，“女人”为[− 男性]，[+ 成熟]，“孩子”为[+/− 男性] [− 成熟]（Leech 1974）。
+* 成分分析。在 20 世纪 50 年代下半叶由欧洲和美国的语言学家（如帕蒂尔、科塞里乌、布卢姆菲尔德、尼达）发展起来的框架，认为词义可以基于一组有限的概念构建块（称为语义成分或特征）来描述。例如，“男人”可以分析为\[+ 男性]，\[+ 成熟]，“女人”为\[− 男性]，\[+ 成熟]，“孩子”为\[+/− 男性] \[− 成熟]（Leech 1974）。
 * 关系语义学。在林恩斯（1963）等语言学家的工作中占据重要地位，这种方法与词汇场理论一样，致力于描述词汇关系，但在两个重要方面有所不同。首先，它不假设相关词语集合与现实领域之间存在直接对应关系，因此放弃了词汇场的组织应反映非语言世界组织的假设。其次，与从独立的解释中推导出词汇项的意义关系的陈述（例如，同义关系，下位关系）不同，对于关系语义学来说，词义由词语参与的语义关系集合构成（Evens et al. 1980; Cruse 1986）。
 
 ### 4.2 生成主义语义学
 
 结构主义的组成派别首先在词义理论中产生了一项重要创新：卡茨式语义学（Katz & Fodor 1963; Katz 1972, 1987）。卡茨式语义学将组成分析与心理主义的词义观结合起来，并发展了一种在形式语法背景下描述词汇现象的方法。卡茨式语义学的心理主义成分是双重的。首先，词义被定义为从我们的一般分类能力中继承而来的更简单的概念特征的聚合体。其次，该理论的适当主题不再被认定为“语言的结构”，而是根据乔姆斯基（Chomsky）（1957, 1965）的观点，与说话者理解其语言中的词语和句子的能力相关。在卡茨式语义学中，词义是结构化的实体，其表示被称为语义标记。语义标记是一个带有标记节点的分层树，其结构重现了所代表意义的结构，而标记则标识了词语的概念成分。例如，下图简化了‘追逐’的意义（摘自 Katz 1987）。
 
-![a tree of the form ActivityNP,S Physical Movement Fast Direction ofNP,VP,S Toward Location of NP,VP,S    Purpose Catching NP,VP,S  ](https://plato.stanford.edu/entries/word-meaning/word-meaning-tree.png)
+![a tree of the form ActivityNP,S Physical Movement Fast Direction ofNP,VP,S Toward Location of NP,VP,S    Purpose Catching NP,VP,S](https://plato.stanford.edu/entries/word-meaning/word-meaning-tree.png)
 
-Katz（1987）声称，这种方法在透明度和丰富性方面都优于通过意义假设提供的词义分析。例如，在Katzian语义学中，诸如∀x∀y（chase（x，y）→follow（x，y））之类的条件语句的验证可以简化为一种检查：只需检查“follow”的语义标记是否是“chase”的语义标记的子树。此外，该方法在词义的表示中融入了组合关系（请注意上面的概念组件上附加的语法标签“NP”、“VP”和“S”）。Katzian语义学受到了生成语义学派的好评（Fodor 1977；Newmeyer 1980），并引起了对形式化词义表示的兴趣，这在接下来的几十年里将主导语言学界（Harris 1993）。然而，它最终被放弃了。正如后来的评论者所指出的，Katzian语义学存在三个重要的缺点。首先，该理论没有提供任何关于语义标记所代表的复杂概念信息如何对句子的真值条件做出贡献的明确模型（Lewis 1972）。其次，一些可以通过意义假设轻松表示的词义方面无法通过语义标记来表达，例如谓词的对称性和传递性（例如∀x∀y（sibling（x，y）→sibling（y，x））或∀x∀y∀z（louder（x，y）&louder（y，z）→louder（x，z））；请参见Dowty 1979）。第三，Katz关于词义本质上具有结构的观点的论证被持原子主义词义观点的支持者提出的异议所削弱（尤其是Fodor＆Lepore 1992）。
+Katz（1987）声称，这种方法在透明度和丰富性方面都优于通过意义假设提供的词义分析。例如，在Katzian语义学中，诸如∀x∀y（chase（x，y）→follow（x，y））之类的条件语句的验证可以简化为一种检查：只需检查“follow”的语义标记是否是“chase”的语义标记的子树。此外，该方法在词义的表示中融入了组合关系（请注意上面的概念组件上附加的语法标签“NP”、“VP”和“S”）。Katzian语义学受到了生成语义学派的好评（Fodor 1977；Newmeyer 1980），并引起了对形式化词义表示的兴趣，这在接下来的几十年里将主导语言学界（Harris 1993）。然而，它最终被放弃了。正如后来的评论者所指出的，Katzian语义学存在三个重要的缺点。首先，该理论没有提供任何关于语义标记所代表的复杂概念信息如何对句子的真值条件做出贡献的明确模型（Lewis 1972）。其次，一些可以通过意义假设轻松表示的词义方面无法通过语义标记来表达，例如谓词的对称性和传递性（例如∀x∀y（sibling（x，y）→sibling（y，x））或∀x∀y∀z（louder（x，y）\&louder（y，z）→louder（x，z））；请参见Dowty 1979）。第三，Katz关于词义本质上具有结构的观点的论证被持原子主义词义观点的支持者提出的异议所削弱（尤其是Fodor＆Lepore 1992）。
 
 在 Katzian 语义学之后，词义的语言学理论领域出现了分歧。一方面，我们发现了一组理论，推进了 Katz 建立的分解议程。另一方面，我们发现了一组理论，促进了词汇场理论和关系语义学的关系方法。根据 Geeraerts（2010）的观点，我们将简要描述以下理论。
 
-| *分解框架*                     | * 关系框架* |
-| ---------------------- | ------------- |
-| 自然语义金属 anguage | 符号网络    |
-| 概念语义             | 统计分析    |
-| 两层语义             |             |
-| 生成词汇理论         |             |
+| _分解框架_         | \* 关系框架\* |
+| -------------- | --------- |
+| 自然语义金属 anguage | 符号网络      |
+| 概念语义           | 统计分析      |
+| 两层语义           |           |
+| 生成词汇理论         |           |
 
 ### 4.3 分解方法
 
@@ -212,17 +207,17 @@ Katz（1987）声称，这种方法在透明度和丰富性方面都优于通过
 
 对于 NSM 来说，词义可以通过仅使用原始语言粒子的组合来详尽地表示。概念语义学（Jackendoff 1983, 1990, 2002）提出了一种更加开放的方法。根据概念语义学，词义本质上是一种专门的语言知识（例如，形态句法知识）和核心非语言认知之间的接口现象。因此，词义被建模为混合语义表示，结合了语言特征（例如，句法标签）和基于感知知识和运动模式的概念元素。例如，这是根据 Jackendoff 的“喝”这个词的语义表示。
 
-⎡⎢ ⎢ ⎢ ⎢ ⎢ ⎢⎣喝 V–––––⟨NPj⟩[EventCAUSE([Thing]i,[EventGO([ThingLIQUID]j,[PathTO([PlaceIN([ThingMOUTH OF([Thing]i)])])])])]⎤⎥ ⎥ ⎥ ⎥ ⎥ ⎥⎦
+⎡⎢ ⎢ ⎢ ⎢ ⎢ ⎢⎣喝 V–––––⟨NPj⟩\[EventCAUSE(\[Thing]i,\[EventGO(\[ThingLIQUID]j,\[PathTO(\[PlaceIN(\[ThingMOUTH OF(\[Thing]i)])])])])]⎤⎥ ⎥ ⎥ ⎥ ⎥ ⎥⎦
 
 句法标记表示分析词语的语法属性，而下标中的项目则来自一个核心的感知基础原语集合（例如，事件、状态、事物、路径、地点、属性、数量），这些原语被认为是人类思维的内在、跨模态和普遍的范畴。概念语义的分解机制具有一些吸引人的特点。特别值得注意的是，它的表示考虑了语法类别和词级句法，这可能是我们对词语意义的知识的一个重要方面。然而，关于语言和概念结构之间相互作用的一些主张似乎更具问题。首先，有观察到说话者倾向于以不同的方式使用因果谓词（例如，“喝”）和表达其分解结构的释义（例如，“使液体进入某人或某物的口中”），有时这些方式是不可互换的（例如，Wolff 2003），这引发了对Jackendoff式的分解分析是否可以被视为对词义的忠实表示的疑虑。此外，概念语义对于在确定可以提供词义描述的运动感知原语的确切方法上有些不清楚（Pulman 2005）。最后，概念语义对于可以用于定义词义的概念材料类型的限制（基于感知知识和运动模式的低级原语）似乎影响了该框架的解释能力。例如，如何解释“慢跑”和“奔跑”之间的意义差异，而不考虑关于慢跑的社会特征的更高级别、可以说是非感知的知识，这通常意味着特定的休闲环境、对身体健康的贡献意图等等？参见Taylor（1996）、Deane（1996）。
 
 概念语义学所划定的词义和一般世界知识之间的明确分界并不能告诉我们关于语言使用中两者之间的动态互动的太多信息。Bierwisch（1983a，b）和 Lang（Bierwisch＆Lang 1989；Lang 1993）的双层语义学旨在提供这样一个动态解释。双层语义学将词义视为两个系统之间相互作用的结果：语义形式（SF）和概念结构（CS）。SF 是一个词的基本特征的形式化表示。它包含了指定词的可接受的句法分布的语法信息，以及一组变量和语义参数，其值由与 CS 的相互作用确定。相比之下，CS 由介于语言和世界之间的与语言无关的知识系统（包括一般世界知识）组成（Lang＆Maienborn 2011）。根据双层语义学，例如，多义词可以通过具有稳定的未指定 SF 并可以灵活地由 CS 操纵来表达可变的含义。例如，考虑词“大学”，它可以被理解为指代一个机构（如“大学选择了约翰的申请”）或一个建筑物（如“大学位于河的北侧”）。简单来说，双层语义学解释了选择这些解读的动力学如下。
 
-1. 因为“大学”属于以其目的为主要特征的物体指称词类别，所以“大学”的一般词汇条目为λx[purpose[xw]]。
-2. 基于我们对大学的主要目的是提供高等教育的知识，‘大学’的 SF 被指定为λx[purpose[xw]&advanced study and teaching[w]]。
-3. “大学”这个词的替代解释是计算机科学可以通过两种方式设置变量 x 的值来实现的，这两种方式分别是λx[机构[x]&目的[xw]]和λx[建筑[x]&目的[xw]]。
+1. 因为“大学”属于以其目的为主要特征的物体指称词类别，所以“大学”的一般词汇条目为λx\[purpose\[xw]]。
+2. 基于我们对大学的主要目的是提供高等教育的知识，‘大学’的 SF 被指定为λx\[purpose\[xw]\&advanced study and teaching\[w]]。
+3. “大学”这个词的替代解释是计算机科学可以通过两种方式设置变量 x 的值来实现的，这两种方式分别是λx\[机构\[x]&目的\[xw]]和λx\[建筑\[x]&目的\[xw]]。
 
-两级语义学与 Jackendoff 和 Wierzbicka 的承诺一致，采用了描述性范式，将词义与稳定的分解模板联系起来，同时避免了对能够调节这种稳定的分解模板的概念因素类型进行限制性描述所引起的直接复杂性。但是，仍然存在一些重要问题。第一个问题是定义的准确性：将“大学”的 SF 定义为λx[目的[xw]&高等研究和教学[w]]似乎过于宽松，无法反映出“大学”和指定高等教育机构的相关术语（如“学院”或“学府”）之间的微妙差异。此外，两级语义学的工具主要依赖于λ表达式，正如一些评论家所指出的（例如 Taylor 1994, 1995），这似乎不适合表示我们常常依赖于来确定高度多义词义的复杂世界知识的形式。另请参阅 Wunderlich（1991, 1993）。
+两级语义学与 Jackendoff 和 Wierzbicka 的承诺一致，采用了描述性范式，将词义与稳定的分解模板联系起来，同时避免了对能够调节这种稳定的分解模板的概念因素类型进行限制性描述所引起的直接复杂性。但是，仍然存在一些重要问题。第一个问题是定义的准确性：将“大学”的 SF 定义为λx\[目的\[xw]&高等研究和教学\[w]]似乎过于宽松，无法反映出“大学”和指定高等教育机构的相关术语（如“学院”或“学府”）之间的微妙差异。此外，两级语义学的工具主要依赖于λ表达式，正如一些评论家所指出的（例如 Taylor 1994, 1995），这似乎不适合表示我们常常依赖于来确定高度多义词义的复杂世界知识的形式。另请参阅 Wunderlich（1991, 1993）。
 
 生成词汇理论（GL；Pustejovsky 1995）采用了不同的方法。与通过在语义上薄弱的词汇条目上应用丰富的概念操作来解释词义的上下文灵活性不同，这种方法假设了词汇条目中包含丰富的概念信息和世界事实知识。根据经典的 GL 理论，一个典型词汇 w 的词汇条目中编码的信息资源包括以下四个层次。
 
@@ -240,11 +235,7 @@ Katz（1987）声称，这种方法在透明度和丰富性方面都优于通过
 
 将这些感觉形成一个词的“感觉结构”。例如，名词“三明治”的感觉结构将包含关于三明治的构成、它们作为物理实体的性质、它们被设计为食用的性质，以及我们对通常涉及三明治准备的操作的了解。符号表示如下。
 
- 三明治(x)
-const = {面包, …}
- form = 物理对象(x)
-tel = 吃(P, g, x)
- agent = 人工制品(x)
+三明治(x) const = {面包, …} form = 物理对象(x) tel = 吃(P, g, x) agent = 人工制品(x)
 
 质感结构是 GL 用于解释多义性的主要理论。句子“Mary finished the sandwich”接受默认解释“Mary finished eating the sandwich”，因为‘finish’的论证结构要求一个动作作为直接宾语，而‘sandwich’的质感结构通过类型强制转换允许生成适当的意义（Pustejovsky 2006）。GL 是一个持续进行的研究计划（Pustejovsky et al. 2012），在计算语言学中有重要的应用（例如，Pustejovsky & Jezek 2008；Pustejovsky & Rumshisky 2008）。但与迄今为止提到的理论一样，它也受到了批评。首先，一个普遍的批评是 GL 的分解假设是没有根据的，应该用词义的原子主义观点来取代（Fodor & Lepore 1998；参见 Pustejovsky 1998 的回应）。第二个批评是 GL 过于狭窄地关注依赖于句子上下文和质感结构的词义变化，因为词义在上下文中的变化通常取决于更复杂的因素，例如在话语中跟踪连贯关系的能力（例如，Asher & Lascarides 1995；Lascarides & Copestake 1998；Kehler 2002；Asher 2011）。最后，该框架的经验适应性受到了质疑。有人认为 GL 的形式装置导致了错误的预测，质感结构有时会过度生成或不足生成解释，并且 GL 假设的丰富词汇条目在心理上是不可信的（例如，Jayez 2001；Blutner 2002）。
 
@@ -264,18 +255,18 @@ tel = 吃(P, g, x)
 
 在1970年代初，埃莉诺·罗施提出了一种关于范畴的心理表征的新理论。她声称，像家具或鸟这样的概念，并不仅仅被表示为具有明确边界的一组标准特征，以便根据是否符合相关标准来确定一个项目是否属于该概念。相反，范畴内的项目可以被认为更或者更少地代表了该范畴本身（Rosch 1975; Rosch & Mervis 1975; Mervis & Rosch 1981）。几个实验似乎表明，概念的应用并不是简单的是或否的问题：一些项目（“好的例子”）更容易被识别为属于一个概念，而其他项目（“差的例子”）则不太容易。汽车被认为是比划艇更好的车辆的例子，比电梯更好得多；胡萝卜更容易被识别为概念“蔬菜”的一个例子，而南瓜则不太容易。如果说话者与范畴词（如“车辆”和“蔬菜”）相关联的概念只是一组标准特征的集合，那么这些偏好就无法解释，因为它们对符合标准的项目进行了同等程度的排名。因此，可以合理地假设与范畴词相关联的概念具有以最具代表性的范例为中心的中心-外围结构：鸟被认为是比鸵鸟更“鸟类”的鸟，或者用人们的话说，更接近鸟的原型或典型鸟（参见有关概念的条目）。
 
-虽然罗施的实验中没有证明原型排序应该被实体化并作为概念内容对待（她的实验仅支持了一种关于类别概念的心理表征理论应与原型效应的存在一致的观点），但原型研究革新了现有的类别概念方法（Murphy 2002），并成为认知语言学诞生的主要推动力。原型在Brugman（1988 [1981]）和Lakoff（Brugman & Lakoff 1988）的径向网络理论的发展中起到了核心作用，该理论通过在词义结构中引入罗施开创性工作中的中心-周边关系来建模词义的感知网络。根据Brugman的观点，词义通常可以被建模为径向复合结构，其中一个主导意义通过诸如隐喻和转喻等语义关系与不太典型的意义相关联。例如，“水果”的意义网络以植物生长的产物为中心，以更抽象的结果为周边，两者之间通过隐喻关系相连。在类似的观点上，Lakoff和Johnson的概念隐喻理论（1980；Lakoff 1987）和Fauconnier的心理空间方法（1994；Fauconnier & Turner 1998）结合了以下假设：词义通常具有将多个相关意义以径向方式排列的内部结构，并进一步声称我们对词语的使用受到硬连线映射机制的控制，这些机制促进了跨概念领域的词义整合。例如，正是由于这些机制，表达“爱情就是战争”、“生活就是旅程”在不同文化中如此普遍，并且听起来对我们来说非常自然。 根据提出的观点，这些关联是创造性的、感知基础的、系统性的、跨文化统一的，并且基于与人类具身体验的核心要素相关的语言前模式的概念活动（参见隐喻和具身认知的条目）。更多信息请参阅Kövecses（2002）、Gibbs（2008）和Dancygier＆Sweetser（2014）的解释。
+虽然罗施的实验中没有证明原型排序应该被实体化并作为概念内容对待（她的实验仅支持了一种关于类别概念的心理表征理论应与原型效应的存在一致的观点），但原型研究革新了现有的类别概念方法（Murphy 2002），并成为认知语言学诞生的主要推动力。原型在Brugman（1988 \[1981]）和Lakoff（Brugman & Lakoff 1988）的径向网络理论的发展中起到了核心作用，该理论通过在词义结构中引入罗施开创性工作中的中心-周边关系来建模词义的感知网络。根据Brugman的观点，词义通常可以被建模为径向复合结构，其中一个主导意义通过诸如隐喻和转喻等语义关系与不太典型的意义相关联。例如，“水果”的意义网络以植物生长的产物为中心，以更抽象的结果为周边，两者之间通过隐喻关系相连。在类似的观点上，Lakoff和Johnson的概念隐喻理论（1980；Lakoff 1987）和Fauconnier的心理空间方法（1994；Fauconnier & Turner 1998）结合了以下假设：词义通常具有将多个相关意义以径向方式排列的内部结构，并进一步声称我们对词语的使用受到硬连线映射机制的控制，这些机制促进了跨概念领域的词义整合。例如，正是由于这些机制，表达“爱情就是战争”、“生活就是旅程”在不同文化中如此普遍，并且听起来对我们来说非常自然。 根据提出的观点，这些关联是创造性的、感知基础的、系统性的、跨文化统一的，并且基于与人类具身体验的核心要素相关的语言前模式的概念活动（参见隐喻和具身认知的条目）。更多信息请参阅Kövecses（2002）、Gibbs（2008）和Dancygier＆Sweetser（2014）的解释。
 
 认知语言学引入的另一个重大创新是坚决采用“百科全书式”方法来解释词义，最好的例子是框架语义学（Fillmore 1975, 1982）和领域理论（Langacker 1987）。从某种程度上说，词义的解释方法可以被定义为“百科全书式”，因为它将对世界事实的知识视为词义的主要构成力量。而心理空间方法和概念隐喻理论主要将词义视为概念之间联想模式的产物，Fillmore和Langacker则将注意力转向了词义与典型说话者所拥有的百科全书式知识之间的关系。例如，我们使用和解释动词“购买”的能力与我们对商业交易的社会性质的背景知识密切相关，这涉及到卖方、买方、商品、货币、货币与商品之间的关系等等。然而，这种知识结构不能被建模为标准的概念式表示。框架语义学试图应对这一挑战的方法如下。首先，词被构建为具有高度概念化的音形对，这些概念以径向类别的形式进行内部组织，并作为访问百科全书式知识的站点。其次，提供了关于百科全书式知识表征组织的解释。根据Fillmore的观点，百科全书式知识以框架的形式在长期记忆中表示，即以概念化的原型特征和功能来指定一个指称物的交互方式，以及与之通常相关的对象和事件。因此，框架提供了与特定经验领域相关的元素和实体的概念化表示，并传达了使用和解释用于谈论该领域的词所需的信息。例如，根据 Fillmore＆Atkins（1992）的观点，动词“bet”的使用受到风险框架的支配，其如下所示：
 
-| *Protagonist*: | 框架中的中心代理者。                           |
-| --- | ------------------------------------------------ |
-| *Bad*: | 可能的不良结果。                               |
-| *Decision*: | 可能引发不良结果的决策。                       |
-| *Goal*: | 期望的结果。                                   |
-| *Setting*: | 风险存在的情境。                               |
-| *Possession*: | 在情境中被主角所重视并处于危险中的某物或某人。 |
-| *Source*: | 可能造成伤害的某物或某人。                     |
+| _Protagonist_: | 框架中的中心代理者。              |
+| -------------- | ----------------------- |
+| _Bad_:         | 可能的不良结果。                |
+| _Decision_:    | 可能引发不良结果的决策。            |
+| _Goal_:        | 期望的结果。                  |
+| _Setting_:     | 风险存在的情境。                |
+| _Possession_:  | 在情境中被主角所重视并处于危险中的某物或某人。 |
+| _Source_:      | 可能造成伤害的某物或某人。           |
 
 与框架语义学相似（有关类似之处详见 Clausner＆Croft 1999），Langacker 的领域理论认为我们对词语的语义理解取决于我们对称为领域的更大知识结构的访问。为了说明领域的概念，可以考虑词语“直径”。这个词的意义不能独立于对圆的概念的先前理解而理解。根据 Langacker 的观点，词语的意义恰恰是“轮廓-领域”组织的问题：轮廓对应于在相关宏结构内指定的子结构元素，而领域对应于提供背景信息的宏结构，通过该背景信息可以解释轮廓（Taylor 2002）。在直径/圆的例子中，“直径”在圆领域中指定一个轮廓。类似地，“热”、“冷”和“温暖”这样的表达式在温度领域中指定属性。Langacker 认为，领域通常被组织成反映部分整体关系的层次结构，并为语言使用提供基本的概念本体论。例如，“肘”一词的意义是相对于“手臂”领域理解的，而“手臂”的意义则位于“身体”领域中。重要的是，个体轮廓通常属于不同的领域，这是自然语言中多义性普遍存在的因素之一。例如，“爱”的轮廓既属于具身经验的领域，也属于婚姻仪式等抽象领域的社会活动领域。
 
@@ -324,302 +315,302 @@ tel = 吃(P, g, x)
 
 ## Bibliography
 
-* Aitchison, J., 2012, *Words in the Mind: An Introduction to the Mental Lexicon*, 4th edn., London: Wiley-Blackwell.
-* Allan, K. (ed.), 2013, *The Oxford Handbook of the History of Linguistics*, Oxford: Oxford University Press.
-* Allot, N. and M. Textor, 2012, “Lexical Pragmatic Adjustment and the Nature of Ad Hoc Concepts”, *International Review of Pragmatics*, 4: 185–208.
-* Alward, P., 2005, “Between the Lines of Age: Reflections on the Metaphysics of Words”, *Pacific Philosophical Quarterly*, 86: 172–187.
-* Asher, N., 2011, *Lexical Meaning in Context: A Web of Words*, Cambridge: Cambridge University Press.
-* Asher, N. and A. Lascarides, 1995, “Lexical Disambiguation in a Discourse Context”, *Journal of Semantics*, 12: 69–108.
-* Atkins, B.T.S. and A. Zampolli (eds.), 1994, *Computational Approaches to the Lexicon*, Oxford: Oxford University Press.
-* Bach, K., 1994, “Conversational Impliciture”, *Mind and Language*, 9: 124–162
-* Bahr, A., M. Carrara, and L. Jansen, 2019, “Functions and Kinds of Art Works and Other Artifacts: An Introduction”, *Grazer Philosophische Studien*, 96: 1–18
-* Barsalou, L., 1983, “Ad Hoc Categories”, *Memory and Cognition*, 11: 211–227.
+* Aitchison, J., 2012, _Words in the Mind: An Introduction to the Mental Lexicon_, 4th edn., London: Wiley-Blackwell.
+* Allan, K. (ed.), 2013, _The Oxford Handbook of the History of Linguistics_, Oxford: Oxford University Press.
+* Allot, N. and M. Textor, 2012, “Lexical Pragmatic Adjustment and the Nature of Ad Hoc Concepts”, _International Review of Pragmatics_, 4: 185–208.
+* Alward, P., 2005, “Between the Lines of Age: Reflections on the Metaphysics of Words”, _Pacific Philosophical Quarterly_, 86: 172–187.
+* Asher, N., 2011, _Lexical Meaning in Context: A Web of Words_, Cambridge: Cambridge University Press.
+* Asher, N. and A. Lascarides, 1995, “Lexical Disambiguation in a Discourse Context”, _Journal of Semantics_, 12: 69–108.
+* Atkins, B.T.S. and A. Zampolli (eds.), 1994, _Computational Approaches to the Lexicon_, Oxford: Oxford University Press.
+* Bach, K., 1994, “Conversational Impliciture”, _Mind and Language_, 9: 124–162
+* Bahr, A., M. Carrara, and L. Jansen, 2019, “Functions and Kinds of Art Works and Other Artifacts: An Introduction”, _Grazer Philosophische Studien_, 96: 1–18
+* Barsalou, L., 1983, “Ad Hoc Categories”, _Memory and Cognition_, 11: 211–227.
 * –––, 1992, “Frames, Concepts and Conceptual Fields”, in Lehrer and Kittay 1992: 21–74.
-* –––, 1999, “Perceptual Symbol Systems”, *Behavioral and Brain Sciences*, 22: 577–609.
-* Béjoint, H., 2000, *Modern Lexicography: An Introduction*, Oxford: Oxford University Press.
-* Bergen, B.K. and N. Chang, 2005, “Embodied Construction Grammar in Simulation-Based Language Understanding”, in J.-O. Östman and M. Fried (eds.), *Construction Grammars: Cognitive Grounding and Theoretical Extensions*, Amsterdam: Benjamins, 147–190.
-* Bezuidenhout, A., 2002, “Truth-Conditional Pragmatics”, *Philosophical Perspectives*, 16: 105–134.
-* Bierwisch, M., 1983b, “Major Aspects of the Psychology of Language”, *Linguistische Studien*, 114: 1–38.
-* –––, 1983a, “Formal and Lexical Semantics”, *Linguistische Studien*, 114: 56–79.
-* Bierwisch, M. and E. Lang (eds.), 1989, *Dimensional Adjectives: Grammatical Structure and Conceptual Interpretation*, Berlin: Springer.
-* Bilgrami, A., 1992, *Meaning and Belief*, Oxford: Blackwell.
-* Binder, J.R., R.H. Desai, W.W. Graves, and L.L. Conant, 2009, “Where Is the Semantic System? A Critical Review and Meta-Analysis of 120 Functional Neuroimaging Studies”, *Cerebral Cortex*, 19: 2767–2796.
-* Block, N., 1986, “An Advertisement for a Semantics for Psychology”, *Midwest Studies in Philosophy*, 10: 615–678.
-* Blutner, R., 2002, “Lexical Semantics and Pragmatics”, *Linguistische Berichte*, 10: 27–58.
-* Bock, K. and W.J.M. Levelt, 1994, “Language Production: Grammatical Encoding”, in M.A. Gernsbacher (ed.), *Handbook of Psycholinguistics*, San Diego, CA: Academic Press, 945–984.
-* Bohnemeyer, J., 2003, “NSM without the Strong Lexicalization Hypothesis”, *Theoretical Linguistics*, 29: 211–222.
-* Bonomi, A., 1983, “Linguistica e Logica”, in C. Segre (ed.), *Intorno alla Linguistica*, Milan: Feltrinelli, 425–453.
-* Booij, G., 2007, *The Grammar of Words: An Introduction to Linguistic Morphology*, 2nd edition, Oxford: Oxford University Press.
-* Borg, E., 2004, *Minimal Semantics*, Oxford: Oxford University Press.
-* –––, 2012, *Pursuing Meaning*, Oxford: Oxford University Press.
-* Bréal, M., 1924 [1897], *Essai de Sémantique: Science des Significations*, Paris: Gérard Monfort.
-* Brédart, S., 2017, “The Cognitive Psychology and Neuroscience of Naming People”, *Neuroscience & Biobehavioural Reviews*, 83: 145–154.
-* Bromberger, S., 2011, “What are Words? Comments on Kaplan (1990), on Hawthorne and Lepore, and on the Issue”, *Journal of Philosophy*, 108: 485–503.
-* Brugman, C., 1988 [1981], *The Story of “Over”: Polysemy, Semantics and the Structure of the Lexicon*, New York, NY: Garland.
-* Brugman, C. and G. Lakoff, 1988, “Cognitive Topology and Lexical Networks”, in S. Small, G. Cottrell and M. Tannenhaus (eds.), *Lexical Ambiguity Resolution*, San Mateo, CA: Morgan Kaufman, 477–508.
-* Burge, T., 1979, “Individualism and the Mental”, *Midwest Studies in Philosophy*, 6: 73–121.
-* –––, 1993, “Concepts, Definitions, and Meaning”, *Metaphilosophy*, 24: 309–25.
-* Calzavarini, F., 2017, “Inferential and Referential Lexical Semantic Competence: A Critical Review of the Supporting Evidence”, *Journal of Neurolinguistics*, 44: 163–189.
-* –––, forthcoming, *Brain and the Lexicon*, New York: Springer.
-* Cappelen, H., 1999, “Intentions in Words”, *Noûs*, 33: 92–102.
-* Cappelen, H. and E. Lepore, 2005, *Insensitive Semantics: A Defense of Semantic Minimalism and Speech Act Pluralism*, Oxford: Blackwell.
-* Caramazza, A. and J. Shelton, 1998, “Domain Specific Knowledge Systems in the Brain: The Animate-Inanimate Distinction”, *Journal of Cognitive Neuroscience*, 10: 1–34.
-* Caramazza, A. and B.Z. Mahon, 2006, “The Organization of Conceptual Knowledge in the Brain: The Future’s Past and Some Future Directions”, *Cognitive Neuropsychology*, 23: 13–38.
-* Carnap, R., 1947, *Meaning and Necessity*, Chicago, IL: University of Chicago Press.
-* –––, 1952, “Meaning Postulates”, *Philosophical Studies*, 3: 65–73.
-* –––, 1955, “Meaning and Synonymy in Natural Languages”, *Philosophical Studies*, 6: 33–47.
-* Carston, R., 2002, *Thoughts and Utterances*, Oxford: Blackwell.
-* Chalmers, D., 1996, *The Conscious Mind*, Oxford: Oxford University Press.
-* –––, 2002, “On Sense and Intension”, *Nous*36 (Suppl. 16): 135–182.
-* Chao, L.L., J.V. Haxby, and A. Martin, 1999, “Attribute-Based Neural Substrates in Temporal Cortex for Perceiving and Knowing about Objects”, *Nature Neuroscience*, 2: 913–919.
-* Chierchia, G. and S. McConnell-Ginet, 2000, *Meaning and Grammar: An Introduction to Semantics*, 2nd edn., Cambridge, MA: MIT Press.
-* Chomsky, N., 1957, *Syntactic Structures*, The Hague: Mouton.
-* –––, 1965, *Aspects of the Theory of Syntax*, Cambridge, MA: MIT Press.
-* –––, 2000, *New Horizons in the Study of Language and Mind*, Cambridge: Cambridge University Press.
-* Church, A., 1951, “A Formulation of the Logic of Sense and Denotation”, in P. Henle, H.M. Kallen, and S.K. Langer (eds.), *Structure, Method and Meaning*, New York, NY: Liberal Arts Press, 3–24.
-* Clausner, T.C. and W. Croft, 1999, “Domains and Image Schemas”, *Cognitive Linguistics*, 10: 1–31.
-* Collins, A.M. and M.R. Quillian, 1969, “Retrieval Time from Semantic Memory”, *Journal of Verbal Learning & Verbal Behavior*, 8: 240–247.
-* Collins, A.M. and E.F. Loftus, 1975, “A Spreading-Activation Theory of Semantic Processing”, *Psychological Review*, 82: 407–428.
-* Croft, W. and D.A. Cruse, 2004, *Cognitive Linguistics*, Cambridge: Cambridge University Press.
-* Cruse, A.D., 1986, *Lexical Semantics*, Cambridge: Cambridge University Press.
-* Damasio, H., T.J. Grabowski, D. Tranel, R.D. Hitchwa, and A.R. Damasio, 1996, “A Neural Basis for Lexical Retrieval”, *Nature*, 380: 499–505.
-* Davidson, D., 1967, “Truth and Meaning”, *Synthese*, 17: 304–323.
-* –––, 1984, *Inquiries into Truth and Interpretation*, Oxford: Oxford University Press.
-* Davidson, D. and G. Harman (eds.), 1972, *Semantics of Natural Language*, Dordrecht: Reidel.
-* Dancygier, B. and E. Sweetser, 2014, *Figurative Language*, Cambridge: Cambridge University Press.
-* Deane, P.D., 1996, “On Jackendoff’s Conceptual Semantics”, *Cognitive Linguistics*, 7: 35–92.
-* Del Bello, D., 2007, *Forgotten Paths: Etymology and the Allegorical Mindset*, Washington, D.C.: Catholic University of America Press.
-* Del Pinal, G., 2018, “Meaning, Modulation, and Context: A Multidimensional Semantics for Truth-conditional Pragmatics”, *Linguistics & Philosophy*, 41: 165–207.
-* Denes, G., 2009, *Talking Heads: The Neuroscience of Language*, New York, NY: Psychology Press.
-* Devitt, M., 1983, “Dummett’s Anti-Realism”, *Journal of Philosophy*, 80: 73–99.
-* Devitt, M. and K. Sterelny, 1987, *Language and Reality: An Introduction to the Philosophy of Language*, Oxford: Blackwell.
-* Devlin, J.T., L.M. Gonnerman, E.S. Andersen, and M.S. Seidenberg, 1998, “Category Specific Semantic Deficits in Focal and Widespread Brain Damage: A Computational Account”, *Journal of Cognitive Neuroscience*, 10: 77–94.
-* Dilkina, K., J.L. McClelland, and D.C. Plaut, 2010, “Are There Mental Lexicons? The Role of Semantics in Lexical Decision”, *Brain Research*, 1365: 66–81.
-* Di Sciullo, A.-M. and E. Williams, 1987, *On the Definition of Word*, Cambridge, MA: MIT Press.
-* Dove, G., 2016, “Three Symbol Ungrounding Problems: Abstract Concepts and the Future of Embodied Cognition”, *Psychonomic Bulletin & Review*, 23: 1109–1121.
-* Dowty, D.R., 1979, *Word Meaning and Montague Grammar*, Dordrecht: Reidel.
-* Dummett, M., 1976, “What Is a Theory of Meaning?”, in S. Guttenplan (ed.), *Mind and Language*, Oxford: Oxford University Press, 97–138.
-* –––, 1991, *The Logical Basis of Metaphysics*, London: Duckworth.
-* Egré, P., 2015, “Explanation in Linguistics”, *Philosophy Compass*, 10: 451–462.
-* Ellis, A.W., A.W. Young, and E.M. Critchley, 1989, “Loss of Memory for People Following Temporal Lobe Damage”, *Brain*, 112: 1469–1483.
-* Elman, J.L., 2004, “An Alternative View of the Mental Lexicon”, *Trends in Cognitive Sciences*, 8: 301–306.
-* –––, 2009, “On the Meaning of Words and Dinosaur Bones: Lexical Knowledge Without a Lexicon”, *Cognitive Science*, 33: 547–582.
-* Evans, G., 1982, *The Varieties of Reference*, Oxford : Clarendon Press.
-* Evans, V., 2009, *How Words Mean: Lexical Concepts, Cognitive Models, and Meaning Construction*, Oxford: Oxford University Press.
-* –––, 2010, “Cognitive Linguistics”, in L. Cummings (ed.), *The Routledge Pragmatics Encyclopedia*, London: Routledge, 46–49.
-* Evans, V. and M. Green, 2006, *Cognitive Linguistics: An Introduction*, Edinburgh: Edinburgh University Press.
-* Evens, M.W., B.E. Litowitz, J.E. Markowitz, R.N. Smith, and O. Werner, 1980, *Lexical-Semantic Relations: A Comparative Survey*, Edmonton: Linguistic Research.
-* Fauconnier, G., 1994, *Mental Spaces: Aspects of Meaning Construction in Natural Language*, New York, NY: Cambridge University Press.
-* Fauconnier, G. and M. Turner, 1998, “Conceptual Integration Networks”, *Cognitive Science*, 22: 133–187.
-* Faust, M. (ed.), 2012, *The Handbook of the Neuropsychology of Language*, 2 vols., Oxford: Wiley Blackwell.
-* Fellbaum, C., 1998, *WordNet: An Electronic Lexical Database*, Cambridge, MA: MIT Press.
-* Fillmore, C., 1975, “An Alternative to Checklist Theories of Meaning”, *Proceedings of the First Annual Meeting of the Berkeley Linguistics Society*, Amsterdam: North Holland.
-* –––, 1982, “Frame Semantics”, in Linguistic Society of Korea (ed.), *Linguistics in the Morning Calm*, Seoul: Hanshin Publishing, 111–137.
+* –––, 1999, “Perceptual Symbol Systems”, _Behavioral and Brain Sciences_, 22: 577–609.
+* Béjoint, H., 2000, _Modern Lexicography: An Introduction_, Oxford: Oxford University Press.
+* Bergen, B.K. and N. Chang, 2005, “Embodied Construction Grammar in Simulation-Based Language Understanding”, in J.-O. Östman and M. Fried (eds.), _Construction Grammars: Cognitive Grounding and Theoretical Extensions_, Amsterdam: Benjamins, 147–190.
+* Bezuidenhout, A., 2002, “Truth-Conditional Pragmatics”, _Philosophical Perspectives_, 16: 105–134.
+* Bierwisch, M., 1983b, “Major Aspects of the Psychology of Language”, _Linguistische Studien_, 114: 1–38.
+* –––, 1983a, “Formal and Lexical Semantics”, _Linguistische Studien_, 114: 56–79.
+* Bierwisch, M. and E. Lang (eds.), 1989, _Dimensional Adjectives: Grammatical Structure and Conceptual Interpretation_, Berlin: Springer.
+* Bilgrami, A., 1992, _Meaning and Belief_, Oxford: Blackwell.
+* Binder, J.R., R.H. Desai, W.W. Graves, and L.L. Conant, 2009, “Where Is the Semantic System? A Critical Review and Meta-Analysis of 120 Functional Neuroimaging Studies”, _Cerebral Cortex_, 19: 2767–2796.
+* Block, N., 1986, “An Advertisement for a Semantics for Psychology”, _Midwest Studies in Philosophy_, 10: 615–678.
+* Blutner, R., 2002, “Lexical Semantics and Pragmatics”, _Linguistische Berichte_, 10: 27–58.
+* Bock, K. and W.J.M. Levelt, 1994, “Language Production: Grammatical Encoding”, in M.A. Gernsbacher (ed.), _Handbook of Psycholinguistics_, San Diego, CA: Academic Press, 945–984.
+* Bohnemeyer, J., 2003, “NSM without the Strong Lexicalization Hypothesis”, _Theoretical Linguistics_, 29: 211–222.
+* Bonomi, A., 1983, “Linguistica e Logica”, in C. Segre (ed.), _Intorno alla Linguistica_, Milan: Feltrinelli, 425–453.
+* Booij, G., 2007, _The Grammar of Words: An Introduction to Linguistic Morphology_, 2nd edition, Oxford: Oxford University Press.
+* Borg, E., 2004, _Minimal Semantics_, Oxford: Oxford University Press.
+* –––, 2012, _Pursuing Meaning_, Oxford: Oxford University Press.
+* Bréal, M., 1924 \[1897], _Essai de Sémantique: Science des Significations_, Paris: Gérard Monfort.
+* Brédart, S., 2017, “The Cognitive Psychology and Neuroscience of Naming People”, _Neuroscience & Biobehavioural Reviews_, 83: 145–154.
+* Bromberger, S., 2011, “What are Words? Comments on Kaplan (1990), on Hawthorne and Lepore, and on the Issue”, _Journal of Philosophy_, 108: 485–503.
+* Brugman, C., 1988 \[1981], _The Story of “Over”: Polysemy, Semantics and the Structure of the Lexicon_, New York, NY: Garland.
+* Brugman, C. and G. Lakoff, 1988, “Cognitive Topology and Lexical Networks”, in S. Small, G. Cottrell and M. Tannenhaus (eds.), _Lexical Ambiguity Resolution_, San Mateo, CA: Morgan Kaufman, 477–508.
+* Burge, T., 1979, “Individualism and the Mental”, _Midwest Studies in Philosophy_, 6: 73–121.
+* –––, 1993, “Concepts, Definitions, and Meaning”, _Metaphilosophy_, 24: 309–25.
+* Calzavarini, F., 2017, “Inferential and Referential Lexical Semantic Competence: A Critical Review of the Supporting Evidence”, _Journal of Neurolinguistics_, 44: 163–189.
+* –––, forthcoming, _Brain and the Lexicon_, New York: Springer.
+* Cappelen, H., 1999, “Intentions in Words”, _Noûs_, 33: 92–102.
+* Cappelen, H. and E. Lepore, 2005, _Insensitive Semantics: A Defense of Semantic Minimalism and Speech Act Pluralism_, Oxford: Blackwell.
+* Caramazza, A. and J. Shelton, 1998, “Domain Specific Knowledge Systems in the Brain: The Animate-Inanimate Distinction”, _Journal of Cognitive Neuroscience_, 10: 1–34.
+* Caramazza, A. and B.Z. Mahon, 2006, “The Organization of Conceptual Knowledge in the Brain: The Future’s Past and Some Future Directions”, _Cognitive Neuropsychology_, 23: 13–38.
+* Carnap, R., 1947, _Meaning and Necessity_, Chicago, IL: University of Chicago Press.
+* –––, 1952, “Meaning Postulates”, _Philosophical Studies_, 3: 65–73.
+* –––, 1955, “Meaning and Synonymy in Natural Languages”, _Philosophical Studies_, 6: 33–47.
+* Carston, R., 2002, _Thoughts and Utterances_, Oxford: Blackwell.
+* Chalmers, D., 1996, _The Conscious Mind_, Oxford: Oxford University Press.
+* –––, 2002, “On Sense and Intension”, _Nous_36 (Suppl. 16): 135–182.
+* Chao, L.L., J.V. Haxby, and A. Martin, 1999, “Attribute-Based Neural Substrates in Temporal Cortex for Perceiving and Knowing about Objects”, _Nature Neuroscience_, 2: 913–919.
+* Chierchia, G. and S. McConnell-Ginet, 2000, _Meaning and Grammar: An Introduction to Semantics_, 2nd edn., Cambridge, MA: MIT Press.
+* Chomsky, N., 1957, _Syntactic Structures_, The Hague: Mouton.
+* –––, 1965, _Aspects of the Theory of Syntax_, Cambridge, MA: MIT Press.
+* –––, 2000, _New Horizons in the Study of Language and Mind_, Cambridge: Cambridge University Press.
+* Church, A., 1951, “A Formulation of the Logic of Sense and Denotation”, in P. Henle, H.M. Kallen, and S.K. Langer (eds.), _Structure, Method and Meaning_, New York, NY: Liberal Arts Press, 3–24.
+* Clausner, T.C. and W. Croft, 1999, “Domains and Image Schemas”, _Cognitive Linguistics_, 10: 1–31.
+* Collins, A.M. and M.R. Quillian, 1969, “Retrieval Time from Semantic Memory”, _Journal of Verbal Learning & Verbal Behavior_, 8: 240–247.
+* Collins, A.M. and E.F. Loftus, 1975, “A Spreading-Activation Theory of Semantic Processing”, _Psychological Review_, 82: 407–428.
+* Croft, W. and D.A. Cruse, 2004, _Cognitive Linguistics_, Cambridge: Cambridge University Press.
+* Cruse, A.D., 1986, _Lexical Semantics_, Cambridge: Cambridge University Press.
+* Damasio, H., T.J. Grabowski, D. Tranel, R.D. Hitchwa, and A.R. Damasio, 1996, “A Neural Basis for Lexical Retrieval”, _Nature_, 380: 499–505.
+* Davidson, D., 1967, “Truth and Meaning”, _Synthese_, 17: 304–323.
+* –––, 1984, _Inquiries into Truth and Interpretation_, Oxford: Oxford University Press.
+* Davidson, D. and G. Harman (eds.), 1972, _Semantics of Natural Language_, Dordrecht: Reidel.
+* Dancygier, B. and E. Sweetser, 2014, _Figurative Language_, Cambridge: Cambridge University Press.
+* Deane, P.D., 1996, “On Jackendoff’s Conceptual Semantics”, _Cognitive Linguistics_, 7: 35–92.
+* Del Bello, D., 2007, _Forgotten Paths: Etymology and the Allegorical Mindset_, Washington, D.C.: Catholic University of America Press.
+* Del Pinal, G., 2018, “Meaning, Modulation, and Context: A Multidimensional Semantics for Truth-conditional Pragmatics”, _Linguistics & Philosophy_, 41: 165–207.
+* Denes, G., 2009, _Talking Heads: The Neuroscience of Language_, New York, NY: Psychology Press.
+* Devitt, M., 1983, “Dummett’s Anti-Realism”, _Journal of Philosophy_, 80: 73–99.
+* Devitt, M. and K. Sterelny, 1987, _Language and Reality: An Introduction to the Philosophy of Language_, Oxford: Blackwell.
+* Devlin, J.T., L.M. Gonnerman, E.S. Andersen, and M.S. Seidenberg, 1998, “Category Specific Semantic Deficits in Focal and Widespread Brain Damage: A Computational Account”, _Journal of Cognitive Neuroscience_, 10: 77–94.
+* Dilkina, K., J.L. McClelland, and D.C. Plaut, 2010, “Are There Mental Lexicons? The Role of Semantics in Lexical Decision”, _Brain Research_, 1365: 66–81.
+* Di Sciullo, A.-M. and E. Williams, 1987, _On the Definition of Word_, Cambridge, MA: MIT Press.
+* Dove, G., 2016, “Three Symbol Ungrounding Problems: Abstract Concepts and the Future of Embodied Cognition”, _Psychonomic Bulletin & Review_, 23: 1109–1121.
+* Dowty, D.R., 1979, _Word Meaning and Montague Grammar_, Dordrecht: Reidel.
+* Dummett, M., 1976, “What Is a Theory of Meaning?”, in S. Guttenplan (ed.), _Mind and Language_, Oxford: Oxford University Press, 97–138.
+* –––, 1991, _The Logical Basis of Metaphysics_, London: Duckworth.
+* Egré, P., 2015, “Explanation in Linguistics”, _Philosophy Compass_, 10: 451–462.
+* Ellis, A.W., A.W. Young, and E.M. Critchley, 1989, “Loss of Memory for People Following Temporal Lobe Damage”, _Brain_, 112: 1469–1483.
+* Elman, J.L., 2004, “An Alternative View of the Mental Lexicon”, _Trends in Cognitive Sciences_, 8: 301–306.
+* –––, 2009, “On the Meaning of Words and Dinosaur Bones: Lexical Knowledge Without a Lexicon”, _Cognitive Science_, 33: 547–582.
+* Evans, G., 1982, _The Varieties of Reference_, Oxford : Clarendon Press.
+* Evans, V., 2009, _How Words Mean: Lexical Concepts, Cognitive Models, and Meaning Construction_, Oxford: Oxford University Press.
+* –––, 2010, “Cognitive Linguistics”, in L. Cummings (ed.), _The Routledge Pragmatics Encyclopedia_, London: Routledge, 46–49.
+* Evans, V. and M. Green, 2006, _Cognitive Linguistics: An Introduction_, Edinburgh: Edinburgh University Press.
+* Evens, M.W., B.E. Litowitz, J.E. Markowitz, R.N. Smith, and O. Werner, 1980, _Lexical-Semantic Relations: A Comparative Survey_, Edmonton: Linguistic Research.
+* Fauconnier, G., 1994, _Mental Spaces: Aspects of Meaning Construction in Natural Language_, New York, NY: Cambridge University Press.
+* Fauconnier, G. and M. Turner, 1998, “Conceptual Integration Networks”, _Cognitive Science_, 22: 133–187.
+* Faust, M. (ed.), 2012, _The Handbook of the Neuropsychology of Language_, 2 vols., Oxford: Wiley Blackwell.
+* Fellbaum, C., 1998, _WordNet: An Electronic Lexical Database_, Cambridge, MA: MIT Press.
+* Fillmore, C., 1975, “An Alternative to Checklist Theories of Meaning”, _Proceedings of the First Annual Meeting of the Berkeley Linguistics Society_, Amsterdam: North Holland.
+* –––, 1982, “Frame Semantics”, in Linguistic Society of Korea (ed.), _Linguistics in the Morning Calm_, Seoul: Hanshin Publishing, 111–137.
 * Fillmore, C. and B.T. Atkins, 1992, “Toward a Frame-Based Lexicon: The Semantics of risk and its Neighbors”, in Lehrer and Kittay 1992: 75–102.
-* Fodor, J.A., 1983, *The Modularity of Mind*, Cambridge, MA: MIT Press.
-* –––, 1998, *Concepts: Where Cognitive Science Went Wrong*, Oxford: Oxford University Press.
-* Fodor, J.A. and E. Lepore, 1992, *Holism: A Shopper’s Guide*, Oxford: Blackwell.
-* –––, 1998, “The Emptiness of the Lexicon: Reflections on James Pustejovsky’s *The Generative Lexicon*”, *Linguistic Inquiry*, 29: 269–288.
-* Fodor, J.D., 1977, *Semantics: Theories of Meaning in Generative Grammar*, New York, NY: Harper & Row.
-* Frege, G., 1892, “Über Sinn und Bedeutung”, *Zeitschrift für Philosophie und philosophische Kritik*, 100: 25–50.
-* –––, 1979a [1897], “Logic”, in *Posthumous Writings*, Oxford: Blackwell.
-* –––, 1979b [1914], “Logic in Mathematics”, in *Posthumous Writings*, Oxford: Blackwell.
-* Fumaroli, M. (ed.), 1999, *Histoire de la Rhetorique dans l’Europe Moderne 1450–1950*, Paris: Presses Universitaires de France.
-* Gallese, V. and G. Lakoff, 2005, “The Brain’s Concepts: The Role of the Sensory-Motor System in Conceptual Knowledge”, *Cognitive Neuropsychology*, 21: 455–479.
-* Gasparri, L., 2016, “Originalism about Word Types”, *Thought: A Journal of Philosophy*, 5: 126–133.
-* Geeraerts, D., 2006, *Words and Other Wonders: Papers on Lexical and Semantic Topics*, Berlin: Mouton de Gruyter.
-* –––, 2010, *Theories of Lexical Semantics*, Oxford: Oxford University Press.
+* Fodor, J.A., 1983, _The Modularity of Mind_, Cambridge, MA: MIT Press.
+* –––, 1998, _Concepts: Where Cognitive Science Went Wrong_, Oxford: Oxford University Press.
+* Fodor, J.A. and E. Lepore, 1992, _Holism: A Shopper’s Guide_, Oxford: Blackwell.
+* –––, 1998, “The Emptiness of the Lexicon: Reflections on James Pustejovsky’s _The Generative Lexicon_”, _Linguistic Inquiry_, 29: 269–288.
+* Fodor, J.D., 1977, _Semantics: Theories of Meaning in Generative Grammar_, New York, NY: Harper & Row.
+* Frege, G., 1892, “Über Sinn und Bedeutung”, _Zeitschrift für Philosophie und philosophische Kritik_, 100: 25–50.
+* –––, 1979a \[1897], “Logic”, in _Posthumous Writings_, Oxford: Blackwell.
+* –––, 1979b \[1914], “Logic in Mathematics”, in _Posthumous Writings_, Oxford: Blackwell.
+* Fumaroli, M. (ed.), 1999, _Histoire de la Rhetorique dans l’Europe Moderne 1450–1950_, Paris: Presses Universitaires de France.
+* Gallese, V. and G. Lakoff, 2005, “The Brain’s Concepts: The Role of the Sensory-Motor System in Conceptual Knowledge”, _Cognitive Neuropsychology_, 21: 455–479.
+* Gasparri, L., 2016, “Originalism about Word Types”, _Thought: A Journal of Philosophy_, 5: 126–133.
+* Geeraerts, D., 2006, _Words and Other Wonders: Papers on Lexical and Semantic Topics_, Berlin: Mouton de Gruyter.
+* –––, 2010, _Theories of Lexical Semantics_, Oxford: Oxford University Press.
 * –––, 2013, “Lexical Semantics From Speculative Etymology to Structuralist Semantics”, in Allan 2013: 555–570.
-* Gibbs, R.W. Jr. (ed.), 2008, *The Cambridge Handbook of Metaphor and Thought*, Cambridge: Cambridge University Press.
-* Gleitman, L. and A. Papafragou, 2013, “Relations Between Language and Thought”, in D. Reisberg (ed.), *The Oxford Handbook of Cognitive Psychology*, Oxford: Oxford University Press, 255–275.
-* Goddard, C., 1998, “Bad Arguments Against Semantic Primes”, *Theoretical Linguistics*, 24: 129–156.
-* –––, 2012, “Semantic Primes, Semantic Molecules, Semantic Templates: Key Concepts in the NSM Approach to Lexical Typology”, *Linguistics*, 50: 711–743.
-* Goddard, C. and A. Wierzbicka (eds.), 2002, *Meaning and Universal Grammar: Theory and Empirical Findings*, 2 Vols., Amsterdam: Benjamins.
-* –––, 2007, “Semantic Primes and Cultural Scripts in Language Learning and Intercultural Communication”, in G. Palmer and F. Sharifian (eds.), *Applied Cultural Linguistics: Implications for Second Language Learning and Intercultural Communication*, Amsterdam: Benjamins, 105–124.
-* Goldberg, A., 1995, *Constructions: A Construction Grammar Approach to Argument Structure*, Chicago, IL: Chicago University Press.
-* Gonzales, J., et al., 2006, “Reading *Cinnamon* Activates Olfactory Brain Regions”, *Neuroimage*, 32: 906–912.
-* Gordon, W.T., 1982, *A History of Semantics*, Amsterdam: Benjamins.
-* Grandy, R., 1974, “Some Remarks about Logical Form”, *Nous*, 8: 157–164.
-* Grice, H.P., 1975, “Logic and Conversation”, in P. Cole and J.L. Morgan (eds.), *Syntax and Semantics 3: Speech Acts*, New York, NY: Academic Press, 41–58.
-* Guo, C.C., et al., 2013, “Anterior Temporal Lobe Degeneration Produces Widespread Network-Driven Dysfunction”, *Brain*, 136: 2979–2991.
-* Hamberger, M.J., R.R. Goodman, K. Perrine, and T. Tamny, 2001, “Anatomic Dissociation of Auditory and Visual Naming in the Lateral Temporal Cortex”, *Neurology*, 56: 56–61.
-* Hamberger, M.J. and W.T. Seidel, 2009, “Localization of Cortical Dysfunction Based on Auditory and Visual Naming Performance”, *Journal of the International Neuropsychological Society*, 15: 529–535.
+* Gibbs, R.W. Jr. (ed.), 2008, _The Cambridge Handbook of Metaphor and Thought_, Cambridge: Cambridge University Press.
+* Gleitman, L. and A. Papafragou, 2013, “Relations Between Language and Thought”, in D. Reisberg (ed.), _The Oxford Handbook of Cognitive Psychology_, Oxford: Oxford University Press, 255–275.
+* Goddard, C., 1998, “Bad Arguments Against Semantic Primes”, _Theoretical Linguistics_, 24: 129–156.
+* –––, 2012, “Semantic Primes, Semantic Molecules, Semantic Templates: Key Concepts in the NSM Approach to Lexical Typology”, _Linguistics_, 50: 711–743.
+* Goddard, C. and A. Wierzbicka (eds.), 2002, _Meaning and Universal Grammar: Theory and Empirical Findings_, 2 Vols., Amsterdam: Benjamins.
+* –––, 2007, “Semantic Primes and Cultural Scripts in Language Learning and Intercultural Communication”, in G. Palmer and F. Sharifian (eds.), _Applied Cultural Linguistics: Implications for Second Language Learning and Intercultural Communication_, Amsterdam: Benjamins, 105–124.
+* Goldberg, A., 1995, _Constructions: A Construction Grammar Approach to Argument Structure_, Chicago, IL: Chicago University Press.
+* Gonzales, J., et al., 2006, “Reading _Cinnamon_ Activates Olfactory Brain Regions”, _Neuroimage_, 32: 906–912.
+* Gordon, W.T., 1982, _A History of Semantics_, Amsterdam: Benjamins.
+* Grandy, R., 1974, “Some Remarks about Logical Form”, _Nous_, 8: 157–164.
+* Grice, H.P., 1975, “Logic and Conversation”, in P. Cole and J.L. Morgan (eds.), _Syntax and Semantics 3: Speech Acts_, New York, NY: Academic Press, 41–58.
+* Guo, C.C., et al., 2013, “Anterior Temporal Lobe Degeneration Produces Widespread Network-Driven Dysfunction”, _Brain_, 136: 2979–2991.
+* Hamberger, M.J., R.R. Goodman, K. Perrine, and T. Tamny, 2001, “Anatomic Dissociation of Auditory and Visual Naming in the Lateral Temporal Cortex”, _Neurology_, 56: 56–61.
+* Hamberger, M.J. and W.T. Seidel, 2009, “Localization of Cortical Dysfunction Based on Auditory and Visual Naming Performance”, _Journal of the International Neuropsychological Society_, 15: 529–535.
 * Hanks, P., 2013, “Lexicography from Earliest Times to the Present”, in Allan 2013: 503–536.
-* Hanley, J.R., 2011, “Why are Names of People Associated with so many Phonological Retrieval Failures?”, *Psychonomic Bulletin & Review*, 18: 612–617.
-* Harley, T.A., 2014, *The Psychology of Language: From Data to Theory*, 4th edn., New York, NY: Psychology Press.
-* Harnad, S., 1990, “The Symbol-grounding Problem”, *Physica*, D 42: 335–346.
-* Harris, R.A., 1993, *The Linguistics Wars*, New York, NY: Oxford University Press.
-* Hauk, O., I. Johnsrude, and F. Pulvermüller, 2004, “Somatotopic Representation of Action Words in Human Motor and Premotor Cortex”, *Neuron*, 41: 301–307.
-* Hawthorne, J. and E. Lepore, 2011, “On Words”, *Journal of Philosophy*, 108: 447–485.
-* Heilman, K.M., D.M. Tucker, and E. Valenstein, 1976, “A Case of Mixed Transcortical Aphasia with Intact Naming”, *Brain*, 99: 415–426.
-* Herrick, J.A., 2004, *The History and Theory of Rhetoric*, London: Pearson.
-* Hinton, G.E. and T. Shallice, 1991, “Lesioning an Attractor Network: Investigations of Acquired Dyslexia”, *Psychological Review*, 98: 74–95.
-* Hollis, J. and T. Valentine, 2001, “Proper Name Processing: Are Proper Names Pure Referencing Expressions?”, *Journal of Experimental Psychology: Learning, Memory and Cognition*, 27: 99–116.
-* Irmak, N., forthcoming, “An Ontology of Words”, *Erkenntnis*, first online 17 April 2018; doi: https://doi.org/10.1007/s10670-018-0001-0
-* Jackendoff, R.S., 1983, *Semantics and Cognition*, Cambridge, MA: MIT Press
-* –––, 1990, *Semantic Structures*, Cambridge, MA: MIT Press.
-* –––, 2002, *Foundations of Language: Brain, Meaning, Grammar, Evolution*, Oxford: Oxford University Press.
-* Jackson, H., 2002, *Lexicography: An Introduction*, London: Routledge.
-* Jarema, G. and G. Libben, 2007, “Introduction: Matters of Definition and Core Perspectives”, in G. Jarema and G. Libben (eds.), *The Mental Lexicon: Core Perspectives*, Amsterdam: Elsevier, 1–6.
-* Jayez, J., 2001, “Underspecification, Context Selection, and Generativity”, in P. Bouillon and F. Busa (eds.), *The Language of Word Meaning*, Cambridge: Cambridge University Press, 124–148.
-* Jefferies, E. and M.A. Lambon Ralph, 2006, “Semantic Impairment in Stroke Aphasia Versus Semantic Dementia: A Case-Series Comparison”, *Brain*, 129: 2132–2147.
-* Kaplan, D., 1990, “Words”, *Proceedings of the Aristotelian Society, Supplementary Volume*, 64: 93–119.
-* –––, 2011, “Words on Words”, *Journal of Philosophy*, 108: 504–529.
-* Katz, J.J., 1972, *Semantic Theory*, New York, NY: Harper & Row.
-* –––, 1987, “Common Sense in Semantics”, in E. Lepore and B. Loewer (eds.), *New Directions in Semantics*, London: Academic Press, 157–233.
-* Katz, J.J. and J.A. Fodor, 1963, “The Structure of a Semantic Theory”, *Language*, 39: 170–210.
-* Kehler, A., 2002, *Coherence, Reference, and the Theory of Grammar*, Stanford: CA: CSLI Publications.
-* Kemmerer, D., D. Rudrauf, K. Manzel, and D. Tranel, 2012, “Behavioral Patterns and Lesion Sites Associated with Impaired Processing of Lexical and Conceptual Knowledge of Actions”, *Cortex*, 48: 826–848.
-* Kennedy, G., 1994, *A New History of Classical Rhetoric*, Princeton, NJ: Princeton University Press.
-* Kornblith, H., 1980, “Referring to Artifacts”, *Philosophical Review*, 89: 109–114.
-* Kövecses, Z., 2002, *Metaphor: A Practical Introduction*, Oxford: Oxford University Press.
-* Kremin H., 1986, “Spared Naming Without Comprehension”, *Journal of Neurolinguistics*, 2: 131–150.
-* Kripke, S., 1972, “Naming and Necessity”, in Davidson and Harman 1972, 253–355, 763–769. Reprinted later as: 1980, *Naming and Necessity*, Oxford: Blackwell.
-* Lakoff, G., 1987, *Women, Fire and Dangerous Things: What Categories Reveal About the Mind*, Chicago, IL: University of Chicago Press.
-* Lakoff, G. and M. Johnson, 1980, *Metaphors We Live By*, Chicago, IL: University of Chicago Press.
-* Lambon Ralph, M.A., E. Jefferies, K. Patterson, and T.T. Rogers, 2017, “The Neural and Computational Basis of Semantic Cognition”, *Nature Reviews Neuroscience*, 18 : 42–55.
-* Lang, E., 1993, “The Meaning of German Projective Prepositions: A Two-Level Approach”, in C. Zelinsky-Wibbelt (ed.), *The Semantics of Prepositions: From Mental Processing to Natural Language Processing*, Berlin: Mouton de Gruyter, 249–291.
+* Hanley, J.R., 2011, “Why are Names of People Associated with so many Phonological Retrieval Failures?”, _Psychonomic Bulletin & Review_, 18: 612–617.
+* Harley, T.A., 2014, _The Psychology of Language: From Data to Theory_, 4th edn., New York, NY: Psychology Press.
+* Harnad, S., 1990, “The Symbol-grounding Problem”, _Physica_, D 42: 335–346.
+* Harris, R.A., 1993, _The Linguistics Wars_, New York, NY: Oxford University Press.
+* Hauk, O., I. Johnsrude, and F. Pulvermüller, 2004, “Somatotopic Representation of Action Words in Human Motor and Premotor Cortex”, _Neuron_, 41: 301–307.
+* Hawthorne, J. and E. Lepore, 2011, “On Words”, _Journal of Philosophy_, 108: 447–485.
+* Heilman, K.M., D.M. Tucker, and E. Valenstein, 1976, “A Case of Mixed Transcortical Aphasia with Intact Naming”, _Brain_, 99: 415–426.
+* Herrick, J.A., 2004, _The History and Theory of Rhetoric_, London: Pearson.
+* Hinton, G.E. and T. Shallice, 1991, “Lesioning an Attractor Network: Investigations of Acquired Dyslexia”, _Psychological Review_, 98: 74–95.
+* Hollis, J. and T. Valentine, 2001, “Proper Name Processing: Are Proper Names Pure Referencing Expressions?”, _Journal of Experimental Psychology: Learning, Memory and Cognition_, 27: 99–116.
+* Irmak, N., forthcoming, “An Ontology of Words”, _Erkenntnis_, first online 17 April 2018; doi: https://doi.org/10.1007/s10670-018-0001-0
+* Jackendoff, R.S., 1983, _Semantics and Cognition_, Cambridge, MA: MIT Press
+* –––, 1990, _Semantic Structures_, Cambridge, MA: MIT Press.
+* –––, 2002, _Foundations of Language: Brain, Meaning, Grammar, Evolution_, Oxford: Oxford University Press.
+* Jackson, H., 2002, _Lexicography: An Introduction_, London: Routledge.
+* Jarema, G. and G. Libben, 2007, “Introduction: Matters of Definition and Core Perspectives”, in G. Jarema and G. Libben (eds.), _The Mental Lexicon: Core Perspectives_, Amsterdam: Elsevier, 1–6.
+* Jayez, J., 2001, “Underspecification, Context Selection, and Generativity”, in P. Bouillon and F. Busa (eds.), _The Language of Word Meaning_, Cambridge: Cambridge University Press, 124–148.
+* Jefferies, E. and M.A. Lambon Ralph, 2006, “Semantic Impairment in Stroke Aphasia Versus Semantic Dementia: A Case-Series Comparison”, _Brain_, 129: 2132–2147.
+* Kaplan, D., 1990, “Words”, _Proceedings of the Aristotelian Society, Supplementary Volume_, 64: 93–119.
+* –––, 2011, “Words on Words”, _Journal of Philosophy_, 108: 504–529.
+* Katz, J.J., 1972, _Semantic Theory_, New York, NY: Harper & Row.
+* –––, 1987, “Common Sense in Semantics”, in E. Lepore and B. Loewer (eds.), _New Directions in Semantics_, London: Academic Press, 157–233.
+* Katz, J.J. and J.A. Fodor, 1963, “The Structure of a Semantic Theory”, _Language_, 39: 170–210.
+* Kehler, A., 2002, _Coherence, Reference, and the Theory of Grammar_, Stanford: CA: CSLI Publications.
+* Kemmerer, D., D. Rudrauf, K. Manzel, and D. Tranel, 2012, “Behavioral Patterns and Lesion Sites Associated with Impaired Processing of Lexical and Conceptual Knowledge of Actions”, _Cortex_, 48: 826–848.
+* Kennedy, G., 1994, _A New History of Classical Rhetoric_, Princeton, NJ: Princeton University Press.
+* Kornblith, H., 1980, “Referring to Artifacts”, _Philosophical Review_, 89: 109–114.
+* Kövecses, Z., 2002, _Metaphor: A Practical Introduction_, Oxford: Oxford University Press.
+* Kremin H., 1986, “Spared Naming Without Comprehension”, _Journal of Neurolinguistics_, 2: 131–150.
+* Kripke, S., 1972, “Naming and Necessity”, in Davidson and Harman 1972, 253–355, 763–769. Reprinted later as: 1980, _Naming and Necessity_, Oxford: Blackwell.
+* Lakoff, G., 1987, _Women, Fire and Dangerous Things: What Categories Reveal About the Mind_, Chicago, IL: University of Chicago Press.
+* Lakoff, G. and M. Johnson, 1980, _Metaphors We Live By_, Chicago, IL: University of Chicago Press.
+* Lambon Ralph, M.A., E. Jefferies, K. Patterson, and T.T. Rogers, 2017, “The Neural and Computational Basis of Semantic Cognition”, _Nature Reviews Neuroscience_, 18 : 42–55.
+* Lang, E., 1993, “The Meaning of German Projective Prepositions: A Two-Level Approach”, in C. Zelinsky-Wibbelt (ed.), _The Semantics of Prepositions: From Mental Processing to Natural Language Processing_, Berlin: Mouton de Gruyter, 249–291.
 * Lang, E. and C. Maienborn, 2011, “Two-Level Semantics: Semantic Form and Conceptual Structure”, in Maienborn, von Heusinger and Portner 2011: 709–740.
-* Langacker, R., 1987, *Foundations of Cognitive Grammar, Volume I*, Stanford, CA: Stanford University Press.
-* Lascarides, A. and A. Copestake, 1998, “The Pragmatics of Word Meaning”, *Journal of Linguistics*, 34: 387–414.
-* Leech, G., 1974, *Semantics*, Harmondsworth: Penguin.
-* Lehmann, F. (ed.), 1992, *Semantic Networks*, Special issue of *Computers and Mathematics with Applications*, 23(2–5).
-* Lehrer, A., 1974, *Semantic Fields and Lexical Structure*, Amsterdam: Benjamins.
-* Lehrer, A. and E. Kittay (eds.), 1992, *Frames, Fields and Contrasts*, Hillsdale, NJ: Erlbaum.
-* Lepschy, G.C., 1970, *A Survey of Structural Linguistics*, London: Faber & Faber.
-* Levelt, W.J.M., 1989, *Speaking: From Intention to Articulation*, Cambridge, MA: MIT Press.
-* –––, 2001, “Spoken Word Production: A Theory of Lexical Access”, *Proceedings of the National Academy of Sciences*, 98: 13464–13471.
+* Langacker, R., 1987, _Foundations of Cognitive Grammar, Volume I_, Stanford, CA: Stanford University Press.
+* Lascarides, A. and A. Copestake, 1998, “The Pragmatics of Word Meaning”, _Journal of Linguistics_, 34: 387–414.
+* Leech, G., 1974, _Semantics_, Harmondsworth: Penguin.
+* Lehmann, F. (ed.), 1992, _Semantic Networks_, Special issue of _Computers and Mathematics with Applications_, 23(2–5).
+* Lehrer, A., 1974, _Semantic Fields and Lexical Structure_, Amsterdam: Benjamins.
+* Lehrer, A. and E. Kittay (eds.), 1992, _Frames, Fields and Contrasts_, Hillsdale, NJ: Erlbaum.
+* Lepschy, G.C., 1970, _A Survey of Structural Linguistics_, London: Faber & Faber.
+* Levelt, W.J.M., 1989, _Speaking: From Intention to Articulation_, Cambridge, MA: MIT Press.
+* –––, 2001, “Spoken Word Production: A Theory of Lexical Access”, _Proceedings of the National Academy of Sciences_, 98: 13464–13471.
 * Lewis, D.K., 1972, “General Semantics”, in Davidson and Harman 1972, 169–218.
-* Lieber, R., 2010, *Introducing Morphology*, Cambridge: Cambridge University Press.
-* Lipka, L., 1992, *An Outline of English Lexicology: Lexical Structure, Word Semantics, and Word-Formation*, 2nd edn., Tubingen: Niemeyer.
-* Loar, B., 1981, *Mind and Meaning*, Cambridge: Cambridge University Press.
-* Ludlow, P., 2014, *Living Words: Meaning Underdetermination and the Dynamic Lexicon*, Oxford: Oxford University Press.
-* Lyons, J., 1963, *Structural Semantics*, Oxford: Blackwell.
-* Mahon, B.Z. and A. Caramazza, 2011, “What Drives the Organization of Conceptual Knowledge in the Brain?”, *Trends in Cognitive Science*, 15: 97–103.
-* Maienborn, C., K. von Heusinger and P. Portner (eds.), 2011, *Semantics: An International Handbook of Natural Language Meaning*, Vol. 1, Berlin: Mouton de Gruyter.
-* Malkiel, Y., 1993, *Etymology*, Cambridge: Cambridge University Press.
-* Manning, C. and H. Schütze, 1999, *Foundations of Statistical Natural Language Processing*, Cambridge, MA: MIT Press.
-* Marconi, D., 1997, *Lexical Competence*, Cambridge, MA: MIT Press.
-* –––, 2013, “Pencils Have a Point: Against Generalized Externalism About Artifactual Words”, *Review of Philosophy and Psychology*, 4: 497–513
-* Marconi, D., R. Manenti, E. Catricalà, P.A. Della Rosa, S. Siri, and S.F. Cappa, 2013, “The Neural Substrates of Inferential and Referential Semantic Processing”, *Cortex*, 49: 2055–2066.
-* Martin, A., 2007, “The Representation of Object Concepts in the Brain”, *Annual Review of Psychology*, 58: 25–45.
-* Martins, I.P. and L. Farrayota, 2007, “Proper and Common Names: A Double Dissociation”, *Neuropsycologia*, 47: 1744–1756.
-* Matthews, P.H., 1991, *Morphology*, 2nd edn., Cambridge: Cambridge University Press.
-* Matthewson, L., 2003, “Is the Meta‑Language Really Natural?”, *Theoretical Linguistics*, 29: 263–274.
-* McCulloch, G., 1991, “Making Sense of Words”, *Analysis*, 51: 73–79.
-* McGinn, C., 1982, “The Structure of Content”, in A. Woodfield (ed.), *Thought and Object*, Oxford: Clarendon Press, 207–258.
-* McKenna, P. and E.K. Warrington, 1978, “Category-Specific Naming Preservation: A Single Case Study”, *Journal of Neurology, Neurosurgery, and Psychiatry*, 41: 571–574.
+* Lieber, R., 2010, _Introducing Morphology_, Cambridge: Cambridge University Press.
+* Lipka, L., 1992, _An Outline of English Lexicology: Lexical Structure, Word Semantics, and Word-Formation_, 2nd edn., Tubingen: Niemeyer.
+* Loar, B., 1981, _Mind and Meaning_, Cambridge: Cambridge University Press.
+* Ludlow, P., 2014, _Living Words: Meaning Underdetermination and the Dynamic Lexicon_, Oxford: Oxford University Press.
+* Lyons, J., 1963, _Structural Semantics_, Oxford: Blackwell.
+* Mahon, B.Z. and A. Caramazza, 2011, “What Drives the Organization of Conceptual Knowledge in the Brain?”, _Trends in Cognitive Science_, 15: 97–103.
+* Maienborn, C., K. von Heusinger and P. Portner (eds.), 2011, _Semantics: An International Handbook of Natural Language Meaning_, Vol. 1, Berlin: Mouton de Gruyter.
+* Malkiel, Y., 1993, _Etymology_, Cambridge: Cambridge University Press.
+* Manning, C. and H. Schütze, 1999, _Foundations of Statistical Natural Language Processing_, Cambridge, MA: MIT Press.
+* Marconi, D., 1997, _Lexical Competence_, Cambridge, MA: MIT Press.
+* –––, 2013, “Pencils Have a Point: Against Generalized Externalism About Artifactual Words”, _Review of Philosophy and Psychology_, 4: 497–513
+* Marconi, D., R. Manenti, E. Catricalà, P.A. Della Rosa, S. Siri, and S.F. Cappa, 2013, “The Neural Substrates of Inferential and Referential Semantic Processing”, _Cortex_, 49: 2055–2066.
+* Martin, A., 2007, “The Representation of Object Concepts in the Brain”, _Annual Review of Psychology_, 58: 25–45.
+* Martins, I.P. and L. Farrayota, 2007, “Proper and Common Names: A Double Dissociation”, _Neuropsycologia_, 47: 1744–1756.
+* Matthews, P.H., 1991, _Morphology_, 2nd edn., Cambridge: Cambridge University Press.
+* Matthewson, L., 2003, “Is the Meta‑Language Really Natural?”, _Theoretical Linguistics_, 29: 263–274.
+* McCulloch, G., 1991, “Making Sense of Words”, _Analysis_, 51: 73–79.
+* McGinn, C., 1982, “The Structure of Content”, in A. Woodfield (ed.), _Thought and Object_, Oxford: Clarendon Press, 207–258.
+* McKenna, P. and E.K. Warrington, 1978, “Category-Specific Naming Preservation: A Single Case Study”, _Journal of Neurology, Neurosurgery, and Psychiatry_, 41: 571–574.
 * Meier-Oeser, S., 2011, “Meaning in Pre-19th Century Thought”, in Maienborn, von Heusinger and Portner 2011: 145–171.
-* Mervis, C.B. and E. Rosch, 1981, “Categorization of Natural Objects”, *Annual Review of Psychology*, 32: 89–115.
-* Millikan, R., 2005, *Language: A Biological Model*, Oxford: Oxford University Press.
-* Montague, R., 1974, *Formal Philosophy: Selected Papers of Richard Montague*, ed. by R.H. Thomason, New Haven, CT and London: Yale University Press.
-* Murphy, G.L., 2002, *The Big Book of Concepts*, Cambridge, MA: MIT Press.
-* Murphy, M.L., 2003, *Semantic Relations and the Lexicon: Antonymy, Synonymy, and Other Paradigms*, Cambridge: Cambridge University Press.
-* –––, 2010, *Lexical Meaning*, Cambridge: Cambridge University Press.
-* Nerlich, B., 1992, *Semantic Theories in Europe 1830–1930: From Etymology to Contextuality*, Amsterdam: Benjamins.
-* Nerlich, B. and D.D. Clarke, 1996, *Language, Action and Context: The Early History of Pragmatics in Europe and America*, Amsterdam: Benjamins.
-* –––, 2007, “Cognitive Linguistics and the History of Linguistics”, in D. Geeraerts, H. Cuyckens (eds.), *The Oxford Handbook of Cognitive Linguistics*, Oxford: Oxford University Press, 589–607.
-* Newmeyer, F.J., 1980, *Linguistic Theory in America: The First Quarter-Century of Transformational Generative Grammar*, New York, NY: Academic Press.
-* Pagin, P., 2006, “Meaning Holism”, in E. Lepore and B.C. Smith (eds.), *The Oxford Handbook of Philosophy of Language*, Oxford: Oxford University Press, 213–232.
-* Pandey, A.K. and K.M. Heilman, 2014, “Conduction Aphasia with Intact Visual Object Naming”, *Cognitive and Behavioral Neurology*, 27: 96–101.
-* Partee, B., 1973, “Some Structural Analogies between Tenses and Pronouns in English”, *Journal of Phiosophy*, 70: 601–609.
-* –––, 1981, “Montague Grammar, Mental Representations, and Reality”, in S. Oehman and S. Kanger (eds.), *Philosophy and Grammar*, Dordrecht: Reidel, 59–78.
-* Patterson, K., P.J. Nestor, and T.T. Rogers, 2007, “Where Do You Know What You Know? The Representation of Semantic Knowledge in the Human Brain”, *Nature Reviews Neuroscience*, 8: 976–987.
-* Paul, H., 1920 [1880], *Prinzipien der Sprachgeschichte*, 5th edn., Halle: Niemeyer.
-* Pavao Martins, L.P. and L. Farrajota, 2007, “Proper and Common Names: A Double Dissociation”, *Neuropsychologia*, 45: 1744–1756.
-* Peeters, B. (ed.), 2006, *Semantic Primes and Universal Grammar: Empirical Evidence from the Romance Languages*, Amsterdam: Benjamins.
-* Perry, J., 1994, “Fodor and Lepore on Holism”, *Philosophical Studies*, 73: 123–138.
-* Pietroski, P., 2005, “Meaning before Truth”, in G. Preyer and G. Peter (eds.), *Contextualism in Philosophy*, Oxford: Oxford University Press, 255–302.
-* –––, 2010, “Concepts, Meanings and Truth: First Nature, Second Nature and Hard Work”, *Mind & Language*, 25: 247–278.
-* Plaut, D.C. and T. Shallice, 1993, “Deep Dyslexia: A Case Study of Connectionist Neuropsychology”, *Cognitive Neuropsychology*, 10: 377–500.
-* Pulman, S.G., 2005, “Lexical Decomposition: For and Against”, in J.I. Tait (ed.), *Charting a New Course: Natural Language Processing and Information Retrieval*, Dordrecht: Springer.
-* Pulvermüller, F., 2013, “Semantic Embodiment, Disembodiment or Misembodiment? In Search of Meaning in Modules and Neuron Circuits”, *Brain and Language*, 127: 86–103.
-* Pustejovsky, J., 1995, *The Generative Lexicon*, Cambridge, MA: MIT Press.
-* –––, 1998, “Generativity and Explanation in Semantics: A Reply to Fodor and Lepore”, *Linguistic Inquiry*, 29: 289–311.
-* –––, 2006, “Type Theory and Lexical Decomposition”, *Journal of Cognitive Science*, 7: 39–76.
-* Pustejovsky, J. and E. Jezek, 2008, “Semantic Coercion in Language: Beyond Distributional Analysis”, *Rivista di Linguistica*, 20: 175–208.
-* Pustejovsky, J. and A. Rumshisky, 2008, “Between Chaos and Structure: Interpreting Lexical Data Through a Theoretical Lens”, *International Journal of Lexicography*, 21: 337–355.
-* Pustejovsky, J., P. Bouillon, H. Isahara, K. Kanzaki, and C. Lee (eds.), 2012, *Advances in Generative Lexicon Theory*, Berlin: Springer.
-* Putnam, H., 1970, “Is Semantics Possible?”, in H. Kiefer and M.K. Munitz (eds.), *Language, Belief, and Metaphysics*, Albany, NY: SUNY Press, 50–63.
-* –––, 1973, “Meaning and Reference ”, *Journal of Philosophy*, 70: 699–711.
-* –––, 1975, “The Meaning of ‘Meaning’”, in *Mind, Language and Reality*, *Philosophical Papers Vol. 2*, Cambridge: Cambridge University Press.
-* Quine, W.V.O., 1943, “Notes on Existence and Necessity”, *Journal of Philosophy*, 40: 113–127.
-* –––, 1951, “Two Dogmas of Empiricism”, *Philosophical Review*, 60: 20–43.
-* –––, 1986, “Reply to Herbert G. Bohnert”, in L.E. Hahn and P.A. Schilpp (eds.), *The Philosophy of W.V.O. Quine*, La Salle, IL: Open Court, 93–95.
-* Rapp, B. (ed.), 2001, *Handbook of Cognitive Neuropsychology*, Philadelphia, PA: Psychology Press.
-* Rapp, B. and M. Goldrick, 2006, “Speaking Words: Contributions of Cognitive Neuropsychological Research”, *Cognitive Neuropsychology*, 23: 39–73.
-* Recanati, F., 1989, “The Pragmatics of What Is Said”, *Mind and Language*, 4: 295–329.
-* –––, 1993, *Direct Reference*, Oxford: Blackwell.
-* –––, 2004, *Literal Meaning*, Cambridge: Cambridge University Press.
-* Rey, G., 2005, “Mind, Intentionality and Inexistence: An Overview of My Work”, *Croatian Journal of Philosophy*, 5: 389–415.
-* Riemer, N., 2006, “Reductive Paraphrase and Meaning: A Critique of Wierzbickian Semantics”, *Linguistics & Philosophy*, 29: 347–379.
-* Rosch, E., 1975, “Cognitive Representation of Semantic Categories”, *Journal of Experimental Psychology: General*, 104: 192–233.
-* Rosch, E. and C.B. Mervis, 1975, “Family Resemblances: Studies in the Internal Structure of Categories”, *Cognitive Psychology*, 7: 573–605.
-* Russell, B., 1905, “On Denoting”, *Mind*, 14: 479–493.
-* Russell, G., 2008, *Truth in Virtue of Meaning: A Defence of the Analytic/Synthetic Distinction*, Oxford: Oxford University Press.
-* Saffran, E.M. and M.F. Schwartz, 1994, “Impairment of Sentence Comprehension”, *Philosophical Transactions of the Royal Society of London, B: Biological Sciences*, 346: 47–53.
-* Sainsbury, R.M. and M. Tye, 2012, *Seven Puzzles of Thought and How to Solve Them: An Originalist Theory of Concepts*, New York: Oxford University Press.
-* Sartori, G., M. Coltheart, M. Miozzo, and R. Job, 1994, “Category Specificity and Informational Specificity in Neuropsychological Impairment of Semantic Memory”, in C. Umiltà and M. Moscovitch (eds.), *Attention and Performance*, Cambridge, MA: MIT Press, 537–544.
-* Schwartz, S., 1978, “Putnam on Artifacts”, *Philosophical Review*, 87: 566–574.
-* –––, 1980, “Natural Kinds and Nominal Kinds”, *Mind*, 89: 182–195.
-* Searle, J., 1979, *Expression and Meaning*, Cambridge: Cambridge University Press.
-* –––, 1980, “The Background of Meaning”, in J. Searle, F. Kiefer and M. Bierwisch (eds.), *Speech Act Theory and Pragmatics*, Dordrecht: Reidel, 221–232.
-* Seidenberg, M.S. and J.L. McClelland, 1989, “A Distributed, Developmental Model of Word Recognition and Naming”, *Psychological Review*, 96: 523–568.
-* Segal, G., 1980, *A Slim Book About Narrow Content*, Cambridge, MA: MIT Press.
-* Semenza, C., 2006, “Retrieval Pathways for Common and Proper Names”, *Cortex*, 42: 884–891.
-* –––, 2009, “The Neuropsychology of Proper Names”, *Mind & Language*, 24: 347–369.
-* Semenza, C. and M.T. Sgaramella, 1993, “Production of Proper Names: A Clinical Case Study of the Effects of Phonemic Cueing”, *Memory*, 1: 265–280.
-* Shallice T., 1988, *From Neuropsychology to Mental Structure*, Cambridge: Cambridge University Press.
-* Shallice, T. and R.P. Cooper, 2011, *The Organization of Mind*, Oxford: Oxford University Press.
-* Simmons, W.K., et al., 2007, “A Common Neural Substrate for Perceiving and Knowing about Color”, *Neuropsychologia*, 45: 2802–2810.
-* Sinclair, J.M., 2004, *Trust the Text: Language, Corpus and Discourse*, London: Routledge.
-* Smith, E.E., E.J. Shoben, and L.J. Rips, 1974, “Structure and Process in Semantic Memory: A Featural Model for Semantic Decisions”, *Psychological Review*, 81: 214–241.
-* Sperber, D. and D. Wilson, 1986, *Relevance: Communication and Cognition*, Oxford: Blackwell.
-* Spivey, M., K. McRae, and M. F. Joanisse (eds.), 2012, *The Cambridge Handbook of Psycholinguistics*, Cambridge: Cambridge University Press.
-* Stanley, J., 2007, *Language in Context*, Oxford: Oxford University Press.
-* Steels, L. and M. Hild (eds.), 2012, *Language Grounding in Robots*, New York, NY: Springer.
-* Stojanovic, I., 2008, “The Scope and the Subtleties of the Contextualism-Literalism-Relativism Debate”, *Language and Linguistics Compass*, 2: 1171–1188.
-* Stubbs, M., 2002, *Words and Phrases: Corpus Studies of Lexical Semantics*, Oxford: Blackwell.
-* Talmy, L., 2000a, *Toward a Cognitive Semantics. Volume I: Concept Structuring Systems*, Cambridge, MA: MIT Press.
-* –––, 2000b, *Toward a Cognitive Semantics. Volume II: Typology and Process in Concept Structuring*, Cambridge, MA: MIT Press.
-* Tarski, A., 1933, “Pojecie prawdy w językach nauk dedukcyjnych” [The concept of truth in the languages of deductive sciences], Warsaw 1933. English transl. “The Concept of Truth in Formalized Languages”, in A. Tarski, 1956, *Logic, Semantics, Metamathematics*, Oxford: Oxford University Press.
-* Taylor, J.R., 1994, “The Two-Level Approach to Meaning”, *Linguistische Berichte*, 149: 3–26.
-* –––, 1995, “Models of Word Meaning: the Network Model (Langacker) and the Two-Level Model (Bierwisch) in Comparison”, in R. Dirven and J. Vanparys (eds.), *Current Approaches to the Lexicon*, Frankfurt: Lang, 3–26.
-* –––, 1996, “On Running and Jogging”, *Cognitive Linguistics*, 7: 21–34.
-* –––, 2002, *Cognitive Grammar*, Oxford: Oxford University Press.
-* Tettamanti, M., et.al., 2005, “Listening to Action-Related Sentences Activates Fronto-Parietal Motor Circuits”, *Journal of Cognitive Neuroscience*, 17: 273–281.
-* Thomason, R.H., 1974, “Introduction” to R. Montague, *Formal Philosophy: Selected Papers of Richard Montague*, New Haven, CT and London: Yale University Press.
-* Thomasson, A., 2007, “Artifacts and Human Concepts”, in E. Margolis and S. Laurence (eds.), *Creations of the Mind*, Oxford: Oxford University Press, 52–73.
-* Tomaszewki Farias, S., G. Harrington, C. Broomand, and M. Seyal, 2005, “Differences in Functional MR Imaging Activation Patterns Associated with Confrontation Naming and Responsive Naming”, *American Journal of Neuroradiology*, 26: 2492–2499.
-* Toye, R., 2013, *Rhetoric: A Very Short Introduction*, Oxford: Oxford University Press.
-* Travis, C., 1975, *Saying and Understanding*, Oxford: Blackwell.
-* Traugott, E. and R.B. Dasher, 2001, *Regularity in Semantic Change*, Cambridge: Cambridge University Press.
-* Traxler, M. and M.A. Gernsbacher, 2006, *Handbook of Psycholinguistics*, 2nd edn., New York, NY: Academic Press.
-* Trier, J., 1931, *Der Deutsche Wortschatz im Sinnbezirk des Verstandes: Die Geschichte eines sprachlichen Feldes I. Von den Anfangen bis zum Beginn des 13. Jhdts.*, Heidelberg: Winter.
-* Tulving, E., 1972, “Episodic and Semantic Memory”, in E. Tulving and W. Donaldson (eds.), *Organization of Memory*, New York, NY: Academic Press, 381–403.
-* Vigneau, M., V. Beaucousin, P.Y. Hervé, H. Duffau, F. Crivello, O. Houdé, B. Mazoyer, and N. Tzourio-Mazoyer, 2006, “Meta-Analyzing Left Hemisphere Language Areas: Phonology, Semantics, and Sentence Processing”, *NeuroImage*, 30: 1414–1432.
-* Von Fintel, K. and L. Matthewson, 2008, “Universals in Semantics”, *The Linguistic Review*, 25: 139–201.
-* Waldron, E.J., K. Manzel, and D. Tranel, 2014, “The Left Temporal Pole is a Heteromodal Hub for Retrieving Proper Names”, *Frontiers in Bioscience*, 6: 50–57.
-* Warrington, E.K., 1975, “The Selective Impairment of Semantic Memory”, *Quarterly Journal of Experimental Psychology*, 27: 635–657.
-* –––, 1985, “Agnosia: The Impairment of Object Recognition”, in J.A.M. Frederiks (ed.), *Clinical Neuropsychology*, Amsterdam: Elsevier, 333–349.
-* Warrington, E.K. and M.A. McCarthy, 1983, “Category Specific Access Dysphasia”, *Brain*, 106: 859–878.
-* Warrington, E.K. and T. Shallice, 1984, “Category Specific Semantic Impairments”, *Brain*, 107: 829–854.
-* Weiskopf, D.A., 2010, “Embodied Cognition and Linguistic Comprehension”, *Studies in the History and Philosophy of Science*, 41: 294–304.
-* Wierzbicka, A., 1972, *Semantic Primitives*, Frankfurt: Athenäum.
-* –––, 1996, *Semantics: Primes and Universals*, Oxford: Oxford University Press.
-* Williamson, T., 2007, *The Philosophy of Philosophy*, Oxford: Blackwell.
-* Wittgenstein, L., 1922, *Tractatus Logico-Philosophicus*, London: Routledge & Kegan Paul.
-* Wolff, P., 2003, “Direct Causation in the Linguistic Coding and Individuation of Causal Events”, *Cognition*, 88: 1–48.
-* Wunderlich, D., 1991, “How Do Prepositional Phrases Fit Into Compositional Syntax and Semantics?”, *Linguistics*, 29: 591–621.
-* –––, 1993, “On German *Um*: Semantic and Conceptual Aspects”, *Linguistics*, 31: 111–133.
+* Mervis, C.B. and E. Rosch, 1981, “Categorization of Natural Objects”, _Annual Review of Psychology_, 32: 89–115.
+* Millikan, R., 2005, _Language: A Biological Model_, Oxford: Oxford University Press.
+* Montague, R., 1974, _Formal Philosophy: Selected Papers of Richard Montague_, ed. by R.H. Thomason, New Haven, CT and London: Yale University Press.
+* Murphy, G.L., 2002, _The Big Book of Concepts_, Cambridge, MA: MIT Press.
+* Murphy, M.L., 2003, _Semantic Relations and the Lexicon: Antonymy, Synonymy, and Other Paradigms_, Cambridge: Cambridge University Press.
+* –––, 2010, _Lexical Meaning_, Cambridge: Cambridge University Press.
+* Nerlich, B., 1992, _Semantic Theories in Europe 1830–1930: From Etymology to Contextuality_, Amsterdam: Benjamins.
+* Nerlich, B. and D.D. Clarke, 1996, _Language, Action and Context: The Early History of Pragmatics in Europe and America_, Amsterdam: Benjamins.
+* –––, 2007, “Cognitive Linguistics and the History of Linguistics”, in D. Geeraerts, H. Cuyckens (eds.), _The Oxford Handbook of Cognitive Linguistics_, Oxford: Oxford University Press, 589–607.
+* Newmeyer, F.J., 1980, _Linguistic Theory in America: The First Quarter-Century of Transformational Generative Grammar_, New York, NY: Academic Press.
+* Pagin, P., 2006, “Meaning Holism”, in E. Lepore and B.C. Smith (eds.), _The Oxford Handbook of Philosophy of Language_, Oxford: Oxford University Press, 213–232.
+* Pandey, A.K. and K.M. Heilman, 2014, “Conduction Aphasia with Intact Visual Object Naming”, _Cognitive and Behavioral Neurology_, 27: 96–101.
+* Partee, B., 1973, “Some Structural Analogies between Tenses and Pronouns in English”, _Journal of Phiosophy_, 70: 601–609.
+* –––, 1981, “Montague Grammar, Mental Representations, and Reality”, in S. Oehman and S. Kanger (eds.), _Philosophy and Grammar_, Dordrecht: Reidel, 59–78.
+* Patterson, K., P.J. Nestor, and T.T. Rogers, 2007, “Where Do You Know What You Know? The Representation of Semantic Knowledge in the Human Brain”, _Nature Reviews Neuroscience_, 8: 976–987.
+* Paul, H., 1920 \[1880], _Prinzipien der Sprachgeschichte_, 5th edn., Halle: Niemeyer.
+* Pavao Martins, L.P. and L. Farrajota, 2007, “Proper and Common Names: A Double Dissociation”, _Neuropsychologia_, 45: 1744–1756.
+* Peeters, B. (ed.), 2006, _Semantic Primes and Universal Grammar: Empirical Evidence from the Romance Languages_, Amsterdam: Benjamins.
+* Perry, J., 1994, “Fodor and Lepore on Holism”, _Philosophical Studies_, 73: 123–138.
+* Pietroski, P., 2005, “Meaning before Truth”, in G. Preyer and G. Peter (eds.), _Contextualism in Philosophy_, Oxford: Oxford University Press, 255–302.
+* –––, 2010, “Concepts, Meanings and Truth: First Nature, Second Nature and Hard Work”, _Mind & Language_, 25: 247–278.
+* Plaut, D.C. and T. Shallice, 1993, “Deep Dyslexia: A Case Study of Connectionist Neuropsychology”, _Cognitive Neuropsychology_, 10: 377–500.
+* Pulman, S.G., 2005, “Lexical Decomposition: For and Against”, in J.I. Tait (ed.), _Charting a New Course: Natural Language Processing and Information Retrieval_, Dordrecht: Springer.
+* Pulvermüller, F., 2013, “Semantic Embodiment, Disembodiment or Misembodiment? In Search of Meaning in Modules and Neuron Circuits”, _Brain and Language_, 127: 86–103.
+* Pustejovsky, J., 1995, _The Generative Lexicon_, Cambridge, MA: MIT Press.
+* –––, 1998, “Generativity and Explanation in Semantics: A Reply to Fodor and Lepore”, _Linguistic Inquiry_, 29: 289–311.
+* –––, 2006, “Type Theory and Lexical Decomposition”, _Journal of Cognitive Science_, 7: 39–76.
+* Pustejovsky, J. and E. Jezek, 2008, “Semantic Coercion in Language: Beyond Distributional Analysis”, _Rivista di Linguistica_, 20: 175–208.
+* Pustejovsky, J. and A. Rumshisky, 2008, “Between Chaos and Structure: Interpreting Lexical Data Through a Theoretical Lens”, _International Journal of Lexicography_, 21: 337–355.
+* Pustejovsky, J., P. Bouillon, H. Isahara, K. Kanzaki, and C. Lee (eds.), 2012, _Advances in Generative Lexicon Theory_, Berlin: Springer.
+* Putnam, H., 1970, “Is Semantics Possible?”, in H. Kiefer and M.K. Munitz (eds.), _Language, Belief, and Metaphysics_, Albany, NY: SUNY Press, 50–63.
+* –––, 1973, “Meaning and Reference ”, _Journal of Philosophy_, 70: 699–711.
+* –––, 1975, “The Meaning of ‘Meaning’”, in _Mind, Language and Reality_, _Philosophical Papers Vol. 2_, Cambridge: Cambridge University Press.
+* Quine, W.V.O., 1943, “Notes on Existence and Necessity”, _Journal of Philosophy_, 40: 113–127.
+* –––, 1951, “Two Dogmas of Empiricism”, _Philosophical Review_, 60: 20–43.
+* –––, 1986, “Reply to Herbert G. Bohnert”, in L.E. Hahn and P.A. Schilpp (eds.), _The Philosophy of W.V.O. Quine_, La Salle, IL: Open Court, 93–95.
+* Rapp, B. (ed.), 2001, _Handbook of Cognitive Neuropsychology_, Philadelphia, PA: Psychology Press.
+* Rapp, B. and M. Goldrick, 2006, “Speaking Words: Contributions of Cognitive Neuropsychological Research”, _Cognitive Neuropsychology_, 23: 39–73.
+* Recanati, F., 1989, “The Pragmatics of What Is Said”, _Mind and Language_, 4: 295–329.
+* –––, 1993, _Direct Reference_, Oxford: Blackwell.
+* –––, 2004, _Literal Meaning_, Cambridge: Cambridge University Press.
+* Rey, G., 2005, “Mind, Intentionality and Inexistence: An Overview of My Work”, _Croatian Journal of Philosophy_, 5: 389–415.
+* Riemer, N., 2006, “Reductive Paraphrase and Meaning: A Critique of Wierzbickian Semantics”, _Linguistics & Philosophy_, 29: 347–379.
+* Rosch, E., 1975, “Cognitive Representation of Semantic Categories”, _Journal of Experimental Psychology: General_, 104: 192–233.
+* Rosch, E. and C.B. Mervis, 1975, “Family Resemblances: Studies in the Internal Structure of Categories”, _Cognitive Psychology_, 7: 573–605.
+* Russell, B., 1905, “On Denoting”, _Mind_, 14: 479–493.
+* Russell, G., 2008, _Truth in Virtue of Meaning: A Defence of the Analytic/Synthetic Distinction_, Oxford: Oxford University Press.
+* Saffran, E.M. and M.F. Schwartz, 1994, “Impairment of Sentence Comprehension”, _Philosophical Transactions of the Royal Society of London, B: Biological Sciences_, 346: 47–53.
+* Sainsbury, R.M. and M. Tye, 2012, _Seven Puzzles of Thought and How to Solve Them: An Originalist Theory of Concepts_, New York: Oxford University Press.
+* Sartori, G., M. Coltheart, M. Miozzo, and R. Job, 1994, “Category Specificity and Informational Specificity in Neuropsychological Impairment of Semantic Memory”, in C. Umiltà and M. Moscovitch (eds.), _Attention and Performance_, Cambridge, MA: MIT Press, 537–544.
+* Schwartz, S., 1978, “Putnam on Artifacts”, _Philosophical Review_, 87: 566–574.
+* –––, 1980, “Natural Kinds and Nominal Kinds”, _Mind_, 89: 182–195.
+* Searle, J., 1979, _Expression and Meaning_, Cambridge: Cambridge University Press.
+* –––, 1980, “The Background of Meaning”, in J. Searle, F. Kiefer and M. Bierwisch (eds.), _Speech Act Theory and Pragmatics_, Dordrecht: Reidel, 221–232.
+* Seidenberg, M.S. and J.L. McClelland, 1989, “A Distributed, Developmental Model of Word Recognition and Naming”, _Psychological Review_, 96: 523–568.
+* Segal, G., 1980, _A Slim Book About Narrow Content_, Cambridge, MA: MIT Press.
+* Semenza, C., 2006, “Retrieval Pathways for Common and Proper Names”, _Cortex_, 42: 884–891.
+* –––, 2009, “The Neuropsychology of Proper Names”, _Mind & Language_, 24: 347–369.
+* Semenza, C. and M.T. Sgaramella, 1993, “Production of Proper Names: A Clinical Case Study of the Effects of Phonemic Cueing”, _Memory_, 1: 265–280.
+* Shallice T., 1988, _From Neuropsychology to Mental Structure_, Cambridge: Cambridge University Press.
+* Shallice, T. and R.P. Cooper, 2011, _The Organization of Mind_, Oxford: Oxford University Press.
+* Simmons, W.K., et al., 2007, “A Common Neural Substrate for Perceiving and Knowing about Color”, _Neuropsychologia_, 45: 2802–2810.
+* Sinclair, J.M., 2004, _Trust the Text: Language, Corpus and Discourse_, London: Routledge.
+* Smith, E.E., E.J. Shoben, and L.J. Rips, 1974, “Structure and Process in Semantic Memory: A Featural Model for Semantic Decisions”, _Psychological Review_, 81: 214–241.
+* Sperber, D. and D. Wilson, 1986, _Relevance: Communication and Cognition_, Oxford: Blackwell.
+* Spivey, M., K. McRae, and M. F. Joanisse (eds.), 2012, _The Cambridge Handbook of Psycholinguistics_, Cambridge: Cambridge University Press.
+* Stanley, J., 2007, _Language in Context_, Oxford: Oxford University Press.
+* Steels, L. and M. Hild (eds.), 2012, _Language Grounding in Robots_, New York, NY: Springer.
+* Stojanovic, I., 2008, “The Scope and the Subtleties of the Contextualism-Literalism-Relativism Debate”, _Language and Linguistics Compass_, 2: 1171–1188.
+* Stubbs, M., 2002, _Words and Phrases: Corpus Studies of Lexical Semantics_, Oxford: Blackwell.
+* Talmy, L., 2000a, _Toward a Cognitive Semantics. Volume I: Concept Structuring Systems_, Cambridge, MA: MIT Press.
+* –––, 2000b, _Toward a Cognitive Semantics. Volume II: Typology and Process in Concept Structuring_, Cambridge, MA: MIT Press.
+* Tarski, A., 1933, “Pojecie prawdy w językach nauk dedukcyjnych” \[The concept of truth in the languages of deductive sciences], Warsaw 1933. English transl. “The Concept of Truth in Formalized Languages”, in A. Tarski, 1956, _Logic, Semantics, Metamathematics_, Oxford: Oxford University Press.
+* Taylor, J.R., 1994, “The Two-Level Approach to Meaning”, _Linguistische Berichte_, 149: 3–26.
+* –––, 1995, “Models of Word Meaning: the Network Model (Langacker) and the Two-Level Model (Bierwisch) in Comparison”, in R. Dirven and J. Vanparys (eds.), _Current Approaches to the Lexicon_, Frankfurt: Lang, 3–26.
+* –––, 1996, “On Running and Jogging”, _Cognitive Linguistics_, 7: 21–34.
+* –––, 2002, _Cognitive Grammar_, Oxford: Oxford University Press.
+* Tettamanti, M., et.al., 2005, “Listening to Action-Related Sentences Activates Fronto-Parietal Motor Circuits”, _Journal of Cognitive Neuroscience_, 17: 273–281.
+* Thomason, R.H., 1974, “Introduction” to R. Montague, _Formal Philosophy: Selected Papers of Richard Montague_, New Haven, CT and London: Yale University Press.
+* Thomasson, A., 2007, “Artifacts and Human Concepts”, in E. Margolis and S. Laurence (eds.), _Creations of the Mind_, Oxford: Oxford University Press, 52–73.
+* Tomaszewki Farias, S., G. Harrington, C. Broomand, and M. Seyal, 2005, “Differences in Functional MR Imaging Activation Patterns Associated with Confrontation Naming and Responsive Naming”, _American Journal of Neuroradiology_, 26: 2492–2499.
+* Toye, R., 2013, _Rhetoric: A Very Short Introduction_, Oxford: Oxford University Press.
+* Travis, C., 1975, _Saying and Understanding_, Oxford: Blackwell.
+* Traugott, E. and R.B. Dasher, 2001, _Regularity in Semantic Change_, Cambridge: Cambridge University Press.
+* Traxler, M. and M.A. Gernsbacher, 2006, _Handbook of Psycholinguistics_, 2nd edn., New York, NY: Academic Press.
+* Trier, J., 1931, _Der Deutsche Wortschatz im Sinnbezirk des Verstandes: Die Geschichte eines sprachlichen Feldes I. Von den Anfangen bis zum Beginn des 13. Jhdts._, Heidelberg: Winter.
+* Tulving, E., 1972, “Episodic and Semantic Memory”, in E. Tulving and W. Donaldson (eds.), _Organization of Memory_, New York, NY: Academic Press, 381–403.
+* Vigneau, M., V. Beaucousin, P.Y. Hervé, H. Duffau, F. Crivello, O. Houdé, B. Mazoyer, and N. Tzourio-Mazoyer, 2006, “Meta-Analyzing Left Hemisphere Language Areas: Phonology, Semantics, and Sentence Processing”, _NeuroImage_, 30: 1414–1432.
+* Von Fintel, K. and L. Matthewson, 2008, “Universals in Semantics”, _The Linguistic Review_, 25: 139–201.
+* Waldron, E.J., K. Manzel, and D. Tranel, 2014, “The Left Temporal Pole is a Heteromodal Hub for Retrieving Proper Names”, _Frontiers in Bioscience_, 6: 50–57.
+* Warrington, E.K., 1975, “The Selective Impairment of Semantic Memory”, _Quarterly Journal of Experimental Psychology_, 27: 635–657.
+* –––, 1985, “Agnosia: The Impairment of Object Recognition”, in J.A.M. Frederiks (ed.), _Clinical Neuropsychology_, Amsterdam: Elsevier, 333–349.
+* Warrington, E.K. and M.A. McCarthy, 1983, “Category Specific Access Dysphasia”, _Brain_, 106: 859–878.
+* Warrington, E.K. and T. Shallice, 1984, “Category Specific Semantic Impairments”, _Brain_, 107: 829–854.
+* Weiskopf, D.A., 2010, “Embodied Cognition and Linguistic Comprehension”, _Studies in the History and Philosophy of Science_, 41: 294–304.
+* Wierzbicka, A., 1972, _Semantic Primitives_, Frankfurt: Athenäum.
+* –––, 1996, _Semantics: Primes and Universals_, Oxford: Oxford University Press.
+* Williamson, T., 2007, _The Philosophy of Philosophy_, Oxford: Blackwell.
+* Wittgenstein, L., 1922, _Tractatus Logico-Philosophicus_, London: Routledge & Kegan Paul.
+* Wolff, P., 2003, “Direct Causation in the Linguistic Coding and Individuation of Causal Events”, _Cognition_, 88: 1–48.
+* Wunderlich, D., 1991, “How Do Prepositional Phrases Fit Into Compositional Syntax and Semantics?”, _Linguistics_, 29: 591–621.
+* –––, 1993, “On German _Um_: Semantic and Conceptual Aspects”, _Linguistics_, 31: 111–133.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=word-meaning). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/word-meaning/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=word-meaning&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/word-meaning/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=word-meaning).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/word-meaning/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=word-meaning\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/word-meaning/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
@@ -633,8 +624,8 @@ tel = 吃(P, g, x)
 
 ## Related Entries
 
-[ambiguity](https://plato.stanford.edu/entries/ambiguity/) | [analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/) | [artifact](https://plato.stanford.edu/entries/artifact/) | [assertion](https://plato.stanford.edu/entries/assertion/) | [belief](https://plato.stanford.edu/entries/belief/) | [cognition: embodied](https://plato.stanford.edu/entries/embodied-cognition/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [concepts](https://plato.stanford.edu/entries/concepts/) | [convention](https://plato.stanford.edu/entries/convention/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [implicature](https://plato.stanford.edu/entries/implicature/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [meaning: normativity of](https://plato.stanford.edu/entries/meaning-normativity/) | [mental content: narrow](https://plato.stanford.edu/entries/content-narrow/) | [names](https://plato.stanford.edu/entries/names/) | [natural kinds](https://plato.stanford.edu/entries/natural-kinds/) | [pragmatics](https://plato.stanford.edu/entries/pragmatics/) | [presupposition](https://plato.stanford.edu/entries/presupposition/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/) | [reference](https://plato.stanford.edu/entries/reference/) | [rigid designators](https://plato.stanford.edu/entries/rigid-designators/) | [semantics: two-dimensional](https://plato.stanford.edu/entries/two-dimensional-semantics/) | [speech acts](https://plato.stanford.edu/entries/speech-acts/) | [vagueness](https://plato.stanford.edu/entries/vagueness/)
+[ambiguity](https://plato.stanford.edu/entries/ambiguity/) | [analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/) | [artifact](https://plato.stanford.edu/entries/artifact/) | [assertion](https://plato.stanford.edu/entries/assertion/) | [belief](https://plato.stanford.edu/entries/belief/) | [cognition: embodied](https://plato.stanford.edu/entries/embodied-cognition/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [concepts](https://plato.stanford.edu/entries/concepts/) | [convention](https://plato.stanford.edu/entries/convention/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [implicature](https://plato.stanford.edu/entries/implicature/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [logical form](https://plato.stanford.edu/entries/logical-form/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [meaning: normativity of](https://plato.stanford.edu/entries/meaning-normativity/) | [mental content: narrow](https://plato.stanford.edu/entries/content-narrow/) | [names](https://plato.stanford.edu/entries/names/) | [natural kinds](https://plato.stanford.edu/entries/natural-kinds/) | [pragmatics](https://plato.stanford.edu/entries/pragmatics/) | [presupposition](https://plato.stanford.edu/entries/presupposition/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/) | [reference](https://plato.stanford.edu/entries/reference/) | [rigid designators](https://plato.stanford.edu/entries/rigid-designators/) | [semantics: two-dimensional](https://plato.stanford.edu/entries/two-dimensional-semantics/) | [speech acts](https://plato.stanford.edu/entries/speech-acts/) | [vagueness](https://plato.stanford.edu/entries/vagueness/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Luca Gasparri](http://lcgasparri.github.io/) <[*luca.gasparri@cnrs.fr*](mailto:luca%2egasparri%40cnrs%2efr)>  
-Diego Marconi <[*diego.marconi@unito.it*](mailto:diego%2emarconi%40unito%2eit)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Luca Gasparri](http://lcgasparri.github.io/) <[_luca.gasparri@cnrs.fr_](mailto:luca%2egasparri%40cnrs%2efr)>\
+Diego Marconi <[_diego.marconi@unito.it_](mailto:diego%2emarconi%40unito%2eit)>

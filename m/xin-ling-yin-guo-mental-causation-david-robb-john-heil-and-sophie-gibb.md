@@ -1,49 +1,45 @@
 # 心灵因果 mental causation (David Robb, John Heil, and Sophie Gibb)
-*首次发表于2003年12月18日；实质性修订于2023年2月2日。*
+
+_首次发表于2003年12月18日；实质性修订于2023年2月2日。_
 
 关于心灵因果的存在和性质的问题在当代有关心灵和人类行为的讨论中占据重要地位。最初，心灵因果的问题是如何理解非物质的心灵，即灵魂，如何与身体相互作用的问题。现在大多数哲学家都否认灵魂的存在，但心灵因果的问题并没有消失。相反，焦点转向了心灵属性。心灵属性如何与身体行为相关？心灵作为心灵的原因如何存在？在研究传统的互动问题之后，我们还将调查几种基于属性的问题以及可能的解决方案。
 
-* [ 1. 准备工作](https://plato.stanford.edu/entries/mental-causation/#Prelim)
-
+* [1. 准备工作](https://plato.stanford.edu/entries/mental-causation/#Prelim)
   * [1.1 心灵因果的重要性](https://plato.stanford.edu/entries/mental-causation/#ImpMent)
   * [1.2 这是一个经验问题吗？](https://plato.stanford.edu/entries/mental-causation/#EmpIss)
 * [2. 互动问题](https://plato.stanford.edu/entries/mental-causation/#ProInt)
-
   * [2.1 心灵与身体的联系是什么？](https://plato.stanford.edu/entries/mental-causation/#WhatNexus)
   * [2.2 配对问题](https://plato.stanford.edu/entries/mental-causation/#PaiPro)
-  * [ 2.3 保守定律](https://plato.stanford.edu/entries/mental-causation/#ConLaw)
+  * [2.3 保守定律](https://plato.stanford.edu/entries/mental-causation/#ConLaw)
   * [2.4 物理的完备性](https://plato.stanford.edu/entries/mental-causation/#ComPhy)
 * [3. 属性的上升](https://plato.stanford.edu/entries/mental-causation/#AscPro)
 * [4. 问题一：属性二元论](https://plato.stanford.edu/entries/mental-causation/#ProIProDua)
 * [5. 问题二：异常单子论](https://plato.stanford.edu/entries/mental-causation/#ProIIAnoMon)
-
   * [5.1 异常单一论的论证](https://plato.stanford.edu/entries/mental-causation/#ArgAnoMon)
   * [5.2 附随论的指控](https://plato.stanford.edu/entries/mental-causation/#ChaEpi)
   * [5.3 反事实依赖](https://plato.stanford.edu/entries/mental-causation/#CouDep)
-  * [ 5.4 合法充分性](https://plato.stanford.edu/entries/mental-causation/#LawSuff)
+  * [5.4 合法充分性](https://plato.stanford.edu/entries/mental-causation/#LawSuff)
   * [5.5 属性再考虑的上升](https://plato.stanford.edu/entries/mental-causation/#AscProRecon)
 * [6. 问题三：排除](https://plato.stanford.edu/entries/mental-causation/#ProIIIExc)
-
   * [6.1 功能主义和多重实现](https://plato.stanford.edu/entries/mental-causation/#FunMulRea)
   * [6.2 排除问题](https://plato.stanford.edu/entries/mental-causation/#ExcPro)
-  * [ 6.3 自主解决方案](https://plato.stanford.edu/entries/mental-causation/#AutSol)
+  * [6.3 自主解决方案](https://plato.stanford.edu/entries/mental-causation/#AutSol)
   * [6.4 继承解决方案](https://plato.stanford.edu/entries/mental-causation/#InhSol)
-  * [ 6.5 身份解决方案](https://plato.stanford.edu/entries/mental-causation/#IdeSol)
+  * [6.5 身份解决方案](https://plato.stanford.edu/entries/mental-causation/#IdeSol)
   * [6.6 必要效果：对功能主义的更深层问题？](https://plato.stanford.edu/entries/mental-causation/#NecEff)
 * [7. 问题四：外在主义](https://plato.stanford.edu/entries/mental-causation/#ProIVExt)
-
   * [7.1 内容如何产生因果影响？](https://plato.stanford.edu/entries/mental-causation/#HowConCaus)
   * [7.2 内在因果替代物](https://plato.stanford.edu/entries/mental-causation/#IntCau)
   * [7.3 理由作为结构性因果](https://plato.stanford.edu/entries/mental-causation/#ReaStru)
-  * [ 7.4 广义行为](https://plato.stanford.edu/entries/mental-causation/#BroBeh)
+  * [7.4 广义行为](https://plato.stanford.edu/entries/mental-causation/#BroBeh)
   * [7.5 对解释实践的呼吁](https://plato.stanford.edu/entries/mental-causation/#AppExpPra)
 * [8. 形而上学与心灵哲学](https://plato.stanford.edu/entries/mental-causation/#MetMin)
-* [ 参考书目](https://plato.stanford.edu/entries/mental-causation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mental-causation/#Aca)
+* [参考书目](https://plato.stanford.edu/entries/mental-causation/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/mental-causation/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/mental-causation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mental-causation/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/mental-causation/#Rel)
 
----
+***
 
 ## 1. 准备工作
 
@@ -199,7 +195,7 @@ LePore 和 Loewer（1987）寻求通过反事实来回答这个问题（参见 H
 
 当一个反事实是真实的时候，世界上应该有某种东西使其成为真实。即使承认，如果原因没有具有其心灵属性，效果就不会具有其行为属性，那么这是基于什么的真实？这个真实制造者，而不是反事实本身，决定了一个属性是否具有因果关联性。担心的是，一旦我们看看心灵案例中的真实制造者，心灵现象论的威胁又出现了。虽然效果在反事实上依赖于心灵属性，但这只是因为心灵属性依赖于一个真正起作用的物理属性。心灵属性看起来像是一个搭便车者（金 1998 年，第 70-3 页，2007 年；与克兰 2008 年在一个类似问题上进行比较）。
 
-LePore 和 Loewer 讨论了这个担忧的一个版本。反对者可能会说，条件（3）太粗糙，无法测试因果关联性，因为反事实只成立是因为从 a 中去除 F 也会去除 a 的另一个属性 F *，而正是 F*的缺失导致 b 不是 G。更好的反事实测试评估了效应在 a 不是 F 且 a 的其他所有属性（或至少是潜在的与 F 可能有因果关系的属性）都保持不变的情况下的状态。如果在这种情况下 b 不是 G，那么我们才能将 F 归因于因果关联性。但是心理属性未能通过这个更精细的测试。再次考虑 Gus 决定打开灯的情况，并移除其心理属性，这次保持其物理属性不变。显然，他仍然会按下开关。毕竟，根据 Davidson，原因的物理属性在一个无例外的定律中起作用。看起来好像你的决定的物理属性“屏蔽”了心理属性，使得后者无关紧要。
+LePore 和 Loewer 讨论了这个担忧的一个版本。反对者可能会说，条件（3）太粗糙，无法测试因果关联性，因为反事实只成立是因为从 a 中去除 F 也会去除 a 的另一个属性 F _，而正是 F_的缺失导致 b 不是 G。更好的反事实测试评估了效应在 a 不是 F 且 a 的其他所有属性（或至少是潜在的与 F 可能有因果关系的属性）都保持不变的情况下的状态。如果在这种情况下 b 不是 G，那么我们才能将 F 归因于因果关联性。但是心理属性未能通过这个更精细的测试。再次考虑 Gus 决定打开灯的情况，并移除其心理属性，这次保持其物理属性不变。显然，他仍然会按下开关。毕竟，根据 Davidson，原因的物理属性在一个无例外的定律中起作用。看起来好像你的决定的物理属性“屏蔽”了心理属性，使得后者无关紧要。
 
 LePore 和 Loewer 承认心理属性被物理属性屏蔽。但他们认为这个更精细的测试要求过高，因为这也意味着心理原因的物理属性是无关紧要的。特别要注意的是，决定的心理属性屏蔽了其物理属性：如果原因缺乏其物理属性但仍然是打开灯的决定，它将导致 Gus 按下开关（ceteris paribus：这里使用了一种有限制的定律，这是反常单一论允许的）。因此，屏蔽是双向的，由于很少有人想否认物理属性的因果关联性，我们也不应该让屏蔽质疑心理属性的重要性。
 
@@ -269,7 +265,7 @@ Fodor（1989）显然同意反事实捕捉到一种因果相关性，但他认�
 
 自主解决方案可以使心灵属性的因果力量“自由浮动”于其物理实现者之外，使人想起并行主义的教义（有关回答，请参见 Thomasson 1998; Marcus 2001，§3.3）。因此，一些非还原主义的物理主义者试图将心灵属性的因果力量与其物理实现者更紧密地联系起来。其想法是心灵属性与其实现者之间的关系如此密切，以至于前者“继承”了后者的因果力量。层次之间的关系不是竞争关系，物理不会排除心灵，而是合作关系。此外，似乎也没有任何过度决定的威胁，因为心灵通过物理工作。（参见 Jackson 1996 中的“透明度”隐喻。）
 
-在某些继承解决方案的版本中，更高层次的心灵属性从其物理实现者那里获得的是某种较弱或“低级”形式的因果相关性。例如，Jackson 和 Pettit（1988，1990）区分了物理属性的强大的“因果效力”与更高层次属性的较弱的“因果相关性”。在这个意义上，因果相关性是一个解释性的概念：可以这样说，行为是在物理层面上产生的，但通过在物理层面上实现，心灵属性继承了一种否则不会有的解释相关性。这种观点的一个优点是它赋予了心灵属性一种派生的相关性形式，但同时尊重了完备性所体现的物理因果的优先性以及无过度决定原则。（有关类似观点，请参见 Kim 1984; Levine 2001，§1.5; Segal 2009。那些诉诸于行为对心理的反事实依赖[§5.3]的人也可能属于这一类别。关于反事实依赖是“轻量级因果关系”的指责的回答，请参见 Loewer 2007，Menzies 2007。）
+在某些继承解决方案的版本中，更高层次的心灵属性从其物理实现者那里获得的是某种较弱或“低级”形式的因果相关性。例如，Jackson 和 Pettit（1988，1990）区分了物理属性的强大的“因果效力”与更高层次属性的较弱的“因果相关性”。在这个意义上，因果相关性是一个解释性的概念：可以这样说，行为是在物理层面上产生的，但通过在物理层面上实现，心灵属性继承了一种否则不会有的解释相关性。这种观点的一个优点是它赋予了心灵属性一种派生的相关性形式，但同时尊重了完备性所体现的物理因果的优先性以及无过度决定原则。（有关类似观点，请参见 Kim 1984; Levine 2001，§1.5; Segal 2009。那些诉诸于行为对心理的反事实依赖\[§5.3]的人也可能属于这一类别。关于反事实依赖是“轻量级因果关系”的指责的回答，请参见 Loewer 2007，Menzies 2007。）
 
 如果这样的削弱似乎等同于心灵附属主义，您可以寻找一种继承解决方案，其中心灵属性在与其物理实现者相同的意义上是有效的（比较 Crane 1995 中的“同质性假设”）。如何在不违反无过度决定的情况下完成这一点？嗯，假设心灵属性尽管与其物理实现者不同，但是在这个实现者中是内在的；也就是说，M，某种程度上仅仅是 P 而已。在这种情况下，P 所做的任何因果工作都以直接的方式由 M 继承。通过包含在 P 中，避免了过度决定。
 
@@ -365,265 +361,265 @@ Dretske 的提议是双重解释策略的一个版本（§6.3）。其思想是�
 
 ## Bibliography
 
-* Allen, C., 1995, “It Isn’t What You Think: A New Idea About Intentional Causation”, *Noûs*, 29: 115–26.
-* Alward, P., 2008, “Mopes, Dopes, and Tropes: A Critique of the Trope Solution to the Problem of Mental Causation”, *Dialogue*, 47: 53–64.
-* Anscombe, G. E. M. and P. T. Geach (trans. and eds.), 1954, *Descartes: Philosophical Writings*, Indianapolis: Bobbs–Merrill Company.
-* Antony, L. M., 1991, “The Causal Relevance of the Mental: More on the Mattering of Minds”, *Mind & Language*, 6: 295–327.
-* ––––, 1995, “I’m a Mother, I Worry”, *Philosophical Issues*, 6: 160–6.
-* ––––, 1999, “Multiple Realizability, Projectibility, and the Reality of Mental Properties”, *Philosophical Topics*, 26: 1–24.
-* Antony, L. M. and J. Levine, 1997, “Reduction With Autonomy”, *Philosophical Perspectives*, 11: 83–105.
-* Armstrong, D. M., 1968/1993, *A Materialist Theory of the Mind*, Revised Edition, London: Routledge.
-* ––––, 1978, *A Theory of Universals: Universals and Scientific Realism, Volume II*, Cambridge: Cambridge University Press.
-* ––––, 1989, *Universals: An Opinionated Introduction*, Boulder: Westview Press.
-* Audi, P., 2011, “Primitive Causal Relations and the Pairing Problem”, *Ratio*, 24: 1–16.
-* ––––, 2012, “Properties, Powers, and the Subset Account of Realization”, *Philosophy and Phenomenological Research*, 84: 654–74.
-* Averill, E. and B. Keating, 1981, “Does Interactionism Violate a Law of Classical Physics?”, *Mind*, 90: 102–7.
-* Bailey, A., J. Rasmussen, and L. Van Horn, 2011, “No pairing problem”, *Philosophical Studies*, 154: 349–60.
-* Baker, L. R., 1991, “Dretske on the Explanatory Role of Belief”, *Philosophical Studies*, 63: 99–111.
+* Allen, C., 1995, “It Isn’t What You Think: A New Idea About Intentional Causation”, _Noûs_, 29: 115–26.
+* Alward, P., 2008, “Mopes, Dopes, and Tropes: A Critique of the Trope Solution to the Problem of Mental Causation”, _Dialogue_, 47: 53–64.
+* Anscombe, G. E. M. and P. T. Geach (trans. and eds.), 1954, _Descartes: Philosophical Writings_, Indianapolis: Bobbs–Merrill Company.
+* Antony, L. M., 1991, “The Causal Relevance of the Mental: More on the Mattering of Minds”, _Mind & Language_, 6: 295–327.
+* ––––, 1995, “I’m a Mother, I Worry”, _Philosophical Issues_, 6: 160–6.
+* ––––, 1999, “Multiple Realizability, Projectibility, and the Reality of Mental Properties”, _Philosophical Topics_, 26: 1–24.
+* Antony, L. M. and J. Levine, 1997, “Reduction With Autonomy”, _Philosophical Perspectives_, 11: 83–105.
+* Armstrong, D. M., 1968/1993, _A Materialist Theory of the Mind_, Revised Edition, London: Routledge.
+* ––––, 1978, _A Theory of Universals: Universals and Scientific Realism, Volume II_, Cambridge: Cambridge University Press.
+* ––––, 1989, _Universals: An Opinionated Introduction_, Boulder: Westview Press.
+* Audi, P., 2011, “Primitive Causal Relations and the Pairing Problem”, _Ratio_, 24: 1–16.
+* ––––, 2012, “Properties, Powers, and the Subset Account of Realization”, _Philosophy and Phenomenological Research_, 84: 654–74.
+* Averill, E. and B. Keating, 1981, “Does Interactionism Violate a Law of Classical Physics?”, _Mind_, 90: 102–7.
+* Bailey, A., J. Rasmussen, and L. Van Horn, 2011, “No pairing problem”, _Philosophical Studies_, 154: 349–60.
+* Baker, L. R., 1991, “Dretske on the Explanatory Role of Belief”, _Philosophical Studies_, 63: 99–111.
 * ––––, 1993, “Metaphysics and Mental Causation”, in Heil and Mele 1993, pp. 75–95.
-* Bedau, M. A. and P. Humphreys (eds.), 2008, *Emergence: Contemporary Readings in Philosophy and Science*, Cambridge, MA: MIT Press.
-* Bennett, K., 2003, “Why the Exclusion Problem Seems Intractable, and How, Just Maybe, to Tract It”, *Noûs*, 37: 471–97.
+* Bedau, M. A. and P. Humphreys (eds.), 2008, _Emergence: Contemporary Readings in Philosophy and Science_, Cambridge, MA: MIT Press.
+* Bennett, K., 2003, “Why the Exclusion Problem Seems Intractable, and How, Just Maybe, to Tract It”, _Noûs_, 37: 471–97.
 * ––––, 2008, “Exclusion Again”, in Hohwy and Kallestrup, pp. 280–305.
-* Bernstein, S., 2016, “Overdetermination Underdetermined”, *Erkenntnis*, 81: 17–40.
-* Blackburn, S., 1990, “Hume and Thick Connexions”, *Philosophy and Phenomenological Research*, 50, Supplement: 237–50.
-* Block, N., 1990, “Can the Mind Change the World?”, in G. Boolos (ed.), *Meaning and Method: Essays in Honor of Hilary Putnam*, Cambridge: Cambridge University Press, pp. 137–70.
-* ––––, 1997, “Anti-Reductionism Slaps Back”, *Philosophical Perspectives*, 11: 107–32.
-* ––––, 2003, “Do Causal Powers Drain Away?”, *Philosophy and Phenomenological Research*, 67: 133–50.
-* Bontly, T. D., 2001, “The Supervenience Argument Generalizes”, *Philosophical Studies*, 109: 75–96.
-* Braun, D., 1991, “Content, Causation, and Cognitive Science”, *Australasian Journal of Philosophy*, 69: 375–89.
-* ––––, 1995, “Causally Relevant Properties”, *Philosophical Perspectives*, 9: 447–75.
-* Broad, C. D., 1925, *The Mind and its Place in Nature*, London: Routledge & Kegan Paul.
+* Bernstein, S., 2016, “Overdetermination Underdetermined”, _Erkenntnis_, 81: 17–40.
+* Blackburn, S., 1990, “Hume and Thick Connexions”, _Philosophy and Phenomenological Research_, 50, Supplement: 237–50.
+* Block, N., 1990, “Can the Mind Change the World?”, in G. Boolos (ed.), _Meaning and Method: Essays in Honor of Hilary Putnam_, Cambridge: Cambridge University Press, pp. 137–70.
+* ––––, 1997, “Anti-Reductionism Slaps Back”, _Philosophical Perspectives_, 11: 107–32.
+* ––––, 2003, “Do Causal Powers Drain Away?”, _Philosophy and Phenomenological Research_, 67: 133–50.
+* Bontly, T. D., 2001, “The Supervenience Argument Generalizes”, _Philosophical Studies_, 109: 75–96.
+* Braun, D., 1991, “Content, Causation, and Cognitive Science”, _Australasian Journal of Philosophy_, 69: 375–89.
+* ––––, 1995, “Causally Relevant Properties”, _Philosophical Perspectives_, 9: 447–75.
+* Broad, C. D., 1925, _The Mind and its Place in Nature_, London: Routledge & Kegan Paul.
 * Burge, T., 1993, “Mind-Body Causation and Explanatory Practice”, in Heil and Mele 1993, pp. 97–120.
 * ––––, 1995, “Reply: Intentional Properties and Causation”, in Macdonald and Macdonald 1995b, pp. 226–35.
-* Campbell, K., 1984, *Body and Mind*, Second Edition, Notre Dame: University of Notre Dame Press.
-* Campbell, N., 1997, “The Standard Objection to Anomalous Monism”, *Australasian Journal of Philosophy*, 75: 373–82.
-* Carey, B., 2011, “Overdetermination and the Exclusion Problem”, *Australasian Journal of Philosophy*, 89: 251–62.
-* Caston, V., 1997, “Epiphenomenalisms, Ancient and Modern”, *Philosophical Review*, 106: 309–63.
-* Clapp, L., 2001, “Disjunctive Properties: Multiple Realizations”, *Journal of Philosophy*, 98: 111–36.
-* Clayton, P. and P. Davies (eds.), 2006, *The Re-Emergence of Emergence: The Emergentist Hypothesis from Science to Religion*, Oxford: Oxford University Press.
-* Cottingham, J., R. Stoothoff, D. Murdoch, and A. Kenny (trans. and eds.), 1991, *The Philosophical Writings of Descartes, Volume III: The Correspondence*, Cambridge: Cambridge University Press.
-* Crane, T., 1991, “Why Indeed? Papineau on Supervenience”, *Analysis*, 51: 32–7.
-* ––––, 1992, “Mental Causation and Mental Reality”, *Proceedings of the Aristotelian Society*, 92: 185–202.
-* ––––, 1995, “The Mental Causation Debate”, *Proceedings of the Aristotelian Society*, Supplementary Vol. 69: 211–36.
-* ––––, 1999, “Mind-Body Problem”, in R. A. Wilson and F. Keil (eds.), *The MIT Encyclopedia of the Cognitive Sciences*, Cambridge, MA: MIT Press, pp. 546–8.
-* ––––, 2001, *Elements of Mind: An Introduction to the Philosophy of Mind*, Oxford: Oxford University Press.
+* Campbell, K., 1984, _Body and Mind_, Second Edition, Notre Dame: University of Notre Dame Press.
+* Campbell, N., 1997, “The Standard Objection to Anomalous Monism”, _Australasian Journal of Philosophy_, 75: 373–82.
+* Carey, B., 2011, “Overdetermination and the Exclusion Problem”, _Australasian Journal of Philosophy_, 89: 251–62.
+* Caston, V., 1997, “Epiphenomenalisms, Ancient and Modern”, _Philosophical Review_, 106: 309–63.
+* Clapp, L., 2001, “Disjunctive Properties: Multiple Realizations”, _Journal of Philosophy_, 98: 111–36.
+* Clayton, P. and P. Davies (eds.), 2006, _The Re-Emergence of Emergence: The Emergentist Hypothesis from Science to Religion_, Oxford: Oxford University Press.
+* Cottingham, J., R. Stoothoff, D. Murdoch, and A. Kenny (trans. and eds.), 1991, _The Philosophical Writings of Descartes, Volume III: The Correspondence_, Cambridge: Cambridge University Press.
+* Crane, T., 1991, “Why Indeed? Papineau on Supervenience”, _Analysis_, 51: 32–7.
+* ––––, 1992, “Mental Causation and Mental Reality”, _Proceedings of the Aristotelian Society_, 92: 185–202.
+* ––––, 1995, “The Mental Causation Debate”, _Proceedings of the Aristotelian Society_, Supplementary Vol. 69: 211–36.
+* ––––, 1999, “Mind-Body Problem”, in R. A. Wilson and F. Keil (eds.), _The MIT Encyclopedia of the Cognitive Sciences_, Cambridge, MA: MIT Press, pp. 546–8.
+* ––––, 2001, _Elements of Mind: An Introduction to the Philosophy of Mind_, Oxford: Oxford University Press.
 * ––––, 2008, “Causation and Determinable Properties: On the Efficacy of Colour, Shape, and Size”, in Hohwy and Kallestrup 2008, pp. 176–95.
-* Crane, T. and D. H. Mellor, 1990, “There is No Question of Physicalism”, *Mind*, 99: 185–206.
-* Crisp, T. M. and T. A. Warfield, 2001, “Kim’s Master Argument”, *Noûs*, 35: 304–16.
-* Dardis, A., 1993, “Sunburn: Independence Conditions on Causal Relevance”, *Philosophy and Phenomenological Research*, 53: 577–98.
-* Davidson, D., 1963, “Actions, Reasons, and Causes”, *Journal of Philosophy*, 60: 685–700. Reprinted in Davidson 1980, pp. 3–19.
-* ––––, 1970, “Mental Events”, in L. Foster and J. W. Swanson (eds.), *Experience and Theory*, Amherst, MA: University of Massachusetts Press, pp. 79–101. Reprinted in Davidson 1980, pp. 207–25.
-* ––––, 1980, *Essays on Actions and Events*, Oxford: Clarendon Press.
+* Crane, T. and D. H. Mellor, 1990, “There is No Question of Physicalism”, _Mind_, 99: 185–206.
+* Crisp, T. M. and T. A. Warfield, 2001, “Kim’s Master Argument”, _Noûs_, 35: 304–16.
+* Dardis, A., 1993, “Sunburn: Independence Conditions on Causal Relevance”, _Philosophy and Phenomenological Research_, 53: 577–98.
+* Davidson, D., 1963, “Actions, Reasons, and Causes”, _Journal of Philosophy_, 60: 685–700. Reprinted in Davidson 1980, pp. 3–19.
+* ––––, 1970, “Mental Events”, in L. Foster and J. W. Swanson (eds.), _Experience and Theory_, Amherst, MA: University of Massachusetts Press, pp. 79–101. Reprinted in Davidson 1980, pp. 207–25.
+* ––––, 1980, _Essays on Actions and Events_, Oxford: Clarendon Press.
 * ––––, 1993, “Thinking Causes”, in Heil and Mele 1993, pp. 3–17.
 * Davies, P. C. W., 2006, “The Physics of Downward Causation”, in Clayton and Davies 2006, pp. 35–51.
-* Dennett, D. C., 1973, “Mechanism and Responsibility”, in T. Honderich (ed.), *Essays on Freedom of Action*, London: Routledge & Kegan Paul, pp. 159–84. Reprinted in D. C. Dennett, 1981, *Brainstorms: Philosophical Essays on Mind and Psychology*, Cambridge, MA: MIT Press, pp. 233–55.
-* ––––, 1991, *Consciousness Explained*, Boston: Little, Brown, and Co.
-* Descartes, R., 1642/1996, *Meditations on First Philosophy, with Selections from the Objections and Replies*, trans. and ed. J. Cottingham, Cambridge: Cambridge University Press.
-* D’Oro, G. (ed.), 2013, *Reasons and Causes: Causalism and Non-Causalism in the Philosophy of Action*, Basingstoke: Palgrave Macmillan.
-* Dretske, F., 1988, *Explaining Behavior: Reasons in a World of Causes*, Cambridge, MA: MIT Press.
-* ––––, 1989, “Reasons and Causes”, *Philosophical Perspectives*, 3: 1–15.
+* Dennett, D. C., 1973, “Mechanism and Responsibility”, in T. Honderich (ed.), _Essays on Freedom of Action_, London: Routledge & Kegan Paul, pp. 159–84. Reprinted in D. C. Dennett, 1981, _Brainstorms: Philosophical Essays on Mind and Psychology_, Cambridge, MA: MIT Press, pp. 233–55.
+* ––––, 1991, _Consciousness Explained_, Boston: Little, Brown, and Co.
+* Descartes, R., 1642/1996, _Meditations on First Philosophy, with Selections from the Objections and Replies_, trans. and ed. J. Cottingham, Cambridge: Cambridge University Press.
+* D’Oro, G. (ed.), 2013, _Reasons and Causes: Causalism and Non-Causalism in the Philosophy of Action_, Basingstoke: Palgrave Macmillan.
+* Dretske, F., 1988, _Explaining Behavior: Reasons in a World of Causes_, Cambridge, MA: MIT Press.
+* ––––, 1989, “Reasons and Causes”, _Philosophical Perspectives_, 3: 1–15.
 * ––––, 1991, “Dretske’s Replies”, in McLaughlin 1991, pp. 180–221.
 * ––––, 1993, “Mental Events as Structuring Causes of Behavior”, in Heil and Mele 1993, pp. 121–36.
-* ––––, 1998, “Minds, Machines, and Money: What Really Explains Behavior”, in J. Bransen and S. E. Cuypers (eds.), *Human Action, Deliberation and Causation*, Dordrecht: Kluwer Academic Publishers, pp. 157–73.
-* Ehring, D., 1996, “Mental Causation, Determinables and Property Instances”, *Noûs*, 30: 461–80.
-* ––––, 1997, *Causation and Persistence: A Theory of Causation*, New York: Oxford University Press.
-* Enc, B., 1995, “Units of Behavior”, *Philosophy of Science*, 62: 523–42.
-* Fodor, J. A., 1980, “Methodological Solipsism Considered as a Research Strategy in Cognitive Psychology”, *Behavioral and Brain Sciences*, 3: 63–73. Reprinted in J. A. Fodor, 1981, *Representations: Philosophical Essays on the Foundations of Cognitive Science*, Cambridge, MA: MIT Press, pp. 225–53.
-* ––––, 1981, “The Mind–Body Problem”, *Scientific American*, 244: 114–23.
-* ––––, 1987, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*, Cambridge, MA: MIT Press.
-* ––––, 1989, “Making Mind Matter More”, *Philosophical Topics*, 17: 59–79. Reprinted in J. A. Fodor, 1990, *A Theory of Content and Other Essays*, Cambridge, MA: MIT Press, pp. 137–59.
-* ––––, 1991, “A Modal Argument for Narrow Content”, *Journal of Philosophy*, 88: 5–26.
-* ––––, 1995, *The Elm and the Expert*, Cambridge, MA: MIT Press.
-* ––––, 1997, “Special Sciences: Still Autonomous After All These Years”, *Philosophical Perspectives*, 11: 149–63.
-* Foster, J., 1991, *The Immaterial Self: A Defence of the Cartesian Dualist Conception of the Mind*, London: Routledge.
-* Funkhouser, E., 2002, “Three Varieties of Causal Overdetermination”, *Pacific Philosophical Quarterly*, 83: 335–51.
-* ––––, 2006, “The Determinable–Determinate Relation”, *Noûs*, 40: 548–69.
-* Garber, D., 1983, “Understanding Interaction: What Descartes Should Have Told Elisabeth”, *Southern Journal of Philosophy*, 21: 15–32.
-* Garrett, B. J., 1998, “Pluralism, Causation and Overdetermination”, *Synthese*, 116: 355–78.
-* ––––, 1999, “Davidson on Causal Relevance”, *Ratio (new series)*, 12: 14–33.
-* Gibb, S. C., 2004, “The Problem of Mental Causation and the Nature of Properties”, *Australasian Journal of Philosophy*, 82: 464–76.
-* ––––, 2006, “Why Davidson is not a Property Epiphenomenalist”, *International Journal of Philosophical Studies*, 14: 407–22.
-* ––––, 2010, “Closure Principles and the Laws of Conservation of Energy and Momentum”, *Dialectica*, 64: 363–84.
-* ––––, 2013, “Mental Causation and Double Prevention”, in S. C. Gibb, E. J. Lowe, and R. D. Ingthorsson (eds.), *Mental Causation and Ontology*, Oxford: Oxford University Press, pp. 193–214.
-* ––––, 2015, “The Causal Closure Principle”, *Philosophical Quarterly*, 65: 626–47.
-* Gibb, S. C., R. F. Hendry and T. Lancaster (eds.), 2019, *The Routledge Handbook of Emergence*, London: Routledge.
-* Gibbons, J., 2006, “Mental Causation without Downward Causation”, *Philosophical Review*, 115: 79–103.
-* Gillett, C. and B. Loewer (eds.), 2001, *Physicalism and Its Discontents*, Cambridge: Cambridge University Press.
-* Gillett, C. and B. Rives, 2001, “Does the Argument from Realization Generalize? Responses to Kim”, *Southern Journal of Philosophy*, 39: 79–98.
-* Ginet, C., 1990, *On Action*, Cambridge: Cambridge University Press.
-* Hardcastle, V. G., 1998, “On the Matter of Minds and Mental Causation”, *Philosophy and Phenomenological Research*, 58: 1–25.
-* Hart, W. D., 1988, *The Engines of the Soul*, Cambridge: Cambridge University Press.
-* Hasker, W., 1999, *The Emergent Self*, Ithaca: Cornell University Press.
-* Heil, J., 1992, *The Nature of True Minds*, Cambridge: Cambridge University Press.
-* ––––, 1999, “Multiple Realizability”, *American Philosophical Quarterly*, 36: 189–208.
+* ––––, 1998, “Minds, Machines, and Money: What Really Explains Behavior”, in J. Bransen and S. E. Cuypers (eds.), _Human Action, Deliberation and Causation_, Dordrecht: Kluwer Academic Publishers, pp. 157–73.
+* Ehring, D., 1996, “Mental Causation, Determinables and Property Instances”, _Noûs_, 30: 461–80.
+* ––––, 1997, _Causation and Persistence: A Theory of Causation_, New York: Oxford University Press.
+* Enc, B., 1995, “Units of Behavior”, _Philosophy of Science_, 62: 523–42.
+* Fodor, J. A., 1980, “Methodological Solipsism Considered as a Research Strategy in Cognitive Psychology”, _Behavioral and Brain Sciences_, 3: 63–73. Reprinted in J. A. Fodor, 1981, _Representations: Philosophical Essays on the Foundations of Cognitive Science_, Cambridge, MA: MIT Press, pp. 225–53.
+* ––––, 1981, “The Mind–Body Problem”, _Scientific American_, 244: 114–23.
+* ––––, 1987, _Psychosemantics: The Problem of Meaning in the Philosophy of Mind_, Cambridge, MA: MIT Press.
+* ––––, 1989, “Making Mind Matter More”, _Philosophical Topics_, 17: 59–79. Reprinted in J. A. Fodor, 1990, _A Theory of Content and Other Essays_, Cambridge, MA: MIT Press, pp. 137–59.
+* ––––, 1991, “A Modal Argument for Narrow Content”, _Journal of Philosophy_, 88: 5–26.
+* ––––, 1995, _The Elm and the Expert_, Cambridge, MA: MIT Press.
+* ––––, 1997, “Special Sciences: Still Autonomous After All These Years”, _Philosophical Perspectives_, 11: 149–63.
+* Foster, J., 1991, _The Immaterial Self: A Defence of the Cartesian Dualist Conception of the Mind_, London: Routledge.
+* Funkhouser, E., 2002, “Three Varieties of Causal Overdetermination”, _Pacific Philosophical Quarterly_, 83: 335–51.
+* ––––, 2006, “The Determinable–Determinate Relation”, _Noûs_, 40: 548–69.
+* Garber, D., 1983, “Understanding Interaction: What Descartes Should Have Told Elisabeth”, _Southern Journal of Philosophy_, 21: 15–32.
+* Garrett, B. J., 1998, “Pluralism, Causation and Overdetermination”, _Synthese_, 116: 355–78.
+* ––––, 1999, “Davidson on Causal Relevance”, _Ratio (new series)_, 12: 14–33.
+* Gibb, S. C., 2004, “The Problem of Mental Causation and the Nature of Properties”, _Australasian Journal of Philosophy_, 82: 464–76.
+* ––––, 2006, “Why Davidson is not a Property Epiphenomenalist”, _International Journal of Philosophical Studies_, 14: 407–22.
+* ––––, 2010, “Closure Principles and the Laws of Conservation of Energy and Momentum”, _Dialectica_, 64: 363–84.
+* ––––, 2013, “Mental Causation and Double Prevention”, in S. C. Gibb, E. J. Lowe, and R. D. Ingthorsson (eds.), _Mental Causation and Ontology_, Oxford: Oxford University Press, pp. 193–214.
+* ––––, 2015, “The Causal Closure Principle”, _Philosophical Quarterly_, 65: 626–47.
+* Gibb, S. C., R. F. Hendry and T. Lancaster (eds.), 2019, _The Routledge Handbook of Emergence_, London: Routledge.
+* Gibbons, J., 2006, “Mental Causation without Downward Causation”, _Philosophical Review_, 115: 79–103.
+* Gillett, C. and B. Loewer (eds.), 2001, _Physicalism and Its Discontents_, Cambridge: Cambridge University Press.
+* Gillett, C. and B. Rives, 2001, “Does the Argument from Realization Generalize? Responses to Kim”, _Southern Journal of Philosophy_, 39: 79–98.
+* Ginet, C., 1990, _On Action_, Cambridge: Cambridge University Press.
+* Hardcastle, V. G., 1998, “On the Matter of Minds and Mental Causation”, _Philosophy and Phenomenological Research_, 58: 1–25.
+* Hart, W. D., 1988, _The Engines of the Soul_, Cambridge: Cambridge University Press.
+* Hasker, W., 1999, _The Emergent Self_, Ithaca: Cornell University Press.
+* Heil, J., 1992, _The Nature of True Minds_, Cambridge: Cambridge University Press.
+* ––––, 1999, “Multiple Realizability”, _American Philosophical Quarterly_, 36: 189–208.
 * ––––, 2003, “Multiply Realized Properties”, in Walter and Heckmann 2003, pp. 11–30.
-* ––––, 2009, “Anomalous Monism”, in H. Dyke (ed.), *From Truth to Reality: New Essays in Metaphysics*, London: Routledge, pp. 85–98.
-* ––––, 2011, “Powers and the Realization Relation”, *The Monist*, 94: 35–53.
-* ––––, 2012, *Philosophy of Mind*, Third Edition, London: Routledge.
-* Heil, J. and A. Mele (eds.), 1993, *Mental Causation*, Oxford: Clarendon Press.
-* Heil, J. and D. Robb, 2003, “Mental Properties”, *American Philosophical Quarterly*, 40: 175–96.
-* Hendry, R. F., 2006, “Is there Downward Causation in Chemistry?”, in D. Baird, E. Scerri, and L. McIntyre (eds.), *Philosophy of Chemistry: Synthesis of a New Discipline; Boston Studies in the Philosophy and History of Science*, 242: 173–89.
-* Hoffman, J., and G. Rosenkrantz, 1991, “Are Souls Unintelligible?”, *Philosophical Perspectives*, 5: 183–212.
-* Hofmann, F., and P. Schulte, 2014, “The Structuring Causes of Behavior: Has Dretske Saved Mental Causation?”, *Acta Analytica*, 29: 267–84.
-* Hohwy, J. and J. Kallestrup (eds.), 2008, *Being Reduced: New Essays on Reduction, Explanation, and Causation*, Oxford: Oxford University Press.
-* Honderich, T., 1982, “The Argument for Anomalous Monism”, *Analysis*, 42: 59–64.
-* Horgan, T., 1989, “Mental Quausation”, *Philosophical Perspectives*, 3: 47–76.
+* ––––, 2009, “Anomalous Monism”, in H. Dyke (ed.), _From Truth to Reality: New Essays in Metaphysics_, London: Routledge, pp. 85–98.
+* ––––, 2011, “Powers and the Realization Relation”, _The Monist_, 94: 35–53.
+* ––––, 2012, _Philosophy of Mind_, Third Edition, London: Routledge.
+* Heil, J. and A. Mele (eds.), 1993, _Mental Causation_, Oxford: Clarendon Press.
+* Heil, J. and D. Robb, 2003, “Mental Properties”, _American Philosophical Quarterly_, 40: 175–96.
+* Hendry, R. F., 2006, “Is there Downward Causation in Chemistry?”, in D. Baird, E. Scerri, and L. McIntyre (eds.), _Philosophy of Chemistry: Synthesis of a New Discipline; Boston Studies in the Philosophy and History of Science_, 242: 173–89.
+* Hoffman, J., and G. Rosenkrantz, 1991, “Are Souls Unintelligible?”, _Philosophical Perspectives_, 5: 183–212.
+* Hofmann, F., and P. Schulte, 2014, “The Structuring Causes of Behavior: Has Dretske Saved Mental Causation?”, _Acta Analytica_, 29: 267–84.
+* Hohwy, J. and J. Kallestrup (eds.), 2008, _Being Reduced: New Essays on Reduction, Explanation, and Causation_, Oxford: Oxford University Press.
+* Honderich, T., 1982, “The Argument for Anomalous Monism”, _Analysis_, 42: 59–64.
+* Horgan, T., 1989, “Mental Quausation”, _Philosophical Perspectives_, 3: 47–76.
 * ––––, 1991, “Actions, Reasons, and the Explanatory Role of Content”, in McLaughlin 1991, pp. 73–101.
-* ––––, 2007, “Mental Causation and the Agent-Exclusion Problem”, *Erkenntnis*, 67: 183–200.
-* Jackson, F., 1995, “Essentialism, Mental Properties and Causation”, *Proceedings of the Aristotelian Society*, 95: 253–68.
-* ––––, 1996, “Mental Causation”, *Mind*, 105: 377–413.
-* Jackson, F. and P. Pettit, 1988, “Functionalism and Broad Content”, *Mind*, 97: 381–400.
-* ––––, 1990, “Program Explanation: A General Perspective”, *Analysis*, 50: 107–17.
-* Kim, J., 1973, “Causation, Nomic Subsumption, and the Concept of Event”, *Journal of Philosophy*, 70: 217–36. Reprinted in Kim 1993a, pp. 3–21.
-* ––––, 1982, “Psychophysical Supervenience”, *Philosophical Studies*, 41: 51–70. Reprinted in Kim 1993a, pp. 175–93.
-* ––––, 1984, “Epiphenomenal and Supervenient Causation”, *Midwest Studies in Philosophy*, 9: 257–70. Reprinted in Kim 1993a, pp. 92–108.
-* ––––, 1989, “Mechanism, Purpose, and Explanatory Exclusion”, *Philosophical Perspectives*, 3: 77–108. Reprinted in Kim 1993a, pp. 237–64.
+* ––––, 2007, “Mental Causation and the Agent-Exclusion Problem”, _Erkenntnis_, 67: 183–200.
+* Jackson, F., 1995, “Essentialism, Mental Properties and Causation”, _Proceedings of the Aristotelian Society_, 95: 253–68.
+* ––––, 1996, “Mental Causation”, _Mind_, 105: 377–413.
+* Jackson, F. and P. Pettit, 1988, “Functionalism and Broad Content”, _Mind_, 97: 381–400.
+* ––––, 1990, “Program Explanation: A General Perspective”, _Analysis_, 50: 107–17.
+* Kim, J., 1973, “Causation, Nomic Subsumption, and the Concept of Event”, _Journal of Philosophy_, 70: 217–36. Reprinted in Kim 1993a, pp. 3–21.
+* ––––, 1982, “Psychophysical Supervenience”, _Philosophical Studies_, 41: 51–70. Reprinted in Kim 1993a, pp. 175–93.
+* ––––, 1984, “Epiphenomenal and Supervenient Causation”, _Midwest Studies in Philosophy_, 9: 257–70. Reprinted in Kim 1993a, pp. 92–108.
+* ––––, 1989, “Mechanism, Purpose, and Explanatory Exclusion”, _Philosophical Perspectives_, 3: 77–108. Reprinted in Kim 1993a, pp. 237–64.
 * ––––, 1991, “Dretske on How Reasons Explain Behavior”, in McLaughlin 1991, pp. 52–72. Reprinted in Kim 1993a, pp. 285–308.
-* ––––, 1992, “Multiple Realization and the Metaphysics of Reduction”, *Philosophy and Phenomenological Research*, 52:1–26. Reprinted in Kim 1993a, pp. 309–35.
-* ––––, 1993a, *Supervenience and Mind: Selected Philosophical Essays*, Cambridge: Cambridge University Press.
+* ––––, 1992, “Multiple Realization and the Metaphysics of Reduction”, _Philosophy and Phenomenological Research_, 52:1–26. Reprinted in Kim 1993a, pp. 309–35.
+* ––––, 1993a, _Supervenience and Mind: Selected Philosophical Essays_, Cambridge: Cambridge University Press.
 * ––––, 1993b, “Can Supervenience and ‘Non-Strict Laws’ Save Anomalous Monism?”, in Heil and Mele 1993, pp. 19–26.
 * ––––, 1993c, “The Non-Reductivist’s Troubles with Mental Causation”, in Heil and Mele 1993, pp. 189–210. Reprinted in Kim 1993a, pp. 336–57.
-* ––––, 1998, *Mind in a Physical World*, Cambridge, MA: MIT Press.
-* ––––, 2005, *Physicalism, or Something Near Enough*, Princeton: Princeton University Press.
+* ––––, 1998, _Mind in a Physical World_, Cambridge, MA: MIT Press.
+* ––––, 2005, _Physicalism, or Something Near Enough_, Princeton: Princeton University Press.
 * ––––, 2007, “Causation and Mental Causation”, in McLaughlin and Cohen 2007, pp. 227–42.
-* ––––, 2010, “Two Concepts of Realization, Mental Causation, and Physicalism”, in J. Kim, *Essays in the Metaphysics of Mind*, Oxford: Oxford University Press, pp. 263–81.
-* King, P., 2007, “Why Isn’t the Mind-Body Problem Medieval?”, in H. Lagerlund (ed.), *Forming the Mind: Essays on the Internal Senses and the Mind/Body Problem from Avicenna to the Medical Enlightenment*, Dordrecht: Springer, pp. 187–205.
-* Koksvik, O., 2007, “Conservation of Energy is Relevant to Physicalism”, *Dialectica*, 61: 573–82.
-* Kroedel, T., 2019, *Mental Causation: A Counterfactual Theory*, Cambridge: Cambridge University Press.
-* Kroedel, T. and M. Schulz, 2016, “Grounding mental causation”, *Synthese*, 193: 1909–23.
-* Leiter, B. and A. Miller, 1994, “Mind Doesn’t Matter Yet”, *Australasian Journal of Philosophy*, 72: 220–8.
-* LePore, E., and B. Loewer, 1987, “Mind Matters”, *Journal of Philosophy*, 84: 630–42.
-* ––––, 1989, “More on Making Mind Matter”, *Philosophical Topics*, 17: 175–91.
-* Levine, J., 2001, *Purple Haze: The Puzzle of Consciousness*, New York: Oxford University Press.
-* Lewis, D., 1966, “An Argument for the Identity Theory”, *Journal of Philosophy*, 63: 17–25.
-* ––––, 1994, “Reduction of Mind”, in S. Guttenplan (ed.), *A Companion to the Philosophy of Mind*, Oxford: Blackwell, pp. 412–31.
-* Libet B., 1985, “Unconscious Cerebral Initiative and the Role of Conscious Will in Voluntary Action”, *Behavioral and Brain Sciences*, 8: 529–39.
-* ––––, 2001, “Consciousness, Free Action and the Brain”, *Journal of Consciousness Studies*, 8: 59–65.
-* ––––, 2004, *Mind Time: The Temporal Factor in Consciousness*, Cambridge, MA: Harvard University Press.
+* ––––, 2010, “Two Concepts of Realization, Mental Causation, and Physicalism”, in J. Kim, _Essays in the Metaphysics of Mind_, Oxford: Oxford University Press, pp. 263–81.
+* King, P., 2007, “Why Isn’t the Mind-Body Problem Medieval?”, in H. Lagerlund (ed.), _Forming the Mind: Essays on the Internal Senses and the Mind/Body Problem from Avicenna to the Medical Enlightenment_, Dordrecht: Springer, pp. 187–205.
+* Koksvik, O., 2007, “Conservation of Energy is Relevant to Physicalism”, _Dialectica_, 61: 573–82.
+* Kroedel, T., 2019, _Mental Causation: A Counterfactual Theory_, Cambridge: Cambridge University Press.
+* Kroedel, T. and M. Schulz, 2016, “Grounding mental causation”, _Synthese_, 193: 1909–23.
+* Leiter, B. and A. Miller, 1994, “Mind Doesn’t Matter Yet”, _Australasian Journal of Philosophy_, 72: 220–8.
+* LePore, E., and B. Loewer, 1987, “Mind Matters”, _Journal of Philosophy_, 84: 630–42.
+* ––––, 1989, “More on Making Mind Matter”, _Philosophical Topics_, 17: 175–91.
+* Levine, J., 2001, _Purple Haze: The Puzzle of Consciousness_, New York: Oxford University Press.
+* Lewis, D., 1966, “An Argument for the Identity Theory”, _Journal of Philosophy_, 63: 17–25.
+* ––––, 1994, “Reduction of Mind”, in S. Guttenplan (ed.), _A Companion to the Philosophy of Mind_, Oxford: Blackwell, pp. 412–31.
+* Libet B., 1985, “Unconscious Cerebral Initiative and the Role of Conscious Will in Voluntary Action”, _Behavioral and Brain Sciences_, 8: 529–39.
+* ––––, 2001, “Consciousness, Free Action and the Brain”, _Journal of Consciousness Studies_, 8: 59–65.
+* ––––, 2004, _Mind Time: The Temporal Factor in Consciousness_, Cambridge, MA: Harvard University Press.
 * Loewer, B., 2007, “Mental Causation, or Something Near Enough”, in McLaughlin and Cohen 2007, pp. 243–64.
-* Lowe, E. J., 1992, “The Problem of Psychophysical Causation”, *Australasian Journal of Philosophy*, 70: 263–76.
-* ––––, 1996, *Subjects of Experience*, Cambridge: Cambridge University Press.
-* ––––, 2000, “Causal Closure Principles and Emergentism”, *Philosophy*, 75: 571–85.
+* Lowe, E. J., 1992, “The Problem of Psychophysical Causation”, _Australasian Journal of Philosophy_, 70: 263–76.
+* ––––, 1996, _Subjects of Experience_, Cambridge: Cambridge University Press.
+* ––––, 2000, “Causal Closure Principles and Emergentism”, _Philosophy_, 75: 571–85.
 * ––––, 2003, “Physical Causal Closure and the Invisibility of Mental Causation”, in Walter and Heckmann 2003, pp. 137–54.
-* ––––, 2006, “Non-Cartesian Substance Dualism and the Problem of Mental Causation”, *Erkenntnis*, 65: 5–23.
-* Macdonald, C., and G. Macdonald, 1986, “Mental Causes and Explanation of Action”, *Philosophical Quarterly*, 36: 145–58.
+* ––––, 2006, “Non-Cartesian Substance Dualism and the Problem of Mental Causation”, _Erkenntnis_, 65: 5–23.
+* Macdonald, C., and G. Macdonald, 1986, “Mental Causes and Explanation of Action”, _Philosophical Quarterly_, 36: 145–58.
 * ––––, 1995a, “How to Be Psychologically Relevant”, in Macdonald and Macdonald 1995b, pp. 60–77.
-* –––– (eds.), 1995b, *Philosophy of Psychology: Debates on Psychological Explanation*, Vol. 1, Oxford: Blackwell.
-* ––––, 2006, “The Metaphysics of Mental Causation”, *Journal of Philosophy*, 103: 539–76.
-* –––– (eds.), 2010, *Emergence in Mind*, Oxford: Oxford University Press.
-* Mackie, J. L., 1974, *The Cement of the Universe: A Study of Causation*, Oxford: Clarendon Press.
-* ––––, 1979, “Mind, Brain, and Causation”, *Midwest Studies in Philosophy*, 4: 19–29.
-* McLaughlin, B. P., 1989, “Type Epiphenomenalism, Type Dualism, and the Causal Priority of the Physical”, *Philosophical Perspectives*, 3: 109–35.
-* –––– (ed.), 1991, *Dretske and His Critics*, Oxford: Blackwell.
-* ––––, 1992, “The Rise and Fall of British Emergentism”, in A. Beckermann, H. Flohr, and J. Kim (eds.), *Emergence or Reduction? Essays on the Prospects of Nonreductive Physicalism*, New York: de Gruyter, pp. 49–93.
+* –––– (eds.), 1995b, _Philosophy of Psychology: Debates on Psychological Explanation_, Vol. 1, Oxford: Blackwell.
+* ––––, 2006, “The Metaphysics of Mental Causation”, _Journal of Philosophy_, 103: 539–76.
+* –––– (eds.), 2010, _Emergence in Mind_, Oxford: Oxford University Press.
+* Mackie, J. L., 1974, _The Cement of the Universe: A Study of Causation_, Oxford: Clarendon Press.
+* ––––, 1979, “Mind, Brain, and Causation”, _Midwest Studies in Philosophy_, 4: 19–29.
+* McLaughlin, B. P., 1989, “Type Epiphenomenalism, Type Dualism, and the Causal Priority of the Physical”, _Philosophical Perspectives_, 3: 109–35.
+* –––– (ed.), 1991, _Dretske and His Critics_, Oxford: Blackwell.
+* ––––, 1992, “The Rise and Fall of British Emergentism”, in A. Beckermann, H. Flohr, and J. Kim (eds.), _Emergence or Reduction? Essays on the Prospects of Nonreductive Physicalism_, New York: de Gruyter, pp. 49–93.
 * ––––, 1993, “On Davidson’s Response to the Charge of Epiphenomenalism”, in Heil and Mele 1993, pp. 27–40.
-* ––––, 2006, “Is Role-Functionalism Committed to Epiphenomenalism?”, *Journal of Consciousness Studies*, 13: 39–66.
-* ––––, 2007, “Mental Causation and Shoemaker-Realization”, *Erkenntnis*, 67: 149–72.
-* McLaughlin, B. P. and J. Cohen (eds.), 2007, *Contemporary Debates in Philosophy of Mind*, Oxford: Blackwell.
-* Malcolm, N., 1968, “The Conceivability of Mechanism”, *Philosophical Review*, 77: 45–72.
-* Marcus, E., 2001, “Mental Causation: Unnaturalized but not Unnatural”, *Philosophy and Phenomenological Research*, 63: 57–83.
-* ––––, 2005, “Mental Causation in a Physical World”, *Philosophical Studies*, 122: 27–50.
-* Marras, A., 1998, “Kim’s Principle of Explanatory Exclusion”, *Australasian Journal of Philosophy*, 76: 439–51.
+* ––––, 2006, “Is Role-Functionalism Committed to Epiphenomenalism?”, _Journal of Consciousness Studies_, 13: 39–66.
+* ––––, 2007, “Mental Causation and Shoemaker-Realization”, _Erkenntnis_, 67: 149–72.
+* McLaughlin, B. P. and J. Cohen (eds.), 2007, _Contemporary Debates in Philosophy of Mind_, Oxford: Blackwell.
+* Malcolm, N., 1968, “The Conceivability of Mechanism”, _Philosophical Review_, 77: 45–72.
+* Marcus, E., 2001, “Mental Causation: Unnaturalized but not Unnatural”, _Philosophy and Phenomenological Research_, 63: 57–83.
+* ––––, 2005, “Mental Causation in a Physical World”, _Philosophical Studies_, 122: 27–50.
+* Marras, A., 1998, “Kim’s Principle of Explanatory Exclusion”, _Australasian Journal of Philosophy_, 76: 439–51.
 * ––––, 2003, “Methodological and Ontological Aspects of the Mental Causation Problem”, in Walter and Heckmann 2003, pp. 243–64.
-* Matson, W. I., 1966, “Why Isn’t the Mind-Body Problem Ancient?”, in P. K. Feyerabend and G. Maxwell (eds.), *Mind, Matter, and Method: Essays in Philosophy and Science in Honor of Herbert Feigl*, Minneapolis: University of Minnesota Press, pp. 92–102.
-* Maurin, A., 2008, “Does Ontology Matter?”, in S. Gozzano and F. Orilia (eds.), *Tropes, Universals and the Philosophy of Mind*, Frankfurt: Ontos Verlag, pp. 31–55.
-* Melden, A. I., 1961, *Free Action*, London: Routledge & Kegan Paul.
-* Mele, A. R., 1991, “Dretske’s Intricate Behavior”, *Philosophical Papers*, 20: 1–10.
-* ––––, 1992, *Springs of Action*, New York: Oxford University Press.
-* ––––, 2014, *Free: Why Science Hasn’t Disproved Free Will*, New York: Oxford University Press.
-* Melnyk, A., 2003, *A Physicalist Manifesto: Thoroughly Modern Materialism*, Cambridge: Cambridge University Press. A modified version of the chapter cited in the text is in Walter and Heckmann 2003, pp. 155–72.
+* Matson, W. I., 1966, “Why Isn’t the Mind-Body Problem Ancient?”, in P. K. Feyerabend and G. Maxwell (eds.), _Mind, Matter, and Method: Essays in Philosophy and Science in Honor of Herbert Feigl_, Minneapolis: University of Minnesota Press, pp. 92–102.
+* Maurin, A., 2008, “Does Ontology Matter?”, in S. Gozzano and F. Orilia (eds.), _Tropes, Universals and the Philosophy of Mind_, Frankfurt: Ontos Verlag, pp. 31–55.
+* Melden, A. I., 1961, _Free Action_, London: Routledge & Kegan Paul.
+* Mele, A. R., 1991, “Dretske’s Intricate Behavior”, _Philosophical Papers_, 20: 1–10.
+* ––––, 1992, _Springs of Action_, New York: Oxford University Press.
+* ––––, 2014, _Free: Why Science Hasn’t Disproved Free Will_, New York: Oxford University Press.
+* Melnyk, A., 2003, _A Physicalist Manifesto: Thoroughly Modern Materialism_, Cambridge: Cambridge University Press. A modified version of the chapter cited in the text is in Walter and Heckmann 2003, pp. 155–72.
 * Menzies, P., 2003, “The Causal Efficacy of Mental States”, in Walter and Heckmann 2003, pp. 195–223.
-* ––––, 2007, “Mental Causation on the Program Model”, in G. Brennan, R. Goodin, F. Jackson, and M. Smith (eds.), *Common Minds: Themes from the Philosophy of Philip Pettit*, Oxford: Oxford University Press, pp. 28–54.
-* Mills, E., 1996, “Interactionism and Overdetermination”, *American Philosophical Quarterly*, 33: 105–17.
+* ––––, 2007, “Mental Causation on the Program Model”, in G. Brennan, R. Goodin, F. Jackson, and M. Smith (eds.), _Common Minds: Themes from the Philosophy of Philip Pettit_, Oxford: Oxford University Press, pp. 28–54.
+* Mills, E., 1996, “Interactionism and Overdetermination”, _American Philosophical Quarterly_, 33: 105–17.
 * Montero, B., 2003, “Varieties of Causal Closure”, in Walter and Heckmann 2003, pp. 173–87.
-* ––––, 2006, “What Does the Conservation of Energy Have to Do with Physicalism?”, *Dialectica*, 60: 383–96.
-* Moore, D. and N. Campbell, 2010, “Functional Reduction and Mental Causation”, *Acta Analytica*, 25: 435–46.
-* Ney, A., 2007, “Can an Appeal to Constitution Solve the Exclusion Problem?”, *Pacific Philosophical Quarterly*, 88: 486–506.
-* ––––, 2010, “Convergence on the Problem of Mental Causation: Shoemaker’s Strategy for (Nonreductive) Physicalists”, *Philosophical Issues*, 20: 438–45.
-* Noordhof, P., 1998, “Do Tropes Resolve the Problem of Mental Causation?”, *Philosophical Quarterly*, 48: 221–6.
-* ––––, 1999, “Micro-Based Properties and the Supervenience Argument: A Response to Kim”, *Proceedings of the Aristotelian Society*, 99: 109–14.
+* ––––, 2006, “What Does the Conservation of Energy Have to Do with Physicalism?”, _Dialectica_, 60: 383–96.
+* Moore, D. and N. Campbell, 2010, “Functional Reduction and Mental Causation”, _Acta Analytica_, 25: 435–46.
+* Ney, A., 2007, “Can an Appeal to Constitution Solve the Exclusion Problem?”, _Pacific Philosophical Quarterly_, 88: 486–506.
+* ––––, 2010, “Convergence on the Problem of Mental Causation: Shoemaker’s Strategy for (Nonreductive) Physicalists”, _Philosophical Issues_, 20: 438–45.
+* Noordhof, P., 1998, “Do Tropes Resolve the Problem of Mental Causation?”, _Philosophical Quarterly_, 48: 221–6.
+* ––––, 1999, “Micro-Based Properties and the Supervenience Argument: A Response to Kim”, _Proceedings of the Aristotelian Society_, 99: 109–14.
 * O’Connor, T. and J. R. Churchill, 2010, “Is Non-reductive Physicalism Viable within a Causal Powers Metaphysic?”, in Macdonald and Macdonald 2010, pp. 43–60.
-* Oddie, G., 1982, “Armstrong on the Eleatic Principle and Abstract Entities”, *Philosophical Studies*, 41: 285–95.
-* Owens, J., 1993, “Content, Causation, and Psychophysical Supervenience”, *Philosophy of Science*, 60: 242–61.
-* Paoletti, M. P. and Orilia, F. (eds.), 2017, *Philosophical and Scientific Perspectives on Downward Causation*, London: Routledge.
-* Papineau, D., 1991, “The Reason Why: Response to Crane”, *Analysis*, 51: 37–40.
-* ––––, 1993, *Philosophical Naturalism*, Oxford: Blackwell.
-* ––––, 2000, “The Rise of Physicalism”, in M. W. F. Stone and J. Wolff (eds.), *The Proper Ambition of Science*, New York: Routledge, pp. 174–208. Versions of this paper also appear in Gillett and Loewer 2001, pp. 3–36, and in Ch. 1 and the appendix to D. Papineau, 2002, *Thinking About Consciousness*, Oxford: Oxford University Press.
-* Patterson, S., 2005, “Epiphenomenalism and Occasionalism: Problems of Mental Causation, Old and New”, *History of Philosophy Quarterly*, 22: 239–57.
-* Pereboom, D., 2002, “Robust Nonreductive Materialism”, *Journal of Philosophy*, 99: 499–531.
-* Raymont, P., 2001, “Are Mental Properties Causally Relevant?”, *Dialogue*, 40: 509–28.
+* Oddie, G., 1982, “Armstrong on the Eleatic Principle and Abstract Entities”, _Philosophical Studies_, 41: 285–95.
+* Owens, J., 1993, “Content, Causation, and Psychophysical Supervenience”, _Philosophy of Science_, 60: 242–61.
+* Paoletti, M. P. and Orilia, F. (eds.), 2017, _Philosophical and Scientific Perspectives on Downward Causation_, London: Routledge.
+* Papineau, D., 1991, “The Reason Why: Response to Crane”, _Analysis_, 51: 37–40.
+* ––––, 1993, _Philosophical Naturalism_, Oxford: Blackwell.
+* ––––, 2000, “The Rise of Physicalism”, in M. W. F. Stone and J. Wolff (eds.), _The Proper Ambition of Science_, New York: Routledge, pp. 174–208. Versions of this paper also appear in Gillett and Loewer 2001, pp. 3–36, and in Ch. 1 and the appendix to D. Papineau, 2002, _Thinking About Consciousness_, Oxford: Oxford University Press.
+* Patterson, S., 2005, “Epiphenomenalism and Occasionalism: Problems of Mental Causation, Old and New”, _History of Philosophy Quarterly_, 22: 239–57.
+* Pereboom, D., 2002, “Robust Nonreductive Materialism”, _Journal of Philosophy_, 99: 499–531.
+* Raymont, P., 2001, “Are Mental Properties Causally Relevant?”, _Dialogue_, 40: 509–28.
 * ––––, 2003, “Kim on Overdetermination, Exclusion and Nonreductive Physicalism”, in Walter and Heckmann 2003, pp. 225–42.
-* Richardson, R. C., 1982, “The ‘Scandal’ of Cartesian Interactionism”, *Mind*, 91: 20–37.
-* Robb, D., 1997, “The Properties of Mental Causation”, *Philosophical Quarterly*, 47: 178–94.
-* ––––, 2013, “The Identity Theory as a Solution to the Exclusion Problem”, in S.C. Gibb, E.J. Lowe, and V. Ingthorsson (eds.), *Mental Causation and Ontology*, Oxford: Oxford University Press, pp. 215–32.
-* Ross, D. and D. Spurrett, 2004, “What to say to a skeptical metaphysician: A defense manual for cognitive and behavioral scientists”, *Behavioral and Brain Sciences*, 27: 603–27.
-* Roth, M. and R. Cummins, 2014, “Two tales of functional explanation”, *Philosophical Psychology*, 27: 773–88.
-* Rupert, R. D., 2006, “Functionalism, Mental Causation, and the Problem of Metaphysically Necessary Effects”, *Noûs*, 40: 256–83.
-* Russell, B., 1912, “On the Notion of Cause”, *Proceedings of the Aristotelian Society*, 13: 1–26.
-* Schiffer, S., 1987, *Remnants of Meaning*, Cambridge, MA: MIT Press.
-* Schlosser, M. E., 2009, “Non-Reductive Physicalism, Mental Causation and the Nature of Actions”, in A. Hieke and H. Leitgeb (eds.), *Reduction: Between the Mind and the Brain*, Frankfurt: Ontos Verlag, pp. 73–89.
-* Segal, G. M. A., 2009, “The Causal Inefficacy of Content”, *Mind & Language*, 24: 80–102.
-* Segal, G. M. A. and E. Sober, 1991, “The Causal Efficacy of Content”, *Philosophical Studies*, 63: 1–30.
-* Sehon, S., 2005, *Teleological Realism: Mind, Agency, and Explanation*, Cambridge, MA: MIT Press.
-* Shapiro, L. A., 2010, “Lessons from Causal Exclusion”, *Philosophy and Phenomenological Research*, 81: 594–604.
-* Shapiro, L. and E. Sober, 2007, “Epiphenomenalism: The Dos and the Don’ts”, in G. Wolters and P. Machamer (eds.), *Studies in Causality: Historical and Contemporary*, Pittsburgh: University of Pittsburgh Press, pp. 235–64.
-* Shoemaker, S., 1980, “Causality and Properties”, in P. van Inwagen (ed.), *Time and Cause: Essays Presented to Richard Taylor*, Dordrecht: D. Reidel Publishing, pp. 109–35. Reprinted in Shoemaker 2003, pp. 206–33.
-* ––––, 1998, “Causal and Metaphysical Necessity”, *Pacific Philosophical Quarterly*, 79: 59–77. Reprinted in Shoemaker 2003, pp. 407–26.
+* Richardson, R. C., 1982, “The ‘Scandal’ of Cartesian Interactionism”, _Mind_, 91: 20–37.
+* Robb, D., 1997, “The Properties of Mental Causation”, _Philosophical Quarterly_, 47: 178–94.
+* ––––, 2013, “The Identity Theory as a Solution to the Exclusion Problem”, in S.C. Gibb, E.J. Lowe, and V. Ingthorsson (eds.), _Mental Causation and Ontology_, Oxford: Oxford University Press, pp. 215–32.
+* Ross, D. and D. Spurrett, 2004, “What to say to a skeptical metaphysician: A defense manual for cognitive and behavioral scientists”, _Behavioral and Brain Sciences_, 27: 603–27.
+* Roth, M. and R. Cummins, 2014, “Two tales of functional explanation”, _Philosophical Psychology_, 27: 773–88.
+* Rupert, R. D., 2006, “Functionalism, Mental Causation, and the Problem of Metaphysically Necessary Effects”, _Noûs_, 40: 256–83.
+* Russell, B., 1912, “On the Notion of Cause”, _Proceedings of the Aristotelian Society_, 13: 1–26.
+* Schiffer, S., 1987, _Remnants of Meaning_, Cambridge, MA: MIT Press.
+* Schlosser, M. E., 2009, “Non-Reductive Physicalism, Mental Causation and the Nature of Actions”, in A. Hieke and H. Leitgeb (eds.), _Reduction: Between the Mind and the Brain_, Frankfurt: Ontos Verlag, pp. 73–89.
+* Segal, G. M. A., 2009, “The Causal Inefficacy of Content”, _Mind & Language_, 24: 80–102.
+* Segal, G. M. A. and E. Sober, 1991, “The Causal Efficacy of Content”, _Philosophical Studies_, 63: 1–30.
+* Sehon, S., 2005, _Teleological Realism: Mind, Agency, and Explanation_, Cambridge, MA: MIT Press.
+* Shapiro, L. A., 2010, “Lessons from Causal Exclusion”, _Philosophy and Phenomenological Research_, 81: 594–604.
+* Shapiro, L. and E. Sober, 2007, “Epiphenomenalism: The Dos and the Don’ts”, in G. Wolters and P. Machamer (eds.), _Studies in Causality: Historical and Contemporary_, Pittsburgh: University of Pittsburgh Press, pp. 235–64.
+* Shoemaker, S., 1980, “Causality and Properties”, in P. van Inwagen (ed.), _Time and Cause: Essays Presented to Richard Taylor_, Dordrecht: D. Reidel Publishing, pp. 109–35. Reprinted in Shoemaker 2003, pp. 206–33.
+* ––––, 1998, “Causal and Metaphysical Necessity”, _Pacific Philosophical Quarterly_, 79: 59–77. Reprinted in Shoemaker 2003, pp. 407–26.
 * ––––, 2001, “Realization and Mental Causation”, in Gillett and Loewer 2001, pp. 74–98. Reprinted in Shoemaker 2003, pp. 427–51.
-* ––––, 2003, *Identity, Cause, and Mind*, Expanded Edition, Oxford: Clarendon Press.
-* ––––, 2007, *Physical Realization*, Oxford: Oxford University Press.
-* Sider, T., 2003, “What’s so Bad about Overdetermination?”, *Philosophy and Phenomenological Research*, 67: 719–26.
-* Smith, B. C., 1990, “Putting Dretske to Work”, in P. Hanson (ed.), *Information, Language, and Cognition*, Vancouver: University of British Columbia Press, pp. 125–40.
-* Sosa, E., 1984, “Mind-Body Interaction and Supervenient Causation”, *Midwest Studies in Philosophy*, 9: 271–81.
+* ––––, 2003, _Identity, Cause, and Mind_, Expanded Edition, Oxford: Clarendon Press.
+* ––––, 2007, _Physical Realization_, Oxford: Oxford University Press.
+* Sider, T., 2003, “What’s so Bad about Overdetermination?”, _Philosophy and Phenomenological Research_, 67: 719–26.
+* Smith, B. C., 1990, “Putting Dretske to Work”, in P. Hanson (ed.), _Information, Language, and Cognition_, Vancouver: University of British Columbia Press, pp. 125–40.
+* Sosa, E., 1984, “Mind-Body Interaction and Supervenient Causation”, _Midwest Studies in Philosophy_, 9: 271–81.
 * ––––, 1993, “Davidson’s Thinking Causes”, in Heil and Mele 1993, pp. 41–50.
-* Stapp, H., 2005, “Quantum Interactive Dualism: An Alternative to Materialism”, *Journal of Consciousness Studies*, 12: 43–58.
-* Stich, S. P., 1978, “Autonomous Psychology and the Belief-Desire Thesis”, *Monist*, 61: 573–91.
-* ––––, 1983, *From Folk Psychology to Cognitive Science: The Case Against Belief*, Cambridge, MA: MIT Press.
-* Stoutland, F., 1980, “Oblique Causation and Reasons for Action”, *Synthese*, 43: 351–67.
-* Strawson, P. F., 1962, “Freedom and Resentment”, *Proceedings of the British Academy*, 48: 1–25. Reprinted in J. M. Fischer and M. Ravizza (eds.), *Perspectives on Moral Responsibility*, Ithaca: Cornell University Press, pp. 45–66.
-* Sturgeon, S., 1998, “Physicalism and Overdetermination”, *Mind*, 107: 411–32.
-* Tanney, J., 2013, *Rules, Reason, and Self-Knowledge*, Cambridge, MA: Harvard University Press.
-* Thomasson, A., 1998, “A Nonreductivist Solution to Mental Causation”, *Philosophical Studies*, 89: 181–95.
-* Unger, P., 2006, *All the Power in the World*, Oxford: Oxford University Press.
+* Stapp, H., 2005, “Quantum Interactive Dualism: An Alternative to Materialism”, _Journal of Consciousness Studies_, 12: 43–58.
+* Stich, S. P., 1978, “Autonomous Psychology and the Belief-Desire Thesis”, _Monist_, 61: 573–91.
+* ––––, 1983, _From Folk Psychology to Cognitive Science: The Case Against Belief_, Cambridge, MA: MIT Press.
+* Stoutland, F., 1980, “Oblique Causation and Reasons for Action”, _Synthese_, 43: 351–67.
+* Strawson, P. F., 1962, “Freedom and Resentment”, _Proceedings of the British Academy_, 48: 1–25. Reprinted in J. M. Fischer and M. Ravizza (eds.), _Perspectives on Moral Responsibility_, Ithaca: Cornell University Press, pp. 45–66.
+* Sturgeon, S., 1998, “Physicalism and Overdetermination”, _Mind_, 107: 411–32.
+* Tanney, J., 2013, _Rules, Reason, and Self-Knowledge_, Cambridge, MA: Harvard University Press.
+* Thomasson, A., 1998, “A Nonreductivist Solution to Mental Causation”, _Philosophical Studies_, 89: 181–95.
+* Unger, P., 2006, _All the Power in the World_, Oxford: Oxford University Press.
 * Van Gulick, R., 1993, “Who’s in Charge Here? And Who’s Doing All the Work?”, in Heil and Mele 1993, pp. 233–56.
-* Walter, S., 2008, “The Supervenience Argument, Overdetermination, and Causal Drainage: Assessing Kim’s Master Argument”, *Philosophical Psychology*, 21: 673–96.
-* Walter, S. and H. Heckmann (eds.), 2003, *Physicalism and Mental Causation: The Metaphysics of Mind and Action*, Exeter: Imprint Academic.
-* Wegner, D. M., 2002, *The Illusion of Conscious Will*, Cambridge, MA: MIT Press.
-* ––––, 2004, “Précis of *The Illusion of Conscious Will*”, *Behavioral and Brain Sciences*, 27: 649–59.
-* Whittle, A., 2007, “The Co-Instantiation Thesis”, *Australasian Journal of Philosophy*, 85: 61–79.
-* Wilson, J., 1999, “How Superduper Does a Physicalist Supervenience Need to Be?”, *Philosophical Quarterly*, 49: 33–52.
-* ––––, 2011, “Non-reductive Realization and the Powers-based Subset Strategy”, *The Monist*, 94: 121–54.
-* ––––, 2021, *Metaphysical Emergence*, Oxford: Oxford University Press.
-* Wilson, R. A., 1992, “Individualism, Causal Powers, and Explanation”, *Philosophical Studies*, 68: 103–39.
+* Walter, S., 2008, “The Supervenience Argument, Overdetermination, and Causal Drainage: Assessing Kim’s Master Argument”, _Philosophical Psychology_, 21: 673–96.
+* Walter, S. and H. Heckmann (eds.), 2003, _Physicalism and Mental Causation: The Metaphysics of Mind and Action_, Exeter: Imprint Academic.
+* Wegner, D. M., 2002, _The Illusion of Conscious Will_, Cambridge, MA: MIT Press.
+* ––––, 2004, “Précis of _The Illusion of Conscious Will_”, _Behavioral and Brain Sciences_, 27: 649–59.
+* Whittle, A., 2007, “The Co-Instantiation Thesis”, _Australasian Journal of Philosophy_, 85: 61–79.
+* Wilson, J., 1999, “How Superduper Does a Physicalist Supervenience Need to Be?”, _Philosophical Quarterly_, 49: 33–52.
+* ––––, 2011, “Non-reductive Realization and the Powers-based Subset Strategy”, _The Monist_, 94: 121–54.
+* ––––, 2021, _Metaphysical Emergence_, Oxford: Oxford University Press.
+* Wilson, R. A., 1992, “Individualism, Causal Powers, and Explanation”, _Philosophical Studies_, 68: 103–39.
 * Woodward, J., 2008, “Mental Causation and Neural Mechanisms”, in Hohwy and Kallestrup 2008, pp. 218–62.
-* Worley, S., 1997, “Determination and Mental Causation”, *Erkenntnis*, 46: 281–304.
-* Yablo, S., 1992, “Mental Causation”, *Philosophical Review*, 101: 245–80.
-* ––––, 1997, “Wide Causation”, *Philosophical Perspectives*, 11: 251–81.
-* Zhong, L., 2014, “Sophisticated Exclusion and Sophisticated Causation”, *Journal of Philosophy*, 111: 341–60.
+* Worley, S., 1997, “Determination and Mental Causation”, _Erkenntnis_, 46: 281–304.
+* Yablo, S., 1992, “Mental Causation”, _Philosophical Review_, 101: 245–80.
+* ––––, 1997, “Wide Causation”, _Philosophical Perspectives_, 11: 251–81.
+* Zhong, L., 2014, “Sophisticated Exclusion and Sophisticated Causation”, _Journal of Philosophy_, 111: 341–60.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mental-causation). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mental-causation/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mental-causation&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/mental-causation/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mental-causation).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mental-causation/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mental-causation\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/mental-causation/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Papers on [Mental Causation](http://philpapers.org/browse/mental-causation) (edited by Sven Walter) at [PhilPapers](http://philpapers.org/).
-* Entry on [Mental Causation](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2007.00063.x/abstract) (by Karen Bennett) in [Philosophy Compass](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-9991).
-* Entries on [Mental Causation](http://www.iep.utm.edu/m/mental-c/) (by Julie Yoo) and [Mind and the Causal Exclusion Problem](http://www.iep.utm.edu/causal-e/) (by Dwayne Moore) in the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/).
+* Papers on [Mental Causation](http://philpapers.org/browse/mental-causation) (edited by Sven Walter) at [PhilPapers](http://philpapers.org/).
+* Entry on [Mental Causation](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2007.00063.x/abstract) (by Karen Bennett) in [Philosophy Compass](http://onlinelibrary.wiley.com/journal/10.1111/\(ISSN\)1747-9991).
+* Entries on [Mental Causation](http://www.iep.utm.edu/m/mental-c/) (by Julie Yoo) and [Mind and the Causal Exclusion Problem](http://www.iep.utm.edu/causal-e/) (by Dwayne Moore) in the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/).
 
 ## Related Entries
 
-[action](https://plato.stanford.edu/entries/action/) | [anomalous monism](https://plato.stanford.edu/entries/anomalous-monism/) | [causation: counterfactual theories of](https://plato.stanford.edu/entries/causation-counterfactual/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [dualism](https://plato.stanford.edu/entries/dualism/) | [emergent properties](https://plato.stanford.edu/entries/properties-emergent/) | [epiphenomenalism](https://plato.stanford.edu/entries/epiphenomenalism/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [free will](https://plato.stanford.edu/entries/freewill/) | [functionalism](https://plato.stanford.edu/entries/functionalism/) | [mental content: narrow](https://plato.stanford.edu/entries/content-narrow/) | [mind/brain identity theory](https://plato.stanford.edu/entries/mind-identity/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [physicalism](https://plato.stanford.edu/entries/physicalism/) | [properties](https://plato.stanford.edu/entries/properties/) | [tropes](https://plato.stanford.edu/entries/tropes/)
+[action](https://plato.stanford.edu/entries/action/) | [anomalous monism](https://plato.stanford.edu/entries/anomalous-monism/) | [causation: counterfactual theories of](https://plato.stanford.edu/entries/causation-counterfactual/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [dualism](https://plato.stanford.edu/entries/dualism/) | [emergent properties](https://plato.stanford.edu/entries/properties-emergent/) | [epiphenomenalism](https://plato.stanford.edu/entries/epiphenomenalism/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [free will](https://plato.stanford.edu/entries/freewill/) | [functionalism](https://plato.stanford.edu/entries/functionalism/) | [mental content: narrow](https://plato.stanford.edu/entries/content-narrow/) | [mind/brain identity theory](https://plato.stanford.edu/entries/mind-identity/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [physicalism](https://plato.stanford.edu/entries/physicalism/) | [properties](https://plato.stanford.edu/entries/properties/) | [tropes](https://plato.stanford.edu/entries/tropes/)
 
 ### Acknowledgments
 
 We are grateful to the editors for helpful advice on preparing this entry.
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[David Robb](https://www.davidson.edu/academics/philosophy/faculty-and-staff/david-robb) <[*darobb@davidson.edu*](mailto:darobb%40davidson%2eedu)>  
-[John Heil](http://philosophy.artsci.wustl.edu/people/John_Heil) <[*jh@wustl.edu*](mailto:jh%40wustl%2eedu)>  
-Sophie Gibb <[*s.c.gibb@durham.ac.uk*](mailto:s%2ec%2egibb%40durham%2eac%2euk)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[David Robb](https://www.davidson.edu/academics/philosophy/faculty-and-staff/david-robb) <[_darobb@davidson.edu_](mailto:darobb%40davidson%2eedu)>\
+[John Heil](http://philosophy.artsci.wustl.edu/people/John\_Heil) <[_jh@wustl.edu_](mailto:jh%40wustl%2eedu)>\
+Sophie Gibb <[_s.c.gibb@durham.ac.uk_](mailto:s%2ec%2egibb%40durham%2eac%2euk)>

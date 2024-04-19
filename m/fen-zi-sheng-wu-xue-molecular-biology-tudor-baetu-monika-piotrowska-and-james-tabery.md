@@ -1,34 +1,31 @@
 # 分子生物学 molecular biology (Tudor Baetu, Monika Piotrowska, and James Tabery)
 
-*首次发表于2005年2月19日，实质修订于2024年2月20日。*
+_首次发表于2005年2月19日，实质修订于2024年2月20日。_
 
 分子生物学领域研究生物体中的大分子和大分子机制，例如基因的分子性质及其复制、突变和表达的机制。鉴于在许多生物学学科中，机械和大分子解释模式的基本重要性，广泛依赖于分子技术（如凝胶电泳、测序和 PCR），以及分子生物学在 CRISPR、mRNA 疫苗和光遗传学等最新技术突破中的参与，分子生物学的历史和概念构成了当代科学哲学和生物学的焦点。
 
 * [1. 分子生物学的历史](https://plato.stanford.edu/entries/molecular-biology/#HistMoleBiol)
-
-  * [ 1.1 起源](https://plato.stanford.edu/entries/molecular-biology/#Orig)
-  * [ 1.2 古典时期](https://plato.stanford.edu/entries/molecular-biology/#ClasPeri)
-  * [ 1.3 转向分子生物学](https://plato.stanford.edu/entries/molecular-biology/#GoinMole)
+  * [1.1 起源](https://plato.stanford.edu/entries/molecular-biology/#Orig)
+  * [1.2 古典时期](https://plato.stanford.edu/entries/molecular-biology/#ClasPeri)
+  * [1.3 转向分子生物学](https://plato.stanford.edu/entries/molecular-biology/#GoinMole)
   * [1.4 转向基因组学和后基因组学](https://plato.stanford.edu/entries/molecular-biology/#GoinGenoPostGeno)
   * [1.5 最近的实验和概念发展](https://plato.stanford.edu/entries/molecular-biology/#ReceExpeConcDeve)
 * [2. 分子生物学中的概念](https://plato.stanford.edu/entries/molecular-biology/#ConcMoleBiol)
-
-  * [ 2.1 机制](https://plato.stanford.edu/entries/molecular-biology/#Mech)
-  * [ 2.2 信息](https://plato.stanford.edu/entries/molecular-biology/#Info)
-  * [ 2.3 基因](https://plato.stanford.edu/entries/molecular-biology/#Gene)
+  * [2.1 机制](https://plato.stanford.edu/entries/molecular-biology/#Mech)
+  * [2.2 信息](https://plato.stanford.edu/entries/molecular-biology/#Info)
+  * [2.3 基因](https://plato.stanford.edu/entries/molecular-biology/#Gene)
 * [3. 分子生物学和科学的一般哲学](https://plato.stanford.edu/entries/molecular-biology/#MoleBiolGenePhilScie)
-
-  * [ 3.1 简化](https://plato.stanford.edu/entries/molecular-biology/#Redu)
-  * [ 3.2 解释](https://plato.stanford.edu/entries/molecular-biology/#Expl)
-  * [ 3.3 推断](https://plato.stanford.edu/entries/molecular-biology/#Extr)
-  * [ 3.4 实验](https://plato.stanford.edu/entries/molecular-biology/#Expe)
-* [ 4. 结论](https://plato.stanford.edu/entries/molecular-biology/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/molecular-biology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/molecular-biology/#Aca)
+  * [3.1 简化](https://plato.stanford.edu/entries/molecular-biology/#Redu)
+  * [3.2 解释](https://plato.stanford.edu/entries/molecular-biology/#Expl)
+  * [3.3 推断](https://plato.stanford.edu/entries/molecular-biology/#Extr)
+  * [3.4 实验](https://plato.stanford.edu/entries/molecular-biology/#Expe)
+* [4. 结论](https://plato.stanford.edu/entries/molecular-biology/#Conc)
+* [参考文献](https://plato.stanford.edu/entries/molecular-biology/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/molecular-biology/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/molecular-biology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/molecular-biology/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/molecular-biology/#Rel)
 
----
+***
 
 ## 1. 分子生物学的历史
 
@@ -88,9 +85,9 @@
 
 > 现在人们普遍意识到，几乎所有“经典”的分子生物学问题要么已经解决，要么将在未来十年内解决... 因此，我长期以来一直认为，分子生物学的未来在于将研究扩展到其他生物学领域，尤其是发育和神经系统。（布伦纳，给佩鲁茨的信，1963年）
 
-在20世纪60年代末和70年代初，与布伦纳一起，许多经典时期的分子生物学家改变了他们的研究议程，利用新开发的分子技术来研究其他领域的未解决问题。弗朗索瓦·雅各布、雅克·莫诺德及其同事利用大肠杆菌研究环境条件如何影响基因表达和调控（雅各布和莫诺德，1961年；Craver和Darden，2013年；Morange，1998年：第14章；Schaffner，1974a；Weber，2005年；另请参阅发育生物学和生物发育理论的条目[链接到“发育生物学”和“生物发育理论”条目]）。行为和神经系统的研究也吸引了一些分子生物学家。寻找适合进行分子遗传分析的模型生物体证明是具有挑战性的。西摩·本泽尔回到了用于孟德尔遗传学的果蝇，通过在果蝇中诱导行为突变，作为“遗传手术刀”来研究从基因到行为的途径（本泽尔，1968年；Weiner，1999年）。在剑桥，悉尼·布伦纳开发了线虫秀丽隐杆线虫，用于研究神经系统以及行为遗传学（布伦纳，1973年，2001年；Ankeny，2000年；Brown，2003年）。在随后的几十年里，细胞的研究从描述性细胞学转变为分子细胞生物学（Alberts等，1983年；Alberts等，2002年；Alberts等，2022年；Bechtel，2006年；Matlin，2022年；另请参阅细胞生物学哲学的条目[链接到“细胞生物学哲学”条目]）。抗体和抗原之间的免疫关系在分子水平上被重新描述（Podolsky和Tauber，1997年；Schaffner，1993年；另请参阅免疫学哲学的条目）。 癌症研究中的癌基因学研究以及精神疾病的分子基础是分子医学进展的例子（Morange 1997b; 另请参阅有关精神病学哲学的条目）。
+在20世纪60年代末和70年代初，与布伦纳一起，许多经典时期的分子生物学家改变了他们的研究议程，利用新开发的分子技术来研究其他领域的未解决问题。弗朗索瓦·雅各布、雅克·莫诺德及其同事利用大肠杆菌研究环境条件如何影响基因表达和调控（雅各布和莫诺德，1961年；Craver和Darden，2013年；Morange，1998年：第14章；Schaffner，1974a；Weber，2005年；另请参阅发育生物学和生物发育理论的条目\[链接到“发育生物学”和“生物发育理论”条目]）。行为和神经系统的研究也吸引了一些分子生物学家。寻找适合进行分子遗传分析的模型生物体证明是具有挑战性的。西摩·本泽尔回到了用于孟德尔遗传学的果蝇，通过在果蝇中诱导行为突变，作为“遗传手术刀”来研究从基因到行为的途径（本泽尔，1968年；Weiner，1999年）。在剑桥，悉尼·布伦纳开发了线虫秀丽隐杆线虫，用于研究神经系统以及行为遗传学（布伦纳，1973年，2001年；Ankeny，2000年；Brown，2003年）。在随后的几十年里，细胞的研究从描述性细胞学转变为分子细胞生物学（Alberts等，1983年；Alberts等，2002年；Alberts等，2022年；Bechtel，2006年；Matlin，2022年；另请参阅细胞生物学哲学的条目\[链接到“细胞生物学哲学”条目]）。抗体和抗原之间的免疫关系在分子水平上被重新描述（Podolsky和Tauber，1997年；Schaffner，1993年；另请参阅免疫学哲学的条目）。 癌症研究中的癌基因学研究以及精神疾病的分子基础是分子医学进展的例子（Morange 1997b; 另请参阅有关精神病学哲学的条目）。
 
-虽然一些作者对 20 世纪大部分时间分子生物学和进化生物学之间的脱节感到遗憾（Mayr 1985），但过去三十年来，不断增长的跨学科合作为两个生物学分支带来了益处。分子基因组学为比较 DNA 序列和整个基因组提供了新的系统发育方法，而分子系统学则通过比较分子之间的相似性和差异来研究遗传密码的演化以及演化过程的速率（Dietrich 1998; 另请参阅有关进化、进化与发展[链接到“进化与发展”条目]、遗传性和适应主义的条目）。反过来，比较系统发育研究证实了分子生物学研究中的一个关键假设，即尽管在表型上存在惊人的多样性，但生物在分子水平上是相似的，因此通过研究少数几个代表主要进化“生命之树”分支的模式生物，可以获得普遍适用的知识。支持生命统一性假设的进化证据解决了早期基于许多物种基本相似的信念的推断性实践的批评（Logan 2002; Würbel 2002）。进化生物学还对癌症研究产生了重要影响，促使从“癌症作为遗传性疾病”的范式转变为更广泛的“癌症作为微进化过程”的概念框架（Okasha 2021; Plutynski 2018; Pradeu et al. 2023; 另请参阅有关癌症的条目）。
+虽然一些作者对 20 世纪大部分时间分子生物学和进化生物学之间的脱节感到遗憾（Mayr 1985），但过去三十年来，不断增长的跨学科合作为两个生物学分支带来了益处。分子基因组学为比较 DNA 序列和整个基因组提供了新的系统发育方法，而分子系统学则通过比较分子之间的相似性和差异来研究遗传密码的演化以及演化过程的速率（Dietrich 1998; 另请参阅有关进化、进化与发展\[链接到“进化与发展”条目]、遗传性和适应主义的条目）。反过来，比较系统发育研究证实了分子生物学研究中的一个关键假设，即尽管在表型上存在惊人的多样性，但生物在分子水平上是相似的，因此通过研究少数几个代表主要进化“生命之树”分支的模式生物，可以获得普遍适用的知识。支持生命统一性假设的进化证据解决了早期基于许多物种基本相似的信念的推断性实践的批评（Logan 2002; Würbel 2002）。进化生物学还对癌症研究产生了重要影响，促使从“癌症作为遗传性疾病”的范式转变为更广泛的“癌症作为微进化过程”的概念框架（Okasha 2021; Plutynski 2018; Pradeu et al. 2023; 另请参阅有关癌症的条目）。
 
 “分子生物学化”这一过程通常是利用分子生物学的实验方法来研究复杂现象（无论是基因调控、行为还是进化）的分子水平。许多领域的分子化引入了一系列哲学问题。从模式生物中推广研究结果引发了关于基础科学和临床研究中推断性推理的验证、限制和潜在陷阱的问题（见第 3.3 节）。而分子生物学的还原技术则引发了关于科学研究是否应该始终努力降低到更低层次的问题（见第 3.1 节）。
 
@@ -112,13 +109,13 @@ Frederick Sanger在20世纪50年代和60年代创造了有影响力的DNA测序�
 
 ### 1.5 最近的实验和概念发展
 
-除了使大规模“组学”项目成为可能的实验和计算技术之外，许多其他创新塑造了分子生物学的最新研究。与需要晶体样品的X射线晶体学不同，新开发的核磁共振光谱（NMR）和冷冻电子显微镜（cryo-EM）技术允许研究人员阐明溶液中分子的三维结构。用于研究生物分子结构的多种方法以及不同方法产生的结果之间偶尔存在的分歧，为探索科学中的多元论与唯一论问题提供了一个有趣的案例研究（Mitchell和Gronenborn 2017；Mitchell 2009；Bolinska 2022；Vallejos-Baccelliere和Vecchi 2024；另请参阅关于多元论的条目[链接到“多元论”条目]）。这些新技术还揭示了许多蛋白质包含相对较大的非结构化或低复杂度结构域。许多这样的结构域在进化上保守，这表明它们具有生物学上相关的功能，例如为绑定和浓缩细胞特定区域的生物分子提供灵活的支架。一些支架结构可以形成无膜细胞器或生物分子凝聚体，与具有固定化学计量和几何形状的大分子机器（Alberts 1998）不同，它们更像是具有动态和可变组成和几何形状的液体（Banani等人2017）。
+除了使大规模“组学”项目成为可能的实验和计算技术之外，许多其他创新塑造了分子生物学的最新研究。与需要晶体样品的X射线晶体学不同，新开发的核磁共振光谱（NMR）和冷冻电子显微镜（cryo-EM）技术允许研究人员阐明溶液中分子的三维结构。用于研究生物分子结构的多种方法以及不同方法产生的结果之间偶尔存在的分歧，为探索科学中的多元论与唯一论问题提供了一个有趣的案例研究（Mitchell和Gronenborn 2017；Mitchell 2009；Bolinska 2022；Vallejos-Baccelliere和Vecchi 2024；另请参阅关于多元论的条目\[链接到“多元论”条目]）。这些新技术还揭示了许多蛋白质包含相对较大的非结构化或低复杂度结构域。许多这样的结构域在进化上保守，这表明它们具有生物学上相关的功能，例如为绑定和浓缩细胞特定区域的生物分子提供灵活的支架。一些支架结构可以形成无膜细胞器或生物分子凝聚体，与具有固定化学计量和几何形状的大分子机器（Alberts 1998）不同，它们更像是具有动态和可变组成和几何形状的液体（Banani等人2017）。
 
 干细胞研究在媒体上得到广泛报道，取得了重大突破。1958年，约翰·格登成功地利用核移植技术克隆了一只青蛙。从分化细胞中提取的细胞核移植到去核卵中后能发育成表面上正常的有机体，这一事实使科学家得出结论：细胞分化并非不可逆转，而是分化细胞可以被“重新编程”成全能和多能干细胞。与“基因编程”不同，“细胞编程”不涉及编码序列的改变，而是过度表达负责激活胚胎干细胞关键基因的转录因子（Fagan 2013, 2021）。
 
 尽管长期以来人们一直怀疑细胞行为必然具有概率性，因为其基础的分子机制具有随机性，但通常认为细胞能够通过最小化分子噪声来可靠地产生通常通过研究大量细胞群体观察到的确定性行为。然而，越来越多的研究挑战了这一假设，表明即使在相同环境中生长的等基因细胞群体中，也可能存在表型差异。例如，同一类型神经元中编码离子通道的基因表达水平在细胞之间和个体之间可能存在巨大差异，导致突触和膜电导值的可测量差异（Marder和Taylor 2011）。这些现象以及其他类似现象与推断问题相关，尽管这次涉及到根据群体统计数据推断个体或特定行为的问题。例如，尽管对细胞群体的研究支持细胞对刺激以分级方式响应的结论，但实际上每个细胞可能采用分类的“开启”或“关闭”响应表型。
 
-最后，虽然生物学的许多分支都“转向了分子生物学”，但分子生物学本身也采用了数学建模。数学建模是生物学许多分支的常见实践，包括经典和临床遗传学、生态学、流行病学、系统生物学，以及化学和生物化学。相比之下，分子生物学传统上依赖于启发了各种哲学机制描述的定性描述（见第2.1节）。在过去的二十年中，这种情况发生了变化，广泛使用的《细胞的分子生物学》教材的最新版本（Alberts等人，2022年，第8章）专门有一个实质性的部分，用于对生物功能进行数学分析，以补充生化和分子分析方法。分子机制的动态特性通常通过从化学、控制论、机械工程和计算机科学借用的数学建模方法进行研究。同样，体外重构实验（有关体外重构实验的讨论，请参见（Weber 2005; Matlin 2022））通过使用体内实验来生成证据，以原则上证明所提出的机制足以产生感兴趣的现象（Bechtel 2011; Braillard & Malaterre 2015）[尽管这样的模拟不能证明所提出的机制实际上对现象负责（Craver 2006）]。
+最后，虽然生物学的许多分支都“转向了分子生物学”，但分子生物学本身也采用了数学建模。数学建模是生物学许多分支的常见实践，包括经典和临床遗传学、生态学、流行病学、系统生物学，以及化学和生物化学。相比之下，分子生物学传统上依赖于启发了各种哲学机制描述的定性描述（见第2.1节）。在过去的二十年中，这种情况发生了变化，广泛使用的《细胞的分子生物学》教材的最新版本（Alberts等人，2022年，第8章）专门有一个实质性的部分，用于对生物功能进行数学分析，以补充生化和分子分析方法。分子机制的动态特性通常通过从化学、控制论、机械工程和计算机科学借用的数学建模方法进行研究。同样，体外重构实验（有关体外重构实验的讨论，请参见（Weber 2005; Matlin 2022））通过使用体内实验来生成证据，以原则上证明所提出的机制足以产生感兴趣的现象（Bechtel 2011; Braillard & Malaterre 2015）\[尽管这样的模拟不能证明所提出的机制实际上对现象负责（Craver 2006）]。
 
 分子生物学及相关领域中的数学化和解释方法的微妙变化，新实验技术的发展，以及与生物学内外其他学科的实验和理论交流引入了科学哲学家和生物学家感兴趣的新问题。这些问题包括机制的性质（第 2.1 节）和机制解释的完整性（第 3.2 节），还有归纳和整合（第 3.1 节），对个体生物系统的推断（第 3.3 节）和实验（第 3.4 节）。
 
@@ -132,7 +129,7 @@ Frederick Sanger在20世纪50年代和60年代创造了有影响力的DNA测序�
 
 在由 Wesley Salmon（1984, 1998）开创的因果机械传统中工作，哲学家们转向理解机制阐明作为生物学科学解释的途径（Bechtel 和 Abrahamsen 2005; Bechtel 和 Richardson 1993; Craver 2007; Darden 2006a; Glennan 2017; Machamer，Darden 和 Craver 2000; Sarkar 1998; Schaffner 1993; Woodward 2002, 2010）。多年来，关于机制的几种特征化描述已经出现（Bechtel 和 Abrahamsen 2005; Glennan 2002; Machamer，Darden 和 Craver 2000）。Stuart Glannan 总结了机制的基本特征如下：
 
-> 一种现象的机制由组织有序的实体（或部分）组成，这些实体的活动和相互作用负责产生该现象。（Glennan 2017: 17）[类似的描述见（Illari 和 Williamson 2012: 120）]
+> 一种现象的机制由组织有序的实体（或部分）组成，这些实体的活动和相互作用负责产生该现象。（Glennan 2017: 17）\[类似的描述见（Illari 和 Williamson 2012: 120）]
 
 以 DNA 复制现象为例。DNA 的双螺旋结构（一种具有组织的实体）解开（一种活动），新的组成部分（实体）与解开的 DNA 螺旋的两个部分结合（一种活动）。DNA 是由几个亚部分组成的核酸：糖磷酸骨架和核酸碱基。当 DNA 解开时，碱基表现出弱电荷，这是分子中轻微不对称性导致的性质。这些弱电荷使得 DNA 碱基及其互补碱基能够参与形成氢键（弱极性）化学键的活动；这种活动的特异性是由碱基亚部分中弱极性电荷的拓扑排列决定的。最终，具有极性电荷的实体使得氢键形成的活动成为可能。在互补碱基对齐之后，通过更强的共价键结合形成骨架。该机制通过解开和结合（活动）新的部分，产生两个（相对忠实）复制母螺旋的螺旋（新形成的实体）。（“半保守复制”过程以及证实该过程的 Meselson-Stahl 实验在第 3.4 节中有更详细的讨论。）
 
@@ -180,7 +177,7 @@ Falk（1986 年）明确向生物哲学家和生物学历史学家提出了问�
 
 分子生物学可以根据被还原的对象的不同而有多种理解方式（参见科学还原的条目）。理论还原涉及一个科学领域的理论是否可以还原为另一个科学领域的理论。相比之下，解释还原（通常与方法论还原相结合）涉及来自较低层次的解释（通常与调查这些较低层次的方法相结合）是否比来自较高层次的解释更好。对分子生物学的哲学关注对这两种还原的意义都做出了贡献（参见生物学还原主义的条目）。
 
-生物哲学首次作为科学哲学的一个分支在20世纪70年代开始引起关注，当时它提供了一个明显的案例研究，以此来判断一个领域的理论如何归结为另一个领域的理论。具体问题是：经典的孟德尔遗传学是否可以归结为分子遗传学（参见分子遗传学条目）？肯尼斯·沙夫纳（Kenneth Schaffner）使用并发展了恩斯特·纳格尔（Ernst Nagel）1961年的导出理论归约分析，以论证经典的孟德尔遗传学（T2）归结为分子生物学（T1），并在多年间对其进行了完善（总结于Schaffner 1993）。形式归约的目标是从分子生物学的定律中逻辑推导出经典遗传学的定律（或其改进后的继任者“现代传递遗传学”T2 *）。这样的推导要求T2*中不在T1中的所有术语都必须通过对应规则与T1中的术语相连接。因此，沙夫纳努力寻找“基因”等术语的分子等效物，以及“显性”的谓词术语。大卫·赫尔（David Hull）（1974年）批评了形式归约，反驳了沙夫纳的观点，并提出，也许分子生物学取代了经典遗传学。然而，大多数生物学领域中缺乏明确的定律，对生物学中的理论归约的相关性产生了怀疑，促使人们将注意力转向解释和方法论。威廉·温萨特（William Wimsatt）（1976年）强调了通过机制进行分解性解释的重要性，而林德利·达登（Lindley Darden）和南希·莫尔（Nancy Maull）（1977年）则关注了由部分-整体关系、结构-功能关系和因果关系形成的领域之间的桥梁。
+生物哲学首次作为科学哲学的一个分支在20世纪70年代开始引起关注，当时它提供了一个明显的案例研究，以此来判断一个领域的理论如何归结为另一个领域的理论。具体问题是：经典的孟德尔遗传学是否可以归结为分子遗传学（参见分子遗传学条目）？肯尼斯·沙夫纳（Kenneth Schaffner）使用并发展了恩斯特·纳格尔（Ernst Nagel）1961年的导出理论归约分析，以论证经典的孟德尔遗传学（T2）归结为分子生物学（T1），并在多年间对其进行了完善（总结于Schaffner 1993）。形式归约的目标是从分子生物学的定律中逻辑推导出经典遗传学的定律（或其改进后的继任者“现代传递遗传学”T2 _）。这样的推导要求T2_中不在T1中的所有术语都必须通过对应规则与T1中的术语相连接。因此，沙夫纳努力寻找“基因”等术语的分子等效物，以及“显性”的谓词术语。大卫·赫尔（David Hull）（1974年）批评了形式归约，反驳了沙夫纳的观点，并提出，也许分子生物学取代了经典遗传学。然而，大多数生物学领域中缺乏明确的定律，对生物学中的理论归约的相关性产生了怀疑，促使人们将注意力转向解释和方法论。威廉·温萨特（William Wimsatt）（1976年）强调了通过机制进行分解性解释的重要性，而林德利·达登（Lindley Darden）和南希·莫尔（Nancy Maull）（1977年）则关注了由部分-整体关系、结构-功能关系和因果关系形成的领域之间的桥梁。
 
 随着新的机械主义哲学的出现（Glennan和Illari 2017; Machamer等人2000），分子生物学与其他生物学学科之间的关系问题已通过机制的视角进行了分析。生物系统的分解通常揭示了一种分层组织，这导致一些作者提出，较低层次的组成部分被组织为高层次组成部分的基础机制（Bechtel 2006; Bechtel和Richardson 2010; Craver 2007; Craver和Povich，2017; Craver等人2021）。生物学解释可以在不同的描述层次上发生的观念引发了关于较低层次分子解释（通常与研究这些较低层次的方法相结合）是否比较高层次解释更好或更完整的新还原论辩论。在还原主义一方面，有人认为涉及生物学或功能性种类（如有机体、细胞和基因）的较高层次解释最终需要通过分子生物学解释以及更一般的化学和物理实体和相互作用的解释来完成，并且有时需要替换（Bickle 1998，Rosenberg 2020）。作为对还原主义提议的回应，批评者强调了生物相关信息不仅编码在分子相互作用的特异性中，还编码在各种组织和背景特征中，这些特征不能被分子生物学原理所捕捉，例如发展系统的空间、调控和动态特性（Delehanty 2005; Frost-Arnold 2004; Keller 1999; Laubichler和Wagner 2001; Love等人2008; Robert 2001, 2004）。
 
@@ -194,7 +191,7 @@ Falk（1986 年）明确向生物哲学家和生物学历史学家提出了问�
 
 最后，机械解释的概念本身是对分子生物学最近趋势的回应而演变的。传统上，分子生物学中的机械解释被构建为由叙述或图表组成的定性表示。这些表示可以称为“机制模型”（参见科学模型条目），旨在通过模拟我们的想象中机制的工作（Bechtel和Abrahamsen 2005）或通过类比于更常见类型的活动（Machamer 2004）来传达直观的理解。虽然定性表示在科学实践中起着重要作用，但它们仍然是高度理想化的（Baetu 2017; Love和Nathan 2015）。定量和动态方面缺失或高度简化，已知事实被扭曲以概述追踪单个分子命运的确定性事件序列（更准确的生化描述是涉及碰撞分子群体的一系列前后平衡），每个分子都被假定为刚性结构（忽略了分子的振动和循环通过各种构型），它们相互修改以实现从初始状态到最终状态的变化（从而掩盖了导致相同最终状态的化学途径的潜在多样性以及机制无法对输出做出贡献的替代途径）。数学建模旨在通过正式描述定量、动态和随机方面的分子机制来规避这些缺点，这些方面在叙述和图表表示中无法充分表示。 对于理解分子机制的形式方法的使用引起了哲学家们的关注，他们探索了数学建模和计算机模拟在机械解释中的补充和扩展程度（Bechtel 和 Abrahamsen 2010; Brigandt 2013; Braillard 和 Malaterre 2015），或者构成了与严格的机械模式解释有显著区别的一种方式（Braillard 2010; Silberstein 和 Chemero 2013）。
 
-许多生物机制是随机的事实，为机制是否具有规律性的程度引发了一场广泛的辩论（Andersen 2012; Darden 2008），一些作者强调了某些机制的高度不规则性（Bogen 2005）。在分子生物学的情况下，分子机制的固有随机性进一步引导科学家和哲学家质疑传统的“从有序到有序”的分子生物学范式，该范式最初由 Schroedinger（1944）提出，并通过分子相互作用的特异性加强[有关特异性概念的讨论，请参见（Lean 2020）]，并引入一种替代的“从无序到有序”的解释方法（Ilan 2020; Kupiec 等人 2011）。例如，粘附蛋白在分布中的概率偏差足以产生发育中肠道的适量扭曲，而随机基因表达负责生成果蝇眼中蓝光到紫外线敏感细胞的比例。另一个有趣的例子是利用热噪声进行机械工作的分子棘轮机制（Astumian 2001），这导致 Bechtel 和 Bollhagen（2021: 12705）认为机械机制的传统本体论“应该扩展以包括约束和能量学。”
+许多生物机制是随机的事实，为机制是否具有规律性的程度引发了一场广泛的辩论（Andersen 2012; Darden 2008），一些作者强调了某些机制的高度不规则性（Bogen 2005）。在分子生物学的情况下，分子机制的固有随机性进一步引导科学家和哲学家质疑传统的“从有序到有序”的分子生物学范式，该范式最初由 Schroedinger（1944）提出，并通过分子相互作用的特异性加强\[有关特异性概念的讨论，请参见（Lean 2020）]，并引入一种替代的“从无序到有序”的解释方法（Ilan 2020; Kupiec 等人 2011）。例如，粘附蛋白在分布中的概率偏差足以产生发育中肠道的适量扭曲，而随机基因表达负责生成果蝇眼中蓝光到紫外线敏感细胞的比例。另一个有趣的例子是利用热噪声进行机械工作的分子棘轮机制（Astumian 2001），这导致 Bechtel 和 Bollhagen（2021: 12705）认为机械机制的传统本体论“应该扩展以包括约束和能量学。”
 
 ### 3.3 推断
 
@@ -206,13 +203,13 @@ Falk（1986 年）明确向生物哲学家和生物学历史学家提出了问�
 
 ### 3.4 实验
 
-分子生物学的历史部分上是关于设计用于探索生物体中的大分子机制的实验技术的历史。哲学家们则将分子生物学视为理解科学中实验如何运作的案例研究——它如何促进科学发现，区分相关性与因果关系和构成关联性，以及在竞争性假设之间做出决策（Marcum 2007; Baetu 2019; Barwich and Baschir 2017; Craver and Darden 2013; Rheinberger 1997; Weber 2009, 2008, 2005; 另请参阅生物学实验[链接到“生物学实验”条目])。
+分子生物学的历史部分上是关于设计用于探索生物体中的大分子机制的实验技术的历史。哲学家们则将分子生物学视为理解科学中实验如何运作的案例研究——它如何促进科学发现，区分相关性与因果关系和构成关联性，以及在竞争性假设之间做出决策（Marcum 2007; Baetu 2019; Barwich and Baschir 2017; Craver and Darden 2013; Rheinberger 1997; Weber 2009, 2008, 2005; 另请参阅生物学实验\[链接到“生物学实验”条目])。
 
 林德利·达登专注于科学家构建、评估和修订机械解释现象的策略；在她看来，发现是一种逐步、增量和迭代的机制阐明过程。例如，在20世纪50年代和60年代，分子生物学和生物化学的科学家们采用了各自的实验策略来阐明将DNA与蛋白质合成机制联系起来。分子生物学家通过实验技术如X射线晶体学和模型构建，从DNA出发，了解DNA的结构如何决定其与哪些分子可以相互作用；生物化学家同时通过体外实验系统，从蛋白质产物出发，了解构建蛋白质所需的化学反应和化学键合。他们最终在RNA上相遇，导致了沃森著名的机制模式DNA → RNA → 蛋白质。达登指出，与哲学上难以理解相反，分子生物学家是“前向链接”，而生物化学家是“后向链接”，利用他们所了解的工作实体和活动信息来推断蛋白质合成机制中接下来或之前可能发生的事情（Darden 2006a：第3章，第12章；Craver和Darden 2013：第10章）。
 
-Tudor Baetu（2019）尝试使用炎症反应机制作为案例研究，对分子生物学中的发现过程进行重建。他在Bechtel和Richardson（1993）的基础上认为，分子生物学研究通常涉及在标准化实验模型的背景下开发，通过这些模型可以系统地复制现象。例如，炎症的实验模型指定了一个可复制和可识别的研究对象，即可能包含在其时空边界内产生皮肤炎症反应所需的所有因果成分的实验设置。通过系统地针对描述实验设置的变量，可以确定假设的机制组成部分，希望证明实验设置和其组成的物理系统的特定变化会导致所研究现象的变化（Craver和Darden 2013）。然而，与机制文献中提出的“水平化”相互可操作性解释不同（Craver，Glennan和Povich 2021；Craver 2007；科学中的机制条目），Baetu认为分子生物学实验只能产生因果中介的证据，这只能允许对“平坦”机制进行重建，其中分解级别被因果描述的粒度级别所取代[类似观点见（Fazekas 2022；Harinen 2014）]。最后，机制必须“重组”以展示其如何产生现象（Bechtel 2011）。在实践中，机制的重组通常依赖于体外重组实验（Weber 2005；Matlin 2022）或数学模型（Braillard和Malaterre 2015），旨在证明组成部分的组织、作用和具有机制解释中描述的属性可以并且理想情况下足以产生所研究的现象。 基于分子生物学对化学本体论的理论承诺或对实验技术工作原理的理解（Weber 2009），对实验中测量和操作的变量进行物理解释，也是重新构建机制的重要要素。
+Tudor Baetu（2019）尝试使用炎症反应机制作为案例研究，对分子生物学中的发现过程进行重建。他在Bechtel和Richardson（1993）的基础上认为，分子生物学研究通常涉及在标准化实验模型的背景下开发，通过这些模型可以系统地复制现象。例如，炎症的实验模型指定了一个可复制和可识别的研究对象，即可能包含在其时空边界内产生皮肤炎症反应所需的所有因果成分的实验设置。通过系统地针对描述实验设置的变量，可以确定假设的机制组成部分，希望证明实验设置和其组成的物理系统的特定变化会导致所研究现象的变化（Craver和Darden 2013）。然而，与机制文献中提出的“水平化”相互可操作性解释不同（Craver，Glennan和Povich 2021；Craver 2007；科学中的机制条目），Baetu认为分子生物学实验只能产生因果中介的证据，这只能允许对“平坦”机制进行重建，其中分解级别被因果描述的粒度级别所取代\[类似观点见（Fazekas 2022；Harinen 2014）]。最后，机制必须“重组”以展示其如何产生现象（Bechtel 2011）。在实践中，机制的重组通常依赖于体外重组实验（Weber 2005；Matlin 2022）或数学模型（Braillard和Malaterre 2015），旨在证明组成部分的组织、作用和具有机制解释中描述的属性可以并且理想情况下足以产生所研究的现象。 基于分子生物学对化学本体论的理论承诺或对实验技术工作原理的理解（Weber 2009），对实验中测量和操作的变量进行物理解释，也是重新构建机制的重要要素。
 
-分子生物学的实验也参与了关于“关键实验”可能性的哲学讨论。如果一个实验被设计成通过推翻其他竞争性假设来确认一个假设，那么这个实验被认为是关键实验。但是，皮埃尔·杜汶指出，关键实验的概念本身假设已知的竞争性假设集包含了所有可能的解释，以至于推翻除一个假设以外的所有假设可以推导出最后一个假设的确认。然而，杜汶警告说，如果实际上存在未知的替代假设，而这些假设没有被考虑在竞争性假设集中，那么推翻并不能保证最后一个假设的确认（关于皮埃尔·杜汶的条目，请参见[链接到“皮埃尔·杜汶”条目]）。马塞尔·韦伯分析了分子生物学中两个著名的发现事件，彼得·米切尔对氧化磷酸化机制的阐明（韦伯2009年）和梅塞尔森-斯塔尔实验证实了沃森和克里克提出的半保守性DNA复制机制（韦伯2005年：第4章），以提供关键实验如何工作的不同视角。他得出结论，在这两种情况下，实验产生了有力的证据支持一个机械性假设，同时排除了当时提出的最重要的竞争性解释，从而接近了关键实验的理想。然而，韦伯认为，我们应该将梅塞尔森和斯塔尔的实验结果的快速接受理解为对最佳解释的推理（与杜汶的演绎特征相对）。 Meselson 和 Stahl，Weber 声称，他们采用了 DNA 复制的生理机制，然后将其嵌入到一个“实验机制”中；这个实验机制随后产生了重型与轻型 DNA 的观察数据模式。此外，任何关于 DNA 复制的假设都必须满足已知的生理机制所施加的机械约束——即 DNA 是一个双螺旋结构，并且 DNA 中的核苷酸序列需要在后代中保持不变。因此，Duhem 对未知替代方案的担忧得到了缓解，因为已知的机械约束限制了可能产生该现象的假设集合。根据 Weber 的观点，机械约束将 DNA 复制的可能假设集合缩小为半保守复制、保守复制和分散复制；然后，在该集合中，Meselson 和 Stahl 设计了一个实验机制，使得半保守复制成为他们发现的数据模式的最佳解释。
+分子生物学的实验也参与了关于“关键实验”可能性的哲学讨论。如果一个实验被设计成通过推翻其他竞争性假设来确认一个假设，那么这个实验被认为是关键实验。但是，皮埃尔·杜汶指出，关键实验的概念本身假设已知的竞争性假设集包含了所有可能的解释，以至于推翻除一个假设以外的所有假设可以推导出最后一个假设的确认。然而，杜汶警告说，如果实际上存在未知的替代假设，而这些假设没有被考虑在竞争性假设集中，那么推翻并不能保证最后一个假设的确认（关于皮埃尔·杜汶的条目，请参见\[链接到“皮埃尔·杜汶”条目]）。马塞尔·韦伯分析了分子生物学中两个著名的发现事件，彼得·米切尔对氧化磷酸化机制的阐明（韦伯2009年）和梅塞尔森-斯塔尔实验证实了沃森和克里克提出的半保守性DNA复制机制（韦伯2005年：第4章），以提供关键实验如何工作的不同视角。他得出结论，在这两种情况下，实验产生了有力的证据支持一个机械性假设，同时排除了当时提出的最重要的竞争性解释，从而接近了关键实验的理想。然而，韦伯认为，我们应该将梅塞尔森和斯塔尔的实验结果的快速接受理解为对最佳解释的推理（与杜汶的演绎特征相对）。 Meselson 和 Stahl，Weber 声称，他们采用了 DNA 复制的生理机制，然后将其嵌入到一个“实验机制”中；这个实验机制随后产生了重型与轻型 DNA 的观察数据模式。此外，任何关于 DNA 复制的假设都必须满足已知的生理机制所施加的机械约束——即 DNA 是一个双螺旋结构，并且 DNA 中的核苷酸序列需要在后代中保持不变。因此，Duhem 对未知替代方案的担忧得到了缓解，因为已知的机械约束限制了可能产生该现象的假设集合。根据 Weber 的观点，机械约束将 DNA 复制的可能假设集合缩小为半保守复制、保守复制和分散复制；然后，在该集合中，Meselson 和 Stahl 设计了一个实验机制，使得半保守复制成为他们发现的数据模式的最佳解释。
 
 ## 4. 结论
 
@@ -220,376 +217,376 @@ Tudor Baetu（2019）尝试使用炎症反应机制作为案例研究，对分�
 
 ## Bibliography
 
-* Abir-Am, Pnina, 1985, “Themes, Genres and Orders of Legitimation in the Consolidation of New Scientific Disciplines: Deconstructing the Historiography of Molecular Biology”, *History of Science*, 23: 74–117.
-* –––, 1987, “The Biotheoretical Gathering, Trans-Disciplinary Authority and the Incipient Legitimation of Molecular Biology in the 1930s: New Perspective on the Historical Sociology of Science”, *History of Science*, 25: 1–70.
-* –––, 1994, “Converging Failure: Science Policy, Historiography and Social Theory of Early Molecular Biology”, in Tamara Horowitz and Allen I. Janis (eds.), *Scientific Failure*, New York: Roman and Littlefield Publishers, Inc., 141–166.
-* –––, 2006, “Molecular Biology and Its Recent Historiography: A Transnational Quest for the ‘Big Picture’”, *History of Science*, 44: 95–118.
-* Alberts, Bruce, Dennis Bray, Julian Lewis, Martin Raff, Keith Roberts and James D. Watson, 1983, *Molecular Biology of the Cell*, New York: Garland.
-* Alberts, Bruce, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter, 2002, *Molecular Biology of the Cell*, fourth edition, New York: Garland.
-* Alberts, Bruce, Rebecca Heald, Alexander Johnson, David Morgan, Martin Raff, Keith Roberts, and Peter Walter, 2022. *Molecular Biology of the Cell*, seventh edition, New York: Norton.
-* Andersen, Holly, 2012, “The Case for Regularity in Mechanistic Causal Explanation”, *Synthese*, 189: 415–32.
-* Ankeny, Rachel A., 2000, “Fashioning Descriptive Models in Biology: Of Worms and Wiring Diagrams”, *Philosophy of Science* (Proceedings of the 1998 Biennial Meetings of the Philosophy of Science Association), 67(supplement): S260–S272.
-* –––, 2001, “Model Organisms as Models: Understanding the ‘Lingua Franca’ of the Human Genome Project”, *Philosophy of Science* (Proceedings of the 2000 Biennial Meeting of the Philosophy of Science Association), 68(3, supplement): S251–S261.
-* –––, 2003, “Sequencing the Genome from Nematode to Human: Changing Methods, Changing Science”, *Endeavour*, 27: 87–92.
-* Astumian, Dean, 2001, “Making Molecules into Motors”, *Scientific American*, 285(1): 56–64.
-* Austin, Christopher J., 2016, “The ontology of organisms: Mechanistic mdules or patterned processes?”, *Biology and Philosophy*, 31: 639–662.
-* Baedke, Jan, 2018, *Above the Gene, Beyond Biology: Toward a Philosophy of Epigenetics*. Pittsburgh, PH: University of Pittsburgh Press.
-* Baetu, Tudor M., 2016, “The ‘Big Picture’: The Problem of Extrapolation in Basic Research”, *The British Journal for the Philosophy of Science*, 67: 941–964.
-* –––, 2017, “Mechanisms in Molecular Biology”, in Glennan and Illari (eds.), *The Routledge Handbook of Mechanisms and Mechanistic Philosophy*, London, UK: Routledge, 308–318.
-* –––, 2019, *Mechanisms in Molecular Biology*, Cambridge: Cambridge University Press.
-* Banani, Salman F., Hyun O. Lee, Anthony A. Hyman, and Michael K. Rosen, 2017, “Biomolecular Condensates: Organizers of Cellular Biochemistry”, *Nature Reviews Molecular Cell Biology*, 18: 285–98.
-* Bapteste, Eric and John Dupre, 2013, “Towards a processual microbial ontology”, *Biology and Philosophy*, 28: 379–404.
-* Barrell, B.G., Gillian M. Air, and Clyde A. Hutchison III, 1976, “Overlapping Genes in Bacteriophage PhiX174”, *Nature*, 264: 34–41.
-* Barwich, Ann-Sophie and Karim Baschir, 2017, “The Manipulability of What? The History of G–Protein Coupled Receptors”, *Biology and Philosophy* 32: 1317–1339
+* Abir-Am, Pnina, 1985, “Themes, Genres and Orders of Legitimation in the Consolidation of New Scientific Disciplines: Deconstructing the Historiography of Molecular Biology”, _History of Science_, 23: 74–117.
+* –––, 1987, “The Biotheoretical Gathering, Trans-Disciplinary Authority and the Incipient Legitimation of Molecular Biology in the 1930s: New Perspective on the Historical Sociology of Science”, _History of Science_, 25: 1–70.
+* –––, 1994, “Converging Failure: Science Policy, Historiography and Social Theory of Early Molecular Biology”, in Tamara Horowitz and Allen I. Janis (eds.), _Scientific Failure_, New York: Roman and Littlefield Publishers, Inc., 141–166.
+* –––, 2006, “Molecular Biology and Its Recent Historiography: A Transnational Quest for the ‘Big Picture’”, _History of Science_, 44: 95–118.
+* Alberts, Bruce, Dennis Bray, Julian Lewis, Martin Raff, Keith Roberts and James D. Watson, 1983, _Molecular Biology of the Cell_, New York: Garland.
+* Alberts, Bruce, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter, 2002, _Molecular Biology of the Cell_, fourth edition, New York: Garland.
+* Alberts, Bruce, Rebecca Heald, Alexander Johnson, David Morgan, Martin Raff, Keith Roberts, and Peter Walter, 2022. _Molecular Biology of the Cell_, seventh edition, New York: Norton.
+* Andersen, Holly, 2012, “The Case for Regularity in Mechanistic Causal Explanation”, _Synthese_, 189: 415–32.
+* Ankeny, Rachel A., 2000, “Fashioning Descriptive Models in Biology: Of Worms and Wiring Diagrams”, _Philosophy of Science_ (Proceedings of the 1998 Biennial Meetings of the Philosophy of Science Association), 67(supplement): S260–S272.
+* –––, 2001, “Model Organisms as Models: Understanding the ‘Lingua Franca’ of the Human Genome Project”, _Philosophy of Science_ (Proceedings of the 2000 Biennial Meeting of the Philosophy of Science Association), 68(3, supplement): S251–S261.
+* –––, 2003, “Sequencing the Genome from Nematode to Human: Changing Methods, Changing Science”, _Endeavour_, 27: 87–92.
+* Astumian, Dean, 2001, “Making Molecules into Motors”, _Scientific American_, 285(1): 56–64.
+* Austin, Christopher J., 2016, “The ontology of organisms: Mechanistic mdules or patterned processes?”, _Biology and Philosophy_, 31: 639–662.
+* Baedke, Jan, 2018, _Above the Gene, Beyond Biology: Toward a Philosophy of Epigenetics_. Pittsburgh, PH: University of Pittsburgh Press.
+* Baetu, Tudor M., 2016, “The ‘Big Picture’: The Problem of Extrapolation in Basic Research”, _The British Journal for the Philosophy of Science_, 67: 941–964.
+* –––, 2017, “Mechanisms in Molecular Biology”, in Glennan and Illari (eds.), _The Routledge Handbook of Mechanisms and Mechanistic Philosophy_, London, UK: Routledge, 308–318.
+* –––, 2019, _Mechanisms in Molecular Biology_, Cambridge: Cambridge University Press.
+* Banani, Salman F., Hyun O. Lee, Anthony A. Hyman, and Michael K. Rosen, 2017, “Biomolecular Condensates: Organizers of Cellular Biochemistry”, _Nature Reviews Molecular Cell Biology_, 18: 285–98.
+* Bapteste, Eric and John Dupre, 2013, “Towards a processual microbial ontology”, _Biology and Philosophy_, 28: 379–404.
+* Barrell, B.G., Gillian M. Air, and Clyde A. Hutchison III, 1976, “Overlapping Genes in Bacteriophage PhiX174”, _Nature_, 264: 34–41.
+* Barwich, Ann-Sophie and Karim Baschir, 2017, “The Manipulability of What? The History of G–Protein Coupled Receptors”, _Biology and Philosophy_ 32: 1317–1339
 * Beatty, John, 1995, “The Evolutionary Contingency Thesis”, in Lennox and Wolters 1995: 45–81.
-* Bechtel, William, 2006, *Discovering Cell Mechanisms: The Creation of Modern Cell Biology*, New York: Cambridge University Press.
-* –––, 2011, “Mechanism and Biological Explanation”, *Philosophy of Science*, 78: 533–557.
-* –––, 2020, “Hierarchy and Levels: Analysing Networks to Study Mechanisms in Molecular Biology”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 375(1796): 20190320.
-* Bechtel, William and Robert C. Richardson, 1993, *Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research*, Princeton, NJ: Princeton University Press. (2nd edition, 2010, Cambridge, MA: MIT Press.)
-* Bechtel, William and Adele Abrahamsen, 2005, “Explanation: A Mechanistic Alternative”, *Studies in the History and Philosophy of Biology and the Biomedical Sciences*, 36: 421–441.
-* –––, 2010, “Dynamic Mechanistic Explanation: Computational Modeling of Circadian Rhythms as an Exemplar for Cognitive Science”, *Studies in History and Philosophy of Science Part A*, 41: 321–333.
-* –––, 2013, “Thinking Dynamically about Biological Mechanisms: Networks of Coupled Oscillators”, *Foundations of Science*, 18: 707–723.
-* Bechtel, William and Andrew Bollhagen, 2021, “Active Biological Mechanisms: Transforming Energy into Motion in Molecular Motors”, *Synthese*, 199(5–6): 12705–12729.
-* Bellazzi, Francesca, 2022, “The emergence of the postgenomic gene”, *European Journal for Philosophy of Science*, 12(1): 1–21.
-* Benzer, Seymour, 1968, “Genes and Behavior”, *Engineering and Science*, 32: 50–52.
-* Berget, Susan, Claire Moore, and Philip Sharp, 1977, “Spliced Segments at the 5’ Terminus of Adenovirus 2 Late mRNA”, *Proceedings of the National Academy of Sciences* (USA), 74: 3171–3175.
-* Berk, Arnold and Philip Sharp, 1978, “Structure of the Adenovirus 2 Early mRNAs”, *Cell*, 14: 695–711.
-* Bickhard, Mark H., 2011, “Systems and Process Metaphysics”, in Cliff Hooker (ed.), *Handbook of Philosophy of Science. Philosophy of Complex Systems, Vol. 10*, Amsterdam: Elsevier, 91–104.
-* Bickle, John W., 1998, *Psychoneural Reduction: The New Wave*, Cambridge, MA: MIT Press.
-* Boem, Federico, Emanuele Ratti, Mattia Andreoletti, and Giovanni Boniolo, 2016, “Why genes are like lemons”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 57: 88–95.
-* Bogen, James, 2005, “Regularities and Causality; Generalizations and Causal Explanations”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 36: 397–420.
-* Bohr, Niels, 1933, “Light and Life”, *Nature*, 131: 421–423.
-* Bolinska, Agnes, 2022, “A Monist Proposal: Against Integrative Pluralism About Protein Structure”, *Erkenntnis*, first online 11 August 2022. doi:10.1007/s10670-022-00601-2
-* Bolker, Jessica A., 1995, “Model Systems in Developmental Biology”, *BioEssays*, 17: 451–455.
-* –––, 2009, “Exemplary and Surrogate Models: Two Modes of Representation in Biology”, *Perspectives in Biology and Medicine*, 52(4): 485–499.
-* –––, 2017, “Animal models in translational research: Rosetta stone or stumbling block?” *Bioessays*, 39(12): 1700089.
-* Boniolo, Giovanni and Raffaella Campaner, 2018, “Molecular pathways and the contextual explanation of molecular functions”, *Biology and Philosophy*, 33: 24.
-* Boogerd, Fred C., Frank J. Bruggeman, Jan-Hendrik S Hofmeyr. and Hans V. Westerhoff 2007), “Afterthoughts as Foundations for Systems Biology”, in Fred Boogerd, Frank Bruggeman, Jan-Hendrik Hofmeyr and Hans Westerhoff (eds.), *Systems Biology: Philosophical Foundations*, New York: Elsevier, 321–336.
-* Braillard, Pierre-Alain, 2010, “Systems Biology and the Mechanistic Framework”, *History and Philosophy of Life Sciences*, 32: 43–62.
-* Braillard, Pierre-Alain and Cristophe Malaterre (eds.), 2015, *Explanation in Biology. An Enquiry into the Diversity of Explanatory Patterns in the Life Sciences*, Dordrecht: Springer.
-* Brandon, Robert, 1997, “Does Biology Have Laws? The Experimental Evidence”, *Philosophy of Science*, 64: S444–S457.
-* Brenner, Sydney, 1963, “Letter to Perutz”, in W.B. Wood and the Community of *C. elegans* Researchers, 1998 (eds.), *The Nematode Caenorhabditis elegans*, Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.
-* –––, 1973, “The Genetics of Behavior”, *British Medical Bulletin*, 29: 269–271.
-* –––, 2001, *My Life in Science*, London: BioMed Central Ltd.
-* Brigandt, Ingo, 2013, “Systems Biology and the Integration of Mechanistic Explanation and Mathematical Explanation”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4): 477–92.
-* –––, 2018, “Explanation of Molecular Processes without Tracking Mechanism Operation”, *Philosophy of Science* 85: 984–997.
-* Brigandt, Ingo, Sara Green and Maureen O’Malley, 2017, “Systems Biology and Mechanistc Explanation”, in Glennan and Illari (eds.), *The Routledge Handbook of Mechanisms and Mechanistic Philosophy*, London, UK: Routledge, 362–374.,
-* Brock, Thomas D., 1990, *The Emergence of Bacterial Genetics*, Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.
-* Brown, Andrew, 2003, *In the Beginning Was the Worm: Finding the Secrets of Life in a Tiny Hermaphrodite*, New York: Columbia University Press.
-* Burian, Richard M., 1993a, “Technique, Task Definition, and the Transition from Genetics to Molecular Genetics: Aspects of the Work on Protein Synthesis in the Laboratories of J. Monod and P. Zamecnik”, *Journal of the History of Biology*, 26: 387–407. (Note: This issue has a Special Section: Building Molecular Biology.)
-* –––, 1993b, “How the Choice of Experimental Organism Matters: Epistemological Reflections on an Aspect of Biological Practice”, *Journal of the History of Biology*, 26: 351–367.
-* Cairns, John, Gunther S. Stent; and James D. Watson (eds.), 1966, *Phage and the Origins of Molecular Biology*, Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.
-* Calcott, Brett, 2009, “Lineage Explanations: Explaining How Biological Mechanisms Change”, *British Journal for the Philosophy of Science*, 60: 51–78.
-* Campbell, Richard, 2015,*The Metaphysics of Emergence*, London: Palgrave Macmillan.
-* Canguilhem, Georges, 1989, *The Normal and the Pathological*, translated by Carolyn R. Fawcett. New York: Zone Books.
-* Cantor, Charles R. and Cassandra M. Smith, 1999, *Genomics*, New York: John Wiley and Sons.
-* Carlson, Elof A., 1966, *The Gene: A Critical History*, Philadelphia: Saunders.
-* –––, 1971, “An Unacknowledged Founding of Molecular Biology: H.J. Muller’s Contribution to Gene Theory, 1910–1936”, *Journal of the History of Biology*, 4: 149–170.
-* –––, 1981, *Genes, Radiation and Society: The Life and Work of H.J. Muller*, Ithaca, New York: Cornell University Press.
-* –––, 2011, *Mutation: The History of an Idea from Darwin to Genomics*. New York: Cold Spring Harbor Press.
-* Chow, Louise, Richard Gelinas, Thomas Broker, and Richard Roberts, 1977, “An Amazing Sequence Arrangement at the 5′ Ends of Adenovirus 2Messenger RNA”, *Cell*, 12: 1–18.
-* Clarke, Brendan, G. Gillies, P. Illari, F. Russo, and J. Williamson, 2014, “Mechanisms and the Evidence Hierarchy”, *Topoi*, 33(2): 339–360. doi:10.1007/s11245-013-9220-9
-* Cohen, S., 1984, “The Biochemical Origins of Molecular Biology”, *Trends in Biochemical Sciences*, 9: 334–336.
-* Cook, Thomas D. and Donald T. Campbell, 1979, *Quasi-Experimentation: Design and Analysis Issues for Field Settings*, Chicago, IL: Rand MacNally.
-* Craver, Carl F., 2001, “Structures of Scientific Theories”, in P.K. Machamer and M. Silberstein (eds.), *Blackwell Guide to the Philosophy of Science*, Oxford: Blackwell, 55–79.
-* –––, 2007, *Explaining the Brain*, Oxford: Oxford University Press.
-* Craver, Carl F. and Lindley Darden, 2013, *In Search of Mechanisms: Discoveries across the Life Sciences*, Chicago, IL: University of Chicago Press.
+* Bechtel, William, 2006, _Discovering Cell Mechanisms: The Creation of Modern Cell Biology_, New York: Cambridge University Press.
+* –––, 2011, “Mechanism and Biological Explanation”, _Philosophy of Science_, 78: 533–557.
+* –––, 2020, “Hierarchy and Levels: Analysing Networks to Study Mechanisms in Molecular Biology”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 375(1796): 20190320.
+* Bechtel, William and Robert C. Richardson, 1993, _Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research_, Princeton, NJ: Princeton University Press. (2nd edition, 2010, Cambridge, MA: MIT Press.)
+* Bechtel, William and Adele Abrahamsen, 2005, “Explanation: A Mechanistic Alternative”, _Studies in the History and Philosophy of Biology and the Biomedical Sciences_, 36: 421–441.
+* –––, 2010, “Dynamic Mechanistic Explanation: Computational Modeling of Circadian Rhythms as an Exemplar for Cognitive Science”, _Studies in History and Philosophy of Science Part A_, 41: 321–333.
+* –––, 2013, “Thinking Dynamically about Biological Mechanisms: Networks of Coupled Oscillators”, _Foundations of Science_, 18: 707–723.
+* Bechtel, William and Andrew Bollhagen, 2021, “Active Biological Mechanisms: Transforming Energy into Motion in Molecular Motors”, _Synthese_, 199(5–6): 12705–12729.
+* Bellazzi, Francesca, 2022, “The emergence of the postgenomic gene”, _European Journal for Philosophy of Science_, 12(1): 1–21.
+* Benzer, Seymour, 1968, “Genes and Behavior”, _Engineering and Science_, 32: 50–52.
+* Berget, Susan, Claire Moore, and Philip Sharp, 1977, “Spliced Segments at the 5’ Terminus of Adenovirus 2 Late mRNA”, _Proceedings of the National Academy of Sciences_ (USA), 74: 3171–3175.
+* Berk, Arnold and Philip Sharp, 1978, “Structure of the Adenovirus 2 Early mRNAs”, _Cell_, 14: 695–711.
+* Bickhard, Mark H., 2011, “Systems and Process Metaphysics”, in Cliff Hooker (ed.), _Handbook of Philosophy of Science. Philosophy of Complex Systems, Vol. 10_, Amsterdam: Elsevier, 91–104.
+* Bickle, John W., 1998, _Psychoneural Reduction: The New Wave_, Cambridge, MA: MIT Press.
+* Boem, Federico, Emanuele Ratti, Mattia Andreoletti, and Giovanni Boniolo, 2016, “Why genes are like lemons”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 57: 88–95.
+* Bogen, James, 2005, “Regularities and Causality; Generalizations and Causal Explanations”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 36: 397–420.
+* Bohr, Niels, 1933, “Light and Life”, _Nature_, 131: 421–423.
+* Bolinska, Agnes, 2022, “A Monist Proposal: Against Integrative Pluralism About Protein Structure”, _Erkenntnis_, first online 11 August 2022. doi:10.1007/s10670-022-00601-2
+* Bolker, Jessica A., 1995, “Model Systems in Developmental Biology”, _BioEssays_, 17: 451–455.
+* –––, 2009, “Exemplary and Surrogate Models: Two Modes of Representation in Biology”, _Perspectives in Biology and Medicine_, 52(4): 485–499.
+* –––, 2017, “Animal models in translational research: Rosetta stone or stumbling block?” _Bioessays_, 39(12): 1700089.
+* Boniolo, Giovanni and Raffaella Campaner, 2018, “Molecular pathways and the contextual explanation of molecular functions”, _Biology and Philosophy_, 33: 24.
+* Boogerd, Fred C., Frank J. Bruggeman, Jan-Hendrik S Hofmeyr. and Hans V. Westerhoff 2007), “Afterthoughts as Foundations for Systems Biology”, in Fred Boogerd, Frank Bruggeman, Jan-Hendrik Hofmeyr and Hans Westerhoff (eds.), _Systems Biology: Philosophical Foundations_, New York: Elsevier, 321–336.
+* Braillard, Pierre-Alain, 2010, “Systems Biology and the Mechanistic Framework”, _History and Philosophy of Life Sciences_, 32: 43–62.
+* Braillard, Pierre-Alain and Cristophe Malaterre (eds.), 2015, _Explanation in Biology. An Enquiry into the Diversity of Explanatory Patterns in the Life Sciences_, Dordrecht: Springer.
+* Brandon, Robert, 1997, “Does Biology Have Laws? The Experimental Evidence”, _Philosophy of Science_, 64: S444–S457.
+* Brenner, Sydney, 1963, “Letter to Perutz”, in W.B. Wood and the Community of _C. elegans_ Researchers, 1998 (eds.), _The Nematode Caenorhabditis elegans_, Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.
+* –––, 1973, “The Genetics of Behavior”, _British Medical Bulletin_, 29: 269–271.
+* –––, 2001, _My Life in Science_, London: BioMed Central Ltd.
+* Brigandt, Ingo, 2013, “Systems Biology and the Integration of Mechanistic Explanation and Mathematical Explanation”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4): 477–92.
+* –––, 2018, “Explanation of Molecular Processes without Tracking Mechanism Operation”, _Philosophy of Science_ 85: 984–997.
+* Brigandt, Ingo, Sara Green and Maureen O’Malley, 2017, “Systems Biology and Mechanistc Explanation”, in Glennan and Illari (eds.), _The Routledge Handbook of Mechanisms and Mechanistic Philosophy_, London, UK: Routledge, 362–374.,
+* Brock, Thomas D., 1990, _The Emergence of Bacterial Genetics_, Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.
+* Brown, Andrew, 2003, _In the Beginning Was the Worm: Finding the Secrets of Life in a Tiny Hermaphrodite_, New York: Columbia University Press.
+* Burian, Richard M., 1993a, “Technique, Task Definition, and the Transition from Genetics to Molecular Genetics: Aspects of the Work on Protein Synthesis in the Laboratories of J. Monod and P. Zamecnik”, _Journal of the History of Biology_, 26: 387–407. (Note: This issue has a Special Section: Building Molecular Biology.)
+* –––, 1993b, “How the Choice of Experimental Organism Matters: Epistemological Reflections on an Aspect of Biological Practice”, _Journal of the History of Biology_, 26: 351–367.
+* Cairns, John, Gunther S. Stent; and James D. Watson (eds.), 1966, _Phage and the Origins of Molecular Biology_, Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.
+* Calcott, Brett, 2009, “Lineage Explanations: Explaining How Biological Mechanisms Change”, _British Journal for the Philosophy of Science_, 60: 51–78.
+* Campbell, Richard, 2015,_The Metaphysics of Emergence_, London: Palgrave Macmillan.
+* Canguilhem, Georges, 1989, _The Normal and the Pathological_, translated by Carolyn R. Fawcett. New York: Zone Books.
+* Cantor, Charles R. and Cassandra M. Smith, 1999, _Genomics_, New York: John Wiley and Sons.
+* Carlson, Elof A., 1966, _The Gene: A Critical History_, Philadelphia: Saunders.
+* –––, 1971, “An Unacknowledged Founding of Molecular Biology: H.J. Muller’s Contribution to Gene Theory, 1910–1936”, _Journal of the History of Biology_, 4: 149–170.
+* –––, 1981, _Genes, Radiation and Society: The Life and Work of H.J. Muller_, Ithaca, New York: Cornell University Press.
+* –––, 2011, _Mutation: The History of an Idea from Darwin to Genomics_. New York: Cold Spring Harbor Press.
+* Chow, Louise, Richard Gelinas, Thomas Broker, and Richard Roberts, 1977, “An Amazing Sequence Arrangement at the 5′ Ends of Adenovirus 2Messenger RNA”, _Cell_, 12: 1–18.
+* Clarke, Brendan, G. Gillies, P. Illari, F. Russo, and J. Williamson, 2014, “Mechanisms and the Evidence Hierarchy”, _Topoi_, 33(2): 339–360. doi:10.1007/s11245-013-9220-9
+* Cohen, S., 1984, “The Biochemical Origins of Molecular Biology”, _Trends in Biochemical Sciences_, 9: 334–336.
+* Cook, Thomas D. and Donald T. Campbell, 1979, _Quasi-Experimentation: Design and Analysis Issues for Field Settings_, Chicago, IL: Rand MacNally.
+* Craver, Carl F., 2001, “Structures of Scientific Theories”, in P.K. Machamer and M. Silberstein (eds.), _Blackwell Guide to the Philosophy of Science_, Oxford: Blackwell, 55–79.
+* –––, 2007, _Explaining the Brain_, Oxford: Oxford University Press.
+* Craver, Carl F. and Lindley Darden, 2013, _In Search of Mechanisms: Discoveries across the Life Sciences_, Chicago, IL: University of Chicago Press.
 * Craver, Carl F. and Mark Povich, 2017, “Levels, Reduction, and Emergence”, in S. Gennan and P. Illari (eds.), Routledge Handbook of Mechanisms, London: Routledge, 185–197.
-* Craver, Carl F., Stuart Glennan and Mark Povich, 2021, “Constitutive Relevance & Mutual Manipulability Revisited”, *Synthese*, 199: 8807–8828.
-* Crick, Francis, 1958, “On Protein Synthesis”, *Symposium of the Society of Experimental Biolog*y 12: 138–163.
-* –––, 1970, “Central Dogma of Molecular Biology”, *Nature*, 227: 561–563.
-* –––, 1988, *What Mad Pursuit: A Personal View of Scientific Discovery*, New York: Basic Books.
-* –––, 1996, “The Impact of Linus Pauling on Molecular Biology”, in Ramesh S. Krishnamurthy (ed.), *The Pauling Symposium: A Discourse on the Art of Biography*, Corvallis, Oregon: Oregon State University Libraries Special Collections, 1–18.
+* Craver, Carl F., Stuart Glennan and Mark Povich, 2021, “Constitutive Relevance & Mutual Manipulability Revisited”, _Synthese_, 199: 8807–8828.
+* Crick, Francis, 1958, “On Protein Synthesis”, _Symposium of the Society of Experimental Biolog_y 12: 138–163.
+* –––, 1970, “Central Dogma of Molecular Biology”, _Nature_, 227: 561–563.
+* –––, 1988, _What Mad Pursuit: A Personal View of Scientific Discovery_, New York: Basic Books.
+* –––, 1996, “The Impact of Linus Pauling on Molecular Biology”, in Ramesh S. Krishnamurthy (ed.), _The Pauling Symposium: A Discourse on the Art of Biography_, Corvallis, Oregon: Oregon State University Libraries Special Collections, 1–18.
 * Crow, James F., 1992, “H.J. Muller’s Role in Evolutionary Biology”, in Sarkar 1992: 83–105.
-* Culp, Sylvia, 1995, “Objectivity in Experimental Inquiry: Breaking Data-Technique Circles”, *Philosophy of Science*, 62: 438–458.
-* Culp, Sylvia and Philip Kitcher, 1989, “Theory Structure and Theory Change in Contemporary Molecular Biology”, *The British Journal for the Philosophy of Science*, 40: 459–483.
-* Darden, Lindley, 1991, *Theory Change in Science: Strategies from Mendelian Genetics*, New York: Oxford University Press.
+* Culp, Sylvia, 1995, “Objectivity in Experimental Inquiry: Breaking Data-Technique Circles”, _Philosophy of Science_, 62: 438–458.
+* Culp, Sylvia and Philip Kitcher, 1989, “Theory Structure and Theory Change in Contemporary Molecular Biology”, _The British Journal for the Philosophy of Science_, 40: 459–483.
+* Darden, Lindley, 1991, _Theory Change in Science: Strategies from Mendelian Genetics_, New York: Oxford University Press.
 * –––, 1995, “Exemplars, Abstractions, and Anomalies: Representations and Theory Change in Mendelian and Molecular Genetics”, in Lennox and Wolters 1995: 137–158.
-* –––, 2002, “Strategies for Discovering Mechanisms: Schema Instantiation, Modular Subassembly, Forward/Backward Chaining”, *Philosophy of Science*, 69 (*Supplement*): S354–S365.
-* –––, 2005, “Relations Among Fields: Mendelian, Cytological and Molecular Mechanisms”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 36: 349–371.
-* –––, 2006a, *Reasoning in Biological Discoveries: Essays on Mechanisms, Interfield Relations, and Anomaly Resolution*, Cambridge, UK: Cambridge University Press.
-* –––, 2006b, “Flow of Information in Molecular Biological Mechanisms”, *Biological Theory*, 1: 280–287.
+* –––, 2002, “Strategies for Discovering Mechanisms: Schema Instantiation, Modular Subassembly, Forward/Backward Chaining”, _Philosophy of Science_, 69 (_Supplement_): S354–S365.
+* –––, 2005, “Relations Among Fields: Mendelian, Cytological and Molecular Mechanisms”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 36: 349–371.
+* –––, 2006a, _Reasoning in Biological Discoveries: Essays on Mechanisms, Interfield Relations, and Anomaly Resolution_, Cambridge, UK: Cambridge University Press.
+* –––, 2006b, “Flow of Information in Molecular Biological Mechanisms”, _Biological Theory_, 1: 280–287.
 * –––, 2007, “Mechanisms and Models”, in Hull and Ruse 2007: 139–159.
-* –––, 2008, “Thinking Again about Biological Mechanisms”, *Philosophy of Science*, 75: 958–69.
-* Darden, Lindley and Carl F. Craver, 2002, “Strategies in the Interfield Discovery of the Mechanism of Protein Synthesis”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 33: 1–28.
-* Darden, Lindley and Nancy Maull, 1977, “Interfield Theories”, *Philosophy of Science*, 44: 43–64.
-* De Backer, Philippe, Danny De Waele, and Linda Van Speybroeck, 2010, “Ins and Outs of Systems Biology vis-à-vis Molecular Biology: Continuation or Clear Cut?”, *Acta Biotheoretica*, 58: 15–49.
-* de Chadarevian, Soraya, 2002, *Designs for Life: Molecular Biology after World War II*, New York: Cambridge University Press.
-* –––, 2003, “Portrait of a Discovery: Watson, Crick, and the Double Helix”, *ISIS*, 94: 90–105.
-* de Chadarevian, Soraya and Jean-Paul Gaudilliere, 1996, “The Tools of the Discipline: Biochemists and Molecular Biologists”, Introduction to Special Issue, *Journal of the History of Biology*, 29: 327–330.
-* de Chadarevian, Soraya and Bruno Strasser, 2002, “Introduction: Molecular Biology in Postwar Europe: Towards a Global Picture”, Special Issue: Molecular Biology in Postwar Europe. *Studies in the History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 33: 361–365.
-* Deichmann, U., 2002, “Emigration, Isolation, and the Slow Start of Molecular Biology in Germany”, *Studies in the History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Science*, 33: 449–471.
-* Delbrueck, Max, 1949, “A Physicist Looks at Biology”, *Transactions of the Connecticut Academy of Arts and Sciences*, 38: 173–190.
-* Delehanty, Megan, 2005, “Emergent Properties and the Context Objection to Reduction”, *Biology and Philosophy*, 20: 715–734.
-* Dietrich, Michael, 1998, “Paradox and Persuasion: Negotiating the Place of Molecular Evolution within Evolutionary Biology”, *Journal of the History of Biology*, 31: 85–111.
-* Doolittle, W. Ford, 2013, “Is junk DNA bunk? A critique of ENCODE”, *Proceedings of the National Academy of Sciences*, 110(14): 5294–5300.
-* Doudna, Jennifer A. and Emmanuelle Charpentier, 2014, “Genome Editing. The New Frontier of Genome Engineering with CRISPR-Cas9”, *Science*, 346: 6213.
-* Downes, Stephen M., 2004, “Alternative Splicing, the Gene Concept, and Evolution”, *History and Philosophy of the Life Sciences*, 26: 91–104.
-* –––, 2006, “Genetic Information”, in Jessica Pfeifer and Sahotra Sarkar (eds.), *The Philosophy of Science: An Encyclopedia*, New York: Routledge, 64–68.
-* Dupre, John, 2012, *Processes of Life. Essays in the Philosophy of Biology*, Oxford: Oxford University Press.
-* Echols, Harrison, 2001, *Operators and Promoters: The Story of Molecular Biology and Its Creators*, Berkeley, CA: University of California Press.
-* Elitzur, A.C., 1995, “Life and Mind, Past and Future: Schroedinger’s Vision Fifty Years Later”, *Perspectives in Biology and Medicine*, 38: 433–457.
-* The ENCODE Project Consortium, 2012, “An Integrated Encyclopedia of DNA Elements in the Human Genome”, *Nature*, 489, 7414: 57–74.
-* Falk, Raphael, 1986, “What Is a Gene?”, *Studies in History and Philosophy of Science*, 17: 133–173.
-* –––, 2001, “Can the Norm of Reaction Save the Gene Concept?”, in Rama S. Singh, Costas B. Krimbas, Diana B. Paul, and John Beatty (eds.), *Thinking About Evolution: Historical, Philosophical, and Political Perspectives*, New York: Cambridge University Press, 119–140.
-* Fagan, Melinda B., 2013, *Philosophy of Stem Cell Biology: Knowledge in Flesh and Blood*, New York, NY: Palgrave Macmillan.
-* –––, 2021, *Stem Cells*, Cambridge: Cambridge University Press.
-* Fazekas, Peter, 2022, “Flat Mechanisms: A Reductionist Approach to Levels in Mechanistic Explanations”, *Philosophical Studies*, 179(7): 2303–2321.
-* Fischer, Ernst Peter and Carol Lipson, 1988, *Thinking about Science: Max Delbrueck and the Origins of Molecular Biology*, New York: W.W. Norton.
-* Fisher, Susie, 2010, “Not Beyond Reasonable Doubt: Howard Temin’s Provirus Hypothesis Revisited”, *Journal of the History of Biology*, 43: 661–696.
-* Fleischmann, R.D., M.D. Adams, O. White, R.A. Clayton, E.F. Kirkness, A.R. Kerlavage, C.J. Bult, J.F. Tomb, B.A. Dougherty, and J.M. Merrick et al., 1995, “Whole-Genome Random Sequencing and Assembly of *Haemophilus influenzae*”, *Science*, 269: 496–512.
-* Fleming, D., 1968, “Emigre Physicists and the Biological Revolution”, *Perspectives in American History*, 2: 176–213.
-* Frost-Arnold, Gregory, 2004, “How to be an Anti-Reductionist about Developmental Biology”, *Biology and Philosophy*, 19: 75–91.
-* Gannett, Lisa, 2003, “The Normal Genome in Twentieth-Century Evolutionary Thought”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 34: 143–185.
-* Garcia-Sancho, Miguel, 2012, *Biology, Computing, and the History of Molecular Biology Sequencing: From Proteins to DNA, 1945–2000*, New York: Palgrave Macmillan.
-* Germain, Pierre Luc, Emanuele Ratti, and Federico Boem, 2014, “Junk or Functional DNA? ENCODE and the Function Controversy”, *Biology and Philosophy*, 29: 807–831.
-* Gerstein, M.B. et al., 2007, “What is a Gene, post-ENCODE? History and Updated Definition”, *Genome Research*, 17: 669–681.
-* Glennan, Stuart, 2002, “Rethinking Mechanistic Explanation”, *Philosophy of Science*, 69 *(Supplement)*: S342–S353.
-* Glennan, Stuart and Phyllis Illari (eds.), 2017, *The Routledge Handbook of Mechanisms and Mechanical Philosophy*. London, UK: Routledge.
-* Goff, S.A. et al., 2002, “A Draft Sequence of the Rice Genome”, *Science*, 296: 92–100.
-* Green, Sara (ed.), 2017, *Philosophy of Systems Biology: Perspectives from Scientists and Philosophers*. Dordrecht: Springer.
-* Griffiths, Paul E. and Robert D. Knight, 1998, “What is the Developmentalist Challenge?”, *Philosophy of Science*, 65: 253–258.
-* Griffiths, Paul E. and Eva M. Neumann-Held, 1999, “The Many Faces of the Gene”, *BioScience*, 49: 656–662.
-* Griffiths, Paul E. and Karola Stotz, 2004, “Genes: Philosophical Analyses Put to the Test”, *History and Philosophy of the Life Sciences*, 26: 5–28.
-* –––, 2006, “Genes in the Postgenomic Era”, *Theoretical Medicine and Bioethics*, 27: 499–521.
+* –––, 2008, “Thinking Again about Biological Mechanisms”, _Philosophy of Science_, 75: 958–69.
+* Darden, Lindley and Carl F. Craver, 2002, “Strategies in the Interfield Discovery of the Mechanism of Protein Synthesis”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 33: 1–28.
+* Darden, Lindley and Nancy Maull, 1977, “Interfield Theories”, _Philosophy of Science_, 44: 43–64.
+* De Backer, Philippe, Danny De Waele, and Linda Van Speybroeck, 2010, “Ins and Outs of Systems Biology vis-à-vis Molecular Biology: Continuation or Clear Cut?”, _Acta Biotheoretica_, 58: 15–49.
+* de Chadarevian, Soraya, 2002, _Designs for Life: Molecular Biology after World War II_, New York: Cambridge University Press.
+* –––, 2003, “Portrait of a Discovery: Watson, Crick, and the Double Helix”, _ISIS_, 94: 90–105.
+* de Chadarevian, Soraya and Jean-Paul Gaudilliere, 1996, “The Tools of the Discipline: Biochemists and Molecular Biologists”, Introduction to Special Issue, _Journal of the History of Biology_, 29: 327–330.
+* de Chadarevian, Soraya and Bruno Strasser, 2002, “Introduction: Molecular Biology in Postwar Europe: Towards a Global Picture”, Special Issue: Molecular Biology in Postwar Europe. _Studies in the History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 33: 361–365.
+* Deichmann, U., 2002, “Emigration, Isolation, and the Slow Start of Molecular Biology in Germany”, _Studies in the History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Science_, 33: 449–471.
+* Delbrueck, Max, 1949, “A Physicist Looks at Biology”, _Transactions of the Connecticut Academy of Arts and Sciences_, 38: 173–190.
+* Delehanty, Megan, 2005, “Emergent Properties and the Context Objection to Reduction”, _Biology and Philosophy_, 20: 715–734.
+* Dietrich, Michael, 1998, “Paradox and Persuasion: Negotiating the Place of Molecular Evolution within Evolutionary Biology”, _Journal of the History of Biology_, 31: 85–111.
+* Doolittle, W. Ford, 2013, “Is junk DNA bunk? A critique of ENCODE”, _Proceedings of the National Academy of Sciences_, 110(14): 5294–5300.
+* Doudna, Jennifer A. and Emmanuelle Charpentier, 2014, “Genome Editing. The New Frontier of Genome Engineering with CRISPR-Cas9”, _Science_, 346: 6213.
+* Downes, Stephen M., 2004, “Alternative Splicing, the Gene Concept, and Evolution”, _History and Philosophy of the Life Sciences_, 26: 91–104.
+* –––, 2006, “Genetic Information”, in Jessica Pfeifer and Sahotra Sarkar (eds.), _The Philosophy of Science: An Encyclopedia_, New York: Routledge, 64–68.
+* Dupre, John, 2012, _Processes of Life. Essays in the Philosophy of Biology_, Oxford: Oxford University Press.
+* Echols, Harrison, 2001, _Operators and Promoters: The Story of Molecular Biology and Its Creators_, Berkeley, CA: University of California Press.
+* Elitzur, A.C., 1995, “Life and Mind, Past and Future: Schroedinger’s Vision Fifty Years Later”, _Perspectives in Biology and Medicine_, 38: 433–457.
+* The ENCODE Project Consortium, 2012, “An Integrated Encyclopedia of DNA Elements in the Human Genome”, _Nature_, 489, 7414: 57–74.
+* Falk, Raphael, 1986, “What Is a Gene?”, _Studies in History and Philosophy of Science_, 17: 133–173.
+* –––, 2001, “Can the Norm of Reaction Save the Gene Concept?”, in Rama S. Singh, Costas B. Krimbas, Diana B. Paul, and John Beatty (eds.), _Thinking About Evolution: Historical, Philosophical, and Political Perspectives_, New York: Cambridge University Press, 119–140.
+* Fagan, Melinda B., 2013, _Philosophy of Stem Cell Biology: Knowledge in Flesh and Blood_, New York, NY: Palgrave Macmillan.
+* –––, 2021, _Stem Cells_, Cambridge: Cambridge University Press.
+* Fazekas, Peter, 2022, “Flat Mechanisms: A Reductionist Approach to Levels in Mechanistic Explanations”, _Philosophical Studies_, 179(7): 2303–2321.
+* Fischer, Ernst Peter and Carol Lipson, 1988, _Thinking about Science: Max Delbrueck and the Origins of Molecular Biology_, New York: W.W. Norton.
+* Fisher, Susie, 2010, “Not Beyond Reasonable Doubt: Howard Temin’s Provirus Hypothesis Revisited”, _Journal of the History of Biology_, 43: 661–696.
+* Fleischmann, R.D., M.D. Adams, O. White, R.A. Clayton, E.F. Kirkness, A.R. Kerlavage, C.J. Bult, J.F. Tomb, B.A. Dougherty, and J.M. Merrick et al., 1995, “Whole-Genome Random Sequencing and Assembly of _Haemophilus influenzae_”, _Science_, 269: 496–512.
+* Fleming, D., 1968, “Emigre Physicists and the Biological Revolution”, _Perspectives in American History_, 2: 176–213.
+* Frost-Arnold, Gregory, 2004, “How to be an Anti-Reductionist about Developmental Biology”, _Biology and Philosophy_, 19: 75–91.
+* Gannett, Lisa, 2003, “The Normal Genome in Twentieth-Century Evolutionary Thought”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 34: 143–185.
+* Garcia-Sancho, Miguel, 2012, _Biology, Computing, and the History of Molecular Biology Sequencing: From Proteins to DNA, 1945–2000_, New York: Palgrave Macmillan.
+* Germain, Pierre Luc, Emanuele Ratti, and Federico Boem, 2014, “Junk or Functional DNA? ENCODE and the Function Controversy”, _Biology and Philosophy_, 29: 807–831.
+* Gerstein, M.B. et al., 2007, “What is a Gene, post-ENCODE? History and Updated Definition”, _Genome Research_, 17: 669–681.
+* Glennan, Stuart, 2002, “Rethinking Mechanistic Explanation”, _Philosophy of Science_, 69 _(Supplement)_: S342–S353.
+* Glennan, Stuart and Phyllis Illari (eds.), 2017, _The Routledge Handbook of Mechanisms and Mechanical Philosophy_. London, UK: Routledge.
+* Goff, S.A. et al., 2002, “A Draft Sequence of the Rice Genome”, _Science_, 296: 92–100.
+* Green, Sara (ed.), 2017, _Philosophy of Systems Biology: Perspectives from Scientists and Philosophers_. Dordrecht: Springer.
+* Griffiths, Paul E. and Robert D. Knight, 1998, “What is the Developmentalist Challenge?”, _Philosophy of Science_, 65: 253–258.
+* Griffiths, Paul E. and Eva M. Neumann-Held, 1999, “The Many Faces of the Gene”, _BioScience_, 49: 656–662.
+* Griffiths, Paul E. and Karola Stotz, 2004, “Genes: Philosophical Analyses Put to the Test”, _History and Philosophy of the Life Sciences_, 26: 5–28.
+* –––, 2006, “Genes in the Postgenomic Era”, _Theoretical Medicine and Bioethics_, 27: 499–521.
 * –––, 2007, “Gene”, in Hull and Ruse 2007: 85–102.
-* –––, 2013, *Genetics and Philosophy: An Introduction*, Cambridge: Cambridge University Press.
-* Griffiths, Paul E., Arnaud Pocheville, Brett Calcott, Karola Stotz, Hyunju Kim and Rob Knight, 2015, “Measuring Causal Specificity”, *Philosophy of Science*, 82: 529–555.
-* Hager, Thomas, 1995, *Force of Nature: The Life of Linus Pauling*, New York: Simon and Schuster.
-* Harinen, Totte, 2014, “Mutual Manipulability and Causal Inbetweenness”, *Synthese* 195: 34–54.
-* Hausmann, Rudolf, 2002, *To Grasp the Essence of Life: A History of Molecular Biology*. Dordrecht: Springer.
-* Havstad, Joyce C. & Palazzo, Alexander F, 2022, “Not functional yet a difference maker: junk DNA as a case study,” *Biology and Philosophy*, 37(4): 1–27.
-* Hempel, Carl and P. Oppenheim, 1948, “Studies in the Logic of Explanation”, *Philosophy of Science*, 15: 135–175.
-* Hernán, Miguel A. and Tyler J. Vanderweele, 2011, “Compound Treatments and Transportability of Causal Inference”, *Epidemiology*, 22(3): 368–77.
-* Hershey, Alfred D. and Martha Chase, 1952, “Independent Functions of Viral Protein and Nucleic Acid in Growth of Bacteriophage”, *The Journal of General Physiology*, 36: 39–56.
-* Holmes, Frederic Lawrence, 2001, *Meselson, Stahl, and the Replication of DNA: A History of “The Most Beautiful Experiment in Biology”*, New Haven, CT: Yale University Press.
-* Howick, Jeremy, P. Glasziou, and J.K. Aronson, 2013, “Problems with Using Mechanisms to Solve the Problem of Extrapolation”, *Theoretical Medicine and Bioethics*, 34: 275–291.
-* Huber, L., and L. K. Keuck, 2013, “Mutant mice: Experimental organisms as materialized models in biomedicine”, *Studies in History and Philosophy of Science C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 44: 385–391.
-* Hull, David, 1974, *Philosophy of Biological Science*, Englewood Cliffs, NJ: Prentice-Hall.
-* Hull, David L. and Michael Ruse (eds.), 2007, *Cambridge Companion to Philosophy of Biology*, New York: Cambridge University Press.
-* Huettemann, Andreas and Alan C. Love, 2011, “Aspects of Reductive Explanation in Biological Science: Instrinsicality, Fundamentality, and Temporality”, *British Journal for the Philosophy of Science*, 62: 519–549.
-* Ilan, Yaron, 2020, “Order Through Disorder: The Characteristic Variability of Systems”, *Frontiers in Cell and Developmental Biology*, 8: 186.
-* Illari, Phyllis McKay and Jon Williamson, 2012, “What is a Mechanism? Thinking about Mechanisms *Across* the Sciences”, *European Journal for Philosophy of Science*, 2(1): 119–135.
-* International HapMap Consortium, 2003, “The International HapMap Project”, *Nature*, 426: 789–796.
-* International Human Genome Sequencing Consortium, 2001, “Initial Sequencing and Analysis of the Human Genome”, *Nature*, 409: 860–921.
-* Ioannidis, Stavros and Stathis Psillos, 2017, “In defense of methodological mechanism”, *Axiomathes*, 27: 601–619.
-* Jablonka, Eva, 2002, “Information: Its Interpretation, Its Inheritance, and Its Sharing”, *Philosophy of Science*, 69: 578–605.
-* Jacob, Francois, 1988, *The Statue Within: An Autobiography*, New York: Basic Books.
-* Jacob, Francois and Jacques Monod, 1961, “Genetic Regulatory Mechanisms in the Synthesis of Proteins”, *Journal of Molecular Biology*, 3: 318–356.
-* Jaeger, Johannes, David Irons and Nick Monk, 2012 “The inheritance of process: a dynamical systems approach”, *Journal of Experimental Zoology Part B Molecular and Developmental Evolution*, 318: 591–612.
-* Jaeger, Johannes and Nick Monk 2015, “Everything flows: a process perspective on life”, *EMBO Reports*, 16: 1064–1067.
-* Judson, Horace Freeland, 1980, “Reflections on the Historiography of Molecular Biology”, *Minerv*a 18: 369–421.
+* –––, 2013, _Genetics and Philosophy: An Introduction_, Cambridge: Cambridge University Press.
+* Griffiths, Paul E., Arnaud Pocheville, Brett Calcott, Karola Stotz, Hyunju Kim and Rob Knight, 2015, “Measuring Causal Specificity”, _Philosophy of Science_, 82: 529–555.
+* Hager, Thomas, 1995, _Force of Nature: The Life of Linus Pauling_, New York: Simon and Schuster.
+* Harinen, Totte, 2014, “Mutual Manipulability and Causal Inbetweenness”, _Synthese_ 195: 34–54.
+* Hausmann, Rudolf, 2002, _To Grasp the Essence of Life: A History of Molecular Biology_. Dordrecht: Springer.
+* Havstad, Joyce C. & Palazzo, Alexander F, 2022, “Not functional yet a difference maker: junk DNA as a case study,” _Biology and Philosophy_, 37(4): 1–27.
+* Hempel, Carl and P. Oppenheim, 1948, “Studies in the Logic of Explanation”, _Philosophy of Science_, 15: 135–175.
+* Hernán, Miguel A. and Tyler J. Vanderweele, 2011, “Compound Treatments and Transportability of Causal Inference”, _Epidemiology_, 22(3): 368–77.
+* Hershey, Alfred D. and Martha Chase, 1952, “Independent Functions of Viral Protein and Nucleic Acid in Growth of Bacteriophage”, _The Journal of General Physiology_, 36: 39–56.
+* Holmes, Frederic Lawrence, 2001, _Meselson, Stahl, and the Replication of DNA: A History of “The Most Beautiful Experiment in Biology”_, New Haven, CT: Yale University Press.
+* Howick, Jeremy, P. Glasziou, and J.K. Aronson, 2013, “Problems with Using Mechanisms to Solve the Problem of Extrapolation”, _Theoretical Medicine and Bioethics_, 34: 275–291.
+* Huber, L., and L. K. Keuck, 2013, “Mutant mice: Experimental organisms as materialized models in biomedicine”, _Studies in History and Philosophy of Science C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 44: 385–391.
+* Hull, David, 1974, _Philosophy of Biological Science_, Englewood Cliffs, NJ: Prentice-Hall.
+* Hull, David L. and Michael Ruse (eds.), 2007, _Cambridge Companion to Philosophy of Biology_, New York: Cambridge University Press.
+* Huettemann, Andreas and Alan C. Love, 2011, “Aspects of Reductive Explanation in Biological Science: Instrinsicality, Fundamentality, and Temporality”, _British Journal for the Philosophy of Science_, 62: 519–549.
+* Ilan, Yaron, 2020, “Order Through Disorder: The Characteristic Variability of Systems”, _Frontiers in Cell and Developmental Biology_, 8: 186.
+* Illari, Phyllis McKay and Jon Williamson, 2012, “What is a Mechanism? Thinking about Mechanisms _Across_ the Sciences”, _European Journal for Philosophy of Science_, 2(1): 119–135.
+* International HapMap Consortium, 2003, “The International HapMap Project”, _Nature_, 426: 789–796.
+* International Human Genome Sequencing Consortium, 2001, “Initial Sequencing and Analysis of the Human Genome”, _Nature_, 409: 860–921.
+* Ioannidis, Stavros and Stathis Psillos, 2017, “In defense of methodological mechanism”, _Axiomathes_, 27: 601–619.
+* Jablonka, Eva, 2002, “Information: Its Interpretation, Its Inheritance, and Its Sharing”, _Philosophy of Science_, 69: 578–605.
+* Jacob, Francois, 1988, _The Statue Within: An Autobiography_, New York: Basic Books.
+* Jacob, Francois and Jacques Monod, 1961, “Genetic Regulatory Mechanisms in the Synthesis of Proteins”, _Journal of Molecular Biology_, 3: 318–356.
+* Jaeger, Johannes, David Irons and Nick Monk, 2012 “The inheritance of process: a dynamical systems approach”, _Journal of Experimental Zoology Part B Molecular and Developmental Evolution_, 318: 591–612.
+* Jaeger, Johannes and Nick Monk 2015, “Everything flows: a process perspective on life”, _EMBO Reports_, 16: 1064–1067.
+* Judson, Horace Freeland, 1980, “Reflections on the Historiography of Molecular Biology”, _Minerv_a 18: 369–421.
 * –––, 1992, “A History of the Science and Technology Behind Gene Mapping and Sequencing”, in Kevles and Hood 1992: 37–80.
-* –––, 1996, *The Eighth Day of Creation: The Makers of the Revolution in Biology*, Expanded Edition. Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.
-* Kay, Lily E., 1993, *The Molecular Vision of Life: Caltech, The Rockefeller Foundation, and The Rise of the New Biology*, New York: Oxford University Press.
-* –––, 2000, *Who Wrote the Book of Life? A History of the Genetic Code*, Stanford, CA: Stanford University Press.
-* Keller, Evelyn Fox, 1990, “Physics and the Emergence of Molecular Biology: A History of Cognitive and Political Synergy”, *Journal of the History of Biology*, 23: 389–409.
-* –––, 1999, “Understanding Development”, *Biology and Philosophy*, 14: 321–330.
-* –––, 2000, *The Century of the Gene*, Cambridge, MA: Harvard University Press.
-* Kendrew, John, 1967, “How Molecular Biology Started”, Review of J. Cairns, G. Stent and J. Watson (eds.), *Phage and the Origins of Molecular Biology*, in *Scientific American*, 216: 141–144.
-* Kevles, Daniel and Leroy Hood (eds.), 1992, *The Code of Codes: Scientific and Social Issues in the Human Genome Project*. Cambridge, MA: Harvard University Press.
-* Kitcher, Philip, 1982, “Genes”, *The British Journal for the Philosophy of Science*, 33: 337–359.
-* –––, 1984, “1953 and All That: A Tale of Two Sciences”, *The Philosophical Review*, 93: 335–373.
-* –––, 1989, “Explanatory Unification and the Causal Structure of the World”, in Philip Kitcher and Wesley Salmon (eds.), *Scientific Explanation*, Minnesota Studies in the Philosophy of Science, v. 13. Minneapolis, MN: University of Minnesota Press, 410–505.
-* –––, 1993, *The Advancement of Science: Science without Legend, Objectivity without Illusions*, New York: Oxford University Press.
-* –––, 1999, “The Hegemony of Molecular Biology”, *Biology and Philosophy*, 14: 195–210.
-* Kohler, Robert E., 1994, *Lords of the Fly*: *Drosophila Genetics and the Experimental Life*, Chicago, IL: University of Chicago Press.
-* Kõiv, Riin, 2020, “Elusive vehicles of genetic representation”, *Biology and Philosophy*, 35(1): 1–24.
-* Kornberg, Arthur, 1989, *For the Love of Enzymes: The Odyssey of a Biochemist*, Cambridge, MA: Harvard University Press.
-* Kupiec, Jean-Jacques, Olivier Gandrillon, Michel Morange and Marc Silberstein (eds.), 2011, *Le hasard au coeur de la cellule: Probabilités, déterminisme, génétique*, Paris: Éditions Matériologiques.
-* LaFollette, H. and N. Shanks, 1996, *Brute Science: Dilemmas of Animal Experimentation*, London: Routledge.
-* Lange, Marc, 2000, *Natural Laws in Scientific Practice*, Oxford: Oxford University Press.
-* Laubichler, Manfred D. and Gunter P. Wagner, 2001, “How Molecular is Molecular Developmental Biology? A Reply to Alex Rosenberg’s Reductionism Redux: Computing the Embryo”, *Biology and Philosophy*, 16: 53–68.
-* Lean, Olive M., 2020, “Binding Specificity and Causal Selection in Drug Design”, *Philosophy of Science*, 87(1): 70–80.
-* Lemoine, Mael, 2017, “Animal extrapolation in preclinical studies: An analysis of the tragic case of TGN1412”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 61: 35–45.
-* Lennox, James G. and Gereon Wolters (eds.), 1995, *Concepts, Theories, and Rationality in the Biological Sciences*, Pittsburgh, PA: University of Pittsburgh Press.
-* Leonelli, Sabina, 2016, *Data-Centric Biology: A Philosophical Study*, Chicago: University of Chicago Press.
-* Lewontin, Richard C., 1968, “Essay Review of *Phage and the Origins of Molecular Biology*”, *Journal of the History of Biology*, 1: 155–161.
-* Little, Peter, 2003, “DNA Sequencing: The Silent Revolution”, in Laura Garwin and Tim Lincoln (eds.), *A Century of Nature: Twenty-one Discoveries that Changed Science and the World*, Chicago, IL: University of Chicago Press.
-* Logan, Cheryl A., 2002, “Before There Were Standards: The Role of Test Animals in the Production of Scientific Generality in Physiology”, *Journal of the History of Biology*, 35: 329–63.
-* Love, Alan C., 2009, “Typology Reconfigured: From the Metaphysics of Essentialism to the Epistemology of Representation”, *Acta Biotheoretica*, 57: 51–57.
-* Love, Alan, I. Brigandt, K. Stotz, D. Schweitzer, and A. Rosenberg, 2008, “Review Symposium of Alex Rosenberg’s *Darwinian Reductionism*”, *Metascience*, 17: 1–26.
-* Love, Alan C. and Marco J. Nathan, 2015, “The Idealization of Causation in Mechanistic Explanation”, *Philosophy of Science*, 82: 761–74.
-* Luc-Germain, Pierre, Emanuele Ratti, and Federico Boem, 2015, “Junk or Functional DNA? Encode and the Function Controversy”, *Biology and Philosophy* 29: 807–831.
-* Luria, Salvador E., 1984, *A Slot Machine, A Broken Test Tube: An Autobiography*, New York: Harper & Row.
-* Machamer, Peter, 2004, “Activities and Causation: The Metaphysics and Epistemology of Mechanisms”, *International Studies in the Philosophy of Science*, 18: 27–39.
-* Machamer, Peter, Lindley Darden, and Carl F. Craver, 2000, “Thinking About Mechanisms”, *Philosophy of Science*, 67: 1–25.
-* Maddox, Brenda, 2002, *Rosalind Franklin: The Dark Lady of DNA*, New York: HarperCollins.
-* Marco, Nathan, 2012, “The Varieties of Molecular Explanation”, *Philosophy of Science*, 79: 233–254.
-* Marcum, James, 2002, “From Heresy to Dogma in Accounts of Opposition to Howard Temin’s DNA Provirus Hypothesis”, *History and Philosophy of the Life Sciences*, 24: 165–192.
-* Marcum, James, 2007, “Experimental Series and the Justification of Temin’s DNA Provirus Hypothesis”, *Synthese*, 154: 259–92.
-* Marder, Eve and Aadam L. Taylor, 2011, “Multiple Models to Capture the Variability in Biological Neurons and Networks”, *Nature Neuroscience*, 14: 133–38.
-* Matlin, Karl S., 2022, *Crossing the Boundaries of Life: Günter Blobel and the Origins of Molecular Cell Biology*, Chicago: University of Chicago Press.
-* Maxam, Allan M. and Walter Gilbert, 1977, “A New Method for Sequencing DNA”, *Proceedings of the National Academy of Sciences (USA)*, 74: 560–564.
-* Maynard Smith, John, 2000, “The Concept of Information in Biology”, *Philosophy of Science*, 67(2): 177–194.
-* McKaughan, Daniel J., 2005, “The Influence of Niels Bohr on Max Delbrueck: Revisiting the Hopes Inspired by ‘Light and Life’”, *ISIS*, 96: 507–529.
-* Meincke, Anne Sophie, 2018, “Autopoiesis Biological Autonomy and the Process View of Life”, *PEuropean Journal of Philosophy of Science*, 9: 5.
-* Meselson, Matthew and Frank A. Stahl, 1958, “The Replication of DNA in *E.coli*”, *Proceedings of the National Academy of Science (USA)*, 44: 671–682.
-* Mitchell, Sandra D., 1997, “Pragmatic Laws”, *Philosophy of Science*, 64: S468–S479.
-* –––, 2009, *Unsimple Truths: Science, Complexity, and Policy*, Chicago: University of Chicago Press.
-* Mitchell, Sandra D. and Angela M. Gronenborn, 2017, “After Fifty Years, Why Are Protein X-ray Crystallographers Still in Business?”, *The British Journal for the Philosophy of Science*, 68: 703–23.
-* Moore, Walter J., 1989, *Schroedinger: Life and Thought*, Cambridge, UK: Cambridge University Press.
-* Morange, Michel, 1997a, “The Transformation of Molecular Biology on Contact with Higher Organisms, 1960–1980: From a Molecular Description to a Molecular Explanation”, *History and Philosophy of the Life Sciences*, 19: 369–393.
-* –––, 1997b, “From the Regulatory Vision of Cancer to the Oncogene Paradigm, 1975–1985”, *Journal of the History of Biology*, 30: 1–29.
-* –––, 2006, “Post-genomics, between Reduction and Emergence”, *Synthese*, 151: 355–360.
-* –––, 2008, “The Death of Molecular Biology?”, *History and Philosophy of the Life Sciences*, 30: 31–42.
-* –––, 2020, *The Black Box of Biology: A History of the Molecular Revolution*, Cambridge, MA: Harvard University Press.
-* Morgan, Thomas H., 1926, *The Theory of the Gene*, New Haven, CT: Yale University Press.
-* Morgan, Thomas H., Alfred H. Sturtevant, Hermann J. Muller, and C. B. Bridges, 1915, *The Mechanism of Mendelian Heredity*, New York: Henry Holt and Company.
+* –––, 1996, _The Eighth Day of Creation: The Makers of the Revolution in Biology_, Expanded Edition. Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.
+* Kay, Lily E., 1993, _The Molecular Vision of Life: Caltech, The Rockefeller Foundation, and The Rise of the New Biology_, New York: Oxford University Press.
+* –––, 2000, _Who Wrote the Book of Life? A History of the Genetic Code_, Stanford, CA: Stanford University Press.
+* Keller, Evelyn Fox, 1990, “Physics and the Emergence of Molecular Biology: A History of Cognitive and Political Synergy”, _Journal of the History of Biology_, 23: 389–409.
+* –––, 1999, “Understanding Development”, _Biology and Philosophy_, 14: 321–330.
+* –––, 2000, _The Century of the Gene_, Cambridge, MA: Harvard University Press.
+* Kendrew, John, 1967, “How Molecular Biology Started”, Review of J. Cairns, G. Stent and J. Watson (eds.), _Phage and the Origins of Molecular Biology_, in _Scientific American_, 216: 141–144.
+* Kevles, Daniel and Leroy Hood (eds.), 1992, _The Code of Codes: Scientific and Social Issues in the Human Genome Project_. Cambridge, MA: Harvard University Press.
+* Kitcher, Philip, 1982, “Genes”, _The British Journal for the Philosophy of Science_, 33: 337–359.
+* –––, 1984, “1953 and All That: A Tale of Two Sciences”, _The Philosophical Review_, 93: 335–373.
+* –––, 1989, “Explanatory Unification and the Causal Structure of the World”, in Philip Kitcher and Wesley Salmon (eds.), _Scientific Explanation_, Minnesota Studies in the Philosophy of Science, v. 13. Minneapolis, MN: University of Minnesota Press, 410–505.
+* –––, 1993, _The Advancement of Science: Science without Legend, Objectivity without Illusions_, New York: Oxford University Press.
+* –––, 1999, “The Hegemony of Molecular Biology”, _Biology and Philosophy_, 14: 195–210.
+* Kohler, Robert E., 1994, _Lords of the Fly_: _Drosophila Genetics and the Experimental Life_, Chicago, IL: University of Chicago Press.
+* Kõiv, Riin, 2020, “Elusive vehicles of genetic representation”, _Biology and Philosophy_, 35(1): 1–24.
+* Kornberg, Arthur, 1989, _For the Love of Enzymes: The Odyssey of a Biochemist_, Cambridge, MA: Harvard University Press.
+* Kupiec, Jean-Jacques, Olivier Gandrillon, Michel Morange and Marc Silberstein (eds.), 2011, _Le hasard au coeur de la cellule: Probabilités, déterminisme, génétique_, Paris: Éditions Matériologiques.
+* LaFollette, H. and N. Shanks, 1996, _Brute Science: Dilemmas of Animal Experimentation_, London: Routledge.
+* Lange, Marc, 2000, _Natural Laws in Scientific Practice_, Oxford: Oxford University Press.
+* Laubichler, Manfred D. and Gunter P. Wagner, 2001, “How Molecular is Molecular Developmental Biology? A Reply to Alex Rosenberg’s Reductionism Redux: Computing the Embryo”, _Biology and Philosophy_, 16: 53–68.
+* Lean, Olive M., 2020, “Binding Specificity and Causal Selection in Drug Design”, _Philosophy of Science_, 87(1): 70–80.
+* Lemoine, Mael, 2017, “Animal extrapolation in preclinical studies: An analysis of the tragic case of TGN1412”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 61: 35–45.
+* Lennox, James G. and Gereon Wolters (eds.), 1995, _Concepts, Theories, and Rationality in the Biological Sciences_, Pittsburgh, PA: University of Pittsburgh Press.
+* Leonelli, Sabina, 2016, _Data-Centric Biology: A Philosophical Study_, Chicago: University of Chicago Press.
+* Lewontin, Richard C., 1968, “Essay Review of _Phage and the Origins of Molecular Biology_”, _Journal of the History of Biology_, 1: 155–161.
+* Little, Peter, 2003, “DNA Sequencing: The Silent Revolution”, in Laura Garwin and Tim Lincoln (eds.), _A Century of Nature: Twenty-one Discoveries that Changed Science and the World_, Chicago, IL: University of Chicago Press.
+* Logan, Cheryl A., 2002, “Before There Were Standards: The Role of Test Animals in the Production of Scientific Generality in Physiology”, _Journal of the History of Biology_, 35: 329–63.
+* Love, Alan C., 2009, “Typology Reconfigured: From the Metaphysics of Essentialism to the Epistemology of Representation”, _Acta Biotheoretica_, 57: 51–57.
+* Love, Alan, I. Brigandt, K. Stotz, D. Schweitzer, and A. Rosenberg, 2008, “Review Symposium of Alex Rosenberg’s _Darwinian Reductionism_”, _Metascience_, 17: 1–26.
+* Love, Alan C. and Marco J. Nathan, 2015, “The Idealization of Causation in Mechanistic Explanation”, _Philosophy of Science_, 82: 761–74.
+* Luc-Germain, Pierre, Emanuele Ratti, and Federico Boem, 2015, “Junk or Functional DNA? Encode and the Function Controversy”, _Biology and Philosophy_ 29: 807–831.
+* Luria, Salvador E., 1984, _A Slot Machine, A Broken Test Tube: An Autobiography_, New York: Harper & Row.
+* Machamer, Peter, 2004, “Activities and Causation: The Metaphysics and Epistemology of Mechanisms”, _International Studies in the Philosophy of Science_, 18: 27–39.
+* Machamer, Peter, Lindley Darden, and Carl F. Craver, 2000, “Thinking About Mechanisms”, _Philosophy of Science_, 67: 1–25.
+* Maddox, Brenda, 2002, _Rosalind Franklin: The Dark Lady of DNA_, New York: HarperCollins.
+* Marco, Nathan, 2012, “The Varieties of Molecular Explanation”, _Philosophy of Science_, 79: 233–254.
+* Marcum, James, 2002, “From Heresy to Dogma in Accounts of Opposition to Howard Temin’s DNA Provirus Hypothesis”, _History and Philosophy of the Life Sciences_, 24: 165–192.
+* Marcum, James, 2007, “Experimental Series and the Justification of Temin’s DNA Provirus Hypothesis”, _Synthese_, 154: 259–92.
+* Marder, Eve and Aadam L. Taylor, 2011, “Multiple Models to Capture the Variability in Biological Neurons and Networks”, _Nature Neuroscience_, 14: 133–38.
+* Matlin, Karl S., 2022, _Crossing the Boundaries of Life: Günter Blobel and the Origins of Molecular Cell Biology_, Chicago: University of Chicago Press.
+* Maxam, Allan M. and Walter Gilbert, 1977, “A New Method for Sequencing DNA”, _Proceedings of the National Academy of Sciences (USA)_, 74: 560–564.
+* Maynard Smith, John, 2000, “The Concept of Information in Biology”, _Philosophy of Science_, 67(2): 177–194.
+* McKaughan, Daniel J., 2005, “The Influence of Niels Bohr on Max Delbrueck: Revisiting the Hopes Inspired by ‘Light and Life’”, _ISIS_, 96: 507–529.
+* Meincke, Anne Sophie, 2018, “Autopoiesis Biological Autonomy and the Process View of Life”, _PEuropean Journal of Philosophy of Science_, 9: 5.
+* Meselson, Matthew and Frank A. Stahl, 1958, “The Replication of DNA in _E.coli_”, _Proceedings of the National Academy of Science (USA)_, 44: 671–682.
+* Mitchell, Sandra D., 1997, “Pragmatic Laws”, _Philosophy of Science_, 64: S468–S479.
+* –––, 2009, _Unsimple Truths: Science, Complexity, and Policy_, Chicago: University of Chicago Press.
+* Mitchell, Sandra D. and Angela M. Gronenborn, 2017, “After Fifty Years, Why Are Protein X-ray Crystallographers Still in Business?”, _The British Journal for the Philosophy of Science_, 68: 703–23.
+* Moore, Walter J., 1989, _Schroedinger: Life and Thought_, Cambridge, UK: Cambridge University Press.
+* Morange, Michel, 1997a, “The Transformation of Molecular Biology on Contact with Higher Organisms, 1960–1980: From a Molecular Description to a Molecular Explanation”, _History and Philosophy of the Life Sciences_, 19: 369–393.
+* –––, 1997b, “From the Regulatory Vision of Cancer to the Oncogene Paradigm, 1975–1985”, _Journal of the History of Biology_, 30: 1–29.
+* –––, 2006, “Post-genomics, between Reduction and Emergence”, _Synthese_, 151: 355–360.
+* –––, 2008, “The Death of Molecular Biology?”, _History and Philosophy of the Life Sciences_, 30: 31–42.
+* –––, 2020, _The Black Box of Biology: A History of the Molecular Revolution_, Cambridge, MA: Harvard University Press.
+* Morgan, Thomas H., 1926, _The Theory of the Gene_, New Haven, CT: Yale University Press.
+* Morgan, Thomas H., Alfred H. Sturtevant, Hermann J. Muller, and C. B. Bridges, 1915, _The Mechanism of Mendelian Heredity_, New York: Henry Holt and Company.
 * Moss, Lenny, 2001, “Deconstructing the Gene and Reconstructing Molecular Developmental Systems”, in Oyama, Griffiths, and Gray 2001: 85–97.
-* –––, 2002, *What Genes Can’t Do*, Cambridge, MA: MIT Press.
-* Muller, Hermann J., [1926] 1929, “The Gene as the Basis of Life”, *Proceedings of the International Congress of Plant Science*, 1: 897–921.
-* –––, 1927, “Artificial Transmutation of the Gene”, *Science*, 66: 84–87.
-* –––, 1936, “Physics in the Attack on the Fundamental Problems of Genetics”, *Scientific Monthly*, 44: 210–214.
-* Nagel, Ernest, 1961, *The Structure of Science*, New York: Harcourt, Brace and World.
-* Nelson, Nicole C., 2013, “Modeling mouse, human, and discipline: Epistemic scaffolds in animal behavior genetics”, *Social Studies of Science*, 43: 3–29.
-* –––, 2018, *Model Behavior: Animal Experiments, Complexity, and the Genetics of Psychiatric Disorders*. Chicago: University of Chicago Press.
-* Neumann-Held, Eva M., 1999, “The Gene is Dead—Long Live the Gene: Conceptualizing Genes the Constructivist Way”, in P. Koslowski (ed.), *Sociobiology and Bioeconomics: The Theory of Evolution in Biological and Economic Theory*, Berlin: Springer-Verlag, 105–137.
+* –––, 2002, _What Genes Can’t Do_, Cambridge, MA: MIT Press.
+* Muller, Hermann J., \[1926] 1929, “The Gene as the Basis of Life”, _Proceedings of the International Congress of Plant Science_, 1: 897–921.
+* –––, 1927, “Artificial Transmutation of the Gene”, _Science_, 66: 84–87.
+* –––, 1936, “Physics in the Attack on the Fundamental Problems of Genetics”, _Scientific Monthly_, 44: 210–214.
+* Nagel, Ernest, 1961, _The Structure of Science_, New York: Harcourt, Brace and World.
+* Nelson, Nicole C., 2013, “Modeling mouse, human, and discipline: Epistemic scaffolds in animal behavior genetics”, _Social Studies of Science_, 43: 3–29.
+* –––, 2018, _Model Behavior: Animal Experiments, Complexity, and the Genetics of Psychiatric Disorders_. Chicago: University of Chicago Press.
+* Neumann-Held, Eva M., 1999, “The Gene is Dead—Long Live the Gene: Conceptualizing Genes the Constructivist Way”, in P. Koslowski (ed.), _Sociobiology and Bioeconomics: The Theory of Evolution in Biological and Economic Theory_, Berlin: Springer-Verlag, 105–137.
 * –––, 2001, “Let’s Talk About Genes: The Process Molecular Gene Concept and Its Context”, in Oyama, Griffiths, and Gray 2001: 69–84.
-* Nicholson, Daniel J. and John Dupre (eds.), 2018, *Everything Flows. Towards a Processual Philosophy of Biology*, Oxford: Oxford University Press.
+* Nicholson, Daniel J. and John Dupre (eds.), 2018, _Everything Flows. Towards a Processual Philosophy of Biology_, Oxford: Oxford University Press.
 * Ohta, N. and T. Kuroiwa, 2002, “Origin and Evolution of the Plant Genome; with a Focus on Mitochondrial and Plastid Genomes”, in Yoshikawa, Ogasawara, and Satoh 2002: 201–211.
-* Okasha, Samir, forthcoming, “Cancer and the Levels of Selection”, *The British Journal for the Philosophy of Science*. [[Publisher’s preprint of Okasha forthcoming available online.](https://www.journals.uchicago.edu/doi/abs/10.1086/716178?journalCode=bjps)]
-* Olby, Robert, 1970, “Francis Crick, DNA, and the Central Dogma”, in Gerald Holton (ed.), *The Twentieth Century Sciences*, New York: W.W. Norton, 227–280.
-* –––, 1979, “The Significance of the Macromolecules in the Historiography of Molecular Biology”, *History and Philosophy of Life Sciences*, 1:185–198.
-* –––, 1990, “The Molecular Revolution in Biology”, in R.C. Olby, G.N. Cantor, J.R.R. Christie, and M. J.S. Hodge (eds.), *Companion to the History of Modern Science*, New York: Routledge, 503–520.
-* –––, 1994, *The Path to the Double Helix: The Discovery of DNA*, Revised Edition, Mineola, New York: Dover.
-* –––, 2003, “Quiet Debut for the Double Helix”, *Nature*, 421: 402–405.
-* –––, 2009, *Francis Crick: Hunter of Life’s Secrets*, Woodbury, NY: Cold Spring Harbor Laboratory Press.
-* Oyama, Susan, Paul E. Griffiths, and Russell Gray (eds.), 2001, *Cycles of Contingency: Developmental Systems and Evolution*, Cambridge, MA: MIT Press.
-* Pauling, Linus, 1939, *The Nature of the Chemical Bond*, Ithaca, NY: Cornell University Press.
-* –––, 1970, “Fifty Years of Progress in Structural Chemistry and Molecular Biology”, *Daedalus*, 99: 988–1014.
-* Pearl, Judea, and Elias Bareinboim, 2014, “External Validity: From do-Calculus to Transportability across Populations”, *Statistical Science*, 29: 579–95.
-* Pigliucci, Massimo, 2013, “Between Holism and Reductionism: A Philosophical Primer on Emergence”, *Biological Journal of the Linnean Society*, 112(2): 261–267.
-* Piotrowska, Monika, 2009, “What Does It Mean to Be 75% Pumpkin? The Units of Comparative Genomics”, *Philosophy of Science*, 76: 838–850.
-* –––, 2013, “From Humanized Mice to Human Disease: Guiding Extrapolation from Model to Target”, *Biology and Philosophy*, 28: 439–455.
-* Plomin, Robert, John C. DeFries, Ian W. Craig, and Peter McGuffin (eds.), 2003, *Behavioral Genetics in the Post-genomic Era*, Washington, DC: American Psychological Association.
-* Podolsky, Scott H. and Alfred I. Tauber, 1997, *The Generation of Diversity: Clonal Selection Theory and the Rise of Molecular Immunology*, Cambridge, MA: Harvard University Press.
-* Pontius, J.U. et al., 2007, “Initial Sequence and Comparative Analysis of the Cat Genome”, *Genome Research*, 17: 1675–1689.
-* Popper, Karl, 1965, *The Logic of Scientific Discovery*. New York: Harper and Row.
-* Portin, Peter, 1993, “The Concept of the Gene: Short History and Present Status”, *The Quarterly Review of Biology*, 68: 173–223.
-* Powell, Alexander, Maureen A. O’Malley, Staffan Mueller-Wille, Jane Calvert, and John Dupre, 2007, “Disciplinary Baptisms: A Comparison of the Naming Stories of Genetics, Molecular Biology, Genomics, and Systems Biology”, *History and Philosophy of the Life Science*s 29: 5–32.
-* Powell, Alexander and John Dupre, 2009, “From Molecules to Systems: The Importance of Looking Both Ways”, *Studies in the History and Philosophy of Biological and Biomedical Sciences*, 40: 54–64.
-* Pradeu, Thomas, Bertrand Daignan-Fornier, Andrew Ewald, Pierre-Luc Germain, Samir Okasha, Anya Plutynski, Sébastien Benzekry, Marta Bertolaso, Mina Bissell, Joel S. Brown, Benjamin Chin-Yee, Ian Chin-Yee, Hans Clevers, Laurent Cognet, Marie Darrason, Emmanuel Fargen, Jean Feunteun, Jérôme Galon, Elodie Giroux, Sara Green, Fridolin Gross, Fanny Jaulin, Rob Knight, Ezio Laconi, Nicolas Larmonier, Carlo Maley, Alberto Mantovani, Violaine Moreau, Pierre Nassoy, Elena Rondeau, David Santamaria, Catherine M. Sawai, Andrei Seluanov, Gregory D. Sepich-Poore, Vanja Sisirak, Eric Solary, Sarah Yvonnet and Lucie Laplane, 2023, “Reuniting Philosophy and Science to Advance Cancer Research”, *Biological Reviews of the Cambridge Philosophical Society*, 98(5): 1668–1686. doi:10.1111/brv.12971
-* Rabinow, Paul, 1996, *Making PCR: A Story of Biotechnology*, Chicago, IL: University of Chicago Press.
-* Reiss, Julian, 2010, “Review of *Across the Boundaries: Extrapolation in Biology and Social Science*, Daniel P. Steel. Oxford University Press, 2007”, *Economics and Philosophy*, 26: 382–390.
-* Rheinberger, Hans-Joerg, 1997, “Experimental Complexity in Biology: Some Epistemological and Historical Remarks”, *Philosophy of Science*, 64: S245–S54.
-* –––, 1997, *Towards a History of Epistemic Things: Synthesizing Proteins in the Test Tube*, Stanford, CA: Stanford University Press.
-* Rheinberger, Hans-Jorg and Staffan Muller-Wille, 2018, *The Gene: From Genetics to Postgenomics*, Chicago, IL: The University of Chicago Press.
-* Richardson, Robert and Achim Stephan, 2007, “Mechanism and Mechanical Explanation in Systems Biology”, in Fred Boogerd, Frank Bruggeman, Jan-Hendrik Hofmeyr and Hans Westerhoff (eds.), *Systems Biology: Philosophical Foundations*, New York: Elsevier, 123–144.
-* Robert, Jason Scott, 2001, “Interpreting the Homeobox: Metaphors of Gene Action and Activation in Development and Evolution”, *Evolution and Development*, 3: 287–295.
-* –––, 2004, *Embryology, Epigenesis, and Evolution: Taking Development Seriously*, New York: Cambridge University Press.
-* Roll-Hansen, Nils, 1978, “*Drosophila* Genetics: A Reductionist Research Program”, *Journal of the History of Biology*, 11:159–210.
-* –––, 2000, “The Application of Complementarity to Biology: From Niels Bohr to Max Delbrueck”, *Historical Studies in the Physical and Biological Sciences*, 30: 417–442.
-* Rosenberg, Alex, 1997, “Reductionism Redux: Computing the Embryo”, *Biology and Philosophy*, 12: 445–470.
-* –––, 2006, *Darwinian Reductionism: Or, How to Stop Worrying and Love Molecular Biology*, Chicago, IL: University of Chicago Press.
-* –––, 2020, *Reduction and Mechanism*. Cambridge: Cambridge University Press.
-* Ross, Lauren N., 2018, “Causal Concepts in Biology: How Pathways Differ from Mechanisms and Why it Matters” *The British Journal for the Philosophy of Science*, 72 (1): 131–58.
-* Russo, Federica, 2010, “Comparative Process Tracing: Yet Another Virtue of Mechanisms?” *Journal of Economic Methodology*, 17: 81–87.
-* Saiki, Randall K., Stephen Scharf, Fred Faloona, Kary B. Mullis, Glenn T. Horn, Henry A. Erlich, and Norman Arnheim, 1985, “Enzymatic Amplification of Beta-Globin Genomic Sequences and Restriction Site Analysis for Diagnosis of Sickle Cell Anemia”, *Science*, 230: 1350–1354.
-* Salmon, Wesley, 1984, *Scientific Explanation and the Causal Structure of the World*, Princeton, NJ: Princeton University Press.
-* –––, 1998, *Causality and Explanation*, Oxford: Oxford University Press.
-* Sanger, Frederick, 1988, “Sequences, Sequences, and Sequences”, *Annual Review of Biochemistry*, 57: 1–28.
-* Sapp, Jan, 1992, “Essay Review: Portraying Molecular Biology”, *Journal of the History of Biology*, 25: 149–155.
-* Sarkar, Sahotra, 1991, “*What is Life?* Revisited”, *BioScience*, 41: 631–634.
-* ––– (ed.), 1992, *The Founders of Evolutionary Genetics*, Dordrecht: Kluwer.
+* Okasha, Samir, forthcoming, “Cancer and the Levels of Selection”, _The British Journal for the Philosophy of Science_. \[[Publisher’s preprint of Okasha forthcoming available online.](https://www.journals.uchicago.edu/doi/abs/10.1086/716178?journalCode=bjps)]
+* Olby, Robert, 1970, “Francis Crick, DNA, and the Central Dogma”, in Gerald Holton (ed.), _The Twentieth Century Sciences_, New York: W.W. Norton, 227–280.
+* –––, 1979, “The Significance of the Macromolecules in the Historiography of Molecular Biology”, _History and Philosophy of Life Sciences_, 1:185–198.
+* –––, 1990, “The Molecular Revolution in Biology”, in R.C. Olby, G.N. Cantor, J.R.R. Christie, and M. J.S. Hodge (eds.), _Companion to the History of Modern Science_, New York: Routledge, 503–520.
+* –––, 1994, _The Path to the Double Helix: The Discovery of DNA_, Revised Edition, Mineola, New York: Dover.
+* –––, 2003, “Quiet Debut for the Double Helix”, _Nature_, 421: 402–405.
+* –––, 2009, _Francis Crick: Hunter of Life’s Secrets_, Woodbury, NY: Cold Spring Harbor Laboratory Press.
+* Oyama, Susan, Paul E. Griffiths, and Russell Gray (eds.), 2001, _Cycles of Contingency: Developmental Systems and Evolution_, Cambridge, MA: MIT Press.
+* Pauling, Linus, 1939, _The Nature of the Chemical Bond_, Ithaca, NY: Cornell University Press.
+* –––, 1970, “Fifty Years of Progress in Structural Chemistry and Molecular Biology”, _Daedalus_, 99: 988–1014.
+* Pearl, Judea, and Elias Bareinboim, 2014, “External Validity: From do-Calculus to Transportability across Populations”, _Statistical Science_, 29: 579–95.
+* Pigliucci, Massimo, 2013, “Between Holism and Reductionism: A Philosophical Primer on Emergence”, _Biological Journal of the Linnean Society_, 112(2): 261–267.
+* Piotrowska, Monika, 2009, “What Does It Mean to Be 75% Pumpkin? The Units of Comparative Genomics”, _Philosophy of Science_, 76: 838–850.
+* –––, 2013, “From Humanized Mice to Human Disease: Guiding Extrapolation from Model to Target”, _Biology and Philosophy_, 28: 439–455.
+* Plomin, Robert, John C. DeFries, Ian W. Craig, and Peter McGuffin (eds.), 2003, _Behavioral Genetics in the Post-genomic Era_, Washington, DC: American Psychological Association.
+* Podolsky, Scott H. and Alfred I. Tauber, 1997, _The Generation of Diversity: Clonal Selection Theory and the Rise of Molecular Immunology_, Cambridge, MA: Harvard University Press.
+* Pontius, J.U. et al., 2007, “Initial Sequence and Comparative Analysis of the Cat Genome”, _Genome Research_, 17: 1675–1689.
+* Popper, Karl, 1965, _The Logic of Scientific Discovery_. New York: Harper and Row.
+* Portin, Peter, 1993, “The Concept of the Gene: Short History and Present Status”, _The Quarterly Review of Biology_, 68: 173–223.
+* Powell, Alexander, Maureen A. O’Malley, Staffan Mueller-Wille, Jane Calvert, and John Dupre, 2007, “Disciplinary Baptisms: A Comparison of the Naming Stories of Genetics, Molecular Biology, Genomics, and Systems Biology”, _History and Philosophy of the Life Science_s 29: 5–32.
+* Powell, Alexander and John Dupre, 2009, “From Molecules to Systems: The Importance of Looking Both Ways”, _Studies in the History and Philosophy of Biological and Biomedical Sciences_, 40: 54–64.
+* Pradeu, Thomas, Bertrand Daignan-Fornier, Andrew Ewald, Pierre-Luc Germain, Samir Okasha, Anya Plutynski, Sébastien Benzekry, Marta Bertolaso, Mina Bissell, Joel S. Brown, Benjamin Chin-Yee, Ian Chin-Yee, Hans Clevers, Laurent Cognet, Marie Darrason, Emmanuel Fargen, Jean Feunteun, Jérôme Galon, Elodie Giroux, Sara Green, Fridolin Gross, Fanny Jaulin, Rob Knight, Ezio Laconi, Nicolas Larmonier, Carlo Maley, Alberto Mantovani, Violaine Moreau, Pierre Nassoy, Elena Rondeau, David Santamaria, Catherine M. Sawai, Andrei Seluanov, Gregory D. Sepich-Poore, Vanja Sisirak, Eric Solary, Sarah Yvonnet and Lucie Laplane, 2023, “Reuniting Philosophy and Science to Advance Cancer Research”, _Biological Reviews of the Cambridge Philosophical Society_, 98(5): 1668–1686. doi:10.1111/brv.12971
+* Rabinow, Paul, 1996, _Making PCR: A Story of Biotechnology_, Chicago, IL: University of Chicago Press.
+* Reiss, Julian, 2010, “Review of _Across the Boundaries: Extrapolation in Biology and Social Science_, Daniel P. Steel. Oxford University Press, 2007”, _Economics and Philosophy_, 26: 382–390.
+* Rheinberger, Hans-Joerg, 1997, “Experimental Complexity in Biology: Some Epistemological and Historical Remarks”, _Philosophy of Science_, 64: S245–S54.
+* –––, 1997, _Towards a History of Epistemic Things: Synthesizing Proteins in the Test Tube_, Stanford, CA: Stanford University Press.
+* Rheinberger, Hans-Jorg and Staffan Muller-Wille, 2018, _The Gene: From Genetics to Postgenomics_, Chicago, IL: The University of Chicago Press.
+* Richardson, Robert and Achim Stephan, 2007, “Mechanism and Mechanical Explanation in Systems Biology”, in Fred Boogerd, Frank Bruggeman, Jan-Hendrik Hofmeyr and Hans Westerhoff (eds.), _Systems Biology: Philosophical Foundations_, New York: Elsevier, 123–144.
+* Robert, Jason Scott, 2001, “Interpreting the Homeobox: Metaphors of Gene Action and Activation in Development and Evolution”, _Evolution and Development_, 3: 287–295.
+* –––, 2004, _Embryology, Epigenesis, and Evolution: Taking Development Seriously_, New York: Cambridge University Press.
+* Roll-Hansen, Nils, 1978, “_Drosophila_ Genetics: A Reductionist Research Program”, _Journal of the History of Biology_, 11:159–210.
+* –––, 2000, “The Application of Complementarity to Biology: From Niels Bohr to Max Delbrueck”, _Historical Studies in the Physical and Biological Sciences_, 30: 417–442.
+* Rosenberg, Alex, 1997, “Reductionism Redux: Computing the Embryo”, _Biology and Philosophy_, 12: 445–470.
+* –––, 2006, _Darwinian Reductionism: Or, How to Stop Worrying and Love Molecular Biology_, Chicago, IL: University of Chicago Press.
+* –––, 2020, _Reduction and Mechanism_. Cambridge: Cambridge University Press.
+* Ross, Lauren N., 2018, “Causal Concepts in Biology: How Pathways Differ from Mechanisms and Why it Matters” _The British Journal for the Philosophy of Science_, 72 (1): 131–58.
+* Russo, Federica, 2010, “Comparative Process Tracing: Yet Another Virtue of Mechanisms?” _Journal of Economic Methodology_, 17: 81–87.
+* Saiki, Randall K., Stephen Scharf, Fred Faloona, Kary B. Mullis, Glenn T. Horn, Henry A. Erlich, and Norman Arnheim, 1985, “Enzymatic Amplification of Beta-Globin Genomic Sequences and Restriction Site Analysis for Diagnosis of Sickle Cell Anemia”, _Science_, 230: 1350–1354.
+* Salmon, Wesley, 1984, _Scientific Explanation and the Causal Structure of the World_, Princeton, NJ: Princeton University Press.
+* –––, 1998, _Causality and Explanation_, Oxford: Oxford University Press.
+* Sanger, Frederick, 1988, “Sequences, Sequences, and Sequences”, _Annual Review of Biochemistry_, 57: 1–28.
+* Sapp, Jan, 1992, “Essay Review: Portraying Molecular Biology”, _Journal of the History of Biology_, 25: 149–155.
+* Sarkar, Sahotra, 1991, “_What is Life?_ Revisited”, _BioScience_, 41: 631–634.
+* ––– (ed.), 1992, _The Founders of Evolutionary Genetics_, Dordrecht: Kluwer.
 * –––, 1996a, “Philosophy, History, and Molecular Biology—Introduction”, in Sarkar 1996d: 1–13.
 * –––, 1996b, “Biological Information: A Skeptical Look at Some Central Dogmas of Molecular Biology”, in Sarkar 1996d: 187–231.
-* –––, 1996c, “Decoding ‘Coding’—Information and DNA”, *BioScience*, 46: 857–864.
-* ––– (ed.), 1996d, *The Philosophy and History of Molecular Biology: New Perspectives*, Dordrecht: Kluwer.
-* –––, 1998, *Genetics and Reductionism*, Cambridge, UK: Cambridge University Press.
-* –––, 2000, “Information in Genetics and Developmental Biology”, *Philosophy of Science*, 67: 208–213.
-* –––, 2005, *Molecular Models of Life: Philosophical Papers on Molecular Biology*, Cambridge, MA: MIT Press.
-* Schaffner, Kenneth, 1974a, “Logic of Discovery and Justification in Regulatory Genetics”, *Studies in History and Philosophy of Science*, 4: 349–385.
-* –––, 1974b, “The Peripherality of Reductionism in the Development of Molecular Genetics”, *Journal of the History of Biolog*y 7: 111–139.
-* –––, 1986, “Exemplar Reasoning about Biological Models and Diseases: A Relation Between the Philosophy of Medicine and Philosophy of Science”, *Journal of Medicine and Philosophy*, 11: 63–80.
-* –––, 1993, *Discovery and Explanation in Biology and Medicine*, Chicago, IL: University of Chicago Press.
-* –––, 2001, “Extrapolation from Animal Models: Social Life, Sex, and SuperModels”, in P.K. Machamer, R. Grush, P. McLaughlin (eds.), *Theory and Method in the Neurosciences*, Pittsburgh, PA: University of Pittsburgh Press, 200–230.
-* –––, 2006, “Reduction: The Cheshire Cat Problem and a Return to Roots”, *Synthese*, 151: 377–402.
-* Schroedinger, Erwin, 1944, *What is Life?*, Cambridge, UK: Cambridge University Press.
-* Shannon, C.E. and W. Weaver, 1949, *The Mathematical Theory of Communication*, Urbana: University of Illinois Press.
-* Silberstein, Michael and Anthony Chemero 2013, “Constraints on Localization and Decomposition as Explanatory Strategies in the Biological Sciences”, *Philosophy of Science*, 80: 958–970.
-* Siva, Nayanah, 2008, “1000 genomes project”, *Nature Biotechnology*, 26(3): 256.
-* Sloan, Philip R. and Brandon Fogel (eds.), 2011, *Creating a Physical Biology: The Three-Man Paper and Early Molecular Biology*. Chicago, IL: The University of Chicago Press.
-* Smart, J.C.C., 1963, *Philosophy and Scientific Realism*, London: Routledge and Kegan Paul.
-* Sober, Elliott, 1997, “Two Outbreaks of Lawlessness in Recent Philosophy of Biology”, *Philosophy of Science*, 64: S458–S467.
-* Southern, Edwin Mellor, 1975, “Detection of Specific Sequences among DNA Fragments Separated by Gel Electrophoresis”, *Journal of Molecular Biology*, 98: 503–517.
+* –––, 1996c, “Decoding ‘Coding’—Information and DNA”, _BioScience_, 46: 857–864.
+* ––– (ed.), 1996d, _The Philosophy and History of Molecular Biology: New Perspectives_, Dordrecht: Kluwer.
+* –––, 1998, _Genetics and Reductionism_, Cambridge, UK: Cambridge University Press.
+* –––, 2000, “Information in Genetics and Developmental Biology”, _Philosophy of Science_, 67: 208–213.
+* –––, 2005, _Molecular Models of Life: Philosophical Papers on Molecular Biology_, Cambridge, MA: MIT Press.
+* Schaffner, Kenneth, 1974a, “Logic of Discovery and Justification in Regulatory Genetics”, _Studies in History and Philosophy of Science_, 4: 349–385.
+* –––, 1974b, “The Peripherality of Reductionism in the Development of Molecular Genetics”, _Journal of the History of Biolog_y 7: 111–139.
+* –––, 1986, “Exemplar Reasoning about Biological Models and Diseases: A Relation Between the Philosophy of Medicine and Philosophy of Science”, _Journal of Medicine and Philosophy_, 11: 63–80.
+* –––, 1993, _Discovery and Explanation in Biology and Medicine_, Chicago, IL: University of Chicago Press.
+* –––, 2001, “Extrapolation from Animal Models: Social Life, Sex, and SuperModels”, in P.K. Machamer, R. Grush, P. McLaughlin (eds.), _Theory and Method in the Neurosciences_, Pittsburgh, PA: University of Pittsburgh Press, 200–230.
+* –––, 2006, “Reduction: The Cheshire Cat Problem and a Return to Roots”, _Synthese_, 151: 377–402.
+* Schroedinger, Erwin, 1944, _What is Life?_, Cambridge, UK: Cambridge University Press.
+* Shannon, C.E. and W. Weaver, 1949, _The Mathematical Theory of Communication_, Urbana: University of Illinois Press.
+* Silberstein, Michael and Anthony Chemero 2013, “Constraints on Localization and Decomposition as Explanatory Strategies in the Biological Sciences”, _Philosophy of Science_, 80: 958–970.
+* Siva, Nayanah, 2008, “1000 genomes project”, _Nature Biotechnology_, 26(3): 256.
+* Sloan, Philip R. and Brandon Fogel (eds.), 2011, _Creating a Physical Biology: The Three-Man Paper and Early Molecular Biology_. Chicago, IL: The University of Chicago Press.
+* Smart, J.C.C., 1963, _Philosophy and Scientific Realism_, London: Routledge and Kegan Paul.
+* Sober, Elliott, 1997, “Two Outbreaks of Lawlessness in Recent Philosophy of Biology”, _Philosophy of Science_, 64: S458–S467.
+* Southern, Edwin Mellor, 1975, “Detection of Specific Sequences among DNA Fragments Separated by Gel Electrophoresis”, _Journal of Molecular Biology_, 98: 503–517.
 * Srinivasan, J. and R.J. Sommer, 2002, “From Evolutionary Developmental Biology to Genomics: Towards a Genome Map of the Free-Living Nematode”, in Yoshikawa, Ogasawara, and Satoh 2002: 101–110.
-* Steel, Daniel, 2008, *Across the Boundaries. Extrapolation in Biology and Social Science*. Oxford: Oxford University Press.
-* Stegenga, Jacob, 2011, “The Chemical Characterization of the Gene: Vicissitudes of Evidential Assessment”, *History and Philosophy of the Life Sciences*, 33: 105–127.
-* Stegmann, Ulrich E., 2005, “Genetic Information as Instructional Content”, *Philosophy of Science*, 72: 425–443.
-* –––, 2009, “DNA, Inference, and Information”, *British Journal for the Philosophy of Science*, 60: 1–17.
-* Stent, Gunther S., 1968, “That Was the Molecular Biology that Was”, *Science*, 160: 390–395.
-* –––, 1969, *The Coming of the Golden Age: A View of the End of Progress*, Garden City, New York: American Museum of Natural History Press.
-* Sterelny, Kim and Paul E. Griffiths, 1999, *Sex and Death: An Introduction to Philosophy of Biology*, Chicago, IL: University of Chicago Press.
-* Stevens, Hallam, 2013, *Life Out of Sequence: A Data-Driven History of Bioinformatics*. Chicago, IL: University of Chicago Press.
-* Stotz, Karola, 2006, “With Genes Like That, Who Needs an Environment? Postgenomics’ Arguments for the ‘Ontogeny of Information’”, *Philosophy of Science*, 73: 905–917.
-* Stotz, Karola, Paul E. Griffiths, and Rob E. Knight, 2004, “How Biologists Conceptualize Genes: An Empirical Study”, *Studies in the History and Philosophy of Biological and Biomedical Sciences*, 35: 647–673.
-* Summers, William C., 2023, *The American Phage Group: Founders of Molecular Biology*, New Haven: Yale University Press.
-* Sustar, Predrag, 2007, “Crick’s Notion of Genetic Information and the ‘Central Dogma’ of Molecular Biology”, *British Journal for the Philosophy of Science*, 58: 13–24.
-* Tabery, James, 2004, “Synthesizing Activities and Interactions in the Concept of a Mechanism”, *Philosophy of Science*, 71: 1–15,
-* –––, 2009, “Difference Mechanisms: Explaining Variation with Mechanisms”, *Biology and Philosophy*, 24: 645–664.
-* –––, 2014, *Beyond Versus: The Struggle to Understand the Interaction of Nature and Nurture*. Cambridge: The MIT Press.
+* Steel, Daniel, 2008, _Across the Boundaries. Extrapolation in Biology and Social Science_. Oxford: Oxford University Press.
+* Stegenga, Jacob, 2011, “The Chemical Characterization of the Gene: Vicissitudes of Evidential Assessment”, _History and Philosophy of the Life Sciences_, 33: 105–127.
+* Stegmann, Ulrich E., 2005, “Genetic Information as Instructional Content”, _Philosophy of Science_, 72: 425–443.
+* –––, 2009, “DNA, Inference, and Information”, _British Journal for the Philosophy of Science_, 60: 1–17.
+* Stent, Gunther S., 1968, “That Was the Molecular Biology that Was”, _Science_, 160: 390–395.
+* –––, 1969, _The Coming of the Golden Age: A View of the End of Progress_, Garden City, New York: American Museum of Natural History Press.
+* Sterelny, Kim and Paul E. Griffiths, 1999, _Sex and Death: An Introduction to Philosophy of Biology_, Chicago, IL: University of Chicago Press.
+* Stevens, Hallam, 2013, _Life Out of Sequence: A Data-Driven History of Bioinformatics_. Chicago, IL: University of Chicago Press.
+* Stotz, Karola, 2006, “With Genes Like That, Who Needs an Environment? Postgenomics’ Arguments for the ‘Ontogeny of Information’”, _Philosophy of Science_, 73: 905–917.
+* Stotz, Karola, Paul E. Griffiths, and Rob E. Knight, 2004, “How Biologists Conceptualize Genes: An Empirical Study”, _Studies in the History and Philosophy of Biological and Biomedical Sciences_, 35: 647–673.
+* Summers, William C., 2023, _The American Phage Group: Founders of Molecular Biology_, New Haven: Yale University Press.
+* Sustar, Predrag, 2007, “Crick’s Notion of Genetic Information and the ‘Central Dogma’ of Molecular Biology”, _British Journal for the Philosophy of Science_, 58: 13–24.
+* Tabery, James, 2004, “Synthesizing Activities and Interactions in the Concept of a Mechanism”, _Philosophy of Science_, 71: 1–15,
+* –––, 2009, “Difference Mechanisms: Explaining Variation with Mechanisms”, _Biology and Philosophy_, 24: 645–664.
+* –––, 2014, _Beyond Versus: The Struggle to Understand the Interaction of Nature and Nurture_. Cambridge: The MIT Press.
 * Taniguchi, H., Y. Murata et al., 2002, “Toward the Global Analysis of Cellular Signaling Pathways”, in Yoshikawa, Ogasawara and Satoh 2002: 43–50.
-* Vallejos-Baccelliere, Gabriel and Davide Vecchi, 2024, “Searching for Protein Folding Mechanisms: On the Insoluble Contrast between Thermodynamic and Kinetic Explanatory Approaches”, in João L. Cordovil, Gil Santos and Davide Vecchi (eds.), *New Mechanism: Explanation, Emergence and Reduction, Cham: Springer.*
-* van Holde, Kensal E. and Jordanka Zlatanova, 2018, *The Evolution of Molecular Biology: The Search for the Secrets of Life*. London, UK: Academic Press.
-* Van Regenmortel, Marc H. and David L. Hull (eds.), 2002, *Promises and Limits of Reductionism in the Biomedical Sciences*, Chichester, UK: Wiley.
-* Venter, J. Craig et al., 2001, “The Sequence of the Human Genome”, *Science*, 291: 1304–1351.
-* Waters, C. Kenneth, 1990, “Why the Anti-reductionist Consensus Won’t Survive the Case of Classical Mendelian Genetics”, in Arthur Fine, Micky Forbes and Linda Wessels (eds.), *Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1: 125–139.
-* –––, 1994, “Genes Made Molecular”, *Philosophy of Science*, 61: 163–185.
-* –––, 1998, “Causal Regularities in the Biological World of Contingent Distributions”, *Biology and Philosophy*, 13: 5–36.
-* –––, 2000, “Molecules Made Biological”, *Revue Internationale de Philosophie*, 4: 539–564.
-* –––, 2004, “What Was Classical Genetics?”, *Studies in History and Philosophy of Science*, 35: 783–809.
-* –––, 2007, “Causes that Make a Difference”, *Journal of Philosophy*, 104: 551–579.
-* –––, 2008, “Beyond Theoretical Reduction and Layer-Cake Antireduction: How DNA Retooled Genetics and Transformed Biological Practices”, Michael Ruse (ed.), *The Oxford Handbook of Philosophy of Biology*, New York: Oxford University Press, 238–262.
-* Waterson, R.H. et al., 2002, “Initial Sequencing and Comparative Analysis of the Mouse Genome”, *Nature*, 420: 520–562.
-* Watson, James D., 1965, *Molecular Biology of the Gene*, New York: W.A. Benjamin.
-* –––, 1968, *The Double Helix*, New York: New American Library.
-* –––, 2002, *Genes, Girls, and Gamow*, New York: Knopf.
-* –––, 2007, *Avoid Boring People: Lessons from a Life in Science*, New York: Alfred A Knopf.
-* Watson, J.D. and F.H.C. Crick, 1953a, “A Structure for Deoxyribose Nucleic Acid”, *Nature*, 171: 737–738.
-* Watson, J.D. and F.H.C. Crick, 1953b, “Genetical Implications of the Structure of Deoxyribonucleic Acid”, *Nature*, 171: 964–967.
-* Watson, James D., Nancy H. Hopkins, Jeffrey W. Roberts, Joan Argetsinger Steitz, and Alan M. Weiner, 1988, *Molecular Biology of the Gene*, Fourth Edition. Menlo Park, CA: Benjamin/Cummings.
-* Weber, Marcel, 2005, *Philosophy of Experimental Biology*, Cambridge, UK: Cambridge University Press.
-* –––, 2006, “The ‘Central Dogma of Molecular Biology’ as a Thesis of Causal Specificity”, *History and Philosophy of the Life Sciences*, 28: 565–610.
-* –––, 2008, “Critical Notice: *Darwinian Reductionism*”, *Biology and Philosophy*, 23: 143–152.
-* –––, 2009, “The Crux of Crucial Experiments: Duhem’s Problems and Inference to the Best Explanation”, *British Journal for the Philosophy of Science*, 60: 19–49.
-* –––, 2017, “Which Kind of Causal Specificity Matters Biologically?” *Philosophy of Science*, 84(3): 574–585.
-* –––, 2023, “The Reduction of Classical Experimental Embryology to Molecular Developmental Biology: A Tale of Three Sciences”, in William C. Bausman, Janella K. Baxter, and Oliver M. Lean (eds.), *From Biological Practice to Scientific Metaphysics*, Minneapolis: University of Minnesota Press.
-* Weiner, Jonathan, 1999, *Time, Love, and Memory: A Great Biologist and His Quest for the Origins of Behavior*, New York: Alfred A. Knopf.
-* Wilkins, Maurice, 2003, *The Third Man of the Double Helix: The Autobiography of Maurice Wilkins*, New York: Oxford University Press.
-* Wimsatt, William, 1972, “Complexity and Organization”, in Kenneth F. Schaffner and Robert S. Cohen (eds.), *PSA 1972, Proceedings of the Philosophy of Science Association*, Dordrecht: Reidel, 67–86.
-* –––, 1976, “Reductive Explanation: A Functional Account”, in A.C. Michalos, C.A. Hooker, G. Pearce, and R.S. Cohen (eds.), *Philosophy of Science Association 1974*, Dordrecht: Reidel, 671–710. Reprinted in Elliott Sober (ed.), 1984, *Conceptual Issues in Evolutionary Biology: An Anthology*, First Edition. Cambridge, MA: MIT Press, 477–508.
-* –––, 1992, “Golden Generalities and Co-opted Anomalies: Haldane vs. Muller and the *Drosophila* Group on the Theory and Practice of Linkage Mapping”, in Sarkar 1992: 107–166.
-* –––, 1998, “Simple Systems and Phylogenetic Diversity”, *Philosophy of Science*, 65: 267–275.
-* Witkowski, Jan (ed.), 2005, *The Inside Story: DNA to RNA to Protein*, Woodbury, NY: Cold Spring Harbor Laboratory Press.
-* Woodward, James, 2002, “What Is a Mechanism? A Counterfactual Account”, *Philosophy of Science*, 69: S336–S378.
-* –––, 2010, “Causation in Biology: Stability, Specificity, and the Choice of Levels of Explanation”, *Biology and Philosophy*, 25: 287–318.
-* Würbel, Hanno, 2000, “Behaviour and the Standardization Fallacy”, *Nature Genetics*, 26: 263.
-* Yoshikawa, H., N. Ogasawara, and N. Satoh (eds.), 2002, *Genome Science: Towards a New Paradigm?*, Amsterdam: Elsevier
+* Vallejos-Baccelliere, Gabriel and Davide Vecchi, 2024, “Searching for Protein Folding Mechanisms: On the Insoluble Contrast between Thermodynamic and Kinetic Explanatory Approaches”, in João L. Cordovil, Gil Santos and Davide Vecchi (eds.), _New Mechanism: Explanation, Emergence and Reduction, Cham: Springer._
+* van Holde, Kensal E. and Jordanka Zlatanova, 2018, _The Evolution of Molecular Biology: The Search for the Secrets of Life_. London, UK: Academic Press.
+* Van Regenmortel, Marc H. and David L. Hull (eds.), 2002, _Promises and Limits of Reductionism in the Biomedical Sciences_, Chichester, UK: Wiley.
+* Venter, J. Craig et al., 2001, “The Sequence of the Human Genome”, _Science_, 291: 1304–1351.
+* Waters, C. Kenneth, 1990, “Why the Anti-reductionist Consensus Won’t Survive the Case of Classical Mendelian Genetics”, in Arthur Fine, Micky Forbes and Linda Wessels (eds.), _Proceedings of the Biennial Meeting of the Philosophy of Science Association_, 1: 125–139.
+* –––, 1994, “Genes Made Molecular”, _Philosophy of Science_, 61: 163–185.
+* –––, 1998, “Causal Regularities in the Biological World of Contingent Distributions”, _Biology and Philosophy_, 13: 5–36.
+* –––, 2000, “Molecules Made Biological”, _Revue Internationale de Philosophie_, 4: 539–564.
+* –––, 2004, “What Was Classical Genetics?”, _Studies in History and Philosophy of Science_, 35: 783–809.
+* –––, 2007, “Causes that Make a Difference”, _Journal of Philosophy_, 104: 551–579.
+* –––, 2008, “Beyond Theoretical Reduction and Layer-Cake Antireduction: How DNA Retooled Genetics and Transformed Biological Practices”, Michael Ruse (ed.), _The Oxford Handbook of Philosophy of Biology_, New York: Oxford University Press, 238–262.
+* Waterson, R.H. et al., 2002, “Initial Sequencing and Comparative Analysis of the Mouse Genome”, _Nature_, 420: 520–562.
+* Watson, James D., 1965, _Molecular Biology of the Gene_, New York: W.A. Benjamin.
+* –––, 1968, _The Double Helix_, New York: New American Library.
+* –––, 2002, _Genes, Girls, and Gamow_, New York: Knopf.
+* –––, 2007, _Avoid Boring People: Lessons from a Life in Science_, New York: Alfred A Knopf.
+* Watson, J.D. and F.H.C. Crick, 1953a, “A Structure for Deoxyribose Nucleic Acid”, _Nature_, 171: 737–738.
+* Watson, J.D. and F.H.C. Crick, 1953b, “Genetical Implications of the Structure of Deoxyribonucleic Acid”, _Nature_, 171: 964–967.
+* Watson, James D., Nancy H. Hopkins, Jeffrey W. Roberts, Joan Argetsinger Steitz, and Alan M. Weiner, 1988, _Molecular Biology of the Gene_, Fourth Edition. Menlo Park, CA: Benjamin/Cummings.
+* Weber, Marcel, 2005, _Philosophy of Experimental Biology_, Cambridge, UK: Cambridge University Press.
+* –––, 2006, “The ‘Central Dogma of Molecular Biology’ as a Thesis of Causal Specificity”, _History and Philosophy of the Life Sciences_, 28: 565–610.
+* –––, 2008, “Critical Notice: _Darwinian Reductionism_”, _Biology and Philosophy_, 23: 143–152.
+* –––, 2009, “The Crux of Crucial Experiments: Duhem’s Problems and Inference to the Best Explanation”, _British Journal for the Philosophy of Science_, 60: 19–49.
+* –––, 2017, “Which Kind of Causal Specificity Matters Biologically?” _Philosophy of Science_, 84(3): 574–585.
+* –––, 2023, “The Reduction of Classical Experimental Embryology to Molecular Developmental Biology: A Tale of Three Sciences”, in William C. Bausman, Janella K. Baxter, and Oliver M. Lean (eds.), _From Biological Practice to Scientific Metaphysics_, Minneapolis: University of Minnesota Press.
+* Weiner, Jonathan, 1999, _Time, Love, and Memory: A Great Biologist and His Quest for the Origins of Behavior_, New York: Alfred A. Knopf.
+* Wilkins, Maurice, 2003, _The Third Man of the Double Helix: The Autobiography of Maurice Wilkins_, New York: Oxford University Press.
+* Wimsatt, William, 1972, “Complexity and Organization”, in Kenneth F. Schaffner and Robert S. Cohen (eds.), _PSA 1972, Proceedings of the Philosophy of Science Association_, Dordrecht: Reidel, 67–86.
+* –––, 1976, “Reductive Explanation: A Functional Account”, in A.C. Michalos, C.A. Hooker, G. Pearce, and R.S. Cohen (eds.), _Philosophy of Science Association 1974_, Dordrecht: Reidel, 671–710. Reprinted in Elliott Sober (ed.), 1984, _Conceptual Issues in Evolutionary Biology: An Anthology_, First Edition. Cambridge, MA: MIT Press, 477–508.
+* –––, 1992, “Golden Generalities and Co-opted Anomalies: Haldane vs. Muller and the _Drosophila_ Group on the Theory and Practice of Linkage Mapping”, in Sarkar 1992: 107–166.
+* –––, 1998, “Simple Systems and Phylogenetic Diversity”, _Philosophy of Science_, 65: 267–275.
+* Witkowski, Jan (ed.), 2005, _The Inside Story: DNA to RNA to Protein_, Woodbury, NY: Cold Spring Harbor Laboratory Press.
+* Woodward, James, 2002, “What Is a Mechanism? A Counterfactual Account”, _Philosophy of Science_, 69: S336–S378.
+* –––, 2010, “Causation in Biology: Stability, Specificity, and the Choice of Levels of Explanation”, _Biology and Philosophy_, 25: 287–318.
+* Würbel, Hanno, 2000, “Behaviour and the Standardization Fallacy”, _Nature Genetics_, 26: 263.
+* Yoshikawa, H., N. Ogasawara, and N. Satoh (eds.), 2002, _Genome Science: Towards a New Paradigm?_, Amsterdam: Elsevier
 * Zallen, Doris T., 1996, “Redrawing the Boundaries of Molecular Biology: The Case of Photosynthesis”, in Sarkar 1996d: 47–65.
-* Zhang, Guojie, E.D. Jarvis, and M. Thomas P. Gilbert, 2014, “A Flock of Genomes: Introduction to Special Issue”, *Science*, 346: 1308–1309.
+* Zhang, Guojie, E.D. Jarvis, and M. Thomas P. Gilbert, 2014, “A Flock of Genomes: Introduction to Special Issue”, _Science_, 346: 1308–1309.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=molecular-biology). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/molecular-biology/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=molecular-biology&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/molecular-biology/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=molecular-biology).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/molecular-biology/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=molecular-biology\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/molecular-biology/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Elof Carlson video interview](http://www.dnaftb.org/27/av.html) (on Muller’s Research), *DNA from the Beginning*.
-* [Hershey-Chase Experiment](http://highered.mheducation.com/olcweb/cgi/pluginpop.cgi?it=swf::535::535::/sites/dl/free/0072437316/120076/bio21.swf::Hershey+and+Chase+Experiment) (flash), The McGraw-Hill Companies.
+* [Elof Carlson video interview](http://www.dnaftb.org/27/av.html) (on Muller’s Research), _DNA from the Beginning_.
+* [Hershey-Chase Experiment](http://highered.mheducation.com/olcweb/cgi/pluginpop.cgi?it=swf::535::535::/sites/dl/free/0072437316/120076/bio21.swf::Hershey+and+Chase+Experiment) (flash), The McGraw-Hill Companies.
 * [Sanger Method of DNA Sequencing](http://www.dnalc.org/view/15479-Sanger-method-of-DNA-sequencing-3D-animation-with-narration.html), DNA Learning Center.
 * [The Semi-Conservative Replication of DNA](https://www.ibiology.org/genetics-and-gene-regulation/semi-conservative-replication/), iBioMagazine.
-* [The Southern Blot, Medical Research Council](https://www.youtube.com/watch?v=57q_KZdgpIw), YouTube video on the discovery of the structure of DNA.
+* [The Southern Blot, Medical Research Council](https://www.youtube.com/watch?v=57q\_KZdgpIw), YouTube video on the discovery of the structure of DNA.
 
 ## Related Entries
 
-[adaptationism](https://plato.stanford.edu/entries/adaptationism/) | [biological development: theories of](https://plato.stanford.edu/entries/theories-biological-development/) | [biology: experiment in](https://plato.stanford.edu/entries/biology-experiment/) | [biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | [causation: and manipulability](https://plato.stanford.edu/entries/causation-mani/) | [cell biology, philosophy of](https://plato.stanford.edu/entries/cell-biology/) | [chemistry, philosophy of](https://plato.stanford.edu/entries/chemistry/) | [developmental biology](https://plato.stanford.edu/entries/biology-developmental/) | [developmental biology: evolution and development](https://plato.stanford.edu/entries/evolution-development/) | [Duhem, Pierre](https://plato.stanford.edu/entries/duhem/) | [evolution](https://plato.stanford.edu/entries/evolution/) | [feminist philosophy, interventions: philosophy of biology](https://plato.stanford.edu/entries/feminist-philosophy-biology/) | [gene](https://plato.stanford.edu/entries/gene/) | [genetics](https://plato.stanford.edu/entries/genetics/) | [genetics: molecular](https://plato.stanford.edu/entries/molecular-genetics/) | [genomics and postgenomics](https://plato.stanford.edu/entries/genomics/) | [heritability](https://plato.stanford.edu/entries/heritability/) | [human genome project](https://plato.stanford.edu/entries/human-genome/) | [immunology, philosophy of](https://plato.stanford.edu/entries/immunology/) | [information: biological](https://plato.stanford.edu/entries/information-biological/) | [inheritance systems](https://plato.stanford.edu/entries/inheritance-systems/) | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/) | [life](https://plato.stanford.edu/entries/life/) | [mechanism in science](https://plato.stanford.edu/entries/science-mechanisms/) | [models in science](https://plato.stanford.edu/entries/models-science/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [psychiatry, philosophy of](https://plato.stanford.edu/entries/psychiatry/) | [reduction, scientific](https://plato.stanford.edu/entries/scientific-reduction/) | [reduction, scientific: in biology](https://plato.stanford.edu/entries/reduction-biology/) | [replication and reproduction](https://plato.stanford.edu/entries/replication/) | [scientific discovery](https://plato.stanford.edu/entries/scientific-discovery/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [scientific method](https://plato.stanford.edu/entries/scientific-method/) | [systems and synthetic biology, philosophy of](https://plato.stanford.edu/entries/systems-synthetic-biology/)
+[adaptationism](https://plato.stanford.edu/entries/adaptationism/) | [biological development: theories of](https://plato.stanford.edu/entries/theories-biological-development/) | [biology: experiment in](https://plato.stanford.edu/entries/biology-experiment/) | [biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | [causation: and manipulability](https://plato.stanford.edu/entries/causation-mani/) | [cell biology, philosophy of](https://plato.stanford.edu/entries/cell-biology/) | [chemistry, philosophy of](https://plato.stanford.edu/entries/chemistry/) | [developmental biology](https://plato.stanford.edu/entries/biology-developmental/) | [developmental biology: evolution and development](https://plato.stanford.edu/entries/evolution-development/) | [Duhem, Pierre](https://plato.stanford.edu/entries/duhem/) | [evolution](https://plato.stanford.edu/entries/evolution/) | [feminist philosophy, interventions: philosophy of biology](https://plato.stanford.edu/entries/feminist-philosophy-biology/) | [gene](https://plato.stanford.edu/entries/gene/) | [genetics](https://plato.stanford.edu/entries/genetics/) | [genetics: molecular](https://plato.stanford.edu/entries/molecular-genetics/) | [genomics and postgenomics](https://plato.stanford.edu/entries/genomics/) | [heritability](https://plato.stanford.edu/entries/heritability/) | [human genome project](https://plato.stanford.edu/entries/human-genome/) | [immunology, philosophy of](https://plato.stanford.edu/entries/immunology/) | [information: biological](https://plato.stanford.edu/entries/information-biological/) | [inheritance systems](https://plato.stanford.edu/entries/inheritance-systems/) | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/) | [life](https://plato.stanford.edu/entries/life/) | [mechanism in science](https://plato.stanford.edu/entries/science-mechanisms/) | [models in science](https://plato.stanford.edu/entries/models-science/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [psychiatry, philosophy of](https://plato.stanford.edu/entries/psychiatry/) | [reduction, scientific](https://plato.stanford.edu/entries/scientific-reduction/) | [reduction, scientific: in biology](https://plato.stanford.edu/entries/reduction-biology/) | [replication and reproduction](https://plato.stanford.edu/entries/replication/) | [scientific discovery](https://plato.stanford.edu/entries/scientific-discovery/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [scientific method](https://plato.stanford.edu/entries/scientific-method/) | [systems and synthetic biology, philosophy of](https://plato.stanford.edu/entries/systems-synthetic-biology/)
 
-[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
-Tudor Baetu <[*Tudor-Mihai.Baetu@uqtr.ca*](mailto:Tudor-Mihai%2eBaetu%40uqtr%2eca)>  
-[Monika Piotrowska](http://www.albany.edu/philosophy/faculty.shtml#piotrowska) <[*mpiotrowska@albany.edu*](mailto:mpiotrowska%40albany%2eedu)>  
-[James Tabery](https://faculty.utah.edu/u0578517-JAMES_TABERY/biography/index.hml)
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
+Tudor Baetu <[_Tudor-Mihai.Baetu@uqtr.ca_](mailto:Tudor-Mihai%2eBaetu%40uqtr%2eca)>\
+[Monika Piotrowska](http://www.albany.edu/philosophy/faculty.shtml#piotrowska) <[_mpiotrowska@albany.edu_](mailto:mpiotrowska%40albany%2eedu)>\
+[James Tabery](https://faculty.utah.edu/u0578517-JAMES\_TABERY/biography/index.hml)

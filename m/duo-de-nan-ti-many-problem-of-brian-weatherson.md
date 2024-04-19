@@ -1,29 +1,27 @@
 # 多的难题 many, problem of (Brian Weatherson)
 
-
-*首次发表于2003年1月9日；实质性修订于2023年8月31日。*
+_首次发表于2003年1月9日；实质性修订于2023年8月31日。_
 
 正如任何飞出云层的人所知，云的边界在近距离看起来比在地面上看起来要模糊得多。即使在那里似乎清楚地存在一个有着明确边界的云，实际上有成千上万个水滴既不确定地属于云的一部分，也不确定地在云的外部。考虑任何由云的核心和这些水滴的任意选择组成的物体。它看起来像一朵云，并且在条件允许的情况下会下雨，就像一朵云一样，并且在天空的那一部分，它与任何其他物体一样有资格成为一朵云。但我们不能说每个这样的物体都是一朵云，否则在看起来只有一朵云的地方将会有数百万朵云。而且对于任何在你越近看它的边界越不清晰的东西都是成立的，包括我们通常思考的几乎所有类型的物体，包括人类。尽管这似乎只是一个技术上的难题，甚至是一个微不足道的问题，但已经出现了许多互相矛盾的解决方案。甚至还没有确定解决方案应该来自形而上学、语言哲学还是逻辑学。在这里，我们对各种选择进行概述，并提供与“多的难题”相关的许多主题的链接。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/problem-of-many/#Intr)
-* [ 2. 虚无主义](https://plato.stanford.edu/entries/problem-of-many/#Nihi)
-* [ 3. 人口过剩](https://plato.stanford.edu/entries/problem-of-many/#OverPopu)
-* [ 4. 野蛮主义](https://plato.stanford.edu/entries/problem-of-many/#Brut)
-* [ 5. 相对身份](https://plato.stanford.edu/entries/problem-of-many/#RelaIden)
-* [ 6. 部分同一性](https://plato.stanford.edu/entries/problem-of-many/#PartIden)
-* [ 7. 模糊性](https://plato.stanford.edu/entries/problem-of-many/#Vagu)
-
+* [1. 引言](https://plato.stanford.edu/entries/problem-of-many/#Intr)
+* [2. 虚无主义](https://plato.stanford.edu/entries/problem-of-many/#Nihi)
+* [3. 人口过剩](https://plato.stanford.edu/entries/problem-of-many/#OverPopu)
+* [4. 野蛮主义](https://plato.stanford.edu/entries/problem-of-many/#Brut)
+* [5. 相对身份](https://plato.stanford.edu/entries/problem-of-many/#RelaIden)
+* [6. 部分同一性](https://plato.stanford.edu/entries/problem-of-many/#PartIden)
+* [7. 模糊性](https://plato.stanford.edu/entries/problem-of-many/#Vagu)
   * [7.1 重复论证](https://plato.stanford.edu/entries/problem-of-many/#ArguDupl)
   * [7.2 相似性论证](https://plato.stanford.edu/entries/problem-of-many/#ArguSimi)
   * [7.3 意义论证](https://plato.stanford.edu/entries/problem-of-many/#ArguMean)
 * [8. 合成并非同一性](https://plato.stanford.edu/entries/problem-of-many/#CompNotIden)
-* [ 9. 重新思考部分性](https://plato.stanford.edu/entries/problem-of-many/#RethPart)
-* [ 参考文献](https://plato.stanford.edu/entries/problem-of-many/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/problem-of-many/#Aca)
+* [9. 重新思考部分性](https://plato.stanford.edu/entries/problem-of-many/#RethPart)
+* [参考文献](https://plato.stanford.edu/entries/problem-of-many/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/problem-of-many/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/problem-of-many/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/problem-of-many/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/problem-of-many/#Rel)
 
----
+***
 
 ## 1. 引言
 
@@ -35,14 +33,14 @@
 
 这个悖论的出现是因为在所述的故事中，以下八个主张似乎都是真实的，但它们彼此之间是相互矛盾的。
 
-0. 有几个不同的水滴集合 sk，对于每个这样的集合，不清楚 sk 中的水滴是否形成了云。
-1. 天空中有一朵云。
-2. 天空中最多只有一朵云。
-3. 对于每个集合 sk，存在一个对象 ok，其中 sk 中的水滴组成。
-4. 如果 si 中的水滴组成 oi，sj 中的对象组成 oj，并且 si 和 sk 不相同，则对象 oi 和 oj 不相同。
-5. 如果 oi 是天空中的一朵云，oj 也是天空中的一朵云，并且 oi 与 oj 不相同，那么天空中至少有两朵云。
-6. 如果这些集合 si 中的任何一个集合的成员组成了一朵云，那么对于任何其他集合 sj，如果它的成员组成了一个物体 oj，那么 oj 就是一朵云。
-7. 任何一朵云都由一组水滴组成。
+1. 有几个不同的水滴集合 sk，对于每个这样的集合，不清楚 sk 中的水滴是否形成了云。
+2. 天空中有一朵云。
+3. 天空中最多只有一朵云。
+4. 对于每个集合 sk，存在一个对象 ok，其中 sk 中的水滴组成。
+5. 如果 si 中的水滴组成 oi，sj 中的对象组成 oj，并且 si 和 sk 不相同，则对象 oi 和 oj 不相同。
+6. 如果 oi 是天空中的一朵云，oj 也是天空中的一朵云，并且 oi 与 oj 不相同，那么天空中至少有两朵云。
+7. 如果这些集合 si 中的任何一个集合的成员组成了一朵云，那么对于任何其他集合 sj，如果它的成员组成了一个物体 oj，那么 oj 就是一朵云。
+8. 任何一朵云都由一组水滴组成。
 
 要看到不一致性，注意到通过 1 和 7 之间有一个由水滴组成的云。假设这个云是由 si 中的水滴组成的，并且让 sj 成为任何其他可能形成云的成员的集合（根据前提 0 保证了这样一个集合的存在）。根据 3，sj 中的水滴组成了一个对象 oj。根据 4，oj 与我们最初的云不相同。根据 6，oj 是一个云，并且由于它在天空中是透明的，它是天空中的一个云。根据 5，在天空中至少有两朵云。但这与 2 不一致。解决这个悖论的方法必须提供拒绝其中一个前提的理由，或者拒绝导致矛盾的推理的理由，或者处理这个矛盾的方法。由于在这里没有适用于相信存在矛盾真理的动机，让我们忽略最后一种可能性。由于 0 直接从故事的叙述方式中得出，让我们也忽略这个选项。这留下了八种可能性。
 
@@ -90,7 +88,7 @@ Hudson（2001: 39–44）揭示了过度人口解决方案对人类的一个令�
 
 即使 o1 和 o2 存在，并且是云，并且不是同一朵云，也不能立即得出有两朵云的结论。如果我们将“有两朵云”解析为“存在 x 和 y，其中 x 是一朵云，y 是一朵云，并且 x 不是同一朵云”，那么结论自然会得出。但也许这不是“有两朵云”的正确解析。或者更谨慎地说，也许在所有情境中这都不是正确的解析。根据 D. M. Armstrong（Armstrong 1978，卷 2：37-8）的一些建议，大卫·刘易斯提出了这样的解决方案。对象 o1 和 o2 不是同一朵云，但它们几乎是同一朵云。在日常情况下（AT），“存在一朵云”是一个足够好的解析。
 
- （AT）
+（AT）
 
 存在一朵云，并且所有的云几乎与它相同。
 
@@ -138,7 +136,7 @@ D2.
 
 C.
 
- 好的是一朵云。
+好的是一朵云。
 
 D2 意味着成为一朵云是一种内在属性。这个想法是，通过改变云外的世界，我们并不改变它是否是一朵云。然而，几乎没有理由相信这是真的。而且考虑到它导致了一个相当不可信的结论，即我们认为有一个云的地方实际上有数百万个云，有一些理由相信它是错误的。我们可以直接为同样的结论进行论证。假设更多的水滴聚集在我们原来的云周围。天空中仍然有一朵云，但它明确地包含比原来的云更多的水滴。这些水滴的融合存在，并且我们可以假设它们没有改变它们的内在属性，但它们现在是云的一部分，而不是一朵云。即使某物看起来像一朵云，闻起来像一朵云，下雨像一朵云，它不一定是一朵云，它可能只是云的一部分。
 
@@ -160,7 +158,7 @@ S3.
 
 C.
 
- 好是一朵云。
+好是一朵云。
 
 由于我们只关心条件是否为 oj 是云，所以 ok 也是云，可以明确地假设 oj 是云来进行论证是可以接受的。而根据问题的设定，S3 是保证为真的。那么主要问题是 S2 是否为真。正如 Hudson 所指出的，似乎有一些明显的反例。将云与我浴缸中的一个水滴融合在一起显然不是云，但从大多数标准来看，它们之间只有一个水滴的差异微小。
 
@@ -195,33 +193,21 @@ M2 背后的想法是，词义不是关于现实的原始事实。正如 Jerry F
 随附的联系还使我们能够解释一些其他令人困惑的情况。想象一下，我指向云端并说：“那是一朵云。”直观上，我所说的是真实的，尽管“云”是模糊的，我的指示代词“那”也是如此。（要看到这一点，请注意没有明确的答案可以确定它指的是哪一个云。）在不同的明确化中，“那”指的是不同的云。但在每个明确化中，它指的是在“云”的范围内的云，因此“那是一朵云”是如期的真实。同样，如果我给云取名为“埃德加”，那么类似的技巧使得“埃德加”是模糊的，而“埃德加是一朵云”是明确的真实。因此，随附解决方案使我们能够保留许多关于原始情况的直觉，包括似乎支持多的难题的直觉，而不承认存在数百万朵云。但是，对于这个方案有一些异议。
 
 * 异议：对于模糊性的随附解释理论存在许多有力的异议。
-
   * 回应：这可能是真的，但要概述所有这些异议将远远超出本条目的范围。有关模糊性（随附部分）和索拉特悖论的详细信息，请参阅相关条目。
 * 反对：超值论解决方案使得一些存在量化的句子，比如“天空中有一朵云”，即使没有任何一个实例是确定地真实的，也变得确定地真实。
-
   * 回应：正如刘易斯所说，这很奇怪，但并不比我们在其他情境中学会接受的事情更奇怪。刘易斯将其比作“我欠你一匹马，但没有特定的马是我欠你的。”
 * 反对：这里的边缘连接没有被精确地指定。有什么规则说在两个物体都不能是云之前需要多少重叠？
-
   * 回复：确实，这些联系并没有被明确定义。仔细分析“云”以确定它们是什么将会非常困难。但我们不能准确地说出规则是什么，并不意味着不存在这样的规则，就像我们不能准确地说出知识是什么并不意味着没有人知道任何事情一样。怀疑论不能这么容易地被证明。
 * 反对：这里所依赖的模糊联系没有被解释清楚。在解释的关键阶段，似乎只是假设问题可以解决，并且有一个确定的真理，即天空中有一朵云。
-
   * 回复 1：在哲学中，我们必须从某个地方开始。这种回复可以用两种方式来阐述。有一种“摩尔式”的做法认为，天空中有一朵云的前提比用来反对超值论的论证所需的前提更有说服力。或者，可以声称超值论的主要论证是一种最佳解释的推理。在这种情况下，天空中确切有一朵云的直觉，但是它是不确定的，不确定是哪个对象，这是需要解释的事情，而不是必须被证明的事情。这是罗莎娜·基夫在她的书《模糊理论》中所捍卫的立场。尽管基夫没有直接将这一立场应用于多的难题，但是将她的立场应用于这个问题的方式似乎是清楚的。
   * 回答 2：我们发现大多数词语的边缘连接是由术语的意义提供的推理角色生成的。正是因为从“这堆沙是一堆”和“那堆沙比这堆稍大，并且排列方式大致相同”到“那堆沙是一堆”的推理是普遍可接受的，使得使前提为真而结论为假的明确化是不可接受的。（我们必须将这种推理规则限制在“这”和“那”是普通指示词的情况下，而不是用来挑选任意颗粒融合的情况，否则我们会因为某些原因而得到奇怪的结果，这一点在故事的这一点上应该是熟悉的。）在这里，指定推理规则并不太困难。从“oj 是一朵云”和“oj 和 ok 大量重叠”到“ok 是一朵云”的推理与涉及堆的上述推理一样可接受。事实上，“云”的意义之一就是这种推理是可接受的。（这个回答的大部分内容来自 Sider 2001 和 2003 年关于“最大”谓词的讨论，尽管 Sider 并不是超值论者，他不完全支持这种表述方式。）
 * 反对：第二个回答无法解释“云”与“那”这样的指示词和“Edgar”这样的名称之间的边缘连接的存在。只有当名称和指示词在某种程度上填补了某种推理角色时，它才能解释这些边缘连接的存在。但这与广泛持有的指示词和名称直接指称的观点不一致。（有关名称含义的更多细节，请参见关于命题态度报告和特指命题的条目。）
-
-  * 对此的一个回应是否认名词和指示词直接指称的观点。另一个回应是否认推理角色是对明确化的唯一模糊约束。Weatherson 2003b提出了一种完全符合这一点的理论。该理论借鉴了David Lewis对语义不确定性的一些完全不同的研究的回应。正如许多作者（Quine 1960，Putnam 1981，Kripke 1982）所展示的，说话者使用术语的倾向并不足以使语言像我们通常认为的那样精确。就我们的使用倾向而言，“兔子”可能意味着未分离的兔子部分，“大桶”可能意味着大桶的图像，“加”可能意味着quus。（quus是一个定义在一对数字上的函数，当两个数字都很小时，它返回这两个数字的和，当一个数字足够大时，返回5。）但直观上讲，我们的语言并不是那么不确定：“加”明确地不意味着quus。
-    Lewis（1983, 1984）建议在这里的解决方法是假设一个“自然性”的概念。有时，一个术语 t 表示概念 C1 而不是 C2，并不是因为我们倾向于使用 t 来表示 C1 而不是 C2，而仅仅是因为 C1 是一个更自然的概念。“加”意味着加而不是 quus，仅仅是因为加比 quus 更自然。类似的故事也适用于名称和指示物。想象一下，我指向 Tibbles 这只猫的方向，然后说：“那是埃德加最喜欢的猫。”有一种系统性的（误）解释方式，可以使我所有的话都解释为“那”表示 Tibbles 形状的时空区域，该区域恰好在 Tibbles 的后面一米处。（我们必须重新解释“猫”的含义才能使这个解释成立，但是 Quine 和 Kripke 关于语义不确定性的讨论清楚地说明了如何做到这一点。）因此，在我的用法倾向中，并没有使“那”意味着 Tibbles，而不是“跟随”他周围的时空区域的东西。但是因为 Tibbles 比那个时空区域更自然，“那”确实指的是 Tibbles。正是这种非常自然性使得“猫”表示 Tibbles（而不是后面的时空区域）满足的属性，这一事实在下面将变得重要。
-    同样的故事也可以应用于云。之所以我们的指示物“那”表示云而不是云上方一英里的时空区域，是因为云是一个比那个区域更自然的对象。然而，oi 中的任何一个都不比其他任何一个更自然，所以关于“那”是否选择 oj 或 ok，仍然没有确切的事实。Lewis 的理论并没有消除所有的语义不确定性；当有同样自然的候选项可以作为一个术语的指称，并且每一个候选项都与我们使用该术语的倾向一致时，那么该术语的指称在这些候选项之间就是不确定的。
-    Weatherson 的理论是，每个明确化的作用是任意地使其中一个 oi 比其他的更自然。通常认为，根据明确化，一个术语的指称是直接确定的。根据明确化 P 的事实是，根据它，“云”指称属性 c1。根据 Weatherson 的理论，情况并非如此。明确化所做的是提供一个新的，有些任意的自然性标准，然后根据 Lewis 的内容理论来确定根据明确化的术语的内容。根据明确化 P，“云”和“那个”所指的是那些概念和对象，它们是根据 P 最自然的概念和对象，根据术语的使用方式，我们可以得出这个结论。两个术语之间的协调，即根据每个明确化，“那个”指称“云”的扩展中的一个对象的事实，是由于同一事物，即根据 P 的自然性决定了“云”和“那个”的指称。
+  * 对此的一个回应是否认名词和指示词直接指称的观点。另一个回应是否认推理角色是对明确化的唯一模糊约束。Weatherson 2003b提出了一种完全符合这一点的理论。该理论借鉴了David Lewis对语义不确定性的一些完全不同的研究的回应。正如许多作者（Quine 1960，Putnam 1981，Kripke 1982）所展示的，说话者使用术语的倾向并不足以使语言像我们通常认为的那样精确。就我们的使用倾向而言，“兔子”可能意味着未分离的兔子部分，“大桶”可能意味着大桶的图像，“加”可能意味着quus。（quus是一个定义在一对数字上的函数，当两个数字都很小时，它返回这两个数字的和，当一个数字足够大时，返回5。）但直观上讲，我们的语言并不是那么不确定：“加”明确地不意味着quus。 Lewis（1983, 1984）建议在这里的解决方法是假设一个“自然性”的概念。有时，一个术语 t 表示概念 C1 而不是 C2，并不是因为我们倾向于使用 t 来表示 C1 而不是 C2，而仅仅是因为 C1 是一个更自然的概念。“加”意味着加而不是 quus，仅仅是因为加比 quus 更自然。类似的故事也适用于名称和指示物。想象一下，我指向 Tibbles 这只猫的方向，然后说：“那是埃德加最喜欢的猫。”有一种系统性的（误）解释方式，可以使我所有的话都解释为“那”表示 Tibbles 形状的时空区域，该区域恰好在 Tibbles 的后面一米处。（我们必须重新解释“猫”的含义才能使这个解释成立，但是 Quine 和 Kripke 关于语义不确定性的讨论清楚地说明了如何做到这一点。）因此，在我的用法倾向中，并没有使“那”意味着 Tibbles，而不是“跟随”他周围的时空区域的东西。但是因为 Tibbles 比那个时空区域更自然，“那”确实指的是 Tibbles。正是这种非常自然性使得“猫”表示 Tibbles（而不是后面的时空区域）满足的属性，这一事实在下面将变得重要。 同样的故事也可以应用于云。之所以我们的指示物“那”表示云而不是云上方一英里的时空区域，是因为云是一个比那个区域更自然的对象。然而，oi 中的任何一个都不比其他任何一个更自然，所以关于“那”是否选择 oj 或 ok，仍然没有确切的事实。Lewis 的理论并没有消除所有的语义不确定性；当有同样自然的候选项可以作为一个术语的指称，并且每一个候选项都与我们使用该术语的倾向一致时，那么该术语的指称在这些候选项之间就是不确定的。 Weatherson 的理论是，每个明确化的作用是任意地使其中一个 oi 比其他的更自然。通常认为，根据明确化，一个术语的指称是直接确定的。根据明确化 P 的事实是，根据它，“云”指称属性 c1。根据 Weatherson 的理论，情况并非如此。明确化所做的是提供一个新的，有些任意的自然性标准，然后根据 Lewis 的内容理论来确定根据明确化的术语的内容。根据明确化 P，“云”和“那个”所指的是那些概念和对象，它们是根据 P 最自然的概念和对象，根据术语的使用方式，我们可以得出这个结论。两个术语之间的协调，即根据每个明确化，“那个”指称“云”的扩展中的一个对象的事实，是由于同一事物，即根据 P 的自然性决定了“云”和“那个”的指称。
 * 反对意见（来自 Stephen Schiffer 1998 年）：超值化解释无法处理涉及模糊名称的言论报告。想象一下，Alex 指向云的方向说：“那是一朵云。”后来 Sam 指向同一朵云并说：“Alex 说那是一朵云。”直观上，Sam 的话是明确真实的。但根据超值化解释，只有在每个明确化上都是真实的，它才是明确真实的。因此，必须是真实的，Alex 说 o1 是一朵云，Alex 说 o2 是一朵云，等等，因为这些都是“Alex 说那是一朵云”的明确化。但 Alex 并没有说所有这些事情，因为如果她这样做了，她就会承认天空中有数百万朵云，而当然她并没有，正如超值化解释者一直在争论的那样。
-
   * 回答：这里有一个小的逻辑错误。让 Pi 成为 Sam 的词“that”的一个明确化，使其表示 oi。所有坚持 Sam 的话是确定真实的超估值论者只是承认，根据 Pi，对于每个 i，Alex 说 oi 是一朵云。如果根据 Pi，Alex 的词“that”的指称也是 oi，那么这将是真实的。因此，只要 Sam 的词“that”和 Alex 的词“that”之间存在一个半影连接，超估值论者就可以避免这个反对意见。这种连接可能一开始看起来很神秘，但请注意，Weatherson 的理论预测到确实存在这样的半影连接。因此，如果该理论是可接受的，那么 Schiffer 的反对意见就会失效。
 * 反对意见（来自 Neil Mackinnon 2002 和 Thomas Sattig 2013）：对于我们对山的概念来说，关于山的事实并不是基本的。如果某物是一座山，那么有一些事实使其成为一座山，而附近的事物则不是。然而，在每个“mountain”的明确化中，这将不成立；哪些岩石的融合是一座山将是完全随意的。
-
-  * 回答：确实，在任何明确化的情况下，为什么这些岩石的融合是一座山，而另一座不是，没有原则性的理由。而且确实应该有这样一个原则性的理由；山的事实并不是基本的。但是，这个问题可以通过否认“超值论者的规则适用于任何陈述，不管这个陈述以这种方式没有意义”（Lewis 1993, 173）的理论来避免。刘易斯的想法，或者至少是将刘易斯的想法应用于这个难题，是我们知道如何理解山的事实是非任意的：我们将其理解为一种主张，即存在某种非任意的解释，解释了哪些“山”的明确化是可接受的，哪些是不可接受的。如果我们必须将超值论者的规则应用于每个陈述，包括陈述哪些事物是山并不是任意的这一陈述，这种理解就被排除了。刘易斯的回应是否认规则必须始终被应用。只要有一种明智的方式来理解这个主张，我们就不必坚持将超值论者的机制应用于它。
-    话虽如此，似乎这对每个人（甚至是像刘易斯这样只在有帮助时使用超值论者机制的理论家）都可能是一个问题。萨蒂格本人声称通过使山成为候选者的最大融合来避免这个问题。但对于任何合理的山来说，山与非山之间的边界是模糊的，而且在某种程度上是任意的。在实践中，山的下边界并没有明确标记。同样，在“山”的可接受和不可接受的明确化之间也会存在一些任意性。我们可能不得不接受一些任意性。
+  * 回答：确实，在任何明确化的情况下，为什么这些岩石的融合是一座山，而另一座不是，没有原则性的理由。而且确实应该有这样一个原则性的理由；山的事实并不是基本的。但是，这个问题可以通过否认“超值论者的规则适用于任何陈述，不管这个陈述以这种方式没有意义”（Lewis 1993, 173）的理论来避免。刘易斯的想法，或者至少是将刘易斯的想法应用于这个难题，是我们知道如何理解山的事实是非任意的：我们将其理解为一种主张，即存在某种非任意的解释，解释了哪些“山”的明确化是可接受的，哪些是不可接受的。如果我们必须将超值论者的规则应用于每个陈述，包括陈述哪些事物是山并不是任意的这一陈述，这种理解就被排除了。刘易斯的回应是否认规则必须始终被应用。只要有一种明智的方式来理解这个主张，我们就不必坚持将超值论者的机制应用于它。 话虽如此，似乎这对每个人（甚至是像刘易斯这样只在有帮助时使用超值论者机制的理论家）都可能是一个问题。萨蒂格本人声称通过使山成为候选者的最大融合来避免这个问题。但对于任何合理的山来说，山与非山之间的边界是模糊的，而且在某种程度上是任意的。在实践中，山的下边界并没有明确标记。同样，在“山”的可接受和不可接受的明确化之间也会存在一些任意性。我们可能不得不接受一些任意性。
 * 反对（来自 J. Robert G. Williams 2006）：当我们看着一座普通的山时，我们面前肯定有（至少）一座山。这似乎很明确。模糊解决方案尊重这个事实。但在许多情况下，人们往往会混淆“肯定有一个 F”和“有一个明确的 F”。事实上，关于为什么索里特斯论证似乎错误地具有吸引力的标准解释是因为发生了这种混淆。然而，在模糊解释中，没有明确的山；所有的候选者都是边界案例。因此，按照推理的类比，我们应该期望直觉否认肯定有一座山。而直觉并没有否认，它大声地确认了这一点。至少，这表明了索里特斯悖论的标准解释与多的难题的模糊解决方案之间存在紧张关系。
-
   * 回应：这绝对是许多哲学家提出的观点所面临的问题。正如威廉姆斯强调的那样，这对于多的难题的模糊解决方案本身并不构成问题，但对于该解决方案与广泛认可且独立可信的索里特斯悖论解释的结合来说，确实是一个问题。在他的论文中，尼古拉斯·K·琼斯（2010）认为，正确的回应是放弃说话者通常混淆“肯定有一个 F”和“有一个明确的 F”的想法，而是使用不同的索里特斯解决方案。
 
 空间限制了对超值化解释的所有可能反对意见的进一步讨论，但鼓励感兴趣的读者特别关注尼尔·麦金农对该解释的反对意见（请参阅其他互联网资源部分），该意见表明当确实涉及两个或更多云时，超值化主义者会遇到独特的问题。
@@ -232,7 +218,7 @@ M2 背后的想法是，词义不是关于现实的原始事实。正如 Jerry F
 
 一些理论家认为，问题的根本原因在于我们对部分和整体之间关系的理论是错误的。彼得·范·因瓦根（1990）认为问题在于我们假设部分性关系是确定的。我们假设一个物体是另一个物体的一部分，要么是确定地真实的，要么是确定地错误的。根据范·因瓦根的观点，有时候这两个选项都不适用。他认为，在讨论部分和整体时，我们需要采用某种模糊逻辑。例如，一个物体是另一个物体的一部分可以是真实程度为 0.7。在这种情况下，范·因瓦根说，我们可以得出结论，天空中只有一个云，并且一些“外部”的水滴是它的一部分，真实程度在 0 和 1 之间。这样，我们可以保持这样的直觉，即这些边缘的水滴是否是云的成员是不确定的，而不必接受有数百万个云的观点。请注意，这并不是范·因瓦根对这个悖论版本的说法，因为他认为只有当一个物体是活着的时候，一些简单物体才构成一个物体。对于范·因瓦根来说，就像乌恩格一样，没有云，只有类似云的原子群。但范·因瓦根承认，对于猫或人这样的两种他认为存在的事物，也会出现类似的问题，他运用这个模糊的构成理论来解决那里出现的问题。
 
-传统上，许多哲学家认为这样的解决方案完全不合理。从伯特兰·罗素（1923年）和迈克尔·达梅特（1975年）开始的传统一直认为模糊是一种代表性现象。从这个角度来看，谈论一个特定水滴是否属于一个特定云团是否模糊或不确定是没有意义的。但是近年来，这种传统观点受到了很大压力；参见巴恩斯（2010年）对其中一个最好的挑战，以及索伦森（2013年，第8节）对更多研究的概述。因此，让我们在这里假设谈论部分性本身是否模糊是合法的，而不仅仅是我们对其的表达。然而，正如哈德森（2001年）所指出的，模糊逻辑的运用在这里到底如何有助于解决问题还远未明确。最初，对于每个水滴来说，它们是否是云团的成员是明确的，要么是1，要么是0。因此，存在2n个候选云团，而多的难题就是要找出如何在面对所有这些对象时保持直觉。目前尚不清楚将每个粒子与云团之间的可能关系的范围从2增加到连续多少能够在这里有所帮助，因为现在似乎至少有连续多个类似云团的对象可供选择，每个对象对应于每个水滴到[0, 1]的每个函数，我们需要一种方法来准确地说其中一个是云团。假设某个水滴是云团的一部分，程度为0.7。现在考虑一个与云团非常相似的对象（或可能的对象），只是这个水滴只是以0.6的程度是它的一部分。那个对象存在吗？它是一个云团吗？范·因瓦根以一种类似马科西安残酷组合解决方案的方式说，这样的“对象”甚至不存在。
+传统上，许多哲学家认为这样的解决方案完全不合理。从伯特兰·罗素（1923年）和迈克尔·达梅特（1975年）开始的传统一直认为模糊是一种代表性现象。从这个角度来看，谈论一个特定水滴是否属于一个特定云团是否模糊或不确定是没有意义的。但是近年来，这种传统观点受到了很大压力；参见巴恩斯（2010年）对其中一个最好的挑战，以及索伦森（2013年，第8节）对更多研究的概述。因此，让我们在这里假设谈论部分性本身是否模糊是合法的，而不仅仅是我们对其的表达。然而，正如哈德森（2001年）所指出的，模糊逻辑的运用在这里到底如何有助于解决问题还远未明确。最初，对于每个水滴来说，它们是否是云团的成员是明确的，要么是1，要么是0。因此，存在2n个候选云团，而多的难题就是要找出如何在面对所有这些对象时保持直觉。目前尚不清楚将每个粒子与云团之间的可能关系的范围从2增加到连续多少能够在这里有所帮助，因为现在似乎至少有连续多个类似云团的对象可供选择，每个对象对应于每个水滴到\[0, 1]的每个函数，我们需要一种方法来准确地说其中一个是云团。假设某个水滴是云团的一部分，程度为0.7。现在考虑一个与云团非常相似的对象（或可能的对象），只是这个水滴只是以0.6的程度是它的一部分。那个对象存在吗？它是一个云团吗？范·因瓦根以一种类似马科西安残酷组合解决方案的方式说，这样的“对象”甚至不存在。
 
 马克·约翰斯顿（1992）和 E·J·洛（1982，1995）提出了一种不同类型的解决方案。他们都建议解决这个多的难题的关键是区分云的构成者和云。他们说，将云与任何水滴融合体等同起来是一种范畴错误，因为它们具有不同的身份条件。云可以在其一半水滴转化为人行道上的水坑（或任何正在下雨的土地）的情况下存活下来，它只是一个较小的云，而融合体则不能。正如约翰斯顿所说：“因此，乌格尔坚持而具有讽刺意味的问题'但是我们的典范云 c 是 o1、o2、o3，...中的哪一个？'的正确答案是'没有一个'”（1992：100，编号稍作修改）。
 
@@ -274,7 +260,7 @@ M2 背后的想法是，词义不是关于现实的原始事实。正如 Jerry F
 Hudson 将“x 恰好占据 s”定义如下：
 
 * x 在 s 处有一个部分，
-* 没有空间-时间区域 s *，使得 s*将 s 作为子区域，而 x 在 s*处有一个部分，并且
+* 没有空间-时间区域 s _，使得 s_将 s 作为子区域，而 x 在 s\*处有一个部分，并且
 * 对于 s 的每个子区域 s'，x 在 s'处有一个部分。（Hudson 2001: 63）
 
 一开始，这里似乎没有取得太多成果。我们所做的只是将 4 朵云的问题转化为 3 朵云的问题，用新的、行为奇特的 c 替换了融合体 a + w1 和 a + w2。但这忽略了剩下的原始云的一个相当重要的特征。这三个剩下的原始云可以通过“部分关系”严格排序。这在以前是不可能的，因为 a + w1 和 a + w2 都不是对方的一部分。如果我们采用“云”是一个最大谓词的原则，即没有云可以是另一个云的适当部分，我们现在得出结论，恰好有一个原始云是云，正如我们所期望的那样。
@@ -283,67 +269,66 @@ Hudson 将“x 恰好占据 s”定义如下：
 
 这些观点都不应被视为决定性的反驳。就目前而言，哈德森的解决方案加入了众多提出的“多的难题”的解决方案之列。对于这个年轻的问题来说，这些解决方案的多样性相当令人印象深刻。未来几年是否会看到这些解决方案被反驳而减少，还是被富有想象力的理论推测而增加，还有待观察。
 
-
 ## Bibliography
 
 The numbers after each entry refer to the sections to which that book or article is relevant.
 
-* Armstrong, D. M., 1978, *Universals and Scientific Realism*. 2 vols. Cambridge: Cambridge University Press. [6]
-* Barnes, Elizabeth, 2010, “Ontic Vagueness: A Guide for the Perplexed,” *Noûs*, 44: 601–627. [8]
-* Dummett, Michael, 1975, “Wang’s Paradox,” *Synthese*, 30: 301–324. [8]
-* Eklund, Matti, 2002, “Inconsistent Languages,” *Philosophy and Phenomenological Research*, 64: 251–275. [2, 7]
-* Fine, Kit, 1975, “Vagueness, Truth and Logic,” *Synthese*, 30: 265–300. [7]
-* Fodor, Jerry, 1987, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*. Cambridge, MA: MIT Press. [7]
-* Geach, P. T., 1980, *Reference and Generality*. 3rd edn., Ithaca: Cornell University Press. [1, 5]
-* Horgan, Terrence, 1993, “On What There Isn’t,” *Philosophy and Phenomenological Research*, 53: 693–700. [4]
-* Hudson, Hud, 2001, *A Materialist Metaphysics of the Human Person*, Ithaca: Cornell University Press [1, 2, 3, 4, 5, 6, 7, 8, 9]
-* Johnston, Mark, 1992, “Constitution is Not Identity,” *Mind*, 101: 89–105. [6, 8]
-* Jones, Nicholas J., 2010, *Too Many Cats: The Problem of the Many and the Metaphysics of Vagueness*, Ph.D. Dissertation, Birkbeck College, University of London.[7]
-* Jones, Nicholas J., 2015, “Multiple Constitution“, in *Oxford Studies in Metaphysics 9*, Karen Bennett and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 217–261. [8]
-* Keefe, Rosanna, 2000, *Theories of Vagueness*. Cambridge: Cambridge University Press. [7]
-* Kripke, Saul, 1982, *Wittgenstein on Rules and Private Language*. Cambridge, MA: Harvard University Press. [7]
-* Lewis, David, 1983, “New Work for a Theory of Universals,” *Australasian Journal of Philosophy*, 61: 343–77. [7]
-* Lewis, David, 1984, “Putnam’s Paradox,” *Australasian Journal of Philosophy*, 62: 221–36. [7]
-* Lewis, David, 1993, “Many, but Almost One,” in *Ontology, Causality and Mind: Essays in Honour of D M Armstrong*, John Bacon (ed.), New York: Cambridge University Press. [3, 6, 7, 8]
-* Liebesman, David, 2020, “Double-counting and the problem of the many,” *Philosophical Studies*, first online 13 February 2020; doi:10.1007/s11098-020-01428-9 [6]
-* López de Sa, Dan, 2014, “Lewis vs Lewis on the Problem of the Many,” *Synthese*, 191: 1105–1117. [6]
-* Lowe, E. J., 1982, “The Paradox of the 1,001 Cats,” *Analysis*, 42: 27–30. [8]
-* Lowe, E. J., 1995, “The Problem of the Many and the Vagueness of Constitution,” *Analysis*, 55: 179–82. [8]
-* Marksonian, Ned, 1998, “Brutal Composition,” *Philosophical Studies*, 92: 211–49. [4]
-* McGee, Vann and Brian McLaughlin, 2000, “The Lessons of the Many,” *Philosophical Topics*, 28: 129–51. [7]
-* McKinnon, Neil, 2002, “Supervaluations and the Problem of the Many,” *Philosophical Quarterly*, 52: 320–39. [7]
-* Openshaw, James, 2021, “Thinking about many,” *Synthese*, 199: 2863–2882. [3]
-* Putnam, Hilary, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press. [7]
-* Quine, W. V. O., 1960, *Word and Object*, Cambridge, MA: Harvard University Press. [6, 7]
-* Rettler, Bradley, 2018, “Mereological Nihilism and Puzzles About Material Objects,” *Pacific Philosophical Quarterly*, 99: 842–868. [2]
-* Russell, Bertrand, 1923, “Vagueness,” *Australasian Journal of Philosophy and Psychology*, 1: 84–92. [8]
-* Sandgren, Alexander, forthcoming, “Thought and Talk in a Generous World,” *Ergo*. [3]
-* Sattig, Thomas, 2013, “Vague Objects and the Problem of the Many,” *Metaphysica*, 14: 211–223. [7]
-* Schiffer, Stephen, 1998, “Two Issues of Vagueness,” *The Monist*, 81: 193–214. [7]
-* Sorensen, Roy, 2001, *Vagueness and Contradiction*, Oxford: Oxford University Press. [2, 7]
-* Sorensen, Roy, 2013, “Vagueness,” *The Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Vagueness (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/vagueness/)>.
-* Sutton, C.S., 2015, “Almost One, Overlap and Function,” *Analysis*, 75: 45–52. [6]
-* Unger, Peter, 1980, “The Problem of the Many,” *Midwest Studies in Philosophy*, 5: 411–67. [1, 2, 7]
-* van Inwagen, Peter, 1990, *Material Beings*, Ithaca: Cornell University Press. [4, 8]
-* Williams, J. Robert G., 2006, “An Argument for the Many,” *Proceedings of the Aristotelian Society*, 106: 411–419. [7]
-* Weatherson, Brian, 2003a, “Epistemicism, Parasites and Vague Names” *Australasian Journal of Philosophy*, 81(2): 276–279. [7]
-* Weatherson, Brian, 2003b, “Many Many Problems,” *Philosophical Quarterly*, 53(213): 481–501. [7]
+* Armstrong, D. M., 1978, _Universals and Scientific Realism_. 2 vols. Cambridge: Cambridge University Press. \[6]
+* Barnes, Elizabeth, 2010, “Ontic Vagueness: A Guide for the Perplexed,” _Noûs_, 44: 601–627. \[8]
+* Dummett, Michael, 1975, “Wang’s Paradox,” _Synthese_, 30: 301–324. \[8]
+* Eklund, Matti, 2002, “Inconsistent Languages,” _Philosophy and Phenomenological Research_, 64: 251–275. \[2, 7]
+* Fine, Kit, 1975, “Vagueness, Truth and Logic,” _Synthese_, 30: 265–300. \[7]
+* Fodor, Jerry, 1987, _Psychosemantics: The Problem of Meaning in the Philosophy of Mind_. Cambridge, MA: MIT Press. \[7]
+* Geach, P. T., 1980, _Reference and Generality_. 3rd edn., Ithaca: Cornell University Press. \[1, 5]
+* Horgan, Terrence, 1993, “On What There Isn’t,” _Philosophy and Phenomenological Research_, 53: 693–700. \[4]
+* Hudson, Hud, 2001, _A Materialist Metaphysics of the Human Person_, Ithaca: Cornell University Press \[1, 2, 3, 4, 5, 6, 7, 8, 9]
+* Johnston, Mark, 1992, “Constitution is Not Identity,” _Mind_, 101: 89–105. \[6, 8]
+* Jones, Nicholas J., 2010, _Too Many Cats: The Problem of the Many and the Metaphysics of Vagueness_, Ph.D. Dissertation, Birkbeck College, University of London.\[7]
+* Jones, Nicholas J., 2015, “Multiple Constitution“, in _Oxford Studies in Metaphysics 9_, Karen Bennett and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 217–261. \[8]
+* Keefe, Rosanna, 2000, _Theories of Vagueness_. Cambridge: Cambridge University Press. \[7]
+* Kripke, Saul, 1982, _Wittgenstein on Rules and Private Language_. Cambridge, MA: Harvard University Press. \[7]
+* Lewis, David, 1983, “New Work for a Theory of Universals,” _Australasian Journal of Philosophy_, 61: 343–77. \[7]
+* Lewis, David, 1984, “Putnam’s Paradox,” _Australasian Journal of Philosophy_, 62: 221–36. \[7]
+* Lewis, David, 1993, “Many, but Almost One,” in _Ontology, Causality and Mind: Essays in Honour of D M Armstrong_, John Bacon (ed.), New York: Cambridge University Press. \[3, 6, 7, 8]
+* Liebesman, David, 2020, “Double-counting and the problem of the many,” _Philosophical Studies_, first online 13 February 2020; doi:10.1007/s11098-020-01428-9 \[6]
+* López de Sa, Dan, 2014, “Lewis vs Lewis on the Problem of the Many,” _Synthese_, 191: 1105–1117. \[6]
+* Lowe, E. J., 1982, “The Paradox of the 1,001 Cats,” _Analysis_, 42: 27–30. \[8]
+* Lowe, E. J., 1995, “The Problem of the Many and the Vagueness of Constitution,” _Analysis_, 55: 179–82. \[8]
+* Marksonian, Ned, 1998, “Brutal Composition,” _Philosophical Studies_, 92: 211–49. \[4]
+* McGee, Vann and Brian McLaughlin, 2000, “The Lessons of the Many,” _Philosophical Topics_, 28: 129–51. \[7]
+* McKinnon, Neil, 2002, “Supervaluations and the Problem of the Many,” _Philosophical Quarterly_, 52: 320–39. \[7]
+* Openshaw, James, 2021, “Thinking about many,” _Synthese_, 199: 2863–2882. \[3]
+* Putnam, Hilary, 1981, _Reason, Truth and History_, Cambridge: Cambridge University Press. \[7]
+* Quine, W. V. O., 1960, _Word and Object_, Cambridge, MA: Harvard University Press. \[6, 7]
+* Rettler, Bradley, 2018, “Mereological Nihilism and Puzzles About Material Objects,” _Pacific Philosophical Quarterly_, 99: 842–868. \[2]
+* Russell, Bertrand, 1923, “Vagueness,” _Australasian Journal of Philosophy and Psychology_, 1: 84–92. \[8]
+* Sandgren, Alexander, forthcoming, “Thought and Talk in a Generous World,” _Ergo_. \[3]
+* Sattig, Thomas, 2013, “Vague Objects and the Problem of the Many,” _Metaphysica_, 14: 211–223. \[7]
+* Schiffer, Stephen, 1998, “Two Issues of Vagueness,” _The Monist_, 81: 193–214. \[7]
+* Sorensen, Roy, 2001, _Vagueness and Contradiction_, Oxford: Oxford University Press. \[2, 7]
+* Sorensen, Roy, 2013, “Vagueness,” _The Stanford Encyclopedia of Philosophy_ (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Vagueness (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/vagueness/)>.
+* Sutton, C.S., 2015, “Almost One, Overlap and Function,” _Analysis_, 75: 45–52. \[6]
+* Unger, Peter, 1980, “The Problem of the Many,” _Midwest Studies in Philosophy_, 5: 411–67. \[1, 2, 7]
+* van Inwagen, Peter, 1990, _Material Beings_, Ithaca: Cornell University Press. \[4, 8]
+* Williams, J. Robert G., 2006, “An Argument for the Many,” _Proceedings of the Aristotelian Society_, 106: 411–419. \[7]
+* Weatherson, Brian, 2003a, “Epistemicism, Parasites and Vague Names” _Australasian Journal of Philosophy_, 81(2): 276–279. \[7]
+* Weatherson, Brian, 2003b, “Many Many Problems,” _Philosophical Quarterly_, 53(213): 481–501. \[7]
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=problem-of-many). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/problem-of-many/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=problem-of-many&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/problem-of-many/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=problem-of-many).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/problem-of-many/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=problem-of-many\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/problem-of-many/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[dialetheism](https://plato.stanford.edu/entries/dialetheism/) | [identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/) | [logic: fuzzy](https://plato.stanford.edu/entries/logic-fuzzy/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [propositions: singular](https://plato.stanford.edu/entries/propositions-singular/) | [Sorites paradox](https://plato.stanford.edu/entries/sorites-paradox/) | [vagueness](https://plato.stanford.edu/entries/vagueness/)
+[dialetheism](https://plato.stanford.edu/entries/dialetheism/) | [identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/) | [logic: fuzzy](https://plato.stanford.edu/entries/logic-fuzzy/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [propositions: singular](https://plato.stanford.edu/entries/propositions-singular/) | [Sorites paradox](https://plato.stanford.edu/entries/sorites-paradox/) | [vagueness](https://plato.stanford.edu/entries/vagueness/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Brian Weatherson](http://brian.weatherson.org/) <[*brian@weatherson.org*](mailto:brian%40weatherson%2eorg)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Brian Weatherson](http://brian.weatherson.org/) <[_brian@weatherson.org_](mailto:brian%40weatherson%2eorg)>

@@ -1,40 +1,40 @@
 # 加布里埃尔·马塞尔 Marcel, Gabriel (-Honoré) (Brian Treanor and Brendan Sweetman)
-*首次发表于2004年11月16日；实质性修订于2021年5月9日。*
+
+_首次发表于2004年11月16日；实质性修订于2021年5月9日。_
 
 加布里埃尔·马塞尔（1889-1973）是一位哲学家、戏剧评论家、剧作家和音乐家。他于 1929 年皈依天主教，他的哲学后来被描述为“基督教存在主义”（最著名的是让-保罗·萨特的《存在主义是一种人道主义》），这是一个他最初支持但后来否认的术语。除了他众多的哲学著作外，他还是大约 30 部戏剧作品的作者。马塞尔在 1949 年至 1950 年间在阿伯丁举办了吉福德讲座，这些讲座以两卷本《存在之谜》的形式出版，他还在 1961 年至 1962 年间在哈佛大学举办了威廉·詹姆斯讲座，这些讲座被整理并出版为《人的尊严的存在背景》。
 
-* [ 1. 个人简介](https://plato.stanford.edu/entries/marcel/#BiogSket)
+* [1. 个人简介](https://plato.stanford.edu/entries/marcel/#BiogSket)
 * [2. 破碎的世界与功能性人](https://plato.stanford.edu/entries/marcel/#BrokWorlFuncPers)
-* [3. 存在的要求[2]](https://plato.stanford.edu/entries/marcel/#OntoExig)
-* [ 4. 超越](https://plato.stanford.edu/entries/marcel/#Tran)
+* [3. 存在的要求\[2\]](https://plato.stanford.edu/entries/marcel/#OntoExig)
+* [4. 超越](https://plato.stanford.edu/entries/marcel/#Tran)
 * [5. 存在与拥有](https://plato.stanford.edu/entries/marcel/#BeinHavi)
 * [6. 问题和谜团](https://plato.stanford.edu/entries/marcel/#ProbMyst)
 * [7. 主要和次要反思](https://plato.stanford.edu/entries/marcel/#PrimSecoRefl)
 * [8. 抽象的精神](https://plato.stanford.edu/entries/marcel/#SpirAbst)
 * [9. 随附/监督和不可用性](https://plato.stanford.edu/entries/marcel/#DispIndi)
-* [10. “With” (](https://plato.stanford.edu/entries/marcel/#Avec)​*[avec](https://plato.stanford.edu/entries/marcel/#Avec)*​[)](https://plato.stanford.edu/entries/marcel/#Avec)
+* [10. “With” (](https://plato.stanford.edu/entries/marcel/#Avec)​\*[avec](https://plato.stanford.edu/entries/marcel/#Avec)\*​[)](https://plato.stanford.edu/entries/marcel/#Avec)
 * [11. 观点，信念，信仰](https://plato.stanford.edu/entries/marcel/#OpinConvBeli)
-* [ 12. 创造性忠诚](https://plato.stanford.edu/entries/marcel/#CreaFide)
-* [ 13. 希望](https://plato.stanford.edu/entries/marcel/#Hope)
-* [ 14. 宗教信仰](https://plato.stanford.edu/entries/marcel/#ReliBeli)
+* [12. 创造性忠诚](https://plato.stanford.edu/entries/marcel/#CreaFide)
+* [13. 希望](https://plato.stanford.edu/entries/marcel/#Hope)
+* [14. 宗教信仰](https://plato.stanford.edu/entries/marcel/#ReliBeli)
 * [15. 加布里埃尔·马塞尔的对话](https://plato.stanford.edu/entries/marcel/#MarcDial)
-* [ 参考书目](https://plato.stanford.edu/entries/marcel/#Bib)
-
+* [参考书目](https://plato.stanford.edu/entries/marcel/#Bib)
   * [主要文献：加布里埃尔·马塞尔的著作](https://plato.stanford.edu/entries/marcel/#PrimLiteWorkMarc)
-  * [ 二次文献](https://plato.stanford.edu/entries/marcel/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/marcel/#Aca)
+  * [二次文献](https://plato.stanford.edu/entries/marcel/#SecoLite)
+* [学术工具](https://plato.stanford.edu/entries/marcel/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/marcel/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/marcel/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/marcel/#Rel)
 
----
+***
 
 ## 1. 传略
 
 马塞尔生于 1889 年。他的母亲在他四岁时去世，马塞尔由父亲和后来结婚的姑姑抚养长大。他在学校表现出色，但在接触哲学之前并不喜欢学习。他与当时许多著名哲学家交往，部分原因是他主持著名的“星期五晚会”。保罗·里克尔、埃马纽埃尔·列文纳斯、让·瓦尔、西蒙娜·德·波伏娃、尼古拉斯·别尔杰耶夫和让-保罗·萨特等许多著名哲学家曾经或多或少地参加过这些聚会。这些非正式的会议是各种观点的思想家共同讨论各种哲学主题的场合，经常是马塞尔自己当周正在研究的主题。1910 年通过了他的农业考试后，他在桑斯、巴黎和蒙彼利埃断断续续地教授哲学；然而，他的主要职业是戏剧评论家（为《新欧洲》和后来的《新文学》）和编辑（在普朗的《交叉火焰》系列中）。
 
-加布里埃尔·马塞尔的哲学遗产包括讲演、日记和戏剧作品，除了在论文和专著中表达更传统的哲学观点。在这些不同的文体中，马塞尔可能对他的戏剧作品最为满意。事实上，在他的自传性言论中，可以看出他对他的哲学作品的成功和他的戏剧作品的相对默默无闻感到困惑和不少的挫折。马塞尔思想的多样表达的复杂性是一个问题，因为他是一个有意识的非系统哲学家，这一点他早在他的《形而上学日记》（1927年）出版时就意识到了。[1]尽管如此，尽管他的思想表达多样化和相关的非系统性对于那些对马塞尔的工作感兴趣的人造成了一些困难，但他的思想主题在他的许多作品中都有体现。特别值得注意的是：《存在的奥秘》、《创造的忠诚》、《旅人人》、《存在与拥有》、《悲剧的智慧与超越》以及简洁的《论本体学之奥秘》。
+加布里埃尔·马塞尔的哲学遗产包括讲演、日记和戏剧作品，除了在论文和专著中表达更传统的哲学观点。在这些不同的文体中，马塞尔可能对他的戏剧作品最为满意。事实上，在他的自传性言论中，可以看出他对他的哲学作品的成功和他的戏剧作品的相对默默无闻感到困惑和不少的挫折。马塞尔思想的多样表达的复杂性是一个问题，因为他是一个有意识的非系统哲学家，这一点他早在他的《形而上学日记》（1927年）出版时就意识到了。\[1]尽管如此，尽管他的思想表达多样化和相关的非系统性对于那些对马塞尔的工作感兴趣的人造成了一些困难，但他的思想主题在他的许多作品中都有体现。特别值得注意的是：《存在的奥秘》、《创造的忠诚》、《旅人人》、《存在与拥有》、《悲剧的智慧与超越》以及简洁的《论本体学之奥秘》。
 
-加布里埃尔·马塞尔的哲学方法论独特，尽管在某种程度上与存在主义和现象学有些相似。他坚持哲学应该从具体经验而非抽象开始。为此，他经常使用例子来确立他所研究的哲学思想。这种方法本身包括“从生活到思想的上升，然后再从思想到生活的下降，以便[我们]可以试图为生活带来更多的光明”（马塞尔，1951a，第41页）。因此，这种哲学是一种“描述，涉及从经验开始阐明的反思结构”（马塞尔，1962a，第180页）。此外，马塞尔表达了对用普通语言进行哲学思考的清新偏好。他坚持认为“我们应该使用当前的普通语言形式，这些形式比哲学语言中结晶的复杂表达更少地扭曲我们的经验”（马塞尔，1965，第158页）。
+加布里埃尔·马塞尔的哲学方法论独特，尽管在某种程度上与存在主义和现象学有些相似。他坚持哲学应该从具体经验而非抽象开始。为此，他经常使用例子来确立他所研究的哲学思想。这种方法本身包括“从生活到思想的上升，然后再从思想到生活的下降，以便\[我们]可以试图为生活带来更多的光明”（马塞尔，1951a，第41页）。因此，这种哲学是一种“描述，涉及从经验开始阐明的反思结构”（马塞尔，1962a，第180页）。此外，马塞尔表达了对用普通语言进行哲学思考的清新偏好。他坚持认为“我们应该使用当前的普通语言形式，这些形式比哲学语言中结晶的复杂表达更少地扭曲我们的经验”（马塞尔，1965，第158页）。
 
 加布里埃尔·马塞尔始终对笛卡尔主义持批判态度，特别是笛卡尔主义主要关注的认识论问题（如怀疑论问题）。和许多存在主义者一样，他的批评是出于对笛卡尔在知识问题上的整体方法中所假设的自我的本质的质疑，以及思维如何认识现实的问题。笛卡尔对自我的描绘假设自我是一个离散的实体，具有明确定义的“内部”和“外部”，因此我们的思想（即“内部”）可以在不参考世界（即“外部”）的情况下被充分理解。“笛卡尔主义意味着一种断裂……在智力和生活之间；其结果是对一者的贬低，对另一者的赞扬，这两者都是任意的”（马塞尔，1949 年，第 170 页）。马塞尔赞同存在主义传统中的其他思想家，如海德格尔，认为笛卡尔对自我的观点对于人类主体来说并不是本体论上的基础，因为它并不是对自我实际存在的呈现。马塞尔的任务之一是试图现象学地揭示主体的真实本质，这将对许多哲学问题产生影响，包括与知识的本质相关的问题。然而，在关于主体真实本质的问题上，马塞尔与海德格尔和萨特都有所不同；事实上，他的观点更接近犹太哲学家马丁·布伯的观点，而不是许多存在主义者的观点。
 
@@ -48,23 +48,23 @@
 
 现代破碎世界功能主义的一个必然结果是其高度技术性质。马塞尔将我们这样的世界描述为一个被其“技术”所主导的世界，在这个世界中，一切事物和每个人都被视为功能，并且所有问题都以技术的方式来解决。这在对技术的依赖、对技术作为解决任何问题的立即推迟以及将技术推理视为唯一接近真理的方式方面是显而易见的。然而，显然有一些“问题”无法用技术来解决，这对于那些已经依赖于技术的人来说是令人不安的。虽然技术无疑有其适当的位置和用途，但对技术的神化会导致绝望，因为我们意识到技术在重要的存在问题上的终极无效性。正是对功能观念的误用和对技术的依赖导致了破碎世界中普遍存在的绝望。显然，我们无法在技术进步方面倒退，马塞尔承认技术不一定对精神生活有害；然而，通常情况下是有害的，因为：“今天技术对我们生活的侵入是否不是倾向于用物质层面的满足来替代精神的喜悦，用物质层面的不满来替代精神的不安？”（马塞尔，1985 年，第 57 页）。
 
-## 3. 存在的迫切性[2]
+## 3. 存在的迫切性\[2]
 
 “什么定义了人类，”马塞尔声称，“是他的需求”（马塞尔 1973 年，第 34 页）。然而，这些需求可能会被绝望所扼杀，甚至被消声。这在“功能化”的个体的例子中是如此。破碎的世界可以扼杀超越性的需求，只留下日常的功能需求。本体性需求，即对超越的需求，与某种不满有关——这种不满之所以更加令人不安，是因为个体无法凭借自身的力量来缓解这种不满。然而，如果没有一种感觉到有些不对劲，没有不满的感觉，本体性需求就会枯萎。这就是为什么功能化的个体，甚至不再注意到世界是破碎的，被描述为失去了对本体性和对超越的意识。面对这种潜在的绝望，马塞尔声称：
 
-> 存在是——或者应该是——必要的。不可能一切都被归结为一连串相互矛盾的表象的游戏……或者用莎士比亚的话来说，成为“一个白痴讲的故事”。我渴望参与这种存在，参与这种现实——也许这种渴望已经是一种参与，尽管很初级。（马塞尔 1995 年，第 15 页）[3]
+> 存在是——或者应该是——必要的。不可能一切都被归结为一连串相互矛盾的表象的游戏……或者用莎士比亚的话来说，成为“一个白痴讲的故事”。我渴望参与这种存在，参与这种现实——也许这种渴望已经是一种参与，尽管很初级。（马塞尔 1995 年，第 15 页）\[3]
 
-因此，本体性需求是对宇宙中某种程度的连贯性以及对我们在这种连贯性中的位置和角色的理解的需求和要求。这是对奇迹和相应的欲望的结合，不是为了理解整个宇宙，而是为了理解自己在其中的某种东西。请注意，对于马塞尔来说，本体性需求不仅仅是对存在或连贯性的“愿望”，而是一种“内在的冲动”或“呼唤”。“换句话说，[本体性]需求不能简化为个人的某种心理状态、情绪或态度；它是与人类本质不可分割的人类精神的一种运动”（基恩 1984 年，第 105 页）。
+因此，本体性需求是对宇宙中某种程度的连贯性以及对我们在这种连贯性中的位置和角色的理解的需求和要求。这是对奇迹和相应的欲望的结合，不是为了理解整个宇宙，而是为了理解自己在其中的某种东西。请注意，对于马塞尔来说，本体性需求不仅仅是对存在或连贯性的“愿望”，而是一种“内在的冲动”或“呼唤”。“换句话说，\[本体性]需求不能简化为个人的某种心理状态、情绪或态度；它是与人类本质不可分割的人类精神的一种运动”（基恩 1984 年，第 105 页）。
 
 ## 4. 超越
 
-马塞尔非常清楚，“超越”这个术语在他看来，在现代哲学中已经变得贬低了。超越不能仅仅意味着“超越”而没有进一步的说明。它必须保持传统的内在和超越之间的紧张关系，强调垂直而不是水平的超越，一种朝向高度的超越，一种超越-超越。[5]尽管超越与内在相对立，马塞尔坚持认为“超越”不能意味着“超越经验”。他说：“必须存在一种能够体验超越本身的可能性，除非这种可能性存在，否则这个词就没有意义”（马塞尔 1951a，第 46 页）。对于体验超越的想法的贬低倾向是客观经验观的结果。然而，经验不是一个客体，因此不能以客观的方式看待。用隐喻的方式来说，经验的本质不是“吸收自己”，如同品味的情况，而是“努力朝向某个东西，就像我们在夜晚试图清晰地感知一些远处的声音”（马塞尔 1951a，第 47 页）。因此，尽管马塞尔坚持体验超越的可能性，但并不意味着超越是可以理解的。
+马塞尔非常清楚，“超越”这个术语在他看来，在现代哲学中已经变得贬低了。超越不能仅仅意味着“超越”而没有进一步的说明。它必须保持传统的内在和超越之间的紧张关系，强调垂直而不是水平的超越，一种朝向高度的超越，一种超越-超越。\[5]尽管超越与内在相对立，马塞尔坚持认为“超越”不能意味着“超越经验”。他说：“必须存在一种能够体验超越本身的可能性，除非这种可能性存在，否则这个词就没有意义”（马塞尔 1951a，第 46 页）。对于体验超越的想法的贬低倾向是客观经验观的结果。然而，经验不是一个客体，因此不能以客观的方式看待。用隐喻的方式来说，经验的本质不是“吸收自己”，如同品味的情况，而是“努力朝向某个东西，就像我们在夜晚试图清晰地感知一些远处的声音”（马塞尔 1951a，第 47 页）。因此，尽管马塞尔坚持体验超越的可能性，但并不意味着超越是可以理解的。
 
 > 在某种秩序中，主体发现自己置身于完全超出他理解范围的东西之前。我要补充说，如果“超越”这个词有任何意义，那就是在这里——它指的是主体与存在之间的绝对、无法逾越的鸿沟，因为存在逃避了任何试图将其固定下来的尝试。（马塞尔 1973，第 193 页）
 
 ## 5. 存在与拥有
 
-马塞尔在各种情境中讨论存在；然而，其中一个更具说明性的进入这个问题的观点是存在与拥有之间的区别[6]。在某些情况下，这种区别是显而易见的，因此并不特别启发人。例如，大多数人都会很容易地承认拥有一座房子和待人热情之间的区别。然而，还有其他情况，拥有某物和成为某物之间的区别更加重要。例如，当我们希望时，我们并没有希望。我们就是希望。同样地，我们并没有信念。我们就是信念。
+马塞尔在各种情境中讨论存在；然而，其中一个更具说明性的进入这个问题的观点是存在与拥有之间的区别\[6]。在某些情况下，这种区别是显而易见的，因此并不特别启发人。例如，大多数人都会很容易地承认拥有一座房子和待人热情之间的区别。然而，还有其他情况，拥有某物和成为某物之间的区别更加重要。例如，当我们希望时，我们并没有希望。我们就是希望。同样地，我们并没有信念。我们就是信念。
 
 马塞尔对存在与拥有的标志性阐述实际上跨越了它们之间的区别：“我的身体。”我的身体，因为它是我的身体，既是我拥有的东西，也是我所是的东西，不能仅仅用这些描述来充分解释。我可以以一种分离的方式看待我的身体，并将其视为工具。然而，在这样做的过程中，为了抓住它作为客体，作为我拥有的东西，我与它疏远，它就不再是“我的”身体。我可以拥有“一个”身体，但不能拥有“我的”身体。一旦我意识到所讨论的身体是我的身体，而不是一个身体，它就不再是我纯粹简单地拥有的东西——这个身体也是我，它是我所是的。另一方面，也不能说我仅仅是我的身体。在某些情况下，我可以将我的身体当作工具来处理。一个在事故中失去一条肢体的人并不是一个更少的人，因此，从某种意义上说，我们的身体是我们所拥有的对象。
 
@@ -92,7 +92,7 @@
 
 > 元问题是我作为主体所建立的一种参与...反思将表明，如果这种参与是真实的，它不能成为一个解决方案。如果是这样，它将不再是对超验现实的参与，而将变成对超验现实的插值，并在这个过程中被贬低...（马塞尔 1949 年，第 114 页）
 
-回顾对于一个破碎世界的观念，技术和问题是只涉及到“人的一部分”的问题。完整的人并没有参与技术，因为一个人的自我，她的身份，并不是问题所在。“在拥有[和问题、技术]的根源中，存在着自我的某种特殊化，这与自我的部分异化有关…”（马塞尔，1949 年，第 172 页）。问题以一种超然的方式被处理，而奥秘则要求参与和投入。虽然有些问题可以以一种使其变得神秘的方式进行反思，但所有的奥秘都可以以一种使其降级成为仅仅是问题的方式进行反思。
+回顾对于一个破碎世界的观念，技术和问题是只涉及到“人的一部分”的问题。完整的人并没有参与技术，因为一个人的自我，她的身份，并不是问题所在。“在拥有\[和问题、技术]的根源中，存在着自我的某种特殊化，这与自我的部分异化有关…”（马塞尔，1949 年，第 172 页）。问题以一种超然的方式被处理，而奥秘则要求参与和投入。虽然有些问题可以以一种使其变得神秘的方式进行反思，但所有的奥秘都可以以一种使其降级成为仅仅是问题的方式进行反思。
 
 ## 7. 主要和次要反思
 
@@ -106,9 +106,9 @@ Thus, secondary reflection is one important aspect of our access to the self. It
 
 ## 8. 抽象的精神
 
-尽管次级反思能够恢复初级反思解剖的经验的统一性，但次级反思可能会受到挫折。次级反思和神秘的挫折的一个例子是功能人；然而，这只是更一般现象的一个例子：已经屈服于“抽象的精神”的人。当我们进行初级反思而没有进行综合、回忆的次级反思行为时，我们成为了马塞尔所称的抽象的精神的受害者。“一旦我们给予任何一个类别，在与所有其他类别隔离的情况下，一个任意的首要地位，我们就成为了抽象的精神的受害者”（马塞尔 1962b，第 155-156 页）[7]。
+尽管次级反思能够恢复初级反思解剖的经验的统一性，但次级反思可能会受到挫折。次级反思和神秘的挫折的一个例子是功能人；然而，这只是更一般现象的一个例子：已经屈服于“抽象的精神”的人。当我们进行初级反思而没有进行综合、回忆的次级反思行为时，我们成为了马塞尔所称的抽象的精神的受害者。“一旦我们给予任何一个类别，在与所有其他类别隔离的情况下，一个任意的首要地位，我们就成为了抽象的精神的受害者”（马塞尔 1962b，第 155-156 页）\[7]。
 
-抽象，本质上是初级反思所特征的思维方式，并不总是本质上不好。然而，它也不总是一种“本质上的智力”操作（马塞尔 1962b，第 156 页）。也就是说，与科学和技术的成功所告诉我们的相反，我们可能因为情感原因而屈服于抽象的精神，而不是出于智力上的方便。抽象——总是从具体存在中抽象出来——可以克服我们的具体存在，我们可能会把存在的抽象元素视为独立的存在。正如马塞尔所描述的：“思想可能会因为一种迷恋而不再意识到这些证明抽象的先决条件，并对本质上只是一种方法的事物的本质产生自欺欺人的错觉”（马塞尔 1962b，第 156 页）。对于马塞尔来说，这种现象的重要性难以言喻——事实上，在《人类对抗群体社会》中，马塞尔认为抽象的精神本质上是虚伪和暴力的，并且是战争制造的一个重要因素——在某种意义上，他的整个哲学项目都是一场“顽强而不懈的与抽象精神作斗争的战斗”（马塞尔 1962b，第 1 页）[8]。
+抽象，本质上是初级反思所特征的思维方式，并不总是本质上不好。然而，它也不总是一种“本质上的智力”操作（马塞尔 1962b，第 156 页）。也就是说，与科学和技术的成功所告诉我们的相反，我们可能因为情感原因而屈服于抽象的精神，而不是出于智力上的方便。抽象——总是从具体存在中抽象出来——可以克服我们的具体存在，我们可能会把存在的抽象元素视为独立的存在。正如马塞尔所描述的：“思想可能会因为一种迷恋而不再意识到这些证明抽象的先决条件，并对本质上只是一种方法的事物的本质产生自欺欺人的错觉”（马塞尔 1962b，第 156 页）。对于马塞尔来说，这种现象的重要性难以言喻——事实上，在《人类对抗群体社会》中，马塞尔认为抽象的精神本质上是虚伪和暴力的，并且是战争制造的一个重要因素——在某种意义上，他的整个哲学项目都是一场“顽强而不懈的与抽象精神作斗争的战斗”（马塞尔 1962b，第 1 页）\[8]。
 
 ## 9. 可得性和不可得性
 
@@ -130,7 +130,7 @@ Thus, secondary reflection is one important aspect of our access to the self. It
 
 相比之下，“灵魂的特点是它在他人面前存在并可供他人支配，它无法以案例的方式思考；在它的眼中根本没有案例”（马塞尔，1995 年，第 41 页）。那些可供他人支配、可用或可支配的人对自己在世界中的位置有着完全不同的体验：她们承认自己与他人的相互依赖关系。可用性的关系以存在和人与人之间的沟通为特征，人们超越了彼此的分离而进行交流和交融，而不是融为一体，也就是说，仍然在某种程度上保持分离。“这样的存在显然不是一个自主的整体，不是一个自我包容的整体；相反，这样的存在是开放和暴露的，与紧凑且不可渗透的团块截然不同”（马塞尔，1951a，第 145 页）。对他人的可用性意味着对她的存在和为她而存在，将自己的资源提供给她，并对她敞开和渗透。
 
-> 如果我说那个对我可支配的人是那个在我需要时能全身心与我在一起的人，而那个不可支配的人似乎只是给我提供了一笔暂时借款，借用了他的资源。对于一个人，我是存在的；对于另一个人，我是一个对象。（马塞尔，1995 年，第 40 页）[9]
+> 如果我说那个对我可支配的人是那个在我需要时能全身心与我在一起的人，而那个不可支配的人似乎只是给我提供了一笔暂时借款，借用了他的资源。对于一个人，我是存在的；对于另一个人，我是一个对象。（马塞尔，1995 年，第 40 页）\[9]
 
 ## 10. “与”（avec）
 
@@ -140,7 +140,7 @@ Thus, secondary reflection is one important aspect of our access to the self. It
 
 “与”这个词，带有其完整的形而上学含义，既不对应分离和外在性的关系，也不对应统一和内在性的关系。相反，“与”表达了真正的共存的本质，即多元主义、分离与共融的本质（马塞尔，1995 年，第 39 页）。正如不可用性以骄傲的例子来说明，可用性最好以爱、希望和忠诚的关系来说明。
 
-马塞尔（与康德相反）毫不回避地宣称，参与与某人的关系具有显著的情感因素。最初将我们与他人联系在一起的不是对他人的了解，尽管我们可能确实逐渐了解他人的一些事情，而是“兄弟情谊”，即感受到他人所经历的与人类家庭共同的喜悦和悲伤[10]。正是这种感受使我们在看到他人的不幸时说：“如果没有上帝的恩典，我也会如此。”出于“责任”而去到某人身边或帮助他人，恰恰不是真正与她在一起[11]。可用的人不会推辞地说，她确实渴望他人最好，并真正希望与他人分享自己的一些东西（马塞尔，1964年，第154页）。实际上，因为可用性只是用哲学的方式描述我们所指的爱和信任，所以没有这种情感因素，可用性是无法想象的。
+马塞尔（与康德相反）毫不回避地宣称，参与与某人的关系具有显著的情感因素。最初将我们与他人联系在一起的不是对他人的了解，尽管我们可能确实逐渐了解他人的一些事情，而是“兄弟情谊”，即感受到他人所经历的与人类家庭共同的喜悦和悲伤\[10]。正是这种感受使我们在看到他人的不幸时说：“如果没有上帝的恩典，我也会如此。”出于“责任”而去到某人身边或帮助他人，恰恰不是真正与她在一起\[11]。可用的人不会推辞地说，她确实渴望他人最好，并真正希望与他人分享自己的一些东西（马塞尔，1964年，第154页）。实际上，因为可用性只是用哲学的方式描述我们所指的爱和信任，所以没有这种情感因素，可用性是无法想象的。
 
 然而，一个人的可用性还不足以实现可用性的完全共融。完全有可能一个人以完全开放和可用的方式来遇见他人，却被对方的完全不可用性所拒绝。理想情况下，可用性的关系必须包含相互性的元素。然而，相互性在主体间关系中的必要性并不意味着可以要求这种关系的相互性。可用性不坚持自己的权利，也不对他人提出任何要求。它类似于“一个存在者等待另一个存在者的恩赐或恩惠，但只是基于他的慷慨，他首先要抗议他所请求的恩惠是一种恩典，也就是说，恰恰相反于一种义务”（马塞尔，1962a，第 55 页）。然而，可用性不要求相互性的事实以及在没有这种相互性的情况下确实可能存在某种关系的事实，并不改变这样的相互性必须存在于关系中才能充分发展的事实。“因此，可以说存在一种选择的层次，或者更确切地说，存在一种从像敲钟召唤仆人的呼唤到真正像一种祈祷的另一种呼唤的层次”（马塞尔，1951a，第 179 页）。
 
@@ -152,7 +152,7 @@ Thus, secondary reflection is one important aspect of our access to the self. It
 
 虽然意见是不经思考和外在的，但信念——更类似于信仰而非意见——是广泛思考的结果，并且总是涉及到与自己紧密联系的事物。像已经根深蒂固到成为实际主张的意见一样，信念被感觉为决定性的，无法修改。然而，当我声称没有任何事物能改变我的信念时，我必须要么肯定我已经预见了所有可能的未来情景，没有任何可能的事件能改变我的信念，要么肯定无论发生什么事件——无论是预期的还是未预期的——都不会动摇我的信念。第一种可能性是不可能的。第二种可能性是基于一个决定，一个决定无论发生什么都保持不变。然而，经过思考，这样的决定似乎和声称已经预见未来一样过于自信。我凭什么可以断言我的内心信念在任何情况下都不会改变？这样做意味着暗示在未来，我将停止对我的信念进行反思。似乎我能够说的只是，我的信念是这样的，目前的时刻，我无法想象它会发生改变。
 
-信念类似于确信；然而，它通过其对象而有所区别。马塞尔在许多地方坚持认为，“信念”一词的正确使用不适用于我们所相信的事物，而是适用于我们所相信的事物。信念不是“相信……”，而是“相信……”。相信可能更好地被描述为确信而不是信念；然而，相信某事是将信用扩展给它，将某物置于我们所相信的事物的处置之下。将信用置于他人处置之下的概念是关于“可用性”的另一种说法。“我与我置于这个 X 的处置之下的东西无法分离……实际上，我扩展的信用在某种程度上就是我自己。我把自己借给 X。我们应立即注意到，这是一种根本上神秘的行为”（马塞尔 1951a，第 134 页）。这就是确信与信念的区别所在。确信是指 X，对 X 采取立场，但不与 X 约束自己。虽然我有一个观点，但我是一个信念——因为信念改变了我在世界中的存在方式，改变了我的存在。我们现在可以看到信念如何与他人相关，并与“可用性”相关联：信念始终适用于“个人或超个人的现实”（马塞尔 1951a，第 135 页）。它总是涉及一个我向其扩展信用的你——这种信用将我自己置于你的处置之下——因此产生了忠诚的问题。[12]
+信念类似于确信；然而，它通过其对象而有所区别。马塞尔在许多地方坚持认为，“信念”一词的正确使用不适用于我们所相信的事物，而是适用于我们所相信的事物。信念不是“相信……”，而是“相信……”。相信可能更好地被描述为确信而不是信念；然而，相信某事是将信用扩展给它，将某物置于我们所相信的事物的处置之下。将信用置于他人处置之下的概念是关于“可用性”的另一种说法。“我与我置于这个 X 的处置之下的东西无法分离……实际上，我扩展的信用在某种程度上就是我自己。我把自己借给 X。我们应立即注意到，这是一种根本上神秘的行为”（马塞尔 1951a，第 134 页）。这就是确信与信念的区别所在。确信是指 X，对 X 采取立场，但不与 X 约束自己。虽然我有一个观点，但我是一个信念——因为信念改变了我在世界中的存在方式，改变了我的存在。我们现在可以看到信念如何与他人相关，并与“可用性”相关联：信念始终适用于“个人或超个人的现实”（马塞尔 1951a，第 135 页）。它总是涉及一个我向其扩展信用的你——这种信用将我自己置于你的处置之下——因此产生了忠诚的问题。\[12]
 
 ## 12. 创造性忠诚
 
@@ -188,7 +188,7 @@ Thus, secondary reflection is one important aspect of our access to the self. It
 
 然而，这并不意味着希望是惰性或被动的。希望不是坚忍。坚忍只是孤独意识的顺从。希望既不是顺从，也不是孤独的。“希望在存在的核心中断言，超越一切数据、一切清单和一切计算，存在着一个与我串通的神秘原则”（马塞尔，1995 年，第 28 页）。虽然希望是耐心和期待的，但它仍然是积极的；因此，它可以被描述为“积极的耐心”。希望中包含的断言显示了与意愿而不是欲望的亲缘关系。“惰性的希望”将是一个自相矛盾的词。
 
-> 毫无疑问，孤独的意识可以实现顺从[斯多葛主义]，但这个词实际上可能仅仅意味着精神疲劳。对于与顺从相反的希望，需要更多的东西。没有希望不通过我们自己而构成自己，并为我们而存在。我会倾向于说，所有的希望都是合唱的根基。（马塞尔 1973 年，第 143 页）
+> 毫无疑问，孤独的意识可以实现顺从\[斯多葛主义]，但这个词实际上可能仅仅意味着精神疲劳。对于与顺从相反的希望，需要更多的东西。没有希望不通过我们自己而构成自己，并为我们而存在。我会倾向于说，所有的希望都是合唱的根基。（马塞尔 1973 年，第 143 页）
 
 最后，毫不奇怪的是，“从形而上学的角度来看，唯一真正的希望是对不依赖于我们自己的东西的希望，是源于谦卑而不是骄傲的希望”（马塞尔 1995 年，第 32 页）。在这里，我们又发现了由于普遍的不可用性和特别的骄傲而发生的衰落的另一个方面。使骄傲的人无法与她的同伴交流的那种傲慢也使她无法有希望。
 
@@ -210,109 +210,108 @@ Thus, secondary reflection is one important aspect of our access to the self. It
 
 加布里埃尔·马塞尔仍然是二十世纪最有影响力的思想家之一，他的主要主题在二十一世纪对人类的困境仍然具有重要意义。许多人认为马塞尔的思想具有吸引力，因为他强调了一些在哲学和神学领域中对二十世纪思想产生影响的重要观念：通过强调唯物主义生活的不足和人类对超越的无法避免的需求，试图保护人的尊严和完整性；哲学无法捕捉到关键人类经验的深度和深刻性，因此需要找到一种更深层次的反思方式；强调人类的互为主体性经验，马塞尔认为这是人类满足的根源；追求人类经验的超越维度，他认为这个维度不能被否认而不带来损失，并且经常赋予我们许多最深刻经验的意义。马塞尔也被认为是不同学科领域的一系列思想家所重视，因为他提出了一种挑战他的法国竞争对手让·保罗·萨特和其他代表性存在主义哲学家的道德相对主义和精神虚无主义的替代愿景（马塞尔，1995年，第47-90页）。因此，出于这个重要原因，他的作品在伦理学、政治学和宗教学等方面继续对我们今天的关切发表意见。
 
-
 ## Bibliography
 
-Marcel was a very prolific writer, whose work ranges over philosophy, drama, criticism, and musical compositions. The following bibliography merely scratches the surface of his extensive oeuvre. More complete bibliographies can be found in: (1) Francois H. and Claire Lapointe (eds.), *Gabriel Marcel and His Critics: An International Bibliography (1928–1976)*, New York and London: Garland Publishing, 1977; (2) Paul Arthur Schilpp and Lewis Edwin Hahn (eds.), *The Philosophy of Gabriel Marcel* (Library of Living Philosophers Volume 17), La Salle, IL: Open Court, 1984; and (3) K.R. Hanley (ed.), *Gabriel Marcel’s Perspectives on the Broken World*, Milwaukee, WI: Marquette University Press, 1998. The websites of the *Gabriel Marcel Society*, and of the new journal, *Marcel Studies*, are also valuable resources (see the Other Internet Resources section below).
+Marcel was a very prolific writer, whose work ranges over philosophy, drama, criticism, and musical compositions. The following bibliography merely scratches the surface of his extensive oeuvre. More complete bibliographies can be found in: (1) Francois H. and Claire Lapointe (eds.), _Gabriel Marcel and His Critics: An International Bibliography (1928–1976)_, New York and London: Garland Publishing, 1977; (2) Paul Arthur Schilpp and Lewis Edwin Hahn (eds.), _The Philosophy of Gabriel Marcel_ (Library of Living Philosophers Volume 17), La Salle, IL: Open Court, 1984; and (3) K.R. Hanley (ed.), _Gabriel Marcel’s Perspectives on the Broken World_, Milwaukee, WI: Marquette University Press, 1998. The websites of the _Gabriel Marcel Society_, and of the new journal, _Marcel Studies_, are also valuable resources (see the Other Internet Resources section below).
 
 ### Primary Literature: Works by Marcel
 
-* 1949, *Being and Having*, translated by Katharine Farrer, Westminster, UK: Dacre Press.
-* 1950, “Theism and Personal Relationships,” *Cross Currents*, 1(1): 38-45.
-* 1951a, *The Mystery of Being*, vol.1, *Reflection and Mystery*, translated by G. S. Fraser, London: The Harvill Press.
-* 1951b, *The Mystery of Being*, vol.2, *Faith and Reality*, translated by René Hague, London: The Harvill Press.
-* 1952, *Metaphysical Journal*, translated by Bernard Wall, London: Rockliff.
-* 1960 (ed.), *Fresh Hope for the World: Moral Re-Armament in Action*, translated by Helen Hardringe, London: Longman, Green.
-* 1962a, *Homo Viator: Introduction to a Metaphysic of Hope*, translated by Emma Crawford, New York: Harper Torchbooks.
-* 1962b, *Man Against Mass Society*, translated by G. S. Fraser, Chicago: Henry Regnery Company.
-* 1963, *The Existential Background of Human Dignity*, Cambridge, MA: Harvard University Press.
-* 1964, *Creative Fidelity*, translated, with an introduction, by Robert Rosthal, New York: Farrar, Strauss and Company.
-* 1965, *Philosophical Fragments 1909–1914 and the Philosopher and Peace*, with an introduction by Lionel A. Blain, Notre Dame, IN: University of Notre Dame Press.
-* 1965, *Three Plays*, New York. Hill and Wang.
-* 1967, *Presence and Immortality*, translated by Michael A. Machado, Pittsburgh: Duquesne University Press.
-* 1967, *Problematic Man*, New York: Herder and Herder.
-* 1967, *Searchings*, New York: Paulist Newman Press.
-* 1973, *Tragic Wisdom and Beyond*, translated by Stephen Jolin and Peter McCormick, edited by John Wild, Evanston, IL: Northwestern University Press (Northwestern University Studies in Phenomenology and Existential Philosophy).
-* 1984, “An Autobiographical Essay,” in P. Schilpp and L. Hahn (eds.), *The Philosophy of Gabriel Marcel*, translated by Forrest Williams, La Salle, IL: Open Court. 3-68.
-* 1995, *The Philosophy of Existentialism*, translated by Manya Harari, New York: Citadel.
-* 2002, *Awakenings* (Autobiography), translated by Peter S. Rogers, with an Introduction by Patrick Bourgeois, Milwaukee, WI: Marquette University Press.
-* 2007, *A Path to Peace: Dramatic Explorations* (Five Plays), translated by K.R. Hanley, Milwaukee, WI. Marquette University Press
-* 2009, *Thou Shall Not Die*, selected by Anne Marcel, translated by K.R. Hanley, South Bend, IN: Saint Augustine’s Press.
+* 1949, _Being and Having_, translated by Katharine Farrer, Westminster, UK: Dacre Press.
+* 1950, “Theism and Personal Relationships,” _Cross Currents_, 1(1): 38-45.
+* 1951a, _The Mystery of Being_, vol.1, _Reflection and Mystery_, translated by G. S. Fraser, London: The Harvill Press.
+* 1951b, _The Mystery of Being_, vol.2, _Faith and Reality_, translated by René Hague, London: The Harvill Press.
+* 1952, _Metaphysical Journal_, translated by Bernard Wall, London: Rockliff.
+* 1960 (ed.), _Fresh Hope for the World: Moral Re-Armament in Action_, translated by Helen Hardringe, London: Longman, Green.
+* 1962a, _Homo Viator: Introduction to a Metaphysic of Hope_, translated by Emma Crawford, New York: Harper Torchbooks.
+* 1962b, _Man Against Mass Society_, translated by G. S. Fraser, Chicago: Henry Regnery Company.
+* 1963, _The Existential Background of Human Dignity_, Cambridge, MA: Harvard University Press.
+* 1964, _Creative Fidelity_, translated, with an introduction, by Robert Rosthal, New York: Farrar, Strauss and Company.
+* 1965, _Philosophical Fragments 1909–1914 and the Philosopher and Peace_, with an introduction by Lionel A. Blain, Notre Dame, IN: University of Notre Dame Press.
+* 1965, _Three Plays_, New York. Hill and Wang.
+* 1967, _Presence and Immortality_, translated by Michael A. Machado, Pittsburgh: Duquesne University Press.
+* 1967, _Problematic Man_, New York: Herder and Herder.
+* 1967, _Searchings_, New York: Paulist Newman Press.
+* 1973, _Tragic Wisdom and Beyond_, translated by Stephen Jolin and Peter McCormick, edited by John Wild, Evanston, IL: Northwestern University Press (Northwestern University Studies in Phenomenology and Existential Philosophy).
+* 1984, “An Autobiographical Essay,” in P. Schilpp and L. Hahn (eds.), _The Philosophy of Gabriel Marcel_, translated by Forrest Williams, La Salle, IL: Open Court. 3-68.
+* 1995, _The Philosophy of Existentialism_, translated by Manya Harari, New York: Citadel.
+* 2002, _Awakenings_ (Autobiography), translated by Peter S. Rogers, with an Introduction by Patrick Bourgeois, Milwaukee, WI: Marquette University Press.
+* 2007, _A Path to Peace: Dramatic Explorations_ (Five Plays), translated by K.R. Hanley, Milwaukee, WI. Marquette University Press
+* 2009, _Thou Shall Not Die_, selected by Anne Marcel, translated by K.R. Hanley, South Bend, IN: Saint Augustine’s Press.
 
 ### Secondary Literature
 
-* Applebaum, David, 1986. *Contact and Alienation, The Anatomy of Gabriel Marcel’s Metaphysical Method*, Washington, D.C.: University Press of America.
-* Anderson, Thomas C., 2006. *A Commentary on Gabriel Marcel’s* The Mystery of Being. Milwaukee: WI, Marquette University Press
-* –––, 2006. “Gabriel Marcel on Personal Immortality,” in *American Catholic Philosophical Quarterly*, 80(3): 393–406.
-* –––, 1981. “Philosophy and the Experience of God according to Gabriel Marcel,” in *Proceedings of the Catholic Philosophical Association*, 55: 228–238.
-* –––, 1982. “The Experiential Paths to God in Kierkegaard and Marcel,” in *Philosophy Today*, XXVI: 22–40.
-* Bertocci, P.A., 1967-8. “Descartes and Marcel on the person and his body: A Critique,” *Proceedings of the Aristotelian Society*, LXVII: 207–226.
-* Blackham, H.J., 1952. *Six Existentialist Thinkers*, London: Routledge and Kegan Paul
-* Blain, L.A., 1969. “Marcel’s Logic of Freedom in Proving the Existence of God,” *International Philosophical Quarterly*, IX: 177–204.
-* Bourgeois, Patrick L., 2006. “Marcel and Ricoeur: Mystery and Hope at the Boundary of Reason in the Postmodern Situation,” *American Catholic Philosophical Quarterly*, 80(3): 421–433.
-* Busch, Thomas, 1987. *The Participant Perspective*: *A Gabriel Marcel Reader*, Lanham, MD: University Press of America.
-* Cain, Seymour, 1963. *Gabriel Marcel*, South Bend, IN: Regnery/Gateway.
-* –––, 1995. *Gabriel Marcel’s Theory of Religious Experience*, New York: Peter Lang Inc.
-* Cipriani, Gérald, 2004. “The Art of Renewal and Consideration: Marcelian Reflections,” *Revista Portuguesa de Filosofia*, 60(1): 167–175.
-* Engelland, Chad, 2004. “Marcel and Heidegger on the Proper Matter and Manner of Thinking,” *Philosophy Today*, 48(1): 94–109.
-* Flynn, Thomas R, 2006. “Toward the Concrete: Marcel As Existentialist,” *American Catholic Philosophical Quarterly*, 80(3): 355–367.
-* Franke, William, 2009. “Existentialism: An Athistic or a Christian Philosophy?” in *Analecta Husserliana: The Yearbook of Phenomenological Research* (Volume CIII), Dordrecht: Springer.
-* Gallagher, Kenneth T., 1975. *The Philosophy of Gabriel Marcel*, New York: Fordham University Press.
-* Gilson, E., 1959. *Existentialisme Chretien: Gabriel Marcel*, Paris: Plon.
-* Godfrey J.J., 1987. *A Philosophy of Human Hope*, Dordrecht: Martinus Nijhoff.
-* Hanley, Katharine Rose, 2006. “A Journey to Consciousness: Gabriel Marcel’s Relevance for the Twenty-First-Century Classroom,” *American Catholic Philosophical Quarterly*, 80(3): 457–474.
-* ––– (ed.), 1998. *Gabriel Marcel’s Perspectives on The Broken World*, Milwaukee WI: Marquette University Press.
-* –––, 1987. *Dramatic Approaches to Creative Fidelity: A Study in the Theatre and Philosophy of Gabriel Marcel (1889–1973)*, Lanham, MD: University Press of America.
-* Hanratty, Gerald, 1976. “The Religious Philosophy of Gabriel Marcel,” *Heythrop Journal*, 17: 395–412.
-* Hocking W.E., 1954. “Marcel and the Ground Issues of Metaphysics,” *Philosophy and Phenomenological Research*, XIV: 439–469.
-* Howland, M.D., 1990. *The Gift of the Other: Gabriel Marcel’s Concept of Intersubjectivity in Walker Percy’s Novels*, Pittsburgh: Duquesne University Press
-* Hernandez, Jill Graper, 2013. *Gabriel Marcel’s Ethics of Hope: Evil, God and Virtue*, New York: Continuum Books.
-* Keen, Sam, 1967. *Gabriel Marcel*, Richmond, VA: John Knox Press.
+* Applebaum, David, 1986. _Contact and Alienation, The Anatomy of Gabriel Marcel’s Metaphysical Method_, Washington, D.C.: University Press of America.
+* Anderson, Thomas C., 2006. _A Commentary on Gabriel Marcel’s_ The Mystery of Being. Milwaukee: WI, Marquette University Press
+* –––, 2006. “Gabriel Marcel on Personal Immortality,” in _American Catholic Philosophical Quarterly_, 80(3): 393–406.
+* –––, 1981. “Philosophy and the Experience of God according to Gabriel Marcel,” in _Proceedings of the Catholic Philosophical Association_, 55: 228–238.
+* –––, 1982. “The Experiential Paths to God in Kierkegaard and Marcel,” in _Philosophy Today_, XXVI: 22–40.
+* Bertocci, P.A., 1967-8. “Descartes and Marcel on the person and his body: A Critique,” _Proceedings of the Aristotelian Society_, LXVII: 207–226.
+* Blackham, H.J., 1952. _Six Existentialist Thinkers_, London: Routledge and Kegan Paul
+* Blain, L.A., 1969. “Marcel’s Logic of Freedom in Proving the Existence of God,” _International Philosophical Quarterly_, IX: 177–204.
+* Bourgeois, Patrick L., 2006. “Marcel and Ricoeur: Mystery and Hope at the Boundary of Reason in the Postmodern Situation,” _American Catholic Philosophical Quarterly_, 80(3): 421–433.
+* Busch, Thomas, 1987. _The Participant Perspective_: _A Gabriel Marcel Reader_, Lanham, MD: University Press of America.
+* Cain, Seymour, 1963. _Gabriel Marcel_, South Bend, IN: Regnery/Gateway.
+* –––, 1995. _Gabriel Marcel’s Theory of Religious Experience_, New York: Peter Lang Inc.
+* Cipriani, Gérald, 2004. “The Art of Renewal and Consideration: Marcelian Reflections,” _Revista Portuguesa de Filosofia_, 60(1): 167–175.
+* Engelland, Chad, 2004. “Marcel and Heidegger on the Proper Matter and Manner of Thinking,” _Philosophy Today_, 48(1): 94–109.
+* Flynn, Thomas R, 2006. “Toward the Concrete: Marcel As Existentialist,” _American Catholic Philosophical Quarterly_, 80(3): 355–367.
+* Franke, William, 2009. “Existentialism: An Athistic or a Christian Philosophy?” in _Analecta Husserliana: The Yearbook of Phenomenological Research_ (Volume CIII), Dordrecht: Springer.
+* Gallagher, Kenneth T., 1975. _The Philosophy of Gabriel Marcel_, New York: Fordham University Press.
+* Gilson, E., 1959. _Existentialisme Chretien: Gabriel Marcel_, Paris: Plon.
+* Godfrey J.J., 1987. _A Philosophy of Human Hope_, Dordrecht: Martinus Nijhoff.
+* Hanley, Katharine Rose, 2006. “A Journey to Consciousness: Gabriel Marcel’s Relevance for the Twenty-First-Century Classroom,” _American Catholic Philosophical Quarterly_, 80(3): 457–474.
+* ––– (ed.), 1998. _Gabriel Marcel’s Perspectives on The Broken World_, Milwaukee WI: Marquette University Press.
+* –––, 1987. _Dramatic Approaches to Creative Fidelity: A Study in the Theatre and Philosophy of Gabriel Marcel (1889–1973)_, Lanham, MD: University Press of America.
+* Hanratty, Gerald, 1976. “The Religious Philosophy of Gabriel Marcel,” _Heythrop Journal_, 17: 395–412.
+* Hocking W.E., 1954. “Marcel and the Ground Issues of Metaphysics,” _Philosophy and Phenomenological Research_, XIV: 439–469.
+* Howland, M.D., 1990. _The Gift of the Other: Gabriel Marcel’s Concept of Intersubjectivity in Walker Percy’s Novels_, Pittsburgh: Duquesne University Press
+* Hernandez, Jill Graper, 2013. _Gabriel Marcel’s Ethics of Hope: Evil, God and Virtue_, New York: Continuum Books.
+* Keen, Sam, 1967. _Gabriel Marcel_, Richmond, VA: John Knox Press.
 * –––, 1984. “The Development of the Idea of Being,” in Schilpp and Hahn (eds.) 1984.
-* Kruks, Sonia, 1990. *Situation and Human Existence*, London: Unwin.
-* Lazaron, Hilda, 1998. *Gabriel Marcel: The Dramatist*, London: Colin Smythe.
-* Lechner, Robert, 1984. “Marcel as Radical Empiricist,” in P. Schilpp and L. Hahn (eds.), *The Philosophy of Gabriel Marcel*, La Salle, IL: Open Court, 457–469.
-* ––– (ed.), 1975. “Gabriel Marcel,” Special Issue of *Philosophy Today*, Volume XIX.
-* Malagon, Anthony, 2016. “The Existential Approach to God in Kierkegaard and Marcel: A Conciliatory Study,” *Marcel Studies*, 1(1): 1–23.
-* Marcus, Paul, 2012. *In Search of the Spiritual: Gabriel Marcel, Psychoanalysis and the Sacred*, London: Karnac Books
-* Michaud, Thomas, 1984. “Secondary Reflection and Marcelian Anthropology,” *Philosophy Today*, 34: 222–228.
-* –––, 1995. ed. “Gabriel Marcel and the Postmodern World,” Special Issue of *Bulletin de la Société Américaine de Philosophie de Langue Française*, Volume VII.
-* –––, 2006. “Gabriel Marcel’s Politics: Theory and Practice,” *American Catholic Philosophical Quarterly*, 80(3): 435–455.
-* Moran, D, 1992. *Gabriel Marcel*, Lanham, MD. University Press of America.
-* O’Malley, J.B., 1966. *The Fellowship of Being: An Essay on the concept of the person in the philosophy of Gabriel Marcel*, The Hague: Martinus Nijhoff.
-* Novak, Michael, 2006. “Marcel at Harvard,” *American Catholic Philosophical Quarterly*, 80(3): 337–341.
-* Ojara, Pius and Patrick Madigan, 2004. *Marcel, Girad, Bakhtin: The Return of Conversion*, New York: Peter Lang.
-* Oyler D., 1979. “Proofs for the Existence of God in Marcel’s Philosophy,” *Modern Schoolman*, 56: 217–235.
-* Pax, Clyde, 1972. *An Existentialist Approach to God: A Study of Gabriel Marcel*, The Hague: Martinus Nijhoff.
-* –––, 1975. “Marcel’s Way of Creative Fidelity,” *Philosophy Today*, 19 (Spring): 12–25.
-* Peccorini, Francisco L., 1987. *Selfhood as Thinking Thought in the Work of Gabriel Marcel: A New Interpretation*, Lewiston, NY: The Edwin Mellen Press.
-* Plourde, Simone, 2005. “Gabriel Marcel and the Mystery of Suffering,” *Anuario Filosofico*, 38(2): 575–596.
-* Popper, Hans, 2004. “Gabriel Marcel’s ‘Essai de philosophie concrète’ in Its Historical Context,” *Appraisal*, 5(1): 9–24.
-* Randall, Albert B., 1992. *The Mystery of Hope in the Philosophy of Gabriel Marcel*, Lewiston, NY: The Edwin Mellen Press.
-* Reed, Teresa., 2003. “Aspects of Marcel’s Essays,” in *Renascence*, 55(3): 211–227.
-* Redpath, Peter A., 2006. “Gabriel Marcel and the Recovery of Philosophy in Our Time,” in *American Catholic Philosophical Quarterly*, 80(3): 343–353.
-* Rodick, David., 2017. *Gabriel Marcel and American Philosophy*. Lanham, MD.: Lexington. 
-* Schilpp, Paul A. and Hahn, Lewis E. (eds.), 1984. *The Philosophy of Gabriel Marcel*, La Salle, IL: Open Court.
-* Sweetman, Brendan 2008. *The Vision of Gabriel Marcel: Epistemology, Human Person, the Transcendent*, New York: Rodopi Press.
-* –––, Maria Traub & Geoffrey Karabin (eds.), 2019. *The Invisible Threshold: Two Plays by Gabriel Marcel*, South Bend, IN: St. Augustine’s Press.
-* ––– (ed.), 2011. *A Gabriel Marcel Reader*, South Bend, IN: St. Augustine’s Press.
-* –––, 2006. “Marcel on God and Religious Experience, and the Critique of Alston and Hick,” *American Catholic Philosophical Quarterly*, 80(3): 407–420.
-* –––, 2003. “Marcel and Phenomenology: Can Literature Help Philosophy?,” *Renascence*, 55(3): 179–192.
-* –––, 2001. “Martin Buber’s Epistemology,” *International Philosophical Quarterly*, 61(2): 145–160.
-* Tattam, Helen, 2013. *Time in the Philosophy of Gabriel Marcel*, London. Modern Humanities Research Association
-* Tobin, Theresa, 2010. “Toward an Epistemology of Mysticism: Knowing God as Mystery,” *International Philosophical Quarterly*, 50(2): 221–241.
-* Traub, Donald F., 1988. *Toward a Fraternal Society: A Study of Gabriel Marcel’s Approach to Being Technology and Intersubjectivity*, New York, NY: Peter Lang.
-* Treanor, Brian, 2006. “Constellations: Gabriel Marcel’s Philosophy of Relative Otherness,” *American Catholic Philosophical Quarterly*, 80(3): 369–392.
-* –––, 2006. *Aspects of Alterity: Levinas, Marcel, and the Contemporary Debate*, New York: Fordham University Press.
-* Tunstall, Dwayne, 2013. *Doing Philosophy Personally: Thinking about Metaphysics, Theism and Antiblack Racism*, New York: Fordham University Press
+* Kruks, Sonia, 1990. _Situation and Human Existence_, London: Unwin.
+* Lazaron, Hilda, 1998. _Gabriel Marcel: The Dramatist_, London: Colin Smythe.
+* Lechner, Robert, 1984. “Marcel as Radical Empiricist,” in P. Schilpp and L. Hahn (eds.), _The Philosophy of Gabriel Marcel_, La Salle, IL: Open Court, 457–469.
+* ––– (ed.), 1975. “Gabriel Marcel,” Special Issue of _Philosophy Today_, Volume XIX.
+* Malagon, Anthony, 2016. “The Existential Approach to God in Kierkegaard and Marcel: A Conciliatory Study,” _Marcel Studies_, 1(1): 1–23.
+* Marcus, Paul, 2012. _In Search of the Spiritual: Gabriel Marcel, Psychoanalysis and the Sacred_, London: Karnac Books
+* Michaud, Thomas, 1984. “Secondary Reflection and Marcelian Anthropology,” _Philosophy Today_, 34: 222–228.
+* –––, 1995. ed. “Gabriel Marcel and the Postmodern World,” Special Issue of _Bulletin de la Société Américaine de Philosophie de Langue Française_, Volume VII.
+* –––, 2006. “Gabriel Marcel’s Politics: Theory and Practice,” _American Catholic Philosophical Quarterly_, 80(3): 435–455.
+* Moran, D, 1992. _Gabriel Marcel_, Lanham, MD. University Press of America.
+* O’Malley, J.B., 1966. _The Fellowship of Being: An Essay on the concept of the person in the philosophy of Gabriel Marcel_, The Hague: Martinus Nijhoff.
+* Novak, Michael, 2006. “Marcel at Harvard,” _American Catholic Philosophical Quarterly_, 80(3): 337–341.
+* Ojara, Pius and Patrick Madigan, 2004. _Marcel, Girad, Bakhtin: The Return of Conversion_, New York: Peter Lang.
+* Oyler D., 1979. “Proofs for the Existence of God in Marcel’s Philosophy,” _Modern Schoolman_, 56: 217–235.
+* Pax, Clyde, 1972. _An Existentialist Approach to God: A Study of Gabriel Marcel_, The Hague: Martinus Nijhoff.
+* –––, 1975. “Marcel’s Way of Creative Fidelity,” _Philosophy Today_, 19 (Spring): 12–25.
+* Peccorini, Francisco L., 1987. _Selfhood as Thinking Thought in the Work of Gabriel Marcel: A New Interpretation_, Lewiston, NY: The Edwin Mellen Press.
+* Plourde, Simone, 2005. “Gabriel Marcel and the Mystery of Suffering,” _Anuario Filosofico_, 38(2): 575–596.
+* Popper, Hans, 2004. “Gabriel Marcel’s ‘Essai de philosophie concrète’ in Its Historical Context,” _Appraisal_, 5(1): 9–24.
+* Randall, Albert B., 1992. _The Mystery of Hope in the Philosophy of Gabriel Marcel_, Lewiston, NY: The Edwin Mellen Press.
+* Reed, Teresa., 2003. “Aspects of Marcel’s Essays,” in _Renascence_, 55(3): 211–227.
+* Redpath, Peter A., 2006. “Gabriel Marcel and the Recovery of Philosophy in Our Time,” in _American Catholic Philosophical Quarterly_, 80(3): 343–353.
+* Rodick, David., 2017. _Gabriel Marcel and American Philosophy_. Lanham, MD.: Lexington.&#x20;
+* Schilpp, Paul A. and Hahn, Lewis E. (eds.), 1984. _The Philosophy of Gabriel Marcel_, La Salle, IL: Open Court.
+* Sweetman, Brendan 2008. _The Vision of Gabriel Marcel: Epistemology, Human Person, the Transcendent_, New York: Rodopi Press.
+* –––, Maria Traub & Geoffrey Karabin (eds.), 2019. _The Invisible Threshold: Two Plays by Gabriel Marcel_, South Bend, IN: St. Augustine’s Press.
+* ––– (ed.), 2011. _A Gabriel Marcel Reader_, South Bend, IN: St. Augustine’s Press.
+* –––, 2006. “Marcel on God and Religious Experience, and the Critique of Alston and Hick,” _American Catholic Philosophical Quarterly_, 80(3): 407–420.
+* –––, 2003. “Marcel and Phenomenology: Can Literature Help Philosophy?,” _Renascence_, 55(3): 179–192.
+* –––, 2001. “Martin Buber’s Epistemology,” _International Philosophical Quarterly_, 61(2): 145–160.
+* Tattam, Helen, 2013. _Time in the Philosophy of Gabriel Marcel_, London. Modern Humanities Research Association
+* Tobin, Theresa, 2010. “Toward an Epistemology of Mysticism: Knowing God as Mystery,” _International Philosophical Quarterly_, 50(2): 221–241.
+* Traub, Donald F., 1988. _Toward a Fraternal Society: A Study of Gabriel Marcel’s Approach to Being Technology and Intersubjectivity_, New York, NY: Peter Lang.
+* Treanor, Brian, 2006. “Constellations: Gabriel Marcel’s Philosophy of Relative Otherness,” _American Catholic Philosophical Quarterly_, 80(3): 369–392.
+* –––, 2006. _Aspects of Alterity: Levinas, Marcel, and the Contemporary Debate_, New York: Fordham University Press.
+* Tunstall, Dwayne, 2013. _Doing Philosophy Personally: Thinking about Metaphysics, Theism and Antiblack Racism_, New York: Fordham University Press
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=marcel). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/marcel/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=marcel&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/marcel/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=marcel).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/marcel/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=marcel\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/marcel/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -321,8 +320,8 @@ Marcel was a very prolific writer, whose work ranges over philosophy, drama, cri
 
 ## Related Entries
 
-[Bergson, Henri](https://plato.stanford.edu/entries/bergson/) | [Buber, Martin](https://plato.stanford.edu/entries/buber/) | [Christian theology, philosophy and](https://plato.stanford.edu/entries/christiantheology-philosophy/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Ricoeur, Paul](https://plato.stanford.edu/entries/ricoeur/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/)
+[Bergson, Henri](https://plato.stanford.edu/entries/bergson/) | [Buber, Martin](https://plato.stanford.edu/entries/buber/) | [Christian theology, philosophy and](https://plato.stanford.edu/entries/christiantheology-philosophy/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Ricoeur, Paul](https://plato.stanford.edu/entries/ricoeur/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Brian Treanor](http://faculty.lmu.edu/briantreanor/)  
-[Brendan Sweetman](http://www.rockhurst.edu/directory/faculty/brendan-sweetman/) <[*brendan.sweetman@rockhurst.edu*](mailto:brendan%2esweetman%40rockhurst%2eedu)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Brian Treanor](http://faculty.lmu.edu/briantreanor/)\
+[Brendan Sweetman](http://www.rockhurst.edu/directory/faculty/brendan-sweetman/) <[_brendan.sweetman@rockhurst.edu_](mailto:brendan%2esweetman%40rockhurst%2eedu)>
