@@ -560,7 +560,7 @@
 * [非存在对象 nonexistent objects (Maria Reicher)](n/fei-cun-zai-dui-xiang-nonexistent-objects-maria-reicher.md)
 * [非同一性问题 nonidentity problem (M. A. Roberts)](n/fei-tong-yi-xing-wen-ti-nonidentity-problem-m.-a.-roberts.md)
 * [\*正则形式博弈 normal form games](n/zheng-ze-xing-shi-bo-yi-normal-form-games/README.md)
-  * [分析权力的逻辑——见逻辑学：在博弈论中对权力进行推理 logics for analyzing power in — see logic: for analyzing power in normal form games](n/zheng-ze-xing-shi-bo-yi-normal-form-games/fen-xi-quan-li-de-luo-ji-jian-luo-ji-xue-zai-bo-yi-lun-zhong-dui-quan-li-jin-hang-tui-li-logics-for.md)
+  * [\*分析权力的逻辑——见逻辑学：在博弈论中对权力进行推理 logics for analyzing power in — see logic: for analyzing power in normal form games](n/zheng-ze-xing-shi-bo-yi-normal-form-games/fen-xi-quan-li-de-luo-ji-jian-luo-ji-xue-zai-bo-yi-lun-zhong-dui-quan-li-jin-hang-tui-li-logics-for.md)
 * [规范认知的心理学 normative cognition, psychology of (Daniel Kelly and Stephen Setman)](n/gui-fan-ren-zhi-de-xin-li-xue-normative-cognition-psychology-of-daniel-kelly-and-stephen-setman.md)
 * [\*规范性 normativity](n/gui-fan-xing-normativity/README.md)
   * [\*逻辑——见逻辑的规范性地位 logic — see logic, normative status of](n/gui-fan-xing-normativity/luo-ji-jian-luo-ji-de-gui-fan-xing-di-wei-logic-see-logic-normative-status-of.md)
