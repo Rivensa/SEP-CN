@@ -1,29 +1,27 @@
 # 艾萨克·牛顿 Newton, Isaac (George Smith)
 
-*首次发表于2007年12月19日*
+_首次发表于2007年12月19日_
 
 艾萨克·牛顿（1642-1727）以在 1660 年代中后期发明微积分（比莱布尼茨独立发明的时间早了几乎十年，并且最终影响更大）和在他的《自然哲学的数学原理》中提出普遍引力理论而闻名。后者是他最重要的作品，将早期现代自然哲学转变为现代物理科学。然而，他在光学方面也在 1660 年代中期开始并持续了四十年的时间内做出了重大发现；在他 60 年的激烈知识活动中，他在化学和炼金术研究以及神学和圣经研究方面付出的努力不亚于数学和物理学。他的《自然哲学的数学原理》于 1687 年出版后，几乎立即成为英国的主导人物，因此，“牛顿主义”以一种形式或另一种形式在 18 世纪初的英国扎根。然而，他在欧洲的影响力受到了克里斯蒂安·惠更斯和莱布尼茨等重要人物对他的引力理论的强烈反对的阻碍，他们认为该理论在没有牛顿提出引力力量可以作用的接触机制的情况下，涉及到一种遥远的神秘力量。随着引力理论的承诺在 1730 年代末期以及 1740 年代和 1750 年代得到越来越多的证实，牛顿在欧洲也成为一个同样卓越的人物，“牛顿主义”在那里也得到了发展，尽管可能以更谨慎的形式。现在物理教科书所称的“牛顿力学”和“牛顿科学”主要是在 1740 年至 1800 年间在欧洲取得的成果。
 
 * [1. 牛顿的生平](https://plato.stanford.edu/entries/newton/#NewLif)
-
   * [1.1 牛顿的早年](https://plato.stanford.edu/entries/newton/#NewEarYea)
   * [1.2 艾萨克·牛顿在《自然哲学的数学原理》之前在剑桥的岁月](https://plato.stanford.edu/entries/newton/#NewYeaCamPriPri)
   * [1.3 艾萨克·牛顿在剑桥的最后岁月](https://plato.stanford.edu/entries/newton/#NewFinYeaCam)
   * [1.4 艾萨克·牛顿在伦敦的岁月和他的最后岁月](https://plato.stanford.edu/entries/newton/#NewYeaLonHisFinYea)
 * [2. 艾萨克·牛顿的工作和影响](https://plato.stanford.edu/entries/newton/#NewWorInf)
-* [ 参考文献](https://plato.stanford.edu/entries/newton/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/newton/#PriSou)
-  * [ 二次来源](https://plato.stanford.edu/entries/newton/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/newton/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/newton/#Bib)
+  * [主要来源](https://plato.stanford.edu/entries/newton/#PriSou)
+  * [二次来源](https://plato.stanford.edu/entries/newton/#SecSou)
+* [学术工具](https://plato.stanford.edu/entries/newton/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/newton/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/newton/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/newton/#Rel)
 
----
+***
 
 ## 1. 艾萨克·牛顿的生活
 
-艾萨克·牛顿的生活自然地分为四个部分：1661 年他进入剑桥大学之前的岁月；1687 年《自然哲学的数学原理》出版之前的剑桥岁月；紧随此出版物之后的近十年时间，以他带来的声誉和对剑桥的日益失望为标志；以及他在伦敦的最后三十年，其中大部分时间他担任造币厂厂长。虽然他在伦敦的这些年里仍然保持着智力活跃，但他传奇般的成就几乎完全来自他在剑桥的岁月。然而，除了他在伦敦的岁月之外，他去世前发表的所有作品都属于他在伦敦的岁月中。[1]
+艾萨克·牛顿的生活自然地分为四个部分：1661 年他进入剑桥大学之前的岁月；1687 年《自然哲学的数学原理》出版之前的剑桥岁月；紧随此出版物之后的近十年时间，以他带来的声誉和对剑桥的日益失望为标志；以及他在伦敦的最后三十年，其中大部分时间他担任造币厂厂长。虽然他在伦敦的这些年里仍然保持着智力活跃，但他传奇般的成就几乎完全来自他在剑桥的岁月。然而，除了他在伦敦的岁月之外，他去世前发表的所有作品都属于他在伦敦的岁月中。\[1]
 
 ### 1.1 艾萨克·牛顿的早年
 
@@ -41,7 +39,7 @@
 
 在这一时期，牛顿对轨道天文学表现出很少的兴趣，直到霍克在 1679 年 11 月底与他进行了一次简短的通信，试图为皇家学会征集材料，而这次通信发生在牛顿母亲去世后不久，牛顿刚刚回到剑桥。霍克向牛顿提出的几个问题之一是关于在一个反比例中心力下物体的轨迹的问题：
 
-> 现在我们需要了解一条曲线（不是圆形或同心圆），由一个中心引力产生，使得从切线或等速直线运动下降的速度与距离的倒数成二次比例。我相信通过你的优秀方法，你将很容易找到这条曲线的形状和性质，并提出这种比例的物理原因。[3]
+> 现在我们需要了解一条曲线（不是圆形或同心圆），由一个中心引力产生，使得从切线或等速直线运动下降的速度与距离的倒数成二次比例。我相信通过你的优秀方法，你将很容易找到这条曲线的形状和性质，并提出这种比例的物理原因。\[3]
 
 艾萨克·牛顿显然在当时发现了抛物线轨迹与反比例方向力之间的系统关系，但他没有向任何人传达这一发现，并且由于原因不明，直到 1684 年夏天哈雷在访问期间向他提出了同样的问题，他才对这一发现进行了后续研究。他当时的回答是一个椭圆；当他无法出示他作出这一决定的纸张时，他同意向伦敦的哈雷提供一份解释。牛顿在 11 月履行了这一承诺，向哈雷寄送了一份九页的手稿，名为《论物体在轨道中的运动》（“De Motu Corporum in Gyrum”），该手稿于 1684 年 12 月初被录入英国皇家学会的注册册中。这篇论文的主体由十个推导出的命题组成——三个定理和七个问题——所有这些命题以及它们的推论都在《自然哲学的数学原理》中的重要命题中再次出现。
 
@@ -69,7 +67,7 @@
 
 牛顿所致力于的各个学科的多样性使得他在每个学科内的工作形成了鲜明的对比。光学和轨道力学都属于我们现在称之为物理学的范畴，即使在那个时候，它们也被视为彼此相连，正如笛卡尔在该主题上的第一部作品《世界，或光的论述》所示。然而，从牛顿的《光学》和《自然哲学的数学原理》中产生了两种非常不同的“牛顿式”物理学传统：从他的《光学》中产生了一种以细致实验为中心的传统，而从他的《自然哲学的数学原理》中产生了一种以数学理论为中心的传统。这两者共同的最重要的元素是牛顿对于让经验世界不仅作为最终仲裁者，而且作为采用临时理论的唯一基础的深刻承诺。在所有这些工作中，他表现出对当时被称为假设方法的不信任 - 提出超越所有已知现象的假设，然后通过推导可观察的结论来测试它们。牛顿坚持让具体现象决定理论的每个要素，目标是尽可能地将理论的临时性限制在从具体现象归纳概括的步骤中。这种立场可能最好地总结在他的推理第四条规则中，该规则是在《自然哲学的数学原理》的第三版中添加的，但早在 17 世纪 70 年代的光学讲座中就已经采用了：
 
-> *在实验哲学中，通过归纳从现象中得出的命题应被视为准确或非常接近真实，尽管存在相反的假设，直到其他现象使这些命题变得更加准确或容易出现例外。*
+> _在实验哲学中，通过归纳从现象中得出的命题应被视为准确或非常接近真实，尽管存在相反的假设，直到其他现象使这些命题变得更加准确或容易出现例外。_
 >
 > 应遵循此规则，以免归纳的论证被假设所否定。
 
@@ -87,7 +85,7 @@
 
 当然，如果没有《自然哲学的数学原理》，在哲学百科全书中就不会有牛顿的条目。在科学领域，他只因为在光学方面的贡献而为人所知，虽然这些贡献值得注意，但并不比惠更斯和格里马尔迪的贡献更为重要，而这两位对哲学的影响并不大；在数学方面，他未能发表作品使得他的工作只能成为莱布尼茨及其学派成就的脚注。无论“牛顿式”的哪个方面，这个词都因《自然哲学的数学原理》而获得了其光环。但这又增加了进一步的复杂性，因为《自然哲学的数学原理》本身对不同的人来说意义不同。第一版的印刷数量（估计约为300本）太少，以至于很少有人读过。第二版还出现了两个盗版的阿姆斯特丹版本，因此更加广泛地流传，第三版及其英文（后来是法文）翻译也是如此。然而，《自然哲学的数学原理》并不是一本容易阅读的书，所以我们仍然必须问，即使那些有机会阅读它的人，他们是否读了全部或只是部分内容，并且他们对所读内容的复杂性有多少理解。耶稣会三卷本的详细评论使这部作品变得不那么令人望而生畏。但即使如此，那些使用“牛顿式”一词的绝大多数人对《自然哲学的数学原理》本身的了解可能并不比20世纪上半叶那些引用“相对论”的人对爱因斯坦1905年的两篇狭义相对论论文或1916年的广义相对论论文的了解更多。对于评论牛顿的任何哲学家来说，一个重要的问题是，他们读过哪些原始资料？
 
-1740年代见证了《自然哲学的数学原理》中科学地位的重大转变。《自然哲学的数学原理》本身留下了一些悬而未决的问题，其中大部分只有高度敏锐的读者才能察觉到。然而，到了1730年，其中一些悬而未决的问题已经在伯纳德·勒·博维耶·德·丰特奈尔为牛顿写的颂词[4]和约翰·马钦在1729年英文版《自然哲学的数学原理》的附录中被引用，这引发了关于牛顿引力理论在经验上有多可靠的问题。大陆上的转变始于1730年代，当时莫波蒂伊斯说服皇家学院组织远征队前往拉普兰和秘鲁，以确定牛顿关于地球非球形形状和表面重力随纬度变化的说法是否正确。在1740年代，通过《地球形状理论》等超越《自然哲学的数学原理》的重要进展，一些悬而未决的问题得到了成功解决，例如克莱罗的《地球形状理论》、秘鲁远征队的归来、达朗贝尔于1749年提出的解释地球摆动引起春分点回归的刚体解、克莱罗于1749年解决了牛顿在月球黄道平均运动中理论与观测之间的2倍差异问题，这个问题被牛顿忽略了，但被马钦强调了；以及托比亚斯·迈耶于1753年根据欧拉在20世纪50年代初利用克莱罗对黄道平均运动的解提出的引力理论推导出的月球运动的首个成功描述，这也是获奖的。
+1740年代见证了《自然哲学的数学原理》中科学地位的重大转变。《自然哲学的数学原理》本身留下了一些悬而未决的问题，其中大部分只有高度敏锐的读者才能察觉到。然而，到了1730年，其中一些悬而未决的问题已经在伯纳德·勒·博维耶·德·丰特奈尔为牛顿写的颂词\[4]和约翰·马钦在1729年英文版《自然哲学的数学原理》的附录中被引用，这引发了关于牛顿引力理论在经验上有多可靠的问题。大陆上的转变始于1730年代，当时莫波蒂伊斯说服皇家学院组织远征队前往拉普兰和秘鲁，以确定牛顿关于地球非球形形状和表面重力随纬度变化的说法是否正确。在1740年代，通过《地球形状理论》等超越《自然哲学的数学原理》的重要进展，一些悬而未决的问题得到了成功解决，例如克莱罗的《地球形状理论》、秘鲁远征队的归来、达朗贝尔于1749年提出的解释地球摆动引起春分点回归的刚体解、克莱罗于1749年解决了牛顿在月球黄道平均运动中理论与观测之间的2倍差异问题，这个问题被牛顿忽略了，但被马钦强调了；以及托比亚斯·迈耶于1753年根据欧拉在20世纪50年代初利用克莱罗对黄道平均运动的解提出的引力理论推导出的月球运动的首个成功描述，这也是获奖的。
 
 欧拉是将牛顿在《自然哲学的数学原理》中提出的三个运动定律转化为牛顿力学的中心人物。这三个定律，正如牛顿所阐述的那样，适用于“质点”，这个术语是欧拉在他1736年的《力学》中提出的。18世纪力学的大部分工作都致力于解决刚体、弹性绳和物体以及流体的运动问题，这些问题都需要超越牛顿三定律的原则。从18世纪40年代开始，这导致了替代性的方法来制定一般力学，采用了诸如活力守恒、最小作用原理和达朗贝尔原理等不同的原则。所谓的“牛顿力学”的一般形式是源于欧拉在1750年提出的观点，即牛顿的第二定律可以在体内和流体内局部应用，从而得到描述物体、弹性体和刚体以及流体运动的微分方程。在18世纪50年代，欧拉发展了他关于流体运动的方程，而在18世纪60年代，他发展了关于刚体运动的方程。因此，我们所称的牛顿力学更多地是欧拉的功劳，而不是牛顿的。
 
@@ -103,36 +101,36 @@
 
 ### Primary Sources
 
-| **[P]** | *Philosophiae Naturalis Principia Mathematica* (“*Mathematical Principles of Natural Philosophy*”), London, 1687; Cambridge, 1713; London, 1726. *Isaac Newton's Philosophiae Naturalis Principia Mathematica, the Third Edition with Variant Readings*, ed. A. Koyré and I. B. Cohen, 2 vols., Cambridge: Harvard University Press and Cambridge: Cambridge University Press, 1972. *The Principia: Mathematical Principles of Natural Philosophy: A New Translation*, tr. I. B. Cohen and Anne Whitman, preceded by “A Guide to Newton's*Principia*” by I. B. Cohen, Berkeley: University of California Press, 1999. |
-| --- | --- |
-| **[O]** | *Opticks or A Treatise of the Reflections, Refractions, Inflections & Colors of Light***,** London, 1704 (English)*,* 1706 (Latin), 1717/18 (English). Now available under the same title, but based on the fourth posthumous edition of 1730, New York: Dover Publications, 1952. |
-| **[A]** | *The Chronology of Ancient Kingdoms Amended*, ed. John Conduit, London,1728. |
-| **[S]** | *The System of the World,* London, 1728. The original version of the third book of the *Principia*, retitled by the translator and reissued in reprint form, London: Dawsons of Pall Mall, 1969. |
-| **[O]** | *Observations upon the Prophecies of Daniel and the Apocalypse of St John*, ed. Benjamin Smith, London and Dublin,1733. |
-| **[C]** | *The Correspondence of Isaac Newton*, ed. H. W. Turnbull, J. F. Scott, A. R. Hall, and L. Tilling, 7 vols., Cambridge: Cambridge University Press, 1959–1984. |
-| **[M]** | *The Mathematical Papers of Isaac Newton*, ed. D. T. Whiteside, 8 vols., Cambridge: Cambridge University Press, 1967–81. |
-| **[W]** | *The Mathematical Works of Isaac Newton*, ed. D. T. Whiteside, 2 vols., New York: Johnson Reprint Corporation, 1964, 1967. Contains facsimile reprints of the translations into English published during the first half of the 18th century. |
-| **[U]** | *Unpublished Scientific Papers of Isaac Newton*, ed. A. R. Hall and M. B. Hall, Cambridge: Cambridge University Press, 1962. |
-| **[N]** | *Isaac Newton's Papers and Letters on Natural Philosophy*, 2nd ed., ed. I. B. Cohen and R. E. Schofield, Cambridge: Harvard University Press, 1978. Contains all the papers on optics published in the early 1670s, the letters to Bentley, and Fontenelle's Elogium, among other things). |
-| **[L]** | *The Optical Papers of Isaac Newton: Volume 1, The Optical Lectures, 1670–72,* ed. Alan E. Shapiro, Cambridge University Press, 1984; volume 2 forthcoming. |
-| **[J]** | *Philosophical Writings*, ed. A. Janiak, Cambridge: Cambridge University Press, 2004. |
+| **\[P]** | _Philosophiae Naturalis Principia Mathematica_ (“_Mathematical Principles of Natural Philosophy_”), London, 1687; Cambridge, 1713; London, 1726. _Isaac Newton's Philosophiae Naturalis Principia Mathematica, the Third Edition with Variant Readings_, ed. A. Koyré and I. B. Cohen, 2 vols., Cambridge: Harvard University Press and Cambridge: Cambridge University Press, 1972. _The Principia: Mathematical Principles of Natural Philosophy: A New Translation_, tr. I. B. Cohen and Anne Whitman, preceded by “A Guide to Newton's_Principia_” by I. B. Cohen, Berkeley: University of California Press, 1999. |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **\[O]** | _Opticks or A Treatise of the Reflections, Refractions, Inflections & Colors of Light_\*\*,\*\* London, 1704 (English)_,_ 1706 (Latin), 1717/18 (English). Now available under the same title, but based on the fourth posthumous edition of 1730, New York: Dover Publications, 1952.                                                                                                                                                                                                                                                                                                                                 |
+| **\[A]** | _The Chronology of Ancient Kingdoms Amended_, ed. John Conduit, London,1728.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **\[S]** | _The System of the World,_ London, 1728. The original version of the third book of the _Principia_, retitled by the translator and reissued in reprint form, London: Dawsons of Pall Mall, 1969.                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **\[O]** | _Observations upon the Prophecies of Daniel and the Apocalypse of St John_, ed. Benjamin Smith, London and Dublin,1733.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **\[C]** | _The Correspondence of Isaac Newton_, ed. H. W. Turnbull, J. F. Scott, A. R. Hall, and L. Tilling, 7 vols., Cambridge: Cambridge University Press, 1959–1984.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **\[M]** | _The Mathematical Papers of Isaac Newton_, ed. D. T. Whiteside, 8 vols., Cambridge: Cambridge University Press, 1967–81.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **\[W]** | _The Mathematical Works of Isaac Newton_, ed. D. T. Whiteside, 2 vols., New York: Johnson Reprint Corporation, 1964, 1967. Contains facsimile reprints of the translations into English published during the first half of the 18th century.                                                                                                                                                                                                                                                                                                                                                                           |
+| **\[U]** | _Unpublished Scientific Papers of Isaac Newton_, ed. A. R. Hall and M. B. Hall, Cambridge: Cambridge University Press, 1962.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **\[N]** | _Isaac Newton's Papers and Letters on Natural Philosophy_, 2nd ed., ed. I. B. Cohen and R. E. Schofield, Cambridge: Harvard University Press, 1978. Contains all the papers on optics published in the early 1670s, the letters to Bentley, and Fontenelle's Elogium, among other things).                                                                                                                                                                                                                                                                                                                             |
+| **\[L]** | _The Optical Papers of Isaac Newton: Volume 1, The Optical Lectures, 1670–72,_ ed. Alan E. Shapiro, Cambridge University Press, 1984; volume 2 forthcoming.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **\[J]** | _Philosophical Writings_, ed. A. Janiak, Cambridge: Cambridge University Press, 2004.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ### Secondary Sources
 
-* Westfall, Richard S., 1980, *Never At Rest: A Biography of Isaac Newton*, New York: Cambridge University Press.
-* Hall, A. Rupert, 1992**,** *Isaac Newton: Adventurer in Thought*, Oxford: Blackwell.
-* Feingold, Mordechai, 2004**,** *The Newtonian Moment: Isaac Newton and the Making of Modern Culture*, Oxford: Oxford University Press.
-* Iliffe, Rob, 2007, *Newton: A Very Short Introduction* Oxford: Oxford University Press.
-* Cohen, I. B. and Smith, G. E., 2002, *The Cambridge Companion to Newton*, Cambridge: Cambridge University Press.
-* Cohen, I. B. and Westfall, R. S., 1995, *Newton: Texts, Backgrounds, and Commentaries*, A Norton Critical Edition, New York: Norton.
+* Westfall, Richard S., 1980, _Never At Rest: A Biography of Isaac Newton_, New York: Cambridge University Press.
+* Hall, A. Rupert, 1992\*\*,\*\* _Isaac Newton: Adventurer in Thought_, Oxford: Blackwell.
+* Feingold, Mordechai, 2004\*\*,\*\* _The Newtonian Moment: Isaac Newton and the Making of Modern Culture_, Oxford: Oxford University Press.
+* Iliffe, Rob, 2007, _Newton: A Very Short Introduction_ Oxford: Oxford University Press.
+* Cohen, I. B. and Smith, G. E., 2002, _The Cambridge Companion to Newton_, Cambridge: Cambridge University Press.
+* Cohen, I. B. and Westfall, R. S., 1995, _Newton: Texts, Backgrounds, and Commentaries_, A Norton Critical Edition, New York: Norton.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=newton). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/newton/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=newton&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/newton/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=newton).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/newton/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=newton\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/newton/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
@@ -143,7 +141,7 @@
 
 ## Related Entries
 
-[Copernicus, Nicolaus](https://plato.stanford.edu/entries/copernicus/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Newton, Isaac: *Philosophiae Naturalis Principia Mathematica*](https://plato.stanford.edu/entries/newton-principia/) | [scientific revolutions](https://plato.stanford.edu/entries/scientific-revolutions/) | [trinity](https://plato.stanford.edu/entries/trinity/) | [Whewell, William](https://plato.stanford.edu/entries/whewell/)
+[Copernicus, Nicolaus](https://plato.stanford.edu/entries/copernicus/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Newton, Isaac: _Philosophiae Naturalis Principia Mathematica_](https://plato.stanford.edu/entries/newton-principia/) | [scientific revolutions](https://plato.stanford.edu/entries/scientific-revolutions/) | [trinity](https://plato.stanford.edu/entries/trinity/) | [Whewell, William](https://plato.stanford.edu/entries/whewell/)
 
-[Copyright © 2007](https://plato.stanford.edu/info.html#c) by  
-[George Smith](https://as.tufts.edu/philosophy/people/faculty/george-smith) <[*george.smith@tufts.edu*](mailto:george%2esmith%40tufts%2eedu)>
+[Copyright © 2007](https://plato.stanford.edu/info.html#c) by\
+[George Smith](https://as.tufts.edu/philosophy/people/faculty/george-smith) <[_george.smith@tufts.edu_](mailto:george%2esmith%40tufts%2eedu)>

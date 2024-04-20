@@ -1,29 +1,27 @@
 # 尼克尔·奥里斯姆 Oresme, Nicole (Stefan Kirschner)
 
-*首次发表于2009年7月23日；实质修订于2021年9月3日。*
+_首次发表于2009年7月23日；实质修订于2021年9月3日。_
 
 毫无疑问，尼克尔·奥里斯姆是最杰出的经院哲学家之一，以他的原创思想、独立思考和对亚里士多德几个观点的批判而闻名。他的工作为现代数学和科学的发展提供了一些基础。此外，他被普遍认为是最伟大的中世纪经济学家。应法国国王查理五世之命，他将亚里士多德的《伦理学》、《政治学》和《论天体》以及伪亚里士多德的《经济学》从拉丁语翻译成法语，对法语散文的发展，特别是其科学和哲学词汇方面产生了重要影响。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/nicole-oresme/#Lif)
-* [ 2. 教学](https://plato.stanford.edu/entries/nicole-oresme/#Tea)
-
+* [1. 生平](https://plato.stanford.edu/entries/nicole-oresme/#Lif)
+* [2. 教学](https://plato.stanford.edu/entries/nicole-oresme/#Tea)
   * [2.1 事故的本体论地位](https://plato.stanford.edu/entries/nicole-oresme/#OntStaAcc)
   * [2.2 非亚里士多德的地点和空间概念](https://plato.stanford.edu/entries/nicole-oresme/#NonAriConPlaSpa)
   * [2.3 非亚里士多德的时间概念](https://plato.stanford.edu/entries/nicole-oresme/#NonAriConTim)
   * [2.4 运动理论](https://plato.stanford.edu/entries/nicole-oresme/#TheMot)
   * [2.5 宇宙学、天文学和对占星术的反对](https://plato.stanford.edu/entries/nicole-oresme/#CosAstOppAst)
-  * [ 2.6 数学](https://plato.stanford.edu/entries/nicole-oresme/#Mat)
-  * [ 2.7 经济学](https://plato.stanford.edu/entries/nicole-oresme/#Eco)
-* [ 参考文献](https://plato.stanford.edu/entries/nicole-oresme/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/nicole-oresme/#PriLit)
+  * [2.6 数学](https://plato.stanford.edu/entries/nicole-oresme/#Mat)
+  * [2.7 经济学](https://plato.stanford.edu/entries/nicole-oresme/#Eco)
+* [参考文献](https://plato.stanford.edu/entries/nicole-oresme/#Bib)
+  * [主要文献](https://plato.stanford.edu/entries/nicole-oresme/#PriLit)
   * [尼克尔·奥里斯姆的作品目录](https://plato.stanford.edu/entries/nicole-oresme/#CatWorOre)
-  * [ 二手文献](https://plato.stanford.edu/entries/nicole-oresme/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/nicole-oresme/#Aca)
+  * [二手文献](https://plato.stanford.edu/entries/nicole-oresme/#SecLit)
+* [学术工具](https://plato.stanford.edu/entries/nicole-oresme/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/nicole-oresme/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nicole-oresme/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/nicole-oresme/#Rel)
 
----
+***
 
 ## 1. 生命
 
@@ -91,7 +89,7 @@ a+am+am2+am3+…+amn+amn+1+…,
 
 对于任意数量（aliqua quantitas）a 和任意大于或等于 2 的自然数 m（参见 Murdoch 1964；Mazet 2003），奥里斯姆告诉我们，我们必须取两个连续项的差，即 a/mn−a/mn+1，并将其除以第一个项，即 a/mn，这样我们就得到：
 
- a/mn−a/mn+1a/mn=m−1m。
+a/mn−a/mn+1a/mn=m−1m。
 
 这个分数的倒数，即 mm−1，将是整个序列的和与序列的第一项 a 的比例。因此，如果我们有这个序列
 
@@ -117,119 +115,117 @@ a+am+am2+am3+…+amn+amn+1+…,
 
 奥里斯姆对经济问题的兴趣和参与不应被视为他知识生活中的孤立主题。正如 Kaye（1998 年，2 页）所指出的，奥里斯姆和他所处时期的自然哲学对测量、分级和定量化质量的关注，受到了当时欧洲社会快速货币化的强烈影响。
 
-
-
 ## Bibliography
 
 ### Primary Literature
 
-* Adam de Wodeham, *Lectura secunda in librum primum Sententiarum. Prologus et distinctio prima*, R. Wood and G. Gál O.F.M. (eds.), St. Bonaventure, NY: St. Bonaventure University, 1990.
-* Bradwardine, Th., *Thomae Bradwardini Archiepiscopi olim cantuariensis, de causa Dei, contra Pelagium, et de virtute causarum, ad suos Mertonenses, libri tres*, Londini, ex officina Nortoniana, apud Ioannem Billium, M.DC.XVIII.
-* Buridan, J., *Acutissimi philosophi reverendi Magistri Johannis Buridani subtilissime questiones super octo Phisicorum libros Aristotelis diligenter recognite et revise A magistro Johanne Dullaert de Gandavo antea nusquam impresse*, Parisiis, Petrus le Dru impensis Dionisii Roce, 1509 (repr. Frankfurt am Main, Minerva, 1964).
-* Crescas, H., *Or Adonai*, in *Crescas’ Critique of Aristotle. Problems of Aristotle’s Physics in Jewish and Arabic Philosophy*, H. A. Wolfson (ed.), Cambridge, MA: Harvard University Press, 1929, 129–315.
-* Gregory of Rimini, *Gregorii Ariminensis OESA lectura super primum et secundum Sententiarum*, A. Trapp OSA and V. Marcolino (eds.), Tomus 1, Super primum, Berlin/New York: Walter de Gruyter, 1981.
-* Oresme, N., *Traictié de la première invention des monnoies de N. Oresme*, L. Wolowski (ed.), Paris: Guillaumin, 1864.
-* –––, *De origine, natura, jure et mutationibus monetarum*, L. Wolowski (ed.), Paris: Guillaumin, 1864. Also in Johnson, Ch., 1956, *The De Moneta of Nicholas Oresme and English Mint Documents*. London etc.: Thomas Nelson and Sons Ltd.
-* –––, *Le Livre de Ethiques d’Aristote*. A. D. Menut (ed.), New York: Stechert, 1940.
-* –––, *Livre de divinacions*, in *Nicole Oresme and the Astrologers. A Study of His Livre de Divinacions*, G. W. Coopland (ed.), Liverpool: At the University Press, 1952, 49–121.
-* –––, *Tractatus contra astronomos*, in *Nicole Oresme and the Astrologers. A Study of His Livre de Divinacions*, G. W. Coopland (ed.), Liverpool: At the University Press, 1952, 123–141.
-* –––, *Le Livre de Yconomique d’Aristote*. A. D. Menut (ed.), *Transactions of the American Philosophical Society* (New Series), 47 (1957): 783–853.
-* –––, *Quaestiones super geometriam Euclidis*, H. L. L. Busard (ed.), Leiden: Brill, 1961.
-* –––, *The Questiones super De celo of Nicole Oresme*, edited, with English translation by C. Kren, Ph.D. Dissertation, University of Wisconsin, 1965.
-* –––, *The Questiones de spera of Nicole Oresme*, Latin text with English translation, commentary, and variants by Garrett Droppers. Ph.D. Dissertation, University of Wisconsin, 1966.
-* –––, *De proportionibus proportionum and Ad pauca respicientes*, Edited with introductions, English translations, and critical notes by Edward Grant. Madison, Milwaukee, and London: University of Wisconsin Press, 1966.
-* –––, *Nicole Oresme and the Medieval Geometry of Qualities and Motions. A Treatise on the Uniformity and Difformity of Intensities Known as “Tractatus de configurationibus qualitatum et motuum”*. Edited with an introduction, English translation and commentary by Marshall Clagett. Madison, Milwaukee, and London: University of Wisconsin Press, 1968.
-* –––, *Le livre du ciel et du monde*. Edited by A. D. Menut and A. J. Denomy, C.S.B. Translated with an introduction by A. D. Menut. Madison, Milwaukee, and London: University of Wisconsin Press, 1968.
-* –––, *Le Livre de Politiques d’Aristote*. Published from the Text of the Avranches Manuscript 223. With a Critical Introduction and Notes by A. D. Menut. Philadelphia 1970. (Transactions of the American Philosophical Society, New Series, Vol. 60, Part 6.)
-* –––, *Nicole Oresme and the Kinematics of Circular Motion. Tractatus de commensurabilitate vel incommensurabilitate motuum celi*. Edited with an introduction, English translation, and commentary by Edward Grant. Madison, Milwaukee, and London: University of Wisconsin Press, 1971.
-* –––, *Nicolaus Oresmes Kommentar zur Physik des Aristoteles. Kommentar mit Edition der Quaestionen zu Buch 3 und 4 der aristotelischen Physik sowie von vier Quaestionen zu Buch 5*. [Oresme’s Commentary on Aristotle’s Physics. Edition of the *Quaestiones* on Book 3 and 4 of Aristotle’s Physics and of the *Quaestiones* 6 – 9 on Book 5.] Edited by Stefan Kirschner. Stuttgart: Steiner, 1997.
-* –––, *Nicole Oresme’s De visione stellarum (On Seeing the Stars)*. A Critical Edition of Oresme’s Treatise on Optics and Atmospheric Refraction, with an Introduction, Commentary, and English Translation by Dan Burton. Leiden, Boston: Brill, 2007.
-* –––, *Livre de divinacions*, in S. Rapisarda (ed.), *Nicole Oresme. Contro la divinazione. Consigli antiastrologici al re di Francia (1356)*, Roma: Carocci, 2009, 78–288 (with Italian translation).
-* –––, *Questiones super geometriam Euclidis*, H. L. L. Busard (ed.), Stuttgart: Steiner, 2010.
-* –––, *Sur les rapports de rapports*, in S. Rommevaux (ed.), *Thomas Bradwardine: Traité des rapports entre les rapidités dans les mouvements suivi de Nicole Oresme: Sur les rapports de rapports. Introduction, traduction, et commentaires*, Paris: Les Belles Lettres, 2010, 75–173 (French translation of Oresme’s *De proportionibus proportionum*).
-* –––, *Questiones super Physicam (Books I–VII)*, S. Caroti, J. Celeyrette, S. Kirschner and E. Mazet (eds.), Leiden, Boston: Brill, 2013.
-* –––, *Questiones in Meteorologica de ultima lectura, recensio parisiensis* (Study of the Manuscript Tradition and Critical Edition of Books I–II.10), A. Panzica (ed.), Leiden, Boston: Brill, 2021.
+* Adam de Wodeham, _Lectura secunda in librum primum Sententiarum. Prologus et distinctio prima_, R. Wood and G. Gál O.F.M. (eds.), St. Bonaventure, NY: St. Bonaventure University, 1990.
+* Bradwardine, Th., _Thomae Bradwardini Archiepiscopi olim cantuariensis, de causa Dei, contra Pelagium, et de virtute causarum, ad suos Mertonenses, libri tres_, Londini, ex officina Nortoniana, apud Ioannem Billium, M.DC.XVIII.
+* Buridan, J., _Acutissimi philosophi reverendi Magistri Johannis Buridani subtilissime questiones super octo Phisicorum libros Aristotelis diligenter recognite et revise A magistro Johanne Dullaert de Gandavo antea nusquam impresse_, Parisiis, Petrus le Dru impensis Dionisii Roce, 1509 (repr. Frankfurt am Main, Minerva, 1964).
+* Crescas, H., _Or Adonai_, in _Crescas’ Critique of Aristotle. Problems of Aristotle’s Physics in Jewish and Arabic Philosophy_, H. A. Wolfson (ed.), Cambridge, MA: Harvard University Press, 1929, 129–315.
+* Gregory of Rimini, _Gregorii Ariminensis OESA lectura super primum et secundum Sententiarum_, A. Trapp OSA and V. Marcolino (eds.), Tomus 1, Super primum, Berlin/New York: Walter de Gruyter, 1981.
+* Oresme, N., _Traictié de la première invention des monnoies de N. Oresme_, L. Wolowski (ed.), Paris: Guillaumin, 1864.
+* –––, _De origine, natura, jure et mutationibus monetarum_, L. Wolowski (ed.), Paris: Guillaumin, 1864. Also in Johnson, Ch., 1956, _The De Moneta of Nicholas Oresme and English Mint Documents_. London etc.: Thomas Nelson and Sons Ltd.
+* –––, _Le Livre de Ethiques d’Aristote_. A. D. Menut (ed.), New York: Stechert, 1940.
+* –––, _Livre de divinacions_, in _Nicole Oresme and the Astrologers. A Study of His Livre de Divinacions_, G. W. Coopland (ed.), Liverpool: At the University Press, 1952, 49–121.
+* –––, _Tractatus contra astronomos_, in _Nicole Oresme and the Astrologers. A Study of His Livre de Divinacions_, G. W. Coopland (ed.), Liverpool: At the University Press, 1952, 123–141.
+* –––, _Le Livre de Yconomique d’Aristote_. A. D. Menut (ed.), _Transactions of the American Philosophical Society_ (New Series), 47 (1957): 783–853.
+* –––, _Quaestiones super geometriam Euclidis_, H. L. L. Busard (ed.), Leiden: Brill, 1961.
+* –––, _The Questiones super De celo of Nicole Oresme_, edited, with English translation by C. Kren, Ph.D. Dissertation, University of Wisconsin, 1965.
+* –––, _The Questiones de spera of Nicole Oresme_, Latin text with English translation, commentary, and variants by Garrett Droppers. Ph.D. Dissertation, University of Wisconsin, 1966.
+* –––, _De proportionibus proportionum and Ad pauca respicientes_, Edited with introductions, English translations, and critical notes by Edward Grant. Madison, Milwaukee, and London: University of Wisconsin Press, 1966.
+* –––, _Nicole Oresme and the Medieval Geometry of Qualities and Motions. A Treatise on the Uniformity and Difformity of Intensities Known as “Tractatus de configurationibus qualitatum et motuum”_. Edited with an introduction, English translation and commentary by Marshall Clagett. Madison, Milwaukee, and London: University of Wisconsin Press, 1968.
+* –––, _Le livre du ciel et du monde_. Edited by A. D. Menut and A. J. Denomy, C.S.B. Translated with an introduction by A. D. Menut. Madison, Milwaukee, and London: University of Wisconsin Press, 1968.
+* –––, _Le Livre de Politiques d’Aristote_. Published from the Text of the Avranches Manuscript 223. With a Critical Introduction and Notes by A. D. Menut. Philadelphia 1970. (Transactions of the American Philosophical Society, New Series, Vol. 60, Part 6.)
+* –––, _Nicole Oresme and the Kinematics of Circular Motion. Tractatus de commensurabilitate vel incommensurabilitate motuum celi_. Edited with an introduction, English translation, and commentary by Edward Grant. Madison, Milwaukee, and London: University of Wisconsin Press, 1971.
+* –––, _Nicolaus Oresmes Kommentar zur Physik des Aristoteles. Kommentar mit Edition der Quaestionen zu Buch 3 und 4 der aristotelischen Physik sowie von vier Quaestionen zu Buch 5_. \[Oresme’s Commentary on Aristotle’s Physics. Edition of the _Quaestiones_ on Book 3 and 4 of Aristotle’s Physics and of the _Quaestiones_ 6 – 9 on Book 5.] Edited by Stefan Kirschner. Stuttgart: Steiner, 1997.
+* –––, _Nicole Oresme’s De visione stellarum (On Seeing the Stars)_. A Critical Edition of Oresme’s Treatise on Optics and Atmospheric Refraction, with an Introduction, Commentary, and English Translation by Dan Burton. Leiden, Boston: Brill, 2007.
+* –––, _Livre de divinacions_, in S. Rapisarda (ed.), _Nicole Oresme. Contro la divinazione. Consigli antiastrologici al re di Francia (1356)_, Roma: Carocci, 2009, 78–288 (with Italian translation).
+* –––, _Questiones super geometriam Euclidis_, H. L. L. Busard (ed.), Stuttgart: Steiner, 2010.
+* –––, _Sur les rapports de rapports_, in S. Rommevaux (ed.), _Thomas Bradwardine: Traité des rapports entre les rapidités dans les mouvements suivi de Nicole Oresme: Sur les rapports de rapports. Introduction, traduction, et commentaires_, Paris: Les Belles Lettres, 2010, 75–173 (French translation of Oresme’s _De proportionibus proportionum_).
+* –––, _Questiones super Physicam (Books I–VII)_, S. Caroti, J. Celeyrette, S. Kirschner and E. Mazet (eds.), Leiden, Boston: Brill, 2013.
+* –––, _Questiones in Meteorologica de ultima lectura, recensio parisiensis_ (Study of the Manuscript Tradition and Critical Edition of Books I–II.10), A. Panzica (ed.), Leiden, Boston: Brill, 2021.
 
 ### Catalogues of works by Oresme
 
-* Lohr, Ch. H., 1972, “Medieval Latin Aristotle Commentaries. Authors: Narcissus – Richardus,” *Traditio*, 28: 281–396.
-* Menut, A. D., 1966, “A Provisional Bibliography of Oresme’s Writings,” *Medieval Studies*, 28: 279–299; 31 (1969): 346–347.
-* Clagett, M., 1968, *Nicole Oresme and the Medieval Geometry of Qualities and Motions*, Madison, Milwaukee, and London: University of Wisconsin Press, pp. 645–648.
-* Weijers, O., 2005, *Le travail intellectuel à la Faculté des arts de Paris: textes et maîtres (c. 1200–1500)*, Turnhout: Brepols, pp. 175–191.
-* Di Liscia, D. A.; Panzica, A., forthcoming, “The Writings of Nicole Oresme: a Systematic Inventory,” *Traditio*, 77.
+* Lohr, Ch. H., 1972, “Medieval Latin Aristotle Commentaries. Authors: Narcissus – Richardus,” _Traditio_, 28: 281–396.
+* Menut, A. D., 1966, “A Provisional Bibliography of Oresme’s Writings,” _Medieval Studies_, 28: 279–299; 31 (1969): 346–347.
+* Clagett, M., 1968, _Nicole Oresme and the Medieval Geometry of Qualities and Motions_, Madison, Milwaukee, and London: University of Wisconsin Press, pp. 645–648.
+* Weijers, O., 2005, _Le travail intellectuel à la Faculté des arts de Paris: textes et maîtres (c. 1200–1500)_, Turnhout: Brepols, pp. 175–191.
+* Di Liscia, D. A.; Panzica, A., forthcoming, “The Writings of Nicole Oresme: a Systematic Inventory,” _Traditio_, 77.
 
 ### Secondary literature
 
-* Bakker, P. J.J.M.; de Boer, Sander W., 2009, “*Locus est spatium*. On Gerald Odonis’ *Quaestio de loco*,” *Vivarium*, 47 (2–3): 295–330.
-* Balch, Th. W., 1908, “The Law of Oresme, Copernicus, and Gresham,” *Proceedings of the American Philosophical Society*, 47: 18–29.
-* Biard, J., 2004, “Les controverses sur l’objet du savoir et les *complexe significabilia* à Paris au XIVe siècle,” in *Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIVe siècle*, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 1–31.
-* Burton, D., 2007, *Nicole Oresme’s De visione stellarum (On Seeing the Stars). A Critical Edition of Oresme’s Treatise on Optics and Atmospheric Refraction, with an Introduction, Commentary, and English Translation.* Leiden, Boston: Brill.
-* Caroti, S., 1993, “Oresme on Motion (*Questiones super Physicam*, III, 2–7),” *Vivarium*, 31(1): 8–36.
-* –––, 1994, “La position de Nicole Oresme sur la nature du mouvement (*Questiones super Physicam* III, 1–8): problèmes gnoséologiques, ontologiques et sémantiques,” *Archives d’histoire doctrinale et littéraire du Moyen Âge*, 61: 303–385.
-* –––, 2000, “Nicole Oresme et les *modi rerum*,” *Oriens – Occidens. Sciences, Mathématiques et Philosophie de l’Antiquité à l’Âge classique*, 3: 115–144. [[Reprint available online](https://web.archive.org/web/20140502071717/http://stl.recherche.univ-lille3.fr/textesenligne/Oresme/orienscaroti.pdf)]
-* –––, 2001, “Time and *modi rerum* in Nicole Oresme’s *Physics* Commentary,” in *The Medieval Concept of Time. Studies on the Scholastic Debate and its Reception in Early Modern Philosophy*, P. Porro (ed.), Leiden, Boston, Köln: Brill, pp. 319–349.
-* –––, 2004, “Les *modi rerum* … encore une fois. Une source possible de Nicole Oresme: le commentaire sur le livre 1er des *Sentences* de Jean de Mirecourt,” in *Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIVe siècle*, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 195–222.
-* Celeyrette, J., 2000, “Le statut des mathématiques dans la Physique d’Oresme,” *Oriens – Occidens. Sciences, Mathématiques et Philosophie de l’Antiquité à l’Âge classique*, 3: 91–113. [[Reprint available online](https://web.archive.org/web/20160403135655/http://stl.recherche.univ-lille3.fr/textesenligne/Oresme/oriensceleyrette.pdf)]
-* –––, 2004, “*Figura/figuratum* par Jean Buridan et Nicole Oresme,” in *Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIV*e* siècle*, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 97–118.
-* –––, 2014, “Les Questions sur *la Physique* dans l’œuvre de Nicole Oresme,” in *Nicole Oresme philosophe. Philosophie de la nature et philosophie de la connaissance à Paris au XIVe siècle*, J. Celeyrette and C. Grellard (eds.), Turnhout: Brepols (Studia Artistarum, 39), pp. 63–82.
-* Celeyrette, J., Mazet, E., 1998, “La hiérarchie des degrés d’être chez Nicole Oresme,” *Arabic Sciences and Philosophy*, 8: 45–65.
-* Celeyrette, J., Mazet, E., 2005, “*Nicole Oresme*,” in *De la théologie aux mathématiques. L’infini au XIVe siècle. Textes choisis sous la direction de Joel Biard et Jean Celeyrette*, J. Biard, and J. Celeyrette (eds.), Paris: Les Belles lettres, pp. 221–252.
-* Clagett, M., 1974, “Oresme, Nicole,” in *Dictionary of Scientific Biography*, Vol. X, Ch. C. Gillispie (ed.), New York: Charles Scribner’s Sons.
-* Conti, A. D., 2004, “*Complexe Significabile* and Truth in Gregory of Rimini and Paul of Venice,” in *Medieval Theories on Assertive and Non-Assertive Language. Acts of the 14th European Symposium on Medieval Logic and Semantics, Rome, June 11–15, 2002*, A. Maierù, and L. Valente (eds.), Firenze: Olschki, pp. 473–494.
-* Coopland, G. W., 1952, *Nicole Oresme and the Astrologers. A Study of His Livre de Divinacions*, Liverpool: At the University Press.
-* Courtenay, W. J., 2000, “The Early Career of Nicole Oresme,” *Isis*, 91: 542–548.
-* Di Liscia, D. A., Szapiro, A., 2020, “Nicolás de Oresme y la rotación de la Tierra. Estudio con traducción íntegra del *Livre du ciel et du monde* II.25 en el que Oresme expone sus argumentos,” *Epistemología e Historia de la Ciencia*, 4(2): 73–90.
-* Gaskin, R., 2004, “*Complexe Significabilia* and the Formal Distinction,” in *Medieval Theories on Assertive and Non-Assertive Language. Acts of the 14th European Symposium on Medieval Logic and Semantics, Rome, June 11–15, 2002*, A. Maierù, and L. Valente (eds.), Firenze: Olschki, pp. 495–516.
-* Grant, E., 1966, *Nicole Oresme. De proportionibus proportionum and Ad pauca respicientes. Edited with introductions, English translations, and critical notes by Edward Grant*. Madison, Milwaukee, and London: University of Wisconsin Press, 1966.
-* –––, 1969, “Medieval and Seventeenth-Century Conceptions of an Infinite Void Space beyond the Cosmos,” *Isis*, 60: 39–60.
-* –––, 1971, *Nicole Oresme and the Kinematics of Circular Motion. Tractatus de commensurabilitate vel incommensurabilitate motuum celi. Edited with an introduction, English translation, and commentary by Edward Grant*. Madison, Milwaukee, and London: University of Wisconsin Press.
-* –––, 1981, *Much ado about Nothing. Theories of Space and Vacuum from the Middle Ages to the Scientific Revolution*, Cambridge: Cambridge University Press.
-* Harvey, W. Z., 2011, “Nicole Oresme and Hasdai Crescas on many worlds,” in *Studies in the History of Culture and Science. A Tribute to Gad Freudenthal*, R. Fontaine, R. Glasner, R. Leicht, and G. Veltri (eds.), Leiden, and Boston: Brill, pp. 347–359.
-* Kaye, J., 1998, *Economy and Nature in the Fourteenth Century. Money, Market Exchange, and the Emergence of Scientific Thought*, Cambridge, New York, and Melbourne: Cambridge University Press.
-* Kirschner, S., 1997, *Nicolaus Oresmes Kommentar zur Physik des Aristoteles. Kommentar mit Edition der Quaestionen zu Buch 3 und 4 der aristotelischen Physik sowie von vier Quaestionen zu Buch 5*. Stuttgart: Steiner.
-* –––, 2000a, “Oresme’s Concepts of Place, Space, and Time in His Commentary on Aristotle’s Physics,” *Oriens – Occidens. Sciences, Mathématiques et Philosophie de l’Antiquité à l’Âge classique*, 3: 145–179. [[Reprint available online](https://web.archive.org/web/20160403123048/http://stl.recherche.univ-lille3.fr/textesenligne/Oresme/orienskirschner.pdf)]
-* –––, 2000b, “Oresme on Intension and Remission of Qualities in His Commentary on Aristotle’s Physics,” *Vivarium*, 38/2: 255–274.
-* –––, 2000c, “An Anonymous Medieval Commentary on Aristotle’s *Meteorology* Stating the Supralunar Location of Comets,” in *Sic itur ad astra. Studien zur Geschichte der Mathematik und Naturwissenschaften. Festschrift für den Arabisten Paul Kunitzsch zum 70. Geburtstag*, M. Folkerts, and R. Lorch (eds.), Wiesbaden: Harrassowitz, pp. 334–361.
-* –––, 2010, “A Possible Trace of Oresme’s Condicio-Theory of Accidents in an Anonymous Commentary on Aristotle’s Meteorology,” *Vivarium*, 48(3–4): 349–367.
-* –––, 2014, “Oresme’s Theory of Motion,” in *Nicole Oresme philosophe. Philosophie de la nature et philosophie de la connaissance à Paris au XIVe siècle*, J. Celeyrette, and C. Grellard (eds.), Turnhout: Brepols, pp. 83–104.
-* Lejbowicz, M, 2014, “Nicole Oresme «spectateur engagé»,” in *Nicole Oresme philosophe. Philosophie de la nature et philosophie de la connaissance à Paris au XIVe siècle*, J. Celeyrette, and C. Grellard (eds.), Turnhout: Brepols, pp. 21–61.
-* Maier, A., 1955, *Metaphysische Hintergründe der spätscholastischen Naturphilosophie*, Rom: Edizioni di “Storia e Letteratura”.
-* –––, 1966, *Die Vorläufer Galileis im 14. Jahrhundert*, Rom: Edizioni di “Storia e Letteratura”.
-* Mazet, E., 2000, “Un aspect de l’ontologie d’Oresme: l’équivocité de l’étant et ses rapports avec la théorie des *complexe significabilia* et avec l’ontologie oresmienne de l’accident,” *Oriens – Occidens. Sciences, Mathématiques et Philosophie de l’Antiquité à l’Âge classique*, 3: 67–89. [[Reprint available online](https://web.archive.org/web/20160403133721/http://stl.recherche.univ-lille3.fr/textesenligne/Oresme/oriensmazet.pdf)]
-* –––, 2003, “La théorie des séries de Nicole Oresme dans sa perspective aristotélicienne. Questions 1 et 2 sur la géométrie d’Euclide,” *Revue d’histoire des mathématiques*, 9: 33–80.
-* –––, 2004, “Pierre Ceffons et Oresme – Leur relation revisitée,” in *Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIVe siècle*, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 175–194.
-* Murdoch, J. E., 1964, Review of H. L. L. Busard (ed.): *Nicole Oresme, Quaestiones super geometriam Euclidis*, Leiden: Brill, 1961, *Scripta mathematica*, 27: 67–91.
-* Nuchelmans, G., 1973, *Theories of the Proposition. Ancient and Medieval Conceptions of the Bearers of Truth and Falsity*, Amsterdam, London: North-Holland.
-* Panzica, A., 2015, “Une nouvelle rédaction des *Questions sur les Météorologiques* de Nicole Oresme,” *Bulletin de philosophie médiévale*, 57: 257–264.
-* –––, 2017, “Nicole Oresme à la Faculté des Arts de Paris: les *Questions sur les Météorologiques*,” *Archives d’histoire doctrinale et littéraire du Moyen Âge*, 84: 7–89.
-* –––, 2021, “Introduction,” in *Nicole Oresme, Questiones in Meteorologica de ultima lectura, recensio parisiensis* (Study of the Manuscript Tradition and Critical Edition of Books I–II.10), A. Panzica (ed.), Leiden, Boston: Brill, pp. 1–9.
-* Robert, A., 2012, “Le vide, le lieu et l’espace chez quelques atomistes du XIVee siècle,” in *La nature et le vide dans la physique médiévale. Études dédiées à Edward Grant*, J. Biard, and S. Rommevaux (eds.), Turnhout: Brepols, pp. 67–98.
-* Sarnowsky, J., 2004, “Nicole Oresme and Albert of Saxony’s Commentary on the Physics: the Problems of Vacuum and Motion in a Void,” in *Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIVe siècle*, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 161–174.
-* Schabel, C., 2000, “Place, Space, and the Physics of Grace in Auriol’s *Sentences* Commentary,” *Vivarium*, 38 (1): 117–161.
-* Schmitt, C. B., 1967, *Gianfrancesco Pico Della Mirandola (1469–1533) and His Critique of Aristotle*, The Hague: Martinus Nijhoff.
-* Sesiano, J., 1996, “Vergleiche zwischen unendlichen Mengen bei Nicolas Oresme,” in *Mathematische Probleme im Mittelalter – der lateinische und arabische Sprachbereich*, M. Folkerts (ed.), Wiesbaden: Harrassowitz.
-* Smorynski, C., 2017, *MVT: A Most Valuable Theorem*, Cham: Springer International Publishing.
-* Sparavigna, A. C., 2014, “Some Notes on the Gresham’s Law of Money Circulation,” *International Journal of Sciences*, 3(2): 80–91.
-* Thakkar, M., 2009, “Mathematics in fourteenth-century theology,” in *The Oxford Handbook of the History of Mathematics*, E. Robson (ed.), Oxford: Oxford University Press.
-* Wolfson, H. A., 1929, *Crescas’ Critique of Aristotle. Problems of Aristotle’s Physics in Jewish and Arabic Philosophy*, Cambridge, MA: Harvard University Press.
-* Woodhouse, A., 2017, “‘Who Owns the Money?’ Currency, Property, and Popular Sovereignty in Nicole Oresme’s *De moneta*,” *Speculum,* 92(1): 85–116.
-* Zanin, F., 2000, “Nicole Oresme: I *modi rerum* come soluzione del problema del tempo,” in *Tempus aevum aeternitatis. La concettualizzazione del tempo nel pensiero tardomedievale. Atti del Colloquio Internazionale, Trieste, 4–6 marzo 1999*, G. Alliney, and L. Cova (eds.), Firenze: Olschki, pp. 253–265.
+* Bakker, P. J.J.M.; de Boer, Sander W., 2009, “_Locus est spatium_. On Gerald Odonis’ _Quaestio de loco_,” _Vivarium_, 47 (2–3): 295–330.
+* Balch, Th. W., 1908, “The Law of Oresme, Copernicus, and Gresham,” _Proceedings of the American Philosophical Society_, 47: 18–29.
+* Biard, J., 2004, “Les controverses sur l’objet du savoir et les _complexe significabilia_ à Paris au XIVe siècle,” in _Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIVe siècle_, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 1–31.
+* Burton, D., 2007, _Nicole Oresme’s De visione stellarum (On Seeing the Stars). A Critical Edition of Oresme’s Treatise on Optics and Atmospheric Refraction, with an Introduction, Commentary, and English Translation._ Leiden, Boston: Brill.
+* Caroti, S., 1993, “Oresme on Motion (_Questiones super Physicam_, III, 2–7),” _Vivarium_, 31(1): 8–36.
+* –––, 1994, “La position de Nicole Oresme sur la nature du mouvement (_Questiones super Physicam_ III, 1–8): problèmes gnoséologiques, ontologiques et sémantiques,” _Archives d’histoire doctrinale et littéraire du Moyen Âge_, 61: 303–385.
+* –––, 2000, “Nicole Oresme et les _modi rerum_,” _Oriens – Occidens. Sciences, Mathématiques et Philosophie de l’Antiquité à l’Âge classique_, 3: 115–144. \[[Reprint available online](https://web.archive.org/web/20140502071717/http://stl.recherche.univ-lille3.fr/textesenligne/Oresme/orienscaroti.pdf)]
+* –––, 2001, “Time and _modi rerum_ in Nicole Oresme’s _Physics_ Commentary,” in _The Medieval Concept of Time. Studies on the Scholastic Debate and its Reception in Early Modern Philosophy_, P. Porro (ed.), Leiden, Boston, Köln: Brill, pp. 319–349.
+* –––, 2004, “Les _modi rerum_ … encore une fois. Une source possible de Nicole Oresme: le commentaire sur le livre 1er des _Sentences_ de Jean de Mirecourt,” in _Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIVe siècle_, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 195–222.
+* Celeyrette, J., 2000, “Le statut des mathématiques dans la Physique d’Oresme,” _Oriens – Occidens. Sciences, Mathématiques et Philosophie de l’Antiquité à l’Âge classique_, 3: 91–113. \[[Reprint available online](https://web.archive.org/web/20160403135655/http://stl.recherche.univ-lille3.fr/textesenligne/Oresme/oriensceleyrette.pdf)]
+* –––, 2004, “_Figura/figuratum_ par Jean Buridan et Nicole Oresme,” in _Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIV_e\* siècle\*, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 97–118.
+* –––, 2014, “Les Questions sur _la Physique_ dans l’œuvre de Nicole Oresme,” in _Nicole Oresme philosophe. Philosophie de la nature et philosophie de la connaissance à Paris au XIVe siècle_, J. Celeyrette and C. Grellard (eds.), Turnhout: Brepols (Studia Artistarum, 39), pp. 63–82.
+* Celeyrette, J., Mazet, E., 1998, “La hiérarchie des degrés d’être chez Nicole Oresme,” _Arabic Sciences and Philosophy_, 8: 45–65.
+* Celeyrette, J., Mazet, E., 2005, “_Nicole Oresme_,” in _De la théologie aux mathématiques. L’infini au XIVe siècle. Textes choisis sous la direction de Joel Biard et Jean Celeyrette_, J. Biard, and J. Celeyrette (eds.), Paris: Les Belles lettres, pp. 221–252.
+* Clagett, M., 1974, “Oresme, Nicole,” in _Dictionary of Scientific Biography_, Vol. X, Ch. C. Gillispie (ed.), New York: Charles Scribner’s Sons.
+* Conti, A. D., 2004, “_Complexe Significabile_ and Truth in Gregory of Rimini and Paul of Venice,” in _Medieval Theories on Assertive and Non-Assertive Language. Acts of the 14th European Symposium on Medieval Logic and Semantics, Rome, June 11–15, 2002_, A. Maierù, and L. Valente (eds.), Firenze: Olschki, pp. 473–494.
+* Coopland, G. W., 1952, _Nicole Oresme and the Astrologers. A Study of His Livre de Divinacions_, Liverpool: At the University Press.
+* Courtenay, W. J., 2000, “The Early Career of Nicole Oresme,” _Isis_, 91: 542–548.
+* Di Liscia, D. A., Szapiro, A., 2020, “Nicolás de Oresme y la rotación de la Tierra. Estudio con traducción íntegra del _Livre du ciel et du monde_ II.25 en el que Oresme expone sus argumentos,” _Epistemología e Historia de la Ciencia_, 4(2): 73–90.
+* Gaskin, R., 2004, “_Complexe Significabilia_ and the Formal Distinction,” in _Medieval Theories on Assertive and Non-Assertive Language. Acts of the 14th European Symposium on Medieval Logic and Semantics, Rome, June 11–15, 2002_, A. Maierù, and L. Valente (eds.), Firenze: Olschki, pp. 495–516.
+* Grant, E., 1966, _Nicole Oresme. De proportionibus proportionum and Ad pauca respicientes. Edited with introductions, English translations, and critical notes by Edward Grant_. Madison, Milwaukee, and London: University of Wisconsin Press, 1966.
+* –––, 1969, “Medieval and Seventeenth-Century Conceptions of an Infinite Void Space beyond the Cosmos,” _Isis_, 60: 39–60.
+* –––, 1971, _Nicole Oresme and the Kinematics of Circular Motion. Tractatus de commensurabilitate vel incommensurabilitate motuum celi. Edited with an introduction, English translation, and commentary by Edward Grant_. Madison, Milwaukee, and London: University of Wisconsin Press.
+* –––, 1981, _Much ado about Nothing. Theories of Space and Vacuum from the Middle Ages to the Scientific Revolution_, Cambridge: Cambridge University Press.
+* Harvey, W. Z., 2011, “Nicole Oresme and Hasdai Crescas on many worlds,” in _Studies in the History of Culture and Science. A Tribute to Gad Freudenthal_, R. Fontaine, R. Glasner, R. Leicht, and G. Veltri (eds.), Leiden, and Boston: Brill, pp. 347–359.
+* Kaye, J., 1998, _Economy and Nature in the Fourteenth Century. Money, Market Exchange, and the Emergence of Scientific Thought_, Cambridge, New York, and Melbourne: Cambridge University Press.
+* Kirschner, S., 1997, _Nicolaus Oresmes Kommentar zur Physik des Aristoteles. Kommentar mit Edition der Quaestionen zu Buch 3 und 4 der aristotelischen Physik sowie von vier Quaestionen zu Buch 5_. Stuttgart: Steiner.
+* –––, 2000a, “Oresme’s Concepts of Place, Space, and Time in His Commentary on Aristotle’s Physics,” _Oriens – Occidens. Sciences, Mathématiques et Philosophie de l’Antiquité à l’Âge classique_, 3: 145–179. \[[Reprint available online](https://web.archive.org/web/20160403123048/http://stl.recherche.univ-lille3.fr/textesenligne/Oresme/orienskirschner.pdf)]
+* –––, 2000b, “Oresme on Intension and Remission of Qualities in His Commentary on Aristotle’s Physics,” _Vivarium_, 38/2: 255–274.
+* –––, 2000c, “An Anonymous Medieval Commentary on Aristotle’s _Meteorology_ Stating the Supralunar Location of Comets,” in _Sic itur ad astra. Studien zur Geschichte der Mathematik und Naturwissenschaften. Festschrift für den Arabisten Paul Kunitzsch zum 70. Geburtstag_, M. Folkerts, and R. Lorch (eds.), Wiesbaden: Harrassowitz, pp. 334–361.
+* –––, 2010, “A Possible Trace of Oresme’s Condicio-Theory of Accidents in an Anonymous Commentary on Aristotle’s Meteorology,” _Vivarium_, 48(3–4): 349–367.
+* –––, 2014, “Oresme’s Theory of Motion,” in _Nicole Oresme philosophe. Philosophie de la nature et philosophie de la connaissance à Paris au XIVe siècle_, J. Celeyrette, and C. Grellard (eds.), Turnhout: Brepols, pp. 83–104.
+* Lejbowicz, M, 2014, “Nicole Oresme «spectateur engagé»,” in _Nicole Oresme philosophe. Philosophie de la nature et philosophie de la connaissance à Paris au XIVe siècle_, J. Celeyrette, and C. Grellard (eds.), Turnhout: Brepols, pp. 21–61.
+* Maier, A., 1955, _Metaphysische Hintergründe der spätscholastischen Naturphilosophie_, Rom: Edizioni di “Storia e Letteratura”.
+* –––, 1966, _Die Vorläufer Galileis im 14. Jahrhundert_, Rom: Edizioni di “Storia e Letteratura”.
+* Mazet, E., 2000, “Un aspect de l’ontologie d’Oresme: l’équivocité de l’étant et ses rapports avec la théorie des _complexe significabilia_ et avec l’ontologie oresmienne de l’accident,” _Oriens – Occidens. Sciences, Mathématiques et Philosophie de l’Antiquité à l’Âge classique_, 3: 67–89. \[[Reprint available online](https://web.archive.org/web/20160403133721/http://stl.recherche.univ-lille3.fr/textesenligne/Oresme/oriensmazet.pdf)]
+* –––, 2003, “La théorie des séries de Nicole Oresme dans sa perspective aristotélicienne. Questions 1 et 2 sur la géométrie d’Euclide,” _Revue d’histoire des mathématiques_, 9: 33–80.
+* –––, 2004, “Pierre Ceffons et Oresme – Leur relation revisitée,” in _Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIVe siècle_, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 175–194.
+* Murdoch, J. E., 1964, Review of H. L. L. Busard (ed.): _Nicole Oresme, Quaestiones super geometriam Euclidis_, Leiden: Brill, 1961, _Scripta mathematica_, 27: 67–91.
+* Nuchelmans, G., 1973, _Theories of the Proposition. Ancient and Medieval Conceptions of the Bearers of Truth and Falsity_, Amsterdam, London: North-Holland.
+* Panzica, A., 2015, “Une nouvelle rédaction des _Questions sur les Météorologiques_ de Nicole Oresme,” _Bulletin de philosophie médiévale_, 57: 257–264.
+* –––, 2017, “Nicole Oresme à la Faculté des Arts de Paris: les _Questions sur les Météorologiques_,” _Archives d’histoire doctrinale et littéraire du Moyen Âge_, 84: 7–89.
+* –––, 2021, “Introduction,” in _Nicole Oresme, Questiones in Meteorologica de ultima lectura, recensio parisiensis_ (Study of the Manuscript Tradition and Critical Edition of Books I–II.10), A. Panzica (ed.), Leiden, Boston: Brill, pp. 1–9.
+* Robert, A., 2012, “Le vide, le lieu et l’espace chez quelques atomistes du XIVee siècle,” in _La nature et le vide dans la physique médiévale. Études dédiées à Edward Grant_, J. Biard, and S. Rommevaux (eds.), Turnhout: Brepols, pp. 67–98.
+* Sarnowsky, J., 2004, “Nicole Oresme and Albert of Saxony’s Commentary on the Physics: the Problems of Vacuum and Motion in a Void,” in _Quia inter doctores est magna dissensio. Les débats de philosophie naturelle à Paris au XIVe siècle_, S. Caroti, and J. Celeyrette (eds.), Firenze: Olschki, pp. 161–174.
+* Schabel, C., 2000, “Place, Space, and the Physics of Grace in Auriol’s _Sentences_ Commentary,” _Vivarium_, 38 (1): 117–161.
+* Schmitt, C. B., 1967, _Gianfrancesco Pico Della Mirandola (1469–1533) and His Critique of Aristotle_, The Hague: Martinus Nijhoff.
+* Sesiano, J., 1996, “Vergleiche zwischen unendlichen Mengen bei Nicolas Oresme,” in _Mathematische Probleme im Mittelalter – der lateinische und arabische Sprachbereich_, M. Folkerts (ed.), Wiesbaden: Harrassowitz.
+* Smorynski, C., 2017, _MVT: A Most Valuable Theorem_, Cham: Springer International Publishing.
+* Sparavigna, A. C., 2014, “Some Notes on the Gresham’s Law of Money Circulation,” _International Journal of Sciences_, 3(2): 80–91.
+* Thakkar, M., 2009, “Mathematics in fourteenth-century theology,” in _The Oxford Handbook of the History of Mathematics_, E. Robson (ed.), Oxford: Oxford University Press.
+* Wolfson, H. A., 1929, _Crescas’ Critique of Aristotle. Problems of Aristotle’s Physics in Jewish and Arabic Philosophy_, Cambridge, MA: Harvard University Press.
+* Woodhouse, A., 2017, “‘Who Owns the Money?’ Currency, Property, and Popular Sovereignty in Nicole Oresme’s _De moneta_,” _Speculum,_ 92(1): 85–116.
+* Zanin, F., 2000, “Nicole Oresme: I _modi rerum_ come soluzione del problema del tempo,” in _Tempus aevum aeternitatis. La concettualizzazione del tempo nel pensiero tardomedievale. Atti del Colloquio Internazionale, Trieste, 4–6 marzo 1999_, G. Alliney, and L. Cova (eds.), Firenze: Olschki, pp. 253–265.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nicole-oresme). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/nicole-oresme/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=nicole-oresme&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/nicole-oresme/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nicole-oresme).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/nicole-oresme/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=nicole-oresme\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/nicole-oresme/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[Bacon, Roger](https://plato.stanford.edu/entries/roger-bacon/) | Bradwardine, Thomas | [Bruno, Giordano](https://plato.stanford.edu/entries/bruno/) | [Buridan, John [Jean]](https://plato.stanford.edu/entries/buridan/) | Cantor, Georg | [Chatton, Walter](https://plato.stanford.edu/entries/walter-chatton/) | [Copernicus, Nicolaus](https://plato.stanford.edu/entries/copernicus/) | [Crathorn, William](https://plato.stanford.edu/entries/crathorn/) | [Crescas, Hasdai](https://plato.stanford.edu/entries/crescas/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Galileo Galilei](https://plato.stanford.edu/entries/galileo/) | [Gregory of Rimini](https://plato.stanford.edu/entries/gregory-rimini/) | [Holkot [Holcot], Robert](https://plato.stanford.edu/entries/holkot/) | hooke | Ibn al-Haytham | [Newton, Isaac](https://plato.stanford.edu/entries/newton/) | [Ockham [Occam], William](https://plato.stanford.edu/entries/ockham/) | [Olivi, Peter John](https://plato.stanford.edu/entries/olivi/) | [Patrizi, Francesco](https://plato.stanford.edu/entries/patrizi/) | [Wodeham, Adam de](https://plato.stanford.edu/entries/wodeham/)
+[Bacon, Roger](https://plato.stanford.edu/entries/roger-bacon/) | Bradwardine, Thomas | [Bruno, Giordano](https://plato.stanford.edu/entries/bruno/) | [Buridan, John \[Jean\]](https://plato.stanford.edu/entries/buridan/) | Cantor, Georg | [Chatton, Walter](https://plato.stanford.edu/entries/walter-chatton/) | [Copernicus, Nicolaus](https://plato.stanford.edu/entries/copernicus/) | [Crathorn, William](https://plato.stanford.edu/entries/crathorn/) | [Crescas, Hasdai](https://plato.stanford.edu/entries/crescas/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Galileo Galilei](https://plato.stanford.edu/entries/galileo/) | [Gregory of Rimini](https://plato.stanford.edu/entries/gregory-rimini/) | [Holkot \[Holcot\], Robert](https://plato.stanford.edu/entries/holkot/) | hooke | Ibn al-Haytham | [Newton, Isaac](https://plato.stanford.edu/entries/newton/) | [Ockham \[Occam\], William](https://plato.stanford.edu/entries/ockham/) | [Olivi, Peter John](https://plato.stanford.edu/entries/olivi/) | [Patrizi, Francesco](https://plato.stanford.edu/entries/patrizi/) | [Wodeham, Adam de](https://plato.stanford.edu/entries/wodeham/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Stefan Kirschner](http://www.uni-hamburg.de/biologie/BioZ/zis/kirschner.html) <[*stefan.kirschner@uni-hamburg.de*](mailto:stefan%2ekirschner%40uni-hamburg%2ede)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Stefan Kirschner](http://www.uni-hamburg.de/biologie/BioZ/zis/kirschner.html) <[_stefan.kirschner@uni-hamburg.de_](mailto:stefan%2ekirschner%40uni-hamburg%2ede)>

@@ -1,22 +1,22 @@
 # 尼采的生平与著作 life and works (Robert Wicks)
 
-*首次发表于1997年5月30日，实质性修订于2021年9月10日。*
+_首次发表于1997年5月30日，实质性修订于2021年9月10日。_
 
 弗里德里希·尼采（1844-1900）是 19 世纪末的德国哲学家，挑战了基督教和传统道德的基础。他对个体和文化健康的提升感兴趣，并相信生命、创造力、力量和现实，而不是那些存在于超越世界中的东西。他的哲学核心思想是“肯定生命”，这涉及对所有耗尽生命广阔能量的教条进行诚实的质疑，无论这些观点在社会上有多么普遍和道德上根深蒂固。尼采通常被称为与苏伦·基尔凯郭尔（1813-1855）一起被认为是最早的存在主义哲学家之一，他的复兴哲学启发了文化生活的各个领域的重要人物，包括舞者、诗人、小说家、画家、心理学家、哲学家、社会学家和社会革命家。
 
-* [ 1. 生平：1844-1900](https://plato.stanford.edu/entries/nietzsche-life-works/#Life1844)
+* [1. 生平：1844-1900](https://plato.stanford.edu/entries/nietzsche-life-works/#Life1844)
 * [2. 早期著作：1872-1876](https://plato.stanford.edu/entries/nietzsche-life-works/#EarlWrit1872)
 * [3. 中期著作：1878 年-1882 年](https://plato.stanford.edu/entries/nietzsche-life-works/#MiddPeriWrit1878)
 * [4. 后期著作：1883 年-1887 年](https://plato.stanford.edu/entries/nietzsche-life-works/#LatePeriWrit1883)
 * [5. 1888 年的最后著作](https://plato.stanford.edu/entries/nietzsche-life-works/#FinaWrit1888)
 * [6. 弗里德里希·尼采的未发表笔记](https://plato.stanford.edu/entries/nietzsche-life-works/#NietUnpuNote)
 * [7. 弗里德里希·尼采对 20 世纪思想的影响](https://plato.stanford.edu/entries/nietzsche-life-works/#NietInflUpon20thCentThou)
-* [ 参考文献](https://plato.stanford.edu/entries/nietzsche-life-works/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/nietzsche-life-works/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/nietzsche-life-works/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/nietzsche-life-works/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/nietzsche-life-works/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nietzsche-life-works/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/nietzsche-life-works/#Rel)
 
----
+***
 
 ## 1. 生活：1844 年-1900 年
 
@@ -114,7 +114,7 @@
 
 《偶像的黄昏，或者如何用锤子哲学》（Götzen-Dämmerung, oder Wie man mit dem Hammer philosophiert，1888年8月至9月）这个标题在华格纳的歌剧《众神的黄昏》（Die Götterdämmerung）上进行了文字游戏。尼采重申并详细阐述了一些对苏格拉底、柏拉图、康德和基督教的批评，批评了当时的德国文化过于粗俗和酒精过多，并对卢梭、雨果、桑德、米歇尔、左拉、雷南、卡莱尔、米尔、艾略特、达尔文和但丁等法国、英国和意大利文化人物发出了一些不满的箭头。与这些被指责为文化堕落代表相反，尼采称赞凯撒、拿破仑、歌德、陀思妥耶夫斯基、修昔底德和苏格拉底等更健康、更强大的类型。短语“用锤子哲学”主要意味着通过轻轻敲击偶像来测试它们；人们“敲击”它们以确定它们是否是空的、完整的等等，就像医生用敲击锤在腹部上作为诊断工具一样。
 
-在《反基督教》（Der Antichrist. Fluch auf das Christentum，1888年9月[1895年出版]）中，尼采表达了他对基督教对罗马社会的高贵价值观的腐败感到厌恶，并讨论了基督教文化中的具体方面和人物——福音书、保罗、殉道者、神父、十字军等，以展示基督教是一种为弱者和不健康的人而设的宗教，其总体历史影响是破坏了更高贵文化的健康品质。《反基督教》最初被构想为尼采计划中的四部作品的第一部，他打算给这个计划起名为《一切价值的重新评估》（第二部计划名为《自由精神》）。与他1888年的大部分作品一样，尼采在这个特定的研究中，无论是隐含地还是明确地，批评了当时的反犹太主义作家。在这本书中，他的主要目标之一是法国反犹太主义的基督教历史学家欧内斯特·雷南（1823-1892年），他以《耶稣的生平》（1863年）和《基督教起源史》（1866-1881年）而闻名，其中第四卷名为《反基督教》（1873年）。一些人将尼采的书名解释为“反基督教”。值得注意的是，在1883年写给他的朋友彼得·加斯特（约翰·海因里希·克塞利茨）的一封信中，尼采自娱自乐地将自己描述为“反基督教”，并且更加认真地称自己为“基督教最可怕的对手”。
+在《反基督教》（Der Antichrist. Fluch auf das Christentum，1888年9月\[1895年出版]）中，尼采表达了他对基督教对罗马社会的高贵价值观的腐败感到厌恶，并讨论了基督教文化中的具体方面和人物——福音书、保罗、殉道者、神父、十字军等，以展示基督教是一种为弱者和不健康的人而设的宗教，其总体历史影响是破坏了更高贵文化的健康品质。《反基督教》最初被构想为尼采计划中的四部作品的第一部，他打算给这个计划起名为《一切价值的重新评估》（第二部计划名为《自由精神》）。与他1888年的大部分作品一样，尼采在这个特定的研究中，无论是隐含地还是明确地，批评了当时的反犹太主义作家。在这本书中，他的主要目标之一是法国反犹太主义的基督教历史学家欧内斯特·雷南（1823-1892年），他以《耶稣的生平》（1863年）和《基督教起源史》（1866-1881年）而闻名，其中第四卷名为《反基督教》（1873年）。一些人将尼采的书名解释为“反基督教”。值得注意的是，在1883年写给他的朋友彼得·加斯特（约翰·海因里希·克塞利茨）的一封信中，尼采自娱自乐地将自己描述为“反基督教”，并且更加认真地称自己为“基督教最可怕的对手”。
 
 弗里德里希·尼采在《瞧！人类》（Ecce Homo, Wie man wird, was man ist，1888年10月至11月）中自称为“哲学家戴奥尼修斯的追随者”。这本书是他回顾性地审视自己的整个著作，逐个作品进行批判性评论，详细介绍作品的灵感来源，并对其哲学内容进行解释性观察。他以三个引人注目的章节开篇，分别是“为什么我如此聪明”，“为什么我如此机智”，“为什么我写出如此好的书”。尼采声称自己之所以聪明，是因为他对人们的态度和性格中的健康与疾病微妙之处有着敏锐的审美感；他声称自己之所以机智，是因为他知道如何选择适合自己的营养、气候、居住和娱乐方式；他声称自己写出如此好的书，是因为这些书据说为一小部分读者开启了一系列崇高而精致的经历。在审视完自己的每一部已出版作品后，尼采以“为什么我是一个命运”作为《瞧！人类》的结尾。他声称自己是一个命运，因为他认为他的反道德真理具有知识炸弹般的毁灭力量；他期望这些真理能够推翻他认为在过去两千年里在西方文化中盛行的出于疾病而生的道德。通过这种方式，他表达了他希望戴奥尼修斯，这位生命充沛之神，能够取代耶稣，成为未来千年的首要文化标准的希望。
 
@@ -144,202 +144,202 @@
 
 ### A. Nietzsche’s Writings
 
-* *Kritische Gesamtausgabe Briefwechsel*, G. Colli and M. Montinari (ed.), 24 volumes in 4 parts, Berlin: Walter de Gruyter, 1975.
-* *The Antichrist*, Walter Kaufmann (trans.), in *The Portable Nietzsche*, Walter Kaufmann (ed.), New York: Viking Press, 1968.
-* *Beyond Good and Evil*, Walter Kaufmann (trans.), New York: Random House, 1966.
-* *The Birth of Tragedy*, Walter Kaufmann (trans.), in *The Birth of Tragedy and The Case of Wagner*, New York: Random House, 1967.
-* *The Case of Wagner*, Walter Kaufmann (trans.), in*The Birth of Tragedy and The Case of Wagner*, New York: Random House, 1967.
-* *Daybreak: Thoughts on the Prejudices of Morality*, R. J. Hollingdale (trans.), Cambridge: Cambridge University Press, 1982.
-* *Ecce Homo: How One Becomes What One Is*, Walter Kaufmann (trans.), in *On the Genealogy of Morals and Ecce Homo*, New York: Random House, 1967.
-* *The Gay Science, with a Prelude of Rhymes and an Appendix of Songs*, Walter Kaufmann (trans.), New York: Random House, 1974.
-* *Human, All Too Human: A Book for Free Spirits*, R. J. Hollingdale (trans.), Cambridge: Cambridge University Press, 1986.
-* *Nietzsche Contra Wagner*, Walter Kaufmann (trans.), in *The Portable Nietzsche*, New York: Viking Press, 1968.
-* *On the Genealogy of Morals*, Walter Kaufmann and R.J. Hollingdale (trans.), in *On the Genealogy of Morals and Ecce Homo*, New York: Random House, 1967.
-* *Philosophy and Truth: Selections from Nietzsche’s Notebooks of the Early 1870s*, Daniel Breazeale (trans. and ed.), Atlantic Highlands, N.J.: Humanities Press, 1979.
-* *Philosophy in the Tragic Age of the Greeks*, Marianne Cowan (trans.), Chicago: Henry Regnery Company, 1962.
-* *Thus Spoke Zarathustra*, Walter Kaufmann (trans.), in *The Portable Nietzsche*, New York: Viking Press, 1968.
-* *Twilight of the Idols*, Walter Kaufmann (trans.), in *The Portable Nietzsche*, New York: Viking Press, 1968.
-* *Untimely Meditations*, R. J. Hollingdale (trans.), Cambridge: Cambridge University Press, 1983.
-* *The Will to Power*, Walter Kaufmann (trans.), New York: Random House, 1967.
+* _Kritische Gesamtausgabe Briefwechsel_, G. Colli and M. Montinari (ed.), 24 volumes in 4 parts, Berlin: Walter de Gruyter, 1975.
+* _The Antichrist_, Walter Kaufmann (trans.), in _The Portable Nietzsche_, Walter Kaufmann (ed.), New York: Viking Press, 1968.
+* _Beyond Good and Evil_, Walter Kaufmann (trans.), New York: Random House, 1966.
+* _The Birth of Tragedy_, Walter Kaufmann (trans.), in _The Birth of Tragedy and The Case of Wagner_, New York: Random House, 1967.
+* _The Case of Wagner_, Walter Kaufmann (trans.), in_The Birth of Tragedy and The Case of Wagner_, New York: Random House, 1967.
+* _Daybreak: Thoughts on the Prejudices of Morality_, R. J. Hollingdale (trans.), Cambridge: Cambridge University Press, 1982.
+* _Ecce Homo: How One Becomes What One Is_, Walter Kaufmann (trans.), in _On the Genealogy of Morals and Ecce Homo_, New York: Random House, 1967.
+* _The Gay Science, with a Prelude of Rhymes and an Appendix of Songs_, Walter Kaufmann (trans.), New York: Random House, 1974.
+* _Human, All Too Human: A Book for Free Spirits_, R. J. Hollingdale (trans.), Cambridge: Cambridge University Press, 1986.
+* _Nietzsche Contra Wagner_, Walter Kaufmann (trans.), in _The Portable Nietzsche_, New York: Viking Press, 1968.
+* _On the Genealogy of Morals_, Walter Kaufmann and R.J. Hollingdale (trans.), in _On the Genealogy of Morals and Ecce Homo_, New York: Random House, 1967.
+* _Philosophy and Truth: Selections from Nietzsche’s Notebooks of the Early 1870s_, Daniel Breazeale (trans. and ed.), Atlantic Highlands, N.J.: Humanities Press, 1979.
+* _Philosophy in the Tragic Age of the Greeks_, Marianne Cowan (trans.), Chicago: Henry Regnery Company, 1962.
+* _Thus Spoke Zarathustra_, Walter Kaufmann (trans.), in _The Portable Nietzsche_, New York: Viking Press, 1968.
+* _Twilight of the Idols_, Walter Kaufmann (trans.), in _The Portable Nietzsche_, New York: Viking Press, 1968.
+* _Untimely Meditations_, R. J. Hollingdale (trans.), Cambridge: Cambridge University Press, 1983.
+* _The Will to Power_, Walter Kaufmann (trans.), New York: Random House, 1967.
 
 ### B. Books About Nietzsche
 
-* Acampora, Christa Davis, 2013, *Contesting Nietzsche*, Chicago: University of Chicago Press.
-* Alfano, Mark, 2019, *Nietzsche’s Moral Psychology*, Cambridge: Cambridge University Press.
-* Allison, David, 2000, *Reading the New Nietzsche*, Lanham, Maryland: Rowman & Littlefield Publishing.
-* Ansell-Pearson, Keith, and Rebecca Bamford, 2021, *Nietzsche’s Dawn: Philosophy, Ethics, and the Passion of Knowledge*, Hoboken, NJ: John Wiley & Sons Ltd.
-* Aschheim, Steven E, 1992, *The Nietzsche Legacy in Germany, 1890–1990*, Berkeley and Los Angeles: University of California Press.
-* Babich, Babette E, 1994, *Nietzsche’s Philosophy of Science*, Albany: State University of New York Press.
-* Bamford, Rebecca, 2014, *Nietzsche’s Method of Experimentalism in Science and Mind*, Berlin: Walter de Gruyter.
-* Bataille, Georges, 1945, *On Nietzsche*, Bruce Boone (trans.), London: Athlone Press, 1992.
-* Berry, Jessica, 2010, *Nietzsche and the Ancient Skeptical Tradition*, Oxford: Oxford University Press.
-* Bertram, Ernst, 1918, *Nietzsche: An Attempt at a Mythology*, Robert E. Norton (trans.), Champaign IL: University of Illinois Press, 2009.
-* Bishop, Paul, and R. H. Stephenson, 2005, *Friedrich Nietzsche and Weimar Classicism*, Rochester, NY: Camden House.
-* Blond, Lewis, 2011, *Heidegger and Nietzsche: Overcoming Metaphysics*, London: Continuum.
-* Blue, Daniel, 2016, *The Making of Friedrich Nietzsche – The Quest for Identity, 1844–1869*, Cambridge: Cambridge University Press.
-* Brobjer, Thomas, 1995, *Nietzsche’s Ethics of Character: A Study of Nietzsche’s Ethics and its Place in the History of Moral Thinking*, Department of the History of Ideas: University of Uppsala.
-* –––, 2008, *Nietzsche’s Philosophical Context: An Intellectual Biography*, Chicago: University of Illinois Press.
-* Chamberlain, Lesley, 1998, *Nietzsche in Turin: An Intimate Biography*, New York: Picador.
-* Clark, Maudemarie, 1990, *Nietzsche on Truth and Philosophy*, Cambridge: Cambridge University Press.
-* Cohen, Jonathan R, 2010, *Science, Culture, and Free Spirit: A Study of Nietzsche’s “Human, All-Too Human”*, Amherst, NY: Humanity Books/Prometheus Books.
-* Conrad, Mark T., 2017, *Nietzsche and the Philosophers*, New York: Routledge, Taylor & Francis Group.
-* Danto, Arthur C., 1965, *Nietzsche as Philosopher: An Original Study*, New York: Columbia University Press.
-* Deleuze, Gilles, 1962, *Nietzsche and Philosophy*, Hugh Tomlinson (trans.), New York: Columbia University Press, 1983.
-* Derrida, Jacques, 1979, *Spurs: Nietzsche’s Styles*, Barbara Harlow (trans.), Chicago: University of Chicago Press.
-* Emden, Christian J., 2008, *Friedrich Nietzsche and the Politics of History*, Cambridge: Cambridge University Press.
-* –––, 2014, *Nietzsche’s Naturalism*, Cambridge: Cambridge University Press.
-* Fink, Eugen, 2003 [1960], Goetz Richter (trans.), *Nietzsche’s Philosophy*, Aldershot: Avebury.
-* Franco, Paul, 2011, *Nietzsche’s Enlightenment: The Free-Spirit Trilogy of the Middle Period*, Chicago: University of Chicago Press.
-* Geuss, Raymond, 1999, *Morality, Culture and History: Essays on German Philosophy*, Cambridge: Cambridge University Press.
-* Gillespie, Michael, 1996, *Nihilism Before Nietzsche*, Chicago: University of Chicago Press.
-* Gilman, Sander L, 1987, ed., *Conversations with Nietzsche: A Life in the Words of his Contemporaries*, David J. Parent (trans.), New York: Oxford University Press, Inc..
-* Green, Michael, 2002, *Nietzsche and the Transcendental Tradition*, Champaign, IL: University of Illinois Press.
-* Hales, Steven D. and Rex Welshon, 2000, *Nietzsche’s Perspectivism*, Champaign, IL: University of Illinois Press.
-* Hatab, Lawrence J., 2005, *Nietzsche’s Life Sentence: Coming to Terms with Eternal Recurrence*, London: Routledge.
-* –––, 2008, *Nietzsche’s “On the Genealogy of Morality”*, Cambridge: Cambridge University Press.
-* Hayman, Ronald, 1980, *Nietzsche, a Critical Life*, New York: Oxford University Press.
-* Heidegger, Martin, 1936–7a, *Nietzsche, Vol. I: The Will to Power as Art*, David F. Krell (trans.), New York: Harper & Row, 1979.
-* –––, 1936–7b, *Nietzsche, Vol. II: The Eternal Recurrence of the Same*, David F. Krell (trans.), San Francisco: Harper & Row, 1984.
-* –––, 1939, *Nietzsche, Vol. III: Will to Power as Knowledge and as Metaphysics*, Joan Stambaugh and Frank Capuzzi (trans.), San Francisco: Harper & Row, 1986.
-* –––, 1939, *Nietzsche, Vol. IV: Nihilism*, David F Krell (trans.), New York: Harper & Row, 1982.
-* Higgins, Kathleen Marie, 1999, *Comic Relief: Nietzsche’s Gay Science*, Oxford: Oxford University Press.
-* –––, 1987, *Nietzsche’s “Zarathustra”* Philadelphia: Temple University Press.
-* Hollingdale, R.J., 1973, *Nietzsche*, London and New York: Routledge and Kegan Paul.
-* Hunt, Lester H, 1991, *Nietzsche and the Origin of Virtue*, London: Routledge.
-* Irigaray, Luce, 1980, *Marine Lover of Friedrich Nietzsche*, Gillian C. Gill (trans.), New York: Columbia University Press, 1991.
-* Janaway, Christopher, 2007, *Beyond Selflessness: Reading Nietzsche’s Genealogy*, Oxford: Oxford University Press.
-* Janz, Curt Paul, 1978–79, *Friedrich Nietzsche. Biographie in drei Bänden*, Munich: Carl Hanser.
-* Jaspers, Karl, 1936, *Nietzsche: An Introduction to the Understanding of His Philosophical Activity*, Charles F. Wallraff and Frederick J. Schmitz (trans.), South Bend, Indiana: Regentry/Gateway, Inc., 1979.
-* Jensen, Anthony K., 2013, *Nietzsche’s Philosophy of History*, Cambridge: Cambridge University Press.
-* Johnson, Dirk R., 2010, *Nietzsche’s Anti-Darwinism*, Cambridge: Cambridge University Press.
-* Jung, Carl G., 1934–9, *Nietzsche’s “Zarathustra”*, ed. James L. Jarrett. Princeton: Princeton University Press, 1988.
-* Kain, Philip J., 2009, *Nietzsche and the Horror of Existence*, Lanham, MD: Lexington Books.
-* Katsafanas, Paul., 2013, *Agency and the Foundations of Ethics: Nietzschean Constitutivism*, Oxford: Oxford University Press.
-* –––, 2016, *The Nietzschean Self: Moral Psychology, Agency, and the Unconscious*, Oxford: Oxford University Press.
-* Kaufmann, Walter, 1950, *Nietzsche: Philosopher, Psychologist, Antichrist*, Princeton: Princeton University Press.
-* Klossowski, Pierre, 1969, *Nietzsche and the Vicious Circle*, London: Athlone, 1993.
-* Kofman, Sarah, 1972, *Nietzsche and Metaphor*, Duncan Large (ed. and trans.), London: Athlone Press; Stanford, CA: Stanford University Press, 1993.
-* Krell, David Farrell, 1986, *Postponements: Women, Sensuality, and Death in Nietzsche*, Bloomington: Indiana University Press.
-* Krell, David Farrell, and Donald L. Bates, 1997, *The Good European: Nietzsche’s Work Sites in Word and Image*, Chicago: The University of Chicago Press.
-* Lampert, Laurence, 1987, *Nietzsche’s Teaching: An Interpretation of “Thus Spoke Zarathustra”*, New Haven: Yale University Press.
-* –––, 2001, *Nietzsche’s Task: An Interpretation of “Beyond Good and Evil”*, New Haven: Yale University Press.
-* Leiter, Brian, 2002, *Routledge Guidebook to Nietzsche on Morality*, London: Routledge.
-* –––, 2019, *Moral Psychology with Nietzsche*, Oxford: Oxford University Press.
-* Lemm, Vanessa, 2009, *Nietzsche’s Animal Philosophy: Culture, Politics and the Animality of the Human Being*, New York: Fordham University Press.
-* –––, 2014, *Nietzsche and the Becoming of Life*, Oxford: Oxford University Press.
-* Liebert, Georges, 2004, *Nietzsche and Music*, David Pellauer and Graham Parkes (trans.), Chicago: University of Chicago Press.
-* Loeb, Paul, 2010, *The Death of Nietzsche’s Zarathustra*, Cambridge: Cambridge University Press.
-* Löwith, Karl, 1956, *Nietzsche’s Philosophy of the Eternal Recurrence of the Same*, J. Harvey Lomax (trans.), Bernd Magnus (foreward), Berkeley: University of California Press, 1997.
-* Losurdo, Dominico, 2002 [2020], *Nietzsche, The Aristocratic Rebel*, Leiden: Brill, 2020; translated by Gregor Benton from the Italian, *Nietzsche, il ribelle aristocratico: Biografia intellettuale e bilancio critico*, Turin, 2002.
-* Mabille, Louise, 2009, *Nietzsche and the Anglo-Saxon Tradition*, London: Continuum International Publishing Group.
-* Macintyre, Ben, 1992, *Forgotten Fatherland: The Search for Elisabeth Nietzsche*, London: Macmillan.
-* Magnus, Bernd, Stanley Stewart, and Jean-Pierre Mileur, 1993, *Nietzsche’s Case: Philosophy as/and Literature*, New York and London: Routledge.
-* Magnus, Bernd, 1978, *Nietzsche’s Existential Imperative*, Bloomington: Indiana University Press.
-* Mandel, Siegfried, 1998, *Nietzsche & the Jews*, New York: Prometheus Books.
-* May, Simon, 2000, *Nietzsche’s Ethics and his War on “Morality”*, Oxford: Oxford University Press.
-* –––, 2011, *Nietzsche’s “On the Genealogy of Morality”: A Critical Guide*, Cambridge: Cambridge University Press.
-* Mencken, H.L., 1908, *Friedrich Nietzsche*, New Brunswick (USA) and London (UK): Transaction Publishers, 1993.
-* Meyer, Matthew, 2014, *Reading Nietzsche Through the Ancients*, Berlin: Walter de Gruyter.
-* Moore, Gregory, 2002, *Nietzsche, Biology and Metaphor*, Cambridge: Cambridge University Press.
-* More, Nicholas D., 2014, *Nietzsche’s Last Laugh – “Ecce Homo” as Satire*, Cambridge: Cambridge University Press.
-* Nabais, Nuno, 1997 *Nietzsche and the Metaphysics of the Tragic*, Martin Earl (trans.), London: Continuum International Publishing Group, 2007.
-* Nehamas, Alexander, 1985, *Nietzsche: Life as Literature*, Cambridge, MA: Harvard University Press.
-* Oliver, Kelly, 1995, *Womanizing Nietzsche: Philosophy’s Relation to the “Feminine”*, New York and London: Routledge.
-* Parkes, Graham, 1994, *Composing the Soul: Reaches of Nietzsche’s Psychology*, Chicago and London: University of Chicago Press.
-* Pippin, Robert B., 2011, *Nietzsche, Psychology and First Philosophy*, Chicago: University of Chicago Press.
-* Pletsch, Carl, 1991, *Young Nietzsche: Becoming a Genius*, New York: Free Press.
-* Poellner, Peter, 2000, *Nietzsche and Metaphysics*, Oxford: Oxford University Press.
-* Prange, Martine, 2013, *Nietzsche, Wagner, Europe*, Berlin: Walter de Gruyter.
-* Prideaux, Sue, 2018, *I am Dynamite! — A Life of Nietzsche*, New York: Tim Duggan Books.
-* Rampley, Matthew, 2007, *Nietzsche, Aesthetics and Modernity*, Cambridge: Cambridge University Press.
-* Ratner-Rosenhagen, 2011, *American Nietzsche: A History of and Icon and His Ideas*, Chicago: University of Chicago Press.
-* Reginster, Bernard, 2006, *The Affirmation of Life: Nietzsche on Overcoming Nihilism*, Cambridge, MA: Harvard University Press.
-* Remhof, Justin, 2020, *Nietzsche’s Constructivism — A Metaphysics of Material Objects*, New York: Routledge, Taylor & Francis Group.
-* Richardson, John, 1996, *Nietzsche’s System*, Oxford: Oxford University Press.
-* –––, 2004, *Nietzsche’s New Darwinism*, Oxford: Oxford University Press.
-* –––, 2020, *Nietzsche’s Values*, Oxford: Oxford University Press.
-* Ridley, Aaron, 1998, *Nietzsche’s Conscience: Six Character Studies from the “Genealogy”*, Ithaca: Cornell University Press.
-* –––, 2007, *Routledge Philosophy Guidebook to Nietzsche on Art*, New York and London: Routledge.
-* Rosen, Stanley, 1995, *The Mask of Enlightenment: Nietzsche’s Zarathustra*, Cambridge: Cambridge University Press.
-* Safranski, Ruediger, 2002, *Nietzsche: A Philosophical Biography*, Shelley Frisch (trans.), New York: W.W. Norton.
-* Salomé, Lou, 1894, *Nietzsche*, Siegfried Mandel (ed. and trans.), Redding Ridge, CT: Black Swan Books, Ltd., 1988.
-* Schaberg, William H., 1996, *The Nietzsche Canon: A Publication History and Bibliography*, Chicago: The University of Chicago Press.
-* Schacht, Richard, 1983, *Nietzsche*, London: Routledge and Kegan Paul.
-* –––, 1995, *Making Sense of Nietzsche: Reflections Timely and Untimely*, Champaign, IL: University of Illinois Press.
-* Schrift, Alan D, 1990, *Nietzsche and the Question of Interpretation: Between Hermeneutics and Deconstruction*, New York: Routledge.
-* Schain, Richard, 2001, *The Legend of Nietzsche’s Syphilis*, Westport, CT: Greenwood Press.
-* Shapiro, Gary, 1989, *Nietzschean Narratives*, Bloomington: Indiana University Press.
-* Shaw, Tamsin, 2007, *Nietzsche’s Political Skepticism*, Princeton, NJ: Princeton University Press.
-* Simmel, Georg, 1907, *Schopenhauer and Nietzsche*, Helmut Loiskandle, Deena Weinstein, and Michael Weinstein (trans.), Urbana and Chicago: University of Illinois Press, 1991.
-* Small, Robin, 2001, *Nietzsche in Context*, London: Ashgate Publishing.
-* –––, 2005, *Nietzsche and Rée: A Star Friendship*, Oxford: Oxford University Press.
-* –––, 2010, *Time and Becoming in Nietzsche’s Thought*, London: Continuum.
-* Solomon, Robert C., 2003, *Living With Nietzsche: What the Great “Immoralist” Has to Teach Us*, Oxford: Oxford University Press.
-* Stambaugh, Joan, 1987, *The Problem of Time in Nietzsche*, John F. Humphrey (trans.), Philadelphia: Bucknell University Press.
-* Steinbuch, Thomas, 1994, *A Commentary on Nietzsche’s Ecce Homo*, Lanham, MD: University Press of America.
-* Welshon, Rex, 2004, *The Philosophy of Nietzsche*, Montreal and Kingston: McGill-Queen’s University Press.
-* White, Alan, 1990, *Within Nietzsche’s Labyrinth*, New York and London: Routledge.
-* Wilcox, John T., 1974, *Truth and Value in Nietzsche*, Ann Arbor: University of Michigan Press.
-* Young, Julian, 2010, *Friedrich Nietzsche: A Philosophical Biography*, Cambridge: Cambridge University Press.
-* –––, 1992, *Nietzsche’s Philosophy of Art*, Cambridge: Cambridge University Press.
-* –––, 2006, *Nietzsche’s Philosophy of Religion*, Cambridge: Cambridge University Press.
+* Acampora, Christa Davis, 2013, _Contesting Nietzsche_, Chicago: University of Chicago Press.
+* Alfano, Mark, 2019, _Nietzsche’s Moral Psychology_, Cambridge: Cambridge University Press.
+* Allison, David, 2000, _Reading the New Nietzsche_, Lanham, Maryland: Rowman & Littlefield Publishing.
+* Ansell-Pearson, Keith, and Rebecca Bamford, 2021, _Nietzsche’s Dawn: Philosophy, Ethics, and the Passion of Knowledge_, Hoboken, NJ: John Wiley & Sons Ltd.
+* Aschheim, Steven E, 1992, _The Nietzsche Legacy in Germany, 1890–1990_, Berkeley and Los Angeles: University of California Press.
+* Babich, Babette E, 1994, _Nietzsche’s Philosophy of Science_, Albany: State University of New York Press.
+* Bamford, Rebecca, 2014, _Nietzsche’s Method of Experimentalism in Science and Mind_, Berlin: Walter de Gruyter.
+* Bataille, Georges, 1945, _On Nietzsche_, Bruce Boone (trans.), London: Athlone Press, 1992.
+* Berry, Jessica, 2010, _Nietzsche and the Ancient Skeptical Tradition_, Oxford: Oxford University Press.
+* Bertram, Ernst, 1918, _Nietzsche: An Attempt at a Mythology_, Robert E. Norton (trans.), Champaign IL: University of Illinois Press, 2009.
+* Bishop, Paul, and R. H. Stephenson, 2005, _Friedrich Nietzsche and Weimar Classicism_, Rochester, NY: Camden House.
+* Blond, Lewis, 2011, _Heidegger and Nietzsche: Overcoming Metaphysics_, London: Continuum.
+* Blue, Daniel, 2016, _The Making of Friedrich Nietzsche – The Quest for Identity, 1844–1869_, Cambridge: Cambridge University Press.
+* Brobjer, Thomas, 1995, _Nietzsche’s Ethics of Character: A Study of Nietzsche’s Ethics and its Place in the History of Moral Thinking_, Department of the History of Ideas: University of Uppsala.
+* –––, 2008, _Nietzsche’s Philosophical Context: An Intellectual Biography_, Chicago: University of Illinois Press.
+* Chamberlain, Lesley, 1998, _Nietzsche in Turin: An Intimate Biography_, New York: Picador.
+* Clark, Maudemarie, 1990, _Nietzsche on Truth and Philosophy_, Cambridge: Cambridge University Press.
+* Cohen, Jonathan R, 2010, _Science, Culture, and Free Spirit: A Study of Nietzsche’s “Human, All-Too Human”_, Amherst, NY: Humanity Books/Prometheus Books.
+* Conrad, Mark T., 2017, _Nietzsche and the Philosophers_, New York: Routledge, Taylor & Francis Group.
+* Danto, Arthur C., 1965, _Nietzsche as Philosopher: An Original Study_, New York: Columbia University Press.
+* Deleuze, Gilles, 1962, _Nietzsche and Philosophy_, Hugh Tomlinson (trans.), New York: Columbia University Press, 1983.
+* Derrida, Jacques, 1979, _Spurs: Nietzsche’s Styles_, Barbara Harlow (trans.), Chicago: University of Chicago Press.
+* Emden, Christian J., 2008, _Friedrich Nietzsche and the Politics of History_, Cambridge: Cambridge University Press.
+* –––, 2014, _Nietzsche’s Naturalism_, Cambridge: Cambridge University Press.
+* Fink, Eugen, 2003 \[1960], Goetz Richter (trans.), _Nietzsche’s Philosophy_, Aldershot: Avebury.
+* Franco, Paul, 2011, _Nietzsche’s Enlightenment: The Free-Spirit Trilogy of the Middle Period_, Chicago: University of Chicago Press.
+* Geuss, Raymond, 1999, _Morality, Culture and History: Essays on German Philosophy_, Cambridge: Cambridge University Press.
+* Gillespie, Michael, 1996, _Nihilism Before Nietzsche_, Chicago: University of Chicago Press.
+* Gilman, Sander L, 1987, ed., _Conversations with Nietzsche: A Life in the Words of his Contemporaries_, David J. Parent (trans.), New York: Oxford University Press, Inc..
+* Green, Michael, 2002, _Nietzsche and the Transcendental Tradition_, Champaign, IL: University of Illinois Press.
+* Hales, Steven D. and Rex Welshon, 2000, _Nietzsche’s Perspectivism_, Champaign, IL: University of Illinois Press.
+* Hatab, Lawrence J., 2005, _Nietzsche’s Life Sentence: Coming to Terms with Eternal Recurrence_, London: Routledge.
+* –––, 2008, _Nietzsche’s “On the Genealogy of Morality”_, Cambridge: Cambridge University Press.
+* Hayman, Ronald, 1980, _Nietzsche, a Critical Life_, New York: Oxford University Press.
+* Heidegger, Martin, 1936–7a, _Nietzsche, Vol. I: The Will to Power as Art_, David F. Krell (trans.), New York: Harper & Row, 1979.
+* –––, 1936–7b, _Nietzsche, Vol. II: The Eternal Recurrence of the Same_, David F. Krell (trans.), San Francisco: Harper & Row, 1984.
+* –––, 1939, _Nietzsche, Vol. III: Will to Power as Knowledge and as Metaphysics_, Joan Stambaugh and Frank Capuzzi (trans.), San Francisco: Harper & Row, 1986.
+* –––, 1939, _Nietzsche, Vol. IV: Nihilism_, David F Krell (trans.), New York: Harper & Row, 1982.
+* Higgins, Kathleen Marie, 1999, _Comic Relief: Nietzsche’s Gay Science_, Oxford: Oxford University Press.
+* –––, 1987, _Nietzsche’s “Zarathustra”_ Philadelphia: Temple University Press.
+* Hollingdale, R.J., 1973, _Nietzsche_, London and New York: Routledge and Kegan Paul.
+* Hunt, Lester H, 1991, _Nietzsche and the Origin of Virtue_, London: Routledge.
+* Irigaray, Luce, 1980, _Marine Lover of Friedrich Nietzsche_, Gillian C. Gill (trans.), New York: Columbia University Press, 1991.
+* Janaway, Christopher, 2007, _Beyond Selflessness: Reading Nietzsche’s Genealogy_, Oxford: Oxford University Press.
+* Janz, Curt Paul, 1978–79, _Friedrich Nietzsche. Biographie in drei Bänden_, Munich: Carl Hanser.
+* Jaspers, Karl, 1936, _Nietzsche: An Introduction to the Understanding of His Philosophical Activity_, Charles F. Wallraff and Frederick J. Schmitz (trans.), South Bend, Indiana: Regentry/Gateway, Inc., 1979.
+* Jensen, Anthony K., 2013, _Nietzsche’s Philosophy of History_, Cambridge: Cambridge University Press.
+* Johnson, Dirk R., 2010, _Nietzsche’s Anti-Darwinism_, Cambridge: Cambridge University Press.
+* Jung, Carl G., 1934–9, _Nietzsche’s “Zarathustra”_, ed. James L. Jarrett. Princeton: Princeton University Press, 1988.
+* Kain, Philip J., 2009, _Nietzsche and the Horror of Existence_, Lanham, MD: Lexington Books.
+* Katsafanas, Paul., 2013, _Agency and the Foundations of Ethics: Nietzschean Constitutivism_, Oxford: Oxford University Press.
+* –––, 2016, _The Nietzschean Self: Moral Psychology, Agency, and the Unconscious_, Oxford: Oxford University Press.
+* Kaufmann, Walter, 1950, _Nietzsche: Philosopher, Psychologist, Antichrist_, Princeton: Princeton University Press.
+* Klossowski, Pierre, 1969, _Nietzsche and the Vicious Circle_, London: Athlone, 1993.
+* Kofman, Sarah, 1972, _Nietzsche and Metaphor_, Duncan Large (ed. and trans.), London: Athlone Press; Stanford, CA: Stanford University Press, 1993.
+* Krell, David Farrell, 1986, _Postponements: Women, Sensuality, and Death in Nietzsche_, Bloomington: Indiana University Press.
+* Krell, David Farrell, and Donald L. Bates, 1997, _The Good European: Nietzsche’s Work Sites in Word and Image_, Chicago: The University of Chicago Press.
+* Lampert, Laurence, 1987, _Nietzsche’s Teaching: An Interpretation of “Thus Spoke Zarathustra”_, New Haven: Yale University Press.
+* –––, 2001, _Nietzsche’s Task: An Interpretation of “Beyond Good and Evil”_, New Haven: Yale University Press.
+* Leiter, Brian, 2002, _Routledge Guidebook to Nietzsche on Morality_, London: Routledge.
+* –––, 2019, _Moral Psychology with Nietzsche_, Oxford: Oxford University Press.
+* Lemm, Vanessa, 2009, _Nietzsche’s Animal Philosophy: Culture, Politics and the Animality of the Human Being_, New York: Fordham University Press.
+* –––, 2014, _Nietzsche and the Becoming of Life_, Oxford: Oxford University Press.
+* Liebert, Georges, 2004, _Nietzsche and Music_, David Pellauer and Graham Parkes (trans.), Chicago: University of Chicago Press.
+* Loeb, Paul, 2010, _The Death of Nietzsche’s Zarathustra_, Cambridge: Cambridge University Press.
+* Löwith, Karl, 1956, _Nietzsche’s Philosophy of the Eternal Recurrence of the Same_, J. Harvey Lomax (trans.), Bernd Magnus (foreward), Berkeley: University of California Press, 1997.
+* Losurdo, Dominico, 2002 \[2020], _Nietzsche, The Aristocratic Rebel_, Leiden: Brill, 2020; translated by Gregor Benton from the Italian, _Nietzsche, il ribelle aristocratico: Biografia intellettuale e bilancio critico_, Turin, 2002.
+* Mabille, Louise, 2009, _Nietzsche and the Anglo-Saxon Tradition_, London: Continuum International Publishing Group.
+* Macintyre, Ben, 1992, _Forgotten Fatherland: The Search for Elisabeth Nietzsche_, London: Macmillan.
+* Magnus, Bernd, Stanley Stewart, and Jean-Pierre Mileur, 1993, _Nietzsche’s Case: Philosophy as/and Literature_, New York and London: Routledge.
+* Magnus, Bernd, 1978, _Nietzsche’s Existential Imperative_, Bloomington: Indiana University Press.
+* Mandel, Siegfried, 1998, _Nietzsche & the Jews_, New York: Prometheus Books.
+* May, Simon, 2000, _Nietzsche’s Ethics and his War on “Morality”_, Oxford: Oxford University Press.
+* –––, 2011, _Nietzsche’s “On the Genealogy of Morality”: A Critical Guide_, Cambridge: Cambridge University Press.
+* Mencken, H.L., 1908, _Friedrich Nietzsche_, New Brunswick (USA) and London (UK): Transaction Publishers, 1993.
+* Meyer, Matthew, 2014, _Reading Nietzsche Through the Ancients_, Berlin: Walter de Gruyter.
+* Moore, Gregory, 2002, _Nietzsche, Biology and Metaphor_, Cambridge: Cambridge University Press.
+* More, Nicholas D., 2014, _Nietzsche’s Last Laugh – “Ecce Homo” as Satire_, Cambridge: Cambridge University Press.
+* Nabais, Nuno, 1997 _Nietzsche and the Metaphysics of the Tragic_, Martin Earl (trans.), London: Continuum International Publishing Group, 2007.
+* Nehamas, Alexander, 1985, _Nietzsche: Life as Literature_, Cambridge, MA: Harvard University Press.
+* Oliver, Kelly, 1995, _Womanizing Nietzsche: Philosophy’s Relation to the “Feminine”_, New York and London: Routledge.
+* Parkes, Graham, 1994, _Composing the Soul: Reaches of Nietzsche’s Psychology_, Chicago and London: University of Chicago Press.
+* Pippin, Robert B., 2011, _Nietzsche, Psychology and First Philosophy_, Chicago: University of Chicago Press.
+* Pletsch, Carl, 1991, _Young Nietzsche: Becoming a Genius_, New York: Free Press.
+* Poellner, Peter, 2000, _Nietzsche and Metaphysics_, Oxford: Oxford University Press.
+* Prange, Martine, 2013, _Nietzsche, Wagner, Europe_, Berlin: Walter de Gruyter.
+* Prideaux, Sue, 2018, _I am Dynamite! — A Life of Nietzsche_, New York: Tim Duggan Books.
+* Rampley, Matthew, 2007, _Nietzsche, Aesthetics and Modernity_, Cambridge: Cambridge University Press.
+* Ratner-Rosenhagen, 2011, _American Nietzsche: A History of and Icon and His Ideas_, Chicago: University of Chicago Press.
+* Reginster, Bernard, 2006, _The Affirmation of Life: Nietzsche on Overcoming Nihilism_, Cambridge, MA: Harvard University Press.
+* Remhof, Justin, 2020, _Nietzsche’s Constructivism — A Metaphysics of Material Objects_, New York: Routledge, Taylor & Francis Group.
+* Richardson, John, 1996, _Nietzsche’s System_, Oxford: Oxford University Press.
+* –––, 2004, _Nietzsche’s New Darwinism_, Oxford: Oxford University Press.
+* –––, 2020, _Nietzsche’s Values_, Oxford: Oxford University Press.
+* Ridley, Aaron, 1998, _Nietzsche’s Conscience: Six Character Studies from the “Genealogy”_, Ithaca: Cornell University Press.
+* –––, 2007, _Routledge Philosophy Guidebook to Nietzsche on Art_, New York and London: Routledge.
+* Rosen, Stanley, 1995, _The Mask of Enlightenment: Nietzsche’s Zarathustra_, Cambridge: Cambridge University Press.
+* Safranski, Ruediger, 2002, _Nietzsche: A Philosophical Biography_, Shelley Frisch (trans.), New York: W.W. Norton.
+* Salomé, Lou, 1894, _Nietzsche_, Siegfried Mandel (ed. and trans.), Redding Ridge, CT: Black Swan Books, Ltd., 1988.
+* Schaberg, William H., 1996, _The Nietzsche Canon: A Publication History and Bibliography_, Chicago: The University of Chicago Press.
+* Schacht, Richard, 1983, _Nietzsche_, London: Routledge and Kegan Paul.
+* –––, 1995, _Making Sense of Nietzsche: Reflections Timely and Untimely_, Champaign, IL: University of Illinois Press.
+* Schrift, Alan D, 1990, _Nietzsche and the Question of Interpretation: Between Hermeneutics and Deconstruction_, New York: Routledge.
+* Schain, Richard, 2001, _The Legend of Nietzsche’s Syphilis_, Westport, CT: Greenwood Press.
+* Shapiro, Gary, 1989, _Nietzschean Narratives_, Bloomington: Indiana University Press.
+* Shaw, Tamsin, 2007, _Nietzsche’s Political Skepticism_, Princeton, NJ: Princeton University Press.
+* Simmel, Georg, 1907, _Schopenhauer and Nietzsche_, Helmut Loiskandle, Deena Weinstein, and Michael Weinstein (trans.), Urbana and Chicago: University of Illinois Press, 1991.
+* Small, Robin, 2001, _Nietzsche in Context_, London: Ashgate Publishing.
+* –––, 2005, _Nietzsche and Rée: A Star Friendship_, Oxford: Oxford University Press.
+* –––, 2010, _Time and Becoming in Nietzsche’s Thought_, London: Continuum.
+* Solomon, Robert C., 2003, _Living With Nietzsche: What the Great “Immoralist” Has to Teach Us_, Oxford: Oxford University Press.
+* Stambaugh, Joan, 1987, _The Problem of Time in Nietzsche_, John F. Humphrey (trans.), Philadelphia: Bucknell University Press.
+* Steinbuch, Thomas, 1994, _A Commentary on Nietzsche’s Ecce Homo_, Lanham, MD: University Press of America.
+* Welshon, Rex, 2004, _The Philosophy of Nietzsche_, Montreal and Kingston: McGill-Queen’s University Press.
+* White, Alan, 1990, _Within Nietzsche’s Labyrinth_, New York and London: Routledge.
+* Wilcox, John T., 1974, _Truth and Value in Nietzsche_, Ann Arbor: University of Michigan Press.
+* Young, Julian, 2010, _Friedrich Nietzsche: A Philosophical Biography_, Cambridge: Cambridge University Press.
+* –––, 1992, _Nietzsche’s Philosophy of Art_, Cambridge: Cambridge University Press.
+* –––, 2006, _Nietzsche’s Philosophy of Religion_, Cambridge: Cambridge University Press.
 
 ### C. Collected Essays on Nietzsche
 
-* Acampora, Christa Davis (ed.), 2006, *Nietzsche’s “On the Genealogy of Morals”: Critical Essays*, Lanham, MD: Rowman & Littlefield.
-* Allison, David B. (ed.), 1985, *The New Nietzsche: Contemporary Styles of Interpretation*, Cambridge, MA: The MIT Press.
-* Ansell-Pearson, Keith (ed.), 2006, *A Companion to Nietzsche*, Malden, USA/Oxford, UK/Carlton, Australia: Blackwell.
-* Bishop, Paul (ed.), 2004, *Nietzsche and Antiquity: His Reaction and Response to the Classical Tradition*, Rochester, New York: Camden House.
-* –––, 2012, *A Companion to Friedrich Nietzsche: Life and Works*, Rochester, New York: Camden House.
-* Bloom, Harold (ed.), 1987, *Modern Critical Views: Friedrich Nietzsche*, New York, New Haven, Philadelphia: Chelsea House Publishers.
-* Boublil, Élodie, and Christine Daigle, 2013, *Nietzsche and Phenomenology: Power, Life, Subjectivity*, Bloomington: Indiana University Press.
-* Burgard, Peter J. (ed.), 1994, *Nietzsche and the Feminine*, Charlottesville, VA: University of Virginia Press.
-* Came, Daniel (ed.), 2014, *Nietzsche on Art and Life*, Oxford: Oxford University Press.
-* Constancio, Joäo and Maria Joäo Mayer Branco (eds.), 2011, *Nietzsche on Instinct and Language*, Berlin: Walter de Gruyter.
-* Gemes, Ken, and Simon May (eds.), 2009, *Nietzsche on Freedom and Autonomy*, Oxford: Oxford University Press.
-* Gemes, Ken, and John Richardson (eds.), 2013, *The Oxford Handbook of Nietzsche*, Oxford: Oxford University Press.
-* Golomb, Jacob (ed.), 1997, *Nietzsche and Jewish Culture*, London: Routledge.
-* Golomb, Jacob and Robert S. Wistrich (eds.), 2002, *Nietzsche, Godfather of Fascism?: On the Uses and Abuses of a Philosophy*, Princeton, NJ: Princeton University Press.
-* Hemming, Laurence Paul, Bogdan Costea, and Kostas Amiridis (eds.), 2011, *The Movement of Nihilism: Heidegger’s Thinking after Nietzsche*, London: Continuum.
-* Janaway, Christopher (ed.), 1998, *Willing and Nothingness: Schopenhauer as Nietzsche’s Educator*, Oxford: Oxford University Press.
-* Janaway, Christopher and Simon Robertson (eds.), 2012, *Nietzsche, Naturalism, and Normativity*, Oxford: Oxford University Press.
-* Katsafanas, Paul (ed.), 2020, *The Nietzschean Mind*, New York: Routledge, Taylor & Francis Group.
-* Kemal, Salim, Ivan Gaskell and Daniel W. Conway (eds.), 1998, *Nietzsche, Philosophy and the Arts*, Cambridge: Cambridge University Press.
-* Knoll, Manuel and Barry Stocker (eds.), 2014, *Nietzsche as Political Thinker*, Berlin: Walter de Gruyter.
-* Koelb, Clayton (ed.), 1990, *Nietzsche as Postmodernist: Essays Pro and Contra*, Albany: State University of New York Press.
-* Leiter, Brian, and Neil Sinhababu (eds.), 2009, *Nietzsche and Morality*, Oxford: Oxford University Press.
-* Magnus, Bernd, and Kathleen M. Higgins (eds.), 1996, *The Cambridge Companion to Nietzsche*, Cambridge: Cambridge University Press.
-* Metzger, Jeffrey (ed.), 2009, *Nietzsche, Nihilism and the Philosophy of the Future*, London: Bloomsbury Academic.
-* Oliver, Kelly, and Marilyn Pearsall (eds.), 1998, *Feminist Interpretations of Friedrich Nietzsche (Re-reading the Canon)*, University Park: Pennsylvania State University Press.
-* Parkes, Graham (ed.), 1991, *Nietzsche and Asian Thought*, Chicago: The University of Chicago Press.
-* Richardson, John, and Brian Leiter (eds.), 2001, *Nietzsche*, Oxford: Oxford University Press.
-* Rosenthal, Bernice Glatzer (ed.), 1994, *Nietzsche and Soviet Culture: Ally and Adversary*, Cambridge: Cambridge University Press.
-* Schacht, Richard (ed.), 1994, *Nietzsche, Genealogy, Morality: Essays on Nietzsche’s On the Genealogy of Morals*, Berkeley: University of California Press.
-* Scott, Jacqueline, and A. Todd Franklin (eds.), 2007, *Critical Affinities: Nietzsche and African American Thought*, Albany: State University of New York Press.
-* Sedgwick, Peter R. (ed.), 1995, *Nietzsche: A Critical Reader*, Oxford, UK and Cambridge, MA: Blackwell.
-* Solomon, Robert C, and Kathleen M. Higgins (eds.), 1988, *Reading Nietzsche*, New York and Oxford: Oxford University Press.
-* Solomon, Robert (ed.), 1973, *Nietzsche: A Collection of Critical Essays*, Garden City, NY: Anchor Books.
-* Stauffer, Jill, and Bettina Bergo (eds.), 2008, *Nietzsche and Levinas: After the Death of a Certain God*, New York: Columbia University Press.
-* Young, Julian (ed.), 2014, *Individual and Community in Nietzsche’s Philosophy*, Cambridge: Cambridge University Press.
-* Yovel, Yirmiyahu (ed.), 1986, *Nietzsche as Affirmative Thinker*, Dordrecht: Martinus Nihoff Publishers.
+* Acampora, Christa Davis (ed.), 2006, _Nietzsche’s “On the Genealogy of Morals”: Critical Essays_, Lanham, MD: Rowman & Littlefield.
+* Allison, David B. (ed.), 1985, _The New Nietzsche: Contemporary Styles of Interpretation_, Cambridge, MA: The MIT Press.
+* Ansell-Pearson, Keith (ed.), 2006, _A Companion to Nietzsche_, Malden, USA/Oxford, UK/Carlton, Australia: Blackwell.
+* Bishop, Paul (ed.), 2004, _Nietzsche and Antiquity: His Reaction and Response to the Classical Tradition_, Rochester, New York: Camden House.
+* –––, 2012, _A Companion to Friedrich Nietzsche: Life and Works_, Rochester, New York: Camden House.
+* Bloom, Harold (ed.), 1987, _Modern Critical Views: Friedrich Nietzsche_, New York, New Haven, Philadelphia: Chelsea House Publishers.
+* Boublil, Élodie, and Christine Daigle, 2013, _Nietzsche and Phenomenology: Power, Life, Subjectivity_, Bloomington: Indiana University Press.
+* Burgard, Peter J. (ed.), 1994, _Nietzsche and the Feminine_, Charlottesville, VA: University of Virginia Press.
+* Came, Daniel (ed.), 2014, _Nietzsche on Art and Life_, Oxford: Oxford University Press.
+* Constancio, Joäo and Maria Joäo Mayer Branco (eds.), 2011, _Nietzsche on Instinct and Language_, Berlin: Walter de Gruyter.
+* Gemes, Ken, and Simon May (eds.), 2009, _Nietzsche on Freedom and Autonomy_, Oxford: Oxford University Press.
+* Gemes, Ken, and John Richardson (eds.), 2013, _The Oxford Handbook of Nietzsche_, Oxford: Oxford University Press.
+* Golomb, Jacob (ed.), 1997, _Nietzsche and Jewish Culture_, London: Routledge.
+* Golomb, Jacob and Robert S. Wistrich (eds.), 2002, _Nietzsche, Godfather of Fascism?: On the Uses and Abuses of a Philosophy_, Princeton, NJ: Princeton University Press.
+* Hemming, Laurence Paul, Bogdan Costea, and Kostas Amiridis (eds.), 2011, _The Movement of Nihilism: Heidegger’s Thinking after Nietzsche_, London: Continuum.
+* Janaway, Christopher (ed.), 1998, _Willing and Nothingness: Schopenhauer as Nietzsche’s Educator_, Oxford: Oxford University Press.
+* Janaway, Christopher and Simon Robertson (eds.), 2012, _Nietzsche, Naturalism, and Normativity_, Oxford: Oxford University Press.
+* Katsafanas, Paul (ed.), 2020, _The Nietzschean Mind_, New York: Routledge, Taylor & Francis Group.
+* Kemal, Salim, Ivan Gaskell and Daniel W. Conway (eds.), 1998, _Nietzsche, Philosophy and the Arts_, Cambridge: Cambridge University Press.
+* Knoll, Manuel and Barry Stocker (eds.), 2014, _Nietzsche as Political Thinker_, Berlin: Walter de Gruyter.
+* Koelb, Clayton (ed.), 1990, _Nietzsche as Postmodernist: Essays Pro and Contra_, Albany: State University of New York Press.
+* Leiter, Brian, and Neil Sinhababu (eds.), 2009, _Nietzsche and Morality_, Oxford: Oxford University Press.
+* Magnus, Bernd, and Kathleen M. Higgins (eds.), 1996, _The Cambridge Companion to Nietzsche_, Cambridge: Cambridge University Press.
+* Metzger, Jeffrey (ed.), 2009, _Nietzsche, Nihilism and the Philosophy of the Future_, London: Bloomsbury Academic.
+* Oliver, Kelly, and Marilyn Pearsall (eds.), 1998, _Feminist Interpretations of Friedrich Nietzsche (Re-reading the Canon)_, University Park: Pennsylvania State University Press.
+* Parkes, Graham (ed.), 1991, _Nietzsche and Asian Thought_, Chicago: The University of Chicago Press.
+* Richardson, John, and Brian Leiter (eds.), 2001, _Nietzsche_, Oxford: Oxford University Press.
+* Rosenthal, Bernice Glatzer (ed.), 1994, _Nietzsche and Soviet Culture: Ally and Adversary_, Cambridge: Cambridge University Press.
+* Schacht, Richard (ed.), 1994, _Nietzsche, Genealogy, Morality: Essays on Nietzsche’s On the Genealogy of Morals_, Berkeley: University of California Press.
+* Scott, Jacqueline, and A. Todd Franklin (eds.), 2007, _Critical Affinities: Nietzsche and African American Thought_, Albany: State University of New York Press.
+* Sedgwick, Peter R. (ed.), 1995, _Nietzsche: A Critical Reader_, Oxford, UK and Cambridge, MA: Blackwell.
+* Solomon, Robert C, and Kathleen M. Higgins (eds.), 1988, _Reading Nietzsche_, New York and Oxford: Oxford University Press.
+* Solomon, Robert (ed.), 1973, _Nietzsche: A Collection of Critical Essays_, Garden City, NY: Anchor Books.
+* Stauffer, Jill, and Bettina Bergo (eds.), 2008, _Nietzsche and Levinas: After the Death of a Certain God_, New York: Columbia University Press.
+* Young, Julian (ed.), 2014, _Individual and Community in Nietzsche’s Philosophy_, Cambridge: Cambridge University Press.
+* Yovel, Yirmiyahu (ed.), 1986, _Nietzsche as Affirmative Thinker_, Dordrecht: Martinus Nihoff Publishers.
 
 ### D. Nietzsche’s Music
 
-* *Piano Music of Friedrich Nietzsche*, Newport Classics, CD #85513 (1992), John Bell Young (piano)
-* *The Music of Friedrich Nietzsche*, Newport Classics, CD #85535 (1993), John Bell Young (piano), Thomas Coote (piano), John Aler (voice), Nicholas Eanet (violin)
-* *Friedrich Nietzsche, Volume I: Compositions of his Youth* (1857–63). Albany Music, CD #178 (1996), Lauretta Altman, Wolfgang Bottenberg, Valerie Kinslow, Eric Oland, The Orpheus Singers
-* *Friedrich Nietzsche, Volume II: Compositions of his Mature Years* (1864–82). Albany Music, CD #181 (1997), Lauretta Altman, Wolfgang Bottenberg, Sven Meier, Valerie Kinslow, Eric Oland, The Orpheus Singers
-* *Friedrich Nietzsche: Piano Works and Fantasy for Violin and Piano*, Talent, CD #291031 (1996), Elena Letnanova (piano), Kuniko Nagata (violin)
-* *The Music of Friedrich Nietzsche*, The Nietzsche Music Project and Media Arts International (2003), Manolis Papasifakis (piano), Thomas Coote (piano), Christian Hebet (violin), David Blackburn (tenor)
-* *Friedrich Nietzsche: Selected Works for Piano*, Nicholas Hopkins (ed.), New York: Carl Fischer Music, 2017.
+* _Piano Music of Friedrich Nietzsche_, Newport Classics, CD #85513 (1992), John Bell Young (piano)
+* _The Music of Friedrich Nietzsche_, Newport Classics, CD #85535 (1993), John Bell Young (piano), Thomas Coote (piano), John Aler (voice), Nicholas Eanet (violin)
+* _Friedrich Nietzsche, Volume I: Compositions of his Youth_ (1857–63). Albany Music, CD #178 (1996), Lauretta Altman, Wolfgang Bottenberg, Valerie Kinslow, Eric Oland, The Orpheus Singers
+* _Friedrich Nietzsche, Volume II: Compositions of his Mature Years_ (1864–82). Albany Music, CD #181 (1997), Lauretta Altman, Wolfgang Bottenberg, Sven Meier, Valerie Kinslow, Eric Oland, The Orpheus Singers
+* _Friedrich Nietzsche: Piano Works and Fantasy for Violin and Piano_, Talent, CD #291031 (1996), Elena Letnanova (piano), Kuniko Nagata (violin)
+* _The Music of Friedrich Nietzsche_, The Nietzsche Music Project and Media Arts International (2003), Manolis Papasifakis (piano), Thomas Coote (piano), Christian Hebet (violin), David Blackburn (tenor)
+* _Friedrich Nietzsche: Selected Works for Piano_, Nicholas Hopkins (ed.), New York: Carl Fischer Music, 2017.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nietzsche-life-works). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/nietzsche-life-works/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=nietzsche-life-works&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/nietzsche-life-works/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nietzsche-life-works).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/nietzsche-life-works/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=nietzsche-life-works\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/nietzsche-life-works/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
@@ -352,7 +352,7 @@
 
 ## Related Entries
 
-[existentialism](https://plato.stanford.edu/entries/existentialism/) | [Nietzsche, Friedrich: moral and political philosophy](https://plato.stanford.edu/entries/nietzsche-moral-political/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [Schopenhauer, Arthur](https://plato.stanford.edu/entries/schopenhauer/)
+[existentialism](https://plato.stanford.edu/entries/existentialism/) | [Nietzsche, Friedrich: moral and political philosophy](https://plato.stanford.edu/entries/nietzsche-moral-political/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [Schopenhauer, Arthur](https://plato.stanford.edu/entries/schopenhauer/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Robert Wicks](http://artsfaculty.auckland.ac.nz/staff/?UPI=rwic005) <[*r.wicks@auckland.ac.nz*](mailto:r%2ewicks%40auckland%2eac%2enz)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Robert Wicks](http://artsfaculty.auckland.ac.nz/staff/?UPI=rwic005) <[_r.wicks@auckland.ac.nz_](mailto:r%2ewicks%40auckland%2eac%2enz)>

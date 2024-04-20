@@ -1,28 +1,25 @@
 # 形而上学中的唯名论 in metaphysics (Gonzalo Rodriguez-Pereyra)
 
-*首次发表于2008年2月11日；实质修订于2015年4月1日。*
+_首次发表于2008年2月11日；实质修订于2015年4月1日。_
 
 唯名论至少有两种形式。其中一种是对抽象对象的否定，另一种是对普遍性的否定。哲学家们经常发现有必要假设抽象对象或普遍性。因此，唯名论在至少中世纪以来的形而上学辩论中发挥了重要作用，当时引入了第二种唯名论的版本。这两种唯名论是相互独立的，可以单独持有其中一种而保持一致。然而，这两种形式的唯名论都有一些共同的动机和论证。本条目概述了这两种形式的唯名论理论。
 
 * [1. 什么是唯名论？](https://plato.stanford.edu/entries/nominalism-metaphysics/#WhaNom)
 * [2. 抽象对象和普遍性](https://plato.stanford.edu/entries/nominalism-metaphysics/#AbsObjUni)
-
-  * [ 2.1 抽象对象](https://plato.stanford.edu/entries/nominalism-metaphysics/#AbsObj)
-  * [ 2.2 通性](https://plato.stanford.edu/entries/nominalism-metaphysics/#Uni)
+  * [2.1 抽象对象](https://plato.stanford.edu/entries/nominalism-metaphysics/#AbsObj)
+  * [2.2 通性](https://plato.stanford.edu/entries/nominalism-metaphysics/#Uni)
 * [3. 反对抽象对象和通性的论证](https://plato.stanford.edu/entries/nominalism-metaphysics/#ArgAgaAbsObjUni)
 * [4. 唯名论的种类](https://plato.stanford.edu/entries/nominalism-metaphysics/#VarNom)
-
   * [4.1 关于普遍性的唯名论](https://plato.stanford.edu/entries/nominalism-metaphysics/#NomAboUni)
   * [4.2 关于抽象对象的唯名论](https://plato.stanford.edu/entries/nominalism-metaphysics/#NomAboAbsObj)
-
     * [4.2.1 唯名论关于命题](https://plato.stanford.edu/entries/nominalism-metaphysics/#NomAboPro)
     * [4.2.2 唯名论关于可能世界](https://plato.stanford.edu/entries/nominalism-metaphysics/#NomAboPosWor)
-* [ 参考文献](https://plato.stanford.edu/entries/nominalism-metaphysics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/nominalism-metaphysics/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/nominalism-metaphysics/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/nominalism-metaphysics/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/nominalism-metaphysics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nominalism-metaphysics/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/nominalism-metaphysics/#Rel)
 
----
+***
 
 ## 1. 什么是唯名论？
 
@@ -40,7 +37,7 @@
 
 有时候，唯名论被认为是代表策略（a）的立场。但是这似乎是基于这样的思想：使一个立场成为唯名论的原因是对属性、数值、命题等的拒绝。然而，在本文中，我将以更广泛的方式理解唯名论，即将实施策略（a）或（b）的立场纳入其中。对于唯名论来说，它并不反对属性、数值、命题、可能世界等等。唯名论对于属性、数值、可能世界和命题等实体的不适应之处在于它们被认为是普遍性或抽象对象。因此，仅仅对属性、数值、可能世界、命题等的拒绝并不能使一个人成为唯名论者——要成为唯名论者，需要拒绝它们，因为它们被认为是普遍性或抽象对象。例如，迈克尔·朱比恩拒绝命题，但他承认以柏拉图主义方式解释的属性和关系；他拒绝命题的原因与其所谓的抽象特性无关（朱比恩 2001：48-54）。称朱比恩为命题的唯名论者是奇怪的。
 
-因此，根据我在本条目中的用法，接受属性、命题、可能世界和数学存在与唯名论是相容的。对于那些接受数学存在、属性、可能世界和命题的唯名论者来说，他们要将它们看作个别的或具体的对象[2]。而仅仅拒绝属性、命题、可能世界、数学和其他任何事物并不足以成为关于它们的唯名论者：作为一个唯名论者，必须因为它们是普遍的或抽象的对象而拒绝它们。
+因此，根据我在本条目中的用法，接受属性、命题、可能世界和数学存在与唯名论是相容的。对于那些接受数学存在、属性、可能世界和命题的唯名论者来说，他们要将它们看作个别的或具体的对象\[2]。而仅仅拒绝属性、命题、可能世界、数学和其他任何事物并不足以成为关于它们的唯名论者：作为一个唯名论者，必须因为它们是普遍的或抽象的对象而拒绝它们。
 
 ## 2. 抽象对象和普遍性
 
@@ -50,9 +47,9 @@
 
 但是这种对抽象对象的概念受到了批评。游戏和语言被认为是抽象的，但它们是时态实体，因为它们在某个时间点产生，并且其中一些在时间上发展和变化（Hale 1987, 49）。仅将抽象对象定义为因果无关的对象也存在问题（例如，请参阅有关抽象对象的条目）。
 
-关于如何描述抽象对象还有其他提议。一种方法是将抽象对象定义为那些理解其名称涉及到承认所命名对象在某个功能表达式的范围内（Dummett 1973, 485）。还有人认为，抽象对象是那些要么不可能存在，要么不可能是具体的对象，这取决于您是否将谓词“E！”（用于正式表示“抽象”定义）解释为存在谓词或具体性谓词（Zalta 1983, 60, 50-52）。根据另一种对抽象对象的概念，这些对象无法与其他实体分开存在（Lowe 1995, 514）。[3]（有关描述抽象/具体区别的各种方式的讨论，请参阅 Burgess 和 Rosen 1997, 13-25）。
+关于如何描述抽象对象还有其他提议。一种方法是将抽象对象定义为那些理解其名称涉及到承认所命名对象在某个功能表达式的范围内（Dummett 1973, 485）。还有人认为，抽象对象是那些要么不可能存在，要么不可能是具体的对象，这取决于您是否将谓词“E！”（用于正式表示“抽象”定义）解释为存在谓词或具体性谓词（Zalta 1983, 60, 50-52）。根据另一种对抽象对象的概念，这些对象无法与其他实体分开存在（Lowe 1995, 514）。\[3]（有关描述抽象/具体区别的各种方式的讨论，请参阅 Burgess 和 Rosen 1997, 13-25）。
 
-因此，对于抽象对象有几种替代的概念。但在接下来的内容中，我将把抽象对象视为非时空的和因果无关的对象。这是因为唯名论（在其一种意义上）的动机基本上是拒绝非时空的和因果无关的对象。也就是说，唯名论者之所以对抽象对象感到困扰，仅仅是因为他对非时空的、因果无关的对象感到困扰。这一点可以从唯名论理论常常受到经验主义或自然主义观点的推动来看出，这些观点对非时空的、因果无关的对象没有容身之处。[4]因此，例如，从唯名论的观点来看，数学对象（抽象对象的一个子类）的一个主要问题是，我们很难看出我们如何能够获得关于它们的知识或形成可靠的信念，并引用它们，因为它们与我们之间没有因果关系。但这假设了抽象对象的问题在于它们的因果无关性。而它们的因果无关性的根源可能是它们缺乏时空性。
+因此，对于抽象对象有几种替代的概念。但在接下来的内容中，我将把抽象对象视为非时空的和因果无关的对象。这是因为唯名论（在其一种意义上）的动机基本上是拒绝非时空的和因果无关的对象。也就是说，唯名论者之所以对抽象对象感到困扰，仅仅是因为他对非时空的、因果无关的对象感到困扰。这一点可以从唯名论理论常常受到经验主义或自然主义观点的推动来看出，这些观点对非时空的、因果无关的对象没有容身之处。\[4]因此，例如，从唯名论的观点来看，数学对象（抽象对象的一个子类）的一个主要问题是，我们很难看出我们如何能够获得关于它们的知识或形成可靠的信念，并引用它们，因为它们与我们之间没有因果关系。但这假设了抽象对象的问题在于它们的因果无关性。而它们的因果无关性的根源可能是它们缺乏时空性。
 
 把抽象对象描述为非时空的和因果无关的对象可能被认为是不令人满意的，因为它只告诉我们它们不是什么，而不是它们是什么。但这对于唯名论者来说并不是一个问题。唯名论者的任务是拒绝这样的对象，而不是以积极的方式描述它们。对于拒绝抽象对象的目的来说，将它们描述为非时空的、因果无关的对象是一个相当清晰的描述（至少与时空对象、因果关系、因果力和相关概念一样清晰）。
 
@@ -60,7 +57,7 @@
 
 ### 2.2 通性
 
-关于通性的唯名论者拒绝通性 - 但它们是什么？个体和通性之间的区别通常被认为是穷尽且互斥的，但是否存在这样的区别是有争议的。[5] 这种区别可以通过实例化关系来划分：我们可以说，如果某物可以被实例化（无论是通过个体还是通性实例化），则它是一个通性 - 否则它是一个个体。因此，虽然个体和通性都可以实例化实体，但只有通性可以被实例化。如果白色是一个通性，那么每个白色的东西都是它的一个实例。但是那些白色的东西，例如苏格拉底，不能有任何实例。[6]
+关于通性的唯名论者拒绝通性 - 但它们是什么？个体和通性之间的区别通常被认为是穷尽且互斥的，但是否存在这样的区别是有争议的。\[5] 这种区别可以通过实例化关系来划分：我们可以说，如果某物可以被实例化（无论是通过个体还是通性实例化），则它是一个通性 - 否则它是一个个体。因此，虽然个体和通性都可以实例化实体，但只有通性可以被实例化。如果白色是一个通性，那么每个白色的东西都是它的一个实例。但是那些白色的东西，例如苏格拉底，不能有任何实例。\[6]
 
 唯实论者通常认为属性（例如白色）、关系（例如中间性）和种类（例如黄金）是普遍的。普遍的存在在哪里？它们存在于实例化它们的事物中吗？还是存在于它们之外？坚持第二个选项是坚持关于普遍的前实在论。如果普遍存在于它们的实例之外，那么可以合理地假设它们存在于空间和时间之外。如果是这样，假设它们的因果无效性，普遍是抽象对象。坚持普遍存在于它们的实例中是坚持关于普遍的实在论。如果普遍存在于它们的实例中，并且它们的实例存在于空间或时间中，那么可以合理地认为普遍存在于空间或时间中，这种情况下它们是具体的。在这种情况下，普遍可以多重定位，即它们可以同时占据多个位置，因为实在的普遍在其占据的每个位置上完全定位（因此如果有实在的白色，那么它可以与自身相隔六米）。
 
@@ -80,7 +77,7 @@
 
 还有其他更具体的反对普遍性的论证。其中之一是假设这些东西会导致恶性无限回归。假设存在普遍性，包括单元普遍性和关系普遍性，并且当一个实体实例化一个普遍性，或者一组实体实例化一个关系普遍性时，它们通过实例化关系相连。现在假设一个实体 a 实例化普遍性 F。由于有许多事物实例化许多普遍性，可以合理地假设实例化是一种关系普遍性。但是，如果实例化是一种关系普遍性，当 a 实例化 F 时，a、F 和实例化关系将通过实例化关系相连。将这个实例化关系称为 i2（并假设它与将 a 和 F 连接起来的实例化关系（i1）不同）。然后，由于 i2 也是一种普遍性，看起来 a、F、i1 和 i2 将不得不通过另一个实例化关系 i3 相连，依此类推，无限下去。（这个论证的来源可以追溯到布拉德利 1893 年的著作 27-8 页。）
 
-这种回归是否显示了关于普遍性的现实主义的某种不连贯性，或者仅仅是不经济，这是一个有争议的问题。关于普遍性的现实主义者可以坚持认为这种回归是虚幻的，例如通过坚持认为虽然个别事物实例化普遍性，但这并不涉及它们之间的关系（阿姆斯特朗 1997 年，118 页）。[7]
+这种回归是否显示了关于普遍性的现实主义的某种不连贯性，或者仅仅是不经济，这是一个有争议的问题。关于普遍性的现实主义者可以坚持认为这种回归是虚幻的，例如通过坚持认为虽然个别事物实例化普遍性，但这并不涉及它们之间的关系（阿姆斯特朗 1997 年，118 页）。\[7]
 
 反对普遍性的其他论证基于以下原则：完全不同的存在之间不能有必然的联系，没有两个事物可以由完全相同的部分组成。考虑一下普遍性的甲烷。如果一个分子由四个氢原子与一个碳原子结合而成，那么它就是甲烷的实例。因此，只有当碳被实例化时，甲烷才被必然实例化。但这似乎是两个完全不同实体之间的必然联系，即普遍性的甲烷和碳。这里的一个答案是，甲烷和碳并不是完全不同的普遍性，因为普遍性的碳是普遍性的甲烷的一个组成部分，其他部分是普遍性的氢和关系性的普遍性。问题在于，如果一个分子由四个碳原子组成，相邻的碳原子之间有键结合，而末端碳原子每个都与三个氢原子结合，而中间碳原子每个都与两个氢原子结合（因此丁烷的化学式为CH3-CH2-CH2-CH3），那么如果丁烷不与完全不同的普遍性必然相关联，那么应该说碳、氢和键结合是丁烷的组成部分。但是，甲烷和丁烷由完全相同的部分组成。因此，结构性普遍性（即像甲烷和丁烷这样的普遍性，任何实例化它们的东西都必须由实例化某些普遍性并在彼此之间具有某些关系的部分组成）似乎违反了要么没有必然联系的原则，要么没有两个实体可以由完全相同的部分组成的原则（有关进一步讨论，请参见Lewis 1986b）。
 
@@ -98,7 +95,7 @@
 
 关于普遍性的现实主义者和唯名论者试图回答的问题是：是什么使得 F-事物成为 F（其中“F”是一个稀疏属性谓词）？例如，是什么使得一个方形的东西成为方形的？对于普遍性的现实主义者来说，如果某物是方形的，那是因为该物体具有普遍性的方形特性。一般来说，对于普遍性的现实主义者来说，事物具有它们所具有的稀疏属性，是因为它们具有普遍性的实例。
 
-唯名论者如何回答这个问题？一种流行的属性唯名论理论是所谓的特质理论，这一理论由唐纳德·威廉姆斯（1953 年）、基思·坎贝尔（1990 年）和道格拉斯·埃林（2011 年）等人提出。特质理论并不否认属性的存在，而是将属性视为通常被称为“特质”的某些实体。特质是个别的，就像个别的人和个别的苹果一样。因此，当有一个猩红色的苹果时，苹果的猩红色不是一种普遍性，而是一种特定的猩红色，即这个苹果的猩红色，它存在于这个苹果猩红的地方和时间。[9]这样一个特定的猩红色就是一个特质。苹果之所以是猩红色，并不是因为它实例化了一个普遍性，而是因为它拥有一个猩红色的特质。
+唯名论者如何回答这个问题？一种流行的属性唯名论理论是所谓的特质理论，这一理论由唐纳德·威廉姆斯（1953 年）、基思·坎贝尔（1990 年）和道格拉斯·埃林（2011 年）等人提出。特质理论并不否认属性的存在，而是将属性视为通常被称为“特质”的某些实体。特质是个别的，就像个别的人和个别的苹果一样。因此，当有一个猩红色的苹果时，苹果的猩红色不是一种普遍性，而是一种特定的猩红色，即这个苹果的猩红色，它存在于这个苹果猩红的地方和时间。\[9]这样一个特定的猩红色就是一个特质。苹果之所以是猩红色，并不是因为它实例化了一个普遍性，而是因为它拥有一个猩红色的特质。
 
 但是是什么使得猩红色的特质成为猩红色的特质呢？这里可能的一个答案是，猩红色的特质之所以是猩红色的特质，是因为它们彼此相似，而这种相似性并不是通过实例化某个相同的普遍性来解释的。当然，深红色的特质也彼此相似。使得一个特质成为猩红色的是它与这些特质（猩红色的那些特质）相似，而不是与那些特质（深红色的那些特质）相似。
 
@@ -108,13 +105,13 @@
 
 有关普遍论的唯名论还有其他形式，其中两种是谓词唯名论和概念唯名论。关于普遍论的实在论者承认谓词“猩红”适用于猩红的事物。但他说，谓词“猩红”适用于它，是因为它是猩红的，这不过是它实例化了普遍的猩红性。同样，他说，所讨论的事物之所以属于概念“猩红”，是因为它是猩红的，这不过是该事物实例化了普遍的猩红性。但对于谓词唯名论来说，没有什么叫做猩红性。根据这个理论，一件事物之所以是猩红的，是因为谓词“猩红”适用于它。同样，根据概念唯名论（或概念主义），没有什么叫做猩红性，一件事物之所以是猩红的，是因为它属于概念“猩红”。这两种观点意味着，如果没有说话者或思考者，事物就不会是猩红的。正因为如此，许多人会倾向于另一种观点，称为鸵鸟唯名论。这种观点由奎因等人持有，认为我们的事物之所以是猩红的，没有任何原因：它只是猩红的（戴维特，1980年，97页）。但许多人认为，成为猩红不能是一个形而上学上的终极事实，而必须有某种原因使猩红的事物成为猩红。
 
-另一种理论是唯名论，根据这种理论，红色的属性是红色事物的集合，而某物之所以是红色，是因为它是红色事物集合的一部分。[12] 集合，或者说是整体，是一个特定的东西。但是这个理论在质量和形状等所谓的广泛属性上面临困难。并不是每个正方形事物的每个部分都是正方形的，因为例如，并不是每个正方形的总和本身就是正方形的，也不是每个正方形的部分本身就是正方形的。因此，正方形事物之所以是正方形，并不是因为它们是正方形事物集合的一部分。
+另一种理论是唯名论，根据这种理论，红色的属性是红色事物的集合，而某物之所以是红色，是因为它是红色事物集合的一部分。\[12] 集合，或者说是整体，是一个特定的东西。但是这个理论在质量和形状等所谓的广泛属性上面临困难。并不是每个正方形事物的每个部分都是正方形的，因为例如，并不是每个正方形的总和本身就是正方形的，也不是每个正方形的部分本身就是正方形的。因此，正方形事物之所以是正方形，并不是因为它们是正方形事物集合的一部分。
 
-在相同的精神中，一个更好的理论是类唯名论，这个版本由刘易斯（1983）提出。无论是抽象的还是非抽象的，根据这个观点，类都是特定的事物。[13] 根据类唯名论，属性是事物的类，因此红色的属性是所有红色事物的类。[14]
+在相同的精神中，一个更好的理论是类唯名论，这个版本由刘易斯（1983）提出。无论是抽象的还是非抽象的，根据这个观点，类都是特定的事物。\[13] 根据类唯名论，属性是事物的类，因此红色的属性是所有红色事物的类。\[14]
 
 这个理论的一个问题是，没有两个类可以有相同的成员，而似乎并不需要具有相同实例的属性是相同的。因此，不能保证属性与类的等同是正确的。即使是正确的，这种等同显然也不是必然正确的。此外，如果每个 F 都是 G，反之亦然，这个理论迫使我们说，使某物成为 F 的原因与使它成为 G 的原因是相同的。但是，虽然每个 F 可能是 G，反之亦然，但并不意味着使事物成为 F 的原因与使它们成为 G 的原因是相同的。
 
-对此的一个解决方案是接受一种模态实在论的版本，例如大卫·刘易斯的版本，根据这个版本，其他可能的世界存在，并且包含与实际世界中的事物相同种类的事物（参见刘易斯 1986a）。然后，属性被认同为那些成员不必属于同一个可能世界的类。因此，红色事物的属性是在任何可能世界中都是红色的事物的类[15]。即使每个实际的 F 都是 G，反之亦然，由于并非每个可能的 F 都是 G，或反之亦然，使某物成为 F 的原因，即属于实际和可能的 Fs 类的原因，与使其成为 G 的原因不同。该理论否认存在必然共同扩展的属性。
+对此的一个解决方案是接受一种模态实在论的版本，例如大卫·刘易斯的版本，根据这个版本，其他可能的世界存在，并且包含与实际世界中的事物相同种类的事物（参见刘易斯 1986a）。然后，属性被认同为那些成员不必属于同一个可能世界的类。因此，红色事物的属性是在任何可能世界中都是红色的事物的类\[15]。即使每个实际的 F 都是 G，反之亦然，由于并非每个可能的 F 都是 G，或反之亦然，使某物成为 F 的原因，即属于实际和可能的 Fs 类的原因，与使其成为 G 的原因不同。该理论否认存在必然共同扩展的属性。
 
 唯名论的另一个版本是相似性唯名论。根据这个理论，红色的事物之间并不是因为它们是红色而相似，而是使它们成为红色的原因是它们相互相似。因此，使某物成为红色的原因是它与红色的事物相似。同样，使正方形成为正方形的原因是它们相互相似，因此使某物成为正方形的原因是它与正方形的事物相似。相似性是基本和原始的，因此要么没有属性，要么一个事物的属性取决于它相似的事物。
 
@@ -140,7 +137,7 @@
 
 关于非结构化命题的最流行的观念是将它们视为可能世界的集合或从可能世界到真值的函数（Lewis 1986a，53; Stalnaker 1987，2）。根据这些理论，命题是在其中为真的可能世界的集合，或者是一个函数，当它以命题为真的世界作为参数时，它的值为真，当它以命题为假的世界作为参数时，它的值为假。
 
-但是集合在表面上是抽象对象。因此，那些认为命题是可能世界的集合的人应该被视为命题的形而上学者。但是，像刘易斯（1986a，83）和麦迪（1990，59）这样的人认为，时空定位成员的集合在其成员所在的地点和时间是时空定位的，因此时空定位成员的集合是具体的。[16]但是，由于它没有任何成员，空集不是时空定位的。由于存在必然错误的命题，即在任何可能的世界中都不为真的命题，根据这种命题的概念，将这些命题与空集等同是合理的。因此，一些命题（至少一个）似乎是抽象对象。函数也似乎是抽象对象。真值 True 和 False 似乎也是抽象对象。因此，如果命题的这些解释是命题的唯名论解释，那么它们需要一些一致且合理的唯名论纯集合、函数和真值的解释。
+但是集合在表面上是抽象对象。因此，那些认为命题是可能世界的集合的人应该被视为命题的形而上学者。但是，像刘易斯（1986a，83）和麦迪（1990，59）这样的人认为，时空定位成员的集合在其成员所在的地点和时间是时空定位的，因此时空定位成员的集合是具体的。\[16]但是，由于它没有任何成员，空集不是时空定位的。由于存在必然错误的命题，即在任何可能的世界中都不为真的命题，根据这种命题的概念，将这些命题与空集等同是合理的。因此，一些命题（至少一个）似乎是抽象对象。函数也似乎是抽象对象。真值 True 和 False 似乎也是抽象对象。因此，如果命题的这些解释是命题的唯名论解释，那么它们需要一些一致且合理的唯名论纯集合、函数和真值的解释。
 
 还有其他关于命题的理论认为它们是非结构化实体。乔治·比勒尔对非结构化命题有一种概念，根据这种概念，它们是独特的、不可约的内涵实体。他的命题即使在它们所涉及的对象不存在时也可以存在，即使它们所涉及的对象不是实际的也可以是实际的（比勒尔 2006，232-4）。这样的命题是抽象对象。
 
@@ -148,7 +145,7 @@
 
 根据罗素式命题观念，命题是具有特定结构的复杂实体，其构成要素是个别事物和/或属性和/或关系。这种类型的命题是抽象对象吗？如果所有个别事物都是具体的，那么即使属性和关系是抽象的，命题也可能是具体对象。因为可以说命题是其构成要素所在的地方和时间。但这听起来是武断的。为什么不说命题是其构成要素属性和关系所在的地方，也就是说，不存在的地方？无论如何，个别事物（甚至属性和关系）是具体的，并不能立即解决命题的意义，即由个别事物和/或属性和关系构成的复杂实体是否是抽象对象的问题。因为命题是什么样的复杂实体？有时候它们被认为是有序集合。如果命题就是这样的话，唯名论者需要一个令人满意的唯名论解释来解释有序集合。如果命题是另一种类型的复杂实体，那么关于命题的唯名论者必须确保那种类型的对象是具体的。
 
-一种唯名论的选择是展示与命题相关的角色（例如成为真理承载者和命题态度的对象）实际上是由具体对象扮演的。这里的一个常见思想是提出句子扮演与命题相关的角色。这种策略由奎因（Quine）所示范。在《词与物》中，他提出了永恒句子作为真理承载者（Quine 1960, 208）。永恒句子在作为真或假与时间、地点、说话者等无关独立存在方面比其他句子更好。但是，它们在从一种语言到另一种语言的真值变化方面与其他句子一样糟糕（Quine 1969, 142）。[18] 但请注意，从关于抽象对象的唯名论者的观点来看，永恒句子存在一个更严重的问题，即它们可能是抽象对象。它们可能是抽象对象，因为它们是句子类型，而类型可能是抽象对象，例如如果将它们视为集合或抽象普遍性（尽管可以尝试将它们视为非抽象普遍性）。
+一种唯名论的选择是展示与命题相关的角色（例如成为真理承载者和命题态度的对象）实际上是由具体对象扮演的。这里的一个常见思想是提出句子扮演与命题相关的角色。这种策略由奎因（Quine）所示范。在《词与物》中，他提出了永恒句子作为真理承载者（Quine 1960, 208）。永恒句子在作为真或假与时间、地点、说话者等无关独立存在方面比其他句子更好。但是，它们在从一种语言到另一种语言的真值变化方面与其他句子一样糟糕（Quine 1969, 142）。\[18] 但请注意，从关于抽象对象的唯名论者的观点来看，永恒句子存在一个更严重的问题，即它们可能是抽象对象。它们可能是抽象对象，因为它们是句子类型，而类型可能是抽象对象，例如如果将它们视为集合或抽象普遍性（尽管可以尝试将它们视为非抽象普遍性）。
 
 另一种选择是将具体的令牌句子（口头表达或书面铭文）作为扮演通常与命题相关的角色的对象。这里的一个问题是只有有限数量的句子会被说出。因此，有些人很难理解一般逻辑定律，例如任意两个错误形成一个错误的析取，因为这个析取可能不会被说出或书写（Quine 1969, 143）。 （一个可能的解决方案可能是重新制定该定律，以便说如果 P 和 Q 的析取存在，则当且仅当 P 和 Q 都为假时，它是假的。）
 
@@ -160,11 +157,11 @@
 
 #### 4.2.2 关于可能世界的唯名论
 
-“唯名论”这个词并不常用来指代与可能世界有关的任何立场。但由于一些哲学家认为可能世界是抽象对象，对于可能世界的唯名论者来说，他们认为可能世界不是抽象对象，这将包括那些认为没有可能世界的人（但不包括那些仅仅不相信它们的存在的人）（[20]）。
+“唯名论”这个词并不常用来指代与可能世界有关的任何立场。但由于一些哲学家认为可能世界是抽象对象，对于可能世界的唯名论者来说，他们认为可能世界不是抽象对象，这将包括那些认为没有可能世界的人（但不包括那些仅仅不相信它们的存在的人）（\[20]）。
 
-关于可能世界的本质的问题是一个备受争议的话题。例如，阿尔文·普兰廷加认为可能世界是可能且最大的事态。最大的事态是指包含或排除每个事态的事态——如果事态 S 包含事态 S *，当且仅当 S 不可能发生且 S*不可能不发生；如果事态 S 排除事态 S*，当且仅当两者都不可能发生（普兰廷加 1974 年，45 页；2003a 年，107 页；2003b 年，194 页）[21]。根据普兰廷加的观点，可能但非必然的事态可以发生也可以不发生。那些发生的事态是实际的。实际世界包括每个实际的事态（普兰廷加 2003a 年，107 页；2003b 年，195 页）。可能的事态和世界存在，但不发生（普兰廷加 2003a 年，107 页；2003b 年，195 页）。普兰廷加认为事态，因此也认为可能世界是抽象对象。事实上，即使实际世界对于普兰廷加来说也是一个抽象对象，因为它没有质心，既不是具体对象也不是具体对象的整体，而且，就像福特聪明的事态一样，它根本没有空间部分（2003a 年，107 页）。
+关于可能世界的本质的问题是一个备受争议的话题。例如，阿尔文·普兰廷加认为可能世界是可能且最大的事态。最大的事态是指包含或排除每个事态的事态——如果事态 S 包含事态 S _，当且仅当 S 不可能发生且 S_不可能不发生；如果事态 S 排除事态 S\*，当且仅当两者都不可能发生（普兰廷加 1974 年，45 页；2003a 年，107 页；2003b 年，194 页）\[21]。根据普兰廷加的观点，可能但非必然的事态可以发生也可以不发生。那些发生的事态是实际的。实际世界包括每个实际的事态（普兰廷加 2003a 年，107 页；2003b 年，195 页）。可能的事态和世界存在，但不发生（普兰廷加 2003a 年，107 页；2003b 年，195 页）。普兰廷加认为事态，因此也认为可能世界是抽象对象。事实上，即使实际世界对于普兰廷加来说也是一个抽象对象，因为它没有质心，既不是具体对象也不是具体对象的整体，而且，就像福特聪明的事态一样，它根本没有空间部分（2003a 年，107 页）。
 
-对于斯坦内克来说，可能世界是世界可能存在的方式，而这些方式是属性（2003 年，7 页）。所有这些世界可能存在的方式实际上都存在，但只有其中一种被实例化——即世界实际上的方式。他自然地认为这些属性是抽象对象（2003 年，32 页）[22]。彼得·福雷斯特进一步发展了这样的观点，他提出了一些他称之为本质的属性（自然非关系属性的某些连接），以扮演可能世界所扮演的角色。这些本质属性在很大程度上是未实例化的属性（1986a 年，15 页）。认为它们是抽象对象是很自然的想法[23]。
+对于斯坦内克来说，可能世界是世界可能存在的方式，而这些方式是属性（2003 年，7 页）。所有这些世界可能存在的方式实际上都存在，但只有其中一种被实例化——即世界实际上的方式。他自然地认为这些属性是抽象对象（2003 年，32 页）\[22]。彼得·福雷斯特进一步发展了这样的观点，他提出了一些他称之为本质的属性（自然非关系属性的某些连接），以扮演可能世界所扮演的角色。这些本质属性在很大程度上是未实例化的属性（1986a 年，15 页）。认为它们是抽象对象是很自然的想法\[23]。
 
 另一个选择是将可能世界视为最大一致的命题集合。R. M. Adams（1974 年）勾勒了这样一个理论。如果命题是抽象对象，那么根据这个理论，可能世界也是抽象对象。但是还有其他选择。亚当斯建议，某人可以像莱布尼茨一样，将命题视为上帝心灵中的思想。但是如果是这样，而上帝存在于时间中，因此是具体的，那么他的思想也应该是具体的。而且如果我们假设空间时间定位实体的集合是具体的（因为它们在其成员所在的任何地方和任何时间都存在），那么具体对象的集合也是具体的。因此，具体神的思想集合是具体的。
 
@@ -172,98 +169,98 @@
 
 所有先前提到的可能世界的解释/理论都是实在论的，因为它们认为实际存在和存在本身是一致的。大卫·刘易斯的唯名论可能世界解释/理论是其中最发展完善的，但它不是实在论的，而是可能论的：根据刘易斯的观点，存在本身是一回事，而实际存在是另一回事。对于刘易斯来说，“实际”是一个指示性谓词，因此从每个世界的角度来看，只有那个世界是实际的，其他世界都不是。因此，与普兰廷加、亚当斯和斯塔尔内克不同，刘易斯并不认为每个可能世界都实际存在。
 
-对于刘易斯来说，可能世界是时空相关对象的最大总和。如果一个时空相关对象的总和中没有任何不是该总和的一部分的对象与该总和的任何部分时空相关，那么这个总和就是最大的。由于时空相关对象的总和是具体对象的总和，而具体对象的总和又是具体对象，刘易斯的可能世界就是具体对象。[25]，[26]
+对于刘易斯来说，可能世界是时空相关对象的最大总和。如果一个时空相关对象的总和中没有任何不是该总和的一部分的对象与该总和的任何部分时空相关，那么这个总和就是最大的。由于时空相关对象的总和是具体对象的总和，而具体对象的总和又是具体对象，刘易斯的可能世界就是具体对象。\[25]，\[26]
 
-大卫·阿姆斯特朗提出了另一种可能世界的理论。阿姆斯特朗提出了一种实在论的组合论的可能性理论，根据这个理论，可能性是由实际元素（个体和普遍性）的适当组合来确定的。阿姆斯特朗关于可能性和可能世界的理论的基本概念是原子事实。一个事实将一个个体和一个普遍性（如果普遍性是一个属性）或一些个体和一个普遍性（如果普遍性是一个关系）联系在一起。[27]
+大卫·阿姆斯特朗提出了另一种可能世界的理论。阿姆斯特朗提出了一种实在论的组合论的可能性理论，根据这个理论，可能性是由实际元素（个体和普遍性）的适当组合来确定的。阿姆斯特朗关于可能性和可能世界的理论的基本概念是原子事实。一个事实将一个个体和一个普遍性（如果普遍性是一个属性）或一些个体和一个普遍性（如果普遍性是一个关系）联系在一起。\[27]
 
-这些元素（个体和普遍性）定义了一系列的组合，其中一些是实现的，一些不是。这些组合必须遵守事实状态的形式（因此亚里士多德的智慧是一种实现的组合，亚里士多德的普遍性是一种未实现的组合，而智慧的亚里士多德并不遵守事实状态的形式，因此不属于由个体和普遍性定义的组合范围）。可能的原子事实状态是遵守事实状态形式的个体和普遍性的组合。仅仅可能的原子事实状态是个体和普遍性的重新组合，即那些实际上不发生的组合，比如亚里士多德是一位将军。[28] 对于阿姆斯特朗来说，可能的世界是可能的原子事实状态的连接（1989 年，47，48）。[29]
+这些元素（个体和普遍性）定义了一系列的组合，其中一些是实现的，一些不是。这些组合必须遵守事实状态的形式（因此亚里士多德的智慧是一种实现的组合，亚里士多德的普遍性是一种未实现的组合，而智慧的亚里士多德并不遵守事实状态的形式，因此不属于由个体和普遍性定义的组合范围）。可能的原子事实状态是遵守事实状态形式的个体和普遍性的组合。仅仅可能的原子事实状态是个体和普遍性的重新组合，即那些实际上不发生的组合，比如亚里士多德是一位将军。\[28] 对于阿姆斯特朗来说，可能的世界是可能的原子事实状态的连接（1989 年，47，48）。\[29]
 
 阿姆斯特朗的组合主义在实际主义意义上是实在论的，因为存在的一切实际上都存在。但他并没有将他的仅仅可能的事实状态和仅仅可能的世界与实际存在的实体等同起来。因此，仅仅可能的事实状态和世界实际上并不存在，因此，根据阿姆斯特朗的实在论，根本不存在（阿姆斯特朗 1989 年，49）。
 
-阿姆斯特朗对可能世界的拒绝并不完全是一种唯名论的立场，因为他对可能世界的反对并不是基于它们所声称的抽象特性。阿姆斯特朗认为可能世界不存在，他更像是一种关于可能世界的虚构主义者，因此他自称为（1989 年，49 页）。但是，如果一个人认为可能世界不存在，并且在这个意义上他是关于可能世界的虚构主义者，那么他也可以在另一个意义上成为关于可能世界的虚构主义者，即所谓的模态虚构主义的意义上。根据模态虚构主义，具有明显的对可能世界的量化的句子必须被理解为在故事前缀的范围内进行量化（罗森 1990 年，332 页）。设 PW 是一个假设可能世界的理论。‘根据 PW’就是一个故事前缀。[30]因此，模态虚构主义者说，当他说‘存在一个可能世界，那里有蓝天鹅’时，他真正说的是根据 PW 的说法，存在一个世界，那里有蓝天鹅（罗森 1990 年，332 页）。但是，由于故事前缀内的量化并不具有存在承诺性，模态虚构主义者可以说出像‘因为可能存在蓝天鹅，所以存在一个可能世界，那里有蓝天鹅’这样的话，而不承诺自己相信可能世界存在。[31]
+阿姆斯特朗对可能世界的拒绝并不完全是一种唯名论的立场，因为他对可能世界的反对并不是基于它们所声称的抽象特性。阿姆斯特朗认为可能世界不存在，他更像是一种关于可能世界的虚构主义者，因此他自称为（1989 年，49 页）。但是，如果一个人认为可能世界不存在，并且在这个意义上他是关于可能世界的虚构主义者，那么他也可以在另一个意义上成为关于可能世界的虚构主义者，即所谓的模态虚构主义的意义上。根据模态虚构主义，具有明显的对可能世界的量化的句子必须被理解为在故事前缀的范围内进行量化（罗森 1990 年，332 页）。设 PW 是一个假设可能世界的理论。‘根据 PW’就是一个故事前缀。\[30]因此，模态虚构主义者说，当他说‘存在一个可能世界，那里有蓝天鹅’时，他真正说的是根据 PW 的说法，存在一个世界，那里有蓝天鹅（罗森 1990 年，332 页）。但是，由于故事前缀内的量化并不具有存在承诺性，模态虚构主义者可以说出像‘因为可能存在蓝天鹅，所以存在一个可能世界，那里有蓝天鹅’这样的话，而不承诺自己相信可能世界存在。\[31]
 
-现在，从唯名论者的角度来看，接受模态虚构主义必须与某种唯名论可接受的关于故事、理论或一般表示的解释/理论相结合。因为接受像‘根据 PW 的说法，存在一些世界，那里有蓝天鹅’这样的说法似乎会使人承诺 PW，而 PW 是一个理论，因此似乎会使人承诺理论。但是理论似乎是抽象对象。因此，虚构主义唯名论者需要一个关于理论的唯名论解释/理论。例如，如果理论是命题的集合，那么关于集合和命题的唯名论解释/理论就可以作为理论的唯名论解释/理论。[32]
+现在，从唯名论者的角度来看，接受模态虚构主义必须与某种唯名论可接受的关于故事、理论或一般表示的解释/理论相结合。因为接受像‘根据 PW 的说法，存在一些世界，那里有蓝天鹅’这样的说法似乎会使人承诺 PW，而 PW 是一个理论，因此似乎会使人承诺理论。但是理论似乎是抽象对象。因此，虚构主义唯名论者需要一个关于理论的唯名论解释/理论。例如，如果理论是命题的集合，那么关于集合和命题的唯名论解释/理论就可以作为理论的唯名论解释/理论。\[32]
 
 ## Bibliography
 
-* Alston, W., 1958, “Ontological Commitments”, *Philosophical Studies*, 9: 8–17.
-* Adams, R. M., 1974, “Theories of Actuality”, *Noûs*, 8: 211–31.
-* Armstrong, D. M., 1978, *Universals and Scientific Realism*, vols. I and II, Cambridge: Cambridge University Press.
-* Armstrong, D. M., 1986, “In defence of structural universals”, *Australasian Journal of Philosophy*, 64: 85–88.
-* Armstrong, D. M., 1989, *A Combinatorial Theory of Possibility*, Cambridge: Cambridge University Press.
-* Armstrong, D. M, 1997, *A World of States of Affairs*, Cambridge: Cambridge University Press.
-* Balaguer, M., 1998, “Attitudes Without Propositions”, *Philosophy and Phenomenological Research*, 58: 805–26.
-* Balaguer, M., 2004, “Platonism in Metaphysics”, *The Stanford Encyclopedia of Philosophy (Summer 2004 Edition)*, Edward N. Zalta (ed.), URL = <[Platonism in Metaphysics (Stanford Encyclopedia of Philosophy/Summer 2004 Edition)](https://plato.stanford.edu/archives/sum2004/entries/platonism/)>
-* Bealer, G., 2006, “Universals and the Defense of *Ante Rem* Realism”, in *Universals, Concepts and Qualities. New Essays on the Meaning of Predicates*, P. F. Strawson and A. Chakrabarti (eds), Aldershot and Burlington: Ashgate, pp. 225–238.
-* Benacerraf, P., 1973, “Mathematical Truth”, *The Journal of Philosophy*, 70: 661–79.
-* Bradley, F. H., 1893, *Appearance and Reality*, Oxford: Oxford University Press.
-* Burgess, J. and Rosen, G., 1997, *A Subject with no Object*, Oxford: Oxford University Press.
-* Campbell, K., 1990, *Abstract Particulars*. Oxford and Cambridge, MA: Basil Blackwell.
-* Cresswell, M., 1972, “The World is Everything That is the Case”, *Australasian Journal of Philosophy*, 50: 1–13; page reference is to the reprint in Loux, M., 1976.
-* Daly, C., 1997, “Tropes”, in *Properties*, D. H. Mellor and A. Oliver (eds.), Oxford: Oxford University Press, pp. 140–59.
-* Devitt, M., 1980, ‘“Ostrich Nominalism” or “Mirage Realism”?’, *Pacific Philosophical Quarterly*, 61: 433–9; page reference is to the reprint in Mellor, D. H. and Oliver, A. (eds.) 1997.
-* Dummett, M., 1973, *Frege. Philosophy of Language*, London: Duckworth.
-* Ehring, D., 2011, *Tropes. Properties, Objects, and Mental Causation*, Oxford: Oxford University Press.
-* Field, H., 1980, *Science Without Numbers: A Defence of Nominalism*, Oxford: Basil Blackwell.
-* Field, H., 1989, *Realism, Mathematics & Modality*, Oxford: Basil Blackwell.
-* Forrest, P., 1986a, “Ways Worlds Could Be”, *Australasian Journal of Philosophy*, 64: 15–24.
-* Forrest, P., 1986b, “Neither Magic nor Mereology”, *Australasian Journal of Philosophy*, 64: 89–91.
-* Goodman, N., 1972, “A World of Individuals”, in his *Problems and Projects*, Indianapolis and New York: The Bobbs-Merrill Company, Inc., pp. 155–72.
-* Goodman, N., 1986, “Nominalisms”, in *The Philosophy of W. V. Quine*, L. E. Hahn and P. A. Schilpp (eds.), Open Court: La Salle, Illinois, pp. 159–61.
-* Goodman, N. and Quine, W. V. O., 1947, “Steps Toward a Constructive Nominalism”, *The Journal of Symbolic Logic*, 12: 105–22.
-* Hale, B., 1987, *Abstract Objects*. Oxford and New York: Basil Blackwell.
-* Jubien, M., 2001, “Propositions and the Objects of Thought”, *Philosophical Studies*, 104: 47–62.
-* Keinänen, M., 2005, *Trope Theories and the Problem of Universals*, Helsinki: University of Helsinki Press.
-* King, J., 2007, *The Nature and Structure of Content*. Oxford: Oxford University Press.
-* Lewis, D., 1983, “New Work for a Theory of Universals”, *Australasian Journal of Philosophy*, 61: 343–77.
-* Lewis, D., 1986a, *On the Plurality of Worlds*, Oxford: Blackwell.
-* Lewis, D., 1986b, “Against Structural Universals”, *Australasian Journal of Philosophy*, 64: 25–46.
-* Linsky, B. and Zalta, E., 1994, “In Defense of the Simplest Quantified Modal Logic”, *Philosophical Perspectives,* 8: 431–458.
-* Loux, M., 1976, *The Possible and the Actual*, Ithaca and London: Cornell University Press.
-* Loux, M., 1998, *Metaphysics. Contemporary Introduction*, London and New York: Routledge.
-* Lowe, E. J., 1995, “The Metaphysics of Abstract Objects”, *The Journal of Philosophy*, 92: 509–524.
-* Maddy, P., 1990, *Realism in Mathematics*. Oxford: Clarendon Press.
-* Maurin, A-S., 2002, *If Tropes*, Dordrecht: Kluwer Academic Publishers.
-* Mellor, D. H. and Oliver, A. (eds.) 1997, *Properties*, Oxford: Oxford University Press.
-* Pickel, B. and Mantegani, N., 2012, “A Quinean critique of Ostrich Nominalism”, *Philosophers' Imprint*, 12(6).
-* Plantinga, A., 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
-* Plantinga, A., 2003a, “Actualism and Possible Worlds”, in his *Essays in the Metaphysics of Modality*, edited by Matthew Davidson, Oxford: Oxford University Press, pp. 103–21.
-* Plantinga, A., 2003b, “ Two Concepts of Modality: Modal Realism and Modal Reductionism”, in his *Essays in the Metaphysics of Modality*, edited by Matthew Davidson, Oxford: Oxford University Press, pp. 192–228.
-* Quine, W. V. O., 1947, “On Universals”, *The Journal of Symbolic Logic*, 12: 74–84.
-* Quine, W. V. O., 1960, *Word and Object*, Cambridge, MA: The M.I.T. Press.
-* Quine, W. V. O., 1964, “On What There Is”, in his *From a Logical Point of View*, Second edition, revised, Cambridge, Massachusetts: Harvard University Press, pp. 1–19.
-* Quine, W. V. O., 1969, “Propositional Objects”, in his *Ontological Relativity and Other Essays*, New York: Columbia University Press, pp. 139–60.
-* Quine, W. V. O., 1981, “Things and Their Place in Theories”, in his *Theories and Things*, Cambridge, Massachusetts: Harvard University Press, pp. 1–23.
-* Ramsey, F. P., 1925, “Universals”, *Mind*, 34: 401–417.
-* Rodriguez-Pereyra, G., 2002, *Resemblance Nominalism*. *A solution to the problem of universals*, Oxford: Clarendon Press.
-* Rodriguez-Pereyra, G., 2004, “Modal Realism and Metaphysical Nihilism”, *Mind*, 113: 683–704.
-* Rosen, G., 1990, “Modal Fictionalism”, *Mind*, 99: 327–354.
-* Rosen, G., 2001, “Abstract Objects”, *The Stanford Encyclopedia of Philosophy (Spring 2006 Edition)*, Edward N. Zalta (ed.), URL = <[Abstract Objects (Stanford Encyclopedia of Philosophy/Spring 2006 Edition)](https://plato.stanford.edu/archives/spr2006/entries/abstract-objects/)>
-* Russell, B., 1912, *The Problems of Philosophy*, London: Oxford University Press.
-* Scheffler, I., 1954, “An inscriptional approach to indirect quotation”, *Analysis*, 14: 83–90.
-* Scheffler, I., 1958, “Inscriptionalism and indirect quotation”, *Analysis*, 19: 12–18.
-* Stalnaker, R. 1987. *Inquiry*, Cambridge, MA, London, England: The MIT Press.
-* Stalnaker, R., 2003, *Ways a World Might Be*, Oxford: Clarendon Press.
-* Tugby, M., 2013, “Causal nominalism and the one over many problem”, *Analysis*, 73: 455–62.
-* Whittle, A., 2009, “Causal Nominalism”, in *Dispositions and Causes*, T. Handfield (ed.), Oxford: Oxford University Press, pp. 242–85.
-* Williams, D. C. 1953, “On the Elements of Being: I”, *Review of Metaphysics*, 7: 3–18.
-* Zalta, E., 1983, *Abstract Objects*, Dordrecht, Boston, Lancaster: D. Reidel Publishing Company.
+* Alston, W., 1958, “Ontological Commitments”, _Philosophical Studies_, 9: 8–17.
+* Adams, R. M., 1974, “Theories of Actuality”, _Noûs_, 8: 211–31.
+* Armstrong, D. M., 1978, _Universals and Scientific Realism_, vols. I and II, Cambridge: Cambridge University Press.
+* Armstrong, D. M., 1986, “In defence of structural universals”, _Australasian Journal of Philosophy_, 64: 85–88.
+* Armstrong, D. M., 1989, _A Combinatorial Theory of Possibility_, Cambridge: Cambridge University Press.
+* Armstrong, D. M, 1997, _A World of States of Affairs_, Cambridge: Cambridge University Press.
+* Balaguer, M., 1998, “Attitudes Without Propositions”, _Philosophy and Phenomenological Research_, 58: 805–26.
+* Balaguer, M., 2004, “Platonism in Metaphysics”, _The Stanford Encyclopedia of Philosophy (Summer 2004 Edition)_, Edward N. Zalta (ed.), URL = <[Platonism in Metaphysics (Stanford Encyclopedia of Philosophy/Summer 2004 Edition)](https://plato.stanford.edu/archives/sum2004/entries/platonism/)>
+* Bealer, G., 2006, “Universals and the Defense of _Ante Rem_ Realism”, in _Universals, Concepts and Qualities. New Essays on the Meaning of Predicates_, P. F. Strawson and A. Chakrabarti (eds), Aldershot and Burlington: Ashgate, pp. 225–238.
+* Benacerraf, P., 1973, “Mathematical Truth”, _The Journal of Philosophy_, 70: 661–79.
+* Bradley, F. H., 1893, _Appearance and Reality_, Oxford: Oxford University Press.
+* Burgess, J. and Rosen, G., 1997, _A Subject with no Object_, Oxford: Oxford University Press.
+* Campbell, K., 1990, _Abstract Particulars_. Oxford and Cambridge, MA: Basil Blackwell.
+* Cresswell, M., 1972, “The World is Everything That is the Case”, _Australasian Journal of Philosophy_, 50: 1–13; page reference is to the reprint in Loux, M., 1976.
+* Daly, C., 1997, “Tropes”, in _Properties_, D. H. Mellor and A. Oliver (eds.), Oxford: Oxford University Press, pp. 140–59.
+* Devitt, M., 1980, ‘“Ostrich Nominalism” or “Mirage Realism”?’, _Pacific Philosophical Quarterly_, 61: 433–9; page reference is to the reprint in Mellor, D. H. and Oliver, A. (eds.) 1997.
+* Dummett, M., 1973, _Frege. Philosophy of Language_, London: Duckworth.
+* Ehring, D., 2011, _Tropes. Properties, Objects, and Mental Causation_, Oxford: Oxford University Press.
+* Field, H., 1980, _Science Without Numbers: A Defence of Nominalism_, Oxford: Basil Blackwell.
+* Field, H., 1989, _Realism, Mathematics & Modality_, Oxford: Basil Blackwell.
+* Forrest, P., 1986a, “Ways Worlds Could Be”, _Australasian Journal of Philosophy_, 64: 15–24.
+* Forrest, P., 1986b, “Neither Magic nor Mereology”, _Australasian Journal of Philosophy_, 64: 89–91.
+* Goodman, N., 1972, “A World of Individuals”, in his _Problems and Projects_, Indianapolis and New York: The Bobbs-Merrill Company, Inc., pp. 155–72.
+* Goodman, N., 1986, “Nominalisms”, in _The Philosophy of W. V. Quine_, L. E. Hahn and P. A. Schilpp (eds.), Open Court: La Salle, Illinois, pp. 159–61.
+* Goodman, N. and Quine, W. V. O., 1947, “Steps Toward a Constructive Nominalism”, _The Journal of Symbolic Logic_, 12: 105–22.
+* Hale, B., 1987, _Abstract Objects_. Oxford and New York: Basil Blackwell.
+* Jubien, M., 2001, “Propositions and the Objects of Thought”, _Philosophical Studies_, 104: 47–62.
+* Keinänen, M., 2005, _Trope Theories and the Problem of Universals_, Helsinki: University of Helsinki Press.
+* King, J., 2007, _The Nature and Structure of Content_. Oxford: Oxford University Press.
+* Lewis, D., 1983, “New Work for a Theory of Universals”, _Australasian Journal of Philosophy_, 61: 343–77.
+* Lewis, D., 1986a, _On the Plurality of Worlds_, Oxford: Blackwell.
+* Lewis, D., 1986b, “Against Structural Universals”, _Australasian Journal of Philosophy_, 64: 25–46.
+* Linsky, B. and Zalta, E., 1994, “In Defense of the Simplest Quantified Modal Logic”, _Philosophical Perspectives,_ 8: 431–458.
+* Loux, M., 1976, _The Possible and the Actual_, Ithaca and London: Cornell University Press.
+* Loux, M., 1998, _Metaphysics. Contemporary Introduction_, London and New York: Routledge.
+* Lowe, E. J., 1995, “The Metaphysics of Abstract Objects”, _The Journal of Philosophy_, 92: 509–524.
+* Maddy, P., 1990, _Realism in Mathematics_. Oxford: Clarendon Press.
+* Maurin, A-S., 2002, _If Tropes_, Dordrecht: Kluwer Academic Publishers.
+* Mellor, D. H. and Oliver, A. (eds.) 1997, _Properties_, Oxford: Oxford University Press.
+* Pickel, B. and Mantegani, N., 2012, “A Quinean critique of Ostrich Nominalism”, _Philosophers' Imprint_, 12(6).
+* Plantinga, A., 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
+* Plantinga, A., 2003a, “Actualism and Possible Worlds”, in his _Essays in the Metaphysics of Modality_, edited by Matthew Davidson, Oxford: Oxford University Press, pp. 103–21.
+* Plantinga, A., 2003b, “ Two Concepts of Modality: Modal Realism and Modal Reductionism”, in his _Essays in the Metaphysics of Modality_, edited by Matthew Davidson, Oxford: Oxford University Press, pp. 192–228.
+* Quine, W. V. O., 1947, “On Universals”, _The Journal of Symbolic Logic_, 12: 74–84.
+* Quine, W. V. O., 1960, _Word and Object_, Cambridge, MA: The M.I.T. Press.
+* Quine, W. V. O., 1964, “On What There Is”, in his _From a Logical Point of View_, Second edition, revised, Cambridge, Massachusetts: Harvard University Press, pp. 1–19.
+* Quine, W. V. O., 1969, “Propositional Objects”, in his _Ontological Relativity and Other Essays_, New York: Columbia University Press, pp. 139–60.
+* Quine, W. V. O., 1981, “Things and Their Place in Theories”, in his _Theories and Things_, Cambridge, Massachusetts: Harvard University Press, pp. 1–23.
+* Ramsey, F. P., 1925, “Universals”, _Mind_, 34: 401–417.
+* Rodriguez-Pereyra, G., 2002, _Resemblance Nominalism_. _A solution to the problem of universals_, Oxford: Clarendon Press.
+* Rodriguez-Pereyra, G., 2004, “Modal Realism and Metaphysical Nihilism”, _Mind_, 113: 683–704.
+* Rosen, G., 1990, “Modal Fictionalism”, _Mind_, 99: 327–354.
+* Rosen, G., 2001, “Abstract Objects”, _The Stanford Encyclopedia of Philosophy (Spring 2006 Edition)_, Edward N. Zalta (ed.), URL = <[Abstract Objects (Stanford Encyclopedia of Philosophy/Spring 2006 Edition)](https://plato.stanford.edu/archives/spr2006/entries/abstract-objects/)>
+* Russell, B., 1912, _The Problems of Philosophy_, London: Oxford University Press.
+* Scheffler, I., 1954, “An inscriptional approach to indirect quotation”, _Analysis_, 14: 83–90.
+* Scheffler, I., 1958, “Inscriptionalism and indirect quotation”, _Analysis_, 19: 12–18.
+* Stalnaker, R. 1987. _Inquiry_, Cambridge, MA, London, England: The MIT Press.
+* Stalnaker, R., 2003, _Ways a World Might Be_, Oxford: Clarendon Press.
+* Tugby, M., 2013, “Causal nominalism and the one over many problem”, _Analysis_, 73: 455–62.
+* Whittle, A., 2009, “Causal Nominalism”, in _Dispositions and Causes_, T. Handfield (ed.), Oxford: Oxford University Press, pp. 242–85.
+* Williams, D. C. 1953, “On the Elements of Being: I”, _Review of Metaphysics_, 7: 3–18.
+* Zalta, E., 1983, _Abstract Objects_, Dordrecht, Boston, Lancaster: D. Reidel Publishing Company.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nominalism-metaphysics). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/nominalism-metaphysics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=nominalism-metaphysics&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/nominalism-metaphysics/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=nominalism-metaphysics).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/nominalism-metaphysics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=nominalism-metaphysics\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/nominalism-metaphysics/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [Platonism: in metaphysics](https://plato.stanford.edu/entries/platonism/) | [properties](https://plato.stanford.edu/entries/properties/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [tropes](https://plato.stanford.edu/entries/tropes/) | [universals: the medieval problem of](https://plato.stanford.edu/entries/universals-medieval/)
+[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [Platonism: in metaphysics](https://plato.stanford.edu/entries/platonism/) | [properties](https://plato.stanford.edu/entries/properties/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [tropes](https://plato.stanford.edu/entries/tropes/) | [universals: the medieval problem of](https://plato.stanford.edu/entries/universals-medieval/)
 
-[Copyright © 2015](https://plato.stanford.edu/info.html#c) by  
+[Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
 [Gonzalo Rodriguez-Pereyra](http://www.philosophy.ox.ac.uk/people/gonzalo-rodriguez-pereyra)

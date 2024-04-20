@@ -658,4 +658,4 @@
 * [人格同一性 personal identity (Eric T. Olson)](p/ren-ge-tong-yi-xing-personal-identity-eric-t.-olson/README.md)
   * [人格同一性与伦理学 and ethics (David Shoemaker)](p/ren-ge-tong-yi-xing-personal-identity-eric-t.-olson/ren-ge-tong-yi-xing-yu-lun-li-xue-and-ethics-david-shoemaker.md)
 * [人格主义 personalism (Thomas D. Williams and Jan Olof Bengtsson)](p/ren-ge-zhu-yi-personalism-thomas-d.-williams-and-jan-olof-bengtsson.md)
-* [个人关系中的物品  personal relationship goods (Anca Gheaus)](p/ge-ren-guan-xi-zhong-de-wu-pin-personal-relationship-goods-anca-gheaus.md)
+* [人际关系中的物品  personal relationship goods (Anca Gheaus)](p/ren-ji-guan-xi-zhong-de-wu-pin-personal-relationship-goods-anca-gheaus.md)

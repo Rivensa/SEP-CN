@@ -1,6 +1,6 @@
 # 特殊义务 special (Diane Jeske)
 
-*首次发表于2002年10月17日；实质性修订于2019年8月6日*
+_首次发表于2002年10月17日；实质性修订于2019年8月6日_
 
 特殊义务是对某些人的义务，与对所有人的自然义务相对应，后者仅仅是因为他们是人而存在的。常识道德似乎认为我们对那些与我们有某种特殊关系的人有特殊义务，例如我们的朋友、家人、同事、同胞以及那些我们曾经做出承诺或承诺某种形式的人。特殊义务经常被用来反对后果主义的论证，因为后果主义无法容纳与行动者相关的理由和真正的特殊义务。试图捍卫特殊义务会遇到内部人的反对——为什么要假设我有义务为某些人做更多的事情，仅仅是因为我碰巧与他们有某种特殊关系？——以及外部人的反对——为什么其他人会因为碰巧与其他人有特殊关系而获得更多的好处？试图确立特殊义务已经涉及到各种各样的事态，包括特殊关系的内在性质、义务的受益方的性质、义务的受益方的期望以及作为心理连续体的人的性质，他们之间受到心理状态之间的关系的约束。
 
@@ -10,21 +10,20 @@
 * [4. 特殊义务和自愿主义](https://plato.stanford.edu/entries/special-obligations/#SpecObliVolu)
 * [5. 特殊义务和分配反对理论](https://plato.stanford.edu/entries/special-obligations/#SpecObliDistObje)
 * [6. 特殊义务的范围和类型](https://plato.stanford.edu/entries/special-obligations/#RangTypeSpecObli)
-
-  * [ 6.1 孝道](https://plato.stanford.edu/entries/special-obligations/#FiliDuty)
+  * [6.1 孝道](https://plato.stanford.edu/entries/special-obligations/#FiliDuty)
   * [6.2 父母的义务](https://plato.stanford.edu/entries/special-obligations/#PareObli)
   * [6.3 专业义务](https://plato.stanford.edu/entries/special-obligations/#ProfObli)
-  * [ 6.4 同胞](https://plato.stanford.edu/entries/special-obligations/#N64Comp)
+  * [6.4 同胞](https://plato.stanford.edu/entries/special-obligations/#N64Comp)
 * [7. 特殊义务的基础](https://plato.stanford.edu/entries/special-obligations/#GrouSpecObli)
 * [8. 道德风险和特殊义务](https://plato.stanford.edu/entries/special-obligations/#MoraRiskSpecObli)
 * [9. 扩展道德领域](https://plato.stanford.edu/entries/special-obligations/#ExteMoraDoma)
-* [ 10. 结论](https://plato.stanford.edu/entries/special-obligations/#Conc)
-* [ 参考书目](https://plato.stanford.edu/entries/special-obligations/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/special-obligations/#Aca)
+* [10. 结论](https://plato.stanford.edu/entries/special-obligations/#Conc)
+* [参考书目](https://plato.stanford.edu/entries/special-obligations/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/special-obligations/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/special-obligations/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/special-obligations/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/special-obligations/#Rel)
 
----
+***
 
 ## 1. 特殊义务和后果主义
 
@@ -62,7 +61,7 @@ Railton 的策略的困难在于对一个复杂的后果主义者在为了使爱
 
 > 代理人中立理由：S 做或促进 p 的理由是代理人中立理由，当且仅当，必然地，对于任何 Q，如果 Q 处于能够做或促进 p 的因果位置，那么 Q 也会有这个理由。所有其他理由都是与代理人相关的。
 
-重要的是要看到，一个行动者可能有多个推动某种情况发生的理由，其中一些理由是与行动者无关的，而另一些理由是与行动者有关的。考虑彼得给玛丽买一顿她会喜欢的晚餐的理由。如果享受或快乐是内在有价值的，那么彼得会有理由R来给玛丽买那顿晚餐，其中R是由玛丽对晚餐的享受所构成的或产生的。如果保罗像彼得一样，处于能够为玛丽提供那种内在有价值的享受的位置，那么保罗也有理由R来这样做。但现在假设彼得是玛丽的朋友。友谊特殊义务的辩护者可能会声称，彼得还有理由R*来为玛丽买那顿晚餐，其中R*是由他与玛丽的友谊所产生的或构成的。如果保罗不是玛丽的朋友，那么他就不与她有友谊关系，因此他不会有理由R *（或任何那种类型的理由）为玛丽买晚餐，无论他的因果位置如何。因此，彼得的理由R*是与行动者有关的理由，而R是与行动者无关的理由。
+重要的是要看到，一个行动者可能有多个推动某种情况发生的理由，其中一些理由是与行动者无关的，而另一些理由是与行动者有关的。考虑彼得给玛丽买一顿她会喜欢的晚餐的理由。如果享受或快乐是内在有价值的，那么彼得会有理由R来给玛丽买那顿晚餐，其中R是由玛丽对晚餐的享受所构成的或产生的。如果保罗像彼得一样，处于能够为玛丽提供那种内在有价值的享受的位置，那么保罗也有理由R来这样做。但现在假设彼得是玛丽的朋友。友谊特殊义务的辩护者可能会声称，彼得还有理由R_来为玛丽买那顿晚餐，其中R_是由他与玛丽的友谊所产生的或构成的。如果保罗不是玛丽的朋友，那么他就不与她有友谊关系，因此他不会有理由R _（或任何那种类型的理由）为玛丽买晚餐，无论他的因果位置如何。因此，彼得的理由R_是与行动者有关的理由，而R是与行动者无关的理由。
 
 注意，在这个对于代理人中立性的定义及其对应的代理人相对性的定义中，空间上的接近不能成为代理人相对性理由的最终根据。当我们考虑到接近对我们的道德义务产生影响时，似乎是通过影响我们在提供援助方面的因果效力来实现的：我们站在一条河的岸边，有人在里面溺水，有人在我们所在的房间里心脏病发作，我们会心肺复苏等等。在所有这些情况下，如果有其他人处于我们的空间位置，他或她将处于我们的因果位置，因此将有与我们一样的援助义务。而空间位置似乎没有其他意义，除了对因果位置的影响之外。毕竟，如果有人离得更远，但能按下一个按钮来启动一个能够拯救那个溺水者的机器，那么她将有与我们相同的援助义务。（有关接近和义务的讨论，请参见奥尔西。）
 
@@ -72,7 +71,7 @@ Railton 的策略的困难在于对一个复杂的后果主义者在为了使爱
 
 ## 特殊义务和自然责任
 
-尽管常识道德似乎坚定地致力于特殊义务，并且似乎坚定地致力于一种不能被后果主义容纳的义务理解，但在试图为这些义务提供一些基础时仍存在困难。如果我们将特殊义务与常识道德所承认的一种非特殊义务进行对比，即自然义务，我们可以更清楚地看到这些困难。自然义务是“适用于所有人的道德要求，无论其地位或所做的行为如何...所有人对所有其他人的债务”（西蒙斯1979年，13页）。可以合理地假设，我们拥有自然义务的根本或基本理由是人的内在本质，即那些应该承担这些义务的人的内在本质（道德受害者）。例如，考虑一下我告诉坐在我旁边的人，乔·施莫往她的饮料里放了毒药的责任。似乎情况是这样的，我只有告诉一类有限的人，即坐在我旁边的人，我知道他们的饮料被毒害了。然而，我拥有这个义务的根本或基本理由是这个义务所归属的人的本质——她是理性的，或者有感知能力的，或者[用您偏好的道德受害者的特征来替代]——她的本质足以为这个义务提供基础。我与这个人的亲近以及我对她饮料中毒的了解有助于我能够履行我（自然）互助的义务，但这并不是我首先拥有这样的义务的根本解释的一部分。因此，行动的本质，即警告相关类型的存在即将发生的危险，使得这个行动在道德上是必需的。处于相同因果和认识位置的其他任何人同样有责任警告饮料中的毒药。 我没有特殊的地位或角色，也没有进行过任何先前的行动，以至于如果我没有担任那个角色或没有进行那些行动，我就没有义务警告饮料中的毒药。
+尽管常识道德似乎坚定地致力于特殊义务，并且似乎坚定地致力于一种不能被后果主义容纳的义务理解，但在试图为这些义务提供一些基础时仍存在困难。如果我们将特殊义务与常识道德所承认的一种非特殊义务进行对比，即自然义务，我们可以更清楚地看到这些困难。自然义务是“适用于所有人的道德要求，无论其地位或所做的行为如何...所有人对所有其他人的债务”（西蒙斯1979年，13页）。可以合理地假设，我们拥有自然义务的根本或基本理由是人的内在本质，即那些应该承担这些义务的人的内在本质（道德受害者）。例如，考虑一下我告诉坐在我旁边的人，乔·施莫往她的饮料里放了毒药的责任。似乎情况是这样的，我只有告诉一类有限的人，即坐在我旁边的人，我知道他们的饮料被毒害了。然而，我拥有这个义务的根本或基本理由是这个义务所归属的人的本质——她是理性的，或者有感知能力的，或者\[用您偏好的道德受害者的特征来替代]——她的本质足以为这个义务提供基础。我与这个人的亲近以及我对她饮料中毒的了解有助于我能够履行我（自然）互助的义务，但这并不是我首先拥有这样的义务的根本解释的一部分。因此，行动的本质，即警告相关类型的存在即将发生的危险，使得这个行动在道德上是必需的。处于相同因果和认识位置的其他任何人同样有责任警告饮料中的毒药。 我没有特殊的地位或角色，也没有进行过任何先前的行动，以至于如果我没有担任那个角色或没有进行那些行动，我就没有义务警告饮料中的毒药。
 
 特殊义务，另一方面，并不是（必然地）对所有人负有责任，而是对某些（可能是有限的）人群负有责任，其中对这些义务的基本或根本的正当理由不能仅仅是受义务者本身的内在性质（或者至少不仅仅是受义务者的内在性质：受义务者必须具备相应的特征才能够被视为道德对象，从而被负有任何义务或责任）。毕竟，我所负有特殊义务的人不一定比我不负有特殊义务的人更值得或更需要（当然也不一定更有感知能力或理性）。相反，我与受义务者之间的关系对于解释我对该受义务者的特殊义务是至关重要的。例如，考虑一下我对你的承诺，提醒你在斋戒期间不要喝酒的义务。我有义务提醒你在斋戒期间不要喝酒的基本解释并不是你具备了作为道德对象的必要特征，再加上提醒人们在宗教承诺中放弃酒精的行为的性质。我与你的关系（由过去的行动所定义的我的地位），即我对你做出了承诺，不仅仅是为了方便我履行某种更一般的义务，而且是我有义务提醒你履行承诺的基本解释的一部分。（这种特殊义务与自然义务的规定存在困难。为了解决这些困难，需要解释为什么人的某些偶然特征，如因果地位，不是“地位”的部分构成，或者最好看作是“行为的结果”。“换句话说，那些打算将特殊义务归因于道德行为者的人，应该解释一下什么样的地位、身份或者什么样的行为是这样的，以至于由于处于这样的地位或者进行了这样的行为，我们就有义务，而这些义务并不是源自于我们对所有人的一般义务。”
 
@@ -90,7 +89,7 @@ Railton 的策略的困难在于对一个复杂的后果主义者在为了使爱
 
 让我们从选项（i）开始。根据这个选项，除了我们所拥有的自然义务之外，我们只有通过明确的承诺或合同获得的进一步义务。这个选项的困难在于它很难适应常识道德所承认的特殊义务的范围。例如，我们大多数人并不会对所有朋友做出像对配偶那样的承诺。我从未明确承诺过要爱护和关心我的最好的朋友。在家庭关系的情况下，这个困难甚至更加明显。我们不会与父母签订这样的合同：在我还是孩子的时候照顾我，等到你年纪大了需要照顾时我会回报你。尽管如此，父母和子女之间似乎确实存在着特殊程度的关心和承诺。如果特殊义务的辩护者试图适应常识道德，那么如果她只允许通过明确的合同或承诺获得的特殊义务，她所做的努力将非常有限。
 
-因此，考虑（ii），即声称虽然一些特殊义务在最初看起来可能是非契约性质的，但实际上它们是契约性质的。例如，我们可以将洛克在政治背景下对默示同意概念的著名引用视为这种第二种策略的一个例子。在《政府论》中，洛克声称我们有特殊的政治义务，即对我们自己的政府有义务，而对其他政府则没有义务。然而，当他提出这些特殊政治义务是契约性质时，他自己设想了某人的回应：“[t]所有人都是在某个政府下出生的，因此他们中的任何一个都不可能永远自由，并有能力联合起来，建立一个新的政府，或者能够建立一个合法的政府”（61页）。换句话说，考虑到我们作为出生在特定政府下的情况，我们特殊对政府的义务显然不是契约性质的。因此，如果我们接受自愿主义（正如洛克明确接受的），那么似乎我们就不能有特殊的政治义务。
+因此，考虑（ii），即声称虽然一些特殊义务在最初看起来可能是非契约性质的，但实际上它们是契约性质的。例如，我们可以将洛克在政治背景下对默示同意概念的著名引用视为这种第二种策略的一个例子。在《政府论》中，洛克声称我们有特殊的政治义务，即对我们自己的政府有义务，而对其他政府则没有义务。然而，当他提出这些特殊政治义务是契约性质时，他自己设想了某人的回应：“\[t]所有人都是在某个政府下出生的，因此他们中的任何一个都不可能永远自由，并有能力联合起来，建立一个新的政府，或者能够建立一个合法的政府”（61页）。换句话说，考虑到我们作为出生在特定政府下的情况，我们特殊对政府的义务显然不是契约性质的。因此，如果我们接受自愿主义（正如洛克明确接受的），那么似乎我们就不能有特殊的政治义务。
 
 洛克以心照不宣的同意概念为基础，以适应他的自愿主义承诺，特殊政治义务：“凡是拥有或享有任何政府领土的一部分的人，由此默许同意，并且在享有期间对该政府的法律有义务服从，就像其中的任何一个人一样”（64）。一个人通过不采取某种行动或类型的行动来默许或隐含同意，而不是明确或明示同意。正如约翰·西蒙斯（1979）所争论的，只有在满足某些条件时，才能将某人的不采取或采取某种行动视为同意的表征：这个人必须意识到自己处于适合和/或期望同意的情况中，必须以某种方式明确表明必须做或不做什么才能给予同意，必须清楚何时采取或避免行动，并且给予同意的行动或不采取行动必须是可能的且不过于昂贵。有人争论说，政治背景，至少在现代民族国家中，不符合上述任何条件，因此，如果接受自愿主义并声称所有自愿承担的义务都是契约性质的，那么假设现代民族国家的人们有特殊的政治义务是不合理的。
 
@@ -114,7 +113,7 @@ Railton 的策略的困难在于对一个复杂的后果主义者在为了使爱
 
 回到关于角色定位的问题，我们可以注意到，一个社区可能满足德沃金对真正社区的要求，但我们可能不希望将其成员视为彼此具有特殊道德义务。以白人至上主义组织为例：它很可能满足德沃金所提出的社区成为真正社区所必需且充分的所有标准。但是，白人至上主义组织的成员是否真的因为成为例如雅利安国家的成员而具有特殊的道德义务？一种回答是，实际上他们确实彼此之间具有作为角色的初步特殊义务，但是，鉴于雅利安国家的目标的可怕性质，这些义务从来都不是他们全面考虑后的职责，即他们的角色义务总是被他们的自然职责或公正职责所超越。但问题仍然存在：为什么白人至上主义者仅仅因为共同致力于对待黑人和犹太人的不道德方式而具有特殊的额外道德义务？
 
-因此，让我们考虑方法（ii），即迈克尔·哈迪蒙在他的《角色义务》中提倡的反思接受观。哈迪蒙旨在提供与某些机构定义的角色相关的义务的解释，即“政治、家庭和职业角色”（334），其中角色是“围绕机构指定的社会功能组织的一组权利和义务的[星座]”（334）。根据哈迪蒙的观点，角色义务是“一种道德要求，附属于机构角色，其内容由角色的功能确定，其规范力量源于角色本身”（334）。一些角色义务附属于非选择的社会角色，但仅附属于反思可接受的社会角色：
+因此，让我们考虑方法（ii），即迈克尔·哈迪蒙在他的《角色义务》中提倡的反思接受观。哈迪蒙旨在提供与某些机构定义的角色相关的义务的解释，即“政治、家庭和职业角色”（334），其中角色是“围绕机构指定的社会功能组织的一组权利和义务的\[星座]”（334）。根据哈迪蒙的观点，角色义务是“一种道德要求，附属于机构角色，其内容由角色的功能确定，其规范力量源于角色本身”（334）。一些角色义务附属于非选择的社会角色，但仅附属于反思可接受的社会角色：
 
 > 说一个社会角色是反思可接受的意味着在反思后会接受它。确定一个给定的社会角色是否是反思可接受的涉及从思想上退后一步，询问人们是否应该担任和扮演这个角色。确定一个给定的社会角色是反思可接受的意味着判断它是（在某种意义上）有意义的、合理的或好的。（348）
 
@@ -232,85 +231,85 @@ Richard J. Arneson对于这种以心理联系为基础来解释特殊义务的�
 
 ## Bibliography
 
-* Abizadeh, Arash, and Pablo Gilabert, 2008. “Is there a genuine tension between cosmopolitan egalitarianism and special responsibilities?,” *Philosophical Studies*, 138: 349–365.
-* Almond, Brenda, 2005. “Reasonable Partiality in Professional Relationships,” *Ethical Theory and Moral Practice*, 8: 155–168.
-* Archard, David, 2010. “The Obligations and Responsibilities of Parenthood,” in *Procreation and Parenthood: The Ethics of Bearing and Rearing Children*, David Archard and David Benatar (eds.), Oxford: Oxford University Press.
-* Aristotle. *Nicomachean Ethics*, Terence Irwn (tr.), Indianapolis: Hackett Publishing Co., 1985.
-* Arneson, Richard J., 2003. “Consequentialism vs. Special-Ties Partiality,” *The Monist*, 86: 382–401.
-* Brake, Elizabeth, 2010. “Willing Parents: A Voluntarist Account of Parental Role Obligations,” in *Procreation and Parenthood: The Ethics of Bearing and Rearing Children*, David Archard and David Benatar (eds.), Oxford: Oxford University Press.
-* Brink, David, 1990. “Rational Egoism, Self, and Others,” in *Identity, Character, and Morality*, Owen Flanagan and Amelie Oksenberg Rorty (eds.), Cambridge, MA: MIT Press.
-* –––, 2001. “Impartiality and Associative Duties,” *Utilitas*, 13: 152–172.
-* Broad, C. D., 1985. *Ethics*, C. Lewy (ed.), Dordrecht: Martinus Nijhoff Publishers.
-* Bulow, William, 2014. “The Harms Beyond Imprisonment: Do We Have Special Moral Obligations Towards the Families and Children of Prisoners?” *Ethical Theory and Moral Practice*, 17: 775–789.
-* Burgess-Jackson, Keith, 1998. “Doing Right By Our Animal Companions,” *The Journal of Ethics*, 2: 159–185.
-* Butt, Daniel, 2007. “On Benefitting from Injustice,” *Canadian Journal of Philosophy*, 37: 129–152.
-* Caney, Simon, 2011. “Humanity, Associations, and Global Justice: In Defence of Humanity-Centred Cosmopolitan Egalitarianism,” *The Monist*, 94: 506–534.
-* Cocking, Dean and Jeanette Kennett, 2000. “Friendship and Moral Danger,” *The Journal of Philosophy*, 97: 278–296.
-* Cottingham, John, 1986. “Partiality, Favouritism and Morality” *Philosophical Quarterly*, 36: 357–373.
-* Driver, Julia, 2005. “Consequentialism and Feminist Ethics,” *Hypatia*, 20: 183–199.
-* Dworkin, Ronald., 1986. *Law’s Empire*, Cambridge, MA: Harvard University Press.
-* Feinberg, Joel, 2003. “Natural Law: The Dilemmas of Judges Who Must Interpret Immoral Laws, ” in *Problems at the Roots of Law: Essays in Legal and Political Thought*, Oxford: Oxford University Press.
-* Fumerton, Richard, and Diane Jeske, 1997. “Relatives and Relativism,” in *Philosophical Studies*, 87: 143–157.
-* Gomberg, Paul, 1990. “Patriotism Is Like Racism,” *Ethics*, 101: 144–150.
-* Green, Michael, 2005. “Social Justice, Voluntarism, and Liberal Nationalism,” *Journal of Moral Philosophy*, 2: 265–283.
-* Green, T.H., 1986. *Lectures on the Principles of Political Obligation*, Paul Harris and John Morrow (eds.), Cambridge, UK: Cambridge University Press.
-* Hardimon, Michael, 1994. “Role Obligations,” *The Journal of Philosophy*, 91: 333–363.
-* Hoff Sommers, Christina, 1986. “Filial Morality,” *The Journal of Philosophy*, 83: 439–456.
-* Huebner, James M., 2014. “Moral Psychology and the Intuition that Pharmaceutical Companies Have a ‘Special’ Obligation to Society,” *Journal of Business Ethics*, 122: 501–510.
-* Hume, David, 1739–1740. *A Treatise of Human Nature*. Oxford: The Clarendon Press, 1978.
-* Jeske, Diane, 2008a. *Rationality and Moral Theory: How Intimacy Generates Reasons*, New York: Routledge Publishing.
-* –––, 2008b. “The Friendship of Felines,” in *What Philosophy Can Tell You About Your Cat*, La Salle: Open Court.
-* –––, 2001. “Friendship and Reasons of Intimacy,” *Philosophy and Phenomenological Research*, 63: 329–346.
-* –––, 2001b. “Special Relationships and the Problem of Political Obligations,” *Social Theory and Practice*, 27: 19–40.
-* –––, 1998. “Families, Friends, and Special Obligations,” *Canadian Journal of Philosophy*, 28: 527–556.
-* –––, 1996, “Associative Obligations, Voluntarism, and Equality,” *Pacific Philosophical Quarterly*, 77: 289–309.
-* Jollimore, Troy, 2000. “Friendship Without Partiality?,” *Ratio*, 13: 69–82.
-* Keller, Simon, 2013. *Partiality*, Princeton: Princeton University Press.
-* –––, 2006. “Four Theories of Filial Duty,” in *The Philosophical Quarterly*, 56: 254–274.
-* Lenard, Patti Tamara, and Margaret Moore, 2011. “Cosmopolitanism and Making Room (or Not) for Special Duties,” *The Monist*, 94: 615–627.
-* –––, 2009. “Ineliminable tension: a reply to Abizadeh and Gilabert’s ‘Is there a genuine tension between cosmopolitan egalitarianism and special responsibilities?’,” in *Philosophical Studies*, 146: 399–405.
-* Locke, John, 1690. *Second Treatise of Government*, Indianapolis: Hackett Publishing Co., 1980.
-* Macleod, Alistair, 2012. “Moral Permissibility Constraints on Voluntary Obligations,” *Journal of Social Philosophy*, 43: 125–139.
-* Mill, John Stuart, 1861. *Utilitarianism*. Indianapolis: Hackett Publishing Co., 1979.
-* Miller, David, 2005. “Reasonable Partiality Towards Compatriots,” *Ethical Theory and Moral Practice*, 8: 63–81.
-* Moellendorf, Daniel, 2011. “Cosmopolitanism and Compatriot Duties,” *The Monist*, 94: 535–554.
-* Nagel, Thomas, 1986. *The View From Nowhere*, New York: Oxford University Press.
-* Orsi, Francesco, 2008. “Obligations of Nearness,” *The Journal of Value Inquiry*, 42: 1–21.
-* Palmer, Clare, 2010. *Animal Ethics in Context*, New York: Columbia University Press.
-* Parfit, Derek, 1984. *Reasons and Persons*, Oxford: Oxford University Press.
-* Prusak, Bernard G., 2011. “The Costs of Procreation,” *Journal of Social Philosophy*, 42: 61–75.
-* Railton, Peter, 1984. “Alienation, Consequentialism, and the Demands of Morality,” *Philosophy and Public Affairs*, 13: 134–171.
-* Richards, Norvin, 2010. *The Ethics of Parenthood*, Oxford: Oxford University Press.
-* Richardson, Henry S., 2012. “Moral Entanglements, *Ad Hoc* Intimacies and Ancillary Duties of Care”, *Journal of Moral Philosophy*, 9: 376–409.
-* Rollin, Bernard E., 2005. “Reasonable Partiality and Animal Ethics,” *Ethical Theory and Moral Practice*, 8: 105–121.
-* Ross, W. D., 1930. *The Right and the Good*, Indianapolis: Hackett.
-* Sandel, Michael, 1982. *Liberalism and the Limits of Justice*, Cambridge: Cambridge University Press.
-* Scanlon, T.M., 1998. *What We Owe to Each Other*, Cambridge, MA: Harvard University Press.
-* Scheffler, Samuel, 1997. “Relationships and Responsibilities,” *Philosophy and Public Affairs*, 26: 189–209.
+* Abizadeh, Arash, and Pablo Gilabert, 2008. “Is there a genuine tension between cosmopolitan egalitarianism and special responsibilities?,” _Philosophical Studies_, 138: 349–365.
+* Almond, Brenda, 2005. “Reasonable Partiality in Professional Relationships,” _Ethical Theory and Moral Practice_, 8: 155–168.
+* Archard, David, 2010. “The Obligations and Responsibilities of Parenthood,” in _Procreation and Parenthood: The Ethics of Bearing and Rearing Children_, David Archard and David Benatar (eds.), Oxford: Oxford University Press.
+* Aristotle. _Nicomachean Ethics_, Terence Irwn (tr.), Indianapolis: Hackett Publishing Co., 1985.
+* Arneson, Richard J., 2003. “Consequentialism vs. Special-Ties Partiality,” _The Monist_, 86: 382–401.
+* Brake, Elizabeth, 2010. “Willing Parents: A Voluntarist Account of Parental Role Obligations,” in _Procreation and Parenthood: The Ethics of Bearing and Rearing Children_, David Archard and David Benatar (eds.), Oxford: Oxford University Press.
+* Brink, David, 1990. “Rational Egoism, Self, and Others,” in _Identity, Character, and Morality_, Owen Flanagan and Amelie Oksenberg Rorty (eds.), Cambridge, MA: MIT Press.
+* –––, 2001. “Impartiality and Associative Duties,” _Utilitas_, 13: 152–172.
+* Broad, C. D., 1985. _Ethics_, C. Lewy (ed.), Dordrecht: Martinus Nijhoff Publishers.
+* Bulow, William, 2014. “The Harms Beyond Imprisonment: Do We Have Special Moral Obligations Towards the Families and Children of Prisoners?” _Ethical Theory and Moral Practice_, 17: 775–789.
+* Burgess-Jackson, Keith, 1998. “Doing Right By Our Animal Companions,” _The Journal of Ethics_, 2: 159–185.
+* Butt, Daniel, 2007. “On Benefitting from Injustice,” _Canadian Journal of Philosophy_, 37: 129–152.
+* Caney, Simon, 2011. “Humanity, Associations, and Global Justice: In Defence of Humanity-Centred Cosmopolitan Egalitarianism,” _The Monist_, 94: 506–534.
+* Cocking, Dean and Jeanette Kennett, 2000. “Friendship and Moral Danger,” _The Journal of Philosophy_, 97: 278–296.
+* Cottingham, John, 1986. “Partiality, Favouritism and Morality” _Philosophical Quarterly_, 36: 357–373.
+* Driver, Julia, 2005. “Consequentialism and Feminist Ethics,” _Hypatia_, 20: 183–199.
+* Dworkin, Ronald., 1986. _Law’s Empire_, Cambridge, MA: Harvard University Press.
+* Feinberg, Joel, 2003. “Natural Law: The Dilemmas of Judges Who Must Interpret Immoral Laws, ” in _Problems at the Roots of Law: Essays in Legal and Political Thought_, Oxford: Oxford University Press.
+* Fumerton, Richard, and Diane Jeske, 1997. “Relatives and Relativism,” in _Philosophical Studies_, 87: 143–157.
+* Gomberg, Paul, 1990. “Patriotism Is Like Racism,” _Ethics_, 101: 144–150.
+* Green, Michael, 2005. “Social Justice, Voluntarism, and Liberal Nationalism,” _Journal of Moral Philosophy_, 2: 265–283.
+* Green, T.H., 1986. _Lectures on the Principles of Political Obligation_, Paul Harris and John Morrow (eds.), Cambridge, UK: Cambridge University Press.
+* Hardimon, Michael, 1994. “Role Obligations,” _The Journal of Philosophy_, 91: 333–363.
+* Hoff Sommers, Christina, 1986. “Filial Morality,” _The Journal of Philosophy_, 83: 439–456.
+* Huebner, James M., 2014. “Moral Psychology and the Intuition that Pharmaceutical Companies Have a ‘Special’ Obligation to Society,” _Journal of Business Ethics_, 122: 501–510.
+* Hume, David, 1739–1740. _A Treatise of Human Nature_. Oxford: The Clarendon Press, 1978.
+* Jeske, Diane, 2008a. _Rationality and Moral Theory: How Intimacy Generates Reasons_, New York: Routledge Publishing.
+* –––, 2008b. “The Friendship of Felines,” in _What Philosophy Can Tell You About Your Cat_, La Salle: Open Court.
+* –––, 2001. “Friendship and Reasons of Intimacy,” _Philosophy and Phenomenological Research_, 63: 329–346.
+* –––, 2001b. “Special Relationships and the Problem of Political Obligations,” _Social Theory and Practice_, 27: 19–40.
+* –––, 1998. “Families, Friends, and Special Obligations,” _Canadian Journal of Philosophy_, 28: 527–556.
+* –––, 1996, “Associative Obligations, Voluntarism, and Equality,” _Pacific Philosophical Quarterly_, 77: 289–309.
+* Jollimore, Troy, 2000. “Friendship Without Partiality?,” _Ratio_, 13: 69–82.
+* Keller, Simon, 2013. _Partiality_, Princeton: Princeton University Press.
+* –––, 2006. “Four Theories of Filial Duty,” in _The Philosophical Quarterly_, 56: 254–274.
+* Lenard, Patti Tamara, and Margaret Moore, 2011. “Cosmopolitanism and Making Room (or Not) for Special Duties,” _The Monist_, 94: 615–627.
+* –––, 2009. “Ineliminable tension: a reply to Abizadeh and Gilabert’s ‘Is there a genuine tension between cosmopolitan egalitarianism and special responsibilities?’,” in _Philosophical Studies_, 146: 399–405.
+* Locke, John, 1690. _Second Treatise of Government_, Indianapolis: Hackett Publishing Co., 1980.
+* Macleod, Alistair, 2012. “Moral Permissibility Constraints on Voluntary Obligations,” _Journal of Social Philosophy_, 43: 125–139.
+* Mill, John Stuart, 1861. _Utilitarianism_. Indianapolis: Hackett Publishing Co., 1979.
+* Miller, David, 2005. “Reasonable Partiality Towards Compatriots,” _Ethical Theory and Moral Practice_, 8: 63–81.
+* Moellendorf, Daniel, 2011. “Cosmopolitanism and Compatriot Duties,” _The Monist_, 94: 535–554.
+* Nagel, Thomas, 1986. _The View From Nowhere_, New York: Oxford University Press.
+* Orsi, Francesco, 2008. “Obligations of Nearness,” _The Journal of Value Inquiry_, 42: 1–21.
+* Palmer, Clare, 2010. _Animal Ethics in Context_, New York: Columbia University Press.
+* Parfit, Derek, 1984. _Reasons and Persons_, Oxford: Oxford University Press.
+* Prusak, Bernard G., 2011. “The Costs of Procreation,” _Journal of Social Philosophy_, 42: 61–75.
+* Railton, Peter, 1984. “Alienation, Consequentialism, and the Demands of Morality,” _Philosophy and Public Affairs_, 13: 134–171.
+* Richards, Norvin, 2010. _The Ethics of Parenthood_, Oxford: Oxford University Press.
+* Richardson, Henry S., 2012. “Moral Entanglements, _Ad Hoc_ Intimacies and Ancillary Duties of Care”, _Journal of Moral Philosophy_, 9: 376–409.
+* Rollin, Bernard E., 2005. “Reasonable Partiality and Animal Ethics,” _Ethical Theory and Moral Practice_, 8: 105–121.
+* Ross, W. D., 1930. _The Right and the Good_, Indianapolis: Hackett.
+* Sandel, Michael, 1982. _Liberalism and the Limits of Justice_, Cambridge: Cambridge University Press.
+* Scanlon, T.M., 1998. _What We Owe to Each Other_, Cambridge, MA: Harvard University Press.
+* Scheffler, Samuel, 1997. “Relationships and Responsibilities,” _Philosophy and Public Affairs_, 26: 189–209.
 * –––, 1994. “Families, Nations, and Strangers,” The Lindley Lecture at the University of Kansas.
-* –––, 1994. *The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions*, Oxford: Oxford University Press.
-* Seglow, Jonathan, 2010. “Associative Duties and Global Justice,” *Journal of Moral Philosophy*, 7: 54–73.
-* Sidgwick, Henry, 1907. *The Methods of Ethics*, Indianapolis: Hackett Publishing Co., 1981.
-* Simmons, A. John, 1996. “Associative Political Obligations,” *Ethics*, 106: 247–273.
-* –––, 1979. *Moral Principles and Political Obligations*, Princeton, NJ: Princeton University Press.
-* Singer, Peter, 1975. *Animal Liberation*, New York: Avon Books.
-* Whiting, Jennifer, 1991. “Impersonal Friends,” *The Monist*, 74: 3–29.
+* –––, 1994. _The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions_, Oxford: Oxford University Press.
+* Seglow, Jonathan, 2010. “Associative Duties and Global Justice,” _Journal of Moral Philosophy_, 7: 54–73.
+* Sidgwick, Henry, 1907. _The Methods of Ethics_, Indianapolis: Hackett Publishing Co., 1981.
+* Simmons, A. John, 1996. “Associative Political Obligations,” _Ethics_, 106: 247–273.
+* –––, 1979. _Moral Principles and Political Obligations_, Princeton, NJ: Princeton University Press.
+* Singer, Peter, 1975. _Animal Liberation_, New York: Avon Books.
+* Whiting, Jennifer, 1991. “Impersonal Friends,” _The Monist_, 74: 3–29.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=special-obligations). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/special-obligations/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=special-obligations&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/special-obligations/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=special-obligations).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/special-obligations/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=special-obligations\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/special-obligations/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [contract law, philosophy of](https://plato.stanford.edu/entries/contract-law/) | [impartiality](https://plato.stanford.edu/entries/impartiality/) | [justice](https://plato.stanford.edu/entries/justice/) | morality: and practical reason | [personal identity](https://plato.stanford.edu/entries/identity-personal/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/) | [value: intrinsic vs. extrinsic](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/)
+[consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [contract law, philosophy of](https://plato.stanford.edu/entries/contract-law/) | [impartiality](https://plato.stanford.edu/entries/impartiality/) | [justice](https://plato.stanford.edu/entries/justice/) | morality: and practical reason | [personal identity](https://plato.stanford.edu/entries/identity-personal/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/) | [value: intrinsic vs. extrinsic](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-Diane Jeske <[*diane-jeske@uiowa.edu*](mailto:diane-jeske%40uiowa%2eedu)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+Diane Jeske <[_diane-jeske@uiowa.edu_](mailto:diane-jeske%40uiowa%2eedu)>
