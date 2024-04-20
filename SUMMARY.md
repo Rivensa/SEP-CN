@@ -582,7 +582,7 @@
   * [\*科学——见科学的客观性 scientific — see scientific objectivity](o/ke-guan-xing-objectivity/ke-xue-jian-ke-xue-de-ke-guan-xing-scientific-see-scientific-objectivity.md)
 * [\*义务 obligation](o/yi-wu-obligation/README.md)
   * [\*法律——见法律义务与法律权威 legal — see legal obligation and authority](o/yi-wu-obligation/fa-lv-jian-fa-lv-yi-wu-yu-fa-lv-quan-wei-legal-see-legal-obligation-and-authority.md)
-* [\*中世纪的义务理论 obligationes, medieval theories of (Mikko Yrjönsuuri)](o/zhong-shi-ji-de-yi-wu-li-lun-obligationes-medieval-theories-of-mikko-yrjnsuuri.md)
+* [中世纪的义务理论 obligationes, medieval theories of (Mikko Yrjönsuuri)](o/zhong-shi-ji-de-yi-wu-li-lun-obligationes-medieval-theories-of-mikko-yrjnsuuri.md)
 * [\*义务 obligations](o/yi-wu-obligations/README.md)
   * [特殊义务 special (Diane Jeske)](o/yi-wu-obligations/te-shu-yi-wu-special-diane-jeske.md)
 * [对自己的义务 obligations to oneself (Daniel Muñoz)](o/dui-zi-ji-de-yi-wu-obligations-to-oneself-daniel-muoz.md)
