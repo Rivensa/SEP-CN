@@ -1,2 +1,2 @@
-# \*目的/函数 function
+# \*函项 function
 
