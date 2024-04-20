@@ -566,7 +566,7 @@
 * [宇宙学哲学 cosmology, philosophy of (Christopher Smeenk and George Ellis)](c/yu-zhou-xue-zhe-xue-cosmology-philosophy-of-christopher-smeenk-and-george-ellis.md)
 * [世界主义 cosmopolitanism (Pauline Kleingeld and Eric Brown)](c/shi-jie-zhu-yi-cosmopolitanism-pauline-kleingeld-and-eric-brown.md)
 * [\*反事实条件句——见条件句：反事实 counterfactuals — see conditionals: counterfactual](c/fan-shi-shi-tiao-jian-ju-jian-tiao-jian-ju-fan-shi-shi-counterfactuals-see-conditionals-counterfactu.md)
-* [\*对应体理论——见可能的对象 counterpart theory — see possible objects](c/dui-ying-ti-li-lun-jian-ke-neng-de-dui-xiang-counterpart-theory-see-possible-objects.md)
+* [\*对应体理论——见可能对象 counterpart theory — see possible objects](c/dui-ying-ti-li-lun-jian-ke-neng-de-dui-xiang-counterpart-theory-see-possible-objects.md)
 * [威廉·克拉索恩 Crathorn, William (Aurélien Robert)](c/wei-lian-ke-la-suo-en-crathorn-william-aurlien-robert.md)
 * [创造与保全 creation and conservation (David Vander Laan)](c/chuang-zao-yu-bao-quan-creation-and-conservation-david-vander-laan.md)
 * [创造论 creationism (Michael Ruse)](c/chuang-zao-lun-creationism-michael-ruse.md)
