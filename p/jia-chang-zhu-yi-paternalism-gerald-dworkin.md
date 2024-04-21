@@ -1,2 +1,359 @@
 # 家长主义 paternalism (Gerald Dworkin)
 
+*首次发表于2002年11月6日；实质性修订于2020年9月9日。*
+
+家长主义是国家或个人对他人的干涉，违背其意愿，并以干涉的人将会过得更好或免受伤害的主张为辩护或动机。家长主义的问题涉及法律限制，如反毒法规、强制佩戴安全带，以及医疗背景下医生对患者病情相关信息的隐瞒。在理论层面上，它引发了人们在处理不完全理性的人时应该如何对待的问题。
+
+* [ 1. 引言](https://plato.stanford.edu/entries/paternalism/#Intr)
+* [2. 概念问题](https://plato.stanford.edu/entries/paternalism/#ConcIssu)
+
+  * [2.1 硬性 vs. 软性家长主义](https://plato.stanford.edu/entries/paternalism/#HardVsSoftPate)
+  * [2.2 广义 vs. 狭义家长主义](https://plato.stanford.edu/entries/paternalism/#BroaVsNarrPate)
+  * [2.3 弱式 vs. 强式家长主义](https://plato.stanford.edu/entries/paternalism/#WeakVsStroPate)
+  * [2.4 纯粹与不纯粹的家长主义](https://plato.stanford.edu/entries/paternalism/#PureVsImpuPate)
+  * [2.5 道德与福利的家长主义](https://plato.stanford.edu/entries/paternalism/#MoraVsWelfPate)
+* [ 3. 规范性问题](https://plato.stanford.edu/entries/paternalism/#NormIssuA)
+* [4. 家长主义自由主义](https://plato.stanford.edu/entries/paternalism/#LibePate)
+
+  * [ 4.1 定义问题](https://plato.stanford.edu/entries/paternalism/#DefiIssu)
+  * [ 4.2 规范问题](https://plato.stanford.edu/entries/paternalism/#NormIssuB)
+  * [ 4.3 透明度](https://plato.stanford.edu/entries/paternalism/#Tran)
+  * [4.4 利用错误推理](https://plato.stanford.edu/entries/paternalism/#HarnBadReas)
+  * [ 4.5 操纵](https://plato.stanford.edu/entries/paternalism/#Mani)
+* [ 5. 家长主义的谎言](https://plato.stanford.edu/entries/paternalism/#PatLies)
+* [ 参考文献](https://plato.stanford.edu/entries/paternalism/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/paternalism/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/paternalism/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/paternalism/#Rel)
+
+---
+
+## 1. 简介
+
+政府要求人们为养老金制度（社会保障）做出贡献。它要求摩托车手戴头盔。在没有救生员的情况下，禁止人们在公共海滩游泳。禁止销售被认为无效的各种药物。禁止销售被认为有害的各种药物。不允许同意某些形式的攻击作为对该攻击的起诉进行辩护。
+
+民法不允许执行某些类型的合同，例如赌债。即使未成年人的宗教信仰禁止，也要求他们进行输血。如果某人对自己构成危险，可以被民事强制收容。
+
+医生不告诉他们的患者有关他们医疗状况的真相。医生可能告诉一个男人的妻子，他的车从桥上掉进水里溺死，而实际上他死得相当可怕。
+
+丈夫可能会对抑郁的妻子隐藏安眠药。哲学系可能要求学生修读逻辑课程。
+
+教师可能对学生不太诚实地告诉他他在哲学方面的能力较差。
+
+所有这些规则、政策和行动可能出于各种原因而进行；可能由各种考虑来证明。当它们仅仅以被影响的人会因此规则、政策等而变得更好或受到更少伤害为理由来证明，并且被问及的人不愿意以这种方式被对待时，我们就有了家长主义的例子。
+
+正如这些例子所表明的，家长主义的问题在我们个人和公共生活的许多不同领域中都会出现。因此，它是应用伦理学的一个重要领域。但它也引发了一些理论问题。也许最重要的问题是：一个国家在强制和激励方面运作时，拥有哪些合法权力？它还引发了关于个人在机构或纯粹个人环境中应该如何相互关系的问题。我们应该如何思考个体自主权及其限制？尊重他人的人格是什么意思？在关心他人福祉和尊重他们作出自己决定的权利之间，是否存在权衡？
+
+本条目探讨了分析家长主义所涉及的一些概念问题，然后讨论了国家和各种公民机构对家长主义合法性的规范问题。
+
+## 2. 概念问题
+
+家长主义的分析至少涉及以下要素。它涉及对某个行动者的自由或自主权的某种限制，并且出于特定类别的原因这样做。与规范性辩论中使用的许多其他概念一样，确定该概念的确切界限是一个有争议的问题。
+
+而且通常情况下，首要问题是该概念本身是规范性的还是描述性的。该概念的应用是否是一种经验性的确定问题，因此，如果两个人对于特定案例的应用存在分歧，他们是在争论某种事实或定义的问题？还是他们的分歧反映了对所涉应用的合法性的不同观点？
+
+虽然很明显，对某些政策进行家长主义的描述是在谴责或批评它，但这并不能证明该术语本身是一种评价性的术语。作为一种方法论，最好先看看某个概念是否可以用非规范性的术语来定义，只有在这种方法无法捕捉到相关现象时才接受规范性的定义。
+
+我建议以下条件作为对 X 对 Y 的家长主义行为进行分析的解释（省略）Z：
+
+1. Z（或其省略）干涉了 Y 的自由或自主权。
+2. X 这样做没有得到 Y 的同意。
+3. X 之所以这样做，仅仅是因为 X 相信 Z 会改善 Y 的福利（其中包括防止他的福利减少），或以某种方式促进 Y 的利益、价值或利益。
+
+第一个条件是最难捕捉的。明确的情况包括威胁身体强迫、撒谎、隐瞒人们有权拥有的信息，或者强加要求或条件。但是以下情况呢？一个父亲对一个孩子的财务能力持怀疑态度，他没有直接将钱留给孩子，而是将钱交给另一个孩子，并要求他在第一个孩子的最佳利益上使用。第一个孩子对这笔遗产没有法律要求。在大多数观念中，似乎没有干涉到孩子的自由，也没有干涉到孩子的自主权。
+
+或者考虑一个妻子隐藏她的安眠药，以防止她潜在自杀的丈夫使用。她的行为可能满足第二和第三个条件，但第一个条件呢？她的行为是否限制了丈夫的自由或自主权？
+
+第二个条件被认为与违背代理人同意的行为有所不同。代理人既不同意也不不同意。例如，他可能对自己所受到的行为毫不知情。还有一个不同的问题，即是否在不知道被询问人同意的情况下采取行动。也许被询问人实际上同意，但这并不为家长主义者所知。
+
+第三个条件也可能很复杂。干涉 Y 可能有多个原因。除了关心 Y 的福祉外，还可能关心 Y 的行为对第三方的影响。"仅仅为了"的条件是否太强了？或者，如果立法机构出于家长主义的原因通过了一项法律规定，但有足够的非家长主义原因来证明通过该规定是合理的呢？
+
+如果为了决定上述任何问题，必须决定一个规范性问题，例如，某人是否有权获得某些信息，那么这个概念就不纯粹是描述性的。最终如何完善条件，以及使用哪些条件，是一个哲学判断的问题。在普通情境中使用的"家长主义"一词可能对思考特定规范问题来说过于模糊。应该根据对思考特定问题范围最有用的假设来进行分析。在医生和患者的背景下可能采用一种分析，而在国家是否应该禁止不健康食品的背景下可能采用另一种分析。
+
+鉴于对家长主义的特定分析，关于何时家长主义是合理的，会有各种规范观点。以下术语是有用的。
+
+### 2.1 强制与温和的家长主义
+
+温和的家长主义认为，国家家长主义仅在必要时才能确定被干涉者是否自愿和有知识地行动时才是合理的。以密尔的著名例子为例，当一个人即将走过一座损坏的桥时，如果我们无法传达危险（他只会说日语），温和的家长主义者会为了确定他是否知道桥的状况而强制阻止他过桥。如果他知道，并且想要自杀，他必须被允许继续前进。强制的家长主义者认为，至少有时候，即使他知道桥的状况，也可以阻止他过桥。我们有权阻止自愿的自杀。
+
+### 2.2 宽泛与狭窄的家长主义
+
+狭窄的家长主义只关注国家强制的问题，即法律强制的使用。宽泛的家长主义关注任何家长主义行为：国家、机构（医院政策）或个人。
+
+### 2.3 弱化与强化的家长主义
+
+一个弱的家长主义者认为，如果某人选择的手段可能会破坏他们的目标，那么干涉这些手段是合理的。因此，如果一个人真的更喜欢安全而不是方便，强迫他们系安全带是合理的。一个强的家长主义者认为，人们可能有错误、混淆或非理性的目标，干涉以防止他们实现这些目标是合理的。如果一个人真的更喜欢风吹拂头发而不是增加安全性，强迫他们在骑摩托车时戴头盔是合理的，因为他们的目标是非理性的或错误的。如果一个人是弱的但不是强的家长主义者，我们只能干涉关于事实的错误，而不能干涉关于价值的错误。所以，如果一个人试图跳出窗户，相信自己会轻轻地飘落到地面上，我们可以制止他。如果他跳下去是因为他相信重要的是要 spontaneity，我们就不能制止他。
+
+### 2.4 纯粹与不纯粹的家长主义
+
+假设我们阻止人们制造香烟，因为我们认为香烟对消费者有害。我们试图保护的是消费者群体，而不是制造商（他们可能根本不吸烟）。我们干涉制造商的理由是他们给他人造成了伤害。尽管如此，基本的理由是家长主义，因为消费者同意（假设相关信息对他们是可得到的）承受这种伤害。这不像我们阻止制造商污染空气的情况。在纯粹的家长主义中，被保护的类别与被干涉的类别是相同的，例如，在没有救生员的情况下阻止游泳者游泳。在不纯粹的家长主义中，被干涉的人群比被保护的人群更大。
+
+### 2.5 道德与福利的家长主义
+
+家长主义通常的辩护是基于对被干涉者的利益。这些利益是以使一个人的生活更好的事物来定义的；特别是他们的身体和心理状况。问题涉及的是死亡、痛苦或痛苦的情绪状态等。然而，有时国家干预的倡导者试图保护个人的道德福利。因此，例如，可以认为，即使妓女能过上体面的生活并且他们的健康受到保护，阻止她们从事性交易对她们更有利。因为出卖自己的性服务是道德败坏的。因此，这种干涉是为了促进个人的道德福祉而合理的。因此，这可以称为道德家长主义。道德家长主义内部的另一个区别是干涉以改善一个人的道德品质，从而改善她的福祉，以及干涉使某人成为一个更好的人，即使她的生活并没有因此变得更好。
+
+最后，重要的是要区分家长主义，无论是福利还是道德，与其他用于辩护干涉他人的观念；即使干涉不是以保护或促进他人利益为理由。特别是应该区分道德家长主义和法律道德主义，即某些行为方式在道德上是错误的或有辱人格，可以被禁止的观念。因此，例如，酒吧中的“小人投掷”（小人被支付报酬，并且佩戴头盔等保护装备，参加比赛看谁能投掷得最远）可能被认为是合理禁止的。不是因为小人在任何方面受伤，也不是因为小人同意参与此类活动而败坏了自己，而仅仅是因为这种活动是错误的。
+
+要确定法律道德主义和道德家长主义之间的区别并不总是容易的。如果一个人像柏拉图那样相信，错误的行为会损害行为者的灵魂，那么可以诉诸道德家长主义而不是法律道德主义。重要的是，有两种不同的理由可以进行辩解；一种是仅仅诉诸于干涉行为的不道德性，另一种是诉诸于对行为者性格的伤害。
+
+## 3. 规范问题
+
+家长主义是否需要承担证明责任？家长主义者或反家长主义者是否需要为他们的行为给出理由？正如我们所见，家长主义的分析似乎两面都有。它是对自由的干涉，可能被认为将证明责任放在家长主义者身上。它是为了对行为者产生好处的行为，可能被认为将证明责任放在反对家长主义者身上。正如密尔所说，证明责任的分配取决于被家长主义对待的对象。如果是一个孩子，那么假设是，在其他条件相等的情况下，证明责任在那些反对家长主义者身上。如果是一个心智健全的成年人，那么假设是相反的。
+
+假设我们从家长主义是错误的这一前提出发。问题是，在什么情况下，如果有的话，可以克服这一前提？可能的答案有“在任何情况下都不可以”，“在某些情况下可以”，和“在任何情况下都可以”。
+
+最后一种观点似乎非常不可信。本质上，这种观点认为，一个行为（打算）对一个人有益，并且不影响或违反他人的利益，就解决了是否可以这样做的问题。只有忽视促进善的手段以及这些手段的伦理地位的观点才能持有这种观点。任何明智的观点都必须区分根据他们的请求或同意对代理人做出的善行和强加给他们的善行。
+
+因此，规范选择似乎只有两种。要么我们永远不被允许以违背他们意愿的方式追求对他人的善行，并限制他们的自由，要么我们被允许这样做。
+
+为什么有人会认为至少国家永远不会这样做呢？有人可能这样认为，是因为对于违背人们意愿而实际上做好事的不可能性持有各种信念，或者是因为有人认为，虽然可能做好事，但实际上与某些应该占主导地位的规范标准不一致。
+
+关于不可能性问题，人们可能相信，通过家长主义行为无法做任何好事，或者虽然可能做一些好事，但这个过程（几乎）总是会产生超过好事的坏事。
+
+如果有人认为国家在采取家长主义行动时（几乎）总是造成更多的伤害而不是好处，这就引出了一个问题，即我们是否能够区分（很少）产生更多好处而不是伤害的条件，并将其纳入我们的指导方针中。如果这是可能的，并且允许在这些特殊情况下采取家长主义行为不会产生超过好处的进一步伤害，那么我们有时应该成为家长主义者。如果无法区分“好”案例和“坏”案例，那么至少如果我们是规则后果主义者，我们不应该有这样的规则；我们也不应该试图根据具体情况进行区分。
+
+但有人可能认为，产生更多好处而不是伤害的问题并不仅仅是一个经验性问题。它取决于我们对个人利益的理解。如果好处仅包括更长寿、更健康、更高收入或更少抑郁等项目，那么它看起来像是一个经验性问题。但如果我们将个人的好处包括在被尊重为独立行动者、拥有自主决策权或不受侵犯的自主权等项目中，那么在被家长主义化后，个体是否变得更好的问题在某种程度上是一个规范性问题。有人可能认为，通过侵犯他们的自主权来使人们变得更好的观点与一些人认为，通过将他们置于诺齐克式的体验机器中（其中他们漂浮在一个水槽中，但似乎有各种美妙的体验）来使一个人变得更好的观点是相同的。比较一下密尔的说法：“……一个人自己存在方式的最佳选择不是因为它本身是最好的，而是因为它是他自己的方式……”（1859 年：第三章）。
+
+康德主义观点在反对家长主义方面经常是绝对主义的。在这些观点中，我们必须始终尊重他人的理性行动能力。无论从某种立场来看，一个成年人的决策是多么错误，剥夺他们做出自己决策的权利，就是将他们视为仅仅是达到自己利益的手段，而不是作为自己的目的。在某种程度上，反家长主义已经融入到康德主义理论中，因为康德主义理论禁止撒谎和使用武力，这是家长主义干预的主要手段。由于这些工具已经被否定，即使是为了防止个人伤害他人，它们肯定也会被禁止以防止他们伤害自己。当然，一个人可以反对前者的绝对主义，同时接受后者。
+
+如果有人认为有时候家长主义是合理的，可能是出于各种理论上的原因。最广泛的理由是基于后果主义，即产生的好处多于伤害。更狭窄的理由是，有时通过限制个人的自主权（短期）来推进其（长期）自主权。因此，人们可能会阻止人们服用破坏心智的药物，理由是允许他们这样做会破坏他们的自主权，而阻止他们这样做则能保护他们的自主权。这本质上是穆勒反对允许人们签订奴隶契约的论点。请注意，如果与特定后果主义相关联的善的理论足够广泛，即包括自主权作为其中之一的善，那么它可以等同于自主权理论（假设自主观的结构是最大化的）。
+
+一个不同的理论基础是（道德）契约主义。根据这个观点，如果有合理的家长主义案例，那么它们是基于我们（我们所有人）在适当的知识和适当的动机下同意这种干预的基础上合理的。因此，例如，可以认为，由于我们知道我们会患抑郁症，我们都会同意至少进行短期的反自杀干预，以确定我们是否患有这种病症，并试图治愈它。更一般地说，我们可能会接受费恩伯格所称的“软性家长主义”。这种观点认为，当我们不是完全自愿行动时，干预以提供信息或指出我们理性的缺陷是可以接受的，但如果我们随后做出自愿选择，必须予以尊重。或者我们可能同意被强迫系上安全带，知道我们倾向于对未来的利益进行折扣。这里的理由既不是后果主义的，也不仅仅是基于自主权的保护。相反，可以考虑任何一种考虑因素，以及其他因素，来确定我们可以合理同意的内容。
+
+## 4. 自由主义家长主义
+
+近年来，关于家长主义干预的思想出现了一种新的有影响力的思潮。它被称为新家长主义或自由主义家长主义。它受到行为科学在我们的认知和情感能力存在缺陷和限制的许多方面的研究的影响。
+
+强调这些发现对制定社会政策的第一批理论家是“推动者”——卡斯·桑斯坦和理查德·塞勒斯坦（2003 年）。他们认为，由于人们是如此糟糕的决策者，我们应该通过安排他们的选择，使他们更有可能做出符合自己期望目标的选择。
+
+他们声称，与传统的家长主义不同，后者通过强制排除选择或通过胁迫增加选择的成本，推动仅仅是改变选择的呈现方式，以使人们更有可能选择对他们最有利的选项。此外，他们认为，任何选择的安排都会使某些选择更有可能或不太可能，因此对选择架构的某些决策是不可避免的。
+
+第一个问题是什么准确地区分了推动者与其他影响人们选择的方式。以下是各种推动者的例子。这些例子是在最早的推动讨论中提到的，并且一直是关注的焦点。
+
+自助餐厅。为了影响学生在经过自助餐厅时做出更健康的食物选择，将健康食品放在视线范围内，将不太健康的选择放在视线范围之上或之下。有时，这种推动还涉及将健康食品放在队伍中较早的位置。
+
+自愿选择 vs 默认选择。考虑到许多员工经常不选择（自愿选择）参加退休计划，雇主将默认设置为自动参加此类计划，让员工可以轻松选择退出。这种计划已被证明可以提高储蓄率。
+
+明天存更多。要求员工现在承诺将他们未来几年的工资增加部分直接存入养老金计划中。人们对损失敏感，因此更愿意放弃薪资增加而不是主动将已经收到的额外资金每年重新分配到他们的退休账户中。
+
+餐盘的尺寸。在自助餐厅使用较小的餐盘可以减少食物的摄入量。
+
+绘制交通车道。为了让司机在急转弯处减速，车道线被绘制得比平常更接近。这给司机们创造了一个错觉，让他们觉得自己的速度比实际上快，结果他们会减速。
+
+上述的初始例子成为早期文献的重点。早期的批评家试图区分像自助餐厅这样的干预措施和仅仅提供信息的干预措施。从最近的著作中可以明确得知，助推的范畴意图非常广泛。根据桑斯坦的说法，以下所有的都是助推措施：提醒、警告、GPS、银行卡利率的披露、任何关于像你这样的人的信息、政府表格的简化、默认规则、暗示人们吃健康食物的潜意识信息。
+
+Thaler 和 Sunstein 还提供了对“推动”的描述，即任何选择架构的方面，以可预测的方式改变人们的行为，而不禁止任何选项或显著改变他们的经济激励。（2008 年：6）
+
+> 4.1 定义问题
+
+### 4.1 Definitional issues
+
+为什么这个观点被引入者称为自由主义家长主义？在推动的典型定义中，干预总是通过所谓的“选择架构”进行的。选择架构是设计向代理人呈现选择的不同方式。例如，选择的数量，选择是选择加入还是退出，描述或呈现替代方案的方式，与选择相关的激励措施等等。
+
+他们的观点是自由主义的，因为它保护了选择的自由。没有选择被消除或变得更加困难。没有人被强迫。选择集保持不变。对代理人面临的选择没有附加重大成本或激励措施。
+
+他们的观点是家长主义的，因为它旨在促进被推动的代理人的利益。而且这是代理人本人的利益。我们不是朝着她不持有的目标进行推动。推动是关于手段而不是目的。
+
+他们对家长主义的定义非常弱，因为它允许许多行为被视为家长主义，而几乎所有传统定义的家长主义都不会这样认为。
+
+就本条目中对家长主义的分析而言，Nudging 是否属于家长主义？定义中的第一个条件是：行为（或其遗漏）干涉了 Y 的自由或自主权。上述定义中没有对应的内容。在香烟包上贴上警示标签并不会干涉任何吸烟者的自由或自主权。
+
+基本上，自由主义家长主义中对家长主义的定义仅关注于使用助推来使受助推的行为者变得更好。我们可以用“仁慈”来替代“家长主义”，并且不会遗漏任何重要内容，因为“自由主义”方面涵盖了其他所有重要内容。这种对家长主义定义的扩展是否合理取决于正在探讨的问题以及这种扩展是否使事情更加清晰或更加混乱。
+
+有一些推动行为并不是家长主义的（根据它们的定义），因为其目的是促进公共利益，即使选择者本人并没有受益。例如，鼓励楼宇管理员安装带有盲文按钮的电梯，通过展示饥饿婴儿的照片来影响人们为乐施会做出贡献，这些都是促进除受影响者之外的人们福祉的例子。
+
+然而，无论一个人对于家长主义的定义是否有用，我们转向更重要的问题，即在什么情况下，推动行为是影响个人做出某些选择的合理方式。
+
+### 4.2 规范性问题
+
+鉴于推动并非强制性，它们旨在促进个体自身认为有益的事物，它们已被证明往往有效，那么对于它们的使用是否存在合理的规范性反对意见？
+
+与任何政策干预一样，无论是国家还是私人组织，都可能存在担忧的潜在滥用。也许有需要避免的滑坡。也许推动者高估了代理人错误推理的数量和严重性；这些错误是推动者希望利用来促进代理人福利的。也许他们在声称人们更喜欢健康而不是更多含糖饮料时对代理人真正价值的看法是错误的。
+
+但这些反对意见并不是针对推动本身，而是针对这种行为干预方式的滥用。是否存在对推动本质的反对意见？
+
+许多推动措施中有一个特点必须考虑到，尽管这不是推动概念的内在特征，但通常作为一个关键特征存在于背景中。一位作者实际上将这些背景条件与自由主义家长主义的定义联系起来。
+
+> 自由主义家长主义是一系列旨在克服个体不可避免的认知偏见和决策不足的干预措施，通过利用它们以便以易于逆转的方式影响她的决策，使其朝着在理想条件下她自己会做出的选择方向发展。（Rebanato 2012: 6）
+
+利用认知偏见的一个例子是将选择默认为选择退出。由于对不做任何改变现状的认知偏见，相对较少的人选择退出，这与预期的情况相比较少。
+
+鉴于这个背景，至少有三个反对意见反对了一些（绝不是全部）推动的内在特征。第一个是推动经常发生在被推动者不知道自己被推动的情况下。第二个是推动经常通过利用被推动者思维中的缺陷来起作用。第三个是一些推动（除了前两个反对意见所涉及的推动）是令人反感的操纵形式。
+
+### 4.3 透明度
+
+对于许多推动而言，一个问题是被推动者对推动的了解。在自助餐厅的例子中，学生们知道食物被放置在不同的视线水平上。从这个意义上说，推动对他们来说是透明的。这不像潜意识传递信息，他们对针对他们的信息不知情。让我们称这种在这个意义上是透明的推动为狭窄推动。
+
+举一个甚至不是狭义透明的推动的例子，考虑这样一个实验：为了增加办公室工人从咖啡机取咖啡的付款率，将一幅一双眼睛的画挂在咖啡壶上方。这确实增加了付款率。大多数工人对这幅画的问题要么根本没有注意到，要么没有与付款问题联系起来。
+
+在自助餐厅的例子中，学生们知道食物摆放在不同的层次上，但他们不知道食物的摆放是为了促进某种目标——吃更健康的食物。食物的摆放不是随机的，也不是出于审美考虑。它是有意的，并受到一系列特定考虑的驱使。有些推动措施在某种意义上更加透明，因为很明显它们是有意引入的，它们的动机也很明确。例如，香烟包装上的警告，吸烟对健康有害。将其称为广义推动措施。
+
+有一些证据表明，使推动措施变得广义并不会影响其效力。最近在临终关怀的背景下进行的一项研究表明，当人们被告知默认选项之所以被选择是因为通常有效时，其默认效应并不会减弱（Lowenstein 等，2014 年）。
+
+注意，可能还有一种更透明的推动特征——称之为非常广泛的推动。这将是当推动影响的机制也被公开时。假设我们提出了一个选择退出的设置，并说(1)我们这样做是为了增加参与退休计划的人数，(2)如果这有效，那是因为人们有坚持现状的倾向。
+
+既不狭窄也不广泛的推动——比如对电影观众发出潜意识信息，鼓励他们购买水果而不是爆米花——可能是一种鼓励消费更健康食品的有效方式。但它们似乎具有道德上可疑的特征。即使事实是这样的信息的效力相当弱，我们也反对它们绕过任何避免或抵制的可能性。
+
+Sunstein 提出了他所称的透明条件：
+
+> 选择架构应该是透明的，并且应该受到公众的监督，尤其是如果公务员对此负责。至少，这个命题意味着当这些官员实施某种改革时，他们不应该对公众隐瞒...如果官员改变默认规则以促进清洁能源或节约能源，他们应该公开他们正在做什么。（2015 年：19）
+
+这个表述留下了一些问题。 "透明"和"受公众监督"是不同的条件吗？ "最低"解释只是关于官员正在做什么的公开条件。政府可以事先宣布他们将在电视节目中使用潜意识信息来促进健康。桑斯坦认为，这将满足他的透明条件，但可能会因为操纵的理由而引起反对。
+
+如何制定一个更接近直观透明概念的规范，以区分透明的各种意义——如狭义和广义，并讨论这种透明是否是合法推动的必要组成部分，这仍然是一个开放的讨论。例如，希望鼓励节约能源的公共事业公司是否必须在关于邻居平均消费的信息传达之前，说明他们发送这些信息是因为他们认为这将鼓励节约？他们是否必须披露他们相信这样做是因为人们有遵循邻居行为的倾向？
+
+为什么需要透明度？对于非透明性的一个可能的反对意见是，它干扰了受影响者的自主权。认为所有非透明的推动都具有这种影响力似乎过于强烈，但更有限的主张是，当一个推动影响一个行动者的选择，并且如果她意识到这个推动，她会拒绝这种影响，那么这种影响在她的选择中将不再有效。
+
+关于自主权的另一个问题是，它是否受到有意和无意的推动的影响。如果自助餐厅经理随机摆放食物，她仍然会影响人们的选择。在这种情况下，选择是否比食物被故意摆放以影响选择的情况下更具自主性？
+
+### 4.4 利用错误推理
+
+对于推动的第二个反对意见与一种特定机制有关，通过这种机制，推动的目的——促进代理人的目标——有时得以实现。以自助餐厅为例。我们将健康食品放在视线高度的原因是因为人们倾向于选择视线高度处的选项而不是其他选项。这样做的想法是，通过将健康食品放在那个高度，推动者可以利用这种倾向。
+
+由于食物的摆放位置不是选择的理性依据，推动者利用这种非理性倾向使人们选择健康食品。请注意，在这种情况下，我们既缺乏透明度，又利用了非理性倾向。
+
+有人认为，即使是为了善良的目的，利用我们的非理性倾向也是令人反感的。
+
+考虑选择退出的推动。它依赖于并且凭借事实运作，即使有更好的选择可供选择，我们倾向于选择给定的选择。正是因为我们非理性地选择了更差的选择，我们才提供更好的选择供代理人非理性地选择。
+
+框架效应：这是经验决策理论中最被证实的发现之一，即受试者的决策受到不同信息呈现方式的影响。例如，在决定是否进行一项可以治愈疾病但可能导致死亡的手术时，一个人的选择受到是否告知(A)或(B)的影响：
+
+1. 90%的接受手术的患者存活下来（存活率）。
+2. 10%的接受手术的患者会死亡。（死亡率）
+
+这完全是相同的信息，但是告知的人（A）比被告知的人（B）更有可能选择手术。根据措辞的不同而做出不同的决定是非理性的。
+
+将非理性用于我们自身的利益并不矛盾，但对一些人来说，这与通过给予他们经济激励来让孩子们阅读一样存在问题。我们让他们出于错误的原因来阅读。至少在这些情况下，有一个想法，即一旦阅读，他们将会意识到阅读的乐趣和重要性。但是那些坚持选择退出的人是否会学会改变他们错误的启发式方法？如果有什么，它只会被加强，因为他们错误的启发式方法会产生好的结果。
+
+如果我们考虑理性说服的情况，那么在理想情况下，我们会发现代理人之所以选择，是因为她相信自己得到了理由，这些理由支持她的选择，并且她行动是基于这些理由。在利用非理性倾向进行推动的情况下，这些条件并不满足。
+
+通常情况下，我们的行动不仅仅是根据行动的理由，而且还是出于对这些理由的认可。如果通过推动实现的好处很重要，并且其他干预措施效果要小得多和/或需要更高的成本或难以操作，那么这种可取的特点可能会被抵消。
+
+显然，虽然许多推动（如定义所示）利用了错误的推理，但大多数并非如此。有些根本不利用推理，例如眼睛/咖啡的案例。
+
+### 4.5 操纵
+
+由于“推动”被定义为排除强迫性行为，并且它们通常不是明显欺骗的情况（与缺乏透明度相反），因此经常用来批评“推动”的概念是操纵。即使像“推动”这样的行为是出于善意的动机，他人的行为也经常被指责为操纵。我们认为，操纵和其他形式的家长主义一样，未能尊重我们作为理性和有能力的选择者。毕竟，如果我们是有能力的选择者，为什么不直接向我们提出支持我们以特定方式行动的理由呢？
+
+> “推动”利用现代心理学和经济学的巧妙技巧来操纵人们。当有人试图向我们推销东西时，我们不喜欢被操纵；当我们的政府这样对待我们时，我们也不应该喜欢被操纵。（威尔金森，请参阅其他互联网资源）
+
+问题在于操纵似乎是一个非常模糊和不被理解的概念。关于哪些影响是操纵的以及它们错误的条件存在广泛的分歧。
+
+在某种程度上，只有对于操纵干涉、扭曲或利用人们不希望影响的因素来说，人们才普遍认同这个观点。关于操纵是否必须是有意的，是否必须隐藏，操纵者的动机是否重要，影响行为的方式与其合理性的理由之间是否存在差距，是否必须有一个操纵者，所有这些在文献中都存在争议（参见 Coons 和 Weber 2013 年的论文）。
+
+即使在广泛共享的观点上存在一致意见，即只有在绕过或颠覆被影响人的理性能力时，人际操纵才是不合理的，对于“绕过”和“颠覆”的理解仍然存在很大分歧。利用框架效应传达信息是否“绕过”或“颠覆”了理性能力？利用一个人的非理性倾向是否绕过或颠覆了理性能力？
+
+或许人们只有在其他原因上已经不赞同时，才会将一个过程视为操纵。最近一系列的实验发现，人们对于一个给定的推动是否操纵的看法，会随着这个推动是否符合他们的政治信念而有所不同（福克斯和坦南鲍姆，2015 年）。
+
+在几乎每一个案例中，政治光谱左侧的受访者在自由主义议程下支持推动，但在保守主义议程下反对推动；与此同时，政治右派的受访者则呈相反的模式。
+
+鉴于对操纵的不同理解，人们对于为什么、何时操纵是错误的存在分歧。因为它违反尊严？因为它违反自主权？因为它违反自由的概念？
+
+很明显，许多推动措施不可能是操纵的例子。警示标签、默认规则（如选择退出）、在菜单上提供卡路里信息，如果不使用如此广泛的操纵概念来剥夺其任何用途，就不能算作操纵。
+
+推动者明确表示，他们希望他们使用的影响是可以轻易避免的。这就是为什么他们不认为使选择变得非常昂贵或困难是一种推动。但是操纵的强度或效果是不同的。也许某些潜意识信息在力量上相当弱；只有那些已经在考虑购买爆米花的人受到影响。只有那些难以逃避或避免的影响才会被认为是操纵吗？
+
+在家长主义行为的案例中，似乎只有一个或两个概念在规范上的反对中起作用，例如自主权、自由权，它们属于同一类价值观。在令人反感的推动中，似乎有更多的规范价值观在起作用，并且它们似乎没有统一的概念统一性。
+
+在开发更精细的操纵和颠覆理性决策的概念之前，更有成果的方法可能是看一些具有可识别特征的特定推动，这些推动因为某些特征而被认为是有问题的，并将它们与缺乏这些特征的其他推动区分开来。也许没有共同的特征可以解释为什么那些错误的推动都属于一个合理的操纵概念。
+
+## 5. 家长主义的谎言
+
+有一类明显引发问题的操纵，涉及到被操纵的人的自主权和/或自由权是否受到干扰--谎言。以声称被欺骗的人的利益将得到提升为动机的谎言是被认为至少有时是合理的家长主义的最常见例子。
+
+家长主义的谎言以及其他形式的欺骗，如真实但具有误导性的断言，引发了有趣的概念问题和规范问题。与使某些选择成本更高从而限制行动者选择的强制不同，许多谎言使行动者在不增加成本的情况下更难采取某些选择。此外，这种困难对被欺骗者是隐藏的。这引发了一个问题，即被欺骗者的哪些特征受到影响。是她的自由，她的自由，她的自主权吗？是她行动的自愿性吗？还是这些事情都不是，而更像是她实现目标的能力？思考这些问题对于评估家长主义谎言是否合理以及何时合理是很重要的。
+
+这个讨论是关于谎言而不是欺骗。一个人可以在不说谎的情况下欺骗，例如通过断言某个你认为是真实的事情，但你知道听者会推断出错误的事情。或者根本不断言，比如当丈夫用止咳药代替他的安眠药以防止妻子伤害自己。我所指的谎言是指由 A 做出的断言 P，A 并不相信 P，并且意图使听者要么相信 P，要么至少相信 A 相信 P。
+
+事实上，谎言可能并不会欺骗听者，原因有很多——P 可能实际上是真的，或者听者可能意识到自己被欺骗了——但作为滥用断言的一种方式，谎言仍然是一种部分错误，其功能是提供证据，证明说话者认为是真实的事实。家长主义谎言从根本上是错误的，正如康德主义者所主张的那样，因为它们违反了我们作为理性生物决定自己目标和实现目标手段的权利。
+
+由于说谎在某种程度上是错误的，如果有超过使其错误的原因，那么任何具体的谎言都可能被证明是合理的。而家长主义谎言的辩护者认为，有时避免的伤害或产生的好处超过了说谎的伤害。反家长主义者认为，这种计算未能考虑到谎言干扰了个人的重要价值观，如自主权、自由和理性，而这些价值观可能超过了避免的伤害或产生的好处。
+
+让我们从自主权开始。被说谎是否干扰或削弱了被说谎的人的自主权？显然，要回答这个问题，我们需要对一个人成为自主的人或行动自主的人有所了解。例如，如果我们将自主权理解为一个人与他们的目标、理想、偏好、价值观等的一般特征，那么谎言必然会影响这种关系。例如，如果谎言声称某个价值观，如礼貌，主要带来痛苦，那么他们作为对如何生活进行自我反思的自主权就会受到削弱。
+
+另一方面，如果谎言与他们如何在他们的目标下最好地实现它们有关，那么被削弱的是他们实现自主选择的目标的可能性，或者按照他们的价值观行动的可能性。他们接受反思的能力仍然完好无损。
+
+在选择为了实现目标、促进目的或根据价值观行动的层面上，被欺骗会减少实现这些目标的可能性。这种失败是否也被认为是自主权的减少？
+
+首先，应该注意到被欺骗并不总是会影响选择。当医生虚假地告诉患者他没有致命疾病时，她是为了防止患者陷入抑郁。问题在于情绪而不是具体的选择。
+
+其次，被欺骗导致选择失败是否影响自主权还不清楚。如果是的话，那么每当一个人由于无知而导致选择失败时，他们就是非自主地行动。但是，当我基于不准确的信息选择一种药物，并未被治愈时，我的药物选择是否不是自主的并不明显。也许影响的是我选择的自愿性。
+
+有一种思考方式是将在给定选择中行使自主权视为需要自由的非干涉。这假设行动者在某种基本能力意义上是自治的。然后，非干涉被分析为使个人选择更加昂贵（强迫）或更加困难（欺骗）的因素。
+
+一个有趣的案例是对安慰剂的开方。在典型情况下，医生对药物的惰性性质进行了误导。但他这样做是因为有充分的理由认为患者服用安慰剂后会变得更好。患者的实际推理被谎言扭曲，因此剥夺了自主权的重要因素，但患者的福利增加了。
+
+总之，似乎清楚的是，谎言干涉了被谎言欺骗的人的选择和行动中的重要事项，并因此在表面上是错误的。但要更清楚地了解家长主义谎言削弱了什么，以及什么不会削弱，需要进一步调查，以评估此类谎言的合法性。
+
+## Bibliography
+
+* Alexander, Larry, 2010, “Voluntary Enslavement”, *San Diego Legal Studies Paper No. 10–042*, October 19, 2010. [[Alexander 2010 available online](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1694662)]
+* Arneson, Richard J., 1989, “Paternalism, Utility, and Fairness”, *Revue Internationale de Philosophie*, 43(170(3)): 409–23.
+* –––, 2005, “Joel Feinberg and the Justification of Hard Paternalism”, *Legal Theory*, 11(3): 259–284. doi:10.1017/S1352325205050147
+* Bergelson, Vera, 2007, “The Right to Be Hurt: Testing the Boundaries of Consent”, *The George Washington Law Review*, 75: 165–255.
+* Boven, Luc, 2008, “The Ethics of Nudge”, in Grune-Yanoff and S.O. Hansson, *Preference Change: Approaches from Philosophy, Economics and Psychology*, Chapter 10, Berlin and New York: Springer.
+* Brink, David O., 2013, *Mill’s Progressive Principles*, Oxford: Oxford University Press.
+* Castro, Clinton, Adam Phan, and Alan Rubel, 2020, *Epistemic Paternalism Online in Guy Axtell & Amiel Bernal (eds.) Epistemic Paternalism.*, London: Rowman & Littlefield.
+* Cholby, M, 2015, “Paternalism and our Rational Powers”, *Mind*, 126(501): 123–153.
+* Conly, Sarah, 2012, *Against Autonomy: Justifying Coercive Paternalism*, Cambridge: Cambridge University Press.
+* Coons, Christian and Michael Weber (eds), 2013 *Paternalism: Theory and Practice*, Cambridge: Cambridge University Press.
+* Dixon, Nicholas, 2001, “Boxing, Paternalism, and Legal Moralism”, *Social Theory and Practice*, 27(2): 323–344.
+* de Marneffe, Peter, 2006, “Avoiding Paternalism”, *Philosophy and Public Affairs*, 34: 68–94. doi:10.1111/j.1088-4963.2006.00053.x
+* Dworkin, Gerald, 1972, “Paternalism”, *The Monist*, 56: 64–84.
+* –––, 2005, “Moral Paternalism”, *Law and Philosophy*, 24(3): 305–319.
+* –––, 2013, “Defining Paternalism”, in Coons and Weber 2013: 25–39.
+* –––, 2012, “Harm and the Volenti Principle”, *Social Philosophy and Policy*, 29: 309–321. doi:10.1017/S0265052511000057
+* Enoch, David, 2016, What’s Wrong with Paternalism: Autonomy, Belief, and Action *Proceedings of the Aristotelian Society*, April 2016
+* Feinberg, Joel, 1986, *Harm to Self*, Oxford: Oxford University Press.
+* Fox, Craig R. and David Tannenbaum, 2015 “The Curious Politics of the ‘Nudge’”, *New York Times*, September 26, 2015, p. SR9.
+* Goldman, Alan H., 1980, “The Refutation of Medical Paternalism”, in his *The Moral Foundations of Professional Ethics*, Towata: Rowman and Littlefield.
+* Goodin, Robert E., 1991, “Permissible Paternalism: Saving Smokers from Themselves”, *The Responsive Community* 1: 42–51. [Republished in LaFollette, Hugh (ed.), 2014, *Ethics in Practice: An Anthology*, Hoboken: Wiley-Blackwell.]
+* Gorin, Moti, 2014, “Do Manipulators always threaten Rationality?” *American Philosophical Quarterly*, 51(1): 51–61.
+* Gostin, Lawrence O. and Kieran G. Gostin, 2009, “A broader liberty: J. S. Mill, Paternalism and the Public’s Health”, *Public Health*, 123: 214–22. doi:10.1016/j.puhe.2008.12.024
+* Grill, Kalle and Hanna Jason, 2018, *The Routledge Handbook of the Philosophy of Paternalism*, Routledge.
+* Groll, Daniel, 2012 “Paternalism, Respect and the Will”, *Ethics*, 122(4): 692–714. doi:10.1086/666500
+* Hanna, Jason, 2018, *In Our Best Interest* Oxford University Press.
+* Hector, Colin, 2012, “Nudging towards Nutrition: Soft Paternalism and Obesity-Related Reform”, *Food & Drug Law Journal*, 67(1): 103–122.
+* Husak, Douglas, 2003, “Legal Paternalism”, in Hugh LaFollette (ed.), *The Oxford Handbook of Practical Ethics*, New York: Oxford University Press.
+* Kleinig, John, 1983, *Paternalism*, Towata: Rowman and Allenheld.
+* Kultgen, John, 1995, *Autonomy and Intervention: Paternalism in the Caring Life*, New York City: Oxford University Press.
+* Le Grand, Julian and Bill New, 2015, *Government Paternalism: Nanny State or Helpful Friend?* Princeton: Princeton University Press.
+* Mill, John Stuart, 1859, *On Liberty*, Indianapolis: Bobbs-Merrill, 1956.
+* Nys, Thomas, Yvonne Denier, and Toon Vandevelde (eds), 2007, *Autonomy and Paternalism: Reflections on the Theory and Practice of Health Care*, Leuven: Peeters.
+* Pope, Thaddeus Mason, 2000, “Balancing Public Health against Individual Liberty: The Ethics of Smoking Regulations”, *University of Pittsburgh Law Review*, 61(2): 419–498.
+* Pugh, Jonathan, 2015, “Ravines and Sugar Pills: Defending Deceptive Placebo Use”, *Journal of Medicine and Philosophy*, 40(1): 83–101.
+* Rebanato, Riccardo, 2012, *Taking Liberties: A Critical Examination of Libertarian Paternalism*, London: Palgrave Macmillan. doi:10.1057/9780230391567
+* Saghai, Yashar, 2013, “Salvaging the Concept of Nudge”, *Journal of Medical Ethics*, 39(8): 487–493. doi:10.1136/medethics-2012-100727
+* Salazar V., Alberto R., 2012, “Libertarian Paternalism and the Danger of Nudging Consumers”, *King’s Law Journal*, 23(1): 51–67. doi:10.5235/096157612800081222
+* Sartorius, Rolf, 1983, *Paternalism*, Minneapolis, MN: University of Minnesota Press.
+* Savelscu, Julian, 1995, “Rational non interventional paternalism: why doctors ought to make judgments of what is best for their patients”, *Journal of Medical Ethics*, 21: 327–331.
+* Shiffrin, Seanna, 2000, “Paternalism, Unconscionability Doctrine, and Accommodation”, *Philosophy & Public Affairs*, 29: 205–250.
+* Skipper, Robert A., 2012, “Obesity: Towards a System of Libertarian Paternalistic Public Health Interventions”, *Public Health Ethics*, 5: 181–191. doi:10.1093/phe/phs020
+* Sunstein, Cass R., 2013, “The Storrs Lectures: Behavioral Economics and Paternalism”, *Yale Law Journal*, 122(7): 1826–1900. [[Sunstein 2013 available online](http://www.yalelawjournal.org/feature/the-storrs-lectures-behavioral-economics-and-paternalism)]
+* –––, 2015, “The Ethics of Nudging”, *Yale Journal on Regulation*, Vol. 32: 413–450. [[Sunstein 2015 available online](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1415&context=yjreg)]
+* Sunstein, Cass R., and Richard H. Thaler, 2003, “Libertarian Paternalism Is Not an Oxymoron”, *University of Chicago Law Review*, 70(4): 1159–1202.
+* Thaler, Richard H. and Cass R. Sunstein, 2008, *Nudge: Improving Decisions about Health, Wealth and Happiness*, New Haven, CT: Yale University Press.
+* Turner, Piers Norris, 2013, “The absolutism Problem in *On Liberty*”, *Canadian Journal of Philosophy*, 43(3): 322–340. doi:10.1080/00455091.2013.847346
+* VanDeVeer, Donald, 1986, *Paternalistic Intervention: The Moral Bounds on Benevolence*, Princeton, NJ: Princeton University Press.
+* Weber, Michael, and Christian Coons, 2014, *Manipulation: Theory and Practice*, Oxford: Oxford University Press.
+* Wilkinson, T.M., 2013, “Nudging and Manipulation”, *Political Studies*, 61(2): 341–355. doi:10.1111/j.1467-9248.2012.00974.x
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=paternalism). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/paternalism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=paternalism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/paternalism/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* Loewenstein, George, Cindy Bryce, David Hagmann, & Sachin Rajpal, 2014, “[Warning: You Are About To Be Nudged](http://ssrn.com/abstract=2417383)”, unpublished working paper (Mar. 28, 2014), archived at SSRN
+* Wilkinson, Martin, “[Nudges manipulate, except when they don’t](http://blogs.lse.ac.uk/politicsandpolicy/nudges-manipulate-except-when-they-dont/)”, August 2013.
+
+## Related Entries
+
+[autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [autonomy: personal](https://plato.stanford.edu/entries/personal-autonomy/) | [beneficence, principle of](https://plato.stanford.edu/entries/principle-beneficence/) | [liberty: positive and negative](https://plato.stanford.edu/entries/liberty-positive-negative/) | [limits of law](https://plato.stanford.edu/entries/law-limits/) | [Mill, John Stuart: moral and political philosophy](https://plato.stanford.edu/entries/mill-moral-political/)
+
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
+Gerald Dworkin <[*gdworkin@ucdavis.edu*](mailto:gdworkin%40ucdavis%2eedu)>
