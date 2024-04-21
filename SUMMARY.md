@@ -626,7 +626,7 @@
   * [斯科伦悖论 Skolem’s (Timothy Bays)](p/bei-lun-paradox/si-ke-lun-bei-lun-skolems-timothy-bays.md)
   * [\*圣彼得堡悖论——见圣彼得堡悖论 St. Petersburg paradox — see St. Petersburg paradox](p/bei-lun-paradox/sheng-bi-de-bao-bei-lun-jian-sheng-bi-de-bao-bei-lun-st.-petersburg-paradox-see-st.-petersburg-parad.md)
   * [\*悬疑——见悬疑悖论 of suspense — see suspense, paradox of](p/bei-lun-paradox/xuan-yi-jian-xuan-yi-bei-lun-of-suspense-see-suspense-paradox-of.md)
-  * [\*芝诺悖论——见埃利亚的芝诺：芝诺悖论 Zeno’s paradoxes — see Zeno of Elea: Zeno’s paradoxes](p/bei-lun-paradox/zhi-nuo-bei-lun-jian-ai-li-ya-de-zhi-nuo-zhi-nuo-bei-lun-zenos-paradoxes-see-zeno-of-elea-zenos-para.md)
+  * [\*芝诺悖论——见爱利亚的芝诺：芝诺悖论 Zeno’s paradoxes — see Zeno of Elea: Zeno’s paradoxes](p/bei-lun-paradox/zhi-nuo-bei-lun-jian-ai-li-ya-de-zhi-nuo-zhi-nuo-bei-lun-zenos-paradoxes-see-zeno-of-elea-zenos-para.md)
   * [悖论与现代逻辑 and contemporary logic (Andrea Cantini and Riccardo Bruni)](p/bei-lun-paradox/bei-lun-yu-xian-dai-luo-ji-and-contemporary-logic-andrea-cantini-and-riccardo-bruni.md)
   * [\*认知——见认知悖论 epistemic — see epistemic paradoxes](p/bei-lun-paradox/ren-zhi-jian-ren-zhi-bei-lun-epistemic-see-epistemic-paradoxes.md)
 * [为人父母和生育 parenthood and procreation (Elizabeth Brake and Joseph Millum)](p/wei-ren-fu-mu-he-sheng-yu-parenthood-and-procreation-elizabeth-brake-and-joseph-millum.md)
