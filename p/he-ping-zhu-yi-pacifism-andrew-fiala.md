@@ -1,10 +1,10 @@
 # 和平主义 pacifism (Andrew Fiala)
 
-*首次发表于2006年7月6日；实质修订于2023年5月8日*
+_首次发表于2006年7月6日；实质修订于2023年5月8日_
 
 和平主义是对和平的承诺和对战争的反对。我们的日常语言允许在和平主义的总体范畴下容纳各种信仰和承诺。本文将解释各种和平主义之间的家族相似性。它将把和平主义置于伦理学的德行论和后果论方法之中。它将考虑和回应和平主义的多样文化和宗教来源。并且它将考虑并回应对和平主义的反对意见。
 
-“和平主义”一词源自“和平”一词，意为“创造和平”[拉丁语，paci-（来自 pax）意为“和平”，-ficus 意为“创造”]。现代用法可以追溯到 1901 年，Émile Artaud 使用法语术语 pacifisme。但对和平的基本承诺是一个古老的观念。例如，在早期基督教中可以找到和平主义情感。也许最著名的“和平主义”一词出现在《山上训道》（马太福音 5 章）中，耶稣声称“使人和平的人是有福的”。在这段经文中，希腊词 eirenopoios 被翻译成拉丁语 pacifici，意为为和平而工作的人。希腊词 eirenopoios 由希腊词 eirênê [和平]和 poiesis [创造]组成。
+“和平主义”一词源自“和平”一词，意为“创造和平”\[拉丁语，paci-（来自 pax）意为“和平”，-ficus 意为“创造”]。现代用法可以追溯到 1901 年，Émile Artaud 使用法语术语 pacifisme。但对和平的基本承诺是一个古老的观念。例如，在早期基督教中可以找到和平主义情感。也许最著名的“和平主义”一词出现在《山上训道》（马太福音 5 章）中，耶稣声称“使人和平的人是有福的”。在这段经文中，希腊词 eirenopoios 被翻译成拉丁语 pacifici，意为为和平而工作的人。希腊词 eirenopoios 由希腊词 eirênê \[和平]和 poiesis \[创造]组成。
 
 和平主义的哲学讨论通过区分更广泛的非暴力承诺和更狭窄的反战立场来澄清这一概念。Holmes（Holmes 2013: 157）创造了一个相关术语“非暴力主义”，用于描述一种超越反战和平主义的立场，反对一切形式的暴力。和平主义经常在辩证法中被定义为与西方正义战争传统中的合理暴力观念相对立的。和平主义通常被定位在评估战争道德性的连续体上，包括现实主义、正义战争理论和和平主义。这里的根本问题是“战争是否可以被正当化？”（参见Fiala和Kling，2023）。事实上，关于正义战争理论和和平主义之间适当关系的辩论仍在进行中，重点是正义战争理论是否以反战主义的假设开始。一些作者使用正义战争理论推导出一种被称为“有条件和平主义”（例如，May 2015）或“正义战争和平主义”（Sterba 1998）的和平主义版本。Cheyney Ryan和Robert Holmes等作者更坚决地认为正义战争框架存在缺陷。Holmes认为，正义战争传统通常忽视了战争中“大规模、系统性和故意杀害人类”的道德问题（Holmes 2017a: xvii）。Ryan认为，尽管正义战争传统和和平主义通过“相互批评”发展，但和平主义经常被边缘化为一个“被排斥的传统”（Ryan 2017: 125）。然而，“和平主义传统”包括一个重要的作者和运动之间的丰富历史对话（Fiala 2018b; Fiala和Kling 2023）。
 
@@ -15,42 +15,36 @@
 和平主义，如今在普通话语中所理解的，包括一系列从绝对遵守非暴力行为到更专注或更少的反战主义的承诺。与正义战争传统相反，和平主义拒绝将战争视为获得和平的可接受手段。和平主义者通常拒绝在军队服役。有些人拒绝支持通过扣留税款等方式促进战争的政治和社会体系。和平主义者与对政治生活的静默退缩甚至彻底无政府主义有关联。但和平主义者不必“被动”：许多坚定的和平主义者积极参与非暴力社会抗议。和平主义可以用来描述对个人生活中非暴力的承诺，其中可能包括尝试培养和平的美德，如宽容、耐心、仁慈、宽恕和爱。它还可以扩展到对所有有感知能力的生物的非暴力，从而导致对素食主义的承诺和阿尔伯特·施韦策（Albert Schweitzer）所称的“对生命的尊崇”。和平主义可以与更大的精神转化项目联系起来，如甘地对阿希姆萨或非暴力的承诺。正如本文作者所主张的，和平主义可以被理解为提供一个全面的规范框架（Fiala 2018a）。
 
 * [1. 解释和平](https://plato.stanford.edu/entries/pacifism/#DefiPeac)
-
   * [1.1 和平作为奴役或屈服](https://plato.stanford.edu/entries/pacifism/#PeacSlavSubm)
   * [1.2 和平作为生活方式或休战](https://plato.stanford.edu/entries/pacifism/#PeacModuViveTruc)
   * [1.3 公正和宁静秩序的和平](https://plato.stanford.edu/entries/pacifism/#PeacJustTranOrde)
-  * [ 1.4 积极和平](https://plato.stanford.edu/entries/pacifism/#PosiPeac)
+  * [1.4 积极和平](https://plato.stanford.edu/entries/pacifism/#PosiPeac)
   * [1.5 和平作为一种美德和内在价值](https://plato.stanford.edu/entries/pacifism/#PeacVirtIntrValu)
 * [2. 和平主义的种类](https://plato.stanford.edu/entries/pacifism/#VariPaci)
-
   * [2.1 绝对和有条件的和平主义](https://plato.stanford.edu/entries/pacifism/#AbsoVsContPaci)
   * [2.2 最大和最小的和平主义](https://plato.stanford.edu/entries/pacifism/#MaxiVsMiniPaci)
   * [2.3 普遍和特定的和平主义](https://plato.stanford.edu/entries/pacifism/#UnivVsPartPaci)
   * [2.4 怀疑主义和表面上的和平主义](https://plato.stanford.edu/entries/pacifism/#SkepPrimFaciPaci)
   * [2.5 变革性和平主义](https://plato.stanford.edu/entries/pacifism/#TranPaci)
 * [3. 后果主义和平主义](https://plato.stanford.edu/entries/pacifism/#ConsPaci)
-
-  * [ 3.1 积极非暴力主义](https://plato.stanford.edu/entries/pacifism/#ActiNonv)
+  * [3.1 积极非暴力主义](https://plato.stanford.edu/entries/pacifism/#ActiNonv)
 * [4. 和平主义的义务论](https://plato.stanford.edu/entries/pacifism/#DeonPaci)
-
   * [4.1 杀戮战斗人员和杀戮“有罪者”](https://plato.stanford.edu/entries/pacifism/#KillCombKillGuil)
   * [4.2 杀戮非战斗人员](https://plato.stanford.edu/entries/pacifism/#KillNonc)
 * [5. 宗教和文化基础](https://plato.stanford.edu/entries/pacifism/#ReliCultBasi)
-
   * [5.1 宗教和德行伦理](https://plato.stanford.edu/entries/pacifism/#ReliVirtEthi)
   * [5.2 多样的宗教和文化来源](https://plato.stanford.edu/entries/pacifism/#DiveReliCultSour)
 * [6. 和平主义的反对意见和可能的回应](https://plato.stanford.edu/entries/pacifism/#ObjePaciPossRepl)
-
   * [6.1 和平主义是懦夫、搭便车者、叛徒和其他恶毒之人的选择](https://plato.stanford.edu/entries/pacifism/#PaciForCowaFreeRideTraiOtheViciPers)
   * [6.2 和平主义者渴望“洁净之手”的纯洁是错误的；和平主义基于错误的神学](https://plato.stanford.edu/entries/pacifism/#PaciWronAspiForPuriCleaHandPaciBaseBadTheo)
   * [6.3 和平主义是自相矛盾的，不公正的，且无效的](https://plato.stanford.edu/entries/pacifism/#PaciSelfContUnjuNotEffe)
   * [6.4 和平主义是非科学的，非政治的，且非历史的](https://plato.stanford.edu/entries/pacifism/#PaciUnscApolUnhi)
-* [ 参考文献](https://plato.stanford.edu/entries/pacifism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/pacifism/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/pacifism/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/pacifism/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/pacifism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pacifism/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/pacifism/#Rel)
 
----
+***
 
 ## 1. 定义和平
 
@@ -306,196 +300,196 @@
 
 ## Bibliography
 
-* Ackerman, Peter and Jack Duvall, *A Force More Powerful*, New York: St. Martin’s Press, 2000.
-* Alexandra, Andrew, 2003. “Political Pacifism”, *Social Theory and Practice*, 29 (4): 589–606.
-* Allen, Douglas, 2022. “The Moral, Philosophical, and Spiritual Basis of Gandhi’s Transformative Nonviolence” in Veena Howard (ed.), *Gandhi’s Global Legacy*, Lanham, MD: Lexington Books.
-* Alvi, Hayat, 2021. *Nonviolent Activism in Islam: The Message of Abdul Kalam Azam*, Lanham, MD: Rowman and Littlefield.
-* Anscombe, G.E.M., 1981a. “War and Murder” in *Ethics, Religion, and Politics*, Minneapolis: University of Minnesota Press.
-* –––, 1981b. “Mr. Truman’s Degree” in *Ethics, Religion, and Politics*, Minneapolis: University of Minnesota Press.
-* Aron, Raymond, 1966. *Peace and War*, New York: Doubleday.
-* Atack, Iain, 2001. “From Pacifism to War Resistance” *Peace and Change*, 26 (2): 177–186.
-* Augustine, *City of God*, New York: Doubleday, 1958.
-* Bazargan, Saba, 2014. “Varieties of Contingent Pacifism in War” in Helen Frowe and Gerald Lang (eds.) *How We Fight: Ethics in War*, Oxford: Oxford University Press.
-* Bellamy, Alex J., 2019. *World Peace: (And How to Achieve It)*, Oxford: Oxford University Press.
-* Benjamin, Martin, 1973. “Pacifism for Pragmatists” *Ethics*, 83 (3): 196–213.
-* Bentham, Jeremy, 1789. “A Plan for Universal and Perpetual Peace”, in *Principles of International Law*, in *The Works of Jeremy Bentham*, New York: Russell & Russell, Inc.(reprint 1962).
-* Bickerton, Ian, 2011. *The Illusion of Victory: The True Costs of War*, Melbourne: Melbourne University Press.
-* Boersema, David, 2017. “Positive and Negative Peace” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Brandt, Richard, 1972. “Utilitarianism and the Rules of War”, *Philosophy and Public Affairs*, 1 (2): 145–165
-* Brock, Peter, 1998. *Varieties of Pacifism: A Survey from Antiquity to the Outset of the Twentieth Century*. Syracuse, NY: Syracuse University Press.
-* –––, 2000–2001. “Personal Pacifism: In Historical Perspective” *The Acorn*, 9 (1): 53–59.
-* Cady, Duane L., 1989. *From Warism to Pacifism*, Philadelphia: Temple University Press.
-* Chan, David, K., 2012. *Beyond Just War: A Virtue Ethics Approach* New York: Palgrave MacMillan.
-* –––, 2017. “Virtue Ethics and Nonviolence” in in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Chapple, Christopher Key, 1993. *Nonviolence to Animals, Earth, and Self in Asian Traditions*, Albany, NY: State University of New York Press.
-* –––, 2017. “Animals, Vegetarianism, and Nonviolence” in in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Chenoweth, Erica and Maria J. Stephan, *Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict*, New York: Columbia University Press, 2011.
-* Christoyannopoulos, Alexandre, 2020. *Tolstoy’s Political Thought: Christian Anarcho-Pacifist Iconoclasm Then and Now*, New York: Routledge.
-* Churchill, Ward and Mike Ryan, 1998. *Pacifism as Pathology*, Winnipeg: Arbeiter Ring.
-* Cochran, David Carroll, 1996. “War-Pacifism” *Social Theory and Practice*, 22: 161–80.
-* Cole, Juan, (ed.), 2021. *Peace Movements in Islam*. London: Bloomsbury.
-* Cortright, David, 2008. *Peace: A History of Movements and Ideas*, Cambridge: Cambridge University Press, 2008.
-* Dalai Lama, 1999. *Ethics for the New Millennium*, New York: Riverhead Books.
-* Dallmayr, Fred, 2004. *Peace Talks—Who Will Listen?*, Notre Dame: University of Notre Dame Press.
-* Davenport Christian, and Erik Melander, Patrick M. Regan, 2018. *The Peace Continuum: What it is and How to Study it.* Oxford: Oxford University Press.
-* Dombrowski, Daniel, 1991. *Christian Pacifism*, Philadelphia: Temple University Press.
-* Dower, Nigel, 2009. *The Ethics of War and Peace*, Cambridge: Polity Press.
-* Doyle, Michael, 1997. *Ways of War and Peace*, New York: WW Norton and Co.
-* Draper, Kai 2016. *War and Individual Rights: The Foundations of Just War Theory*, Oxford: Oxford University Press.
-* Einstein, Albert, 1954. *Ideas and Opinions*, New York: Random House.
-* Erasmus. “The Complaint of Peace”, in *The Essential Erasmus*, John P. Dolan (ed.), New York: Penguin, 1983.
-* –––. “War and the Christian Prince”, in *War and Christian Ethics*, 2nd edition, Arthur F. Holmes (ed.), Grand Rapids, MI: Baker Academic, 2005.
-* Fabre, Cécile, 2012. *Cosmopolitan War*, Oxford: Oxford University Press.
-* Fabre, Cécile and Seth Lazar (eds.), 2014. *The Morality of Defensive War*, Oxford: Oxford University Press.
-* Fahey, Joseph J., 1997. “Varieties of Pacifism” in *Protest, Power, and Change: An Encyclopedia of Nonviolent Action from ACT-UP to Women’s Suffrage*, Roger S. Powers, William B. Voegele, Christopher Kruegler, and Ronald M. McCarthy (eds.), New York: Taylor and Francis.
-* Fanon, Frantz, 2004. *The Wretched of the Earth*, New York: Grove/Atlantic. With preface by Jean-Paul Sartre.
-* Fiala, Andrew, 2004a. “Citizenship, Epistemology, and the Just War Theory”, in *Logos: A Journal of Catholic Thought and Culture*, 7 (2): 100–117.
-* –––, 2004b. *Practical Pacifism*, New York: Algora Press.
-* –––, 2005. “Practical Pacifism after the War in Iraq”, *Journal for the Study of Peace and Conflict*, Wisconsin Institute Peace and Conflict Studies, 2004–2005 Annual Edition, pp. 90–100.
-* –––, 2007. *What Would Jesus Really Do? The Power and Limits of Jesus’ Moral Teachings*, Lanham, MD: Rowman and Littlefield.
-* –––, 2008. *The Just War Myth: The Moral Illusions of War*, Lanham, MD: Rowman and Littlefield.
-* –––, 2010. *Public War, Private Conscience*, London: Continuum.
-* –––, 2013. *Against Religion, Wars, and States*, Lanham, MD: Rowman and Littlefield.
-* –––, 2014. “Contingent Pacifism and Contingently Pacifist Conclusions” *The Journal of Social Philosophy* 45: 4 (Winter), 463–477.
-* –––, 2018a. *Transformative Pacifism: Critical Theory and Practice* London: Bloomsbury.
-* –––,2018b. “The Pacifist Tradition and Pacifism as Transformative and Critical Theory” *The Acorn* 18(1/2): 5-28.
-* –––2022a. “Peace as Intrinsic Value: The Pacifist Intuition and Intuitive Pacifism” *Peace & Change*, 47(2): 152-69.
-* –––, 2022b. “Was Gandhi a Pacifist? Decolonizing Pacifism While Unpacking the Social Ontology of Nonviolence” in Veena Howard (ed.), *Gandhi’s Global Legacy*. Lanham, MD: Lexington Books.
-* Fiala, Andrew and Jennifer Kling, 2023, *Can War Be Justified: A Debate*, New York: Routledge.
-* Fitz-Gibbon, Andrew, 2010. *Positive Peace: Reflections on Peace Education, Nonviolence, and Social Change*, Amsterdam/New York: Rodopi.
-* Fox, Michael Allen, 2014. *Understanding Peace: A Comprehensive Introduction*, New York/London: Routledge.
-* Francis (Pope Francis), 2017. “World Day of Peace Message (2017)”[Available online](https://www.vatican.va/content/francesco/en/messages/peace/documents/papa-francesco_20161208_messaggio-l-giornata-mondiale-pace-2017.html/)
-* French, Shannon E., 2001. “With Your Shield or on It: Challenging the Pacifist Mother Archetype”, *Public Affairs Quarterly*, 15: 51–63.
-* Frowe, Helen, 2014. *Defensive Killing*, Oxford: Oxford University Press.
-* Frowe, Helen and Gerald Lang (eds.), 2014. *How We Fight: Ethics in War*, Oxford: Oxford University Press.
-* Fukuyama, Francis, 1992. *The End of History and the Last Man*, New York: The Free Press.
-* Galtung, Johan, 1969. “Violence, Peace, and Peace Research” *The Journal of Peace Research*, 6(3): 167–191.
-* Gandhi, Mohandas K., 1972. *Non-Violence in Peace and War, 1942–1949*, New York: Garland Press.
-* –––, 1993. *Autobiography: The Story of My Experiments with Truth*, Boston: Beacon Press.
-* Glover, Jonathan, 1977. *Causing Death and Saving Lives*, New York: Penguin.
-* –––, 2000. *Humanity: A Moral History of the 20th Century*, New Haven: Yale University Press.
-* Goldstein, Joshua S., 2011. *Winning the War on War: The Decline of Armed Conflict Worldwide*, New York: Penguin.
-* Gursozlu, Fuat, 2017. “The Triumph of the Liberal Democratic Peace and the Dangers of Its Success” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Hall Fitz-Gibbon, Jane, 2017. “Children, Violence, and Nonviolence” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Hallward, Maia Carter and Julie M. Norman, *Understanding Nonviolence*. Malden, MA: Polity, 2015.
-* Hanh, Thich Nhat, 1987. *Being Peace*, Berkeley, CA: Parallax Press.
-* Hauerwas, Stanley, 1984. *Should War be Eliminated?*, Milwaukee, WI: Marquette University Press.
-* –––, 1988, “Epilogue: A Pacifist Response to the Bishops” in Paul Ramsey, *Speak up for Just War or Pacifism*, Eugene, OR: Wipf and Stock.
-* –––, 2004. *Performing the Faith: Bonhoeffer and the Practice of Nonviolence*, Grand Rapids: Brazos.
-* –––, 2006. “Pacifism: Some Philosophical Considerations”, in Larry May *et al*. (eds.), *The Morality of War: Classical and Contemporary Readings*, Upper Saddle River, NJ: Prentice Hall.
-* Hobbes, Thomas, 1985. *Leviathan*, London: Penguin Classics.
-* Holmes, Robert, 1989. *On War and Morality*, Princeton: Princeton University Press.
-* –––, 1994. “Pacifism and Wartime Innocence: A Response”, *Social Theory and Practice*, 20: 193–202.
-* –––, 1999. “Pacifism for Nonpacifists”, *Journal of Social Philosophy*, 30 (3): 387–400.
-* –––, 2013. *The Ethics of Nonviolence: Essays by Robert Holmes* ,ed. by P. Cicovacki. London: Bloomsbury.
-* –––, 2015. “The Metaethics of Pacifism and Just War Theory” *The Philosophical Forum* 46 (1): 3-16.
-* –––, 2017a. *Pacifism: A Philosophy of Nonviolence* London: Bloomsbury.
-* –––, 2017b. “Pacifism and the Concept of Morality”in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Howard, Veena, 2017. “Nonviolence in the Dharma Traditions: Hinduism, Jainism, and Buddhism” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Howes, Dustin Ells, 2013, “The Failure of Pacifism and the Success of Nonviolence” *Perspectives on Politics* 11(2): 427-446.
-* Jackson, Richard, 2018. “Pacifism: The Anatomy of a Subjugated Knowledge” *Critical Studies on Security* 6(2): 160-175.
-* –––, 2021. “Pacifism in International Relations” in *The Oxford Handbook of Peacebuilding, Statebuilding, and Peace Formation*, Oliver P. Richmond and Gëzim Visoka (eds.), Oxford: Oxford University Press.
-* James, William, 1910 “The Moral Equivalent of War”, *McClure’s Magazine*, 35: 463–68; reprinted in Larry May, Eric Rovie, and Steve Viner (eds.), *The Morality of War*, Upper Saddle River, NJ: Prentice Hall, 2006.
-* Jahanbegloo, Ramin, 2017. “Peace and Nonviolence in Islam” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Jensen, Derek, 2006. *Endgame*, New York: Seven Stories Press.
-* Johnson, James Turner, 1981. *Just War Tradition and the Restraint of War*, Princeton: Princeton University Press.
-* Kant, Immanuel. *Foundations of the Metaphysics of Morals*, New York: MacMillan Publishing, 1990.
-* –––. *Perpetual Peace*, in *Kant’s Political Writings*. Cambridge: Cambridge University Press, 1991.
-* Khan, Maulana Wahiddudin, 2015, *The Age of Peace*, New Delhi: CPS International.
-* King Jr., Martin Luther, 1986. *A Testament of Hope: The Essential Writings of Martin Luther King Jr.*, James Melvin Washington (ed.), San Francisco: Harper and Row.
-* Kurlansky, Mark, 2006. *Nonviolence: 25 Lessons Fromm the History of a Dangerous Idea*, New York: Modern Library.
-* Kusterman, Jorg, Tom Sauer, Dominiek Lootens, and Barbara Segaert (eds.), 2019. *Pacifism’s Appeal: Ethos, History, Politics*, New York: Palgrave MacMillan.
-* Lazar, Seth and Helen Frowe, 2018. *The Oxford Handbook of Ethics in War*, Oxford: Oxford University Press.
-* Lewis, C.S., 1965. “Why I am not a Pacifist”, in C.S. Lewis, *The Weight of Glory and Other Addresses*, New York: Macmillan.
-* Llewellyn, Joseph, 2018. “Building Emancipatory Peace through Anarcho-Pacifism,” *Critical Studies on Security*, 6(2): 259-272.
-* Luban, David, 1980. “Just War and Human Rights”, *Philosophy and Public Affairs*, 9 (2): 160–181.
-* –––, 2006. “The Romance of the Nation State” in Larry May *et al*. (eds.), *The Morality of War: Classical and Contemporary Readings*, Upper Saddle River, NJ: Prentice Hall.
-* Lucas, George Jr., 2006. “From Jus ad Bellum to Jus ad Pacem” in Larry May *et al*. (eds.), *The Morality of War: Classical and Contemporary Readings*, Upper Saddle River, NJ: Prentice Hall.
-* MacGregor, G.H.C., 1952. *The New Testament Basis of Pacifism*, London: Fellowship of Reconciliation.
-* Marcuse, Herbert, 1969. *Repressive Tolerance*, Boston: Beacon Press.
-* Martin, Benjamin, 1973. “Pacifism for Pragmatists,” *Ethics*, 83 (3): 196–213.
-* May, Larry, 2012. “Contingent Pacifism and Selective Refusal” *Journal of Social Philosophy*, 43(1): 1–18.
-* –––, 2015. *Contingent Pacifism: Revisiting Just War Theory*, Oxford: Oxford University Press.
-* –––, 2018. *The Cambridge Handbook of the Just War*, Cambridge: Cambridge University Press.
-* McMahan, Jeff, 2009. *Killing in War*, Oxford: Oxford University Press.
-* McDaniel, Jay, 2005. *Gandhi’s Hope: Learning From Other Religions as a Path to Peace*, Maryknoll, NY: Orbis.
-* Meisels, Tamar, 2018. *Contemporary Just War: Theory and Practice*, New York: Routledge.
-* Merton, Thomas, 1971. *Thomas Merton on Peace*, New York: McCall Publishing.
-* Miller, Richard B., 1991. *Interpretations of Conflict*, Chicago: University of Chicago Press.
-* Mondongal, Shameer, 2023. *Islamic Perspectives on International Conflict Resolution*. New York: Routledge.
-* Morrow, Paul, 2017. “Contingent Pacifism” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Nagel, Thomas, 1972. “War and Massacre”, *Philosophy and Public Affairs*, 1 (2): 123–144.
-* Narveson, Jan, 1965. “Pacifism: A Philosophical Analysis”, *Ethics*, 75 (4): 259–271.
-* –––, 1968. “Is Pacifism Consistent?”, *Ethics*, 78 (2): 148–150.
-* –––, 2003. “Terrorism and Pacifism: Why We Should Condemn Both”, *International Journal of Applied Philosophy*, 17 (2): 157–172.
-* –––, 2017. “Pacifism: Does it Make Moral Sense?” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Neu, Michael, 2011. “Why There is No Such Thing as Just War Pacifism and Why Just War Theorists and Pacifists Can Talk Nonetheless” *Social Theory and Practice*37: 3 (July), 413–433.
-* Noddings, Nel, 2010. *The Maternal Factor*, Berkeley: University of California Press.
-* Norman, Richard, 1988. “The Case for Pacifism”, *Journal of Applied Philosophy*, 5: 197–210.
-* Obama, Barack, 2009. Nobel Peace Prize Lecture. [Available online](https://www.nobelprize.org/prizes/peace/2009/obama/lecture/)
-* Orend, Brian, 2016. *The Morality of War* 2nd edition, Peterborough, Ontario: Broadview.
-* –––, 2000. *War and International Justice: A Kantian Perspective*, Waterloo, Ontario: Wilfrid Laurier University Press.
-* –––, 2001. “Evaluating Pacifism”, *Dialogue*, 40: 3–24.
-* Orosco, José-Antonio, 2017. “Pacifism as Pathology” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Orwell, George, 2002. “Politics and the English Language”, in George Orwell, *Essays*, New York: Alfred Knopf.
-* Pinker, Steven, 2011. *The Better Angels of our Nature*, New York: Viking.
-* Plato. *The Collected Dialogues of Plato*, Princeton: Princeton University Press, 1961.
-* Pointer, Richard W., 2020. *Pacifist Prophet: Papunhank and the Quest for Peace in Early America*. Lincoln, NE: University of Nebraska Press.
-* Presbey, Gail, 2017. “Philosophy of Nonviolence in Africa” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Ramsey, Paul and Stanley Hauerwas, 1988. *Speak up for Just War or Pacifism*, University Park: Pennsylvania State University Press.
-* –––, 1968. *The Just War*, New York: Charles Scribner’s Sons.
-* –––, 1985. *War and the Christian Conscience*, Durham, NC: Duke University Press.
-* Rawls, John, 1971. *A Theory of Justice*, Cambridge: Harvard University Press.
-* –––, 1999. *The Law of Peoples*, Cambridge: Harvard University Press.
-* Reader, Soran, 2000. “Making Pacifism Plausible” *Journal of Applied Philosophy*, 17: 169–80.
-* Reitan, Eric, 2000. “Personally Committed to Nonviolence: Toward a Vindication of Personal Pacifism”, *The Acorn*, 10 (2): 30–41.
-* –––, 2000–2001. “Eric Reitan Replies [to Peter Brock]: Personal Pacifism, Another Look”, *The Acorn* 11 (1): 59–61.
-* –––, 2002. “The Moral Justification of Violence: Epistemic Considerations”, *Social Theory and Practice*, 28: 445–64.
-* –––, 2017. “Personal Pacifism and Conscientious Objection” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Rodin, David, 2002. *War and Self-Defense*, Oxford: Oxford University Press.
-* Rousseau, Jean-Jacques. *A Lasting Peace Through the Federation of Europe* and *The State of War*, London: Constable and Co., 1917 [[Available online](http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php&title=1010)].
-* Ruddick, Sara, 1995 *Maternal Thinking: Toward a Politics of Peace*, 2nd Edition, Boston: Beacon Press.
-* Russell, Bertrand, 1915. “The Ethics of War”, *International Journal of Ethics*, 25 (2): 127–142.
-* –––, 1943. “The Future of Pacifism”, *The American Scholar*, 13: 7–13.
-* –––, 2003. *Man’s Peril, 1954–55*, in *The Collected Papers of Bertrand Russell: Volume 28*, London: Routledge.
-* Ruttan, Vernon W., 2006. *Is War Necessary for Economic Growth? Military Procurement and Technology Development*, New York: Oxford University Press.
-* Ryan, Cheyney C., 1983. “Self-Defense, Pacifism and Rights”, *Ethics*, 93: 508–24.
-* –––, 2017. “The Pacifist Critique of the Just War Tradition” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Sanneh, Lamin, 2016. *Beyond Jihad: The Pacifist Tradition of West African Islam*. New York: Oxford University Press.
-* Schall, James V, 2004. “When War Must Be the Answer”, *Policy Review*, 128: 59–70.
-* Schell, Jonathan, 2003. *The Unconquerable World: Power, Nonviolence, and the Will of the People*, New York: Henry Holt.
-* Schweitzer, Albert, 1967. *Civilization and Ethics*, London: Unwin Books.
-* Shadi, Heydar, 2017. *Islamic Peace Ethics: Legitimate and Illegitimate Violence in Contemporary Islamic Thought*, Baden-Baden, Germany: Nomos.
-* Sharp, Gene, 1973. *The Politics of Nonviolent Action*, Boston: Porter Sargent.
-* –––, 1983. *Making the Abolition of War a Realistic Goal*, New York: Institute for World Order.
-* –––, 2005. *Waging Nonviolent Struggle*, Boston: Porter Sargent.
-* Sims, Gregory K. and Linden L. Nelson, Mindy R. Puopolo (eds.), 2014. *Personal Peacefulness: Psychological Perspectives*, New York: Spring, 2014.
-* Steffen, Lloyd, 2017. “The Death Penalty and Nonviolence: Justice Beyond Empathy” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Sterba, James, 1998. *Justice for Here and Now*, Cambridge: Cambridge University Press.
-* Teichman, Jenny, 1986. *Pacifism and the Just War*, Oxford: Basil Blackwell.
-* Teson, Fernando, 2006. “The Liberal Case for Humanitarian Intervention”, in Larry May *et al*. (eds.), *The Morality of War: Classical and Contemporary Readings*, Upper Saddle River, NJ: Prentice Hall.
-* Thoreau, Henry David, 2000. “Civil Disobedience”, in *Walden and Other Writings*, New York: The Modern Library.
-* Tolstoy, Leo, 1906. *The End of the Age*, London: William Heinemann.
+* Ackerman, Peter and Jack Duvall, _A Force More Powerful_, New York: St. Martin’s Press, 2000.
+* Alexandra, Andrew, 2003. “Political Pacifism”, _Social Theory and Practice_, 29 (4): 589–606.
+* Allen, Douglas, 2022. “The Moral, Philosophical, and Spiritual Basis of Gandhi’s Transformative Nonviolence” in Veena Howard (ed.), _Gandhi’s Global Legacy_, Lanham, MD: Lexington Books.
+* Alvi, Hayat, 2021. _Nonviolent Activism in Islam: The Message of Abdul Kalam Azam_, Lanham, MD: Rowman and Littlefield.
+* Anscombe, G.E.M., 1981a. “War and Murder” in _Ethics, Religion, and Politics_, Minneapolis: University of Minnesota Press.
+* –––, 1981b. “Mr. Truman’s Degree” in _Ethics, Religion, and Politics_, Minneapolis: University of Minnesota Press.
+* Aron, Raymond, 1966. _Peace and War_, New York: Doubleday.
+* Atack, Iain, 2001. “From Pacifism to War Resistance” _Peace and Change_, 26 (2): 177–186.
+* Augustine, _City of God_, New York: Doubleday, 1958.
+* Bazargan, Saba, 2014. “Varieties of Contingent Pacifism in War” in Helen Frowe and Gerald Lang (eds.) _How We Fight: Ethics in War_, Oxford: Oxford University Press.
+* Bellamy, Alex J., 2019. _World Peace: (And How to Achieve It)_, Oxford: Oxford University Press.
+* Benjamin, Martin, 1973. “Pacifism for Pragmatists” _Ethics_, 83 (3): 196–213.
+* Bentham, Jeremy, 1789. “A Plan for Universal and Perpetual Peace”, in _Principles of International Law_, in _The Works of Jeremy Bentham_, New York: Russell & Russell, Inc.(reprint 1962).
+* Bickerton, Ian, 2011. _The Illusion of Victory: The True Costs of War_, Melbourne: Melbourne University Press.
+* Boersema, David, 2017. “Positive and Negative Peace” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Brandt, Richard, 1972. “Utilitarianism and the Rules of War”, _Philosophy and Public Affairs_, 1 (2): 145–165
+* Brock, Peter, 1998. _Varieties of Pacifism: A Survey from Antiquity to the Outset of the Twentieth Century_. Syracuse, NY: Syracuse University Press.
+* –––, 2000–2001. “Personal Pacifism: In Historical Perspective” _The Acorn_, 9 (1): 53–59.
+* Cady, Duane L., 1989. _From Warism to Pacifism_, Philadelphia: Temple University Press.
+* Chan, David, K., 2012. _Beyond Just War: A Virtue Ethics Approach_ New York: Palgrave MacMillan.
+* –––, 2017. “Virtue Ethics and Nonviolence” in in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Chapple, Christopher Key, 1993. _Nonviolence to Animals, Earth, and Self in Asian Traditions_, Albany, NY: State University of New York Press.
+* –––, 2017. “Animals, Vegetarianism, and Nonviolence” in in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Chenoweth, Erica and Maria J. Stephan, _Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict_, New York: Columbia University Press, 2011.
+* Christoyannopoulos, Alexandre, 2020. _Tolstoy’s Political Thought: Christian Anarcho-Pacifist Iconoclasm Then and Now_, New York: Routledge.
+* Churchill, Ward and Mike Ryan, 1998. _Pacifism as Pathology_, Winnipeg: Arbeiter Ring.
+* Cochran, David Carroll, 1996. “War-Pacifism” _Social Theory and Practice_, 22: 161–80.
+* Cole, Juan, (ed.), 2021. _Peace Movements in Islam_. London: Bloomsbury.
+* Cortright, David, 2008. _Peace: A History of Movements and Ideas_, Cambridge: Cambridge University Press, 2008.
+* Dalai Lama, 1999. _Ethics for the New Millennium_, New York: Riverhead Books.
+* Dallmayr, Fred, 2004. _Peace Talks—Who Will Listen?_, Notre Dame: University of Notre Dame Press.
+* Davenport Christian, and Erik Melander, Patrick M. Regan, 2018. _The Peace Continuum: What it is and How to Study it._ Oxford: Oxford University Press.
+* Dombrowski, Daniel, 1991. _Christian Pacifism_, Philadelphia: Temple University Press.
+* Dower, Nigel, 2009. _The Ethics of War and Peace_, Cambridge: Polity Press.
+* Doyle, Michael, 1997. _Ways of War and Peace_, New York: WW Norton and Co.
+* Draper, Kai 2016. _War and Individual Rights: The Foundations of Just War Theory_, Oxford: Oxford University Press.
+* Einstein, Albert, 1954. _Ideas and Opinions_, New York: Random House.
+* Erasmus. “The Complaint of Peace”, in _The Essential Erasmus_, John P. Dolan (ed.), New York: Penguin, 1983.
+* –––. “War and the Christian Prince”, in _War and Christian Ethics_, 2nd edition, Arthur F. Holmes (ed.), Grand Rapids, MI: Baker Academic, 2005.
+* Fabre, Cécile, 2012. _Cosmopolitan War_, Oxford: Oxford University Press.
+* Fabre, Cécile and Seth Lazar (eds.), 2014. _The Morality of Defensive War_, Oxford: Oxford University Press.
+* Fahey, Joseph J., 1997. “Varieties of Pacifism” in _Protest, Power, and Change: An Encyclopedia of Nonviolent Action from ACT-UP to Women’s Suffrage_, Roger S. Powers, William B. Voegele, Christopher Kruegler, and Ronald M. McCarthy (eds.), New York: Taylor and Francis.
+* Fanon, Frantz, 2004. _The Wretched of the Earth_, New York: Grove/Atlantic. With preface by Jean-Paul Sartre.
+* Fiala, Andrew, 2004a. “Citizenship, Epistemology, and the Just War Theory”, in _Logos: A Journal of Catholic Thought and Culture_, 7 (2): 100–117.
+* –––, 2004b. _Practical Pacifism_, New York: Algora Press.
+* –––, 2005. “Practical Pacifism after the War in Iraq”, _Journal for the Study of Peace and Conflict_, Wisconsin Institute Peace and Conflict Studies, 2004–2005 Annual Edition, pp. 90–100.
+* –––, 2007. _What Would Jesus Really Do? The Power and Limits of Jesus’ Moral Teachings_, Lanham, MD: Rowman and Littlefield.
+* –––, 2008. _The Just War Myth: The Moral Illusions of War_, Lanham, MD: Rowman and Littlefield.
+* –––, 2010. _Public War, Private Conscience_, London: Continuum.
+* –––, 2013. _Against Religion, Wars, and States_, Lanham, MD: Rowman and Littlefield.
+* –––, 2014. “Contingent Pacifism and Contingently Pacifist Conclusions” _The Journal of Social Philosophy_ 45: 4 (Winter), 463–477.
+* –––, 2018a. _Transformative Pacifism: Critical Theory and Practice_ London: Bloomsbury.
+* –––,2018b. “The Pacifist Tradition and Pacifism as Transformative and Critical Theory” _The Acorn_ 18(1/2): 5-28.
+* –––2022a. “Peace as Intrinsic Value: The Pacifist Intuition and Intuitive Pacifism” _Peace & Change_, 47(2): 152-69.
+* –––, 2022b. “Was Gandhi a Pacifist? Decolonizing Pacifism While Unpacking the Social Ontology of Nonviolence” in Veena Howard (ed.), _Gandhi’s Global Legacy_. Lanham, MD: Lexington Books.
+* Fiala, Andrew and Jennifer Kling, 2023, _Can War Be Justified: A Debate_, New York: Routledge.
+* Fitz-Gibbon, Andrew, 2010. _Positive Peace: Reflections on Peace Education, Nonviolence, and Social Change_, Amsterdam/New York: Rodopi.
+* Fox, Michael Allen, 2014. _Understanding Peace: A Comprehensive Introduction_, New York/London: Routledge.
+* Francis (Pope Francis), 2017. “World Day of Peace Message (2017)”[Available online](https://www.vatican.va/content/francesco/en/messages/peace/documents/papa-francesco\_20161208\_messaggio-l-giornata-mondiale-pace-2017.html/)
+* French, Shannon E., 2001. “With Your Shield or on It: Challenging the Pacifist Mother Archetype”, _Public Affairs Quarterly_, 15: 51–63.
+* Frowe, Helen, 2014. _Defensive Killing_, Oxford: Oxford University Press.
+* Frowe, Helen and Gerald Lang (eds.), 2014. _How We Fight: Ethics in War_, Oxford: Oxford University Press.
+* Fukuyama, Francis, 1992. _The End of History and the Last Man_, New York: The Free Press.
+* Galtung, Johan, 1969. “Violence, Peace, and Peace Research” _The Journal of Peace Research_, 6(3): 167–191.
+* Gandhi, Mohandas K., 1972. _Non-Violence in Peace and War, 1942–1949_, New York: Garland Press.
+* –––, 1993. _Autobiography: The Story of My Experiments with Truth_, Boston: Beacon Press.
+* Glover, Jonathan, 1977. _Causing Death and Saving Lives_, New York: Penguin.
+* –––, 2000. _Humanity: A Moral History of the 20th Century_, New Haven: Yale University Press.
+* Goldstein, Joshua S., 2011. _Winning the War on War: The Decline of Armed Conflict Worldwide_, New York: Penguin.
+* Gursozlu, Fuat, 2017. “The Triumph of the Liberal Democratic Peace and the Dangers of Its Success” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Hall Fitz-Gibbon, Jane, 2017. “Children, Violence, and Nonviolence” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Hallward, Maia Carter and Julie M. Norman, _Understanding Nonviolence_. Malden, MA: Polity, 2015.
+* Hanh, Thich Nhat, 1987. _Being Peace_, Berkeley, CA: Parallax Press.
+* Hauerwas, Stanley, 1984. _Should War be Eliminated?_, Milwaukee, WI: Marquette University Press.
+* –––, 1988, “Epilogue: A Pacifist Response to the Bishops” in Paul Ramsey, _Speak up for Just War or Pacifism_, Eugene, OR: Wipf and Stock.
+* –––, 2004. _Performing the Faith: Bonhoeffer and the Practice of Nonviolence_, Grand Rapids: Brazos.
+* –––, 2006. “Pacifism: Some Philosophical Considerations”, in Larry May _et al_. (eds.), _The Morality of War: Classical and Contemporary Readings_, Upper Saddle River, NJ: Prentice Hall.
+* Hobbes, Thomas, 1985. _Leviathan_, London: Penguin Classics.
+* Holmes, Robert, 1989. _On War and Morality_, Princeton: Princeton University Press.
+* –––, 1994. “Pacifism and Wartime Innocence: A Response”, _Social Theory and Practice_, 20: 193–202.
+* –––, 1999. “Pacifism for Nonpacifists”, _Journal of Social Philosophy_, 30 (3): 387–400.
+* –––, 2013. _The Ethics of Nonviolence: Essays by Robert Holmes_ ,ed. by P. Cicovacki. London: Bloomsbury.
+* –––, 2015. “The Metaethics of Pacifism and Just War Theory” _The Philosophical Forum_ 46 (1): 3-16.
+* –––, 2017a. _Pacifism: A Philosophy of Nonviolence_ London: Bloomsbury.
+* –––, 2017b. “Pacifism and the Concept of Morality”in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Howard, Veena, 2017. “Nonviolence in the Dharma Traditions: Hinduism, Jainism, and Buddhism” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Howes, Dustin Ells, 2013, “The Failure of Pacifism and the Success of Nonviolence” _Perspectives on Politics_ 11(2): 427-446.
+* Jackson, Richard, 2018. “Pacifism: The Anatomy of a Subjugated Knowledge” _Critical Studies on Security_ 6(2): 160-175.
+* –––, 2021. “Pacifism in International Relations” in _The Oxford Handbook of Peacebuilding, Statebuilding, and Peace Formation_, Oliver P. Richmond and Gëzim Visoka (eds.), Oxford: Oxford University Press.
+* James, William, 1910 “The Moral Equivalent of War”, _McClure’s Magazine_, 35: 463–68; reprinted in Larry May, Eric Rovie, and Steve Viner (eds.), _The Morality of War_, Upper Saddle River, NJ: Prentice Hall, 2006.
+* Jahanbegloo, Ramin, 2017. “Peace and Nonviolence in Islam” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Jensen, Derek, 2006. _Endgame_, New York: Seven Stories Press.
+* Johnson, James Turner, 1981. _Just War Tradition and the Restraint of War_, Princeton: Princeton University Press.
+* Kant, Immanuel. _Foundations of the Metaphysics of Morals_, New York: MacMillan Publishing, 1990.
+* –––. _Perpetual Peace_, in _Kant’s Political Writings_. Cambridge: Cambridge University Press, 1991.
+* Khan, Maulana Wahiddudin, 2015, _The Age of Peace_, New Delhi: CPS International.
+* King Jr., Martin Luther, 1986. _A Testament of Hope: The Essential Writings of Martin Luther King Jr._, James Melvin Washington (ed.), San Francisco: Harper and Row.
+* Kurlansky, Mark, 2006. _Nonviolence: 25 Lessons Fromm the History of a Dangerous Idea_, New York: Modern Library.
+* Kusterman, Jorg, Tom Sauer, Dominiek Lootens, and Barbara Segaert (eds.), 2019. _Pacifism’s Appeal: Ethos, History, Politics_, New York: Palgrave MacMillan.
+* Lazar, Seth and Helen Frowe, 2018. _The Oxford Handbook of Ethics in War_, Oxford: Oxford University Press.
+* Lewis, C.S., 1965. “Why I am not a Pacifist”, in C.S. Lewis, _The Weight of Glory and Other Addresses_, New York: Macmillan.
+* Llewellyn, Joseph, 2018. “Building Emancipatory Peace through Anarcho-Pacifism,” _Critical Studies on Security_, 6(2): 259-272.
+* Luban, David, 1980. “Just War and Human Rights”, _Philosophy and Public Affairs_, 9 (2): 160–181.
+* –––, 2006. “The Romance of the Nation State” in Larry May _et al_. (eds.), _The Morality of War: Classical and Contemporary Readings_, Upper Saddle River, NJ: Prentice Hall.
+* Lucas, George Jr., 2006. “From Jus ad Bellum to Jus ad Pacem” in Larry May _et al_. (eds.), _The Morality of War: Classical and Contemporary Readings_, Upper Saddle River, NJ: Prentice Hall.
+* MacGregor, G.H.C., 1952. _The New Testament Basis of Pacifism_, London: Fellowship of Reconciliation.
+* Marcuse, Herbert, 1969. _Repressive Tolerance_, Boston: Beacon Press.
+* Martin, Benjamin, 1973. “Pacifism for Pragmatists,” _Ethics_, 83 (3): 196–213.
+* May, Larry, 2012. “Contingent Pacifism and Selective Refusal” _Journal of Social Philosophy_, 43(1): 1–18.
+* –––, 2015. _Contingent Pacifism: Revisiting Just War Theory_, Oxford: Oxford University Press.
+* –––, 2018. _The Cambridge Handbook of the Just War_, Cambridge: Cambridge University Press.
+* McMahan, Jeff, 2009. _Killing in War_, Oxford: Oxford University Press.
+* McDaniel, Jay, 2005. _Gandhi’s Hope: Learning From Other Religions as a Path to Peace_, Maryknoll, NY: Orbis.
+* Meisels, Tamar, 2018. _Contemporary Just War: Theory and Practice_, New York: Routledge.
+* Merton, Thomas, 1971. _Thomas Merton on Peace_, New York: McCall Publishing.
+* Miller, Richard B., 1991. _Interpretations of Conflict_, Chicago: University of Chicago Press.
+* Mondongal, Shameer, 2023. _Islamic Perspectives on International Conflict Resolution_. New York: Routledge.
+* Morrow, Paul, 2017. “Contingent Pacifism” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Nagel, Thomas, 1972. “War and Massacre”, _Philosophy and Public Affairs_, 1 (2): 123–144.
+* Narveson, Jan, 1965. “Pacifism: A Philosophical Analysis”, _Ethics_, 75 (4): 259–271.
+* –––, 1968. “Is Pacifism Consistent?”, _Ethics_, 78 (2): 148–150.
+* –––, 2003. “Terrorism and Pacifism: Why We Should Condemn Both”, _International Journal of Applied Philosophy_, 17 (2): 157–172.
+* –––, 2017. “Pacifism: Does it Make Moral Sense?” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Neu, Michael, 2011. “Why There is No Such Thing as Just War Pacifism and Why Just War Theorists and Pacifists Can Talk Nonetheless” _Social Theory and Practice_37: 3 (July), 413–433.
+* Noddings, Nel, 2010. _The Maternal Factor_, Berkeley: University of California Press.
+* Norman, Richard, 1988. “The Case for Pacifism”, _Journal of Applied Philosophy_, 5: 197–210.
+* Obama, Barack, 2009. Nobel Peace Prize Lecture. [Available online](https://www.nobelprize.org/prizes/peace/2009/obama/lecture/)
+* Orend, Brian, 2016. _The Morality of War_ 2nd edition, Peterborough, Ontario: Broadview.
+* –––, 2000. _War and International Justice: A Kantian Perspective_, Waterloo, Ontario: Wilfrid Laurier University Press.
+* –––, 2001. “Evaluating Pacifism”, _Dialogue_, 40: 3–24.
+* Orosco, José-Antonio, 2017. “Pacifism as Pathology” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Orwell, George, 2002. “Politics and the English Language”, in George Orwell, _Essays_, New York: Alfred Knopf.
+* Pinker, Steven, 2011. _The Better Angels of our Nature_, New York: Viking.
+* Plato. _The Collected Dialogues of Plato_, Princeton: Princeton University Press, 1961.
+* Pointer, Richard W., 2020. _Pacifist Prophet: Papunhank and the Quest for Peace in Early America_. Lincoln, NE: University of Nebraska Press.
+* Presbey, Gail, 2017. “Philosophy of Nonviolence in Africa” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Ramsey, Paul and Stanley Hauerwas, 1988. _Speak up for Just War or Pacifism_, University Park: Pennsylvania State University Press.
+* –––, 1968. _The Just War_, New York: Charles Scribner’s Sons.
+* –––, 1985. _War and the Christian Conscience_, Durham, NC: Duke University Press.
+* Rawls, John, 1971. _A Theory of Justice_, Cambridge: Harvard University Press.
+* –––, 1999. _The Law of Peoples_, Cambridge: Harvard University Press.
+* Reader, Soran, 2000. “Making Pacifism Plausible” _Journal of Applied Philosophy_, 17: 169–80.
+* Reitan, Eric, 2000. “Personally Committed to Nonviolence: Toward a Vindication of Personal Pacifism”, _The Acorn_, 10 (2): 30–41.
+* –––, 2000–2001. “Eric Reitan Replies \[to Peter Brock]: Personal Pacifism, Another Look”, _The Acorn_ 11 (1): 59–61.
+* –––, 2002. “The Moral Justification of Violence: Epistemic Considerations”, _Social Theory and Practice_, 28: 445–64.
+* –––, 2017. “Personal Pacifism and Conscientious Objection” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Rodin, David, 2002. _War and Self-Defense_, Oxford: Oxford University Press.
+* Rousseau, Jean-Jacques. _A Lasting Peace Through the Federation of Europe_ and _The State of War_, London: Constable and Co., 1917 \[[Available online](http://oll.libertyfund.org/index.php?option=com\_staticxt\&staticfile=show.php\&title=1010)].
+* Ruddick, Sara, 1995 _Maternal Thinking: Toward a Politics of Peace_, 2nd Edition, Boston: Beacon Press.
+* Russell, Bertrand, 1915. “The Ethics of War”, _International Journal of Ethics_, 25 (2): 127–142.
+* –––, 1943. “The Future of Pacifism”, _The American Scholar_, 13: 7–13.
+* –––, 2003. _Man’s Peril, 1954–55_, in _The Collected Papers of Bertrand Russell: Volume 28_, London: Routledge.
+* Ruttan, Vernon W., 2006. _Is War Necessary for Economic Growth? Military Procurement and Technology Development_, New York: Oxford University Press.
+* Ryan, Cheyney C., 1983. “Self-Defense, Pacifism and Rights”, _Ethics_, 93: 508–24.
+* –––, 2017. “The Pacifist Critique of the Just War Tradition” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Sanneh, Lamin, 2016. _Beyond Jihad: The Pacifist Tradition of West African Islam_. New York: Oxford University Press.
+* Schall, James V, 2004. “When War Must Be the Answer”, _Policy Review_, 128: 59–70.
+* Schell, Jonathan, 2003. _The Unconquerable World: Power, Nonviolence, and the Will of the People_, New York: Henry Holt.
+* Schweitzer, Albert, 1967. _Civilization and Ethics_, London: Unwin Books.
+* Shadi, Heydar, 2017. _Islamic Peace Ethics: Legitimate and Illegitimate Violence in Contemporary Islamic Thought_, Baden-Baden, Germany: Nomos.
+* Sharp, Gene, 1973. _The Politics of Nonviolent Action_, Boston: Porter Sargent.
+* –––, 1983. _Making the Abolition of War a Realistic Goal_, New York: Institute for World Order.
+* –––, 2005. _Waging Nonviolent Struggle_, Boston: Porter Sargent.
+* Sims, Gregory K. and Linden L. Nelson, Mindy R. Puopolo (eds.), 2014. _Personal Peacefulness: Psychological Perspectives_, New York: Spring, 2014.
+* Steffen, Lloyd, 2017. “The Death Penalty and Nonviolence: Justice Beyond Empathy” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Sterba, James, 1998. _Justice for Here and Now_, Cambridge: Cambridge University Press.
+* Teichman, Jenny, 1986. _Pacifism and the Just War_, Oxford: Basil Blackwell.
+* Teson, Fernando, 2006. “The Liberal Case for Humanitarian Intervention”, in Larry May _et al_. (eds.), _The Morality of War: Classical and Contemporary Readings_, Upper Saddle River, NJ: Prentice Hall.
+* Thoreau, Henry David, 2000. “Civil Disobedience”, in _Walden and Other Writings_, New York: The Modern Library.
+* Tolstoy, Leo, 1906. _The End of the Age_, London: William Heinemann.
 * U.S. Conference of Catholic Bishops, 1983. “The Challenge of Peace: God’s Promise and Our Response”, Washington, D.C.: United States Catholic Conference.
-* Vorobej, Mark, 1994. “Pacifism and Wartime Innocence”, *Social Theory and Practice*, 20: 171–91.
-* Walzer, Michael, 1977. *Just and Unjust Wars*, New York: Basic Books.
-* –––, 2004. *Arguing About War*, New Haven: Yale University Press.
-* Weigel, George, 1987. *Tranquillitas Ordinis*, Oxford University Press.
-* –––, 2002. “The Just War Tradition and the World after September 11”, *Logos: A Journal of Catholic Thought*, 5 (3): 13–44.
-* –––, 2003. “Moral Clarity in a Time of War”, *First Things*, 128: 20–27.
-* Weiss, Paul, 1943. “The Ethics of Pacifism”, *The Philosophical Review*, 51 (5): 476–496.
-* Woods, Mark, 2017. “Ecology and Pacifism” in *The Routledge Handbook of Pacifism and Nonviolence*, Andrew Fiala, (ed.), New York: Routledge.
-* Yoder, John Howard, 1971. *The Original Revolution*, Scottdale, PN: Herald Press.
-* –––, 1972. *The Politics of Jesus*, Grand Rapids, MI: William B. Erdmans Publishing Co.
-* –––, 1984. *When War is Unjust*, Minneapolis: Augsburg Publishing.
+* Vorobej, Mark, 1994. “Pacifism and Wartime Innocence”, _Social Theory and Practice_, 20: 171–91.
+* Walzer, Michael, 1977. _Just and Unjust Wars_, New York: Basic Books.
+* –––, 2004. _Arguing About War_, New Haven: Yale University Press.
+* Weigel, George, 1987. _Tranquillitas Ordinis_, Oxford University Press.
+* –––, 2002. “The Just War Tradition and the World after September 11”, _Logos: A Journal of Catholic Thought_, 5 (3): 13–44.
+* –––, 2003. “Moral Clarity in a Time of War”, _First Things_, 128: 20–27.
+* Weiss, Paul, 1943. “The Ethics of Pacifism”, _The Philosophical Review_, 51 (5): 476–496.
+* Woods, Mark, 2017. “Ecology and Pacifism” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
+* Yoder, John Howard, 1971. _The Original Revolution_, Scottdale, PN: Herald Press.
+* –––, 1972. _The Politics of Jesus_, Grand Rapids, MI: William B. Erdmans Publishing Co.
+* –––, 1984. _When War is Unjust_, Minneapolis: Augsburg Publishing.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=pacifism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/pacifism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=pacifism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/pacifism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=pacifism).                                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/pacifism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=pacifism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/pacifism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -503,8 +497,7 @@
 * [The Acorn: Philosophical Studies in Pacifism and Nonviolence](https://acornjournal.net/)
 * [Oxford Bibliographies: Pacifism](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0298.xml)
 * [Gandhi Collected Works](http://gandhiserve.org/e/cwmg/cwmg.htm)
-* [Gandhi Web site](http://www.mkgandhi.org/)
-  v* [Center for Global Nonkilling](http://www.nonkilling.org/)
+* [Gandhi Web site](http://www.mkgandhi.org/) v\* [Center for Global Nonkilling](http://www.nonkilling.org/)
 * [The King Center](http://www.thekingcenter.org/)
 * Journal of Pacifism and Nonviolence
 * [Just War Theory.com](http://www.justwartheory.com/)
@@ -512,7 +505,7 @@
 
 ## Related Entries
 
-[Addams, Jane](https://plato.stanford.edu/entries/addams-jane/) | [anarchism](https://plato.stanford.edu/entries/anarchism/) | [civil disobedience](https://plato.stanford.edu/entries/civil-disobedience/) | [ethics: in Indian Buddhism](https://plato.stanford.edu/entries/ethics-indian-buddhism/) | [James, William](https://plato.stanford.edu/entries/james/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [war](https://plato.stanford.edu/entries/war/)
+[Addams, Jane](https://plato.stanford.edu/entries/addams-jane/) | [anarchism](https://plato.stanford.edu/entries/anarchism/) | [civil disobedience](https://plato.stanford.edu/entries/civil-disobedience/) | [ethics: in Indian Buddhism](https://plato.stanford.edu/entries/ethics-indian-buddhism/) | [James, William](https://plato.stanford.edu/entries/james/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [war](https://plato.stanford.edu/entries/war/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Andrew Fiala](http://zimmer.csufresno.edu/~afiala) <[*afiala@csufresno.edu*](mailto:afiala%40csufresno%2eedu)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Andrew Fiala](http://zimmer.csufresno.edu/\~afiala) <[_afiala@csufresno.edu_](mailto:afiala%40csufresno%2eedu)>

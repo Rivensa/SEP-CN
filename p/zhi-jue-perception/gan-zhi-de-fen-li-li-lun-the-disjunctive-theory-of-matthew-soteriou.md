@@ -1,21 +1,18 @@
 # 感知的分离理论 the disjunctive theory of (Matthew Soteriou)
 
-
-*首次发表于2009年7月10日；实质性修订于2020年6月18日。*
+_首次发表于2009年7月10日；实质性修订于2020年6月18日。_
 
 知觉经验通常被分为以下三个广义类别：真实知觉、幻觉和幻觉。例如，当一个人有一个视觉经验，感觉到一个红色的物体，可能是真的看到了一个物体和它的红色（真实知觉），可能是看到了一个绿色的物体（幻觉），或者根本没有看到任何物体（幻觉）。许多人认为，在这三种情况下，应该给出相同的解释。持有分离问题的知觉理论的人否认了这一点。分离问题的人通常拒绝这样的说法，即所有这三种情况都有相同的经验，因为他们对真实知觉的性质持有与之不一致的观点。
 
 分离问题的人通常是天真实在主义者，他们认为当一个人感知世界时，感知的独立于心灵的对象，如桌子和树木，是经验的组成部分。在其他情况下，比如幻觉，这些对象似乎不可能是经验的组成部分。因此，根据天真实在主义的观点，所讨论的真实知觉和幻觉具有不同的性质：前者具有独立于心灵的对象作为组成部分，而后者则没有。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/perception-disjunctive/#Intr)
+* [1. 引言](https://plato.stanford.edu/entries/perception-disjunctive/#Intr)
 * [2. 分离问题的种类](https://plato.stanford.edu/entries/perception-disjunctive/#VariDisj)
-
   * [2.1 分离问题的表述方式](https://plato.stanford.edu/entries/perception-disjunctive/#WaysFormDisj)
   * [2.2 关于意向内容的分离问题](https://plato.stanford.edu/entries/perception-disjunctive/#DisjAbouInteCont)
   * [2.3 关于现象特征的分离问题](https://plato.stanford.edu/entries/perception-disjunctive/#DisjAbouPhenChar)
   * [2.4 认识论分离问题](https://plato.stanford.edu/entries/perception-disjunctive/#EpisDisj)
 * [3. 分离问题的论证](https://plato.stanford.edu/entries/perception-disjunctive/#ArguForDisj)
-
   * [3.1 作为默认观点的分离问题的论证](https://plato.stanford.edu/entries/perception-disjunctive/#ArguForDisjDefaView)
   * [3.2 一个认识论的论证](https://plato.stanford.edu/entries/perception-disjunctive/#EpisArgu)
   * [3.3 一个现象学的论证](https://plato.stanford.edu/entries/perception-disjunctive/#PhenArgu)
@@ -23,22 +20,20 @@
   * [3.5 一个来自指示性引用的论证](https://plato.stanford.edu/entries/perception-disjunctive/#ArguDemoRefe)
   * [3.6 分离问题的进一步动机](https://plato.stanford.edu/entries/perception-disjunctive/#FurtMotiForDisj)
 * [4. 对分离问题的反对意见](https://plato.stanford.edu/entries/perception-disjunctive/#ObjeDisj)
-
   * [4.1 共同种类主张的解释力量](https://plato.stanford.edu/entries/perception-disjunctive/#ExplPoweCommKindClai)
   * [4.2 反对分离问题的因果论证](https://plato.stanford.edu/entries/perception-disjunctive/#CausArguAgaiDisj)
   * [4.3 既非连结主义也非分离问题](https://plato.stanford.edu/entries/perception-disjunctive/#NeitConjNorDisj)
 * [5. 幻觉和错觉的分离问题解释](https://plato.stanford.edu/entries/perception-disjunctive/#DisjAccoHallIllu)
-
-  * [ 5.1 幻觉](https://plato.stanford.edu/entries/perception-disjunctive/#Hall)
-  * [ 5.2 幻觉](https://plato.stanford.edu/entries/perception-disjunctive/#Illu)
+  * [5.1 幻觉](https://plato.stanford.edu/entries/perception-disjunctive/#Hall)
+  * [5.2 幻觉](https://plato.stanford.edu/entries/perception-disjunctive/#Illu)
 * [6. 分离问题和知觉的因果理论](https://plato.stanford.edu/entries/perception-disjunctive/#DisjCausTheoPerc)
-* [ 7. 结论](https://plato.stanford.edu/entries/perception-disjunctive/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/perception-disjunctive/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/perception-disjunctive/#Aca)
+* [7. 结论](https://plato.stanford.edu/entries/perception-disjunctive/#Conc)
+* [参考文献](https://plato.stanford.edu/entries/perception-disjunctive/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/perception-disjunctive/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/perception-disjunctive/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/perception-disjunctive/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/perception-disjunctive/#Rel)
 
----
+***
 
 ## 1. 引言
 
@@ -82,7 +77,7 @@ Byrne和Logue（2008）提出，将“形而上学分离主义”这个标签保
 
 根据意向主义对感知经验的解释，我们的感知经验是具有意向内容的心理事件（或状态），它们代表世界是某种方式的。接受这种对感知经验的一般方法的分离问题者可能认为，真实的知觉具有幻觉所不能具有的意向内容。例如，这种分离问题者可能认为，真实的知觉的意向内容在本质上依赖于独立于心灵的对象，而幻觉的意向内容则不依赖于此。
 
-这种观点的一个途径是通过以下主张进行的：世界的真实知觉是一种具有意向内容的感知状态，其中包含指示性元素，这些元素指向被感知的环境中与心灵无关的物体，并且具有成功指向的具有真实性评估意向内容是依赖于对象的。根据这种观点，一个特定的经验E，它是对特定的与心灵无关的物体O的真实知觉，将具有一个包含成功指向O的指示性元素的意向内容，而一个不同的特定经验E*将具有具有相同真实性条件的意向内容，只有当它的意向内容也包含指向O的指示性元素时。如果E*是一种幻觉，它将没有一个具有成功指向O的指示性元素的意向内容，因此它将没有与E相同的真实性条件的意向内容。假设我们现在添加以下假设：如果两个经验具有在真实性条件上不同的意向内容，那么这不仅是这些心理事件不同的一种尊重，而且也意味着它们的心理种类不同。我们现在可以得出结论，真实知觉和幻觉是不同心理种类的经验。这个最后的假设需要明确说明，因为并非所有人都同意（例如，Burge 1993、2005和2010）。请注意，接受这个假设也会使人承认以下观点：如果E*是对数值上不同的物体O*的真实知觉，那么即使O和O*在感知上对主体来说是无法区分的，E和E*也应被视为不同心理种类的经验。（关于该假设的讨论，请参见Mehta 2014、Gomes和French 2016、Mehta和Garson 2016以及French和Gomes 2019）。
+这种观点的一个途径是通过以下主张进行的：世界的真实知觉是一种具有意向内容的感知状态，其中包含指示性元素，这些元素指向被感知的环境中与心灵无关的物体，并且具有成功指向的具有真实性评估意向内容是依赖于对象的。根据这种观点，一个特定的经验E，它是对特定的与心灵无关的物体O的真实知觉，将具有一个包含成功指向O的指示性元素的意向内容，而一个不同的特定经验E_将具有具有相同真实性条件的意向内容，只有当它的意向内容也包含指向O的指示性元素时。如果E_是一种幻觉，它将没有一个具有成功指向O的指示性元素的意向内容，因此它将没有与E相同的真实性条件的意向内容。假设我们现在添加以下假设：如果两个经验具有在真实性条件上不同的意向内容，那么这不仅是这些心理事件不同的一种尊重，而且也意味着它们的心理种类不同。我们现在可以得出结论，真实知觉和幻觉是不同心理种类的经验。这个最后的假设需要明确说明，因为并非所有人都同意（例如，Burge 1993、2005和2010）。请注意，接受这个假设也会使人承认以下观点：如果E_是对数值上不同的物体O_的真实知觉，那么即使O和O_在感知上对主体来说是无法区分的，E和E_也应被视为不同心理种类的经验。（关于该假设的讨论，请参见Mehta 2014、Gomes和French 2016、Mehta和Garson 2016以及French和Gomes 2019）。
 
 持有这种观点的人可能会声称，一个真实的知觉和一个幻觉可能具有相同的现象特征。因为他们可能会声称，尽管经验的意向内容不同，但它们可能具有相同的现象特征。根据拜恩和洛格采用的术语（见2.1.2节），这将使观点属于温和派。采用温和方法的人可能会声称，幻觉具有存在量化的意向内容，而真实的知觉也具有一层存在性的内容。然后他们可能会认为，这层存在性内容，无论一个人是否真实地感知世界，都为真实和幻觉经验提供了共同的心理因素。
 
@@ -314,184 +309,184 @@ H.P.格赖斯（1961）最初提出了 CTP 的主要论证。（该理论的其�
 
 ## Bibliography
 
-* Allen, Keith, 2015, “Hallucination and Imagination”, *Australasian Journal of Philosophy*, 93(2): 287–302.
-* –––, 2016, *A Naïve Realist Theory of Colour*, Oxford: Oxford University Press.
-* Antony, Louise, 2011, “The Openness of Illusion”, *Philosophical Issues*, 1: 25–44.
-* Austin, J.L., 1962, *Sense and Sensibilia*, Oxford: Oxford University Press.
-* Beck, Ori, 2019, “Rethinking Naïve Realism”, *Philosophical Studies*, 176(3): 607–633.
-* Brewer, Bill, 2000, *Perception and Reason*, Oxford: Oxford University Press.
-* –––, 2004, “Realism and the Nature of Perceptual Experience”, *Philosophical Issues*, 14(1): 61–77.
-* –––, 2006, “Perception and Content”, *European Journal of Philosophy*, 14(2): 165–181.
-* –––, 2008, “How to Account for Illusion”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 168–180.
-* –––, 2011, *Perception and its Objects*, Oxford: Oxford University Press.
-* –––, 2017a, “The Object View of Perception”, *Topoi*, 35(2): 215–227.
-* –––, 2017b, “Consciousness and Content in Perception”, *Philosophical Perspectives*, 31(1):41–54.
-* Brogaard, Berit, 2011,“Primitive Knowledge Disjunctivism”, *Philosophical Issues*, 21(1): 45–73.
-* Burge, Tyler, 1983, “Russell’s Problem and Intentional Identity”, in *Agent, Language, and the Structure of the World*, James E. Tomberlin (ed.). Indianapolis: Hackett Publishing Company, pp. 79–110.
-* –––, 1993, “Vision and Intentional Content”, in *John Searle and his Critics*, E. LePore and R. Van Gulick (eds.), Oxford: Blackwell, pp. 195–213.
-* –––, 2005, “Disjunctivism and Perceptual Psychology”, *Philosophical Topics*, 33: 1–78.
-* –––, 2010, *Origins of Objectivity*, Oxford: Oxford University Press.
-* –––, 2011, “Disjunctivism Again”, *Philosophical Explorations*, 14(1): 43–80.
-* Byrne, Alex, 2001, “Intentionalism Defended”, *Philosophical Review*, 110: 199–240.
-* –––, 2014, “McDowell and Wright on Anti-Scepticism etc.”, in Dylan Dodd and Elia Zardini (eds.), *Scepticism and Perceptual Justification*. Oxford: Oxford University Press, pp. 275–297.
-* Byrne, Alex and Logue, Heather, 2008, “Either/Or”, in *Disjunctivism: Perception, Action, Knowledge*, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 57–94.
-* Byrne, Alex and Logue, Heather (eds.), 2009, *Disjunctivism: Contemporary Readings*, Cambridge, MA: MIT Press.
-* Campbell, J., 2002a, *Reference and Consciousness*, Oxford: Oxford University Press.
-* –––, 2002b, “Berkeley’s Puzzle”, in *Conceivability and Possibility*, Tamar Szabo Gendler and John O’Leary Hawthorne (eds.), Oxford: Oxford University Press, pp. 127–144.
-* –––, 2005, “Précis of *Reference and Consciousness*, and Replies to Neil Manson and Georges Rey”, *Philosophical Studies*, 126: 103–114, 145–153, 155–162.
-* –––, 2011,“Relational vs. Kantian Responses to Berkeley’s Puzzle”, in *Perception, Causation and Objectivity*, N. Eilan, H. Lerman and J. Roessler (eds.), Oxford: Oxford University Press, pp. 35–50.
-* Campbell, John and Cassam, Quassim, 2014, *Berkeley’s Puzzle: what does experience teach us?* Oxford: Oxford University Press.
-* Cassam, Q., 2011, “Tackling Berkeley’s Puzzle”, in *Perception, Causation and Objectivity*, N. Eilan, H. Lerman and J. Roessler (eds.), Oxford: Oxford University Press, pp. 18–34.
-* Child, William, 1992, “Vision and Experience: The Causal Theory and the Disjunctive Conception”, *Philosophical Quarterly*, 42(168): 297–316.
-* –––, 1994, *Causality, Interpretation and the Mind*, Oxford: Oxford University Press.
-* –––, 2011,“Vision and Causal Understanding”, in *Perception, Causation and Objectivity*, N. Eilan, H. Lerman and J. Roessler (eds.), Oxford: Oxford University Press, pp. 161–180.
-* Christy, Justin, 2019, “Naïve Realism: A Simple Approach”, *Philosophical Studies*, 176(8): 2167–2185.
-* Conee, Earl, 2007,“Disjunctivism and Anti-Skepticism”, *Philosophical Issues*, 17(1): 16–36.
-* Currie, G., and Ravenscroft, I., 2002, *Recreative Minds*, Oxford: Oxford University Press.
-* Dancy, Jonathan, 1995, “Arguments from Illusion”, *The Philosophical Quarterly*, 45: 421–38.
-* –––, 2008, “On How to Act—Disjunctively”, in *Disjunctivism: Perception, Action, Knowledge*, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 262–282.
-* Davies, M., 1992, “Perceptual Content and Local Supervenience”, *Proceedings of the Aristotelian Society* (New Series), 92: 21–45.
-* Dorsch, Fabian, 2010,“Transparency and Imagining Seeing”, *Philosophical Explorations*, 13(3): 173–200.
-* Dretske, Fred, 1995, *Naturalizing the Mind*, Cambridge, MA: MIT Press.
-* Evans, Gareth, 1981, “Understanding Demonstratives”, in *Meaning and Understanding*, H. Parret and J. Bouveresse (eds.), Berlin: W. de Gruyter, pp. 291–321.
-* –––, 1982, *The Varieties of Reference*, Oxford: Clarendon Press.
-* Farkas, K., 2006, “Indiscriminability and the Sameness of Appearance”, *Proceedings of the Aristotelian Society* (New Series), 106: 39–59.
-* Fish, William C., 2008, “Disjunctivism, Indistinguishability, and the Nature of Hallucination”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 144–167.
-* –––, 2009, *Perception, Hallucination, and Illusion*, Oxford: Oxford University Press.
-* French, Craig, 2018, “Epistemological Disjunctivism and its Representational Commitments”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), *New Issues in Epistemological Disjunctivism*, London: Routledge, pp. 169–193.
-* French, Craig, and Gomes, Anil, 2019, “How Naïve Realism Can Explain Both the Particularity and the Generality of Experience”, *Philosophical Quarterly*, 69(275): 41–63.
-* Genone, James, 2014, “Appearance and Illusion”, *Mind*, 123(490): 329–376.
-* Goldman, Alvin, 1979, “What is Justified Belief?”, in *Justification and Knowledge*, George Pappas (ed.), Dordrecht: Reidel, pp. 1–23.
-* Gomes, Anil, and French, Craig, 2016, “On the Particularity of Experience”, *Philosophical Studies*, 173(2): 451–460.
-* Grice, H.P., 1961, “The Causal Theory of Perception”, *Proceedings of the Aristotelian Society, Supplementary Volumes*, 35: 121–52.
-* Haddock, Adrian, 2011,“The Disjunctive Conception of Perceiving”, *Philosophical Explorations*, 14(1): 23–42.
-* –––, 2019, “Disjunctivism, Skepticism, and the First Person”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), *New Issues in Epistemological Disjunctivism*, London: Routledge, pp. 259–278.
-* Haddock, Adrian and Macpherson, Fiona, 2008a, *Disjunctivism: Perception, Action, Knowledge*, Oxford: Oxford University Press.
-* Haddock, Adrian and Macpherson, Fiona, 2008b, “Introduction: Varieties of Disjunctivism”, in *Disjunctivism: Perception, Action, Knowledge*, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 1–24.
-* Harman, Gilbert, 1990, “The Intrinsic Quality of Experience”, in *Philosophical Perspectives*, 4, J. Tomberlin (ed.), Atascadero, CA: Ridgeview, pp. 31–52.
-* Hawthorne, John and Kovakovich, Karson, 2006, “Disjunctivism”, *Proceedings of the Aristotelian Society, Supplementary Volumes*, 80: 145–183.
-* Hellie, Benj, 2007, “Factive Phenomenal Characters”, *Philosophical Perspectives*, 21: 259–306.
-* –––, 2013,“The Multidisjunctive Conception of Hallucination”, in *Hallucination: Philosophy and Psychology*, F. MacPherson and D. Platchias (eds.), Cambridge, MA: MIT Press, pp. 149–174.
-* Hinton, J.M., 1967, “Visual Experiences”, *Mind*, 76(April): 217–227.
-* –––, 1973, *Experiences: An Inquiry into Some Ambiguities*, Oxford: Clarendon Press.
-* –––, 1980, “Phenomenological Specimenism”, *Analysis*, 40(January): 37–41.
-* Hornsby, J. 2008, “A Disjunctive Conception of Acting for Reasons”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 244–261.
-* Ichikawa, Jonathan, 2009, “Dreaming and Imagination”, *Mind and Language*, 24(1): 103–121.
-* Johnston, Mark, 2004, “The Obscure Object of Hallucination”, *Philosophical Studies*, 103: 113–83.
-* Kalderon, Mark, 2011, “Color Illusion”, *Noûs*, 45(4): 751–775.
-* Langsam, Harold, 1997, “The Theory of Appearing Defended”, *Philosophical Studies*, 120: 33–59.
-* –––, 2017, “The Intuitive Case for Naïve Realism”, *Philosophical Explorations*, 20(1): 106–122.
-* Littlejohn, Clayton, 2019, “Niether/Nor”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), *New Issues in Epistemological Disjunctivism*, London: Routledge, pp. 215–240.
-* Loar, Brian, 2002, “Transparent Experience and the Availability of Qualia”, in *Consciousness: New Philosophical Perspectives*, A. Jokic and Q. Smith (eds.), Oxford: Oxford University Press, pp. 77–96.
-* Logue, Heather, 2012a, “What should the naïve realist say about total hallucinations?”, *Philosophical Perspectives*, 26(1): 173–199.
-* –––, 2012b, “Why Naïve Realsim?”, *Proceedings of the Aristotelian Society*, 112: 211–237.
-* –––, 2013, “Good News for the Disjunctivist about (one of) the Bad Cases”, *Philosophy and Phenomenological Research*, 86(1): 105–133.
-* –––, 2014, “Experiential Content and Naïve Realism: A Reconcilliation”, in Berit Brogaard (ed.), *Does Perception Have Content?* Oxford: Oxford Unicersity Press, pp. 220–241.
-* Longworth, Guy, 2019, “Settling a Question: Austin and Disjunctivism”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), *New Issues in Epistemological Disjunctivism*, London: Routledge, pp. 131–150.
-* Lowe, E. J., 2008, “Against Disjunctivism”, in *Disjunctivism: Perception, Action, Knowledge*, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 95–111.
-* Martin, M.G.F., 1997, “The Reality of Appearances”, in *Thought and Ontology*, M. Sainsbury (ed.), Milan: Franco Angeli, pp. 77–96.
-* –––, 1998, “Setting Things Before the Mind”, in *Contemporary Issues in the Philosophy of Mind*, A. O’Hear (ed.), Cambridge: Cambridge University Press, pp. 157–179.
-* –––, 2001, “Out of the Past: episodic recall as retained acquaintance”, in *Time and Memory*, C. Hoerl and T. McCormack (eds.), Oxford: Oxford University Press, pp. 257–284.
-* –––, 2002, “The Transparency of Experience”, *Mind and Language*, 17: 376–425.
-* –––, 2003, “Particular Thoughts and Singular Thought”, *Thought and Language*, in A. O’Hear (ed.), Cambridge: Cambridge University Press, pp. 173–214.
-* –––, 2004, “The Limits of Self-Awareness”, *Philosophical Studies*, 120: 37–89.
-* –––, 2006, “On Being Alienated”, in *Perceptual Experience*, Tamar S. Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, pp. 354–410.
-* McDowell, John, 1982, “Criteria, Defeasibility and Knowledge”, *Proceedings of the British Academy*, 68: 455–79.
-* –––, 1984, “*De Re* Senses”, *Philosophical Quarterly*, 34: 325–363; reprinted in *Frege: Tradition and Influence*, C. Wright (ed.), Oxford: Blackwell, pp. 98–109.
-* –––, 1987, “Singular Thought and the Extent of Inner Space”, in *Subject, Thought and Context*, Pettit and McDowell (eds.), Oxford: Clarendon Press, pp. 137–168.
-* –––, 1994, *Mind and World*, Cambridge, Mass.: Harvard University Press.
-* –––, 2008, “The Disjunctive Conception of Experience as Material for a Transcendental Argument”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 376–389.
-* –––, 2010, “Tyler Burge on Disjunctivism”, *Philosophical Explorations*, 13(3): 243–255.
-* –––, 2013, “Tyler Burge on Disjunctivism (II)”, *Philosophical Explorations*, 16(3): 259–279.
-* McGinn, Colin, 1982, *The Character of Mind*, Oxford: Oxford University Press.
-* Mehta, Neil, 2014, “The Limited Role of Particulars in Phenomenal Experience”, *Journal of Philosophy*, 111(6): 311–331.
-* Mehta, Neil, and Ganson, Todd, 2016, “On the Generality of Experience: a reply to French and Gomes”, *Philosophical Studies*, 173(12): 3223–3229.
-* Millar, Alan, 1996, “The Idea of Experience”, *Proceedings of the Aristotelian Society* (New Series), 97: 75–90.
-* –––, 2007, “What the Disjunctivist is Right About”, *Philosophy and Phenomenological Research*, 74(1): 176–198.
-* –––, 2008, “Perceptual-recognitional Abilities and Perceptual Knowledge”, in *Disjunctivism: Perception, Action, Knowledge*, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 330–347.
-* Millar, Boyd, 2015, “Naïve Realism and Illusion”, *Ergo: An Open Access Journal of Philosophy*, 2: 607–625.
-* Mitova, Veli, 2019, “Either Epistemological or Metaphysical Disjunctivism”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), *New Issues in Epistemological Disjunctivism*, London: Routledge, pp. 194–214.
-* Nagel, Thomas, 1974, “What is It Like to Be a Bat?”, *Philosophical Review*, 83(October): 435–450.
-* Neta, Ram, 2008, “In Defence of Disjunctivism”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 311–329.
-* –––,2019, “Disjunctivism and Credence”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), *New Issues in Epistemological Disjunctivism*, London: Routledge, pp. 241–258.
-* Noordhof, P., 2002, “Imagining Objects and Imagining Experiences”, *Mind and Language*, 17: 426–455.
-* Nudds, M., 2009, “Recent Work in Perception: Naïve Realism and its Opponents”, *Analysis*, 69: 334–346.
-* Pautz, Adam, 2010, “Why Explain Visual Experience in terms of Content?”, in *Perceiving the World*, B. Nanay(ed.), Oxford: Oxford University Press, pp. 254–310.
-* –––, 2011, “Can Disjunctivists Explain our Access to the Sensible World?”, *Philosophical Issues*, 21: 384–433.
-* –––, forthcoming, “Naïve Realism and the Science of Consciousness”, *Analytic Philosophy*, [preprint available online](https://philpapers.org/archive/PAUNRA-2.pdf).
-* Peacocke, Christopher, 1985, “Imagination, Experience and Possibility”, in *Essays on Berkeley*, J. Foster and H. Robinson (eds.), Oxford: Clarendon Press, pp. 19–35.
-* –––, 1992, *A Study of Concepts*, Cambridge, MA: MIT Press.
-* –––, 1993, “Externalist Explanation”, *Proceedings of the Aristotelian Society* (New Series), 93: 203–230.
-* Pears, David F., 1976, “The Causal Conditions of Perception”, *Synthese*, 33(June): 25–40.
-* Phillips, Ian, 2016, “Naïve Realism and the Science of (Some) Illusions”, *Philosophical Topics*, 44(2): 353–380.
-* Pritchard, Duncan, 2008, “McDowellian Neo-Mooreanism”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 283–310.
-* –––, 2012, *Epistemological Disjunctivism*, Oxford: Oxford University Press.
-* Putnam, H., 1999, *The Threefold Chord*, New York: Columbia University Press.
-* Raleigh, Thomas, 2015, “Phenomenology Without Representation”, *European Journal of Philosophy*, 23(4): 1209–1237.
-* Rey, G., 2005, “Explanation, Not Experience: Commentary on John Campbell’s *Reference and Consciousness*”, *Philosophical Studies*, 126: 131–143.
-* Robinson, Howard, 1985, “The General Form of the Argument for Berkeleian Idealism”, In *Essays on Berkeley: A Tercentennial Celebration*, J. Foster and H. Robinson (eds.), Oxford: Clarendon Press, pp. 163–186.
-* –––, 1994, *Perception*, London: Routledge.
-* Ruben, D.H., 2008, “Disjunctive Theories of Perception and Action”, in *Disjunctivism: Perception, Action, Knowledge*, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 227–243.
-* Schellenberg, Susanna, 2010, “The Particularity and Phenomenology of Perceptual Experience”, *Philosophical Studies*, 149(1): 19–48.
-* –––, 2013, “Externalism and the Gappy Content of Hallucination”, in Fiona Macpherson and Dimitri Platchias (eds.), *Hallucination: Philosophy and Psychology*, Cambridge, MA: NIT Press, pp. 291–312.
-* –––, 2016, “Perceptual Particularity”, *Philosophy and Phenomenological Research*, 93(1): 25–54.
-* Searle, John, 1983, *Intentionality*, Cambridge: Cambridge University Press.
-* Sedivy, Sonia, 2008, “Starting Afresh Disjunctively: Perceptual Engagement with the World”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 348–375.
-* –––,2019, “Disjunctivism and Realism: Not Naïve but Conceptual”,in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), *New Issues in Epistemological Disjunctivism*, London: Routledge, pp. 153–168.
-* Shahmoradi, Ayoob, 2016, “Why do we need perceptual content?”, *Philosophical Psychology*, 29(5): 776–788.
-* Siegel, S., 2004, “Indiscriminability and the Phenomenal”, *Philosophical Studies*, 120: 90–112.
-* –––, 2008, “The Epistemic Conception of Hallucination”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 205–224.
-* Smith, A.D., 2002, *The Problem of Perception*, Cambridge, Mass.: Harvard University Press.
-* –––, 2008, “Disjunctivism and Discriminability”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 181–204.
-* –––, 2010, “Disjunctivism and Illusion”, *Philosophy and Phenomenological Research*, 80(2): 384–410.
-* Snowdon, P.F., 1980–81, “Perception, Vision and Causation”, *Proceedings of the Aristotelian Society* (New Series), 81: 175–92.
-* –––, 1990, “The Objects of Perceptual Experience”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 64: 121–150.
-* –––, 1998, “Strawson on the Concept of Perception”, in *The Philosophy of P.F. Strawson*, L. Hahn (ed.), Chicago and Lasalle: Open Court, pp. 293–310.
-* –––, 2005a, “The Formulation of Disjunctivism: A response to Fish”, *Proceedings of the Aristotelian Society* (New Series), 105: 129–141.
-* –––, 2005b, “Some Reflections on an argument from Hallucination”, *Philosophical Topics*, 33(1): 285–305.
-* –––, 2008, “Hinton and the Origins of Disjunctivism”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 35–56.
-* Cassam, Q., 2011, “Perceptual Concepts as Non-Causal Concepts”, in *Understanding Perception, Causation and Objectivity*, N. Eilan, H. Lerman and J. Roessler (eds.), Oxford: Oxford University Press, pp. 121–138.
-* Soteriou, Matthew, 2016, *Disjunctivism*, Routledge.
-* Spener, Maja, 2003, *Gilding or Staining the Mind: Phenomenology and the Metaphysics of Visual Experience*, PhD thesis, University of London.
-* Strawson, P.F., 1974, “Causation in Perception”, in *Freedom and Resentment*, London: Methuen, pp. 73–93.
-* Sturgeon, Scott, 1998, “Visual Experience”, *Proceedings of the Aristotelian Society* (New Series), 98: 179–200.
-* –––, 2000, *Matters of Mind: Consciousness, Reason and Nature*, London: Routledge.
-* –––, 2006, “Reflective Disjunctivism”, *Supplement to the Proceedings of the Aristotelian Society*, 80: 185–216.
-* –––, 2008, “Disjunctivism About Visual Experience”, in *Disjunctivism: Perception, Action, Knowledge*, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 112–143.
-* Thau, Michael, 2004, “What is Disjunctivism?” *Philosophical Studies*, 120(1–3): 193–253.
-* Travis, Charles, 2004, “The Silence of the Senses”, *Mind*, 113(449): 57–94.
-* –––, 2013, *Perception: Essays After Frege*, Oxford: Oxford University Press.
-* Tye, M., 1992, “Visual Qualia and Visual Content”, in *The Contents of Experience*, T. Crane (ed.), Cambridge: Cambridge University Press, pp. 158–176.
-* –––, 1995, *Ten Problems of Consciousness*, Cambridge, MA: MIT Press.
-* –––, 2000, *Consciousness, Color and Content*, Cambridge, MA: MIT Press.
-* –––, 2007, “Intentionalism and the Argument from No Common Content”, *Philosophical Perspectives*, 21(1): 589–613.
-* Vendler, Zeno, 1984, *The Matter of Minds*, Oxford: Oxford University Press.
-* Williams, B. 1973, “Imagination and the Self”, in *Problems of the Self.*, Cambridge: Cambridge University Press, pp. 26–45.
-* Williamson, Timothy, 1990, *Identity and Discrimination*, Oxford: Blackwell.
-* –––, 2000, *Knowledge and its Limits*, Oxford: Oxford University Press.
-* Wilson, Keith, 2018, “Are the Senses Silent? Travis’s Argument from Looks”, in John Collins and Tamara Dobler (eds.), *The Philosophy of Charles Travis: Language, Thought, Perception*, Oxford: Oxford University Press, pp. 199–221.
-* Wright, Crispin, 2002, “Anti-sceptics Simple and Subtle: G.E. Moore and John McDowell”, *Philosophy and Phenomenological Research*, 65: 330–48.
-* –––, 2008, “Comment on John McDowell’s ‘The Disjunctive Conception of Experience as Material for a Transcendental Argument’”, in *Disjunctivism: Perception, Action and Knowledge*, A. Haddock and F. Macpherson (eds.),. Oxford: Oxford University Press, pp. 390–404.
+* Allen, Keith, 2015, “Hallucination and Imagination”, _Australasian Journal of Philosophy_, 93(2): 287–302.
+* –––, 2016, _A Naïve Realist Theory of Colour_, Oxford: Oxford University Press.
+* Antony, Louise, 2011, “The Openness of Illusion”, _Philosophical Issues_, 1: 25–44.
+* Austin, J.L., 1962, _Sense and Sensibilia_, Oxford: Oxford University Press.
+* Beck, Ori, 2019, “Rethinking Naïve Realism”, _Philosophical Studies_, 176(3): 607–633.
+* Brewer, Bill, 2000, _Perception and Reason_, Oxford: Oxford University Press.
+* –––, 2004, “Realism and the Nature of Perceptual Experience”, _Philosophical Issues_, 14(1): 61–77.
+* –––, 2006, “Perception and Content”, _European Journal of Philosophy_, 14(2): 165–181.
+* –––, 2008, “How to Account for Illusion”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 168–180.
+* –––, 2011, _Perception and its Objects_, Oxford: Oxford University Press.
+* –––, 2017a, “The Object View of Perception”, _Topoi_, 35(2): 215–227.
+* –––, 2017b, “Consciousness and Content in Perception”, _Philosophical Perspectives_, 31(1):41–54.
+* Brogaard, Berit, 2011,“Primitive Knowledge Disjunctivism”, _Philosophical Issues_, 21(1): 45–73.
+* Burge, Tyler, 1983, “Russell’s Problem and Intentional Identity”, in _Agent, Language, and the Structure of the World_, James E. Tomberlin (ed.). Indianapolis: Hackett Publishing Company, pp. 79–110.
+* –––, 1993, “Vision and Intentional Content”, in _John Searle and his Critics_, E. LePore and R. Van Gulick (eds.), Oxford: Blackwell, pp. 195–213.
+* –––, 2005, “Disjunctivism and Perceptual Psychology”, _Philosophical Topics_, 33: 1–78.
+* –––, 2010, _Origins of Objectivity_, Oxford: Oxford University Press.
+* –––, 2011, “Disjunctivism Again”, _Philosophical Explorations_, 14(1): 43–80.
+* Byrne, Alex, 2001, “Intentionalism Defended”, _Philosophical Review_, 110: 199–240.
+* –––, 2014, “McDowell and Wright on Anti-Scepticism etc.”, in Dylan Dodd and Elia Zardini (eds.), _Scepticism and Perceptual Justification_. Oxford: Oxford University Press, pp. 275–297.
+* Byrne, Alex and Logue, Heather, 2008, “Either/Or”, in _Disjunctivism: Perception, Action, Knowledge_, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 57–94.
+* Byrne, Alex and Logue, Heather (eds.), 2009, _Disjunctivism: Contemporary Readings_, Cambridge, MA: MIT Press.
+* Campbell, J., 2002a, _Reference and Consciousness_, Oxford: Oxford University Press.
+* –––, 2002b, “Berkeley’s Puzzle”, in _Conceivability and Possibility_, Tamar Szabo Gendler and John O’Leary Hawthorne (eds.), Oxford: Oxford University Press, pp. 127–144.
+* –––, 2005, “Précis of _Reference and Consciousness_, and Replies to Neil Manson and Georges Rey”, _Philosophical Studies_, 126: 103–114, 145–153, 155–162.
+* –––, 2011,“Relational vs. Kantian Responses to Berkeley’s Puzzle”, in _Perception, Causation and Objectivity_, N. Eilan, H. Lerman and J. Roessler (eds.), Oxford: Oxford University Press, pp. 35–50.
+* Campbell, John and Cassam, Quassim, 2014, _Berkeley’s Puzzle: what does experience teach us?_ Oxford: Oxford University Press.
+* Cassam, Q., 2011, “Tackling Berkeley’s Puzzle”, in _Perception, Causation and Objectivity_, N. Eilan, H. Lerman and J. Roessler (eds.), Oxford: Oxford University Press, pp. 18–34.
+* Child, William, 1992, “Vision and Experience: The Causal Theory and the Disjunctive Conception”, _Philosophical Quarterly_, 42(168): 297–316.
+* –––, 1994, _Causality, Interpretation and the Mind_, Oxford: Oxford University Press.
+* –––, 2011,“Vision and Causal Understanding”, in _Perception, Causation and Objectivity_, N. Eilan, H. Lerman and J. Roessler (eds.), Oxford: Oxford University Press, pp. 161–180.
+* Christy, Justin, 2019, “Naïve Realism: A Simple Approach”, _Philosophical Studies_, 176(8): 2167–2185.
+* Conee, Earl, 2007,“Disjunctivism and Anti-Skepticism”, _Philosophical Issues_, 17(1): 16–36.
+* Currie, G., and Ravenscroft, I., 2002, _Recreative Minds_, Oxford: Oxford University Press.
+* Dancy, Jonathan, 1995, “Arguments from Illusion”, _The Philosophical Quarterly_, 45: 421–38.
+* –––, 2008, “On How to Act—Disjunctively”, in _Disjunctivism: Perception, Action, Knowledge_, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 262–282.
+* Davies, M., 1992, “Perceptual Content and Local Supervenience”, _Proceedings of the Aristotelian Society_ (New Series), 92: 21–45.
+* Dorsch, Fabian, 2010,“Transparency and Imagining Seeing”, _Philosophical Explorations_, 13(3): 173–200.
+* Dretske, Fred, 1995, _Naturalizing the Mind_, Cambridge, MA: MIT Press.
+* Evans, Gareth, 1981, “Understanding Demonstratives”, in _Meaning and Understanding_, H. Parret and J. Bouveresse (eds.), Berlin: W. de Gruyter, pp. 291–321.
+* –––, 1982, _The Varieties of Reference_, Oxford: Clarendon Press.
+* Farkas, K., 2006, “Indiscriminability and the Sameness of Appearance”, _Proceedings of the Aristotelian Society_ (New Series), 106: 39–59.
+* Fish, William C., 2008, “Disjunctivism, Indistinguishability, and the Nature of Hallucination”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 144–167.
+* –––, 2009, _Perception, Hallucination, and Illusion_, Oxford: Oxford University Press.
+* French, Craig, 2018, “Epistemological Disjunctivism and its Representational Commitments”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), _New Issues in Epistemological Disjunctivism_, London: Routledge, pp. 169–193.
+* French, Craig, and Gomes, Anil, 2019, “How Naïve Realism Can Explain Both the Particularity and the Generality of Experience”, _Philosophical Quarterly_, 69(275): 41–63.
+* Genone, James, 2014, “Appearance and Illusion”, _Mind_, 123(490): 329–376.
+* Goldman, Alvin, 1979, “What is Justified Belief?”, in _Justification and Knowledge_, George Pappas (ed.), Dordrecht: Reidel, pp. 1–23.
+* Gomes, Anil, and French, Craig, 2016, “On the Particularity of Experience”, _Philosophical Studies_, 173(2): 451–460.
+* Grice, H.P., 1961, “The Causal Theory of Perception”, _Proceedings of the Aristotelian Society, Supplementary Volumes_, 35: 121–52.
+* Haddock, Adrian, 2011,“The Disjunctive Conception of Perceiving”, _Philosophical Explorations_, 14(1): 23–42.
+* –––, 2019, “Disjunctivism, Skepticism, and the First Person”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), _New Issues in Epistemological Disjunctivism_, London: Routledge, pp. 259–278.
+* Haddock, Adrian and Macpherson, Fiona, 2008a, _Disjunctivism: Perception, Action, Knowledge_, Oxford: Oxford University Press.
+* Haddock, Adrian and Macpherson, Fiona, 2008b, “Introduction: Varieties of Disjunctivism”, in _Disjunctivism: Perception, Action, Knowledge_, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 1–24.
+* Harman, Gilbert, 1990, “The Intrinsic Quality of Experience”, in _Philosophical Perspectives_, 4, J. Tomberlin (ed.), Atascadero, CA: Ridgeview, pp. 31–52.
+* Hawthorne, John and Kovakovich, Karson, 2006, “Disjunctivism”, _Proceedings of the Aristotelian Society, Supplementary Volumes_, 80: 145–183.
+* Hellie, Benj, 2007, “Factive Phenomenal Characters”, _Philosophical Perspectives_, 21: 259–306.
+* –––, 2013,“The Multidisjunctive Conception of Hallucination”, in _Hallucination: Philosophy and Psychology_, F. MacPherson and D. Platchias (eds.), Cambridge, MA: MIT Press, pp. 149–174.
+* Hinton, J.M., 1967, “Visual Experiences”, _Mind_, 76(April): 217–227.
+* –––, 1973, _Experiences: An Inquiry into Some Ambiguities_, Oxford: Clarendon Press.
+* –––, 1980, “Phenomenological Specimenism”, _Analysis_, 40(January): 37–41.
+* Hornsby, J. 2008, “A Disjunctive Conception of Acting for Reasons”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 244–261.
+* Ichikawa, Jonathan, 2009, “Dreaming and Imagination”, _Mind and Language_, 24(1): 103–121.
+* Johnston, Mark, 2004, “The Obscure Object of Hallucination”, _Philosophical Studies_, 103: 113–83.
+* Kalderon, Mark, 2011, “Color Illusion”, _Noûs_, 45(4): 751–775.
+* Langsam, Harold, 1997, “The Theory of Appearing Defended”, _Philosophical Studies_, 120: 33–59.
+* –––, 2017, “The Intuitive Case for Naïve Realism”, _Philosophical Explorations_, 20(1): 106–122.
+* Littlejohn, Clayton, 2019, “Niether/Nor”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), _New Issues in Epistemological Disjunctivism_, London: Routledge, pp. 215–240.
+* Loar, Brian, 2002, “Transparent Experience and the Availability of Qualia”, in _Consciousness: New Philosophical Perspectives_, A. Jokic and Q. Smith (eds.), Oxford: Oxford University Press, pp. 77–96.
+* Logue, Heather, 2012a, “What should the naïve realist say about total hallucinations?”, _Philosophical Perspectives_, 26(1): 173–199.
+* –––, 2012b, “Why Naïve Realsim?”, _Proceedings of the Aristotelian Society_, 112: 211–237.
+* –––, 2013, “Good News for the Disjunctivist about (one of) the Bad Cases”, _Philosophy and Phenomenological Research_, 86(1): 105–133.
+* –––, 2014, “Experiential Content and Naïve Realism: A Reconcilliation”, in Berit Brogaard (ed.), _Does Perception Have Content?_ Oxford: Oxford Unicersity Press, pp. 220–241.
+* Longworth, Guy, 2019, “Settling a Question: Austin and Disjunctivism”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), _New Issues in Epistemological Disjunctivism_, London: Routledge, pp. 131–150.
+* Lowe, E. J., 2008, “Against Disjunctivism”, in _Disjunctivism: Perception, Action, Knowledge_, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 95–111.
+* Martin, M.G.F., 1997, “The Reality of Appearances”, in _Thought and Ontology_, M. Sainsbury (ed.), Milan: Franco Angeli, pp. 77–96.
+* –––, 1998, “Setting Things Before the Mind”, in _Contemporary Issues in the Philosophy of Mind_, A. O’Hear (ed.), Cambridge: Cambridge University Press, pp. 157–179.
+* –––, 2001, “Out of the Past: episodic recall as retained acquaintance”, in _Time and Memory_, C. Hoerl and T. McCormack (eds.), Oxford: Oxford University Press, pp. 257–284.
+* –––, 2002, “The Transparency of Experience”, _Mind and Language_, 17: 376–425.
+* –––, 2003, “Particular Thoughts and Singular Thought”, _Thought and Language_, in A. O’Hear (ed.), Cambridge: Cambridge University Press, pp. 173–214.
+* –––, 2004, “The Limits of Self-Awareness”, _Philosophical Studies_, 120: 37–89.
+* –––, 2006, “On Being Alienated”, in _Perceptual Experience_, Tamar S. Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, pp. 354–410.
+* McDowell, John, 1982, “Criteria, Defeasibility and Knowledge”, _Proceedings of the British Academy_, 68: 455–79.
+* –––, 1984, “_De Re_ Senses”, _Philosophical Quarterly_, 34: 325–363; reprinted in _Frege: Tradition and Influence_, C. Wright (ed.), Oxford: Blackwell, pp. 98–109.
+* –––, 1987, “Singular Thought and the Extent of Inner Space”, in _Subject, Thought and Context_, Pettit and McDowell (eds.), Oxford: Clarendon Press, pp. 137–168.
+* –––, 1994, _Mind and World_, Cambridge, Mass.: Harvard University Press.
+* –––, 2008, “The Disjunctive Conception of Experience as Material for a Transcendental Argument”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 376–389.
+* –––, 2010, “Tyler Burge on Disjunctivism”, _Philosophical Explorations_, 13(3): 243–255.
+* –––, 2013, “Tyler Burge on Disjunctivism (II)”, _Philosophical Explorations_, 16(3): 259–279.
+* McGinn, Colin, 1982, _The Character of Mind_, Oxford: Oxford University Press.
+* Mehta, Neil, 2014, “The Limited Role of Particulars in Phenomenal Experience”, _Journal of Philosophy_, 111(6): 311–331.
+* Mehta, Neil, and Ganson, Todd, 2016, “On the Generality of Experience: a reply to French and Gomes”, _Philosophical Studies_, 173(12): 3223–3229.
+* Millar, Alan, 1996, “The Idea of Experience”, _Proceedings of the Aristotelian Society_ (New Series), 97: 75–90.
+* –––, 2007, “What the Disjunctivist is Right About”, _Philosophy and Phenomenological Research_, 74(1): 176–198.
+* –––, 2008, “Perceptual-recognitional Abilities and Perceptual Knowledge”, in _Disjunctivism: Perception, Action, Knowledge_, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 330–347.
+* Millar, Boyd, 2015, “Naïve Realism and Illusion”, _Ergo: An Open Access Journal of Philosophy_, 2: 607–625.
+* Mitova, Veli, 2019, “Either Epistemological or Metaphysical Disjunctivism”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), _New Issues in Epistemological Disjunctivism_, London: Routledge, pp. 194–214.
+* Nagel, Thomas, 1974, “What is It Like to Be a Bat?”, _Philosophical Review_, 83(October): 435–450.
+* Neta, Ram, 2008, “In Defence of Disjunctivism”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 311–329.
+* –––,2019, “Disjunctivism and Credence”, in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), _New Issues in Epistemological Disjunctivism_, London: Routledge, pp. 241–258.
+* Noordhof, P., 2002, “Imagining Objects and Imagining Experiences”, _Mind and Language_, 17: 426–455.
+* Nudds, M., 2009, “Recent Work in Perception: Naïve Realism and its Opponents”, _Analysis_, 69: 334–346.
+* Pautz, Adam, 2010, “Why Explain Visual Experience in terms of Content?”, in _Perceiving the World_, B. Nanay(ed.), Oxford: Oxford University Press, pp. 254–310.
+* –––, 2011, “Can Disjunctivists Explain our Access to the Sensible World?”, _Philosophical Issues_, 21: 384–433.
+* –––, forthcoming, “Naïve Realism and the Science of Consciousness”, _Analytic Philosophy_, [preprint available online](https://philpapers.org/archive/PAUNRA-2.pdf).
+* Peacocke, Christopher, 1985, “Imagination, Experience and Possibility”, in _Essays on Berkeley_, J. Foster and H. Robinson (eds.), Oxford: Clarendon Press, pp. 19–35.
+* –––, 1992, _A Study of Concepts_, Cambridge, MA: MIT Press.
+* –––, 1993, “Externalist Explanation”, _Proceedings of the Aristotelian Society_ (New Series), 93: 203–230.
+* Pears, David F., 1976, “The Causal Conditions of Perception”, _Synthese_, 33(June): 25–40.
+* Phillips, Ian, 2016, “Naïve Realism and the Science of (Some) Illusions”, _Philosophical Topics_, 44(2): 353–380.
+* Pritchard, Duncan, 2008, “McDowellian Neo-Mooreanism”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 283–310.
+* –––, 2012, _Epistemological Disjunctivism_, Oxford: Oxford University Press.
+* Putnam, H., 1999, _The Threefold Chord_, New York: Columbia University Press.
+* Raleigh, Thomas, 2015, “Phenomenology Without Representation”, _European Journal of Philosophy_, 23(4): 1209–1237.
+* Rey, G., 2005, “Explanation, Not Experience: Commentary on John Campbell’s _Reference and Consciousness_”, _Philosophical Studies_, 126: 131–143.
+* Robinson, Howard, 1985, “The General Form of the Argument for Berkeleian Idealism”, In _Essays on Berkeley: A Tercentennial Celebration_, J. Foster and H. Robinson (eds.), Oxford: Clarendon Press, pp. 163–186.
+* –––, 1994, _Perception_, London: Routledge.
+* Ruben, D.H., 2008, “Disjunctive Theories of Perception and Action”, in _Disjunctivism: Perception, Action, Knowledge_, Adrian Haddock and Fiona Macpherson (eds.), Oxford: Oxford University Press, pp. 227–243.
+* Schellenberg, Susanna, 2010, “The Particularity and Phenomenology of Perceptual Experience”, _Philosophical Studies_, 149(1): 19–48.
+* –––, 2013, “Externalism and the Gappy Content of Hallucination”, in Fiona Macpherson and Dimitri Platchias (eds.), _Hallucination: Philosophy and Psychology_, Cambridge, MA: NIT Press, pp. 291–312.
+* –––, 2016, “Perceptual Particularity”, _Philosophy and Phenomenological Research_, 93(1): 25–54.
+* Searle, John, 1983, _Intentionality_, Cambridge: Cambridge University Press.
+* Sedivy, Sonia, 2008, “Starting Afresh Disjunctively: Perceptual Engagement with the World”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 348–375.
+* –––,2019, “Disjunctivism and Realism: Not Naïve but Conceptual”,in Casey Doyle, Joseph Milburn and Duncan Pritchard (eds.), _New Issues in Epistemological Disjunctivism_, London: Routledge, pp. 153–168.
+* Shahmoradi, Ayoob, 2016, “Why do we need perceptual content?”, _Philosophical Psychology_, 29(5): 776–788.
+* Siegel, S., 2004, “Indiscriminability and the Phenomenal”, _Philosophical Studies_, 120: 90–112.
+* –––, 2008, “The Epistemic Conception of Hallucination”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 205–224.
+* Smith, A.D., 2002, _The Problem of Perception_, Cambridge, Mass.: Harvard University Press.
+* –––, 2008, “Disjunctivism and Discriminability”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 181–204.
+* –––, 2010, “Disjunctivism and Illusion”, _Philosophy and Phenomenological Research_, 80(2): 384–410.
+* Snowdon, P.F., 1980–81, “Perception, Vision and Causation”, _Proceedings of the Aristotelian Society_ (New Series), 81: 175–92.
+* –––, 1990, “The Objects of Perceptual Experience”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 64: 121–150.
+* –––, 1998, “Strawson on the Concept of Perception”, in _The Philosophy of P.F. Strawson_, L. Hahn (ed.), Chicago and Lasalle: Open Court, pp. 293–310.
+* –––, 2005a, “The Formulation of Disjunctivism: A response to Fish”, _Proceedings of the Aristotelian Society_ (New Series), 105: 129–141.
+* –––, 2005b, “Some Reflections on an argument from Hallucination”, _Philosophical Topics_, 33(1): 285–305.
+* –––, 2008, “Hinton and the Origins of Disjunctivism”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 35–56.
+* Cassam, Q., 2011, “Perceptual Concepts as Non-Causal Concepts”, in _Understanding Perception, Causation and Objectivity_, N. Eilan, H. Lerman and J. Roessler (eds.), Oxford: Oxford University Press, pp. 121–138.
+* Soteriou, Matthew, 2016, _Disjunctivism_, Routledge.
+* Spener, Maja, 2003, _Gilding or Staining the Mind: Phenomenology and the Metaphysics of Visual Experience_, PhD thesis, University of London.
+* Strawson, P.F., 1974, “Causation in Perception”, in _Freedom and Resentment_, London: Methuen, pp. 73–93.
+* Sturgeon, Scott, 1998, “Visual Experience”, _Proceedings of the Aristotelian Society_ (New Series), 98: 179–200.
+* –––, 2000, _Matters of Mind: Consciousness, Reason and Nature_, London: Routledge.
+* –––, 2006, “Reflective Disjunctivism”, _Supplement to the Proceedings of the Aristotelian Society_, 80: 185–216.
+* –––, 2008, “Disjunctivism About Visual Experience”, in _Disjunctivism: Perception, Action, Knowledge_, Fiona Macpherson and Adrian Haddock (eds.), Oxford: Oxford University Press, pp. 112–143.
+* Thau, Michael, 2004, “What is Disjunctivism?” _Philosophical Studies_, 120(1–3): 193–253.
+* Travis, Charles, 2004, “The Silence of the Senses”, _Mind_, 113(449): 57–94.
+* –––, 2013, _Perception: Essays After Frege_, Oxford: Oxford University Press.
+* Tye, M., 1992, “Visual Qualia and Visual Content”, in _The Contents of Experience_, T. Crane (ed.), Cambridge: Cambridge University Press, pp. 158–176.
+* –––, 1995, _Ten Problems of Consciousness_, Cambridge, MA: MIT Press.
+* –––, 2000, _Consciousness, Color and Content_, Cambridge, MA: MIT Press.
+* –––, 2007, “Intentionalism and the Argument from No Common Content”, _Philosophical Perspectives_, 21(1): 589–613.
+* Vendler, Zeno, 1984, _The Matter of Minds_, Oxford: Oxford University Press.
+* Williams, B. 1973, “Imagination and the Self”, in _Problems of the Self._, Cambridge: Cambridge University Press, pp. 26–45.
+* Williamson, Timothy, 1990, _Identity and Discrimination_, Oxford: Blackwell.
+* –––, 2000, _Knowledge and its Limits_, Oxford: Oxford University Press.
+* Wilson, Keith, 2018, “Are the Senses Silent? Travis’s Argument from Looks”, in John Collins and Tamara Dobler (eds.), _The Philosophy of Charles Travis: Language, Thought, Perception_, Oxford: Oxford University Press, pp. 199–221.
+* Wright, Crispin, 2002, “Anti-sceptics Simple and Subtle: G.E. Moore and John McDowell”, _Philosophy and Phenomenological Research_, 65: 330–48.
+* –––, 2008, “Comment on John McDowell’s ‘The Disjunctive Conception of Experience as Material for a Transcendental Argument’”, in _Disjunctivism: Perception, Action and Knowledge_, A. Haddock and F. Macpherson (eds.),. Oxford: Oxford University Press, pp. 390–404.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=perception-disjunctive). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/perception-disjunctive/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=perception-disjunctive&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/perception-disjunctive/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=perception-disjunctive).                                                                      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/perception-disjunctive/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=perception-disjunctive\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/perception-disjunctive/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[consciousness](https://plato.stanford.edu/entries/consciousness/) | [consciousness: and intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) | [consciousness: representational theories of](https://plato.stanford.edu/entries/consciousness-representational/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [mental content: narrow](https://plato.stanford.edu/entries/content-narrow/) | [mental imagery](https://plato.stanford.edu/entries/mental-imagery/) | [perception: epistemological problems of](https://plato.stanford.edu/entries/perception-episprob/) | [perception: the contents of](https://plato.stanford.edu/entries/perception-contents/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [qualia](https://plato.stanford.edu/entries/qualia/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/) | [sense data](https://plato.stanford.edu/entries/sense-data/)
+[consciousness](https://plato.stanford.edu/entries/consciousness/) | [consciousness: and intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) | [consciousness: representational theories of](https://plato.stanford.edu/entries/consciousness-representational/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [mental content: narrow](https://plato.stanford.edu/entries/content-narrow/) | [mental imagery](https://plato.stanford.edu/entries/mental-imagery/) | [perception: epistemological problems of](https://plato.stanford.edu/entries/perception-episprob/) | [perception: the contents of](https://plato.stanford.edu/entries/perception-contents/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [qualia](https://plato.stanford.edu/entries/qualia/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/) | [sense data](https://plato.stanford.edu/entries/sense-data/)
 
 ### Acknowledgments
 
 The author would like to thank David Chalmers for his comments on earlier drafts, which helped to improve the present entry.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[Matthew Soteriou](https://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx) <[*matthew.soteriou@kcl.ac.uk*](mailto:matthew%2esoteriou%40kcl%2eac%2euk)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[Matthew Soteriou](https://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx) <[_matthew.soteriou@kcl.ac.uk_](mailto:matthew%2esoteriou%40kcl%2eac%2euk)>

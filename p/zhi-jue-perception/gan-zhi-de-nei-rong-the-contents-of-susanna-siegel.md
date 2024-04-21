@@ -1,54 +1,46 @@
 # 感知的内容 the contents of (Susanna Siegel)
 
-
-*首次发表于2005年3月18日；实质性修订于2021年8月30日。*
+_首次发表于2005年3月18日；实质性修订于2021年8月30日。_
 
 在当代哲学中，“知觉的内容”一词大致指的是通过感知经验传达给主体的东西。例如，假设你正在看一架钢琴的锤子和琴弦。当你看到它们时，它们会以某种形状、颜色、质地和相互排列的方式呈现给你。你的视觉经验告诉你，钢琴具有这些特征。如果你的经验在某种程度上是错觉的，那么钢琴实际上并不具备所有这些特征。但即使如此，你的经验仍然会传达给你某种东西。本文将探讨三个主要问题。首先（第 1-2 节），内容是什么，它们与经验的关系是什么？其次（第 3-7 节），哪些内容是经验的内容？最后（第 8 节），当经验具有内容时，它们是基于什么？
 
 * [1. 什么是感知经验？](https://plato.stanford.edu/entries/perception-contents/#1)
 * [2. 内容作为准确性条件](https://plato.stanford.edu/entries/perception-contents/#2)
-
   * [2.1 经验是否具有准确性条件？](https://plato.stanford.edu/entries/perception-contents/#2.1)
   * [2.2 信念和经验](https://plato.stanford.edu/entries/perception-contents/#2.2)
   * [2.3 内容和态度](https://plato.stanford.edu/entries/perception-contents/#2.3)
 * [3. 内容的种类](https://plato.stanford.edu/entries/perception-contents/#3)
-
-  * [ 3.1 罗素式内容](https://plato.stanford.edu/entries/perception-contents/#3.1)
+  * [3.1 罗素式内容](https://plato.stanford.edu/entries/perception-contents/#3.1)
   * [3.2 可能世界的内容](https://plato.stanford.edu/entries/perception-contents/#3.2)
-  * [ 3.3 弗雷格内容](https://plato.stanford.edu/entries/perception-contents/#3.3)
-  * [ 3.4 指示内容](https://plato.stanford.edu/entries/perception-contents/#3.4)
-  * [ 3.5 多重内容](https://plato.stanford.edu/entries/perception-contents/#3.5)
+  * [3.3 弗雷格内容](https://plato.stanford.edu/entries/perception-contents/#3.3)
+  * [3.4 指示内容](https://plato.stanford.edu/entries/perception-contents/#3.4)
+  * [3.5 多重内容](https://plato.stanford.edu/entries/perception-contents/#3.5)
 * [4. 属性的表征](https://plato.stanford.edu/entries/perception-contents/#4)
-
   * [4.1 哪些颜色属性被表征？](https://plato.stanford.edu/entries/perception-contents/#4.1)
   * [4.2 哪些空间属性被表征？](https://plato.stanford.edu/entries/perception-contents/#4.2)
   * [4.3 高层属性是否被表示？](https://plato.stanford.edu/entries/perception-contents/#4.3)
 * [5. 对象的表示](https://plato.stanford.edu/entries/perception-contents/#5)
-
   * [5.1 涉及对象的、有缺陷的和存在性的内容](https://plato.stanford.edu/entries/perception-contents/#5.1)
   * [5.2 因果和非因果的内容](https://plato.stanford.edu/entries/perception-contents/#5.2)
   * [5.3 经验中是否描绘了普通物体？](https://plato.stanford.edu/entries/perception-contents/#5.3)
-  * [ 5.4 知觉独立性](https://plato.stanford.edu/entries/perception-contents/#5.4)
+  * [5.4 知觉独立性](https://plato.stanford.edu/entries/perception-contents/#5.4)
 * [6. 概念和内容](https://plato.stanford.edu/entries/perception-contents/#6)
-
   * [6.1 知觉内容的概念主义观点](https://plato.stanford.edu/entries/perception-contents/#6.1)
   * [6.2 非概念性内容的各种形式](https://plato.stanford.edu/entries/perception-contents/#6.2)
 * [7. 内容和知觉](https://plato.stanford.edu/entries/perception-contents/#7)
-
   * [7.1 关于知觉的再现主义](https://plato.stanford.edu/entries/perception-contents/#7.1)
   * [7.2 知觉是否决定内容？](https://plato.stanford.edu/entries/perception-contents/#7.2)
 * [8. 知觉中的意向性理论](https://plato.stanford.edu/entries/perception-contents/#8)
-
   * [8.1 内容的外在主义与内在主义](https://plato.stanford.edu/entries/perception-contents/#8.1)
   * [8.2 功能主义信息理论的知觉](https://plato.stanford.edu/entries/perception-contents/#8.2)
   * [8.3 现象意向性](https://plato.stanford.edu/entries/perception-contents/#8.3)
 * [9. 未来研究方向](https://plato.stanford.edu/entries/perception-contents/#9)
-* [ 参考文献](https://plato.stanford.edu/entries/perception-contents/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/perception-contents/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/perception-contents/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/perception-contents/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/perception-contents/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/perception-contents/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/perception-contents/#Rel)
 
----
+***
 
 ## 1. 知觉经验是什么？
 
@@ -125,7 +117,7 @@
 
 与其认为知觉内容源自信念内容，不如认为知觉内容和信念内容在某种意义上是类似的，更一般地说，经验和信念都是由内容一方面和与这些内容的关系另一方面来构建的。
 
-信念通常被认为是与内容相关的关系，而信念的内容通常被认为是除了信念之外，人们可以以其他关系站立的内容。这些关系有时被称为“态度”，其中这些态度的例子被认为是民间心理学中的概念，如希望、渴望或假设。然而，将“态度”的概念更广泛地解释为一种更普遍的内容方式是有用的。如果视觉处理的个人状态是具有准确性条件（因此在我们的意义上具有内容）的信息状态，那么它们将实现具有内容的方式；传统上构思的命题态度也是如此。从现在开始，“态度”将是当一个人具有具有内容的心理状态时，他可以与内容站立的关系。哲学家和心理学家发现标记这样的区别很有用。[1] 最近，Crane（2003）将这种更广义的意义上的态度称为“有意向的方式”。（另请参见 Searle 1983 年第 1 章。）这些都是关于心理状态的方面之间的区别，其中一个特征（类似于内容）表征心理状态的主题，而另一个特征（类似于态度）表征一种对待它的方式。
+信念通常被认为是与内容相关的关系，而信念的内容通常被认为是除了信念之外，人们可以以其他关系站立的内容。这些关系有时被称为“态度”，其中这些态度的例子被认为是民间心理学中的概念，如希望、渴望或假设。然而，将“态度”的概念更广泛地解释为一种更普遍的内容方式是有用的。如果视觉处理的个人状态是具有准确性条件（因此在我们的意义上具有内容）的信息状态，那么它们将实现具有内容的方式；传统上构思的命题态度也是如此。从现在开始，“态度”将是当一个人具有具有内容的心理状态时，他可以与内容站立的关系。哲学家和心理学家发现标记这样的区别很有用。\[1] 最近，Crane（2003）将这种更广义的意义上的态度称为“有意向的方式”。（另请参见 Searle 1983 年第 1 章。）这些都是关于心理状态的方面之间的区别，其中一个特征（类似于内容）表征心理状态的主题，而另一个特征（类似于态度）表征一种对待它的方式。
 
 如果经验具有内容，那么它们将被态度和内容所结构化：经验将以经验的方式具有内容。关于经验态度是什么的问题有几个实质性的问题。
 
@@ -151,7 +143,7 @@
 
 一些语言哲学家主张这样一种观点：形如“N 是 F”的话语，其中“N”是一个普通的专有名词，表达了一个结构化的命题内容，由名词“N”的指称和谓词“F”所表达的属性组成。例如，如果说出的句子是“弗里达很冷”，那么相关的内容将包括弗里达本人和寒冷的属性。由特指项的指称和谓词所表达的内容被称为罗素式的内容，因为罗素曾经主张，特指项仅仅为它们所出现的句子（或者说这些句子的话语）所表达的命题贡献它们的指称。我们的例子使用了普通的专有名词“弗里达”；但是罗素本人认为这样的名字并不是真正的特指项，并且否认公共对象会进入罗素式的内容中。在当代讨论中，这样的内容也被称为特指内容，因为它们包括了特指项本身的指称，而不是根据它所满足的世界中的事物来挑选不同的对象的描述。
 
-知觉内容的最简单理论之一认为，知觉内容是罗素式的，这些内容由那些看起来具有某些属性的事物和它们看起来具有的属性组成。例如，如果一个人有一个代表红色立方体的视觉体验，根据这个观点，体验的内容将是包含看起来像红色立方体的对象和红色立方体属性的结构化命题。这个内容的形式将是[o,P]，其中 o 是体验中所感知到的对象，P 是 o 看起来具有的属性。请注意，这既是关于内容本身性质的观点，也是关于这种体验何时具有这些内容的条件的观点：当主体正在看到一个看起来具有内容中出现的属性的个体时，体验具有这样的内容。
+知觉内容的最简单理论之一认为，知觉内容是罗素式的，这些内容由那些看起来具有某些属性的事物和它们看起来具有的属性组成。例如，如果一个人有一个代表红色立方体的视觉体验，根据这个观点，体验的内容将是包含看起来像红色立方体的对象和红色立方体属性的结构化命题。这个内容的形式将是\[o,P]，其中 o 是体验中所感知到的对象，P 是 o 看起来具有的属性。请注意，这既是关于内容本身性质的观点，也是关于这种体验何时具有这些内容的条件的观点：当主体正在看到一个看起来具有内容中出现的属性的个体时，体验具有这样的内容。
 
 最强的罗素式内容包括对象和属性。在实践中，复杂视觉体验的罗素式内容可能涉及多个不同的对象，具有不同属性的连接：位置属性、形状属性、颜色属性等等。
 
@@ -193,7 +185,7 @@ Peacocke（1992 年第 3 章）认为，为了充分反映经验中的空间和�
 
 索引内容（空间、第一人称和时间）需要修改或进一步说明迄今为止提到的有关经验内容的三个观点。在可能世界内容的情况下，拥有这样一个轴的一种方法是诉诸于以主体为中心的可能世界：以主体为中心的世界，可能还有一个时间和/或位置。然后，可以根据起点来指定世界的进一步特征：在例子中，从中心的左侧出现（或者是与之相距多远多方向）。 （请参阅 Peacocke 在他 1992 年第 3 章和下文中对“定位场景”的讨论。）
 
-类似地，为了反映第一人称索引内容，可以修改 Russellian 内容，引入类似于开放句子的内容，其中一个组成部分对应于主体的位置上有一个空缺。在涉及红色立方体的例子中，内容可能是类似于包含立方体、它所呈现的非位置属性（例如，红色、立方体等等）的结构化命题，然后是由“在____前两英尺”的组成部分表示的，其中空缺可以在不同情况下用不同的主体填充。为了评估这个特殊的语义实体的准确性，空缺需要有一个值。无论空缺是否被填充，这个实体都是原则上由不同主体拥有的两个经验可以共享的东西。有关这些经验内容的讨论，请参阅 Bach 1997（下面的其他互联网资源部分）；有关 gappy 内容的 Fregean 版本，请参阅 Burge 1991 和 Schellenberg 2010；有关信念和话语的 Russellian 版本的 gappy 内容，请参阅 Braun 1993。
+类似地，为了反映第一人称索引内容，可以修改 Russellian 内容，引入类似于开放句子的内容，其中一个组成部分对应于主体的位置上有一个空缺。在涉及红色立方体的例子中，内容可能是类似于包含立方体、它所呈现的非位置属性（例如，红色、立方体等等）的结构化命题，然后是由“在\_\_\_\_前两英尺”的组成部分表示的，其中空缺可以在不同情况下用不同的主体填充。为了评估这个特殊的语义实体的准确性，空缺需要有一个值。无论空缺是否被填充，这个实体都是原则上由不同主体拥有的两个经验可以共享的东西。有关这些经验内容的讨论，请参阅 Bach 1997（下面的其他互联网资源部分）；有关 gappy 内容的 Fregean 版本，请参阅 Burge 1991 和 Schellenberg 2010；有关信念和话语的 Russellian 版本的 gappy 内容，请参阅 Braun 1993。
 
 如何处理指示性是对弗雷格言述内容的主要挑战之一，正如弗雷格本人所理解的那样。（参见 Perry 1977，Evans 1990，Burge 1991。）根据弗雷格的观点，表达方式的一个作用是确定指称，以便具有相同意义的任何两个表达式（或其出现）具有相同的指称。另一个作用是反映句子的认知意义，例如“现在是 2005 年 10 月 1 日下午 5 点”。 “现在”和“2005 年 10 月 1 日下午 5 点”似乎指的是同一时间，然而对于不知道日期和时间的人来说，这个句子的表述可能是有信息量的。以某种直观的方式，同一时间似乎具有不同的“表达方式”：一个由“现在”表示，另一个由“2005 年 10 月 1 日下午 5 点”表示。
 
@@ -259,11 +251,11 @@ Peacocke 的理论和 Cussins 的理论不同之处在于情景内容可以评�
 
 关于空间属性的表征的另一个争论涉及到看到一个四边等边图形时作为正方形和作为一个正菱形的经验之间的现象差异。（这个例子来自 Mach 1914 年的论文）。
 
-> ![Image 1](https://plato.stanford.edu/entries/perception-contents/image1.jpg)
+> <img src="https://plato.stanford.edu/entries/perception-contents/image1.jpg" alt="Image 1" data-size="original">
 
 在这个对比的一个版本中，有两个图形，它们唯一的区别在于它们相对于观察者的方向（在一页上，正方形的顶部和底部与页面的顶部和底部平行；而菱形与正方形相似，只是绕其中心旋转45度）。假设正方形的属性与规则菱形的属性相同（这个假设在1993年由皮科克辩护，2003年被泰争议，但在2004年被泰承认），这似乎是一个在所表示的属性没有任何差异的情况下存在感知差异的案例。那么，选项与讨论反转色质的选项类似：（i）否认存在与感知差异相对应的内容差异；（ii）认为表示正方形属性的方式存在差异，即调用不同的呈现方式（皮科克，2001a，2001b）；（iii）找到其他在一种体验中而不在另一种体验中被表示的属性，例如相对于观察者的属性，即侧面休息，或者具有两个水平边的属性（据称由体验归因于正方形而不是菱形）；以及站在一个点上的属性或具有倾斜边的属性（据称由体验归因于菱形而不是正方形）（泰，2005）。在这里，我们又有一个关于经验内容性质的Fregean和Russellian立场之间的辩论案例。
 
-另一个关于经验中空间表征的话题是表示事物位置与表示事物为独立于心灵的关系。根据一些哲学家的观点，在视觉经验的情况下，将事物表示为占据三维空间足以表示它们为独立于心灵的（参见斯特劳森 1958 年，皮科克 1983 年，马斯鲁尔 2011 年；对此持异议的见史密斯第 5 章和 2000 年）。而另一些人认为，视觉经验将空间位置表示为可以从中采取行动的位置（Schellenberg 2007 年）。[2]
+另一个关于经验中空间表征的话题是表示事物位置与表示事物为独立于心灵的关系。根据一些哲学家的观点，在视觉经验的情况下，将事物表示为占据三维空间足以表示它们为独立于心灵的（参见斯特劳森 1958 年，皮科克 1983 年，马斯鲁尔 2011 年；对此持异议的见史密斯第 5 章和 2000 年）。而另一些人认为，视觉经验将空间位置表示为可以从中采取行动的位置（Schellenberg 2007 年）。\[2]
 
 ### 4.3 高级属性是否被表示？
 
@@ -297,7 +289,7 @@ Peacocke 的理论和 Cussins 的理论不同之处在于情景内容可以评�
 
 第二个提议稍微复杂一些。根据这种观点，幻觉可以与物体感知的情感体验相同，并且这种情感体验足以使主体在经验上接受类似于开放句子的特殊语义实体。这可能被认为是一种具有与（1）相同形式的结构化命题，只是在感知对象的位置上有一个未填充的位置。可以表示如下：
 
-> （2）_____是一个红色的立方体在 L 处。
+> （2）\_\_\_\_\_是一个红色的立方体在 L 处。
 
 根据这种观点，在物体感知的情况下，由经验接受的特殊语义实体所表达的属性描述了感知对象的外观。因此，这个提议中写入了只有在与物体进行感知接触的情况下，这个空缺才会获得一个值。因此，它假设了多个内容来进行体验。这种观点的版本由巴赫（Bach）1997 年（在下面的其他互联网资源部分）和伯奇（Burge）1991 年进行了辩护。巴赫的提议更接近所述的提议。伯奇认为，在空缺的位置上，存在一种对物体的演示性呈现方式。另请参阅 Schellenberg 2018 年，Matthen 2019 年。
 
@@ -389,7 +381,7 @@ Peacocke 的理论和 Cussins 的理论不同之处在于情景内容可以评�
 
 在另一个涉及马赫图形的例子中（在第 4.2 节中讨论），人们将注意力集中在一个四边形等边图形上，并对将其视为正方形和将其视为菱形的经验进行对比。据皮科克称，这些经验在现象上是不同的。根据皮科克的观点，这些经验的情景内容没有差异，因为它们以相同的方式表示周围的空间。相反，根据皮科克的观点，差异在于同一形状属性在经验中的表示方式。支持这一观点的核心主张是所表示的属性并不不同。在他的（2001a）中，皮科克提供了另外两个支持这一观点的例子。首先，当在钢琴上演奏中央 C 和上面的 F#时，听到的音程有两种方式：他说，同一个音程既可以听作增四度，也可以听作减五度。其次，一组均匀间隔的点阵可以被视为一组行或一组列。
 
-> ![Image 2](https://plato.stanford.edu/entries/perception-contents/image2.jpg)
+> <img src="https://plato.stanford.edu/entries/perception-contents/image2.jpg" alt="Image 2" data-size="original">
 
 根据皮科克的观点，同一属性可以以多种“方式”表示，这些方式并不是构成信念内容的呈现方式。在三个被认为是以不同方式表示的单一属性的例子中（四边形、中央 C/F#音程和点的排列），根据皮科克的说法，附近存在多个概念，它们指代相同的形状、音程或排列。在四边形的情况下，有“规则菱形”和“规则正方形”这两个概念，或者简单地说，有两种看待四边形的方式，每种方式对应一个“那个形状”的出现；在音程的情况下，有“增四度”和“减五度”这两个概念；在点的排列的情况下，有“行”和“列”这两个概念。根据皮科克的说法，这些概念与感知的“方式”不同，感知的“方式”使得获取这些概念成为可能，因此不能与这些概念相同。在两个指示形状概念的情况下，它们通过对形状的经验来锚定每个形状，并且为了发挥这个作用，它们不能与指示概念相同（这一观点也得到了赫克的支持）。在他的（1992 年）中，皮科克使用“原始命题内容”这个标签来描述刚刚描述的内容。他在（2001 年）中对这些例子的讨论旨在阐明 1992 年的讨论（参见 2001 年，脚注 14）。
 
@@ -451,7 +443,7 @@ Peacocke 的理论和 Cussins 的理论不同之处在于情景内容可以评�
 
 尽管马尔的理论假设了表征状态，但它并没有使用视觉体验的概念，如何将体验映射到理论所假设的计算视觉处理阶段仍然是一个悬而未决的问题（参见马尔（1982年）第7.2节，马尔本人对这个问题进行了简要讨论）。马尔的理论旨在解释视觉系统如何在视网膜刺激作为输入的情况下得出三维阵列的表征。视网膜刺激或“灰色阵列”是计算描述，表示二维坐标系中的光和强度值。根据马尔的理论，视觉系统通过三个阶段计算三维场景的描述。首先，给定灰色阵列，它计算出观察者外部表面的反射变化的“原始草图”。接下来，以原始草图为输入，它计算出这个表面的“2.5D草图”，这个草图明确表示与观察者相关的深度和轮廓信息。（深度信息仅涉及面对的表面，因此2.5D草图不包含关于表面如何延伸出视野的信息和错误信息）。最后，给定2.5D草图作为输入，视觉系统计算关于物体的三个维度的信息，描述它们的形状和方向。根据该理论，每个阶段的计算将前一阶段的输入与据称内置于视觉系统中的假设相结合。
 
-辩论的焦点是 Marr 的理论是否允许两个主体（称之为 V 和 V *）在视觉内容上有所不同，其中 V 是地球上的正常感知者，而 V*是 V 的内在副本，具有与 V 相同的灰色阵列，并且在内部视图下经历相同的计算序列。然而，V*的灰色阵列具有不同的远程原因。借用 Burge（1986）的一个例子，假设 V 的灰色阵列通常是由阴影引起的，偶尔是由裂缝引起的；而 V*生活在一个光学定律不同的世界中，没有导致 V 的灰色阵列的阴影实例。根据 Burge 的说法，Marr 的理论认为从 V 的灰色阵列计算出的具有内容的视觉状态总是代表阴影，因此从由裂缝引起的灰色阵列产生的视觉状态是错误的感知；而从 V*的灰色阵列计算出的具有内容的视觉状态代表裂缝。无论 V 还是 V*都无法区分相关类型的裂缝和相关类型的阴影，但根据 Burge 的说法，这还不足以使它们的内容相同。相反，根据 Gabriel Segal 的说法，从 V 和 V*的灰色阵列计算出的具有内容的视觉状态代表的是比裂缝或阴影更一般的属性-“裂缝阴影”（crackdow）。（有关进一步讨论，请参见 Matthews 1988、Burge 1988、Davies 1991、Shapiro 1993、Egan 1991 和 Patterson 1996。）
+辩论的焦点是 Marr 的理论是否允许两个主体（称之为 V 和 V _）在视觉内容上有所不同，其中 V 是地球上的正常感知者，而 V_是 V 的内在副本，具有与 V 相同的灰色阵列，并且在内部视图下经历相同的计算序列。然而，V_的灰色阵列具有不同的远程原因。借用 Burge（1986）的一个例子，假设 V 的灰色阵列通常是由阴影引起的，偶尔是由裂缝引起的；而 V_生活在一个光学定律不同的世界中，没有导致 V 的灰色阵列的阴影实例。根据 Burge 的说法，Marr 的理论认为从 V 的灰色阵列计算出的具有内容的视觉状态总是代表阴影，因此从由裂缝引起的灰色阵列产生的视觉状态是错误的感知；而从 V_的灰色阵列计算出的具有内容的视觉状态代表裂缝。无论 V 还是 V_都无法区分相关类型的裂缝和相关类型的阴影，但根据 Burge 的说法，这还不足以使它们的内容相同。相反，根据 Gabriel Segal 的说法，从 V 和 V\*的灰色阵列计算出的具有内容的视觉状态代表的是比裂缝或阴影更一般的属性-“裂缝阴影”（crackdow）。（有关进一步讨论，请参见 Matthews 1988、Burge 1988、Davies 1991、Shapiro 1993、Egan 1991 和 Patterson 1996。）
 
 ### 8.2 功能主义信息理论的经验
 
@@ -481,240 +473,240 @@ Dretske 和 Tye 各自提出，经验之所以具有特定的内容，是因为�
 
 ## Bibliography
 
-* Anscombe, E., 1965. “The Intentionality of Sensation: A Grammatical Feature,” in her *Collected Papers* (Volume 2), *Metaphysics and the Philosophy of Mind*, Minneapolis: University of Minnesota Press, 1981, pp. 3–20.
-* Armstrong, D.M., 1961. *Perception and the Physical World*, London: Routledge and Kegan Paul.
-* –––, 1968. *A Materialist Theory of Mind*, London: Routledge and Kegan Paul.
-* –––, 1997. *A world of states of affairs*, Cambridge: Cambridge University Press.
-* Austin, D.F., 1990. *What’s the Meaning of “This”?* Ithaca, NY: Cornell University Press.
-* Batty, C., 2010. “Olfactory Experience I: The Content of Olfactory Experience,” *Philosophy Compass*, 5(12): 1137–1146.
-* –––, 2011. “Smelling lessons,” *Philosophical Studies*, 153 (Mar): 161–174.
-* Bayne, T., 2009. “Perception and the reach of phenomenal content,” *Philosophical Quarterly*, 59 (236): 385–404.
-* Bayne, T. and Levy, N., 2006. “The Feeling of Doing,” in W. Prinz, & N. Sebanz (eds.), *Disorders of Volition*, Cambridge, MA: MIT Press, 49–68.
-* Beebee, H., 2003. “Seeing Causing,” *Proceedings of the Aristotelian Society*, 103: 257–280.
-* Bengson, J., 2013. “*Presentation and Content*. A Critical Study of Susanna Siegel, *The Contents of Visual Experience*,” *Noûs*, 47(4): 795–807.
-* Bermudez, J. and Macpherson, F., 1999. “Nonconceptual Content and the Nature of Perceptual Experience,” *The Electronic Journal of Analytic Philosophy*, Issue 6. [[Available online](http://ejap.louisiana.edu/EJAP/1998/bermmacp98.html).
-* Block, N., 2003. “Mental paint,” *Reflections and Replies: 10 Essays With Responses From Tyler Burge*, M. Hahn and B. Ramberg (eds.), Cambridge, MA: MIT Press, 165–200.
-* –––, 1990. “Inverted earth,” *Philosophical Perspectives*, 4: 53–79.
-* –––, 1996. “Mental Paint and Mental Latex,” in E. Villanueva (ed.), *Philosophical Issues* 7, Atascadero, CA: Ridgeview.
-* Boghossian, P. and Velleman, J. D., 1989. “Color as a Secondary Quality,” reprinted in A. Byrne and D. Hilbert (eds.), *Readings on Color* (Volume 1), Cambridge, MA: MIT Press, 1997, 81–104.
-* Boring, E., 1929. *A History of Experimental Psychology*, New York: Appleton Century Crofts.
-* Braun, D., 1993. “Empty Names,” *Noûs*, 27: 449–69.
-* Breckenridge, W., 2007. “Against one reason for thinking that visual experiences have representational content,” *Philosophical Perspectives*, 21(1): 117–123.
-* Brewer, B., 1999. *Perception and Reason*, Oxford: Oxford University Press.
-* Broackes, J., 1992. “The Autonomy of Color,” in A. Byrne and D. Hilbert, *Readings on Color* (Volume 1), Cambridge, MA: MIT Press, 191–226.
-* Brogaard, B., 2010. “Centered Worlds and the Content of Perception,” in S. Hales (ed.), *A Companion to Relativism*, New York: Wiley Blackwell, pp. 137–158.
-* –––, 2018. *Seeing and Saying: The language of perception and the representational view of experience*, New York: Oxford University Press.
-* Burge, T., 1986. “Individualism and Psychology,” *Philosophical Review*, 95: 3–45.
-* –––, 1988. “Authoritative Self-knowledge and Perceptual Individualism,” in R. Grimm and D. Merrill (eds.), *Contents of Thought*, Tucson: University of Arizona Press; reprinted in *Foundations of Mind: Philosophical Essays* (Volume 2), Oxford: Oxford University Press, 208–220.
-* –––, 1991. ‘Vision and Intentional Content,’ in E. LePore and R. Van Gulick (eds.), *John Searle and his Critics*, Oxford: Blackwell, 195–214.
-* Byrne, A., 1996. “Spin control: comment on John McDowell’s Mind and World,” in E. Villanueva (ed.), *Philosophical Issues* 7, Atascadero, CA: Ridgeview.
-* –––, 2001. “Intentionalism defended,” *Philosophical Review*, 110: 49–90.
-* –––, 2005. “Perception and Conceptual Content,” *Contemporary Debates in Epistemology*, E. Sosa and M. Steup (eds.), Oxford: Blackwell, pp. 231–250.
-* –––, 2001. “Do Colors Look Like Dispositions? Reply to Langsam and others,” *Philosophical Quarterly*, 51: 238–45.
-* –––, 2009. “Experience and Content,” *Philosophical Quarterly*, 59: 429–51.
-* –––, 2016. “The epistemic significance of experience,” *Philosophical Studies*, 173(4): 947–967.
-* Byrne, A. and Hilbert, D., 2003. “Color Realism Revisited,” *Behavioral and Brain Sciences*, 26: 791–4.
-* Campbell, J., 2002. *Reference and Consciousness*, Oxford: Oxford University Press.
-* –––, 2003. “A Simple View of Color,” in J. Haldane and C. Wright (eds.), *Reality Representation and Projection*, Oxford: Oxford University Press.
-* Carruthers, P., 2000. *Phenomenal Consciousness: A Naturalistic Theory*, Cambridge: Cambridge University Press.
-* Casullo, A., 1986. “The Spatial Structure of Perceptual Space,” *Philosophy and Phenomenological Research*, 46 (4): 665–71.
-* Cavedon-Taylor, D., 2018. “Odors, Objects and Olfaction,” *American Philosophical Quarterly*, 55 (1): 81–94.
-* Chalmers, D.J., 2004. The Representational Character of Experience, in *The Future for Philosophy*, B. Leiter (ed.), Oxford: Oxford University Press, 153–181.
-* –––, 2006. “Perception and the Fall from Eden,” in *Perceptual Experience*, T. Gendler and J. Hawthorne (eds.), Oxford: Oxford University Press, 49–125.
-* –––, 2002. “On Sense and Intension,” *Philosophical Perspectives* 16, Atascadero: Ridgeview, 135–182.
-* Chisholm, R., 1957. *Perceiving: A Philosophical Study*, Ithaca: Cornell University Press.
-* Chuard, P., 2007. “The Riches of Experience,” in R. Genarro (ed.), *The Interplay between Consciousness and Concepts*, Special Issue, *Journal of Consciousness Studies*, 14 (9–10): 20–42.
-* Clark, Andy, 1997. *Being There*, Cambridge, MA: MIT Press.
-* Clark, Austen, 1993. *Sensory Qualities*, Oxford: Clarendon.
-* –––, 2000. *A Theory of Sentience*, Oxford: Oxford University Press.
-* –––, 2004. “Sensing, Objects, and Awareness: Reply to Commentators,” *Philosophical Psychology*, 17 (4): 553–579.
-* Condillac, E., 1947. *Traite des senations, Oeuvres Philosophiques de Condillac* (Volume 1), Paris: Presses Universitaires de France, pp. 219–314.
-* Craig, E., 1976. “Sensory Experience and the Foundations of Knowledge,” *Synthese*, 33 (8): 1–24.
-* Crane, T., 2003. “The Intentional Structure of Consciousness,” in Q. Smith and A. Jokic (eds.), *Consciousness: New Philosophical Essays*, Oxford: Oxford University Press.
-* –––, 1998, “The Waterfall Illusion,” in Y. Gunther (ed.), *Essays on Non-conceptual content*, Cambridge, MA: MIT Press, 231–36
-* ––– (ed.), 1992. *The Contents of Experience*, Cambridge: Cambridge University Press.
-* –––, 2001. *Elements of Mind*, Oxford: Oxford University Press.
-* –––, 1992. “The Non-conceptual Content of Experience,” in T. Crane (ed.), *The Contents of Experience*, Cambridge: Cambridge University Press, 136–57.
-* Cussins, A., 1990. “Content, Conceptual Content, and Nonconceptual Content,” in *Essays on Nonconceptual Content*, Y. Gunther (ed.), Cambridge, MA: MIT Press, pp. 133–163.
-* Dainton, B., 2000. *Stream of Consciousness*, London: Routledge and Kegan Paul.
-* Davies, M., 1996. “Externalism and experience,” *Philosophy and Cognitive Science: Categories, Consciousness, and Reasoning*, A. Clark, J. Ezquerro, and J. M. Larrazabal (eds.), Dordrecht: Kluwer. Reference to the reprinting in *The Nature of Consciousness*, N. Block, O. Flanagan, and G. Güzeldere (eds.), Cambridge, MA: MIT Press, 1997, 309–28.
-* –––, 1991. “Individualism and Perceptual Content,” *Mind*, 100: 485–94.
-* –––, 1992. “Perceptual Content and Local Supervenience,” *Proceedings of the Aristotelian Society*, 92: 21–45.
-* Dennett, D., 1991. *Consciousness Explained*, Boston: Little, Brown and Company.
-* Dretske, F., 1981. *Knowledge and the Flow of Information*, Cambridge, MA: MIT Press.
-* –––, 1995. *Naturalizing the Mind*, Cambridge, MA: MIT Press.
-* –––, 1993. “Conscious Experience,” *Mind*, 102 (406): 263–283.
-* Ducasse, C. J., 1942. “Moore’s ‘The Refutation of Idealism,’” in P. Schlipp (ed.), *The Philosophy of G.E. Moore*, Evanston, IL: Northwestern Press.
-* –––, 1965. “Causation: Perceived or Only Inferred?” *Philosophy and Phenomenological Research*, 26: 173–79.
-* Egan, A., 2006a. “Appearance Properties?” *Noûs* , 40 (3): 495–521.
-* –––, 2006b. “Secondary Qualities and Self-Location,” *Philosophy and Phenomenological Research*, 72 (1): 97–119.
-* –––, 2010. “Projectivism without Error,” in B. Nanay (ed.), *Perceiving the World*, New York: Oxford University Press, 68–96.
-* Egan, F., 1991. “Must Psychology be individualistic?” *Philosophical Review*, 100: 179–203.
-* Evans, G., 1982. *The Varieties of Reference*, Oxford: Oxford University Press.
-* –––, 1981. “Understanding Demonstratives,” in H. Parret and J. Bouveresse (eds.), *Meaning and Understanding*, Berlin: W. de Gruyter, 280–303.
-* Fales, E., 1990. *Causation and Universals*, London: Routledge.
-* Francescotti, R., 1991. “Externalism and Marr’s Theory of Vision,” *The British Journal for the Philosophy of Science*, 42: 227–38.
-* Fodor, J., 1987. *Psychosemantics*, Cambridge, MA: MIT Press.
-* Fotopoulou, A. *et al*., 2009. “Self-observation reinstates motor awareness in anosognosia for hemiplegia,” *Neuropsychologia*, 47: 1256–1260.
-* Gibson, J.J., 1977. “The Theory of Affordances,” in R. Shaw and J. Bransford (eds.), *Perceiving, Acting, and Knowing. Toward an Ecological Psychology*, Hillsdale: NJ, Lawrence Erlbaum Associates, 67–82; revised and republished as Chapter 8 of J.J. Gibson, *The Ecological Approach to Visual Perception*, Boston: Houghton Miflin, 1979.
-* Gluer, K., 2009. “In Defence of a Doxastic Account of Experience,” *Mind and Language*, 24: 297–373.
-* Greenberg, G., 2018. “Content and Target in Pictorial Representation,” *Ergo*, 5(33). doi:10.3998/ergo.12405314.0005.033
-* Grice, H.P., 1961. “The Causal Theory of Perception,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 35: 121–53.
-* Heck, R. G., 2000. “Nonconceptual content and the ‘space of reasons’,” *Philosophical Review*, 109: 483–523.
-* Holman, E., 2002. “Color eliminativism and color experience,” *Pacific Philosophical Quarterly*, 83: 38–56.
-* Horgan, T. and J. Tienson, 2002. “The intentionality of phenomenology and the phenomenology of intentionality,” in D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*, Oxford: Oxford University Press, 520–33.
-* Hurley, Susan, 2000. “Consciousness in Action” *European Journal of Philosophy*, 8 (1): 106–110.
-* Husserl, Edmund, 1900–01. *Logical Investigations*, J.N. Findlay (trans.), revised edition by D. Moran, London: Routledge 2001.
-* Jackson, F., 1977. *Perception: A Representative Theory*, Cambridge: Cambridge University Press.
-* Johnston, M., 2004. “The Obscure Object of Hallucination,” *Philosophical Studies*, 103: 113–83.
-* –––, 1992. “How to Speak of the Colors,” *Philosophical Studies*, 68: 221–63.
-* –––, 2006. “Better than mere knowledge? The function of sensory awareness,” in T.S. Gendler & John Hawthorne (eds.), *Perceptual Experience*, Oxford: Oxford University Press, 260–290.
-* –––, 2014. “The Problem with the Content View,” in B. Brogaard (ed.), *Does Perception Have Content?*, Oxford: Oxford University Press.
-* Kaplan, D., 1989. “Demonstratives,” and “Afterthoughts,” in *Themes from Kaplan*, J. Almog, J. Perry, and H. Wettstein (eds.), New York: Oxford University Press.
-* Kelly, S. D., 2001. “The non-conceptual content of perceptual experience: situation dependence and fineness of grain,” *Philosophy and Phenomenological Research*, 62: 601–8.
-* Kennett, S., Taylor-Clarke, M., and Haggard, P., 2001. “Noninformative vision improves the spatial resolution of touch in humans,” *Current Biology*, 11: 1188–1191.
-* Kriegel, U., 2002. “Phenomenal content,” *Erkenntnis*, 57: 175–198.
-* –––, 2013. “The Phenomenal Intentionality Research Program,” in U. Kriegel (ed.), *Phenomenal Intentionality*, New York: Oxford University Press, pp. 1–26.
-* Langsam, H., 2000. “Why colors do look like dispositions,” *Philosophical Quarterly*, 50: 68–75.
-* Lewis, D.K., 1986. *On the Plurality of Worlds*, Oxford: Blackwell.
-* Locatelli, R. and Wilson, K., forthcoming. “Perception without Representation,” *Topoi: An International Review of Philosophy* (special issue).
-* Loar, B., 2002. “Transparent Experience and the Availability of Qualia,” in Q. Smith and A. Jokic (eds.), *Consciousness: New Philosophical Perspectives*, Oxford: Oxford University Press, pp. 77–96.
-* Lycan, W., 2000. “The Slighting of Smell (with a brief word on the slighting of chemistry),” in N. Bhushan and S. Rosenfeld (eds.), *Of Minds and Molecules*, Oxford: Oxford University Press, pp. 273–89.
-* –––, 2001. “The Case for Phenomenal Externalism,” *Philosophical Perspectives*, 15: 17–35.
-* –––, 1996. *Consciousness and Experience*, Cambridge, MA: MIT Press.
-* Lyons, J., 2005a. “Clades, Capgras, and Perceptual Kinds,” *Philosophical Topics*, 33 (1):185–206.
-* –––, 2005b. “Perceptual belief and nonexperiential looks,” *Philosophical Perspectives*, 19 (1): 237–256.
-* Madary, M., 2012. “How would the world look if it as it were encoded as an intertwined set of probability density distributions?” *Frontiers in Psychology*, 3:419. doi:10.3389/fpsyg.2012.00419
-* Marr, D., 1982. *Vision*, San Francisco: Freeman Press.
-* Martin, M.G.F., 1992a. “Perception, Concepts and Memory,” reprinted in Y. Gunther (ed.), *Essays in Non-Conceptual Content*, Cambridge, MA: MIT Press, 237–250.
-* –––, 1992b. “Sight and Touch,” in *The Contents of Experience*, T. Crane (ed.), Cambridge: Cambridge University Press, pp. 196–215.
-* –––, 2002. “The Transparency of Experience,” *Mind & Language*, 17 (4): 376–425.
-* –––, 2003. “Particular Thoughts and Singular Thought,” in A. O’Hear (ed.), *Logic, Thought and Language*, Cambridge: Cambridge University Press.
-* –––, 2004. “The Limits of Self-Awareness,” *Philosophical Studies*, 120: 37–89.
-* –––, 2006. “On Being Alienated,” in *In Perceptual Experience*, T. Gendler Szabo and J. Hawthorne (eds.), Oxford: Oxford University Press, 354–410.
-* Masrour, F., 2011. “Is Perceptual Phenomenology Thin?” *Philosophy and Phenomenological Research*, 83 (2): 366–397
-* –––, 2015. “The geometry of visual space and the nature of visual experience,” *Philosophical Studies*, 172 (7): 1813–1832.
-* –––, forthcoming. “Space Perception, Visual Dissonance and the Fate of Standard Representationalism,” *Noús*, 50 (1); online February 2016, doi: 10.1111/nous.12139
-* Matthen, M., 2019. “Objects, seeing, and object-seeing,” *Synthese*, 198: 3265–3288.
-* Matthews, R., 1985, “Burge on Perceptual Individualism,” in P. Grimm and D. Merrill (eds.), *Contents of Thought*, Tucson: University of Arizona Press.
-* Maund, J.B., 1995. *Colours: Their Nature and Representation*, Cambridge: Cambridge University Press.
-* McDowell, J., 1994a. *Mind and World*, Cambridge, MA: Harvard University Press.
-* –––, 1984. “Values and Secondary Qualities,” in *Morality and Objectivity*, T. Honderich and Paul Kegan (eds.), London: Routledge, 110–129.
-* –––, 1998. “Reply to commentators,” *Philosophy and Phenomenological Research*, 58: 403–31.
-* –––, 1994b. “The Content of Perceptual Experience,” *Philosophical Quarterly*, 44: 190–205.
-* –––, 1982. “Criteria, Defeasibility and Knowledge,” *Proceedings of the British Academy*, 68: 455–79.
-* –––, 1995. “Knowledge and the Internal,” *Philosophy and Phenomenological Research*, 55 (5): 877–93.
-* –––, 1984. “De Re Senses,” in C. Wright (ed.), *Frege: Tradition and Influence*, Oxford: Blackwell Books.
-* McGinn, C., 1989. *Mental Content*, Oxford: Basil Blackwell.
-* –––, 1983. *The Subjective View*, Oxford: Oxford University Press.
-* –––, 1996. “Another Look at Color,” *Journal of Philosophy*, 93: 537–53.
-* McLaughlin, B., 1989. “Why Perception is not Singular Reference,” in *Cause, Mind and Reality*, J. Heil (ed.), Dordrecht: Kluwer, 111–20.
-* Merleau-Ponty, M., 1945. *The Phenomenology of Perception*, Colin Smith (trans.), London: Rooutledge 2002.
-* Michotte, A., 1963. *The Perception of Causality*, New York: Basic Books.
-* Morrison, J., 2015. “Perceptual Confidence,” *Analytic Philosophy*, 57 (1): 15–48.
-* Munton, J., 2016. “Visual confidence and perceptual justification,” *Philosophical Topics*, 44 (2): 301–326.
-* Nanay, B., 2011. “Do we see apples as edible?” *Pacific Philosophical Quarterly*, 92 (3): 305–322.
-* Noe, A. and O’Regan, K., 2001. “What it is like to see: a sensorimotor theory of perceptual experience,” *Synthese*, 129 (1): 79–103.
-* Raleigh, J and Vindrola, F., 2020. “Perceptual experience and degrees of belief,” *Philosophical Quarterly*, 2: 378–406.
-* O’Shaughnessy, B., 1989. “The Sense of Touch,” *Australasian Journal of Philosophy*, 67: 37–58.
-* –––, 2000. *Consciousness and the World*, Oxford: Clarendon.
-* Patterson, S., 1996. “Success-orientation and individualism in Marr’s theory of vision,” E. Akins (ed.), *Perception*, Oxford: Oxford University Press.
-* Pautz, A., 2010. “Why explain visual experience in terms of content?” in *Perceiving the World*, B. Nanay (ed.), New York: Oxford University Press, 254–309.
-* Peacocke, C., 1983. *Sense and Content*, Oxford: Oxford University Press.
-* –––, 1992. *A Study of Concepts*, Cambridge, MA: MIT Press.
-* –––, 1998. “Nonconceptual content defended,” *Philosophy and Phenomenological Research*, 58: 381–8.
-* –––, 2001a. “Does perception have a nonconceptual content?,” *Journal of Philosophy*, 98: 239–64.
-* –––, 2001b. “Phenomenology and Nonconceptual content,” *Philosophy and Phenomenological Research*, 62: 609–15.
-* Pendelbury, M., 1987. “Perceptual Representation,” *Proceedings of the Aristotleian Society*, 87: 91–106
-* Perry, J., 1977. “Frege on Demonstratives,” *Philosophical Review*, 86 (4): 474–97
-* Pietroski, P., 2000. *Causing Actions*, New York:Oxford University Press.
-* Pitcher, G., 1971. *Perception*, Princeton: Princeton University Press.
-* Premack, A., Premack, D., and Sperber, D. (eds.), 1995. *Causal Cognition*, Oxford: Clarendon.
-* Press, C., Taylor-Clarke, M., Kennett, S., and Haggard, P., 2004. “Visual enhancement of touch in spatial body representation,” *Experimental Brain Research*, 154: 238–45.
-* Prosser, S., 2011. “Affordances and Phenomenal Character in Spatial Perception,” *Philosophical Review*, 120 (4): 475–513.
-* Raffman, D., 1995. “On the Persistence of Phenomenology,” in T. Metzinger (ed.), *Conscious Experience*, Ferdinand-Schoningh: Paderborn, 293-302.
-* Reiland, I. and Lyons, J., 2015. “The Disunity of Perception: An Introduction,” *Pacific Philosophical Quarterly*, 96 (4): 443–445.
-* Richardson, L., 2013. “Sniffing and smelling,” *Philosophical Studies*, 162 (2): 401–419.
-* Sartre, J.P., 1958. *Being and Nothingness*, H. E. Barnes (trans.), New York: Washington Square Press.
-* Schellenberg, S., 2010. “The Particularity and Phenomenology of Visual Perception,” *Philosophical Studies*, 149 (1): 19–48.
-* –––, 2011. “Perceptual Content Defended,” *Noús*, 45 (4): 714–750.
-* –––, 2018. *The Unity of Perception*, Oxford: Oxford University Press.
-* Schiffer, S., 1978. “The Basis of Reference,” *Erkenntnis*, 13: 171–206.
-* Searle, J., 1983. *Intentionality: An Essay in the Philosophy of Mind*, Cambridge: Cambridge University Press.
-* –––, 1989. “Replies,” in E. LePore and R. Van Gulick (eds.), *John Searle and His Critics*, Oxford: Blackwell, 181–192.
-* Sedivy, S., 1996. “Must Conceptually-informed Experience Involve Non-conceptual Content?” *Canadian Journal of Philosophy*, 26: 413–31.
-* Segal, G., 1991. “Defense of a Reasonable Individualism,” *Mind*, 100 (4): 485–494.
-* –––, 1989. “Seeing What is the not There,” *Philosophical Review*, 98: 189–214
-* Sellars, W., 1975. “The Adverbial Theory of the Objects of Perception,” *Metaphilosophy*, 6: 144–60.
-* Shapiro, L., 1993. “Contents, Kinds and Individuation in Marr’s theory of vision,” *Philosophical Review*, 102 (4): 489–513.
-* Shoemaker, S., 1994. “Self-knowledge and ‘inner sense’,” (Lecture III: the phenomenal character of experience), *Philosophy and Phenomenological Research*, 54: 219–314.
-* –––, 1990. ‘Qualities and Qualia: What’s in the Mind?’ *Philosophy and Phenomenological Research*, 50 (Supplement): 109–31.
-* –––, 1981. “The Inverted Spectrum,” *Journal of Philosophy*, 74 (7): 357–81.
-* –––, 1996. “Intersubjective/Intersubjective,” in *The First-Person Perspective and Other Essays*, Cambridge: Cambridge University Press, pp. 141–54.
-* –––, 2006. “On the Ways Things Appear,” in *Perceptual Experience*, T. Gendler and J.Hawthorne (eds.), Oxford: Oxford University Press, 461–480.
-* Siegel, S., 2006a. “Which Properties are Represented in Perception?” in *In Perceptual Experience*, T. Gendler Szabo and J. Hawthorne (eds.), Oxford: Oxford University Press, 481–503.
-* –––, 2006b. “Subject and Object in the Contents of Visual Experience,” *Philosophical Review*, 115 (3): 355–88.
-* –––, 2004. “Indiscriminability and the Phenomenal,” *Philosophical Studies*, 120: 90–112.
-* –––, 2010a. “Do Experiences Have Contents?” in B. Nanay (ed.), *Perceiving the World*, New York: Oxford University Press, 333–68.
-* –––, 2010b. *The Contents of Visual Experience*, New York: Oxford University Press.
-* –––, 2014. “Affordances and the Contents of Perception,” in Berit Brogaard (ed.), *Does Perception Have Content?*, Oxford: Oxford University Press, 39–76.
-* Siewert, C., 1998. *The Significance of Consciousness*, Princeton: Princeton University Press.
-* Silins, N., 2011, “Seeing Through the Veil of Perception,” *Mind*, 120(478): 329–367.
-* Smith, A.D., 2002. *The Problem of Perception*, Cambridge, MA: Harvard University Press.
-* –––, 2000. “Space and Sight,” *Mind*, 109 (435): 481–518.
-* Sorensen, R., 2004. “We see in the dark,” *Noûs*, 38 (3): 456–480.
-* Soteriou, M., 2000. “The Particularity of Visual Perception,” *European Journal of Philosophy*, 8 (2): 173–89.
-* Speaks, J., 2005. “Is there a problem about nonconceptual content?” *Philosophical Review*, 114 (3): 359–98.
-* –––, 2009. “Transparency, intentionalism, and the nature of perceptual content,” *Philosophy and Phenomenological Research*, 79 (3): 539–573.
-* Spener, M., 2003. *Gilding or Staining the Mind: Phenomenology and the Metaphysics of Visual Experience*, Ph.D. thesis, Philosophy Department, University of London.
-* Stalnaker, R., 1984. *Inquiry*, Cambridge, MA: MIT Press.
-* –––, 1998a. “What Might Nonconceptual Content Be?” in E. Villanueva (ed.), *Philosophical Issues* 9, Atascadero, CA: Ridgeview, 339–52.
-* –––, 1981. “Indexical Belief” reprinted in *Context and Content*, Cambridge, MA: MIT Press, 1999, pp. 130–49.
-* –––, 2000. “Comparing Qualia Across Persons.” *Philosophical Topics*, 26: 385–405.
-* Stampe, D., 1977. “Towards a causal theory of linguistic representation,” *Midwest Studies in Philosophy*, 2: 42–63.
-* Stokes, D., M. Matthen and S. Biggs, 2014. *Perception and its Modalities*, Oxford: Oxford University Press.
-* Strawson, P. F., 1985. “Causation and Explanation” in *Essays on Davidson*, B. Vermazen (ed.), Oxford: Clarendon, pp. 115- 135.
-* –––, 1958. *Individuals*, London: Methuen.
-* Suppe, F. (ed.), 1977. *The Structure of Scientific Theories*, Urbana: University of Illinois Press, 2nd edition.
-* Szabó, Z., 2003. “Believing in Things,” *Philosophy and Phenomenological Research*, 66: 584–611.
-* Taylor, R., 1952. “Negative Things,” *Journal of Philosophy*, 19 (13): 433–449.
-* Travis, C., 2004. “The Silence of the Senses,” *Mind*, 113 (449): 57–94.
-* Thau, M., 2002. *Consciousness and Cognition*, Oxford: Oxford University Press.
-* Thompson, B., 2003. *The Nature of Phenomenal Content*, Ph.D. Dissertation, Philosophy Department, University of Arizona.
-* Tolliver. J.T., 1994. “Interior Colors,” *Philosophical Topics*, 22: 411–14.
-* Travis, C., 2013. “Susanna Siegel, The contents of visual experience,” *Philosophical Studies*, 163(3): 837–846.
-* Tye, M., 1995. *Ten Problems of Consciousness*, Cambridge, MA: MIT Press.
-* –––, 2000. *Consciousness, Color, and Content*, Cambridge, MA: MIT Press.
-* –––, 1984. “The Adverbial Approach of Visual Experience,” *Philosophical Review*, 93: 195–226.
-* –––, 2005. “Non-conceptual content, Richness, and Fineness of Grain,” in T. Gendler and J. Hawthorne (eds.), *Perceptual Experience*, Oxford: Oxford University Press, 504–26.
-* White, S., 2004. “Skepticism, Deflationism, and the Rediscovery of the Self,” *The Monist*, 87: 275–98.
-* –––, 1991. *The Unity of the Self*, Cambridge, MA: MIT Press
-* –––, 1991. “Partial Character and the Language of Thought,” in *The Unity of the Self* (Chapter 1), Cambridge, MA: MIT Press.
-* Wilson, K. and F. Macpherson, 2017. “Introduction: Perception without Representation,” *Topoi*, 36 (2): 197–212.
-* –––, 2018. “The Senses,” *Oxford Bibliographies in Philosophy*. doi:10.1093/OBO/9780195396577-0368
-* Williamson, T., 1990. *Identity and Discrimination*, Oxford: Blackwell.
-* Wright, W., 2003. “Projectivist representationalism and color,” *Philosophical Psychology*, 16(4): 515–29
+* Anscombe, E., 1965. “The Intentionality of Sensation: A Grammatical Feature,” in her _Collected Papers_ (Volume 2), _Metaphysics and the Philosophy of Mind_, Minneapolis: University of Minnesota Press, 1981, pp. 3–20.
+* Armstrong, D.M., 1961. _Perception and the Physical World_, London: Routledge and Kegan Paul.
+* –––, 1968. _A Materialist Theory of Mind_, London: Routledge and Kegan Paul.
+* –––, 1997. _A world of states of affairs_, Cambridge: Cambridge University Press.
+* Austin, D.F., 1990. _What’s the Meaning of “This”?_ Ithaca, NY: Cornell University Press.
+* Batty, C., 2010. “Olfactory Experience I: The Content of Olfactory Experience,” _Philosophy Compass_, 5(12): 1137–1146.
+* –––, 2011. “Smelling lessons,” _Philosophical Studies_, 153 (Mar): 161–174.
+* Bayne, T., 2009. “Perception and the reach of phenomenal content,” _Philosophical Quarterly_, 59 (236): 385–404.
+* Bayne, T. and Levy, N., 2006. “The Feeling of Doing,” in W. Prinz, & N. Sebanz (eds.), _Disorders of Volition_, Cambridge, MA: MIT Press, 49–68.
+* Beebee, H., 2003. “Seeing Causing,” _Proceedings of the Aristotelian Society_, 103: 257–280.
+* Bengson, J., 2013. “_Presentation and Content_. A Critical Study of Susanna Siegel, _The Contents of Visual Experience_,” _Noûs_, 47(4): 795–807.
+* Bermudez, J. and Macpherson, F., 1999. “Nonconceptual Content and the Nature of Perceptual Experience,” _The Electronic Journal of Analytic Philosophy_, Issue 6. \[[Available online](http://ejap.louisiana.edu/EJAP/1998/bermmacp98.html).
+* Block, N., 2003. “Mental paint,” _Reflections and Replies: 10 Essays With Responses From Tyler Burge_, M. Hahn and B. Ramberg (eds.), Cambridge, MA: MIT Press, 165–200.
+* –––, 1990. “Inverted earth,” _Philosophical Perspectives_, 4: 53–79.
+* –––, 1996. “Mental Paint and Mental Latex,” in E. Villanueva (ed.), _Philosophical Issues_ 7, Atascadero, CA: Ridgeview.
+* Boghossian, P. and Velleman, J. D., 1989. “Color as a Secondary Quality,” reprinted in A. Byrne and D. Hilbert (eds.), _Readings on Color_ (Volume 1), Cambridge, MA: MIT Press, 1997, 81–104.
+* Boring, E., 1929. _A History of Experimental Psychology_, New York: Appleton Century Crofts.
+* Braun, D., 1993. “Empty Names,” _Noûs_, 27: 449–69.
+* Breckenridge, W., 2007. “Against one reason for thinking that visual experiences have representational content,” _Philosophical Perspectives_, 21(1): 117–123.
+* Brewer, B., 1999. _Perception and Reason_, Oxford: Oxford University Press.
+* Broackes, J., 1992. “The Autonomy of Color,” in A. Byrne and D. Hilbert, _Readings on Color_ (Volume 1), Cambridge, MA: MIT Press, 191–226.
+* Brogaard, B., 2010. “Centered Worlds and the Content of Perception,” in S. Hales (ed.), _A Companion to Relativism_, New York: Wiley Blackwell, pp. 137–158.
+* –––, 2018. _Seeing and Saying: The language of perception and the representational view of experience_, New York: Oxford University Press.
+* Burge, T., 1986. “Individualism and Psychology,” _Philosophical Review_, 95: 3–45.
+* –––, 1988. “Authoritative Self-knowledge and Perceptual Individualism,” in R. Grimm and D. Merrill (eds.), _Contents of Thought_, Tucson: University of Arizona Press; reprinted in _Foundations of Mind: Philosophical Essays_ (Volume 2), Oxford: Oxford University Press, 208–220.
+* –––, 1991. ‘Vision and Intentional Content,’ in E. LePore and R. Van Gulick (eds.), _John Searle and his Critics_, Oxford: Blackwell, 195–214.
+* Byrne, A., 1996. “Spin control: comment on John McDowell’s Mind and World,” in E. Villanueva (ed.), _Philosophical Issues_ 7, Atascadero, CA: Ridgeview.
+* –––, 2001. “Intentionalism defended,” _Philosophical Review_, 110: 49–90.
+* –––, 2005. “Perception and Conceptual Content,” _Contemporary Debates in Epistemology_, E. Sosa and M. Steup (eds.), Oxford: Blackwell, pp. 231–250.
+* –––, 2001. “Do Colors Look Like Dispositions? Reply to Langsam and others,” _Philosophical Quarterly_, 51: 238–45.
+* –––, 2009. “Experience and Content,” _Philosophical Quarterly_, 59: 429–51.
+* –––, 2016. “The epistemic significance of experience,” _Philosophical Studies_, 173(4): 947–967.
+* Byrne, A. and Hilbert, D., 2003. “Color Realism Revisited,” _Behavioral and Brain Sciences_, 26: 791–4.
+* Campbell, J., 2002. _Reference and Consciousness_, Oxford: Oxford University Press.
+* –––, 2003. “A Simple View of Color,” in J. Haldane and C. Wright (eds.), _Reality Representation and Projection_, Oxford: Oxford University Press.
+* Carruthers, P., 2000. _Phenomenal Consciousness: A Naturalistic Theory_, Cambridge: Cambridge University Press.
+* Casullo, A., 1986. “The Spatial Structure of Perceptual Space,” _Philosophy and Phenomenological Research_, 46 (4): 665–71.
+* Cavedon-Taylor, D., 2018. “Odors, Objects and Olfaction,” _American Philosophical Quarterly_, 55 (1): 81–94.
+* Chalmers, D.J., 2004. The Representational Character of Experience, in _The Future for Philosophy_, B. Leiter (ed.), Oxford: Oxford University Press, 153–181.
+* –––, 2006. “Perception and the Fall from Eden,” in _Perceptual Experience_, T. Gendler and J. Hawthorne (eds.), Oxford: Oxford University Press, 49–125.
+* –––, 2002. “On Sense and Intension,” _Philosophical Perspectives_ 16, Atascadero: Ridgeview, 135–182.
+* Chisholm, R., 1957. _Perceiving: A Philosophical Study_, Ithaca: Cornell University Press.
+* Chuard, P., 2007. “The Riches of Experience,” in R. Genarro (ed.), _The Interplay between Consciousness and Concepts_, Special Issue, _Journal of Consciousness Studies_, 14 (9–10): 20–42.
+* Clark, Andy, 1997. _Being There_, Cambridge, MA: MIT Press.
+* Clark, Austen, 1993. _Sensory Qualities_, Oxford: Clarendon.
+* –––, 2000. _A Theory of Sentience_, Oxford: Oxford University Press.
+* –––, 2004. “Sensing, Objects, and Awareness: Reply to Commentators,” _Philosophical Psychology_, 17 (4): 553–579.
+* Condillac, E., 1947. _Traite des senations, Oeuvres Philosophiques de Condillac_ (Volume 1), Paris: Presses Universitaires de France, pp. 219–314.
+* Craig, E., 1976. “Sensory Experience and the Foundations of Knowledge,” _Synthese_, 33 (8): 1–24.
+* Crane, T., 2003. “The Intentional Structure of Consciousness,” in Q. Smith and A. Jokic (eds.), _Consciousness: New Philosophical Essays_, Oxford: Oxford University Press.
+* –––, 1998, “The Waterfall Illusion,” in Y. Gunther (ed.), _Essays on Non-conceptual content_, Cambridge, MA: MIT Press, 231–36
+* ––– (ed.), 1992. _The Contents of Experience_, Cambridge: Cambridge University Press.
+* –––, 2001. _Elements of Mind_, Oxford: Oxford University Press.
+* –––, 1992. “The Non-conceptual Content of Experience,” in T. Crane (ed.), _The Contents of Experience_, Cambridge: Cambridge University Press, 136–57.
+* Cussins, A., 1990. “Content, Conceptual Content, and Nonconceptual Content,” in _Essays on Nonconceptual Content_, Y. Gunther (ed.), Cambridge, MA: MIT Press, pp. 133–163.
+* Dainton, B., 2000. _Stream of Consciousness_, London: Routledge and Kegan Paul.
+* Davies, M., 1996. “Externalism and experience,” _Philosophy and Cognitive Science: Categories, Consciousness, and Reasoning_, A. Clark, J. Ezquerro, and J. M. Larrazabal (eds.), Dordrecht: Kluwer. Reference to the reprinting in _The Nature of Consciousness_, N. Block, O. Flanagan, and G. Güzeldere (eds.), Cambridge, MA: MIT Press, 1997, 309–28.
+* –––, 1991. “Individualism and Perceptual Content,” _Mind_, 100: 485–94.
+* –––, 1992. “Perceptual Content and Local Supervenience,” _Proceedings of the Aristotelian Society_, 92: 21–45.
+* Dennett, D., 1991. _Consciousness Explained_, Boston: Little, Brown and Company.
+* Dretske, F., 1981. _Knowledge and the Flow of Information_, Cambridge, MA: MIT Press.
+* –––, 1995. _Naturalizing the Mind_, Cambridge, MA: MIT Press.
+* –––, 1993. “Conscious Experience,” _Mind_, 102 (406): 263–283.
+* Ducasse, C. J., 1942. “Moore’s ‘The Refutation of Idealism,’” in P. Schlipp (ed.), _The Philosophy of G.E. Moore_, Evanston, IL: Northwestern Press.
+* –––, 1965. “Causation: Perceived or Only Inferred?” _Philosophy and Phenomenological Research_, 26: 173–79.
+* Egan, A., 2006a. “Appearance Properties?” _Noûs_ , 40 (3): 495–521.
+* –––, 2006b. “Secondary Qualities and Self-Location,” _Philosophy and Phenomenological Research_, 72 (1): 97–119.
+* –––, 2010. “Projectivism without Error,” in B. Nanay (ed.), _Perceiving the World_, New York: Oxford University Press, 68–96.
+* Egan, F., 1991. “Must Psychology be individualistic?” _Philosophical Review_, 100: 179–203.
+* Evans, G., 1982. _The Varieties of Reference_, Oxford: Oxford University Press.
+* –––, 1981. “Understanding Demonstratives,” in H. Parret and J. Bouveresse (eds.), _Meaning and Understanding_, Berlin: W. de Gruyter, 280–303.
+* Fales, E., 1990. _Causation and Universals_, London: Routledge.
+* Francescotti, R., 1991. “Externalism and Marr’s Theory of Vision,” _The British Journal for the Philosophy of Science_, 42: 227–38.
+* Fodor, J., 1987. _Psychosemantics_, Cambridge, MA: MIT Press.
+* Fotopoulou, A. _et al_., 2009. “Self-observation reinstates motor awareness in anosognosia for hemiplegia,” _Neuropsychologia_, 47: 1256–1260.
+* Gibson, J.J., 1977. “The Theory of Affordances,” in R. Shaw and J. Bransford (eds.), _Perceiving, Acting, and Knowing. Toward an Ecological Psychology_, Hillsdale: NJ, Lawrence Erlbaum Associates, 67–82; revised and republished as Chapter 8 of J.J. Gibson, _The Ecological Approach to Visual Perception_, Boston: Houghton Miflin, 1979.
+* Gluer, K., 2009. “In Defence of a Doxastic Account of Experience,” _Mind and Language_, 24: 297–373.
+* Greenberg, G., 2018. “Content and Target in Pictorial Representation,” _Ergo_, 5(33). doi:10.3998/ergo.12405314.0005.033
+* Grice, H.P., 1961. “The Causal Theory of Perception,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 35: 121–53.
+* Heck, R. G., 2000. “Nonconceptual content and the ‘space of reasons’,” _Philosophical Review_, 109: 483–523.
+* Holman, E., 2002. “Color eliminativism and color experience,” _Pacific Philosophical Quarterly_, 83: 38–56.
+* Horgan, T. and J. Tienson, 2002. “The intentionality of phenomenology and the phenomenology of intentionality,” in D. Chalmers (ed.), _Philosophy of Mind: Classical and Contemporary Readings_, Oxford: Oxford University Press, 520–33.
+* Hurley, Susan, 2000. “Consciousness in Action” _European Journal of Philosophy_, 8 (1): 106–110.
+* Husserl, Edmund, 1900–01. _Logical Investigations_, J.N. Findlay (trans.), revised edition by D. Moran, London: Routledge 2001.
+* Jackson, F., 1977. _Perception: A Representative Theory_, Cambridge: Cambridge University Press.
+* Johnston, M., 2004. “The Obscure Object of Hallucination,” _Philosophical Studies_, 103: 113–83.
+* –––, 1992. “How to Speak of the Colors,” _Philosophical Studies_, 68: 221–63.
+* –––, 2006. “Better than mere knowledge? The function of sensory awareness,” in T.S. Gendler & John Hawthorne (eds.), _Perceptual Experience_, Oxford: Oxford University Press, 260–290.
+* –––, 2014. “The Problem with the Content View,” in B. Brogaard (ed.), _Does Perception Have Content?_, Oxford: Oxford University Press.
+* Kaplan, D., 1989. “Demonstratives,” and “Afterthoughts,” in _Themes from Kaplan_, J. Almog, J. Perry, and H. Wettstein (eds.), New York: Oxford University Press.
+* Kelly, S. D., 2001. “The non-conceptual content of perceptual experience: situation dependence and fineness of grain,” _Philosophy and Phenomenological Research_, 62: 601–8.
+* Kennett, S., Taylor-Clarke, M., and Haggard, P., 2001. “Noninformative vision improves the spatial resolution of touch in humans,” _Current Biology_, 11: 1188–1191.
+* Kriegel, U., 2002. “Phenomenal content,” _Erkenntnis_, 57: 175–198.
+* –––, 2013. “The Phenomenal Intentionality Research Program,” in U. Kriegel (ed.), _Phenomenal Intentionality_, New York: Oxford University Press, pp. 1–26.
+* Langsam, H., 2000. “Why colors do look like dispositions,” _Philosophical Quarterly_, 50: 68–75.
+* Lewis, D.K., 1986. _On the Plurality of Worlds_, Oxford: Blackwell.
+* Locatelli, R. and Wilson, K., forthcoming. “Perception without Representation,” _Topoi: An International Review of Philosophy_ (special issue).
+* Loar, B., 2002. “Transparent Experience and the Availability of Qualia,” in Q. Smith and A. Jokic (eds.), _Consciousness: New Philosophical Perspectives_, Oxford: Oxford University Press, pp. 77–96.
+* Lycan, W., 2000. “The Slighting of Smell (with a brief word on the slighting of chemistry),” in N. Bhushan and S. Rosenfeld (eds.), _Of Minds and Molecules_, Oxford: Oxford University Press, pp. 273–89.
+* –––, 2001. “The Case for Phenomenal Externalism,” _Philosophical Perspectives_, 15: 17–35.
+* –––, 1996. _Consciousness and Experience_, Cambridge, MA: MIT Press.
+* Lyons, J., 2005a. “Clades, Capgras, and Perceptual Kinds,” _Philosophical Topics_, 33 (1):185–206.
+* –––, 2005b. “Perceptual belief and nonexperiential looks,” _Philosophical Perspectives_, 19 (1): 237–256.
+* Madary, M., 2012. “How would the world look if it as it were encoded as an intertwined set of probability density distributions?” _Frontiers in Psychology_, 3:419. doi:10.3389/fpsyg.2012.00419
+* Marr, D., 1982. _Vision_, San Francisco: Freeman Press.
+* Martin, M.G.F., 1992a. “Perception, Concepts and Memory,” reprinted in Y. Gunther (ed.), _Essays in Non-Conceptual Content_, Cambridge, MA: MIT Press, 237–250.
+* –––, 1992b. “Sight and Touch,” in _The Contents of Experience_, T. Crane (ed.), Cambridge: Cambridge University Press, pp. 196–215.
+* –––, 2002. “The Transparency of Experience,” _Mind & Language_, 17 (4): 376–425.
+* –––, 2003. “Particular Thoughts and Singular Thought,” in A. O’Hear (ed.), _Logic, Thought and Language_, Cambridge: Cambridge University Press.
+* –––, 2004. “The Limits of Self-Awareness,” _Philosophical Studies_, 120: 37–89.
+* –––, 2006. “On Being Alienated,” in _In Perceptual Experience_, T. Gendler Szabo and J. Hawthorne (eds.), Oxford: Oxford University Press, 354–410.
+* Masrour, F., 2011. “Is Perceptual Phenomenology Thin?” _Philosophy and Phenomenological Research_, 83 (2): 366–397
+* –––, 2015. “The geometry of visual space and the nature of visual experience,” _Philosophical Studies_, 172 (7): 1813–1832.
+* –––, forthcoming. “Space Perception, Visual Dissonance and the Fate of Standard Representationalism,” _Noús_, 50 (1); online February 2016, doi: 10.1111/nous.12139
+* Matthen, M., 2019. “Objects, seeing, and object-seeing,” _Synthese_, 198: 3265–3288.
+* Matthews, R., 1985, “Burge on Perceptual Individualism,” in P. Grimm and D. Merrill (eds.), _Contents of Thought_, Tucson: University of Arizona Press.
+* Maund, J.B., 1995. _Colours: Their Nature and Representation_, Cambridge: Cambridge University Press.
+* McDowell, J., 1994a. _Mind and World_, Cambridge, MA: Harvard University Press.
+* –––, 1984. “Values and Secondary Qualities,” in _Morality and Objectivity_, T. Honderich and Paul Kegan (eds.), London: Routledge, 110–129.
+* –––, 1998. “Reply to commentators,” _Philosophy and Phenomenological Research_, 58: 403–31.
+* –––, 1994b. “The Content of Perceptual Experience,” _Philosophical Quarterly_, 44: 190–205.
+* –––, 1982. “Criteria, Defeasibility and Knowledge,” _Proceedings of the British Academy_, 68: 455–79.
+* –––, 1995. “Knowledge and the Internal,” _Philosophy and Phenomenological Research_, 55 (5): 877–93.
+* –––, 1984. “De Re Senses,” in C. Wright (ed.), _Frege: Tradition and Influence_, Oxford: Blackwell Books.
+* McGinn, C., 1989. _Mental Content_, Oxford: Basil Blackwell.
+* –––, 1983. _The Subjective View_, Oxford: Oxford University Press.
+* –––, 1996. “Another Look at Color,” _Journal of Philosophy_, 93: 537–53.
+* McLaughlin, B., 1989. “Why Perception is not Singular Reference,” in _Cause, Mind and Reality_, J. Heil (ed.), Dordrecht: Kluwer, 111–20.
+* Merleau-Ponty, M., 1945. _The Phenomenology of Perception_, Colin Smith (trans.), London: Rooutledge 2002.
+* Michotte, A., 1963. _The Perception of Causality_, New York: Basic Books.
+* Morrison, J., 2015. “Perceptual Confidence,” _Analytic Philosophy_, 57 (1): 15–48.
+* Munton, J., 2016. “Visual confidence and perceptual justification,” _Philosophical Topics_, 44 (2): 301–326.
+* Nanay, B., 2011. “Do we see apples as edible?” _Pacific Philosophical Quarterly_, 92 (3): 305–322.
+* Noe, A. and O’Regan, K., 2001. “What it is like to see: a sensorimotor theory of perceptual experience,” _Synthese_, 129 (1): 79–103.
+* Raleigh, J and Vindrola, F., 2020. “Perceptual experience and degrees of belief,” _Philosophical Quarterly_, 2: 378–406.
+* O’Shaughnessy, B., 1989. “The Sense of Touch,” _Australasian Journal of Philosophy_, 67: 37–58.
+* –––, 2000. _Consciousness and the World_, Oxford: Clarendon.
+* Patterson, S., 1996. “Success-orientation and individualism in Marr’s theory of vision,” E. Akins (ed.), _Perception_, Oxford: Oxford University Press.
+* Pautz, A., 2010. “Why explain visual experience in terms of content?” in _Perceiving the World_, B. Nanay (ed.), New York: Oxford University Press, 254–309.
+* Peacocke, C., 1983. _Sense and Content_, Oxford: Oxford University Press.
+* –––, 1992. _A Study of Concepts_, Cambridge, MA: MIT Press.
+* –––, 1998. “Nonconceptual content defended,” _Philosophy and Phenomenological Research_, 58: 381–8.
+* –––, 2001a. “Does perception have a nonconceptual content?,” _Journal of Philosophy_, 98: 239–64.
+* –––, 2001b. “Phenomenology and Nonconceptual content,” _Philosophy and Phenomenological Research_, 62: 609–15.
+* Pendelbury, M., 1987. “Perceptual Representation,” _Proceedings of the Aristotleian Society_, 87: 91–106
+* Perry, J., 1977. “Frege on Demonstratives,” _Philosophical Review_, 86 (4): 474–97
+* Pietroski, P., 2000. _Causing Actions_, New York:Oxford University Press.
+* Pitcher, G., 1971. _Perception_, Princeton: Princeton University Press.
+* Premack, A., Premack, D., and Sperber, D. (eds.), 1995. _Causal Cognition_, Oxford: Clarendon.
+* Press, C., Taylor-Clarke, M., Kennett, S., and Haggard, P., 2004. “Visual enhancement of touch in spatial body representation,” _Experimental Brain Research_, 154: 238–45.
+* Prosser, S., 2011. “Affordances and Phenomenal Character in Spatial Perception,” _Philosophical Review_, 120 (4): 475–513.
+* Raffman, D., 1995. “On the Persistence of Phenomenology,” in T. Metzinger (ed.), _Conscious Experience_, Ferdinand-Schoningh: Paderborn, 293-302.
+* Reiland, I. and Lyons, J., 2015. “The Disunity of Perception: An Introduction,” _Pacific Philosophical Quarterly_, 96 (4): 443–445.
+* Richardson, L., 2013. “Sniffing and smelling,” _Philosophical Studies_, 162 (2): 401–419.
+* Sartre, J.P., 1958. _Being and Nothingness_, H. E. Barnes (trans.), New York: Washington Square Press.
+* Schellenberg, S., 2010. “The Particularity and Phenomenology of Visual Perception,” _Philosophical Studies_, 149 (1): 19–48.
+* –––, 2011. “Perceptual Content Defended,” _Noús_, 45 (4): 714–750.
+* –––, 2018. _The Unity of Perception_, Oxford: Oxford University Press.
+* Schiffer, S., 1978. “The Basis of Reference,” _Erkenntnis_, 13: 171–206.
+* Searle, J., 1983. _Intentionality: An Essay in the Philosophy of Mind_, Cambridge: Cambridge University Press.
+* –––, 1989. “Replies,” in E. LePore and R. Van Gulick (eds.), _John Searle and His Critics_, Oxford: Blackwell, 181–192.
+* Sedivy, S., 1996. “Must Conceptually-informed Experience Involve Non-conceptual Content?” _Canadian Journal of Philosophy_, 26: 413–31.
+* Segal, G., 1991. “Defense of a Reasonable Individualism,” _Mind_, 100 (4): 485–494.
+* –––, 1989. “Seeing What is the not There,” _Philosophical Review_, 98: 189–214
+* Sellars, W., 1975. “The Adverbial Theory of the Objects of Perception,” _Metaphilosophy_, 6: 144–60.
+* Shapiro, L., 1993. “Contents, Kinds and Individuation in Marr’s theory of vision,” _Philosophical Review_, 102 (4): 489–513.
+* Shoemaker, S., 1994. “Self-knowledge and ‘inner sense’,” (Lecture III: the phenomenal character of experience), _Philosophy and Phenomenological Research_, 54: 219–314.
+* –––, 1990. ‘Qualities and Qualia: What’s in the Mind?’ _Philosophy and Phenomenological Research_, 50 (Supplement): 109–31.
+* –––, 1981. “The Inverted Spectrum,” _Journal of Philosophy_, 74 (7): 357–81.
+* –––, 1996. “Intersubjective/Intersubjective,” in _The First-Person Perspective and Other Essays_, Cambridge: Cambridge University Press, pp. 141–54.
+* –––, 2006. “On the Ways Things Appear,” in _Perceptual Experience_, T. Gendler and J.Hawthorne (eds.), Oxford: Oxford University Press, 461–480.
+* Siegel, S., 2006a. “Which Properties are Represented in Perception?” in _In Perceptual Experience_, T. Gendler Szabo and J. Hawthorne (eds.), Oxford: Oxford University Press, 481–503.
+* –––, 2006b. “Subject and Object in the Contents of Visual Experience,” _Philosophical Review_, 115 (3): 355–88.
+* –––, 2004. “Indiscriminability and the Phenomenal,” _Philosophical Studies_, 120: 90–112.
+* –––, 2010a. “Do Experiences Have Contents?” in B. Nanay (ed.), _Perceiving the World_, New York: Oxford University Press, 333–68.
+* –––, 2010b. _The Contents of Visual Experience_, New York: Oxford University Press.
+* –––, 2014. “Affordances and the Contents of Perception,” in Berit Brogaard (ed.), _Does Perception Have Content?_, Oxford: Oxford University Press, 39–76.
+* Siewert, C., 1998. _The Significance of Consciousness_, Princeton: Princeton University Press.
+* Silins, N., 2011, “Seeing Through the Veil of Perception,” _Mind_, 120(478): 329–367.
+* Smith, A.D., 2002. _The Problem of Perception_, Cambridge, MA: Harvard University Press.
+* –––, 2000. “Space and Sight,” _Mind_, 109 (435): 481–518.
+* Sorensen, R., 2004. “We see in the dark,” _Noûs_, 38 (3): 456–480.
+* Soteriou, M., 2000. “The Particularity of Visual Perception,” _European Journal of Philosophy_, 8 (2): 173–89.
+* Speaks, J., 2005. “Is there a problem about nonconceptual content?” _Philosophical Review_, 114 (3): 359–98.
+* –––, 2009. “Transparency, intentionalism, and the nature of perceptual content,” _Philosophy and Phenomenological Research_, 79 (3): 539–573.
+* Spener, M., 2003. _Gilding or Staining the Mind: Phenomenology and the Metaphysics of Visual Experience_, Ph.D. thesis, Philosophy Department, University of London.
+* Stalnaker, R., 1984. _Inquiry_, Cambridge, MA: MIT Press.
+* –––, 1998a. “What Might Nonconceptual Content Be?” in E. Villanueva (ed.), _Philosophical Issues_ 9, Atascadero, CA: Ridgeview, 339–52.
+* –––, 1981. “Indexical Belief” reprinted in _Context and Content_, Cambridge, MA: MIT Press, 1999, pp. 130–49.
+* –––, 2000. “Comparing Qualia Across Persons.” _Philosophical Topics_, 26: 385–405.
+* Stampe, D., 1977. “Towards a causal theory of linguistic representation,” _Midwest Studies in Philosophy_, 2: 42–63.
+* Stokes, D., M. Matthen and S. Biggs, 2014. _Perception and its Modalities_, Oxford: Oxford University Press.
+* Strawson, P. F., 1985. “Causation and Explanation” in _Essays on Davidson_, B. Vermazen (ed.), Oxford: Clarendon, pp. 115- 135.
+* –––, 1958. _Individuals_, London: Methuen.
+* Suppe, F. (ed.), 1977. _The Structure of Scientific Theories_, Urbana: University of Illinois Press, 2nd edition.
+* Szabó, Z., 2003. “Believing in Things,” _Philosophy and Phenomenological Research_, 66: 584–611.
+* Taylor, R., 1952. “Negative Things,” _Journal of Philosophy_, 19 (13): 433–449.
+* Travis, C., 2004. “The Silence of the Senses,” _Mind_, 113 (449): 57–94.
+* Thau, M., 2002. _Consciousness and Cognition_, Oxford: Oxford University Press.
+* Thompson, B., 2003. _The Nature of Phenomenal Content_, Ph.D. Dissertation, Philosophy Department, University of Arizona.
+* Tolliver. J.T., 1994. “Interior Colors,” _Philosophical Topics_, 22: 411–14.
+* Travis, C., 2013. “Susanna Siegel, The contents of visual experience,” _Philosophical Studies_, 163(3): 837–846.
+* Tye, M., 1995. _Ten Problems of Consciousness_, Cambridge, MA: MIT Press.
+* –––, 2000. _Consciousness, Color, and Content_, Cambridge, MA: MIT Press.
+* –––, 1984. “The Adverbial Approach of Visual Experience,” _Philosophical Review_, 93: 195–226.
+* –––, 2005. “Non-conceptual content, Richness, and Fineness of Grain,” in T. Gendler and J. Hawthorne (eds.), _Perceptual Experience_, Oxford: Oxford University Press, 504–26.
+* White, S., 2004. “Skepticism, Deflationism, and the Rediscovery of the Self,” _The Monist_, 87: 275–98.
+* –––, 1991. _The Unity of the Self_, Cambridge, MA: MIT Press
+* –––, 1991. “Partial Character and the Language of Thought,” in _The Unity of the Self_ (Chapter 1), Cambridge, MA: MIT Press.
+* Wilson, K. and F. Macpherson, 2017. “Introduction: Perception without Representation,” _Topoi_, 36 (2): 197–212.
+* –––, 2018. “The Senses,” _Oxford Bibliographies in Philosophy_. doi:10.1093/OBO/9780195396577-0368
+* Williamson, T., 1990. _Identity and Discrimination_, Oxford: Blackwell.
+* Wright, W., 2003. “Projectivist representationalism and color,” _Philosophical Psychology_, 16(4): 515–29
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=perception-contents). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/perception-contents/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=perception-contents&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/perception-contents/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=perception-contents).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/perception-contents/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=perception-contents\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/perception-contents/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
-* Bach, Kent, 1997, “[Searle Against the World](http://online.sfsu.edu/~kbach/Searle.html)”, manuscript.
-* Horgan, T., and Tienson, J., 2005. “The Phenomenology of Embodied Agency,” in J. Joao Sàágua (ed.), *Mind and Action 3*, [[Preprint available online](http://www.u.arizona.edu/~thorgan/papers/mind/PhenomenologyEmbodiedAgency.doc)]
+* Bach, Kent, 1997, “[Searle Against the World](http://online.sfsu.edu/\~kbach/Searle.html)”, manuscript.
+* Horgan, T., and Tienson, J., 2005. “The Phenomenology of Embodied Agency,” in J. Joao Sàágua (ed.), _Mind and Action 3_, \[[Preprint available online](http://www.u.arizona.edu/\~thorgan/papers/mind/PhenomenologyEmbodiedAgency.doc)]
 * [Sandlot Science.com](http://www.sandlotscience.com/), an interesting collection of visual illusions.
 * [Contemporary Philosophy of Mind: An Annotated Bibliography](http://consc.net/biblio.html), compiled by David Chalmers (University of Arizona)
 * [The Contents of Perception](http://philpapers.org/browse/the-contents-of-perception/), in Philpapers.org.
-* Wilson, K. and F. Macpherson, 2018. *The Senses*, Oxford Bibliographies in Philosophy. DOI: 10.1093/OBO/9780195396577-0368
+* Wilson, K. and F. Macpherson, 2018. _The Senses_, Oxford Bibliographies in Philosophy. DOI: 10.1093/OBO/9780195396577-0368
 
 ## Related Entries
 
-[consciousness](https://plato.stanford.edu/entries/consciousness/) | [consciousness: representational theories of](https://plato.stanford.edu/entries/consciousness-representational/) | [consciousness: temporal](https://plato.stanford.edu/entries/consciousness-temporal/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [mental content: narrow](https://plato.stanford.edu/entries/content-narrow/) | [Molyneux’s problem](https://plato.stanford.edu/entries/molyneux-problem/) | [perception: auditory](https://plato.stanford.edu/entries/perception-auditory/) | [perception: experience and justification](https://plato.stanford.edu/entries/perception-justification/) | [perception: the disjunctive theory of](https://plato.stanford.edu/entries/perception-disjunctive/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [qualia: inverted](https://plato.stanford.edu/entries/qualia-inverted/) | [time: the experience and perception of](https://plato.stanford.edu/entries/time-experience/)
+[consciousness](https://plato.stanford.edu/entries/consciousness/) | [consciousness: representational theories of](https://plato.stanford.edu/entries/consciousness-representational/) | [consciousness: temporal](https://plato.stanford.edu/entries/consciousness-temporal/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [mental content: narrow](https://plato.stanford.edu/entries/content-narrow/) | [Molyneux’s problem](https://plato.stanford.edu/entries/molyneux-problem/) | [perception: auditory](https://plato.stanford.edu/entries/perception-auditory/) | [perception: experience and justification](https://plato.stanford.edu/entries/perception-justification/) | [perception: the disjunctive theory of](https://plato.stanford.edu/entries/perception-disjunctive/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [qualia: inverted](https://plato.stanford.edu/entries/qualia-inverted/) | [time: the experience and perception of](https://plato.stanford.edu/entries/time-experience/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Susanna Siegel](https://philosophy.fas.harvard.edu/people/susanna-siegel) <[*ssiegel@fas.harvard.edu*](mailto:ssiegel%40fas%2eharvard%2eedu)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Susanna Siegel](https://philosophy.fas.harvard.edu/people/susanna-siegel) <[_ssiegel@fas.harvard.edu_](mailto:ssiegel%40fas%2eharvard%2eedu)>

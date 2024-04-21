@@ -1,6 +1,6 @@
 # 知觉的认识论问题 epistemological problems of (Jack Lyons)
 
-*首次发表于2016年12月5日星期一；实质性修订于2023年3月14日星期二*
+_首次发表于2016年12月5日星期一；实质性修订于2023年3月14日星期二_
 
 认识论问题中的核心问题是解释知觉如何能够给我们关于外部世界的知识或合理信念，关于我们自身之外的事物。这个问题传统上被视为一种怀疑论的论证，声称这种知识和合理性是不可能的。对外部世界的怀疑强调了有关经验的本质和认识论角色以及知觉如何使我们与独立于心灵的现实接触的一系列认识论困难。这些问题对于更广泛地理解知识和合理性非常重要，即使与怀疑论无关。
 
@@ -10,9 +10,7 @@
 
 * [1. 外部世界的问题](https://plato.stanford.edu/entries/perception-episprob/#ProbExteWorl)
 * [2. 对中心问题的形而上学解决方案](https://plato.stanford.edu/entries/perception-episprob/#MetaSoluCentProb)
-
   * [2.1 直接存在的种类](https://plato.stanford.edu/entries/perception-episprob/#VariDirePres)
-
     * [2.1.1 现象直接性](https://plato.stanford.edu/entries/perception-episprob/#PhenDire)
     * [2.1.2 指称直接性](https://plato.stanford.edu/entries/perception-episprob/#RefeDire)
     * [2.1.3 知觉直接性](https://plato.stanford.edu/entries/perception-episprob/#PercDire)
@@ -20,30 +18,27 @@
     * [2.1.5 认识论直接性](https://plato.stanford.edu/entries/perception-episprob/#EpisDire)
   * [2.2 唯心主义和现象主义](https://plato.stanford.edu/entries/perception-episprob/#IdeaPhen)
   * [2.3 真实主义，直接和间接](https://plato.stanford.edu/entries/perception-episprob/#RealDireIndi)
-
-    * [ 2.3.1 感觉数据](https://plato.stanford.edu/entries/perception-episprob/#SensData)
+    * [2.3.1 感觉数据](https://plato.stanford.edu/entries/perception-episprob/#SensData)
     * [2.3.2 意向主义和副词主义](https://plato.stanford.edu/entries/perception-episprob/#InteAdve)
-    * [ 2.3.3 直接实在论](https://plato.stanford.edu/entries/perception-episprob/#DireReal)
+    * [2.3.3 直接实在论](https://plato.stanford.edu/entries/perception-episprob/#DireReal)
   * [2.4 对于形而上学解决方案的评论](https://plato.stanford.edu/entries/perception-episprob/#CommMetaSolu)
 * [3. 认识论问题的解决方案](https://plato.stanford.edu/entries/perception-episprob/#EpisSolu)
-
   * [3.1 Evidentialist Approaches](https://plato.stanford.edu/entries/perception-episprob/#EvidAppr)
-
     * [3.1.1 Classical Foundationalism](https://plato.stanford.edu/entries/perception-episprob/#ClasFoun)
     * [3.1.2 Fundamental Epistemic Principles](https://plato.stanford.edu/entries/perception-episprob/#FundEpisPrin)
-    * [ 3.1.3 一贯主义](https://plato.stanford.edu/entries/perception-episprob/#Cohe)
+    * [3.1.3 一贯主义](https://plato.stanford.edu/entries/perception-episprob/#Cohe)
     * [3.1.4 内部主义](https://plato.stanford.edu/entries/perception-episprob/#SeemInte)
     * [3.1.5 塞拉斯困境和其他挑战](https://plato.stanford.edu/entries/perception-episprob/#SellDileOtheChal)
     * [3.1.6 看似的外在主义](https://plato.stanford.edu/entries/perception-episprob/#SeemExte)
   * [3.2 因果论方法](https://plato.stanford.edu/entries/perception-episprob/#EtioAppr)
   * [3.3 与世界相关的方法](https://plato.stanford.edu/entries/perception-episprob/#WorlInvoAppr)
-* [ 4. 结论](https://plato.stanford.edu/entries/perception-episprob/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/perception-episprob/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/perception-episprob/#Aca)
+* [4. 结论](https://plato.stanford.edu/entries/perception-episprob/#Conc)
+* [参考文献](https://plato.stanford.edu/entries/perception-episprob/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/perception-episprob/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/perception-episprob/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/perception-episprob/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/perception-episprob/#Rel)
 
----
+***
 
 ## 1. 外部世界的问题
 
@@ -152,7 +147,7 @@ PEW 从间接性原则开始，人们常常认为中心怀疑的担忧是由于�
 
 经进一步思考，然而，很明显，形而上学的解释最多只能是解决方案的一部分。
 
- 再次考虑 PEW：
+再次考虑 PEW：
 
 1. 在知觉中，除了感知的表象之外，任何东西都不会直接呈现在心灵中。（间接性原则）因此：
 2. 没有充分的理由认为知觉表象是真实的，我们就没有理由相信我们的知觉信念。（元证据原则）
@@ -214,9 +209,9 @@ PEW 从间接性原则开始，人们常常认为中心怀疑的担忧是由于�
 
 第二种方法将表象信念视为由外在因素证明的，因此当表象信念伴随着对表象信念所描述的经验事实的熟悉时，它就是被证明的。例如，劳伦斯·邦乔尔（2003）从构成性的角度理解熟悉，尽管方式与刚才所见的方式非常不同。邦乔尔声称，对经验的感官内容的意识在某种程度上构成了有意识经验的一部分。这种意识因此是不可错误的，但表象信念——它们声称描述经验和构成意识——是可错误的。尽管如此，他急于指出，在这种条件下我们很有可能做对。同样，弗默顿（1995年，2001年）声称熟悉是一种非认识论的关系，但只要我们熟悉一个事实，与该事实真实性可能相关的一切都毫无问题地存在于心灵之前。
 
-这两种观点将熟悉视为一种形而上学（即非认识论）的关系。它们提出了一个独立的、进一步的论点，虽然不是直接蕴含的，但拥护者认为它在熟悉关系的本质上是非常合理的：当一个人与一种经验熟悉时，他有一个强有力的初步理由相信他有那种经验，而且这种理由不依赖于任何其他信念。在对熟悉的非认识论理解中，它使我们在对当前经验做出正确判断的位置上非常有利。大多数经典基础主义者承认所有表象信念都是可推翻的（即具有一种可以被进一步理由推翻或削弱的理由）；因此，所提出的主张仅仅是初步理由，而不是最终理由。（说一个信念是初步理由[又称为pro tanto]被证明是合理的，是指它具有一定的积极认识论地位，即如果它不被推翻或削弱的考虑所否定，那么它是合理的。）奇索姆（1977年）和蒂莫西·麦格鲁（2003年）支持更强的主张，即熟悉提供了不可推翻的最终理由。
+这两种观点将熟悉视为一种形而上学（即非认识论）的关系。它们提出了一个独立的、进一步的论点，虽然不是直接蕴含的，但拥护者认为它在熟悉关系的本质上是非常合理的：当一个人与一种经验熟悉时，他有一个强有力的初步理由相信他有那种经验，而且这种理由不依赖于任何其他信念。在对熟悉的非认识论理解中，它使我们在对当前经验做出正确判断的位置上非常有利。大多数经典基础主义者承认所有表象信念都是可推翻的（即具有一种可以被进一步理由推翻或削弱的理由）；因此，所提出的主张仅仅是初步理由，而不是最终理由。（说一个信念是初步理由\[又称为pro tanto]被证明是合理的，是指它具有一定的积极认识论地位，即如果它不被推翻或削弱的考虑所否定，那么它是合理的。）奇索姆（1977年）和蒂莫西·麦格鲁（2003年）支持更强的主张，即熟悉提供了不可推翻的最终理由。
 
-到目前为止，我们还没有看到任何关于证据的讨论；这些观点将在从表象信念到关于外部世界的信念的转变中稍后出现。但是，一种更强的证据主义可以认为经验（或与之熟悉）不仅作为表象信念的真理制造者和证明者，而且也作为该信念的证据。在这里，“证据”并不仅仅指任何能够为信念提供合理性的因素，而是指作为该信念的基础、理由或合理依据的东西。并非所有具有合理性或与合理性相关的因素都符合这种意义上的证据（如果是这样的话，证据主义[参见Conee和Feldman（2004）和认识论条目]就不会是一个有争议的命题）。在当前的背景下，证据是一个人可以拥有并以此为基础形成信念的东西；拥有与某个信念相符或支持的证据的人对于该信念（从表面上看）具有命题上的合理性，并且如果该信念是基于这些证据形成的，则具有信念上的合理性。并非所有具有合理性的因素都符合这个要求。例如，笛卡尔认为所有明确而清晰的判断都是合理的，尽管某些判断——例如，“我思考”——在没有对清晰和明确性的证据上诉的情况下是合理的。它之所以合理，是因为它是明确而清晰的，而不是因为个体意识到这个事实或者理解这个事实的认识论意义，因此在这里，清晰和明确并不起到证据的作用。同样，可靠主义大致上认为，信念的可靠形成使其合理；尽管可靠性不需要——通常也不会——成为个体相信某事的证据或理由。
+到目前为止，我们还没有看到任何关于证据的讨论；这些观点将在从表象信念到关于外部世界的信念的转变中稍后出现。但是，一种更强的证据主义可以认为经验（或与之熟悉）不仅作为表象信念的真理制造者和证明者，而且也作为该信念的证据。在这里，“证据”并不仅仅指任何能够为信念提供合理性的因素，而是指作为该信念的基础、理由或合理依据的东西。并非所有具有合理性或与合理性相关的因素都符合这种意义上的证据（如果是这样的话，证据主义\[参见Conee和Feldman（2004）和认识论条目]就不会是一个有争议的命题）。在当前的背景下，证据是一个人可以拥有并以此为基础形成信念的东西；拥有与某个信念相符或支持的证据的人对于该信念（从表面上看）具有命题上的合理性，并且如果该信念是基于这些证据形成的，则具有信念上的合理性。并非所有具有合理性的因素都符合这个要求。例如，笛卡尔认为所有明确而清晰的判断都是合理的，尽管某些判断——例如，“我思考”——在没有对清晰和明确性的证据上诉的情况下是合理的。它之所以合理，是因为它是明确而清晰的，而不是因为个体意识到这个事实或者理解这个事实的认识论意义，因此在这里，清晰和明确并不起到证据的作用。同样，可靠主义大致上认为，信念的可靠形成使其合理；尽管可靠性不需要——通常也不会——成为个体相信某事的证据或理由。
 
 更强的证据主义观点认为，即使是直接（即基本/立即）被证明合理的信念也是通过证据联系来证明的，但由于这些信念是基本的，它们的证据必须包含除（合理的）信念之外的其他东西。因此，有一种流行观点认为知觉经验是非信念状态，但仍然作为外貌信念的证据，就像信念作为其他信念的证据一样，尽管有一个关键的区别：为了使一个信念作为另一个信念的证据，前者必须是合理的；根据大多数观点，经验无法被证明合理，因此既不能被证明合理也不能被证明不合理，但在标准的强证据主义观点中，经验仍然可以作为证据并赋予信念合理性。在这种观点下，外貌信念的合理性取决于与其他心理状态的证据联系，而不是与其他信念的联系，而且由于经验不需要被证明合理才能作为证据，因此威胁到的回归在与基础主义一致的方式下停止。这种非信念证据的想法引发了一些问题，我们很快就会看到。
 
@@ -256,13 +251,13 @@ PEW 从间接性原则开始，人们常常认为中心怀疑的担忧是由于�
 
 一些适度基础主义的支持者更进一步，对无好理由主张提出了一个派生的否定：由于我们已经对周围环境有合理的信念，并且对知觉的产物有内省的知识，我们可以构建非循环的论证来证明知觉的可靠性。事实上，如果我能够在没有关于知觉可靠性的元证据的情况下对我周围的世界有一阶知识，那么我应该能够积累经验证据来认为我不是一个装在罐子里的大脑，我不是在做梦等等，而不需要先提出问题。这是否应该被视为该理论的优点还是缺点，这是一个有争议的问题。对怀疑论的“摩尔式”回应的支持者（参见怀疑论和认识论封闭性的条目）将会把这看作是适度基础主义的一个卖点（普赖尔，2000年）。其他人（沃格尔，2000年，2008年；科恩，2002年）则将这一结果解释为该理论的一个根本性缺陷：它使得证明和知识变得“太容易”。就好像我使用一个未经测试的速度计来形成关于我的速度以及速度计所指示的速度的信念，然后使用许多这样的信念对来归纳地论证速度计的可靠性。
 
-适度的基础主义支持认识论的直接性（上文 2.1.5 节），可以被视为一种认识论的直接实在主义，因为它在相当明确的认识论意义上使世界及其要素“直接呈现”于心灵：感知的证明并不依赖于任何其他证明；没有其他信念介入我们和世界之间（事实上，约翰·波洛克[1971 年，1986 年]对他的适度基础主义的称呼是“直接实在主义”；参见波洛克和克鲁兹 1999 年）。适度的基础主义与任何关于感知本质的形而上学观点都是兼容的。即使是感观数据理论家也可以接受这种认识论的直接实在主义，前提是他们认为从感觉数据到外部对象的推理是一种（也许是无意识的或个人下意识的）推理，不对结论信念施加证据要求。
+适度的基础主义支持认识论的直接性（上文 2.1.5 节），可以被视为一种认识论的直接实在主义，因为它在相当明确的认识论意义上使世界及其要素“直接呈现”于心灵：感知的证明并不依赖于任何其他证明；没有其他信念介入我们和世界之间（事实上，约翰·波洛克\[1971 年，1986 年]对他的适度基础主义的称呼是“直接实在主义”；参见波洛克和克鲁兹 1999 年）。适度的基础主义与任何关于感知本质的形而上学观点都是兼容的。即使是感观数据理论家也可以接受这种认识论的直接实在主义，前提是他们认为从感觉数据到外部对象的推理是一种（也许是无意识的或个人下意识的）推理，不对结论信念施加证据要求。
 
 适度的基础主义通常与内在主义、强证据主义版本的理论相关联，最初由波洛克（1971 年）和安东尼·昆顿（1973 年）开发，但在近几十年来由詹姆斯·普赖尔（2000 年）、迈克尔·休默（2001 年）等人重新引起关注。这些观点认为，关于外部对象、事件和属性的感知信念是由相应的感知经验直接证明的；正是经验本身，而不是关于经验的信念，起到证明的作用。因此，休默（2007 年）的“现象学保守主义”，普赖尔（2000 年）的“狗狂主义”和波洛克（1971 年，1974 年，1986 年）的“直接实在主义”都支持以下原则：
 
 如果 S 有一个关于 p 的感知经验，那么 S 在相对合理的情况下有理由相信 p。
 
- 或者：
+或者：
 
 如果对于 S 来说，p 在感知上似乎是真实的，那么 S 在相信 p 方面是原 facie 合理的。
 
@@ -293,9 +288,9 @@ Susanna Schellenberg（2013 年，2018 年）的观点最好被归类为一种�
 
 如上所述，表面主义声称经验的内容与信念的内容相同，因此拒绝了塞拉斯论证的前提（3）。可能有足够接近的变体仍然被视为表面主义，否认（2），从而允许具有非概念内容的经验来证明信念。标准模式必须进行修改：
 
-如果 S 有一个关于 p*的感知经验，那么 S 在相信 p 方面是原 facie 合理的。
+如果 S 有一个关于 p\*的感知经验，那么 S 在相信 p 方面是原 facie 合理的。
 
-当然，人们肯定希望对 p 和 p*之间的关系做更多的说明。尽管他关注的不是非概念内容，但尼科·西林斯（2011）辩护了一种类似于表面主义的观点，其中经验不需要与信念具有相同的内容。
+当然，人们肯定希望对 p 和 p\*之间的关系做更多的说明。尽管他关注的不是非概念内容，但尼科·西林斯（2011）辩护了一种类似于表面主义的观点，其中经验不需要与信念具有相同的内容。
 
 第二个问题是外来感官方式的问题（Bergmann 2006）。可能存在一些具有与我们不同的感官方式和经验的生物：回声定位、电感等等，可以合理地认为这些生物在其外来的知觉信念上是有正当理由的。如果元证据信念对于知觉的合理化并非必要条件，那么这些经验也应该能够合理化我们对于相同信念的持有。然而，直觉上，突然的电感经验并不能使我合理地相信在我身后大约三英尺处有一只中等大小的动物。事实上，对于不同（可靠主义）理论的一个著名反对意见似乎同样适用于知觉内在主义。Norman（BonJour 1980）没有理由认为自己具有可靠的透视能力，但有一天他有了一个透视经验，感觉到总统在纽约；直觉上，他并没有初步合理地相信总统在纽约，然而，知觉内在主义似乎暗示他是这样的。透视反对意见通常针对可靠主义理论，而不是基于可靠性成分，而是基于它们对元证据原则的拒绝，这种拒绝也被知觉内在主义所共享。有人可能会回答说，Norman的经验并不完全是知觉的；也许这可以提供一种解决办法，特别是如果能够解释为什么它不是知觉的，以及为什么这会有所不同。一些知觉内在主义的版本将其主张限制在知觉上（Pryor 2000），尽管一些版本（Huemer 2007）则更广泛地适用于各种感觉。
 
@@ -321,7 +316,7 @@ Susanna Schellenberg（2013 年，2018 年）的观点最好被归类为一种�
 
 如果只有在可靠性或适当功能被加入到混合物中时，经验才具有证明力，人们可能会想知道是否最好省略对经验的任何参考，并直接以可靠性或适当功能的术语来分析知觉的证明。事实上，这两种方法构成了知觉证明和知识的两种突出的因果论方法。第三种因果论方法是推理主义方法。这三种方法都拒绝元证据原则和内在主义。
 
-Goldman（1979 年，1986 年）认为，证明是由一个认知过程的运作或行使产生的，该过程在客观上可能会产生真实的信念；在这个意义上，这个过程必须真正可靠，但是代理人不需要意识到这个事实。[5]（为了成为最终的合理化，代理人不能有理由认为这个过程是不可靠的。）
+Goldman（1979 年，1986 年）认为，证明是由一个认知过程的运作或行使产生的，该过程在客观上可能会产生真实的信念；在这个意义上，这个过程必须真正可靠，但是代理人不需要意识到这个事实。\[5]（为了成为最终的合理化，代理人不能有理由认为这个过程是不可靠的。）
 
 知觉证明的可靠主义理论是从一般合理主义理论中得出的，其中最简单的版本是认为
 
@@ -359,155 +354,155 @@ Goldman（1979 年，1986 年）认为，证明是由一个认知过程的运作
 
 ## Bibliography
 
-* Alston, William P., 1988, “An Internalist Externalism”, *Synthese*, 74(3): 265–283. doi:10.1007/BF00869630
-* –––, 1993, *The Reliability of Sense Perception*, Ithaca: Cornell University Press.
-* –––, 1999, “Back to the Theory of Appearing”, *Philosophical Perspectives*, 13: 181–203.
-* Augustine, *Against the Academicians* and *The Teacher*, P. King (trans.), Indianapolis, Indiana: Hackett Publishing, 1995.
-* Bengson, John, Enrico Grube, & Daniel Z. Korman, 2011, “A New Framework for Conceptualism”, *Noûs*, 45(1): 167–189. doi:10.1111/j.1468-0068.2010.00764.x
-* Bergmann, Michael, 2004, “Externalist Justification without Reliability”, *Philosophical Issues*, 14(1): 35–60. doi:10.1111/j.1533-6077.2004.00019.x
-* –––, 2006, *Justification Without Awareness: A Defense of Epistemic Externalism*, New York: Oxford University Press.
-* –––, 2013, “Externalist Justification and the Role of Seemings”, *Philosophical Studies,* 166 (1): 163–184.
-* Berkeley, George, 1710, *A Treatise Concerning the Principles of Human Knowledge*, reprinted in Berkeley 1975, 61–127.
-* –––, 1713, *Three Dialogues Between Hylas and Philonous*, reprinted in Berkeley 1975, 129–207.
-* –––, 1975, *George Berkeley: Philosophical Works, Including the Works on Vision*, M. R. Ayers (ed.), London: Dent.
-* BonJour, Laurence, 1978, “Can Empirical Knowledge Have a Foundation?” *American Philosophical Quarterly*, 15(1): 1–13.
-* –––, 1980, “Externalist Theories of Empirical Knowledge”, *Midwest Studies in Philosophy*, 5(1): 53–73. doi:10.1111/j.1475-4975.1980.tb00396.x
-* –––, 1985, *The Structure of Empirical Knowledge*, Cambridge: Harvard University Press.
-* –––, 1997, “Haack on Justification and Experience”, *Synthese*, 112(1): 13–23. doi:10.1023/A:1004972413209
-* –––, 2003, “A Version of Internalist Foundationalism”, in Laurence BonJour & Ernest Sosa, *Epistemic Justification: Internalism vs. Externalism, Foundations vs. Virtues*, Malden, MA: Blackwell, 3–96.
-* –––, 2010, *Epistemology: Classic Problems and Contemporary Responses*, 2nd edition, Lanham, MD: Rowman and Littlefield.
-* Brewer, Bill, 1999, *Perception and Reason*, Oxford: Oxford University Press. doi:10.1093/0199250456.001.0001
-* –––, 2011, *Perception and its Objects*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199260256.001.0001
-* Brogaard, Berit, 2013, “Phenomenal Seemings and Sensible Dogmatism”, in Chris Tucker (ed.), *Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism*, Oxford: Oxford University Press, 270–289. doi:10.1093/acprof:oso/9780199899494.003.0012
-* Byrne, Alex, 2005, “Perception and Conceptual Content”, in Ernest Sosa & Matthias Steup (eds.), *Contemporary Debates in Epistemology*, Boston: Blackwell, 231–250.
-* –––, 2014, “Perception and Evidence”, *Philosophical Studies*, 170: 101–13.
-* –––, 2016, “The Epistemic Significance of Experience”, *Philosophical Studies*, 173(4): 947–67. doi:10.1007/s11098-015-0537-7
-* Burge, Tyler, 2003, “Perceptual Entitlement”, *Philosophy and Phenomenological Research*, 67(3): 503–548.
-* –––, 2020, “Entitlement: The Basis For Empirical Warrant”, in Peter Graham & Nikolaj Pedersen (eds.), *Epistemic Entitlement*, Oxford: Oxford University Press.
-* Chalmers, David J., 2003, “The Content and Epistemology of Phenomenal Belief”, in Quentin Smith & Aleksandar Jokic (eds.), *Consciousness: New Philosophical Perspectives*, Oxford: Oxford University Press, 220–271.
-* Chisholm, Roderick M., 1957, *Perceiving: A Philosophical Study*, Ithaca, NY: Cornell University Press.
-* –––, 1966, *Theory of Knowledge*, Englewood Cliffs, NJ: Prentice-Hall
-* –––, 1977, *Theory of Knowledge*, 2nd edition, Englewood Cliffs, NJ: Prentice-Hall.
-* Chudnoff, Elijah, 2018, “Epistemic Elitism and Other Minds”, *Philosophy and Phenomenological Research*, 96(2): 276–298.
-* –––, 2021, *Forming Impressions*, Oxford: Oxford University Press.
-* Chudnoff Elijah, & David Didomenico, 2015, “The Epistemic Unity of Perception”, *Pacific Philosophical Quarterly*, 96(4): 535–549. doi:10.1111/papq.12114
-* Cohen, Stewart, 1984, “Justification and Truth”, *Philosophical Studies*, 46: 279–295.
-* –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 309–329. doi:10.1111/j.1933-1592.2002.tb00204.x
-* Comesaña, Juan, 2010, “Evidentialist Reliabilism”, *Noûs*, 44(4): 571–600. doi:10.1111/j.1468-0068.2010.00748.x
-* Conee, Earl, 1988, “The Basic Nature of Epistemic Justification”, *The Monist*, 71(3): 389–404. Reprinted in Conne & Feldman 2004. doi:10.1093/0199253722.003.0003
-* Conee, Earl & Richard Feldman, 2004, *Evidentialism: Essays in Epistemology*, Oxford: Oxford University Press. doi:10.1093/0199253722.001.0001
-* Davidson, Donald, 1986, “A Coherence Theory of Truth and Knowledge”, in *Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson*, Ernest Lepore, (ed.), New York: Blackwell, 307–319.
-* –––, 1987, “Knowing One’s Own Mind”, *Proceedings and Addresses of the American Philosophical Association*, 61(3): 441–58. doi:10.2307/3131782
-* Descartes, René, 1641, *Meditations on First Philosophy*, in *The Philosophical Writings of Descartes*, John Cottingham, Robert Stoothoff, and Dugald Murdoch (trans.), vol. 2, Cambridge: Cambridge University Press, 1985, 1–62.
-* Dretske, Fred, 1971, “Conclusive Reasons”, *Australasian Journal of Philosophy*, 49: 1–22
-* Dreyfus, Hubert L., 2002, “Intelligence Without Representation—Merleau-Ponty’s Critique of Mental Representation: The Relevance of Phenomenology to Scientific Explanation”, *Phenomenology and the Cognitive Sciences*, 1(4): 367–383. doi:10.1023/A:1021351606209
-* Feldman, Richard, 2003, *Epistemology*, Upper Saddle River, NJ: Prentice-Hall.
-* Foster, John, 2008, *A World for Us: The Case for Phenomenalistic Idealism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199297139.001.0001
-* Fumerton, Richard A., 1995, *Metaepistemology and Skepticism*, Lanham, MD: Rowman and Littlefield.
-* –––, 2001, “Classical Foundationalism”, in M. DePaul (ed.), *Resurrecting Old-fashioned Foundationalism.* Lanham, MD: Rowman and Littlefield, 3–20.
-* Ghijsen, Harmen, 2014, “Phenomenalist Dogmatist Experientialism and the Distinctiveness Problem”, *Synthese*, 191(7): 1549–66.
-* –––, 2021, “Predictive Processing and Foundationalism About Perception”, *Synthese*, 198(7): 1751–69.
-* Goldman, Alvin I., 1979, “What Is Justified Belief?” in G. Pappas (ed.), *Justification and Knowledge*, Dordrecht: Reidel, 1–25.
-* –––, 1986, *Epistemology and Cognition*, Cambridge, MA: Harvard University Press.
-* –––, 1988, “Strong and Weak Justification”, *Philosophical Perspectives*, 2: 51–69.
-* –––, 2011, “Commentary on Jack Lyons’s *Perception and Basic Beliefs*”, *Philosophical Studies*, 153(3): 457–66. doi:10.1007/s11098-010-9602-4
-* Graham, Peter J., 2012, “Epistemic Entitlement”, *Noûs*, 46(3): 449–482. doi:10.1111/j.1468-0068.2010.00815.x
-* –––, 2019, “Why is Warrant Normative?”, *Philosophical Issues*, 29(1): 110–128.
-* Graham, Peter J., & Nikolaj J. L. L. Pedersen, 2020, “Dretske & McDowell on Perceptual Knowledge, Conclusive Reasons, and Epistemological Disjunctivism”, *Philosophical Issues*, 30(1): 148–166.
-* Greco, John, 2000, *Putting Skeptics in Their Place*, Cambridge: Cambridge University Press.
-* Gupta, Anil, 2006, *Empiricism and Experience*, Oxford: Oxford University Press.
-* Haack, Susan, 1993, *Evidence and Inquiry: Toward Reconstruction in Epistemology*, Oxford: Blackwell.
-* Haddock, Adrian & Fiona Macpherson (eds.), 2008, *Disjunctivism: Perception, Action, Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199231546.001.0001
-* Heck, Richard G. Jr., 2000, “Nonconceptual Content and the ‘Space of Reasons’”, *Philosophical Review*, 109(4): 483–523. doi:10.2307/2693622
-* Hoffman, Donald D., 2009, “The Interface Theory of Perception”, in Sven J. Dickinson, Michael J. Tarr, Aleš Leonardis, & Bernt Schiele (eds.) *Object Categorization: Computer and Human Vision Perspectives*, Cambridge, UK: Cambridge University Press, 148–165.
-* Huemer, Michael, 2001, *Skepticism and the Veil of Perception*, Lanham, MD: Rowman and Littlefield.
-* –––, 2007, “Compassionate Phenomenal Conservatism”, *Philosophy and Phenomenological Research*, 74(1): 30–55. doi:10.1111/j.1933-1592.2007.00002.x
-* –––, 2013, “Epistemological Asymmetries Between Belief and Experience”, *Philosophical Studies*, 162(3): 741–748. doi:10.1007/s11098-012-0056-8
-* Hume, David, 1739, *A Treatise of Human Nature*, Peter H. Nidditch (ed.), Oxford: Clarendon Press, 1978.
-* –––, 1748, *Enquiry Concerning Human Understanding*, reprinted in *Enquiries Concerning Human Understanding and Concerning the Principle of Morals*, Peter H. Nidditch (ed.), Oxford: Clarendon Press, 1975.
-* Johnston, Mark, 2011, “On a Neglected Epistemic Virtue”, *Philosophical Issues*, 21: 165–218.
-* Kant, Immanuel, 1781, *Critique of Pure Reason*, Norman Kemp Smith, (trans.), London: Macmillan; New York: St. Martin’s Press, 1929.
-* Kvanvig, Jonathan L., 2012, “Coherentism”, in Andrew Cullison (ed.), *The Continuum Companion to Epistemology*, New York: Continuum Press, 57–72.
-* Kvanvig, Jonathan L. & Wayne D. Riggs, 1992, “Can a Coherence Theory Appeal to Appearance States?” *Philosophical Studies*, 67(3): 197–217. doi:10.1007/BF00354536
-* Lehrer, Keith, 1990, *Theory of Knowledge*, Boulder, CO: Westview.
-* Lehrer, Keith & Stewart Cohen, 1983, “Justification, Truth, and Coherence”, *Synthese*, 55(2): 191–207. doi:10.1007/BF00485068
-* Littlejohn, Clayton, 2012, *Justification and the Truth-Connection*, Cambridge: Cambridge University Press.
-* Locke, John, 1690, *An Essay Concerning Human Understanding*, reprinted Clarendon Edition of the Works of John Locke, Peter H. Nidditch (ed.), Oxford: Oxford University Press, 1975.
-* Lyons, Jack C., 2005, “Perceptual Belief and Nonexperiential Looks”, *Philosophical Perspectives*, 19(1): 237–256. doi:10.1111/j.1520-8583.2005.00061.x
-* –––, 2008, “Evidence, Experience, and Externalism”, *Australasian Journal of Philosophy*, 86: 461–79.
-* –––, 2009, *Perception and Basic Beliefs: Zombies, Modules, and the Problem of the External World*, New York: Oxford University Press.
-* –––, 2011, “Circularity, Reliability, and the Cognitive Penetrability of Perception”, *Philosophical Issues*, 21: 289–311.
-* –––, 2012, “Should Reliabilists be Worried About Demon Worlds?” *Philosophy and Phenomenological Research*, 86(1): 1–40. doi:10.1111/j.1933-1592.2012.00614.x
-* –––, 2016, “Experiential Evidence?” *Philosophical Studies*, 173(4): 1053–79. doi:10.1007/s11098-015-0540-z
-* –––, 2020, “Two Dogmas of Empirical Justification”, *Philosophical Issues*, 30(1), 221–237.
-* Markie, Peter J., 2006, “Epistemically Appropriate Perceptual Belief”, *Noûs*, 40(1): 118–142. doi:10.1111/j.0029-4624.2006.00603.x
-* –––, 2013, “Searching for True Dogmatism”, in *Seemings and Justification: New Essays on Dgmatism and Phenomenal Conservatism*, pp. 248–69.
-* Martin, M.G.F., 2002, “The Transparency of Experience”, *Mind and Language*, 17(4): 376–425. doi:10.1111/1468-0017.00205
-* McDowell, John, 1982, “Criteria, Defeasibility and Knowledge”, *Proceedings of the British Academy*, 68: 455–79. [[McDowell 1982 available online](http://www.britac.ac.uk/pubs/proc/files/68p455.pdf)]
-* –––, 1994, *Mind and World*, Cambridge, MA: Harvard University Press.
-* –––, 2011, *Perception As a Capacity for Knowledge,* Milwaukee, WI: Marquette University Press.
-* –––, 2018, “Perceptual Experience and Empirical Rationality”, A*nalytic Philosophy*, 59: 89–98.
-* McGrath, Matthew, 2013, “Phenomenal Conservatism and Cognitive Penetration: The ‘Bad Basis’ Counterexamples”, in *Seemings and Justification: New Essays on Dgmatism and Phenomenal Conservatism*, pp. 225–247.
-* –––, 2018, “Looks and Perceptual Justification”, *Philosophy and Phenomenological Research*, 96(1): 110–33.
-* McGrew, Tim J., 2003. “A Defense of Strong Foundationalism”, in *The Theory of Knowledge*, 3rd edition, Louis Pojman (ed.), Belmont, CA: Wadsworth, 194–206.
-* Millar, Alan, 2011, “How Visual Perception Yields Reasons for Belief”, *Philosophical Issues*, 21(1): 332–351. doi:10.1111/j.1533-6077.2011.00207.x
-* –––, 2019, *Knowing By Perceiving*, Oxford: Oxford University Press.
-* Noë, Alva, 2004, *Action in Perception*, Cambridge, MA: MIT Press.
-* Pautz, Adam, 2020, “The Arationality of Perception: Comments on Susanna Siegel”, *Philosophy and Phenomenological Research* 101(3): 755–63.
-* Peacocke, Christopher, 2001, “Does Perception Have a Nonconceptual Content?” *The Journal of Philosophy*, 98(5): 239–264. doi:10.2307/2678383
-* Plantinga, Alvin, 1993, *Warrant and Proper Function*, Oxford: Oxford University Press.
-* Pollock, John L., 1971, “Perceptual Knowledge”, *Philosophical Review*, 80(3): 287–319.
-* –––, 1974, *Knowledge and Justification*, Princeton: Princeton University Press.
-* –––, 1986, *Contemporary Theories of Knowledge*, Savage, MD: Rowman & Littlefield.
-* Pollock, John L. & Joseph Cruz, 1999, *Contemporary Theories of Knowledge*, 2nd edition, Lanham, MD: Rowman and Littlefield.
-* Pritchard, Duncan, 2012, *Epistemological Disjunctivism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199557912.001.0001
-* Pryor, James, 2000, “The Skeptic and the Dogmatist”, *Noûs*, 34(4): 517–549. doi:10.1111/0029-4624.00277
-* Quinton, Anthony, 1973, *The Nature of Things*, London: Routledge and Kegan Paul.
-* Reid, Thomas, 1764, *An Inquiry Into the Human Mind on the Principles of Common Sense*, reprinted Derek R. Brookes (ed.), vol. 2, Edinburgh Edition of Thomas Reid, Knud Haakonssen (series ed.), Edinburgh: Edinburgh University Press, 1997.
-* –––, 1785, *Essays on the Intellectual Powers of Man*, reprinted Critical Edition, Derek R. Brookes (ed.), vol. 3, Edinburgh Edition of Thomas Reid, Knud Haakonssen (series ed.), Edinburgh: Edinburgh University Press, 2002.
-* Robinson, Howard, 2022. *Perception and Idealism: An Essay on How the World Manifests Itself to Us, and How It (Probably) Is in Itself*, Oxford: Oxford University Press.
-* Russell, Bertrand, 1912, *The Problems of Philosophy*, London: Williams and Norgate; New York: Henry Holt and Company.
-* Schellenberg, Susanna, 2013, “Experience and Evidence”, *Mind*, 122(487): 699–747.
-* –––, 2016, “Phenomenal Evidence and Factive Evidence”, *Philosophical Studies*, 173(4): 875–896. doi:10.1007/s11098-015-0528-8
-* –––, 2018, *The Unity of Perception*, Oxford: Oxford University Press.
-* Sellars, Wilfrid, 1956, “Empiricism and the Philosophy of Mind”, *Minnesota Studies in the Philosophy of Science*, 1: 253–329.
-* Siegel, Susanna, 2011, “Cognitive Penetrability and Perceptual Justification”, *Noûs*, 46(2): 201–22. doi:10.1111/j.1468-0068.2010.00786.x
-* –––, 2013, “The Epistemic Impact of the Etiology of Experience”, *Philosophical Studies*, 162(3): 697–722. doi:10.1007/s11098-012-0059-5
-* –––, 2017, *The Rationality of Perception,* Oxford: Oxford University Press.
-* Silins, Nicholas, 2011, “Seeing Through the ‘Veil of Perception’”, *Mind*, 120(478): 329–67. doi:10.1093/mind/fzr030
-* Smithies, Declan, 2013, “Review of Duncan Pritchard, *Epistemological Disjunctivism*”, *Notre Dame Philosophical Reviews*, 2013.01.02. URL = <http://ndpr.nd.edu/news/36590-epistemological-disjunctivism/>.
-* –––, 2019, *The Epistemic Role of Consciousness*, Oxford: Oxford University Press.
-* Snowdon, Paul., 1980, “Perception, Vision and Causation”, *Proceedings of the Aristotelian Society*, New Series, 81: 175–92.
-* Sosa, Ernest, 1991, *Knowledge in Perspective*, Cambridge: Cambridge University Press.
-* –––, 1993, “Proper Functionalism and Virtue Epistemology”, *Noûs*, 27(1): 51–65.
-* –––, 2007, *A Virtue Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199297023.001.0001
-* –––, 2021, *Epistemic Explanations*, Oxford: Oxford University Press.
-* Teng, Lu, “Is Phenomenal Force Sufficient for Immediate Perceptual Justification?”, *Synthese*, 195, 637–56. https://doi.org/10.1007/s11229-016-1233-7
-* Tucker, Chris, 2010, “Why Open-Minded People Should Endorse Dogmatism”, *Philosophical Perspectives*, 24(1): 529–545. doi:10.1111/j.1520-8583.2010.00202.x
-* –––, 2014, “If Dogmatists Have a Problem With Cognitive Penetration, You Do Too”, *Dialectica*, 68(1): 35–62.
-* Vogel, Jonathan, 2000, “Reliabilism Leveled”, *Journal of Philosophy*, 97(11): 602–623. doi:10.2307/2678454
-* –––, 2008, “Epistemic Bootstrapping”, *Journal of Philosophy*, 105(9): 518–39. doi:10.5840/jphil2008105931
-* Williamson, Timothy, 2000, *Knowledge and its Limits.* Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Alston, William P., 1988, “An Internalist Externalism”, _Synthese_, 74(3): 265–283. doi:10.1007/BF00869630
+* –––, 1993, _The Reliability of Sense Perception_, Ithaca: Cornell University Press.
+* –––, 1999, “Back to the Theory of Appearing”, _Philosophical Perspectives_, 13: 181–203.
+* Augustine, _Against the Academicians_ and _The Teacher_, P. King (trans.), Indianapolis, Indiana: Hackett Publishing, 1995.
+* Bengson, John, Enrico Grube, & Daniel Z. Korman, 2011, “A New Framework for Conceptualism”, _Noûs_, 45(1): 167–189. doi:10.1111/j.1468-0068.2010.00764.x
+* Bergmann, Michael, 2004, “Externalist Justification without Reliability”, _Philosophical Issues_, 14(1): 35–60. doi:10.1111/j.1533-6077.2004.00019.x
+* –––, 2006, _Justification Without Awareness: A Defense of Epistemic Externalism_, New York: Oxford University Press.
+* –––, 2013, “Externalist Justification and the Role of Seemings”, _Philosophical Studies,_ 166 (1): 163–184.
+* Berkeley, George, 1710, _A Treatise Concerning the Principles of Human Knowledge_, reprinted in Berkeley 1975, 61–127.
+* –––, 1713, _Three Dialogues Between Hylas and Philonous_, reprinted in Berkeley 1975, 129–207.
+* –––, 1975, _George Berkeley: Philosophical Works, Including the Works on Vision_, M. R. Ayers (ed.), London: Dent.
+* BonJour, Laurence, 1978, “Can Empirical Knowledge Have a Foundation?” _American Philosophical Quarterly_, 15(1): 1–13.
+* –––, 1980, “Externalist Theories of Empirical Knowledge”, _Midwest Studies in Philosophy_, 5(1): 53–73. doi:10.1111/j.1475-4975.1980.tb00396.x
+* –––, 1985, _The Structure of Empirical Knowledge_, Cambridge: Harvard University Press.
+* –––, 1997, “Haack on Justification and Experience”, _Synthese_, 112(1): 13–23. doi:10.1023/A:1004972413209
+* –––, 2003, “A Version of Internalist Foundationalism”, in Laurence BonJour & Ernest Sosa, _Epistemic Justification: Internalism vs. Externalism, Foundations vs. Virtues_, Malden, MA: Blackwell, 3–96.
+* –––, 2010, _Epistemology: Classic Problems and Contemporary Responses_, 2nd edition, Lanham, MD: Rowman and Littlefield.
+* Brewer, Bill, 1999, _Perception and Reason_, Oxford: Oxford University Press. doi:10.1093/0199250456.001.0001
+* –––, 2011, _Perception and its Objects_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199260256.001.0001
+* Brogaard, Berit, 2013, “Phenomenal Seemings and Sensible Dogmatism”, in Chris Tucker (ed.), _Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism_, Oxford: Oxford University Press, 270–289. doi:10.1093/acprof:oso/9780199899494.003.0012
+* Byrne, Alex, 2005, “Perception and Conceptual Content”, in Ernest Sosa & Matthias Steup (eds.), _Contemporary Debates in Epistemology_, Boston: Blackwell, 231–250.
+* –––, 2014, “Perception and Evidence”, _Philosophical Studies_, 170: 101–13.
+* –––, 2016, “The Epistemic Significance of Experience”, _Philosophical Studies_, 173(4): 947–67. doi:10.1007/s11098-015-0537-7
+* Burge, Tyler, 2003, “Perceptual Entitlement”, _Philosophy and Phenomenological Research_, 67(3): 503–548.
+* –––, 2020, “Entitlement: The Basis For Empirical Warrant”, in Peter Graham & Nikolaj Pedersen (eds.), _Epistemic Entitlement_, Oxford: Oxford University Press.
+* Chalmers, David J., 2003, “The Content and Epistemology of Phenomenal Belief”, in Quentin Smith & Aleksandar Jokic (eds.), _Consciousness: New Philosophical Perspectives_, Oxford: Oxford University Press, 220–271.
+* Chisholm, Roderick M., 1957, _Perceiving: A Philosophical Study_, Ithaca, NY: Cornell University Press.
+* –––, 1966, _Theory of Knowledge_, Englewood Cliffs, NJ: Prentice-Hall
+* –––, 1977, _Theory of Knowledge_, 2nd edition, Englewood Cliffs, NJ: Prentice-Hall.
+* Chudnoff, Elijah, 2018, “Epistemic Elitism and Other Minds”, _Philosophy and Phenomenological Research_, 96(2): 276–298.
+* –––, 2021, _Forming Impressions_, Oxford: Oxford University Press.
+* Chudnoff Elijah, & David Didomenico, 2015, “The Epistemic Unity of Perception”, _Pacific Philosophical Quarterly_, 96(4): 535–549. doi:10.1111/papq.12114
+* Cohen, Stewart, 1984, “Justification and Truth”, _Philosophical Studies_, 46: 279–295.
+* –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, _Philosophy and Phenomenological Research_, 65(2): 309–329. doi:10.1111/j.1933-1592.2002.tb00204.x
+* Comesaña, Juan, 2010, “Evidentialist Reliabilism”, _Noûs_, 44(4): 571–600. doi:10.1111/j.1468-0068.2010.00748.x
+* Conee, Earl, 1988, “The Basic Nature of Epistemic Justification”, _The Monist_, 71(3): 389–404. Reprinted in Conne & Feldman 2004. doi:10.1093/0199253722.003.0003
+* Conee, Earl & Richard Feldman, 2004, _Evidentialism: Essays in Epistemology_, Oxford: Oxford University Press. doi:10.1093/0199253722.001.0001
+* Davidson, Donald, 1986, “A Coherence Theory of Truth and Knowledge”, in _Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson_, Ernest Lepore, (ed.), New York: Blackwell, 307–319.
+* –––, 1987, “Knowing One’s Own Mind”, _Proceedings and Addresses of the American Philosophical Association_, 61(3): 441–58. doi:10.2307/3131782
+* Descartes, René, 1641, _Meditations on First Philosophy_, in _The Philosophical Writings of Descartes_, John Cottingham, Robert Stoothoff, and Dugald Murdoch (trans.), vol. 2, Cambridge: Cambridge University Press, 1985, 1–62.
+* Dretske, Fred, 1971, “Conclusive Reasons”, _Australasian Journal of Philosophy_, 49: 1–22
+* Dreyfus, Hubert L., 2002, “Intelligence Without Representation—Merleau-Ponty’s Critique of Mental Representation: The Relevance of Phenomenology to Scientific Explanation”, _Phenomenology and the Cognitive Sciences_, 1(4): 367–383. doi:10.1023/A:1021351606209
+* Feldman, Richard, 2003, _Epistemology_, Upper Saddle River, NJ: Prentice-Hall.
+* Foster, John, 2008, _A World for Us: The Case for Phenomenalistic Idealism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199297139.001.0001
+* Fumerton, Richard A., 1995, _Metaepistemology and Skepticism_, Lanham, MD: Rowman and Littlefield.
+* –––, 2001, “Classical Foundationalism”, in M. DePaul (ed.), _Resurrecting Old-fashioned Foundationalism._ Lanham, MD: Rowman and Littlefield, 3–20.
+* Ghijsen, Harmen, 2014, “Phenomenalist Dogmatist Experientialism and the Distinctiveness Problem”, _Synthese_, 191(7): 1549–66.
+* –––, 2021, “Predictive Processing and Foundationalism About Perception”, _Synthese_, 198(7): 1751–69.
+* Goldman, Alvin I., 1979, “What Is Justified Belief?” in G. Pappas (ed.), _Justification and Knowledge_, Dordrecht: Reidel, 1–25.
+* –––, 1986, _Epistemology and Cognition_, Cambridge, MA: Harvard University Press.
+* –––, 1988, “Strong and Weak Justification”, _Philosophical Perspectives_, 2: 51–69.
+* –––, 2011, “Commentary on Jack Lyons’s _Perception and Basic Beliefs_”, _Philosophical Studies_, 153(3): 457–66. doi:10.1007/s11098-010-9602-4
+* Graham, Peter J., 2012, “Epistemic Entitlement”, _Noûs_, 46(3): 449–482. doi:10.1111/j.1468-0068.2010.00815.x
+* –––, 2019, “Why is Warrant Normative?”, _Philosophical Issues_, 29(1): 110–128.
+* Graham, Peter J., & Nikolaj J. L. L. Pedersen, 2020, “Dretske & McDowell on Perceptual Knowledge, Conclusive Reasons, and Epistemological Disjunctivism”, _Philosophical Issues_, 30(1): 148–166.
+* Greco, John, 2000, _Putting Skeptics in Their Place_, Cambridge: Cambridge University Press.
+* Gupta, Anil, 2006, _Empiricism and Experience_, Oxford: Oxford University Press.
+* Haack, Susan, 1993, _Evidence and Inquiry: Toward Reconstruction in Epistemology_, Oxford: Blackwell.
+* Haddock, Adrian & Fiona Macpherson (eds.), 2008, _Disjunctivism: Perception, Action, Knowledge_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199231546.001.0001
+* Heck, Richard G. Jr., 2000, “Nonconceptual Content and the ‘Space of Reasons’”, _Philosophical Review_, 109(4): 483–523. doi:10.2307/2693622
+* Hoffman, Donald D., 2009, “The Interface Theory of Perception”, in Sven J. Dickinson, Michael J. Tarr, Aleš Leonardis, & Bernt Schiele (eds.) _Object Categorization: Computer and Human Vision Perspectives_, Cambridge, UK: Cambridge University Press, 148–165.
+* Huemer, Michael, 2001, _Skepticism and the Veil of Perception_, Lanham, MD: Rowman and Littlefield.
+* –––, 2007, “Compassionate Phenomenal Conservatism”, _Philosophy and Phenomenological Research_, 74(1): 30–55. doi:10.1111/j.1933-1592.2007.00002.x
+* –––, 2013, “Epistemological Asymmetries Between Belief and Experience”, _Philosophical Studies_, 162(3): 741–748. doi:10.1007/s11098-012-0056-8
+* Hume, David, 1739, _A Treatise of Human Nature_, Peter H. Nidditch (ed.), Oxford: Clarendon Press, 1978.
+* –––, 1748, _Enquiry Concerning Human Understanding_, reprinted in _Enquiries Concerning Human Understanding and Concerning the Principle of Morals_, Peter H. Nidditch (ed.), Oxford: Clarendon Press, 1975.
+* Johnston, Mark, 2011, “On a Neglected Epistemic Virtue”, _Philosophical Issues_, 21: 165–218.
+* Kant, Immanuel, 1781, _Critique of Pure Reason_, Norman Kemp Smith, (trans.), London: Macmillan; New York: St. Martin’s Press, 1929.
+* Kvanvig, Jonathan L., 2012, “Coherentism”, in Andrew Cullison (ed.), _The Continuum Companion to Epistemology_, New York: Continuum Press, 57–72.
+* Kvanvig, Jonathan L. & Wayne D. Riggs, 1992, “Can a Coherence Theory Appeal to Appearance States?” _Philosophical Studies_, 67(3): 197–217. doi:10.1007/BF00354536
+* Lehrer, Keith, 1990, _Theory of Knowledge_, Boulder, CO: Westview.
+* Lehrer, Keith & Stewart Cohen, 1983, “Justification, Truth, and Coherence”, _Synthese_, 55(2): 191–207. doi:10.1007/BF00485068
+* Littlejohn, Clayton, 2012, _Justification and the Truth-Connection_, Cambridge: Cambridge University Press.
+* Locke, John, 1690, _An Essay Concerning Human Understanding_, reprinted Clarendon Edition of the Works of John Locke, Peter H. Nidditch (ed.), Oxford: Oxford University Press, 1975.
+* Lyons, Jack C., 2005, “Perceptual Belief and Nonexperiential Looks”, _Philosophical Perspectives_, 19(1): 237–256. doi:10.1111/j.1520-8583.2005.00061.x
+* –––, 2008, “Evidence, Experience, and Externalism”, _Australasian Journal of Philosophy_, 86: 461–79.
+* –––, 2009, _Perception and Basic Beliefs: Zombies, Modules, and the Problem of the External World_, New York: Oxford University Press.
+* –––, 2011, “Circularity, Reliability, and the Cognitive Penetrability of Perception”, _Philosophical Issues_, 21: 289–311.
+* –––, 2012, “Should Reliabilists be Worried About Demon Worlds?” _Philosophy and Phenomenological Research_, 86(1): 1–40. doi:10.1111/j.1933-1592.2012.00614.x
+* –––, 2016, “Experiential Evidence?” _Philosophical Studies_, 173(4): 1053–79. doi:10.1007/s11098-015-0540-z
+* –––, 2020, “Two Dogmas of Empirical Justification”, _Philosophical Issues_, 30(1), 221–237.
+* Markie, Peter J., 2006, “Epistemically Appropriate Perceptual Belief”, _Noûs_, 40(1): 118–142. doi:10.1111/j.0029-4624.2006.00603.x
+* –––, 2013, “Searching for True Dogmatism”, in _Seemings and Justification: New Essays on Dgmatism and Phenomenal Conservatism_, pp. 248–69.
+* Martin, M.G.F., 2002, “The Transparency of Experience”, _Mind and Language_, 17(4): 376–425. doi:10.1111/1468-0017.00205
+* McDowell, John, 1982, “Criteria, Defeasibility and Knowledge”, _Proceedings of the British Academy_, 68: 455–79. \[[McDowell 1982 available online](http://www.britac.ac.uk/pubs/proc/files/68p455.pdf)]
+* –––, 1994, _Mind and World_, Cambridge, MA: Harvard University Press.
+* –––, 2011, _Perception As a Capacity for Knowledge,_ Milwaukee, WI: Marquette University Press.
+* –––, 2018, “Perceptual Experience and Empirical Rationality”, A_nalytic Philosophy_, 59: 89–98.
+* McGrath, Matthew, 2013, “Phenomenal Conservatism and Cognitive Penetration: The ‘Bad Basis’ Counterexamples”, in _Seemings and Justification: New Essays on Dgmatism and Phenomenal Conservatism_, pp. 225–247.
+* –––, 2018, “Looks and Perceptual Justification”, _Philosophy and Phenomenological Research_, 96(1): 110–33.
+* McGrew, Tim J., 2003. “A Defense of Strong Foundationalism”, in _The Theory of Knowledge_, 3rd edition, Louis Pojman (ed.), Belmont, CA: Wadsworth, 194–206.
+* Millar, Alan, 2011, “How Visual Perception Yields Reasons for Belief”, _Philosophical Issues_, 21(1): 332–351. doi:10.1111/j.1533-6077.2011.00207.x
+* –––, 2019, _Knowing By Perceiving_, Oxford: Oxford University Press.
+* Noë, Alva, 2004, _Action in Perception_, Cambridge, MA: MIT Press.
+* Pautz, Adam, 2020, “The Arationality of Perception: Comments on Susanna Siegel”, _Philosophy and Phenomenological Research_ 101(3): 755–63.
+* Peacocke, Christopher, 2001, “Does Perception Have a Nonconceptual Content?” _The Journal of Philosophy_, 98(5): 239–264. doi:10.2307/2678383
+* Plantinga, Alvin, 1993, _Warrant and Proper Function_, Oxford: Oxford University Press.
+* Pollock, John L., 1971, “Perceptual Knowledge”, _Philosophical Review_, 80(3): 287–319.
+* –––, 1974, _Knowledge and Justification_, Princeton: Princeton University Press.
+* –––, 1986, _Contemporary Theories of Knowledge_, Savage, MD: Rowman & Littlefield.
+* Pollock, John L. & Joseph Cruz, 1999, _Contemporary Theories of Knowledge_, 2nd edition, Lanham, MD: Rowman and Littlefield.
+* Pritchard, Duncan, 2012, _Epistemological Disjunctivism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199557912.001.0001
+* Pryor, James, 2000, “The Skeptic and the Dogmatist”, _Noûs_, 34(4): 517–549. doi:10.1111/0029-4624.00277
+* Quinton, Anthony, 1973, _The Nature of Things_, London: Routledge and Kegan Paul.
+* Reid, Thomas, 1764, _An Inquiry Into the Human Mind on the Principles of Common Sense_, reprinted Derek R. Brookes (ed.), vol. 2, Edinburgh Edition of Thomas Reid, Knud Haakonssen (series ed.), Edinburgh: Edinburgh University Press, 1997.
+* –––, 1785, _Essays on the Intellectual Powers of Man_, reprinted Critical Edition, Derek R. Brookes (ed.), vol. 3, Edinburgh Edition of Thomas Reid, Knud Haakonssen (series ed.), Edinburgh: Edinburgh University Press, 2002.
+* Robinson, Howard, 2022. _Perception and Idealism: An Essay on How the World Manifests Itself to Us, and How It (Probably) Is in Itself_, Oxford: Oxford University Press.
+* Russell, Bertrand, 1912, _The Problems of Philosophy_, London: Williams and Norgate; New York: Henry Holt and Company.
+* Schellenberg, Susanna, 2013, “Experience and Evidence”, _Mind_, 122(487): 699–747.
+* –––, 2016, “Phenomenal Evidence and Factive Evidence”, _Philosophical Studies_, 173(4): 875–896. doi:10.1007/s11098-015-0528-8
+* –––, 2018, _The Unity of Perception_, Oxford: Oxford University Press.
+* Sellars, Wilfrid, 1956, “Empiricism and the Philosophy of Mind”, _Minnesota Studies in the Philosophy of Science_, 1: 253–329.
+* Siegel, Susanna, 2011, “Cognitive Penetrability and Perceptual Justification”, _Noûs_, 46(2): 201–22. doi:10.1111/j.1468-0068.2010.00786.x
+* –––, 2013, “The Epistemic Impact of the Etiology of Experience”, _Philosophical Studies_, 162(3): 697–722. doi:10.1007/s11098-012-0059-5
+* –––, 2017, _The Rationality of Perception,_ Oxford: Oxford University Press.
+* Silins, Nicholas, 2011, “Seeing Through the ‘Veil of Perception’”, _Mind_, 120(478): 329–67. doi:10.1093/mind/fzr030
+* Smithies, Declan, 2013, “Review of Duncan Pritchard, _Epistemological Disjunctivism_”, _Notre Dame Philosophical Reviews_, 2013.01.02. URL = [http://ndpr.nd.edu/news/36590-epistemological-disjunctivism/](http://ndpr.nd.edu/news/36590-epistemological-disjunctivism/).
+* –––, 2019, _The Epistemic Role of Consciousness_, Oxford: Oxford University Press.
+* Snowdon, Paul., 1980, “Perception, Vision and Causation”, _Proceedings of the Aristotelian Society_, New Series, 81: 175–92.
+* Sosa, Ernest, 1991, _Knowledge in Perspective_, Cambridge: Cambridge University Press.
+* –––, 1993, “Proper Functionalism and Virtue Epistemology”, _Noûs_, 27(1): 51–65.
+* –––, 2007, _A Virtue Epistemology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199297023.001.0001
+* –––, 2021, _Epistemic Explanations_, Oxford: Oxford University Press.
+* Teng, Lu, “Is Phenomenal Force Sufficient for Immediate Perceptual Justification?”, _Synthese_, 195, 637–56. https://doi.org/10.1007/s11229-016-1233-7
+* Tucker, Chris, 2010, “Why Open-Minded People Should Endorse Dogmatism”, _Philosophical Perspectives_, 24(1): 529–545. doi:10.1111/j.1520-8583.2010.00202.x
+* –––, 2014, “If Dogmatists Have a Problem With Cognitive Penetration, You Do Too”, _Dialectica_, 68(1): 35–62.
+* Vogel, Jonathan, 2000, “Reliabilism Leveled”, _Journal of Philosophy_, 97(11): 602–623. doi:10.2307/2678454
+* –––, 2008, “Epistemic Bootstrapping”, _Journal of Philosophy_, 105(9): 518–39. doi:10.5840/jphil2008105931
+* Williamson, Timothy, 2000, _Knowledge and its Limits._ Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=perception-episprob). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/perception-episprob/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=perception-episprob&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/perception-episprob/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=perception-episprob).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/perception-episprob/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=perception-episprob\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/perception-episprob/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* BonJour, Lawrence, “Epistemological Problems of Perception,” *Stanford Encyclopedia of Philosophy* (Fall 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2016/entries/perception-episprob/>. [This was the previous entry on epistemological problems of perception in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=perception-episprob).]
+* BonJour, Lawrence, “Epistemological Problems of Perception,” _Stanford Encyclopedia of Philosophy_ (Fall 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2016/entries/perception-episprob/](https://plato.stanford.edu/archives/fall2016/entries/perception-episprob/). \[This was the previous entry on epistemological problems of perception in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=perception-episprob).]
 
 ## Related Entries
 
-[abduction](https://plato.stanford.edu/entries/abduction/) | [consciousness: and intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) | [epistemic closure](https://plato.stanford.edu/entries/closure-epistemic/) | [justification, epistemic: foundationalist theories of](https://plato.stanford.edu/entries/justep-foundational/) | [mental content: nonconceptual](https://plato.stanford.edu/entries/content-nonconceptual/) | [perception: the contents of](https://plato.stanford.edu/entries/perception-contents/) | [perception: the disjunctive theory of](https://plato.stanford.edu/entries/perception-disjunctive/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [reliabilist epistemology](https://plato.stanford.edu/entries/reliabilism/) | [sense data](https://plato.stanford.edu/entries/sense-data/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [skepticism](https://plato.stanford.edu/entries/skepticism/)
+[abduction](https://plato.stanford.edu/entries/abduction/) | [consciousness: and intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) | [epistemic closure](https://plato.stanford.edu/entries/closure-epistemic/) | [justification, epistemic: foundationalist theories of](https://plato.stanford.edu/entries/justep-foundational/) | [mental content: nonconceptual](https://plato.stanford.edu/entries/content-nonconceptual/) | [perception: the contents of](https://plato.stanford.edu/entries/perception-contents/) | [perception: the disjunctive theory of](https://plato.stanford.edu/entries/perception-disjunctive/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [reliabilist epistemology](https://plato.stanford.edu/entries/reliabilism/) | [sense data](https://plato.stanford.edu/entries/sense-data/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [skepticism](https://plato.stanford.edu/entries/skepticism/)
 
 ### Acknowledgments
 
 Thanks to Bill Fish and Susanna Siegel for comments on earlier drafts, and to Joe Cruz, Alvin Goldman, Peter Graham, Chris Hill, Anna-Sara Malmgren, and Tom Senor for helpful discussion.
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-Jack Lyons <[*jack.lyons@glasgow.ac.uk*](mailto:jack%2elyons%40glasgow%2eac%2euk)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+Jack Lyons <[_jack.lyons@glasgow.ac.uk_](mailto:jack%2elyons%40glasgow%2eac%2euk)>
