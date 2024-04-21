@@ -1,2 +1,105 @@
 # 威廉·彭比尔 Penbygull, William (Alessandro Conti)
 
+*首次发表于2001年7月25日；实质性修订于2016年10月4日。*
+
+威克里夫的逻辑-形而上学作品在 14 世纪末和 15 世纪初对牛津产生了很大影响。在追随他教义的作者中（所谓的牛津现实主义者），威廉·彭比尔（+1420）几乎可以肯定是最忠实于大师的人，因为他现存的著作似乎主要致力于捍卫和/或解释威克里夫的主要哲学论题。尽管如此，彭比尔通过发展一种新的身份理论，在逻辑学上做出了独创性的贡献，解决了威克里夫关于陈述分析所引发的问题，并完善了威克里夫自身的陈述理论。
+
+* [1. 生平与作品](https://plato.stanford.edu/entries/penbygull/#LifWor)
+* [2. 牛津现实主义者对于普遍和陈述的看法](https://plato.stanford.edu/entries/penbygull/#OxfRea)
+* [3. 威廉·彭比尔关于普遍性和断言的观点](https://plato.stanford.edu/entries/penbygull/#PenUniPre)
+* [4. 威廉·彭比尔的同一性理论](https://plato.stanford.edu/entries/penbygull/#PenTheIde)
+* [ 参考文献](https://plato.stanford.edu/entries/penbygull/#Bib)
+
+  * [ 编辑作品](https://plato.stanford.edu/entries/penbygull/#EdiWor)
+  * [ 二次文献](https://plato.stanford.edu/entries/penbygull/#SecLit)
+* [ 学术工具](https://plato.stanford.edu/entries/penbygull/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/penbygull/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/penbygull/#Rel)
+
+---
+
+## 1. 生平与作品
+
+关于威廉·彭比尔（或彭贝吉尔）的生平和作品的信息很少。他来自埃克塞特教区；他在牛津学习，在 1399 年成为埃克塞特学院的研究员，并在 1406-07 年担任校长。他于 1410 年 2 月 28 日获得在巴斯和威尔斯教区讲道的许可。他可能于 1420 年在牛津去世。根据 Emden 1957-59 年的记载，他撰写了以下关于逻辑的论文：《论普遍性》、《存在的划分》和《关于波菲里的导论》。
+
+## 2. 关于普遍性和断言的牛津现实主义者
+
+彭比尔关于普遍性和断言的理论的起点是威克里夫和他的一位牛津追随者罗伯特·阿林顿在彭比尔之前的一代人所制定的理论。
+
+众所周知，威克里夫在普遍性问题上的观点介于托马斯·阿奎那和罗马的吉尔斯一方，以及沃尔特·伯利另一方之间（参见威克里夫的条目）。像吉尔斯一样，威克里夫承认三种主要的普遍性：（1）理想普遍性，即上帝的思想和一切事物的原型；（2）形式普遍性，即个体事物所共有的共同本质；以及（3）意向普遍性，即我们用来指称形式普遍性或实在中的普遍性的心理符号。另一方面，像伯利一样，威克里夫认为形式普遍性在实际上存在于我们的心灵之外，而不是在潜在状态下，尽管与伯利不同的是，他坚持认为形式普遍性与它们自己的个体实际上是相同的（《论共同存在的事物》，第5章，第58页）。更准确地说，普遍性和个体实际上是相同的，但在形式上是不同的，因为它们共享相同的经验现实，即个体的现实，但如果将它们视为普遍性和个体，它们具有相反的组成原则：普遍性具有普遍性或自然趋向共同性的特性，而个体具有个体性或不可能共同性的特性（见《论普遍性的论文》，第2章，第62-63页，第4章，第86-87页；第10章，第208-213页）。
+
+这种对普遍和个体之间逻辑关系的描述暗示了在实质普遍性中间接存在偶然形式以及在其他任何实体中存在第二意向的可能性。因此，在《普遍论文》中，威克里夫区分了三种主要类型的真实断言，以保证这种可能性：形式断言（praedicatio formalis），本质断言（praedicatio secundum essentiam）和关系断言（praedicatio secundum habitudinem）。他将这三种断言描述为三种非互斥的断言方式，每一种都比前一种更为普遍（《普遍论文》，第1章，第35页），但显然，关系断言并不需要主语和谓语术语所表示的实体之间的任何身份认同，就像形式断言和本质断言那样。形式断言是指由谓语术语指定的形式直接存在于由主语术语所表示的实体中。本质断言（请注意，在这个表达中，“本质”一词具有威克里夫的技术含义，即具有特定本质的真实实体——请参阅关于威克里夫的条目）是指相同的经验现实既是真实的主语又是谓语，尽管由谓语术语所指示的形式原则与由主语术语所指示的形式原则不同。“上帝是人”和“普遍性是特殊性”是这种断言的例子。 最后，习惯性断言是指谓词术语所指示的形式不直接或间接地存在于主词所指示的本质中（即不是通过主词所指示的事物中直接存在的东西，而是通过某种方式间接存在的东西），而仅仅暗示与之相关的关系，因此同一个谓词可以在不同的时间内真实或虚假地被说成是其主词的属性，而主词本身没有任何变化（《普遍论文》，第 1 章，第 34 页）。根据威克里夫的说法，我们主要使用这种断言来表达神学上的真理，比如上帝被许多生物所认识和爱戴，或者作为有效、模范和最终原因带来许多好的效果。
+
+正如我们所见，最一般类型的断言的本体论前提与其所隐含的其他两种类型完全不同。威克里夫的选择的最终结果是他在传统系统上叠加了一个不完全发展的内涵逻辑系统。由于最一般类型的断言，即习惯性断言的本体论基础与应该隐含它的其他两种断言的本体论基础完全不同，因此艾林顿和其他牛津学派的后继作者试图通过排除习惯性断言并以稍微不同的方式重新定义其他两种类型来改进威克里夫的理论。
+
+根据依赖于阿维森纳和威克里夫的阿林顿，在这个话题上，形式普遍性是共同的本质，通过这种本质，分享它们的个体正是它们自己，就像人性是每个人正式成为人的形式一样。然而，与威克里夫不同，他并不认为普遍性在外部世界中实际存在（参见阿林顿，《亚里士多德的范畴论的字面意义》，第de substantia章，在A.D.康蒂，《罗伯特·阿林顿对范畴论的评论中的语言和现实》，附录（阿林顿对范畴论评论的临时版本的一部分），《中世纪哲学传统的文献和研究》，4（1993年）：179-306，第279页）。作为本质，它们在任何普遍性和个体的划分之前是先验的和无关的。虽然普遍性不是本质本身的构成标志，但它是其独特的、不可分割的属性。对于阿林顿来说，普遍性实际上与它们的个体是相同的，但在形式上是不同的。事实上，普遍性是与其个体相关的形式原因，而个体是与其普遍性相关的物质原因（参见《亚里士多德的范畴论的字面意义》，第de substantia章，第275-76页）。基于此，阿林顿指出：（1）在物质范畴中，普遍性只能直接接受比它更普遍的实质形式的陈述。因此，例如，只有实体性和动物性可以直接陈述人性。以及（2）附着在个体实体中的偶然形式只能通过和凭借那些个体实体本身间接地（或根据他的术语，本质上）陈述那个实体形式（参见《亚里士多德的范畴论的字面意义》，第de substantia章，第288-89页）。 例如，白色的一般形式可以通过存在于个体人中的白色的个体形式间接地被归属于人类的一般形式。
+
+出于这个原因，阿林顿对于普遍和个体之间逻辑结构的描述要求重新定义归属。事实上，他是第一个通过将归属分为（1）形式归属（praedicatio formalis）和（2）远程内在性（inhaerentia remota）来改进威克里夫的理论的人，或者换句话说，根据本质进行归属（praedicatio secundum essentiam）。远程内在性是建立在主语和谓语之间的部分一致性上的，它们共享一些但不是全部的形而上学成分，并且不要求谓语项所表示的形式直接存在于主语项所表示的实体中。相反，形式归属要求谓语项所表示的形式直接存在。"人是动物"和"苏格拉底是白色的"是形式归属的例子；"（什么是）独特的是（什么是）共同的"（"singulare est commune"）和"人性是（某种）奔跑"（"humanitas est currens"）是远程内在性的例子，因为根据阿林顿的说法，如果至少有一个人在奔跑，奔跑的属性可以归属于人性的形式。然而，他小心地使用一个中性形式的形容词作为谓语项，因为只有这样才能显示谓语项所表示的形式不是直接存在于主语中，而是通过其个体间接归属于它（参见阿里宾顿关于亚里士多德的《谓词篇》的字面意义，第 289 页—参见阿林顿的条目）。
+
+## 3. 威廉·彭比尔关于普遍和归属的论述
+
+像许多牛津现实主义者一样，彭比尔列举了三种主要的普遍性：（i）一切事物的形而上学原因，如上帝和天使智慧；（ii）我们的思维所抽象出的一般概念，或者是心智普遍性；以及（iii）存在于个体中的共同本质，或者是真实普遍性（《论普遍性》，第 178 页）。这些共同本质是天生适合存在于一组个体中并被断言的类型形式，因此实例化了它们。真实普遍性是个体的主要形而上学组成部分，但它们在个体之外没有存在，因为普遍性和个体实际上是相同的，只是在形式上有所区别（《论普遍性》，第 189 页）。实际上，当被视为某种类型的本质时（例如，人就是苏格拉底），真实普遍性与其自身的个体是相同的，但是当分别从普遍性和个体的角度来考虑时，它们与其不同，这是因为存在相反的构成原则：普遍性是普遍性的构成原则，而个体是个体的构成原则（《论普遍性》，第 181 页）。
+
+像沃尔特·伯利和威克里夫一样，彭比尔认为这些形式普遍性在我们的思想之外实际存在（在行动中），而不仅仅是在潜力中（如中庸的现实主义者，如圣托马斯·阿奎那思）。因为对于彭比尔来说，一件事物成为普遍性的必要和充分条件是至少存在一个个体，其中它存在（《论普遍性》，第 178 页）。因此，普遍性的实际存在完全取决于它们的个体的存在；没有个体，共同本质就不能真正成为普遍性。
+
+在逻辑方面，这种关于普遍和个体之间关系的描述，涉及到实际身份和形式区别，意味着并非所有个体所陈述的都可以直接（形式上）归因于它们的普遍性，反之亦然。特别是，存在于实质个体中的偶然形式（例如，存在于苏格拉底身上的白色）只能通过个体本身间接地（本质上）归因于这些个体所特有的普遍形式（例如，人性或动物性的形式）。因此，为了涵盖这一理论所承认的偶然形式间接存在于实质普遍性中的情况，需要重新定义标准的种类陈述，并引入一种亚里士多德所不知的新类型。
+
+彭比尔和他那一代的牛津逻辑学家一样，试图通过排除习性断言并以稍微不同的方式重新定义其他两种来改进威克里夫的理论。因此，彭比尔将断言（他将其视为在形而上学对象之间存在的真实关系[《普遍论》第188页]）分为形式断言（praedicatio formalis）、本质断言（secundum essentiam）和因果断言。本质断言显示了主语和谓语之间的部分一致性，它们共享一些但不是全部的形而上学组成部分，并且不要求谓语项所指示的本质中直接存在谓语项所指示的形式。相反，形式断言要求这种直接存在。如果谓语项所指示的形式对于主体的本质是内在的，那么断言就是形式本质断言的一种情况；如果它是外在的，那么断言就是形式偶然断言的一种情况。“人是动物”是形式本质断言的一个例子；“苏格拉底是白色的”是形式偶然断言的一个例子。与威克里夫不同的是，他将本质断言仅应用于第二意向——因为他承认像“（什么是）普遍的就是（什么是）特殊的”（即，universale est singulare）这样的句子是良构且真实的——彭比尔认为它也适用于第一意向。因此，他声称，如果至少有一个普遍人（homo in communi）是白色的，那么可以断言普遍人具有白色的属性。然而，他确保使用一个形容词的中性形式作为谓语项，因为只有这样才能显示谓语项所指示的形式不是直接存在于主体中，而是通过其个体间接归属于它。 因此，如果至少存在一个白人，他承认命题“普遍人是（某种）白色”（homo in communi est album）是真实的（De universalibus，pp. 186-87）。最后，当谓词项所表示的项目在主项所表示的项目中以任何方式都不存在，但真实的主项是由真实的谓词引起的时，就存在因果谓词（De universalibus，p. 188）。
+
+根据他的观点，形式本质谓词和形式偶然谓词将对应于亚里士多德的本质谓词和偶然谓词。但实际上，他与威克里夫一致认为本质谓词比形式谓词更为普遍。因此，在他的理论中，形式谓词是本质谓词的一种特殊类型。这意味着他隐含地承认了一个单一的本体论模式，以某种部分身份为基础，作为每种标准哲学陈述（主语，谓词）的基础。但是以这种方式，形式本质谓词和形式偶然谓词与其亚里士多德模型非常不同，因为它们表达了身份的程度以及本质谓词。
+
+形式的偶然断言进一步分为 secundum motum 和 secundum habitudinem（《普遍论》，pp. 187-88）。这最后一部分的基本思想似乎是，偶然形式的存在方式和性质决定了可以扮演它们基质角色的实质项目的集合。彭比尔区分了那些需要具备变化能力的物质（per se mobile）作为它们自己直接的内在基质的那些偶然形式，以及那些不需要具备这种特征的基质。像数量、白色、变化、减少等形式属于第一组，而像因果关系、差异等的理性关系则属于第二组。第一组的形式导致形式的偶然断言 secundum motum，而第二组的形式导致形式的偶然断言 secundum habitudinem。前者必然涉及个别实体作为它们的基质，因为只有个体才能经历变化，而后者可以直接存在于个别和普遍实体中（insunt denominative tam communibus quam singularibus—《普遍论》，p. 188）。
+
+## 4. 彭比尔的同一性理论
+
+这种关于断言的性质和种类的解释性方案最终基于一个与标准观念不同的同一性概念。根据最常见的观点，同一性和（真正的）区别的逻辑标准如下：
+
+> 如果且仅当对于所有的 x，x 被 a 谓词化当且仅当它被 b 谓词化，那么 a 与 b 是相同的；
+>
+> 如果存在至少一个 z，使得 a 被 z 谓词化而 b 不被谓词化，或者反之，或者存在至少一个 w，使得 w 被 a 谓词化而不被 b 谓词化，或者反之，那么 a 与 b 是不同的（真正的不同）；
+
+基于这一基础，人们可以很容易地得出结论，普遍性和个体永远不可能是相同的，至少因为普遍性的形式（不能被谓词化为个体）和个体性的形式（不能被谓词化为普遍性）。因此，彭比尔必须提出新的同一性和区别性的标准。首先，他区分了非同一性的概念和差异（或区别）的概念，并否认差异的概念意味着非同一性的概念（《普遍论》，第 190 页）；然后，他肯定了差异和（真正的）同一性这两个概念在逻辑上是兼容的（同上）；最后，他对这三个概念非同一性、差异或区别以及（绝对的）同一性提出了以下定义（同上，第 190-91 页）：
+
+> 如果不存在形式 F，使得 F 以相同的方式存在于 a 和 b 中，则 a 与 b 不相同；
+>
+> 如果存在至少一个形式 F，使得 F 直接存在于 a 中但不存在于 b 中，或者反之，则 a 与 b 不同；
+>
+> 如果对于任何形式 F，F 在 a 中存在当且仅当它以相同的方式存在于 b 中，则 a 与 b（绝对）相同。
+
+非同一性的标准比真实区别的常见标准更强：只有当两个事物属于不同的类别时，它们才能被称为非同一。另一方面，差异的定义并不排除两个不同的事物共享一个或多个属性（或形式）的可能性。因此，存在着不同程度的区别，而且两个事物之间的区别程度可以被解释为它们（部分）相同程度的倒数。例如，如果我们比较构成苏格拉底和普遍人的形式（实质和偶然）的列表，可以明显看出苏格拉底和普遍人彼此不同，因为有些形式直接存在于苏格拉底而不在普遍人中，反之亦然；但同时也可以明显看出这两个列表在很长的一段时间内是相同的，也就是说，从它们的形而上学构成的角度来看，苏格拉底和普遍人在某种程度上是相同的。因此，彭比尔所处理的命题的谓词不能被外延解释，因为它并不意味着给定的对象是某个集合的成员，也不意味着给定的集合包含在另一个集合中，而是始终意味着两个复合实体之间的同一程度。
+
+## Bibliography
+
+### Edited works
+
+* *De universalibus* (*On Universals*), in A.D. Conti, “Teoria degli universali e teoria della predicazione nel trattato *De universalibus* di William Penbygull: discussione e difesa della posizione di Wyclif,” *Medioevo*, 8 (1982): 137–203 (see pp. 167–203).
+
+### Secondary literature
+
+* Amerini, F., 2005, “What is Real. A Reply to Ockham's Ontological Program,” *Vivarium*, 43(1): 187–212.
+* Conti, A.D., 1982, “Teoria degli universali e teoria della predicazione nel trattato *De universalibus* di William Penbygull,” *Medioevo*, 8: 137–203.
+* –––, 2005, “Johannes Sharpe's Ontology and Semantics: Oxford Realism Revisited,” *Vivarium*, 43(1): 156–86.
+* –––, 2008, “Categories and Universals in the Later Middle Ages,” in L. Newton (ed.), *Medieval Commentaries on Aristotle's Categories*, Leiden: Brill, pp. 369–409.
+* –––, 2010, “Realism,” in R. Pasnau (ed.), *The Cambridge History of Medieval Philosophy*, 2 volumes, Cambridge: Cambridge University Press, pp. 647–60.
+* Conti, A.D. (ed.), 1990, *Johannes Sharpe, Quaestio super universalia*, Firenze: Olschki, 1990. See the “Studio storico-critico,” at pp. 309–15.
+* de Libera, A., 1996, *La querelle des universaux. De Platon à la fin du Moyen Age*, Paris: Éditions du Seuil, at pp. 403–28.
+* Emden, A.B., 1957–59, *A Biographical Register of the University of Oxford to A.D. 1500*, 3 volumes, Oxford: Clarendon Press. (See Vol. iii, p. 1455.)
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=penbygull). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/penbygull/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=penbygull&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/penbygull/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[Alyngton, Robert](https://plato.stanford.edu/entries/alyngton/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Burley [Burleigh], Walter](https://plato.stanford.edu/entries/burley/) | [properties](https://plato.stanford.edu/entries/properties/) | [Sharpe, Johannes](https://plato.stanford.edu/entries/sharpe/) | [Wyclif, John](https://plato.stanford.edu/entries/wyclif/)
+
+[Copyright © 2016](https://plato.stanford.edu/info.html#c) by  
+Alessandro Conti <[*alessandrodomenico.conti@univaq.it*](mailto:alessandrodomenico%2econti%40univaq%2eit)>
