@@ -1,2 +1,368 @@
 # 物理学中的整体论和不可分离性 holism and nonseparability (Richard Healey and Henrique Gomes)
 
+*首次发表于1999年7月22日；实质修订于2022年3月3日*
+
+有时有人提出量子现象表现出特征的整体论或不可分离性，并且这使得量子物理学与经典物理学有所区别。当对某些分离的量子系统进行测量时，会出现一些令人困惑的量子现象。这些测量结果经常呈现出统计相关的模式，这些模式抵抗传统的因果解释。有人认为可以将这些模式理解为量子整体论或不可分离性的实例或结果。然而，对于整体论和不可分离性的具体含义并不总是清楚，而且每个概念都有不同的理解方式。此外，虽然有些人认为整体论和不可分离性是同一回事，但其他人认为区分这两者很重要。对于量子整体论和/或不可分离性的重要性的任何评估都必须基于对这些概念及其物理应用的仔细分析。
+
+* [ 1. 引言](https://plato.stanford.edu/entries/physics-holism/#Intro)
+* [2. 方法论整体论](https://plato.stanford.edu/entries/physics-holism/#Metho)
+* [ 3. 形而上学的整体论](https://plato.stanford.edu/entries/physics-holism/#Meta)
+* [4. 属性/关系的整体论](https://plato.stanford.edu/entries/physics-holism/#Prop)
+* [5. 状态的不可分离性](https://plato.stanford.edu/entries/physics-holism/#State)
+* [6. 空间和时空不可分离性](https://plato.stanford.edu/entries/physics-holism/#Spatial)
+* [7. 整体论和不可分离性在经典物理学中](https://plato.stanford.edu/entries/physics-holism/#Holism)
+* [8. 纠缠系统的量子物理学](https://plato.stanford.edu/entries/physics-holism/#Quantum)
+* [9. 量子力学中的本体论整体论？](https://plato.stanford.edu/entries/physics-holism/#OHQM)
+* [10. 阿哈罗诺夫-波姆效应和场整体论](https://plato.stanford.edu/entries/physics-holism/#Aharonov-Bohm)
+* [11. 替代方法](https://plato.stanford.edu/entries/physics-holism/#Alternatives)
+* [12. 量子场论](https://plato.stanford.edu/entries/physics-holism/#QFT)
+* [ 13. 弦理论](https://plato.stanford.edu/entries/physics-holism/#String)
+* [ 参考文献](https://plato.stanford.edu/entries/physics-holism/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/physics-holism/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/physics-holism/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/physics-holism/#Rel)
+
+---
+
+## 1. 简介
+
+整体论通常被认为是一个命题，即整体大于其部分之和。对于物理学来说，这个格言的几种不同解释都是相关的，正如我们将看到的。以下是一个相应模糊的非可分离性的初始陈述：整体的状态并不是由其部分的状态构成的。显然，整体论和非可分离性是相关概念，并且它们之间的确切关系需要澄清。
+
+在一种解释中，整体论是一种方法论命题（第2节），其效果是研究复杂系统行为的最佳方式是将其视为一个整体，而不仅仅是分析其组成部分的结构和行为。或者，整体论也可以被视为一种形而上学命题（第3节）：有些整体的本质并不仅仅由其部分的本质决定。方法论整体论与物理学以及其他科学中的方法论还原主义相对立。但是，与不可分离性更密切相关的是某种形而上学整体论。问题在于整体的性质在多大程度上由其部分的性质决定：性质整体论（第4节）否认这种决定，并因此非常接近不可分离性的命题。反过来，不可分离性可以被分析为状态不可分离性（第5节）或时空不可分离性（第6节）。总的来说，在经典物理学中，一个系统可以被分析为其部分，其状态和性质决定了它们所组成的整体的状态和性质（第7节）。但是，所有人都同意，在量子理论中，系统的状态抵制这种分析。一个系统的量子状态指定了它在测量中展示各种性质的机会。在普通量子力学中，最完整的这种指定由所谓的纯态给出。即使一个复合系统具有纯态，它的一些子系统可能没有自己的纯态。强调量子力学的这一特征，薛定谔将这种组分状态描述为“纠缠的”（第8节）。表面上，这种状态的纠缠已经展示了不可分离性。 在更深层次上，人们认为在纠缠的量子系统上进行的测量所产生的令人困惑的统计数据，要么证明了整体论或不可分离性，要么可以用这些概念来解释，而不是通过任何有问题的远程作用（第 8、9 节）。阿哈罗诺夫-波姆效应（第 10 节）似乎也展示了远程作用，因为电子的行为受到从未经历过的磁场的影响。但是，这种效应可以被理解为不可分离电磁学的局部作用。事实上，这种整体论并不源于量子力学或纠缠：虽然阿哈罗诺夫-波姆效应的测量使用了量子成分，但它建立在经典规范理论（如电磁学）中不可分离量的存在基础上。即使专注于没有规范对称性的理论，根据量子场论（第 12 节），我们也可以在真空中获得远距离同时测量之间的令人困惑的相关性。用于研究它们的一种量子理论形式通过算符代数来表示系统，并在其上定义了新类型的状态，从而为状态和系统的不可分离性失败提供了空间，这在普通量子力学中没有类似物。弦理论（第 13 节）是一个在量子场论框架下的雄心勃勃的研究计划。根据弦理论，所有基本粒子都可以被视为多维空间中基本非点状实体的激发。粒子的固有电荷、质量和自旋可能是世界在最深层次上的不可分离特征。
+
+## 2. 方法论整体论
+
+方法论上，整体论与还原主义相对立，大致如下。
+
+> 方法论整体论：对于某种复杂系统的理解最好从整个系统行为的原则层面来寻求，而不是从其组成部分的结构和行为层面来寻求。
+
+> 方法论还原论：对于复杂系统的理解最好从其组成部分的结构和行为层面来寻求。
+
+这似乎涵盖了关于社会科学和生物科学中整体论的争论的大部分内容。在社会科学中，社会是复杂系统，由个体组成；而在生物学中，复杂系统是由细胞、最终由蛋白质、DNA 和其他分子组成的生物体。方法论个体主义者认为，研究社会的正确方式是调查组成社会的个人的行为。而方法论整体主义者则认为，这样的调查将无法对社会的本质和发展提供太多启示。物理学中也存在相应的争论。方法论还原主义者支持一种（比如）凝聚态物理学的方法，该方法通过将量子力学（比如）应用于其组成分子、原子、离子或电子来理解固体或液体的行为。方法论整体主义者认为这种方法是错误的：正如一位凝聚态物理学家所说：“在这个领域中最重要的进展是通过在中间或宏观层面上出现定性新概念而实现的，这些概念希望与关于微观组成部分的信息相容，但在逻辑上并不依赖于它。”（Leggett 1987，第 113 页）
+
+令人惊讶的是，在物理学家中很难找到方法论还原主义者。例如，基本粒子物理学家史蒂文·温伯格就是一个公开宣称的还原主义者。他认为通过不断提出更深层次的为什么问题，最终会得出相同的物理基本定律。但这种解释还原主义在本质上是形而上学的，因为他将解释视为本体而不是实用的范畴。根据这种观点，解释“更高层次”的科学原理为什么是它们的方式的不是物理学家，而是基本定律本身。温伯格（1992）明确区分了他的观点与方法论还原主义，他说没有理由认为科学解释的收敛必然导致科学方法的收敛。
+
+## 3. 形而上学整体论
+
+形而上学整体论者认为，某些整体的性质并不由其部分的性质决定。可以区分三种形而上学整体论：本体论整体论、属性整体论和法则整体论。
+
+> 整体论：一些对象并非完全由基本物理部分组成。
+
+> 属性整体论：一些对象具有的属性并非由其基本物理部分的物理属性决定。
+
+> 法则整体论：一些对象遵循的法则并非由其基本物理部分的结构和行为所决定的基本物理法则。
+
+所有三个论题都需要对“基本物理部分”的概念进行充分的澄清。一种方法是将对象视为基本的，相对于一类只受特定类型过程影响的对象而言，只要该类中的每个对象仍然完全由一组固定的这些（基本）对象组成。因此，如果氢燃烧形成水，那么原子将被视为氢的基本部分，但如果通过热核反应转化为氦，则不是。但这种方法排除了将时间切片和点事件（例如）视为对象的基本（时空）部分的考虑。什么算作一个部分，以及哪些部分是基本的，最好在特定的研究背景下解决。
+
+Weinberg（1992 年）的还原主义与科学中的整体论相对立。他特别声称，热力学已经通过粒子和力的术语来解释，如果热力学定律是自主的，这几乎是不可能的。事实上，热力学对于属性整体论和科学定律整体论的论点都提供了一个迷人但复杂的测试案例。复杂性的一个来源是在经典热力学和统计力学中出现的温度和熵的不同概念的多样性。另一个来源是热力学可以应用于的完全不同构成的系统的大量数量，包括不仅仅是气体和电磁辐射，还有磁体、化学反应、星团和黑洞。这两个复杂性的来源都需要仔细研究热力学性质在热力学系统的基本部分的物理性质决定程度。第三个困难源于在统计力学中恢复热力学原理所需的概率假设的问题状态。（一个重要的例子是假设微正则系综被分配标准、不变的概率分布。）由于力学的基本定律在没有某些这样的假设（无论多么弱）的情况下无法确定热力学原理，因此热力学很可能至少在某种有趣的意义上建立了科学定律整体论。相关条目统计力学哲学在第 6 节中进一步讨论了这些困难。
+
+## 4. 属性/关系整体论
+
+虽然有时会考虑某种形式的本体论整体论，但在量子力学和规范理论中最明显的是属性整体论。但要看清问题所在，我们需要更仔细地阐述这个论点的表述。
+
+首先，这个论题应该与复合物理对象的物理属性相联系。我们在这里感兴趣的是一个物理对象的属性在多大程度上由其部分的属性确定，而不是一些更一般的决定论物理主义。接下来，为了得到一个有趣的属性整体论的表述，我们必须接受这个论题不仅关注属性，也不关注所有属性。一个整体的属性通常取决于其适当部分之间的关系以及个体部分的属性。但是，如果我们被允许考虑所有属性和部分之间的关系，那么这些关系会自动确定组成整体的属性。因为部分之间的一个关系是我们可以称之为完全组合关系——这个关系成立的条件就是它们组成了这个具有所有属性的整体。
+
+让我们称之为部分的规范属性和关系的一个规范集合，这些属性和关系可能或可能不确定整体的属性和关系，这就是随附基础。为了避免将我们试图制定的论文变得琐碎，只有特定的属性和关系可以允许在随附基础中。对于这些属性和关系的直觉很简单 - 随附基础只包括部分的定性内在属性和关系，即这些部分本身所具有的属性和关系，而不考虑任何其他对象，并且不考虑它们具有这些属性对于它们所组成的整体的属性的任何进一步后果。不幸的是，这个简单的直觉很难精确地表述出来。准确地说，什么是内在属性或关系，或者纯粹定性的属性或关系，都是非常困难的。而且，在表达这个简单直觉时所依赖的其他概念也同样存在问题。但是，尽管不精确，这个陈述已经足以排除某些不需要的属性和关系，包括完全组成关系，从随附基础中。
+
+最后，我们得出以下相对立的论点：
+
+> 物理属性决定：任何来自任何领域 D 的一组物理对象的定性内在物理属性和关系，仅受到类型 P 过程的影响，都随附于相对于 D 和 P 的基本物理部分的定性内在物理属性和关系。
+
+> 物理属性整体论：在一个领域 D 中，存在一些仅受类型 P 过程影响的物理对象集合，它们的定性内在物理属性和关系并不完全依赖于它们的基本物理部分（相对于 D 和 P）的定性内在物理属性和关系。
+
+如果我们认为一组物理对象的真实状态由它们的定性内在物理属性和关系确定，那么物理属性确定说（而物理属性整体论否认）整体的真实状态由其部分的真实状态决定。
+
+在这些论题中，随附的概念存在一些未解之处。这个想法已经足够熟悉——在 D 中的对象如果没有其基本物理部分的相关差异，就不会有相关差异。我认为这里涉及的模态不是逻辑的，而是广义上的物理的。人们可以尝试通过一个真实、描述完整的物理理论的模型来阐明这里的随附概念。问题在于，这样的物理理论是否存在两个模型，它们在 D 中一个或多个对象的基本部分的定性内在物理属性和关系上达成一致，但在这些对象的某个定性内在属性或关系上存在差异。
+
+Teller（1989）引入了他所称之为关系整体论的相关概念。
+
+> 关系整体论：存在着不随附于关系对象的非随附关系，即不随附于关系对象的非关系性质。（第 214 页）
+
+在物理学中，这一概念特指物理性质整体论的近亲。
+
+> 物理关系整体论：一些物理对象之间存在物理关系，这些关系不依赖于它们的内在物理性质。
+
+物理属性整体论包含物理关系整体论，但反之不成立。假设 F 是 D 中一个或多个元素的某种内在的定性物理属性或关系，它不能依赖于它们的基本物理部分的内在定性物理属性和关系的随附基础上。如果 F 适用于这些元素，则我们可以定义一个（非内在的）物理关系 RF，它适用于 D 的元素的基本物理部分，当且仅当 F 适用于这些元素。显然，RF 不依赖于这些部分的内在定性物理属性。因此，物理属性整体论包含物理关系整体论。但是，逆向蕴含关系不成立。假设 RG 是一种物理关系，它在 D 中的一些元素的基本部分之间存在，当且仅当这些元素处于关系 SG 时。RG 可能不依赖于这些基本部分的内在定性物理属性，即使 D 的元素的所有内在定性物理属性和关系（包括 SG）都依赖于它们的基本部分的内在定性物理属性和关系。
+
+乍一看，物理关系整体论似乎过于弱小，无法捕捉量子现象的任何独特特征：即使在经典物理学中，物理对象之间的时空关系似乎也不依赖于它们的内在物理性质。但是，当 Teller（1987）引入关系整体论时，他对时空的观点是一种数量观点：根据这种观点，时空关系实际上依赖于普通物理对象的内在定性物理属性，因为这些属性包括它们的时空属性。
+
+## 5. 不可分离性状态
+
+物理学通过给系统分配状态来处理系统。气体的热力学状态指定了其压力、体积和温度。经典粒子系统的状态表示为相空间中的一个点，其坐标由它们的位置和动量确定。人们期望，如果一个物理系统由物理子系统组成，那么相关的物理理论将为复合系统和其子系统分配状态。人们进一步期望整体的状态不会独立于其部分的状态，并且特别地，如果一个系统由两个子系统 A 和 B 组成，那么它将满足爱因斯坦（1935 年）提出的一个原则。Howard（1985 年，第 180 页）给出了这个原则的以下翻译，我将其称为
+
+> 真实状态分离原则：AB 对的真实状态恰好由 A 的真实状态和 B 的真实状态组成，这些状态彼此无关。
+
+但是在量子力学中，将状态分配给系统似乎不符合这些期望（请参见相关条目量子力学）。请记住，系统的量子态指定了其在测量中展示各种属性的机会。至少在普通量子力学中，这个状态的数学表示是在希尔伯特空间中定义的一个对象，一种向量空间。在某些方面，这类似于在相空间中表示经典力学中的粒子系统的状态。让我们制定一个原则
+
+> 状态的可分离性：在任何时候，分配给复合物理系统的状态是随附于其组成子系统的状态的。
+
+这个原则可能以两种方式失败：子系统可能根本没有被分配任何自己的状态，或者它们被分配的状态可能无法确定组成系统的状态。有趣的是，量子力学中的状态分配被认为违反了状态的可分离性，以这两种方式。
+
+系统的量子态可以是纯态或混合态（参见相关条目量子力学）。在普通量子力学中，纯态由系统希尔伯特空间中的向量表示。根据一种常见的理解，任何纠缠的量子系统都违反了状态可分离性，因为表示它们组成的系统状态的向量不能分解为各个子系统希尔伯特空间中的向量的乘积，这些向量可以表示它们的纯态。另一方面，在这种情况下，每个子系统可以被唯一地分配一个所谓的混合态，该混合态在其希尔伯特空间中不是由向量而是由更一般的对象——所谓的冯·诺依曼密度算符表示。但是，状态可分离性的失败是由于不同的原因：子系统的混合态不能唯一确定复合系统的状态。如果将状态仅仅看作是指定系统在测量中展示各种可能性属性的机会，那么状态可分离性的失败可能不会引起太多惊讶。但是，如果认为系统的量子态还在指定其一些或全部范畴属性方面起作用，那么这个角色可能将状态可分离性的失败与形而上学的整体论和不可分离性联系起来。
+
+## 6. 空间和时空的不可分离性
+
+这个想法是众所周知的（尤其是对于乐高爱好者！），即如果通过组装物体的物理部分来构建物体，那么该物体的物理属性完全由部分的属性和它们从中组装的方式决定。空间可分离性原则试图捕捉这个想法。
+
+> 空间可分离性：一个复合系统的定性内在物理属性是随附于其空间分离的组成系统及这些组成系统之间的空间关系的。
+
+如果我们将系统的真实状态与其定性内在物理属性等同起来，那么空间可分离性与霍华德（1985 年，第 173 页）所陈述的可分离性原则相关，该原则表明任何两个空间分离的系统都具有各自独立的真实状态。它与爱因斯坦（1935 年）的真实状态可分离性原则更为密切相关。事实上，爱因斯坦在空间分离的系统对 A、B 的情况下制定了这一原则。
+
+空间不可分离性——否认空间可分离性——也与物理属性整体论密切相关。至少在经典情况下，空间关系是物理属性确定/整体论的随附基础所需的唯一明确的定性内在物理关系的例子：其他内在物理关系似乎是随附于它们的，而任何由于基本物理部分的空间分离而导致的物理属性整体论都将导致空间不可分离性。但是，如果有人认为一个空间定位的物体之所以对于质量等量具有确定的值，仅仅是因为它与其他类似物体的质量关系，那么他可能决定也将这些关系包括在随附基础中（参见达斯古普塔（2013 年））。
+
+如果我们采用时空观点，那么空间可分性自然地推广到
+
+> 时空可分性：占据时空区域 R 的任何物理过程都随附于在 R 中的时空点上的定性内在物理属性的分配。
+
+时空可分性是对 David Lewis（1986 年，第 x 页）的休谟随附原则在物理学中的自然限制。它也与爱因斯坦（1948 年，Howard（1989 年）翻译的第 233-234 页）提出的另一个原则密切相关，他用以下话语表达：“物理学中事物的排列的一个重要方面是，它们在某个时间声称彼此独立存在，只要这些物体‘位于空间的不同部分’”（引文的背景暗示爱因斯坦打算他的原则适用于物体，只要它们占据时空分离的时空区域）。
+
+正如 Healey（1991 年，第 411 页）所示，时空可分性意味着空间可分性，因此空间不可分性意味着时空不可分性。由于它更为普遍且更符合几何时空观点，因此认为时空可分性是主要概念似乎是合理的。因此，在接下来的内容中，没有进一步限定的可分性将意味着时空可分性，并且不可分性将被理解为其否定。
+
+> 不可分性：占据时空区域 R 的某个物理过程不随附于在 R 中的时空点上的定性内在物理属性的分配。
+
+需要注意的是，不可分性既不意味着物理属性整体论，也不意味着空间不可分性：即使涉及没有适当部分的对象，过程仍然可以是不可分的。但本节已经解释了在相当弱的假设下，后两个原则都意味着不可分性。
+
+## 7. 整体论和不可分离性在经典物理学中
+
+经典物理学没有明确的物理属性整体论或不可分离性的例子。正如第 6 节所解释的，几乎任何物理属性整体论的实例都会展示出不可分离性。这就证明了将注意力限制在后者概念上的合理性。现在，所有物理过程都可以通过局部数值分配来完全描述的假设是经典物理学的形而上学背景的一部分。在牛顿时空中，点粒子系统在有限力作用下的运动行为是随附于对粒子沿其轨迹的位置和动量的特定值的归属的。如果粒子上的力来自于在每个时空点定义的场，这种对局部数值的随附性也扩展到动力学。
+
+烧开一壶水是一个更复杂的物理过程的例子。它包括其组成分子的增加动能，使得每个分子能够克服原本将其保持在液体中的短程引力。因此，它随附于在每个分子轨迹上的每个时空点上对该分子的物理量（如其动能）的分配，以及导致该点上对分子施加引力的场。
+
+作为爱因斯坦狭义相对论的时空框架（闵可夫斯基时空）中的一个过程的例子，考虑电磁波在真空中的传播。这取决于在时空中每个点上对电磁场张量的归属。
+
+但这并不意味着这样的经典过程是可分离的。因为我们可以质疑在时空点上对基本量的归属是否等同于或者是由在那些点上对定性内在属性的归属所导致的。以瞬时速度为例：通常将其定义为该点上连续较小时间邻域内平均速度的极限。这提供了一个理由来否认一个粒子在某一点的瞬时速度是由在该点上归属的定性内在属性所随附的。类似的怀疑也可以对其他“局部”量的内在特性提出，比如流体的密度、电磁场的值，或者时空的度量和曲率（参见 Butterfield（2006））。
+
+对于这种怀疑的一种回应是承认在引入一个较弱的概念时，对可分离性进行了次要的违反，即随附
+
+> 弱可分离性：占据时空区域 R 的任何物理过程都随附于在 R 的点和/或这些点的任意小邻域中的定性内在物理属性的分配。
+
+伴随着相应加强的概念
+
+> 强不可分离性：占据时空区域 R 的某些物理过程不随附于在 R 的点和/或这些点的任意小邻域中的定性内在物理属性的分配。
+
+在一个不可分离但不是强不可分离的过程中，不需要涉及整体论，只要涉及其中的基本部分被认为与任意小的邻域相关联而不是点。Belot（1998 年，第 540 页）提出了弱可分离的版本，他的术语是同步局部性；Myrvold（2011 年，第 425 页）也提出了弱可分离的版本，他称之为补丁可分离。其思想是，一个区域的状态随附于对该区域的补丁分配的内在属性，其中补丁可以被认为是任意小的。
+
+任何由局部时空理论完全描述的物理过程都至少是弱可分离的。因为这样的理论通过在时空的每个点上分配几何对象（如向量或张量）来表示物理场，并要求这些对象满足某些场方程。但是，由其他形式的理论完全描述的过程也是可分离的。这些理论包括许多在粒子轨迹上的每个点上分配大小的理论。在众所周知的经典理论中，只有涉及空间分离粒子之间的直接作用的理论才在其对个体粒子的动力学历史的描述中涉及不可分离性。但是，在足够大以包括作用于这些粒子的所有力源的时空区域内，这样的过程是弱可分离的，因此强不可分离性的出现可以归因于对这些过程实际占据的时空区域的错误狭窄理解。
+
+根据广义相对论，引力能量的传播显然涉及到强烈的不可分离过程，因为引力能量无法定位（它不像其他形式的能量一样对应于时空中每个点定义的应力能量张量）。但即使是一个非局部定义的引力能量仍然会随附于时空中每个点定义的度规张量，因此其传播过程将是弱可分离的。
+
+在广义相对论中，不可分离性的定义变得棘手，因为其应用要求在可能的时空中用不同的几何形状来识别相同的区域 R。但虽然没有普遍适用的算法来进行唯一适当的识别，但在特定情况下可能会出现一些显著的识别。例如，在阿哈诺夫-博姆效应中，可以讨论场是否在螺线管外区域的每个地方都是相同的，即使电流的大小会对该区域的几何形状产生（微小的）影响。请注意，不可分离性的定义并不要求在具有不同几何形状的时空中识别相同的点。
+
+虽然严格来说不属于经典物理学的范畴，但量子现象（如阿哈诺夫-博姆效应）即使在经典电磁学中也可以被视为不可分离性和整体论的表现。如果在时空点或其邻域中从未分配任何定性的内在物理属性，那么不可分离性将成为一个平凡的概念。但这将需要一种彻底的关系主义，它不仅将几何特征，而且将所有局部特征都视为不可约的关系（参见 Esfeld（2004））。我们将在讨论阿哈诺夫-博姆效应时回到这一点。
+
+## 8. 纠缠系统的量子物理学
+
+量子纠缠首先是一种关系，不是物理上的关系，而是表示量子系统状态的数学对象之间的关系。不同形式的量子理论通过不同类型的数学对象来表示各种系统的量子态。因此，量子纠缠的概念已经被一系列定义所表达，每个定义适用于特定形式和应用的量子理论（参见 Earman（2015））。第一个定义（Schrödinger（1935））是在普通非相对论量子力学应用于已相互作用的可区分粒子对（如电子和质子）的情况下发展起来的。
+
+氢原子可以在普通非相对论量子力学中表示为由两个子系统组成的量子系统：一个电子 e 和一个核质子 p。当它被隔离时，它的量子态可以用一个向量Ψ在一个由表示 e 和 p 的态的空间 Hp 和 He 的张量积构成的空间 H 中表示。如果 e 和 p 的态被定义为纠缠的，那么它们就是纠缠的。
+
+Ψ≠Ψp⊗Ψe
+
+对于 Hp 和 He 中的向量Ψp，Ψe 的每一对。这个定义自然地推广到由 n 个可区分粒子组成的系统。但是对于一组不可区分的粒子，可能更倾向于使用其他定义，例如电子或光子的集合（参见 Ghirardi 等人（2002），Ladyman 等人（2013））。
+
+由此可知，孤立氢原子中的电子和质子的状态是纠缠的。但是，也可以将氢原子表示为由质心子系统 C 和相对子系统 R 组成的，分别由向量状态ΨC，ΨR 在 HC，HR 中表示的。
+
+Ψ=ΨC⊗ΨR
+
+如果氢原子的状态用Ψ表示，那么量子子系统 C 和 R 的状态不是纠缠的，但量子子系统 p 和 e 的状态是纠缠的。这说明一个重要观点，即在从量子纠缠的数学条件中得出形而上学结论之前，必须首先确定哪些量子系统是组成某个物理整体的物理部分。将氢原子的物理部分视为电子和质子可能似乎是自然的。但请注意，孤立氢原子的状态通常用ΨR 表示，而不是用Ψ或Ψe 表示。
+
+被视为氢原子的基本物理部分的状态Ψ所代表的，其电子和质子可以被视为纠缠的物理部分，因为Ψ不能被表示为代表每个状态的向量的乘积。电子和质子可以被分配一个混合态，但这些并不能唯一确定状态Ψ：状态的可分离性被违反。如果一个系统的状态仅仅指定了它在测量中展示各种可能性的机会，那么这可能不会引起任何惊讶。但如果一个系统的量子状态在指定其范畴属性（即其真实状态）方面起到了作用，那么这可能具有形而上学的意义，因此真实状态的可分离性原则受到威胁。爱因斯坦对这一原则的承诺是他否认物理系统的真实状态由其量子状态给出的原因之一（尽管不清楚他认为真实状态包含什么）。但根据（竞争的哥本哈根解释的一个变种），量子状态通过指定它仅包含那些它分配概率1的定性内在量子动力学属性，来给出一个物理系统的真实动力学状态。在这种最后的解释中，量子力学中状态可分离性的违反导致了物理属性的整体性：例如，一对基本粒子可能具有无自旋的内在属性，尽管这并不由其组成粒子的内在属性和关系所决定。
+
+如果一对量子系统的纠缠纯向量态违反了状态的可分离性，那么存在着动力学变量的测量（每个子系统上的一个）其联合量子概率分布不能表示为每个变量的单独测量的概率分布的乘积。量子理论预测了这样的概率分布，适用于许多类型的空间分离的变量测量，包括对一个被赋予这样的状态的纠缠物理实体的自旋和极化分量，并且其中许多分布已经通过实验证实。如果有人认为量子理论通过用一个概率分布替换对动力学变量的精确实际值分配来处理每个动力学变量，那么这已经违反了真实状态可分离性原则。但是，如果有人提出了一种理论，通过额外的“隐藏”变量的值来补充量子态，那么量子概率将被认为是由于对许多不同的隐藏状态进行平均而产生的。在这种情况下，应该将条件概率分布视为在给定隐藏变量值的完整规范下指定系统和子系统在测量中展示各种可能性的基础机会。真实状态可能包括所有这些条件概率分布。这样一个理论的最著名的例子是波姆理论（参见波姆力学条目），其中“隐藏”变量是空间位置。在每个具体的实验背景下，所有条件概率都是0或1，因此联合条件概率分布确实可以因式分解。但是，在一个子系统上选择和测量一个选择的动力学变量的测量结果取决于在另一个子系统上选择和测量什么动力学变量，无论这些测量是何时或多远地选择和进行的。
+
+贝尔（1964年，[2004年]）推断，任何局部隐藏变量理论必须为每个局部结果产生0或1的条件概率，以重现所有量子预测，但不能允许这些概率依赖于远程测量的选择。然后，他证明了任何局部隐藏变量理论的概率预测必须满足特定的不等式，这些不等式在某些纠缠态分配的量子理论预测中被违反（参见贝尔定理条目）。在后来的工作中，贝尔（1990年，[2004年]）将这个论证推广到适用于满足他所称的局部因果性条件的某种类型的理论，他声称量子力学不满足这个条件。霍华德（1989年，1992年）将结果独立性——对给定一对纠缠系统上的任何假设隐藏变量的明确值，给定一对测量中的一个的结果，条件概率的概率独立性——作为可分离性条件。结果独立性可以与参数独立性相对比——给定明确的隐藏变量分配，对一对纠缠系统中的一个进行测量的结果在概率上独立于对另一个系统进行的任何测量（如果有的话）。结果独立性与参数独立性一起暗示了导致现在称为贝尔不等式的条件概率的分解。这些不等式限制了在任何量子态中对一对纠缠系统上的自旋和极化等变量的测量结果之间预期的统计相关模式。量子力学预测，并通过实验证实，这样的贝尔不等式并不总是成立。波姆理论通过违反参数依赖性和因此局部因果性来适应这个事实。 但是霍华德（1989 年）以及泰勒（1989 年）建议我们转而诉诸于结果独立性的失败，以理解为什么贝尔不等式并不总是成立，而这种失败与整体论或不可分离性有关。霍华德（1989 年）将贝尔不等式的违反归咎于他的可分离性条件的违反；泰勒（1989 年）则认为这是关系整体论的一种表现。他们都免除了参数独立性的责备，因为他们认为（至少当纠缠系统上的测量事件是时空分离的时候），参数独立性（与结果独立性不同）是相对论的一个结果：（请注意，波姆理论需要一个相对论理论所提供的优选参考系）。
+
+亨森（2013 年）和其他人对这种推理方式提出了质疑，包括其诉诸于整体论或不可分离性的结论，这有助于理解涉及纠缠系统的这些相关性是如何在不违反相对论理论、局部因果性或爱因斯坦（1948 年）的局部作用原理的情况下产生的。
+
+> 局部行动原理：如果 A 和 B 是空间上相距较远的事物，那么对 A 的外部影响不会立即影响到 B。
+
+霍华德（1989年，1992年）将结果独立性与可分离性条件等同起来的观点引起了争议，特勒（1989年）声称，如果接受（物理）关系整体论，那么对贝尔不等式的违反就不再令人困惑（劳迪萨，1995年；伯克维茨，1998年；亨森，2013年）。温斯伯格和费恩（2003年）反对认为，可分离性仅要求条件联合概率以边际概率的某种函数确定，而结果独立性则任意限制为乘积函数。通过允许其他类型的函数依赖，他们能够构建出实验结果会违反贝尔不等式的模型。他们声称，这些模型既是局部的又是可分离的，尽管它们违反了结果独立性。但弗格尔（2007年）提出了可分离性条件的其他形式化方法，其中几种确实暗示了结果独立性。违反结果独立性与相对论一致，而违反参数独立性则不一致的观点也受到了批评（琼斯和克利夫顿，1993年；莫德林，2011年）。但迈尔沃尔德（2016年）通过论证，违反结果依赖的局部引发态矢量坍缩可能与相对论完全兼容。
+
+虽然与上述的哥本哈根解释有所不同，一些模态解释认为系统的真实状态与量子态之间存在足够密切的关系，使得纠缠系统违反量子态可分离性意味着某种整体性或不可分离性。例如，范弗拉森（1991年，第294页）认为他的模态解释承认了“奇怪的整体性”，因为它暗示了一个复合系统可能没有与张量积投影算符P⊗I相对应的属性，即使它的第一个组分具有与P相对应的属性。实际上，在一个暗示组分缺乏P而复合体具有P⊗I的模态解释中，整体性的情况将更加明确：其他条件相同的情况下，这将提供一个物理属性整体性的实例。希利（1989年，1994年）提出了一种模态解释，并用它来提出了一个关于令人困惑的相关性的模型解释，将其描绘为由违反空间和时空可分离性的过程所导致。他认为，在这种解释下，过程的不可分离性是物理属性整体性的结果；而且，由此得出的解释能够真正理解相关性是如何产生的，而不违反相对论或局部作用。但是，克利夫顿和迪克森（1998年）以及迈尔沃尔德（2001年）的后续研究对于该解释是否与相对论的洛伦兹不变性要求相一致提出了质疑。最近，希利（2016年）提出了一个不同的解释，说明了量子理论如何用于解释与洛伦兹不等式违背相一致的情况，同时保持洛伦兹不变性和局部作用。这个解释不涉及任何形而上学的整体性或不可分离性。
+
+Esfeld (2001)认为，整体论在量子领域和其他领域中，不仅仅涉及到随附的失败。他认为，一个复合系统是整体的，因为它的子系统本身只有通过与其他子系统的关系以及它们组成整体的方式才能被视为量子系统。
+
+## 9. 量子力学中的本体论整体论？
+
+在物理学中，本体论整体论是指存在一些物理对象，它们并不完全由基本物理部分组成。波尔、波姆等人的观点可以被解释为支持这个论题的某个版本。在任何情况下，都没有声称任何物理对象具有非物质部分。这个想法是，我们认为完全由一组特定的基本物理部分组成的某些物理实体实际上并非如此组成。
+
+玻尔（1934 年）认为，只有在适合测量相应属性的某种明确定义的实验安排的背景下，才能有意义地将诸如位置或动量之类的属性归因于量子系统。他用“量子现象”这个表达来描述在这样的安排中发生的事情。在他看来，尽管量子现象是纯粹物理的，但它并不由涉及独立可表征的物理对象的不同事件组成——量子系统一方面，经典仪器另一方面。即使量子系统可以被认为存在于量子现象的背景之外，也几乎无法对其属性有任何有意义的陈述。因此，将量子物体视为仪器-物体整体的独立存在的组成部分是错误的。
+
+波姆（1980 年，1993 年）对量子力学的思考使他采取了更一般的整体论。他认为，不仅仅是量子物体和仪器，任何一组仅由量子物体组成的东西都构成了一个不可分割的整体。在波姆（1952 年）对量子力学的解释中，这可以在“未分割宇宙”的状态的完整规范中得到明确。这不仅需要列出所有组成粒子及其位置，还需要列出与指导其轨迹的波函数相关联的场。如果假设宇宙的基本物理部分只是它所包含的粒子，那么这就在波姆的解释背景下建立了本体论的整体论。但是，对于波姆理论的本体论存在着其他观点（参见条目波姆力学）。
+
+一些人（霍华德 1989 年；迪克森 1998 年）将不可分离性原理的失败与贝尔不等式的本体论整体论联系起来。霍华德（1989 年）提出了以下不可分离性原理（第 225-6 页）
+
+> 霍华德分离性：由非零时空间隔分隔的任意两个空间-时间区域的内容构成可分离的物理系统，即（1）每个系统都具有自己独特的物理状态，（2）这两个系统的联合状态完全由这些单独的状态决定。
+
+他认为爱因斯坦捍卫这一点作为物理系统个体化的原则，没有这个原则，物理思维“在我们熟悉的意义上”将不可能。霍华德本人思考了这个原则在纠缠量子系统中可能失败的可能性，由此导致这些系统不再能够完全由通常被认为是它们的子系统的组成部分组成。另一方面，迪克森（1998）认为这种整体论不是“一个可行的科学学说，更不是一个解释性的学说”（第 156 页）。
+
+为了避免实验违反贝尔不等式表明局部作用的结论，可以通过引入事件的本体整体论来解释。这个想法是否认这些实验涉及不同的、时空分离的测量事件，并坚持认为我们通常描述的涉及纠缠系统的单独测量实际上构成一个不可分割的、时空断开的事件，没有时空部分。但是，这种本体整体论与量子理论和实验实践中固有的事件个体化标准相冲突。
+
+## 10. 阿哈罗诺夫-波姆效应和场整体性
+
+阿哈罗诺夫和波姆（1959 年）引起了人们对量子力学预测的注意，即由于一个恒定磁场的存在，带电粒子束的干涉图样可能会被产生或改变。这种效应后来已经在实验中得到证实。乍一看，阿哈罗诺夫-波姆效应似乎涉及到远距离作用。很明显，（电）磁场对粒子产生影响，因为它影响了它们产生的干涉图样；而且这必然是远距离作用，因为粒子通过了一个没有该场的区域。但是，对于这种现象的替代解释是可能的，将其描绘为（强）不可分离性的表现（Healey 1997）。如果带电粒子和电磁现象的行为都是不可分离的过程，那么就不需要远距离作用。虽然在物理学中，这种对电磁现象（以及其他规范理论）的处理越来越常见，但将带电粒子的运动视为不可分离的过程，就是支持量子力学如何被解释的一个特定立场。
+
+将量子力学的解释归因于带电粒子在仪器中的非局部化位置，就意味着在阿哈罗诺夫-波姆效应中违反了时空可分离性，因为粒子的通过构成了一个不可分离的过程。要理解为什么在粒子通过过程中作用于它们的电磁现象也可以被视为不可分离的，就需要考虑当代对电磁现象的表述，既不是场也不是矢势。
+
+在 Wu 和 Yang（1975）对 Aharonov-Bohm 效应的分析之后，普遍认为真空电磁学既不完全由电磁场描述，也不完全由其矢势描述，而是由所谓的 Dirac 相位因子完整且非冗余地描述：
+
+exp[(ie/ℏ)∮CAμ(xμ.dxμ]
+
+其中 Aμ是时空点 xμ处的电磁势，e 是粒子的电荷，积分是在时空中的每个闭合回路 C 上进行的。这可以看作是封闭曲线整体性的更一般概念的一个实例，这个概念在当代用纤维丛论述规范理论（Healey（2007））中变得重要。应用于 Aharonov-Bohm 情况，这意味着恒定磁场伴随着空间中所有闭合曲线 C 的相位因子 S(C)的关联，其中 S(C)由以下定义：
+
+S(C)=exp[−(ie/ℏ)∮CA(r).dr]
+
+（其中 A(r)是空间点 r 处的磁矢势）。这种方法的优点在于，由于 S(C)是规范不变的，因此可以轻松地被视为一个物理上真实的量。此外，电磁作用在无场区域的效应可以归因于 S(C)在该区域内某些闭合曲线 C 上非零。但值得注意的是，与磁场及其势不同，S(C)在每个时刻的每个空间点上并没有定义。
+
+在某个时刻，S(C)能否被视为与曲线 C 对应的空间区域的固有属性？这个建议存在两个困难。首先，定义 S(C)中的量 e 的存在似乎表明 S(C)更多地编码了电磁对具有特定电荷的物体的影响。如果事实上所有电荷都是某个最小值 e 的倍数，那么这个问题就不再存在：对于这个最小电荷，S(C)的值可以被视为表示与曲线 C 对应的空间区域的固有属性。如果不是这样，可以选择
+
+ 我们将 I(C)=∮CA(r).dr 表示为 C 的内在属性。
+
+第二个困难是封闭曲线不唯一地对应于空间区域：例如，在同一圆上绕磁场区域两次会产生与绕一次不同的曲线。但这并不妨碍我们在某个时间点上将 S(C)表示为环路的内在属性——由封闭曲线 C 在自身仅在端点处相交的有向空间区域所追踪出来。
+
+一旦处理了这些困难，确实可以将阿哈诺夫-博姆效应中的电磁学视为在某个时间点上由空间（或更一般地说，时空）中的环路的内在属性集合来忠实地表示。但如果这样做，那么电磁学本身就表现出了（强）不可分离性。因为这些内在属性不依赖于所涉及区域的时空点上的任何定性内在物理属性的分配，甚至不依赖于这些点的任意小邻域。无论磁场是否保持恒定或变化，相关的电磁学都构成了一个不可分离的过程，因此阿哈诺夫-博姆效应违反了时空可分离性。如果粒子通过装置的运动是一个不可分离的过程，那么就有可能通过电磁学与这个过程之间的纯局部相互作用来解释 AB 效应。因为粒子在其非局域化的“轨迹”上实际上穿越了由封闭曲线 C 追踪出的环路，所以它们与电磁学的相互作用恰好在这个定义的位置上发生。
+
+假设它表现出不可分离性，阿哈罗诺夫-波姆效应是否涉及某种整体论？粒子的状态不需要与彼此纠缠在一起。但是，可以认为场的状态是整体的，因为环的电磁性质不随构成这些环的点（如电场和磁场强度）的性质而随附。由于这些是经典场，阿哈罗诺夫-波姆效应可以被认为在经典物理中展示了整体论和不可分离性。然而，一个环也可以被认为是由“串联”一组追踪出较小环的曲线组成的曲线所追踪出的。并且移除由两个以相反方向穿越的曲线穿过的部分。在这种情况下，在一个单连通区域中，任何环的全纲特性将由以这种方式组成它的任意一组较小环的全纲特性决定。但是，当时空不是单连通的时，有些环无法以这种方式分解：例如，包围空间中的“洞”的环无法进一步分解。
+
+Myrvold（2011）将这个结果解释为说，对于非单连通时空，弱可分离性（他称之为全局补丁可分离性）失败了，尽管在局部-在单连通补丁上-可分离性成立。此外，他在这里看到了规范理论的全纲和场形式主义之间的明显区别：在其中据说可分离性总是成立。
+
+但是戈梅斯（2021）抹去了这种区别：他认为场形式主义保持了可分离性，但代价是处理规范变量场。一旦我们将注意力限制在规范不变量上，上述的不可分离性（使用整环变量）就会恢复。此外，他认为只有在真空中，不可分离性才取决于时空的拓扑结构。在存在带电物质的情况下，可能存在无法分解成较小区域的规范不变量。这很容易说明：假设对于一个闭合回路 C，我们用 S(I)表示一个起点为 x，终点为 y 的开放段 I，而不是相位因子 S(C)。对于一个（克莱因-戈登）带电标量场φ，在除 x 和 y 的小邻域νx，νy 之外处处为零的情况下，函数：
+
+¯φ(x)S(I)φ(y)
+
+是规范不变的，它不能进一步分解为在不包括整个 I 的区域上有支持的量。例如，如果有两个区域，每个区域只包含νx 或νy，则该区域的电荷不足以将 S(I)完全转化为规范不变函数。这个例子符合物理学文献的观点，物理学文献普遍认为规范不变性（特别是广义高斯约束的存在）表明了某种一般类型的非局域性（参见 Strocchi（2013 年，第 7 章））。
+
+## 11. 替代方法
+
+本条目主要关注形而上学整体论及其与不可分离性的关系。物理学中对整体论的理解有多种替代方式，这在《物理学史与哲学研究》（2004 年）的一期专题中有所体现。
+
+Seevinck（2004 年）提出了整体论的认识论标准，并阐述了其在物理理论中的应用。根据这一标准，如果一个物理理论在原则上不可能通过局部资源来推断出理论所赋予的整体性质，其中包括（至少）所有局部操作和经典通信，那么该理论就被视为整体论。为了应用这一标准，有必要明确一个理论如何赋予属性，这是理论的不同解释可能存在分歧的问题。Seevinck（2004 年）认为，经典物理学和 Bohm 力学在这个意义上都不是整体论。然后，他应用特定双分子量子系统的本征值-本征态联系，展示了这种认识论整体论的表现，即使系统的状态没有纠缠。
+
+Placek（2004）将量子态整体论理解为涉及概率的论题：即对于一对纠缠的量子系统进行联合测量的结果的概率不是由这两个结果的概率决定的。但他认为这只是更完整概念的一个组成部分，其制定和分析需要将不确定性、（相对论性的）时空的基本要素以及概率结合起来的模态框架——Belnap（1992）的分支时空理论。
+
+Esfeld（2004）主张基于量子纠缠的非分离性来构建关系的形而上学，从而将纠缠视为一种整体论。他将非分离性描述如下：
+
+> 非分离性：如果且仅如果只有整体的联合态完全决定了每个系统的状态相关属性以及这些系统之间的相关性（在所有这些相关性都被确定的情况下），那么两个或多个系统的状态就是非分离的。
+
+他认为这意味着任何量子纠缠的情况都是不可分离性的情况，而不可分离性是量子纠缠成为一种整体论的原因。（他在 Esfeld（2001）的第 8 章中讨论了不可分离性和整体论之间的关系。）
+
+Lyre（2004）和 Healey（2004）认为电磁学和其他规范理论表现出不可分离性，原因与量子纠缠不同（参见阿哈罗诺夫-波姆效应）。Lyre 认为这是时空整体论的一种变体，并将其与结构实在论联系起来。Healey（2007）认为，尽管广义相对论可以被表述为规范理论，但它并不表现出这种类型的不可分离性。Weatherall（2016）认为在广义相对论中存在一个区别，但这还不足以排除时空整体论。如果存在多个空间维度，理论上在广义相对论中存在一种类似于规范理论中观察到的不可分离性的现象，这是通过使用平行传播向量的方向来实现的。
+
+## 12. 量子场论
+
+某些在量子场论中出现的现象被认为挑战了可分离性原理或涉及整体论。这些现象最深入地被数学物理学家和哲学家通过代数方法来分析，尽管量子场论的许多实证成功是通过其他方法来实现的。
+
+代数量子场论（AQFT）通过一个从相关的“场”或“可观测”算符的代数到时空区域的函数来表示该区域的状态：该函数对于一个自伴算符的值表示对该区域上相应可观测量的测量结果的期望。如果一个状态在与区域 A、B 相关的代数 RA、RB 上是可分解的（有人称之为可分离的），则其在由 RA、RB 生成的代数 RAB 上的限制ω是一个乘积态——即满足ω(XY)=ω(X)ω(Y)，其中 X∈RA，Y∈RB；或者如果ω是乘积态的凸组合的极限，则称其在 RAB 上是纠缠的（参见例如 Valente 2010，第 1031-2 页）。这是对第 8 节中给出的纠缠的第一个条件的混合态的自然推广。
+
+纠缠在 AQFT 中是普遍存在的。Summers 和 Werner（1985）证明了量子场的真空态不仅在与闵可夫斯基时空的某些类空分离区域相关的代数上是纠缠的，而且还在与这些区域相关的代数上最大地违反了贝尔不等式。他们还证明了（1988）对于一对闭包共享一个点的类空分离开放区域上的每个状态，其在它们的代数上是最大纠缠的。对于每个状态，纠缠程度随着空间分离的增加而迅速减小。但是，只有当 RA、RB 具有所谓的分裂性质时，任何状态才能在这些代数上是可分解的。
+
+分裂属性（Valente 2010，第 1035 页）是微观因果性条件（时空分离区域上的可观测量相互对易）的加强。Summers（2009）认为，在相对论量子理论中，如果可以将其定位在时空区域 A、B 中，其代数 RA、RB 具有分裂属性，则可以谈论独立子系统的意义；并且大多数（如果不是全部）与物理相关的量子场论模型都具有这个属性（对于足够时空分离的区域 A、B）。
+
+分裂属性是一种独立性条件。Rédei（2010）认为，通过符合这个和其他独立性条件，一个 AQFT 可以满足爱因斯坦（1948）认为量子理论满足场论理想所必需的所有要求。这些要求包括物理事物在时空连续体中的排列（时空性）；位于时空分离区域的事物具有自己独特的状态（独立性）；以及如果 a、b 分别位于时空分离的区域 A、B 中，则对 a 的外部影响不会立即对 b 产生影响（局部作用）。（前两个名字是 Rédei 的，最后一个是爱因斯坦的。）Rédei 认为 AQFT 满足时空性，因为它基本假设可观测量在时空区域中定位；AQFT 满足分裂属性和其他独立性条件建立了独立性；并且 AQFT 遵守局部作用，只要它满足他所称的操作分离性条件。
+
+在评估Rédei的论点时，重要的是要问什么算作物理事物。爱因斯坦提到了两个可能的候选者：物体和场。霍华德的可分离性原则允许将爱因斯坦的真实状态可分离性原则自然地转化为场论。在AQFT中，纠缠态违反了第5节的状态可分离性原则，就像在非相对论量子力学中一样，尽管它们的代数上的分裂性质和相关的独立性条件成立。因此，如果将空时区域的内容通过其在AQFT中的代数来指定，将其视为具有由该代数上的状态给出的真实物理状态的物理系统，那么霍华德的可分离性原则将失败。（尽管在量子场论中，某些区域的分裂性质或其他代数独立性条件的失败对于这些区域中这种物理系统的单独存在性构成了比纯粹的纠缠更为激进的威胁）。但是，爱因斯坦是否将可观测量或其代数视为物理事物是值得怀疑的。如果将它们视为物理场的大小或其定义的时空区域，则满足Rédei的独立性要求仍然与霍华德（更强的）可分离性原则的失败一致。最后，仅对非选择性操作满足Rédei的操作可分离性条件是不足以确保符合局部作用原理。爱因斯坦拒绝量子力学描述的完备性的原因自然地延伸到了AQFT：如果其局部代数上的状态完全指定了空时区域的真实状态，那么他的真实状态可分离性原则或局部作用原理将失败。
+
+形而上学的整体论假设将整体分为部分。要在这里应用部分/整体的区分，必须涉及量子场论的本体论。将时空区域视为相关的物理对象，可以通过时空包含来理解系统/子系统和部分/整体的关系。要评估物理属性的整体性或不可分离性，我们需要确定量子场论中与时空区域相关的定性内在属性和关系。
+
+Arageorgis（2013）举了一个量子场态在两个区域之间纠缠的例子，然而，他认为这个例子与量子粒子对的单态和三重态自旋态不具有相同类型的状态不可分离性（参见 Maudlin 1998）。但他提出，他的例子确实展示了一种认识论上的状态不可分离性，因为被限制在一个区域的代理人无法通过限制在该区域内的操作来确定其状态。通过将特定复合量子场系统的本征值-本征态链接应用于他的例子，Arageorgis（2013）认为该系统的能量不是由其组成子系统的能量（或任何其他定性内在属性和关系）所决定的。他得出结论，这个例子展示了物理属性的整体性。
+
+Wayne（2002）提出，量子场论最好解释为假设存在广泛的整体论或不可分离性。根据这种解释，量子场论中的基本量是在不同时空点定义的场算符的乘积的真空期望值。这些真空期望值可以重构出整个场。不可分离性据说是因为在不同时空点定义的场算符的乘积的真空期望值不随附在这些点上定义的定性内在物理属性以及点之间的时空关系上。但是，不清楚在不同时空点定义的场算符的乘积的真空期望值是否代表这些点的定性内在物理属性或它们之间的物理关系。对于量子场论展示整体论或不可分离性的程度的改进评估必须等待对量子场论解释的进一步进展。（Kuhlman，Lyre 和 Wayne（2002）代表了相关的第一步：但也请参阅 Fraser（2008），Baker（2009）。）
+
+## 13. 弦理论
+
+弦理论（或其后裔 M 理论）已经成为统一基础物理学的一个推测性候选理论，包括量子力学和广义相对论。现有的弦理论通过量子化在一个或多个维度上延伸的基本实体的经典理论来进行。除了普通几何的三个空间维度外，这个空间还有 6 或 7 个微小的紧致维度。如果适当地将这些额外的维度视为空间，那么自然地可以将空间和时空可分离性的概念扩展到它们。在这种情况下，涉及经典弦（或 p>0 的 p-膜）的过程将被视为（时空上）不可分离的，尽管所有粒子及其属性都符合空间可分离性。
+
+非可分离性在量子化的弦场论中的地位并不容易评估，因为决定任何相对论量子场论的本体论应该是什么的一般问题。
+
+## Bibliography
+
+* Aharonov, Y. and Bohm, D., 1959, “Significance of Electromagnetic Potentials in the Quantum Theory”, *Physical Review*, 115: 485–91.
+* Arageorgis, A., 2013, “Holism and Nonseparability by Analogy”, *Studies in History and Philosophy of Modern Physics*, 44: 206–214.
+* Baker, D., 2009, “Against Field Interpretations of Quantum Field Theory”, *British Journal for Philosophy of Science*, 60: 585–609.
+* Bell, J.S., 1964, “On the Einstein-Podolsky-Rosen paradox ”, *Physics*, 1: 195–200.
+* –––, 1990, “La nouvelle cuisine”, in Sarlemijn and Krose (eds.), *Between Science and Technology*: 97–115.
+* –––, 2004, *Speakable and Unspeakable in Quantum Mechanics*, second revised edition, Cambridge: Cambridge University Press.
+* Belnap, N., 1992, “Branching Space-time”, *Synthese*, 92: 385-434.
+* Belot, G., 1998, “Understanding Electromagnetism”, *British Journal for the Philosophy of Science*, 49: 531–55.
+* Berkovitz, J., 1998, “Aspects of Quantum Non-Locality I”, *Studies in History and Philosophy of Modern Physics*, 29B: 183–222.
+* Bohm, D., 1952, “A suggested interpretation of the quantum theory in terms of ‘hidden variables’, I and II”, *Physical Review*, 85: 166–193.
+* Bohm, D., 1980, *Wholeness and the Implicate Order*, London: Routledge & Kegan Paul.
+* Bohm, D. and Hiley, B.J., 1993, *The Undivided Universe*, New York: Routledge.
+* Bohr, N., 1934, *Atomic Theory and the Description of Nature*, Cambridge: Cambridge University Press.
+* Butterfield, J., 2006, “Against *Pointillisme* about Mechanics”, *British Journal for the Philosophy of Science*, 57: 655–689.
+* Clifton, R. and Dickson, M., 1998, “Lorentz-Invariance in Modal Interpretations”, in D. Dieks and P. Vermaas, *The Modal Interpretation of Quantum Mechanics*, Dordrecht: Kluwer Academic, pp. 9–47; reprinted in Clifton (2004): 91–140.
+* Cushing, J. and McMullin, E. (eds.), 1989, *Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem*, Notre Dame, Indiana: University of Notre Dame Press.
+* Dasgupta, S., 2013, “Absolutism vs Comparativism about Quantity”, *Oxford Studies in Metaphysics*, 8: 105–148.
+* Dickson, M., 1998, *Quantum Chance and Non-Locality*, Cambridge: Cambridge University Press.
+* Earman, J., 2015, “Some Puzzles and Unresolved Issues about Quantum Entanglement”, *Erkenntnis*, 80: 303–337.
+* Einstein, A., 1935, Letter to E. Schroedinger of June 19th. (Passages from this appear, with translations, in Howard 1985).
+* Einstein, A., 1948, “Quantum Mechanics and Reality”, *Dialectica*, 2: 320–4. (This translation from the original German by Howard, 1989, pp. 233–4.)
+* Esfeld, M., 2001, *Holism in Philosophy of Mind and Philosophy of Physics*, Dordrecht: Kluwer Academic Publishers.
+* –––, 2004, “Quantum Entanglement and a Metaphysics of Relations”, *Studies in History and Philosophy of Modern Physics*, 35: 601–17.
+* Fogel, B., 2007, “Formalizing the Separability Condition in Bell’s Theorem”, *Studies in History and Philosophy of Modern Physics*, 38: 920–37.
+* Fraser, D., 2008, “The Fate of ‘Particles’ in Quantum Field Theories with Interactions”, *Studies in History and Philosophy of Modern Physics*, 39: 841–59.
+* Gomes, H., 2021, “Holism as the Empirical Significance of Symmetries”, *European Journal for Philosophy of Science*, 11: 87.
+* Gambini, R. and Pullin, J., 1996, *Loops, Knots, Gauge Theories and Quantum Gravity*, Cambridge: Cambridge University Press.
+* Ghirardi, G.-C., Marinatto, L., and Weber, T., 2002, “Entanglement and Properties of Composite Systems”, *Journal of Statistical Physics*, 108: 49–122.
+* Healey, R.A., 1989, *The Philosophy of Quantum Mechanics: an Interactive Interpretation*, Cambridge: Cambridge University Press.
+* –––, 1991, “Holism and Nonseparability”, *Journal of Philosophy*, 88: 393–421.
+* –––, 1994, “Nonseparability and Causal Explanation”, *Studies in History and Philosophy of Modern Physics*, 25: 337–74.
+* –––, 1997, “Nonlocality and the Aharonov-Bohm Effect”, *Philosophy of Science*, 64: 18–41.
+* –––, 2004, “Gauge Theories and Holisms”, *Studies in History and Philosophy of Modern Physics*, 35: 619–42.
+* –––, 2007, *Gauging What’s Real*, Oxford: Oxford University Press.
+* –––, 2016, “Locality, Probability and Causality”, in Mary Bell and Shan Gao (eds.), *Quantum Nonlocality and Reality – 50 Years of Bell’s Theorem*, Cambridge: Cambridge University Press, pp. 72–194; [preprint available online](http://philsci-archive.pitt.edu/11849/).
+* Henson, J., 2013, “Non-Separability Does Not Relieve the Problem of Bell’s Theorem”, *Foundations of Physics*, 43: 1008–38.
+* Howard, D., 1985, “Einstein on Locality and Separability”, *Studies in History and Philosophy of Science*, 16: 171–201.
+* –––, 1989, “Holism, Separability and the Metaphysical Implications of the Bell Experiments”, in Cushing and McMullin (eds.) 1989: 224–53.
+* –––, 1992, “Locality, Separability and the Physical Implications of the Bell Experiments”, in A. van der Merwe, F. Selleri, and G. Tarozzi (eds.), *Bell’s Theorem and the Foundations of Modern Physics*, Singapore: World Scientific, pp. 306–14.
+* Jones, M. and Clifton, R., 1993, “Against Experimental Metaphysics”, in *Midwest Studies in Philosophy Volume* 18, P. French et al. (eds.), South Bend, IN: University of Notre Dame Press, pp. 295–316.
+* Kuhlman, M., Lyre, H. and Wayne, A. (eds.), 2002, *Ontological Aspects of Quantum Field Theory*, Singapore: World Scientific.
+* Laudisa, F., 1995, “Einstein, Bell, and Nonseparable Realism”, *British Journal for the Philosophy of Science*, 46: 309–39.
+* Ladyman, J., Linnebo, Ø, and Bigaj, T., 2013, “Entanglement and non-factorizability”, *Studies in History and Philosophy of Modern Physics*, 44: 215–21.
+* Leggett, A. J., 1987, *The Problems of Physics*, New York: Oxford University Press.
+* Lewis, D., 1986, *Philosophical Papers* (Volume II), New York: Oxford University Press.
+* Lyre, H., 2004, “Holism and Structuralism in U(1) Gauge Theories”, *Studies in History and Philosophy of Modern Physics*, 35: 643–70.
+* Maudlin, T., 1998, “Part and Whole in Quantum Mechanics”, in E. Castellani (ed.), *Interpreting Bodies*, Princeton: Princeton University Press, pp. 46–60.
+* –––, 2011, *Quantum Nonlocality and Relativity*, Oxford: Basil Blackwell.
+* Myrvold, W., 2001, “Modal Interpretations and Relativity”, *Foundations of Physics*, 32: 1773–1784.
+* –––, 2016, “Lessons of Bell’s Theorem: Nonlocality, yes; Action at a distance, not necessarily”, in Shan Gao and Mary Bell (eds.), *Quantum Nonlocality and Reality – 50 Years of Bell’s Theorem*, Cambridge: Cambridge University Press, pp. 238–60; [preprint available online](http://philsci-archive.pitt.edu/11654/).
+* –––, 2011, “Nonseparability, Classical, and Quantum”, *British Journal for the Philosophy of Science*, 62: 417–32.
+* Placek, T., 2004, “Quantum State Holism: a Case for Holistic Causation”, *Studies in the History and Philosophy of Modern Physics*, 35: 671–92.
+* Rédei, M., 2010, “Einstein’s Dissatisfaction with Quantum Mechanics and Relativistic Quantum Field Theory”, *Philosophy of Science*, 77: 1042–57.
+* Schrödinger, E., 1935, “Discussion of Probability Relations Between Separated Systems,” *Proceedings of the Cambridge Philosophical Society*, 31: 555–63.
+* Seevinck, M., 2004, “Holism, Physical Theories and Quantum Mechanics”, *Studies in History and Philosophy of Modern Physics*, 35: 693–712.
+* Strocchi, M., 2013, *An Introduction to Non-Perturbative Foundations of Quantum Field Theory*, Oxford: Oxford Science Publications.
+* Summers, S., 2009, “Subsystems and Independence in Relativistic Microscopic Physics”, *Studies in History and Philosophy of Modern Physics*, 40: 133–41.
+* Summers, S. and Werner, R., 1985, “The Vacuum Violates Bell’s Inequalities”, *Physics Letters A*, 110(5): 257–59.
+* –––, 1988, “Maximal Violations of Bell’s Inequalities for Algebras of Observables in Tangent Spacetime Regions”, *Annales de l’Institut Henri Poincaré (A) Physique Théorique*, 49: 214–43.
+* Teller, P., 1986, “Relational Holism and Quantum Mechanics,” *British Journal for the Philosophy of Science*, 37: 71–81.
+* –––, 1987, “Space-Time as a Physical Quantity”, in *Kelvin’s Baltimore Lectures and Modern Theoretical Physics*, R. Kargon and P. Achinstein (eds.), Cambridge, MA: MIT Press, pp. 425–47.
+* –––, 1989, “Relativity, Relational Holism, and the Bell Inequalities,” in Cushing and McMullin (eds.) 1989: 208–23.
+* Valente, G., 2010, “Entanglement in Relativistic Quantum Field Theory”, *Philosophy of Science*, 77: 1029–41.
+* van Fraassen, B., 1991, *Quantum Mechanics: an Empiricist View*, Oxford: Clarendon Press.
+* Wayne, A., 2002, “A Naive View of the Quantum Field”, in Kuhlmann, Lyre and Wayne (eds.) 2002, pp. 127–34.
+* Weatherall, J., 2016, “Fiber Bundles, Yang-Mills Theory, and General Relativity”, *Synthese*, 193: 2389–425.
+* Weinberg, S., 1992, *Dreams of a Final Theory*, New York: Vintage Books.
+* Winsberg, E. and Fine, A., 2003, “Quantum Life: Interaction, Entanglement and Separation”, *Journal of Philosophy*, 100: 80–97.
+* Wu, T.T. and Yang, C.N., 1975, “Concept of Nonintegrable Phase Factors and Global Formulation of Gauge Fields”, *Physical Review D*, 12: 3845.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=physics-holism). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/physics-holism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=physics-holism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/physics-holism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* Grangier, Philippe, “[Contextual Objectivity and Quantum Holism](https://arxiv.org/PS_cache/quant-ph/pdf/0301/0301001v2.pdf)”, manuscript at arXiv.org.
+* Krause, Décio, “[Separability and Non-Individuality](https://philsci-archive.pitt.edu/archive/00002431/)”, manuscript at PhiSci archive.
+
+## Related Entries
+
+Einstein, Albert: Einstein-Bohr debates | [Bell’s Theorem](https://plato.stanford.edu/entries/bell-theorem/) | [Einstein, Albert: philosophy of science](https://plato.stanford.edu/entries/einstein-philscience/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/) | [quantum mechanics](https://plato.stanford.edu/entries/qm/) | [quantum mechanics: action at a distance in](https://plato.stanford.edu/entries/qm-action-distance/) | [quantum mechanics: Bohmian mechanics](https://plato.stanford.edu/entries/qm-bohm/) | [quantum mechanics: modal interpretations of](https://plato.stanford.edu/entries/qm-modal/) | [quantum theory: quantum entanglement and information](https://plato.stanford.edu/entries/qt-entangle/) | [Reichenbach, Hans: common cause principle](https://plato.stanford.edu/entries/physics-Rpcc/) | [statistical physics: philosophy of statistical mechanics](https://plato.stanford.edu/entries/statphys-statmech/)
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+[Richard Healey](http://www.u.arizona.edu/~rhealey/)  
+Henrique Gomes <[*gomes.ha@gmail.com*](mailto:gomes%2eha%40gmail%2ecom)>
