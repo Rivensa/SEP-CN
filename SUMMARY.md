@@ -614,7 +614,7 @@
 * [和平主义 pacifism (Andrew Fiala)](p/he-ping-zhu-yi-pacifism-andrew-fiala.md)
 * [疼痛 pain (Murat Aydede)](p/teng-tong-pain-murat-aydede.md)
 * [托马斯·潘恩 Paine, Thomas (Mark Philp)](p/tuo-ma-si-pan-en-paine-thomas-mark-philp.md)
-* [万有在神论 panentheism (John Culp)](p/wan-you-zai-shen-lun-panentheism-john-culp.md)
+* [超泛神论 panentheism (John Culp)](p/chao-fan-shen-lun-panentheism-john-culp.md)
 * [泛心论 panpsychism (Philip Goff, William Seager, and Sean Allen-Hermanson)](p/fan-xin-lun-panpsychism-philip-goff-william-seager-and-sean-allenhermanson.md)
 * [泛神论 pantheism (William Mander)](p/fan-shen-lun-pantheism-william-mander.md)
 * [\*悖论 paradox](p/bei-lun-paradox/README.md)
