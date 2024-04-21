@@ -1,2 +1,2 @@
-# 万有在神论 panentheism (John Culp)
+# 超泛神论 panentheism (John Culp)
 
