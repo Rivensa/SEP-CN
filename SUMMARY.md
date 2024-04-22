@@ -769,7 +769,7 @@
 * [充足理由律 principle of sufficient reason (Yitzhak Y. Melamed and Martin Lin)](p/chong-zu-li-you-lv-principle-of-sufficient-reason-yitzhak-y.-melamed-and-martin-lin.md)
 * [亚瑟·普赖尔 Prior, Arthur (B. Jack Copeland)](p/ya-se-pu-lai-er-prior-arthur-b.-jack-copeland.md)
 * [囚徒困境 prisoner’s dilemma (Steven Kuhn)](p/qiu-tu-kun-jing-prisoners-dilemma-steven-kuhn.md)
-* [\*隐私 privacy (Beate Roessler and Judith DeCew)](p/yin-si-privacy-beate-roessler-and-judith-decew/README.md)
+* [隐私 privacy (Beate Roessler and Judith DeCew)](p/yin-si-privacy-beate-roessler-and-judith-decew/README.md)
   * [\*信息技术——见信息技术：隐私与信息技术 and information technology — see information technology: and privacy](p/yin-si-privacy-beate-roessler-and-judith-decew/xin-xi-ji-shu-jian-xin-xi-ji-shu-yin-si-yu-xin-xi-ji-shu-and-information-technology-see-information.md)
   * [\*医学——见生物医学伦理学：隐私与医疗 and medicine — see ethics, biomedical: privacy and medicine](p/yin-si-privacy-beate-roessler-and-judith-decew/yi-xue-jian-sheng-wu-yi-xue-lun-li-xue-yin-si-yu-yi-liao-and-medicine-see-ethics-biomedical-privacy.md)
 * [私人语言 private language (Stewart Candlish and George Wrisley)](p/si-ren-yu-yan-private-language-stewart-candlish-and-george-wrisley.md)
