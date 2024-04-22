@@ -10,3 +10,5 @@
   * [关于感质的知识论证 knowledge argument (Martine Nida-Rümelin and Donnchadh O Conaill)](q/gan-zhi-qualia-michael-tye/guan-yu-gan-zhi-de-zhi-shi-lun-zheng-knowledge-argument-martine-nidarmelin-and-donnchadhoconaill.md)
 * [\*量子——见特普论 qualiton — see tropes](q/liang-zi-jian-te-pu-lun-qualiton-see-tropes.md)
 * [量词与量化 quantifiers and quantification (Gabriel Uzquiano)](q/liang-ci-yu-liang-hua-quantifiers-and-quantification-gabriel-uzquiano.md)
+* [量子力学 quantum mechanics (Jenann Ismael](q/liang-zi-li-xue-quantum-mechanics-jenann-ismael/README.md)
+  * [量子力学中的超距作用 action at a distance in (Joseph Berkovitz)](q/liang-zi-li-xue-quantum-mechanics-jenann-ismael/liang-zi-li-xue-zhong-de-chao-ju-zuo-yong-action-atadistance-in-joseph-berkovitz.md)
