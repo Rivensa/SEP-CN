@@ -1,0 +1,399 @@
+# 知识证成的融贯论理论 coherentist theories of (Erik Olsson)
+
+*首次发布于2003年11月11日；实质性修订于2021年3月9日。*
+
+根据融贯论理论，也被称为融贯主义，一个信念或一组信念之所以被证成或被合理持有，是因为该信念与一组信念相融贯，这组信念形成了一个融贯的系统或者是一些变体。融贯论证理论应该与真理的融贯论区分开来。前者是关于一个信念或一组信念被证成的意义，或者一个主体在持有该信念或一组信念时被证成的意义的理论。后者是关于一个信念或命题被证明为真的意义的理论。现代的融贯论者与一些早期的英国唯心主义传统的作家相比，通常赞同融贯论证的理论而不主张融贯论真理的理论。相反，他们要么支持对应理论的真理，要么默认真理的概念，至少在他们的认识论研究目的上是如此。这并不妨碍许多作者声称融贯证成是真理的一个指示或标准。
+
+* [1. 融贯主义与基础主义的对立](https://plato.stanford.edu/entries/justep-coherence/#CohVerFou)
+* [2. 回归问题](https://plato.stanford.edu/entries/justep-coherence/#RegPro)
+* [3. 融贯论理论的传统观点](https://plato.stanford.edu/entries/justep-coherence/#TraAccCoh)
+* [4. 融贯论理论的其他观点](https://plato.stanford.edu/entries/justep-coherence/#OthAccCoh)
+* [5. 从零开始的融贯论理论证](https://plato.stanford.edu/entries/justep-coherence/#JusCohScrLewBonCon)
+* [6. 融贯论理论的概率度量](https://plato.stanford.edu/entries/justep-coherence/#ProMeaCoh)
+* [7. 真理导向性：分析辩论](https://plato.stanford.edu/entries/justep-coherence/#TruConAnaDeb)
+* [8. 不可能性结果](https://plato.stanford.edu/entries/justep-coherence/#ImpRes)
+* [ 9. 结论](https://plato.stanford.edu/entries/justep-coherence/#Con)
+* [ 参考文献](https://plato.stanford.edu/entries/justep-coherence/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/justep-coherence/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/justep-coherence/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/justep-coherence/#Rel)
+
+---
+
+## 1. 融贯论理论与基础主义对比
+
+认识论中的一个核心问题是解释我们何时有理由认为一个命题是真实的。知识证成是一个并不明显的概念，而且对于这个概念的经典解释已经被证明存在严重问题。受笛卡尔启发的传统认为，有理由的信念要么是自明的真理，要么是从自明的真理推导出来的。然而，正如人们经常争论的那样，我们认为自己有理由相信的东西很少满足这些严格的条件：我们许多明显有理由相信的东西，普遍认为既不基于自明的真理，也不是从我们相信的其他事物严格逻辑推导出来的。因此，笛卡尔的理性主义对于知识证成的描绘似乎过于严格。经验主义者试图将我们所有的知识都建立在感官的不容置疑的数据上，但是类似的问题也困扰着他们。根据对感官数据的理解方式不同，它们要么不是不容置疑的，要么不足以为我们所谓的知识提供足够的证明。基础主义的确切描述是一个有争议的问题。还有一种基础主义观点认为，一些信念具有一些非信念性的知识支持来源，这种支持不需要自身的支持。这种支持可能是可废除的，并且可能需要补充才能足够强大以支持知识。这种非信念性的支持可以终止知识证成的回归。为了做到这一点，它可能不需要依赖自明性、不容置疑性或确定性。这种基础主义观点在非信念性支持的来源、支持本身的强度以及在知识证成中相容性所起的作用方面存在差异。对这一立场的一些批评者质疑非信念性支持关系的可理解性。因此，戴维森（1986）抱怨说，支持者们无法解释经验和信念之间的关系，这种关系使得前者能够证明后者。
+
+关于知识证成的理性主义和经验主义的困难使得许多认识论学家认为辩论的方式存在根本性的问题，促使他们拒绝基础主义的知识证成结构，无论是理性主义还是经验主义。这些认识论学家不再将我们的知识结构构想成欧几里得几何学的模型，其中包括基本公理和派生定理，而更倾向于一种整体论的知识证成观，不区分基本或基础信念和非基本或派生信念，而是将我们的所有信念都视为“信念网络”的平等成员（奎恩和乌利安，1970 年；纳斯，1983/1932 年和索萨，1980 年）。
+
+仅仅拒绝基础主义本身并不构成一种替代理论，因为它没有给出关于知识证成的积极解释，只是提出了一个关于信念网络的暗示性隐喻。更具实质性的对比性提议是，证成我们的信念的根本方式是它们如何相互联系或协调以形成一个连贯的集合。正如戴维森所说，“连贯理论的区别在于它声称除了另一个信念之外，没有任何东西可以作为信念的理由”（戴维森，1986 年）。我们的信念之间的连贯可以确立它们的真实性，即使每个个体信念在孤立的情况下可能完全缺乏证成，或者至少是这样认为的。一些支持者认为这种情况类似于法庭上达成裁决的各方证词的一致，尽管每个证词本身对此目的来说都是不足够的（C. I. 路易斯，1946 年）。
+
+有一个严重的反对意见，即任何关于证成或知识的融贯论理论必须立即面对。这就是孤立反对意见：如果后者被理解为纯粹的系统内部问题，那么一个系统融贯，仅仅因为这个事实，如何能够对真理和现实提供任何指导呢？由于融贯论理论在其基本形式中并不赋予经验任何重要角色，因此几乎没有理由认为一个融贯的信念系统能够准确反映外部世界。同样臭名昭著的另一种观点是提出了另一种观点。对于每一个融贯的信念系统，可能存在其他与第一个系统相容但同样融贯的系统。如果融贯足以证成，那么所有这些不相容的系统都将被证成。但是，这个观察显然彻底破坏了任何暗示融贯能够指示真理的主张。
+
+正如我们将看到的，大多数有影响力的融贯论理论家试图通过赋予一些与经验接近的信念一种特殊的角色来避免这些传统的反对意见，无论它们被称为“所谓的断言的事实”（Lewis，1946 年），“真理候选人”（Rescher，1973 年），“认知自发信念”（BonJour，1985 年）或其他什么。根据这种特殊角色的构建方式，这些理论通常被归类为弱基础主义的版本。弱基础主义的拥护者通常认为，虽然融贯无法从零开始证成信念，但它可以为已经具有一些初始、可能微小的保证程度的信念提供证成，例如观察性信念。
+
+当代许多杰出的哲学家宣称他们支持融贯论理论。除了这个表面的事实外，这些理论通常涉及一些相当多样化的问题，这些问题之间的联系在于它们以某种整体的方式来对信念的证成进行论述。以下是一些吸引融贯论者注意的问题和疑问（参见 Bender，1989）：
+
+* 如何避免证成的回归？
+* 鉴于我们的信息来源（感官、证词等）不可靠，我们如何获得知识？
+* 我们既然不知道自己的信念或记忆是否可靠，那么我们如何能够知道任何事情呢？
+* 在拥有一组信念和一条新的信息（通常是观察结果）的情况下，一个人何时可以被认为是有理由接受这个信息的？
+* 当面对可能不一致的数据集时，一个人应该相信什么？
+
+这些相互关联但又不总是清晰区分的问题的事实对于阅读相关文献的读者来说是一个挑战。
+
+尽管回归问题不是一个核心的当代问题，但解释融贯论理论作为对该问题的回应是有帮助的。这也将用来说明融贯论理论所面临的一些挑战。然后，我们将转向传统上所理解的融贯本身的概念。不幸的是，并非所有与融贯论理论相关的知名作者都以这种传统意义上的融贯来使用这个术语，接下来的部分将专门讨论这些非标准的融贯论理论。关于知识证成的融贯论理论的最系统和最丰富的讨论主要集中在融贯与概率之间的关系上。本条目的其余部分将专注于这一发展，该发展始于 20 世纪 90 年代，受到 C. I. Lewis（1946）的开创性工作的启发。这一发展为我们提供了关于融贯的精确而复杂的定义，以及关于融贯与真理（概率）之间关系的详细研究，最终得出了一些可能令人不安的不可能性结果，这些结果对定义使融贯成为真理的指示具有怀疑态度。关于这些结果的关键蕴涵的更精确的描述以及解决它们引发的担忧的方法将在本条目的后续部分中讨论。
+
+## 2. 回归问题
+
+根据传统的合理真实信念知识观，一个人在没有充分理由相信p为真的情况下，不能说他知道p为真。如果Lucy知道她明天会通过考试，她必须有充分的理由来支持这个观点。现在考虑一下Lucy的理由。它们可能包括她拥有的其他信念，例如她之前的表现如何，她的准备情况如何等等。为了让Lucy知道她会通过考试，这些其他信念，作为第一个信念的基础，也必须是Lucy所知道的事情。毕竟，知识不能建立在不知识的基础上，即无知（参见Rescher 1979, 76）。由于这些理由本身就是Lucy所知道的事情，这些理由又必须以理由为基础，依此类推。因此，任何知识主张都需要一个无止境的理由链或“回归”，即理由的理由。这似乎很奇怪，甚至不可能，因为它涉及到无限数量的信念。但我们大多数人认为知识是可能的。
+
+融贯论理论对于回归问题的回应是什么？融贯论者可以被理解为提出，没有什么能阻止回归在一个循环中进行。因此，A 可以是 B 的理由，B 可以是 C 的理由，C 可以是 A 的理由。如果这是可以接受的，那么我们所拥有的是一个无止境的理由链，但其中并不涉及无限多的信念。它是无止境的，因为对于链中的每个信念，都有一个理由，也在该链中。然而，这种回应存在一个直接的问题，因为通常认为回归循环是恶性的。如果有人声称 C，并被问及为什么相信它，她可能回答她的理由是 B。如果被问及为什么相信 B，她可能断言 A。但是，如果要求她证明对 A 的信念，她不被允许回溯到在当前证明的背景下仍然存在疑问的 C。如果她仍然以 C 为基础证明 A，她的行为将完全缺乏任何证明力量。
+
+融贯论者可能会回应，否认她曾经打算暗示循环推理是一种合法的辩证策略。她反对的是假设证明应该以线性方式进行，即给出理由的理由，依此类推。这种线性假设预设了在主要意义上，被证明的是个别信念。融贯论者说，这是错误的：主要被证明的不是个别信念，而是整个信念系统。特定的信念也可以被证明，但只是在次要或派生的意义上，如果它们是被证明的信念系统的一部分。这是一种融贯方法，因为根据这种观点，使得一个信念系统被证明的是它的融贯性。如果一个信念系统在足够高的程度上是融贯的，那么它就是被证明的。这本质上是劳伦斯·邦乔尔（Laurence BonJour）在 1985 年对回归问题的解决方案。
+
+这比循环论理理论看起来更有前途。如果在这个意义上，知识证成是综合的，那么回归背后的一个核心假设确实是错误的，因此回归从未开始。即便如此，这种综合主义方法也引发了许多新问题，融贯论者需要做出回应。首先，我们需要更清楚地了解一下一致性概念在应用于信念系统时的含义。这是下一节的主题。其次，对于一个信念仅仅因为是一个合理的整体的成员而被证成的提议是可以质疑的，因为可以合理地认为，一个信念可以是一个足够一致的系统的成员，而不以任何方式增加该系统的一致性，例如，如果该信念是唯一一个在其他非常一致的系统中不太适应的成员。显然，一个信念必须对系统的一致性做出贡献，才能通过该系统得到证成。换句话说，如果一个信念要被认为是证成的，它需要与它所属的系统相一致。我们将在第 4 节中讨论这个问题，与基思·勒尔的认识论工作有关。最后，我们已经看到，大多数一致性理论赋予某些与经验密切相关的信念特殊的角色，以避免孤立性和替代系统的反对意见。这个事实引发了一个问题，那些特殊信念的地位是什么。它们必须本身具有一定的可信度，还是可以完全没有可信度？关于这个问题的一个特别明确的辩论是刘易斯-邦乔尔关于从零开始的一致性证成的争议，我们将在第 5 节中更详细地讨论。
+
+## 3. 传统的融贯论理论
+
+根据传统的融贯论理论，我们将其理解为一种将融贯视为给定数据（命题、信念、记忆、证词等）之间相互支持或一致的关系的观点。早期的描述由 Brand Blanshard（1939）和 A.C. Ewing（1934）等人提出。根据 Ewing 的说法，一致的集合部分地由一致性和每个信念都从其他信念逻辑上推导出来的特性所构成。因此，根据这个观点，集合{A1，A2，A1&A2}如果是一致的，那么每个元素都可以通过逻辑推导从其他元素中得出。
+
+尽管 Ewing 的定义非常精确，但它过于狭隘地定义了融贯。在日常生活中，很少有满足他定义的严格第二部分要求的信念集合：即每个元素在组合时都可以从其他元素逻辑上推导出来。例如，考虑由命题 A、B 和 C 组成的集合。
+
+| A= | “John 在抢劫发生时在犯罪现场”          |
+| ---- | ------------------------------------------ |
+| B= | “约翰拥有一把与劫匪使用的类型相同的枪” |
+| C= | “约翰第二天在银行解释中存入了一大笔钱” |
+
+这个集合在直观上是融贯的，但它未能满足尤因的第二个条件。例如，命题 A 并不从 B 和 C 的结合中逻辑上推出：约翰拥有相关类型的枪并在犯罪发生后的第二天存钱并不逻辑上暗示他在犯罪现场。同样，B 和 C 也不能仅通过逻辑从集合中的其他命题推出。
+
+C. I. Lewis 对融贯的定义，或者用他的术语来说是“一致性”，可以看作是对 Ewing 基本思想的完善和改进。正如 Lewis 所定义的，一个“所谓的事实断言”的集合只有在集合中的每个元素都得到其他元素的支持时，才是融贯的（一致的），其中“支持”不是以逻辑术语理解，而是以概率意义上的。换句话说，如果假设 P 为真，则 P 支持 Q 的概率提高，那么 P 支持 Q，反之亦然。正如人们很容易理解的，Lewis 的定义比 Ewing 的定义更宽松：在前者上，更多的集合将被证明是融贯的。 （有一些无趣的极限情况不是这样。例如，一个由重言式组成的集合在 Ewing 的意义上是融贯的，但在 Lewis 的意义上不是。这些情况不是有趣的，因为它们不是任何人实际信念体系的重要部分。）
+
+让我们回到约翰的例子。命题 A 虽然不是由 B 和 C 逻辑蕴涵，但在正常情况下，它仍然由这些命题一起支持。如果我们假设约翰拥有相关类型的枪支，并在第二天存入了一大笔钱，那么这应该提高约翰犯罪的概率，从而也提高他在抢劫发生时在犯罪现场的概率。同样，可以认为集合中的每个 B 和 C 都在概率意义上得到了集合中其他元素的支持。如果是这样，这个集合不仅在直观意义上是融贯的，而且按照 Lewis 的定义也是融贯的。对于 Lewis 的提议，人们可以认为仅仅关注集合中单个元素从集合的其他部分获得的支持似乎是武断的（参见 Bovens 和 Olsson 2000）。为什么不考虑任何子集，而不仅仅是单个元素，从其他部分获得的支持呢？
+
+另一个关于如何定义融贯性的有影响力的提议来自 Laurence BonJour（1985），他的观点比之前的建议要复杂得多。Ewing 和 Lewis 提出将融贯性定义为一个单一概念——逻辑推论和概率，而 BonJour 认为融贯性是一个具有多个不同方面的概念，对应以下“融贯性标准”（97-99）：
+
+1. 只有当一套信念系统在逻辑上一致时，它才是融贯的。
+2. 一套信念系统的融贯性与其概率一致性的程度成比例。
+3. 融贯论理论认为，信念系统的一致性通过其组成信念之间的推理联系的存在而增加，并且与此类联系的数量和强度成比例增加。
+4. 信念系统的一致性会因其被划分为相对缺乏推理联系的信念子系统而减弱。
+5. 信念系统的一致性会随着系统中所信内容中未解释的异常存在而减少。
+
+将融贯论理论解释为多维概念的融贯论理论存在一个困难，即如何确定不同维度如何融合以产生整体的融贯判断。可能会出现这样的情况，一个系统 S 在某个方面比另一个系统 T 更融贯，而 T 在另一个方面比 S 更融贯。也许 S 包含的推理连接比 T 多，但 T 比 S 更少异常。如果是这样，哪个系统在整体上更融贯？Bonjour 的理论在这一点上基本上保持沉默。
+
+BonJour 的观点还引发了另一个一般性问题。第三个标准规定，融贯程度随着系统中不同部分之间推理连接的数量增加而增加。现在，随着系统变得越来越大，存在相对较多推理连接的信念的概率增加，仅仅是因为有更多可能的连接可以建立。因此，可以预期系统的大小与系统中包含的信念之间的推理连接数量之间存在正相关关系。Bonjour 的第三个标准，从字面上理解，因此意味着一个更大的系统通常会具有更高的融贯程度，这是由于其规模庞大。但这至少不明显正确。一个可能的修改后的融贯标准可以陈述，与更高的融贯相关的不是推理连接的数量，而是系统的推理密度，后者是通过将推理连接的数量除以系统中的信念数量得到的。
+
+## 4. 融贯的其他解释
+
+我们将在第6节中回顾一下定义传统的融贯概念的问题，并解决我们提出的一些关注点，例如融贯与系统规模之间的关系。然而，本次讨论的出发点是观察到几位自称融贯论者对中心概念的解释，以及在哲学探究中的作用，在某种程度上与传统观点有所不同。其中包括尼古拉斯·雷舍尔（Nicolas Rescher）、基思·勒尔（Keith Lehrer）和保罗·塔加德（Paul Thagard）。
+
+在Rescher（1973）的著作中，他对此问题的最有影响力的书籍中，融贯论理论是他的核心观点。如果有某种东西支持一个命题，那么这个命题就是一个融贯论真候选者。Rescher的真候选者与Lewis的“所谓的事实断言”有关。在这两种情况下，感兴趣的命题是表面上的而不是真正的真理。尽管Rescher的1973年的书名是《真理的融贯论理论》，但Rescher的研究目的并不是探讨以融贯性来定义真理的可能性，而是寻找一个真理标准，他理解为从一组相互冲突甚至矛盾的真候选者中选择那些理性接受为真正真理的元素的系统性程序。他的解决方案首先是确定原始集合的最大一致子集，即那些一致的子集，如果再加上原始集合的其他元素就会变得不一致，然后从这些子集中选择最“合理”的一个。合理性的特征与传统的融贯性概念没有明显的关系。虽然传统的融贯性概念在Rescher理论的哲学基础中起到了一定的作用，但它并不是最终产品的核心。在后来的一本书中，Rescher发展了一个更传统的“系统论”关于融贯性的观点（Rescher 1979）。
+
+Keith Lehrer 在他对知识证成的定义中运用了融贯的概念，而这又是他对知识复杂定义的主要组成部分。根据 Lehrer 的观点，一个人在接受一个命题时，只有当该命题与其认知系统的相关部分融贯一致时，才能被证成。这是之前提到的融贯的关系概念。在 Lehrer（1990）中，相关部分是个人的“接受系统”，包括主体接受这个和那个命题的命题。因此，“S 接受 A”的命题最初会在 S 的接受系统中，但 A 本身不在其中。在后来的作品中，Lehrer 强调了与一个更复杂的认知实体的融贯的重要性，他称之为“评估系统”（例如，Lehrer 2000 和 2003）。
+
+Lehrer 对融贯的解释的起点是我们可以想象出各种批评者可能对一个人接受的内容提出的异议。这些异议可能直接与该人接受的内容不兼容，或者可能威胁到她在进行相关评估时的可靠性。例如，批评者可能对她声称自己看到一棵树提出质疑，称她只是在幻觉。这是第一种类型的异议的例子。第二种类型的例子是批评者回应说该人无法判断自己是否在幻觉中。当所有异议都得到解决时，融贯和（个人）证成就产生了。
+
+Lehrer的融贯概念似乎与传统的相互支持概念没有太多共同之处。如果认为这样的理论必须使用系统或整体融贯的概念，那么Lehrer的理论在传统意义上并不是一个融贯理论，因为在Lehrer的观点中，“融贯...不是系统的整体特征”（1997年，31页），也不依赖于系统的整体特征（31页）。批评者可能会想知道，将对一个给定主张的反驳与评估系统的关系称为融贯关系的原因是什么。Lehrer的答案似乎是这是一种“与之相契合”的关系，而不是一种“可以推导出”的关系：“如果根据我的接受系统，我更有理由接受[几个]相互冲突的主张中的一个，那么那个主张更适合或更融贯于我的接受系统”（116页），因此“一个信念可能完全因为与其所属系统的某种关系而对一个人来说是合理的，它与系统的融贯方式一样，就像一个鼻子可能因为与脸的某种关系而美丽，它与脸相契合”（88页）。Olsson（1999年）通过指出，很难理解信念如何适应一个系统，除非前者通过增加后者的整体融贯性来实现。
+
+Paul Thagard 的理论明显受到了传统的融贯概念的影响，但是该理论的具体发展方式使其具有一种非传统的风格，特别是考虑到其对信念之间的解释关系的强调。像 Rescher 一样，Thagard 认为根本问题是在一组通常相互冲突的主张中，哪些元素具有原 facie 真理的地位，可以单独作为可接受的。然而，Rescher 提议将可接受的真理的选择基于可信度的考虑，而 Thagard 则建议使用解释融贯来达到这个目的。
+
+根据 Thagard 的观点，原 facie 真理可以融贯（相互适应）或“不融贯”（相互不适应）。第一种类型的关系包括解释和推理关系，而第二种类型包括各种类型的不兼容性，如逻辑矛盾。如果两个命题融贯，这会产生一个正向约束。如果它们不融贯，结果就是一个负向约束。两个命题之间的正向约束可以通过同时接受或同时拒绝两个命题来满足。相反，满足负向约束意味着接受一个命题而拒绝另一个命题。正如 Thagard 所看到的，“融贯问题”是将初始命题集划分为被接受和被拒绝的命题，以使大多数约束得到满足。Thagard 提出了几种解决融贯问题的计算模型，包括基于神经网络的模型。
+
+接受性如何依赖于融贯，更准确地说，被编码在 Thagard 的“解释融贯原则”中（Thagard，2000）：
+
+ 原则 E1（对称性）
+
+解释的融贯是一种对称关系。也就是说，两个命题 A 和 B 相互融贯程度相等。
+
+原则 E2（解释）
+
+1. 一个假设与其解释相融贯，可以是证据或另一个假设。
+2. 共同解释某个命题的假设彼此融贯。
+3. 解释某事物所需的假设越多，融贯程度越低。
+
+ 原则 E3 (类比)
+
+解释相似证据的类似假设相互融贯。
+
+原则 E4 (数据优先)
+
+描述观察结果的命题本身具有一定的可接受性。
+
+E5 原则（矛盾）
+
+矛盾的命题彼此不一致。
+
+原则 E6 (竞争)
+
+如果 A 和 B 都解释一个命题，并且 A 和 B 之间没有解释性联系，则 A 和 B 互相不一致（如果一个解释另一个，或者它们一起解释某事物，则 A 和 B 之间存在解释性联系）。
+
+原则 E7 (接受)
+
+在一套命题系统中，一个命题的可接受性取决于它与其他命题的融贯性。
+
+E4 原则（数据优先性）揭示了塔加德的理论并非纯粹的融贯论，因为它赋予了观察信念一定的认识优先性，使其更像是一种弱基础主义，即某些命题在融贯性之外还具有一定的初步认识支持。此外，塔加德的理论基于二元的融贯/不融贯关系，即两个命题之间的关系。他的基本理论无法处理涉及超过两个命题的不相容性，而这种不相容性可能会出现，例如“简比玛莎高”，“玛莎比卡伦高”和“卡伦比简高”这三个命题。然而，塔加德报告了将涉及超过两个元素的约束满足问题转化为仅涉及二元约束的计算方法的存在，得出结论认为他对融贯的描述“原则上足以处理具有非二元约束的更复杂的融贯问题”（塔加德，2000 年，19 页）。塔加德（2009 年）认为解释融贯与（近似）真实性之间存在联系，其中解释包括描述因果机制。其他一些作者也提倡强调解释关系重要性的融贯理论。例如，参见 Lycan（1988 年，2012 年）以及 Poston（2014 年）对解释融贯主义的书籍长度的辩护。与塔加德的工作相关的还有苏珊·哈克（Susan Haack）所谓的“foundherentist”理论，该理论借鉴了融贯证成（具有基础主义成分）与填字游戏解决之间的类比（Haack，2009 年）。
+
+## 5. 从头开始的融贯证成
+
+近年来，融贯论理论的最重要发展可能是将 C.I.刘易斯的工作以及他所启发的研究计划翻译成概率语言。所讨论的融贯类型应与概率函数在符合概率计算公理的意义上的一致性区分开来。我们在这里关注的融贯理论是将这种一致性概率函数应用于模拟融贯作为相互支持、一致等的理论。因此，“概率融贯”在标准贝叶斯理论中的意义与之不同。融贯理论的概率翻译使得能够以数学精确性定义概念并证明结果成为可能。它还导致了概念和结果在领域之间的更高可转移性，例如，在科学哲学中研究的融贯理论和证实理论之间的联系。因此，融贯研究已经发展成为一个与科学哲学、认知心理学、人工智能和法学哲学相关的跨学科研究计划。本文的其余部分将致力于这一主题的最新转变。
+
+为了介绍刘易斯关于融贯作用的观点，考虑他在 1946 年的著作中关于“相对不可靠的证人独立讲述同一故事”的著名段落。
+
+> 对于这些报告中的任何一个，单独看，它所证实的程度可能很小。而且，先验地，所报告的概率也可能很小。但是，报告的一致性通过熟悉的概率确定原则，建立了它们所一致的内容的高概率：在除了真实陈述的假设之外，这种一致性是非常不可能的；任何一个虚假证人可能提供的故事只是众多同等可能选择中的一个。（这就类似于从很多个大理石中连续抽取一个白色大理石的概率很小。）而与这种一致性相一致的假设本身也因此得到了相应的确立。（346）
+
+虽然刘易斯允许单独考虑时，个别报告的可信度不必很高，以使一致性产生积极影响，但他坚决认为它们的可信度不能为零。他在讨论记忆报告时写道：“如果……对于记忆呈现的事物没有任何初始假设，那么与其他这类项目的一致性不会导致任何最终的可信度”（357）。换句话说，如果一组信念没有初始可信度，那么观察到该组的一致性也不会产生任何证明。因此，刘易斯主张的是弱基础主义而不是纯粹的一致性理论。
+
+在与刘易斯（Lewis）表面上达成一致的同时，劳伦斯·邦杰（Laurence BonJour）（1985 年，148 页）写道：“只要我们确信各个证人的陈述是真正独立的，它们之间足够高的一致性最终将决定真实陈述的假设成为唯一可用的解释。”然而，邦杰随后驳斥了刘易斯关于需要正面先验可信度的观点：“然而，刘易斯没有看到的是，他自己的[证人]例子相当令人信服地表明不需要先验的保证或可信度”（148 页）。邦杰在这里显然谴责刘易斯的观点，即只有在来源初步可信的情况下，一致性才能增强信心。邦杰提出，只要证人们独立地提供他们的陈述，一致性就可以发挥这个作用，即使没有先验的保证程度。
+
+有几位作者对邦杰的这一观点提出了异议，认为如果独立的陈述缺乏个体可信度，一致性对报告内容的概率没有任何影响。第一个提出这一观点的是迈克尔·休默（Michael Huemer）（1997 年）。在奥尔松（Olsson）（2002 年）的同一思路中，提出了更一般的证明。以下是对两个证词特殊情况的概要，基本上采用了休默（2011 年）的术语。在以下情况下，所有概率都被假定为严格介于 0 和 1 之间。
+
+让 E1 表示第一个证人报告 A 的命题，让 E2 表示第二个证人报告 A 的命题。考虑以下条件：
+
+** 条件独立性**
+P(E2∣E1,A)=P(E2∣A)
+P(E2∣E1,¬A)=P(E2∣¬A)
+
+** 非基础主义**
+P(A∣E1)=P(A)
+P(A∣E2)=P(A)
+
+** 融贯论理论**
+P(A∣E1,E2)>P(A)
+
+条件独立性旨在捕捉证词之间相互独立的概念，即证词之间没有直接影响。证词的概率仅受其所报告的事实影响，这意味着一旦给定了该事实，这个事实就会“屏蔽”证词之间的任何概率影响，使它们相互无关。非基础主义认为，任何一个证词本身都不能为 A 提供任何证明：仅仅假设一个单一的证人证明了 A 对 A 的概率没有影响。最后，融贯论理论认为，当证词结合在一起时，确实为 A 提供了证明。
+
+融贯论理论与 BonJour 之间的辩论可以重建为关于这三个条件的联合一致性的辩论。BonJour 声称这些条件是联合一致的，并且在非基础主义的背景下，融贯证成可以从条件独立性中得出，而 Lewis 则否认这些主张。Olsson（2002）证明了，如果争议以这些术语表述，那么 Lewis 是可以被证明是正确的。根据条件独立性和非基础主义，通过贝叶斯定理可得
+
+P(A∣E1,E2)=P(A)
+
+因此，即使是一致的但个别无用的证词的集体独立组合也无法产生任何有用的东西。（正如 Olsson 在 2005 年第 3.5 节中指出的，这个问题有些复杂，因为 Lewis 采用了一个比条件独立性更弱的独立概念。具有讽刺意味的是，Lewis 的较弱概念与非基础主义和融贯证成的组合是相容的。）
+
+非基础主义应与以下条件进行对比：
+
+** 弱基础主义**
+P(A∣E1)>P(A)
+P(A∣E2)>P(A)
+
+弱基础主义本身并不意味着融贯论证：在概率论中，众所周知，即使两个证据分别支持一个结论，如果它们被组合起来，这种支持可能会消失，甚至变成反证。然而，在条件独立的背景下，弱基础主义确实意味着融贯论证。事实上，在这种情况下，综合的证词将比单独的证词更多地支持结论。正如詹姆斯·范·克利夫（2011）所证实的那样，这些考虑所支持的结论是，融贯可以增强已经存在的证明或可信度，但不能从零开始创造这种证明或可信度。
+
+有多种方法可以使融贯论理论免受这种概率攻击。最激进的策略是将概率框架完全视为不适合融贯论。这种回应的独立原因可以在塔加德的工作中找到（例如，塔加德2000年和2005年）。一种较不激进的方法是在这种情况下不全盘否定概率论，而是拒绝问题证明的前提之一。这是胡默最近采取的策略，他现在认为他1997年对融贯论的概率反驳是错误的（胡默2011年，39页，脚注6）。虽然他认为融贯论证正确地捕捉到了融贯论的最低程度，但他对条件独立性和非基础主义（他称之为“强非基础主义”）都表示不满。胡默现在认为，直观上，独立性更好地由条件P(E2∣E1,A)>P(E2∣E1,¬A)来捕捉。此外，他认为条件P(A∣E1,¬E2)=P(A)，或者用他的术语来说是“弱非基础主义”，比条件P(A∣E1)=P(A)更适合解释非基础主义的直觉。他继续展示了这三个条件是共同一致的融贯论证：存在满足所有三个条件的概率分布。因此，尽管批评者可能指出这种辩护是薄弱的，因为尚未证明融贯证成可以从这两个新条件中推导出来，但融贯论所面临的直接威胁已经被消除了。
+
+无论 Huemer 的新条件有何优点，它们在文献中的地位与原始条件相比几乎无法相提并论。例如，条件独立性是一个非常强大且直观的概念，在哲学和计算机科学的许多领域都得到了有益的应用，其中最引人注目的例子是贝叶斯网络理论（Pearl，1985）。同样，非基础主义条件仍然是最广泛使用的，并且许多人会说是最自然的陈述方式，用概率论的语言来说，即证词未能支持所证明的内容。因此，似乎融贯论被拯救了，但代价是将其与概率论的标准应用方式断开。Roche（2010）从另一个角度批评了非基础主义。在他看来，对 BonJour 的仔细阅读揭示了后者只要求证人报告在个体可信度方面缺乏，即 P(A∣Ei)=0.5，而不是 P(A∣Ei)=P(A)这种我们称之为非基础主义的条件。由于前者并不蕴含后者，融贯论者只要遵循 BonJour 的观点，就不必担心条件独立性、非基础主义和融贯证成的联合不一致性。然而，如果将缺乏初始可信度的含义作为一般性的描述，这种对缺乏初始可信度的解释是非标准的，可能更有益于将 BonJour 解释为不赞同这种观点。关于这一点的详细阐述，请参阅 Olsson（2005 年，第 65 页），脚注 4。在后来的作品中，BonJour 逐渐撤回了他最初的融贯论立场（例如，BonJour 1989 年和 1999 年）。
+
+## 6. 融贯论的概率测度
+
+我们回顾一下，刘易斯定义了一致性或相容性，不是针对任意一组命题，而是针对一组被断言为事实的命题。捕捉这个想法的一种方式是利用 Olsson（2005）中引入的证言系统的概念。证言系统 S 是一个集合{⟨E1,A1⟩,…,⟨En,An⟩}，其中 Ei 是一个关于 Ai 为真的报告。我们将说 Ai 是报告 Ei 的内容。证言系统 S={⟨E1,A1⟩,…,⟨En,An⟩}的内容是有序的报告内容集合⟨A1,…,An⟩。对于这样一个证言系统的一致性程度 C(S)，我们将指的是其内容的一致性程度。Bovens 和 Hartmann（2003）提出了一个类似的表示被断言的假设事实的方法，即利用有序集合。
+
+为了说明这些概念，考虑一个所有证人都报告完全相同的情况，例如，约翰在犯罪现场。那将是一个（高度）一致的报告集的典型案例。现在将这种情况与只有一个证人报告的情况进行对比。直观上来说，这种情况不符合一致性的要求。实际上，将一致性的概念应用于只有一个报告的情况甚至似乎没有意义（除了一切都与自身一致的平凡意义上）。设 A 为命题“约翰在犯罪现场”，E1,…,En 为相应的报告，这种直观上的差异可以表示为两个证言系统之间的差异：S={⟨E1,A⟩,…,⟨En,A⟩}和 S′={⟨E1,A⟩}。相比之下，如果应用一致性的实体被表示为简单的非结构化集合，那么所讨论的证言集合将以集合中只有 A 一个成员的形式给出相同的形式表示。
+
+通过一个（概率性的）融贯度量，对于命题的有序集合，我们将指的是任何仅仅基于命题 A1，...，An（及其布尔组合）的概率和标准算术运算（Olsson，2002）定义的数值度量 C（A1，...，An）。这个定义使得证人报告集合的融贯程度成为报告内容（及其布尔组合）的概率的函数。Huemer（2011，45）将这个结果称为内容确定论。我们将在第 8 节中讨论这个论题的地位，与最近关于融贯的不可能性结果有关。对于任何融贯度量的一个合理约束是，有序集合的融贯程度应该与内容命题列举的特定方式无关。因此，当⟨B1，B2，...，Bn⟩是⟨A1，A2，...，An⟩的一个排列时，C（⟨A1，A2，...，An⟩）=C（⟨B1，B2，...，Bn⟩）。这是一个形式化陈述，即相关集合中的所有命题应被视为认识上的相等。下面将讨论的所有度量都满足这个条件。
+
+我们的起点将是试图将一个集合的融贯程度与其联合概率相对应：
+
+ C0（A，B）=P（A∧B）
+
+然而，很容易看出这不是一个可行的提议。考虑以下两种情况。情况 1：两名证人指认同一个人作为犯罪者，比如约翰。情况 2：一名证人说约翰或詹姆斯做了这件事，另一名证人说约翰或玛丽做了这件事。由于两种情况的联合概率相同，等于约翰做了这件事的概率，它们在 C0 的度量下具有相同的一致性程度。然而，从一个预系统的角度来看，第一种情况的报告更加一致，因为证人完全一致。
+
+处理这个例子的一种方法是将一致性定义为相对重叠，具体如下（Glass 2002，Olsson 2002）：
+
+C1(A,B)=P(A∧B)P(A∨B)
+
+融贯论理论(C1(A,B))也取值在 0 到 1 之间，衡量了分配给 A 或 B 的总概率质量有多少落入它们的交集中。当且仅当 P(A∧B)=0 时，即 A 和 B 完全不重叠时，一致度为 0；当且仅当 P(A∧B)=P(A∨B)时，即 A 和 B 完全重合时，一致度为 1。这个度量是直接可推广的：
+
+融贯论理论(C1(A1,…An))=P(A1∧…∧An)/P(A1∨…∨An)
+
+这个度量给所有完全一致的情况都分配了相同的一致度值，即 1，无论涉及到多少个证人。对此，可能会有异议，认为众多人的一致比少数人的一致更具一致性，这种直觉可以通过 Shogenji（1999）引入的以下替代度量来解释：
+
+C2(A,B)=P(A∣B)P(A)=P(A∧B)P(A)×P(B)
+
+或者，正如 Shogenji 提出的广义化，
+
+C2(A1,…,An)=P(A1∧…∧An)P(A1)×…×P(An)
+
+容易看出，按照我们的建议，这个度量是敏感的，对于完全一致的情况下的报告数量：n 个一致的报告对应于一个融贯值为 1/P(A)n−1，这意味着随着 n 趋近于无穷大，融贯程度也趋近于无穷大。与其他度量一样，只有当 A 和 B 不重叠时，C2(A,B)等于 0。Shupbach（2011）提出了 Shogenji 度量的另一种推广。然而，无论其哲学价值如何，Schupbach 的提议比 Shogenji 的原始建议要复杂得多。Akiba（2000）和 Moretti 和 Akiba（2007）对 Shogenji 度量和一般概率融贯度量提出了一些担忧，但它们似乎是基于这样一个假设：融贯的概念可以有趣地应用于无序命题集合，这是我们在上面找到理由质疑的假设。
+
+C1 和 C2 在涉及命题的特异性上也可以进行对比。考虑两种情况。第一种情况涉及两个证人都声称约翰犯了罪。第二种情况涉及两个证人都提出了较弱的析取性主张，即约翰、保罗或玛丽犯了罪。哪一对证人提供了更融贯的集合？一种推理方式如下。由于两种情况都涉及完全一致的证词，融贯程度应该是相同的。这也是我们应用 C1 得到的结果。但也可以主张，由于前两个证人在更具体的事情上达成了一致——特定个体的罪行，融贯程度应该更高。这是我们应用 C2 得到的结果。为了试图调和，Olsson（2002）提出 C1 和 C2 可能捕捉到融贯的两个不同概念。C1 衡量了一组的一致程度，而 C2 作为衡量一致程度的显著性的度量更合理。
+
+然而，最近Koscholke和Schippers（2015）注意到C1的一个反直觉特征：通过向集合中添加更多命题，无法增加集合的一致性程度。他们还展示了根据一种更复杂的相对重叠度量，可以避免这个问题，没有任何集合的一致性程度超过其最大一致子集的一致性程度。另一方面，他们还在与Stegman合作的后续文章中证明了另一种相对重叠度量，避免了这两个问题，因此在他们看来，重新确立了相对重叠作为一种合适的一致性形式化的候选（Koscholke，Schippers和Stegman，2019）。
+
+另一个被广泛讨论的措施是Fitelson（2003）提出的措施。它基于这样的直觉，即集合E的一致性程度应该是“E的（演绎）逻辑一致性的定量概率推广”（同上，194页）。Fitelson认为，如果E中的命题在逻辑上等价（且一致），则达到最大（恒定）一致性程度。这符合C1，但不符合C2，正如我们所见，C2对所涉及命题的特异性（先验概率）敏感。Fitelson从证实理论的角度接近这个问题，提出了一个基于Kemeny和Oppenheim（1952）的实际支持度量的复杂一致性度量。另一个创新的想法是，Fitelson将这个度量扩展到考虑集合E中所有子集之间的支持关系，而Lewis只考虑了一个元素与其他元素之间的支持关系。最后，集合的一致性程度被定义为E的子集之间的平均支持度。Siebel（2004）中可以找到对这个度量的所谓反例，而Meijs（2006）中提出了批评和修正意见。读者可以参考Bovens和Hartmann（2003）、Douven和Meijs（2007）、Roche（2013a）和Shippers（2014a）了解更多关于文献中的一致性度量以及它们在测试案例中的表现情况，以及Koscholke和Jekel（2017）关于基于类似例子的一致性评估的实证研究。后一项研究表明，Douven和Meijs以及Roche的度量与直觉判断更为一致。一些最近的研究集中于将一致性度量应用于不一致的集合，例如Schippers（2014b）和Schippers和Siebel（2015）。
+
+可以说，融贯论者尚未就如何以概率术语最佳定义融贯达成共识。然而，迄今为止的辩论使我们对选择的可能性以及其所带来的后果有了更加细致入微的理解。更重要的是，即使这个问题在很大程度上尚未解决，仍然可以得出一些令人惊讶的结论：为了证明没有任何融贯度量可以在某种意义上有助于真实性，我们只需要假设这些度量尊重内容确定论。
+
+## 7. 真实性有助性：分析辩论
+
+彼得·克莱因（Peter Klein）和特德·沃菲尔德（Ted Warfield）在 1994 年的《分析》杂志上发表的论文引发了一场有趣而富有教益的关于融贯与概率关系的辩论（例如，克莱因和沃菲尔德 1994 年和 1996 年，梅里克斯 1995 年，庄司 1999 年，克罗斯 1999 年，秋叶 2000 年，奥尔松 2001 年，菲特尔森 2003 年和西贝尔 2004 年）。根据克莱因和沃菲尔德的观点，仅仅因为一组信念比另一组信念更加融贯，并不意味着第一组信念更有可能是真实的。相反，更高程度的融贯可以与整个集合的概率较低相关联。他们的推理背后的思想很简单：我们经常可以通过添加解释已有信息的更多信息来提高信息集的融贯度。但是随着添加了更多真正新的信息，集合中所有元素都是真实的概率相应地降低。克莱因和沃菲尔德写道，这是由概率和信息内容之间众所周知的反向关系所导致的。他们得出结论，融贯不具有真实性有助性。
+
+在 C. I. Lewis 的精神下，Klein 和 Warfield 通过引用侦探故事（所谓的“Dunnit 例子”）来阐述他们的论点。事实证明，这个例子是不必要复杂的，主要观点可以通过引用一个更简单的案例来说明（借用了计算机科学中用来说明非单调推理概念的案例）。假设你被一个叫 Jane 的消息来源告知 Tweety 是一只鸟，另一个叫 Carl 的消息来源告知 Tweety 不能飞。由此得到的信息集合 S=⟨“Tweety 是一只鸟”，“Tweety 不能飞”⟩从直觉上来看并不特别连贯。从 Lewis 的定义来看，它也不连贯：假设其中一个项为真会降低另一个项的概率。此时，合理的推测是 Jane 或 Carl 中有一个在撒谎。然而，在咨询另一个消息来源 Rick 之后，我们得到的信息是 Tweety 是一只企鹅。新的集合 S′=⟨“Tweety 是一只鸟”，“Tweety 不能飞”，“Tweety 是一只企鹅”⟩肯定比 S 更连贯。在解释先前的异常时，Rick 提供的信息有助于集合的解释连贯性。
+
+新的扩大的集合 S′比原来较小的集合 S 更连贯。然而，S 作为信息较少的集合，比 S′更有可能发生：S 中所有命题的合取比 S′中所有命题的合取更有可能发生。因此，更连贯并不一定意味着更高的真实性可能性，即更高的联合概率。Klein 和 Warfield 似乎是正确的：连贯性并不促进真实性。
+
+但是，很快就会清楚，这个结论是过早的。作为一个初步的步骤，让我们更正式地陈述 Klein 和 Warfield 的论证，使用以下缩写：
+
+| A1= | Tweety 是一只鸟。   |
+| ----- | --------------------- |
+| A2= | Tweety 不能飞。     |
+| A3= | Tweety 是一只企鹅。 |
+
+第一个信息集 S 由 A1 和 A2 组成。第二个更连贯的集合 S'还包含 A3。我们用 C 表示连贯度，直观理解。那么我们有：
+
+ C(A1,A2)<C(A1,A2,A3)。
+
+正如我们所见，由于较大集合的信息量更大，其概率低于较小集合的概率：
+
+P(A1,A2,A3)<P(A1,A2).
+
+然而，在这个看似无懈可击的推理背后隐藏着一个严重的困难。正如我们所见，根据这个例子，我们还应该知道简报告说 Tweety 是一只鸟，卡尔报告说 Tweety 不能飞，瑞克报告说 Tweety 是一只企鹅。让我们来看一下：
+
+| E1= | “简报告说 Tweety 是一只鸟”  |
+| ----- | ------------------------------- |
+| E2= | Carl 报告说 Tweety 不能飞     |
+| E3= | Rick 报告说 Tweety 是一只企鹅 |
+
+融贯论理论现在规定，计算概率时应考虑所有相关证据。由于无法从一开始排除 E1-E3 所代表的证据可能与信息集 S 和 S'的概率相关，较小集合的概率不是 P(A1,A2)，而是 P(A1,A2∣E1,E2)。同样，较大集合的概率不是 P(A1,A2,A3)，而是 P(A1,A2,A3∣E1,E2,E3)。
+
+Bovens 和 Olsson（2002）提出了一个问题，即在对一组报告命题的概率进行修订的理解下，扩展集是否仍然比它们扩展的集合更有可能性。以我们的 Tweety 示例为例，是否仍然成立
+
+P（A1，A2，A3∣E1，E2，E3）<P（A1，A2∣E1，E2）？
+
+Bovens 和 Olsson 通过给出一个更一致且更有可能性的扩展集的例子，证明了对于一般问题的答案是否定的，根据修订后的理解，这个扩展集比原始较小的集合更有可能性。Klein 和 Warfield 的推理基于对一组报告命题的联合概率的问题理解。最后，他们没有证明一致性不具有真实性的促进作用。
+
+假设一种融贯度量 C 在命题上是真实有益的，当且仅当以下条件成立：
+
+如果 C(A1,…,An)>C(B1,…,Bm)，那么
+ P(A1∧…∧An)>P(B1∧…∧Bm)。
+
+从分析辩论中得出的一个教训是，应该用一个将相关概率考虑到所有相关证据中的真实性有益性概念来取代这种构建真实性有益性的方式，无论那些证据是什么（信念、证词等）。例如，一个一致性度量 C 对于主体 S 来说是认知上真实有益的，当且仅当：
+
+如果 C(A1,…,An)>C(B1,…,Bm)，那么
+P(A1∧…∧An∣BelSA1,…,BelSAn)> P(B1∧…∧Bm∣BelSB1,…,BelSBm)，
+
+其中 BelSA 缩写为“S 相信 A”。换句话说，一种协调性的度量只有在一组更协调的被相信命题的概率比一组较不协调的被相信命题的概率更高时，才能促进认知真理。这就是我们将在下文中理解一组的概率（真实可能性）的方式。
+
+## 8. 不可能性结果
+
+对于协调性的不可能性结果涉及到上述三个总结的辩论：Lewis-BonJour 争议，关于协调性的概率测量的辩论，以及关于真理促进性的分析争议。在我们讨论结果之前，我们需要再做一个观察。鉴于 Lewis-BonJour 争议的结论，合理的期望是，除非所讨论的报告（信念，记忆等）在个体上可信且在集体上独立，否则没有任何一种协调性度量在相关的条件意义上是真理促进的。但是，假设这并不足以使协调性有合理的机会成为真理促进的。我们还必须要求在比较两组不同的报告时，保持个体可信度的程度不变。否则，我们可能会出现这样一种情况：一个报告内容的集合比另一个集合更协调，但由于在较不协调的集合中提供命题的报告者个体更可靠，所以仍然无法产生更高的真实可能性。因此，真理促进性必须以 ceteris paribus 的意义来理解。感兴趣的问题是，更多的协调性是否意味着更高的概率（在独立性和个体可信度的条件下，其他一切都相等）。我们现在终于有条件来陈述不可能性定理。它们所表明的是，在（条件）独立性和个体可信度的有利条件下，没有任何一种协调性度量在一个弱的 ceteris paribus 意义上是真理促进的。
+
+这类性质的第一个结果是由Bovens和Hartmann（2003）提出的。他们对真实性有益性的定义与上述标准定义略有不同。按照他们的定义，如果对于所有的集合S和S'，根据C的判断，S至少与S'一样融贯，那么在其他条件相同、独立性和个体可信度给定的情况下，S至少与S'一样可能是真的。大致上，他们的证明具有以下结构：他们展示了存在两个包含三个命题的集合S和S'，哪个集合更可能是真的将取决于个体可信度（可靠性）的固定水平。因此，在可靠性较低的程度下，一个集合S将比另一个集合S'更有可能；在可靠性较高的程度下，情况将反转。现在，通过策略性地选择个体可信度的固定水平，可以找到任何度量C对真实性有益性的反例。例如，假设根据C，集合S比集合S'更融贯。为了构造一个反例来反驳C的真实性有益性，我们将可信度设置为一个值，使得S'比S更有可能。另一方面，如果C使得S'比S更融贯，我们将可信度固定在一个水平，使得S成为更有可能的集合。详细内容请参见Bovens和Hartmann（2003年，第1.4节）。
+
+Olsson以标准方式定义了真实性的有益性。他的不可能定理基于以下备选证明策略（Olsson 2005，附录B）：考虑两个证人都报告A的情况，表示为S=⟨A,A⟩。选择一个关于S具有信息性的一致性度量C，即无论使用哪种概率分配，它都不会给予S相同程度的一致性。这意味着该度量在所讨论的情况下是非平凡的。选择两个概率分配P和P'，分别给出不同的一致性值。Olsson证明了通过对可靠性概率的策略性选择可以构造出对C的真实性有益性的反例。如果P使S相对于C更一致，我们以一种使得P'上的S比P上更可能的方式固定可靠性概率。另一方面，如果P'使S更一致，我们选择一个可靠性概率值，使得P使S更可能。由此可见，没有一致性度量既具有真实性有益性又具有信息性。
+
+两个结果之间还存在一些微妙的差异。首先，奥尔松的定理是针对一个动态（或者用 Bovens 和 Hartmann 的语言来说，是内生的）可靠性模型进行证明的：在这个模型中，对证人可靠性的评估被表示为可靠性的概率，随着我们获得更多的报告，这个评估可能会发生变化。Bovens 和 Hartmann 的详细证明假设了一个非动态（外生的）可靠性模型，尽管他们指出这个结果也适用于动态（内生的）情况。其次，对于 ceteris paribus 条件的理解也存在差异。奥尔松固定了可靠性的初始概率，但允许报告内容的先验概率变化。Bovens 和 Hartmann 不仅固定了可靠性，还固定了报告内容的先验概率。
+
+这些不可能性结果引发了一个发人深省的悖论。毫无疑问，在日常生活和科学中，我们在判断信息的可信度时，依赖和信任融贯论推理（见 Harris 和 Hahn，2009 年，在贝叶斯设置下的实验研究）。但是，当事实上融贯论并不具有真实性时，这是如何可能的呢？自从不可能性结果发表以来，已经有许多研究致力于解决这个悖论（见 Meijs 和 Douven，2007 年，对一些可能的解决方法进行了概述）。这些研究可以分为两派。第一派的研究人员接受了不可能性结果表明融贯论并不具有真实性的结论。然而，他们补充说，这并不妨碍融贯论在其他方面具有价值和重要性。另一派的研究人员不接受不可能性结果表明融贯论并不具有真实性的结论，因为他们认为证明结果中至少有一个前提是值得怀疑的。
+
+让我们从第一派的回应开始。Dietrich和Moretti（2005）表明，从Olsson的角度来看，一致性与科学假设的间接确认实践有关。正如Moretti（2007）所说，这种度量结果是“证实有利的”。Glass（2007）同样认为，一致性可以为最佳解释推理提供关键，主要思想是使用一致性度量来对竞争假设进行排序，以确定它们与给定证据的一致性。此外，Olsson和Schubert（2007）观察到，虽然一致性并不足以促进真理，但它仍然可以促进“可靠性”，即根据某些度量，更高的一致性意味着源的可靠性更高，至少在典型情况下（参见Schubert 2012a，2011）。然而，Schubert证明了一个不可能定理，即没有一种一致性度量在一般情况下都能促进可靠性（Schubert 2012b）。再举一个例子，Angere（2007, 2008）基于计算机模拟论证，一致性在上述意义上不足以促进真理，并不妨碍它在更弱的、可推翻的意义上与真理有关。事实上，几乎所有在文献中独立存在的一致性度量都满足这样的条件，即更高的一致性大多数情况下也意味着更高的概率，尽管程度不同。此外，Roche（2013b）证明了假设一个集合是一致的会增加其任何元素真实性的概率。这是一种较弱的真理促进性，Roche正确指出这不应该给予融贯论者太多的安慰。还有人指出，一致性在我们的思维中起着重要的负面作用。如果我们的信念显示出不一致的迹象，这通常是考虑修正的一个很好的理由。 详细阐述这一观点，请参阅 Olsson（2005）的第 10 章。
+
+至于对于不可能性结果的另一种方法（质疑其推导中使用的前提），我们已经看到，胡默（2007 年，2011 年）在与刘易斯-邦乔尔争论中，对于以条件概率形式化独立性的标准方式表示表示怀疑。他对于不可能性结果（同上）出于同样的理由提出了异议。在他 2011 年的文章中，胡默甚至质疑了内容确定论，这在结果的推导中起着关键作用，出于我们在此不得不搁置的原因。
+
+所有这些事情都可以一贯地质疑。但问题是：以什么代价？我们已经看到，有强有力的系统性理由以标准方式将独立性解释为条件独立性。此外，内容确定论在几乎所有关于一致性的工作中都根深蒂固，将同意的证人视为典型案例。放弃内容确定论意味着剥夺了一致性理论中一个最清晰和最独特的前系统直觉：一致性是报告内容层面的属性。担心的是，融贯论理论在保全自身的同时，几乎丧失了所有的意义，正如尤因在近一个世纪前对类似担忧的回应中所说（尤因 1934 年，246 页）。
+
+这些关注显然不适用于另一种辩证法的转变：质疑在不可能性结果中使用的其他条件，即决定在变化的一致性程度下保持固定的条件。这种批评观点已经被几位作者采纳，包括Douven和Meijs（2007），Schupbach（2008）和Huemer（2011），对于那些倾向于挑战不可能性结果基础的前提条件的人来说，这可能是内部最少问题的策略。然而，需要记住的是，提供越来越强的其他条件可能最终是自我毁灭的。随着更多事物被固定，一致性度量变得更容易促进真理。因此，追求这种防御线的研究人员最终面临着通过定义使一致性促进真理的辩论变得琐碎的风险（参见Schubert 2012b）。
+
+有一些试图解释或理解那些不容易归入上述两个阵营或代表两者思想结合的不可能性结果的尝试。作为后者的一个例子，Wheeler（2012 年；另见 Wheeler 和 Scheines，2013 年）建议将注意力集中在可靠性有益性而非真实性有益性（阵营 1）上，并质疑在不可能性结果的推导中使用的假设，主要是独立性，但也包括内容确定论（阵营 2）。Shogenji（2007 年，2013 年）和 McGraw（2016 年）是其他复杂而富有洞察力的试图深化贝叶斯分析和诊断这些结果的尝试。具体而言，Lydia McGrew 认为应将注意力从报告内容的一致性转移到证据与假设 H 的一致性上（这不一定与报告内容的连接相符）。如果一组证据的成员的连接支持某个假设 H，并且该组证据的所有成员在该认识效果中起到作用，那么该组证据确实证实了 H，并且在某种意义上对 H 有益（McGrew，2016 年）。McGrew 提出了几个关于如何解释“与 H 的一致性”的建议。
+
+## 9. 结论
+
+融贯论理论代表了对认识论中一些根深蒂固问题的初步解决方案。最重要的是，它提出了一种将知识证成看作是“信念网络”的思考方式。因此，它与历史上占主导地位但日益不受尊重的基础主义知识观相竞争，并有可能取而代之。融贯论也可能比依赖非信念支持的其他基础主义观点更有前景。不幸的是，融贯论者通常难以提供必要的细节，使他们的理论超越比喻阶段，这一点并未逃脱批评者的注意。在C.I.刘易斯的开创性工作之后，当代学者在清晰度和建立的结果方面取得了相当大的成功，尽管其中相当多的结果对融贯论者不利。一些结果支持一种弱基础主义理论，即融贯性可以增强已经存在的可信度，而无需从头开始创建。然而，从表面上看，不可能性结果也对这种较不激进的融贯论形式产生了负面影响。人们经常观察到，虽然提出一个令人信服的理论概要相对容易，但任何哲学努力的最终考验在于产品是否能经受详细规范的检验（魔鬼在细节中等等）。无论如何，这个领域最近的发展所展示的是，对于认识论中的融贯论理论来说，这一点非常真实。
+
+## Bibliography
+
+* Akiba, K., 2000, “Shogenji’s Probabilistic Measure of Coherence is Incoherent,” *Analysis*, 60: 356–359.
+* Angere, S., 2007, “The Defeasible Nature of Coherentist Justification,” *Synthese*, 157 (3): 321–335.
+* –––, 2008, “Coherence as a Heuristic,” *Mind*, 117 (465): 1–26.
+* Bender, J. W., 1989, “Introduction,” in *The Current State of the Coherence Theory: Critical Essays on the Epistemic Theories of Keith Lehrer and Laurence BonJour, with Replies*, J. W. Bender (ed.), Dordrecht: Springer.
+* Blanshard, B., 1939, *The Nature of Thought*, London: Allen & Unwin.
+* BonJour, L., 1985, *The Structure of Empirical Knowledge*. Cambridge, Mass.: Harvard University Press.
+* –––, 1989, “Replies and Clarifications,” in *The Current State of the Coherence Theory*: *Critical Essays on the Epistemic Theories of Keith Lehrer and Laurence BonJour, with Replies*, J. W. Bender (ed.), Dordrecht: Kluwer.
+* –––, 1999, “The Dialectic of Foundationalism and Coherentism,” in *The Blackwell Guide to Epistemology*, J. Greco and E. Sosa (eds.), Malden, MA: Blackwell.
+* Bovens, L, and Hartmann, S., 2003, *Bayesian Epistemology*, Oxford: Clarendon Press.
+* Bovens, L. and Olsson, E. J., 2000, “Coherentism, Reliability and Bayesian Networks,” *Mind*, 109: 685–719.
+* –––, 2002, “Believing More, Risking Less: On Coherence, Truth and Non-trivial Extensions,” *Erkenntnis*, 57: 137–150.
+* Cleve, J. V., 2011, Can Coherence Generate Warrant Ex Nihilo? Probability and the Logic of Concurring Witnesses, *Philosophy and Phenomenological Research*, 82 (2): 337–380.
+* Cross, C. B., 1999, “Coherence and Truth Conducive Justification,” *Analysis*, 59: 186–93.
+* Davidson, D., 1986, “A Coherence Theory of Knowledge and Truth,” in *Truth and Interpretation*, E. LePore (ed.), Oxford: Blackwell, pp. 307–319.
+* Dietrich, F., and Moretti, L., 2005, “On Coherent Sets and the Transmission of Confirmation,” *Philosophy of Science*, 72 (3): 403–424.
+* Douven, I., and Meijs, W., 2007, “Measuring Coherence”, *Synthese* 156 (3): 405–425.
+* Ewing, A. C., 1934, *Idealism: A Critical Survey*, London: Methuen.
+* Fitelson, B., 2003, “A Probabilistic Measure of Coherence,” *Analysis*, 63: 194–199.
+* Glass, D. H., 2002, “Coherence, Explanation and Bayesian Networks,” in *Artificial Intelligence and Cognitive Science*, M . O’Neill and R. F. E. Sutcliffe et al (eds.) (Lecture Notes in Artificial Intelligence, Volume 2464), Berlin: Springer-Verlag, pp. 177–182.
+* –––, 2007, “Coherence Measures and Inference to the Best Explanation,” *Synthese*, 157 (3): 257–296.
+* Haack, S., 2009, *Evidence and Inquiry: A Pragmatist Reconstruction of Epistemology*, Amherst, NY : Prometheus Books.
+* Harris, A. J. L. and Hahn, U., 2009, “Bayesian Rationality in Evaluating Multiple Testimonies: Incorporating the Role of Coherence,” *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 35: 1366–1372.
+* Huemer, M., 1997, “Probability and Coherence Justification,” *Southern Journal of Philosophy*, 35: 463–472.
+* –––, 2007, “Weak Bayesian Coherentism,” *Synthese*, 157 (3): 337–346.
+* Huemer, M., 2011, “Does Probability Theory Refute Coherentism?”, *Journal of Philosophy*, 108 (1): 35–54.
+* Kemeny, J. and Oppenheim, 1952, “Degrees of Factual Support,” *Philosophy of Science*, 19: 307–24.
+* Klein, P., and Warfield, T. A., 1994, “What Price Coherence?,” *Analysis*, 54: 129–132.
+* –––, 1996, “No Help for the Coherentist”, *Analysis*, 56: 118–121.
+* Koscholke, J. and Jekel, M., 2017, “Probabilistic Coherence Measures: A Psychological Study of Coherence Assessment,” *Synthese*, published online 11 January 2016, doi: 10.1007/s11229-015-0996-6
+* Koscholke, J. and Schippers, M., 2015, “Against Relative Overlap Measures of Coherence,” *Synthese*, first online 15 September 2015, doi:10.1007/s11229-015-0887-x
+* Koscholke, J., Schippers, M., and Stegman, 2019, “New Hope for Relative Overlap Measures of Coherence,” *Mind*, 128: 1261–1284.
+* Lehrer, K., 1990, *Theory of Knowledge*, first edition, Boulder: Westview Press.
+* –––, 1997, “Justification, Coherence and Knowledge,” *Erkenntnis*, 50: 243–257.
+* –––, 2000, *Theory of Knowledge*, second edition, Boulder: Westview Press.
+* –––, 2003, “Coherence, Circularity and Consistency: Lehrer Replies,” in *The Epistemology of Keith Lehrer*, E. J. Olsson (ed.), Dordrecht: Kluwer, pp. 309–356.
+* Lewis, C. I., 1946, *An Analysis of Knowledge and Valuation*, LaSalle: Open Court.
+* Lycan, W. G., 1988, *Judgment and Justification*, New York: Cambridge University Press.
+* –––, 2012, “Explanationist Rebuttals (Coherentism Defended Again),” *The Southern Journal of Philosophy*, 50 (1): 5–20.
+* McGrew, L., 2016, “Bayes Factors All the Way: Toward a New View of Coherence and Truth,” *Theoria*, 82: 329–350.
+* Meijs, W., 2006, “Coherence as Generalized Logical Equivalence,” *Erkenntnis*, 64: 231–252.
+* Meijs, W., and Douven, I., 2007, “On the alleged impossibility of coherence,” *Synthese*, 157: 347–360.
+* Merricks, T.,1995, “On Behalf of the Coherentist,” *Analysis*, 55: 306–309.
+* Moretti, L., 2007, “Ways in which Coherence is Confirmation Conducive,” *Synthese*, 157 (3): 309–319.
+* Moretti, L., and Akiba, K., 2007, “Probabilistic Measures of Coherence and the Problem of Belief Individuation,” *Synthese*, 154 (1): 73–95.
+* Neurath, O., 1983/1932, “Protocol Sentences,” in *Philosophical Papers 1913–1946*, R.S. Cohen and M. Neurath (eds.), Dordrecht: Reidel.
+* Olsson, E. J., 1999, “Cohering with,” *Erkenntnis*, 50: 273–291.
+* –––, 2001, “Why Coherence is not Truth-Conducive,” *Analysis*, 61: 236–241.
+* –––, 2002, “What is the Problem of Coherence and Truth?,” *The Journal of Philosophy*, 99: 246–272.
+* –––, 2005, *Against Coherence: Truth, Probability, and Justification*, Oxford: Clarendon Press.
+* Olsson, E. J., and Schubert, S., 2007, “Reliability Conducive Measures of Coherence,” *Synthese*, 157 (3): 297–308.
+* Poston, T., 2014, *Reason and Explanation: A Defense of Explanatory Coherentism*, New York: Palgrave Macmillan.
+* Quine, W. and Ullian, J., 1970, *The Web of Belief*, New York: Random House.
+* Rescher, N., 1973, *The Coherence Theory of Truth*, Oxford: Oxford University Press.
+* –––, 1979, *Cognitive Systematization*, Oxford: Blackwell.
+* Roche, W., 2010, “Coherentism, Truth, and Witness Agreement”, *Acta Analytica*, 25 (2): 243–257.
+* –––, 2013a, “A Probabilistic Account of Coherence,” in *Coherence: Insights from Philosophy, Jurisprudence and Artificial Intelligence*, M. Araszkiewicz and J. Savelka (eds.), Dordrecht: Springer, pp. 59–91.
+* –––, 2013b, “On the Truth-Conduciveness of Coherence,” *Erkenntnis*, 79 (S3): 1–19.
+* Schippers, M., 2014a, “Probabilistic Measures of Coherence: From Adequacy Constraints Towards Pluralism,” *Synthese*, 191: 3821–3845.
+* –––, 2014b, “Incoherence and Inconsistency,” *Review of Symbolic Logic*, 7 (3), 511–528.
+* Schippers, M., and Siebel, M., 2015, “Inconsistency as a Touchstone for Coherence Measures,” *Theoria: Revista de Teoria, Historia y Fundamentos de la Ciencia*, 30 (1): 11–41.
+* Schubert, S., 2012a, “Coherence Reasoning and Reliability: A Defense of the Shogenji Measure”, *Synthese*, 187(2): 305–319.
+* –––, 2012b, “Is Coherence Conducive to Reliability?”, *Synthese*, 187(2): 607–621.
+* –––, 2011, “Coherence and Reliability: The Case of Overlapping Testimonies,” *Erkenntnis*, 74, 263–275.
+* Schupbach, J. N., 2008, “On the Alleged Impossibility of Bayesian Coherentism”, *Philosophical Studies*, 141 (3): 323–331.
+* –––, 2011, “New Hope for Shogenji’s Coherence Measure”, *British Journal for the Philosophy of Science*, 62 (1): 125–142.
+* Shogenji, T., 1999, “Is Coherence Truth-conducive?,” *Analysis*, 59: 338–345.
+* –––, 2007, “Why does Coherence Appear Truth-Conducive,” *Synthese*, 157 (3): 361–372.
+* –––, 2013, “Coherence of the Contents and the Transmission of Probabilistic Support,” *Synthese*, 190: 2525–2545.
+* Siebel, M., 2004, “On Fitelson’s Measure of Coherence,” *Analysis*, 64: 189–190.
+* Sosa, E., 1980, “The Raft and the Pyramid: Coherence Versus Foundations in the Theory of Knowledge,” *Midwest Studies in Philosophy*, 5(1): 3–26.
+* Thagard, P., 2000, *Coherence in Thought and Action*, Cambridge, Mass.: The MIT Press.
+* –––, 2005, “Testimony, Credibility, and Explanatory Coherence,” *Erkenntnis*, 63 (3): 295–316.
+* –––, 2007, “Coherence, Truth, and the Development of Scientific Knowledge,” *Philosophy of Science*, 74: 28–47.
+* Wheeler, G., 2012, “Explaining the Limits of Olsson’s Impossibility Result,” *The Southern Journal of Philosophy*, 50: 136–50.
+* Wheeler, G., and Scheines, R., 2013, “Coherence and Confirmation through Causation,” *Mind*, 142: 135–170.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=justep-coherence). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/justep-coherence/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=justep-coherence&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/justep-coherence/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Coherentism – Bibliography – PhilPapers](http://philpapers.org/browse/coherentism), at PhilPapers.org, maintained by David Bourget and David Chalmers.
+* [Coherentism in Epistemology](http://www.iep.utm.edu/coherent/), by Peter Murphy, in the *Internet Encyclopedia of Philosophy*, James Fieser (ed.).
+
+## Related Entries
+
+[epistemology](https://plato.stanford.edu/entries/epistemology/) | [justification, epistemic: foundationalist theories of](https://plato.stanford.edu/entries/justep-foundational/) | [justification, epistemic: internalist vs. externalist conceptions of](https://plato.stanford.edu/entries/justep-intext/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/)
+
+### Acknowledgments
+
+Many people have commented on earlier versions of this article offering valuable suggestions and criticisms, and I thank them all. They are Staffan Angere, Luc Bovens, Igor Douven, Branden Fitelson, David Glass, Michael Hughes, Lydia McGraw, Luca Moretti, Stefan Schubert, Tomoji Shogenji, Mark Siebel, Wolfgang Spohn, Paul Thagard and Greg Wheeler. Finally, I am indebted to an anonymous referee for a number of stylistic and other improvements.
+
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
+Erik Olsson <[*Erik_J.Olsson@fil.lu.se*](mailto:Erik_J%2eOlsson%40fil%2elu%2ese)>

@@ -1,0 +1,357 @@
+# 莱布尼茨论因果关系 on causation (Marc Bobro)
+
+*首次发表于2005年2月15日；实质性修订于2021年9月8日。*
+
+根据戈特弗里德·威廉·莱布尼茨（1646-1716）的观点，物质总是在行动；此外，即使是有限的、被创造的物质也是天然不可毁灭的，因此是永生的，物质将永远继续行动。物质的行动归因于什么或者归因于谁？在莱布尼茨的时代，这个问题基本上成为了关于上帝因果作用的问题。上帝是自然界唯一真正的因果作用者吗？或者说，上帝的因果贡献，至少在自然的普通发展中，“仅仅”是创造和保持被创造物质的作用？我们将看到，莱布尼茨认为上帝和被创造物质都对物质状态的变化负有因果责任。对于 17 世纪的哲学家来说，还有一个特别突出的问题：实质活动中存在哪些类型的原因？在莱布尼茨去世仅 30 年后，大卫·休谟声称他自己对因果的定义意味着“所有原因都是同一种类型”，即效果（即生产性）原因。莱布尼茨的因果理论则将效果、目的和形式原因整合在一起，试图通过他臭名昭著的预设和谐来解释现象之间的真正因果关系。
+
+* [1. 因果论的竞争理论](https://plato.stanford.edu/entries/leibniz-causation/#CompTheoCaus)
+* [2. 为什么莱布尼茨拒绝物质流注？](https://plato.stanford.edu/entries/leibniz-causation/#WhyDoesLeibRejePhysInfl)
+* [3. 为什么莱布尼茨拒绝偶然论？](https://plato.stanford.edu/entries/leibniz-causation/#WhyDoesLeibRejeOcca)
+* [4. 实体间因果关系](https://plato.stanford.edu/entries/leibniz-causation/#InteCaus)
+* [5. 实体内因果关系](https://plato.stanford.edu/entries/leibniz-causation/#IntrCaus)
+* [ 6. 神圣因果](https://plato.stanford.edu/entries/leibniz-causation/#DiviCaus)
+* [7. 有效（生产）因果](https://plato.stanford.edu/entries/leibniz-causation/#EffiProdCaus)
+* [8. 最终和形式因果](https://plato.stanford.edu/entries/leibniz-causation/#FinaFormCaus)
+* [ 9. 因果模型](https://plato.stanford.edu/entries/leibniz-causation/#CausMode)
+* [10. 莱布尼茨式原因的概念“概要”](https://plato.stanford.edu/entries/leibniz-causation/#ConcOutlLeibCaus)
+* [ 参考文献](https://plato.stanford.edu/entries/leibniz-causation/#Bib)
+
+  * [ 莱布尼茨的作品](https://plato.stanford.edu/entries/leibniz-causation/#WorkLeib)
+  * [ 二手文献](https://plato.stanford.edu/entries/leibniz-causation/#SecoLite)
+* [ 学术工具](https://plato.stanford.edu/entries/leibniz-causation/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/leibniz-causation/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/leibniz-causation/#Rel)
+
+---
+
+## 1. 因果关系的竞争理论
+
+莱布尼茨假设所有事件都有原因-它们不仅仅是发生的，并且通常只考虑三种值得哲学考虑的因果理论：物质流入、偶然论和平行论。有趣的是，莱布尼茨在这个列表中排除了斯宾诺莎的因果理论。因为显然莱布尼茨认为，任何导致只存在一个真实实体的观点甚至无法提供一个适当的因果理论。让我们依次总结莱布尼茨认真对待的每个理论。
+
+根据物质流入理论，原因和结果之间存在一种流入；换句话说，有限（即非神圣的）实体之间存在着实体之间的因果关系。因此，例如，当吉米·亨德里克斯（Jimi Hendrix）似乎弹奏他的吉他时，他确实是弦的振动的原因。在这种情况下，运动是亨德里克斯身体的一种模式或状态，并且被传递或传达到他的吉他的身体。有趣的是，尽管术语“物质”存在，但物质流入理论并不仅限于有形的有限实体。因为物质流入有时被用来解释非物质有限实体（例如思想）和物质有限实体（例如身体）之间的因果交互作用。因此，更准确地说，“物质”一词应该理解为自然而不是物质。弗朗西斯科·苏亚雷斯（Francisco Suarez）、托马斯·霍布斯（Thomas Hobbes）、皮埃尔·加桑迪（Pierre Gassendi）和罗伯特·博伊尔（Robert Boyle）等人都订阅了某种形式的物质流入理论。
+
+偶然论不仅否认有限物质之间的因果关系，因此排除了因果关系之间的任何流动，而且也否认有限物质内部的因果关系。换句话说，就有限物质而言，既没有物质之间的因果关系，也没有物质内部的因果关系。无论是单独还是共同，有限物质都没有真正的因果效力。当亨德里克斯的吉他弦振动时，亨德里克斯并不是振动的真正原因。他的手指、手腕和手臂也不是真正的原因。对于偶然论者来说，振动是否无因果关系呢？不是的，因为有上帝存在。上帝被许多莱布尼茨的同时代人认为是唯一的无限物质，被认为是唯一的真正原因。上帝在亨德里克斯自愿弹奏吉他的时候，通过上帝引起的亨德里克斯的意愿，在亨德里克斯的吉他上引起弦的振动。阿尔·加扎利、尼古拉斯·马勒布朗什和路易斯·拉·福尔热等人都是偶然论者。
+
+像偶然论一样，平行论认为有限物质之间没有物质之间的因果关系。而且像偶然论一样，当亨德里克斯的吉他弦振动时，亨德里克斯并不是振动的真正原因。再次强调，他的手指、手腕或手臂也不是真正的原因。然而，造成这种振动的总真正原因并不是上帝。根据平行论，有限物质可以是真正的原因。相反，是弦自身引起了它们自己的振动。由于心灵和身体之间的特殊和谐，而不是任何直接的因果关系，当亨德里克斯处于愿意用手指弹奏吉他弦的状态时，弦处于一种会导致它们振动的物理状态。
+
+莱布尼茨是平行论的最著名的支持者。他的版本被称为“预设的和谐”，通常被解释为包括五个主要原则：
+
+1. 一个已创造物质的状态的变化不是由另一个已创造物质引起的（即不存在物质间的因果关系）；
+2. 一个已创造物质的所有（非初始的、自然的）状态的变化是由该物质自身引起的（至少部分如此）（即存在物质内部的因果关系）；
+3. 每个已创造物质都有一个“蓝图”（即一个完整的概念或系列的法则），该“蓝图”“列出”或包含了它的所有状态，
+4. 每个“蓝图”都符合所有其他创造物的蓝图（即，每个创造物的自然状态与每个其他创造物的所有自然状态相一致）；
+5. 这些物质状态之间的一致性是由普遍原因——即上帝——设立的。
+
+有关这四个原则的表达，请参见莱布尼茨写给阿尔诺的信件，日期为 1686 年 11 月 28 日/12 月 8 日和 1687 年 4 月 30 日，以及《单子论》第 81 节。还请考虑这个 1704 年对预设和谐的表述：
+
+> 这些灵魂中的每一个都以自己的方式表达了发生在自身外部的事物，并且它不能通过其他特定存在的任何影响来这样做（或者更好地说，它必须从自己本质的深处提取这种表达）；因此，每个灵魂必然必须从一个普遍的原因（cause universelle）那里接受这种本质——这种表达外在事物的内在源泉，而所有这些存在都依赖于它，并且使得它们每一个都与其他存在完全一致并相应。（新论文 A vi, 6, 440）
+
+正如预料的那样，对于这些原则的解释存在一些争议；例如，原则 2 有时也被扩展到包括非初始状态（参见 Whipple，206）。预设和谐还有另一个重要方面。莱布尼茨称物质“从自身本质的深处”产生的表达也被称为感知。感知是“涉及并代表多样性的过渡状态”（Monadology §14 GP vi, 608/AG 214）。预设和谐在感知和身体运动之间具有同构映射。每当一个物质有一个感知 x，就会有一个相应的身体状态 y 来表达那个感知 x。所以当我感知自己把一根木头放进火里时，“[我的]动物精神和[我的]血液在恰到好处的时刻，采取了与[我的]灵魂的激情和感知相对应的运动”（新系统 GP iv, 484/L 458）。
+
+然而，请注意，莱布尼茨的预设和谐的五个主要原则即使在有限物质的行动中也为上帝的超自然因果活动留下了空间。换句话说，至少在莱布尼茨手中，预设和谐是一种并存主义形式。关于神圣因果关系的部分将在后面进行更详细的讨论，但现在可以说，上帝在有限物质的行动中的因果作用至少是预先确立“原因”和“效果”之间的相应或结合，如果没有这一点，上帝产生普遍和最大和谐的目标（Monadology §§85ff）将会受到挫折。
+
+为什么莱布尼茨对听起来相当奇怪的预设和谐感兴趣？换句话说，为什么他拒绝更世俗的物质流入和更天上的偶然论？
+
+## 2. 莱布尼茨为什么拒绝物质流入？
+
+莱布尼茨希望排除任何一种物质传递给另一种物质的因果关系：“影响的方式属于普通哲学的方式。然而，由于不可能构想出物质粒子、物种或能够从这些物质之一传递到另一物质的非物质性质，这种观点必须被拒绝”（GP iv，498f）。莱布尼茨在他的职业生涯早期，将斯库拉学派的弗朗西斯科·苏亚雷斯的物质流入理论视为“野蛮的表达……比它所定义的更加隐喻和模糊”（尼佐利乌斯的一版序言 GP iv，150）。（苏亚雷斯是否真的持有莱布尼茨归因于他的观点是另一回事。）此外，预设的和谐可以在没有“财产传递”的形而上学包袱的情况下实现相同的效果：“因此，所有这些物质之间将产生完美的一致，这将产生与它们之间通过物种或质量的传递相互沟通时所注意到的相同效果，正如普通哲学家所想象的那样”（新系统 GP iv，484/L 457f）。
+
+在这里，很明显莱布尼茨认为“流入”指的是事故的转移 - 今天我们称之为修辞或属性实例 - 就像吉他手的手指给敲击的吉他弦提供了一个运动实例一样。莱布尼茨认为，无法理解一个有限物质如何能够对另一个有限物质产生作用。因为这种物质间的因果关系涉及事故从一种物质转移到另一种物质，其中一个修辞从一物体传递到另一个物体，然后实例化它。这种转移是无法解释的；一个事故的传递（即修辞的转移）从一个主体到另一个主体是不可能的（新论文 A vi，6，224）。莱布尼茨在《形而上学论文》中写道：
+
+> … 从外部自然地进入我们的思想中没有任何东西；而我们有一个坏习惯，认为我们的灵魂好像接收某些物种作为信使，好像它有门窗。我们的思想中有所有这些形式；我们甚至有来自所有时间的形式，因为思想总是表达它所有未来的思想，并且已经混乱地思考了它将来会清晰思考的一切。（《形而上学演讲》第 26 节 GP iv, 451/AG 58）
+
+他在将近三十年后写道：“单子没有窗户，任何东西都不能从中进入或离开。事故也不能脱离物质并在外面闲逛，就像斯科拉学派的可感知物种曾经那样；因此，物质和事故都不能从外部进入单子中”（《单子论》第 7 节 GP vi, 608/WF 268）。
+
+莱布尼茨还以这种方式进行论证：如果思想（一个有限的物质）通过对身体（另一个有限的物质）的作用而引起身体运动，在思想对身体的作用之后，世界的那个区域的运动将会增加，而在另一个区域的运动将不会减少，这明显违反了运动守恒定律。因此，不存在物质的流入。《单子论》中包括以下段落：
+
+> 笛卡尔认识到灵魂不能给身体施加力量，因为物质中总是存在相同数量的力量[即物质世界]。然而，他认为灵魂可以改变身体的方向[力量]。但那是因为当时还不知道自然法则，这个法则也肯定了物质中相同总方向的保持。如果他知道了这一点，他就会发现我的预设和谐系统。(单子论 §80 GP vi, 620f/AG 223)
+
+莱布尼茨对于物理流注学说的困扰之一是在行动中，原因会被耗尽。根据莱布尼茨的观点，真正的因果关系意味着原因在行使其因果力量后不会失去任何效力。莱布尼茨将我们的思想的产生描绘为涌现性因果关系：“很明显，创造的物质依赖于上帝，上帝保护它们，甚至通过一种涌现的方式不断地产生它们，就像我们产生我们的思想一样”(形而上学演讲 §14 GP iv, 439/AG 46)。其他评论家这样表达：“[物质]应被理解为享有一种合法的原始行动力量，通过这种力量，事故从物质内部涌现出来”(Cover & O’Leary-Hawthorne, 181)。
+
+很难说为什么莱布尼茨对任何涉及物质中潜在丧失因果效力的理论感到困扰。其中一部分可能与他的信仰有关，即即使是有限的、被创造的物质也是天然不可毁灭的（即不朽的）（《自然与恩典原理》§2 GP vi, 598/P 195）。因此，根据物理流入模型不断行动的被创造的有限物质可能最终失去其因果效力，无法再行动。对于莱布尼茨来说，“物质不能在其纯粹本质中被构想出来，没有活动；活动是物质的本质”（《新论》A vi, 6, 65）。因此，物理流入将意味着物质的自然死亡，这是莱布尼茨完全拒绝的观点。
+
+再考虑莱布尼茨反流入立场的另一种表达方式：
+
+> 没有被创造的物质对另一物质施加形而上学的行动或影响，因为更不用说任何东西如何能够从一物体传递到另一物体的物质中，已经显示出每个事物的所有未来都来自于其自身的概念。我们所谓的原因在形而上学上严格来说只是伴随的必要条件。（《原理真理》C 521/L 269/AG 33）
+
+现在，这里的观点是将原因视为伴随要求，并且上帝通过某种流出的方式“持续”地保护物质，这可能暗示了偶然论，但显然莱布尼茨在最初对偶然论表示一些同情后，最终拒绝了它。
+
+## 3. 莱布尼茨为什么拒绝偶然论？
+
+偶然论提出了这样一种观点，即上帝必须为任何没有自身行动能力的物质行动。但由于除了上帝之外，没有其他物质具有自身行动能力，甚至与其他有限物质一起行动，上帝必须不断地干预世界的进程。莱布尼茨认为这对于偶然论对因果关系的解释是一个严重的问题。
+
+由于偶然主义意味着上帝必须不断地干预自然的过程，莱布尼茨认为这意味着他必须进行持续的奇迹——这并不完全值得上帝的名字。他解释道：
+
+> 然而，让我们看看偶然原因的系统是否真的不涉及永恒的奇迹。[皮埃尔·贝尔]说它不涉及，因为该系统认为上帝只按照一般法则行动。我同意他的说法，但在我看来，这并不足以消除奇迹。即使上帝一直在产生奇迹，它们仍然是奇迹，如果理解这个词不是按照通俗的意义，而是哲学上的意义，即超越了被创造物的力量的东西。仅仅说上帝制定了一般法则是不够的，因为除了法令之外，还必须有一种自然的实施方式。也就是说，发生的事情必须能够用上帝赋予事物的本性来解释。（对贝尔的困难的解释 §7 GP iv, 520/WF 205）
+
+注意莱布尼茨将奇迹定义为仅仅是由上帝而非有限物质引起的事件。然而，莱布尼茨补充道，一个需要上帝不断进行奇迹的世界比一个“自然展开”而无需上帝直接干预的世界更不完美，因此更不值得称赞（《神正义论》第 16 节）。其观点是，偶然论的教义必须认为上帝最初没有创造得正确（即使偶然论者自己不愿意做出这样的断言），因此必须不断介入并修复事物以使它们按照上帝的意愿进行（当然，这并不意味着莱布尼茨认为没有任何奇迹。他确实谈到了“超越所有创造力”的事件（《神正义论》第 249 节 H 280），包括创造和化身）。有人称亨德里克斯的吉他演奏“奇迹般”，但这并不是因为他的演奏仅仅是由上帝引起的。亨德里克斯是一个真正的原因。
+
+对于莱布尼茨来说，一个真正活跃的物质世界比一个纯 passivity 或因果惰性的物质世界更完美，后者的活动不能正确归因于它们自身，而是归因于上帝。莱布尼茨认为，仅将这种活动归因于上帝必然导致斯宾诺莎主义，其中上帝是唯一真实的物质，其他任何事物只是上帝的一种模式，或者必须引入一个上帝之手，而对于莱布尼茨来说，这是一个临时解决方案（《初级真理》C 521/P 90；GP iv, 515/WF 221）。为了避免他认为是纯粹的斯宾诺莎主义，莱布尼茨强调我们必须能够区分上帝的行动和被创造物质的行动（莱布尼茨的这一努力的成功性是有争议的，如在关于神的因果性的部分中讨论）。
+
+有趣的是，莱布尼茨还提供了一种方法论上的理由，以拒绝任何不必要地援引奇迹来解释现象的观点：“在哲学中，我们必须试图通过根据我们所处理的主题的概念来解释它们，以显示事物是如何由神圣的智慧来实施的”（新系统§13 WF 150）。
+
+## 4. 随附性因果关系
+
+由于莱布尼茨似乎认为随附性因果关系需要物理流入，而物理流入是不可接受的，因此他得出合乎逻辑的结论，我们必须拒绝随附性因果关系。但尼古拉斯·乔利指出，莱布尼茨并不总是以这种方式进行论证。因为虽然一贯拒绝流入的存在，但莱布尼茨有时并不会同时完全拒绝随附性因果关系的存在。“莱布尼茨有时暗示我们关于因果互动的普通陈述可以被理解为它们是真实的”（乔利 1998 年，595 页）。然而，乔利继续说道：“当莱布尼茨仅仅否认创造性物质之间的因果互动的存在时，他倾向于接受流入分析；他不会寻找一个能够保留我们普通因果陈述真实性的更好分析”（乔利 1998 年，595 页）。因此，总体而言，莱布尼茨并不认真考虑其他替代的随附性因果关系解释。
+
+或许是因为他认为他已经拥有一个适合他的解释——预先设定的和谐——莱布尼茨不认为一个合理的因果理论需要是同质的。换句话说，莱布尼茨没有面临他许多同时代人面临的问题：他的形而上学——与他们自己的形而上学不同——包括维持一个适当且纯粹的内质因果理论所需的必要（和充分？）要素；莱布尼茨式的创造性物质是自给自足的（具有解释其所有属性实例的内在变化原则），永久具有因果效力（行动不会削弱其力量），并且配备了一个完整的概念，符合所有其他创造性物质的完整概念（感知或代表同一个宇宙）。因此，莱布尼茨不觉得有必要辩护同质因果关系是有道理的。就像对奇迹的引用一样，这将是一个不必要的举动，因此在方法上是无效的。
+
+这一点可以用另一种方式来表达。在解释内质因果关系的问题中，一个困难是解释系统之间的因果关系和系统内部的因果关系之间的差异。例如，一个手表的运作是否构成一个孤立的系统？即使是为深海潜水员设计的劳力士手表，在极端温度和深度下也会受到影响。因此，在解释劳力士手表内部的因果关系时存在问题。对于一个持有机械主义和唯物主义物质观的十七世纪哲学家来说，也会出现类似的问题。但是莱布尼茨对于解释在因果上孤立的系统和不能被绝对化的系统之间的差异没有问题；他的单子论本体论很容易处理因果上孤立的单元或统一体。因为他的物质是“无窗户”的，不受外部物质的因果影响。
+
+> 莱布尼茨认为，单子体内部不可能被其他创造物改变或改变。因为单子体内部没有任何可以重新排列的东西，也没有任何可以激发、指导、增加或减少的可想象的内部运动，就像在复合体中可以发生的那样，其中部分之间发生变化。单子体没有窗户，任何东西都无法进入或离开。事故也不能脱离物质并在外面闲逛，就像斯科拉学派的可感知物种曾经那样；因此，物质和事故都不能从外部进入单子体。（单子论第 7 节 GP vi, 608/WF 268）
+
+换句话说，莱布尼茨写道：“在这个宇宙中，物质永远不会阻止彼此尽可能地完成这些工作”（给阿尔诺尔的信，1687 年 4 月 30 日第 6 节 WF 125）。
+
+在接下来的内容中，我将重点关注莱布尼茨关于因果关系的积极观点。莱布尼茨形而上学中唯一真正的因果关系是每个有限物质内部的因果关系，以及上帝在心灵与身体之间（以及心灵与心灵、身体与身体之间）预先建立的和谐。因此，本文的其余部分将涉及内部物质和神圣因果关系。
+
+## 5. 内在实质因果关系
+
+无论是什么可以被归属于莱布尼茨式实质的东西，要么是属性（一种永久和共同的特征（GP ii, 227, 257ff）），有时被称为“性质”（GP ii, 258/L 533），要么是偶然性（一种短暂和个体的特征（GP ii, 458/L 605; GP iv, 363）），有时被称为“修饰”（G ii, 258/L 533; GP ii, 503f）。在当代术语中，我们会将属性称为“性质”，将偶然性称为“属性实例”或“特质”。行动是实质的属性，因为莱布尼茨将实质定义为“一种能够行动的存在”（GP vi, 598）。知觉是实质的偶然性，因为实质的行动正是它们始终在改变它们的知觉。现在，属性不能被视为实质，因为将行动与正在行动的事物等同起来，或将延展与正在延展的事物等同起来都是错误的（新论文 A vi, 6, 210f）。属性也不能被视为偶然性，因为“一个属性可以被归属于多个实质，无论是在同一时间还是在不同的时间，而一个偶然性永远不能存在于多于一个实质中，无论是在同一时间还是在不同的时间”（Clatterbaugh, 1978, 3）。
+
+因此，对于莱布尼茨来说，创造性物质的本质是活动，即不断处于感知变化过程中（《给德沃尔德的信》，1704 年 1 月 21 日，GP ii，263/L 534）。物质的事故（特征或属性实例）就是它的感知。创造性物质的变化必须是有原因的（初级真理 C 519/L 268），但不能有透过性（即物质间）的因果关系（《形而上学演讲》第 14 节，GP iv，439/L 312/WF 66f）。因为创造性物质（即单子）之间的因果互动在原则上是无法解释的（《新系统》，GP iv，483/L 457），正如前面所见。因此，创造性物质感知变化的原因要么在于一个非创造性物质，即上帝，要么在于物质本身。但正如我们已经看到的，莱布尼茨拒绝了上帝独自是推动物质变化的真正因果力量的观点；正如之前所示，他不是偶然论者（《对福歇尔的回应注释》，GP i，373f/L 155）。因此，暂时将上帝放在一边，感知变化是由物质本身引起的。但我们肯定想知道是物质的什么因素或内在因素推动了感知变化。
+
+到底是什么导致了物质感知的变化？莱布尼茨认为，物质的“原始主动力”以及其感知或感知状态在物质的变化中起着至关重要的因果作用（正如我们将看到的，上帝在这方面也不是一个无足轻重的角色）。莱布尼茨告诉我们，物质的原始主动力是“一种能够在其中有序地产生所有它将具有的外观或表达的本质或内在力量，而不需要任何创造性存在的帮助”（《新系统》，GP iv，486/AG 144）。此外，“每个物质的现状是其前一状态的自然结果[后果]”（关于贝尔先生的困难澄清，GP iv，521）。
+
+然而，根据莱布尼茨的观点，原始力量和感知并不扮演相同的因果角色。虽然一些评论家认为原始力量和物质是同一回事，但物质的原始力量是有效原因，后胡姆派可能会说是真正的原因，导致其感知状态的变化，而这些状态本身并不起到有效原因的作用。感知状态如何在因果上起作用是有争议的，我们将在后面讨论这个问题。无论莱布尼茨关于原始力量和感知的最终细节如何，有一点是清楚的：莱布尼茨的观点与大卫·休谟关于因果关系的观点严重相悖。休谟在 1748 年表示，他对因果关系的定义意味着“所有的原因都是同一种类”（《人类理解研究》，156 页），而莱布尼茨在他的因果论中包括了有效原因、最终原因和形式原因。然而，在讨论这些不同种类的原因之前，让我们考虑一下莱布尼茨关于神的因果论中一个特别棘手的问题：神的因果作用。
+
+## 6. 神的因果作用
+
+> 很难区分上帝的行动和众生的行动，因为有人认为上帝做了一切，而另一些人则认为他只是保持了他赋予众生的力量。（《形而上学演讲》，G iv, 432/AG 40）
+
+并非所有的预先设定的和谐系统都是相同的。莱布尼茨自己的版本代表了一种并行主义形式，因为他拒绝了认为创造性物质感知状态的变化仅仅是由于该创造性物质本身的观点。正如他所写的，“每一个物质都是其自身内在行动的真正原因，并且具有行动的能力……由神圣的随附性支持”（A vi, 4 Strickland 2006）。根据莱布尼茨的观点，上帝和创造性物质都对创造性物质状态的变化负有因果责任。但上帝在这个过程中并不是一个次要的参与者；上帝在宇宙的每一个方面都是直接和立即地因果存在，甚至在通常归因于创造性物质的效果中也是如此。考虑以下两个文本：
+
+> [上帝]立即作用于所有被创造的事物，不断地产生它们……（新论文 A vi, 6, 222）
+>
+> 上帝不断地产生所有在创造物中真实的东西。但我认为，在这样做的过程中，他也在不断地产生或保持我们内在的能量或活动，而根据我的观点，这构成了物质的本质和其变化的源泉。（新体系 GP iv 588f/Adams, 98）
+
+莱布尼茨在《神正义论》中为这个观点辩护：“上帝在保持中的行动应该与被保持的事物有所关联，根据它的本质和状态；因此，他的行动不能是普遍的或不确定的”（神正义论§27）。因此，尽管莱布尼茨拒绝了偶然论，但他确实同意偶然论者马勒布朗奇的观点，即上帝必须得到他应有的因果地位。这绝对不是一个简单的事后想法。事实上，两者都同意“保持是持续的创造”。再考虑莱布尼茨的另外两段话：
+
+> [T]事物的持续时间（瞬间状态的多样性）是无限的神圣闪烁的总和，其中每一个瞬间都是一切的创造或再现；严格来说，这不留下从一个状态到下一个状态的连续过渡。这提供了基督教神学家和哲学家那个著名真理的完美证明，即事物的保持是持续的创造；它以一种非常特殊的方式验证了每一个可变事物对不可变神性的依赖....（给苏菲·夏洛特的信 GP vii 564f）
+>
+> 当说到生物体在存在和行动方面依赖于上帝，甚至保持是持续的创造时，这是真实的，因为上帝总是给予生物体，并不断产生其中所有积极、善良和完美的事物，每一个完美的恩赐都来自光之父。（神正义论§31）
+
+因此，对于莱布尼茨的因果理论来说，持续创造的承诺是一个重要的限制。最终，莱布尼茨采用了一种同时发生论的形式，其中创造物质感知状态的自然变化是由创造物质和上帝的直接参与所致。换句话说，即使上帝的因果力在创造中无处不在，包括创造物质及其状态，创造物质仍然具有真正的因果能力。
+
+由于上帝的因果活动是对创造物质（包括我们自己）的补充，莱布尼茨并不将这种活动视为奇迹。奇迹是对自然事件的干预。因此，准确地说，这种活动并不是上帝的干预，而是神圣的合作或共同作用。莱布尼茨写道：“在与我们的行动相一致时，上帝通常只是遵循他所建立的法则，也就是说，他以一种使我们的存在持续并产生的方式，使思想以自发或自由的方式出现在我们个体物质所包含的概念的顺序中，这个概念中的思想可以从永恒中预见到”（《形而上学演讲》第 30 节 AG 63）。
+
+我们应该相信莱布尼茨的观点吗？一些评论家并不相信莱布尼茨一贯主张的随附性，因为如果持续创造的教义被认真对待（即上帝不断创造万物），那么除了偶然论之外，还能有什么自然的结果呢？大卫·斯科特这样表达：“毕竟，莱布尼茨的一个基本原则是，一个事物的‘完美程度’取决于它的行动程度。[《形而上学演讲》第15节]因此，如果一个事物的完美或行动是‘归因于上帝’（而不是自身），那么我们就有了一种事实上的偶然论，上帝做了所有的工作。问题在于，上帝的保持如何成为‘事物的自然持久性的支持’的概念有何意义？”（斯科特第4节）。斯科特继续声称，“上帝支持事物的自然持久性的观念在莱布尼茨的术语中是一个矛盾，只有在承认自然对上帝有更大的、类似偶然论的依赖时才能解决。”然而，问题在于，莱布尼茨确实拒绝了偶然论，并特别试图证明（根据斯科特的说法是不成功的）持续创造与被创造物质的真正因果活动是一致的。也许这在哲学上是无法逃避的不可行之处，但莱布尼茨的观点是：“[上帝的行动]不能是普遍的或不确定的。…上帝的保持在于对受造物依赖所要求的永久直接的影响”（《神正义论》第27节）。
+
+对于莱布尼茨来说，我们可能会说上帝确实在不断地对创造物体进行作用，但我们无法理解他是如何做到这一点的。考虑莱布尼茨在《新论》中的写道：“[A]ll monads were created by God and depend on him; yet we cannot understand in detail how this was done; and fundamentally the preservation of monads is nothing but a continual creation, as the Scholastics knew very well”（新论 A vi, 6, 443）。也许莱布尼茨只是采取了笛卡尔的立场——上帝是一种独特的原因，我们冒然认为我们可以从中学到任何有意义的东西。
+
+然而，与笛卡尔不同，莱布尼茨确实试图解释上帝如何对创造物体进行作用：“创造的物质依赖于上帝，他通过一种类似于我们产生思想的辐射方式不断保持它们甚至产生它们”（《形而上学演讲》第 14 节 GP iv 439/PM 26）。这表明莱布尼茨偏爱通过上帝的辐射活动来调和上帝的创造和与创造物体的活动。持续的创造应该从上帝的辐射活动来理解。辐射是上帝维持物质活动的方式。
+
+然而，莱布尼茨对辐射的诉求需要一些解释和辩护。例如，乔纳森·贝内特认为这个想法“令人惊讶”：
+
+> 当我们“产生思想”时，我们会在自己身上引起一些变化；也就是说，我们的思想“源自我们的实质”，只是因为实质拥有这些思想，就像脸庞有红晕，碗有形状等等。莱布尼茨的比较意味着上帝保持我们的存在是他使自己处于某种状态，这进而意味着我们不是独立的实体，而是上帝的状态或模式。莱布尼茨会反对这种观点，称之为“斯宾诺莎主义”。我不明白他为什么会提出一个如此明显暗示这一点的比较。（贝内特，245）
+
+人们对于贝内特是否完全理解了莱布尼茨的类比存在争议。莱布尼茨在实质性思想或感知与上帝的保持之间进行类比的目的是揭示出两个重要方面的产生：（1）上帝对我们的因果影响是持续的（就像实体总是感知一样）；（2）这种影响不会削弱上帝的因果力量（就像思考似乎不会削弱我们的思考能力一样）（默瑟，189）。
+
+由于物质比其心理状态更完美，当其感知或思考时，物质的能力绝不会减弱。物质中的主动原则向自身提供思想，这些思想是通过辐射产生的（Mercer，325，366f）。辐射的第三个方面同样重要：辐射者（上帝）和被辐射者（被创造的物质）在因果上并不减弱。我们可以归因于莱布尼茨以下观点：上帝在物质内部因果中的作用，除了奇迹般的干预之外，还是一种辐射性的作用（《形而上学演讲》第28节；《新论》A，6，210f）。辐射性的因果活动方式是一种在因果中包含了某种“卓越”或更高形式的原因，而不会失去在未来产生同类效果的能力。但是，经历这种干预或因果过程的物质并不需要失去其自然因果效力。因此，我认为贝内特误解了《形而上学演讲》第14节的主要含义；这个含义并不是我们是上帝的模式，而是我们的因果能力类似于上帝的。至少在因果上，我们是按照上帝的形象创造的。（辐射的这个特征也揭示了杰弗里·麦克唐纳的神圣持续创造的一个缺点。麦克唐纳指出，“我的冰箱可以被认为通过一次连续的行动来创造和保存特定的冰块，这个行动从将一盘水放入冰箱开始，到取出冰块结束”（麦克唐纳，2007，50）。这个类比很好地捕捉了持续创造的并存性，但它未能捕捉到这种创造的非熵性特性，因为冰箱显然不是100%高效的。）
+
+莱布尼茨的思维类比分析还存在另一个问题。Bennett似乎暗示着具有因果力的事物必然具有生产性的因果力。Bennett反问道：如果我们对上帝的思想就像我们对自己的思想一样，那么我们如何能够产生任何东西呢？但认为莱布尼茨会同意这样的推论是错误的。事实上，莱布尼茨可能不会同意，因为最终原因在他对被创造物质的因果力的解释中显然起着作用：“单子体中的感知是通过欲望的法则，或者通过善恶的最终原因的法则相互产生的，这些最终原因包括有序或无序的显著感知”（自然与恩典原理第3节 GP vi 598/AG 207）。这些似乎是莱布尼茨形而上学中的真正原因，赋予了被创造物质的潜力，并有助于“区分上帝的行动和众生的行动”（形而上学演讲第8节）；然而，与亚里士多德一样，最终原因并不是生产性的原因。这里还有一个普遍的道德教训。除非莱布尼茨另有说明，否则将因果力和活动等同于生产性或有效的因果关系是错误的。（毫不奇怪，这里还有进一步的复杂性。因为，正如我们将在下一节中看到的，至少有一位评论家认为莱布尼茨的一些最终原因实际上是有效的。）
+
+莱布尼茨希望通过将持续创造与有造物主的因果能力和活动相调和，以捍卫并存论，现在我们可以看到一个有希望的答案（至少作为理解莱布尼茨的一种方式）是将持续创造理解为一种发出。发出似乎与上帝的“持续创造”（即对所有事物的直接和直接的因果影响以及持续的产生）以及被创造物质的能力、活动和（相对）自主性相容。换句话说，持续创造不必被理解为一种偶然主义教义。但是，被创造物质究竟以何种意义上是真正的原因？是什么构成了创造物的因果能力、活动和（相对）自主性的基础？我们需要更好地了解莱布尼茨关于物质内部或内在因果性的解释。
+
+## 7. 高效（生产）因果关系
+
+为了更好地理解莱布尼茨关于物质内部因果性的理论（并且熟悉一些解释上的困难），让我们首先关注与高效因果关系有关的考虑因素。然后我们将讨论最终和形式因果关系。
+
+需要进行术语澄清的一点是，根据莱布尼茨的观点，“有效原因”和“产生”这两个术语是同义词：“必须承认，当说‘有效原因’是产生的东西，‘效果’是被产生的东西时，你只是在处理同义词”（新论文 A vi, 6, 228）。在其他地方，莱布尼茨将“有效原因”定义为“主动原因”（A vi, 2, 490；C 472）。
+
+现在，莱布尼茨一贯地提到物质的因果效力或生产力。请考虑以下文本：
+
+> …单个主体自然而无需奇迹地发生的变化必须源于真正的种类的限制和变化，也就是说，源于一种恒定和绝对的固有本质。（新论文 A vi, 6, 65 (1702)）
+>
+> 出现在严格意义上的物质中的任何事物都必须是在物质自发产生的情况下，以形成在其自身深处产生的行动的形式。 （新论文 A vi，6，210）
+>
+> …自由或智能的物质拥有更大更奇妙的东西，以某种方式模仿上帝。因为它们不受宇宙的任何特定从属法则的约束，而是以一种私人奇迹的方式，仅凭自己的力量行动…（“必然和偶然的真理” C 10/PM 100（1686））
+>
+> …为什么上帝不能从一开始就赋予物质一种能够以有序方式产生（produire）其中所有的外观或表达的本质或内在力量，而不需要任何被创造的存在的帮助？特别是因为物质的本质必然需要并且本质上涉及进展或变化，否则它将没有力量去行动。（新系统 GP iv，485（1695））
+
+无论被动物质是否真实存在，主动机构“对于被动物质所归因的任何活动负有责任”（Shapere，45）。莱布尼茨的原则（主要源自斯多葛主义）是：“任何根本解释性的东西必须是一个主动原则”（Shapere，45）。纯粹的被动物质除非受到作用，否则无法做任何事情。有时，莱布尼茨似乎认为只有真正的主动存在：“我们可以从形而上学的内在真理中证明，非主动的东西是不存在的，因为没有什么东西只是潜在地行动而没有任何初始行动”（“论哲学和神学中的真正方法”W 64（1686））。如果存在的所有事物都是物质，而物质的本质就是活动，那么被动的“物质”并不存在，因为它们是被动的，即不活动的（Shapere，46）。
+
+考虑这段文字，莱布尼茨不仅将因果效力或活动归于有限物质，还将因果效率或生产力归于有限物质：
+
+> 例如，贝尔声称，通过纯粹的哲学沉思，我们永远无法确信我们是我们意志的有效原因[la cause efficiente]。但这是我不同意他的一个观点：因为这个体系的建立无疑证明，在自然过程中，每个物质都是其所有行动的唯一原因，并且它不受来自其他物质的任何物理影响，除了上帝的惯常合作（《神学》第 300 节）。
+
+然而，尼古拉斯·乔利（Nicholas Jolley）等人坚持认为：“尽管莱布尼茨可能会说是物质产生了它们的状态，但这只是一种不严谨的说法”（Jolley 1998，605）。严格来说，根据乔利的观点，物质 A 引起感知状态 p2 是指存在某种感知状态 p1，p1 涉及 A 并且 p1 引起 p2（Jolley 1998，605）。但是，莱布尼茨是否确实认为感知或感知状态是有效原因呢？答案令人意外地不明确。一个问题是，莱布尼茨用来描述感知或感知状态之间关系的语言（几乎总是）并不明确地涉及因果关系（至少不是有效或生产性的）。莱布尼茨主要使用诸如“结果”、“连续”、“推论”、“结果”、“趋势”和“derivantur”等术语，当谈到从一个感知状态到另一个感知状态的过渡时，这些术语应该使我们对自动将具有因果效应的感知或感知状态归因于莱布尼茨的理论产生犹豫。请考虑以下代表性的文本样本：
+
+> …每个物质的当前状态都是自发发生的，只是其前一个状态的[一系列]结果。（关于给阿尔诺的一封信的备注，GP ii，47）
+>
+> 一切都是由于上帝在创造时赋予它的第一个状态的[结果]而在每个物质中发生的…（给阿尔诺的信，1687 年 4 月 30 日，GP ii，91）
+>
+> …我们所有未来的思想和感知只是我们之前的思想和感知的随附性结果（《形而上学演讲》第 14 节 GP iv, 440）
+>
+> …每个物质的现在状态是其之前状态的自然结果（《关于贝尔先生的困难澄清》 GP iv, 521）
+>
+> …每个现在的感知都会导致新的感知（《神正义论》第 403 节）
+>
+> … 随附性的后续[感知]是从前述的感知中派生出来的（致 Des Bosses 的信，GP ii，372（1709））
+
+这绝不是我们期望从莱布尼茨那里听到的关于有效或生产原因的语言。此外，当莱布尼茨声称感知或感知状态产生其他状态时，很难确定是否要严格对待这样的说法。考虑以下观点：
+
+> 实际上可以说，在思维中对目标的表征是在同一思维中对手段的表征的有效原因。（关于 Stahl 的笔记 1702，D ii，2，134）
+>
+> …狗的灵魂中对宇宙当前状态的表象将产生对同一宇宙下一个状态的表象，就像在物体中，前一个状态有效地产生了世界的后一个状态一样。在灵魂中，原因的表象是效果的表象的原因。（GP iv, 533/WF 78）
+
+劳伦斯·卡林（Laurence Carlin）认为这些段落意味着“手段的思考取决于对目标的感知，因为后者是前者的有效原因”（Carlin, 226）。现在，这些段落中并没有使用“感知”或“感知状态”这个术语，但与卡林的解释一致，莱布尼茨将感知定义为“单子对外部对象的内部状态的表象”（《自然与恩典原理》第 4 节）和“涉及和表象统一中的多样性的瞬时状态”（《单子论》第 14 节）。然而，卡林对这些段落的解释存在一个问题，即《神正义论》中的另一段可能表明这些段落不应被严格理解：
+
+> 当我们说一个智能物质被其对象的善移动时，我们并不断言这个对象必须是存在于物质之外的存在，对我们来说，它是可以想象的就足够了：因为它的表象在物质中起作用，或者更确切地说，物质通过这个表象对自身起作用，因为它被这个表象所安排和影响。（《神正义论》中关于国王的注释第 21 节；我强调）
+
+这段文字可以理解为，谈论物质的表象行动（作为有效原因）只是一种不严谨的说法；严格来说，是物质本身，或者更准确地说，是物质的力量，根据这种表象行动（可能作为最终原因）进行行动。关于这个问题，在最终因果关系部分会有更多讨论，但主要观点是，在文本上很难知道莱布尼茨是否认为感知或感知状态是有效原因。当然，到目前为止，所有引证的文本都可以支持这样一种观点，即对于莱布尼茨来说，感知或感知状态可以作为有效原因，因为诸如“结果”和“derivantur”等术语虽然不意味着有效因果关系，但仍然与之相容。
+
+然而，除了上述文本之外，将效率或生产力归因于莱布尼茨的形而上学中的感知存在一个哲学上的担忧。问题是，感知是否可以作为莱布尼茨的主动机构（因此是有效原因）发挥作用。在莱布尼茨的本体论中，能够主动的是真实的、持久的统一体和力量的中心，即物质。莱布尼茨写道，“一切行动都是个体物质”（“论自然本身”AG 160）。将感知和感知状态理解为因果有序，即它们之间存在有效因果关系而不仅仅是合法的、规则的或最终的因果关系，就是赞同一种事件导向的因果模型。但是，莱布尼茨不仅像他的中世纪前辈一样，也像他的许多同时代人一样，赞同一种完全不同的模型——其中真正的原因必须是物质或物质的力量。（在因果模型部分会有更多讨论。）因此，除非感知是真正的物质，因此不是事件，否则似乎可以得出结论：对于莱布尼茨来说，感知（和感知状态）在因果上是无效的。
+
+## 8. 最终和形式因果关系
+
+如果莱布尼茨认为感知不能作为有效或生产原因，那么为什么莱布尼茨会将后续感知称为早期感知的自然结果，如果不是因果关系的话？这似乎有两个很好的理由。首先，每个物质中都有一个目的或目标来引导感知的展开。物质（或原始力量）以有效的方式行动，以实现这个目标。这样的目标可以称为最终原因。其次，莱布尼茨希望以连续性法则为基础——即自然界中的所有变化都是连续的（即在自然界中没有间隙）。这指向物质中的形式因果关系。换句话说，在莱布尼茨的观点中，物质的感知代表最终和形式原因，理性地决定了该物质的未来状态。感知的对象作为最终原因，指定了为什么应该产生某些状态而不是其他状态。感知本身作为形式原因，指定了物质未来状态的内容。
+
+让我们首先考虑感知对象如何作为最终原因运作。莱布尼茨将感知状态描述为在单子中根据形而上学基本的因果关系顺序自发展开。但是，感知自动且不可约简地按因果顺序排列的事实只需意味着“先前”的感知包含了随后感知的原因。正如詹·科弗所说：“时间上的优先性取决于‘包含一个原因’的关系”（科弗，317页）。根据莱布尼茨的说法，“原因是一种已知真理，其与某些较不为人知的真理的联系使我们同意后者。但是，如果它不仅是我们判断的原因，而且也是真理本身的原因，使其作为先验原因而为人所知，那么它尤其被称为原因”（新论文A vi，6，475页）。正如前面提到的，莱布尼茨还将欲望描述为物质的“从一个感知到另一个感知的倾向”（GP vi，598/AG 207）。感知根据最终原因的来去显而易见，如《自然与恩典原理》第3节中的以下段落所示：“单子中的感知是由欲望的法则或由善恶的最终原因的法则产生的，这些原因包括有序或无序的显著感知”（GP vi，598/AG 207）。莱布尼茨在同一作品中写道：“未来可以从过去中读取；远处可以从近处中表达出来”（GP vi，605/AG 211）。这表明感知作为目的论的解释对象，这让人想起亚里士多德关于最终因果关系的论述，其中自然过程通过最终状态或目标来完成和调节，朝着这个目标趋近。
+
+值得注意的是，莱布尼茨并不将他关于最终因果的教义局限于理性主体的有意识活动，因为他认为一个心理状态可以作为最终原因而不需要我们意识到。在给苏菲·夏洛特的一封信中，莱布尼茨写道：“因此，即使在我们的本能或无意识的行动中，似乎只有身体起作用，但在灵魂中仍然存在着对善的渴望或对恶的厌恶，它指引着我们，尽管我们的思考无法在混乱中找到它”（GP III，347; WF 224f.）。莱布尼茨也不将最终因果局限于理性主体。（亚里士多德也是如此。）植物或动物的最终原因不是一个计划或意图，而是它所经历的一系列正常发展变化的最终结果。
+
+现在让我们解释感知中形式因果的存在。与莱布尼茨同时代的一些思想家，尤其是皮埃尔·贝尔，发现我们的感知之间明显缺乏连续性是一个深层次的问题。我们经常对感知的内容感到真正的惊讶，其中一些似乎与之前的感知完全脱节且截然不同。但是，根据连续性法则，莱布尼茨不能允许在单子体中出现与之前的感知完全不同的感知。为了解决这个问题，莱布尼茨提出了他的小感知或无意识感知理论，并表示个体物质行动中这种明显的连续性缺失是由于我们忽视了无意识感知的复杂多样性，这些感知在个体的本质中每时每刻都在流动。但是，仅仅依靠小感知的学说是不足以确保连续性的。相反，感知之间的理性关系才能保证感知内容的连续性。莱布尼茨谈到了每个物质感知中包含的“标记”，这些标记适用于该物质将来所有的感知（《形而上学演讲》第8节）。我认为这种感知之间的关系指向了感知作为形式原因；也就是说，一个物质的现在状态完全确定了其未来状态的内容。
+
+因此，总结一下，是什么导致了感知的变化？有三种原因：有效原因（符合心灵和主动力法则），最终原因（符合欲望法则和上帝追求普遍和最大和谐的目标），以及形式原因（符合连续性法则）。莱布尼茨对于物质内因果关系的解释因此涉及到有效、最终和形式原因之间的紧密联系。这并不令人惊讶，因为莱布尼茨告诉我们：“在事物领域中的原因对应于真理领域中的理由，这就是为什么原因本身——尤其是最终原因——经常被称为理由的原因”（《新论文》A vi, 6, 475）。
+
+这一切都不应该令人惊讶。休谟可能只认同一种原因——有效原因——但最终和形式因果关系并没有随着机械科学和哲学在 17 世纪的出现而消失。除了莱布尼茨之外，加森迪、博伊尔和牛顿都在他们的体系中容纳了最终或目的论的因果关系。斯宾诺莎实际上是 17 世纪唯一一个在他的哲学中真正没有给最终因果关系留下位置的知名哲学家，除了在人工制品有最终原因的意义上（例如，椅子有一个目的，木匠们创造它们的部分目的就是实现那个目的）。另一方面，斯宾诺莎可能确实在他的物质形而上学中认同了形式因果关系。
+
+## 9. 因果模型
+
+据指出：“也许当代因果关系概念与17世纪概念之间最大的区别之一是模型。继承休谟的思路，当代哲学家通常将因果关系看作事件之间的关系（例如，我按下开关导致灯亮起来），而17世纪的哲学家更多地将其看作物质、它们的品质和它们的‘力量’之间的关系（例如，我引起了我对正义的观念）”（弗兰克尔，57页）。
+
+然而，这种早期的因果模型至少具有当代模型所没有的一个优点。它具有明显的优势，可以避免任何问题性的因果解释回归。一旦一个因果事件序列被展示出来，我们总是可以问为什么发生了这个序列，而不是另一个序列。但是，根据事件/事件模型的因果解释，并不能排除对这个序列再次提出“为什么发生了这个事件序列？”的同样问题。另一方面，莱布尼茨认为力量或意愿并不是事件，而是机构或代理人的能力，它们不需要任何解释。解释的回归在物质上突然停止。在给德沃尔德的一封信中（1704年6月30日），他写道：“询问为什么简单物质中存在知觉和欲望，就像询问超世俗的事情一样，并要求上帝为什么愿意事物如我们所理解的那样”（GP ii，271/L 538）。此外，莱布尼茨的论文《反野蛮物理学》（约1713年）的核心观点似乎是，由于物质的行为实际上是自发的，除非我们假设某种力量或能力驱动实质性的行动，否则无法解释单子体中的变化。如果事实证明物质本身就是力量或能力，正如朱莉娅·乔拉蒂和约翰·惠普尔所主张的那样，这并不违反这种因果模型。无论如何，如果单子体中没有这种机构，就不会有足够确定整个事件序列的原因，因此也就无法对物质的全部行动（即知觉）提供充分的因果解释。此外，这样的画面似乎违反了莱布尼茨的充分理由原则。
+
+> 因此，不需要其他原因的充分理由必须在这一系列偶然事物之外，并且必须在其自身携带存在的理由的必然存在的物质中找到。否则，我们还没有一个足够的理由来结束这一系列。(自然与恩典原理 §8 GP vi, 604/AG 210)
+
+因此，我们应该理解莱布尼茨在给阿尔诺（1686 年 5 月）的一封信中的陈述：“在主题中总是有一些可以构思的东西，它提供了解释为什么这个谓词或这个事件属于它，或者为什么一个特定的事件发生而不是不发生”(GP ii, 45/PM 60)，不是指主题中包含的某个理想事件承担相关的解释角色，而是指主题的变化能力或原则。
+
+进一步支持莱布尼茨提出的物质-事故模型的因果论主张的是，无论莱布尼茨描述的是物质内部的因果关系，即使那些最好理解为隐喻的描绘，这些描绘本身也指向了一种非均质的随附性解释。也就是说，物质内部的因果关系不涉及相同种类的组成部分。无论他谈到本质的实现、主语的谓词、函数的值、欲望的感知、意志的思考、理性的目的、秩序规则的和谐，都清楚地表明莱布尼茨设想的“效果”与其“原因”在种类上是不同的。物质的本质本身不是一种实现；物质的功能本身不是函数的值（Cover & O’Leary-Hawthorne, 229）；物质的欲望本身不是感知；物质的意志本身不是思考，而是一种能力；支配物质的理性本身不是它所追求的目标；秩序规则本身不是物质之间的和谐一致的实例。
+
+总的来说，莱布尼茨似乎认为因果关系是异质的，其中原因与其效果在种类上是不同的。最终，莱布尼茨提出了一种关于物质内部因果关系的理论，它包括了有效因素、最终原因和形式原因，其中只有物质——或者更准确地说，它们的力量——可以成为有效原因，而感知既具有目的论功能，也具有形式功能。
+
+将物质作为典型的原因，可以帮助我们更好地理解莱布尼茨关于自由的兼容主义观点。除了神圣的活动外，所有真正的因果关系都发生在物质内部。物质是其未来状态的原因，并确定这些效果。然而，知道一个物质的未来状态是由其自身固有的力量从先前的状态中确定的，并不意味着它的所有状态对它来说都是绝对必要的。我必须写这篇关于莱布尼茨的文章——根据我的初始状态，我写它是确定的或决定的——并不意味着写这篇文章是我本质的一部分，是我自己的身份。莱布尼茨希望坚持认为我本可以采取其他行动。因此，我自由地写了它，尽管确定我这样做。
+
+## 10. 莱布尼茨因果关系的概念“概要”
+
+莱布尼茨的因果理论包含了各种各样的原因——有人会说是一系列令人困惑的原因。为了帮助消除这种困惑，可以提供莱布尼茨各种因果关系的概要。
+
+I. 真正的原因（只有实体才能是真正的原因；也就是说，它可以在自身或其他本体上引起变化（《新论》65 页）。）
+
+1. 本体间的（其中一个实体在短暂或超越自身的情况下运作。一个实体对另一个实体产生作用以引起变化；它会改变其他实体的状态。）
+2. 产生自然状态的（上帝的这些行为维持着单子体中的主动力（《单子论》47 页）。）1. 保守的效能（上帝为实体贡献存在或完美，类似于我们产生思想的方式（《形而上学演讲》14 页）。这是持续且不耗竭的。上帝的保守也是特殊的，而非一般的（《正义论》27 页）。）
+3. 莱布尼茨认为，神迹的产生是超越了所有创造物的力量。1. 创造性效能（上帝选择实现最完美的一组或完全的可共存物质。"上帝从无中创造物质"。）
+4. 非产生性（理性决定物质未来状态的因素。）a. 最终（上帝根据被创造物质的形式和最终原因以及最佳原则来产生的原因。）
+5. 内在物质性（物质自身引起变化；它影响自身状态的变化。"每个物质都是其自身内在行动的真正原因...由神圣的协助维持"。）
+6. 产生性的（产生一个状态是有效地引起它（WF 56f; Theodicy 298）。）1. 有效的（有效原因与形式和目的原因相一致发生。）2. 目的（一个物质的现在状态对其未来状态的指定，就是为什么是这些未来状态而不是其他状态。有人认为目的原因可以是产生性的（例如，Carlin 2006）。）
+7. 非产生性的（理性决定一个物质的未来状态。作为解释性先于有效原因的原因。）1. 形式（一个物质的现在状态对其未来状态的指定，就是内容方面。）2. 目的（一个物质的现在状态对其未来状态的指定，就是为什么是这些未来状态而不是其他状态。）3. 自由（在行动时，目的原因的承载者意识到该原因。）4. 非自由（在行动时，目的原因的承载者不意识到该原因。）
+
+## Bibliography
+
+### Works of Leibniz
+
+| [A] | *Gottfried Wilhelm Leibniz: Sämtliche Schriften und Briefe*. Edited by the German Academy of Science. Darmstadt and Berlin: Berlin Academy, 1923–. Cited by series, volume, and page. |
+| --- | --- |
+| [AG] | *Philosophical Essays*. Edited and translated by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989. |
+| [C] | *Opuscules et Fragments Inédits de Leibniz*. Edited by Louis Couturat. Paris: Felix Alcan, 1903. |
+| [GM] | *Leibnizens Mathematische Schriften*. Edited by C. I. Gerhardt. Berlin: Weidman, 1875–90. Cited by volume and page. |
+| [GP] | *Die Philosophischen Schriften von Gottfried Wilhelm Leibniz*. Edited by C.I. Gerhardt. Berlin: Weidman, 1875–1890. Cited by volume and page. |
+| [H] | *Theodicy*. Edited by Austin Farrer and translated by E.M. Huggard. New Haven: Yale University Press, 1952. |
+| [L] | *Philosophical Papers and Letters*. Edited by Leroy Loemker, 2nd ed. Dordrecht: Reidel, 1969. |
+| [PM] | *Philosophical Writings*. Translated and edited by Mary Morris and G.H.R. Parkinson. London: Dent, 1973. |
+| [NE] | *New Essays on Human Understanding*. Translated and edited by Peter Remnant and Jonathon Bennett. Cambridge: Cambridge UP, 1982. |
+| [S] | *The Shorter Leibniz Texts*. Translated and edited by Lloyd Strickland. Bloomsbury Academic, 2006. |
+| [W] | *Leibniz: Selections*. Edited by Philip P. Wiener. New York: Charles Scribner’s Sons, 1951. |
+| [WF] | *Leibniz’s ‘New System’ and Associated Contemporary Texts*. Edited and translated by Roger Woolhouse and Richard Francks. Oxford: Oxford University Press, 1997. |
+
+### Secondary Literature
+
+* Adams, R., 1998. *Leibniz: Determinist, Theist, Idealist*, Oxford: Oxford University Press.
+* Bayle, P., 1991. *Historical and Critical Dictionary: Selections*, Translated by Richard H. Popkin. Indianapolis: Hackett.
+* Beck, L. W., 1969. *Early German Philosophy: Kant and his Predecessors*, Cambridge, Mass.: Belknap Press.
+* Bennett, J., 2001. *Learning from Six Philosophers, vol. 1*: Oxford, Clarendon Press.
+* Bobro, M., 2008. “Leibniz on Concurrence and Efficient Causation,” *Southern Journal of Philosophy*, 46: 317–38.
+* –––, 1998. “Thinking Machines and Moral Agency in Leibniz’s *Nouveaux essais*,” *Studia Leibnitiana*, 30: 178–93.
+* Bobro, M and K. Clatterbaugh, 1996. “Unpacking the Monad, Leibniz’s Theory of Causality,” *The Monist*, 79: 409–26.
+* Broad, C. D., 1975. *Leibniz: An Introduction*, Cambridge: Cambridge University Press.
+* Brown, C., 1990. *Leibniz and Strawson: A New Essay in Descriptive Metaphysics*, Munich: Philosophia Verlag.
+* Brown, S., 1984. *Leibniz*, London: The Harvester Press.
+* Cameron, R., 2010. “Aristotle’s Teleology,” *Philosophy Compass*, 5(12): 1096–1106.
+* Carlin, L., 2006. “Leibniz on Final Causes,” *Journal of the History of Philosophy*, 44: 217–33.
+* Carr, H. W., 1960. *Leibniz*, New York: Dover; first published, 1926.
+* Chisholm, R., 1976. *Person and Object*, La Salle, Illinois: Open Court.
+* Clatterbaugh, K. C., 1999. *The Causation Debate in Modern Philosophy, 1637–1739*, London: Routledge.
+* –––, 1973. *Leibniz’s Doctrine of Individual Accidents*, Wiesbaden: Franz Steiner.
+* Copleston, F., 1963. *A History of Philosophy, Volume IV: Descartes to Leibniz*, Garden City, New York: Doubleday.
+* Cover, J. and M. Kulstad (eds.), 1990. *Central Themes in Early Modern Philosophy*, Indianapolis: Hackett Press.
+* Cover, J. and J. O’Leary-Hawthorne, 1999. *Substance and Individuation in Leibniz*, Cambridge: Cambridge University Press.
+* Cox, D., 2002. “Leibniz on Divine Causation: Creation, Miracles, and the Continual Fulgurations,” *Studia Leibnitiana*, 34(2): 185–207.
+* Deleuze, Gilles, 1993. *The Fold: Leibniz and the Baroque.* Translated by Tom Conley. Minneapolis: University of Minnesota Press.
+* Fleming, N., 1987. “On Leibniz On Subject and Substance,” *The Philosophical Review*, 96: 69–95.
+* Frankel, L., 1989. “Causation, Harmony, and Analogy.” *Leibnizian Inquiries: A Group of Essays*, N. Rescher (ed.), Lanham, Maryland: University Press of America, pp. 57–70.
+* Frankfurt, H. (ed.) 1972. *Leibniz: A Collection of Critical Essays*, Notre Dame: University of Notre Dame Press.
+* Garber, D., 1985. “Leibniz and the Foundations of Physics: The Middle Years.” *The Natural Philosophy of Leibniz*, K. Okruhlik and J. R. Brown (eds.), Dordrecht: D. Reidel, pp. 27–130.
+* Griffin, M.V., 2013. *Leibniz, God and Necessity*, Cambridge: Cambridge University Press.
+* Hirschman, D., 1988. “The Kingdom of Wisdom and the Kingdom of Power in Leibniz,” *Proceedings of the Aristotelian Society*, 88: 147–159.
+* Hooker, M. (ed.), 1982. *Leibniz: Critical and Interpretive Essays*, Minneapolis: University of Minnesota Press.
+* Ishiguro, H., 1972. *Leibniz’s Philosophy of Logic and Language*, Ithaca, New York: Cornell University Press.
+* –––, 1977. “Pre-established harmony versus constant conjunction,” in *Proceedings of the British Academy*, 63:: 239–63.
+* Jolley, N., 1998. “Causality and Creation in Leibniz,” *The Monist*, 81: 591–611.
+* Jolley, N. (ed.), 1995. *The Cambridge Companion to Leibniz*, Cambridge: Cambridge University Press.
+* Jorati, J., 2013. “Monadic Teleology without Goodness and without God,” *The Leibniz Review*, 23: 43–72.
+* –––, 2017. *Leibniz on Causation and Agency*, Cambridge: Cambridge University Press.
+* Kulstad, M., 1991. *Leibniz on Apperception, Consciousness, and Reflection*, Munich: Philosophia Verlag.
+* –––, 1993. “Causation and Preestablished Harmony in the Early Development of Leibniz’s Philosophy,” *Causation in Early Modern Philosophy*, Steven Nadler (ed.), University Park: Pennsylvania State Press, pp. 93–118.
+* Lee, S., 2004. “Leibniz on Divine Concurrence,” *Philosophical Review*, 113: 203–48.
+* Leibniz, G. W., 1764 [1704]. *Nouveaux essais sur l’Entendement Humain*, J. Brunschwig (ed.). Paris: Garnier-Flammarion, 1966.
+* Lin, M., 2014. “Efficient Causation in Spinoza and Leibniz,” in Schmaltz (ed.) 2014: 165–190.
+* Lodge, P. and M. Bobro, 1998. “Stepping Back Inside Leibniz’s Mill,” *The Monist*, 81: 553–72.
+* Loeb, L., 1981. *From Descartes to Hume: Continental Metaphysics and the Development of Modern Philosophy*, Ithaca: Cornell.
+* Mates, B., 1986. *The Philosophy of Leibniz: Metaphysics & Language*, Oxford: Oxford University Press.
+* McDonough, J., 2007, “Leibniz: Creation and Conservation and Concurrence,” *The Leibniz Review*, 17: 31–60.
+* McRae, R., 1982. “As Though Only God and It Exists,” in Hooker (ed.), *Leibniz: Critical and Interpretive Essays*, Minneapolis: University of Minnesota Press, pp. 79–89.
+* –––, 1976. *Leibniz: Perception, Apperception, and Thought*, Toronto: University of Toronto Press.
+* Mercer, C., 2001. *Leibniz’s Metaphysics: Its Origins and Development*, Cambridge: Cambridge University Press.
+* Mittelstraß, J., 1979. “Substance and its Concept in Leibniz,” *Studia Leibnitiana*, 9: 147–58.
+* Nadler, S. (ed.), 1993. *Causation in Early Modern Philosophy*, University Park: Pennsylvania State University Press.
+* Osler, M., 1996. “From Immanent Natures to Natures as Artifice,” *The Monist*, 79: 388–407.
+* Rescher, N., 1979. *Leibniz, An Introduction to his Philosophy*, Oxford: Basil Blackwell.
+* Rodriguez-Pereyra, G., 2014. “Leibniz: Mind-body causation and pre-established harmony,” in Schmaltz (ed.) 2014: 109–117.
+* Russell, B., 1900. *A Critical Exposition of the Philosophy of Leibniz*, London: Routledge, 1992.
+* Rutherford, D., 1995. *Leibniz and the Rational Order of Nature*, Cambridge: Cambridge University Press.
+* Savile, A., 2000. *Leibniz and the* Monadology, London: Routledge.
+* Scott, D., 1998. “Leibniz’s Model of Creation and His Doctrine of Substance,” *Animus* (The Canadian Journal of Philosophy and Humanities), Volume 3. [[Available online](http://www2.swgc.mun.ca/animus/Articles/Volume%203/scott3.pdf) (in PDF)].
+* Schmaltz, T. (ed.), 2014. *Efficient Causation: A History*, Oxford: Oxford University Press.
+* Shapere, D., 1990. *The Mechanical Philosophy of Nature*, Washington D.C.: Smithsonian Press.
+* Sleigh, R. C. Jr., 1990a, *Leibniz and Arnauld: A Commentary on Their Correspondence*, New Haven: Yale University Press.
+* –––, 1990b, “Leibniz on Malebranche on Causality,” *Central Themes in Early Modern Philosophy*, J. Cover and M. Kulstad (eds.). Indianapolis: Hackett Press.
+* Von Bodelschwingh, J., 2011, “Leibniz on Concurrence, Spontaneity, and Authorship,” *Modern Schoolman*, 88: 267–297.
+* Watkins, E., 1995. “The Development of Physical Influx in Early Eighteenth-Century Germany: Gottsched, Knutzen, and Crusius,” *Review of Metaphysics*, 49: 295–339.
+* Wilson, C., 1989. *Leibniz’s Metaphysics: A historical and comparative study*, Manchester: Manchester University Press.
+* Wilson, M., 1976. “Leibniz’s Dynamics and Contingency in Nature” in Machamer and Turnbull (eds.), *Motion and Time, Space and Matter*, Columbus: Ohio State University Press, 264–289.
+* Whipple, J., 2010. “The Structure of Leibnizian Simple Substances,” *British Journal for the History of Philosophy*, 18: 379–410.
+* –––, 2015, “Leibniz on Substance and Causation,” in P. Lodge and T. Stoneham (eds.), *Leibniz and Locke on Substance and Identity*, New York: Routledge, 203–230.
+* Winkler, Kenneth, 2011. “Continuous Creation,” *Midwest Studies in Philosophy*, 35: 287–309.
+* Woolhouse, R. S., 1993. *Descartes, Spinoza, Leibniz: The concept of substance in seventeenth-century metaphysics*, New York: Routledge.
+* –––, 1985. “Pre-established harmony returned: Ishiguro versus the tradition,” *Studia Leibnitiana*, 17: 204–19.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz-causation). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/leibniz-causation/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=leibniz-causation&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/leibniz-causation/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [Leibnitiana](http://www.gwleibniz.com/), maintained by Gregory Brown (University of Houston)
+* [Leibniz](http://web.ics.purdue.edu/~jacover/Leibniz.htm), maintained by Jan Cover (Purdue University)
+* [Leibniz Translations](http://www.leibniz-translations.com/index.php), maintained by Lloyd Strickland (Lancaster University, England)
+
+## Related Entries
+
+[Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [occasionalism](https://plato.stanford.edu/entries/occasionalism/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [principle of sufficient reason](https://plato.stanford.edu/entries/sufficient-reason/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [substance](https://plato.stanford.edu/entries/substance/)
+
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
+Marc Bobro <[*mebobro@pipeline.sbcc.edu*](mailto:mebobro%40pipeline%2esbcc%2eedu)>

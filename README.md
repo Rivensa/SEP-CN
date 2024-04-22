@@ -9,7 +9,7 @@
 [开源地址](https://github.com/taophilosophy/SEP-CN)
 
 
-J-Z 部分（临时，最后会合并入本项目）：<https://tphil.gitbook.io/sep2>
+Q-Z 部分（临时，最后会合并入本项目）：<https://tphil.gitbook.io/sep3>
 
 ![微信公众号](./.gitbook/assets/wechat.png)
 

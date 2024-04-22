@@ -1,0 +1,373 @@
+# 数学哲学中的虚构主义 fictionalism (Mark Balaguer)
+
+_首次发表于2008年4月22日；实质性修订于2018年7月23日_
+
+数学虚构主义（以下简称虚构主义）最好被视为对数学唯物主义的一种反应。唯物主义认为：（a）存在抽象的数学对象（即非时空的数学对象），以及（b）我们的数学句子和理论提供了对这些对象的真实描述。因此，例如，在唯物主义观点中，“3是质数”的句子提供了对某个对象（即数字3）的直接描述，就像“火星是红色的”句子描述了火星一样。但是，尽管火星是一个物理对象，但数字3（根据唯物主义）是一个抽象对象。唯物主义者告诉我们，抽象对象完全是非物质的、非心理的、非空间的、非时间的和非因果的。因此，在这个观点上，数字3独立于我们和我们的思维而存在，但它不在空间或时间中存在，它不是一个物理或心理对象，并且它不与其他对象产生因果关系。这个观点得到了柏拉图、弗雷格（1884年，1893-1903年，1919年）、哥德尔（1964年）以及罗素（1912年）和奎因（1948年，1951年）在他们的一些著作中的支持，更不用说许多近期的数学哲学家，例如普特南（1971年）、帕森斯（1971年）、斯坦纳（1975年）、雷斯尼克（1997年）、夏皮罗（1997年）、黑尔（1987年）、赖特（1983年）、卡茨（1998年）、扎尔塔（1988年）、科利万（2001年）、麦克沃伊（2012年）和马库斯（2015年）。
+
+虚构主义，另一方面，认为（a）我们的数学句子和理论确实意味着是关于抽象数学对象的，正如形上学所建议的，但是（b）并不存在抽象对象，所以（c）我们的数学理论并不是真实的。因此，这个观点是，像“3 是质数”这样的句子是错误的，或者不真实的，原因与“牙仙女很慷慨”这样的句子是错误的或者不真实的原因相同——因为就像没有牙仙女一样，也没有数字 3 这样的东西。然而，需要注意的是，尽管有这个名字，虚构主义观点并不一定涉及数学和虚构之间的类比。例如，这里并没有声称数学话语是一种虚构话语。因此，虚构主义者并不承认数学和虚构之间没有重要的不同之处的论点。（我们将在下面的第 2.4 节中回到这个问题。）最后，需要注意的是，虚构主义是数学名义主义的一种形式，即认为数学对象并不存在。
+
+虚构主义最早由菲尔德（1980 年，1989 年，1998 年，2016 年）引入。此后，这个观点已经通过巴拉格尔（1996a，1998a，2001 年，2009 年），罗森（2001 年），亚布洛（2002a，2002b，2005 年），伦格（2005a，2005b，2010 年）和布埃诺（2009 年）以几种不同的方式进行了发展，尽管如下所述，人们可能会质疑布埃诺和亚布洛是否最好被解释为虚构主义者。其他支持或捍卫虚构主义（或与虚构主义相邻观点）的人包括达利（2006 年），利金斯（2010 年），康特萨（2016 年）和普莱巴尼（2018 年）。最后，人们也可以将梅利亚（2000 年）解释为支持虚构主义观点，尽管他并没有真正承认这一点。
+
+值得注意的是，霍夫曼（2004）也支持一种虚构主义观点。然而，她的观点与上述定义的虚构主义观点非常不同，因为它不涉及对论点（a）的承诺。她按照基彻（1984）的思路重新解释数学，然后支持这种重新解释的虚构主义观点；也就是说，她认为一旦数学以这种方式重新解释，它的特指术语就无法指称，它的句子也不是真实的。（基彻的观点与这种观点有多大不同尚不清楚；人们可以将基彻解释为支持非常相似的观点。）无论如何，重要的是要注意，霍夫曼对论点（a）的拒绝使她的观点与更标准的虚构主义观点截然不同。正如下文将明确的，论点（a）非常有道理，它的可信度是普拉托主义流行的主要原因之一。因此，虚构主义的一个主要卖点——即上述标准虚构主义的类型——是它将对论点（a）的接受与反普拉托主义的本体论相结合。
+
+值得注意的是，利尔（1982）和科尔康（2012）认为亚里士多德持有一种数学虚构主义观点；但正如科尔康所指出的，亚里士多德持有的虚构主义观点不太可能是上述定义的观点。
+
+当人们第一次听到虚构主义假设时，可能会觉得有点疯狂。我们真的应该相信像“3 是质数”和“2 + 2 = 4”这样的句子是错误的吗？但是，当我们开始仔细思考数学话语解释的问题时，虚构主义的吸引力开始显现出来，它实际上非常有道理，而且可能是最不疯狂的观点。
+
+第 1 节提供了对虚构主义的中心论证的阐述。第 2 节讨论了对虚构主义的不同反对意见，以及虚构主义的不同版本。这两个方面非常自然地结合在一起，因为不同版本的虚构主义是在不同哲学家对虚构主义的各种反对意见做出回应的过程中出现的。
+
+* [1. 虚构主义的论证](https://plato.stanford.edu/entries/fictionalism-mathematics/#ArgForFic)
+  * [1.1 主要论证](https://plato.stanford.edu/entries/fictionalism-mathematics/#MaiArg)
+  * [1.2 前提（1）和释义名义主义](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre1ParNom)
+  * [1.3 前提（2）和膨胀真理名义主义](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre2DefTru)
+  * [1.4 前提（4）和物理主义与心理主义](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre4PhyPsy)
+  * [1.5 前提（5）和 Platonism](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre5Pla)
+* [2. 虚构主义的反对意见和回应](https://plato.stanford.edu/entries/fictionalism-mathematics/#ObjFicRes)
+  * [2.1 不可或缺性论证](https://plato.stanford.edu/entries/fictionalism-mathematics/#IndArg)
+  * [2.2 客观性](https://plato.stanford.edu/entries/fictionalism-mathematics/#Obj)
+  * [2.3 革命主义和解释学](https://plato.stanford.edu/entries/fictionalism-mathematics/#RevHer)
+  * [2.4 与虚构主义的相似性](https://plato.stanford.edu/entries/fictionalism-mathematics/#SimFic)
+  * [2.5 接受和相信](https://plato.stanford.edu/entries/fictionalism-mathematics/#AccBel)
+  * [2.6 神秘的额外内容](https://plato.stanford.edu/entries/fictionalism-mathematics/#MysExCon)
+  * [2.7 其他反对意见](https://plato.stanford.edu/entries/fictionalism-mathematics/#OthObj)
+* [3. 结论](https://plato.stanford.edu/entries/fictionalism-mathematics/#Con)
+* [参考文献](https://plato.stanford.edu/entries/fictionalism-mathematics/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/fictionalism-mathematics/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/fictionalism-mathematics/#Oth)
+* [相关条目](https://plato.stanford.edu/entries/fictionalism-mathematics/#Rel)
+
+***
+
+## 1. 虚构主义的论证
+
+### 1.1 主要论证
+
+虚构主义的主要论证基本上是通过试图消除所有与虚构主义相反的观点来进行的。这个论证可以这样表述：
+
+1. 数学句子如“4 是偶数”应该按照字面意思来理解；也就是说，它们应该被理解为“F\*\*a”的形式，并且因此作为对某些对象性质的直接主张；例如，“4 是偶数”应该被理解为对数字 4 性质的直接主张。但是
+2. 如果像“4 是偶数”这样的句子应该按字面意思阅读，并且如果它们是真实的，那么它们所涉及的种类的对象必须实际存在；例如，如果“4 是偶数”对数字 4 的性质提出了直接的主张，并且如果这个句子字面上是真实的，那么必须实际存在一个叫做数字 4 的东西。因此，根据（1）和（2），可以得出结论
+3. 如果像“4 是偶数”这样的句子是真实的，那么就存在数学对象。但是
+4. 如果存在数学对象，那么它们是抽象对象，即非时空对象；例如，如果存在数字 4，那么它是一个抽象对象，而不是物理或心理对象。但是
+5. 没有抽象对象存在。因此，根据（4）和（5）的否定推理，可以得出结论
+6. 没有数学对象存在。因此，根据（3）和（6）的否定推理，可以得出结论
+7. 像“4 是偶数”这样的句子不是真的（实际上，它们之所以不真实是虚构主义的原因，因此可以得出虚构主义是真实的结论）。
+
+这个论证中的三个推论都非常明显有效，所以唯一的问题是四个基本前提（（1），（2），（4）和（5））是否为真。而这个论证设置的好处在于，每个前提都打算排除虚构主义的不同替代方案。因此，（1）-（7）中的论证实际上是一个更长的论证的框架，其中包括支持基本前提的子论证，从而反对虚构主义的各种替代方案。
+
+鉴于此，我们可以说有五种替代方案（或者如果你愿意，五种替代方案的类别）可以替代虚构主义。那些拒绝（1）的人可以被称为释义名义主义者；那些拒绝（2）的人可以被称为贬值真理名义主义者；那些拒绝（4）的人要么是物理主义者，要么是心理学家；而那些拒绝（5）的人是形而上学者。为了支持他们的观点，虚构主义者需要提供反对所有这些观点的论证。
+
+虚构主义者在这里最容易的部分是反驳各种反普拉托主义观点。所有这些观点——释义名义主义、通俗真理名义主义、物理主义和心理主义——都可以理解为对普拉托主义的反应，就像虚构主义一样。普拉托主义是一种非常有吸引力的观点，因为它提供了一种非常自然和令人愉悦的数学实践和数学话语的解释。但尽管如此，许多哲学家不赞同普拉托主义，因为他们无法接受其本体论。换句话说，他们根本不相信存在抽象对象。因此，数学哲学领域的大部分工作都致力于试图避免普拉托主义。特别是释义名义主义、通俗真理名义主义、物理主义和心理主义都可以从这个角度理解。它们都试图削弱数学句子的普拉托主义真值条件观点。但正如下文将明确的，所有这些观点都存在严重问题。这就是虚构主义的出现的地方：它承认数学句子的普拉托主义真值条件观点，但仍然否认普拉托主义者的本体论观点，即存在抽象对象。这使得虚构主义在重要的方面与其他反普拉托主义观点不同。我们可以通过注意到普拉托主义涉及两个不同的命题来理解这一点，一个是语义命题，一个是本体论命题。语义命题是关于普通数学话语的真值条件的经验假设，而本体论命题是关于抽象对象存在的深层次形而上学假设。每个反普拉托主义的版本都拒绝普拉托主义者的本体论假设，而所有非虚构主义的反普拉托主义版本也拒绝语义命题。虚构主义是唯一一个不拒绝语义命题的反普拉托主义观点。 这就是为什么虚构主义似乎比其他反柏拉图主义的版本更具吸引力的原因——因为柏拉图主义者的语义假设非常合理和有动机。因此，拒绝这一假设的反柏拉图主义版本似乎不合理且没有动机。
+
+因此，再次说，虚构主义的论证的简单部分（或者至少是较简单的部分）是通过提供对前提（1）、（2）和（4）的论证来完成的——或者等效地，通过提供反对各种非虚构主义版本的反柏拉图主义的论证，即释义名义主义、通脱真理名义主义、物理主义和心理主义。接下来的三个小节（1.2-1.4）讨论了这四种观点以及虚构主义者可能对它们提出的一些论证。第 1.5 节涵盖了虚构主义者论证的更困难的部分——即前提（5）和虚构主义者如何反对柏拉图主义的问题。
+
+### 1.2 前提（1）和释义名义主义
+
+改述虚构主义是一种观点，认为像“3是质数”这样的普通数学句子不应该直接按字面意思阅读，或更具体地说，它们不应该被解读为“Fa”的形式，并对数学对象提出主张。这种观点有几种不同的版本。其中最著名的可能是假设-然后主义。根据这种观点，“3是质数”最好被解释为表达一种条件性主张，例如“如果存在数，那么3将是质数”，或者可能是“必然地，如果存在数，那么3是质数。”（假设-然后主义的版本由普特南（Putnam）（1967a，b），霍根（Horgan）（1984），赫尔曼（Hellman）（1989），多尔（Dorr）（2008）和亚伯罗（Yablo）（2017）提出；此外，这种观点的前身曾得到早期希尔伯特（Hilbert）的认可（参见他的1899年著作以及他写给弗雷格（Frege）的信件（见弗雷格（Frege）1980年）。最后，虚构主义的其他版本得到了奇哈拉（Chihara）（1990），易（Yi）（2002），霍夫韦伯（Hofweber）（2005），雷奥（Rayo）（2008，2013）和莫尔特曼（Moltmann）（2013）的认可；人们还可以这样解释柯里（Curry）（1951）和维特根斯坦（Wittgenstein）（1956）。
+
+对于释义名义主义观点的问题非常简单：它们涉及到关于普通数学话语的意义的经验假设，这些假设极不可信。例如，在与如果-那么主义相关的情况下，很难相信当普通数学话语的发言者（普通数学家和普通人）说出“3是质数”时，他们所说的最佳解释是如果存在数字，那么3将是质数。这似乎错误地理解了人们在说出这样的句子时的实际意思。实际上，似乎可以在这里提出一个更一般的观点。有一个良好的解释原则，大致是这样说的：除非有证据表明他们有非字面解释的积极意图，否则我们应该按面值解释人们的话语。鉴于这一点，以及（似乎显而易见的）普通人没有积极意图让他们的数学话语被非字面解释，例如作为表达条件命题，似乎可以得出结论，我们应该按面值解释我们的数学话语。但这意味着我们应该接受前提（1）并拒绝释义名义主义。
+
+改述名义主义者可能会试图通过否认他们承认他们的改述与普通数学家和普通人的意图相符这一命题来回应这个论证。事实上，这种主张已经被 Chihara（1990 年，2004 年）和 Hellman（1998 年）提出过。但是改述名义主义者不能支持这种立场，因为如果他们这样做，他们的观点将崩溃成为虚构主义的一种版本。如果改述名义主义者承认形而上学家和虚构主义者对真实数学话语的意义（即实际数学家的话语）是正确的，那么（因为他们还想坚持不存在抽象对象的观点），他们将承认实际数学家的话语是不真实的。因此，如果改述名义主义者不声称他们的改述捕捉到普通数学句子的实际意义，那么他们的观点将无法提供一个真正的虚构主义的替代方案。它将崩溃成为虚构主义的一种版本。更具体地说，改述名义主义者只是一个认为我们应该改变我们的数学语言，或者改变我们对数学话语的理解的虚构主义者；或者也许只是声称如果我们愿意，我们可以改变我们的数学语言，而这个事实为虚构主义者提供了回应某些异议的方式。
+
+### 1.3 前提（2）和通俗真理名义主义
+
+通货紧缩真理名义主义是这样一种观点：（a）正如柏拉图主义者和虚构主义者所主张的那样，普通的数学句子如“3是质数”应该按字面意义阅读，即被视为“F\*\*a”的形式，并因此对数学对象提出了主张；（b）数学对象并不存在，但（c）我们的数学句子仍然是真实的。这种观点已经得到了阿祖尼（1994年，2004年，2010年）和布埃诺（2005年，2009年）的支持。然而，值得注意的是，布埃诺在他的（2009年）中将他的通货紧缩真理名义主义版本称为虚构主义的一种版本。这并不是因为他真的支持了本文中所称的虚构主义观点；而是因为他对“虚构主义”一词的使用与本文中的使用方式不同。但是需要注意的是，布埃诺的用法并没有那么不同；正如我们将要看到的，通货紧缩真理名义主义和虚构主义（如本文所定义的）是相当相似的观点。（布埃诺的观点与本文中所定义的虚构主义观点在第二个方面也有所不同：他支持对抽象对象的不可知论，而不是完全的反实在论。但是这个差异甚至比第一个差异还不重要；如果我们重新表述上述虚构主义定义中的（b）和（c），使它们与不可知论一致，虚构主义观点的其他方面几乎不需要改变。因此，虚构主义者可以选择是否对抽象对象持不可知论或反实在论的立场，而这个决定对他们观点的其他部分影响不大。事实上，正如第3节将清楚地表明的那样，布埃诺的不可知论可能与某些虚构主义者的观点更或多或少地等同。）
+
+在描述通货紧缩真实主义的问题之前，重要的是要注意，该观点背后的核心主张是关于普通话语的经验假设。特别是，这是关于术语“真实”的含义或关于真实概念的主张。当通货紧缩真实主义者说，例如，“3是质数”即使没有数字3这样的东西也可能是真实的时，他们是在对普通真实概念做出主张。他们在说，这个概念适用于我们大多数人（包括形而上学者、虚构主义者和其他几乎所有人）认为它不适用的某些情况。如果通货紧缩真实主义者试图否认他们在对普通真实概念做出主张，那么他们的观点将崩溃成为虚构主义的一种版本。因为他们同意虚构主义者的观点，即“3是质数”意味着涉及某个抽象对象，而且他们也同意没有抽象对象的存在，所以可以推断，如果他们支持标准的真实观点——即根据这个观点，形如“F**a”的句子只有在“a”指代一个实际存在的对象时才能为真——那么他们将不得不承认“3是质数”是不真实的。现在，他们可能会继续争辩说这些句子是真实的**​ _**——其中真实**_​**的定义是这样的，即使没有这样的东西存在，形如“F**a”的句子也可以是真实的——当然，虚构主义者会同意这一点。因此，如果通货紧缩真实主义要真正与虚构主义有所区别，它必须涉及对普通词“真实”的含义的论点；特别是，这个主张必须是这样的，即形如“F\*\*a”的句子可以在普通意义上是真实的，即使特指词“a”不指代任何实际存在的对象。
+
+鉴于这一点，大多数虚构主义者可能会说，通货紧缩真理名义主义的问题在于它在经验上是不可信的。换句话说，反对意见可能是通货紧缩真理名义主义与我们对“真实”含义的直觉相悖。对于这种主张，似乎有一些正当理由。例如，直觉上似乎很明显，除非存在火星这样的事物，否则句子“火星是一个行星”不能字面上是真实的。此外，直觉上，句子“火星是一个行星，但它不存在”似乎是一个矛盾，而这种直觉似乎与通货紧缩真理名义主义不相容。如果这是正确的——如果通货紧缩真理语义论与我们的语义直觉相悖——那么这为我们认为它是错误的提供了有力的证据。
+
+但是，虚构主义真理的紧缩问题还有第二个问题：它被认为可以为我们提供避免形而上学的方法，但实际上并没有。乍看之下，虚构主义真理似乎确实提供了一种避免形而上学的方法，因为形而上学的论证似乎依赖于上述第（2）前提，即似乎依赖于反紧缩真理主张，即如果像“4是偶数”这样的句子应该按面值阅读，即作为“F**a”形式的句子，并且如果这些句子在字面上是真实的，那么我们就必须相信它们所涉及的对象，例如数字4。但实际上，形而上学家可以制定他们的论证，使其不依赖于这个反紧缩真理前提。为了阐明这一点，让我们首先引入两个新的术语——“真1”和“真2”——并规定“真1”被视为表达形而上学虚构主义真理概念的术语，因此，除非“a”指的是实际存在的对象，“F**a”形式的句子不能是真1；而“真2”则表达了一种紧缩真理概念，因此，“F\*\*a”形式的句子即使“a”不指代任何实际存在的对象，也可以是真2。在此基础上，形而上学家可以这样说：
+
+> 我们并不关心普通英语中使用的词语“真实”是表达真理 1 还是真理 2（或者它是否含糊不清，有时表达一个概念，有时表达另一个概念）。我们承认，对于形而上主义的论证的标准表述涉及到普通数学句子如“3 是质数”的真实性。但我们同样可以基于这样的主张来构建我们的论证，即这样的句子是真实 1 的。这样做并不会削弱我们的论证。因为我们用来推动数学真实性的论证，尤其是下面讨论的奎因-普特南不可或缺性论证，已经是对数学真实性的论证。这并不令人惊讶；因为当我们说普通数学句子如“3 是质数”是真实的时候，我们的意思是它们是真实 1 的；所以，当然，我们为数学真实性给出的论证已经被认为是对数学真实 1 性的论证。
+
+鉴于形而上主义者可以以这种方式进行，似乎是否泄气真理语义论题正确——即，英语词语“真实”是否表达真理 1 或真理 2 的概念——只是一个红鲱鱼。真正的问题是形而上主义者是否有任何关于数学真实 1 性的好论证（当然，反形而上主义者是否有任何关于数学真实 1 性的好论证）。换句话说，如果我们假设前提（1）和（4）是真实的，这样我们必须将我们的数学主张解读为关于（或至少自称为关于）抽象对象的，那么真正的问题是在形而上主义和虚构主义之间选择是否有任何好的理由。
+
+### 1.4 前提（4）与物理主义和心理主义
+
+物理主义是我们的数学句子和理论是关于普通物理对象的观点。约翰·斯图尔特·密尔（1843 年）发展了这种观点。在他的观点中，数学只是一种非常普遍的自然科学。因此，例如，根据密尔的观点，“2 + 3 = 5”这个句子不是关于抽象对象（数字 2、3 和 5）的主张；相反，它是关于物理对象堆叠的主张（特别是，它告诉我们，如果我们将两个物体的堆叠与三个物体的堆叠推在一起，我们将得到一个由五个物体组成的堆叠）。（菲利普·基彻尔（1984 年）和早期的佩内洛普·麦迪（1990 年）也支持具有“物理主义倾向”的观点，但最终，两者都不能被合理解释为属于这个阵营。麦迪早期的观点更好地被认为是一种非传统的柏拉图主义，因为根据这个观点，数学是关于存在于时空中的非物质对象的；而基彻尔的观点最好被认为是一种释义名义主义，因为在他的观点中，数学的陈述结果并不是关于任何实际存在的对象。）
+
+物理主义对数学的观点存在许多问题。仅举其中一个问题，物理主义似乎完全无法解释我们在数学中发现的各种关于无穷的主张。例如，集合论的一个定理是存在无穷多个越来越大而无穷无尽的超限基数。因此，集合论承认存在着巨大到简直使得所有自然数的集合等普通无穷集合相形见绌的无穷集合。对于这种关于巨大无穷集合的讨论，没有合理的方式将其解释为关于物理对象的。
+
+心理主义是一种观点，认为数学句子和理论是关于心智对象的。这种观点的最常见版本认为，数字在我们头脑中就像是思想一样，而普通的数学句子如“3 是质数”提供了对这些思想的描述。这种观点在 19 世纪末很受欢迎；早期的胡塞尔（1891）以及直觉主义者布劳尔（1912，1948）和海廷（1956）都支持这种观点。但弗雷格（1884，1893-1903）提出了一系列反对这种观点的论证，并基本上将其扼杀在摇篮中。在这里只给出一个论证，心理主义似乎和物理主义一样无法处理数学中的巨大无限。正如刚才所见，标准集合论表明实际上存在着巨大无限的数学对象。但我们头脑中并不存在那么多的思想，这是不可信的。事实上，我们头脑中只有有限多个思想。因此，坚持认为集合论的主张是由心智对象使其成为真实的是不可信的。
+
+作为回应，有人可能声称，即使我们的头脑中没有无限多的思想，我们的头脑中可能有无限的思想。这无疑是正确的-我们的头脑中确实有这样的思想-但这并不能挽救心理主义免受上述反对。因为我们的数学理论表明实际上存在着无限多个不同的数学对象。例如，算术的标准理论表明存在一个 1，存在一个 2（并且它与 1 不同），存在一个 3（并且它与 1 和 2 都不同），依此类推。因此，我们的数学理论只有在我们的头脑中实际上存在无限多个不同的思想时才是对思想的真实描述。因此，由于我们的头脑中没有那么多的思想，我们不能坚持认为我们的数学理论是对这些事物的真实描述。
+
+或者，对于上述反对心理主义的论证，人们可以采取一种观点，即数学命题是关于我们可以构建的思想，或者可能的心智对象，或者类似的东西。但这不是一种心理主义观点，因为在这种观点下，数学的对象不是实际的心智对象；它们是可能的对象，可能是抽象对象或其他某种形而上学上可疑的对象。
+
+最后，人们可以对本小节中的两个论证——即反对物理主义和心理主义的论证——提出异议，说出类似以下的观点：
+
+这里给出的论证旨在激发这样一个想法：普通的数学句子，如“4 是偶数”，不应该被合理地解释为关于物理或心智对象，或更具体地说，它们更好地被解释为关于（或至少声称是关于）抽象对象。但是，人们可能会在这里提出异议，认为作为对普通数学话语的解释，形而上学者/虚构主义者的观点并不比物理主义或心理主义更合理。因为人们可能会认为，当普通人提出数学命题时，他们的意图并不是在谈论抽象对象。
+
+但是柏拉图主义者和虚构主义者并不承认人们有积极的意图来谈论抽象对象的论点。相反，他们可以说以下内容：（i）普通数学命题最好按字面意义解释，因此，可以将其解释为关于对象的命题，因为典型的数学家（以及普通人的典型例子）在发表数学句子时并没有积极的意图进行非字面的表达；（ii）就典型数学家和普通人在数学言辞方面的意图而言，存在一些特征与这些言辞是关于物理或心理对象的观念不一致；（iii）典型数学家或普通人的意图中没有任何与我们的数学句子是关于抽象对象的观念不一致的东西。因此，在这种观点下，柏拉图主义者/虚构主义者的语义理论比其他数学话语的语义理论更好，因为它是唯一与数据一致的理论，而不是因为数学家和普通人在发表数学句子时有积极的意图来谈论抽象对象。
+
+（在继续之前，值得注意的是，一个人可以声称数学对象如数字的存在依赖于我们，而不必支持这些对象的心理主义观点。因为一个人可以声称数字是依赖于心智的抽象对象，即非时空的对象，是由人类活动而产生的。这种一般性的观点得到了 Liston（2003-04），Cole（2009）和 Bueno（2009）的支持。）
+
+### 1.5 前提（5）和柏拉图主义
+
+如果迄今为止给出的论证是正确的，那么唯一剩下的观点——唯一尚未被排除的数学哲学观点——就是形而上学和虚构主义。因此，为了完成他们的论证，虚构主义者只需要为前提（5）提供一个论证；换句话说，他们只需要反对形而上学。但是，这证明比反对上述各种非虚构主义版本的反形而上学观点要困难得多。正如我们所见，虚构主义者可以通过激发关于普通数学话语和“真实”一词的一系列经验假设来反对这些观点。更具体地说，虚构主义者可以通过论证来反对这些观点：（a）普通数学话语最好按字面意义解释，（b）这些话语不能合理地被解释为关于物理或心理对象的，（c）形如“物体a是F”这样的句子，除非真的存在一个a，否则不能以普通意义上的真实来解释。但是，虚构主义者不能以这种方式反对形而上学，因为虚构主义者和形而上学者在普通数学话语（和“真实”一词）的意义上是一致的。实际上，形而上学家和虚构主义者在任何语义命题上都没有分歧。他们的分歧在于本体论命题：形而上学家相信抽象对象的存在，而虚构主义者则不相信。因此，如果虚构主义者要反对形而上学，他们必须使用一种不同类型的论证。
+
+有几个不同的论点被提出来反对数学唯实论，但最重要且最著名的是所谓的反对唯实论的认识论论证。这个论证至少可以追溯到柏拉图。在当代，它在保罗·贝纳塞拉夫（1973）的一篇论文中得到了最经典的陈述，尽管大多数数学哲学家都认为贝纳塞拉夫对这个论证的阐述存在问题，因为它依赖于一个不可信的知识因果理论。更好的方式来阐述这个论证如下：
+
+1. 人类完全存在于时空之内。
+2. 如果存在任何抽象的数学对象，那么它们存在于时空之外。因此，似乎很可能
+3. 如果存在任何抽象的数学对象，那么人类无法获得对它们的知识。但是
+4. 这是建立在柏拉图主义观点中的，即确实存在抽象对象，人类可以获得对它们的知识（毕竟，根据柏拉图主义，数学知识就是对抽象对象的知识）。因此，
+5. 柏拉图主义是错误的。
+
+柏拉图主义者试图以几种不同的方式回应这个论证，但最流行的（可以说也是最有道理的）回应是试图削弱从（i）和（ii）到（iii）的推理，解释了即使（i）和（ii）是真的，（iii）如何可能是错误的——即人类如何能够获得关于抽象对象的知识，尽管他们与这些对象在因果上是隔离的，因此与这些对象没有任何信息传递的接触。这种回应策略已经被奎恩（1948 年，1951 年），斯坦纳（1975 年），卡茨（1981 年，1998 年），雷斯尼克（1982 年，1997 年），夏皮罗（1989 年，1997 年），刘易斯（1986 年），林斯基和扎尔塔（1995 年），巴拉格尔（1995 年，1998 年），林内博（2006 年）所追求。这些回应是否成功在数学哲学家中极具争议。此外，反柏拉图主义者没有任何令人信服的论证来证明柏拉图主义者在这里无法提供所需的解释——即他们无法解释人类如何能够在没有任何信息传递的接触的情况下获得关于抽象对象的知识。因此，长话短说，可以说反对柏拉图主义的认识论论证至多是有争议和无定论的。
+
+（有关反对柏拉图主义的认识论论证的更全面讨论，包括对柏拉图主义者所尝试的各种回应的讨论，请参阅《斯坦福哲学百科全书》中名为“形而上学中的柏拉图主义”的条目。）
+
+鉴于认识论论证未能成功驳斥柏拉图主义，虚构主义者可能会尝试提出其他反对柏拉图主义的论证。其中一个受到广泛关注的论证是多重还原论证。这个论证的经典陈述再次由Benacerraf（1965）给出。这个论证可以与我们的任何数学理论相关，但通常是与算术相关。此外，即使我们将注意力集中在算术上，仍然有许多不同的方式来阐述这个论证。一种方法是如下所示：（A）如果存在满足我们算术理论的抽象对象序列，那么就会有无限多个这样的序列，并且没有任何“形而上学上特殊”的东西使其中任何一个序列突出为自然数序列；但是（B）柏拉图主义承认存在一个唯一的抽象对象序列，即自然数。因此，（C）柏拉图主义是错误的。
+
+柏拉图主义者对这个论证提出了许多回应。可能最常见的策略是拒绝（A），即主张柏拉图主义者实际上可以为存在一个唯一的序列作为自然数序列辩护。这个策略已经被 Resnik（1997）、Shapiro（1997）、Parsons（1990）和 Linsky 和 Zalta（1995）等人以不同的方式追求。此外，Balaguer（1998a）认为，即使（A）是真的，也没有关系，因为（B）是假的：柏拉图主义者可以简单地承认存在许多满足我们算术理论的序列，而且可能没有一个序列被视为唯一的自然数序列。关于这些柏拉图主义回应的地位没有普遍的一致意见，因此，就像认识论论证一样，如果不是完全站不住脚的话，声称多重还原论证反驳了柏拉图主义将是极具争议的。
+
+除此之外，在数学哲学中，反对柏拉图主义的唯一论证是基于奥卡姆剃刀的论证。我们将在第 3 节中简要回顾这个论证；现在，我们只需注意到，就像认识论论证和多重还原论证一样，基于奥卡姆剃刀的论证也是非常有争议的，声称这个论证反驳了柏拉图主义至少是有倾向性的。因此，我们在这里得出的总体结论是：即使虚构主义者可以激发数学话语的柏拉图主义/虚构主义语义，并因此消除了所有反对柏拉图主义的替代方案，他们并没有任何真正令人信服的反对柏拉图主义的论证，或者证明虚构主义优于柏拉图主义的结论。换句话说，虚构主义者没有任何令人信服的前提（5）的论证，因此他们的观点的积极论证最多是不完整的。
+
+## 2. 虚构主义的反对意见和回应
+
+鉴于没有令人信服的反对数学实在论的论据，人们自然会问是否有任何反对虚构主义的好论据（因此，如果数学实在论真的是唯一可行的虚构主义替代方案，是否支持数学实在论）。本节考虑了几个这样的论据。在讨论虚构主义对这些论据的回应时，我们还将看到不同的哲学家如何发展出不同版本的虚构主义。
+
+### 2.1 不可或缺性论证
+
+迄今为止，对虚构主义最重要且广泛讨论的论据是所谓的奎恩-普特南不可或缺性论证（参见，例如，奎恩（1948，1951），普特南（1971），雷斯尼克（1997）和科利万（2001））。这个论证已经以多种不同的方式被阐述。一个非常简单的版本可以这样表述：（i）数学句子是我们对物理世界的经验理论中不可或缺的一部分，即我们的物理学、化学等理论；（ii）我们有充分的理由认为这些经验理论是真实的，即它们给我们提供了准确的世界图景；因此，（iii）我们有充分的理由认为我们的数学句子是真实的，因此虚构主义是错误的。
+
+虚构主义者对这个论证提出了两种不同的回应。第一种回应，由菲尔德（1980，2016）提出，可以称为名词化回应，它给出了一种被称为困难路虚构主义的虚构主义版本。第二种回应，由巴拉格尔（1996a，1998a），梅利亚（2000），罗森（2001），亚伯罗（2005），布埃诺（2009）和伦格（2010）提出，可以称为非名词化回应，它给出了一种被称为易路虚构主义或黄鼠狼虚构主义的虚构主义版本。（这些名称是科利万和梅利亚提出的；前者称之为“困难路名词主义”和“易路名词主义”，后者称之为“黄鼠狼名词主义”）。
+
+Field的艰难之路回应基于对前提(i)的否定。他认为，事实上，数学对经验科学并非必不可少。Field试图通过论证我们的经验理论可以被名词化来建立这个论点，即以一种避免引用和存在量化抽象对象的方式重新表述。这是一个极具争议的观点，并且非常难以建立，因为我们可能需要为每一个经验理论实际进行名词化。因此，这个观点被称为艰难之路的虚构主义。Field并没有尝试为我们所有的经验理论进行这样的工作。相反，他试图通过解释名词化在一个经验理论中的应用来证明他的立场，即牛顿引力理论。现在，有人抱怨即使Field的策略对这个理论有效，它可能对其他理论无效，特别是Malament（1982）认为他的策略在量子力学方面不起作用（但参见Balaguer（1996b和1998a）对Field的策略可以扩展到量子力学案例的论证，参见Bueno（2003）的回应）。此外，还有其他几个反对Field计划的异议，例如Malament（1982），Shapiro（1983），Resnik（1985）和Chihara（1990，第8章，第5节）。另一方面，还有其他一些作品发展或提供了对艰难之路名词主义观点的动机，例如Arntzenius和Dorr（2012）发展了一种名词化可微流形理论的方法。目前，Field对Quine-Putnam论证的艰难之路回应的地位仍然存在争议。
+
+Balaguer的简易路线回应从承认Quine-Putnam论证的前提(i)开始，即（为了论证的目的）承认数学对经验科学存在不可或缺的应用。Balaguer的策略仅仅是从虚构主义的角度解释这些应用。他的论证可以概括如下：如果存在抽象对象，那么它们是因果无效的。但是，鉴于此，经验科学的真实性取决于两组事实，这两组事实相互独立地成立或不成立。其中一组事实是纯粹的柏拉图主义和数学事实，另一组事实是纯粹的物理事实（或更准确地说，纯粹的反柏拉图主义事实）。由于这两组事实相互独立地成立或不成立，虚构主义者可以主张：（a）确实存在一组纯粹的物理事实，即使没有纯粹的柏拉图主义事实，也能使经验科学成为真实；（b）没有纯粹的柏拉图主义事实，因此经验科学的真实性无法得到保证（因为抽象对象不存在）。因此，虚构主义与经验科学的本质上现实主义观点是一致的，因为虚构主义者可以主张，即使没有数学对象，因此我们的经验理论并不严格正确，这些理论仍然在本质上准确地描绘了物理世界，因为物理世界正是使经验科学成为真实的样子。换句话说，虚构主义者可以主张，物理世界“履行了经验科学的协议”。最后，为了提供数学在经验科学中的作用，主张数学起到了描述或表示的辅助作用。换句话说，它为我们提供了一种简便的方式来对物理世界进行断言。 例如，通过参考实数，或者更好地说，通过使用声称参考实数的术语，我们为描述物理系统的温度状态提供了一种简便的方法。巴拉格尔认为，即使数学并非真实，它仍然可以在作为描述性辅助工具的角色中取得成功；事实上，他认为在这方面，真实性根本没有任何帮助。
+
+其他人也提出了类似的观点。例如，梅利亚（2000）认为，我们可以断言我们的经验理论，然后简单地撤回那些断言的普拉托主义/数学后果。罗森（2001）认为，虚构主义是认识上可允许的，因为另一个科学家群体可以接受与我们相同的理论，同时对其理论中的数学成分持虚构主义态度，更准确地说，是理性地持虚构主义态度。布埃诺（2009）认为，数学在经验科学中起到了描述性的作用，因此它并不需要是真实的才能适用。冷（2010）认为，必需性论证并不能反驳虚构主义，因为虚构主义者可以对科学的成功提供充分的解释。
+
+亚布洛（2005，2002a，2002b）也提出了类似的观点（值得注意的是，他在这里的观点在很大程度上借鉴了沃尔顿（1990）的工作）。亚布洛声称，数学作为一种表征性辅助工具出现在科学中，并且它并不需要是真实的才能很好地发挥这个作用。但他对这个观点的版本有些不同，因为他认为我们以普拉托主义方式构建的经验理论的句子，或者至少是这些句子的典型表述，实际上是真实的，因为它们的真实内容是名义主义的。举一个简单的例子，考虑以下句子
+
+(M) 火星的卫星数量为 2 个。
+
+根据 Yablo 的观点，像(M)这样的句子的典型表达类似于普通的比喻语言，例如像句子
+
+(A) 平均每位妈妈有 2.4 个孩子。
+
+（A）的句法形式似乎暗示着它是关于一个名为“平均妈妈”的实际对象；但是，当然，它并不是——如果以这种方式阅读它，就会误解人们在发出类似（A）的句子时的意思。同样地，根据Yablo的观点，虽然（M）似乎在部分地声称关于一个名为2的实际对象，但实际上并非如此。实际上，（M）的真正内容——也就是这个句子的典型表达实际上在说的是火星有两个卫星。当然，这个说法——也就是火星有两个卫星的说法——并不是关于数字2或任何其他抽象对象的说法；它是名义主义上合理的。总之，这里的观点是，关于纯数学的虚构主义者可以支持对混合数学句子进行释义名义主义的观点。
+
+（值得注意的是，雅布洛似乎也认为，至少有时候，纯数学句子具有真实内容——即真正地陈述了某些名义主义和真实的事情。例如，他认为，至少有时候，像“3 + 2 = 5”这样的句子陈述了这样的事情：如果有三个 F 和两个 G，那么（除了重叠）就有五个 F 或 G。此外，有时候，雅布洛似乎至少暗示了这样的观点：当我们说出像“3 是质数”这样的句子时，我们真正说的是“3 是质数”根据算术的理论（或故事，或游戏）是真实或可接受的。然而，雅布洛对这个想法有多认真还不清楚；无论如何，似乎很明显，如果他完全支持这个想法，他认为它只在某些情境下是真实的，即只适用于某些纯数学的陈述。然而，无论雅布洛的观点是什么，重要的是要注意，这种一般性观点——即认为纯数学句子具有真实内容或真正陈述某些名义主义和真实的事情——根本不是虚构主义的版本，正如本文所定义的那样。它们实际上是解释名义主义的版本，因此它们受到第 1.2 节中对该观点的论证的影响。我们将在第 2.3 节（非常简要地）回到雅布洛的观点是否真正是虚构主义的问题上。）
+
+有关类似雅布洛观点的更多信息，请参见 Plebani（2018）和 Berto 和 Plebani（2015）。
+
+值得注意的是，支持易路名义主义的人并不是因为它“更容易”或者因为它不涉及对我们的经验理论可以被名义化的有争议的主张而更喜欢他们的观点。梅利亚、雅布洛和巴拉格尔都认为，这种观点在独立上优于菲尔德的观点，因为它更符合实际的科学实践。
+
+值得注意的是，对于奎因-普特南论证的简易反驳，也有一些不支持虚构主义的人提出了观点，例如 Sober（1993）、Maddy（1995 年，1997 年）、Mortensen（1998 年）和 Azzouni（2004 年）。
+
+Colyvan（2002 年，2010 年）和 Baker（2005 年，2009 年）对于简易反驳观点提出了回应。他们认为数学在科学中不仅起到描述性的作用，还起到解释性的作用。例如，Baker 考虑了涉及各种周期性蝉的例子，其中幼虫期要么是 13 年，要么是 17 年。为什么幼虫期是 13 年或 17 年？根据进化生物学家的说法，答案是 13 和 17 是质数，这样可以最大程度地减少与其他周期性物种的交叉。Colyvan 和 Baker 认为，像这样的情况——数学对象在解释物理现象中起到不可或缺的作用的情况——为我们提供了一个更好、更强大的不可或缺性论证版本。实际上，他们认为，如果确实存在涉及真正的数学解释物理现象的情况，那么简易反虚构主义的观点就无法成功。但这个观点还有待讨论，对于这些解释性版本的不可或缺性论证已经有了 Melia（2002 年）、Leng（2005b）、Bangu（2008 年）、Daly 和 Langford（2009 年）以及 Yablo（2012 年）的回应。
+
+### 2.2 客观性
+
+虚构主义面临的第二个反对意见基于这样一种观点：虚构主义者无法解释数学的客观性。数学实践中存在某种客观性是显而易见的事实。在数学中，像“2 + 2 = 4”和“3 是质数”这样的句子与“2 + 2 = 5”和“3 是合数”这样的句子之间存在重要区别。显然，前两个句子在某种意义上是“正确的”、“对的”或者“好的”。最明显的说法是前两个句子是真实的，而后两个句子是虚假的。但是虚构主义者不能这样说；他们坚持认为这四个句子都是不真实的。因此，问题是虚构主义者是否有关于数学客观性的充分解释——即这两种句子之间的差异。
+
+再次，虚构主义者对这个问题给出了两种不同的回应。这两种回应给出了虚构主义的两个版本，为了缺乏更好的术语，可以称之为形式主义虚构主义和非形式主义虚构主义。
+
+形式主义观点由菲尔德（1980年，1989年，1998年）发展起来。在他的观点中，“3是质数”和“3是合数”的区别类似于“圣诞老人穿红色衣服”和“圣诞老人穿绿色衣服”的区别。更具体地说，菲尔德的观点是，像“3是质数”和“3是合数”这样的句子之间的区别在于前者（而不是后者）是某个众所周知的“故事”的一部分，即数学的故事。菲尔德通过说，虽然“3是质数”和“3是合数”都是严格不真实的，但前者在数学的故事中是真实的，而后者不是。现在，菲尔德的大部分观点与形式主义虚构主义和非形式主义虚构主义都是一致的。这两种观点的区别在于虚构主义者认为数学的故事包含什么。对于菲尔德来说，数学的故事本质上包含一堆形式系统，即我们目前接受的那些系统。更确切地说，他说（1998年，第391页），如果一个数学句子在虚构主义意义上是正确的，那么它就是“从被接受的公理中推导出来的后果……这种后果的逻辑包括量词‘只有有限多个’的逻辑”。因此，在这个观点中，“3是质数”和“3是合数”之间的区别——前者“正确”而后者不正确的原因在于前者是从被接受的数学公理中推导出来的。（这个观点也得到了莱恩（2010年）的支持；她说数学的可接受性归结为是否从被接受的公理中推导出来。）
+
+Balaguer（2001, 2009）认为Field的形式主义观点是错误的，并提出了一个非形式主义的替代方案。他反对形式主义观点的论据是，它无法解释数学中的所有客观性。最重要的是，形式主义观点错误地认为，在当前被接受的数学理论中，对于那些在数学上不可判定的数学句子的真值问题，不能有客观上正确的答案。这里最著名的例子可能是连续统假设（CH），它在当前被接受的集合论中是不可判定的，例如，策梅洛-弗兰克尔集合论（ZF）。（换句话说，ZF既与CH一致，也与\~CH一致；即，ZF+CH和ZF+~~CH都是一致的集合论。）基于这一点，根据Field的观点，CH和~~CH都不是数学故事的一部分，因此，CH问题没有客观上正确的答案。然而，这似乎是不可接受的，因为可能会发现数学家们对CH问题有一个客观上正确的答案。例如，假设某个数学家提出了一个新的公理候选项AX，使得（i）所有数学家都同意AX是关于集合的直观明显的主张，且（ii）ZF+AX蕴含CH。如果发生了这种情况，那么数学家们会说他们已经证明了CH，并且发现了CH是正确的，等等。Field的观点将迫使我们说，如果我们支持AX，那么CH将在数学故事中成为真实的。但这似乎是错误的。鉴于AX的直观明显性，似乎很自然地说，在这种情况下，数学家们发现CH一直是真实的（或者说“正确的”，或者在数学故事中是真实的，或者无论我们想如何称呼它）——也就是说，我们不仅仅是通过支持一个新的理论而虚构出来的。而且，似乎这正是数学家们会说的。 所以，巴拉格尔认为，菲尔德对数学客观性的形式主义观点是不可接受的。
+
+巴拉格尔的非形式主义版本的虚构主义保留了菲尔德的论点，即数学的“正确性”与在数学故事中的真实性有关，但它放弃了菲尔德的观点，即数学故事包括当前被接受的公理。根据巴拉格尔的观点，所谓的“数学故事”包括这样一个论点，即实际上存在着抽象的数学对象，这些对象是形而上学家所考虑的那种对象，即我们的数学理论所涉及的对象。因此，在这种观点下，数学命题在虚构主义意义上是正确的，当且仅当如果实际上存在着形而上学家所考虑的那种抽象的数学对象，那么这个命题就是真的。巴拉格尔认为，如果虚构主义者采纳这种观点，他们就可以避免上述菲尔德观点的问题，更一般地说，他们可以完全解决客观性问题，因为他们可以模仿形而上学家关于客观性的所有说法。
+
+### 2.3 革命主义和解释主义
+
+对虚构主义的另一个反对意见是由伯吉斯（2004 年）提出的——需要注意的是，这里的论证根源于伯吉斯（1983 年）和伯吉斯与罗森（1997 年）。这个论证可以这样表述：
+
+虚构主义者面临一个两难境地：他们必须支持解释性虚构主义或革命性虚构主义，但两者都不可行。我们可以将解释性虚构主义定义为这样一种观点：数学家（也许是普通人）打算将他们的数学言论视为一种虚构形式；更具体地说，这里的观点是，根据普通的数学意图，像“3”这样的特指术语不应该被认为是指代的，像“3 是质数”这样的句子不应该被认为是真实的。但解释性虚构主义是不可信和无动机的；作为关于数学家意图的经验假设，根本没有充分的证据支持它，而且它似乎显然是错误的。另一方面，革命性虚构主义是这样一种观点：（a）数学家并不打算将他们的话语视为虚构，或以任何其他方式非字面地解释；因此（b）我们应该将数学家解释为真正断言他们的句子所说的内容，即作出关于（或自称关于）数学对象的断言；但是（c）由于数学对象并不存在，数学家的断言只是不真实的主张。但革命性虚构主义也是不可信的；鉴于哲学家和数学家的成就记录，对数学问题进行发现的假设对哲学家来说将是“滑稽的自负”（伯吉斯，2004 年，第 30 页）。
+
+没有人曾经为解释虚构主义辩护，正如上文所定义的那样。Yablo（2002a）声称他的观点是解释虚构主义的一种版本，Plebani（2018）也以这种方式跟随他的说法，但这些哲学家所指的观点与上文所描述的解释虚构主义观点有些不同。Yablo并不声称数学家们故意将类似“3是质数”这样的句子解释为虚构主张。相反，他认为这些表达（至少有时候，或者可能是典型情况下）类似于普通的比喻语言，例如“后灶是你放东西炖的地方”。这个句子包含一个特指术语——“后灶”，在句法上似乎是一个指称表达式；但实际上它并不是一个真正的指称表达式（至少在典型情况下），将其解释为上述句子中的真正指称表达式将会严重误解典型说话者的意图。Yablo认为，类似的情况也适用于（纯粹和混合的）数学句子的典型表达，例如“3是质数”和“火星的卫星数量是2”。因此，Yablo确实提出了一种解释名义主义观点，但他的观点是否最好被视为一种解释虚构主义并不清楚。正如上文所指出的（第2.1节），这种观点可能更适合被归类为一种释义名义主义。Yablo将他的观点称为“形象主义”，并且他谈论它时似乎将其视为一种虚构主义的版本。但他似乎在使用“虚构主义”一词时与本文所定义的含义不同。他可能指的是这样一种情况：从字面上理解，数学句子是不真实的，就像虚构主义所说的那样，但也有一种替代理解，使得它们成为真实的（并且符合名义主义的要求）。 但是，将 Yablo 的观点视为虚构主义的一个版本的尴尬之处在于，他似乎认为（纯粹的和混合的）数学句子真正表达的内容，或者更准确地说，这些句子的典型表达所表达的内容是真实的和名义主义的。这听起来更像是解释名义主义而不是虚构主义。
+
+Stanley（2001）对解释虚构主义提出了几个论证。Yablo（2002a）和 Liggins（2010）对他的论证进行了回应。
+
+与 Yablo 相比，Leng（2005a，2010），Daly（2006）和 Balaguer（2009）通过捍卫革命虚构主义来回应 Burgess 的论证。Leng 对这一回应的版本基于这样的主张：哲学家有权评估和批评数学家的工作是可以接受的。当然，Leng 承认数学是一种非常成功的实践，哲学家必须尊重这一点，但她的观点是，我们可以解释数学的成功，而不必假设它是真实的。基于这一观点，她主张我们可以从哲学的角度从外部对数学实践进行理性评估和批评。
+
+但是还有另一种不涉及对数学的任何批评的革命性虚构主义。如上所述，革命性虚构主义只是一种观点，即（i）我们应该将数学家的陈述解释为他们的句子所说的，以便（ii）他们的话语是关于抽象对象的不真实的主张。但是，这并不意味着数学有什么问题，值得批评。这表明“革命性虚构主义”不是一个很好的观点名称。“断言性虚构主义”将是一个更好的名称。如果我们这样说，那么我们可以说有革命性和非革命性的断言性虚构主义。革命性断言性虚构主义者会说，我们应该改变我们在数学中的做法，使我们不再提出不真实的主张；例如，我们应该开始打算将我们的数学主张视为虚构，或者我们应该开始使用我们的数学句子来表示如果-那些人认为它们的意思，或者类似的事情。另一方面，非革命性断言性虚构主义者会说，数学没有问题，因为它目前的实践；他们会承认像“4 是偶数”这样的数学句子不是真实的；但他们会坚持认为这没有问题，因为数学的优点不在于真实性，而在于数学故事中的真实性，或者类似的事情。
+
+Field 似乎支持这种非革命主义附近的观点。在讨论伯吉斯在《没有数字的科学》第二版前言中的论证时，他说：“在我看来，这是一个错误的二分法。我当然不认为我所提供的解释是‘解释学的’，但它也不是‘革命性的’：相反，我认为我所做的是提供一个解释，解释为什么普通的数学实践是完全正常的。”（Field，2016，第 4 页）。
+
+最后，巴拉格尔（2009）认为，虚构主义者有办法避免解释主义和断言主义，因此他们可能能够完全避免伯吉斯的困境。此外，菲尔德（2016）似乎也支持这种观点。但阿莫尔-加布（2011）认为，巴拉格尔在这里提出的（非解释主义，非断言主义）虚构主义版本是站不住脚的。
+
+### 2.4 与虚构相似
+
+一些人，例如卡茨（1998），托马斯（2000 和 2002），霍夫曼（2004），伯吉斯（2004）和托马森（2013），反对虚构主义，理由是数学和虚构之间存在明显的不相似之处。（在不同版本的反对意见中，不相似之处具体是什么不同。例如，卡茨认为一致性是数学中的重要好处标准，但在虚构中不是。而伯吉斯认为数学对象是否存在的问题在经验上没有意义，而我们虚构故事中的（非抽象）对象是否存在的问题在经验上是有意义的。）
+
+虚构主义者对这个反对意见的一种回应方式是声称它根本不相关，因为虚构主义并不涉及这样一种主张：数学和虚构之间不存在重要的不相似之处。如上所定义，虚构主义是这样一种观点：（a）我们的数学句子和理论确实意味着它们是关于抽象数学对象的，正如形而上学所建议的那样，但是（b）并不存在抽象对象，因此（c）我们的数学理论并不是真实的。这里根本没有关于虚构话语的主张，因此虚构主义者可以简单地否认他们的观点意味着数学和虚构之间不存在重要的不相似之处。
+
+现在，这并不意味着虚构主义者不能声称数学和虚构之间存在一些相关的类比。他们当然可以声称存在这样的类比；例如，他们可能想说，就像在数学中一样，不存在虚构对象，因此典型的虚构句子并不是字面上的真实。但是通过提出这样的主张，虚构主义者并不承诺任何关于数学和虚构之间类比的更强的主张，例如，数学话语是一种虚构话语的主张，他们当然也不承诺数学和虚构之间不存在重要的不相似之处。简而言之，虚构主义与数学和虚构之间存在许多重要的不相似之处的主张是完全一致的。
+
+最后，值得注意的是，有一些虚构主义者似乎确实想要对数学和虚构之间的类比提出一些更强的主张。这样的人可能需要更认真地对待上述类型的反对意见。但是，在本文中讨论的虚构主义者中，没有人支持这种强烈主张；特别是，他们中没有人说任何暗示数学和虚构之间没有重要的不类比的话。另一方面，值得注意的是，Yablo 和 Bueno 在这方面提出了一些超出虚构主义者需要说的主张。例如，Bueno（2009）说数学对象与虚构人物相似，因为它们是抽象的人造物品（在这一点上，他遵循 Thomasson（1999）对虚构人物的观点）。而 Yablo 则对他认为数学话语与隐喻话语或比喻话语之间存在的类比提出了一些相对强烈的主张。因此，Yablo 的特定版本的虚构主义容易受到关于数学话语实际上与隐喻话语不相似或不类比的反对意见。Stanley（2001）提出了一些这种类型的反对意见，而 Yablo 在他的（2002a）中对此进行了回应。但是，由于 Yablo 并没有声称数学话语类似于虚构话语，因此他不必回应本小节开头提到的那种反对意见。
+
+### 2.5 接受和相信
+
+如在 2.2 节中明确的那样，虚构主义者认为像“2 + 2 = 4”这样的句子严格来说是错误的，但他们仍然认为它们在某种意义上是“正确”的。那么，虚构主义者对这些句子的态度是什么？根据 Bas van Fraassen（1980）的观点，他在对经验科学持类似观点时，标准的虚构主义者观点是他们接受像“2 + 2 = 4”这样的句子，但并不相信它们。关于如何准确定义接受的方式存在一些争议，但在这里一个明显的方法是声称虚构主义者只有在相信数学故事中的一个纯数学句子 S 是真实的时候才接受它。
+
+一些人反对信念和接受之间的区别。Horwich（1991）、O'Leary-Hawthorne（1997）和 Burgess 和 Rosen（1997）提出了这样的论点，即接受和信念之间没有真正的区别，因为大致上，（a）相信某事只是倾向于以某种方式行为，而（b）那些相信 2 + 2 = 4 和那些据称只接受 2 + 2 = 4 的人可能倾向于以完全相同的方式行为。
+
+Daly（2008）和 Leng（2010）对这个论点提供了许多回应。Daly 提出的一个观点是，虚构主义者实际上并不倾向于像形而上学者那样以相同的方式行为。他们在回答像“数字是否实际存在？”这样的问题时的行为倾向非常不同。
+
+### 2.6 神秘的额外内容
+
+Thomasson（2013）对 Yablo 的虚构主义的具体版本提出了异议。正如我们在上面看到的，Yablo（2005，2002a，2002b）区分了像
+
+（M）火星的卫星数量是 2 这样的句子的字面内容和真实内容。
+
+Thomasson 认为 Yablo 致力于主张(M)这样的句子的字面内容的真实性需要比这些句子的实际内容的真实性需要更多的东西。但是这个额外的东西可能是什么呢？根据 Thomasson 的说法，这是模糊的，除非 Yablo 能对此多说一些，否则我们不应该接受他的观点。
+
+对此的一个回应是由 Contessa（2016 年，第 771 页）提出的，即需要更多的是显而易见的；需要的是“独立于心灵、非时空定位、因果惰性的抽象对象”。
+
+Plebani（2018 年）给出了不同的回应。他认为，无论 Yablo 虚构主义者能否明确表达(M)这样的句子的两个不同的真实条件，这些句子的实际和字面内容之间可以区分开来，因为它们有不同的主题。
+
+### 2.7 其他反对意见
+
+当然，对于虚构主义还有其他的反对意见。其中最广泛讨论的可能是基于这样一种观点：虚构主义并不是一种真正的名义主义观点，因为虚构主义的表述本身就包含了涉及抽象对象的本体论承诺。然而，在这里很难对这个反对意见进行详细讨论，因为它在与每个不同版本的虚构主义相关时都采取了不同的形式，而且正如前面的讨论所表明的，虚构主义有许多不同的版本（例如，可以支持困难路虚构主义或容易路虚构主义；这两种观点都可以与形式主义虚构主义或非形式主义虚构主义相结合；而且这些观点中的任何一个都可以与解释虚构主义或革命性断言虚构主义或非革命性断言虚构主义相结合；等等）。然而，值得注意的是，虚构主义的几位不同辩护者已经对他们自己特定版本的虚构主义的名义主义地位的担忧做出了回应。特别是，菲尔德（1989）为他的虚构主义版本辩护，反驳了它承认了时空点的存在的指责，而这些时空点可能不符合名义主义的原则；巴拉格尔（1998a）为他的版本辩护，反驳了它（以及菲尔德的版本）承认了故事的存在的指责，而如果故事存在的话，它们可能是抽象对象；最后，罗森（2001）为他的观点辩护，反驳了它承认了理论和可能世界的存在的指责。巴拉格尔和罗森都关注虚构主义者承认了句子类型的存在的担忧，而这些句子类型可能是抽象对象。戴利在他的（2008）中提出了这种担忧的一个版本，并对巴拉格尔对这种担忧的回应提供了反驳。他还对罗森早期在他的（1990）中提出的回应提供了反驳。
+
+对虚构主义（或者更准确地说，对易路虚构主义）的另一个反对意见是由 Szabo（2001）提出的。设 S 是一个数学句子，比如“4 是偶数”。Szabo 认为，如果他们否认 S 是真的，但继续以与形而上学家使用它几乎无法区分的方式使用它，那么他们实际上就承认了像“4 是偶数，但我不相信它”这样的说法——根据 Szabo 的说法，这会让他们在与摩尔悖论有关的问题上陷入困境。
+
+最后，Chihara（2010）对 Field 和 Balaguer 的虚构主义观点提出了异议。
+
+## 3. 结论
+
+有几个不同的反对虚构主义的观点，但虚构主义者对所有这些观点都有回应，并且并不明显有任何一个观点成功地驳斥了虚构主义。因此，目前至少初步可行的假设是虚构主义是可以被辩护的。另一方面，如果第1节的论述是正确的，那么虚构主义者没有一个令人信服的正面论证来支持他们的观点。第1.2-1.4节的论证表明，有充分的理由拒绝各种反对形而上学的虚构主义替代方案，因此认为形而上学和虚构主义是数学的两种最佳观点，但似乎没有任何理由支持虚构主义优于形而上学或反之亦然。现在，大多数虚构主义者可能会说，甚至有些人已经说过（例如，Leng，2010），这种情况本身就已经给了我们一个支持虚构主义优于形而上学的充分理由。因为如果我们接受没有好的正面论证支持形而上学的主张，并将其与奥卡姆剃刀原则相结合（即告诉我们如果两个理论解释了所有相同的事实，那么其他条件相同，我们应该支持两者中更为本体论简约的那个），那么我们似乎会得出虚构主义优于形而上学的结论。然而，值得注意的是，至少有两位上述虚构主义辩护者明确拒绝了这个论证。Rosen（例如，Burgess和Rosen，1997）怀疑是否有任何充分的理由接受奥卡姆剃刀原则，而Balaguer（1998a）则认为即使我们接受它，在当前情况下也有理由认为它不适用。因此，Rosen和Balaguer都认为，目前我们没有任何充分的理由支持形而上学或虚构主义。此外，正如第1节中所指出的那样。3，布埃诺（2009）认为虚构主义者对于抽象对象的存在应该持不可知论态度；这似乎与罗森的观点更或多或少相等；巴拉格尔的观点有些不同，因为他实际上认为是否存在抽象对象并没有确切的事实。
+
+## Bibliography
+
+* Armour-Garb, B., 2011, “Understanding Mathematical Fictionalism,” _Philosophia Mathematica_, 19: 335–44.
+* Arnzenius, F. and C. Dorr, 2012, “Calculus as Geometry,” in _Space, Time, and Stuff_, F. Arntzenius, Oxford: Oxford University Press, pp. 213–78.
+* Azzouni, J., 1994, _Metaphysical Myths, Mathematical Practice_, Cambridge: Cambridge University Press.
+* –––, 2004, _Deflating Existential Consequence: A Case for Nominalism_, Oxford: Oxford University Press.
+* –––, 2010, _Talking About Nothing: Numbers, Hallucinations, and Fictions_, Oxford: Oxford University Press.
+* Baker, A., 2005, “Are There Genuine Mathematical Explanations of Physical Phenomena?,” _Mind_, 114: 223–38.
+* –––, 2009, “Mathematical Explanation in Science,” _British Journal for the Philosophy of Science_, 60: 611–633.
+* Balaguer, M., 1995, “A Platonist Epistemology,” _Synthese_, 103: 303–25.
+* –––, 1996a, “A Fictionalist Account of the Indispensable Applications of Mathematics,” _Philosophical Studies_, 83: 291–314.
+* –––, 1996b, “Towards a Nominalization of Quantum Mechanics,” _Mind_, 105: 209–26.
+* –––, 1998a, _Platonism and Anti-Platonism in Mathematics_, Oxford: Oxford University Press.
+* –––, 1998b, “Attitudes Without Propositions,” _Philosophy and Phenomenological Research_, 58: 805–26.
+* –––, 2001, “A Theory of Mathematical Correctness and Mathematical Truth,” _Pacific Philosophical Quarterly_, 82: 87–114.
+* –––, 2009, “Fictionalism, Theft, and the Story of Mathematics,” _Philosophia Mathematica_, 17: 131–62.
+* Bangu, S., 2008, “Inference to the Best Explanation and Mathematical Realism,” _Synthese_, 160: 13–20.
+* Benacerraf, P., 1965, “What Numbers Could Not Be,” reprinted in Benacerraf and Putnam (1983), pp. 272–94.
+* –––, 1973, “Mathematical Truth,” _Journal of Philosophy_, 70: 661–79.
+* Benacerraf, P. and Putnam, H. (eds.), 1983, _Philosophy of Mathematics_, Cambridge: Cambridge University Press.
+* Berto, F. and M. Plebani, 2015, _Ontology and Metaontology: A Contemporary Guide_, London: Bloomsbury Academic.
+* Brouwer, L.E.J., 1912, “Intuitionism and Formalism,” reprinted in Benacerraf and Putnam (1983), 77–89.
+* –––, 1948, “Consciousness, Philosophy, and Mathematics,” reprinted in Benacerraf and Putnam (1983), 90–96.
+* Bueno, O., 2003, “Is It Possible to Nominalize Quantum Mechanics?,” _Philosophy of Science_, 70: 1424–36.
+* –––, 2005, “Dirac and the Dispensability of Mathematics,” _Studies in History and Philosophy of Modern Physics_, 36: 465–90.
+* –––, 2009, “Mathematical Fictionalism,” in _New Waves in Philosophy of Mathematics_, O. Bueno and Ø. Linnebo (eds.), Hampshire: Palgrave Macmillan, pp. 59–79.
+* Burgess, J., 1983, “Why I am Not a Nominalist,” _Notre Dame Journal of Formal Logic_, 24: 93–105.
+* –––, 2004, “Mathematics and Bleak House,” _Philosophia Mathematica_, 12: 18–36.
+* Burgess, J. and G. Rosen, 1997, _A Subject With No Object_, New York: Oxford University Press.
+* Chihara, C., 1990, _Constructibility and Mathematical Existence_, Oxford: Oxford University Press.
+* –––, 2004, _A Structuralist Account of Mathematics_, Oxford: Oxford University Press.
+* –––, 2010, “New Directions for Nominalist Philosophers of Mathematics,” _Synthese_, 176: 153–75.
+* Cole, J., 2009, “Creativity, Freedom, and Authority: A New Perspective on the Metaphysics of Mathematics,” _Australasian Journal of Philosophy_, 87: 589–608.
+* Colyvan, M., 2001, _The Indispensability of Mathematics_, New York: Oxford University Press.
+* –––, 2002, “Mathematics and Aesthetic Considerations in Science,” _Mind_, 111: 69–74.
+* –––, 2010, “There is No Easy Road to Nominalism,” _Mind_, 119: 285–306.
+* Contessa, G., 2016, “It Ain’t Easy: Fictionalism, Deflationism, and Easy Arguments in Ontology,” _Mind_, 125: 1057–73.
+* Corkum, P., 2012, “Aristotle on Mathematical Truth,” _British Journal for the History of Philosophy_, 20: 763–76.
+* Curry, H.B., 1951, _Outlines of a Formalist Philosophy of Mathematics_, Amsterdam: North-Holland.
+* Daly, C., 2006, “Mathematical Fictionalism—No Comedy of Errors,” _Analysis_, 66: 208–16.
+* –––, 2008, “Fictionalism and the Attitudes,” _Philosophical Studies_, 139: 423–40.
+* Daly, C. and S. Langford, 2009, “Mathematical Explanation and Indispensability Arguments,” _Philosophical Quarterly_, 59: 641–58.
+* Dorr, C., 2008, “There are No Abstract Objects,” in _Contemporary Debates in Metaphysics_, T. Sider, J. Hawthorne, and D. Zimmerman (eds.), Oxford: Blackwell Publishing, pp. 12–64.
+* Field, H., 1980, _Science Without Numbers_, Princeton, NJ: Princeton University Press.
+* –––, 1989, _Realism, Mathematics, and Modality_, New York: Basil Blackwell.
+* –––, 1998, “Mathematical Objectivity and Mathematical Objects,” in _Contemporary Readings in the Foundations of Metaphysics_, C. MacDonald and S. Laurence (eds.), Oxford: Basil Blackwell, pp. 387–403.
+* –––, 2016, _Science Without Numbers,_, Second Edition, Oxford: Oxford University Press.
+* Frege, G., 1884, _Der Grundlagen die Arithmetik_. Translated by J.L. Austin as _The Foundations of Arithmetic_, Oxford: Basil Blackwell, 1953.
+* –––, 1893–1903, _Grundgesetze der Arithmetik_. Translated (in part) by M. Furth as _The Basic Laws of Arithmetic_, Berkeley, CA: University of California Press, 1964.
+* –––, 1919, “The Thought: A Logical Inquiry,” reprinted in _Essays on Frege_, E.D. Klemke (ed.), Urbana, IL: University of Illinois Press, 1968, 507–35.
+* Gödel, K., 1964, “What is Cantor’s Continuum Problem?,” reprinted in Benacerraf and Putnam (1983), 470–85.
+* Hale, R., 1987, _Abstract Objects_, Oxford: Basil Blackwell.
+* Hellman, G., 1989, _Mathematics Without Numbers_, Oxford: Clarendon Press.
+* –––, 1998, “Maoist Mathematics?,” _Philosophia Mathematica_, 6: 334–45.
+* Heyting, A., 1956, _Intuitionism_, Amsterdam: North-Holland.
+* Hilbert, D., 1899, _Grundlagen der Geometrie_. Translated by E. Townsend as _Foundations of Geometry_, La Salle, IL: Open Court, 1959.
+* Hoffman, S., 2004, “Kitcher, Ideal Agents, and Fictionalism,” _Philosophia Mathematica_, 12: 3–17.
+* Hofweber, T., 2005, “Number Determiners, Numbers, and Arithmetic,” _The Philosophical Review_, 114: 179–225.
+* Horgan, T., 1984, “Science Nominalized,” _Philosophy of Science_, 51: 529–49.
+* Horwich, P., 1991, “On the Nature and Norms of Theoretical Commitment,” _Philosophy of Science_, 58: 1–14.
+* Husserl, E., 1891, _Philosophie der Arithmetik_, Leipzig: C.E.M. Pfeffer.
+* Katz, J., 1981, _Language and Other Abstract Objects_. Totowa, NJ: Rowman & Littlefield, and Oxford: Blackwell.
+* –––, 1998, _Realistic Rationalism_, Cambridge, MA: MIT Press.
+* Kitcher, P., 1984, _The Nature of Mathematical Knowledge_, Oxford: Oxford University Press.
+* Lear, J., 1982, “Aristotle’s Philosophy of Mathematics,” _The Philosophical Review_, 91: 161–92.
+* Leng, M., 2005a, “Revolutionary Fictionalism: A Call to Arms,” _Philosophia Mathematica_, 13: 277–93.
+* –––, 2005b, “Mathematical Explanation,” in _Mathematical Reasoning and Heuristics_, C. Cellucci and D. Gillies (eds.), London: King’s College Publications, pp. 167–89.
+* –––, 2010, _Mathematics and Reality_, Oxford: Oxford University Press.
+* Liggins, D., 2010, “The Autism Objection to Pretence Theory,” _Philosophical Quarterly_, 60: 764–82.
+* Linnebo, Ø., 2006, “Epistemological Challenges to Mathematical Platonism,” _Philosophical Studies_, 129: 545–74.
+* Linsky, B. and E. Zalta, “Naturalized Platonism and Platonized Naturalism,” _Journal of Philosophy_, 92: 525–55.
+* Liston, M., 2003–04, “Thin- and Full-Blooded Platonism,” _The Review of Modern Logic_, 9: 129–61.
+* Maddy, P., 1990, _Realism in Mathematics_, Oxford: Oxford University Press.
+* –––, 1995, “Naturalism and Ontology,” _Philosophia Mathematica_, 3: 248–70.
+* –––, 1997, _Naturalism in Mathematics_, Oxford: Clarendon Press.
+* Malament, D., 1982, _Review of Field, Science Without Numbers_, _Journal of Philosophy_, 79: 523–34.
+* Marcus, R., 2015, _Autonomy Platonism and the Indispensability Argument_, Lanham, MD: Rowman and Littlefield.
+* McEvoy, M., 2012, “Platonism and the ‘Epistemic Role Puzzle’,” _Philosophia Mathematica_, 20: 289–304.
+* Melia, J., 2000, “Weaseling Away the Indispensability Argument,” _Mind_, 109: 455–79.
+* –––, 2002, “Response to Colyvan,” _Mind_, 111: 75–79.
+* Moltmann, F., 2013, “Reference to Numbers in Natural Language,” _Philosophical Studies_, 162: 499–536.
+* Mortensen, C., 1998, “On the Possibility of Science Without Numbers,” _Australasian Journal of Philosophy_, 76: 182–97.
+* O’Leary-Hawthorne, J., 1994, “What Does van Fraassen’s Critique of Scientific Realism Show?,” _The Monist_, 77: 128–45.
+* Parsons, C., 1971, “Ontology and Mathematics,” _Philosophical Review_, 80: 151–76.
+* –––, 1990, “The Structuralist View of Mathematical Objects,” _Synthese_, 84: 303–46.
+* Plebani, M., 2018, “Fictionalism Versus Deflationism: A New Look,” _Philosophical Studies_, 175: 301–16.
+* Putnam, H., 1967a, “Mathematics Without Foundations,” reprinted in Benacerraf and Putnam (1983), 295–311.
+* –––, 1967b, “The Thesis that Mathematics is Logic,” in _Bertrand Russell, Philosopher of the Century_, R. Schoenman (ed.), London: Allen and Unwin.
+* –––, 1971, _Philosophy of Logic_, New York: Harper and Row.
+* Quine, W.V.O., 1948, “On What There Is,” reprinted in Quine (1961), 1–19.
+* –––, 1951, “Two Dogmas of Empiricism,” reprinted in Quine (1961), 20–46.
+* –––, 1961, _From a Logical Point of View_, 2nd ed., New York: Harper and Row.
+* Rayo, A., 2008, “On Specifying Truth Conditions,” _Philosophical Studies_, 47: 163–181.
+* –––, 2013, _The Construction of Logical Space_, Oxford: Oxford University Press.
+* Resnik, M., 1985, “How Nominalist is Hartry Field’s Nominalism?” _The Philosophical Review_, 117: 385–443.
+* –––, 1997, _Mathematics as a Science of Patterns_, Oxford: Oxford University Press.
+* Rosen, G., 1990, “Modal Fictionalism,” _Mind_, 99: 327–54.
+* –––, 2001, “Nominalism, Naturalism, Epistemic Relativism,” in _Philosophical Topics_, 15: 60–91.
+* Russell, B., 1912, _The Problems of Philosophy_. Reprinted 1959, Oxford: Oxford University Press.
+* Shapiro, S., 1983, “Conservativeness and Incompleteness,” _Journal of Philosophy_, 80: 521–31.
+* –––, 1997, _Philosophy of Mathematics: Structure and Ontology_, New York: Oxford University Press.
+* Sober, E., 1993, “Mathematics and Indispensability,” _The Philosophical Review_, 102: 35–57.
+* Stanley, J., 2001, “Hermeneutic Fictionalism,” _Midwest Studies in Philosophy_, 25(1): 36–71.
+* Steiner, M., 1975, _Mathematical Knowledge_, Ithaca, NY: Cornell University Press.
+* Szabo, Z., 2001, “Fictionalism and Moore’s Paradox,” _Canadian Journal of Philosophy_, 31: 293–307.
+* Thomas, R., 2000, “Mathematics and Fiction I: Identification,” _Logique et Analyse_, 43: 301–40.
+* –––, 2002, “Mathematics and Fiction II: Analogy,” _Logique et Analyse_, 45: 185–228.
+* Thomasson, A., 1999, _Fiction and Metaphysics_, Cambridge: Cambridge University Press.
+* –––, 2013, “Fictionalism Versus Deflationism,” _Mind_, 122: 1023–51.
+* van Fraassen, B., 1980, _The Scientific Image_, Oxford: Clarendon Press.
+* Walton, K., 1990, _Mimesis as Make-Believe_, Cambridge, MA: Harvard University Press.
+* Wittgenstein, L., 1956, _Remarks on the Foundations of Mathematics_, Oxford: Basil Blackwell.
+* Wright, C., 1983, _Frege’s Conception of Numbers as Objects_, Aberdeen, Scotland: Aberdeen University Press.
+* Yablo, S., 2002a, “Go Figure: A Path Through Fictionalism,” _Midwest Studies in Philosophy_, 25: 72–102.
+* –––, 2002b, “Abstract Objects: A Case Study,” _Noûs_, 36 (Supplementary Volume 1): 220–240.
+* –––, 2005, “The Myth of the Seven,” in _Fictionalism in Metaphysics_, M. Kalderon (ed.), New York: Oxford University Press, pp. 88–115.
+* –––, 2012, “Explanation, Extrapolation, and Existence,” _Mind_, 121: 1007–29.
+* –––, 2017, “If-Thenism,” _Australasian Philosophical Review_, 1: 115–33.
+* Yi, B., 2002, _Understanding the Many_, New York and London: Routledge.
+* Zalta, E., 1988, _Intensional Logic and the Metaphysics of Intentionality_, Cambridge, MA: Bradford/MIT Press.
+
+## Academic Tools
+
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=fictionalism-mathematics).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/fictionalism-mathematics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=fictionalism-mathematics\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/fictionalism-mathematics/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
+
+## Other Internet Resources
+
+\[Please contact the author with suggestions.]
+
+## Related Entries
+
+[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [fictionalism](https://plato.stanford.edu/entries/fictionalism/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [mathematics, philosophy of: indispensability arguments in the](https://plato.stanford.edu/entries/mathphil-indis/) | [mathematics, philosophy of: nominalism](https://plato.stanford.edu/entries/nominalism-mathematics/) | [mathematics, philosophy of: Platonism](https://plato.stanford.edu/entries/platonism-mathematics/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [Platonism: in metaphysics](https://plato.stanford.edu/entries/platonism/) | [psychologism](https://plato.stanford.edu/entries/psychologism/)
+
+[Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
+Mark Balaguer <[_mbalagu@calstatela.edu_](mailto:mbalagu%40calstatela%2eedu)>

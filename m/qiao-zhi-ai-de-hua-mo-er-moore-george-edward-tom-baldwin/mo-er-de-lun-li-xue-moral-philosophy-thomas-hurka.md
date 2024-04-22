@@ -1,0 +1,225 @@
+# 摩尔的伦理学 moral philosophy (Thomas Hurka)
+
+*首次发表于2005年1月26日，实质修订于2021年3月22日。*
+
+乔治·爱德华·摩尔的《伦理学原理》于 1903 年被认为是一部开创性的作品，为 20 世纪伦理学设定了新的议程。然而，这种历史观点有些夸大。在元伦理学中，摩尔的非自然主义现实主义与亨利·西奇威克和其他 19 世纪末的哲学家（如哈斯廷斯·拉什代尔、弗朗茨·布伦塔诺和 J.M.E.麦克塔加特）的观点非常接近；在规范伦理学中，他的理想后果主义也回应了拉什代尔、布伦塔诺和麦克塔加特的观点。但是，《伦理学原理》以非同寻常的力量和活力表达了自己的观点。特别是，它对元伦理学自然主义的所谓错误做出了更多的批评，比西奇威克或拉什代尔所做的批评更为严重，声称它们破坏了大多数先前的道德哲学。因此，摩尔的作品对 20 世纪道德哲学产生了不成比例的影响，并且仍然是一个广泛共享的元伦理观点的最著名表达，后来的作家如 H.A.普里查德、W.D.罗斯和 C.D.布罗德也持有这一观点。
+
+* [1. 非自然主义和开放问题论证](https://plato.stanford.edu/entries/moore-moral/#NonNatuOpenQuesArgu)
+* [2. 元伦理创新](https://plato.stanford.edu/entries/moore-moral/#MetaInno)
+* [3. 无我的后果主义](https://plato.stanford.edu/entries/moore-moral/#ImpeCons)
+* [ 4. 理想](https://plato.stanford.edu/entries/moore-moral/#Idea)
+* [ 5. 影响](https://plato.stanford.edu/entries/moore-moral/#Infl)
+* [ 参考文献](https://plato.stanford.edu/entries/moore-moral/#Bib)
+
+  * [ 主要来源](https://plato.stanford.edu/entries/moore-moral/#PrimSour)
+  * [ 次要来源](https://plato.stanford.edu/entries/moore-moral/#SecoSour)
+  * [ 特殊问题](https://plato.stanford.edu/entries/moore-moral/#SpecIssu)
+* [ 学术工具](https://plato.stanford.edu/entries/moore-moral/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/moore-moral/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/moore-moral/#Rel)
+
+---
+
+## 1. 非自然主义和开放问题论证
+
+摩尔的非自然主义包括两个主要命题。一是现实主义命题，即道德和更一般的规范判断 - 像他的许多同时代人一样，摩尔没有区分这两者 - 是客观地真实或虚假的，或者独立于我们可能持有的任何信念或态度。另一个是伦理学的自主性命题，即道德判断是独特的，既不能归约于非道德的，例如科学或形而上学的判断，也不能从中推导出来；它们表达了一种独特的客观真理。与他的非自然主义密切相关的是认识论观点，即我们对道德真理的认识是直观的，即它不是通过从非道德真理推理得出的，而是基于我们将某些道德命题视为自明的，通过一种直接或直观的洞察力。
+
+摩尔通过说基本的道德判断将善恶属性归于事态来表达他的非自然主义的现实主义一面，尽管在《伦理学原理》中他倾向于不区分道德概念和道德属性。像他那个时代的其他人一样，他似乎默认了道德判断在客观上是真实的；他当然没有详细地反对反现实主义的替代方案。因此，《伦理学原理》的第一句话随意地提到了一些伦理判断的“真实性”，并没有引起任何争议的感觉（1903年：1/1993年：53）。在这一点上，他无疑受到了道德判断的语法的影响，道德判断具有标准的主谓形式，如“x是好的”。但也可能与此相关的是，至少在早期，他似乎只知道主观主义的一种版本，即自然主义观点，即说“x是好的”是在报告一些心理事实，比如你赞同x或者你所在社会的大多数人赞同x。在他晚年的著作《伦理学》中，他主张，这种观点不允许道德分歧存在，因为例如，我报告我赞同x，而你报告你不赞同x，两者都可以是真实的（1912年：100-03/1947年：62-64/1965年：42-43）。在他生命的晚期，他遇到了C.L.史蒂文森的非认知情感主义，该理论认为道德判断表达而不是报告感受，因此可能会产生冲突（史蒂文森1942年）。他最初出人意料地承认，史蒂文森的反现实主义观点与他自己的观点一样有权利成为真实的（1942年：544-45），但不久后他又回到了他早期的非自然主义观点，说他无法想象是什么促使他考虑放弃它（尤因1962年：251）。
+
+特别是在《伦理学原理》中，摩尔花了更多的时间来捍卫他的其他非自然主义论点，即伦理学的自主性。他认为善的属性是简单且不可分析的，尤其是在非道德的术语中不可分析。这意味着该属性是“非自然的”，与科学研究的任何自然属性都不同，尽管他也认为它与形而上学属性不同。否认这一论点的观点被他称为“自然主义谬误”（1903年：10/1993年：62），他在享乐主义者（如杰里米·边沁）、进化伦理学家（如赫伯特·斯宾塞）和形而上伦理学家（如T.H.格林）中发现了这种谬误。他反对他们观点的主要论据是后来被称为“开放问题论证”的论证，尽管他实际上以两种稍微不同的方式陈述了这一论证。考虑一个特定的自然主义主张，比如“x是好的”等同于“x是愉快的”或“x是快乐的”。他争辩说，如果这个主张是真实的，那么判断“快乐是好的”将等同于“快乐是快乐”，然而肯定有人断言前者意味着表达的不仅仅是那个无信息的重言。或者，如果这个自然主义主张是真实的，“x是愉快的但x不是好的”将是自相矛盾的。一旦确定了x是愉快的，关于它是否是好的问题就会被关闭，或者不值得考虑，然而，他认为这个问题仍然是开放的。同样的论证可以针对任何其他自然主义提议：即使我们已经确定了某件事是我们所渴望的，或者更进化，关于它是否是好的问题仍然是开放的，也就是说，并没有被“好”这个词的意义所解决。我们可以问我们所渴望的是否是好的，对于更进化的事物也是如此，对于更统一的事物或其他任何事物也是如此（1903年：10-17/1993年：62-69）。 Sidgwick 曾经在对 Bentham 和 Spencer 的批评中使用了这个论证的一种形式，但只是顺便提及（1907: 26n, 109）；摩尔则更加详细地发展了这个论证，并将其作为他的元伦理学的核心。虽然他将其具体应用于“好”，但同样可以用于其他道德或规范概念，如“应该”和“责任”。”
+
+在20世纪的元伦理学中，开放问题论证得到了广泛讨论，并遭到了一些反对意见。其中一种观点认为，论证的说服力取决于“分析悖论”：任何一个概念的定义，如果成功的话，都会显得不具信息性。如果一个分析确实捕捉到了目标概念的所有内容，将两者联系起来的句子将成为一个重言式；但这并不足以拒绝所有的分析（Langford 1942）。对此，可以回答说，在其他情况下，接受一个定义会让我们意识到，一开始似乎具有信息性的句子实际上并不具有信息性；因此，“单身汉是未婚男子”并不具有信息性。然而，在“好”这个概念的情况下并非如此。即使我们同意只有快乐是好的，再多的思考也不会让我们认为“快乐是好的”等同于“快乐就是快乐”；罗斯就是这样回应的（1930年：92-94）。另一个反对意见从20世纪70年代开始，并且影响很大，它认为，虽然开放问题论证可能表明“好”这个概念与任何非道德概念是不同的，但它不能支持关于善的属性的类似结论。（回想一下，摩尔倾向于不区分概念和属性。）反对意见认为，经验科学揭示了许多非分析的属性同一性，例如，水的属性与H2O的属性是相同的，尽管“水”和“H2O”这两个概念是不同的。类似地，善的属性可能与愉快的属性相同，即使“好”和“愉快”有不同的意义（例如，Brink 1989：第6章）。因此，摩尔的错误在于认为对于概念“好”可能成立的东西也适用于善的属性。 然而，可以回答说，像是水这样的自然种类属性具有特殊特征，允许非分析的同一性，但道德属性如善良则不具备这样的特征，对于这些属性来说，这样的同一性是不可能的。更具体地说，可以争论说，水的属性是具有那种潜在结构的属性，无论是什么样的结构，它解释了湖泊、河流和溪流中的物质的行为；当这个结构被确定为H2O时，后者“填补了”前者的空缺，并使两者相同（Parfit 2011，卷2：298-303，329-38；也参见Gampel 1996）。但这种解释并不适用于善良的情况，善良并不是一个具有需要填补空缺的更高级别属性。善良并不是拥有任何其他发挥功能作用的属性；它只是善良。由此可见，如果善良在分析上与任何自然属性有所不同，那么在形而上学上也与之有所不同。
+
+然而值得注意的是，摩尔并没有像后来的许多非认知论者那样解释他的开放问题论证。这些非认知论者同样支持这个论证。他们遵循休谟的观点，认为道德判断本质上具有激励作用，因此真诚地接受“x 是好的”需要一种承诺或至少一些追求 x 的动机（例如哈尔 1952: 81–93; 哈尔 1963: 22–29）。但是，纯粹以自然术语解释“好”的分析是不可能成功的，因为它无法捕捉到该术语的行动指导力量；而且，如果前提中没有这种力量，就无法有效地推导出评价性的结论。无论这种休谟式解释的优点如何，摩尔本人并没有提出这个解释。关于道德判断是否具有内在的激励作用，他并没有明确表达自己的观点，也没有认为这个问题很重要。在《伦理学原理》中，他顺便提到我们“几乎从不”认为某件事是好的而没有对它持有某种意愿的态度，但他否认这是普遍真实的（1903: 131, 135–6/1993: 181–82, 186）。这是否普遍真实，以及如果是的话可能会导致什么，似乎不是他认为值得进一步考虑的事情。
+
+## 2. 元伦理学的创新
+
+摩尔的非自然主义的主要要素——道德现实主义和伦理的自主性——在摩尔撰写之前就已经由西奇威克和其他人进行了辩护，并且在当时是相当知名的。这在《伦理原理》最初的评论中得到了体现，其中许多评论质疑了它在元伦理学上的原创性（参见韦尔奇曼1989年）。但是摩尔确实增加了两个元伦理的创新。其中一个是他认为基本的道德概念是“好”（以及它的相反概念“坏”），他通过说善是简单且不可分析的，甚至在道德术语中也是如此来表达这一观点。这不是西奇威克的观点。对他来说，中心的道德概念是“应该”，他将好定义为应该，更具体地说，是应该渴望的东西（1907年：112）。《伦理原理》则持有完全相反的观点，将应该定义为好，因此“应该做x”字面上意味着“x将产生最大的好处”（1903年：25，146-48/1993年：76-77，196-98）。但是摩尔很快被伯特兰·罗素说服，认为这种观点容易受到他自己的开放问题论证的攻击，因为当我们说“应该做能产生最大好处的事情”时，我们并不是指“能产生最大好处的事情将产生最大好处”（罗素1904年：330）。在后来的作品中，例如《伦理学》，他因此认为应该是与好不同的道德属性（1912年：173，180-81/1947年：107-08，112-13/1965年：73，76-77；还有1942年：558-59），并且在计划中的《伦理原理》第二版未完成的序言中，他承认如果好是以道德术语来定义的，比如说，是应该渴望的东西，那么这不会影响他的非自然主义的本质（1993年：5，14-15）。但是他继续倾向于认为好是一个简单的概念，不能用义务术语来定义（1942年：574-77），在这个时期有关这个问题的激烈辩论，布伦塔诺、布罗德和A.C.尤因辩护类似于西奇威克的还原分析，而罗斯则更喜欢像摩尔的非还原观点。 在摩尔的观点中，关于事态良好与否的判断并不是关于我们应该如何或有理由如何对待这些事态的简写；它们是独立的判断，解释了为什么我们应该这样回应，这是从善的本质出发的综合性解释。
+
+摩尔的第二个创新是他的观点，即一个事态的内在价值只能取决于其内在属性，即与其他状态无关的属性。早期的作家区分了作为目标的善，他们也称之为内在或终极善，和作为手段的善，并且说前者不能仅仅基于一个状态在因果上产生对外部物品的好处。但他们似乎允许善作为目标可以依赖其他关系属性；因此，他们谈论的是，一个信念的真实性，这对于它的知识性是必要的，可以增加它的价值，而一个快乐的来源是一个坏人可以使它变得更糟。摩尔直到1922年的《内在价值的概念》中才明确陈述了他更为严格的观点，即内在善只能依赖于内在属性，但这个观点仍然指导了《伦理学原理》的两个方面。一个是该书对有机统一原则的具体表述，下文将讨论。另一个是通过“隔离法”的方法来测试一个状态的内在价值，这涉及到问一个只包含该状态而没有其他状态的宇宙是否是好的（1903年：91、93、95、187-88、208/1993年：142、145、147、236-37、256）；这种方法的目的正是通过确保没有这样的事实来使内在价值的判断与一个状态的外部关系隔离开来。摩尔的严格观点得到了一些后来的作家的共鸣，如罗斯（1930年：75），而其他人则认为，如果内在善可以依赖于一些关系属性，那么价值的更好理论将会产生（例如尤因1947年：114）。但摩尔是第一个明确提出这个问题的人。
+
+这两个创新虽然不是微不足道的，但并不影响非自然主义元伦理学的核心。然而，一些批评家指责摩尔从根本上改变了这种观点，而且是变得更糟。他们说，西奇威克的非自然主义相对谦逊，只认为我们可以通过反思了解到关于人们应该或有理由做什么的真理。然而，反对意见认为，摩尔用一个奢侈的非自然属性的形而上学来补充这种谦逊观点，这些属性存在于一个可疑的超感知领域，并且有一个神秘的直觉能力使我们熟悉它们。这些补充使非自然主义面临完全可以避免的批评，并且不幸地导致它被后来的哲学家广泛拒绝（例如，麦基1976年：323；沙弗2000年：263-265；菲利普斯2011年：29-30）。
+
+然而，这些指控很难维持。《伦理学原理》实际上淡化了其非自然主义的形而上学一面，称善有“存在”，但并不“实在”，就像数字一样，它们有存在，但并不存在；特别是，善并不存在于任何“超感觉的现实”中，因为没有这样的现实（1903年：110-12，123-25/1993年：161-63，174-76）。摩尔对这些主张的确切含义不清楚，但至少可以将它们解读为类似于纳格尔（1986年）、斯坎伦（1998年、2014年）和帕菲特（2011年，卷2：464-87）最近所辩护的非形而上学道德实在论。他明确谈论属性并没有与西奇威克有显著的分歧。这部分是因为他没有清楚区分概念和属性，部分是因为如果西奇威克认为人们应该追求快乐，他肯定会承认快乐具有人们应该追求的属性。问题是摩尔对善的属性在本体论上有多么强大，鉴于他否认这种善的存在，答案是不确定的。更形而上学和较少形而上学形式的非自然主义之间的区别并不是他明确讨论过的。
+
+摩尔在他的道德认识论中同样谦逊，多次表示，正如西奇威克也曾说过的那样，他所称之为我们对基本道德真理的认识是“直观的”，仅仅意味着它不是从其他知识中推导出来的；他同样否认道德直觉是绝对可靠的，称无论我们以何种方式认识到一个真命题，我们也能认识到一个假命题（1903年：viii. x/1993年：34, 36）。他有时会直截了当地断言自明性，比如在《伦理学原理》中他声称，最重要的内在善是审美欣赏和个人爱（1903年：188/1993年：237），或者在《伦理学》中声称，显而易见的是，正确的行为总是最有利于善（1912年：1809-81/1947年：112-13/1965年：76-77），一些批评家对此感到困扰。但是，与西奇威克等早期非自然主义者相比，这种直率并不是那么突出。可以说，西奇威克也最重视对抽象道德原则的直觉（1907年：379-84），包括与摩尔在《伦理学》中引用的原则相近的原则，并且只在针对对手的ad hominem论证中诉诸更具体的判断。而摩尔经常以更复杂的方式进行论证。在《伦理学原理》中，他通过对一个包含山脉、河流和日落的具体美丽世界的直觉进行辩护，来证明美本身是好的（1903年：83-85/1993年：135-36），并通过批评只有快乐是好的观点来证明它与我们相信的几个具体事物相冲突，比如存在不好的快乐（1903年：95/1993年：146-47），以及一个充满强烈快乐但虚幻经历的生活并不是最好的（1903年：197-98/1993年：246-47；参见1912年：52-53, 237-39/1947年：34, 146-47/1965年：22, 102）。 摩尔同样坚持，在我们对自证明进行判断之前，我们必须确保我们正在考虑的命题是清晰的（1903: viii/1993: 34）；他认为，未能这样做解释了伦理学中许多现有的分歧。他还注意到普遍的观点，以至于在发现相反观点时试图解释它们。总体而言，他建立道德真理的方法与西奇威克的方法非常接近，依靠可以在不同层次上进行的直觉判断，并且必须将其整合成一个连贯的整体，尽管主要强调抽象判断。这并不意味着他的非自然主义是无懈可击的。任何这样的观点都认为存在独立于自然和逻辑真理的真理，并且可以通过某种非经验的方式来认识，许多人认为这一对主张存在问题。但是，摩尔的观点版本可能并不比其他版本更容易受到反对。如果西奇威克的非自然主义不涉及有问题的形而上学和认识论，摩尔的也不涉及；如果摩尔的观点过于奢侈，那么西奇威克这样一个被认为更加谦逊的观点也是如此。
+
+摩尔的元伦理学的最后一个重要特征是其对规范概念的还原主义。与西奇威克一样，摩尔在《伦理学原理》中认为只有一个基本的规范概念，尽管他认为这个概念是好而不是应该；而像罗斯一样，后来的摩尔认为只有两个。但是这种概念还原主义与西奇威克、布罗德和尤因等人在整个时期中普遍存在的概念多样性形成了对比，后者在现代伦理学中被广泛承认。首先，摩尔和他的同时代人只将“薄”概念好和应该视为基本概念，而不是勇气和慷慨等“厚”道德概念；他们认为后者将薄概念与一些更或多或少确定的描述性内容相结合。他们对薄概念也进行了还原。他们没有区分道德应该和务实或理性应该，认为只有单一的道德应该；这就是为什么对他们来说利己主义是关于道德的观点，而不是来自道德领域之外的挑战。他们也没有承认不同类型的价值。对他们来说，善只是事物状态的属性，而不是某些康德主义者所认为的人和其他对象的属性。同样，他们也没有接受20世纪后期的观念，即存在一个独特的“幸福”概念，或者关于一个人“对他有益”的概念；相反，他们经常将一个人的好定义为仅仅是好，并且存在于他的生活中（例如，西奇威克1907年：112；摩尔1903年：98-99/1993年：150-51）。他们也没有区分道德和非道德的善，认为前者只是当某些对象（如品格特质）具有时的普通善（例如，罗斯1930年：155）。结果是，所有规范判断最多可以用“好”和“应该”这两个概念来表达，因此这两个概念是唯一需要的概念。 对于一些人来说，这个结论意味着摩尔和他的同时代人忽视了重要的概念区分；对于其他人来说，这意味着他们避免了无意义的概念争论。但这确实使他们能够讨论实质性的关于什么是实际上的善和正义的问题。在这个话题上，摩尔的观点虽然不完全新颖，但再次引人注目并且陈述得非常鲜明。
+
+## 3. 无人格后果主义
+
+摩尔的规范观点再次包括两个主要命题。一个是无人格后果主义，即正确的行为总是产生最大的总体利益，公正地考虑或平等计算所有的利益。另一个是理想主义或完美主义命题，即好的东西不仅或主要是快乐或满足欲望，而是某些状态，其价值独立于人们对它们的态度。摩尔承认了几种这样的状态，但在《伦理原理》中他著名地说：“迄今为止最有价值的东西……是某些意识状态，可以粗略地描述为人际交往的愉悦和美丽事物的享受”（1903 年：188/1993 年：237）。根据他的理想后果主义，正确的行为在很大程度上是最能促进所有人之间的爱情关系和对美的欣赏的行为。
+
+《伦理学原理》将这一观点的后果主义部分定义为分析真理，因为它将正确定义为最能促进善的行为。但是，一旦摩尔放弃了这个定义，他就不得不将后果主义原则视为综合性的，并在《伦理学》中这样做，该书允许说一些最大化善的行为是错误的的义务论观点是一致的。但即使在那里，他也没有详细论证后果主义，只是宣称它是不言而喻的（1912年：180-81/1947年：112-13/1965年：76-77）。这在一定程度上反映了他所处时代的普遍假设，当时大多数道德哲学家接受某种形式的后果主义。但这也可能与他似乎唯一考虑过的替代方案有关，即康德式的绝对义务论，它认为一些行为，如杀人和撒谎，无论后果如何都是错误的（1903年：106/1993年：157；1912年：175-81/1947年：109-13/1965年：74-77）。他的主要伦理著作没有考虑到罗斯（1930年）后来发展出的一种温和的义务论，其中对杀人和撒谎的义务禁止往往超过了善后果的考虑，但如果有足够的善处在危险中，这些禁止也可以被超越。摩尔对这种温和的义务论的回应尚不清楚。
+
+《伦理学原理》也认为其观点的公正主义是分析性的，并特别声称伦理或理性利己主义，即每个人只应追求自己的利益，是自相矛盾的。（尽管摩尔对个人爱情很感兴趣，但他从未考虑过布罗德（1971）所称的自我参照利他主义，即每个人应更关心亲近他的人，如家人和朋友的利益。）西奇威克声称，如果理性利己主义者仅限于说每个人的快乐对他来说是好的，或从他的角度来看，他无法被争论说服（1907：420-21）。但是摩尔认为，在这里所引用的相对于行动者的善的概念是无法理解的（1903：97-102/1993：148-53），并且这个结论确实符合他的观点，即善是简单且不可分析的。如果善是一个简单的属性，那么像A的快乐这样的状态如何可以“从一个角度”具有这个属性，但“从另一个角度”却没有呢？（比较方形。一个物体不能从一个角度看是方形，而从另一个角度看不是方形；它要么是方形，要么不是。）他强调，所有关于一个人的好的讨论只能指出那个人身上的简单好和所在之处；而简单的善给每个人同样的理由去追求它。在《伦理学》中，摩尔放弃了这个论证，说利己主义不能被任何论证证明为假，尽管他认为它的虚假是不言自明的（1912：228-32/1947：141-43/1965：98-100）。但是，如果他仍然坚持善是一个简单的属性，那么他如何能做出这个让步呢，这是不清楚的。也许他是默认地允许，正如他在未完成的《伦理学原理》序言草稿中所做的（1993：5，14-15），如果善被分析为应该的话，这不会对他的立场造成重大损害，就像西奇威克所做的那样。 在说每个人应该追求不同的东西时，并不存在矛盾，比如只是他自己的快乐。但是，如果所有的应该都源于一个简单的善的属性，正如摩尔一直倾向于认为的那样，那么所有的应该都必须是公正的。
+
+在应用这个观点时，摩尔将其形式化为今天所称的“间接”或“两级”（Hare 1981）后果论。在决定如何行动时，我们不应该试图评估个别行为的具体后果；相反，我们应该遵循某些普遍的道德规则，比如“不要杀人”和“遵守承诺”，这些规则是这样的，遵守它们将最大程度地促进长期的利益。这种策略有时会导致我们不去做最好的个别结果的行为，但考虑到我们普遍的错误倾向，这种策略的后果在长期来看将比逐个评估行为要好；然而，无论出于多么善意的目的，后一种尝试都是适得其反的（1903年：149-70/1993年：198-219）。这种间接的后果论早在之前就得到了辩护，由西奇威克和约翰·斯图尔特·穆勒，但摩尔给了它一个非常保守的形式，敦促我们坚持规则，即使面对明显有说服力的证据表明现在打破它们将是最优的。《原理伦理学》提出了一个令人惊讶的主张，即相关规则在任何公认的善的理论下都是相同的，例如，在快乐主义或摩尔自己的理想理论下（1903年：158/1993年：207）。不同后果论观点的这种外延等价主张并不新鲜；T.H.格林、F.H.布拉德利和麦克塔格特都曾暗示快乐主义和理想后果论具有类似的实际影响。但是，当摩尔在《伦理学》中怀疑快乐和理想价值总是一致时（1912年：234-39/1947年：144-47/1965年：100-02），他无疑表达了更有道理的观点，即即使接受了等价主张，他仍然对他所称的“关于什么是本质上好的主要伦理问题”（1903年：158、26、77/1993年：207、78、128）非常感兴趣。像格林、布拉德利和麦克塔格特一样，他认为中心哲学问题是解释为什么好事物是好的，即它们的哪些属性使它们成为好的。 那是他最杰出的伦理著作的主题，即《伦理学原理》第 6 章的“理想”。”
+
+## 4. 理想
+
+本章的一个更大目标之一是捍卫价值多元主义，即存在许多终极善的观点。摩尔认为，这种观点的一个障碍是自然主义谬误。他合理地假设，将善视为某种自然属性的哲学家通常会将其简化为一个简单属性，比如仅仅是快乐或者仅仅是进化适应度，而不是一个包含多个选择的属性，比如快乐-或-进化适应度-或-知识。但是，任何自然主义观点都会将我们推向价值一元主义，或者认为只有一种状态是好的（1903年：20；1993年：72）。然而，一旦我们拒绝自然主义，我们就可以看到摩尔认为是不言自明的：存在不可约的多种善。价值多元主义的另一个障碍是对伦理学中统一性或系统性的过度要求。西奇威克利用这些要求来论证只有快乐才能是好的，因为没有一种具有多种终极价值的理论能够为它们之间的权衡提供一个确定的方案（1907年：406）。但是，摩尔在这一点上与拉什达尔、罗斯和其他人一致，他说“为了追求‘统一’和‘系统’，而牺牲真理，我认为这不是哲学的正当任务”（1903年：222/1993年：270）。如果直觉揭示了多种终极善，一个充分的理论必须承认这种多样性。
+
+根据《伦理学原理》中的一个著名部分，其中一个好处就是美的存在。摩尔反驳了西奇威克的观点，即所有的好处都必须是意识状态（1907: 113–15），他要求读者想象一个没有思想的美丽世界：这个世界的存在难道不比一个丑陋的世界更好吗（1903: 83–85/1993: 135–36）？回答是肯定的，他预见了当今环境伦理学中的一些观点，同样认为自然环境的特征可以有价值，而不需要意识的参与。但他并没有坚持这个观点。在《伦理学原理》的后面，他说美本身最多只有很少的价值，甚至可能没有价值（1903: 202, 203/1993: 250, 251），在《伦理学》中，他暗示美本身没有价值。在那里，他像西奇威克一样认为所有内在的好处都涉及某种意识状态，甚至可能涉及快乐（1912: 239–41, 249/1947: 147–49, 153/1965: 103–04, 107）。但他的第一本书却捍卫了相反的观点。
+
+摩尔还对快乐和痛苦的快感状态给予了一些重视。他认为前者只是一个非常微小的好处，说快乐本身最多只有有限的价值，甚至可能没有价值，但他认为痛苦是一个非常大的邪恶，有责任严肃地防止（1903: 212–13, 222–23/1993: 260–61, 270–71）。因此，他的观点涉及到了价值的不对称性，痛苦比快乐更邪恶。这不是传统观点；大多数享乐主义者认为，同样强度的快乐和痛苦是一样好或一样邪恶的（例如西奇威克 1907: 413）。但摩尔认为痛苦更加令人直观地令人不快；如果这使得价值理论不够系统化，那么系统就更糟糕。
+
+虽然许多理想的后果主义者将知识视为本质上的善，有时甚至是至高无上的善，但《伦理学原理》并没有这样认为，它说知识是欣赏现有美好的更大善的必要组成部分，但本身几乎没有价值（1903年：199/1993年：248）。同样，《伦理学》可能已经改变了这种观点，多次提到知识作为一种理想的善，可以添加到享乐主义者的快乐善中（1912年：237、247/1947年：146、152/1965年：102、106）。但是摩尔从未认为任何成就本身具有内在价值，例如在商业或政治中，或者在任何积极改变世界的行动中。正如约翰·梅纳德·凯恩斯所说，他最重要的善是“与行动或成就或后果无关的心境。它们包括了与‘之前和之后’几乎没有关联的永恒、热情的沉思和交流状态”（凯恩斯1949年：83）。
+
+这些好处中的第一个是对美的欣赏，对于摩尔来说，这是将美的品质认知与适当的积极情感相结合，比如享受或钦佩。例如，我们听音乐，听到其中的美的品质，并对这些品质感到愉悦或钦佩。但这里的价值完全是沉思的；摩尔认为，浪漫主义者特别重视的积极创造美的价值是没有独立价值的。他可能会说，艺术家必须理解并热爱他的作品的美，如果他要创造它，甚至可能比仅仅欣赏它的人更多，但他的作品的价值仍然不是独特的创造性的。在描述这个好处时，摩尔进行了进一步的还原分析，这次是将美解释为“令人钦佩的沉思本身就是好的”（1903年：201-02/1993年：249-50）。因此，美也不是一个独立的规范概念，而是可以通过善的术语来分析。然而，他没有注意到，这个定义似乎再次使他面临一个开放问题的论证，因为它将欣赏美是好的这一主张还原为几乎是自我矛盾的命题，即欣赏什么是好的，欣赏什么是好的。
+
+尽管摩尔在《伦理学原理》中认为美是本身的善，但在评价美的欣赏时，他并没有坚持这个观点；即使前者不是善，后者也可能是善的。但他仍然认为美的存在对价值有重要影响。更具体地说，他认为实际存在并引起你欣赏的美的凝视比仅仅想象的美的凝视要好得多，而且好得多于仅仅美的存在所能归因的。这个观点涉及到他的“有机整体原则”的应用，这是他的主要贡献之一，该原则认为一个整体的价值不一定等于其各个部分单独拥有的价值之和（1903年：27-29/1993年：78-80）。如果状态x本身具有价值a，状态y本身具有价值b，通过关系R将它们组合在一起的整体不一定具有价值a + b；它可能更多，也可能更少。这个原则已经被布拉德利等唯心主义者接受，并给出了一个典型的反理论阐述。他们认为，如果x和y组合形成整体x-R-y，它们的价值，就像它们的身份一样，在更大的整体中被溶解，其价值不能从其部分的价值中计算出来。摩尔的贡献在于接受这个原则，但以一种拒绝这种反理论解释并允许计算的方式，尽管它是如何做到这一点取决于他严格的观点，即内在价值只能依赖于内在属性。
+
+这种观点意味着，当x和y进入构成整体x-R-y的关系R时，它们自身的价值不会被这些关系改变。摩尔承认了这一点，他说：“一个有价值的整体的一部分，在它是或不是整体的一部分时，保持完全相同的价值”（1903年：30/1993年：81）。因此，整体x-R-y中的任何附加价值必须归因于它作为一个与其部分不同的实体，并且与这些部分之间的关系内在于它本身。摩尔称这种附加价值为整体“作为一个整体”的价值，并且说需要将其添加到部分的价值中，以得出整体“整体上”的价值（1903年：214-16/1993年：263-64）。因此，如果x和y分别具有自身的价值a和b，并且x-R-y作为一个整体具有价值c，“整体上”的x-R-y的价值是a + b + c。（因此，整体的价值不等于其部分价值的总和，而等于这些价值构成的总和。）这种“整体主义”对有机统一原则的表述并非唯一可能的表述。我们可以放宽对内在价值的条件，使其受到外部关系的影响，并说当x和y进入整体时，它们自身的价值会发生变化，例如，x的价值变为a + c。这种“可变性”表述始终可以得出与整体主义相同的最终结论，因为无论后者在整体作为一个整体中找到什么正值或负值，前者都可以添加到其中一个部分中。但是，这两种表述将附加价值放置在不同的位置，有时其中一种，有时另一种给出了似乎更直观的有机价值的解释（Hurka 1998）。然而，由于他对内在善的严格观点，摩尔只能使用整体主义的表述。 在审美案例中，他认为对美的赞赏性沉思，无论是否考虑其对象的存在，总是具有相同（适度）的价值a，而美的存在总是具有相同（最小）的价值b。但是，当这两者结合在一起，一个人赞赏地沉思存在并引起他沉思的美，所产生的整体具有显著的附加价值c作为一个整体。因此，美的存在对于显著的价值c是必要的，但这个价值并不是其固有的，而是属于它所属的更大整体的一部分。
+
+摩尔还对有机统一原则进行了其他几种运用，其中包括对西奇威克为快乐主义辩护的论证的回应。西奇威克声称，在没有意识和更具体地说，快乐的世界中将没有价值，并得出结论，快乐必须是唯一的善（1907年：113，399-401）。鉴于《伦理学原理》对美的价值的观点，摩尔在那里否定了西奇威克论证的前提，但他还争辩说，即使承认这个前提，西奇威克的结论也是不成立的。也许快乐是任何价值的必要条件，但一旦快乐存在，其他状态，如对美的意识或个人的爱，会增加结果整体的价值，即使它们本身没有价值（1903年：92-94/1993年：144-45；还有1912年：240-46/1947年：148-51/1965年：103-06）。当然，这正是他后来的观点。该原则的另一个应用是阐明有关应得的主张。摩尔支持报应观点，即当一个人在道德上邪恶时，如果他受到惩罚是好的，并通过说虽然这个人的邪恶是坏的，他的痛苦是坏的，但邪恶和痛苦在同一个生活中的结合作为一个整体是好的，而且足够好，使得整体情况比如果有邪恶而没有痛苦要好（1903年：214-15/1993年：263-64）。事实上，这是摩尔对该原则的整体阐述在这一点上是积极有吸引力的。另一种观点是，当一个人邪恶时，他所遭受的痛苦从纯粹的坏变为纯粹的好。但这意味着对应得的痛苦的道德适当反应只是积极的，例如简单的喜悦，这似乎不正确；更好的反应是将对正义得到伸张的满足与对施加痛苦的悲伤混合在一起，正如摩尔的整体观点所暗示的那样。
+
+摩尔的另一个主要的个人爱的善也涉及到仰慕的沉思，但现在是关于对象的，即那些不仅美丽而且本质上是善良的人（1903年：203/1993年：251）。对于摩尔来说，主要的本质善是心理品质，这种爱主要涉及到对他人良好心态的仰慕的沉思。在描述爱的时候，摩尔应用了他用来从初始的一组善和恶中生成更高级别的本质善和恶的四个递归原则之一。第一个原则是说，如果状态x本质上是善的，那么对x的仰慕的沉思或爱本身也是本质上的善（1903年：203-04，217/1993年：251-53，265）。因此，如果人A对美的仰慕的沉思是善的，那么人B对A的仰慕的沉思也是进一步的善，C对B的仰慕的沉思也是如此，依此类推。第二个原则是，如果x本质上是恶的，那么对x的憎恨本身是本质上的善（1903年：217/1993年：265）；因此，B对A的痛苦感到同情是善的。还有两个最后的原则，它们说，对恶的本身的爱，比如对他人痛苦的虐待快感，以及对善的本身的憎恨，比如对他的快乐的嫉妒痛苦，是恶的（1903年：208-10，211-12/1993年：257-58，259-60）。尽管摩尔单独陈述了这四个原则，但它们都是对本质善和恶的道德适当态度，其取向与对象的价值相匹配，额外产生了这样的善和道德不适当的态度额外产生了恶。这些原则并不是他独有的；它们早在拉什代尔和布伦塔诺之前就已经被辩护过，并且后来会被罗斯辩护。但摩尔的表述在两个方面是独特的。拉什代尔和罗斯称他们生成的更高级别的价值为美德和恶习，这样做确实是合理的；无疑仁慈和同情是美德，而虐待病态是恶习。 但是摩尔更喜欢将美德定义为工具性的，即作为导致善和防止恶的特质，并表示这样的特质缺乏内在价值（1903 年：172-77 / 1993 年：220-26）。拉什代尔和尤其是罗斯也认为美德是最大的内在善和恶是最大的邪恶。相比之下，摩尔认为适当或不适当态度的价值往往小于其对象的价值；因此，对他人痛苦的同情虽然是好的，但不如痛苦那样好，因此一个人的痛苦和另一个人对其的同情的组合在整体上具有负面价值。他写道：“我们没有理由坚持这样一个悖论，即理想世界必须存在邪恶和苦难，以便包含对它们的适当情感所包含的善”。…我们不能承认神辩学中常用的任何论证的实际有效性；没有任何论证能够证明这个世界中存在的即使是最小的邪恶（1903 年：220 / 1993 年：268）
+
+递归原则与个人爱明显相关，其核心涉及对他人利益的积极关注。但是，摩尔对这些原则的特定应用导致了对爱的奇怪限制性理解。首先，就像审美情况一样，他认为主要有价值的态度是沉思的，涉及对他人已有的优秀品质的赞赏，而不是与之进行任何积极的互动。这甚至适用于对他人身体美的爱。尽管他认为这是爱的核心部分（1903年：203-04/1993年：252），但他认为这只涉及对他人美的被动赞赏，就像从房间的另一边一样。没有渴望拥有或与他人的美进行身体上的互动，也就是说，没有积极的性欲；他实际上认为性唤起，尤其是对他人唤起的唤起，涉及对丑陋或邪恶的爱，因此是邪恶的（1903年：209-10/1993年：257-58）。同样的观点也普遍适用：爱的态度是欣赏他人生活中的好处，而不是为其产生或帮助其实现这些好处。人们不为所爱之人做任何事情；他们只是欣赏她。 （在1899年提交给剑桥大学使徒协会的一篇论文中，他曾说：“对他人的爱是一件非常有价值的事情，尽管它不会导致任何行动。事实上，没有理由为什么它应该这样”（引自Levy 1979：203）。尽管他将个人爱描述为审美赏析的附加好处，但他以本质上审美的方式对其进行了界定。此外，他对所爱之人应该欣赏或评论的好处的列表也是截断的。它不包括快乐或幸福，因为那不是一个重要的好处，甚至不包括知识或成就。相反，它集中于对他人美的赞赏性沉思（1903年：204/1993年：252-53），好像爱的最高表达是“你对图片的品味真是太棒了”。“最后，他认为一个人在所爱之人身上所欣赏的品质只是简单而且公正的好。这意味着他的解释没有容纳许多人认为是个人爱情核心的对某个人的特殊依恋或加强关注。如果我因为朋友具备 x、y 和 z 这些品质而爱他，然后又有一个新的人出现，他具备相同的品质但稍微更高一些，那么根据摩尔的理论，我应该更欣赏新人的品质，因此更爱他们；我应该选择更好的所爱之人。这与许多人认为爱情中必不可少的忠诚或对个体的依恋是不一致的。这并不意味着不能用与摩尔相同的基本结构构建一个更充分的爱情解释；是可以的。它将认为个人爱情涉及更广泛的积极态度，包括积极促进和思考，以及更广泛的价值，包括幸福、知识和成就，其中所爱之人生活中的这些价值在爱人的角度上比陌生人的类似状态更有价值，这使得爱他们更为合适，因此更为内在地更好。但是，摩尔由于他的其他观点特征，如他对沉思形式的爱的普遍强调，他对初始价值的限制列表以及他对价值的严格公正主义，而无法给出这样的解释。
+
+## 5. 影响力
+
+尽管摩尔的伦理著作，尤其是《伦理原理》，并不总是包含全新的思想，但它们在哲学界内外都产生了极大的影响力。在哲学之外，它的影响力通过布卢姆斯伯里小组的文学和艺术人物传播开来，例如凯恩斯、利顿·斯特雷奇以及伦纳德和弗吉尼亚·伍尔夫，其中几位在与摩尔一起成为使徒的成员时结识了他。他们对《伦理原理》最后一章的印象最为深刻，该章将审美欣赏和个人爱情视为最高的善，这与他们的偏好非常契合。凯恩斯说，这本书的出版对他们来说是“新天堂在新地球上的开启”，它的善的理论在一段时间内成为他们的“宗教”（1949年：82）。他们中的许多人，尤其是同性恋者，将摩尔对爱情的描述性化，为其添加了一个在他的表述中并不存在的性爱元素。但根据凯恩斯的说法（尽管伦纳德·伍尔夫（1960年：146-49）持不同意见），他们倾向于忽视他将这些善嵌入其中的公正后果主义，集中于仅在自己的生活中追求这些善，而不是鼓励它们在社会中的广泛传播。剑桥使徒E.M.福斯特的小说中包含了几个代表摩尔思想的人物形象，例如《霍华德庄园》中的施莱格尔姐妹（Sidorsky 2007）。《伦理原理》在哲学之外吸引人的一个重要因素是其傲慢的偶像破坏精神，它声称（尽管不准确）扫除了过去的所有道德哲学。这种语调完全符合当时的时代背景，维多利亚女王的去世使得许多英国人认为一个新的、更进步的时代正在来临。
+
+该书对哲学的影响更为深远。在规范方面，接近其理想的后果主义观点仍然占主导地位，至少在英国，直到20世纪30年代，尽管很难确定这在多大程度上归功于摩尔本人，因为类似的观点在他之前已被广泛接受。在元伦理学中，他的非自然主义同样在几十年间占主导地位，尽管摩尔在这方面发挥了更大的作用，特别是对于后来的作家，部分原因是因为他在哲学上的卓越地位，部分原因是因为他对这一观点的坚决捍卫。通过明确谈论非自然属性，他至少似乎为非自然主义提供了比较坚实的形而上学基础，而像西奇威克这样的前辈则没有这样做，他通过更加强调开放问题的论证来更加有力地捍卫这一观点。当西奇威克注意到边沁或斯宾塞将善与快乐等自然属性等同起来时，他认为这是一个可以忽略的小错误；而摩尔则认为这是一个决定性的错误，破坏了哲学家整个体系。通过如此强调非自然主义的两个要素——其现实主义和对伦理学自主性的承诺，摩尔帮助引发了20世纪元伦理学的一系列发展。
+
+对非自然主义的第一反应，除了简单接受之外，来自于那些支持伦理学的自主性的哲学家，但有时在逻辑实证主义的影响下，他们拒绝了道德现实主义，而是认为除了自然事实之外没有其他事实，也没有其他认识方式，只有经验和严格逻辑。因此，他们发展了各种非认知主义的版本，认为道德判断不是真实或错误的，而是表达态度，如情感主义（Ayer 1936；Stevenson 1944），或者发出类似命令的东西，如规范主义（Hare 1952；Hare 1963）。与摩尔在《伦理学》中批评的主观自然主义不同，这些观点允许道德分歧，因为态度和命令可以相互对立，例如正面与负面。他们后来的支持者认为，这些观点更好地解释了开放问题论证，因为它们在道德概念和判断中找到了一种独特的情感或行动指导力量，而在非道德概念中不存在这种力量；这就是为什么有人说道德既不能归约于非道德，也不能由非道德推导出来。有人说，非认知主义还可以解释为什么道德对我们如此重要。非自然主义意味着道德判断涉及一种神秘的属性，但为什么关于那种属性的事实对我们重要或影响我们的行为呢？然而，如果道德判断表达了根深蒂固的态度，这个问题就不言自答了。
+
+后来的反应始于中世纪左右，拒绝了非自然主义和非认知主义，并探索了自然主义的版本，包括一种新亚里士多德主义版本，将所有道德要求基于对人类繁荣的概念，或者对人类本质以准生物学术语理解的发展（安斯康姆1958年；富特2001年）；这种观点隐含地否认了伦理学的自主性。在这里，一个特别反摩尔的主张是，“好”的谓词用法，如摩尔的“审美欣赏是好的”，是不合语法的，因为英语中唯一合法的用法是定语用法，如“好刀”，“好扒手”，以及与新亚里士多德主义观点最相关的，“好人”（吉奇1956年；还有汤姆森1997年）。但是，尽管这个关于英语语法的主张是在普通语言哲学的高潮时期提出的，但它似乎显然是错误的：这种语言一直允许“好”的谓词用法，从《圣经》的《创世纪》的英王詹姆斯译本——“上帝看见光，见光是好的”（引自布奇瓦罗夫1989年：17）——到日常短语，如“这是好的…”摩尔的道德哲学不能以一种粗糙的语言错误来可信地被驳斥（参见例如皮格登1990年；齐默尔曼1999年；克劳特2011年：173-183）。这种后来的反应中的一个分支，像其他受到维特根斯坦影响的分支一样，拒绝了摩尔的后果主义中的计算一面，后果主义通过计算行为的好处和坏处来确定对错。一些人认为，道德判断不能以这种方式编码或理论化，而是需要对特定情况进行伦理训练和敏感洞察（例如麦克道尔1979年）。 即使不考虑这一点，在许多圈子中，人们对摩尔关于善的实质性主张的奢侈和教条主义持怀疑态度 - 例如他对审美欣赏和个人爱的特定评价 - 并且更倾向于所谓的更谦逊的观点，即人们生活中的善就是实现他们所有欲望的满足。可以说，到了20世纪60年代，许多人认为摩尔的观点存在深刻的问题，他的道德哲学整体上并不被认为是一个特别活跃的选择。人们仍然认为阅读《伦理学原理》，或者至少是它的第一章，对于导致当时观点的发展序列具有重要意义。但从许多观点来看，摩尔对伦理学的一般方法在关键点上是误导的。
+
+五十多年后，哲学氛围对摩尔更加有利。现在有许多哲学家支持元伦理非自然主义（例如Shafer-Landau 2003; Huemer 2006），他们要么说自己的版本本体论上是最简化的（Nagel 1986; Scanlon 1998, 2014; Parfit 2011, vol. 2: 464–87），要么说自己的版本更加强大（Enoch 2011），但都包含了某种关于规范真理的解释，将其与非规范的真理（例如科学真理）明确区分开来。此外，出于必要性，这些当前的非自然主义版本与摩尔的道德认识论有相似之处，即规范真理是通过一种直接洞察或直觉来认识的，尽管现代观点通常比他的观点更明确地表现出可疑论和一致论。然而，对于许多哲学家来说，摩尔的非自然主义现实主义版本仍然是最为著名或经典的版本。在规范伦理学中，对于具有理想主义或完美主义内容的善的解释越来越受到认同，并且对于摩尔自己的解释的某些特点，如他对个人爱的重视，他的递归原则（Hurka 2001）和他的有机统一原则，也表示钦佩。摩尔的思想绝不是当代道德哲学中唯一存在的思想；还有许多其他选择，包括许多拒绝他的后果主义和无私主义的选择。最近文献中特别相关的一个流派，可以追溯到20世纪80年代，认为伦理学需要上述非摩尔式的“好处”概念，该概念与“幸福”和“有益价值”相关，并且与西奇威克用来陈述利己主义的主体相关的善有所不同。在这里，一个观点建议在摩尔的“好”之外使用这个替代概念，因此，简单的好完全或至少在很大程度上是对个体有益的（例如Sumner 1996）。 另一个更激进的观点希望“好的”完全取代摩尔的“好”，因此前者是唯一具有伦理意义的评价概念（例如Kraut 2007；Kraut 2011）。 （这里的论点与Geach不同，摩尔的“好”不是语法上不正确的；而是尽管在语言上无可指责，但对伦理思考没有任何有用的贡献。）但也有人为摩尔的“纯粹好”以及他对“好的”进行还原或“定位”的解释进行辩护（例如McDaniel 2014；Rowland 2016；Tucker 2018；Hurka 2021）。现代哲学家通常从摩尔那里得到的只是一个个别的思想或论证，而不是他的整个理论（Regan 2003是个例外）。但是，尽管在20世纪初摩尔的伦理学方法，尤其是他的元伦理学方法在英国道德哲学中占主导地位，而在中世纪被广泛抨击，但现在它在许多活跃的持续辩论中仍然代表着一个有价值的贡献者。
+
+## Bibliography
+
+### Primary Sources
+
+* “Mr. McTaggart’s Ethics,” *International Journal of Ethics*, 13 (1903): 341–70; reprinted in *The Early Essays*, pp. 201–32
+* *Principia Ethica*, Cambridge: Cambridge University Press, 1903; revised edition with “Preface to the second edition” and other papers, T. Baldwin (ed.), Cambridge: Cambridge University Press, 1993 (page references are first to the original and then to the revised edition).
+* Review of Franz Brentano, *The Origin of the Knowledge of Right and Wrong*, *International Journal of Ethics*, 14 (1903): 115–23.
+* Review of Hastings Rashdall, *The Theory of Good and Evil*, *Hibbert Journal*, 6 (1907–8): 446–51.
+* *Ethics*, London: Williams and Norgate, 1912; London: Oxford University Press, 1947 (hardcover); London: Oxford University Press, 1965 (paperback) (page references are first to the original edition, then to the OUP hardcover, then to the OUP paperback).
+* “The Conception of Intrinsic Value” and “The Nature of Moral Philosophy,” in G.E. Moore, *Philosophical Studies*, London: Routledge & Kegan Paul, 1922, pp. 253–75 and 310–39; “The Conception of Intrinsic Value” reprinted in Revised edition of *Principia Ethica*, pp. 280–98
+* “Is Goodness a Quality?”, *Proceedings of the Aristotelian Society, Supplementary Volume*, 11 (1932): 116–31.
+* “An Autobiography” and “A Reply to My Critics,” in P.A. Schilpp (ed.), *The Philosophy of G.E. Moore*, Evanston, IL: Northwestern University Press, 1942, pp. 3–39 and 535–687.
+* *The Early Essays*, Tom Regan (ed.), Philadelphia: Temple University Press, 1986.
+* *The Elements of Ethics*, T. Regan (ed.), Philadelphia: Temple University Press, 1991.
+
+### Secondary Sources
+
+* Anonymous, 1903, Review of *Principia Ethica*, *Athenaeum*, 3794: 847–8.
+* Anscombe, G.E.M., 1958, “Modern Moral Philosophy,” *Philosophy* 35: 1–19.
+* Ayer, A.J., 1936, *Language, Truth, and Logic*, London: Victor Gollancz.
+* Baldwin, Thomas, 1990, *G.E. Moore*, London: Routledge, Chs. 3–4.
+* –––, 1993, “Editor’s Introduction,” Revised edition of *Principia Ethica*, pp. ix–xxxvii.
+* Bosanquet, Bernard, 1904, Critical Notice of *Principia Ethica*, *Mind*, 13: 254–61
+* Braithwaite, R.B., 1961, “George Edward Moore,” *Proceedings of the British Academy*, 47: 293–310.
+* Brentano Franz, 1969, *The Origin of Our Knowledge of Right and Wrong*, trans. Roderick M. Chisholm and Elizabeth Schneewind, London: Routledge & Kegan Paul.
+* Brink, David O., 1989, *Moral Realism and the Foundations of Ethics*, Cambridge: Cambridge University Press, Ch. 6.
+* Broad, C.D., 1930, *Five Types of Ethical Theory*, London: Routledge & Kegan Paul.
+* –––, 1933–34, “Is ‘Goodness’ a Name of a Simple Non-Natural Quality?”, *Proceedings of the Aristotelian Society*, 34: 249–68.
+* –––, 1942, “Certain Features in Moore’s Ethical Doctrines,” in Schilpp 1942, pp. 43–67.
+* –––, 1961, “G.E. Moore’s Latest Published Views on Ethics,” *Mind*, 70: 435–57.
+* –––, 1971, “Self and Others,” in Cheney, ed., *Broad’s Critical Essays in Moral Philosophy*, London: George Allen & Unwin, pp. 262–83 (this essay was first published in 1953).
+* Butchvarov, Panayot, 1989, *Skepticism in Ethics*, Bloomington, IN: Indiana University Press.
+* Chisholm, Roderick M., 1986, *Brentano and Intrinsic Value*, Cambridge: Cambridge University Press.
+* Cox, H.H., 1970, “Warnock on Moore,” *Mind*, 79: 265–69.
+* Darwall, Stephen, 2003, “Moore, Normativity, and Intrinsic Value,” *Ethics*, 113: 468–89.
+* Darwall, S., Gibbard, A., and Railton, P., 1992, “Toward *Fin de Siècle* Ethics: Some Trends,” *Philosophical Review*, 101: 115–89.
+* Enoch, David, 2011, *Taking Morality Seriously: A Defense of Robust Realism*, Oxford: Oxford University Press.
+* Ewing, A.C., 1962, “G.E. Moore,” *Mind*, 71: 251.
+* –––, 1947, *The Definition of Good*, London: Macmillan.
+* Foot, Philippa, 2001, *Natural Goodness*, Oxford: Oxford University Press.
+* Frankena, William, 1939, “The Naturalistic Fallacy,” *Mind*, 48: 464–77.
+* –––, 1942, “Obligation and Value in the Ethics of G.E. Moore,”, in Schilpp 1942, pp. 93–110.
+* Gampel, Eric, 1996, “A Defense of the Autonomy of Ethics: Why Value is Not Like Water,” *Canadian Journal of Philosophy*, 26: 191–209.
+* Geach, P.T., 1956, “Good and Evil,” *Analysis,* 17: 33–42.
+* Hare, R.M., 1952, *The Language of Morals*, Oxford: Clarendon Press.
+* –––, 1963, *Freedom and Reason*, London: Oxford University Press.
+* –––, 1981, *Moral Thinking: Its Levels, Method and Point*, Oxford: Clarendon Press.
+* Horgan, Terence and Mark Timmons (eds.), 2006, *Metaethics After Moore*, Oxford: Oxford University Press.
+* Hudson, W.D., 1970, *Modern Moral Philosophy*, London: Macmillan, Ch. 3.
+* Huemer, Michael, 2006, *Ethical Intuitionism*, New York: Palgrave Macmillan.
+* Hurka, Thomas, 1998, “Two Kinds of Organic Unity,” *Journal of Ethics*, 2: 283–304.
+* –––, 2001, *Virtue, Vice, and Value*, New York: Oxford University Press.
+* –––, 2003, “Moore in the Middle,” *Ethics*, 113: 599–628.
+* –––, 2014, *British Ethical Theorists from Sidgwick to Ewing*, Oxford: Oxford University Press.
+* –––, 2021, “Against ‘Good For’/‘Well-Being,’ For ‘Simply Good’,” *Philosophical Quarterly* in press
+* Hutchinson, Brian, 2001, *G.E. Moore’s Ethical Theory: Resistance and Reconciliation*, Cambridge: Cambridge University Press.
+* Irwin, Terence, 2009, *The Development of Ethics: A Historical and Critical Study, Vol. III: From Kant to Rawls*, Ch. 86, Oxford: Oxford University Press.
+* Jones, E.E. Constance, 1906, “Mr. Moore on Hedonism,” *International Journal of Ethics*, 16: 429–64.
+* Keynes, John Maynard, 1949, “My Early Beliefs,” in *Two Memoirs*, London: Hart-Davis, pp. 78–103.
+* Kraut, Richard, 2007, *What is Good and Why: The Ethics of Well-Being*, Cambridge, MA: Harvard University Press.
+* –––, 2011, *Against Absolute Goodness*, New York: Oxford University Press.
+* Langford, C.H., 1942 “Moore’s Notion of Analysis,” in Schilpp 1942, pp. 321–342.
+* Lemos, Noah M., 1994, *Intrinsic Value*, Cambridge: Cambridge University Press.
+* Levy, Paul, 1979, *Moore: G.E. Moore and the Cambridge Apostles*, New York: Holt, Rinehart and Winston.
+* MacIntyre, Alasdair, 1981, *After Virtue: A Study in Moral Theory*, London: Duckworth, Ch. 2.
+* Mackenzie, J.S., 1904, Review of *Principia Ethica*, *International Journal of Ethics*, 14: 377–82.
+* Mackie, J.L., 1976, “Sidgwick’s Pessimism,” *Philosophical Quarterly* 26: 317–28
+* –––, 1977, *Ethics: Inventing Right and Wrong*, Harmondsworth: Penguin.
+* McDaniel, Kris, 2014, “A Moorean View of the Value of Lives,” *Pacific Philosophical Quarterly*, 95: 23–46.
+* McDowell, John, 1979, “Virtue and Reason,” *The Monist* 62: 331–50.
+* McTaggart, John McTaggart Ellis, 1908, “The Individualism of Value,” *International Journal of Ethics*, 18: 433–45.
+* Nagel, Thomas, 1986, *The View From Nowhere*, New York: Oxford University Press.
+* Nuccetelli, Susana and Gary Seay (eds.), 2007, *Themes from G.E. Moore: New Essays in Epistemology and Ethics*, Oxford: Oxford University Press.
+* Parfit, Derek, 2011, *On What Matters*, 2 vols., Oxford: Oxford University Press.
+* Phillips, David, 2011, *Sidgwickian Ethics*, New York: Oxford University Press.
+* Pigden, Charles R., 1990, “Geach on Good,” *Philosophical Quarterly* 40: 129–54.
+* –––, 2007, “Desiring to Desire: Russell, Lewis, and G.E. Moore,” in Nuccetelli and Seay (eds.), *Themes from G.E. Moore*, Oxford: Clarendon Press, pp. 244–60.
+* Prichard, H.A., 1912, “Does Moral Philosophy Rest on a Mistake?”, *Mind*, 21: 21–37.
+* Rashdall, Hastings, 1907, *The Theory of Good and Evil*, 2 vols., London: Oxford University Press.
+* Regan, Donald H., 2003, “How to Be a Moorean,” *Ethics*, 113: 651–77.
+* Regan, Tom, 1986, *Bloomsbury’s Prophet: G.E. Moore and the Development of His Moral Philosophy*, Philadelphia: Temple University Press.
+* Ross, W.D., 1930, *The Right and the Good*, Oxford: Clarendon Press.
+* Rowland, Richard, 2016, “In Defence of Good *Simpliciter*,” *Philosophical Studies* 173: 1371–91.
+* Russell, Bertrand, 1904, Review of *Principia Ethica*, *Independent Review*, 2: 328–33.
+* –––, 1966, “The Elements of Ethics,” in Bertrand Russell, *Philosophical Essays*, London: George Allen & Unwin, pp. 13–59 (first published 1910).
+* Scanlon, T.M., 1998, *What We Owe to Each Other*, Cambridge, MA: Harvard University Press.
+* –––, 2014, *Being Realistic About Reasons*, Oxford: Oxford University Press.
+* Schilpp, P.A., 1942, *The Philosophy of G.E. Moore*, Evanston, IL: Northwestern University Press.
+* Shafer-Landau, Russ, 2003, *Moral Realism: A Defence*, Oxford: Oxford University Press.
+* Shaver, Robert, 2000, “Sidgwick’s Minimal Metaethics,” *Utilitas*, 12: 261–77.
+* –––, 2003, “*Principia* Then and Now,” *Utilitas*, 15: 261–78.
+* Shaw, William H, 2020, *Moore’s Ethics*, Cambridge: Cambridge University Press.
+* Sidorsky, David, 2007, “The Uses of the Philosophy of G.E. Moore in the Works of E.M. Forster,” *New Literary History*, 38: 245–71.
+* Sidgwick, Henry, 1907, *The Methods of Ethics*, London, Macmillan, 7th edition.
+* Skelton, Anthony, 2011, “Ideal Utilitarianism: Rashdall and Moore,” in Thomas Hurka (ed.), 2011, *British Moral Philosophers from Sidgwick to Ewing*, Oxford: Oxford University Press, pp. 45–65.
+* Stevenson, Charles L., 1944, *Ethics and Language*, New Haven: Yale University Press.
+* –––, “Moore’s Arguments Against Certain Forms of Ethical Naturalism,” in Schilpp 1942, pp. 71–90
+* Stratton-Lake, Philip (ed.), 2002, *Ethical Intuitionism: Re-evaluations*, Oxford: Clarendon Press.
+* Sumner, L.W., 1996, *Welfare, Happiness, and Ethics*, Oxford: Clarendon Press.
+* Sylvester, Robert Peter, 1990, *The Moral Philosophy of G.E. Moore*, Philadelphia: Temple University Press.
+* Thomson, Judith Jarvis, 1997, “The Right and the Good,” *Journal of Philosophy* 94: 273–98.
+* Tucker, Miles, 2018, “Simply Good: A Defence of the Principia,” *Utilitas* 30: 253–70.
+* Warnock, G.J., 1967, *Contemporary Moral Philosophy*, London: Macmillan, Ch. 2.
+* Warnock, Mary, 1978, *Ethics Since 1900*, 3rd ed., Oxford: Oxford University Press, Ch. 1.
+* Welchman, Jennifer, 1989, “G.E. Moore and the Revolution in Ethics: A Reappraisal,” *History of Philosophy Quarterly*, 6: 317–29.
+* Wilde, Norman, 1905, Review of *Principia Ethica*, *Journal of Philosophy, Psychology, and Scientific Method*, 2: 581–3.
+* Woolf, Leonard, 1960, *Sowing*, London: Hogarth.
+* Zimmerman, Michael J., 1999, “In Defense of the Concept of Intrinsic Value,” *Canadian Journal of Philosophy*, 29: 389–410.
+
+### Special Issues
+
+* *Ethics*, 113/3 (2003): special volume for the centenary of *Principia Ethica*.
+* *Journal of Value Inquiry*, 37/3 (2003): special volume for the centenary of *Principia Ethica*.
+* *Southern Journal of Philosophy*, 41 (2003) Supplement: special volume for the centenary of *Principia Ethica*.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=moore-moral). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/moore-moral/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=moore-moral&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/moore-moral/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [desert](https://plato.stanford.edu/entries/desert/) | [egoism](https://plato.stanford.edu/entries/egoism/) | [hedonism](https://plato.stanford.edu/entries/hedonism/) | [love](https://plato.stanford.edu/entries/love/) | [mathematics, philosophy of: intuitionism](https://plato.stanford.edu/entries/intuitionism/) | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [moral realism](https://plato.stanford.edu/entries/moral-realism/) | [Sidgwick, Henry](https://plato.stanford.edu/entries/sidgwick/) | [value: intrinsic vs. extrinsic](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/)
+
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
+[Thomas Hurka](https://thomashurka.com/) <[*tom.hurka@utoronto.ca*](mailto:tom%2ehurka%40utoronto%2eca)>

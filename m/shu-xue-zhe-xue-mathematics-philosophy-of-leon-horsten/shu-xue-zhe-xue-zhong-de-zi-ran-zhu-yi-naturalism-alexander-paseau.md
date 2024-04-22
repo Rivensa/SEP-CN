@@ -1,0 +1,378 @@
+# 数学哲学中的自然主义 naturalism (Alexander Paseau)
+
+*首次发表于2008年8月24日；实质性修订于2013年3月26日。*
+
+当代哲学的三种主要自然主义是方法论、本体论和认识论。方法论自然主义认为唯一的权威标准是科学的标准。本体论和认识论自然主义分别认为所有实体和所有有效的研究方法在某种意义上都是自然的。在过去几十年的数学哲学中，方法论自然主义获得了最多的关注，因此我们将重点关注这一点。本体论和认识论自然主义在数学哲学中的讨论在第 6 节中更简要地进行。
+
+* [1. 方法论自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#MetNat)
+
+  * [1.1 数学反修正主义](https://plato.stanford.edu/entries/naturalism-mathematics/#MatAntRev)
+* [2. 自然主义的最近历史](https://plato.stanford.edu/entries/naturalism-mathematics/#RecHisMetNat)
+
+  * [ 2.1 最近的背景](https://plato.stanford.edu/entries/naturalism-mathematics/#RecBac)
+  * [ 2.2 当前背景](https://plato.stanford.edu/entries/naturalism-mathematics/#PreCon)
+* [3. 阐明方法论自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#EluMetNat)
+
+  * [ 3.1 有权威性的](https://plato.stanford.edu/entries/naturalism-mathematics/#Aut)
+  * [3.2 边界问题和科学方法](https://plato.stanford.edu/entries/naturalism-mathematics/#BouProSciMet)
+  * [3.3 方法论的统一性？](https://plato.stanford.edu/entries/naturalism-mathematics/#MetUni)
+  * [3.4 制裁程度](https://plato.stanford.edu/entries/naturalism-mathematics/#DegSan)
+  * [3.5 标准和从业者](https://plato.stanford.edu/entries/naturalism-mathematics/#StaPra)
+  * [ 3.6 更广泛的自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#BroNat)
+* [4. 激发自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#MotNat)
+
+  * [4.1 自然主义在某些方面是革命性的](https://plato.stanford.edu/entries/naturalism-mathematics/#NatRevSomRes)
+  * [4.2 文献中的论证不足](https://plato.stanford.edu/entries/naturalism-mathematics/#DeaArgLit)
+  * [ 4.3 当前的成功](https://plato.stanford.edu/entries/naturalism-mathematics/#CurSuc)
+  * [ 4.4 一致](https://plato.stanford.edu/entries/naturalism-mathematics/#Agr)
+  * [ 4.5 历史成功](https://plato.stanford.edu/entries/naturalism-mathematics/#HisSuc)
+* [5. 自然主义的异质性](https://plato.stanford.edu/entries/naturalism-mathematics/#HetNat)
+
+  * [5.1 数学是否在方法上是自治的？](https://plato.stanford.edu/entries/naturalism-mathematics/#MatMetAut)
+  * [5.2 如果数学在方法上是自主的，那是否可以建立 Maddy 的自然主义？](https://plato.stanford.edu/entries/naturalism-mathematics/#IfMatMetAutDoeEstMadNat)
+* [6. 本体论自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#OntNat)
+
+  * [6.1 自然科学作为本体论的裁决者](https://plato.stanford.edu/entries/naturalism-mathematics/#NatSciArbOnt)
+  * [6.2 所有实体都是时空的](https://plato.stanford.edu/entries/naturalism-mathematics/#AllEntSpa)
+  * [6.3 自然主义反柏拉图主义和认识论自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#NatAntPla)
+* [ 参考文献](https://plato.stanford.edu/entries/naturalism-mathematics/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/naturalism-mathematics/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/naturalism-mathematics/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/naturalism-mathematics/#Rel)
+
+---
+
+## 1. 方法论自然主义
+
+方法论自然主义在数学哲学中有三个主要且相关的意义。第一个意义是数学哲学中唯一的权威标准是自然科学（物理学、生物学等）的标准。第二个意义是数学哲学中唯一的权威标准是数学本身的标准。第三个意义是前两者的综合，即权威标准是自然科学和数学的标准。我们将这三种自然主义称为科学主义、数学主义和数学-科学主义。请注意，在本条目中，“科学”及其相关术语仅包括自然科学。
+
+### 1.1 数学反修正主义
+
+自然主义——在此之后被理解为“方法论”和“数学哲学”——似乎对数学具有反修正主义的后果。数学家兼哲学家勒昂哈德·布劳尔发展了直觉主义数学，试图推翻并取代标准（“经典”）数学。布劳尔试图通过基于直觉的数学真理解释来在哲学上激励直觉主义数学。直觉主义数学的另一个近期倡导者是迈克尔·达梅特，他从语言哲学，特别是意义理论方面，为其提出了论证。然而，科学标准可以认为赞同经典数学而不是直觉主义数学：即使现代科学可以完全以直觉主义方式重构（这是一个大的假设），它也会比当前基于经典数学的版本更加复杂和繁琐。数学家们也倾向于将直觉主义数学视为劣于经典数学，如果将其解释为对立的话。因此，布劳尔和达梅特的直觉主义显然不被科学或数学标准所认可，因此自然主义将其排除在外。实际上，对于许多自然主义的拥护者来说，这正是自然主义的观点。人们常常认为，自然主义的观点是为了阻止那些具有不太可靠方法的学科对已建立的学科（如数学）进行幻想般的攻击。
+
+## 2. 方法论自然主义的最近历史
+
+### 2.1 最近背景
+
+当代对自然主义的兴趣源自奎因，他的自然主义在他的后期作品中非常突出。一个代表性的引文是自然主义是“承认现实的辨识和描述在科学本身内部完成，而不是在某种先前的哲学中”（奎因 1981 年，21 页）。另一个重要影响是希拉里·普特南，他将他的科学自然主义表述如下：
+
+> …同意一个理由来相信 p 支持在所有科学环境中接受 p，然后再加上“但即便如此还不够好”是愚蠢的。只有在接受超科学方法优于科学方法时才会做出这样的判断；但至少这位哲学家对此没有兴趣。（普特南 1971 年，356 页）
+
+因此，从这个角度来看，数学是根据科学标准来评判的，因为一切都是如此。此外，奎因和普特南认为，这些标准支持形而上学的数学，因为数学及其形而上学的解释是我们最好的科学理论中不可或缺的一部分。
+
+虽然自然主义作为数学哲学中的一种自觉立场最完全地在奎因那里出现，但总是有前辈存在。经验主义传统以其各种形式（逻辑实证主义、米尔、休谟等）是最明显的前辈，尽管前奎因经验主义者和当代自然主义者之间存在重大差异。数学哲学中科学自然主义的兴起也与更广泛的科学自然主义的兴起相一致，这也部分归功于奎因，后者认为所有哲学——不仅仅是数学哲学——都发生在自然科学中。自然主义也与现在普遍存在的对传统哲学论证方式的悲观态度相辅相成。
+
+几乎所有哲学家今天都对某种形式的自然主义感到吸引。数学和科学的方法论是我们所拥有的最好的方法似乎是一个平凡的事实，哲学应该试图承认并建立在这一事实上，而不是忽视它。问题是如何确切地做到这一点。
+
+### 2.2 现在的背景
+
+过去几十年来，自然主义引起了极大的兴趣。1997 年是近期数学哲学的重要一年，因为有四本书出版，阐述了五位数学哲学领域的主要哲学家的立场：约翰·伯吉斯（John Burgess）和吉迪恩·罗森（Gideon Rosen）的《没有对象的主题》（A Subject with No Object），佩内洛普·麦迪（Penelope Maddy）的《数学中的自然主义》（Naturalism in Mathematics），迈克尔·雷斯尼克（Michael Resnik）的《作为模式科学的数学》（Mathematics as the Science of Patterns）和斯图尔特·夏皮罗（Stewart Shapiro）的《数学哲学》（Philosophy of Mathematics）。这四本书在不同程度上都是自然主义的，其中前两本是自然主义宣言，第三本主张奎因式的科学自然主义，最后一本虽然主要关注其他问题，但对自然主义持有同情态度。约翰·伯吉斯的自然主义，最早在他的《自然主义的哲学》（1983）中提出，并在过去几年中与他的同事吉迪恩·罗森（1997 年，2005 年）一起详细阐述，可能最自然地被解释为数学与科学自然主义的一种版本（1997 年，211 页）。佩内洛普·麦迪的自然主义是一种异质的自然主义，区分了数学本身和数学哲学，对前者采取数学自然主义的立场，对后者采取科学自然主义的立场（第 5 节）。麦迪（1997 年）提出的另一个立场是一种彻底的数学自然主义，它将数学标准视为数学和其哲学中的权威。
+
+忽略限定条件，当代自然主义的主要版本及其代表性倡导者可以如下表所示：
+
+> |                         | ** 数学本身**   | ** 数学哲学<br /> 自然主义** |
+> | ------------------------- | ----------------- | -------------------------- |
+> | 科学的<br /> (奎因)         | Scientific      | Scientific               |
+> | 数学与科学的<br /> (伯吉斯) | 数学兼<br /> 科学的 | 数学兼<br /> 科学的          |
+> | 数学的<br />(?)             | Mathematical    | Mathematical             |
+> | 异质的<br />(Maddy 1997)    | Mathematical    | Scientific               |
+
+为了说明数学本身和数学哲学之间的陈述的差异，以 2004 年证明的格林-陶定理为例，该定理表明素数序列包含任意长的等差数列（但当然不包含无限长的等差数列）；作为后者的例子，可以提出形而上学主义者声称数字 2 存在且是抽象的，或者声称由于数学实体是被创造而不是被发现的，因此不允许使用自指定义。对于任何给定的哲学家，格林-陶定理及其证明都应根据第一列的标准进行评估。例如，奎因只有在它是科学最佳系统化的一部分时才接受该定理（假设从中推导出该定理的原则和推导该定理的逻辑是正确的）。同样，对于任何给定的哲学家，形而上学主义和关于自指性的限制都应根据第二列的标准进行评估。例如，奎因接受形而上学主义，因为他认为它是数学的科学认可解释：在他看来，包含在科学最佳系统化中的数学是形而上学的。
+
+在数学哲学中，没有明确的范例表明数学标准应该具有权威性，因此存在疑问。大卫·刘易斯在他关于集合论的专著中（1991 年，viii–ix，54）曾与这个立场擦肩而过，但到了他的（1993 年）已经否认了这个立场。这个立场在麦迪（1997 年）的言论中也有所暗示，尽管正如我们将在第 5 节中看到的那样，麦迪（1997 年）更自然地被解释为提出了一种异质的自然主义形式。其他一些数学哲学家也是公开的自然主义者，尤其是艾伦·贝克（2001 年）和马克·科利万（2001 年）。
+
+## 3. 阐明方法论自然主义
+
+像许多主义一样，自然主义或许更适合被视为具有教条意义的取向，而不是一个教条本身。尽管如此，我们可以尝试从几个维度来阐明它。
+
+### 3.1 有权威性的
+
+我们应该如何理解在数学哲学中某些标准应该具有权威性的说法？我们可以通过引用 X-standards 来保持普遍性，我们感兴趣的实例可以是“科学的”、“数学的”或“科学兼数学的”。以下是一些（非详尽）权威性主张的解释：
+
+1. 双条件自然主义：接受 p 当且仅当 p 被 X-standards 认可
+2. 自然主义的压倒性：如果 p 符合 X 标准，则接受 p。
+3. 强调自然主义：在评估 p 的时候，更加强调 X 标准。
+4. 兼容性自然主义：如果 p 与 X 标准不兼容，则不接受 p。
+
+双条件阅读是四种中最强的。它表达了有效标准就是 X 标准的思想。与双条件自然主义相反，压倒性版本显然允许哲学数学陈述即使 X 标准不支持也可以被接受。例如，伯吉斯和罗森将他们的自然主义表达如下：
+
+> 自然主义者的承诺是……相对较谦虚的命题，即当科学（包括数学）以坚定而统一的声音说话时，哲学家要么被迫接受其结论，要么提供可识别为科学的理由来抵制它们（1997 年，65 页）。
+
+这自然地被解释为科学与数学自然主义的压倒性版本。它似乎允许如果数学和科学在一个问题上没有坚定的声音，我们可以接受其他学科的裁决。
+
+强调自然主义是一种模糊的教义。根据对 X 标准的强调程度，会出现不同的版本。一个适度的版本捕捉到了自然倾向但不是彻底的自然主义哲学家的立场。当对 X 标准的强调达到了其他标准无关紧要的程度时，我们恢复了双条件自然主义。
+
+兼容自然主义不如压倒性自然主义强。如果 p 被 X 标准认可，那么兼容自然主义要求不接受¬p，但不一定要求接受 p。不接受¬p 不等于接受 p，因为总是有暂停对 p 进行判断的选择。兼容观点通常被大多数当代哲学家接受。以哲学数学之外的例子来说，大多数哲学家会反对与相对论理论相冲突的时间哲学（在这种情况下，X = 科学）。在哲学数学领域内，大多数哲学家会反对暗示复分析应该被抛弃的数学哲学（在这种情况下，X 可以是科学、数学或数学与科学的结合）。
+
+有时候，一些较弱的方法论命题被称为“自然主义”，比如拒绝笛卡尔的基础主义，但在这里我们更加强调这个术语。以上哪种变体是发展自然主义的正确方式，当然取决于自然主义的动机（第 4 节）。
+
+### 3.2 边界问题和科学方法
+
+自然主义在 X 标准（科学的、数学的或科学兼数学的）与其他类型的标准之间建立了对立，例如占星术的、神学的或常识的标准。自然主义者认为“基本”的哲学标准也是站在错误一边的标准的另一个例子。Goodman 和 Quine（在他的自然主义阶段之前）曾经在一篇文章中宣称，他们的名词主义的基础是一种基本的哲学直觉，无法归结为科学的理由（1947 年）。自然主义者拒绝对这样的标准进行诉求。
+
+自然主义面临的一个明显问题是，科学与非科学之间以及数学与非数学之间似乎没有明确的界限。例如，从物理学到物理学哲学，再到以物理学为重的形而上学，再到普通的形而上学，似乎是逐渐过渡的。当数学家写一篇研究文章、一本本科教材、一本关于数学的通俗读物、一本阐述他个人数学哲学及其与各种数学理论的心理联系的书时，他到底在什么时候停止从事数学工作？当研究数学家在研讨会后聚在一起，在咖啡时间一致认为黎曼猜想是数学中最重要的未解问题时，这是一个严格的数学主张还是数学家们认可的超出数学范畴的个人判断？
+
+许多哲学家遵循奎因的观点，引用了一套标准原则，据称构成了科学标准：经验充分性、本体经济性、简洁性、多产性等等（奎因 1955 年，247 页；奎因和乌利安 1970 年，第 5 章）。然而，这种类型的清单在几个方面都是不令人满意的。首先，这些原则有不同的版本。然而，一般版本是否是科学认可的版本还是值得怀疑的。例如，一些作者声称，科学对本体简洁性的诉求并不包括对抽象对象的假设（伯吉斯 1998 年）。还有人认为，科学对简洁性的诉求并不最好地体现在完全一般的口号“在这方面，更喜欢任何理论 T1 而不是任何较不简单的理论 T2”（帕索 2007 年）。此外，这种类型的清单并没有告诉我们如何权衡各种期望。
+
+自从 20 世纪 60 年代科学研究的爆发以来，人们对科学实践的细微之处更加关注。然而，对科学标准及其权重的更精确阐述仍然难以捉摸。科学方法的算法化存在普遍质疑（尽管许多人类显然能够实施科学方法，所以如果方法不是算法化的，那么我们的思维也不是）。然而，毫无疑问的是，目前我们无法准确展示它。
+
+话虽如此，对于自然主义者来说，边界问题有多严重并不清楚。也许他们可以主张存在一个相当明确的边界，尽管这个边界很难定义。也许数学家在某种程度上知道什么是数学的一部分，什么是对数学的非数学评论。无论如何，自然主义似乎能够在没有明确边界的情况下生存下来。自然主义显然可以将其主张建立在一套具有模糊边界的标准上。
+
+### 3.3 方法论的统一性？
+
+如果没有全球科学标准，只有这个或那个科学部分（例如物理学或生物学，或者粒子物理学或流体力学）的标准，甚至只有这个或那个科学家群体的标准，那么科学自然主义将分裂成几个版本（例如物理学自然主义或生物学自然主义）。如果科学自然主义的动机指向其中一个更细粒度的自然主义（例如物理学自然主义），或者如果它们在数学哲学中都得出相同的结论，那么潜在的分裂并不令人担忧。但如果不是这样，科学自然主义者就会陷入困境，因为所有这些竞争的自然主义都是根据假设同样有效的。到目前为止，科学自然主义者倾向于假设科学使用一套统一的标准。尽管这个假设是合理的，但严格的自然主义者会希望通过详细的案例研究来加以支持。数学自然主义和数学-科学自然主义也是如此。
+
+### 3.4 制裁程度
+
+科学标准对命题进行一定程度的认可，而不是完全认可。研究前沿的最新假设只是少数专家暂时采纳的，与长期确立的理论地位不同。因此，科学标准对命题 p 是否认可的黑白观念是不可行的。（这是贝叶斯确认理论认真对待的一个观点。）也可以认为这对数学标准也是成立的，例如通过考虑对数学命题的非演绎信念基础。目前可用的非演绎证据支持哥德巴赫猜想，即每个大于 4 的偶数都可以表示为两个质数的和。然而，在没有哥德巴赫猜想的证明的情况下，这种程度不足以达到 1。因此，自然主义者信条的更精确陈述必须根据科学或数学标准对 p 的承诺程度和类型提供分配信任的指导方针。
+
+### 3.5 标准和从业者
+
+将 X 标准认可的事物与 X 从业者的信仰等同起来是错误的（对于 X = 科学或数学或更一般的情况）。首先，X 从业者可能没有对某个特定问题进行思考。其次，X 从业者可能都是错误的。此外，X 从业者可能有意识地维持与 X 标准相反或与之不同的观点。例如，科学家可能相信 p，可能基于一种“直觉”或出于一些超越科学的宗教信仰或出于任何非科学的原因，但仍然承认科学标准支持非 p。或者数学家可能相信数字 7 具有神秘的属性，但不以数学家的身份相信它。因此，从从业者和标准之间更紧密的联系可能是：X 标准认可的是 X 从业者作为 X 从业者正确相信的东西。（这并不是一种还原分析。）
+
+话虽如此，将广泛的错误归因于 X 从业者社群对 X 标准认可的事物需要特殊辩护。因此，X 从业者实际上相信的通常作为良好但可推翻的证据，用于证明 X 标准认可的事物。
+
+### 3.6 更广泛的自然主义
+
+此处所定义的科学自然主义仅包括自然科学（对于科学与数学相结合的自然主义也是如此）。更广泛的自然主义不仅涵盖传统的自然科学，还包括其他一些科学：也许是所有社会科学，也许只是其中的一部分，也许是语言学，也许是认知科学。需要注意的是，奎因在后来的著作中采用了广义自然主义的观点（1995 年，49 页）。彭洛普·麦迪最近明确表示，她所支持的科学自然主义形式——她现在更倾向于称之为“第二哲学”——非常广泛，不仅包括自然科学，还包括心理学、语言学、社会学等（2007 年，2 页）。
+
+将科学或科学与数学相结合的自然主义扩展到包括这些学科对于数学哲学可能产生重大影响。例如，如果语义学属于自然主义的范畴，它可能为数学现实主义或形而上主义提供自然主义的支持，因为数学的表面值语义似乎将其归类为语言中无争议的字面部分——这一点在贝纳塞拉夫（1973 年）中有着著名的论述。
+
+将自然主义解释为广义还是狭义取决于其动机。科学或数学或科学与数学相结合的自然主义之所以具有吸引力，是因为这些学科的无与伦比的成功（根据对这种成功的某种理解——请参见第 4 节）。然而，与自然科学相比，非自然科学的成功较少。一个人认为非自然科学相对于自然科学的成功较少，广义科学或科学与数学相结合的自然主义就越不具有吸引力，相对于严格的自然科学主义而言。
+
+所有自然主义者，尤其是那些更广泛的类型，都必须平衡潜在的竞争标准。一个广义的自然主义者可能会决定，比如给予自然科学 2/3 的权重，语义学 1/3 的权重。或者她可能认为，如果（甚至：当且仅当）所有科学，无论是自然的还是非自然的，都认可数学哲学中的一个命题，那么它是可以接受的——也就是说，当所有科学都一致发声时。不幸的是，这些平衡问题并没有得到自然主义者的广泛关注。也许这是因为这类问题对每个人都会出现：无论接受哪种证明标准，如何裁决它们之间的问题都会出现。但是，自然主义是规范性的，并且不能依赖于已经存在的隐含程序，因此它应该向我们阐明如何平衡不同的标准集合。
+
+对于数学与科学自然主义者来说，平衡问题尤为紧迫。科学自然主义者原则上愿意说，如果一个数学理论 M 在科学上优于另一个数学理论 M *，但在数学上劣于 M*，那么应该优先选择 M（下一段包含一个例子）。然而，数学与科学自然主义者可能会根据具体理论的细节而选择不同的立场：这完全取决于 M 相对于 M*的科学优势是否被其数学劣势所抵消。现在，数学哲学并没有建立起一种权衡数学理论的科学和数学优缺点的传统；其他学科也没有。因此，对于数学与科学自然主义者来说，如何平衡数学和科学标准的问题尤为紧迫。
+
+为了说明这个问题，假设，正如许多哲学家所主张的那样，本体经济的一般原则——尽可能少地假设实体——是一个科学标准。再假设，正如佩内洛普·麦迪所主张的那样，本体浪费的集合论版本——尽可能多地假设集合——是一个数学标准（这是麦迪称之为“最大化”的集合论原则的一种解释方式）。这两个标准是相互冲突的，正如麦迪所认识到的（1997 年，131 页）。因此，根据这些假设，一个假设相对较少的集合论，比如赫尔曼·韦尔在《连续体》中发展的那种类型的集合论，可能在科学上优于假设更多集合的 ZFC。然而，ZFC 通常被认为在数学上优于一个假设论集合论。也许正确的诊断是，这种冲突只是表面上的，因为正确的科学本体经济版本是“尽可能少地假设具体实体”，而正确的数学本体浪费版本是“尽可能多地假设抽象实体”。然而，在这种情况下，数学兼科学的自然主义者必须提出一个处理潜在冲突的一般政策，或者争辩说没有这样的冲突可能发生。
+
+## 4. 激发自然主义
+
+一个人可以简单地采用自然主义而不提供论证或动机。但是，对自然主义的动机支持它，使其内部更加强大，并赋予它辩证的力量，增加其对非自然主义者的吸引力。它们回答了一个根本性问题：为什么恰好是这些标准？
+
+（对于主要被视为方法或立场而非教义的自然主义而言，情况也是如此。自 1997 年出版她的著作以来，佩内洛普·麦迪已经澄清她的自然主义版本是一种立场（麦迪 2001）或一种分步式的研究方法（2007，见例如第 19 页脚注 15，第 403 页）。然而，研究方法和研究立场之所以有吸引力，是因为它们有很好的动机。）
+
+### 4.1 自然主义在某些方面是革命性的
+
+自然主义通常被认为是一种保守的数学哲学，正如我们在第 1 节中所提到的。但实际上情况更加复杂。感兴趣的三种自然主义在某些方面都是革命性的。
+
+我们的默认观点是，数学标准决定数学本身的问题，例如费马最后定理或选择公理是否为真等问题。科学标准被认为不会影响这一点：当安德鲁·怀尔斯在 1990 年代中期证明费马最后定理时，他并不特别关心他的证明在物理系会如何接受，或者更一般地说，它对经验科学的影响。同样，马迪指出，如果某个大基数公理没有得到科学认可（可能是因为它没有带来新的经验后果），那么没有充分的理由接受它是与集合论的实际实践‘不一致’（1997，132），而且与许多哲学的实际实践也不一致。我们通常不用科学标准来评判大基数公理；我们用数学标准来评判它们。奎恩在科学的基础上拒绝了集合论的高级理论时，是有意违背潮流的（1986，400）。
+
+因此，关于数学本身的科学自然主义是一种哲学上的革命观点，因为它主张用不同的标准（科学标准）来评判数学，而不是传统的标准（数学标准）。它对数学本身也具有潜在的革命性，因为它可能导致数学的修订。（请注意，即使科学自然主义不意味着对数学的修订，它仍然被视为哲学上的革命：在某个领域中主张用 X 标准取代 Y 标准作为适当的仲裁者，即使 Y 标准和 X 标准恰好在该领域中支持相同的主张，这也是哲学上的革命。）话虽如此，最近的科学自然主义者在性情上倾向于保守，并主张对数学进行很少或没有修订。
+
+这些道德原则也适用于数学与科学的自然主义，但程度较低，因为后者在数学证明中给予数学标准一定的重视。
+
+有趣的是，数学自然主义是三种自然主义中的第三种，从哲学上来说并非数学上的革命。在数学上，它尽可能保守：除了数学标准之外，没有其他标准与数学命题的评估相关。因此，没有被接受的数学会被外部推翻。然而，数学自然主义在数学哲学上是一种革命性的立场。为了理解这一点，假设柏拉图主义是标准的、被接受的数学实践的一部分。在这种情况下，数学自然主义意味着没有进一步质疑其真实性的问题。简单地说，仅仅因为数学家（作为数学家）是柏拉图主义者，柏拉图主义就是正确的数学哲学。这显然与哲学实践不符：哲学家将数学家的观点（作为数学家）视为哲学数学的可推翻数据，而不是结论。因此，我们可以看到，将数学自然主义简单地描述为保守主义是不完全正确的：尽管在数学上是保守的，但在哲学上是革命性的。
+
+总之，科学自然主义、数学自然主义和数学与科学的自然主义在某种程度上都是革命性的，并面临相应的证明负担。我们现在可以理解第 1 节中表达的一般性主张，即自然主义是反修正主义的意义以及它不是的意义。
+
+这也表明当代自然主义与后期维特根斯坦的表面上相似的元哲学有所不同。维特根斯坦的反哲学与自然主义一样，禁止哲学改变数学：“哲学绝不能干涉语言的实际使用……它让一切保持原样。它也让数学保持原样”（1953 年，§163）。然而，自然主义的革命性质意味着它不会让一切保持原样。
+
+### 4.2 文献中缺乏自然主义的论证
+
+文献中缺乏对自然主义的论证。大多数自然主义者只是假设他们的自然主义，并从中进行下游工作，希望其结果能够吸引易受影响的人（Maddy 2007，3）。因此，自然主义实际上成为一种个人信条，几乎没有直接努力吸引其他人：我只接受某个领域中的 X 标准，因为我认为它们比其他标准更可信。也许最终我们无法做得更好。但我们不应该在一开始就假设这一点。这一点尤为重要，尤其是考虑到自然主义的革命性特征，正如前面所解释的。一个保守的理论正当化可能会在广义自然主义的起点上支持自然主义；但正如我们所见，我们的起点并不是压倒自然主义的起点：它最多是兼容性自然主义。因此，对于超过最温和版本的自然主义的任何论证都是受欢迎的。
+
+### 4.3 当前的成功
+
+自然主义者的动机在于科学或数学标准是我们拥有的最成功的标准。但是成功意味着什么呢？粗略地说，以下可能被视为学科成功的标志：（i）在其从业者中，存在着对学科的指导问题和可接受方法的广泛共识；（ii）学科内在解决其指导问题方面取得了进展。然后，可以尝试沿着这些思路论证物理学比形而上学更成功，心理学比超心理学更成功，天文学比占星术更成功。
+
+这种方法面临着一个双重问题。如果方法论上什么都可以，各种学科都可以在不获得可信度的情况下取得成功。考虑一下“古鲁学”，这门学科将其指导问题视为某位古鲁所阐述的问题，并规定其方法论为可接受的答案仅限于古鲁的言论（也许假设一致性——因此让我们假设古鲁是一致的，更一般地是概率上的一致）。这些答案可以是任意奇特的：我们将其留给读者的想象力来构思古鲁提出的奇异主张的例子。如果我们假设古鲁回答了他提出的每个问题，那么“古鲁学”因此是进步的——它回答了它提出的所有问题——因此是成功的。但是它的成功并不能说明它的可信度。
+
+一般来说，如果任何给定的标准集合 S 的成功是根据其自身的标准来衡量的，即使用 S-标准，那么几个自我支持但直观上不可接受的标准集合也被视为成功。这种相对主义显然不是自然主义者所希望的。同样，对于成功是通过标准如何帮助我们“应对现实”来确定的想法，几个非科学和非数学的自然主义同样在这个标准下自证清白。也许成功应该通过标准如何解释和预测自然现象来衡量，即通过它们如何应对自然科学的主题。但是，采用我们通常的观点来判断在这方面的成功将是以偏概全地支持科学自然主义，因为科学标准恰恰是我们为了应对现实的这一部分而发展起来的标准。比较一下由成功是通过标准如何解释和预测“占星现象”（如占星师所理解的）来衡量的占星自然主义。因此，如果基于成功的自然主义论证要成功，必须找到其他自然主义可接受但不以问题为基础的“成功”理解。
+
+成功论证的第二个问题是一个领域的成功并不意味着另一个领域的成功。生物学在解释和预测生物现象方面相当成功。但是，为什么这会使其在数学或数学哲学问题上具有权威性？其他自然科学也是如此。正如我们将看到的，这一点是普遍适用的。
+
+### 4.4 协议
+
+传统哲学，一个自然主义者可能会说，导致无休止的分歧。而科学和数学通常在其领域内就问题达成广泛的一致性，往往是共识。因此，科学或数学的标准应该优先考虑。 （这种基于分歧和意见不收敛的论证在哲学的其他领域，尤其是元伦理学中，占据了重要地位。）
+
+然而，自然主义者希望从一致性和分歧的模式中得出的道德教训似乎是没有根据的。社群中的一致性或分歧是一种偶然的事情。一个极权主义国家可以通过将某种优选的标准强加给其公民而实现全社会的一致性，效果令人不寒而栗。总的来说，存在无数非认识论的原因导致一致性或分歧。因此，重要的不是一致性，而是解释为何存在一致性。
+
+这种论证的更复杂版本可能基于分歧的可处理性而不是仅仅存在分歧。哲学和科学中都存在分歧，但只有在后者中，可以说分歧是可处理的。至少可以取得进展，也许原则上总是可以达成一致。然后，实际的一致性和分歧模式可以被引用为由科学和非科学哲学标准裁决的辩论的可处理性或不可处理性的证据。
+
+超出本条目的范围来评估这个更复杂版本的论证，这个论证以一种形式或另一种形式最近在数学哲学之外引起了相当大的关注。然而，需要注意一些初步困难。
+
+为了抽象出我们认识情境的偶然性，关于可处理性的论证通常通过考虑高度理想化的主体来进行，特别是那些在事实、逻辑等方面的知识远远超过我们的主体。但是这种理想化的问题在于它们似乎是自圆其说的。例如，一个神学反自然主义者会坚持认为在事实上高度了解的主体将会了解有关超自然现实的事实。我们对理想化的主体的把握以及他们之间的分歧如何解决可能过于松散，以至于无法从这样的思想实验中得出任何实质性的道德教训。要么如此，要么这样的论证很可能是自圆其说的。
+
+其次，我们可以承认，可处理性的考虑揭示了科学和数学标准在各自领域中更具有真理导向性。然而，这似乎并不能提供一个理由来认为它们在其他领域中会取得成功。（这与成功论证的论点相同。）
+
+### 4.5 历史成功
+
+或许自然主义最有前途的论证是基于历史成功的。科学和数学标准的记录比其他领域更好；因此，在数学哲学和其他领域中，应该将科学和数学标准视为权威。请注意，与前两个论证一样，这个关于数学哲学中自然主义的论证也是关于全局自然主义的论证。
+
+一些自然主义者明确依赖于这个动机。例如，Lewis 在《类的部分》（1991 年，58-9 页）中使用它来拒绝结构主义作为正确的集合论哲学，即使他否认它是一个论证；另请参阅 Colyvan（2001 年，33 页），Shapiro（1997 年，30 页）和 Burgess（1998 年，197 页）。关于这个论证有很多可以讨论的地方，可以在 Paseau（2005 年）中探讨。在这里，我们满足于提出两个关键观察。
+
+由于哲学家们采用了明显不同的标准，所以说整个哲学在历史上的记录不佳是什么意思并不清楚。考虑早期的波普尔（1935年），他认为任何证据都不能使一个未被证伪的理论变得可能（或者至少不比其他未被证伪的理论更可能）。这是大卫·刘易斯用来嘲笑哲学的一个例子：毫无疑问，导致这个结论的标准是不可信的。相对论的理论无疑比尚未被证伪的假设“世界将在2525年终结”更可能发生。然而，如果我不同意波普尔1935年的标准，他当时的科学哲学从我的观点来看显然是错误的，但这并不能动摇我对自己哲学标准的信仰。同样地，以托马斯·阿奎那为例，他的哲学标准包括与圣经以及基督教信仰的原则相一致。如果我不是基督徒，阿奎那的哲学神学从我的观点来看是错误的，但这并不能动摇我对自己哲学标准的信仰。因此，卡尔爵士或托马斯圣人的标准在我看来是不好的，并不能动摇我对自己标准的信仰。
+
+因此，我可能同意自然主义者的观点，即哲学的记录比科学和数学更糟糕。但这并不意味着我所使用的（非科学或非数学）标准记录不佳。如果哲学家在历史的过程中一直假设了一个或多个相对统一的标准，并且我也遵循这一传统，将它们作为我的标准，而且这些标准明显比科学或数学标准的记录差，那将是我转向自然主义的一个理由。但第一个假设至少是有问题的，而且如果我的标准的前提没有糟糕的记录，那么历史的论证还剩下什么也不清楚。
+
+论证的第二个问题与其在哲学问题上的应用有关。让我们同意，科学标准在回答科学问题时有良好的记录，数学标准在回答数学问题时有良好的记录，而且这些记录在回答哲学问题时比哲学标准的记录更好。然而，这些事实似乎与哲学问题中应该被视为权威的标准无关。一个领域的良好记录本身并不是另一个领域中真理导向性的证据。
+
+这个现在已经熟悉的反对意见可以通过考虑数学哲学中的形而上学家和结构主义者之间的辩论来加以说明。形而上学家将“1 + 2 = 3”解释为关于抽象对象的主张。而结构主义者则将“1 + 2 = 3”解释为关于满足算术公理的任何结构中的情况。 （在这里，我们将结构主义视为通常被称为“消除性结构主义”的观点类型，该观点源自查尔斯·帕森斯（Charles Parsons），其最复杂的书籍长度和模态版本可在 Hellman（1989）中找到。）自然主义者声称，数学标准在过去更加成功，因此在这个问题上应该值得信赖。但这并不完全清楚，这是否是数学标准在这类问题上比哲学标准有更好的记录的类型。当涉及到诸如 1 + 2 是否等于 3，或者级数 1 + 1/4 + 1/9 + 1/16 + ...是否收敛，或者庞加莱猜想（关于 3 维流形分类的问题）是否成立等问题时，数学标准具有良好的记录；但当涉及到这些真理是形而上学的还是结构主义的问题时，它们并没有经过验证的记录。（对该论点的一个相关反对意见是，科学标准不涉及解释问题，例如偏爱形而上学还是结构主义的问题。参见 Paseau（2007）。）
+
+总之，自然主义者需要发展这些论证或提出更好的论证仍然迫切。
+
+## 5. 异质自然主义
+
+到目前为止，我们已经考虑了三种与数学相关的方法论自然主义的统一类型：科学的、数学的和数学-科学的。现在考虑一种异质的方法论自然主义，当涉及到数学本身时接受数学标准，但在数学哲学和哲学更普遍的领域采用科学标准。异质自然主义由佩内洛普·麦迪（1997 年）提出，她丰富的贡献在过去二十年中激发并无与伦比地影响了关于数学哲学中自然主义的辩论。（麦迪现在更喜欢将她的自然主义称为“第二哲学”，正如她 2007 年的著作标题所示，但在这里我们保持“自然主义”这个标签，以与其他条目保持一致。）
+
+首先，引用麦迪的一句代表性话语：
+
+> 在奎因认为科学“不需要对任何超科学法庭负责，也不需要任何观察和假设演绎方法以外的证明”...的观点上，数学自然主义者补充说，数学不需要对任何超数学法庭负责，也不需要任何证明以外的证明和公理方法（1997 年，184 页）。
+
+在我们的术语中，麦迪的异质自然主义是一个压倒性的论题。正如她所说，“如果我们对数学的哲学解释与成功的数学实践发生冲突，那么哲学必须让步”（1997 年，161 页）。哲学和科学都不能推翻数学的“方法论裁决”（2007 年，361 页），因为它们都是超数学的法庭。然而，麦迪认为数学哲学与数学本身相对立，是自然科学的一个分支，正如她在下面的段落中解释的那样：
+
+> 因此，数学的自然主义哲学与自然科学一样，发生在自然科学内部，但与自然科学的自然化数学实践模型不同，它采取了一种不干涉的态度（1997 年，202 页）。
+
+这些和类似的段落（尤其是 1997 年，200-203 页）表明，麦迪认为数学哲学应该遵循（自然）科学的标准。
+
+异质自然主义的独特之处在于，它推荐一套标准（数学标准）来解决关于数学的一些问题，比如选择哪些公理，以及另一套标准（科学标准）来解决由实践本身留下的其他关于数学的问题，比如如何解释数学。这与数学哲学中的统一自然主义形成对比，例如奎因式科学自然主义，或者伯吉斯式数学与科学自然主义，或者一种统一的数学自然主义（也是 Maddy（1997）提出的，但在我们看来最终并未得到支持）。
+
+为了解释这种二元态度在实践中如何运作，以 Maddy 最喜欢的集合论为例。假设 ZFC + LCA 是我们当前接受的集合论，其中 LCA 是一些大基数公理的集合。根据数学自然主义，关于数学本身，没有拒绝 ZFC + LCA 而选择 ZFC + 无不可达基数公理或其他集合论（比如奎因的新基础理论）的问题。数学标准支持 ZFC + LCA，所以我们必须接受这个集合论。但是我们应该如何解释 ZFC + LCA 呢？柏拉图主义、结构主义还是其他方式？这是一个哲学问题，所以根据科学自然主义（以及哲学更一般的意义），它的正确答案是由科学标准所认可的。例如，如果一个超越性的科学简洁性标准支持柏拉图主义胜过其他所有解释，那么这必须是 ZFC + LCA 的正确解释。
+
+Maddy 通过引用“贯穿自然主义的基本精神”来激发她的自然主义：“成功的企业，无论是科学还是数学，都应该根据自己的术语来理解或评估，这样的企业不应受到来自某个外部、被认为更高的观点的批评，也不需要来自某个外部观点的支持”（1997 年，184 页）。对这句话的一种牵强的解读是，自然主义的基本信念根据定义仅适用于自然科学和数学。一种更自然的解读是，它适用于任何成功的科学。然后，Maddy 声称事实上非数学的理由没有对数学产生影响。我们可以将此表述为数学是自主的论题。
+
+对 Maddy 的异质自然主义的评估主要在于对数学及其含义的自主论题的评估。一个问题是这个论题是否正确。另一个问题是，如果正确，这个论题是否支持异质自然主义。
+
+### 5.1 数学是否具有方法论的自主性？
+
+Maddy 声称，正确的数学证明模型将证明传统科学或哲学论证不参与数学陈述的证明。例如，法国分析家 Baire、Borel 和 Lebesgue 根据可定义方法论批评了选择公理，根据这一方法论，对象的存在取决于其可定义性：函数应该是可定义的规则，集合的成员应该以可定义的方式给出，等等。但是，可定义主义最终对数学实践没有影响，当其数学上不可取的特征变得清晰时，其支持者被沉默或放弃了。例如，选择公理允许在环和其他结构中取最大理想；它涉及到即使分析家已经在使用的最大性原则；它简化了超限算术；尽管它具有可疑的抽象性，但它被证明与“具体”和“数学”陈述等价，例如每个向量空间都有一组基的说法。接受选择公理的原因最终纯粹是数学的。
+
+Maddy 还详细解释了反对“可构造性公理”V = L 的数学原因，特别是它违背了集合论的最大化原则 MAXIMIZE，该原则要求集合的宇宙应尽可能广阔（包含尽可能多的同构类型）。
+
+大多数评论家都让 Maddy 的自然主义的描述性组成部分，即自主论，通过，而将批评的焦点转向其规范性含义。然而，自主论非常激进。数学和哲学之间的互动通常被认为是双向的。特别是，通常认为哲学在某种程度上对数学实践产生影响。直觉主义者例如认为这种依赖是深刻的：他们认为所有数学实践都建立在错误的哲学基础上，一旦这个基础被移除，数学就会摇摇欲坠。
+
+Maddy 乐意承认哲学学说，如可定义主义或现实主义，对数学发展具有重要的启发作用，即使它们不能提供充分的理由（1997 年，192 页）。她也承认“关于数学真理、存在或知识的理论实际上出现在大多数关于适当方法的数学辩论中，与更典型的数学考虑并列”（2007 年，348 页）。但她坚持认为这些理论在数学发展中最终没有起到“工具性作用”（2007 年，359 页），并且它们在数学发展中积累了“无关紧要的记录”（2007 年，366 页）。
+
+那么，哲学（或更一般地说，非数学的）考虑是否总是倾向于启发而不是理由？嗯，几乎从不会在数学期刊或书籍中提出哲学考虑。而每当有这样的考虑时，Maddy 认为它们在表面之下实际上是“数学内部”的论证（1997 年，193 页），而一个自然化的实践模型将会因为它们的方法论无关性而被“净化”（1997 年，197 页）。如果她是对的，这个回答将从这个特定的、相当受限制的背景推广到所有数学背景。
+
+这种观点的一个含义是，Maddy 认为纯粹属于数学内部的准则，如 MAXIMIZE 或 UNIFY，从来不是基于哲学信念的。UNIFY 是集合论基础抱负的方法论结果，即提供“一个单一系统，可以对数学的所有对象和结构进行建模或实例化”（1997 年，208-9）。然而，也许 UNIFY 和集合论的基础抱负——正如 Maddy 正确观察到的那样，“集合论（至少在某种程度上）旨在为经典数学提供基础”（2007 年，355）——在某种小小的程度上，或许在某种轻微的程度上，也是以集合论实在论为基础的，即集合论是关于一个单一集合宇宙的观点。同样，对于选择公理来说也是如此，表面上它在集合论规范中的地位部分——或许只是在很小的程度上——归因于对集合论的根深蒂固的实在论观点。有几位集合论学家在记录中提出了这样的说法，因此 Maddy 有责任解释这些言论。
+
+Maddy 还采用了以下有问题的论证方式。她认为哲学辩论（例如关于实在论的辩论）是完全开放的，但数学却以一种特定的方式发展（例如允许非预言性方法），这表明哲学辩论并没有影响现代数学的结果（例如 2007 年，348 页）。但哲学上关于实在论的辩论是完全开放的，并不意味着在数学中也是完全开放的。也许数学家已经隐含地采取了实在主义立场，这在一定程度上支持了他们接受非预言性的观点，而哲学家们继续辩论实在论作为数学哲学的正确性。数学可能在哲学上是偏袒的，这就是它发展的方式。
+
+这些反对自主论的观点并不具有决定性。要评估它，需要更清楚地界定证明和灵感之间的界限，以及说某事物属于哪一方的确切含义。当然，我们还需要更准确地确定数学发展中哪些因素具有证明作用，哪些是无用的。然而，即使自主论不成立，也许它几乎是正确的。也许并不需要像自主论那样强大的理论来支持压倒性而不是双条件的自然主义。
+
+### 5.2 如果数学在方法上是自主的，那是否能证明麦迪的自然主义？
+
+事实上，一个发表陈述的实践是自主的，并不意味着它的陈述就是可接受的。实践可能与外界影响隔绝（例如占星术，教条神学），但这本身并不能使它们的主张变得可接受。数学有何不同之处？
+
+Maddy对她的立场（1997年，203-5; 2005年，449; 2007年，346-7）认识到了这个问题，她的作品的评论和讨论也对此进行了探讨（例如，Dieterle 1999年，Rosen 1999年，Roland 2007年; 只有Tappenden（2001年）更为同情）。她通过区分纯粹学科和应用学科来解决这个问题。以占星术为例，她指出应用占星术可以被解释为对经验世界提出了主张。根据她的普通科学标准，科学自然主义者认识到应用占星术是错误的（因为它与被接受的科学故事不一致）。因此，应用占星术不值得自然主义者的尊重。相比之下，纯粹占星术是将占星术解释为“与普通物理现象没有因果交互作用的某种超自然振动”（1997年，204）。然而，没有理由相信纯粹占星术，因为它在我们最好的科学世界理论中没有出现。因此，无论如何解释，占星术都与数学不相似。
+
+Maddy似乎想要两全其美。数学的可信度之所以被认为是其在科学中的应用。但是，为什么数学在我们最好的科学中的特点应该成为相信数学家言论的理由，也就是说，成为认为它们是真实的理由呢？有人怀疑，如果在最好的科学中出现是可信度的标志，那么最终应该是科学标准决定数学理论的可接受性。Maddy确实引用了一个区分数学和纯粹占星术的特点，正如她所指出的（2007，390）；但仍然不清楚的是，为什么这个特点应该使数学在数学问题上比科学更具权威性。因此，似乎她没有解释如何在数学理论方面一致地成为数学自然主义者，但在其他方面，包括数学的真实性和性质方面，成为科学自然主义者。更一般地说，鉴于一种实践会产生真值可评估的陈述，似乎不能同时主张X标准作为这些陈述可接受性的裁决者，同时主张不同的标准，即Y标准，作为这些陈述是否应该被视为真实的裁决者，以及如何解释它们等等。请注意，这是异质自然主义所面临的问题，而不是统一自然主义。
+
+避免这种明显的矛盾的唯一方法是假设“接受”数学实践认可的陈述——数学的自主实践认可的陈述——并不等于将其视为真实。尽管 Maddy（1997）的几个段落提出了这个解释，但这个解释并不是可以认真对待她的书的解释之一。此外，这几乎等同于科学自然主义，只是没有明确提及而已。这意味着无论数学家们花时间说什么、做什么和发表什么，都不应该受到干扰，但我们只应该相信那些在科学基础上认可的数学主张，无论它们是否在数学家的语言游戏中得到认可。
+
+最近，Maddy 声称她所谓的非现实主义——不将集合论和更一般的数学视为真实——可能与薄实在主义一样具有科学上的可尊重性（2007，IV.4）。本条目无法充分阐述 Maddy 的元哲学中这种转折。只需注意以下几点。刚才讨论的问题似乎对薄实在主义者和其他任何形式的实在主义者都同样适用。而非现实主义的解释似乎将 Maddy 的立场转变为与此处考虑的异质自然主义截然不同的东西。
+
+## 6. 实体自然主义
+
+转向本体论自然主义，现在考虑一下本体论自然主义，即所有实体都是自然的观点。一种解读是，只有自然科学所假设的实体存在。第二种，也许更自然的解读是，只有时空实体存在。我们在本节的最后简要讨论这两种解读，并在 6.3 节简要涉及认识论自然主义。
+
+### 6.1 自然科学作为本体论的仲裁者
+
+在其第一种解读中，数学哲学中的本体论自然主义是方法论科学自然主义的直接结果。它声明数学的本体论是我们最好的自然科学的数学本体论。科学的柏拉图主义者声称，遵循奎因和普特南，这个本体论是柏拉图主义的，数学与科学相结合的柏拉图主义者也是如此（例如，伯吉斯和罗森（1997））。对科学柏拉图主义和相关的不可或缺性论证的抵制已经在几个方面展开（例如，菲尔德 1980 年，索伯 1993 年，麦迪 1997 年，第 II.6 章，帕索 2007 年）。请参阅 Colyvan（2011）进行详细讨论。
+
+### 6.2 所有实体都是时空的
+
+对于本体论自然主义的第二种解读，即所有实体都是时空的，相当于数学哲学中反柏拉图主义的一种版本。
+
+这个立场可以细分。在还原主义观点中，数学被按照逻辑语法的表面意义来理解，但其对象（数、函数、集合等）被认为是时空的。这个观点在阿姆斯特朗（1991）的集合论中以及 Bigelow（1988）的更一般观点中得到了支持。非还原主义观点有很多种。它们包括将数学视为毫无意义的符号操作（形式主义），或者将其视为探索在遵循公理的所有结构中都成立的真理（结构主义），或者将其视为探索在遵循公理的所有可能结构中都成立的真理（模态结构主义）。Bueno（即将出版）讨论了各种名义主义观点，即只承认时空实体的观点。由于这些名义主义观点中的许多观点既符合非自然主义又符合本体论自然主义的动机，我们在这里不进行讨论。我们将集中讨论与本体论实在论的还原主义版本主要相关的一些问题。
+
+自然主义的本体论还原论和关于集合论的非模态结构主义面临一个直接的问题：在时空中的实体数量显然要比集合数量少得多。即使在最自由的假设下（时空点和其中的任意区域存在，这些点或区域中可能有一些较小的无限数量的实体），时空的大小和其中的对象也只是一个相对较低的无限基数（肯定不超过  ω，即使这已经很慷慨了）。因此，没有足够的时空实体来直接解释集合论，也没有足够的时空实体来使集合论的结构解释非真空地成立，从而确保集合论的错误陈述为假而不是真。有关集合论还原主义的这个问题以及其他问题的讨论，请参见 Paseau（2008）。
+
+另一个问题是，即使时空足够大以提供集合论的直接解释模型或其结构解释的实例，这也是我们宇宙的一个偶然事实。集合论将是真实但偶然的。然而，由于我们通常认为数学是必然的，这对于数学哲学来说是一个不合适的结果。有些人甚至可能称之为还原论。
+
+这些问题的不同版本也影响到了密尔的经验主义（1843 年）。对于密尔来说，数学和逻辑是自然科学，它们的原理是自然法则。例如，算术是集合的理论，即具体实体的集合的理论。几何学是关于具体实体的理想极限的理论，如线、点、平面等，其原理是“真实事实，其中一些情况被夸大或省略”（密尔 1843 年，卷 1，第 II 册，第 v 章）。密尔的数学哲学容易受到刚才提到的基数问题的影响。（当然，这是一种时代错误的批评，因为在密尔的时代，无穷集合论尚未发展。）至于数学的偶然性，密尔选择了接受它。
+
+密尔观点的一个相关问题，即使在密尔时代的数学中也会出现，是关于集合的集合的存在的两难境地，集合的集合的集合的存在……如果高阶集合存在，它们只能是抽象的——还能是什么呢？但是如果它们不存在——如果只有一阶集合——那么特别地，就没有数字的数字，例如说在 20 和 30 之间有两个质数是没有意义或者是错误的。
+
+Kitcher（1983 年）试图通过模态化来复兴密尔的数学哲学。它通过一个可能但非实际的理想代理人的操作来解释数学真理，因此属于模态主义的数学哲学范畴。（尽管 Kitcher 本人对这个标签并不喜欢（1983 年，121-2）。）
+
+对于本体论自然主义的还有其他明显的问题，包括任意性问题和其与数学方法的深刻矛盾。假设算术是对某些特定时空实体的研究。很好，但是选择哪些实体作为零是任意的。这个批评是本纳塞拉夫（Benacerraf）在 1965 年提出的一种反约简论证的版本。对此的回应通常是，约简主义并不寻求揭示数词的含义，而是提出了一种理论上的认同（Paseau 2009）。与数学方法相矛盾的指责也是一个严重的问题。如果数学对象是时空的，为什么数学家不进行实验来发现它们的属性？如果数学真正关注时空，那么它的方法论肯定会更加经验主义。
+
+基于这些原因及相关原因，这类讨论的本体论自然主义观点被认为是有问题的，因此不受欢迎。
+
+### 6.3 自然主义反形而上学和认识论自然主义
+
+无论他们的动机是什么，本体论自然主义者根据这一条教义的第二种解读，都一致认为柏拉图主义是错误的。有时本体论自然主义是由形而上学教义所驱使的，例如一切存在的东西都具有因果能力的原则。订阅这一原则的人包括阿姆斯特朗（1997 年）将其称为 Eleatic 原则；有关批评，请参见科利万（2001 年第 3 章）和帕皮诺（2009 年）。
+
+本体论自然主义最流行的论证是认识论的，因此本体论自然主义通常与认识论自然主义结盟。如果存在抽象实体，那么似乎我们无法了解它们，也无法形成可靠的信念（Benacerraf 1973，Field 1989），因为它们与我们隔绝开来。大多数哲学家认为这是困扰柏拉图主义的主要问题。请注意，这个论证通常导致不可知论，而不是否认抽象数学对象的存在。这不是讨论这个论证的地方——有关更多细节，请参见巴拉格尔（2009 年）——只是简要概述了一个既是柏拉图主义者又是科学或数学-科学自然主义者（例如奎因）如何回应它。
+
+自然主义-柏拉图主义者的回应是双管齐下的（Burgess和Rosen 1997, 2005；有关批评，请参见Linnebo 2006，Chihara 2006）。第一个方面是，迄今为止还没有设计出一个简单的知识标准（或可靠信念或合理信念），能够成功地排除对抽象知识的认知，而不排除大多数自然主义者接受的其他类型的知识（Steiner 1975）。举几个例子：（i）认为p是信念p的原因的条件太强，因为它排除了对未来的知识；（ii）正如自然主义-柏拉图主义者所看到的，抽象数学实在是如此，实际上是对信念p的最佳解释的一部分；因此，这种解释性条件与柏拉图主义是相容的。此外，自然主义-柏拉图主义者抱怨说，即使找到了一个能够在名义主义者希望划定的界线上画线的标准，它也会对柏拉图主义提出质疑。
+
+其次，自然主义的柏拉图主义者通过将对我们关于柏拉图数学对象的信念可靠性的任何质疑解释为对科学方法可靠性的一般挑战，来运用标准的奎因主义观点。（这是从科学自然主义者的角度来看的；科学与数学自然主义者可以通过相应的调整来运用相同的观点。）然而，根据我们最好的理论——即自然科学，它假设了抽象的数学对象——我们对抽象数学实体的信念是通过一种可靠的方法得出的，即科学方法。这并不仅仅是自我证明，因为科学方法在这里被用来解释数学信念的可靠性，尽管是整体性的。但是当然，如果科学方法本身的可靠性受到质疑，自然主义者别无选择，只能使用科学方法本身来解释其自身的可靠性。自然主义的柏拉图主义者可能会补充说，我们无法做得更好，任何质疑科学方法可靠性的人都已经离开了自然主义的阵营。从这个角度来看，一旦确定柏拉图主义数学是最佳科学的一部分，那么对于柏拉图主义来说，就没有认识论问题了。
+
+## Bibliography
+
+* Armstrong, D.M., 1991, “Classes Are States of Affairs”, *Mind*, 100(2): 189–200.
+* –––, 1997, *A World of States of Affairs,* Cambridge: Cambridge University Press.
+* Baker, A., 2001, “Mathematics, Indispensability and Scientific Progress”, *Erkenntnis*, 55: 85–116.
+* Balaguer, M., 2009, “Platonism in Metaphysics”, in *The Stanford Encyclopedia of Philosophy* (Summer 2009 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2009/entries/platonism/>.
+* Bigelow, J., 1988, *The Reality of Numbers*, Oxford: Clarendon Press.
+* Benacerraf, P., 1965, “What Numbers Could Not Be”, *Philosophical Review* 74, repr. in P. Benacerraf & H. Putnam (eds), *Philosophy of Mathematics: Selected Readings* 1983, Cambridge University Press.
+* –––, 1973, “Mathematical Truth”, *Journal of Philosophy* 70, repr. in Benacerraf & Putnam (1983), *Philosophy of Mathematics: Selected Readings*, Cambridge: Cambridge University Press, pp. 403–420.
+* Bigelow, J., 1988, *The Reality of Numbers*, Oxford: Clarendon Press.
+* Bueno, O, forthcoming, “Nominalism in the Philosophy of Mathematics”, *The Stanford Encyclopedia of Philosophy*.
+* Burgess, J., 1983, “Why I Am Not a Nominalist”, *Notre Dame Journal of Formal Logic*, 24: 93–105.
+* –––, 1990, ‘Epistemology and nominalism’, in A. D. Irvine (ed.), *Physicalism in Mathematics.* Dordrecht: Kluwer, pp. 1–15.
+* –––, 1998, “Occam's Razor and Scientific Method”, in M. Schirn (ed.), *Philosophy of Mathematics Today*, New York: Oxford University Press, pp. 195–214.
+* Burgess, J. & Rosen, G., 1997, *A Subject With No Object*, New York: Oxford University Press.
+* –––, 2005, “Nominalism Reconsidered”, in S.Shapiro (ed.), *Oxford Handbook of the Philosophy of Mathematics and Logic*, Oxford: Oxford University Press, pp. 515–535.
+* Chihara, C., 2006, “Burgess's ‘Scientific’ Arguments for the Existence of Mathematical Objects”, *Philosophia Mathematica* 14: 318–37.
+* Colyvan, M., 2001, *The Indispensability of Mathematics*, New York: Oxford University Press.
+* –––, 2011, “Indispensability Arguments in the Philosophy of Mathematics”, *The Stanford Encyclopedia of Philosophy* (Spring 2011 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2009/entries/platonism/](https://plato.stanford.edu/archives/spr2011/entries/mathphil-indis/)>.
+* Dieterle, J.M., 1999, “Mathematical, Astrological, and Theological Naturalism”, *Philosophia Mathematica*, 7: 129–135.
+* Field, H., 1980, *Science Without Numbers*, Princeton: Princeton University Press.
+* –––, 1989, *Realism, Mathematics and Modality*, Oxford: Basil Blackwell.
+* Goodman, N. & Quine. W.V., 1947, “Steps Towards a Constructive Nominalism”, *Journal of Symbolic Logic*, 12: 105–122.
+* Hellman, G., 1989, *Mathematics Without Numbers*, Oxford: Oxford University Press.
+* Kitcher, P., 1983, *The Nature of Mathematical Knowledge*, Oxford: Oxford University Press.
+* Lewis, D., 1991, *Parts of Classes*, Oxford: Blackwell.
+* –––, 1993, “Mathematics is Megethology”, *Philosophia Mathematica*, 3: 3–23.
+* Linnebo, Ø, 2006, “Epistemological Challenges to Mathematical Platonism”, *Philosophical Studies*, 129: 545–574.
+* Linsky, B., and Zalta, E., 1995, “Naturalized Platonism vs. Platonized Naturalism”, *The Journal of Philosophy*, 92(10): 525–555 (October).
+* Lycan, W.G., 1988, *Judgement and Justification*, Cambridge: Cambridge University Press.
+* Maddy, P., 1997, *Naturalism in Mathematics*, Oxford: Oxford University Press.
+* –––, 2001, “Naturalism: Friends and Foes”, *Philosophical Perspectives*, 15: 37–67.
+* –––, 2005, “Three Forms of Naturalism” in S.Shapiro (ed.), *Oxford Handbook of the Philosophy of Mathematics and Logic*, Oxford: Oxford University Press, pp. 437–459.
+* –––, 2007, *Second Philosophy: A Naturalistic Method*, Oxford University Press.
+* Mill, J.S., 1843, *A System of Logic*. [several editions]
+* Papineau, D., 2009, “Naturalism”, *The Stanford Encyclopedia of Philosophy* (Spring 2009 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2009/entries/naturalism/>.
+* Paseau, A., 2005, “Naturalism in Mathematics and the Authority of Philosophy”, *British Journal for the Philosophy of Science*, 56: 399–418.
+* –––, 2007, “Scientific Platonism”, in M. Leng, A. Paseau & M. Potter (eds), *Mathematical Knowledge*, Oxford: Oxford University Press, pp. 123–149
+* –––, 2008, “Motivating Reductionism about Sets”, *Australasian Journal of Philosophy*, 86: 295–307.
+* –––, 2009, “Reducing Arithmetic to Set Theory”, in Ø. Linnebo & O. Bueno (eds), *New Waves in the Philosophy of Mathematics*, Palgrave Macmillan.
+* Popper, K.R., 1935, *Logik der Forschung*, Vienna: Springer.
+* Putnam, H., 1971, “Philosophy of Logic”, repr. in his *Mathematics, Matter and Method: Philosophical Papers* (Volume 1), Cambridge: Cambridge UP, pp. 323–57.
+* Roland, Jeffrey, 2009, “On Naturalizing the Epistemology of Mathematics”, *Pacific Philosophical Quarterly*, 90(1): 63–97.
+* Quine, W.V., 1955, “Posits and Reality”, repr. in *The Ways of Paradox and Other Essays*, Cambridge, MA: Harvard University Press, pp. 246–54.
+* –––, 1981, “Things and their places in theories” in his *Theories and Things*, Cambridge, MA: Harvard University Press, pp. 1–23.
+* –––, 1986, “Reply to Charles Parsons”, in L. Hahn & P. Schilpp (eds.), *The Philosophy of W.V. Quine*, La Salle: Open Court, pp. 396–403.
+* –––, 1995, *From Stimulus to Science*. Cambridge, MA: Harvard University Press.
+* Quine, W.V. and Ullian, J., 1970, *The Web of Belief*, New York: McGraw Hill.
+* Roland, J., 2007, “Maddy and Mathematics: Naturalism or Not”, *British Journal for the Philosophy of Science*, 58: 423–450.
+* Rosen, G., 1999, Review of Maddy (1997), *British Journal for the Philosophy of Science*, 50: 467–74.
+* Shapiro, Stewart, and Patrick Reeder, 2009, “A Scientific Enterprise?: Penelope Maddy's Second Philosophy”, *Philosophia Mathematica*, 17(2): 247–271.
+* Sober, E., 1993, “Mathematics and Indispensability”, *Philosophical Review*, 102: 35–58.
+* Steiner, M., 1975, *Mathematical Knowledge*, Princeton: Princeton University Press.
+* Tappenden, J., 2001, “Review: Recent Work in Philosophy of Mathematics”, *Journal of Philosophy*, 98: 488–97.
+* Wittgenstein, L., 1953, *Philosophical Investigations*, Oxford: Blackwell.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=naturalism-mathematics). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/naturalism-mathematics/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=naturalism-mathematics&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/naturalism-mathematics/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [Brouwer, Luitzen Egbertus Jan](https://plato.stanford.edu/entries/brouwer/) | [dependence, ontological](https://plato.stanford.edu/entries/dependence-ontological/) | [epsilon calculus](https://plato.stanford.edu/entries/epsilon-calculus/) | [existence](https://plato.stanford.edu/entries/existence/) | [logic: intuitionistic](https://plato.stanford.edu/entries/logic-intuitionistic/) | [logic and ontology](https://plato.stanford.edu/entries/logic-ontology/) | [mathematical: explanation](https://plato.stanford.edu/entries/mathematics-explanation/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [mathematics, philosophy of: fictionalism](https://plato.stanford.edu/entries/fictionalism-mathematics/) | [mathematics, philosophy of: formalism](https://plato.stanford.edu/entries/formalism-mathematics/) | [mathematics, philosophy of: indispensability arguments in the](https://plato.stanford.edu/entries/mathphil-indis/) | [mathematics, philosophy of: nominalism](https://plato.stanford.edu/entries/nominalism-mathematics/) | [mathematics, philosophy of: Platonism](https://plato.stanford.edu/entries/platonism-mathematics/) | [mathematics, philosophy of: structuralism](https://plato.stanford.edu/entries/structuralism-mathematics/) | [mathematics: constructive](https://plato.stanford.edu/entries/mathematics-constructive/) | [mathematics: non-deductive methods in](https://plato.stanford.edu/entries/mathematics-nondeductive/) | [naturalism](https://plato.stanford.edu/entries/naturalism/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | [object](https://plato.stanford.edu/entries/object/) | [ontological commitment](https://plato.stanford.edu/entries/ontological-commitment/) | [Platonism: in metaphysics](https://plato.stanford.edu/entries/platonism/) | [Quine, Willard Van Orman: New Foundations](https://plato.stanford.edu/entries/quine-nf/) | [realism](https://plato.stanford.edu/entries/realism/) | [realism: challenges to metaphysical](https://plato.stanford.edu/entries/realism-sem-challenge/) | [reism](https://plato.stanford.edu/entries/reism/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: early development](https://plato.stanford.edu/entries/settheory-early/) | [structural realism](https://plato.stanford.edu/entries/structural-realism/) | [truth](https://plato.stanford.edu/entries/truth/) | [type theory](https://plato.stanford.edu/entries/type-theory/) | [Wittgenstein, Ludwig: philosophy of mathematics](https://plato.stanford.edu/entries/wittgenstein-mathematics/)
+
+[Copyright © 2013](https://plato.stanford.edu/info.html#c) by  
+[Alexander Paseau](http://www.acpaseau.com/)

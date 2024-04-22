@@ -1,0 +1,224 @@
+# 心脑同一论 mind/brain identity theory (J. J. C. Smart)
+
+*首次发表于2000年1月12日；实质性修订于2007年5月18日。*
+
+心脑同一理论认为，心灵的状态和过程与大脑的状态和过程是相同的。严格来说，它并不需要认为心灵与大脑是相同的。习惯上，我们确实可以互换使用“她头脑好”和“她大脑好”，但我们几乎不会说“她的头脑重五十盎司”。在这里，我认为将心灵和大脑进行辨识是指辨识心灵和大脑的过程，也许是心灵和大脑的状态。考虑一下痛苦的经历，或者看到某物的经历，或者心理形象的经历。心脑同一理论的观点是，这些经历就是大脑的过程，而不仅仅是与大脑的过程相关联。
+
+一些哲学家认为，虽然经历是大脑的过程，但它们仍然具有根本上非物质的心理属性，有时被称为“质感”。在这里，我将心脑同一理论视为否认这种不可约的非物质属性的存在。一些心脑同一论者对心理状态（如信念和欲望）给出了行为主义分析，但另一些人，有时被称为“中央状态唯物主义者”，则说心理状态是实际的大脑状态。心脑同一论者通常将自己描述为“唯物主义者”，但“物理主义者”可能是一个更好的词。也就是说，一个人可能对心灵持唯物主义立场，但仍然认为物理学中所指的实体并不适合被称为“物质”。
+
+将身份理论（以其各种形式）视为物理主义的一种，我应该说这是本体论的物理主义，而不是翻译的物理主义。试图将包含“脑”或“感觉”一词的句子翻译成关于电子、质子等的句子是荒谬的。我们也不能将包含“树”一词的句子这样翻译。毕竟，“树”主要是通过示意学习的，并且甚至不是植物分类的一部分。如果我们足够小，蒲公英可能会被视为一棵树。然而，物理主义者可以说树是复杂的物理机制。物理主义者将否认某些哲学家（如塞缪尔·亚历山大和可能的 C.D.布罗德）所说的强出现。后者曾指出（Broad 1937），就当时所知，普通盐的性质无法从独立的钠和独立的氯的性质中推导出来。（他将其表述得过于认识论：混沌理论表明，即使在确定性理论中，物理后果也可能超越可预测性。）当然，物理主义者不会否认“出现”的无害意义，即装置不仅仅是其部分的混乱（Smart 1981）。
+
+* [1. 历史先例](https://plato.stanford.edu/entries/mind-identity/#His)
+* [2. 心脑同一的性质](https://plato.stanford.edu/entries/mind-identity/#The)
+* [3. 现象特性和主题中立分析](https://plato.stanford.edu/entries/mind-identity/#Phe)
+* [4. 因果角色理论](https://plato.stanford.edu/entries/mind-identity/#Cau)
+* [5. 功能主义和心脑同一理论](https://plato.stanford.edu/entries/mind-identity/#Fun)
+* [6. 类型和令牌同一理论](https://plato.stanford.edu/entries/mind-identity/#Typ)
+* [ 7. 意识](https://plato.stanford.edu/entries/mind-identity/#Con)
+* [8. 对同一理论的后来反对](https://plato.stanford.edu/entries/mind-identity/#Lat)
+* [ 参考文献](https://plato.stanford.edu/entries/mind-identity/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/mind-identity/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/mind-identity/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/mind-identity/#Rel)
+
+---
+
+## 1. 历史前兆
+
+我在这里理解的心脑同一理论可以追溯到 20 世纪 50 年代的 U.T. Place 和 Herbert Feigl。历史上的哲学家和科学家，例如 Leucippus，Hobbes，La Mettrie 和 d'Holbach，以及 Karl Vogt，他们根据 Pierre-Jean-Georges Cabanis 的观点，提出了脑部分泌思维的荒谬言论（也许并不是要认真对待）。然而，在这里，我将把对心脑同一理论的兴趣追溯到 U.T. Place（Place 1956）的开创性论文“意识是大脑过程吗？”和 H. Feigl（Feigl 1958）的论文“‘心理’和‘物理’”。然而，还应该提到 Rudolf Carnap（1932，第 127 页），H. Reichenbach（1938）和 M. Schlick（1935）的建议。Reichenbach 说，心理事件可以通过相应的刺激和反应来识别，就像光电池的（可能是未知的）内部状态可以通过刺激（光照射）和反应（电流流动）来识别一样。在这两种情况下，内部状态都可以是物理状态。然而，Carnap 认为这种同一是一种语言建议，而不是断言一个事实问题。请参阅他在 Schilpp（1963）中的“Herbert Feigl on Physicalism”，特别是第 886 页。心理学家 E.G. Boring（1933）可能是第一个使用“心脑同一理论”这个术语的人。请参阅 Place（1990）。
+
+Place 的非常原始和开创性的论文是在与 J.J.C. Smart 和 C.B. Martin 在阿德莱德大学的讨论之后撰写的。有关 Martin 对讨论的贡献的回忆，请参阅 Place（1989）在 Heil（1989）中的“低要求断言”。当时，Smart 主张一种行为主义立场，即将心理事件纯粹用关于行为的假设命题以及关于个人经验的第一人称报告来阐明，而 Gilbert Ryle 则将其视为“宣称”。宣称被认为只是行为的一部分，好像说自己有痛苦只是在做一种复杂的皱眉动作。Smart 认为 Ryle 的理论对物理主义友好，尽管这不是 Ryle 的动机的一部分。Smart 希望这些假设最终能够由神经科学和控制论来解释。无法反驳 Place，并且意识到 Ryle 对内在体验处理的不令人满意，这在某种程度上也得到了 Ryle 本人的认可（Ryle 1949，第 240 页），Smart 很快就转变为 Place 的观点（Smart 1959）。在这方面，他还受到 Feigl 的“《心理》与《物理》”（Feigl 1958, 1967）的鼓励和影响。Feigl 的广泛贡献涵盖了许多问题，包括与意向性有关的问题，并引入了有用的术语“法则性悬挂者”来描述二元论者所谓的心理-物理相关性。它们将悬挂在物理科学的法则网络上，应该被视为科学美好面孔上不合理的突起物。Feigl（1967）包含了一篇有价值的“附言”。
+
+## 2. 身份理论的性质
+
+地方谈论的是构成而不是同一性。他的一个例子是“这张桌子是一个旧的包装箱”。另一个例子是“闪电是电荷的放电”。事实上，这后者在 Place 早期的论文《注意的概念》（Place 1954）中就有预示，在该论文中，他对 Ryle 的行为主义在意识、感觉和意象概念上的应用提出了异议。Place 指出（第 255 页）
+
+> 对于“意识是大脑的过程”这个陈述可能提出的逻辑异议并不比对于“闪电是电荷的运动”这个陈述提出的逻辑异议更大。
+
+应该注意到，Place 在当时使用“逻辑”一词的方式与现在通常使用的方式不同。一个异议是“感觉”并不意味着与“脑过程”相同。Place 的回应是指出，“这张桌子”并不意味着与“这个旧的包装箱”相同，“闪电”也不意味着与“电荷的运动”相同。我们通过不同的方式来确定这是一张桌子，与我们确定它是一个旧的包装箱的方式不同。我们通过观察来确定一件事物是否是闪电，通过理论和实验来确定它是电荷的运动。这并不妨碍这张桌子与旧的包装箱完全相同，而所感知到的闪电只是电荷的放电。Feigl 和 Smart 更多地将问题放在意义和指称之间的区别上。“感觉”和“脑过程”在意义上可能不同，但却有相同的指称。“早晨看到的非常明亮的行星”和“晚上看到的非常明亮的行星”都指称同一个实体金星。（当然，这些表达也可以被解释为指称不同的事物，金星不同的时间阶段的不同序列，但不一定或最自然如此。）
+
+在哲学家中似乎存在一种倾向，认为身份陈述需要是必然的和先验的真理。然而，身份论者将“感觉是脑过程”视为偶然的。我们必须找出这个身份的保持。毕竟，亚里士多德认为大脑是用来冷却血液的。笛卡尔认为意识是非物质的。
+
+有时有人反对感觉陈述是无可辩驳的，而关于大脑的陈述是可辩驳的。由此推断出感觉有所不同。赖尔和实际上维特根斯坦玩弄了一个有吸引力但相当不可信的观念，即表面上对即时经验的报告实际上不是报告，而是“承认”，好像我对自己有牙痛的报告只是一种复杂的畏缩。在马丁的影响下，普莱斯能够通过他们的低要求来解释感觉陈述的相对无可辩驳性：“我看到一根弯曲的桨”比“在我看来有一根弯曲的桨”要求更高。然而，我的感觉和我所谓的对感觉的意识是不同的存在，所以根据休谟的原则，它们可以相互发生。除了相对无可辩驳性之外，不应该否认其他任何东西（普莱斯，1989 年）。
+
+正如上面所述，Place 更喜欢用构成的概念来表达这个理论，而 Smart 更喜欢突出逻辑中恒等公理中出现的恒等概念。因此，Smart 不得不说，如果感觉 X 与脑过程 Y 是同一的，那么如果 Y 在我的耳朵之间且是直的或圆的（过于简化了），那么感觉 X 也在我的耳朵之间且是直的或圆的。当然，这在经验中并没有以这样的方式呈现给我们。也许只有神经科学家才能知道它是直的还是圆的。解剖学教授可能与医学院院长是同一人。一位访客可能知道教授在讲座中打嗝，但不知道院长在讲座中打嗝。
+
+## 3. 现象特性和主题中立分析
+
+有人可能反对说，医学院院长在讲课时并不作为院长打嗝。作为院长，他与副校长开会。这并不是关键，但背后有一个关键点。这就是解剖学教授的属性与医学院院长的属性并不相同。问题可能是，即使感觉与脑过程相同，难道感觉没有与脑过程属性相同的内省的非物质属性吗？物理主义的同一论者如何处理这个问题？答案（Smart 1959）是经验的属性是“主题中立的”。Smart从Ryle那里借用了“主题中立”的词，Ryle用它们来描述诸如“如果”，“或”，“和”，“不”，“因为”之类的词。如果你只听到这些词在对话中使用，你无法判断对话是关于数学、物理学、地质学、历史学、神学还是其他任何学科。Smart将“主题中立”一词更狭义地用于在物理主义和二元论之间保持中立。例如，“进行中”，“发生”，“间歇”，“增长”，“减少”都是主题中立的。在所讨论的句子中，“我”指的是发言者，也是主题中立的。因此，说感觉是由闪电或眼前的卷心菜引起的，不确定感觉是二元论者所认为的非物质的，还是唯物主义者所认为的物质的。这个句子也不确定感觉的属性是物质的，还是其中一些是不可约的心理的。为了看到这个想法如何应用于目前的目的，让我们考虑以下例子。
+
+假设我有一个黄色、绿色和紫色条纹的心理形象。我们还可以引入哲学术语“感知数据”来涵盖看到或似乎看到某种黄色、绿色和紫色的情况：我们说我们有一个黄色、绿色和紫色的感知数据。也就是说，我会看到或似乎看到一个绿色、黄色和紫色条纹的旗帜或灯阵。假设也是合理的，大脑中没有黄色、绿色和紫色条纹的东西。因此，对于身份论者来说，说感知数据和形象不是世界家具的一部分是很重要的（正如他们确实做到的那样）。“我有一个绿色的感知数据”实际上只是说我看到或似乎看到真的是绿色的东西。这一举措不应被视为仅仅是一种特设的手段，因为赖尔、J.L.奥斯汀（实际上是维特根斯坦）和其他人已经提供了论证，比如赖尔认为心理形象不是一种幽灵般的明信片式的画面。Place 将我们在感知到某种绿色时认为我们在心灵中感知到某种绿色的错误称为“现象学谬误”。他对这个谬误进行了描述（Place 1956）：
+
+> 错误的假设是，当主体描述他的经验时，当他描述事物在他看起来、听起来、闻起来、尝起来或感觉起来时，他正在描述对象和事件的字面属性，这些属性存在于一种特殊的内部电影院或电视屏幕上，通常在现代心理学文献中称为“现象领域”。
+
+当然，正如斯马特所认识到的那样，这使得身份理论依赖于对颜色的物理主义解释。他早期对颜色的解释（1961年）过于行为主义，无法处理反向光谱问题，但后来他提出了现实主义和客观主义的解释（斯马特，1975年）。阿姆斯特朗对颜色持现实主义立场，但斯马特担心，如果颜色是如此，那么颜色将成为一个非常特殊和不连贯的概念，对宇宙没有重要性，对拥有不同视觉系统的外星人（例如）也没有兴趣。在与刘易斯的对话中，斯马特意识到这并不是颜色作为客观属性的反对意见。
+
+首先，对于颜色，我们首先给出了一个普通人类感知者的概念，对于这个概念，可以通过能力来进行客观测试，以区分颜色。这可以在没有循环的情况下完成。因此，“对于颜色进行区分”比“颜色”的概念更为原始。（可以将其与集合论中的“等势”的概念与“数”进行比较。）然后，斯马特通过普通人类感知者在正常条件下（比如多云的苏格兰白天）对颜色进行区分来阐明颜色的概念。这种对颜色的解释可能是分离的和个人特异的。（麦克斯韦方程可能对半人马座的人来说很有趣，但对我们的颜色概念来说几乎没有意义。）它们可能是以人类为中心的和分离的，但仍然是客观的。大卫·R·希尔伯特（1987）将颜色与反射率等同起来，从而减少了个人特异性和分离性。可以轻松地添加一些复杂的轮辐来处理辐射光、彩虹的颜色或日落时太阳的颜色以及由羽毛的衍射引起的颜色。约翰·洛克在将次要品质作为对象中的力量而非产生思想的力量时，走在了正确的道路上，但在这一点上犯了错误。（此外，斯马特会说，如果力量是倾向，我们应该将次要品质视为这些力量的范畴基础，例如在颜色的情况下，是物体表面的属性。）洛克的观点暗示了这些思想在内心的心理剧院的屏幕上观察到神秘的品质。然而，为了公正地评价洛克，他实际上并没有谈论“红色的思想”，而是“红色的思想”。将“是红色的”解释为“看起来红色”是错误的方式（斯马特，1995年）。
+
+让我们回到我们拥有黄色、紫色和绿色条纹的感觉数据或心理图像的问题上，然而在大脑中并没有黄色、紫色和绿色条纹的东西。身份论者（Smart 1959）可以说感觉数据和图像不是世界上真实的东西：它们就像普通的水管工。表面上关于普通水管工的句子可以被翻译成关于水管工的句子，或者用水管工的术语来阐明。同样，我们有一个绿色的感觉数据或图像，但没有感觉数据或图像，而且拥有绿色的感觉数据或图像本身并不是绿色的。所以从这个角度来看，它很容易是一个不是绿色的大脑过程。
+
+因此，Place（1956 年，第 49 页）：
+
+> 当我们将残影描述为绿色时...我们是在说我们正在经历一种我们通常在看绿色光斑时有的经验，我们已经学会将其描述为这样的经验。
+
+而斯马特（1959 年）说：
+
+> 当一个人说“我看到一个黄橙色的残像”时，他是在说类似于这样的话：“有一些事情正在发生，就像当我睁开眼睛、清醒，并且有一个在良好光照下被照亮的橙色物体在我面前”。
+
+引用这些段落，大卫·查尔默斯（1996 年，第 360 页）反对说，如果“某事正在发生”的解释足够广泛，那是不够的；如果解释足够狭窄，只涵盖经验状态（或过程），那也不足以得出结论。斯马特会强调“通常”这个词来反驳这一点。当然，当我有一个黄色的残像时，我身体里发生了很多事情（例如，我的心脏通过大脑泵血）。然而，它们通常不会发生在那个时候：它们也会在其他时间发生。针对普莱斯，查尔默斯说，“经验”这个词是未经分析的，所以普莱斯的分析对于建立感觉和脑过程之间的同一性是不足够的。针对斯马特，他说，将“经验”这个词从分析中省略掉会使其不足够。也就是说，他不接受“主题中立”的分析。斯马特希望，并且查尔默斯否认，以“通常的”方式解释可以挽救“主题中立”的分析。为了捍卫普莱斯，或许可以说，不清楚“经验”这个词是否不能给出一个主题中立的分析，或许可以借鉴法雷尔（1950 年）的观点。如果我们不需要“经验”这个词，我们也不需要“心理”这个词。罗森塔尔（1994 年）抱怨（反对同一论者）说，经验具有一些特征性的心理属性，“如果我们将这些属性解释为既非物理也非心理，我们就不可避免地失去了独特的心理”。当然，主题中立就是能够同时是物理和心理的，就像算术一样。在主题中立的公式中，本身并不需要出现“心理”这个词。“心理”，正如赖尔（1949 年）所建议的，在其普通用法中是一个相当杂乱的术语，“心理算术”，“心理疾病”等等，同一论者对此并不困扰。
+
+## 4. 因果角色理论
+
+在他们对心灵的解释中，大卫·刘易斯和 D.M.阿姆斯特朗强调了因果关系的概念。刘易斯在 1966 年对心脑同一理论进行了特别清晰的阐述，他在其中说道（我在此引用刘易斯 1983 年重印版，第 100 页）：
+
+> 我的论点是：任何（某种）经验的决定性特征是其因果作用，其最典型的原因和效果综合症。但我们唯物主义者相信，这些因果作用，根据分析的必要性，属于经验，实际上属于某些物理状态。由于这些物理状态具有经验的决定性特征，它们必须是经验。
+
+同样，罗伯特·柯克（1999 年）提出了僵尸的不可能性。如果所谓的僵尸具有那些从僵尸的可能性反对唯物主义的人所归因于它的行为和神经特性，那么这个僵尸是有意识的，因此不是僵尸。
+
+因此，尽管Smart（1959）中没有使用奥卡姆剃刀，但也不需要明确使用，而Place（1956）中有。 （参见Place 1960）。刘易斯的论文非常有价值，已经有迹象表明心灵同一理论与所谓的“功能主义”思想之间存在一种结合，这在刘易斯的1972年和1994年的论文中是明确的。在他的1972年（“心理物理学和理论认同”）中，他应用了他在更正式的论文“如何定义理论术语”（1970）中的思想。民间心理学包含诸如“感觉”，“感知”，“信念”，“欲望”，“情绪”等我们认识到的心理学词汇。还包括颜色、气味、声音、味道等词汇。我们可以将包含这些词汇的常识平凡话语视为构成一种理论，并将它们视为常识心理学的理论术语，因此表示出唯一实现该理论的实体或实体类型。然后，如果某些神经状态也这样做（我们相信），那么心理状态必须是这些神经状态。在他的1994年的论文中，他允许从常识中提取一致的理论时要考虑灵活性。我们不能毫无批判地收集平凡话语，就像在制定语法时，我们必须允许偏离我们最佳理论所构成的语法性。
+
+这种方法相对于早期的心脑同一理论具有很大的优势，其整体性是其中的一个特点。这种整体性有两个要点需要注意。一是这种方法能够允许大脑状态和过程本身之间的因果交互作用，以及外部刺激和反应的情况。另一个是能够利用理论的拉姆齐化概念。F.P.拉姆齐曾经展示了如何用“具有...的 X 属性”来替换理论中的理论性术语，例如“电子的属性”，这样当所有的理论性术语都被替换后，我们只剩下“具有...的 X 属性”，“具有...的 Y 属性”等。将行为描述术语作为观察术语，将心理学术语作为民间心理学的理论术语，拉姆齐化表明民间心理学与唯物主义是相容的。这似乎是正确的，尽管早期的心脑同一理论可能更直接地处理了关于直接经验的报告。
+
+因果方法也是 D.M.阿姆斯特朗在他的《心灵的唯物主义理论》（1968a）中对心理状态和过程（如感知和次要品质、感觉、意识、信念、欲望、情绪、自愿行动）进行仔细的概念分析的特点之一，该书的第一部分和第二部分涉及概念分析，为将心理状态和过程与物质状态进行偶然的等同提供了铺垫。与布莱恩·梅德林一样，在对赖尔的批判和对唯物主义的辩护中，阿姆斯特朗更倾向于将心脑同一理论描述为“中央状态唯物主义”。与阿姆斯特朗和刘易斯独立思考不同，梅德林的中央状态唯物主义依赖于对心理状态和过程概念的因果分析。请参阅梅德林 1967 年和 1969 年（包括附注 1）。
+
+特别要提到阿姆斯特朗的另外两本书，一本是关于知觉的（1961年），另一本是关于身体感觉的（1962年）。阿姆斯特朗认为知觉是通过感官来相信（也可以参考皮彻尔1971年的观点）。这将直接实在主义的优点与对早期代表性理论的科学因果故事的接纳相结合。阿姆斯特朗认为身体感觉是对我们身体状态的知觉。当然，后者可能与情绪状态混淆，例如痒可能包含刮痒的倾向，而在特殊情况下，疼痛可能在没有痛苦的情况下被感知到。然而，阿姆斯特朗认为这里的核心概念是知觉。这引出了一个术语问题。斯马特曾谈到视觉感觉。这些不是知觉，而是在知觉中发生的某种东西。因此，在“感觉”的这个意义上，应该有身体感觉的感觉。这种歧义可能可以通过在“视觉”、“听觉”、“触觉”和“身体”上使用“感知”一词来解决，以便身体感觉将是涉及内省“感知”的感知。这些身体感觉是知觉，也可能会出现错误的知觉，例如一个截肢的人可能会认为自己的脚疼痛。他有一种“脚疼痛”的感知，但世界上并没有脚疼痛，就像世界上没有感觉数据或图像，但却包含感觉数据和图像的存在。
+
+阿姆斯特朗的中心物质主义涉及将信念和欲望与大脑状态等同起来（1968a）。斯马特同意了这一观点。另一方面，普莱斯反对将同一理论扩展到诸如信念和欲望之类的倾向状态。他强调我们对自己的信念和欲望没有特权访问。像赖尔一样，他认为信念和欲望应通过关于行为的假设性陈述来阐明，并且给出了汽车马力的类比（普莱斯 1967 年）。然而，他认为这里的争议与心理状态的神经基础有关，而不是与倾向性质的本质有关。他对倾向性质的观点在与阿姆斯特朗和马丁的辩论中得到了详细论证（阿姆斯特朗，马丁和普莱斯，T.克兰（编）1996 年）。也许我们可以对信念和欲望等心理状态是倾向性质还是以神经生理状态中中立描述的话题放松，并回到似乎更困难的意识问题上。因果同一理论与功能主义密切相关，将在下一节中讨论。斯马特对形而上学中的因果概念持谨慎态度，认为它在理论物理学中没有位置。然而，即使如此，他应该承认它在民间心理学以及科学心理学和生物学中的作用，其中物理学和化学被应用于解释概括而不是严格的定律。如果民间心理学使用因果概念，那么它是否是奎因所称的二级话语，涉及到情境性概念的模态性，就无关紧要了。
+
+## 5.功能主义和同一理论
+
+人们普遍认为，心脑同一理论已被一种称为“功能主义”的理论所取代。可以说，功能主义者极大地夸大了他们与心脑同一理论者的差异。事实上，一些哲学家，如刘易斯（1972年和1994年）以及杰克逊、帕吉特和普赖尔（1982年），将功能主义视为通向心脑同一理论的一种途径。
+
+像Lewis和Armstrong一样，功能主义者将心理状态和过程定义为它们与行为之间的因果关系，但并不将它们与神经实现等同起来。当然，“功能主义”一词的使用方式不一，可以说，Place、Smart和Armstrong的理论在本质上也是功能主义的。在数学中，“功能”一词与“函数”有关，与生物学中的“功能”也有关。在数学中，函数是一组有序的n元组。同样，如果心理过程是通过刺激-反应对的集合直接或间接地定义的，那么这些定义可以被视为数学意义上的“功能”。然而，它可能与生物学中的术语更密切相关，就像我们可以通过其功能来定义“眼睛”，尽管苍蝇的眼睛和狗的眼睛在解剖和生理上有很大的差异。功能主义通过其因果作用来确定心理状态和过程，正如前面提到的与Lewis有关，我们知道功能角色是由神经状态和过程所拥有的。（这里不考虑目的论和人工形式的功能主义。）然而，像杰出的神经生理学家约翰·埃克尔斯爵士这样的互动二元论者（对于我们大多数人来说）会否认所有功能角色都是这样拥有的，这是不可信的。我们可以将民间心理学，以及大部分认知科学，类比为电子学中的“方框图”。图中的一个方框可以标记为“中频放大器”，同时对于确切的电路以及放大是由热电子管还是晶体管完成，保持中立。使用F. Jackson和P. Pettit（1988年，第381-400页）的术语，‘角色状态’将由‘放大器’给出，‘实现状态’将由‘热电子管’给出，例如。 因此，我们可以将功能主义视为一种“黑匣子”理论。这种思路将在下一节中继续追求。
+
+对于信念和欲望的因果性思考，不仅与民间心理学相吻合，而且与休谟关于行动动机的观点也非常契合。尽管这种观点受到一些哲学家的批评，但似乎是正确的，如果我们考虑一个可能的机器人飞机，设计用于从墨尔本飞往悉尼。设计者必须包括东南澳大利亚地区的电子地图的版本，这将提供“信念”方面。还必须编程一个相当于“前往悉尼”的电子版本，这将提供“欲望”方面。如果风和天气使飞机偏离航线，负反馈将使飞机重新回到通往悉尼的正确航线上。目的性机制的存在最终向哲学家们（我希望如此）表明，目的论并没有什么神秘之处。意向性也没有什么重大的语义问题（带有“t”）。考虑句子“乔希望拥有一只独角兽”。这不像“乔踢足球”。乔要踢足球，必须有一只足球可以踢，但没有独角兽。然而，我们可以说“乔希望-对他自己来说是真实的‘拥有一只独角兽’”。或者更一般地说，“乔相信-对S来说是真实的”或“乔希望-对S来说是真实的”，其中S是一个适当的句子（Quine 1960，第206-16页）。当然，如果不想相对于一种语言，就需要插入“或者某个说S的人”或使用“命题”一词，这涉及到命题或互译的概念。即使不接受奎因的翻译不确定性概念，由于“分析性”和“同义性”的模糊性，对于“信念”和“欲望”的概念仍然存在模糊性。身份论者可以说，在任何情况下，这种模糊性与构成信念或欲望的脑状态的模糊性相匹配。一个信念或欲望涉及多少相互连接？ 在像刘易斯这样的整体论解释中，我们不需要假设信念和欲望的个体化是精确的，尽管对于民间心理学和休谟元伦理学来说足够好。因此，大脑对世界的表征可能不像语言。这种表征可能更像地图。地图将其上的每个特征与其他每个特征相关联。然而，地图包含有限的信息量。它们没有无限多的部分，更不用说连续多个部分了。我们可以将信念看作是从地图中提取出的不同信息片段的表达。以这种方式思考，信念将与民间心理学和休谟心理学中的个体主义信念相近。
+
+## 6. 类型和标记同一理论
+
+这里的“类型”和“标记”概念是通过类比词语的“类型”和“标记”而来的。一封电报“爱和爱和爱”只包含两个类型词，但从另一个意义上来说，正如电报员坚持的那样，它包含五个词（“标记词”）。同样，根据标记同一理论，一个特定的疼痛（更准确地说是感到疼痛）与一个特定的脑过程是相同的。功能主义可以同意这一点。功能主义被视为对同一理论的改进，并与之不一致，因为正确地断言功能状态可以由完全不同的脑状态实现：因此，功能状态可以由基于硅的大脑和基于碳的大脑实现，不考虑机器人技术或科幻小说，我的牙痛感可能由与你的牙痛感不同的神经过程实现。
+
+就这一点而言，功能主义者至少可以接受令牌同一性。功能主义者通常否认类型同一性。然而，杰克逊、帕吉特和普赖尔（1982 年）以及布拉登-米切尔和杰克逊（1996 年）认为，这是功能主义者的过度反应。（实际上，他们将功能主义视为同一理论的一种途径。）功能主义者可以将心理状态定义为具有某种状态（例如，基于碳或基于硅）的状态，这解释了其功能属性。功能主义者的二阶状态是具有某种第一阶状态（或其他）的状态，它引起或被功能主义者所指的行为所引起。这样，我们就有了一个二阶类型理论。比较脆性。玻璃的脆性和饼干的脆性都是具有某种解释它们破碎的属性的状态，尽管两种情况下的第一阶物理属性可能不同。这种看待问题的方式在与信念和欲望等心理状态相关时可能更有道理，而不是在立即报告的经验中。当我报告牙痛时，我似乎关注的是第一阶属性，尽管是中性的。
+
+如果我们继续关注第一阶属性，我们可以说类型-令牌区分并非全无关联。我们可以说人类的经验是一类大脑过程，而半人马座的经验是另一类大脑过程。我们确实可以提出更精细的分类，而不必仅限于令牌同一性的极限。
+
+一个受限制的类型理论应该有多么受限制？一个秃头男人还能有多少头发？一个身份论者会期望他今天的牙痛与昨天的牙痛非常相似。他会期望他的牙痛与他妻子的牙痛相当相似。他会期望他的牙痛与他猫的牙痛有些相似。他对外星人的疼痛相似性不太有信心。然而，即使在这种情况下，他可能会期望一些波形或类似的相似之处。
+
+即使在我现在的疼痛与十分钟前的疼痛之间的相似性的情况下，也会存在不重要的不相似之处，也存在于我的疼痛与你的疼痛之间。比较修剪艺术，借用了奎因在另一个联系中利用的类比。在英国乡村花园中，常常会将黄杨树篱的顶部修剪成各种形状，例如孔雀形状。我们可以对黄杨树篱上的孔雀形状进行概括，并且可以说特定篱笆上的所有模仿孔雀具有相同的形状。然而，如果我们接近这两个模仿孔雀并凝视它们以注意构成它们的细枝的精确形状，我们会发现差异。我们是否说两个事物相似与否是一种描述的抽象性问题。如果我们将具体性推向极限，类型将缩小为单个成员的类型，但身份论和功能主义之间仍然没有本体论上的区别。
+
+一种有趣的令牌同一理论形式是戴维森（Davidson）1980 年的异常单一论。戴维森认为，因果关系发生在神经描述下，而不发生在心理语言的描述下。后者的描述使用了意向谓词，但由于翻译和解释的不确定性，这些谓词不出现在法律陈述中。由此可见，心脑同一只能发生在个体（令牌）事件的层面上。考虑到戴维森独创的方法与更常见的同一理论形式有重要的区别，超出了本文的范围。
+
+## 7. 意识
+
+Place 肯定地回答了“意识是大脑过程吗？”这个问题。但是，这是什么样的大脑过程呢？人们自然而然地感觉到有些难以言喻的东西，仅凭神经生理过程（仅具有物理内在属性）是无法拥有的。对于同一论者来说，有一个挑战是要消除这种感觉。
+
+假设我骑着自行车从家里去大学。突然我意识到我已经穿过一座小溪上的桥，沿着一条弯曲的小路走了半英里，避开了迎面而来的车辆等等，但对这一切我却没有任何记忆。从某种意义上说，我是有意识的：我在感知，获取有关我的位置和速度、自行车道和道路的状态、迎面而来的车辆的位置和速度、狭窄桥梁的宽度等信息。但从另一种意义上说，我并没有意识：我是在“自动驾驶”状态下。因此，让我用“意识”这个词来表示这种自动或潜意识的意识。也许我并不完全是在自动驾驶状态下。首先，我可能心不在焉，正在思考哲学问题。然而，这与我的骑车无关。人们可能会想知道是否有人会百分之百地处于自动驾驶状态，也许人们希望不是这样，尤其是在阿姆斯特朗提到的长途卡车司机的例子中（阿姆斯特朗，1962年）。但这种情况很可能发生，如果发生了，司机只有在意识到路线、迎面而来的车辆等方面时才是有意识的，也就是以“通过感官来相信”的意义上的感知。司机会得到这些信念，但并不意识到自己在这样做。在这种“意识”的意义上，并没有暗示无法言喻的含义，对此我将保留“意识”这个术语。
+
+对于完全的意识，那个让我们困惑并暗示着难以言喻的东西，我们需要阿姆斯特朗在与诺曼·马尔科姆的辩论中所阐明的感觉（阿姆斯特朗和马尔科姆，1962年，第110页）。其他哲学家也表达了类似的观点，比如萨维奇（1976年），丹尼特（1991年），莱肯（1996年），罗森塔尔（1996年）。最近的一个表述是在斯马特（2004年）中。在与诺曼·马尔科姆的辩论中，阿姆斯特朗将意识与本体感觉进行了比较。当我们闭上眼睛并没有触摸时，我们立即意识到我们的肘部弯曲的角度时，就发生了本体感觉。也就是说，本体感觉是一种特殊的感觉，不同于身体感觉，我们通过它意识到我们身体的部分。现在，大脑是我们身体的一部分，因此也许我们对大脑中的一个过程或状态的直接意识在这里可以称为“本体感觉”。因此，尽管神经解剖学不同，但本体感觉构成了意识，与仅仅的意识不同，它是一种更高级的意识，是大脑本身对大脑中的一部分（或构型）的感知。有些人可能会感到循环性。如果是这样，请他们假设本体感觉在实际上可以忽略不计的时间后发生。然后也许可以有本体感觉的本体感觉，本体感觉的本体感觉的本体感觉，依此类推，尽管事实上，这个序列可能不会超过两三步。序列中的最后一个本体感觉不会被本体感觉到，这可能有助于解释我们对意识难以言喻的感觉。请参考吉尔伯特·赖尔在《心灵的概念》中关于“我”的系统难以捉摸性（赖尔，1949年，第195-8页）。
+
+Place 曾经主张，“自动驾驶仪”的功能，他称之为“内部僵尸”，是为了提醒意识对其识别为有问题的输入进行警觉，同时忽略非问题输入或将其重新路由到输出，而无需意识到的需要。有关意识的这种观点，请参见 Place（1999）。
+
+## 8. 对同一理论的后来反对意见
+
+这里应该提到 Saul Kripke 和 David Chalmers 对同一理论的有影响力的批评。由于 Kripke 的言论依赖于关于模态性、可能世界语义和本质主义的观点，而一些哲学家可能会对此提出质疑，因此不可能对它们进行详细讨论。而 Chalmers 的长篇丰富的著作则值得给予详细回答。Kripke（1980）称一个表达式为刚性指示符，如果它在每个可能的世界中都指代同一对象。或者在对应理论中，它在每个可能的世界中都有一个完全相似的对应物。在我看来，我们所计算的对应物是高度情境化的。以“水是 H2O”为例。在另一个世界，或者在我们所想象的孪生地球上（如 Putnam 在 1975 年所设想的），河流、湖泊和海洋中发现的物质将不是 H2O，而是 XYZ，因此不会是水。这无疑是对真正的化学优先于民间化学的偏好，我对此表示赞同。因此，有些情境下，我们会说在孪生地球或所设想的可能世界中，河流中发现的物质不会是水。然而，有些情境下，我们可以设想一个可能的世界（写一本科幻小说），在这个世界中，被发现在河流和湖泊以及海洋中，满足口渴和维持生命比化学组成更重要，因此 XYZ 将是 H2O 的对应物。
+
+克里普克考虑了“热 = 分子运动”的同一性，并认为这在每个可能的世界中都是真实的，因此是一个必然的真理。实际上，这个命题并不完全正确，因为辐射热呢？与统计热力学相比，与经典热力学中定义的“主题中立”的热有什么区别呢？不过，假设热有一种本质，并且它是分子运动，或者至少是在设想的背景下。克里普克说（1980 年，第 151 页），当我们认为在没有热的情况下分子运动可能存在时，我们将这种情况与认为分子运动可能存在但没有被感受到为热混淆了。他问是否类似地可能存在这样的情况，即如果疼痛是一种特定类型的脑过程，那么它可能存在而没有被感受到为疼痛。他暗示答案是否定的。接受意识作为高阶感知的解释的同一论者可以回答“是”。我们可能意识到自己有一颗受损的牙齿，也意识到自己处于一种激动的状态（使用赖尔的术语来描述情绪状态），而不意识到我们的意识。像斯马特这样的同一论者更喜欢谈论“感到疼痛”而不是“疼痛”：疼痛不是世界上的一部分，就像感觉数据或平均水管工一样。克里普克得出结论（第 152 页）：心理状态与相应的脑状态之间的表面上的必然联系不能像热那样通过某种定性的类比来解释。
+
+> 斯马特会说感觉（知觉）和脑过程之间的联系只有一半是偶然的。对脑状态或过程的完整描述（包括其原因和影响）将意味着对内在体验的报告，但后者是主题中立的，因此非常抽象，不会暗示神经学描述。
+
+
+查尔默斯（1996 年）在对意识进行详尽研究的过程中，提出了一种关于非物质质感的理论，在某种程度上避免了对于法则性悬挂的担忧。斯马特（1959 年）提出的担忧是，如果存在非物质质感，那么神经生理过程与表面上简单的属性之间将不可思议地存在着关联法则，而这些关联法则将不得不成为基本的、仅仅是科学法则网络（费格尔所称）中的悬挂物。查尔默斯通过假设质感并非简单而是我们所不知道的，由简单的原质感构成，并且将这些质感与物理实体相关联的基本法则将它们与基本物理实体相关联。他的观点涉及到了一种相当有趣的泛心灵论。另一方面，如果中立账户的观点是正确的，那么质感不过是多维相似空间中的点，而压倒性的合理性将倾向于认同身心同一论者的观点。
+
+根据查尔默斯的观点，我们如何意识到非物质质感？前面已经提到，这种内在意识是大脑对自身的本体感知。但是，在意识到质感的情况下，可能存在哪种可能性呢？查尔默斯可能通过他的一致性原则来回答这个问题，根据这个原则，神经系统的因果故事与质感的连续性故事是相似的。然而，目前尚不清楚这是否会使我们意识到质感。质感似乎在描述一只羚羊如何避开一只老虎的生理故事中并不需要。
+
+人们常常认为，即使机器人能够扫描自己的知觉过程，这也并不意味着机器人有意识。这符合我们的直觉，但也许我们可以反过来说，正因为机器人能意识到自己的意识，所以机器人有意识。我已经给出了不信任直觉的理由，但无论如何，查尔默斯在某种程度上玩弄了一个恒温器具有某种原始感觉的想法。身份论者（以及物理主义者）与查尔默斯之间的争论归结为我们对现象学的态度。当然，在森林中行走，看到天空的蓝色，树木的绿色，小路的红色，我们可能很难相信我们的感觉仅仅是多维相似空间中的点。但也许那就是意识到多维相似空间中的一个点的感觉（用一个不可信任的短语来说）。正如普莱斯所建议的，我们也可能受到“现象学谬误”的影响。在他的书的结尾，查尔默斯对量子力学的解释进行了一些推测。如果成功的话，也许我们可以将查尔默斯的理论融入物理学，并将他视为一个物理主义者。然而，我们是否需要深入到量子层面来理解意识，或者意识是否与量子力学相关，这是值得怀疑的。
+
+## Bibliography
+
+* Armstrong, D.M., 1961, *Perception and the Physical World*, London: Routledge.
+* –––, 1961, *Bodily Sensations*, London: Routledge.
+* –––, 1962, ‘Consciousness and Causality’, and ‘Reply’, in D.M. Armstrong N. Malcolm, *Consciousness and Causality*, Oxford: Blackwell.
+* –––, 1968a, *A Materialist Theory of the Mind*, London: Routledge; second edition, with new preface, 1993.
+* –––, 1968b, ‘The Headless Woman Illusion and the Defence of Materialism’, *Analysis*, 29: 48–49.
+* –––, 1999, *The Mind-Body Problem: An Opinionated Introduction*, Boulder, CO: Westview Press.
+* Armstrong, D.M., Martin, C.B. and Place, U.T., 1996, *Dispositions: A Debate*, T. Crane (ed.), London: Routledge.
+* Braddon-Mitchell, D. and Jackson, F., 1996: *Philosophy of Mind and Cognition*, Oxford: Blackwell.
+* Broad, C.D., 1937, *The Mind and its Place in Nature*, London: Routledge and Kegan Paul.
+* Campbell, K., 1984, *Body and Mind*, Notre Dame, IN: University of Notre Dame Press.
+* Carnap, R., 1932, ‘Psychologie in Physikalischer Sprache’, *Erkenntnis*, 3: 107–142. English translation in A.J. Ayer (ed.), *Logical Positivism*, Glencoe, IL: Free Press, 1959.
+* –––, 1963, ‘Herbert Feigl on Physicalism’, in Schilpp 1963, pp. 882–886.
+* Chalmers, D.M., 1996, *The Conscious Mind*, New York: Oxford University Press.
+* Clark, A., 1993, *Sensory Qualities*, Oxford: Oxford University Press.
+* Davidson, D., 1980, ‘Mental Events’, ‘The Material Mind’ and ‘Psychology as Part of Philosophy’, in D. Davidson, *Essays on Actions and Events*, Oxford: Clarendon Press.
+* Dennett, D.C., 1991, *Consciousness Explained*, Boston: Little and Brown.
+* Farrell, B.A., 1950, ‘Experience’, *Mind*, 50: 170–198.
+* Feigl, H., 1958, ‘The “Mental” and the “Physical”’, in H. Feigl, M. Scriven and G. Maxwell (eds.), *Concepts, Theories and the Mind-Body Problem* (Minnesota Studies in the Philosophy of Science, Volume 2), Minneapolis: University of Minnesota Press; reprinted with a Postscript in Feigl 1967.
+* –––, 1967, *The ‘Mental’ and the ‘Physical’, The Essay and a Postscript*, Minneapolis: University of Minnesota Press.
+* Heil, J., 1989, *Cause, Mind and Reality: Essays Honoring C.B. Martin*, Dordrecht: Kluwer Academic Publishers.
+* Hilbert, D.R., 1987, *Color and Color Perception: A Study in Anthropocentric Realism*, Stanford: CSLI Publications.
+* Hill, C.S., 1991, *Sensations: A Defense of Type Materialism*, Cambridge: Cambridge University Press.
+* Jackson, F., 1998, ‘What Mary didn't know’, and ‘Postscript on qualia’, in F. Jackson, *Mind, Method and Conditionals*, London: Routledge.
+* Jackson, F. and Pettit, P., 1988, ‘Functionalism and Broad Content’, *Mind*, 97: 381–400.
+* Jackson, F., Pargetter, R. and Prior, E., 1982, ‘Functionalism and Type-Type Identity Theories’, *Philosophical Studies*, 42: 209–225.
+* Kirk, R., 1999, ‘Why There Couldn't be Zombies’, *Proceedings of the Aristotelian Society* (Supplementary Volume), 73: 1–16.
+* Kripke, S., 1980, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
+* Levin, M.E., 1979, *Metaphysics and the Mind-Body Problem*, Oxford: Clarendon Press.
+* Lewis, D., 1966, ‘An Argument for the Identity Theory’, *Journal of Philosophy*, 63: 17–25.
+* –––, 1970, ‘How to Define Theoretical Terms’, *Journal of Philosophy*, 67: 427–446.
+* –––, 1972, ‘Psychophysical and Theoretical Identifications’, *Australasian Journal of Philosophy*, 50: 249–258.
+* –––, 1983, ‘Mad Pain and Martian Pain’ and ‘Postscript’, in D. Lewis, *Philosophical Papers* (Volume 1), Oxford: Oxford University Press.
+* –––, 1989, ‘What Experience Teaches’, in W. Lycan (ed.), *Mind and Cognition*, Oxford: Blackwell
+* –––, 1994, ‘Reduction of Mind’, in S. Guttenplan (ed.), *A Companion to the Philosophy of Mind*, Oxford: Blackwell.
+* Lycan, W.G., 1996, *Consciousness and Experience*, Cambridge, MA: MIT Press.
+* Medlin, B.H., 1967, ‘Ryle and the Mechanical Hypothesis’, in C.F. Presley (ed.), *The Identity Theory of Mind*, St. Lucia, Queensland: Queensland University Press.
+* –––, 1969, ‘Materialism and the Argument from Distinct Existences’, in J.J. MacIntosh and S. Coval (eds.), *The Business of Reason*, London: Routledge and Kegan Paul.
+* Pitcher, G., 1971, *A Theory of Perception*, Princeton, NJ: Princeton University Press.
+* Place, U.T., 1954, ‘The Concept of Heed’, *British Journal of Psychology*, 45: 243–255.
+* –––, 1956, ‘Is Consciousness a Brain Process?’, *British Journal of Psychology*, 47: 44–50.
+* –––, 1960, ‘Materialism as a Scientific Hypothesis’, *Philosophical Review*, 69: 101–104.
+* –––, 1967, ‘Comments on Putnam's “Psychological Predicates”’, in W.H. Capitan and D.D. Merrill (eds.), *Art, Mind and Religion*, Pittsburgh: Pittsburgh University Press.
+* –––, 1988, ‘Thirty Years on–Is Consciousness still a Brain Process?’, *Australasian Journal of Philosophy*, 66: 208–219.
+* –––, 1989, ‘Low Claim Assertions’, in J. Heil (ed.), *Cause, Mind and Reality: Essays Honoring C.B. Martin*, Dordrecht: Kluwer Academic Publishers.
+* –––, 1990, ‘E.G. Boring and the Mind-Brain Identity Theory’, *British Psychological Society, History and Philosophy of Science Newsletter*, 11: 20–31.
+* –––, 1999, ‘Connectionism and the Problem of Consciousness’, *Acta Analytica*, 22: 197–226.
+* –––, 2004, *Identifying the Mind*, New York: Oxford University Press.
+* Putnam, H., 1960, ‘Minds and Machines’, in S. Hook (ed.), *Dimensions of Mind*, New York: New York University Press.
+* –––, 1975, ‘The Meaning of “Meaning”’, in H. Putnam, *Mind, Language and Reality*, Cambridge: Cambridge University Press.
+* Quine, W.V.O., 1960, *Word and Object*, Cambridge, MA: MIT Press.
+* Reichenbach, H., 1938, *Experience and Prediction*, Chicago: University of Chicago Press.
+* Rosenthal, D.M., 1994, ‘Identity Theories’, in S. Guttenplan (ed.), *A Companion to the Philosophy of Mind*, Oxford: Blackwell, pp. 348–355.
+* –––, 1996, ‘A Theory of Consciousness’, in N. Block, O. Flanagan, and G. Güzeldere (eds.), *The Nature of Consciousness*, Cambridge, MA: MIT Press.
+* Ryle, G., 1949, *The Concept of Mind*, London: Hutchinson.
+* Savage, C.W., 1976, ‘An Old Ghost in a New Body’, in G.G. Globus, G. Maxwell and I. Savodnik (eds.), *Consciousness and the Brain*, New York: Plenum Press.
+* Schilpp, P.A. (ed.), 1963, *The Philosophy of Rudolf Carnap*, La Salle, IL: Open Court.
+* Schlick, M., 1935, ‘De la Relation des Notions Psychologiques et des Notions Physiques’, *Revue de Synthese*, 10: 5–26; English translation in H. Feigl and W. Sellars (eds.), *Readings in Philosophical Analysis*, New York: Appleton-Century Crofts, 1949.
+* Smart, J.J.C., 1959, ‘Sensations and Brain Processes’, *Philosophical Review*, 68: 141–156.
+* –––, 1961, ‘Colours’, *Philosophy*, 36: 128–142.
+* –––, 1963, ‘Materialism’, *Journal of Philosophy*, 60: 651–662.
+* –––, 1975, ‘On Some Criticisms of a Physicalist Theory of Colour’, in Chung-ying Cheng (ed.), *Philosophical Aspects of the Mind-Body Problem*, Honolulu: University of Hawai‘i Press.
+* –––, 1978, ‘The Content of Physicalism’, *Philosophical Quarterly*, 28: 339–341.
+* –––, 1981, ‘Physicalism and Emergence’, *Neuroscience*, 6: 109–113.
+* –––, 1995, ‘“Looks Red” and Dangerous Talk’, *Philosophy*, 70: 545–554.
+* –––, 2004, ‘Consciousness and Awareness’, *Journal of Consciousness Studies*, 11: 41–50.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mind-identity). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/mind-identity/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=mind-identity&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/mind-identity/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[consciousness](https://plato.stanford.edu/entries/consciousness/) | [functionalism](https://plato.stanford.edu/entries/functionalism/)
+
+### Acknowledgments
+
+I would like to express my thanks to David Armstrong, Frank Jackson and Ullin Place for comments on an earlier draft of this article and David Chalmers for careful editorial suggestions.
+
+[Copyright © 2007](https://plato.stanford.edu/info.html#c) by  
+J. J. C. Smart

@@ -1,0 +1,261 @@
+# 中观 Madhyamaka (Richard Hayes)
+
+*首次发表于2010年11月6日；实质修订于2023年8月18日。*
+
+佛教中观学派，其追随者被称为中观派，是印度大乘佛教的两个主要学派之一，另一个学派是瑜伽行派。该学派的名称是对佛教的一般主张的引用，即佛教是一条中道（madhyamā pratipad），避免了两个极端：永恒主义——即所有事物之所以存在是因为有一个永恒的本质，和虚无主义——即事物在存在时具有本质，但这些本质在事物自身消失时被消灭。中观学派的信念，可以称之为英文中的中道学派，是通过否认事物具有任何固有本质来实现这种中道。换句话说，所有事物都是没有固有本质的，也就是空的。这种普遍空性（svabhāva-śūnyatā）的教义是该学派的标志，使该学派坚定地位于与大乘佛教的般若波罗蜜经（prajñāpāramitā）文献相关的传统中。
+
+该学派的关键文本包括对龙树的著作的评论——最常被评论的龙树著作是《中观论》（MMK）和《解脱论》（VV）——以及一些独立的作品，这些作品扩展了龙树著作中的思想。早期中观学派的一些梵文论著被翻译成中文，并成为中国佛教短暂存在的一个学派的基础。相当数量的梵文中观经典最终被翻译成藏文，并对藏传佛教的知识遗产产生了重要影响。本文仅涉及从公元五世纪到八世纪的印度中观学派，这段时间内该学派经历了大部分的演变。
+
+* [1. 中观学派的问题](https://plato.stanford.edu/entries/madhyamaka/#IssuMadhScho)
+* [2. Āryadeva (约公元 225-250 年)](https://plato.stanford.edu/entries/madhyamaka/#AaryFlCa225250CE)
+* [3. Buddhapālita](https://plato.stanford.edu/entries/madhyamaka/#Budd)
+* [4. Bhāvaviveka](https://plato.stanford.edu/entries/madhyamaka/#Bhaa)
+
+  * [4.1 生平与作品](https://plato.stanford.edu/entries/madhyamaka/#LifeWork)
+  * [ 4.2 贡献](https://plato.stanford.edu/entries/madhyamaka/#Cont)
+* [ 5. 中观学派](https://plato.stanford.edu/entries/madhyamaka/#Cand)
+* [ 6. 中观学派](https://plato.stanford.edu/entries/madhyamaka/#Saan)
+
+  * [6.1 生平与著作](https://plato.stanford.edu/entries/madhyamaka/#CandContLifeWork)
+  * [ 6.2 贡献](https://plato.stanford.edu/entries/madhyamaka/#CandCont)
+* [ 7. 知识宝藏](https://plato.stanford.edu/entries/madhyamaka/#Jnaa)
+
+  * [7.1 生平与著作](https://plato.stanford.edu/entries/madhyamaka/#JnnaLifeWork)
+  * [ 7.2 贡献](https://plato.stanford.edu/entries/madhyamaka/#JnnaCont)
+* [ 8. 中观学派](https://plato.stanford.edu/entries/madhyamaka/#Sant)
+
+  * [8.1 生平与著作](https://plato.stanford.edu/entries/madhyamaka/#SantLifeWork)
+  * [ 8.2 贡献](https://plato.stanford.edu/entries/madhyamaka/#SantCont)
+* [ 参考文献](https://plato.stanford.edu/entries/madhyamaka/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/madhyamaka/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/madhyamaka/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/madhyamaka/#Rel)
+
+---
+
+## 1. 中观学派的问题
+
+所有中观学派思想家都有一些共同点。在所有这些共同点中，人们可以找到某种版本的两谛教义，即存在一种理解层次，它由对日常生活中所经历的世界的准确解释组成，还有一种理解层次，有助于达到佛教修行的终极目标（即涅槃），涅槃被理解为没有附着、厌恶和迷惑的状态，且不可能再回到附着、厌恶和迷惑的状态。人们也普遍认同，语言仅限于日常理解的层次，而涅槃的真理超出了语言的范围，也超出了使语言成为可能的概念化的范畴。
+
+在中观学派思想家之间产生分歧的地方在于这两个真理如何相互关联的问题。仔细的言辞和思考是否有助于使人更接近涅槃，还是它总是成为一种障碍？在中观学派中是否有空间供清晰思维和精心构建的论证，还是所有试图达到清晰思维和严谨论证的努力最终都是妄想的，因此应该与更明显的妄想形式一起放弃？
+
+中观学派与大乘佛教的另一个主要学派瑜伽行派在另一个领域中存在差异，中观学派将瑜伽行派描述为一种主观唯心主义。早期的中观学派倾向于反驳瑜伽行派的观点，即所有意识中的内容都起源于意识本身，因此本体上与意识一致。后来的中观学派为这个观点找到了空间，通常将瑜伽行派描绘为一种为人们在智力和情感上为一切事物缺乏固有本质和我们所认为的知识最终没有根据的艰难真相做准备的哲学。
+
+## 2. 阿育王（约公元 225-250 年）
+
+根据在藏文和中文中保留的传统记载，阿育王出生在现在的斯里兰卡，他放弃了王位的继承权，剃发出家，研究佛教经典数年，并前往南印度旅行。据说他成为龙树的直接弟子。他的主要著作《四百颂论》被视为中观学派的一部作品，并得到了詹德拉吉和著名的藏传中观学派支持者的评论。
+
+《四百颂论》的前一百首诗篇涉及四种幻觉，这些幻觉必须被那些努力实现从不满的根本原因中解脱出来的人所消除。这四种幻觉是：相信世界上有永恒的事物逃脱了毁灭，相信不稳定的事物能够提供真正的满足，相信满足可以从本质上不纯净的事物中获得，以及相信通过专注于自己可以达到满足。这些都是佛教著作中的常见主题。第二组一百首诗篇也涉及到佛教的常见主题，即培养利他动机，摆脱欲望、愤怒和迷惑的困扰，以及培养道德行为的习惯。虽然这部论著的前半部分本质上是激励性的，但后半部分提供的论证旨在证明一切事物都是有条件的，因此是不稳定的，没有任何事物符合独立和持久的自性，也没有无因果。大部分涉及这些主题的诗篇都是辩论性质的，旨在驳斥婆罗门学派、耆那教和一些佛教学者的教义。正如其他中观学派的人一样，阿育王主要关注于展示所审查的教义的难以理解或荒谬之处。他这样做的动机可以在8.10中找到（第八组二十五首诗中的第十首），他说执着于自己的观点并贬低他人的观点是达到涅槃的障碍，对于从事教义争论的人来说，平静是不可能的。因此，他展示各种立场的站不住脚性，可能并不是为了驳斥他人以建立自己的立场，而是为了帮助读者打破坚定持有教义的习惯。
+
+Āryadeva 展示特定立场的不一致性的一个例子是他批评存在永久自我观点的观点。他观察到，由于永久自我无法经历变化，因此它无法受到伤害或破坏，因此那些相信这样的自我的人提倡反对杀戮或伤害他人的道德准则是不一致的。虽然Āryadeva 在一些章节中努力展示 Sāṃkhya 和 Vaiśeṣika 学派的一些特定教义的不一致性，但在第十四章中，他提供了一个可以应用于任何教义立场的论证范例。这个范例对于那些阅读过 Nāgārjuna 和其他中观学派著作的读者来说是熟悉的，它表明在将给定的谓词归属于一个主体、将该谓词的否定归属于一个主体、将谓词和它的否定都归属于一个主体、以及将谓词和它的否定都不归属于一个主体时存在问题。例如，他认为不能说一个罐子是单一的，因为它有许多特征，如颜色、形状、硬度、气味等等。也不能说罐子是许多罐子，因为没有一个单独的特征是一个罐子。不能说罐子是一个具有许多特征的整体，因为它的一些组成部分是物质的，因此能够接触和定位，而其他部分，如颜色和气味，是非物质的，没有位置；说具有相反性质的特征形成一个连贯的整体是没有意义的。然而，否认罐子是单一的或多个的，就是否认它根本存在，因为存在的事物必须具有某种属性或该属性的缺失。Āryadeva 以诗歌形式陈述这些论证，简洁而难以理解；因此，大多数研究他的著作的读者都会借助后来梵文或藏文作者撰写的众多评论来帮助理解。
+
+## 3. Buddhapālita
+
+除了一本名为《Akutobhaya》（无所畏惧）的注释，传统上被归属于龙树，但现代学者对其作者身份提出了质疑，最早的现存《中观论》注释是由佛护（约公元470年至公元540年）所著的《中观论疏》。这本文本的原始梵文版本已经失传，但在藏文翻译中仍然存在。佛护的注释与《Akutobhaya》一样，紧密围绕着它所注释的文本。《中观论》是用诗歌形式写成的，佛护的注释将诗歌文本的词语按照标准散文的词序排列，并提供注释以消除可能引起困惑的词语歧义。与《中观论》本身一样，佛护的注释并不提供一个肯定的立场，而是展示了对所讨论的哲学问题所有表面上可能的解决方案的不可行性。《中观论》和佛护的注释中检验一个立场的主要方法是展示该立场所涉及的不受欢迎的后果。
+
+纳伽尔朱那和佛陀巴利塔采用的方法之一是他们对因果关系的讨论，这个主题在《中观论》1.1中被提出。只有四种可能的关系：原因与结果相同，原因与结果不同，原因既相同又不同于结果，或者原因既不相同也不不同于结果。第四种立场等同于说没有原因，因此结果是从无中产生的。这四种可能性依次被否定，每一种都有不同的理由。佛陀巴利塔认为，如果结果与原因相同，那么它作为原因已经存在，并且不需要再次产生。原因和结果的一致性破坏了因果关系的概念。另一方面，如果结果与原因不同，那么无论原因和结果是什么，都没有限制。佛陀巴利塔说，第三种可能性是站不住脚的，因为它只是刚刚被证明站不住脚的两个假设的结合。由两个错误命题构成的命题不能是真的。第四种可能性，像第一种可能性一样，破坏了因果关系的概念。此外，佛陀巴利塔说，它会使所有的实践无效；他在这里可能指的是特定的佛教宗教实践，这些实践是基于确定不满的根本原因，然后消除这些根本原因，使不满消失。
+
+超越显示在特定情况下可能存在的关系之间的每个关系的不可持续性，那伽梵净和佛陀帕利塔几乎没有什么可说的。中观学派的反对者对这种方法持批评态度，实际上说，发现一个哲学观点的错误，除非准备提供一个更好的观点来取代错误的观点，否则没有什么价值。随着接下来的内容变得更加清晰，正是这个问题——即是否仅仅发现哲学观点的错误是否有价值——成为了中观学派之间的争议。
+
+## 4. 勃哈维卡
+
+对佛陀帕利塔的注释传统的最强挑战来自勃哈维卡，他对中观学派的方法成为了西藏佛教徒在几个世纪后认为与佛陀帕利塔相媲美的中观学派的一个分支的基础。
+
+### 4.1 生活与作品
+
+中观学派的 Bhāvaviveka，也被称为 Bhavya 和 Bhāviveka，可能活跃在 6 世纪中叶。他对《中观论》的评论，名为《智慧之灯》（Prajñāpradīpa），现仅存于中文和藏文翻译中，不仅包含了他对龙树思想的解释，还批评了 Buddhapālita 对中观学派的方法，下文将详述，以及对佛教阿毗达磨传统的批评。《智慧之灯》还包括对萨木伽、婆罗门教和耆那教等非佛教学派的批评。
+
+除了对《中观论》的评论外，Bhāvaviveka 还写了一部重要的独立的中观论诗歌著作，名为《中观心要颂》（Madhyamakahṛdayakārikā），他还为此著作提供了一篇散文评论，名为《推理之火》（Tarkajvālā）。这些作品的组合共有十一章。
+
+1. 在修持和维持菩提心方面，即为了造福和最终解脱一切众生而立志成佛
+2. 遵循佛教戒律
+3. 努力追求对现实的认知
+4. 保守的正统佛教徒（声闻）所理解的现实
+5. 瑜伽行派佛教所理解的现实
+6. 撒姆吉亚学派所理解的现实
+7. 中观学派理解的现实
+8. 吠檀多学派理解的现实
+9. 律学派理解的现实
+10. 全知的实现
+11. 关于赞美的特征
+
+正如本作品的章节标题所显示的那样，Bhāvaviveka 是他那个时代印度哲学中大多数重要流派的学生，并试图确定中观学派在整个佛教中的地位。他对中观学派的理解与 Buddhapālita 的理解有着重要的不同。他们不同的方法最终定义了中观学派的三个重要分支之一。
+
+### 4.2 贡献
+
+布哈维维卡（Bhāvaviveka）对中观学派的独特特点在于他坚信，中观学派应该提出一个积极的论证来支持一个立场，而不仅仅是展示其他立场的不足之处。他对布达巴利塔（Buddhapālita）的批评主要集中在这一点上；布达巴利塔没有陈述中观学派的信仰，而是仅仅指出其他人的信仰在某种程度上是站不住脚的。在印度辩论传统中，批评他人的立场而不敢陈述自己的立场被视为论证的次级用法，称为 vitaṇḍā，字面意思是进行攻击。布哈维维卡非常努力地表明，中观学派不能被合理地指责为这种哲学上的攻击行为。他肯定中观学派确实有一种信念，他们准备陈述和捍卫这种信念，即一切现象都没有固有的本质，也就是说，它们没有独立地拥有的本质。一切现象都是有条件的，它们所拥有的本质是通过它们的条件而获得的，而不是靠自身。中观学派简洁地表达所有这些的方式是说一切现象（法）都是空的（śūnya）。由于中观学派相信一切现象都是空的，他们有责任向读者提供理由，以使他们相信这是一个合理的信念。
+
+在为中观学派所接受的结论提供论证时，Bhāvaviveka遵循了Dignāga（约510年）的榜样，他是一位佛教徒，其主要贡献在于认识论和逻辑学领域。Dignāga在一些修改后，继承了婆罗门派的Nyāya学派哲学家的思想，设计了一种规范的论证形式，即通过确定一个主题（pakṣa），并根据观察到的主题特征来推理，以证明该主题还具有另一个目前无法直接观察到的特征。印度逻辑学中给出的典型例子是，如果一个特定的山是主题，那么可以通过观察到与该山相关的烟来推理，该山也与火有关。只有在先前观察到被用作证据的特征与被推断的特征一起出现，并且从未见过在没有被推断的特征的情况下出现被用作证据的特征时，才能将未观察到的特征归因于主题。因此，Dignāga的论证方法包括陈述一个主题（pakṣa）和作为证据的属性（sādhaka-dharma），以证明要建立的属性（sādhya-dharma）。Bhāvaviveka在为他声称中观学派所确信的结论进行论证时，也遵循了这种方法；他还批评了Buddhapālita未能遵循Dignāga的方法。
+
+在他对《中观论》1.1的讨论中，Bhāvaviveka普遍观察到，当Nāgārjuna否定一个命题时，他否定的是整个命题，而不仅仅是否定谓词。如果只否定一个谓词，那就意味着仍然存在其他谓词可以适用于所讨论的主语。在一个命题中否定一个谓词，预设了命题的主语的存在，而否定整个命题则不需要这样的预设。因此，当Nāgārjuna说一个现象不是从自身产生时，应该理解为一种说法：“一个现象不是从自身产生。”如果将Nāgārjuna的陈述解释为类似于“一个现象的产生不是来自于现象本身”，那么自然会认为这是在说一个现象的产生来自于其他东西而不是自身。或者，也可以理解为一个现象的产生不仅来自于自身，而是部分来自于自身，部分来自于其他东西。如果将Nāgārjuna的命题理解为一系列联结命题的形式，即“一个现象不是从自身产生，也不是从其他东西产生，也不是从自身与其他东西合作产生，也不是从无中产生”，那么否定一个简单命题及其矛盾并不涉及悖论。因此，重要的是要清楚地表明Nāgārjuna的否定是句子的否定还是术语的否定，而Buddhapālita未能做到。
+
+Bhāvaviveka继续解释说，那伽罗纳在《中观论》1.1中使用了句子否定，因为他试图建立一种“非概念性认知”，即一种无法用言语表达的洞察力。这种非概念性洞察力的范围是一切可以被认知的事物。换句话说，那伽罗纳的洞察力是，一切人们认为自己知道的事物，每一个人认为自己必须解释自己的经验的解释，都是有缺陷的，最终必须被放弃。在这一点上，Bhāvaviveka与《中观论》和《中观辨论》中的一些重要陈述是一致的。那伽罗纳强调佛陀提供了两种真理，一种是日常交易或常规真理（vyavahāra-satya，saṃvṛti-satya），另一种是关于最高目标（paramārtha-satya）即涅槃的真理。其中，只有交易真理能够用语言表达。最高目标，即心灵的沉默，其中没有概念思维，自然无法用语言表达，因为语言必然与概念相联系。所有中观学派都持有某种形式的这种观点。他们彼此之间的区别在于佛教的教义如何与佛教的最高目标相联系，而最高目标超出了语言的范围。
+
+龙树在《中观论》18.9中写道，现实（tattva，字面意思是“那个性质”或本质）的定义特征是：它不受其他事物的制约，它是和平的，它不能通过言语的阐述来详细说明，它是非概念性的，它是统一的。在对该节的评论中，婆罗门弥勒（Bhāvaviveka）通过说任何非概念性的东西都不能通过言语的阐述或任何其他类型的符号来表达，扩展了该节的含义。换句话说，本质上非概念性的东西不能间接地被知晓，而通过语言获得的知识总是经过中介和间接的。因此，现实完全超出了语言的范围。尽管如此，婆罗门弥勒说，语言可以传达关于所谈论对象的一般性质的一些信息。例如，现象缺乏固有本质的陈述确实传达了关于现实的有用的一般信息。尽管现实本身只能通过非概念性的意识直接知晓，但语言在传达这个信息时是有帮助的，即现实只能通过直接而非通过语言来理解。中观学派持有并捍卫现实缺乏固有本质的观点，这意味着中观学派不仅仅是从哲学上批评vitaṇḍā的方式。
+
+在他的《Tarkajvālā》中，Bhāvaviveka 摆脱了追随 Nāgārjuna 的著作的限制，提出了他自己对中观的方法。他指出，“最高目标”（paramārtha-satya）这个术语有两个方面。一个方面是它摆脱了意愿性思维的束缚，纯净而超越了言语的阐述。另一个方面是它具有意愿性的本质，与知识和功德业的积累相关，并与言语的阐述以及日常生活的交易性知识相关。通过以这种方式看待最终目标，Bhāvaviveka 声称提供了一个解释，使现实保持完整，成为一个关于知识可以多样和递增的统一整体。知识的递增性质为传统的大乘菩萨道教义提供了充足的空间，人们可以从对觉悟的渴望逐渐实现觉悟。Bhāvaviveka 用于佛教道路的一个隐喻是，它遵循像慢慢攀登的梯子一样的言语教义，直到能够越过墙壁，进入对涅槃平和现实的非概念直接认知，其中没有什么可以期望的，没有什么可以理解的，也没有什么假设需要辩护。
+
+## 5. Candrakīrti
+
+#### 5.1 生平和著作
+
+如同大多数印度哲学家一样，我们对于 Candrakīrti 的生平知之甚少。现代学者将他置于公元七世纪初。他最著名的两部作品是他对《中观论》的评论作品《Prasannapadā Madhyamakavṛtti》（《中观学派的明确评论》），该作品以梵文和藏文翻译本保存，以及一部名为《Madhyamakāvatāra》（《中观学派导论》）的独立论文，仅有藏文翻译本存在。《Madhyamakāvatāra》是一部诗歌文本，Candrakīrti 为其提供了一篇散文评论。显然，这是他在对《中观论》的评论之前的作品，因为在那篇评论中，他一再引导读者去《Madhyamakāvatāra》寻找他所支持立场的完整论证。《Prasannapadā》和《Madhyamakāvatāra》都受到了现代学者的研究，其中许多段落已经被翻译成现代欧洲语言。除了这些作品，Candrakīrti 还写了一些关于 Nāgārjuna 和Āryadeva 的相对短篇文本的评论。
+
+#### 5.2 贡献
+
+在他对《中论》的评论开头，月称（Candrakīrti）对婆罗门（Bhāvaviveka）进行了广泛的批评，并为布达巴利塔（Buddhapālita）对婆罗门的批评进行了辩护。在他写作几个世纪后，西藏的佛教学者将月称描绘为他们所认为的中观学派的创始人之一。由于婆罗门主张为观点提供独立的（自主）论证，即所有现象都是空无自性的观点，西藏的学者将他的分派称为自主学派；由于月称批评了这种方法，并主张满足于展示任何给定哲学问题上所有可能立场的不受欢迎的后果，他的分派被西藏人称为中观学派的批判学派。尽管这些术语并不是印度中观学派自己使用的，但在现代学术界，将中观学派描绘为至少包括这两个分派，并将婆罗门和月称视为这两个分派的创始人已成为标准做法。
+
+Candrakīrti的两部主要著作之一《中观入正理论》共有十章，每一章都对应菩萨道的十个阶段。在每个阶段，菩萨都会专注于一种要达到完美境界的美德（波罗蜜）。要完善的美德包括慷慨、良好的思想、言语和行为习惯、耐心、勇气、禅定、智慧、传教技巧、誓愿的实践、性格的坚定和超越性的知识。第六阶段专门讲述了智慧的培养和完善，也是Candrakīrti对中观学派哲学进行最详细阐述的章节。Candrakīrti在这一章开头声称，智慧就像一个有视力的人，能够安全地引导一群盲人到达目的地；同样，智慧引导其他所有美德达到完美的目标。至于智慧的内容，它是认识到现象并不产生的觉悟。现象不能从自身产生，因为这种可能性会使产生变得不必要或多余；如果一件事物已经存在，它就没有必要再产生。另一方面，如果允许一个存在于其他事物之外的存在体产生另一个存在体，那么就没有什么可以阻止我们说黑暗是从光明中产生的。从因果关系的产生问题另一个角度来看，效果要么已经存在于原因中，要么不存在。如果它已经存在，它就没有必要再产生。如果它不存在，那么它就不能成为一个进行产生行为的主体；但如果没有主体，就没有行为。
+
+在展示了现象的产生没有任何可理解的解释之后，月光菩提承认在日常经验中，我们一直遇到现象的产生。这引发了对两个真理的讨论。终极真理——即关于最高目标的真理——是现象不会产生；而常规交易真理则是事物确实会产生，并且它们的产生是有条件的。因此，这种常规真理可以被理解为一种屏障，一种阻碍看到终极真理的障碍。换句话说，日常生活中的所谓真理实际上是幻觉，如果相信它们，就会阻止人们获得能够引导到涅槃的不动之智。最高目标的真理无法用语言传达；它只能在沉默中显现。尽管如此，佛陀用言辞给予了许多教导，那么人们该如何理解呢？月光菩提说，佛陀根据他所交谈的人们的语言习惯来说话。使用“我”和“你”这样的代词以及“自我”这样的词语是常规的；没有这些代词，就无法形成语法正确的句子。然而，语法正确并不意味着句子中使用的这些词语具有指称对象。佛陀的洞察力在于，没有自我存在，然而他使用了那些常常被那些相信有自我存在的人使用的常规语言。同样，尽管佛陀意识到没有现象的产生和消亡，他却使用了与那些相信现象通过条件产生并在不再起作用的条件下消亡的人使用的相同类型的句子。 如果一个人要使用语言，那么就无法避免使用那些似乎使人接受语言基础上的假设的词语和结构。中观学派的哲学家的任务是揭示这些假设是站不住脚的，看到语言并不是基于现实的，而是纯粹是约定俗成的。佛陀知道他的听众有什么样的信念，他给予了一些教义，帮助人们摆脱错误的信念。例如，对于那些相信存在永恒、统一和本质上独立的自我的人，佛陀教导说，自我在任何可能被视为自我的人类存在方面都找不到；他教导说，自我不是身体、个性、意识、思想或感受，也不是通过原因和条件产生的任何其他事物，也没有任何在这些事物之外的东西可以被视为人们直观上认为是他们自我的候选者。对于倾向于唯物主义唯一论的人，佛陀强调了心灵作为独立于身体的重要性。（关于这一点，下文将会详细讨论。）)
+
+正如上文所讨论的（第4.2节），Bhāvaviveka批评Buddhapālita未能陈述和捍卫中观学派的论点。在他对《中论》的评论的第一章中，Candrakīrti为Buddhapālita辩护，并对Bhāvaviveka以及他所依据的Dignāga传统进行了持续的批评。Candrakīrti表示，Bhāvaviveka要求独立的论证来支持中观学派所接受的结论，与Nāgārjuna和Āryadeva的著作截然相反。Nāgārjuna在《百论》中写道，他没有要提出的论点。他还写道，他根本不理解任何对象，因此不需要肯定或否定任何事物，既不肯定也不否定任何命题，他也不需要提供任何理由来证明他的立场。而Āryadeva写道，一个不提出任何主张的人，无论是存在还是不存在，都无法被驳斥。Candrakīrti引用了这些段落，并补充评论说，Buddhapālita已经理解了早期中观学派所阐述的中观精神。Candrakīrti继续解释说，中观学派并不提出与其他哲学家主张相对立的立场，而是展示其他人立场中存在的问题，并且只争论到其他哲学家意识到他们立场的不足并保持沉默为止。在使其他人保持沉默的过程中，中观学派无需构建正式的论证，也无需在言辞上保持一致。Candrakīrti根据Āryadeva的观察说，中观学派无法被驳斥，正是因为他没有要捍卫的立场。 如果 Buddhapālita 提出了论据，那么他将会陷入无休止的争论之中；然而，他知道中观的目的是为了结束所有的争论，甚至是所有的闲聊，因此他明智地避免提出正式的论证，以免坚持己见的对手将其视为辩论的邀请。如果 Bhāvaviveka 理解了中观的要点，Candrakīrti 得出结论说，他不会对 Buddhapālita 提出的批评进行批驳。
+
+在对 Bhāvaviveka 提出批评之后，Candrakīrti 针对由 Dignāga 创立的佛教逻辑和认识论学派进行了讨论。这个学派的追随者并没有将自己定位为中观学派的成员，因此 Candrakīrti 并没有指责他们没有正确理解那伽罗纳。然而，他指责他们未能对那伽罗纳对以无可争辩的基础来确立信念的企图进行的激进批判提供令人信服的回应。他重述了那伽罗纳《中论》中的一段话，其中说到任何被认为是有保证的命题必须基于直接经验或三种推理之一的基础。但是，声称命题由基础保证本身就是一个命题，因此它要么需要自己的保证，要么被视为自证有效。如果它需要自己的保证，结果将是无休止的命题需要保证；如果它被宣称为自证有效，那么为什么不说所有的命题都是自证有效的呢？Dignāga 和他的追随者继续谈论命题的基础，仿佛那伽罗纳从未对这一企图提出质疑。除非他们对那伽罗纳所说的提供明确而令人信服的回应，否则没有理由让任何人认真对待他们。
+
+中观学派批评的另一个佛教运动是瑜伽行派，他们被认为主张一种主观唯心主义。他们声称经验世界只是意识，意识的内容不能是意识本身之外的客体，这一观点在大乘经典传统中有几个文本的支持。中观学派解释这些经文是佛陀为了反驳一种普遍存在的错误观点而传授的教义的例子。根据中观学派的说法，有些人错误地认为他们所有的苦难都是由外在原因造成的；他们把自己看作是一个不幸的世界的受害者。佛陀希望明确表明不满的主要因素是个人对经验的思考方式，因此他说：“一切都在心中。”然而，把这种说法字面理解，并得出只有意识存在，感觉上似乎是意识之外的经验世界实际上是由意识产生或与意识不可分割的结论是错误的。瑜伽行派提供了充分的理由来证明意识的内容是有条件的，因此它们是空性的，但它们未能意识到意识本身也可以说是一样的。换句话说，中观学派的哲学家们未能承认一切，包括意识本身在内，都是空的。
+
+在对其他哲学家进行批评时，卡恩德拉基提反复主张认真对待和面对普通经验。在日常经验中，我们感到事物的产生和消亡是由原因和条件引起的，我们感到我们是有意识的主体，外部世界正在对我们施加影响。我们用易于理解的语言相互交流。没有理由改变这一切，没有理由用更精确的技术语言取代日常语言，以帮助避免误传事物的本质。同时，重要的是要意识到不能证明事物具有固定的本质，也没有理由相信我们的任何信念是有根据的。卡恩德拉基提的哲学任务不是用有根据的真实信念取代无根据的信念，而是打破形成信念、宣称其为真实并对其产生依恋的习惯。
+
+## 6. Śāntideva
+
+### 6.1 生平和著作
+
+根据传统传记记载，善德生是一个国王的儿子，但他放弃了王室的生活，成为了一名佛教僧侣。对他活动时间的最佳估计将他置于七世纪末。他最著名（也是最常翻译的）的作品是《菩提道次第广论》（开悟实践导论），也被称为《菩萨行道次第广论》（菩萨实践导论）。他还编纂了《教学摘要》，这是一本为学生收集的大乘经文的注释集，他还为世覆般若学派的关键文献《三十颂》撰写了一篇评论。善德生的作品既因为他是一位精湛的文体大师，写出了令人愉悦的美丽梵文诗歌，又因为他的作品对藏传佛教产生了强烈影响，因此在日本、欧洲和北美洲的现代学术界引起了相当大的关注。所有这些使他成为那些不是印度哲学专家的人进入中观哲学的良好入口点。
+
+《菩提道次第广论》是一部分为十章的诗歌作品，每章都涉及菩萨事业的不同方面。十章的主题如下：
+
+1. 赞颂菩提心，即为了解放一切众生而成佛的愿望
+2. 通过承认个人缺点来反思培养良好品德的重要性
+3. 关于获得菩提心
+4. 关于对菩提心保持警觉的培养
+5. 关于意识的守护
+6. 关于耐心的完善
+7. 关于勇气的完善
+8. 论禅修的完美
+9. 论智慧的完美
+10. 论将修行美德所积累的功德施予所有需要功德的受苦众生
+
+正如大多数以诗歌形式写成的哲学著作一样，《菩提道次第广论》通常与一篇散文评论一起研究。尚提达瓦本人没有为他的作品提供散文评论，但智慧宝灯的梵文评论仍然存在，并且通常由那些从原始梵文翻译成英文的人所参考。尚提达瓦的作品也以藏文翻译形式保存，并配有几篇藏文评论，这些评论通常由那些从藏文翻译成英文的人所参考。
+
+### 6.2 贡献
+
+虽然《菩提道次第广论》写得很美，但并没有展示出太多的哲学独创性。它的主要贡献在于提供了中观思想的潮流和中观学派对瑜伽行派唯识一元论的论证的简明概括。尽管通常情况下是这样，但在《菩提道次第广论》的前几章中，有一个新颖的观点，成为讨论大乘伦理的标准。他的观点是，痛苦和不幸是那些经历它们的人所希望避免的。但是，鉴于没有固有的本质来区分一个人与另一个人，或者一个人的种类与另一种人的种类，没有理性的基础来偏好自己的经历和判断，而不是他人的经历和判断，或者偏好自己所认为的自己的种类而不是其他种类的人。只关心自己的痛苦和苦难是根本不合理的；唯一合理的方法是关心自己意识到的所有痛苦和不幸，并努力消除所有这些痛苦和不幸，而不做人为的区分。然而，大多数人所感到的痛苦和不快乐都源于这样的信念：某些经验对象本质上是不可取的或不纯洁的，所以在帮助自己和他人克服痛苦和苦难时，最好的策略是证明没有基础来相信某些对象本质上是不可取的或不纯洁的。当然，当不幸感源于未能得到人们错误地认为是本质上可取和纯洁的东西时，这种策略也同样适用。
+
+正如 Candrakīrti 的中观学派论文一样，Śāntideva 的《菩提道次第广论》在关于智慧的完美章节中对中观学派哲学有最多的论述。这一章节中的一个关键诗句是 9.35，它说：“当心灵面前既没有存在也没有不存在时，心灵由于没有认知的缺失而平静下来。”这重述了那伽·如那和 Candrakīrti 所提出的一个观点，即佛教修行的终极目标是涅槃，即心灵的静止状态，在这种状态下，没有对象被抓住作为意识的焦点，没有解释个人经验的叙述（prapañca），没有理论化和争论。在关于智慧的章节开始时，Śāntideva 说，终极真理是一种不在智力范围内的现实；智力只在常规真理的层面上运作。在这个世界上，有两种人类，Śāntideva 称之为普通人（prākṛta loka）和冥想者（yogin）。普通人是那些用存在和不存在、有和无来看待世界的人，但他们交易的常规真理被冥想者的真理所抛弃。那些依赖常规真理的人的主要错觉是错误地认为常规上被接受为真理的命题是以事物的本质为基础的。另一方面，冥想者逐渐意识到事物没有固有的本质。事物没有固有的本质不能直接被证实，但试图证明事物具有固有本质的尝试可以被证明是有缺陷的。一个培养了成为觉者的意愿以帮助他人摆脱由错觉驱动的苦难的人，使用语言来帮助人们意识到语言和概念思维的局限性。在采取这种方法时，Śāntideva 显然是在追随 Buddhapālita 和 Candrakīrti 的引导。
+
+## 7. 释迦藏
+
+### 7.1 生平与著作
+
+真如藏，很可能是善多罗的老师，可能生活在 8 世纪初。由于他对中观学派的阐述融入了达尔玛基尔提使用的许多术语，达尔玛基尔提是由丁那迦创立的认识论传统的成员，因此他通常被描绘为是巴瓦维韦卡对中观学派的追随者。像他的弟子善多罗一样，真如藏在他对中观学派的阐述中也融入了瑜伽行派的哲学观点，因此可以被视为那些努力寻求将大乘佛教的两个主要学派综合起来的人的灵感来源。他为一部重要的大乘佛经《解深密经》写了一篇注释，该经是瑜伽行派哲学的主要来源之一。他以一部独立的论文《论两谛之辨》而闻名，他还为该论文提供了一篇散文注释。这篇诗歌和注释可以一起称为《论两谛之辨》。
+
+### 7.2 贡献
+
+像他之前的所有中观学派思想家一样，智藏认为清楚理解两种真理非常重要：日常生活中的常规和交易性真理，以及解脱人们的执着、厌恶和迷惑的真理，这种解脱是佛教的终极目标（般若）。在谈论这两种真理时，智藏广泛借鉴了达尔玛基尔提的工作，而达尔玛基尔提则在迪纳卡所奠定的认识论基础上进一步发展。达尔玛基尔提曾说，成功的行动是由正确的认知先导的；被认为是真实的是任何激发行动并导致预期结果的认知。因此，真实的信念是不会欺骗人的，它不会承诺带领人达到期望的目标，然后以某种方式未能实现该目标。更积极地表达这一点，而不是说真实的信念是非欺骗性的，可以说真实的信念是能够实现目标的（阿尔塔-克里亚-萨玛塔）。达尔玛基尔提说，正确的推理有助于形成激发成功行动的信念。因此，可以说，概念思维在谨慎进行时具有巨大的价值。即使一个人的目标是通过直接体验超越语言范围的静止和平静意识来实现涅槃，也可以通过学会谨慎和清晰地思考来达到这个目标。清晰而谨慎的思考能够识别意识中出现的哪些观念是没有根据和迷幻的，因此不太可能激发成功行动。 对他人所说的话进行清晰而谨慎的思考，使人能够摒弃那些如果采取行动可能不会产生预期结果的教导，并遵循那些如果采取行动将引导人达到期望目标的教导，甚至是达到一个不涉及叙事和概念的心灵静止的目标。在很大程度上不加修改，智能藏接受了达尔玛基尔蒂的术语和相应的信念。因此，智能藏像婆娑婆维克一样，认为概念思维和谨慎思考和言说具有价值，并且认为不像瑜伽行派和善地所认为的那样，有必要找到一种消除所有概念思维和理论化的方式。
+
+尽管Jñānagarbha对认识论传统有所借鉴，但他仍然是一个中观学派的代表，因为他的方法主要是展示所有建构理论中潜藏的荒谬之处。他对终极目标的理解与Candrakīrti的相似，都是指一种无言无念的清晰觉知，但他认为可以通过聪明运用语言和思维来达到这个目标。此外，他与其他中观学派一样坚信，所有思维，即使是因为能够产生预期结果而被称为真实的思维，也是基于一种假设，即事物具有固有本质——毕竟，几乎不可能在不至少含蓄地指向固有本质和本质的方向上进行交谈——而这种假设是可以被证明是错误的。因此，根据Jñānagarbha的观点，理性思维既是真实的，因为它能够产生预期的结果，又是虚假的，因为它是基于可证明是错误的假设，即可命名的事物之所以可命名是因为它们具有固有本质。虽然语言在因果关系、时间和空间关系等各种关系的本体论中运作，但如果仔细思考并深入调查，可以证明这些关系都是站不住脚的。
+
+在詹那嘉巴对因果性的可持续性的论证中，关键在于他认为，观察条件与其效果之间的关系的所有可能方式都是行不通的。有四种可能性。要么多个条件产生一个效果，要么多个条件产生多个效果，要么一个条件产生多个效果，要么一个条件产生一个效果。他对为什么每种可能性都是不可持续的解释在某些地方是简洁而难以解读的。他说，一个单一的事物，比如视觉，不能是多个条件（如眼睛、可见颜色、专注的心灵等）的效果，因为效果具有单一性的特征，而原因是多样的，但没有什么可以解释多样的事物如何被减少为一个的原因。如果没有关于如何将多样性减少为单一性的一致解释，这个假设最终只是一种断言。如果想象一个多样的原因集合产生一个复杂的多样性效果，那么实际上是在说复杂原因的每个组成部分都产生复杂效果的一个组成部分，这等于说有多个实例的一个原因产生一个效果。另一方面，如果认为复杂效果的每个方面都是复杂原因内的特征的单一效果，那么就是说一个单一效果有多个条件，而这已经被排除了。此外，还面临着解释相同的原因总体如何产生许多不同的效果的问题，每个效果都是据称由因果复合体产生的复杂效果的一个特征。如果想象一个多样性，比如多样宇宙，是由一个单一的原因，比如上帝、梵天或意识产生的，那么就必须提供一个关于是什么导致了许多效果之间的差异的一致解释。 人们所期望的是，某些辅助条件与单一原因结合，产生不同的效果；但如果是这样的话，那么单一原因加上辅助条件就不是真正的单一原因。最后，人们可能会想象，单一原因产生单一效果，比如当一个瞬时现象消亡，并在消亡的过程中产生一个后续的同类瞬时现象。然而，这是不可能的，因为所谓的原因必须完全消失，才能让它的继任者取而代之，而一旦前一个现象停止存在，就没有任何东西可以引起它的继任者出现。由于在对因果关系进行深入分析后，没有一种可能的解释方式能够幸存下来，我们只能得出结论，即因果关系、产生与消亡、统一与多样性的概念无法与现实相对应。因果关系、产生与消亡以及构成常规真理框架的各种关系可能对于常规真理来说是不可或缺的，但它们不能成为现实的特征。像之前的中观学派一样，智能藏把常规真理看作是一种屏障或障碍，只有没有概念和叙述的意识才能看到现实。
+
+## 8. Śāntarakṣita
+
+### 8.1 生平与著作
+
+虽然关于大多数印度哲学家的生活很难找到可靠的信息，但关于善德的生活，尤其是晚年的生活，有很多已知的情况。他在公元 763 年左右前往西藏，并成为 Bsam-yas 寺的第一任住持时，他的生活细节被藏族人记录下来。据报道，他出生在现在的孟加拉王室，并在各个佛教寺院大学度过了他的成年生活。从他的著作中可以清楚地看出，他广泛研究了印度哲学的各个分支。他似乎是智觉藏的直接弟子，他自己的弟子 Kamalaśīla 也是一位有影响力的思想家。善德和 Kamalaśīla 两人在西藏度过了多年，共同为八世纪的佛教学术界定下了基调，他们的影响至今在藏传佛教中仍然存在。善德于 788 年去世后，由 Kamalaśīla 继任，他一直活到 795 年。
+
+善德的巨著名为《真理总结》（Tattva-saṃgraha），共有 3645 节。这部作品由 Kamalaśīla 撰写的散文评论《真理总结批注》（Tattva-saṃgraha-pañjikā）附带。这部诗作及其评论的现代版本共有 1100 多页。除了对中观思想的发展做出贡献外，这部作品还是了解八世纪印度哲学状况的宝贵资料。该作品分为二十六章，主题如下：
+
+1. 萨姆吉亚学派关于原始物质（prakṛti）作为物质世界的来源的教义
+2. 作为世界源头的上帝各种教义
+3. 作为世界源头的固有本质（svabhāva）的教义
+4. 作为世界源头的布拉曼-作为语言的教义
+5. 人类精神（puruṣa）的 Sāṃkhya-Yoga 教义
+6. 对 Nyāya、Mīmāṃsā、Sāṃkhya、Digambara Jaina、Advaita 和佛教个人主义（pudgalavādin）学派中自我（ātman）的教义的审查
+7. 事物永恒的教义
+8. 因果业力及其成熟的各种教义
+9. 对实体的批判性审查
+10. 对质量的批判性审查
+11. 行动的批判性审视
+12. 通用性的批判性审视
+13. 特殊性的批判性审视
+14. 对内在性（普遍与个别之间的关系，以及物质与品质之间的关系）的批判性审查
+15. 对词语及其意义的审查
+16. 对感知的审查
+17. 推理的审查
+18. 获取知识的其他手段的审查
+19. 对贾伊纳认识论的批判性审查
+20. 时间的审视
+21. 唯物主义的批判性审视
+22. 关于外部世界（即意识之外的世界）
+23. 对启示作为知识来源的批判性审视
+24. 对某些命题自我验证的观念的审视
+25. 对超常能力概念的审视
+
+除了《真理集》之外，善达昆提还写了关于达尔玛基尔提的《辩论方法》和智慧藏的《真理二分辨论》的评论。他对中观学派哲学发展最有原创性的贡献是一部名为《中观珠宝》的诗歌论著，其中包含九十七节诗歌，并附有一篇散文评论。
+
+### 8.2 贡献
+
+在善达昆提活动的时候，瑜伽行派的哲学已经变得如此有影响力，以至于不容易被忽视。早期的中观学派对瑜伽行教义进行了驳斥，将其视为一种主观唯心主义，而善达昆提则接受了它。像婆婆娑婆和智慧藏一样，善达昆提采用了德钦和达尔玛基尔提以及他们的后继者的术语、逻辑和认识论。但是，婆婆娑婆没有跟随德钦和达尔玛基尔提进入瑜伽行，而善达昆提则支持了一种主观唯心主义，尽管这是为了准备接受中观学派关于一切现象的空性的教义。在《中观珠宝》的最后，他在第 92-93 节诗中写道，通过接受唯心主义教义，人们停止将外部对象视为真实；然后通过接受中观学派，人们认识到没有任何对象具有实质；然后，驾驭推理的缰绳，人们乘坐两个系统的战车，成为一个伟大的大乘佛教（大乘佛教）。这部论著的最大部分——在接受推理的缰绳的地方——致力于延伸版的“既非一也非多”的论证，这个论证是由智慧藏提出的。
+
+中观学派的《中观颂》从观察到，如果一个现象有本质，那么这个本质要么是简单的，要么是复杂的，即要么是一个单一的事物，要么是许多事物；没有第三种可能性。这引发了对几个印度哲学学派（包括佛教和非佛教）的教义的讨论。每个被考察的学派都假设至少存在一个在本质上完全统一且没有内部差异的实体。几个学派假设存在一个统一的实体，被称为一切多样性的单一源头。借鉴了早期佛教思想家如法称的论证，善达哥罗辩称，如果存在一个统一、永恒且无障碍的单一性，那么它所谓的一切所致必须始终存在。因果是指在其存在的情况下，效果出现；在其不存在的情况下，效果不出现。但如果因果是永恒的，那么它永远不会不存在，因此它所谓的效果永远不会不存在。在一个假设存在一个单一永恒的一切事物的原因的理论中，对于日常生活中所经历的所有变化，没有一个令人满意的解释，也没有一个令人满意的对时间序列或事物在某些地方存在而在其他地方不存在的解释。这个论证被用来驳斥萨姆伽哲学关于原始物质的教义，尼亚亚哲学关于神的教义，以及吠陀哲学关于梵的教义。它也被用来反驳瑜伽行派关于一切事物起源于意识的教义。在反驳各个学派提名的单一性候选者之后，善达哥罗将注意力转向多样性。他指出，多样性的概念只有在谈论一系列的单一性时才有意义。然而，鉴于没有单一性存在，就不可能有它们的任何集合。 既然如此，任何实体的固有本质既不能是单一的，也不能是多重的；如果一个实体既没有单一的固有本质，也没有多重的固有本质，那么它就没有任何固有本质。换句话说，所有现象都是空无固有本质的。
+
+## Bibliography
+
+* Ames, William L., 1993. Bhāvaviveka’s *Prajñāpradīpa* (A translation of chapter one: ‘Examination of causal conditions (*pratyaya*)’). *Journal of Indian Philosophy*, 21 (3): 209–259.
+* –––, 1994. Bhāvaviveka’s *Prajñāpradīpa* (A translation of chapter one: ‘Examination of causal conditions (*pratyaya*)’), Part Two, *Journal of Indian Philosophy*, 22 (2): 93–135.
+* –––, 1995. Bhāvaviveka’s *Prajñāpradīpa* (A translation of chapter two: ‘Examination of the traversed, the untraversed and that which is being traversed’). *Journal of Indian Philosophy*, 23 (3): 295–365.
+* Arnold, Dan, 2005. *Buddhists, Brahmins, and Belief: Epistemology in South Asian Philosophy of Religion*, New York: Columbia University Press.
+* Blumenthal, James, 2013. *The Ornament of the Middle Way: A Study of the Madhyamaka Thought of Śāntarakṣita*, Boston and London: Snow Lion.
+* Candrakīrti, 1931. *Ausgewählte Kapitel aus der Prasannapadā (v, xii, xiii, xiv, xv, xvi): Einleitung, Übersetzung, und Änmerkungen,* Translated into German by Stanislaw Schayer Warsaw: W Krakowie.
+* –––, 1949. *Cinq chapitres de la Prasannapadā, translated into French by J. W. De Jong*, Leiden: E.J. Brill.
+* –––, 1959. *Prasannapadā madhyamakavṛtti: Douze chapitres traduits du sanscrit et du tibétain, accompagnés d’une introduction, de notes et d’une édition critique de la version tibétaine par Jacques May*, Paris: Adrien-Maisonneuve.
+* –––, 1979. *Lucid Exposition of the Middle Way: The Essential Chapters from the Prasannapadā of Candrakīrti*, translated by Mervyn Sprung, T.R.V. Murti, and U.S. Vyas. Boulder, CO: Prajñā Press.
+* –––, 1980. *Candrakīrti’s Seven Fold Reasoning: Meditation on the Selflessness of Persons*, Dharamshala, India: Translation Bureau of the Library of Tibetan Works & Archives.
+* –––, 2004. *Introduction to the Middle Way: Chandrakirti’s Madhyamakavatara with commentary by Jamgön Mipham*, translated by the Padmakara Translation Group, Boston & London: Shambhala.
+* Cowherds, The, 2011. *Moonshadows: Conventional Truth in Buddhist Philosophy*, Oxford: Oxford University Press.
+* Della Santina, Peter, 1986. *Madhyamaka Schools in India: a Study of the Mādhyamaka Philosophy and of the Division of the System Into the Prāsangika and Svātantrika Schools*, Delhi: Motilal Banarsidass.
+* Dreyfus, Georges B. J., and Sara L. McClintock (eds.), 2002. *The Svātantrika-Prāsaṅgika Distinction: What Difference Does a Difference Make?* Boston: Wisdom Publications.
+* Eckel, Malcom David, 1978. Bhāvaviveka and the early Mādhyamika theories of language. *Philosophy East and West*, 28 (3): 323–337.
+* –––, 1987. *Jñānagarbha’s Commentary on the Distinction Between the Two Truths: an Eighth Century Handbook of Mādhyamaka*, Albany: State University of New York Press.
+* –––, 1992. *To See the Buddha: A Philosopher’s Quest for the Meaning of Emptiness*, Princeton, NJ: Princeton University Press.
+* Edelglass, William and Jay L.Garfield, 2009. *Buddhist Philosophy: Essential Readings*, New York; Oxford University Press.
+* Garfield, Jay L., 1996. Emptiness and Positionlessness: Do the Mādhyamika Relinquish All Views? *Journal of Indian Philosophy*, 24: 1–34.
+* Goodman, Charles, 2016. *The Training Anthology of Śāntideva: A Translation of the Śikṣā-samuccaya*, New York: Oxford University Press.
+* Huntington, C. W., Jr. and Geshe Namgyal Wangchen, 1989. *The Emptiness of Emptiness: An Introduction to Early Indian Mādhyamika*, Honolulu: University of Hawai‘i Press.
+* Iida, Shotaro, 1980. *Reason and Emptiness: A Study in Logic and Mysticism*, Tokyo: Hokuseido Press.
+* Lang, Karen C., 1986. *Āryadeva’s Catuḥśataka*, Copenhagen: Akademisk Forlag.
+* –––, 2003. *Four Illusions: Candrakīrti’s Advice to Travelers on the Bodhisattva Path*, New York: Oxford University Press.
+* Lopez, Donald S., Jr., 1987. *A Study of Svātantrika*, Ithaca, N.Y.: Snow Lion Publications.
+* Rizzi, Cesare, 1988. *Candrakīrti*, Dehli: Motilal Banarsidass.
+* Ruegg, David Seyfort, 1981. *The Literature of the Mādhyamaka School of Philosophy in India* (History of Indian literature, Volume 7, fasc. 1), Wiesbaden: Harrassowitz.
+* –––, 2000. *Studies in Indian and Tibetan Madhyamaka Thought* (Wiener Studien zur Tibetologie und Buddhismuskunde), Vienna: Arbeitskreis für Tibetische und Buddhistische Studien, Universität Wien.
+* –––, 2006. The *Svātantrika-Prāsaṅgika* Distinction in the History of Madhyamaka Thought. *Indo-Iranian Journal,* 49: 319–346.
+* –––, 2010. *The Buddhist Philosophy of the Middle: Essays on Indian and Tibetan Madhyamaka*, Boston: Wisdom Publications.
+* Siderits, Mark, 1980. The Madhyamaka critique of epistemology I. *Journal of Indian Philosophy*, 8: 307–335.
+* –––, 1981. The Madhyamaka critique of epistemology II. *Journal of Indian Philosophy*, 9: 121–160.
+* –––, 2004. Causation and emptiness in early Madhyamaka. *Journal of Indian Philosophy*, 32: 393–419.
+* –––, 2007. *Buddhism as Philosophy: An Introduction*, Indianapolis: Hackett Publishing Company, Inc.
+* Tillemans, Tom J. F., 1990. *Materials for the Study of Āryadeva, Dharmapāla and Candrakīrti*, Vienna: Arbeitskreis für Tibetische und Buddhistische Studien, Universität Wien.
+* –––, 2016. *How Do Mādhyamikas Think?: and Other Essays on the Buddhist Philosophy of the Middle*, Somerville: Wisdom Publications.
+* Williams, Paul, 1980. Some aspects of language and construction in the Madhyamaka. *Journal of Indian Philosophy*, 8: 1–45.
+* Yoshimizu, Chizuko, 2012. Reasoning-for-others in Candrakīrti’s Madhyamaka Thought. *Journal of the International Association of Buddhist Studies*, 35: 413–444.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=madhyamaka). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/madhyamaka/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=madhyamaka&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/madhyamaka/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* [GRETIL (Göttingen Register of Electronic Texts in Indian Languages)](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm) is a constantly growing repository of digital texts, mostly in Sanskrit, on all topics, including a section on [Buddhist philosophy](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#BauddhDa).
+
+## Related Entries
+
+[mind: in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/) | [Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/) | [Śāntarakṣita](https://plato.stanford.edu/entries/saantarak-sita/) | [two truths in India, theory of](https://plato.stanford.edu/entries/twotruths-india/) | [two truths in Tibet, theory of](https://plato.stanford.edu/entries/twotruths-tibet/) Yogācāra
+
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
+[Richard Hayes](http://www.unm.edu/~rhayes) <[*rhayes@unm.edu*](mailto:rhayes%40unm%2eedu)>

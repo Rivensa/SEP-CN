@@ -1,0 +1,185 @@
+# 米歇尔·德·蒙田 Montaigne, Michel de (Marc Foglia and Emiliano Ferrari)
+
+*首次发表于 2004 年 8 月 18 日；实质性修订于 2019 年 11 月 20 日*
+
+![image of Montaigne](https://plato.stanford.edu/entries/montaigne/montaigne-small.jpg)
+
+弗朗索瓦·克内尔，“蒙田”
+c. 1590 年，重新印刷的绘画
+获得了 Montaigne Studies 网站的许可
+米歇尔·德·蒙田研究网站
+
+
+
+> *问题不在于谁会击中目标，而在于谁会最好地奔向它。*
+
+鉴于他广泛的阅读范围，米歇尔·德·蒙田可以被列为 16 世纪最博学的人文主义者之一。但在《随附》中，他的目标首先是正确行使自己的判断力。他说，那些想要指责他无知的读者将找不到任何理由，因为他在发挥自己的天赋，而不是借用别人的。他认为过多的知识可能成为负担，更喜欢发挥自己的“天然判断力”而不是展示自己的博学知识。
+
+* [ 1. 生活](https://plato.stanford.edu/entries/montaigne/#Lif)
+* [ 2. 工作](https://plato.stanford.edu/entries/montaigne/#Wor)
+* [3. 自由判断的哲学](https://plato.stanford.edu/entries/montaigne/#FreJud)
+* [4. 米歇尔·德·蒙田的怀疑主义](https://plato.stanford.edu/entries/montaigne/#MonSce)
+* [5. 米歇尔·德·蒙田和相对主义](https://plato.stanford.edu/entries/montaigne/#MonRel)
+* [6. 米歇尔·德·蒙田的遗产：从夏伦到霍布斯](https://plato.stanford.edu/entries/montaigne/#MonLegChaDes)
+* [ 7. 结论](https://plato.stanford.edu/entries/montaigne/#Con)
+* [ 参考文献](https://plato.stanford.edu/entries/montaigne/#Bib)
+
+  * [ 版本](https://plato.stanford.edu/entries/montaigne/#Edi)
+  * [ 英文翻译](https://plato.stanford.edu/entries/montaigne/#TraEng)
+  * [ 二次来源](https://plato.stanford.edu/entries/montaigne/#SecSou)
+* [ 学术工具](https://plato.stanford.edu/entries/montaigne/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/montaigne/#Oth)
+
+  * [ 文本](https://plato.stanford.edu/entries/montaigne/#Tex)
+  * [ 翻译](https://plato.stanford.edu/entries/montaigne/#Tra)
+* [ 相关条目](https://plato.stanford.edu/entries/montaigne/#Rel)
+
+---
+
+## 1. 生活
+
+米歇尔·德·蒙田（1533-1592）出生于一个富裕的市民家庭，他的父亲在法国国王弗朗西斯一世的军队中在意大利作战后获得了贵族身份；他回国后决心将精致的意大利文化带到法国。他将他的佩里戈城堡装饰成古罗马别墅的风格。他还决定让他的儿子不在学校学习拉丁语。相反，他安排了一个德国家庭教师，并要求家里人只用拉丁语与他交流。因此，年轻的蒙田在拉丁语环境中长大，自己阅读维吉尔、奥维德和贺拉斯的作品。六岁时，他被送到波尔多的盖尼学院寄宿，他后来称赞这所学院是法国最好的人文学院，尽管他对人文学院普遍存在的问题有所批评。蒙田后来在哪里学习法律，或者他是否真的学过法律，目前尚不清楚。我们唯一确定的是，他的父亲为他在佩里格城堡的法院买了一个职位。然后他遇到了艾蒂安·德·拉·博埃蒂，两人结下了亲密的友谊，几年后，博埃蒂在1563年去世，使他深感悲痛。厌倦了活跃的生活，他在年仅37岁时退休到他父亲的城堡。同年，1571年，他被任命为查理九世普通室的绅士，不久之后，又成为亨利·纳瓦尔的室的绅士。他获得了圣米歇尔勋章的荣誉，这一荣誉尤为特殊，因为蒙田的血统是近期的贵族。在第一版（1580年）的《随附》的标题页上，我们可以看到：“米歇尔·蒙田勋爵的随笔，国王勋章骑士，国王普通室的绅士。”最初，蒙田热衷于炫耀自己的头衔和社会地位，因此在第二版（1582年）中删除了这些尊称。
+
+在《论独居生活》中效仿彼特拉尔卡的选择，蒙田选择致力于缪斯。在他的图书馆里，这在当时来说相当大，他在木梁上刻有智慧的公式。这些公式来自于《传道书》、塞克斯图斯·恩皮里库斯、卢克莱修斯和其他他密集阅读的古典作家。为了摆脱忧郁的发作，他开始将自己的思想记录在纸上。1580 年，他进行了一次意大利之行，其主要目标是在温泉疗养地治疗他的肾结石的痛苦。这次旅行部分由一位秘书叙述，部分由蒙田本人叙述，这本手稿直到 18 世纪才被发现，被命名为《意大利之行日记》，之后很快被遗忘。当蒙田在比萨附近的温泉浴场时，他得知自己当选为波尔多市市长。他起初因为谦虚而有些犹豫，但最终接受了（他甚至收到了国王的一封信敦促他接受这个职位），并在后来连任。在他的第二个任期中，他因为在大瘟疫期间离开城市试图保护自己和家人而受到批评。他在任期内的时间被天主教徒和新教徒之间的宗教战争所蒙上阴影。他的家族中有几个成员皈依了新教，但蒙田本人仍然是天主教徒。
+
+## 2. 工作
+
+米歇尔·德·蒙田写了三本《随附》（“随附”是这种作品的原名，不久后成为一种受人赞赏的文体）。人们公认有三个主要版本：1580年（这个阶段只写了前两本），1588年和1595年。最后一版由蒙田的养女玛丽·德·古尔内编辑，蒙田本人无法监督。直到19世纪末，所有新版本的底本都是1595年的版本；福尔图纳特·斯特罗夫斯基和不久之后的皮埃尔·维莱放弃了这个版本，转而采用“波尔多底本”，即1588年版本加上手稿补充[1]。蒙田不断丰富他的文本；他更喜欢为了多样性而添加，而不是纠正[2]。作品的统一性和每个章节的顺序仍然存在问题。我们无法从一个章节到下一个章节找到明显的联系：在第一本书中，蒙田从“懒散”（I,8）跳到“说谎者”（I,9），然后从“快速或缓慢的言辞”（I,10）跳到“预测”（I,11）。作品的随机性，作者本人承认了这一点，自那时以来一直是评论家们面临的挑战。《随附》的辉煌之处在于它能够引出各种形式的解释连贯性，同时又挑战这些解释。这部作品如此丰富和灵活，以至于几乎可以适应任何学术潮流。然而，它也如此抵抗解释，以至于揭示了每种解释的局限性。
+
+对《随笔》的批判性研究直到最近都主要是文学性质的。然而，将蒙田视为作家而非哲学家可能会忽视一个令人不安的思想家。事实上，他动摇了西方思想的一些基本方面，比如我们赋予人类超越动物的优越性，欧洲文明超越“野蛮人”的观念，或者理性作为所谓普遍标准的观念。根植于19世纪的传统倾向于将他的作品归类为文学印象主义或者轻浮主观的表达。要公正对待他，就需要牢记他作品中思想和风格的不可分割的统一。蒙田反复修订他的文本，正如现代版本所显示的那样，用A、B、C三个字母代表三个主要版本，这反映了他思想活动与《随笔》作为一个不断发展的作品之间的关系。《随笔》展示了思考的辛勤和愉悦之处。
+
+在米歇尔·德·蒙田（Montaigne）身上，我们有一个作品深受哲学思想影响的作家。在《论自然的本质》中，引用了卢克莱修斯（Lucretius）的十六分之一的诗句。正如埃德蒙·胡塞尔（Edmund Husserl）所说，如果哲学是一项共同的努力，那么蒙田可能是最典范的哲学家，因为他的作品广泛借鉴和引用了他人的观点。蒙田成功地内化了广泛的阅读，以至于他的博学并不显露出来。他创作了一部非常独特的作品，但它仍然深深扎根于诗人、历史学家和哲学家的社群中。他决定在处理各种事务时只依靠自己的判断，对记忆和知识保持坚决的距离，警告我们不应该将上帝或超越性原则与人类世界混为一谈，这些都是蒙田立场的关键要素之一。作为一个人文主义者，他认为人们必须吸收经典，但最重要的是展示美德，“根据柏拉图的观点，坚定、信仰和真诚才是真正的哲学，而其他追求其他目标的科学只不过是粉末和胭脂。”
+
+## 3. 自由判断的哲学
+
+米歇尔·德·蒙田反对自中世纪以来在斯科拉学派中盛行的理论或推测性哲学方法。他认为，科学并不存在，只有对科学的一般信仰。彼得拉克早已批评斯科拉学派将亚里士多德奉为上帝。支持人文主义者的蒙田对“按照几何学家的方式”进行的科学进行了尖锐批评，这被认为是最严谨的方法。他说，这只是“一种科学的实践和业务”，仅限于大学，并主要在导师和他们的学生之间进行。这种科学的主要问题是，它使我们花费时间来合理化我们继承的信仰，而不是质疑它们的基础；它使我们将时髦的观点标榜为真理，而不是评估它们的力量。而科学应该是自由探究，它只是关于我们如何阅读亚里士多德或伽利略的胡言乱语讨论。批判性判断被系统地压制。蒙田要求一种不受任何教条主义原则束缚的思维过程，一种能够引导自由探究的思维过程。
+
+如果我们追溯现代科学的诞生，我们会发现作为一位哲学家，蒙田超前于他的时代。1543年，哥白尼提出了地球运动的观点，剥夺了人类在宇宙中心的地位。然而，他对中世纪世界观的改变并不大，仍然将世界看作是一个球体。哥白尼的世界只有在托马斯·迪格斯（1576年）的作品中成为一个“开放”的世界，尽管他的天空仍然位于空间中，有众神和天使居住。直到乔尔达诺·布鲁诺（1584年）出现，我们才找到了现代无限宇宙观念的第一位代表。但是布鲁诺是否是一位现代思想家仍然有争议（行星仍然是动物等）。相反，蒙田完全摆脱了中世纪的球体观念，他的宇宙自由来自于他对古代哲学家的浓厚兴趣，尤其是鲁克蕾修斯。在《随笔集》中最长的一章《雷蒙德·塞邦德的辩护》中，蒙田提出了许多关于宇宙的本质或灵魂的本质的观点。他权衡了众多学派的观点，包括伊壁鸠鲁学派认为存在多个世界的观点，以及亚里士多德和阿奎那斯提出的世界的唯一性观点。他支持前者，但并不将自己的评价定位为真理。
+
+作为一位人文主义者，蒙田将哲学视为道德。在《论儿童教育》一章中，教育被视为哲学，这被理解为在日常生活中形成判断和风度的过程：“因为哲学，作为判断和行为的塑造者，将是他的主要课程，它有在任何地方都能自由行动的特权。”哲学本质上是判断的运用，在日常生活中具有重要意义，是多样而“起伏”的过程。事实上，在无害的轶事的伪装下，蒙田实现了人文主义对哲学的革命。他从将哲学视为理论科学的观念转变为将哲学视为自由判断的实践。他悲叹道：“哲学，即使对于有理解力的人来说，也应该是一个空洞而荒谬的名字，一个毫无用处和价值的东西”，他坚称哲学应该是最愉快的活动。他通过对自己的判断进行审判来实践哲学，以了解其弱点，也了解其力量。“每一次行动都会揭示我们”，但我们的判断最能如此。在上个世纪初，蒙田最伟大的评论家之一皮埃尔·维莱提出了一个观点，即蒙田通过写作真正成为了自己。尽管这个观点明显与后期浪漫主义心理学有关，但它仍然或多或少是正确的。《随笔集》是对个人隐私和个人主义进展的杰出历史见证，是主体性的开花，是个人成熟的达成，这种成熟可能会被模仿，但也许从未被超越。蒙田致力于思想自由和心灵宁静，写作的目的除了培养和教育自己外，似乎没有其他目标。由于哲学未能确定通往幸福的安全路径，他将每个人都托付给自己去寻找。
+
+米歇尔·德·蒙田希望通过知识来逃避思想的压抑，这是一种普遍现象，他称之为“书呆子主义”，这个想法可能是他从喜剧表演中对教授们的抹黑中得来的。他赞扬当时最著名的教授之一阿德里安努斯·图尔内布斯，因为他将坚定的判断力与广博的学识相结合。我们必须适度控制对知识的渴望，就像我们控制对快乐的欲望一样。在这里，蒙田站在卡利克勒斯对抗柏拉图的一边，他断言绅士不应该完全致力于哲学。适度地实践哲学是有益的，而过度则会导致古怪和不合群。在思考贵族子女的教育时（第一章第26节专门讲述了当时怀孕的戴安娜·德·福瓦伊伯爵夫人），蒙田与传统的人文教育有了显著的分歧，而他自己就接受过这种教育。蒙田强调行动和嬉戏活动的必要性，而不是像伊拉斯谟之后的教育家们通常做的那样，专注于使拉丁语教学更加有效的方法和手段。孩子将会早期遵守社会和政治习俗，但不会屈从。在教育的核心，判断力在各种情况下的运用，作为实用智慧和个人自由的保证，必须得到保持。他将教育的主要责任从学校转移到日常生活中：“通过了解人们，人类判断力可以获得奇妙的光辉。”与他同时期对强大记忆的渴望形成鲜明对比。他保留了自由，随处拾取知识碎片，表现出智力上的漠不关心，就像卡斯蒂廖内的宫廷人在社交关系中使用的“漠然态度”。 尽管蒙田将这种漠不关心的态度视为他本性的一部分，但他的立场并不无辜：它使他能够时而以斯多葛派的声音说话，时而以怀疑论者的声音说话，时而以伊壁鸠鲁派的声音说话，然后又以基督徒的声音说话。尽管他的观点从未完全原创，但它们总是带有他独特的标志。蒙田的思想在许多方面常被评为现代，但它仍深深扎根于古典传统。蒙田轻松地穿越大量的古典知识，提出了引人注目的文学和哲学创新。
+
+米歇尔·德·蒙田开始他的人类认识项目，他注意到相同的人类行为可能产生相反的效果，或者即使相反的行为也可能产生相同的效果：“通过不同的手段，我们达到相同的目标”[21]。人类生活不能成为理性理论的对象。人类行为不服从普遍规则，而是服从各种各样的规则，其中最准确的规则仍然无法达到预期的目标。“人类的理性是一种在我们所有观点和方式中以大致相等的强度注入的染料：在物质上无限，多样性无限”[22]。根据伟大的评论家雨果·弗里德里希的说法，通过关注富有趣味的经验，蒙田写出了“现代道德科学的杰作”。他放弃了道德上的野心，不再告诉人们应该如何生活，而是为了获得一个无偏见的心智来认识人类如其所是。“别人塑造人，我叙述他”[23]。正如哲学家马塞尔·孔切所评论的那样，人类自此“没有定义”[24]。在《雷蒙·塞邦德的辩护》一章中，蒙田从古典和文艺复兴的知识中汲取，提醒我们，在世界的某些地方，我们发现的人与我们几乎没有相似之处。我们对人和事物的经验不应该被我们目前的判断标准所限制。当我们为可能和不可能设定界限时，这是一种疯狂的行为[25]。
+
+哲学未能确保人类对自己在世界中的位置或本质有一个明确的理解。形而上学或心理学观点实在太多，反而成为负担而非帮助。蒙田通过经验追求知识；概念的意义并非通过定义来确定，而是与常用语言或历史例子相关联。经验的一个基本要素是能够反思自己的行为和思想。蒙田进行的是一种逐案的“认识自己”：虽然总体上说，真理并不是人类能力的适当对象，但我们可以反思我们的经验。重要的不是我们最终是否知道真理，而是我们寻求真理的方式。“问题不在于谁能够击中目标，而在于谁能够最好地奔向目标。”[26] 目标是正确行使我们的判断力。
+
+米歇尔·德·蒙田的思想使我们最常见的范畴感到困惑。他所发展的一个不断变化的世界的视野威胁到所有事物的存在。“我们与存在没有交流”[27]。我们错误地将表象视为实质，并沉溺于一个与不断变化的现实脱节的教条主义、欺骗性的语言中。我们应该更加谨慎地使用语言。蒙田更希望孩子们学会其他更适合人类探究本质的说话方式，比如“那是什么意思？”，“我不明白”，“这可能是”，“是真的吗？”[28]蒙田本人喜欢“这些能缓和我们主张的大胆性质的公式”：“也许”，“在某种程度上”，“他们说”，“我认为”[29]等等。对于理论和教条主义的批评贯穿于他对政治的思考中。因为社会秩序过于复杂，无法由个体理性掌握，他认为保守主义是最明智的立场[30]。这一政策基于一般评估，即变革通常比保留社会制度更具破坏性。然而，有时候历史可能显示出某些情况下变革是更好的解决方案。由于理性无法事先决定，判断必须发挥作用并交替观点以找到最佳选择。
+
+## 4. 蒙田的怀疑主义
+
+与科内利乌斯·阿格里帕、亨利·埃斯蒂安或弗朗西斯科·桑切斯等人一起，蒙田在16世纪对怀疑论的复兴做出了重大贡献。他与塞克斯图斯的文学相遇产生了决定性的冲击：大约在1576年，当蒙田铸造了自己的个人纪念章时，他在上面刻上了自己的年龄，用希腊语刻上了“Epecho”，意为“我弃权”，以及另一个法语的怀疑主义座右铭：“Que sais-je?”：我知道什么？在他生命的这个时期，蒙田被认为经历了一次“怀疑危机”，正如皮埃尔·维莱著名地评论的那样。事实上，这种解释可以追溯到帕斯卡，对他来说，怀疑主义只能是一种暂时的狂热[31]。《雷蒙·塞邦德的辩护》是《随笔集》中最长的一章，它带有蒙田设法在其他地方摆脱的智力绝望的标志。但是，怀疑主义的另一种解释将其表述为一种应对“信仰主义”的策略：因为理性无法证明宗教教条，我们必须依靠灵性启示和信仰。蒙田并未使用“信仰主义”这个词，但这个范式已经由理查德·波普金在《怀疑主义史》中提出[32]。蒙田在这里被视为反宗教改革的奠基人，他是“新吠陀派”的领袖，他们将怀疑主义用作一种手段，即中和哲学曾经对宗教的控制。
+
+评论家们现在一致认为，蒙田在从塞克斯那里借来的怀疑主义中进行了大幅改变。由于理性总是倾向于支持当前的事物，所以天平的两端永远不会完全平衡。这种不平衡破坏了等强度的两个对立论点的关键机制。由于“暂停判断”不能像塞克斯·恩皮里克斯希望的那样“偶然”发生，判断必须避免给予同意。实际上，蒙田怀疑主义的来源要广泛得多：他对奥维德的《变形记》的童年阅读使他对变化有了深刻的认识，他在盖耶纳学院进行的双方辩论（这是亚里士多德和西塞罗传承下来的正反讨论），以及人文主义的行动哲学，处理人类事务的不确定性，早早地塑造了他的思维方式。通过它们，他一再学到理性的表象是具有欺骗性的。在《随笔集》的大多数章节中，蒙田时而改变他的判断：这种突然的视角转变旨在逃避坚持，并从另一个角度来处理问题。《随笔集》反映了一种谨慎的判断行为，符合“交替判断”的公式，我们今天仍然可以在佩里戈城堡图书馆的梁上找到这个公式的铭文。目标不是通过对立来破坏论点，如皮尔洪的“反论”，而是通过考虑其他观点来平衡单一观点。为了发挥作用，每个判断的天平都必须被装满。例如，如果我们谈论道德，蒙田会引用各种道德权威，其中之一是习俗，另一个是理性。对于任何形式的教条主义，蒙田将道德生活还原为其原始的多样性和固有的不安。 通过哲学，他寻求与生活的多样性完全一致：“至于我，我热爱生活，并将其培养，正如上帝愿意赐予我们的那样”。[ 34]
+
+我们发现了两种对蒙田的怀疑主义的解读。第一种集中于从塞克斯图斯·恩皮里库斯那里得出的具有争议性的负面论证，这些论证出现在《辩护》的结尾。这种强硬的怀疑主义将人类描绘成“受辱”的形象[35]。它的目的主要是反对理性的自负，并消灭人类的知识。 “真理”，“存在”和“正义”同样被视为无法达到的。怀疑在这里预示了笛卡尔的《冥想录》中关于外部世界的真实性问题。蒙田否定了自己的表象的客观价值，从而引发了“唯我论”的持久问题。然而，我们注意到，他并没有质疑事物的现实性 - 除了在《辩护》的最后偶尔提到 - 而是质疑观点和人的价值。对他的怀疑主义的第二种解读提出，西塞罗的概率主义在塑造《随笔集》的怀疑内容方面具有更大的意义。在1570年代之后，蒙田不再阅读塞克斯图斯；然而，附录显示，他开始更加广泛地阅读西塞罗的哲学著作。我们假设，在他在1570年代早期寻找针对理性主义的争论论据时，蒙田从塞克斯图斯那里借鉴了很多，但随着他对怀疑主义机制的厌倦，并将怀疑主义理解为判断伦理学，他又回到了西塞罗[36]。查尔斯·B·施密特强调了《学院派》对16世纪思想的至关重要性[37]。在西塞罗贯穿各种学说的自由探究中，人文主义者发现了与古典文化的关系的理想镜像。““我是学院派的追随者，只要它显示出高度可能性，我就有机会持有一种观点，好像它是我们自己的观点”[38]，西塞罗在《职官论》中写道。 阅读塞内加，蒙田会像斯多亚派的成员一样思考；然后转而读鲁克蕾修斯，他会像成为了伊壁鸠鲁派一样思考，依此类推。学说或观点，除了历史材料和个人经验之外，构成了判断的养料。蒙田根据他认为是真实的东西来吸收观点，而不将其视为绝对真实。他坚持思想的对话性质，提到苏格拉底继续讨论的方式：“柏拉图对话的领导者苏格拉底总是在提问和激起讨论，从不做出结论，从不满足(…)。”[39]判断必须确定最有说服力的立场，或者至少确定每个立场的优势和劣势。简单地摒弃真理将是一种过于教条主义的立场；但是如果缺乏绝对真理，我们仍然有可能平衡观点。我们有足够的资源来评估我们在日常生活中必须处理的各种权威。
+
+评论家最初的失败也许在于将蒙田的思想标记为“怀疑主义”，而没有反思论文的正确含义。蒙田的判断行为是一种“自然判断”的行为，这意味着判断不需要任何原则或规则作为前提。这样，蒙田思想的许多方面可以被视为怀疑主义，尽管它们并非出于怀疑主义的目的。例如，当蒙田将怀疑的行为视为教育的良好开端时，他将怀疑理解为判断形成过程的一部分。这个过程应该导致智慧，被描述为“始终快乐”[40]。蒙田的怀疑主义并不是一种绝望的怀疑主义。相反，它为读者提供了一种依赖于拒绝知识的谦逊但有效的愉悦，从而为发挥自己的天然能力创造空间。
+
+## 5. 蒙田与相对主义
+
+文艺复兴时期的思想家们强烈感受到了修正他们对人的论述的必要性。但没有人比蒙田更加强调这种必要性：当他阅读历史学家或旅行家的作品，比如洛佩斯·德·戈马拉的《印度史》时，他寻求的是丰富多样的信仰和习俗，以丰富他对人的形象的理解。在《随笔集》中，希腊化时代的智者、基督教圣人和文艺复兴时期的学者都不是毫无疑问的典范。相反，蒙田考虑的是真实的人，他们是习俗的产物。“在这里，他们以人肉为食；在那里，在某个年龄杀死自己的父亲是一种虔诚的行为（…）。”[41] 习俗的重要性起到了争论的作用：除了怀疑论、想象力的力量（第一章，21节）或命运（第一章，1节，第一章，24节等），它还有助于贬低理性和意志。它注定要摧毁我们对自己确实知道真理并按照正义生活的自发信心。在16世纪，法学家们展示了法律与历史决定的联系。[42] 在第一章第23节的《论习俗》中，蒙田似乎在这个观点上做了推论：我们的观点和行为无处不是习俗的产物，对普遍的“理性”、“真理”或“正义”的引用应该被视为幻觉。皮埃尔·维莱是第一个使用“相对性”和“相对主义”这些术语的人，这些术语在评论蒙田承认没有普遍的理性主宰我们信仰的产生时证明是有用的。[43] 将绝对真理的概念应用于人类事务，破坏了理解力并在社会中造成了混乱。经过进一步的思考，偶然的习俗影响着一切：“总之，在我看来，没有什么习俗不能或不会做到。”[44] 蒙田称之为“西西里女巫的饮料”。[45] 习俗是一种女巫，她的咒语，除了其他效果外，还会产生道德幻觉。 “我们所说的良心法则，是源于自然，实际上是源于习俗。每个人都对他周围认可和接受的观点和行为心存敬畏，无法摆脱它们而不感到懊悔，也无法全身心地接受它们而不感到满足。”[46] 习俗的力量不仅指导人们的行为，还使人们相信其合法性。对于一个人来说是犯罪的行为，在另一个人看来可能是正常的。在17世纪，布莱兹·帕斯卡尔在质疑哲学家们认识真理的自负时，就使用了这个论点。一个世纪后，大卫·休谟强调习俗的力量之强大，特别是因为我们并不自觉。那么，如果我们的理性如帕斯卡尔所说的“随着两度向极地的升高而改变”，我们应该怎么办呢？[47] 对于加尔文主义思想家来说，只有一个选择，那就是对耶稣基督的信仰。然而，对于蒙田来说，情况就更加复杂了。通过阅读或旅行，他努力开放自己的思想，了解各种各样的习俗。 “我们都被困在自己的小圈子里，我们的视野仅限于我们的鼻子的长度。”[48] 习俗的束缚如此之强，以至于我们是否能够意识到它并摆脱它的力量还存在疑问。
+
+米歇尔·德·蒙田被克劳德·莱维-斯特劳斯誉为人类科学的奠基人和文化相对主义的先驱。然而，蒙田并不完全沉溺于相对主义。判断力乍看之下无法阻止相对主义的论述，但面对习俗的力量时并不无可奈何。思考的运用是我们可以利用的第一个平衡力量，例如在批评现有法律时。习俗并非无所不能，因为它们的权威可以被个人的判断所反思、评估或质疑。比较方法也可以应用于解放判断力：虽然缺乏普遍标准，但我们仍然可以通过简单的比较来远离特定的习俗。蒙田因此比较了人与人之间的加热或循环手段。在更悲剧性的方式上，他通过与食人族相比较，谴责基督徒在法国内战期间对彼此所展示的狂热和残忍行为：“我认为活吃一个人比吃死人更野蛮，在折磨和拷问一个仍然有感觉的身体时更野蛮（…）。”“野蛮”一词的意义并不仅仅相对于一种文化或观点，因为野蛮程度是有差异的。在对食人族进行评判时，蒙田还说：“所以我们可以称这些人为野蛮人，从理性的规则来看，但从我们自己来看，我们在各种野蛮行为方面超越了他们（…）。”判断力仍然具有提出普遍标准的可能性，例如“理性”或“自然”，这些标准有助于评估行为和行为方式。尽管蒙田在《辩护》中坚持真正的理性和真正的正义只有上帝才知道，但他在其他章节中断言这些标准在某种程度上对人类是可接近的，因为它们使判断力能够将习俗视为特定和偶然的规则。[ 52] 为了批判变化无常和相对性，我们必须假设我们的判断仍然能够“将事物带回真理和理性”[ 53]。人类无处不受习俗的束缚，但这并不意味着我们应该接受思维的麻木。蒙田详细阐述了一种教育学，它建立在判断实践的基础上。学生的任务不是重复大师的话，而是在某个特定的主题或问题上，将自己的判断与大师的判断进行对比。此外，对《随笔集》的相对主义解读被迫忽视了一些带有更加理性主义色彩的段落。“习俗所造成的暴力损害”（I,23）当然不是对习俗的赞美，而是一种逃避习俗的邀请。就像西西里女巫的药水将人变成猪一样，习俗将他们的智慧变成愚蠢。在最困难的情况下，蒙田对判断的批判性运用旨在给予“对普通愚蠢判断的一记好鞭打。”[ 54] 在许多其他地方，蒙田自夸自己能够抵制俗见。独立思考，以及清晰的头脑和诚实，是一个年轻绅士应该培养的第一美德。
+
+## 6. 从夏伦到霍布斯，蒙田的遗产
+
+皮埃尔·夏龙是蒙田的朋友和正式继承人。在《智慧论》（1601 年和 1604 年）中，他重新组织了他的导师的许多思想，搁置了最令人不安的那些思想。他的作品现在通常被认为是对蒙田思想的教条式歪曲。然而，在整个 17 世纪，尤其是在马勒布朗什的批评家们密谋将《随笔集》列入 1677 年的罗马索引之后，他的书比《随笔集》本身更受重视。蒙田的历史影响必须通过这种调解的视角来衡量。此外，夏龙的阅读并不简单错误。根据他的观点，智慧依赖于判断的准备就绪，以便将其修正为更有利的结果：[55]这个想法是对《随笔集》在其早期接受历史中最显著的阅读之一。
+
+英国科学家和哲学家弗朗西斯·培根接受了对随笔的批判性概念，他认为自己的随笔是“[他]的奇思妙想的碎片”和“分散的沉思”，旨在激发读者的思考和知识欲望，而不是通过教条和方法的阐述来满足它。[56]即使在他更科学的作品中，如《学术进展》，培根的写作也是没有结论的。他认为这种开放和零碎的风格是激发进一步思考和研究的最佳方式：“代表着破碎的知识的格言确实会引导人们进一步探索”。[57]培根的反思使我们能够欣赏蒙田的随笔的科学价值，因为它们是不完整的作品，始终呼唤着作者和读者的进一步思考，从而激发和促进思想的发展和研究的进展。
+
+米歇尔·德·蒙田对笛卡尔的影响已经被许多评论家所评论，至少从19世纪开始，在现代科学诞生的背景下。作为一个怀疑论者，质疑心灵和事物之间的自然联系，蒙田在现代哲学景观中赢得了自己的地位。《辩护》中的怀疑主义无疑是“唯我论”的主要来源，但笛卡尔不能被称为蒙田的门徒，因为他并没有继承一种教义。最重要的是，他从这位佩里戈尔丁绅士那里学到了一种自我教育的方式。笛卡尔决定从零开始自学，遵循蒙田指示的道路，以实现独立和坚定的判断。从《随笔集》中继承的思维方式在《方法论讲演》的前两部分中显得特别明显。年轻的笛卡尔离开拉弗莱什学院后，决定旅行，亲身实践来测试自己的价值。“我利用余年去旅行，去见识宫廷和军队，去结识各种性情和地位的人，去收集各种经验，去在命运给予我的邂逅中考验自己（…）。”[58]这种脱离学校背景的教育被呈现为通过经验对自我的一次尝试。世界作为教师代替了书籍和教师。这种新的教育使得笛卡尔能够摆脱过高评价自己习俗的偏见，这是一种普遍现象，我们现在称之为以太心理。当笛卡尔从自己的旅行中得出教训时，蒙田的遗产变得特别明显，“承认那些与我们感受非常相反的人并不是野蛮人或原始人，而是许多人比我们更多地运用理性”。 而且：“了解不同的人是好的，这样我们才能更理智地评判自己，不会认为一切违背我们习俗和习惯的事情都是荒谬和违背理性的，通常只有那些从未见过其他事物的人才会这样认为。”[59] 像蒙田一样，笛卡尔开始以一种纯粹依靠判断力的方式对生活进行哲学思考：“我正在学习不要过于坚信那些通过例子和习俗说服我的事情。”[60] 然而，当他将基于习俗的观点等同于错误时，他与蒙田有所不同。[61] 后者不敢谈论错误：各种观点，具有不同的权威性，应该在判断的天平上权衡。因此，将蒙田的哲学解释为笛卡尔立场下的“偏见批判”是不正确的。
+
+近年来，评论家们强调了蒙田和霍布斯之间的联系对于现代政治观念的发展的重要性，这种观念根植于对传统人类和社会学说的批判。在莎士比亚创作剧作的同时，约翰·弗洛里奥（John Florio）翻译的蒙田随笔的第一本英文译本（1603年）成为英国广为流传的经典之作。作为牛津大学麦格达伦学院（Magdalen Hall）和剑桥大学圣约翰学院（Saint John's College）的前学生，以及贵族和富裕家庭的年轻导师和秘书，托马斯·霍布斯有很多机会在他经常光顾的图书馆中阅读蒙田的著作。作为导师，他在欧洲各地广泛旅行，并在法国停留了几次，直到英国内战迫使他流亡巴黎（1641年-1651年）。在此期间，霍布斯与怀疑论和放纵主义圈子交往，并结识了受蒙田怀疑论影响的学者，如索比埃尔、加桑迪和拉莫特·勒韦耶。历史文献和比较研究证实了蒙田对霍布斯的影响，从《法律要素》到《利维坦》[62]。这两位作者都认为人类受欲望和想象驱使，不断追求自我保护和权力。蒙田将人类生活与运动和不稳定性联系在一起，并指出我们的激情推动我们朝着想象中的未来成就（荣誉、荣耀、科学、理性等）迈进的力量[63]。在《利维坦》中，霍布斯在这一立场上进一步断言，作为人类的普遍倾向，“一种永恒而不安的对权力的渴望，只有在死亡中才停止”[64]。这种共同的人类学观表明，蒙田和霍布斯对于以人类为中心的学院派和文艺复兴时期的人类学观念，即将人类视为理性的存在并处于创造之巅，持相反态度。 相反，他们强调了他的本能和热情的本质，最终导致政治社区崩溃时的暴力和冲突。这种消极的人类学应该从历史经验的角度来理解，这些经验扰乱了他们的国家。[65]政治动荡的威胁使蒙田和霍布斯的生活充满了活力。而霍布斯引用了古语“人类是人类的狼”，并将文明状态之外的人类状况描述为一场“每个人都是每个人的敌人”的战争，[66]蒙田似乎更进一步，“通过从一些基督徒的残酷行为中学到的经验，他们认为没有什么野兽比人类更可怕”。[67]为了避免暴力爆发，他们都承认法律和服从的必要性，这种必要性不依赖于任何本体论或道德基础。法律的规范力量来自于其实际的必要性，因为它是社会生活的理性条件。[68]正如蒙田所写：“现在法律之所以保持信誉，不是因为它们是公正的，而是因为它们是法律”。[69]质疑亚里士多德关于政治作为人类自然目标的观点，蒙田和霍布斯指出了文明权威的人为性质，因为它是为了维护生命和和平，避免暴力和战争而建立的。
+
+## 7. 结论
+
+米歇尔·德·蒙田通过不专注于任何一个观念来培养自己的自由，同时又探索了所有的观念。在对各种主题进行判断时，他训练自己从他所读到或经历过的事物出发，走上新的道路。对于蒙田来说，这也意味着质疑他所处时代的信念，反思他的信仰和教育，并培养自己的个人思想。可以说，他的语言只遵循一个规则，那就是“判断和真诚的效果”，这也是他要求学生遵守的规则。他的语言具有明显的语调，但有时在不同的地方自相矛盾，也许正因为它如此紧密地追随思想的变化。
+
+如果成为哲学家意味着对人类的脆弱性、我们所遭遇的邪恶或快乐不敏感，那么蒙田不是一个哲学家。如果意味着使用“行话”，并能够进入学者的世界，那么蒙田也不是一个哲学家。然而，如果成为哲学家意味着在生活的任何情况下能够正确判断，那么《随附/监督》是一个想要成为真正哲学家的作者的典范证明。蒙田将他的判断置于任何主题的审判中，不仅是为了了解其价值，还为了形成和加强它。
+
+他成功地向我们提供了一种与生活相符的哲学。正如尼采所说：“这样一个人的著作，确实增加了地球上的欢乐……如果我的任务是使这个地球成为一个家园，我会依附于他。”或者，正如斯特凡·茨威格所说，在蒙田自己所经历的历史现实更为接近的背景下：“蒙田帮助我们回答这个问题：‘如何保持自由？如何在面对狂热主义的威胁和危险时保持我们天生的清明，如何在野蛮行为的激增中保持我们心灵的人性？’”
+
+
+
+## Bibliography
+
+### Editions
+
+* *Essais*, F. Strowski (ed.), Paris: Hachette, 1912, Phototypic reproduction of the “Exemplaire de Bordeaux”, showing Montaigne’s handwritten additions of 1588–1592.
+* *Essais*, Pierre Villey (ed.), 3 volumes, Alcan, 1922–1923, revised by V.-L. Saulnier, 1965. Gives the 3 strata indications, probable dates of composition of the chapters, and many sources.
+* *Michel de Montaigne. Les Essais*, J. Balsamo, C. Magnien-Simonin & M. Magnien (eds.) (with “Notes de lecture” and “Sentences peintes” edited by Alain Legros), Paris, “Pléiade”, Gallimard, 2007. The Essays are based on the 1595 published version.
+* *La Théologie naturelle de Raymond Sebond*, *traduicte nouvellement en François par Messire Michel, Seigneur de Montaigne, Chevalier de l’ordre du Roy et Gentilhomme ordinaire de sa chambre*. Ed. by Dr Armaingaud, Paris: Conard, 1935.
+* *Le Journal de Voyage en Italie de Michel de Montaigne*. Ed. by François Rigolot, Paris: PUF, 1992.
+* *Lettres*. Ed. by Arthur Armaingaud, Paris, Conard, 1939 (vol. XI, in *Œuvres complètes*, pp. 159–266).
+
+### Translations in English
+
+* *The Essayes*, tr. by John Florio. London: V. Sims, 1603.
+* *The Essays*, tr. by Charles Cotton. 3 vol., London: T. Basset, M. Gilliflower and W. Hensman, 1685–1686.
+* *The Essays*, tr. by E.J. Trechmann. 2 vol., Oxford: Oxford University Press, 1927.
+* *Michel de Montaigne. The Complete Works. Essays, Travel Journal, Letters, tr. by Donald M. Frame*, Stanford: Stanford University Press, 1958, renewed 1971 & 1976.
+* *The Complete Essays*, tr. by M.A. Screech, London/New York: Penguin, 1993.
+* *The Journal of Montaigne’s Travels*, tr. by W.G. Watters, 3 vol., London: John Murray, 1903.
+* *The Diary of Montaigne’s Journey to Italy in 1580 and 1581*, tr. by E.J. Trechmann. London: Hogarth Press, 1929.
+
+### Secondary Sources
+
+* Auerbach, Erich, 1946, “l’humaine condition” (on Montaigne) in *Mimesis: The Representation of Reality in Western Literature, trans*. Willard Trask. Princeton: Princeton University Press, 2003 (originally pub. Bern: Francke).
+* Burke, Peter, 1981, *Montaigne*, Oxford: Oxford University Press.
+* Compayré, Gabriel, 1908, Montaigne and the Education of the Judgment, trans. J. E. Mansion, New York: Burt Franklin, 1971.
+* Conche, Marcel, 1996, *Montaigne et la philosophie*, Paris: PUF.
+* Desan, Philippe, 2017, *Montaigne: A Life*, Princeton: Princeton University Press.
+* ––– (ed.), 2007, *Dictionnaire de Montaigne*, Paris: Champion.
+* ––– (ed.), 2016, *The Oxford Handbook of Montaigne*, Oxford: Oxford University Press.
+* Ferrari, Emiliano, & Gontier, Thierry, 2016, *L’Axe Montaigne-Hobbes: anthropologie et politique*, Paris: Classiques Garnier.
+* Frame, Donald M., 1984, *Montaigne: A Biography*, New York: Harcourt/ London: Hamish Hamilton, 1965/ San Francisco: North Point Press.
+* Friedrich, Hugo, 1991, *Montaigne*, Bern: Francke, 1949; Berkeley: University of California Press.
+* Fontana, Biancamaria, 2008, *Montaigne’s Politics: Authority and Governance in the Essays*, Geneva: Princeton University Press.
+* Hoffmann, Georges, 1998, *Montaigne’s Career*, Oxford: Clarendon Press.
+* Horkheimer, Max, 1938, *Montaigne und die Funktion der Skepsis*, Frankfurt: Fischer, reprinted 1971.
+* Imbach, Ruedi, 1983, “‘Et toutefois nostre outrecuidance veut faire passer la divinité par nostre estamine’, l’essai II,12 et la genèse de la pensée moderne. Construction d’une thèse explicative” in *Paradigmes de théologie philosophique*, O. Höffe et R. Imbach (eds.), Fribourg.
+* Ulrich Langer, 2005, *The Cambridge Companion to Montaigne*, Cambridge: Cambridge University Press.
+* Leake, R.E., 1981, *Concordance des Essais de Montaigne*, 2 vol., Genève: Droz.
+* Paganini, Gianni, 2008, *Skepsis. Le débat des modernes sur le scepticisme*, Paris: Vrin.
+* Popkin, Richard, 1960, *The History of Scepticism from Erasmus to Descartes*, Assen: Van Gorcum.
+* –––, 1979, *The History of Scepticism from Erasmus to Spinoza*, Berkeley: University of California Press.
+* –––, 2003, *The History of Scepticism from Savonarola to Bayle*, Oxford: Oxford University Press.
+* Schmitt, Charles B., 1972, *Cicero scepticus*: *A Study of the Influence of the Academica in the Renaissance*, The Hague: Martinus Nijhoff.
+* Screech, Michael, 1983, *Montaigne & Melancholy — The Wisdom of the Essays*, London: Duckworth.
+* –––, 1998, *Montaigne’s Annotated Copy of Lucretius, A transcription and study of the manuscript, notes and pen-marks*, Geneva: Droz.
+* Skinner, Quentin, 2002, *Visions of Politics* (Volume 3: Hobbes and Civil Science), Cambridge: Cambridge University Press.
+* Starobinski, Jean, 2009, *Montaigne in Motion*, University of Chicago Press.
+* Supple, James, 1984, *Arms versus Letters, The Military and Literary Ideals in the Essays*, Cambridge: Clarendon Press.
+* Thompson, Douglas, 2018, *Montaigne and the Tolerance of Politics*, Oxford: Oxford University Press.
+* Tournon, André, 1983, *La glose et l’essai*, Paris: H. Champion, reprinted 2001.
+* Zweig, Stefan, 1960, *Montaigne* [written 1935–1941] Frankfurt: Fischer.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=montaigne). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/montaigne/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=montaigne&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/montaigne/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+### Texts
+
+* The complete, searchable [text of the Villey-Saulnier edition](http://www.lib.uchicago.edu/efts/ARTFL/projects/montaigne/), from the ARFTL project at the University of Chicago (French)
+* [Montaigne Studies: An Interdisciplinary Forum](http://humanities.uchicago.edu/orgs/montaigne/), Philippe Desan, ed., (University of Chicago).
+* [Portrait Gallery](http://humanities.uchicago.edu/orgs/montaigne/h/gallery/), in Montaigne Studies: An Interdisciplinary Forum
+
+### Translations
+
+* [Montaigne’s Essays](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/766/montaigne.pdf?sequence=1) John Florio’s translation (first published 1603, Ben R. Schneider (ed.), Lawrence University, Wisconsin, from The World’s Classics, 1904, 1910, 1924), published at Renascence Editions, U. Oregon
+* [Essays of Michel De Montaigne](https://archive.org/details/essaysofmontaign00mont/page/n7), translated (1685–1686) by Charles Cotton, edited by William Carew Hazlitt, London: Reeves anbd Turner.
+
+## Related Entries
+
+[civic humanism](https://plato.stanford.edu/entries/humanism-civic/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | humanism: in the Renaissance | [liberty: positive and negative](https://plato.stanford.edu/entries/liberty-positive-negative/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [Sextus Empiricus](https://plato.stanford.edu/entries/sextus-empiricus/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/)
+
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
+Marc Foglia <[*marc.foglia@gmail.com*](mailto:marc%2efoglia%40gmail%2ecom)>  
+[Emiliano Ferrari](https://comod.universite-lyon.fr/emiliano-ferrari--38847.kjsp?RH=1500970133977) <[*ferrariemil@gmail.com*](mailto:ferrariemil%40gmail%2ecom)>
