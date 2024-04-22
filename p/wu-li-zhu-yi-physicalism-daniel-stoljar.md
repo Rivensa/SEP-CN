@@ -1,53 +1,46 @@
 # 物理主义 physicalism (Daniel Stoljar)
 
-*首次发表于2001年2月13日；实质修订于2021年5月25日。*
+_首次发表于2001年2月13日；实质修订于2021年5月25日。_
 
 物理主义是以口号形式表达的一种观点，即一切都是物质的。这个观点通常被理解为一种形而上学的观点，类似于古希腊哲学家泰勒斯所主张的一切都是水，或者 18 世纪哲学家伯克利的唯心主义观点，即一切都是心灵的。总的想法是，实际世界的本质（即宇宙和其中的一切）符合一定的条件，即物质的条件。当然，物理主义者并不否认世界可能包含许多乍一看似乎不是物质的东西——生物学的、心理学的、道德的、社会的或数学的东西。但他们仍然坚持认为，归根结底，这些东西是物质的，或者至少与物质有重要的关系。
 
-* [ 1. 准备工作](https://plato.stanford.edu/entries/physicalism/#Prelim)
-
-  * [ 1.1 术语](https://plato.stanford.edu/entries/physicalism/#Term)
-  * [ 1.2 历史问题](https://plato.stanford.edu/entries/physicalism/#HistIssu)
+* [1. 准备工作](https://plato.stanford.edu/entries/physicalism/#Prelim)
+  * [1.1 术语](https://plato.stanford.edu/entries/physicalism/#Term)
+  * [1.2 历史问题](https://plato.stanford.edu/entries/physicalism/#HistIssu)
   * [1.3 讨论框架](https://plato.stanford.edu/entries/physicalism/#FramForDisc)
 * [2. 完备性问题](https://plato.stanford.edu/entries/physicalism/#ModaNonModaForm)
-
   * [2.1 随附和必然性物理主义](https://plato.stanford.edu/entries/physicalism/#SupeNecePhys)
   * [2.2 同一性物理主义](https://plato.stanford.edu/entries/physicalism/#IdenPhys)
-
-    * [ 2.2.1 代币物理主义](https://plato.stanford.edu/entries/physicalism/#TokePhys)
-    * [ 2.2.1 类型物理主义](https://plato.stanford.edu/entries/physicalism/#TypePhys)
+    * [2.2.1 代币物理主义](https://plato.stanford.edu/entries/physicalism/#TokePhys)
+    * [2.2.1 类型物理主义](https://plato.stanford.edu/entries/physicalism/#TypePhys)
   * [2.3 实现物理主义](https://plato.stanford.edu/entries/physicalism/#RealPhys)
-
     * [2.3.1 二阶物理主义](https://plato.stanford.edu/entries/physicalism/#SecoOrdePhys)
     * [2.3.2 物理主义的子集](https://plato.stanford.edu/entries/physicalism/#SubsPhys)
   * [2.4 推导物理主义](https://plato.stanford.edu/entries/physicalism/#GrouPhys)
   * [2.5 基础物理主义](https://plato.stanford.edu/entries/physicalism/#FundPhys)
 * [3. 物理主义的种类](https://plato.stanford.edu/entries/physicalism/#VariPhys)
-
   * [3.1 约简和非约简的物理主义](https://plato.stanford.edu/entries/physicalism/#ReduNonReduPhys)
   * [3.2 先验和后验的物理主义](https://plato.stanford.edu/entries/physicalism/#PrioPostPhys)
 * [4. 条件问题](https://plato.stanford.edu/entries/physicalism/#CondQues)
-
   * [4.1 物理的理论和对象概念](https://plato.stanford.edu/entries/physicalism/#TheoObjeConc)
-  * [ 4.2 循环性](https://plato.stanford.edu/entries/physicalism/#Circ)
-  * [ 4.3 亨普尔的困境](https://plato.stanford.edu/entries/physicalism/#HempDile)
+  * [4.2 循环性](https://plato.stanford.edu/entries/physicalism/#Circ)
+  * [4.3 亨普尔的困境](https://plato.stanford.edu/entries/physicalism/#HempDile)
   * [4.4 泛心论问题](https://plato.stanford.edu/entries/physicalism/#PanpProb)
   * [4.5 否定之路](https://plato.stanford.edu/entries/physicalism/#ViaNega)
   * [4.6 结构主义方法](https://plato.stanford.edu/entries/physicalism/#StruApprPhys)
   * [4.7 物理主义作为一种态度](https://plato.stanford.edu/entries/physicalism/#PhysAtti)
 * [5. 反对物理主义的案例](https://plato.stanford.edu/entries/physicalism/#CaseAgaiPhysIQualCons)
-
   * [5.1 感觉质和意识](https://plato.stanford.edu/entries/physicalism/#QualCons)
   * [5.2 意义和指向性](https://plato.stanford.edu/entries/physicalism/#MeanInte)
   * [5.3 数字和抽象物](https://plato.stanford.edu/entries/physicalism/#NumbAbst)
   * [5.4 方法论问题](https://plato.stanford.edu/entries/physicalism/#MethIssu)
 * [6. 物理主义的论证](https://plato.stanford.edu/entries/physicalism/#CaseForPhys)
-* [ 参考文献](https://plato.stanford.edu/entries/physicalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/physicalism/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/physicalism/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/physicalism/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/physicalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/physicalism/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/physicalism/#Rel)
 
----
+***
 
 ## 1. 准备工作
 
@@ -137,7 +130,7 @@
 
 假设(1)为物理主义提供了必要条件但不足够的条件；我们如何加强它使其更有说服力？最明显的做法是诉诸于同一性。事实上，在回答完备性问题的尝试历史中，诉诸于同一性早于诉诸于随附性。然而，这个版本的物理主义——我们可以称之为同一性物理主义——遇到了严重的问题。
 
-* 2.2.1. 物理主义的个体观点*
+* 2.2.1. 物理主义的个体观点\*
 
 实际上，同一性物理主义有两个不同的版本，即类型物理主义和个体物理主义。个体物理主义认为世界上的每个具体事物都是一个物理事物。因此，个体物理主义者认为物理主义应该以以下方式表述：
 
@@ -153,7 +146,7 @@
 
 (3)不仅不能为物理主义提供充分条件，也不能提供必要条件。考虑一个社会或法律对象，比如美国第七巡回上诉法院。根据(3)，如果物理主义是真实的，就必须有某个物理对象或个别事物与法院相同。但直观上，没有这样的物理对象。尽管如此，物理主义可能仍然是真实的。如果是这样，那么令牌物理主义对于物理主义来说并非必要条件。(注意这里随附物理主义没有类似的问题。它暗示了关于法院的事实随附于物理事实，但并不意味着有任何物理对象与法院相同。关于这一观点的经典阐述，请参见 Haugeland 1983 年)。
 
-* 2.2.2. 类型物理主义*
+* 2.2.2. 类型物理主义\*
 
 现在转向物理主义，它认为每个属性（或者至少是在实际世界中实例化的每个属性）都与某个物理属性相同。因此，类型物理主义者假设物理主义应该以以下方式表述：
 
@@ -173,7 +166,7 @@
 
 到目前为止，我们对完备性问题的讨论得出了消极的结果：随附物理主义太弱，类型物理主义太强，令牌物理主义既太弱又太强。似乎需要一种方法，像我们最初提出的模态形式一样，使一切都依赖于物理的随附，但又避免了充分性问题。沿着这个思路，一个重要的想法是引入一种与身份和随附都不同的属性关系，通常称为实现。与身份物理主义一样，实现物理主义也有两个不同的版本，我们将依次考虑它们。
 
-*2.3.1 二阶物理主义*
+_2.3.1 二阶物理主义_
 
 第一个实现定义已经由安德鲁·梅尔尼克（见梅尔尼克 2003 年及其中的参考文献）详细探讨和辩护。对于梅尔尼克来说，属性 F 实现属性 G 当且仅当（a）G 与二阶属性相同，即具有某种具有特定因果或理论作用的属性；以及（b）F 是所讨论的因果或理论作用的属性。我们可以称这个概念为“二阶实现”，以区别于稍后要考虑的不同实现概念。这表明：
 
@@ -185,9 +178,9 @@
 
 二阶物理主义是否蕴含随附物理主义？通常的假设是它蕴含，但正如 Melnyk 在某一点上指出的（2003 年，第 23 页），这里存在一个问题，涉及到二阶属性的定义，即具有某种因果或理论作用的某个属性的属性。用于详细说明这些因果或理论作用的属性是什么？如果物理主义是真实的，它必须对这些属性同样适用。但是，根据二阶物理主义，这些属性本身要么是物理属性，要么是由物理属性实现的。如果选择第一种选项，二阶物理主义者将被揭示为持有一种身份物理主义的版本（可以说是上一级），从而面临多重实现的反对意见。如果选择第二种选项，二阶物理主义者看起来承认了无限回归，因为现在我们有了由物理属性实现的进一步属性，以及相应的因果或理论作用。为了避免回归，二阶物理主义者可能会说这些属性随附于物理属性或与物理属性相同。但现在很难看出实现物理主义者与这些其他学说之间的区别。（有关这个问题的进一步讨论，请参见 Elpidorou 2018a。）
 
-* 2.3.2 子集物理主义*
+* 2.3.2 子集物理主义\*
 
-物理主义的第二个实现定义由 Wilson 1999、2011 和 Shoemaker 2007 提出。根据这个观点，如果（a）G 具有一些因果能力或特征 S；（b）F 具有一些因果能力或特征 S *；并且（c）S 是 S*的子集，则属性 F 实现属性 G。（我们可以称这个概念为“子集实现”以区别于刚才考虑的不同实现概念。）这表明：
+物理主义的第二个实现定义由 Wilson 1999、2011 和 Shoemaker 2007 提出。根据这个观点，如果（a）G 具有一些因果能力或特征 S；（b）F 具有一些因果能力或特征 S _；并且（c）S 是 S_的子集，则属性 F 实现属性 G。（我们可以称这个概念为“子集实现”以区别于刚才考虑的不同实现概念。）这表明：
 
 (6)
 
@@ -267,17 +260,17 @@
 
 物理真理蕴含着所有真理。
 
-现在假设 S 是一个陈述，它指定了实际世界的物理性质，而 S*是一个陈述，它指定了世界的总体性质。（也许 S 和 S*都无法用我们能理解的语言表达，但让我们暂且不考虑这一点。）那么物理主义告诉我们，此外还有以下内容：
+现在假设 S 是一个陈述，它指定了实际世界的物理性质，而 S_是一个陈述，它指定了世界的总体性质。（也许 S 和 S_都无法用我们能理解的语言表达，但让我们暂且不考虑这一点。）那么物理主义告诉我们，此外还有以下内容：
 
 (13)
 
- S 蕴含 S*
+S 蕴含 S\*
 
 另一种说法是，如果随附物理主义是真实的，那么以下条件是必然成立的：
 
 (14)
 
- 如果 S，则 S*
+如果 S，则 S\*
 
 实际上，这是随附物理主义的一般特征：如果它是真的，那么总会有一个形式为（14）的必要真理。
 
@@ -287,7 +280,7 @@
 
 (15)
 
-如果 S 和 S#，那么 S*。
+如果 S 和 S#，那么 S\*。
 
 另一方面，如果物理主义是正确的，并且 S 总结了世界的全部本质，那么 S#已经隐含在 S 中。换句话说，（15）只是（14）的扩展。但是，如果（15）只是（14）的扩展，那么如果（15）是先验的，（14）也必须是先验的。但这意味着我们最初的假设是错误的：（14）毕竟不是必然的后验真理（参见杰克逊 1998 年）。
 
@@ -303,15 +296,13 @@
 
 那么对于条件问题的答案是什么呢？为了简单起见，如果我们将注意力集中在物理属性的概念上，我们可以找到两种对这个问题的回答（参见 Stoljar 2001，Stoljar 2010，Tiehen 2018）。第一种将物理属性的概念与物理理论的概念联系在一起，因此我们可以称之为基于理论的物理属性概念：
 
-理论基础的概念：
-一个属性是物理的，当且仅当它是物理理论告诉我们的那种属性。
+理论基础的概念： 一个属性是物理的，当且仅当它是物理理论告诉我们的那种属性。
 
 根据理论基础的概念，例如，如果物理理论告诉我们具有质量的属性，那么具有质量就是一个物理属性。（理论基础的概念与 Feigl 1967 中讨论的物理 1 的概念有一定关系；更明确的辩护见于 Smart 1978，Lewis 1994，Braddon-Mitchell 和 Jackson 1996 以及 Chalmers 1996。）
 
 第二种答案将物理属性的概念与物理对象的概念联系在一起，因此我们可以称之为基于对象的物理属性观念：
 
-基于对象的观念：
-如果一个属性是典型的物理对象及其组成部分所具有的属性类型，则该属性是物理属性。
+基于对象的观念： 如果一个属性是典型的物理对象及其组成部分所具有的属性类型，则该属性是物理属性。
 
 根据基于对象的概念，例如，如果典型的物理对象如岩石或行星是固体的，或者位于空间中，或者具有质量，那么固体性、空间定位或质量的属性就是物理属性。（在操作物理概念的哲学家中，最好的例子是 Meehl 和 Sellars 1956 年以及 Feigl 1967 年；更近期的辩护可以在 Jackson 1998 年找到。）
 
@@ -407,7 +398,7 @@ P2. 玛丽（在她被释放之前）并不知道关于其他人的一切（因�
 
 对于这个论证，有很多可能的回应，但在这里我只会简要提到三个。第一个是劳伦斯·内梅罗（1988）提出的能力假说，由大卫·刘易斯（1994）进一步发展和辩护。能力假说遵循莱尔（1949）的观点，明确区分命题知识或知识-那（例如“玛丽知道雪是白的”）和知识-如何（例如“玛丽知道如何骑自行车”），然后暗示玛丽所获得的只是后者。另一方面，如果玛丽获得了命题知识，那么 P2 才会成立。
 
-第二个回应是诉诸先验和后验物理主义之间的区别。正如我们上面所看到的，后验物理主义的关键主张是（13）——即 S 蕴含 S*的主张——是后验的。由于（13）是后验的，你需要某种经验来知道它。但是，有人争论说，玛丽没有（也无法有）相关的经验。因此，她不知道（13）。另一方面，玛丽没有（也无法有）知道（13）的经验的事实并不排除（13）是真实的可能性。因此，后验物理主义可以避免知识论证。（这是一个有趣的问题，这个回应攻击了知识论证的哪个前提。答案取决于（13）是否是物理的：如果（13）是物理的，那么这个回应攻击的是 P1。但如果（13）不是物理的，那么这个回应是说这个论证是无效的。）.
+第二个回应是诉诸先验和后验物理主义之间的区别。正如我们上面所看到的，后验物理主义的关键主张是（13）——即 S 蕴含 S\*的主张——是后验的。由于（13）是后验的，你需要某种经验来知道它。但是，有人争论说，玛丽没有（也无法有）相关的经验。因此，她不知道（13）。另一方面，玛丽没有（也无法有）知道（13）的经验的事实并不排除（13）是真实的可能性。因此，后验物理主义可以避免知识论证。（这是一个有趣的问题，这个回应攻击了知识论证的哪个前提。答案取决于（13）是否是物理的：如果（13）是物理的，那么这个回应攻击的是 P1。但如果（13）不是物理的，那么这个回应是说这个论证是无效的。）.
 
 第三个回应是区分物理的各种概念。我们之前看到，基于理论概念的物理定义的属性类别与基于对象概念的属性类别是不同的。但这表明论证的第一个前提可以有两种不同的解释方式。另一方面，杰克逊的思想实验似乎只在一种方式下支持前提，因为玛丽通过学习所有物理理论所能教给她的知识来学习。但这也留下了这样一种可能性，即可以诉诸于基于对象概念的物理来定义一个规避知识论证的物理主义版本。
 
@@ -443,11 +434,11 @@ Kripke的论证旨在破坏这个承诺。（事实上，Kripke的论证旨在�
 
 对于这个问题的最后回应并不是扩展物理的概念，而是将物理主义的范围限制在某种属性上。在这方面，一些建议已经由一些作者提出（例如 Rabin 2020，在 Dasgupta 2015 之后），在基于基础的物理主义的背景下，尽管这个基本思想可能也可以扩展到其他类型。他们建议将我们上面制定的基于基础的物理主义（7）进行修订，采取以下形式：
 
-(7*)
+(7\*)
 
 物理主义在可能世界 w 上成立，当且仅当在 w 上实例化的每个可基于的属性要么是物理属性，要么是以物理属性为基础。
 
-在这里，一个属性只有在适合被基于的情况下才能被基于，即它是一种可以被基于或不被基于的属性。普通的心理属性可能属于这一类。如果基于物理主义成立，它们是以物理属性为基础的，而如果不成立，它们就不是以物理属性为基础的；无论如何，它们都是可基于的属性。但是数学属性和抽象物的属性可能在至少某些情况下不可基于，它们可能不是适合被基于的属性。如果是这样，我们对抽象物问题有了另一种解决方案：（7*）允许一些抽象物的属性不是以物理为基础的，只要它们是不可基于的。
+在这里，一个属性只有在适合被基于的情况下才能被基于，即它是一种可以被基于或不被基于的属性。普通的心理属性可能属于这一类。如果基于物理主义成立，它们是以物理属性为基础的，而如果不成立，它们就不是以物理属性为基础的；无论如何，它们都是可基于的属性。但是数学属性和抽象物的属性可能在至少某些情况下不可基于，它们可能不是适合被基于的属性。如果是这样，我们对抽象物问题有了另一种解决方案：（7\*）允许一些抽象物的属性不是以物理为基础的，只要它们是不可基于的。
 
 ### 5.4 方法论问题
 
@@ -477,8 +468,7 @@ Kripke的论证旨在破坏这个承诺。（事实上，Kripke的论证旨在�
 
 第一个论证是（我将称之为）因果封闭论证。该论证的第一个前提是物理封闭原理，即每个有因果关系的事件都有一个物理原因。第二个前提是心理事件引起物理事件 - 例如，我们通常认为诸如想要举起手臂（心理事件）引起诸如举起手臂（物理事件）的事件。该论证的第三个前提是一种常被称为排除原则的因果原则（Kim 1993，Yablo 1992，Bennett 2003）。排除原则的正确表述存在一些争议，但一个既简单又合理的表述如下：
 
-** 排斥原理**
-如果事件 e 导致事件 e *，那么不存在事件 e*​ *#，使得 e#*​*在 e 上不随附且 e#导致 e*。
+\*\* 排斥原理\*\* 如果事件 e 导致事件 e _，那么不存在事件 e_​ _#，使得 e#​在 e 上不随附且 e#导致 e_。
 
 这个论证的结论是心理事件随附于物理事件，或者更简洁地说，物理主义是正确的。因为当然，如果因果封闭的论题是正确的，那么行为事件有物理原因，而如果心理事件也导致行为事件，那么如果排斥原理是正确的，它们必须随附于物理事件。
 
@@ -492,167 +482,166 @@ Kripke的论证旨在破坏这个承诺。（事实上，Kripke的论证旨在�
 
 另一种可能性是拒绝其第二个前提。然而，如果物理主义可以清楚地陈述 - 诚然，这是一个很大的“如果” - 那么这将意味着什么或者对此的动机将不太清楚。首先，我们之前的讨论表明，物理主义与各种科学的解释自主性并不矛盾，因此一个不应该仅仅因为看不到如何将这些科学归约为其他科学而拒绝物理主义。其次，虽然确实存在非物理主义的世界观的例子 - 生物学中的生命论可能是最好的例子 - 但这与论点无关。方法论自然主义的论证的第二个前提并不否认其他观点的可能性，它只是说物理主义是目前最有可能的观点。最后，人们可能倾向于诉诸于诸如知识论证之类的论证，以显示物理主义是错误的，从而方法论自然主义无法显示物理主义是错误的。然而，这个建议对知识论证存在一种混淆。正如我们上面所看到的，如果成功，知识论证表明的不仅仅是物理主义是错误的，而是与方法论自然主义兼容的任何对世界的方法都是错误的。但如果是这样，那么假设知识论证是与方法论自然主义兼容的立场，那么认为知识论证给人们任何理由来支持反物理主义是错误的。
 
-
 ## Bibliography
 
-* Alter, T., 2016, ‘The Structure and Dynamics Argument against Materialism’, *Noûs*, 50(4): 794–815.
-* Armstrong, D., 1968, *A Materialist Theory of the Mind*, London: Routledge.
-* Bacon, J., 1990, ‘Van Cleve Versus Closure’, *Philosophical Studies*, 58: 239–242.
-* Baltimore, J., 2013, ‘Stoljar’s Twin-physics World’, *Philosophia*, 41: 127–136.
-* Bennett, K., 2003, ‘Why the Exclusion Problem Seems Intractable and How, Just Maybe, to Tract it’, *Noûs*, 37(3): 471–497.
-* –––, 2017, *Making Things Up*, Oxford: Oxford University Press.
-* Berkeley, G., 1710, *Principles of Human Knowledge*, London: Penguin, 2004.
-* Berker, S., 2018, ‘The Unity of Grounding’, *Mind*, 127(507): 729–777.
-* Blackburn, S., 1992, ‘Filling in Space’, *Analysis*, 50(2): 60–65.
-* Block, N., 1980, ‘Troubles with Functionalism’, in N. Block (ed.), *Readings in the Philosophy of Psychology*, Volume 1, Cambridge, MA: Harvard University Press, 1980, pp. 268–306.
-* –––, 1995, ‘On a Confusion About a Function of Consciousness’, *Behavioral and Brain Sciences*, 18(2): 227–287.
-* Block, N., and Stalnaker, R., 1999, ‘Conceptual Analysis, Dualism and the Explanatory Gap’, *Philosophical Review*, 108(1): 1–46.
-* Boyd, R., 1980, ‘Materialism Without Reductionism: What Physicalism Does not Entail’, in N. Block (ed.), *Readings in the Philosophy of Psychology* Volume 1, Cambridge, MA: Harvard University Press, 1980, pp. 76–106
-* Braddon-Mitchell, D., and Jackson, F., 1996, *Philosophy of Mind and Cognition*, Oxford: Blackwell.
-* Broad, C.D., 1925, *The Mind and Its Place in Nature*, London: Routledge and Kegan Paul.
-* Byrne, A., 1993, *The Emergent Mind*, Ph.D. Dissertation, Philosophy Department, Princeton University.
-* –––, 1999, ‘Cosmic Hermeneutics’, in J. Tomberlin (ed.), *Philosophical Perspectives*, 13: 347–83.
-* Carnap, R, 1932/33 ‘Psychology in Physical Language’, in A.J. Ayer (ed.), *Logical Positivism*, New York: The Free Press, 1959, pp. 165–198.
-* Chalmers, D., 1996, *The Conscious Mind*, New York: Oxford University Press
-* –––, 1999, ‘Materialism and the Metaphysics of Modality’, *Philosophy and Phenomenological Research*, 59: 473–493.
-* –––, 2002, *Philosophy of Mind: Contemporary and Classical Readings*, New York: Oxford University Press
+* Alter, T., 2016, ‘The Structure and Dynamics Argument against Materialism’, _Noûs_, 50(4): 794–815.
+* Armstrong, D., 1968, _A Materialist Theory of the Mind_, London: Routledge.
+* Bacon, J., 1990, ‘Van Cleve Versus Closure’, _Philosophical Studies_, 58: 239–242.
+* Baltimore, J., 2013, ‘Stoljar’s Twin-physics World’, _Philosophia_, 41: 127–136.
+* Bennett, K., 2003, ‘Why the Exclusion Problem Seems Intractable and How, Just Maybe, to Tract it’, _Noûs_, 37(3): 471–497.
+* –––, 2017, _Making Things Up_, Oxford: Oxford University Press.
+* Berkeley, G., 1710, _Principles of Human Knowledge_, London: Penguin, 2004.
+* Berker, S., 2018, ‘The Unity of Grounding’, _Mind_, 127(507): 729–777.
+* Blackburn, S., 1992, ‘Filling in Space’, _Analysis_, 50(2): 60–65.
+* Block, N., 1980, ‘Troubles with Functionalism’, in N. Block (ed.), _Readings in the Philosophy of Psychology_, Volume 1, Cambridge, MA: Harvard University Press, 1980, pp. 268–306.
+* –––, 1995, ‘On a Confusion About a Function of Consciousness’, _Behavioral and Brain Sciences_, 18(2): 227–287.
+* Block, N., and Stalnaker, R., 1999, ‘Conceptual Analysis, Dualism and the Explanatory Gap’, _Philosophical Review_, 108(1): 1–46.
+* Boyd, R., 1980, ‘Materialism Without Reductionism: What Physicalism Does not Entail’, in N. Block (ed.), _Readings in the Philosophy of Psychology_ Volume 1, Cambridge, MA: Harvard University Press, 1980, pp. 76–106
+* Braddon-Mitchell, D., and Jackson, F., 1996, _Philosophy of Mind and Cognition_, Oxford: Blackwell.
+* Broad, C.D., 1925, _The Mind and Its Place in Nature_, London: Routledge and Kegan Paul.
+* Byrne, A., 1993, _The Emergent Mind_, Ph.D. Dissertation, Philosophy Department, Princeton University.
+* –––, 1999, ‘Cosmic Hermeneutics’, in J. Tomberlin (ed.), _Philosophical Perspectives_, 13: 347–83.
+* Carnap, R, 1932/33 ‘Psychology in Physical Language’, in A.J. Ayer (ed.), _Logical Positivism_, New York: The Free Press, 1959, pp. 165–198.
+* Chalmers, D., 1996, _The Conscious Mind_, New York: Oxford University Press
+* –––, 1999, ‘Materialism and the Metaphysics of Modality’, _Philosophy and Phenomenological Research_, 59: 473–493.
+* –––, 2002, _Philosophy of Mind: Contemporary and Classical Readings_, New York: Oxford University Press
 * –––, 2002a, ‘Consciousness and its Place in Nature’, in Chalmers 2002, pp. 102–142.
-* –––, 2015, ‘Panpsychism and Panprotopsychism’ in T. Alter and Y. Nagasawa (eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*, New York: Oxford University Press, pp. 246–276. .
-* –––, 2020, ‘Spatiotemporal functionalism v. the Conceivability of Zombies’, *Noûs*, first online 28 April 2020. doi:10.1111/nous.12331
-* Chomsky, N., 1994b, ‘Noam Chomsky’, in S. Guttenplan (ed.), *A Companion to the Philosophy of Mind*, Oxford: Blackwell, pp. 153–167.
-* –––, 1995, ‘Language and Nature’, *Mind*, 104(413): 1–61.
-* –––, 2000, *New Horizons in the Study of Language and Mind*, Cambridge: Cambridge University Press.
-* Correia, F and Schneider, B (eds.), 2012, *Metaphysical Grounding: Understanding the Structure of Reality*, Cambridge: Cambridge University Press.
-* Crane, T. and Mellor, D.H., 1990, ‘There is no Question of Physicalism’, *Mind*, 99: 185–206.
-* Daly, C. 1997, ‘What are Physical Properties?’, *Pacific Philosophical Quarterly*, 79(3): 196–217.
-* Dasgupta, S. 2015, ‘The Possibility of Physicalism’, *Journal of Philosophy*, 111: 557–592.
-* Davidson, D. 1970 . ‘Mental Events’, in D. Davidson, *Essays on Actions and Events*, Oxford: Oxford University Press, pp. 207–223.
-* Descartes, R., 1641, *Meditations on First Philosophy*, in Cottingham *et al*. (eds.), *The Philosophical Writings of Rene Descartes*, Cambridge: Cambridge University Press, 1985.
-* Dijksterhuis, E.J., 1961, *The Mechanization of the World-Picture*, Oxford: Clarendon.
-* Dowell, J.L., 2006a, ‘Formulating the Thesis of Physicalism’, *Philosophical Studies*, 131(1): 1–23.
-* –––, 2006b, ‘Physical: Empirical not Metaphysical’, *Philosophical Studies*, 131(1): 25–60.
-* Elpidorou, A., 2018a, ‘Introduction: The Character of Physicalism’, *Topoi: An International Review of Philosophy*, 37(3): 435–455.
-* ––– (ed.), 2018b, ‘Special Issue: The Character of Physicalism’, *Topoi: An International Review of Philosophy*, 37(3).
+* –––, 2015, ‘Panpsychism and Panprotopsychism’ in T. Alter and Y. Nagasawa (eds.), _Consciousness in the Physical World: Perspectives on Russellian Monism_, New York: Oxford University Press, pp. 246–276. .
+* –––, 2020, ‘Spatiotemporal functionalism v. the Conceivability of Zombies’, _Noûs_, first online 28 April 2020. doi:10.1111/nous.12331
+* Chomsky, N., 1994b, ‘Noam Chomsky’, in S. Guttenplan (ed.), _A Companion to the Philosophy of Mind_, Oxford: Blackwell, pp. 153–167.
+* –––, 1995, ‘Language and Nature’, _Mind_, 104(413): 1–61.
+* –––, 2000, _New Horizons in the Study of Language and Mind_, Cambridge: Cambridge University Press.
+* Correia, F and Schneider, B (eds.), 2012, _Metaphysical Grounding: Understanding the Structure of Reality_, Cambridge: Cambridge University Press.
+* Crane, T. and Mellor, D.H., 1990, ‘There is no Question of Physicalism’, _Mind_, 99: 185–206.
+* Daly, C. 1997, ‘What are Physical Properties?’, _Pacific Philosophical Quarterly_, 79(3): 196–217.
+* Dasgupta, S. 2015, ‘The Possibility of Physicalism’, _Journal of Philosophy_, 111: 557–592.
+* Davidson, D. 1970 . ‘Mental Events’, in D. Davidson, _Essays on Actions and Events_, Oxford: Oxford University Press, pp. 207–223.
+* Descartes, R., 1641, _Meditations on First Philosophy_, in Cottingham _et al_. (eds.), _The Philosophical Writings of Rene Descartes_, Cambridge: Cambridge University Press, 1985.
+* Dijksterhuis, E.J., 1961, _The Mechanization of the World-Picture_, Oxford: Clarendon.
+* Dowell, J.L., 2006a, ‘Formulating the Thesis of Physicalism’, _Philosophical Studies_, 131(1): 1–23.
+* –––, 2006b, ‘Physical: Empirical not Metaphysical’, _Philosophical Studies_, 131(1): 25–60.
+* Elpidorou, A., 2018a, ‘Introduction: The Character of Physicalism’, _Topoi: An International Review of Philosophy_, 37(3): 435–455.
+* ––– (ed.), 2018b, ‘Special Issue: The Character of Physicalism’, _Topoi: An International Review of Philosophy_, 37(3).
 * Feigl, H., 1967, ‘The “Mental” and the “Physical”’, Minneapolis: University of Minnesota Press, 370–497.
-* Feinberg, G., 1966, ‘Physics and the Thales Problem’, *Journal of Philosophy*, 63: 5–16.
-* Field, H., 1972, ‘Tarski’s Theory of Truth’, *Journal of Philosophy*, 69: 347–75.
-* –––, 1992, ‘Physicalism’, in J. Earman (ed.), *Inference, Explanation and Other Frustrations*, Berkeley: University of California Press, pp. 271–292.
-* Fine, K., 1994, ‘Essence and Modality’, in James Tomberlin (ed.) *Philosophical Perspectives 8: Logic and Language*, 1: 1–16.
-* –––, 2001, ‘The Question of Realism’, *Philosophers’ Imprint*, 1: 1–30.
-* Fiorese, R., 2016, ‘Stoljar’s Dilemma and Three Conceptions of the Physical: A Defence of the Via Negativa’, *Erkenntnis*, 81: 201–229.
-* Fodor, J.A., 1974, ‘Special Sciences: Or, The Disunity of Science as a Working Hypothesis’, reprinted in J. Fodor, *Representations*, Cambridge, MA: MIT Press, 1981.
-* –––, 1992, *A Theory of Content and Other Essays*, Cambridge, MA: MIT Press
-* Foster, J., 1982, *The Case for Idealism*, London: Routledge
-* –––, 1991, *The Immaterial Self: A Defence of the Cartesian Dualist Conception of Mind*, London: Routledge.
-* Gendler, T. and Hawthorne, J., 2004, *Conceivability and Possibility*, Oxford: Oxford University Press
-* Gillet, C. and Loewer, B., 2001, *Physicalism and Its Discontents*, Cambridge: Cambridge University Press.
-* Goff, P., 2017, *Consciousness and Fundamental Reality*, New York: Oxford University Press
-* Haugeland, J., 1983, ‘Weak Supervenience’, *American Philosophical Quarterly*, 19: 93–103.
-* Hawthorne, J., 2002, ‘Blocking Definitions of Materialism’, *Philosophical Studies*, 110(2): 103–113
-* Hellman, C., 1985, ‘Determination and Logical Truth’, *The Journal of Philosophy*, 82(11): 607–616.
-* Hempel, C. 1949, ‘The Logical Analysis of Psychology’, in H. Feigl and W. Sellars (eds.), *Readings in Philosophical Analysis*, New York: Appleton-Century-Crofts, 1949, pp. 373–384; reprinted in N. Block (ed.), *Readings in the Philosophy of Psychology*, Volume 1, Cambridge: Harvard University Press, 1980, pp. 14–23.
-* –––, 1969, ‘Reduction: Ontological and Linguistic Facets’, in S. Morgenbesser, *et al*. (eds.), *Essays in Honor of Ernest Nagel*, New York: St Martin’s Press, pp. 179–199.
-* –––, 1980, ‘Comments on Goodman’s *Ways of Worldmaking*’, *Synthese*, 45: 139–199.
-* Hohwy, J., 1998, *Meaning as Use*, Ph.D Dissertation, Australian National University.
-* Horgan, T., 1983, ‘Supervenience and Microphysics’, *Pacific Philosophical Quarterly*, 63: 29–43.
-* –––, 1993, ‘From Supervenience to Superdupervenience: Meeting the Demands of a Material World’, *Mind*, 102(408): 555–586.
-* Horwich, P., 2000, *Meaning*, Oxford: Oxford University Press.
-* Hyslop, A., 1999, ‘Methodological Epiphenomenalism’, *Australasian Journal of Philosophy*, 78(1): 61–70.
-* Jackson, F., 1982, ‘Epiphenomenal Qualia’, *Philosophical Quarterly*, 32: 127–36.
-* –––, 1986, ‘What Mary Didn’t Know’, *Journal of Philosophy*, 83: 291–5.
-* –––, 1998, *From Metaphysics to Ethics: A Defense of Conceptual Analysis*, Oxford: Clarendon.
-* –––, 1993, ‘Armchair Metaphysics’, in J. Hawthorne and M. Michael (eds.), *Philosophy in Mind*, Amsterdam: Kluwer, pp. 23–42.
-* Jackson, F., and Pettit, P., 1992, ‘In Defense of Explanatory Ecumenism’, *Economics and Philosophy*, 8: 1–21.
-* Kim, J., 1993, *Mind and Supervenience*, Cambridge: Cambridge University Press.
-* –––, 1998, *Mind in a Physical World*, Cambridge: Cambridge University Press.
-* –––, 2005, *Physicalism, Or Something Near Enough*, Princeton: Princeton University Press.
-* Kripke, S., 1980, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
-* –––, 1982, *Wittgenstein on Rules and Private Language: An Elementary Exposition*, Oxford: Basil Blackwell.
-* Lange, F., 1865, *A History of Materialism*, London: Routledge, 1925.
-* Latham, N., 2001,‘Substance Physicalism’, in C. Gillett and B. Loewer (eds.), *Physicalism and Its Discontents*, Cambridge: Cambridge University Press, pp. 152–171.
-* Leuenberger, S., 2008, ‘Ceteris Absentibus Physicalism’, in D. Zimmerman (ed.), *Oxford Studies in Metaphysics*, Oxford: Oxford University Press, pp. 145–170.
-* Lewis, D., 1970, ‘How to Define Theoretical Terms’, *Journal of Philosophy*, 67: 427–46.
-* –––, 1983, ‘New Work for a Theory of Universals’, *Australasian Journal of Philosophy*, 61(4): 343–377.
-* –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
-* –––, 1994, ‘Reduction of Mind’, in S. Guttenplan (ed), *A Companion to the Philosophy of Mind*, Oxford: Blackwell, pp. 412–431.
-* –––, 1997, ‘Naming the Colours’, *Australasian Journal of Philosophy*, 75: 325–342.
-* Loar, B., 1997, ‘Phenomenal States’, in N. Block, *et al*. (eds.), *The Nature of Consciousness: Philosophical Debates*, Cambridge, MA: MIT Press.
-* Lockwood, M., 1989, *Mind, Brain and Quantum*, Oxford: Basil Blackwell.
-* Ludlow, P., Nagasawa, Y. and Stoljar, D., 2004, *There’s something about Mary: Essays on Phenomenal Consciousness and Frank Jackson’s Knowledge Argument*, Cambridge, MA: MIT Press.
-* Lycan, W., 1996, *Consciousness and Experience*, Cambridge, MA: MIT Press.
-* McLaughlin, B., 1992, ‘The Rise and Fall of British Emergentism’, in A. Beckermann *et al*. (eds.), *Emergence or Reduction?*, Berlin: De Gruyter, pp. 49–93.
-* Maudlin, T., 1996, ‘On the unification of physics’, *Journal of Philosophy*, 93: 129–144.
-* Meehl, P.E. and Sellars, W.S., 1956, ‘The Concept of Emergence’, in H. Feigl and M. Scriven (eds.), *The Foundations of Science and the Concepts of Psychology and Psychoanalysis* (Minnesota Studies in the Philosophy of Science: Volume 1), Minneapolis: University of Minnesota Press, pp. 239–252.
-* Melnyk A., 1997, “How To Keep The ‘Physical’ in Physicalism”, *Journal of Philosophy*, 94: 622–637.
-* –––, 2003, *A Physicalist Manifesto: Thoroughly Modern Materialism*, Cambridge: Cambridge University Press
-* Montero, B., 1999, “The Body Problem”, *Noûs*, 33(2): 183–200.
-* –––, 2010, “A Russellian Response the Structuralist Argument Against Physicalism”, *Journal of Consciousness Studies*, 17(3–4): 70–83.
-* –––, 2013, “Must Physicalism imply the supervenience of the mental on the physical?”, *Journal of Philosophy*, 110(2): 93–110.
-* –––, 2015, “Russellian Physicalism”, in T. Alter and Y. Nagasawa (eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism* New York: Oxford University Press, pp. 209–223.
-* –––, 2017, “Should Physicalists Fear Abstracta?”, *Journal of Consciousness Studies*, 24(9–10): 40–49.
-* Montero, B. and Papineau, D., 2005, “A defense of the Via Negativa Argument for Physicalism”, *Analysis*, 65(3): 233–237.
-* Nagel, E., 1961, *The Structure of Science*, New York: Harcourt, Brace and World.
-* Nagel, T., 1974, ‘What is it like to be a bat’, *Philosophical Review*, 4: 435–50.
-* –––, 1983, *The View from Nowhere*, New York: Oxford.
-* Nemirow, L., 1988, ‘Physicalism and the Cognitive Role of Acquaintance’, in W. Lycan (ed.), *Mind and Cognition*, Oxford: Blackwell, pp. 490–499.
-* Neurath, O, 1931, ‘Physicalism: The Philosophy of the Vienna Circle’, in R.S. Cohen, and M. Neurath (eds.), *Philosophical Papers 1913–1946*, Dordrecht: D. Reidel Publishing Company, 1983, pp. 48–51.
-* Ney, A., 2008, ‘Physicalism as an Attitude’, *Philosophical Studies*, 138: 1–15.
-* Papineau, D., 1996, *Philosophical Naturalism*, Oxford: Blackwell.
-* Paull, R. C., and Sider, T., 1992, ‘In Defense of Global Supervenience’, *Philosophical and Phenomenological Research*, 52: 833–854.
-* Poland, J., 1994, *Physicalism: The Philosophical Foundations*, Oxford: Clarendon.
-* Putnam, H., 1975, ‘Philosophy and our mental life’, in H. Putnam, *Mind, Language and Reality: Philosophical Papers*, Volume 2, Cambridge: Cambridge University Press, pp. 291–303.
-* Rabin, G., 2020, ‘Fundamentality Physicalism’, *Inquiry*, first online 02 Jan 2020. doi:10.1080/0020174X.2019.1688177
-* Rosen, G., 2010, ‘Metaphysical Dependence: Grounding and Reduction’, in B. Hale and A. Hoffman (eds.), *Modality: Metaphysics, Logic and Epistemology*, Oxford: Oxford University Press, pp. 109–36
-* Russell, B., 1917, ‘On the Notion of Cause’, in B. Russell, *Mysticism and Logic*, London: Penguin, 1963, pp. 180–208.
-* –––, 1927, *The Analysis of Matter*, London: Kegan Paul.
-* Ryle, G., 1949, *The Concept of Mind*, London: Routledge.
-* Schaffer, J., 2003, ‘Is There a Fundamental Level’, *Noûs*, 37(3): 298–517
-* –––, 2009, ‘On What Grounds What’, in D. Chalmers, D. Manley, R. Wasserman (eds.), *Metametaphysics*, New York: Oxford University Press, pp. 247–383
-* –––, 2016, ‘Ground Rules: Lessons from Wilson’, in K. Aizawa and C. Gillett (eds.), *Scientific Composition and Metaphysical Ground*, London: Palgrave, pp. 143–70.
-* Schiffer, S., 1987, *Remnants of Meaning*, Cambridge, MA: MIT Press.
-* Schneider, S., 2017, “Does the Mathematical Nature of Physics Undermine Physicalism?”, *Journal of Consciousness Studies*, 24(9–10): 7–39.
-* Searle, J., 1992, *The Rediscovery of the Mind*, Cambridge, MA: MIT Press.
-* –––, 1998, *Mind, Language and Society: Philosophy in the Real World*, New York: Basic Books.
-* Shoemaker, S., 1994, ‘Phenomenal Character’, *Noûs*, 28: 21–38.
-* –––, 2007, *Physical Realization*, Oxford: Oxford University Press.
-* Smart, J.J.C., 1959, ‘Sensations and Brain Processes’, reprinted in D. Rosenthal (ed.), *Materialism and the Mind-Body Problem*, Indianapolis: Hackett, 1987.
-* –––, 1978, ‘The Content of Physicalism’, *Philosophical Quarterly*, 28: 239–41.
-* Smith, M., and Stoljar, D., 1998, ‘Global Response-Dependence and Noumenal Realism’, *The Monist*, 81(1): 85–111.
-* Stanley, J., and Williamson, T., 2001, ‘Knowing How’. *Journal of Philosophy*, 98: 411–444
-* Stalnaker, R., 1996, ‘Varieties of Supervenience’, *Philosophical Perspectives*, 10: 221–241.
-* Steward, H., 1996, *The Ontology of Mind*, Oxford: Clarendon.
-* Stoljar, D., 1996, ‘Nominalism and Intentionality’, *Noûs*, 30(2): 261–281.
-* –––, 2000, ‘Physicalism and the Necessary *A Posteriori*’, *Journal of Philosophy*, 97(1): 33–54.
-* –––, 2001, ‘Two Conceptions of the Physical’, *Philosophy and Phenomenological Research*, 62: 253–281.
-* –––, 2001a, ‘The Conceivability Argument and Two Conceptions of the Physical’, *Philosophical Perspectives*, 15: 393–413.
-* –––, 2010, *Physicalism*, New York: Routledge.
-* –––, 2015,‘Lewis on Experience and Materialism’, in B. Loewer and J. Schaffer (eds.), *A Companion to David Lewis*, Oxford: Wiley-Blackwell, pp. 519–532.
-* –––, 2020, ‘Chalmers v Chalmers’, *Noûs*, first online 29 April 2020. doi:10.1111/nous.12334
-* Stroud, B., 1986, ‘The Physical World’, *Proceedings of the Aristotelian Society*, 87: 263–277.
-* Tiehen, J., 2018, ‘Physicalism’, *Analysis*, 78: 537–551.
-* Van Cleve, J., 1990, ‘Supervenience and Closure’, *Philosophical Studies*, 58: 225–283.
-* Van Fraassen, B., 2002, *The Empirical Stance*, New Haven: Yale University Press.
-* Weisberg, M., 2013, *Simulation and Similarity: Using Models to Understand the World*, Oxford: Oxford University Press.
-* Williams, B., 1985, *Ethics and the Limits of Philosophy*, London: Fontana.
-* Wilson, J., 1999, ‘How Superduper does a Physicalist Supervenience need to be?’, *Philosophical Quarterly*, 49: 33–52.
-* –––, 2005, ‘Supervenience-based formulations of Physicalism’, *Noûs*, 39(3): 426–459.
-* –––, 2006, ‘On Characterizing the Physical’, *Philosophical Studies*, 131: 61–99.
-* –––, 2010, ‘What is Hume’s Dictum and Why Believe it’, *Philosophy and Phenomenological Research*, 80: 595–637.
-* –––, 2011, ‘Non-reductive Realization and the Powers-based sub-set strategy’, *The Monist*, 94: 121–154.
-* –––, 2014, ‘No work for a Theory of Grounding’, *Inquiry*, 57: 1–45.
-* Witmer, D.G., 2017, ‘Platonistic Physicalism without Tears’, *Journal of Consciousness Studies*, 24(9–10): 72–90.
-* –––, 2018, ‘Physicality for Physicalists’, *Topoi*, 37(3): 457–472.
-* Yablo, S., 1992, ‘Mental Causation’, *The Philosophical Review*, 101: 245–280.
-* –––, 1999, ‘Concepts and consciousness’, *Philosophy and Phenomenological Research*, 59: 455–464.
-* Yolton, R., 1983, *Thinking Matter*, Minneapolis: University of Minnesota Press.
+* Feinberg, G., 1966, ‘Physics and the Thales Problem’, _Journal of Philosophy_, 63: 5–16.
+* Field, H., 1972, ‘Tarski’s Theory of Truth’, _Journal of Philosophy_, 69: 347–75.
+* –––, 1992, ‘Physicalism’, in J. Earman (ed.), _Inference, Explanation and Other Frustrations_, Berkeley: University of California Press, pp. 271–292.
+* Fine, K., 1994, ‘Essence and Modality’, in James Tomberlin (ed.) _Philosophical Perspectives 8: Logic and Language_, 1: 1–16.
+* –––, 2001, ‘The Question of Realism’, _Philosophers’ Imprint_, 1: 1–30.
+* Fiorese, R., 2016, ‘Stoljar’s Dilemma and Three Conceptions of the Physical: A Defence of the Via Negativa’, _Erkenntnis_, 81: 201–229.
+* Fodor, J.A., 1974, ‘Special Sciences: Or, The Disunity of Science as a Working Hypothesis’, reprinted in J. Fodor, _Representations_, Cambridge, MA: MIT Press, 1981.
+* –––, 1992, _A Theory of Content and Other Essays_, Cambridge, MA: MIT Press
+* Foster, J., 1982, _The Case for Idealism_, London: Routledge
+* –––, 1991, _The Immaterial Self: A Defence of the Cartesian Dualist Conception of Mind_, London: Routledge.
+* Gendler, T. and Hawthorne, J., 2004, _Conceivability and Possibility_, Oxford: Oxford University Press
+* Gillet, C. and Loewer, B., 2001, _Physicalism and Its Discontents_, Cambridge: Cambridge University Press.
+* Goff, P., 2017, _Consciousness and Fundamental Reality_, New York: Oxford University Press
+* Haugeland, J., 1983, ‘Weak Supervenience’, _American Philosophical Quarterly_, 19: 93–103.
+* Hawthorne, J., 2002, ‘Blocking Definitions of Materialism’, _Philosophical Studies_, 110(2): 103–113
+* Hellman, C., 1985, ‘Determination and Logical Truth’, _The Journal of Philosophy_, 82(11): 607–616.
+* Hempel, C. 1949, ‘The Logical Analysis of Psychology’, in H. Feigl and W. Sellars (eds.), _Readings in Philosophical Analysis_, New York: Appleton-Century-Crofts, 1949, pp. 373–384; reprinted in N. Block (ed.), _Readings in the Philosophy of Psychology_, Volume 1, Cambridge: Harvard University Press, 1980, pp. 14–23.
+* –––, 1969, ‘Reduction: Ontological and Linguistic Facets’, in S. Morgenbesser, _et al_. (eds.), _Essays in Honor of Ernest Nagel_, New York: St Martin’s Press, pp. 179–199.
+* –––, 1980, ‘Comments on Goodman’s _Ways of Worldmaking_’, _Synthese_, 45: 139–199.
+* Hohwy, J., 1998, _Meaning as Use_, Ph.D Dissertation, Australian National University.
+* Horgan, T., 1983, ‘Supervenience and Microphysics’, _Pacific Philosophical Quarterly_, 63: 29–43.
+* –––, 1993, ‘From Supervenience to Superdupervenience: Meeting the Demands of a Material World’, _Mind_, 102(408): 555–586.
+* Horwich, P., 2000, _Meaning_, Oxford: Oxford University Press.
+* Hyslop, A., 1999, ‘Methodological Epiphenomenalism’, _Australasian Journal of Philosophy_, 78(1): 61–70.
+* Jackson, F., 1982, ‘Epiphenomenal Qualia’, _Philosophical Quarterly_, 32: 127–36.
+* –––, 1986, ‘What Mary Didn’t Know’, _Journal of Philosophy_, 83: 291–5.
+* –––, 1998, _From Metaphysics to Ethics: A Defense of Conceptual Analysis_, Oxford: Clarendon.
+* –––, 1993, ‘Armchair Metaphysics’, in J. Hawthorne and M. Michael (eds.), _Philosophy in Mind_, Amsterdam: Kluwer, pp. 23–42.
+* Jackson, F., and Pettit, P., 1992, ‘In Defense of Explanatory Ecumenism’, _Economics and Philosophy_, 8: 1–21.
+* Kim, J., 1993, _Mind and Supervenience_, Cambridge: Cambridge University Press.
+* –––, 1998, _Mind in a Physical World_, Cambridge: Cambridge University Press.
+* –––, 2005, _Physicalism, Or Something Near Enough_, Princeton: Princeton University Press.
+* Kripke, S., 1980, _Naming and Necessity_, Cambridge, MA: Harvard University Press.
+* –––, 1982, _Wittgenstein on Rules and Private Language: An Elementary Exposition_, Oxford: Basil Blackwell.
+* Lange, F., 1865, _A History of Materialism_, London: Routledge, 1925.
+* Latham, N., 2001,‘Substance Physicalism’, in C. Gillett and B. Loewer (eds.), _Physicalism and Its Discontents_, Cambridge: Cambridge University Press, pp. 152–171.
+* Leuenberger, S., 2008, ‘Ceteris Absentibus Physicalism’, in D. Zimmerman (ed.), _Oxford Studies in Metaphysics_, Oxford: Oxford University Press, pp. 145–170.
+* Lewis, D., 1970, ‘How to Define Theoretical Terms’, _Journal of Philosophy_, 67: 427–46.
+* –––, 1983, ‘New Work for a Theory of Universals’, _Australasian Journal of Philosophy_, 61(4): 343–377.
+* –––, 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
+* –––, 1994, ‘Reduction of Mind’, in S. Guttenplan (ed), _A Companion to the Philosophy of Mind_, Oxford: Blackwell, pp. 412–431.
+* –––, 1997, ‘Naming the Colours’, _Australasian Journal of Philosophy_, 75: 325–342.
+* Loar, B., 1997, ‘Phenomenal States’, in N. Block, _et al_. (eds.), _The Nature of Consciousness: Philosophical Debates_, Cambridge, MA: MIT Press.
+* Lockwood, M., 1989, _Mind, Brain and Quantum_, Oxford: Basil Blackwell.
+* Ludlow, P., Nagasawa, Y. and Stoljar, D., 2004, _There’s something about Mary: Essays on Phenomenal Consciousness and Frank Jackson’s Knowledge Argument_, Cambridge, MA: MIT Press.
+* Lycan, W., 1996, _Consciousness and Experience_, Cambridge, MA: MIT Press.
+* McLaughlin, B., 1992, ‘The Rise and Fall of British Emergentism’, in A. Beckermann _et al_. (eds.), _Emergence or Reduction?_, Berlin: De Gruyter, pp. 49–93.
+* Maudlin, T., 1996, ‘On the unification of physics’, _Journal of Philosophy_, 93: 129–144.
+* Meehl, P.E. and Sellars, W.S., 1956, ‘The Concept of Emergence’, in H. Feigl and M. Scriven (eds.), _The Foundations of Science and the Concepts of Psychology and Psychoanalysis_ (Minnesota Studies in the Philosophy of Science: Volume 1), Minneapolis: University of Minnesota Press, pp. 239–252.
+* Melnyk A., 1997, “How To Keep The ‘Physical’ in Physicalism”, _Journal of Philosophy_, 94: 622–637.
+* –––, 2003, _A Physicalist Manifesto: Thoroughly Modern Materialism_, Cambridge: Cambridge University Press
+* Montero, B., 1999, “The Body Problem”, _Noûs_, 33(2): 183–200.
+* –––, 2010, “A Russellian Response the Structuralist Argument Against Physicalism”, _Journal of Consciousness Studies_, 17(3–4): 70–83.
+* –––, 2013, “Must Physicalism imply the supervenience of the mental on the physical?”, _Journal of Philosophy_, 110(2): 93–110.
+* –––, 2015, “Russellian Physicalism”, in T. Alter and Y. Nagasawa (eds.), _Consciousness in the Physical World: Perspectives on Russellian Monism_ New York: Oxford University Press, pp. 209–223.
+* –––, 2017, “Should Physicalists Fear Abstracta?”, _Journal of Consciousness Studies_, 24(9–10): 40–49.
+* Montero, B. and Papineau, D., 2005, “A defense of the Via Negativa Argument for Physicalism”, _Analysis_, 65(3): 233–237.
+* Nagel, E., 1961, _The Structure of Science_, New York: Harcourt, Brace and World.
+* Nagel, T., 1974, ‘What is it like to be a bat’, _Philosophical Review_, 4: 435–50.
+* –––, 1983, _The View from Nowhere_, New York: Oxford.
+* Nemirow, L., 1988, ‘Physicalism and the Cognitive Role of Acquaintance’, in W. Lycan (ed.), _Mind and Cognition_, Oxford: Blackwell, pp. 490–499.
+* Neurath, O, 1931, ‘Physicalism: The Philosophy of the Vienna Circle’, in R.S. Cohen, and M. Neurath (eds.), _Philosophical Papers 1913–1946_, Dordrecht: D. Reidel Publishing Company, 1983, pp. 48–51.
+* Ney, A., 2008, ‘Physicalism as an Attitude’, _Philosophical Studies_, 138: 1–15.
+* Papineau, D., 1996, _Philosophical Naturalism_, Oxford: Blackwell.
+* Paull, R. C., and Sider, T., 1992, ‘In Defense of Global Supervenience’, _Philosophical and Phenomenological Research_, 52: 833–854.
+* Poland, J., 1994, _Physicalism: The Philosophical Foundations_, Oxford: Clarendon.
+* Putnam, H., 1975, ‘Philosophy and our mental life’, in H. Putnam, _Mind, Language and Reality: Philosophical Papers_, Volume 2, Cambridge: Cambridge University Press, pp. 291–303.
+* Rabin, G., 2020, ‘Fundamentality Physicalism’, _Inquiry_, first online 02 Jan 2020. doi:10.1080/0020174X.2019.1688177
+* Rosen, G., 2010, ‘Metaphysical Dependence: Grounding and Reduction’, in B. Hale and A. Hoffman (eds.), _Modality: Metaphysics, Logic and Epistemology_, Oxford: Oxford University Press, pp. 109–36
+* Russell, B., 1917, ‘On the Notion of Cause’, in B. Russell, _Mysticism and Logic_, London: Penguin, 1963, pp. 180–208.
+* –––, 1927, _The Analysis of Matter_, London: Kegan Paul.
+* Ryle, G., 1949, _The Concept of Mind_, London: Routledge.
+* Schaffer, J., 2003, ‘Is There a Fundamental Level’, _Noûs_, 37(3): 298–517
+* –––, 2009, ‘On What Grounds What’, in D. Chalmers, D. Manley, R. Wasserman (eds.), _Metametaphysics_, New York: Oxford University Press, pp. 247–383
+* –––, 2016, ‘Ground Rules: Lessons from Wilson’, in K. Aizawa and C. Gillett (eds.), _Scientific Composition and Metaphysical Ground_, London: Palgrave, pp. 143–70.
+* Schiffer, S., 1987, _Remnants of Meaning_, Cambridge, MA: MIT Press.
+* Schneider, S., 2017, “Does the Mathematical Nature of Physics Undermine Physicalism?”, _Journal of Consciousness Studies_, 24(9–10): 7–39.
+* Searle, J., 1992, _The Rediscovery of the Mind_, Cambridge, MA: MIT Press.
+* –––, 1998, _Mind, Language and Society: Philosophy in the Real World_, New York: Basic Books.
+* Shoemaker, S., 1994, ‘Phenomenal Character’, _Noûs_, 28: 21–38.
+* –––, 2007, _Physical Realization_, Oxford: Oxford University Press.
+* Smart, J.J.C., 1959, ‘Sensations and Brain Processes’, reprinted in D. Rosenthal (ed.), _Materialism and the Mind-Body Problem_, Indianapolis: Hackett, 1987.
+* –––, 1978, ‘The Content of Physicalism’, _Philosophical Quarterly_, 28: 239–41.
+* Smith, M., and Stoljar, D., 1998, ‘Global Response-Dependence and Noumenal Realism’, _The Monist_, 81(1): 85–111.
+* Stanley, J., and Williamson, T., 2001, ‘Knowing How’. _Journal of Philosophy_, 98: 411–444
+* Stalnaker, R., 1996, ‘Varieties of Supervenience’, _Philosophical Perspectives_, 10: 221–241.
+* Steward, H., 1996, _The Ontology of Mind_, Oxford: Clarendon.
+* Stoljar, D., 1996, ‘Nominalism and Intentionality’, _Noûs_, 30(2): 261–281.
+* –––, 2000, ‘Physicalism and the Necessary _A Posteriori_’, _Journal of Philosophy_, 97(1): 33–54.
+* –––, 2001, ‘Two Conceptions of the Physical’, _Philosophy and Phenomenological Research_, 62: 253–281.
+* –––, 2001a, ‘The Conceivability Argument and Two Conceptions of the Physical’, _Philosophical Perspectives_, 15: 393–413.
+* –––, 2010, _Physicalism_, New York: Routledge.
+* –––, 2015,‘Lewis on Experience and Materialism’, in B. Loewer and J. Schaffer (eds.), _A Companion to David Lewis_, Oxford: Wiley-Blackwell, pp. 519–532.
+* –––, 2020, ‘Chalmers v Chalmers’, _Noûs_, first online 29 April 2020. doi:10.1111/nous.12334
+* Stroud, B., 1986, ‘The Physical World’, _Proceedings of the Aristotelian Society_, 87: 263–277.
+* Tiehen, J., 2018, ‘Physicalism’, _Analysis_, 78: 537–551.
+* Van Cleve, J., 1990, ‘Supervenience and Closure’, _Philosophical Studies_, 58: 225–283.
+* Van Fraassen, B., 2002, _The Empirical Stance_, New Haven: Yale University Press.
+* Weisberg, M., 2013, _Simulation and Similarity: Using Models to Understand the World_, Oxford: Oxford University Press.
+* Williams, B., 1985, _Ethics and the Limits of Philosophy_, London: Fontana.
+* Wilson, J., 1999, ‘How Superduper does a Physicalist Supervenience need to be?’, _Philosophical Quarterly_, 49: 33–52.
+* –––, 2005, ‘Supervenience-based formulations of Physicalism’, _Noûs_, 39(3): 426–459.
+* –––, 2006, ‘On Characterizing the Physical’, _Philosophical Studies_, 131: 61–99.
+* –––, 2010, ‘What is Hume’s Dictum and Why Believe it’, _Philosophy and Phenomenological Research_, 80: 595–637.
+* –––, 2011, ‘Non-reductive Realization and the Powers-based sub-set strategy’, _The Monist_, 94: 121–154.
+* –––, 2014, ‘No work for a Theory of Grounding’, _Inquiry_, 57: 1–45.
+* Witmer, D.G., 2017, ‘Platonistic Physicalism without Tears’, _Journal of Consciousness Studies_, 24(9–10): 72–90.
+* –––, 2018, ‘Physicality for Physicalists’, _Topoi_, 37(3): 457–472.
+* Yablo, S., 1992, ‘Mental Causation’, _The Philosophical Review_, 101: 245–280.
+* –––, 1999, ‘Concepts and consciousness’, _Philosophy and Phenomenological Research_, 59: 455–464.
+* Yolton, R., 1983, _Thinking Matter_, Minneapolis: University of Minnesota Press.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=physicalism). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/physicalism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=physicalism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/physicalism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=physicalism).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/physicalism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=physicalism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/physicalism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
@@ -662,11 +651,11 @@ Kripke的论证旨在破坏这个承诺。（事实上，Kripke的论证旨在�
 
 ## Related Entries
 
-[behaviorism](https://plato.stanford.edu/entries/behaviorism/) | [color](https://plato.stanford.edu/entries/color/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [epiphenomenalism](https://plato.stanford.edu/entries/epiphenomenalism/) | [mental causation](https://plato.stanford.edu/entries/mental-causation/) | [monism: Russellian](https://plato.stanford.edu/entries/russellian-monism/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [naturalism](https://plato.stanford.edu/entries/naturalism/) | [panpsychism](https://plato.stanford.edu/entries/panpsychism/) | [qualia](https://plato.stanford.edu/entries/qualia/) | [supervenience](https://plato.stanford.edu/entries/supervenience/)
+[behaviorism](https://plato.stanford.edu/entries/behaviorism/) | [color](https://plato.stanford.edu/entries/color/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [epiphenomenalism](https://plato.stanford.edu/entries/epiphenomenalism/) | [mental causation](https://plato.stanford.edu/entries/mental-causation/) | [monism: Russellian](https://plato.stanford.edu/entries/russellian-monism/) | [multiple realizability](https://plato.stanford.edu/entries/multiple-realizability/) | [naturalism](https://plato.stanford.edu/entries/naturalism/) | [panpsychism](https://plato.stanford.edu/entries/panpsychism/) | [qualia](https://plato.stanford.edu/entries/qualia/) | [supervenience](https://plato.stanford.edu/entries/supervenience/)
 
 ### Acknowledgments
 
 The author would like to thank Hossein Ameri, Tim Bayne, Rich Cameron, Brian Garrett, Robert Pasnau, Stewart Saunders, Jessica Wilson, and particularly David Chalmers for their help in constructing this entry. In addition, the author and editors would like to thank two readers, Joshua R. Stern and Greg Stokley, for discovering numerous typographical errors on an earlier version. Their volunteer efforts were entirely unsolicited and very much appreciated.
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Daniel Stoljar](http://philosophy.cass.anu.edu.au/people/daniel-stoljar) <[*daniel.stoljar@anu.edu.au*](mailto:daniel%2estoljar%40anu%2eedu%2eau)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Daniel Stoljar](http://philosophy.cass.anu.edu.au/people/daniel-stoljar) <[_daniel.stoljar@anu.edu.au_](mailto:daniel%2estoljar%40anu%2eedu%2eau)>
