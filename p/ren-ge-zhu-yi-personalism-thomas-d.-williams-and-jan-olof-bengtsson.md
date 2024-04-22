@@ -1,2 +1,326 @@
 # 人格主义 personalism (Thomas D. Williams and Jan Olof Bengtsson)
 
+
+*首次发表于2009年11月12日；实质修订于2022年4月27日。*
+
+虽然直到 20 世纪上半叶，“人格主义”这个术语才被称为哲学学派和体系的代名词，但作为对启蒙理性主义、泛神论、黑格尔绝对理念主义、个人主义以及政治上的集体主义和唯物主义、心理学和进化决定论中被认为是非人格化因素的反应，人格主义思想在 19 世纪就已经发展起来。在其各种流派中，人格主义始终强调人作为哲学、神学和人文研究的主要研究对象的重要性。它是一种将人视为解释、认识论、本体论和价值论的最终原则的思维方法或体系，尽管并非所有人格主义者都同等强调这些思维领域，并且在理想主义、现象学、存在主义和托马斯主义版本的人格主义之间存在紧张关系。
+
+* [1. 什么是人格主义？](https://plato.stanford.edu/entries/personalism/#WhaPer)
+* [2. 人格主义的历史先驱](https://plato.stanford.edu/entries/personalism/#PerHisAnt)
+* [ 3. 人格主义欧洲](https://plato.stanford.edu/entries/personalism/#EurPer)
+* [ 4. 人格主义美国](https://plato.stanford.edu/entries/personalism/#AmePer)
+* [ 5. 人格主义东方](https://plato.stanford.edu/entries/personalism/#EasPer)
+* [6. 人格主义思想的特点](https://plato.stanford.edu/entries/personalism/#ChaPerTho)
+
+  * [6.1 人类、动物和自然](https://plato.stanford.edu/entries/personalism/#HumBeiAniNat)
+  * [6.2 人的尊严](https://plato.stanford.edu/entries/personalism/#DigPer)
+  * [6.3 内在性和主体性](https://plato.stanford.edu/entries/personalism/#IntSub)
+  * [ 6.4 自决](https://plato.stanford.edu/entries/personalism/#SelDet)
+  * [6.5 关系性和共融](https://plato.stanford.edu/entries/personalism/#RelCom)
+* [ 参考文献](https://plato.stanford.edu/entries/personalism/#Bib)
+
+  * [ 主要文献](https://plato.stanford.edu/entries/personalism/#PriLit)
+  * [ 次要文献](https://plato.stanford.edu/entries/personalism/#SecLit)
+* [ 学术工具](https://plato.stanford.edu/entries/personalism/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/personalism/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/personalism/#Rel)
+
+---
+
+## 1. 人格主义是什么？
+
+人格主义存在许多不同版本，这使得将其定义为哲学和神学运动有些困难。许多哲学学派都有一个特定的思想家或甚至一个中心作品，作为一个经典的标杆。人格主义是一个更为分散和折衷的运动，没有这样的共同参考点。事实上，更恰当的说法是许多人格主义而不是一个人格主义。1947 年，雅克·马里坦可以写道，至少有“十几种人格主义学说，有时除了‘人格’这个词没有更多共同之处。”此外，由于他们强调个人的主观性，一些重要的人格主义代表并没有对他们的理论进行系统的论述。
+
+或许更恰当地说，人格主义应被视为一种“潮流”或更广泛的“世界观”，因为它代表了不止一种学派或一种教义，同时最重要的人格主义形式确实展示了一些核心和基本的共同点。其中最重要的是对人格在哲学思想中的中心地位的普遍肯定。人格主义将终极的现实和价值置于人格之中 - 无论是人类的还是（至少对于大多数人格主义者来说）神圣的。它强调人格的重要性、独特性和不可侵犯性，以及人格本质上的关系或社会维度。因此，“人格主义”这个标题可以合理地应用于任何关注人格在一般存在中的中心地位和其独特地位的思想学派，并且人格主义者通常承认在哲学历史上自认不是人格主义者的广泛思想家的间接贡献。人格主义者认为人格应该是哲学反思的本体论和认识论起点。许多人关注研究人类作为人格的经验、地位和尊严，并将其视为所有后续哲学分析的起点。
+
+人格主义者将人格（或“个性”）视为基本概念，赋予现实以意义并构成其最高价值。人格具有不可侵犯的尊严，值得无条件的尊重。人格主义在很大程度上并非主要是关于人的理论哲学。尽管它确实捍卫了一种独特的理论对人的理解，但这种理解本身支持实践或道德哲学的优先，同时人的道德经验决定了理论的理解。对于人格主义者来说，人既具有主观性和客观性，又具有因果活动和接受性，独特性和关联性，同一性和创造性。强调人的道德本质，或将人视为自由活动的主体和客体，人格主义倾向于关注实践、道德行为和伦理问题。
+
+一些人格主义者是唯心主义者，认为现实及其意义是由意识构成的，而其他人则主张哲学实在论，并认为自然秩序独立于人类意识之外。为了分类方便，人格主义的许多流派可以分为两个基本类别：严格意义上的人格主义和广义上的人格主义。严格意义上的人格主义将人置于一个哲学体系的中心，该体系起源于人自身的“直觉”，然后继续分析这种直觉的对象，即个人现实和个人经验。这种严格人格主义的主要二十世纪欧洲版本的方法广泛借鉴现象学和存在主义，与传统形而上学分道扬镳，构成了一个独立的哲学体系。在唯心主义版本的人格主义中，更明显的是，严格人格主义的更深层次的源头通常可以在对德国唯心主义的早期批判接受和道德感哲学的某些方面找到。原始直觉实际上是自我意识的直觉，通过这种直觉，人们通过非中介的经验理解价值和基本意义。通过对这种经验进行反思产生的知识仅仅是对原始直觉的明确化，而这反过来又产生了对道德行动框架的意识。然而，将人作为价值和意义的中心的直觉在现象学或存在主义分析中并没有被耗尽。这些分析经常指向超越人自身的构成性超越，既不能归结为其具体表现，也不能归结为这些表现的总和。尽管存在差异，但包恩的美国学派及其最初的追随者和艾曼纽尔·穆尼尔的欧洲人格主义都代表了这种严格意义上的人格主义。
+
+人格主义在更广义上并不将人作为原始直觉的对象，也不将哲学研究视为从对即时个人经验及其背景的分析开始。相反，在一般形而上学的范围内，人展示了他的独特价值和基本作用。因此，人在哲学论述中占据了中心位置，但这种论述并不仅仅是对人的原始直觉的阐释或发展。人并不证明形而上学，而是形而上学证明了人及其各种运作。广义上的人格主义并不构成一个自主的形而上学，而是在现有形而上学中提供了一个人类学-本体论的视角转变，并推导出这种转变的伦理学后果。广义上最著名的人格主义流派可能是所谓的“多默主义人格主义”。由雅克·马里坦、伊夫·西蒙、埃蒂安·吉尔森、罗伯特·斯帕曼和卡罗尔·沃伊蒂瓦等人代表，多默主义人格主义借鉴了托马斯·阿奎那哲学和神学人类学的原则，将其视为对阿奎那思想中未成熟元素的一致发展。
+
+作为一个哲学学派，人格主义以人类的理性和经验为基础，尽管历史上人格主义几乎总是与圣经的神论相结合。冯·巴尔塔萨尔认为，“没有圣经背景，人格主义是不可想象的。”然而，尽管大多数人格主义者是有神论者，但对上帝的信仰并不是所有人格主义哲学的必要条件，有些人信奉无神论的人格主义。
+
+虽然一般被认为是一种哲学学派，但人格主义方法经常被应用于其他学科，产生了许多称号，如神学人格主义、经济人格主义、生态人格主义和心理人格主义（以及它们的倒置：“人格神学”、“人格经济学”、“人格心理学”）等等。
+
+## 2. 人格主义的历史先驱
+
+“人格主义”一词在德国首次亮相，F. D. E. Schleiermacher（1768-1834）在他 1799 年的著作《论宗教》中首次使用了“der Personalismus”。阿莫斯·布朗森·奥尔科特似乎是第一个美国人使用这个术语，在 1863 年的一篇论文中称其为“世界的最终现实是一个神圣的人，通过持续的创造意志来维持宇宙”。朗·惠特曼（1819-1892）在他的文章《人格主义》中创造了“美国人格主义”这个词，该文章于 1868 年 5 月在《银河》杂志上发表。1903 年，查尔斯·勒努维埃出版了《人格主义》，从而将这个词引入了法语。1915 年，拉尔夫·T·弗鲁威林在《哈斯廷斯宗教与伦理百科全书》第九卷中首次将“人格主义”作为百科全书条目出现。
+
+根据阿尔伯特·C·克努德森（Albert C. Knudson）的说法，人格主义是“两千多年的智力努力的成果，是一个金字塔的顶点，其基础由柏拉图和亚里士多德奠定。”天主教的人格主义者特别强调中世纪思想，尤其是学院哲学，对人格主义的发展起到了决定性的作用。例如，埃蒂安·吉尔森（Étienne Gilson）观察到，柏拉图将现实的中心定位于具体实例中的理念，而这些实例仅仅是偶然的；亚里士多德则强调的不是个别的个体，而是普遍的特定形式；而托马斯·阿奎那则认为个体人因为理性和自我掌控而在众生中独一无二。虽然没有人把阿奎那称为人格主义者，但有人认为他为人格主义理论的生根提供了必要的土壤。在这方面，卡罗尔·沃伊蒂瓦（Karol Wojtyła）写道，阿奎那“至少为人格主义提供了一个出发点。”
+
+人格一词源自拉丁语persona，其起源可追溯到希腊戏剧，其中πρόσωπον（面具）与演员在某一剧目中扮演的角色相对应。这种用法今天在“人格”一词中仍然存在，指的是虚构文学或戏剧中的角色，或者人们在特定社交环境中采用的第二身份。然而，它在主流知识界的引入是在神学讨论中，尤其是在教父时期，试图澄清或定义基督教信仰的核心真理。这些讨论主要集中在两个教义上：三位一体（一个神中的三个“人格”）和三位一体中第二位的化身（两个本质——神性和人性——在一个“人格”中的“本质性”结合）。由于哲学和神学术语的模糊性，这些讨论中存在混淆，例如，被归因于萨贝利乌斯的论点认为，在上帝中有一个ύπόστασις和三个πρόσωπα，其中ύπόστασις传达了“人格”的意义，而πρόσωπα则带有“存在的角色”或“方式”的意义。为了准确地呈现这些奥秘，人格的概念和人格与本质的关系需要澄清。这些辩论最终在尼西亚第一次大公会议（325年）和君士坦丁堡第一次大公会议（381年）中达到高潮，并在尼西亚-君士坦丁堡信经的起草和传播中得到体现。
+
+尽管人格的哲学概念最初是在神学背景下发展起来的，与三位一体的人格有关，但这些三位一体的起源中涉及的希腊哲学概念也促使其应用于人类。哲学人格主义可能会或可能不会适用于早期使用“人格”一词所负载的神学假设。经典、基本和纯粹的哲学定义仍然被人格主义者所接受，早期由博伊修斯（约480-524年）提出：“人格是有理性的个体实体。”这个定义由两部分组成。基本出发点是一个独立的个体：一个存在的实体或ύπόστασις。这里的形容词“个体”将存在的物质与普通或第二物质区分开来。定义的第二个要素 - naturae rationalis - 限定了个体实体的概念：人格是一个具有理性本质的个体。正是这种理性的精神本质引发了区分人格的不同品质，这些品质对于人格主义者来说具有决定性的重要性。
+
+人格的三位一体概念与人格主义中该术语所假设的现代意义相去甚远，而博伊修斯的定义也仅仅勾勒出人格主义所赋予其的深刻而全面的意义。正如人格主义所接受的那样，它是一个长期而复杂的累积发展的结果，形成了一个丰富而有些难以捉摸的概念，在某些方面完全颠覆了“面具”和“角色”早期含义中外在性的原始内涵：人格更多地指代独特个体内在最深层的精神和最真实的核心，同时保持对外部的彻底开放。在中世纪的过程中，已经提供了进一步的定义，不仅仅是由阿奎那提供的。尤其是奥古斯丁的经验内在性和反思性的例子，形式作为个体化原则的观念，以及晚期中世纪和弗朗西斯科会强调意志和独特性的思想，都融入了早期现代对人格的思考，并与文艺复兴人文主义所特有的更加关注人类个性的强调相结合。
+
+沿着这些线索，早期现代主体性和自我意识的概念为人格主义的核心概念的定义和理解增添了新的元素，甚至在很大程度上改变了它。康德的认识二元论强调了主体和客体在知识中的重要性，为理想主义形式的人格主义以及对于二十世纪人格主义至关重要的现象学和存在主义打开了大门。康德还对人格主义对人类尊严的理解做出了重要贡献。与霍布斯不同，霍布斯认为“一个人的价值”就是“他的价格”，尊严是“一个人的公共价值”，康德将尊严视为“内在价值”。他提出了价格和尊严之间的二分法，即“有价格的东西可以用等值的东西交换；而那些超越一切价格，因此没有等值的东西，具有尊严。”他著名的实践范畴命令——行动时要始终将人类，无论是你自己还是他人，视为目的而不仅仅是手段——几乎原封不动地被纳入卡罗尔·沃伊蒂瓦的“人格主义原则”中。
+
+人格主义在以人格概念的全部累积意义为焦点的独特哲学或世界观方面，仅在对所谓的各种非个人主义哲学的广泛批判反应的背景下出现，这些非个人主义哲学在启蒙运动和浪漫主义时期以理性主义和浪漫主义形式的泛神论和唯心主义形式的形式主义主义主导。这一反应中的关键人物是弗里德里希·海因里希·雅各比（1743-1819），他在1780年代发起了所谓的泛神论之争，以及F·W·J·谢林（1775-1854），他在后期的作品中摒弃了他早期唯心主义体系的非个人主义立场。但这些只是广泛运动中的最重要人物，该运动还包括许多其他哲学家，主要是所谓的推测性神论者，以及天主教和新教的神学家。这种反运动中发展起来的修正的唯心主义、有神论的个人主义，不仅通过其晚期德国代表鲁道夫·赫尔曼·洛策（1817-1881），对邦恩的美国唯心主义个人主义产生了决定性影响，而且对英国唯心主义个人主义也产生了影响，其主要代表是安德鲁·塞思·普林格-帕蒂森（1856-1931）。尽管20世纪的欧洲大陆个人主义者会拒绝黑格尔的唯心主义，而转而转向现象学、存在主义和托马斯主义，但这里提到的思想家们早在18世纪末就已经清晰而一致地发展出了对非个人思维方式的个人主义批评的轮廓。
+
+人格主义因为被视为使人丧失人性的非人格主义思维方式而产生。现代泛神论和唯一论的非人格动态在理性主义和浪漫主义形式中潜藏着许多人格主义所反对的现代哲学。G·W·F·黑格尔（1770-1831）的激进唯心主义认为，康德的物自体现实并不是一种无法知晓的表象基质，而是一个动态过程，在思想和现实中从论点到反论点，最终在综合中解决。这个过程是绝对精神、国家、宗教、哲学。黑格尔的唯心主义将历史视为绝对精神通过必然辩证过程的展开，这个框架几乎没有给个体人的自由或重要性留下空间。通过年轻黑格尔派，这种非人格主义形式的唯心主义很快转变为同样非人格主义的唯物主义形式，最终达到了马克思主义的顶峰，后者将人的本质视为他真正的集体性；非人格主义的决定论以共产主义的形式决定了二十世纪政治的极权主义。在其他思想家中，唯心主义倾向于与日益自然主义的民族主义和种族主义融合，从而催生了二十世纪的其他新政治运动，这些运动将替代集体置于个人之上，如民族社会主义。人格主义始终抵制将个体吸收到集体中，坚持主张个人的内在价值。个人永远不应成为一种纯粹的手段，屈从于他人的意愿和目的。国家存在是为了人，而不是人存在于国家之中。在这方面，人格主义成为只将人视为对社群有价值的极权主义的对立物，并坚持他们的内在尊严。因此，R.T. 弗鲁威林可以写道，“人是民主的至高本质，对各种形式的极权主义持敌对态度。” 人格主义坚持个人自由和责任、自决、创造力和主观性，所有这些都表明了对集体主义的根深蒂固的抵抗。
+
+与黑格尔主义的发展和转变并行的是，19 世纪的过程中发展了其他关于人性的理论，这些理论模糊或取消了人与自然其他部分之间的区别，并淡化或否认了人的独特个体价值、精神本质和自由意志。这些理论直接或间接地促成了 20 世纪的极权主义。奥古斯特·孔德（1798-1857）的哲学实证主义肯定了一个历史法则，即每一门科学（以及人类自身）都经历三个连续的阶段，即神学、形而上学和实证主义，每个阶段都比上一个阶段更高级。孔德非常强调社会的现实和主导地位，以至于对他来说，社会成为了真正的主体，而个体被视为抽象概念。特别是达尔文主义通过提供一种理论，即人类只是沿着一个不间断的连续体中最先进的生命形式，人与非理性动物之间的区别仅仅是程度上的差异，而不是本质上的差异，颠覆了人类作为基本上优越于其他创造物的经典理解。
+
+然而，新兴的人格主义哲学不仅拒绝了唯心主义或唯物主义决定论和集体主义的非人格主义形式，也拒绝了同样是现代理性主义和浪漫主义产物的激进个人主义形式，这种形式通过某些形式的自由主义和无政府主义在十九世纪同样具有特点。从一开始，人格主义以自己的方式宣称了团结和相互关系的共同价值观。在坚持不可侵犯的尊严方面，人格主义者抵制了一种将一个人仅仅视为另一个人的“有用工具”的功利主义。而个人主义倾向于将自我置于一切之上，并经常将他人视为实现自身利益的手段，人格主义则试图将自我变成对他人的一种奉献。埃马纽埃尔·穆尼埃后来写道：“因此，如果个人主义的第一个条件是将个体集中在自己身上，那么人格主义的第一个条件就是将个体分散开来，以便将其置于个人生活的开放视野中。”个人主义希望通过自利来实现个人的实现，而人格主义则主张与他人的关系开放，甚至作为实现自身的条件。
+
+卡罗尔·沃伊蒂瓦以以下方式描述了个人主义和集体主义的两个极端：“一方面，个人很容易将自己的个人利益置于集体的共同利益之上，试图将集体置于自己之下，并将其用于自己的个人利益。这是个人主义的错误，在现代历史中导致了自由主义和经济学中的资本主义。另一方面，社会在追求所谓的整体利益时，可能试图以一种使人们自身的真正利益被排除在外并成为集体的牺牲品的方式将个人置于其之下。这是极权主义的错误，在现代时代产生了最糟糕的果实。”
+
+给予二十世纪欧洲大陆个人主义如此重要推动力量的存在主义，在某些方面发展自后期舍林的哲学，并且甚至可以在其中找到雅各比对非人格泛神论的批评的痕迹。与舍林一样，索伦·基尔克戈尔（1813-1855）反对黑格尔的唯心主义，并强调个体人的价值，无论是对于哲学还是对于生活而言。他指责唯心主义通过忽视人类存在的现实而使生活失去了意义。而基尔克戈尔和一些后来的存在主义者（马塞尔，萨特，卡缪，布隆德）则关注于人类存在的意义核心问题（爱情，婚姻，死亡，信仰，道德等），其他思想家则继续关注对人格本身的意义和本质的直接探索，正是这些思想家被称为，并自称为人格主义者。
+
+弗里德里希·尼采（1844-1900）的哲学以其独特的表达方式展示了这些主题，正如他之前的许多浪漫主义诗人和哲学家所做的，尽管他批评浪漫主义，但他表明新的个人主义实际上与浪漫主义的普遍非个人主义密切相关：从个人主义自我的崇高，到其在众多可用的整体中的消亡，只有一步之遥。现代个人主义对于人被视为一个纯粹现象的智力环境并没有构成真正的挑战，人很容易被融入自然、理想主义的非个人原则、无意识、宇宙意志或家庭、国家、社会阶级的集体中。人是外部力量的产物，在宇宙谜题中微不足道，没有尊严、自由、责任或基本的存在意义。正是这种全面多面的智力氛围和发展在整个19世纪产生了人格主义的反运动，这一运动通过借鉴启蒙思想和浪漫主义以及古典、中世纪基督教和早期现代遗产中的其他替代资源，试图拯救独特的人类个体的地位和身份。
+
+人格主义者让·拉克鲁瓦正当地宣称人格主义是一种“反意识形态”，它是由对人类个体产生疏离感的社会和政治情况唤醒的；面对这种非人格主义力量，人格主义重新确认了人类个体的绝对尊严和相互关联性。马里坦也将人格主义描述为对极权主义和个人主义这“两个相反错误”的“反应现象”。与黑格尔的集体主义和尼采超人的激烈个人主义相反，这些思想家强调了个体人的不可侵犯尊严，同时也强调了他的社会本质和基本关联性。
+
+## 3. 欧洲人格主义
+
+在20世纪，人格主义者特别聚集在三个欧洲高等学府：巴黎、慕尼黑和卢布林。直到最近，这三所学校中最著名、最多产的是巴黎的团体。在第一次世界大战和第二次世界大战之间，法国人格主义运动围绕着一本月刊《Esprit》展开，该杂志由埃马纽埃尔·穆尼埃（1905-1950）和一群朋友于1932年创办。面对经济崩溃、政治和道德迷失，这些法国人格主义者提出了人作为解决危机的标准。思想的新、不可约简的关键，特别是关于社会组织的思想，应该是人。在穆尼埃的纲领性文章《重建文艺复兴》中，该文刊登在《Esprit》的第一期中，他提出了将精神世界与堕落的唯物主义资产阶级分离的必要性。在实质上，与人格主义的十八世纪末和十九世纪初的起源相一致，穆尼埃在第二次世界大战前，对个人主义、议会民主和塑造西欧国家的大众文化的非人格化发展进行了强烈批判。人格主义的十九世纪背景和这位二十世纪欧洲人格主义领袖的事实表明，对于人格主义来说，简单而不加批判地支持自由民主制并不能充分保证免受极权主义的侵害，因为自由民主制也倾向于吸收非人格主义思想，而人格主义思想家早在穆尼埃之前就已经清楚地认识到并分析了这种深层的历史非人格主义动态。
+
+政治和传统宗教的反应对蒙尼耶来说并不是一个选择。必须有一个真正的革命，即创造一个新的人文主义，其中资产阶级的“拥有”理想将让位于基督教的“存在”，与他人共融的存在。蒙尼耶设想的精神革命首先是真理的忠实见证者的工作，通过他们自己的内心更新和活生生的信仰，激发群众形成新的共同结构。这样的革命需要三重承诺：揭露、沉思和技术规划。蒙尼耶的这一计划的基础是他对基督教经历的大胆构想，一种“悲剧乐观主义”的经历，既受到基督教存在的戏剧性的影响，又受到末世胜利的确定性的影响。基督徒最重要的美德是英勇见证，远离其他削弱了基督教的逃避或感伤。因此，蒙尼耶对基督徒作为参与精神战斗的警觉运动员的理念，对尼采对基督教作为弱者宗教的批评提供了鲜明的回应。他声称没有真正的进步没有超越的维度，这与马克思主义通过阶级斗争寻求地上天堂的观点相抵触。他接受了心理学的重要性，同时重新强调了人的自由和责任，这对弗洛伊德的本能中心的精神分析提供了答案。
+
+穆尼耶的作品吸引了重要的法国思想家，如加布里埃尔·马塞尔、丹尼斯·德·鲁热蒙和雅克·马里坦的注意，他们通过他们的研究、讲座和著作帮助发展了法国的人格主义思想。马里坦与穆尼耶共事多年，负责将法国的人格主义引入美国。战后，由穆尼耶本人领导的欧洲人格主义适应并采取了对自由民主更不加批判的观点，马里坦在起草 1948 年联合国《人权宣言》中发挥了作用。像其他多米尼加人格主义者一样，马里坦批评了某些普遍流行的斯科拉哲学的脆弱性，并呼吁哲学中直观经验的重要作用。
+
+法国哲学家保罗·里克尔（1913-2005 年）的哲学深受胡塞尔现象学的影响，虽然从未将自己定位为人格主义者，但他与人格主义者共享许多关心和兴趣，并从中受益并为法国人格主义思想的发展做出贡献。加布里埃尔·马塞尔是里克尔的哲学导师之一，里克尔也深受与埃马纽尔·穆尼耶的接触的影响，特别是在战后的 1946 年至 1951 年。他为《灵感》杂志和《社会基督教》杂志撰写了文章。里克尔借鉴了穆尼耶最珍贵的许多主题，如人类自由的本质和人在国家面前的重要性，尽管他自己对这些主题的后期发展与穆尼耶的观点有很大的不同。他还与人格主义一样，拒绝唯物主义和笛卡尔的二元论，拒绝抽象而赞成具体的人类现实。事实上，穆尼耶的人格主义最重要的一个方面被里克尔采纳，就是不允许退出政治和社会参与。
+
+德国的人格主义与另一种哲学学派现象学紧密结合，由奥地利出生的埃德蒙·胡塞尔（1859-1938）发展而来。像存在主义和法国人格主义一样，现象学实在论在一定程度上是对德国唯心主义的回应，尽管它更加关注认识论问题。胡塞尔在1900年出版的《逻辑研究》以及他后来的《纯粹现象学和现象学哲学的思想》（1913）中阐述了他的现象学方法，并通过此方法吸引了他学派的第一批学生。现象学的区别特征不在于教义，而在于方法论。现象学试图避免对现实施加预设的观念或结构，通过将所有关于世界、人类和其他现实的哲学前提设定置于括号之中（epoché），回归到事物本身（zurück zum Gegenstand）。这种对现实的直接观察和咨询避免了演绎推理的问题，而是专注于直觉的智力行为，或对现实的直接理解。本质还原关注现象的基本结构，因此处理的不是经验观察，也不是对柏拉图形式的描述，而是现象的意义。现象学家将直觉的对象确定为事物的本质、理想对象以及意向性和意识的结构。通过这样做，他们试图克服康德的物自/现象二分法以及实证主义和名义主义的错误。
+
+虽然在他晚年，胡塞尔倾向于哲学唯心主义，但在他早年和《逻辑研究》中，他接受了哲学现实主义。现实主义现象学强调现象学对永恒哲学的贡献，并通过经验探索存在的最终结构。通过回归事物本身，现象学旨在避免经验主义（将现实简化为可测量的）和唯心主义（将现实稀化为抽象和主观主义）的错误。胡塞尔的学生中包括马克斯·谢勒（1874-1928）、迪特里希·冯·希尔德布兰德（1889-1977）、罗曼·因加登（1893-1970）和埃迪特·斯坦（1891-1942），他们都对个人主义思想的发展产生了影响。胡塞尔在20世纪20年代转向唯心主义，导致与许多弟子的决裂，他们认为他已经放弃了重新连接哲学思考和客观现实的最初承诺。因此，他们各自独立创作了一系列作品，追求胡塞尔最初的意图。例如，斯坦将现象学方法视为托马斯主义的补充，而冯·希尔德布兰德则将现象学引入个人主义综合伦理学中。
+
+欧洲人格主义思想的三个中心之一，最年轻的一个，围绕着卢布林天主教大学形成。在与胡塞尔学习后，罗曼·因加登将现象学和人格主义主题带回了他的祖国波兰，在 20 世纪 40 年代初与一位名叫卡罗尔·沃伊蒂瓦的年轻神父相识，他鼓励他阅读马克斯·舍勒的著作。沃伊蒂瓦对舍勒的现象学产生了兴趣，并最终在 1953 年完成了他的博士论文，论文主题是舍勒的价值伦理学。此前，沃伊蒂瓦接受了亚里士多德-托马斯主义的教育，他从对现象学方法的研究中汲取灵感，发展出了一种创造性和独特的人格主义综合，将托马斯主义的形而上学和人类学与现象学的洞见相结合。随后，他在克拉科夫神学院和卢布林天主教大学担任伦理学教授，并在那里创办了波兰人格主义学派。沃伊蒂瓦受到胡塞尔另一位门徒冯·希尔德布兰的著作的影响，撰写了两本重要的人格主义著作，《爱与责任》（1960 年）和《行为的人》（1962 年），以及众多的论文、讲座和文章。他后来当选为教皇，极大地推动了人格主义思想的传播，特别是在天主教思想家中。作为教皇，他在教导中继续运用人格主义论证，并激发了对人格主义理论的新兴兴趣。约翰·保罗呼吁“基于人的人格本质的神学更新”，并在他的通谕《劳动者的工作》（1981 年）和《让他们合而为一》（1995 年）以及他 1994 年的《给家庭的信》中明确引用了人格主义论证。
+
+人格主义在许多其他欧洲国家也以不同程度的代表性存在。
+
+## 4. 美国人格主义
+
+美国的人格主义，以博登·帕克·鲍恩（1847-1910）、乔治·H·豪森（1834-1916）和埃德加·谢菲尔德·布莱特曼（1884-1953）等人为代表，与欧洲大陆的人格主义有所不同，它不是对唯心主义的反应，而是一种唯心主义形式，其中存在被定义为个人意识。豪森更喜欢使用“个人理想主义”这个术语。与20世纪欧洲大陆的人格主义相反，美国的人格主义，特别是早期代表人物，是对19世纪欧洲更或多或少个人主义哲学和神学发展的直接延续，以及对各种非个人主义思想的分析和驳斥。美国和20世纪严格的欧洲人格主义学派在以人作为理解世界的出发点和将所有道德真理归结为人的绝对价值方面达成了一致，但后者主要从存在主义、现象学和托马斯主义中获得这些洞见，而美国学派在某种程度上对其进行了补充和进一步发展，基本上是从欧洲的“思辨神学家”那里接受了这些洞见。
+
+波士顿大学长期以来被认为是美国人格主义的中心，由哲学教授鲍登·帕克·鲍恩主持。鲍恩是一位在德国在鲁道夫·赫尔曼·洛策门下学习过的卫理公会牧师。洛策是一位研究思辨神论的基督教神学家克里斯蒂安·赫尔曼·魏斯（1801-1866）的学生，他吸收了后期谢林对黑格尔的批评，试图通过维持真实总是具体和个体的观点来修改黑格尔的唯心主义，将黑格尔的绝对唯心主义转化为个人唯心主义。鲍恩还从最近的心理学趋势中添加了一些元素，发展出了一种独特且明确的人格主义立场，形成了一个哲学学派。他在1908年出版的晚期著作《人格主义》是他哲学思想的一个流行总结，引入了“人格主义”一词进入美国的哲学和神学讨论中。
+
+鲍恩聚集了一群才华横溢的门徒，他们在第二代继续他的工作。其中最重要的是埃德加·谢菲尔德·布莱特曼、阿尔伯特·C·克努德森（1873-1953）、弗朗西斯·J·麦康奈尔（1871-1953）、乔治·阿尔伯特·科（1861-1951）和拉尔夫·T·弗鲁威林（1871-1960）。虽然豪森在加州大学伯克利分校建立了人格主义传统，弗鲁威林将人格主义带到了南加州大学，成为美国二十世纪第二个重要的人格主义思想中心。弗鲁威林还创办了《人格主义者》杂志，这本杂志成为美国人格主义的论坛。1915年，他出版了《人格主义与哲学问题：对博登·帕克·鲍恩的工作的赞赏》。在波士顿大学，布莱特曼继续研究人格主义，最终担任博登·帕克·鲍恩哲学讲座，而克努德森则从最初教授旧约课程转向人格主义神学。与此同时，沃尔特·乔治·穆尔德（1907年-），波士顿大学和南加州大学的社会伦理学和基督教神学教授，帮助弥合了波士顿和加州学派之间的鸿沟，将他的教义称为“社群人格主义”。
+
+波士顿人格主义学派继续以意想不到的方式影响着美国文化。由彼得·A·贝尔托奇（1910-1989）和哈佛大学的威廉·斯特恩的学生 W·戈登·奥尔波特等人代表的第三代美国人格主义者进一步发展了人格主义的心理学维度。马丁·路德·金在波士顿大学的人格主义者那里学习，并将这一经历归功于塑造了他的世界观：“我在波士顿大学学习哲学和神学，师从埃德加·S·布莱特曼和 L·哈罗德·德沃夫...主要是在这些老师的指导下，我学习了人格主义哲学-即认为揭示终极现实意义的线索在于人格。这种人格理想主义至今仍是我基本的哲学立场。人格主义坚持只有人格-有限和无限-最终是真实的，这使我在两个信念上得到了加强：它为我提供了一个关于个人上帝的形而上学和哲学基础，并为我提供了一个关于所有人格的尊严和价值的形而上学基础。”
+
+然而，需要注意的是，美国人格主义不能简单地归结为波士顿大学的学派。它在哈佛大学也有繁荣。不仅霍威森来自这里，而且哈佛大学的著名哲学家威廉·詹姆斯（1842-1910）、乔赛亚·罗伊斯（1855-1916）、威廉·欧内斯特·霍金（1873-1966）和查尔斯·哈特肖恩（1897-2000）的工作都显示出强烈的人格主义元素。除了罗伊斯之外，他们所有人甚至都自称为人格主义者。
+
+## 5. 东方人格主义
+
+在某些方面，伊斯兰教、佛教、吠陀教和中国思想中存在与西方人格主义相似或相当的东西，尽管在这个领域进行比较工作时常常面临翻译和解释上的巨大问题。
+
+关于伊斯兰教，首先应指出，古典伊斯兰哲学与其根源于古希腊哲学的性质不同于佛教、吠陀教、中国和日本思想。它与奥古斯丁主义和多默主义有共同的根源，因此与西方人格主义的发展密切相关的传统也有所关联。另一方面，有观察指出，在阿拉伯语和古典伊斯兰哲学中没有西方哲学概念“人格”的概念等效物，这似乎证实了该术语的特定基督教、在相当程度上三位一体论的术语和概念起源的重要性。但是，人格主义的发展并不仅仅依赖于对三位一体论思想的决定性影响（当时，也应该记住，它在现代意义上还不完全是人格主义），这些源头还产生了犹太版本的人格主义，因此阿拉伯语中没有概念等效物的历史缺失并没有妨碍伊斯兰人格主义的发展。像穆罕默德·伊克巴尔（1877-1938）这样的现代穆斯林思想家中，可以找到与西方人格主义者非常相似的关于自我和上帝本质的主题。穆罕默德·阿齐兹·拉巴比（1922-1993）明确寻求发展穆斯林版本的人格主义，并受到蒙尼耶的影响。
+
+在更正统的东方思想传统中，并没有找到“人格”这个概念的确切对应词汇，这些传统并不与希腊哲学的根源相同。当我们在这些传统中谈论人格主义时，是指以其他概念为基础进行阐述的主题和立场，这些概念更接近于西方的“自我”和“个体”，它们是西方人格主义的一部分，并构成了现代人格概念的定义。
+
+例如，“人格主义”这个术语曾被应用于早期佛教学派称为 puggalavada 的学派，该学派在个体自我的同一性和延续性方面持有与传统上被认为是南传佛教正统观点不同的立场。这些立场的其他版本稍后出现在一些大乘思想的流派中。
+
+然而，在吠檀多哲学中可以找到更明确的类比。吠檀多学派（有资格的非二元论）反对阿耨多耶学派的激进非二元论，并坚持不仅在这个学派及后来对阿耨多耶持批评态度的学派的英文著作中明确称为个人概念的梵天或绝对，而且还坚持将被构想为片段自我（jivatmas）的个体存在进行个人理解，这些个体存在是梵天的“部分”，同时又是与梵天相同且有所区别的转化体。由于印度思想的不同古典 darshanas 并不完全孤立，它们相互影响，吠檀多学派也吸收了萨姆伽思想的要素，以及瑜伽和传统印度教经典遗产的进一步要素。正是在吠檀多学派中，尤其是对阿耨多耶持批评态度的学派中，永恒自我（atman）的教导的清晰性、传统的原始性和基本性，使得这种人格主义比佛教中的 puggalavada 更加明确。
+
+在维达恩塔（Vedanta）内部的辩论中，非二元论者、无我主义学派与有神论、人格主义学派之间的一个显著特点是它们与西方 19 世纪绝对唯心主义和人格唯心主义之间的部分相似之处和相互对应，尽管它们在时间和空间上相距甚远，相互独立，并且存在不同的概念背景。然而，尽管在比较研究上，关于不二论维达恩塔和绝对唯心主义的学术传统已经存在很长时间（尤其是在 F.H.布拉德利的版本中），但在维希什塔德维达和类似的人格主义维达恩塔学派以及西方早期的唯心主义人格主义者之间，目前几乎没有进行过这样的研究。
+
+最明显区分维达恩塔人格主义与西方人格主义的是前者建立在维达恩塔的基本教义之上，即真正的自我存在于超越瞬时身体和心灵的限制之外，并超越了所谓的“我制造者”（在梵语中称为 ahamkara）与这些身体和心灵的认同倾向。而西方人格主义通常以从维达恩塔的角度来看，必须被视为属于心理层面的术语来定义，有时甚至特指于 20 世纪的物质身体。
+
+然而，根据人格主义的吠陀哲学，这并不意味着身体应该被忽视或贬值。从其角度来看，与心灵的错误认同对身体是有害的，对心灵本身的正确使用也是如此。我们作为意识的真实和更高本质的实现，作为自我-梵的本质，即存在/永恒、知识和喜悦，为身体和心灵带来光明，包括所有被西方人格主义者密切分析的能力，如意志、想象力和理性。因此，它至少间接地支持西方人格主义所强调的人文层面上的道德品格培养，以其所需的程度。
+
+大多数传统的中国和日本思想与人格主义一样，强调需要通过具体的实践转变个性，作为洞察力的先决条件。在中国和日本的佛教版本中，继续了印度制定特定实践和锻炼的传统，但逐渐与印度的理论和形而上学遗产脱节。这一发展可以说是在禅宗中达到顶峰。但实践的重点也存在于道教中，它对禅宗的发展做出了贡献。与此同时，所有这些学派都将终极或真实的现实理解为更加非个人化而不是个人化，这使它们与吠陀哲学相比更加远离人格主义。
+
+儒家思想与其他中国和日本传统一样，强调实践。然而，与它们相反，儒家思想更加专注于“人文”层面，即道德品质的形成和社会秩序的要求。尽管儒家思想的人文取向符合人格主义，但它更关注在传统中国理解中真正人性和绅士风度的普遍理想的实际实现，而不是西方人格主义者强调的与真正理解和肯定普世价值观相关的个人个性和独特性，这两者通常是不可分割的。朱熹（1130-1200）发展的新儒学引入了强烈的形而上学元素，但对形而上学原则或法则（理）的理解仍然是一种普遍主义的理解。其他新儒学在这方面有所不同，由于儒家思想在今天的中国仍然是一种活跃的传统，新的思想家不断发展更接近人格主义的版本。这一点以及人文品质的重要性，支持将儒家思想总体上称为一种人格主义哲学。但也有一些考虑因素反对这一点，既涉及到历史上中国社会的某些方面，也涉及到朱熹新儒学的形而上学方面。
+
+## 6. 人格主义思想的特点
+
+尽管人格主义包括许多不同的形式和强调，但可以辨别出一些独特的特点，这些特点通常适用于人格主义。其中包括坚持人与非人之间的根本区别，坚持人格不可归约为非人格的精神或物质因素，肯定人的尊严，关注人的主体性和自决性，以及特别强调人的互为主体（关系性）的本质。
+
+### 6.1 人类、动物和自然界
+
+人格主义者通常坚持达尔文的说法是错误的，即人类与其他陆地生物的区别是程度上的而不是本质上的。人类例外主义定义了大部分人格主义思想。显然，这种例外主义并不是人格主义独有的，而是古典哲学人类学的一个标准假设。例如，格罗蒂乌斯在 1625 年写道：“人类确实是一种动物，但是一种更高级的动物，比其他动物之间的不同种类之间的差异更大得多”（《战争与和平法》序言，11）。
+
+根据典型的人格主义观念，所有存在的基本分类是人与非人之间的区别。对于许多人格主义者来说，使人类“不同于”其他动物的原因与使狒狒不同于长颈鹿的原因不同，甚至与使狒狒不同于一块石头的原因也不同。因此，用雅克·马里坦的话来说：“每当我们说人是一个人时，我们的意思是他不仅仅是一小块物质，不仅仅是自然界中的一个个体元素，比如原子、一根草、一只苍蝇或一头大象……人是一种动物和一个个体，但与其他动物或个体不同。”或者如威廉·斯特恩在《人与事物》（第 2 卷）的引言中写道：“尽管人作为人类的成员有着某些相似之处，比如种族、性别等，尽管在任何个人事件中都涉及到广泛或狭窄的规律，但始终存在着一种原始的独特性，通过这种独特性，每个人在与其他人的关系中都是一个独立的世界。”
+
+在这里，人格主义者不仅对19世纪的唯心主义、唯物主义和决定论做出反应，甚至对亚里士多德的客观主义也做出反应。亚里士多德根据定义物种的近源类和特殊差异的方法，将人定义为理性动物（ho anthropos zoon noetikon）（亚里士多德，《动物历史》I，1：488a7；《尼各马可伦理学》I，5：1097b11；VIII，12：1162a16；IX，9：1169b18；《政治学》I，2：1253a3）。人格主义者在接受这个定义的同时，认为这样的构建将人格降低为客观世界是不可接受的。将人作为一个具有理性特征的动物（通过这个特征，人主要是世界中其他物体之一，与他所属的物质世界并列）的客观、宇宙观，只能在一定程度上是有效的，但是不足够。为了解释人的主体性，人格主义表达了对人的非物质维度和原始独特性的信仰，因此也表达了人的基本不可简化性，即人与自然世界的根本不可简化性。
+
+许多人格主义者将人类视为将所有其他现实视为客体（与主体有意相关的东西），但肯定人格与所有其他客体之间的实质差异。人格独自是“某人”，而不仅仅是“某物”，这使他与可见世界中的每个实体区别开来。关于动物本质的个人主义者的具体和普遍立场无法确定。但是，“某人”和“某物”之间的明显区别，特别是应用于其他有感知能力的生物，既反映了个人主义受到犹太-基督教传统的影响，也反映了明显现代笛卡尔理性主义的一些普遍影响或精神，后者当然不受继承的基督教二元论的影响。只有人类通常被人格主义者认为是同时客体和主体，同时这被认为对所有人来说都是真实的，无论年龄、智力、品质等。对于人格主义者来说，个人主体性确保了人类的适当本质不能被归结为和详尽解释为近源属和特定差异。主体性因此成为人类中不可归约的同义词。
+
+但更广泛的现实主义人格主义确实在古典和学院传统中提出了人与其他所有对象之间的本质区别，这种区别在于人类的理性能力（以及其语言的必然结果），这使得人与客观实体的整个世界有所区别。由于正是他的智力和精神本质使得主体性成为可能，可以说在人的主体性中也有一些客观性。然而，这些人格主义者坚持非人格存在与人的主体性之间的明确分离，这种主体性是由他的理性本质在更广泛或更高层面上衍生出来的。无论动物如何被更准确地理解，人与其中最先进的动物之间的区别在于一种特定类型的内在自我，一种内在生活，理想情况下，围绕着他对真理和善的追求，并产生特定于个人的理论和道德问题和关注。
+
+其他人格主义的流派，比如马丁·布伯的对话哲学所代表的流派，对人与非人之间的区别关注较少，而更强调人与整个现实的关系方式。布伯将与其他现实打交道的方式分为两种，他称之为“我-你”和“我-它”关系，前者反映了对他人现实的基本开放性，而后者则反映了将他人客体化和使其屈从于自己的态度。根据布伯的观点，我们与他人的互动可以是以“它”为基础，形成“我-它”的主要方式，也可以是以“你”为基础，形成“我-你”的主要方式。然而，尽管一些人格主义者会主张这种“我-你”关系是与人打交道的唯一适当方式，而“我-它”关系是与事物打交道的唯一适当方式，布伯将“我-你”关系呈现为人类个体与所有现实（无论是个人还是非个人）打交道的理想方式。尽管这种“我-你”关系在关系产生的领域（自然界、人类、精神存在）会呈现出不同的特征，但对于布伯来说，根本的区别在于人类个体本身以及他与现实互动的态度。
+
+一些人格主义者开始对人类例外主义的严格表述持批判态度，并且比布伯更进一步，不仅重新考虑人类的态度，还重新考虑了对一切非人类（和神圣）个体的僵化二元论观点，将其视为无灵魂、无个人特征的“客体”。捷克哲学家埃拉齐姆·科哈克就是一个在这方面尝试重新思考我们对自然的态度和理解的重要人格主义思想家的例子。各种努力克服对自然和其他生命形式的非人格客体化，并构想一个更加彻底的人格化宇宙，部分类似于19世纪早期一些唯心主义人格主义者的立场。就像这些人格主义者有时将自我意识、主观性、内在性、个体性/独特性、意志、想象力和历史性的累积和相互关联的洞察力融入到一种方式中，而这种方式在某些方面仍然有些单方面的普遍主义多米尼加学派的人格主义思潮中没有，他们也更接近一种对自然的看法，纠正了创造世界与创造者之间过于僵化的二元论，以至于几乎独立存在，并且人类与其他创造物几乎同样被严格分离。人类的生活形式显然是例外的，因为它允许在各个方面更高程度的人格发展，但是将植物甚至动物视为纯粹的无意识客体，没有意识和自己的主观性，似乎在人格主义者中越来越被视为问题。
+
+人格主义的一个不无重要的部分反映了一个世界的分裂，这个世界中神的存在不再被感知和察觉于自然界中。现代非神圣化的世界，正如笛卡尔主义所表达的，但由奥卡姆和甚至在某些方面由阿奎那准备，实际上在重要方面也是一个非人格化的世界。早期 19 世纪的个人主义者，虽然防范了浪漫主义泛神论者的新非人格主义和道德模糊性，但至少清楚地认识到了许多基督教神学以及现代理性主义、启蒙运动和科学主义的严格二元论的问题。
+
+### 6.2 人的尊严
+
+在强调人与其他实体的独特性时，受托马斯主义影响的人格主义者将现实的基本分界线界定为个人和非个人存在之间的界线。因此，与人打交道需要与与非个人实体打交道所使用的不同伦理范式。处理非个人实际情况的“规则”在处理人时不适用，反之亦然。人与非人之间的这种根本二分法本质上是本体论的，或者说是超越性的构成性的，但在伦理层面上产生了直接的后果。
+
+在人格主义的核心是对人的尊严的肯定，这是中世纪思想家们坚持的品质，构成了人格的独特卓越性，并引发了特定的道德要求。尊严指的是人作为一个“某人”而不仅仅是“某物”的固有价值，这赋予了它在其他存在中所没有的绝对性。在这里，古典现实主义的人格主义者拒绝了霍布斯对尊严的理解，即尊严是由国家设定的个体价值，而与康德一道，他们更倾向于认为尊严是固有的，并超越了一切价值。尊严的语言排除了将人卷入交换的可能性，好像他们的价值是他们的效用的函数。每个人无一例外都是无价之宝，没有人是可有可无或可互换的。人永远不会完全丧失或完全融入集体，因为他与其他人的相互关系是由他独特、不可替代的价值所定义的。在这方面与康德的一致可以说是构成了广义人格主义和狭义人格主义之间的桥梁。
+
+将独特的尊严或价值归于人格，也能揭示正义这一基本美德。将“各得其所”归结于对每个人应得之物的理解，而这一理解不能正确确定，除非同时考虑到所有人的尊严和价值，这些尊严和价值是所有人的普遍特质，与每个人的个别性密不可分。因此，广义上的人格主义者特别强调人作为人格的本质所应得的，以及对待人与对待其他实体之间的区别。当人成为行动的对象时，一个完整的伦理结构就会参与其中，而当行动的对象是物体时，则不存在这种伦理结构。如何对待人作为一个独立的伦理范畴，本质上与如何对待非人（物体）有所区别，而不仅仅是程度上的区别。传统的伦理体系强调道德行为者的内在机制（良心、义务、罪恶、美德等）以及自由行为对道德品格的影响，而人格主义者在此基础上特别关注人类行为的超越性质和被行为对象的尊严。人的绝对性质为在处理人时建立绝对道德准则的可能性提供了基础。
+
+对于人格主义者来说，人的尊严并不取决于诸如天赋智力、运动能力或社交能力等变量。它也不能仅仅源于良好的行为或道德优点。相反，它必须根植于人的本性本身，以至于在最深层次上，尽管道德行为的变化和由此产生的道德品质的差异，物种的所有成员都共享这种尊严。被视为如此根本的“成为某物”和“成为某人”的差异是如此之大，以至于它不允许存在中间地带。大多数人格主义者否认人格是可以逐渐获得的。它就像一个二进制函数（1 或 0）或一个切换开关（开或关），不容许有中间地带。
+
+但正如我们所见，这些立场与对非人类自然的观点有一定的关联，而这个观点并不完全没有问题。狭义上的人格主义者在某种程度上接受康德伦理学或实践哲学中关于人的尊严的观点，但从更全面的个人主义理解个体独特性的角度进行修改和补充。由于他们不仅强调个人在现有形而上学、哲学和神学人类学框架内的重要性，因此他们可以在理论上构建一个对“某物”的非客体化和非剥削性的非人类世界的空间。早期的理想主义人格主义者更倾向于将外在自然也视为个人现实的最终表达，并将其非个人化的外观解释为有限感知的限制。
+
+### 6.3 内在性和主观性
+
+人格主义者认为只有人才是真正的“主体”。这并不是说在句法意义上其他实体不“行动”或“产生”或“引起”，但确切地说它们没有主体性。在现代意义上，主体性主要取决于自我意识的统一，以及内在性、自由和个人自治。虽然非人格的存在在句法意义上可能“行动”，但它们并不是真正的行动主体，因为它们行动的原因是外在于它们的。尽管在“非人格”的终极本质上，狭义上的一些人格主义者与广义上的人格主义者之间存在差异，但在这个领域两种形式的人格主义之间存在相当大的重叠。对于有神论的人格主义者来说，个人主体性包括道德和宗教维度，这是人作为有意识、有智慧、有自由意志的主体与上帝和他人之间关系的一部分。作为自由思考的主体，人们还通过他们的思想、想象力和行动来发挥创造力，这种创造力影响着周围的世界和人自身。此外，人格主义者观察到，作为有意识和自我意识的存在，人作为一个有意识的存在，不仅展示了行动，还展示了依赖于自我的内在事件。这些有意识地生活的经历也构成了人的独特性和个性的一部分。至于伦理问题，人不仅是自由和负责任的道德主体，而且他们的主体性也决定了他人对他们的伦理责任。
+
+我们所感知的“事物”可以从外部进行审视和了解，就像被视为“对象”一样。从某种意义上说，它们站在我们面前，向我们展示自己，但始终是在我们之外。它们可以被描述、评价和分类。经典现实主义的人格主义者接受以这种方式了解人的合法性，甚至必要性。从这个客观的观点来看，我们可以看出人类相对于其他现实的一些优越性。然而，在人的个体中，一个完全独特的维度呈现出来，这个维度在其他现实中找不到。人类个体首先将自己体验为主体，而不是客体，不是从外部，而是从内部，因此他们以一种其他现实无法以此方式存在于他们面前的方式存在于自己面前。但是在这里，现象学方法的影响和价值，以及早期唯心主义传统的某些方面，常常在人格主义中特别显现，并增加了经典现实主义分析的内容。人的本质被探索为一种从内部的直觉，而不是从思想体系的推导或通过普通意义上的经验观察。人必须被视为一个主体，必须以意识所决定的现代人类主体性的观点来理解。但是，人格主义者并不认为这种贡献在各个方面都简单地取代了早期更客观主义的人的概念，而是同样作为对其的补充。
+
+这种有意识的自我存在是人的内在性，它对于人格概念的意义如此核心，以至于可以说人格意味着对自我内在性的理解。由于人的主观性，他不仅受到外部力量的影响和驱动，而且从内部、从自己主观性的核心行动。由于他是自己行动的创作者，他拥有自己创造的同一性，这不能简化为客观分析，因此抵制定义。这种抵制定义、不可简化，并不意味着人的主观性和生活经验是无法知晓的，而是我们必须以一种仅揭示和展示其本质的方法来了解它们。在自我拥有和自我治理的生活经验中，人们体验到自己是一个人和一个主体，并通过同情和共情体验到他人的人格。为了应用早期的术语并增加一些现代意义，人既包括客观存在（ύπόστασις），也包括主观存在（πρόσωπον）。
+
+人格主义的一个结论是，人类的体验不能通过宇宙学的简化来推导。我们必须停留在不可简化的地方，即每个人类个体中独特且不可重复的地方，凭借这一点，他或她不仅仅是一个特定的人类个体 - 一种特定物种的个体，而是一个人格主体。这是真正理解人类的唯一途径。显然，不可简化的框架并不能完全涵盖人类的状况，这样的理解必须通过宇宙学的视角来补充。然而，人格主义者会说，在忽视他的主观性的情况下，不可能真正理解人。
+
+对人格主义者来说，对人的主观性的关注解释了他们坚持“人格”和“个体”概念之间的差异。吉尔森写道：“每个人格都首先是一个个体，但他远远超出了个体的范畴，因为只有当所考虑的个体实体本身具有某种尊严时，才会谈到一个人格，就像一个人物一样。” 主要区别在于，个体代表同质集合中的一个单一单位，可与集合中的任何其他成员互换，而人格则以其独特性和不可替代性为特征。
+
+例如，冯·巴尔塔萨尔写道：“很少有词语像‘人格’一样具有如此多层次的含义。表面上，它只是指任何人类，任何可计数的个体。然而，它更深层次的意义指向了个体的独特性，这种独特性是不可互换的，因此也无法计数。” 在这种更深层次上，人格不能被准确地计数，因为一个单独的人格不仅仅是一系列中的一个，其中每个成员在实际目的上与其他成员相同，因此可互换。人们可以数苹果，因为一个苹果和另一个苹果一样好（即，重要的不是它是这个苹果，而只是它是一个苹果），但人格不能以这种方式计数。人类可以计数，作为同一物种的个体，但“人格”一词强调了人类物种的每个成员的独特性，他的不可比较性和不可交流性。冯·巴尔塔萨尔接着说：“如果我们区分个体和人格（出于清晰起见，我们应该这样做），那么人格将被赋予特殊的尊严，而个体本身则不具备这种尊严...当考虑到个体的独特性、无法比较性和因此不可替代性时，我们将谈论一个‘人格’。”
+
+尽管这些哲学区分是有效的，无论是说一个人类个体还是一个人类个人，这只是对同一现实的两个名称。人格主义者迅速断言，人格不是超越人性的附加物，而是根植于每个人类存在的本质中的。"人类个人"和"人类个体"虽然强调了人类存在的不同维度，但在日常语言中是同义词，并具有相同的指称。一些思想家提出了人类个人和人类个体之间的真正区别。从他们的角度来看，人格将成为人类个体的一种获得的"额外"，这种地位不仅仅是作为物种个体，而是通过以有意识、有意向的方式与其他人建立某种关系而达到的。换句话说，虽然所有的人类个人都是人类个体，但反之则不成立。
+
+人格主义者通常拒绝这种观点，并坚持每个活着的人类个体通常都具有-实际上而不仅仅是潜在地，尽管进一步的发展或实现的重要性被强调-定义和构成的意识、意向性、意志等，以及理性、笑、爱和选择的根本能力。这些不仅仅是一些抽象可想象的物种共同特征，而是每个人类个体独特、个体、有机功能的方面。通过这种方式，人格主义者认为人格存在于其中，即使其运作随着许多变化因素的变化而来去，如不成熟、受伤、睡眠和衰老。
+
+### 6.4 自决性
+
+人的智性本质，根据博伊修斯的说法，是人格的区别特征，也是自由、主观性、不朽性以及人的认知和道德生活的源泉。作为一个理性的存在，也就是一个人，个体能够区分真假和善恶。因此，科学和道德是人的特权。由于人具有精神本质，其行动的源头是内在的，而不是外在的。
+
+人格主义者坚持认为，在与世界接触时，人作为一个主观的“我”，不是以纯粹的机械或决定论的方式行动，而是从内心自我行动，具有自我决定的能力。拥有自由意志意味着人是自己的主人（sui iuris）。自我掌控和自由是人格存在的特征；一个自由的存在就是一个人。人的自我决定能力解释了人格的不可转让性质。他的不可传递性不仅指的是人的独特性和不可重复性。在一个人中，不可传递或不可剥夺的东西是内在于个人的内心和自我决定的能力。没有人可以代替他人的意志行动。
+
+自决包括什么？经典的区分将“人类行为”（actus humani）与所谓的“人类行为”（actus hominis）分开。人类行为描述了主体中“发生”的事情，而适当的人类行为将行为的自由和负责任的创作归因于主体。内在因果性的要素被称为自决。这种自决涉及行动主体的效力感，他认识到“我行动”意味着“我是我行动的有效原因”。作为行动者与所执行的行动相关的行动主体的效力感与其对活动的责任感密切相关。这种现象学层面的经验将注意力集中在意志作为个人自决的力量上，同时明确指出自决是个人本身的属性，而不仅仅是意志的属性。这是个人作为自由的表现，通过他的意志。
+
+然而，自决不仅描述行动的因果关系，还描述了行动者本身的因果关系。在行动中，人不仅朝着一个价值目标引导自己，还决定了自己。他不仅是自己行动的有效原因，而且在某种程度上也是自己的创造者，尤其是他的道德自我。通过选择执行善恶行为，人使自己成为一个道德上好或坏的人。行动与成为有机地联系在一起。通过自由的道德行动，个人主体作为一个人类成为善或恶。当一个人行动时，他有意识地朝着一个对象行动，这个对象是一个吸引意愿的价值。同时，自决也指向主体自身。由此，人类能够存在和行动“为自己”，或者说具有某种自我目的论。这意味着个人不仅决定自己的目标，而且成为自己的目标。个人不仅对自己的行为负责，还对自己的道德品格和身份负责。自由意味着一个人对自己的选择负责，也对自己负责。
+
+自由和自决也与人的精神本质的另一个特征密切相关：创造力。作为人的属性，自由使人能够通过思想和行动创造。意志不仅仅是智力推理结论的执行者。智力提供了多种要实现的好处，其中没有一种以必然的方式被渴望或选择高于其他好处。人自己决定自发和自由地，从而决定了自己的道德价值和身份。“我选择的这个特定好处对我来说具有价值，根据我自由地渴望和选择成为的‘我’。”
+
+### 6.5 关系性和共融
+
+人格主义者强调人作为社会存在的本质。根据人格主义者的观点，人从不孤立存在，而且只有与其他人共融，才能达到人类的完美。人际关系对于人来说从不是多余或可选的，而是由他的本性所指示的，也是他实现自我完善的一个重要组成部分。
+
+关系只适用于人。人格主义试图突出人性的这一方面并将其置于前沿。这对于人格主义反对和努力克服个人主义与集体主义之间的两极分化是至关重要的。人格主义者将人类视为“为他人而存在”或“与他人共存的存在”。关系对于人来说不是可选的附件，而是他人格的重要组成部分。他是一个为关系而存在的存在。
+
+人格主义者认识到，尽管他可能努力追求独立，但人类个体必然依赖于他人。他依赖其他人的生存和发展，这种相互依赖是人类存在的一个标志。除此之外，人类个体还倾向于社会作为一种基本的人类价值观。这种社会不仅仅是一种实用或便利的问题，而是反映了人寻求同伴并与他们进行精神交往的内在倾向。社交性的特征自古以来就被观察到，它既反映了人对他人的赖以生存和发展的依赖，也反映了他对更深层次交流的自然倾向。
+
+一些人格主义者指出，人的社会性质和他在人际交往中的使命并不是同一回事。他们对理性社区和友谊的能力是使人类社会化的因素之一。但是，根据这些人格主义者的观点，人的交往能力比单纯的社交更深层次。“社会”实际上有时也可以类比地应用于以群体而不是彼此孤立地生活和互动的非个人存在，而“交往”这个词则永远不能以这种方式理解。Communio 不仅仅是指某种共同的东西，而是指一种共同存在和行动的方式，通过这种方式，参与其中的人们相互确认和肯定彼此，这种存在和行动方式通过他们的相互关系促进了每个人的个人成就。这种存在和行动方式是人的专属属性。
+
+人格主义者认为，人的交往使命根植于理性的本质，通过人的主体性和自我决定。与将人的主体性与莱布尼兹的单子体的孤立统一相提并论不同，大多数人格主义者认为人的主体性需要知识和爱的交流，而不是将人封闭在自己内部。
+
+这种交流反过来依赖于个人的自决，具有独特的自我拥有和自我治理结构。作为一个自由、愿意的主体，除非他选择将自己奉献给他人，否则个人不能被他人所拥有。人格主义者断言，人是属于自己的，其他任何事物或动物都不可能如此。自我拥有并不意味着孤立。相反，自我拥有和自我治理都意味着一种特殊的倾向，即“将自己奉献出去”。只有拥有自己，才能无私地奉献自己。只有自己治理自己，才能无私地奉献自己。这种自我奉献的使命对于构成人的本质来说是如此重要，以至于当一个人为他人成为礼物时，他才最完全地成为自己。如果没有无私的自我奉献，人无法实现作为人的目标，也无法完全发现自己的真正自我。
+
+对于人格主义者来说，“奉献的法则”表明，个人独自能够建立的关系和社会，这些关系和社会对于他作为个人的实现来说是必要的，不仅仅是一种联合，而是一种爱。它们包括给予和奉献自己，不仅接受物质，还接受其他人。只有人才能给予爱，只有人才能接受爱。
+
+## Bibliography
+
+### Primary Literature
+
+* Bowne, Borden Parker, 1908, *Personalism*, Boston: Houghton Mifflin Company.
+* Brightman Edgar S., 1932, *Is God a Person?*, New York: Association Press.
+* –––, 1943, *Personalism in Theology: A Symposium in Honor of Albert Cornelius Knudson*, Boston: Boston University Press.
+* –––, 1952, *Persons and Values*, Boston: Boston University Press.
+* Buber, Martin, 1923, *Ich und Du* (*I and Thou*), Ronald Gregor Smith (trans.), second edition, Edinburgh: T & T Clark, 1987.
+* Flewelling, Ralph Tyler, 1926, *Creative Personality*, Introduction by H. Wildon Carr, New York: Macmillan Co.
+* Flewelling, Ralph Tyler and Rudolf Eucken, 1915, *Personalism and the Problems of Philosophy: An Appreciation of the Work of Borden Parker Bowne*, New York/Cincinnati: The Methodist Book Concern.
+* Gilson, Étienne, 1932, *L’esprit de la philosophie médiéva**le*, Paris: Librairie philosophique J. Vrin. (See especially ch. 10, “Le personnalisme chrétien”: 195–215.)
+* Guardini, Romano, 1955, *Welt und Person*, *Versuche zur christlichen Lehre vom Menschen*, Würzburg: Werkbund-Verlag.
+* Hart, James G., 1992, *The Person and the Common Life: Studies in a Husserlian Social Ethics*, New York: Springer.
+* –––, 2009a, *Who One is. Book 1: A Meontology of the ‘I’*, New York: Springer.
+* –––, 2009b, *Who One is. Book 2: Existenz and Transcendental Phenomenology*, New York: Springer.
+* Knudson, Albert Cornelius, 1927, *The Philosophy of Personalism*. New York: The Abingdon Press.
+* Kohák, Erazim, 1984, *The Embers and the Stars. A Philosophical Inquiry into the Moral Sense of Nature*, Chicago: The University of Chicago Press.
+* Lahbabi, Mohammed Aziz, 1964, *Le personnalisme musulman*, Paris: Presses Universitaires de France.
+* Macmurray, John, 1961a, *Persons in Relation*, London: Faber and Faber.
+* –––, 1961b, *The Self As Agent*, London: Faber and Faber.
+* Marcel, Gabriel, 1963, *The Existential Background of Human Dignity*, Cambridge, MA: Harvard University Press.
+* Maritain, Jacques, 1947, *La personne et le bien commun* (*The Person and the Common Good*), John J. Fitzgerald (trans.), Notre Dame, IN: University of Notre Dame Press, 1985.
+* –––, 1945, *The Rights of Man and Natural Law*. Glasgow: Robert Maclehose and Co./The University Press.
+* Mounier, Emmanuel, 1950, *Le personnalisme* (*Personalism*), Philip Mairet (trans.), Notre Dame: University of Notre Dame Press, 1952.
+* –––, 1938, *A Personalist Manifesto*, trans. from the French by the monks of St. John’s Abbey. New York: Longmans, Green and Co.
+* Renouvier, Charles B., 1903, *Le personnalisme*, Paris: F. Alcan.
+* Scheler, Max, 1913 [1916], *Der Formalismus in der Ethik und die materiale Wertethik*, in *Gesammelte Werke*, Volume 2, Bern (Francke) 5, 1966; *Formalism in Ethics and Non-Formal Ethics of Values: A New Attempt Toward A Foundation of An Ethical Personalism*, Manfred S. Frings and Roger L. Funk (trans.), Evanston, IL: Northwestern University Press, 1973.
+* Sokolowski, Robert, 2008, *Phenomenology of the Human Person*, New York: Cambridge.
+* Stern, William, 1906, *Person und Sache. System der philosophischen Weltanschauung* (Volume I), *Ableitung und Grundlehre*. Leipzig: J. A. Barth.
+* –––, 1923/1924, *Person und Sache: System des kritischen Personalismus*, Leipzig: J. A. Barth.
+* Tillich, Paul, 1955, *Biblical Religion and the Search for Ultimate Reality*, Chicago: The University of Chicago Press.
+* Wojtyła, Karol, 1969 [1979], *Osoba i czyn* (*The Acting Person*), Andrzej Potocki (trans.), Dordrecht: D. Reidel Publishing Company.
+* –––, 1960 [1995], *Milosc I Odpowiedzialnosc* (*Love and Responsibility*), H. T. Willetts (trans.), New York: Farrar, Straus, & Giroux.
+* –––, 1993a, “The Personal Structure of Self-Determination,” Theresa Sandok (trans.), in *Person and Community: Selected Essays* (*Catholic Thought from Lublin*: Volume 4), Andrew N. Woznicki (ed.), New York: Peter Lang, 187–95.
+* –––, 1993b, “Subjectivity and the Irreducible in the Human Being,” Theresa Sandok (trans.), in *Person and Community: Selected Essays* (*Catholic Thought from Lublin*: Volume 4), Andrew N. Woznicki (ed.), New York: Peter Lang, 209–17.
+* –––, 1993c, “Thomistic Personalism,” Theresa Sandok (trans.), in *Person and Community: Selected Essays* (*Catholic Thought from Lublin*: Volume 4), Andrew N. Woznicki (ed.), New York: Peter Lang, 165–75.
+
+### Secondary Literature
+
+* Balthasar, Hans Urs von, 1986, “On the Concept of Person,” trans. Peter Verhalen, *Communio: International Catholic Review*, 13 (Spring): 18–26.
+* Beabout, Gregory R., Ricardo F. Crespo, Stephen J. Grabill, Kim Paffenroth, and Kyle Swann, 2001, *Beyond Self-Interest: A Personalist Approach to Human Action*, Lanham, MD: Lexington Books.
+* Beauregard, James, Giusy Gallo, Claudia Stancati (eds.), 2020, *The Person at the Crossroads: A Philosophical Approach*, Wilmington, DE: Vernon Press.
+* Bengtsson, Jan Olof, 2006, *The Worldview of Personalism: Origins and Early Development*, Oxford: Oxford University Press.
+* Berti, Enrico, *et al*., 1992, *Persona e personalismo. Aspetti filosofici e teologici*, Progetti 3. Padova: Editrice Gregoriana.
+* Buford, Thomas O. and Harry H. Oliver (eds), 2002, *Personalism Revisited: Its Proponents and Critics*, Amsterdam and New York: Editions Rodopi.
+* Burgos, Juan Manuel, 2000, *El personalismo*, Madrid: Ediciones Palabra.
+* –––, 2018, *An Introduction to Personalism*. Washington, D.C.: The Catholic University of America Press.
+* Burrow, Rufus, 1999, *Personalism: A Critical Introduction*, St. Louis, MO: Chalice Press.
+* Calcagno, Anthony, 2007, *The Philosophy of Edith Stein*, Pittsburgh: Duquesne University Press.
+* Calcagno, Anthony (ed.), 2016, *Edith Stein: Woman, Social-Political Philosophy, Theology, Metaphysics and Public History*, Dordrecht: Springer.
+* Cañas Fernández, José Luis, 2001, *¿Renacimiento del Personalismo?*, Madrid: Universidad Complutense.
+* Carr, David, 1999, *The Paradox of Subjectivity: The Self in the Transcendental Tradition*, Oxford: Oxford University Press.
+* Cowburn, John, 2005, *Personalism and Scholasticism*, Milwaukee: Marquette University Press.
+* Crosby, John F., 2004, *Personalist Papers*, Washington, D.C.: Catholic University of America Press.
+* –––, 1996, *The Selfhood of the Human Person*. Washington, D.C.: The Catholic University of America Press.
+* –––, 2014, *The Personalism of John Henry Newman*. Washington, D.C.: The Catholic University of America Press.
+* Deats, Paul, and Carol Robb, 1986, *The Boston Personalist Tradition in Philosophy, Social Ethics and Theology*, Macon, GA: Mercer University Press.
+* Evans, Joseph W., 1952, “Jacques Maritain’s Personalism,” *The Review of Politics*, 14 (2): 166–177.
+* Gacka, Bogumił, 1994, *Bibliography of American Personalism*. Lublin: Oficyna Wydawnicza “Czas”.
+* –––, 1999, *Bibliography of The Personalist*, Lublin: Oficyna Wydawnicza Czas.
+* Galeazzi, Giancarlo, 1998, *Personalismo*, Milano: Editrice Bibliografica.
+* Goto, Hiroshi, 2004, *Der Begriff der Person in der Phänomenologie Edmund Husserl*, Würzburg: Köninhausen & Neumann.
+* Häring, Bernhard, 1968, *Personalismus in Philosophie und Theologie*, Munich: Wewel.
+* Lacroix, Jean, 1972, *Le personalisme comme anti-idéologie*, Paris: Presses Universitaires de France.
+* Lebech, Mette, 2015, *The Philosophy of Edith Stein: From Phenomenology to Metaphysics*, Bern: Peter Lang.
+* Liebman, Charles S. and Stephen M. Cohen, 1990, *Two Worlds of Judaism: The Israeli and American Experiences*, New Haven: Yale University Press.
+* Luft, Sebastian, 2011, *Subjectivity and Lifeworld in Transcendental Phenomenology*, Evanston: Northwestern University Press.
+* Moran, Dermot, 2009, “The Phenomenology of Personhood: Charles Taylor and Edmund Husserl,” in *Colloquium* 3 (1): 80–104.
+* Ricoeur, Paul, 1990, *Soi-même comme un autre*, Paris: Seuil.
+* Rigobello, Armando, 1978, *Il Personalismo*, Rome: Città Nuova.
+* Rigobello Armando, 1958, *Introduzione a una logica del personalismo*, Padova: Liviana.
+* Spader, Peter H., 2002, *Scheler’s Ethical Personalism. Its Logic, Development, and Promise*, New York: Fordham University Press.
+* Snead, O. Carter, 2020, *What It Means to Be Human: The Case for the Body in Public Bioethics*, Cambridge, MA: Harvard University Press.
+* Spaemann, Robert, 1996, *Personen: Versuche über den Unterschied zwischen ‘etwas’ und ‘jemand’*, Stuttgart: Klett-Cotta. (See especially chapter 18 entitled “Sind alle Menschen Personen?”: 252–64.)
+* Waldschütz, Erwin, 1993, “Was ist ‘Personalismus’?,” *Die Presse*, *Spectrum*, December 24, XII.
+* Waldstein, Michael, 2006, *Man and Woman He Created Them: A Theology of the Body*, Boston: Pauline Books & Media.
+* Werkmeister, William H., 1949, “The Personalism of Bowne,” in *A History of Philosophical Ideas in America*, New York: Ronald Press, 103–121.
+* Williams, Thomas D., 2005, *Who Is My Neighbor? Personalism and the Foundations of Human Rights*, Washington, D.C.: The Catholic University of America Press.
+* –––, 2004, “What is Thomistic Personalism?,” *Alpha Omega*, 7(2): 163–197.
+* Yannaras, Christos, 1987 [2007], *To prosopo kai o eros*, (*Person and Eros*), Norman Russell (trans.), Brookline, MA: Holy Cross Orthodox Press.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=personalism). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/personalism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=personalism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/personalism/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+### Online books
+
+* Bowne, Borden Parker, [*Personalism*](http://www.archive.org/stream/personalism00bownuoft#page/n1/mode/2up).
+* Buford, Thomas O. and Harold H. Oliver, [*Personalism Revisited: Its Proponents and Critics*](http://books.google.it/books?id=w8C6MsXnmM8C&printsec=frontcover&hl=en&source=gbs_v2_summary_r&cad=0#v=onepage&q=&f=false).
+* Burrow, Rufus Jr., [*Personalism: A Critical Introduction*](http://books.google.com/books?id=QZ26UpzbcrgC&pg=PP1&dq=personalism&ei=I23gSuSmEpK0NoCCyaEC#v=onepage&q=&f=false).
+* Chazarreta Rourke, Rosita A., [*A Theory of Personalism*](http://books.google.com/books?id=KHOsv-sPDQ8C&printsec=frontcover&source=gbs_v2_summary_r&cad=0#v=onepage&q=&f=false).
+* McLean, George F. (ed.), [*Personalist Ethics and Human Subjectivity*](http://books.google.com/books?id=VJg6QsO3KXgC&printsec=frontcover&source=gbs_v2_summary_r&cad=0#v=onepage&q=&f=false).
+* Williams, Thomas D., [*Who Is My Neighbor? Personalism and the Foundations of Human Rights*](http://books.google.it/books?id=ldVpoPNxIEQC&pg=PA105&dq=thomistic+personalism&hl=en&sa=X&ei=03ybUerzIofLOOfxgOAD&ved=0CDEQ6AEwAA#v=onepage&q&f=false).
+
+### Online articles
+
+* Berdyaev, N.A., [Personalism and Marxism](https://web.archive.org/web/20221014000501/http://www.berdyaev.com/berdiaev/berd_lib/1935_400.html), manuscript.
+* Buford, Thomas O., [Personalism](http://www.american-philosophy.org/events/documents/Buford_Personalism.pdf), manuscript in PDF.
+* Cole, Graham and Michael Schluter, [From Personalism to Relationism: Commonalities and Distinctives](http://www.jubilee-centre.org/personalism-relationism-commonalities-distinctives-g-cole-m-schluter/), manuscript in PDF.
+* DeMarco, Donald, [The Christian Personalism of Jacques Maritain](http://www.ewtn.com/library/THEOLOGY/FR91201.HTM), manuscript.
+* [Personalism](http://www.britannica.com/EBchecked/topic/452990/personalism), entry in the *Encyclopædia Britannica Online*.
+* [Personalism](http://www.iep.utm.edu/personal/), entry by Thomas Buford, in the *Internet Encyclopedia of Philosophy*.
+* De Tavernier, Johan, [The Historical Roots of Personalism](http://www.ethical-perspectives.be/viewpic.php?LAN=E&TABLE=EP&ID=1208), paper (PDF) in *Ethical Perspectives*, 16(3) (2009): 361–392.
+* Williams, Thomas D., [What Is Thomistic Personalism?](https://pdfs.semanticscholar.org/9ac5/c203acaabbaf9e3f438fa8490a653fbdc54f.pdf?_ga=2.189116331.1222629154.1570032856-1204823184.1570032856), paper (PDF) in *Alpha Omega*, VII/2 (2004): 163–197.
+
+## Related Entries
+
+[Buber, Martin](https://plato.stanford.edu/entries/buber/) | [communitarianism](https://plato.stanford.edu/entries/communitarianism/) | [determinism: causal](https://plato.stanford.edu/entries/determinism-causal/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Hartshorne, Charles](https://plato.stanford.edu/entries/hartshorne/) | [idealism](https://plato.stanford.edu/entries/idealism/) | [individualism, methodological](https://plato.stanford.edu/entries/methodological-individualism/) | [Ingarden, Roman](https://plato.stanford.edu/entries/ingarden/) | [James, William](https://plato.stanford.edu/entries/james/) | [Lotze, Hermann](https://plato.stanford.edu/entries/hermann-lotze/) | [Marcel, Gabriel (-Honoré)](https://plato.stanford.edu/entries/marcel/) | [Maritain, Jacques](https://plato.stanford.edu/entries/maritain/) | Muhammad Iqbal | [personal identity](https://plato.stanford.edu/entries/identity-personal/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Ricoeur, Paul](https://plato.stanford.edu/entries/ricoeur/) | [Royce, Josiah](https://plato.stanford.edu/entries/royce/) | [self-consciousness](https://plato.stanford.edu/entries/self-consciousness/) | [self-consciousness: phenomenological approaches to](https://plato.stanford.edu/entries/self-consciousness-phenomenological/)
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+Thomas D. Williams <[*tdw2000@gmail.com*](mailto:tdw2000%40gmail%2ecom)>  
+[Jan Olof Bengtsson](https://janolofbengtsson.com/publications/) <[*janolof.bengtsson@outlook.com*](mailto:janolof%2ebengtsson%40outlook%2ecom)>
