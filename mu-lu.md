@@ -977,7 +977,7 @@
 * [\*形式主义 formalism](f/xing-shi-zhu-yi-formalism/)
   * [\*数学哲学——见数学哲学：数学哲学中的形式主义 in the philosophy of mathematics — see mathematics, philosophy of: formalism](f/xing-shi-zhu-yi-formalism/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-xing-shi-zhu-yi-in-the-philosophy-of-m.md)
 * [\*信念的形式化表述——见信念的形式表述 formal representations of belief — see belief, formal representations of](f/xin-nian-de-xing-shi-hua-biao-shu-jian-xin-nian-de-xing-shi-biao-shu-formal-representations-of-belie.md)
-* [\*理念（柏拉图）——见柏拉图：柏拉图的中期形而上学和认识论 Forms \[Platonic\] — see Plato: middle period metaphysics and epistemology](f/li-nian-bai-la-tu-jian-bai-la-tu-bai-la-tu-de-zhong-qi-xing-er-shang-xue-he-ren-shi-lun-forms-platon.md)
+* [\*理念（柏拉图）——见柏拉图：柏拉图的中期形而上学和认识论 Forms \[Platonic\] — see Plato: middle period metaphysics and epistemology](f/xing-shi-bai-la-tu-jian-bai-la-tu-bai-la-tu-de-zhong-qi-xing-er-shang-xue-he-ren-shi-lun-forms-plato.md)
 * [形式与质料 form vs. matter (Thomas Ainsworth)](f/xing-shi-yu-zhi-liao-form-vs.-matter-thomas-ainsworth.md)
 * [米歇尔·福柯 Foucault, Michel (Gary Gutting and Johanna Oksala)](f/mi-xie-er-fu-ke-foucault-michel-gary-gutting-and-johanna-oksala.md)
 * [\*四维主义——见时间部分 four dimensionalism — see temporal parts](f/si-wei-zhu-yi-jian-shi-jian-bu-fen-four-dimensionalism-see-temporal-parts.md)
