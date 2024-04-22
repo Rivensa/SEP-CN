@@ -1,2 +1,274 @@
 # 普罗塔戈拉 Protagoras (Mauro Bonazzi)
 
+*首次发表于2020年9月8日*
+
+普罗塔戈拉（公元前 490-420 年左右）是最重要的诡辩家之一，在五世纪的知识辩论中产生了重大影响。他的教学目标实际而具体，许多现存的证言和碎片表明，他的教学主要致力于辩论技巧的发展。但他的一些观点也引发了重要的哲学问题，这些问题将由柏拉图、亚里士多德和许多其他哲学家进行详细讨论。他著名的论点“人是万物的尺度”被解释为对相对主义的首次立场，他对神的主张引入了不可知论的问题。此外，他对正义的传统观念的约定论性质标志着与神圣正义的传统解释的分道扬镳；正如有人正确地指出的那样，它似乎也为基于直接参与的民主提供了理论基础。通过声称与过去伟大的诗人和思想家直接联系，但同时又占有并改变他们的原则，普罗塔戈拉将自己呈现为希腊教育的继承者，作为伟大的导师，或者更好地说，作为能够传授适应城邦新世界需求的教育者。
+
+* [1. 生平与作品](https://plato.stanford.edu/entries/protagoras/#LifeWork)
+
+  * [ 1.1 生平](https://plato.stanford.edu/entries/protagoras/#Life)
+  * [ 1.2 作品](https://plato.stanford.edu/entries/protagoras/#Work)
+* [2. “人是尺度”论题](https://plato.stanford.edu/entries/protagoras/#ManMeasThes)
+
+  * [2.1 “万物的尺度是人”：认识论解释](https://plato.stanford.edu/entries/protagoras/#AllThinMeasManEpisInte)
+  * [2.2 异议和实际解释](https://plato.stanford.edu/entries/protagoras/#ObjePracInte)
+* [3. 普罗塔戈拉关于语言](https://plato.stanford.edu/entries/protagoras/#ProtLang)
+
+  * [3.1 普罗塔戈拉的语法兴趣](https://plato.stanford.edu/entries/protagoras/#ProtGramInte)
+  * [3.2 普罗塔戈拉关于正确性（orthotes）](https://plato.stanford.edu/entries/protagoras/#ProtCorrOrth)
+* [4. 普罗塔戈拉关于神的观点](https://plato.stanford.edu/entries/protagoras/#ProtGods)
+* [5. 普罗塔戈拉的政治思想](https://plato.stanford.edu/entries/protagoras/#ProtPoliThou)
+
+  * [5.1 “普罗塔戈拉”的神话](https://plato.stanford.edu/entries/protagoras/#MythProt)
+  * [5.2 普罗塔戈拉对技艺的看法](https://plato.stanford.edu/entries/protagoras/#ProtTech)
+  * [5.3 普罗塔戈拉对正义和法律的看法](https://plato.stanford.edu/entries/protagoras/#ProtJustLaw)
+  * [5.4 普罗塔戈拉对民主的看法](https://plato.stanford.edu/entries/protagoras/#ProtDemo)
+* [ 参考书目](https://plato.stanford.edu/entries/protagoras/#Bib)
+
+  * [版本和翻译](https://plato.stanford.edu/entries/protagoras/#EditTran)
+  * [ 其他古典来源](https://plato.stanford.edu/entries/protagoras/#OtheClasSour)
+  * [ 二级来源](https://plato.stanford.edu/entries/protagoras/#SecoSour)
+* [ 学术工具](https://plato.stanford.edu/entries/protagoras/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/protagoras/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/protagoras/#Rel)
+
+---
+
+## 1. 生平与作品
+
+### 1.1 生活
+
+我们对普罗塔戈拉的生活了解不多，对他的死亡了解更少：作为最著名的诡辩家，他成为了许多不可靠的轶事的对象。他出生在爱琴海北岸的色雷斯的阿布德拉。在柏拉图的《普罗塔戈拉》（317c）中，他说他已经够老了，可以是在场任何人的父亲，包括希庇亚斯和普罗迪库斯。这证实了他是最早的诡辩家之一，并暗示他的出生年份是公元前 490 年左右。根据狄奥根尼斯·拉尔提乌斯（IX.53）的轶事，他曾是一个搬运工，直到德谟克利特教他。德谟克利特也来自阿布德拉，但比普罗塔戈拉年轻约三十岁，并批评普罗塔戈拉的“人是尺度”（见下文）的论点是自相矛盾的。因此，普罗塔戈拉很可能不是他的学生之一。这个轶事可能源自一些喜剧诗人（如尤波利斯或赫米普斯），因为他们的认识论理论可能存在联系，也用来指出普罗塔戈拉的卑微出身；菲洛斯特拉图斯（《诡辩家列传》I.10.1-2）关于他的家人在波斯战争期间招待泽克西斯的另一份证词则持相反观点。这份证词还报道了泽克西斯授予普罗塔戈拉的家人罕见的特权，即让他们的儿子普罗塔戈拉由魔法师教育（这个轶事也被用来解释他的不可知论，好像希腊人不可能支持类似的观点，见下文）。即使我们将这个故事视为伪造的，它似乎仍然证实了普罗塔戈拉与爱奥尼亚殖民地和近东文化之间的联系，正如柏拉图反复报道的那样，他后来作为一名教师和“诡辩家”在希腊各地旅行（最重要的是，根据柏拉图的说法，他是第一个明确自称为诡辩家的人，普罗塔戈拉 316c-317b），赢得了巨大的声誉并积累了可观的财富。 同样可以确定的是，普罗塔戈拉在伯里克利斯时代至少两次在雅典逗留，并与他建立了个人联系。更难确定的是，这些联系是否也导致了他直接参与伟大政治家的民主政治。这方面的证据显然不仅来自一些索菲斯特的残片，还来自于公元前444年，伯里克利斯委托他起草新的泛希腊殖民地图里的宪法（这样的任命显然意味着两人有着相同的政治观点）。普罗塔戈拉与伯里克利斯的联系也可以通过普罗塔戈拉生命的最后几年所发生的动荡来证实：伯里克利斯政治的危机似乎在普罗塔戈拉的垮台中找到了对应，他像其他与这位政治家亲近的人一样被审判。同样地，索菲斯特在逃亡途中遇难的说法也是非常值得怀疑的。首先，他受审的事实似乎也得到了其他来源的证实；但这些来源（尤其是亚里士多德，参见《伯里克利斯传》第九章第54节）似乎并未将审判与政治问题联系起来（事实上，伯里克利斯实际上将审判与亵渎罪指控联系在一起，这可以解释关于船难的故事是神罚）；争议的焦点实际上是与一名学生的争论。此外，也不能排除与学生的审判可能是虚构的可能性。其次，关于在雅典受审和逃亡的故事与柏拉图在他的对话中所写的不同，他在对普罗塔戈拉的描述中，将其描绘为一个备受尊敬的老年人物。根据柏拉图的记载，我们知道普罗塔戈拉大约活了70年（《梅诺篇》91e；其他来源称为90年），这将把他的死亡时间定在公元前420年左右。普罗塔戈拉的学生包括门德的安蒂默洛斯、雅典的卡米达斯和欧阿特洛斯，以及塞伦的西奥多。 普罗塔戈拉的影响也被认为与普罗迪库斯和 Dissoi Logoi 有关，尽管很难衡量其影响的程度。
+
+### 1.2 作品
+
+迪奥根尼斯·拉尔修斯（IX 55 = 80A1 DK）将许多作品归功于普罗塔戈拉，但与其他来源的比较表明，他的列表是不完整的。更糟糕的是，迪奥根尼斯的列表中缺少的正是最重要和有争议的作品，例如《真理》和《论神》。一个可能的解释是，这两个文本构成了 Antilogiae（反对论，迪奥根尼斯提到过）的个别部分，这些部分可能也被称为 Kataballontes logoi（推翻论据，或者更好的是击倒论据；在 M VII 60 Sextus Empiricus 将“人是尺度”这句话归功于这个文本，其他来源则提到了《真理》；参见 Decleva Caizzi 1999: 317；Lee 2005: 24–29）。虽然这个假设很有趣，但很难证明。标题表明 Antilogiai 是建立在某种对立之上的（与 Dissoi logoi 有趣的类似之处）；但是从《真理》和《论神》的残片中没有发现对立的迹象。同样，由于可用的碎片很少，任何重建的尝试都注定是推测性的。其他标题，如《争论艺术》、《摔跤论》、《科学论》、《爱荣誉论》、《宪法论》显示了普罗塔戈拉广泛的兴趣。
+
+除了这些标题之外，不幸的是，我们所拥有的只有一些（迪尔斯-克兰兹版中不到十个）真实的碎片和许多解释。自古以来，他引人注目的论点引起了读者的兴趣和批评。因此，我们可以找到不同的他思想的重建，这些重建并不总是可靠的，往往明显受到贬低意图的影响。第一个也是最重要的传统可以追溯到柏拉图，他专门为这位阿布德拉的辩士的论点写了两个对话，即《普罗塔戈拉》和《泰阿泰德》。许多后来的证言，从亚里士多德开始，似乎都依赖于柏拉图的讨论，我们在审查来自我们的来源的信息时必须考虑到这一点。除了柏拉图的传统之外，另一个传统在古代也相当有影响力，即强调普罗塔戈拉思想的怀疑主义含义的传统（最有趣的证言，不在 DK 中，来自盲人狄迪摩斯的《诗篇注释》，见 PToura V 222.18-29；这个证言在 DK 中没有，可以在 Laks 和 Most 2016 年的最新版本中阅读，卷 VIII.1，109-111）。然而，关于这种解释的了解很少，因为怀疑论者如塞克斯都斯·恩皮里库斯明确拒绝与普罗塔戈拉联系在一起，他们认为普罗塔戈拉是一位教条主义者。这种阅读无疑是出于争论的目的。另一个对普罗塔戈拉敌对的传统，可能与怀疑主义解释有关，是伊壁鸠鲁主义传统，它强调普罗塔戈拉与德谟克利特之间的联系，基于他们的认识论——很可能是一个没有根据的想法。总的来说，我们必须注意到，我们对普罗塔戈拉的许多（如果不是全部）证言都受到某种潜在争论态度的影响，在某些情况下，这些态度导致对他的思想的实际扭曲。
+
+## 2. “人是尺度”论
+
+在柏拉图的普罗塔戈拉斯中，普罗塔戈拉斯声称他教授良好的思考：
+
+> 我的教导对象是关于家务事的良好思考，知道如何以最佳方式管理自己的家庭，以及关于城市的事务，以便能够在城市的利益上最有能力地行动和发言。（318e–319a = 80A5 DK）
+
+普罗塔戈拉斯的教学目标是实际而具体的，许多现存的证言和碎片表明，它主要致力于辩论技巧的发展（这些技巧可能在《反对论》和《争辩术》等文本中进行研究）。不幸的是，我们很少有关于这些技巧的实际内容的证据。很可能，像每个问题都有两个相互对立的言辞（80A1，B6a DK）或者不可能自相矛盾（80A19 DK）这样的断言，以及使较弱的言辞（the）变得更强大的主张（80B6b DK），都属于这个背景。他的教学也部分涉及语法或语言问题和诗歌分析。更一般地说，他的教学与他著名的“人是万物的尺度”的相对主义观点之间的关系也不清楚。古代资料报道说，这句话是他向公众和潜在学生展示自己的公开演讲（epideixis）的开场白。
+
+### 2.1 “凡事的尺度是人”: 认识论解释
+
+真理是普罗塔戈拉最著名的著作之一。古代的著作并不一定是由作者给予标题的；但柏拉图和亚里士多德不断地提到普罗塔戈拉的著作为 Aletheia，并且还开过玩笑，证实普罗塔戈拉本人给予了这个标题。在前苏格拉底哲学家中，“真理”的概念起着重要的作用：通过选择这个标题，普罗塔戈拉显然想要将自己呈现为这个历史悠久的传统的继承者；并且通过质疑单一真理的存在，正如我们将看到的，他试图挑战它。论文的第一句话完全证实了作者的挑衅意图：“凡事的尺度是人：对于那些存在的事物，它们存在；对于那些不存在的事物，它们不存在”（80B1 DK；为了方便起见，这句话将被缩写为 MM）。MM 是为数不多的被保留下来的普罗塔戈拉真迹之一，许多古代资料证实这个陈述最初确实以这些术语来表达。然而，问题在于它的模糊性：古代读者争论普罗塔戈拉真正的意思，而现代解释只增加了怀疑。事实上，不能排除一定程度的模糊性是有意的。真理不是一本科学论文，而是一种演示，一种公开表演的文本，旨在“展示自己在论证方面的高超技巧”（Lee 2005: 27，引自 Lloyd 1987: 96）。在开场白中，普罗塔戈拉试图通过提出引人注目且暗示性的主张来吸引他的听众（或读者）的注意力。所有这些都没有什么奇怪的，因为吸引听众的注意力的愿望是雄辩家中相当典型的，这也得到了许多其他资料的证实（介绍关于神的论文的句子同样具有挑衅性，见§4）。
+
+这并不意味着 MM 没有具体的含义。只是处理潜在模糊的元素的问题。特别是需要澄清人的概念，即“人”是指每个个体还是整个人类：在讨论这个问题时，构成句子的其他术语的含义也会变得更清晰。反过来，这将帮助我们评估普罗塔戈拉论文的潜在含义及其适用范围，以确定它是否仅仅是一个认识论的论点，还是是否还具有实际或政治意义。事实证明，这个句子可以从不同的层次来阅读，符合古老的逻辑，即不需要明确区分术语所具有的不同含义。
+
+MM 有三个主要来源：柏拉图，我们最重要的来源，亚里士多德和塞克斯特斯·恩皮里库斯。这三个人都将这个短语理解为“人”指的是“每个个体”。在《泰阿泰德》中，MM 被等同于“知识是感觉”的主张，并被解释如下：“正如每个事物对我来说是什么样子，对我来说也是这样，正如它对你来说是什么样子，对你来说也是这样”（《泰阿泰德》152a）。因此，如果风对我来说感觉温暖，那对我来说就是温暖的；如果对另一个人来说感觉冷，那对她来说就是冷的。换句话说，MM 意味着每个人都是自己感觉的尺度，普罗塔戈拉成为支持以感觉数据为基础的经验主义理论的人。
+
+柏拉图的证词至关重要，其他作者也采用了他的重建（参见80A16 DK和80B1 DK）。然而，这是一种可能误导的简化解释。《泰阿泰德》的基本目的不是准确报告柏拉图对手的论点，而是展示它们的哲学限制：根据柏拉图的观点，MM论点是混乱的；使其清晰的唯一方法是假设普罗塔戈拉斯只是在谈论感觉；而且（根据柏拉图的观点），仅仅依靠感觉无法建立知识，因此这个论点是错误的。这种严格的经验主义解读在哲学上很有趣，但在历史上并不可靠，因为普罗塔戈拉斯并不只是在谈论感觉。值得注意的是，柏拉图本人暗示普罗塔戈拉斯的说法具有更广泛的意义，他提到MM也涉及到所有观点和判断（157d，170a-171a）。亚里士多德和塞克斯特斯·恩皮里库斯进一步证实了对更广泛解释的需求：所涉及的不仅仅是感觉，而是更普遍的所有观点和判断（尤其是价值判断）。根据这种解释，MM意味着每个人都是自己所有判断的最终裁决者，不仅仅是风是温暖还是寒冷，还包括执行某个行动是对还是错。[1]
+
+刚才提到的观点对于正确重建普罗塔戈拉斯立场的整体意义至关重要。对人类活动（不仅仅是感知，而是整体的人类判断）的更广泛概念的转变揭示了学者们经常忽视的一个方面。从风的例子来看，普罗塔戈拉斯似乎在以抽象的方式探讨人类知识的问题，通过研究知识获取过程中普遍发生的方式，换句话说，通过调查在给定时刻t经历感觉f的主体X会发生什么（让我们想象一下风的例子）。这是不正确的。当然，普罗塔戈拉斯的论点与人类知识有关。然而，它并不是以“抽象”的方式关注它，好像人们可以从外部刺激他们以研究他们在特定时刻和特定情况下的反应。这种方法在风的情况下可能有效，但在关于是非善恶的判断中则不然。“人”指的是个体，而不是泛指的、无个性的主体：普罗塔戈拉斯心中有具体的、历史上明确定义的人，他们有自己的思想和偏见。因此，“人”所指的是每个人，他们都有自己的个人历史、经验和期望，有过去和未来，即人们的判断在很大程度上反映了他们的个人经验。当我声称某件事或行为是好的（或美的或不公正的）时，我是基于我一生中获得的一系列思想和观点，并通过与事实的接触不断进行验证，换句话说，基于我的经验，这与其他人的经验不同。因此，真正的衡量标准不是抽象意义上的人，而是每个人的经验（Mansfeld 1981: 44–46）。 显然，这种说法对于所谓的“真理大师”也带有争论的意味，即像巴门尼德（参见 80B2 DK）这样的哲学家，对于“人”和“观点”这样的术语，他们等同于错误，以及声称自己受到神灵启示的诗人们。没有对任何神圣或更高层次现实的特权访问。普罗塔戈拉斯的陈述的最终目的是重新评估人类的经验。
+
+在澄清了“人”的含义之后，我们现在可以转而考虑短语的第二部分：“存在的事物是存在的，不存在的事物是不存在的”。本质上，这是澄清“事物”意味着什么以及人以何种方式“衡量”它们的问题。根据迄今为止所注意到的内容，我们可以合理地认为，普罗塔戈拉斯所指的“事物”不仅仅是具有特定属性的物质对象和实体（可以被感官感知的事物，如风）：“事物”应该在最广泛的意义上理解为事实或事件，例如风的温度，以及执行某个动作和发生在人身上的一切。在这方面，术语的选择可能是有启示性的。Chrema 源自动词 chraomai，意为“对待”，“使用”，“与之有关系”：根据其最初的含义，该术语描述的不是事物本身（在这种情况下，普罗塔戈拉斯可以使用 onta 或 pragmata），而是与我们有关的事物；重点在于我们与事物的关系方式，使用它们，判断它们等等。至于衡量的概念，显然，人是衡量这些事物和事实存在的方式，而不是它们的存在本身（例如，温暖/寒冷或好/坏）。 动词“是”必须不是以存在的意义来理解（否则很难理解人类如何成为那些不存在的事物的度量），而是以一种模态-谓词的意义来理解：普罗塔戈拉并不否认外部世界的存在，而只是将我们对其认识的可能性限制在它如何呈现给我们的经验方式上：因此，如果我判断风是温暖的，那么我就是它温暖的事实的度量者，而不是它存在的事实的度量者；如果我判断风不温暖，那么我就是它不温暖的事实的度量者，而不是它不存在的事实的度量者（但这并不排除一些特定情况，我也可以是存在或不存在的度量者，例如神：有趣的是，关于神的第 4 段开头似乎具有存在的含义，请参见下文第 4 节）。事物本身并没有任何预先确定的真理或内在价值：它们只是存在，它们是环绕人类的东西，是发生在人类身上的事情。但重要的是我们如何与它们相互关联：根据个人的经验，每个人都是这些事实的判断者，因为他们给予它们一定的一致性或价值程度。
+
+### 2.2 反对意见和实际解释
+
+MM面临两个严重的反对意见：自我矛盾的指控和唯我论的指控。自我矛盾的指控（或者古人称之为peritrope：字面上是指自己颠倒的指控）显然是由德谟克利特（80A15 DK）首次提出的，然后由柏拉图（在《泰阿泰德》和《尤西德莫斯》中）和亚里士多德（在《形而上学》第四卷中）进一步发展。简而言之，这个指控声称，如果所有的判断都是真实的（这是MM的隐含意思），那么判断MM是错误的也是真实的；因此，MM是错误的。据报道，普罗塔戈拉进一步声称“不可能有矛盾”（80A19 DK），这导致柏拉图和尤其是亚里士多德（Met. IV 5, 1009a6–16）补充说，这位诡辩家否认了非矛盾原则，提出了另一种版本的peritrope指控：普罗塔戈拉声称所有的判断都是真实的（让我们称之为P），而他的对手声称普罗塔戈拉的主张是错误的（非P）；但根据普罗塔戈拉的观点，矛盾是不可能的，因此非P与P是相容的；但在这种情况下，非P是真实的；因此，P是错误的（Barnes 1979: 548）。
+
+这种批评的正确性一直是学术界激烈辩论的对象，但至今尚未达成共识（参见Castagnoli 2010）。一种绝对真理主义的解释，即所有信念都是绝对真实的（参见泰阿泰德161d6-7，167a7-8；亚里士多德，《形而上学》IV 5，1009a7-8），显然会因上述原因而导致普罗塔戈拉的反驳。但普罗塔戈拉仍然可以通过支持某种相对主义来为自己辩护，即一切都是相对于某种框架而言的，而不是绝对真实的。事实上，这种批评忽略了“对我来说”和“对你来说”这两个限定词，而这些限定词对他的论点至关重要（泰阿泰德161d2-3；亚里士多德，《形而上学》IV 6，1011a19-20；塞克斯特斯·恩皮里科斯，M VII 60）。通过引入这些限定词，普罗塔戈拉可以重新阐述转向的指控，以中和它：如果我所判断的是真实的，并且我判断普罗塔戈拉的论点是错误的，那么并不意味着普罗塔戈拉的论点在绝对意义上是错误的，而只是在“对我来说”是错误的。而它对其他人来说仍然是真实的：例如，对于普罗塔戈拉来说，它仍然是真实的，因此他可以避免被指责为颠倒了自己（以及否认了非矛盾原则；然而可以争论的是，当普罗塔戈拉的对手判断普罗塔戈拉的论点是错误的时候，她依然依赖于普罗塔戈拉的论点，同时又否认了它）。
+
+然而，这种防御策略可能会面临更严重的唯我论指责。这种风险在前述的“不可能相互矛盾”（80A19 DK）的论点中显而易见。这个问题中的论点与MM完全兼容。如果每个人都是自己感知和判断世界的尺度，那么矛盾只能是表面的：每个人与事物之间存在一种关系，其真实性和现实性不会被他人所否认或争议。但是，如果每个人都是正确的，我们如何处理这些分歧和对立呢？如果事情就是这样，那么接下来就是一种根本（且无法容忍）的唯我论形式，即每个人都是自己的裁判，这使得与他人讨论事物变得不可能（此外，普罗塔戈拉的教导也变得无用）。为了捍卫其教义的一致性，普罗塔戈拉必须付出过高的代价（Woodruff 1999: 303）。
+
+在这种情况下，普罗塔戈拉也有一些论据支持他。直到这一点，讨论一直集中在“真理”问题上，这个概念的重要性几乎无法争议。然而，无论它有多么核心，真理并不是唯一支配人类思想和行动的标准。正如辩士在所谓的“普罗塔戈拉的辩护”中所争辩的那样（166a–168c = 80A21a DK；泰阿泰德发生在公元前 399 年，苏格拉底审判的那一年，普罗塔戈拉已经去世；这是普罗塔戈拉在对话中可能会给苏格拉底的回答：它不是一个片段，但它可能传达了他的一些观点）。在他虚构的回答中，普罗塔戈拉区分了知识和智慧（sophia）。与知识和真理不同，智慧是多样的。从知识和真理的角度来看，每个个体都是一个度量标准，每个人是一个度量标准的事实取决于他或她与所经历的现实的关系-这是一个事实。但从智慧内容的价值观点来看，不能排除一些人能够让个体与现实建立更为方便的关系。
+
+> 至于智慧（sophia）和智者（sophos），我绝不会说它们不存在；但我也称那个通过改变事物使它们看起来好并对某些人来说是好的人为聪明人，而对那些事物看起来不好并且是坏的人来说是好的。（泰阿泰德 166d = 80A21a DK）
+
+普罗塔戈拉的目标不仅仅是废除真理的概念，而是将其打碎成无数个私人真理；他的目标是用另一个更有效的标准来取而代之，即有用性。通过思考有用性的问题，辩士在尊重每个人的观点的同时展示了他的智慧。有用性因情况而异，问题在于确定在每种情况下什么是真正有利的。
+
+总的来说，很难明确阐述关于普罗塔戈拉的全面而一致的解释。证词很少，基本上依赖于柏拉图，尽管柏拉图认为普罗塔戈拉是一个值得对话的人，但他对于呈现他的思想并不感兴趣，而是批评它。在对话的第一部分中，普罗塔戈拉被描述为支持某种相对主义，而在《辩护》中，重点是某种多元主义，这在普罗塔戈拉的一段话中得到了进一步的证实，其中论证了有用的多样性不仅仅取决于一个人主观上认为好或坏的东西，而是取决于现实的多样性（Guthrie 1971: 164–175; Apfel 2011）。相对主义的问题在现代学者中引发了广泛的讨论（在开创性的 Burnyeat 1976 之后）；但正确地质疑了严格采用这一范畴是否真的有助于更好地理解这位智者（Bett 1989）。相反，多元主义的解释使我们能够强调普罗塔戈拉教学的实践维度，这显然是重要的，并解释了为什么可以将 MM 与他的教学活动相结合。正如已经指出的，MM 是一篇演讲的开场白：一方面，它通过重新评估个人观点和经验来挑战传统智慧和认识权威；另一方面，它还论证了实践和具体专业知识的重要性。事实上，这是他活动的出色展示和广告。
+
+## 3. 普罗塔戈拉关于语言的观点
+
+### 3.1 普罗塔戈拉的语法兴趣
+
+有几份证词报告了普罗塔戈拉对形态、句法和文体问题的兴趣。显然，他是第一个区分名词性别（阳性、阴性和中性）的人，同时还对当时使用的名字提出了许多修正意见。因此，他建议将女性名词menis（“愤怒”，“狂热”）和pelex（“头盔”）视为阳性，这两个词对荷马的听众来说很熟悉。他的建议基于形态标准（因为以sigma [ς]或xi [ξ]结尾的名字通常是阳性）或者基于它们的含义（因为战争是极具阳性特征的追求：见80A27-8 DK）。普罗塔戈拉还区分了四种动词语气（陈述、虚拟、愿望和祈使），将其与四种言语类型（祈祷、问题、回答和命令）联系起来，再次提到了荷马，他用命令的方式（“歌唱吧，女神，愤怒之事”）而不是祈祷的方式（80A29 DK）向女神致辞。最后，迪奥根尼斯·拉尔提乌斯（IX 52 = 80A1 DK）似乎告诉我们普罗塔戈拉对动词时态的兴趣（但这一点存在争议）。总的来说，这些语法思考假设了一种“基础”（Rademaker 2013: 86）的语言理论，不仅限于名字，而是从其潜在结构和与术语不同功能相关的联系的角度进行研究。
+
+这种对语言的兴趣并不仅仅依赖于博学或语法方面的兴趣，就像普罗塔戈拉只是寻求对希腊世界的语言用法进行编码或标准化一样。相反，实践和哲学兴趣都在起作用。一方面，这是为了增加词语的潜力，以实现教育学生利用语言来实现目标的实际目的：只有掌握一门语言，才能更有效地使用它。这就是《云》中发生的事情；正如亚里士多芬所指出的，这些工具有助于“使较弱的论证更强大”（80B6b DK）：为了学习“不公正的论证”（亚里士多芬版本的普罗塔戈拉的“较弱的论证”），必须首先学习语法规则（《云》658-691 = 80C3 DK）。此外，对荷马的批评也是挑战诗人权威的一种方式。根据现存的证词，普罗塔戈拉的教学的重要部分是致力于对荷马、西蒙尼德斯（见柏拉图的《普罗塔戈拉》339a-e）和赫西奥德（见下文§5）等诗人的解释。显然，目的不是提供一种简单的解释。相反，它是对文本进行批判性讨论并实现教育目标的一种方式：文学批评是一种有益的智力锻炼，使个体能够熟悉并最终批评诗人传达的传统价值观（摩根 2000 年：89-94）。辩士的策略是占有，其中与传统知识的接触代表了他们在雅典文化舞台上获得主导地位的尝试的起点。通过这种方式，普罗塔戈拉可以加强自己成为新教师的主张，成为一位能够传授适应城邦新世界需求的教育家。[2]
+
+### 3.2 普罗塔戈拉对正确性（orthotes）的看法
+
+从哲学的角度来看，特别重要的是对名称的正确性（orthotes onomaton, orthoepeia）的反复关注，也就是说语言能够忠实地描绘现实的能力。这是公元前五世纪雅典许多讨论的对象；柏拉图的《斐德鲁斯篇》报道了普罗塔戈拉斯的一本著作名为《语言的正确性》（Phdr. 267c = 80A26 DK）。遗憾的是，这本书的内容完全不为人知；但不同的来源证实，普罗塔戈拉斯对语言正确性问题有不同层面的兴趣（Gagarin 2008: 28–30）。我们已经提到了普罗塔戈拉斯的语法兴趣，这意味着语言正确性的论点。在另一个层面上，正直的概念被用作分析诗歌的标准：在这种情况下，正确性不涉及语法问题，而是涉及作品的连贯性、陈述和道德教导（80A25 DK）。最后，同样的概念也可以以更一般的意义应用，如下述证词所示：
+
+> 当一个五项全能比赛选手无意中用标枪击中法萨洛斯的埃皮蒂莫斯并将其杀死时，他（即伯里克利斯）与普罗塔戈拉斯花了一整天的时间来研究这个难题，即根据最正确的推理，应该认为是标枪、投掷标枪的人还是裁判对这一不幸事件负责。（80A10 DK）
+
+这个证词是普罗塔戈拉思维方式的一个很好的例子。事实是无可争议的：一个人无意中杀死了另一个人。然而，关于道德责任、法律罪责以及如何判断整个事件的问题仍然有待讨论。同一个无可争议的事实可以从许多不同的角度来看待：对于医生来说，是标枪导致了这个人的死亡；对于裁判来说，是投标枪的人；对于组织比赛的人来说，是裁判。这种对比给了辩士一些行动的空间：他将试图达成一些共识，为事件赋予意义和秩序。正确性的概念是使他能够克服上述困难的标准：鉴于上述观点都有一定的有效性，问题将是找到最适合情况的观点，同时放弃任何声称能够提出一个在所有情况下都独立有效的单一答案的主张。毫无疑问，“正确性”这个概念在普罗塔戈拉的思想中占据了重要地位，并使我们能够把握其中的一些连续性的线索。这个概念的基础是对现实与人类之间的问题关系的认识，这个问题在与MM相关的讨论中已经讨论过，并在“关于每个主题，都有两个相互对立的论证”（80B6a DK）的陈述中找到了另一种表达方式。对于每一件事情，都有两个相反的logoi（言论、论证、观点）——A和非A——正是因为每个经验都可以有对立的阅读和解释（因此，在上述例子中，通过讨论裁判是否是裁判、标枪是否是标枪、投标枪的人是否是投标枪的人，可以将这三个元素都归结为这种二元逻辑）。Logos，它表达了我们思考和言说的能力，因此无法穷尽现实的复杂性。 然而，正如已经注意到的关于 MM 的问题，相互矛盾的观点并不意味着混乱或人类可能性的失败。相反，普罗塔戈拉所面临的挑战和他所作出的承诺是能够（并教导他人）通过确定任何两个相反的 logoi 中哪一个更好，或者更准确地说，更正确，也就是说，更适合手头情况的那个：这可能是他所著名的“使较弱的论证更强有力”的意思（80B6b DK）。很容易看出，将正确性的概念与我们在与 MM 片段相关的有用性类型的结构分析联系起来：在这两种情况下，问题是在每种情况下找到与事物最佳、最方便的关系，而这可以通过正确使用我们的 logos 来实现，既可以正确判断案件，也可以说服他人。
+
+在这里，我们对普罗塔戈拉的教学有了更好的理解，它以 logos 的概念为中心，既理解为推理能力，又理解为表达能力（即思维和语言）。换句话说，“正确性”应该在两个层面上理解，一个是概念层面，一个是语言层面：正确的推理，表达出最佳的解决方案，必须在形式上的正确性中找到对应，这使得一个人的言辞有说服力，从而使其在每个特定情况下占上风（Classen 1976: 222–225）。因此，最好的言辞不是真实的言辞，而是正确的言辞，最适合手头情况并且在形式和逻辑角度上最有能力超越他人的言辞：一个无可辩驳的 logos（Brancacci 2002: 183–190）。
+
+## 4. 普罗塔戈拉对于神的看法
+
+普罗塔戈拉对于引人注目的言论有着特别的偏好，能够吸引公众的注意力，这一点在《论神》的开篇进一步得到了证实：
+
+> 关于神，我既不能知道他们的存在，也不能知道他们不存在，也不能知道他们的形式是什么样的：因为有很多事情阻止我了解这一点，比如它的模糊性和人类生命的短暂性。（80B4 DK；关于这段文字，请参见 Benedetto 2001 和 Corradi 2017：445-448）
+
+根据一些古代资料，这个声明产生了不成比例的影响：他的书被公开焚烧，而他在雅典被控无神论罪名并被判处死刑；然后他逃脱并在一次海难中丧生。正如前面已经提到的，所有这些轶事可能都是虚构的，但确实有一点是真实的，即这位辩士成为了普遍和持久的谴责对象，以至于传统上相互对立的思想流派，如基督徒和伊壁鸠鲁派，都一致谴责他的无神论论点（参见 Diogenes of Oenoanda，80A23 DK 和 Epiphanius，Against Heresies III 16）。事实上，没有理由认为他是一个无神论者，因为这些敌对的资料混淆了无知的承认（“我不知道 P”）与知识的表白（“我知道不是 P”）。“对于信徒来说，不可知论者可能和无神论者一样糟糕；但对于无神论者来说，不可知论者并不比信徒好多少”（Barnes 1979：449-450）。普罗塔戈拉是第一个采取不可知论立场的思想家，这很难被理解为无神论的表达；在这个片段中，争论的焦点不是本体论命题（关于神的存在），而是认识论命题（关于我们对神的认识；Drozdek 2005：41）。就像在 MM 的情况下一样，在这个片段中也强调了普遍和无可辩驳真理的缺失。
+
+虽然普罗塔戈拉的陈述显然不是无神论的表白，但其整体含义并不明确。一些解释者认为，根据这一陈述和《秘所思》中hos的用法的类比，普罗塔戈拉并没有怀疑神的存在，因为在后者中，正如我们所见，这个介词明显具有一种情态的意义；如果我们假设在前者中也是以同样的意义使用，那么根据这种解释，普罗塔戈拉主要关心的是神的存在方式和呈现方式，而不是他们被假定存在或不存在。因此，普罗塔戈拉将声称我们不知道神是如何存在或不存在的，接下来的话（“也不知道他们是什么形式”）几乎可以解释为补充说明（或更具体地涉及他们可见形态的问题：参见Kerferd 1981a: 165–168）。这意味着，普罗塔戈拉从未对神的存在提出任何怀疑（并且第一个从句的不同翻译将是：“我既不能知道他们的存在方式，也不能知道他们的不存在方式”）。这种解读的优点在于解释了两个从句的顺序不合适的问题：由于第一个陈述主张不可知论，讨论神的形态问题是没有意义的。然而，需要注意的是，从柏拉图开始的所有古代来源（参见《泰阿泰德》162d）一致将普罗塔戈拉的论点描述为涉及神的存在。由于没有理由反对如此坚实的传统，最好将文本解释为同时讨论神的存在（“既不是他们存在也不是他们不存在”）和他们的形态（“也不知道他们是什么形式”）。 至于这两个从句的顺序，最合理的解释是，就像在 MM 片段中一样，这些开场白的主要目的是吸引观众的注意力，而不是过于严谨。可以肯定的是，以宣称自己的无知作为开端是一种非传统的选择。顺便提一下，值得注意的是，这个陈述可能是第一个记录下来的以存在意义使用动词“是”的例子（Kahn 1973: 302）。
+
+据报道，普罗塔戈拉为支持他的论点提出的理由——问题的模糊性和人类生命的短暂性——被认为太平庸，或者至少不是特别相关。然而，当将其与 MM 相关的一个重要概念联系起来时，即个人经验，它们就变得更加重要：这是验证我们知识的唯一合法标准（Mansfeld 1981）。因此，看起来在这种情况下，普罗塔戈拉通过强调人类经验的局限性，与那些前苏格拉底思想家（如巴门尼德和赫拉克利特）进行了辩论，后者一再声称能够超越人类知识的限制，以及那些以与神秘世界的特殊接触为基础的诗人们。在这方面，普罗塔戈拉与埃莱亚的克拉底鲁（21B34 DK）之间存在一些有趣的相似之处（值得注意的是，对于克拉底鲁来说，模糊性也是一种阻碍知识的障碍）。当我们考虑到第一个陈述的第二部分，即关于神的假定外貌的问题时，与克拉底鲁的类比变得更加引人注目（参见赫罗多德的历史 II 53,1；Sassi 2013）。
+
+对学者们来说，一个有趣的问题是重建这段文字的后续内容。很难想象，在这样一种陈述之后，普罗塔戈拉会继续详细讨论有关神的问题。句子的结构（尤其是表示对比的助词men的存在）表明作者将注意力转向了人类：对于希腊人来说，神和人的概念是相互定义的。因此，很可能在接下来的文字中，普罗塔戈拉讨论的不是神的问题本身，而是它们对人类的意义，从而开启了一种人类学和社会学的方法，将宗教视为对人类文明和社会功能的考量（Jaeger 1947: 176）。这个假设无疑比其他假设更有说服力，其他假设认为这段文字是用来批评宗教信仰，或者相反，承认人类的弱点是为了表达对神秘性的敬畏和崇敬。然而，这个假设的发展方式并不令人信服。从Jaeger开始，学者们认为，尽管对神的实际存在问题持保留态度，普罗塔戈拉赞美了它们对人类文明的重要性，因为宗教信仰和情感在人类文明的发展中起到了决定性的作用。然而，由于这段文字的沉默，这个假设是基于普罗塔戈拉在以他名字命名的对话中所讲述的神话，其中提到了这些信仰。然而，从这个神话中可以推断出的恰恰相反（详见第5节，对这个证词的详细分析）。 在秘所思中，普罗塔戈拉承认信仰神灵的重要性，作为一种特定和普遍的人类特征；但是他承认宗教维度的同时，实际上限制了它的重要性，暗示这种信仰（或恐惧）不足以为人类社会提供基础。确保人们能够在城市中共同生活的是政治。普罗塔戈拉的不可知论因此对他的激进人道主义起到了推动作用，这也在 MM 片段和普罗米修斯的神话中得到证实。
+
+## 5. 普罗塔戈拉的政治思想
+
+### 5.1 《普罗塔戈拉》的神话
+
+普罗塔戈拉最后一个重要的证词来自柏拉图的《普罗塔戈拉》的第一部分，其中这位辩士向苏格拉底和其他听众讲述了他自己对普罗米修斯神话的版本（普罗塔戈拉 320c–322d = 80C1 DK）。在对话中，这个神话被用来为雅典的民主实践辩护，即允许每个公民在公共场合表达自己的观点，并为普罗塔戈拉教授“政治艺术”的主张辩护。这个神话分为三个阶段：
+
+1. 当生成人类（包括人类）的时候，众神委托普罗米修斯分配每个物种的特质，使其能够生存和繁荣。普罗米修斯（字面意思是“第一个理解者”，“预见者”）把这个任务交给了他的兄弟埃庇墨修斯（“后来者”），但后者忘记了人类。
+2. 为了弥补他兄弟的错误，普罗米修斯偷走了火和技术知识，使人类能够接近众神的世界，学会说话，并掌握解决实际生活问题所需的技术——提供食物、衣物和住房。然而，尽管取得了这些进展，人类由于缺乏政治智慧而面临灭绝的风险，
+
+> 当他们聚集在一起时，他们彼此犯下了不义之事...以至于他们再次四散并被摧毁。（322b）。
+
+3. 害怕人类会灭绝，宙斯派遣赫尔墨斯分发正义（迪克）和羞耻（艾多斯），不像其他形式的艺术那样（例如，一个医生足够为许多患者服务），而是无差别地分发给每个人。
+
+正如普罗塔戈拉在他的演讲中将在其余部分中明确指出（322d-328d），拥有这两种美德，这显然是辩士政治教学的一个主要议题，构成了社会生活的基础。
+
+这不是一个片段，但是这是一个合理且广泛共享的假设，它传达了一些普罗塔戈拉的观点。问题在于如何解释它。至少有两种可能性：（1）根据几位学者的观点，这个神话反映了普罗塔戈拉对人类文明发展的看法，这是公元前五世纪雅典一个备受争议的话题（Kahn 1981: 98）。然而，这样的阅读方式有一些局限性，无论是字面上还是隐喻上。从字面上理解，这个神话充满了矛盾之处。举几个例子：似乎存在着一个先前存在的人类种类，这个种类几乎是通过后来引入的特质来定义的；由于最初的人类生活分散，不清楚他们是如何发展和使用不同的专业技艺的；如果语言像其他技艺一样分布，那么荒谬的结论是它并不属于所有人类；从第二阶段到第三阶段的过渡唯一可能的解决方案似乎取决于宙斯的直接干预，这种信仰很难与普罗塔戈拉的不可知论相一致（见第4节）。隐喻地理解，作为一个神话（柏拉图式的？）对历史记载的再塑造，它结果是对人类进步的一些普遍和广泛观点的相当平庸的总结（Cole 1967: 51），并且不能解释普罗塔戈拉演讲的整体结构。事实上，在接下来的演讲中，对于任何形式的时间顺序重建都没有兴趣。可以肯定的是，普罗塔戈拉的神话与关于人类文明起源的文本档案之间存在许多相似之处；没有必要否认普罗塔戈拉的神话与这些文本之间的共同基础。但也没有必要将神话解读为普罗塔戈拉或柏拉图重新塑造成神话的历史叙述。 （2）另一种选择，也更有前途的选择是将神话视为神话，即作为一个故事而非历史（Farrar 1988; Sihvola 1989; Bonazzi 2011; Beresdorf 2013）。这并不是否认这个故事明确地分为三个阶段，而是要指出神话不必以时间顺序解释，仿佛它提供了我们文明发展的自然重建。相反，它旨在解释我们社会的组织方式，并确定人类本身的一些基本特征。以这种方式阅读神话，从分析的角度而非遗传的角度，神话在清晰度和独创性上有所提升（有趣的是，柏拉图经常使用关于某些现象起源的因果神话叙述，例如在《费多篇》60b-c中关于快乐和痛苦的伊索神话，这些类比可以暂时支持将神话形式归因于柏拉图，也适用于《普罗塔戈拉篇》）。如果目标是解释我们是谁，那么神话不需要分为三个或五个步骤（当然也可以），而是分为两个部分，即自然的非政治状态和城市的政治世界之间，前者设想了一个不可能的世界，一个反事实的例子，从相反的角度展示了人类世界的真正特点——真正使人们过上他们现在的生活的东西：不是技术技能（或对神的信仰），而是政治态度，即具备aidos和dike的能力——aidos对应于使每个人在与其他人的行为中自我管理的组成部分，而dike则是调节人际交往的规范（Segvic 2004 [2009: 9–11]）。在这个神话中，我们找到了对“我们是政治动物”的观念的首次辩护，这个观念后来被亚里士多德广为人知。 人类是政治动物：政治社会不仅是人类漫长旅程的最终成就，更是人类生活的可能条件，它始终与生活相伴。
+
+### 5.2 普罗塔戈拉关于技艺的观点
+
+与我们所掌握的关于人类文明的证词相比，可以看出普罗塔戈拉的神话有何独特和引人注目之处。学者们坚持认为这个神话与其他文本之间存在相似之处。然而，与亲缘关系相比，这些差异更加有趣。这些文本都共享着类似的人类文明历史描述，强调技术技能作为人类进步的关键条件的重要性。从埃斯库罗斯和其他悲剧诗人到希波克拉底医学文集和狄奥多罗斯/德谟克利特斯的著作，人类进步的历史取决于技艺，这些技艺被赞扬为使人类能够克服自然需求和敌对环境的危险，从而过上繁荣的生活（有关这些文本的收集，请参阅 Cole 1967 或 Guthrie 1971：79-84；唯一引人注目的例外是西西弗斯碎片，88B25 DK，它是后来的作品，明显回忆起诡辩思想）。技艺是文明与野蛮、人类与动物之间的区别。然而，在普罗塔戈拉的神话中，技艺并不起决定性作用-它们不能保证人类的生存和繁荣。普罗塔戈拉更加强调的是，单靠技艺是无法保证人类进步和生存的，因为问题不是外部的自然需求，而是内部的人类倾向于欺骗和犯下不义之行：
+
+> 当他们聚集在一起时，他们彼此犯下了不公正的行为...以至于他们再次四散并被摧毁。（普罗塔戈拉 322b）
+
+这是一个显著的差异，改变了问题的条件。技术技能可以帮助解决自然需求，但对于人际关系来说并不有用，这是一个更加复杂的问题。对技艺的强调被证明是过度的。人类繁荣的保证是规范和法律的制定（正义的问题），以及伦理和道德价值观（羞耻）。这些想法在神话中只是粗略地勾勒出来，但将在他的演讲的第二部分中得到广泛发展，普罗塔戈拉在其中多次强调人类的政治性质（参见普罗塔戈拉 323a，323b-c，324c-325a）。普罗塔戈拉的神话通过强调这一点，对技艺进行了非常微妙的攻击，并有力地捍卫了政治艺术的重要性，这也是他教学的对象。
+
+有趣的是，普罗塔戈拉对技艺的批判态度也得到了其他柏拉图派和更重要的非柏拉图派的证实。在普罗塔戈拉的《普罗塔戈拉》318e-319a 中，普罗塔戈拉批评普罗迪库斯和希庇亚斯，因为他们只教授“算术、天文学、几何学和音乐”等技艺，而不教授对城邦（即政治艺术）真正重要的东西。普罗塔戈拉的论点似乎是，这些专业的专门知识对城邦的生活并不真正有用，与其支持者所声称的相反。类似地，亚里士多德（《形而上学》998a2-4 = 80B7 DK）和菲洛德莫斯（《诗歌论》片段 11 = 80B7a DK；但这段文字的重建是有争议的，参见罗密欧 1992 年）告诉我们，普罗塔戈拉攻击了几何学、也许还有天文学和测地线学，他认为它们的抽象研究与经验观察的结果几乎不相容（“一个箍圈不能在一条直边上接触一个点”，普罗塔戈拉根据亚里士多德的说法进行了争论，形而上学 998a2-4 = 80B7 DK）；因此，它们只是毫无用处的无聊游戏。这些可能是柏拉图在《辩士》（232d-e = 80B8 DK）中所提到的普罗塔戈拉的教学内容，他在《摔跤与其他艺术》中教授“如何反驳每个工匠”。因此，在普罗塔戈拉身上，我们发现了两种对技艺的攻击方式。第一种方式是反对广泛认为技艺在实现文明社会中起到决定性作用的观点，认为它们是必要但不足够的。其次，他攻击了一些特定的技艺，如几何学或天文学，认为它们是无用的。这些无疑是不同的论点和批评。但是，综合起来，它们似乎证实了政治和政治艺术的重要性，这是普罗塔戈拉教学的对象。
+
+### 5.3 普罗塔戈拉对正义和法律的看法
+
+强调政治维度可以与所谓的普罗塔戈拉的《辩护》在《泰阿泰德》中相对应——这个对话与普罗塔戈拉之间的兼容性问题是普罗塔戈拉学术界最紧迫的问题之一。在神话中，只是陈述了人类作为人类对正义（dike）有一种倾向。在《辩护》中（以及普罗塔戈拉的演讲的第二部分），不仅涉及个体决策，还涉及集体决策。在后一种情况下，讨论的是法律（nomos），它取决于人类的决策，并可以根据情况进行修改。
+
+> 只要每个城市认为某事公正和美好，那么对于它来说，它就是公正和美好的，只要它认为如此（80A21a DK）。
+
+通过论证法律是人类对正义的具体实现，这两个主张可以很容易地重新组合。
+
+更具争议的是，“辩护篇”中的明显相对主义如何被解读为神话，并如何与神话中对“自然主义”概念的强调相一致。但这种紧张关系可能更多是表面上的，因为在神话中并没有说正义只能以一种意义上发展，而在两个对话中都起着重要作用的“有用”概念为两个证词的一致解读铺平了道路。事实上，诺摩斯并不是任意决定的结果，而是取决于客观情况。但由于情况和背景不同，有用的东西也因情境而异（参见普罗塔戈拉斯 333e-334c），因此诺摩斯也会有所变化。再次强调，与其说是“相对主义”，不如说是“多元主义”（根据人类法律的多样性取决于现实的复杂性）更能更好地描述普罗塔戈拉斯的观点。因此，对这两个文本的共同阅读产生了以下类似的理解：人类对正义有一种倾向，这将使他们能够过上繁荣的生活（没有正义的替代方案将是冲突和使用武力，就像动物世界中一样，请参见下文第 5.4 节中神话中对赫西奥德的引用）；正义，因为它是社会生活的条件，符合人类的利益。具体而言，这种对正义的倾向将在具体法律中得到实现，这些法律促进与现实的有利关系。但由于现实复杂而不稳定，法律可以相应地进行修改。因此，政治家（和智者）的任务是在任何特定情况下促进政治共同体（城邦）的利益，通过制定正确（即有利）的法律
+
+> 聪明而能干的演说家（即公开讨论政治事务的人，因此是政治家和智者）使好事看起来像是对城市有益的，而不是坏事。（80A21a DK）
+
+引人注目的是，这个结论完美地符合普罗塔戈拉在两个对话中所主张的，坚持有能力和专家教师的重要性。
+
+总的来说，普罗塔戈拉被视为最早支持传统主义正义观念的人之一（Neschke-Hentschke 1995: 56–59; Bonazzi 2020: 67–68）。法律和正义是一致的：正义是由法律所确立的，而法律是人类决策的结果，是人们共同制定的一套规则。有趣的是，正是这种传统主义对正义和法规与有用之间关系的解释，将成为公元前五世纪下半叶激烈辩论的对象，尤其是在诸多辩士中（参见安提丰 87B44 DK，出自一篇名为《真理》的论文，柏拉图的《哥吉亚斯》中的卡利克勒斯 483b–484b，柏拉图的《理想国》中的塞拉西马柯 338c–339a，修昔底德的《历史》第五卷 84–105）。
+
+### 5.4 普罗塔戈拉对民主的看法
+
+从历史政治的角度来看，值得注意普罗塔戈拉的论点与雅典民主之间的相似之处。对于诺摩斯的重要性的认识在希腊世界早期就广泛传播开来。因此，在神话中提到宙斯的法律明显暗示了一些非常著名的赫西奥德诗句（在对话早期的 316d-317c 处明确提到了赫西奥德以及其他许多权威人物）：
+
+> 佩尔塞斯，将这些事情铭记在心
+> 并且要注意正义，并将暴力完全排除在你的脑海中。
+> 这是克洛诺斯之子（即宙斯）为人类制定的法律（诺蒙）：
+> 鱼、野兽和有翅膀的鸟类互相捕食，
+> 因为正义不在它们之中；
+> 但对于人类来说，他赋予了最好的正义。 （赫西奥德，《工作与日子》274-280）
+
+这段引文并不是展示博学的表现，而是旨在指出神话的真实含义，普罗塔戈拉斯采用了一种巧妙的策略来吸纳诗人的观点。赫西奥德的基本观点是，诺摩斯（法律、正义、政治）是区分人类和动物的因素，因为它使人类能够超越野蛮力量和暴力的世界，创造一个基于共享价值观的秩序。事实上，正如我们所见，这也是普罗塔戈拉斯的论点：人类的特点是共同拥有正义，也就是说他们的政治和社会能力。普罗塔戈拉斯的神话通过暗示赫西奥德的故事，强调了这种趋同性。但是在这种情况下，差异与相似之处一样有趣。借用从来都不是中立的，吸纳也是一种转变。在赫西奥德的作品中，正义是神圣的，是一个神，是宙斯的女儿，当他看到人们不尊重她时，他会介入（《工作与日子》257、265；《神谱》901-903）。撇开所有神话意象不谈，这意味着相信绝对正义的存在；人类的正义并不独立于这种神圣价值秩序，而是必须符合它。普罗塔戈拉斯的情况发生了根本性的变化，他的创新在于强调人类而不是神圣。没有神性的地方；正义是人类的事物；它由法律决定，可以变化-它不是使我们接近神灵的东西，而是使我们能够实现我们的自然潜能。这种强调法律作为集体人类决策的结果，特别适合雅典民主宣传的一个关键动机，它强调民主是每个人的政府，是全体人民的政府，而不仅仅是其中的一部分（参见修昔底德的历史第六卷 39：“民主（demos）是所有人的名字，寡头政治只是其中的一部分”）。 其次，在雅典的政治辩论中，强调社群的重要性被用来为民主意识形态的另一个基石提供正当性，可以说这是最重要的基石，即城市利益和个人利益之间必须保持非常紧密的联系，前者是后者的前提条件（有趣的类比可见于修昔底德的《历史》第二卷40.2和60.2-4以及希罗多德的《历史》第五卷78）。第三，需要考虑到MM所暗示的意见辩护与雅典民主的另一个关键动机——isegoria（每个人在议会中表达自己观点的权利）之间的类比：每个人表达自己观点的权利似乎依赖于所有观点都是合法的这一假设，正如普罗塔戈拉斯所主张的那样。总的来说，无需假设普罗塔戈拉斯的学说是为了这个目的而发展的，可以注意到它们与雅典正在经历的新政治阶段远非无关或外来。普罗塔戈拉斯的观点为参与式民主提供了理论基础（Kerferd 1981a: 144；尤其重要的是Farrar 1988）。普罗塔戈拉斯是一个民主政治思想家：他是一个政治思想家，因为他已经表明社会（或政治——来自polis）维度是基础的；他是民主的，因为他暗示政治行动是一种集体和共享的行动。古代关于民主的主要思考往往与他的观点有关（例如，希罗多德的《历史》第三卷80-82或Dissoi logoi 7；Iamblichus的匿名作者，90, 7 DK）。
+
+确实，将民主作为新时代的政府形式，并将其视为希腊政治传统的继承者和顶点，无疑是普罗塔戈拉雄心壮志的合法化成果。通过声称与过去伟大的诗人和思想家有直接联系，同时也通过吸收和转化他们的原则，普罗塔戈拉可以将自己呈现为希腊教育的继承者，作为伟大的导师之一，或者更确切地说，作为唯一一个能够传授既承袭传统又满足新时代需求的教育者。通过这种方式，普罗塔戈拉可以加强自己成为新教师的主张，成为能够传授适应城邦新世界需求的教育者。在《普罗塔戈拉》和《泰阿泰德》中，柏拉图的目标是要表明这是不正确的 - 如果在神话中，辩士隐含地将自己等同于宙斯，最后他将被证明是普罗米修斯。但在这一点被证明之前，可以理解雅典人听到这位伟大思想家来到雅典时的热情（普罗塔戈拉310b-e）。
+
+## Bibliography
+
+### Editions and translations
+
+* Bonazzi, Mauro, 2007, *I sofisti*, Milan: Rizzoli.
+* [DK] Diels, Hermann and Walther Kranz, 1951–1952, *Die Fragmente der Vorsokratiker*, sixth edition, Berlin: Weidmann.
+* Dillon, John and Tania Gergel, 2003, *The Greek Sophists*, London: Penguin.
+* Freeman, Kathleen, 1948, *Ancilla to the Pre-Socratic Philosophers. A Complete Translation of the Fragments in Diels’ “Fragmente der Vorsokratiker”*, Oxford: Blackwell.
+* Kent Sprague, Rosamond (ed.), 1972, *The Older Sophists*, Columbia, SC: University of South Carolina Press.
+* Laks, André and Glenn W. Most, 2016, *Early Greek Philosophy*, 9 volumes, Cambridge, MA: Harvard University Press.
+* Pradeau, Jean-François (éd.), 2009, *Les sophistes*, avec la collaboration de M. Bonazzi, L. Brisson, M.-L- Desclos, L.-A. Dorion, A. Mace, M. Patillon, Paris: Flammarion, 2 vols.
+* Untersteiner, Mario, 1949–1962, *I sofisti. Testimonianze e frammenti*, con la collaborazione di A.M. Battegazzore, Florence: La Nuova Italia, 4 vols.
+
+### Other classical sources
+
+* Aristophanes, *Clouds*, cited by line number in (trans.) Dover, K.J., Oxford: Clarendon Press, 1968.
+* Didymus the Blind, *Commentary on the Psalms*, found in the Toura discovery of manuscripts. PToura V 222.18–29, trans. in Laks and Most (2016), vol VIII.1, 109–111 (quoted as R27).
+* Diogenes Laertius, “Protagoras”, in *Lives of Eminent Philosophers*, Vol. II (book IX), R.D. Hicks (trans.), Loeb Classical Library, Cambridge, MA: Harvard University Press, 1925.
+* *Dissoi logoi*, (anonymous), trans. as *Contrasting Arguments – An Edition of the Dissoi Logoi*, T.M. Robinson (ed.), London: Arno Press, 1979.
+* Herodotus, *Histories*, 9 books, trans. as *Herodotus: The Persian Wars*, A.D. Godley (trans.), Cambridge, MA: Harvard University Press, 1920–25.
+* Hesiod, *Theogony. Works and Days. Testimonia*, Glenn W. Most (ed. and trans.), Loeb Classical Library, Cambridge, MA: Havard University Press, 2018. (cited by line number).
+* Philostratus, *Lives of the Sophists*, (two parts), Wilmer C. Wright (trans.), Loeb Classical Library, Cambridge, MA: Harvard University Press, 1921.
+* Sextus Empiricus, [*M*], *Adversus Mathematicos* (Against the Mathematicians) (11 books), trans. as *Sextus Empiricus*, (4 vol), R.G. Bury (trans.), Cambridge, MA: Harvard University Press, 1935.
+* Thucydides, *History of the Peloponnesian War*, 8 books, C.F. Smith (trans.), Loeb Classical Library, Cambridge, MA: Harvard University Press, 1919–1923.
+* Xenophon, *Memorabilia*, (4 books), E.C. Marchant, O.J. Todd, (trans.), (revised by J. Henderson), Loeb Classical Library, Cambridge, MA: Harvard University Press, 2013.
+
+### Secondary sources
+
+* Apfel, Lauren J., 2011, *The Advent of Pluralism: Diversity and Conflict in the Age of Sophocles*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199600625.001.0001
+* Barnes, Jonathan, 1979, *The Presocratic Philosophers*, London: Routledge.
+* –––, 2002, “Protagoras the Atheist?”, in Helmut Linneweber-Lammerskitten and Georg Mohr (eds.), *Interpretation and Argument*, Würzburg: Königshausen & Neumann, 11–23.
+* Benedetto, Vicenzo di, 2001, “Contributo al testo del frammento di Protagora sugli dei”, *Rivista di cultura classica e medioevale*, 43: 345–346.
+* Beresdorf, Adam, 2013, “Fangs, Feathers, & Fairness: Protagoras on the Origins of Right and Wrong”, in van Ophuijsen, van Raalte, and Stork 2013: 138–162. doi:10.1163/9789004251243_008
+* Betegh, Gabor, 2009. “Tale, Theology and Teleology in the *Phaedo*”, in *Plato’s Myths*, Catalin Partenie, Cambridge: Cambridge University Press, 77–100.
+* Bett, Richard, 1989, “The Sophists and Relativism”, *Phronesis* 34(1–3): 139–169. doi:10.1163/156852889X00107
+* Bonazzi, Mauro, 2011, “Il mito di Prometeo nel *Protagora*: una variazione sul tema delle origini”, in Francesca Calabi and Silvia Gastaldi (eds.), *Immagini delle origini. La nascita della civiltà e della cultura nel pensiero antico*, Sankt Augustin, Academia Verlag, 41–57.
+* –––, 2020, *The Sophists*, Cambridge: Cambridge University Press.
+* Brancacci, Aldo, 2002, “Protagoras, l’*orthoepeia* et la justesse des noms”, in *Platon source des présocratiques*, Monique Dixsaut and Aldo Brancacci (eds), Paris: Vrin, 169–190.
+* Burnyeat, M. F., 1976, “Protagoras and Self-Refutation in Later Greek Philosophy”, *Philosophical Review*, 85(1): 44–69. doi:10.2307/2184254
+* Cassin, Barbara, 1995, *L’effet sophistique*, Paris: Gallimard.
+* Castagnoli, Luca, 2010, *Ancient Self-Refutation. The Logic and History of the Self-Refutation Argument from Democritus to Augustine*, Cambridge: Cambridge University Press.
+* Classen, Carl Joachim, 1976, “The Study of Language Amongst Socrates’ Contemporaries”, in *Sophistik*, Carl Joachim Classen (ed.), Darmstadt: Wissenschaftliche Buchgesellschaft, 215–47.
+* Cole, Thomas, 1967, *Democritus and the Sources of Greek Anthropology*, Cleveland, OH: Press Western Reserve University.
+* Corradi, Michele, 2012, *Protagora tra filologia e filosofia. Le testimonianze di Aristotele*, Pisa-Roma: Serra editore.
+* –––, 2017, “Il περὶ θεῶν di Protagora. Un nuovo tentativo di ricostruzione”, *Maia*, 69: 444–469.
+* Decleva Caizzi, Fernanda, 1999, “Protagoras and Antiphon: Sophistic Debates on Justice”, in Long 1999: 311–331. doi:10.1017/CCOL0521441226.015
+* Drozdek, Adam, 2005, “Protagoras and Instrumentality of Religion”, *L’antiquité classique*, 74: 41–50. doi:10.3406/antiq.2005.2562
+* Farrar, Cynthia, 1988, *The Origins of Democratic Thinking: The Invention of Politics in Classical Athens*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511552489
+* Gagarin, Michael, 2008, “Protagoras et l’art de la parole”, *Philosophie Antique*, 8: 23–32.
+* Gavray, Marc-Antoine, 2017, *Platon, héritier de Protagoras. Dialogue sur les fondements de la démocratie*, Paris: Vrin.
+* Gomperz, Heinrich, 1912, *Sophistik und Rhetorik*, Berlin-Leipzig: Wissenschaftliche Buchgesellschaft.
+* Guthrie, W.K.C., 1971, *The Sophists*, Cambridge: Cambridge University Press.
+* Jaeger, Werner, 1947, *The Theology of the Early Greek Philosophers*, Oxford: Clarendon Press.
+* Kahn, Charles H., 1973, *The Verb “be” in Ancient Greek*, Dordrecht, Reidel.
+* –––, 1981, “The Origins of Social Contract Theory”, in Kerferd 1981b: 92–108.
+* Kerferd, G. B., 1981a, *The Sophistic Movement*, Cambridge: Cambridge University Press.
+* ––– (ed.), 1981b, *The Sophists and their Legacy*, Wiesbaden: Steiner.
+* Lee, Mi-Kyoung, 2005, *Epistemology after Protagoras: Responses to Relativism in Plato, Aristotle, and Democritus*, Oxford: Clarendon. doi:10.1093/0199262225.001.0001
+* Lloyd, Geoffrey E. R., 1987. *The Revolutions of Wisdom: Studies in the Claims and Practices of Ancient Greek Science*, Berkeley, CA: University of California Press.
+* Long, A. A. (ed.), 1999, *The Cambridge Companion to Early Greek Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521441226
+* Mansfeld, Jaap, 1981. “Protagoras on Epistemological Obstacles and Persons”, in Kerferd 1981b: 38–53.
+* Manuwald, Bernd, 2013, “Protagoras’ Myth in Plato’s *Protagoras*: Fiction or Testimony?”, in van Ophuijsen, van Raalte, and Stork 2013: 163–177. doi:10.1163/9789004251243_009
+* Morgan, Kathryn A., 2000, *Myth and Philosophy from the Presocratics to Plato*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511482540
+* Most, G.W., 1986, “Sophistique et herméneutique”, in *Positions de la sophistique*, Barbara Cassin (ed.), Paris: Vrin: 233–45.
+* Neschke-Hentschke, Ada, 1995, *Platonisme politique et théoroe du droit naturel. Contributions à une archéologie de la culture politique européenne. Vol. I. Le platonisme politique dans l’antiquité*, Louvain and Paris: Éditions Peeters.
+* van Ophuijsen, Johannes M., Marlein van Raalte, and Peter Stork (eds.), 2013, *Protagoras of Abdera: The Man, His Measure*, (Philosophia Antiqua, 134), Leiden: Brill. doi:10.1163/9789004251243
+* Rademaker, Adriaan, 2013, “The Most Correct Account: Protagoras on Language”, in van Ophuijsen, van Raalte, and Stork 2013: 87–111. doi:10.1163/9789004251243_006
+* Romeo, Constantina, 1992, “Per una nuova edizione del *PHerc.* 1676”, *Cronache Ercolanesi (CErc)*, 22: 163–167.
+* Romilly, Jacqueline de, 1988 [1992], *Grands Sophists dans l'Athènes de Périclès*, Paris: Editions de Fallois. Translated as *The Great Sophists in Periclean Athens*, Janet Lloyd (trans.), Oxford: Clarendon, 1992.
+* Sassi, Maria Michela, 2013, “Where Epistemology and Religion Meet What Do(Es) the God(s) Look Like?”, *Rhizomata*, 1(2): 283–307. doi:10.1515/rhiz-2013-0012
+* Segvic, Heda, 2004 [2009], “Protagoras’ Political Art”, *Rhizai: A Journal for Ancient Philosophy and Science*, 2: 7–34. Reprinted in her *From Protagoras to Aristotle. Essays in Ancient Moral Philosophy*, Myles Burnyeat (ed.), Princeton and Oxford: Princeton University Press, 2009, 3–27.
+* Schiappa, Edward, 1991, *Protagoras and Logos: A Study in Greek Philosophy and Rhetoric*, Columbia, SC: University of South Carolina Press.
+* Sihvola, Juha, 1989, *Decay, Progress, the Good Life? Hesiod and Protagoras on the Development of Culture*, Helsinki: Societas Scientiarum Fennica.
+* Untersteiner, Mario, 1949 [1954], *I sofisti*, Torino: G. Einaudi. Translated as *The Sophists*, Kathleen Freeman (trans.), Oxford: Blackwell, 1954.
+* Vegetti, Mario, 2004, “Protagora autore della *Repubblica*? (ovvero il ‘mito’ del *Protagora* nel suo contesto)”, in Giovanni Casertano, (ed.), *Il Protagora di Platone: struttura e problematiche*, Naples: Loffredo 2004, vol. I, 145–152.
+* Vlastos, Gregory, 1956, “Protagoras”, in *Plato: Protagoras*, Benjamin Jowett and Martin Ostwald (trans.) and Gregory Vlastos (ed.), New York: Bobbs-Merril Company, vii–xxiv.
+* Whitmarsh, Tim, 2015, *Battling the Gods. Atheism in the Ancient World*, New York: Knopf.
+* Woodruff, Paul, 1999, “Rhetoric and Relativism: Protagoras and Gorgias”, in Long 1999: 290–310. doi:10.1017/CCOL0521441226.014
+* –––, 2013, “*Euboulia* as the Skill Protagoras Taught”, in van Ophuijsen, van Raalte, and Stork 2013: 179–193. doi:10.1163/9789004251243_010
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=protagoras). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/protagoras/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=protagoras&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/protagoras/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[Aristotle](https://plato.stanford.edu/entries/aristotle/) | [atheism and agnosticism](https://plato.stanford.edu/entries/atheism-agnosticism/) | [doxography of ancient philosophy](https://plato.stanford.edu/entries/doxography-ancient/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Plato: Callicles and Thrasymachus](https://plato.stanford.edu/entries/callicles-thrasymachus/) | [Plato: ethics](https://plato.stanford.edu/entries/plato-ethics/) | [political philosophy: ancient](https://plato.stanford.edu/entries/ancient-political/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [Sophists, The](https://plato.stanford.edu/entries/sophists/) | [Xenophanes](https://plato.stanford.edu/entries/xenophanes/)
+
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
+Mauro Bonazzi <[*m.bonazzi@uu.nl*](mailto:m%2ebonazzi%40uu%2enl)>
