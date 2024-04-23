@@ -11,29 +11,7 @@
 * 解释美学具有对话性的特点。它认识到实践者和理论家在揭示一个主题方面的共享，并淡化了艺术中的理论与实践之间的分隔。解释是实现作品的手段。
 * 解释美学并非艺术本身的理论，而更像是一组增强与艺术相遇的实践性思考笔记。解释美学的目的不是得出艺术的概念，而是加深我们对艺术的体验。在解释美学中，理论被运用来加深对艺术作品的思考，而不是将其归类。
 * 伽达默尔的美学深深尊重艺术打破和挑战常规期望的能力。它赋予艺术一种伦理意义，能够揭示固定文化期望的局限性，并使观众向其他和不同的方向开放。
-
-In this entry, we discuss the leading arguments which inform these contentions.
-
-* [1. Art as Interlocutor](https://plato.stanford.edu/entries/gadamer-aesthetics/#ArtInte)
-* [2. The “Substance” of Aesthetic Subjectivity](https://plato.stanford.edu/entries/gadamer-aesthetics/#SubsAestSubj)
-* [3. 当代性与艺术体验](https://plato.stanford.edu/entries/gadamer-aesthetics/#ContArtExpe)
-* [ 4. 游戏](https://plato.stanford.edu/entries/gadamer-aesthetics/#Play)
-* [ 5. 节日](https://plato.stanford.edu/entries/gadamer-aesthetics/#Fest)
-* [ 6. 符号](https://plato.stanford.edu/entries/gadamer-aesthetics/#Symb)
-* [7. Presentation, Representation and Appearance](https://plato.stanford.edu/entries/gadamer-aesthetics/#PresReprAppe)
-* [8. The Issue in Question](https://plato.stanford.edu/entries/gadamer-aesthetics/#IssuQues)
-* [9. Art and Language](https://plato.stanford.edu/entries/gadamer-aesthetics/#ArtLang)
-* [10. Tradition](https://plato.stanford.edu/entries/gadamer-aesthetics/#Trad)
-* [11. Paradox of the In-between](https://plato.stanford.edu/entries/gadamer-aesthetics/#ParaBetw)
-* [ 参考文献](https://plato.stanford.edu/entries/gadamer-aesthetics/#Bib)
-
-  * [ 伽达默尔的文献目录](https://plato.stanford.edu/entries/gadamer-aesthetics/#GadaBibl)
-  * [ 主要文献](https://plato.stanford.edu/entries/gadamer-aesthetics/#PrimLite)
-  * [Secondary Literature](https://plato.stanford.edu/entries/gadamer-aesthetics/#SecoLite)
-* [Academic Tools](https://plato.stanford.edu/entries/gadamer-aesthetics/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/gadamer-aesthetics/#Oth)
-* [Related Entries](https://plato.stanford.edu/entries/gadamer-aesthetics/#Rel)
-
+ 
 ---
 
 ## 1. Art as Interlocutor

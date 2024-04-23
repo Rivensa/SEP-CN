@@ -4,37 +4,7 @@
 
 托马斯·希尔·格林（1836-1882年）被广泛认为是英国唯心主义传统中最具创始性和影响力的人物，该传统在19世纪下半叶和20世纪初在英格兰（尤其是牛津）、苏格兰（尤其是格拉斯哥和爱丁堡）蓬勃发展（参见，例如，曼德尔2011年）。格林的唯心主义是系统的，涵盖了形而上学和认识论、伦理理论、政治哲学以及历史和宗教哲学。在形而上学和认识论方面，格林反映了伊曼纽尔·康德的影响，批评了约翰·洛克和大卫·休谟的英国经验主义遗产。格林认为经验知识是人类头脑的产物，现实取决于思想，不能超越思想，客观性的可能性需要一个单一的集体或神圣意识的存在，个体心灵是其适当部分。格林认为，唯一可辩护的唯心主义形式是绝对唯心主义，其中现实的所有方面都是单一意识的运作。在伦理学上，格林接受了一种将人类善与自我实现和道德人和行动者的本性完善相结合的完美主义形式。但自我实现必须反映个体参与协会和社区的方式，并且必须反映个体追求共同利益的要求。在阐述这种完美主义观念时，格林认为自己在合成两种不同伦理传统中的最佳元素——希腊幸福主义和康德的理性主义。格林的完美主义伦理观影响了他的政治观点。他为一种超越19世纪英国自由主义某些流派特征的自由放任主义的新进步形式提供了哲学基础。国家有责任促进共同利益，个人权利受到共同利益的限制。 这不仅赋予国家消除干涉公民自由和机会的消极义务，还赋予其提供资源和机会以实现个人自我实现的积极义务。 格林认为，对自我实现的伦理和政治要求是自由，这是正确理解的。 他认为，历史上的道德和政治进步在于逐渐且越来越充分地实现完美、共同利益和自由的价值观。 由于格林将上帝与人类本性中的形而上学、伦理学和政治原则联系起来，他认为上帝存在于人类历史中的渐进发展中。
 
-* [1. 托马斯·希尔·格林的生平、著作和影响](https://plato.stanford.edu/entries/green/#GreeLifeWorkInfl)
-* [2. 唯心主义形而上学和认识论](https://plato.stanford.edu/entries/green/#IdeaMetaEpis)
-
-  * [2.1 经验主义和怀疑论](https://plato.stanford.edu/entries/green/#EmpiSkep)
-  * [ 2.2 唯心主义](https://plato.stanford.edu/entries/green/#Idea)
-  * [ 2.3 绝对唯心主义](https://plato.stanford.edu/entries/green/#AbsoIdea)
-  * [2.4 自我意识和认识责任](https://plato.stanford.edu/entries/green/#SelfConsEpisResp)
-* [3. 理想主义伦理](https://plato.stanford.edu/entries/green/#IdeaEthi)
-
-  * [3.1 自我意识和实践责任](https://plato.stanford.edu/entries/green/#SelfConsPracResp)
-  * [3.2 自我实现和规范完善主义](https://plato.stanford.edu/entries/green/#SelfRealNormPerf)
-  * [3.3 自我实现和共同利益](https://plato.stanford.edu/entries/green/#SelfRealCommGood)
-  * [3.4 自我实现和自由](https://plato.stanford.edu/entries/green/#SelfRealFree)
-* [4. 理想主义政治](https://plato.stanford.edu/entries/green/#IdeaPoli)
-
-  * [4.1 权利与共同利益](https://plato.stanford.edu/entries/green/#RighCommGood)
-  * [4.2 进步自由主义](https://plato.stanford.edu/entries/green/#ProgLibe)
-* [5. 理想主义宗教与历史](https://plato.stanford.edu/entries/green/#IdeaReliHist)
-* [6. 理想主义形而上学与伦理学](https://plato.stanford.edu/entries/green/#IdeaMetaEthi)
-* [ 7. 总结说明](https://plato.stanford.edu/entries/green/#ConcRema)
-* [ 参考书目](https://plato.stanford.edu/entries/green/#Bib)
-
-  * [A. 主要来源](https://plato.stanford.edu/entries/green/#PrimSour)
-
-    * [ A.1 格林的著作](https://plato.stanford.edu/entries/green/#GreeWrit)
-    * [A.2 其他主要来源](https://plato.stanford.edu/entries/green/#OthePrimSour)
-  * [ B. 次要来源](https://plato.stanford.edu/entries/green/#BSecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/green/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/green/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/green/#Rel)
-
+ 
 ---
 
 ## 1. 托马斯·希尔·格林 的生平、著作和影响

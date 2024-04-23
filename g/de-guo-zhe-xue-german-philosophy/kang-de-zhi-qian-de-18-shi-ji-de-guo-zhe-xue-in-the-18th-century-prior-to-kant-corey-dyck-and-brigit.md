@@ -6,48 +6,7 @@
 
 然而，与康德的成功所激发（并继续激发）的惠格式哲学史截然相反，在康德之前的欧洲德语地区是一个充满丰富知识氛围的地方。当然，这里是莱布尼茨的故乡，他对知识文化繁荣的贡献包括他稀少的出版物，以及他努力创建德国学会和支持具有前瞻性的哲学家担任大学职位，从而加速了德国向启蒙时代的过渡。德国学术哲学家深受莱布尼茨思想的影响，但他们对其进行的创造性吸收导致了创新，如美学和经验心理学学科的发明。德国还是激烈和公开展开知识争论的地方，比如哈勒新大学的情况，那里的哲学自由本身受到威胁，但最终（即使不是立即）得到了证明。在学术背景之外，激进的哲学思想在地下流传，通过秘密文本将德国与欧洲其他地区和英国的思想潮流联系起来。此外，这也是哲学史上一个时期，女性和其他少数群体的思想家以不可或缺的方式对现代思想的构想、传播和完善以及启蒙运动的扩展做出了贡献。简而言之，这是哲学史上一个充满活力的时期，非常值得研究，即使与康德这位伟大的哲学家的关系——无论是作为一种反衬还是一种坩埚——无关。
 
-* [1. 克里斯蒂安·托马修斯](https://plato.stanford.edu/entries/18thGerman-preKant/#ChriThom)
-
-  * [1.1 生平与作品](https://plato.stanford.edu/entries/18thGerman-preKant/#LifeWork)
-  * [ 1.2 哲学](https://plato.stanford.edu/entries/18thGerman-preKant/#Phil)
-* [ 2. 激进哲学](https://plato.stanford.edu/entries/18thGerman-preKant/#RadiPhil)
-* [3. 沃尔夫和福音派之间的争议](https://plato.stanford.edu/entries/18thGerman-preKant/#ContBetwWolfPiet)
-
-  * [3.1 康德的“莱布尼茨-沃尔夫”哲学](https://plato.stanford.edu/entries/18thGerman-preKant/#LeibWolfPhil)
-  * [3.2 哈勒派提斯徒](https://plato.stanford.edu/entries/18thGerman-preKant/#HallPiet)
-  * [3.3 争议及其后果](https://plato.stanford.edu/entries/18thGerman-preKant/#ContAfte)
-* [4. 亚历山大·戈特利布·鲍姆加滕](https://plato.stanford.edu/entries/18thGerman-preKant/#AlexGottBaum)
-
-  * [4.1 生平与著作](https://plato.stanford.edu/entries/18thGerman-preKant/#LifeWork_1)
-  * [ 4.2 哲学](https://plato.stanford.edu/entries/18thGerman-preKant/#Phil_1)
-* [5. 克里斯蒂安·奥古斯特·克鲁修斯](https://plato.stanford.edu/entries/18thGerman-preKant/#ChriAuguCrus)
-
-  * [5.1 生平与著作](https://plato.stanford.edu/entries/18thGerman-preKant/#LifeWork_2)
-  * [ 5.2 哲学](https://plato.stanford.edu/entries/18thGerman-preKant/#Phil_2)
-* [6. 女性和其他代表不足的思想家](https://plato.stanford.edu/entries/18thGerman-preKant/#WomeOtheUndeReprThin)
-
-  * [6.1 女性和托马斯哲学](https://plato.stanford.edu/entries/18thGerman-preKant/#WomeThomPhil)
-  * [6.2 女性和莱布尼茨-沃尔夫哲学](https://plato.stanford.edu/entries/18thGerman-preKant/#WomeLeibWolfPhil)
-  * [6.3 安东·威廉·阿莫](https://plato.stanford.edu/entries/18thGerman-preKant/#AntoWilhAmo)
-* [ 参考书目](https://plato.stanford.edu/entries/18thGerman-preKant/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/18thGerman-preKant/#PrimLite)
-
-    * [ 作者](https://plato.stanford.edu/entries/18thGerman-preKant/#Auth)
-    * [ 收藏品 (English)](https://plato.stanford.edu/entries/18thGerman-preKant/#CollEngl)
-  * [ 二级文献](https://plato.stanford.edu/entries/18thGerman-preKant/#SecoLite)
-
-    * [ 一般](https://plato.stanford.edu/entries/18thGerman-preKant/#Gene)
-    * [第一部分：基督教托马修斯](https://plato.stanford.edu/entries/18thGerman-preKant/#Sect1ChriThom)
-    * [第二部分：激进哲学](https://plato.stanford.edu/entries/18thGerman-preKant/#Sect2RadiPhil)
-    * [第 3 节：康德与彼得派之间的争议](https://plato.stanford.edu/entries/18thGerman-preKant/#Sect3ContBetwWolfPiet)
-    * [第 4 节：亚历山大·戈特利布·鲍姆加滕](https://plato.stanford.edu/entries/18thGerman-preKant/#Sect4AlexGottBaum)
-    * [第 5 节：克里斯蒂安·奥古斯特·克鲁修斯](https://plato.stanford.edu/entries/18thGerman-preKant/#Sect5ChriAuguCrus)
-    * [第 6 节：妇女和其他代表不足的思想家](https://plato.stanford.edu/entries/18thGerman-preKant/#Sect6WomeOtheUndeReprThin)
-* [ 学术工具](https://plato.stanford.edu/entries/18thGerman-preKant/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/18thGerman-preKant/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/18thGerman-preKant/#Rel)
-
+ 
 ---
 
 ## 1. 康德

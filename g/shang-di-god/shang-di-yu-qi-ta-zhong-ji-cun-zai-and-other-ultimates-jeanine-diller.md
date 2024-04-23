@@ -6,21 +6,7 @@ _首次发表于2021年12月17日星期五_
 
 第 1 节定义了“终极”和“终极模型”，讨论了对建模终极存在的项目感兴趣的原因，或者认为这样做是徒劳的原因，并解释了帮助组织模型领域的主要类别。第 2 节使用这些类别来介绍二十多个梵天、上帝和道的模型，既为了它们本身，也为了作为进入这一领域的入口（这些模型按照它们出现的顺序编号，以帮助读者发现它们，并通过示例展示什么是模型）。第 3 节讨论了一旦这些模型并置时的重要性。
 
-* [1. 概念基础和动机](https://plato.stanford.edu/entries/god-ultimates/#ConcFounMoti)
-  * [1.1 “终极存在”的定义](https://plato.stanford.edu/entries/god-ultimates/#DefiUlti)
-  * [1.2 “模型”的定义](https://plato.stanford.edu/entries/god-ultimates/#DefiModeUlti)
-  * [1.3 动机](https://plato.stanford.edu/entries/god-ultimates/#Moti)
-  * [1.4 挑战](https://plato.stanford.edu/entries/god-ultimates/#Chal)
-  * [1.5 终极存在的哲学范畴](https://plato.stanford.edu/entries/god-ultimates/#PhilCateUlti)
-* [2. 婆罗门、上帝和道的模型](https://plato.stanford.edu/entries/god-ultimates/#ModeBrahGodDao)
-  * [2.1 婆罗门的模型](https://plato.stanford.edu/entries/god-ultimates/#ModeBrah)
-  * [2.2 上帝的模型](https://plato.stanford.edu/entries/god-ultimates/#ModeGod)
-  * [2.3 道的模型](https://plato.stanford.edu/entries/god-ultimates/#ModeDao)
-* [3. 对终极存在模型多样性的回应](https://plato.stanford.edu/entries/god-ultimates/#RespDiveModeUlti)
-* [参考书目](https://plato.stanford.edu/entries/god-ultimates/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/god-ultimates/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/god-ultimates/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/god-ultimates/#Rel)
+ 
 
 ***
 

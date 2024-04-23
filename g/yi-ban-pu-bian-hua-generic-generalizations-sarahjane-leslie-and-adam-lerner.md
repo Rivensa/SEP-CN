@@ -8,39 +8,7 @@
 
 正如这些例子所说明的，一般普遍化的含义与任何量化限定词（如“所有”，“一些”，“大多数”）的含义不等同。它们的含义也不同于包含量化副词（Lewis 1975）的句子，如“通常”，“通常”，“经常”。例如，一般普遍化“书籍是平装书”是错误的，然而插入任何这些量化副词都会使该陈述变为真：“书籍通常/通常/经常是平装书”。
 
-* [1. 一般普遍化和逻辑形式](https://plato.stanford.edu/entries/generics/#GeneLogiForm)
-
-  * [1.1 分离一般解释](https://plato.stanford.edu/entries/generics/#IsolGeneInte)
-  * [1.2 阶段层和个体层述词](https://plato.stanford.edu/entries/generics/#StagLeveIndiLevePred)
-  * [1.3 推导一般 vs. 存在解释](https://plato.stanford.edu/entries/generics/#DeriGeneVsExisInte)
-  * [1.4 一般普遍化和直接种类断言的特征](https://plato.stanford.edu/entries/generics/#CharGeneDireKindPred)
-  * [1.5 一般普遍化的逻辑形式](https://plato.stanford.edu/entries/generics/#LogiFormCharGene)
-* [2. 一般普遍化的语义分析](https://plato.stanford.edu/entries/generics/#SemaAnalGen)
-
-  * [2.1 可能世界和基于正常性的方法](https://plato.stanford.edu/entries/generics/#PossWorlNormBaseAppr)
-  * [2.2 相关量化和情境语义](https://plato.stanford.edu/entries/generics/#ReleQuanSituSema)
-  * [2.3 指示性方法](https://plato.stanford.edu/entries/generics/#IndeAppr)
-  * [2.4 刻板印象和原型](https://plato.stanford.edu/entries/generics/#SterProt)
-  * [2.5 概率方法](https://plato.stanford.edu/entries/generics/#ProbAppr)
-* [3. 一般普遍化、明确和裸体单数泛指](https://plato.stanford.edu/entries/generics/#IndeDefiBareSingGene)
-
-  * [3.1 一般普遍化的不确定性单数和规范性](https://plato.stanford.edu/entries/generics/#IndeSingGeneNorm)
-  * [3.2 明确和裸体单数泛指](https://plato.stanford.edu/entries/generics/#DefiBareSingGene)
-* [4. 泛指与心理学](https://plato.stanford.edu/entries/generics/#GenePsyc)
-
-  * [4.1 一般普遍化作为默认假设](https://plato.stanford.edu/entries/generics/#GeneDefaHypo)
-  * [4.2 一般普遍化是否受内容因素影响？](https://plato.stanford.edu/entries/generics/#GeneSensContBaseFact)
-  * [4.3 一般普遍化的贝叶斯模型](https://plato.stanford.edu/entries/generics/#BayeModeGene)
-  * [4.4 从一般普遍化中推断](https://plato.stanford.edu/entries/generics/#InfeGene)
-* [5. 超越语言：一般普遍化的哲学应用](https://plato.stanford.edu/entries/generics/#BeyoLangPhilApplGene)
-
-  * [5.1 一般普遍化、刻板印象和偏见](https://plato.stanford.edu/entries/generics/#GeneSterPrej)
-  * [5.2 一般普遍化及更一般的哲学](https://plato.stanford.edu/entries/generics/#GenePhilGene)
-* [ 参考文献](https://plato.stanford.edu/entries/generics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/generics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/generics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/generics/#Rel)
-
+ 
 ---
 
 ## 1. 一般普遍化和逻辑形式

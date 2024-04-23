@@ -6,26 +6,7 @@ _首次发布于 2021 年 9 月 27 日星期一_
 
 我们可以区分博弈论对伦理学的两种相关性。第一种是解释性的。博弈论工具可用于解释从（i）道德功能和（ii）我们道德实践的一般特征，到（iii）道德或政治上重要的社会问题的动态和（iv）特定道德规范的出现、存在和稳定性。博弈论对伦理学的第二种相关性是辩护性的。在这里，博弈论工具被用于辩护从（i）特定规范或原则，到（ii）大规模社会制度，或（iii）我们道德实践的一般特征。接下来，我们将考虑这些用途，包括前者如何补充后者。
 
-* [1. 历史](https://plato.stanford.edu/entries/game-ethics/#Hist)
-* [2. 道德的功能](https://plato.stanford.edu/entries/game-ethics/#FuncMora)
-* [3. 调和道德与谨慎理性](https://plato.stanford.edu/entries/game-ethics/#RecoMoraPrudRati)
-  * [3.1 不可分割商品策略](https://plato.stanford.edu/entries/game-ethics/#InseGoodStra)
-  * [3.2 社会制裁策略](https://plato.stanford.edu/entries/game-ethics/#SociSancStra)
-  * [3.3 改革决策理论策略](https://plato.stanford.edu/entries/game-ethics/#RefoDeciTheoStra)
-  * [3.4 和解项目的局限性](https://plato.stanford.edu/entries/game-ethics/#LimiRecoProj)
-* [4. 博弈论和契约论](https://plato.stanford.edu/entries/game-ethics/#GameTheoCont)
-  * [4.1 协商问题](https://plato.stanford.edu/entries/game-ethics/#BargProb)
-  * [4.2 进化论对社会契约的探讨](https://plato.stanford.edu/entries/game-ethics/#EvolApprSociCont)
-* [5. 分析具有道德意义的社会问题](https://plato.stanford.edu/entries/game-ethics/#AnalMoraSignSociIssu)
-  * [5.1 核冲突](https://plato.stanford.edu/entries/game-ethics/#NuclConf)
-  * [5.2 不良规范](https://plato.stanford.edu/entries/game-ethics/#BadNorm)
-  * [5.3 气候变化和环境](https://plato.stanford.edu/entries/game-ethics/#ClimChanEnvi)
-* [6. 结论](https://plato.stanford.edu/entries/game-ethics/#Conc)
-* [参考书目](https://plato.stanford.edu/entries/game-ethics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/game-ethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/game-ethics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/game-ethics/#Rel)
-
+ 
 ***
 
 ## 1. 历史

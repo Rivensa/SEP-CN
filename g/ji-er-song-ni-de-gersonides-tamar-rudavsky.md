@@ -4,21 +4,7 @@
 
 或许没有其他中世纪犹太哲学家像吉尔松尼德（利维·本·吉尔松，简称拉尔巴格）一样，在几个世纪里受到如此诋毁。事实上，他的主要哲学著作《上帝之战》（1329 年）被他的一位对手称为“反对上帝的战争”。尽管他的立场受到了诽谤，吉尔松尼德仍然是中世纪犹太传统中最重要和最全面的思想家之一。他的观点一直被引用（即使只是被批评），并且通过哈斯代·克雷斯卡斯等人的作品，吉尔松尼德的思想影响了哥特弗里德·威廉·莱布尼茨和本尼迪克特·斯宾诺莎等思想家。本文将概述他对中世纪哲学的主要贡献。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/gersonides/#Int)
-* [ 2. 传记](https://plato.stanford.edu/entries/gersonides/#Bio)
-* [ 3. 主要作品](https://plato.stanford.edu/entries/gersonides/#MajWor)
-* [4. 《上帝之战》中的主要主题](https://plato.stanford.edu/entries/gersonides/#MajTheMilHaShe)
-* [5. 吉尔松尼德的占星命运论](https://plato.stanford.edu/entries/gersonides/#GerAstDet)
-* [ 6. 道德观点](https://plato.stanford.edu/entries/gersonides/#EthVie)
-* [ 7. 结论](https://plato.stanford.edu/entries/gersonides/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/gersonides/#Bib)
-
-  * [ 主要作品](https://plato.stanford.edu/entries/gersonides/#PriWor)
-  * [ 英文版本](https://plato.stanford.edu/entries/gersonides/#EdiEng)
-  * [精选次要文献](https://plato.stanford.edu/entries/gersonides/#SelSecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/gersonides/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gersonides/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gersonides/#Rel)
+ 
 
 ---
 

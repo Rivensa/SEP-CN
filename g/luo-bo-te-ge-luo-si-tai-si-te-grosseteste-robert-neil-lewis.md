@@ -4,32 +4,7 @@
 
 罗伯特·格罗斯泰斯特（约 1168 年至 1253 年），从 1235 年到 1253 年担任林肯主教，是十三世纪英国知识界中最杰出和显著的人物之一。他是一位多才多艺的人：是亚里士多德和希腊神学思想家的评论家和翻译家、哲学家、神学家和自然学家。他深受奥古斯丁的影响，奥古斯丁的思想贯穿于他的著作中，并从中汲取了新柏拉图主义的观点，但他也是最早广泛运用亚里士多德、阿维森纳和阿维罗洛斯思想的人之一。他以光的作用为基础，对物质世界的生成和基本特性提出了高度独创和富有想象力的解释，并创作了一些关于光学和其他自然现象的短篇作品，以及哲学和神学著作。作为主教，他在英国教会生活中扮演重要角色，将精力集中在根除牧灵护理的滥用上，他认为这些滥用最终可以追溯到教皇本身。他给他的同时代人和牛津的后续思想家留下了深刻印象，并被誉为是十四世纪牛津科学发展的启示。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/grosseteste/#Lif)
-* [ 2. 著作](https://plato.stanford.edu/entries/grosseteste/#Wor)
-* [ 3. 来源](https://plato.stanford.edu/entries/grosseteste/#Sou)
-* [4. 光的形而上学](https://plato.stanford.edu/entries/grosseteste/#MetLig)
-* [5. 无限、连续和测量](https://plato.stanford.edu/entries/grosseteste/#InfConMea)
-* [6. 创造、永恒、时间和存在](https://plato.stanford.edu/entries/grosseteste/#CreEteTimBei)
-* [7. 神圣的预知和人类自由](https://plato.stanford.edu/entries/grosseteste/#DivForHumFre)
-* [8. 模态性和上帝的权能](https://plato.stanford.edu/entries/grosseteste/#ModGodPow)
-* [9. 自由决定与意志自由](https://plato.stanford.edu/entries/grosseteste/#FreDecFreWil)
-* [10. 典范主义、真理与启示](https://plato.stanford.edu/entries/grosseteste/#ExeTruIll)
-
-  * [ 10.1 典范主义](https://plato.stanford.edu/entries/grosseteste/#Exe)
-  * [ 10.2 真理](https://plato.stanford.edu/entries/grosseteste/#Tru)
-  * [ 10.3 照明](https://plato.stanford.edu/entries/grosseteste/#Ill)
-* [ 11. 科学方法](https://plato.stanford.edu/entries/grosseteste/#SciMet)
-* [ 12. 影响](https://plato.stanford.edu/entries/grosseteste/#Inf)
-* [ 参考书目](https://plato.stanford.edu/entries/grosseteste/#Bib)
-
-  * [ 参考书目](https://plato.stanford.edu/entries/grosseteste/#Bibs)
-  * [ 传记研究](https://plato.stanford.edu/entries/grosseteste/#BioStu)
-  * [拉丁原文](https://plato.stanford.edu/entries/grosseteste/#PriTexLat)
-  * [英文翻译原文](https://plato.stanford.edu/entries/grosseteste/#PriTexEngTra)
-  * [ 二手文献](https://plato.stanford.edu/entries/grosseteste/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/grosseteste/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/grosseteste/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/grosseteste/#Rel)
+ 
 
 ---
 

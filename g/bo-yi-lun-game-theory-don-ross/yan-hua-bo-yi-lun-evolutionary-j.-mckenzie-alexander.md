@@ -3,31 +3,7 @@
 *首次发表于 2002 年 1 月 14 日星期一；实质性修订于 2021 年 4 月 24 日星期六*
 
 演化博弈论起源于将博弈论数学理论应用于生物背景的一种情况，这源于频率依赖适应性引入了进化中的战略方面的认识。然而，最近，演化博弈论对经济学家、社会学家和人类学家以及哲学家产生了越来越大的兴趣——以及社会科学家总体上的兴趣。社会科学家对具有明确生物学根源的理论的兴趣源自三个事实。首先，演化博弈论所处理的“演化”不一定是生物演化。“演化”在这种情况下，通常可以被理解为文化演化，这指的是随时间变化的信念和规范。其次，演化博弈论所基于的理性假设，在许多情况下，比传统博弈论基础上的假设更适合于对社会系统的建模。第三，作为明确动态理论的演化博弈论，提供了传统理论中缺失的一个重要元素。在《演化与博弈论》的前言中，梅纳德·史密斯指出“[矛盾的是，原来设计用于经济行为领域的博弈论，现在更容易应用于生物学]”。因此，随后演化博弈论的发展产生了一个对社会科学家具有巨大潜力的理论，并且与最初设计用途相同的经济行为领域一样容易应用。
-
-* [1. 历史发展](https://plato.stanford.edu/entries/game-evolutionary/#HistDeve)
-* [2. 演化博弈论的两种方法](https://plato.stanford.edu/entries/game-evolutionary/#TwoApprEvolGameTheo)
-
-  * [2.1 演化稳定性的定义](https://plato.stanford.edu/entries/game-evolutionary/#DefiEvolStab)
-  * [2.2 演化稳定性的动态概念](https://plato.stanford.edu/entries/game-evolutionary/#DynaConcEvolStab)
-* [3. 动力学、稳定性和理性结果](https://plato.stanford.edu/entries/game-evolutionary/#DynaStabRatiOutc)
-* [4. 为什么选择演化博弈论？](https://plato.stanford.edu/entries/game-evolutionary/#WhyEvolGameTheo)
-
-  * [4.1 平衡选择问题](https://plato.stanford.edu/entries/game-evolutionary/#EquiSeleProb)
-  * [4.2 超理性代理的问题](https://plato.stanford.edu/entries/game-evolutionary/#ProbHypeAgen)
-  * [4.3 传统博弈论中缺乏动力理论](https://plato.stanford.edu/entries/game-evolutionary/#LackDynaTheoTradTheoGame)
-* [5. 演化博弈论的应用](https://plato.stanford.edu/entries/game-evolutionary/#ApplEvolGameTheo)
-
-  * [5.1 公平感](https://plato.stanford.edu/entries/game-evolutionary/#SensFair)
-  * [5.2 语言的出现。](https://plato.stanford.edu/entries/game-evolutionary/#EmerLang)
-* [6. 演化博弈论的哲学问题](https://plato.stanford.edu/entries/game-evolutionary/#PhilProbEvolGameTheo)
-
-  * [6.1 文化演化解释中适应度的含义](https://plato.stanford.edu/entries/game-evolutionary/#MeanFitnCultEvolInte)
-  * [6.2 演化博弈论的解释无关性](https://plato.stanford.edu/entries/game-evolutionary/#ExplIrreEvolGameTheo)
-  * [6.3 演化博弈论解释的价值取向](https://plato.stanford.edu/entries/game-evolutionary/#ValuLadeEvolGameTheoExpl)
-* [ 参考文献](https://plato.stanford.edu/entries/game-evolutionary/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/game-evolutionary/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/game-evolutionary/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/game-evolutionary/#Rel)
+ 
 
 ---
 

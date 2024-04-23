@@ -12,27 +12,7 @@
 
 指出本文不涉及的内容也很重要。斯坦福哲学百科全书（SEP）中已经有许多条目专门涉及基因、遗传学以及 HGP，因此，本条目不会详细讨论“基因”概念的历史或哲学问题（请参阅 SEP 条目基因，以及分子生物学、分子遗传学和人类基因组计划的条目），也不会涉及 HGP 的历史（请参阅 SEP 条目，人类基因组计划）。在基因组学中也起到作用的更广泛问题，如生物信息的概念和还原主义问题，也已在一系列 SEP 条目中讨论过（有关还原主义的更多信息，请参阅生物学中的还原主义；基因；HGP；和分子遗传学，有关“遗传程序”隐喻和生物信息的更多信息，请参阅生物信息；基因；分子遗传学；和分子生物学的条目）。此外，可能最重要的是，我们的重点将放在基因组学引发的认识论、本体论和方法论问题上，而不是 DNA 测序不可避免带来的伦理、法律和社会问题（但请参阅 HGP 条目以获取更多信息）。
 
-* [1. 术语和定义](https://plato.stanford.edu/entries/genomics/#TermDefi)
-
-  * [1.1 基因—基因组—基因组学](https://plato.stanford.edu/entries/genomics/#Gene)
-  * [1.2 什么是基因组?](https://plato.stanford.edu/entries/genomics/#WhatGeno)
-* [2. 读取基因组](https://plato.stanford.edu/entries/genomics/#ReadGeno)
-
-  * [2.1 HGP 的前奏](https://plato.stanford.edu/entries/genomics/#RunUpHGP)
-  * [2.2 基因组学和后基因组学的结果和影响](https://plato.stanford.edu/entries/genomics/#ResuImpaHGP)
-  * [2.3 基因组大小，C-值悖论和垃圾 DNA](https://plato.stanford.edu/entries/genomics/#GenoSizeCValuParaJunkDNA)
-* [3. 超越测序](https://plato.stanford.edu/entries/genomics/#BeyoSequ)
-
-  * [3.1 国际单体型图计划](https://plato.stanford.edu/entries/genomics/#InteHapMProj)
-  * [ 3.2 宏基因组学](https://plato.stanford.edu/entries/genomics/#Meta)
-* [ 4. 展望](https://plato.stanford.edu/entries/genomics/#Outl)
-
-  * [补充：ENCODE 项目和 ENCODE 争议](https://plato.stanford.edu/entries/genomics/encode-project.html)
-* [ 参考文献](https://plato.stanford.edu/entries/genomics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/genomics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/genomics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/genomics/#Rel)
-
+ 
 ---
 
 ## 1. 术语和定义

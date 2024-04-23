@@ -6,28 +6,7 @@
 
 因此，哲学家们对遗传学产生了浓厚兴趣，试图理解这门科学是如何运作的，它对世界的意义是什么，以及它对生活在一个如此关注基因的社会中的人们产生了什么影响。这本百科全书很好地代表了这种重要的哲学兴趣。超过 100 个条目讨论了遗传学的某个方面，这些条目涉及了广泛的哲学问题——关于科学解释的问题，关于进化过程的问题，关于残疾的问题，关于种族的问题。由于对遗传学存在如此多元化的哲学兴趣，没有一个百科全书条目能够充分展现这门科学及其所受到的丰富哲学关注的全部范围。相反，这个条目作为进入那个哲学世界的门户。在对遗传学科学及其变革性影响进行历史引导性介绍之后，本文审视了遗传学引发的一些哲学问题样本，并指向更详细讨论这些主题的条目。希望这个条目能够作为一个导向，引导读者了解分布在整个百科全书中关于遗传学的哲学思想的多样性。(关于进化的条目提供了类似的指南，以指引查阅围绕该主题展开的哲学讨论的宝库。)
 
-* [1. 遗传学的科学](https://plato.stanford.edu/entries/genetics/#ScieGene)
-
-  * [1.1 一个学科的诞生](https://plato.stanford.edu/entries/genetics/#BirtDisc)
-  * [1.2 遗传学与优生学](https://plato.stanford.edu/entries/genetics/#GeneEuge)
-  * [1.3 遗传学进入分子领域](https://plato.stanford.edu/entries/genetics/#GeneGoesMole)
-  * [ 1.4 医学遗传学](https://plato.stanford.edu/entries/genetics/#MediGene)
-  * [1.5 遗传学进入基因组和后基因组时代](https://plato.stanford.edu/entries/genetics/#GeneGoesGenoPost)
-* [2. 关于遗传学的哲学问题](https://plato.stanford.edu/entries/genetics/#PhilQuesAbouGene)
-
-  * [2.1 传统遗传学和分子遗传学之间的关系是什么？](https://plato.stanford.edu/entries/genetics/#WhatRelaBetwClasGeneMoleGene)
-  * [2.2 “基因”是什么？](https://plato.stanford.edu/entries/genetics/#WhatGene)
-  * [2.3 基因的功能是什么？](https://plato.stanford.edu/entries/genetics/#WhatDoGeneDo)
-  * [2.4 遗传学是否是自然选择的目标？](https://plato.stanford.edu/entries/genetics/#GeneTargNatuSele)
-  * [2.5 谁从医学遗传学中受益？谁会受到伤害？](https://plato.stanford.edu/entries/genetics/#WhoBeneMediGeneWhoHarmIt)
-  * [2.6 遗传学应该用于人类增强吗？](https://plato.stanford.edu/entries/genetics/#ShouGeneUtilForHumaEnha)
-  * [2.7 种族是否“在基因中”？](https://plato.stanford.edu/entries/genetics/#RaceGene)
-* [ 3. 结论](https://plato.stanford.edu/entries/genetics/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/genetics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/genetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/genetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/genetics/#Rel)
-
+ 
 ---
 
 ## 1. 遗传学的科学

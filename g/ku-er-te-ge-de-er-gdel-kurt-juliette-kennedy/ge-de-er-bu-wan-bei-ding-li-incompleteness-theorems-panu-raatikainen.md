@@ -4,39 +4,7 @@ _首次发表于2013年11月11日星期一；实质性修订于2020年4月2日�
 
 哥德尔的两个不完备定理是现代逻辑中最重要的结果之一，对各种问题有深远的影响。它们涉及形式公理理论中可证明性的限制。第一个不完备定理指出，在任何一致的形式系统 F 中，可以进行一定数量的算术运算，F 的语言中存在无法在 F 中证明或证伪的陈述。根据第二个不完备定理，这样一个形式系统无法证明系统本身的一致性（假设它确实是一致的）。这些结果对数学和逻辑的哲学产生了巨大影响。人们还试图将这些结果应用于其他哲学领域，如心灵哲学，但这些尝试的应用更具争议。本文概述了这两个不完备定理及其周围的各种问题。（有关哥德尔的不完备定理的讨论，请参见 Kurt Gödel 的条目，将其置于他的数学和哲学工作的更广泛讨论的背景中。）
 
-* [1. 引言](https://plato.stanford.edu/entries/goedel-incompleteness/#Int)
-  * [1.1 概述](https://plato.stanford.edu/entries/goedel-incompleteness/#Out)
-  * [1.2 一些形式化的理论](https://plato.stanford.edu/entries/goedel-incompleteness/#SomForThe)
-  * [1.3 哥德尔不完备定理的相关性](https://plato.stanford.edu/entries/goedel-incompleteness/#RelChuTurThe)
-* [2. 哥德尔不完备定理的第一部分](https://plato.stanford.edu/entries/goedel-incompleteness/#FirIncThe)
-  * [2.1 准备工作](https://plato.stanford.edu/entries/goedel-incompleteness/#Pre)
-  * [2.2 可表示性](https://plato.stanford.edu/entries/goedel-incompleteness/#Rep)
-  * [2.3 形式语言的算术化](https://plato.stanford.edu/entries/goedel-incompleteness/#AriForLan)
-  * [2.4 对角线化，或者“自指”](https://plato.stanford.edu/entries/goedel-incompleteness/#DiaSelRef)
-  * [2.5 第一不完备定理——证明完成](https://plato.stanford.edu/entries/goedel-incompleteness/#FirIncTheCom)
-  * [2.6 不完备性和非标准模型](https://plato.stanford.edu/entries/goedel-incompleteness/#IncNonStaMod)
-* [3. 哥德尔不完备定理](https://plato.stanford.edu/entries/goedel-incompleteness/#SecIncThe)
-  * [3.1 准备工作](https://plato.stanford.edu/entries/goedel-incompleteness/#Prethree)
-  * [3.2 可导性条件](https://plato.stanford.edu/entries/goedel-incompleteness/#DerCon)
-  * [3.3 哥德尔不完备定理的费弗曼替代方法](https://plato.stanford.edu/entries/goedel-incompleteness/#FefAltAppSecThe)
-* [4. 与哥德尔不完备定理相关的结果](https://plato.stanford.edu/entries/goedel-incompleteness/#ResRelIncThe)
-  * [4.1 塔斯基关于真理不可定义性的定理](https://plato.stanford.edu/entries/goedel-incompleteness/#TarTheUndTru)
-  * [4.2 哥德尔不完备定理](https://plato.stanford.edu/entries/goedel-incompleteness/#UndRes)
-  * [4.3 反射原理和 Löb 定理](https://plato.stanford.edu/entries/goedel-incompleteness/#RefPriLbsThe)
-  * [4.4 希尔伯特第十问题和 MRDP 定理](https://plato.stanford.edu/entries/goedel-incompleteness/#HilTenProMRDThe)
-  * [4.5 无法证明的陈述的具体案例](https://plato.stanford.edu/entries/goedel-incompleteness/#ConCasUnpSta)
-* [5. 哥德尔不完备定理的历史和早期接受情况](https://plato.stanford.edu/entries/goedel-incompleteness/#HisEarRecIncThe)
-* [6. 哲学意义-真实和被指责的](https://plato.stanford.edu/entries/goedel-incompleteness/#PhiImpAll)
-  * [6.1 数学哲学](https://plato.stanford.edu/entries/goedel-incompleteness/#Mat)
-  * [6.2 自明和分析真理](https://plato.stanford.edu/entries/goedel-incompleteness/#SelEviAnaTru)
-  * [6.3 对机械主义的“哥德尔式”论证](https://plato.stanford.edu/entries/goedel-incompleteness/#GdeArgAgaMec)
-  * [6.4 哥德尔和贝纳塞拉夫关于机械主义和形而上学](https://plato.stanford.edu/entries/goedel-incompleteness/#GdeBenMecPla)
-  * [6.5 神秘主义和上帝的存在？](https://plato.stanford.edu/entries/goedel-incompleteness/#MysExiGod)
-* [进一步阅读](https://plato.stanford.edu/entries/goedel-incompleteness/#FurRea)
-* [参考文献](https://plato.stanford.edu/entries/goedel-incompleteness/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/goedel-incompleteness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/goedel-incompleteness/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/goedel-incompleteness/#Rel)
+ 
 
 ***
 

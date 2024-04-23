@@ -8,16 +8,7 @@
 
 威廉·戈德温的哲学重要性主要体现在他的《政治正义》一书上。他还写了其他哲学著作，如《询问者》（1798 年）和《人的思考》（1831 年），但他因他的小说而更为人所知，其中最著名的是《事物的本来面目，或者卡勒布·威廉斯的冒险》（1794 年），以及他在 1783 年至 1836 年期间在文学伦敦中扮演的角色——从他在 1790 年代的鼎盛时期作为激进的哲学家与玛丽·沃尔斯通克拉夫特结婚，到接下来的四十年中，他成为托马斯·马尔萨斯、塞缪尔·帕尔和一大批反雅各宾派作家攻击的对象，成为浪漫主义诗人的朋友，出版商和儿童书籍的作者，珀西·比希·雪莱的岳父和寄生虫，以及内战的历史学家，直到他最后以托利党政府的养老金受益人的异常地位。他的文件，尤其是他的日记，记录了他阅读、写作和会见的情况，为浪漫主义时期的学者提供了巨大的资源。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/godwin/#Lif)
-* [ 2. 名誉](https://plato.stanford.edu/entries/godwin/#Rep)
-* [ 3. 政治哲学](https://plato.stanford.edu/entries/godwin/#PolPhil)
-* [ 4. 道德哲学](https://plato.stanford.edu/entries/godwin/#MorPhil)
-* [5. 历史哲学](https://plato.stanford.edu/entries/godwin/#APhilHist)
-* [ 参考书目](https://plato.stanford.edu/entries/godwin/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/godwin/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/godwin/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/godwin/#Rel)
-
+ 
 ---
 
 ## 1. 生活

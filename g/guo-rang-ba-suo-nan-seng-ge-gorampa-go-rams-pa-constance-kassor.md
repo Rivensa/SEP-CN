@@ -6,19 +6,7 @@
 
 像大多数藏传佛教哲学家一样，果让巴认为自己是印度哲学家龙树（Nāgārjuna）在公元 2 世纪发展的中观派（Madhyamaka）的追随者。然而，就中观派内部的特定问题而言，他的观点与属于其他藏传佛教教派的学者（例如宗喀巴和多尔巴）的观点有着显著差异，有时，他的观点甚至与其他萨迦派学者（尤其是释迦却登）的观点不同。果让巴的中观哲学特色在于他对两谛之间关系的理解，否定的运用，逻辑的作用以及哲学论证的适当方法。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/gorampa/#LifWor)
-* [2. 果让巴的中观](https://plato.stanford.edu/entries/gorampa/#GorMad)
-
-  * [2.1 两谛](https://plato.stanford.edu/entries/gorampa/#TwoTru)
-  * [ 2.2 否定](https://plato.stanford.edu/entries/gorampa/#Neg)
-  * [2.3 逻辑的作用](https://plato.stanford.edu/entries/gorampa/#RolLog)
-  * [2.4 论证方法](https://plato.stanford.edu/entries/gorampa/#MetArg)
-* [3. 对其他哲学家的影响](https://plato.stanford.edu/entries/gorampa/#InfOthPhi)
-* [ 参考文献](https://plato.stanford.edu/entries/gorampa/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/gorampa/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gorampa/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gorampa/#Rel)
-
+ 
 ---
 
 ## 1. 生平与著作

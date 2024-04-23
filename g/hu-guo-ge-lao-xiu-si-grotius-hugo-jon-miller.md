@@ -3,24 +3,7 @@
 *首次发表于2005年12月16日星期五；实质性修订于2021年1月8日星期五*
 
 胡果·格劳秀斯（1583-1645）[Hugo, Huigh 或 Hugeianus de Groot]是 17 世纪及其后数百年哲学、政治理论、法律及相关领域的重要人物。他的工作涉及广泛的主题，尽管今天的哲学家们最熟悉他对自然法规范理论的贡献，这些理论在中世纪晚期和近代早期出现。本文将尝试解释他对自然法律及相关问题的看法，同时对他在思想史上的地位进行一些更广泛的评估。
-
-* [1. 生平与著作](https://plato.stanford.edu/entries/grotius/#LifeWork)
-
-  * [ 1.1 生平](https://plato.stanford.edu/entries/grotius/#Life)
-  * [ 1.2 作品](https://plato.stanford.edu/entries/grotius/#Work)
-* [ 2. 方法](https://plato.stanford.edu/entries/grotius/#Meth)
-* [ 3. 自然法](https://plato.stanford.edu/entries/grotius/#NatuLaw)
-* [ 4. 政治哲学](https://plato.stanford.edu/entries/grotius/#PoliPhil)
-* [5. 公正战争学说](https://plato.stanford.edu/entries/grotius/#JustWarDoct)
-* [6. 原创性和影响](https://plato.stanford.edu/entries/grotius/#OrigInfl)
-* [ 参考书目](https://plato.stanford.edu/entries/grotius/#Bib)
-
-  * [主要文本和翻译](https://plato.stanford.edu/entries/grotius/#PrimTextTran)
-  * [选择性二级文献](https://plato.stanford.edu/entries/grotius/#SeleSecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/grotius/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/grotius/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/grotius/#Rel)
-
+ 
 ---
 
 ## 1. 生平与著作

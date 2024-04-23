@@ -6,23 +6,7 @@ _首次发布于2005年4月29日星期五；实质性修订于2019年8月6日星
 
 如果存在的话，有各种实体可能是必然存在的候选者：上帝、命题、关系、属性、事实状态、可能世界和数字等。请注意，列表中的第一个实体是具体实体，而其余是抽象实体。当人们探讨必然存在的问题时，会涌现许多有趣的哲学问题：是什么导致它们必然存在？它们的必然存在有基础吗？它们中的一些是否依赖于其他实体？如果是，人们如何理解这种依赖关系？
 
-* [1. 提出问题](https://plato.stanford.edu/entries/god-necessary-being/#StatQues)
-* [2. 为什么有人会相信上帝是必然存在的抽象对象的基础？](https://plato.stanford.edu/entries/god-necessary-being/#WhyMighSomeBeliGodGrouExisNeceExisAbstObje)
-* [3. 上帝作为抽象对象的基础 I：认为所有必然存在的抽象对象都是上帝所基础的观点](https://plato.stanford.edu/entries/god-necessary-being/#GodsGrouAbstObjeIViewWhicNeceExisAbstAllGrouGod)
-  * [3.1 神学意志论](https://plato.stanford.edu/entries/god-necessary-being/#TheiVolu)
-  * [3.2 神论的外放主义](https://plato.stanford.edu/entries/god-necessary-being/#TheiEman)
-  * [3.3 神论的心灵主义（不包括神的简单性）](https://plato.stanford.edu/entries/god-necessary-being/#TheiMentWithDiviSimp)
-  * [3.4 神论的心灵主义（包括神的简单性）](https://plato.stanford.edu/entries/god-necessary-being/#TheiMentDiviSimp)
-* [4. 上帝的抽象对象基础 II：关于不存在必然存在的抽象对象的观点，所有抽象对象都基于上帝](https://plato.stanford.edu/entries/god-necessary-being/#GodsGrouAbstObjeIIViewWhicTherArenNeceExisAbstObjeAllGrouGod)
-  * [4.1 神论柏拉图主义](https://plato.stanford.edu/entries/god-necessary-being/#TheiPlat)
-  * [4.2 神论名义主义](https://plato.stanford.edu/entries/god-necessary-being/#TheiNomi)
-  * [4.3 混合观点 1：心灵主义-柏拉图主义](https://plato.stanford.edu/entries/god-necessary-being/#MixeView1MentPlat)
-  * [4.4 混合观点 2：反自举产生主义](https://plato.stanford.edu/entries/god-necessary-being/#MixeView2AntiBootEman)
-* [参考文献](https://plato.stanford.edu/entries/god-necessary-being/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/god-necessary-being/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/god-necessary-being/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/god-necessary-being/#Rel)
-
+ 
 ***
 
 ## 1. 提出问题

@@ -3,24 +3,7 @@
 _首次发布于2010年9月7日星期二_
 
 范畴类型逻辑是次结构逻辑，旨在推理自然语言中形式和含义的组成。这些语法的核心是类型形成操作的残余家族；范畴类型逻辑的层次结构源自于对类型形成操作的结构特性所做的选择，以及引入的用于控制语法资源管理的手段。计算语义是从范畴推导的柯里-霍华德解释中获得的。解析和自然语言处理是以线性逻辑的证明网的适当精炼版本建模的。
-
-* [1. 一点历史](https://plato.stanford.edu/entries/typelogical-grammar/#BitHis)
-* [2. Lambek 系统](https://plato.stanford.edu/entries/typelogical-grammar/#LamSys)
-  * [2.1 模拟语法组成](https://plato.stanford.edu/entries/typelogical-grammar/#ModGraCom)
-  * [2.2 语法-语义界面](https://plato.stanford.edu/entries/typelogical-grammar/#SynSemInt)
-* [3. 扩展的范畴类型逻辑](https://plato.stanford.edu/entries/typelogical-grammar/#ExtTypGra)
-  * [3.1 多模态系统，结构控制](https://plato.stanford.edu/entries/typelogical-grammar/#MulSysStrCon)
-  * [3.2 不连续性逻辑](https://plato.stanford.edu/entries/typelogical-grammar/#LogDis)
-  * [3.3 对称范畴类型逻辑](https://plato.stanford.edu/entries/typelogical-grammar/#SymCatGra)
-  * [3.4 灵活解释，延续语义](https://plato.stanford.edu/entries/typelogical-grammar/#FleIntConSem)
-* [4. 证明网和处理](https://plato.stanford.edu/entries/typelogical-grammar/#ProNetPro)
-* [5. 识别能力，复杂度](https://plato.stanford.edu/entries/typelogical-grammar/#RecCapCom)
-* [6. 相关方法](https://plato.stanford.edu/entries/typelogical-grammar/#RelApp)
-* [参考文献](https://plato.stanford.edu/entries/typelogical-grammar/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/typelogical-grammar/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/typelogical-grammar/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/typelogical-grammar/#Rel)
-
+ 
 ***
 
 ## 1. 一点历史

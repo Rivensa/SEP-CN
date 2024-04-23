@@ -4,52 +4,7 @@
 
 基因型的主要现代含义是DNA的某些相关部分，由其父母传递给生物体。表现型是生物体的物理和行为特征，例如大小和形状，代谢活动以及运动模式。在进化理论中，它们之间的区别尤为重要，生物体的生存和交配取决于它们的特征，但被认为不受特征在生命周期内发展的影响的DNA被传递给下一代。哲学讨论现在主要将主要含义视为已知，并集中于基因型-表现型关系的问题。例如：DNA如何被解释为生物体特征发展过程的信息？DNA与生物体发展中的其他影响之间的因果关系如何？（参见关于遗传系统和生物信息的条目，以及Griffiths＆Stotz 2013）。尽管不忽视这些问题的重要性，但本条目的重点仍然放在基因型-表现型区别上。鉴于哲学家对这个问题的讨论很少，本条目无法采取审阅已发表辩论的标准形式。为了帮助构建和引导读者的概念探究，需要另一种方法。本条目从以下观察开始构建：基因型和表现型的原始含义以及威廉·约翰森（1911年）所给出的区别与现在主导的含义（如上所述）相当不同，并且在约翰森和至今存在不同类型的含义。为了理解这些观察结果，将重点回顾约翰森的论文，特别涉及对生物材料和条件控制的实践或假设。随后的发展将描述与基于育种实验构思遗传的问题相关的情况。 这种框架涉及许多哲学讨论领域，包括生物哲学中的“新实验主义”（请参阅生物学实验条目）、抽象（请参阅抽象对象条目）、确认、模糊性、科学现实主义、描述性与规范性方法，以及科学知识的社会维度。同时，这种框架有助于提出一些在这些讨论中尚未得到很好解决的问题，并对许多人认为已经解决的问题产生影响，当他们提到基因型/表现型区别时，仅仅是在考虑 DNA 与特征之间的区别。
 
-* [1. 奠定基础：基因型和表现型的不同含义](https://plato.stanford.edu/entries/genotype-phenotype/#SettScenDiffKindMeanGenoPhen)
-* [2. 约翰森（1911 年）的目标和未解之谜](https://plato.stanford.edu/entries/genotype-phenotype/#GoalOpenQuesJoha1911)
-
-  * [2.1 目标：建立可重复的结果并揭示隐藏的过程](https://plato.stanford.edu/entries/genotype-phenotype/#GoalEstaRepeOutcExpoHiddProc)
-
-    * [2.1.1 遗传的“传输-受孕”的替代方案](https://plato.stanford.edu/entries/genotype-phenotype/#AlteTranConcHere)
-    * [2.1.2 用表现型明确区分基因型](https://plato.stanford.edu/entries/genotype-phenotype/#UnamUsePhenDistGeno)
-  * [2.2 进展、模糊性和未解问题](https://plato.stanford.edu/entries/genotype-phenotype/#AdvaAmbiOpenQues)
-
-    * [2.2.1 连续变异](https://plato.stanford.edu/entries/genotype-phenotype/#ContVari)
-    * [2.2.2 颗粒因素](https://plato.stanford.edu/entries/genotype-phenotype/#PartFact)
-    * [2.2.3 物种共享的组织](https://plato.stanford.edu/entries/genotype-phenotype/#SpecSharOrga)
-    * [2.2.4 发育机制](https://plato.stanford.edu/entries/genotype-phenotype/#MechDeve)
-    * [2.2.5 生殖细胞的共享性质](https://plato.stanford.edu/entries/genotype-phenotype/#SharNatuGermCell)
-* [3. 从孟德尔研究和模型到现在：进展、模糊和持续存在的问题](https://plato.stanford.edu/entries/genotype-phenotype/#MendReseModePresAdvaAmbiPersQues)
-
-  * [3.1 颗粒因子—沿染色体定位基因](https://plato.stanford.edu/entries/genotype-phenotype/#PartFactGeneAlonChro)
-  * [3.2 鉴定表现型和基因型—复杂性](https://plato.stanford.edu/entries/genotype-phenotype/#IdenPhenGeno)
-  * [3.3 连续变异](https://plato.stanford.edu/entries/genotype-phenotype/#ContVari_1)
-  * [3.4 连续变异; 颗粒因素](https://plato.stanford.edu/entries/genotype-phenotype/#ContVariPartFact)
-  * [3.5 生殖细胞的共同性质; 发育机制; 基因的物质基础](https://plato.stanford.edu/entries/genotype-phenotype/#SharNatuGermCellMechDeveMateBasiForGene)
-* [4. 通过关注生物材料和条件的控制引发的哲学问题](https://plato.stanford.edu/entries/genotype-phenotype/#PhilIssuBrouPlayAtteContBiolMateCond)
-* [5. 控制和再整合](https://plato.stanford.edu/entries/genotype-phenotype/#ContRein)
-
-  * [5.1 实验基因型](https://plato.stanford.edu/entries/genotype-phenotype/#ExpeGene)
-
-    * [ 5.1.1 自交系](https://plato.stanford.edu/entries/genotype-phenotype/#InbrLine)
-    * [ 5.1.2 孟德尔交配](https://plato.stanford.edu/entries/genotype-phenotype/#MendCros)
-    * [5.1.3 分子遗传学](https://plato.stanford.edu/entries/genotype-phenotype/#MoleGene)
-  * [5.2 用于选择性育种的模型](https://plato.stanford.edu/entries/genotype-phenotype/#UseModeForSeleBree)
-
-    * [5.2.1 数量遗传学](https://plato.stanford.edu/entries/genotype-phenotype/#QuanGene)
-    * [5.2.2 种群遗传学](https://plato.stanford.edu/entries/genotype-phenotype/#PopuGene)
-* [6. 基因型/表现型区别的意义](https://plato.stanford.edu/entries/genotype-phenotype/#WhatGenoPhenDistSign)
-
-  * [6.1 特征之间的障碍及传递给下一代的内容](https://plato.stanford.edu/entries/genotype-phenotype/#BarrBetwTraiWhatTranNextGene)
-  * [6.2 进化定义为基因频率的变化](https://plato.stanford.edu/entries/genotype-phenotype/#EvolDefiChanGeneFreq)
-  * [6.3 基因型到表现型的关系作为发展](https://plato.stanford.edu/entries/genotype-phenotype/#DeveGenoPhenRela)
-  * [6.4 重要的是可观表面下或内部的东西](https://plato.stanford.edu/entries/genotype-phenotype/#WhatCounUndeInsiObseSurf)
-  * [6.5 利用一个术语意义得出的遗传学发现证实了利用不同意义得出的发现](https://plato.stanford.edu/entries/genotype-phenotype/#FindAbouHereDeriUsinOneMeanTermAffiFindDeriUsinDiffMean)
-* [7. 因果关系的结语](https://plato.stanford.edu/entries/genotype-phenotype/#CodaCaus)
-* [ 参考文献](https://plato.stanford.edu/entries/genotype-phenotype/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/genotype-phenotype/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/genotype-phenotype/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/genotype-phenotype/#Rel)
-
+ 
 ---
 
 ## 1. 设定背景：基因型和表现型的不同含义

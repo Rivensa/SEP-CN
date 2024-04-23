@@ -6,33 +6,7 @@ _首次发表于2014年11月21日星期五；实质性修订于2024年2月8日�
 
 在本文中，我们关注古德曼的生平、哲学观念、科学哲学、逻辑、语言和数学，以及形而上学。有关古德曼符号理论和艺术哲学，请参阅古德曼美学的单独条目。
 
-* [1. 生平](https://plato.stanford.edu/entries/goodman/#Lif)
-* [2. 反绝对主义](https://plato.stanford.edu/entries/goodman/#AntAbs)
-  * [2.1 经验中的给定神话](https://plato.stanford.edu/entries/goodman/#MytGivExp)
-  * [2.2 分析/综合区别与意义的相似性](https://plato.stanford.edu/entries/goodman/#AnaDisLikMea)
-* [3. 名实论和整体论](https://plato.stanford.edu/entries/goodman/#NomMer)
-  * [3.1 名实论](https://plato.stanford.edu/entries/goodman/#Nom)
-  * [3.2 整体论](https://plato.stanford.edu/entries/goodman/#Mer)
-* [4. 外观的结构](https://plato.stanford.edu/entries/goodman/#StrApp)
-  * [4.1 古德曼对分析的看法](https://plato.stanford.edu/entries/goodman/#GooAna)
-  * [4.2 对卡尔纳普《构建》的批判](https://plato.stanford.edu/entries/goodman/#CriCarAuf)
-  * [4.3 纳尔逊·古德曼的独特构想](https://plato.stanford.edu/entries/goodman/#GooOwnCon)
-  * [4.4 《表象的结构》的意义](https://plato.stanford.edu/entries/goodman/#SigStrApp)
-* [5. 归纳的新旧谜题及其解决方案](https://plato.stanford.edu/entries/goodman/#OldNewRidIndTheSol)
-  * [5.1 归纳的旧问题是一个伪问题](https://plato.stanford.edu/entries/goodman/#OldProIndPsePro)
-  * [5.2 休谟的问题、逻辑和反思均衡](https://plato.stanford.edu/entries/goodman/#HumProLogRefEqu)
-  * [5.3 归纳的新谜团](https://plato.stanford.edu/entries/goodman/#NewRidInd)
-  * [5.4 纳尔逊·古德曼的解决方案](https://plato.stanford.edu/entries/goodman/#GooSol)
-* [6. 非现实主义与世界构建](https://plato.stanford.edu/entries/goodman/#IrrWor)
-  * [6.1 非现实主义](https://plato.stanford.edu/entries/goodman/#Irr)
-  * [6.2 世界建构](https://plato.stanford.edu/entries/goodman/#Wor)
-* [参考书目](https://plato.stanford.edu/entries/goodman/#Bib)
-  * [A. 主要来源](https://plato.stanford.edu/entries/goodman/#PriSou)
-  * [B. 二手资料](https://plato.stanford.edu/entries/goodman/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/goodman/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/goodman/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/goodman/#Rel)
-
+ 
 ***
 
 ## 1. 生平

@@ -3,33 +3,7 @@
 _首次发表于 1997 年 1 月 25 日，实质性修订于 2023 年 9 月 3 日。_
 
 博弈论是研究经济主体相互作用选择如何产生与这些主体的偏好（或效用）相关的结果的学科，其中所讨论的结果可能没有任何一个主体的意图。对于非专家来说，除非解释并且在一些例子中展示了每个斜体字和短语，否则这个陈述的意义将不清楚。这将是本文的主要内容。然而，首先，我们提供一些历史和哲学背景，以激发读者对即将展开的技术工作的兴趣。
-
-* [1. Philosophical and Historical Motivation](https://plato.stanford.edu/entries/game-theory/#Mot)
-* [2. Basic Elements and Assumptions of Game Theory](https://plato.stanford.edu/entries/game-theory/#Bas)
-  * [2.1 Utility](https://plato.stanford.edu/entries/game-theory/#Util)
-  * [2.2 Games and Rationality](https://plato.stanford.edu/entries/game-theory/#Games)
-  * [2.3 Trees and Matrices](https://plato.stanford.edu/entries/game-theory/#trees)
-  * [2.4 The Prisoner’s Dilemma as an Example of Strategic-Form vs. Extensive-Form Representation](https://plato.stanford.edu/entries/game-theory/#PD)
-  * [2.5 解决方案概念和均衡](https://plato.stanford.edu/entries/game-theory/#SolConEqu)
-  * [2.6 子博弈完美](https://plato.stanford.edu/entries/game-theory/#Subgame)
-  * [2.7 On Interpreting Payoffs: Morality and Efficiency in Games](https://plato.stanford.edu/entries/game-theory/#IP)
-  * [2.8 Trembling Hands and Quantal Response Equilibria](https://plato.stanford.edu/entries/game-theory/#trembling)
-* [3. 不确定性、风险和顺序均衡](https://plato.stanford.edu/entries/game-theory/#Uncer)
-  * [3.1 信念和主观概率](https://plato.stanford.edu/entries/game-theory/#Beliefs)
-* [4. Repeated Games and Coordination](https://plato.stanford.edu/entries/game-theory/#Repeat)
-* [5. Team reasoning and conditional games](https://plato.stanford.edu/entries/game-theory/#Team)
-* [6. 承诺](https://plato.stanford.edu/entries/game-theory/#Com)
-* [进化博弈论](https://plato.stanford.edu/entries/game-theory/#Evo)
-* [8. 博弈论与行为证据](https://plato.stanford.edu/entries/game-theory/#Behav)
-  * [8.1 实验室中的博弈论](https://plato.stanford.edu/entries/game-theory/#Lab)
-  * [8.2 神经经济学与博弈论](https://plato.stanford.edu/entries/game-theory/#Neuro)
-  * [8.3 人性的博弈论模型](https://plato.stanford.edu/entries/game-theory/#Human)
-* [9. Looking Ahead: Areas of Current Innovation](https://plato.stanford.edu/entries/game-theory/#Future)
-* [Bibliography](https://plato.stanford.edu/entries/game-theory/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/game-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/game-theory/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/game-theory/#Rel)
-
+ 
 ***
 
 ## 1. Philosophical and Historical Motivation

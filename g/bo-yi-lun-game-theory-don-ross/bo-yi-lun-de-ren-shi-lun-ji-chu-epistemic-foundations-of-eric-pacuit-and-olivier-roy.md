@@ -5,51 +5,7 @@ _首次发布于 2015 年 3 月 13 日_
 博弈论的基础工作旨在明确阐明该学科基本概念所依据的假设。非合作博弈论是研究在战略互动情境中的个体、理性决策行为的学科。本条目介绍了非合作博弈论的认知基础（这个研究领域被称为_认知博弈论_）。
 
 认知博弈论将博弈中的理性决策视为与在不确定性下的理性决策本质上没有不同。正如决策理论（Peterson 2009）中所述，在博弈中做出理性选择就是根据自己的信念或信息选择“最佳”行动。在决策问题中，决策者的信念是关于一种被动的自然状态，这种状态决定了她的行动的后果。在博弈中，一个人的决策后果取决于_其他_参与情况的代理人的选择（可能还取决于自然状态）。意识到这一点——即，自己正在与试图根据自己的信念选择最佳行动的其他代理人进行互动——将_高阶信息_纳入了考虑范围。玩家的信念不再仅仅是关于被动的或外部环境。它们涉及到其他玩家的选择_和信息_。一个人对对手的期望取决于她认为其他人对她的期望，而其他人对一个给定玩家的期望取决于他们认为她对他们的期望是什么。 本条目概述了在广义决策理论视角下涉及理性决策的游戏中出现的问题。在对游戏中的信息进行一些一般性评论之后，我们介绍了在认识论博弈论和认识论逻辑中发展的形式工具，这些工具已被用于理解互动决策中高阶信息的作用。然后，我们展示了这些工具如何用于表征已知的游戏“解概念”，以便在特定信息背景下进行理性决策。在此过程中，我们强调了该领域出现的一些哲学问题。
-
-* [1. 游戏的认识论视角](https://plato.stanford.edu/entries/epistemic-game/#EpiVieGam)
-  * [1.1 经典博弈论](https://plato.stanford.edu/entries/epistemic-game/#ClaGamThe)
-  * [1.2 認知博弈论](https://plato.stanford.edu/entries/epistemic-game/#EpiGamThe)
-  * [1.3 决策阶段](https://plato.stanford.edu/entries/epistemic-game/#StaDecMak)
-  * [1.4 不完全信息](https://plato.stanford.edu/entries/epistemic-game/#IncInf)
-  * [1.5 Imperfect Information and Perfect Recall](https://plato.stanford.edu/entries/epistemic-game/#ImpInfPerRec)
-  * [1.6 Mixed Strategies](https://plato.stanford.edu/entries/epistemic-game/#MixStr)
-* [2. Game Models](https://plato.stanford.edu/entries/epistemic-game/#GamMod)
-  * [2.1 一般问题](https://plato.stanford.edu/entries/epistemic-game/#GenIss)
-    * [2.1.1 信息态度的种类](https://plato.stanford.edu/entries/epistemic-game/#VarInfAtt)
-    * [2.1.2 可能世界模型](https://plato.stanford.edu/entries/epistemic-game/#PosWorMod)
-  * [2.2 关系模型](https://plato.stanford.edu/entries/epistemic-game/#RelMod)
-    * [2.2.1 添加信念](https://plato.stanford.edu/entries/epistemic-game/#AddBel)
-  * [2.3 Harsanyi Type Spaces](https://plato.stanford.edu/entries/epistemic-game/#HarTypSpa)
-  * [2.4 共同知识](https://plato.stanford.edu/entries/epistemic-game/#ComKno)
-* [3. 选择规则，或最优选择](https://plato.stanford.edu/entries/epistemic-game/#ChoRulChoOpt)
-  * [3.1 期望效用的最大化](https://plato.stanford.edu/entries/epistemic-game/#MaxExpUti)
-  * [3.2 主导推理](https://plato.stanford.edu/entries/epistemic-game/#DomRea)
-* [4. 基础](https://plato.stanford.edu/entries/epistemic-game/#Fun)
-  * [4.1 严格支配策略的迭代移除](https://plato.stanford.edu/entries/epistemic-game/#IteRemStrDomStr)
-    * [4.1.1 结果](https://plato.stanford.edu/entries/epistemic-game/#Res)
-    * [4.1.2 哲学问题](https://plato.stanford.edu/entries/epistemic-game/#PhiIss)
-  * [4.2 逆向归纳](https://plato.stanford.edu/entries/epistemic-game/#BacInd)
-    * [4.2.1 广泛博弈：基本定义](https://plato.stanford.edu/entries/epistemic-game/#ExtGamBasDef)
-    * [4.2.2 反向归纳的认识特征](https://plato.stanford.edu/entries/epistemic-game/#EpiChaBacInd)
-    * [4.2.3 无需反向归纳的理性的共同知识](https://plato.stanford.edu/entries/epistemic-game/#ComKnoRatWitBacInd)
-  * [4.3 共同强信念和前向归纳](https://plato.stanford.edu/entries/epistemic-game/#ComStrBelForInd)
-* [5. 发展](https://plato.stanford.edu/entries/epistemic-game/#Dev)
-  * [5.1 纳什均衡](https://plato.stanford.edu/entries/epistemic-game/#NasEqu)
-    * [5.1.1 结果](https://plato.stanford.edu/entries/epistemic-game/#ResB)
-    * [5.1.2 哲学问题](https://plato.stanford.edu/entries/epistemic-game/#PhiIssB)
-    * [5.1.3 对“模态”纳什均衡的评述](https://plato.stanford.edu/entries/epistemic-game/#RemModChaNasEqu)
-  * [5.2 将可接受性和“谨慎”信念纳入](https://plato.stanford.edu/entries/epistemic-game/#IncAdmCauBel)
-  * [5.3 纳入不知情因素](https://plato.stanford.edu/entries/epistemic-game/#IncUna)
-* [6. 博弈模型中的自指悖论](https://plato.stanford.edu/entries/epistemic-game/#ParSelRefGamMod)
-* [7. 结论](https://plato.stanford.edu/entries/epistemic-game/#ConRem)
-  * [7.1 什么是认识论博弈论试图实现的目标？](https://plato.stanford.edu/entries/epistemic-game/#WhaEpiGamTheTryAcc)
-  * [7.2 最大化预期效用的替代方案](https://plato.stanford.edu/entries/epistemic-game/#AltMaxExpUti)
-  * [7.3 进一步阅读](https://plato.stanford.edu/entries/epistemic-game/#FurRea)
-* [参考书目](https://plato.stanford.edu/entries/epistemic-game/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/epistemic-game/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemic-game/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/epistemic-game/#Rel)
-
+ 
 ***
 
 ## 1. 游戏的认识论视角

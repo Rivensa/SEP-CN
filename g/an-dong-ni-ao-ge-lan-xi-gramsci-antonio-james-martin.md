@@ -6,35 +6,7 @@
 
 在《笔记本》中，葛兰西对现代国家（如意大利）中实现革命条件进行了一系列历史和理论反思，这些国家已经实现了不同程度的民众同意。他运用“霸权”这一概念来描述一个贯穿社会各个阶层的“智力和道德领导”过程。他拒绝了古典马克思主义的经济决定论，而倾向于对历史环境中的偶发变化敏感的细致政治分析。葛兰西将马克思主义与新唯心主义对实践主体性的洞见进行了对话，并勾勒了一个旨在塑造新的集体身份的革命策略。尽管内容零碎且存在不同的强调，但《笔记本》阐述了一种持久对批判性政治和文化理论有价值的激进政治哲学。
 
-* [1. 生平和政治活动](https://plato.stanford.edu/entries/gramsci/#LifePoliActi)
-
-  * [1.1 撒丁岛 (1891–1911)](https://plato.stanford.edu/entries/gramsci/#Sard1891)
-  * [ 1.2 都灵 (1911–1922)](https://plato.stanford.edu/entries/gramsci/#Turi1911)
-  * [ 1.3 莫斯科 (1922–1923)](https://plato.stanford.edu/entries/gramsci/#Mosc1922)
-  * [1.4 维也纳和罗马 (1923–1926)](https://plato.stanford.edu/entries/gramsci/#VienRome1923)
-  * [ 1.5 监狱 (1926–1937)](https://plato.stanford.edu/entries/gramsci/#Pris1926)
-* [2. 监狱前新闻工作和政治著作](https://plato.stanford.edu/entries/gramsci/#PrePrisJourPoliWrit)
-
-  * [ 2.1 文化社会主义](https://plato.stanford.edu/entries/gramsci/#CultSoci)
-  * [2.2 工厂国家](https://plato.stanford.edu/entries/gramsci/#FactStat)
-  * [2.3 共产党战略](https://plato.stanford.edu/entries/gramsci/#CommPartStra)
-* [3. 监狱文集](https://plato.stanford.edu/entries/gramsci/#PrisWrit)
-
-  * [ 3.1 霸权主义](https://plato.stanford.edu/entries/gramsci/#Hege)
-  * [3.2 国家与市民社会](https://plato.stanford.edu/entries/gramsci/#StatCiviSoci)
-  * [3.3 知识分子理论](https://plato.stanford.edu/entries/gramsci/#TheoInte)
-  * [3.4 意识形态与常识](https://plato.stanford.edu/entries/gramsci/#IdeoCommSens)
-  * [3.5 实践哲学](https://plato.stanford.edu/entries/gramsci/#PhilPrax)
-  * [3.6 现代君主](https://plato.stanford.edu/entries/gramsci/#ModePrin)
-* [4. 对监狱文集的接受](https://plato.stanford.edu/entries/gramsci/#RecePrisWrit)
-* [ 参考书目](https://plato.stanford.edu/entries/gramsci/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/gramsci/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/gramsci/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/gramsci/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gramsci/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gramsci/#Rel)
-
+ 
 ---
 
 ## 1. 生平和政治活动

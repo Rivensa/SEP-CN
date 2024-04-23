@@ -6,17 +6,7 @@
 
 在对神论证的一般评论和道德论证的简要历史之后，本文将讨论几种不同形式的道德论证。一个重要的区别是理论性道德论证和实践性或实用性道德论证之间的区别。前者最好被视为从所谓的道德事实开始，并主张上帝是解释这些事实的必要条件，或者至少上帝提供了比世俗解释更好的解释。后者通常从道德所要求的某种善或目标的主张开始，并主张除非上帝存在，否则无法实现这一目标。是否存在这种明确的区别将是讨论的问题之一，因为有人认为仅凭实践性论证本身不能成为理性信仰的基础。为了满足这种担忧，实践性论证可能还必须包括理论性的维度。
 
-* [1. 神论证的目标](https://plato.stanford.edu/entries/moral-arguments-god/#GoaTheArg)
-* [2. 上帝存在的道德论证的历史](https://plato.stanford.edu/entries/moral-arguments-god/#HisMorArgForGodExi)
-* [3. 上帝存在的道德论证和道德义务的神圣命令理论](https://plato.stanford.edu/entries/moral-arguments-god/#TheMorArgForGodExiDivComTheMorObl)
-* [4. 从道德知识或意识的论证](https://plato.stanford.edu/entries/moral-arguments-god/#ArgMorKnoAwa)
-* [5. 从人的尊严或价值的论证](https://plato.stanford.edu/entries/moral-arguments-god/#ArgHumDigWor)
-* [6. 上帝信仰的实践道德论证](https://plato.stanford.edu/entries/moral-arguments-god/#PraMorArgForBelGod)
-* [ 7. 结论](https://plato.stanford.edu/entries/moral-arguments-god/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-arguments-god/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-arguments-god/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-arguments-god/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-arguments-god/#Rel)
+ 
 
 ---
 

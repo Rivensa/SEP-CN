@@ -7,43 +7,7 @@
 对于这些问题有许多可能的答案，每个答案都受到程序某些特定方面的激励。例如，程序需要在某种计算机上执行这一事实引发了操作语义，而编程语言与数理逻辑的形式语言的相似性激发了用集合论模型解释程序及其组成部分的指称方法。
 
 这些解释中的每一个都在编程语言的短语上引发了自己的同义关系：简而言之，完全抽象属性陈述了指称和操作方法定义了相同的关系。这是编程语言语义解释的一个基准属性，对于基于λ-演算的简单语言的直观指称解释的失败最终导致了对指称语义技术工具的改进，达到了游戏语义的顶峰，这在一定程度上受到了 Lorenzen 及其学派最初在直觉主义逻辑语义中使用的对话游戏的启发，后来由 Blass 和其他人扩展到解释 Girard 线性逻辑。这种建立在建设性逻辑和编程之间的桥梁也暗示了语义和证明理论之间更强的关系形式，其中完全性概念也许是最显著的例子。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/games-abstraction/#Intr)
-
-  * [1.1 编程语言的解释](https://plato.stanford.edu/entries/games-abstraction/#InteProgLang)
-  * [1.2 Compositionality](https://plato.stanford.edu/entries/games-abstraction/#Comp)
-  * [1.3 Program equivalence and full abstraction](https://plato.stanford.edu/entries/games-abstraction/#ProgEquiFullAbst)
-* [2. Sequential higher-order computation: the full abstraction problem for PCF](https://plato.stanford.edu/entries/games-abstraction/#SequHighOrdeCompFullAbstProbForPCF)
-
-  * [2.1 PCF 的语法](https://plato.stanford.edu/entries/games-abstraction/#SyntPCF)
-  * [2.2 操作语义](https://plato.stanford.edu/entries/games-abstraction/#OperSema)
-  * [2.3 表示语义](https://plato.stanford.edu/entries/games-abstraction/#DenoSema)
-
-    * [2.3.1 Types as domains](https://plato.stanford.edu/entries/games-abstraction/#TypeDoma)
-    * [2.3.2 An abstract theory of computable functions of higher-types](https://plato.stanford.edu/entries/games-abstraction/#AbstTheoCompFuncHighType)
-    * [2.3.3 Continuous semantics for PCF](https://plato.stanford.edu/entries/games-abstraction/#ContSemaForPCF)
-  * [2.4 Relating operational and denotational semantics](https://plato.stanford.edu/entries/games-abstraction/#RelaOperDenoSema)
-  * [2.5 Towards a sequential semantics](https://plato.stanford.edu/entries/games-abstraction/#TowaSequSema)
-
-    * [2.5.1 Stability](https://plato.stanford.edu/entries/games-abstraction/#Stab)
-    * [2.5.2 Sequential functions](https://plato.stanford.edu/entries/games-abstraction/#SequFunc)
-    * [2.5.3 Concrete data structures and sequential algorithms](https://plato.stanford.edu/entries/games-abstraction/#ConcDataStruSequAlgo)
-  * [2.6 Historical notes and further readings](https://plato.stanford.edu/entries/games-abstraction/#HistNoteFurtRead)
-* [3. Game semantics](https://plato.stanford.edu/entries/games-abstraction/#GameSema)
-
-  * [3.1 Full completeness](https://plato.stanford.edu/entries/games-abstraction/#FullComp)
-  * [3.2 Interaction](https://plato.stanford.edu/entries/games-abstraction/#Inte)
-  * [3.3 游戏和策略](https://plato.stanford.edu/entries/games-abstraction/#GameStra)
-
-    * [ 3.3.1 游戏](https://plato.stanford.edu/entries/games-abstraction/#Game)
-    * [3.3.2 策略及其构成](https://plato.stanford.edu/entries/games-abstraction/#StraTheiComp)
-  * [3.4 Special kinds of strategies](https://plato.stanford.edu/entries/games-abstraction/#SpecKindStra)
-  * [3.5 Historical notes and further readings](https://plato.stanford.edu/entries/games-abstraction/#HistNoteFurtRead)
-* [Bibliography](https://plato.stanford.edu/entries/games-abstraction/#Bib)
-* [Academic Tools](https://plato.stanford.edu/entries/games-abstraction/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/games-abstraction/#Oth)
-* [Related Entries](https://plato.stanford.edu/entries/games-abstraction/#Rel)
-
+ 
 ---
 
 ## 1. Introduction

@@ -7,17 +7,7 @@
 
 然而，基因中心的观点并不是大部分野外研究人员的主要研究重点或挑战，这些人包括博物学家、动物学家和生态学家。他们的关注点类似地集中在自然选择上，因为这是唯一能够产生适应性、即生物体与其环境之间适应性的进化力量。然而，它的重点在于环境在适应中的作用。生态遗传学是研究进化过程的学科，特别是自然选择中的适应性，在生态背景下，以解释自然界中观察到的表型模式。进化遗传学倾向于成为建立在孟德尔定律基础上的应用数学分支，而生态遗传学则根植于理论与野外和实验室经验观察之间的相互作用。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/ecological-genetics/#Intr)
-* [2. 经典生态遗传学和多态性](https://plato.stanford.edu/entries/ecological-genetics/#ClasEcolGenePoly)
-* [3. 经典生态遗传学、种群规模和自然选择](https://plato.stanford.edu/entries/ecological-genetics/#ClasEcolGenePopuSizeNatuSele)
-* [4. Sewall Wright 效应](https://plato.stanford.edu/entries/ecological-genetics/#SewaWrigEffe)
-* [5. 相互作用及其对自然选择和随机漂变之间阈值的影响](https://plato.stanford.edu/entries/ecological-genetics/#InteTheiEffeThreBetwNatuSeleRandDrif)
-* [6. 酶谱变异与漂变与选择争议](https://plato.stanford.edu/entries/ecological-genetics/#AlloVariDrifVsSeleCont)
-* [7. 序列变异与漂变与选择争议](https://plato.stanford.edu/entries/ecological-genetics/#SequVariDrifVsSeleCont)
-* [ 参考文献](https://plato.stanford.edu/entries/ecological-genetics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ecological-genetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ecological-genetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ecological-genetics/#Rel)
+ 
 
 ---
 

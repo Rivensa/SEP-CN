@@ -4,34 +4,7 @@
 
 感恩是受益者对恩人的恩惠或善行做出的适当或应有的回应。这是规范伦理学、应用伦理学、道德心理学和政治哲学中的一个感兴趣的话题。尽管在日常生活中普遍存在，但哲学家们对于感恩的本质及其与其他哲学概念的关系存在实质性分歧。本文的各节讨论了关于感恩是什么、何时应该感恩以及这些问题的答案如何影响道德哲学和哲学其他主题的五个辩论领域。
 
-* [ 1. 概念问题](https://plato.stanford.edu/entries/gratitude/#ConMat)
-* [2. 何时应该感恩](https://plato.stanford.edu/entries/gratitude/#WheGraOwe)
-* [3. 感恩回应的要素](https://plato.stanford.edu/entries/gratitude/#EleGraRes)
-
-  * [ 3.1 认知要素](https://plato.stanford.edu/entries/gratitude/#CogEle)
-  * [ 3.2 情感要素](https://plato.stanford.edu/entries/gratitude/#AffEle)
-  * [3.3 交际要素](https://plato.stanford.edu/entries/gratitude/#ComEle)
-  * [3.4 意向要素](https://plato.stanford.edu/entries/gratitude/#ConEle)
-
-    * [ 3.4.1 感恩行为](https://plato.stanford.edu/entries/gratitude/#GraBeh)
-    * [3.4.2 感恩的原因和动机](https://plato.stanford.edu/entries/gratitude/#GraReaMot)
-  * [3.5 忘恩负义和过度感恩](https://plato.stanford.edu/entries/gratitude/#IngOve)
-* [4. 感恩的故事](https://plato.stanford.edu/entries/gratitude/#AccGra)
-
-  * [4.1 感恩作为情感](https://plato.stanford.edu/entries/gratitude/#GraEmo)
-  * [4.2 感恩作为反应态度](https://plato.stanford.edu/entries/gratitude/#GraReaAtt)
-  * [4.3 感恩作为关系增进](https://plato.stanford.edu/entries/gratitude/#GraRelEnh)
-  * [4.4 感恩作为美德](https://plato.stanford.edu/entries/gratitude/#GraVir)
-* [5. 感恩与义务](https://plato.stanford.edu/entries/gratitude/#GraObl)
-
-  * [5.1 支持和反对感恩义务的论点](https://plato.stanford.edu/entries/gratitude/#ArgForAgaOblGra)
-  * [5.2 不愿接受恩惠](https://plato.stanford.edu/entries/gratitude/#RelRecBen)
-  * [5.3 感恩和政治义务](https://plato.stanford.edu/entries/gratitude/#GraPolObl)
-* [ 参考文献](https://plato.stanford.edu/entries/gratitude/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/gratitude/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gratitude/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gratitude/#Rel)
-
+ 
 ---
 
 ## 1. 概念问题

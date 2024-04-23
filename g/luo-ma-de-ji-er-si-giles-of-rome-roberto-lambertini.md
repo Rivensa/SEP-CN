@@ -3,21 +3,7 @@
 *首次发表于2001年12月21日星期五；实质性修订于2019年12月18日星期三。*
 
 罗马的吉尔斯（1316 年去世，曾任布尔日大主教）是 13 世纪末期最富有成果和影响力的思想家之一，他在当时的政治事件中也起到了重要作用。罗马的吉尔斯是一位极其多产的作家，留下了非常庞大的著作，包括对亚里士多德的评论、神学论文、问题和布道。在过去的几十年里，由弗朗切斯科·德尔·彭塔（意大利比萨诺马尔高等师范学校，已故）领导的研究小组一直致力于出版他的《全集》并深入了解他的思想。尽管这个小组取得了非常重要的成果，并得到了其他学者的贡献，但对吉尔斯的整个作品的评估仍在进行中。因此，本条目只旨在提供对正在进行的研究过程的洞察。
-
-* [ 1. 生平](https://plato.stanford.edu/entries/giles/#Life)
-* [2. 逻辑和修辞学](https://plato.stanford.edu/entries/giles/#LogiRhet)
-* [3. 形而上学和认识论](https://plato.stanford.edu/entries/giles/#MetaTheoKnow)
-* [ 4. 自然哲学](https://plato.stanford.edu/entries/giles/#NatuPhil)
-* [5. 哲学与医学之间](https://plato.stanford.edu/entries/giles/#BetwPhilMedi)
-* [6. 伦理学和政治理论](https://plato.stanford.edu/entries/giles/#EthiPoliTheo)
-* [ 参考书目](https://plato.stanford.edu/entries/giles/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/giles/#PrimSour)
-  * [ 二次文献](https://plato.stanford.edu/entries/giles/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/giles/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/giles/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/giles/#Rel)
-
+ 
 ---
 
 ## 1. 生平

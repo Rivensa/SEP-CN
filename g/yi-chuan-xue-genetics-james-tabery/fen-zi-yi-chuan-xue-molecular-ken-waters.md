@@ -3,41 +3,7 @@
 *首次发布于2007年3月7日星期三*
 
 分子遗传学有时指的是一个基本理论，声称基因通过合成多肽指导所有生命过程，有时指的是关于基因在分子水平上的表达和调控的更为谨慎的基本理论，有时指的是一种应用于整个生物医学科学的调查方法，该方法基于关于基因的基本理论的调查策略。本文简要总结了分子遗传学的基本知识，并调查了关于该主题的哲学研究。调查围绕三个主导哲学关注的问题展开：(a) 经典遗传学是否可以归纳为分子遗传学？(b) 什么是基因？以及(c) 基因的功能是什么？最后，将注意力转向第四个问题：(d) 为什么如此多的生物研究集中在基因和 DNA 上？
-
-* [ 1. 引言](https://plato.stanford.edu/entries/molecular-genetics/#Int)
-* [2. 基本理论](https://plato.stanford.edu/entries/molecular-genetics/#BasThe)
-
-  * [2.1 经典遗传学的基本理论](https://plato.stanford.edu/entries/molecular-genetics/#BasTheClaGen)
-  * [2.2 分子遗传学对经典遗传学遗留问题的分子层面解答](https://plato.stanford.edu/entries/molecular-genetics/#MolLevAnsQueLefBehClaGen)
-  * [2.3 区分分子遗传学的基本理论和基础理论](https://plato.stanford.edu/entries/molecular-genetics/#DisBetBasFunTheMolGen)
-* [3. 经典遗传学是否被简化为分子遗传学？](https://plato.stanford.edu/entries/molecular-genetics/#WasClaGenRedMolGen)
-
-  * [3.1 Schaffner 关于经典遗传学在理论上被简化的论点](https://plato.stanford.edu/entries/molecular-genetics/#SchTheClaGenBeiTheRed)
-  * [3.2 关于遗传学的反简化共识](https://plato.stanford.edu/entries/molecular-genetics/#AntRedConAboGen)
-  * [3.3 反还原主义共识面临的挑战](https://plato.stanford.edu/entries/molecular-genetics/#ChaAntRedCon)
-  * [3.4 超越理论还原和分层反还原主义](https://plato.stanford.edu/entries/molecular-genetics/#MovBeyTheRedLayCakAnt)
-* [4. 什么是基因？](https://plato.stanford.edu/entries/molecular-genetics/#WhaGen)
-
-  * [ 4.1 基因怀疑论](https://plato.stanford.edu/entries/molecular-genetics/#GenSke)
-  * [4.2 在实践中概念的分析，经典基因和分子遗传学概念](https://plato.stanford.edu/entries/molecular-genetics/#AnaConPraClaGenMolGenCon)
-  * [4.3 在实践中参考的分析，分子化如何改变了参考](https://plato.stanford.edu/entries/molecular-genetics/#AnaRefPraHowMolChaRef)
-  * [4.4 一个新概念的提议，过程分子遗传学概念](https://plato.stanford.edu/entries/molecular-genetics/#ProForNewConProMolGenCon)
-  * [4.5 使用基于调查的方法来识别基因概念](https://plato.stanford.edu/entries/molecular-genetics/#UsiSurBasAppIdeGenCon)
-  * [4.6 对基因怀疑论的务实回应](https://plato.stanford.edu/entries/molecular-genetics/#PraResGenSke)
-* [5. 基因和 DNA 的作用是什么？](https://plato.stanford.edu/entries/molecular-genetics/#WhaDoGenDNADo)
-
-  * [5.1 批评基因和 DNA 提供信息的观念](https://plato.stanford.edu/entries/molecular-genetics/#CriIdeGenDNAProInf)
-  * [5.2 使用广义生物信息概念来解释基因的作用](https://plato.stanford.edu/entries/molecular-genetics/#UsiBroBioConInfExpWhaGenDo)
-  * [5.3 关于基因功能的因果解释](https://plato.stanford.edu/entries/molecular-genetics/#CauIntClaAboWhaGenDo)
-  * [5.4 DNA 如何编程发育的因果解释](https://plato.stanford.edu/entries/molecular-genetics/#CauAccHowDNAProDev)
-  * [5.5 基础理论化与调查实用主义](https://plato.stanford.edu/entries/molecular-genetics/#FunTheVerInvPra)
-* [6. 为什么很多生物研究都集中在基因和 DNA 上？](https://plato.stanford.edu/entries/molecular-genetics/#WhySoMucBioResCenGenDNA)
-* [ 7. 结论](https://plato.stanford.edu/entries/molecular-genetics/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/molecular-genetics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/molecular-genetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/molecular-genetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/molecular-genetics/#Rel)
-
+ 
 ---
 
 ## 1. 引言

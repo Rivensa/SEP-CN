@@ -12,23 +12,7 @@ _首次发表于2006年9月22日星期五；实质性修订于2022年11月24日�
 
 下面的讨论结构如下。第 1 节简要概述了群体遗传学的起源，重点关注主要主题和争议。第 2 节解释了哈代-温伯格原理，这是许多群体遗传分析的起点。第 3 节概述了群体遗传学中的一些基本模型及其后果。第 4 节讨论了随机漂移（在有限群体中出现的基因频率的机会波动）和合并（当我们追溯基因谱系时，基因谱系的汇合）。第 5 节讨论了群体遗传学在生物学中的地位。第 6 节审视了群体遗传学引发的一些哲学问题。
 
-* [1. 群体遗传学的起源](https://plato.stanford.edu/entries/population-genetics/#OriPopGen)
-* [2. 硬氏-温伯格原理](https://plato.stanford.edu/entries/population-genetics/#HarWeiPri)
-* [3. 群体遗传学进化模型](https://plato.stanford.edu/entries/population-genetics/#PopGenModEvo)
-  * [3.1 单位点的选择](https://plato.stanford.edu/entries/population-genetics/#SelOneLoc)
-  * [3.2 选择-突变平衡](https://plato.stanford.edu/entries/population-genetics/#SelMutBal)
-  * [3.3 迁移](https://plato.stanford.edu/entries/population-genetics/#Mig)
-  * [3.4 非随机交配](https://plato.stanford.edu/entries/population-genetics/#NonRanMat)
-  * [3.5 两位点模型和连锁](https://plato.stanford.edu/entries/population-genetics/#TwoLocModLin)
-* [4. 随机漂变](https://plato.stanford.edu/entries/population-genetics/#RanDri)
-  * [4.1 合并](https://plato.stanford.edu/entries/population-genetics/#Coalescence)
-* [5. 群体遗传学及其批评者](https://plato.stanford.edu/entries/population-genetics/#PopGenCri)
-* [6. 群体遗传学中的哲学问题](https://plato.stanford.edu/entries/population-genetics/#PhiIssPopGen)
-* [参考文献](https://plato.stanford.edu/entries/population-genetics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/population-genetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/population-genetics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/population-genetics/#Rel)
-
+ 
 ***
 
 ## 1. 群体遗传学的起源

@@ -11,31 +11,7 @@
 
 在接下来的部分中，将概述（一些）属于 (a) 或 (b) 的各种尝试。然而，在踏上这段旅程之前，必须提到几点警告。
 
-* [1. 一些一般性考虑](https://plato.stanford.edu/entries/geometry-finitism/#SomGenCon)
-
-  * [ 1.1 逻辑学家](https://plato.stanford.edu/entries/geometry-finitism/#Log)
-  * [ 1.2 数学家](https://plato.stanford.edu/entries/geometry-finitism/#Mat)
-  * [ 1.3 计算机科学家](https://plato.stanford.edu/entries/geometry-finitism/#ComSci)
-  * [ 1.4 物理学家](https://plato.stanford.edu/entries/geometry-finitism/#Phy)
-  * [ 1.5 哲学家](https://plato.stanford.edu/entries/geometry-finitism/#Phi)
-* [2. 有限主义几何作为直接类比](https://plato.stanford.edu/entries/geometry-finitism/#DisGeoDirAna)
-
-  * [2.1 欧几里得平面几何的标准公理化](https://plato.stanford.edu/entries/geometry-finitism/#StaAxiForEucPlaGeo)
-  * [2.2 芬兰学派和自然几何](https://plato.stanford.edu/entries/geometry-finitism/#FinSchNatGeo)
-  * [2.3 有限主义方法](https://plato.stanford.edu/entries/geometry-finitism/#ConApp)
-  * [2.4 一个直接的物理例子：特殊相对论理论的有限主义版本](https://plato.stanford.edu/entries/geometry-finitism/#DirPhyExa)
-  * [2.5 一些部分解决方案和需要解决的问题](https://plato.stanford.edu/entries/geometry-finitism/#SomParSolProDea)
-* [3. 有限主义几何作为古典几何的生成器](https://plato.stanford.edu/entries/geometry-finitism/#DisGeoGenClaGeo)
-
-  * [3.1 一般框架](https://plato.stanford.edu/entries/geometry-finitism/#GenFra)
-  * [3.2 一个原型示例，使用图](https://plato.stanford.edu/entries/geometry-finitism/#ProExaUsiGra)
-  * [3.3 一个特殊情况：组合层次](https://plato.stanford.edu/entries/geometry-finitism/#SpeCasComHie)
-  * [3.4 它可以是一个经验问题吗？](https://plato.stanford.edu/entries/geometry-finitism/#ItEmpPro)
-* [4. 接下来需要做什么？](https://plato.stanford.edu/entries/geometry-finitism/#WhaNeeDonNex)
-* [ 有限主义](https://plato.stanford.edu/entries/geometry-finitism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/geometry-finitism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/geometry-finitism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/geometry-finitism/#Rel)
+ 
 
 ---
 

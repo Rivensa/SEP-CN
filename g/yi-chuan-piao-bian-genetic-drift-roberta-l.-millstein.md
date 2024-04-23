@@ -6,26 +6,7 @@
 遗传漂变（也称为“随机漂变”、“随机遗传漂变”，有时仅称为“漂变”）一直是生物哲学和进化生物学界持续争议的焦点，以至于漂变的定义本身也成为了争议的话题。人们似乎一致认为漂变是种群遗传学（参见种群遗传学条目）和进化生物学中的一个机会性（或概率性或统计性）因素，而“随机”一词并不涉及不确定性或任何技术数学含义，但在这一点上争议就产生了。然而，遗传漂变模型是种群遗传学教科书和研究中的一个重要主题，遗传漂变被描述为进化的主要因素之一，与选择、突变和迁移并列。一些人声称遗传漂变在进化（尤其是分子进化）中发挥了重要作用，而另一些人则认为它作用较小。本文将探讨这些争议及其他问题。
 
 为了突破有关漂变竞争性定义的僵局，本条目首先简要介绍了该概念的历史，然后探讨了关于漂变适当描述以及它是否可以与自然选择区分开的各种哲学主张；漂变与统计主义争论的关系；漂变是否可以在经验上被检测出来，如果可以，如何检测；以及对漂变作为模型和（所谓的）定律的正确理解。
-
-* [1. 遗传漂变概念的起源](https://plato.stanford.edu/entries/genetic-drift/#OrigConcGeneDrif)
-* [2. 什么是遗传漂变，它能与自然选择区分开吗？](https://plato.stanford.edu/entries/genetic-drift/#WhatDrifItDistNatuSele)
-
-  * [2.1 遗传漂变的历史派生描述：因果过程描述](https://plato.stanford.edu/entries/genetic-drift/#HistDeriAccoDrifCausProcAcco)
-  * [2.2 对遗传漂变的反应和基于抽样的描述种类](https://plato.stanford.edu/entries/genetic-drift/#ReacVariSampBaseAccoDrif)
-  * [2.3 遗传漂变的数学方法](https://plato.stanford.edu/entries/genetic-drift/#MathApprDrif)
-  * [2.4 遗传漂变的其他解释](https://plato.stanford.edu/entries/genetic-drift/#OtheAccoDrif)
-* [3. 遗传漂变与统计主义-因果主义辩论的交汇](https://plato.stanford.edu/entries/genetic-drift/#InteGeneDrifStatCausDeba)
-* [4. 检测遗传漂变的经验方法](https://plato.stanford.edu/entries/genetic-drift/#DeteDrifEmpi)
-
-  * [ 4.1 经典研究](https://plato.stanford.edu/entries/genetic-drift/#ClasStud)
-  * [4.2 遗传漂变与分子进化研究](https://plato.stanford.edu/entries/genetic-drift/#StudDrifMoleEvol)
-  * [4.3 关于遗传漂变的最新实证问题](https://plato.stanford.edu/entries/genetic-drift/#ReceEmpiIssuConcDrif)
-* [5. 模型中的漂变，法则中的漂变](https://plato.stanford.edu/entries/genetic-drift/#DrifModeDrifLaw)
-* [ 6. 结论](https://plato.stanford.edu/entries/genetic-drift/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/genetic-drift/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/genetic-drift/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/genetic-drift/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/genetic-drift/#Rel)
+ 
 
 ---
 

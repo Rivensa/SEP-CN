@@ -6,37 +6,7 @@
 
 纽亚雅是一个多维系统，相互交织的观点使其不符合印度哲学被理想主义和神秘主义取向的刻板印象。该学派的创始文本是纽亚雅经（约公元 100 年），在甘吉沙之前就已经引发了大量评论。纽亚雅在日常谈论和体验的对象方面是广义的现实主义者。甘吉沙提出了一种可以称之为知识和理由的可靠主义理论，事实上是一种超可靠主义，对于外部主义者来说，知识的来源——感知、推理、类比和证词，他的主要关注点——被构想为事实性的。他最重要的成就之一是对一般知识和作为推理基础的自然“普遍性”的定义，以及对知识传递中的意义的条件的分析。他还以简洁的方式阐述了主要类型的谬误和认识论的否定者。甘吉沙提出并在长篇论述中辩护了（a）自我作为一种特殊物质的论证，（b）证明了他在辩论和推理理论中的神论论证，以及（c）对“解脱”（mukti）可能性的辩护，这既活跃了早期纽亚雅的观点——特别是瓦兹亚亚纳（约公元 400 年）——也在其他几个传统和学派中产生了影响。纽亚雅本身有一部丰富的文学作品，延伸至现代，并且在传统学者中延续至今。
 
-* [1. 历史细节](https://plato.stanford.edu/entries/gangesa/#HistPart)
-* [2. 可能参照物的类别](https://plato.stanford.edu/entries/gangesa/#CatePossRefeCausRela)
-* [3. 知识和认证](https://plato.stanford.edu/entries/gangesa/#KnowCert)
-
-  * [3.1 假定为知识的意识](https://plato.stanford.edu/entries/gangesa/#AwarPresKnow)
-  * [3.2 知识如何被知道](https://plato.stanford.edu/entries/gangesa/#HowKnowKnow)
-* [ 4. 知觉](https://plato.stanford.edu/entries/gangesa/#Perc)
-
-  * [4.1 知觉作为产生知识](https://plato.stanford.edu/entries/gangesa/#PercProdKnow)
-  * [4.2 对限定词的不定认知](https://plato.stanford.edu/entries/gangesa/#IndeCognQual)
-  * [ 4.3 感知](https://plato.stanford.edu/entries/gangesa/#Appe)
-* [ 5. 推理](https://plato.stanford.edu/entries/gangesa/#Infe)
-
-  * [5.1 自然蕴涵，vyāpti，“普遍性”](https://plato.stanford.edu/entries/gangesa/#NatuEntaVyaaPerv)
-  * [5.2 如何知道蕴涵](https://plato.stanford.edu/entries/gangesa/#HowEntaKnow)
-  * [5.3 “附加条件”，upādhi，和其他谬误](https://plato.stanford.edu/entries/gangesa/#AddiCondUpaaOtheFall)
-  * [5.4 三种哲学推论](https://plato.stanford.edu/entries/gangesa/#ThrePhilInfe)
-* [ 6. 类比](https://plato.stanford.edu/entries/gangesa/#Anal)
-* [ 7. 证词](https://plato.stanford.edu/entries/gangesa/#Test)
-
-  * [7.1 一个不可简化的知识来源](https://plato.stanford.edu/entries/gangesa/#IrreKnowSour)
-  * [7.2 陈述的意义](https://plato.stanford.edu/entries/gangesa/#MeanStat)
-  * [7.3 “间接指示”，lakṣaṇā](https://plato.stanford.edu/entries/gangesa/#IndiIndiLaks)
-* [ 参考书目](https://plato.stanford.edu/entries/gangesa/#Bib)
-
-  * [ A. 主要文献](https://plato.stanford.edu/entries/gangesa/#PrimLite)
-  * [ B. 次要文献](https://plato.stanford.edu/entries/gangesa/#BSecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/gangesa/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gangesa/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gangesa/#Rel)
-
+ 
 ---
 
 ## 1. 历史细节

@@ -7,43 +7,7 @@ _首次发表于 2016 年 3 月 18 日；实质性修订于 2021 年 12 月 3 �
 盖伦是西方古代最多产的知识分子之一，他的著作涉及 21 卷，每卷大约 1000 页，以标准希腊文版本计算（还有一些专业哲学著作仅存阿拉伯文、叙利亚文、希伯来文或拉丁文翻译），总字数超过 400 万字。尽管他的大部分科学和医学著作幸存，但他的许多专业哲学著作却未能保存下来。他是一位极具对抗性的作者，在公元 2 世纪罗马高度修辞和学术竞争的知识文化中积极参与（所谓的“第二雄辩”）；他极易离题。他经常通过对抗对手的辩论和对他的知识英雄，尤其是柏拉图和希波克拉底的文本解释和评论来表达自己的观点。尽管他对希腊哲学传统和“经典”哲学文本有着深刻的了解，使用哲学术语和论证方式，但他并不将自己定义为哲学家，经常表达对哲学“学派”从业者的敌意。
 
 对“盖伦哲学家”研究的上述简要介绍也可以作为任何此类研究所面临的特殊挑战的初步警示：庞大的文本体系，其中许多文本结构松散，并且未经现代学术界审查；多种文体（大部分并非主要哲学文体）、辩证语境和修辞论证，这些都是我们必须从中重建他的哲学观点的；他对哲学术语的折衷和非语境化使用以达到自己的目的；以及他在哲学专著中的某些特定损失。
-
-* [1. 生平](https://plato.stanford.edu/entries/galen/#Life)
-* [2. 哲学与盖伦文集](https://plato.stanford.edu/entries/galen/#GaleCorp)
-  * [2.1 Role of Philosophy in the Corpus](https://plato.stanford.edu/entries/galen/#RoleCorp)
-  * [2.2 Corpus and Curriculum](https://plato.stanford.edu/entries/galen/#CorpCurr)
-* [3. Epistemology: Demonstration, Scientific Method, Human KnowledgeTranslation:](https://plato.stanford.edu/entries/galen/#EpisDemoScieMethHumaKnow)
-  * [3.1. 演示（apodeixis）：理论与实践](https://plato.stanford.edu/entries/galen/#DemoApodTheoPrac)
-  * [3.2 医学科学方法：经验主义与“理性主义”](https://plato.stanford.edu/entries/galen/#MediScieMethEmpiVersRati)
-  * [3.3 认识确定性的层次](https://plato.stanford.edu/entries/galen/#LeveEpisCert)
-  * [3.4 Limits and Purposes of Knowledge](https://plato.stanford.edu/entries/galen/#LimiPurpKnow)
-  * [3.5 The Notion of Scientific Progress](https://plato.stanford.edu/entries/galen/#NotiScieProg)
-* [4. Logic: Historical Contribution](https://plato.stanford.edu/entries/galen/#LogiHistCont)
-* [5. 因果关系](https://plato.stanford.edu/entries/galen/#Caus)
-  * [5.1 明确的因果关系分类](https://plato.stanford.edu/entries/galen/#ExplCateCaus)
-  * [5.2 自然界中的因果关系：目的论的、创世神的、物质的](https://plato.stanford.edu/entries/galen/#CausNatuWorlTeleDemiMate)
-* [6. 物理理论和生物概念](https://plato.stanford.edu/entries/galen/#PhysTheoBiolConc)
-  * [6.1 元素、原理、物质、精气](https://plato.stanford.edu/entries/galen/#ElemPrinMatt)
-  * [6.2 形式](https://plato.stanford.edu/entries/galen/#Form)
-  * [6.3 混合与变化](https://plato.stanford.edu/entries/galen/#MixtChan)
-  * [6.4 物质与力量](https://plato.stanford.edu/entries/galen/#SubsPowe)
-* [7. 心灵哲学](https://plato.stanford.edu/entries/galen/#Mind)
-  * [7.1 心灵(psuchē)的模型](https://plato.stanford.edu/entries/galen/#ModePsyc)
-  * [7.2 心灵-身体关系](https://plato.stanford.edu/entries/galen/#MindBodyRela)
-* [8. 伦理学](https://plato.stanford.edu/entries/galen/#Ethi)
-  * [8.1 总体模型和方法](https://plato.stanford.edu/entries/galen/#OverModeAppr)
-  * [8.2 The ](https://plato.stanford.edu/entries/galen/#Path)​\*[pathē](https://plato.stanford.edu/entries/galen/#Path)\*
-  * [8.3 痛苦（lupē）](https://plato.stanford.edu/entries/galen/#DistLup)
-  * [8.4 理性错误与善](https://plato.stanford.edu/entries/galen/#RatiErroGood)
-* [9. 神学](https://plato.stanford.edu/entries/galen/#Theo)
-* [参考文献](https://plato.stanford.edu/entries/galen/#Bib)
-  * [A. 主要来源](https://plato.stanford.edu/entries/galen/#PrimSour)
-    * [A.1 文本来源](https://plato.stanford.edu/entries/galen/#SourText)
-    * [A.2 盖伦的文本](https://plato.stanford.edu/entries/galen/#TextGale)
-  * [B. 二手文献](https://plato.stanford.edu/entries/galen/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/galen/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/galen/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/galen/#Rel)
+ 
 
 ***
 

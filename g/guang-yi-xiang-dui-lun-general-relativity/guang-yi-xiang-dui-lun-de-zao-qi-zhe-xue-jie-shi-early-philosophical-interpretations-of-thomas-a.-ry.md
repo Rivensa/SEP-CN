@@ -5,35 +5,7 @@ _首次发表于 2001 年 11 月 28 日星期三；实质性修订于 2024 年 4
 广义相对论的早期哲学解释选择了该理论的不同方面来赞扬或偏爱认可。马赫的实证主义追随者最初赞扬爱因斯坦试图实施“惯性的相对化”——大致上，即身体的惯性（惯性质量，局部惯性行为）是由所有其他质量的存在所导致的——在广义理论中。但马赫派对该理论在数学构建和实验测试之间的前所未有的距离感到畏惧，最终更愿意接受爱因斯坦在特殊理论中对远距同时性概念的操作主义处理。康德主义者和新康德主义者，如果不受对“超验美学”和“超验分析”的严格忠诚的约束，转而转向“超验辩证法”。他们指出（正如爱因斯坦自己在后来的岁月中所做的）广义理论中某些“智力形式”的超越重要性，尤其是广义协变性原理。因此，该原理被视为不仅仅是坐标普遍性的一种形式原则，而是一种“规范性观念”，对任何基本物理理论的约束（大致意味着空间和时间是事件的相对顺序的关系，物理定律不应依赖于任何特定坐标系标记时空事件）。
 
 对于新兴的逻辑经验主义者来说，相对论理论的哲学意义首先是方法论的，即必须首先规定惯例才能表达物理理论的经验内容。在更为深远的发展中，早在 1915 年 11 月完成时，大卫·希尔伯特试图将麦克斯韦电动力学（当时唯一已知的其他物理相互作用）纳入广义相对论对引力吸引的几何化中。其他尝试很快出现，其中魏尔和埃丁顿的尝试与爱因斯坦在接下来的三十年中提出的许多后续提议有所不同。魏尔和埃丁顿试图在比爱因斯坦更广泛的时空几何中统一引力和电磁力，将引力和电磁力的几何统一置于超验理想主义的哲学框架内，魏尔的观点源自于胡塞尔的超验现象学，而埃丁顿的观点则源自于一种准康德主义的结构主义观点，他后来称之为“选择性主观主义”。
-
-* [1. 寻找哲学新颖性](https://plato.stanford.edu/entries/genrel-early/#SearForPhilNove)
-* [2. 马赫实证主义](https://plato.stanford.edu/entries/genrel-early/#MachPosi)
-  * [2.1 在早期的爱因斯坦](https://plato.stanford.edu/entries/genrel-early/#EarlEins)
-  * [2.2 “惯性的相对化”？](https://plato.stanford.edu/entries/genrel-early/#RelaIner)
-  * [2.3 实证主义和“洞论证”](https://plato.stanford.edu/entries/genrel-early/#PosiHoleArgu)
-  * [2.4 "马赫原理"](https://plato.stanford.edu/entries/genrel-early/#MachPrin)
-  * [2.5 新兴反实证主义](https://plato.stanford.edu/entries/genrel-early/#EmerAntiPosi)
-* [3. 康德主义和新康德主义解释](https://plato.stanford.edu/entries/genrel-early/#KantNeoKantInte)
-  * [3.1 特殊相对论的新康德主义者](https://plato.stanford.edu/entries/genrel-early/#NeoKantSpecRela)
-  * [3.2 免疫策略](https://plato.stanford.edu/entries/genrel-early/#ImmuStra)
-  * [3.3 拒绝或翻新超验美学](https://plato.stanford.edu/entries/genrel-early/#RejeRefuTranAest)
-  * [3.4 广义相对论： “决定的统一”的综合原则](https://plato.stanford.edu/entries/genrel-early/#GeneCovaSyntPrinUnitDete)
-* [4. 逻辑经验主义](https://plato.stanford.edu/entries/genrel-early/#LogiEmpi)
-  * [4.1 方法论的教训？](https://plato.stanford.edu/entries/genrel-early/#LessMeth)
-  * [4.2 从“相对化的先验”到“几何的相对性”](https://plato.stanford.edu/entries/genrel-early/#RelaPrioRelaGeom)
-  * [4.3 批判赖希巴赫的度规约定论](https://plato.stanford.edu/entries/genrel-early/#CritReicMetrConv)
-* [5. “物理的几何化”：柏拉图主义、先验唯心主义、结构主义](https://plato.stanford.edu/entries/genrel-early/#GeomPhysPlatTranIdeaStru)
-  * [5.1 不同的动机](https://plato.stanford.edu/entries/genrel-early/#DiffMoti)
-  * [5.2 初步：将引力“几何化”](https://plato.stanford.edu/entries/genrel-early/#InitStepGeomGrav)
-  * [5.3 扩展几何化](https://plato.stanford.edu/entries/genrel-early/#ExteGeom)
-  * [5.4 “纯微分几何”](https://plato.stanford.edu/entries/genrel-early/#PureInfiGeom)
-  * [5.5 埃丁顿的世界几何学](https://plato.stanford.edu/entries/genrel-early/#EddiWorlGeom)
-  * [5.6 梅耶森关于“泛几何主义”](https://plato.stanford.edu/entries/genrel-early/#MeyePang)
-  * [5.7 “结构实在论”？](https://plato.stanford.edu/entries/genrel-early/#StruReal)
-* [参考文献](https://plato.stanford.edu/entries/genrel-early/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/genrel-early/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/genrel-early/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/genrel-early/#Rel)
+ 
 
 ***
 

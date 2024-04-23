@@ -13,33 +13,7 @@
 几何学一直是一种系统性逻辑思维的学派，几千年来，欧几里得的工作被视为一个建立在坚实基础上的科学典范，但在 1900 年左右观念突然发生了变化。它也是一个特权领域，用于发展数学方法，从综合到分析处理，代数发展，结构主义的兴起等等。审视几何学的发展历程，人们可以看到它起初是研究图形（及其测量）的学科，发展为研究空间，最终成为研究空间结构的学科——从最基本的拓扑学，到 n 维流形，再到物理学家们所采用的几何学。
 
 与此同时，几何学提出了基本的认识论问题，并成为哲学辩论的决定性场所。可以迅速提到的问题有：1、几何知识的确定性和先验性问题，与问题相关——一个几何学，还是多个？2、直觉的作用问题（康德是对的吗？平行公设是否具有直觉基础？）3、理想化问题，涉及完美几何图形与其实际实例之间的关系；4、数学与自然科学之间相互关系的不断变化的概念。
-
-* [1. 欧几里德几何中的认识论问题](https://plato.stanford.edu/entries/epistemology-geometry/#EpisIssuEuclGeom)
-
-  * [1.1 图解构造问题](https://plato.stanford.edu/entries/epistemology-geometry/#QuesDiagCons)
-  * [1.2 综合方法 vs. 测量](https://plato.stanford.edu/entries/epistemology-geometry/#SyntMethVsMeas)
-* [2. 应用几何中的认识论问题](https://plato.stanford.edu/entries/epistemology-geometry/#EpisIssuApplGeom)
-
-  * [2.1 力学的含义](https://plato.stanford.edu/entries/epistemology-geometry/#ImplMech)
-* [3. 射影几何](https://plato.stanford.edu/entries/epistemology-geometry/#ProjGeom)
-
-  * [3.1 坐标变换；克莱因几何](https://plato.stanford.edu/entries/epistemology-geometry/#CoorTranKleiGeom)
-  * [3.2 希尔伯特及其他人关于公设射影几何](https://plato.stanford.edu/entries/epistemology-geometry/#HilbOtheAxioProjGeom)
-* [4. 非欧几何](https://plato.stanford.edu/entries/epistemology-geometry/#NonEuclGeom)
-* [5. 黎曼几何](https://plato.stanford.edu/entries/epistemology-geometry/#RiemGeom)
-
-  * [5.1 黎曼的推广](https://plato.stanford.edu/entries/epistemology-geometry/#RiemGene)
-  * [5.2 黎曼、贝尔特拉米和严谨的非欧几何](https://plato.stanford.edu/entries/epistemology-geometry/#RiemBeltRigoNonEuclGeom)
-* [6. 新几何的可理解性](https://plato.stanford.edu/entries/epistemology-geometry/#InteNewGeom)
-
-  * [6.1 赫尔巴特的哲学和黎曼](https://plato.stanford.edu/entries/epistemology-geometry/#HerbPhilRiem)
-  * [6.2 黑姆霍兹和庞加莱](https://plato.stanford.edu/entries/epistemology-geometry/#HelmPoin)
-  * [6.3 庞加莱与罗素](https://plato.stanford.edu/entries/epistemology-geometry/#PoinVersRuss)
-* [ 7. 总结性评论](https://plato.stanford.edu/entries/epistemology-geometry/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemology-geometry/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemology-geometry/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemology-geometry/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemology-geometry/#Rel)
+ 
 
 ---
 

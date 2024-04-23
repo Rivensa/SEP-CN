@@ -6,21 +6,7 @@
 
 本文将默认将完善善的反思置于哲学神学之中的重要性。但应注意，一个人无需按照这种方式进行。一个人可能尝试以完全抽象出神学问题的方式反思完善善的特性，或者根本不考虑关于实现完善善的特定存在的问题（McGinn 1992; Conee 1994）。但通常这种反思会专注于上帝中实现的完善善，这是一个展现出完善善以及其他每一种完美的存在。一个人也可能想知道是否存在一种关于完善善的普遍标准；也许完善善是相对于种类的，这样就没有什么可以优先考虑上帝的完善善是什么，而不是优先考虑人类、天使、火星人或任何其他特定类型的理性存在的完善善是什么。 （实际上，一个人可能进一步问，为什么我们应该优先考虑理性存在的善良，而不是刺猬、电影或风景的善良。）但本文将把上帝的完善善视为特权，并将把某种完善善的概念视为一个关键困难，即它不能被其他绝对完美的存在所体现的其他特征所体现。
 
-* [1. 完善善作为一般完美与完善善作为特定完美](https://plato.stanford.edu/entries/perfect-goodness/#PerGooPerGenVerPerGooSpePer)
-* [2. 完善善作为绝对完美存在的必要或偶然特征](https://plato.stanford.edu/entries/perfect-goodness/#PerGooNecConFeaAbsPerBei)
-* [3. 完善的善良，无论是必然的还是偶然的，是否实际上得到了体现？](https://plato.stanford.edu/entries/perfect-goodness/#PerGooWheNecConActExe)
-* [4. 完善的善良可能被体现吗？](https://plato.stanford.edu/entries/perfect-goodness/#PerGooPosExe)
-* [5. 必然的全善可能吗？](https://plato.stanford.edu/entries/perfect-goodness/#NecPerGooPos)
-
-  * [5.1 道德规范的适用性](https://plato.stanford.edu/entries/perfect-goodness/#AppMorNor)
-  * [ 5.2 神的自由](https://plato.stanford.edu/entries/perfect-goodness/#DivFre)
-  * [5.3 神的自由和神的理性](https://plato.stanford.edu/entries/perfect-goodness/#DivFreDivRat)
-* [6. 道德善是一种纯粹的全善吗？](https://plato.stanford.edu/entries/perfect-goodness/#MorGoodPurePerf)
-* [ 参考文献](https://plato.stanford.edu/entries/perfect-goodness/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/perfect-goodness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perfect-goodness/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/perfect-goodness/#Rel)
-
+ 
 ---
 
 ## 1. 全善作为一般完美与全善作为特定完美

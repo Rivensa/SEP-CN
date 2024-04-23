@@ -8,32 +8,7 @@
 
 我们首先解决一些初步问题，包括如何最好地阐述基础主张。然后我们探讨以下一般问题：基础的本质是什么？为什么要认为首先存在基础？基础如何与其他哲学上感兴趣的概念相互作用，比如必然性？
 
-* [ 1. 初步问题](https://plato.stanford.edu/entries/grounding/#Prel)
-
-  * [1.1 确定和解释](https://plato.stanford.edu/entries/grounding/#DeteExpl)
-  * [ 1.2 军事化](https://plato.stanford.edu/entries/grounding/#Regi)
-  * [1.3 完全和部分基础](https://plato.stanford.edu/entries/grounding/#FullPartGrou)
-  * [ 1.4 说明性案例](https://plato.stanford.edu/entries/grounding/#IlluCase)
-  * [1.5 历史联系](https://plato.stanford.edu/entries/grounding/#HistConn)
-* [2. 形而上学奠基的本质](https://plato.stanford.edu/entries/grounding/#NatuGrou)
-
-  * [2.1 客观性和表征](https://plato.stanford.edu/entries/grounding/#ObjeRepr)
-  * [2.2 超内涵性和非单调性](https://plato.stanford.edu/entries/grounding/#HypeNonMono)
-  * [ 2.3 严格排序](https://plato.stanford.edu/entries/grounding/#StriOrde)
-  * [ 2.4 有根据性](https://plato.stanford.edu/entries/grounding/#WellFoun)
-* [3. 为什么认为有基础存在？](https://plato.stanford.edu/entries/grounding/#WhyThinTherGrou)
-
-  * [3.1 理论效用的论证](https://plato.stanford.edu/entries/grounding/#ArguTheoUtil)
-  * [ 3.2 怀疑性回应](https://plato.stanford.edu/entries/grounding/#SkepResp)
-* [4. 与其他概念的互动](https://plato.stanford.edu/entries/grounding/#InteOtheNoti)
-
-  * [ 4.1 必然性](https://plato.stanford.edu/entries/grounding/#Nece)
-  * [ 4.2 本质](https://plato.stanford.edu/entries/grounding/#Esse)
-  * [ 4.3 基础性](https://plato.stanford.edu/entries/grounding/#Fund)
-* [ 参考文献](https://plato.stanford.edu/entries/grounding/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/grounding/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/grounding/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/grounding/#Rel)
+ 
 
 ---
 

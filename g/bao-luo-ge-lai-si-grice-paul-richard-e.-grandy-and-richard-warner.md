@@ -4,24 +4,7 @@
 
 保罗·格莱斯（Herbert Paul Grice），普遍被称为保罗，于 1913 年 3 月 13 日出生在英格兰伯明翰，于 1988 年 8 月 28 日在加利福尼亚州伯克利去世。格莱斯在牛津大学克里斯蒂学院分别于 1933 年获得古典荣誉学位和 1935 年获得人文学位。在一所公立学校任教一年后，他回到牛津，在皇家海军服役近五年后，他在不同职位上任教，直到 1967 年搬到加利福尼亚大学伯克利分校。他在那里任教直至 1979 年正式退休前，直至 1988 年去世。他直至去世前一直在哲学上活跃，他在家中进行讨论，发表演讲，并编辑了一部他的作品集，后来以《言语之道研究》的形式出版。他以哲学语言学的创新工作而闻名，同时也对形而上学、伦理学以及对亚里士多德和康德的研究做出了重要贡献。他的工作在哲学以外的领域，如语言学和人工智能中仍具有影响力（和争议）。尽管他一生中发表的作品相对较少，但通过讲座和未发表的手稿，他产生了广泛的影响。其中最著名的是他于 1967 年初在哈佛大学发表的威廉·詹姆斯讲座，这些讲座在未经授权的手稿形式广泛传播，直到后来作为《言语之道研究》的一部分出版。他还擅长打板球、下国际象棋和弹钢琴，每项都达到了很高的水平。Chapman 于 2005 年出版了一部包括格莱斯个人和职业生活的有用传记；Potts 的评论提供了更多关于一些观点的视角。
 
-* [ 1. 概述](https://plato.stanford.edu/entries/grice/#Over)
-* [2. 辩护一种教条](https://plato.stanford.edu/entries/grice/#DefeDogm)
-* [3. 对话含义](https://plato.stanford.edu/entries/grice/#ConvImpl)
-* [ 4. 意义](https://plato.stanford.edu/entries/grice/#Mean)
-* [ 5. 推理](https://plato.stanford.edu/entries/grice/#Reas)
-* [6. 每日心理学解释](https://plato.stanford.edu/entries/grice/#EverPsycExpl)
-* [ 7. 本体论](https://plato.stanford.edu/entries/grice/#Onto)
-* [8. 普通语言哲学](https://plato.stanford.edu/entries/grice/#OrdiLangPhil)
-* [ 9. 伦理学](https://plato.stanford.edu/entries/grice/#Ethi)
-* [ 10. 结论](https://plato.stanford.edu/entries/grice/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/grice/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/grice/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/grice/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/grice/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/grice/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/grice/#Rel)
-
+ 
 ---
 
 ## 1. 概述

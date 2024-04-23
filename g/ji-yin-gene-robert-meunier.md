@@ -8,26 +8,7 @@
 
 本条目的第一部分提供了一个历史概述，这作为理解哲学上对遗传学变化的科学解释的背景。第二部分将讨论遗传学理论减少模型。第 2.2 和 2.3 节将讨论术语“基因”的含义和指称的变化和多样化的讨论。由于基因概念在大多数生物学领域中起着核心作用，因此在生物哲学的讨论中也占据着核心地位（参见生物哲学和女性主义生物哲学的条目）。本条目关注遗传和发育研究中的基因概念。有关遗传信息、因果关系和决定论的概念问题还涉及到生物信息、遗传学、分子遗传学、分子生物学、先天和后天特征的区别以及人类基因组计划的条目中（另请参阅 Griffiths＆Stotz 2013）。有关基因作为进化的中心单位的概念问题，读者可参考有关进化、生态遗传学、种群遗传学、基因漂变、选择的单位和层次以及复制和繁殖的条目（另请参阅 Sterelny＆Griffiths 1999）。
 
-* [1. 基因在遗传学史中的历史](https://plato.stanford.edu/entries/gene/#HistGeneWithHistGene)
-
-  * [1.1 从孟德尔的方法到孟德尔主义](https://plato.stanford.edu/entries/gene/#MendMethMend)
-  * [1.2 古典和生理遗传学](https://plato.stanford.edu/entries/gene/#ClasPhysGene)
-  * [1.3 分子遗传学：从 DNA 到蛋白质](https://plato.stanford.edu/entries/gene/#MoleGeneDNAProt)
-  * [1.4 分子生物学：DNA 技术，发展和进化](https://plato.stanford.edu/entries/gene/#MoleBiolDNATechDeveEvol)
-  * [1.5 基因组学和后基因组学](https://plato.stanford.edu/entries/gene/#GenoPostGeno)
-* [2. 遗传学中科学变革的哲学解释](https://plato.stanford.edu/entries/gene/#PhilAccoScieChanGene)
-
-  * [2.1 遗传学中的理论变革和还原主义](https://plato.stanford.edu/entries/gene/#TheoChanReduGene)
-  * [2.2 概念变化和基因概念](https://plato.stanford.edu/entries/gene/#ConcChanGeneConc)
-  * [2.3 当代生物学中基因概念的多样性](https://plato.stanford.edu/entries/gene/#PlurGeneConcContBiol)
-
-    * [2.3.1 仪器基因与分子基因](https://plato.stanford.edu/entries/gene/#InstMoleGene)
-    * [2.3.2 分子和后基因组基因](https://plato.stanford.edu/entries/gene/#MolePostGenoGene)
-* [ 3. 结论](https://plato.stanford.edu/entries/gene/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/gene/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/gene/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gene/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gene/#Rel)
+ 
 
 ---
 

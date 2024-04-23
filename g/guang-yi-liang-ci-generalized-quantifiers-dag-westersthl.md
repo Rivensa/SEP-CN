@@ -4,29 +4,7 @@
 
 广义量词现在已成为逻辑学家和语言学家工具箱中的标准装备。本条目的目的是描述这些工具：它们的来源，工作原理以及可以用来做什么。由于篇幅的限制，描述是粗略的，但在文献中存在几份更全面的调查报告，在适当时将进行引用。要充分理解下文，基本的集合论术语和一阶逻辑语言的基本知识将会有所帮助。
 
-* [ 1. 准备工作](https://plato.stanford.edu/entries/generalized-quantifiers/#Prel)
-* [ 2. 亚里士多德](https://plato.stanford.edu/entries/generalized-quantifiers/#Aris)
-* [ 3. 弗雷格](https://plato.stanford.edu/entries/generalized-quantifiers/#Freg)
-* [4. 广义量词的概括](https://plato.stanford.edu/entries/generalized-quantifiers/#GeneUnivExisQuan)
-* [5. 广义量词的任意类型](https://plato.stanford.edu/entries/generalized-quantifiers/#GeneQuanArbiType)
-* [ 6. 主题中立性](https://plato.stanford.edu/entries/generalized-quantifiers/#TopiNeut)
-* [ 7. 相对化](https://plato.stanford.edu/entries/generalized-quantifiers/#Rela)
-* [ 8. 表达能力](https://plato.stanford.edu/entries/generalized-quantifiers/#ExprPowe)
-* [9. 广义量词和计算](https://plato.stanford.edu/entries/generalized-quantifiers/#GeneQuanComp)
-* [10. 广义量词和自然语言](https://plato.stanford.edu/entries/generalized-quantifiers/#GeneQuanNatuLang)
-* [ 11. 保守性](https://plato.stanford.edu/entries/generalized-quantifiers/#Cons)
-* [ 12. 扩展性](https://plato.stanford.edu/entries/generalized-quantifiers/#Exte)
-* [13. 对称性和单调性](https://plato.stanford.edu/entries/generalized-quantifiers/#SymmMono)
-* [14. 不是 ISOM 的限定词](https://plato.stanford.edu/entries/generalized-quantifiers/#DeteNotISOM)
-* [ 15. 恒定性](https://plato.stanford.edu/entries/generalized-quantifiers/#Cons_1)
-* [16. 多元自然语言广义量词](https://plato.stanford.edu/entries/generalized-quantifiers/#PolyNatuLangQuan)
-* [17. 广义量词理论和语言学](https://plato.stanford.edu/entries/generalized-quantifiers/#GQTheoLing)
-* [18. 量化和认知](https://plato.stanford.edu/entries/generalized-quantifiers/#QuanCogn)
-* [ 参考文献](https://plato.stanford.edu/entries/generalized-quantifiers/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/generalized-quantifiers/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/generalized-quantifiers/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/generalized-quantifiers/#Rel)
-
+ 
 ---
 
 ## 1. 准备工作

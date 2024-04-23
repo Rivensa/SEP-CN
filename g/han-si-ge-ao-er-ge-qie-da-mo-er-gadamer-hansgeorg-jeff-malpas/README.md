@@ -3,28 +3,7 @@
 
 汉斯-格奥尔格·伽达默尔是 20 世纪诠释学发展中的决定性人物，几乎可以肯定地说，在影响力和声誉方面超过了其他主要人物，包括保罗·里克尔和乔瓦尼·瓦蒂莫（瓦蒂莫本人曾是伽达默尔的学生之一）。伽达默尔深受马丁·海德格尔的哲学影响（尽管海德格尔在后来的思想中放弃了这个术语，但他对哲学诠释学的影响是无处不在的），他接受过新康德学派的学术训练以及古典文献学的教育。伽达默尔成熟哲学的核心是一种独特而彻底的对话式方法，基于柏拉图-亚里士多德以及海德格尔的思想，拒绝了主观主义和相对主义，摒弃了任何简单的诠释方法概念，并将理解基础放在语言中介传统的发生中。伽达默尔的作品采用了比海德格尔本人更正统和谦逊，但也更易接近的风格，可以看作是集中在四个主要领域：第一个，显然也是最有影响力的，是哲学诠释学的发展和阐述；第二是哲学内部的对话，以及对哲学史的对话，特别是与柏拉图和亚里士多德，但也与黑格尔和海德格尔的对话；第三是与文学，特别是诗歌和艺术的交流；第四是伽达默尔自己所称的“实践哲学”（见伽达默尔 2001 年，78-85 页），包括当代政治和伦理问题。伽达默尔的对话性方法的特点显而易见，不仅体现在他的思想中对对话概念的核心理论地位，而且体现在他的写作中的辩证和对话，甚至是“会话”的性质，以及他个人对知识交流和交换的承诺（伽达默尔使用德语词汇“Gespräch”，可以翻译为对话或会话）。事实上，伽达默尔是为数不多的将“访谈”作为哲学产出的重要范畴之一的哲学家（参见哈恩 1997 年，588-599 页；另见伽达默尔 2001 年，2003 年）。尽管他确定了自己的作品与英语“分析”思想（主要是通过后期的维特根斯坦，但也包括唐纳德·戴维森—参见基恩 2021 年）之间的联系，并且有时看到自己的思想被像阿拉斯代尔·麦克因泰尔（见麦克因泰尔 2002 年）、罗纳德·德沃金（见德沃金 1986 年）、罗伯特·布兰德姆（见布兰德姆 2002 年）、约翰·麦克道尔（见麦克道尔 1996 年，2002 年）以及尤其是理查德·罗蒂（罗蒂 1979 年；另见基恩 2021 年）等思想家所接受，但伽达默尔在英语哲学圈中可能不那么出名，甚至可以说在某些近代哲学家中不那么受重视。然而，他无疑是 20 世纪最重要的思想家之一，对从美学到法理学的一系列领域产生了巨大影响，并在德国以及欧洲其他地方获得了远超出学术界常规范围的尊重和声誉。
 
-* [ 1. 人物简介](https://plato.stanford.edu/entries/gadamer/#BioSke)
-* [2. 解释学基础](https://plato.stanford.edu/entries/gadamer/#HerFou)
-
-  * [2.1 对话与智慧](https://plato.stanford.edu/entries/gadamer/#DiaPhr)
-  * [2.2 本体论与解释学](https://plato.stanford.edu/entries/gadamer/#OntHer)
-  * [2.3 Aesthetics and Subjectivism](https://plato.stanford.edu/entries/gadamer/#AesSub)
-* [3. Philosophical Hermeneutics](https://plato.stanford.edu/entries/gadamer/#PhiHer)
-
-  * [3.1 The Positivity of ‘Prejudice’](https://plato.stanford.edu/entries/gadamer/#PosPre)
-  * [3.2 The Happening of Tradition](https://plato.stanford.edu/entries/gadamer/#HapTra)
-  * [3.3 The Linguisticality of Understanding](https://plato.stanford.edu/entries/gadamer/#LinUnd)
-* [4. Philosophy and the History of Philosophy](https://plato.stanford.edu/entries/gadamer/#His)
-* [5. 文学与艺术](https://plato.stanford.edu/entries/gadamer/#LitArt)
-* [ 6. 实践哲学](https://plato.stanford.edu/entries/gadamer/#Pra)
-* [ 参考书目](https://plato.stanford.edu/entries/gadamer/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/gadamer/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/gadamer/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/gadamer/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/gadamer/#Oth)
-* [Related Entries](https://plato.stanford.edu/entries/gadamer/#Rel)
-
+ 
 ---
 
 ## 1. Biographical Sketch

@@ -4,23 +4,7 @@
 
 里米尼的格里高利可能是中世纪最后一位伟大的经院神学家。他是第一位在牛津融合奥卡姆后传统和巴黎奥里奥后传统发展的思想家，并且他的独创综合对欧洲思想产生了持久影响。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/gregory-rimini/#LifeWork)
-* [2. 在哲学史中的地位](https://plato.stanford.edu/entries/gregory-rimini/#PosiHistPhil)
-* [ 3. 神学](https://plato.stanford.edu/entries/gregory-rimini/#Theo)
-
-  * [3.1 预知与偶然性](https://plato.stanford.edu/entries/gregory-rimini/#ForeCont)
-  * [ 3.2 预定](https://plato.stanford.edu/entries/gregory-rimini/#Pred)
-* [ 4. 认识论](https://plato.stanford.edu/entries/gregory-rimini/#Cogn)
-* [ 5. 自然哲学](https://plato.stanford.edu/entries/gregory-rimini/#NatuPhil)
-* [ 6. 经济思想](https://plato.stanford.edu/entries/gregory-rimini/#EconThou)
-* [ 7. 结论](https://plato.stanford.edu/entries/gregory-rimini/#Conc)
-* [ 参考书目](https://plato.stanford.edu/entries/gregory-rimini/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/gregory-rimini/#PrimSour)
-  * [二级作品注释：鉴于下面的参考书目是有限的](https://plato.stanford.edu/entries/gregory-rimini/#SecoWorkNoteBiblBeloNeceLimiGive)
-* [ 学术工具](https://plato.stanford.edu/entries/gregory-rimini/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gregory-rimini/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gregory-rimini/#Rel)
+ 
 
 ---
 

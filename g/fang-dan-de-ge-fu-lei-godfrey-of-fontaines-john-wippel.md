@@ -4,24 +4,7 @@
 
 方丹的戈弗雷是十三世纪末在巴黎大学担任摄政大师的主要哲学家神学家之一，与亨利·根特和罗马的吉尔斯一起。在完成艺术学院的哲学研究并于 1274 年 8 月开始研究神学后，他于 1285 年成为神学的摄政大师，并一直保持这个职位直到 1303/1304 年。他在哲学领域的最大贡献在于形而上学。他受到托马斯·阿奎那的积极影响，但在一些重要问题上与他有所不同，似乎也受到艺术大师布拉班特的影响。他的哲学思想可以被描述为行动和潜能的形而上学，因为他经常在解决形而上学问题时转向这一点，例如本质与存在之间的关系，可能与实际存在之间的关系，物质与意外之间的区别以及灵魂与其力量之间的区别，知识和意志的原因，或原始物质的性质及其与实质形式的关系。总体而言，他的哲学思想，尤其是他的形而上学，比许多同时代的人，包括阿奎那，更具亚里士多德主义色彩，而不受新柏拉图主义的影响。
 
-* [1. 生平和著作](https://plato.stanford.edu/entries/godfrey/#LifWri)
-* [2. 形而上学的主题](https://plato.stanford.edu/entries/godfrey/#SubMet)
-* [3. 存在的划分](https://plato.stanford.edu/entries/godfrey/#DivBei)
-* [4. 存在的类比](https://plato.stanford.edu/entries/godfrey/#AnaBei)
-* [ 5. 超越属性](https://plato.stanford.edu/entries/godfrey/#Tra)
-* [6. 本质与存在](https://plato.stanford.edu/entries/godfrey/#EssExi)
-* [7. 对上帝存在的哲学认识](https://plato.stanford.edu/entries/godfrey/#PhiKnoGodExi)
-* [8. 方丹的戈弗雷和神性属性的本质认识](https://plato.stanford.edu/entries/godfrey/#QuiKnoGodDivAtt)
-* [9. 世界的永恒性](https://plato.stanford.edu/entries/godfrey/#EteWor)
-* [10. 实体，属性，人类行为](https://plato.stanford.edu/entries/godfrey/#SubAccHumAct)
-* [11. 抽象理论](https://plato.stanford.edu/entries/godfrey/#TheAbs)
-* [ 12. 原始物质](https://plato.stanford.edu/entries/godfrey/#PriMat)
-* [13. 实体形式的唯一性与多样性](https://plato.stanford.edu/entries/godfrey/#UniVsPluSubFor)
-* [14. 个体化原则](https://plato.stanford.edu/entries/godfrey/#PriInd)
-* [ 参考文献](https://plato.stanford.edu/entries/godfrey/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/godfrey/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/godfrey/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/godfrey/#Rel)
+ 
 
 ---
 

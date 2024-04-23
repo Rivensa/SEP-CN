@@ -4,44 +4,7 @@ _首次发表于2007年2月13日；实质性修订于2015年12月11日_
 
 库尔特·哥德尔（生于 1906 年，卒于 1978 年）是现代数理逻辑中的主要奠基人之一。他以不完全性定理而闻名，这是 20 世纪数学中少数几个里程碑定理之一，但他的工作涉及数理逻辑的每个领域，如果不是在大多数情况下是它们的原始刺激。在他的哲学著作中，哥德尔阐述并捍卫了数学柏拉图主义，即数学是一门描述性科学的观点，或者说数学真理的概念是客观的观点。基于这一观点，他为集合论中的概念分析计划奠定了基础（见下文）。他坚持希尔伯特在数学中的“原始理性主义观念”（他自称如此）\[1]，并在大基数在集合论中的重要性变得明确之前，预见并强调了它们的重要性。
 
-* [1. 个人简介](https://plato.stanford.edu/entries/goedel/#BioSke)
-* [2. 哥德尔的数学工作](https://plato.stanford.edu/entries/goedel/#GodMatWor)
-  * [2.1 库尔特·哥德尔的完备性定理](https://plato.stanford.edu/entries/goedel/#ComThe)
-    * [2.1.1 引言](https://plato.stanford.edu/entries/goedel/#Int)
-    * [2.1.2 完备性定理的证明](https://plato.stanford.edu/entries/goedel/#ProComThe)
-    * [2.1.3 完备性定理的一个重要推论](https://plato.stanford.edu/entries/goedel/#ImpConComThe)
-  * [2.2 不完全性定理](https://plato.stanford.edu/entries/goedel/#IncThe)
-    * [2.2.1 第一不完全性定理](https://plato.stanford.edu/entries/goedel/#FirIncThe)
-    * [2.2.2 库尔特·哥德尔的第一不完全性定理的证明](https://plato.stanford.edu/entries/goedel/#ProFirIncThe)
-    * [2.2.3 第二不完全性定理](https://plato.stanford.edu/entries/goedel/#SecIncThe)
-    * [附录：不完全性定理是否推翻了希尔伯特的计划？](https://plato.stanford.edu/entries/goedel/incompleteness-hilbert.html)
-  * [2.3 加速定理](https://plato.stanford.edu/entries/goedel/#SpeUpThe)
-  * [2.4 库尔特·哥德尔在集合论中的工作](https://plato.stanford.edu/entries/goedel/#GodWorSetThe)
-    * [2.4.1 连续统假设和选择公理的一致性](https://plato.stanford.edu/entries/goedel/#ConConHypAxiCho)
-    * [2.4.2 库尔特·哥德尔对连续体假设和选择公理与策梅洛-弗兰克尔集合论公理的一致性的证明](https://plato.stanford.edu/entries/goedel/#GodProConConHypAxiChoAxiZerFraSetThe)
-    * [2.4.3 一致性的结果](https://plato.stanford.edu/entries/goedel/#ConCon)
-    * [2.4.4 库尔特·哥德尔对构造性公理的看法](https://plato.stanford.edu/entries/goedel/#GodVieAxiCon)
-  * [2.5 库尔特·哥德尔在直觉主义逻辑和算术中的工作](https://plato.stanford.edu/entries/goedel/#GodWorIntLogAri)
-    * [2.5.1 直觉主义命题逻辑不是有限值的](https://plato.stanford.edu/entries/goedel/#IntProLogNotFinVal)
-    * [2.5.2 古典算术可以在海廷算术中解释](https://plato.stanford.edu/entries/goedel/#ClaAriIntHeyAri)
-    * [2.5.3 直觉主义命题逻辑可在 S4 中解释](https://plato.stanford.edu/entries/goedel/#IntProLogIntS4)
-    * [2.5.4 Heyting 算术可解释为有限类型的可计算函数](https://plato.stanford.edu/entries/goedel/#HeyAriIntComFunFinTyp)
-  * [补充文件：库尔特·哥德尔的文件](https://plato.stanford.edu/entries/goedel/documents.html)
-* [3. 库尔特·哥德尔的哲学观点](https://plato.stanford.edu/entries/goedel/#GodPhiWor)
-  * [3.1 库尔特·哥德尔的理性主义](https://plato.stanford.edu/entries/goedel/#GodRat)
-  * [3.2 库尔特·哥德尔的现实主义](https://plato.stanford.edu/entries/goedel/#GodRea)
-  * [附录文档：库尔特·哥德尔的转向现象学](https://plato.stanford.edu/entries/goedel/goedel-phenomenology.html)
-  * [附录文档：关于数学内容的哲学论证](https://plato.stanford.edu/entries/goedel/content-mathematics.html)
-* [参考文献](https://plato.stanford.edu/entries/goedel/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/goedel/#PriSou)
-    * [库尔特·哥德尔的著作](https://plato.stanford.edu/entries/goedel/#GodWri)
-    * [库尔特·哥德尔的论文集](https://plato.stanford.edu/entries/goedel/#ColPapKurGod)
-    * [库尔特·哥德尔选集](https://plato.stanford.edu/entries/goedel/#SelWorKurGod)
-  * [二手资料](https://plato.stanford.edu/entries/goedel/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/goedel/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/goedel/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/goedel/#Rel)
-
+ 
 ***
 
 ## 1. 传记简介

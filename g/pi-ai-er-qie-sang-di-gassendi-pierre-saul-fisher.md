@@ -4,23 +4,7 @@
 
 皮埃尔·伽桑狄（出生于 1592 年，逝世于 1655 年）是一位法国哲学家、科学编年史学家、观察家和实验家，古代文本和辩论的学者，以及十七世纪上半叶当代讨论的积极参与者。近年来，人们重新发现并探索了他在早期现代思想中的重要性，以更好地理解现代经验主义、机械哲学以及现代哲学与古代和中世纪讨论的关系。尽管伽桑狄在哲学史上最为人所知的是与笛卡尔的争论，但他与其他重要人物的关系，包括开普勒、伽利略、梅森、贝克曼和霍布斯，代表了更为重要的思想交流。伽桑狄还试图重新传播伊壁鸠鲁、斯多嘉学派和其他早期思想家的观念，他所得出的综合观点提供了一种现代观点，成为他所创造的哲学和科学的基石之一：我们对自然界的认识取决于我们感官所提供的信息的限制和许可。通过这种经验主义——在他对教会教义的忠实坚持的基础上——伽桑狄将形而上学视为一种建立在经验证实可能性基础上的思辨领域，逻辑则是（轮流地）一种心理学和概率学的企业，对外部世界的认识建立在并永远受制于基于感官的证据，伦理学以准享乐主义、可能可量化的术语来表达。伽桑狄的哲学是对其他来源的不断审视，对自己的经验主义所适合的景观的深入考虑，并代表了对对比主张的替代观点，无论是过去还是现在。有人认为这种思想上的折衷主义——特别是在他的遗作《哲学综合体》中——实际上将哲学重新塑造为一种完全有参考价值的学术企业，推动了哲学研究和阐述中的历史风格和修辞方式。在这些变化中，他甚至与标志着他的原子论物质理论、经验主义观点、对新物理学的探索和辩护、对《沉思录》的反驳以及对当代亚里士多德学派和神秘思想家的反驳的创新相匹敌。有人认为——也许是不公平的——伽桑狄的核心思想通过博义、洛克、休谟和牛顿的著作更好地得到了保留。然而，他在历史和哲学背景下呈现的经验主义、原子论和新宇宙观极大地推动了他所处时代的学术界，并代表了当时一种相当新的研究和阐述模式——至今在哲学中仍在使用。
 
-* [1. Historical Background and Gassendi’s Life](https://plato.stanford.edu/entries/gassendi/#1)
-* [2. Method and Nature of Philosophical Inquiry](https://plato.stanford.edu/entries/gassendi/#2)
-* [3. 亚里士多德派和笛卡尔的反驳](https://plato.stanford.edu/entries/gassendi/#3)
-* [4. 经验主义和科学方法](https://plato.stanford.edu/entries/gassendi/#4)
-* [5. 原子物质理论](https://plato.stanford.edu/entries/gassendi/#5)
-* [6. 原子自然哲学](https://plato.stanford.edu/entries/gassendi/#6)
-* [7. 唯物主义、自由主义和伦理学](https://plato.stanford.edu/entries/gassendi/#7)
-* [8. 空间和时间](https://plato.stanford.edu/entries/gassendi/#8)
-* [ 9. 逻辑](https://plato.stanford.edu/entries/gassendi/#9)
-* [10. 科学探索：天文学、光学和力学](https://plato.stanford.edu/entries/gassendi/#10)
-* [11. 影响和影响力](https://plato.stanford.edu/entries/gassendi/#11)
-* [12. 对伽桑狄的最新评论](https://plato.stanford.edu/entries/gassendi/#12)
-* [ 参考书目](https://plato.stanford.edu/entries/gassendi/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/gassendi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gassendi/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gassendi/#Rel)
-
+ 
 ---
 
 ## 1. 历史背景和伽桑狄的生平

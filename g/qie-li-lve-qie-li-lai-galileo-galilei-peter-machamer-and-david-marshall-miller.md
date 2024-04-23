@@ -4,18 +4,7 @@
 
 伽利略·伽利莱（1564 年-1642 年）在科学史以及许多哲学史中一直扮演着关键角色。作为 17 世纪科学革命的核心人物，他是一个（如果不是唯一的）中心人物。他在物理学（或“自然哲学”）、天文学和科学方法论方面的工作至今仍然引发争议，已经过去 400 多年。他在推动哥白尼理论以及与罗马教廷的困境和审判的角色仍然需要再次讲述。本文试图通过一种新的方式，对伽利略生平和工作的这些方面进行概述，但重点放在他关于物质性质的论证上。
 
-* [ 1. 简要传记](https://plato.stanford.edu/entries/galileo/#BrieBiog)
-* [2. Introduction and Background](https://plato.stanford.edu/entries/galileo/#IntrBack)
-* [3. Galileo’s Scientific Story](https://plato.stanford.edu/entries/galileo/#GaliScieStor)
-* [4. Galileo and the Church](https://plato.stanford.edu/entries/galileo/#GaliChur)
-* [ 参考文献](https://plato.stanford.edu/entries/galileo/#Bib)
-
-  * [一手资料：伽利略的著作](https://plato.stanford.edu/entries/galileo/#PrimSourGaliWork)
-  * [ 二手资料](https://plato.stanford.edu/entries/galileo/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/galileo/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/galileo/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/galileo/#Rel)
-
+ 
 ---
 
 ## 1. 简要传记

@@ -4,22 +4,7 @@
 
 在十九世纪，几何学，像大多数学科一样，经历了一段接近灾难的增长时期。在这一时期，几何学的内容和内在多样性几乎增长到难以辨认的程度；自古以来被几何学爱好者吹捧的公设方法最终达到了真正的逻辑充分性，为用黎曼的极具灵活性的系统取代欧几里得标准几何学在描述物理现象方面奠定了基础。各种倾向的现代哲学家 — 笛卡尔和霍布斯，斯宾诺莎和洛克，休谟和康德 — 都将欧几里得几何视为认识确定性的范例。欧几里得几何突然缩小为数学空间理论庞大家族的一个亚种，打破了一些幻想，并促使哲学对人类知识的概念发生重要变化。因此，例如，在这些十九世纪的发展之后，梦想通过从不言自明的原则逻辑推理获得完全确定的对错知识的哲学家们，不再能将欧几里得几何作为一个类似目标已被证明可达的实例。本文回顾了对哲学具有重要意义的十九世纪几何学方面，并顺便提及了它们的哲学意义。
 
-* [1. Lobachevskian geometry](https://plato.stanford.edu/entries/geometry-19th/#LobGeo)
-* [ 2. 投影几何学](https://plato.stanford.edu/entries/geometry-19th/#ProGeo)
-* [3. 克莱因的埃尔朗根计划](https://plato.stanford.edu/entries/geometry-19th/#KleErlPro)
-* [ 4. 完善的公理化](https://plato.stanford.edu/entries/geometry-19th/#AxiPer)
-* [5. 黎曼的微分几何](https://plato.stanford.edu/entries/geometry-19th/#DifGeoRie)
-* [6. 李群](https://plato.stanford.edu/entries/geometry-19th/#LieGro)
-
-  * [补充：黎曼理论的现代表述](https://plato.stanford.edu/entries/geometry-19th/supplement.html)
-* [ 参考文献](https://plato.stanford.edu/entries/geometry-19th/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/geometry-19th/#PriSou)
-  * [ 次要文献](https://plato.stanford.edu/entries/geometry-19th/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/geometry-19th/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/geometry-19th/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/geometry-19th/#Rel)
-
+ 
 ---
 
 ## 1. 几何学
