@@ -4,28 +4,7 @@
 
 合成先验命题如何可能？这个问题通常被理解为康德的《纯粹理性批判》所涉及的调查框架。对此，康德决定将问题分为三个部分：1）数学的合成先验命题如何可能？2）自然科学的合成先验命题如何可能？最后，3）形而上学的合成先验命题如何可能？康德以系统的方式回答了这些问题。对于第一个问题的答案主要可以在《先验美学》中找到，以及先验空间和时间的观念论。对于第二个问题的答案可以在《先验分析》中找到，康德试图证明范畴在基础知识和经验的可能性中所起的基本作用。对于第三个问题的答案可以在《先验辩证法》中找到，它得出了一个非常直接的结论：形而上学所特征的合成先验命题实际上根本不可能存在。也就是说，形而上学本质上是辩证的。因此，康德的《纯粹理性批判》以其拒绝和捍卫而闻名。因此，在辩证法中，康德将注意力转向传统理性主义形而上学的核心学科——理性心理学、理性宇宙学和理性神学。康德旨在揭示困扰这些领域的错误。
 
-* [1. 初步说明：本体论（一般形而上学）和先验分析的拒绝](https://plato.stanford.edu/entries/kant-metaphysics/#PreRemRejOntGenMetTraAna)
-* [2. 特殊形而上学的拒绝和先验辩证法](https://plato.stanford.edu/entries/kant-metaphysics/#RejSpeMetTraDia)
-
-  * [2.1 理性的理论和先验幻觉](https://plato.stanford.edu/entries/kant-metaphysics/#TheReaTraIll)
-  * [2.2 实体化和曲解](https://plato.stanford.edu/entries/kant-metaphysics/#HypSub)
-* [3. 灵魂和理性心理学](https://plato.stanford.edu/entries/kant-metaphysics/#SouRatPsy)
-* [4. 世界与理性宇宙论](https://plato.stanford.edu/entries/kant-metaphysics/#WorRatCos)
-
-  * [4.1 数学的矛盾论](https://plato.stanford.edu/entries/kant-metaphysics/#MatAnt)
-  * [4.2 动力学的矛盾论](https://plato.stanford.edu/entries/kant-metaphysics/#DynAnt)
-* [5. 上帝与理性神学](https://plato.stanford.edu/entries/kant-metaphysics/#GodRatThe)
-
-  * [5.1 存在论证](https://plato.stanford.edu/entries/kant-metaphysics/#OntArg)
-  * [5.2 其他证明](https://plato.stanford.edu/entries/kant-metaphysics/#OthPro)
-* [6. 理性和先验辩证法的附录](https://plato.stanford.edu/entries/kant-metaphysics/#ReaAppTraDia)
-* [ 参考书目](https://plato.stanford.edu/entries/kant-metaphysics/#Bib)
-
-  * [康德的相关著作（包括德文版和翻译版）：](https://plato.stanford.edu/entries/kant-metaphysics/#RelWorKanIncGerEdiAnd)
-  * [伊曼努尔·康德先验辩证法主题的精选次级阅读材料](https://plato.stanford.edu/entries/kant-metaphysics/#SelSecReaTopKanDia)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-metaphysics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-metaphysics/#Rel)
+ 
 
 ---
 

@@ -6,23 +6,7 @@ _首次发布于2021年11月24日星期三_
 
 下面的部分将追溯韩国儒学的主要思想和主题，并深入研究几场哲学辩论和关键哲学思想，同时强调韩国儒学的一个显著特点——圣人思想，这在 21 世纪对我们的生活具有潜在意义。
 
-* [1. 初步观察](https://plato.stanford.edu/entries/korean-confucianism/#InitObse)
-* [2. 新儒家形而上学重新校准](https://plato.stanford.edu/entries/korean-confucianism/#NeoConfMetaReca)
-  * [2.1 原则、人性和物质力量](https://plato.stanford.edu/entries/korean-confucianism/#PrinHumaNatuMateForc)
-  * [2.2 新儒学与社会转型](https://plato.stanford.edu/entries/korean-confucianism/#NeoConfSociTran)
-* [3. 韩国儒学与佛教的对抗](https://plato.stanford.edu/entries/korean-confucianism/#KoreNeoConfConfBudd)
-  * [3.1 佛教的早期批评](https://plato.stanford.edu/entries/korean-confucianism/#EarlCrit)
-  * [3.2 郑道传对佛教的儒学批评](https://plato.stanford.edu/entries/korean-confucianism/#ChngTojnNeoConfCritBudd)
-* [4. 圣人学习和四七辩论](https://plato.stanford.edu/entries/korean-confucianism/#SageLearFourSeveDeba)
-* [5. 霍拉克辩论](https://plato.stanford.edu/entries/korean-confucianism/#HoraDeba)
-* [6. 韩国儒学对早期天主教的反应](https://plato.stanford.edu/entries/korean-confucianism/#ConfReacEarlCath)
-  * [6.1 马铁欧·利奇和对西方神学的反应](https://plato.stanford.edu/entries/korean-confucianism/#RicciReact)
-  * [6.2 儒学天主教徒，多山和道德优先](https://plato.stanford.edu/entries/korean-confucianism/#ConfCathTasaMoraPrio)
-* [7. 现代化的出现和儒学的挑战](https://plato.stanford.edu/entries/korean-confucianism/#EmerModeConfChal)
-* [参考文献](https://plato.stanford.edu/entries/korean-confucianism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/korean-confucianism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/korean-confucianism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/korean-confucianism/#Rel)
+ 
 
 ***
 

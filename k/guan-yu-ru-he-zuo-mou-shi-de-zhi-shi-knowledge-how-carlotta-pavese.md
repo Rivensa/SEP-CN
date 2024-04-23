@@ -7,49 +7,7 @@
 在分析哲学中，对知识如何和知识是什么的区分在莱尔的开创性著作《心灵的概念》（1949年）中受到了审视。在这本书中，他提出了一些对所谓的“知识主义传说”的经典反驳观点：即知识如何等同于知识是什么。莱尔反而提倡了一种“反知识主义”的知识如何观，认为知识如何和知识是什么是不同种类的知识，而知识如何的表现并不一定是知识是什么的表现。这种反知识主义长期以来一直是哲学家们的共识。甚至心理学家和神经科学家在讨论他们的实证研究结果时，也明确地借鉴了莱尔的经典区分（例如，Cohen＆Squire 1980年；Anderson 1983年）。然而，在过去的二十年里，认识论家对知识如何的本质重新产生了兴趣，这使得辩论焕发了新的生机，新的知识主义和反知识主义观点也得到了发展和辩护。这场辩论在一定程度上是认识论的：知识如何是一种完全不同的知识，与知识是什么不同吗？但它也涉及到一个心理学问题：知识如何是一种怎样的心理状态？本文的目标是概述知识主义者和反知识主义者之间的辩论，同时强调这场辩论对于与智力、认知、语言和技能相关问题的影响。
 
 这个条目首先讨论了一些反对知识-如何智力主义的经典论证：回归论证（第 1 节），不足论证（第 2 节）和可分级论证（第 3 节）。然后考虑了两个支持知识-如何智力主义的论证：语言论证（第 4 节）和行动理论论证（第 5 节）。第 6 节概述了关于知识-如何和命题知识是否具有相同认识论特征的最近认识论辩论。第 7 节讨论了反对知识-如何智力主义的认知科学论证。第 8 节概述了近期文献中关于知识-如何反智力主义的形式。第 9 节探讨了知识-如何和技能之间的关系。第 10 节讨论了知识-如何和其他相关主题。
-
-* [1. 回归论证](https://plato.stanford.edu/entries/knowledge-how/#RegrArgu)
-
-  * [1.1 沉思论证](https://plato.stanford.edu/entries/knowledge-how/#ContArgu)
-  * [1.2 就业回归](https://plato.stanford.edu/entries/knowledge-how/#EmplRegr)
-  * [1.3 回归论的复兴](https://plato.stanford.edu/entries/knowledge-how/#ReviRegrArgu)
-  * [1.4 路易斯·卡罗尔的回归](https://plato.stanford.edu/entries/knowledge-how/#LewiCarrRegr)
-* [2. 充分性论证](https://plato.stanford.edu/entries/knowledge-how/#SuffArgu)
-* [3. 可分级性论证](https://plato.stanford.edu/entries/knowledge-how/#GradArgu)
-* [4. 语言学论证](https://plato.stanford.edu/entries/knowledge-how/#LingArgu)
-
-  * [4.1 知识主义提案的详细内容](https://plato.stanford.edu/entries/knowledge-how/#DetaInteProp)
-  * [4.2 第一组反对意见](https://plato.stanford.edu/entries/knowledge-how/#FirsGrouObje)
-  * [4.3 第二组反对意见](https://plato.stanford.edu/entries/knowledge-how/#SecoGrouObje)
-  * [4.4 第三组异议](https://plato.stanford.edu/entries/knowledge-how/#ThirGrouObje)
-* [5. 行动理论论证与共同行动问题](https://plato.stanford.edu/entries/knowledge-how/#ActiTheoArguQuesJoinActi)
-* [6. 知识-如何的认识论](https://plato.stanford.edu/entries/knowledge-how/#EpisKnowHow)
-
-  * [6.1 知识如何和信念](https://plato.stanford.edu/entries/knowledge-how/#KnowHowBeli)
-  * [6.2 知识如何和盖蒂尔](https://plato.stanford.edu/entries/knowledge-how/#KnowHowGett)
-  * [6.3 知识如何、可推翻性和证词](https://plato.stanford.edu/entries/knowledge-how/#KnowHowDefeTest)
-* [7. 认知科学的论证](https://plato.stanford.edu/entries/knowledge-how/#ArguCognScie)
-
-  * [ 7.1 论证](https://plato.stanford.edu/entries/knowledge-how/#Argu)
-  * [7.2 改进论证](https://plato.stanford.edu/entries/knowledge-how/#ImprArgu)
-  * [ 7.3 可表达性](https://plato.stanford.edu/entries/knowledge-how/#Arti)
-  * [7.4 知识-如何在语言前儿童和非人类动物中](https://plato.stanford.edu/entries/knowledge-how/#KnowHowPrevChilNonhAnim)
-* [8. 反智主义的种类](https://plato.stanford.edu/entries/knowledge-how/#VariAntiInte)
-
-  * [8.1 修订主义知识论](https://plato.stanford.edu/entries/knowledge-how/#ReviInte)
-  * [8.2 基于能力的反智主义](https://plato.stanford.edu/entries/knowledge-how/#AbilBaseAntiInte)
-  * [8.3 知识如何和技能](https://plato.stanford.edu/entries/knowledge-how/#KnowHowSkil)
-* [9. 知识-如何和技能](https://plato.stanford.edu/entries/knowledge-how/#KnowHowSkil_1)
-
-  * [9.1 跨文化的技能](https://plato.stanford.edu/entries/knowledge-how/#SkilAcroCult)
-  * [9.2 关于技能的知识主义和反知识主义](https://plato.stanford.edu/entries/knowledge-how/#InteAntiInteAbouSkil)
-  * [9.3 知识论中的技能](https://plato.stanford.edu/entries/knowledge-how/#SkilEpis)
-  * [9.4 熟练行动的本质](https://plato.stanford.edu/entries/knowledge-how/#NatuSkilActi)
-* [10. 知识-如何和其他相关主题](https://plato.stanford.edu/entries/knowledge-how/#KnowHowOtheRelaTopi)
-* [ 参考文献](https://plato.stanford.edu/entries/knowledge-how/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/knowledge-how/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/knowledge-how/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/knowledge-how/#Rel)
+ 
 
 ---
 

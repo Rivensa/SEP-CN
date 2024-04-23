@@ -8,44 +8,7 @@ _首次发表于2005年7月2日；实质性修订于2022年7月15日。_
 
 伊曼努尔·康德的美学和目的论构成了一个非常广泛的领域，本文无法涵盖所有相关主题，也无法考虑到所有相关文献，特别是考虑到学术界对第三批判的最近兴趣的扩展。在这里我提到三个更具体的限制。首先，尽管康德在他的职业生涯中写过关于美学和目的论的文章，但本文仅考虑康德的《判断力批判》（以及所谓的“第一引言”，这是引言的早期版本，在康德生前未发表，但包含在最新的英文翻译的《判断力批判》中）。其次，本文主要关注康德关于这些主题的著作引发的解释和哲学问题，而不是关于它们起源和接受的历史问题。第三，本文主要关注在英美分析传统中引起最多关注的问题；这在参考文献中有所体现，参考文献主要限于英文著作，更具体地说是从分析视角撰写的著作。关于康德关于美学和目的论的著作的一些参考资料，请参阅参考文献中的主要来源。关于康德的美学和目的论的历史和接受方面的二次文献的一些建议，以及从非分析视角撰写的英文二次文献的一些建议，请参阅参考文献中的二次来源。
 
-* [1. 判断力的能力和第三批判的统一](https://plato.stanford.edu/entries/kant-aesthetics/#FacuJudgUnitThirCrit)
-* [2. 美学](https://plato.stanford.edu/entries/kant-aesthetics/#Aest)
-  * [2.1 什么是美的判断？](https://plato.stanford.edu/entries/kant-aesthetics/#WhatJudgBeau)
-    * [2.1.1 第一时刻（§§1–5）](https://plato.stanford.edu/entries/kant-aesthetics/#FirsMomeSs15)
-    * [2.1.2 第二时刻（§§6–9）](https://plato.stanford.edu/entries/kant-aesthetics/#SecoMomeSs69)
-    * [2.1.3 第三时刻 (§§10–17)](https://plato.stanford.edu/entries/kant-aesthetics/#ThirMomeSs10)
-    * [2.1.4 第四时刻 (§18–22)](https://plato.stanford.edu/entries/kant-aesthetics/#FourMomeS182)
-  * [2.2 美的判断如何可能？](https://plato.stanford.edu/entries/kant-aesthetics/#HowJudgBeauPoss)
-  * [2.3 美的判断：解释问题](https://plato.stanford.edu/entries/kant-aesthetics/#JudgBeauInteIssu)
-    * [2.3.1 快乐与判断](https://plato.stanford.edu/entries/kant-aesthetics/#PleaJudg)
-    * [2.3.2 想象力和理解的自由游戏](https://plato.stanford.edu/entries/kant-aesthetics/#FreePlayImagUnde)
-    * [2.3.3 快乐的意向性](https://plato.stanford.edu/entries/kant-aesthetics/#IntePlea)
-    * [2.3.4 主张一致性的特征](https://plato.stanford.edu/entries/kant-aesthetics/#CharClaiAgre)
-    * [2.3.5 美是客观的吗？](https://plato.stanford.edu/entries/kant-aesthetics/#BeauObje)
-    * [2.3.6 美的负面判断](https://plato.stanford.edu/entries/kant-aesthetics/#NegaJudgBeau)
-    * [2.3.7 “常识”是什么？](https://plato.stanford.edu/entries/kant-aesthetics/#WhatCommSens)
-    * [2.3.8 普遍有效性和普遍可交流性](https://plato.stanford.edu/entries/kant-aesthetics/#UnivValiUnivComm)
-  * [2.4 美的判断：一些批评](https://plato.stanford.edu/entries/kant-aesthetics/#JudgBeauSomeCrit)
-  * [2.5 自由美和附着美](https://plato.stanford.edu/entries/kant-aesthetics/#FreeAdheBeau)
-  * [2.6 艺术、天才和美学观念](https://plato.stanford.edu/entries/kant-aesthetics/#ArtGeniAestIdea)
-  * [2.7 崇高](https://plato.stanford.edu/entries/kant-aesthetics/#Subl)
-  * [2.8 审美与道德](https://plato.stanford.edu/entries/kant-aesthetics/#AestMora)
-  * [2.9 康德审美学的更广泛意义](https://plato.stanford.edu/entries/kant-aesthetics/#BroaSignKantAest)
-* [3. 目的论](https://plato.stanford.edu/entries/kant-aesthetics/#Tele)
-  * [3.1 目的性的概念](https://plato.stanford.edu/entries/kant-aesthetics/#NotiPurp)
-  * [3.2 自然对我们认知能力的目的性](https://plato.stanford.edu/entries/kant-aesthetics/#NatuPurpForOurCognFacu)
-  * [3.3 有机体作为自然目的](https://plato.stanford.edu/entries/kant-aesthetics/#OrgaNatuPurp)
-  * [3.4 机械论和目的论](https://plato.stanford.edu/entries/kant-aesthetics/#MechTele)
-  * [3.5 自然作为一个目的系统](https://plato.stanford.edu/entries/kant-aesthetics/#NatuSystPurp)
-  * [3.6 目的论、道德和宗教](https://plato.stanford.edu/entries/kant-aesthetics/#TeleMoraReli)
-  * [3.7 康德的自然目的论对当代生物学理论的相关性](https://plato.stanford.edu/entries/kant-aesthetics/#ReleKantNatuTeleContBiolTheo)
-* [参考文献](https://plato.stanford.edu/entries/kant-aesthetics/#Bib)
-  * [A. 主要来源](https://plato.stanford.edu/entries/kant-aesthetics/#PrimSour)
-  * [B. 次要来源](https://plato.stanford.edu/entries/kant-aesthetics/#BSecoSour)
-* [学术工具](https://plato.stanford.edu/entries/kant-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-aesthetics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/kant-aesthetics/#Rel)
-
+ 
 ***
 
 ## 1. 论述判断力与第三批判的统一

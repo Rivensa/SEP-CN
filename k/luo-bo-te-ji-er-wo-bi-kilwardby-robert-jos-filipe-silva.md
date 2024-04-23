@@ -4,26 +4,7 @@
 
 罗伯特·基尔沃比（约 1215 年-1279 年）是多明我会的省长，后来成为坎特伯雷大主教，他于 1231 年左右开始在巴黎大学从事学术事业。作为一位文学硕士，他是最早对新出现的亚里士多德逻辑著作进行评论的人之一，他的评论对后来产生了广泛的影响。他还写了一本广为阅读的科学导论《科学的起源》。然而，他主要与奥古斯丁思想有关，特别是关于实质形式的多样性和感知的主动性，以及他参与 1277 年关于逻辑、语法和自然哲学的三十条禁令争议。他晋升为红衣主教后不久，在 1279 年抵达维泰尔博教廷后不久去世。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/robert-kilwardby/#LifWor)
-* [2. 灵魂理论与实质形式的多样性](https://plato.stanford.edu/entries/robert-kilwardby/#TheSouPluSubFor)
-* [3. 物质和种子原因](https://plato.stanford.edu/entries/robert-kilwardby/#MatSemRea)
-* [ 4. 个体化](https://plato.stanford.edu/entries/robert-kilwardby/#Ind)
-* [5. 知识理论](https://plato.stanford.edu/entries/robert-kilwardby/#TheKno)
-
-  * [5.1. 主动感知](https://plato.stanford.edu/entries/robert-kilwardby/#ActSenPer)
-  * [5.2. 知性认识](https://plato.stanford.edu/entries/robert-kilwardby/#IntCog)
-* [6. 在《科学起源》中的科学分类](https://plato.stanford.edu/entries/robert-kilwardby/#ClaSciDeOrtSci)
-* [7. 天体运动和时间](https://plato.stanford.edu/entries/robert-kilwardby/#CelMotTim)
-
-  * [ 时间](https://plato.stanford.edu/entries/robert-kilwardby/#Tim)
-* [ 参考文献](https://plato.stanford.edu/entries/robert-kilwardby/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/robert-kilwardby/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/robert-kilwardby/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/robert-kilwardby/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/robert-kilwardby/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/robert-kilwardby/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

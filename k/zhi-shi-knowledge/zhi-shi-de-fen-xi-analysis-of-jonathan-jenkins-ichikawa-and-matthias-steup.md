@@ -14,37 +14,7 @@
 
 研究知识的尝试引起了认识论学者的广泛关注，尤其是在 20 世纪后期，但是没有一种分析被广泛接受。一些当代认识论学者拒绝了知识可被分析的假设。
 
-* [1. 知识作为合理的真实信念](https://plato.stanford.edu/entries/knowledge-analysis/#KnowJustTrueBeli)
-
-  * [1.1 真实条件](https://plato.stanford.edu/entries/knowledge-analysis/#TrutCond)
-  * [1.2 信念条件](https://plato.stanford.edu/entries/knowledge-analysis/#BeliCond)
-  * [1.3 正当性条件](https://plato.stanford.edu/entries/knowledge-analysis/#JustCond)
-* [2. 轻量级知识](https://plato.stanford.edu/entries/knowledge-analysis/#LighKnow)
-* [3. 罗伯特·基尔沃比问题](https://plato.stanford.edu/entries/knowledge-analysis/#GettProb)
-* [4. 无假引理](https://plato.stanford.edu/entries/knowledge-analysis/#NoFalsLemm)
-* [5. 模态条件](https://plato.stanford.edu/entries/knowledge-analysis/#ModaCond)
-
-  * [ 5.1 敏感性](https://plato.stanford.edu/entries/knowledge-analysis/#Sens)
-  * [ 5.2 安全性](https://plato.stanford.edu/entries/knowledge-analysis/#Safe)
-  * [5.3 相关替代方案](https://plato.stanford.edu/entries/knowledge-analysis/#ReleAlte)
-* [6. 没有理由的做法？](https://plato.stanford.edu/entries/knowledge-analysis/#DoinWithJust)
-
-  * [6.1 知识的可靠主义理论](https://plato.stanford.edu/entries/knowledge-analysis/#ReliTheoKnow)
-  * [6.2 知识的因果理论](https://plato.stanford.edu/entries/knowledge-analysis/#CausTheoKnow)
-* [7. 知识是否可分析？](https://plato.stanford.edu/entries/knowledge-analysis/#KnowAnal)
-* [ 8. 认识幸运](https://plato.stanford.edu/entries/knowledge-analysis/#EpisLuck)
-* [9. 方法论选择](https://plato.stanford.edu/entries/knowledge-analysis/#MethOpti)
-* [10. 美德理论方法](https://plato.stanford.edu/entries/knowledge-analysis/#VirtTheoAppr)
-
-  * [10.1 “AAA”评估](https://plato.stanford.edu/entries/knowledge-analysis/#AAAEval)
-  * [10.2 伪谷仓案例](https://plato.stanford.edu/entries/knowledge-analysis/#FakeBarnCase)
-* [ 11. 知识优先](https://plato.stanford.edu/entries/knowledge-analysis/#KnowFirs)
-* [12. 实用主义侵占](https://plato.stanford.edu/entries/knowledge-analysis/#PragEncr)
-* [ 13. 语境主义](https://plato.stanford.edu/entries/knowledge-analysis/#Cont)
-* [ 参考文献](https://plato.stanford.edu/entries/knowledge-analysis/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/knowledge-analysis/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/knowledge-analysis/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/knowledge-analysis/#Rel)
+ 
 
 ---
 

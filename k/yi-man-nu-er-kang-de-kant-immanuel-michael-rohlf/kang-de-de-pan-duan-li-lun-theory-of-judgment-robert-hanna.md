@@ -3,32 +3,7 @@
 _首次发表于2004年7月28日，实质性修订于2017年10月23日。_
 
 论述理论，无论是认知（即客体表现、思维表达、真实适应）判断还是实践（即行为表现、选择表达、评估适应）判断，将语义学、逻辑学、认知心理学和认识论（共同构成认知判断的四个“面孔”\[另见 Martin 2006]）以及行动理论、道德心理学和伦理学（共同构成实践判断的三个“面孔”）中的基本问题汇集在一起：事实上，判断的概念对于任何关于人类理性的一般理论都是核心的。但是康德的判断理论在三个方面与许多其他传统和现代的判断理论有着明显的不同：（1）将判断的先天能力视为理性人类思维的核心认知能力，（2）坚持判断的命题内容在语义、逻辑、心理、认识和实践上的优先性，以及（3）将判断系统地嵌入先验唯象论的形而上学中。第一和第二因素与第三因素的相互作用产生了几个严重的问题。这反过来又表明康德的判断理论的另外两个部分可以从他的先验唯象论的最强版本中逻辑上分离出来，并且可以独立地进行辩护。本条目还包括五个补充文件，涵盖了（i）关于康德的概念主义与非概念主义的辩论，（ii）康德判断的认识论和康德信念的伦理学，（iii）康德逻辑与他的判断理论的关系，（iv）判断的使用方式，以及（v）完善康德判断的形而上学图景。
-
-* [1. 判断的本质](https://plato.stanford.edu/entries/kant-judgment/#NatJud)
-  * [1.1 判断的能力与其他认知能力](https://plato.stanford.edu/entries/kant-judgment/#PowJudOthFacCog)
-  * [1.2 判断本质上是命题性认知](https://plato.stanford.edu/entries/kant-judgment/#JudEssProCog)
-  * [1.3 判断、客观有效性、客观现实和真理](https://plato.stanford.edu/entries/kant-judgment/#JudObjValObjReaTru)
-  * [补充：共同性原则、康德的概念主义和康德的非概念主义](https://plato.stanford.edu/entries/kant-judgment/supplement1.html)
-  * [补充：判断、信仰和科学知识](https://plato.stanford.edu/entries/kant-judgment/supplement2.html)
-* [2. 判断的种类](https://plato.stanford.edu/entries/kant-judgment/#KinJud)
-  * [2.1 逻辑形式的种类](https://plato.stanford.edu/entries/kant-judgment/#KinLogFor)
-  * [补充：康德的逻辑的表面限制和困惑是否削弱了他的判断理论？](https://plato.stanford.edu/entries/kant-judgment/supplement3.html)
-  * [2.2 命题内容的种类](https://plato.stanford.edu/entries/kant-judgment/#KinProCon)
-  * [补充：使用的种类](https://plato.stanford.edu/entries/kant-judgment/supplement4.html)
-* [3. 论述判断的先验理想主义](https://plato.stanford.edu/entries/kant-judgment/#MetJudTraIde)
-  * [3.1 判断、先验理想主义和真理](https://plato.stanford.edu/entries/kant-judgment/#JudTraIdeTru)
-  * [3.2 康德是验证主义者吗？](https://plato.stanford.edu/entries/kant-judgment/#KanVer)
-  * [补充：完善康德先验判断形上学的全貌](https://plato.stanford.edu/entries/kant-judgment/supplement5.html)
-* [4. 问题与前景](https://plato.stanford.edu/entries/kant-judgment/#ProPro)
-  * [4.1 自下而上的问题：本质上非概念主义的直观，流氓对象和 B 推论中的差距](https://plato.stanford.edu/entries/kant-judgment/#BotUpProEssNonConIntRogObjGapBDed)
-  * [4.2 顶层问题：判断、先验亲和性和自然的系统统一性](https://plato.stanford.edu/entries/kant-judgment/#TopDowProJudTraAffSysUniNat)
-  * [4.3 梦境怀疑问题：判断、问题性唯心主义和第二类比中的差距](https://plato.stanford.edu/entries/kant-judgment/#DreSkeProJudProIdeGapSecAna)
-  * [4.4 结论：没有强烈的先验唯心主义的判断？](https://plato.stanford.edu/entries/kant-judgment/#ConJudWitStrTraIde)
-* [参考文献](https://plato.stanford.edu/entries/kant-judgment/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/kant-judgment/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-judgment/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/kant-judgment/#Rel)
-
+ 
 ***
 
 ## 1. 判断的本质

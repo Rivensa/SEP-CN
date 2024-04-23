@@ -5,27 +5,7 @@
 
 托马斯·库恩（1922-1996）是二十世纪最有影响力的科学哲学家之一，也许是最有影响力的。他于 1962 年出版的《科学革命的结构》是有史以来被引用最多的学术著作之一。库恩对科学哲学的贡献不仅打破了几个重要实证主义学说，而且开创了一种新的科学哲学风格，使其更加接近科学史。他对科学发展的描述认为，科学经历了稳定增长的时期，然后经历修正性的革命。除此之外，库恩还提出了备受争议的“不可比较性论”，即不同时期的理论存在某种深层次的可比较性失败。
 
-* [1. 生平与事业](https://plato.stanford.edu/entries/thomas-kuhn/#LifeCare)
-* [2. 科学的发展](https://plato.stanford.edu/entries/thomas-kuhn/#DeveScie)
-* [3. 范式的概念](https://plato.stanford.edu/entries/thomas-kuhn/#ConcPara)
-* [4. 不可比性和世界变革](https://plato.stanford.edu/entries/thomas-kuhn/#IncoWorlChan)
-
-  * [4.1 方法论的不可比性](https://plato.stanford.edu/entries/thomas-kuhn/#MethInco)
-  * [4.2 感知、观察上的不可比性和世界变革](https://plato.stanford.edu/entries/thomas-kuhn/#PercObseIncoWorlChan)
-  * [4.3 托马斯·库恩早期的语义不可比性论点](https://plato.stanford.edu/entries/thomas-kuhn/#KuhnEarlSemaIncoThes)
-  * [4.4 托马斯·库恩后期的语义不可比性论点](https://plato.stanford.edu/entries/thomas-kuhn/#KuhnLateSemaIncoThes)
-* [5. 科学史](https://plato.stanford.edu/entries/thomas-kuhn/#HistScie)
-* [6. 批评与影响](https://plato.stanford.edu/entries/thomas-kuhn/#CritInfl)
-
-  * [ 6.1 科学变革](https://plato.stanford.edu/entries/thomas-kuhn/#ScieChan)
-  * [ 6.2 不可比性](https://plato.stanford.edu/entries/thomas-kuhn/#Inco)
-  * [6.3 托马斯·库恩和社会科学](https://plato.stanford.edu/entries/thomas-kuhn/#KuhnSociScie)
-  * [ 6.4 最近的发展](https://plato.stanford.edu/entries/thomas-kuhn/#ReceDeve)
-  * [ 6.5 评估](https://plato.stanford.edu/entries/thomas-kuhn/#Asse)
-* [ 参考书目](https://plato.stanford.edu/entries/thomas-kuhn/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/thomas-kuhn/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/thomas-kuhn/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/thomas-kuhn/#Rel)
+ 
 
 ---
 

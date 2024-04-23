@@ -6,26 +6,7 @@
 
 伊曼努尔·康德在道德哲学中最有影响力的立场可以在《道德形而上学基础》（以下简称“基础”）中找到，但他在后来的作品中，如《实践理性批判》、《道德形而上学》、《从实用观点看人类学》、《仅凭理性的宗教》以及他关于历史和相关主题的论文中，对这些观点进行了发展、丰富和部分修改。康德的伦理学讲座是他在道德哲学课程上所讲授的三位学生所记录的讲座笔记，其中也包括了理解他观点的相关材料。尽管近年来一些学者对康德观点的这种标准方法感到不满，并将注意力转向后期作品，但我们将主要关注《基础》的基础性教义。我们认为这种标准方法最具启发性，但在必要时我们将强调后期作品中的重要立场。
 
-* [1. 道德哲学的目标和方法](https://plato.stanford.edu/entries/kant-moral/#AimMetMor)
-* [2. 善意、道德价值和义务](https://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut)
-* [3. 义务和对道德法则的尊重](https://plato.stanford.edu/entries/kant-moral/#DutResForMorLaw)
-* [4. 范畴和假设性命令](https://plato.stanford.edu/entries/kant-moral/#CatHypImp)
-* [5. 自然法则的普遍定律公式](https://plato.stanford.edu/entries/kant-moral/#ForUniLawNat)
-* [6. 人性公式](https://plato.stanford.edu/entries/kant-moral/#HumFor)
-* [7. 自律公式](https://plato.stanford.edu/entries/kant-moral/#AutFor)
-* [8. 终极目的国公式](https://plato.stanford.edu/entries/kant-moral/#KinEndFor)
-* [9. 公式的统一](https://plato.stanford.edu/entries/kant-moral/#UniFor)
-* [ 10. 自律](https://plato.stanford.edu/entries/kant-moral/#Aut)
-* [11. 非理性的存在和残疾人](https://plato.stanford.edu/entries/kant-moral/#dis)
-* [12. 美德与恶习](https://plato.stanford.edu/entries/kant-moral/#VirVic)
-* [13. 规范伦理理论](https://plato.stanford.edu/entries/kant-moral/#NET)
-* [14. 目的论还是义务论？](https://plato.stanford.edu/entries/kant-moral/#TelDeo)
-* [ 15. 元伦理学](https://plato.stanford.edu/entries/kant-moral/#Meta)
-* [ 参考书目](https://plato.stanford.edu/entries/kant-moral/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-moral/#Rel)
-
+ 
 ---
 
 ## 1. 道德哲学的目标和方法

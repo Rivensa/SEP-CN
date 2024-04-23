@@ -4,19 +4,7 @@ _首次发表于2001年8月7日；实质性修订于2022年9月6日_
 
 理查德·基尔文顿（约 1302 年-1361 年），牛津大学文学硕士和神学博士，曾是理查德·德·伯里的家属，后来成为伦敦总教区的副主教，最终成为伦敦圣保罗大教堂的主教。与托马斯·布拉德沃丁一起，他代表了牛津计算学派的第一代学者。尽管他在逻辑学、自然哲学和神学方面带来了新的思想和方法，并影响了他的同时代人和追随者，但直到最近他才受到较少的研究。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/kilvington/#LifeWork)
-* [2. 科学方法](https://plato.stanford.edu/entries/kilvington/#MethScie)
-* [3. 逻辑](https://plato.stanford.edu/entries/kilvington/#Logi)
-* [4. 自然哲学](https://plato.stanford.edu/entries/kilvington/#NatuPhil)
-* [5. 伦理学](https://plato.stanford.edu/entries/kilvington/#Ethi)
-* [6. 神学](https://plato.stanford.edu/entries/kilvington/#Theo)
-* [6. 影响和影响力](https://plato.stanford.edu/entries/kilvington/#ImpaInfl)
-* [参考书目](https://plato.stanford.edu/entries/kilvington/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/kilvington/#PrimLit)
-  * [次要文献](https://plato.stanford.edu/entries/kilvington/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/kilvington/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kilvington/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/kilvington/#Rel)
+ 
 
 ***
 

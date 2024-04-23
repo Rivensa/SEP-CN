@@ -6,35 +6,7 @@
 
 在接下来的论述中，批判纯粹理性采用常规的 A/B 方法进行引用；其他参考文献为康德的《汇编文集》（通过“Ak” [代表学院版]，后跟卷号和页码）。莱布尼兹-克拉克通信以作者-信件-部分的方式进行引用（例如，L 3:1 指的是莱布尼兹第三封信的第一部分）。除非另有说明，所有翻译均为本条目的作者所作。采用以下约定：用方括号表示概念；例如，概念“黄金”用[]表示。相比之下，我们使用“黄金”来指代这个词。
 
-* [1. 引言：关于空间和时间的哲学问题](https://plato.stanford.edu/entries/kant-spacetime/#IntrPhilQuesAbouSpacTime)
-* [2. 批判中康德观点的背景](https://plato.stanford.edu/entries/kant-spacetime/#BackKantViewCrit)
-
-  * [2.1 莱布尼兹和牛顿](https://plato.stanford.edu/entries/kant-spacetime/#LeibNewt)
-  * [2.2 伊曼努尔·康德对表象的理解](https://plato.stanford.edu/entries/kant-spacetime/#KantUndeRepr)
-* [3. “先验论述”](https://plato.stanford.edu/entries/kant-spacetime/#MetaExpo)
-
-  * [3.1 什么是形而上学的论述？](https://plato.stanford.edu/entries/kant-spacetime/#WhatMetaExpo)
-  * [3.2 我们对空间的表象的起源](https://plato.stanford.edu/entries/kant-spacetime/#OrigOurReprSpac)
-  * [3.3 我们对空间的表象的内容](https://plato.stanford.edu/entries/kant-spacetime/#ContOurReprSpac)
-* [4. 伊曼努尔·康德的“先验论述”和“结论”](https://plato.stanford.edu/entries/kant-spacetime/#TranExpoKantConc)
-
-  * [4.1 什么是先验论述？](https://plato.stanford.edu/entries/kant-spacetime/#WhatTranExpo)
-  * [4.2 绝对/相对与实际/理想](https://plato.stanford.edu/entries/kant-spacetime/#AbsoVsReal)
-* [5. 什么是先验实在论？](https://plato.stanford.edu/entries/kant-spacetime/#WhatTranReal)
-
-  * [5.1 康德对莱布尼茨的批判](https://plato.stanford.edu/entries/kant-spacetime/#KantCritLeib)
-  * [5.2 康德对牛顿的批判](https://plato.stanford.edu/entries/kant-spacetime/#KantCritNewt)
-* [6. 什么是先验唯心论？](https://plato.stanford.edu/entries/kant-spacetime/#WhatTranIdea)
-
-  * [6.1 康德对伯克利的批判](https://plato.stanford.edu/entries/kant-spacetime/#KantCritBerk)
-  * [ 6.2 结论](https://plato.stanford.edu/entries/kant-spacetime/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-spacetime/#Bib)
-
-  * [ 一手资料](https://plato.stanford.edu/entries/kant-spacetime/#PrimSour)
-  * [ 二手资料](https://plato.stanford.edu/entries/kant-spacetime/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-spacetime/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-spacetime/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-spacetime/#Rel)
+ 
 
 ---
 

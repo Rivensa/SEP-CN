@@ -6,26 +6,7 @@
 
 从历史上看，熟知和摹状之间的区别是关于两种知识的区分。然而，在对罗素对这一区别的阐述进行简要讨论之后，我们遵循当代文献更加关注熟知在确保合理或理性信念方面的作用。（有关知识和合理化之间关系的更多信息，请参阅认识论词条。）这一点很重要，因为这样做可以阐明熟知在确保知识方面的作用（这可能需要合理化的信念），并且因为即使我们没有达到知识，我们可能对其作为合理化来源的作用感兴趣。让我们说当一个人对 p 有一个推理上合理化的信念时，当一个人对 p 的信念在合理化上依赖于对其他命题的合理化信念，而这些命题可以合法地推导出 p；当一个人对 p 有一个基础性或非推理性的合理化信念时，当一个人对 p 的信念是合理化的，但不依赖于任何其他信念来合理化。根据关于合理化的基础主义，我们有一些基础性合理化的信念，而所有其他合理化的信念必须依赖于基础性合理化的信念来合理化。关于合理化的经典基础主义版本认为，基础性信念是通过熟知来合理化的。（有关基础主义认识论合理化理论的更多信息，请参阅基础主义认识论词条。）正如我们将看到的，经典基础主义的支持者通常将其他重要的哲学角色归因于熟知。
 
-* [ 1. 这一区别](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#Dis)
-* [2. 关于熟知的当代观点](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#ConVieAcq)
-* [3. 亲知和非推理知识](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#AcqNonKno)
-
-  * [3.1 意识到对应关系](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#AwaCor)
-  * [3.2 摹状概念和现象概念](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#DemConPheCon)
-* [4. 亲知，思想和先验知识](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#AcqThoPriKno)
-* [5. 亲知和推理知识](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#AcqInfKno)
-* [6. 有缺陷的非推理合理化信念](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#FalNonJusBel)
-* [ 7. 批评](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#Cri)
-
-  * [7.1 塞拉斯困境](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#SelDil)
-  * [7.2 斑鸠问题](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#ProSpeHen)
-  * [7.3 怀疑主义的威胁](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#ThrSke)
-* [ 8. 结语](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#ConRem)
-* [ 参考文献](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#Bib)
-* [其他互联网资源](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#Oth)
-* [ 学术工具](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#Aca)
-* [ 相关条目](https://plato.stanford.edu/entries/knowledge-acquaindescrip/#Rel)
-
+ 
 ---
 
 ## 1. 摹状

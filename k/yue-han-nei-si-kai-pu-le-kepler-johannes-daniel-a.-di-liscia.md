@@ -4,25 +4,7 @@
 
 约翰内斯·开普勒（1571-1630）是16世纪和17世纪所谓的科学革命中最重要的代表之一。尽管他只接受了“硕士”的基本培训，并在职业上以神学为导向，但他迅速因其数学技巧和理论创造力而闻名。作为一个坚定的哥白尼主义者，开普勒能够在不同的战线上捍卫这一新系统：对抗仍然支持托勒密系统的老天文学家，对抗亚里士多德的自然哲学家，对抗追随泰科·布拉赫的新“混合系统”的追随者——开普勒在布拉格继任帝国数学家，并且甚至对抗标准的哥白尼主义立场，即新系统仅被视为一种计算设备而不一定是物理现实。开普勒的完整著作很难概括为像学院哲学或17世纪下半叶出现的新笛卡尔系统那样的“思想体系”。然而，可以确定两个主要倾向，一个与柏拉图主义相关，优先考虑几何在世界结构中的作用，另一个与亚里士多德传统相关，强调经验和因果关系在认识论中的作用。尽管因其三大行星定律而在天文学上获得了不朽的声誉，开普勒在光学和数学领域也做出了基础性的贡献。关于开普勒不知名的事实之一是他不知疲倦的科学活动，包括努力开发不同的技术装置，例如水泵，他试图申请专利并将其应用于不同的实际环境中（有关文件，请参阅KGW 21.2.2.，第509-57和667-691页）。 对于他的同时代人来说，他也是一位著名的数学家和占星家；而对于他自己来说，他希望被视为一位通过科学方法研究宇宙内部结构的哲学家。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/kepler/#LifWor)
-* [2. 哲学、神学、宇宙学](https://plato.stanford.edu/entries/kepler/#TheCos)
-* [3. 五个正则立体体](https://plato.stanford.edu/entries/kepler/#FivRegSol)
-* [4. 认识论和科学哲学](https://plato.stanford.edu/entries/kepler/#EpiSci)
-
-  * [ 4.1 现实主义](https://plato.stanford.edu/entries/kepler/#Rea)
-  * [ 4.2 因果关系](https://plato.stanford.edu/entries/kepler/#Cau)
-  * [4.3 数学哲学](https://plato.stanford.edu/entries/kepler/#Mat)
-  * [ 4.4 经验主义](https://plato.stanford.edu/entries/kepler/#Emp)
-* [5. 开普勒改革的哥白尼学说和三大行星定律](https://plato.stanford.edu/entries/kepler/#CopRefThrPlaLaw)
-* [6. 光学和光的形而上学](https://plato.stanford.edu/entries/kepler/#OptMetLig)
-* [7. 和谐与灵魂](https://plato.stanford.edu/entries/kepler/#HarSou)
-* [ 参考文献](https://plato.stanford.edu/entries/kepler/#Bib)
-
-  * [ A. 一手资料](https://plato.stanford.edu/entries/kepler/#PriSou)
-  * [ B. 二手文献](https://plato.stanford.edu/entries/kepler/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/kepler/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kepler/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kepler/#Rel)
+ 
 
 ---
 

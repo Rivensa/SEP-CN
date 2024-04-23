@@ -3,22 +3,7 @@
 
 伊曼努尔·康德著名地试图“回答”他认为休谟对因果关系持怀疑态度的观点，最明确地表达在《任何未来形而上学的序言》（1783 年）中；而且，因果关系对于康德来说是理解的范畴或纯粹概念的一个核心例子，他在这个问题上与休谟的关系对于他的整个哲学来说是至关重要的。此外，由于休谟对因果关系和归纳的著名讨论同样对他的哲学至关重要，理解这两位哲学家在这个问题上的关系对于正确理解现代哲学是至关重要的。然而，自从康德对休谟提出回应以来，这个话题一直备受争议。当然，关于康德的回应是否成功并没有共识，但对于这个回应应该是什么也没有共识。对于康德对因果关系的概念以及休谟的概念，存在着激烈的分歧，因此，对于这两个概念是否真正有显著差异也存在争议。甚至对于休谟对因果关系和归纳的概念是否持怀疑态度也存在分歧。我们不会详细讨论这些争议；相反，我们将集中于提出这个非常复杂问题集的一个特定观点。然而，我们将清楚地指出，特别有争议的解释点在哪里，并简要描述一些主要的替代方案。（大部分讨论将限于脚注中，我们还将提供进一步的、更专业的细节。）
 
-* [1. 康德对休谟的“回答”](https://plato.stanford.edu/entries/kant-hume-causality/#KantAnswHume)
-* [2. 归纳、必然联系和自然法则](https://plato.stanford.edu/entries/kant-hume-causality/#InduNeceConnLawsNatu)
-* [3. 伊曼努尔·康德，休谟和牛顿科学的自然](https://plato.stanford.edu/entries/kant-hume-causality/#KantHumeNewtScieNatu)
-* [4. 时间确定，经验的类比和自然的统一](https://plato.stanford.edu/entries/kant-hume-causality/#TimeDeteAnalExpeUnitNatu)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-hume-causality/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/kant-hume-causality/#PrimSour)
-
-    * [ 伊曼努尔·康德](https://plato.stanford.edu/entries/kant-hume-causality/#Kant)
-    * [ 休谟](https://plato.stanford.edu/entries/kant-hume-causality/#Hume)
-    * [ 洛克](https://plato.stanford.edu/entries/kant-hume-causality/#Lock)
-    * [ 牛顿](https://plato.stanford.edu/entries/kant-hume-causality/#Newt)
-  * [ 二手资料](https://plato.stanford.edu/entries/kant-hume-causality/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-hume-causality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-hume-causality/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-hume-causality/#Rel)
+ 
 
 ---
 

@@ -6,23 +6,7 @@
 
 为了简洁起见，本文假设读者熟悉休谟和康德对道德哲学的主要贡献。本文的目的不是总结他们的观点或进行详尽的比较，而是在几个关键领域对康德对休谟的回应或受其影响的地方进行考察，或者对比他们的观点特别有益。
 
-* [1. 道德哲学及其对象](https://plato.stanford.edu/entries/kant-hume-morality/#MoraPhilSubjMatt)
-* [2. 伊曼努尔·康德与休谟及英国道德哲学的关系](https://plato.stanford.edu/entries/kant-hume-morality/#KantRelaHumeBritMoraPhil)
-* [3. 道德中的理性与情感](https://plato.stanford.edu/entries/kant-hume-morality/#ReasEmotMora)
-* [4. 美德与恶习](https://plato.stanford.edu/entries/kant-hume-morality/#VirtVice)
-* [5. 自由与必然性](https://plato.stanford.edu/entries/kant-hume-morality/#FreeNece)
-* [6. 宗教与道德](https://plato.stanford.edu/entries/kant-hume-morality/#ReliMora)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-hume-morality/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/kant-hume-morality/#PrimSour)
-
-    * [ 休谟，大卫](https://plato.stanford.edu/entries/kant-hume-morality/#HumeDavi)
-    * [ 康德，伊曼努尔](https://plato.stanford.edu/entries/kant-hume-morality/#KantImma)
-  * [ 二级来源](https://plato.stanford.edu/entries/kant-hume-morality/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-hume-morality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-hume-morality/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-hume-morality/#Rel)
-
+ 
 ---
 
 ## 1. 道德哲学及其主题

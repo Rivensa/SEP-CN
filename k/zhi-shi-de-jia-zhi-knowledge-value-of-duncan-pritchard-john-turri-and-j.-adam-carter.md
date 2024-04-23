@@ -4,21 +4,7 @@ _首次发布于2007年8月21日；实质性修订于2022年6月27日_
 
 知识的价值一直是认识论中的一个核心话题。从柏拉图的《梅诺篇》开始，哲学家们就一直在问，为什么知识比单纯的真信念更有价值？近年来，人们对这个问题的兴趣越来越大，理论家们提出了各种答案。但有些人否定了这个问题的前提，并声称知识的价值被真信念的价值所“淹没”。还有人认为，除了知识之外的其他状态，如合理性或理解，具有独特的价值。我们将把为什么知识有价值的一般问题称为价值问题。
 
-* [1. 价值问题](https://plato.stanford.edu/entries/knowledge-value/#ValuProb)
-* [2. 可靠主义和《梅诺篇》问题](https://plato.stanford.edu/entries/knowledge-value/#ReliMenoProb)
-* [3. 美德认识论与价值问题](https://plato.stanford.edu/entries/knowledge-value/#VirtEpisValuProb)
-* [4. 理解与认识价值](https://plato.stanford.edu/entries/knowledge-value/#UndeEpisValu)
-* [5. 知识-如何的价值](https://plato.stanford.edu/entries/knowledge-value/#ValuKnowHow)
-* [6. 知识价值的其他观点](https://plato.stanford.edu/entries/knowledge-value/#OtheAccoValuKnow)
-* [7. 知识的弱与强观念](https://plato.stanford.edu/entries/knowledge-value/#WeakStroConcKnow)
-* [8. 真实信念的价值](https://plato.stanford.edu/entries/knowledge-value/#ValuTrueBeli)
-* [9. 扩展知识的价值](https://plato.stanford.edu/entries/knowledge-value/#ValuExteKnow)
-* [参考书目](https://plato.stanford.edu/entries/knowledge-value/#Bib)
-  * [引用文献](https://plato.stanford.edu/entries/knowledge-value/#WorkCite)
-  * [其他重要作品](https://plato.stanford.edu/entries/knowledge-value/#OtheImpoWork)
-* [学术工具](https://plato.stanford.edu/entries/knowledge-value/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/knowledge-value/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/knowledge-value/#Rel)
+ 
 
 ***
 

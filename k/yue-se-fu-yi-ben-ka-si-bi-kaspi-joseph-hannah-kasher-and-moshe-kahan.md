@@ -4,17 +4,7 @@ _首次发表于2006年6月6日；实质性修订于2023年4月10日_
 
 哈里·A·沃尔夫森曾将中世纪哲学描述为“为圣经服务的哲学”（菲洛，II，p. 439）。从形式上看，创造了一种新的文体：“从现在开始，哲学文献中出现了一种新的表达形式，即对某些经文的讲道或对某些经书的逐字注释”（p. 444）。约瑟夫·伊本·卡斯比完美地诠释了中世纪哲学家的这一特征。他写了大约三十部作品，致力于解释圣经，其中哲学作为一种方法和哲学结论的概要，是圣经作者想要传达给读者的。卡斯比的一些作品致力于逻辑学和语言学作为适用于圣经解释的方法；另一些是对圣经书的注释，或者是超注释，他还写过一些关于神学的作品。这个庞大的工作中，只有一部分被出版；还有很多以手稿形式存在，而且似乎还有一些已经失落了。
 
-* [1. 生平](https://plato.stanford.edu/entries/kaspi-joseph/#Life)
-* [2. 解经](https://plato.stanford.edu/entries/kaspi-joseph/#Exeg)
-* [3. 逻辑](https://plato.stanford.edu/entries/kaspi-joseph/#Logi)
-* [4. 逻辑与希伯来语言](https://plato.stanford.edu/entries/kaspi-joseph/#LogiHebrLang)
-* [5. 词典编纂方法中的哲学原则](https://plato.stanford.edu/entries/kaspi-joseph/#PhilPrinLexiMeth)
-* [6. 神学和人类学](https://plato.stanford.edu/entries/kaspi-joseph/#TheoAnth)
-* [6. 结论](https://plato.stanford.edu/entries/kaspi-joseph/#Conc)
-* [参考书目](https://plato.stanford.edu/entries/kaspi-joseph/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/kaspi-joseph/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kaspi-joseph/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/kaspi-joseph/#Rel)
+ 
 
 ***
 

@@ -6,23 +6,7 @@
 
 他关于政治哲学的著作包括一本书和几篇短篇作品。他的两部分《道义学》中的第一部分《权利学说》于 1797 年 2 月首次以独立书籍的形式出版，几乎涵盖了他所讨论的每一个直接涉及政治的主题。其他短篇作品包括在短篇散文《理论与实践》的第二部分中对国家基础和作用的简要总结，对国际关系的广泛讨论的散文《迈向永久和平》，以及散文《回答问题：什么是启蒙？》。其他与这些主题相关的已发表材料包括关于历史的材料，关于一般实践哲学的材料，以及关于社会哲学的材料，其中包括他在宗教、教育和人类学方面的研究。康德还开设了一门关于“自然权利”的两年一次的讲座课程，其中有一位学生（费耶拉本德）的记录已经有英文翻译版本。
 
-* [1. 政治哲学在康德哲学体系中的位置](https://plato.stanford.edu/entries/kant-social-political/#PlaPolWitKanPhiSys)
-* [2. 自由作为国家的基础](https://plato.stanford.edu/entries/kant-social-political/#FreBasSta)
-* [ 3. 社会契约](https://plato.stanford.edu/entries/kant-social-political/#SocCon)
-* [4. 共和国、启蒙和民主](https://plato.stanford.edu/entries/kant-social-political/#RepEnlDem)
-* [5. 财产和契约权利](https://plato.stanford.edu/entries/kant-social-political/#ProConRig)
-* [6. 叛乱和革命](https://plato.stanford.edu/entries/kant-social-political/#RebRev)
-* [ 7. 惩罚](https://plato.stanford.edu/entries/kant-social-political/#Pun)
-* [8. 国际关系与历史](https://plato.stanford.edu/entries/kant-social-political/#IntRelHis)
-* [ 9. 世界公民权](https://plato.stanford.edu/entries/kant-social-political/#CosRig)
-* [ 10. 社会哲学](https://plato.stanford.edu/entries/kant-social-political/#Soc)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-social-political/#Bib)
-
-  * [ 一手资料](https://plato.stanford.edu/entries/kant-social-political/#PriSou)
-  * [ 二手资料](https://plato.stanford.edu/entries/kant-social-political/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-social-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-social-political/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-social-political/#Rel)
+ 
 
 ---
 

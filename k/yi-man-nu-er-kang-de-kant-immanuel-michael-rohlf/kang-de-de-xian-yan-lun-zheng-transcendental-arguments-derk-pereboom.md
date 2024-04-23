@@ -4,23 +4,7 @@ _首次发表于2009年8月21日，实质修订于2022年8月19日。_
 
 伊曼努尔·康德（1724-1804）对哲学最有影响力的贡献之一是他对先验论证的发展。在康德的构想中，这种论证始于一个关于我们的思想、经验或知识的令人信服的前提，然后推理出一个实质性且不明显的预设和这个前提的必要条件的结论。这种推理中的关键步骤是声称一个子结论或结论是一个前提的预设和必要条件。这样的必要条件可能是逻辑上的必要条件，但在康德的先验论证中，这个条件通常是必要的，因为它是前提的唯一可能的解释，因此这种必要性可能比逻辑上的要弱。通常情况下，这种推理在某种意义上被认为是先验的，要么是严格的（Smit 1999），要么是更宽松的（Philip Kitcher 1981，Pereboom 1990）。论证的结论通常是针对某种形式的怀疑主义。例如，康德的先验演绎论证针对休谟关于先验形而上学概念适用性的怀疑，他的唯心主义反驳则针对对外部对象的怀疑。这两种先验论证都可以在《纯粹理性批判》（1781 年，1787 年）中找到，但这样的论证在康德的著作中随处可见，例如在《道德形而上学基础》（1785 年），《实践理性批判》（1788 年），《判断力批判》（1790 年）和《遗稿》（1804 年；Förster 1989）中。本文重点介绍先验演绎论证、唯心主义反驳以及受康德著作启发的更近期的先验论证。
 
-* [1. 先验演绎论证](https://plato.stanford.edu/entries/kant-transcendental/#TraDed)
-  * [1.1 意识与其统一性](https://plato.stanford.edu/entries/kant-transcendental/#AppUni)
-  * [1.2 对象的表象和 B-推论的单实体前提解释](https://plato.stanford.edu/entries/kant-transcendental/#RepObjSinArgIntBDed)
-  * [1.3 我们对对象的经验中的普遍性和必然性](https://plato.stanford.edu/entries/kant-transcendental/#UniNecOurExpObj)
-  * [1.4 判断的逻辑形式和范畴](https://plato.stanford.edu/entries/kant-transcendental/#LogForJudCat)
-  * [1.5 B-推论的第二步](https://plato.stanford.edu/entries/kant-transcendental/#SecSteBDed)
-* [2. 对唯心主义的驳斥](https://plato.stanford.edu/entries/kant-transcendental/#RefIde)
-* [3. 当代面向世界的先验论证](https://plato.stanford.edu/entries/kant-transcendental/#ConWorDirTraArg)
-* [4. 当代实践先验论证](https://plato.stanford.edu/entries/kant-transcendental/#ConPraTraArg)
-* [5. 总结与评述](https://plato.stanford.edu/entries/kant-transcendental/#ConRem)
-* [参考文献](https://plato.stanford.edu/entries/kant-transcendental/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/kant-transcendental/#PriLit)
-  * [次要文献](https://plato.stanford.edu/entries/kant-transcendental/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/kant-transcendental/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-transcendental/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/kant-transcendental/#Rel)
-
+ 
 ***
 
 ## 1. 先验推论

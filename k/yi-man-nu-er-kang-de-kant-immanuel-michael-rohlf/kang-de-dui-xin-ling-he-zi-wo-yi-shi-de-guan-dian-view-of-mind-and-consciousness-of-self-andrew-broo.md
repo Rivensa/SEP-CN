@@ -4,39 +4,7 @@
 
 即使康德本人认为他对心灵和意识的观点对他的主要目的并不重要，但他观点的一些核心思想对他的后继者产生了巨大影响。例如，他的一些思想现在是认知科学的核心。其他同样重要的思想对后续的研究影响很小。在本文中，首先我们概述康德的整体模型和其中具有影响力的主张。然后我们具体考察他关于自我意识的主张。他的许多思想对自我意识并没有产生影响。事实上，尽管他对自我意识有着卓越的洞察力，但这些洞察力直到大约 200 年后的 20 世纪 60 年代和 70 年代才得以发现。
 
-* [1. 伊曼努尔·康德对心灵的观点概述](https://plato.stanford.edu/entries/kant-mind/#1)
-* [2. 康德的批判性项目及其与心灵的关系](https://plato.stanford.edu/entries/kant-mind/#2)
-
-  * [2.1 先验美学](https://plato.stanford.edu/entries/kant-mind/#2.1)
-  * [2.2 形而上学推演](https://plato.stanford.edu/entries/kant-mind/#2.2)
-  * [2.3 先验推演，第一版](https://plato.stanford.edu/entries/kant-mind/#2.3)
-  * [2.4 对悖论的攻击，第一版](https://plato.stanford.edu/entries/kant-mind/#2.4)
-  * [2.5 第二版《先验论》中关于心灵的两个讨论和其他讨论](https://plato.stanford.edu/entries/kant-mind/#2.5)
-* [3. 伊曼努尔·康德对心灵的观点](https://plato.stanford.edu/entries/kant-mind/#3)
-
-  * [ 3.1 方法](https://plato.stanford.edu/entries/kant-mind/#3.1)
-  * [3.2 综合与能力](https://plato.stanford.edu/entries/kant-mind/#3.2)
-
-    * [3.2.1 直观中的理解综合](https://plato.stanford.edu/entries/kant-mind/#3.2.1)
-    * [3.2.2 伊曼努尔·康德想象力再现的综合](https://plato.stanford.edu/entries/kant-mind/#3.2.2)
-    * [3.2.3 概念中的认识综合](https://plato.stanford.edu/entries/kant-mind/#3.2.1)
-  * [3.3 综合：一个 90°转折](https://plato.stanford.edu/entries/kant-mind/#3.3)
-  * [3.4 意识的统一](https://plato.stanford.edu/entries/kant-mind/#3.4)
-* [4. 自我意识和自我认识](https://plato.stanford.edu/entries/kant-mind/#4)
-
-  * [4.1 论点 1：两种自我意识](https://plato.stanford.edu/entries/kant-mind/#4.1)
-  * [4.2 论述 2：自我意识的表象基础](https://plato.stanford.edu/entries/kant-mind/#4.2)
-  * [4.3 论述 3：只意识到自己如何显现](https://plato.stanford.edu/entries/kant-mind/#4.3)
-  * [4.4 论述 4：自我意识的指称机制](https://plato.stanford.edu/entries/kant-mind/#4.4)
-  * [4.5 论述 5: 没有自我意识中的多样性](https://plato.stanford.edu/entries/kant-mind/#4.5)
-  * [4.6 论述 6: 自我意识不是自我知识](https://plato.stanford.edu/entries/kant-mind/#4.6)
-  * [4.7 论述 7: 自我意识作为经验的单一、共同主体](https://plato.stanford.edu/entries/kant-mind/#4.7)
-* [5. 知识的心灵](https://plato.stanford.edu/entries/kant-mind/#5)
-* [6. 康德在当代认知研究中的影响与未影响之处](https://plato.stanford.edu/entries/kant-mind/#6)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-mind/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-mind/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-mind/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-mind/#Rel)
+ 
 
 ---
 

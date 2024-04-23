@@ -10,31 +10,7 @@
 
 这个条目具有以下结构。第一部分阐述了理性在康德的知识和形而上学论述中所起的作用。这主要关注《纯粹理性批判》或“第一批判”（1781 年，第二版 1787 年）。第二部分考察了他的道德哲学。这主要关注他的《实践理性批判》或“第二批判”（1788 年）。根据康德自己的著作和大部分二手文献，这两个部分相对独立。因此，第三部分考虑了理论和实践理性之间的关系。由于康德很少讨论整体的理性，他的一般观点是一个解释的问题：奥诺拉·奥尼尔提供了最突出的论述。结论强调了她统一解释的哲学意义。
 
-* [1. 理论理性：理性的认知作用和局限性](https://plato.stanford.edu/entries/kant-reason/#TheoReasReasCognRoleLimi)
-
-  * [1.1 理性和经验真理](https://plato.stanford.edu/entries/kant-reason/#ReasEmpiTrut)
-  * [1.2 理性在科学中的作用](https://plato.stanford.edu/entries/kant-reason/#ReasScie)
-  * [1.3 理性的限制](https://plato.stanford.edu/entries/kant-reason/#LimiReas)
-  * [1.4 理性的自我认识](https://plato.stanford.edu/entries/kant-reason/#ReasSelfKnow)
-* [2. 实践理性: 道德和纯粹实践理性的首要性](https://plato.stanford.edu/entries/kant-reason/#PracReasMoraPrimPurePracReas)
-
-  * [2.1 自由意味着道德约束: 范畴命令](https://plato.stanford.edu/entries/kant-reason/#FreeImplMoraConsCateImpe)
-  * [2.2 道德约束意味着自由: 康德的“理性事实”](https://plato.stanford.edu/entries/kant-reason/#MoraConsImplFreeKantFactReas)
-  * [2.3 (纯粹)实践理性的首要性](https://plato.stanford.edu/entries/kant-reason/#PrimPurePracReas)
-* [3. 理论理性和实践理性的统一](https://plato.stanford.edu/entries/kant-reason/#UnitTheoPracReas)
-
-  * [3.1 理性的“共同原则”](https://plato.stanford.edu/entries/kant-reason/#ReasCommPrin)
-  * [3.2 理性的准则](https://plato.stanford.edu/entries/kant-reason/#MaxiReas)
-  * [3.3 理性的公共使用](https://plato.stanford.edu/entries/kant-reason/#PublUseReas)
-* [ 4. 论述结语](https://plato.stanford.edu/entries/kant-reason/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-reason/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/kant-reason/#PrimSour)
-  * [ 二手文献](https://plato.stanford.edu/entries/kant-reason/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-reason/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-reason/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-reason/#Rel)
-
+ 
 ---
 
 ## 1. 理性的理论：理性的认识作用和局限性

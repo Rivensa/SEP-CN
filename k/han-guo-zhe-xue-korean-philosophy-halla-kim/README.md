@@ -7,23 +7,7 @@
 韩国哲学也被认为是一种认为关系比进入其中的实体更重要的观点。使关系成为可能的不是实体，而是相反。换句话说，关系更为原始和真实。正是这种立场促使了关系导向本体论的积极发展，例如“体”（Essence）-“用”（Function）范式、宇宙的矩阵“无”（Nothing）以及将“理”（Principle）和“气”（Vital Force）等相互联系的和谐概念（详见下文）。因此，韩国哲学的基本概念工具无法从最典型的西方实体-属性本体论的角度理解（H. Kim 2020）。这导致韩国哲学倾向于唯一论。这并不否认万物的明显独立存在，而是意味着它们是基本关系的“有机”结果。因此，在韩国哲学中看到的唯一论不是还原主义的唯一论，而是一种有机的唯一论，其中万物是基本关系的形式或表现（Jung-Yeup Kim 2015）。
 
 接下来，我首先介绍了原始萨满教信仰的哲学框架（见第 1 节）。然后，我将讨论统一新罗时代（668-918 年）和高丽时代（918-1392 年）的佛教哲学（第 2 节）。接下来，我将对朝鲜时代（1392-1910 年）儒学发展的哲学进行系统的介绍/审查（见第 3 节）。最后一节讨论了韩国现代哲学（第 4 节）。
-
-* [1. “哲学之前”：萨满教的世界观](https://plato.stanford.edu/entries/korean-philosophy/#BefoPhilShamWorlView)
-* [2. 韩国佛教的发展](https://plato.stanford.edu/entries/korean-philosophy/#DeveBuddKore)
-
-  * [2.1 韩国佛教的概念背景](https://plato.stanford.edu/entries/korean-philosophy/#ConcBackKoreBudd)
-  * [2.2 韩国佛教的历史发展](https://plato.stanford.edu/entries/korean-philosophy/#HistDeveKoreBudd)
-* [ 3. 儒家思想](https://plato.stanford.edu/entries/korean-philosophy/#Conf)
-
-  * [3.1 韩国儒家思想的概念背景](https://plato.stanford.edu/entries/korean-philosophy/#ConcBackConfKore)
-  * [3.2 四七辩论的兴起](https://plato.stanford.edu/entries/korean-philosophy/#RiseFourSeveDeba)
-  * [3.3 新思潮的挑战](https://plato.stanford.edu/entries/korean-philosophy/#ChalNewTrenThou)
-* [4. 韩国现代哲学](https://plato.stanford.edu/entries/korean-philosophy/#ModeKorePhil)
-* [ 参考文献](https://plato.stanford.edu/entries/korean-philosophy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/korean-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/korean-philosophy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/korean-philosophy/#Rel)
-
+ 
 ---
 
 ## “哲学之前”：萨满主义的世界观

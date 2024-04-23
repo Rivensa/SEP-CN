@@ -7,37 +7,7 @@
 因此，关于直觉和概念之间关系的辩论至少有两个重要的历史和哲学意义。首先，因为它承诺为康德对经验的理解提供答案，比如关于思想内容的获取和持有这些思想为真的保证的问题。其次，因为它作为一个相关的、甚至更基本的争议的代理，涉及到康德对理性的本质及其在动物生活中的表现的理解，特别是在理性被看作需要对规范或理由本身敏感时（麦克道威尔 2009 年，2010 年；科斯加德 2011 年：§6）。
 
 尽管在这里涉及的解释和哲学问题具有基础性的性质，但对康德观点的解释问题的相当大一部分仅仅取决于争论的框架方式。事实上，过去二十五年左右关于直觉和概念之间关系的研究工作在很大程度上是为了澄清争论双方之间的术语和基本观点。为此，本文概述了争议的基本框架假设（§§1-4）以及其中的各种分歧点（§5）。
-
-* [1. 心理能力和心理表征](https://plato.stanford.edu/entries/kant-conceptualism/#MentFacuMentRepr)
-* [2. 辩论的焦点：经验、感知还是直觉？](https://plato.stanford.edu/entries/kant-conceptualism/#LocuDebaExpePercIntu)
-* [3. 框架一：概念内容](https://plato.stanford.edu/entries/kant-conceptualism/#FramIConcCont)
-
-  * [3.1 与一个对象的关系](https://plato.stanford.edu/entries/kant-conceptualism/#RelaObje)
-  * [3.2 概念和概念综合](https://plato.stanford.edu/entries/kant-conceptualism/#ConcConcSynt)
-  * [3.3 概念和正确性条件](https://plato.stanford.edu/entries/kant-conceptualism/#ConcCorrCond)
-* [4. 第二篇：对于理性的依赖](https://plato.stanford.edu/entries/kant-conceptualism/#FramIIDepeInte)
-
-  * [4.1 概念主义/非概念主义](https://plato.stanford.edu/entries/kant-conceptualism/#InteSens)
-  * [4.2 以先验依赖为基础重新构建辩论的好处](https://plato.stanford.edu/entries/kant-conceptualism/#BeneRefrDebaTermInteDepe)
-* [5. 争议点](https://plato.stanford.edu/entries/kant-conceptualism/#PoinDisp)
-
-  * [5.1 经验与证明](https://plato.stanford.edu/entries/kant-conceptualism/#ExpeJust)
-  * [ 5.2 非理性的心灵](https://plato.stanford.edu/entries/kant-conceptualism/#NonRatiMind)
-  * [5.3 直觉的“盲目性”](https://plato.stanford.edu/entries/kant-conceptualism/#BlinIntu)
-  * [5.4 数学建构](https://plato.stanford.edu/entries/kant-conceptualism/#MathCons)
-  * [5.5 先验推论](https://plato.stanford.edu/entries/kant-conceptualism/#TranDedu)
-  * [5.6 知性活动与空间和时间的统一](https://plato.stanford.edu/entries/kant-conceptualism/#InteActiUnitSpacTime)
-  * [5.7 想象力、感知和图像](https://plato.stanford.edu/entries/kant-conceptualism/#ImagPercImag)
-  * [5.8 先验和认知](https://plato.stanford.edu/entries/kant-conceptualism/#ModaCogn)
-* [ 6. 论述](https://plato.stanford.edu/entries/kant-conceptualism/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-conceptualism/#Bib)
-
-  * [ 伊曼努尔·康德的著作](https://plato.stanford.edu/entries/kant-conceptualism/#WorkKant)
-  * [ 其他主要来源](https://plato.stanford.edu/entries/kant-conceptualism/#OthePrimSour)
-  * [ 二手文献](https://plato.stanford.edu/entries/kant-conceptualism/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-conceptualism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-conceptualism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-conceptualism/#Rel)
+ 
 
 ---
 

@@ -8,24 +8,7 @@ _首次发表于2003年10月21日；实质性修订于2023年9月18日。_
 
 由于物理学是康德长期职业生涯中的主要（尽管不是唯一）关注点，我们将在不同的章节中讨论他在前批判时期（1746-1770）、批判时期（1781-1790）和后批判时期（1790 年后）对物理学的观点。随后将专门讨论康德在科学哲学领域最有影响力的著作《自然科学的形而上学基础》（1786 年）的每个章节。之后将介绍康德对其他科学领域，包括心理学、化学和历史学的基本立场。
 
-* [1. 物理学：先验批判时期](https://plato.stanford.edu/entries/kant-science/#PhysPreCritPeri)
-* [2. 物理学：批判时期（自然科学的形而上学基础）](https://plato.stanford.edu/entries/kant-science/#PhysCritPeriMetaFounNatuScie)
-  * [2.1 序言](https://plato.stanford.edu/entries/kant-science/#Pref)
-  * [2.2 运动学](https://plato.stanford.edu/entries/kant-science/#Phor)
-  * [2.3 动力学](https://plato.stanford.edu/entries/kant-science/#Dyna)
-  * [2.4 力学](https://plato.stanford.edu/entries/kant-science/#Mech)
-  * [2.5 现象学](https://plato.stanford.edu/entries/kant-science/#Phen)
-* [3. 法则](https://plato.stanford.edu/entries/kant-science/#Laws)
-* [4. 物理学：后批判时期（遗稿集）](https://plato.stanford.edu/entries/kant-science/#PhysPostCritPeriOpusPost)
-* [5. 生物学](https://plato.stanford.edu/entries/kant-science/#Biol)
-* [6. 化学](https://plato.stanford.edu/entries/kant-science/#Chem)
-* [7. 心理学](https://plato.stanford.edu/entries/kant-science/#Psyc)
-* [8. 其他科学：历史、物理地理学和人类学](https://plato.stanford.edu/entries/kant-science/#OtheScieHistPhysGeogAnth)
-* [参考书目](https://plato.stanford.edu/entries/kant-science/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/kant-science/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-science/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/kant-science/#Rel)
-
+ 
 ***
 
 ## 1. 物理学：先验批判时期

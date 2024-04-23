@@ -6,25 +6,7 @@
 
 康德对莱布尼茨的接受主要特点如下所述。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/kant-leibniz/#Intr)
-* [2. 矛盾原理](https://plato.stanford.edu/entries/kant-leibniz/#PrinCont)
-* [3. 不可分辨的同一性](https://plato.stanford.edu/entries/kant-leibniz/#IdenIndi)
-* [4. 实体和“物质”](https://plato.stanford.edu/entries/kant-leibniz/#SubsMatt)
-* [5. 空间和时间](https://plato.stanford.edu/entries/kant-leibniz/#SpacTime)
-* [6. 知觉和思维](https://plato.stanford.edu/entries/kant-leibniz/#PercThou)
-* [7. 灵魂和身体](https://plato.stanford.edu/entries/kant-leibniz/#SoulBody)
-* [8. 自由与行动能力](https://plato.stanford.edu/entries/kant-leibniz/#FreeAgen)
-* [9. 机械论与自然秩序](https://plato.stanford.edu/entries/kant-leibniz/#MechOrdeNatu)
-* [10. 神学与神义论](https://plato.stanford.edu/entries/kant-leibniz/#TheoTheo)
-* [11. 伦理学和政治学](https://plato.stanford.edu/entries/kant-leibniz/#EthiPoli)
-* [ 参考书目](https://plato.stanford.edu/entries/kant-leibniz/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/kant-leibniz/#PrimSour)
-  * [ 二手资料](https://plato.stanford.edu/entries/kant-leibniz/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-leibniz/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-leibniz/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-leibniz/#Rel)
-
+ 
 ---
 
 ## 1. 引言

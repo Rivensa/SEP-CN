@@ -5,32 +5,7 @@
 
 就鸠摩利罗·跋陀的解经洞见而言，它们被详细阐述为与《吠陀》这一文本体系相关，而《前密摩经》则将其认为是知识权威的公理。然而，鸠摩利罗·跋陀的项目中的重要方面通常对哲学家们来说并不感兴趣；然而，他作为一个最高级别的哲学思想家的证据仍然明显，尤其是在他的文集中直接涉及哲学问题的部分。鸠摩利罗·跋陀思想的这个维度在《颂文疏》中得到了充分体现，这是一部“诗歌批注评论”，鸠摩利罗·跋陀在其中详细阐述了前辈密摩经项目的认识论和语言学洞见（参见Jha 1983，Kataoka 2011，Taber 2005）。《颂文疏》中引入的一些重要思想（并由后来的评论家对鸠摩利罗·跋陀进行了详细阐述）包括鸠摩利罗·跋陀的重要认识论贡献，即自证自明的学说；根据这一学说，可靠的认识方式（pramāṇas）必须被接受为“内在地”具有可靠性。也就是说，不能假设“可靠”的认识方式仅仅是那些可以被证明可靠的方式，因为任何证明本身都必须预设可靠的认识方式；因此，可靠的认识方式必须被承认为内在地有助于真理，这意味着对于知识的进展来说，最终决定性的不是证明，而是证伪（参见Arnold 2005，Kataoka 2011，Taber 1992）。鸠摩利罗·跋陀的认识论，尽管它经常被不友善地描述为与关于《吠陀》权威的逻辑独立主张相结合，但实际上代表了常识现实主义直觉的复杂发展，他以一种对托马斯·里德和“改革认识论者”（如威廉·奥尔斯顿和尼古拉斯·沃尔斯特斯托夫）熟悉的方式加以利用。 鸠摩利罗·跋陀成功地运用了对语言普遍性的坚实现实主义和密马姆萨卡独特的信念，即吠陀文本是永恒的，以显示对吠陀的独特权威地位（以及由此所规定的仪式实践）的承诺是理性的。
 
-* [1. 生平、著作和影响力](https://plato.stanford.edu/entries/kumaarila/#LifeWorkInfl)
-
-  * [1.1 公元一千年中叶的印度哲学辩论](https://plato.stanford.edu/entries/kumaarila/#IndiPhilDebaMiddFirsMill)
-  * [1.2 鸠摩利罗·跋陀的婆罗门传统](https://plato.stanford.edu/entries/kumaarila/#BrahTradPuurMiim)
-  * [1.3 鸠摩利罗·跋陀的作品作为基础文本的注释](https://plato.stanford.edu/entries/kumaarila/#WorkKumaCommFounText)
-* [2. 认识论：直接实在论和直接证明的教义](https://plato.stanford.edu/entries/kumaarila/#EpisDireRealDoctImmeJust)
-
-  * [2.1 早期米马姆萨学派对吠陀证言的认识论地位](https://plato.stanford.edu/entries/kumaarila/#EarlMiimEpisStatVediTest)
-  * [2.2 鸠摩利罗·跋陀对一般认识论学说的发展](https://plato.stanford.edu/entries/kumaarila/#KumaDeveGeneEpisDoct)
-  * [2.3 鸠摩利罗·跋陀学说中伪证的重要性](https://plato.stanford.edu/entries/kumaarila/#SignFalsForKumaDoct)
-  * [2.4 鸠摩利罗·跋陀认识论的替代解释](https://plato.stanford.edu/entries/kumaarila/#AlteInteKumaEpis)
-* [3. 形而上学和语言哲学](https://plato.stanford.edu/entries/kumaarila/#MetaPhilLang)
-
-  * [3.1 关于吠陀经和语言的永恒性](https://plato.stanford.edu/entries/kumaarila/#EterVedaLangGene)
-  * [3.2 关于语言普遍性的现实性](https://plato.stanford.edu/entries/kumaarila/#RealLingUniv)
-  * [3.3 假设，“apūrva”，和自我本质](https://plato.stanford.edu/entries/kumaarila/#PresApuuNatuSelf)
-* [4. 意识形态和伦理学](https://plato.stanford.edu/entries/kumaarila/#IdeoEthi)
-* [ 鸠摩利罗·跋陀](https://plato.stanford.edu/entries/kumaarila/#Bib)
-
-  * [主要文本的批判性版本](https://plato.stanford.edu/entries/kumaarila/#CritEditPrimText)
-  * [主要文本的翻译](https://plato.stanford.edu/entries/kumaarila/#TranPrimText)
-  * [ 二手文献](https://plato.stanford.edu/entries/kumaarila/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/kumaarila/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kumaarila/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kumaarila/#Rel)
-
+ 
 ---
 
 ## 1. 生平、著作和影响

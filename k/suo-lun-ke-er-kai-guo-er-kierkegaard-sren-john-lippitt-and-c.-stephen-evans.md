@@ -6,30 +6,7 @@
 
 Søren Aabye Kierkegaard（1813年至1855年）是一个惊人地多产的作家，他几乎所有的作品都是在1840年代写成的，很难分类，涵盖了哲学、神学、宗教和虔诚的写作、文学批评、心理学和社会批判。Kierkegaard的哲学方式反对系统建构，在方法上更多地借鉴了古代，特别是他的偶像苏格拉底，尽管他的作品也强烈而创造性地借鉴了《圣经》和其他基督教来源。反对系统建构意味着Kierkegaard经常被理解为黑格尔的主要对手，但近几十年的研究挑战了和复杂化了这种观点，表明Kierkegaard的一些核心思想是黑格尔思想的创造性发展，并且他批判的主要对象是当时对他有影响力的丹麦黑格尔派，而不是黑格尔本人（尤其是参见Stewart 2003和下文第4节）。他经常被称为“存在主义之父”，这个标签至少掩盖了一些，尤其是对那些将存在主义与萨特等无神论者联系起来的人而言。Kierkegaard的思想确实影响了现象学和存在主义传统中的思想家（包括海德格尔、萨特、贾斯帕斯、马塞尔和莱文纳斯），但也影响了非常不同的哲学传统中的思想家，比如维特根斯坦（他著名地将他描述为十九世纪“圣人”和“迄今为止最深刻的思想家”）。除了影响哲学家和神学家（包括他自己路德教传统内外的人），Kierkegaard的思想还影响了各种小说家和诗人（包括亨利克·易卜生、弗兰兹·卡夫卡、米格尔·德·乌纳穆诺、奥古斯特·斯特林伯格、W·H·奥登、沃克·波西、约翰·厄普代克、理查德·赖特、R·S·托马斯和黑文·金梅尔）；艺术家和电影制作人（包括爱德华·蒙克和卡尔·西奥多·德莱尔）；精神病医生和心理治疗师（包括路德维希·宾斯万格、卡尔·罗杰斯、罗洛·梅、R·D·兰恩和欧文·亚隆）。关于这些影响在哲学、神学和文学中的文章，请参见Carlisle 2013、Welz 2013、Shakespeare 2013、Rudd 2013、Lippitt 2013b、Barrett 2013、Lisi 2013和Pyper 2013。Kierkegaard之所以对如此多样化的人物产生影响，一个原因是他关注作为一个存在的、有限的人类意味着什么这个问题，他将这个关注与“内在性”联系起来，与他认为误解的想法形成对比，即人们可以以超然的方式理解现实，没有特定的观点。他认为，他所处的时代在各种方面都忘记了这个基本的真理，这是一种巨大的失败，体现在它的哲学和神学中。
 
-* [1. Life and Works ](https://plato.stanford.edu/entries/kierkegaard/#LifeWork)
-* [2. Kierkegaard’s Analysis of Human Existence: Despair, Social Critique, and Anxiety ](https://plato.stanford.edu/entries/kierkegaard/#KierAnalHumaExisDespSociCritAnxi)
-* [3. “存在的领域”或“人生之路上的阶段”](https://plato.stanford.edu/entries/kierkegaard/#SpheExisStagLifeWay)
-
-  * [ 3.1 美学](https://plato.stanford.edu/entries/kierkegaard/#Aest)
-  * [ 3.2 伦理学](https://plato.stanford.edu/entries/kierkegaard/#Ethi)
-  * [3.3 宗教与信仰的生活](https://plato.stanford.edu/entries/kierkegaard/#ReliLifeFait)
-
-    * [ 3.3.1 信仰](https://plato.stanford.edu/entries/kierkegaard/#Fait)
-    * [ 3.3.2 爱](https://plato.stanford.edu/entries/kierkegaard/#Love)
-    * [3.3.3 希望和其他美德](https://plato.stanford.edu/entries/kierkegaard/#HopeOtheVirt)
-* [4. 克尔凯郭尔学术研究的轨迹](https://plato.stanford.edu/entries/kierkegaard/#TrajKierScho)
-* [ 5. 结论](https://plato.stanford.edu/entries/kierkegaard/#Conc)
-* [索伦·奥贝·克尔凯郭尔作品年表](https://plato.stanford.edu/entries/kierkegaard/#ChroKierWork)
-* [ 参考书目](https://plato.stanford.edu/entries/kierkegaard/#Bib)
-
-  * [A. 主要文献：克尔凯郭尔的著作](https://plato.stanford.edu/entries/kierkegaard/#PrimLiteWorkKier)
-
-    * [A.1 索伦·奥贝·克尔凯郭尔的丹麦作品](https://plato.stanford.edu/entries/kierkegaard/#KierWorkDani)
-    * [A.2 索伦·奥贝·克尔凯郭尔的英文作品](https://plato.stanford.edu/entries/kierkegaard/#KierWorkEngl)
-  * [B. 选编的次级文献和其他参考作品](https://plato.stanford.edu/entries/kierkegaard/#BSeleSecoLiteOtheWorkRefe)
-* [ 学术工具](https://plato.stanford.edu/entries/kierkegaard/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kierkegaard/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kierkegaard/#Rel)
+ 
 
 ---
 

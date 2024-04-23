@@ -4,42 +4,7 @@
 
 伊曼努尔·康德（1724-1804）是现代哲学的中心人物。他综合了早期的现代理性主义和经验主义，为 19 世纪和 20 世纪的哲学设定了许多术语，并在形而上学、认识论、伦理学、政治哲学、美学和其他领域继续产生重要影响。康德的“批判哲学”的基本思想，尤其是在他的三部著作《纯粹理性批判》（1781 年，1787 年）、《实践理性批判》（1788 年）和《判断力批判》（1790 年）中，是人类自主性。他认为，人类的理解力是构建我们所有经验的自然普遍法则的源头；而人类的理性则赋予自己道德法则，这是我们对上帝、自由和永恒的信仰基础。因此，科学知识、道德和宗教信仰是相互一致和可靠的，因为它们都建立在人类自主性的同一基础上，这也是康德引入的反思判断的目的论世界观在他哲学体系的理论和实践部分之间统一的最终目标。
 
-* [1. Life and works](https://plato.stanford.edu/entries/kant/#LifWor)
-* [2. Kant’s project in the Critique of Pure Reason](https://plato.stanford.edu/entries/kant/#KanProThePurRea)
-
-  * [2.1 启蒙运动的危机](https://plato.stanford.edu/entries/kant/#CriEnl)
-  * [2.2 伊曼努尔·康德在哲学上的哥白尼式革命](https://plato.stanford.edu/entries/kant/#KanCopRev)
-* [3. 先验唯心主义](https://plato.stanford.edu/entries/kant/#TraIde)
-
-  * [3.1 两个对象的解释](https://plato.stanford.edu/entries/kant/#TwoObjInt)
-  * [3.2 两个方面的解释](https://plato.stanford.edu/entries/kant/#TwoAspInt)
-* [4. 先验推论](https://plato.stanford.edu/entries/kant/#TraDed)
-
-  * [ 4.1 自我意识](https://plato.stanford.edu/entries/kant/#SelCon)
-  * [4.2 客观性和判断](https://plato.stanford.edu/entries/kant/#ObjJud)
-  * [4.3 自然的立法者](https://plato.stanford.edu/entries/kant/#LawGivNat)
-* [5. 道德和自由](https://plato.stanford.edu/entries/kant/#MorFre)
-
-  * [5.1 理论和实践的自主性](https://plato.stanford.edu/entries/kant/#ThePraAut)
-  * [ 5.2 自由](https://plato.stanford.edu/entries/kant/#Fre)
-  * [5.3 理性的事实](https://plato.stanford.edu/entries/kant/#FacRea)
-  * [5.4 范畴命令](https://plato.stanford.edu/entries/kant/#CatImp)
-* [6. 最高善和实践前提](https://plato.stanford.edu/entries/kant/#HigGooPraPos)
-
-  * [6.1 最高善](https://plato.stanford.edu/entries/kant/#HigGoo)
-  * [6.2 纯粹实践理性的前提](https://plato.stanford.edu/entries/kant/#PosPurPraRea)
-* [7. 自然和自由的统一](https://plato.stanford.edu/entries/kant/#UniNatFre)
-
-  * [7.1 伟大的鸿沟](https://plato.stanford.edu/entries/kant/#GreCha)
-  * [7.2 自然的目的性](https://plato.stanford.edu/entries/kant/#PurNat)
-* [ 参考文献](https://plato.stanford.edu/entries/kant/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/kant/#PriLit)
-  * [ 次要文献](https://plato.stanford.edu/entries/kant/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/kant/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant/#Rel)
-
+ 
 ---
 
 ## 1. 生平与著作

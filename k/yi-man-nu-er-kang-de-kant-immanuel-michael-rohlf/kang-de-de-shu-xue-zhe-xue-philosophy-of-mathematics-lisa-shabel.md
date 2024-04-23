@@ -6,21 +6,7 @@
 
 康德的数学哲学对于各种学者来说都具有多重原因的兴趣。首先，他对数学的思考是他批判性哲学体系的一个关键和核心组成部分，因此对于研究康德著作的哲学史学家来说，它们具有启发性。此外，康德对最基本和基础的数学学科的思考引发了当代感兴趣和相关的问题，这些问题继续影响着数学的形而上学和认识论中的重要问题。最后，对于如何解释康德的数学哲学存在着分歧，这产生了一个当前研究和辩论的丰富领域。
 
-* [1. 康德的先批判数学哲学](https://plato.stanford.edu/entries/kant-mathematics/#KanPreCriMat)
-* [2. 伊曼努尔·康德的数学批判哲学](https://plato.stanford.edu/entries/kant-mathematics/#KanCriMat)
-
-  * [2.1 伊曼努尔·康德在《纯粹理性的学科在教条使用中的建构》中对数学概念的构建理论](https://plato.stanford.edu/entries/kant-mathematics/#KanTheConMatConDisPurReaDogUse)
-  * [2.2 伊曼努尔·康德对他的问题“纯粹数学如何可能？”的回答](https://plato.stanford.edu/entries/kant-mathematics/#KanAnsHisQueHowPurMatPos)
-  * [2.3 伊曼努尔·康德在先验唯理主义中对数学角色的构想](https://plato.stanford.edu/entries/kant-mathematics/#KanConRolMatTraIde)
-* [3. 批判康德的数学哲学评论](https://plato.stanford.edu/entries/kant-mathematics/#ComIntDeb)
-
-  * [3.1 领域的历史](https://plato.stanford.edu/entries/kant-mathematics/#HistFiel)
-  * [3.2 解释性辩论](https://plato.stanford.edu/entries/kant-mathematics/#InteDeba)
-  * [3.3 领域的现状](https://plato.stanford.edu/entries/kant-mathematics/#CurrStat)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-mathematics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-mathematics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-mathematics/#Rel)
+ 
 
 ---
 

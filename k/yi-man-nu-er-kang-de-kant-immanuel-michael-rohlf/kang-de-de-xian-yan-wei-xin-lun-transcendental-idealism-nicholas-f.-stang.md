@@ -4,49 +4,7 @@
 
 在《纯粹理性批判》中，康德认为空间和时间仅仅是我们感知对象的形式特征，而不是独立于我们存在的事物，或者它们之间的属性或关系。空间和时间中的对象被称为“现象”，他认为我们对它们所表现的本质一无所知。康德将这个学说（或一系列学说）称为“先验唯心论”，自从 1781 年第一版《纯粹理性批判》出版以来，康德的读者们一直在思考和辩论，先验唯心论到底是什么，以及对它有着截然不同的解释。一些人，包括康德的许多同时代人，将先验唯心论解释为本质上是一种现象主义，在某些方面类似于伯克利的观点，而其他人则认为它根本不是一种形而上学或本体论的理论。在康德的哲学中，几乎没有一个重要的解释性问题能够达成如此一致的共识。本文介绍了康德最重要的著作，以及围绕这些著作的解释性和哲学性问题。
 
-* [1. 现象和事物本身](https://plato.stanford.edu/entries/kant-transcendental-idealism/#AppeThinThem)
-
-  * [1.1 先验实在论和经验唯心论](https://plato.stanford.edu/entries/kant-transcendental-idealism/#TranRealEmpiIdea)
-  * [1.2 事物本身的经验性](https://plato.stanford.edu/entries/kant-transcendental-idealism/#EmpiThinItse)
-* [2. 费德-加尔维评论与康德的回应](https://plato.stanford.edu/entries/kant-transcendental-idealism/#FedeGarvReviKantRepl)
-
-  * [2.1 费德-加尔维评论](https://plato.stanford.edu/entries/kant-transcendental-idealism/#FedeGarvRevi)
-  * [2.2 现象主义的种类](https://plato.stanford.edu/entries/kant-transcendental-idealism/#VariPhen)
-  * [2.3 伊曼努尔·康德的反击](https://plato.stanford.edu/entries/kant-transcendental-idealism/#KantStriBack)
-  * [2.4 B 版的变动](https://plato.stanford.edu/entries/kant-transcendental-idealism/#ChanBEdit)
-* [3. 伊曼努尔·康德作为一位现象主义者](https://plato.stanford.edu/entries/kant-transcendental-idealism/#KantPhen)
-
-  * [3.1 现象 = 表象？](https://plato.stanford.edu/entries/kant-transcendental-idealism/#AppeRepr)
-  * [3.2 有条件的现象主义](https://plato.stanford.edu/entries/kant-transcendental-idealism/#QualPhen)
-  * [3.3 对现象主义解读的批评](https://plato.stanford.edu/entries/kant-transcendental-idealism/#CritPhenRead)
-  * [3.4 物自体问题](https://plato.stanford.edu/entries/kant-transcendental-idealism/#ProbThinThem)
-* [4. “双重方面”观点问题](https://plato.stanford.edu/entries/kant-transcendental-idealism/#DualAspeView)
-
-  * [4.1 一个对象，而不是两个](https://plato.stanford.edu/entries/kant-transcendental-idealism/#OneObjeNotTwo)
-  * [4.2 艾莉森的“认识论”解读](https://plato.stanford.edu/entries/kant-transcendental-idealism/#AlliEpisRead)
-  * [4.3. 认识论解读的问题](https://plato.stanford.edu/entries/kant-transcendental-idealism/#ProbEpisRead)
-  * [4.4 形而上学的“双重方面”解读](https://plato.stanford.edu/entries/kant-transcendental-idealism/#MetaDualAspeRead)
-  * [4.5 对朗顿解读的问题](https://plato.stanford.edu/entries/kant-transcendental-idealism/#ProbForLangRead)
-* [5. 一个对象还是两个对象？](https://plato.stanford.edu/entries/kant-transcendental-idealism/#OneObjeTwo)
-
-  * [5.1 现象与物自体之间的同一性](https://plato.stanford.edu/entries/kant-transcendental-idealism/#IdenBetwAppeThinThem)
-  * [5.2 兰顿和非同一性](https://plato.stanford.edu/entries/kant-transcendental-idealism/#LangNonIden)
-  * [5.3 现象主义双重方面阅读](https://plato.stanford.edu/entries/kant-transcendental-idealism/#PhenDualAspeRead)
-  * [5.4 评估解释问题](https://plato.stanford.edu/entries/kant-transcendental-idealism/#AsseInteIssu)
-* [6. 事物本身，物自体，和先验对象](https://plato.stanford.edu/entries/kant-transcendental-idealism/#ThinThemNoumTranObje)
-
-  * [6.1 现象和物自体](https://plato.stanford.edu/entries/kant-transcendental-idealism/#PhenNoum)
-  * [6.2 先验对象 = X](https://plato.stanford.edu/entries/kant-transcendental-idealism/#TranObjeX)
-* [ 7. 结论](https://plato.stanford.edu/entries/kant-transcendental-idealism/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-transcendental-idealism/#Bib)
-
-  * [ 伊曼努尔·康德的著作](https://plato.stanford.edu/entries/kant-transcendental-idealism/#WorkKant)
-  * [ 其他主要来源](https://plato.stanford.edu/entries/kant-transcendental-idealism/#OthePrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/kant-transcendental-idealism/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-transcendental-idealism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-transcendental-idealism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-transcendental-idealism/#Rel)
-
+ 
 ---
 
 ## 1. 现象和物自体

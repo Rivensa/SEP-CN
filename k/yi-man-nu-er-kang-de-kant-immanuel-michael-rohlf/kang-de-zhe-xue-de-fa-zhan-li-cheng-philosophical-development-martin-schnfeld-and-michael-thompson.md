@@ -27,17 +27,7 @@
 
 下面的论述涵盖了康德从童年到批判时期的发展。其主题是他的思想形成：他在青年时期和教育中的影响；他在早年形成的关于自然哲学、本体论和宇宙论的观点；随后追求的问题；以及他的答案的历史命运[6]。
 
-* [1. 童年：“我上面的星空和我内心的道德法则”](https://plato.stanford.edu/entries/kant-development/#ChiStaSkyAboMeMorLawWitMe)
-* [2. 青年时期: “在狂热者的奴役下”](https://plato.stanford.edu/entries/kant-development/#YouSerFan)
-* [3. 学生时代: “划定前进的道路”](https://plato.stanford.edu/entries/kant-development/#StuYeaMarOutPatTak)
-* [4. 充满活力的首次亮相: “反比例方程中的辐射”](https://plato.stanford.edu/entries/kant-development/#DynDebRadInvSqu)
-* [5. 牛顿式观星：「一个普遍规律的辉煌」](https://plato.stanford.edu/entries/kant-development/#NewStaSplSinUniRul)
-* [6. 系统宇宙学：「宇宙中的一切相互连接」](https://plato.stanford.edu/entries/kant-development/#SysCosAllThiUniIntCon)
-* [7. 危机与批判：「在纯粹概念中摸索」](https://plato.stanford.edu/entries/kant-development/#CriCriGroAmoMerCon)
-* [ 参考文献](https://plato.stanford.edu/entries/kant-development/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/kant-development/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kant-development/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kant-development/#Rel)
+ 
 
 ---
 
