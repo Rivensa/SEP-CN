@@ -4,20 +4,7 @@
 
 奥特古的尼克拉学术生涯最引人注目的特点是他在 1347 年的谴责。在几乎所有关于中世纪哲学的历史中，他的谴责被认为是 14 世纪巴黎最重要的事件之一。在早期的文献中，奥特古的观点被认为与学院派思想中的怀疑主义倾向有关，并且过度地被威廉·奥卡姆的观点所笼罩。然而，在过去的二十年中，人们逐渐认识到，对奥特古思想的研究错误地放置在 1339 年至 1347 年巴黎大学反对奥卡姆主义的更大背景下。尽管奥特古并不是怀疑论者，相反，他攻击了“学院派”或古代怀疑论者，但他的哲学立场挑战了主流的亚里士多德传统。特别是，奥特古拒绝了一些主要的学院派形而上学和认识论原则，如实体-属性的现实结构和因果原则。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/autrecourt/#Lif)
-* [2. 奥特古的审判和定罪](https://plato.stanford.edu/entries/autrecourt/#AutTriCon)
-* [ 3. 文献](https://plato.stanford.edu/entries/autrecourt/#Wri)
-* [ 4. 认识论](https://plato.stanford.edu/entries/autrecourt/#Epi)
-* [ 5. 形而上学](https://plato.stanford.edu/entries/autrecourt/#Met)
-* [ 6. 自然哲学](https://plato.stanford.edu/entries/autrecourt/#Nat)
-* [ 7. 语义学](https://plato.stanford.edu/entries/autrecourt/#Sem)
-* [ 参考书目](https://plato.stanford.edu/entries/autrecourt/#Bib)
-
-  * [版本和翻译](https://plato.stanford.edu/entries/autrecourt/#EdiTra)
-  * [ 研究](https://plato.stanford.edu/entries/autrecourt/#Stu)
-* [ 学术工具](https://plato.stanford.edu/entries/autrecourt/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/autrecourt/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/autrecourt/#Rel)
+ 
 
 ---
 

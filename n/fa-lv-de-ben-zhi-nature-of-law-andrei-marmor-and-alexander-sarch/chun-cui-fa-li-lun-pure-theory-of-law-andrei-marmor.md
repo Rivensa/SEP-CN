@@ -5,17 +5,7 @@
 
 纯粹法理论的概念是由强大的奥地利法学家和哲学家汉斯·凯尔森（1881-1973）提出的（见参考文献注释）。凯尔森在 20 世纪初开始了他作为法律理论家的漫长职业生涯。当时的传统法律哲学，凯尔森声称，不可救药地被政治意识形态和道德化的污染，或者试图将法律归纳为自然科学或社会科学。他发现这两种还原主义的努力都存在严重缺陷。相反，凯尔森提出了一种避免任何形式的还原主义的“纯粹”法理论。凯尔森所提倡的法学“以法律为焦点的认知”被其自身描述为“纯粹”法理论，并且这种纯净性作为其“基本方法论原则”（PT1，7）。
 
-* [1. 基本规范](https://plato.stanford.edu/entries/lawphil-theory/#BasNor)
-* [2. 相对主义和还原主义](https://plato.stanford.edu/entries/lawphil-theory/#RelRed)
-* [3. 法律的规范性](https://plato.stanford.edu/entries/lawphil-theory/#NorLaw)
-* [ 参考文献](https://plato.stanford.edu/entries/lawphil-theory/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/lawphil-theory/#PriSou)
-  * [ 二次来源](https://plato.stanford.edu/entries/lawphil-theory/#SecSou)
-  * [当代讨论和进一步阅读](https://plato.stanford.edu/entries/lawphil-theory/#ConDisFurRea)
-* [ 学术工具](https://plato.stanford.edu/entries/lawphil-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lawphil-theory/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lawphil-theory/#Rel)
+ 
 
 ---
 

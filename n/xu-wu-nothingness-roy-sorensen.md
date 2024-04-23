@@ -6,23 +6,7 @@
 
 这次调查从全球范围的虚无开始，然后探索局部的虚无区域。让我们从一个马丁·海德格尔（Martin Heidegger）著名地描述为哲学中最基本的问题开始。
 
-* [1. 为什么有东西而不是没有东西？](https://plato.stanford.edu/entries/nothingness/#WhyTheSomRatThaNot)
-* [2. 是否至多存在一个空的世界？](https://plato.stanford.edu/entries/nothingness/#TheMosOneEmpWor)
-* [3. 是否可以有一个解释框架来回答这个问题？](https://plato.stanford.edu/entries/nothingness/#TheExpFraForQue)
-* [4. 对具体实体的限制](https://plato.stanford.edu/entries/nothingness/#ResConEnt)
-* [5. 虚无的困境](https://plato.stanford.edu/entries/nothingness/#ConDil)
-* [6. 正面真理的直觉优先性](https://plato.stanford.edu/entries/nothingness/#IntPriPosTru)
-* [7. 减法论证](https://plato.stanford.edu/entries/nothingness/#SubArg)
-* [8. 存在论的中立性](https://plato.stanford.edu/entries/nothingness/#OntNeu)
-* [9. 多重虚无的问题](https://plato.stanford.edu/entries/nothingness/#ProMulNot)
-* [10. 是否存在虚无？](https://plato.stanford.edu/entries/nothingness/#TheAnyNot)
-* [11. 虚无的现象学方面](https://plato.stanford.edu/entries/nothingness/#ExiAspNot)
-* [12. 动物对缺席的认知](https://plato.stanford.edu/entries/nothingness/#AniCogAbs)
-* [ 参考文献](https://plato.stanford.edu/entries/nothingness/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/nothingness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nothingness/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nothingness/#Rel)
-
+ 
 ---
 
 ## 1. 为什么有事物而不是虚无？

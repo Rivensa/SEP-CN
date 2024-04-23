@@ -8,24 +8,7 @@
 
 说明某事是可以解释的与解释某事是有重要区别的（Lennox 1991）；然而，一个理论必须是一种解释性的理论，才能完成任何一项任务。在达尔文之后，地质记录中出现新物种和存在看似设计的适应性不能被用作诉诸超自然原因的最后解释依据。
 
-* [1. 自然选择的两种观念](https://plato.stanford.edu/entries/natural-selection/#TwoConcNatuSele)
-* [2. 进化和自然选择的条件](https://plato.stanford.edu/entries/natural-selection/#EvolCondForNatuSele)
-
-  * [2.1 复制体选择主义](https://plato.stanford.edu/entries/natural-selection/#ReplSele)
-  * [2.2 进化对于自然选择是否必要？](https://plato.stanford.edu/entries/natural-selection/#EvolNeceForNatuSele)
-* [3. 自然选择作为一个形式主义组成部分的解释](https://plato.stanford.edu/entries/natural-selection/#NatuSeleInteCompForm)
-* [4. 自然选择与解释](https://plato.stanford.edu/entries/natural-selection/#NatuSeleExpl)
-
-  * [ 4.1 解释范围](https://plato.stanford.edu/entries/natural-selection/#ExplScop)
-  * [4.2 解释性的挑战](https://plato.stanford.edu/entries/natural-selection/#ChalExpl)
-  * [4.3 自然选择作为一种机制](https://plato.stanford.edu/entries/natural-selection/#NatuSeleMech)
-* [ 5. 因果关系](https://plato.stanford.edu/entries/natural-selection/#Caus)
-* [ 6. 结论](https://plato.stanford.edu/entries/natural-selection/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/natural-selection/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/natural-selection/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/natural-selection/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/natural-selection/#Rel)
-
+ 
 ---
 
 ## 1. 自然选择的两种概念

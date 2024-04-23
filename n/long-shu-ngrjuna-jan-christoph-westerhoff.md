@@ -4,32 +4,7 @@
 
 人们普遍一致认为龙树（公元 150-250 年）是继历史佛陀之后最重要的佛教哲学家之一，也是印度哲学史上最原创和最有影响力的思想家之一。他以“中道”（madhyamaka）的哲学为基础，围绕“空性”（śūnyatā）的核心概念，影响了他去世后一千年的印度哲学辩论；随着佛教传播到西藏、中国、日本和其他亚洲国家，龙树的著作成为他们自己哲学探究的不可或缺的参考点。龙树思想的一种特定阐释，称为 Prāsaṅgika-Madhyamaka，成为西藏佛教的官方哲学立场，被视为哲学精妙性的巅峰至今。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/nagarjuna/#LifeWork)
-* [2. 空性与自性](https://plato.stanford.edu/entries/nagarjuna/#EmptSvab)
-* [3. 反对自性的论证](https://plato.stanford.edu/entries/nagarjuna/#ArguAgaiSvab)
-
-  * [ 3.1 因果关系](https://plato.stanford.edu/entries/nagarjuna/#Caus)
-
-    * [ 3.1.1 自我因果](https://plato.stanford.edu/entries/nagarjuna/#SelfCaus)
-    * [3.1.2 从其他事物引起的因果关系](https://plato.stanford.edu/entries/nagarjuna/#CausOtheThin)
-    * [3.1.3 既从自身又从其他事物引起的因果关系](https://plato.stanford.edu/entries/nagarjuna/#CausBothThemOtheThin)
-    * [3.1.4 既不从自身也不从其他事物引起的因果关系](https://plato.stanford.edu/entries/nagarjuna/#CausNeit)
-  * [ 3.2 变化](https://plato.stanford.edu/entries/nagarjuna/#Chan)
-  * [ 3.3 个人身份](https://plato.stanford.edu/entries/nagarjuna/#PersIden)
-  * [ 3.4 知识](https://plato.stanford.edu/entries/nagarjuna/#Know)
-
-    * [3.4.1 认识论工具是否是自我建立的？](https://plato.stanford.edu/entries/nagarjuna/#EpisInstSelfEsta)
-    * [3.4.2 认识论工具和对象是否相互建立？](https://plato.stanford.edu/entries/nagarjuna/#DoEpisInstObjeEstaEachOthe)
-  * [3.5 语言和真理](https://plato.stanford.edu/entries/nagarjuna/#LangTrut)
-* [ 4. 结论](https://plato.stanford.edu/entries/nagarjuna/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/nagarjuna/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/nagarjuna/#PrimLite)
-  * [ 二手文献](https://plato.stanford.edu/entries/nagarjuna/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/nagarjuna/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nagarjuna/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nagarjuna/#Rel)
-
+ 
 ---
 
 ## 1. 生平与著作

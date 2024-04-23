@@ -3,38 +3,7 @@
 *首次发表于2017年3月17日；实质性修订于2022年5月19日。*
 
 弗里德里希·尼采（1844-1900）是一位德国哲学家和文化批评家，他在 19 世纪 70 年代和 80 年代进行了大量的出版。他以对传统欧洲道德和宗教的毫不妥协的批评而闻名，同时也对传统哲学观念以及与现代性相关的社会和政治虔诚提出了批评。其中许多批评依赖于心理诊断，揭示了感染人们接受的观念的虚假意识；因此，他经常与一群后现代思想家（包括马克思和弗洛伊德）联系在一起，他们提出了对传统价值观的“怀疑解释学”（参见福柯[1964] 1990 年，里科尔[1965] 1970 年，莱特尔 2004 年）。尼采还利用他的心理分析来支持关于自我本质的原创理论，并提出了引人注目的建议，认为这些新价值观将促进文化的更新，并通过与他批评的传统价值观下的生活相比，改善社会和心理生活。
-
-* [1. 生平与作品](https://plato.stanford.edu/entries/nietzsche/#LifeWork)
-* [2. 对宗教和道德的批判](https://plato.stanford.edu/entries/nietzsche/#CritReliMora)
-* [3. 创造价值](https://plato.stanford.edu/entries/nietzsche/#ValuCrea)
-
-  * [3.1 弗里德里希·尼采的元伦理立场和价值创造的本质](https://plato.stanford.edu/entries/nietzsche/#NietMetaEthiStanNatuValuCrea)
-  * [3.2 一些尼采式的价值观](https://plato.stanford.edu/entries/nietzsche/#SomeNietValu)
-
-    * [3.2.1 力量与生命](https://plato.stanford.edu/entries/nietzsche/#PoweLife)
-    * [ 3.2.2 肯定](https://plato.stanford.edu/entries/nietzsche/#Affi)
-    * [3.2.3 真实/诚实](https://plato.stanford.edu/entries/nietzsche/#Trut)
-    * [3.2.4 艺术与艺术性](https://plato.stanford.edu/entries/nietzsche/#ArtArti)
-    * [3.2.5 个性、自治、&quot;精神自由&quot;](https://plato.stanford.edu/entries/nietzsche/#IndiAutoFreeSpir)
-    * [ 3.2.6 多元主义](https://plato.stanford.edu/entries/nietzsche/#Plur)
-* [4. 自我和自我塑造](https://plato.stanford.edu/entries/nietzsche/#SelfSelfFash)
-* [5. 尼采哲学写作的困难](https://plato.stanford.edu/entries/nietzsche/#DiffNietPhilWrit)
-* [6. 关键理论](https://plato.stanford.edu/entries/nietzsche/#KeyDoct)
-
-  * [6.1 弗里德里希·尼采的意志之力](https://plato.stanford.edu/entries/nietzsche/#WillPowe)
-  * [ 6.2 透视主义](https://plato.stanford.edu/entries/nietzsche/#Pers)
-  * [6.3 相同的永恒回归](https://plato.stanford.edu/entries/nietzsche/#EterRecuSame)
-* [ 参考文献](https://plato.stanford.edu/entries/nietzsche/#Bib)
-
-  * [主要文献：弗里德里希·尼采的著作](https://plato.stanford.edu/entries/nietzsche/#PrimLiteWorkNiet)
-
-    * [弗里德里希·尼采的德文著作](https://plato.stanford.edu/entries/nietzsche/#NietWorkGerm)
-    * [弗里德里希·尼采的英文著作](https://plato.stanford.edu/entries/nietzsche/#NietWorkEngl)
-  * [ 二次文献](https://plato.stanford.edu/entries/nietzsche/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/nietzsche/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nietzsche/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nietzsche/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

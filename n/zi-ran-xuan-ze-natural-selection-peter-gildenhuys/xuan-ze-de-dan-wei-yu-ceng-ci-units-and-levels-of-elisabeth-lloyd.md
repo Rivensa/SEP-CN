@@ -4,27 +4,7 @@
 
 自然选择理论或许是生物科学的巅峰智力成就。然而，关于哪个实体或实体被选择以及使其适合该角色的因素存在着相当大的争议。本文旨在通过确定四个明确但常常混淆的问题，并确定选择单位的辩论在很大程度上取决于思想家将哪个问题视为核心，从而澄清这些辩论中的问题。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/selection-units/#Intr)
-* [2. 四个基本问题](https://plato.stanford.edu/entries/selection-units/#FourBasiQues)
-
-  * [2.1 互动者问题](https://plato.stanford.edu/entries/selection-units/#InteQues)
-  * [2.2 复制者问题](https://plato.stanford.edu/entries/selection-units/#ReplQues)
-  * [2.3 受益者问题](https://plato.stanford.edu/entries/selection-units/#BeneQues)
-  * [2.4 自然选择的表现者问题](https://plato.stanford.edu/entries/selection-units/#ManiAdapQues)
-  * [ 2.5 总结](https://plato.stanford.edu/entries/selection-units/#Summ)
-* [3. 辩论的解剖学](https://plato.stanford.edu/entries/selection-units/#AnatDeba)
-
-  * [ 3.1 群体选择](https://plato.stanford.edu/entries/selection-units/#GrouSele)
-  * [ 3.2 物种选择](https://plato.stanford.edu/entries/selection-units/#SpecSele)
-  * [3.3 基因选择：起源者](https://plato.stanford.edu/entries/selection-units/#GeniSeleOrig)
-  * [3.4 基因选择：多元论者](https://plato.stanford.edu/entries/selection-units/#GeniSelePlur)
-  * [3.5 进化转变的单位](https://plato.stanford.edu/entries/selection-units/#UnitEvolTran)
-* [ 4. 结论](https://plato.stanford.edu/entries/selection-units/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/selection-units/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/selection-units/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/selection-units/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/selection-units/#Rel)
-
+ 
 ---
 
 ## 1. 引言

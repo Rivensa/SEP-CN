@@ -4,24 +4,7 @@
 
 适当的名词是自然语言中熟悉的表达方式，其语义仍然是一个有争议的主题。名字有意义吗，还是它们只是简单地指称特定的事物，而这种指称并不通过意义来介导？
 
-* [ 1. 语法](https://plato.stanford.edu/entries/names/#Synt)
-* [ 2. 语义](https://plato.stanford.edu/entries/names/#Sema)
-
-  * [2.1 意义和范围](https://plato.stanford.edu/entries/names/#MeanExte)
-  * [2.2 认知意义和识别](https://plato.stanford.edu/entries/names/#CognSignIden)
-  * [2.3 意义和先验性](https://plato.stanford.edu/entries/names/#MeanPrio)
-  * [2.4 意义和必要性](https://plato.stanford.edu/entries/names/#MeanNece)
-  * [2.5 使用规则](https://plato.stanford.edu/entries/names/#RuleUse)
-  * [2.6 群集理论](https://plato.stanford.edu/entries/names/#ClusTheo)
-  * [2.7 没有意义的参考：使用理论](https://plato.stanford.edu/entries/names/#RefeWithMeanUseTheo)
-  * [2.8 使用理论作为群集理论](https://plato.stanford.edu/entries/names/#UseTheoClusTheo)
-  * [2.9 空名和否定存在](https://plato.stanford.edu/entries/names/#EmptNameNegaExis)
-  * [2.10 元语言理论](https://plato.stanford.edu/entries/names/#MetaTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/names/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/names/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/names/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/names/#Rel)
-
+ 
 ---
 
 ## 1. 语法

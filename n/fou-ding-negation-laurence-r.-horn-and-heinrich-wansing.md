@@ -4,29 +4,7 @@ _首次发表于2015年1月7日，实质修订于2020年2月20日。_
 
 否定首先是语义对立的现象。作为这样一个现象，否定将表达式 e 与另一个在某种程度上与 e 的意义相对立的表达式联系起来。这种关系可以在句法和语用上以不同的方式实现。此外，存在不同类型的语义对立。第 1 节主要涉及自然语言中的否定和对立，从历史和系统的角度来看。第 2 节从哲学逻辑的角度着重讨论否定作为一元连词。否定的历史在 Horn 1989 和 Speranza 和 Horn 2012 中得到了全面的研究和调查。
 
-* [1. 自然语言中的否定和对立](https://plato.stanford.edu/entries/negation/#NegOppNatLan)
-  * [1.1 引言](https://plato.stanford.edu/entries/negation/#Int)
-  * [1.2 自然语言中的否定：显著性和不对称性](https://plato.stanford.edu/entries/negation/#NegNatLanMarAsy)
-  * [1.3 范围问题](https://plato.stanford.edu/entries/negation/#MatSco)
-  * [1.4 相反和矛盾](https://plato.stanford.edu/entries/negation/#ConCon)
-  * [1.5 否定、预设和特指术语](https://plato.stanford.edu/entries/negation/#NegPreSinTer)
-  * [1.6 从矛盾到对立：否定的语用加强](https://plato.stanford.edu/entries/negation/#ConConPraStrNeg)
-  * [1.7 缺乏、词缀否定和标记性不对称性](https://plato.stanford.edu/entries/negation/#PriAffNegMarAsy)
-  * [1.8 双重否定](https://plato.stanford.edu/entries/negation/#DouNeg)
-    * [1.8.1 “逻辑”双重否定](https://plato.stanford.edu/entries/negation/#LogDouNeg)
-    * [1.8.2 负面一致及其关系](https://plato.stanford.edu/entries/negation/#NegConRel)
-  * [1.9 否定极性](https://plato.stanford.edu/entries/negation/#NegPol)
-  * [1.10 元语言否定](https://plato.stanford.edu/entries/negation/#MetNeg)
-* [2. 否定的逻辑](https://plato.stanford.edu/entries/negation/#LogNeg)
-  * [2.1 否定作为一个真值函数](https://plato.stanford.edu/entries/negation/#NegTruFun)
-  * [2.2 否定作为一个模态运算符](https://plato.stanford.edu/entries/negation/#NegModOpe)
-  * [2.3 与否定的相互作用](https://plato.stanford.edu/entries/negation/#IntNeg)
-  * [2.4 其他将否定视为一元连接词的概念](https://plato.stanford.edu/entries/negation/#OthConNegUna)
-  * [2.5 否定、拒绝和否认](https://plato.stanford.edu/entries/negation/#NegRejDen)
-* [参考文献](https://plato.stanford.edu/entries/negation/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/negation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/negation/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/negation/#Rel)
+ 
 
 ***
 

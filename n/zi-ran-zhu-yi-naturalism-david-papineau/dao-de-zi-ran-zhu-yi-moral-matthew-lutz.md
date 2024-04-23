@@ -7,26 +7,7 @@
 
 这个讨论将分为三个部分。第一部分，第 1-2 节，将描述道德自然主义以及与道德自然主义密切相关的另外两种观点，即描述主义和还原主义。第二部分，第 3-4 节，将探讨支持和反对道德自然主义的论证。第三部分，第 5-7 节，将详细考察三种最受欢迎的综合自然主义学说。
 
-* [1. 什么是道德自然主义？](https://plato.stanford.edu/entries/naturalism-moral/#WhatMoraNatu)
-* [2. 描述主义和还原主义](https://plato.stanford.edu/entries/naturalism-moral/#DescRedu)
-
-  * [ 2.1 描述主义](https://plato.stanford.edu/entries/naturalism-moral/#Desc)
-  * [ 2.2 自然主义](https://plato.stanford.edu/entries/naturalism-moral/#Redu)
-* [3. 为什么要成为道德自然主义者？](https://plato.stanford.edu/entries/naturalism-moral/#WhyMoraNatu)
-
-  * [3.1 随附/监督的论证](https://plato.stanford.edu/entries/naturalism-moral/#ArguSupe)
-  * [3.2 反怀疑主义的论证](https://plato.stanford.edu/entries/naturalism-moral/#ArguAntiSkep)
-* [4. 自然主义的反对意见](https://plato.stanford.edu/entries/naturalism-moral/#ObjeNatu)
-
-  * [4.1 开放问题论证](https://plato.stanford.edu/entries/naturalism-moral/#OpenQuesArgu)
-  * [4.2 道德性和琐碎性的反对意见](https://plato.stanford.edu/entries/naturalism-moral/#NormTrivObje)
-* [5. 新亚里士多德自然主义](https://plato.stanford.edu/entries/naturalism-moral/#NeoArisNatu)
-* [ 6. 康奈尔现实主义](https://plato.stanford.edu/entries/naturalism-moral/#CornReal)
-* [7. 杰克逊的分析功能主义](https://plato.stanford.edu/entries/naturalism-moral/#JackAnalFunc)
-* [ 参考文献](https://plato.stanford.edu/entries/naturalism-moral/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/naturalism-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/naturalism-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/naturalism-moral/#Rel)
+ 
 
 ---
 

@@ -6,25 +6,7 @@
 
 他哲学著作的一个重要目标是完成马勒布朗奇的项目。诺里斯认为马勒布朗奇没有证明了可理解世界的存在，即上帝的心灵。马勒布朗奇也没有对可理解世界的本质提供一个完整的解释。诺里斯采纳了笛卡尔的思维结构观点，以及马勒布朗奇的思维内容观点。他还详细阐述了笛卡尔的真实区分证明的版本，以削弱洛克的思维物质假设。证明灵魂的存在和不朽是诺里斯的主要关注点。此外，他对狂热者（贵格会教徒）和索契尼派的异端神学观点感到困扰。他利用他所称的“理想哲学”中的“神圣之光”构建了许多反对他们教义的论证。
 
-* [1. 生平和主要作品](https://plato.stanford.edu/entries/john-norris/#LifMaiWor)
-* [ 2. 神](https://plato.stanford.edu/entries/john-norris/#God)
-
-  * [2.1 可理解的世界](https://plato.stanford.edu/entries/john-norris/#IntWor)
-  * [ 2.2 神的简单性](https://plato.stanford.edu/entries/john-norris/#GodSim)
-* [3. 人类知识与创造](https://plato.stanford.edu/entries/john-norris/#HumKnoCre)
-
-  * [3.1 人类思维的结构和内容](https://plato.stanford.edu/entries/john-norris/#StrConHumTho)
-  * [3.2 笛卡尔的真实区分和洛克的思维物质](https://plato.stanford.edu/entries/john-norris/#CarReaDisLocThiMat)
-* [4. 宗教、实践和政治观点](https://plato.stanford.edu/entries/john-norris/#RelPraPolVie)
-* [ 5. 结论性注释](https://plato.stanford.edu/entries/john-norris/#ConNot)
-* [ 参考文献](https://plato.stanford.edu/entries/john-norris/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/john-norris/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/john-norris/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/john-norris/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/john-norris/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/john-norris/#Rel)
-
+ 
 ---
 
 ## 1. 生平与主要作品

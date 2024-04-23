@@ -6,15 +6,7 @@
 
 像其他基本概念一样，必要和充分条件的概念不能轻易用其他术语来明确。本文展示了对“必要”和“充分”这两个术语定义的追求是多么难以捉摸，表明了必要和充分条件概念中存在系统的歧义。它还描述了围绕“如果”这个词及其在条件句中的使用所引发的难题与这个问题之间的联系。
 
-* [1. 哲学和条件](https://plato.stanford.edu/entries/necessary-sufficient/#PhilCond)
-* [2. 标准理论：真值函数和互惠性](https://plato.stanford.edu/entries/necessary-sufficient/#StanTheoTrutFuncReci)
-* [3. 标准理论的问题](https://plato.stanford.edu/entries/necessary-sufficient/#ProbForStanTheo)
-* [4. 推理、思考原因和为何原因](https://plato.stanford.edu/entries/necessary-sufficient/#InfeReasForThinReasWhy)
-* [ 5. 结论](https://plato.stanford.edu/entries/necessary-sufficient/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/necessary-sufficient/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/necessary-sufficient/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/necessary-sufficient/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/necessary-sufficient/#Rel)
+ 
 
 ---
 

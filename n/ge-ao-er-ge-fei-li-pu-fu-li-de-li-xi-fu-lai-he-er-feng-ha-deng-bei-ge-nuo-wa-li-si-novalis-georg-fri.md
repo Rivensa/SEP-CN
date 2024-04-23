@@ -6,19 +6,7 @@
 
 尽管冯·哈登贝格（1772-1801）在 28 岁时去世，但他留下了一个复杂的哲学遗产，涵盖了主体性和自我意识的讨论、认识论问题、道德理论、政治哲学、解释问题、历史哲学、宗教哲学、人类生命的原始存在主义体验，以及对美学和艺术哲学的重要贡献。虽然冯·哈登贝格以他的文学作品而闻名，包括散文诗《夜之赞美诗》（1800 年）和未完成的小说《赛义德的学徒》和《奥夫特丁根的海因里希》（均于 1802 年出版），但本概述侧重于冯·哈登贝格哲学作品的论证前提和系统意义（并不意味着他的哲学应被视为与他的诗歌创作完全分离）。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/novalis/#LifWor)
-* [2. 哲学形式中的片段](https://plato.stanford.edu/entries/novalis/#FraPhiFor)
-* [3. 哲学、百科全书和转向经验科学](https://plato.stanford.edu/entries/novalis/#EncTurEmpSci)
-* [4. 批判、反思、主体性](https://plato.stanford.edu/entries/novalis/#CriRefSub)
-* [5. 哲学的 Bildung 和历史](https://plato.stanford.edu/entries/novalis/#BilHis)
-* [6. 艺术，美学和诗学](https://plato.stanford.edu/entries/novalis/#ArtAesPoe)
-* [ 7. 政治思想](https://plato.stanford.edu/entries/novalis/#PolTho)
-* [8. 诺瓦利斯的哲学遗产](https://plato.stanford.edu/entries/novalis/#NovPhiLeg)
-* [ 参考书目](https://plato.stanford.edu/entries/novalis/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/novalis/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/novalis/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/novalis/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

@@ -6,36 +6,7 @@
 
 在概述了一些对新自由主义的不充分描述之后，本文批判性地讨论了新自由主义对自由主义、资本主义、民主和福利国家的态度，并以对常见批评的讨论结束。
 
-* [1. 阐释一个具有挑战性的术语](https://plato.stanford.edu/entries/neoliberalism/#ExplChalTerm)
-* [2. 不充分的描述](https://plato.stanford.edu/entries/neoliberalism/#InadDesc)
-
-  * [2.1 新自由主义作为精神风貌](https://plato.stanford.edu/entries/neoliberalism/#NeolEtho)
-  * [2.2 新自由主义作为功利主义内的一种思想流派](https://plato.stanford.edu/entries/neoliberalism/#NeolSchoThouWithUtil)
-  * [2.3 新自由主义作为古典自由主义](https://plato.stanford.edu/entries/neoliberalism/#NeolLibe)
-  * [2.4 新自由主义作为理想理论](https://plato.stanford.edu/entries/neoliberalism/#NeolIdeaTheo)
-* [ 3. 自由主义](https://plato.stanford.edu/entries/neoliberalism/#Libe)
-* [ 4. 资本主义](https://plato.stanford.edu/entries/neoliberalism/#Capi)
-* [ 5. 民主](https://plato.stanford.edu/entries/neoliberalism/#Demo)
-* [6. 福利国家](https://plato.stanford.edu/entries/neoliberalism/#WelfStat)
-* [7. 新自由主义的批评](https://plato.stanford.edu/entries/neoliberalism/#CritNeol)
-
-  * [ 7.1 道德批评](https://plato.stanford.edu/entries/neoliberalism/#EthoCrit)
-  * [ 7.2 不平等](https://plato.stanford.edu/entries/neoliberalism/#Ineq)
-  * [7.3 破坏民主](https://plato.stanford.edu/entries/neoliberalism/#UndeDemo)
-  * [7.4 经济非理性](https://plato.stanford.edu/entries/neoliberalism/#EconIrra)
-  * [ 7.5 凯恩斯主义反驳](https://plato.stanford.edu/entries/neoliberalism/#KeynRebu)
-  * [7.6 滴灌经济学](https://plato.stanford.edu/entries/neoliberalism/#TricDownEcon)
-  * [7.7 自由主义批评](https://plato.stanford.edu/entries/neoliberalism/#LibeCrit)
-  * [7.8 殖民主义批评](https://plato.stanford.edu/entries/neoliberalism/#ColoCrit)
-  * [7.9 民粹主义/民族主义批评](https://plato.stanford.edu/entries/neoliberalism/#PopuCrit)
-  * [7.10 女权主义批评](https://plato.stanford.edu/entries/neoliberalism/#FemiCrit)
-  * [7.11 剩余批评](https://plato.stanford.edu/entries/neoliberalism/#RemaCrit)
-* [ 8. 总结](https://plato.stanford.edu/entries/neoliberalism/#Summ)
-* [ 参考文献](https://plato.stanford.edu/entries/neoliberalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/neoliberalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/neoliberalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/neoliberalism/#Rel)
-
+ 
 ---
 
 ## 1. 解释一个具有挑战性的术语

@@ -7,33 +7,7 @@
 对于不存在的对象的概念存在疑问的原因之一是：为了能够真实地说一个对象不存在，似乎必须预设它存在，因为如果我们要对它做出真实的断言，那么这个东西不是必须存在吗？面对这个令人困惑的情况，当接受或阐述存在不存在的对象的想法时，必须非常谨慎。事实证明，康德认为“存在”不是一个“真实”的谓词，弗雷格认为“存在”不是个体的谓词（即，如果在它前面放一个特指术语，就会得到一个良好形成的句子），如果要接受存在不存在的对象的说法，这些观点必须被放弃。
 
 本文对存在不存在的对象的观点引发的许多问题进行了考察。以下问题尤为突出：有没有（如果有的话）认为存在不存在的对象的理由？如果存在不存在的对象，那么它们是什么样的对象？它们如何被描述？是否可能提供一个一致的不存在的对象的理论？一致的不存在的对象的理论有什么解释力（如果这种理论可能存在）？
-
-* [1. 非存在对象的概念](https://plato.stanford.edu/entries/nonexistent-objects/#ConcNoneObje)
-
-  * [1.1 非存在对象的逻辑](https://plato.stanford.edu/entries/nonexistent-objects/#LogiNoneObje)
-* [2. 历史根源：亚历克修斯·迈农和关于意向性的问题](https://plato.stanford.edu/entries/nonexistent-objects/#HistRootAlexMeinProbInte)
-* [3. 对非存在对象的信念的进一步动机](https://plato.stanford.edu/entries/nonexistent-objects/#FurtMotiForBeliNoneObje)
-
-  * [3.1 负面单一存在陈述的问题](https://plato.stanford.edu/entries/nonexistent-objects/#ProbNegaSingExisStat)
-  * [3.2 虚构话语的问题](https://plato.stanford.edu/entries/nonexistent-objects/#ProbFictDisc)
-  * [3.3 对过去和未来的言论问题](https://plato.stanford.edu/entries/nonexistent-objects/#ProbDiscAbouPastFutu)
-  * [3.4 像“圆方是方”的所谓分析真理问题](https://plato.stanford.edu/entries/nonexistent-objects/#ProbAlleAnalTrutLikeRounSquaSqua)
-  * [3.5 实践哲学中的非存在对象问题](https://plato.stanford.edu/entries/nonexistent-objects/#NoneObjePracPhil)
-* [4. 对非存在对象的信念的问题](https://plato.stanford.edu/entries/nonexistent-objects/#ProbBeliNoneObje)
-* [5. 对非存在对象的当代理论：从非存在到抽象性](https://plato.stanford.edu/entries/nonexistent-objects/#ContTheoNoneObjeNoneAbst)
-
-  * [5.1 非存在对象的去本体化策略](https://plato.stanford.edu/entries/nonexistent-objects/#DeOntoStra)
-  * [5.2 虚构主义和冷漠主义](https://plato.stanford.edu/entries/nonexistent-objects/#FictIndi)
-  * [5.3 其他世界策略](https://plato.stanford.edu/entries/nonexistent-objects/#OtheWorlStra)
-  * [5.4 核心和外核属性](https://plato.stanford.edu/entries/nonexistent-objects/#NuclExtrProp)
-  * [5.5 双重连词策略](https://plato.stanford.edu/entries/nonexistent-objects/#DualCopuStra)
-  * [5.6 非存在并非关键](https://plato.stanford.edu/entries/nonexistent-objects/#NoneDoesNotHoldKey)
-* [6. 进一步研究的主题](https://plato.stanford.edu/entries/nonexistent-objects/#ThemForFurtInve)
-* [ 参考文献](https://plato.stanford.edu/entries/nonexistent-objects/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/nonexistent-objects/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nonexistent-objects/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nonexistent-objects/#Rel)
-
+ 
 ---
 
 ## 1. 非存在对象的概念

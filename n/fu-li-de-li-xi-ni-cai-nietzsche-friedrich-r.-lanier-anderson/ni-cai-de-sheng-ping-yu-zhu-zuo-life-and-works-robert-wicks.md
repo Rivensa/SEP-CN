@@ -4,18 +4,7 @@ _首次发表于1997年5月30日，实质性修订于2021年9月10日。_
 
 弗里德里希·尼采（1844-1900）是 19 世纪末的德国哲学家，挑战了基督教和传统道德的基础。他对个体和文化健康的提升感兴趣，并相信生命、创造力、力量和现实，而不是那些存在于超越世界中的东西。他的哲学核心思想是“肯定生命”，这涉及对所有耗尽生命广阔能量的教条进行诚实的质疑，无论这些观点在社会上有多么普遍和道德上根深蒂固。尼采通常被称为与苏伦·基尔凯郭尔（1813-1855）一起被认为是最早的存在主义哲学家之一，他的复兴哲学启发了文化生活的各个领域的重要人物，包括舞者、诗人、小说家、画家、心理学家、哲学家、社会学家和社会革命家。
 
-* [1. 生平：1844-1900](https://plato.stanford.edu/entries/nietzsche-life-works/#Life1844)
-* [2. 早期著作：1872-1876](https://plato.stanford.edu/entries/nietzsche-life-works/#EarlWrit1872)
-* [3. 中期著作：1878 年-1882 年](https://plato.stanford.edu/entries/nietzsche-life-works/#MiddPeriWrit1878)
-* [4. 后期著作：1883 年-1887 年](https://plato.stanford.edu/entries/nietzsche-life-works/#LatePeriWrit1883)
-* [5. 1888 年的最后著作](https://plato.stanford.edu/entries/nietzsche-life-works/#FinaWrit1888)
-* [6. 弗里德里希·尼采的未发表笔记](https://plato.stanford.edu/entries/nietzsche-life-works/#NietUnpuNote)
-* [7. 弗里德里希·尼采对 20 世纪思想的影响](https://plato.stanford.edu/entries/nietzsche-life-works/#NietInflUpon20thCentThou)
-* [参考文献](https://plato.stanford.edu/entries/nietzsche-life-works/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/nietzsche-life-works/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nietzsche-life-works/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/nietzsche-life-works/#Rel)
-
+ 
 ***
 
 ## 1. 生活：1844 年-1900 年

@@ -7,20 +7,7 @@
 > 法律的存在是一回事，其优点和缺点是另一回事。它是否存在是一个问题；它是否符合某种假设标准是另一个问题。（1832 [1995: 157]）
 
 实证主义并不是说法律的优点是不可理解、不重要或与法律哲学无关的。它说的是法律的存在并不取决于其优点。一个社会是否拥有法律体系取决于其治理结构的存在，而不取决于其是否符合正义、民主或法治的理想。在该体系中，哪些法律有效取决于其官员认可为权威的社会标准，例如立法法令、司法决定或社会习俗。一个政策是否公正、明智、高效或谨慎从来不足以成为它实际上是法律的理由，而它是否不公正、不明智、低效或轻率从来不足以怀疑它。根据实证主义，法律是已被提出的事项（命令、决定、实践、容忍等）。奥斯汀认为这个观点“简单而明显”。虽然它可能是分析倾向的法学哲学家中占主导地位的观点，但它也是竞争性解释的对象，同时也受到持续的批评和误解的影响。
-
-* [1. 发展和影响](https://plato.stanford.edu/entries/legal-positivism/#DeveInfl)
-* [2. 法律的存在和来源](https://plato.stanford.edu/entries/legal-positivism/#ExisSourLaw)
-* [3. 道德原则和法律的界限](https://plato.stanford.edu/entries/legal-positivism/#MoraPrinBounLaw)
-* [4. 法律及其优点](https://plato.stanford.edu/entries/legal-positivism/#LawMeri)
-
-  * [4.1 可犯错误的命题](https://plato.stanford.edu/entries/legal-positivism/#FallThes)
-  * [4.2 可分离的命题](https://plato.stanford.edu/entries/legal-positivism/#SepaThes)
-  * [4.3 中立论题](https://plato.stanford.edu/entries/legal-positivism/#NeutThes)
-* [ 参考文献](https://plato.stanford.edu/entries/legal-positivism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/legal-positivism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/legal-positivism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/legal-positivism/#Rel)
-
+ 
 ---
 
 ## 1. 发展和影响

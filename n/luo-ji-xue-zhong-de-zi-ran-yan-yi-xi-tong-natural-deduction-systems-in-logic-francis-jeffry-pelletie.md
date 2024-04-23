@@ -4,32 +4,7 @@
 
 “自然演绎系统”最初由 Gentzen（1934）和 Jaśkowski（1934）描述的一种逻辑系统。它还指代了这些逻辑系统所体现的推理类型。自然演绎的一个基本部分，也是（根据大多数关于该主题的作者）使其与其他证明方法有所区别的部分，是“子证明”的概念——证明的一部分，其中论证依赖于临时前提（“为了论证而假设的假设”）。在 Fitch-Jaśkowski 的自然演绎展示中，子证明以一种使它们在书面证明中立即可见的方式标记出来；而在其他展示中，需要更多的工作来挑选出形成子证明的公式。尽管形式主义有所不同，但一个基本思想是，一个人能够“假设 A 并看到它导致结论 X”，然后得出结论，如果 A 为真，则 X 也为真。（我们还讨论了其他各种类型的子证明。）这一领域的研究集中在诸如以下问题上：（a）所有自然演绎证明都可以放入某种“正常形式”吗？（b）不同的逻辑系统是否需要根本不同类型的逻辑规则？（c）如果不同的逻辑需要根本不同类型的逻辑规则，这是否表明某些逻辑在某种意义上比其他逻辑“更好”？（d）可以利用可能使某些逻辑比其他逻辑“更好”的特征来表征自然语言中逻辑术语（以及其他术语）的含义吗？
 
-* [ 1. 引言](https://plato.stanford.edu/entries/natural-deduction/#Intr)
-* [2. 自然演绎系统](https://plato.stanford.edu/entries/natural-deduction/#NatuDeduSyst)
-
-  * [2.1 Gentzen and Jaśkowski](https://plato.stanford.edu/entries/natural-deduction/#GentJask)
-  * [2.2 Jaśkowski 方法的现代版本](https://plato.stanford.edu/entries/natural-deduction/#ModeVersJaskMeth)
-* [3. 自然演绎系统和量词](https://plato.stanford.edu/entries/natural-deduction/#NatuDeduQuan)
-
-  * [ 3.1 量词基础](https://plato.stanford.edu/entries/natural-deduction/#QuanBasi)
-  * [3.2 关于∀-概括和∃-实例化的问题](https://plato.stanford.edu/entries/natural-deduction/#IssuForaGeneExisInst)
-* [4. 演绎推理和自然演绎系统](https://plato.stanford.edu/entries/natural-deduction/#SequCalcSequNatuDedu)
-* [ 5. 规范化](https://plato.stanford.edu/entries/natural-deduction/#Norm)
-
-  * [5.1 直觉逻辑的规范化](https://plato.stanford.edu/entries/natural-deduction/#NormIntuLogi)
-  * [5.2 规范化的证明](https://plato.stanford.edu/entries/natural-deduction/#ProoNorm)
-  * [5.3 一种变体逻辑](https://plato.stanford.edu/entries/natural-deduction/#VariLogi)
-  * [5.4 古典逻辑中的归一化](https://plato.stanford.edu/entries/natural-deduction/#NormClasLogi)
-* [6. 自然演绎系统对于模态和其他逻辑的应用](https://plato.stanford.edu/entries/natural-deduction/#NatuDeduSystForModaOtheLogi)
-* [7. 自然演绎系统和一些可能的哲学后果](https://plato.stanford.edu/entries/natural-deduction/#IntESomePossPhilCons)
-
-  * [7.1 自然演绎系统作为逻辑学的正确观点](https://plato.stanford.edu/entries/natural-deduction/#IntECorrViewLogi)
-  * [7.2 逻辑学与语言和形而上学的关系](https://plato.stanford.edu/entries/natural-deduction/#LogiPhilLangMeta)
-* [ 参考文献](https://plato.stanford.edu/entries/natural-deduction/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/natural-deduction/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/natural-deduction/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/natural-deduction/#Rel)
-
+ 
 ---
 
 ## 1. 引言

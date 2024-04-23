@@ -15,30 +15,7 @@
 
 在本文中，我们首先将介绍定义和分类的概念问题（第 1 和第 2 节），然后介绍辩论中提出的论点（第 3 节），在支持民族主义的论点上给予更多的空间，以便给予哲学民族主义者适当的听证。在最后一部分中，我们将转向新的政治格局，并勾勒出民族主义和跨国主义民粹主义以及移民危机引发的新问题。
 
-* [1. 什么是民族？](https://plato.stanford.edu/entries/nationalism/#WhatNati)
-
-  * [1.1 民族主义的基本概念](https://plato.stanford.edu/entries/nationalism/#BasiConcNati)
-  * [1.2 民族的概念](https://plato.stanford.edu/entries/nationalism/#ConcNati)
-* [2. 民族主义的种类](https://plato.stanford.edu/entries/nationalism/#VariNati)
-
-  * [2.1 民族主义的概念：古典和自由主义](https://plato.stanford.edu/entries/nationalism/#ConcNatiClasLibe)
-  * [2.2 道德主张，古典与自由主义：国家的核心性](https://plato.stanford.edu/entries/nationalism/#MoraClaiClasVsLibeCentNati)
-* [3. 道德辩论](https://plato.stanford.edu/entries/nationalism/#MoraDeba)
-
-  * [3.1 古典和自由民族主义](https://plato.stanford.edu/entries/nationalism/#ClasLibeNati)
-  * [3.2 支持民族主义的论点，古典 vs 自由：对社区的深切需求](https://plato.stanford.edu/entries/nationalism/#ArguFavoNatiClasVsLibeDeepNeedForComm)
-  * [3.3 支持民族主义的论点：正义问题](https://plato.stanford.edu/entries/nationalism/#ArguFavoNatiIssuJust)
-  * [3.4 民粹主义和民族主义的新面貌](https://plato.stanford.edu/entries/nationalism/#PopuNewFaceNati)
-  * [3.5 民族/国家在全球背景下](https://plato.stanford.edu/entries/nationalism/#NatiStatGlobCont)
-* [ 4. 结论](https://plato.stanford.edu/entries/nationalism/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/nationalism/#Bib)
-
-  * [ 引言](https://plato.stanford.edu/entries/nationalism/#Intr)
-  * [ 参考资料](https://plato.stanford.edu/entries/nationalism/#Refe)
-* [ 学术工具](https://plato.stanford.edu/entries/nationalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nationalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nationalism/#Rel)
-
+ 
 ---
 
 ## 1. 什么是民族？

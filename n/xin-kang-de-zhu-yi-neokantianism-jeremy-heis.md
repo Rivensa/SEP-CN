@@ -8,27 +8,7 @@
 
 这篇文章分为三个部分。在概述新康德主义者的共同特点之后，第二部分专门讨论马尔堡学派，第三部分则讨论西南学派。新康德主义者是系统性和全面性的哲学家，几乎涉及哲学的各个领域。本文不打算涵盖他们思想的所有领域，而是专注于他们思想中最核心、对他们的同时代人和后继者最有影响力的领域。因此，每个部分都以各个学派对哲学的理解开始（第 2.1 节和第 3.1 节），然后转向他们的认识论（第 2.2 节和第 3.2 节），最后以每个学派最具特色的特殊科学哲学结束（第 2.3 节讨论马尔堡物理学哲学，第 3.3 节讨论西南历史学哲学）。（三个附加文件涵盖了马尔堡学派的逻辑学、心理学和数学哲学。）
 
-* [1. 新康德主义者的共同特点](https://plato.stanford.edu/entries/neo-kantianism/#CommFeatNeoKant)
-* [2. 马尔堡学派](https://plato.stanford.edu/entries/neo-kantianism/#MarbScho)
-
-  * [2.1 哲学的概念：超越论方法](https://plato.stanford.edu/entries/neo-kantianism/#ConcPhilTranMeth)
-  * [2.2 知识论](https://plato.stanford.edu/entries/neo-kantianism/#TheoKnow)
-  * [2.3 自然科学哲学](https://plato.stanford.edu/entries/neo-kantianism/#PhilNatuScie)
-* [3. 西南学派](https://plato.stanford.edu/entries/neo-kantianism/#SoutScho)
-
-  * [3.1 哲学观念：哲学作为价值理论](https://plato.stanford.edu/entries/neo-kantianism/#ConcPhilPhilTheoValu)
-  * [3.2 知识理论](https://plato.stanford.edu/entries/neo-kantianism/#TheoKnow_1)
-  * [3.3 历史科学哲学](https://plato.stanford.edu/entries/neo-kantianism/#PhilHistScie)
-* [ 参考书目](https://plato.stanford.edu/entries/neo-kantianism/#Bib)
-
-  * [ 新康德主义著作](https://plato.stanford.edu/entries/neo-kantianism/#WorkNeoKant)
-  * [ 其他主要来源](https://plato.stanford.edu/entries/neo-kantianism/#OthePrimSour)
-  * [ 引用的次要来源](https://plato.stanford.edu/entries/neo-kantianism/#SecoSourCite)
-  * [选定的次要来源](https://plato.stanford.edu/entries/neo-kantianism/#SeleSecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/neo-kantianism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/neo-kantianism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/neo-kantianism/#Rel)
-
+ 
 ---
 
 ## 1. 新康德主义的共同特点

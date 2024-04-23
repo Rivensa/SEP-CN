@@ -10,22 +10,7 @@
 
 新柏拉图主义与斯多亚派和赫密斯主义（一个在新柏拉图主义兴起之前的埃及宗教思想家的有影响力的群体）共享的第二个假设是，现实在认知和物质表现的各个方面都依赖于一个最高的、统一而独特的原则。新柏拉图主义哲学是一种严格的原则唯一论形式，力求以一个被认为是神圣的单一原因来理解一切，并不加区分地称之为“第一”，“唯一”或“善”。由于可以合理地假设，正如新柏拉图主义者所做的那样，任何有效原因都在本体上优先于其效果，因此，在存在的等级中，第一原则，无论是什么，都不能比它所要解释的现象“更不真实”。鉴于第一个假设的真实性（智力和意识的本体优先性），我们立即得出结论，第一原则必须是一个意识原则。因此，所有新柏拉图主义者努力应对的根本挑战实质上是：我们如何理解和描述宇宙的出现，以及它所有多样的现象，作为一个意识的单一原则的效果？特别是在这一点上，新柏拉图主义与现代宇宙学共享某些关注：如何理解物质宇宙是如何从一个在各个方面都不同于这个宇宙的奇点中出现的？他们对这个问题的回答是全新的，并且在优雅和复杂性上远远超越了任何先前的宇宙起源论，包括柏拉图的《提摩伊》。
 
-* [1. 历史定位：古代](https://plato.stanford.edu/entries/neoplatonism/#HisOriAnt)
-* [ 2. 唯一原则](https://plato.stanford.edu/entries/neoplatonism/#One)
-* [3. 绝对意识](https://plato.stanford.edu/entries/neoplatonism/#AbsCon)
-* [4. 灵魂与自然](https://plato.stanford.edu/entries/neoplatonism/#SouNat)
-* [ 5. 物质](https://plato.stanford.edu/entries/neoplatonism/#Mat)
-* [ 6. 伦理学](https://plato.stanford.edu/entries/neoplatonism/#Eth)
-* [7. 古代后期发展](https://plato.stanford.edu/entries/neoplatonism/#LatDevAnt)
-* [ 8. 影响](https://plato.stanford.edu/entries/neoplatonism/#Inf)
-* [ 参考书目](https://plato.stanford.edu/entries/neoplatonism/#Bib)
-
-  * [晚期古代新柏拉图主义作品的必读文献](https://plato.stanford.edu/entries/neoplatonism/#EssReaLatAntNeoWor)
-  * [选读入门级次要文献](https://plato.stanford.edu/entries/neoplatonism/#SelIntSecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/neoplatonism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/neoplatonism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/neoplatonism/#Rel)
-
+ 
 ---
 
 ## 1. 历史定位：古代

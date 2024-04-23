@@ -8,30 +8,7 @@
 
 在最近的文献中，牛顿关于空间和时间本体论的论点被称为实体主义，与关系主义相对立。然而，需要强调的是，牛顿并不认为空间和时间是真正的实体（如典范地，身体和心灵），而是作为实在的实体，具有自己的存在方式，这是由上帝的存在所必需的（更具体地说，是由他的无所不在和永恒性所决定的）。
 
-* [1. 概述斯科利姆](https://plato.stanford.edu/entries/newton-stm/#1)
-* [2. 古代的遗产](https://plato.stanford.edu/entries/newton-stm/#2)
-
-  * [ 2.1 虚空](https://plato.stanford.edu/entries/newton-stm/#2.1)
-  * [2.2 亚里士多德的教义](https://plato.stanford.edu/entries/newton-stm/#2.2)
-  * [2.3 十六世纪的创新](https://plato.stanford.edu/entries/newton-stm/#2.3)
-  * [2.4 Charleton and the Seventeenth-Century Revival of Atomism](https://plato.stanford.edu/entries/newton-stm/#2.4)
-* [3. Descartes&apos; Innovation](https://plato.stanford.edu/entries/newton-stm/#3)
-* [4. 艾萨克·牛顿&apos;s Manuscript: De Gravitatione...](https://plato.stanford.edu/entries/newton-stm/#4)
-* [5. 艾萨克·牛顿关于时间、空间、位置和运动的注释的结构](https://plato.stanford.edu/entries/newton-stm/#5)
-
-  * [5.1 绝对时间的论证](https://plato.stanford.edu/entries/newton-stm/#5.1)
-  * [5.2 直接证明绝对空间的论证](https://plato.stanford.edu/entries/newton-stm/#5.2)
-  * [5.3 属性、原因和效果的论证](https://plato.stanford.edu/entries/newton-stm/#5.3)
-  * [5.4 在实践中区分绝对运动和表观运动](https://plato.stanford.edu/entries/newton-stm/#5.4)
-* [6. 理解附录的常见障碍](https://plato.stanford.edu/entries/newton-stm/#6)
-
-  * [6.1 主要的阻碍是什么](https://plato.stanford.edu/entries/newton-stm/#6.1)
-  * [6.2 为什么它们确实是阻碍](https://plato.stanford.edu/entries/newton-stm/#6.2)
-* [ 7. 艾萨克·牛顿的遗产](https://plato.stanford.edu/entries/newton-stm/#7)
-* [ 参考文献](https://plato.stanford.edu/entries/newton-stm/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/newton-stm/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/newton-stm/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/newton-stm/#Rel)
+ 
 
 ---
 

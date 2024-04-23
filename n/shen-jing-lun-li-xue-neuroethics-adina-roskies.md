@@ -4,29 +4,7 @@
 
 神经伦理学是一个跨学科领域，专注于我们对大脑的增加和不断改进的理解以及我们监测和影响大脑的能力所引发的伦理问题。
 
-* [1. 神经伦理学的兴起和范围](https://plato.stanford.edu/entries/neuroethics/#RiseScopNeur)
-* [2. 神经科学的伦理学问题](https://plato.stanford.edu/entries/neuroethics/#EthiNeur)
-
-  * [2.1 神经伦理学的伦理学](https://plato.stanford.edu/entries/neuroethics/#EthiEnha)
-  * [2.1.1 增强的论证](https://plato.stanford.edu/entries/neuroethics/#ArguForEnha)
-  * [2.1.2 反对增强的论证](https://plato.stanford.edu/entries/neuroethics/#ArguAgaiEnha)
-  * [ 2.2 认知自由](https://plato.stanford.edu/entries/neuroethics/#CognLibe)
-  * [ 2.2.1 隐私](https://plato.stanford.edu/entries/neuroethics/#Priv)
-  * [2.2.2 自主权和真实性](https://plato.stanford.edu/entries/neuroethics/#AutoAuth)
-* [2.3 个人身份](https://plato.stanford.edu/entries/neuroethics/#PersIden)
-
-  * [2.4 意识、生命和死亡](https://plato.stanford.edu/entries/neuroethics/#ConsLifeDeat)
-  * [2.5 实践神经伦理学](https://plato.stanford.edu/entries/neuroethics/#PracNeur)
-  * [2.6 神经科学的公众认知](https://plato.stanford.edu/entries/neuroethics/#PublPercNeur)
-  * [2.6.1 诱人的诱惑](https://plato.stanford.edu/entries/neuroethics/#SeduAllu)
-  * [ 2.6.2 媒体炒作](https://plato.stanford.edu/entries/neuroethics/#MediHype)
-  * [2.7 神经科学与正义](https://plato.stanford.edu/entries/neuroethics/#NeurJust)
-* [3. 神经伦理学](https://plato.stanford.edu/entries/neuroethics/#NeurEthi)
-* [4. 展望：新的神经技术](https://plato.stanford.edu/entries/neuroethics/#LookForwNewNeur)
-* [ 参考文献](https://plato.stanford.edu/entries/neuroethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/neuroethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/neuroethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/neuroethics/#Rel)
+ 
 
 ---
 

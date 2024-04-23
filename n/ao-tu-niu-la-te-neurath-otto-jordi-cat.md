@@ -8,24 +8,7 @@
 
 奥图·纽拉特是一位社会科学家和活动家，科学哲学家和维也纳学派的叛逆领袖，他倡导所谓的科学态度和科学统一运动。他否认哲学在科学工作中的任何价值，超越对科学的追求，以及为科学和社会服务。他认为科学结果并不是在逻辑上固定的，也不是建立在经验上的，也不能按照一种知识体系进行排序。不确定性、决策和合作是科学实践的内在特征。从这种自然主义、整体主义和实用主义的观点来看，哲学研究科学的可能性条件，这种可能性在科学本身中显现出来，即在物理、生物、社会学、历史学、心理学、语言学、逻辑学或数学条件方面。他对语言、方法和科学统一的观点始终受到他对个体社会生活及其福祉的兴趣的影响。对社会进行理论化与为社会进行理论化是不可分割的。科学在各个方面都是一项社会和历史性的事业，有助于社会理解过去，探索可能性并规划未来。它既关乎社会目标，也关乎物质对象，既关乎社会实现，也关乎经验现实。客观性和理性作为约束科学思维的认识价值，具有根本的社会性。他在视觉教育方面的贡献——基于图像语言——以及博物馆学、城市规划和政治经济学——特别是关于集体福利、生态经济学和多准则评估的不可避免性——构成了具有重要性、兴趣和紧迫性的具体遗产。这些内容在《政治经济学和视觉教育》的补充中进行了讨论。
 
-* [ 1. 个人简介](https://plato.stanford.edu/entries/neurath/#BioSke)
-* [2. 从经济理论到科学认识论](https://plato.stanford.edu/entries/neurath/#EcoTheSciEpi)
-* [3. 奥图·纽拉特在逻辑经验主义中的地位：物理主义、反基础主义、整体主义、自然主义、外在主义、实用主义](https://plato.stanford.edu/entries/neurath/#NeuPlaLogEmpPhyAntFouHolNatExtPra)
-
-  * [ 3.1 语言](https://plato.stanford.edu/entries/neurath/#Language)
-  * [3.2 语言、逻辑和理性](https://plato.stanford.edu/entries/neurath/#LangLogiRati)
-  * [3.3 科学和语言认识论](https://plato.stanford.edu/entries/neurath/#ScieLingEpis)
-* [4. 科学的统一和百科全书模型](https://plato.stanford.edu/entries/neurath/#UniSciEncMod)
-* [5. 心理学、教育和社会科学的哲学](https://plato.stanford.edu/entries/neurath/#PsyEduSocSci)
-
-  * [5.1 心理学哲学](https://plato.stanford.edu/entries/neurath/#Psy)
-  * [5.2 教育哲学](https://plato.stanford.edu/entries/neurath/#Edu)
-  * [5.3 社会科学哲学](https://plato.stanford.edu/entries/neurath/#SocSci)
-* [ 参考书目](https://plato.stanford.edu/entries/neurath/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/neurath/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/neurath/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/neurath/#Rel)
-
+ 
 ---
 
 ## 1. 传略

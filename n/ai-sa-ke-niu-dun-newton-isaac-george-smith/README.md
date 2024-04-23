@@ -4,19 +4,7 @@ _首次发表于2007年12月19日_
 
 艾萨克·牛顿（1642-1727）以在 1660 年代中后期发明微积分（比莱布尼茨独立发明的时间早了几乎十年，并且最终影响更大）和在他的《自然哲学的数学原理》中提出普遍引力理论而闻名。后者是他最重要的作品，将早期现代自然哲学转变为现代物理科学。然而，他在光学方面也在 1660 年代中期开始并持续了四十年的时间内做出了重大发现；在他 60 年的激烈知识活动中，他在化学和炼金术研究以及神学和圣经研究方面付出的努力不亚于数学和物理学。他的《自然哲学的数学原理》于 1687 年出版后，几乎立即成为英国的主导人物，因此，“牛顿主义”以一种形式或另一种形式在 18 世纪初的英国扎根。然而，他在欧洲的影响力受到了克里斯蒂安·惠更斯和莱布尼茨等重要人物对他的引力理论的强烈反对的阻碍，他们认为该理论在没有牛顿提出引力力量可以作用的接触机制的情况下，涉及到一种遥远的神秘力量。随着引力理论的承诺在 1730 年代末期以及 1740 年代和 1750 年代得到越来越多的证实，牛顿在欧洲也成为一个同样卓越的人物，“牛顿主义”在那里也得到了发展，尽管可能以更谨慎的形式。现在物理教科书所称的“牛顿力学”和“牛顿科学”主要是在 1740 年至 1800 年间在欧洲取得的成果。
 
-* [1. 牛顿的生平](https://plato.stanford.edu/entries/newton/#NewLif)
-  * [1.1 牛顿的早年](https://plato.stanford.edu/entries/newton/#NewEarYea)
-  * [1.2 艾萨克·牛顿在《自然哲学的数学原理》之前在剑桥的岁月](https://plato.stanford.edu/entries/newton/#NewYeaCamPriPri)
-  * [1.3 艾萨克·牛顿在剑桥的最后岁月](https://plato.stanford.edu/entries/newton/#NewFinYeaCam)
-  * [1.4 艾萨克·牛顿在伦敦的岁月和他的最后岁月](https://plato.stanford.edu/entries/newton/#NewYeaLonHisFinYea)
-* [2. 艾萨克·牛顿的工作和影响](https://plato.stanford.edu/entries/newton/#NewWorInf)
-* [参考文献](https://plato.stanford.edu/entries/newton/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/newton/#PriSou)
-  * [二次来源](https://plato.stanford.edu/entries/newton/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/newton/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/newton/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/newton/#Rel)
-
+ 
 ***
 
 ## 1. 艾萨克·牛顿的生活

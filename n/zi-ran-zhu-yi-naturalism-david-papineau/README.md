@@ -14,28 +14,7 @@
 
 当然，自然主义的本体论和方法论承诺在哲学以外的领域也可能具有重要意义。心理学、生物学、社会科学甚至物理学本身的现代历史可以有益地被视为依赖于对自然主义本体论原则和自然主义方法论准则态度的变化。然而，本条目仅关注与哲学相关的自然主义教义。因此，本条目的第一部分，关于本体论自然主义，将专注于通过哲学论证和分析激发的关于现实总体内容的观点。而第二部分，关于方法论自然主义，将专注于与哲学实践相关的方法论辩论，特别是哲学与科学之间的关系。
 
-* [1. 本体论自然主义](https://plato.stanford.edu/entries/naturalism/#OntNat)
-
-  * [1.1 产生因果差异](https://plato.stanford.edu/entries/naturalism/#MakCauDif)
-  * [1.2 现代科学与因果影响](https://plato.stanford.edu/entries/naturalism/#ModSciCauInf)
-  * [1.3 自然主义的兴起](https://plato.stanford.edu/entries/naturalism/#RisPhy)
-  * [1.4 归纳和非归纳的自然主义](https://plato.stanford.edu/entries/naturalism/#RedNonRedPhy)
-  * [1.5 物理主义的向下因果](https://plato.stanford.edu/entries/naturalism/#PhyDowCau)
-  * [1.6 意识属性和封闭论证](https://plato.stanford.edu/entries/naturalism/#ConProCauCloArg)
-  * [ 1.7 道德事实](https://plato.stanford.edu/entries/naturalism/#MorFac)
-  * [ 1.8 数学事实](https://plato.stanford.edu/entries/naturalism/#MatFac)
-* [2. 方法论自然主义](https://plato.stanford.edu/entries/naturalism/#MetNat)
-
-  * [2.1 哲学与科学](https://plato.stanford.edu/entries/naturalism/#Sci)
-  * [2.2 自然主义计划](https://plato.stanford.edu/entries/naturalism/#CanPla)
-  * [2.3 随附/监督的合成先验直觉？](https://plato.stanford.edu/entries/naturalism/#PriSynInt)
-  * [2.4 解释/理论中的直觉角色](https://plato.stanford.edu/entries/naturalism/#RolThoExp)
-  * [2.5 数学、模态和道德知识](https://plato.stanford.edu/entries/naturalism/#MatModMorKno)
-* [ 参考文献](https://plato.stanford.edu/entries/naturalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/naturalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/naturalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/naturalism/#Rel)
-
+ 
 ---
 
 ## 1. 自然主义本体论

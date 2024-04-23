@@ -9,20 +9,7 @@
 
 与他的年轻同代人恩斯特·卡西勒一样，纳托尔普最初专注于解释、辩护和阐述科恩在康德解释、科学理论和哲学史方面的艰深而常常难以理解的工作。[1]纳托尔普在 19 世纪末的最后几十年里，除了发表重要的当代系统哲学著作（1887 年，1888 年），还致力于填补科恩更大框架中的历史要素。他特别运用自己在希腊思想方面的专业知识，研究“批判性”科学哲学的古代预期，并分析其自然发展。后来，在战前和战间期德国混乱的社会、政治和文化环境中，特别是在科恩于 1918 年去世后，纳托尔普偏离了马尔堡学派对精确科学逻辑的关注。这种偏离不是他基本哲学观点的转变，而是新主题的发声，其中一些是马尔堡学派本土的，另一些则是与其他哲学家的对话中产生的。受马尔堡学派最终目标——全球文化理论中的自由社会主义理想[2]的推动，纳托尔普广泛撰写了关于伦理学、政治学和社会教育学的著作[4]。另一方面，人们还必须将纳托尔普的后期思想（尤其是他的“本体论转向”；冯·沃尔佐根，1988 年；布拉赫，1996 年）解释为他与其他哲学挑战新康德主义在德国学院的主导地位的对话，特别是所谓的“生活哲学”以及胡塞尔和海德格尔的现象学[5]。
 
-* [1. 纳托尔普和马尔堡新康德主义](https://plato.stanford.edu/entries/natorp/#NatoMarbNeoKant)
-* [2. 科学哲学中的先验方法](https://plato.stanford.edu/entries/natorp/#TranMethScie)
-* [3. 方法和假设](https://plato.stanford.edu/entries/natorp/#MethHypo)
-* [ 4. 思考](https://plato.stanford.edu/entries/natorp/#Thin)
-* [5. &apos;批判&apos;心理学](https://plato.stanford.edu/entries/natorp/#CritPsyc)
-* [6. 哲学史](https://plato.stanford.edu/entries/natorp/#Hist)
-* [ 参考书目](https://plato.stanford.edu/entries/natorp/#Bib)
-
-  * [ 保罗·纳托尔普的著作](https://plato.stanford.edu/entries/natorp/#WorkNato)
-  * [ 二级来源](https://plato.stanford.edu/entries/natorp/#SecoSour)
-  * [ 相关作品](https://plato.stanford.edu/entries/natorp/#RelaWork)
-* [ 学术工具](https://plato.stanford.edu/entries/natorp/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/natorp/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/natorp/#Rel)
+ 
 
 ---
 

@@ -4,35 +4,7 @@
 
 罗伯特·诺齐克（1938-2002）是一位著名的美国哲学家，通过他 1974 年的著作《无政府、国家与乌托邦》（1974）首次广为人知，该书获得了 1975 年的国家哲学与宗教图书奖。在进一步强调约翰·罗尔斯《正义论》中的反后果主义方面，诺齐克认为尊重个体权利是评估国家行动的关键标准，因此，唯一合法的国家是一种最小化的国家，其活动仅限于保护生命、自由、财产和契约权利。尽管他在许多其他哲学领域的工作备受赞誉，但诺齐克因在《无政府、国家与乌托邦》中提出的古典自由主义学说而闻名于世。
 
-* [1. 诺齐克的生平与时代](https://plato.stanford.edu/entries/nozick-political/#NozLifTim)
-* [2. 道德权利和限制条件](https://plato.stanford.edu/entries/nozick-political/#MorRigSidCon)
-
-  * [2.1 自然状态下的权利](https://plato.stanford.edu/entries/nozick-political/#StaNatRig)
-  * [2.2 权利的基础](https://plato.stanford.edu/entries/nozick-political/#FouRig)
-  * [2.3 权利作为约束条件](https://plato.stanford.edu/entries/nozick-political/#RigSidCon)
-  * [2.4 权利的减弱](https://plato.stanford.edu/entries/nozick-political/#AttRig)
-* [3. 极小国家与个人主义无政府主义](https://plato.stanford.edu/entries/nozick-political/#MinStaVerIndAna)
-
-  * [3.1 个人主义无政府主义的挑战](https://plato.stanford.edu/entries/nozick-political/#ChaIndAna)
-  * [3.2 对无政府主义挑战的回应](https://plato.stanford.edu/entries/nozick-political/#ResAnaCha)
-  * [3.3 关于最小国家的进一步观察](https://plato.stanford.edu/entries/nozick-political/#FurObsAboMinSta)
-* [4. 持有权中的正义](https://plato.stanford.edu/entries/nozick-political/#JusHol)
-
-  * [4.1 关于持有物正义的历史权益原则](https://plato.stanford.edu/entries/nozick-political/#HisEntDocAboJusHol)
-  * [4.2 对最终状态和模式原则的批判](https://plato.stanford.edu/entries/nozick-political/#CriEndStaPatPri)
-  * [4.3 诺齐克的洛克原则](https://plato.stanford.edu/entries/nozick-political/#NozLocPro)
-  * [4.4 历史不公正的纠正](https://plato.stanford.edu/entries/nozick-political/#RecHisInj)
-* [ 5. 乌托邦](https://plato.stanford.edu/entries/nozick-political/#Uto)
-
-  * [5.1 框架作为发现过程](https://plato.stanford.edu/entries/nozick-political/#FraDisPro)
-  * [5.2 一个独立的通往最小国家的途径](https://plato.stanford.edu/entries/nozick-political/#IndRouMinSta)
-* [ 参考文献](https://plato.stanford.edu/entries/nozick-political/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/nozick-political/#PriLit)
-  * [ 二手文献](https://plato.stanford.edu/entries/nozick-political/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/nozick-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nozick-political/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nozick-political/#Rel)
+ 
 
 ---
 

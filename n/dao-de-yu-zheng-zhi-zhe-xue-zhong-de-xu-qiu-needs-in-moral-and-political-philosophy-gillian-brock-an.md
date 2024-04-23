@@ -16,32 +16,7 @@
 
 在我们的最后一节中，我们确定了一些关于需求的关注如何延伸到一些当代辩论的方式，比如关于正义的范围和内容的辩论。例如，那些不接近的他人的需求（无论是地理上还是时间上）对国家内公平分配施加了什么限制？我们注意到在这本百科全书的其他几篇文章中更详细地讨论了这些问题。
 
-* [1. 需求的规范性](https://plato.stanford.edu/entries/needs/#NormNeed)
-
-  * [1.1 需求主张总是省略的吗？](https://plato.stanford.edu/entries/needs/#NeedClaiAlwaElli)
-  * [1.2 需求和道德义务](https://plato.stanford.edu/entries/needs/#NeedMoraObli)
-  * [1.3 关系的重要性](https://plato.stanford.edu/entries/needs/#SignRela)
-* [2. 对需求的怀疑和常见应对策略](https://plato.stanford.edu/entries/needs/#SkepAbouNeedCommRespStra)
-
-  * [2.1 非充分客观性](https://plato.stanford.edu/entries/needs/#InsuObje)
-  * [2.2 根据需求分配的不可取性](https://plato.stanford.edu/entries/needs/#UndeDistAccoNeed)
-  * [2.3 应对此类怀疑的常见策略](https://plato.stanford.edu/entries/needs/#CommStraForRespSuchSkep)
-* [3. 一些对规范上显著需求的有影响力的解释](https://plato.stanford.edu/entries/needs/#SomeInflAccoNormSaliNeed)
-* [4. 最近的分配正义理论中的需求](https://plato.stanford.edu/entries/needs/#NeedReceTheoDistJust)
-* [5. 根据需求进行分配](https://plato.stanford.edu/entries/needs/#DistAccoNeed)
-
-  * [5.1 比例原则](https://plato.stanford.edu/entries/needs/#PropPrin)
-  * [ 5.2 平等化结果](https://plato.stanford.edu/entries/needs/#EquaOutc)
-  * [5.3 最小化需求](https://plato.stanford.edu/entries/needs/#MiniNeed)
-  * [5.4 加权优先原则](https://plato.stanford.edu/entries/needs/#WeigPrioPrin)
-  * [5.5 有效性原则](https://plato.stanford.edu/entries/needs/#EffePrin)
-* [6. 需求和能力](https://plato.stanford.edu/entries/needs/#NeedCapa)
-* [7. 如何在其他一些重要的辩论中涵盖对需求的关注](https://plato.stanford.edu/entries/needs/#HowConcNeedCoveSomeOthePromDeba)
-* [ 参考文献](https://plato.stanford.edu/entries/needs/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/needs/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/needs/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/needs/#Rel)
-
+ 
 ---
 
 ## 1. 需求的规范性

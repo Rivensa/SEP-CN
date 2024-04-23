@@ -6,20 +6,7 @@ _首次发表于2010年5月24日星期一；实质性修订于2023年1月24日�
 
 “黑人性”或黑人民族的自我肯定，或者将某种被定义为“黑人世界”的文明价值观作为对“在这个白人世界中，我们是什么？”这个问题的回答，确实是“相当大的问题”：通过以下标题，将对这些问题进行探讨：
 
-* [1. 概念的起源](https://plato.stanford.edu/entries/negritude/#GenCon)
-* [2. 黑人性作为反抗/黑人性作为哲学](https://plato.stanford.edu/entries/negritude/#NegRevNeg)
-* [3. 黑人性宣言](https://plato.stanford.edu/entries/negritude/#ManForNeg)
-* [4. 欧瑞狄刻的不可逃避的消失](https://plato.stanford.edu/entries/negritude/#IneDisEur)
-* [5. 黑人性作为本体论](https://plato.stanford.edu/entries/negritude/#NegOnt)
-* [6. 黑人性作为美学](https://plato.stanford.edu/entries/negritude/#NegAes)
-* [7. 黑人性作为认识论](https://plato.stanford.edu/entries/negritude/#NegEpi)
-* [8. 黑人性作为政治](https://plato.stanford.edu/entries/negritude/#NegPol)
-* [9. 黑人性超越黑人性](https://plato.stanford.edu/entries/negritude/#NegBeyNeg)
-* [参考文献](https://plato.stanford.edu/entries/negritude/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/negritude/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/negritude/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/negritude/#Rel)
-
+ 
 ***
 
 ## 1. 概念的起源

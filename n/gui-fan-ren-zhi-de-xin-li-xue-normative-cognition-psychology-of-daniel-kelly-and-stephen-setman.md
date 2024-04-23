@@ -9,21 +9,7 @@
 
 通过组织方式，该条目从基础开始，逐渐增加复杂性和细节的层次。采用认知进化方法研究规范的研究人员来自各个学科领域，并对许多不同问题的立场进行了制定、探索和辩论。为了呈现这些相互关联的文献的可理解概述，该条目首先概述了主要轮廓和核心原则，即不同理论和主张共同的概念空间中的关键地标。然后，它提供了对研究人员所使用的理论资源类型的更详细描述，并确定了心理规范更具体解释/理论在重要维度上的差异。接下来，它调查了已经开始阐明规范能力的其他哲学上有趣特征的不同经验证据来源。最后，它以对规范认知与道德之间关系的讨论结束，并引用了道德理论最近的辩论中的一些例证。
 
-* [1. 一种专注于规范的心理能力](https://plato.stanford.edu/entries/psychology-normative-cognition/#PsycCapaDediNorm)
-
-  * [1.1 背景：进化和最终考虑](https://plato.stanford.edu/entries/psychology-normative-cognition/#BackEvolUltiCons)
-  * [1.2 心理学与近因解释：理论工具和维度](https://plato.stanford.edu/entries/psychology-normative-cognition/#PsycProxExplTheoToolDime)
-* [2. 实证研究](https://plato.stanford.edu/entries/psychology-normative-cognition/#EmpiRese)
-
-  * [2.1 社会学、人类学和文化心理学](https://plato.stanford.edu/entries/psychology-normative-cognition/#SociAnthCultPsyc)
-  * [2.2 行为经济学](https://plato.stanford.edu/entries/psychology-normative-cognition/#BehaEcon)
-  * [2.3 发展心理学和比较心理学](https://plato.stanford.edu/entries/psychology-normative-cognition/#DeveCompPsyc)
-* [3. 规范认知和道德](https://plato.stanford.edu/entries/psychology-normative-cognition/#NormCognMora)
-* [ 参考文献](https://plato.stanford.edu/entries/psychology-normative-cognition/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/psychology-normative-cognition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/psychology-normative-cognition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/psychology-normative-cognition/#Rel)
-
+ 
 ---
 
 ## 1. 一种专注于规范的心理能力

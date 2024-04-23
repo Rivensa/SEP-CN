@@ -4,25 +4,7 @@
 
 弗里德里希·尼采的道德哲学主要是批判性的：他批评道德学因其对人类行动的不可持续的描述性（形而上学和经验主义）主张以及其独特规范和价值对最高类型的人类（尼采的“高人”）繁荣的有害影响。他的积极伦理观最好理解为将（i）一种后果主义完美主义作为尼采隐含的善的理论与（ii）涉及形式和实质要素的人类完美概念相结合。然而，由于尼采对价值的反现实主义态度，他既不认为自己的积极愿景，也不认为依赖于此愿景的他批评的那些方面具有任何特殊的认识论地位，这一事实有助于解释他的修辞和他“深奥”的道德化的谨慎性质。尽管尼采的非自由主义态度（例如，关于人类平等的态度）是显而易见的，但没有理由认为他有一个政治哲学，因为他对国家和社会性质没有系统的（甚至部分系统的）观点。作为一个深奥的道德家，尼采的目标是使高级人类摆脱他们对道德的错误意识（他们错误地认为这种道德对他们有益），而不是对整个社会进行转变。
 
-* [1. 道德批判](https://plato.stanford.edu/entries/nietzsche-moral-political/#CritMora)
-
-  * [1.1 批判的范围：贬义意义上的道德](https://plato.stanford.edu/entries/nietzsche-moral-political/#ScopCritMoraPejoSens)
-  * [1.2 批判 MPS 的描述性组成部分](https://plato.stanford.edu/entries/nietzsche-moral-political/#CritDescCompMPS)
-  * [1.3 批判 MPS 的规范性组成部分](https://plato.stanford.edu/entries/nietzsche-moral-political/#CritNormCompMPS)
-* [2. 弗里德里希·尼采的积极伦理愿景](https://plato.stanford.edu/entries/nietzsche-moral-political/#NietPosiEthiVisi)
-* [3. 弗里德里希·尼采的元伦理学](https://plato.stanford.edu/entries/nietzsche-moral-political/#NietMeta)
-
-  * [ 3.1 特权阅读](https://plato.stanford.edu/entries/nietzsche-moral-political/#PrivRead)
-  * [3.2 弗里德里希·尼采的反实在论](https://plato.stanford.edu/entries/nietzsche-moral-political/#NietAntiReal)
-* [4. 弗里德里希·尼采缺乏政治哲学](https://plato.stanford.edu/entries/nietzsche-moral-political/#NietLackPoliPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/nietzsche-moral-political/#Bib)
-
-  * [A. 弗里德里希·尼采的著作和引文解释/理论](https://plato.stanford.edu/entries/nietzsche-moral-political/#NietWritKeyCita)
-  * [B. 弗里德里希·尼采的道德和政治哲学的参考文献和著作](https://plato.stanford.edu/entries/nietzsche-moral-political/#BRefeWorkNietMoraPoliPhil)
-* [ 学术工具](https://plato.stanford.edu/entries/nietzsche-moral-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nietzsche-moral-political/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nietzsche-moral-political/#Rel)
-
+ 
 ---
 
 ## 1. 道德批判

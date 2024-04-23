@@ -8,27 +8,7 @@
 
 因此，阐明法律有效性的条件并解释法律的规范性是任何关于法律本质的一般理论的两个主要主题。在第 1 节中，我们将解释关于这两个问题的一些主要辩论。在第 2 节中，我们将讨论关于一般法学本质的一些方法论辩论。在过去几个世纪中，关于合法性本质的两个主要哲学传统已经出现。较早的一个可以追溯到中世纪晚期的基督教学者，被称为自然法传统。自 19 世纪初以来，自然法理论受到了杰里米·边沁和约翰·奥斯汀等学者提倡的法律实证主义传统的激烈挑战。法律实证主义的哲学起源要早得多，可能可以追溯到托马斯·霍布斯的政治哲学。这两个传统之间的主要争议涉及法律有效性的条件。基本上，法律实证主义主张，而自然法则否认，法律有效性的条件纯粹是社会事实的问题。与实证主义相反，自然法主张法律有效性的条件不仅仅局限于社会事实；所谓规范的道德内容也影响着它们的法律有效性。正如著名的格言所说，通常被归因于圣奥古斯丁：不公正的法律不是法律。（奥古斯丁，《自由意志论》，I，5；另见阿奎那，《神学大全》，I-II，Q. 96，Art. 4。）
 
-* [1. 法学总论](https://plato.stanford.edu/entries/lawphil-nature/#GenJur)
-
-  * [1.1 法律有效性的条件](https://plato.stanford.edu/entries/lawphil-nature/#ConLegVal)
-  * [1.2 法律的规范性](https://plato.stanford.edu/entries/lawphil-nature/#NorLaw)
-* [2. 法理学的方法论](https://plato.stanford.edu/entries/lawphil-nature/#MetJur)
-
-  * [2.1 法理学理论的目标](https://plato.stanford.edu/entries/lawphil-nature/#TarTheLaw)
-
-    * [2.1.1 概念分析观点](https://plato.stanford.edu/entries/lawphil-nature/#ConAnaVie)
-    * [2.1.2 调查法律本身](https://plato.stanford.edu/entries/lawphil-nature/#InvLawIts)
-    * [2.1.3 元规范性探究观点](https://plato.stanford.edu/entries/lawphil-nature/#MetNorm)
-    * [2.1.4 规范观点](https://plato.stanford.edu/entries/lawphil-nature/#PreVie)
-    * [2.1.5 法律实践的建设性解释](https://plato.stanford.edu/entries/lawphil-nature/#ConIntLegPra)
-  * [2.2 法律理论本质上具有评价性吗？](https://plato.stanford.edu/entries/lawphil-nature/#LegTheInhEva)
-
-    * [ 2.2.1 预备知识](https://plato.stanford.edu/entries/lawphil-nature/#Pre)
-    * [2.2.2 法律理论在相关意义上是评价性的吗？](https://plato.stanford.edu/entries/lawphil-nature/#LegTheEvaRelSen)
-* [ 参考文献](https://plato.stanford.edu/entries/lawphil-nature/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/lawphil-nature/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lawphil-nature/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lawphil-nature/#Rel)
+ 
 
 ---
 

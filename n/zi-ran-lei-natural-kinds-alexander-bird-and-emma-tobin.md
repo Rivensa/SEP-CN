@@ -11,30 +11,7 @@
 
 这篇文章将自然类的哲学讨论分为四个领域：形而上学、认识论、科学哲学和语言哲学。自然类的形而上学问题是问我们是否应该将我们所谓的自然类看作真正的自然类。如果是的话，自然类是什么？最后，自然类是否有本质？科学哲学关注自然类，因为正如上面提到的，正是个别（“特殊”）科学对自然类的使用引发了我们对它们的兴趣。因此，我们可以问，我们最好的科学理论中出现的类别是否确实满足形而上学家提出的自然类理论。语言哲学对自然类感兴趣，因为自然类术语的语义引发了基本问题。例如，如果我们认为给实体命名和描述它是在语义上根本不同的方式来谈论它，我们应该将自然类术语视为像名称还是像描述一样发挥作用？
 
-* [1. 自然类的形而上学](https://plato.stanford.edu/entries/natural-kinds/#MetaNatuKind)
-
-  * [1.1 自然分类](https://plato.stanford.edu/entries/natural-kinds/#NatuClas)
-  * [1.2 自然类现实主义](https://plato.stanford.edu/entries/natural-kinds/#NatuKindReal)
-  * [ 1.3 本质主义](https://plato.stanford.edu/entries/natural-kinds/#Esse)
-  * [1.4 自然类消除主义](https://plato.stanford.edu/entries/natural-kinds/#NatuKindElim)
-* [2. 自然类在特殊科学中](https://plato.stanford.edu/entries/natural-kinds/#NatuKindSpecScie)
-
-  * [2.1 自然类和生物学](https://plato.stanford.edu/entries/natural-kinds/#NatuKindBiol)
-  * [2.2 自然类和化学](https://plato.stanford.edu/entries/natural-kinds/#NatuKindChem)
-  * [2.3 自然类和心理学](https://plato.stanford.edu/entries/natural-kinds/#NatuKindPsyc)
-  * [2.4 自然类和社会科学](https://plato.stanford.edu/entries/natural-kinds/#NatuKindSociScie)
-* [3. 自然类的认识论](https://plato.stanford.edu/entries/natural-kinds/#EpisNatuKind)
-* [4. 自然类术语的语义学](https://plato.stanford.edu/entries/natural-kinds/#SemaNatuKindTerm)
-
-  * [4.1 描述主义和内在主义](https://plato.stanford.edu/entries/natural-kinds/#DescInte)
-  * [4.2 反对描述主义的论证](https://plato.stanford.edu/entries/natural-kinds/#ArguAgaiDesc)
-  * [4.3 直接指称和外在主义](https://plato.stanford.edu/entries/natural-kinds/#DireRefeExte)
-  * [4.4 从指称到本质？](https://plato.stanford.edu/entries/natural-kinds/#RefeEsse)
-* [ 参考文献](https://plato.stanford.edu/entries/natural-kinds/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/natural-kinds/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/natural-kinds/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/natural-kinds/#Rel)
-
+ 
 ---
 
 ## 1. 自然类的形而上学

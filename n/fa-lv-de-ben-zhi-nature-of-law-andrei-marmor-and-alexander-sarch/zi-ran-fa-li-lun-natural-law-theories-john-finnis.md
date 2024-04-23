@@ -10,30 +10,7 @@
 
 简而言之：法律的本质的自然法理论旨在既解释法律的事实性，又回答对于理解法律至关重要的问题。正如格林（Green）2019 年所列举的（他观察到“没有法律哲学家可以仅仅是法律实证主义者”），这些进一步的问题（“法律实证主义并不渴望回答”）包括：什么样的事物可能被视为法律的优点？法律在裁决中应该扮演什么角色？法律对我们的服从有何要求？我们应该拥有哪些法律？我们是否应该拥有法律？尽管这些问题在本文中以稍微不同的方式组织和表达，但都在考虑之中。
 
-* [1. 使积极性成为可能：社会事实成为行动的理由](https://plato.stanford.edu/entries/natural-law-theories/#EnaPosSocFacMadReaForAct)
-
-  * [1.1 基本行动理由和政府权威的必要性](https://plato.stanford.edu/entries/natural-law-theories/#BasReaForActNeeForGovAut)
-  * [1.2 政治权威作为对无政府状态、不公正和贫困的补救措施](https://plato.stanford.edu/entries/natural-law-theories/#PolAutRemForAnaInjImp)
-  * [1.3 法治作为对统治者危险的补救措施](https://plato.stanford.edu/entries/natural-law-theories/#RulLawRemForDanHavRul)
-  * [1.4 Ius gentium—ius cogens—mala in se—人权：法律规则和权利被提出，因为它们是任何法律体系中道德上必要的部分](https://plato.stanford.edu/entries/natural-law-theories/#IusGenCogSehRigLegRulRigPosBecMorNecParAnyLegSys)
-  * [1.5 “纯粹的正面法律”：决定和它们对公民和法官的法律道德权威（事实成为行动的理由）](https://plato.stanford.edu/entries/natural-law-theories/#PurPosLawDetTheLegMorAutForCitJudFacMadReaForAct)
-* [2. 人类个体不是法律的创造物，而是它的适当指向](https://plato.stanford.edu/entries/natural-law-theories/#HumPerNotLawCreButProPoi)
-* [3. 用于纠正有缺陷的正面法律的法律原则](https://plato.stanford.edu/entries/natural-law-theories/#LegPriRemDefPosLaw)
-
-  * [3.1 在排他性和包容性法律实证主义之间进行裁决](https://plato.stanford.edu/entries/natural-law-theories/#AdjBetExcIncLegPos)
-  * [3.2 自然法和（纯粹）实证法作为法律推理的并行维度](https://plato.stanford.edu/entries/natural-law-theories/#NatLawPurPosLawConDimLegRea)
-  * [3.3 法治需求对实证性的影响](https://plato.stanford.edu/entries/natural-law-theories/#ImpRulLawNeeForPos)
-* [4. “Lex iniusta non est lex”? 严重不公正的法律是否具有约束力？在法律上？](https://plato.stanford.edu/entries/natural-law-theories/#LexIniNonEstLexDoSerUnjLawBinLeg)
-* [5. Can general theories of law be value-free? moral-value-free? 法律的一般理论是否可以无价值观？无道德价值观？](https://plato.stanford.edu/entries/natural-law-theories/#GenTheLawValFreMorValFre)
-* [6. Other elements of natural law theory 自然法理论的其他要素](https://plato.stanford.edu/entries/natural-law-theories/#OthEleNatLawThe)
-
-  * [6.1 行动和言语中的意图](https://plato.stanford.edu/entries/natural-law-theories/#IntActUtt)
-  * [6.2 责任和惩罚](https://plato.stanford.edu/entries/natural-law-theories/#ResPun)
-  * [6.3 每个法律体系都是特定政治社群的一部分](https://plato.stanford.edu/entries/natural-law-theories/#EacLegSysForParPolCom)
-* [ 参考文献](https://plato.stanford.edu/entries/natural-law-theories/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/natural-law-theories/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/natural-law-theories/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/natural-law-theories/#Rel)
+ 
 
 ---
 

@@ -4,23 +4,7 @@ _首次发表于2007年12月20日_
 
 没有任何科学作品比牛顿的《自然哲学的数学原理》更引起哲学家们的关注。然而，关注的原因以及关注的焦点在不同世纪间发生了显著变化。在 20 世纪，哲学家们将《自然哲学的数学原理》视为爱因斯坦的广义相对论中引力理论的背景下。主要问题涉及牛顿和爱因斯坦的引力理论之间的关系，以及用后者取代前者对科学知识的性质、范围和限制的影响。相比之下，在 18 世纪的大部分时间里，牛顿的引力理论仍然存在争议，特别是因为缺乏产生引力力的机制，尤其是接触机制。相应地，哲学文献努力澄清和解决争议，无论是支持还是反对将《自然哲学的数学原理》视为方法论上有根据的。到了 18 世纪 90 年代，牛顿的引力理论在轨道力学和物理大地测量学研究中得到了确认，使《自然哲学的数学原理》成为科学最成功的典范。因此，19 世纪哲学界对《自然哲学的数学原理》的兴趣主要集中在牛顿是如何取得这一成功的，部分是为了描述已经取得的知识，部分是为了在其他研究领域追求类似的知识。不幸的是，这三个世纪的哲学文献中有很大一部分都对《自然哲学的数学原理》本身有一个非常简单化的观点。本文的主要目标是用更充分地反映《自然哲学的数学原理》内容和方法论丰富性的观点取代这种简单化的观点。
 
-* [1. 概述：作品的重要性](https://plato.stanford.edu/entries/newton-principia/#OveImpWor)
-* [2. 《自然哲学的数学原理》的历史背景](https://plato.stanford.edu/entries/newton-principia/#HisConPri)
-* [3. 自然哲学的数学原理的三个版本](https://plato.stanford.edu/entries/newton-principia/#ThrEdiPri)
-* [4. “定义”和绝对空间、时间和运动](https://plato.stanford.edu/entries/newton-principia/#DefAbsSpaTimMot)
-* [5. 艾萨克·牛顿的运动定律](https://plato.stanford.edu/entries/newton-principia/#NewLawMot)
-* [6. 自然哲学的数学原理第一册](https://plato.stanford.edu/entries/newton-principia/#Boo1Pri)
-* [7. 自然哲学的数学原理第二册](https://plato.stanford.edu/entries/newton-principia/#Boo2Pri)
-* [8. 自然哲学的数学原理第三册](https://plato.stanford.edu/entries/newton-principia/#Boo3Pri)
-* [9. 自然哲学的数学原理的科学成就](https://plato.stanford.edu/entries/newton-principia/#SciAchPri)
-* [10. 自然哲学的数学原理的方法论](https://plato.stanford.edu/entries/newton-principia/#MetPri)
-* [参考文献](https://plato.stanford.edu/entries/newton-principia/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/newton-principia/#PriSou)
-  * [次要来源](https://plato.stanford.edu/entries/newton-principia/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/newton-principia/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/newton-principia/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/newton-principia/#Rel)
-
+ 
 ***
 
 ## 1. 概述：这项工作的重要性

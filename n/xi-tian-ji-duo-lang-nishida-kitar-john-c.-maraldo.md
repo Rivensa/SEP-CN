@@ -5,37 +5,7 @@
 西田几多郎是二十世纪最重要和有影响力的日本哲学家。他的工作在几个方面具有开创性：它在日本建立了欧美哲学的创造性学科；它通过融入亚洲思想源泉，丰富了这一学科；它为东亚佛教思想的哲学处理提供了新的基础；它产生了关于自我和世界的新理论，对当代哲学和生态学以及物理学的哲学和历史具有重要意义。西田的工作也令人沮丧，因为他的风格常常重复和晦涩，表达过于抽象，调查详细但偶尔陷入死胡同。西田曾经说过他的工作：“我一直是一名矿工，但从未设法提炼出来”（西田1958年：前言）。因此，对他的成就的简明介绍将需要广泛的选择、解释和澄清。
 
 本文以大致按时间顺序介绍西田的工作。我们可以将他的哲学项目整体理解为试图恢复逻辑所赋予经验和意识的严密性、必然性和普遍性。这个项目的发展方向与心理主义截然相反，后者将逻辑归结为个体心智或大脑的偶然性。它也不同于将纯粹逻辑建立为自解释领域的努力，因为西田坚持以经验为起点，这一优先性与胡塞尔的现象学和威廉·詹姆斯的激进经验主义相同。我们可以将他的哲学总体上描述为一种现象学形而上学，因为它将第一人称经验普遍化。它也可以被视为一种逻辑形式的本体论，因为它调查了它们的经验基础，但有一个限定条件：尽管西田提出了这些形式的统一来源，但这个来源既不是排他的也不是积极的；换句话说，这个来源本身不能被单一地描述为一个更基本的形式或物体。西田最终将这个来源称为“无”（虚无），这个概念在亚洲传统中特别突出。他的标志性的“地点逻辑”将绝对虚无表达为一种将世界及其中的一切以及我们概念化它的术语或逻辑形式置于背景中的方式。他的兴趣使他发展出一种文化哲学，而他作为日本首席哲学家的地位使政府官员在 20 世纪 30 年代末和 40 年代初寻求他对日本扩张主义的正当性的证明。他最后的论文重新解释了自我意识的意义，并重述了他关于世界和自我相互反映和创造的非二元论观点。
-
-* [ 1. 传记](https://plato.stanford.edu/entries/nishida-kitaro/#Bio)
-* [2. 经验和意识理论](https://plato.stanford.edu/entries/nishida-kitaro/#TheExpCon)
-
-  * [ 2.1 纯粹经验](https://plato.stanford.edu/entries/nishida-kitaro/#PurExp)
-  * [ 2.2 自我意识](https://plato.stanford.edu/entries/nishida-kitaro/#SelAwa)
-* [3. 通用理论和地点的逻辑](https://plato.stanford.edu/entries/nishida-kitaro/#TheUniLogPla)
-
-  * [3.1 绝对无](https://plato.stanford.edu/entries/nishida-kitaro/#AbsNot)
-  * [3.2 场所逻辑的类比](https://plato.stanford.edu/entries/nishida-kitaro/#AnaLogPla)
-* [4. 历史世界的解释/理论](https://plato.stanford.edu/entries/nishida-kitaro/#TheHisWor)
-
-  * [ 4.1 行动直觉](https://plato.stanford.edu/entries/nishida-kitaro/#EnaInt)
-  * [4.2 关系理论：自我与他者，一与多](https://plato.stanford.edu/entries/nishida-kitaro/#TheRelSelOthOneMan)
-* [5. 西田的神学：有限自我与绝对相遇](https://plato.stanford.edu/entries/nishida-kitaro/#NisTheFinSelMeeAbs)
-* [6. 政治理论：宗教、文化和国家](https://plato.stanford.edu/entries/nishida-kitaro/#PolTheRelCulNat)
-* [7. 西田思想中的方法](https://plato.stanford.edu/entries/nishida-kitaro/#MetNisTho)
-* [8. 西田哲学的统一与发展](https://plato.stanford.edu/entries/nishida-kitaro/#UniDevNis)
-
-  * [8.1 试图统一不同主题的尝试](https://plato.stanford.edu/entries/nishida-kitaro/#AttUniVarThe)
-  * [8.2 西田思想的阶段](https://plato.stanford.edu/entries/nishida-kitaro/#StaNisTho)
-* [9. 西田思想中亚洲哲学的位置](https://plato.stanford.edu/entries/nishida-kitaro/#PlaAsiPhiNisTho)
-* [10. 西田哲学的批判](https://plato.stanford.edu/entries/nishida-kitaro/#CriNis)
-* [11. 西田哲学的影响和持续研究](https://plato.stanford.edu/entries/nishida-kitaro/#NisInf)
-* [ 参考文献](https://plato.stanford.edu/entries/nishida-kitaro/#Bib)
-
-  * [ 西田的著作](https://plato.stanford.edu/entries/nishida-kitaro/#NisWor)
-  * [ 二次文献](https://plato.stanford.edu/entries/nishida-kitaro/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/nishida-kitaro/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nishida-kitaro/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nishida-kitaro/#Rel)
+ 
 
 ---
 

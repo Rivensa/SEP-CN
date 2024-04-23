@@ -7,41 +7,7 @@ _首次发表于2005年2月3日，实质修订于2023年1月31日。_
 中立一元论与许多中立实体或种类的存在是相容的。中立一元论也与非中立实体或种类的存在相容——例如心理和物质实体——只要它们在某种意义上是终极现实的中立内在本质的派生物。大多数中立一元论的版本在这两个方面都是多元主义的。它们被构想为解决心灵-身体问题的方案。它们的目标是通过展示二者都以更基本的中立实体为基础来弥合心理和物质实体之间的明显鸿沟。
 
 因此，任何中立一元论的版本都必须回答以下三个问题：（1）中立实体是什么，它们的本质是什么？（2）这些中立实体与物质的关系是什么？（3）这些中立实体与心灵的关系是什么？
-
-* [1. 中立一元论](https://plato.stanford.edu/entries/neutral-monism/#NeutMoni)
-  * [1.1 中立性](https://plato.stanford.edu/entries/neutral-monism/#Neut)
-  * [1.2 一元论](https://plato.stanford.edu/entries/neutral-monism/#Moni)
-  * [1.3 心灵与物质的再探讨](https://plato.stanford.edu/entries/neutral-monism/#MindMattRevi)
-* [2. 中立一元论的传统版本](https://plato.stanford.edu/entries/neutral-monism/#TradVersNeutMoni)
-  * [2.1 恩斯特·马赫](https://plato.stanford.edu/entries/neutral-monism/#ErnsMach)
-  * [2.2 威廉·詹姆斯](https://plato.stanford.edu/entries/neutral-monism/#WillJame)
-  * [2.3 伯特兰·罗素](https://plato.stanford.edu/entries/neutral-monism/#BertRuss)
-  * [2.4 一些其他早期中立一元论者](https://plato.stanford.edu/entries/neutral-monism/#SomeOtheEarlNeutMoni)
-* [3. 中立一元论的论证](https://plato.stanford.edu/entries/neutral-monism/#CaseForNeutMoni)
-  * [3.1 简约性](https://plato.stanford.edu/entries/neutral-monism/#Pars)
-  * [3.2 心灵-身体问题](https://plato.stanford.edu/entries/neutral-monism/#MindBodyProb)
-  * [3.3 物理学的感知证据](https://plato.stanford.edu/entries/neutral-monism/#PercEvidForPhys)
-  * [3.4 外部世界的知识](https://plato.stanford.edu/entries/neutral-monism/#KnowExteWorl)
-  * [3.5 科学的统一](https://plato.stanford.edu/entries/neutral-monism/#UnitScie)
-* [4. 中立一元论的反对意见](https://plato.stanford.edu/entries/neutral-monism/#ObjeNeutMoni)
-  * [4.1 简化和消除的威胁](https://plato.stanford.edu/entries/neutral-monism/#ReduThreElim)
-  * [4.2 心理主义的怀疑](https://plato.stanford.edu/entries/neutral-monism/#MentSusp)
-  * [4.3 材料主义的怀疑](https://plato.stanford.edu/entries/neutral-monism/#MateSusp)
-  * [4.4 经验的问题](https://plato.stanford.edu/entries/neutral-monism/#ProbExpe)
-  * [4.5 出现的问题](https://plato.stanford.edu/entries/neutral-monism/#ProbEmer)
-  * [4.6 中立一元论的怀疑](https://plato.stanford.edu/entries/neutral-monism/#DualSusp)
-  * [4.7 错误](https://plato.stanford.edu/entries/neutral-monism/#Erro)
-* [5. 中立一元论的新方向](https://plato.stanford.edu/entries/neutral-monism/#NewDireForNeutMoni)
-  * [5.1 信息作为终极现实](https://plato.stanford.edu/entries/neutral-monism/#InfoUltiReal)
-  * [5.2 心灵与物质：仅仅是概念上的区分](https://plato.stanford.edu/entries/neutral-monism/#MindMattMereConcDist)
-  * [5.3 复杂的基本实体](https://plato.stanford.edu/entries/neutral-monism/#CompBasiEnti)
-  * [5.4 中立一元论，全普心理主义和全质量主义](https://plato.stanford.edu/entries/neutral-monism/#RussMoniPanpPanq)
-  * [5.5 现实经验主义：强大的质量](https://plato.stanford.edu/entries/neutral-monism/#RealEmpiPoweQual)
-* [6. 结论性评论](https://plato.stanford.edu/entries/neutral-monism/#ConcRema)
-* [参考文献](https://plato.stanford.edu/entries/neutral-monism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/neutral-monism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/neutral-monism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/neutral-monism/#Rel)
+ 
 
 ***
 

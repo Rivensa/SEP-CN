@@ -8,17 +8,7 @@
 
 玄学旨在揭示道的奥秘，并因此而定义了中国早期中世纪的知识界。然而，它并不是一个党派性的“道家”学派。因此，“玄学”这个标签是含糊的，应该小心对待，尽管它可能方便且广泛使用。玄学包含了各种观点。道的概念提供了一个焦点，但它邀请了多样的解释。玄学在汉朝灭亡后（公元前 206 年至公元 220 年），即魏晋时期（公元 220 年至公元 420 年）的政治动荡时期兴起，当时领先的知识分子重新审视传统，以便得出一个新的秩序蓝图。这引发了激烈的辩论，并为中国哲学的发展开辟了新的方向。接下来的讨论将简要介绍玄学产生影响的背景，并介绍一些主要人物和辩论。
 
-* [ 1. 什么是玄学？](https://plato.stanford.edu/entries/neo-daoism/#WhaXua)
-* [2. 何晏和王弼：道的“无”](https://plato.stanford.edu/entries/neo-daoism/#HeYanWanBiNotDao)
-* [3. 嵇康和阮籍：自然的伦理学](https://plato.stanford.edu/entries/neo-daoism/#JiKanRuaJiEthNat)
-* [4. 郭象：自然、命运和自我实现](https://plato.stanford.edu/entries/neo-daoism/#GuoXiaNatDesSelRea)
-* [5. 能力和本性、言辞和意义，以及关于自然性的辩论](https://plato.stanford.edu/entries/neo-daoism/#CapNatWorMeaDebNat)
-* [ 6. 总结说明](https://plato.stanford.edu/entries/neo-daoism/#ConRem)
-* [ 参考文献](https://plato.stanford.edu/entries/neo-daoism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/neo-daoism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/neo-daoism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/neo-daoism/#Rel)
-
+ 
 ---
 
 ## 1. 什么是玄学？

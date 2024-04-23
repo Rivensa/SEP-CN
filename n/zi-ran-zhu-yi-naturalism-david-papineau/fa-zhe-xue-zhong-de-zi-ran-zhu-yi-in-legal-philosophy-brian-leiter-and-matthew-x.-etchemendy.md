@@ -6,20 +6,7 @@
 
 这些自然主义的各种形式在法哲学中都有应用。在法哲学中，替代形式的 M-自然主义认为：（1）对法律概念的概念分析应该被依赖于对法律现象的最佳社会科学解释所取代，以及（2）对裁决的规范理论应该被经验理论所取代。这些观点与美国法律现实主义和布莱恩·莱特对现实主义的重新解释有关。相比之下，规范 M-自然主义者受到阿尔文·戈德曼的启发和引领，试图将经验结果应用于关于裁决、法律证据和发现规则、对抗性程序等哲学和基础性问题。最后，S-自然主义在斯堪的纳维亚法律现实主义者的著作中占据了最重要的地位（在英语国家的法学中自然主义复兴之前就已存在），他们的本体论 S-自然主义使他们采用了一系列熟悉的自然主义驱动的解释策略，包括对法律概念的自然主义还原和对法律话语重要方面的非认知主义解释。S-自然主义也可以作为英美法学传统中法律实证主义的动机之一。与大卫·布林克和迈克尔·摩尔（以及其他人）所辩护的一种自然法理论的复兴相关的最新形式的 S-自然主义将“新的”或“因果”参照理论应用于法律解释问题，包括道德概念在法律规则中的解释。
 
-* [1. 自然主义的种类：方法论和实质性](https://plato.stanford.edu/entries/lawphil-naturalism/#VariNatuMethSubs)
-* [2. 替代自然主义 I：反对概念分析](https://plato.stanford.edu/entries/lawphil-naturalism/#ReplNatuIAgaiConcAnal)
-* [3. 替代自然主义 II：美国法律现实主义](https://plato.stanford.edu/entries/lawphil-naturalism/#ReplNatuIIAmerLegaReal)
-* [ 4. 规范自然主义](https://plato.stanford.edu/entries/lawphil-naturalism/#NormNatu)
-* [5. 实质自然主义](https://plato.stanford.edu/entries/lawphil-naturalism/#SubsNatu)
-
-  * [5.1 斯堪的纳维亚法律现实主义](https://plato.stanford.edu/entries/lawphil-naturalism/#ScanLegaReal)
-  * [ 5.2 法律实证主义](https://plato.stanford.edu/entries/lawphil-naturalism/#LegaPosi)
-  * [5.3 S-自然主义、法律和指称的因果理论](https://plato.stanford.edu/entries/lawphil-naturalism/#SNatuLawCausTheoRefe)
-* [ 参考书目](https://plato.stanford.edu/entries/lawphil-naturalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/lawphil-naturalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lawphil-naturalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lawphil-naturalism/#Rel)
-
+ 
 ---
 
 ## 1. 自然主义的多样性：方法论和实质性

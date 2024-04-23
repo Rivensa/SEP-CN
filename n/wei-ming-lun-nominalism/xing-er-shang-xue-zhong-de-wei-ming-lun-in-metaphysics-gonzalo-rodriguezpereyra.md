@@ -4,21 +4,7 @@ _首次发表于2008年2月11日；实质修订于2015年4月1日。_
 
 唯名论至少有两种形式。其中一种是对抽象对象的否定，另一种是对普遍性的否定。哲学家们经常发现有必要假设抽象对象或普遍性。因此，唯名论在至少中世纪以来的形而上学辩论中发挥了重要作用，当时引入了第二种唯名论的版本。这两种唯名论是相互独立的，可以单独持有其中一种而保持一致。然而，这两种形式的唯名论都有一些共同的动机和论证。本条目概述了这两种形式的唯名论理论。
 
-* [1. 什么是唯名论？](https://plato.stanford.edu/entries/nominalism-metaphysics/#WhaNom)
-* [2. 抽象对象和普遍性](https://plato.stanford.edu/entries/nominalism-metaphysics/#AbsObjUni)
-  * [2.1 抽象对象](https://plato.stanford.edu/entries/nominalism-metaphysics/#AbsObj)
-  * [2.2 通性](https://plato.stanford.edu/entries/nominalism-metaphysics/#Uni)
-* [3. 反对抽象对象和通性的论证](https://plato.stanford.edu/entries/nominalism-metaphysics/#ArgAgaAbsObjUni)
-* [4. 唯名论的种类](https://plato.stanford.edu/entries/nominalism-metaphysics/#VarNom)
-  * [4.1 关于普遍性的唯名论](https://plato.stanford.edu/entries/nominalism-metaphysics/#NomAboUni)
-  * [4.2 关于抽象对象的唯名论](https://plato.stanford.edu/entries/nominalism-metaphysics/#NomAboAbsObj)
-    * [4.2.1 唯名论关于命题](https://plato.stanford.edu/entries/nominalism-metaphysics/#NomAboPro)
-    * [4.2.2 唯名论关于可能世界](https://plato.stanford.edu/entries/nominalism-metaphysics/#NomAboPosWor)
-* [参考文献](https://plato.stanford.edu/entries/nominalism-metaphysics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/nominalism-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nominalism-metaphysics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/nominalism-metaphysics/#Rel)
-
+ 
 ***
 
 ## 1. 什么是唯名论？

@@ -6,27 +6,7 @@
 
 问题引发了一个问题，即一个行动者所带来的（通常是显著的）好处是否能够抵消一个行动者所带来的（通常是有限的）不利之处，以及这种不可避免的有缺陷的存在是否使我们的引发存在的行为（通常）被认为是可允许的。如果不是这样的话 - 如果我们认为尽管存在带来了好处，但义务仍未得到满足 - 那么这个故事的道德是什么，道德义务是否超越了为人们创造更好的事物？换句话说，如果我们同意，我们有义务创造额外的好处，那么为每个现有和未来的人创造额外的好处是否足够？或者非同一性问题是否表明我们的义务也扩展到为可能的人创造额外的好处 - 或者更一般地说，为宇宙创造额外的好处？当我们询问如何评估引发存在的行为的道德可允许性时 - 也许，作为一个先决条件，如何确定一个结果，或者可能的未来或世界，是否在综合考虑下比另一个世界更好 - 我们发现，我们对道德的本质和结构的一些最深入的直觉被置于怀疑之中。
 
-* [ 1. 问题](https://plato.stanford.edu/entries/nonidentity-problem/#Prob)
-* [2. 非同一性案例](https://plato.stanford.edu/entries/nonidentity-problem/#NoniCase)
-
-  * [ 2.1 耗尽](https://plato.stanford.edu/entries/nonidentity-problem/#Depl)
-  * [2.2 奴隶孩子](https://plato.stanford.edu/entries/nonidentity-problem/#SlavChil)
-  * [2.3 14 岁的女孩](https://plato.stanford.edu/entries/nonidentity-problem/#N14YearOldGirl)
-  * [ 2.4 非法生命](https://plato.stanford.edu/entries/nonidentity-problem/#WronLife)
-  * [ 2.5 历史不公正](https://plato.stanford.edu/entries/nonidentity-problem/#HistInju)
-* [3. 针对非同一性问题的提出的解决方案](https://plato.stanford.edu/entries/nonidentity-problem/#PropSoluNoniProb)
-
-  * [3.1 看似错误的行为并不是错误的；“咬紧牙关”](https://plato.stanford.edu/entries/nonidentity-problem/#SeemWronActNotWronBitiBull)
-  * [3.2 行为对任何现有或未来的人都没有造成更糟糕的后果；非个人的错误行为](https://plato.stanford.edu/entries/nonidentity-problem/#ActWronWithMakiThinWorsForAnyExisFutuPersImpeWron)
-  * [3.3 行为对个人造成了伤害或损害，或者对个人来说是不好的，而不会使个人变得更糟糕](https://plato.stanford.edu/entries/nonidentity-problem/#ActWronHarmBadForPersWithMakiPersWorsOff)
-  * [3.5 非同一性问题根源于计算相关概率的错误](https://plato.stanford.edu/entries/nonidentity-problem/#NoniProbRootMistCalcReleProb)
-  * [3.6 行为错误是由于行动者的理由、态度和意图](https://plato.stanford.edu/entries/nonidentity-problem/#ActWronVirtAgenReasAttiInte)
-* [4. 对基于个人直觉的进一步挑战](https://plato.stanford.edu/entries/nonidentity-problem/#FurtChalPersBaseIntu)
-* [ 参考文献](https://plato.stanford.edu/entries/nonidentity-problem/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/nonidentity-problem/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nonidentity-problem/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nonidentity-problem/#Rel)
-
+ 
 ---
 
 ## 1. 问题

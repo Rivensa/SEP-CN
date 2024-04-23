@@ -7,19 +7,7 @@
 文献将“神经科学哲学”与“神经哲学”区分开来已有二十年之久。前者涉及神经科学中的基础性问题。后者涉及将神经科学概念应用于传统哲学问题。探索神经科学理论中所使用的各种表征概念就是前者的一个例子。研究神经症候群对统一自我概念的影响就是后者的一个例子。在本文中，我们将进一步发展这种区别，并讨论两者的例子。正如该领域历史上发生的那样，这两个领域的工作遍布下面的大部分章节。我们将尽量指明具有里程碑意义的工作属于哪个领域，当这个位置不明显时。
 
 在神经科学哲学或神经哲学领域工作的一个令人兴奋的方面是持续的惊喜元素。这两个领域完全依赖于神经科学的发展，而人们根本不知道这个快速发展的科学领域会有什么新的突破。去年的科幻小说今年可能就成为了科学现实。但是这个特点使得每隔半个十年更新一次的百科全书条目变得难以管理。哲学家们在过去的更新中反思的科学细节现在可能已经过时了。然而，人们也希望能够记录下这些领域的一些历史。我们对这个困境的解决方案是保留以前的讨论，以反映历史，但是在较新的科学和哲学更新中添加到以后的条目中，并且也穿插在早期的讨论中。这并不总是一个完美的解决方案，但它确实保留了神经科学哲学和神经哲学的历史，以应对这些哲学领域所依赖的科学的不断进步。
-
-* [1. 神经哲学之前和之后](https://plato.stanford.edu/entries/neuroscience/#BefoAfteNeur)
-* [2. 排除唯物主义和神经哲学](https://plato.stanford.edu/entries/neuroscience/#ElimMatePhilNeur)
-* [3. 神经科学和心理语义学](https://plato.stanford.edu/entries/neuroscience/#NeurPsyc)
-* [4. 解释意识？](https://plato.stanford.edu/entries/neuroscience/#ConsExpl)
-* [5. 定位认知功能：从损伤研究到功能性神经影像学](https://plato.stanford.edu/entries/neuroscience/#LocaCognFuncLesiStudFuncNeur)
-* [6. 神经伦理学研究思想的结果：哲学对认知和计算神经科学的强调](https://plato.stanford.edu/entries/neuroscience/#ResuCoEvolReseIdeoPhilEmphCognCompNeur)
-* [7. 神经科学哲学的发展](https://plato.stanford.edu/entries/neuroscience/#DevePhilNeur)
-* [8. 21 世纪第二个十年的发展](https://plato.stanford.edu/entries/neuroscience/#DeveOverSecoDecaTwenFirsCent)
-* [ 参考文献](https://plato.stanford.edu/entries/neuroscience/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/neuroscience/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/neuroscience/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/neuroscience/#Rel)
+ 
 
 ---
 
